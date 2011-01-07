@@ -2,7 +2,7 @@
 
 #### (a) Creation; deposits; fund transfers
 
-There is hereby created on the books of the Treasury of the United States a trust fund to be known as the “Federal Supplementary Medical Insurance Trust Fund” (hereinafter in this section referred to as the “Trust Fund”). The Trust Fund shall consist of such gifts and bequests as may be made as provided in section 401(i)(1) of this title, such amounts as may be deposited in, or appropriated to, such fund as provided in this part, and such amounts as may be deposited in, or appropriated to, the Medicare Prescription Drug Account established by section 1395w–116 of this title or the Transitional Assistance Account established by section 1395w–141(k)(1) of this title.
+There is hereby created on the books of the Treasury of the United States a trust fund to be known as the “Federal Supplementary Medical Insurance Trust Fund” (hereinafter in this section referred to as the “Trust Fund”). The Trust Fund shall consist of such gifts and bequests as may be made as provided in section 401(i)(1) of this title, such amounts as may be deposited in, or appropriated to, such fund as provided in this part or section 9008(c) <sup>1</sup> of the Patient Protection and Affordable Care Act of 2009, and such amounts as may be deposited in, or appropriated to, the Medicare Prescription Drug Account established by section 1395w–116 of this title or the Transitional Assistance Account established by section 1395w–141(k)(1) of this title.
 
 #### (b) Board of Trustees; composition; meetings; duties
 
@@ -10,7 +10,7 @@ With respect to the Trust Fund, there is hereby created a body to be known as th
 
 &emsp;(1) Hold the Trust Fund;
 
-&emsp;(2) Report to the Congress not later than the first day of April of each year on the operation and status of the Trust Fund during the preceding fiscal year and on its expected operation and status during the current fiscal year and the next 2 fiscal years; Each report provided under paragraph (2) beginning with the report in 2005 shall include the information specified in section 801(a) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.<sup>1</sup>
+&emsp;(2) Report to the Congress not later than the first day of April of each year on the operation and status of the Trust Fund during the preceding fiscal year and on its expected operation and status during the current fiscal year and the next 2 fiscal years; Each report provided under paragraph (2) beginning with the report in 2005 shall include the information specified in section 801(a) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.<sup>2</sup>
 
 &emsp;(3) Report immediately to the Congress whenever the Board is of the opinion that the amount of the Trust Fund is unduly small; and
 
@@ -20,7 +20,7 @@ With respect to the Trust Fund, there is hereby created a body to be known as th
 
 #### (c) Investment of Trust Fund by Managing Trustee
 
-It shall be the duty of the Managing Trustee to invest such portion of the Trust Fund as is not, in his judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. For such purpose such obligations may be acquired (1) on original issue at the issue price, or (2) by purchase of outstanding obligations at the market price. The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are hereby extended to authorize the issuance at par of public-debt obligations for purchase by the Trust Fund. Such obligations issued for purchase by the Trust Fund shall have maturities fixed with due regard for the needs of the Trust Fund and shall bear interest at a rate equal to the average market yield (computed by the Managing Trustee on the basis of market quotations as of the end of the calendar month next preceding the date of such issue) on all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable until after the expiration of 4 years from the end of such calendar month; except that where such average market yield is not a multiple of one-eighth of 1 per centum, the rate of interest on such obligations shall be the multiple of one-eighth of 1 per centum nearest such market yield. The Managing Trustee may purchase other interest-bearing obligations of the United States or obligations guaranteed as to both principal and interest by the United States, on original issue or at the market price, only where he determines that the purchase of such other obligations is in the public interest.
+It shall be the duty of the Managing Trustee to invest such portion of the Trust Fund as is not, in his judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. For such purpose such obligations may be acquired (1) on original issue at the issue price, or (2) by purchase of outstanding obligations at the market price. The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are hereby extended to authorize the issuance at par of public-debt obligations for purchase by the Trust Fund. Such obligations issued for purchase by the Trust Fund shall have maturities fixed with due regard for the needs of the Trust Fund and shall bear interest at a rate equal to the average market yield (computed by the Managing Trustee on the basis of market quotations as of the end of the calendar month next preceding the date of such issue) on all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable until after the expiration of 4 years from the end of such calendar month; except that where such average market yield is not a multiple of one-eighth of 1 per centum, the rate of interest onsuch obligations shall be the multiple of one-eighth of 1 per centum nearest such market yield. The Managing Trustee may purchase other interest-bearing obligations of the United States or obligations guaranteed as to both principal and interest by the United States, on original issue or at the market price, only where he determines that the purchase of such other obligations is in the public interest.
 
 #### (d) Authority of Managing Trustee to sell obligations
 
@@ -44,11 +44,13 @@ The Managing Trustee shall pay from time to time from the Trust Fund such amount
 
 #### (i) Payments from Trust Fund of costs incurred by Railroad Retirement Board
 
-The Managing Trustee shall pay from time to time from the Trust Fund such amounts as theSecretary of Health and Human Services certifies are necessary to pay the costs incurred by the Railroad Retirement Board for services performed pursuant to section 1395s(b)(1) and section 1395u(g) of this title and pursuant to sections 1395w–113(c)(1) and 1395w–24(d)(2)(A) of this title (in which case payments shall be made in appropriate part from the Medicare Prescription Drug Account in the Trust Fund). During each fiscal year or after the close of such fiscal year, the Railroad Retirement Board shall certify to the Secretary the amount of the costs it incurred in performing such services and such certified amount shall be the basis for the amount of such costs certified by the Secretary to the Managing Trustee.
+The Managing Trustee shall pay from time to time from the Trust Fund such amounts as the Secretary of Health and Human Services certifies are necessary to pay the costs incurred by the Railroad Retirement Board for services performed pursuant to section 1395s(b)(1) and section 1395u(g) of this title and pursuant to sections 1395w–113(c)(1) and 1395w–24(d)(2)(A) of this title (in which case payments shall be made in appropriate part from the Medicare Prescription Drug Account in the Trust Fund). During each fiscal year or after the close of such fiscal year, the Railroad Retirement Board shall certify to the Secretary the amount of the costs it incurred in performing such services and such certified amount shall be the basis for the amount of such costs certified by the Secretary to the Managing Trustee.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1841, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 308; amended Pub. L. 90–248, title I, §169(a), Jan. 2, 1968, 81 Stat. 875; Pub. L. 92–603, title I, §132(e), title II, §263(d)(4), (e), Oct. 30, 1972, 86 Stat. 1361, 1449; Pub. L. 95–292, §5, June 13, 1978, 92 Stat. 315; Pub. L. 98–21, title I, §154(c), title III, §341(c), Apr. 20, 1983, 97 Stat. 107, 135; Pub. L. 98–369, div. B, title III, §2354(b)(2), (11), (12), title VI, §2663(j)(2)(F)(iii), July 18, 1984, 98 Stat. 1100, 1101, 1170; Pub. L. 99–272, title IX, §9213(b), Apr. 7, 1986, 100 Stat. 180; Pub. L. 100–360, title II, §212(b)(2), (c)(4), July 1, 1988, 102 Stat. 740, 741; Pub. L. 100–647, title VIII, §8005(a), Nov. 10, 1988, 102 Stat. 3781; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 103–296, title I, §108(c)(3), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 108–173, title I, §§101(e)(3)(C), 105(d), title VIII, §801(d)(2), title IX, §900(e)(1)(E), Dec. 8, 2003, 117 Stat. 2151, 2166, 2359, 2371.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1841, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 308; amended Pub. L. 90–248, title I, §169(a), Jan. 2, 1968, 81 Stat. 875; Pub. L. 92–603, title I, §132(e), title II, §263(d)(4), (e), Oct. 30, 1972, 86 Stat. 1361, 1449; Pub. L. 95–292, §5, June 13, 1978, 92 Stat. 315; Pub. L. 98–21, title I, §154(c), title III, §341(c), Apr. 20, 1983, 97 Stat. 107, 135; Pub. L. 98–369, div. B, title III, §2354(b)(2), (11), (12), title VI, §2663(j)(2)(F)(iii), July 18, 1984, 98 Stat. 1100, 1101, 1170; Pub. L. 99–272, title IX, §9213(b), Apr. 7, 1986, 100 Stat. 180; Pub. L. 100–360, title II, §212(b)(2), (c)(4), July 1, 1988, 102 Stat. 740, 741; Pub. L. 100–647, title VIII, §8005(a), Nov. 10, 1988, 102 Stat. 3781; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 103–296, title I, §108(c)(3), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 108–173, title I, §§101(e)(3)(C), 105(d), title VIII, §801(d)(2), title IX, §900(e)(1)(E), Dec. 8, 2003, 117 Stat. 2151, 2166, 2359, 2371; Pub. L. 111–148, title IX, §9008(k), Mar. 23, 2010, 124 Stat. 862.)
 
 #### References in Text
+
+Section 9008(c) of the Patient Protection and Affordable Care Act of 2009, referred to in subsec. (a), probably means section 9008(c) of Pub. L. 111–148, known as the Patient Protection and Affordable Care Act, which is set out as a note preceding section 4001 of Title 26, Internal Revenue Code.
 
 Section 801(a) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec. (b)(2), is section 801(a) of Pub. L. 108–173, which is set out as a note under section 1395i of this title.
 
@@ -56,7 +58,9 @@ Part D of this subchapter, referred to in subsec. (g), is classified to section 
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–173, §105(d)(1), inserted “or the Transitional Assistance Account established by section 1395w–141(k)(1) of this title” after “section 1395w–116 of this title”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–148 inserted “or section 9008(c) of the Patient Protection and Affordable Care Act of 2009” after “this part”.
+
+<b>2003</b>—Subsec. (a). Pub. L. 108–173, §105(d)(1), inserted “or the Transitional Assistance Account established by section 1395w–141(k)(1) of this title” after “section 1395w–116 of this title”.
 
 Pub. L. 108–173, §101(e)(3)(C)(i), substituted “section 401(i)(1) of this title,” for “section 401(i)(1) of this title, and” and inserted “, and such amounts as may be deposited in, or appropriated to, the Medicare Prescription Drug Account established by section 1395w–116 of this title” before period at end.
 
@@ -72,19 +76,19 @@ Subsec. (h). Pub. L. 108–173, §101(e)(3)(C)(iii), inserted “or pursuant to 
 
 Subsec. (i). Pub. L. 108–173, §101(e)(3)(C)(iv), inserted “and pursuant to sections 1395w–113(c)(1) and 1395w–24(d)(2)(A) of this title (in which case payments shall be made in appropriate part from the Medicare Prescription Drug Account in the Trust Fund)” after “section 1395u(g) of this title”.
 
-1994—Subsec. (b). Pub. L. 103–296 inserted “the Commissioner of Social Security,” after “composed of” in introductory provisions.
+<b>1994</b>—Subsec. (b). Pub. L. 103–296 inserted “the Commissioner of Social Security,” after “composed of” in introductory provisions.
 
-1989—Subsecs. (a), (b). Pub. L. 101–234 repealed Pub. L. 100–360, §212(b)(2), (c)(4), and provided that the provisions of law amended or repealed by such section are restored or revised as if such section had not been enacted, see 1988 Amendment notes below.
+<b>1989</b>—Subsecs. (a), (b). Pub. L. 101–234 repealed Pub. L. 100–360, §212(b)(2), (c)(4), and provided that the provisions of law amended or repealed by such section are restored or revised as if such section had not been enacted, see 1988 Amendment notes below.
 
-1988—Subsec. (a). Pub. L. 100–360, §212(b)(2), inserted three sentences at end providing for transfer of supplemental catastrophic coverage premiums into the Federal Supplementary Medical Insurance Trust Fund.
+<b>1988</b>—Subsec. (a). Pub. L. 100–360, §212(b)(2), inserted three sentences at end providing for transfer of supplemental catastrophic coverage premiums into the Federal Supplementary Medical Insurance Trust Fund.
 
 Subsec. (b). Pub. L. 100–647 inserted after first sentence “A member of the Board of Trustees serving as a member of the public and nominated and confirmed to fill a vacancy occurring during a term shall be nominated and confirmed only for the remainder of such term. An individual nominated and confirmed as a member of the public may serve in such position after the expiration of such member's term until the earlier of the time at which the member's successor takes office or the time at which a report of the Board is first issued under paragraph (2) after the expiration of the member's term.”
 
 Pub. L. 100–360, §212(c)(4), inserted after sixth sentence “Such report shall also identify (and treat separately) those receipts and outlays in the Trust Fund which are also receipts and outlays in the Medicare Catastrophic Coverage Account created under section 1395t–2 of this title.”
 
-1986—Subsec. (b). Pub. L. 99–272 struck out provision at end of penultimate sentence that the certification shall not refer to economic assumptions underlying Trustee's report.
+<b>1986</b>—Subsec. (b). Pub. L. 99–272 struck out provision at end of penultimate sentence that the certification shall not refer to economic assumptions underlying Trustee's report.
 
-1984—Subsec. (c). Pub. L. 98–369, §2354(b)(2), substituted “under chapter 31 of title 31” for “under the Second Liberty Bond Act, as amended”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–369, §2354(b)(2), substituted “under chapter 31 of title 31” for “under the Second Liberty Bond Act, as amended”.
 
 Subsecs. (f), (g). Pub. L. 98–369, §2663(j)(2)(F)(iii), substituted “Health and Human Services” for “Health, Education, and Welfare” wherever appearing.
 
@@ -96,21 +100,21 @@ Pub. L. 98–369, §2354(b)(12), substituted “the Director” for “it”.
 
 Subsec. (i). Pub. L. 98–369, §2663(j)(2)(F)(iii), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-1983—Subsec. (b). Pub. L. 98–21, §341(c)(1), substituted “Secretary of Health and Human Services, all ex officio, and of two members of the public (both of whom may not be from the same political party), who shall be nominated by the President for a term of four years and subject to confirmation by the Senate” for “Secretary of Health, Education, and Welfare, all ex officio” in provisions preceding par. (1).
+<b>1983</b>—Subsec. (b). Pub. L. 98–21, §341(c)(1), substituted “Secretary of Health and Human Services, all ex officio, and of two members of the public (both of whom may not be from the same political party), who shall be nominated by the President for a term of four years and subject to confirmation by the Senate” for “Secretary of Health, Education, and Welfare, all ex officio” in provisions preceding par. (1).
 
-Pub. L. 98–21, §154(c), inserted at end provision that the report referred to in par. (2) shall also include an actuarial opinion by the Chief Actuarial Officer of the Health Care Financing Administration certifying thatthe techniques and methodologies used are generally accepted within the actuarial profession and that the assumptions and cost estimates used are reasonable, and provided further that the certification shall not refer to economic assumptions underlying the Trustee's report.
+Pub. L. 98–21, §154(c), inserted at end provision that the report referred to in par. (2) shall also include an actuarial opinion by the Chief Actuarial Officer of the Health Care Financing Administration certifying that the techniques and methodologies used are generally accepted within the actuarial profession and that the assumptions and cost estimates used are reasonable, and provided further that the certification shall not refer to economic assumptions underlying the Trustee's report.
 
 Pub. L. 98–21, §341(c)(2), inserted at end provision that a person serving on the Board of Trustees shall not be considered to be a fiduciary and shall not be personally liable for actions taken in such capacity with respect to the Trust Fund.
 
-1978—Subsec. (b). Pub. L. 95–292 substituted “Administrator of the Health Care Financing Administration” for “Commissioner of Social Security” in provisions preceding par. (1).
+<b>1978</b>—Subsec. (b). Pub. L. 95–292 substituted “Administrator of the Health Care Financing Administration” for “Commissioner of Social Security” in provisions preceding par. (1).
 
-1972—Subsec. (a). Pub. L. 92–603, §132(e), inserted “such gifts and bequests as may be made as provided in section 401(i)(1) of this title, and” after “consist of” and before “such amounts”.
+<b>1972</b>—Subsec. (a). Pub. L. 92–603, §132(e), inserted “such gifts and bequests as may be made as provided in section 401(i)(1) of this title, and” after “consist of” and before “such amounts”.
 
 Subsec. (h). Pub. L. 92–603, §263(d)(4), substituted “1395s(d)” for “1395s(e)”.
 
 Subsec. (i). Pub. L. 92–603, §263(e), added subsec. (i).
 
-1968—Subsec. (b)(2). Pub. L. 90–248 substituted “April” for “March”.
+<b>1968</b>—Subsec. (b)(2). Pub. L. 90–248 substituted “April” for “March”.
 
 #### Effective Date of 1994 Amendment
 
@@ -126,7 +130,7 @@ Amendment by Pub. L. 100–647 applicable to members of Board of Trustees of Fed
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 2354(b)(2), (11), (12) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
+Amendment by section 2354(b)(2), (11), (12) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of lawinvolved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
 
 Amendment by section 2663(j)(2)(F)(iii) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
@@ -152,5 +156,7 @@ Section 102(c) of Pub. L. 101–234 provided that: “Any balance in the Federal
 
 Notwithstanding subsec. (b)(2) of this section, the annual report of the Board of Trustees of the Trust Fund required for calendar year 1983 under this section may be filed at any time not later than forty-five days after Apr. 20, 1983, see section 154(d) of Pub. L. 98–21, set out as a note under section 401 of this title.
 
-<i><sup>1</sup></i><i> So in original. See 2003 Amendment note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. See 2003 Amendment note below.</i>
 

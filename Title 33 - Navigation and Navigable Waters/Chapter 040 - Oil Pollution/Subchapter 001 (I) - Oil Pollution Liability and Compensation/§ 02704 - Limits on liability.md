@@ -22,7 +22,7 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 &emsp;&emsp;&emsp;(II) a vessel described in subparagraph (B), $4,000,000;
 
-&emsp;(2) for any other vessel, $950 per gross ton or $800,000,,<sup>1</sup> whichever is greater;
+&emsp;(2) for any other vessel, $950 per gross ton or $800,000, whichever is greater;
 
 &emsp;(3) for an offshore facility except a deepwater port, the total of all removal costs plus $75,000,000; and
 
@@ -32,7 +32,7 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 #### (1) Treated first as tank vessel
 
-&emsp;For purposes of determining the responsible party and applying this Act and except as provided in paragraph (2), a mobile offshore drilling unit which is being used as an offshore facility is deemed to be a tank vessel with respect to the discharge, or the substantialthreat of a discharge, of oil on or above the surface of the water.
+&emsp;For purposes of determining the responsible party and applying this Act and except as provided in paragraph (2), a mobile offshore drilling unit which is being used as an offshore facility is deemed to be a tank vessel with respect to the discharge, or the substantial threat of a discharge, of oil on or above the surface of the water.
 
 #### (2) Treated as facility for excess liability
 
@@ -62,7 +62,7 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 #### (3) OCS facility or vessel
 
-&emsp;Notwithstanding the limitations established under subsection (a) of this section and the defenses of section 2703 of this title, all removal costs incurred by the United States Government or any State or local official or agency in connection with a discharge or substantial threat of a discharge of oil from any Outer Continental Shelf facility or a vessel carrying oil as cargo from such a facility shall be borne by the owner or operator of such facility or vessel.
+&emsp;Notwithstanding the limitations established under subsection (a) of this section and the defenses of section 2703 of this title, all removalcosts incurred by the United States Government or any State or local official or agency in connection with a discharge or substantial threat of a discharge of oil from any Outer Continental Shelf facility or a vessel carrying oil as cargo from such a facility shall be borne by the owner or operator of such facility or vessel.
 
 #### (4) Certain tank vessels
 
@@ -100,7 +100,7 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 &emsp;The President, by regulations issued not later than 3 years after July 11, 2006, and not less than every 3 years thereafter, shall adjust the limits on liability specified in subsection (a) to reflect significant increases in the Consumer Price Index.
 
-(Pub. L. 101–380, title I, §1004, Aug. 18, 1990, 104 Stat. 491; Pub. L. 104–55, §2(d)(1), Nov. 20, 1995,109 Stat. 546; Pub. L. 105–383, title IV, §406, Nov. 13, 1998, 112 Stat. 3429; Pub. L. 109–241, title VI, §603(a)(1), (2), (b), July 11, 2006, 120 Stat. 553, 554.)
+(Pub. L. 101–380, title I, §1004, Aug. 18, 1990, 104 Stat. 491; Pub. L. 104–55, §2(d)(1), Nov. 20, 1995, 109 Stat. 546; Pub. L. 105–383, title IV, §406, Nov. 13, 1998, 112 Stat. 3429; Pub. L. 109–241, title VI, §603(a)(1), (2), (b), July 11, 2006, 120 Stat. 553, 554; Pub. L. 111–281, title IX, §903(a)(2), (e)(1), Oct. 15, 2010, 124 Stat. 3010, 3011.)
 
 #### References in Text
 
@@ -110,7 +110,11 @@ The Intervention on the High Seas Act, referred to in subsec. (c)(2)(C), is Pub.
 
 #### Amendments
 
-2006—Subsec. (a)(1)(A) to (C). Pub. L. 109–241, §603(a)(1), added subpars. (A) to (C) and struck out former subpars. (A) and (B), which read as follows:
+<b>2010</b>—Subsec. (a)(2). Pub. L. 111–281, §903(e)(1), struck out first comma after “$800,000”.
+
+Pub. L. 111–281, §903(a)(2), made technical amendment to directory language of Pub. L. 109–241, §603(a)(2). See 2006 Amendment note below.
+
+<b>2006</b>—Subsec. (a)(1)(A) to (C). Pub. L. 109–241, §603(a)(1), added subpars. (A) to (C) and struck out former subpars. (A) and (B), which read as follows:
 
 “(A) $1,200 per gross ton; or
 
@@ -118,15 +122,19 @@ The Intervention on the High Seas Act, referred to in subsec. (c)(2)(C), is Pub.
 
 “(ii) in the case of a vessel of 3,000 gross tons or less, $2,000,000;”.
 
-Subsec. (a)(2). Pub. L. 109–241, §603(a)(2), substituted “$950 per gross ton” for “$600 per gross ton” and “$800,000,” for “$500,000”.
+Subsec. (a)(2). Pub. L. 109–241, §603(a)(2), as amended by Pub. L. 111–281, §903(a)(2), substituted “$950 per gross ton” for “$600 per gross ton” and “$800,000,” for “$500,000”.
 
 Subsec. (d)(4). Pub. L. 109–241, §603(b), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “The President shall, by regulations issued not less often than every 3 years, adjust the limits of liability specified in subsection (a) of this section to reflect significant increases in the Consumer Price Index.”
 
-1998—Subsec. (a)(1). Pub. L. 105–383, §406(1), substituted comma for “(except a tank vessel on which the only oil carried as cargo is an animal fat or vegetable oil, as those terms are used in section 2720 of this title)” after “tank vessel”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–383, §406(1), substituted comma for “(except a tank vessel on which the only oil carried as cargo is an animal fat or vegetable oil, as those terms are used in section 2720 of this title)” after “tank vessel”.
 
 Subsec. (c)(4). Pub. L. 105–383, §406(2), added par. (4).
 
-1995—Subsec. (a)(1). Pub. L. 104–55 substituted “for a tank vessel (except a tank vessel on which the only oil carried as cargo is an animal fat or vegetable oil, as those terms are used in section 2720 of this title)” for “for a tank vessel,”.
+<b>1995</b>—Subsec. (a)(1). Pub. L. 104–55 substituted “for a tank vessel (except a tank vessel on which the only oil carried as cargo is an animal fat or vegetable oil, as those terms are used in section 2720 of this title)” for “for a tank vessel,”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–281, title IX, §903(a), Oct. 15, 2010, 124 Stat. 3010, provided that the amendment by section 903(a)(2) is effective with enactment of Pub. L. 109–241.
 
 #### Effective Date of 2006 Amendment
 
@@ -157,8 +165,6 @@ Contents.—The report shall include, at a minimum, the following:
 “(3)
 
 Annual updates.—The Secretary shall provide an update of the report to the Committees referred to in paragraph (1) on an annual basis.”
-
-<i><sup>1</sup></i><i> So in original. The second comma probably should not appear.</i>
 
 <i><sup>2</sup></i><i> So in original. The word “this” probably should not appear.</i>
 

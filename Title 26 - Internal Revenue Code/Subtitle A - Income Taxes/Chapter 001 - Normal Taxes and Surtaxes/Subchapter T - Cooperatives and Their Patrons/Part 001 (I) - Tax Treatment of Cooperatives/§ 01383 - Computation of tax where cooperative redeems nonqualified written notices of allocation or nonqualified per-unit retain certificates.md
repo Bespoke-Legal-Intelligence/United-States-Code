@@ -24,7 +24,7 @@ If, under section 1382(b)(2) or (4), or (c)(2)(B), a deduction is allowable to a
 
 #### Amendments
 
-1966—Pub. L. 89–809, §211(a)(5), inserted “or nonqualified per-unit retain certificates” in section catchline.
+<b>1966</b>—Pub. L. 89–809, §211(a)(5), inserted “or nonqualified per-unit retain certificates” in section catchline.
 
 Subsec. (a). Pub. L. 89–809, §211(a)(6), substituted “section 1382(b)(2) or (4)” for “1382(b)(2)” and inserted references to per-unit retain certificates.
 

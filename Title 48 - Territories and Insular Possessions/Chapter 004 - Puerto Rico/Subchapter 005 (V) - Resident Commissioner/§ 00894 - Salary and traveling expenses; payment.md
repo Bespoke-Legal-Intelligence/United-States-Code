@@ -10,7 +10,7 @@ Section was not enacted as part of the Puerto Rican Federal Relations Act which 
 
 #### Amendments
 
-1996—Pub. L. 104–186 substituted “Chief Administrative Officer” for “Sergeant-at-Arms”.
+<b>1996</b>—Pub. L. 104–186 substituted “Chief Administrative Officer” for “Sergeant-at-Arms”.
 
 #### Change of Name
 

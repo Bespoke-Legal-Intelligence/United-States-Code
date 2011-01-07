@@ -4,7 +4,7 @@
 
 It is the purpose of this section—
 
-&emsp;(1) to allow demonstration programs that are strictly monitored by the Department of Education to test the quality and viability of expanded distance education programs currently restricted under this chapter;
+&emsp;(1) to allow demonstration programs that are strictly monitored by the Department of Education to test the quality and viability of expanded distance education programs currently restricted under this chapter and part C of subchapter I of chapter 34 of title 42;
 
 &emsp;(2) to provide for increased student access to higher education through distance education programs; and
 
@@ -146,11 +146,7 @@ For the purpose of this section, the term “distance education” means an educ
 
 &emsp;(4) correspondence.
 
-(Pub. L. 89–329, title IV, §486, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1487; amended Pub. L. 102–325, title IV, §489, July 23, 1992, 106 Stat. 624; Pub. L. 105–244, title IV, §488, Oct. 7, 1998, 112 Stat. 1746; Pub. L. 110–315, title I, §103(b)(12), title IV, §491, Aug. 14, 2008, 122 Stat. 3090, 3307.)
-
-#### References in Text
-
-This chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+(Pub. L. 89–329, title IV, §486, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat.1487; amended Pub. L. 102–325, title IV, §489, July 23, 1992, 106 Stat. 624; Pub. L. 105–244, title IV, §488, Oct. 7, 1998, 112 Stat. 1746; Pub. L. 110–315, title I, §103(b)(12), title IV, §491, Aug. 14, 2008, 122 Stat. 3090, 3307.)
 
 #### Prior Provisions
 
@@ -158,13 +154,13 @@ A prior section 1093, Pub. L. 89–329, title IV, §486, as added Pub. L. 96–3
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–315, §103(b)(12), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
+<b>2008</b>—Subsec. (e). Pub. L. 110–315, §103(b)(12), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
 
 Subsec. (f)(3). Pub. L. 110–315, §491, substituted “Annual reports” for “Reports” in heading, in subpar. (B) redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and adjusted their margins, and substituted “The Secretary shall provide reports to the authorizing committees on an annual basis” for former subpar. (A) which required Secretary to report to congressional committees on evaluations of demonstration programs and for introductory provisions of former subpar. (B) which related to additional annual reports.
 
-1998—Pub. L. 105–244 amended section catchline and text generally. Prior to amendment, section authorized Secretary to make grants to nonprofit private organizations to provide training for student financial aid administrators and TRIO personnel.
+<b>1998</b>—Pub. L. 105–244 amended section catchline and text generally. Prior to amendment, section authorized Secretary to make grants to nonprofit private organizations to provide training for student financial aid administrators and TRIO personnel.
 
-1992—Pub. L. 102–325 struck out “and student support” after “aid” in section catchline and amended text generally, substituting present provisions for former subsec. (a) relating to program authority, subsec. (b) relating to use of funds, and subsec. (c) relating to authorization of appropriations.
+<b>1992</b>—Pub. L. 102–325 struck out “and student support” after “aid” in section catchline and amended text generally, substituting present provisions for former subsec. (a) relating to program authority, subsec. (b) relating to use of funds, and subsec. (c) relating to authorization of appropriations.
 
 #### Effective Date of 1998 Amendment
 

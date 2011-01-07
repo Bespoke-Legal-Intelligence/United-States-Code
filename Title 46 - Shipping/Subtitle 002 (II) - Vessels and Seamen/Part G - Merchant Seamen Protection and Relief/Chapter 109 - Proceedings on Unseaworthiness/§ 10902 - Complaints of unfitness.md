@@ -1,6 +1,6 @@
 ### §10902. Complaints of unfitness
 
-(a)(1) If the chief and second mates or a majority of the crew of a vessel ready to begin a voyage discover, before the vessel leaves harbor, that the vessel is unfit as to crew, hull, equipment, tackle, machinery, apparel, furniture, provisions of food or water, or stores to proceed on the intended voyage and require the unfitness to be inquired into, the master immediately shall apply to the district court of the United States at the place at which the vessel is located, or, if no court is being held at the place at which the vessel is located, to a judge or justice of the peace, for the appointment of surveyors. At least 2 complaining seamen shall accompany the master to the judge or justice of the peace.
+(a)(1) If the chief and second mates or a majority of the crew of a vessel ready to begin a voyage discover, before the vessel leaves harbor, that the vessel is unfit as to crew, hull, equipment, tackle, machinery, apparel, furniture, provisions of food or water, or stores to proceed on the intended voyage and require the unfitness to be inquired into, the master immediately shall apply to the district court of theUnited States at the place at which the vessel is located, or, if no court is being held at the place at which the vessel is located, to a judge or justice of the peace, for the appointment of surveyors. At least 2 complaining seamen shall accompany the master to the judge or justice of the peace.
 
 (2) A master failing to comply with this subsection is liable to the United States Government for a civil penalty of $500.
 
@@ -12,7 +12,7 @@
 
 &emsp;(A) make an entry in the official logbook of the vessel on the results of the examination; and
 
-&emsp;(B) submit a report on the examination to the district court of the United States atwhich the vessel is to arrive, with the report being admissible into evidence in any legal proceeding.
+&emsp;(B) submit a report on the examination to the district court of the United States at which the vessel is to arrive, with the report being admissible into evidence in any legal proceeding.
 
 (4) The master is liable to the Government for a civil penalty of not more than $100 each time the master, on receiving the certification referred to in paragraph (2) of this subsection—
 
@@ -42,7 +42,7 @@ Section 10902 instructs the crew on making complaints of unfitness of vessel wit
 
 #### Amendments
 
-1993—Subsec. (b)(1). Pub. L. 103–206, §422(b)(1), inserted “Secretary,” after “The complaint may be made to the” and struck out “Coast Guard shipping commissioner,” after “consular officer,”.
+<b>1993</b>—Subsec. (b)(1). Pub. L. 103–206, §422(b)(1), inserted “Secretary,” after “The complaint may be made to the” and struck out “Coast Guard shipping commissioner,” after “consular officer,”.
 
 Subsec. (b)(2), (3). Pub. L. 103–206, §422(b)(2), substituted “The Secretary, officer,” for “The officer, commissioner,”.
 

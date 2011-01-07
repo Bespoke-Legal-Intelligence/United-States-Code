@@ -1,6 +1,6 @@
 # Printed pages - Title 01 - General Provisions
 
-GPO's 2009 edition (laws in effect as of 2010-02-01), from its printed page marks. The exact position of
+GPO's 2010 edition (laws in effect as of 2011-01-07), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title1.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 

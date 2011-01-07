@@ -32,7 +32,7 @@ The United States Court of Claims, referred to in subsec. (c), and the United St
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–620 struck out provision requiring the court to render a final decision no later than 60 days after the filing of the last such appeal.
+<b>1984</b>—Subsec. (b). Pub. L. 98–620 struck out provision requiring the court to render a final decision no later than 60 days after the filing of the last such appeal.
 
 #### Effective Date of 1984 Amendment
 
@@ -41,4 +41,6 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 #### Effective Date
 
 Section effective Oct. 14, 1980, see section 710(d) of Pub. L. 96–448, set out as an Effective Date of 1980 Amendment note under section 1170 of Title 11, Bankruptcy.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

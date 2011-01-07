@@ -18,7 +18,7 @@ Cost and capital requirements.—The Administrator shall determine the cost and 
 
 (c)
 
-Deposit of Excess Amounts in the Treasury.—At the close of each fiscal year, after making provision for anticipated operating needs reflected in the cost and capital plan developed under subsection (b), the uncommittedbalance of any funds remaining in the Fund shall be transferred to the general fund of the Treasury as miscellaneous receipts.
+Deposit of Excess Amounts in the Treasury.—At the close of each fiscal year, aftermaking provision for anticipated operating needs reflected in the cost and capital plan developed under subsection (b), the uncommitted balance of any funds remaining in the Fund shall be transferred to the general fund of the Treasury as miscellaneous receipts.
 
 (d)
 
@@ -74,7 +74,7 @@ The Chief Financial Officers Act of 1990, referred to in subsec. (d)(1), is Pub.
 
 #### Amendments
 
-2009—Pub. L. 111–8, §518(c)(2), substituted “Working capital fund for General Services Administration” for “Working capital fund for blueprinting, photostating, and duplicating services in General Services Administration” in section catchline.
+<b>2009</b>—Pub. L. 111–8, §518(c)(2), substituted “Working capital fund for General Services Administration” for “Working capital fund for blueprinting, photostating, and duplicating services in General Services Administration” in section catchline.
 
 Subsecs. (a) to (c). Pub. L. 111–8, §518(a), amended subsecs. (a) to (c) generally. Prior to amendment, subsecs. (a) to (c) related to establishment and purpose of a working capital fund, components of the fund, and deposit of excess amounts in the Treasury.
 

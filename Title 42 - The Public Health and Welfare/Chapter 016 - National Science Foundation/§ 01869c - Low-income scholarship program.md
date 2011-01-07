@@ -10,7 +10,7 @@ The Director of the National Science Foundation (referred to in this section as 
 
 &emsp;To be eligible to receive a scholarship under this section, an individual—
 
-&emsp;&emsp;(i) must be a citizen of the United States, a national of the United States (as defined insection 1101(a) of title 8), an alien admitted as a refugee under section 1157 of title 8, or an alien lawfully admitted to the United States for permanent residence;
+&emsp;&emsp;(i) must be a citizen of the United States, a national of the United States (as defined in section 1101(a) of title 8), an alien admitted as a refugee under section 1157 of title 8, or an alien lawfully admitted to the United States for permanent residence;
 
 &emsp;&emsp;(ii) shall prepare and submit to the Director an application at such time, in such manner, and containing such information as the Director may require; and
 
@@ -26,7 +26,7 @@ The amount of a scholarship awarded under this section shall be determined by th
 
 #### (4) Funding
 
-The Director shall carry out this section only with funds made available under section 1356(s)(3) of title 8. The Director may use no more than 50 percent of such funds for undergraduate programs for curriculum development, professional and workforce development, and to advance technological education. Funds for these other programs may be used for purposes other than scholarships.
+The Director shall carry out this section only with funds made available under section1356(s)(3) of title 8. The Director may use no more than 50 percent of such funds for undergraduate programs for curriculum development, professional and workforce development, and to advance technological education. Funds for these other programs may be used for purposes other than scholarships.
 
 #### (5) Federal Register
 
@@ -44,7 +44,7 @@ Section was enacted as part of the American Competitiveness and Workforce Improv
 
 #### Amendments
 
-2004—Par. (2)(A)(iii). Pub. L. 108–447, §429(a), substituted “computer science, or other technology and science programs designated by the Director” for “or computer science”.
+<b>2004</b>—Par. (2)(A)(iii). Pub. L. 108–447, §429(a), substituted “computer science, or other technology and science programs designated by the Director” for “or computer science”.
 
 Par. (3). Pub. L. 108–447, §429(b), substituted “$10,000 per year” for “$3,125 per year”.
 
@@ -52,7 +52,7 @@ Par. (4). Pub. L. 108–447, §429(c), inserted at end “The Director may use n
 
 Par. (5). Pub. L. 108–447, §429(d), added par. (5).
 
-2000—Par. (3). Pub. L. 106–313 substituted “$3,125 per year. The Director may renew scholarships for up to 4 years” for “$2,500 per year.”
+<b>2000</b>—Par. (3). Pub. L. 106–313 substituted “$3,125 per year. The Director may renew scholarships for up to 4 years” for “$2,500 per year.”
 
 #### Effective Date of 2004 Amendment
 

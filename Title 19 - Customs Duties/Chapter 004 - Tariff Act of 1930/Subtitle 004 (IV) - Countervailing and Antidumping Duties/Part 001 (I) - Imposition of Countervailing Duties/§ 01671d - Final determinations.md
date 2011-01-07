@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Within 75 days after the date of the preliminary determination under section 1671b(b) of this title, the administering authority shall make a final determination of whether or not a countervailable subsidy is being providedwith respect to the subject merchandise; except that when an investigation under this part is initiated simultaneously with an investigation under part II of this subtitle, which involves imports of the same class or kind of merchandise from the same or other countries, the administering authority, if requested by the petitioner, shall extend the date of the final determination under this paragraph to the date of the final determination of the administering authority in such investigation initiated under part II of this subtitle.
+&emsp;Within 75 days after the date of the preliminary determination under section 1671b(b) of this title, the administering authority shall make a final determination of whether or nota countervailable subsidy is being provided with respect to the subject merchandise; except that when an investigation under this part is initiated simultaneously with an investigation under part II of this subtitle, which involves imports of the same class or kind of merchandise from the same or other countries, the administering authority, if requested by the petitioner, shall extend the date of the final determination under this paragraph to the date of the final determination of the administering authority in such investigation initiated under part II of this subtitle.
 
 #### (2) Critical circumstances determinations
 
@@ -142,9 +142,9 @@ The administering authority shall establish procedures for the correction of min
 
 #### Amendments
 
-1996—Subsec. (c)(1)(B)(i)(II). Pub. L. 104–295 inserted “section” after “if”.
+<b>1996</b>—Subsec. (c)(1)(B)(i)(II). Pub. L. 104–295 inserted “section” after “if”.
 
-1994—Subsec. (a)(1). Pub. L. 103–465, §§233(a)(5)(N), 270(a)(1)(F), substituted “countervailable subsidy” for “subsidy” and “the subject merchandise” for “the merchandise”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–465, §§233(a)(5)(N), 270(a)(1)(F), substituted “countervailable subsidy” for “subsidy” and “the subject merchandise” for “the merchandise”.
 
 Subsec. (a)(2)(A). Pub. L. 103–465, §§214(a)(2)(A)(i), 270(a)(1)(G), substituted “countervailable subsidy” for “subsidy” and “Subsidies Agreement” for “Agreement”.
 
@@ -164,7 +164,7 @@ Subsec. (c)(3)(B). Pub. L. 103–465, §264(c)(8), substituted “1671b(d)(1)(B)
 
 Subsec. (c)(5). Pub. L. 103–465, §264(b)(2), added par. (5).
 
-1988—Subsec. (b)(4)(A). Pub. L. 100–418, §1324(a)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “If the finding of the administering authority under subsection (a)(2) of this section is affirmative, then the final determination of the Commission shall include findings as to whether—
+<b>1988</b>—Subsec. (b)(4)(A). Pub. L. 100–418, §1324(a)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “If the finding of the administering authority under subsection (a)(2) of this section is affirmative, then the final determination of the Commission shall include findings as to whether—
 
 &emsp;“(i) there is material injury which will be difficult to repair, and
 
@@ -172,7 +172,7 @@ Subsec. (c)(5). Pub. L. 103–465, §264(b)(2), added par. (5).
 
 Subsec. (e). Pub. L. 100–418, §1333(a), added subsec. (e).
 
-1984—Subsec. (a)(1). Pub. L. 98–573, §606, inserted provision that when an investigation under this part is initiated simultaneously with an investigation under part II of this subtitle, which involves imports of the same class or kind of merchandise from the same or other countries, the administering authority, if requested by the petitioner, shall extend the date of the final determination under this paragraph to the date of the final determination of the administering authority in such investigation initiated under part II of this subtitle.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–573, §606, inserted provision that when an investigation under this part is initiated simultaneously with an investigation under part II of this subtitle, which involves imports of the same class or kind of merchandise from the same or other countries, the administering authority, if requested by the petitioner, shall extend the date of the final determination under this paragraph to the date of the final determination of the administering authority in such investigation initiated under part II of this subtitle.
 
 Subsec. (a)(2). Pub. L. 98–573, §605(a)(1), inserted provision after subpar. (B) that such findings may be affirmative even though the preliminary determination under section 1671b(e)(1) of this title was negative.
 

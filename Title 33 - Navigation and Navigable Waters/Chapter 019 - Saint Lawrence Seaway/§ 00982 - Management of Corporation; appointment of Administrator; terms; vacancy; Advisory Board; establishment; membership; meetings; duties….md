@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1975—Subsec. (a). Pub. L. 93–615, §1(a), amended subsec. (a) generally, inserting provisions relating to a term of seven years and the length of the term of any Administrator appointed to fill a vacancy in the position of the Administrator prior to the expiration of the term for which his predecessor was appointed.
+<b>1975</b>—Subsec. (a). Pub. L. 93–615, §1(a), amended subsec. (a) generally, inserting provisions relating to a term of seven years and the length of the term of any Administrator appointed to fill a vacancy in the position of the Administrator prior to the expiration of the term for which his predecessor was appointed.
 
 Subsecs. (b), (c). Pub. L. 93–615, §1(b), redesignated subsec. (c) as (b). Former subsec. (b), relating to the appointment and duties of a Deputy Administrator, was repealed.
 

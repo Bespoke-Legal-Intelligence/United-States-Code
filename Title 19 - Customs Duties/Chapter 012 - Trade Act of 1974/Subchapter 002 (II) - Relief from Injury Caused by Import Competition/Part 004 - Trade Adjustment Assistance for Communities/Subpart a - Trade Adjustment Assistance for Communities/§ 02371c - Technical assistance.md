@@ -26,7 +26,7 @@ The Secretary shall coordinate the Federal response to an eligible community by�
 
 #### (2) Membership
 
-&emsp;The Working Group shall consist of representatives of any Federal department oragency with responsibility for providing economic adjustment assistance, including the Department of Agriculture, the Department of Defense, the Department of Education, the Department of Labor, the Department of Housing and Urban Development, the Department of Health and Human Services, the Small Business Administration, the Department of the Treasury, and any other Federal, State, or regional public department or agency the Secretary determines to be appropriate.
+&emsp;The Working Group shall consist of representatives of any Federal department or agency with responsibility for providing economic adjustment assistance, including the Department of Agriculture, the Department of Defense, the Department of Education, the Department of Labor, the Department of Housing and Urban Development, the Department of Health and Human Services, the Small Business Administration, the Department of the Treasury, and any other Federal, State, or regional public department or agency the Secretary determines to be appropriate.
 
 (Pub. L. 93–618, title II, §274, as added Pub. L. 111–5, div. B, title I, §1872(a), Feb. 17, 2009, 123 Stat. 403.)
 
@@ -42,7 +42,7 @@ A prior section 274 of Pub. L. 93–618 was classified to section 2374 of this t
 
 Except as otherwise provided and subject to certain applicability provisions, section effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of this title.
 
-Except as otherwise provided, this section and the general amendment of this part not applicable on or after Jan. 1, 2011, and this part to be applied and administered beginning Jan. 1, 2011, as if this section and the general amendment of this part had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Except as otherwise provided, this section and the general amendment of this part not applicable on or after Feb. 13, 2011, and this part to be applied and administered beginning Feb. 13, 2011, as if this section and the general amendment of this part had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
-Except as otherwise provided, technical assistance and grants may not be provided under this part after Dec. 31, 2010, see section 285 of Pub. L. 93–618, set out as a Termination Date note preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and grants may not be provided under this section after Feb. 12, 2011, see section 285 of Pub. L. 93–618, set out as a Termination Date note preceding section 2271 of this title.
 

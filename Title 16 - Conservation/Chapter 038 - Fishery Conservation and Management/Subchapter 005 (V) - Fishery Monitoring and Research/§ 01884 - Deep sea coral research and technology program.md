@@ -22,3 +22,5 @@ Beginning 1 year after January 12, 2007, the Secretary, in consultation with the
 
 (Pub. L. 94–265, title IV, §408, as added Pub. L. 109–479, title II, §211, Jan. 12, 2007, 120 Stat. 3618.)
 
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+

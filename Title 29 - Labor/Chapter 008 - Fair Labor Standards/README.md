@@ -22,6 +22,9 @@
 | [216b.](%C2%A7%2000216b%20-%20Liability%20for%20overtime%20work%20performed%20prior%20to%20July%2020%2C%201949.md) | Liability for overtime work performed prior to July 20, 1949. |
 | [217\.](%C2%A7%2000217%20-%20Injunction%20proceedings.md) | Injunction proceedings. |
 | [218\.](%C2%A7%2000218%20-%20Relation%20to%20other%20laws.md) | Relation to other laws. |
+| [218a.](%C2%A7%2000218a%20-%20Automatic%20enrollment%20for%20employees%20of%20large%20employers.md) | Automatic enrollment for employees of large employers. |
+| [218b.](%C2%A7%2000218b%20-%20Notice%20to%20employees.md) | Notice to employees. |
+| [218c.](%C2%A7%2000218c%20-%20Protections%20for%20employees.md) | Protections for employees. |
 | [219\.](%C2%A7%2000219%20-%20Separability.md) | Separability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -51,4 +54,7 @@
 - [&sect; 00216b - Liability for overtime work performed prior to July 20, 1949](%C2%A7%2000216b%20-%20Liability%20for%20overtime%20work%20performed%20prior%20to%20July%2020%2C%201949.md)
 - [&sect; 00217 - Injunction proceedings](%C2%A7%2000217%20-%20Injunction%20proceedings.md)
 - [&sect; 00218 - Relation to other laws](%C2%A7%2000218%20-%20Relation%20to%20other%20laws.md)
+- [&sect; 00218a - Automatic enrollment for employees of large employers](%C2%A7%2000218a%20-%20Automatic%20enrollment%20for%20employees%20of%20large%20employers.md)
+- [&sect; 00218b - Notice to employees](%C2%A7%2000218b%20-%20Notice%20to%20employees.md)
+- [&sect; 00218c - Protections for employees](%C2%A7%2000218c%20-%20Protections%20for%20employees.md)
 - [&sect; 00219 - Separability](%C2%A7%2000219%20-%20Separability.md)

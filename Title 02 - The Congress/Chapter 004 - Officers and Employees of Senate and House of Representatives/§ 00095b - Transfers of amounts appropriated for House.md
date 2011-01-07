@@ -20,7 +20,7 @@ salaries, officers and employees” may be transferred among and merged with the
 
 #### (d) Transfers to Architect of the Capitol
 
-Amounts appropriated for any fiscal year for the House of Representatives under the heading “Allowances and Expenses” may be transferred to the Architect of the Capitol and merged with and made available under the heading “House Office Buildings”, subject to the approval of the Committee on Appropriations of the House of Representatives.
+Amounts appropriated for any fiscal year for the House of Representatives under the heading “Allowances and Expenses” may be transferred to the Architect of the Capitol and merged withand made available under the heading “House Office Buildings”, subject to the approval of the Committee on Appropriations of the House of Representatives.
 
 #### (e) Transfers to House Historic Buildings Revitalization Trust Fund
 

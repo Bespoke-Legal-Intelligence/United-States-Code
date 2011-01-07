@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-The Administrator shall, in consultation and cooperation with the Secretary of Health and Human Services and with other heads of appropriate departments and agencies, conduct such research, development, and monitoring as is necessary to carry out the purposes of this chapter. The Administrator may enter into contracts and may make grants for research, development, and monitoring under this subsection. Contracts may be entered into under this subsection without regard to section 3324(a) and (b) of title 31 and section 5 of title 41.
+The Administrator shall, in consultation and cooperation with the Secretary of Health and Human Services and with other heads of appropriate departments and agencies, conduct such research, development, and monitoring as is necessary to carry out the purposes of this chapter. The Administrator may enter into contracts and may make grants for research, development, and monitoring under this subsection. Contracts may be entered into under this subsection without regard to section 3324(a) and (b) of title 31 and section 6101 of title 41.
 
 #### (b) Data systems
 
@@ -10,7 +10,7 @@ The Administrator shall, in consultation and cooperation with the Secretary of H
 
 (2)(A) The Administrator shall, in consultation and cooperation with the Secretary of Health and Human Services and other heads of appropriate departments and agencies design, establish, and coordinate an efficient and effective system for the retrieval of toxicological and other scientific data which could be useful to the Administrator in carrying out the purposes of this chapter. Systematized retrieval shall be developed for use by all Federal and other departments and agencies with responsibilities in the area of regulation or study of chemical substances and mixtures and their effect on health or the environment.
 
-(B) The Administrator, in consultation and cooperation with the Secretary of Health and Human Services, may make grants and enter into contracts for the development of a data retrieval system described in subparagraph (A). Contracts may be entered into under this subparagraph without regard to section 3324(a) and (b) of title 31 and section 5 of title 41.
+(B) The Administrator, in consultation and cooperation with the Secretary of Health and Human Services, may make grants and enter into contracts for the development of a data retrieval system described in subparagraph (A). Contracts may be entered into under this subparagraph without regard to section 3324(a) and (b) of title 31 and section 6101 of title 41.
 
 #### (c) Screening techniques
 
@@ -36,7 +36,9 @@ The Administrator shall, in consultation with the Secretary of Health and Human 
 
 #### Codification
 
-In subsecs. (a) and (b)(2)(B), “section 3324(a) and (b) of title 31” substituted for references to section 3648 of the Revised Statutes (31 U.S.C. 529) on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a), “section 3324(a) and (b) of title 31 and section 6101 of title 41” substituted for “sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529, 14 U.S.C. 5)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (b)(2)(B), “section 3324(a) and (b) of title 31 and section 6101 of title 41” substituted for “sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529, 41 U.S.C. 5)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Change of Name
 

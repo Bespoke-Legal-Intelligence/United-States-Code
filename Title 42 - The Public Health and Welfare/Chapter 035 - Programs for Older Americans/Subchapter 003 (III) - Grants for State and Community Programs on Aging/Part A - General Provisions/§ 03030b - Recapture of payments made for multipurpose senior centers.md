@@ -12,7 +12,7 @@ If, within 10 years after acquisition, or within 20 years after the completion o
 
 #### Amendments
 
-1993—Par. (2). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
+<b>1993</b>—Par. (2). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
 
 #### Effective Date
 

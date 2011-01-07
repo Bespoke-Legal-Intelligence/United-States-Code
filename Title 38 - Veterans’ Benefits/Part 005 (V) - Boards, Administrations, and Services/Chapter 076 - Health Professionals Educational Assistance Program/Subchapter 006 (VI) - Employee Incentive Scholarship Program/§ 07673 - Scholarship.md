@@ -14,7 +14,7 @@ Amounts.—The total amount of the scholarship payable under subsection (a)—
 
 (c)
 
-Limitations on Period of Payment.—(1) The maximum number of school years for which a scholarship may be paid under subsection (a)to a participant in the Program shall be six school years.
+Limitations on Period of Payment.—(1) The maximum number of school years for which a scholarship may be paid under subsection (a) to a participant in the Program shall be six school years.
 
 (2) A participant in the Program may not receive a scholarship under subsection (a) for more than the equivalent of three years of full-time coursework.
 
@@ -34,7 +34,7 @@ Full-Time Coursework.—For purposes of this section, full-time coursework shall
 
 #### Amendments
 
-2002—Subsec. (b)(1). Pub. L. 107–135, §101(c)(1), substituted “for the equivalent of one year of full-time coursework” for “for any 1 year”.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–135, §101(c)(1), substituted “for the equivalent of one year of full-time coursework” for “for any 1 year”.
 
 Subsec. (b)(2). Pub. L. 107–135, §101(c)(2), added par. (2) and struck out former par. (2) which read as follows: “in the case of a participant in the Program who is a part-time student, shall be the amount specified in paragraph (1) reduced in accordance with the proportion that the number of credit hours carried by the participant in that school year bears to the number of credit hours required to be carried by a full-time student in the course of education or training being pursued by the participant.”
 

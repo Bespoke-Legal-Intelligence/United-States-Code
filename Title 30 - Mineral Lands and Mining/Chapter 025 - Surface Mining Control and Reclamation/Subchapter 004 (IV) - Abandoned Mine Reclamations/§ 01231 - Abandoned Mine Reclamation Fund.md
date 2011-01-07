@@ -122,7 +122,7 @@ The Secretary of the Interior shall notify the Secretary of the Treasury as to w
 
 #### Amendments
 
-2006—Subsec. (c)(2) to (13). Pub. L. 109–432, §201(a)(1), redesignated pars. (3) to (5) and (7) to (13) as (2) to (4) and (5) to (11), respectively, and struck out former pars. (2) and (6) which read as follows:
+<b>2006</b>—Subsec. (c)(2) to (13). Pub. L. 109–432, §201(a)(1), redesignated pars. (3) to (5) and (7) to (13) as (2) to (4)and (5) to (11), respectively, and struck out former pars. (2) and (6) which read as follows:
 
 “(2) for transfer on an annual basis to the Secretary of Agriculture for use under section 1236 of this title;” and
 
@@ -134,11 +134,11 @@ Subsec. (e). Pub. L. 109–432, §201(a)(3), in second sentence, substituted “
 
 Subsec. (f). Pub. L. 109–432, §201(a)(4), added subsec. (f).
 
-1992—Subsec. (c)(6). Pub. L. 102–486, §2504(c)(1), substituted “studies, research, and demonstration projects” for “studies” and struck out “to provide information, advice, and technical assistance, including research and demonstration projects” after “private organizations”.
+<b>1992</b>—Subsec. (c)(6). Pub. L. 102–486, §2504(c)(1), substituted “studies, research, and demonstration projects” for “studies” and struck out “to provide information, advice, and technical assistance, including research and demonstration projects” after “private organizations”.
 
 Subsec. (c)(12), (13). Pub. L. 102–486, §19143(b)(3)(A), added par. (12) and redesignated former par. (12) as (13).
 
-1990—Subsec. (b)(1). Pub. L. 101–508, §6002(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the reclamation fees levied under section 1232 of this title: <i>Provided</i>, That an amount not to exceed 10 per centum of such reclamation fees collected for any calendar quarter shall be reserved beginning in the first calendar year in which the fee is imposed and continuing for the remainder of that fiscal year and for the period in which such fee is imposed by law, for the purpose of section 1257(c) of this title, subject to appropriation pursuant to authorization under section 1302 of this title: <i>Provided further</i>, That not more than $10,000,000 shall be available for such purposes;”.
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–508, §6002(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the reclamation fees levied under section 1232 of this title: <i>Provided</i>, That an amount not to exceed 10 per centum of such reclamation fees collected for any calendar quarter shall be reserved beginning in the first calendar year in which the fee is imposed and continuing for the remainder of that fiscal year and for the period in which such fee is imposed by law, for the purpose of section 1257(c) of this title, subject to appropriation pursuant to authorization under section 1302 of this title: <i>Provided further</i>, That not more than $10,000,000 shall be available for such purposes;”.
 
 Subsec. (b)(5). Pub. L. 101–508, §6002(a)(2), added par. (5).
 
@@ -152,7 +152,7 @@ Subsec. (c)(10) to (12). Pub. L. 101–508, §6002(b)(5), added pars. (10) and (
 
 Subsec. (e). Pub. L. 101–508, §6002(c), added subsec. (e).
 
-1984—Subsec. (c)(1). Pub. L. 98–473 inserted at end “and establishment of self-sustaining, individual State administered programs to insure private property against damages caused by land subsidence resulting from underground coal mining in those States which have reclamation plans approved in accordance with section 1253 of this title: <i>Provided</i>, That funds used for this purpose shall not exceed $3,000,000 of the funds made available to any State under section 1232(g)(2) of this title;”.
+<b>1984</b>—Subsec. (c)(1). Pub. L. 98–473 inserted at end “and establishment of self-sustaining, individual State administered programs to insure private property against damages caused by land subsidence resulting from underground coal mining in those States which have reclamation plans approved in accordance with section 1253 of this title: <i>Provided</i>, That funds used for this purpose shall not exceed $3,000,000 of the funds made available to any State under section 1232(g)(2) of this title;”.
 
 #### Effective Date of 1990 Amendment
 
@@ -164,7 +164,7 @@ Section 6013 of Pub. L. 101–508 provided that: “Nothing in this subtitle \[s
 
 #### Abandoned Mine Reclamation Fund; Deposit and Expenditure of Certain Donations
 
-Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–245, provided in part: “That hereafter, donations received to support projects under the Appalachian Clean Streams Initiative and under the Western Mine Lands Restoration Partnerships Initiative, pursuant to 30 U.S.C. 1231, shall be credited to this account and remain available until expended without further appropriation for projects sponsored under these initiatives, directly through agreements with other Federal agencies, or through grants to States,and funding to local governments, or tax exempt private entities.”
+Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–245, provided in part: “That hereafter, donations received to support projects under the Appalachian Clean Streams Initiative and under the Western Mine Lands Restoration Partnerships Initiative, pursuant to 30 U.S.C. 1231, shall be credited to this account and remain available until expended without further appropriation for projects sponsored under these initiatives, directly through agreements with other Federal agencies, or through grants to States, and funding to local governments, or tax exempt private entities.”
 
 #### Abandoned Mine Reclamation Research and Development
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) section 354 or 355 would apply to an exchange but for the fact that
 
-&emsp;&emsp;(B) the property received in the exchange consists not only of property permitted by section 354 or 355 to be received without therecognition of gain but also of other property or money,
+&emsp;&emsp;(B) the property received in the exchange consists not only of property permitted by section 354 or 355 to be received without the recognition of gain but also of other property or money,
 
 > &emsp;then the gain, if any, to the recipient shall be recognized, but in an amount not in excess of the sum of such money and the fair market value of such other property.
 
@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (2) Exception
 
-&emsp;The term “other property” does not include nonqualified preferred stock (as so defined) to the extent that, under section 354 or 355, such preferred stock would be permitted to be received without the recognition of gain.
+&emsp;The term “other property” does not include nonqualified preferred stock (as so defined) tothe extent that, under section 354 or 355, such preferred stock would be permitted to be received without the recognition of gain.
 
 #### (f) Exchanges for section 306 stock
 
@@ -92,13 +92,13 @@ Notwithstanding any other provision of this section, to the extent that any of t
 
 #### Amendments
 
-1997—Subsecs. (e) to (g). Pub. L. 105–34 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+<b>1997</b>—Subsecs. (e) to (g). Pub. L. 105–34 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
-1990—Subsec. (d)(2)(B)(i). Pub. L. 101–508 struck out “or (d)” after “subsection (c)”.
+<b>1990</b>—Subsec. (d)(2)(B)(i). Pub. L. 101–508 struck out “or (d)” after “subsection (c)”.
 
-1982—Subsec. (a)(2). Pub. L. 97–248 inserted “(determined with the application of section 318(a))” after “distribution of a dividend”.
+<b>1982</b>—Subsec. (a)(2). Pub. L. 97–248 inserted “(determined with the application of section 318(a))” after “distribution of a dividend”.
 
-1976—Subsec. (d)(2)(B)(i). Pub. L. 94–253 substituted “subsection (c) or (d) thereof” for “subsection (c) thereof”.
+<b>1976</b>—Subsec. (d)(2)(B)(i). Pub. L. 94–253 substituted “subsection (c) or (d) thereof” for “subsection (c) thereof”.
 
 #### Effective Date of 1997 Amendment
 

@@ -32,6 +32,7 @@
 | :--- | ---: |
 | [1997\.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Institutionalized%20Persons/%C2%A7%2001997%20-%20Definitions.md) | Definitions. |
 | [1997a.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Institutionalized%20Persons/%C2%A7%2001997a%20-%20Initiation%20of%20civil%20actions.md) | Initiation of civil actions. |
+| 1997a–1. | Subpoena authority. |
 | [1997b.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Institutionalized%20Persons/%C2%A7%2001997b%20-%20Certification%20requirements%3B%20Attorney%20General%20to%20personally%20sign%20certification.md) | Certification requirements; Attorney General to personally sign certification. |
 | [1997c.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Institutionalized%20Persons/%C2%A7%2001997c%20-%20Intervention%20in%20actions.md) | Intervention in actions. |
 | [1997d.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Institutionalized%20Persons/%C2%A7%2001997d%20-%20Prohibition%20of%20retaliation.md) | Prohibition of retaliation. |

@@ -62,7 +62,7 @@ The Christopher Columbus Quincentenary Coin Act, referred to in subsec. (a)(5), 
 
 #### Amendments
 
-2009—Subsec. (a)(4), (5). Pub. L. 111–8 added par. (4) and redesignated former par. (4) as (5).
+<b>2009</b>—Subsec. (a)(4), (5). Pub. L. 111–8 added par. (4) and redesignated former par. (4) as (5).
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Fellowship”.</i>
 

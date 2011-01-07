@@ -20,9 +20,9 @@
 
 (1) No grant or contract may be made under section 242b, 242k, or 242<i>l</i> of this title unless an application therefor has been submitted to the Secretary in such form and manner, and containing such information, as the Secretary may by regulation prescribe and unless a peer review group referred to in paragraph (2) has recommended the application for approval.
 
-(2)(A) Each application submitted for a grant or contract under section 242k of this title in an amount exceeding $50,000 of direct costs and for a health services research, evaluation, or demonstration project, or for a grant under section 242k(m) of this title, shall be submitted to a peer review group for an evaluation of the technicaland scientific merits of the proposals made in each such application. The Director of the National Center for Health Statistics shall establish such peer review groups as may be necessary to provide for such an evaluation of each such application.
+(2)(A) Each application submitted for a grant or contract under section 242k of this title in an amount exceeding $50,000 of direct costs and for a health services research, evaluation, or demonstration project, or for a grant under section 242k(m) of this title, shall be submitted to a peer review group for an evaluation of the technical and scientific merits of the proposals made in each such application. The Director of the National Center for Health Statistics shall establish such peer review groups as may be necessary to provide for such an evaluation of each such application.
 
-(B) A peer review group to which an application is submitted pursuant to subparagraph (A) shall report its finding and recommendations respecting the application to the Secretary, acting through the Director of the National Center for Health Statistics, in such form and manner as the Secretary shall by regulation prescribe. The Secretary may not approve an application described in such subparagraph unless a peer review group has recommended the application for approval.
+(B) A peer review group to which an application is submitted pursuant to subparagraph (A) shall report its finding and recommendations respecting the application to the Secretary, acting through the Director of the National Center for Health Statistics, in such form and manner asthe Secretary shall by regulation prescribe. The Secretary may not approve an application described in such subparagraph unless a peer review group has recommended the application for approval.
 
 (C) The Secretary, acting through the Director of the National Center for Health Statistics, shall make appointments to the peer review groups required in subparagraph (A) from among persons who are not officers or employees of the United States and who possess appropriate technical and scientific qualifications, except that peer review groups regarding grants under section 242k(m) of this title may include appropriately qualified such officers and employees.
 
@@ -46,11 +46,15 @@ No information, if an establishment or person supplying the information or descr
 
 > but only if such person requested the Secretary to furnish such equipment or supplies, or such services, as the case may be.
 
-#### (f) Contracts without regard to section 3324 of title 31 and section 5 of title 41
+#### (f) Contracts without regard to section 3324 of title 31 and section 6101 of title 41
 
-Contracts may be entered into under section 242b or 242k of this title without regard to section 3324 of title 31 and section 5 of title 41.
+Contracts may be entered into under section 242b or 242k of this title without regard to section 3324 of title 31 and section 6101 of title 41.
 
 (July 1, 1944, ch. 373, title III, §308, as added Pub. L. 93–353, title I, §107(a), July 23, 1974, 88 Stat. 368; amended Pub. L. 94–273, §7(2), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–83, title I, §104, Aug. 1, 1977, 91 Stat. 384; Pub. L. 95–623, §§2, 6(d), 8(b), Nov. 9, 1978, 92 Stat. 3443, 3451, 3455; Pub. L. 97–35, title IX, §§917(a), (b), 919(a)(2)(B), 922, Aug. 13, 1981, 95 Stat. 564, 565, 567; Pub. L. 97–414, §8(c), Jan. 4, 1983, 96 Stat. 2060; Pub. L. 98–551, §7, Oct. 30, 1984, 98 Stat. 2820; Pub. L. 100–177, title I, §§106(a), 107, 108, Dec. 1, 1987, 101 Stat. 988–990; Pub. L. 100–690, title II, §2612, Nov. 18, 1988, 102 Stat. 4235; Pub. L. 101–239, title VI, §6103(e)(4), Dec. 19, 1989, 103 Stat. 2206; Pub. L. 101–527, §7(b)(2), (d), Nov. 6, 1990, 104 Stat. 2328; Pub. L. 103–183, title V, §501(c), Dec. 14, 1993, 107 Stat. 2237; Pub. L. 105–392, title IV, §401(d), Nov. 13, 1998, 112 Stat. 3587.)
+
+#### Codification
+
+In subsec. (f), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
 
@@ -58,9 +62,9 @@ Provisions similar to those comprising subsec. (e) of this section were containe
 
 #### Amendments
 
-1998—Subsec. (b)(2)(A), (C). Pub. L. 105–392 substituted “242k(m)” for “242k(n)”.
+<b>1998</b>—Subsec. (b)(2)(A), (C). Pub. L. 105–392 substituted “242k(m)” for “242k(n)”.
 
-1993—Subsec. (a)(1). Pub. L. 103–183, §501(c)(1)(A), redesignated subpars. (B) to (E) as (A) to (D), respectively, and struck out former subpar. (A) which read as follows: “A report on—
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–183, §501(c)(1)(A), redesignated subpars. (B) to (E) as (A) to (D), respectively, and struck out former subpar. (A) which read as follows: “A report on—
 
 &emsp;“(i) the administration of sections 242b, 242k, and 242<i>l</i> of this title and subchapter VII of this chapter during the preceding fiscal year; and
 
@@ -88,13 +92,13 @@ Subsec. (h). Pub. L. 103–183, §501(c)(5), struck out subsec. (h) which read a
 
 “(3) Such grants and contracts shall be subject to such additional requirements as the Secretary may by regulation prescribe.”
 
-1990—Subsec. (b)(2)(A). Pub. L. 101–527, §7(b)(2)(A), inserted “or for a grant under section 242k(n) of this title,” after “demonstration project,”.
+<b>1990</b>—Subsec. (b)(2)(A). Pub. L. 101–527, §7(b)(2)(A), inserted “or for a grant under section 242k(n) of this title,” after “demonstration project,”.
 
 Subsec. (b)(2)(C). Pub. L. 101–527, §7(b)(2)(B), inserted before period at end “, except that peer review groups regarding grants under section 242k(n) of this title may include appropriately qualified such officers and employees”.
 
 Subsec. (b)(3). Pub. L. 101–527, §7(d), struck out par. (3) which related to applications submitted under section 242k of this title for which a grant or contract may be made under another provision of this chapter.
 
-1989—Pub. L. 101–239, §6103(e)(4)(A), amended section catchline.
+<b>1989</b>—Pub. L. 101–239, §6103(e)(4)(A), amended section catchline.
 
 Subsec. (a)(1)(A)(i). Pub. L. 101–239, §6103(e)(4)(B)(i), substituted “sections 242b, 242k, and 242<i>l</i> of this title and subchapter VII of this chapter” for “sections 242b, 242c, 242k, and 242<i>l</i> of this title and section 242n of this title”.
 
@@ -124,9 +128,9 @@ Subsec. (h)(1). Pub. L. 101–239, §6103(e)(4)(H), substituted “effectuate th
 
 Subsec. (i). Pub. L. 101–239, §6103(e)(4)(I), struck out subsec. (i) which authorized appropriations for carrying out certain programs under sections 242b, 242c, 242k, and 242n of this title during fiscal years 1988 to 1990.
 
-1988—Subsec. (b)(2)(A). Pub. L. 100–690 inserted after first sentence “Each application for a grant, contract, or cooperative agreement in an amount exceeding $50,000 of direct costs for the dissemination of research findings or the development of research agendas (including conferences, workshops, and meetings) shall be submitted to a standing peer review group with persons with appropriate expertise and shall not be submitted to any peer review group established to review applications for research, evaluation, or demonstration projects.” and substituted “an application described in the first two sentences of this subparagraph” for “each such application” in last sentence.
+<b>1988</b>—Subsec. (b)(2)(A). Pub. L. 100–690 inserted after first sentence “Each application for a grant, contract, or cooperative agreement in an amount exceeding $50,000 of direct costs for the dissemination of research findings or the development of research agendas (including conferences, workshops, and meetings) shall be submitted to a standing peer review group with persons with appropriate expertise and shall not be submitted to any peer review group established to review applications for research, evaluation, or demonstration projects.” and substituted “an application described in the first two sentences of this subparagraph” for “each such application” in last sentence.
 
-1987—Subsec. (a)(1), (2). Pub. L. 100–177, §106(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+<b>1987</b>—Subsec. (a)(1), (2). Pub. L. 100–177, §106(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) Not later than December 1 of each year, the Secretary shall make a report to Congress respecting (A) the administration of sections 242b, 242c, 242k, and 242<i>l</i> and section 242n of this title during the preceding fiscal year, and (B) the current state and progress of health services research and, health statistics, and health care technology.
 
@@ -148,13 +152,13 @@ Subsec. (b)(2). Pub. L. 100–177, §107(2), added par. (2) and struck out forme
 
 Subsec. (i). Pub. L. 100–177, §108, amended subsec. (i) generally, substituting provisions authorizing appropriations for fiscal years 1988 to 1990 for carrying out activities under sections 242b, 242c, 242k, and 242n of this title for former provisions authorizing appropriations for fiscal years 1975 to 1987 for carrying out activities under those sections.
 
-1984—Subsec. (i)(1). Pub. L. 98–551, §7(a), inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, 1986, and 1987, inserted “and Health Care Technology Assessment” after “Research”, substituted “and at least 10 per centum of such amount or $1,500,000, whichever is less, shall be available only for the user liaison program and the technical assistance program referred to in section 242c(c)(2) of this title and for dissemination activities directly undertaken through such Center” for “and at least 5 per centum of such amount or $1,000,000, whichever is less, shall be available only for dissemination activities directly undertaken through such Center”, inserted “For health care technology assessment activities undertaken under subsections (b)(5), (e), (f), and (g) of section 242c of this title the Secretary shall obligate from funds appropriated under this paragraph not less than $3,000,000 for the fiscal year ending September 30, 1985, $3,500,000 for the fiscal year ending September 30, 1986, and $4,000,000 for the fiscal year ending September 30, 1987. For grants under section 242n of this title the Secretary shall obligate from funds appropriated under this paragraph not less than $500,000 for the fiscal year ending September 30, 1985, $750,000 for the fiscal year ending September 30, 1986, and $750,000 for the fiscal year ending September 30, 1987.”, and in last sentence substituted “for any fiscal year” for “for each of the fiscal years ending September 30, 1982, September 30, 1983, and September 30, 1984,”.
+<b>1984</b>—Subsec. (i)(1). Pub. L. 98–551, §7(a), inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, 1986, and 1987, inserted “and Health Care Technology Assessment” after “Research”, substituted “and at least 10 per centum of such amount or $1,500,000, whichever is less, shall be available only for the user liaison program and the technical assistance program referred to in section 242c(c)(2) of this title and for dissemination activities directly undertaken through such Center” for “and at least 5 per centum of such amount or $1,000,000, whichever is less, shall be available only for dissemination activities directly undertaken through such Center”, inserted “For health care technology assessment activities undertaken under subsections (b)(5), (e), (f), and (g) of section 242c of this title the Secretary shall obligate from funds appropriated under this paragraph not less than $3,000,000 for the fiscal year ending September 30, 1985, $3,500,000 for the fiscal year ending September 30, 1986, and $4,000,000 for the fiscal year ending September 30, 1987. For grants under section 242n of this title the Secretary shall obligate from funds appropriated under this paragraph not less than $500,000 for the fiscal year ending September 30, 1985, $750,000 for the fiscal year ending September 30, 1986, and $750,000 for the fiscal year ending September 30, 1987.”, and in last sentence substituted “for any fiscal year” for “for each of the fiscal years ending September 30, 1982, September 30, 1983, and September 30, 1984,”.
 
 Subsec. (i)(2). Pub. L. 98–551, §7(b), inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, 1986, and 1987.
 
-1983—Subsec. (d). Pub. L. 97–414 inserted “, if an establishment or person supplying the information or described in it is identifiable,” after “No information”, and substituted “such establishment or person has consented (as determined under regulations of the Secretary) to its use for such other purpose” for “authorized by guidelines in effect under section 242k(<i>l</i>)(2) of this title or under regulations of the Secretary”.
+<b>1983</b>—Subsec. (d). Pub. L. 97–414 inserted “, if an establishment or person supplying the information or described in it is identifiable,” after “No information”, and substituted “such establishment or person has consented (as determined under regulations of the Secretary) to its use for such other purpose” for “authorized by guidelines in effect under section 242k(<i>l</i>)(2) of this title or under regulations of the Secretary”.
 
-1981—Subsec. (a)(2). Pub. L. 97–35, §922(a), substituted “December” for “September”, which change had already been made by Pub. L. 94–273.
+<b>1981</b>—Subsec. (a)(2). Pub. L. 97–35, §922(a), substituted “December” for “September”, which change had already been made by Pub. L. 94–273.
 
 Subsec. (b)(2). Pub. L. 97–35, §922(b), substituted “$50,000” for “$35,000”.
 
@@ -164,7 +168,7 @@ Subsec. (i)(1). Pub. L. 97–35, §§917(a), 919(a)(2)(B), inserted provisions r
 
 Subsec. (i)(2). Pub. L. 97–35, §917(b), inserted provisions respecting appropriations for the fiscal years ending Sept. 30, 1982, 1983, and 1984.
 
-1978—Subsec. (a)(1). Pub. L. 95–623, §6(d)(1), required the report to cover the administration of section 242n of this title and the current state and progress of health care technology.
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–623, §6(d)(1), required the report to cover the administration of section 242n of this title and the current state and progress of health care technology.
 
 Subsec. (b)(1). Pub. L. 95–623, §6(d)(2), inserted reference to grant or contract under section 242n of this title.
 
@@ -176,11 +180,11 @@ Subsec. (i)(1). Pub. L. 95–623, §2(a), authorized appropriation of $35,000,00
 
 Subsec. (i)(2). Pub. L. 95–623, §2(b), authorized appropriation of $50,000,000; $65,000,000; and $70,000,000 for fiscal years ending Sept. 30, 1979, through 1981.
 
-1977—Subsec. (i)(1). Pub. L. 95–83, §104(a), authorized appropriation of $28,600,000 for fiscal year ending Sept. 30, 1978.
+<b>1977</b>—Subsec. (i)(1). Pub. L. 95–83, §104(a), authorized appropriation of $28,600,000 for fiscal year ending Sept. 30, 1978.
 
 Subsec. (i)(2). Pub. L. 95–83, §104(b), authorized appropriation of $33,600,000 for fiscal year ending Sept. 30, 1978.
 
-1976—Subsec. (a). Pub. L. 94–273 substituted “December” for “September” wherever appearing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–273 substituted “December” for “September” wherever appearing.
 
 #### Effective Date of 1998 Amendment
 

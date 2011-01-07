@@ -84,7 +84,7 @@ The Rural Electrification Act, referred to in subsec. (d)(6), probably means the
 
 #### Amendments
 
-2009—Subsec. (c)(4). Pub. L. 111–5 added par. (4).
+<b>2009</b>—Subsec. (c)(4). Pub. L. 111–5 added par. (4).
 
 #### Effective Date
 

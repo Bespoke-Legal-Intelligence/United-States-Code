@@ -16,7 +16,7 @@ When used in this chapter—
 
 &emsp;(5) the operation of vessels or aircraft in a zone of hostilities or engaged in war activities.
 
-(c) The term “hostile force or person” means any nation, any subject of a foreign nation, or any other person serving a foreign nation (1) engaged in a war against the United States or any of its allies, (2) engaged in armed conflict, whether or not war has been declared, against the United States or any of its allies, or (3) engaged in a war or armed conflict between military forces of any origin in any country inwhich a person covered by this chapter is serving.
+(c) The term “hostile force or person” means any nation, any subject of a foreign nation, or any other person serving a foreign nation (1) engaged in a war against the United States or any of its allies, (2) engaged in armed conflict, whether or not war has been declared, against the United States or any of its allies, or (3) engaged in a war or armed conflict between military forces of any origin in any country in which a person covered by this chapter is serving.
 
 (d) The term “allies” means any nation with which the United States is engaged in a common military effort or with which the United States has entered into a common defensive military alliance.
 
@@ -32,9 +32,9 @@ In the original of act Dec. 2, 1942, §201, the opening clause read “When used
 
 #### Amendments
 
-1959—Subsec. (f). Pub. L. 86–70 added subsec. (f).
+<b>1959</b>—Subsec. (f). Pub. L. 86–70 added subsec. (f).
 
-1958—Subsec. (b). Pub. L. 85–608, §103(a), struck out provisions which defined “war-risk hazard” to mean hazards arising after Dec. 6, 1941, and prior to July 1, 1958, and inserted provisions redefining term to include hazards arising during a war or an armed conflict in which the United States is engaged, and hazards arising during a war or armed conflict between military forces of any origin, occurring within any country in which a person covered by this chapter is serving.
+<b>1958</b>—Subsec. (b). Pub. L. 85–608, §103(a), struck out provisions which defined “war-risk hazard” to mean hazards arising after Dec. 6, 1941, and prior to July 1, 1958, and inserted provisions redefining term to include hazards arising during a war or an armed conflict in which the United States is engaged, and hazards arising during a war or armed conflict between military forces of any origin, occurring within any country in which a person covered by this chapter is serving.
 
 Subsec. (b)(1). Pub. L. 85–608, §104, substituted “a hostile force or person” for “an enemy” in two places.
 
@@ -50,15 +50,15 @@ Subsec. (e). Pub. L. 85–608, §103(e), substituted definition of “war activi
 
 Subsec. (f). Pub. L. 85–608, §103(f), repealed subsec. (f) which defined “war activities”, now covered by subsec. (e) of this section.
 
-1957—Subsec. (b). Pub. L. 85–70 substituted “July 1, 1958” for “July 1, 1957”.
+<b>1957</b>—Subsec. (b). Pub. L. 85–70 substituted “July 1, 1958” for “July 1, 1957”.
 
-1956—Subsec. (b). Act July 9, 1956, substituted “July 1, 1957” for “July 1, 1956”.
+<b>1956</b>—Subsec. (b). Act July 9, 1956, substituted “July 1, 1957” for “July 1, 1956”.
 
-1955—Subsec. (b). Act June 30, 1955, substituted “July 1, 1956” for “July 1, 1955”.
+<b>1955</b>—Subsec. (b). Act June 30, 1955, substituted “July 1, 1956” for “July 1, 1955”.
 
-1954—Subsec. (b). Act June 30, 1954, substituted “July 1, 1955” for “July 1, 1954”.
+<b>1954</b>—Subsec. (b). Act June 30, 1954, substituted “July 1, 1955” for “July 1, 1954”.
 
-1953—Subsec. (b). Act June 30, 1953, §1(a), substituted “July 1, 1954” for “the end of the present war”.
+<b>1953</b>—Subsec. (b). Act June 30, 1953, §1(a), substituted “July 1, 1954” for “the end of the present war”.
 
 Subsecs. (c) to (f). Act June 30, 1953, §1(b), added subsecs. (c) to (f).
 

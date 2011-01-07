@@ -10,7 +10,7 @@ References to this subchapter deemed to include section 119 of H.R. 2076, see se
 
 #### Amendments
 
-1955—Act Aug. 9, 1955, §1, amended credit to section by designating act Mar. 10, 1950, as “title I”.
+<b>1955</b>—Act Aug. 9, 1955, §1, amended credit to section by designating act Mar. 10, 1950, as “title I”.
 
 Act Aug. 9, 1955, §2, substituted “subchapter” for “chapter”.
 

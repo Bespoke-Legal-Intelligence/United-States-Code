@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—Subject to the availability of appropriations, the Secretary may establish an education debt reduction program under which the Secretary shall make education debt reduction payments under this section to qualified individuals eligible under subsection (b) for the purpose of reimbursing such individuals for payments by such individuals of principal and interest on loans described in paragraph (2) <sup>1</sup> of that subsection.
+Authority.—Subject to the availability of appropriations, the Secretary may establish an education debt reduction program under which the Secretary shall make education debt reduction payments under this section to qualified individuals eligible under subsection (b) for the purpose of reimbursing such individuals for payments by such individuals of principal and interest on loans described in paragraph (3) of that subsection.
 
 (b)
 
@@ -48,7 +48,9 @@ Covered Costs.—For purposes of subsection (b)(3), costs relating to a course o
 
 &emsp;(2) all other reasonable educational expenses, including fees, books, and laboratory expenses.
 
-(Added Pub. L. 109–461, title IX, §903(a)(1), Dec. 22, 2006, 120 Stat. 3462.)
+(Added Pub. L. 109–461, title IX, §903(a)(1), Dec. 22, 2006, 120 Stat. 3462; amended Pub. L. 111–275, title X, §1001(<i>o</i>), Oct. 13, 2010, 124 Stat. 2897.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be paragraph “(3)”.</i>
+#### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–275 substituted “paragraph (3)” for “paragraph (2)”.
 

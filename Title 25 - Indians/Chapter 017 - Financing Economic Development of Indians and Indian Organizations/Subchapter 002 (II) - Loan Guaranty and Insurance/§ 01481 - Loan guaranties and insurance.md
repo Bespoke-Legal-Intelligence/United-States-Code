@@ -16,7 +16,7 @@ The Secretary may guarantee or insure loans under subsection (a) to both for-pro
 
 #### Amendments
 
-2006—Pub. L. 109–221, §401(a)(1), (2), (4), inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, substituted “the Secretary may—
+<b>2006</b>—Pub. L. 109–221, §401(a)(1), (2), (4), inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, substituted “the Secretary may—
 
 &emsp;“(1) guarantee”
 
@@ -28,5 +28,5 @@ Pub. L. 109–221, §401(a)(3), which directed substitution of “members; or
 
 > for “members; and (b) in lieu of such guaranty, to insure”, was executed by making the substitution for “and (b) in lieu of such guaranty, to insure” to reflect the probable intent of Congress and the amendment by Pub. L. 98–449. See 1984 Amendment note below.
 
-1984—Pub. L. 98–449 struck out “who are not members of or eligible for membership in an organization which is making loans to its members” before “; and (b)”.
+<b>1984</b>—Pub. L. 98–449 struck out “who are not members of or eligible for membership in an organization which is making loans to its members” before “; and (b)”.
 

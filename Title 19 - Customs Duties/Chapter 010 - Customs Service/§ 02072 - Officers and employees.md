@@ -116,11 +116,11 @@ Section was formerly classified to section 281a of Title 5 prior to the general 
 
 #### Amendments
 
-2006—Subsecs. (d) to (f). Pub. L. 109–347 added subsecs. (d) to (f).
+<b>2006</b>—Subsecs. (d) to (f). Pub. L. 109–347 added subsecs. (d) to (f).
 
-1954—Subsec. (c). Act Sept. 3, 1954, struck out references to the National Prohibition Act.
+<b>1954</b>—Subsec. (c). Act Sept. 3, 1954, struck out references to the National Prohibition Act.
 
-1949—Subsec. (a). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+<b>1949</b>—Subsec. (a). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
 #### Change of Name
 

@@ -30,7 +30,7 @@ Upon request of the Governor of any State, the Secretary shall provide, subject 
 
 #### (c) Records
 
-Each recipient of Federal financial assistance under subsection (b) of this section shall keep such records as the Secretary shall require, including records which fully disclose the amount and disposition by each recipient of the proceeds of such assistance, the total cost of the plan, program, projects, measures, or systems for which such assistance was given or used, the source and amount of funds for such plan, program, projects, measures, or systems not supplied by the Secretary, and such other records as the Secretary determines necessary to facilitate an effective audit and performance evaluation. The Secretary and Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination, at reasonable times and under reasonable conditions, to any pertinent books, documents, papers, and records of any recipient of Federal assistance under this part.
+Each recipient of Federal financial assistance under subsection (b) of this section shall keep such records as the Secretary shall require, including records which fully disclose the amount and disposition by each recipient of the proceeds of such assistance, the total cost of the plan, program, projects, measures, or systems forwhich such assistance was given or used, the source and amount of funds for such plan, program, projects, measures, or systems not supplied by the Secretary, and such other records as the Secretary determines necessary to facilitate an effective audit and performance evaluation. The Secretary and Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination, at reasonable times and under reasonable conditions, to any pertinent books, documents, papers, and records of any recipient of Federal assistance under this part.
 
 #### (d) Assistance as supplementing and not supplanting State and local funds
 
@@ -60,13 +60,13 @@ This chapter, referred to in subsec. (b)(2)(B), (3)(C), was in the original “t
 
 #### Amendments
 
-1992—Subsec. (f). Pub. L. 102–486 added subsec. (f).
+<b>1992</b>—Subsec. (f). Pub. L. 102–486 added subsec. (f).
 
-1990—Subsecs. (d), (e). Pub. L. 101–440 added subsecs. (d) and (e).
+<b>1990</b>—Subsecs. (d), (e). Pub. L. 101–440 added subsecs. (d) and (e).
 
-1978—Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+<b>1978</b>—Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
-1976—Subsec. (b)(2). Pub. L. 94–385, §432(b), inserted provision requiring notice and opportunity to present views prior to disapproval of plans.
+<b>1976</b>—Subsec. (b)(2). Pub. L. 94–385, §432(b), inserted provision requiring notice and opportunity to present views prior to disapproval of plans.
 
 Subsec. (c). Pub. L. 94–385, §432(c), inserted references to plan, measures, or systems wherever appearing and required that examinations be at reasonable times and under reasonable conditions.
 

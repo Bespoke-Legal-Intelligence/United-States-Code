@@ -24,7 +24,7 @@ For provisions of law which make additional individuals eligible for medical ass
 
 &emsp;(D) Section 1383c(c) of this title (relating to individuals who lose eligibility for SSI benefits due to entitlement to child's insurance benefits under section 402(d) of this title).
 
-&emsp;(E) Section 1383c(d) of this title (relating to individuals who lose eligibility for SSI benefits due to entitlement to early widow's or widower's insurance benefits under section 602(e) or (f) <sup>1</sup> of this title).
+&emsp;(E) Section 1383c(d) of this title (relating to individuals who lose eligibility for SSI benefits due to entitlement to early widow's or widower's insurance benefits under section 402(e) or (f) of this title).
 
 #### (3) Foster care and adoption assistance
 
@@ -46,7 +46,7 @@ For provisions of law which make additional individuals eligible for medical ass
 
 &emsp;(E) Section 503 of Public Law 94–566 (relating to deeming eligible for medical assistance certain individuals who would be eligible for supplemental security income benefits but for cost-of-living increases in social security benefits).
 
-&emsp;(F) Section 310(b)(1) of Public Law 96–272 (relating to continuing medicaid eligibility forcertain recipients of Department of Veterans Affairs pensions).
+&emsp;(F) Section 310(b)(1) of Public Law 96–272 (relating to continuing medicaid eligibility for certain recipients of Department of Veterans Affairs pensions).
 
 #### (b) Additional State plan requirements
 
@@ -60,7 +60,7 @@ For other provisions of law that establish additional requirements for State pla
 
 #### References in Text
 
-Section 602 of this title, referred to in subsec. (a)(1)(A), (B), (2)(E), was repealed and a new section 602 enacted by Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112, and, as so enacted, no longer contains subsecs. (a)(32), (37), (e), or (f).
+Section 602 of this title, referred to in subsec. (a)(1)(A), (B), was repealed and a new section 602 enacted by Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112, and, as so enacted, subsec. (a) of section 602 no longer contains a par. (32) or (37).
 
 Section 606 of this title, referred to in subsec. (a)(1)(C), was repealed and a new section 606 enacted by Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112, and, as so enacted, no longer contains a subsec. (h).
 
@@ -82,9 +82,9 @@ Section was formerly classified to section 1396s of this title prior to renumber
 
 #### Amendments
 
-1991—Subsec. (a)(5)(F). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Subsec. (a)(5)(F). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1988—Subsec. (a)(1). Pub. L. 100–360, §411(k)(10)(L), made technical correction to directory language of Pub. L. 100–203, §4118(p)(9), see 1987 Amendment note below.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–360, §411(k)(10)(L), made technical correction to directory language of Pub. L. 100–203, §4118(p)(9), see 1987 Amendment note below.
 
 Subsec. (a)(1)(D). Pub. L. 100–485, §202(c)(5), substituted “section 682(e)(6) of this title” for “section 614(g) of this title”.
 
@@ -92,7 +92,7 @@ Subsec. (a)(2). Pub. L. 100–360, §411(k)(10)(L), made technical correction to
 
 Subsec. (a)(2)(E). Pub. L. 100–360, §411(n)(3), as added by Pub. L. 100–485, §608(d)(28), amended Pub. L. 100–203, §9116(d), see 1987 Amendment note below.
 
-1987—Subsec. (a)(1). Pub. L. 100–203, §4118(p)(9), as amended by Pub. L. 100–360, §411(k)(10)(L), amended par. (1) generally. Prior to amendment, par. (1) read as follows:
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–203, §4118(p)(9), as amended by Pub. L. 100–360, §411(k)(10)(L), amended par. (1) generally. Prior to amendment, par. (1) read as follows:
 
 “(1) AFDC.—(A) Section 602(a)(32) of this title (relating to individuals who are deemed recipients of aid but for whom a payment is not made). Section 602(a)(37) of this title (relating to individuals who lose AFDC eligibility due to increased earnings).
 
@@ -110,9 +110,9 @@ Subsec. (a)(2). Pub. L. 100–203, §4118(p)(9), as amended by Pub. L. 100–360
 
 Subsec. (a)(2)(E). Pub. L. 100–203, §9116(d), as amended generally by Pub. L. 100–360, §411(n)(3), as added by Pub. L. 100–485, §608(d)(28), added subpar. (E).
 
-1986—Subsec. (a)(1). Pub. L. 99–514, §1895(c)(5)(A), redesignated subpars. (B) and (C) as (C) and (D), respectively, and inserted at beginning of subpar. (A) “Section 602(a)(32) of this title (relating to individuals who are deemed recipients of aid but for whom a payment is not made).”
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1895(c)(5)(A), redesignated subpars. (B) and (C) as (C) and (D), respectively, and inserted at beginning of subpar. (A) “Section 602(a)(32) of this title (relating to individuals who are deemed recipients of aid but for whom a payment is not made).”
 
-Subsec. (a)(2). Pub. L. 99–643, which directed amendment of section 1920(a)(2) of the Social Security Act by designating existing provisions as subpar. (A) and adding subpar. (B) relating to section 1383c of this title as it relates to individuals who lose eligibility for SSI benefits due to entitlement to child's insurance benefits, was executed to this section, section 1921 of theSocial Security Act, to reflect the probable intent of Congress and the redesignation of section 1920 of the Social Security Act as section 1921 by Pub. L. 99–509.
+Subsec. (a)(2). Pub. L. 99–643, which directed amendment of section 1920(a)(2) of the Social Security Act by designating existing provisions as subpar. (A) and adding subpar. (B) relating to section 1383c of this title as it relates to individuals who lose eligibility for SSI benefits due to entitlement to child's insurance benefits, was executed to this section, section 1921 of the Social Security Act, to reflect the probable intent of Congress and the redesignation of section 1920 of the Social Security Act as section 1921 by Pub. L. 99–509.
 
 Pub. L. 99–514, §1895(c)(5)(B), designated existing provisions as subpar. (A) and added subpar. (B) relating to section 1383c(b) of this title as it relates to preservation of benefit status for certain disabled widows and widowers.
 

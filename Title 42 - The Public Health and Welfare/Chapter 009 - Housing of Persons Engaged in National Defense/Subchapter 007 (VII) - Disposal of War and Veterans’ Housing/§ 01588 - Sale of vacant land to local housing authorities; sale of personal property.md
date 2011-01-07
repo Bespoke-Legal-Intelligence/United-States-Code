@@ -12,7 +12,7 @@ Subchapters III and VI of this chapter, referred to in text, were comprised of s
 
 #### Amendments
 
-1955—Act Aug. 11, 1955, designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1955</b>—Act Aug. 11, 1955, designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Transfer of Functions
 

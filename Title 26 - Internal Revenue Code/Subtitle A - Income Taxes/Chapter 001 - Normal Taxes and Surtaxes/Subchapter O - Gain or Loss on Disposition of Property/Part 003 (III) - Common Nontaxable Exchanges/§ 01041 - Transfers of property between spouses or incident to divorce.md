@@ -42,9 +42,9 @@ Subsection (a) shall not apply to the transfer of property in trust to the exten
 
 #### Amendments
 
-1988—Subsec. (d). Pub. L. 100–647 substituted “Subsection (a)” for “Paragraph (1) of subsection (a)” and “the spouse (or former spouse)” for “the spouse”.
+<b>1988</b>—Subsec. (d). Pub. L. 100–647 substituted “Subsection (a)” for “Paragraph (1) of subsection (a)” and “the spouse (or former spouse)” for “the spouse”.
 
-1986—Subsec. (e). Pub. L. 99–514 added subsec. (e).
+<b>1986</b>—Subsec. (e). Pub. L. 99–514 added subsec. (e).
 
 #### Effective Date of 1988 Amendment
 

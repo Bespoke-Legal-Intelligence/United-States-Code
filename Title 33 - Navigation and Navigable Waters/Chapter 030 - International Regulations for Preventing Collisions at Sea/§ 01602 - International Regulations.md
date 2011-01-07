@@ -6,7 +6,7 @@ The President is authorized to proclaim the International Regulations for Preven
 
 #### (b) Publication of proclamation in Federal Register
 
-The proclamation shall include the International Regulations and shall be published in the Federal Register. On the date specified in the proclamation, the International Regulations shall enter into force for the United States and shall have effect as if enacted by statute.
+The proclamation shall include the International Regulations and shall be published inthe Federal Register. On the date specified in the proclamation, the International Regulations shall enter into force for the United States and shall have effect as if enacted by statute.
 
 #### (c) Amendment of International Regulations
 
@@ -24,7 +24,7 @@ Subject to the provisions of subsection (d) of this section, the President is al
 
 #### Prior Provisions
 
-The original rules for the prevention of collisions on the water were contained in R.S. §4233, which consisted of 26 rules, R.S. §4412, which authorized the board of supervising inspectors to establish such regulations to beobserved by all steam vessels in passing each other, as they should from time to time deem necessary for safety, and provided that copies of such regulations should be furnished to all of such vessels, to be kept posted up in conspicuous places in such vessels, and R.S. §4413, which prescribed a penalty for neglecting or willfully refusing to observe the regulations established pursuant to said section 4412.
+The original rules for the prevention of collisions on the water were contained in R.S. §4233, which consisted of 26 rules, R.S. §4412, which authorized the board of supervising inspectors to establish such regulations to be observed by all steam vessels in passing each other, as they should from time to time deem necessary for safety, and provided that copies of such regulations should be furnished to all of such vessels, to be kept posted up in conspicuous places in such vessels, and R.S. §4413, which prescribed a penalty for neglecting or willfully refusing to observe the regulations established pursuant to said section 4412.
 
 The rules prescribed by R.S. §4233 were superseded as to navigation on the high seas and in all coast waters of the United States, except such as were otherwise provided for, by the adoption of the “Revised International Regulations” by act March 3, 1885, ch. 354, 23 Stat. 438, which rules were superseded by the passage and adoption of act Aug. 19, 1890, ch. 802, 26 Stat. 322, section 1 of which enacted a set of regulations for preventing collisions at sea to be followed by all public and private vessels of the United States upon the high seas and in all waters connected therewith, navigable by seagoing vessels.
 
@@ -46,7 +46,7 @@ Regulations for Preventing Collisions at Sea, 1960, approved by the Internationa
 
 #### Amendments
 
-2002—Subsec. (d)(3). Pub. L. 107–295 substituted “Transportation and Infrastructure” for “Merchant Marine and Fisheries”.
+<b>2002</b>—Subsec. (d)(3). Pub. L. 107–295 substituted “Transportation and Infrastructure” for “Merchant Marine and Fisheries”.
 
 #### International Convention for Safety of Life at Sea, 1948
 
@@ -58,7 +58,7 @@ The convention, known as the International Convention for the Safety of Life at 
 
 #### International Regulations for Preventing Collisions at Sea, 1972
 
-The Convention on the International Regulations for Preventing Collisions at Sea, 1972, was proclaimed by the President on Jan. 19, 1977. The President's proclamation provided that the Convention enter into force for the United States on July 15, 1977. The proclamation and the International Regulations were published in the Federal Register on Mar. 31, 1977, 42 F.R. 17112, with corrections to the International Regulations published on Apr. 7, 1977, 42 F.R. 18401 and on Apr. 21, 1977, 42 F.R. 20625. The International Regulations, as amended, are maintained and published by the United States Coast Guard, U.S. Department of Homeland Security, in the publication <i>Navigation Rules</i>, which is available for sale by the Superintendent of Documents, U.S. Government Printing Office, Washington, D.C. 20402.
+The Convention on the International Regulations for Preventing Collisions at Sea, 1972, was proclaimed by the President on Jan. 19, 1977. The President's proclamation provided that the Convention enter into force for the United States on July 15, 1977. The proclamation and the International Regulations were published in the Federal Register on Mar. 31, 1977, 42 F.R. 17112, with corrections to the International Regulations published on Apr. 7, 1977, 42 F.R. 18401 and on Apr. 21, 1977, 42 F.R. 20625. The International Maritime Organization in London, England (http://www.imo.org) may be consulted for information with respect to subsequent amendments to the International Regulations.
 
 #### Ex. Ord. No. 11964. Implementation of Convention on the International Regulations for Preventing Collisions at Sea, 1972
 
@@ -66,7 +66,7 @@ Ex. Ord. No. 11964, Jan. 19, 1977, 42 F.R. 4327, provided:
 
 By virtue of the authority vested in me by the Constitution and statutes of the United States of America, including Section 301 of Title 3 of the United States Code, and as President of the United States of America and Commander-in-Chief of the Armed Forces, in order to provide for the coming into force on July 15, 1977, of the Convention on the International Regulations for Preventing Collisions at Sea, 1972 (Senate Executive W, 93d Cong., 1st Sess.), it is hereby ordered as follows:
 
-Section 1. (a) With respect to vessels of special construction or purpose, the Secretary of the Navy, for vessels of the Navy, and the Secretary of the Department in which the Coast Guard is operating, for all other vessels, shall determine and certify, in accord with Rule I of the International Regulations for Preventing Collisions at Sea, 1972, hereinafter referred to as the International Regulations, as to which such vessels cannot comply fully with the provisions of any of the International Regulations with respect to the number, positions, range or arc of visibility of lights or shapes, as well as to the disposition and characteristics of sound-signalling appliances, without interfering with the special function of the vessel.
+Section 1. (a) With respect to vessels of special construction or purpose, the Secretary of the Navy, for vessels of the Navy, and the Secretary of the Department in which the Coast Guard is operating, for all other vessels, shall determine and certify, in accordwith Rule I of the International Regulations for Preventing Collisions at Sea, 1972, hereinafter referred to as the International Regulations, as to which such vessels cannot comply fully with the provisions of any of the International Regulations with respect to the number, positions, range or arc of visibility of lights or shapes, as well as to the disposition and characteristics of sound-signalling appliances, without interfering with the special function of the vessel.
 
 (b) With respect to vessels for which a certification is issued, the Secretary issuing the certification shall certify as to such other provisions which are the closest possible compliance by that vessel with the International Regulations.
 
@@ -102,7 +102,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 1–103. (a) The Secretary of the Department in which the Coast Guard is operating, or the head of any other Executive agency authorized by law, shall be responsible for the issuance of certificates as required by the Convention.
 
-(b) If a certificate is to include matter that pertains to functions vested by law in another Executive agency, the issuing agency shall first ascertain from the other Executive agency the decision regarding thatmatter. The decision of that agency shall be final and binding on the issuing agency.
+(b) If a certificate is to include matter that pertains to functions vested by law in another Executive agency, the issuing agency shall first ascertain from the other Executive agency the decision regarding that matter. The decision of that agency shall be final and binding on the issuing agency.
 
 1–104. The Secretary of the Department in which the Coast Guard is operating may use the services of the American Bureau of Shipping as long as that Bureau is operated in compliance with Section 25 of the Act of June 5, 1920, as amended (46 U.S.C. 881), to perform the functions under the Convention. The Secretary may also use the services of the National Cargo Bureau to perform functions under Chapter VI (Carriage of Grain) of the Convention.
 

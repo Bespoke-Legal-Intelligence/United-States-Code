@@ -22,7 +22,7 @@ In carrying out this section, the Secretary shall—
 
 &emsp;(1) consult with appropriate public and private entities;
 
-&emsp;(2) consider the recommendations of national and local public-health organizationsfor improving the survival rates of individuals who experience cardiac arrest in nonhospital settings by minimizing the time elapsing between the onset of cardiac arrest and the initial medical response, including defibrillation as necessary; and
+&emsp;(2) consider the recommendations of national and local public-health organizations for improving the survival rates of individuals who experience cardiac arrest in nonhospital settings by minimizing the time elapsing between the onset of cardiac arrest and the initial medical response, including defibrillation as necessary; and
 
 &emsp;(3) consult with and counsel other Federal agencies where such devices are to be used.
 

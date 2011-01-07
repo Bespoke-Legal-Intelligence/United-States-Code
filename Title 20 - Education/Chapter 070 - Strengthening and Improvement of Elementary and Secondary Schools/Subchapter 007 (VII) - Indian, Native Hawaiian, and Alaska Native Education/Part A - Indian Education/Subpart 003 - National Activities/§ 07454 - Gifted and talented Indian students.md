@@ -142,5 +142,5 @@ A prior section 7454, Pub. L. 89–10, title VII, §7134, as added Pub. L. 103�
 
 #### Amendments
 
-2008—Subsec. (b)(1)(A). Pub. L. 110–315 substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
+<b>2008</b>—Subsec. (b)(1)(A). Pub. L. 110–315 substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 

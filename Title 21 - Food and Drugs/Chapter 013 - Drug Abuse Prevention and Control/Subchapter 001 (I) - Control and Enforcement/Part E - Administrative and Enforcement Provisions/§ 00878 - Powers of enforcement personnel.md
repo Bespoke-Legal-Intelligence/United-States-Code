@@ -1,6 +1,6 @@
 ### §878. Powers of enforcement personnel
 
-(a) Any officer or employee of the Drug Enforcement Administration or any State or local law enforcement officer designated by the Attorney General may—
+(a) Any officer or employee of the Drug Enforcement Administration or any State, tribal,or local law enforcement officer designated by the Attorney General may—
 
 &emsp;(1) carry firearms;
 
@@ -14,11 +14,13 @@
 
 (b) State and local law enforcement officers performing functions under this section shall not be deemed Federal employees and shall not be subject to provisions of law relating to Federal employees, except that such officers shall be subject to section 3374(c) of title 5.
 
-(Pub. L. 91–513, title II, §508, Oct. 27, 1970, 84 Stat. 1273; Pub. L. 96–132, §16(b), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 99–570, title I, §1869, Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 99–646, §86, Nov. 10, 1986, 100 Stat. 3620.)
+(Pub. L. 91–513, title II, §508, Oct. 27, 1970, 84 Stat. 1273; Pub. L. 96–132, §16(b), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 99–570, title I, §1869, Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 99–646, §86, Nov. 10, 1986, 100 Stat. 3620; Pub. L. 111–211, title II, §232(d), July 29, 2010, 124 Stat. 2278.)
 
 #### Amendments
 
-1986—Pub. L. 99–570 and Pub. L. 99–646 amended section substantially identically designating existing provisions as subsec. (a) and adding subsec. (b), with the exception of the amendment of subsec. (a) for which Pub. L. 99–570 directed the insertion of “or (with respect to offenses under this subchapter or subchapter II of this chapter) any State or local law enforcement officer” and Pub. L. 99–646 directed the insertion of “or any State or local law enforcement officer”, the latter of which was executed to reflect the probable intent of Congress.
+<b>2010</b>—Subsec. (a). Pub. L. 111–211 inserted “, tribal,” after “State” in introductory provisions.
 
-1979—Pub. L. 96–132 substituted “Drug Enforcement Administration” for “Bureau of Narcotics and Dangerous Drugs”.
+<b>1986</b>—Pub. L. 99–570 and Pub. L. 99–646 amended section substantially identically designating existing provisions as subsec. (a) and adding subsec. (b), with the exception of the amendment of subsec. (a) for which Pub. L. 99–570 directed the insertion of “or (with respect to offenses under this subchapter or subchapter II of this chapter) any State or local law enforcement officer” and Pub. L. 99–646 directed the insertion of “or any State or local law enforcement officer”, the latter of which was executed to reflect the probable intent of Congress.
+
+<b>1979</b>—Pub. L. 96–132 substituted “Drug Enforcement Administration” for “Bureau of Narcotics and Dangerous Drugs”.
 

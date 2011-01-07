@@ -48,7 +48,7 @@ In entering into any contract to insure a loan under this section, the Secretary
 
 (1) In any case in which a historic property is obtained pursuant to subsection (f) of this section, the Secretary shall attempt to convey such property to any governmental or nongovernmental entity under such conditions as will ensure the property's continued preservation and use; except that if, after a reasonable time, the Secretary, in consultation with the Advisory Council on Historic Preservation, determines that there is no feasible and prudent means to convey such property and to ensure its continued preservation and use, then the Secretary may convey the property at the fair market value of its interest in such property to any entity without restriction.
 
-(2) Any funds obtained by the Secretary in connection with the conveyance of any propertypursuant to paragraph (1) shall be covered into the historic preservation fund, in addition to the amounts covered into such fund pursuant to section 470h of this title and subsection (i) of this section, and shall remain available in such fund until appropriated by the Congress to carry out the purposes of this subchapter.
+(2) Any funds obtained by the Secretary in connection with the conveyance of any property pursuant to paragraph (1) shall be covered into the historic preservation fund, in addition to the amounts covered into such fund pursuant to section 470h of this title and subsection (i) of this section, and shall remain available in such fund until appropriated by the Congress to carry out the purposes of this subchapter.
 
 #### (h) Assessment of fees in connection with loans
 
@@ -56,7 +56,7 @@ The Secretary may assess appropriate and reasonable fees in connection with insu
 
 #### (i) Treatment of loans as non-Federal funds
 
-Notwithstanding any other provision of law, any loan insured under this section shall be treated as non-Federal funds for the purposes of satisfying any requirement of any other provision of law under which Federal funds to be used for any project or activity are conditioned upon the use of non-Federal funds by the recipient for payment of any portion of the costs of such project or activity.
+Notwithstanding any other provision of law, any loan insured under this section shall be treated as non-Federal funds for the purposes of satisfying any requirement of any other provision of law under which Federal funds to be used for any project or activity are conditioned upon the use of non-Federal funds by the recipient forpayment of any portion of the costs of such project or activity.
 
 #### (j) Authorization of appropriations for payment of losses
 
@@ -74,7 +74,7 @@ In subsec. (c), “December 12, 1980” substituted for “the date of enactment
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–515 substituted provision authorizing the Secretary to establish and maintain a program by which he, upon application of a private lender, insure loans made by such lender to finance any project for the preservation of a property included on the National Register for provision prohibiting grants to surveys or projects receiving assistance from any other Federal program or activity.
+<b>1980</b>—Subsec. (a). Pub. L. 96–515 substituted provision authorizing the Secretary to establish and maintain a program by which he, upon application of a private lender, insure loans made by such lender to finance any project for the preservation of a property included on the National Register for provision prohibiting grants to surveys or projects receiving assistance from any other Federal program or activity.
 
 Subsec. (b). Pub. L. 96–515 substituted provision prescribing loan qualifications for provision authorizing the President, in order to assure consistency in policies and actions and coordination of planning, acquisition, and development assistance to States with other related Federal programs, to issue regulations as deemed desirable.
 

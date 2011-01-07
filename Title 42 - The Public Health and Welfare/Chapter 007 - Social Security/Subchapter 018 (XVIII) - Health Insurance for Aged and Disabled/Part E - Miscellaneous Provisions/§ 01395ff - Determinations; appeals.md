@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;(iii) notification of the right to seek a redetermination or otherwise appeal the determination and instructions on how to initiate such a redetermination under this section;
 
-&emsp;&emsp;(B) such written notice shall be provided in printed form and written in a manner calculated to be understood by the individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both; and
+&emsp;&emsp;(B) such written notice shall be provided in printed form and written in a manner calculated to be understood by the individualentitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both; and
 
 &emsp;&emsp;(C) the individual provided such written notice may obtain, upon request, information on the specific provision of the policy, manual, or regulation used in making the redetermination.
 
@@ -134,7 +134,7 @@
 
 #### (ii) Aggregation of claims
 
-&emsp;&emsp;&emsp;In determining the amount in controversy, the Secretary, under regulations, shall allow two or more appeals to be aggregated if the appeals involve—
+&emsp;&emsp;&emsp;In determining the amount in controversy, the Secretary, under regulations,shall allow two or more appeals to be aggregated if the appeals involve—
 
 &emsp;&emsp;&emsp;&emsp;(I) the delivery of similar or related services to the same individual by one or more providers of services or suppliers, or
 
@@ -200,7 +200,7 @@
 
 #### (iv) Interest on any amounts in controversy
 
-&emsp;&emsp;&emsp;Where a provider of services or supplier is granted judicial review pursuant to this paragraph, the amount in controversy (if any) shall be subject to annual interest beginning on the first day of the first month beginning after the 60-day period as determined pursuant to clause (ii) and equal to the rate of interest on obligations issued for purchase by the Federal Supplementary Medical Insurance Trust Fund for the month in which the civil action authorized under this paragraph is commenced, to be awarded by the reviewing court in favor of the prevailing party. No interest awarded pursuant to the preceding sentence shall be deemed income or cost for the purposes of determining reimbursement due providers of services or suppliers under this subchapter.
+&emsp;&emsp;&emsp;Where a provider of services or supplier is granted judicial review pursuant to this paragraph, the amount in controversy (if any) shall be subject to annual interest beginning on the first day of the first monthbeginning after the 60-day period as determined pursuant to clause (ii) and equal to the rate of interest on obligations issued for purchase by the Federal Supplementary Medical Insurance Trust Fund for the month in which the civil action authorized under this paragraph is commenced, to be awarded by the reviewing court in favor of the prevailing party. No interest awarded pursuant to the preceding sentence shall be deemed income or cost for the purposes of determining reimbursement due providers of services or suppliers under this subchapter.
 
 #### (D) Review entity defined
 
@@ -256,7 +256,7 @@
 
 #### (ii) Consequences of failure to meet deadline
 
-&emsp;&emsp;&emsp;In the case of a failure by the qualified independent contractor to mail the notice of the decision by the end of the period described in clause (i) or to provide notice by the end of the period described in clause (iii), as the case may be, the party requesting the reconsideration or appeal may request a hearing before the Secretary, notwithstanding any requirements for a reconsidered determination for purposes of the party's right to such hearing.
+&emsp;&emsp;&emsp;In the case of a failure by the qualified independent contractor to mail the noticeof the decision by the end of the period described in clause (i) or to provide notice by the end of the period described in clause (iii), as the case may be, the party requesting the reconsideration or appeal may request a hearing before the Secretary, notwithstanding any requirements for a reconsidered determination for purposes of the party's right to such hearing.
 
 #### (iii) Expedited reconsiderations
 
@@ -332,7 +332,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) is not a related party (as defined in subsection (g)(5) of this section);
 
-&emsp;&emsp;&emsp;&emsp;(II) does not have a material familial, financial, or professional relationshipwith such a party in relation to such case; and
+&emsp;&emsp;&emsp;&emsp;(II) does not have a material familial, financial, or professional relationship with such a party in relation to such case; and
 
 &emsp;&emsp;&emsp;&emsp;(III) does not otherwise have a conflict of interest with such a party.
 
@@ -508,7 +508,7 @@
 
 #### (6) Publication on the Internet of decisions of hearings of the Secretary
 
-&emsp;Each decision of a hearing by the Secretary with respect to a national coverage determination shall be made public, and the Secretary shall publish each decision on the Medicare <sup>4</sup> Internet site of the Department of Health and Human Services. The Secretary shall remove from such decision any information that would identify any individual, provider of services, or supplier.
+&emsp;Each decision of a hearing by the Secretary with respect to a national coverage determination shall be made public, and the Secretary shall publish each decision on the Medicare <sup>4</sup> Internet site of the Department of Health and Human Services. The Secretary shall remove from such decision any information thatwould identify any individual, provider of services, or supplier.
 
 #### (7) Annual report on national coverage determinations
 
@@ -580,7 +580,7 @@
 
 #### (5) Related party defined
 
-&emsp;For purposes of this section, the term “related party” means, with respect to a case under this subchapter involving a specific individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, any of the following:
+&emsp;For purposes of this section, the term “related party” means, with respect to a caseunder this subchapter involving a specific individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, any of the following:
 
 &emsp;&emsp;(A) The Secretary, the medicare administrative contractor involved, or any fiduciary, officer, director, or employee of the Department of Health and Human Services, or of such contractor.
 
@@ -698,7 +698,7 @@ Part B of subchapter XI of this chapter, referred to in subsecs. (c)(3)(G) and (
 
 #### Amendments
 
-2003—Subsec. (a)(3)(C)(ii). Pub. L. 108–173, §940(a)(1), substituted “60-day period” for “30-day period” in two places.
+<b>2003</b>—Subsec. (a)(3)(C)(ii). Pub. L. 108–173, §940(a)(1), substituted “60-day period” for “30-day period” in two places.
 
 Subsec. (a)(4), (5). Pub. L. 108–173, §933(c)(1), added pars. (4) and (5).
 
@@ -750,15 +750,15 @@ Subsec. (h). Pub. L. 108–173, §938(a), added subsec. (h).
 
 Subsec. (i). Pub. L. 108–173, §940A(a), added subsec. (i).
 
-2000—Pub. L. 106–554, §1(a)(6) \[title V, §521(a)\], amended section generally, completely revising and expanding provisions relating to determinations with respect to benefits under part A or part B of this subchapter, changing the structure of the section from two subsecs. lettered (a) and (b) to five subsecs. lettered (a) to (e).
+<b>2000</b>—Pub. L. 106–554, §1(a)(6) \[title V, §521(a)\], amended section generally, completely revising and expanding provisions relating to determinations with respect to benefits under part A or part B of this subchapter, changing the structure of the section from two subsecs. lettered (a) and (b) to five subsecs. lettered (a) to (e).
 
 Subsec. (f). Pub. L. 106–554, §1(a)(6) \[title V, §522(a)\], added subsec. (f).
 
-1997—Subsec. (b)(2)(B). Pub. L. 105–33 inserted “(or $100 in the case of home health services)” after “$500”.
+<b>1997</b>—Subsec. (b)(2)(B). Pub. L. 105–33 inserted “(or $100 in the case of home health services)” after “$500”.
 
-1994—Subsec. (b)(1). Pub. L. 103–296 inserted “, except that, in so applying such sections and in applying section 405(<i>l</i>) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively” after “section 405(g) of this title” in closing provisions.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–296 inserted “, except that, in so applying such sections and in applying section 405(<i>l</i>) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively” after “section 405(g) of this title” in closing provisions.
 
-1987—Subsec. (a). Pub. L. 100–203, §4085(i)(18), inserted “or a claim for benefits with respect to home health services under part B of this subchapter” before “shall”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–203, §4085(i)(18), inserted “or a claim for benefits with respect to home health services under part B of this subchapter” before “shall”.
 
 Subsec. (b)(2). Pub. L. 100–203, §4085(i)(19), inserted “and (1)(D)” after “paragraph (1)(C)” in two places.
 
@@ -768,7 +768,7 @@ Subsec. (b)(5). Pub. L. 100–203, §4082(b), added par. (5).
 
 Subsec. (c). Pub. L. 100–93 struck out subsec. (c) which read as follows: “Any institution or agency dissatisfied with any determination by the Secretary that it is not a provider of services, or with any determination described in section 1395cc(b)(2) of this title, shall be entitled to a hearing thereon by the Secretary (after reasonable notice and opportunity for hearing) to the same extent as is provided in section 405(b) of this title, and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title.”
 
-1986—Subsec. (a). Pub. L. 99–509, §9341(a)(1)(A), inserted “or part B” after “amount of benefits under part A”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–509, §9341(a)(1)(A), inserted “or part B” after “amount of benefits under part A”.
 
 Pub. L. 99–509, §9313(b)(1)(A), inserted “and any other determination with respect to a claim for benefits under part A of this subchapter” before “shall”.
 
@@ -782,9 +782,9 @@ Subsec. (b)(2). Pub. L. 99–509, §9341(a)(1)(C), amended par. (2) generally. P
 
 Subsec. (b)(3), (4). Pub. L. 99–509, §9341(a)(1)(D), added pars. (3) and (4).
 
-1984—Subsec. (b)(1)(B). Pub. L. 98–369 struck out the comma before “or section 1395i–2” and struck out “, or section 1819” after “section 1395i–2 of this title”.
+<b>1984</b>—Subsec. (b)(1)(B). Pub. L. 98–369 struck out the comma before “or section 1395i–2” and struck out “, or section 1819” after “section 1395i–2 of this title”.
 
-1972—Subsec. (b). Pub. L. 92–603 redesignated existing provisions as par. (1), generally amended conditions under which a dissatisfied individual shall be entitled to a hearing by Secretary and to judicial review of final decision of Secretary after such hearing, and added par. (2).
+<b>1972</b>—Subsec. (b). Pub. L. 92–603 redesignated existing provisions as par. (1), generally amended conditions under which a dissatisfied individual shall be entitled to a hearing by Secretary and to judicial review of final decision of Secretary after such hearing, and added par. (2).
 
 #### Change of Name
 
@@ -802,7 +802,7 @@ Pub. L. 108–173, title IX, §938(b), Dec. 8, 2003, 117 Stat. 2415, provided th
 
 “(1)
 
-Effective date.—The Secretary \[of Health and Human Services\] shall establish the prior determination process under the amendment made by subsection (a) \[amending this section\] in such a manner as to provide for the acceptance of requests for determinations under such process filed not later than 18 months after the date of the enactment of this Act \[Dec. 8, 2003\].
+Effective date.—The Secretary \[of Health and Human Services\] shall establish the prior determination process under the amendment made by subsection (a) \[amending this section\] in such a manner as to provide for the acceptance of requests for determinationsunder such process filed not later than 18 months after the date of the enactment of this Act \[Dec. 8, 2003\].
 
 “(2)
 
@@ -826,7 +826,7 @@ Amendment by section 1(a)(6) \[title V, §522(a)\] of Pub. L. 106–554 applicab
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 applicable to services furnished on or after Jan. 1, 1998, and for purposes of applying such amendment, any home health spell of illness that began, but did not end, before such date, tobe considered to have begun as of such date, see section 4611(f) of Pub. L. 105–33, set out as a note under section 1395d of this title.
+Amendment by Pub. L. 105–33 applicable to services furnished on or after Jan. 1, 1998, and for purposes of applying such amendment, any home health spell of illness that began, but did not end, before such date, to be considered to have begun as of such date, see section 4611(f) of Pub. L. 105–33, set out as a note under section 1395d of this title.
 
 #### Effective Date of 1994 Amendment
 

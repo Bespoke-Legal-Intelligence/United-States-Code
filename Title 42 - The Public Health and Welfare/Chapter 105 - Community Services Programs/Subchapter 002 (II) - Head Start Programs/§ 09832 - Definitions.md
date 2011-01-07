@@ -54,7 +54,7 @@ For purposes of this subchapter:
 
 &emsp;(11) The term “homeless children” has the meaning given the term “homeless children and youths” in section 11434a(2) of this title.
 
-&emsp;(12) The term “Indian tribe” means any tribe, band, nation, pueblo, or other organized group or community of Indians, including any Native village described in section 3(c) of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(c)) or established pursuant to such Act (43 U.S.C. 1601 et seq.), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;(12) The term “Indian tribe” means any tribe, band, nation, pueblo, or other organizedgroup or community of Indians, including any Native village described in section 3(c) of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(c)) or established pursuant to such Act (43 U.S.C. 1601 et seq.), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 &emsp;(13) The term “institution of higher education” has the meaning given the term in section 1001(a) of title 20.
 
@@ -182,7 +182,7 @@ The Elementary and Secondary Education Act of 1965, referred to in par. (16), is
 
 #### Amendments
 
-2007—Pub. L. 110–134, §3(b)(2), rearranged pars. into numerical order.
+<b>2007</b>—Pub. L. 110–134, §3(b)(2), rearranged pars. into numerical order.
 
 Pub. L. 110–134, §3(b)(1), which directed amendment of this section by redesignating pars. (1) to (23) as (1), (3), (4), (5), (6), (7), (8), (9), (10), (12), (16), (17), (18), (19), (22), (24), (25), (2), (11), (13), (14), (15), (20), (21), (23), and (26), respectively, was executed by redesignating pars. (1) to (26) as (1), (3), (4), (5), (6), (7), (8), (9), (10), (12), (16), (17), (18), (19), (22), (24), (25), (2), (11), (13), (14), (15), (20), (21), (23), and (26), respectively, to reflect the probable intent of Congress.
 
@@ -192,11 +192,11 @@ Par. (3)(C). Pub. L. 110–134, §3(a)(2), inserted “, and financial literacy
 
 Par. (12). Pub. L. 110–134, §3(a)(3), substituted “migrant or seasonal Head Start program” for “migrant and seasonal Head Start program”.
 
-Par. (17). Pub. L. 110–134, §3(a)(4), added par. (17) and struck out former par. (17) which read as follows: “The term ‘State’ means a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands, but for fiscal years ending before October 1, 2001 (and fiscal year 2002, if the legislation described in section 9835(a)(2)(B)(iii) of this title has not been enacted before September 30, 2001), also means the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.”
+Par. (17). Pub. L. 110–134, §3(a)(4), added par. (17) and struck out former par. (17) which read as follows: “The term ‘State’ means a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands, butfor fiscal years ending before October 1, 2001 (and fiscal year 2002, if the legislation described in section 9835(a)(2)(B)(iii) of this title has not been enacted before September 30, 2001), also means the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.”
 
 Pars. (18) to (26). Pub. L. 110–134, §3(a)(5), added pars. (18) to (26).
 
-1998—Pars. (1), (2). Pub. L. 105–285, §103(2), added pars. (1) and (2). Former pars. (1) and (2) redesignated (16) and (17), respectively.
+<b>1998</b>—Pars. (1), (2). Pub. L. 105–285, §103(2), added pars. (1) and (2). Former pars. (1) and (2) redesignated (16) and (17), respectively.
 
 Pars. (3), (4). Pub. L. 105–285, §103(3)–(5), added par. (3), redesignated former par. (3) as (4), and struck out former par. (4) which read as follows: “The term ‘family literacy services’ means services and activities that include interactive literacy activities between parents and their children, training for parents on techniques for being the primary teacher of their children and full partners in the education of their children, parent literacy training (including training in English as a second language), and early childhood education.”
 
@@ -214,7 +214,7 @@ Pub. L. 105–285, §103(9)(A), which directed substitution of “term” for �
 
 Pub. L. 105–285, §103(1), redesignated par. (2) as (17) and transferred it to appear after par. (16).
 
-1994—Par. (4). Pub. L. 103–252, §102(1), (4), (5)(A), redesignated par. (12) as (4) and struck out former par. (4) which defined “adjusted appropriation”.
+<b>1994</b>—Par. (4). Pub. L. 103–252, §102(1), (4), (5)(A), redesignated par. (12) as (4) and struck out former par. (4) which defined “adjusted appropriation”.
 
 Par. (5). Pub. L. 103–252, §102(1), (4), (5)(B), redesignated par. (10) as (5) and struck out former par. (5) which defined “quality improvement funds”.
 
@@ -240,7 +240,7 @@ Pub. L. 103–252, §102(3), (4), added par. (13) and redesignated it as (10).
 
 Par. (14). Pub. L. 103–252, §102(4), redesignated par. (9) as (14).
 
-1990—Par. (2). Pub. L. 101–501, §104(b)(1), substituted “the Federated States of Micronesia, the Republic of the Marshall Islands, Palau” for “the Trust Territory of the Pacific Islands”.
+<b>1990</b>—Par. (2). Pub. L. 101–501, §104(b)(1), substituted “the Federated States of Micronesia, the Republic of the Marshall Islands, Palau” for “the Trust Territory of the Pacific Islands”.
 
 Pars. (4), (5). Pub. L. 101–501, §104(b)(2), added pars. (4) and (5).
 
@@ -252,7 +252,7 @@ Par. (9). Pub. L. 101–501, §121(b), added par. (9).
 
 Pars. (10), (11). Pub. L. 101–501, §123(a), added pars. (10) and (11).
 
-1984—Par. (2). Pub. L. 98–558 inserted “the Commonwealth of” before “the Northern Mariana Islands”.
+<b>1984</b>—Par. (2). Pub. L. 98–558 inserted “the Commonwealth of” before “the Northern Mariana Islands”.
 
 #### Effective Date of 1994 Amendment
 

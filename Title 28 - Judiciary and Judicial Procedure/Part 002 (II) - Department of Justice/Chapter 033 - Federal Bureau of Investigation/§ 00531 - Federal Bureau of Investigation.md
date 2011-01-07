@@ -44,7 +44,7 @@ Failure To Meet Terms.—If the Director of the Federal Bureau of Investigation 
 
 &emsp;“(2) include a statement as to whether the inability or expectation of inability to meet the terms set forth in the enterprise architecture is substantially related to resources; and
 
-&emsp;“(3) if the inability or expectation of inability is substantially related to resources, include a requestfor additional funding that would resolve the problem or a request to reprogram funds that would resolve the problem.
+&emsp;“(3) if the inability or expectation of inability is substantially related to resources, include a request for additional funding that would resolve the problem or a request to reprogram funds that would resolve the problem.
 
 “(e)
 
@@ -100,7 +100,7 @@ Status.—Each member of the CASMIRC (and each individual from any State or loca
 
 &emsp;“(3)
 
-Training.—CASMIRC personnel, under the guidance of the Federal Bureau of Investigation's National Center for the Analysis of Violent Crime and in consultation with the National Center For Missing and Exploited Children, shall develop a specialized course of instruction devoted to training members of the CASMIRC consistent with the purpose of this section. The CASMIRC shall also work with the National Center For Missing and Exploited Children and the Office of Juvenile Justice and Delinquency Prevention of the Department of Justice to develop acourse of instruction for State and local law enforcement personnel to facilitate the dissemination of the most current multidisciplinary expertise in the investigation of child abductions, mysterious disappearances of children, child homicides, and serial murder of children.
+Training.—CASMIRC personnel, under the guidance of the Federal Bureau of Investigation's National Center for the Analysis of Violent Crime and in consultation with the National Center For Missing and Exploited Children, shall develop a specialized course of instruction devoted to training members of the CASMIRC consistent with the purpose of this section. The CASMIRC shall also work with the National Center For Missing and Exploited Children and the Office of Juvenile Justice and Delinquency Prevention of the Department of Justice to develop a course of instruction for State and local law enforcement personnel to facilitate the dissemination of the most current multidisciplinary expertise in the investigation of child abductions, mysterious disappearances of children, child homicides, and serial murder of children.
 
 “(e)
 

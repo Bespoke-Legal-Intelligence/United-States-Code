@@ -18,11 +18,11 @@ Nothing in this chapter shall be construed to—
 
 &emsp;&emsp;(III) section 1182(b)(1) of title 29 as such section applies with respect to genetic information as a health status-related factor;
 
-&emsp;&emsp;(iii)(I) subsection (a) of section 300gg of this title as such section applies with respect to genetic information pursuant to subsection (b)(1)(B) of such section;
+&emsp;&emsp;(iii)(I) subsection (a) of section 2701 <sup>1</sup> of the Public Health Service Act as such section applies with respect to genetic information pursuant to subsection (b)(1)(B) of such section;
 
-&emsp;&emsp;(II) section 300gg–1(a)(1)(F) of this title; or
+&emsp;&emsp;(II) section 2702(a)(1)(F) <sup>1</sup> of such Act; or
 
-&emsp;&emsp;(III) section 300gg–1(b)(1) of this title as such section applies with respect to genetic information as a health status-related factor; or
+&emsp;&emsp;(III) section 2702(b)(1) <sup>1</sup> of such Act as such section applies with respect to genetic information as a health status-related factor; or
 
 &emsp;&emsp;(iv)(I) subsection (a) of section 9801 of title 26 as such section applies with respect to genetic information pursuant to subsection (b)(1)(B) of such section;
 
@@ -60,5 +60,11 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (a)(1), is P
 
 The Rehabilitation Act of 1973, referred to in subsec. (a)(1), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-Title I, referred to in subsecs. (a)(2)(B)(i) and (c), means title I of Pub. L. 110–233, which enacted sections 300gg–53 and 1320d–9 of this title and section 9834 of Title 26, Internal Revenue Code, amended sections 300gg–1, 300gg–21, 300gg–22, 300gg–61, 300gg–91, and 1395ss of this title, sections 9802 and 9832 of Title 26, and sections 1132, 1182, and 1191b of Title 29, Labor, and enacted provisions set out as notes under sections 300gg–1, 1320d–9, and 1395ss of this title, section 9802 of Title 26, and section 1132 of Title 29. For complete classification of title I to the Code, see Tables.
+Title I, referred to in subsecs. (a)(2)(B)(i) and (c), means title I of Pub. L. 110–233. For complete classification of title I to the Code, see Tables.
+
+Section 2701 of the Public Health Service Act, referred to in subsec. (a)(2)(B)(iii)(I), is section 2701 of act July 1, 1944, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
+
+Section 2702 of the Public Health Service Act, referred to in subsec. (a)(2)(B)(iii)(II), (III), is section 2702 of act July 1, 1944, which was classified to section 300gg–1 of this title, was amended by Pub. L. 111–148, title I, §1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (d) to (f) of section 300gg–4 of this title, effective for plan years beginning on or after Jan. 1, 2014. A new section 2702 of act July 1, 1944, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to section 300gg–1 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

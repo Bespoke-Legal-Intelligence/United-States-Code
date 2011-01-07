@@ -22,5 +22,5 @@ The President may provide military training to members of the armed forces of ot
 
 #### Amendments
 
-2001—Subsec. (d). Pub. L. 107–107 added subsec. (d).
+<b>2001</b>—Subsec. (d). Pub. L. 107–107 added subsec. (d).
 

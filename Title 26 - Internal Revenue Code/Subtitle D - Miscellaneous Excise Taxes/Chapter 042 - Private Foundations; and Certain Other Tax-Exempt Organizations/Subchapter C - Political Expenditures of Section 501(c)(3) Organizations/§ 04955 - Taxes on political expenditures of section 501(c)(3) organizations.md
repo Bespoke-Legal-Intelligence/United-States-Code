@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–168 substituted “sections 4945 and 4958” for “section 4945” in heading and inserted “or an excess benefit for purposes of section 4958” before period at end of text.
+<b>1996</b>—Subsec. (e). Pub. L. 104–168 substituted “sections 4945 and 4958” for “section 4945” in heading and inserted “or an excess benefit for purposes of section 4958” before period at end of text.
 
 #### Effective Date of 1996 Amendment
 

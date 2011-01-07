@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) 25 percent shall be available to the Administrator of the Maritime Administration for the payment or reimbursement of expenses incurred by or on behalf of State maritime academies or the United States Merchant Marine Academy for facility and training ship maintenance, repair, and modernization, and for the purchase of simulators and fuel.
 
-&emsp;&emsp;(C) The remainder, whether collected before or after the date of enactment of the Maritime Administration Authorization Act of 2010,<sup>1</sup> shall be available to the Secretary to carry out the Program, as provided in subsection (b) of this section or, if otherwise determined by the Maritime Administrator, for use in the preservation and presentation to the public of maritime heritage property of the Maritime Administration.
+&emsp;&emsp;(C) The remainder, whether collected before or after October 28, 2009, shall be available to the Secretary to carry out the Program, as provided in subsection (b) of this section or, if otherwise determined by the Maritime Administrator, for use in the preservation and presentation to the public of maritime heritage property of the Maritime Administration.
 
 #### (2) Application
 
@@ -22,13 +22,13 @@
 
 &emsp;Except as provided in paragraph (2), of amounts available each fiscal year for the Program under subsection (a)(1)(C) of this section—
 
-&emsp;&emsp;(A) 1/2 shall be used for grants under section 5403(b) of this title; and
+&emsp;&emsp;(A) ½ shall be used for grants under section 5403(b) of this title; and
 
-&emsp;&emsp;(B) 1/2 shall be used for grants under section 5403(c) of this title.
+&emsp;&emsp;(B) ½ shall be used for grants under section 5403(c) of this title.
 
 #### (2) Use for interim projects
 
-&emsp;Amounts available for the Program under subsection (a)(1)(C) of this section that are the proceeds of any of the first 8 obsolete vessels in the National Defense Reserve Fleet that are sold or scrapped after July 1, 1994, under section 57102, 57103, or 57104 of title 46 are available to the Secretary for grants for interim projects approved under section 5403(j) of this title.
+&emsp;Amounts available for the Program under subsection (a)(1)(C) of this section that are theproceeds of any of the first 8 obsolete vessels in the National Defense Reserve Fleet that are sold or scrapped after July 1, 1994, under section 57102, 57103, or 57104 of title 46 are available to the Secretary for grants for interim projects approved under section 5403(j) of this title.
 
 #### (3) Administrative expenses
 
@@ -40,9 +40,9 @@
 
 &emsp;&emsp;Of the amount available under subparagraph (A) for a fiscal year—
 
-&emsp;&emsp;&emsp;(i) 1/2 shall be allocated to the National Trust for expenses incurred in administering grants under section 5403(b) of this title; and
+&emsp;&emsp;&emsp;(i) ½ shall be allocated to the National Trust for expenses incurred in administering grants under section 5403(b) of this title; and
 
-&emsp;&emsp;&emsp;(ii) 1/2 shall be allocated as appropriate by the Secretary to the National Park Service and participating State Historic Preservation Officers.
+&emsp;&emsp;&emsp;(ii) ½ shall be allocated as appropriate by the Secretary to the National Park Service and participating State Historic Preservation Officers.
 
 #### (c) Disposals of vessels
 
@@ -72,11 +72,7 @@
 
 Amounts available under this section shall not be considered in any determination of the amounts available to the Department of the Interior.
 
-(Pub. L. 103–451, §6, Nov. 2, 1994, 108 Stat. 4776; Pub. L. 105–85, div. A, title X, §1026(c), Nov. 18,1997, 111 Stat. 1878; Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–490; Pub. L. 110–181, div. C, title XXXV, §3514, Jan. 28, 2008, 122 Stat. 594; Pub. L. 111–84, div. C, title XXXV, §3509, Oct. 28, 2009, 123 Stat. 2721.)
-
-#### References in Text
-
-The Maritime Administration Authorization Act of 2010, referred to in subsec. (a)(1)(C), is the short title of S. 1308 of the 111th Congress, as introduced on June 19, 2009. No law has been enacted with that short title. Provisions identical to those contained in subsec. (a)(1)(C) of this section, as added by Pub. L. 111–84 which was approved Oct. 28, 2009, were contained in section 3 of S. 1308.
+(Pub. L. 103–451, §6, Nov. 2, 1994, 108 Stat. 4776; Pub. L. 105–85, div. A, title X, §1026(c), Nov. 18, 1997, 111 Stat. 1878; Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–490; Pub. L. 110–181, div. C, title XXXV, §3514, Jan. 28, 2008, 122 Stat. 594; Pub. L. 111–84, div. C, title XXXV, §3509, Oct. 28, 2009, 123 Stat. 2721; Pub. L. 111–383, div. A, title X, §1075(n), Jan. 7, 2011, 124 Stat. 4378.)
 
 #### Codification
 
@@ -84,17 +80,19 @@ The Maritime Administration Authorization Act of 2010, referred to in subsec. (a
 
 #### Amendments
 
-2009—Subsec. (a)(1)(C). Pub. L. 111–84 added subpar. (C) and struck out former subpar. (C) which read as follows: “The remainder shall be available to the Secretary to carry out the Program, as provided in subsection (b) of this section.”
+<b>2011</b>—Subsec. (a)(1)(C). Pub. L. 111–383 substituted “October 28, 2009” for “the date of enactment of the Maritime Administration Authorization Act of 2010”.
 
-2008—Subsec. (c)(1). Pub. L. 110–181, §3514(1), inserted “(either by sale or purchase of disposal services)” after “shall dispose” in introductory provisions.
+<b>2009</b>—Subsec. (a)(1)(C). Pub. L. 111–84 added subpar. (C) and struck out former subpar. (C) which read as follows: “The remainder shall be available to the Secretary to carry out the Program, as provided in subsection (b) of this section.”
+
+<b>2008</b>—Subsec. (c)(1). Pub. L. 110–181, §3514(1), inserted “(either by sale or purchase of disposal services)” after “shall dispose” in introductory provisions.
 
 Subsec. (c)(1)(A). Pub. L. 110–181, §3514(2), added subpar. (A) and struck out former subpar. (A) which read as follows: “by September 30, 2006;”.
 
-2000—Subsec. (c)(1)(A). Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(a)(1)\], substituted “2006” for “2001”.
+<b>2000</b>—Subsec. (c)(1)(A). Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(a)(1)\], substituted “2006” for “2001”.
 
 Subsec. (c)(1)(B). Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(a)(2)\], added subpar. (B) and struck out former subpar. (B) which read as follows: “in a manner that maximizes the return on the vessels to the United States; and”.
 
-1997—Subsec. (a)(1). Pub. L. 105–85, §1026(c)(1), inserted “or 1160(i)” after “1158” in introductory provisions.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–85, §1026(c)(1), inserted “or 1160(i)” after “1158” in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 105–85, §1026(c)(1), (2), inserted “or 1160(i)” after “1158” and substituted “first 8” for “first 6”.
 
@@ -207,6 +205,4 @@ Application.—This subsection shall apply beginning 180 days after the date of 
 “(f)
 
 Report.—No later than 1 year after the date of the enactment of this subsection \[Jan. 6, 2006\], and every 6 months thereafter, the Secretary of Transportation, in coordination with the Secretary of the Navy, shall report to the Committee on Transportation and Infrastructure, the Committee on Resources \[now Committee on Natural Resources\], and the Committee on Armed Services of the House of Representatives, and to the Committee on Commerce, Science, and Transportation and the Committee on Armed Services of the Senate, on the progress made in implementing the vessel disposal plan developed under subsection (c). In particular, the report shall address the performance measures required to be established under subsection (c)(2)(C).”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

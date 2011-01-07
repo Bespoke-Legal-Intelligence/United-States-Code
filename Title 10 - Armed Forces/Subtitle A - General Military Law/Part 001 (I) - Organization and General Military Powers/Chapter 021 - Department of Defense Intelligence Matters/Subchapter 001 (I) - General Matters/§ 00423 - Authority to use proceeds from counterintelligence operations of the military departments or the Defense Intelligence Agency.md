@@ -6,11 +6,11 @@
 
 (c) The Secretary of Defense shall establish policies and procedures to govern acquisition, use, management, and disposition of proceeds from counterintelligence operations conducted by components of the military departments or the Defense Intelligence Agency, including effective internal systems of accounting and administrative controls.
 
-(Added Pub. L. 99–569, title IV, §403(a), Oct. 27, 1986, 100 Stat. 3196, §140b; renumbered §423 and amended Pub. L. 100–26, §9(a)(3), (b)(3), Apr. 21,1987, 101 Stat. 287; Pub. L. 111–84, div. A, title IX, §921(a), (b)(1), Oct. 28, 2009, 123 Stat. 2432.)
+(Added Pub. L. 99–569, title IV, §403(a), Oct. 27, 1986, 100 Stat. 3196, §140b; renumbered §423 and amended Pub. L. 100–26, §9(a)(3), (b)(3), Apr. 21, 1987, 101 Stat. 287; Pub. L. 111–84, div. A, title IX, §921(a), (b)(1), Oct. 28, 2009, 123 Stat. 2432.)
 
 #### Amendments
 
-2009—Pub. L. 111–84 inserted “or the Defense Intelligence Agency” after “military departments” wherever appearing.
+<b>2009</b>—Pub. L. 111–84 inserted “or the Defense Intelligence Agency” after “military departments” wherever appearing.
 
-1987—Pub. L. 100–26 renumbered section 140b of this title as this section and struck out “United States Code,” after “section 3302 of title 31,” in subsec. (a).
+<b>1987</b>—Pub. L. 100–26 renumbered section 140b of this title as this section and struck out “United States Code,” after “section 3302 of title 31,” in subsec. (a).
 

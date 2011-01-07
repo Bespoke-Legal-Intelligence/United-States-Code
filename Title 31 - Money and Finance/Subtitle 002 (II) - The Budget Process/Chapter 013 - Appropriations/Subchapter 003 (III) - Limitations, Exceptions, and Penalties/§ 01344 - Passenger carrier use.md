@@ -46,7 +46,7 @@
 
 (2) If a clear and present danger, an emergency, or a compelling operational consideration described in subsection (b)(9) of this section extends or may extend for a period in excess of 15 calendar days, the head of the Federal agency shall determine whether an authorization under such paragraph shall be extended in excess of 15 calendar days for a period of not more than 90 additional calendar days. Determinations made under this paragraph may be reviewed by the head of such agency at the end of each such period, and, where appropriate, a subsequent determination may be made whether such danger, emergency, or consideration continues to exist and whether an additional extension, not to exceed 90 calendar days, may be authorized. Determinations made under this paragraph shall be in accordance with regulations prescribed pursuant to paragraph (1) of subsection (e).
 
-(3) The authority to make designations under subsection (b)(1) of this section and to make determinations pursuant to subsections (a)(2) and (b)(3)(B) and (9) of this section and pursuant to paragraph (2) of this subsection may not be delegated, except that, with respect to the Executive Office of the President, the President may delegate the authority of the President undersubsection (b)(9) of this section to an officer in the Executive Office of the President. No designation or determination under this section may be made solely or principally for the comfort or convenience of the officer or employee.
+(3) The authority to make designations under subsection (b)(1) of this section and to make determinations pursuant to subsections (a)(2) and (b)(3)(B) and (9) of this section and pursuant to paragraph (2) of this subsection may not be delegated, except that, with respect to the Executive Office of the President, the President may delegate the authority of the President under subsection (b)(9) of this section to an officer in the Executive Office of the President. No designation or determination under this section may be made solely or principally for the comfort or convenience of the officer or employee.
 
 (4) Notification of each designation or determination made under subsection (b)(1), (3)(B), and (9) of this section and under paragraph (2) of this subsection, including the name and title of the officer or employee affected, the reason for any determination under subsection (b)(9), and the expected duration of any authorization under subsection (b)(9), shall be transmitted promptly to the Committee on Government Operations of the House of Representatives and the Committee on Governmental Affairs of the Senate.
 
@@ -82,7 +82,11 @@
 
 &emsp;(2) the term “Federal agency” means—
 
-&emsp;&emsp;(A) a department (as such term is defined in section 18 of the Act of August 2, 1946 (41 U.S.C. 5a));
+&emsp;&emsp;(A) a department—
+
+&emsp;&emsp;&emsp;(i) including independent establishments, other agencies, and wholly owned Government corporations; but
+
+&emsp;&emsp;&emsp;(ii) not including the Senate, House of Representatives, or Architect of the Capitol, or the officers or employees thereof;
 
 &emsp;&emsp;(B) an Executive department (as such term is defined in section 101 of title 5);
 
@@ -106,7 +110,7 @@
 
 (i) Notwithstanding section 410(a) of title 39, this section applies to the United States Postal Service.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 924; Pub. L. 99–550, §1(a), Oct. 27, 1986, 100 Stat. 3067; Pub.L. 100–180, div. A, title XIII, §1314(d)(2), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 100–202, §101(a) \[title IV, §407\], Dec. 22, 1987, 101 Stat. 1329, 1329–26; Pub. L. 101–510, div. A, title III, §326(b), Nov. 5, 1990, 104 Stat. 1531; Pub. L. 103–272, §4(f)(2), July 5, 1994, 108 Stat. 1363; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 108–7, div. K, title IV, §423, Feb. 20, 2003, 117 Stat. 526; Pub. L. 108–447, div. B, title I, §117, Dec. 8, 2004, 118 Stat. 2870; Pub. L. 109–59, title III, §3049(b)(1), (2), Aug. 10, 2005, 119 Stat. 1712, 1713.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 924; Pub. L. 99–550, §1(a), Oct. 27, 1986, 100 Stat. 3067; Pub. L. 100–180, div. A, title XIII, §1314(d)(2), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 100–202, §101(a) \[title IV, §407\], Dec. 22, 1987, 101 Stat. 1329, 1329–26; Pub. L. 101–510, div. A, title III, §326(b), Nov. 5, 1990, 104 Stat. 1531; Pub. L. 103–272, §4(f)(2), July 5, 1994, 108 Stat. 1363; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 108–7, div. K, title IV, §423, Feb. 20, 2003, 117 Stat. 526; Pub. L. 108–447, div. B, title I, §117, Dec. 8, 2004, 118 Stat. 2870; Pub. L. 109–59, title III, §3049(b)(1), (2), Aug. 10, 2005, 119 Stat. 1712, 1713; Pub. L. 111–350, §5(h)(4), Jan. 4, 2011, 124 Stat. 3849.)
 
 Historical and Revision Notes
 
@@ -148,21 +152,23 @@ Amendment by Pub. L. 104–91 is based on section 118 of H.R. 2076, One Hundred 
 
 #### Amendments
 
-2005—Subsec. (a)(3). Pub. L. 109–59, §3049(b)(2), added par. (3).
+<b>2011</b>—Subsec. (h)(2)(A). Pub. L. 111–350 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a department (as such term is defined in section 18 of the Act of August 2, 1946 (41 U.S.C. 5a));”.
+
+<b>2005</b>—Subsec. (a)(3). Pub. L. 109–59, §3049(b)(2), added par. (3).
 
 Subsecs. (g) to (i). Pub. L. 109–59, §3049(b)(1), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
-2004—Subsec. (b)(6). Pub. L. 108–447 inserted “Director of the Bureau of Alcohol, Tobacco, Firearms and Explosives” after “Federal Bureau of Investigation,”.
+<b>2004</b>—Subsec. (b)(6). Pub. L. 108–447 inserted “Director of the Bureau of Alcohol, Tobacco, Firearms and Explosives” after “Federal Bureau of Investigation,”.
 
-2003—Subsec. (b)(6). Pub. L. 108–7 added par. (6) and struck out former par. (6) which read as follows: “the Director of the Central Intelligence Agency, the Director of the Federal Bureau of Investigation, and the Administrator of the Drug Enforcement Administration;”.
+<b>2003</b>—Subsec. (b)(6). Pub. L. 108–7 added par. (6) and struck out former par. (6) which read as follows: “the Director of the Central Intelligence Agency, the Director of the Federal Bureau of Investigation, and the Administrator of the Drug Enforcement Administration;”.
 
-1996—Subsec. (b)(6). Pub. L. 104–91, as amended by Pub. L. 104–99, amended par. (6) generally. Prior to amendment, par. (6) read as follows: “the Director of the Central Intelligence Agency and the Director of the Federal Bureau of Investigation;”.
+<b>1996</b>—Subsec. (b)(6). Pub. L. 104–91, as amended by Pub. L. 104–99, amended par. (6) generally. Prior to amendment, par. (6) read as follows: “the Director of the Central Intelligence Agency and the Director of the Federal Bureau of Investigation;”.
 
-1994—Subsecs. (b), (d), (e). Pub. L. 103–272 amended Pub. L. 100–202. See 1987 Amendment notes below.
+<b>1994</b>—Subsecs. (b), (d), (e). Pub. L. 103–272 amended Pub. L. 100–202. See 1987 Amendment notes below.
 
-1990—Subsec. (c). Pub. L. 101–510 inserted “, section 2637 of title 10,” after “Act of 1956”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–510 inserted “, section 2637 of title 10,” after “Act of 1956”.
 
-1987—Subsec. (b). Pub. L. 100–202, §101(a) \[title IV, §407(1)\], as amended by Pub. L. 103–272, added cl. (2), redesignated former cl. (2) as (3) and in subcl. (B) substituted “subclause (A) of this clause” for “subparagraph (A) of this paragraph”, redesignated former cls. (3) to (8) as (4) to (9), respectively, and in last sentence substituted “clause (9)” for “paragraph (8)”.
+<b>1987</b>—Subsec. (b). Pub. L. 100–202, §101(a) \[title IV, §407(1)\], as amended by Pub. L. 103–272, added cl. (2), redesignated former cl. (2) as (3) and in subcl. (B) substituted “subclause (A) of this clause” for “subparagraph (A) of this paragraph”, redesignated former cls. (3) to (8) as (4) to (9), respectively, and in last sentence substituted “clause (9)” for “paragraph (8)”.
 
 Subsec. (b)(4). Pub. L. 100–180 inserted “the members and Vice Chairman of” before “the Joint Chiefs of Staff”.
 
@@ -174,7 +180,7 @@ Subsec. (d)(4). Pub. L. 100–202, §101(a) \[title IV, §407(2)(C)\], as amende
 
 Subsec. (e)(1). Pub. L. 100–202, §101(a) \[title IV, §407(3)\], as amended by Pub. L. 103–272, substituted “(b)(9)” for “(b)(8)”.
 
-1986—Pub. L. 99–550 substituted “carrier” for “motor vehicle and aircraft” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1986</b>—Pub. L. 99–550 substituted “carrier” for “motor vehicle and aircraft” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) Except as specifically provided by law, an appropriation may be expended to maintain, operate, and repair passenger motor vehicles or aircraft of the United States Government that are used only for an official purpose. An official purpose does not include transporting officers or employees of the Government between their domiciles and places of employment except—
 
@@ -196,7 +202,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight ofHouse of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2004 Amendment
 

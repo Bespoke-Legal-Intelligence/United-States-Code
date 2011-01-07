@@ -28,7 +28,7 @@ The Congress finds and declares that:
 
 #### Amendments
 
-1986—Par. (10). Pub. L. 99–502 inserted “, which include inventions, computer software, and training technologies,”.
+<b>1986</b>—Par. (10). Pub. L. 99–502 inserted “, which include inventions, computer software, and training technologies,”.
 
 #### Short Title of 2000 Amendment
 
@@ -42,7 +42,7 @@ Pub. L. 104–113, §1, Mar. 7, 1996, 110 Stat. 775, provided that: “This Act 
 
 Pub. L. 102–245, §1, Feb. 14, 1992, 106 Stat. 7, provided that: “This Act \[enacting sections 1536, 3704b–1, 3704b–2, 3716, and 3717 of this title and section 6618 of Title 42, The Public Health and Welfare, amending sections 272, 278d, 278g, 278g–1, 278k, 278n, 1453, 1454, 3703, 3704, 3704b, 3710, 3710a, 3711a, 4603, 4603a, and 4632 of this title and section 6683 of Title 42, enacting provisions set out as notes under this section, sections 271, 278f, 278n, and 1453 of this title, and section 6611 of Title 42, and amending provisions set out as a note under section 278<i>l</i> of this title\] may be cited as the ‘American Technology Preeminence Act of 1991’.”
 
-Pub. L. 102–245, title I, §101, Feb. 14, 1992, 106 Stat. 7, provided that: “This title \[enacting sections 1536, 3704b–1, and 3704b–2 of this title, amending sections 278d, 278g, 278g–1, 278k, 1453, 1454, 4603, 4603a, and 4632 of this title, enacting provisions set out as notes under this section and sections 278f and 1453 of this title, andamending provisions set out as a note under section 278<i>l</i> of this title\] may be cited as the ‘Technology Administration Authorization Act of 1991’.”
+Pub. L. 102–245, title I, §101, Feb. 14, 1992, 106 Stat. 7, provided that: “This title \[enacting sections 1536, 3704b–1, and 3704b–2 of this title, amending sections 278d, 278g, 278g–1, 278k, 1453, 1454, 4603, 4603a, and 4632 of this title, enacting provisions set out as notes under this section and sections 278f and 1453 of this title, and amending provisions set out as a note under section 278<i>l</i> of this title\] may be cited as the ‘Technology Administration Authorization Act of 1991’.”
 
 #### Short Title of 1989 Amendment
 
@@ -65,6 +65,180 @@ Pub. L. 99–382, §1, Aug. 14, 1986, 100 Stat. 811, provided: “That this Act 
 #### Short Title
 
 Section 1 of Pub. L. 96–480 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Stevenson-Wydler Technology Innovation Act of 1980’.”
+
+#### Study on Economic Competitiveness and Innovative Capacity of United States and Development of National Economic Competitiveness Strategy
+
+Pub. L. 111–358, title VI, §604, Jan. 4, 2011, 124 Stat. 4037, provided that:
+
+“(a)
+
+Study.—
+
+&emsp;“(1)
+
+In general.—Not later than 1 year after the date of the enactment of this Act \[Jan. 4, 2011\], the Secretary of Commerce shall complete a comprehensive study of the economic competitiveness and innovative capacity of the United States.
+
+&emsp;“(2)
+
+Matters covered.—The study required by paragraph (1) shall include the following:
+
+&emsp;&emsp;“(A) An analysis of the United States economy and innovation infrastructure.
+
+&emsp;&emsp;“(B) An assessment of the following:
+
+&emsp;&emsp;&emsp;“(i) The current competitive and innovation performance of the United States economy relative to other countries that compete economically with the United States.
+
+&emsp;&emsp;&emsp;“(ii) Economic competitiveness and domestic innovation in the current business climate, including tax and Federal regulatory policy.
+
+&emsp;&emsp;&emsp;“(iii) The business climate of the United States and those of other countries that compete economically with the United States.
+
+&emsp;&emsp;&emsp;“(iv) Regional issues that influence the economic competitiveness and innovation capacity of the United States, including—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the roles of State and local governments and institutions of higher education; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) regional factors that contribute positively to innovation.
+
+&emsp;&emsp;&emsp;“(v) The effectiveness of the Federal Government in supporting and promoting economic competitiveness and innovation, including any duplicative efforts of, or gaps in coverage between, Federal agencies and departments.
+
+&emsp;&emsp;&emsp;“(vi) Barriers to competitiveness in newly emerging business or technology sectors, factors influencing underperforming economic sectors, unique issues facing small and medium enterprises, and barriers to the development and evolution of start-ups, firms, and industries.
+
+&emsp;&emsp;&emsp;“(vii) The effects of domestic and international trade policy on the competitiveness of the United States and the United States economy.
+
+&emsp;&emsp;&emsp;“(viii) United States export promotion and export finance programs relative to export promotion and export finance programs of other countries that compete economically with the United States, including Canada, France, Germany, Italy, Japan, Korea, and the United Kingdom, with noting of export promotion and export finance programs carried out by such countries that are not analogous to any programs carried out by the United States.
+
+&emsp;&emsp;&emsp;“(ix) The effectiveness of current policies and programs affecting exports, including an assessment of Federal trade restrictions and State and Federal export promotion activities.
+
+&emsp;&emsp;&emsp;“(x) The effectiveness of the Federal Government and Federally funded research and development centers in supporting and promoting technology commercialization and technology transfer.
+
+&emsp;&emsp;&emsp;“(xi) Domestic and international intellectual property policies and practices.
+
+&emsp;&emsp;&emsp;“(xii) Manufacturing capacity, logistics, and supply chain dynamics of major export sectors, including access to a skilled workforce, physical infrastructure, and broadband network infrastructure.
+
+&emsp;&emsp;&emsp;“(xiii) Federal and State policies relating to science, technology, and education and other relevant Federal and State policies designed to promote commercial innovation, including immigration policies.
+
+&emsp;&emsp;“(C) Development of recommendations on the following:
+
+&emsp;&emsp;&emsp;“(i) How the United States should invest in human capital.
+
+&emsp;&emsp;&emsp;“(ii) How the United States should facilitate entrepreneurship and innovation.
+
+&emsp;&emsp;&emsp;“(iii) How best to develop opportunities for locally and regionally driven innovation by providing Federal support.
+
+&emsp;&emsp;&emsp;“(iv) How best to strengthen the economic infrastructure and industrial base of the United States.
+
+&emsp;&emsp;&emsp;“(v) How to improve the international competitiveness of the United States.
+
+&emsp;“(3)
+
+Consultation.—
+
+&emsp;&emsp;“(A)
+
+In general.—The study required by paragraph (1) shall be conducted in consultation with the National Economic Council of the Office of Policy Development, such Federal agencies as the Secretary considers appropriate, and the Innovation Advisory Board established under subparagraph (B). The Secretary shall also establish a process for obtaining comments from the public.
+
+&emsp;&emsp;“(B)
+
+Innovation advisory board.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—The Secretary shall establish an Innovation Advisory Board for purposes of obtaining advice with respect to the conduct of the study required by paragraph (1).
+
+&emsp;&emsp;&emsp;“(ii)
+
+Composition.—The Advisory Board established under clause (i) shall be comprised of 15 members, appointed by the Secretary—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) who shall represent all major industry sectors;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) a majority of whom should be from private industry, including large and small firms, representing advanced technology sectors and more traditional sectors that use technology; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) who may include economic or innovation policy experts, State and local government officials active in technology-based economic development, and representatives from higher education.
+
+&emsp;&emsp;&emsp;“(iii)
+
+Exemption from faca.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory board established under clause (i).
+
+“(b)
+
+Strategy.—
+
+&emsp;“(1)
+
+In general.—Not later than 1 year after the completion of the study required by subsection (a), the Secretary shall develop, based on the study required by subsection (a)(1), a national 10-year strategy to strengthen the innovative and competitive capacity of the Federal Government, State and local governments, United States institutions of higher education, and the private sector of the United States.
+
+&emsp;“(2)
+
+Elements.—The strategy required by paragraph (1) shall include the following:
+
+&emsp;&emsp;“(A) Actions to be taken by individual Federal agencies and departments to improve competitiveness.
+
+&emsp;&emsp;“(B) Proposed legislative actions for consideration by Congress.
+
+&emsp;&emsp;“(C) Annual goals and milestones for the 10-year period of the strategy.
+
+&emsp;&emsp;“(D) A plan for monitoring the progress of the Federal Government with respect to improving conditions for innovation and the competitiveness of the United States.
+
+“(c)
+
+Report.—
+
+&emsp;“(1)
+
+In general.—Upon the completion of the strategy required by subsection (b), the Secretary of Commerce shall submit to Congress and the President a report on the study conducted under subsection (a) and the strategy developed under subsection (b).
+
+&emsp;“(2)
+
+Elements.—The report required by paragraph (1) shall include the following:
+
+&emsp;&emsp;“(A) The findings of the Secretary with respect to the study conducted under subsection (a).
+
+&emsp;&emsp;“(B) The strategy required by subsection (b).”
+
+#### Promoting Use of High-End Computing Simulation and Modeling by Small- and Medium-Sized Manufacturers
+
+Pub. L. 111–358, title VI, §605, Jan. 4, 2011, 124 Stat. 4040, provided that:
+
+“(a)
+
+Findings.—Congress finds that—
+
+&emsp;“(1) the utilization of high-end computing simulation and modeling by large-scale government contractors and Federal research entities has resulted in substantial improvements in the development of advanced manufacturing technologies; and
+
+&emsp;“(2) such simulation and modeling would also benefit small- and medium-sized manufacturers in the United States if such manufacturers were to deploy such simulation and modeling throughout their manufacturing chains.
+
+“(b)
+
+Policy.—It is the policy of the United States to take all effective measures practicable to ensure that Federal programs and policies encourage and contribute to the use of high-end computing simulation and modeling in the United States manufacturing sector.
+
+“(c)
+
+Study.—
+
+&emsp;“(1)
+
+In general.—Not later than 30 days after the date of the enactment of this Act \[Jan. 4, 2011\], the Secretary of Commerce, in consultation with the Secretary of Energy and the Director of the Office of Science and Technology Policy, shall carry out, through an interagency consulting process, a study of the barriers to the use of high-end computing simulation and modeling by small- and medium-sized manufacturers in the United States.
+
+&emsp;“(2)
+
+Factors.—In carrying out the study required by paragraph (1), the Secretary of Commerce, in consultation with the Secretary of Energy and the Director of the Office of Science and Technology Policy, shall consider the following:
+
+&emsp;&emsp;“(A) The access of small- and medium-sized manufacturers in the United States to high-performance computing facilities and resources.
+
+&emsp;&emsp;“(B) The availability of software and other applications tailored to meet the needs of such manufacturers.
+
+&emsp;&emsp;“(C) Whether such manufacturers employ or have access to individuals with appropriate expertise for the use of such facilities and resources.
+
+&emsp;&emsp;“(D) Whether such manufacturers have access to training to develop such expertise.
+
+&emsp;&emsp;“(E) The availability of tools and other methods to such manufacturers to understand and manage the costs and risks associated with transitioning to the use of such facilities and resources.
+
+&emsp;“(3)
+
+Report.—Not later than 270 days after the commencement of the study required by paragraph (1), the Secretary of Commerce shall, in consultation with the Secretary of Energy and the Director of the Office of Science and Technology Policy, submit to Congress a report on such study. Such report shall include such recommendations for such legislative or administrative action as the Secretary of Commerce considers appropriate in light of the study to increase the utilization of high-end computing simulation and modeling by small- and medium-sized manufacturers in the United States.
+
+“(d)
+
+Authorization of Demonstration and Pilot Programs.—As part of the study required by subsection (c)(1), the Secretary of Commerce, the Secretary of Energy, and the Director of the Office of Science and Technology Policy may carry out such demonstration or pilot programs as either \[the\] Secretary or the Director considers appropriate to gather experiential data to evaluate the feasibility and advisability of a specific program or policy initiative to reduce barriers to the utilization of high-end computer modeling and simulation by small- and medium-sized manufacturers in the United States.”
 
 #### Congressional Findings; 2000 Amendment
 
@@ -256,7 +430,7 @@ Contract With National Research Council.—Within 90 days after the date of enac
 
 &emsp;“(2) Ways for United States manufacturers to gain acceptance of their products in the European Community and in other foreign countries and regions.
 
-&emsp;“(3) The feasibility and consequences of having mutual recognition agreements between testing and certification organizations in the United States and those of major trading partners on the accreditation of testing and certification laboratories and on quality control requirements.
+&emsp;“(3) The feasibility and consequences of having mutual recognition agreements between testing and certification organizations in the United States andthose of major trading partners on the accreditation of testing and certification laboratories and on quality control requirements.
 
 &emsp;“(4) Information coordination regarding product acceptance and conformity assessment mechanisms between the United States and foreign governments.
 
@@ -304,7 +478,7 @@ Ex. Ord. No. 13185, Dec. 28, 2000, 66 F.R. 701, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to keep the Federal Government-University research partnership strong, it is hereby ordered as follows:
 
-Section 1. <i>Principles of the Government-University Partnership</i>. The partnership in science and technology thathas evolved between the Federal Government and American universities has yielded benefits that are vital to each. It continues to prove exceptionally productive, successfully promoting the discovery of knowledge, stimulating technological innovation, improving the quality of life, educating and training the next generation of scientists and engineers, and contributing to America's economic prosperity and national security. In order to reaffirm and strengthen this partnership, this order sets forth the following guiding and operating principles that are fully described in the April 1999 National Science and Technology Council report, “Renewing the Government-University Partnership.” These principles shall provide the framework for the development and analysis of all future Federal policies, rules, and regulations for the Federal Government-University research partnership.
+Section 1. <i>Principles of the Government-University Partnership</i>. The partnership in science and technology that has evolved between the Federal Government and American universities has yielded benefits that are vital to each. It continues to prove exceptionally productive, successfully promoting the discovery of knowledge, stimulating technological innovation, improving the quality of life, educating and training the next generation of scientists and engineers, and contributing to America's economic prosperity and national security. In order to reaffirm and strengthen this partnership, this order sets forth the following guiding and operating principles that are fully described in the April 1999 National Science and Technology Council report, “Renewing the Government-University Partnership.” These principles shall provide the framework for the development and analysis of all future Federal policies, rules, and regulations for the Federal Government-University research partnership.
 
 (a) The guiding principles that shall govern interactions between the Federal Government and universities that perform research are:
 

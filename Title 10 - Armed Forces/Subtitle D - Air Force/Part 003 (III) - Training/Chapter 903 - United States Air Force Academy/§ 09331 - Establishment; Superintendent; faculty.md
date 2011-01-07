@@ -16,7 +16,7 @@
 
 &emsp;(6) A director of admissions.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 561; Pub. L. 85–600, §1(19), Aug. 6, 1958, 72 Stat. 523; Pub. L. 96–513, title V, §514(10), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 101–189, div. A, title V, §515(a)(1), Nov. 29, 1989, 103 Stat. 1441; Pub. L. 102–484, div. A, title V, §523(b), Oct. 23, 1992, 106 Stat. 2410; Pub. L. 103–160, div. A, title V, §533(b)(3), Nov. 30, 1993, 107 Stat. 1658; Pub. L. 108–136, div. A, title V, §529(c)(1), Nov. 24, 2003, 117 Stat. 1471; Pub. L. 110–417, \[div. A\], title V, §545, Oct. 14, 2008, 122 Stat. 4466.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 561; Pub. L. 85–600, §1(19), Aug. 6, 1958, 72 Stat. 523; Pub. L.96–513, title V, §514(10), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 101–189, div. A, title V, §515(a)(1), Nov. 29, 1989, 103 Stat. 1441; Pub. L. 102–484, div. A, title V, §523(b), Oct. 23, 1992, 106 Stat. 2410; Pub. L. 103–160, div. A, title V, §533(b)(3), Nov. 30, 1993, 107 Stat. 1658; Pub. L. 108–136, div. A, title V, §529(c)(1), Nov. 24, 2003, 117 Stat. 1471; Pub. L. 110–417, \[div. A\], title V, §545, Oct. 14, 2008, 122 Stat. 4466.)
 
 Historical and Revision Notes
 
@@ -58,11 +58,11 @@ Subsection (b)(3) is based on those laws establishing the various departments at
 
 #### Amendments
 
-2008—Subsec. (b)(4). Pub. L. 110–417 substituted “23 permanent professors” for “21 permanent professors”.
+<b>2008</b>—Subsec. (b)(4). Pub. L. 110–417 substituted “23 permanent professors” for “21 permanent professors”.
 
-2003—Subsec. (b)(2). Pub. L. 108–136 substituted “Dean of the Faculty” for “dean of the Faculty, who is a permanent professor”.
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–136 substituted “Dean of the Faculty” for “dean of the Faculty, who is a permanent professor”.
 
-1993—Subsec. (c). Pub. L. 103–160 struck out subsec. (c) which read as follows:
+<b>1993</b>—Subsec. (c). Pub. L. 103–160 struck out subsec. (c) which read as follows:
 
 “(1) The Secretary of the Air Force may employ as many civilians as professors, instructors, and lecturers at the Academy as the Secretary considers necessary.
 
@@ -70,17 +70,17 @@ Subsection (b)(3) is based on those laws establishing the various departments at
 
 “(3) The Secretary may delegate the authority conferred by this subsection to any person in the Department of the Air Force to the extent the Secretary considers proper. Such delegation may be made with or without the authority to make successive redelegations.”
 
-1992—Subsec. (c). Pub. L. 102–484 added subsec. (c).
+<b>1992</b>—Subsec. (c). Pub. L. 102–484 added subsec. (c).
 
-1989—Subsec. (b)(6). Pub. L. 101–189 substituted “director of admissions” for “registrar”.
+<b>1989</b>—Subsec. (b)(6). Pub. L. 101–189 substituted “director of admissions” for “registrar”.
 
-1980—Subsec. (a). Pub. L. 96–513 substituted “(hereinafter in this chapter referred to as the ‘Academy’)” for “, in this chapter called the ‘Academy’,”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “(hereinafter in this chapter referred to as the ‘Academy’)” for “, in this chapter called the ‘Academy’,”.
 
-1958—Subsec. (b)(6). Pub. L. 85–600 added par. (6).
+<b>1958</b>—Subsec. (b)(6). Pub. L. 85–600 added par. (6).
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title V, §529(d), Nov. 24, 2003, 117 Stat. 1472, provided that: “The amendments made by this section \[amending this section and sections 9335 and 9336 of this title\] shall apply with respect to anyDean of the Faculty of the United States Air Force Academy selected on or after the date of the enactment of this Act \[Nov. 24, 2003\].”
+Pub. L. 108–136, div. A, title V, §529(d), Nov. 24, 2003, 117 Stat. 1472, provided that: “The amendments made by this section \[amending this section and sections 9335 and 9336 of this title\] shall apply with respect to any Dean of the Faculty of the United States Air Force Academy selected on or after the date of the enactment of this Act \[Nov. 24, 2003\].”
 
 #### Effective Date of 1980 Amendment
 

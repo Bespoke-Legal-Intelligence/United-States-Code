@@ -28,9 +28,9 @@ Ex. Ord. No. 9908, eff. Dec. 5, 1947, 12 F.R. 8223; Ex. Ord. No. 9701 eff. Mar. 
 
 #### Prior Provisions
 
-Provisions similar to this section were contained in section 1805(b)(7) of this title, prior to the generalamendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+Provisions similar to this section were contained in section 1805(b)(7) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Amendments
 
-1958—Subsec. (b). Pub. L. 85–681 provided a general release of reservations of fissionable materials or source materials under acquired lands of the United States as well as public lands.
+<b>1958</b>—Subsec. (b). Pub. L. 85–681 provided a general release of reservations of fissionable materials or source materials under acquired lands of the United States as well as public lands.
 

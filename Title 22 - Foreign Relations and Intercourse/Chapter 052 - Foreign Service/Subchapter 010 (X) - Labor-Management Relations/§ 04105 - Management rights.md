@@ -28,5 +28,5 @@
 
 #### Amendments
 
-1994—Subsec. (a)(3) to (7). Pub. L. 103–236, as amended by Pub. L. 103–415, added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively.
+<b>1994</b>—Subsec. (a)(3) to (7). Pub. L. 103–236, as amended by Pub. L. 103–415, added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively.
 

@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1990—Subsecs. (a), (b). Pub. L. 101–647 substituted “sections 3166(b) and 3166(c)” for “sections 3166(b) and (c)”.
+<b>1990</b>—Subsecs. (a), (b). Pub. L. 101–647 substituted “sections 3166(b) and 3166(c)” for “sections 3166(b) and (c)”.
 
-1979—Subsec. (a). Pub. L. 96–43 inserted “continuous and permanent compliance with the” and substituted “described in” for “required by”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–43 inserted “continuous and permanent compliance with the” and substituted “described in” for “required by”.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Authority for Uniform Funding and Management.—Under regulations prescribed by the Secretary of Defense, funds appropriated to the Department of Defense and available for morale, welfare, and recreation programs may be treated as nonappropriated funds and expended in accordance with laws applicable to the expenditures of nonappropriated funds. When made available for morale, welfare, and recreation programs under such regulations, appropriated funds shall be considered to be nonappropriated funds for all purposes and shall remain available until expended.
+Authority for Uniform Funding and Management.—Under regulations prescribed by theSecretary of Defense, funds appropriated to the Department of Defense and available for morale, welfare, and recreation programs may be treated as nonappropriated funds and expended in accordance with laws applicable to the expenditures of nonappropriated funds. When made available for morale, welfare, and recreation programs under such regulations, appropriated funds shall be considered to be nonappropriated funds for all purposes and shall remain available until expended.
 
 (b)
 
@@ -18,7 +18,7 @@ Conversion of Employment Positions.—(1) The Secretary of Defense may identify 
 
 (4) In this subsection, the term “an employee of a nonappropriated fund instrumentality” means an employee described in section 2105(c) of title 5.
 
-(Added Pub. L. 107–314, div. A, title III, §323(a), Dec. 2, 2002, 116 Stat. 2510, §2494; renumbered§2491, Pub. L. 108–375, div. A, title VI, §651(c)(2), Oct. 28, 2004, 118 Stat. 1972.)
+(Added Pub. L. 107–314, div. A, title III, §323(a), Dec. 2, 2002, 116 Stat. 2510, §2494; renumbered §2491, Pub. L. 108–375, div. A, title VI, §651(c)(2), Oct. 28, 2004, 118 Stat. 1972.)
 
 #### Prior Provisions
 
@@ -26,5 +26,5 @@ A prior section 2491 was renumbered section 2500 of this title.
 
 #### Amendments
 
-2004—Pub. L. 108–375 renumbered section 2494 of this title as this section.
+<b>2004</b>—Pub. L. 108–375 renumbered section 2494 of this title as this section.
 

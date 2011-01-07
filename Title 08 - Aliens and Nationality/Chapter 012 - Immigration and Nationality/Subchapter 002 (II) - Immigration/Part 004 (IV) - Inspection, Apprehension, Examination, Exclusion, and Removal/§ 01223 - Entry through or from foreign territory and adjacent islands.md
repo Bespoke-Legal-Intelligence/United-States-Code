@@ -2,7 +2,7 @@
 
 #### (a) Necessity of transportation contract
 
-The Attorney General shall have power to enter into contracts with transportation lines for the inspection and admission of aliens coming to the United States from foreign territory or from adjacent islands. No such transportation line shall be allowed to land any such alien in the United States until and unless it has entered into any such contracts which may be required by the Attorney General.
+The Attorney General shall have power to enter into contracts with transportation lines for the inspection and admission of aliens coming to the United States from foreign territory or from adjacent islands. No such transportation line shall be allowed to land any such alien in the United States until and unless it has enteredinto any such contracts which may be required by the Attorney General.
 
 #### (b) Landing stations
 
@@ -17,6 +17,10 @@ The Attorney General shall have power to enter into contracts including bonding 
 As used in this section the terms “transportation line” and “transportation company” include, but are not limited to, the owner, charterer, consignee, or authorized agent operating any vessel or aircraft or railroad train bringing aliens to the United States, to foreign territory, or to adjacent islands.
 
 (June 27, 1952, ch. 477, title II, ch. 4, §233, formerly §238, 66 Stat. 202; Pub. L. 99–653, §7(b), Nov. 14, 1986, 100 Stat. 3657; renumbered §233 and amended Pub. L. 104–208, div. C, title III, §§308(b)(4), (f)(4), 362, Sept. 30, 1996, 110 Stat. 3009–615, 3009–622, 3009–645.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (c), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Codification
 

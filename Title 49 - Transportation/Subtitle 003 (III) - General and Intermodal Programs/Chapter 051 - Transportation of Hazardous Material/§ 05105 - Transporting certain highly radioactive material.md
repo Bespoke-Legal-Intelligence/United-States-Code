@@ -70,7 +70,7 @@ In subsection (d), before clause (1), the words “In combination” are omitted
 
 #### Amendments
 
-2005—Subsecs. (b), (c). Pub. L. 109–59, §7126, substituted “Secretary shall” for “Secretary of Transportation shall” wherever appearing.
+<b>2005</b>—Subsecs. (b), (c). Pub. L. 109–59, §7126, substituted “Secretary shall” for “Secretary of Transportation shall” wherever appearing.
 
 Subsec. (d). Pub. L. 109–59, §7126, substituted “Secretary shall” for “Secretary of Transportation shall” in par. (1) and “Secretary may” for “Secretary of Transportation may” in par. (2).
 

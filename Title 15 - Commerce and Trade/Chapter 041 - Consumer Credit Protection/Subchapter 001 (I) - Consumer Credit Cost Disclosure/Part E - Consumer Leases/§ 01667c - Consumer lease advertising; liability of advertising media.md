@@ -50,7 +50,7 @@ No owner or employee of any entity that serves as a medium in which an advertise
 
 &emsp;&emsp;In the case of a radio broadcast advertisement described in paragraph (1) that includes a referral to a toll-free telephone number, the lessor who offers the consumer lease shall—
 
-&emsp;&emsp;&emsp;(i) establish such a toll-free telephone number not later than the date on which the advertisement including the referral is broadcast;
+&emsp;&emsp;&emsp;(i) establish such a toll-free telephone number not later than the date on whichthe advertisement including the referral is broadcast;
 
 &emsp;&emsp;&emsp;(ii) maintain such telephone number for a period of not less than 10 days, beginning on the date of any such broadcast; and
 
@@ -64,17 +64,31 @@ No owner or employee of any entity that serves as a medium in which an advertise
 
 &emsp;Nothing in this subsection shall affect the requirements of Federal law as such requirements apply to advertisement by any medium other than radio broadcast.
 
-(Pub. L. 90–321, title I, §184, as added Pub. L. 94–240, §3, Mar. 23, 1976, 90 Stat. 259; amendedPub. L. 103–325, title III, §336(a), Sept. 23, 1994, 108 Stat. 2234; Pub. L. 104–208, div. A, title II, §2605(c), Sept. 30, 1996, 110 Stat. 3009–473.)
+(Pub. L. 90–321, title I, §184, as added Pub. L. 94–240, §3, Mar. 23, 1976, 90 Stat. 259; amended Pub. L. 103–325, title III, §336(a), Sept. 23, 1994, 108 Stat. 2234; Pub. L. 104–208, div. A, title II, §2605(c), Sept. 30, 1996, 110 Stat. 3009–473; Pub. L. 111–203, title X, §1100A(2), (10)(A), July 21, 2010, 124 Stat. 2107, 2109.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1100A(2), (10)(B), 1100H, July 21, 2010, 124 Stat. 2107, 2109, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
+
+<i>(1) by striking “Board” each place that term appears and inserting “Bureau”; and</i>
+
+<i>(2) by striking “The Board” each place that term appears and inserting “The Bureau”.</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–208, §2605(c)(1), (3), added subsec. (a) and struck out former subsec. (a) consisting of introductory provisions and 5 pars. relating to contents of lease agreements required if consumer lease advertisement stated amount of payment, number of required payments, or that any or no payments were required at lease inception.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2605(c)(1), (3), added subsec. (a) and struck out former subsec. (a) consisting of introductory provisions and 5 pars. relating to contents of lease agreements required if consumer lease advertisement stated amount of payment, number of required payments, or that any or no payments were required at lease inception.
 
 Subsec. (b). Pub. L. 104–208, §2605(c)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 104–208, §2605(c)(1), (2), redesignated subsec. (b) as (c) and struck out former subsec. (c) which read as follows: “There is no liability under this section on the part of any owner or personnel, as such, of any medium in which an advertisement appears or through which it is disseminated.”
 
-1994—Subsecs. (b), (c). Pub. L. 103–325 added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>1994</b>—Subsecs. (b), (c). Pub. L. 103–325 added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Study of Advertising Rules
 

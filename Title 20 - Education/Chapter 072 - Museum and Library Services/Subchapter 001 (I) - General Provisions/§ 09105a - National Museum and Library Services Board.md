@@ -16,17 +16,15 @@ There is established within the Institute a board to be known as the “National
 
 &emsp;&emsp;(C) The Deputy Director for the Office of Museum Services.
 
-&emsp;&emsp;(D) The Chairman of the National Commission on Libraries and Information Science.
+&emsp;&emsp;(D) Ten members appointed by the President, by and with the advice and consent of the Senate, from among individuals who are citizens of the United States and who are specially qualified by virtue of their education, training, or experience in the area of library services, or their commitment to libraries.
 
-&emsp;&emsp;(E) Ten members appointed by the President, by and with the advice and consent of the Senate, from among individuals who are citizens of the United States and who are specially qualified by virtue of their education, training, or experience in the area of library services, or their commitment to libraries.
-
-&emsp;&emsp;(F) Ten members appointed by the President, by and with the advice and consent of the Senate, from among individuals who are citizens of the United States and who are specially qualified by virtue of their education, training, or experience in the area of museum services, or their commitment to museums.
+&emsp;&emsp;(E) Ten members appointed by the President, by and with the advice and consent of the Senate, from among individuals who are citizens of the United States and who are specially qualified by virtue of their education, training, or experience in the area of museum services, or their commitment to museums.
 
 #### (2) Special qualifications
 
 #### (A) Library members
 
-&emsp;&emsp;Of the members of the Museum and Library Services Board appointed under paragraph (1)(E)—
+&emsp;&emsp;Of the members of the Museum and Library Services Board appointed under paragraph (1)(D)—
 
 &emsp;&emsp;&emsp;(i) five shall be professional librarians or information specialists, of whom—
 
@@ -38,7 +36,7 @@ There is established within the Institute a board to be known as the “National
 
 #### (B) Museum members
 
-&emsp;&emsp;Of the members of the Museum and Library Services Board appointed under paragraph (1)(F)—
+&emsp;&emsp;Of the members of the Museum and Library Services Board appointed under paragraph (1)(E)—
 
 &emsp;&emsp;&emsp;(i) five shall be museum professionals who are or have been affiliated with—
 
@@ -54,27 +52,17 @@ There is established within the Institute a board to be known as the “National
 
 #### (4) Voting
 
-&emsp;The Director, the Deputy Director of the Office of Library Services, the Deputy Director of the Office of Museum Services, and the Chairman of the National Commission on Library and Information Science shall be nonvoting members of the Museum and Library Services Board.
+&emsp;The Director, the Deputy Director of the Office of Library Services, and the Deputy Director of the Office of Museum Services shall be nonvoting members of the Museum and Library Services Board.
 
 #### (c) Terms
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, each member of the Museum and Library Services Board appointed under subparagraph (E) or (F) of subsection (b)(1) of this section shall serve for a term of 5 years.
+&emsp;Each member of the Museum and Library Services Board appointed under subparagraph (D) or (E) of subsection (b)(1) of this section shall serve for a term of 5 years.
 
-#### (2) Initial Board appointments
+#### (2) Authority to adjust terms
 
-#### (A) Treatment of members serving on effective date
-
-&emsp;&emsp;Notwithstanding subsection (b) of this section, each individual who is a member of theNational Museum Services Board on September 25, 2003, may, at the individual's election, complete the balance of the individual's term as a member of the Museum and Library Services Board.
-
-#### (B) First appointments
-
-&emsp;&emsp;Notwithstanding subsection (b) of this section, any appointive vacancy in the initial membership of the Museum and Library Services Board existing after the application of subparagraph (A), and any vacancy in such membership subsequently created by reason of the expiration of the term of an individual described in subparagraph (A), shall be filled by the appointment of a member described in subsection (b)(1)(E) of this section. When the Museum and Library Services Board consists of an equal number of individuals who are specially qualified in the area of library services and individuals who are specially qualified in the area of museum services, this subparagraph shall cease to be effective and the board shall be appointed in accordance with subsection (b) of this section.
-
-#### (C) Authority to adjust terms
-
-&emsp;&emsp;The terms of the first members appointed to the Museum and Library Service Board shall be adjusted by the President as necessary to ensure that the terms of not more than four members expire in the same year. Such adjustments shall be carried out through designation of the adjusted term at the time of appointment.
+&emsp;The terms of the members appointed to the Museum and Library Service Board shall be adjusted by the President as necessary to ensure that the terms of not more than four members expire in the same year. Such adjustments shall be carried out through designation of the adjusted term at the time of appointment.
 
 #### (3) Vacancies
 
@@ -92,11 +80,11 @@ There is established within the Institute a board to be known as the “National
 
 #### (1) In general
 
-&emsp;The Museum and Library Services Board shall advise the Director on general policies with respect to the duties, powers, and authority of the Institute relating to museum and library services, including financial assistance awarded under this chapter.
+&emsp;The Museum and Library Services Board shall advise the Director on general policies with respect to the duties, powers, and authority of the Institute relating to museum, library, and information services.
 
-#### (2) National awards
+#### (2) National awards and medals
 
-&emsp;The Museum and Library Services Board shall advise the Director in making awards under section 9107 of this title.
+&emsp;The Museum and Library Services Board shall advise the Director in awarding national awards and medals under section 9107 of this title.
 
 #### (e) Chairperson
 
@@ -128,13 +116,33 @@ A majority of the voting members of the Museum and Library Services Board shall 
 
 #### (i) Coordination
 
-The Director, with the advice of the Museum and Library Services Board, shall take steps to ensure that the policies and activities of the Institute are coordinated with other activities of the Federal Government.
+The Director, with the advice of the Museum and Library Services Board, shall coordinate the development and implementation of policies and activities as described in subsections (f) and (g) of section 9103 of this title.
 
-(Pub. L. 94–462, title II, §207, as added Pub. L. 108–81, title I, §104(2), Sept. 25, 2003, 117 Stat. 993.)
+(Pub. L. 94–462, title II, §207, as added Pub. L. 108–81, title I, §104(2), Sept. 25, 2003, 117 Stat. 993; amended Pub. L. 111–340, title I, §104, Dec. 22, 2010, 124 Stat. 3597.)
 
 #### Prior Provisions
 
 A prior section 207 of Pub. L. 94–462 was renumbered section 208 and is classified to section 9106 of this title.
 
 Another prior section 207 of Pub. L. 94–462 was classified to section 966 of this title prior to the general amendment of title II of Pub. L. 94–462 by Pub. L. 104–208.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (b)(1)(D) to (F). Pub. L. 111–340, §104(1)(A), redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: “The Chairman of the National Commission on Libraries and Information Science.”
+
+Subsec. (b)(2)(A). Pub. L. 111–340, §104(1)(B)(i), substituted “(1)(D)” for “(1)(E)” in introductory provisions.
+
+Subsec. (b)(2)(B). Pub. L. 111–340, §104(1)(B)(ii), substituted “(1)(E)” for “(1)(F)” in introductory provisions.
+
+Subsec. (b)(4). Pub. L. 111–340, §104(1)(C), inserted “and” after “Library Services,” and struck out “, and the Chairman of the National Commission on Library and Information Science” before “shall”.
+
+Subsec. (c)(1). Pub. L. 111–340, §104(2)(A), substituted “Each” for “Except as otherwise provided in this subsection, each” and “(D) or (E)” for “(E) or (F)”.
+
+Subsec. (c)(2). Pub. L. 111–340, §104(2)(B), substituted “Authority to adjust terms” for “Initial Board appointments” in heading, struck out subpars. (A) and (B) related to treatment of members serving on effective date and first appointments and subpar. (C) designation and heading, and substituted “The terms of the members” for “The terms of the first members”.
+
+Subsec. (d)(1). Pub. L. 111–340, §104(3)(A), substituted “relating to museum, library, and information services” for “relating to museum and library services, including financial assistance awarded under this chapter”.
+
+Subsec. (d)(2). Pub. L. 111–340, §104(3)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Museum and Library Services Board shall advise the Director in making awards under section 9107 of this title.”
+
+Subsec. (i). Pub. L. 111–340, §104(4), substituted “coordinate the development and implementation of policies and activities as described in subsections (f) and (g) of section 9103 of this title” for “take steps to ensure that the policies and activities of the Institute are coordinated with other activities of the Federal Government”.
 

@@ -50,7 +50,7 @@ The Trade Act of 1974, referred to in subsec. (a)(2), is Pub. L. 93–618, Jan. 
 
 #### Amendments
 
-1996—Subsec. (a)(2). Pub. L. 104–188 substituted “502(f)(2) of the Trade Act of 1974” for “502(a)(2) of the Trade Act of 1974 (19 U.S.C. 2462(a)(2))”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–188 substituted “502(f)(2) of the Trade Act of 1974” for “502(a)(2) of the Trade Act of 1974 (19 U.S.C. 2462(a)(2))”.
 
 #### Effective Date of 1996 Amendment
 

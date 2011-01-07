@@ -26,7 +26,7 @@ The Commission may construct or acquire, establish, maintain, and operate such a
 
 #### (c) Use of United States mails
 
-The Commission may use the United States mails in the same manner and under the sameconditions as the executive departments of the Federal Government.
+The Commission may use the United States mails in the same manner and under the same conditions as the executive departments of the Federal Government.
 
 #### (d) Necessary or appropriate actions
 
@@ -50,7 +50,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Amendments
 
-1998—Subsec. (f). Pub. L. 105–261 added subsec. (f).
+<b>1998</b>—Subsec. (f). Pub. L. 105–261 added subsec. (f).
 
-1997—Subsec. (e). Pub. L. 105–85 added subsec. (e).
+<b>1997</b>—Subsec. (e). Pub. L. 105–85 added subsec. (e).
 

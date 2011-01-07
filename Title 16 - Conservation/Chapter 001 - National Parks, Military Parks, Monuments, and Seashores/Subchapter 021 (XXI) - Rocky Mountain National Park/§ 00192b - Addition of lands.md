@@ -28,9 +28,9 @@ NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of Ameri
 
 T. 5 N., R. 73 W.,
 
-Sec. 33, S1/2NE1/4, SE1/4SE1/4, and N1/2SE1/4;
+Sec. 33, S½NE¼, SE¼SE¼, and N½SE¼;
 
-Sec. 34, N1/2SW1/4NE1/4, N1/2SE1/4NW1/4, SW1/4NW1/4, and NW1/4SW1/4.
+Sec. 34, N½SW¼NE¼, N½SE¼NW¼, SW¼NW¼, and NW¼SW¼.
 
 #### Proc. No. 3374. Enlarging Rocky Mountain National Park
 

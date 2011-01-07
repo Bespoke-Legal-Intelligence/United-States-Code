@@ -22,7 +22,7 @@ Any cooperative agreement entered into pursuant to this section shall be in acco
 
 #### Codification
 
-In subsec. (c), “chapter 63 of title 31” substituted for “the Federal Grant and Cooperative Agreement Act of 1977 \[41 U.S.C. 501 et seq.\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c), “chapter 63 of title 31” substituted for “the Federal Grant and Cooperative Agreement Act of 1977” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which Act enacted Title 31, Money and Finance.
 
 #### Applicability
 

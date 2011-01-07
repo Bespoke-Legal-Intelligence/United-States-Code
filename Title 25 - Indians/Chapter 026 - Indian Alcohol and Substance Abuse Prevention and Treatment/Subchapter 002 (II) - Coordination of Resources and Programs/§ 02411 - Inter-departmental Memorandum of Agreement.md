@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-Not later than 120 days after October 27, 1986, the Secretary of the Interior and the Secretary of Health and Human Services shall develop and enter into a Memorandum of Agreement which shall, among other things—
+Not later than 1 year after July 29, 2010, the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services shall develop and enter into a Memorandum of Agreement which shall, among other things—
 
 &emsp;(1) determine and define the scope of the problem of alcohol and substance abuse for Indian tribes and their members and its financial and human costs, and specifically identify such problems affecting Indian youth,
 
 &emsp;(2) identify—
 
-&emsp;&emsp;(A) the resources and programs of the Bureau of Indian Affairs and Indian Health Service, and
+&emsp;&emsp;(A) the resources and programs of the Bureau of Indian Affairs, Office of Justice Programs, Substance Abuse and Mental Health Services Administration, and Indian Health Service, and
 
 &emsp;&emsp;(B) other Federal, tribal, State and local, and private resources and programs,
 
@@ -20,13 +20,13 @@ Not later than 120 days after October 27, 1986, the Secretary of the Interior an
 
 &emsp;&emsp;(B) in the absence of such standards, new standards which will be developed and established in consultation with Indian tribes,
 
-&emsp;(4) coordinate the Bureau of Indian Affairs and Indian Health Service alcohol and substance abuse programs existing on October 27, 1986, with programs or efforts established by this chapter,
+&emsp;(4) coordinate the Bureau of Indian Affairs, Department of Justice, Substance Abuse and Mental Health Services Administration, and Indian Health Service alcohol and substance abuse programs existing on October 27, 1986, with programs or efforts established by this chapter,
 
-&emsp;(5) delineate the responsibilities of the Bureau of Indian Affairs and the Indian Health Service to coordinate alcohol and substance abuse-related services at the central, area, agency, and service unit levels,
+&emsp;(5) delineate the responsibilities of the Bureau of Indian Affairs, Department of Justice, Substance Abuse and Mental Health Services Administration, and the Indian Health Service to coordinate alcohol and substance abuse-related services at the central, area, agency, and service unit levels,
 
 &emsp;(6) direct Bureau of Indian Affairs agency and education superintendents, where appropriate, and the Indian Health Service service unit directors to cooperate fully with tribal requests made pursuant to section 2412 of this title, and
 
-&emsp;(7) provide for an annual review of such agreements by the Secretary of the Interior and the Secretary of Health and Human Services.
+&emsp;(7) provide for an annual review of such agreements by the Secretary of the Interior,the Attorney General, and the Secretary of Health and Human Services.
 
 #### (b) Character of activities
 
@@ -34,7 +34,7 @@ To the extent that there are new activities undertaken pursuant to this chapter,
 
 #### (c) Consultation
 
-The Secretary of the Interior and the Secretary of Health and Human Services shall, in developing the Memorandum of Agreement under subsection (a) of this section, consult with and solicit the comments of—
+The Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services shall, in developing the Memorandum of Agreement under subsection (a) of this section, consult with and solicit the comments of—
 
 &emsp;(1) interested Indian tribes,
 
@@ -46,15 +46,29 @@ The Secretary of the Interior and the Secretary of Health and Human Services sha
 
 #### (d) Publication
 
-The Memorandum of Agreement under subsection (a) of this section shall be submitted to Congress and published in the Federal Register not later than 130 days after October 27, 1986. At the same time as publication in the Federal Register, the Secretary of the Interior shall provide a copy of this chapter and the Memorandum of Agreement under subsection (a) of this section to each Indian tribe.
+The Memorandum of Agreement under subsection (a) of this section shall be submitted to Congress and published in the Federal Register not later than 130 days after July 29, 2010. At the same time as publication in the Federal Register, the Secretary of the Interior shall provide a copy of this chapter and the Memorandum of Agreement under subsection (a) of this section to each Indian tribe.
 
-(Pub. L. 99–570, title IV, §4205, Oct. 27, 1986, 100 Stat. 3207–139.)
+(Pub. L. 99–570, title IV, §4205, Oct. 27, 1986, 100 Stat. 3207–139; Pub. L. 111–211, title II, §241(a)(1), July 29, 2010, 124 Stat. 2287.)
 
 #### References in Text
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 Section 2010 of this title, referred to in subsec. (b), was in the original a reference to section 1130 of the Education Amendments of 1978, Pub. L. 95–561. Section 1130 of Pub. L. 95–561 was omitted in the general amendment of chapter 22 (§2001 et seq.) of this title by Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3979. Pub. L. 103–382 enacted a new section 1130 of Pub. L. 95–561, relating to uniform direct funding and support, which is classified to section 2010 of this title. Provisions relating to Indian control of Indian education are now contained in section 2011 of this title.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–211, §241(a)(1)(A)(i), in introductory provisions, substituted “Not later than 1 year after July 29, 2010” for “Not later than 120 days after October 27, 1986” and inserted “, the Attorney General,” after “Secretary of the Interior”.
+
+Subsec. (a)(2)(A). Pub. L. 111–211, §241(a)(1)(A)(ii), which directed insertion of “, Office of Justice Programs, Substance Abuse and Mental Health Services Administration,” after “Bureau of Indian Affairs,”, was executed by making the insertion after “Bureau of Indian Affairs” to reflect the probable intent of Congress.
+
+Subsec. (a)(4), (5). Pub. L. 111–211, §241(a)(1)(A)(iii), (iv), inserted “, Department of Justice, Substance Abuse and Mental Health Services Administration,” after “Bureau of Indian Affairs”.
+
+Subsec. (a)(7). Pub. L. 111–211, §241(a)(1)(A)(v), inserted “, the Attorney General,” after “Secretary of the Interior”.
+
+Subsec. (c). Pub. L. 111–211, §241(a)(1)(B), inserted “, the Attorney General,” after “Secretary of the Interior” in introductory provisions.
+
+Subsec. (d). Pub. L. 111–211, §241(a)(1)(C), substituted “July 29, 2010” for “October 27, 1986”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

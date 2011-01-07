@@ -16,11 +16,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1968—Pub. L. 90–554 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1968</b>—Pub. L. 90–554 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1963—Pub. L. 88–205 provided that goods and professional and other services from private enterprise should be utilized on a contract basis, and that Federal agencies be utilized only when not competitive with private enterprise and available without interfering unduly with domestic programs.
+<b>1963</b>—Pub. L. 88–205 provided that goods and professional and other services from private enterprise should be utilized on a contract basis, and that Federal agencies be utilized only when not competitive with private enterprise and available without interfering unduly with domestic programs.
 
-1962—Pub. L. 87–565 struck out designation “(a)” from provisions of subsec. (a), and repealed subsecs. (b) to (e) which related to the abolition of the Development Loan Fund, International Cooperation Administration, and the Office of Inspector General and Comptroller, the transfer of their functions, and the transfer of the function of the Export-Import Bank under section 1704(e) of title 7.
+<b>1962</b>—Pub. L. 87–565 struck out designation “(a)” from provisions of subsec. (a), and repealed subsecs. (b) to (e) which related to the abolition of the Development Loan Fund, International Cooperation Administration, and the Office of Inspector General and Comptroller, the transfer of their functions, and the transfer of the function of the Export-Import Bank under section 1704(e) of title 7.
 
 #### Delegation of Functions
 

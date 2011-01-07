@@ -6,7 +6,7 @@ If any provision of this title, or the application thereof to any person or circ
 
 #### (b) Reference in other laws to Internal Revenue Code of 1939
 
-Any reference in any other law of the United States or in any Executive order to any provision of the Internal Revenue Code of 1939 shall, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof,be deemed also to refer to the corresponding provision of this title.
+Any reference in any other law of the United States or in any Executive order to any provision of the Internal Revenue Code of 1939 shall, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, be deemed also to refer to the corresponding provision of this title.
 
 #### (c) Items not to be twice included in income or deducted therefrom
 
@@ -38,9 +38,9 @@ The Privacy Act of 1974, referred to in subsec. (e), is Pub. L. 93–579, Dec. 3
 
 #### Amendments
 
-1988—Subsec. (d). Pub. L. 100–647 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No provision of this title shall apply in any case where its application would be contrary to any treaty obligation of the United States in effect on the date of enactment of this title.”
+<b>1988</b>—Subsec. (d). Pub. L. 100–647 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No provision of this title shall apply in any case where its application would be contrary to any treaty obligation of the United States in effect on the date of enactment of this title.”
 
-1976—Subsec. (e). Pub. L. 94–455 added subsec. (e).
+<b>1976</b>—Subsec. (e). Pub. L. 94–455 added subsec. (e).
 
 #### Effective Date of 1988 Amendment
 

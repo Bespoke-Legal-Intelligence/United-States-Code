@@ -8,15 +8,15 @@
 
 #### Amendments
 
-1994—Pub. L. 103–271 amended section generally, substituting present provisions for provisions authorizing Chairman to divide Board into sections of three members and to assign proceedings thereto, and provisions relating to assignment where section is composed of fewer than three members, limiting annual period of service, prohibiting more than one member to be a temporary or acting member, and relating to hearing docket and report of determination.
+<b>1994</b>—Pub. L. 103–271 amended section generally, substituting present provisions for provisions authorizing Chairman to divide Board into sections of three members and to assign proceedings thereto, and provisions relating to assignment where section is composed of fewer than three members, limiting annual period of service, prohibiting more than one member to be a temporary or acting member, and relating to hearing docket and report of determination.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 4002 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 4002 of this title as this section.
 
 Subsec. (a)(2)(A)(ii). Pub. L. 102–83 substituted “Department” for “Veterans’ Administration”.
 
 Subsec. (a)(3). Pub. L. 102–40, §402(d)(1), substituted “7101(c)” for “4001(c)”.
 
-1984—Subsec. (a)(1). Pub. L. 98–223, §208(d)(1), designated provision authorizing the Chairman from time to time to divide the Board into sections of three members, assign members to the Board thereto, and designated the chief thereof, as par. (1).
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–223, §208(d)(1), designated provision authorizing the Chairman from time to time to divide the Board into sections of three members, assign members to the Board thereto, and designated the chief thereof, as par. (1).
 
 Subsec. (a)(2). Pub. L. 98–223, §208(d)(2), designated provision relating to authority of the Chairman in the case where a section is composed of fewer than three members as a result of absence, vacancy, or inability of a member to serve as subpar. (A), and in subpar. (A) as so designated, inserted provision authorizing the Chairman to designate an employee of the Veterans’ Administration to serve as an acting member of the Board on such section for a period of not to exceed 90 days, and added subpar. (B).
 

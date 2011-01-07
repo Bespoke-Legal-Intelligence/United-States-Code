@@ -10,7 +10,7 @@ Except with respect to projects and programs for which binding commitments have 
 
 &emsp;(3) title VI of the Housing and Community Development Act of 1987;
 
-&emsp;(4) section 8(e)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(e)(2)\], except for funds allocated under such section for single room occupancy dwellings as authorized by title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11361 et seq.\]; and
+&emsp;(4) section 8(e)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(e)(2)\], except for funds allocated under such section for single room occupancy dwellings as authorized by title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11360 et seq.\]; and
 
 &emsp;(5) section 810 of the Housing and Community Development Act of 1974 \[12 U.S.C. 1706e\].
 
@@ -22,7 +22,7 @@ Except with respect to projects and programs for which binding commitments have 
 
 #### (2) No effect on SRO program
 
-&emsp;The provision of law referred to in subsection (a)(4) of this section shall remain in effect with respect to single room occupancy dwellings as authorized by title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11361 et seq.\].
+&emsp;The provision of law referred to in subsection (a)(4) of this section shall remain in effect with respect to single room occupancy dwellings as authorized by title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11360 et seq.\].
 
 #### (c) Disposition of repayments
 
@@ -34,9 +34,9 @@ Any amounts received on or after October 1, 1991, as repayments or recaptures in
 
 Title VI of the Housing and Community Development Act of 1987 \[Pub. L. 100–242\], referred to in subsec. (a)(3), is set out as a note under section 1715<i>l</i> of Title 12, Banks and Banking.
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsecs. (a)(4), (b)(2), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title IV of the Act is classified generally to subchapter IV (§11361 et seq.) of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsecs. (a)(4) and (b)(2), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title IV of the Act is classified generally to subchapter IV (§11360 et seq.) of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 #### Amendments
 
-2000—Subsecs. (a)(4), (b)(2). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
+<b>2000</b>—Subsecs. (a)(4), (b)(2). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 

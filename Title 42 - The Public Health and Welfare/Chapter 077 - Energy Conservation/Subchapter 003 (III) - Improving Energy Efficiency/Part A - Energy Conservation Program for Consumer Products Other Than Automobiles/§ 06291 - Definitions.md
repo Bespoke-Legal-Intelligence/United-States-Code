@@ -114,7 +114,7 @@ For purposes of this part:
 
 &emsp;(25) The term “pool heater” means an appliance designed for heating nonpotable water contained at atmospheric pressure, including heating water in swimming pools, spas, hot tubs and similar applications.
 
-&emsp;(26) The term “thermal efficiency of pool heaters” means a measure of the heat in the water delivered at the heater outlet divided by the heat input of the pool heater as measuredunder test conditions specified in section 2.8.1 of the American National Standard for Gas Fired Pool Heaters, Z21.56–1986, or as may be prescribed by the Secretary.
+&emsp;(26) The term “thermal efficiency of pool heaters” means a measure of the heat in the water delivered at the heater outlet divided by the heat input of the pool heater as measured under test conditions specified in section 2.8.1 of the American National Standard for Gas Fired Pool Heaters, Z21.56–1986, or as may be prescribed by the Secretary.
 
 &emsp;(27) The term “water heater” means a product which utilizes oil, gas, or electricity to heat potable water for use outside the heater upon demand, including—
 
@@ -154,11 +154,11 @@ For purposes of this part:
 
 &emsp;(L) The term “residential building” means a structure or portion of a structure which provides facilities or shelter for human residency, except that such term does not include any multifamily residential structure of more than three stories above grade.
 
-&emsp;(M) The term “F34T12 lamp” (also known as a “F40T12/ES lamp”) means a nominal 34 watt tubular fluorescent lamp that is 48 inches in length and 11/2 inches in diameter, and conforms to ANSI standard C78.81–2003 (Data Sheet 7881–ANSI–1006–1).
+&emsp;(M) The term “F34T12 lamp” (also known as a “F40T12/ES lamp”) means a nominal 34 watt tubular fluorescent lamp that is 48 inches in length and 1½ inches in diameter, and conforms to ANSI standard C78.81–2003 (Data Sheet 7881–ANSI–1006–1).
 
-&emsp;(N) The term “F96T12/ES lamp” means a nominal 60 watt tubular fluorescent lamp that is 96 inches in length and 11/2 inches in diameter, and conforms to ANSI standard C78.81–2003 (Data Sheet 7881–ANSI–3006–1).
+&emsp;(N) The term “F96T12/ES lamp” means a nominal 60 watt tubular fluorescent lamp that is 96 inches in length and 1½ inches in diameter, and conforms to ANSI standard C78.81–2003 (Data Sheet 7881–ANSI–3006–1).
 
-&emsp;(O) The term “F96T12HO/ES lamp” means a nominal 95 watt tubular fluorescent lamp that is 96 inches in length and 11/2 inches in diameter, and conforms to ANSI standard C78.81–2003 (Data Sheet 7881–ANSI–1017–1).
+&emsp;(O) The term “F96T12HO/ES lamp” means a nominal 95 watt tubular fluorescent lamp that is 96 inches in length and 1½ inches in diameter, and conforms to ANSI standard C78.81–2003 (Data Sheet 7881–ANSI–1017–1).
 
 &emsp;(P) The term “replacement ballast” means a ballast that—
 
@@ -202,7 +202,7 @@ For purposes of this part:
 
 &emsp;&emsp;(i) Any lamp (commonly referred to as lower wattage nonreflector general service lamps, including any tungsten-halogen lamp) that has a rated wattage between 30 and 199 watts, has an E26 medium screw base, has a rated voltage or voltage range that lies at least partially within 115 and 130 volts, and is not a reflector lamp.
 
-&emsp;&emsp;(ii) Any lamp (commonly referred to as a reflector lamp) which is not colored or designed for rough or vibration service applications, that contains an inner reflective coating on the outer bulb to direct the light, an R, PAR, ER, BR, BPAR, or similar bulb shapes with E26 medium screw bases, a rated voltage or voltage range that lies at least partially within 115 and 130 volts, a diameter which exceeds 2.25 inches, and has a rated wattage that is 40 watts or higher <sup>2</sup>
+&emsp;&emsp;(ii) Any lamp (commonly referred to as a reflector lamp) which is not colored or designed for rough or vibration service applications, that contains an inner reflective coating on the outer bulb to direct the light, an R, PAR, ER, BR, BPAR, or similar bulb shapes with E26 medium screw bases, a rated voltage or voltage range that lies at leastpartially within 115 and 130 volts, a diameter which exceeds 2.25 inches, and has a rated wattage that is 40 watts or higher <sup>2</sup>
 
 &emsp;&emsp;(iii) Any general service incandescent lamp (commonly referred to as a high- or higher-wattage lamp) that has a rated wattage above 199 watts (above 205 watts for a high wattage reflector lamp).
 
@@ -442,7 +442,7 @@ Organic light-emitting diode; oled.—The terms “organic light-emitting diode�
 
 &emsp;(EE)
 
-Colored incandescent lamp.—The term “colored incandescent lamp” means an incandescent lamp designated and marketed as a colored lamp that has—
+Colored incandescent lamp.—The term “colored incandescent lamp” means anincandescent lamp designated and marketed as a colored lamp that has—
 
 &emsp;&emsp;(i) a color rendering index of less than 50, as determined according to the test method given in C.I.E. publication 13.3–1995; or
 
@@ -798,7 +798,7 @@ Paragraph (19) of section 6292(a) of this title, referred to in par. (6)(B), was
 
 #### Amendments
 
-2007—Par. (29)(D)(ii). Pub. L. 110–140, §316(a)(1), made technical correction to directory language of Pub. L. 109–58, §135(a)(1)(A)(ii). See 2005 Amendment note below.
+<b>2007</b>—Par. (29)(D)(ii). Pub. L. 110–140, §316(a)(1), made technical correction to directory language of Pub. L. 109–58, §135(a)(1)(A)(ii). See 2005 Amendment note below.
 
 Par. (30)(B)(viii). Pub. L. 110–140, §316(b), substituted “87” for “82”.
 
@@ -814,7 +814,7 @@ Par. (30)(T) to (EE). Pub. L. 110–140, §321(a)(1)(B), added subpars. (T) to (
 
 Par. (36). Pub. L. 110–140, §301(a)(1), inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, and added subpars. (B) to (D).
 
-Pars. (46) to (48). Pub. L. 110–140, §316(c)(1)(A), added pars. (46) to (48) and struck out former pars. (46) to (48),which defined “high intensity discharge lamp”, “mercury vapor lamp”, and “mercury vapor lamp ballast”, respectively.
+Pars. (46) to (48). Pub. L. 110–140, §316(c)(1)(A), added pars. (46) to (48) and struck out former pars. (46) to (48), which defined “high intensity discharge lamp”, “mercury vapor lamp”, and “mercury vapor lamp ballast”, respectively.
 
 Par. (52). Pub. L. 110–140, §301(a)(2), added par. (52).
 
@@ -824,7 +824,7 @@ Pars. (54) to (57). Pub. L. 110–140, §322(a)(2), added pars. (54) to (57).
 
 Pars. (58) to (66). Pub. L. 110–140, §324(a), added pars. (58) to (66).
 
-2005—Par. (29)(D)(i). Pub. L. 109–58, §135(a)(1)(A)(i), substituted “C78.81–2003 (Data Sheet 7881–ANSI–1010–1)” for “C78.1–1978(R1984)”.
+<b>2005</b>—Par. (29)(D)(i). Pub. L. 109–58, §135(a)(1)(A)(i), substituted “C78.81–2003 (Data Sheet 7881–ANSI–1010–1)” for “C78.1–1978(R1984)”.
 
 Par. (29)(D)(ii). Pub. L. 109–58, §135(a)(1)(A)(ii), as amended by Pub. L. 110–140, §316(a)(1), substituted “C78.81–2003 (Data Sheet 7881–ANSI–3007–1)” for “C78.3–1978(R1984)”.
 
@@ -836,9 +836,9 @@ Par. (30)(S). Pub. L. 109–58, §135(a)(2), designated existing provisions as c
 
 Pars. (32) to (51). Pub. L. 109–58, §135(a)(3), added pars. (32) to (51).
 
-1998—Par. (1). Pub. L. 105–388 substituted “section 32901(a)(3) of title 49” for “section 501(1) of the Motor Vehicle Information and Cost Savings Act” and struck out second period at end.
+<b>1998</b>—Par. (1). Pub. L. 105–388 substituted “section 32901(a)(3) of title 49” for “section 501(1) of the Motor Vehicle Information and Cost Savings Act” and struck out second period at end.
 
-1992—Pub. L. 102–486, §123(b)(1), in introductory provisions, struck out “(a)” before “For purposes”.
+<b>1992</b>—Pub. L. 102–486, §123(b)(1), in introductory provisions, struck out “(a)” before “For purposes”.
 
 Par. (1). Pub. L. 102–486, §123(b)(2)(B), which directed amendment of par. (1)(B) by substituting “ballasts, general service fluorescent lamps, incandescent reflector lamps, showerheads, faucets, water closets, and urinals” for “ballasts”, was executed by making amendment in closing provisions of par. (1), to reflect the probable intent of Congress.
 
@@ -854,13 +854,13 @@ Par. (7). Pub. L. 102–486, §123(b)(4), inserted “, and in the case of show
 
 Pars. (30), (31). Pub. L. 102–486, §123(b)(5), added pars. (30) and (31).
 
-1988—Subsec. (a)(1). Pub. L. 100–357, §2(a)(2), inserted before period at end “, except that such term includes fluorescent lamp ballasts distributed in commerce for personal or commercial use or consumption.”
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–357, §2(a)(2), inserted before period at end “, except that such term includes fluorescent lamp ballasts distributed in commerce for personal or commercial use or consumption.”
 
 Subsec. (a)(6)(B). Pub. L. 100–357, §2(a)(3), substituted “(14)” for “(13)”.
 
 Subsec. (a)(29). Pub. L. 100–357, §2(a)(1), added par. (29).
 
-1987—Subsec. (a)(6). Pub. L. 100–12, §2(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The term ‘energy efficiency standard’ means a performance standard—
+<b>1987</b>—Subsec. (a)(6). Pub. L. 100–12, §2(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The term ‘energy efficiency standard’ means a performance standard—
 
 &emsp;“(A) which prescribes a minimum level of energy efficiency for a covered product, determined in accordance with test procedures prescribed under section 6293 of this title, and
 
@@ -868,7 +868,7 @@ Subsec. (a)(29). Pub. L. 100–357, §2(a)(1), added par. (29).
 
 Subsec. (a)(19) to (28). Pub. L. 100–12, §2(b), added pars. (19) to (28).
 
-1978—Subsec. (a)(3), (6)(B), (9). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+<b>1978</b>—Subsec. (a)(3), (6)(B), (9). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaningAdministrator of the Federal Energy Administration, wherever appearing.
 
 #### Effective Date of 2007 Amendment
 

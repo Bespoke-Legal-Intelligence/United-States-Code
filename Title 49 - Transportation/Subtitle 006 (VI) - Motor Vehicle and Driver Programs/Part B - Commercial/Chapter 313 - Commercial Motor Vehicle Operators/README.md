@@ -24,11 +24,11 @@
 
 #### Amendments
 
-2005—Pub. L. 109–59, title IV, §4124(b), Aug. 10, 2005, 119 Stat. 1738, added item 31313.
+<b>2005</b>—Pub. L. 109–59, title IV, §4124(b), Aug. 10, 2005, 119 Stat. 1738, added item 31313.
 
-1999—Pub. L. 106–159, title II, §203(b), Dec. 9, 1999, 113 Stat. 1762, added item 31312.
+<b>1999</b>—Pub. L. 106–159, title II, §203(b), Dec. 9, 1999, 113 Stat. 1762, added item 31312.
 
-1998—Pub. L. 105–178, title IV, §§4007(b), 4011(b)(2), (f), June 9, 1998, 112 Stat. 403, 407, 408, substituted “Commercial driver's license requirement” for “Limitation on the number of driver's licenses” in item 31302 and “Waivers, exemptions, and pilot programs” for “Waiver authority” in item 31315 and struck out items 31312 “Grants for testing and ensuring the fitness of operators of commercial motor vehicles” and 31313 “Grants for issuing commercial drivers’ licenses and complying with State participation requirements”.
+<b>1998</b>—Pub. L. 105–178, title IV, §§4007(b), 4011(b)(2), (f), June 9, 1998, 112 Stat. 403, 407, 408, substituted “Commercial driver's license requirement” for “Limitation on the number of driver's licenses” in item 31302 and “Waivers, exemptions, and pilot programs” for “Waiver authority” in item 31315 and struck out items 31312 “Grants for testing and ensuring the fitness of operators of commercial motor vehicles” and 31313 “Grants for issuing commercial drivers’ licenses and complying with State participation requirements”.
 
 
 ---

@@ -14,25 +14,25 @@ Preventive Maintenance.—A preventive maintenance activity shall be eligible fo
 
 #### Amendments
 
-2005—Subsec. (b). Pub. L. 109–59 substituted “such transportation department” for “such highway department”.
+<b>2005</b>—Subsec. (b). Pub. L. 109–59 substituted “such transportation department” for “such highway department”.
 
-1998—Subsecs. (a) to (c). Pub. L. 105–178 substituted “State transportation department” for “State highway department”.
+<b>1998</b>—Subsecs. (a) to (c). Pub. L. 105–178 substituted “State transportation department” for “State highway department”.
 
-1995—Subsec. (d). Pub. L. 104–59 added subsec. (d).
+<b>1995</b>—Subsec. (d). Pub. L. 104–59 added subsec. (d).
 
-1987—Subsecs. (d), (e). Pub. L. 100–17 struck out subsecs. (d) and (e) which read as follows:
+<b>1987</b>—Subsecs. (d), (e). Pub. L. 100–17 struck out subsecs. (d) and (e) which read as follows:
 
-“(d) The Secretary in consultation with the State highway departments and interested and knowledgeable private organizations and individuals shall as soon as possible establish national bridge inspection standards in order to provide for the proper safety inspection of bridges. Such standards shall specify in detail the method by which inspections shall be conducted by the State highway departments, the maximum time lapse between inspections and the qualifications for those charged with the responsibility for carrying out such inspections. Each State shall be required to maintain written reports to be available to the Secretary pursuant to such inspections together with a notation of the action taken pursuant to the findings of such inspections. Each State shall be required to maintain a current inventory of all bridges.
+“(d) The Secretary in consultation with the State highway departments and interested and knowledgeable private organizations and individuals shall as soon as possible establish national bridge inspection standards in order to provide for the proper safety inspectionof bridges. Such standards shall specify in detail the method by which inspections shall be conducted by the State highway departments, the maximum time lapse between inspections and the qualifications for those charged with the responsibility for carrying out such inspections. Each State shall be required to maintain written reports to be available to the Secretary pursuant to such inspections together with a notation of the action taken pursuant to the findings of such inspections. Each State shall be required to maintain a current inventory of all bridges.
 
 “(e) The Secretary shall establish in cooperation with the State highway departments a program designed to train appropriate employees of the Federal Government and the State governments to carry out bridge inspections. Such a program shall be revised from time to time in light of new or improved techniques. For the purposes of this section the Secretary may use funds made available pursuant to the provisions of section 104(a) and section 307(a) of this title.”
 
-1983—Subsec. (c). Pub. L. 97–424 substituted “State highway district, municipality, county, other political or administrative subdivision of the State, or the entire State in which such project is located, whichever the Secretary deems most appropriate,” for “entire State” after “all types in the”, and struck out exception for a situation where such project was subject to an agreement pursuant to subsection (b) of this section, in which case approval was to have been withheld only for secondary or urban projects in the county or municipality where such project is located.
+<b>1983</b>—Subsec. (c). Pub. L. 97–424 substituted “State highway district, municipality, county, other political or administrative subdivision of the State, or the entire State in which such project is located, whichever the Secretary deems most appropriate,” for “entire State” after “all types in the”, and struck out exception for a situation where such project was subject to an agreement pursuant to subsection (b) of this section, in which case approval was to have been withheld only for secondary or urban projects in the county or municipality where such project is located.
 
-1978—Subsec. (d). Pub. L. 95–599 struck out provisions limiting provisions of the subsection to the Federal-aid system.
+<b>1978</b>—Subsec. (d). Pub. L. 95–599 struck out provisions limiting provisions of the subsection to the Federal-aid system.
 
-1968—Subsecs. (d), (e). Pub. L. 90–495 added subsecs. (d) and (e).
+<b>1968</b>—Subsecs. (d), (e). Pub. L. 90–495 added subsecs. (d) and (e).
 
-1959—Subsec. (a). Pub. L. 86–70, §21(e)(3), substituted “It” for “Except as provided in subsection (d) of this section, it”.
+<b>1959</b>—Subsec. (a). Pub. L. 86–70, §21(e)(3), substituted “It” for “Except as provided in subsection (d) of this section, it”.
 
 Subsec. (d). Pub. L. 86–70, §21(d)(2), repealed subsec. (d) which related to expenditure of funds apportioned to the Territory of Alaska and contributed by the Territory for the maintenance of roads.
 

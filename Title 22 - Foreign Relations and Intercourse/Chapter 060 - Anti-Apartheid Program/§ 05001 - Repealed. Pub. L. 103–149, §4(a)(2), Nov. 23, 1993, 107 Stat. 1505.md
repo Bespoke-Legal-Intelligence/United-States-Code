@@ -64,7 +64,7 @@ Pub. L. 103–149, Nov. 23, 1993, 107 Stat. 1503, provided that:
 
 &emsp;&emsp;“(D) urge United States investors to develop a working partnership with representative organs of South African civil society, particularly churches and trade unions, in promoting responsible codes of corporate conduct and other measures to address the historical inequities created under apartheid;
 
-&emsp;“(5) the United States should urge the Government of South Africa to liberalize its trade and investmentpolicies to facilitate the expansion of the economy, and to shift resources to meet the needs of disadvantaged South Africans;
+&emsp;“(5) the United States should urge the Government of South Africa to liberalize its trade and investment policies to facilitate the expansion of the economy, and to shift resources to meet the needs of disadvantaged South Africans;
 
 &emsp;“(6) the United States should promote cooperation between South Africa and other countries in the region to foster regional stability and economic growth; and
 
@@ -106,7 +106,7 @@ Other Provisions.—The following provisions are repealed or amended as follows:
 
 &emsp;“(6) Section 43 of the Bretton Woods Agreements Act (22 U.S.C. 286aa) is amended by repealing subsection (b) and by striking ‘(a)’.
 
-&emsp;“(7) Section 330 of H.R. 5205 of the 99th Congress (Department of Transportation and Related Agencies Appropriations Act, 1987) (22 U.S.C. 5056a) as incorporated by reference in section 101(<i>l</i>) of Public Law 99–500 and Public Law 99–591, and made effective as if enacted into law by section 106 of Public Law 100–202, is repealed.
+&emsp;“(7) Section 330 of H.R. 5205 of the 99th Congress (Department of Transportation and Related Agencies Appropriations Act, 1987) (22 U.S.C. 5056a) as incorporated by reference in section 101(<i>l</i>) of Public Law 99–500 and Public Law 99–591, and made effective as ifenacted into law by section 106 of Public Law 100–202, is repealed.
 
 &emsp;“(8)(A) Section 901(j)(2)(C) of the Internal Revenue Code of 1986 (26 U.S.C. 901(j)(2)(C)) is repealed.
 

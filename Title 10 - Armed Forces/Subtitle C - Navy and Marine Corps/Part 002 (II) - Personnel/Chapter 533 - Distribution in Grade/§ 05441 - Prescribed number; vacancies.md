@@ -12,9 +12,9 @@ There is no source for the section because the Officer Personnel Act did not att
 
 #### Amendments
 
-1989—Pub. L. 101–189 inserted “, the term” after “In this chapter”.
+<b>1989</b>—Pub. L. 101–189 inserted “, the term” after “In this chapter”.
 
-1980—Pub. L. 96–513 struck out “or combination of grades” after “to a grade”, after “in the grade”, and after “in a grade”.
+<b>1980</b>—Pub. L. 96–513 struck out “or combination of grades” after “to a grade”, after “in the grade”, and after “in a grade”.
 
 #### Effective Date of 1980 Amendment
 

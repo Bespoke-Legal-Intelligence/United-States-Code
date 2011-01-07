@@ -10,9 +10,9 @@
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-1991—Pub. L. 102–40 renumbered section 4067 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4067 of this title as this section.
 
 Subsec. (a). Pub. L. 102–82, §1(3), struck out before period at end “except as provided in subsection (d) of this section”.
 

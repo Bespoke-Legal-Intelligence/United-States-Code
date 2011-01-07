@@ -28,7 +28,7 @@ Section enacted as part of the International Development and Food Assistance Act
 
 #### Amendments
 
-1979—Subsec. (a). Pub. L. 96–53 substituted “May 1” for “March 15”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–53 substituted “May 1” for “March 15”.
 
 #### Effective Date of 1979 Amendment
 

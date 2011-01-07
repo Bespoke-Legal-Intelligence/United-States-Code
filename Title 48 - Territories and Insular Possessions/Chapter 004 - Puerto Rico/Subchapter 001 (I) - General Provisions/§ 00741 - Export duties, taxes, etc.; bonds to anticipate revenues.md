@@ -14,9 +14,9 @@ Provisions similar to those in this section were contained in act Apr. 12, 1900,
 
 #### Amendments
 
-1937—Act Aug. 26, 1937, reenacted section without substantive change.
+<b>1937</b>—Act Aug. 26, 1937, reenacted section without substantive change.
 
-1927—Act Mar. 4, 1927, inserted imposition of income taxes.
+<b>1927</b>—Act Mar. 4, 1927, inserted imposition of income taxes.
 
-1921—Act Feb. 3, 1921, reenacted section without change.
+<b>1921</b>—Act Feb. 3, 1921, reenacted section without change.
 

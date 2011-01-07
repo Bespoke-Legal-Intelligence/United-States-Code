@@ -100,7 +100,7 @@ The Administrator may, wherever he determines necessary, extend the period for s
 
 (1) The Administrator shall promulgate a Federal implementation plan at any time within 2 years after the Administrator—
 
-&emsp;(A) finds that a State has failed to make a required submission or finds that the plan or plan revision submitted by the State does not satisfy the minimum criteria established under subsection (k)(1)(A) of this section, or
+&emsp;(A) finds that a State has failed to make a required submission or finds that the plan orplan revision submitted by the State does not satisfy the minimum criteria established under subsection (k)(1)(A) of this section, or
 
 &emsp;(B) disapproves a State implementation plan submission in whole or in part,
 
@@ -230,11 +230,11 @@ As a condition for issuance of any permit required under this subchapter, the ow
 
 #### (<i>l</i>) Plan revisions
 
-Each revision to an implementation plan submitted by a State under this chapter shall beadopted by such State after reasonable notice and public hearing. The Administrator shall not approve a revision of a plan if the revision would interfere with any applicable requirement concerning attainment and reasonable further progress (as defined in section 7501 of this title), or any other applicable requirement of this chapter.
+Each revision to an implementation plan submitted by a State under this chapter shall be adopted by such State after reasonable notice and public hearing. The Administrator shall not approve a revision of a plan if the revision would interfere with any applicable requirement concerning attainment and reasonable further progress (as defined in section 7501 of this title), or any other applicable requirement of this chapter.
 
 #### (m) Sanctions
 
-The Administrator may apply any of the sanctions listed in section 7509(b) of this title at any time (or at any time after) the Administrator makes a finding, disapproval, or determination under paragraphs (1) through (4), respectively, of section 7509(a) of this title in relation to any plan or plan item (as that term is defined by the Administrator) required under this chapter, with respect to any portion of the State the Administrator determines reasonable and appropriate, for the purpose of ensuring that the requirements of this chapter relating to such plan or plan item are met. The Administrator shall, by rule, establish criteria for exercising his authority under the previous sentence with respect to any deficiency referred to in section 7509(a) of this title to ensure that, during the 24-month period following the finding, disapproval, or determination referred to in section 7509(a) of this title, such sanctions are not applied on a statewide basis where one or more political subdivisions covered by the applicable implementation plan are principally responsible for such deficiency.
+The Administrator may apply any of the sanctions listed in section 7509(b) of this title at any time (or at any time after) the Administrator makes a finding, disapproval, or determination under paragraphs (1) through (4), respectively, of section 7509(a) of this title in relation to any plan or plan item (as that term is defined by the Administrator) required under this chapter,with respect to any portion of the State the Administrator determines reasonable and appropriate, for the purpose of ensuring that the requirements of this chapter relating to such plan or plan item are met. The Administrator shall, by rule, establish criteria for exercising his authority under the previous sentence with respect to any deficiency referred to in section 7509(a) of this title to ensure that, during the 24-month period following the finding, disapproval, or determination referred to in section 7509(a) of this title, such sanctions are not applied on a statewide basis where one or more political subdivisions covered by the applicable implementation plan are principally responsible for such deficiency.
 
 #### (n) Savings clauses
 
@@ -272,7 +272,7 @@ The Energy Supply and Environmental Coordination Act of 1974, referred to in sub
 
 Section 7413 of this title, referred to in subsecs. (a)(3)(C), (6), (f)(5), (g)(3), and (i), was amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, subsecs. (d) and (e) of section 7413 no longer relates to final compliance orders and steel industry compliance extension, respectively.
 
-Section 1857c–10 of this title, as in effect before August 7, 1977, referred to in subsecs. (f)(5) and (g)(3), was in the original “section 119, as in effect before the date of the enactment of this paragraph”, meaning section 119 of act July 14, 1955, ch. 360, title I, as added June 22, 1974, Pub. L. 93–319, §3, 88 Stat. 248, (which was classified to section 1857c–10 of this title) as in effect prior to the enactment of subsecs. (f)(5) and (g)(3) of this section by Pub. L. 95–95, §107, Aug. 7, 1977, 91 Stat. 691, effective Aug. 7, 1977. Section 112(b)(1) of Pub. L. 95–95 repealed section 119 of act July 14, 1955, ch. 360, title I, as added by Pub. L. 93–319, and provided that all references to such section 119 in any subsequent enactment which supersedes Pub. L. 93–319 shall be construed to refer to section 113(d) of the Clean Air Act and to paragraph (5) thereof in particular which is classified to section 7413(d)(5) of this title. Section 7413 of this title was subsequently amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, see note above. Section 117(b) of Pub. L. 95–95 added a new section 119 of act July 14, 1955, which is classified to section 7419 of this title.
+Section 1857c–10 of this title, as in effect before August 7, 1977, referred to in subsecs. (f)(5) and (g)(3), was in the original “section 119, as in effect before the date of the enactment of this paragraph”, meaning section 119 of act July 14, 1955, ch. 360, title I, as added June 22, 1974, Pub. L. 93–319, §3, 88 Stat. 248, (which was classified to section 1857c–10 of this title) as in effect prior to the enactment of subsecs. (f)(5) and (g)(3) of this section by Pub. L. 95–95, §107, Aug. 7, 1977, 91 Stat. 691, effective Aug. 7, 1977. Section 112(b)(1) of Pub. L. 95–95 repealed section 119 of act July 14, 1955, ch. 360, title I, as added by Pub. L. 93–319, and provided that all references tosuch section 119 in any subsequent enactment which supersedes Pub. L. 93–319 shall be construed to refer to section 113(d) of the Clean Air Act and to paragraph (5) thereof in particular which is classified to section 7413(d)(5) of this title. Section 7413 of this title was subsequently amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, see note above. Section 117(b) of Pub. L. 95–95 added a new section 119 of act July 14, 1955, which is classified to section 7419 of this title.
 
 #### Codification
 
@@ -284,7 +284,7 @@ A prior section 110 of act July 14, 1955, was renumbered section 117 by Pub. L. 
 
 #### Amendments
 
-1990—Subsec. (a)(1). Pub. L. 101–549, §101(d)(8), substituted “3 years (or such shorter period as the Administrator may prescribe)” for “nine months” in two places.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–549, §101(d)(8), substituted “3 years (or such shorter period as the Administrator may prescribe)” for “nine months” in two places.
 
 Subsec. (a)(2). Pub. L. 101–549, §101(b), amended par. (2) generally, substituting present provisions for provisions setting the time within which the Administrator was to approve or disapprove a plan or portion thereof and listing the conditions under which the plan or portion thereof was to be approved after reasonable notice and hearing.
 
@@ -320,9 +320,9 @@ Subsec. (<i>o</i>). Pub. L. 101–549, §107(c), added subsec. (<i>o</i>).
 
 Subsec. (p). Pub. L. 101–549, §108(d), added subsec. (p).
 
-1981—Subsec. (a)(3)(C). Pub. L. 97–23 inserted reference to extensions of compliance in decrees entered under section 7413(e) of this title (relating to iron- and steel-producing operations).
+<b>1981</b>—Subsec. (a)(3)(C). Pub. L. 97–23 inserted reference to extensions of compliance in decrees entered under section 7413(e) of this title (relating to iron- and steel-producing operations).
 
-1977—Subsec. (a)(2)(A). Pub. L. 95–95, §108(a)(1), substituted “(A) except as may be provided in subparagraph (I)(i) in the case of a plan” for “(A)(i) in the case of a plan”.
+<b>1977</b>—Subsec. (a)(2)(A). Pub. L. 95–95, §108(a)(1), substituted “(A) except as may be provided in subparagraph (I)(i) in the case of a plan” for “(A)(i) in the case of a plan”.
 
 Subsec. (a)(2)(B). Pub. L. 95–95, §108(a)(2), substituted “transportation controls, air quality maintenance plans, and preconstruction review of direct sources of air pollution as provided in subparagraph (D)” for “land use and transportation controls”.
 
@@ -372,7 +372,7 @@ Subsec. (i). Pub. L. 95–190, §14(a)(5), redesignated subsec. (h), added by Pu
 
 Subsec. (j). Pub. L. 95–190 §14(a)(5), (6), redesignated subsec. (i), added by Pub. L. 95–95, §108(g), as (j) and in subsec. (j) as so redesignated, substituted “will enable such source” for “at such source will enable it”.
 
-1974—Subsec. (a)(3). Pub. L. 93–319, §4(a), designated existing provisions as subpar. (A) and added subpar. (B).
+<b>1974</b>—Subsec. (a)(3). Pub. L. 93–319, §4(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (c). Pub. L. 93–319, §4(b), designated existing provisions as par. (1) and existing pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, of such redesignated par. (1), and added par. (2).
 
@@ -404,7 +404,7 @@ Section 16 of Pub. L. 91–604 provided that:
 
 #### Federal Energy Administrator
 
-“Federal Energy Administrator”, for purposes of this chapter, to mean Administrator of Federal Energy Administration established by Pub. L. 93–275, May 7, 1974,88 Stat. 97, which is classified to section 761 et seq. of Title 15, Commerce and Trade, but with the term to mean any officer of the United States designated as such by the President until Federal Energy Administrator takes office and after Federal Energy Administration ceases to exist, see section 798 of Title 15, Commerce and Trade.
+“Federal Energy Administrator”, for purposes of this chapter, to mean Administrator of Federal Energy Administration established by Pub. L. 93–275, May 7, 1974, 88 Stat. 97, which is classified to section 761 et seq. of Title 15, Commerce and Trade, but with the term to mean any officer of the United States designated as such by the President until Federal Energy Administrator takes office and after Federal Energy Administration ceases to exist, see section 798 of Title 15, Commerce and Trade.
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
 

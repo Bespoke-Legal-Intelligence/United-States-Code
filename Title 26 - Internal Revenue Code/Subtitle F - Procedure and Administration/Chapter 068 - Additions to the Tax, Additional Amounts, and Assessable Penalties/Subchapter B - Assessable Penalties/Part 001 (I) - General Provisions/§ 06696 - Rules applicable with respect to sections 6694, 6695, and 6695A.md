@@ -10,7 +10,7 @@ Subchapter B of chapter 63 (relating to deficiency procedures for income, estate
 
 #### (c) Procedure for claiming refund
 
-Any claim for credit or refund of any penalty paid under section 6694, 6695, or 6695A shall befiled in accordance with regulations prescribed by the Secretary.
+Any claim for credit or refund of any penalty paid under section 6694, 6695, or 6695A shall be filed in accordance with regulations prescribed by the Secretary.
 
 #### (d) Periods of limitation
 
@@ -42,11 +42,11 @@ Section 1219(b)(2) of Pub. L. 109–280, which directed the amendment of section
 
 #### Amendments
 
-2007—Subsec. (d)(1). Pub. L. 110–172 substituted “, section 6695, or 6695A” for “or under section 6695”.
+<b>2007</b>—Subsec. (d)(1). Pub. L. 110–172 substituted “, section 6695, or 6695A” for “or under section 6695”.
 
 Subsec. (e). Pub. L. 110–28 substituted “this title” for “subtitle A” in pars. (1) and (2).
 
-2006—Pub. L. 109–280 substituted “6694, 6695, and 6695A” for “6694 and 6695” wherever appearing in section catchline and text and “6694, 6695, or 6695A” for “6694 or 6695” wherever appearing in text. See Codification note above.
+<b>2006</b>—Pub. L. 109–280 substituted “6694, 6695, and 6695A” for “6694 and 6695” wherever appearing in section catchline and text and “6694, 6695, or 6695A” for “6694 or 6695” wherever appearing in text. See Codification note above.
 
 #### Effective Date of 2007 Amendment
 

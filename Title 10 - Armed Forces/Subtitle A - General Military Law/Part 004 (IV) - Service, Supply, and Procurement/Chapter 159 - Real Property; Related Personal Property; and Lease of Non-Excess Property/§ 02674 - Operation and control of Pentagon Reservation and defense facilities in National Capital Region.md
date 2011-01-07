@@ -14,7 +14,7 @@
 
 &emsp;(A) may be armed with appropriate firearms required for personal safety and for the proper execution of their duties, whether on Department of Defense property or in travel status; and
 
-&emsp;(B) shall have the same powers (other than the service of civil process) as sheriffs and constables upon the property referred to in the first sentence to enforce the laws enacted for the protection of persons and property, to prevent breaches of the peace and suppress affrays or unlawful assemblies, and to enforce any rules or regulations with respect to such property prescribed by duly authorized officials.
+&emsp;(B) shall have the same powers (other than the service of civil process) as sheriffs and constables upon the property referred to in the first sentence to enforce the laws enacted for the protection of persons and property, to prevent breaches of the peace and suppress affrays or unlawful assemblies, and to enforceany rules or regulations with respect to such property prescribed by duly authorized officials.
 
 (2) For positions for which the permanent duty station is the Pentagon Reservation, the Secretary, in his sole and exclusive discretion, may without regard to the pay provisions of title 5, fix the rates of basic pay for such positions occupied by civilian law enforcement and security personnel appointed under the authority of this section so as to place such personnel on a comparable basis with personnel of other similar Federal law enforcement and security organizations within the vicinity of the Pentagon Reservation, not to exceed the basic pay for personnel performing similar duties in the United States Secret Service Uniformed Division or the United States Park Police.
 
@@ -28,7 +28,11 @@
 
 (e)(1) There is established in the Treasury of the United States a revolving fund to be known as the Pentagon Reservation Maintenance Revolving Fund (hereafter in this section referred to as the “Fund”). There shall be deposited into the Fund funds collected by the Secretary for space and services and other items provided an organization or entity using any facility or land on the Pentagon Reservation pursuant to subsection (d).
 
-(2) Monies deposited into the Fund shall be available, without fiscal year limitation, for expenditure for real property management, operation, protection, construction, repair, alteration and related activities for the Pentagon Reservation.
+(2) Subject to paragraphs (3) and (4), monies deposited into the Fund shall be available, without fiscal year limitation, for expenditure for real property management, operation, protection, construction, repair, alteration and related activities for the Pentagon Reservation.
+
+(3) If the cost of a construction or alteration activity proposed to be financed in whole or in part using monies from the Fund will exceed the limitation specified in section 2805 of this title for a comparable unspecified minor military construction project, the activity shall be subject to authorization as provided by section 2802 of this title before monies from the Fund are obligated for the activity.
+
+(4) The authority of the Secretary to use monies from the Fund to support construction or alteration activities at the Pentagon Reservation expires on September 30, 2012.
 
 (f) In this section:
 
@@ -38,7 +42,7 @@
 
 (g) For purposes of subsections (b), (c), (d), and (e), the terms “Pentagon Reservation” and “National Capital Region” shall be treated as including the land and physical facilities at the Raven Rock Mountain Complex.
 
-(Added Pub. L. 101–510, div. B, title XXVIII, §2804(a)(1), Nov. 5, 1990, 104 Stat. 1784; amended Pub. L. 102–190, div. A, title X, §1061(a)(18), div. B, title XXVIII, §2864, Dec. 5, 1991, 105 Stat. 1473, 1561; Pub. L. 104–106, div. A, title XV, §1502(a)(24), Feb. 10, 1996, 110 Stat. 505; Pub. L. 104–201, div. A, title III, §369(a), (b)(1), Sept. 23, 1996, 110 Stat. 2498; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title XI, §1101, Dec. 28, 2001, 115 Stat. 1234; Pub. L. 108–136, div. A, title IX, §933, Nov. 24, 2003, 117 Stat. 1581.)
+(Added Pub. L. 101–510, div. B, title XXVIII, §2804(a)(1), Nov. 5, 1990, 104 Stat. 1784; amended Pub. L. 102–190, div. A, title X, §1061(a)(18), div. B, title XXVIII, §2864, Dec. 5, 1991, 105 Stat. 1473, 1561; Pub. L. 104–106, div. A, title XV, §1502(a)(24), Feb. 10, 1996, 110 Stat. 505; Pub. L. 104–201, div. A, title III, §369(a), (b)(1), Sept. 23, 1996, 110 Stat. 2498; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title XI, §1101, Dec. 28, 2001, 115 Stat. 1234; Pub. L. 108–136, div. A, title IX, §933, Nov. 24, 2003, 117 Stat. 1581; Pub. L. 111–383, div. B, title XXVIII, §2802, Jan. 7, 2011, 124 Stat. 4458.)
 
 #### Prior Provisions
 
@@ -46,13 +50,17 @@ A prior section 2674, added Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1
 
 #### Amendments
 
-2003—Subsec. (g). Pub. L. 108–136 added subsec. (g).
+<b>2011</b>—Subsec. (e)(2). Pub. L. 111–383, §2802(1), substituted “Subject to paragraphs (3) and (4), monies” for “Monies”.
 
-2001—Subsec. (b). Pub. L. 107–107 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+Subsec. (e)(3), (4). Pub. L. 111–383, §2802(2), added pars. (3) and (4).
 
-1999—Subsec. (a)(3)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+<b>2003</b>—Subsec. (g). Pub. L. 108–136 added subsec. (g).
 
-1996—Pub. L. 104–201, §369(b)(1), substituted “of Pentagon Reservation and defense facilities in National Capital Region” for “of the Pentagon Reservation” in section catchline.
+<b>2001</b>—Subsec. (b). Pub. L. 107–107 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+
+<b>1999</b>—Subsec. (a)(3)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+
+<b>1996</b>—Pub. L. 104–201, §369(b)(1), substituted “of Pentagon Reservation and defense facilities in NationalCapital Region” for “of the Pentagon Reservation” in section catchline.
 
 Subsec. (a)(2). Pub. L. 104–106, §1502(a)(24)(A), substituted “congressional committees specified in paragraph (3)” for “Committees on Armed Services of the Senate and the House of Representatives, the Committee on Environment and Public Works of the Senate, and the Committee on Public Works and Transportation of the House of Representatives”.
 
@@ -60,7 +68,7 @@ Subsec. (a)(3). Pub. L. 104–106, §1502(a)(24)(B), added par. (3).
 
 Subsec. (b). Pub. L. 104–201, §369(a), substituted “in the National Capital Region” for “at the Pentagon Reservation”.
 
-1991—Subsec. (b)(2). Pub. L. 102–190, §2864, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “shall have the same powers as sheriffs and constables to enforce the laws, rules, or regulations enacted for the protection of persons and property.”
+<b>1991</b>—Subsec. (b)(2). Pub. L. 102–190, §2864, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “shall have the same powers as sheriffs and constables to enforce the laws, rules, or regulations enacted for the protection of persons and property.”
 
 Subsec. (c)(3). Pub. L. 102–190, §1061(a)(18), substituted “misdemeanor” for “misdeameanor”.
 

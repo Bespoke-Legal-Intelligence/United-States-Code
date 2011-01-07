@@ -88,7 +88,7 @@ The Equal Access to Justice Act, referred to in subsec. (d)(2), is title II of P
 
 #### Amendments
 
-2009—Subsec. (b)(1). Pub. L. 111–11, §3309(1), inserted “3,” after “sections”.
+<b>2009</b>—Subsec. (b)(1). Pub. L. 111–11, §3309(1), inserted “3,” after “sections”.
 
 Subsec. (b)(4). Pub. L. 111–11, §3309(2), inserted “, as a condition of the conveyance,” before “remain” in first sentence.
 

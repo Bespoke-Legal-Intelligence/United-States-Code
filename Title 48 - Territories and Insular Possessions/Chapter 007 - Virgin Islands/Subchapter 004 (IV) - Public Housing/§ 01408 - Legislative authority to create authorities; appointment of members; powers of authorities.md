@@ -12,7 +12,7 @@ This Act, referred to in text, means act July 18, 1950, ch. 466, 64 Stat. 344, a
 
 #### Amendments
 
-1955—Act Aug. 11, 1955, included urban renewal projects, and inserted “as amended” after “Housing Act of 1949” and after “this Act”.
+<b>1955</b>—Act Aug. 11, 1955, included urban renewal projects, and inserted “as amended” after “Housing Act of 1949” and after “this Act”.
 
 #### Urban Renewal Activities
 

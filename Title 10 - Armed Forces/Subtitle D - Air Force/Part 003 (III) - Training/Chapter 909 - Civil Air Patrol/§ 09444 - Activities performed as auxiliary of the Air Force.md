@@ -8,7 +8,7 @@ Air Force Support for Activities.—The Secretary of the Air Force may furnish t
 
 Forms of Air Force Support.—The Secretary of the Air Force may, under subsection (a)—
 
-&emsp;(1) give, lend, or sell to the Civil Air Patrol without regard to subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)—
+&emsp;(1) give, lend, or sell to the Civil Air Patrol without regard to subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41—
 
 &emsp;&emsp;(A) major items of equipment (including aircraft, motor vehicles, computers, and communications equipment) that are excess to the military departments; and
 
@@ -52,13 +52,11 @@ Assistance by Other Agencies.—(1) The Secretary of the Air Force may arrange f
 
 (3) Each arrangement under this subsection shall be made in accordance with regulations prescribed under section 9448 of this title.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1090(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–296; amended Pub. L. 107–217, §3(b)(35), Aug. 21, 2002, 116 Stat. 1298.)
-
-#### References in Text
-
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
+(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1090(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–296; amended Pub. L. 107–217, §3(b)(35), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 111–350, §5(b)(54), Jan. 4, 2011, 124 Stat. 3847.)
 
 #### Amendments
 
-2002—Subsec. (b)(1). Pub. L. 107–217, in introductory provisions, inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
+<b>2011</b>—Subsec. (b)(1). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” in introductory provisions.
+
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–217, in introductory provisions, inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
 

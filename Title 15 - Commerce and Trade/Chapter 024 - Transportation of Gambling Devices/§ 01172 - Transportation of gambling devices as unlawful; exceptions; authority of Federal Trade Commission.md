@@ -24,11 +24,11 @@ The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1
 
 #### Amendments
 
-1992—Pub. L. 102–251, §202(a)(1), (3), (4), designated existing provisions as subsecs. (a) and (b), inserted headings, and added subsec. (c).
+<b>1992</b>—Pub. L. 102–251, §202(a)(1), (3), (4), designated existing provisions as subsecs. (a) and (b), inserted headings, and added subsec. (c).
 
 Pub. L. 102–251, §202(a)(2), which directed that “, District of Columbia,” be struck out in subsec. (a), was executed by striking out “, the District of Columbia,” after “place in a State” and “outside of such State” to reflect the probable intent of Congress.
 
-1962—Pub. L. 87–840 excepted gambling devices used or designed for use at and transported to licensed gambling establishments where betting is legal under State laws, and provided that it shall not be unlawful to transport such devices into any State in which the device is specifically enumerated as lawful in a State statute.
+<b>1962</b>—Pub. L. 87–840 excepted gambling devices used or designed for use at and transported to licensed gambling establishments where betting is legal under State laws, and provided that it shall not be unlawful to transport such devices into any State in which the device is specifically enumerated as lawful in a State statute.
 
 #### Effective Date of 1962 Amendment
 

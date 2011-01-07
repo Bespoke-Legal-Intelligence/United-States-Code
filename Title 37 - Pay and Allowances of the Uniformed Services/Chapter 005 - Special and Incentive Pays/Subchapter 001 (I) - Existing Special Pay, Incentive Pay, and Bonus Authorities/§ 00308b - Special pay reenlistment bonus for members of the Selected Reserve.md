@@ -34,15 +34,17 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 (g)
 
-Termination of Authority.—No bonus may be paid under this section to any enlisted member who, after December 31, 2010, reenlists or voluntarily extends his enlistment in a reserve component.
+Termination of Authority.—No bonus may be paid under this section to any enlisted member who, after December 31, 2011, reenlists or voluntarily extends his enlistment in a reserve component.
 
-(Added Pub. L. 95–79, title IV, §403(a)(1), July 30, 1977, 91 Stat. 330; amended Pub. L. 95–485, title IV, §403, Oct. 20, 1978, 92 Stat. 1614; Pub. L. 96–342, title VIII, §805(b), Sept. 8, 1980, 94 Stat. 1095; Pub. L. 97–295, §3(2), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 99–145, title VI, §643(a), Nov. 8, 1985, 99 Stat. 652; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §§613, 652(b)(1), Nov. 29, 1989, 103 Stat. 1446, 1461; Pub. L. 101–510, div. A, title XIII, §1322(c)(4), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(a), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(a), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §611(a), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(b), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(b), 621, Nov. 18, 1997, 111 Stat. 1785, 1790; Pub. L. 105–261, div. A, title VI, §611(b), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(b), Oct. 5, 1999, 113 Stat. 649; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(b), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §611(a), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, §§611(a), 617, 626(b), Nov. 24, 2003, 117 Stat. 1500, 1503, 1507; Pub. L. 108–375, div. A, title VI, §§611(a), 618(b), Oct. 28, 2004, 118 Stat. 1946, 1949; Pub. L. 109–163, div. A, title VI, §§621(a), 630, 687(b)(15), Jan. 6, 2006, 119 Stat. 3294, 3297, 3330; Pub. L. 109–364, div. A, title VI, §611(a), title X, §1071(e)(7), Oct. 17, 2006, 120 Stat. 2247, 2401; Pub. L. 110–181, div. A, title VI, §§611(a), 619(a)–(c), Jan. 28, 2008, 122 Stat. 148, 151; Pub. L. 110–417, \[div. A\], title VI, §611(a), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §611(1), Oct. 28, 2009, 123 Stat. 2352.)
+(Added Pub. L. 95–79, title IV, §403(a)(1), July 30, 1977, 91 Stat. 330; amended Pub. L. 95–485, title IV, §403, Oct. 20, 1978, 92 Stat. 1614; Pub. L. 96–342, title VIII, §805(b), Sept. 8, 1980, 94 Stat. 1095; Pub. L. 97–295, §3(2), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 99–145, title VI, §643(a), Nov. 8, 1985, 99 Stat. 652; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §§613, 652(b)(1), Nov. 29, 1989, 103 Stat. 1446, 1461; Pub. L. 101–510, div. A, title XIII, §1322(c)(4), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(a), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(a), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §611(a), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(b), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(b), 621, Nov. 18, 1997, 111 Stat. 1785, 1790; Pub. L. 105–261, div. A, title VI, §611(b), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(b), Oct. 5, 1999, 113 Stat. 649; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(b), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §611(a), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, §§611(a), 617, 626(b), Nov. 24, 2003, 117 Stat. 1500, 1503, 1507; Pub. L. 108–375, div. A, title VI, §§611(a), 618(b), Oct. 28, 2004, 118 Stat. 1946, 1949; Pub. L. 109–163, div. A, title VI, §§621(a), 630, 687(b)(15), Jan. 6, 2006, 119 Stat. 3294, 3297, 3330; Pub. L. 109–364, div. A, title VI, §611(a), title X, §1071(e)(7), Oct. 17, 2006, 120 Stat. 2247, 2401; Pub. L. 110–181, div. A, title VI, §§611(a), 619(a)–(c), Jan. 28, 2008, 122 Stat. 148, 151; Pub. L. 110–417, \[div. A\], title VI, §611(a), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, titleVI, §611(1), Oct. 28, 2009, 123 Stat. 2352; Pub. L. 111–383, div. A, title VI, §611(1), Jan. 7, 2011, 124 Stat. 4236.)
 
 #### Amendments
 
-2009—Subsec. (g). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+<b>2011</b>—Subsec. (g). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
-2008—Subsec. (a)(2). Pub. L. 110–181, §619(a), substituted “an enlistment for a period of at least three years” for “his enlistment for a period of three years or for a period of six years”.
+<b>2009</b>—Subsec. (g). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–181, §619(a), substituted “an enlistment for a period of at least three years” for “his enlistment for a period of three years or for a period of six years”.
 
 Subsec. (b)(1). Pub. L. 110–181, §619(b), substituted “may not exceed $15,000.” for “may not exceed—
 
@@ -52,7 +54,7 @@ Subsec. (b)(1). Pub. L. 110–181, §619(b), substituted “may not exceed $15,0
 
 &emsp;“(C) $6,000, in the case of a member who, having received a bonus under this section for a previous three-year reenlistment or extension of an enlistment, reenlists or extends the enlistment for an additional period of three years.”
 
-Subsec. (c). Pub. L. 110–181, §619(c), substituted “Waiver of Condition on Eligibility” for “Condition on Eligibility” in heading, struck out par. (2) designationbefore “In the case” and “paragraph (1)(B) or” after “may waive so much of”, and struck out par. (1) which read as follows:
+Subsec. (c). Pub. L. 110–181, §619(c), substituted “Waiver of Condition on Eligibility” for “Condition on Eligibility” in heading, struck out par. (2) designation before “In the case” and “paragraph (1)(B) or” after “may waive so much of”, and struck out par. (1) which read as follows:
 
 “(1) To be eligible for a second bonus under this section in the amount specified in subsection (b)(1)(C), a member must—
 
@@ -64,7 +66,7 @@ Subsec. (g). Pub. L. 110–417 substituted “December 31, 2009” for “Decemb
 
 Pub. L. 110–181, §611(a), substituted “December 31, 2008” for “December 31, 2007”.
 
-2006—Subsec. (a)(1). Pub. L. 109–163, §630(a), substituted “20 years of total military service” for “16 years of total military service”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–163, §630(a), substituted “20 years of total military service” for “16 years of total military service”.
 
 Subsec. (b)(3). Pub. L. 109–163, §630(b), added par. (3).
 
@@ -74,7 +76,7 @@ Subsec. (g). Pub. L. 109–364, §611(a), substituted “December 31, 2007” fo
 
 Pub. L. 109–163, §621(a), substituted “December 31, 2006” for “December 31, 2005”.
 
-2004—Subsec. (a). Pub. L. 108–375, §618(b)(1)(D), struck out concluding provisions which read as follows: “may be paid a bonus as provided in subsection (b).”
+<b>2004</b>—Subsec. (a). Pub. L. 108–375, §618(b)(1)(D), struck out concluding provisions which read as follows: “may be paid a bonus as provided in subsection (b).”
 
 Pub. L. 108–375, §618(b)(1)(A), in introductory provisions, substituted “The Secretary concerned may pay a bonus under subsection (b) to an enlisted member” for “An enlisted member”.
 
@@ -100,7 +102,7 @@ Subsec. (c)(2), (3). Pub. L. 108–375, §618(b)(4)(B), redesignated par. (3) as
 
 Subsec. (g). Pub. L. 108–375, §611(a), substituted “December 31, 2005” for “December 31, 2004”.
 
-2003—Subsec. (c)(3). Pub. L. 108–136, §626(b), added par. (3).
+<b>2003</b>—Subsec. (c)(3). Pub. L. 108–136, §626(b), added par. (3).
 
 Subsecs. (d), (e). Pub. L. 108–136, §617, added subsec. (d) and redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
@@ -110,19 +112,19 @@ Pub. L. 108–136, §611(a), substituted “December 31, 2004” for “December
 
 Subsec. (g). Pub. L. 108–136, §617(1), redesignated subsec. (f) as (g).
 
-2002—Subsec. (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 Subsec. (f). Pub. L. 107–314 substituted “December 31, 2003” for “December 31, 2002”.
 
-2001—Subsec. (f). Pub. L. 107–107 substituted “December 31, 2002” for “December 31, 2001”.
+<b>2001</b>—Subsec. (f). Pub. L. 107–107 substituted “December 31, 2002” for “December 31, 2001”.
 
-2000—Subsec. (f). Pub. L. 106–398 substituted “December 31, 2001” for “December 31, 2000”.
+<b>2000</b>—Subsec. (f). Pub. L. 106–398 substituted “December 31, 2001” for “December 31, 2000”.
 
-1999—Subsec. (f). Pub. L. 106–65 substituted “December 31, 2000” for “December 31, 1999”.
+<b>1999</b>—Subsec. (f). Pub. L. 106–65 substituted “December 31, 2000” for “December 31, 1999”.
 
-1998—Subsec. (f). Pub. L. 105–261 substituted “December 31, 1999” for “September 30, 1999”.
+<b>1998</b>—Subsec. (f). Pub. L. 105–261 substituted “December 31, 1999” for “September 30, 1999”.
 
-1997—Subsec. (a). Pub. L. 105–85, §621(e)(1), inserted heading.
+<b>1997</b>—Subsec. (a). Pub. L. 105–85, §621(e)(1), inserted heading.
 
 Subsec. (a)(1). Pub. L. 105–85, §621(a), substituted “14 years” for “ten years”.
 
@@ -150,25 +152,25 @@ Subsec. (f). Pub. L. 105–85, §621(e)(3), inserted heading.
 
 Pub. L. 105–85, §611(b), substituted “September 30, 1999” for “September 30, 1998”.
 
-1996—Subsec. (f). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
+<b>1996</b>—Subsec. (f). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
 
 Pub. L. 104–106 substituted “September 30, 1997” for “September 30, 1996”.
 
-1994—Subsec. (f). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
+<b>1994</b>—Subsec. (f). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
 
-1993—Subsec. (f). Pub. L. 103–160 substituted “September 30, 1995” for “September 30, 1993”.
+<b>1993</b>—Subsec. (f). Pub. L. 103–160 substituted “September 30, 1995” for “September 30, 1993”.
 
-1992—Subsec. (f). Pub. L. 102–484 substituted “September 30, 1993” for “September 30, 1992”.
+<b>1992</b>—Subsec. (f). Pub. L. 102–484 substituted “September 30, 1993” for “September 30, 1992”.
 
-1990—Subsecs. (e) to (g). Pub. L. 101–510 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which read as follows: “The Secretary of defense shall submit a report to the Congress every three months listing the units of the Selected Reserve of the Ready Reserve which have been designated by him for purposes of subsection (a)(3) and stating the number of members of the Selected Reserve of the Ready Reserve who at the time of such report are serving a term of enlistment for which a bonus is being paid under this section.”
+<b>1990</b>—Subsecs. (e) to (g). Pub. L. 101–510 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which read as follows: “The Secretary of defense shall submit a report to the Congress every three months listing the units of the Selected Reserve of the Ready Reserve which have been designated by him for purposes of subsection (a)(3) and stating the number of members of the Selected Reserve of the Ready Reserve who at the time of such report are serving a term of enlistment for which a bonus is being paid under this section.”
 
-1989—Subsec. (e). Pub. L. 101–189, §652(b)(1), struck out at end “The first such report shall be submitted not later than December 31, 1977.”
+<b>1989</b>—Subsec. (e). Pub. L. 101–189, §652(b)(1), struck out at end “The first such report shall be submitted not later than December 31, 1977.”
 
 Subsec. (g). Pub. L. 101–189, §613, substituted “September 30, 1992” for “September 30, 1990”.
 
-1987—Subsec. (g). Pub. L. 100–180 substituted “September 30, 1990” for “September 30, 1987”.
+<b>1987</b>—Subsec. (g). Pub. L. 100–180 substituted “September 30, 1990” for “September 30, 1987”.
 
-1985—Subsec. (b)(1). Pub. L. 99–145, §643(a)(1)(A), substituted “$1,250” for “$450” in subpar. (A) and “$2,500” for “$900” in subpar. (B).
+<b>1985</b>—Subsec. (b)(1). Pub. L. 99–145, §643(a)(1)(A), substituted “$1,250” for “$450” in subpar. (A) and “$2,500” for “$900” in subpar. (B).
 
 Subsec. (b)(2). Pub. L. 99–145, §643(a)(1)(B), substituted “$416.66” for “$150”.
 
@@ -176,11 +178,11 @@ Subsec. (d)(2). Pub. L. 99–145, §643(a)(2), substituted “$69.44” for “$
 
 Subsec. (g). Pub. L. 99–145, §643(a)(3), substituted “September 30, 1987” for “September 30, 1985”.
 
-1982—Subsec. (a)(1). Pub. L. 97–295 substituted “service” for “services”.
+<b>1982</b>—Subsec. (a)(1). Pub. L. 97–295 substituted “service” for “services”.
 
-1980—Subsec. (g). Pub. L. 96–342 substituted “September 30, 1985” for “September 30, 1980”.
+<b>1980</b>—Subsec. (g). Pub. L. 96–342 substituted “September 30, 1985” for “September 30, 1980”.
 
-1978—Subsec. (a). Pub. L. 95–485, §403(a), substituted provision requiring that for an enlisted member of a reserve component to be eligible for the bonus provided in subsec. (b) he has completed less than 10 years of total military services for provision requiring that the enlisted member had initially enlisted in a reserve component, other than a reserve component under the delayed enlistment program for the active forces, and that he had completed less than 10 years of service as a member of a reserve component.
+<b>1978</b>—Subsec. (a). Pub. L. 95–485, §403(a), substituted provision requiring that for an enlisted member of a reserve component to be eligible for the bonus provided in subsec. (b) he has completed less than 10 years of total military services for provision requiring that the enlisted member had initially enlisted in a reserve component, other than a reserve component under the delayed enlistment program for the active forces, and that he had completed less than 10 years of service as a member of a reserve component.
 
 Subsec. (b). Pub. L. 95–485, §403(b), inserted “an amount not to exceed” before “$450”, “$900”, and “$150”, respectively.
 

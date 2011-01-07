@@ -84,17 +84,11 @@ In this section:
 
 Not later than 2 years after October 8, 2008, the Government Accountability Office shall submit a report to Congress concerning the effectiveness of current healthcare and family support programs serving as resources for the families of children with disabilities.
 
-(July 1, 1944, ch. 373, title III, §399R, as added Pub. L. 110–374, §3, Oct. 8, 2008, 122 Stat. 4051.)
+(July 1, 1944, ch. 373, title III, §399T, formerly §399R, as added Pub. L. 110–374, §3, Oct. 8, 2008, 122 Stat. 4051; renumbered §399T, Pub. L. 111–148, title IV, §4003(b)(2)(B), Mar. 23, 2010, 124 Stat. 544.)
 
 #### References in Text
 
 Section 2(b)(1) of the Prenatally and Postnatally Diagnosed Conditions Awareness Act, referred to in subsec. (b)(1)(B)(v), probably means section 2(1) of that Act, Pub. L. 110–374, which is set out as a note under this section.
-
-#### Codification
-
-Another section 399R of act July 1, 1944, ch. 373, as added by Pub. L. 110–275, title I, §152(a), July 15, 2008, 122 Stat. 2551, is classified to section 280g–6 of this title.
-
-Another section 399R of act July 1, 1944, ch. 373, as added by Pub. L. 110–373, §2, Oct. 8, 2008, 122 Stat. 4047, is classified to section 280g–7 of this title.
 
 #### Purposes
 

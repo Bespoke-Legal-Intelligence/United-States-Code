@@ -2,7 +2,7 @@
 
 #### (a) Submission by Federal officer; approval of Attorney General; contents
 
-Each application for an order approving a physical search under this subchapter shall bemade by a Federal officer in writing upon oath or affirmation to a judge of the Foreign Intelligence Surveillance Court. Each application shall require the approval of the Attorney General based upon the Attorney General's finding that it satisfies the criteria and requirements for such application as set forth in this subchapter. Each application shall include—
+Each application for an order approving a physical search under this subchapter shall be made by a Federal officer in writing upon oath or affirmation to a judge of the Foreign Intelligence Surveillance Court. Each application shall require the approval of the Attorney General based upon the Attorney General's finding that it satisfies the criteria and requirements for such application as set forth in this subchapter. Each application shall include—
 
 &emsp;(1) the identity of the Federal officer making the application;
 
@@ -32,7 +32,7 @@ Each application for an order approving a physical search under this subchapter 
 
 &emsp;&emsp;(E) includes a statement explaining the basis for the certifications required by subparagraphs (C) and (D);
 
-&emsp;(7) where the physical search involves a search of the residence of a United States person, the Attorney General shall state what investigative techniques have previously been utilized to obtain the foreign intelligence information concerned and the degree to which these techniques resulted in acquiring such information; and
+&emsp;(7) where the physical search involves a search of the residence of a United States person, the Attorney General shall state what investigative techniques have previously been utilized to obtain the foreign intelligence information concerned and the degree to whichthese techniques resulted in acquiring such information; and
 
 &emsp;(8) a statement of the facts concerning all previous applications that have been made to any judge under this subchapter involving any of the persons, premises, or property specified in the application, and the action taken on each previous application.
 
@@ -58,11 +58,13 @@ The judge may require the applicant to furnish such other information as may be 
 
 (C) Upon review of any modifications of an application set forth under subparagraph (B), the official notified of the modifications under this paragraph shall modify the application if such official determines that such modification is warranted. Such official shall supervise the making of any modification under this subparagraph. Except when disabled or otherwise unavailable to supervise the making of any modification under the preceding sentence, such official may not delegate the responsibility to supervise the making of any modification under that preceding sentence. Each such official shall take appropriate actions in advance to ensure that delegation of such responsibility is clearly established in the event such official is disabled or otherwise unavailable to supervise the making of such modification.
 
-(Pub. L. 95–511, title III, §303, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3446; amended Pub. L. 106–567, title VI, §603(a), Dec. 27, 2000, 114 Stat. 2852; Pub. L. 107–56, title II, §218, Oct. 26, 2001, 115 Stat. 291; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 110–261, title I, §107(a), July 10, 2008, 122 Stat. 2462.)
+(Pub. L. 95–511, title III, §303, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3446; amended Pub. L. 106–567, title VI, §603(a), Dec. 27, 2000, 114 Stat. 2852; Pub. L. 107–56, title II, §218, Oct. 26, 2001, 115 Stat. 291; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 110–261, title I, §107(a), July 10, 2008, 122 Stat. 2462; Pub. L. 111–259, title VIII, §806(a)(2), Oct. 7, 2010, 124 Stat. 2748.)
 
 #### Amendments
 
-2008—Subsec. (a)(2). Pub. L. 110–261, §107(a)(1)(A)–(C), redesignated par. (3) as (2), struck out “detailed” before “description of the premises”, and struck out former par. (2) which read as follows: “the authority conferred on the Attorney General by the President and the approval of the Attorney General to make the application;”.
+<b>2010</b>—Subsec. (d)(1)(A). Pub. L. 111–259 made technical amendment to directory language of Pub. L. 108–458. See 2004 Amendment note below.
+
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–261, §107(a)(1)(A)–(C), redesignated par. (3) as (2), struck out “detailed” before “description of the premises”, and struck out former par. (2) which read as follows: “the authority conferred on the Attorney General by the President and the approval of the Attorney General to make the application;”.
 
 Subsec. (a)(3). Pub. L. 110–261, §107(a)(1)(B), (D), redesignated par. (4) as (3) and inserted “or is about to be” before “owned” in subpar. (C). Former par. (3) redesignated (2).
 
@@ -74,11 +76,11 @@ Subsec. (a)(7) to (9). Pub. L. 110–261, §107(a)(1)(B), redesignated pars. (8)
 
 Subsec. (d)(1)(A). Pub. L. 110–261, §107(a)(2), substituted “the Director of National Intelligence, or the Director of the Central Intelligence Agency” for “or the Director of National Intelligence”.
 
-2004—Subsec. (d)(1)(A). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+<b>2004</b>—Subsec. (d)(1)(A). Pub. L. 108–458, as amended by Pub. L. 111–259, substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-2001—Subsec. (a)(7)(B). Pub. L. 107–56 substituted “a significant purpose” for “the purpose”.
+<b>2001</b>—Subsec. (a)(7)(B). Pub. L. 107–56 substituted “a significant purpose” for “the purpose”.
 
-2000—Subsec. (d). Pub. L. 106–567 added subsec. (d).
+<b>2000</b>—Subsec. (d). Pub. L. 106–567 added subsec. (d).
 
 #### Effective Date of 2008 Amendment
 

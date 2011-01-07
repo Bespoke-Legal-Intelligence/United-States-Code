@@ -38,7 +38,7 @@ Another section 307 of Pub. L. 92–522 was renumbered section 407 and is classi
 
 #### Amendments
 
-1997—Subsec. (a)(1) to (3). Pub. L. 105–42, §6(d)(1), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
+<b>1997</b>—Subsec. (a)(1) to (3). Pub. L. 105–42, §6(d)(1), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
 
 “(1) for any person, after June 1, 1994, to sell, purchase, offer for sale, transport, or ship, in the United States, any tuna or tuna product that is not dolphin safe;
 
@@ -64,7 +64,7 @@ Subsec. (d). Pub. L. 105–42, §6(d)(3), struck out heading and text of subsec.
 
 &emsp;“(4) in the case of tuna or a product that contains tuna harvested outside the eastern tropical Pacific Ocean by a purse seine vessel in a fishery in which the Secretary has determined that a regular and significant association occurs between marine mammals and tuna, and in which tuna is harvested through the use of purse seine nets deployed on or to encircle marine mammals, it is accompanied by a written statement executed by the captain of the vessel and by an observer, certifying that no purse seine net was intentionally deployed on or to encircle marine mammals during the particular voyage on which the tuna was harvested.”
 
-1996—Subsec. (c). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1860 of this title.
+<b>1996</b>—Subsec. (c). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1860 of this title.
 
 #### Effective Date of 1997 Amendment
 

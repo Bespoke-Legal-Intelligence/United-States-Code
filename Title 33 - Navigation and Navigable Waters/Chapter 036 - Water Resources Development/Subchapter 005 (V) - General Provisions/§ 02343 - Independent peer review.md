@@ -26,7 +26,7 @@
 
 #### (i) Agency request
 
-&emsp;&emsp;&emsp;A project study shall be considered by the Chief of Engineers for peer reviewunder this section if the head of a Federal or State agency charged with reviewing the project study determines that the project is likely to have a significant adverse impact on environmental, cultural, or other resources under the jurisdiction of the agency after implementation of proposed mitigation plans and requests a peer review by an independent panel of experts.
+&emsp;&emsp;&emsp;A project study shall be considered by the Chief of Engineers for peer review under this section if the head of a Federal or State agency charged with reviewing the project study determines that the project is likely to have a significant adverse impact on environmental, cultural, or other resources under the jurisdiction of the agency after implementation of proposed mitigation plans and requests a peer review by an independent panel of experts.
 
 #### (ii) Deadline for decision
 
@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;(iii) has no substantial adverse impacts on fish and wildlife species and their habitat prior to the implementation of mitigation measures; and
 
-&emsp;&emsp;&emsp;(iv) has, before implementation of mitigation measures, no more than a negligible adverse impact on a species listed as endangered or threatened species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) or the critical habitat of such species designated under such Act;
+&emsp;&emsp;&emsp;(iv) has, before implementation of mitigation measures, no more than a negligible adverse impact on a species listed as endangered or threatened species underthe Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) or the critical habitat of such species designated under such Act;
 
 &emsp;&emsp;(B) if the project study—
 
@@ -134,7 +134,7 @@ A panel of experts established for a peer review for a project study under this 
 
 &emsp;A panel of experts established under this section shall—
 
-&emsp;&emsp;(A) complete its peer review under this section for a project study and submit a report to the Chief of Engineers under subsection (d)(5) not more than 60 days after the last day of the public comment period for the draft project study, or, if the Chief of Engineers determines that a longer period of time is necessary, such period of time determined necessary by the Chief of Engineers; and
+&emsp;&emsp;(A) complete its peer review under this section for a project study and submit a report to the Chief of Engineers under subsection (d)(5) not more than 60 days after the last day of the public comment period forthe draft project study, or, if the Chief of Engineers determines that a longer period of time is necessary, such period of time determined necessary by the Chief of Engineers; and
 
 &emsp;&emsp;(B) terminate on the date of initiation of the State and agency review required by section 701–1 of this title.
 
@@ -182,7 +182,7 @@ This section shall apply to—
 
 #### (1) Initial report
 
-&emsp;Not later than 3 years after November 8, 2007, the Chief of Engineers shall submit to theCommittee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the implementation of this section.
+&emsp;Not later than 3 years after November 8, 2007, the Chief of Engineers shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the implementation of this section.
 
 #### (2) Additional report
 
@@ -228,7 +228,7 @@ In this section, the following definitions apply:
 
 #### (4) Total cost
 
-&emsp;The term “total cost”, as used with respect to a water resources project, means the cost of construction (including planning and designing) of the project. In the case of a project for hurricane and storm damage reduction or flood damage reduction that includes periodic nourishment over the life of the project, the term includes the total cost of the nourishment.
+&emsp;The term “total cost”, as used with respect to a water resources project, means the cost of construction (including planning and designing) of the project. In the case of a project for hurricane and storm damage reduction or flood damage reduction that includes periodicnourishment over the life of the project, the term includes the total cost of the nourishment.
 
 (Pub. L. 110–114, title II, §2034, Nov. 8, 2007, 121 Stat. 1086.)
 

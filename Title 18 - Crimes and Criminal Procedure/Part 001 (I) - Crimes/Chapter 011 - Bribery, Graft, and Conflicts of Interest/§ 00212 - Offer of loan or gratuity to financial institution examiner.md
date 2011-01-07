@@ -58,7 +58,11 @@ Loan.—The term “loan” does not include any credit card account established
 
 &emsp;&emsp;(C) with respect to residential real property loans, the loan is with respect to the primary residence of the applicant.
 
-(Added Pub. L. 108–198, §2(a), Dec. 19, 2003, 117 Stat. 2899; amended Pub. L. 110–289, div. A, title II, §1216(c), July 30, 2008, 122 Stat. 2792.)
+(Added Pub. L. 108–198, §2(a), Dec. 19, 2003, 117 Stat. 2899; amended Pub. L. 110–289, div. A, title II, §1216(c), July 30, 2008, 122 Stat. 2792; Pub. L. 111–203, title III, §377(1), July 21, 2010, 124 Stat. 1569.)
+
+#### Amendment of Subsection (c)(2)
+
+<i>Pub. L. 111–203, title III, §§351, 377(1), July 21, 2010, 124 Stat. 1546, 1569, provided that, effective on the transfer date, subsection (c)(2) of this section is amended by striking subparagraph (C) and by redesignating subparagraphs (D) through (H) as subparagraphs (C) through (G), respectively. See Effective Date of 2010 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -68,7 +72,11 @@ Another prior section 212, act June 25, 1948, ch. 645, 62 Stat. 693, related to 
 
 #### Amendments
 
-2008—Subsec. (c)(2)(E). Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board”.
+<b>2008</b>—Subsec. (c)(2)(E). Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -136,11 +136,11 @@ A prior section 7 of Pub. L. 95–313 was renumbered section 10 and is classifie
 
 #### Amendments
 
-2003—Subsec. (<i>l</i>)(3). Pub. L. 108–108 added par. (3).
+<b>2003</b>—Subsec. (<i>l</i>)(3). Pub. L. 108–108 added par. (3).
 
-1996—Subsecs. (<i>l</i>), (m). Pub. L. 104–127 added subsec. (<i>l</i>) and redesignated former subsec. (<i>l</i>) as (m).
+<b>1996</b>—Subsecs. (<i>l</i>), (m). Pub. L. 104–127 added subsec. (<i>l</i>) and redesignated former subsec. (<i>l</i>) as (m).
 
-1991—Subsec. (d)(2). Pub. L. 102–237, §1018(a)(2)(A), substituted “November 28, 1991” for “1 year after November 28, 1990”.
+<b>1991</b>—Subsec. (d)(2). Pub. L. 102–237, §1018(a)(2)(A), substituted “November 28, 1991” for “1 year after November 28, 1990”.
 
 Subsec. (e). Pub. L. 102–237, §1018(a)(2)(B), substituted “Not later than November 28, 1991, and in consultation with State Forest Stewardship Coordinating Committees established under section 2113(b)” for “Within 1 year from November 28, 1990, and in consultation with State Forest Stewardship Advisory Committees established under section 15(b)”.
 

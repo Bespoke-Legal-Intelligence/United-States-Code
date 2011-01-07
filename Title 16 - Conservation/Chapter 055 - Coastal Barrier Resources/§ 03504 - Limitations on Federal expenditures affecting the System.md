@@ -26,7 +26,7 @@ The Coastal Barrier Improvement Act of 1990, referred to in subsec. (b)(1), is P
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–591, §2(b)(2)(A), in introductory provisions substituted “the System” for “the Coastal Barrier Resources System”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–591, §2(b)(2)(A), in introductory provisions substituted “the System” for “the Coastal Barrier Resources System”.
 
 Subsec. (a)(3). Pub. L. 101–591, §5(c), substituted “through S08 and LA07” for “through S08”.
 

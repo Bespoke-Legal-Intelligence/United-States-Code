@@ -12,13 +12,13 @@ There is within the Office of the Director of National Intelligence a National C
 
 #### (c) Reporting
 
-(1) The Director of the National Counterterrorism Center shall report to the Director ofNational Intelligence with respect to matters described in paragraph (2) and the President with respect to matters described in paragraph (3).
+(1) The Director of the National Counterterrorism Center shall report to the Director of National Intelligence with respect to matters described in paragraph (2) and the President with respect to matters described in paragraph (3).
 
 (2) The matters described in this paragraph are as follows:
 
 &emsp;(A) The budget and programs of the National Counterterrorism Center.
 
-&emsp;(B) The activities of the Directorate of Intelligence of the National Counterterrorism Center under subsection (h) of this section.
+&emsp;(B) The activities of the Directorate of Intelligence of the National Counterterrorism Center under subsection (i).
 
 &emsp;(C) The conduct of intelligence operations implemented by other elements of the intelligence community; and
 
@@ -44,7 +44,7 @@ The primary missions of the National Counterterrorism Center shall be as follows
 
 (1) The Center may, consistent with applicable law, the direction of the President, and the guidelines referred to in section 403–1(b) of this title, receive intelligence pertaining exclusively to domestic counterterrorism from any Federal, State, or local government or other source necessary to fulfill its responsibilities and retain and disseminate such intelligence.
 
-(2) Any agency authorized to conduct counterterrorism activities may request information from the Center to assist it in its responsibilities, consistent with applicable law and the guidelines referred to in section 403–1(b) of this title.
+(2) Any agency authorized to conduct counterterrorism activities may request information from the Center to assist it in its responsibilities, consistent with applicable law and theguidelines referred to in section 403–1(b) of this title.
 
 #### (f) Duties and responsibilities of Director
 
@@ -76,7 +76,7 @@ The Director of the National Counterterrorism Center may not direct the executio
 
 #### (h) Resolution of disputes
 
-The Director of National Intelligence shall resolve disagreements between the NationalCounterterrorism Center and the head of a department, agency, or element of the United States Government on designations, assignments, plans, or responsibilities under this section. The head of such a department, agency, or element may appeal the resolution of the disagreement by the Director of National Intelligence to the President.
+The Director of National Intelligence shall resolve disagreements between the National Counterterrorism Center and the head of a department, agency, or element of the United States Government on designations, assignments, plans, or responsibilities under this section. The head of such a department, agency, or element may appeal the resolution of the disagreement by the Director of National Intelligence to the President.
 
 #### (i) Directorate of Intelligence
 
@@ -90,7 +90,11 @@ The Director of the National Counterterrorism Center shall establish and maintai
 
 (3) The Director of the National Counterterrorism Center shall monitor the implementation of strategic operational plans, and shall obtain information from each element of the intelligence community, and from each other department, agency, or element of the United States Government relevant for monitoring the progress of such entity in implementing such plans.
 
-(July 26, 1947, ch. 343, title I, §119, as added Pub. L. 108–458, title I, §1021, Dec. 17, 2004, 118 Stat. 3672.)
+(July 26, 1947, ch. 343, title I, §119, as added Pub. L. 108–458, title I, §1021, Dec. 17, 2004, 118 Stat. 3672; amended Pub. L. 111–259, title VIII, §804(5), Oct. 7, 2010, 124 Stat. 2747.)
+
+#### Amendments
+
+<b>2010</b>—Subsec. (c)(2)(B). Pub. L. 111–259 substituted “subsection (i)” for “subsection (h)”.
 
 #### Effective Date
 
@@ -102,5 +106,5 @@ Pub. L. 108–458, title VII, §7201(b), Dec. 17, 2004, 118 Stat. 3809, directed
 
 #### Executive Order No. 13354
 
-Ex. Ord. No. 13354, Aug. 27, 2004, 69 F.R. 53589, which established a National Counterterrorism Center, was revoked by Ex. Ord. No. 12333, §3.6, Dec. 4, 1981, 46 F.R. 59954, as amended by Ex. Ord. No. 13470, §4(j), July 30, 2008, 73 F.R. 45341, set out as a note under section 401 of this title.
+Ex. Ord. No. 13354, Aug. 27, 2004, 69 F.R. 53589, which established a National Counterterrorism Center, wasrevoked by Ex. Ord. No. 12333, §3.6, Dec. 4, 1981, 46 F.R. 59954, as amended by Ex. Ord. No. 13470, §4(j), July 30, 2008, 73 F.R. 45341, set out as a note under section 401 of this title.
 

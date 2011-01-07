@@ -44,17 +44,17 @@ For purposes of subsection (a), any security acquired by a dealer pursuant to an
 
 #### Amendments
 
-1984—Subsec. (a)(1). Pub. L. 98–369, §107(b)(1), substituted “the security was, before the close of the day on which it was acquired (or such earlier time as the Secretary may prescribe by regulations), clearly identified in the dealer's records as a security held for investment; and” for “the security was, before the close of the day on which it was acquired (before the close of the following day in the case of an acquisition before January 1, 1982), clearly identified in the dealer's records as a security held for investment or if acquired before October 20, 1951, was so identified before November 20, 1951; and”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–369, §107(b)(1), substituted “the security was, before the close of the day on which it was acquired (or such earlier time as the Secretary may prescribe by regulations), clearly identified in the dealer's records as a security held for investment; and” for “the security was, before the close of the day on which it was acquired (before the close of the following day in the case of an acquisition before January 1, 1982), clearly identified in the dealer's records as a security held for investment or if acquired before October 20, 1951, was so identified before November 20, 1951; and”.
 
 Subsec. (a)(2). Pub. L. 98–369, §107(b)(2), inserted “(or such earlier time)” after “such day”.
 
-1983—Subsec. (e). Pub. L. 97–448 added subsec. (e).
+<b>1983</b>—Subsec. (e). Pub. L. 97–448 added subsec. (e).
 
-1981—Subsec. (a). Pub. L. 97–34, §506(a), substituted “before the close of the day on which it was acquired (before the close of the following day in the case of an acquisition before January 1, 1982)” for “before the expiration of the 30th day after the date of its acquisition” in par. (1) and “close of such day” for “expiration of such 30th day” in par. (2).
+<b>1981</b>—Subsec. (a). Pub. L. 97–34, §506(a), substituted “before the close of the day on which it was acquired (before the close of the following day in the case of an acquisition before January 1, 1982)” for “before the expiration of the 30th day after the date of its acquisition” in par. (1) and “close of such day” for “expiration of such 30th day” in par. (2).
 
 Subsec. (d). Pub. L. 97–34, §506(b), added subsec. (d).
 
-1976—Subsec. (b). Pub. L. 94–455 substituted “ordinary loss” for “loss from the sale or exchange of property which is not a capital asset”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 substituted “ordinary loss” for “loss from the sale or exchange of property which is not a capital asset”.
 
 #### Effective Date of 1984 Amendment
 

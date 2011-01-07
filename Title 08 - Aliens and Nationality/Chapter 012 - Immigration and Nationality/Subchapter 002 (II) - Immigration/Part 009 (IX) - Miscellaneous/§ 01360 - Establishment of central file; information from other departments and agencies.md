@@ -16,9 +16,13 @@ Any information in any records kept by any department or agency of the Governmen
 
 #### (d) Certification of search of Service records
 
-A written certification signed by the Attorney General or by any officer of the Service designated by the Attorney General to make such certification, that after diligent search no record or entry of a specified nature is found to exist in the records of the Service, shall be admissible as evidence in any proceeding as evidence that the records of the Service contain no such record or entry, and shall have the same effect as the testimony of a witness given in open court.
+A written certification signed by the Attorney General or by any officer of the Service designated by the Attorney General to make such certification, that after diligent search no record or entry of a specified nature is found toexist in the records of the Service, shall be admissible as evidence in any proceeding as evidence that the records of the Service contain no such record or entry, and shall have the same effect as the testimony of a witness given in open court.
 
 (June 27, 1952, ch. 477, title II, ch. 9, §290, 66 Stat. 234; Pub. L. 100–525, §9(q), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 104–208, div. C, title III, §308(d)(4)(M), title IV, §414(a), Sept. 30, 1996, 110 Stat. 3009–618, 3009–669.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (a), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 

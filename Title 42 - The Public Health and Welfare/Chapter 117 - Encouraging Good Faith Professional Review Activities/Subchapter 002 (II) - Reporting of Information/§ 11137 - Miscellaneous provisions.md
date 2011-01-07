@@ -34,7 +34,7 @@ In interpreting information reported under this subchapter, a payment in settlem
 
 #### Amendments
 
-1987—Subsec. (b)(1). Pub. L. 100–177, §402(a)(1), substituted “as necessary to carry out subsections (b) and (c) of section 11135 of this title (as specified in regulations by the Secretary)” for “with respect to medical malpractice actions” and inserted at end “Information reported under this subchapter that is in a form that does not permit the identification of any particular health care entity, physician, other health care practitioner, or patient shall not be considered confidential. The Secretary (or the agency designated under section 11134(b) of this title), on application by any person, shall prepare such information in such form and shall disclose such information in such form.”
+<b>1987</b>—Subsec. (b)(1). Pub. L. 100–177, §402(a)(1), substituted “as necessary to carry out subsections (b) and (c) of section 11135 of this title (as specified in regulations by the Secretary)” for “with respect to medical malpractice actions” and inserted at end “Information reported under this subchapter that is in a form that does not permit the identification of any particular health care entity, physician, other health care practitioner, or patient shall not be considered confidential. The Secretary (or the agency designated under section 11134(b) of this title), on application by any person, shall prepare such information in such form and shall disclose such information in such form.”
 
 Subsec. (b)(4). Pub. L. 100–177, §402(b), added par. (4).
 
@@ -51,4 +51,6 @@ In general.—The amendments made by subsections (a) and (c) \[amending this sec
 “(2)
 
 Fees.—The amendment made by subsection (b) \[amending this section\] shall become effective on the date of enactment of this Act \[Dec. 1, 1987\].”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

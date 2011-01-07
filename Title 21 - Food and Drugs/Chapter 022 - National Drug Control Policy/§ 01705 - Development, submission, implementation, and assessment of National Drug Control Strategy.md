@@ -128,7 +128,7 @@ The President may submit to Congress a revised National Drug Control Strategy th
 
 Not later than February 1 of each year, the Director shall submit to Congress as part of the National Drug Control Strategy, a description of a national drug control performance measurement system, that—
 
-&emsp;(1) develops 2-year and 5-year performance measures and targets for each National Drug Control Strategy goal and objective established for reducing drug use, availability, and the consequences of drug use;
+&emsp;(1) develops 2-year and 5-year performance measures and targets for each National DrugControl Strategy goal and objective established for reducing drug use, availability, and the consequences of drug use;
 
 &emsp;(2) describes the sources of information and data that will be used for each performance measure incorporated into the performance measurement system;
 
@@ -160,7 +160,7 @@ A description of any modifications made during the preceding year to the nationa
 
 #### Amendments
 
-2006—Pub. L. 109–469, §201, amended section generally. Prior to amendment, section related to development, submission, implementation, and assessment of National Drug Control Strategy.
+<b>2006</b>—Pub. L. 109–469, §201, amended section generally. Prior to amendment, section related to development, submission, implementation, and assessment of National Drug Control Strategy.
 
 Subsecs. (c), (d). Pub. L. 109–469, §202, added subsecs. (c) and (d).
 
@@ -205,4 +205,66 @@ Report to Congress.—The Director shall provide a copy of the Southwest Border 
 “(g)
 
 Treatment of Classified or Law Enforcement Sensitive Information.—Any content of the Southwest Border Counternarcotics Strategy that involves information classified under criteria established by an Executive order, or whose public disclosure, as determined by the Director or the head of any relevant National Drug Control Program agency, would be detrimental to the law enforcement or national security activities of any Federal, State, local, or tribal agency, shall be presented to Congress separately from the rest of the strategy.”
+
+#### Requirement for Northern Border Counternarcotics Strategy
+
+Pub. L. 109–469, title XI, §1110A, as added by Pub. L. 111–356, §2, Jan. 4, 2011, 124 Stat. 3976, provided that:
+
+“(a)
+
+Definitions.—In this section, the terms ‘appropriate congressional committees’, ‘Director’, and ‘National Drug Control Program agency’ have the meanings given those terms in section 702 of the Office of National Drug Control Policy Reauthorization Act of 1998 (21 U.S.C. 1701).
+
+“(b)
+
+Strategy.—Not later than 180 days after the date of enactment of this section \[Jan. 4, 2011\], and every 2 years thereafter, the Director, in consultationwith the head of each relevant National Drug Control Program agency and relevant officials of States, local governments, tribal governments, and the governments of other countries, shall develop a Northern Border Counternarcotics Strategy and submit the strategy to—
+
+&emsp;“(1) the appropriate congressional committees (including the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives);
+
+&emsp;“(2) the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, and the Committee on Indian Affairs of the Senate; and
+
+&emsp;“(3) the Committee on Armed Services, the Committee on Homeland Security, and the Committee on Natural Resources of the House of Representatives.
+
+“(c)
+
+Purposes.—The Northern Border Counternarcotics Strategy shall—
+
+&emsp;“(1) set forth the strategy of the Federal Government for preventing the illegal trafficking of drugs across the international border between the United States and Canada, including through ports of entry and between ports of entry on the border;
+
+&emsp;“(2) state the specific roles and responsibilities of each relevant National Drug Control Program agency for implementing the strategy;
+
+&emsp;“(3) identify the specific resources required to enable the relevant National Drug Control Program agencies to implement the strategy; and
+
+&emsp;“(4) reflect the unique nature of small communities along the international border between the United States and Canada, ongoing cooperation and coordination with Canadian law enforcement authorities, and variations in the volumes of vehicles and pedestrians crossing through ports of entry along the international border between the United States and Canada.
+
+“(d)
+
+Specific Content Related to Cross-border Indian Reservations.—The Northern Border Counternarcotics Strategy shall include—
+
+&emsp;“(1) a strategy to end the illegal trafficking of drugs to or through Indian reservations on or near the international border between the United States and Canada; and
+
+&emsp;“(2) recommendations for additional assistance, if any, needed by tribal law enforcement agencies relating to the strategy, including an evaluation of Federal technical and financial assistance, infrastructure capacity building, and interoperability deficiencies.
+
+“(e)
+
+Limitation.—
+
+&emsp;“(1)
+
+In general.—The Northern Border Counternarcotics Strategy shall not change the existing agency authorities and this section shall not be construed to amend or modify any law governing interagency relationships.
+
+&emsp;“(2)
+
+Legitimate trade and travel.—The Northern Border Counternarcotics Strategy shall be designed to promote, and not hinder, legitimate trade and travel.
+
+“(f)
+
+Treatment of Classified or Law Enforcement Sensitive Information.—
+
+&emsp;“(1)
+
+In general.—The Northern Border Counternarcotics Strategy shall be submitted in unclassified form and shall be available to the public.
+
+&emsp;“(2)
+
+Annex.—The Northern Border Counternarcotics Strategy may include an annex containing any classified information or information the public disclosure of which, as determined by the Director or the head of any relevant National Drug Control Program agency, would be detrimental to the law enforcement or national security activities of any Federal, State, local, or tribal agency.”
 

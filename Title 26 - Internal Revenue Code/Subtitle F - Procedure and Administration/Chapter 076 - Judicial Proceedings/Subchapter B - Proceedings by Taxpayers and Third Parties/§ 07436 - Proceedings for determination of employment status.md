@@ -64,9 +64,9 @@ A prior section 7436 was renumbered section 7437 of this title.
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–554 inserted “and the proper amount of employment tax under such determination” before period at end of first sentence.
+<b>2000</b>—Subsec. (a). Pub. L. 106–554 inserted “and the proper amount of employment tax under such determination” before period at end of first sentence.
 
-1998—Subsec. (c)(1). Pub. L. 105–206 substituted “$50,000” for “$10,000”.
+<b>1998</b>—Subsec. (c)(1). Pub. L. 105–206 substituted “$50,000” for “$10,000”.
 
 #### Effective Date of 2000 Amendment
 

@@ -92,6 +92,8 @@ Section 201 of title II of Pub. L. 88–426 provided that: “This title \[enact
 
 #### Cost of Living Adjustment
 
+Pub. L. 111–165, §1, May 14, 2010, 124 Stat. 1185, provided that: “Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31) (relating to cost of living adjustments for Members of Congress) during fiscal year 2011.”
+
 Pub. L. 111–8, div. J, §103, Mar. 11, 2009, 123 Stat. 988, provided that: “Notwithstanding any provision of section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)), the percentage adjustment scheduled to take effect under any such provision in calendar year 2010 shall not take effect.”
 
 Pub. L. 109–289, div. B, title I, §115, as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 12, provided that: “Notwithstanding any other provision of this division \[see Tables for classification\] and notwithstanding section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31\[(2)\]), the percentage adjustment scheduled to take effect under such section for 2007 shall not take effect.”
@@ -116,11 +118,11 @@ Pub. L. 97–51, §130(c), Oct. 1, 1981, 95 Stat. 966, provided that: “Effecti
 
 #### Commission on Judicial and Congressional Salaries
 
-Act Aug. 7, 1953, ch. 353, 67 Stat. 485, which established a Commission to determine appropriate rates of salaries for justices and judges of courts of United States and for Vice President, Speaker of House of Representatives, and Members of Congress, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 657.
+Act Aug. 7, 1953, ch. 353, 67 Stat. 485, which established a Commission to determine appropriate rates of salaries for justices and judges of courts of UnitedStates and for Vice President, Speaker of House of Representatives, and Members of Congress, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 657.
 
 #### Salary Increases
 
-For adjustment of pay rates under this section, see the executive order detailing the adjustment of certainrates of pay set out as a note under section 5332 of Title 5, Government Organization and Employees.
+For adjustment of pay rates under this section, see the executive order detailing the adjustment of certain rates of pay set out as a note under section 5332 of Title 5, Government Organization and Employees.
 
 For prior year salary increases per the recommendation of the President, see Prior Salary Recommendations notes under section 358 of this title.
 

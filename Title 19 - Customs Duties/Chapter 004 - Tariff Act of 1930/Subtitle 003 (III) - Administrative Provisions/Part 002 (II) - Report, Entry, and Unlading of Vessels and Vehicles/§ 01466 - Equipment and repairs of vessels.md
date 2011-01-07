@@ -58,7 +58,7 @@ The duty imposed by subsection (a) of this section shall not apply to entries on
 
 &emsp;(3) the expenses of repairs of such nets and netting,
 
-> for any United States documented tuna purse seine vessel of greater than 500 tons carrying capacity or any United States tuna purse seine vessel required to carry a certificate of inclusion under the general permit issued to the AmericanTunaboat Association pursuant to section 1374 of title 16.
+> for any United States documented tuna purse seine vessel of greater than 500 tons carrying capacity or any United States tuna purse seine vessel required to carry a certificate of inclusion under the general permit issued to the American Tunaboat Association pursuant to section 1374 of title 16.
 
 #### (h) Foreign repair of vessels
 
@@ -66,7 +66,7 @@ The duty imposed by subsection (a) of this section shall not apply to—
 
 &emsp;(1) the cost of any equipment, or any part of equipment, purchased for, or the repair parts or materials to be used, or the expense of repairs made in a foreign country with respect to, LASH (Lighter Aboard Ship) barges documented under the laws of the United States and utilized as cargo containers;
 
-&emsp;(2) the cost of spare repair parts or materials (other than nets or nettings) which the owner or master of the vessel certifies are intended for use aboard a cargo vessel, documented under the laws of the United States and engaged in the foreign or coasting trade, for installation or use on such vessel, as needed, in the United States, at sea, or in a foreign country, but only if duty is paid under appropriate commodity classifications of the Harmonized Tariff Schedule of the United States upon first entry into the United States of each such spare part purchased in, or imported from, a foreign country;
+&emsp;(2) the cost of spare repair parts or materials (other than nets or nettings) which the owner or master of the vessel certifies are intended for use aboard a cargo vessel, documented under the laws of the United States and engaged in the foreign or coasting trade, for installation or use on such vessel, as needed, inthe United States, at sea, or in a foreign country, but only if duty is paid under appropriate commodity classifications of the Harmonized Tariff Schedule of the United States upon first entry into the United States of each such spare part purchased in, or imported from, a foreign country;
 
 &emsp;(3) the cost of spare parts necessarily installed before the first entry into the United States, but only if duty is paid under appropriate commodity classifications of the Harmonized Tariff Schedule of the United States upon first entry into the United States of each such spare part purchased in, or imported from, a foreign country; or
 
@@ -86,29 +86,29 @@ Provisions similar to those in subsecs. (a) and (b) of this section were contain
 
 #### Amendments
 
-2006—Subsec. (h)(4). Pub. L. 109–280 added par. (4) and struck out former par. (4) which read as follows: “the cost of equipment, repair parts, and materials that are installed on a vessel documented under the laws of the United States and engaged in the foreign or coasting trade, if the installation is done by members of the regular crew of such vessel while the vessel is on the high seas.”
+<b>2006</b>—Subsec. (h)(4). Pub. L. 109–280 added par. (4) and struck out former par. (4) which read as follows: “the cost of equipment, repair parts, and materials that are installed on a vessel documented under the laws of the United States and engaged in the foreign or coasting trade, if the installation is done by members of the regular crew of such vessel while the vessel is on the high seas.”
 
-2004—Subsec. (h). Pub. L. 108–429 added par. (4) and concluding provisions.
+<b>2004</b>—Subsec. (h). Pub. L. 108–429 added par. (4) and concluding provisions.
 
-1994—Subsec. (h)(3). Pub. L. 103–465 added par. (3).
+<b>1994</b>—Subsec. (h)(3). Pub. L. 103–465 added par. (3).
 
-1990—Subsec. (h). Pub. L. 101–382 added subsec. (h).
+<b>1990</b>—Subsec. (h). Pub. L. 101–382 added subsec. (h).
 
-1988—Subsec. (f). Pub. L. 100–418 substituted “general note 3(c)(iv) of the Harmonized Tariff Schedule of the United States” for “headnote 3 to schedule 6, part 6, subpart C of the Tariff Schedules of the United States”.
+<b>1988</b>—Subsec. (f). Pub. L. 100–418 substituted “general note 3(c)(iv) of the Harmonized Tariff Schedule of the United States” for “headnote 3 to schedule 6, part 6, subpart C of the Tariff Schedules of the United States”.
 
-1984—Subsec. (e). Pub. L. 98–573 designated existing provisions as par. (1), in par. (1) as so designated substituted reference to any vessel referred to in subsec. (a) for reference to any vessel designed and used primarily for purposes other than transporting passengers or property in the foreign or coasting trade, redesignated former cls. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+<b>1984</b>—Subsec. (e). Pub. L. 98–573 designated existing provisions as par. (1), in par. (1) as so designated substituted reference to any vessel referred to in subsec. (a) for reference to any vessel designed and used primarily for purposes other than transporting passengers or property in the foreign or coasting trade, redesignated former cls. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
-1980—Subsec. (f). Pub. L. 96–467 substituted “of equipments, or any part thereof, purchased, of repair parts or materials used, or of repairs made in a foreign country with respect to” for “of repair parts, materials, or expenses of repairs in a foreign country upon” and “schedule 6” for “Schedule 6”.
+<b>1980</b>—Subsec. (f). Pub. L. 96–467 substituted “of equipments, or any part thereof, purchased, of repair parts or materials used, or of repairs made in a foreign country with respect to” for “of repair parts, materials, or expenses of repairs in a foreign country upon” and “schedule 6” for “Schedule 6”.
 
 Subsec. (g). Pub. L. 96–609 added subsec. (g).
 
-1979—Subsec. (f). Pub. L. 96–39 added subsec. (f).
+<b>1979</b>—Subsec. (f). Pub. L. 96–39 added subsec. (f).
 
-1978—Subsec. (a). Pub. L. 95–410, §206(1), incorporated seizure and forfeiture provision formerly a part of first sentence in an inserted second sentence; substituted therein “willfully or knowingly” for “willfully and knowingly” and “such vessel, or a monetary amount up to the value thereof as determined by the Secretary, to be recovered from the owner, shall be subject to seizure and forfeiture” for “such vessel, with her tackle, apparel, and furniture, shall be seized and forfeited”; and authorized the seizure and forfeiture for making false statements in respect of purchases or repairs or aiding or procuring the making of false statements.
+<b>1978</b>—Subsec. (a). Pub. L. 95–410, §206(1), incorporated seizure and forfeiture provision formerly a part of first sentence in an inserted second sentence; substituted therein “willfully or knowingly” for “willfully and knowingly” and “such vessel, or a monetary amount up to the value thereof as determined by the Secretary, to be recovered from the owner, shall be subject to seizure and forfeiture” for “such vessel, with her tackle, apparel, and furniture, shall be seized and forfeited”; and authorized the seizure and forfeiture for making false statements in respect of purchases or repairs or aiding or procuring the making of false statements.
 
 Subsecs. (b) to (e). Pub. L. 95–410, §206(2), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively.
 
-1971—Subsec. (c). Pub. L. 91–654 added subsec. (c).
+<b>1971</b>—Subsec. (c). Pub. L. 91–654 added subsec. (c).
 
 #### Effective Date of 2006 Amendment
 
@@ -252,7 +252,7 @@ Section 115(b) of Pub. L. 96–609 provided that: “Upon request therefor filed
 
 &emsp;“(2) with respect to which there would have been no duty if the amendment made by subsection (a) \[adding subsec. (g) of this section\] applied to such entry or withdrawal;
 
-> shall, notwithstanding the provisions of section 514 of the Tariff Act of 1930 \[section 1514 of this title\] or any other provision of law, be liquidated or reliquidated asthough such entry or withdrawal had been made on the date of the enactment of this Act.”
+> shall, notwithstanding the provisions of section 514 of the Tariff Act of 1930 \[section 1514 of this title\] or any other provision of law, be liquidated or reliquidated as though such entry or withdrawal had been made on the date of the enactment of this Act.”
 
 #### Entries Made in Connection With Arrivals of Vessels On or After January 5, 1971; Entries in Connection With the Arrival of Shrimp Vessels After January 1, 1969, and Before January 5, 1971
 
@@ -266,5 +266,5 @@ Section 2 of Pub. L. 91–654 provided that:
 
 &emsp;“(2) with respect to which there would have been no duty if the amendment made by the first section of this Act applied to such entry,
 
-> shall, notwithstanding the provisions of section 514 of the Tariff Act of 1930 \[section 1514 of this title\] or any other provision of law, be liquidated or reliquidated as though such entry had been made on the day after the date of the enactment of this Act.”
+> shall, notwithstanding the provisions of section 514 of the Tariff Act of 1930 \[section 1514 of this title\] or anyother provision of law, be liquidated or reliquidated as though such entry had been made on the day after the date of the enactment of this Act.”
 

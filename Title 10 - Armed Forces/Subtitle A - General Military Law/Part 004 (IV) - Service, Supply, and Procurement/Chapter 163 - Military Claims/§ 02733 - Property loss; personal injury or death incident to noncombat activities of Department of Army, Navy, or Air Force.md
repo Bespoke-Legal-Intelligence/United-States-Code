@@ -4,7 +4,7 @@
 
 &emsp;(1) damage to or loss of real property, including damage or loss incident to use and occupancy;
 
-&emsp;(2) damage to or loss of personal property, including property bailed to the United Statesand including registered or insured mail damaged, lost, or destroyed by a criminal act while in the possession of the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be; or
+&emsp;(2) damage to or loss of personal property, including property bailed to the United States and including registered or insured mail damaged, lost, or destroyed by a criminal act while in the possession of the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be; or
 
 &emsp;(3) personal injury or death;
 
@@ -116,7 +116,7 @@ In subsection (b)(1), the words “it accrues” are substituted for the words �
 
 In subsection (b)(2), the words “or section 2672 of title 28” are substituted for the words “claims cognizable under part 2 of this title”, to reflect the express amendment of 31:223b and 223c by the fourth clause of section 424(a) of the Federal Tort Claims Act, 60 Stat. 847. Section 424(a) of the Federal Tort Claims Act referred to “claims cognizable under part 2 of this title”. Part 2 of that act consisted of sections 403 and 404 which were repealed by section 39 of the Act of June 25, 1948, ch. 646, 62 Stat. 1008, and replaced by sections 2672 and 2673 of title 28. The words “or possessions thereof” are omitted, since possessions of foreign countries are not specifically covered by the section to which the words refer.
 
-In subsection (d), the words “claim that would otherwise be covered by this section” are substituted for the words “such claims”.
+In subsection (d), the words “claim \* \* \* that would otherwise be covered by this section” are substituted for the words “such claims”.
 
 In subsection (e), the words “and final settlement” are omitted as surplusage.
 
@@ -138,27 +138,27 @@ Mar. 29, 1956, ch. 103, §§1–3, 70 Stat. 60, 61.
 
 #### Amendments
 
-1996—Subsec. (d). Pub. L. 104–316 substituted “Secretary of the Treasury” for “Comptroller General”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–316 substituted “Secretary of the Treasury” for “Comptroller General”.
 
-1984—Subsec. (a). Pub. L. 98–564, §1(1), substituted “Chief Counsel” for “chief legal officer” and “$100,000” for “$25,000” in provisions preceding par. (1).
+<b>1984</b>—Subsec. (a). Pub. L. 98–564, §1(1), substituted “Chief Counsel” for “chief legal officer” and “$100,000” for “$25,000” in provisions preceding par. (1).
 
 Subsec. (d). Pub. L. 98–564, §1(2), amended subsec. (d) generally, substituting “$100,000” for “$25,000” and provisions requiring Secretary to report excess to the Comptroller General for provisions requiring reporting to Congress.
 
 Subsec. (g). Pub. L. 98–564, §1(3), substituted provisions permitting officers and employees of Secretary concerned to settle claims not otherwise payable under this section in amounts not to exceed $25,000 and providing for an appeal to Secretary concerned or his designee for provisions which provided for delegation of claims settlement authority by Secretary for cases not to exceed $5,000 and for appeal therefrom.
 
-1980—Subsec. (f). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+<b>1980</b>—Subsec. (f). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
-1974—Subsec. (a). Pub. L. 93–336, §1(1), substituted “$25,000” for “$15,000”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–336, §1(1), substituted “$25,000” for “$15,000”.
 
 Subsec. (d). Pub. L. 93–336, §1(2), substituted “$25,000” for “$15,000” wherever appearing.
 
 Subsec. (g). Pub. L. 93–336, §1(3), substituted “$5,000” for “$2,500”.
 
-1970—Subsec. (a). Pub. L. 91–312, §2(a), substituted “$15,000” for “$5,000”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–312, §2(a), substituted “$15,000” for “$5,000”.
 
 Subsec. (d). Pub. L. 91–312, §2(b), substituted “$15,000” for “$5,000” wherever appearing.
 
-1968—Subsec. (a). Pub. L. 90–525, §1, substituted “Secretary concerned” for “Secretary of a military department”, and authorized the Chief Legal Officer of the Coast Guard to settle claims, settlement of claims for damage or loss to personal property in possession of the Coast Guard, and settlements when the torts are caused by civilian officers or employees and members of the Coast Guard when acting within scope of employment or otherwise incident to noncombat activities of the Coast Guard.
+<b>1968</b>—Subsec. (a). Pub. L. 90–525, §1, substituted “Secretary concerned” for “Secretary of a military department”, and authorized the Chief Legal Officer of the Coast Guard to settle claims, settlement of claims for damage or loss to personal property in possession of the Coast Guard, and settlements when the torts are caused by civilian officers or employees and members of the Coast Guard when acting within scope of employment or otherwise incident to noncombat activities of the Coast Guard.
 
 Subsec. (b)(4). Pub. L. 90–522, §1(1), authorized application of local law in determining effect of claimant's contributory negligence.
 
@@ -170,9 +170,9 @@ Pub. L. 90–522, §1(2), provided for appeals to Secretary concerned, or his de
 
 Subsec. (h). Pub. L. 90–525, §4, added subsec. (h).
 
-1966—Subsec. (f). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
+<b>1966</b>—Subsec. (f). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
 
-1958—Subsec. (a). Pub. L. 85–729, §1(1)(A), substituted “the Judge Advocate General of an armed force under his jurisdiction, if designated by him, may settle, and pay in an amount not more than $5,000” for “any officer designated by him may settle, and pay in an amount not more than $1,000”.
+<b>1958</b>—Subsec. (a). Pub. L. 85–729, §1(1)(A), substituted “the Judge Advocate General of an armed force under his jurisdiction, if designated by him, may settle, and pay in an amount not more than $5,000” for “any officer designated by him may settle, and pay in an amount not more than $1,000”.
 
 Subsec. (b). Pub. L. 85–861, §1(54)(A), (B), in cl. (1), substituted “two years” for “one year” in three places and included claims accruing in time of armed conflict, and inserted sentence providing for the determination of dates of the beginning and ending of an armed conflict.
 

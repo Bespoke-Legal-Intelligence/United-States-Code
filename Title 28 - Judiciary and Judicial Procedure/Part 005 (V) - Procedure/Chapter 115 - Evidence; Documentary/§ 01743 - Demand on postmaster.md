@@ -16,9 +16,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 #### Transfer of Functions
 
-The office of Postmaster General of the Post Office Department was abolished and all functions, powers, and duties of the Postmaster General were transferred to the United States Postal Service by Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
+The office of Postmaster General of the Post Office Department was abolished and all functions, powers,and duties of the Postmaster General were transferred to the United States Postal Service by Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
 

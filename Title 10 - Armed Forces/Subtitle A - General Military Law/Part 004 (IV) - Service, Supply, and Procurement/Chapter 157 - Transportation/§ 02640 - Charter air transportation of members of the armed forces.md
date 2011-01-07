@@ -96,9 +96,9 @@ Definitions.—In this section:
 
 #### Amendments
 
-1997—Subsecs. (h) to (j). Pub. L. 105–85 added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
+<b>1997</b>—Subsecs. (h) to (j). Pub. L. 105–85 added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 
-1994—Subsecs. (a)(1)(A), (d)(1)(B)(i). Pub. L. 103–272, §5(b)(1)(A), substituted “chapter 447 of title 49” for “title VI of the Federal Aviation Act of 1958 (49 U.S.C. App. 1421 et seq.)”.
+<b>1994</b>—Subsecs. (a)(1)(A), (d)(1)(B)(i). Pub. L. 103–272, §5(b)(1)(A), substituted “chapter 447 of title 49” for “title VI of the Federal Aviation Act of 1958 (49 U.S.C. App. 1421 et seq.)”.
 
 Subsec. (i)(1). Pub. L. 103–272, §5(b)(1)(B), substituted “section 40102(a) of title 49” for “sections 101(3), 101(5), 101(10), and 101(15), respectively, of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301(3), 1301(5), 1301(10), and 1301(15))”.
 

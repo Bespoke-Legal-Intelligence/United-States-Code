@@ -30,11 +30,11 @@ The authorities available to the Secretary of State under this section with resp
 
 #### Amendments
 
-1998—Subsec. (f). Pub. L. 105–277, §1422(b)(3)(A), substituted “Administrator of the Agency for International Development” for “Director of the United States International Development Cooperation Agency”.
+<b>1998</b>—Subsec. (f). Pub. L. 105–277, §1422(b)(3)(A), substituted “Administrator of the Agency for International Development” for “Director of the United States International Development Cooperation Agency”.
 
 Pub. L. 105–277, §1335(<i>l</i>)(2), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency” and “with respect to the Board and the Agency” for “with respect to their respective agencies”.
 
-1987—Subsec. (b). Pub. L. 100–204 inserted “, but shall not be expended for representational purposes at United States missions except in accordance with the conditions that apply to appropriated funds” before period at end of last sentence.
+<b>1987</b>—Subsec. (b). Pub. L. 100–204 inserted “, but shall not be expended for representational purposes at United States missions except in accordance with the conditions that apply to appropriated funds” before period at end of last sentence.
 
 #### Change of Name
 
@@ -62,5 +62,5 @@ Congressional Review.—It is the sense of the Congress that the United States s
 
 “(b)
 
-Study and Report.—The Secretary of State shall conduct a study of any offer of a gift for the purpose of providing a place of official residence for the Secretary of State. Such study shall include an examination of the costs to the United States associated with accepting such gift, including the costs of acquisition, maintenance, security, and daily operation of a residence. The Secretary shall report the results of any study conducted under this section to the Committee on Foreign Affairs and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives and to the Committee on Foreign Relations and the Committee on Environment and Public Works of the Senate.”
+Study and Report.—The Secretary of State shall conduct a study of any offer of a gift for the purpose of providing a place of official residence for the Secretary of State. Such study shall include an examination of the costs to the United States associated with accepting such gift, including the costs of acquisition, maintenance, security, and daily operation of aresidence. The Secretary shall report the results of any study conducted under this section to the Committee on Foreign Affairs and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives and to the Committee on Foreign Relations and the Committee on Environment and Public Works of the Senate.”
 

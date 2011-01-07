@@ -10,5 +10,5 @@ Sections 22 to 24, 26 to 28, 29, 30, 33 to 35, 37, 39 to 42, and 47 of this titl
 
 #### Amendments
 
-1920—The exception clause has been inserted at beginning of this section because of act Feb. 25, 1920, which provided that deposits of coal, phosphate, sodium, oil, oil shale, or gas, and lands containing such deposits owned by the United States, shall be subject to disposition in the form and manner provided by such act.
+<b>1920</b>—The exception clause has been inserted at beginning of this section because of act Feb. 25, 1920, which provided that deposits of coal, phosphate, sodium, oil, oil shale, or gas, and lands containing such deposits owned by the United States, shall be subject to disposition in the form and manner provided by such act.
 

@@ -70,7 +70,7 @@ The Secretary shall establish a program, to be known as the “community forest 
 
 #### (5) Application
 
-&emsp;An eligible entity that seeks to receive a grant under the Program shall submit to the State forester or equivalent official (or in the case of an Indian tribe, an equivalent officialof the Indian tribe) an application that includes—
+&emsp;An eligible entity that seeks to receive a grant under the Program shall submit to the State forester or equivalent official (or in the case of an Indian tribe, an equivalent official of the Indian tribe) an application that includes—
 
 &emsp;&emsp;(A) a description of the land to be acquired;
 

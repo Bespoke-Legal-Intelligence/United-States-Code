@@ -8,7 +8,7 @@ Whoever makes, or knowingly uses or sells, or possesses with intent to use or se
 
 Whoever makes or prints, or authorizes to be made or printed, any postage stamp, postage meter stamp, stamped envelope, or postal card, of the kind authorized and provided by the Post Office Department or by the Postal Service, without the special authority and direction of the Department or Postal Service; or
 
-Whoever after such postage stamp, postage meter stamp, stamped envelope, or postal card has been printed, with intent to defraud, delivers the same to any person not authorized by an instrument in writing, duly executed under the hand of the Postmaster General and the seal of the Post Office Department or the Postal Service, to receive it—
+Whoever after such postage stamp, postage meter stamp, stamped envelope, or postal card has been printed, with intent to defraud, delivers the same to any person not authorized by aninstrument in writing, duly executed under the hand of the Postmaster General and the seal of the Post Office Department or the Postal Service, to receive it—
 
 Shall be fined under this title or imprisoned not more than five years, or both.
 
@@ -24,9 +24,9 @@ Minor changes of phraseology were made.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” in last par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” in last par.
 
-1970—Pub. L. 91–448 inserted references to the Postal Service and to postage meter stamps. Pub. L. 91–448, §1(b), repealed section 6(j)(6) of the Postal Reorganization Act, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719, by which the references to the Postal Service had been inserted earlier.
+<b>1970</b>—Pub. L. 91–448 inserted references to the Postal Service and to postage meter stamps. Pub. L. 91–448, §1(b), repealed section 6(j)(6) of the Postal Reorganization Act, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719, by which the references to the Postal Service had been inserted earlier.
 
 Pub. L. 91–375 inserted “or by the Postal Service,” after “Post Office Department,” and substituted “the Department or Postal Service” for “said department” in fourth par. and struck out the comma after “stamped envelope” and “to defraud” and inserted “or the Postal Service” after “Post Office Department” in fifth par.
 

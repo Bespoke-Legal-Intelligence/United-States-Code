@@ -50,13 +50,13 @@ Section 115 of the Veterans’ Benefits and Services Act of 1988, referred to in
 
 #### Amendments
 
-2008—Subsec. (d)(4). Pub. L. 110–387 substituted “September 30, 2013” for “September 30, 2008”.
+<b>2008</b>—Subsec. (d)(4). Pub. L. 110–387 substituted “September 30, 2013” for “September 30, 2008”.
 
-2005—Subsec. (d)(2). Pub. L. 109–13 substituted “shall be available, without fiscal year limitation, for the purposes” for “shall be available for the purposes”.
+<b>2005</b>—Subsec. (d)(2). Pub. L. 109–13 substituted “shall be available, without fiscal year limitation, for the purposes” for “shall be available for the purposes”.
 
-2004—Subsec. (d). Pub. L. 108–422 added subsec. (d).
+<b>2004</b>—Subsec. (d). Pub. L. 108–422 added subsec. (d).
 
-1996—Subsec. (a). Pub. L. 104–262, §104(b)(1), struck out “or 1712” after “, as authorized in section 1710” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–262, §104(b)(1), struck out “or 1712” after “, as authorized in section 1710” in introductory provisions.
 
 Subsec. (a)(2)(A). Pub. L. 104–262, §104(b)(2)(A), substituted “1710(a)(1)(B)” for “1712(a)(1)(B)”.
 
@@ -66,13 +66,13 @@ Subsec. (a)(2)(C). Pub. L. 104–262, §104(b)(2)(C), substituted “section 171
 
 Subsec. (a)(7). Pub. L. 104–262, §104(b)(3), substituted “1712(a)(1)(F)” for “1712(b)(1)(F)”.
 
-1992—Subsec. (a)(1)(C). Pub. L. 102–585 added subpar. (C).
+<b>1992</b>—Subsec. (a)(1)(C). Pub. L. 102–585 added subpar. (C).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 603 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 603 of this title as this section.
 
 Pub. L. 102–83, §4(a)(5), substituted “non-Department” for “non-Veterans’ Administration” in section catchline.
 
-Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1710 or 1712” for “610 or 612” in introductory provisions, “1712(a)(1)(B)” for “612(a)(1)(B)” in par. (2)(A), “1712(a)” for “612(a)” and “1712(a)(5)(B)” for “612(a)(5)(B)” in par. (2)(B), “1712(a)(3)” for “612(a)(3)” in par. (2)(C), “1720” for “620” in par. (3), and “1712(b)(1)(F)” for “612(b)(1)(F)” in par. (7).
+Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1710 or 1712” for “610 or 612” in introductory provisions,“1712(a)(1)(B)” for “612(a)(1)(B)” in par. (2)(A), “1712(a)” for “612(a)” and “1712(a)(5)(B)” for “612(a)(5)(B)” in par. (2)(B), “1712(a)(3)” for “612(a)(3)” in par. (2)(C), “1720” for “620” in par. (3), and “1712(b)(1)(F)” for “612(b)(1)(F)” in par. (7).
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and in par. (2)(C).
 
@@ -96,7 +96,7 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 Pub. L. 102–54, §14(b)(9)(C), inserted before period at end “(Public Law 100–322; 102 Stat. 501)”.
 
-1988—Subsec. (a). Pub. L. 100–322, §104(b)(1), substituted  “furnish  any  of  the  following:”  for “furnish—”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–322, §104(b)(1), substituted  “furnish  any  of  the  following:”  for “furnish—”.
 
 Subsec. (a)(1). Pub. L. 100–322, §104(b)(2), (3), substituted “Hospital” for “hospital” and the period for semicolon at end.
 
@@ -120,13 +120,13 @@ Subsec. (a)(8). Pub. L. 100–322, §104(a)(2), added par. (8).
 
 Subsec. (c). Pub. L. 100–322, §112(a), added subsec. (c).
 
-1986—Subsec. (a)(5). Pub. L. 99–272, §19012(c)(5)(A), made conforming amendment to Pub. L. 99–166, §102(b)(1). See 1985 Amendment note below.
+<b>1986</b>—Subsec. (a)(5). Pub. L. 99–272, §19012(c)(5)(A), made conforming amendment to Pub. L. 99–166, §102(b)(1). See 1985 Amendment note below.
 
-1985—Subsec. (a)(5). Pub. L. 99–166, §102(b)(1), as amended by Pub. L. 99–272, §19012(c)(5)(A), inserted “(other than the Commonwealth of Puerto Rico)” after “in a State” and substituted “contiguous States and the Commonwealth of Puerto Rico” for “contiguous States, but the authority of the Administrator under this paragraph with respect to the Commonwealth of Puerto Rico shall expire on September 30, 1988, and until such date the Administrator may, if necessary to prevent hardship, waive the applicability to the Commonwealth of Puerto Rico of the restrictions in this paragraph with respect to hospital patient loads and the incidence of the furnishing of medical services”.
+<b>1985</b>—Subsec. (a)(5). Pub. L. 99–166, §102(b)(1), as amended by Pub. L. 99–272, §19012(c)(5)(A), inserted “(other than the Commonwealth of Puerto Rico)” after “in a State” and substituted “contiguous States and the Commonwealth of Puerto Rico” for “contiguous States, but the authority of the Administrator under this paragraph with respect to the Commonwealth of Puerto Rico shall expire on September 30, 1988, and until such date the Administrator may, if necessary to prevent hardship, waive the applicability to the Commonwealth of Puerto Rico of the restrictions in this paragraph with respect to hospital patient loads and the incidence of the furnishing of medical services”.
 
 #### Effective Date of 1988 Amendments
 
-Section 1503(b) of Pub. L. 100–687 provided that: “The amendments made by subsection (a)(1) \[amending this section\] shall apply with respect to the furnishing of medical services by contract to veterans who apply tothe Veterans’ Administration for medical services after June 30, 1988.”
+Section 1503(b) of Pub. L. 100–687 provided that: “The amendments made by subsection (a)(1) \[amending this section\] shall apply with respect to the furnishing of medical services by contract to veterans who apply to the Veterans’ Administration for medical services after June 30, 1988.”
 
 Section 101(i) of Pub. L. 100–322 provided that: “The amendments made by this section \[amending this section and sections 612 and 617 \[now 1712 and 1717\] of this title\] shall apply with respect to the furnishing of medical services to veterans who apply for such services after June 30, 1988.”
 
@@ -134,9 +134,39 @@ Section 101(i) of Pub. L. 100–322 provided that: “The amendments made by thi
 
 Section 102(b)(1) of Pub. L. 99–166, as amended by Pub. L. 99–272, title XIX, §19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382, provided that the amendment made by that section is effective Oct. 1, 1988.
 
+#### Demonstration Projects on Alternatives for Expanding Care for Veterans in Rural Areas
+
+Pub. L. 111–163, title III, §303, May 5, 2010, 124 Stat. 1149, provided that:
+
+“(a)
+
+In General.—The Secretary of Veterans Affairs may, through the Director of the Office of Rural Health, carry out demonstration projects to examine the feasibility and advisability of alternatives for expanding care for veterans in rural areas, which may include the following:
+
+&emsp;“(1) Establishing a partnership between the Department of Veterans Affairs and the Centers for Medicare and Medicaid Services of the Department of Health and Human Services to coordinate care for veterans in rural areas at critical access hospitals (as designated or certified under section 1820 of the Social Security Act (42 U.S.C. 1395i–4)).
+
+&emsp;“(2) Establishing a partnership between the Department of Veterans Affairs and the Department of Health and Human Services to coordinate care for veterans in rural areas at community health centers.
+
+&emsp;“(3) Expanding coordination between the Department of Veterans Affairs and the Indian Health Service to expand care for Indian veterans.
+
+“(b)
+
+Geographic Distribution.—The Secretary shall ensure that the demonstration projects carried out under subsection (a) are located at facilities that are geographically distributed throughout the United States.
+
+“(c)
+
+Report.—Not later than 2 years after the date of the enactment of this Act \[May 5, 2010\], the Secretary shall submit a report on the results of the demonstration projects carried out under subsection (a) to—
+
+&emsp;“(1) the Committee on Veterans’ Affairs and the Committee on Appropriations of the Senate; and
+
+&emsp;“(2) the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives.
+
+“(d)
+
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $5,000,000 for fiscal year 2010 and each fiscal year thereafter.”
+
 #### Pilot Program of Enhanced Contract Care Authority for Health Care Needs of Veterans in Highly Rural Areas
 
-Pub. L. 110–387, title IV, §403, Oct. 10, 2008, 122 Stat. 4124, provided that:
+Pub. L. 110–387, title IV, §403, Oct. 10, 2008, 122 Stat. 4124, as amended by Pub. L. 111–163, title III, §308, May 5, 2010, 124 Stat. 1155, provided that:
 
 “(a)
 
@@ -148,7 +178,7 @@ In general.—The Secretary of Veterans Affairs shall conduct a pilot program un
 
 &emsp;“(2)
 
-Commencement.—The Secretary shall commence the conduct of the pilot program on the date that is 120 days after the date of the enactment of this Act \[Oct. 10, 2008\].
+Commencement.—The Secretary shall commence the conduct of the pilot program on the datethat is 120 days after the date of the enactment of this Act \[Oct. 10, 2008\].
 
 &emsp;“(3)
 
@@ -168,29 +198,21 @@ Program locations.—The pilot program shall be carried out within areas selecte
 
 “(b)
 
-Covered Veterans.—
+Covered Veterans.—For purposes of the pilot program under this section, a covered veteran is any veteran who—
 
-&emsp;“(1)
-
-In general.—For purposes of the pilot program under this section, a covered veteran is any highly rural veteran who is—
+&emsp;“(1) is—
 
 &emsp;&emsp;“(A) enrolled in the system of patient enrollment established under section 1705(a) of title 38, United States Code, as of the date of the commencement of the pilot program under subsection (a)(2); or
 
-&emsp;&emsp;“(B) eligible for health care under section 1710(e)(3)(C) of title 38, United States Code.
+&emsp;&emsp;“(B) eligible for health care under section 1710(e)(3) of such title; and
 
-&emsp;“(2)
+&emsp;“(2) resides in a location that is—
 
-Highly rural veterans.—For purposes of this subsection, a highly rural veteran is any veteran who—
+&emsp;&emsp;“(A) more than 60 minutes driving distance from the nearest Department health care facility providing primary care services, if the veteran is seeking such services;
 
-&emsp;&emsp;“(A) resides in a location that is—
+&emsp;&emsp;“(B) more than 120 minutes driving distance from the nearest Department health care facility providing acute hospital care, if the veteran is seeking such care; or
 
-&emsp;&emsp;&emsp;“(i) more than 60 miles driving distance from the nearest Department health care facility providing primary care services, if the veteran is seeking such services;
-
-&emsp;&emsp;&emsp;“(ii) more than 120 miles driving distance from the nearest Department health care facility providing acute hospital care, if the veteran is seeking such care; or
-
-&emsp;&emsp;&emsp;“(iii) more than 240 miles driving distance from the nearest Department health care facility providing tertiary care, if the veteran is seeking such care; or
-
-&emsp;&emsp;“(B) in the case of a veteran who resides in a location less than the distance specified in clause (i), (ii), or (iii) of subparagraph (A), as applicable, experiences such hardship or other difficulties in travel to the nearest appropriate Department health care facility that such travel is not in the best interest of the veteran, as determined by the Secretary pursuant to regulations prescribed for purposes of this subsection.
+&emsp;&emsp;“(C) more than 240 minutes driving distance from the nearest Department health care facility providing tertiary care, if the veteran is seeking such care.
 
 “(c)
 

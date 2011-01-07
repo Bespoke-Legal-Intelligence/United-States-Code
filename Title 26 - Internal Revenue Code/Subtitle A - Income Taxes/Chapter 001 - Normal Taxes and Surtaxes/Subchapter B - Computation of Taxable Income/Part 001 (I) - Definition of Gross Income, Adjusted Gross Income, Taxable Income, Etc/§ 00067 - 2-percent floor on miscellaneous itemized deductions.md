@@ -100,17 +100,17 @@ Section 4 of the Securities Act of 1933, referred to in subsec. (c)(2)(B)(i)(I),
 
 #### Amendments
 
-2000—Subsec. (f). Pub. L. 106–554 substituted “the second sentence” for “the last sentence”.
+<b>2000</b>—Subsec. (f). Pub. L. 106–554 substituted “the second sentence” for “the last sentence”.
 
-1998—Subsec. (b)(3). Pub. L. 105–277 substituted “for casualty or theft losses described in paragraph (2) or (3) of section 165(c) or for losses described in section 165(d)” for “for losses described in subsection (c)(3) or (d) of section 165”.
+<b>1998</b>—Subsec. (b)(3). Pub. L. 105–277 substituted “for casualty or theft losses described in paragraph (2) or (3) of section 165(c) or for losses described in section165(d)” for “for losses described in subsection (c)(3) or (d) of section 165”.
 
-1993—Subsec. (b)(6) to (13). Pub. L. 103–66 redesignated pars. (7) to (13) as (6) to (12), respectively, and struck out former par. (6) which read as follows: “the deduction under section 217 (relating to moving expenses),”.
+<b>1993</b>—Subsec. (b)(6) to (13). Pub. L. 103–66 redesignated pars. (7) to (13) as (6) to (12), respectively, and struck out former par. (6) which read as follows: “the deduction under section 217 (relating to moving expenses),”.
 
-1989—Subsec. (c)(4). Pub. L. 101–239 struck out par. (4) which read as follows: “
+<b>1989</b>—Subsec. (c)(4). Pub. L. 101–239 struck out par. (4) which read as follows: “
 
 Termination.—This subsection shall not apply to any taxable year beginning after December 31, 1989.”
 
-1988—Subsec. (b)(4). Pub. L. 100–647, §1001(f)(2), substituted “deductions” for “deduction” and inserted before comma at end “and section 642(c) (relating to deduction for amounts paid or permanently set aside for a charitable purpose)”.
+<b>1988</b>—Subsec. (b)(4). Pub. L. 100–647, §1001(f)(2), substituted “deductions” for “deduction” and inserted before comma at end “and section 642(c) (relating to deduction for amounts paid or permanently set aside for a charitable purpose)”.
 
 Subsec. (c). Pub. L. 100–647, §4011(a), amended subsec. (c) generally. Prior to amendment subsec. (c) read as follows: “The Secretary shall prescribe regulations which prohibit the indirect deduction through pass-thru entities of amounts which are not allowable as a deduction if paid or incurred directly by an individual and which contain such reporting requirements as may be necessary to carry out the purposes of this subsection. The preceding sentence shall not apply—
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 103–66 applicable to expenses incurred after Dec. 31, 199
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

@@ -10,7 +10,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1978—Pub. L. 95–424 inserted “environmental” after “social” in cl. 2.
+<b>1978</b>—Pub. L. 95–424 inserted “environmental” after “social” in cl. 2.
 
 #### Effective Date of 1978 Amendment
 

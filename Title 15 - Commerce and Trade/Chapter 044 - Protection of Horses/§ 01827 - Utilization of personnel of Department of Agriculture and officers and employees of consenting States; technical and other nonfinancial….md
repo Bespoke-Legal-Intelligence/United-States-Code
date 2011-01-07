@@ -2,7 +2,7 @@
 
 #### (a) Assistance from Department of Agriculture and States
 
-The Secretary, in carrying out the provisions of this chapter, shall utilize, to the maximumextent practicable, the existing personnel and facilities of the Department of Agriculture. The Secretary is further authorized to utilize the officers and employees of any State, with its consent, and with or without reimbursement, to assist him in carrying out the provisions of this chapter.
+The Secretary, in carrying out the provisions of this chapter, shall utilize, to the maximum extent practicable, the existing personnel and facilities of the Department of Agriculture. The Secretary is further authorized to utilize the officers and employees of any State, with its consent, and with or without reimbursement, to assist him in carrying out the provisions of this chapter.
 
 #### (b) Assistance to States
 
@@ -12,5 +12,5 @@ The Secretary may, upon request, provide technical and other nonfinancial assist
 
 #### Amendments
 
-1976—Pub. L. 94–360 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1976</b>—Pub. L. 94–360 designated existing provisions as subsec. (a) and added subsec. (b).
 

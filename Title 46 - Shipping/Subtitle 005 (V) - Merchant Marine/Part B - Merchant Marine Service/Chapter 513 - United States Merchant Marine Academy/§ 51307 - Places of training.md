@@ -32,9 +32,9 @@ In paragraph (2), the words “with the permission of the owner” are substitut
 
 #### Amendments
 
-2008—Pub. L. 110–181, §3525(b), repealed Pub. L. 109–241, §307. See 2006 Amendment note below.
+<b>2008</b>—Pub. L. 110–181, §3525(b), repealed Pub. L. 109–241, §307. See 2006 Amendment note below.
 
 Par. (4). Pub. L. 110–181, §3525(a)(3), incorporated the substance of the amendment by Pub. L. 109–241, §307, into this section by adding par. (4). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-2006—Pub. L. 109–241, §307, which directed the amendment of section 1295b(f) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3525(b). See 2008 Amendment note for par. (4) and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–241, §307, which directed the amendment of section 1295b(f) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3525(b). See 2008 Amendment note for par. (4) and Historical and Revision notes above.
 

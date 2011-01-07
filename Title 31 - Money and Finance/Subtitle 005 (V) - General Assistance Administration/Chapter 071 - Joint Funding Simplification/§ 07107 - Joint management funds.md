@@ -1,6 +1,6 @@
 ### §7107. Joint management funds
 
-(a) In supporting a project, a joint management fund may be established to administermore effectively amounts received from more than one assistance program or appropriation. A proportional share of the amount required to pay a grantee shall be transferred periodically to the fund from each program or appropriation. When a project is completed, the grantee shall return to the fund an amount not expended.
+(a) In supporting a project, a joint management fund may be established to administer more effectively amounts received from more than one assistance program or appropriation. A proportional share of the amount required to pay a grantee shall be transferred periodically to the fund from each program or appropriation. When a project is completed, the grantee shall return to the fund an amount not expended.
 
 (b) An account in a joint management fund is subject to an agreement made by the heads of the executive agencies providing assistance for the project about the responsibilities of each agency. An agreement shall—
 
@@ -10,7 +10,7 @@
 
 &emsp;(3) include procedures for returning, subject to fiscal year limitations, an excess amount to participating executive agencies under the applicable appropriation. An excess amount of an expired appropriation lapses from the fund.
 
-(c) For each project financed through an account in a joint management fund, a recipient of an amount from the fund shall keep records prescribed by the head of the executive agency responsible for administering the fund. The records shall include—
+(c) For each project financed through an account in a joint management fund, a recipient ofan amount from the fund shall keep records prescribed by the head of the executive agency responsible for administering the fund. The records shall include—
 
 &emsp;(1) the amount and disposition by the recipient of assistance received under each program and appropriation;
 

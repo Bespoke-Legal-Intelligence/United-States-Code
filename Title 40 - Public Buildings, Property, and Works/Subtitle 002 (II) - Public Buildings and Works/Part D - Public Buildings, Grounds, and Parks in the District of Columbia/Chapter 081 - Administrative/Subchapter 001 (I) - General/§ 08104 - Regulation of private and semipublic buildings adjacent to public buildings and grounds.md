@@ -42,5 +42,5 @@ In subsection (b), the words “To this end, hereafter” are omitted as unneces
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–284 substituted “Commission of Fine Arts” for “Commission on Fine Arts”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–284 substituted “Commission of Fine Arts” for “Commission on Fine Arts”.
 

@@ -14,9 +14,9 @@ It is hereby declared to be the policy of the United States to eliminate the cau
 
 #### Amendments
 
-1947—Act June 23, 1947, amended section generally to restate the declaration of policy and to make the finding and policy of this subchapter “two-sided”.
+<b>1947</b>—Act June 23, 1947, amended section generally to restate the declaration of policy and to make the finding and policy of this subchapter “two-sided”.
 
 #### Effective Date of 1947 Amendment
 
-Section 104 of title I of act June 23, 1947, provided: “The amendments made by this title \[amending thissubchapter\] shall take effect sixty days after the date of the enactment of this Act \[June 23, 1947\], except that the authority of the President to appoint certain officers conferred upon him by section 3 of the National Labor Relations Act as amended by this title \[section 153 of this title\] may be exercised forthwith.”
+Section 104 of title I of act June 23, 1947, provided: “The amendments made by this title \[amending this subchapter\] shall take effect sixty days after the date of the enactment of this Act \[June 23, 1947\], except that the authority of the President to appoint certain officers conferred upon him by section 3 of the National Labor Relations Act as amended by this title \[section 153 of this title\] may be exercised forthwith.”
 

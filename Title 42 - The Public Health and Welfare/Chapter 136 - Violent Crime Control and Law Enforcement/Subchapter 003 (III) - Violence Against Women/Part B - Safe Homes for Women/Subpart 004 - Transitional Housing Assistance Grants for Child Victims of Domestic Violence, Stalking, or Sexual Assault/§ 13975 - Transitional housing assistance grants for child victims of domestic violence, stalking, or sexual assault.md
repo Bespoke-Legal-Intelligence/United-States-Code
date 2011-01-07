@@ -116,7 +116,7 @@ Grants awarded under this section may be used for programs that provide—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), unless all eligible applications submitted by any States, units of local government, Indian tribes, or organizations within a State for a grant under this section have beenfunded, that State, together with the grantees within the State (other than Indian tribes), shall be allocated in each fiscal year, not less than 0.75 percent of the total amount appropriated in the fiscal year for grants pursuant to this section.
+&emsp;&emsp;Except as provided in subparagraph (B), unless all eligible applications submitted by any States, units of local government, Indian tribes, or organizations within a State for a grant under this section have been funded, that State, together with the grantees within the State (other than Indian tribes), shall be allocated in each fiscal year, not less than 0.75 percent of the total amount appropriated in the fiscal year for grants pursuant to this section.
 
 #### (B) Exception
 
@@ -142,7 +142,7 @@ Applicability of part.— <sup>2</sup> The requirements of this section shall 
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–162, §602(a)(1)(A), (B), in introductory provisions, inserted “the Department of Housing and Urban Development, and the Department of Health and Human Services,” after “Department of Justice,” and “, including domestic violence and sexual assault victim service providers, domestic violence and sexual assault coalitions, other nonprofit, nongovernmental organizations, or community-based and culturally specific organizations, that have a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking” after “other organizations”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–162, §602(a)(1)(A), (B), in introductory provisions, inserted “the Department of Housing and Urban Development, and the Department of Health and Human Services,” after “Department of Justice,” and “, including domestic violence and sexual assault victim service providers, domestic violence and sexual assault coalitions, other nonprofit, nongovernmental organizations, or community-based and culturally specific organizations, that have a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking” after “other organizations”.
 
 Subsec. (a)(1). Pub. L. 109–162, §602(a)(1)(C), inserted “, dating violence, sexual assault, or stalking” after “domestic violence”.
 
@@ -178,7 +178,15 @@ Subsec. (g)(4). Pub. L. 109–271, §7(c)(1)(B), struck out par. (4) which read 
 
 Pub. L. 109–162, §906(e), formerly §906(f), as renumbered by Pub. L. 109–271, §7(b)(2)(B), added par. (4).
 
+#### Transfer of Functions
+
+Functions of Office on Women's Health of the Public Health Service exercised prior to Mar. 23, 2010, transferred to Office on Women's Health established under section 237a of this title, see section 3509(a)(2) of Pub. L. 111–148, set out as a note under section 237a of this title.
+
 #### Effective Date of 2006 Amendment
 
 Amendment by sections 602(a) and 906(e) of Pub. L. 109–162 not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as a note under section 3793 of this title.
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “section”.</i>
 

@@ -56,33 +56,33 @@ The provisions for the abolition of fees and oaths on entry of goods, made by th
 
 Act May 1, 1876, ch. 89, §2, 19 Stat. 49, modifying the form of oath prescribed by R.S. §2841, was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 
-R.S. §2849, relative to oaths when merchandise belonged in part to a resident of the United States and in part to a non-resident was superseded in part by the Customs Administrative Act of June 10, 1890, ch. 407, §§5, 22, 29, 26 Stat. 132, 140, 141, amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 92, 102, 104, and further amended by the Underwood TariffAct of Oct. 3, 1913, ch. 16, §III, B–J, and was repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+R.S. §2849, relative to oaths when merchandise belonged in part to a resident of the United States and in part to a non-resident was superseded in part by the Customs Administrative Act of June 10, 1890, ch. 407, §§5, 22, 29, 26 Stat. 132, 140, 141, amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 92, 102, 104, and further amended by the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §III, B–J, and was repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 Prior provisions requiring a bond to be taken when entry was made by an agent, factor, or person other than the owner or ultimate consignee, and prescribing the conditions, etc., of the bond, and the circumstances under which it might be canceled with a proviso authorizing the taking of a general penal bond, were contained in R.S. §2787, as amended by act Mar. 2, 1905, ch. 1306, 33 Stat. 826, which was repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 Provisions concerning the statement to be presented to the collector when merchandise entered for customs duty had been consigned for sale to a person, agent, partner, or consignee, were contained in act Oct. 3, 1913, ch. 16, §III, J, 38 Stat. 185, which reenacted the provisions of the Customs Administrative Act of June 10, 1890, ch. 407, 26 Stat. 131, and the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 96, and which was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 
-A prior provision relative to oaths to invoices when merchandise belonged to estates of deceased persons or of persons insolvent was contained in R.S. §2846, which was superseded, in part, by the abolition of all oaths administered by officers of the customs, except as provided therein, by the Customs Administrative Act of June 10, 1890, ch. 407, §22, 26 Stat. 140, and by the repeal, by section 29 of that act, 26 Stat. 141, of R.S. §§2841, 2843, 2845, which required oaths to accompany invoices on entry of merchandise, and the substitution of declarations for such oaths, by sections 3–5 of said act, 26 Stat. 131, amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 102, and further amended by the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §III, D, F, and §IV, S, 38 Stat. 181.
+A prior provision relative to oaths to invoices when merchandise belonged to estates of deceased persons or of persons insolvent was contained in R.S. §2846, which was superseded, in part, by the abolition of all oaths administered by officers of the customs, except as provided therein, by the Customs Administrative Act ofJune 10, 1890, ch. 407, §22, 26 Stat. 140, and by the repeal, by section 29 of that act, 26 Stat. 141, of R.S. §§2841, 2843, 2845, which required oaths to accompany invoices on entry of merchandise, and the substitution of declarations for such oaths, by sections 3–5 of said act, 26 Stat. 131, amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 102, and further amended by the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §III, D, F, and §IV, S, 38 Stat. 181.
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–182, §657(1), in introductory provisions, inserted “or transmit electronically” after “file” and “and manner” after “form”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–182, §657(1), in introductory provisions, inserted “or transmit electronically” after “file” and “and manner” after “form”.
 
 Subsec. (d). Pub. L. 103–182, §657(2), substituted “An importer” for “A importer” and “an importer” for “a importer”.
 
 Subsec. (g). Pub. L. 103–182, §657(3), added subsec. (g).
 
-1983—Subsec. (a). Pub. L. 97–446 substituted “importer of record” for “consignee” before “making an entry”.
+<b>1983</b>—Subsec. (a). Pub. L. 97–446 substituted “importer of record” for “consignee” before “making an entry”.
 
 Subsec. (c). Pub. L. 97–446 substituted “importer of record” for “consignee” after “declaration of the”.
 
 Subsecs. (d), (f). Pub. L. 97–446 substituted “importer of record” for “consignee” wherever appearing.
 
-1978—Subsec. (f). Pub. L. 95–598 substituted “trustee in a case under title 11” for “receiver or trustee in bankruptcy”.
+<b>1978</b>—Subsec. (f). Pub. L. 95–598 substituted “trustee in a case under title 11” for “receiver or trustee in bankruptcy”.
 
-1970—Subsec. (a). Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector.
+<b>1970</b>—Subsec. (a). Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector.
 
-1938—Subsec. (f). Act June 25, 1938, changed the comma to a period after “such declaration may be made by any officer of such corporation”, struck out “or by any other person specifically authorized by any officer of such corporation to make the same” after said comma, and inserted in lieu thereof a new sentence providing that whether the consignee is an individual, a partnership, or a corporation, the declaration may be made by any person having knowledge of the facts and authorized to make such declaration.
+<b>1938</b>—Subsec. (f). Act June 25, 1938, changed the comma to a period after “such declaration may be made by any officer of such corporation”, struck out “or by any other person specifically authorized by any officer of such corporation to make the same” after said comma, and inserted in lieu thereof a new sentence providing that whether the consignee is an individual, a partnership, or a corporation, the declaration may be made by any person having knowledge of the facts and authorized to make such declaration.
 
 #### Effective Date of 1983 Amendment
 

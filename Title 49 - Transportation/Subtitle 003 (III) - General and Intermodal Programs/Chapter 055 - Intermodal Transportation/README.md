@@ -30,9 +30,9 @@
 
 #### Amendments
 
-2005—Pub. L. 109–59, title V, §§5401(c), 5402(c), Aug. 10, 2005, 119 Stat. 1815, 1820, substituted “National university transportation centers” for “University transportation research” in item 5505 and “University transportation research” for “Advanced vehicle technologies program” in item 5506.
+<b>2005</b>—Pub. L. 109–59, title V, §§5401(c), 5402(c), Aug. 10, 2005, 119 Stat. 1815, 1820, substituted “National university transportation centers” for “University transportation research” in item 5505 and “University transportation research” for “Advanced vehicle technologies program” in item 5506.
 
-1998—Pub. L. 105–178, title V, §§5110(b), 5111(b), June 9, 1998, 112 Stat. 444, 445, added items 5505 and 5506.
+<b>1998</b>—Pub. L. 105–178, title V, §§5110(b), 5111(b), June 9, 1998, 112 Stat. 444, 445, added items 5505 and 5506.
 
 
 ---

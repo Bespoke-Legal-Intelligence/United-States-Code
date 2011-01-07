@@ -4,7 +4,7 @@ As used in this subchapter—
 
 (a) The term “humanities” includes, but is not limited to, the study and interpretation of the following: language, both modern and classical; linguistics; literature; history; jurisprudence; philosophy; archeology; comparative religion; ethics; the history, criticism, and theory of the arts; those aspects of the social sciences which have humanistic content and employ humanistic methods; and the study and application of the humanities to the human environment with particular attention to reflecting our diverse heritage, traditions, and history and to the relevance of the humanities to the current conditions of national life.
 
-(b) The term “the arts” includes, but is not limited to, music (instrumental and vocal), dance, drama, folk art, creative writing, architecture and allied fields, painting, sculpture, photography, graphic and craft arts, industrialdesign, costume and fashion design, motion pictures, television, radio, film, video, tape and sound recording, the arts related to the presentation, performance, execution, and exhibition of such major art forms, all those traditional arts practiced by the diverse peoples of this country.<sup>1</sup> and the study and application of the arts to the human environment.
+(b) The term “the arts” includes, but is not limited to, music (instrumental and vocal), dance, drama, folk art, creative writing, architecture and allied fields, painting, sculpture, photography, graphic and craft arts, industrial design, costume and fashion design, motion pictures, television, radio, film, video, tape and sound recording, the arts related to the presentation, performance, execution, and exhibition of such major art forms, all those traditional arts practiced by the diverse peoples of this country.<sup>1</sup> and the study and application of the arts to the human environment.
 
 (c) The term “production” means plays (with or without music), ballet, dance and choral performances, concerts, recitals, operas, exhibitions, readings, motion pictures, television, radio, film, video, and tape and sound recordings, and any other activities involving the execution or rendition of the arts and meeting such standards as may be approved by the National Endowment for the Arts established by section 954 of this title.
 
@@ -12,7 +12,7 @@ As used in this subchapter—
 
 &emsp;(1) the renovation of facilities if (A) the amount of the expenditure of Federal funds for such purpose in the case of any project does not exceed $250,000, or (B) two-thirds of the members of the National Council on the Arts or the National Council on the Humanities, as the case may be (who are present and voting) approve of the grant or contract involving an expenditure for such purpose; and
 
-&emsp;(2) for purposes of sections 954(p), 956(c)(10), and 956(h) of this title only, the construction of facilities if (A) such construction is for demonstration purposes or under unusual circumstances where there is no other manner in which to accomplish an artistic or humanistic purpose, and (B) two-thirds of the members of the National Council on the Arts and the National Council on the Humanities, as the case may be, (who are present and voting) approve of the grant or contract involving an expenditure for such purpose.
+&emsp;(2) for purposes of sections 954(p), 956(c)(10), and 956(h) of this title only, the construction of facilities if (A) such construction is for demonstration purposes or under unusual circumstances where there is no other manner inwhich to accomplish an artistic or humanistic purpose, and (B) two-thirds of the members of the National Council on the Arts and the National Council on the Humanities, as the case may be, (who are present and voting) approve of the grant or contract involving an expenditure for such purpose.
 
 (e) The term “group” includes any State or other public agency, and any nonprofit society, institution, organization, association, museum, or establishment in the United States, whether or not incorporated.
 
@@ -48,7 +48,7 @@ As used in this subchapter—
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–512, §318 \[title I, §102(a)(1), (b)(1)\], inserted “all those traditional arts practiced by the diverse peoples of this country.” after “forms,” and “film, video,” after “radio,”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–512, §318 \[title I, §102(a)(1), (b)(1)\], inserted “all those traditional arts practiced by the diverse peoples of this country.” after “forms,” and “film, video,” after “radio,”.
 
 Subsec. (c). Pub. L. 101–512, §318 \[title I, §102(b)(2)\], inserted “film, video,” after “radio,”.
 
@@ -60,21 +60,21 @@ Subsecs. (h), (i). Pub. L. 101–512, §318 \[title I, §102(a)(2)\], added subs
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 101–512, §318 \[title I, §102(c)\], added subsecs. (j) to (<i>l</i>).
 
-1985—Subsec. (a). Pub. L. 99–194, §103(1), substituted “study and interpretation of the following” for “study of the following” and inserted “to reflecting our diverse heritage, traditions, and history and” after “particular attention”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–194, §103(1), substituted “study and interpretation of the following” for “study of the following” and inserted “to reflecting our diverse heritage, traditions, and history and” after “particular attention”.
 
 Subsec. (d)(2). Pub. L. 99–194, §103(2), inserted “for purposes of sections 954(<i>l</i>) and 956(h) of this title only,” before “the construction of facilities if”, “or humanistic” after “artistic”, and “and the National Council on the Humanities, as the case may be,” after “the National Council on the Arts”.
 
-1980—Subsec. (a). Pub. L. 96–496, §101(a), substituted “and theory of the arts” for “theory, and practice of the arts”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–496, §101(a), substituted “and theory of the arts” for “theory, and practice of the arts”.
 
 Subsec. (d)(1)(B). Pub. L. 96–496, §101(b), inserted “or the National Council on the Humanities, as the case may be”.
 
 Subsec. (g). Pub. L. 96–496, §101(c), inserted “the Northern Mariana Islands”.
 
-1973—Subsec. (d). Pub. L. 93–133 substituted “or purchase of facilities” for “, purchase, renovation, or construction of facilities” and added pars. (1) and (2).
+<b>1973</b>—Subsec. (d). Pub. L. 93–133 substituted “or purchase of facilities” for “, purchase, renovation, or construction of facilities” and added pars. (1) and (2).
 
-1970—Subsec. (a). Pub. L. 91–346 extended term “humanities” to include the study of comparative religion and ethics, and emphasized that particular attention be paid to relevance of humanities to current conditions of national life when engaging in study and application of humanities to human environment.
+<b>1970</b>—Subsec. (a). Pub. L. 91–346 extended term “humanities” to include the study of comparative religion and ethics, and emphasized that particular attention be paid to relevance of humanities to current conditions of national life when engaging in study and application of humanities to human environment.
 
-1968—Subsec. (a). Pub. L. 90–348, §7, extended term “humanities” to include the study and application of enumerated fields to human environment.
+<b>1968</b>—Subsec. (a). Pub. L. 90–348, §7, extended term “humanities” to include the study and application of enumerated fields to human environment.
 
 Subsec. (b). Pub. L. 90–348, §7, extended term “arts” to include study and application of enumerated art forms to human environment.
 

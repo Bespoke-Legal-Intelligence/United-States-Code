@@ -32,7 +32,7 @@ Amounts expended for furnishing services referred to in subsection (c) of this s
 
 #### (f) Reimbursement of United States by Republic of Panama for salaries and other employment costs
 
-For purposes of the reimbursement of the United States by the Republic of Panama for the salaries and other employment costs of employees of the Commission who are assigned to assist the Republic of Panama in the operation of activities which are transferred to that Government as a result of any provision of the Panama Canal Treaty of 1977 and related agreements, which reimbursement is provided for in paragraph 8 of Article 10 of that Treaty, the Commission shall be deemed to be the United States of America.
+For purposes of the reimbursement of the United States by the Republic of Panama for thesalaries and other employment costs of employees of the Commission who are assigned to assist the Republic of Panama in the operation of activities which are transferred to that Government as a result of any provision of the Panama Canal Treaty of 1977 and related agreements, which reimbursement is provided for in paragraph 8 of Article 10 of that Treaty, the Commission shall be deemed to be the United States of America.
 
 #### (g) Operation of Canal Zone College
 
@@ -50,25 +50,25 @@ This chapter, referred to in subsec. (h), was in the original “this Act”, me
 
 #### Amendments
 
-1998—Subsec. (e). Pub. L. 105–261 struck out subsec. (e) which provided that appropriations or funds of the Commission or of any other department or agency ofthe United States conducting operations in the Republic of Panama were available to defray the cost of certain health care services and educational services.
+<b>1998</b>—Subsec. (e). Pub. L. 105–261 struck out subsec. (e) which provided that appropriations or funds of the Commission or of any other department or agency of the United States conducting operations in the Republic of Panama were available to defray the cost of certain health care services and educational services.
 
-1997—Subsec. (c)(1). Pub. L. 105–85, §3550(d)(2)(A), substituted “October 1, 1979” for “the effective date of this Act”.
+<b>1997</b>—Subsec. (c)(1). Pub. L. 105–85, §3550(d)(2)(A), substituted “October 1, 1979” for “the effective date of this Act”.
 
 Subsec. (c)(2). Pub. L. 105–85, §3550(d)(2)(B), substituted “October 1, 1979” for “such effective date”.
 
 Subsec. (e)(2). Pub. L. 105–85, §3525(b), substituted “, to other Commission employees when determined by the Commission to be necessary for their recruitment or retention, and to other persons” for “and persons”.
 
-1996—Subsec. (d). Pub. L. 104–106 struck out “appropriations or” before “funds of the Commission” in introductory provisions.
+<b>1996</b>—Subsec. (d). Pub. L. 104–106 struck out “appropriations or” before “funds of the Commission” in introductory provisions.
 
 Subsec. (e). Pub. L. 104–201 inserted concluding provisions “Notwithstanding the provisions relating to the availability of adequate schools contained in section 5924(4)(A) of title 5, the Commission shall by regulation determine the extent to which costs of educational services may be defrayed under this subsection.”
 
-1994—Subsec. (e)(2). Pub. L. 103–337 inserted “or the United States” after “schools in the Republic of Panama”.
+<b>1994</b>—Subsec. (e)(2). Pub. L. 103–337 inserted “or the United States” after “schools in the Republic of Panama”.
 
-1992—Subsec. (e)(1). Pub. L. 102–484 inserted “provided by medical facilities licensed and approved by the Republic of Panama (and not operated by the United States)” after “health care services”.
+<b>1992</b>—Subsec. (e)(1). Pub. L. 102–484 inserted “provided by medical facilities licensed and approved by the Republic of Panama (and not operated by the United States)” after “health care services”.
 
-1988—Subsec. (h). Pub. L. 100–705 added subsec. (h).
+<b>1988</b>—Subsec. (h). Pub. L. 100–705 added subsec. (h).
 
-1985—Subsec. (e). Pub. L. 99–223 amended subsec. (e) generally, striking out “, in accordance with subsection (d) of this section,” after “shall be available” in provisions preceding par. (1) and inserting “employees of the Commission who are citizens of the United States and” in par. (2).
+<b>1985</b>—Subsec. (e). Pub. L. 99–223 amended subsec. (e) generally, striking out “, in accordance with subsection (d) of this section,” after “shall be available” in provisions preceding par. (1) and inserting “employees of the Commission who are citizens of the United States and” in par. (2).
 
 #### Effective Date of 1998 Amendment
 

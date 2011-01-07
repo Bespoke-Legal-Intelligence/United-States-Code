@@ -1,0 +1,56 @@
+### §403–3i. Chief Financial Officer of the Intelligence Community
+
+#### (a) Chief Financial Officer of the Intelligence Community
+
+To assist the Director of National Intelligence in carrying out the responsibilities of the Director under this Act and other applicable provisions of law, there is within the Office of the Director of National Intelligence a Chief Financial Officer of the Intelligence Community who shall be appointed by the Director.
+
+#### (b) Duties and responsibilities
+
+Subject to the direction of the Director of National Intelligence, the Chief Financial Officer of the Intelligence Community shall—
+
+&emsp;(1) serve as the principal advisor to the Director of National Intelligence and the Principal Deputy Director of National Intelligence on the management and allocation of intelligence community budgetary resources;
+
+&emsp;(2) participate in overseeing a comprehensive and integrated strategic process for resource management within the intelligence community;
+
+&emsp;(3) ensure that the strategic plan of the Director of National Intelligence—
+
+&emsp;&emsp;(A) is based on budgetary constraints as specified in the Future Year Intelligence Plans and Long-term Budget Projections required under section 415a–9 of this title; and
+
+&emsp;&emsp;(B) contains specific goals and objectives to support a performance-based budget;
+
+&emsp;(4) prior to the obligation or expenditure of funds for the acquisition of any major system pursuant to a Milestone A or Milestone B decision, receive verification from appropriate authorities that the national requirements for meeting the strategic plan of the Director have been established, and that such requirements are prioritized based on budgetary constraints as specified in the Future Year Intelligence Plans and the Long-term Budget Projections for such major system required under section 415a–9 of this title;
+
+&emsp;(5) ensure that the collection architectures of the Director are based on budgetary constraints as specified in the Future Year Intelligence Plans and the Long-term Budget Projections required under section 415a–9 of this title;
+
+&emsp;(6) coordinate or approve representations made to Congress by the intelligence community regarding National Intelligence Program budgetary resources;
+
+&emsp;(7) participate in key mission requirements, acquisitions, or architectural boards formed within or by the Office of the Director of National Intelligence; and
+
+&emsp;(8) perform such other duties as may be prescribed by the Director of National Intelligence.
+
+#### (c) Other law
+
+The Chief Financial Officer of the Intelligence Community shall serve as the Chief Financial Officer of the intelligence community and, to the extent applicable, shall have the duties, responsibilities, and authorities specified in chapter 9 of title 31.
+
+#### (d) Prohibition on simultaneous service as other Chief Financial Officer
+
+An individual serving in the position of Chief Financial Officer of the Intelligence Community may not, while so serving, serve as the chief financial officer of any other department or agency, or component thereof, of the United States Government.
+
+#### (e) Definitions
+
+In this section:
+
+&emsp;(1) The term “major system” has the meaning given that term in section 415a–1(e) of this title.
+
+&emsp;(2) The term “Milestone A” has the meaning given that term in section 415a–9(f) <sup>1</sup> of this title.
+
+&emsp;(3) The term “Milestone B” has the meaning given that term in section 415a–5(e) of this title.
+
+(July 26, 1947, ch. 343, title I, §103I, as added Pub. L. 111–259, title IV, §406(a), Oct. 7, 2010, 124 Stat. 2720.)
+
+#### References in Text
+
+This Act, referred to in subsec. (a), means act July 26, 1947, ch. 343, 61 Stat. 495, known as the National Security Act of 1947. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
+
+<i><sup>1</sup></i><i> So in original. Section 415a–9 of this title does not contain a subsec. (f).</i>
+

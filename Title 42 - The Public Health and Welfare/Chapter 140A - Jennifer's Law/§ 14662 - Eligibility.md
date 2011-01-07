@@ -10,7 +10,7 @@ Each such application shall include assurances that the State shall, to the grea
 
 &emsp;(1) report to the National Crime Information Center and when possible, to law enforcement authorities throughout the State regarding every deceased unidentified person, regardless of age, found in the State's jurisdiction;
 
-&emsp;(2) enter a complete profile of such unidentified person in compliance with the guidelines established by the Department of Justice for the National Crime Information Center Missing and Unidentified Persons File, including dental records, DNA records, x-rays, and fingerprints, if available;
+&emsp;(2) enter a complete profile of such unidentified person in compliance with the guidelinesestablished by the Department of Justice for the National Crime Information Center Missing and Unidentified Persons File, including dental records, DNA records, x-rays, and fingerprints, if available;
 
 &emsp;(3) enter the National Crime Information Center number or other appropriate number assigned to the unidentified person on the death certificate of each such unidentified person; and
 

@@ -6,7 +6,7 @@ The consent of Congress is granted for the construction, maintenance, and operat
 
 #### (b) Approval of plans
 
-The location and plans for such bridges shall be approved by the Secretary of Transportation before construction is commenced, and, in approving the location and plans of any bridge, the Secretary may impose any specific conditions relating to the maintenance and operation of the structure which the Secretary may deem necessary in the interest of public navigation, and the conditions so imposed shall have the force of law. This subsection shall not apply to any bridge over waters which are not subject to the ebb and flow of the tide and which are not used and are not susceptible to use in their natural condition or by reasonable improvement asa means to transport interstate or foreign commerce.
+The location and plans for such bridges shall be approved by the Secretary of Transportation before construction is commenced, and, in approving the location and plans of any bridge, the Secretary may impose any specific conditions relating to the maintenance and operation of the structure which the Secretary may deem necessary in the interest of public navigation, and the conditions so imposed shall have the force of law. This subsection shall not apply to any bridge over waters which are not subject to the ebb and flow of the tide and which are not used and are not susceptible to use in their natural condition or by reasonable improvement as a means to transport interstate or foreign commerce.
 
 #### (c) Private highway toll bridges
 
@@ -16,13 +16,13 @@ Notwithstanding the provisions of subsections (a) and (b) of this section, it sh
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–557 struck out “the Chief of Engineers and” before “the Secretary of Transportation” and substituted “the Secretary” for “they” wherever appearing.
+<b>1984</b>—Subsec. (b). Pub. L. 98–557 struck out “the Chief of Engineers and” before “the Secretary of Transportation” and substituted “the Secretary” for “they” wherever appearing.
 
-1983—Subsec. (b). Pub. L. 97–449, §2(d)(1), substituted “Secretary of Transportation” for “Secretary of War”. See Transfer of Functions note below.
+<b>1983</b>—Subsec. (b). Pub. L. 97–449, §2(d)(1), substituted “Secretary of Transportation” for “Secretary of War”. See Transfer of Functions note below.
 
 Subsec. (c). Pub. L. 97–449, §2(d)(3), substituted “Secretary of Transportation” for “Public Roads Administration” wherever appearing. See Transfer of Functions note below.
 
-1982—Subsec. (b). Pub. L. 97–322 inserted exemption provision at end.
+<b>1982</b>—Subsec. (b). Pub. L. 97–322 inserted exemption provision at end.
 
 #### Short Title
 

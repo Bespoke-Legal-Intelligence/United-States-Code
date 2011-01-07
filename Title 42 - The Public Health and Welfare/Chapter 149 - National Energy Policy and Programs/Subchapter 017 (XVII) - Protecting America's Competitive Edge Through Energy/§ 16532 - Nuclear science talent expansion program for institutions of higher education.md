@@ -86,7 +86,7 @@ The Secretary shall establish, in accordance with this section, a program to exp
 
 #### (B) Amount
 
-&emsp;&emsp;An institution of higher education that receives a grant under this subsection shall be eligible for up to $500,000 for each year of the grant period.
+&emsp;&emsp;An institution of higher education that receives a grant under this subsection shall beeligible for up to $500,000 for each year of the grant period.
 
 #### (4) Use of funds
 
@@ -110,9 +110,15 @@ The Secretary shall establish, in accordance with this section, a program to exp
 
 &emsp;&emsp;(A) $3,500,000 for fiscal year 2008;
 
-&emsp;&emsp;(B) $6,500,000 for fiscal year 2009; and
+&emsp;&emsp;(B) $6,500,000 for fiscal year 2009;
 
-&emsp;&emsp;(C) $9,500,000 for fiscal year 2010.
+&emsp;&emsp;(C) $9,500,000 for fiscal year 2010;
+
+&emsp;&emsp;(D) $9,800,000 for fiscal year 2011;
+
+&emsp;&emsp;(E) $10,100,000 for fiscal year 2012; and
+
+&emsp;&emsp;(F) $10,400,000 for fiscal year 2013.
 
 #### (2) Nuclear science competitiveness grants for institutions of higher education
 
@@ -120,9 +126,21 @@ The Secretary shall establish, in accordance with this section, a program to exp
 
 &emsp;&emsp;(A) $3,000,000 for fiscal year 2008;
 
-&emsp;&emsp;(B) $5,500,000 for fiscal year 2009; and
+&emsp;&emsp;(B) $5,500,000 for fiscal year 2009;
 
-&emsp;&emsp;(C) $8,000,000 for fiscal year 2010.
+&emsp;&emsp;(C) $8,000,000 for fiscal year 2010;
 
-(Pub. L. 110–69, title V, §5004, Aug. 9, 2007, 121 Stat. 612.)
+&emsp;&emsp;(D) $8,240,000 for fiscal year 2011;
+
+&emsp;&emsp;(E) $8,500,000 for fiscal year 2012; and
+
+&emsp;&emsp;(F) $8,750,000 for fiscal year 2013.
+
+(Pub. L. 110–69, title V, §5004, Aug. 9, 2007, 121 Stat. 612; Pub. L. 111–358, title IX, §902(a), Jan. 4, 2011, 124 Stat. 4044.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (f)(1)(D) to (F). Pub. L. 111–358, §902(a)(1), added subpars. (D) to (F).
+
+Subsec. (f)(2)(D) to (F). Pub. L. 111–358, §902(a)(2), added subpars. (D) to (F).
 

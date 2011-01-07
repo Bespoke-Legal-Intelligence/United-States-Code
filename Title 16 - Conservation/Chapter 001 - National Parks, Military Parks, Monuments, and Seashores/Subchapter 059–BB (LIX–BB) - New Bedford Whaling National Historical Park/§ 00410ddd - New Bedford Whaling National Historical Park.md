@@ -50,7 +50,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(iii) The land along the eastern boundary of the New Bedford National Historic Landmark District over the east side of MacArthur Drive from the Route 6 overpass on the north to an extension of School Street on the south.
 
-&emsp;&emsp;(iv) The land north of Elm Street in New Bedford, bounded by Acushnet Avenue onthe west, Route 6 (ramps) on the north, MacArthur Drive on the east, and Elm Street on the south.
+&emsp;&emsp;(iv) The land north of Elm Street in New Bedford, bounded by Acushnet Avenue on the west, Route 6 (ramps) on the north, MacArthur Drive on the east, and Elm Street on the south.
 
 &emsp;(B) In addition to the sites, areas, and relics referred to in subparagraph (A), the Secretary may assist in the interpretation and preservation of each of the following:
 
@@ -126,9 +126,9 @@ Not later than the end of the second fiscal year beginning after November 12, 19
 
 #### Amendments
 
-2003—Subsec. (g)(2)(A). Pub. L. 108–7 substituted “$5,000,000” for “$2,000,000”.
+<b>2003</b>—Subsec. (g)(2)(A). Pub. L. 108–7 substituted “$5,000,000” for “$2,000,000”.
 
-2000—Pub. L. 106–176, §111(a)(1), substituted “Whaling National Historical Park” for “National Historic Landmark District” in section catchline.
+<b>2000</b>—Pub. L. 106–176, §111(a)(1), substituted “Whaling National Historical Park” for “National Historic Landmark District” in section catchline.
 
 Subsec. (c)(1). Pub. L. 106–176, §111(a)(2)(A), substituted “certain districts, structures, and relics” for “certain districts structures, and relics”.
 
@@ -147,4 +147,6 @@ Subsec. (g)(2)(C). Pub. L. 106–176, §111(a)(5)(B), substituted “cooperative
 #### Change of Name
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

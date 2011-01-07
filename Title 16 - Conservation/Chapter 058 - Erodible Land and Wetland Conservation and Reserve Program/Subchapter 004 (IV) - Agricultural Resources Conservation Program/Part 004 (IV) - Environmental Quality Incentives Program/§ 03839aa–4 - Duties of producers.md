@@ -34,7 +34,7 @@ A prior section 3839aa–4, Pub. L. 99–198, title XII, §1240D, as added Pub. 
 
 #### Amendments
 
-2008—Pub. L. 110–246, §2505(1), struck out “technical assistance, cost-share payments, or incentive” before “payments” in introductory provisions.
+<b>2008</b>—Pub. L. 110–246, §2505(1), struck out “technical assistance, cost-share payments, or incentive” before “payments” in introductory provisions.
 
 Par. (2). Pub. L. 110–246, §2505(2), substituted “farm, ranch, or forest land” for “farm or ranch”.
 

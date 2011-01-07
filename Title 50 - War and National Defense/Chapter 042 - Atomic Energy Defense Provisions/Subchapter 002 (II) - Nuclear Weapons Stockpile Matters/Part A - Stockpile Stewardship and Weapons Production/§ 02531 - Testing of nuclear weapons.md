@@ -6,7 +6,7 @@ Of the funds authorized to be appropriated under section 3101(a)(2) of the Natio
 
 #### (b) Atmospheric testing of nuclear weapons
 
-None of the funds appropriated pursuant to the National Defense Authorization Act for Fiscal Year 1994 or any other Act for any fiscal year may be available to maintain the capability ofthe United States to conduct atmospheric testing of a nuclear weapon.
+None of the funds appropriated pursuant to the National Defense Authorization Act for Fiscal Year 1994 or any other Act for any fiscal year may be available to maintain the capability of the United States to conduct atmospheric testing of a nuclear weapon.
 
 (Pub. L. 107–314, div. D, title XLII, §4211, formerly Pub. L. 103–160, div. C, title XXXI, §3137, Nov. 30, 1993, 107 Stat. 1946; renumbered Pub. L. 107–314, div. D, title XLII, §4211, and amended Pub. L. 108–136, div. C, title XXXI, §3141(e)(12), Nov. 24, 2003, 117 Stat. 1760.)
 
@@ -20,7 +20,7 @@ Section was formerly set out as a note under section 2121 of Title 42, The Publi
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–136, §3141(e)(12)(D)(i), inserted “of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160)” after “section 3101(a)(2)”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §3141(e)(12)(D)(i), inserted “of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160)” after “section 3101(a)(2)”.
 
 Subsec. (b). Pub. L. 108–136, §3141(e)(12)(D)(ii), substituted “the National Defense Authorization Act for Fiscal Year 1994” for “this Act”.
 

@@ -8,6 +8,7 @@ Subpart E—Rules for Computing Investment Credit
 | [48A.](%C2%A7%2000048A%20-%20Qualifying%20advanced%20coal%20project%20credit.md) | Qualifying advanced coal project credit. |
 | [48B.](%C2%A7%2000048B%20-%20Qualifying%20gasification%20project%20credit.md) | Qualifying gasification project credit. |
 | [48C.](%C2%A7%2000048C%20-%20Qualifying%20advanced%20energy%20project%20credit.md) | Qualifying advanced energy project credit. |
+| [48D.](%C2%A7%2000048D%20-%20Qualifying%20therapeutic%20discovery%20project%20credit.md) | Qualifying therapeutic discovery project credit. |
 | [49\.](%C2%A7%2000049%20-%20At-risk%20rules.md) | At-risk rules. |
 | [50\.](%C2%A7%2000050%20-%20Other%20special%20rules.md) | Other special rules. |
 | \[50A, 50B. | Repealed.\] |
@@ -16,29 +17,27 @@ Subpart E—Rules for Computing Investment Credit
 
 #### Amendments
 
-2009—Pub. L. 111–5, div. B, title I, §1302(c)(2), Feb. 17, 2009, 123 Stat. 348, added item 48C.
+<b>2010</b>—Pub. L. 111–148, title IX, §9023(d), Mar. 23, 2010, 124 Stat. 881, added item 48D.
 
-2005—Pub. L. 109–58, title XIII, §1307(c)(2), Aug. 8, 2005, 119 Stat. 1006, added items 48A and 48B.
+<b>2009</b>—Pub. L. 111–5, div. B, title I, §1302(c)(2), Feb. 17, 2009, 123 Stat. 348, added item 48C.
 
-2004—Pub. L. 108–357, title III, §322(d)(2)(C), Oct. 22, 2004, 118 Stat. 1475, which directed amendment of item 48 by striking out “, reforestation credit”, was executed by striking out “; reforestation credit” after “Energy credit” to reflect the probable intent of Congress.
+<b>2005</b>—Pub. L. 109–58, title XIII, §1307(c)(2), Aug. 8, 2005, 119 Stat. 1006, added items 48A and 48B.
 
-1990—Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–536, amended heading and analysis generally, substituting in heading “Investment Credit” for “Credit for Investment in Certain Depreciable Property”, in item 47 “Rehabilitation Credit” for “Certain dispositions, etc., of section 38 property”, in item 48 “Energy credit; reforestation credit” for “Definitions; special rules”, in item 49 “At-risk rules” for “Termination of regular percentage”, and adding item 50.
+<b>2004</b>—Pub. L. 108–357, title III, §322(d)(2)(C), Oct. 22, 2004, 118 Stat. 1475, which directed amendment of item 48 by striking out “, reforestation credit”, was executed by striking out “; reforestation credit” after “Energy credit” to reflect the probable intent of Congress.
 
-1986—Pub. L. 99–514, title II, §211(c), Oct. 22, 1986, 100 Stat. 2168, added item 49.
+<b>1990</b>—Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–536, amended heading and analysis generally, substituting in heading “Investment Credit” for “Credit for Investment in Certain Depreciable Property”, in item 47 “Rehabilitation Credit” for “Certain dispositions, etc., of section 38 property”, in item 48 “Energy credit; reforestation credit” for “Definitions; special rules”, in item 49 “At-risk rules” for “Termination of regular percentage”, and adding item 50.
 
-1984—Pub. L. 98–369, div. A, title IV, §474(n)(1), July 18, 1984, 98 Stat. 833, substituted “E” for “B” as subpart designation.
+<b>1986</b>—Pub. L. 99–514, title II, §211(c), Oct. 22, 1986, 100 Stat. 2168, added item 49.
 
-1978—Pub. L. 95–600, title III, §312(c)(5), Nov. 6, 1978, 92 Stat. 2826, struck out item 49 “Termination for period beginning April 19, 1969, and ending during 1971” and item 50 “Restoration of credit”.
+<b>1984</b>—Pub. L. 98–369, div. A, title IV, §474(n)(1), July 18, 1984, 98 Stat. 833, substituted “E” for “B” as subpart designation.
 
-1971—Pub. L. 92–178, title I, §101(b)(5), Dec. 10, 1971, 85 Stat. 499, substituted “Termination for period beginning April 19, 1969, and ending during 1971” for “Termination of credit” in item 49 and added item 50.
+<b>1978</b>—Pub. L. 95–600, title III, §312(c)(5), Nov. 6, 1978, 92 Stat. 2826, struck out item 49 “Termination for period beginning April 19, 1969, and ending during 1971” and item 50 “Restoration of credit”.
 
-1969—Pub. L. 91–172, title VII, §703(d), Dec. 30, 1969, 83 Stat. 667, added item 49.
+<b>1971</b>—Pub. L. 92–178, title I, §101(b)(5), Dec. 10, 1971, 85 Stat. 499, substituted “Termination for period beginning April 19, 1969, and ending during 1971” for “Termination of credit” in item 49 and added item 50.
 
-1962—Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 963, added subpart B.
+<b>1969</b>—Pub. L. 91–172, title VII, §703(d), Dec. 30, 1969, 83 Stat. 667, added item 49.
 
-<i><sup>1</sup></i><i> So in original. A comma probably should appear.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
+<b>1962</b>—Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 963, added subpart B.
 
 
 ---
@@ -51,6 +50,7 @@ Subpart E—Rules for Computing Investment Credit
 - [&sect; 00048A - Qualifying advanced coal project credit](%C2%A7%2000048A%20-%20Qualifying%20advanced%20coal%20project%20credit.md)
 - [&sect; 00048B - Qualifying gasification project credit](%C2%A7%2000048B%20-%20Qualifying%20gasification%20project%20credit.md)
 - [&sect; 00048C - Qualifying advanced energy project credit](%C2%A7%2000048C%20-%20Qualifying%20advanced%20energy%20project%20credit.md)
+- [&sect; 00048D - Qualifying therapeutic discovery project credit](%C2%A7%2000048D%20-%20Qualifying%20therapeutic%20discovery%20project%20credit.md)
 - [&sect; 00049 - At-risk rules](%C2%A7%2000049%20-%20At-risk%20rules.md)
 - [&sect; 00050 - Other special rules](%C2%A7%2000050%20-%20Other%20special%20rules.md)
 - [&sect; 00050A, 50B - Repealed. Pub. L. 98&#8211;369, div. A, title IV, &sect;474(m)(2), July 18, 1984, 98 Stat. 833](%C2%A7%2000050A%2C%2050B%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93369%2C%20div.%20A%2C%20title%20IV%2C%20%C2%A7474%28m%29%282%29%2C%20July%2018%2C%201984%2C%2098%20Stat.%20833.md)

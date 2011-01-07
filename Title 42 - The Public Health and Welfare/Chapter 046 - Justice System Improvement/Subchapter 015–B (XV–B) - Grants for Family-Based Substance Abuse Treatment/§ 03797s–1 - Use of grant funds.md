@@ -2,7 +2,7 @@
 
 Grants made to an entity under section 3797s of this title for a program described in such section may be used for—
 
-&emsp;(1) the development, implementation, and expansion of prison-based family treatment programs in correctional facilities for incarcerated parents with minor children (exceptfor any such parent who there is reasonable evidence to believe engaged in domestic violence or child abuse);
+&emsp;(1) the development, implementation, and expansion of prison-based family treatment programs in correctional facilities for incarcerated parents with minor children (except for any such parent who there is reasonable evidence to believe engaged in domestic violence or child abuse);
 
 &emsp;(2) the development, implementation, and expansion of residential substance abuse treatment;
 

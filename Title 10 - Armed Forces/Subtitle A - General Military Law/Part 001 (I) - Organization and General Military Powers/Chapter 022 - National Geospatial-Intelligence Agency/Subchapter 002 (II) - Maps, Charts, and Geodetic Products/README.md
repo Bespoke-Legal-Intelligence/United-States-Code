@@ -14,7 +14,7 @@
 
 #### Amendments
 
-1999—Pub. L. 106–65, div. A, title X, §§1010(b), 1045(b), Oct. 5, 1999, 113 Stat. 739, 763, substituted “Sale of maps, charts, and navigational publications: prices; use of proceeds” for “Prices of maps, charts, and navigational publications” in item 453 and added item 457.
+<b>1999</b>—Pub. L. 106–65, div. A, title X, §§1010(b), 1045(b), Oct. 5, 1999, 113 Stat. 739, 763, substituted “Sale of maps, charts, and navigational publications: prices; use of proceeds” for “Prices of maps, charts, and navigational publications” in item 453 and added item 457.
 
 
 ---

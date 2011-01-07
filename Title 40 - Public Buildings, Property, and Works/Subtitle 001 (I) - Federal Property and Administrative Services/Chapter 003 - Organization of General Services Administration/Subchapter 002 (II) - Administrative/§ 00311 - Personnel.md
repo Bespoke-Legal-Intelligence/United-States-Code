@@ -2,11 +2,11 @@
 
 (a)
 
-Appointment and Compensation.—The Administrator of General Services, subject to chapters 33 and 51 and subchapter III of chapter 53 of title 5, may appoint and fix the compensation of personnel necessary to carry out chapters 1, 3, and 5 of this title and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.).
+Appointment and Compensation.—The Administrator of General Services, subject to chapters 33 and 51 and subchapter III of chapter 53 of title 5, may appoint and fix the compensation of personnel necessary to carry out chapters 1, 3, and 5 of this title and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 (b)
 
-Temporary Employment.—The Administrator may procure the temporary or intermittent services of experts or consultants under section 3109 of title 5 to the extent the Administrator finds necessary to carry out chapters 1, 3, and 5 of this title and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.).
+Temporary Employment.—The Administrator may procure the temporary or intermittent services of experts or consultants under section 3109 of title 5 to the extent the Administrator finds necessary to carry out chapters 1, 3, and 5 of this title and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 (c)
 
@@ -16,7 +16,7 @@ Personnel From Other Agencies.—Notwithstanding section 973 of title 10 or any 
 
 Detail of Field Personnel to District of Columbia.—The Administrator, in the Administrator's discretion, may detail field personnel of the Administration to the District of Columbia for temporary duty for a period of not more than 30 days in any one case. Subsistence or similar expenses may not be allowed for an employee on temporary duty in the District of Columbia under this paragraph.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1072.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1072; Pub. L. 111–350, §5(<i>l</i>)(5), Jan. 4, 2011, 124 Stat. 3851.)
 
 Historical and Revision Notes
 
@@ -46,11 +46,11 @@ In subsection (a), the words “subject to chapters 33 and 51 and subchapter III
 
 In subsection (b), the words “under section 3109 of title 5” are substituted for “(not in excess of one year)” and “or organizations thereof, including stenographic reporting services, by contract or appointment, and in such cases such service shall be without regard to the civil-service and classification laws, and except in the case of stenographic reporting services by organizations, without regard to section 5 of title 41” for clarity and to eliminate unnecessary words.
 
-In subsection (c), the words “section 973 of title 10” are substituted for “section 1222 of the Revised Statutes (10 U. S. C. 576)” in section 208(c) of the Federal Property and Administrative Services Act of 1949 because of section 49(b) of the Act of August 10, 1956 (ch. 1041, 70A Stat. 640), the first section of which enacted Title 10, United States Code, and section 4(a)(5) and (6)of the Act of January 2, 1968 (Public Law 90–235, 81 Stat. 759). The words “personnel (including armed services personnel) from an executive agency other than the General Services Administration” are substituted for “officials, officers, and other personnel in other executive agencies, including personnel of the armed services” for clarity and to eliminate unnecessary words.
+In subsection (c), the words “section 973 of title 10” are substituted for “section 1222 of the Revised Statutes (10 U. S. C. 576)” in section 208(c) of the Federal Property and Administrative Services Act of 1949 because of section 49(b) of the Act of August 10, 1956 (ch. 1041, 70A Stat. 640), the first section of which enacted Title 10, United States Code, and section 4(a)(5) and (6) of the Act of January 2, 1968 (Public Law 90–235, 81 Stat. 759). The words “personnel (including armed services personnel) from an executive agency other than the General Services Administration” are substituted for “officials, officers, and other personnel in other executive agencies, including personnel of the armed services” for clarity and to eliminate unnecessary words.
 
 In subsection (d), the words “On and after June 23, 1913” are omitted as obsolete. The word “Administrator” is substituted for “Secretary of the Treasury” \[subsequently changed to “Federal Works Administrator” because of section 301 of Reorganization Plan No. I of 1939 (eff. July 1, 1939, 53 Stat. 1426)\], and the word “Administration” \[meaning the General Services Administration\] is substituted for “public-buildings service” and “Office of the Supervising Architect” \[subsequently changed to “Public Buildings Administration” because of section 1 of Executive Order No. 6166 (eff. June 10, 1933) and section 303 of Reorganization Plan No. I of 1939 (eff. July 1, 1939, 53 Stat. 1427)\], because of section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) \[303(b)\] of the revised title. The words “such as supervising superintendents, superintendents, junior superintendents, and inspectors of the several classes” are omitted as unnecessary.
 
-#### References in Text
+#### Amendments
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsecs. (a) and (b), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
+<b>2011</b>—Subsecs. (a), (b). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
 

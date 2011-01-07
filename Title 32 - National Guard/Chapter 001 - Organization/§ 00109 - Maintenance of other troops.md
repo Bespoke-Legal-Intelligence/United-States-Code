@@ -10,7 +10,7 @@
 
 (e) A person may not become a member of a defense force established under subsection (c) if he is a member of a reserve component of the armed forces.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 600; Pub. L. 85–861, §2(2), Sept. 2, 1958, 72 Stat. 1542; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, §1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 600; Pub. L. 85–861, §2(2), Sept. 2, 1958, 72 Stat. 1542; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, §1057(b)(3), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 111–383, div. A, title X, §1075(h)(4)(B), Jan. 7, 2011, 124 Stat. 4377.)
 
 Historical and Revision Notes<br>1956
 
@@ -80,11 +80,17 @@ In subsection (e), the words “defense force” are substituted for the words �
 
 #### Amendments
 
-2006—Subsecs. (a) to (c). Pub. L. 109–163, which directed substitution of “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, the Virgin Islands or the District of Columbia”, was executed by making the substitution for “State or Territory, Puerto Rico, the Virgin Islands, or the District of Columbia”, to reflect the probable intent of Congress.
+<b>2011</b>—Subsecs. (a) to (c). Pub. L. 111–383 amended directory language of Pub. L. 109–163, §1057(b)(3). See 2006 Amendment note below.
 
-1988—Subsecs. (a) to (c). Pub. L. 100–456 struck out “the Canal Zone,” after “Virgin Islands,”.
+<b>2006</b>—Subsecs. (a) to (c). Pub. L. 109–163, §1057(b)(3), as amended by Pub. L. 111–383, substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, the Virgin Islands, or the District of Columbia”.
 
-1958—Subsecs. (a), (b). Pub. L. 85–861, §2(2)(A), substituted “defense forces authorized by subsection (c)” for “State defense forces”.
+<b>1988</b>—Subsecs. (a) to (c). Pub. L. 100–456 struck out “the Canal Zone,” after “Virgin Islands,”.
+
+<b>1958</b>—Subsecs. (a), (b). Pub. L. 85–861, §2(2)(A), substituted “defense forces authorized by subsection (c)” for “State defense forces”.
 
 Subsecs. (c) to (e). Pub. L. 85–861, §2(2)(B), added subsecs. (c) to (e).
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–383, div. A, title X, §1075(h), Jan. 7, 2011, 124 Stat. 4377, provided that the amendment made by section 1075(h)(4)(B) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
 

@@ -12,17 +12,17 @@ There is a Medical Service Corps in the Army. The Medical Service Corps consists
 
 &emsp;(5) the following sections—
 
-&emsp;&emsp;(A) the Pharmacy, Supply, and Administration Section;
+&emsp;&emsp;(A) the Administrative Health Services Section;
 
 &emsp;&emsp;(B) the Medical Allied Sciences Section;
 
-&emsp;&emsp;(C) the Sanitary Engineering Section;
+&emsp;&emsp;(C) the Preventive Medicine Sciences Section;
 
-&emsp;&emsp;(D) the Optometry Section; and
+&emsp;&emsp;(D) the Clinical Health Sciences Section; and
 
 &emsp;&emsp;(E) other sections considered necessary by the Secretary of the Army.
 
-(Added Pub. L. 89–603, §1(1), Sept. 24, 1966, 80 Stat. 846; amended Pub. L. 97–295, §1(37), Oct. 12, 1982, 96 Stat. 1296.)
+(Added Pub. L. 89–603, §1(1), Sept. 24, 1966, 80 Stat. 846; amended Pub. L. 97–295, §1(37), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 111–383, div. A, title V, §594, Jan. 7, 2011, 124 Stat. 4234.)
 
 Historical and Revision Notes
 
@@ -52,7 +52,7 @@ Aug. 4, 1947, ch. 459, §§101 (less 2d sentence), 102(a), (b), 61 Stat. 734, 73
 
 In subsection (a), 10:156a (1st 20 words) is omitted as superseded by section 3067 of this title, which establishes the Medical Service Corps in the Army Medical Service. 10:156a (last 16 words of 1st sentence) is omitted as superseded by section 3012(e) of this title, which authorizes the Secretary of the Army to prescribe the duties of members of the Army. 10:81–1 (last sentence, less 5th through 14th words) is omitted as surplusage.
 
-In subsection (b), the words “of the Regular Army in that corps whose regular grade is above captain” are substituted for the words “commissioned in the Medical Service Corps, Regular Army, in the permanent grade of major or above”. The words “If he holds a lower regular grade” are substituted for the words “if commissioned in permanent grade below colonel”. The words “is entitled” are substituted for the words “shall have”. The words “ranks above” are substituted for the words “shall be superior in rank”.
+In subsection (b), the words “of the Regular Army in that corps whose regular grade is above captain” are substituted for the words “commissioned in the Medical Service Corps, Regular Army, in the permanent grade of major or above”. The words “If he holds a lower regular grade” are substituted for the words “if commissioned in permanent grade below colonel”. The words “is entitled” are substituted for the words “shall \* \* \* have”. The words “ranks above” are substituted for the words “shall be superior in rank”.
 
 In subsection (c), the words “is the Surgeon General's consultant” are substituted for the words “who shall be consultants to him”.
 
@@ -62,5 +62,11 @@ A prior section 3068, acts Aug. 10, 1956, ch. 1041, 70A Stat. 168; Sept. 7, 1962
 
 #### Amendments
 
-1982—Par. (5). Pub. L. 97–295 redesignated cls. (a), (b), (c), (d), and (e) as subpars. (A), (B), (C), (D), and (E), respectively.
+<b>2011</b>—Par. (5)(A). Pub. L. 111–383, §594(1), substituted “Administrative Health Services” for “Pharmacy, Supply, and Administration”.
+
+Par. (5)(C). Pub. L. 111–383, §594(2), substituted “Preventive Medicine Sciences” for “Sanitary Engineering”.
+
+Par. (5)(D). Pub. L. 111–383, §594(3), substituted “Clinical Health Sciences” for “Optometry”.
+
+<b>1982</b>—Par. (5). Pub. L. 97–295 redesignated cls. (a), (b), (c), (d), and (e) as subpars. (A), (B), (C), (D), and (E), respectively.
 

@@ -104,7 +104,7 @@ In subsection (f), the words “imposed or compromised” are substituted for �
 
 #### Amendments
 
-2005—Subsec. (a)(1). Pub. L. 109–59, §7120(a)(1), in introductory provisions substituted “regulation, order, special permit, or approval issued” for “regulation prescribed or order issued” and “$50,000” for “$25,000”.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §7120(a)(1), in introductory provisions substituted “regulation, order, special permit, or approval issued” for “regulation prescribed or order issued” and “$50,000” for “$25,000”.
 
 Subsec. (a)(2) to (4). Pub. L. 109–59, §7120(a)(2), (3), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
@@ -124,5 +124,5 @@ Hearing requirement.—The amendment made by subsection (b) \[amending this sect
 
 “(2)
 
-Civil actions to collect.—The amendment made by subsection (c) \[amending this section\] shall apply with respect to civil penalties imposed on violations described in section 5123(a) of title 49, United States Code (as amended by this section), that occur onor after the date of enactment of this Act \[Aug. 10, 2005\].”
+Civil actions to collect.—The amendment made by subsection (c) \[amending this section\] shall apply with respect to civil penalties imposed on violations described in section 5123(a) of title 49, United States Code (as amended by this section), that occur on or after the date of enactment of this Act \[Aug. 10, 2005\].”
 

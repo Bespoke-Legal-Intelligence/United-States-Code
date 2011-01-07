@@ -30,5 +30,5 @@ A prior section 1397D was renumbered section 1397F of this title.
 
 #### Amendments
 
-2000—Pub. L. 106–554 renumbered section 1397C of this title as this section.
+<b>2000</b>—Pub. L. 106–554 renumbered section 1397C of this title as this section.
 

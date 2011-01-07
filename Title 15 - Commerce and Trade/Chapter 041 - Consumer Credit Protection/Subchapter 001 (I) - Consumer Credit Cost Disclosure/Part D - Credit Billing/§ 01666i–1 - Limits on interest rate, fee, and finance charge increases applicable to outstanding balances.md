@@ -56,5 +56,5 @@ A prior section 171 of Pub. L. 90–321 was renumbered section 173 and is classi
 
 #### Effective Date
 
-Section effective 9 months after May 22, 2009, except as otherwise specifically provided, see section 3 of Pub. L. 111–24, set out as an Effective Date of 2009 Amendment note under section 1602 of this title.
+Section effective 9 months after May 22, 2009, except as otherwise specifically provided, see section 3 of Pub.L. 111–24, set out as an Effective Date of 2009 Amendment note under section 1602 of this title.
 

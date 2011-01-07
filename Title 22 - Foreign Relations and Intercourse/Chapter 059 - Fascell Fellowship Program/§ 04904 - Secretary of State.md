@@ -2,7 +2,7 @@
 
 #### (a) Determinations
 
-The Secretary of State shall determine which of the individuals selected by the Board willserve at each United States diplomatic or consular mission abroad and the position in which each will serve.
+The Secretary of State shall determine which of the individuals selected by the Board will serve at each United States diplomatic or consular mission abroad and the position in which each will serve.
 
 #### (b) Authorities
 
@@ -22,7 +22,7 @@ Funds appropriated to the Department of State for “Salaries and Expenses” sh
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–454 substituted “abroad” for “in the Soviet Union or Eastern Europe”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–454 substituted “abroad” for “in the Soviet Union or Eastern Europe”.
 
-1987—Subsec. (b). Pub. L. 100–204 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Such service shall be in accordance with the relevant authorities of the Foreign Service Act of 1980, the State Department Basic Authorities Act of 1956, and title 5.”
+<b>1987</b>—Subsec. (b). Pub. L. 100–204 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Such service shall be in accordance with the relevant authorities of the Foreign Service Act of 1980, the State Department Basic Authorities Act of 1956, and title 5.”
 

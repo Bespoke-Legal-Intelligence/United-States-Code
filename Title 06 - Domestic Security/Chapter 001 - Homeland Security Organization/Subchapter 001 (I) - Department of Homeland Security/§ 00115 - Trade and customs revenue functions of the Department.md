@@ -6,7 +6,7 @@
 
 &emsp;The Secretary shall designate an appropriate senior official in the office of the Secretary who shall—
 
-&emsp;&emsp;(A) ensure that the trade and customs revenue functions of the Department are coordinated within the Department and with other Federal departments and agencies, and that the impact on legitimate trade is takeninto account in any action impacting the functions; and
+&emsp;&emsp;(A) ensure that the trade and customs revenue functions of the Department are coordinated within the Department and with other Federal departments and agencies, and that the impact on legitimate trade is taken into account in any action impacting the functions; and
 
 &emsp;&emsp;(B) monitor and report to Congress on the Department's mandate to ensure that the trade and customs revenue functions of the Department are not diminished, including how spending, operations, and personnel related to these functions have kept pace with the level of trade entering the United States.
 
@@ -58,7 +58,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Secretary shall notify the appropriate congressional committees not later than 30 days prior to the finalization of any Department policies, initiatives, or actions that will have a major impact on trade and customs revenue functions. Such notifications shall include a description of the proposed policies, initiatives, or actions and any comments or recommendations provided by the Commercial Operations Advisory Committee and other relevant groups regarding the proposed policies, initiatives, or actions.
+&emsp;&emsp;Subject to subparagraph (B), the Secretary shall notify the appropriate congressionalcommittees not later than 30 days prior to the finalization of any Department policies, initiatives, or actions that will have a major impact on trade and customs revenue functions. Such notifications shall include a description of the proposed policies, initiatives, or actions and any comments or recommendations provided by the Commercial Operations Advisory Committee and other relevant groups regarding the proposed policies, initiatives, or actions.
 
 #### (B) Exception
 

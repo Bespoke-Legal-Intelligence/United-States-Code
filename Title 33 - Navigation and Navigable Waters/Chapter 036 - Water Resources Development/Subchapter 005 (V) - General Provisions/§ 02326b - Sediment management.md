@@ -64,9 +64,9 @@ Section was enacted as part of the Water Resources Development Act of 1996, and 
 
 #### Amendments
 
-2007—Subsec. (g)(2). Pub. L. 110–114 substituted “through 2012” for “through 2006”.
+<b>2007</b>—Subsec. (g)(2). Pub. L. 110–114 substituted “through 2012” for “through 2006”.
 
-2000—Subsec. (e)(3). Pub. L. 106–541, §505(1), added par. (3).
+<b>2000</b>—Subsec. (e)(3). Pub. L. 106–541, §505(1), added par. (3).
 
 Subsec. (g). Pub. L. 106–541, §505(2), designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
 

@@ -100,9 +100,9 @@ A prior section 2114 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-1993—Subsec. (e). Pub. L. 103–66 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Secretary may recommend to Congress revisions of the table to change the vaccines covered by the table.”
+<b>1993</b>—Subsec. (e). Pub. L. 103–66 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Secretary may recommend to Congress revisions of the table to change the vaccines covered by the table.”
 
-1989—Subsec. (a). Pub. L. 101–239, §6601(k)(1), substituted “(b)(2)” for “(c)(2)” in items I.D. and II.C. in table.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §6601(k)(1), substituted “(b)(2)” for “(c)(2)” in items I.D. and II.C. in table.
 
 Subsec. (b)(3)(B). Pub. L. 101–239, §6601(k)(2), substituted “300aa–11 of this title” for “300aa–11(b) of this title”.
 

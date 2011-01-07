@@ -20,7 +20,7 @@ Any annuity treated as a charitable gift annuity, or any trust treated as a char
 
 #### (d) Limitation
 
-Subsections (a) and (b) of this section shall not apply with respect to the enforcement of a State law similar to any of the antitrust laws, with respect to charitable gift annuities, or charitable remainder trusts, created after theState enacts a statute, not later than December 8, 1998, that expressly provides that subsections (a) and (b) of this section shall not apply with respect to such charitable gift annuities and such charitable remainder trusts.
+Subsections (a) and (b) of this section shall not apply with respect to the enforcement of a State law similar to any of the antitrust laws, with respect to charitable gift annuities, or charitable remainder trusts, created after the State enacts a statute, not later than December 8, 1998, that expressly provides that subsections (a) and (b) of this section shall not apply with respect to such charitable gift annuities and such charitable remainder trusts.
 
 (Pub. L. 104–63, §2, Dec. 8, 1995, 109 Stat. 687; Pub. L. 105–26, §2(1), July 3, 1997, 111 Stat. 241.)
 
@@ -30,7 +30,7 @@ For definition of “antitrust laws”, referred to in text, see section 37a(1) 
 
 #### Amendments
 
-1997—Pub. L. 105–26 amended section generally. Prior to amendment, section related to modification of antitrust laws to allow two or more charitable organizations to use, or to agree to use, the same annuity rate in issuing one or more charitable gift annuities and to limitations on such conduct.
+<b>1997</b>—Pub. L. 105–26 amended section generally. Prior to amendment, section related to modification of antitrust laws to allow two or more charitable organizations to use, or to agree to use, the same annuity rate in issuing one or more charitable gift annuities and to limitations on such conduct.
 
 #### Effective Date of 1997 Amendment
 

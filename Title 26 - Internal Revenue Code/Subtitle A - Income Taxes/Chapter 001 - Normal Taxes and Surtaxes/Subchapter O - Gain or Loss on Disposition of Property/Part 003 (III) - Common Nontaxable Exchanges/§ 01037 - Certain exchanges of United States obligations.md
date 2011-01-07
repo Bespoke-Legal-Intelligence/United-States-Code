@@ -28,15 +28,15 @@ When so provided by regulations promulgated by the Secretary in connection with 
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–369, §42(a)(11)(C), substituted “original issue discount rules” for “section 1232” in heading.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369, §42(a)(11)(C), substituted “original issue discount rules” for “section 1232” in heading.
 
 Subsec. (b)(1). Pub. L. 98–369, §42(a)(11)(A), (B), substituted “section 1271(c)(2)” for “section 1232(a)(2)(B)”, and “subpart A of part V of subchapter P” for “section 1232”.
 
 Subsec. (b)(2). Pub. L. 98–369, §42(a)(11)(B), substituted “subpart A of part V of subchapter P” for “section 1232”.
 
-1983—Subsec. (a). Pub. L. 97–452 substituted “chapter 31 of title 31” and “chapter” for “the Second Liberty Bond Act” and “Act”, respectively.
+<b>1983</b>—Subsec. (a). Pub. L. 97–452 substituted “chapter 31 of title 31” and “chapter” for “the Second Liberty Bond Act” and “Act”, respectively.
 
-1976—Subsec. (b)(1). Pub. L. 94–455 substituted in introductory provisions “section 1232(a)(2)(B)” for “section 1232(a)(2)(A)” and in subpar. (A) “ordinary income” for “gain from the sale or exchange of property which is not a capital asset”.
+<b>1976</b>—Subsec. (b)(1). Pub. L. 94–455 substituted in introductory provisions “section 1232(a)(2)(B)” for “section 1232(a)(2)(A)” and in subpar. (A) “ordinary income” for “gain from the sale or exchange of property which is not a capital asset”.
 
 #### Effective Date of 1984 Amendment
 

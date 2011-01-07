@@ -18,7 +18,7 @@
 
 #### (2) Functions
 
-&emsp;The functions referred to in paragraph (1) are those functions performed by the followingpersonnel, and associated support staff, of the United States Customs Service on the day before the effective date of this chapter: Import Specialists, Entry Specialists, Drawback Specialists, National Import Specialist, Fines and Penalties Specialists, attorneys of the Office of Regulations and Rulings, Customs Auditors, International Trade Specialists, Financial Systems Specialists.
+&emsp;The functions referred to in paragraph (1) are those functions performed by the following personnel, and associated support staff, of the United States Customs Service on the day before the effective date of this chapter: Import Specialists, Entry Specialists, Drawback Specialists, National Import Specialist, Fines and Penalties Specialists, attorneys of the Office of Regulations and Rulings, Customs Auditors, International Trade Specialists, Financial Systems Specialists.
 
 #### (c) New personnel
 

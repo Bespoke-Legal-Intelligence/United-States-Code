@@ -32,7 +32,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 &emsp;&emsp;(D) a statement that the consumer should ask about the current index value and interest rate;
 
-&emsp;&emsp;(E) a statement of the maximum amount by which the annual percentage rate maychange in any 1-year period or a statement that no such limit exists;
+&emsp;&emsp;(E) a statement of the maximum amount by which the annual percentage rate may change in any 1-year period or a statement that no such limit exists;
 
 &emsp;&emsp;(F) a statement of the maximum annual percentage rate that may be imposed at any time under the plan;
 
@@ -116,11 +116,11 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 #### (9) Example of minimum payments and maximum repayment period
 
-&emsp;An example, based on a $10,000 outstanding balance and the interest rate (other than a rate not based on the index under the plan) which is, or was recently, in effect under such plan, showing the minimum monthly or periodic payment, and the time it would take to repay the entire $10,000 if the consumer paid only the minimum periodic payments and obtained no additional extensions of credit.
+&emsp;An example, based on a $10,000 outstanding balance and the interest rate (other than arate not based on the index under the plan) which is, or was recently, in effect under such plan, showing the minimum monthly or periodic payment, and the time it would take to repay the entire $10,000 if the consumer paid only the minimum periodic payments and obtained no additional extensions of credit.
 
 #### (10) Statement concerning balloon payments
 
-&emsp;If, under any repayment option of the plan, the payment of not more than the minimumperiodic payments required under such option over the length of the repayment period—
+&emsp;If, under any repayment option of the plan, the payment of not more than the minimum periodic payments required under such option over the length of the repayment period—
 
 &emsp;&emsp;(A) would not repay any of the principal balance; or
 
@@ -206,7 +206,7 @@ In the case of an application to open an account under any open end consumer cre
 
 &emsp;(1) such person shall provide such consumer with—
 
-&emsp;&emsp;(A) the disclosures required under subsection (a) of this section with respect tosuch plan, in accordance with subsection (b) of this section; and
+&emsp;&emsp;(A) the disclosures required under subsection (a) of this section with respect to such plan, in accordance with subsection (b) of this section; and
 
 &emsp;&emsp;(B) the pamphlet required under subsection (e) of this section; or
 
@@ -224,7 +224,11 @@ In addition to the disclosures required under subsection (a) of this section wit
 
 &emsp;(2) any pamphlet which provides substantially similar information to the information described in such section, as determined by the Board.
 
-(Pub. L. 90–321, title I, §127A, as added Pub. L. 100–709, §2(a), Nov. 23, 1988, 102 Stat. 4725; amended Pub. L. 109–8, title XIII, §1302(a)(1), Apr. 20, 2005, 119 Stat. 208.)
+(Pub. L. 90–321, title I, §127A, as added Pub. L. 100–709, §2(a), Nov. 23, 1988, 102 Stat. 4725; amended Pub. L. 109–8, title XIII, §1302(a)(1), Apr. 20, 2005, 119 Stat. 208; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -232,7 +236,11 @@ Section 4 of the Home Equity Consumer Protection Act of 1988, referred to in sub
 
 #### Amendments
 
-2005—Subsec. (a)(13). Pub. L. 109–8 substituted “tax deductibility” for “consultation of tax advisor” in heading, designated existing provisions as introductory provisions and subpar. (A), inserted dash, substituted “; and” for period at end of subpar. (A), and added subpar. (B).
+<b>2005</b>—Subsec. (a)(13). Pub. L. 109–8 substituted “tax deductibility” for “consultation of tax advisor” in heading, designated existing provisions as introductory provisions and subpar. (A), inserted dash, substituted “; and” for period at end of subpar. (A), and added subpar. (B).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2005 Amendment
 

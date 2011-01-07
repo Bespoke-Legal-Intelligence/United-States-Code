@@ -10,7 +10,11 @@ National Security Missions.—(1) The National Geospatial-Intelligence Agency sh
 
 &emsp;(C) Geospatial information.
 
-(2) Geospatial intelligence provided in carrying out paragraph (1) shall be timely, relevant, and accurate.
+(2)(A) As directed by the Director of National Intelligence, the National Geospatial-Intelligence Agency shall develop a system to facilitate the analysis, dissemination, and incorporation of likenesses, videos, and presentations produced by ground-based platforms, including handheld or clandestine photography taken by or on behalf of human intelligence collection organizations or available as open-source information, into the National System for Geospatial Intelligence.
+
+(B) The authority provided by this paragraph does not include authority for the National Geospatial-Intelligence Agency to manage tasking of handheld or clandestine photography taken by or on behalf of human intelligence collection organizations.
+
+(3) Geospatial intelligence provided in carrying out paragraphs (1) and (2) shall be timely, relevant, and accurate.
 
 (b)
 
@@ -32,11 +36,15 @@ Systems.—The National Geospatial-Intelligence Agency may, in furtherance of a 
 
 &emsp;(2) any other department or agency of the United States.
 
-(Added Pub. L. 104–201, div. A, title XI, §1112(a)(2), Sept. 23, 1996, 110 Stat. 2678; amended Pub. L. 108–136, div. A, title IX, §921(c)(1), (d)(2)(A), (f), Nov. 24, 2003, 117 Stat. 1568, 1570.)
+(Added Pub. L. 104–201, div. A, title XI, §1112(a)(2), Sept. 23, 1996, 110 Stat. 2678; amended Pub. L. 108–136, div. A, title IX, §921(c)(1), (d)(2)(A), (f), Nov. 24, 2003, 117 Stat. 1568, 1570; Pub. L. 111–259, title IV, §432, Oct. 7, 2010, 124 Stat. 2732.)
 
 #### Amendments
 
-2003—Subsec. (a)(1). Pub. L. 108–136, §921(c)(1)(A), (d)(2)(A), in introductory provisions, substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” and inserted “geospatial intelligence consisting of” after “provide”.
+<b>2010</b>—Subsec. (a)(2). Pub. L. 111–259, §432(2), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (a)(3). Pub. L. 111–259, §432(1), (3), redesignated par. (2) as (3) and substituted “paragraphs (1) and (2)” for “paragraph (1)”.
+
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136, §921(c)(1)(A), (d)(2)(A), in introductory provisions, substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” and inserted “geospatial intelligence consisting of” after “provide”.
 
 Subsec. (a)(2). Pub. L. 108–136, §921(c)(1)(B), substituted “Geospatial intelligence” for “Imagery, intelligence, and information”.
 

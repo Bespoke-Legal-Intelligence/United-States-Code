@@ -16,5 +16,5 @@
 
 #### Amendments
 
-2007—Subsec. (c). Pub. L. 110–134 added subsec. (c).
+<b>2007</b>—Subsec. (c). Pub. L. 110–134 added subsec. (c).
 

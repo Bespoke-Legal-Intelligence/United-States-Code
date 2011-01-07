@@ -42,5 +42,5 @@ In subsection (b), the word “may” is substituted for “shall have the power
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–207 substituted “the parents, spouse, siblings, and lineal descendants” for “parents and lineal descendants”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–207 substituted “the parents, spouse, siblings, and lineal descendants” for “parents and lineal descendants”.
 

@@ -26,5 +26,19 @@ Each lessor shall give a lessee prior to the consummation of the lease a dated w
 
 > The disclosures required under this section may be made in the lease contract to be signed by the lessee. The Board may provide by regulation that any portion of the information required to be disclosed under this section may be given in the form of estimates where the lessor is not in a position to know exact information.
 
-(Pub. L. 90–321, title I, §182, as added Pub. L. 94–240, §3, Mar. 23, 1976, 90 Stat. 258.)
+(Pub. L. 90–321, title I, §182, as added Pub. L. 94–240, §3, Mar. 23, 1976, 90 Stat. 258; amended Pub. L. 111–203, title X, §1100A(2), (10)(B), July 21, 2010, 124 Stat. 2107, 2109.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1100A(2), (10)(B), 1100H, July 21, 2010, 124 Stat. 2107, 2109, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
+
+<i>(1) by striking “Board” each place that term appears and inserting “Bureau”; and</i>
+
+<i>(2) by striking “The Board” each place that term appears and inserting “The Bureau”.</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 

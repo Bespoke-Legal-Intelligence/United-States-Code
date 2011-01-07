@@ -4,7 +4,7 @@
 
 If the Administrator finds that there is a reasonable basis to conclude that the manufacture, processing, distribution in commerce, use, or disposal of a chemical substance or mixture, or that any combination of such activities, presents or will present an unreasonable risk of injury to health or the environment, the Administrator shall by rule apply one or more of the following requirements to such substance or mixture to the extent necessary to protect adequately against such risk using the least burdensome requirements:
 
-&emsp;(1) A requirement (A) prohibiting the manufacturing, processing, or distribution in commerce of such substance or mixture, or (B)limiting the amount of such substance or mixture which may be manufactured, processed, or distributed in commerce.
+&emsp;(1) A requirement (A) prohibiting the manufacturing, processing, or distribution in commerce of such substance or mixture, or (B) limiting the amount of such substance or mixture which may be manufactured, processed, or distributed in commerce.
 
 &emsp;(2) A requirement—
 
@@ -52,7 +52,7 @@ If the Administrator has a reasonable basis to conclude that a particular manufa
 
 &emsp;(D) the reasonably ascertainable economic consequences of the rule, after consideration of the effect on the national economy, small business, technological innovation, the environment, and public health.
 
-> If the Administrator determines that a risk of injury to health or the environment could beeliminated or reduced to a sufficient extent by actions taken under another Federal law (or laws) administered in whole or in part by the Administrator, the Administrator may not promulgate a rule under subsection (a) of this section to protect against such risk of injury unless the Administrator finds, in the Administrator's discretion, that it is in the public interest to protect against such risk under this chapter. In making such a finding the Administrator shall consider (i) all relevant aspects of the risk, as determined by the Administrator in the Administrator's discretion, (ii) a comparison of the estimated costs of complying with actions taken under this chapter and under such law (or laws), and (iii) the relative efficiency of actions under this chapter and under such law (or laws) to protect against such risk of injury.
+> If the Administrator determines that a risk of injury to health or the environment could be eliminated or reduced to a sufficient extent by actions taken under another Federal law (or laws) administered in whole or in part by the Administrator, the Administrator may not promulgate a rule under subsection (a) of this section to protect against such risk of injury unless the Administrator finds, in the Administrator's discretion, that it is in the public interest to protect against such risk under this chapter. In making such a finding the Administrator shall consider (i) all relevant aspects of the risk, as determined by the Administrator in the Administrator's discretion, (ii) a comparison of the estimated costs of complying with actions taken under this chapter and under such law (or laws), and (iii) the relative efficiency of actions under this chapter and under such law (or laws) to protect against such risk of injury.
 
 (2) When prescribing a rule under subsection (a) the Administrator shall proceed in accordance with section 553 of title 5 (without regard to any reference in such section to sections 556 and 557 of such title), and shall also (A) publish a notice of proposed rulemaking stating with particularity the reason for the proposed rule; (B) allow interested persons to submit written data, views, and arguments, and make all such submissions publicly available; (C) provide an opportunity for an informal hearing in accordance with paragraph (3); (D) promulgate, if appropriate, a final rule based on the matter in the rulemaking record (as defined in section 2618(a) of this title), and (E) make and publish with the rule the finding described in subsection (a) of this section.
 
@@ -176,9 +176,9 @@ If the Administrator has a reasonable basis to conclude that a particular manufa
 
 #### Amendments
 
-2008—Subsec. (f). Pub. L. 110–414 added subsec. (f).
+<b>2008</b>—Subsec. (f). Pub. L. 110–414 added subsec. (f).
 
-2006—Subsec. (e)(3)(A). Pub. L. 109–364, §317(a)(1), (b), temporarily substituted “subparagraphs (B), (C), and (D)” for “subparagraphs (B) and (C)” in introductory provisions. See Termination Date of 2006 Amendment note below.
+<b>2006</b>—Subsec. (e)(3)(A). Pub. L. 109–364, §317(a)(1), (b), temporarily substituted “subparagraphs (B), (C), and (D)” for “subparagraphs (B) and (C)” in introductory provisions. See Termination Date of 2006 Amendment note below.
 
 Subsec. (e)(3)(B). Pub. L. 109–364, §317(a)(2), (b), temporarily substituted “but not more than 1 year from the date it is granted, except as provided in subparagraph (D)” for “but not more than one year from the date it is granted” in concluding provisions. See Termination Date of 2006 Amendment note below.
 

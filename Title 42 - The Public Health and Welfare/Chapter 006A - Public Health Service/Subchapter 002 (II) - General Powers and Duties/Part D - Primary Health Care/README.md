@@ -14,3 +14,5 @@ Part D—Primary Health Care
 - [Subpart 008 (viii) - Bulk Purchases of Vaccines for Certain Programs](Subpart%20008%20%28viii%29%20-%20Bulk%20Purchases%20of%20Vaccines%20for%20Certain%20Programs/README.md)
 - [Subpart 009 (ix) - Support of Graduate Medical Education Programs in Children's Hospitals](Subpart%20009%20%28ix%29%20-%20Support%20of%20Graduate%20Medical%20Education%20Programs%20in%20Children%27s%20Hospitals/README.md)
 - [Subpart 010 (x) - Primary Dental Programs](Subpart%20010%20%28x%29%20-%20Primary%20Dental%20Programs/README.md)
+- [Subpart 011 (xi) - Support of Graduate Medical Education in Qualified Teaching Health Centers](Subpart%20011%20%28xi%29%20-%20Support%20of%20Graduate%20Medical%20Education%20in%20Qualified%20Teaching%20Health%20Centers/README.md)
+- [Subpart 012 (xii) - Community-Based Collaborative Care Network Program](Subpart%20012%20%28xii%29%20-%20Community-Based%20Collaborative%20Care%20Network%20Program/README.md)

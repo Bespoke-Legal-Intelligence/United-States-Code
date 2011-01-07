@@ -10,11 +10,11 @@ Each officer of the Regular Corps on active duty shall, on the basis of his trai
 
 #### (c) Maximum number of officers in each category
 
-Within the limits fixed by the Secretary in regulations under section 207(d) of this title forany fiscal year, the Surgeon General shall determine for each category in the Regular Corps the maximum number of officers authorized to be in each of the grades from the warrant officer (W–1) grade to the director grade, inclusive.
+Within the limits fixed by the Secretary in regulations under section 207(d) of this title for any fiscal year, the Surgeon General shall determine for each category in the Regular Corps the maximum number of officers authorized to be in each of the grades from the warrant officer (W–1) grade to the director grade, inclusive.
 
 #### (d) Vacancies in grade for purposes of promotion
 
-The excess of the number so fixed for any grade in any category over the number of officers of the Regular Corps on active duty in such grade in such category (including in the case of the director grade, officers holding such grade in accordance with section 207(c) of this title) shall for the purpose of promotions constitute vacancies in such grade in such category. For purposes of this subsection, an officer who has been temporarily promoted or who is temporarily holding the grade of director in accordance with section 207(c) of this title shall be deemed to hold the grade to which so promoted or which he is temporarily holding; but while he holds such promotion or grade, and while any officer is temporarily assigned to a position pursuant to section 206(c) of this title, the number fixed under subsection (c) of this section for the grade of his permanent rank shall be reduced by one.
+The excess of the number so fixed for any grade in any category over the number of officers of the Regular Corps on active duty in such grade in such category (including in the case of the director grade, officers holding such grade in accordance with section 207(c) of this title) shall for the purpose of promotions constitute vacancies in such grade in such category. For purposes of this subsection, an officer who has been temporarily promoted or who is temporarily holding the grade of director in accordance with section 207(c) of this title shall be deemed to hold the grade to which so promoted or which he is temporarily holding; but while he holds such promotion or grade, and while any officer istemporarily assigned to a position pursuant to section 206(c) of this title, the number fixed under subsection (c) of this section for the grade of his permanent rank shall be reduced by one.
 
 #### (e) Absence of vacancy in grade as affecting promotion
 
@@ -32,7 +32,7 @@ A prior section 209 of act July 1, 1944, was renumbered section 208 and is class
 
 #### Amendments
 
-1979—Subsec. (c). Pub. L. 96–76 substituted “warrant officer (W–1)” for “assistant”.
+<b>1979</b>—Subsec. (c). Pub. L. 96–76 substituted “warrant officer (W–1)” for “assistant”.
 
 #### Effective Date of 1979 Amendment
 

@@ -28,7 +28,7 @@ An action under this section may not be brought after the later of—
 
 &emsp;(1) 6 years after the date on which the cause of action arose, or
 
-&emsp;(2) 3 years after the earliest date on which the plaintiff acquired or should have acquired actual knowledge of the existence of suchcause of action; except that in the case of fraud or concealment, such action may be brought not later than 6 years after the date of discovery of the existence of such cause of action.
+&emsp;(2) 3 years after the earliest date on which the plaintiff acquired or should have acquired actual knowledge of the existence of such cause of action; except that in the case of fraud or concealment, such action may be brought not later than 6 years after the date of discovery of the existence of such cause of action.
 
 #### (g) Service of complaint on corporation; intervention by corporation
 

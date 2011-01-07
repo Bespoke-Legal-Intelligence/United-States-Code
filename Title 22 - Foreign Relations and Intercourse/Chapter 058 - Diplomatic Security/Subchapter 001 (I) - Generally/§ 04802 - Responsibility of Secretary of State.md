@@ -82,7 +82,7 @@ The Secretary of State shall—
 
 &emsp;(1) have full responsibility for the coordination of all United States Government personnel assigned to diplomatic or consular posts or other United States missions abroad pursuant to United States Government authorization (except for facilities, installations, or personnel under the command of a United States area military commander) <sup>2</sup>
 
-&emsp;(2) establish appropriate overseas staffing levels for all such posts or missions for all Federal agencies with activities abroad (except for personnel and activities under the command of a United States area military commander or regional inspector general offices under the jurisdiction of the inspector <sup>3</sup> General, Agency for International Development).
+&emsp;(2) establish appropriate overseas staffing levels for all such posts or missions for allFederal agencies with activities abroad (except for personnel and activities under the command of a United States area military commander or regional inspector general offices under the jurisdiction of the inspector <sup>3</sup> General, Agency for International Development).
 
 #### (d) Federal agency
 
@@ -98,19 +98,19 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a)(2)(G), is Pub. L.
 
 #### Amendments
 
-2002—Subsec. (a)(1)(A). Pub. L. 107–228 inserted “Voice of America correspondents on official assignment and” after “abroad (other than”.
+<b>2002</b>—Subsec. (a)(1)(A). Pub. L. 107–228 inserted “Voice of America correspondents on official assignment and” after “abroad (other than”.
 
-1994—Subsec. (a). Pub. L. 103–415 substituted “operation” for “operations” in par. (2)(B)(i).
+<b>1994</b>—Subsec. (a). Pub. L. 103–415 substituted “operation” for “operations” in par. (2)(B)(i).
 
 Pub. L. 103–236 designated existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, and added par. (2).
 
-1990—Subsecs. (b) to (d). Pub. L. 101–246 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+<b>1990</b>—Subsecs. (b) to (d). Pub. L. 101–246 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-1988—Subsec. (b)(2). Pub. L. 100–461 inserted “or regional inspector general offices under the jurisdiction of the inspector General, Agency for International Development” after “commander”, and substituted a period for “; and” at end.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–461 inserted “or regional inspector general offices under the jurisdiction of the inspector General, Agency for International Development” after “commander”, and substituted a period for “; and” at end.
 
 Subsec. (b)(3). Pub. L. 100–461 struck out par. (3) which read as follows: “establish, notwithstanding any other provision of law, appropriate overseas staffing levels of the Regional Offices of the Inspector General of the Agency for International Development in effective consultation with the Inspector General of the Agency: <i>Provided</i>, That the authority of the Secretary of State shall be exercised only by the Secretary and shall not be delegated to a subordinate officer of the Department of State: <i>Provided further</i>, That the Inspector General must report to the appropriate committees of both Houses of the Congress within thirty days the denial by the Secretary of State of a request by the Inspector General to increase or reduce an existing position level of a regional office: <i>Provided further</i>, That the total number of positions authorized for the Office of the Inspector General in Washington and overseas shall be determined by the Inspector General within the limitation of the appropriations level provided.”
 
-1987—Subsec. (b)(3). Pub. L. 100–202 added par. (3).
+<b>1987</b>—Subsec. (b)(3). Pub. L. 100–202 added par. (3).
 
 #### Effective Date of 1994 Amendment
 

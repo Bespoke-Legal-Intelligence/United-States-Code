@@ -40,33 +40,35 @@ In the case of an individual who is enrolled under the program established by th
 
 #### (i) Adjustments for individuals enrolled in Medicare+Choice plans
 
-In the case of an individual enrolled in a Medicare+Choice plan, the Secretary shall provide for necessary adjustments of the monthly beneficiary premium to reflect 80 percent of any reduction elected under section 1395w–24(f)(1)(E) of this title and to reflect any credit provided under section 1395w–24(b)(1)(C)(iv) of this title. To the extent to which the Secretary determines that such an adjustment is appropriate, with the concurrence of any agency responsible for the administration of such benefits, such premium adjustment may be provided directly, as an adjustment to any social security, railroad retirement, or civil service retirement benefits, or, in the case of an individual who receives medical assistance under subchapter XIX of this chapter for medicare costs described in section 1396d(p)(3)(A)(ii) of this title, as an adjustment to the amount otherwise owed by the State for such medical assistance.
+In the case of an individual enrolled in a Medicare+Choice plan, the Secretary shall provide for necessary adjustments of the monthly beneficiary premium to reflect 80 percent of any reduction elected under section 1395w–24(f)(1)(E) of this title and to reflect any credit provided under section 1395w–24(b)(1)(C)(iv) <sup>1</sup> of this title. To the extent to which the Secretary determines that such an adjustment is appropriate, with the concurrence of any agency responsible for the administration of such benefits, such premium adjustment may be provided directly, as an adjustment to any social security, railroad retirement, or civil service retirement benefits, or, in the case of an individual who receives medical assistance under subchapter XIX of this chapter for medicare costs described in section 1396d(p)(3)(A)(ii) of this title, as an adjustment to the amount otherwise owed by the State for such medical assistance.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1840, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 306; amended Pub. L. 89–384, §4(c), Apr. 8, 1966, 80 Stat. 106; Pub. L. 90–248, title I, §166, title IV, §403(g), Jan. 2, 1968, 81 Stat. 874, 932; Pub. L. 92–603, title II, §§201(c)(6), 263(a)–(d)(3), Oct. 30, 1972, 86 Stat. 1373, 1448, 1449; Pub. L. 93–445, title III, §306, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 98–369, div. B, title III, §2354(b)(11), title VI, §2663(j)(2)(F)(ii), July 18, 1984, 98 Stat. 1101, 1170; Pub. L. 99–53, §2(g), June 17, 1985, 99 Stat. 94; Pub. L. 100–360, title II, §212(b)(1), July 1, 1988, 102 Stat. 740; Pub. L. 100–485, title VI, §608(d)(10)(B), Oct. 13, 1988, 102 Stat. 2415; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 103–296, title I, §108(c)(2), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(2)(B)(ii)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–557; Pub. L. 108–173, title II, §222(<i>l</i>)(2)(B), Dec. 8, 2003, 117 Stat. 2206.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1840, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 306; amended Pub. L. 89–384, §4(c), Apr. 8, 1966, 80 Stat. 106; Pub. L. 90–248, title I, §166, title IV, §403(g), Jan. 2, 1968, 81 Stat. 874, 932; Pub. L. 92–603, title II, §§201(c)(6), 263(a)–(d)(3), Oct. 30, 1972, 86 Stat. 1373, 1448, 1449; Pub. L. 93–445, title III, §306, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 98–369, div. B, title III, §2354(b)(11), title VI, §2663(j)(2)(F)(ii), July 18, 1984, 98 Stat. 1101, 1170; Pub. L. 99–53, §2(g), June 17, 1985, 99 Stat. 94; Pub. L. 100–360, title II, §212(b)(1), July 1, 1988, 102 Stat. 740; Pub. L. 100–485, title VI, §608(d)(10)(B), Oct. 13, 1988, 102 Stat. 2415; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 103–296, title I, §108(c)(2), Aug. 15,1994, 108 Stat. 1485; Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(2)(B)(ii)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–557; Pub. L. 108–173, title II, §222(<i>l</i>)(2)(B), Dec. 8, 2003, 117 Stat. 2206.)
 
 #### References in Text
 
 The Railroad Retirement Act of 1974, referred to in subsec. (b)(1), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
+Section 1395w–24(b)(1)(C)(iv) of this title, referred to in subsec. (i), was redesignated section 1395w–24(b)(1)(C)(v) of this title by Pub. L. 111–148, title III, §3202(b)(1)(B), Mar. 23, 2010, 124 Stat. 454, and subsequently redesignated section 1395w–24(b)(1)(C)(viii) of this title by Pub. L. 111–152, title I, §1102(d)(2), Mar. 30, 2010, 124 Stat. 1045.
+
 #### Amendments
 
-2003—Subsec. (i). Pub. L. 108–173 inserted “and to reflect any credit provided under section 1395w–24(b)(1)(C)(iv) of this title” after “section 1395w–24(f)(1)(E) of this title” in first sentence.
+<b>2003</b>—Subsec. (i). Pub. L. 108–173 inserted “and to reflect any credit provided under section 1395w–24(b)(1)(C)(iv) of this title” after “section 1395w–24(f)(1)(E) of this title” in first sentence.
 
-2000—Subsec. (i). Pub. L. 106–554 added subsec. (i).
+<b>2000</b>—Subsec. (i). Pub. L. 106–554 added subsec. (i).
 
-1994—Subsec. (a)(1). Pub. L. 103–296, §108(c)(2)(A), substituted “Commissioner of Social Security” for “Secretary” and inserted at end “Such regulations shall be prescribed after consultation with the Secretary.”
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–296, §108(c)(2)(A), substituted “Commissioner of Social Security” for “Secretary” and inserted at end “Such regulations shall be prescribed after consultation with the Secretary.”
 
 Subsec. (a)(2). Pub. L. 103–296, §108(c)(2)(B), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
-1989—Subsec. (i). Pub. L. 101–234 repealed Pub. L. 100–360, §212(b)(1), and provided that the provisions of law amended or repealed by such section are restored or revised as if such section had not been enacted, see 1988 Amendment note below.
+<b>1989</b>—Subsec. (i). Pub. L. 101–234 repealed Pub. L. 100–360, §212(b)(1), and provided that the provisions of law amended or repealed by such section are restored or revised as if such section had not been enacted, see 1988 Amendment note below.
 
-1988—Subsec. (i). Pub. L. 100–485 substituted “Supplementary” for “Supplemental”.
+<b>1988</b>—Subsec. (i). Pub. L. 100–485 substituted “Supplementary” for “Supplemental”.
 
 Pub. L. 100–360 added subsec. (i) relating to transfer to flat prescription drug premiums to Federal Catastrophic Drug Insurance Trust Fund.
 
-1985—Subsec. (d)(1). Pub. L. 99–53 inserted reference to section 8903a of title 5.
+<b>1985</b>—Subsec. (d)(1). Pub. L. 99–53 inserted reference to section 8903a of title 5.
 
-1984—Subsec. (a)(2). Pub. L. 98–369, §2663(j)(2)(F)(ii), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–369, §2663(j)(2)(F)(ii), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
 Subsec. (d)(1). Pub. L. 98–369, §2354(b)(11), substituted “Director of the Office of Personnel Management” for “Civil Service Commission”.
 
@@ -74,9 +76,9 @@ Pub. L. 98–369, §2663(j)(2)(F)(ii), substituted “Health and Human Services�
 
 Subsec. (d)(2). Pub. L. 98–369, §2354(b)(11), substituted “Director of the Office of Personnel Management” for “Civil Service Commission”.
 
-1974—Subsec. (b)(1). Pub. L. 93–445 substituted “under the Railroad Retirement Act of 1974” for “or pension under the Railroad Retirement Act of 1937”.
+<b>1974</b>—Subsec. (b)(1). Pub. L. 93–445 substituted “under the Railroad Retirement Act of 1974” for “or pension under the Railroad Retirement Act of 1937”.
 
-1972—Subsec. (a)(1). Pub. L. 92–603, §§201(c)(6)(A), 263(a), substituted “subsections (b)(1) and (c)” for “subsection (d)” and inserted reference to section 423 of this title.
+<b>1972</b>—Subsec. (a)(1). Pub. L. 92–603, §§201(c)(6)(A), 263(a), substituted “subsections (b)(1) and (c)” for “subsection (d)” and inserted reference to section 423 of this title.
 
 Subsec. (a)(2). Pub. L. 92–603, §201(c)(6)(B), inserted reference to section 423 of this title.
 
@@ -94,9 +96,9 @@ Subsec. (g). Pub. L. 92–603, §263(c), redesignated subsec. (h) as (g). Former
 
 Subsecs. (h), (i). Pub. L. 92–603, §263(c), (d)(3), redesignated subsec. (i) as (h) and substituted “(c) and (d)” for “(c), (d), and (e)”. Former subsec. (h) redesignated (g).
 
-1968—Subsec. (e). Pub. L. 90–248 provided for reimbursement of civil service retirement annuitants for certain premium payments under supplementary medical insurance program, and substituted “subchapter III of chapter 83 of Title 5 or any other law” and “such other law” for “the Civil Service Retirement Act, or other Act” and “such other Act”, in pars. (1) and (2), respectively.
+<b>1968</b>—Subsec. (e). Pub. L. 90–248 provided for reimbursement of civil service retirement annuitants for certain premium payments under supplementary medical insurance program, and substituted “subchapter III of chapter 83 of Title 5 or any other law” and “such other law” for “the Civil Service Retirement Act, or other Act” and “such other Act”, in pars. (1) and (2), respectively.
 
-1966—Subsec. (i). Pub. L. 89–384 added subsec. (i).
+<b>1966</b>—Subsec. (i). Pub. L. 89–384 added subsec. (i).
 
 #### Change of Name
 
@@ -135,4 +137,6 @@ Amendment by Pub. L. 93–445 effective Jan. 1, 1975, see section 603 of Pub. L.
 #### Effective Date of 1972 Amendment
 
 Section 263(f) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section and sections 1395t and 1395u of this title\] with respect to collection of premiums shall apply to premiums becoming due and payable after the fourth month following the month in which this Act is enacted \[October 1972\].”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

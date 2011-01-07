@@ -30,7 +30,7 @@ Cost Minimization.—The cost of any environmental assessment required pursuant 
 
 (f)
 
-Treatment of Receipts.—(1) Notwithstanding section 35 of the Mineral Leasing Act\(30 U.S.C. 191), all moneys received during the period specified in paragraph (2) from a lease under this section (including moneys in the form of sales, bonuses, royalties (including interest charges collected under the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1701 et seq.)), and rentals) shall be covered into the Treasury of the United States and shall not be subject to distribution to the States pursuant to subsection (a) of such section 35.
+Treatment of Receipts.—(1) Notwithstanding section 35 of the Mineral Leasing Act (30 U.S.C. 191), all moneys received during the period specified in paragraph (2) from a lease under this section (including moneys in the form of sales, bonuses, royalties (including interest charges collected under the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1701 et seq.)), and rentals) shall be covered into the Treasury of the United States and shall not be subject to distribution to the States pursuant to subsection (a) of such section 35.
 
 (2) The period referred to in this subsection is the period beginning on November 18, 1997, and ending on the date on which the Secretary of Energy and the Secretary of the Interior jointly certify to Congress that the sum of the moneys deposited in the Treasury under paragraph (1) is equal to the total of the following:
 
@@ -54,7 +54,7 @@ Use of Receipts.—(1) The Secretary of the Interior may use, without further ap
 
 The Mineral Leasing Act, referred to in subsec. (b)(1), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (c), is Pub. L. 94–579, Oct. 21,1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
@@ -62,11 +62,11 @@ The Federal Oil and Gas Royalty Management Act of 1982, referred to in subsec. (
 
 #### Amendments
 
-2002—Subsec. (f)(1). Pub. L. 107–345, §1(1), struck out after first sentence: “Subject to a specific authorization and appropriation for this purpose, such moneys may be used for reimbursement of environmental restoration, waste management, and environmental compliance costs incurred by the United States with respect to the lands transferred under subsection (a).”
+<b>2002</b>—Subsec. (f)(1). Pub. L. 107–345, §1(1), struck out after first sentence: “Subject to a specific authorization and appropriation for this purpose, such moneys may be used for reimbursement of environmental restoration, waste management, and environmental compliance costs incurred by the United States with respect to the lands transferred under subsection (a).”
 
 Subsec. (g). Pub. L. 107–345, §1(2), added subsec. (g).
 
-2001—Subsec. (a)(2). Pub. L. 107–107, §1048(c)(14)(A), substituted “November 18, 1998” for “one year after the date of the enactment of this section”.
+<b>2001</b>—Subsec. (a)(2). Pub. L. 107–107, §1048(c)(14)(A), substituted “November 18, 1998” for “one year after the date of the enactment of this section”.
 
 Subsec. (b)(1). Pub. L. 107–107, §1048(c)(14)(B), substituted “November 18, 1997,” for “the date of the enactment of this section,”.
 

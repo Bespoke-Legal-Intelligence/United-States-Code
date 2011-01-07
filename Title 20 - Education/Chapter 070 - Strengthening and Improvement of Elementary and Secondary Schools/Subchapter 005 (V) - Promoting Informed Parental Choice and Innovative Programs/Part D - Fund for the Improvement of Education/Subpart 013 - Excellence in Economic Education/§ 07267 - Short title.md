@@ -6,5 +6,5 @@ This subpart may be cited as the “Excellence in Economic Education Act of 2001
 
 #### Prior Provisions
 
-A prior section 7267, Pub. L. 89–10, title V, §5307, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3706, related to reports, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 7267, Pub. L. 89–10, title V, §5307, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3706, related to reports, prior to the general amendment of this subchapter by Pub. L. 107–110.
 

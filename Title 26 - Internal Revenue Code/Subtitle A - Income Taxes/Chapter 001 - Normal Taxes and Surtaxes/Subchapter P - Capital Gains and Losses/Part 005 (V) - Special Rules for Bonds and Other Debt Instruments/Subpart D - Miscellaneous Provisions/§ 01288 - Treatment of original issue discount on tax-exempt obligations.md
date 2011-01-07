@@ -6,7 +6,7 @@ Original issue discount on any tax-exempt obligation shall be treated as accruin
 
 &emsp;(1) for purposes of section 163, in the manner provided by section 1272(a) (determined without regard to paragraph (7) thereof), and
 
-&emsp;(2) for purposes of determining the adjusted basis of the holder, in the manner provided by section 1272(a) (determined with regard to paragraph (7) thereof).
+&emsp;(2) for purposes of determining the adjusted basis of the holder, in the manner provided bysection 1272(a) (determined with regard to paragraph (7) thereof).
 
 #### (b) Definitions and special rules
 
@@ -28,7 +28,7 @@ For purposes of this section—
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–647 substituted “paragraph (7)” for “paragraph (6)” in pars. (1) and (2).
+<b>1988</b>—Subsec. (a). Pub. L. 100–647 substituted “paragraph (7)” for “paragraph (6)” in pars. (1) and (2).
 
 #### Effective Date of 1988 Amendment
 

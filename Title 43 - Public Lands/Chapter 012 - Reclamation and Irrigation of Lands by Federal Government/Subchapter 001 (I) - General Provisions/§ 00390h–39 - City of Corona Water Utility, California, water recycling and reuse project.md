@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Secretary, in cooperation with the City of Corona Water Utility, California, is authorized to participate in the design, planning, and construction of, and land acquisition for, a project to reclaim and reuse wastewater, including degraded groundwaters, within and outside of the service area of the City of Corona Water Utility, California.
+The Secretary, in cooperation with the City of Corona Water Utility, California, is authorized to participate in the design, planning, and construction of, and land acquisition for, a project to reclaim and reuse wastewater, including degraded groundwaters, within and outside of theservice area of the City of Corona Water Utility, California.
 
 #### (b) Cost share
 

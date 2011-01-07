@@ -2,7 +2,7 @@
 
 (a)
 
-Regulations.—Before the end of the 270-day period beginning on the date of the enactment of this subchapter, the Secretary and the Board of Governors of the Federal Reserve System, in consultation with the Attorney General,shall prescribe regulations (which the Secretary and the Board jointly determine to be appropriate) requiring each designated payment system, and all participants therein, to identify and block or otherwise prevent or prohibit restricted transactions through the establishment of policies and procedures reasonably designed to identify and block or otherwise prevent or prohibit the acceptance of restricted transactions in any of the following ways:
+Regulations.—Before the end of the 270-day period beginning on the date of the enactment of this subchapter, the Secretary and the Board of Governors of the Federal Reserve System, in consultation with the Attorney General, shall prescribe regulations (which the Secretary and the Board jointly determine to be appropriate) requiring each designated payment system, and all participants therein, to identify and block or otherwise prevent or prohibit restricted transactions through the establishment of policies and procedures reasonably designed to identify and block or otherwise prevent or prohibit the acceptance of restricted transactions in any of the following ways:
 
 &emsp;(1) The establishment of policies and procedures that—
 

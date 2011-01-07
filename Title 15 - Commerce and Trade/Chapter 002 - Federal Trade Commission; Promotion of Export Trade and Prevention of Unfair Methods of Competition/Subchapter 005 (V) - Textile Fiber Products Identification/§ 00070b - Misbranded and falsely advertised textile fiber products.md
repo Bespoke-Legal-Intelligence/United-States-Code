@@ -32,7 +32,7 @@ For purposes of this subchapter, in addition to the textile fiber products conta
 
 #### (f) Fabric severed from bolts, pieces or rolls of fabric
 
-This section shall not be construed as requiring designation of the fiber content of any portion of fabric, when sold at retail, which is severed from bolts, pieces, or rolls of fabric labeled in accordance with the provisions of this section at the time of such sale: <i>Provided</i>, That if any portion of fabric severed from a bolt, piece, or roll of fabric is in any manner represented as containing percentages of natural or manufactured fibers, other than that which is set forth on the labeled bolt, piece, or roll, this section shall be applicable thereto, and the information required shall be separately set forth and segregated as required by this section.
+This section shall not be construed as requiring designation of the fiber content of any portion of fabric, when sold at retail, which is severed from bolts, pieces, or rolls of fabric labeled in accordance with the provisions of this section at the time of such sale: <i>Provided</i>, That if any portion of fabric severed from a bolt, piece, or roll of fabric is in any manner represented as containing percentages of natural or manufactured fibers, other than that which is set forth on the labeled bolt, piece, or roll, this sectionshall be applicable thereto, and the information required shall be separately set forth and segregated as required by this section.
 
 #### (g) Advertisement of textile product by use of name or symbol of fur-bearing animal
 
@@ -52,7 +52,7 @@ For purposes of this subchapter, any textile fiber product shall be misbranded i
 
 #### (k) Marking of certain sock products
 
-(1) Notwithstanding any other provision of law, socks provided for in subheading 6115.92.90, 6115.93.90, 6115.99.18, 6111.20.60, 6111.30.50, or 6111.90.50 of the Harmonized Tariff Schedule of the United States, as in effect on September 1, 2003, shall be marked as legibly, indelibly, and permanently as the nature of the article or package will permit in such a manner as to indicate to the ultimate consumer in the United States the English name of the country of origin of the article. The marking required by this subsection shall be on the front of the package, adjacent to the size designation of the product,and shall be set forth in such a manner as to be clearly legible, conspicuous, and readily accessible to the ultimate consumer.
+(1) Notwithstanding any other provision of law, socks provided for in subheading 6115.92.90, 6115.93.90, 6115.99.18, 6111.20.60, 6111.30.50, or 6111.90.50 of the Harmonized Tariff Schedule of the United States, as in effect on September 1, 2003, shall be marked as legibly, indelibly, and permanently as the nature of the article or package will permit in such a manner as to indicate to the ultimate consumer in the United States the English name of the country of origin of the article. The marking required by this subsection shall be on the front of the package, adjacent to the size designation of the product, and shall be set forth in such a manner as to be clearly legible, conspicuous, and readily accessible to the ultimate consumer.
 
 (2)
 
@@ -68,15 +68,15 @@ The Fur Products Labeling Act, referred to in subsec. (g), is act Aug. 8, 1951, 
 
 #### Amendments
 
-2004—Subsec. (k). Pub. L. 108–429 added subsec. (k).
+<b>2004</b>—Subsec. (k). Pub. L. 108–429 added subsec. (k).
 
-1984—Subsec. (b)(5). Pub. L. 98–417, §301, added par. (5).
+<b>1984</b>—Subsec. (b)(5). Pub. L. 98–417, §301, added par. (5).
 
 Subsec. (e). Pub. L. 98–417, §302, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “This section shall not be construed as requiring the affixing of a stamp, tag, label, or other means of identification to each textile fiber product contained in a package if (1) such textile fiber products are intended for sale to the ultimate consumer in such package, (2) such package has affixed to it a stamp, tag, label, or other means of identification bearing, with respect to the textile fiber products contained therein, the information required by subsection (b) of this section, and (3) the information on the stamp, tag, label, or other means of identification affixed to such package is equally applicable with respect to each textile fiber product contained therein.”
 
 Subsecs. (i), (j). Pub. L. 98–417, §303, added subsecs. (i) and (j).
 
-1965—Subsec. (b)(1). Pub. L. 89–35, §1, inserted “, but nothing in this section shall be construed as prohibiting the disclosure of any fiber present in a textile fiber product which has a clearly established and definite functional significance where present in the amount contained in such product”.
+<b>1965</b>—Subsec. (b)(1). Pub. L. 89–35, §1, inserted “, but nothing in this section shall be construed as prohibiting the disclosure of any fiber present in a textile fiber product which has a clearly established and definite functional significance where present in the amount contained in such product”.
 
 Subsec. (b)(2). Pub. L. 89–35, §2, inserted “, but nothing in this section shall be construed as prohibiting the disclosure of any fiber present in a textile fiber product which has a clearly established and definite functional significance where present in the amount stated”.
 

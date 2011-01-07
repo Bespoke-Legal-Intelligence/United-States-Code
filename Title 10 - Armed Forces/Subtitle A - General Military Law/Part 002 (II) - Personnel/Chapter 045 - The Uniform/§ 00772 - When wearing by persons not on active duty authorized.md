@@ -6,7 +6,7 @@
 
 (c) A retired officer of the Army, Navy, Air Force, or Marine Corps may bear the title and wear the uniform of his retired grade.
 
-(d) A person who is discharged honorably or under honorable conditions from the Army, Navy, Air Force, or Marine Corps may wear his uniform while going from the place of dischargeto his home, within three months after his discharge.
+(d) A person who is discharged honorably or under honorable conditions from the Army,Navy, Air Force, or Marine Corps may wear his uniform while going from the place of discharge to his home, within three months after his discharge.
 
 (e) A person not on active duty who served honorably in time of war in the Army, Navy, Air Force, or Marine Corps may bear the title, and, when authorized by regulations prescribed by the President, wear the uniform, of the highest grade held by him during that war.
 
@@ -140,11 +140,11 @@ In subsection (i), the words “Air Force school” are substituted for the word
 
 #### Amendments
 
-1996—Subsec. (h). Pub. L. 104–201 inserted before period at end “if the wear of such uniform is specifically authorized under regulations prescribed by the Secretary of the military department concerned”.
+<b>1996</b>—Subsec. (h). Pub. L. 104–201 inserted before period at end “if the wear of such uniform is specifically authorized under regulations prescribed by the Secretary of the military department concerned”.
 
-1989—Subsec. (g). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1989</b>—Subsec. (g). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1985—Subsec. (c). Pub. L. 99–145 struck out provisions relating to a retired officer of the Navy Nurse Corps.
+<b>1985</b>—Subsec. (c). Pub. L. 99–145 struck out provisions relating to a retired officer of the Navy Nurse Corps.
 
 #### Ex. Ord. No. 10554. Delegation of Authority To Prescribe Regulations
 

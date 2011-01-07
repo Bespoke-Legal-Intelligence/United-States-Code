@@ -180,7 +180,7 @@ In this section:
 
 #### (2) Exceptions to matching requirement for certain Federal funds
 
-&emsp;Paragraph (1) shall not apply to funds, grants, funds provided under contracts or cooperative agreements, gifts, contributions, ortechnical assistance received by a State rural development council from a Federal agency that are used—
+&emsp;Paragraph (1) shall not apply to funds, grants, funds provided under contracts or cooperative agreements, gifts, contributions, or technical assistance received by a State rural development council from a Federal agency that are used—
 
 &emsp;&emsp;(A) to support 1 or more specific program or project activities; or
 
@@ -228,5 +228,5 @@ Subsec. (h). Pub. L. 110–246, §6019(2), substituted “September 30, 2012” 
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 ofPub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

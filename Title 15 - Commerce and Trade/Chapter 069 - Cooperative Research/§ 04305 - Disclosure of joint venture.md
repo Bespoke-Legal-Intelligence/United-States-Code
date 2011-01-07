@@ -8,7 +8,7 @@
 
 &emsp;(B) the nature and objectives of such venture, and
 
-&emsp;(C) if a purpose of such venture is the production of a product, process, or service, as referred to in section 4301(a)(6)(D) of this title, the identity and nationality of any person who is a party to such venture, or who controls any party to such venture whether separately orwith one or more other persons acting as a group for the purpose of controlling such party.
+&emsp;(C) if a purpose of such venture is the production of a product, process, or service, as referred to in section 4301(a)(6)(D) of this title, the identity and nationality of any person who is a party to such venture, or who controls any party to such venture whether separately or with one or more other persons acting as a group for the purpose of controlling such party.
 
 > Any party to such venture, acting on such venture's behalf, may file additional disclosure notifications pursuant to this section as are appropriate to extend the protections of section 4303 of this title. In order to maintain the protections of section 4303 of this title, such venture shall, not later than 90 days after a change in its membership, file simultaneously with the Attorney General and the Commission a written notification disclosing such change.
 
@@ -60,7 +60,7 @@ Any action taken or not taken by the Attorney General or the Commission with res
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–237, §107(1), designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), and added par. (2).
+<b>2004</b>—Subsec. (a). Pub. L. 108–237, §107(1), designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), and added par. (2).
 
 Subsec. (b). Pub. L. 108–237, §107(2), inserted “, or a notice with respect to such standards development activity that identifies the standards development organization engaged in such activity and that describes such activity in general terms” before period at end of first sentence and “or available to such organization, as the case may be” before period at end of last sentence.
 
@@ -70,7 +70,7 @@ Subsec. (e). Pub. L. 108–237, §107(4), substituted “person or standards dev
 
 Subsec. (g)(1). Pub. L. 108–237, §107(5), inserted “or standards development organization” after “person”.
 
-1993—Pub. L. 103–42, §3(f)(1), substituted “joint venture” for “joint research and development venture” in section catchline.
+<b>1993</b>—Pub. L. 103–42, §3(f)(1), substituted “joint venture” for “joint research and development venture” in section catchline.
 
 Subsec. (a). Pub. L. 103–42, §3(f)(2), (3), substituted “joint venture” for “joint research and development venture” and “October 11, 1984” for “the date of the enactment of this Act” and added par. (3).
 

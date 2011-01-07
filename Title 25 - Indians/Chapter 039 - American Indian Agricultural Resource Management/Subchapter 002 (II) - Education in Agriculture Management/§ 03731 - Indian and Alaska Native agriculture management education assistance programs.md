@@ -24,7 +24,7 @@
 
 #### (b) Cooperative education program
 
-(1) The Secretary shall maintain, through the Bureau, a cooperative education program for the purpose, among other things, of recruiting Indian and Alaska Native students who are enrolled in secondary schools, tribally controlled community colleges, and other postsecondary or graduate schools, for employment in professional agricultural or related positions with theBureau or other Federal agency providing Indian agricultural or related services.
+(1) The Secretary shall maintain, through the Bureau, a cooperative education program for the purpose, among other things, of recruiting Indian and Alaska Native students who are enrolled in secondary schools, tribally controlled community colleges, and other postsecondary or graduate schools, for employment in professional agricultural or related positions with the Bureau or other Federal agency providing Indian agricultural or related services.
 
 (2) The cooperative educational program under paragraph (1) shall be modeled after, and shall have essentially the same features as, the program in effect on December 3, 1993, pursuant to chapter 308 of the Federal Personnel Manual of the Office of Personnel Management.
 
@@ -71,8 +71,6 @@ The Secretary shall administer the programs described in this section until a su
 (Pub. L. 103–177, title II, §201, Dec. 3, 1993, 107 Stat. 2018.)
 
 #### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (a)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
@@ -240,7 +238,7 @@ In general.—The Secretary shall provide for an evaluation of the results of ea
 
 &emsp;“(2)
 
-Information.—Upon request of the Secretary, an institution named in section 3(b) shall cooperatewith and assist the Secretary, to the extent practicable, in any evaluation undertaken under this subsection and provide the Secretary with requested information and reports relating to the conducting of its demonstration project.
+Information.—Upon request of the Secretary, an institution named in section 3(b) shall cooperate with and assist the Secretary, to the extent practicable, in any evaluation undertaken under this subsection and provide the Secretary with requested information and reports relating to the conducting of its demonstration project.
 
 “(g)
 
@@ -296,7 +294,7 @@ Provisions relating to credit for leave upon separating while the demonstration 
 
 &emsp;&emsp;&emsp;“(i)
 
-Lump-sum credit for annual leave.—In the case of any individual who, at the time of becoming subject to the demonstration project, has any leave for which a lump-sum payment might be paid under subchapter VI of chapter 55 of title 5, United States Code, such individual shall, if such individual separates from service (in the circumstances described in section 5551 or 5552 of such title 5, as applicable) while the demonstration project is still ongoing, be entitled to a lump-sum payment under such section 5551 or 5552 (as applicable) based on the amount of leave standing to such individual's credit at the time such individual became subject to the demonstration project or the amount of leave standing to such individual's credit at the time of separation, whichever is less.
+Lump-sum credit for annual leave.—In the case of any individual who, at the time of becoming subject to the demonstration project, has any leave for which a lump-sum payment might be paid under subchapter VI of chapter 55 of title5, United States Code, such individual shall, if such individual separates from service (in the circumstances described in section 5551 or 5552 of such title 5, as applicable) while the demonstration project is still ongoing, be entitled to a lump-sum payment under such section 5551 or 5552 (as applicable) based on the amount of leave standing to such individual's credit at the time such individual became subject to the demonstration project or the amount of leave standing to such individual's credit at the time of separation, whichever is less.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -330,7 +328,7 @@ Collective-bargaining agreements.—Any collective-bargaining agreement in effec
 
 #### “SEC. 7. REGULATIONS.
 
-“The president of each institution named in section 3(b) may, in consultation with the appropriate entities\(referred to in section 4(b)(1)), prescribe any regulations necessary to carry out this Act.
+“The president of each institution named in section 3(b) may, in consultation with the appropriate entities (referred to in section 4(b)(1)), prescribe any regulations necessary to carry out this Act.
 
 #### “SEC. 8. LEGISLATION TO MAKE CHANGES PERMANENT.
 

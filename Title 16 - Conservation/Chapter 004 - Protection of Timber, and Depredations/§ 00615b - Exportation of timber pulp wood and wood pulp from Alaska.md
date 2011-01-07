@@ -10,5 +10,5 @@ Section was formerly classified to section 422 of Title 48, Territories and Insu
 
 #### Amendments
 
-1920—Act June 5, 1920, authorized exportation of birch timber.
+<b>1920</b>—Act June 5, 1920, authorized exportation of birch timber.
 

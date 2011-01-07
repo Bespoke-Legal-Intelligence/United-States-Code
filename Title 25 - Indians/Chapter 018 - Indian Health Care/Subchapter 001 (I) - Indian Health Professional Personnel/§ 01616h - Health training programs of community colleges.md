@@ -8,7 +8,7 @@
 
 #### (b) Eligibility
 
-(1) The Secretary, acting through the Service, shall award grants to community colleges that have established a program described in subsection (a)(1) of this section for the purpose of maintaining the program and recruiting students for the program.
+(1) The Secretary, acting through the Service, shall award grants to community colleges thathave established a program described in subsection (a)(1) of this section for the purpose of maintaining the program and recruiting students for the program.
 
 (2) Grants may only be made under this section to a community college which—
 
@@ -66,13 +66,13 @@ Section 1058 of title 20, referred to in subsec. (e)(3), was amended by Pub. L. 
 
 #### Amendments
 
-2008—Subsec. (e)(1)(A). Pub. L. 110–315, §941(k)(2)(I)(ii)(I), substituted “a junior or community college that is a tribally controlled college or university” for “a tribally controlled community college”.
+<b>2008</b>—Subsec. (e)(1)(A). Pub. L. 110–315, §941(k)(2)(I)(ii)(I), substituted “a junior or community college that is a tribally controlled college or university” for “a tribally controlled community college”.
 
 Subsec. (e)(2). Pub. L. 110–315, §941(k)(2)(I)(ii)(II), added par. (2) and struck out former par. (2) which read as follows: “The term ‘tribally controlled community college’ has the meaning given to such term by section 1801(4) of this title.”
 
-1998—Subsec. (e)(2). Pub. L. 105–244 made technical amendment to reference in original act which appears in text as reference to section 1801(4) of this title.
+<b>1998</b>—Subsec. (e)(2). Pub. L. 105–244 made technical amendment to reference in original act which appears in text as reference to section 1801(4) of this title.
 
-1992—Subsec. (f). Pub. L. 102–573 struck out subsec. (f) which authorized appropriations for fiscal years 1990 to 1992.
+<b>1992</b>—Subsec. (f). Pub. L. 102–573 struck out subsec. (f) which authorized appropriations for fiscal years 1990 to 1992.
 
 #### Effective Date of 1998 Amendment
 

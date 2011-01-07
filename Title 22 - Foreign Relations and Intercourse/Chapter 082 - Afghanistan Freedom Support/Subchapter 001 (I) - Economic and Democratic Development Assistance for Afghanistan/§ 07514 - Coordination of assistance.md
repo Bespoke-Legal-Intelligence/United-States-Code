@@ -14,7 +14,7 @@ The President shall designate, within the Department of State, a coordinator who
 
 &emsp;(5) ensuring proper management, implementation, and oversight by agencies responsible for assistance programs for Afghanistan; and
 
-&emsp;(6) resolving policy and program disputes among United States Government agencies with respect to United States assistance for Afghanistan.
+&emsp;(6) resolving policy and program disputes among United States Government agencieswith respect to United States assistance for Afghanistan.
 
 #### (b) Rank and status of the coordinator
 
@@ -56,7 +56,7 @@ The coordinator designated under subsection (a) of this section shall have the r
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–458, §7104(c)(2), substituted “shall” for “is strongly urged to” in introductory provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–458, §7104(c)(2), substituted “shall” for “is strongly urged to” in introductory provisions.
 
 Subsecs. (c), (d). Pub. L. 108–458, §7104(d), added subsecs. (c) and (d).
 

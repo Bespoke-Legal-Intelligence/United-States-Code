@@ -38,7 +38,7 @@ In subsection (c), the words “(relating to bonds from armed vessels on clearin
 
 #### Amendments
 
-1980—Subsec. (c). Pub. L. 96–513 substituted “Section 16 of the Act of March 4, 1909 (22 U.S.C. 463)” for “Section 463 of title 22”.
+<b>1980</b>—Subsec. (c). Pub. L. 96–513 substituted “Section 16 of the Act of March 4, 1909 (22 U.S.C. 463)” for “Section 463 of title 22”.
 
 #### Effective Date of 1980 Amendment
 

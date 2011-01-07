@@ -72,7 +72,7 @@ The Secretary of State shall designate one of the Assistant Secretaries of State
 
 #### Amendments
 
-2006—Subsec. (c)(4)(C), (D). Pub. L. 109–401 added subpar. (C) and redesignated former subpar. (C) as (D).
+<b>2006</b>—Subsec. (c)(4)(C), (D). Pub. L. 109–401 added subpar. (C) and redesignated former subpar. (C) as (D).
 
 #### Change of Name
 

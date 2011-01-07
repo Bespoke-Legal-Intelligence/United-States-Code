@@ -1,8 +1,8 @@
 ### §670. Congressional declaration of purpose; authorization of appropriations
 
-For the purpose of enabling each State to provide, in appropriate cases, foster care and transitional independent living programs for children who otherwise would have been eligible for assistance under the State's plan approved under part A of this subchapter (as such plan was in effect on June 1, 1995) and adoption assistance for children with special needs, there are authorized to be appropriated for each fiscal year (commencing with the fiscal year which begins October 1, 1980) such sums as may be necessary to carry out the provisions of this part. The sums made available under this section shall be used for making payments to States which have submitted, and had approved by the Secretary, State plans under this part.
+For the purpose of enabling each State to provide, in appropriate cases, foster care and transitional independent living programs for children who otherwise would have been eligible forassistance under the State's plan approved under part A of this subchapter (as such plan was in effect on June 1, 1995) and adoption assistance for children with special needs, there are authorized to be appropriated for each fiscal year (commencing with the fiscal year which begins October 1, 1980) such sums as may be necessary to carry out the provisions of this part. The sums made available under this section shall be used for making payments to States which have submitted, and had approved by the Secretary, State plans under this part.
 
-(Aug. 14, 1935, ch. 531, title IV, §470, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94Stat. 501; amended Pub. L. 99–272, title XII, §12307(d), Apr. 7, 1986, 100 Stat. 297; Pub. L. 99–514, title XVII, §1711(c)(1), Oct. 22, 1986, 100 Stat. 2784; Pub. L. 104–193, title I, §108(d)(1), Aug. 22, 1996, 110 Stat. 2166.)
+(Aug. 14, 1935, ch. 531, title IV, §470, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 501; amended Pub. L. 99–272, title XII, §12307(d), Apr. 7, 1986, 100 Stat. 297; Pub. L. 99–514, title XVII, §1711(c)(1), Oct. 22, 1986, 100 Stat. 2784; Pub. L. 104–193, title I, §108(d)(1), Aug. 22, 1996, 110 Stat. 2166.)
 
 #### References in Text
 
@@ -10,9 +10,9 @@ Part A of this subchapter, referred to in text, is classified to section 601 et 
 
 #### Amendments
 
-1996—Pub. L. 104–193 substituted “would have been eligible” for “would be eligible” and inserted “(as such plan was in effect on June 1, 1995)” after “part A of this subchapter”.
+<b>1996</b>—Pub. L. 104–193 substituted “would have been eligible” for “would be eligible” and inserted “(as such plan was in effect on June 1, 1995)” after “part A of this subchapter”.
 
-1986—Pub. L. 99–514 substituted “foster care and transitional independent living programs for children who otherwise would be eligible for assistance under the State's plan approved under part A of this subchapter and adoption assistance for children with special needs” for “foster care, adoption assistance, and transitional independent living programs for children who otherwise would be eligible for assistance under the State's plan approved under part A of this subchapter (or, in the case of adoption assistance, would be eligible for benefits under subchapter XVI of this chapter)”.
+<b>1986</b>—Pub. L. 99–514 substituted “foster care and transitional independent living programs for children who otherwise would be eligible for assistance under the State's plan approved under part A of this subchapter and adoption assistance for children with special needs” for “foster care, adoption assistance, and transitional independent living programs for children who otherwise would be eligible for assistance under the State's plan approved under part A of this subchapter (or, in the case of adoption assistance, would be eligible for benefits under subchapter XVI of this chapter)”.
 
 Pub. L. 99–272 substituted “foster care, adoption assistance, and transitional independent living programs” for “foster care and adoption assistance”.
 
@@ -274,7 +274,7 @@ Final report.—Not later than 90 days after the termination of all grants award
 
 “(g)
 
-Authorization of Appropriations.—There is authorized to be appropriated to carry out this section, $10,000,000 for the period of fiscal years 2001 through 2005.
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section,$10,000,000 for the period of fiscal years 2001 through 2005.
 
 #### “SEC. 5. GRANTS TO REDUCE PENDING BACKLOGS OF ABUSE AND NEGLECT CASES TO PROMOTE PERMANENCY FOR ABUSED AND NEGLECTED CHILDREN.
 
@@ -370,7 +370,7 @@ Pub. L. 103–66, title XIII, §13712, Aug. 10, 1993, 107 Stat. 655, as amended 
 
 #### Abandoned Infants Assistance
 
-Pub. L. 100–505, Oct. 18, 1988, 102 Stat. 2533, as amended by Pub. L. 102–236, §§2–8, Dec. 12, 1991, 105 Stat. 1812–1816; Pub. L. 104–235, title II, §§221, 222, Oct. 3, 1996, 110 Stat. 3091, 3092; Pub. L. 108–36, title III, §§301–305, June 25, 2003, 117 Stat. 822–824, known as the Abandoned Infants Assistance Act of 1988, and formerly set out as a note under this section, provided temporary authority for the Secretary of Health and Human Services to make grants to public and nonprofit private entities for the purpose of developing, implementing, and operating projects to prevent the abandonment of infants and young children and required the Secretary to provide for evaluations of those projects. As amended by Pub. L. 102–236, §8, the program became permanent, and Pub. L. 100–505, except title II, was transferred to subchapter IV–A (§5117aa et seq.) of chapter 67 of this title.
+Pub. L. 100–505, Oct. 18, 1988, 102 Stat. 2533, as amended by Pub. L. 102–236, §§2–8, Dec. 12, 1991, 105 Stat. 1812–1816; Pub. L. 104–235, title II, §§221, 222, Oct. 3, 1996, 110 Stat. 3091, 3092; Pub. L. 108–36, title III, §§301–305, June 25, 2003, 117 Stat. 822–824, known as the Abandoned Infants Assistance Act of 1988, and formerly set out as a note under this section, provided temporary authority for the Secretary of Health and Human Services to make grants to public and nonprofit private entities for the purpose of developing, implementing, and operating projects to prevent the abandonment of infants and young children and required the Secretary to provide for evaluations of those projects. As amended by Pub. L. 102–236, §8, the program became permanent, and Pub. L. 100–505, except title II, was transferred to subchapter IV–A (§5117aa et seq.) of chapter 67 of this title. Subsequently, title II of Pub. L. 100–505 was repealed by Pub. L. 111–320, title IV, §401(b), Dec. 20, 2010, 124 Stat. 3513.
 
 #### Study of Foster Care and Adoption Assistance Programs; Report to Congress Not Later Than October 1, 1983
 

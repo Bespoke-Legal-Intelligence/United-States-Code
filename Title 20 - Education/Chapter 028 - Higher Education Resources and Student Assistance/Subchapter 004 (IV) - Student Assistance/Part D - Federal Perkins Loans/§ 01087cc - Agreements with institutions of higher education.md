@@ -74,7 +74,7 @@ An institution which has entered into an agreement under subsection (a) of this 
 
 #### (d) Limitation on use of interest bearing accounts
 
-In carrying out the provisions of subsection (a)(9) of this section, the Secretary may not require that any collection agency, collection attorney, or loan servicer collecting loans made under this part deposit amounts collected on such loans in interest bearing accounts, unless such agency, attorney, or servicer holds such amounts for more than 45 days.
+In carrying out the provisions of subsection (a)(9) of this section, the Secretary may not require that any collection agency, collection attorney, or loan servicer collecting loans made under this part deposit amounts collected on such loans in interest bearing accounts, unlesssuch agency, attorney, or servicer holds such amounts for more than 45 days.
 
 #### (e) Special due diligence rule
 
@@ -92,13 +92,13 @@ A prior section 1087cc, Pub. L. 89–329, title IV, §463, as added Pub. L. 92�
 
 #### Amendments
 
-2009—Subsec. (c)(2)(A). Pub. L. 111–39, §405(2)(A)(i), realigned margins.
+<b>2009</b>—Subsec. (c)(2)(A). Pub. L. 111–39, §405(2)(A)(i), realigned margins.
 
 Subsec. (c)(2)(B). Pub. L. 111–39, §405(2)(A)(ii), added subpar. (B) and struck out former subpar. (B), resulting in text identical to that after execution of the amendment by Pub. L. 105–244, §463(b)(2)(C). See 1998 Amendment note below.
 
 Subsec. (c)(3). Pub. L. 111–39, §405(2)(B), substituted “and (5)” for “and (6)” and made technical amendment to reference in original act which appears in text as reference to section 1681c of title 15.
 
-2008—Subsec. (a)(4)(B). Pub. L. 110–315, §463(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “if the institution is not one described in subparagraph (A), the Secretary may—
+<b>2008</b>—Subsec. (a)(4)(B). Pub. L. 110–315, §463(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “if the institution is not one described in subparagraph (A), the Secretary may—
 
 &emsp;“(i) allow such institution to transfer its interest in such loan to the Secretary, for collection, and the Secretary may use any collections thereon (less an amount not to exceed 30 percent of any such sums collected to cover the Secretary's collection costs) to make allocations to institutions of additional capital contributions in accordance with section 1087bb of this title; or
 
@@ -116,7 +116,7 @@ Subsec. (c)(4)(A). Pub. L. 110–315, §432(b)(5)(D), substituted “consumer re
 
 Subsec. (c)(5). Pub. L. 110–315, §432(b)(5)(E), substituted “consumer reporting agencies” for “credit bureau organizations” and “such consumer reporting agencies” for “such organizations”.
 
-1998—Subsec. (a)(2)(B). Pub. L. 105–244, §463(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a capital contribution—
+<b>1998</b>—Subsec. (a)(2)(B). Pub. L. 105–244, §463(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a capital contribution—
 
 &emsp;“(i) by an institution that—
 
@@ -136,7 +136,7 @@ Subsec. (c)(2). Pub. L. 105–244, §463(b)(2)(A), in introductory provisions, s
 
 Subsec. (c)(2)(A). Pub. L. 105–244, §463(b)(2)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the date of disbursement and the amount of any such loan;”.
 
-Subsec. (c)(2)(B). Pub. L. 105–244, §463(b)(2)(C), inserted “the repayment and” after “concerning” thefirst place appearing and substituted “status of such” for “status of any defaulted”.
+Subsec. (c)(2)(B). Pub. L. 105–244, §463(b)(2)(C), inserted “the repayment and” after “concerning” the first place appearing and substituted “status of such” for “status of any defaulted”.
 
 Subsec. (c)(2)(C). Pub. L. 105–244, §463(b)(2)(D), inserted “, or upon cancellation or discharge of the borrower's obligation on the loan for any reason” before period at end.
 
@@ -158,19 +158,19 @@ Subsec. (c)(5). Pub. L. 105–244, §463(b)(4), added par. (5).
 
 Subsec. (d). Pub. L. 105–244, §463(c), substituted “subsection (a)(9)” for “subsection (a)(10)”.
 
-1993—Subsec. (a)(2)(B)(i)(II). Pub. L. 103–208, §2(f)(5), substituted “7.5 percent for award year 1993–1994 and has a cohort default rate which does not exceed 15 percent for award year 1994–1995 or for any succeeding award year” for “7.5 percent”.
+<b>1993</b>—Subsec. (a)(2)(B)(i)(II). Pub. L. 103–208, §2(f)(5), substituted “7.5 percent for award year 1993–1994 and has a cohort default rate which does not exceed 15 percent for award year 1994–1995 or for any succeeding award year” for “7.5 percent”.
 
 Subsec. (c)(4). Pub. L. 103–208, §2(f)(6), substituted “shall disclose at least annually” for “shall disclose” in introductory provisions.
 
 Subsecs. (d), (e). Pub. L. 103–208, §2(f)(7), added subsecs. (d) and (e).
 
-1992—Subsec. (a)(2)(B). Pub. L. 102–325, §463(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a capital contribution by such institution in an amount equal to not less than one-ninth of the amount of the Federal capital contributions described in subparagraph (A);”.
+<b>1992</b>—Subsec. (a)(2)(B). Pub. L. 102–325, §463(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a capital contribution by such institution in an amount equal to not less than one-ninth of the amount of the Federal capital contributions described in subparagraph (A);”.
 
 Subsec. (c)(3)(B). Pub. L. 102–325, §463(b)(1), struck out “, if that account has not been previously reported by any other holder of the note” after “agency”.
 
 Subsec. (c)(4). Pub. L. 102–325, §463(b)(2), added par. (4).
 
-1987—Subsec. (a)(4). Pub. L. 100–50, §13(e), substituted “in an annual report” for “in a report” and struck out “, and made to the Secretary at least semiannually” after “in such default”.
+<b>1987</b>—Subsec. (a)(4). Pub. L. 100–50, §13(e), substituted “in an annual report” for “in a report” and struck out “, and made to the Secretary at least semiannually” after “in such default”.
 
 Subsec. (b). Pub. L. 100–50, §13(f), substituted “section 1096 of this title” for “section 1092 of this title”.
 

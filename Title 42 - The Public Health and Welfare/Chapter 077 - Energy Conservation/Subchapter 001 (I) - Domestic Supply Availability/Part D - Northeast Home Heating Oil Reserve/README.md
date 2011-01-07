@@ -4,8 +4,6 @@ Part D—Northeast Home Heating Oil Reserve
 
 A prior part D, consisting of section 6251 of this title, was redesignated part E of this subchapter, prior to repeal by Pub. L. 109–58.
 
-<i><sup>1</sup></i><i> So in original. The word “the” probably should not appear.</i>
-
 
 ---
 

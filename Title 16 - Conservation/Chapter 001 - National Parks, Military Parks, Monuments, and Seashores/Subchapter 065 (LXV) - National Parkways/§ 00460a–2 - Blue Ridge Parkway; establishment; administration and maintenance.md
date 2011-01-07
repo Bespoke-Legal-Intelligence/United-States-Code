@@ -6,7 +6,7 @@ All lands and easements heretofore or hereafter conveyed to the United States by
 
 #### Amendments
 
-1940—Act June 8, 1940, inserted exceptions set out in parenthesis.
+<b>1940</b>—Act June 8, 1940, inserted exceptions set out in parenthesis.
 
 #### Transfer of Functions
 

@@ -1,7 +1,5 @@
 Part B—Mathematics and Science Partnerships
 
-<i><sup>1</sup></i><i> So in original. There is no closing parenthesis.</i>
-
 
 ---
 

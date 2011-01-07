@@ -10,7 +10,7 @@ Section is from act Mar. 3, 1899, popularly known as the “Rivers and Harbors A
 
 #### Amendments
 
-2004—Pub. L. 108–293 substituted “day and, unless otherwise granted a waiver by the Commandant of the Coast Guard, a light” for “day and a lighted lantern” in second sentence and inserted at end “The Commandant of the Coast Guard may waive the requirement to mark a wrecked vessel, raft, or other craft with a light at night if the Commandant determines that placing a light would be impractical and granting such a waiver would not create an undue hazard to navigation.”
+<b>2004</b>—Pub. L. 108–293 substituted “day and, unless otherwise granted a waiver by the Commandant of the Coast Guard, a light” for “day and a lighted lantern” in second sentence and inserted at end “The Commandant of the Coast Guard may waive the requirement to mark a wrecked vessel, raft, or other craft with a light at night if the Commandant determines that placing a light would be impractical and granting such a waiver would not create an undue hazard to navigation.”
 
-1986—Pub. L. 99–662 substituted “or to sink” for “or to voluntarily or carelessly sink”, struck out “accidentally or otherwise,” after “navigable channel,”, and inserted “, lessee, or operator” after “owner” in three places.
+<b>1986</b>—Pub. L. 99–662 substituted “or to sink” for “or to voluntarily or carelessly sink”, struck out “accidentally or otherwise,” after “navigable channel,”, and inserted “, lessee, or operator” after “owner” in three places.
 

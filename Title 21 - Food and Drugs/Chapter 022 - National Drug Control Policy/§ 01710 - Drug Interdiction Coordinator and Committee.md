@@ -54,7 +54,7 @@
 
 #### (E) Treatment of classified or law enforcement sensitive information
 
-&emsp;&emsp;Any content of the report described in subparagraph (D) that involves information classified under criteria established by an Executive order, or the public disclosure of which, as determined by the Director, the Director of National Intelligence, or the head of any Federal Government agency the activities of which are described in the plan, would be detrimental to the law enforcement or national security activities of any Federal, State, or local agency, shall be presented to Congress separately from the rest of the report.
+&emsp;&emsp;Any content of the report described in subparagraph (D) that involves information classified under criteria established by an Executive order, or the public disclosure of which, as determined by the Director, the Director of National Intelligence, or the head of any Federal Government agency the activities of which are described in the plan, would be detrimental to the law enforcement or national security activities of anyFederal, State, or local agency, shall be presented to Congress separately from the rest of the report.
 
 #### (b) Interdiction Committee
 
@@ -88,5 +88,5 @@
 
 #### Amendments
 
-2006—Pub. L. 109–469, which directed that section 711 of Office of National Drug Control Policy Reauthorization Act of 1998 (Pub. L. 105–277, div. C, title VII) be amended by “adding at the end” a new section 711, was executed by substituting the new section 711 for this section which was the existing section 711 of the Act, to reflect the probable intent of Congress. Prior to amendment, this section related to drug interdiction.
+<b>2006</b>—Pub. L. 109–469, which directed that section 711 of Office of National Drug Control Policy Reauthorization Act of 1998 (Pub. L. 105–277, div. C, title VII) be amended by “adding at the end” a new section 711, was executed by substituting the new section 711 for this section which was the existing section 711 of the Act, to reflect the probable intent of Congress. Prior to amendment, this section related to drug interdiction.
 

@@ -6,9 +6,9 @@ There is hereby authorized to be appropriated, to be expended under the directio
 
 #### Amendments
 
-1965—Pub. L. 89–104 substituted “$100,000” for “$65,000”.
+<b>1965</b>—Pub. L. 89–104 substituted “$100,000” for “$65,000”.
 
-1958—Pub. L. 85–627 substituted “$65,000” for “$9,000”.
+<b>1958</b>—Pub. L. 85–627 substituted “$65,000” for “$9,000”.
 
 #### Annual Appropriations
 

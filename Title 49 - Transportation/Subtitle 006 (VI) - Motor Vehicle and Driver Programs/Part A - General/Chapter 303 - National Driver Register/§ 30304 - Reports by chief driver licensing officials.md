@@ -74,5 +74,5 @@ In subsection (c), before clause (1), the words “required to be transmitted by
 
 #### Amendments
 
-1999—Subsec. (e). Pub. L. 106–159 added subsec. (e).
+<b>1999</b>—Subsec. (e). Pub. L. 106–159 added subsec. (e).
 

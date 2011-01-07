@@ -22,5 +22,5 @@ This section is written to indicate that the Secretary of the Navy has discretio
 
 #### Amendments
 
-2006—Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 

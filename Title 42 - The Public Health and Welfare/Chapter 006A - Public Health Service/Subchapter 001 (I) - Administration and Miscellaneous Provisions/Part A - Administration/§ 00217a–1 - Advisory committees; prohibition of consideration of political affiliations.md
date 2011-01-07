@@ -1,18 +1,22 @@
 ### §217a–1. Advisory committees; prohibition of consideration of political affiliations
 
-All appointments to advisory committees established to assist in implementing the Public Health Service Act \[42 U.S.C. 201 et seq.\], the Mental Retardation Facilities and CommunityMental Health Centers Construction Act of 1963 \[42 U.S.C. 2689 et seq., 6000 et seq.\], and the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 \[42 U.S.C. 4541 et seq.\], shall be made without regard to political affiliation.
+All appointments to advisory committees established to assist in implementing the Public Health Service Act \[42 U.S.C. 201 et seq.\],<sup>1</sup> and the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 \[42 U.S.C. 4541 et seq.\], shall be made without regard to political affiliation.
 
-(Pub. L. 94–278, title X, §1001, Apr. 22, 1976, 90 Stat. 415.)
+(Pub. L. 94–278, title X, §1001, Apr. 22, 1976, 90 Stat. 415; Pub. L. 111–256, §2(e), Oct. 5, 2010, 124 Stat. 2643.)
 
 #### References in Text
 
-The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to this chapter (§201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
-
-The Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963, referred to in text, is Pub. L. 88–164, Oct. 31, 1963, 77 Stat. 282, as amended. Title I of the Act, known as the Developmental Disabilities Assistance and Bill of Rights Act, was classified principally to chapter 75 (§6000 et seq.) of this title, prior to repeal by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737. Title II of the Act, known as the Community Mental Health Centers Act, was classified principally to subchapter III (§2689 et seq.) of chapter 33 of this title, prior to repeal by Pub. L. 97–35, title IX, §902(e)(2)(B), Aug. 13, 1981, 95 Stat. 560. Title IV of the Act was classified generally to subchapter IV (§2691 et seq.) of chapter 33 of this title, prior to repeal by Pub. L. 94–103, title III, §302(c), Oct. 4, 1975, 89 Stat. 507. Title III of the Act which amended provisions in Title 20, Education, and Title V of the Act which was classified generally to subchapter V (§2698 et seq.) of chapter 33 of this title, were repealed by Pub. L. 91–230, title VI, §662(4), Apr. 13, 1970, 84 Stat. 188. For complete classification of this Act to the Code, see Short Title note set out under section 6000 of this title and Tables.
+The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to this chapter (§201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 The Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970, referred to in text, is Pub. L. 91–616, Dec. 31, 1970, 84 Stat. 1848, as amended, which is classified principally to chapter 60 (§4541 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4541 of this title and Tables.
 
 #### Codification
 
 Section was not enacted as a part of the Public Health Service Act which comprises this chapter.
+
+#### Amendments
+
+<b>2010</b>—Pub. L. 111–256 struck out “the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963,” after “Public Health Service Act,”.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

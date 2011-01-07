@@ -20,9 +20,9 @@ The Administrator is authorized to make such regulations and orders regulating, 
 
 #### Amendments
 
-1985—Subsec. (c). Pub. L. 99–150 inserted “The employer of an employee who performs substitute work described in section 207(p)(3) of this title may not be required under this subsection to keep a record of the hours of the substitute work.”
+<b>1985</b>—Subsec. (c). Pub. L. 99–150 inserted “The employer of an employee who performs substitute work described in section 207(p)(3) of this title may not be required under this subsection to keep a record of the hours of the substitute work.”
 
-1949—Subsec. (d). Act Oct. 26, 1949, added subsec. (d).
+<b>1949</b>—Subsec. (d). Act Oct. 26, 1949, added subsec. (d).
 
 #### Effective Date of 1985 Amendment
 

@@ -10,7 +10,7 @@ Not later than 24 hours after the Secretary of the Department in which the Coast
 
 #### (c) Liability of owner, lessee, or operator
 
-The owner, lessee, or operator of such vessel, boat, watercraft, raft, or other obstruction asdescribed in this section shall be liable to the United States for the actual cost, including administrative costs, of removal or destruction and disposal as described which exceeds the costs recovered under subsection (a) of this section. Any amount recovered from the owner, lessee, or operator of such vessel pursuant to this subsection to recover costs in excess of the proceeds from the sale or disposition of such vessel shall be deposited in the general fund of the Treasury of the United States.
+The owner, lessee, or operator of such vessel, boat, watercraft, raft, or other obstruction as described in this section shall be liable to the United States for the actual cost, including administrative costs, of removal or destruction and disposal as described which exceeds the costs recovered under subsection (a) of this section. Any amount recovered from the owner, lessee, or operator of such vessel pursuant to this subsection to recover costs in excess of the proceeds from the sale or disposition of such vessel shall be deposited in the general fund of the Treasury of the United States.
 
 (Mar. 3, 1899, ch. 425, §20, 30 Stat. 1154; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 99–662, title IX, §939(b), Nov. 17, 1986, 100 Stat. 4199; Pub. L. 104–303, title II, §218(b), Oct. 12, 1996, 110 Stat. 3696.)
 
@@ -22,13 +22,13 @@ Section 20 of act Mar. 3, 1899, also contained a repealing clause with a proviso
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–303, §218(b)(1), substituted “actual expense, including administrative expenses, of removing” for “expense of removing”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–303, §218(b)(1), substituted “actual expense, including administrative expenses, of removing” for “expense of removing”.
 
 Subsec. (b). Pub. L. 104–303, §218(b)(4), added subsec. (b). Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 104–303, §218(b)(2), (3), redesignated subsec. (b) as (c) and substituted “actual cost, including administrative costs, of removal” for “cost of removal”.
 
-1986—Pub. L. 99–662 designated existing provision as subsec. (a) and added subsec. (b).
+<b>1986</b>—Pub. L. 99–662 designated existing provision as subsec. (a) and added subsec. (b).
 
 #### Change of Name
 

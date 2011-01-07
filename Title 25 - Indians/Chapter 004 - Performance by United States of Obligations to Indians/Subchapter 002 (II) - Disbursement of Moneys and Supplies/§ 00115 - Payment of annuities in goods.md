@@ -6,7 +6,7 @@ The President may, at the request of any Indian tribe, to which an annuity is pa
 
 #### References in Text
 
-Section 91 of this title, referred to in text, was omitted from the Code. See section 5 of Title 41, Public Contracts.
+Section 91 of this title, referred to in text, was omitted from the Code.
 
 #### Codification
 

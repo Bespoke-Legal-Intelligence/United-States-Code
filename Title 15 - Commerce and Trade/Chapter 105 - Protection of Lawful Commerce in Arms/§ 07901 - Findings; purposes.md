@@ -12,7 +12,7 @@ Congress finds the following:
 
 &emsp;(4) The manufacture, importation, possession, sale, and use of firearms and ammunition in the United States are heavily regulated by Federal, State, and local laws. Such Federal laws include the Gun Control Act of 1968, the National Firearms Act \[26 U.S.C. 5801 et seq.\], and the Arms Export Control Act \[22 U.S.C. 2751 et seq.\].
 
-&emsp;(5) Businesses in the United States that are engaged in interstate and foreign commerce through the lawful design, manufacture, marketing, distribution, importation, or sale to the public of firearms or ammunition products that have been shipped or transported in interstate or foreign commerce are not, and should not, be liable for the harm caused by thosewho criminally or unlawfully misuse firearm products or ammunition products that function as designed and intended.
+&emsp;(5) Businesses in the United States that are engaged in interstate and foreign commerce through the lawful design, manufacture, marketing, distribution, importation, or sale to the public of firearms or ammunition products that have been shipped or transported in interstate or foreign commerce are not, and should not, be liable for the harm caused by those who criminally or unlawfully misuse firearm products or ammunition products that function as designed and intended.
 
 &emsp;(6) The possibility of imposing liability on an entire industry for harm that is solely caused by others is an abuse of the legal system, erodes public confidence in our Nation's laws, threatens the diminution of a basic constitutional right and civil liberty, invites the disassembly and destabilization of other industries and economic sectors lawfully competing in the free enterprise system of the United States, and constitutes an unreasonable burden on interstate and foreign commerce of the United States.
 
@@ -42,7 +42,7 @@ The purposes of this chapter are as follows:
 
 #### References in Text
 
-The Gun Control Act of 1968, referred to in subsec. (a)(4), is Pub. L. 90–618, Oct. 22, 1968, 82 Stat. 1213, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 18, Crimes and Criminal Procedure, and Tables.
+The Gun Control Act of 1968, referred to in subsec. (a)(4), is Pub. L. 90–618, Oct. 22, 1968, 82 Stat. 1213, asamended. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 18, Crimes and Criminal Procedure, and Tables.
 
 The National Firearms Act, referred to in subsec. (a)(4), is classified generally to chapter 53 (§5801 et seq.) of Title 26, Internal Revenue Code. See section 5849 of Title 26.
 

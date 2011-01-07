@@ -8,11 +8,11 @@
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 109–482, which directed the substitution of “to carry out section 287a–2” for “under section 287a–2(h)”, was executed by making substitution for “under section 287a–2(i)”, to reflect the probable intent of Congress.
+<b>2007</b>—Subsec. (a). Pub. L. 109–482, which directed the substitution of “to carry out section 287a–2” for “under section 287a–2(h)”, was executed by making substitution for “under section 287a–2(i)”, to reflect the probable intent of Congress.
 
-2000—Subsec. (a). Pub. L. 106–505, which directed the amendment of subsec. (a) by substituting “2000 through2002, reserve from the amounts appropriated under section 287a–2(i) of this title such sums as necessary” for “ ‘1994’ and all that follows through ‘$5,000,000’ ”, was executed by making the substitution for “1994 through 1996, reserve from the amounts appropriated under section 287a–2(h) of this title up to $2,500,000”, to reflect the probable intent of Congress and the amendment by Pub. L. 105–392. See 1998 Amendment note below.
+<b>2000</b>—Subsec. (a). Pub. L. 106–505, which directed the amendment of subsec. (a) by substituting “2000 through 2002, reserve from the amounts appropriated under section 287a–2(i) of this title such sums as necessary” for “ ‘1994’ and all that follows through ‘$5,000,000’ ”, was executed by making the substitution for “1994 through 1996, reserve from the amounts appropriated under section 287a–2(h) of this title up to $2,500,000”, to reflect the probable intent of Congress and the amendment by Pub. L. 105–392. See 1998 Amendment note below.
 
-1998—Subsec. (a). Pub. L. 105–392, in first sentence, substituted “may” for “shall” and “up to $2,500,000” for “$5,000,000”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–392, in first sentence, substituted “may” for “shall” and “up to $2,500,000” for “$5,000,000”.
 
 #### Effective Date of 2007 Amendment
 

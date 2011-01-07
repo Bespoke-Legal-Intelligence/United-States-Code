@@ -48,9 +48,21 @@ For purposes of this section, rules similar to the rules of subsections (c), (d)
 
 #### (f) Termination
 
-This section shall not apply to any payments made after December 31, 2009.
+This section shall not apply to any payments made after December 31, 2011.
 
-(Added Pub. L. 110–245, title I, §111(a), June 17, 2008, 122 Stat. 1634.)
+(Added Pub. L. 110–245, title I, §111(a), June 17, 2008, 122 Stat. 1634; amended Pub. L. 111–312, title VII, §736(a), Dec. 17, 2010, 124 Stat. 3318.)
+
+#### References in Text
+
+The date of the enactment of this section, referred to in subsec. (d)(1), is the date of the enactment of Pub. L. 110–245, which was approved June 17, 2008.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (f). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title VII, §736(b), Dec. 17, 2010, 124 Stat. 3318, provided that: “The amendment made by this section \[amending this section\] shall apply to payments made after December 31, 2009.”
 
 #### Effective Date
 

@@ -6,5 +6,5 @@ The project for flood control of the Lower Mississippi River adopted by sections
 
 #### Codification
 
-Section was formerly classified to section 702a–13/4 of this title.
+Section was formerly classified to section 702a–1¾ of this title.
 

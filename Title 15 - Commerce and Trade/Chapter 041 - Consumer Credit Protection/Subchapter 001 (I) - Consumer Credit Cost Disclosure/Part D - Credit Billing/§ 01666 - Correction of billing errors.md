@@ -18,7 +18,7 @@ If a creditor, within sixty days after having transmitted to an obligor a statem
 
 &emsp;&emsp;(i) make appropriate corrections in the account of the obligor, including the crediting of any finance charges on amounts erroneously billed, and transmit to the obligor a notification of such corrections and the creditor's explanation of any change in the amount indicated by the obligor under paragraph (2) and, if any such change is made and the obligor so requests, copies of documentary evidence of the obligor's indebtedness; or
 
-&emsp;&emsp;(ii) send a written explanation or clarification to the obligor, after having conducted an investigation, setting forth to the extent applicable the reasons why the creditor believes the account of the obligor was correctly shown in the statement and, upon request of the obligor, provide copies of documentary evidence of the obligor's indebtedness. In the case of a billing error where the obligor alleges that the creditor's billing statement reflects goods not delivered to the obligor or his designee in accordance with the agreement made at the time of the transaction, a creditor may not construe such amount to be correctly shown unless he determines that such goods were actually delivered, mailed, or otherwise sent to the obligor and provides the obligor with a statement of such determination.
+&emsp;&emsp;(ii) send a written explanation or clarification to the obligor, after having conducted an investigation, setting forth to the extent applicable the reasons why the creditor believes the account of the obligor was correctly shown in the statement and, upon request of the obligor, provide copies of documentary evidence of the obligor's indebtedness. In the case of a billing error where the obligor alleges that the creditor's billing statement reflects goods not delivered to the obligor or his designee in accordance with the agreement made at the time of the transaction, a creditor may not construe such amount to be correctly shown unless hedetermines that such goods were actually delivered, mailed, or otherwise sent to the obligor and provides the obligor with a statement of such determination.
 
 > After complying with the provisions of this subsection with respect to an alleged billing error, a creditor has no further responsibility under this section if the obligor continues to make substantially the same allegation with respect to such error.
 
@@ -58,23 +58,33 @@ Pursuant to regulations of the Board, a creditor operating an open end consumer 
 
 Any creditor who fails to comply with the requirements of this section or section 1666a of this title forfeits any right to collect from the obligor the amount indicated by the obligor under paragraph (2) of subsection (a) of this section, and any finance charges thereon, except that the amount required to be forfeited under this subsection may not exceed $50.
 
-(Pub. L. 90–321, title I, §161, as added Pub. L. 93–495, title III, §306, Oct. 28, 1974, 88 Stat. 1512; amended Pub. L. 96–221, title VI §§613(g), 620, Mar. 31, 1980, 94 Stat. 177, 184.)
+(Pub. L. 90–321, title I, §161, as added Pub. L. 93–495, title III, §306, Oct. 28, 1974, 88 Stat. 1512; amended Pub. L. 96–221, title VI §§613(g), 620, Mar. 31, 1980, 94 Stat. 177, 184; Pub. L. 111–203, title X, §§1087, 1100A(2), July 21, 2010, 124 Stat. 2086, 2107.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+
+<i>Pub. L. 111–203, title X, §§1087, 1100H, July 21, 2010, 124 Stat. 2086, 2113, provided that, effective on the designated transfer date, the Fair Credit Billing Act (title III of Pub. L. 93–495) is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–221, §613(g), substituted “(b)(10)” for “(b)(11)” and “(a)(7)” for “(a)(8)”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–221, §613(g), substituted “(b)(10)” for “(b)(11)” and “(a)(7)” for “(a)(8)”.
 
 Subsec. (b)(6), (7). Pub. L. 96–221, §620(a), added par. (6) and redesignated former par. (6) as (7).
 
 Subsec. (c). Pub. L. 96–221, §620(b), inserted provisions respecting finance charges on amounts in dispute.
 
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+
 #### Effective Date of 1980 Amendment
 
-Amendment buy Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
 #### Effective Date
 
-Section 308 of title III of Pub. L. 93–495 provided that: “This title \[enacting this section and sections 1666a to 1666j of this title, amending sections 1601, 1602, 1610, 1631, 1632, and 1637 of this title, and enacting provision set out as a note under section 1601 of this title\] takes effect upon the expiration of one year after the date of its enactment \[Oct. 28, 1974\].”
+Section 308 of title III of Pub. L. 93–495 provided that: “This title \[enacting this section and sections 1666a to1666j of this title, amending sections 1601, 1602, 1610, 1631, 1632, and 1637 of this title, and enacting provision set out as a note under section 1601 of this title\] takes effect upon the expiration of one year after the date of its enactment \[Oct. 28, 1974\].”
 
 #### Short Title
 

@@ -34,7 +34,7 @@
 
 &emsp;(3) chapter 171 of title 28.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 491; Pub. L. 90–83, §1(33), Sept. 11, 1967, 81 Stat. 201; Pub. L. 102–190, div. A, title X, §1063(a), Dec. 5, 1991, 105 Stat. 1476; Pub. L. 104–316, title II, §202(a), Oct. 19, 1996, 110 Stat. 3842.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 491; Pub. L. 90–83, §1(33), Sept. 11, 1967, 81 Stat. 201; Pub. L. 102–190, div. A, title X, §1063(a), Dec. 5, 1991, 105Stat. 1476; Pub. L. 104–316, title II, §202(a), Oct. 19, 1996, 110 Stat. 3842.)
 
 Historical and Revision Notes<br>1966
 

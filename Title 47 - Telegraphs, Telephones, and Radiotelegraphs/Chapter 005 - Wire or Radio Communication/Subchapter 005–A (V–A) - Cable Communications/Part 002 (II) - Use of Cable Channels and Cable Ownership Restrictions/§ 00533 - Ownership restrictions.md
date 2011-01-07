@@ -24,7 +24,7 @@ Any State or franchising authority may not prohibit the ownership or control of 
 
 (1) Subject to paragraph (2), a State or franchising authority may hold any ownership interest in any cable system.
 
-(2) Any State or franchising authority shall not exercise any editorial control regarding the content of any cable service on a cable system in which such governmental entity holds ownership interest (other than programming on any channel designated for educational or governmental use), unless such control is exercised through an entity separate from the franchising authority.
+(2) Any State or franchising authority shall not exercise any editorial control regarding the content of any cable service on a cable system in which such governmental entity holds ownership interest (other than programming on any channel designated for educational or governmental use), unless such control is exercisedthrough an entity separate from the franchising authority.
 
 #### (f) Enhancement of effective competition
 
@@ -64,13 +64,13 @@ For purposes of this section, the term “media of mass communications” shall 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–104, §202(i), redesignated par. (2) as subsec. (a) and subpars. (A) and (B) of par. (2) as pars. (1) and (2) of subsec. (a), respectively, added par. (3), and struck out former par. (1) which read as follows: “It shall be unlawful for any person to be a cable operator if such person, directly or through 1 or more affiliates, owns or controls, the licensee of a television broadcast station and the predicted grade B contour of such station covers any portion of the community served by such operator's cable system.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–104, §202(i), redesignated par. (2) as subsec. (a) and subpars. (A) and (B) of par. (2) as pars. (1) and (2) of subsec. (a), respectively, added par. (3), and struck out former par. (1) which read as follows: “It shall be unlawful for any person to be a cable operator if such person, directly or through 1 or more affiliates, owns or controls, the licensee of a television broadcast station and the predicted grade B contour of such station covers any portion of the community served by such operator's cable system.”
 
 Subsec. (b). Pub. L. 104–104, §302(b)(1), struck out subsec. (b), which related to common carriers, direct video programming, an exception for rural areas, and waiver.
 
-1994—Subsec. (b)(2). Pub. L. 103–414 substituted “pole, line, conduit space” for “pole line conduit space”.
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–414 substituted “pole, line, conduit space” for “pole line conduit space”.
 
-1992—Subsec. (a). Pub. L. 102–385, §11(a), designated existing provisions as par. (1) and added par. (2).
+<b>1992</b>—Subsec. (a). Pub. L. 102–385, §11(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (d). Pub. L. 102–385, §11(b), substituted “any other media” for “any media” and inserted at end “Nothing in this section shall be construed to prevent any State or franchising authority from prohibiting the ownership or control of a cable system in a jurisdiction by any person (1) because of such person's ownership or control of any other cable system in such jurisdiction; or (2) in circumstances in which the State or franchising authority determines that the acquisition of such a cable system may eliminate or reduce competition in the delivery of cable service in such jurisdiction.”
 

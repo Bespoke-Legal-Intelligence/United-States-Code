@@ -78,13 +78,13 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
-2000—Subsec. (b)(4)(G). Pub. L. 106–309, §203(b)(1), added subpar. (G).
+<b>2000</b>—Subsec. (b)(4)(G). Pub. L. 106–309, §203(b)(1), added subpar. (G).
 
 Subsec. (b)(17). Pub. L. 106–309, §203(b)(2), added par. (17).
 
-1985—Subsec. (b)(13) to (16). Pub. L. 99–83 added pars. (13) to (16).
+<b>1985</b>—Subsec. (b)(13) to (16). Pub. L. 99–83 added pars. (13) to (16).
 
-1979—Subsec. (b)(5). Pub. L. 96–53, §104(a)(1), inserted applicability to energy development and production.
+<b>1979</b>—Subsec. (b)(5). Pub. L. 96–53, §104(a)(1), inserted applicability to energy development and production.
 
 Subsec. (b)(7). Pub. L. 96–53, §104(a)(2), inserted applicability to promotion of development and production of energy.
 

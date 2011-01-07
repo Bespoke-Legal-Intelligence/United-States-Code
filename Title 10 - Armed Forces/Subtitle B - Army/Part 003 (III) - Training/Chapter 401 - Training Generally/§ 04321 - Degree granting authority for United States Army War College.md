@@ -20,7 +20,7 @@ Congressional Notification Requirements.—(1) When seeking to establish degree 
 
 &emsp;(B) the subsequent recommendations and rationale of the Secretary of Education regarding the establishment of the degree granting authority.
 
-(2) Upon any modification or redesignation of existing degree granting authority, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the rationale for the proposed modification or redesignation and any subsequent recommendation ofthe Secretary of Education on the proposed modification or redesignation.
+(2) Upon any modification or redesignation of existing degree granting authority, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the rationale for the proposed modification or redesignation and any subsequent recommendation of the Secretary of Education on the proposed modification or redesignation.
 
 (3) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the United States Army War College to award any new or existing degree.
 
@@ -28,7 +28,7 @@ Congressional Notification Requirements.—(1) When seeking to establish degree 
 
 #### Amendments
 
-2008—Pub. L. 110–417 amended section generally. Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary of the Army, the Commandant of the United States Army War College, upon the recommendation of the faculty and dean of the college, may confer the degree of master of strategic studies upon graduates of the college who have fulfilled the requirements for that degree.”
+<b>2008</b>—Pub. L. 110–417 amended section generally. Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary of the Army, the Commandant of the United States Army War College, upon the recommendation of the faculty and dean of the college, may confer the degree of master of strategic studies upon graduates of the college who have fulfilled the requirements for that degree.”
 
 #### Effective Date of 2008 Amendment
 

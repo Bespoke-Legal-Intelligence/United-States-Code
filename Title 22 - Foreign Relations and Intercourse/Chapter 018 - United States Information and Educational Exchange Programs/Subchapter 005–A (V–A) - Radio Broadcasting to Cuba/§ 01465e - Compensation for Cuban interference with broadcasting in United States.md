@@ -40,9 +40,9 @@ Section was enacted as part of the Radio Broadcasting to Cuba Act which comprise
 
 #### Amendments
 
-1998—Subsecs. (b), (d). Pub. L. 105–277 substituted “Board” for “Agency”.
+<b>1998</b>—Subsecs. (b), (d). Pub. L. 105–277 substituted “Board” for “Agency”.
 
-1984—Subsec. (b). Pub. L. 98–411 substituted “replaced (less” for “(replaced less”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–411 substituted “replaced (less” for “(replaced less”.
 
 #### Effective Date of 1998 Amendment
 

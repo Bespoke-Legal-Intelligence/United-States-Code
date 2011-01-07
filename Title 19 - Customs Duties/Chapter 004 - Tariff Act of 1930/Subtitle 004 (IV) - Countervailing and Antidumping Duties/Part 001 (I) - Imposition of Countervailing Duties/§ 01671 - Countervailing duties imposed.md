@@ -70,7 +70,7 @@ Whenever the administering authority has reasonable grounds to believe or suspec
 
 #### Amendments
 
-1994—Subsecs. (a) to (c). Pub. L. 103–465, §262, amended subsecs. (a) to (c) generally, substituting present provisions for provisions which generally authorized the imposition of countervailing duties, defined “country under the Agreement”, and provided for revocation of status as country under the Agreement.
+<b>1994</b>—Subsecs. (a) to (c). Pub. L. 103–465, §262, amended subsecs. (a) to (c) generally, substituting present provisions for provisions which generally authorized the imposition of countervailing duties, defined “country under the Agreement”, and provided for revocation of status as country under the Agreement.
 
 Subsec. (d). Pub. L. 103–465, §270(b)(1)(A), substituted “countervailable subsidies” for “subsidies” wherever appearing.
 
@@ -78,7 +78,7 @@ Pub. L. 103–465, §233(a)(5)(A), substituted “subject merchandise” for “
 
 Subsec. (f). Pub. L. 103–465, §261(d)(1)(B)(iii), struck out subsec. (f) which provided for cross reference to section 1303 of this title for provisions of law applicable in the case of merchandise which was product of country other than country under the Agreement.
 
-1988—Subsec. (c). Pub. L. 100–418, §1314(2), added subsec. (c). Former subsec. (c) relating to upstream subsidies redesignated (d).
+<b>1988</b>—Subsec. (c). Pub. L. 100–418, §1314(2), added subsec. (c). Former subsec. (c) relating to upstream subsidies redesignated (d).
 
 Subsec. (d). Pub. L. 100–647 redesignated subsec. (d), relating to cross reference, as (f).
 
@@ -90,9 +90,9 @@ Subsec. (e). Pub. L. 100–418, §1315(1), redesignated subsec. (d), relating to
 
 Subsec. (f). Pub. L. 100–647 redesignated subsec (d), relating to cross reference, as (f).
 
-1986—Subsecs. (c), (d), (g). Pub. L. 99–514 redesignated subsecs. (g) and (c) as (c) and (d), respectively.
+<b>1986</b>—Subsecs. (c), (d), (g). Pub. L. 99–514 redesignated subsecs. (g) and (c) as (c) and (d), respectively.
 
-1984—Subsec. (a). Pub. L. 98–573, §602(a)(1)(C), inserted last sentence which provided that for purposes of this subsection and section 1671d(b)(1) of this title, a reference to the sale of merchandise includes the entering into of any leasing arrangement regarding the merchandise that is equivalent to the sale of the merchandise.
+<b>1984</b>—Subsec. (a). Pub. L. 98–573, §602(a)(1)(C), inserted last sentence which provided that for purposes of this subsection and section 1671d(b)(1) of this title, a reference to the sale of merchandise includes the entering into of any leasing arrangement regarding the merchandise that is equivalent to the sale of the merchandise.
 
 Subsec. (a)(1). Pub. L. 98–573, §602(a)(1)(A), inserted “, or sold (or likely to be sold) for importation,” in provisions following subpar. (B).
 
@@ -134,7 +134,7 @@ In General.—Except as provided in section 261 \[amending this section and sect
 
 “(b)
 
-Date Described.—The date described in this subsection is the date on which the WTO Agreement (asdefined in section 2(9) \[19 U.S.C. 3501(9)\]) enters into force with respect to the United States \[Jan. 1, 1995\].”
+Date Described.—The date described in this subsection is the date on which the WTO Agreement (as defined in section 2(9) \[19 U.S.C. 3501(9)\]) enters into force with respect to the United States \[Jan. 1, 1995\].”
 
 #### Effective Date of 1988 Amendments
 
@@ -214,7 +214,7 @@ Functions of President under subsec. (b) of this section delegated to United Sta
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as anote under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Investigations Pending on January 1, 1980
 
@@ -284,9 +284,9 @@ Determination by the commission.—Within 180 days after the date on which it re
 
 Effect of determination.—
 
-“(A) Affirmative determination.—Upon being notified by the Commission of an affirmative determination under paragraph (2), the administering authority shall terminate the waiver of imposition of countervailing duties for merchandise subject to the order, if any. The countervailing duty order under section 303 of the Tariff Act of 1930 \[section 1303 of this title\] which applies to that merchandise shall remain in effect until revoked, in whole or in part, under section 751(d) of such Act \[section 1675(d) of this title\].
+“(A) Affirmative determination.—Upon being notified by the Commission of an affirmative determination under paragraph (2), the administering authority shall terminate the waiver of impositionof countervailing duties for merchandise subject to the order, if any. The countervailing duty order under section 303 of the Tariff Act of 1930 \[section 1303 of this title\] which applies to that merchandise shall remain in effect until revoked, in whole or in part, under section 751(d) of such Act \[section 1675(d) of this title\].
 
-“(B) Negative determination.—Upon being notified by the Commission of a negative determination under paragraph (2), the administering authorityshall revoke the countervailing duty order, and publish notice in the Federal Register of the revocation.
+“(B) Negative determination.—Upon being notified by the Commission of a negative determination under paragraph (2), the administering authority shall revoke the countervailing duty order, and publish notice in the Federal Register of the revocation.
 
 “(b)
 

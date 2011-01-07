@@ -62,7 +62,7 @@ For other prior sections 3772 to 3774, see note set out preceding section 3750 o
 
 #### Amendments
 
-1999—Subsec. (a)(1). Pub. L. 106–110, §1(a)(1), substituted “State, unit of local government, or rail carrier” for “State or unit of local government” and inserted “, including railroad police officers” before semicolon at end.
+<b>1999</b>—Subsec. (a)(1). Pub. L. 106–110, §1(a)(1), substituted “State, unit of local government, or rail carrier” for “State or unit of local government” and inserted “, including railroad police officers” before semicolon at end.
 
 Subsec. (a)(3). Pub. L. 106–110, §1(a)(2), substituted “State, unit of local government, or rail carrier” for “State or unit of local government”, “State or such unit”, and “State or unit” and inserted “railroad police officer,” after “deputies,”.
 
@@ -94,7 +94,7 @@ Pub. L. 107–206, title I, §1202, Aug. 2, 2002, 116 Stat. 887, as amended by P
 
 #### Annual Outstanding Student Award
 
-Pub. L. 107–67, title I, Nov. 12, 2001, 115 Stat. 516, and similar provisions authorizing the Federal Law Enforcement Training Center to use gifts of property for authorized purposes, including funding of an annual gift to the outstanding student who graduated from a basic training program at the Center during the previous fiscal year, were transferred to a note set out under section 464a of Title 6, Domestic Security.
+Pub. L. 107–67, title I, Nov. 12, 2001, 115 Stat. 516, and similar provisions authorizing the Federal Law Enforcement Training Center to use gifts of property for authorized purposes, including funding of an annual gift to the outstanding student who graduated from a basic training program at the Center during the previous fiscal year, were transferred to a note set out under section 464 of Title 6, Domestic Security.
 
 #### Travel and Subsistence Expenses of State and Local Law Enforcement Officers Attending Meetings, Courses, Etc., at FBI National Academy
 
@@ -103,4 +103,6 @@ Pub. L. 99–500, §101(b) \[title II\], Oct. 18, 1986, 100 Stat. 1783–39, 178
 #### Fees To Provide Training for State and Local Law Enforcement Officers at FBI National Academy; Prohibition; Reimbursement
 
 Pub. L. 99–500, §101(b) \[title II, §210\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–56, and Pub. L. 99–591, §101(b) \[title II, §210\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–56, provided that: “The Director of the Federal Bureau of Investigation and the Administrator of the Drug Enforcement Administration shall not establish and collect fees to provide training to State and local law enforcement officers at the FBI National Academy. Any fees collected for training of State and local law enforcement officers, which occurred at the National Academy on or after October 1, 1986, shall be reimbursed to the appropriate official or agency. In addition, the Director of the National Institute of Corrections shall not establish and collect fees to provide training to State and local officers which was not provided on a reimbursable basis prior to October 1, 1986.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “officers,”.</i>
 

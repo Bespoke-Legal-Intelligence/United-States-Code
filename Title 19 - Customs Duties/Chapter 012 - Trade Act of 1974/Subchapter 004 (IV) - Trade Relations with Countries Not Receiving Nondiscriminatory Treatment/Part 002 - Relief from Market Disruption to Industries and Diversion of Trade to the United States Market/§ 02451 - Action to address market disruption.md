@@ -140,7 +140,7 @@ Import relief under this section shall take effect not later than 15 days after 
 
 #### Amendments
 
-2004—Subsec. (b)(1). Pub. L. 108–429 made technical amendment to references in original act which appear in text as references to “this part”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–429 made technical amendment to references in original act which appear in text as references to “this part”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “that”.</i>
 

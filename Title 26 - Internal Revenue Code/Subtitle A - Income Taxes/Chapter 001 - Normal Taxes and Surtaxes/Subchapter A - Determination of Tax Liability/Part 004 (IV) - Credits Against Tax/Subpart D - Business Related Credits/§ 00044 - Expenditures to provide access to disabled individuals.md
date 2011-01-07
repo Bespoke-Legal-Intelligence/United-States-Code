@@ -12,7 +12,7 @@ For purposes of this section, the term “eligible small business” means any p
 
 &emsp;&emsp;(A) the gross receipts of such person for the preceding taxable year did not exceed $1,000,000, or
 
-&emsp;&emsp;(B) in the case of a person to which subparagraph (A) does not apply, such personemployed not more than 30 full-time employees during the preceding taxable year, and
+&emsp;&emsp;(B) in the case of a person to which subparagraph (A) does not apply, such person employed not more than 30 full-time employees during the preceding taxable year, and
 
 &emsp;(2) such person elects the application of this section for the taxable year.
 
@@ -108,7 +108,7 @@ The date of the enactment of this section, referred to in subsecs. (c)(1), (4) a
 
 #### Prior Provisions
 
-A prior section 44, added Pub. L. 94–12, title II, §208(a), Mar. 29, 1975, 89 Stat. 32; amended Pub. L. 94–45,title IV, §401(a), June 30, 1975, 89 Stat. 243; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to purchase of new principal residence, prior to repeal by Pub. L. 98–369, div. A, title IV, §474(m)(1), July 18, 1984, 98 Stat. 833, applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years.
+A prior section 44, added Pub. L. 94–12, title II, §208(a), Mar. 29, 1975, 89 Stat. 32; amended Pub. L. 94–45, title IV, §401(a), June 30, 1975, 89 Stat. 243; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to purchase of new principal residence, prior to repeal by Pub. L. 98–369, div. A, title IV, §474(m)(1), July 18, 1984, 98 Stat. 833, applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years.
 
 Another prior section 44 was renumbered section 37 of this title.
 

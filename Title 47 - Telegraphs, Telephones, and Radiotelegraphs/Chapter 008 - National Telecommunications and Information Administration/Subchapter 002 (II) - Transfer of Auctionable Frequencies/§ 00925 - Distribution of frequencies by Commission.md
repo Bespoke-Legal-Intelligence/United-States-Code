@@ -46,7 +46,7 @@ For definition of the 1934 Act, referred to in subsecs. (b) and (c)(1), see sect
 
 #### Amendments
 
-1997—Subsec. (b). Pub. L. 105–33, §3002(e)(4)(A), substituted “the initial reallocation report required” for “the report required” in introductory provisions.
+<b>1997</b>—Subsec. (b). Pub. L. 105–33, §3002(e)(4)(A), substituted “the initial reallocation report required” for “the report required” in introductory provisions.
 
 Subsec. (c). Pub. L. 105–33, §3002(e)(4)(B), added subsec. (c).
 

@@ -6,12 +6,6 @@ Subpart B—Benefit Limitations Under Single-Employer Plans
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be capitalized.</i>
-
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 

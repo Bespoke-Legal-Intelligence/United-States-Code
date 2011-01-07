@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(F) developing and implementing programs for limited English proficient children to meet the needs of changing populations of such children;
 
-&emsp;&emsp;(G) implementing policies to ensure that limited English proficient children have access to other education programs (other than programs designed to address limited English proficiency);
+&emsp;&emsp;(G) implementing policies to ensure that limited English proficient children have access to other education programs (otherthan programs designed to address limited English proficiency);
 
 &emsp;&emsp;(H) assisting limited English proficient children with disabilities;
 
@@ -92,7 +92,7 @@
 
 #### (2) Availability
 
-&emsp;Of the amount appropriated for a fiscal year under section 6801(a) of this title that is madeavailable to carry out this section, and that remains after the Secretary reserves funds for payments under paragraph (1)—
+&emsp;Of the amount appropriated for a fiscal year under section 6801(a) of this title that is made available to carry out this section, and that remains after the Secretary reserves funds for payments under paragraph (1)—
 
 &emsp;&emsp;(A) not less than one-third of the remainder shall be used to award grants to eligible entities for activities carried out within an entire school district; and
 

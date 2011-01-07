@@ -10,5 +10,5 @@ A prior section 8 of Pub. L. 88–578 was renumbered section 9 and is classified
 
 #### Amendments
 
-1976—Pub. L. 94–422 inserted proviso that temporary standardized signs shall be placed at or near any acquisition or development project undertaken through use of the fund and that the Secretary is to determine the standards and guidelines of such signing.
+<b>1976</b>—Pub. L. 94–422 inserted proviso that temporary standardized signs shall be placed at or near any acquisition or development project undertaken through use of the fund and that the Secretary is to determine the standards and guidelines of such signing.
 

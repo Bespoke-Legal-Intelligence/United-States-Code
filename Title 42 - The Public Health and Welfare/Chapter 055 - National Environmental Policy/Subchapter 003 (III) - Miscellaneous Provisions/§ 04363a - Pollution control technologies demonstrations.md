@@ -8,7 +8,7 @@
 
 #### References in Text
 
-The Clean Air Act as amended, referred to in par. (1), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The Clean Air Act as amended, referred to in par. (1), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended,which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
 The Federal Water Pollution Control Act as amended, referred to in par. (1), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
@@ -22,5 +22,5 @@ Section was enacted as part of the Environmental Research, Development, and Demo
 
 Provisions similar to those in this section were contained in the following prior authorization act:
 
-1979—Pub. L. 95–477, §2(d), Oct. 18, 1978, 92 Stat. 1508.
+<b>1979</b>—Pub. L. 95–477, §2(d), Oct. 18, 1978, 92 Stat. 1508.
 

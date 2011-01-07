@@ -22,7 +22,7 @@ Temporary Authority To Retain Certain Officers Designated as Judge Advocates.—
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–201 added subsec. (c).
+<b>1996</b>—Subsec. (c). Pub. L. 104–201 added subsec. (c).
 
 #### Effective Date of 1996 Amendment
 

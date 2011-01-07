@@ -36,7 +36,7 @@ Nothing in this section shall authorize the Secretary to require (or condition t
 
 #### Amendments
 
-1968—Subsec. (a). Pub. L. 90–448, §602(d)(1), substituted “areawide development” for “metropolitan development”.
+<b>1968</b>—Subsec. (a). Pub. L. 90–448, §602(d)(1), substituted “areawide development” for “metropolitan development”.
 
 Subsec. (b). Pub. L. 90–448, §602(d)(1)–(3), substituted “areawide development projects in areas” for “metropolitan development projects in metropolitan areas”, “areawide comprehensive planning” for “metropolitanwide comprehensive planning” in three places, “public areawide” for “public metropolitanwide”, and “adequate areawide” for “adequate metropolitanwide”.
 

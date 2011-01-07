@@ -22,13 +22,9 @@ Procedures for Sale.—(1) A vessel stricken from the Naval Vessel Register and 
 
 (d)
 
-Applicability.—This section does not apply to a vessel the disposal of which is authorized by subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.), if it is to be disposed of under subtitle I of title 40 and such title III.
+Applicability.—This section does not apply to a vessel the disposal of which is authorized by subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, if it is to be disposed of under those provisions.
 
-(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1708; amended Pub. L. 105–85, div. A, title X, §1021, Nov. 18, 1997, 111 Stat. 1875; Pub. L. 107–217, §3(b)(28), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–136, div. A, title X, §1045(a)(7), Nov. 24, 2003, 117 Stat. 1612.)
-
-#### References in Text
-
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
+(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1708; amended Pub. L.105–85, div. A, title X, §1021, Nov. 18, 1997, 111 Stat. 1875; Pub. L. 107–217, §3(b)(28), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–136, div. A, title X, §1045(a)(7), Nov. 24, 2003, 117 Stat. 1612; Pub. L. 111–350, §5(b)(53), Jan. 4, 2011, 124 Stat. 3847.)
 
 #### Prior Provisions
 
@@ -36,11 +32,13 @@ A prior section 7305, acts Aug. 10, 1956, ch. 1041, 70A Stat. 451; Dec. 12, 1980
 
 #### Amendments
 
-2003—Subsec. (d). Pub. L. 108–136 inserted “such” before “title III.”.
+<b>2011</b>—Subsec. (d). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, if it is to be disposed of under those provisions” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.), if it is to be disposed of under subtitle I of title 40 and such title III”.
 
-2002—Subsec. (d). Pub. L. 107–217 inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)” and “subtitle I of title 40 and title III” for “that Act”.
+<b>2003</b>—Subsec. (d). Pub. L. 108–136 inserted “such” before “title III.”.
 
-1997—Subsec. (c). Pub. L. 105–85 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+<b>2002</b>—Subsec. (d). Pub. L. 107–217 inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)” and “subtitle I of title 40 and title III” for “that Act”.
+
+<b>1997</b>—Subsec. (c). Pub. L. 105–85 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
 “(c)
 

@@ -20,11 +20,11 @@ Whenever the Secretary determines that appropriate management and protection set
 
 #### References in Text
 
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b), is Pub. L. 88–578, Sept. 3, 1964,78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
+The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96–199 substituted “$2,500,000” for “$425,000”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–199 substituted “$2,500,000” for “$425,000”.
 
-1970—Pub. L. 91–483 substituted provisions authorizing the Secretary to provide technical assistance and financial grants in addition to those under the Land and Water Conservation Fund Act of 1965, not exceeding 25 percent of the actual cost of each development project and up to a maximum of $425,000 and to share equally the annual costs of management, protection, maintenance and rehabilitation of the reserve for provisions for part recovery of the funds granted in case of conversion, and use or disposal contrary to the purposes of the establishment of the Ice Age National Scientific Reserve, and reenacted provisions for the termination of the grants.
+<b>1970</b>—Pub. L. 91–483 substituted provisions authorizing the Secretary to provide technical assistance and financial grants in addition to those under the Land and Water Conservation Fund Act of 1965, not exceeding 25 percent of the actual cost of each development project and up to a maximum of $425,000 and to share equally the annual costs of management, protection, maintenance and rehabilitation of the reserve for provisions for part recovery of the funds granted in case of conversion, and use or disposal contrary to the purposes of the establishment of the Ice Age National Scientific Reserve, and reenacted provisions for the termination of the grants.
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) both the alternatives specified in paragraphs (1) and (2).
 
-(b) Upon making the determination referred to in subsection (a) of this section, the Director shall make a report to the Congress and, at thesame time, to the private insurance companies participating in the National Flood Insurance Program pursuant to section 4017 of this title. Such report shall—
+(b) Upon making the determination referred to in subsection (a) of this section, the Director shall make a report to the Congress and, at the same time, to the private insurance companies participating in the National Flood Insurance Program pursuant to section 4017 of this title. Such report shall—
 
 &emsp;(1) state the reason for such determinations,
 
@@ -28,7 +28,7 @@ This chapter, referred to in subsec. (a), was in the original a reference to “
 
 #### Amendments
 
-1989—Subsec. (b). Pub. L. 101–137 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Upon making the determination referred to in subsection (a) of this section, and at least thirty days prior to implementing the program of flood insurance authorized under subchapter I of this chapter through the facilities of the Federal Government, the Director shall make a report to the Congress and such report shall—
+<b>1989</b>—Subsec. (b). Pub. L. 101–137 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Upon making the determination referred to in subsection (a) of this section, and at least thirty days prior to implementing the program of flood insurance authorized under subchapter I of this chapter through the facilities of the Federal Government, the Director shall make a report to the Congress and such report shall—
 
 &emsp;“(1) state the reasons for such determination,
 
@@ -38,7 +38,7 @@ This chapter, referred to in subsec. (a), was in the original a reference to “
 
 &emsp;“(4) contain such recommendations as the Director deems advisable.”
 
-1983—Subsec. (a). Pub. L. 98–181, §451(d)(1), in provisions preceding par. (1), substituted “Director” for “Secretary”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–181, §451(d)(1), in provisions preceding par. (1), substituted “Director” for “Secretary”.
 
 Subsec. (a)(2). Pub. L. 98–181, §451(d)(4), struck out “officers and employees of the Department of Housing and Urban Development, and” before “such other officers”.
 

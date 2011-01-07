@@ -2,7 +2,7 @@
 
 (a)
 
-Readiness of Department Medical Centers.—(1) The Secretary shall take appropriate actions to provide for the readiness of Department medical centers to protect the patients and staff of such centers from a public health emergency (as defined in section 2801 of the Public Health Service Act) or otherwise to respond to such an emergency so as to enable such centers to fulfill their obligations as part of the Federal response to such emergencies.
+Readiness of Department Medical Centers.—(1) The Secretary shall take appropriate actions to provide for the readiness of Department medical centers to protect the patients and staff of such centers from a public health emergency (as defined in section 2801 of the Public Health Service Act) or otherwise to respondto such an emergency so as to enable such centers to fulfill their obligations as part of the Federal response to such emergencies.
 
 (2) Actions under paragraph (1) shall include—
 
@@ -36,9 +36,9 @@ Training.—The Secretary shall ensure that the Department medical centers, in c
 
 (e)
 
-Participation in National Disaster Medical System.—(1) The Secretary shall establish and maintain a training program to facilitate the participation of the staff of Department medical centers, and of the community partners of such centers, in the National Disaster Medical System established pursuant to section 2812 of the Public Health Service Act (42 U.S.C. 300hh–11(b)).<sup>2</sup>
+Participation in National Disaster Medical System.—(1) The Secretary shall establish and maintain a training program to facilitate the participation of the staff of Department medical centers, and of the community partners of such centers, in the National Disaster Medical System established pursuant to section 2812 of the Public Health Service Act (42 U.S.C. 300hh–11).
 
-(2) The Secretary shall establish and maintain the training program under paragraph (1) in accordance with the recommendations of the working group on the prevention, preparedness, and response to public health emergencies established under section 319F of the Public Health Service Act (42 U.S.C. 247d–6(a)).<sup>3</sup>
+(2) The Secretary shall establish and maintain the training program under paragraph (1) in accordance with the recommendations of the working group on the prevention, preparedness, and response to public health emergencies established under section 319F of the Public Health Service Act (42 U.S.C. 247d–6).
 
 (3) The Secretary shall establish and maintain the training program under paragraph (1) in consultation with the following:
 
@@ -72,11 +72,11 @@ Mental Health Counseling.—(1) With respect to activities conducted by personne
 
 Authorization of Appropriations.—There are authorized to be appropriated, such sums as may be necessary to carry out this section for each of fiscal years 2007 through 2011.
 
-(Added Pub. L. 107–287, §6(a)(1), Nov. 7, 2002, 116 Stat. 2030; amended Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–417, title III, §306, Dec. 19, 2006, 120 Stat. 2863; Pub. L. 110–387, title IX, §901(a)(7), Oct. 10, 2008, 122 Stat. 4142.)
+(Added Pub. L. 107–287, §6(a)(1), Nov. 7, 2002, 116 Stat. 2030; amended Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–417, title III, §306, Dec. 19, 2006, 120 Stat. 2863; Pub. L. 110–387, title IX, §901(a)(7), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 111–275, title X, §1001(p)(2), Oct. 13, 2010, 124 Stat. 2897.)
 
 #### References in Text
 
-Sections 319F, 2801, and 2812 of the Public Health Service Act, referred to in subsecs. (a)(1), (2)(C) and (d), are classified to sections 247d–6, 300hh, and 300hh–11, respectively, of Title 42, The Public Health and Welfare.
+Section 2801 of the Public Health Service Act, referred to in subsec. (a)(1), is classified to section 300hh of Title 42, The Public Health and Welfare.
 
 Section 502 of the Homeland Security Act of 2002, referred to in subsec. (a)(2)(C), probably means section 502 of Pub. L. 107–296 prior to its redesignation as section 504 by Pub. L. 109–295, §611(8), and reclassification as section 314 of Title 6, Domestic Security, and not section 506 of Pub. L. 107–296 which was redesignated section 502 by Pub. L. 109–295, §611(9), and is classified to section 312 of Title 6. Provisions relating to the National Response Plan are contained in section 314(a)(6) of Title 6.
 
@@ -84,9 +84,13 @@ Section 154(b)(1) of the Public Health Security and Bioterrorism Preparedness an
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–387 substituted “respond to such” for “respond to such such”.
+<b>2010</b>—Subsec. (e)(1). Pub. L. 111–275, §1001(p)(2)(A), substituted “(42 U.S.C. 300hh–11)” for “(42 U.S.C. 300hh–11(b))”.
 
-2006—Subsec. (a)(1). Pub. L. 109–417, §306(a)(1)(A), substituted “a public health emergency (as defined in section 2801 of the Public Health Service Act)” for “chemical or biological attack”, “such an emergency” for “an attack”, and “such emergencies” for “public health emergencies”.
+Subsec. (e)(2). Pub. L. 111–275, §1001(p)(2)(B), substituted “(42 U.S.C. 247d–6)” for “(42 U.S.C. 247d–6(a))”.
+
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–387 substituted “respond to such” for “respond to such such”.
+
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–417, §306(a)(1)(A), substituted “a public health emergency (as defined in section 2801 of the Public Health Service Act)” for “chemical or biological attack”, “such an emergency” for “an attack”, and “such emergencies” for “public health emergencies”.
 
 Subsec. (a)(2)(C), (D). Pub. L. 109–417, §306(a)(1)(B), added subpars. (C) and (D).
 
@@ -149,8 +153,4 @@ Authorization of Appropriations.—There is hereby authorized to be appropriated
 &emsp;&emsp;“(B) such sums as may be necessary for each of fiscal years 2003 through 2006.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “(42 U.S.C. 300hh–11).”</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “(42 U.S.C. 247d–6).”</i>
 

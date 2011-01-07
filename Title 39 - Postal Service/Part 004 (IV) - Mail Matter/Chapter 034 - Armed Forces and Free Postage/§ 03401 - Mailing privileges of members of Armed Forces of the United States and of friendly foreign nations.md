@@ -56,7 +56,7 @@
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–405, §2(b)(10)(D), struck out concluding provisions which read as follows: “Whenever adequate service by certificated United States air carriers and military aircraft is not available to provide transportation of mail matter by air in accordance with this subsection, the transportation of such mail may be authorized by other than certificated United States air carriers and military aircraft.”
+<b>2008</b>—Subsec. (b). Pub. L. 110–405, §2(b)(10)(D), struck out concluding provisions which read as follows: “Whenever adequate service by certificated United States air carriers and military aircraft is not available to provide transportation of mail matter by air in accordance with this subsection, the transportation of such mail may be authorized by other than certificated United States air carriers and military aircraft.”
 
 Pub. L. 110–405, §2(b)(10)(A)–(C), substituted “or, for carriage of mail in foreign air transportation, other air carriers, air taxi operators or foreign air carriers as permitted by section 5402 of this title” for “at rates fixed and determined by the Secretary of Transportation in accordance with section 41901 of title 49”, struck out “at rates not to exceed those so fixed and determined for scheduled United States air carriers” after “military aircraft”, and substituted “certificated” for “scheduled” wherever appearing.
 
@@ -64,21 +64,21 @@ Subsec. (c). Pub. L. 110–405, §2(b)(10)(D), struck out at end “If adequate 
 
 Pub. L. 110–405, §2(b)(10)(A)–(C), substituted “or, for carriage of mail in foreign air transportation, other air carriers, air taxi operators or foreign air carriers as permitted by section 5402 of this title” for “at rates fixed and determined by the Secretary of Transportation in accordance with section 41901 of title 49”, struck out “at rates not to exceed those so fixed and determined for scheduled United States air carriers” after “military aircraft”, and substituted “certificated” for “scheduled” wherever appearing.
 
-2004—Subsec. (b). Pub. L. 108–375, §1071(a)(1), substituted “title 49, or on military aircraft at rates not to exceed those so fixed and determined for scheduled United States air carriers,” for “title 49,” in introductory provisions and “carriers and military aircraft” for “carriers” in two places in concluding provisions.
+<b>2004</b>—Subsec. (b). Pub. L. 108–375, §1071(a)(1), substituted “title 49, or on military aircraft at rates not to exceed those so fixed and determined for scheduled United States air carriers,” for “title 49,” in introductory provisions and “carriers and military aircraft” for “carriers” in two places in concluding provisions.
 
 Subsec. (c). Pub. L. 108–375, §1071(a)(2), in first sentence, substituted “title 49, or on military aircraft at rates not to exceed those so fixed and determined for scheduled United States air carriers,” for “title 49,” and, in second sentence, inserted “and military aircraft” after “by scheduled United States air carriers” and substituted “by other than scheduled United States air carriers and military aircraft” for “by air carriers other than scheduled United States air carriers”.
 
 Subsec. (g). Pub. L. 108–375, §1071(b), added subsec. (g).
 
-2000—Subsec. (b)(2), (3). Pub. L. 106–398 substituted “the maximum size allowed by the Postal Service for fourth class parcel post (known as ‘Standard Mail (B)’)” for “100 inches in length and girth combined”.
+<b>2000</b>—Subsec. (b)(2), (3). Pub. L. 106–398 substituted “the maximum size allowed by the Postal Service for fourth class parcel post (known as ‘Standard Mail (B)’)” for “100 inches in length and girth combined”.
 
-1994—Subsecs. (b), (c). Pub. L. 103–272 substituted “section 41901” for “section 1376”.
+<b>1994</b>—Subsecs. (b), (c). Pub. L. 103–272 substituted “section 41901” for “section 1376”.
 
-1993—Subsec. (a)(1). Pub. L. 103–160, in introductory provisions, inserted “an individual who is” before “a member” and “or a civilian, otherwise authorized to use postal services at Armed Forces installations, who holds a position or performs one or more functions in support of military operations, as designated by the military theater commander,” after “section 101 of title 10,” and, in subpars. (A) and (B), substituted “such individual” for “the member”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–160, in introductory provisions, inserted “an individual who is” before “a member” and “or a civilian, otherwise authorized to use postal services at Armed Forces installations, who holds a position or performs one or more functions in support of military operations, as designated by the military theater commander,” after “section 101 of title 10,” and, in subpars. (A) and (B), substituted “such individual” for “the member”.
 
-1992—Subsec. (a)(1). Pub. L. 102–484 substituted “section 101 of title 10,” for “section 101(4) and (22) of title 10,” in introductory provisions.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–484 substituted “section 101 of title 10,” for “section 101(4) and (22) of title 10,” in introductory provisions.
 
-1990—Subsec. (a). Pub. L. 101–510 substituted “sound- or video-recorded” for “sound-recorded” in introductory provisions.
+<b>1990</b>—Subsec. (a). Pub. L. 101–510 substituted “sound- or video-recorded” for “sound-recorded” in introductory provisions.
 
 Subsec. (a)(1)(A). Pub. L. 101–510 substituted “sound- or video-recorded” for “sound-recorded”.
 
@@ -88,11 +88,11 @@ Pub. L. 101–384 inserted “engaged in temporary military operations under ard
 
 Subsecs. (a)(2)(D), (b)(1)(A). Pub. L. 101–510 substituted  “sound-  or  video-recorded”  for  “sound-recorded”.
 
-1984—Subsecs. (b), (c). Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board”.
+<b>1984</b>—Subsecs. (b), (c). Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board”.
 
-1979—Subsec. (b). Pub. L. 96–70 substituted “or the Virgin Islands,” for “the Virgin Islands, or the Canal Zone,”.
+<b>1979</b>—Subsec. (b). Pub. L. 96–70 substituted “or the Virgin Islands,” for “the Virgin Islands, or the Canal Zone,”.
 
-1972—Subsec. (b)(1). Pub. L. 92–469, §1, substituted “15” for “5” after “pounds” in cl. (B), redesignated subsec. (b)(2) as (b)(1)(C), and deleted therefrom former cls. reading “(A) in an overseas area designated by the President under subsection (a) of this section, or (B) in an isolated, hardship, or combat support area overseas,or where adequate surface transportation is not available”.
+<b>1972</b>—Subsec. (b)(1). Pub. L. 92–469, §1, substituted “15” for “5” after “pounds” in cl. (B), redesignated subsec. (b)(2) as (b)(1)(C), and deleted therefrom former cls. reading “(A) in an overseas area designated by the President under subsection (a) of this section, or (B) in an isolated, hardship, or combat support area overseas,or where adequate surface transportation is not available”.
 
 Subsec. (b)(2). Pub. L. 92–469, §1, added subsec. (b)(2). Former subsec. (b)(2) redesignated subsec. (b)(1)(C).
 

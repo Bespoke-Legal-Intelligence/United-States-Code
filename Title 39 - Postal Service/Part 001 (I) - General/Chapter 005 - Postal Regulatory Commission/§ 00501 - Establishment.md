@@ -34,7 +34,7 @@ Report by the Postal Regulatory Commission.—
 
 &emsp;“(1)
 
-In general.—Not later than 24 months after the date of enactment of this Act \[Dec. 20, 2006\], thePostal Regulatory Commission shall submit a report to the President and Congress on universal postal service and the postal monopoly in the United States (in this section referred to as ‘universal service and the postal monopoly’), including the monopoly on the delivery of mail and on access to mailboxes.
+In general.—Not later than 24 months after the date of enactment of this Act \[Dec. 20, 2006\], the Postal Regulatory Commission shall submit a report to the President and Congress on universal postal service and the postal monopoly in the United States (in this section referred to as ‘universal service and the postal monopoly’), including the monopoly on the delivery of mail and on access to mailboxes.
 
 &emsp;“(2)
 

@@ -12,7 +12,7 @@
 
 I74senate report no. 95–989
 
-Section 763 provides for separate treatment of accounts held in separate capacities. A deficit in one account held for a customer may not be offset against the net equity in another account held by the same customer in a separate capacity or held by another customer.
+Section 763 provides for separate treatment of accounts held in separate capacities. A deficit in one account held for a customer may not be offset against thenet equity in another account held by the same customer in a separate capacity or held by another customer.
 
 #### Amendments
 

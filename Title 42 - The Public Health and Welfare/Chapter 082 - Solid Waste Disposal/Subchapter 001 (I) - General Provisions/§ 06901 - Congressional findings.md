@@ -72,9 +72,9 @@ Provisions similar to those in this section were contained in section 3251 of th
 
 #### Amendments
 
-1984—Subsec. (b)(5) to (8). Pub. L. 98–616 added pars. (5) to (7), struck out former par. (5) providing that “hazardous waste presents, in addition to the problems associated with non-hazardous solid waste, special dangers to health and requires a greater degree of regulation than does non-hazardous solid waste; and”, redesignated former par. (6) as (8), and substituted a period for the semicolon at end.
+<b>1984</b>—Subsec. (b)(5) to (8). Pub. L. 98–616 added pars. (5) to (7), struck out former par. (5) providing that “hazardous waste presents, in addition to the problems associated with non-hazardous solid waste, special dangers to health and requires a greater degree of regulation than does non-hazardous solid waste; and”, redesignated former par. (6) as (8), and substituted a period for the semicolon at end.
 
-1978—Subsec. (a)(4). Pub. L. 95–609 substituted “solid waste” for “solid-waste”.
+<b>1978</b>—Subsec. (a)(4). Pub. L. 95–609 substituted “solid waste” for “solid-waste”.
 
 #### Short Title of 2005 Amendment
 
@@ -116,5 +116,5 @@ For provisions relating to the responsibility of the head of each Executive agen
 
 #### National Commission on Materials Policy
 
-Pub. L. 91–512, title II, §§201–206, Oct. 26, 1970, 84 Stat. 1234, known as the “National Materials Policy Act of 1970”, provided for the establishment of the National Commission on Materials Policy to make a full investigation and study for the purpose of developing a national materials policy to utilize present resources and technology more efficiently and to anticipate the future materials requirements of the Nation and the world, the Commission to submit to the President and Congress a report on its findings and recommendations no later than June 30, 1973, ninety days after the submission of which it should cease to exist.
+Pub. L. 91–512, title II, §§201–206, Oct. 26, 1970, 84 Stat. 1234, known as the “National Materials Policy Act of 1970”, provided for the establishment of the National Commission on Materials Policy to make a full investigation and study for the purpose of developing a national materials policy to utilize present resources and technology more efficiently and to anticipate the future materials requirements of the Nation and the world, the Commission to submit to the President andCongress a report on its findings and recommendations no later than June 30, 1973, ninety days after the submission of which it should cease to exist.
 

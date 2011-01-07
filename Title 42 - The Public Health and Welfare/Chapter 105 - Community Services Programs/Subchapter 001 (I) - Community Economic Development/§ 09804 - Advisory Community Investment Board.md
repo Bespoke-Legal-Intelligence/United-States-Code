@@ -28,13 +28,9 @@ The governing body of each Community Development Corporation may establish an ad
 
 (Pub. L. 97–35, title VI, §615, Aug. 13, 1981, 95 Stat. 489; Pub. L. 105–285, title II, §202(b)(2), Oct. 27, 1998, 112 Stat. 2755.)
 
-#### References in Text
-
-The civil service laws, referred to in subsec. (a)(1), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Amendments
 
-1998—Subsec. (a)(2). Pub. L. 105–285 substituted “through an appropriate office” for “through the Office of Community Services established in section 9905(a) of this title”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–285 substituted “through an appropriate office” for “through the Office of Community Services established in section 9905(a) of this title”.
 
 #### Termination of Advisory Boards
 

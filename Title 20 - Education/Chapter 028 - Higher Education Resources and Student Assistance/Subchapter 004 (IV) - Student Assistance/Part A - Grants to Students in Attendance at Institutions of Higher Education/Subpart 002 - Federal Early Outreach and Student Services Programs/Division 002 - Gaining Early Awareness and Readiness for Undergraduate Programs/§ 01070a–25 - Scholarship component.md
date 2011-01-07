@@ -26,7 +26,7 @@ Each eligible entity providing scholarships under this section shall provide inf
 
 #### (d) Grant amounts
 
-The maximum amount of a scholarship that an eligible student shall be eligible to receiveunder this section shall be established by the eligible entity. The minimum amount of the scholarship for each fiscal year shall not be less than the minimum Federal Pell Grant award under section 1070a of this title for such award year.
+The maximum amount of a scholarship that an eligible student shall be eligible to receive under this section shall be established by the eligible entity. The minimum amount of the scholarship for each fiscal year shall not be less than the minimum Federal Pell Grant award under section 1070a of this title for such award year.
 
 #### (e) Portability of assistance
 
@@ -60,7 +60,7 @@ The maximum amount of a scholarship that an eligible student shall be eligible t
 
 #### (ii) Return of excess to the Secretary
 
-&emsp;&emsp;&emsp;If, after meeting the requirements of paragraph (1) and, if applicable, redistributing excess funds in accordance with clause (i) of this subparagraph, an eligible entity has funds held in reserve under paragraph (1) that remain available, the eligible entity shall return such remaining reserved funds to the Secretary for distribution to other grantees under this division in accordance with the funding rules described in section 1070a–22(a) of this title.
+&emsp;&emsp;&emsp;If, after meeting the requirements of paragraph (1) and, if applicable, redistributing excess funds in accordance with clause (i) of this subparagraph, an eligible entity has funds held in reserve under paragraph (1) that remain available, the eligible entity shall return such remainingreserved funds to the Secretary for distribution to other grantees under this division in accordance with the funding rules described in section 1070a–22(a) of this title.
 
 #### (B) Nonparticipating entity
 
@@ -90,7 +90,7 @@ A prior section 1070a–25, Pub. L. 89–329, title IV, §404E, as added Pub. L.
 
 #### Amendments
 
-2008—Subsecs. (b), (c). Pub. L. 110–315, §404(e)(3), added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated (d) and (f), respectively.
+<b>2008</b>—Subsecs. (b), (c). Pub. L. 110–315, §404(e)(3), added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated (d) and (f), respectively.
 
 Subsec. (d). Pub. L. 110–315, §404(e)(4), substituted “the minimum Federal Pell Grant award under section 1070a of this title for such award year” for “the lesser of—
 
@@ -102,7 +102,7 @@ Pub. L. 110–315, §404(e)(2), redesignated subsec. (b) as (d). Former subsec. 
 
 Subsec. (e). Pub. L. 110–315, §404(e)(1), (5), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “The Secretary shall ensure that each eligible entity places a priority on awarding scholarships to students who will receive a Federal Pell Grant for the academic year for which the scholarship is awarded under this section.”
 
-Subsec. (f). Pub. L. 110–315, §404(e)(1), (2), redesignated subsec. (c) as (f) and struck out former subsec. (f). Text read as follows: “An eligible entity may consider students who have successfully participated in programsfunded under division 1 of this subpart to have met the requirements of subsection (d)(4) of this section.”
+Subsec. (f). Pub. L. 110–315, §404(e)(1), (2), redesignated subsec. (c) as (f) and struck out former subsec. (f). Text read as follows: “An eligible entity may consider students who have successfully participated in programs funded under division 1 of this subpart to have met the requirements of subsection (d)(4) of this section.”
 
 Subsec. (g). Pub. L. 110–315, §404(e)(2), redesignated subsec. (d) as (g).
 

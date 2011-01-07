@@ -10,5 +10,5 @@ Section was formerly classified to section 1857k of this title.
 
 #### Amendments
 
-1967—Pub. L. 90–148 reenacted section without change.
+<b>1967</b>—Pub. L. 90–148 reenacted section without change.
 

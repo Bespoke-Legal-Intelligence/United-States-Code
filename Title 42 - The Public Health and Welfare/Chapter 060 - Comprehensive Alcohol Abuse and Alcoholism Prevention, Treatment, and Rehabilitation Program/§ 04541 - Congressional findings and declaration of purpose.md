@@ -34,11 +34,11 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 91–616, Dec. 31, 1970, 84 Stat. 1848, as amended, known as the “Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970”. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 91–616, Dec. 31, 1970, 84 Stat. 1848, known as the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Amendments
 
-1980—Subsec. (a)(2). Pub. L. 96–180, §2(a), substituted current findings of number of alcoholics or problem drinkers in the country (approximately ten million or 7 percent of the adults) for 1974 findings of number of alcohol abusers and alcoholics of estimated number of ninety-five million drinkers in the Nation (minimum of nine million or 7 per centum of the adults).
+<b>1980</b>—Subsec. (a)(2). Pub. L. 96–180, §2(a), substituted current findings of number of alcoholics or problem drinkers in the country (approximately ten million or 7 percent of the adults) for 1974 findings of number of alcohol abusers and alcoholics of estimated number of ninety-five million drinkers in the Nation (minimum of nine million or 7 per centum of the adults).
 
 Subsec. (a)(3). Pub. L. 96–180, §2(a), substituted current findings respecting annual cost of over $43,000,000,000 to the United States for alcoholism and other related problems in lost production, motor vehicle and other accidents, and other items, for 1974 findings respecting minimum annual problem drinking costs of $15,000,000 to the national economy in lost working time and identical other items.
 
@@ -52,9 +52,9 @@ Subsec. (b)(2). Pub. L. 96–180, §2(c)(1), struck out “and” at end.
 
 Subsec. (b)(3) to (5). Pub. L. 96–180, §2(c)(3), added pars. (3) and (4) and redesignated former par. (3) as (5).
 
-1978—Subsec. (a)(6), (7). Pub. L. 95–622 added par. (6) and redesignated former par. (6) as (7).
+<b>1978</b>—Subsec. (a)(6), (7). Pub. L. 95–622 added par. (6) and redesignated former par. (6) as (7).
 
-1976—Subsec. (b). Pub. L. 94–371 restructured provisions and inserted authorization for increased Federal commitment to research into the behavioral and biomedical etiology of alcohol abuse and alcoholism and the treatment and consequences of alcohol abuse and alcoholism.
+<b>1976</b>—Subsec. (b). Pub. L. 94–371 restructured provisions and inserted authorization for increased Federal commitment to research into the behavioral and biomedical etiology of alcohol abuse and alcoholism and the treatment and consequences of alcohol abuse and alcoholism.
 
 #### Short Title of 1980 Amendment
 
@@ -70,7 +70,7 @@ Section 101 of title I of Pub. L. 93–282 provided that: “This title \[enacti
 
 #### Short Title
 
-Section 1 of Pub. L. 91–616 provided that: “This Act \[enacting this chapter and section 2688j–2 of this title and amending sections 218, 246, 2688h and 2688t of this title\] may be cited as the ‘Comprehensive AlcoholAbuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970’.”
+Section 1 of Pub. L. 91–616 provided that: “This Act \[enacting this chapter and section 2688j–2 of this title and amending sections 218, 246, 2688h and 2688t of this title\] may be cited as the ‘Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970’.”
 
 #### National Commission on Alcoholism and Other Alcohol-Related Problems; Establishment; Executive Secretary; Interim and Final Reports of Study; Termination; Authorization of Appropriations
 

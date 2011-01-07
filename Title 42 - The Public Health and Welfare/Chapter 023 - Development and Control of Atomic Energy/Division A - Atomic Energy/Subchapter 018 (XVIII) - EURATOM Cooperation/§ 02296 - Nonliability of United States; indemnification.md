@@ -10,5 +10,5 @@ Section was enacted as part of the EURATOM Cooperation Act of 1958 which compris
 
 #### Amendments
 
-1961—Pub. L. 87–206 inserted proviso making provisions of section inapplicable to arrangements made by the Commission under a research and development program authorized by section 2292 of this title.
+<b>1961</b>—Pub. L. 87–206 inserted proviso making provisions of section inapplicable to arrangements made by the Commission under a research and development program authorized by section 2292 of this title.
 

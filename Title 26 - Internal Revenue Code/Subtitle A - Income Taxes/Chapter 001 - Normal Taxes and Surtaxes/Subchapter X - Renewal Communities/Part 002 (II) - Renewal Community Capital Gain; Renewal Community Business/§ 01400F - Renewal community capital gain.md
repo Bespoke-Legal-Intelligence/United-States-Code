@@ -100,11 +100,11 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–343 substituted “2014’.” for “2012’.”.
+<b>2008</b>—Subsec. (d). Pub. L. 110–343 substituted “2014’.” for “2012’.”.
 
-2006—Subsec. (d). Pub. L. 109–432 substituted “2012” for “2010”.
+<b>2006</b>—Subsec. (d). Pub. L. 109–432 substituted “2012” for “2010”.
 
-2004—Subsec. (d). Pub. L. 108–311 substituted “2010” for “2008”.
+<b>2004</b>—Subsec. (d). Pub. L. 108–311 substituted “2010” for “2008”.
 
 #### Effective Date of 2004 Amendment
 

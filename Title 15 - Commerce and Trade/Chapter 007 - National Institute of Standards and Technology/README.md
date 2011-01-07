@@ -7,6 +7,7 @@
 | [272a.](%C2%A7%2000272a%20-%20Technology%20services.md) | Technology services. |
 | [272b.](%C2%A7%2000272b%20-%20Annual%20budget%20submission.md) | Annual budget submission. |
 | [273\.](%C2%A7%2000273%20-%20Functions%3B%20for%20whom%20exercised.md) | Functions; for whom exercised. |
+| [273a.](%C2%A7%2000273a%20-%20Under%20Secretary%20of%20Commerce%20for%20Standards%20and%20Technology.md) | Under Secretary of Commerce for Standards and Technology. |
 | [274\.](%C2%A7%2000274%20-%20Director%3B%20powers%20and%20duties%3B%20report%3B%20compensation.md) | Director; powers and duties; report; compensation. |
 | [275\.](%C2%A7%2000275%20-%20Appointment%20of%20officers%20and%20employees.md) | Appointment of officers and employees. |
 | [275a.](%C2%A7%2000275a%20-%20Service%20charges.md) | Service charges. |
@@ -31,10 +32,12 @@
 | [278h.](%C2%A7%2000278h%20-%20Research%20program%20on%20security%20of%20computer%20systems.md) | Research program on security of computer systems. |
 | [278i.](%C2%A7%2000278i%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
 | [278j.](%C2%A7%2000278j%20-%20Studies%20by%20National%20Research%20Council.md) | Studies by National Research Council. |
-| [278k.](%C2%A7%2000278k%20-%20Regional%20Centers%20for%20the%20Transfer%20of%20Manufacturing%20Technology.md) | Regional Centers for the Transfer of Manufacturing Technology. |
+| [278k.](%C2%A7%2000278k%20-%20Regional%20centers%20for%20the%20transfer%20of%20manufacturing%20technology.md) | Regional centers for the transfer of manufacturing technology. |
 | 278<i>l.</i> | Assistance to State technology programs. |
 | [278m.](%C2%A7%2000278m%20-%20Repealed.%20Pub.%20L.%20110%E2%80%9369%2C%20title%20III%2C%20%C2%A73013%28d%29%2C%20Aug.%209%2C%202007%2C%20121%20Stat.%20599.md) | Repealed. |
 | [278n.](%C2%A7%2000278n%20-%20Technology%20Innovation%20Program.md) | Technology Innovation Program. |
+| 278n–1. | Emergency communication and tracking technologies research initiative. |
+| 278n–2. | Green manufacturing and construction. |
 | 278<i>o.</i> | User fees. |
 | [278p.](%C2%A7%2000278p%20-%20Notice%20to%20Congress.md) | Notice to Congress. |
 | [278q.](%C2%A7%2000278q%20-%20Appropriations%3B%20availability.md) | Appropriations; availability. |
@@ -58,6 +61,7 @@
 - [&sect; 00272a - Technology services](%C2%A7%2000272a%20-%20Technology%20services.md)
 - [&sect; 00272b - Annual budget submission](%C2%A7%2000272b%20-%20Annual%20budget%20submission.md)
 - [&sect; 00273 - Functions; for whom exercised](%C2%A7%2000273%20-%20Functions%3B%20for%20whom%20exercised.md)
+- [&sect; 00273a - Under Secretary of Commerce for Standards and Technology](%C2%A7%2000273a%20-%20Under%20Secretary%20of%20Commerce%20for%20Standards%20and%20Technology.md)
 - [&sect; 00274 - Director; powers and duties; report; compensation](%C2%A7%2000274%20-%20Director%3B%20powers%20and%20duties%3B%20report%3B%20compensation.md)
 - [&sect; 00275 - Appointment of officers and employees](%C2%A7%2000275%20-%20Appointment%20of%20officers%20and%20employees.md)
 - [&sect; 00275a - Service charges](%C2%A7%2000275a%20-%20Service%20charges.md)
@@ -82,10 +86,12 @@
 - [&sect; 00278h - Research program on security of computer systems](%C2%A7%2000278h%20-%20Research%20program%20on%20security%20of%20computer%20systems.md)
 - [&sect; 00278i - Reports to Congress](%C2%A7%2000278i%20-%20Reports%20to%20Congress.md)
 - [&sect; 00278j - Studies by National Research Council](%C2%A7%2000278j%20-%20Studies%20by%20National%20Research%20Council.md)
-- [&sect; 00278k - Regional Centers for the Transfer of Manufacturing Technology](%C2%A7%2000278k%20-%20Regional%20Centers%20for%20the%20Transfer%20of%20Manufacturing%20Technology.md)
+- [&sect; 00278k - Regional centers for the transfer of manufacturing technology](%C2%A7%2000278k%20-%20Regional%20centers%20for%20the%20transfer%20of%20manufacturing%20technology.md)
 - [&sect; 00278l - Assistance to State technology programs](%C2%A7%2000278l%20-%20Assistance%20to%20State%20technology%20programs.md)
 - [&sect; 00278m - Repealed. Pub. L. 110&#8211;69, title III, &sect;3013(d), Aug. 9, 2007, 121 Stat. 599](%C2%A7%2000278m%20-%20Repealed.%20Pub.%20L.%20110%E2%80%9369%2C%20title%20III%2C%20%C2%A73013%28d%29%2C%20Aug.%209%2C%202007%2C%20121%20Stat.%20599.md)
 - [&sect; 00278n - Technology Innovation Program](%C2%A7%2000278n%20-%20Technology%20Innovation%20Program.md)
+- [&sect; 00278n&#8211;1 - Emergency communication and tracking technologies research initiative](%C2%A7%2000278n%E2%80%931%20-%20Emergency%20communication%20and%20tracking%20technologies%20research%20initiative.md)
+- [&sect; 00278n&#8211;2 - Green manufacturing and construction](%C2%A7%2000278n%E2%80%932%20-%20Green%20manufacturing%20and%20construction.md)
 - [&sect; 00278o - User fees](%C2%A7%2000278o%20-%20User%20fees.md)
 - [&sect; 00278p - Notice to Congress](%C2%A7%2000278p%20-%20Notice%20to%20Congress.md)
 - [&sect; 00278q - Appropriations; availability](%C2%A7%2000278q%20-%20Appropriations%3B%20availability.md)

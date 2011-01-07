@@ -132,7 +132,7 @@ Beginning in calendar year 2009, and each year thereafter, the Secretary shall s
 
 &emsp;(6) Waivers granted by the Secretary under section 1308–3a(b)(2) of title 7 in order to protect environmentally sensitive land of special significance.
 
-(Pub. L. 99–198, title XII, §1241, as added Pub. L. 107–171, title II, §2701, May 13, 2002, 116 Stat. 278;amended Pub. L. 108–7, div. N, title II, §§213, 216(c), Feb. 20, 2003, 117 Stat. 545, 546; Pub. L. 108–11, title II, §2106(a), Apr. 16, 2003, 117 Stat. 590; Pub. L. 108–199, div. H, §101, Jan. 23, 2004, 118 Stat. 434; Pub. L. 108–324, div. B, §101(e), Oct. 13, 2004, 118 Stat. 1235; Pub. L. 108–498, §1(a), Dec. 23, 2004, 118 Stat. 4020; Pub. L. 109–171, title I, §§1202(b), 1203(c), Feb. 8, 2006, 120 Stat. 5, 6; Pub. L. 110–234, title II, §§2701–2705, May 22, 2008, 122 Stat. 1071–1074; Pub. L. 110–246, §4(a), title II, §§2701–2705, June 18, 2008, 122 Stat. 1664, 1799–1802.)
+(Pub. L. 99–198, title XII, §1241, as added Pub. L. 107–171, title II, §2701, May 13, 2002, 116 Stat. 278; amended Pub. L. 108–7, div. N, title II, §§213, 216(c), Feb. 20, 2003, 117 Stat. 545, 546; Pub. L. 108–11, title II, §2106(a), Apr. 16, 2003, 117 Stat. 590; Pub. L. 108–199, div. H, §101, Jan. 23, 2004, 118 Stat. 434; Pub. L. 108–324, div. B, §101(e), Oct. 13, 2004, 118 Stat. 1235; Pub. L. 108–498, §1(a), Dec. 23, 2004, 118 Stat. 4020; Pub. L. 109–171, title I, §§1202(b), 1203(c), Feb. 8, 2006, 120 Stat. 5, 6; Pub. L. 110–234, title II, §§2701–2705, May 22, 2008, 122 Stat. 1071–1074; Pub. L. 110–246, §4(a), title II, §§2701–2705, June 18, 2008, 122 Stat. 1664, 1799–1802.)
 
 #### References in Text
 
@@ -152,7 +152,7 @@ Another prior section 3841, Pub. L. 99–198, title XII, §1241, Dec. 23, 1985, 
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §2701(a), substituted “2012” for “2007” in introductory provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §2701(a), substituted “2012” for “2007” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 110–246, §2701(b), inserted “, including to the maximum extent practicable—” after “part I” and added subpars. (A) and (B).
 
@@ -202,17 +202,17 @@ Subsec. (g). Pub. L. 110–246, §2704, added subsec. (g).
 
 Subsec. (h). Pub. L. 110–246, §2705, added subsec. (h).
 
-2006—Subsec. (a)(3). Pub. L. 109–171, §1202(b), substituted a dash for “$6,037,000,000 for the period of fiscal years 2005 through 2014.” and added subpars. (A) and (B).
+<b>2006</b>—Subsec. (a)(3). Pub. L. 109–171, §1202(b), substituted a dash for “$6,037,000,000 for the period of fiscal years 2005 through 2014.” and added subpars. (A) and (B).
 
 Subsec. (a)(6)(E), (F). Pub. L. 109–171, §1203(c), added subpars. (E) and (F) and struck out former subpar. (E) which read as follows: “$1,300,000,000 in fiscal year 2007.”
 
-2004—Subsec. (a)(3). Pub. L. 108–324 inserted “, using not more than $6,037,000,000 for the period of fiscal years 2005 through 2014” before period at end.
+<b>2004</b>—Subsec. (a)(3). Pub. L. 108–324 inserted “, using not more than $6,037,000,000 for the period of fiscal years 2005 through 2014” before period at end.
 
 Pub. L. 108–199 struck out “, using not more than $3,773,000,000 for the period of fiscal years 2003 through 2013” before period at end.
 
 Subsec. (b). Pub. L. 108–498 added subsec. (b) and struck out heading and text of former subsec. (b), which related to availability of certain Commodity Credit Corporation funds under subsec. (a) for the provision of technical assistance for conservation and conservation security programs.
 
-2003—Subsec. (a)(3). Pub. L. 108–7, §216(c), inserted “, using not more than $3,773,000,000 for the period of fiscal years 2003 through 2013” before period at end.
+<b>2003</b>—Subsec. (a)(3). Pub. L. 108–7, §216(c), inserted “, using not more than $3,773,000,000 for the period of fiscal years 2003 through 2013” before period at end.
 
 Subsec. (b). Pub. L. 108–11 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 

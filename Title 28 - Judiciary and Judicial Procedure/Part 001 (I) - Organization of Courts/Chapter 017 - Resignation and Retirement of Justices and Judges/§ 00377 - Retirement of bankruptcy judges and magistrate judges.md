@@ -2,7 +2,7 @@
 
 (a)
 
-Retirement Based on Years of Service.—A bankruptcy judge or magistrate judge to whom this section applies and who retires from office after attaining the age of 65 years and serving at least 14 years, whether continuously or otherwise, as such bankruptcy judge or magistrate judge shall, subject to subsection (f), be entitled to receive, during the remainder of the judge's or magistrate judge's lifetime, an annuity equal to the salary being received at the time the judge or magistrate judge leaves office.
+Retirement Based on Years of Service.—A bankruptcy judge or magistrate judge to whom this section applies and who retires from office after attaining the age of 65 years and serving at least 14 years, whether continuously or otherwise, as such bankruptcy judge or magistrate judge shall, subject to subsection (f), be entitled to receive, during the remainder of thejudge's or magistrate judge's lifetime, an annuity equal to the salary being received at the time the judge or magistrate judge leaves office.
 
 (b)
 
@@ -124,7 +124,7 @@ Forfeiture not to apply where individual elects to freeze amount of annuity.—(
 
 > &emsp;&emsp;Such an election, once it takes effect, shall be irrevocable.
 
-&emsp;&emsp;(iii) Any election under this subparagraph shall take effect on the first day of the first month following the month in which the election is made.
+&emsp;&emsp;(iii) Any election under this subparagraph shall take effect on the first day of the firstmonth following the month in which the election is made.
 
 &emsp;(2)
 
@@ -234,9 +234,9 @@ Section 404 of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2549),
 
 #### Amendments
 
-1991—Subsec. (f)(4). Pub. L. 102–40 substituted “section 7296 of title 38” for “section 4096 of title 38”.
+<b>1991</b>—Subsec. (f)(4). Pub. L. 102–40 substituted “section 7296 of title 38” for “section 4096 of title 38”.
 
-1990—Subsec. (f). Pub. L. 101–650, §325(b)(3)(A), substituted pars. (1) to (4) for “any annuity to which such judge or magistrate would otherwise have been entitled under subchapter III of chapter 83, or under chapter 84 (except for subchapters III and VII), of title 5.”
+<b>1990</b>—Subsec. (f). Pub. L. 101–650, §325(b)(3)(A), substituted pars. (1) to (4) for “any annuity to which such judge or magistrate would otherwise have been entitled under subchapter III of chapter 83, or under chapter 84 (except for subchapters III and VII), of title 5.”
 
 Subsec. (h). Pub. L. 101–650, §325(b)(3)(B), substituted “on or after” for “in or after” in concluding provisions.
 
@@ -317,4 +317,6 @@ Recall.—With respect to any bankruptcy judge or magistrate judge receiving an 
 #### Report to Congress on Financial Operation of Retirement Annuity Program
 
 Section 8 of Pub. L. 100–659 provided that: “The Director of the Administrative Office of the United States Courts shall, not later than 5 years after the date of the enactment of this Act \[Nov. 15, 1988\], submit a report to the Congress on the financial operation of the retirement annuity program established under this Act and the amendments made by this Act \[see Effective Date note above\]. The report shall, in particular, include a discussion of the deductions from salary and deposits made for contributions to the annuity program and the need for continuing the deductions at the level established under the amendments made by this Act.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “receive—”.</i>
 

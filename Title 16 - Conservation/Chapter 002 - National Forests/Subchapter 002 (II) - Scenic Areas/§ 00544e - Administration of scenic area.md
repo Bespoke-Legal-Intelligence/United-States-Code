@@ -20,7 +20,7 @@ Approval by commission.—(A) Within ninety days after receipt of a land use ord
 
 #### (c) Commission land use ordinances
 
-(1) Within ninety days after making a determination that a county has failed to comply with the provisions of this section, the Commission shall make and publish a land use ordinance setting standard for the use of non-Federal lands in such county within the boundaries of the national scenic area, excluding urban areas identified in section 544b(e) of this title. The ordinance shall have the object of assuring that the use of such non-Federal lands is consistent with the management plan. The ordinance may differ amongst the several parcels of land within the boundaries of the scenic area. The ordinance may from time to time be amended by the Commission.
+(1) Within ninety days after making a determination that a county has failed to complywith the provisions of this section, the Commission shall make and publish a land use ordinance setting standard for the use of non-Federal lands in such county within the boundaries of the national scenic area, excluding urban areas identified in section 544b(e) of this title. The ordinance shall have the object of assuring that the use of such non-Federal lands is consistent with the management plan. The ordinance may differ amongst the several parcels of land within the boundaries of the scenic area. The ordinance may from time to time be amended by the Commission.
 
 (2)
 

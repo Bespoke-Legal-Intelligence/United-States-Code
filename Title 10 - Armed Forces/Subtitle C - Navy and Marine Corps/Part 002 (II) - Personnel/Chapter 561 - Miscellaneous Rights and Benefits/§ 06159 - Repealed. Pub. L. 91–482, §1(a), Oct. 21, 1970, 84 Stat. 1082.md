@@ -1,6 +1,6 @@
 ### \[§6159. Repealed. Pub. L. 91–482, §1(a), Oct. 21, 1970, 84 Stat. 1082\]
 
-Section, added Pub. L. 85–56, title XXII, §2201(31)(C), June 17, 1957, 71 Stat. 161, provided for a pension to disabled naval enlisted personnel serving 20 years or more,equal to one-half the pay of enlisted man's rating at the time of his discharge.
+Section, added Pub. L. 85–56, title XXII, §2201(31)(C), June 17, 1957, 71 Stat. 161, provided for a pension to disabled naval enlisted personnel serving 20 years or more, equal to one-half the pay of enlisted man's rating at the time of his discharge.
 
 #### Pension Continuation Provision
 

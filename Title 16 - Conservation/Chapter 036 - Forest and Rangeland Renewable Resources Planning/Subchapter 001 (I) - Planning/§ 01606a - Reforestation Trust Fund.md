@@ -44,15 +44,15 @@ In subsec. (c)(2)(A), “chapter 31 of title 31” substituted for “the Second
 
 #### Amendments
 
-1997—Subsec. (d)(1). Pub. L. 105–83 inserted before semicolon “and other forest stand improvement activities to enhance forest health and reduce hazardous fuel loads of forest stands in the National Forest System”.
+<b>1997</b>—Subsec. (d)(1). Pub. L. 105–83 inserted before semicolon “and other forest stand improvement activities to enhance forest health and reduce hazardous fuel loads of forest stands in the National Forest System”.
 
-1988—Subsec. (b)(1). Pub. L. 100–418 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to the limitation in paragraph (2), the Secretary of the Treasury shall transfer to the Trust Fund an amount equal to the sum of the tariffs received in the Treasury after September 30, 1979, under subparts A and B of part 1 of schedule 2 of the Tariff Schedules of the United States (19 U.S.C. 1202) and under part 3 of such schedule.”
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–418 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to the limitation in paragraph (2), the Secretary of the Treasury shall transfer to the Trust Fund an amount equal to the sum of the tariffs received in the Treasury after September 30, 1979, under subparts A and B of part 1 of schedule 2 of the Tariff Schedules of the United States (19 U.S.C. 1202) and under part 3 of such schedule.”
 
-1985—Subsec. (d). Pub. L. 99–190 amended subsec. (d) generally, substituting provisions authorizing the Secretary to obligate available sums in the Trust Fund, for provisions requiring the Secretary to expend all available amounts in each of fiscal years 1983, 1984, and 1985.
+<b>1985</b>—Subsec. (d). Pub. L. 99–190 amended subsec. (d) generally, substituting provisions authorizing the Secretary to obligate available sums in the Trust Fund, for provisions requiring the Secretary to expend all available amounts in each of fiscal years 1983, 1984, and 1985.
 
 Subsec. (e). Pub. L. 99–190 struck out subsec. (e) which related to sense of Congress with respect to disposition of unexpended funds.
 
-1983—Subsec. (b)(1). Pub. L. 97–424, §422(b), struck out “and before October 1, 1985,” after “September 30, 1979”.
+<b>1983</b>—Subsec. (b)(1). Pub. L. 97–424, §422(b), struck out “and before October 1, 1985,” after “September 30, 1979”.
 
 Subsec. (d). Pub. L. 97–424, §422(a), substituted provisions relating to fiscal years 1983 through 1985 for provision that directed that for each of the first 5 fiscal years beginning after Sept. 30, 1980, there was authorized after that date to be appropriated to the Secretary of Agriculture, out of any amounts in the Trust Fund, an amount equal to the sum of the amount by which the sum estimated by the Secretary of Agriculture for the fiscal year under section 1601(d)(2) of this title to be necessary for reforestation and other treatment of acreage, as set forth in the report transmitted by the Secretary to the Congress under that section for the fiscal year, exceeded the sum of the amounts appropriated for the fiscal year under the authorization contained in section 1601(d)(3) of this title and under any other provision of law to carry out the same purpose; and such sums as were determined by the Secretary of Agriculture to be properly allocable to administrative costs of the Federal Government incurred for the fiscal year in connection with the reforestation program carried out under this chapter.
 

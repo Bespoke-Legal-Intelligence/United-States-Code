@@ -6,7 +6,7 @@ Except as otherwise specifically provided, nothing in this subchapter shall be c
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 5037 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5037 of this title as this section.
 
-1984—Pub. L. 98–528 inserted “or acquired” after “constructed”.
+<b>1984</b>—Pub. L. 98–528 inserted “or acquired” after “constructed”.
 

@@ -16,5 +16,5 @@ In exercising his authority to acquire property by exchange, the Secretary may a
 
 #### Amendments
 
-1970—Pub. L. 91–223 substituted introductory “The” for “Except as provided in section 459c–3 of this title, the”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–223 substituted introductory “The” for “Except as provided in section 459c–3 of this title, the”.
 

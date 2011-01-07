@@ -1,18 +1,18 @@
 ### §203. Organization of Service
 
-The Service shall consist of (1) the Office of the Surgeon General, (2) the National Institutes of Health, (3) the Bureau of Medical Services, and <sup>1</sup> (4) the Bureau of State Services, and <sup>2</sup> the Agency for Healthcare Research and Quality. The Secretary is authorized and directed to assign to the Office of the Surgeon General,<sup>3</sup> to the National Institutes of Health, to the Bureau of Medical Services, and to the Bureau of State Services, respectively, the several functions of the Service, and to establish within them such divisions, sections, and other units as he may find necessary; and from time to time abolish, transfer, and consolidate divisions, sections, and other units and assign their functions and personnel in such manner as he may find necessary for efficient operation of the Service. No division shall be established, abolished, or transferred, and no divisions shall be consolidated, except with the approval of the Secretary. The National Institutes of Health shall be administered as a part of the field service. The Secretary may delegate to any officer or employee of the Service such of his powers and duties under this chapter, except the making of regulations, as he may deem necessary or expedient.
+The Service shall consist of (1) the Office of the Surgeon General, (2) the National Institutes of Health, (3) the Bureau of Medical Services, and <sup>1</sup> (4) the Bureau of State Services, and <sup>2</sup> the Agency for Healthcare Research and Quality. The Secretary is authorized and directed to assign to the Office of the Surgeon General,<sup>3</sup> to the National Institutes of Health, to the Bureau of Medical Services, and to the Bureau of State Services, respectively, the several functions of the Service, and to establish within them suchdivisions, sections, and other units as he may find necessary; and from time to time abolish, transfer, and consolidate divisions, sections, and other units and assign their functions and personnel in such manner as he may find necessary for efficient operation of the Service. No division shall be established, abolished, or transferred, and no divisions shall be consolidated, except with the approval of the Secretary. The National Institutes of Health shall be administered as a part of the field service. The Secretary may delegate to any officer or employee of the Service such of his powers and duties under this chapter, except the making of regulations, as he may deem necessary or expedient.
 
 (July 1, 1944, ch. 373, title II, §202, 58 Stat. 683; June 16, 1948, ch. 481, §6(b), 62 Stat. 469; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 103–43, title XX, §2008(g), June 10, 1993, 107 Stat. 212; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670.)
 
 #### Amendments
 
-1999—Pub. L. 106–129 substituted “Agency for Healthcare Research and Quality” for “Agency for Health Care Policy and Research”.
+<b>1999</b>—Pub. L. 106–129 substituted “Agency for Healthcare Research and Quality” for “Agency for Health Care Policy and Research”.
 
-1993—Pub. L. 103–43, §2008(g)(2), inserted “, and the Agency for Health Care Policy and Research” in first sentence.
+<b>1993</b>—Pub. L. 103–43, §2008(g)(2), inserted “, and the Agency for Health Care Policy and Research” in first sentence.
 
 Pub. L. 103–43, §2008(g)(1), which directed the amendment of this section by striking “Surgeon General” the second and subsequent times that such term appears and inserting “Secretary”, was executed by making the substitution before “is authorized and directed” and before “may delegate to any officer” and by leaving unchanged “Surgeon General” in the phrase “assign to the Office of the Surgeon General” in second sentence, to reflect the probable intent of Congress.
 
-1948—Act June 16, 1948, substituted “National Institutes of Health” for “National Institute of Health” in cl. (2).
+<b>1948</b>—Act June 16, 1948, substituted “National Institutes of Health” for “National Institute of Health” in cl. (2).
 
 #### Transfer of Functions
 

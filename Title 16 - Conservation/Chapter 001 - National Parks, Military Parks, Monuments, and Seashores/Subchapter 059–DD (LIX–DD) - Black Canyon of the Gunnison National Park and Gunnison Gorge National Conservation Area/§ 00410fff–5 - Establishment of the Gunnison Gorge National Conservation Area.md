@@ -76,17 +76,11 @@ The Secretary may make revisions to the boundary of the Conservation Area follow
 
 #### References in Text
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (b)(2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
-
-The public land laws, referred to in subsec. (c), are classified generally to Title 43, Public Lands.
-
-The mining laws and the mineral leasing laws, referred to in subsec. (c), are classified generally to Title 30, Mineral Lands and Mining.
-
-Geothermal leasing laws, referred to in subsec. (c), are classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (b)(2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–128 designated existing provisions as par. (1) and added par. (2).
+<b>2003</b>—Subsec. (a). Pub. L. 108–128 designated existing provisions as par. (1) and added par. (2).
 
 #### Change of Name
 

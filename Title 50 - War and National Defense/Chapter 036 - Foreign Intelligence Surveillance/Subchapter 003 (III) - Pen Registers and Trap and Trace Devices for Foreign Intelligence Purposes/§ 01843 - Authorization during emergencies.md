@@ -18,7 +18,7 @@ A determination under this subsection is a reasonable determination by the Attor
 
 #### (c) Effect of absence of order
 
-(1) In the absence of an order applied for under subsection (a)(2) of this section approving the installation and use of a pen register or trap and trace device authorized under this section, the installation and use of the pen register or trapand trace device, as the case may be, shall terminate at the earlier of—
+(1) In the absence of an order applied for under subsection (a)(2) of this section approving the installation and use of a pen register or trap and trace device authorized under this section, the installation and use of the pen register or trap and trace device, as the case may be, shall terminate at the earlier of—
 
 &emsp;(A) when the information sought is obtained;
 
@@ -32,9 +32,9 @@ A determination under this subsection is a reasonable determination by the Attor
 
 #### Amendments
 
-2008—Subsecs. (a)(2), (c)(1)(C). Pub. L. 110–261 substituted “7 days” for “48 hours”.
+<b>2008</b>—Subsecs. (a)(2), (c)(1)(C). Pub. L. 110–261 substituted “7 days” for “48 hours”.
 
-2001—Subsec. (a). Pub. L. 107–56, §214(b)(1), substituted “foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “foreign intelligence information or information concerning international terrorism” in introductory provisions.
+<b>2001</b>—Subsec. (a). Pub. L. 107–56, §214(b)(1), substituted “foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “foreign intelligence information or information concerning international terrorism” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 107–56, §214(b)(2), substituted “foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “foreign intelligence information or information concerning international terrorism”.
 

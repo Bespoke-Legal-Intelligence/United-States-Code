@@ -22,19 +22,19 @@ Section 38(a)(1) of the Arms Export Control Act, referred to in par. (1), is cla
 
 #### Amendments
 
-1997—Par. (1). Pub. L. 105–85, in second sentence, substituted “other nonlethal items of military equipment which are not designated as significant military equipment on the United States Munitions List promulgated” for “other items of military equipment not designated as part of the United States Munitions List”.
+<b>1997</b>—Par. (1). Pub. L. 105–85, in second sentence, substituted “other nonlethal items of military equipment which are not designated as significant military equipment on the United States Munitions List promulgated” for “other items of military equipment not designated as part of the United States Munitions List”.
 
-1994—Par. (1). Pub. L. 103–337, §1317(h)(1), inserted “(including airlift)” after “transportation”, “calibration services,” after “maintenance services,”, and “Such term includes temporary use of general purpose vehicles and other items of military equipment not designated as part of the United States Munitions List pursuant to section 38(a)(1) of the Arms Export Control Act.” at end.
+<b>1994</b>—Par. (1). Pub. L. 103–337, §1317(h)(1), inserted “(including airlift)” after “transportation”, “calibration services,” after “maintenance services,”, and “Such term includes temporary use of general purpose vehicles and other items of military equipment not designated as part of the United States Munitions List pursuant to section 38(a)(1) of the Arms Export Control Act.” at end.
 
 Par. (4). Pub. L. 103–337, §1317(h)(2), added par. (4).
 
-1989—Pub. L. 101–189 substituted “this subchapter” for “this chapter” in introductory provisions.
+<b>1989</b>—Pub. L. 101–189 substituted “this subchapter” for “this chapter” in introductory provisions.
 
-1987—Pub. L. 100–26 inserted “The term” after each par. designation and struck out uppercase letter of first word after first quotation marks in pars. (1) and (3) and substituted lowercase letter.
+<b>1987</b>—Pub. L. 100–26 inserted “The term” after each par. designation and struck out uppercase letter of first word after first quotation marks in pars. (1) and (3) and substituted lowercase letter.
 
-1986—Par. (3). Pub. L. 99–661 added par. (3).
+<b>1986</b>—Par. (3). Pub. L. 99–661 added par. (3).
 
-1985—Pub. L. 99–145 renumbered section 2331 of this title as this section.
+<b>1985</b>—Pub. L. 99–145 renumbered section 2331 of this title as this section.
 
 #### Effective Date of 1994 Amendment
 

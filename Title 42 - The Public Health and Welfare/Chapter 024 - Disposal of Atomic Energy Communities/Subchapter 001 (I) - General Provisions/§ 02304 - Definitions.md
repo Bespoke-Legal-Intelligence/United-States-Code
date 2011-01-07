@@ -50,7 +50,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 #### Amendments
 
-1962—Subsec. (b). Pub. L. 87–719, §1, added cl. (3).
+<b>1962</b>—Subsec. (b). Pub. L. 87–719, §1, added cl. (3).
 
 Subsec. (i). Pub. L. 87–719, §2, included in definition of “project area” the County of Los Alamos, New Mexico,excluding land under administrative control of the National Park Service.
 

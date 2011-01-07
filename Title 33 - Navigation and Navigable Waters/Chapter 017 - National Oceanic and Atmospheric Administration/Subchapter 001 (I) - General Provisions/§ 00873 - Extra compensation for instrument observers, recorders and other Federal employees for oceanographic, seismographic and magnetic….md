@@ -10,9 +10,9 @@ The Secretary of Commerce is authorized to pay extra compensation to members of 
 
 #### Amendments
 
-1964—Pub. L. 88–448 inserted “and without regard to section 301 of the Dual Compensation Act”.
+<b>1964</b>—Pub. L. 88–448 inserted “and without regard to section 301 of the Dual Compensation Act”.
 
-1960—Pub. L. 86–397 substituted “Secretary of Commerce” for “Coast and Geodetic Survey” and “instrument observer or recorder” for “bombers or fathometer readers,” inserted reference to employees tending magnetographs, and authorized Secretary to establish rates of compensation.
+<b>1960</b>—Pub. L. 86–397 substituted “Secretary of Commerce” for “Coast and Geodetic Survey” and “instrument observer or recorder” for “bombers or fathometer readers,” inserted reference to employees tending magnetographs, and authorized Secretary to establish rates of compensation.
 
 #### Effective Date of 1964 Amendment
 

@@ -10,7 +10,7 @@ The 24-month periods referred to in subsection (a) of this section are the 24-mo
 
 #### (c) Information required to be reported
 
-(1) The information required by subsection (a) of this section to be reported to the Commission, with respect to each civil action described in subsection (a) of this section, shall include and in addition to any voluntary information provided under paragraph (2) shall be limited to the following:
+(1) The information required by subsection (a) of this section to be reported to the Commission, with respect to each civil action described in subsection (a) of this section, shall includeand in addition to any voluntary information provided under paragraph (2) shall be limited to the following:
 
 &emsp;(A) The name and address of the manufacturer.
 

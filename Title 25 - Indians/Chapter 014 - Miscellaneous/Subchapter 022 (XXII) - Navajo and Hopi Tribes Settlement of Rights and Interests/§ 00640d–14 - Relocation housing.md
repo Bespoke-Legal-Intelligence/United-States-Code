@@ -8,7 +8,7 @@ The Commissioner shall purchase from the head of each household whose household 
 
 In addition to the payments made pursuant to subsection (a) of this section, the Commissioner shall:
 
-&emsp;(1) reimburse each head of a household whose household is required to relocate pursuant to this subchapter for the actual reasonable moving expenses of the household as if the household members were displaced persons under section 202 of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (84 Stat. 1894) \[42 U.S.C. 4622\];
+&emsp;(1) reimburse each head of a household whose household is required to relocate pursuant to this subchapter for the actual reasonable moving expenses of the household as if the household members were displaced personsunder section 202 of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (84 Stat. 1894) \[42 U.S.C. 4622\];
 
 &emsp;(2) pay to each head of a household whose household is required to relocate pursuant to this subchapter an amount which, when added to the fair market value of the habitation and improvements purchased under subsection (a) of this section, equals the reasonable cost of a decent, safe, and sanitary replacement dwelling adequate to accommodate such household: <i>Provided</i>, That the additional payment authorized by this paragraph (2) shall not exceed $17,000 for a household of three or less and not more than $25,000 for a household of four or more, except that the Commissioner may, after consultation with the Secretary of Housing and Urban Development, annually increase or decrease such limitations to reflect changes in housing development and construction costs, other than costs of land, during the preceding year: <i>Provided further</i>, That the additional payment authorized by this subsection shall be made only to a head of a household required to relocate pursuant to this subchapter who purchases and occupies such replacement dwelling not later than the end of the two-year period beginning on the date on which he receives from the Commissioner final payment for the habitation and improvements purchased under subsection (a) of this section, or on the date on which such household moves from such habitation, whichever is the later date. The payments made pursuant to this paragraph (2) shall be used only for the purpose of obtaining decent, safe, and sanitary replacement dwellings adequate to accommodate the households relocated pursuant to this subchapter.
 
@@ -24,7 +24,7 @@ The Commissioner shall be responsible for the provision of housing for each hous
 
 &emsp;(2) Should any head of household wish to purchase or have constructed a dwelling which the Commissioner determines is decent, safe, sanitary, and adequate to accommodate the household, the amounts payable with respect to such household under paragraph (2) of subsection (b) of this section and under subsection (a) of this section shall be paid to such head of household in connection with such purchase or construction in a manner which the Commissioner determines will assure the use of the funds for such purpose.
 
-&emsp;(3) Should any head of household not make timely arrangements for relocation housing, or should any head of household elect and enter into an agreement to have the Commissioner construct or acquire a home for the household, the Commissioner may use theamounts payable with respect to such household under paragraph (2) of subsection (b) of this section and under subsection (a) of this section for the construction or acquisition (including enlargement or rehabilitation if necessary) of a home and related facilities for such household: <i>Provided</i>, That, the Commissioner may combine the funds for any number of such households into one or more accounts from which the costs of such construction or acquisition may be paid on a project basis and the funds in such account or accounts shall remain available until expended: <i>Provided further</i>, That the title to each home constructed or acquired by the Commissioner pursuant to this paragraph shall be vested in the head of the household for which it was constructed or acquired upon occupancy by such household, but this shall not preclude such home being located on land held in trust by the United States.
+&emsp;(3) Should any head of household not make timely arrangements for relocation housing, or should any head of household elect and enter into an agreement to have the Commissioner construct or acquire a home for the household, the Commissioner may use the amounts payable with respect to such household under paragraph (2) of subsection (b) of this section and under subsection (a) of this section for the construction or acquisition (including enlargement or rehabilitation if necessary) of a home and related facilities for such household: <i>Provided</i>, That, the Commissioner may combine the funds for any number of such households into one or more accounts from which the costs of such construction or acquisition may be paid on a project basis and the funds in such account or accounts shall remain available until expended: <i>Provided further</i>, That the title to each home constructed or acquired by the Commissioner pursuant to this paragraph shall be vested in the head of the household for which it was constructed or acquired upon occupancy by such household, but this shall not preclude such home being located on land held in trust by the United States.
 
 #### (e) Disposal of acquired dwellings and improvements
 
@@ -32,7 +32,7 @@ The Commissioner is authorized to dispose of dwellings and other improvements ac
 
 #### (f) Preferential treatment for heads of households of Navajo Tribe evicted from Hopi Reservation by judicial decision; restriction
 
-Notwithstanding any other provision of law to the contrary, the Commissioner shall on a preferential basis provide relocation assistance and relocation housing under subsections (b), (c), and (d) of this section to the head of each household of members of the Navajo Tribe who were evicted from the Hopi Indian Reservation as a consequence of the decision in the case of United States v. Kabinto (456 F.2d 1087 (1972)): <i>Provided</i>, That such heads of households have not already received equivalent assistance from Federal agencies.
+Notwithstanding any other provision of law to the contrary, the Commissioner shall on a preferential basis provide relocation assistance and relocation housing under subsections (b), (c), and (d) of this section to the head of each household of members of the Navajo Tribe who wereevicted from the Hopi Indian Reservation as a consequence of the decision in the case of United States v. Kabinto (456 F.2d 1087 (1972)): <i>Provided</i>, That such heads of households have not already received equivalent assistance from Federal agencies.
 
 #### (g) Appeals of eligibility determinations
 
@@ -50,11 +50,11 @@ The United States Housing Act of 1937, referred to in subsec. (d)(1), is act Sep
 
 #### Amendments
 
-1988—Subsecs. (a) to (f). Pub. L. 100–666, §4(b), substituted “Commissioner” for “Commission” wherever appearing.
+<b>1988</b>—Subsecs. (a) to (f). Pub. L. 100–666, §4(b), substituted “Commissioner” for “Commission” wherever appearing.
 
 Subsec. (g). Pub. L. 100–666, §10, added subsec. (g).
 
-1980—Subsec. (f). Pub. L. 96–305 added subsec. (f).
+<b>1980</b>—Subsec. (f). Pub. L. 96–305 added subsec. (f).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

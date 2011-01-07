@@ -1,7 +1,5 @@
 ### SUBCHAPTER I—STANDARDS AND OBLIGATIONS OF RESIDENCY IN FEDERALLY ASSISTED HOUSING
 
-<i><sup>1</sup></i><i> So in original. Probably should be “purposes of section”.</i>
-
 
 ---
 

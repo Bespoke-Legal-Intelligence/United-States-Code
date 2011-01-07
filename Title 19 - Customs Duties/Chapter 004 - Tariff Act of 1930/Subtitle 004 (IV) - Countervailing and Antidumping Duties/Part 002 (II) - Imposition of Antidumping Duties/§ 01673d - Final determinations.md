@@ -146,9 +146,9 @@ The administering authority shall establish procedures for the correction of min
 
 #### Amendments
 
-1996—Subsec. (a)(3)(A)(i). Pub. L. 104–295 amended Pub. L. 103–465, §214(b)(2)(A)(i). See 1994 Amendment note below.
+<b>1996</b>—Subsec. (a)(3)(A)(i). Pub. L. 104–295 amended Pub. L. 103–465, §214(b)(2)(A)(i). See 1994 Amendment note below.
 
-1994—Subsec. (a)(1). Pub. L. 103–465, §233(a)(5)(V), substituted “subject merchandise” for “merchandise which was the subject of the investigation”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–465, §233(a)(5)(V), substituted “subject merchandise” for “merchandise which was the subject of the investigation”.
 
 Subsec. (a)(3)(A)(i). Pub. L. 103–465, §214(b)(2)(A)(i), as amended by Pub. L. 104–295, inserted “and material injury by reason of dumped imports” after “history of dumping” and substituted “subject merchandise” for “class or kind of merchandise which is the subject of the investigation”.
 
@@ -172,11 +172,11 @@ Subsec. (c)(3)(B). Pub. L. 103–465, §219(c)(8), substituted “1673b(d)(1)(B)
 
 Subsec. (c)(5). Pub. L. 103–465, §219(b)(2), added par. (5).
 
-1988—Subsec. (b)(4)(A). Pub. L. 100–418, §1324(b)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “If the finding of the administering authority under subsection (a)(2) of this section is affirmative, then the final determination of the Commission shall include a finding as to whether the material injury is by reason of massive imports described in subsection (a)(3) of this section to an extent that, in order to prevent such material injury from recurring, it is necessary to impose the duty imposed by section 1673 of this title retroactively on those imports.”
+<b>1988</b>—Subsec. (b)(4)(A). Pub. L. 100–418, §1324(b)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “If the finding of the administering authority under subsection (a)(2) of this section is affirmative, then the final determination of the Commission shall include a finding as to whether the material injury is by reason of massive imports described in subsection (a)(3) of this section to an extent that, in order to prevent such material injury from recurring, it is necessary to impose the duty imposed by section 1673 of this title retroactively on those imports.”
 
 Subsec. (e). Pub. L. 100–418, §1333(a), added subsec. (e).
 
-1984—Subsec. (a)(3). Pub. L. 98–573, §605(b)(1), inserted provision that such findings may be affirmative even though the preliminary determination under section 1673b(e)(1) of this title was negative.
+<b>1984</b>—Subsec. (a)(3). Pub. L. 98–573, §605(b)(1), inserted provision that such findings may be affirmative even though the preliminary determination under section 1673b(e)(1) of this title was negative.
 
 Subsec. (b)(1). Pub. L. 98–573, §602(c), inserted “, or sales (or the likelihood of sales) for importation,” in provisions after subpar. (B).
 

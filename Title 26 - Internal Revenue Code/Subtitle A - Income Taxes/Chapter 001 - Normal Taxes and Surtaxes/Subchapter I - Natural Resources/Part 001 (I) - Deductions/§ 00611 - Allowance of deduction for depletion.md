@@ -30,9 +30,9 @@ In the case of mines, oil and gas wells, other natural deposits, and timber, the
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1958—Subsec. (d)(4). Pub. L. 85–866 substituted “devisees” for “devises”.
+<b>1958</b>—Subsec. (d)(4). Pub. L. 85–866 substituted “devisees” for “devises”.
 
 #### Effective Date of 1958 Amendment
 

@@ -46,7 +46,7 @@ This Act, referred to in subsec. (c)(2), probably means Pub. L. 95–591, Nov. 4
 
 #### Amendments
 
-1984—Subsec. (c)(1). Pub. L. 98–497 substituted “National Archives and Records Administration” for “National Archives and Records Service of the General Services Administration”.
+<b>1984</b>—Subsec. (c)(1). Pub. L. 98–497 substituted “National Archives and Records Administration” for “National Archives and Records Service of the General Services Administration”.
 
 #### Effective Date of 1984 Amendment
 

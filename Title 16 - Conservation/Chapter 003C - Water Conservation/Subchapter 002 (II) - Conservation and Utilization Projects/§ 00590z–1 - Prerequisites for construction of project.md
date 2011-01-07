@@ -36,13 +36,13 @@ The head “Water Conservation Utility Projects” in the Interior Department Ap
 
 #### Amendments
 
-1943—Subsec. (a)(vii). Act July 16, 1943, §2, inserted “Secretary after consultation with the” after “as recommended”.
+<b>1943</b>—Subsec. (a)(vii). Act July 16, 1943, §2, inserted “Secretary after consultation with the” after “as recommended”.
 
 Subsec. (b). Act July 16, 1943, §3, amended subsec. (b) generally.
 
 Subsec. (c). Act July 16, 1943, §4, added subsec. (c).
 
-1940—Act Oct. 14, 1940, reenacted section.
+<b>1940</b>—Act Oct. 14, 1940, reenacted section.
 
 #### Change of Name
 

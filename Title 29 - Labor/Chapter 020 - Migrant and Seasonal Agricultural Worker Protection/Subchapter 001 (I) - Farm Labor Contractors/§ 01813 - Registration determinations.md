@@ -12,7 +12,7 @@ In accordance with regulations, the Secretary may refuse to issue or renew, or m
 
 &emsp;(4) has failed—
 
-&emsp;&emsp;(A) to pay any court judgment obtained by the Secretary or any other person under this chapter or any regulation under this chapteror under the Farm Labor Contractor Registration Act of 1963 \[7 U.S.C. 2041 et seq.\] or any regulation under such Act, or
+&emsp;&emsp;(A) to pay any court judgment obtained by the Secretary or any other person under this chapter or any regulation under this chapter or under the Farm Labor Contractor Registration Act of 1963 \[7 U.S.C. 2041 et seq.\] or any regulation under such Act, or
 
 &emsp;&emsp;(B) to comply with any final order issued by the Secretary as a result of a violation of this chapter or any regulation under this chapter or a violation of the Farm Labor Contractor Registration Act of 1963 or any regulation under such Act;
 
@@ -42,7 +42,7 @@ The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (a)(4
 
 #### Amendments
 
-1986—Subsec. (a)(6). Pub. L. 99–603 added par. (6).
+<b>1986</b>—Subsec. (a)(6). Pub. L. 99–603 added par. (6).
 
 #### Effective Date of 1986 Amendment
 

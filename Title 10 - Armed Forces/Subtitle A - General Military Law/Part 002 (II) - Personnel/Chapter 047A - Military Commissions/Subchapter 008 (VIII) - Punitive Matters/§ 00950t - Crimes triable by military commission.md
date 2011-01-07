@@ -8,7 +8,7 @@ Murder of protected persons.—Any person subject to this chapter who intentiona
 
 &emsp;(2)
 
-Attacking civilians.—Any person subject to this chapter who intentionally engages in an attack upon a civilian population assuch, or individual civilians not taking active part in hostilities, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
+Attacking civilians.—Any person subject to this chapter who intentionally engages in an attack upon a civilian population as such, or individual civilians not taking active part in hostilities, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
 &emsp;(3)
 
@@ -28,7 +28,7 @@ Denying quarter.—Any person subject to this chapter who, with effective comman
 
 &emsp;(7)
 
-Taking hostages.—Any person subject to this chapter who, having knowingly seized or detained one or more persons, threatens to kill, injure, or continue to detain such person or persons with the intent of compelling any nation, person other than the hostage, or group of persons to act or refrain from acting as an explicit or implicit condition for the safety or release of such person or persons, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
+Taking hostages.—Any person subject to this chapter who, having knowingly seized or detained one or more persons, threatens to kill, injure, or continue to detain such person or persons with the intent of compelling any nation, person other than the hostage, or group of persons to act or refrain from actingas an explicit or implicit condition for the safety or release of such person or persons, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
 &emsp;(8)
 
@@ -136,7 +136,7 @@ Material support or resources defined.—In this paragraph, the term “material
 
 &emsp;(26)
 
-Wrongfully aiding the enemy.—Any person subject to this chapter who, in breachof an allegiance or duty to the United States, knowingly and intentionally aids an enemy of the United States, or one of the co-belligerents of the enemy, shall be punished as a military commission under this chapter may direct.
+Wrongfully aiding the enemy.—Any person subject to this chapter who, in breach of an allegiance or duty to the United States, knowingly and intentionally aids an enemy of the United States, or one of the co-belligerents of the enemy, shall be punished as a military commission under this chapter may direct.
 
 &emsp;(27)
 
@@ -160,7 +160,7 @@ Effect of consummation.—Any person subject to this chapter may be convicted of
 
 &emsp;(29)
 
-Conspiracy.—Any person subject to this chapter who conspires to commit one or more substantive offenses triable by military commission under this subchapter, and who knowingly does any overt act to effect the object of the conspiracy, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
+Conspiracy.—Any person subject to this chapter who conspires to commit one or more substantive offenses triable by military commission under this subchapter, and who knowingly does any overt act to effect the object of the conspiracy, shall be punished, if death results to one or more of the victims, by deathor such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
 &emsp;(30)
 
@@ -187,4 +187,10 @@ Section 950u, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2625,
 Section 950v, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2625, related to definitions, construction, and crimes triable by military commissions.
 
 Section 950w, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2630, related to perjury, obstruction of justice, and contempt.
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by “be”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a period.</i>
 

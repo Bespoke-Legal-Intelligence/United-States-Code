@@ -2,7 +2,7 @@
 
 #### (a) Authority to approve loan guarantees
 
-Subject to the provisions of this section and consistent with the purpose of this chapter, the Board may approve loan guarantees under this chapter.
+Subject to the provisions of this section and consistent with the purpose of this chapter, theBoard may approve loan guarantees under this chapter.
 
 #### (b) Regulations
 
@@ -28,7 +28,7 @@ Subject to the provisions of this section and consistent with the purpose of thi
 
 #### (3) Construction
 
-&emsp;(A) Nothing in this chapter shall be construed to prohibit the Board from requiring, to the extent and under circumstances considered appropriate by the Board, that affiliatesof an applicant be subject to certain obligations of the applicant as a condition to the approval or maintenance of a loan guarantee under this chapter.
+&emsp;(A) Nothing in this chapter shall be construed to prohibit the Board from requiring, to the extent and under circumstances considered appropriate by the Board, that affiliates of an applicant be subject to certain obligations of the applicant as a condition to the approval or maintenance of a loan guarantee under this chapter.
 
 &emsp;(B) If any provision of this chapter or the application of such provision to any person or entity or circumstance is held to be invalid by a court of competent jurisdiction, the remainder of this chapter, or the application of such provision to such person or entity or circumstance other than those as to which it is held invalid, shall not be affected thereby.
 
@@ -88,7 +88,7 @@ The Board may approve loan guarantees under this chapter only to the extent prov
 
 &emsp;&emsp;&emsp;(i) to the best of its knowledge upon due inquiry, the assets, facilities, or equipment covered by the loan will be utilized economically and efficiently;
 
-&emsp;&emsp;&emsp;(ii) the terms, conditions, security, and schedule and amount of repayments ofprincipal and the payment of interest with respect to the loan protect the financial interests of the United States and are reasonable;
+&emsp;&emsp;&emsp;(ii) the terms, conditions, security, and schedule and amount of repayments of principal and the payment of interest with respect to the loan protect the financial interests of the United States and are reasonable;
 
 &emsp;&emsp;&emsp;(iii) the value of collateral provided by an applicant is at least equal to the unpaid balance of the loan amount covered by the loan guarantee (the “Amount” for purposes of this clause); and if the value of collateral provided by an applicant is less than the Amount, the additional required collateral is provided by any affiliate of the applicant;
 
@@ -146,7 +146,7 @@ The Board may approve loan guarantees under this chapter only to the extent prov
 
 #### (2) Guarantee level
 
-&emsp;A loan guarantee issued under this chapter may not exceed an amount equal to 80 percent of a loan meeting in its entirety the requirements of subsection (d)(2)(A) of this section. If only a portion of a loan meets the requirements of that subsection, the Board shall determine that percentage of the loan meeting such requirements (the “applicable portion”) and may issue a loan guarantee in an amount not exceeding 80 percent of the applicable portion.
+&emsp;A loan guarantee issued under this chapter may not exceed an amount equal to 80 percentof a loan meeting in its entirety the requirements of subsection (d)(2)(A) of this section. If only a portion of a loan meets the requirements of that subsection, the Board shall determine that percentage of the loan meeting such requirements (the “applicable portion”) and may issue a loan guarantee in an amount not exceeding 80 percent of the applicable portion.
 
 #### (g) Underwriting criteria
 
@@ -208,13 +208,13 @@ Except as otherwise provided in subsection (j) of this section, the provisions o
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, and was translated as reading “this title”. See References in Text note set out under section 1101 of this title.
+This chapter, referred to in text, was in the original “this Act”, and was translated as reading “this title”.See References in Text note set out under section 1101 of this title.
 
 #### Amendments
 
-2008—Subsec. (d)(2)(D)(iii). Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Office of Federal Housing Enterprise Oversight, the Federal Housing Finance Board”.
+<b>2008</b>—Subsec. (d)(2)(D)(iii). Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Office of Federal Housing Enterprise Oversight, the Federal Housing Finance Board”.
 
-2002—Subsec. (b)(1). Pub. L. 107–171, §6404(b)(1)(A), made technical amendments to references in original Act which appear in text as references to sections 1104 and 1109 of this title.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–171, §6404(b)(1)(A), made technical amendments to references in original Act which appear in text as references to sections 1104 and 1109 of this title.
 
 Subsec. (d)(1). Pub. L. 107–171, §6404(b)(1)(B), made technical amendment to reference in original Act which appears in text as a reference to section 1102 of this title.
 

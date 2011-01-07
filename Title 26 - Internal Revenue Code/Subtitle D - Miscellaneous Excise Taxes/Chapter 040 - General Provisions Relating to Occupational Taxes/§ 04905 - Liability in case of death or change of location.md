@@ -12,13 +12,13 @@ When any person who has paid the special tax for any trade or business dies, his
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–455, §§1904(a)(20), 1906(b)(13)(A), substituted “spouse or child” for “wife or child” and struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1904(a)(20), 1906(b)(13)(A), substituted “spouse or child” for “wife or child” and struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (b). Pub. L. 94–455, §1904(b)(8)(A), among other changes, struck out reference to section 4804(d) for registration in case of white phosphorous matches and references to subtitle F for other provisions relating to registration.
 
-1970—Subsec. (b)(1). Pub. L. 91–513 struck out references to narcotics and marihuana and to sections 4722 and 4753.
+<b>1970</b>—Subsec. (b)(1). Pub. L. 91–513 struck out references to narcotics and marihuana and to sections 4722 and 4753.
 
-1965—Subsec. (b)(1). Pub. L. 89–44 struck out “playing cards,” after “wagering,” and “4455,” after “4412,”.
+<b>1965</b>—Subsec. (b)(1). Pub. L. 89–44 struck out “playing cards,” after “wagering,” and “4455,” after “4412,”.
 
 #### Effective Date of 1970 Amendment
 
@@ -26,7 +26,7 @@ Amendment by Pub. L. 91–513 effective on first day of seventh calendar month t
 
 #### Effective Date of 1965 Amendment
 
-Section 701(c)(2) of Pub. L. 89–44 provided in part that: “The amendments made by section 402 \[repealing sections 4451 to 4457 of this title\] (relating to playing cards) and by subsections (c) of section 405 \[amending this section\] shall apply on and after the day after the date of the enactment of this Act \[June 21, 1965\].”
+Section 701(c)(2) of Pub. L. 89–44 provided in part that: “The amendments made by section 402 \[repealingsections 4451 to 4457 of this title\] (relating to playing cards) and by subsections (c) of section 405 \[amending this section\] shall apply on and after the day after the date of the enactment of this Act \[June 21, 1965\].”
 
 #### Savings Provision
 

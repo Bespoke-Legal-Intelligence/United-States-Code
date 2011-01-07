@@ -6,7 +6,7 @@ The Secretary of the Interior is authorized, in his discretion, to acquire by do
 
 #### Amendments
 
-1974—Pub. L. 93–477 substituted “acquire by donation, purchase, or exchange” for “accept in behalf of the United States donations of”, and “acquired” for “to be accepted”.
+<b>1974</b>—Pub. L. 93–477 substituted “acquire by donation, purchase, or exchange” for “accept in behalf of the United States donations of”, and “acquired” for “to be accepted”.
 
 #### Change of Name
 

@@ -14,7 +14,7 @@ The Secretary is authorized to supervise the payment of the unpaid minimum wages
 
 #### (d) Savings provisions
 
-In any action or proceeding commenced prior to, on, or after August 8, 1956, no employer shall be subject to any liability or punishment under this chapter or the Portal-to-Portal Act of 1947 \[29 U.S.C. 251 et seq.\] on account of his failure tocomply with any provision or provisions of this chapter or such Act (1) with respect to work heretofore or hereafter performed in a workplace to which the exemption in section 213(f) of this title is applicable, (2) with respect to work performed in Guam, the Canal Zone or Wake Island before the effective date of this amendment of subsection (d), or (3) with respect to work performed in a possession named in section 206(a)(3) <sup>1</sup> of this title at any time prior to the establishment by the Secretary, as provided therein, of a minimum wage rate applicable to such work.
+In any action or proceeding commenced prior to, on, or after August 8, 1956, no employer shall be subject to any liability or punishment under this chapter or the Portal-to-Portal Act of 1947 \[29 U.S.C. 251 et seq.\] on account of his failure to comply with any provision or provisions of this chapter or such Act (1) with respect to work heretofore or hereafter performed in a workplace to which the exemption in section 213(f) of this title is applicable, (2) with respect to work performed in Guam, the Canal Zone or Wake Island before the effective date of this amendment of subsection (d), or (3) with respect to work performed in a possession named in section 206(a)(3) <sup>1</sup> of this title at any time prior to the establishment by the Secretary, as provided therein, of a minimum wage rate applicable to such work.
 
 #### (e) Civil penalties for child labor violations
 
@@ -58,35 +58,35 @@ Section 206(a)(3) of this title, referred to in subsec. (d)(3), was repealed and
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–233 amended subsec. (e) generally. Prior to amendment, subsec. (e) related to civil penalties for child labor violations.
+<b>2008</b>—Subsec. (e). Pub. L. 110–233 amended subsec. (e) generally. Prior to amendment, subsec. (e) related to civil penalties for child labor violations.
 
-1996—Subsec. (e). Pub. L. 104–174 in first sentence substituted “of section 212 of this title or section 213(c)(5) of this title” for “of section 212 of this title” and “under section 212 of this title or section 213(c)(5) of this title” for “under that section”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–174 in first sentence substituted “of section 212 of this title or section 213(c)(5) of this title” for “of section 212 of this title” and “under section 212 of this title or section 213(c)(5) of this title” for “under that section”.
 
-1990—Subsec. (e). Pub. L. 101–508 struck out “or any person who repeatedly or willfully violates section 206 or 207 of this title” after “issued under that section,” in first sentence, substituted “not to exceed $10,000 for each employee who was the subject of such a violation” for “not to exceed $1,000 for each such violation” in first sentence, inserted after first sentence “Any person who repeatedly or willfully violates section 206 or 207 of this title shall be subject to a civil penalty of not to exceed $1,000 for each such violation.”, substituted “any penalty under this subsection” for “such penalty” wherever appearing except after “appropriateness of”, substituted “Except for civil penalties collected for violations of section 212 of this title, sums” for “Sums” in last sentence, and inserted at end “Civil penaltiescollected for violations of section 212 of this title shall be deposited in the general fund of the Treasury.”
+<b>1990</b>—Subsec. (e). Pub. L. 101–508 struck out “or any person who repeatedly or willfully violates section 206 or 207 of this title” after “issued under that section,” in first sentence, substituted “not to exceed $10,000 for each employee who was the subject of such a violation” for “not to exceed $1,000 for each such violation” in first sentence, inserted after first sentence “Any person who repeatedly or willfully violates section 206 or 207 of this title shall be subject to a civil penalty of not to exceed $1,000 for each such violation.”, substituted “any penalty under this subsection” for “such penalty” wherever appearing except after “appropriateness of”, substituted “Except for civil penalties collected for violations of section 212 of this title, sums” for “Sums” in last sentence, and inserted at end “Civil penalties collected for violations of section 212 of this title shall be deposited in the general fund of the Treasury.”
 
-1989—Subsec. (e). Pub. L. 101–157 inserted “or any person who repeatedly or willfully violates section 206 or 207 of this title” in introductory provisions and inserted “or a repeated or willful violation of section 215(a)(2) of this title” in par. (3).
+<b>1989</b>—Subsec. (e). Pub. L. 101–157 inserted “or any person who repeatedly or willfully violates section 206 or207 of this title” in introductory provisions and inserted “or a repeated or willful violation of section 215(a)(2) of this title” in par. (3).
 
-1977—Subsec. (b). Pub. L. 95–151, §10(a), (b), inserted provisions relating to violations of section 215(a)(3) of this title by employers, “(1)” after “section 217 of this title in which”, and cl. (2), and substituted “An action to recover the liability prescribed in either of the preceding sentences” for “Action to recover such liability”.
+<b>1977</b>—Subsec. (b). Pub. L. 95–151, §10(a), (b), inserted provisions relating to violations of section 215(a)(3) of this title by employers, “(1)” after “section 217 of this title in which”, and cl. (2), and substituted “An action to recover the liability prescribed in either of the preceding sentences” for “Action to recover such liability”.
 
 Subsec. (c). Pub. L. 95–151, §10(c), inserted “to recover the liability specified in the first sentence of such subsection” after “an action by or on behalf of any employee”.
 
-1974—Subsec. (b). Pub. L. 93–259, §6(d)(1), substituted in second sentence “maintained against any employer (including a public agency) in any Federal or State court” for “maintained in any court”.
+<b>1974</b>—Subsec. (b). Pub. L. 93–259, §6(d)(1), substituted in second sentence “maintained against any employer (including a public agency) in any Federal or State court” for “maintained in any court”.
 
 Subsec. (c). Pub. L. 93–259, §26, in revising first three sentences, reenacted first sentence, substituting “Secretary” for “Secretary of Labor”; included in second sentence provision for an action by the Secretary for liquidated damaged and deleted requirement of a written request by an employee claiming unpaid minimum wages or unpaid overtime compensation with the Secretary of Labor prior to an action by the Secretary and proviso prohibiting any action in any case involving an issue of law not settled finally by the courts and depriving courts of jurisdiction of any action or proceeding involving the issue of law not settled finally; and substituted third sentence “The right provided by subsection (b) of this section to bring by or on behalf of any employee and of any employees to become a party plaintiff to any such action shall terminate upon the filing of a complaint by the Secretary in an action under this subsection in which a recovery is sought of unpaid minimum wages or unpaid overtime compensation under sections 206 and 207 of this title or liquidated or other damages provided by this subsection owing to such employee by an employer liable under the provisions of subsection (b) of this section, unless such action is dismissed without prejudice on motion of the Secretary.” for “The consent of any employee to the bringing of any such action by the Secretary of Labor, unless such action is dismissed without prejudice on motion of the Secretary of Labor, shall constitute a waiver by such employee of any right of action he may have under subsection (b) of this section for such unpaid wages or unpaid overtime compensation and an additional equal amount as liquidated damages.”
 
 Subsec. (e). Pub. L. 93–259, §25(c), added subsec. (e).
 
-1966—Subsec. (c). Pub. L. 89–601 substituted “statutes of limitations” for “two-year statute of limitations”.
+<b>1966</b>—Subsec. (c). Pub. L. 89–601 substituted “statutes of limitations” for “two-year statute of limitations”.
 
-1961—Subsec. (b). Pub. L. 87–30 provided for termination of right of action upon commencement of injunction proceedings by the Secretary of Labor.
+<b>1961</b>—Subsec. (b). Pub. L. 87–30 provided for termination of right of action upon commencement of injunction proceedings by the Secretary of Labor.
 
-1957—Subsec. (d). Pub. L. 85–231 added cls. (1) and (2) and designated existing provisions as cl. (3).
+<b>1957</b>—Subsec. (d). Pub. L. 85–231 added cls. (1) and (2) and designated existing provisions as cl. (3).
 
-1956—Subsec. (d). Act Aug. 8, 1956, added subsec. (d).
+<b>1956</b>—Subsec. (d). Act Aug. 8, 1956, added subsec. (d).
 
-1949—Subsec. (c). Act Oct. 26, 1949, added subsec. (c).
+<b>1949</b>—Subsec. (c). Act Oct. 26, 1949, added subsec. (c).
 
-1947—Subsec. (b). Act May 14, 1947, struck out provisions relating to the designation by employee or employees of an agent or representative to maintain an action under this section for and on behalf of all employees similarly situated and inserted provisions relating to the requirement that no employee shall be a party plaintiff unless he gives his consent in writing and such consent is filed with the court.
+<b>1947</b>—Subsec. (b). Act May 14, 1947, struck out provisions relating to the designation by employee or employees of an agent or representative to maintain an action under this section for and on behalf of all employees similarly situated and inserted provisions relating to the requirement that no employee shall be a party plaintiff unless he gives his consent in writing and such consent is filed with the court.
 
 #### Effective Date of 2008 Amendment
 
@@ -128,11 +128,11 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Liability of State, Political Subdivision, or Interstate Governmental Agency for Violations Before April 15, 1986, Respecting any Employee Not Covered Under Special Enforcement Policy
 
-Pub. L. 99–150, §2(c)(1), Nov. 13, 1985, 99 Stat. 788, provided that: “No State, political subdivision of a State, or interstate governmental agency shall be liable under section 16 of the Fair Labor Standards Act of 1938 \[29 U.S.C. 216\] for a violation of section 6 \[29 U.S.C. 206\] (in the case of a territory or possession of the United States), 7 \[29 U.S.C. 207\], or 11(c) \[29 U.S.C. 211(c)\] (as it relates to section 7) of such Act occurring before April 15, 1986, with respect to any employee of the State, political subdivision, or agency who would not have been covered by such Act \[this chapter\] under the Secretary of Labor's special enforcement policy on January 1,1985, and published in sections 775.2 and 775.4 of title 29 of the Code of Federal Regulations.”
+Pub. L. 99–150, §2(c)(1), Nov. 13, 1985, 99 Stat. 788, provided that: “No State, political subdivision of a State, or interstate governmental agency shall be liable under section 16 of the Fair Labor Standards Act of 1938 \[29 U.S.C. 216\] for a violation of section 6 \[29 U.S.C. 206\] (in the case of a territory or possession of the United States), 7 \[29 U.S.C. 207\], or 11(c) \[29 U.S.C. 211(c)\] (as it relates to section 7) of such Act occurring before April 15, 1986, with respect to any employee of the State, political subdivision, or agency who would not have been covered by such Act \[this chapter\] under the Secretary of Labor's special enforcement policy on January 1, 1985, and published in sections 775.2 and 775.4 of title 29 of the Code of Federal Regulations.”
 
 #### Effect of Amendments by Public Law 99–150 on Public Agency Liability Respecting any Employee Covered Under Special Enforcement Policy
 
-Pub. L. 99–150, §7, Nov. 13, 1985, 99 Stat. 791, provided that: “The amendments made by this Act \[see Short Title of 1985 Amendment note set out under section 201 of this title\] shall not affect whether a public agency which is a State, political subdivision of a State, or an interstate governmental agency is liable under section 16 of the Fair Labor Standards Act of 1938 \[29 U.S.C. 216\] for a violation of section 6, 7, or 11 of such Act \[29 U.S.C. 206, 207, 211\] occurring before April 15, 1986, with respect to any employee of such public agency who would have been covered by such Act \[this chapter\] under the Secretary of Labor's special enforcement policy on January 1, 1985, and published in section 775.3 of title 29 of the Code of Federal Regulations.”
+Pub. L. 99–150, §7, Nov. 13, 1985, 99 Stat. 791, provided that: “The amendments made by this Act \[see ShortTitle of 1985 Amendment note set out under section 201 of this title\] shall not affect whether a public agency which is a State, political subdivision of a State, or an interstate governmental agency is liable under section 16 of the Fair Labor Standards Act of 1938 \[29 U.S.C. 216\] for a violation of section 6, 7, or 11 of such Act \[29 U.S.C. 206, 207, 211\] occurring before April 15, 1986, with respect to any employee of such public agency who would have been covered by such Act \[this chapter\] under the Secretary of Labor's special enforcement policy on January 1, 1985, and published in section 775.3 of title 29 of the Code of Federal Regulations.”
 
 #### Rules, Regulations, and Orders Promulgated With Regard to 1966 Amendments
 

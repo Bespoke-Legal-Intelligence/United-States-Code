@@ -22,9 +22,9 @@ This section \[section 51\] conforms section 3242 of title 18, U.S.C., with sect
 
 #### Amendments
 
-1976—Pub. L. 94–297 substituted provision setting out reference to offenses listed in first paragraph of and punishable under section 1153 of this title, for provision specifically enumerating the covered offenses.
+<b>1976</b>—Pub. L. 94–297 substituted provision setting out reference to offenses listed in first paragraph of and punishable under section 1153 of this title, for provision specifically enumerating the covered offenses.
 
-1966—Pub. L. 89–707 added carnal knowledge and assault with intent to commit rape as offenses cognizable within the exclusive jurisdiction of the United States when committed on and within the Indian country.
+<b>1966</b>—Pub. L. 89–707 added carnal knowledge and assault with intent to commit rape as offenses cognizable within the exclusive jurisdiction of the United States when committed on and within the Indian country.
 
-1949—Act May 24, 1949, substituted “within the Indian country” for “within any Indian reservation, including rights-of-way running through the reservation,”.
+<b>1949</b>—Act May 24, 1949, substituted “within the Indian country” for “within any Indian reservation, including rights-of-way running through the reservation,”.
 

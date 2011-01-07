@@ -22,7 +22,7 @@ The Congress finds and declares that—
 
 &emsp;(10) the development, processing, and distribution of the oil and gas resources of the Outer Continental Shelf, and the siting of related energy facilities, may cause adverse impacts on various States and local governments;
 
-&emsp;(11) policies, plans, and programs developed by States and local governments in response to activities on the Outer Continental Shelf cannot anticipate and ameliorate such adverse impacts unless such States, working in closecooperation with affected local governments, are provided with timely access to information regarding activities on the Outer Continental Shelf and an opportunity to review and comment on decisions relating to such activities;
+&emsp;(11) policies, plans, and programs developed by States and local governments in response to activities on the Outer Continental Shelf cannot anticipate and ameliorate such adverse impacts unless such States, working in close cooperation with affected local governments, are provided with timely access to information regarding activities on the Outer Continental Shelf and an opportunity to review and comment on decisions relating to such activities;
 
 &emsp;(12) funds must be made available to pay for the prompt removal of any oil spilled or discharged as a result of activities on the Outer Continental Shelf and for any damages to public or private interests caused by such spills or discharges;
 

@@ -16,13 +16,13 @@ For purposes of determining, under subchapters XVIII and XIX of this chapter, th
 
 #### Amendments
 
-1997—Pub. L. 105–33 substituted “critical access” for “rural primary care” in two places in introductory provisions.
+<b>1997</b>—Pub. L. 105–33 substituted “critical access” for “rural primary care” in two places in introductory provisions.
 
-1989—Pub. L. 101–239 substituted “hospitals or rural primary care hospitals” for “hospitals” in two places in introductory provisions.
+<b>1989</b>—Pub. L. 101–239 substituted “hospitals or rural primary care hospitals” for “hospitals” in two places in introductory provisions.
 
-1982—Par. (4). Pub. L. 97–248 substituted “sale” for “scale”.
+<b>1982</b>—Par. (4). Pub. L. 97–248 substituted “sale” for “scale”.
 
-1981—Pub. L. 97–35 substituted “subchapters XVIII and” for “subchapters V, XVIII, and” in provision preceding par. (1).
+<b>1981</b>—Pub. L. 97–35 substituted “subchapters XVIII and” for “subchapters V, XVIII, and” in provision preceding par. (1).
 
 #### Effective Date of 1997 Amendment
 

@@ -21,8 +21,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> Section catchline was not amended to conform to change made in text by Pub. L. 100–702.</i>
-
 
 ---
 

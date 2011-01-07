@@ -18,7 +18,7 @@ The Secretary may as provided in appropriation Acts obtain the services of exper
 
 #### Amendments
 
-1994—Pub. L. 103–227 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>1994</b>—Pub. L. 103–227 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

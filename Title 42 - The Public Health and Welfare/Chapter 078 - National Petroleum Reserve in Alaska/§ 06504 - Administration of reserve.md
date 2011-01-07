@@ -6,7 +6,7 @@ Any exploration within the Utukok River, the Teshekpuk Lake areas, and other are
 
 #### (b) Continuation of ongoing petroleum exploration program by Secretary of Navy prior to date of transfer of jurisdiction; duties of Secretary of Navy prior to transfer date
 
-The Secretary of the Navy shall continue the ongoing petroleum exploration program within the reserve until the date of the transfer of jurisdiction specified in section 6503(a) of this title. Prior to the date of such transfer of jurisdiction the Secretary of the Navy shall—
+The Secretary of the Navy shall continue the ongoing petroleum exploration program withinthe reserve until the date of the transfer of jurisdiction specified in section 6503(a) of this title. Prior to the date of such transfer of jurisdiction the Secretary of the Navy shall—
 
 &emsp;(1) cooperate fully with the Secretary of the Interior providing him access to such facilities and such information as he may request to facilitate the transfer of jurisdiction;
 
@@ -20,7 +20,7 @@ The Secretary of the Interior shall commence further petroleum exploration of th
 
 &emsp;(1) is authorized to enter into contracts for the exploration of the reserve, except that no such contract may be entered into until at least thirty days after the Secretary of the Interior has provided the Attorney General with a copy of the proposed contract and such other information as may be appropriate to determine legal sufficiency and possible violations under, or inconsistencies with, the antitrust laws. If, within such thirty day period, the Attorney General advises the Secretary of the Interior that any such contract would unduly restrict competition or be inconsistent with the antitrust laws, then the Secretary of the Interior may not execute that contract;
 
-&emsp;(2) shall submit to the Committee on Energy and Natural Resources of the Senate and theCommittee on Natural Resources of the House of Representatives any new plans or substantial amendments to ongoing plans for the exploration of the reserve. All such plans or amendments submitted to such committees pursuant to this section shall contain a report by the Attorney General of the United States with respect to the anticipated effects of such plans or amendments on competition. Such plans or amendments shall not be implemented until sixty days after they have been submitted to such committees; and
+&emsp;(2) shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives any new plans or substantial amendments to ongoing plans for the exploration of the reserve. All such plans or amendments submitted to such committees pursuant to this section shall contain a report by the Attorney General of the United States with respect to the anticipated effects of such plans or amendments on competition. Such plans or amendments shall not be implemented until sixty days after they have been submitted to such committees; and
 
 &emsp;(3) shall report annually to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives on the progress of, and future plans for, exploration of the reserve.
 
@@ -32,11 +32,11 @@ This Act, referred to in subsec. (a), is Pub. L. 94–258, Apr. 5, 1976, 90 Stat
 
 #### Amendments
 
-2005—Pub. L. 109–58 redesignated subsecs. (b) to (d) as (a) to (c), respectively, and struck out former subsec. (a) which read as follows: “Except as provided in subsection (e) of this section, production of petroleum from the reserve is prohibited and no development leading to production of petroleum from the reserve shall be undertaken until authorized by an Act of Congress.”
+<b>2005</b>—Pub. L. 109–58 redesignated subsecs. (b) to (d) as (a) to (c), respectively, and struck out former subsec. (a) which read as follows: “Except as provided in subsection (e) of this section, production of petroleum from the reserve is prohibited and no development leading to production of petroleum from the reserve shall be undertaken until authorized by an Act of Congress.”
 
-1994—Subsecs. (c)(2), (d)(2), (3). Pub. L. 103–437 substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House” for “Committees on Interior and Insular Affairs of the Senate and the House”.
+<b>1994</b>—Subsecs. (c)(2), (d)(2), (3). Pub. L. 103–437 substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House” for “Committees on Interior and Insular Affairs of the Senate and the House”.
 
-1984—Subsec. (e). Pub. L. 98–366 struck out subsec. (e) which read as follows: “Until the reserve is transferred to the jurisdiction of the Secretary of the Interior, the Secretary of the Navy is authorized to develop and continue operation of the South Barrow gas field, or such other fields as may be necessary, to supply gas at reasonable and equitable rates to the native village of Barrow, and other communities and installations at or near Point Barrow, Alaska, and to installations of the Department of Defense and other agencies of the United States located at or near Point Barrow, Alaska. After such transfer, the Secretary of the Interior shall take such actions as may be necessary to continue such service to such village, communities, installations, and agencies at reasonable and equitable rates.”
+<b>1984</b>—Subsec. (e). Pub. L. 98–366 struck out subsec. (e) which read as follows: “Until the reserve is transferred to the jurisdiction of the Secretary of the Interior, the Secretary of the Navy is authorized to develop and continue operation of the South Barrow gas field, or such other fields as may be necessary, to supply gas at reasonable and equitable rates to the native village of Barrow, and other communities and installations at or near Point Barrow, Alaska, and to installations of the Department of Defense and other agencies of the United States located at or near Point Barrow, Alaska. After such transfer, the Secretary of the Interior shall take such actions as may be necessary to continue such service to such village, communities, installations, and agencies at reasonable and equitable rates.”
 
 #### Effective Date of 1984 Amendment
 

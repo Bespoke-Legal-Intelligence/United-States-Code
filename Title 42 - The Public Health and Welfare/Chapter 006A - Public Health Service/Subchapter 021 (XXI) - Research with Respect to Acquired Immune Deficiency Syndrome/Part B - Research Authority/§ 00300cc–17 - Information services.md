@@ -38,11 +38,11 @@ The Data Bank shall include the following:
 
 #### Amendments
 
-1993—Subsec. (d)(1). Pub. L. 103–43 substituted “AIDS Research Advisory Committee established under section 300cc–3 of this title” for “Clinical Research Review Committee”.
+<b>1993</b>—Subsec. (d)(1). Pub. L. 103–43 substituted “AIDS Research Advisory Committee established under section 300cc–3 of this title” for “Clinical Research Review Committee”.
 
-1992—Subsecs. (b)(1), (c)(1). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsecs. (b)(1), (c)(1). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
-1988—Subsec. (e). Pub. L. 100–690 substituted “data bank on clinical trials and treatments” for “data bank” in heading.
+<b>1988</b>—Subsec. (e). Pub. L. 100–690 substituted “data bank on clinical trials and treatments” for “data bank” in heading.
 
 #### Effective Date of 1988 Amendment
 

@@ -72,9 +72,9 @@ Oct. 20, 1972, Pub. L. 92–513, §106, 86 Stat. 952.
 
 In subsection (a)(4), the words “required by such subsection to the effect that a passenger motor vehicle or passenger motor vehicle equipment conforms to all applicable bumper standards” are omitted as surplus.
 
-In subsection (c)(1), before clause (A), the word “conditions” is substituted for “such terms and conditions” to eliminate unnecessary words. In clause (A), the words “comply, after importation” are substituted for “brought into conformity” for clarity and consistency.
+In subsection (c)(1), before clause (A), the word “conditions” is substituted for “such terms and conditions”to eliminate unnecessary words. In clause (A), the words “comply, after importation” are substituted for “brought into conformity” for clarity and consistency.
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–277 inserted “and section 32502 of this title” after “Except as provided in this section” in introductory provisions.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277 inserted “and section 32502 of this title” after “Except as provided in this section” in introductory provisions.
 

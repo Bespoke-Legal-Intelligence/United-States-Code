@@ -1,12 +1,12 @@
 ### §945b. Jurisdiction; procedure
 
-Jurisdiction of an action brought by the United States or the landowner for the determination of just compensation pursuant to section 945a of this title is hereby conferred on the United States district court in the district in which any such land is situated, without limitation to the amount of compensation sought by such suit. The procedure for such an action shallbe governed by the Federal Rules of Civil Procedure for the condemnation of real and personal property.
+Jurisdiction of an action brought by the United States or the landowner for the determination of just compensation pursuant to section 945a of this title is hereby conferred on the United States district court in the district in which any such land is situated, without limitation to the amount of compensation sought by such suit. The procedure for such an action shall be governed by the Federal Rules of Civil Procedure for the condemnation of real and personal property.
 
 (Pub. L. 88–561, §2, as added Pub. L. 89–624, Oct. 4, 1966, 80 Stat. 874.)
 
 #### References in Text
 
-The Federal Rules of Civil Procedure for the condemnation of real and personal property, referred to in text, means rule 71A of the Federal Rules of Civil Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Civil Procedure for the condemnation of real and personal property, referred to intext, means rule 71A of the Federal Rules of Civil Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date
 

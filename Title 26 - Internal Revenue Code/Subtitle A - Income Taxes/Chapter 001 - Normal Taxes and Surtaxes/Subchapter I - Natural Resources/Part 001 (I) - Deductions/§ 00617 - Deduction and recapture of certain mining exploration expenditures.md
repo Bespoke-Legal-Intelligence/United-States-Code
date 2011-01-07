@@ -64,11 +64,11 @@ If an election has been made under subsection (a) with respect to expenditures r
 
 &emsp;For purposes of paragraph (1)—
 
-&emsp;&emsp;(A) In the case of the disposition of a portion of a mining property (other than an undivided interest), the entire amount of the adjusted exploration expenditures with respect to such property shall be treated as attributable to such portion to the extent of the amount of the gain to which paragraph (1) applies.
+&emsp;&emsp;(A) In the case of the disposition of a portion of a mining property (other than an undivided interest), the entire amount of theadjusted exploration expenditures with respect to such property shall be treated as attributable to such portion to the extent of the amount of the gain to which paragraph (1) applies.
 
 &emsp;&emsp;(B) In the case of the disposition of an undivided interest in a mining property (or a portion thereof), a proportionate part of the adjusted exploration expenditures with respect to such property shall be treated as attributable to such undivided interest to the extent of the amount of the gain to which paragraph (1) applies.
 
-> &emsp;This paragraph shall not apply to any expenditure to the extent the taxpayer establishes to the satisfaction of the Secretary that such expenditure relates neither to the portion (or interest therein) disposed of nor to any mine, in the property held by the taxpayer before thedisposition, which has reached the producing stage.
+> &emsp;This paragraph shall not apply to any expenditure to the extent the taxpayer establishes to the satisfaction of the Secretary that such expenditure relates neither to the portion (or interest therein) disposed of nor to any mine, in the property held by the taxpayer before the disposition, which has reached the producing stage.
 
 #### (3) Exceptions and limitations
 
@@ -140,23 +140,23 @@ In the case of any expenditures paid or incurred before the development stage fo
 
 &emsp;&emsp;<b>For election of 10-year amortization of expenditures allowable as a deduction under this section, see section 59(e).</b>
 
-(Added Pub. L. 89–570, §1(a), Sept. 12, 1966, 80 Stat. 759; amended Pub. L. 91–172, title V, §504(b), Dec. 30, 1969, 83 Stat. 632; Pub. L. 94–455, title XIX, §§1901(a)(89), (b)(3)(K), (21)(C)–(E), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1779, 1793, 1797, 1834; Pub. L. 97–248, title II, §201(d)(9)(D), formerly §201(c)(9)(D), §224(c)(8), Sept. 3, 1982, 96 Stat. 420, 489, renumbered §201(d)(9)(D), Pub. L.97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title IV, §§411(b)(2)(B), 413(b), Oct. 22, 1986, 100 Stat. 2226, 2228; Pub. L. 100–647, title I, §1007(g)(7), Nov. 10, 1988, 102 Stat. 3435; Pub. L. 101–508, title XI, §11801(a)(27), (c)(13), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527.)
+(Added Pub. L. 89–570, §1(a), Sept. 12, 1966, 80 Stat. 759; amended Pub. L. 91–172, title V, §504(b), Dec. 30, 1969, 83 Stat. 632; Pub. L. 94–455, title XIX, §§1901(a)(89), (b)(3)(K), (21)(C)–(E), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1779, 1793, 1797, 1834; Pub. L. 97–248, title II, §201(d)(9)(D), formerly §201(c)(9)(D), §224(c)(8), Sept. 3, 1982, 96 Stat. 420, 489, renumbered §201(d)(9)(D), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title IV, §§411(b)(2)(B), 413(b), Oct. 22, 1986, 100 Stat. 2226, 2228; Pub. L. 100–647, title I, §1007(g)(7), Nov. 10, 1988, 102 Stat. 3435; Pub. L. 101–508, title XI, §11801(a)(27), (c)(13), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527.)
 
 #### Amendments
 
-1990—Subsecs. (i), (j). Pub. L. 101–508 redesignated subsec. (j) as (i) and struck out former subsec. (i) which related to deduction of certain pre-1970 exploration expenditures.
+<b>1990</b>—Subsecs. (i), (j). Pub. L. 101–508 redesignated subsec. (j) as (i) and struck out former subsec. (i) which related to deduction of certain pre-1970 exploration expenditures.
 
-1988—Subsec. (j). Pub. L. 100–647 substituted “section 59(e)” for “section 58(i)”.
+<b>1988</b>—Subsec. (j). Pub. L. 100–647 substituted “section 59(e)” for “section 58(i)”.
 
-1986—Subsec. (d)(5). Pub. L. 99–514, §413(b), added par. (5).
+<b>1986</b>—Subsec. (d)(5). Pub. L. 99–514, §413(b), added par. (5).
 
 Subsec. (h). Pub. L. 99–514, §411(b)(2)(B), amended subsec. (h) generally, substituting provisions relating to special rules for foreign exploration for provisions relating to limitations.
 
-1982—Subsec. (h)(3)(B). Pub. L. 97–248, §224(c)(8), inserted “338,” after “334(b),”.
+<b>1982</b>—Subsec. (h)(3)(B). Pub. L. 97–248, §224(c)(8), inserted “338,” after “334(b),”.
 
 Subsec. (j). Pub. L. 97–248, §201(d)(9)(D), formerly §201(c)(9)(D), added subsec. (j).
 
-1976—Subsec. (a)(2)(A). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a)(2)(A). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (a)(2)(B). Pub. L. 94–455, §§1901(a)(89), 1906(b)(13)(A), substituted “may not be revoked unless” for “may not be revoked after the last day of the third month following the month in which the final regulations issued under the authority of this subsection are published in the Federal Register, unless”, and struck out “or his delegate” after “Secretary”.
 
@@ -172,7 +172,7 @@ Subsec. (h)(3). Pub. L. 94–455, §1901(b)(21)(D), struck out “and all amount
 
 Subsec. (i). Pub. L. 94–455, §1901(b)(21)(E), added subsec. (i).
 
-1969—Pub. L. 91–172, §504(b)(1), substituted “Deduction and recapture of certain mining exploration expenditures” for “Additional exploration expenditures in the case of domestic mining” in heading.
+<b>1969</b>—Pub. L. 91–172, §504(b)(1), substituted “Deduction and recapture of certain mining exploration expenditures” for “Additional exploration expenditures in the case of domestic mining” in heading.
 
 Subsec. (a)(1). Pub. L. 91–172, §504(b)(2), struck out reference to United States, the Outer Continental Shelf and the Outer Continental Shelf Lands Act from general rule dealing with allowance of deductions for expenditures in ascertaining the existence, location, extent, or quality of any deposit of ore or other mineral.
 
@@ -208,5 +208,5 @@ Section 3 of Pub. L. 89–570 provided that: “The amendments made by this Act 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

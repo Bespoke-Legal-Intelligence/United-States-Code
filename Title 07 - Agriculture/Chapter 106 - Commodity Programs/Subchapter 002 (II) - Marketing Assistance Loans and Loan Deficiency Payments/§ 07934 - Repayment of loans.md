@@ -20,7 +20,7 @@ The Secretary shall permit the producers on a farm to repay a marketing assistan
 
 #### (b) Repayment rates for upland cotton and rice
 
-The Secretary shall permit producers to repay a marketing assistance loan under section 7931of this title for upland cotton and rice at a rate that is the lesser of—
+The Secretary shall permit producers to repay a marketing assistance loan under section 7931 of this title for upland cotton and rice at a rate that is the lesser of—
 
 &emsp;(1) the loan rate established for the commodity under section 7932 of this title, plus interest (determined in accordance with section 7283 of this title); or
 
@@ -28,7 +28,7 @@ The Secretary shall permit producers to repay a marketing assistance loan under 
 
 #### (c) Repayment rates for extra long staple cotton
 
-Repayment of a marketing assistance loan for extra long staple cotton shall be at the loan rate established for the commodity under section 7932 of this title, plus interest (determined in accordance with section 7283 of this title).
+Repayment of a marketing assistance loan for extra long staple cotton shall be at the loan rateestablished for the commodity under section 7932 of this title, plus interest (determined in accordance with section 7283 of this title).
 
 #### (d) Prevailing world market price
 

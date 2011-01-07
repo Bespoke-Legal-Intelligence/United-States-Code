@@ -10,7 +10,7 @@ Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 St
 
 #### Amendments
 
-2000—Pub. L. 106–201, in introductory provisions, substituted “Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), on” for “On”.
+<b>2000</b>—Pub. L. 106–201, in introductory provisions, substituted “Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), on” for “On”.
 
 #### Effective Date of 2000 Amendment
 

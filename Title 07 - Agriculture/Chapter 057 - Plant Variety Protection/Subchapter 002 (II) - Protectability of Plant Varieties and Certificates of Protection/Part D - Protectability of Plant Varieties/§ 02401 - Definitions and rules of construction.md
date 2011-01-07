@@ -62,7 +62,7 @@ For the purposes of this chapter:
 
 #### (2) Sale or disposition for reproductive purposes
 
-&emsp;The sale or disposition of a variety for reproductive purposes shall not be considered to be a sale or disposition for the purposes of exploitation of the variety if the sale or disposition is done as an integral part of a program of experimentation or testing to ascertain the characteristics of the variety, or to increase the variety on behalf of the breeder or the successor in interest of the breeder.
+&emsp;The sale or disposition of a variety for reproductive purposes shall not be considered to be a sale or disposition for the purposes of exploitation of the variety if the sale or disposition is done as an integral part of a program of experimentation or testing to ascertain thecharacteristics of the variety, or to increase the variety on behalf of the breeder or the successor in interest of the breeder.
 
 #### (3) Sale or disposition of hybrid seed
 

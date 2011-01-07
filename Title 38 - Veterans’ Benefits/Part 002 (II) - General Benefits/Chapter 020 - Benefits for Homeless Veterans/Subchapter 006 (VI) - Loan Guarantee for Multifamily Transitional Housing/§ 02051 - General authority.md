@@ -30,9 +30,9 @@ Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (d)(2),
 
 #### Amendments
 
-2004—Subsec. (g). Pub. L. 108–454 added subsec. (g).
+<b>2004</b>—Subsec. (g). Pub. L. 108–454 added subsec. (g).
 
-2001—Pub. L. 107–95, §5(d)(1), renumbered section 3772 of this title as this section.
+<b>2001</b>—Pub. L. 107–95, §5(d)(1), renumbered section 3772 of this title as this section.
 
 Subsec. (d)(1). Pub. L. 107–95, §5(d)(2)(B), substituted “section 2052 of this title” for “section 3773 of this title”.
 

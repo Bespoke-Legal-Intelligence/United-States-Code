@@ -2,7 +2,7 @@
 
 #### (a) Allocation under regulations
 
-Items of gross income, expenses, losses, and deductions, other than those specified in sections 861(a) and 862(a), shall be allocated or apportioned to sources within or without theUnited States, under regulations prescribed by the Secretary. Where items of gross income are separately allocated to sources within the United States, there shall be deducted (for the purpose of computing the taxable income therefrom) the expenses, losses, and other deductions properly apportioned or allocated thereto and a ratable part of other expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income. The remainder, if any, shall be included in full as taxable income from sources within the United States.
+Items of gross income, expenses, losses, and deductions, other than those specified in sections 861(a) and 862(a), shall be allocated or apportioned to sources within or without the United States, under regulations prescribed by the Secretary. Where items of gross income are separately allocated to sources within the United States, there shall be deducted (for the purpose of computing the taxable income therefrom) the expenses, losses, and other deductions properly apportioned or allocated thereto and a ratable part of other expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income. The remainder, if any, shall be included in full as taxable income from sources within the United States.
 
 #### (b) Income partly from within and partly from without the United States
 
@@ -116,15 +116,15 @@ In the case of gross income derived from sources partly within and partly withou
 
 #### Amendments
 
-1997—Subsec. (c)(2)(B). Pub. L. 105–34 inserted concluding provisions “In the case of transportation income derived from, or in connection with, a vessel, this subparagraph shall only apply if the taxpayer is a citizen or resident alien.”
+<b>1997</b>—Subsec. (c)(2)(B). Pub. L. 105–34 inserted concluding provisions “In the case of transportation income derived from, or in connection with, a vessel, this subparagraph shall only apply if the taxpayer is a citizen or resident alien.”
 
-1989—Subsec. (b)(2), (3). Pub. L. 101–239 substituted “865(i)(1)” for “865(h)(1)”.
+<b>1989</b>—Subsec. (b)(2), (3). Pub. L. 101–239 substituted “865(i)(1)” for “865(h)(1)”.
 
-1988—Pub. L. 100–647, §1012(e)(3)(A), substituted “Special rules for determining source” for “Item not specified in section 861 or 862” in section catchline.
+<b>1988</b>—Pub. L. 100–647, §1012(e)(3)(A), substituted “Special rules for determining source” for “Item not specified in section 861 or 862” in section catchline.
 
 Subsec. (e)(2). Pub. L. 100–647, §1012(f), substituted “foreign country (or possession of the United States)” for “foreign country” in two places.
 
-1986—Subsec. (b)(1). Pub. L. 99–514, §1212(e), substituted “services” for “transportation or other services”.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §1212(e), substituted “services” for “transportation or other services”.
 
 Subsec. (b)(2), (3). Pub. L. 99–514, §1211(b)(1)(A), substituted “inventory property (within the meaning of section 865(h)(1))” for “personal property”.
 
@@ -132,9 +132,9 @@ Subsec. (c)(2). Pub. L. 99–514, §1212(a), amended par. (2) generally, in subp
 
 Subsecs. (d), (e). Pub. L. 99–514, §1213(a), added subsecs. (d) and (e).
 
-1984—Subsec. (c). Pub. L. 98–369 added subsec. (c).
+<b>1984</b>—Subsec. (c). Pub. L. 98–369 added subsec. (c).
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (b). Pub. L. 94–455, §§1901(b)(26)(C), (D), 1906(b)(13)(A), struck out “or his delegate” after “Secretary” in introductory provisions, and inserted “or exchange” after “sale” in pars. (2) and (3), and “or exchanged” after “sold” in par. (2) wherever appearing.
 
@@ -158,7 +158,7 @@ Section 1212(f) of Pub. L. 99–514 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 887 of this title and amending this section and sections 861, 872, and 883 of this title\] shall apply to taxable years beginning after December 31, 1986.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section887 of this title and amending this section and sections 861, 872, and 883 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
 “(2)
 

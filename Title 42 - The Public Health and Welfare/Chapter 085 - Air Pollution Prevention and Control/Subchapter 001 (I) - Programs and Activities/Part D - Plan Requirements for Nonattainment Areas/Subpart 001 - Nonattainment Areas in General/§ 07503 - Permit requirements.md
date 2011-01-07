@@ -4,9 +4,9 @@
 
 The permit program required by section 7502(b)(6) <sup>1</sup> of this title shall provide that permits to construct and operate may be issued if—
 
-&emsp;(1) in accordance with regulations issued by the Administrator for the determination of baseline emissions in a manner consistentwith the assumptions underlying the applicable implementation plan approved under section 7410 of this title and this part, the permitting agency determines that—
+&emsp;(1) in accordance with regulations issued by the Administrator for the determination of baseline emissions in a manner consistent with the assumptions underlying the applicable implementation plan approved under section 7410 of this title and this part, the permitting agency determines that—
 
-&emsp;&emsp;(A) by the time the source is to commence operation, sufficient offsetting emissions reductions have been obtained, such that total allowable emissions from existing sources in the region, from new or modified sources which are not major emitting facilities, and from the proposed source will be sufficiently less than total emissions from existing sources (as determined in accordance with the regulations under this paragraph) prior to the application for such permit to construct or modify so as to represent (when considered together with the plan provisions required under section 7502 of this title) reasonable further progress (as defined in section 7501 of this title); or
+&emsp;&emsp;(A) by the time the source is to commence operation, sufficient offsetting emissions reductions have been obtained, such that totalallowable emissions from existing sources in the region, from new or modified sources which are not major emitting facilities, and from the proposed source will be sufficiently less than total emissions from existing sources (as determined in accordance with the regulations under this paragraph) prior to the application for such permit to construct or modify so as to represent (when considered together with the plan provisions required under section 7502 of this title) reasonable further progress (as defined in section 7501 of this title); or
 
 &emsp;&emsp;(B) in the case of a new or modified major stationary source which is located in a zone (within the nonattainment area) identified by the Administrator, in consultation with the Secretary of Housing and Urban Development, as a zone to which economic development should be targeted, that emissions of such pollutant resulting from the proposed new or modified major stationary source will not cause or contribute to emissions levels which exceed the allowance permitted for such pollutant for such area from new or modified major stationary sources under section 7502(c) of this title;
 
@@ -54,7 +54,7 @@ Section 7502(b) of this title, referred to in subsec. (a), was amended generally
 
 #### Amendments
 
-1990—Pub. L. 101–549, §102(c)(1), made technical amendment to section catchline.
+<b>1990</b>—Pub. L. 101–549, §102(c)(1), made technical amendment to section catchline.
 
 Pub. L. 101–549, §102(c)(2), (8), designated existing provisions as subsec. (a), inserted heading, and substituted “(1) shall be federally enforceable” for “(1)(A) shall be legally binding” in last sentence.
 
@@ -72,7 +72,7 @@ Subsec. (b). Pub. L. 101–549, §102(c)(9), added subsec. (b).
 
 Subsecs. (c) to (e). Pub. L. 101–549, §102(c)(10), added subsecs. (c) to (e).
 
-1977—Par. (1)(A). Pub. L. 95–190, §14(a)(57), inserted “or modified” after “from new” and “applicable” before “implementation plan”, and substituted “source” for “facility” wherever appearing.
+<b>1977</b>—Par. (1)(A). Pub. L. 95–190, §14(a)(57), inserted “or modified” after “from new” and “applicable” before “implementation plan”, and substituted “source” for “facility” wherever appearing.
 
 Par. (4). Pub. L. 95–190, §14(a)(58), added par. (4).
 

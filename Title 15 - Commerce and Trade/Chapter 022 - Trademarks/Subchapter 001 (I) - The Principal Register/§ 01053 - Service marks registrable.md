@@ -6,9 +6,9 @@ Subject to the provisions relating to the registration of trademarks, so far as 
 
 #### Amendments
 
-1999—Pub. L. 106–43 substituted “trademarks” for “trade-marks” wherever appearing.
+<b>1999</b>—Pub. L. 106–43 substituted “trademarks” for “trade-marks” wherever appearing.
 
-1988—Pub. L. 100–667 struck out “used in commerce” after “applicable, service marks” and “, except when used so as to represent falsely that the owner thereof makes or sells the goods on which such mark is used. The Commissioner may establish a separate register for such service marks” after “case of trade-marks”.
+<b>1988</b>—Pub. L. 100–667 struck out “used in commerce” after “applicable, service marks” and “, except when used so as to represent falsely that the owner thereof makes or sells the goods on which such mark is used. The Commissioner may establish a separate register for such service marks” after “case of trade-marks”.
 
 #### Effective Date of 1988 Amendment
 

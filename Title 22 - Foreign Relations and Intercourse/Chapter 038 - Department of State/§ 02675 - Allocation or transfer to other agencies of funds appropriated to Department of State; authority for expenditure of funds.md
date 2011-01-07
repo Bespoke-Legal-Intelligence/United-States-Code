@@ -14,5 +14,5 @@ Section was formerly classified to section 170m of Title 5 prior to the general 
 
 #### Amendments
 
-1983—Pub. L. 98–164 amended section generally, substituting provisions relating to allocation or transfer of funds and authority for expenditure of funds for provisions relating to transfer of funds.
+<b>1983</b>—Pub. L. 98–164 amended section generally, substituting provisions relating to allocation or transfer of funds and authority for expenditure of funds for provisions relating to transfer of funds.
 

@@ -56,7 +56,7 @@ Subsec. (e). Pub. L. 97–116, §15(d)(4), (5), redesignated subsec. (f) as (e).
 
 Subsec. (f). Pub. L. 97–116, §15(d)(5), redesignated subsec. (f) as (e).
 
-1969—Subsec. (c). Pub. L. 91–136 struck out requirement that Attorney General, as a prerequisite to waiver of the waiting period, make an affirmative findingthat such waiver will promote the security of the United States, and further struck out the provision prohibiting the acquisition of citizenship by final oath within 60 days preceding a general election and prior to the tenth day following such election.
+1969—Subsec. (c). Pub. L. 91–136 struck out requirement that Attorney General, as a prerequisite to waiver of the waiting period, make an affirmative finding that such waiver will promote the security of the United States, and further struck out the provision prohibiting the acquisition of citizenship by final oath within 60 days preceding a general election and prior to the tenth day following such election.
 
 #### Effective Date of 1991 Amendment
 

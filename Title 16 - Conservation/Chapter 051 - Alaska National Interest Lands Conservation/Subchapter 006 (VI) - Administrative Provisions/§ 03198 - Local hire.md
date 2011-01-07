@@ -56,19 +56,15 @@ The Secretary shall from time to time prepare and submit to the Congress reports
 
 (Pub. L. 96–487, title XIII, §1308, Dec. 2, 1980, 94 Stat. 2480; Pub. L. 100–689, title IV, §401, Nov. 18, 1988, 102 Stat. 4177; Pub. L. 102–415, §16, Oct. 14, 1992, 106 Stat. 2124; Pub. L. 108–199, div. H, §147, Jan. 23, 2004, 118 Stat. 445; Pub. L. 111–11, title VI, §6101, Mar. 30, 2009, 123 Stat. 1170.)
 
-#### References in Text
-
-The civil service laws, referred to in subsec. (a)(1), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Amendments
 
-2009—Subsec. (e). Pub. L. 111–11 added subsec. (e).
+<b>2009</b>—Subsec. (e). Pub. L. 111–11 added subsec. (e).
 
-2004—Subsecs. (c), (d). Pub. L. 108–199 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>2004</b>—Subsecs. (c), (d). Pub. L. 108–199 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1992—Subsec. (a). Pub. L. 102–415 substituted “public lands” for “a conservation system unit” and substituted “public lands” for “such unit” in two places.
+<b>1992</b>—Subsec. (a). Pub. L. 102–415 substituted “public lands” for “a conservation system unit” and substituted “public lands” for “such unit” in two places.
 
-1988—Subsecs. (b), (c). Pub. L. 100–689 added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>1988</b>—Subsecs. (b), (c). Pub. L. 100–689 added subsec. (b) and redesignated former subsec. (b) as (c).
 
 #### Pilot Program
 

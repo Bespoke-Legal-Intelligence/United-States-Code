@@ -48,15 +48,15 @@ Presidential Proclamation 5928, referred to in subsec. (a)(7), is set out under 
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–280 added par. (1), redesignated pars. (1) to (5) as (2) to (6), respectively, in par. (5) substituted “V, and VI” for “and V”, in par. (6) substituted “ ‘discharge’, ‘emission’, ‘garbage’, ‘harmful substance’, and ‘incident’ ” for “ ‘discharge’ and ‘garbage’ and ‘harmful substance’ and ‘incident’ ”, added par. (7), and redesignated pars. (6) to (12) as (8) to (14), respectively.
+<b>2008</b>—Subsec. (a). Pub. L. 110–280 added par. (1), redesignated pars. (1) to (5) as (2) to (6), respectively, in par. (5) substituted “V, and VI” for “and V”, in par. (6) substituted “ ‘discharge’, ‘emission’, ‘garbage’, ‘harmful substance’, and ‘incident’ ” for “ ‘discharge’ and ‘garbage’ and ‘harmful substance’ and ‘incident’ ”, added par. (7), and redesignated pars. (6) to (12) as (8) to (14), respectively.
 
-1996—Subsec. (a). Pub. L. 104–227, §201(a)(1), (2), added pars. (1) and (2) and redesignated former pars. (1) to (10) as (3) to (12), respectively.
+<b>1996</b>—Subsec. (a). Pub. L. 104–227, §201(a)(1), (2), added pars. (1) and (2) and redesignated former pars. (1) to (10) as (3) to (12), respectively.
 
 Subsec. (c). Pub. L. 104–227, §201(a)(3), added subsec. (c).
 
-1993—Subsec. (a)(9), (10). Pub. L. 103–160 added par. (9) and redesignated former par. (9) as (10).
+<b>1993</b>—Subsec. (a)(9), (10). Pub. L. 103–160 added par. (9) and redesignated former par. (9) as (10).
 
-1987—Subsec. (a). Pub. L. 100–220, §2101(1), designated existing provisions as subsec. (a).
+<b>1987</b>—Subsec. (a). Pub. L. 100–220, §2101(1), designated existing provisions as subsec. (a).
 
 Subsec. (a)(1). Pub. L. 100–220, §2101(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘MARPOL Protocol’ means the Protocol of 1978 Relating to the International Convention for the Prevention of Pollution from Ships, 1973, done at London on February 17, 1978. This Protocol incorporates and modifies the International Convention for the Prevention of Pollution from Ships, 1973, done at London on November 2, 1973;”.
 
@@ -184,7 +184,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XIV\], Dec. 21, 2000, 114 Stat. 276
 
 “(b) The Administrator, in consultation with the Secretary, may promulgate regulations allowing the discharge of treated sewage or graywater, otherwise prohibited under paragraphs (a)(1) and (a)(2) of this section, where the discharge meets effluent standards determined by the Administrator as appropriate for discharges into the marine environment. In promulgating such regulations, the Administrator shall take into account the best available scientific information on the environmental effects of the regulated discharges. The effluent discharge standards promulgated under this section shall, at a minimum, be consistent with all relevant State of Alaska water quality standards in force at the time of the enactment of this title \[Dec. 21, 2000\].
 
-“(c) Until such time as the Administrator promulgates regulations under paragraph (b) of this section, treated sewage and graywater may be discharged from vessels subject to this title in circumstances otherwise prohibited under paragraphs (a)(1) and (a)(2) of this section, provided that—
+“(c) Until such time as the Administrator promulgates regulations under paragraph (b) of this section, treated sewage and graywater may be discharged from vessels subject to this title in circumstances otherwiseprohibited under paragraphs (a)(1) and (a)(2) of this section, provided that—
 
 &emsp;“(1) the discharge satisfies the minimum level of effluent quality specified in 40 CFR 133.102, as in effect on the date of enactment of this section \[Dec. 21, 2000\];
 
@@ -332,7 +332,7 @@ False statements.—Any person who knowingly makes any false statement, represen
 
 Awards.—
 
-&emsp;“(1) The Secretary, the Administrator, or the court, when assessing any fines or civil penalties, as the case may be, may pay from any fines or civil penalties collected under this section an amount not to exceed one-half of the penalty or fine collected, to any individual who furnishes information which leads to the payment of the penalty or fine. If several individuals provide such information, the amount shall be divided equitably among such individuals. No officer or employee of the United States, the State of Alaska or any federally recognized Tribe who furnishes information or renders service in the performance of his or her official duties shall be eligible for payment under this subsection.
+&emsp;“(1) The Secretary, the Administrator, or the court, when assessing any fines or civil penalties, as the case may be, may pay from any fines or civil penalties collected under this section an amount not to exceed one-half of the penalty or fine collected, to any individual who furnishes information which leads to the payment of the penalty or fine. If several individuals provide such information, the amount shallbe divided equitably among such individuals. No officer or employee of the United States, the State of Alaska or any federally recognized Tribe who furnishes information or renders service in the performance of his or her official duties shall be eligible for payment under this subsection.
 
 &emsp;“(2) The Secretary, Administrator or the court, when assessing any fines or civil penalties, as the case may be, may pay, from any fines or civil penalties collected under this section, to the State of Alaska or to any federally recognized Tribe providing information or investigative assistance which leads to payment of the penalty or fine, an amount which reflects the level of information or investigative assistance provided. Should the State of Alaska or a federally recognized Tribe and an individual under paragraph (1) of this section be eligible for an award, the Secretary, the Administrator, or the court, as the case may be, shall divide the amount equitably.
 

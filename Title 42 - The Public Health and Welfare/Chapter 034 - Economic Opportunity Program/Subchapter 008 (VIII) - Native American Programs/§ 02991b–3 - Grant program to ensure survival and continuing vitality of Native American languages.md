@@ -96,7 +96,7 @@ If a tribal organization or other eligible applicant decides that the objectives
 
 #### (1) Share
 
-&emsp;Notwithstanding any other provision of this subchapter, a grant made under subsection (a) of this section may not be expended to paymore than 80 percent of the cost of the project that is assisted by such grant. Not less than 20 percent of such cost—
+&emsp;Notwithstanding any other provision of this subchapter, a grant made under subsection (a) of this section may not be expended to pay more than 80 percent of the cost of the project that is assisted by such grant. Not less than 20 percent of such cost—
 
 &emsp;&emsp;(A) shall be in cash or in kind, fairly evaluated, including plant, equipment, or services; and
 
@@ -182,7 +182,7 @@ Section 3215 of title 20, referred to in subsec. (f)(2)(B)(ii), was in the origi
 
 #### Amendments
 
-2006—Subsec. (b)(7). Pub. L. 109–394, §2(1), added par. (7).
+<b>2006</b>—Subsec. (b)(7). Pub. L. 109–394, §2(1), added par. (7).
 
 Subsec. (c)(7). Pub. L. 109–394, §2(2), added par. (7).
 

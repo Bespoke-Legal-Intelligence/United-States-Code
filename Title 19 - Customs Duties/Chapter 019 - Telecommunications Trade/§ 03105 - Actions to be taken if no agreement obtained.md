@@ -24,15 +24,15 @@
 
 &emsp;(C) prohibition of purchases by the Federal Government of telecommunications products of such country;
 
-&emsp;(D) increases in domestic preferences under title III of the Act of March 3, 1933 (41 U.S.C. 10a, et seq.) for purchases by the Federal Government of telecommunications products of such country;
+&emsp;(D) increases in domestic preferences under chapter 83 of title 41 for purchases by the Federal Government of telecommunications products of such country;
 
-&emsp;(E) suspension of any waiver of domestic preferences under title III of the Act of March 3, 1933 (41 U.S.C. 10a, et seq.) which may have been extended to such country pursuant to the Trade Agreements Act of 1979 with respect to telecommunications products or any other products;
+&emsp;(E) suspension of any waiver of domestic preferences under chapter 83 of title 41 which may have been extended to such country pursuant to the Trade Agreements Act of 1979 with respect to telecommunications products or any other products;
 
 &emsp;(F) issuance of orders to appropriate officers and employees of the Federal Government to deny Federal funds or Federal credits for purchases of the telecommunications products of such country; and
 
 &emsp;(G) suspension, in whole or in part, of benefits accorded articles of such country under title V of the Trade Act of 1974 (19 U.S.C. 2461, et seq.).
 
-(2) Notwithstanding section 125 of the Trade Act of 1974 \[19 U.S.C. 2135\] and any other provision of law, if any portion of a trade agreement described in paragraph (1)(A) is terminated, withdrawn, or suspended under paragraph (1) with respect to any duty imposed by the United States on the products of a foreign country, the rate of such duty that shall apply to such products entered, or withdrawn from warehouse forconsumption, after the date on which such termination, withdrawal, or suspension takes effect shall be a rate determined by the President.
+(2) Notwithstanding section 125 of the Trade Act of 1974 \[19 U.S.C. 2135\] and any other provision of law, if any portion of a trade agreement described in paragraph (1)(A) is terminated, withdrawn, or suspended under paragraph (1) with respect to any duty imposed by the United States on the products of a foreign country, the rate of such duty that shall apply to such products entered, or withdrawn from warehouse for consumption, after the date on which such termination, withdrawal, or suspension takes effect shall be a rate determined by the President.
 
 #### (c) Negotiating period
 
@@ -64,13 +64,15 @@ The President shall promptly inform the appropriate committees of the Congress o
 
 Subtitle A, referred to in subsec. (a)(1), is subtitle A (§§1101–1125) of title I of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1121. For complete classification of subtitle A to the Code, see Tables.
 
-The Trade Act of 1974, referred to in subsec. (b)(1)(A)(i), (G), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to chapter 12 (§2101 et seq.) of this title. Title V of the Trade Act of 1974 is classified generally to subchapter V (§2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
-
-Title III of the Act of March 3, 1933 (41 U.S.C. 10a, et seq.), referred to in subsec. (b)(1)(D), (E), is act Mar. 3, 1933, ch. 212, title III, 47 Stat. 1520, as amended, known as the Buy American Act, which is classified generally to sections 10a, 10b, and 10c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
+The Trade Act of 1974, referred to in subsec. (b)(1)(A)(i), (G), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§2101 et seq.) of this title. Title V of the Trade Act of 1974 is classified generally to subchapter V (§2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
 The Trade Agreements Act of 1979, referred to in subsec. (b)(1)(E), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of this title and Tables.
 
+#### Codification
+
+In subsec. (b)(1)(D), (E), “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 (41 U.S.C. 10a, et seq.)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Delegation of Functions
 
-Functions of President under subsec. (e) of this section relating to reports to Congressional committees delegated to United States Trade Representative, see section 1–401 of Ex. Ord. No. 21661, Dec. 27, 1988, 54 F.R. 779, set out as a note under section 2901 of this title.
+Functions of President under subsec. (e) relating to reports to Congressional committees delegated to United States Trade Representative, see section 1–401 of Ex. Ord. No. 21661, Dec. 27, 1988, 54 F.R. 779, set out as a note under section 2901 of this title.
 

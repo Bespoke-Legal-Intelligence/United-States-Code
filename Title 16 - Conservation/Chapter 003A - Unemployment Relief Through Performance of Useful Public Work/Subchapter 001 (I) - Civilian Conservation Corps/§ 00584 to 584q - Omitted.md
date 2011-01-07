@@ -68,7 +68,7 @@ Civilian Conservation Corps and its functions consolidated with other agencies u
 
 #### Sections Continued for Purposes of Liquidation
 
-Act July 12, 1943, ch. 221, title II, 57 Stat. 499, provided in part: “For the purposes hereof the provisions of the Act to establish the Civilian Conservation Corps and for other purposes approved June 28, 1937, as amended, shall continue in full force and effect to such extent as may be necessary to facilitate liquidation of such corps, and the Federal Security Administrator shall exercise the authority vested in the Director of such corps by such Act.”
+Act July 12, 1943, ch. 221, title II, 57 Stat. 499, provided in part: “For the purposes hereof the provisions of the Act to establish the Civilian Conservation Corps and for other purposes approved June 28, 1937, as amended, shall continue in full force and effect to such extent as may be necessary to facilitate liquidation of such corps, and the Federal Security Administratorshall exercise the authority vested in the Director of such corps by such Act.”
 
 #### Liquidation of C.C.C.
 

@@ -10,15 +10,11 @@ The Secretary of the Smithsonian Institution, with the advice of the board, may 
 
 (Aug. 12, 1946, ch. 955, §1, 60 Stat. 997; July 26, 1947, ch. 343, title II, §208(b), 61 Stat. 503; Pub. L. 89–509, pt. I, §§2, 3, July 19, 1966, 80 Stat. 310; Pub. L. 89–670, §§3(e), 6(c)(1), Oct. 15, 1966, 80 Stat. 932, 938.)
 
-#### References in Text
-
-The civil service laws, referred to in subsec. (b), are set out in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Amendments
 
-1966—Subsec. (a). Pub. L. 89–509, §2, changed the name of the museum from the National Air Museum to the National Air and Space Museum, expanded the advisory board to include additional members including the Chief of Staff of the Army, the Commandant of the Marine Corps, the Commandant of the Coast Guard, the Administrator of the National Aeronautics and Space Administration, the Administrator of the Federal Aviation Agency, and an additional member appointed from civilian life to serve at the pleasure of the President, and provided for reimbursement for travel, subsistence, and other necessary expenses incurred by them in the performance of their duties as members of the Board.
+<b>1966</b>—Subsec. (a). Pub. L. 89–509, §2, changed the name of the museum from the National Air Museum to the National Air and Space Museum, expanded the advisory board to include additional members including the Chief of Staff of the Army, the Commandant of the Marine Corps, the Commandant of the Coast Guard, the Administrator of the National Aeronautics and Space Administration, the Administrator of the Federal Aviation Agency, and an additional member appointed from civilian life to serve at the pleasure of the President, and provided for reimbursement for travel, subsistence, and other necessary expenses incurred by them in the performance of their duties as members of the Board.
 
-Subsec. (b). Pub. L. 89–509, §3, substituted “national air and space museum” for “national air museum” and struck out provision that the salary of the head of the museum shall not be subject to the Classification Act of 1923, as amended.
+Subsec. (b). Pub. L. 89–509, §3, substituted “national air and space museum” for “national air museum” and struck out provision that the salary of the head of themuseum shall not be subject to the Classification Act of 1923, as amended.
 
 #### Short Title of 1966 Amendment
 

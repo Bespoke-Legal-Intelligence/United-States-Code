@@ -46,7 +46,7 @@ Pub. L. 110–372, §2(d), Oct. 8, 2008, 122 Stat. 4044, provided that:
 
 “(1)
 
-Effective date.—The amendments made by this section \[amending this section and sections 3104, 3324, 3325, 5108 and 5304 of this title\] shall take effect on the first day of the first pay period beginning on or after the 180th day following the date of enactment of this Act \[Oct. 8, 2008\].
+Effective date.—The amendments made by this section \[amending this section and sections 3104, 3324,3325, 5108 and 5304 of this title\] shall take effect on the first day of the first pay period beginning on or after the 180th day following the date of enactment of this Act \[Oct. 8, 2008\].
 
 “(2)
 

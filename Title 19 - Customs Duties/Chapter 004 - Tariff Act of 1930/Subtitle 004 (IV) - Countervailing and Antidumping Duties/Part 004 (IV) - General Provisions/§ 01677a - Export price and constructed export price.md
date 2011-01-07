@@ -6,7 +6,7 @@ The term “export price” means the price at which the subject merchandise is 
 
 #### (b) Constructed export price
 
-The term “constructed export price” means the price at which the subject merchandise is first sold (or agreed to be sold) in the United States before or after the date of importation by or for the account of the producer or exporter of such merchandise or by a seller affiliated with the producer or exporter, to a purchaser not affiliated with the producer or exporter, as adjusted under subsections (c) and (d) of this section.
+The term “constructed export price” means the price at which the subject merchandise isfirst sold (or agreed to be sold) in the United States before or after the date of importation by or for the account of the producer or exporter of such merchandise or by a seller affiliated with the producer or exporter, to a purchaser not affiliated with the producer or exporter, as adjusted under subsections (c) and (d) of this section.
 
 #### (c) Adjustments for export price and constructed export price
 
@@ -90,9 +90,9 @@ Where the subject merchandise is imported by a person affiliated with the export
 
 #### Amendments
 
-1994—Pub. L. 103–465 amended section generally, substituting present provisions for provisions defining “United States price”, “purchase price”, and “exporter's sales price” and providing for adjustments to purchase price and exporter's sales price.
+<b>1994</b>—Pub. L. 103–465 amended section generally, substituting present provisions for provisions defining “United States price”, “purchase price”, and “exporter's sales price” and providing for adjustments to purchase price and exporter's sales price.
 
-1984—Subsec. (b). Pub. L. 98–573 inserted “a reseller or” before “the manufacturer”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–573 inserted “a reseller or” before “the manufacturer”.
 
 #### Effective Date of 1994 Amendment
 

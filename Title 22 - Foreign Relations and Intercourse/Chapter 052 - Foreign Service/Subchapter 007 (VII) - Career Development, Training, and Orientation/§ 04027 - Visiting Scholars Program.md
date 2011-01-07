@@ -18,5 +18,5 @@ The board referred to in subsection (b) of this section shall be composed of the
 
 #### Amendments
 
-1994—Subsecs. (a), (c). Pub. L. 103–236 substituted “institution” for “Foreign Service Institute” and “Institute” in subsec. (a) and “institution” for “Foreign Service Institute” in subsec. (c).
+<b>1994</b>—Subsecs. (a), (c). Pub. L. 103–236 substituted “institution” for “Foreign Service Institute” and “Institute” in subsec. (a) and “institution” for “Foreign Service Institute” in subsec. (c).
 

@@ -18,7 +18,7 @@ This Act, referred to in subsecs. (a), (c), and (d), means act Sept. 1, 1951, ch
 
 #### Amendments
 
-1953—Subsec. (a). Act June 30, 1953, substituted “titles II or III” for “titles II, III, or IV”.
+<b>1953</b>—Subsec. (a). Act June 30, 1953, substituted “titles II or III” for “titles II, III, or IV”.
 
 #### Inconsistent Laws
 

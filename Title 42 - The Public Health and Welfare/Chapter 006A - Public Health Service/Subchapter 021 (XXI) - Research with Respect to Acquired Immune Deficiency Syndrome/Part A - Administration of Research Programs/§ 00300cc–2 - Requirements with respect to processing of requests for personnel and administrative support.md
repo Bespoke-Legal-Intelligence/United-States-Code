@@ -26,7 +26,7 @@ A prior section 300cc–2, act July 1, 1944, §2303, was successively renumbered
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
 Pub. L. 102–321, §161, substituted “Administrator of the Substance Abuse and Mental Health Services Administration” for “Administrator of the Alcohol, Drug Abuse, and Mental Health Administration”.
 

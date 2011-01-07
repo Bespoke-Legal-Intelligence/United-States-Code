@@ -20,5 +20,5 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this A
 
 #### Amendments
 
-1998—Subsecs. (c), (d). Pub. L. 105–362 redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to recommendations to Congress for legislation following a Presidential determination that a major industrial country failed to grant equivalent concessions.
+<b>1998</b>—Subsecs. (c), (d). Pub. L. 105–362 redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to recommendations to Congress for legislation following a Presidential determination that a major industrial country failed to grant equivalent concessions.
 

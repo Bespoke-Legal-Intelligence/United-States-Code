@@ -2,7 +2,7 @@
 
 #### (a) Finding
 
-Congress finds that certain States and local communities of the region, including local development districts, may be unable to take maximum advantage of Federal grant programs forwhich the States and communities are eligible because—
+Congress finds that certain States and local communities of the region, including local development districts, may be unable to take maximum advantage of Federal grant programs for which the States and communities are eligible because—
 
 &emsp;(1) the States or communities lack the economic resources to provide the required matching share; or
 
@@ -40,7 +40,7 @@ Notwithstanding any provision of law limiting the Federal share, the areas eligi
 
 &emsp;&emsp;In the case of any project described in paragraph (1), any finding, report, certification, or documentation required to be submitted with respect to the project to the head of the department, agency, or instrumentality of the Federal Government responsible for the administration of the Federal grant program under which the project is carried out shall be accepted by the Federal cochairperson.
 
-(Pub. L. 87–128, title III, §382D, as added Pub. L. 106–554, §1(a)(4) \[div. B, title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–275; amended Pub. L. 107–171, title VI, §6027(d), May 13, 2002, 116 Stat. 373.)
+(Pub. L. 87–128, title III, §382D, as added Pub. L. 106–554, §1(a)(4) \[div. B, title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–275; amended Pub. L.107–171, title VI, §6027(d), May 13, 2002, 116 Stat. 373.)
 
 #### References in Text
 

@@ -32,7 +32,7 @@ Subtitle B of title IX of the Omnibus Budget Reconciliation Act of 1990, referre
 
 #### Amendments
 
-1996—Pub. L. 104–287, §5(89), substituted “section 47127” for “sections 47106(d) and 47127”.
+<b>1996</b>—Pub. L. 104–287, §5(89), substituted “section 47127” for “sections 47106(d) and 47127”.
 
 Pub. L. 104–287, §5(88)(D), renumbered section 49105 of this title as this section.
 

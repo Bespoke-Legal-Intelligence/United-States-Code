@@ -6,9 +6,9 @@ The Service shall prepare annually and submit a budget program as provided for w
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 4206 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4206 of this title as this section.
 
-1988—Pub. L. 100–322 struck out at end “Any balance in the revolving fund at the close of the fiscal year in excess of the estimated requirements for the ensuing fiscal year shall be covered into the Treasury as miscellaneous receipts.”
+<b>1988</b>—Pub. L. 100–322 struck out at end “Any balance in the revolving fund at the close of the fiscal year in excess of the estimated requirements for the ensuing fiscal year shall be covered into the Treasury as miscellaneous receipts.”
 
-1982—Pub. L. 97–258 substituted “corporations by chapter 91 of title 31,” for “corporations by sections 841–869 of title 31,”.
+<b>1982</b>—Pub. L. 97–258 substituted “corporations by chapter 91 of title 31,” for “corporations by sections 841–869 of title 31,”.
 

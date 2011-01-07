@@ -58,7 +58,7 @@ In subsection (c), 10:1409 (words after 3d semicolon) is omitted as executed. Th
 
 #### Amendments
 
-1960—Pub. L. 86–593 substituted “Air Force cross” for “distinguished-service cross” in section catchline and wherever appearing in subsecs. (a) to (d).
+<b>1960</b>—Pub. L. 86–593 substituted “Air Force cross” for “distinguished-service cross” in section catchline and wherever appearing in subsecs. (a) to (d).
 
 Subsec. (b). Pub. L. 86–582, §1(3)(A), substituted “Except as provided in subsection (d), no” for “No”.
 
@@ -66,5 +66,5 @@ Subsec. (d). Pub. L. 86–582, §1(3)(B), added subsec. (d).
 
 #### Persons Awarded Distinguished-Service Cross or Soldier's Medal Before July 6, 1960
 
-Section 2 of Pub. L. 86–593 provided that: “For the purposes of sections 8744(a) and 8750(b) of title 10,United States Code, a person who was awarded a distinguished-service cross or Soldier's Medal before the date of enactment of this Act \[July 6, 1960\] shall be treated as if he had not been awarded an Air Force cross or Airman's Medal, as the case may be.”
+Section 2 of Pub. L. 86–593 provided that: “For the purposes of sections 8744(a) and 8750(b) of title 10, United States Code, a person who was awarded a distinguished-service cross or Soldier's Medal before the date of enactment of this Act \[July 6, 1960\] shall be treated as if he had not been awarded an Air Force cross or Airman's Medal, as the case may be.”
 

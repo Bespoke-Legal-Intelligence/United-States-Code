@@ -36,21 +36,21 @@ Section 6103(<i>l</i>)(7)(D)(viii) of the Internal Revenue Code, referred to in 
 
 #### Amendments
 
-2008—Subsec. (g). Pub. L. 110–389 substituted “September 30, 2011” for “September 30, 2008”.
+<b>2008</b>—Subsec. (g). Pub. L. 110–389 substituted “September 30, 2011” for “September 30, 2008”.
 
-2003—Subsecs. (a), (b), (g). Pub. L. 108–183 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
+<b>2003</b>—Subsecs. (a), (b), (g). Pub. L. 108–183 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
-2000—Subsec. (g). Pub. L. 106–419 substituted “September 30, 2008” for “September 30, 2002”.
+<b>2000</b>—Subsec. (g). Pub. L. 106–419 substituted “September 30, 2008” for “September 30, 2002”.
 
-1997—Subsec. (g). Pub. L. 105–33 substituted “September 30, 2002” for “September 30, 1998”.
+<b>1997</b>—Subsec. (g). Pub. L. 105–33 substituted “September 30, 2002” for “September 30, 1998”.
 
-1996—Subsec. (c)(3). Pub. L. 104–262 substituted “subsections (a)(2)(G), (a)(3), and (b) of section 1710” for “sections 1710(a)(1)(I), 1710(a)(2), 1710(b), and 1712(a)(2)(B)”.
+<b>1996</b>—Subsec. (c)(3). Pub. L. 104–262 substituted “subsections (a)(2)(G), (a)(3), and (b) of section 1710” for “sections 1710(a)(1)(I), 1710(a)(2), 1710(b), and 1712(a)(2)(B)”.
 
-1993—Subsec. (g). Pub. L. 103–66 substituted “1998” for “1997”.
+<b>1993</b>—Subsec. (g). Pub. L. 103–66 substituted “1998” for “1997”.
 
-1992—Subsec. (g). Pub. L. 102–568 substituted “1997” for “1992”.
+<b>1992</b>—Subsec. (g). Pub. L. 102–568 substituted “1997” for “1992”.
 
-1991—Pub. L. 102–40 renumbered section 3117 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 3117 of this title as this section.
 
 Subsec. (c)(2). Pub. L. 102–83 substituted “1315” for “415”.
 

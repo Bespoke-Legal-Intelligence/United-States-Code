@@ -22,7 +22,7 @@
 
 #### (A) Authority
 
-&emsp;&emsp;The Secretary, acting through the National Institute of Food and Agriculture, shall establish a program under which competitive grants are made to qualified public and private entities (including land grant colleges, cooperative extension services, and colleges or universities), as determined by the Secretary, for the purpose of educating agricultural producers about the full range of risk management activities, including futures, options, agricultural trade options, crop insurance, cash forward contracting, debt reduction, production diversification, farm resources risk reduction, and other risk management strategies.
+&emsp;&emsp;The Secretary, acting through the National Institute of Food and Agriculture,shall establish a program under which competitive grants are made to qualified public and private entities (including land grant colleges, cooperative extension services, and colleges or universities), as determined by the Secretary, for the purpose of educating agricultural producers about the full range of risk management activities, including futures, options, agricultural trade options, crop insurance, cash forward contracting, debt reduction, production diversification, farm resources risk reduction, and other risk management strategies.
 
 #### (B) Basis for grants
 
@@ -130,7 +130,7 @@
 
 #### References in Text
 
-Section 1308(5) of this title, which required the Secretary to issue regulations defining “person”, referredto in subsec. (b)(3), was redesignated section 1308(e) and amended by section 1603(b)(1) of Pub. L. 107–171. Section 1308 was subsequently amended by section 1603 of the Food, Conservation, and Energy Act of 2008, Pub. L. 110–246, to strike out subsec. (e) and add a new subsec. (a)(4) defining “person”. The Food, Conservation, and Energy Act of 2008 does not contain a section 1703(a).
+Section 1308(5) of this title, which required the Secretary to issue regulations defining “person”, referred to in subsec. (b)(3), was redesignated section 1308(e) and amended by section 1603(b)(1) of Pub. L. 107–171. Section 1308 was subsequently amended by section 1603 of the Food, Conservation, and Energy Act of 2008, Pub. L. 110–246, to strike out subsec. (e) and add a new subsec. (a)(4) defining “person”. The Food, Conservation, and Energy Act of 2008 does not contain a section 1703(a).
 
 #### Codification
 

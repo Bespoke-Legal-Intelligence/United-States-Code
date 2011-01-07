@@ -11,11 +11,11 @@
 
 #### Historical and Revision Notes
 
-Chapter 61 provides for the reporting of marine casualties and incidents involving all United States flag vessels occurring anywhere in the world and any foreign flag vessel operating on waters subject to the jurisdiction of the United States.
+Chapter 61 provides for the reporting of marine casualties and incidents involving all United States flagvessels occurring anywhere in the world and any foreign flag vessel operating on waters subject to the jurisdiction of the United States.
 
 #### Amendments
 
-1988—Pub. L. 100–424, §4(c), Sept. 9, 1988, 102 Stat. 1591, added item 6104.
+<b>1988</b>—Pub. L. 100–424, §4(c), Sept. 9, 1988, 102 Stat. 1591, added item 6104.
 
 
 ---

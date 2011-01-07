@@ -22,7 +22,7 @@ As used in this section, the term “controlled premises” means—
 
 &emsp;(C) to inventory any stock of any controlled substance or listed chemical therein and obtain samples of any such substance or chemical.
 
-(4) Except when the owner, operator, or agent in charge of the controlled premises so consents in writing, no inspection authorized by this section shall extend to—
+(4) Except when the owner, operator, or agent in charge of the controlled premises so consentsin writing, no inspection authorized by this section shall extend to—
 
 &emsp;(A) financial data;
 
@@ -52,7 +52,7 @@ Issuance and execution of administrative inspection warrants shall be as follows
 
 &emsp;(2) A warrant shall issue only upon an affidavit of an officer or employee having knowledge of the facts alleged, sworn to before the judge or magistrate judge and establishing the grounds for issuing the warrant. If the judge or magistrate judge is satisfied that grounds for the application exist or that there is probable cause to believe they exist, he shall issue a warrant identifying the area, premises, building, or conveyance to be inspected, the purpose of such inspection, and, where appropriate, the type of property to be inspected, if any. The warrant shall identify the items or types of property to be seized, if any. The warrant shall be directed to a person authorized under subsection (b)(2) of this section to execute it. The warrant shall state the grounds for its issuance and the name of the person or persons whose affidavit has been taken in support thereof. It shall command the person to whom it is directed to inspect the area, premises, building, or conveyance identified for the purpose specified, and, where appropriate, shall direct the seizure of the property specified. The warrant shall direct that it be served during normal business hours. It shall designate the judge or magistrate judge to whom it shall be returned.
 
-&emsp;(3) A warrant issued pursuant to this section must be executed and returned within ten days of its date unless, upon a showing by the United States of a need therefor, the judge ormagistrate judge allows additional time in the warrant. If property is seized pursuant to a warrant, the person executing the warrant shall give to the person from whom or from whose premises the property was taken a copy of the warrant and a receipt for the property taken or shall leave the copy and receipt at the place from which the property was taken. The return of the warrant shall be made promptly and shall be accompanied by a written inventory of any property taken. The inventory shall be made in the presence of the person executing the warrant and of the person from whose possession or premises the property was taken, if they are present, or in the presence of at least one credible person other than the person making such inventory, and shall be verified by the person executing the warrant. The judge or magistrate judge, upon request, shall deliver a copy of the inventory to the person from whom or from whose premises the property was taken and the applicant for the warrant.
+&emsp;(3) A warrant issued pursuant to this section must be executed and returned within ten days of its date unless, upon a showing by the United States of a need therefor, the judge or magistrate judge allows additional time in the warrant. If property is seized pursuant to a warrant, the person executing the warrant shall give to the person from whom or from whose premises the property was taken a copy of the warrant and a receipt for the property taken or shall leave the copy and receipt at the place from which the property was taken. The return of the warrant shall be made promptly and shall be accompanied by a written inventory of any property taken. The inventory shall be made in the presence of the person executing the warrant and of the person from whose possession or premises the property was taken, if they are present, or in the presence of at least one credible person other than the person making such inventory, and shall be verified by the person executing the warrant. The judge or magistrate judge, upon request, shall deliver a copy of the inventory to the person from whom or from whose premises the property was taken and the applicant for the warrant.
 
 &emsp;(4) The judge or magistrate judge who has issued a warrant under this section shall attach to the warrant a copy of the return and all papers filed in connection therewith and shall file them with the clerk of the district court of the United States for the judicial district in which the inspection was made.
 
@@ -60,13 +60,13 @@ Issuance and execution of administrative inspection warrants shall be as follows
 
 #### Amendments
 
-1993—Subsec. (a)(2). Pub. L. 103–200, §6(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “places, including factories, warehouses, or other establishments, and conveyances, where persons registered under section 823 of this title (or exempted from registration under section 822(d) of this title) may lawfully hold, manufacture, or distribute, dispense, administer, or otherwise dispose of controlled substances.”
+<b>1993</b>—Subsec. (a)(2). Pub. L. 103–200, §6(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “places, including factories, warehouses, or other establishments, and conveyances, where persons registered under section 823 of this title (or exempted from registration under section 822(d) of this title) may lawfully hold, manufacture, or distribute, dispense, administer, or otherwise dispose of controlled substances.”
 
 Subsec. (b)(3)(B). Pub. L. 103–200, §6(2)(A), inserted “, listed chemicals,” after “unfinished drugs”.
 
 Subsec. (b)(3)(C). Pub. L. 103–200, §6(2)(B), inserted “or listed chemical” after “controlled substance” and “or chemical” after “such substance”.
 
-1990—Subsec. (b)(3)(B). Pub. L. 101–647 substituted “paragraph (4)” for “paragraph (5)”.
+<b>1990</b>—Subsec. (b)(3)(B). Pub. L. 101–647 substituted “paragraph (4)” for “paragraph (5)”.
 
 #### Change of Name
 

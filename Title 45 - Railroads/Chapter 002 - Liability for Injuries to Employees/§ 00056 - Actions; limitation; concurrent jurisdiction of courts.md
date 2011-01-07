@@ -14,9 +14,9 @@ The second par. of this section is from act Apr. 5, 1910.
 
 #### Amendments
 
-1948—Act June 25, 1948, struck out provision in last sentence relating to removal of actions.
+<b>1948</b>—Act June 25, 1948, struck out provision in last sentence relating to removal of actions.
 
-1939—Act Aug. 11, 1939, changed limitation in first sentence from two to three years.
+<b>1939</b>—Act Aug. 11, 1939, changed limitation in first sentence from two to three years.
 
 #### Change of Name
 

@@ -4,7 +4,7 @@
 
 (2) In this section, the term “improvement” includes rehabilitation of a housing unit and major maintenance or repair work to be accomplished concurrently with an improvement project. Such term does not include day-to-day maintenance and repair work.
 
-(b)(1) Funds may not be expended for the improvement of any single family housing unit, or for the improvement of two or more housing units that are to be converted into or are to be used as a single family housing unit, if the cost per unit of such improvement will exceed (A) $50,000 multiplied by the area construction cost index as developed by the Department of Defense for the location concerned at the time of contract award, or (B) in the case of improvements necessary to make the unit suitable for habitation by a handicapped person, $60,000 multiplied by such index. The Secretary concerned may waive the limitations contained in the preceding sentence if such Secretary determines that, considering the useful life of the structure to be improved and the useful life of a newly constructed unit and the cost of construction and of operation and maintenance of each kind of unit over its useful life, the improvement will be cost-effective. If the Secretary concerned makes a determination under the preceding sentence with respect to an improvement, the waiver under that sentence with respect to that improvement may take effect only after the Secretary transmits a notice of the proposed waiver, together with an economic analysis demonstrating that the improvement will be cost effective, to the appropriate committees of Congress and a period of 21 days has elapsed after the date on which the notification is received by those committees or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the notice is provided in an electronic medium pursuant to section 480 of this title.
+(b)(1) Funds may not be expended for the improvement of any single family housing unit, or for the improvement of two or more housing units that are to be converted into or are to be used as a single family housing unit, if the cost per unit of such improvement will exceed (A) $50,000 multiplied by the area construction cost index as developed by the Department of Defense for the location concerned at the time of contract award, or (B) in the case of improvements necessary to make the unit suitable for habitation by a handicapped person, $60,000 multiplied by such index. The Secretary concerned may waive the limitations contained in the preceding sentence if such Secretary determines that, considering the useful life of the structure to be improved and the useful life of a newly constructed unit and the cost of construction and of operation and maintenance of each kindof unit over its useful life, the improvement will be cost-effective. If the Secretary concerned makes a determination under the preceding sentence with respect to an improvement, the waiver under that sentence with respect to that improvement may take effect only after the Secretary transmits a notice of the proposed waiver, together with an economic analysis demonstrating that the improvement will be cost effective, to the appropriate committees of Congress and a period of 21 days has elapsed after the date on which the notification is received by those committees or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the notice is provided in an electronic medium pursuant to section 480 of this title.
 
 (2) In determining the applicability of the limitation contained in paragraph (1), the Secretary concerned shall include as part of the cost of the improvement of the unit or units concerned the following:
 
@@ -48,31 +48,31 @@
 
 #### Amendments
 
-2003—Subsec. (b)(1). Pub. L. 108–136, §1031(a)(41)(A), struck out “(i)” before “such Secretary determines” and substituted period and last sentence for “, and (ii) a period of 21 days elapses after the date on which the appropriate committees of Congress receive a notice from such Secretary of the proposed waiver, together with an economic analysis demonstrating that the improvement will be cost effective.”.
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §1031(a)(41)(A), struck out “(i)” before “such Secretary determines” and substituted period and last sentence for “, and (ii) a period of 21 days elapses after the date on which the appropriate committees of Congress receive a notice from such Secretary of the proposed waiver, together with an economic analysis demonstrating that the improvement will be cost effective.”.
 
 Subsec. (c)(1)(D). Pub. L. 108–136, §1031(a)(41)(B), inserted before period at end “or, if over sooner, a period of 14 days elapses after the date on which a copy of the notice is provided in an electronic medium pursuant to section 480 of this title”.
 
-2000—Subsec. (b)(3), (4). Pub. L. 106–398 added par. (3) and redesignated former par. (3) as (4).
+<b>2000</b>—Subsec. (b)(3), (4). Pub. L. 106–398 added par. (3) and redesignated former par. (3) as (4).
 
-1996—Subsec. (a)(2). Pub. L. 104–201, §2803(a), inserted “major” before “maintenance or repair” and “Such term does not include day-to-day maintenance and repair work.” at end.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–201, §2803(a), inserted “major” before “maintenance or repair” and “Such term does not include day-to-day maintenance and repair work.” at end.
 
 Subsec. (b)(1). Pub. L. 104–106 substituted “appropriate committees of Congress” for “Committees on Armed Services and the Committees on Appropriations of the Senate and of the House of Representatives”.
 
 Subsec. (b)(2). Pub. L. 104–201, §2803(b), added par. (2) and struck out former par. (2) which read as follows: “In determining the applicability of the limitation contained in paragraph (1), there shall be included as part of the cost of the improvement the cost of repairs undertaken in connection with the improvement and any cost in connection with (A) the furnishing of electricity, gas, water and sewage disposal, (B) the construction or repair of roads and walks, and (C) grading and drainage work.”
 
-1994—Subsec. (b)(3). Pub. L. 103–337 added par. (3).
+<b>1994</b>—Subsec. (b)(3). Pub. L. 103–337 added par. (3).
 
-1992—Subsecs. (c), (d). Pub. L. 102–484 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1992</b>—Subsecs. (c), (d). Pub. L. 102–484 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1990—Subsec. (b)(1). Pub. L. 101–510 substituted “$50,000” for “$40,000” in cl. (A) and inserted at end sentence authorizing Secretary concerned to waive limitations contained in preceding sentence.
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–510 substituted “$50,000” for “$40,000” in cl. (A) and inserted at end sentence authorizing Secretary concerned to waive limitations contained in preceding sentence.
 
-1989—Subsec. (b)(1). Pub. L. 101–189 inserted “(A)” after “will exceed” and added cl. (B).
+<b>1989</b>—Subsec. (b)(1). Pub. L. 101–189 inserted “(A)” after “will exceed” and added cl. (B).
 
-1987—Subsec. (a)(2). Pub. L. 100–26 inserted “the term” after “In this section,”.
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–26 inserted “the term” after “In this section,”.
 
 Subsec. (b)(1). Pub. L. 100–180 substituted “$40,000” for “$30,000”.
 
-1986—Subsec. (b)(1). Pub. L. 99–661 substituted “$30,000” for “an amount specified by law for such purpose”.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–661 substituted “$30,000” for “an amount specified by law for such purpose”.
 
 #### Effective Date
 

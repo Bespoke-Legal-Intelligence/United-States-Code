@@ -2,31 +2,31 @@
 
 (a) The Secretary shall pay to each veteran of a period of war who meets the service requirements of this section (as prescribed in subsection (j) of this section) and who is permanently and totally disabled from non-service-connected disability not the result of the veteran's willful misconduct, pension at the rate prescribed by this section, as increased from time to time under section 5312 of this title.
 
-(b) If the veteran is unmarried (or married but not living with or reasonably contributing to the support of such veteran's spouse) and there is no child of the veteran in the custody of the veteran or to whose support the veteran is reasonably contributing, and unless the veteran is entitled to pension at the rate provided by subsection (d)(1) or (e) of this section, pension shall be paid to the veteran at the annual rate of $3,550, reduced by the amount of the veteran's annual income.
+(b) If the veteran is unmarried (or married but not living with or reasonably contributing to the support of such veteran's spouse) and there is no child of the veteran in the custody of the veteran or to whose support the veteran is reasonably contributing, and unless the veteran is entitled to pension at the rate provided by subsection (d)(1) or (e) of this section, pension shall be paid to the veteran at the annual rate of $11,830, reduced by the amount of the veteran's annual income.
 
-(c) If the veteran is married and living with or reasonably contributing to the support of such veteran's spouse, or if there is a child of the veteran in the custody of the veteran or to whose support the veteran is reasonably contributing, pension shall be paid to the veteran at the annual rate of $4,651, unless the veteran is entitled to pension at the rate provided by subsection (d)(2), (e), or (f) of this section. If the veteran has two or more such family members, such annual rate shall be increased by $600 for each such family member in excess of one. The rate payable shall be reduced by the amount of the veteran's annual income and, subject to subsection (h)(1) of this section, the amount of annual income of such family members.
+(c) If the veteran is married and living with or reasonably contributing to the support of such veteran's spouse, or if there is a child of the veteran in the custody of the veteran or to whose support the veteran is reasonably contributing, pension shall be paid to the veteran at the annual rate of $15,493, unless the veteran is entitled to pension at the rate provided by subsection (d)(2), (e), or (f) of this section. If the veteran has two or more such family members, such annual rate shall be increased by $2,020 for each such family member in excess of one. The rate payable shall be reduced by the amount of the veteran's annual income and, subject to subsection (h)(1) of this section, the amount of annual income of such family members.
 
-(d)(1) If the veteran is in need of regular aid and attendance, the annual rate of pension payable to the veteran under subsection (b) of this section shall be $5,680, reduced by the amount of the veteran's annual income.
+(d)(1) If the veteran is in need of regular aid and attendance, the annual rate of pension payable to the veteran under subsection (b) of this section shall be $19,736, reduced by the amount of the veteran's annual income.
 
-(2) If the veteran is in need of regular aid and attendance, the annual rate of pension payable to the veteran under subsection (c) of this section shall be $6,781. If such veteran has two or more family members, as described in subsection (c) of this section, the annual rate of pension shall be increased by $600 for each such family member in excess of one. The rate payable shall be reduced by the amount of the veteran's annual income and, subject to subsection (h)(1) of this section, the amount of annual income of such family members.
+(2) If the veteran is in need of regular aid and attendance, the annual rate of pension payable to the veteran under subsection (c) of this section shall be $23,396. If such veteran has two or more family members, as described in subsection (c) of this section, the annual rate of pension shall be increased by $2,020 for each such family member in excess of one. The rate payable shall be reduced by the amount of the veteran's annual income and, subject to subsection (h)(1) of this section, the amount of annual income of such family members.
 
-(e) If the veteran has a disability rated as permanent and total and (1) has additional disability or disabilities independently ratable at 60 per centum or more, or (2) by reason of a disability or disabilities, is permanently housebound but does not qualify for pension at the aid and attendance rate provided by subsection (d) of this section, the annual rate of pension payable to the veteran under subsection (b) of this section shall be $4,340 and the annual rate of pension payable to the veteran under subsection (c) of this section shall be $5,441. If such veteran has two or more family members, as described in subsection (c) of this section, the annual rate of pension shall be increased by $600 for each such family member in excess of one. The rate payable shall be reduced by the amount of the veteran's annual income and, subject to subsection (h)(1) of this section, the annual income of such family members.
+(e) If the veteran has a disability rated as permanent and total and (1) has additional disability or disabilities independently ratable at 60 per centum or more, or (2) by reason of a disability or disabilities, is permanently housebound but does not qualify for pension at the aid and attendance rate provided by subsection (d) of this section, the annual rate of pension payable to the veteran under subsection (b) of this section shall be $14,457 and the annual rate of pension payable to the veteran under subsection (c) of this section shall be $18,120. If such veteran has two or more family members, as described in subsection (c) of this section, the annual rate of pension shall be increased by $2,020 for each such family member in excess of one. The rate payable shall be reduced by the amount of the veteran's annual income and, subject to subsection (h)(1) of this section, the annual income of such family members.
 
-(f)(1) If two veterans are married to one another and each meets the disability and service requirements prescribed in subsections (a) and (j), respectively, of this section, or the age and service requirements prescribed in section 1513 of this title, the annual rate of pension payable to such veterans shall be a combined annual rate of $4,651.
+(f)(1) If two veterans are married to one another and each meets the disability and service requirements prescribed in subsections (a) and (j), respectively, of this section, or the age and service requirements prescribed in section 1513 of this title, the annual rate of pension payable to such veterans shall be a combined annual rate of $15,493.
 
-(2) If either such veteran is in need of regular aid and attendance, the annual rate provided by paragraph (1) of this subsection shall be $6,781. If both such veterans are in need of regular aid and attendance, such rate shall be $8,911.
+(2) If either such veteran is in need of regular aid and attendance, the annual rate provided by paragraph (1) of this subsection shall be $23,396. If both such veterans are in need of regular aid and attendance, such rate shall be $30,480.
 
-(3) If either such veteran would be entitled (if not married to a veteran) to pension at the rate provided by subsection (e) of this section, the annual rate provided by paragraph (1) of this subsection shall be $5,441. If both such veterans would be entitled (if not married to one another) to such rate, such rate shall be $6,231.
+(3) If either such veteran would be entitled (if not married to a veteran) to pension at the rate provided by subsection (e) of this section, the annual rate provided by paragraph (1) of this subsection shall be $18,120. If both such veterans would be entitled (if not married to one another) to such rate, such rate shall be $20,747.
 
-(4) If one such veteran is in need of regular aid and attendance and the other would be entitled (if not married to a veteran) to the rate provided for under subsection (e) of this section, the annual rate provided by paragraph (1) of this subsection shall be $7,571.
+(4) If one such veteran is in need of regular aid and attendance and the other would be entitled (if not married to a veteran) to the rate provided for under subsection (e) of this section, the annual rate provided by paragraph (1) of this subsection shall be $26,018.
 
-(5) The annual rate provided by paragraph (1), (2), (3), or (4) of this subsection, as appropriate, shall (A) be increased by $600 for each child of such veterans (or of either such veteran) who is in the custody of either or both such veterans or to whose support either such veteran is, or both such veterans are, reasonably contributing, and (B) be reduced by the amount of the annual income of both such veterans and, subject to subsection (h)(1) of this section, the annual income of each such child.
+(5) The annual rate provided by paragraph (1), (2), (3), or (4) of this subsection, as appropriate, shall (A) be increased by $2,020 for each child of such veterans (or of either such veteran) who is in the custody of either or both such veterans or to whose support either such veteran is, or both such veterans are, reasonably contributing, and (B) be reduced by the amount of the annual income of both such veterans and, subject to subsection (h)(1) of this section, the annual income of each such child.
 
-(g) The annual rate of pension payable under subsection (b), (c), (d), (e), or (f) of this section to any veteran who is a veteran of a period of war shall be increased by $800 if veterans of such period of war were not provided educational benefits or home loan benefits similar to those provided to veterans of later periods of war under chapters 34 and 37, respectively, of this title or under prior corresponding provisions of law.
+(g) The annual rate of pension payable under subsection (b), (c), (d), (e), or (f) of this section to any veteran who is a veteran of a period of war shall be increased by $2,686 if veterans of such period of war were not provided educational benefits or home loan benefits similar to those provided to veterans of later periods of war under chapters 34 and 37, respectively, of this title or under prior corresponding provisions of law.
 
 (h) For the purposes of this section:
 
-&emsp;(1) In determining the annual income of a veteran, if there is a child of the veteran who is in the custody of the veteran or to whose support the veteran is reasonably contributing, that portion of the annual income of the child that is reasonably available to or for the veteran shall be considered to be income of the veteran, unless in the judgment of the Secretary to do so would work a hardship on the veteran.
+&emsp;(1) In determining the annual income of a veteran, if there is a child of the veteran who is in the custody of the veteran or to whose support the veteran is reasonably contributing, that portion of the annual income of the child that is reasonably available to or for the veteran shall be considered to be income of theveteran, unless in the judgment of the Secretary to do so would work a hardship on the veteran.
 
 &emsp;(2) A veteran shall be considered as living with a spouse, even though they reside apart, unless they are estranged.
 
@@ -42,7 +42,7 @@
 
 &emsp;(4) for an aggregate of ninety days or more in two or more separate periods of service during more than one period of war.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1136, §521; Pub. L. 86–211, §3(a), Aug. 29, 1959, 73 Stat. 433; Pub. L. 87–101, §1, July 21, 1961, 75 Stat. 218; Pub. L. 88–664, §§3(a), (b), 5, 6(a), 7, Oct. 13, 1964, 78 Stat. 1094, 1095; Pub. L. 90–77, title I, §104, title II, §202(a)–(c), Aug. 31, 1967, 81 Stat. 179, 182; Pub. L. 90–275, §1(a), (b), Mar. 28, 1968, 82 Stat. 64, 65; Pub. L. 91–588, §§1(a), (b), 3(b), 9(c), Dec. 24, 1970, 84 Stat. 1580, 1583, 1584; Pub. L. 92–198, §§1(a), (b), 5(b), Dec. 15, 1971, 85 Stat. 663, 664; Pub. L. 93–177, §1(a), (b), Dec. 6, 1973, 87 Stat. 694; Pub. L. 93–527, §2, Dec. 21, 1974, 88 Stat. 1702; Pub. L. 94–169, title I, §§102, 106(18), Dec. 23, 1975, 89 Stat. 1014, 1018; Pub. L. 94–432, title II, §202, Sept. 30, 1976, 90 Stat. 1369; Pub. L. 95–204, title I, §101, Dec. 2, 1977, 91 Stat. 1455; Pub. L. 95–588, title I, §106(a), Nov. 4, 1978, 92 Stat. 2500; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1521 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–103, title II, §207(b)(1), Dec. 27, 2001, 115 Stat. 991.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1136, §521; Pub. L. 86–211, §3(a), Aug. 29, 1959, 73 Stat. 433; Pub. L. 87–101, §1, July 21, 1961, 75 Stat. 218; Pub. L. 88–664, §§3(a), (b), 5, 6(a), 7, Oct. 13, 1964, 78 Stat. 1094, 1095; Pub. L. 90–77, title I, §104, title II, §202(a)–(c), Aug. 31, 1967, 81 Stat. 179, 182; Pub. L. 90–275, §1(a), (b), Mar. 28, 1968, 82 Stat. 64, 65; Pub. L. 91–588, §§1(a), (b), 3(b), 9(c), Dec. 24, 1970, 84 Stat. 1580, 1583, 1584; Pub. L. 92–198, §§1(a), (b), 5(b), Dec. 15, 1971, 85 Stat. 663, 664; Pub. L. 93–177, §1(a), (b), Dec. 6, 1973, 87 Stat. 694; Pub. L. 93–527, §2, Dec. 21, 1974, 88 Stat. 1702; Pub. L. 94–169, title I, §§102, 106(18), Dec. 23, 1975, 89 Stat. 1014, 1018; Pub. L. 94–432, title II, §202, Sept. 30, 1976, 90 Stat. 1369; Pub. L. 95–204, title I, §101, Dec. 2, 1977, 91 Stat. 1455; Pub. L. 95–588, title I, §106(a), Nov. 4, 1978, 92 Stat. 2500; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1521 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–103, title II, §207(b)(1), Dec. 27, 2001, 115 Stat. 991; Pub. L. 111–275, title VI, §608(a), Oct. 13, 2010, 124 Stat. 2886.)
 
 #### Prior Provisions
 
@@ -50,9 +50,31 @@ Prior section 1521 was renumbered section 3121 of this title.
 
 #### Amendments
 
-2001—Subsec. (f)(1). Pub. L. 107–103 inserted “or the age and service requirements prescribed in section 1513 of this title,” after “of this section,”.
+<b>2010</b>—Subsec. (b). Pub. L. 111–275, §608(a)(1), substituted “$11,830” for “$3,550”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 521 of this title as this section.
+Subsec. (c). Pub. L. 111–275, §608(a)(2), substituted “$15,493” for “$4,651” and “$2,020” for “$600”.
+
+Subsec. (d)(1). Pub. L. 111–275, §608(a)(3)(A), substituted “$19,736” for “$5,680”.
+
+Subsec. (d)(2). Pub. L. 111–275, §608(a)(3)(B), substituted “$23,396” for “$6,781” and “$2,020” for “$600”.
+
+Subsec. (e). Pub. L. 111–275, §608(a)(4), substituted “$14,457” for “$4,340”, “$18,120” for “$5,441”, and “$2,020” for “$600”.
+
+Subsec. (f)(1). Pub. L. 111–275, §608(a)(5)(A), substituted “$15,493” for “$4,651”.
+
+Subsec. (f)(2). Pub. L. 111–275, §608(a)(5)(B), substituted “$23,396” for “$6,781” and “$30,480” for “$8,911”.
+
+Subsec. (f)(3). Pub. L. 111–275, §608(a)(5)(C), substituted “$18,120” for “$5,441” and “$20,747” for “$6,231”.
+
+Subsec. (f)(4). Pub. L. 111–275, §608(a)(5)(D), substituted “$26,018” for “$7,571”.
+
+Subsec. (f)(5). Pub. L. 111–275, §608(a)(5)(E), substituted “$2,020” for “$600”.
+
+Subsec. (g). Pub. L. 111–275, §608(a)(6), substituted “$2,686” for “$800”.
+
+<b>2001</b>—Subsec. (f)(1). Pub. L. 107–103 inserted “or the age and service requirements prescribed in section 1513 of this title,” after “of this section,”.
+
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 521 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
@@ -60,7 +82,7 @@ Pub. L. 102–40 substituted “5312” for “3112”.
 
 Subsecs. (h)(1), (i). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1978—Subsec. (a). Pub. L. 95–588 revised pension eligibility requirements to speak in terms of a veteran of any period of war rather than veterans of specifically named wars and inserted reference to periodic pension increases pursuant to section 3112 of this title.
+<b>1978</b>—Subsec. (a). Pub. L. 95–588 revised pension eligibility requirements to speak in terms of a veteran of any period of war rather than veterans of specifically named wars and inserted reference to periodic pension increases pursuant to section 3112 of this title.
 
 Subsec. (b). Pub. L. 95–588 qualified parental requirement of this subsection by inserting custody provision, substituted a fixed pension amount of $3,550 for a formula for determining such annual pension based upon the annual income of the veteran, and struck out monthly minimum and maximum pension payments.
 
@@ -78,7 +100,7 @@ Subsec. (h). Pub. L. 95–588 substituted provisions authorizing inclusion of in
 
 Subsecs. (i), (j). Pub. L. 95–588 added subsecs. (i) and (j).
 
-1977—Subsec. (b)(1). Pub. L. 95–204, §101(1), increased monthly rate of pension from $185 to $197, and substituted “1,100” for “1,500” in two places, “1,700” for “1,800” in two places, and “3,770” for “3,540”.
+<b>1977</b>—Subsec. (b)(1). Pub. L. 95–204, §101(1), increased monthly rate of pension from $185 to $197, and substituted “1,100” for “1,500” in two places, “1,700” for “1,800” in two places, and “3,770” for “3,540”.
 
 Subsec. (b)(3). Pub. L. 95–204, §101(2), substituted “$3,770” for “$3,540”.
 
@@ -90,7 +112,7 @@ Subsec. (d). Pub. L. 95–204, §101(5), substituted “$165” for “$155” i
 
 Subsec. (e). Pub. L. 95–204, §101(6), substituted “$61” for “$57”.
 
-1976—Subsec. (b)(1). Pub. L. 94–432, §202(1), increased monthly rate of pension from $173 to $185 and substituted $700 to $900 for $700 to $1,200, $900 to $1,500 for $1,200 to $1,700, $1,500 to $1,800 for $1,700 to $2,000, and $1,800 to $3,540 for $2,000 to $3,300.
+<b>1976</b>—Subsec. (b)(1). Pub. L. 94–432, §202(1), increased monthly rate of pension from $173 to $185 and substituted $700 to $900 for $700 to $1,200, $900 to $1,500 for $1,200 to $1,700, $1,500 to $1,800 for $1,700 to $2,000, and $1,800 to $3,540 for $2,000 to $3,300.
 
 Subsec. (b)(3). Pub. L. 94–432, §202(2), substituted “$3,540” for “$3,300”.
 
@@ -104,7 +126,7 @@ Subsec. (e). Pub. L. 94–432, §202(6), substituted “$57” for “$53”.
 
 Subsec. (h). Pub. L. 94–432, §202(7), added subsec. (h).
 
-1975—Subsec. (b). Pub. L. 94–169, §102(1), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, monthly rate of pension from $160 to $173, substituted $500 to $700 for $500 to $900, $700 to $1200 for $900 to $1500, $1200 to $1700 for $1500 to $1900, $1700 to $2000 for $1900 to $2300, $2000 to $3300 for $2300 to $3000 the minimum and maximum income ranges for which the pension rate will be reduced by 4, 5, 6, 7 and 8 cents per dollar, respectively, and increased from $3000 to $3300 the maximum income in excess of which no pension shall be paid.
+<b>1975</b>—Subsec. (b). Pub. L. 94–169, §102(1), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, monthly rate of pension from $160 to $173, substituted $500 to $700 for $500 to $900, $700 to $1200 for $900 to $1500, $1200 to $1700 for $1500 to $1900, $1700 to $2000 for $1900 to $2300, $2000 to $3300 for $2300 to $3000 the minimum and maximum income ranges for which the pension rate will be reduced by 4, 5, 6, 7 and 8 cents per dollar, respectively, and increased from $3000 to $3300 the maximum income in excess of which no pension shall be paid.
 
 Subsec. (c). Pub. L. 94–169, §102(1), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, from $172 to $186, from $177 to $191 and from $182 to $196 the rate of pension of a veteran with 1, 2 and 3 dependents, respectively, substituted $700 to $1300 for $700 to $1800, $1300 to $2800 for $1800 to $3000, $2800 to $3200 for $3000 to $3500, $3200 to $3800 for $3500 to $3800, and $3800 to $4500 for $4000 to $4200 the minimum and maximum income ranges for which the pension rate will be reduced by 3, 4, 5, 6 and 8 cents per dollar, respectively, struck out the income range of $3800 to $4000 for which the reduction rate is 7 cents per dollar, increased from $4200 to $4500 the income in excess of which no pension shall be paid, and inserted provision that in no case may the amount of pension be less than $5 monthly.
 
@@ -114,7 +136,7 @@ Subsec. (e). Pub. L. 94–169, §102(3), substituted, effective for period begin
 
 Subsec. (g). Pub. L. 94–169, §106(18), substituted “such veteran” for “he”.
 
-1974—Subsec. (b). Pub. L. 93–527, §2(1), substituted “$160” for “$143”, “$500” for “$800” wherever appearing, “$900” for “$1300” wherever appearing, “$1500” for “$1600” wherever appearing, “$1900” for “$2200” wherever appearing, “$2300” for “$2500” wherever appearing, and “$3000” for “$2600” wherever appearing, and inserted provision that in no event should monthly rate of pension be less than $5.00.
+<b>1974</b>—Subsec. (b). Pub. L. 93–527, §2(1), substituted “$160” for “$143”, “$500” for “$800” wherever appearing, “$900” for “$1300” wherever appearing, “$1500” for “$1600” wherever appearing, “$1900” for “$2200” wherever appearing, “$2300” for “$2500” wherever appearing, and “$3000” for “$2600” wherever appearing, and inserted provision that in no event should monthly rate of pension be less than $5.00.
 
 Subsec. (c). Pub. L. 93–527, §2(2), substituted “$172” for “$154”, “$177” for “$159”, “$182” for “$164”, “$700” for “$800” wherever appearing, “$1800” for “$2600” wherever appearing, “$3000” for “$3200” wherever appearing, “$3500” for “$3700” wherever appearing, and inserted provisions for the reduction by 7 cents for each dollar of annual income in excess of $3800 up to and including $4000, and reduction by 8 cents for each dollar of annual income in excess of $4000 up to and including $4200, and raised maximum income from $3800 to $4200.
 
@@ -122,17 +144,17 @@ Subsec. (d). Pub. L. 93–527, §2(3), substituted “$123” for “$110”.
 
 Subsec. (e). Pub. L. 93–527, §2(4), substituted “$49” for “$44”.
 
-1973—Subsec. (b). Pub. L. 93–177, §1(a), substituted “$143” for “$130”, “$800” for “$1,000”, “$1,300” for “$1,500”, “$1,600” for “$1,800”, and “$2,500” for “$2,600” in existing provisions and inserted provision for a reduction of 8 cents in monthly rate for each $1 of annual income in excess of $2,500 up to and including $2,600.
+<b>1973</b>—Subsec. (b). Pub. L. 93–177, §1(a), substituted “$143” for “$130”, “$800” for “$1,000”, “$1,300” for “$1,500”, “$1,600” for “$1,800”, and “$2,500” for “$2,600” in existing provisions and inserted provision for a reduction of 8 cents in monthly rate for each $1 of annual income in excess of $2,500 up to and including $2,600.
 
 Subsec. (c). Pub. L. 93–177, §1(b), substituted “$154” for “$140”, “$159” for “$145”, “$164” for “$150”, “$800” for “$900”, “$2,600” for “$3,200”, and “$3,700” for “$3,800” in existing provisions and inserted provisions for a reduction of 4 cents in monthly rate for each $1 of annual income in excess of $2,600 up to and including $3,200 and for a reduction of 6 cents in monthly rate for each $1 of annual income in excess of $3,700 up to and including $3,800.
 
-1971—Subsec. (b). Pub. L. 92–198, §1(a), substituted formula for computing monthly pension rates of single veteran providing for a maximum monthly pension for each group within designated income category and for computing each individual's monthly benefit rate by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out the income and pension rates, and raised the maximum income from $2300 to $2600.
+<b>1971</b>—Subsec. (b). Pub. L. 92–198, §1(a), substituted formula for computing monthly pension rates of single veteran providing for a maximum monthly pension for each group within designated income category and for computing each individual's monthly benefit rate by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out the income and pension rates, and raised the maximum income from $2300 to $2600.
 
 Subsec. (c). Pub. L. 92–198, §1(b), substituted formula for computing monthly pension rates of veteran with dependents by providing for maximum monthly pension for each group within designated income category depending on the number of dependents and for computing each individual's monthly benefit rate by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out the income and pension rates, and raised the maximum income limit from $3500 to $3800.
 
 Subsec. (g)(3). Pub. L. 92–198, §5(b), inserted reference to Mexican border period.
 
-1970—Pub. L. 91–588, §9(c)(3), inserted reference to Mexican border period in section catchline.
+<b>1970</b>—Pub. L. 91–588, §9(c)(3), inserted reference to Mexican border period in section catchline.
 
 Subsec. (a). Pub. L. 91–588, §9(c)(1), inserted reference to Mexican border period.
 
@@ -146,11 +168,11 @@ Subsec. (e). Pub. L. 91–588, §3(b)(2), substituted “44” for “$40”.
 
 Subsec. (g)(1), (2). Pub. L. 91–588, §9(c)(2), inserted reference to Mexican border period.
 
-1968—Subsec. (b). Pub. L. 90–275, §1(a), in providing new annual income limits to measure monthly pension rates of single veteran, substituted minimum income limit of $300 for monthly benefit of $110 for former $600 limit for monthly benefit of $104, maximum income limit of $2,000 for monthly benefit of $29 for former $1,800 limit for monthly benefit of $45, and sixteen other in-between limits in one hundred dollar increments from more than $300 to less than $1,900 for monthly benefits of $108–37 for former in-between limit of more than $600 but less than $1,200 for monthly benefit of $79.
+<b>1968</b>—Subsec. (b). Pub. L. 90–275, §1(a), in providing new annual income limits to measure monthly pension rates of single veteran, substituted minimum income limit of $300 for monthly benefit of $110 for former $600 limit for monthly benefit of $104, maximum income limit of $2,000 for monthly benefit of $29 for former $1,800 limit for monthly benefit of $45, and sixteen other in-between limits in one hundred dollar increments from more than $300 to less than $1,900 for monthly benefits of $108–37 for former in-between limit of more than $600 but less than $1,200 for monthly benefit of $79.
 
 Subsec. (c). Pub. L. 90–275, §1(b), in providing new annual income limits to measure monthly pension rates of veteran with dependents, substituted minimum income limit of $500 for monthly benefit of $120 (one dependent), $125 (two dependents), and $130 (three or more dependents) for former $1,000 limit for monthly benefit of $109 (one dependent), $114 (two dependents), and $119 (three or more dependents), maximum income limit of $3,200 for monthly benefit of $34 (for any number of dependents) for former $3,000 limit for monthly benefit of $50 (for any number of dependents), and twenty-six other in-between limits in one hundred dollar increments from more than $500 to less than $3,100 for monthly benefits of $118 to 42 (one dependent), $123 to 42 (two dependents), and $128 to 42 (three or more dependents) for former in-between limit of more than $1,000 but less than $2,000 for monthly benefit of $84 (for any number of dependents).
 
-1967—Pub. L. 90–77, §202(c), inserted reference to Vietnam era in section catchline.
+<b>1967</b>—Pub. L. 90–77, §202(c), inserted reference to Vietnam era in section catchline.
 
 Subsec. (a). Pub. L. 90–77, §202(a), inserted reference to Vietnam era.
 
@@ -162,7 +184,7 @@ Subsec. (e). Pub. L. 90–77, §104(c), substituted “$40” for “$35”.
 
 Subsec. (g). Pub. L. 90–77, §202(b), inserted references to Vietnam era in pars. (1) to (3).
 
-1964—Subsec. (b). Pub. L. 88–664, §3(a), increased monthly pension rate in column II from $85, $70, and $40 to $100, $75, and $43, respectively.
+<b>1964</b>—Subsec. (b). Pub. L. 88–664, §3(a), increased monthly pension rate in column II from $85, $70, and $40 to $100, $75, and $43, respectively.
 
 Subsec. (c). Pub. L. 88–664, §3(b), increased monthly pension rate in column II from $90, $75, and $45 to $105, $80, and $48; column III from $95, $75, and $45 to $110, $80, and $48; and column IV from $100, $75, and $45 to $115, $80, and $48, respectively.
 
@@ -172,13 +194,17 @@ Subsecs. (e), (f). Pub. L. 88–664, §§6(a), 7, added subsec. (e), redesignate
 
 Subsec. (g). Pub. L. 88–664, §6(a), redesignated former subsec. (f) as (g).
 
-1961—Subsec. (f)(4). Pub. L. 87–101 added par. (4).
+<b>1961</b>—Subsec. (f)(4). Pub. L. 87–101 added par. (4).
 
-1959—Subsec. (a). Pub. L. 86–211, §3(a)(2), struck out provisions that prescribed amount of monthly pension payable. See subsecs. (b) to (d) of this section.
+<b>1959</b>—Subsec. (a). Pub. L. 86–211, §3(a)(2), struck out provisions that prescribed amount of monthly pension payable. See subsecs. (b) to (d) of this section.
 
 Subsecs. (b) to (e). Pub. L. 86–211, §3(a)(3), added subsecs. (b) to (e). Former subsec. (b) redesignated (f).
 
 Subsec. (f). Pub. L. 86–211, §3(a)(1), redesignated former subsec. (b) as (f).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–275, title VI, §608(d), Oct. 13, 2010, 124 Stat. 2887, provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and sections 1541 and 1542 of this title\] shall apply with respect to pensions paid on or after December 1, 2009.”
 
 #### Effective Date of 2001 Amendment
 
@@ -284,7 +310,7 @@ Section 306 of Pub. L. 95–588, as amended by Pub. L. 102–40, title IV, §402
 
 “(3) Any person eligible to make an election under paragraph (2) who does not make such an election shall continue to receive pension at the monthly rate being paid to such person on December 31, 1978, subject to all provisions of law applicable to basic eligibility for and payment of pension under section 9(b) of the Veterans’ Pension Act of 1959 Pub. L. 86–211, §9(b), Aug. 29, 1959, 73 Stat. 436 \[formerly set out below\], as in effect on December 31, 1978, except that pension may not be paid to such person if such person's annual income (determined in accordance with the applicable provisions of law, as in effect on December 31, 1978) exceeds $3,534, in the case of a veteran or surviving spouse without dependents or in the case of a child, or $5,098, in the case of a veteran or surviving spouse with one or more dependents, as each such amount is increased from time to time under paragraph (4).
 
-“(4) Whenever there is an increase under section 5312 \[formerly 3112\] of title 38, United States Code (as added by section 304 of this Act), in the maximum annual rates of pension under sections 1521, 1541, and 1542 \[formerly 521, 541, and 542\] of such title, as in effect after December 31, 1978, the Secretary shall, effective on the date of such increase under such section 5312 \[formerly 3112\], increase the annual income limitations in effect under paragraph (3) by the same percentage as the percentage by which the maximum annual rates under such sections 1521, 1542, and 1543 \[formerly 521, 542, and 543\] are increased.
+“(4) Whenever there is an increase under section 5312 \[formerly 3112\] of title 38, United States Code (as addedby section 304 of this Act), in the maximum annual rates of pension under sections 1521, 1541, and 1542 \[formerly 521, 541, and 542\] of such title, as in effect after December 31, 1978, the Secretary shall, effective on the date of such increase under such section 5312 \[formerly 3112\], increase the annual income limitations in effect under paragraph (3) by the same percentage as the percentage by which the maximum annual rates under such sections 1521, 1542, and 1543 \[formerly 521, 542, and 543\] are increased.
 
 “(c) Any case in which—
 
@@ -298,7 +324,7 @@ Section 306 of Pub. L. 95–588, as amended by Pub. L. 102–40, title IV, §402
 
 “(d) In any case in which any person who as of December 31, 1978, is entitled to receive pension under section 1521, 1541, or 1542 \[formerly 521, 541, or 542\] of title 38, United States Code, or under section 9(b) of the Veterans’ Pension Act of 1959 Pub. L. 86–211, 6, 9(b), Aug. 29, 1959, 73 Stat. 436 \[formerly set out as a note under this section\], elects (in accordance with subsection (a)(1) or (b)(2), as appropriate) before October 1, 1979, to receive pension under such section as in effect after December 31, 1978, the Administrator of Veterans’ Affairs shall pay to such person an amount equal to the amount by which the amount of pension benefits such person would have received had such election been made on January 1, 1979, exceeds the amount of pension benefits actually paid to such person for the period beginning on January 1, 1979, and ending on the date preceding the date of such election.
 
-“(e) Whenever there is an increase under subsections (a)(3) and (b)(4) in the annual income limitations withrespect to persons being paid pension under subsections (a)(2) and (b)(3), the Secretary shall publish such annual income limitations, as increased pursuant to such subsections, in the Federal Register at the same time as the material required by section 215(i)(2)(D) of the Social Security Act \[section 415(i)(2)(D) of Title 42, The Public Health and Welfare\] is published by reason of a determination under section 215(i) of such Act.”
+“(e) Whenever there is an increase under subsections (a)(3) and (b)(4) in the annual income limitations with respect to persons being paid pension under subsections (a)(2) and (b)(3), the Secretary shall publish such annual income limitations, as increased pursuant to such subsections, in the Federal Register at the same time as the material required by section 215(i)(2)(D) of the Social Security Act \[section 415(i)(2)(D) of Title 42, The Public Health and Welfare\] is published by reason of a determination under section 215(i) of such Act.”
 
 #### Savings Provision
 

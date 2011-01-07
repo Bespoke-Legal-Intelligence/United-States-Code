@@ -1,0 +1,50 @@
+### §6622. Coordination of advanced manufacturing research and development
+
+#### (a) Interagency Committee
+
+The Director shall establish or designate a Committee on Technology under the National Science and Technology Council. The Committee shall be responsible for planning and coordinating Federal programs and activities in advanced manufacturing research and development.
+
+#### (b) Responsibilities of Committee
+
+The Committee shall—
+
+&emsp;(1) coordinate the advanced manufacturing research and development programs and activities of the Federal agencies;
+
+&emsp;(2) establish goals and priorities for advanced manufacturing research and development that will strengthen United States manufacturing;
+
+&emsp;(3) work with industry organizations, Federal agencies, and Federally Funded Research and Development Centers not represented on the Committee, to identify and reduce regulatory, logistical, and fiscal barriers within the Federal government and State governments that inhibit United States manufacturing;
+
+&emsp;(4) facilitate the transfer of intellectual property and technology based on federally supported university research into commercialization and manufacturing;
+
+&emsp;(5) identify technological, market, or business challenges that may best be addressed by public-private partnerships, and are likely to attract both participation and primary funding from industry;
+
+&emsp;(6) encourage the formation of public-private partnerships to respond to those challenges for transition to United States manufacturing; and
+
+&emsp;(7) develop, and update every 5 years, a strategic plan to guide Federal programs and activities in support of advanced manufacturing research and development, which shall—
+
+&emsp;&emsp;(A) specify and prioritize near-term and long-term research and development objectives, the anticipated time frame for achieving the objectives, and the metrics for use in assessing progress toward the objectives;
+
+&emsp;&emsp;(B) specify the role of each Federal agency in carrying out or sponsoring research and development to meet the objectives of the strategic plan;
+
+&emsp;&emsp;(C) describe how the Federal agencies and Federally Funded Research and Development Centers supporting advanced manufacturing research and development will foster the transfer of research and development results into new manufacturing technologies and United States based manufacturing of new products and processes for the benefit of society to ensure national, energy, and economic security;
+
+&emsp;&emsp;(D) describe how Federal agencies and Federally Funded Research and Development Centers supporting advanced manufacturing research and development will strengthen all levels of manufacturing education and training programs to ensure an adequate, well-trained workforce;
+
+&emsp;&emsp;(E) describe how the Federal agencies and Federally Funded Research and Development Centers supporting advanced manufacturing research and development will assist small- and medium-sized manufacturers in developing and implementing new products and processes; and
+
+&emsp;&emsp;(F) take into consideration the recommendations of a wide range of stakeholders, including representatives from diverse manufacturing companies, academia, and other relevant organizations and institutions.
+
+#### (c) Report
+
+Not later than 1 year after January 4, 2011, the Director shall transmit the strategic plan developed under subsection (b)(7) to the Senate Committee on Commerce, Science, and Transportation, and the House of Representatives Committee on Science and Technology, and shall transmit subsequent updates to those committees as appropriate.
+
+(Pub. L. 111–358, title I, §102, Jan. 4, 2011, 124 Stat. 3985.)
+
+#### Codification
+
+Section was enacted as part of the America COMPETES Reauthorization Act of 2010, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, and not as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
+
+#### Definition
+
+For definition of “Director” as used in this section, see section 2 of Pub. L. 111–358, set out as a note under section 6621 of this title.
+

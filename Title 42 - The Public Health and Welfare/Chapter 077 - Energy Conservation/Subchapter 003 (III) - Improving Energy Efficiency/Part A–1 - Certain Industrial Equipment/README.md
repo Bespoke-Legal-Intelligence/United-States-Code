@@ -6,8 +6,6 @@ Certain Industrial Equipment
 
 This part was, in the original, designated part C and has been changed to part A–1 for purposes of codification.
 
-<i><sup>1</sup></i><i> So in original. Probably should be designated “(4)”.</i>
-
 
 ---
 

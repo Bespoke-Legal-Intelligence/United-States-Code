@@ -36,5 +36,5 @@ The Water Bank Act, referred to in subsec. (b)(1), is Pub. L. 91–559, Dec. 19,
 
 #### Amendments
 
-1991—Subsec. (b)(1)(A). Pub. L. 102–237 substituted a semicolon for comma after “corridors”.
+<b>1991</b>—Subsec. (b)(1)(A). Pub. L. 102–237 substituted a semicolon for comma after “corridors”.
 

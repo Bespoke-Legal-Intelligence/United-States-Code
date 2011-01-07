@@ -48,11 +48,11 @@ Pub. L. 101–140 amended this section to read as if the amendments made by sect
 
 #### Amendments
 
-1989—Subsec. (b)(5). Pub. L. 101–140 amended subsec. (b) to read as if amendments by Pub. L. 100–647, §1011B(a)(27)(B), had not been enacted, see 1988 Amendment note below.
+<b>1989</b>—Subsec. (b)(5). Pub. L. 101–140 amended subsec. (b) to read as if amendments by Pub. L. 100–647, §1011B(a)(27)(B), had not been enacted, see 1988 Amendment note below.
 
 Subsecs. (c), (d). Pub. L. 101–140 amended this section to read as if amendments by Pub. L. 100–647, §1011B(a)(27)(A), had not been enacted, see 1988 Amendment note below.
 
-1988—Subsec. (b)(5). Pub. L. 100–647, §1011B(a)(27)(B), added par. (5) relating to limitation in case of benefits to which section 89 applies.
+<b>1988</b>—Subsec. (b)(5). Pub. L. 100–647, §1011B(a)(27)(B), added par. (5) relating to limitation in case of benefits to which section 89 applies.
 
 Subsec. (c). Pub. L. 100–647, §1011B(a)(27)(A), added subsec. (c) relating to tax on funded welfare benefit funds which include discriminatory employee benefit plan. Former subsec. (c) redesignated (d).
 
@@ -62,7 +62,7 @@ Subsec. (c)(2)(A). Pub. L. 100–647, §3021(a)(1)(C)(ii), substituted “testin
 
 Subsec. (d). Pub. L. 100–647, §1011B(a)(27)(A), redesignated former subsec. (c) as (d).
 
-1986—Subsec. (b). Pub. L. 99–514 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For purposes of subsection (a), the term ‘disqualified benefit’ means—
+<b>1986</b>—Subsec. (b). Pub. L. 99–514 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For purposes of subsection (a), the term ‘disqualified benefit’ means—
 
 &emsp;“(1) any medical benefit or life insurance benefit provided with respect to a key employee other than from a separate account established for such owner under section 419A(d), and
 

@@ -22,7 +22,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 &emsp;&emsp;(A) first <sup>1</sup> allocating income under the contract among taxable years before the year in which the contract is completed on the basis of the actual contract price and costs instead of the estimated contract price and costs,
 
-&emsp;&emsp;(B) second, determining (solely for purposes of computing such interest) the overpayment or underpayment of tax for each taxable year referred to in subparagraph (A)which would result solely from the application of subparagraph (A), and
+&emsp;&emsp;(B) second, determining (solely for purposes of computing such interest) the overpayment or underpayment of tax for each taxable year referred to in subparagraph (A) which would result solely from the application of subparagraph (A), and
 
 &emsp;&emsp;(C) then using the adjusted overpayment rate (as defined in paragraph (7)), compounded daily, on the overpayment or underpayment determined under subparagraph (B).
 
@@ -236,6 +236,20 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 &emsp;&emsp;(B) any expenses under an agreement to perform research or development.
 
+#### (6) Special rule for allocation of bonus depreciation with respect to certain property
+
+#### (A) In general
+
+&emsp;&emsp;Solely for purposes of determining the percentage of completion under subsection (b)(1)(A), the cost of qualified property shallbe taken into account as a cost allocated to the contract as if subsection (k) of section 168 had not been enacted.
+
+#### (B) Qualified property
+
+&emsp;&emsp;For purposes of this paragraph, the term “qualified property” means property described in section 168(k)(2) which—
+
+&emsp;&emsp;&emsp;(i) has a recovery period of 7 years or less, and
+
+&emsp;&emsp;&emsp;(ii) is placed in service after December 31, 2009, and before January 1, 2011 (January 1, 2012, in the case of property described in section 168(k)(2)(B)).
+
 #### (d) Federal long-term contract
 
 For purposes of this section—
@@ -352,7 +366,7 @@ For purposes of this section, the term “contract commencement date” means, w
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations to prevent the use of related parties, pass-thru entities, intermediaries, options, or other similar arrangements to avoid the application of this section.
 
-(Added Pub. L. 99–514, title VIII, §804(a), Oct. 22, 1986, 100 Stat. 2358; amended Pub. L. 100–203, title X, §10203(a), Dec. 22, 1987, 101 Stat. 1330–394; Pub. L. 100–647, title I, §1008(c)(1), (2), (4), title V, §5041(a)–(b)(3), (c), (d), Nov. 10, 1988, 102 Stat. 3438, 3439, 3673, 3674; Pub. L. 101–239, title VII, §§7621(a)–(c), 7811(e), 7815(e)(1), Dec. 19, 1989, 103 Stat. 2375, 2376, 2408, 2419; Pub. L. 101–508, title XI, §11812(b)(8), Nov. 5, 1990, 104 Stat. 1388–535; Pub. L. 104–188, title I, §§1702(h)(15), 1704(t)(28), Aug. 20, 1996, 110 Stat. 1874, 1888; Pub. L. 105–34, title XII, §1211(a), (b), Aug. 5, 1997, 111 Stat. 998, 999.)
+(Added Pub. L. 99–514, title VIII, §804(a), Oct. 22, 1986, 100 Stat. 2358; amended Pub. L. 100–203, title X, §10203(a), Dec. 22, 1987, 101 Stat. 1330–394; Pub. L. 100–647, title I, §1008(c)(1), (2), (4), title V, §5041(a)–(b)(3), (c), (d), Nov. 10, 1988, 102 Stat. 3438, 3439, 3673, 3674; Pub. L. 101–239, title VII, §§7621(a)–(c), 7811(e), 7815(e)(1), Dec. 19, 1989, 103 Stat. 2375, 2376, 2408, 2419; Pub. L. 101–508, title XI, §11812(b)(8), Nov. 5, 1990, 104 Stat. 1388–535; Pub. L. 104–188, title I, §§1702(h)(15), 1704(t)(28), Aug. 20, 1996, 110 Stat. 1874, 1888; Pub. L. 105–34, title XII, §1211(a), (b), Aug. 5, 1997, 111 Stat. 998, 999; Pub. L. 111–240, title II, §2023(a), Sept. 27, 2010, 124 Stat. 2559.)
 
 #### References in Text
 
@@ -360,19 +374,21 @@ The date of the enactment of the Revenue Reconciliation Act of 1989, referred to
 
 #### Amendments
 
-1997—Subsec. (b)(2)(C). Pub. L. 105–34, §1211(b)(1), substituted “the adjusted overpayment rate (as defined in paragraph (7))” for “the overpayment rate established by section 6621”.
+<b>2010</b>—Subsec. (c)(6). Pub. L. 111–240 added par. (6).
+
+<b>1997</b>—Subsec. (b)(2)(C). Pub. L. 105–34, §1211(b)(1), substituted “the adjusted overpayment rate (as defined in paragraph (7))” for “the overpayment rate established by section 6621”.
 
 Subsec. (b)(6). Pub. L. 105–34, §1211(a), added par. (6).
 
 Subsec. (b)(7). Pub. L. 105–34, §1211(b)(2), added par. (7).
 
-1996—Subsec. (b)(1). Pub. L. 104–188, §1704(t)(28), which directed that par. (1) be amended by substituting “the look-back method of paragraph (2)” for “the look-back method of paragraph (3)”, could not be executed, because that phrase does not appear in text. See 1989 Amendment note below.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–188, §1704(t)(28), which directed that par. (1) be amended by substituting “the look-back method of paragraph (2)” for “the look-back method of paragraph (3)”, could not be executed, because that phrase does not appear in text. See 1989 Amendment note below.
 
 Subsec. (e)(6)(B). Pub. L. 104–188, §1702(h)(15), substituted “section 168(e)(2)(A)(ii)” for “section 167(k)”.
 
-1990—Subsec. (e)(6)(A)(i). Pub. L. 101–508 substituted “section 168(e)(2)(A)(ii)” for “section 167(k)”.
+<b>1990</b>—Subsec. (e)(6)(A)(i). Pub. L. 101–508 substituted “section 168(e)(2)(A)(ii)” for “section 167(k)”.
 
-1989—Subsec. (a). Pub. L. 101–239, §7621(a), substituted “Requirement that percentage of completion method be used” for “Percentage of completion-capitalized cost method” in heading and amended text generally. Prior to amendment, text read as follows:
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7621(a), substituted “Requirement that percentage of completion method be used” for “Percentage of completion-capitalized cost method” in heading and amended text generally. Prior to amendment, text read as follows:
 
 “(1)
 
@@ -432,7 +448,7 @@ Subsec. (e)(6)(A). Pub. L. 101–239, §7815(e)(1)(A), substituted “activities
 
 Subsec. (e)(6)(A)(i). Pub. L. 101–239, §7815(e)(1)(B), added cl. (i) and struck out former cl. (i) which read as follows: “dwelling units contained in buildings containing 4 or fewer dwelling units, and”.
 
-1988—Subsec. (a)(1)(A). Pub. L. 100–647, §5041(a)(1), substituted “90” for “70”.
+<b>1988</b>—Subsec. (a)(1)(A). Pub. L. 100–647, §5041(a)(1), substituted “90” for “70”.
 
 Subsec. (a)(1)(B). Pub. L. 100–647, §5041(a)(2), substituted “10” for “30”.
 
@@ -466,7 +482,11 @@ Subsec. (e)(6). Pub. L. 100–647, §5041(b)(3), added par. (6).
 
 Subsec. (h). Pub. L. 100–647, §5041(c), added subsec. (h).
 
-1987—Subsec. (a). Pub. L. 100–203 substituted “70 percent” for “40 percent” in par. (1)(A) and in heading and text of par. (2), and “30 percent” for “60 percent” in par. (1)(B).
+<b>1987</b>—Subsec. (a). Pub. L. 100–203 substituted “70 percent” for “40 percent” in par. (1)(A) and in heading and text of par. (2), and “30 percent” for “60 percent” in par. (1)(B).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–240, title II, §2023(b), Sept. 27, 2010, 124 Stat. 2559, provided that: “The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2009.”
 
 #### Effective Date of 1997 Amendment
 
@@ -520,7 +540,7 @@ and (c).—
 
 &emsp;“(A)
 
-In general.—Except as otherwise provided in this paragraph, the amendments made by subsections (a), (b), and (c) \[amending this section and section 56 of this title\] shall apply to contracts entered into on or after June 21, 1988.
+In general.—Except as otherwise provided in this paragraph, the amendments made by subsections (a), (b), and (c) \[amending this section and section 56of this title\] shall apply to contracts entered into on or after June 21, 1988.
 
 &emsp;“(B)
 
@@ -633,4 +653,6 @@ Effective Date.—This section shall apply to contracts for ships or submarines 
 #### Amortization of Past Service Pension Costs
 
 Allocable costs (within the meaning of subsec. (c) of this section) with respect to any property to include contributions paid to or under a pension or annuity plan whether or not such contributions represent past service costs, see section 10204 of Pub. L. 100–203, set out as a note under section 263A of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

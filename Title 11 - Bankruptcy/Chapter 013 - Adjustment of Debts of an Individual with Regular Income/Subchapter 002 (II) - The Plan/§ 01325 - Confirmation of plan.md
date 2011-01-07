@@ -42,7 +42,7 @@
 
 &emsp;(9) the debtor has filed all applicable Federal, State, and local tax returns as required by section 1308.
 
-> For purposes of paragraph (5), section 506 shall not apply to a claim described in that paragraph if the creditor has a purchase money security interest securing the debt that is the subject of the claim, the debt was incurred within the 910-day preceding the date of the filing of the petition, and the collateral for that debt consists of a motor vehicle (as defined in section 30102 of title 49) acquired for the personal use of the debtor, or if collateral for that debt consists of any other thing of value, if the debt was incurred during the 1-year period preceding that filing.
+> For purposes of paragraph (5), section 506 shall not apply to a claim described in that paragraph if the creditor has a purchase money security interest securing the debt that is the subject of the claim, the debt was incurred within the 910-day period preceding the date of the filing of the petition, and the collateral for that debt consists of a motor vehicle (as defined in section30102 of title 49) acquired for the personal use of the debtor, or if collateral for that debt consists of any other thing of value, if the debt was incurred during the 1-year period preceding that filing.
 
 (b)(1) If the trustee or the holder of an allowed unsecured claim objects to the confirmation of the plan, then the court may not approve the plan unless, as of the effective date of the plan—
 
@@ -50,11 +50,11 @@
 
 &emsp;(B) the plan provides that all of the debtor's projected disposable income to be received in the applicable commitment period beginning on the date that the first payment is due under the plan will be applied to make payments to unsecured creditors under the plan.
 
-(2) For purposes of this subsection, the term “disposable income” means current monthly income received by the debtor (other than child support payments, foster care payments, or disability payments for a dependent child made in accordance with applicable nonbankruptcy lawto the extent reasonably necessary to be expended for such child) less amounts reasonably necessary to be expended—
+(2) For purposes of this subsection, the term “disposable income” means current monthly income received by the debtor (other than child support payments, foster care payments, or disability payments for a dependent child made in accordance with applicable nonbankruptcy law to the extent reasonably necessary to be expended for such child) less amounts reasonably necessary to be expended—
 
 &emsp;(A)(i) for the maintenance or support of the debtor or a dependent of the debtor, or for a domestic support obligation, that first becomes payable after the date the petition is filed; and
 
-&emsp;(ii) for charitable contributions (that meet the definition of “charitable contribution” under section 548(d)(3) <sup>1</sup> to a qualified religious or charitable entity or organization (as defined in section 548(d)(4)) in an amount not to exceed 15 percent of gross income of the debtor for the year in which the contributions are made; and
+&emsp;(ii) for charitable contributions (that meet the definition of “charitable contribution” under section 548(d)(3)) to a qualified religious or charitable entity or organization (as defined in section 548(d)(4)) in an amount not to exceed 15 percent of gross income of the debtor for the year in which the contributions are made; and
 
 &emsp;(B) if the debtor is engaged in business, for the payment of expenditures necessary for the continuation, preservation, and operation of such business.
 
@@ -84,7 +84,11 @@
 
 (c) After confirmation of a plan, the court may order any entity from whom the debtor receives income to pay all or any part of such income to the trustee.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2649; Pub. L. 98–353, title III, §§317, 530, July 10, 1984, 98 Stat. 356, 389; Pub. L. 99–554, title II, §283(y), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 105–183, §4(a), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title I, §102(g), (h), title II, §213(10), title III, §§306(a), (b), 309(c)(1), 318(2), (3), title VII, §716(a), Apr. 20, 2005, 119 Stat. 33, 53, 80, 83, 93, 129; Pub. L. 109–439, §2, Dec. 20, 2006, 120 Stat. 3285.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2649; Pub. L. 98–353, title III, §§317, 530, July 10, 1984, 98 Stat. 356, 389; Pub. L. 99–554, title II, §283(y), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 105–183, §4(a), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title I, §102(g), (h), title II, §213(10), title III, §§306(a), (b), 309(c)(1), 318(2), (3), title VII, §716(a), Apr. 20, 2005, 119 Stat. 33, 53, 80, 83, 93, 129; Pub. L. 109–439, §2, Dec. 20, 2006, 120 Stat. 3285; Pub. L. 111–327, §2(a)(44), Dec. 22, 2010, 124 Stat. 3562.)
+
+#### Adjustment of Dollar Amounts
+
+<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.</i>
 
 #### Historical and Revision Notes
 
@@ -99,6 +103,10 @@ The bankruptcy court must confirm a plan if (1) the plan satisfies the provision
 Subsection (b) authorizes the court to order an entity, as defined by Section 101(15), to pay any income of the debtor to the trustee. Any governmental unit is an entity subject to such an order.
 
 #### Amendments
+
+2010—Subsec. (a). Pub. L. 111–327, §2(a)(44)(A), inserted “period” after “910-day” in concluding provisions.
+
+Subsec. (b)(2)(A)(ii). Pub. L. 111–327, §2(a)(44)(B), inserted closing parenthesis after “548(d)(3)”.
 
 2006—Subsec. (b)(3). Pub. L. 109–439 inserted “, other than subparagraph (A)(ii) of paragraph (2),” after “under paragraph (2)” in introductory provisions.
 
@@ -154,7 +162,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsec. (b) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
+The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a second closing parenthesis.</i>
+By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (b)(3), (4), dollar amount “575” was adjusted to “625”. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (b), dollar amount “525” was adjusted to “575” each time it appeared.
 

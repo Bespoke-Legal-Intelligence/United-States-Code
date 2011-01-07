@@ -1,12 +1,12 @@
 ### §5023. Minority population participation
 
-The Director shall take appropriate steps to insure that special efforts are made to recruit, select, and assign qualified individuals age 55 years or older from minority populations to serve as volunteers under this subchapter.
+The Director shall take appropriate steps to insure that special efforts are made to recruit, select, and assign qualified individuals age 55years or older from minority populations to serve as volunteers under this subchapter.
 
 (Pub. L. 93–113, title II, §223, Oct. 1, 1973, 87 Stat. 404; Pub. L. 111–13, title II, §2146(b), Apr. 21, 2009, 123 Stat. 1589.)
 
 #### Amendments
 
-2009—Pub. L. 111–13 substituted “population” for “group” in section catchline and “age 55 years or older from minority populations” for “sixty years and older from minority groups” in text.
+<b>2009</b>—Pub. L. 111–13 substituted “population” for “group” in section catchline and “age 55 years or older from minority populations” for “sixty years and older from minority groups” in text.
 
 #### Effective Date of 2009 Amendment
 

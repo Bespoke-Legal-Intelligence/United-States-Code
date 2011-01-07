@@ -12,7 +12,7 @@ For the purpose of this part, the term “eligible institution” means—
 
 &emsp;&emsp;(A) which has an enrollment of needy students as required by subsection (d);
 
-&emsp;&emsp;(B) except as provided in section 1068a(b) of this title, the average educational and general expenditures of which are low, per full-time equivalent undergraduate student, incomparison with the average educational and general expenditures per full-time equivalent undergraduate student of institutions that offer similar instruction;
+&emsp;&emsp;(B) except as provided in section 1068a(b) of this title, the average educational and general expenditures of which are low, per full-time equivalent undergraduate student, in comparison with the average educational and general expenditures per full-time equivalent undergraduate student of institutions that offer similar instruction;
 
 &emsp;&emsp;(C) which is—
 
@@ -48,7 +48,7 @@ Except as provided in section 1059e(b) of this title, for the purpose of this pa
 
 &emsp;(1) at least 50 percent of the degree students so enrolled who are receiving need-based assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in the second fiscal year preceding the fiscal year for which the determination is being made (other than loans for which an interest subsidy is paid pursuant to section 1078 of this title), or
 
-&emsp;(2) a substantial percentage of students receiving Pell Grants in the second fiscal year preceding the fiscal year for which determination is being made, in comparison with the percentage of students receiving Pell Grants at all such institutions in the second fiscal year preceding the fiscal year for which the determination is made, unless the requirement of this paragraph is waived under section 1068a(a) of this title.
+&emsp;(2) a substantial percentage of students receiving Pell Grants in the second fiscal year preceding the fiscal year for which determination is being made, in comparison with the percentage of students receiving Pell Grants at all such institutions in the second fiscal year preceding the fiscal year for which thedetermination is made, unless the requirement of this paragraph is waived under section 1068a(a) of this title.
 
 #### (e) Full-time equivalent students
 
@@ -80,11 +80,11 @@ For the purposes of this section, no historically black college or university wh
 
 #### Prior Provisions
 
-A prior section 1058, Pub. L. 89–329, title III, §312, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat.1391, defined terms used in this subchapter, prior to the general revision of this subchapter by Pub. L. 99–498.
+A prior section 1058, Pub. L. 89–329, title III, §312, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1391, defined terms used in this subchapter, prior to the general revision of this subchapter by Pub. L. 99–498.
 
 #### Amendments
 
-2008—Subsec. (b)(1)(A). Pub. L. 110–315, §302(1), substituted “subsection (d)” for “subsection (c) of this section”.
+<b>2008</b>—Subsec. (b)(1)(A). Pub. L. 110–315, §302(1), substituted “subsection (d)” for “subsection (c) of this section”.
 
 Subsec. (d). Pub. L. 110–315, §305(b), substituted “Except as provided in section 1059e(b) of this title, for the purpose” for “For the purpose” in introductory provisions.
 
@@ -92,7 +92,7 @@ Subsec. (d)(2). Pub. L. 110–315, §302(2), substituted “paragraph” for “
 
 Subsecs. (g), (h). Pub. L. 110–315, §302(3), (4), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-1998—Subsec. (b)(1)(B). Pub. L. 105–244, §301(c)(2)(A), substituted “section 1068a(b)” for “section 1067(b)”.
+<b>1998</b>—Subsec. (b)(1)(B). Pub. L. 105–244, §301(c)(2)(A), substituted “section 1068a(b)” for “section 1067(b)”.
 
 Subsec. (c). Pub. L. 105–244, §303(b)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -100,13 +100,13 @@ Subsec. (c)(2). Pub. L. 105–244, §301(c)(2)(B), substituted “section 1068a(
 
 Subsecs. (d) to (g). Pub. L. 105–244, §303(b)(1), redesignated subsecs. (c) to (f) as (d) to (g), respectively.
 
-1994—Subsec. (b)(1)(C). Pub. L. 103–382, §353(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “(C)(i) which is legally authorized to provide, and provides within the State, an educational program for which it awards a bachelor's degree, or (ii) which is a junior or community college;”.
+<b>1994</b>—Subsec. (b)(1)(C). Pub. L. 103–382, §353(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “(C)(i) which is legally authorized to provide, and provides within the State, an educational program for which it awards a bachelor's degree, or (ii) which is a junior or community college;”.
 
 Subsec. (b)(1)(F). Pub. L. 103–382, §353(2), (3), added subpar. (F).
 
-1993—Subsec. (c)(2). Pub. L. 103–208 inserted “the” after “such institutions in”.
+<b>1993</b>—Subsec. (c)(2). Pub. L. 103–208 inserted “the” after “such institutions in”.
 
-1992—Subsec. (b)(1), (2). Pub. L. 102–325, §302(a)(1), (2), inserted “and” at end of subpar. (D), struck out subpar. (E), redesignated subpar. (F) as (E) and inserted “and” at end, and substituted period for semicolon at end of par. (2). Prior to amendment, subpar. (E) of par. (1) read as follows: “except as provided in section 1067(b) of this title which has, during the 5 academic years preceding the academic year for which it seeks assistance under this part—
+<b>1992</b>—Subsec. (b)(1), (2). Pub. L. 102–325, §302(a)(1), (2), inserted “and” at end of subpar. (D), struck out subpar. (E), redesignated subpar. (F) as (E) and inserted “and” at end, and substituted period for semicolon at end of par. (2). Prior to amendment, subpar. (E) of par. (1) read as follows: “except as provided in section 1067(b) of this title which has, during the 5 academic years preceding the academic year for which it seeks assistance under this part—
 
 &emsp;“(i) met the requirement of either subparagraph (C)(i) or (C)(ii), or of both such subparagraphs (simultaneously or consecutively); and
 
@@ -122,9 +122,9 @@ Subsec. (b)(3) to (5). Pub. L. 102–325, §302(a)(3), struck out pars. (3) to (
 
 Subsec. (c)(2). Pub. L. 102–325, §302(b), substituted “second fiscal year preceding the fiscal year for which the determination is made, unless the requirement” for “second preceding fiscal year, unless the requirement”.
 
-1988—Subsec. (f). Pub. L. 100–369 added subsec. (f).
+<b>1988</b>—Subsec. (f). Pub. L. 100–369 added subsec. (f).
 
-1987—Subsec. (b)(1)(C), (D). Pub. L. 100–50, §2(a)(2)(A), inserted “which” before “is” wherever appearing.
+<b>1987</b>—Subsec. (b)(1)(C), (D). Pub. L. 100–50, §2(a)(2)(A), inserted “which” before “is” wherever appearing.
 
 Subsec. (b)(1)(E). Pub. L. 100–50, §2(a)(2)(B), inserted “which” before “has”.
 

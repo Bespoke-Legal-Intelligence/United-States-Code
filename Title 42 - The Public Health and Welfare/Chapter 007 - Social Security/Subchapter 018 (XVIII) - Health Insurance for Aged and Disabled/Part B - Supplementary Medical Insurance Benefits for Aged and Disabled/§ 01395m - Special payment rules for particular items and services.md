@@ -52,9 +52,11 @@
 
 &emsp;&emsp;In the case of covered items furnished on or after January 1, 2011, subject to subparagraph (G), that are included in a competitive acquisition program in a competitive acquisition area under section 1395w–3(a) of this title—
 
-&emsp;&emsp;&emsp;(i) the payment basis under this subsection for such items and services furnished in such area shall be the payment basis determined under such competitive acquisition program; and
+&emsp;&emsp;&emsp;(i) the payment basis under this subsection for such items and services furnished in such area shall be the payment basis determined under such competitive acquisition program;
 
-&emsp;&emsp;&emsp;(ii) the Secretary may use information on the payment determined under such competitive acquisition programs to adjust the payment amount otherwise recognized under subparagraph (B)(ii) for an area that is not a competitive acquisition area under section 1395w–3 of this title and in the case of such adjustment, paragraph (10)(B) shall not be applied.
+&emsp;&emsp;&emsp;(ii) the Secretary may (and, in the case of covered items furnished on or after January 1, 2016, subject to clause (iii), shall) use information on the payment determined under such competitive acquisition programs to adjust the payment amount otherwise recognized under subparagraph (B)(ii) for an area that is not a competitive acquisition area under section 1395w–3 of this title and in the case of such adjustment, paragraph (10)(B) shall not be applied; and
+
+&emsp;&emsp;&emsp;(iii) in the case of covered items furnished on or after January 1, 2016, the Secretary shall continue to make such adjustments described in clause (ii) as, under such competitive acquisition programs, additional covered items are phased in or information is updated as contracts under section 1395w–3 of this title are recompeted in accordance with section 1395w–3(b)(3)(B) of this title.
 
 #### (G) Use of information on competitive bid rates
 
@@ -110,7 +112,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Payment for a covered item (such as IPPB machines and ventilators, excluding ventilators that are either continuous airway pressure devices or intermittent assist devices with continuous airway pressure devices) for which there must be frequent and substantial servicing in order to avoid risk to the patient's health shall be made on a monthly basis for the rental of the item and the amount recognized is the amount specified in subparagraph (B).
+&emsp;&emsp;Payment for a covered item (such as IPPB machines and ventilators, excluding ventilators that are either continuous airway pressure devices or intermittent assist devices with continuous airway pressure devices) for which there must be frequent and substantial servicing in order to avoid risk to thepatient's health shall be made on a monthly basis for the rental of the item and the amount recognized is the amount specified in subparagraph (B).
 
 #### (B) Payment amount
 
@@ -208,15 +210,19 @@
 
 #### (II) Payment amount
 
-&emsp;&emsp;&emsp;&emsp;Subject to subparagraph (B), the amount recognized for the item, for eachof the first 3 months of such period, is 10 percent of the purchase price recognized under paragraph (8) with respect to the item, and, for each of the remaining months of such period, is 7.5 percent of such purchase price.
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (III) and subparagraph (B), the amount recognized for the item, for each of the first 3 months of such period, is 10 percent of the purchase price recognized under paragraph (8) with respect to the item, and, for each of the remaining months of such period, is 7.5 percent of such purchase price.
+
+#### (III) Special rule for power-driven wheelchairs
+
+&emsp;&emsp;&emsp;&emsp;For purposes of payment for power-driven wheelchairs, subclause (II) shall be applied by substituting “15 percent” and “6 percent” for “10 percent” and “7.5 percent”, respectively.
 
 #### (ii) Ownership after rental
 
 &emsp;&emsp;&emsp;On the first day that begins after the 13th continuous month during which payment is made for the rental of an item under clause (i), the supplier of the item shall transfer title to the item to the individual.
 
-#### (iii) Purchase agreement option for power-driven wheelchairs
+#### (iii) Purchase agreement option for complex, rehabilitative power-driven wheelchairs
 
-&emsp;&emsp;&emsp;In the case of a power-driven wheelchair, at the time the supplier furnishes the item, the supplier shall offer the individual the option to purchase the item, and payment for such item shall be made on a lump-sum basis if the individual exercises such option.
+&emsp;&emsp;&emsp;In the case of a complex, rehabilitative power-driven wheelchair, at the time the supplier furnishes the item, the supplier shall offer the individual the option to purchase the item, and payment for such item shall be made on a lump-sum basis if the individual exercises such option.
 
 #### (iv) Maintenance and servicing
 
@@ -226,7 +232,7 @@
 
 #### (i) For 1989
 
-&emsp;&emsp;&emsp;For items furnished during 1989, the payment amount recognized under subparagraph (A)(i) shall not be more than 115 percent, and shall not be less than 85 percent, of the prevailing charge established for rental of the item in January 1987, increased by the percentage increase in the consumer price index for all urban consumers (U.S. city average) for the 6-month period ending with December 1987.
+&emsp;&emsp;&emsp;For items furnished during 1989, the payment amount recognized under subparagraph (A)(i) shall not be more than 115 percent, and shall not be less than 85 percent, of the prevailing charge established forrental of the item in January 1987, increased by the percentage increase in the consumer price index for all urban consumers (U.S. city average) for the 6-month period ending with December 1987.
 
 #### (ii) For 1990
 
@@ -244,7 +250,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) on a monthly basis for the rental of the replacement item in accordance with subparagraph (A); or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of an item for which a purchase agreement has been entered into under subparagraph (A)(ii) or (A)(iii), in a lump-sum amount for the purchase of the item.
+&emsp;&emsp;&emsp;&emsp;(II) in the case of an item for which a purchase agreement has been entered into under subparagraph (A)(iii), in a lump-sum amount for the purchase of the item.
 
 #### (iii) Length of reasonable useful lifetime
 
@@ -320,7 +326,7 @@
 
 &emsp;&emsp;&emsp;(ii) for 1992 and 1993, the amount determined under this subparagraph for the preceding year increased by the covered item update for such subsequent year;
 
-&emsp;&emsp;&emsp;(iii) for 1994, the local monthly payment rate computed under subparagraph (A)(ii) for the item for the year, except that such national limited monthly payment rate may not exceed 100 percent of the median of all local monthly payment rates computed for the item under such subparagraph for the year and may not be less than 85 percent of the median of all local monthly payment rates computed for theitem under such subparagraph for the year;
+&emsp;&emsp;&emsp;(iii) for 1994, the local monthly payment rate computed under subparagraph (A)(ii) for the item for the year, except that such national limited monthly payment rate may not exceed 100 percent of the median of all local monthly payment rates computed for the item under such subparagraph for the year and may not be less than 85 percent of the median of all local monthly payment rates computed for the item under such subparagraph for the year;
 
 &emsp;&emsp;&emsp;(iv) for 1995, 1996, and 1997, equal to the amount determined under this subparagraph for the preceding year increased by the covered item update for such subsequent year;
 
@@ -372,7 +378,13 @@
 
 #### (B) Requirement of physician order
 
-&emsp;&emsp;The Secretary is authorized to require, for specified covered items, that payment may be made under this subsection with respect to the item only if a physician has communicated to the supplier, before delivery of the item, a written order for the item.
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary is authorized to require, for specified covered items, that payment may be made under this subsection with respect to the item only if a physician enrolled under section 1395cc(j) of this title or an eligible professional under section 1395w–4(k)(3)(B) of this title that is enrolled under section 1395cc(j) of this title has communicated to the supplier, before delivery of the item, a written order for the item.
+
+#### (ii) Requirement for face to face encounter
+
+&emsp;&emsp;&emsp;The Secretary shall require that such an order be written pursuant to the physician documenting that a physician, a physician assistant, a nurse practitioner, or a clinical nurse specialist (as those terms are defined in section 1395x(aa)(5) of this title) has had a face-to-face encounter (including through use of telehealth under subsection (m) and other than with respect to encounters that are incident to services involved) with the individual involved during the 6-month period preceding such written order, or other reasonable timeframe as determined by the Secretary.
 
 #### (12) Regional carriers
 
@@ -422,15 +434,15 @@
 
 &emsp;&emsp;&emsp;(ii) in the case of other items and services, the percentage increase in the consumer price index for all urban consumers (U.S. urban average) for the 12-month period ending with June 2008;
 
-&emsp;&emsp;(K) for 2010, 2011, 2012, and 2013, the percentage increase in the consumer price index for all urban consumers (U.S. urban average) for the 12-month period ending with June of the previous year;
+&emsp;&emsp;(K) for 2010, the percentage increase in the consumer price index for all urban consumers (U.S. urban average) for the 12-month period ending with June of the previous year; and
 
-&emsp;&emsp;(L) for 2014—
+&emsp;&emsp;(L) for 2011 and each subsequent year—
 
-&emsp;&emsp;&emsp;(i) in the case of items and services described in subparagraph (J)(i) for which a payment adjustment has not been made under subsection (a)(1)(F)(ii) in any previous year, the percentage increase in the consumer price index for all urban consumers (U.S. urban average) for the 12-month period ending with June 2013, plus 2.0 percentage points; or
+&emsp;&emsp;&emsp;(i) the percentage increase in the consumer price index for all urban consumers (United States city average) for the 12-month period ending with June of the previous year, reduced by—
 
-&emsp;&emsp;&emsp;(ii) in the case of other items and services, the percentage increase in the consumer price index for all urban consumers (U.S. urban average) for the 12-month period ending with June 2013; and
+&emsp;&emsp;&emsp;(ii) the productivity adjustment described in section 1395ww(b)(3)(B)(xi)(II) of this title.
 
-&emsp;&emsp;(M) for a subsequent year, the percentage increase in the consumer price index for all urban consumers (U.S. urban average) for the 12-month period ending with June of the previous year.
+> &emsp;The application of subparagraph (L)(ii) may result in the covered item update under this paragraph being less than 0.0 for a year, and may result in payment rates under this subsection for a year being less than such payment rates for the preceding year.
 
 #### (15) Advance determinations of coverage for certain items
 
@@ -458,7 +470,7 @@
 
 #### (16) Disclosure of information and surety bond
 
-&emsp;The Secretary shall not provide for the issuance (or renewal) of a provider number for a supplier of durable medical equipment, forpurposes of payment under this part for durable medical equipment furnished by the supplier, unless the supplier provides the Secretary on a continuing basis—
+&emsp;The Secretary shall not provide for the issuance (or renewal) of a provider number for a supplier of durable medical equipment, for purposes of payment under this part for durable medical equipment furnished by the supplier, unless the supplier provides the Secretary on a continuing basis—
 
 &emsp;&emsp;(A) with—
 
@@ -466,9 +478,9 @@
 
 &emsp;&emsp;&emsp;(ii) to the extent determined to be feasible under regulations of the Secretary, the name of any disclosing entity (as defined in section 1320a–3(a)(2) of this title) with respect to which a person with such an ownership or control interest in the supplier is a person with such an ownership or control interest in the disclosing entity; and
 
-&emsp;&emsp;(B) with a surety bond in a form specified by the Secretary and in an amount that is not less than $50,000.
+&emsp;&emsp;(B) with a surety bond in a form specified by the Secretary and in an amount that is not less than $50,000 that the Secretary determines is commensurate with the volume of the billing of the supplier.
 
-> &emsp;The Secretary may waive the requirement of a bond under subparagraph (B) in the case of a supplier that provides a comparable surety bond under State law. The Secretary, at the Secretary's discretion, may impose the requirements of the first sentence with respect to some or all providers of items or services under part A of this subchapter or some or all suppliers or other persons (other than physicians or other practitioners, as defined in section 1395u(b)(18)(C) of this title) who furnish items or services under this part.
+> &emsp;The Secretary may waive the requirement of a bond under subparagraph (B) in the case of asupplier that provides a comparable surety bond under State law. The Secretary, at the Secretary's discretion, may impose the requirements of the first sentence with respect to some or all providers of items or services under part A of this subchapter or some or all suppliers or other persons (other than physicians or other practitioners, as defined in section 1395u(b)(18)(C) of this title) who furnish items or services under this part.
 
 #### (17) Prohibition against unsolicited telephone contacts by suppliers
 
@@ -520,7 +532,7 @@
 
 #### (A) Individual's right to choose upgraded item
 
-&emsp;&emsp;Notwithstanding any other provision of this subchapter, the Secretary may issue regulations under which an individual may purchase or rent from a supplier an item ofupgraded durable medical equipment for which payment would be made under this subsection if the item were a standard item.
+&emsp;&emsp;Notwithstanding any other provision of this subchapter, the Secretary may issue regulations under which an individual may purchase or rent from a supplier an item of upgraded durable medical equipment for which payment would be made under this subsection if the item were a standard item.
 
 #### (B) Payments to supplier
 
@@ -582,7 +594,7 @@
 
 &emsp;&emsp;In implementing quality standards under this paragraph—
 
-&emsp;&emsp;&emsp;(i) subject to clause (ii), the Secretary shall require suppliers furnishing items and services described in subparagraph (D) on or after October 1, 2009, directly or as a subcontractor for another entity, to have submitted to the Secretary evidence of accreditation by an accreditation organization designated under subparagraph (B) as meeting applicable quality standards, except that the Secretary shall not require under this clause pharmacies to obtain such accreditation before January 1, 2010; and
+&emsp;&emsp;&emsp;(i) subject to clause (ii) and subparagraph (G), the Secretary shall require suppliers furnishing items and services described in subparagraph (D) on or after October 1, 2009, directly or as a subcontractor for another entity, to have submitted to the Secretary evidence of accreditation by an accreditation organization designated under subparagraph (B) as meeting applicable quality standards, except that the Secretary shall not require under this clause pharmacies to obtain such accreditation before January 1, 2010, except that the Secretary shall not require a pharmacy to have submitted to the Secretary such evidence of accreditation prior to January 1, 2011; and
 
 &emsp;&emsp;&emsp;(ii) in applying such standards and the accreditation requirement of clause (i) with respect to eligible professionals (as defined in section 1395w–4(k)(3)(B) of this title), and including such other persons, such as orthotists and prosthetists, as specified by the Secretary, furnishing such items and services—
 
@@ -590,11 +602,33 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the Secretary may exempt such professionals and persons from such standards and requirement if the Secretary determines that licensing, accreditation, or other mandatory quality requirements apply to such professionals and persons with respect to the furnishing of such items and services.
 
+#### (G) Application of accreditation requirement to certain pharmacies
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;With respect to items and services furnished on or after January 1, 2011, in implementing quality standards under this paragraph—
+
+&emsp;&emsp;&emsp;&emsp;(I) subject to subclause (II), in applying such standards and the accreditation requirement of subparagraph (F)(i) with respect to pharmacies described in clause (ii) furnishing such items and services, such standards and accreditation requirement shall not apply to such pharmacies; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the Secretary may apply to such pharmacies an alternative accreditation requirement established by the Secretary if the Secretary determines such alternative accreditation requirement is more appropriate for such pharmacies.
+
+#### (ii) Pharmacies described
+
+&emsp;&emsp;&emsp;A pharmacy described in this clause is a pharmacy that meets each of the following criteria:
+
+&emsp;&emsp;&emsp;&emsp;(I) The total billings by the pharmacy for such items and services under this subchapter are less than 5 percent of total pharmacy sales, as determinedbased on the average total pharmacy sales for the previous 3 calendar years, 3 fiscal years, or other yearly period specified by the Secretary.
+
+&emsp;&emsp;&emsp;&emsp;(II) The pharmacy has been enrolled under section 1395cc(j) of this title as a supplier of durable medical equipment, prosthetics, orthotics, and supplies, has been issued (which may include the renewal of) a provider number for at least 5 years, and for which a final adverse action (as defined in section 424.57(a) of title 42, Code of Federal Regulations) has not been imposed in the past 5 years.
+
+&emsp;&emsp;&emsp;&emsp;(III) The pharmacy submits to the Secretary an attestation, in a form and manner, and at a time, specified by the Secretary, that the pharmacy meets the criteria described in subclauses (I) and (II). Such attestation shall be subject to section 1001 of title 18.
+
+&emsp;&emsp;&emsp;&emsp;(IV) The pharmacy agrees to submit materials as requested by the Secretary, or during the course of an audit conducted on a random sample of pharmacies selected annually, to verify that the pharmacy meets the criteria described in subclauses (I) and (II). Materials submitted under the preceding sentence shall include a certification by an accountant on behalf of the pharmacy or the submission of tax returns filed by the pharmacy during the relevant periods, as requested by the Secretary.
+
 #### (21) Special payment rule for specified items and supplies
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding the preceding provisions of this subsection, for specified items andsupplies (described in subparagraph (B)) furnished during 2005, the payment amount otherwise determined under this subsection for such specified items and supplies shall be reduced by the percentage difference between—
+&emsp;&emsp;Notwithstanding the preceding provisions of this subsection, for specified items and supplies (described in subparagraph (B)) furnished during 2005, the payment amount otherwise determined under this subsection for such specified items and supplies shall be reduced by the percentage difference between—
 
 &emsp;&emsp;&emsp;(i) the amount of payment otherwise determined for the specified item or supply under this subsection for 2002, and
 
@@ -642,7 +676,7 @@
 
 #### (C) 1990 fee schedules
 
-&emsp;&emsp;For radiologist services (other than portable X-ray services) furnished under this part during 1990, after March 31 of such year, the conversion factors used under this subsection shall be 96 percent of the conversion factors that applied under this subsection as of December 31, 1989.
+&emsp;&emsp;For radiologist services (other than portable X-ray services) furnished under thispart during 1990, after March 31 of such year, the conversion factors used under this subsection shall be 96 percent of the conversion factors that applied under this subsection as of December 31, 1989.
 
 #### (D) 1991 fee schedules
 
@@ -662,7 +696,7 @@
 
 #### (iv) Adjusted conversion factor
 
-&emsp;&emsp;&emsp;The adjusted conversion factor for the professional or technical component of aservice in a locality is the sum of 1/2 of the locally-adjusted amount determined under clause (v) and 1/2 of the GPCI-adjusted amount determined under clause (vi).
+&emsp;&emsp;&emsp;The adjusted conversion factor for the professional or technical component of a service in a locality is the sum of ½ of the locally-adjusted amount determined under clause (v) and ½ of the GPCI-adjusted amount determined under clause (vi).
 
 #### (v) Locally-adjusted amount
 
@@ -932,7 +966,7 @@
 
 #### (1) In general
 
-&emsp;For physician pathology services furnished under this part during 1991, the prevailing charges used in a locality under this part shall be 7 percent below the prevailing charges used in the locality under this part in 1990 after March 31.
+&emsp;For physician pathology services furnished under this part during 1991, the prevailing charges used in a locality under this part shall be 7 percent below the prevailing charges usedin the locality under this part in 1990 after March 31.
 
 #### (2) Limitation
 
@@ -946,15 +980,15 @@
 
 #### (2) Election of cost-based hospital outpatient service payment plus fee schedule for professional services
 
-&emsp;A critical access hospital may elect to be paid for outpatient critical access hospitalservices amounts equal to the sum of the following, less the amount that such hospital may charge as described in section 1395cc(a)(2)(A) of this title:
+&emsp;A critical access hospital may elect to be paid for outpatient critical access hospital services amounts equal to the sum of the following, less the amount that such hospital may charge as described in section 1395cc(a)(2)(A) of this title:
 
 #### (A) Facility fee
 
-&emsp;&emsp;With respect to facility services, not including any services for which payment may be made under subparagraph (B), the reasonable costs of the critical access hospital in providing such services.
+&emsp;&emsp;With respect to facility services, not including any services for which payment may be made under subparagraph (B), 101 percent of the reasonable costs of the critical access hospital in providing such services.
 
 #### (B) Fee schedule for professional services
 
-&emsp;&emsp;With respect to professional services otherwise included within outpatient critical access hospital services, 115 percent of such amounts as would otherwise be paid under this part if such services were not included in outpatient critical access hospital services.
+&emsp;&emsp;With respect to professional services otherwise included within outpatient critical access hospital services, 115 percent of such amounts as would otherwise be paid under this part if such services were not included in outpatient critical access hospital services. Subsections (x) and (y) of section 1395<i>l</i> of this title shall not be taken into account in determining the amounts that would otherwise be paid pursuant to the preceding sentence.
 
 > &emsp;The Secretary may not require, as a condition for applying subparagraph (B) with respect to a critical access hospital, that each physician or other practitioner providing professional services in the hospital must assign billing rights with respect to such services, except that such subparagraph shall not apply to those physicians and practitioners who have not assigned such billing rights.
 
@@ -1132,9 +1166,17 @@
 
 &emsp;&emsp;&emsp;(viii) for 2003, the percentage increase in the consumer price index for all urban consumers (United States city average) for the 12-month period ending with June of the previous year;
 
-&emsp;&emsp;&emsp;(ix) for 2004, 2005, and 2006, 0 percent; and
+&emsp;&emsp;&emsp;(ix) for 2004, 2005, and 2006, 0 percent;
 
-&emsp;&emsp;&emsp;(x) for a subsequent year, the percentage increase in the consumer price index for all urban consumers (United States city average) for the 12-month period ending with June of the previous year;
+&emsp;&emsp;&emsp;(x) for for <sup>4</sup> each of 2007 through 2010, the percentage increase in the consumer price index for all urban consumers (United States city average) for the 12-month period ending with June of the previous year; and
+
+&emsp;&emsp;&emsp;(xi) for 2011 and each subsequent year—
+
+&emsp;&emsp;&emsp;&emsp;(I) the percentage increase in the consumer price index for all urban consumers (United States city average) for the 12-month period ending with June of the previous year, reduced by—
+
+&emsp;&emsp;&emsp;&emsp;(II) the productivity adjustment described in section 1395ww(b)(3)(B)(xi)(II) of this title.
+
+> &emsp;&emsp;The application of subparagraph (A)(xi)(II) may result in the applicable percentage increase under subparagraph (A) being less than 0.0 for a year, and may result in payment rates under this subsection for a year being less than such payment rates for the preceding year.
 
 &emsp;&emsp;(B) the term “prosthetic devices” has the meaning given such term in section 1395x(s)(8) of this title, except that such term does not include parenteral and enteral nutrition nutrients, supplies, and equipment and does not include an implantable item for which payment may be made under section 1395<i>l</i>(t) of this title; and
 
@@ -1148,7 +1190,7 @@
 
 &emsp;&emsp;(A) the actual charge for the item; or
 
-&emsp;&emsp;(B) a payment amount determined in accordance with the methodology described in subparagraphs (B) and (C) of subsection (a)(2) of this section (except that in applyingsuch methodology, the national limited payment amount referred to in such subparagraphs shall be initially computed based on local payment amounts using average reasonable charges for the 12-month period ending December 31, 1992, increased by the covered item updates described in such subsection for 1993 and 1994).
+&emsp;&emsp;(B) a payment amount determined in accordance with the methodology described in subparagraphs (B) and (C) of subsection (a)(2) of this section (except that in applying such methodology, the national limited payment amount referred to in such subparagraphs shall be initially computed based on local payment amounts using average reasonable charges for the 12-month period ending December 31, 1992, increased by the covered item updates described in such subsection for 1993 and 1994).
 
 #### (2) Exceptions
 
@@ -1200,7 +1242,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Effective 60 days after October 31, 1994, a supplier of medical equipment and supplies may distribute to physicians, or to individuals entitled to benefits under this part, a certificate of medical necessity for commercial purposes which contains no more than the following information completed by the supplier:
+&emsp;&emsp;&emsp;Effective 60 days after October 31, 1994, a supplier of medical equipment and supplies may distribute to physicians, or to individuals entitled to benefits under thispart, a certificate of medical necessity for commercial purposes which contains no more than the following information completed by the supplier:
 
 &emsp;&emsp;&emsp;&emsp;(I) An identification of the supplier and the beneficiary to whom such medical equipment and supplies are furnished.
 
@@ -1224,7 +1266,7 @@
 
 #### (3) Coverage and review criteria
 
-&emsp;The Secretary shall annually review the coverage and utilization of items of medical equipment and supplies to determine whethersuch items should be made subject to coverage and utilization review criteria, and if appropriate, shall develop and apply such criteria to such items.
+&emsp;The Secretary shall annually review the coverage and utilization of items of medical equipment and supplies to determine whether such items should be made subject to coverage and utilization review criteria, and if appropriate, shall develop and apply such criteria to such items.
 
 #### (4) Limitation on patient liability
 
@@ -1328,9 +1370,13 @@
 
 &emsp;In establishing such fee schedule, the Secretary shall—
 
-&emsp;&emsp;(A) ensure that the aggregate amount of payments made for ambulance services under this part during 2000 does not exceed the aggregate amount of payments which would have been made for such services under this part during such year if the amendments made by section 4531(a) of the Balanced Budget Act of 1997 continued in effect, except that in making such determination the Secretary shall assume an update in such payments for 2002 equal to percentage increase in the consumer price index for all urban consumers (U.S. city average) for the 12-month period ending with June of the previous year reduced in the case of 2002 by 1.0 percentage points; and
+&emsp;&emsp;(A) ensure that the aggregate amount of payments made for ambulance services under this part during 2000 does not exceed the aggregate amount of payments which would have been made for such services under this part during such year if the amendments made by section 4531(a) of the Balanced Budget Act of 1997 continued in effect, except that in making such determination the Secretary shall assume an update in such payments for 2002 equal to percentage increase in the consumer price index for all urban consumers (U.S. city average) for the 12-month period ending with June of the previous year reduced in the case of 2002 by 1.0 percentage points;
 
-&emsp;&emsp;(B) set the payment amounts provided under the fee schedule for services furnished in 2001 and each subsequent year at amounts equal to the payment amounts under the fee schedule for services furnished during the previous year, increased by the percentage increase in the consumer price index for all urban consumers (U.S. city average) for the 12-month period ending with June of the previous year reduced in the case of 2002 by 1.0 percentage points.
+&emsp;&emsp;(B) set the payment amounts provided under the fee schedule for services furnished in 2001 and each subsequent year at amounts equal to the payment amounts under the fee schedule for services furnished during the previous year, increased, subject to subparagraph (C) and the succeeding sentence of this paragraph, by the percentage increase in the consumer price index for all urban consumers (U.S. city average) for the 12-month period ending with June of the previous year reduced in the case of 2002 by 1.0 percentage points; and
+
+&emsp;&emsp;(C) for 2011 and each subsequent year, after determining the percentage increase under subparagraph (B) for the year, reduce such percentage increase by the productivity adjustment described in section 1395ww(b)(3)(B)(xi)(II) of this title.
+
+> &emsp;The application of subparagraph (C) may result in the percentage increase under subparagraph (B) being less than 0.0 for a year, and may result in payment rates under the fee schedule under this subsection for a year being less than such payment rates for the preceding year.
 
 #### (4) Consultation
 
@@ -1350,7 +1396,7 @@
 
 #### (8) Services furnished by critical access hospitals
 
-&emsp;Notwithstanding any other provision of this subsection, the Secretary shall pay the reasonable costs incurred in furnishing ambulance services if such services are furnished—
+&emsp;Notwithstanding any other provision of this subsection, the Secretary shall pay 101 percent of the reasonable costs incurred in furnishing ambulance services if such services are furnished—
 
 &emsp;&emsp;(A) by a critical access hospital (as defined in section 1395x(mm)(1) of this title), or
 
@@ -1360,7 +1406,7 @@
 
 #### (9) Transitional assistance for rural providers
 
-&emsp;In the case of ground ambulance services furnished on or after July 1, 2001, and before January 1, 2004, for which the transportation originates in a rural area (as defined in section 1395ww(d)(2)(D) of this title) or in a rural census tract of a metropolitan statistical area (as determined under the most recent modification of the Goldsmith Modification, originally published in the Federal Register on February 27, 1992 (57 Fed. Reg. 6725)), the fee schedule established under this subsection shall provide that, with respect to the payment rate for mileage for a trip above 17 miles, and up to 50 miles, the rate otherwise established shall be increased by not less than 1/2 of the additional payment per mile established for the first 17 miles of such a trip originating in a rural area.
+&emsp;In the case of ground ambulance services furnished on or after July 1, 2001, and before January 1, 2004, for which the transportation originates in a rural area (as defined in section 1395ww(d)(2)(D) of this title) or in a rural census tract of a metropolitan statistical area (as determined under the most recent modification of the Goldsmith Modification, originally published in the Federal Register on February 27, 1992 (57 Fed. Reg. 6725)), the fee schedule established under this subsection shall provide that, with respect to the payment rate for mileage for a trip above 17 miles, and up to 50 miles, the rate otherwise established shall be increased by not less than ½ of the additional payment per mile established for the first 17 miles of such a trip originating in a rural area.
 
 #### (10) Phase-in providing floor using blend of fee schedule and regional fee schedules
 
@@ -1380,13 +1426,13 @@
 
 #### (11) Adjustment in payment for certain long trips
 
-&emsp;In the case of ground ambulance services furnished on or after July 1, 2004, and before January 1, 2009, regardless of where the transportation originates, the fee schedule established under this subsection shall provide that, with respect to the payment rate for mileage for a trip above 50 miles the per mile rate otherwise established shall be increased by 1/4 of the payment per mile otherwise applicable to miles in excess of 50 miles in such trip.
+&emsp;In the case of ground ambulance services furnished on or after July 1, 2004, and before January 1, 2009, regardless of where the transportation originates, the fee schedule established under this subsection shall provide that, with respect to the payment rate for mileage for a trip above 50 miles the per mile rate otherwise established shall be increased by ¼ of the payment per mile otherwise applicable to miles in excess of 50 miles in such trip.
 
 #### (12) Assistance for rural providers furnishing services in low population density areas
 
 #### (A) In general
 
-&emsp;&emsp;In the case of ground ambulance services furnished on or after July 1, 2004, and before January 1, 2010, for which the transportation originates in a qualified rural area (identified under subparagraph (B)(iii)), the Secretary shall provide for a percent increase in the base rate of the fee schedule for a trip established under this subsection. In establishing such percent increase, the Secretary shall estimate the average cost per trip for such services (not taking into account mileage) in the lowest quartile as compared to the average cost per trip for such services (not taking into account mileage) in the highest quartile of all rural county populations.
+&emsp;&emsp;In the case of ground ambulance services furnished on or after July 1, 2004, and before January 1, 2012, for which the transportation originates in a qualified rural area (identified under subparagraph (B)(iii)), the Secretary shall provide for a percent increase in the base rate of the fee schedule for a trip established under this subsection. In establishing such percent increase, the Secretary shall estimate the average cost per trip for such services (not taking into account mileage) in the lowest quartile as compared to the average cost per trip for such services (not taking into account mileage) in the highest quartile of all rural county populations.
 
 #### (B) Identification of qualified rural areas
 
@@ -1414,11 +1460,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;After computing the rates with respect to ground ambulance services under the other applicable provisions of this subsection, in the case of such services furnished on or after July 1, 2004, and before January 1, 2007, and for such services furnished on or after July 1, 2008, and before January 1, 2010 for which the transportation originates in—
+&emsp;&emsp;After computing the rates with respect to ground ambulance services under the other applicable provisions of this subsection, in the case of such services furnished on or after July 1, 2004, and before January 1, 2007, and for such services furnished on or after July 1, 2008, and before January 1, 2012,,<sup>4</sup> for which the transportation originates in—
 
-&emsp;&emsp;&emsp;(i) a rural area described in paragraph (9) or in a rural census tract described in such paragraph, the fee schedule established under this section shall provide that the rate for the service otherwise established, after the application of any increase under paragraphs (11) and (12), shall be increased by 2 percent (or 3 percent if such service is furnished on or after July 1, 2008, and before January 1, 2010); and
+&emsp;&emsp;&emsp;(i) a rural area described in paragraph (9) or in a rural census tract described in such paragraph, the fee schedule established under this section shall provide that the rate for the service otherwise established, after the application of any increase under paragraphs (11) and (12), shall be increased by 2 percent (or 3 percent if such service is furnished on or after July 1, 2008, and before January 1, 2012); and
 
-&emsp;&emsp;&emsp;(ii) an area not described in clause (i), the fee schedule established under this subsection shall provide that the rate for the service otherwise established, after the application of any increase under paragraph (11), shall be increased by 1 percent (or 2 percent if such service is furnished on or after July 1, 2008, and before January 1, 2010).
+&emsp;&emsp;&emsp;(ii) an area not described in clause (i), the fee schedule established under this subsection shall provide that the rate for the service otherwise established, after the application of any increase under paragraph (11), shall be increased by 1 percent (or 2 percent if such service is furnished on or after July 1, 2008, and before January 1, 2012).
 
 #### (B) Application of increased payments after applicable period
 
@@ -1552,7 +1598,55 @@
 
 &emsp;&emsp;&emsp;The Secretary shall establish a process that provides, on an annual basis, for the addition or deletion of services (and HCPCS codes), as appropriate, to those specified in clause (i) for authorized payment under paragraph (1).
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1834, as added and amended Pub. L. 100–203, title IV, §§4049(a)(2), 4062(b), Dec. 22, 1987, 101 Stat. 1330–91, 1330–100; Pub. L. 100–360, title II, §§202(b)(4), 203(c)(1)(F), 204(b), title IV, §411(a)(3)(A), (B)(ii), (C)(ii), (f)(8)(A), (B)(ii), (D), (g)(1)(A), (B), July 1, 1988, 102 Stat. 704, 722, 726, 768, 779, 781; Pub. L. 100–485, title VI, §608(d)(21)(C), (22)(A), Oct. 13, 1988, 102 Stat. 2420; Pub. L. 101–234, title II, §201(a), title III, §301(b)(1), (c)(1), Dec. 13, 1989, 103 Stat. 1981, 1985; Pub. L. 101–239, title VI, §§6102(f)(1), 6105(a), 6112(a), (c), (d)(1), (e)(2), 6116(b)(2), 6140, Dec. 19, 1989, 103 Stat. 2188, 2210, 2214–2216, 2220, 2224; Pub. L. 101–508, title IV, §§4102(a), (d), (f), 4104(a), 4152(a)(1), (b), (c)(1)–(4)(B)(i), (e), (f)(1), (g)(1), 4153(a)(1), (2)(D), 4163(b), Nov. 5, 1990, 104 Stat. 1388–55, 1388–57, 1388–59, 1388–74, 1388–77 to 1388–81, 1388–83, 1388–97; Pub. L. 103–66, title XIII, §§13542(a), 13543(a), (b), 13544(a)(1), (2), (b)(1), 13545(a), 13546, Aug. 10, 1993, 107 Stat. 587, 589, 590; Pub. L. 103–432, title I, §§102(e), 126(b)(1), (2), (4), (5), (g)(1), (10)(B), 131(a), 132(a), (b), 133(a)(1), 134(a)(1), 135(a)(1), (b)(1), (3), (d)(1), (e)(2)–(5), 145(a), 156(a)(2)(C), Oct. 31, 1994, 108 Stat. 4403, 4414–4416, 4419, 4421, 4424, 4427, 4440; Pub. L. 105–33, title IV, §§4101(a), (c), 4104(b)(1), 4105(b)(2), 4201(c)(5), 4312(a), (c), 4316(b), 4531(b)(2), 4541(a)(2), 4551(a), (c)(1), 4552(a), (b), Aug. 5, 1997, 111 Stat. 360, 363, 367, 374, 386, 387, 392, 451, 455, 457–459; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §201(e)(2), title III, §321(k)(3), title IV, §403(d)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–340, 1501A–366, 1501A–371; Pub. L. 106–554, §1(a)(6) \[title I, §§103(b), 104(b), title II, §§201(a), 202(a), 204(a), 205(a), 221(a), 223(b), title IV, §§423(a)(1), (b)(1), 425(a), 426(a), 427(a), 428(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–468, 2763A–469, 2763A–481, 2763A–482, 2763A–486, 2763A–487, 2763A–518 to 2763A–520, 2763A–522; Pub. L. 108–173, title III, §302(a), (c)(1)(A), (2), (3), (d)(1), (2), title IV, §§405(a)(1), (b)(1), (d)(1), 414(a)–(c)(1), (d), 415(a), title VI, §627(b)(1), title VII, §736(b)(4), (5), Dec. 8, 2003, 117 Stat. 2223, 2230–2232, 2266, 2267, 2278–2281, 2321, 2356; Pub. L. 109–171, title V, §§5101(a)(1), (b)(1), 5113(b), Feb. 8, 2006, 120 Stat. 37, 38, 44; Pub. L. 110–275, title I, §§125(b)(5), 135(a)(1), 144(b)(1), 146(a), (b)(2)(A), 148(a), 149(a), 154(a)(2)(A), (3), (4), (b)(1)(A), (d)(2), July 15, 2008, 122 Stat. 2519, 2532, 2547–2549, 2563, 2564, 2567; Pub. L. 111–72, §1(a), Oct. 13, 2009, 123 Stat. 2059.)
+#### (n) Authority to modify or eliminate coverage of certain preventive services
+
+Notwithstanding any other provision of this subchapter, effective beginning on January 1, 2010, if the Secretary determines appropriate, the Secretary may—
+
+&emsp;(1) modify—
+
+&emsp;&emsp;(A) the coverage of any preventive service described in subparagraph (A) of section 1395x(ddd)(3) of this title to the extent that such modification is consistent with the recommendations of the United States Preventive Services Task Force; and
+
+&emsp;&emsp;(B) the services included in the initial preventive physical examination described in subparagraph (B) of such section; and
+
+&emsp;(2) provide that no payment shall be made under this subchapter for a preventive service described in subparagraph (A) of such section that has not received a grade of A, B, C, or I by such Task Force.
+
+#### (<i>o</i>) Development and implementation of prospective payment system
+
+#### (1) Development
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall develop a prospective payment system for payment for Federally qualified health center services furnished by Federally qualified health centers under this subchapter. Such system shall include a process for appropriately describing the services furnished by Federally qualified health centers and shall establish payment rates for specific payment codes based on such appropriate descriptions of services. Such system shall be established to take into account the type, intensity, and duration of services furnished by Federally qualified health centers. Such system may include adjustments, including geographic adjustments, determined appropriate by the Secretary.
+
+#### (B) Collection of data and evaluation
+
+&emsp;&emsp;By not later than January 1, 2011, the Secretary shall require Federally qualified health centers to submit to the Secretary such information as the Secretary may require in order to develop and implement the prospective payment system under this subsection, including the reporting of services using HCPCS codes.
+
+#### (2) Implementation
+
+#### (A) In general
+
+&emsp;&emsp;Notwithstanding section 1395<i>l</i>(a)(3)(A) of this title, the Secretary shall provide, for cost reporting periods beginning on or after October 1, 2014, for payments of prospective payment rates for Federally qualified health center services furnished by Federally qualified health centers under this subchapter in accordance with the prospective payment system developed by the Secretary under paragraph (1).
+
+#### (B) Payments
+
+#### (i) Initial payments
+
+&emsp;&emsp;&emsp;The Secretary shall implement such prospective payment system so that the estimated aggregate amount of prospective payment rates (determined prior to the application of section 1395<i>l</i>(a)(1)(Z) of this title) under this subchapter for Federally qualified health center services in the first year that such system is implemented is equal to 100 percent of the estimated amount of reasonable costs (determined without the application of a per visit payment limit or productivity screen and prior to the application of section 1395cc(a)(2)(A)(ii) of this title) that would have occurred for such services under this subchapter in such year if the system had not been implemented.
+
+#### (ii) Payments in subsequent years
+
+&emsp;&emsp;&emsp;Payment rates in years after the year of implementation of such system shall be the payment rates in the previous year increased—
+
+&emsp;&emsp;&emsp;&emsp;(I) in the first year after implementation of such system, by the percentage increase in the MEI (as defined in section 1395u(i)(3) of this title) for the year involved; and
+
+&emsp;&emsp;&emsp;&emsp;(II) in subsequent years, by the percentage increase in a market basket of Federally qualified health center goods and services as promulgated through regulations, or if such an index is not available, by the percentage increase in the MEI (as defined in section 1395u(i)(3) of this title) for the year involved.
+
+#### (C) Preparation for PPS implementation
+
+&emsp;&emsp;Notwithstanding any other provision of law, the Secretary may establish and implement by program instruction or otherwise the payment codes to be used under the prospective payment system under this section.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1834, as added and amended Pub. L. 100–203, title IV, §§4049(a)(2), 4062(b), Dec. 22, 1987, 101 Stat. 1330–91, 1330–100; Pub. L. 100–360, title II, §§202(b)(4), 203(c)(1)(F), 204(b), title IV, §411(a)(3)(A), (B)(ii), (C)(ii), (f)(8)(A), (B)(ii), (D), (g)(1)(A), (B), July 1, 1988, 102 Stat. 704, 722, 726, 768, 779, 781; Pub. L. 100–485, title VI, §608(d)(21)(C), (22)(A), Oct. 13, 1988, 102 Stat. 2420; Pub. L. 101–234, title II, §201(a), title III, §301(b)(1), (c)(1), Dec. 13, 1989, 103 Stat. 1981, 1985; Pub. L. 101–239, title VI, §§6102(f)(1), 6105(a), 6112(a), (c), (d)(1), (e)(2), 6116(b)(2), 6140, Dec. 19,1989, 103 Stat. 2188, 2210, 2214–2216, 2220, 2224; Pub. L. 101–508, title IV, §§4102(a), (d), (f), 4104(a), 4152(a)(1), (b), (c)(1)–(4)(B)(i), (e), (f)(1), (g)(1), 4153(a)(1), (2)(D), 4163(b), Nov. 5, 1990, 104 Stat. 1388–55, 1388–57, 1388–59, 1388–74, 1388–77 to 1388–81, 1388–83, 1388–97; Pub. L. 103–66, title XIII, §§13542(a), 13543(a), (b), 13544(a)(1), (2), (b)(1), 13545(a), 13546, Aug. 10, 1993, 107 Stat. 587, 589, 590; Pub. L. 103–432, title I, §§102(e), 126(b)(1), (2), (4), (5), (g)(1), (10)(B), 131(a), 132(a), (b), 133(a)(1), 134(a)(1), 135(a)(1), (b)(1), (3), (d)(1), (e)(2)–(5), 145(a), 156(a)(2)(C), Oct. 31, 1994, 108 Stat. 4403, 4414–4416, 4419, 4421, 4424, 4427, 4440; Pub. L. 105–33, title IV, §§4101(a), (c), 4104(b)(1), 4105(b)(2), 4201(c)(5), 4312(a), (c), 4316(b), 4531(b)(2), 4541(a)(2), 4551(a), (c)(1), 4552(a), (b), Aug. 5, 1997, 111 Stat. 360, 363, 367, 374, 386, 387, 392, 451, 455, 457–459; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §201(e)(2), title III, §321(k)(3), title IV, §403(d)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–340, 1501A–366, 1501A–371; Pub. L. 106–554, §1(a)(6) \[title I, §§103(b), 104(b), title II, §§201(a), 202(a), 204(a), 205(a), 221(a), 223(b), title IV, §§423(a)(1), (b)(1), 425(a), 426(a), 427(a), 428(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–468, 2763A–469, 2763A–481, 2763A–482, 2763A–486, 2763A–487, 2763A–518 to 2763A–520, 2763A–522; Pub. L. 108–173, title III, §302(a), (c)(1)(A), (2), (3), (d)(1), (2), title IV, §§405(a)(1), (b)(1), (d)(1), 414(a)–(c)(1), (d), 415(a), title VI, §627(b)(1), title VII, §736(b)(4), (5), Dec. 8, 2003, 117 Stat. 2223, 2230–2232, 2266, 2267, 2278–2281, 2321, 2356; Pub. L. 109–171, title V, §§5101(a)(1), (b)(1), 5113(b), Feb. 8, 2006, 120 Stat. 37, 38, 44; Pub. L. 110–275, title I, §§125(b)(5), 135(a)(1), 144(b)(1), 146(a), (b)(2)(A), 148(a), 149(a), 154(a)(2)(A), (3), (4), (b)(1)(A), (d)(2), July 15, 2008, 122 Stat. 2519, 2532, 2547–2549, 2563, 2564, 2567; Pub. L. 111–72, §1(a), Oct. 13, 2009, 123 Stat. 2059; Pub. L. 111–148, title III, §§3105(a), (c), 3109(a), 3128(a), 3136(a), (b), 3401(j), (m), (n), title IV, §4105(a), title V, §§5501(a)(2), (b)(2), 5502(b), title VI, §§6402(g)(1), 6405(a), 6407(b), 6410(b), title X, §§10311(a), (c), 10501(i)(1), (3)(A), Mar. 23, 2010, 124 Stat. 417, 418, 426, 437, 438, 486, 487, 558, 653, 654, 759, 768, 770, 773, 942, 943, 997; Pub. L. 111–309, title I, §106(a), (c), Dec. 15, 2010, 124 Stat. 3287.)
 
 #### References in Text
 
@@ -1572,9 +1666,97 @@ A prior section 1395m, act Aug. 14, 1935, ch. 531, title XVIII, §1834, as added
 
 #### Amendments
 
-2009—Subsec. (a)(20)(F)(i). Pub. L. 111–72 inserted “, except that the Secretary shall not require under this clause pharmacies to obtain such accreditation before January 1, 2010” before semicolon.
+<b>2010</b>—Subsec. (a)(1)(F)(ii). Pub. L. 111–148, §6410(b)(2)(A), inserted “(and, in the case of covered items furnished on or after January 1, 2016, subject to clause (iii), shall)” after “may”.
 
-2008—Subsec. (a)(1)(E)(ii). Pub. L. 110–275, §154(d)(2), substituted “1395x(r)” for “1395x(r)(1)”.
+Subsec. (a)(1)(F)(iii). Pub. L. 111–148, §6410(b)(1), (2)(B), (3), added cl. (iii).
+
+Subsec. (a)(7)(A)(i)(II). Pub. L. 111–148, §3136(a)(1)(A), inserted “subclause (III) and” after “Subject to”.
+
+Subsec. (a)(7)(A)(i)(III). Pub. L. 111–148, §3136(a)(1)(B), added subcl. (III).
+
+Subsec. (a)(7)(A)(iii). Pub. L. 111–148, §3136(a)(2)(B), inserted “complex, rehabilitative” after “case of a”.
+
+Pub. L. 111–148, §3136(a)(2)(A), inserted “complex, rehabilitative” after “option for” in heading.
+
+Subsec. (a)(7)(C)(ii)(II). Pub. L. 111–148, §3136(b), struck out “(A)(ii) or” after “subparagraph”.
+
+Subsec. (a)(11)(B). Pub. L. 111–148, §6407(b)(1), designated existing provisions as cl. (i) and inserted heading.
+
+Pub. L. 111–148, §6405(a), substituted “physician enrolled under section 1395cc(j) of this title or an eligible professional under section 1395w–4(k)(3)(B) of this title that is enrolled under section 1395cc(j) of this title” for “physician”.
+
+Subsec. (a)(11)(B)(ii). Pub. L. 111–148, §6407(b)(2), added cl. (ii).
+
+Subsec. (a)(14). Pub. L. 111–148, §3401(m)(3), inserted concluding provisions.
+
+Subsec. (a)(14)(K). Pub. L. 111–148, §3401(m)(1), struck out “2011, 2012, and 2013,” after “2010,” and inserted “and” at the end.
+
+Subsec. (a)(14)(L), (M). Pub. L. 111–148, §3401(m)(2), added subpar. (L) and struck out former subpars. (L) and (M) which read as follows:
+
+“(L) for 2014—
+
+&emsp;“(i) in the case of items and services described in subparagraph (J)(i) for which a payment adjustment has not been made under subsection (a)(1)(F)(ii) in any previous year, the percentage increase in the consumer price index for all urban consumers (U.S. urban average) for the 12-month period ending with June 2013, plus 2.0 percentage points; or
+
+&emsp;“(ii) in the case of other items and services, the percentage increase in the consumer price index for all urban consumers (U.S. urban average) for the 12-month period ending with June 2013; and
+
+“(M) for a subsequent year, the percentage increase in the consumer price index for all urban consumers (U.S. urban average) for the 12-month period ending with June of the previous year.”
+
+Subsec. (a)(16)(B). Pub. L. 111–148, §6402(g)(1), inserted “that the Secretary determines is commensurate with the volume of the billing of the supplier” after “$50,000”.
+
+Subsec. (a)(20)(F)(i). Pub. L. 111–148, §3109(a)(1)(B), which directed amendment by inserting “, except that the Secretary shall not require a pharmacy to have submitted to the Secretary such evidence of accreditation prior to January 1, 2011” before semicolon “at the end”, was executed by making the insertion before “; and” to reflect the probable intent of Congress.
+
+Pub. L. 111–148, §3109(a)(1)(A), inserted “and subparagraph (G)” after “clause (ii)”.
+
+Subsec. (a)(20)(G). Pub. L. 111–148, §3109(a)(2), added subpar. (G).
+
+Subsec. (g)(2)(A). Pub. L. 111–148, §3128(a), inserted “101 percent of” after “subparagraph (B),”.
+
+Subsec. (g)(2)(B). Pub. L. 111–148, §5501(b)(2), substituted “Subsections (x) and (y) of section 1395<i>l</i>” for “Section 1395<i>l</i>(x)”.
+
+Pub. L. 111–148, §5501(a)(2), inserted at end “Section 1395<i>l</i>(x) of this title shall not be taken into account in determining the amounts that would otherwise be paid pursuant to the preceding sentence.”
+
+Subsec. (h)(4)(A). Pub. L. 111–148, §3401(n)(1)(D), inserted concluding provisions.
+
+Subsec. (h)(4)(A)(x). Pub. L. 111–148, §3401(n)(1)(B)(i), substituted “for each of 2007 through 2010” for “a subsequent year”.
+
+Subsec. (h)(4)(A)(xi). Pub. L. 111–148, §3401(n)(1)(A), (B)(ii), (C), added cl. (xi).
+
+Subsec. (<i>l</i>)(3). Pub. L. 111–148, §3401(j)(4), inserted concluding provisions.
+
+Subsec. (<i>l</i>)(3)(B). Pub. L. 111–148, §3401(j)(2)(A), inserted “, subject to subparagraph (C) and the succeeding sentence of this paragraph,” after “increased”.
+
+Subsec. (<i>l</i>)(3)(C). Pub. L. 111–148, §3401(j)(1), (2)(B), (3), added subpar. (C).
+
+Subsec. (<i>l</i>)(8). Pub. L. 111–148, §3128(a), inserted “101 percent of” after “pay” in introductory provisions.
+
+Subsec. (<i>l</i>)(12)(A). Pub. L. 111–309, §106(c), substituted “2012” for “2011”.
+
+Pub. L. 111–148, §10311(c), substituted “2011” for “2010, and on or after April 1, 2010, and before January 1, 2011”.
+
+Pub. L. 111–148, §3105(c), substituted “2010, and on or after April 1, 2010, and before January 1, 2011” for “2010”.
+
+Subsec. (<i>l</i>)(13)(A). Pub. L. 111–309, §106(a)(1), substituted “2012,” for “2011” in introductory provisions.
+
+Pub. L. 111–148, §10311(a)(1), in introductory provisions, substituted “2007, and for” for “2007, for” and “2011” for “2010, and for such services furnished on or after April 1, 2010, and before January 1, 2011”.
+
+Pub. L. 111–148, §3105(a)(1), in introductory provisions, substituted “2007, for” for “2007, and for” and “2010, and for such services furnished on or after April 1, 2010, and before January 1, 2011,” for “2010”.
+
+Subsec. (<i>l</i>)(13)(A)(i), (ii). Pub. L. 111–309, §106(a)(2), substituted “January 1, 2012” for “January 1, 2011”.
+
+Pub. L. 111–148, §10311(a)(2)(B), substituted “January 1, 2011” for “January 1, 2010”.
+
+Pub. L. 111–148, §10311(a)(2)(A), struck out “, and on or after April 1, 2010, and before January 1, 2011” after “January 1, 2010”.
+
+Pub. L. 111–148, §3105(a)(2), inserted “, and on or after April 1, 2010, and before January 1, 2011” after “January 1, 2010”.
+
+Subsec. (n). Pub. L. 111–148, §5502(b), which directed the addition of subsec. (n) relating to development and implementation of prospective payment system, was repealed by Pub. L. 111–148, §10501(i)(1).
+
+Pub. L. 111–148, §4105(a), added subsec. (n) relating to authority to modify or eliminate coverage of certain preventive services.
+
+Subsec. (<i>o</i>). Pub. L. 111–148, §10501(i)(3)(A), added subsec. (<i>o</i>).
+
+<b>2009</b>—Subsec. (a)(20)(F)(i). Pub. L. 111–72 inserted “, except that the Secretary shall not require under this clause pharmacies to obtain such accreditation before January 1, 2010” before semicolon.
+
+<b>2008</b>—Subsec. (a)(1)(E)(ii). Pub. L. 110–275, §154(d)(2), substituted “1395x(r)” for “1395x(r)(1)”.
 
 Subsec. (a)(1)(F). Pub. L. 110–275, §154(a)(3), (4)(A)(i), in introductory provisions, substituted “January 1, 2011” for “January 1, 2009” and inserted “subject to subparagraph (G),” before “that are included”.
 
@@ -1604,7 +1786,7 @@ Subsec. (<i>l</i>)(14)(B)(i). Pub. L. 110–275, §146(b)(2)(A), substituted “
 
 Subsec. (m)(4)(C)(ii)(VI) to (VIII). Pub. L. 110–275, §149(a), added subcls. (VI) to (VIII).
 
-2006—Subsec. (a)(5)(A). Pub. L. 109–171, §5101(b)(1)(A), substituted “(E), and (F)” for “and (E)”.
+<b>2006</b>—Subsec. (a)(5)(A). Pub. L. 109–171, §5101(b)(1)(A), substituted “(E), and (F)” for “and (E)”.
 
 Subsec. (a)(5)(F). Pub. L. 109–171, §5101(b)(1)(B), added subpar. (F).
 
@@ -1614,7 +1796,7 @@ Subsec. (d)(2)(C)(ii). Pub. L. 109–171, §5113(b), struck out “deductible an
 
 Subsec. (d)(3)(C)(ii). Pub. L. 109–171, §5113(b), struck out “deductible and” before “coinsurance” in heading and struck out “deductible or” before “coinsurance” in two places in subcl. (I).
 
-2003—Subsec. (a)(1)(B). Pub. L. 108–173, §302(d)(1)(A), substituted “Subject to subparagraph (F)(i), the payment basis” for “The payment basis” in introductory provisions.
+<b>2003</b>—Subsec. (a)(1)(B). Pub. L. 108–173, §302(d)(1)(A), substituted “Subject to subparagraph (F)(i), the payment basis” for “The payment basis” in introductory provisions.
 
 Subsec. (a)(1)(C). Pub. L. 108–173, §302(d)(1)(B), substituted “Subject to subparagraph (F)(ii), this subsection” for “This subsection”.
 
@@ -1670,7 +1852,7 @@ Subsec. (<i>l</i>)(14). Pub. L. 108–173, §415(a), added par. (14).
 
 Subsec. (m)(4)(C)(ii)(III). Pub. L. 108–173, §736(b)(5), substituted “1395x(aa)(2)” for “1395x(aa)(s)”.
 
-2000—Subsec. (a)(14)(C). Pub. L. 106–554, §1(a)(6) \[title IV, §425(a)(2)\], substituted “through 2000” for “through 2002” and struck out “and” at end.
+<b>2000</b>—Subsec. (a)(14)(C). Pub. L. 106–554, §1(a)(6) \[title IV, §425(a)(2)\], substituted “through 2000” for “through 2002” and struck out “and” at end.
 
 Subsec. (a)(14)(D) to (F). Pub. L. 106–554, §1(a)(6) \[title IV, §425(a)(1), (3)\], added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
 
@@ -1708,7 +1890,7 @@ Pub. L. 106–554, §1(a)(6) \[title II, §205(a)\], added par. (8) relating to 
 
 Subsec. (m). Pub. L. 106–554, §1(a)(6) \[title II, §223(b)\], added subsec. (m).
 
-1999—Subsec. (a)(13). Pub. L. 106–113, §1000(a)(6) \[title II, §201(e)(2)(A)\], substituted “1395x(m)(5) of this title, but not including implantable items for which payment may be made under section 1395<i>l</i>(t) of this title” for “1395x(m)(5) of this title)”.
+<b>1999</b>—Subsec. (a)(13). Pub. L. 106–113, §1000(a)(6) \[title II, §201(e)(2)(A)\], substituted “1395x(m)(5) of this title, but not including implantable items for which payment may be made under section 1395<i>l</i>(t) of this title” for “1395x(m)(5) of this title)”.
 
 Subsec. (g). Pub. L. 106–113, §1000(a)(6) \[title IV, §403(d)(1)\], amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “The amount of payment under this part for outpatient critical access hospital services is the reasonable costs of the critical access hospital in providing such services.”
 
@@ -1718,7 +1900,7 @@ Subsec. (h)(4)(A)(v). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(3)(B
 
 Subsec. (h)(4)(B). Pub. L. 106–113, §1000(a)(6) \[title II, §201(e)(2)(B)\], inserted “and does not include an implantable item for which payment may be made under section 1395<i>l</i>(t) of this title” before the semicolon.
 
-1997—Subsec. (a)(2)(B)(iv). Pub. L. 105–33, §4105(b)(2), inserted before period at end “(reduced by 10 percent, in the case of a blood glucose testing strip furnished after 1997 for an individual with diabetes)”.
+<b>1997</b>—Subsec. (a)(2)(B)(iv). Pub. L. 105–33, §4105(b)(2), inserted before period at end “(reduced by 10 percent, in the case of a blood glucose testing strip furnished after 1997 for an individual with diabetes)”.
 
 Subsec. (a)(9)(B)(iv). Pub. L. 105–33, §4552(a)(2)(A), substituted “1995, 1996, and 1997” for “each subsequent year”.
 
@@ -1726,7 +1908,7 @@ Subsec. (a)(9)(B)(v), (vi). Pub. L. 105–33, §4552(a)(1), (2)(B), (3), added c
 
 Subsec. (a)(9)(D). Pub. L. 105–33, §4552(b), which directed amendment of section 1848(a)(9) (42 U.S.C. 1395m(a)(9)) by adding subpar. (D) at end, was executed by adding subpar. (D) at end of subsec. (a)(9) of this section, to reflect the probable intent of Congress.
 
-Subsec. (a)(10)(B). Pub. L. 105–33, §4316(b), substituted “The Secretary” for “For covered items furnished on or after January 1, 1991, the Secretary” and struck out “(other than subparagraph (D))” before “of section 1395u(b) of this title” and “as such provisions would otherwise apply to physicians’ services and physicians and a reasonable charge under section 1395u(b) of this title but for the application of section 1395w–4(i)(3) of this title. In applying such provisions to payments for an item under this subsection, the Secretary shall make adjustments to the payment basis for the item described in paragraph (1)(B) if the Secretary determines (in accordance with such provisions and on the basis of prices and costs applicable at the time the item is furnished) that such payment basis is not inherently reasonable” before period at end.
+Subsec. (a)(10)(B). Pub. L. 105–33, §4316(b), substituted “The Secretary” for “For covered items furnished on or after January 1, 1991, the Secretary” and struck out “(other than subparagraph (D))” before “of section 1395u(b) of this title” and “as such provisions would otherwise apply to physicians’ services and physicians and a reasonable charge under section 1395u(b) of this title but for the application of section 1395w–4(i)(3) of this title. In applying such provisions to payments for an item under this subsection, the Secretary shallmake adjustments to the payment basis for the item described in paragraph (1)(B) if the Secretary determines (in accordance with such provisions and on the basis of prices and costs applicable at the time the item is furnished) that such payment basis is not inherently reasonable” before period at end.
 
 Subsec. (a)(14)(B). Pub. L. 105–33, §4551(a)(1)(B)(i), substituted “1993, 1994, 1995, 1996, and 1997” for “a subsequent year”.
 
@@ -1764,7 +1946,7 @@ Subsec. (k). Pub. L. 105–33, §4541(a)(2), added subsec. (k).
 
 Subsec. (<i>l</i>). Pub. L. 105–33, §4531(b)(2), added subsec. (<i>l</i>).
 
-1994—Subsec. (a)(3)(D). Pub. L. 103–432, §135(e)(5), struck out heading and text of subpar. (D). Text read as follows: “If the reasonable useful lifetime of such an item, as established under paragraph (7)(C), has been reached during a continuous period of medical need, or the Secretary determines on the basis of investigation by the carrier that the item is lost or irreparably damaged, payment for an item serving as a replacement for such item shall be made on a monthly basis for the rental of the replacement item in accordance with subparagraph (A).”
+<b>1994</b>—Subsec. (a)(3)(D). Pub. L. 103–432, §135(e)(5), struck out heading and text of subpar. (D). Text read as follows: “If the reasonable useful lifetime of such an item, as established under paragraph (7)(C), has been reached during a continuous period of medical need, or the Secretary determines on the basis of investigation by the carrier that the item is lost or irreparably damaged, payment for an item serving as a replacement for such item shall be made on a monthly basis for the rental of the replacement item in accordance with subparagraph (A).”
 
 Subsec. (a)(5)(E). Pub. L. 103–432, §135(d)(1), substituted “pressure of 56” for “pressure of 55”.
 
@@ -1838,7 +2020,7 @@ Subsec. (j). Pub. L. 103–432, §131(a)(1), added subsec. (j).
 
 Subsec. (j)(4), (5). Pub. L. 103–432, §133(a)(1), added par. (4) and redesignated former par. (4) as (5).
 
-1993—Subsec. (a)(1)(D). Pub. L. 103–66, §13545(a), substituted “45 percent” for “15 percent” after “(as previously reduced) by”.
+<b>1993</b>—Subsec. (a)(1)(D). Pub. L. 103–66, §13545(a), substituted “45 percent” for “15 percent” after “(as previously reduced) by”.
 
 Subsec. (a)(2)(A)(iii). Pub. L. 103–66, §13543(b), added cl. (iii).
 
@@ -1864,7 +2046,7 @@ Subsec. (h)(4)(A). Pub. L. 103–66, §13546, struck out “and” at end of cl.
 
 Subsec. (i). Pub. L. 103–66, §13544(b)(1), added subsec. (i).
 
-1990—Subsec. (a). Pub. L. 101–508, §4153(a)(2)(D)(i), struck out “, prosthetic devices, orthotics, and prosthetics” after “medical equipment” in heading.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §4153(a)(2)(D)(i), struck out “, prosthetic devices, orthotics, and prosthetics” after “medical equipment” in heading.
 
 Subsec. (a)(1)(D). Pub. L. 101–508, §4152(a)(1), inserted before period at end “, and, in the case of a transcutaneous electrical nerve stimulator furnished on or after January 1, 1991, the Secretary shall further reduce such payment amount (as previously reduced) by 15 percent”.
 
@@ -1888,13 +2070,13 @@ Subsec. (a)(5)(A). Pub. L. 101–508, §4152(g)(1)(A), substituted “(B), (C), 
 
 Subsec. (a)(5)(E). Pub. L. 101–508, §4152(g)(1)(B), added subpar. (E).
 
-Subsec. (a)(7)(A)(i). Pub. L. 101–508, §4152(c)(2)(A), as amended by Pub. L. 103–432, §135(e)(2), substituted “15 months, or, in the case of an item for which a purchase agreement has been entered into under clause (iii), a period of continuous use of longer than 13 months” for “15 months”.
+Subsec. (a)(7)(A)(i). Pub. L. 101–508, §4152(c)(2)(A), as amended by Pub. L. 103–432, §135(e)(2), substituted “15months, or, in the case of an item for which a purchase agreement has been entered into under clause (iii), a period of continuous use of longer than 13 months” for “15 months”.
 
 Pub. L. 101–508, §4152(c)(1), substituted “for each of the first 3 months of such period” for “for each such month” and “, and for each of the remaining months of such period is 7.5 percent of such purchase price;” for semicolon at end.
 
 Subsec. (a)(7)(A)(ii), (iii). Pub. L. 101–508, §4152(c)(2)(D), as amended by Pub. L. 103–432, §135(e)(2), added cls. (ii) and (iii). Former cls. (ii) and (iii) redesignated (iv) and (v), respectively.
 
-Subsec. (a)(7)(A)(iv). Pub. L. 101–508, §4152(c)(2)(B), as amended by Pub. L. 103–432, §135(e)(2), redesignated cl. (ii) as (iv), substituted “in the case of an item for which a purchase agreement has not been entered into under clause (ii) or clause (iii), during the first 6-month period of medical need that follows the period of medical need during which payment is made under clause (i),”for “during the succeeding 6-month period of medical need,” and struck out “and” at end.
+Subsec. (a)(7)(A)(iv). Pub. L. 101–508, §4152(c)(2)(B), as amended by Pub. L. 103–432, §135(e)(2), redesignated cl. (ii) as (iv), substituted “in the case of an item for which a purchase agreement has not been entered into under clause (ii) or clause (iii), during the first 6-month period of medical need that follows the period of medical need during which payment is made under clause (i),” for “during the succeeding 6-month period of medical need,” and struck out “and” at end.
 
 Subsec. (a)(7)(A)(v). Pub. L. 101–508, §4152(c)(2)(C), as amended by Pub. L. 103–432, §135(e)(2), redesignated cl. (iii) as (v), inserted at beginning “in the case of an item for which a purchase agreement has not been entered into under clause (ii) or clause (iii),”, and substituted “; and” for period at end.
 
@@ -1954,7 +2136,7 @@ Subsec. (a)(13). Pub. L. 101–508, §4153(a)(2)(D)(iii), substituted “means d
 
 &emsp;“(C) orthotics and prosthetics (described in section 1395x(s)(9) of this title);
 
-> but does not include intraocular lenses or medical supplies (including catheters, catheter supplies, ostomy bags, and supplies related to ostomy care) furnished by a home health agency under section 1395x(m)(5) of this title.”
+> but does not include intraocular lenses or medical supplies (including catheters, catheter supplies, ostomy bags, and supplies related to ostomy care) furnished bya home health agency under section 1395x(m)(5) of this title.”
 
 Subsec. (a)(14). Pub. L. 101–508, §4152(b)(4), added par. (14).
 
@@ -1980,7 +2162,7 @@ Subsec. (f). Pub. L. 101–508, §4104(a), amended subsec. (f) generally, substi
 
 Subsec. (h). Pub. L. 101–508, §4153(a)(1), added subsec. (h).
 
-1989—Subsec. (a)(1)(D). Pub. L. 101–239, §6112(c), added subpar. (D).
+<b>1989</b>—Subsec. (a)(1)(D). Pub. L. 101–239, §6112(c), added subpar. (D).
 
 Subsec. (a)(2)(A)(iii). Pub. L. 101–239, §6112(d)(1), added cl. (iii).
 
@@ -2022,7 +2204,7 @@ Subsec. (f). Pub. L. 101–239, §6102(f)(1), added subsec. (f).
 
 Subsec. (g). Pub. L. 101–239, §6116(b)(2), added subsec. (g).
 
-1988—Pub. L. 100–360, §411(g)(1)(A), inserted “items and” in section catchline.
+<b>1988</b>—Pub. L. 100–360, §411(g)(1)(A), inserted “items and” in section catchline.
 
 Subsec. (a)(1)(C). Pub. L. 100–360, §411(g)(1)(B)(i), inserted “or under part A of this subchapter to a home health agency” before period at end.
 
@@ -2054,7 +2236,7 @@ Subsec. (a)(9)(B). Pub. L. 100–360, §411(g)(1)(B)(xi), as amended by Pub. L. 
 
 Subsec. (a)(9)(C)(i). Pub. L. 100–360, §411(g)(1) (B)(xii), substituted “subparagraph (A)(ii)” for “subparagraph (A)(ii)(I)”.
 
-Subsec. (a)(10)(B). Pub. L. 100–360, §411(g)(1) (B)(xiii), inserted before period at end “and payments under this subsection as such provisions apply to physicians’ services and physicians and a reasonable charge under section 1395u(b) of this title”.
+Subsec. (a)(10)(B). Pub. L. 100–360, §411(g)(1) (B)(xiii), inserted before period at end “and payments under thissubsection as such provisions apply to physicians’ services and physicians and a reasonable charge under section 1395u(b) of this title”.
 
 Subsec. (a)(11)(A). Pub. L. 100–360, §411(g)(1) (B)(vii), (xiv), inserted “maintenance and” before “servicing” and substituted “section 1395u(j)(2) of this title” for “subsection (j)(2) of this section”.
 
@@ -2086,7 +2268,23 @@ Subsec. (d). Pub. L. 100–360, §203(c)(1)(F), added subsec. (d) relating to ho
 
 Subsec. (e). Pub. L. 100–360, §204(b)(2), added subsec. (e) relating to payments and standards for screening mammography.
 
-1987—Subsec. (b). Pub. L. 100–203, §4049(a)(2), as amended by Pub. L. 100–360, §411(a)(3)(A), (B)(ii), (f)(8)(B)(ii), added subsec. (b).
+<b>1987</b>—Subsec. (b). Pub. L. 100–203, §4049(a)(2), as amended by Pub. L. 100–360, §411(a)(3)(A), (B)(ii), (f)(8)(B)(ii), added subsec. (b).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title III, §3128(b), Mar. 23, 2010, 124 Stat. 426, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 405(a) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173; 117 Stat. 2266).”
+
+Pub. L. 111–148, title III, §3136(c), Mar. 23, 2010, 124 Stat. 438, provided that:
+
+“(1)
+
+In general.—Subject to paragraph (2), the amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 2011, and shall apply to power-driven wheelchairs furnished on or after such date.
+
+“(2)
+
+Application to competitive bidding.—The amendments made by subsection (a) shall not apply to payment made for items and services furnished pursuant to contracts entered into under section 1847 of the Social Security Act (42 U.S.C. 1395w–3) prior to January 1, 2011, pursuant to the implementation of subsection (a)(1)(B)(i)(I) of such section 1847.”
+
+Amendment by section 6405(a) of Pub. L. 111–148 applicable to written orders and certifications made on or after July 1, 2010, see section 6405(d) of Pub. L. 111–148, set out as a note under section 1395f of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -2128,7 +2326,7 @@ Pub. L. 108–173, title IV, §405(d)(2), Dec. 8, 2003, 117 Stat. 2267, provided
 
 “(A)
 
-In general.—Except as provided in subparagraph (B), the amendment made by paragraph (1) \[amending this section\] shall apply to cost reporting periods beginning on or after July 1, 2004.
+In general.—Except as provided in subparagraph (B), the amendment made by paragraph (1)\[amending this section\] shall apply to cost reporting periods beginning on or after July 1, 2004.
 
 “(B)
 
@@ -2228,7 +2426,7 @@ Section 135(b)(3) of Pub. L. 103–432 provided that the amendment made by that 
 
 Section 135(d)(2) of Pub. L. 103–432 provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective on the date of the enactment of this Act \[Oct. 31, 1994\].”
 
-Section 135(e)(8) of Pub. L. 103–432 provided that: “The amendments made by this subsection \[amending this section and provisions set out as notes under this section and section 1395cc of this title\] shall take effectas if included in the enactment of OBRA–1990 \[Pub. L. 101–508\].”
+Section 135(e)(8) of Pub. L. 103–432 provided that: “The amendments made by this subsection \[amending this section and provisions set out as notes under this section and section 1395cc of this title\] shall take effect as if included in the enactment of OBRA–1990 \[Pub. L. 101–508\].”
 
 Section 145(d) of Pub. L. 103–432 provided that: “The amendments made by this section \[amending this section and sections 1395x to 1395bb of this title\] shall apply to mammography furnished by a facility on and after the first date that the certificate requirements of section 354(b) of the Public Health Service Act \[section 263b(b) of this title\] apply to such mammography conducted by such facility.”
 
@@ -2300,11 +2498,17 @@ Section 4049(b)(2) of Pub. L. 100–203, as amended by Pub. L. 101–239, title 
 
 #### Effective Date
 
-Subsection (a) of this section applicable to covered items (other than oxygen and oxygen equipment) furnished on or after Jan. 1, 1989, and to oxygen and oxygen equipment furnished on or after June 1, 1989, see section 4062(e) of Pub. L. 100–203, as amended, set out as an Effective Date of 1987 Amendment note under section 1395f of this title.
+Subsection (a) of this section applicable to covered items (other than oxygen and oxygen equipment) furnished on or after Jan. 1, 1989, and to oxygen and oxygen equipment furnished on or after June 1, 1989, see section 4062(e) of Pub. L. 100–203, set out as an Effective Date of 1987 Amendment note under section 1395f of this title.
 
 #### Regulations
 
 Pub. L. 106–554, §1(a)(6) \[title IV, §427(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–521, provided that: “Not later than 1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of Health and Human Services shall promulgate revised regulations to carry out the amendment made by subsection (a) \[amending this section\] using a negotiated rulemaking process under subchapter III of chapter 5 of title 5, United States Code.”
+
+#### Construction of 2010 Amendment
+
+Pub. L. 111–148, title III, §3109(c), Mar. 23, 2010, 124 Stat. 420, provided that: “Nothing in the provisions of or amendments made by this section \[amending this section and enacting provisions set out as a note under this section\] shall be construed as affecting the application of an accreditation requirement for pharmacies to qualify for bidding in a competitive acquisition area under section 1847 of the Social Security Act (42 U.S.C. 1395w–3).”
+
+Pub. L. 111–148, title IV, §4105(b), Mar. 23, 2010, 124 Stat. 559, provided that: “Nothing in the amendment made by paragraph (1) \[probably means subsec. (a), amending this section\] shall be construed to affect the coverage of diagnostic or treatment services under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\].”
 
 #### Construction of 2009 Amendment
 
@@ -2317,6 +2521,10 @@ Pub. L. 110–275, title I, §154(b)(1)(B), July 15, 2008, 122 Stat. 2565, provi
 #### Transfer of Functions
 
 Physician Payment Review Commission (PPRC) was terminated and its assets and staff transferred to the Medicare Payment Advisory Commission (MedPAC) by section 4022(c)(2), (3) of Pub. L. 105–33, set out as a note under section 1395b–6 of this title. Section 4022(c)(2), (3) further provided that MedPAC was to be responsible for preparation and submission of reports required by law to be submitted by PPRC, and that, for that purpose, any reference in law to PPRC was to be deemed, after the appointment of MedPAC, to refer to MedPAC.
+
+#### Implementation of 2010 Amendment
+
+Pub. L. 111–148, title III, §3109(b), Mar. 23, 2010, 124 Stat. 419, provided that: “Notwithstanding any other provision of law, the Secretary may implement the amendments made by subsection (a) \[amending this section\] by program instruction or otherwise.”
 
 #### Demonstration Project To Assess the Appropriate Use of Imaging Services
 
@@ -2540,7 +2748,7 @@ Funding.—The Secretary shall provide for the transfer from the Federal Supplem
 
 #### Air Ambulance Payment Improvements
 
-Pub. L. 110–275, title I, §146(b)(1), July 15, 2008, 122 Stat. 2548, provided that: “Notwithstanding any otherprovision of law, for purposes of making payments under section 1834(<i>l</i>) of the Social Security Act (42 U.S.C. 1395m(<i>l</i>)) for air ambulance services furnished during the period beginning on July 1, 2008, and ending on December 31, 2009, any area that was designated as a rural area for purposes of making payments under such section for air ambulance services furnished on December 31, 2006, shall be treated as a rural area for purposes of making payments under such section for air ambulance services furnished during such period.”
+Pub. L. 110–275, title I, §146(b)(1), July 15, 2008, 122 Stat. 2548, as amended by Pub. L. 111–148, title III, §3105(b), title X, §10311(b), Mar. 23, 2010, 124 Stat. 417, 943; Pub. L. 111–309, title I, §106(b), Dec. 15, 2010, 124 Stat. 3287, provided that: “Notwithstanding any other provision of law, for purposes of making payments under section 1834(<i>l</i>) of the Social Security Act (42 U.S.C. 1395m(<i>l</i>)) for air ambulance services furnished during the period beginning on July 1, 2008, and ending on December 31, 2011, any area that was designated as a rural area for purposes of making payments under such section for air ambulance services furnished on December 31, 2006, shall be treated as a rural area for purposes of making payments under such section for air ambulance services furnished during such period.”
 
 #### Evaluation of Certain Code
 
@@ -2568,7 +2776,7 @@ Pub. L. 108–173, title IV, §418, Dec. 8, 2003, 117 Stat. 2283, provided that:
 
 “(a)
 
-Evaluation.—The Secretary \[of Health and Human Services\], acting through the Administrator of the Health Resources and Services Administration in consultation with the Administrator of the Centers for Medicare \& Medicaid Services, shall evaluate demonstration projects conducted by the Secretary under which skilled nursing facilities (as defined in section 1819(a) of the Social Security Act (42 U.S.C. 1395i–3(a))\[)\] are treated as originating sites for telehealth services.
+Evaluation.—The Secretary \[of Health and Human Services\], acting through the Administrator of the Health Resources and Services Administration inconsultation with the Administrator of the Centers for Medicare \& Medicaid Services, shall evaluate demonstration projects conducted by the Secretary under which skilled nursing facilities (as defined in section 1819(a) of the Social Security Act (42 U.S.C. 1395i–3(a))\[)\] are treated as originating sites for telehealth services.
 
 “(b)
 
@@ -2608,7 +2816,7 @@ Implementation of provision.—The Secretary of Health and Human Services may im
 
 “(2)
 
-Consideration of new hcpcs code for new technologies after 2001.—The Secretary shall determine, for such mammographies performed after 2001, whether the assignment of a new HCPCS code is appropriate formammography that uses a new technology. If the Secretary determines that a new code is appropriate for such mammography, the Secretary shall provide for such new code for such tests furnished after 2001.
+Consideration of new hcpcs code for new technologies after 2001.—The Secretary shall determine, for such mammographies performed after 2001, whether the assignment of a new HCPCS code is appropriate for mammography that uses a new technology. If the Secretary determines that a new code is appropriate for such mammography, the Secretary shall provide for such new code for such tests furnished after 2001.
 
 “(3)
 
@@ -2672,7 +2880,7 @@ Report.—Not later than June 30, 2002, the Comptroller General shall submit to 
 
 #### Adjustment in Rural Rates
 
-Pub. L. 106–554, §1(a)(6) \[title II, §221(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–487, as amended by Pub. L. 108–173, title IV, §414(f)(1), formerly §414(g)(1), Dec. 8, 2003, 117 Stat. 2281, as renumbered by Pub. L. 111–68, div. A, title I, §1501(e)(2), Oct. 1, 2009, 123 Stat. 2041, provided that: “In providing for adjustments under subparagraph (D) of section 1834(<i>l</i>)(2) of the Social Security Act (42 U.S.C. 1395m(<i>l</i>)(2)) for years beginning with 2004, the Secretary of Health and Human Services shall take into consideration the recommendations contained in the report under subsection (b)(3) \[set out above\] and shall adjust the fee schedule payment rates under such section for ambulance services provided in low density rural areas based on the increased cost (if any) of providing such services in such areas.”
+Pub. L. 106–554, §1(a)(6) \[title II, §221(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–487, as amended by Pub. L. 108–173,title IV, §414(f)(1), formerly §414(g)(1), Dec. 8, 2003, 117 Stat. 2281, as renumbered by Pub. L. 111–68, div. A, title I, §1501(e)(2), Oct. 1, 2009, 123 Stat. 2041, provided that: “In providing for adjustments under subparagraph (D) of section 1834(<i>l</i>)(2) of the Social Security Act (42 U.S.C. 1395m(<i>l</i>)(2)) for years beginning with 2004, the Secretary of Health and Human Services shall take into consideration the recommendations contained in the report under subsection (b)(3) \[set out above\] and shall adjust the fee schedule payment rates under such section for ambulance services provided in low density rural areas based on the increased cost (if any) of providing such services in such areas.”
 
 #### Study and Report on Additional Coverage for Telehealth Services
 
@@ -2981,4 +3189,6 @@ Section 4062(c) of Pub. L. 100–203, as amended by Pub. L. 100–360, title IV,
 <i><sup>2</sup></i><i> So in original. Subpar. (B) of par. (2) does not contain clauses.</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be “a”.</i>
+
+<i><sup>4</sup></i><i> So in original.</i>
 

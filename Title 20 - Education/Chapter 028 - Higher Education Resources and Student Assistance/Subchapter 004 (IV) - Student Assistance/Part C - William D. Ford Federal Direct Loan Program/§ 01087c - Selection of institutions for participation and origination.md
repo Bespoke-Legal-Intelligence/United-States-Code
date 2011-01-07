@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-The Secretary shall enter into agreements pursuant to section 1087d(a) of this title with institutions of higher education to participate in the direct student loan program under this part, and agreements pursuant to section 1087d(b) of this title with institutions of higher education, or consortia thereof, to originate loans in such program, for academic years beginning on or after July 1, 1994. Alternative origination services, through which an entity other than the participating institution at which the student is in attendance originates the loan, shall be provided by the Secretary, through 1 or more contracts under section 1087f(b) of this title or such other means as the Secretary may provide, for students attending participating institutions that do not originate direct student loans under this part. Such agreements for the academic year 1994–1995 shall, to the extent feasible, be entered into not later than January 1, 1994.
+The Secretary shall enter into agreements pursuant to section 1087d(a) of this title with institutions of higher education to participate in the direct student loan program under this part, and agreements pursuant to section 1087d(b) of this title with institutions of higher education, or consortia thereof, to originate loans in such program, for academic years beginning on or after July 1, 1994. Alternative origination services, through which an entity other than the participating institution at which the student is in attendance originates the loan, shall be provided by the Secretary, through 1 or more contracts under section 1087f(b) of this title or suchother means as the Secretary may provide, for students attending participating institutions that do not originate direct student loans under this part. Such agreements for the academic year 1994–1995 shall, to the extent feasible, be entered into not later than January 1, 1994.
 
 #### (b) Selection criteria
 
@@ -62,9 +62,9 @@ A prior section 1087c, Pub. L. 89–329, title IV, §453, as added Pub. L. 90–
 
 #### Amendments
 
-2009—Subsec. (c)(3). Pub. L. 111–39 struck out par. (3). Text read as follows: “The Secretary shall promulgate and publish in the Federal Register regulations governing the approval of institutions to originate loans under this part in accordance with section 1087g(a)(2) of this title.”
+<b>2009</b>—Subsec. (c)(3). Pub. L. 111–39 struck out par. (3). Text read as follows: “The Secretary shall promulgate and publish in the Federal Register regulations governing the approval of institutions to originate loans under this part in accordance with section 1087g(a)(2) of this title.”
 
-1998—Subsec. (a). Pub. L. 105–244, §451(a), amended heading, redesignated par. (1) as entire subsec., and struck out pars. (2) to (4) which provided for transition from loan programs under part B of this subchapter to direct student loan program under this part and defined term “new student loan volume”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–244, §451(a), amended heading, redesignated par. (1) as entire subsec., and struck out pars. (2) to (4) which provided for transition from loan programs under part B of this subchapter to direct student loan program under this part and defined term “new student loan volume”.
 
 Subsec. (b)(2). Pub. L. 105–244, §451(b), substituted “prescribe.” for “prescribe, by, to the extent possible—
 
@@ -90,11 +90,11 @@ Subsec. (c)(2)(F) to (H). Pub. L. 105–244, §451(c)(1)(E), redesignated subpar
 
 Subsec. (c)(3). Pub. L. 105–244, §451(c)(2), struck out “after transition” after “approval” in heading and substituted “The Secretary” for “For academic year 1995–1996 and subsequent academic years, the Secretary” in text.
 
-1993—Pub. L. 103–66 amended section generally, substituting provisions relating to selection of institutions for participation and origination for former provisions relating to selection by Secretary.
+<b>1993</b>—Pub. L. 103–66 amended section generally, substituting provisions relating to selection of institutions for participation and origination for former provisions relating to selection by Secretary.
 
 Subsec. (b)(2)(B). Pub. L. 103–208 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “if the Secretary determines it necessary to carry out the purposes of this part, selecting additional institutions.” See Codification note above.
 
-1992—Pub. L. 102–325 amended section generally, substituting provisions relating to selection by the Secretary for former provisions relating to agreements with institutions of higher education.
+<b>1992</b>—Pub. L. 102–325 amended section generally, substituting provisions relating to selection by the Secretary for former provisions relating to agreements with institutions of higher education.
 
 #### Effective Date of 2009 Amendment
 

@@ -50,7 +50,7 @@
 
 #### Amendments
 
-2006—Subsec. (a)(3)(A)(i). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2006</b>—Subsec. (a)(3)(A)(i). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Pub. L. 109–461, §1004(a)(5), substituted “established under section 3722 of this title” for “under this chapter”.
 
@@ -58,21 +58,21 @@ Pub. L. 109–444, which substituted “established under section 3722 of this t
 
 Subsec. (c). Pub. L. 109–461, §705, substituted “December 31, 2011” for “December 31, 2008”.
 
-2003—Subsec. (c). Pub. L. 108–170 substituted “December 31, 2008” for “December 31, 2003”.
+<b>2003</b>—Subsec. (c). Pub. L. 108–170 substituted “December 31, 2008” for “December 31, 2003”.
 
-2001—Pub. L. 107–95 renumbered section 3735 of this title as this section.
+<b>2001</b>—Pub. L. 107–95 renumbered section 3735 of this title as this section.
 
-1999—Subsec. (c). Pub. L. 106–117 substituted “December 31, 2003” for “December 31, 1999”.
+<b>1999</b>—Subsec. (c). Pub. L. 106–117 substituted “December 31, 2003” for “December 31, 1999”.
 
-1998—Subsec. (a)(3)(A)(i). Pub. L. 105–368 substituted “Veterans Housing Benefit Program Fund” for “Loan Guaranty Revolving Fund and the Guaranty and Indemnity Fund”.
+<b>1998</b>—Subsec. (a)(3)(A)(i). Pub. L. 105–368 substituted “Veterans Housing Benefit Program Fund” for “Loan Guaranty Revolving Fund and the Guaranty and Indemnity Fund”.
 
-1997—Subsec. (c). Pub. L. 105–114 substituted “December 31, 1999” for “December 31, 1997”.
+<b>1997</b>—Subsec. (c). Pub. L. 105–114 substituted “December 31, 1999” for “December 31, 1997”.
 
-1996—Subsec. (c). Pub. L. 104–110 substituted “December 31, 1997” for “December 31, 1995”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–110 substituted “December 31, 1997” for “December 31, 1995”.
 
-1994—Subsec. (a)(1)(A). Pub. L. 103–446 substituted “section 5902” for “section 3402”.
+<b>1994</b>—Subsec. (a)(1)(A). Pub. L. 103–446 substituted “section 5902” for “section 3402”.
 
-1992—Subsec. (a)(2). Pub. L. 102–590, §8(a)(1), inserted “, lease, lease with an option to purchase, or donate” after “sell” and “or lease or donation” after “sale”.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–590, §8(a)(1), inserted “, lease, lease with an option to purchase, or donate” after “sell” and “or lease or donation” after “sale”.
 
 Subsec. (a)(3)(B). Pub. L. 102–590, §8(a)(2), inserted “, leased, or donated” after “sold” in introductory provisions.
 
@@ -84,7 +84,7 @@ Pub. L. 102–590, §8(b), substituted “December 31, 1995” for “September 
 
 Subsec. (c). Pub. L. 102–590, §9(a)(1), redesignated subsec. (b) as (c).
 
-1991—Pub. L. 102–83 renumbered section 1835 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1835 of this title as this section.
 
 #### Effective Date of 1998 Amendment
 

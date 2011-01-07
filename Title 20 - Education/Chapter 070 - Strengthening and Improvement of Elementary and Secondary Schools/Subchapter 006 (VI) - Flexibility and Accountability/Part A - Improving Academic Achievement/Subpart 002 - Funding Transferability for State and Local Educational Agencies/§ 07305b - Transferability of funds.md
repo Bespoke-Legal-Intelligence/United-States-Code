@@ -88,3 +88,5 @@ A State or a local educational agency may not transfer under this subpart to any
 
 (Pub. L. 89–10, title VI, §6123, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1876.)
 
+<i><sup>1</sup></i><i> So in original. Probably should be section “6316(c)(10)”.</i>
+

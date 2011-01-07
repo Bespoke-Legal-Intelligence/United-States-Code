@@ -38,13 +38,13 @@ A prior section 2400 was renumbered section 2534 of this title.
 
 #### Amendments
 
-2001—Subsec. (a)(1)(A). Pub. L. 107–107, §821(c)(1), substituted “milestone B” for “milestone II”.
+<b>2001</b>—Subsec. (a)(1)(A). Pub. L. 107–107, §821(c)(1), substituted “milestone B” for “milestone II”.
 
 Subsec. (a)(2). Pub. L. 107–107 substituted “milestone B” for “milestone II” and “system development and demonstration” for “engineering and manufacturing development”.
 
 Subsec. (a)(4), (5). Pub. L. 107–107, §821(c)(1), substituted “milestone B” for “milestone II”.
 
-1996—Subsec. (a)(5). Pub. L. 104–106, §4321(b)(13), substituted “this paragraph” for “the preceding sentence”.
+<b>1996</b>—Subsec. (a)(5). Pub. L. 104–106, §4321(b)(13), substituted “this paragraph” for “the preceding sentence”.
 
 Subsec. (c). Pub. L. 104–106, §1062(d), struck out “(1)” before “With respect to”, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: “For each naval vessel program and military satellite program, the Secretary of Defense shall submit to Congress a report providing—
 
@@ -54,7 +54,7 @@ Subsec. (c). Pub. L. 104–106, §1062(d), struck out “(1)” before “With r
 
 &emsp;“(C) an acquisition strategy for that program that has been approved by the Secretary, to include the procurement objectives in terms of total quantity of articles to be procured and annual production rates.”
 
-1994—Subsec. (a)(2). Pub. L. 103–355, §3015(1), substituted “this section” for “paragraph (1)” and “engineering and manufacturing development” for “full-scale engineering development”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–355, §3015(1), substituted “this section” for “paragraph (1)” and “engineering and manufacturing development” for “full-scale engineering development”.
 
 Subsec. (a)(4). Pub. L. 103–355, §3015(2), (3), added par. (4) and redesignated former par. (4) as (5).
 
@@ -62,5 +62,5 @@ Subsec. (a)(5). Pub. L. 103–355, §3015(2), redesignated par. (4) as (5) and i
 
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by section 4321(b)(13) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by section 4321(b)(13) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2302 of this title.
 

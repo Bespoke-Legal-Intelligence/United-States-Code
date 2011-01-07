@@ -124,7 +124,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 #### (6) Compromise
 
-&emsp;Until a matter is referred to the Attorney General, any civil penalty under paragraph (1) of this subsection may be compromised by the Secretary. In determining the amount of such penalty, or the amount agreed upon in compromise, the Secretary shall consider the appropriateness of the penalty to the resources of the lender or guaranty agency subject to the determination; the gravity of the violation, failure, or substantial misrepresentation; the frequency and persistence of the violation, failure, or substantial misrepresentation; and the amount of any losses resulting from the violation, failure, or substantial misrepresentation. The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the lender or agency charged, unless the lender or agency has, in the case of a final agency determination, commenced proceedings for judicial review within 90 days of the determination, in which case the deduction may not be made during the pendency of the proceeding.
+&emsp;Until a matter is referred to the Attorney General, any civil penalty under paragraph (1)of this subsection may be compromised by the Secretary. In determining the amount of such penalty, or the amount agreed upon in compromise, the Secretary shall consider the appropriateness of the penalty to the resources of the lender or guaranty agency subject to the determination; the gravity of the violation, failure, or substantial misrepresentation; the frequency and persistence of the violation, failure, or substantial misrepresentation; and the amount of any losses resulting from the violation, failure, or substantial misrepresentation. The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the lender or agency charged, unless the lender or agency has, in the case of a final agency determination, commenced proceedings for judicial review within 90 days of the determination, in which case the deduction may not be made during the pendency of the proceeding.
 
 #### (h) Authority of the Secretary to impose and enforce limitations, suspensions, and terminations
 
@@ -210,7 +210,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (2) Length of emergency action
 
-&emsp;An emergency action under this subsection may not exceed 30 days unless a limitation,suspension, or termination proceeding is initiated against the lender under subsection (h) of this section before the expiration of that period.
+&emsp;An emergency action under this subsection may not exceed 30 days unless a limitation, suspension, or termination proceeding is initiated against the lender under subsection (h) of this section before the expiration of that period.
 
 #### (3) Opportunity to show cause
 
@@ -268,7 +268,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 &emsp;&emsp;(B) authorization of alternate means of document retention, including the use of microfilm, microfiche, laser disc, compact disc, and other methods allowing the production of a facsimile of the original documents;
 
-&emsp;&emsp;(C) authorization of the use of computer or similar electronic methods of maintaining records relating to the performance of servicing, collection, and other regulatory requirements under this chapter; and
+&emsp;&emsp;(C) authorization of the use of computer or similar electronic methods of maintaining records relating to the performance of servicing, collection, and other regulatory requirements under this chapter and part C of subchapter I of chapter 34 of title 42; and
 
 &emsp;&emsp;(D) authorization and implementation of electronic data linkages for the exchange of information to and from lenders, guarantors, institutions of higher education, third party servicers, and the Department of Education for student status confirmation reports, claim filing, interest and special allowance billing, deferment processing, and all other administrative steps relating to loans made pursuant to this part where using electronic data linkage is feasible.
 
@@ -376,19 +376,17 @@ Subparagraph (D) of paragraph (1) of subsec. (f), referred to in subsec. (f)(2),
 
 The Inspector General Act of 1978, referred to in subsec. (f)(2), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-This chapter, referred to in subsec. (<i>l</i>)(3)(C), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
-
 #### Prior Provisions
 
 A prior section 1082, Pub. L. 89–329, title IV, §432, Nov. 8, 1965, 79 Stat. 1246; Pub. L. 90–460, §3(d), Aug. 3, 1968, 82 Stat. 638; Pub. L. 93–604, title VII, §705(a), Jan. 2, 1975, 88 Stat. 1964; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2127; Pub. L. 96–88, title III, §301(b)(2), Oct. 17, 1979, 93 Stat. 678; Pub. L. 96–374, title IV, §416(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1421, 1503; Pub. L. 99–272, title XVI, §16024, Apr. 7, 1986, 100 Stat. 351, related to functions, powers, and duties of Secretary, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
-2009—Subsec. (b). Pub. L. 111–39, §402(f)(9)(A), made technical amendment to reference in original act which appears in text as reference to section 1078 of this title.
+<b>2009</b>—Subsec. (b). Pub. L. 111–39, §402(f)(9)(A), made technical amendment to reference in original act which appears in text as reference to section 1078 of this title.
 
 Subsec. (m)(1)(B). Pub. L. 111–39, §402(f)(9)(B), in cl. (i), inserted “and” at end and, in cl. (ii), substituted period for “; and”.
 
-2008—Subsec. (b). Pub. L. 110–315, §433(a), inserted at end “The Secretary may not enter into any settlement of any claim under this subchapter and part C of subchapter I of chapter 34 of title 42 that exceeds $1,000,000 unless—” and pars. (1) and (2).
+<b>2008</b>—Subsec. (b). Pub. L. 110–315, §433(a), inserted at end “The Secretary may not enter into any settlement of any claim under this subchapter and part C of subchapter I of chapter 34 of title 42 that exceeds $1,000,000 unless—” and pars. (1) and (2).
 
 Subsec. (f)(1)(C). Pub. L. 110–315, §103(b)(6)(A), substituted “either of the authorizing committees” for “the Committee on Education and the Workforce of the House of Representatives or the Committee on Labor and Human Resources of the Senate”.
 
@@ -396,13 +394,13 @@ Subsec. (m)(1)(D)(i). Pub. L. 110–315, §433(b), inserted at end “Unless oth
 
 Subsec. (n)(3). Pub. L. 110–315, §103(b)(6)(B), substituted “authorizing committees” for “Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate” in concluding provisions.
 
-2006—Subsec. (<i>l</i>)(1)(H). Pub. L. 109–171 inserted “and anticipated graduation date” after “status change”.
+<b>2006</b>—Subsec. (<i>l</i>)(1)(H). Pub. L. 109–171 inserted “and anticipated graduation date” after “status change”.
 
-2000—Subsec. (m)(1)(D)(iv). Pub. L. 106–554, §1(a)(1) \[title III, §311(1)\], struck out heading and text of cl. (iv). Text read as follows: “Notwithstanding the provisions of any State law to the contrary, including the Uniform Commercial Code as in effect in any State, a security interest in loans made under this part created on behalf of any eligible lender as defined in section 1085(d) of this title may be perfected either through the taking of possession of such loans (which can be through taking possession of an original or copy of the master promissory note) or by the filing of notice ofsuch security interest in such loans in the manner provided by such State law for perfection of security interests in accounts.”
+<b>2000</b>—Subsec. (m)(1)(D)(iv). Pub. L. 106–554, §1(a)(1) \[title III, §311(1)\], struck out heading and text of cl. (iv). Text read as follows: “Notwithstanding the provisions of any State law to the contrary, including the Uniform Commercial Code as in effect in any State, a security interest in loans made under this part created on behalf of any eligible lender as defined in section 1085(d) of this title may be perfected either through the taking of possession of such loans (which can be through taking possession of an original or copy of the master promissory note) or by the filing of notice of such security interest in such loans in the manner provided by such State law for perfection of security interests in accounts.”
 
 Subsec. (m)(1)(E). Pub. L. 106–554, §1(a)(1) \[title III, §311(2)\], added subpar. (E).
 
-1998—Subsec. (f)(1)(B). Pub. L. 105–244, §427(a)(1), substituted “section 1085(d)(1)” for “section 1085(d)(1)(D), (F), or (H)”.
+<b>1998</b>—Subsec. (f)(1)(B). Pub. L. 105–244, §427(a)(1), substituted “section 1085(d)(1)” for “section 1085(d)(1)(D), (F), or (H)”.
 
 Subsec. (f)(1)(C). Pub. L. 105–244, §427(a)(2), substituted “and the Workforce” for “and Labor” and a period for “; and” at end.
 
@@ -426,15 +424,15 @@ Subsec. (n)(3). Pub. L. 105–244, §427(d)(2), substituted “and the Workforce
 
 Subsec. (p). Pub. L. 105–244, §427(e), struck out “State postsecondary reviewing entities designated under subpart 1 of part G of this subchapter,” after “agencies or boards,”.
 
-1995—Subsec. (b). Pub. L. 104–66 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary shall, with respect to the financial operations arising by reason of this part—
+<b>1995</b>—Subsec. (b). Pub. L. 104–66 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary shall, with respect to the financial operations arising by reason of this part—
 
 &emsp;“(1) prepare annually and submit a budget program as provided for wholly owned Government corporations by chapter 91 of title 31; and
 
 &emsp;“(2) maintain with respect to insurance under this part an integral set of accounts and prepare financial statements in accordance with generally accepted accounting principles, which shall be audited annually by the General Accounting Office in conformity with generally accepted Government auditing standards except that the transactions of the Secretary, including the settlement of insurance claims and of claims for payments pursuant to section 1078 of this title, and transactions related thereto and vouchers approved by the Secretary in connection with such transactions, shall be final and conclusive upon all accounting and other officers of the Government.”
 
-1993—Subsec. (h)(2)(A), (3)(A). Pub. L. 103–208 amended directory language of Pub. L. 102–325, §425(d)(1). See 1992 Amendment notes below.
+<b>1993</b>—Subsec. (h)(2)(A), (3)(A). Pub. L. 103–208 amended directory language of Pub. L. 102–325, §425(d)(1). See 1992 Amendment notes below.
 
-1992—Subsec. (a)(1). Pub. L. 102–325, §425(a), inserted before semicolon at end “, including regulations applicable to third party servicers (including regulations concerning financial responsibility standards for, and the assessment of liabilities for program violations against, such servicers) to establish minimum standards with respect to sound management and accountability of programs under this part, except that in no case shall damages be assessed against the United States for the actions or inactions of such servicers”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–325, §425(a), inserted before semicolon at end “, including regulations applicable to third party servicers (including regulations concerning financial responsibility standards for, and the assessment of liabilities for program violations against, such servicers) to establish minimum standards with respect to sound management and accountability of programs under this part, except that in no case shall damages be assessed against the United States for the actions or inactions of such servicers”.
 
 Subsecs. (a)(3), (g)(1). Pub. L. 102–325, §425(b)(1), (2), struck out “on the record” after “for a hearing”.
 
@@ -448,7 +446,7 @@ Subsec. (g)(2). Pub. L. 102–325, §425(c)(1), amended par. (2) generally. Prio
 
 &emsp;“(B) the violation, failure, or substantial misrepresentation is material.”
 
-Subsec. (g)(3). Pub. L. 102–325, §425(c)(2), substituted “notification by the Secretary under that paragraph” for “the institution of an action under that paragraph”.
+Subsec. (g)(3). Pub. L. 102–325, §425(c)(2), substituted “notification by the Secretary under that paragraph”for “the institution of an action under that paragraph”.
 
 Subsec. (g)(4). Pub. L. 102–325, §425(c)(3), inserted “, and occurring prior to notification by the Secretary under that paragraph,” after “guaranty agency” and substituted “or both. The” for “or both, and the”.
 
@@ -466,9 +464,9 @@ Subsec. (h)(3)(B), (C). Pub. L. 102–325, §425(d)(5), (6), added subpar. (B), 
 
 Subsecs. (k) to (p). Pub. L. 102–325, §425(e), added subsecs. (k) to (p).
 
-1989—Subsec. (j). Pub. L. 101–239 added subsec. (j).
+<b>1989</b>—Subsec. (j). Pub. L. 101–239 added subsec. (j).
 
-1987—Subsec. (f)(4). Pub. L. 100–50, §10(x), added par. (4).
+<b>1987</b>—Subsec. (f)(4). Pub. L. 100–50, §10(x), added par. (4).
 
 Subsec. (g)(2)(A)(i), (B). Pub. L. 100–50, §10(y), substituted “misrepresentation” for “representation”.
 
@@ -478,7 +476,7 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub.L. 109–171, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1998 Amendment
 

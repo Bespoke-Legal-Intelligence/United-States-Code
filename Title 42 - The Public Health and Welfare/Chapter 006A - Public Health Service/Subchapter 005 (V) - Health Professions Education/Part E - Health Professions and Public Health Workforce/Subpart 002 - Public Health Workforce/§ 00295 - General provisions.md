@@ -48,9 +48,11 @@ Amounts provided under a grant or contract awarded under this section may be use
 
 &emsp;(6) the retraining of existing public health workers as well as for increasing the supply of new practitioners to address priority public health, preventive medicine, public health dentistry, and health administration needs;
 
-&emsp;(7) preparing public health professionals for employment at the State and community levels; or
+&emsp;(7) preparing public health professionals for employment at the State and community levels;
 
-&emsp;(8) other activities that may produce outcomes that are consistent with the purposes of this section.
+&emsp;(8) public health workforce loan repayment programs; or
+
+&emsp;(9) other activities that may produce outcomes that are consistent with the purposes of this section.
 
 #### (e) Traineeships
 
@@ -70,13 +72,13 @@ Amounts provided under a grant or contract awarded under this section may be use
 
 &emsp;Amounts provided under grants or contracts under this section may be used for the operation of programs designed to award traineeships to students in accredited schools of public health who enter educational programs in fields where there is a severe shortage of public health professionals, including epidemiology, biostatistics, environmental health, toxicology, public health nursing, nutrition, preventive medicine, maternal and child health, and behavioral and mental health professions.
 
-(July 1, 1944, ch. 373, title VII, §765, as added Pub. L. 105–392, title I, §105, Nov. 13, 1998, 112 Stat. 3553.)
+(July 1, 1944, ch. 373, title VII, §765, as added Pub. L. 105–392, title I, §105, Nov. 13, 1998, 112 Stat. 3553; amended Pub. L. 111–148, title V, §5206(a), Mar. 23, 2010, 124 Stat. 611.)
 
 #### Prior Provisions
 
 A prior section 295, act July 1, 1944, ch. 373, title VII, §781, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2055; amended Pub. L. 105–12, §12(b), Apr. 30, 1997, 111 Stat. 29, authorized grants and contracts for research on certain health professions issues, prior to repeal by Pub. L. 105–392, title I, §106(a)(1), Nov. 13, 1998, 112 Stat. 3557.
 
-Another prior section 295, act July 1, 1944, ch. 373, title VII, §761, as added Dec. 25, 1970, Pub. L. 91–696,§101, 84 Stat. 2080–1; amended Oct. 17, 1979, Pub. L. 96–88, title III, §301(a)(1), title V, §507, 93 Stat. 677, 692, provided Congressional declaration of purpose for former part D of this subchapter, prior to repeal by Pub. L. 99–129, title II, §220(c), Oct. 22, 1985, 99 Stat. 544.
+Another prior section 295, act July 1, 1944, ch. 373, title VII, §761, as added Dec. 25, 1970, Pub. L. 91–696, §101, 84 Stat. 2080–1; amended Oct. 17, 1979, Pub. L. 96–88, title III, §301(a)(1), title V, §507, 93 Stat. 677, 692, provided Congressional declaration of purpose for former part D of this subchapter, prior to repeal by Pub. L. 99–129, title II, §220(c), Oct. 22, 1985, 99 Stat. 544.
 
 Another prior section 295, act July 1, 1944, ch. 373, title VII, §761, as added Oct. 31, 1963, Pub. L. 88–164, title I, §101, 77 Stat. 282, related to authorization of appropriations respecting grants for construction of mental retardation facilities, prior to the general amendment of former part D of this subchapter by section 101 of Pub. L. 91–696.
 
@@ -85,4 +87,8 @@ A prior section 765 of act July 1, 1944, was classified to section 294c of this 
 Another prior section 765 of act July 1, 1944, was classified to section 295d of this title prior to repeal by Pub. L. 99–129.
 
 Another prior section 765 of act July 1, 1944, was classified to section 295d of this title prior to the general amendment of part D of this subchapter by Pub. L. 91–696.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (d)(8), (9). Pub. L. 111–148 added par. (8) and redesignated former par. (8) as (9).
 

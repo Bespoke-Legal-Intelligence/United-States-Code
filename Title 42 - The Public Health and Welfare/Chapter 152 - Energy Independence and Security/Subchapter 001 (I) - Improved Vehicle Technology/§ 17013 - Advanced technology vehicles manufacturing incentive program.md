@@ -146,7 +146,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 (2) The rate of pay for a person appointed pursuant to paragraph (1) shall not exceed the maximum rate payable for GS-15 of the General Schedule under chapter 53 such <sup>3</sup> title 5.
 
-(3) The Secretary may retain such consultants as the Secretary deems necessary to the discharge of the functions required by this section, pursuant to section 427 of title 41.
+(3) The Secretary may retain such consultants as the Secretary deems necessary to the discharge of the functions required by this section, pursuant to section 1901 of title 41.
 
 (Pub. L. 110–140, title I, §136, Dec. 19, 2007, 121 Stat. 1514; Pub. L. 110–329, div. A, §129(c), Sept. 30, 2008, 122 Stat. 3578; Pub. L. 111–85, title III, §312(a), Oct. 28, 2009, 123 Stat. 2874.)
 
@@ -156,9 +156,13 @@ The Clean Air Act, referred to in subsec. (a)(1)(B), is act July 14, 1955, ch. 3
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (d)(2)(B), is set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Codification
+
+In subsec. (j)(3), “section 1901 of title 41” substituted for “section 31 of the Office of Federal Procurement Policy Act (41 U.S.C. 427)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–85, §312(a)(1)(A), inserted “an ultra efficient vehicle or” after “means” in introductory provisions.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–85, §312(a)(1)(A), inserted “an ultra efficient vehicle or” after “means” in introductory provisions.
 
 Subsec. (a)(5). Pub. L. 111–85, §312(a)(1)(B), added par. (5).
 
@@ -172,7 +176,7 @@ Subsec. (g). Pub. L. 111–85, §312(a)(3), inserted “or are utilized primaril
 
 Subsec. (h)(1)(B). Pub. L. 111–85, §312(a)(4), substituted “ultra efficient vehicles, automobiles,” for “automobiles”.
 
-2008—Subsec. (d)(1). Pub. L. 110–329, §129(c)(1), inserted at end “The loans shall be made through the Federal Financing Bank, with the full faith and credit of the United States Government on the principal and interest. The full credit subsidy shall be paid by the Secretary using appropriated funds.”
+<b>2008</b>—Subsec. (d)(1). Pub. L. 110–329, §129(c)(1), inserted at end “The loans shall be made through the Federal Financing Bank, with the full faith and credit of the United States Government on the principal and interest. The full credit subsidy shall be paid by the Secretary using appropriated funds.”
 
 Subsec. (e). Pub. L. 110–329, §129(c)(2), substituted “Not later than 60 days after September 30, 2008, the Secretary shall promulgate an interim final rule establishing regulations that the Secretary deems necessary to administer this section and any loans made by the Secretary pursuant to this section. Such interim final rule shall require that,” for “The Secretary shall issue regulations that require that,”.
 
@@ -187,4 +191,10 @@ Pub. L. 111–85, title III, §312(b), Oct. 28, 2009, 123 Stat. 2875, provided t
 &emsp;“(2) rejected on the basis that the vehicles to which the proposal related were not advanced technology vehicles; and
 
 &emsp;“(3) related to ultra efficient vehicles.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “or”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “points”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “of such”.</i>
 

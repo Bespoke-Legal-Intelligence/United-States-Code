@@ -84,7 +84,7 @@ For purposes of this subchapter—
 
 #### (1) Certain uses treated as sales
 
-&emsp;Any manufacturer, producer, or importer of a vaccine which uses such vaccine before it is sold shall be liable for the tax imposed by section 4131 in the same manner as if such vaccine were sold by such manufacturer, producer, or importer.
+&emsp;Any manufacturer, producer, or importer of a vaccine which uses such vaccine before it issold shall be liable for the tax imposed by section 4131 in the same manner as if such vaccine were sold by such manufacturer, producer, or importer.
 
 #### (2) Treatment of vaccines shipped to United States possessions
 
@@ -102,21 +102,21 @@ For purposes of this subchapter—
 
 #### Amendments
 
-2006—Subsec. (a)(1)(O), (P). Pub. L. 109–432 added subpars. (O) and (P).
+<b>2006</b>—Subsec. (a)(1)(O), (P). Pub. L. 109–432 added subpars. (O) and (P).
 
-2004—Subsec. (a)(1)(I) to (M). Pub. L. 108–357, §889(a), added subpar. (I) and redesignated former subpars. (I) to (L) as (J) to (M), respectively.
+<b>2004</b>—Subsec. (a)(1)(I) to (M). Pub. L. 108–357, §889(a), added subpar. (I) and redesignated former subpars. (I) to (L) as (J) to (M), respectively.
 
 Subsec. (a)(1)(N). Pub. L. 108–357, §890(a), added subpar. (N).
 
-1999—Subsec. (a)(1)(K). Pub. L. 106–170, §523(b)(1), repealed Pub. L. 105–277, §1503(a). See 1998 Amendment note below.
+<b>1999</b>—Subsec. (a)(1)(K). Pub. L. 106–170, §523(b)(1), repealed Pub. L. 105–277, §1503(a). See 1998 Amendment note below.
 
 Subsec. (a)(1)(L). Pub. L. 106–170, §523(a)(1), added subpar. (L).
 
-1998—Subsec. (a)(1)(K). Pub. L. 105–277, §3002(a), added a subpar. (K) identical to that added by Pub. L. 105–277, §1503(a). See below.
+<b>1998</b>—Subsec. (a)(1)(K). Pub. L. 105–277, §3002(a), added a subpar. (K) identical to that added by Pub. L. 105–277, §1503(a). See below.
 
 Pub. L. 105–277, §1503(a), which directed amendment of section 4132(1) by adding a new subpar. (K) at the end, was repealed by Pub. L. 106–170, §523(b)(1).
 
-1997—Subsec. (a)(1). Pub. L. 105–34, §904(b), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “The term ‘taxable vaccine’ means any vaccine—
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–34, §904(b), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “The term ‘taxable vaccine’ means any vaccine—
 
 &emsp;“(A) which is listed in the table contained in section 4131(b)(1), and
 
@@ -140,7 +140,7 @@ vaccine.—The term ‘MMR vaccine’ means any vaccine against measles, mumps, 
 
 Polio vaccine.—The term ‘polio vaccine’ means any vaccine containing polio virus.”
 
-1988—Subsec. (c). Pub. L. 100–647 added pars. (1) and (2) and redesignated former pars. (1) and (2) as (3) and (4), respectively.
+<b>1988</b>—Subsec. (c). Pub. L. 100–647 added pars. (1) and (2) and redesignated former pars. (1) and (2) as (3) and (4), respectively.
 
 #### Effective Date of 2006 Amendment
 
@@ -196,7 +196,7 @@ Pub. L. 106–170, title V, §523(b)(3), Dec. 17, 1999, 113 Stat. 1928, provided
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–277, div. C, title XV, §1503(b), div. I, title III, §3002(b), Oct. 21, 1998, 112 Stat. 2681–741, 2681–905, which provided that amendment of this section by Pub. L. 105–277 was applicable to sales after Oct. 21, 1998, and that delivery date would be considered sale date in the case of sales on or before Oct. 21, 1998, was repealed by Pub. L. 106–170, title V, §523(b)(1), Dec. 17, 1999, 113 Stat. 1927.
+Pub. L. 105–277, div. C, title XV, §1503(b), div. I, title III, §3002(b), Oct. 21, 1998, 112 Stat. 2681–741, 2681–905,which provided that amendment of this section by Pub. L. 105–277 was applicable to sales after Oct. 21, 1998, and that delivery date would be considered sale date in the case of sales on or before Oct. 21, 1998, was repealed by Pub. L. 106–170, title V, §523(b)(1), Dec. 17, 1999, 113 Stat. 1927.
 
 #### Effective Date of 1997 Amendment
 

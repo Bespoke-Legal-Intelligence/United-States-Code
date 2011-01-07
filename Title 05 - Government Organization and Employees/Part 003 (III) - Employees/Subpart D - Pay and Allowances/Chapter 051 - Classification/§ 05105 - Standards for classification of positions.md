@@ -42,3 +42,19 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
+#### Performance Management Skills and Competencies
+
+Pub. L. 111–352, §12, Jan. 4, 2011, 124 Stat. 3882, provided that:
+
+“(a)
+
+Performance Management Skills and Competencies.—Not later than 1 year after the date of enactment of this Act \[Jan. 4, 2011\], the Director of the Office of Personnel Management, in consultation with the Performance Improvement Council, shall identify the key skills and competencies needed by Federal Government personnel for developing goals, evaluating programs, and analyzing and using performance information for the purpose of improving Government efficiency and effectiveness.
+
+“(b)
+
+Position Classifications.—Not later than 2 years after the date of enactment of this Act, based on the identifications under subsection (a), the Director of the Office of Personnel Management shall incorporate, as appropriate, such key skills and competencies into relevant position classifications.
+
+“(c)
+
+Incorporation Into Existing Agency Training.—Not later than 2 years after the enactment of this Act, the Director of the Office of Personnel Management shall work with each agency, as defined under section 306(f) of title 5, United States Code, to incorporate the key skills identified under subsection (a) into training for relevant employees at each agency.”
+

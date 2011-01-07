@@ -22,7 +22,7 @@ Changes in phraseology were made.
 
 #### Amendments
 
-1996—Pub. L. 104–294 substituted “$1,000” for “$100” in fifth par.
+<b>1996</b>—Pub. L. 104–294 substituted “$1,000” for “$100” in fifth par.
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” in fourth par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” in fourth par.
 

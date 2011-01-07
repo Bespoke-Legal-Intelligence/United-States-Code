@@ -32,7 +32,7 @@ The Secretary shall prepare and prescribe a single application form which—
 
 &emsp;(C) to meet all of its financial obligations, including (but not limited to) refunds of institutional charges and repayments to the Secretary for liabilities and debts incurred in programs administered by the Secretary.
 
-(2) Notwithstanding paragraph (1), if an institution fails to meet criteria prescribed by the Secretary regarding ratios that demonstrate financial responsibility, then the institution shall provide the Secretary with satisfactory evidence of its financial responsibility in accordance with paragraph (3). Such criteria shall take into account any differences in generally accepted accounting principles, and the financial statements required thereunder, that are applicable to for-profit, public, and nonprofit institutions.The Secretary shall take into account an institution's total financial circumstances in making a determination of its ability to meet the standards herein required.
+(2) Notwithstanding paragraph (1), if an institution fails to meet criteria prescribed by the Secretary regarding ratios that demonstrate financial responsibility, then the institution shall provide the Secretary with satisfactory evidence of its financial responsibility in accordance with paragraph (3). Such criteria shall take into account any differences in generally accepted accounting principles, and the financial statements required thereunder, that are applicable to for-profit, public, and nonprofit institutions. The Secretary shall take into account an institution's total financial circumstances in making a determination of its ability to meet the standards herein required.
 
 (3) The Secretary shall determine an institution to be financially responsible, notwithstanding the institution's failure to meet the criteria under paragraphs (1) and (2), if—
 
@@ -82,7 +82,7 @@ The Secretary is authorized—
 
 &emsp;(A) financial guarantees from an institution participating, or seeking to participate, in a program under this subchapter and part C of subchapter I of chapter 34 of title 42, or from one or more individuals who the Secretary determines, in accordance with paragraph (2), exercise substantial control over such institution, or both, in an amount determined by the Secretary to be sufficient to satisfy the institution's potential liability to the Federal Government, student assistance recipients, and other program participants for funds under this subchapter and part C of subchapter I of chapter 34 of title 42; and
 
-&emsp;(B) the assumption of personal liability, by one or more individuals who exercise substantial control over such institution, as determined by the Secretary in accordance with paragraph (2), for financial losses to the Federal Government, student assistance recipients, and other program participants for funds under this subchapter and part C of subchapterI of chapter 34 of title 42, and civil and criminal monetary penalties authorized under this subchapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;(B) the assumption of personal liability, by one or more individuals who exercise substantial control over such institution, as determined by the Secretary in accordance with paragraph (2), for financial losses to the Federal Government, student assistance recipients, and other program participants for funds under this subchapter and part C of subchapter I of chapter 34 of title 42, and civil and criminal monetary penalties authorized under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
 (2)(A) The Secretary may determine that an individual exercises substantial control over one or more institutions participating in a program under this subchapter and part C of subchapter I of chapter 34 of title 42 if the Secretary determines that—
 
@@ -128,7 +128,7 @@ The Secretary is authorized—
 
 #### (f) Actions on applications and site visits
 
-The Secretary shall ensure that prompt action is taken by the Department on any application required under subsection (b) of this section. The personnel of the Department of Education may conduct a site visit at each institution before certifying or recertifying its eligibility for purposes of any program under this subchapter and part C of subchapter I of chapter 34 of title 42. The Secretary shall establish priorities by which institutions are to receive site visits, and shall, to the extent practicable, coordinate such visits with site visits by States, guaranty agencies, and accrediting bodies in order to eliminate duplication, and reduce administrative burden.
+The Secretary shall ensure that prompt action is taken by the Department on any application required under subsection (b) of this section. The personnel of the Department of Education may conduct a site visit at each institution before certifying or recertifying its eligibility for purposes of any program under this subchapter and part C of subchapter I of chapter 34 of title 42. The Secretary shall establish priorities by which institutions are to receive site visits, andshall, to the extent practicable, coordinate such visits with site visits by States, guaranty agencies, and accrediting bodies in order to eliminate duplication, and reduce administrative burden.
 
 #### (g) Time limitations on, and renewal of, eligibility
 
@@ -142,7 +142,7 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 #### (3) Institutions outside the United States
 
-&emsp;The Secretary shall promulgate regulations regarding the recertification requirements applicable to an institution of higher education outside of the United States that meets the requirements of section 1002(a)(1)(C) of this title and received less than $500,000 in funds underpart B of this subchapter for the most recent year for which data are available.
+&emsp;The Secretary shall promulgate regulations regarding the recertification requirements applicable to an institution of higher education outside of the United States that meets the requirements of section 1002(a)(1)(C) of this title and received less than $500,000 in funds under part B of this subchapter for the most recent year for which data are available.
 
 #### (h) Provisional certification of institutional eligibility
 
@@ -192,7 +192,7 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 #### (j) Treatment of branches
 
-(1) A branch of an eligible institution of higher education, as defined pursuant to regulations of the Secretary, shall be certified under this subpart before it may participate as part of such institution in a program under this subchapter and part C of subchapter I of chapter 34 of title 42, except that such branch shall not be required to meet the requirements of sections 1002(b)(1)(E) and 1002(c)(1)(C) of this title prior to seeking such certification. Such branch is required to be in existence at least 2 years after the branch is certified by the Secretary as a branch campus participating in a program under this subchapter and part C of subchapter I of chapter 34 of title 42, prior to seeking certification as a main campus or free-standing institution.
+(1) A branch of an eligible institution of higher education, as defined pursuant to regulations ofthe Secretary, shall be certified under this subpart before it may participate as part of such institution in a program under this subchapter and part C of subchapter I of chapter 34 of title 42, except that such branch shall not be required to meet the requirements of sections 1002(b)(1)(E) and 1002(c)(1)(C) of this title prior to seeking such certification. Such branch is required to be in existence at least 2 years after the branch is certified by the Secretary as a branch campus participating in a program under this subchapter and part C of subchapter I of chapter 34 of title 42, prior to seeking certification as a main campus or free-standing institution.
 
 (2) The Secretary may waive the requirement of section 1001(a)(2) of this title for a branch that (A) is not located in a State, (B) is affiliated with an eligible institution, and (C) was participating in one or more programs under this subchapter and part C of subchapter I of chapter 34 of title 42 on or before January 1, 1992.
 
@@ -200,7 +200,7 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 #### (1) In general
 
-&emsp;A location of a closed institution of higher education shall be eligible as an additional location of an eligible institution of higher education, as defined pursuant to regulations of the Secretary, for the purposes of a teach-out described in section 1094(f) of this title, if suchteach-out has been approved by the institution's accrediting agency.
+&emsp;A location of a closed institution of higher education shall be eligible as an additional location of an eligible institution of higher education, as defined pursuant to regulations of the Secretary, for the purposes of a teach-out described in section 1094(f) of this title, if such teach-out has been approved by the institution's accrediting agency.
 
 #### (2) Special rule
 
@@ -218,13 +218,13 @@ Subsections (b)(5) and (c)(3), referred to in subsec. (i)(1), originally meant s
 
 #### Amendments
 
-2009—Subsec. (c)(2). Pub. L. 111–39 substituted “for-profit” for “for profit”.
+<b>2009</b>—Subsec. (c)(2). Pub. L. 111–39 substituted “for-profit” for “for profit”.
 
-2008—Subsec. (d)(1)(B). Pub. L. 110–315, §496(1), inserted “and” after semicolon.
+<b>2008</b>—Subsec. (d)(1)(B). Pub. L. 110–315, §496(1), inserted “and” after semicolon.
 
 Subsec. (k). Pub. L. 110–315, §496(2), added subsec. (k).
 
-1998—Subsec. (b)(1). Pub. L. 105–244, §493(a)(1), substituted “financial responsibility, and administrative capability” for “and capability”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–244, §493(a)(1), substituted “financial responsibility, and administrative capability” for “and capability”.
 
 Subsec. (b)(3). Pub. L. 105–244, §493(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “requires a description of third party servicers of an institution of higher education, together with a copy of any contract with the institution of higher education and a financial aid service provider or loan servicer; and”.
 
@@ -268,7 +268,7 @@ Pub. L. 105–244, §102(b)(7)(A), substituted “sections 1002(b)(1)(E) and 100
 
 Subsec. (j)(2). Pub. L. 105–244, §102(a)(6)(B), (b)(7)(B), amended par. (2) identically, substituting “section 1001(a)(2)” for “section 1141(a)(2)”.
 
-1993—Subsec. (c)(2). Pub. L. 103–208, §2(i)(9)(A), inserted at end “Such criteria shall take into account any differences in generally accepted accounting principles, and the financial statements required thereunder, that are applicable to for profit and nonprofit institutions. The Secretary shall take into account an institution's total financial circumstances in making a determination of its ability to meet the standards herein required.”
+<b>1993</b>—Subsec. (c)(2). Pub. L. 103–208, §2(i)(9)(A), inserted at end “Such criteria shall take into account any differences in generally accepted accounting principles, and the financial statements required thereunder, that are applicable to for profit and nonprofit institutions. The Secretary shall take into account an institution's total financial circumstances in making a determination of its ability to meet the standards herein required.”
 
 Subsec. (c)(3). Pub. L. 103–208, §2(i)(9)(B), substituted “The Secretary shall determine” for “The Secretary may determine” in introductory provisions.
 

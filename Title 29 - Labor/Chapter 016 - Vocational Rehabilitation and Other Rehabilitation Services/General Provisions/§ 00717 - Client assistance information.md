@@ -14,5 +14,5 @@ A prior section 20 of Pub. L. 93–112 was classified to section 718a of this ti
 
 #### Amendments
 
-1998—Pub. L. 105–277, §101(f) \[title VIII, §402(b)(5)\], made technical amendment to section designation and catchline in the original.
+<b>1998</b>—Pub. L. 105–277, §101(f) \[title VIII, §402(b)(5)\], made technical amendment to section designation and catchline in the original.
 

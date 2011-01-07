@@ -4,27 +4,27 @@
 
 (b) Any eligible spouse or surviving spouse shall be entitled to pursue a program of education exclusively by correspondence and be paid an educational assistance allowance as provided in section 3686 (other than subsection (a)(2)) of this title and the period of such spouse's entitlement shall be charged with one month for each $788 which is paid to the spouse as an educational assistance allowance for such course.
 
-(Added Pub. L. 92–540, title III, §313, Oct. 24, 1972, 86 Stat. 1084, §1734; amended Pub. L. 94–502, title III, §310(19), Oct. 15, 1976, 90 Stat. 2392; Pub. L. 101–237, title IV, §403(a)(9), Dec. 18, 1989, 103 Stat. 2079; renumbered §3534 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–178, title VIII, §8210(b), as added Pub. L. 105–206, title IX, §9014(b), July 22, 1998, 112 Stat. 866; Pub. L. 106–419, title I, §111(b), Nov. 1, 2000, 114 Stat. 1830; Pub. L. 107–103, title I, §102(b), Dec. 27, 2001, 115 Stat. 978; Pub. L. 108–183, title III, §302(b), Dec. 16, 2003, 117 Stat. 2659.)
+(Added Pub. L. 92–540, title III, §313, Oct. 24, 1972, 86 Stat. 1084, §1734; amended Pub. L. 94–502, title III, §310(19), Oct. 15, 1976, 90 Stat. 2392; Pub. L. 101–237, title IV, §403(a)(9), Dec. 18, 1989, 103 Stat. 2079; renumbered §3534 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–178, title VIII, §8210(b), as added Pub. L. 105–206, title IX, §9014(b), July 22, 1998, 112 Stat. 866; Pub. L. 106–419, title I, §111(b), Nov. 1, 2000, 114 Stat. 1830; Pub. L. 107–103, title I, §102(b), Dec. 27, 2001, 115 Stat. 978; Pub. L.108–183, title III, §302(b), Dec. 16, 2003, 117 Stat. 2659.)
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–183 substituted “$788” for “$670”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–183 substituted “$788” for “$670”.
 
-2001—Subsec. (b). Pub. L. 107–103 substituted “$670” for “$588”.
+<b>2001</b>—Subsec. (b). Pub. L. 107–103 substituted “$670” for “$588”.
 
-2000—Subsec. (b). Pub. L. 106–419 substituted “$588” for “$485”.
+<b>2000</b>—Subsec. (b). Pub. L. 106–419 substituted “$588” for “$485”.
 
-1998—Subsec. (b). Pub. L. 105–178, §8210(b), as added by Pub. L. 105–206, §9014(b), substituted “$485” for “$404”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–178, §8210(b), as added by Pub. L. 105–206, §9014(b), substituted “$485” for “$404”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1734 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1734 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “3687” for “1787”.
 
 Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “3686” for “1786”.
 
-1989—Subsec. (b). Pub. L. 101–237 substituted “1786 (other than subsection (a)(2)) of this title and the period of such spouse's entitlement shall be charged with one month for each $404 which is paid to the spouse as an educational assistance allowance for such course” for “1786 of this title”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–237 substituted “1786 (other than subsection (a)(2)) of this title and the period of such spouse's entitlement shall be charged with one month for each $404 which is paid to the spouse as an educational assistance allowance for such course” for “1786 of this title”.
 
-1976—Subsec. (b). Pub. L. 94–502 substituted “spouse or surviving spouse” for “wife or widow”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–502 substituted “spouse or surviving spouse” for “wife or widow”.
 
 #### Effective Date of 2003 Amendment
 

@@ -38,7 +38,7 @@
 
 #### (1) In general
 
-&emsp;Judicial review of any action or decision relating to this section (including judicial review of the merits of a determination made under subsection (a)(3) or (a)(6) of this section)is available exclusively in habeas corpus proceedings consistent with this subsection. Except as provided in the preceding sentence, no court shall have jurisdiction to review, by habeas corpus petition or otherwise, any such action or decision.
+&emsp;Judicial review of any action or decision relating to this section (including judicial review of the merits of a determination made under subsection (a)(3) or (a)(6) of this section) is available exclusively in habeas corpus proceedings consistent with this subsection. Except as provided in the preceding sentence, no court shall have jurisdiction to review, by habeas corpus petition or otherwise, any such action or decision.
 
 #### (2) Application
 
@@ -71,6 +71,10 @@
 The provisions of this section shall not be applicable to any other provision of this chapter.
 
 (June 27, 1952, ch. 477, title II, ch. 4, §236A, as added Pub. L. 107–56, title IV, §412(a), Oct. 26, 2001, 115 Stat. 350.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (c), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

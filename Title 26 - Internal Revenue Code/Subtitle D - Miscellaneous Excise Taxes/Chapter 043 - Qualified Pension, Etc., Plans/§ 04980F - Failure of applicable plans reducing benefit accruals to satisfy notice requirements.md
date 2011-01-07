@@ -112,9 +112,9 @@ The Secretary may by regulations allow any notice under subsection (e) to be pro
 
 #### Amendments
 
-2006—Subsec. (e)(1). Pub. L. 109–280 inserted “and to each employer who has an obligation to contribute to the plan” before period at end.
+<b>2006</b>—Subsec. (e)(1). Pub. L. 109–280 inserted “and to each employer who has an obligation to contribute to the plan” before period at end.
 
-2002—Subsec. (e)(1). Pub. L. 107–147, §411(u)(1)(A), substituted “the notice described in paragraph (2)” for “written notice”.
+<b>2002</b>—Subsec. (e)(1). Pub. L. 107–147, §411(u)(1)(A), substituted “the notice described in paragraph (2)” for “written notice”.
 
 Subsec. (f)(2)(A). Pub. L. 107–147, §411(u)(1)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “any defined benefit plan, or”.
 

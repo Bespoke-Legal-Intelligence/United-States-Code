@@ -176,13 +176,13 @@ The changes correct typographical errors.
 
 #### Amendments
 
-2001—Subsec. (e). Pub. L. 107–107 inserted “an approved all-fully-qualified-officers list,” after “a promotion list,”.
+<b>2001</b>—Subsec. (e). Pub. L. 107–107 inserted “an approved all-fully-qualified-officers list,” after “a promotion list,”.
 
-1985—Subsec. (c). Pub. L. 99–145 inserted “and if the member is not discharged, retired, or transferred to the Fleet Reserve or Fleet Marine Corps Reserve or inactive Reserve under section 1210 of this title,” after “proposed under subsection (a) or (b),” and inserted “and the member shall be discharged” after “as soon as practicable”.
+<b>1985</b>—Subsec. (c). Pub. L. 99–145 inserted “and if the member is not discharged, retired, or transferred to the Fleet Reserve or Fleet Marine Corps Reserve or inactive Reserve under section 1210 of this title,” after “proposed under subsection (a) or (b),” and inserted “and the member shall be discharged” after “as soon as practicable”.
 
-1980—Subsec. (a)(1). Pub. L. 96–513 substituted “active-duty list” for “active list of his regular component”.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–513 substituted “active-duty list” for “active list of his regular component”.
 
-1962—Subsec. (d). Pub. L. 87–651 substituted “subsection (b)(1) or (2)” for “subsection (b)(1), (2), or (3)” in cl. (1), and “subsection (b)(4)” for “subsection (b)(5)” in cl. (2).
+<b>1962</b>—Subsec. (d). Pub. L. 87–651 substituted “subsection (b)(1) or (2)” for “subsection (b)(1), (2), or (3)” in cl. (1), and “subsection (b)(4)” for “subsection (b)(5)” in cl. (2).
 
 #### Effective Date of 1980 Amendment
 

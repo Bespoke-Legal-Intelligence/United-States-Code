@@ -13,9 +13,9 @@
 
 #### Amendments
 
-1986—Pub. L. 99–509, title VI, §6103(b), Oct. 21, 1986, 100 Stat. 1948, added item for chapter 38.
+<b>1986</b>—Pub. L. 99–509, title VI, §6103(b), Oct. 21, 1986, 100 Stat. 1948, added item for chapter 38.
 
-1983—Pub. L. 97–452, §1(18)(B), Jan. 12, 1983, 96 Stat. 2477, added item for chapter 39.
+<b>1983</b>—Pub. L. 97–452, §1(18)(B), Jan. 12, 1983, 96 Stat. 2477, added item for chapter 39.
 
 
 ---

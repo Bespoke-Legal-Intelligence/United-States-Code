@@ -20,7 +20,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in
 
 #### Amendments
 
-2009—Subsec. (c). Pub. L. 111–21 added subsec. (c).
+<b>2009</b>—Subsec. (c). Pub. L. 111–21 added subsec. (c).
 
 #### Effective Date of 2009 Amendment
 

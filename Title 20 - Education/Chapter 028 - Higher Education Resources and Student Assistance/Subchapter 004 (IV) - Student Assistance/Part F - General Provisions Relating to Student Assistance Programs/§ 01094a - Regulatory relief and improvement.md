@@ -24,7 +24,7 @@
 
 #### (5) Review and evaluation
 
-&emsp;The Secretary shall review and evaluate the Quality Assurance Program conducted by each participating institution and, on the basis of that evaluation, make recommendations regarding amendments to this chapter that will streamline the administration and enhance the integrity of Federal student assistance programs. Such recommendations shall be submitted to the authorizing committees.
+&emsp;The Secretary shall review and evaluate the Quality Assurance Program conducted by each participating institution and, on the basis of that evaluation, make recommendations regarding amendments to this chapter and part C of subchapter I of chapter 34 of title 42 that will streamline the administration and enhance the integrity of Federal student assistance programs. Such recommendations shall be submitted to the authorizing committees.
 
 #### (b) Regulatory improvement and streamlining experiments
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(B) the findings and conclusions reached regarding each of the experiments conducted; and
 
-&emsp;&emsp;(C) recommendations for amendments to improve and streamline this chapter, based on the results of the experiment.
+&emsp;&emsp;(C) recommendations for amendments to improve and streamline this chapter and part C of subchapter I of chapter 34 of title 42, based on the results of the experiment.
 
 #### (3) Selection
 
@@ -66,17 +66,13 @@ For purposes of this section, the term “current award year” means the award 
 
 (Pub. L. 89–329, title IV, §487A, as added Pub. L. 102–325, title IV, §491, July 23, 1992, 106 Stat. 629; amended Pub. L. 105–244, title IV, §490, Oct. 7, 1998, 112 Stat. 1751; Pub. L. 110–315, title I, §103(b)(13), title IV, §494, Aug. 14, 2008, 122 Stat. 3090, 3318; Pub. L. 111–39, title IV, §407(b)(9), July 1, 2009, 123 Stat. 1952.)
 
-#### References in Text
-
-This chapter, referred to in subsecs. (a)(5) and (b)(2)(C), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
-
 #### Amendments
 
-2009—Subsec. (b)(1). Pub. L. 111–39, §407(b)(9)(A), substituted “Any experimental sites” for “Any activities” and “June 30, 2010” for “June 30, 2009”.
+<b>2009</b>—Subsec. (b)(1). Pub. L. 111–39, §407(b)(9)(A), substituted “Any experimental sites” for “Any activities” and “June 30, 2010” for “June 30, 2009”.
 
 Subsec. (b)(4). Pub. L. 111–39, §407(b)(9)(B), added par. (4).
 
-2008—Subsec. (a)(5). Pub. L. 110–315, §103(b)(13), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
+<b>2008</b>—Subsec. (a)(5). Pub. L. 110–315, §103(b)(13), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
 
 Subsec. (b)(1). Pub. L. 110–315, §494(1), amended par. (1) generally. Prior to amendment, text read as follows: “The Secretary may continue any experimental sites in existence on October 7, 1998. Any activities approved by the Secretary prior to October 7, 1998, that are inconsistent with this section shall be discontinued not later than June 30, 1999.”
 
@@ -96,7 +92,7 @@ Pub. L. 110–315, §494(3)(B), (C), redesignated subpar. (C) as (B) and struck 
 
 Subsec. (b)(3)(C). Pub. L. 110–315, §494(3)(C), redesignated subpar. (C) as (B).
 
-1998—Pub. L. 105–244 amended section catchline and text generally. Prior to amendment, section authorized a Quality Assurance Program for institutions to develop and implement systems for verifying student financial aid application data.
+<b>1998</b>—Pub. L. 105–244 amended section catchline and text generally. Prior to amendment, section authorized a Quality Assurance Program for institutions to develop and implement systems for verifying student financial aid application data.
 
 #### Effective Date of 2009 Amendment
 

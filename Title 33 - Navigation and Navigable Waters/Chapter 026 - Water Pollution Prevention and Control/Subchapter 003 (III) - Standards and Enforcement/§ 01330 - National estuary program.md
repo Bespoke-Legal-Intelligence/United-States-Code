@@ -42,7 +42,7 @@ The purposes of any management conference convened with respect to an estuary un
 
 #### (c) Members of conference
 
-The members of a management conference convened under this section shall include, at a minimum, the Administrator and representatives of—
+The members of a management conference convened under this section shall include, at aminimum, the Administrator and representatives of—
 
 &emsp;(1) each State and foreign nation located in whole or in part in the estuarine zone of the estuary for which the conference is convened;
 
@@ -66,7 +66,7 @@ A management conference convened under this section shall be convened for a peri
 
 #### (1) Approval
 
-&emsp;Not later than 120 days after the completion of a conservation and management plan and after providing for public review and comment, the Administrator shall approve suchplan if the plan meets the requirements of this section and the affected Governor or Governors concur.
+&emsp;Not later than 120 days after the completion of a conservation and management plan and after providing for public review and comment, the Administrator shall approve such plan if the plan meets the requirements of this section and the affected Governor or Governors concur.
 
 #### (2) Implementation
 
@@ -118,7 +118,7 @@ There are authorized to be appropriated to the Administrator not to exceed $35,0
 
 &emsp;&emsp;(A) a long-term program of trend assessment monitoring measuring variations in pollutant concentrations, marine ecology, and other physical or biological environmental parameters which may affect estuarine zones, to provide the Administrator the capacity to determine the potential and actual effects of alternative management strategies and measures;
 
-&emsp;&emsp;(B) a program of ecosystem assessment assisting in the development of (i) baseline studies which determine the state of estuarine zones and the effects of natural and anthropogenic changes, and (ii) predictive models capable of translating information on specific discharges or general pollutant loadings within estuarine zones into a set of probable effects on such zones;
+&emsp;&emsp;(B) a program of ecosystem assessment assisting in the development of (i) baselinestudies which determine the state of estuarine zones and the effects of natural and anthropogenic changes, and (ii) predictive models capable of translating information on specific discharges or general pollutant loadings within estuarine zones into a set of probable effects on such zones;
 
 &emsp;&emsp;(C) a comprehensive water quality sampling program for the continuous monitoring of nutrients, chlorine, acid precipitation dissolved oxygen, and potentially toxic pollutants (including organic chemicals and metals) in estuarine zones, after consultation with interested State, local, interstate, or international agencies and review and analysis of all environmental sampling data presently collected from estuarine zones; and
 
@@ -132,7 +132,7 @@ There are authorized to be appropriated to the Administrator not to exceed $35,0
 
 &emsp;&emsp;(B) an assessment of the state and health of the Nation's estuarine zones, to the extent evaluated under this subsection;
 
-&emsp;&emsp;(C) a discussion of pollution problems and trends in pollutant concentrations with a direct or indirect effect on water quality, the ecosystem, and designated or potential usesof each estuarine zone, to the extent evaluated under this subsection; and
+&emsp;&emsp;(C) a discussion of pollution problems and trends in pollutant concentrations with a direct or indirect effect on water quality, the ecosystem, and designated or potential uses of each estuarine zone, to the extent evaluated under this subsection; and
 
 &emsp;&emsp;(D) an evaluation of pollution abatement activities and management measures so far implemented to determine the degree of improvement toward the objectives expressed in subsection (b)(4) of this section.
 
@@ -148,11 +148,11 @@ Executive Order 12372, referred to in subsec. (b), is Ex. Ord. No. 12372, July 1
 
 #### Amendments
 
-2004—Subsec. (i). Pub. L. 108–399 substituted “2010” for “2005” in introductory provisions.
+<b>2004</b>—Subsec. (i). Pub. L. 108–399 substituted “2010” for “2005” in introductory provisions.
 
-2002—Subsec. (k). Pub. L. 107–303 repealed Pub. L. 105–362, §501(a)(2). See 1998 Amendment note below.
+<b>2002</b>—Subsec. (k). Pub. L. 107–303 repealed Pub. L. 105–362, §501(a)(2). See 1998 Amendment note below.
 
-2000—Subsec. (a)(2)(B). Pub. L. 106–457, §301, inserted “Lake Pontchartrain Basin, Louisiana and Mississippi;” before “and Peconic Bay, New York.”
+<b>2000</b>—Subsec. (a)(2)(B). Pub. L. 106–457, §301, inserted “Lake Pontchartrain Basin, Louisiana and Mississippi;” before “and Peconic Bay, New York.”
 
 Subsec. (g)(2), (3). Pub. L. 106–457, §302, added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
@@ -166,15 +166,15 @@ Federal share.—The amount of grants to any person (including a State, intersta
 
 Subsec. (i). Pub. L. 106–457, §303, substituted “$35,000,000 for each of fiscal years 2001 through 2005” for “$12,000,000 per fiscal year for each of fiscal years 1987, 1988, 1989, 1990, and 1991”.
 
-1998—Subsec. (k). Pub. L. 105–362, §501(a)(2), which directed the substitution of “section 1254(n)(3)” for “section 1254(n)(4)”, was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+<b>1998</b>—Subsec. (k). Pub. L. 105–362, §501(a)(2), which directed the substitution of “section 1254(n)(3)” for “section 1254(n)(4)”, was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
-1988—Subsec. (a)(2)(B). Pub. L. 100–653, §1004, and Pub. L. 100–688, §2001(1), made identical amendments, inserting “Massachusetts Bay, Massachusetts (including Cape Cod Bay and Boston Harbor);” after “Buzzards Bay, Massachusetts;”.
+<b>1988</b>—Subsec. (a)(2)(B). Pub. L. 100–653, §1004, and Pub. L. 100–688, §2001(1), made identical amendments, inserting “Massachusetts Bay, Massachusetts (including Cape Cod Bay and Boston Harbor);” after “Buzzards Bay, Massachusetts;”.
 
 Pub. L. 100–688, §2001(2), substituted “California; Galveston” for “California; and Galveston”.
 
 Pub. L. 100–688, §2001(3), which directed insertion of “; Barataria-Terrebonne Bay estuary complex, Louisiana; Indian River Lagoon, Florida; and Peconic Bay, New York” after “Galveston Bay, Texas;” was executed by making insertion after “Galveston Bay, Texas” as probable intent of Congress.
 
-1987—Subsec. (a)(2)(B). Pub. L. 100–202 inserted “Santa Monica Bay, California;”.
+<b>1987</b>—Subsec. (a)(2)(B). Pub. L. 100–202 inserted “Santa Monica Bay, California;”.
 
 #### Effective Date of 2002 Amendment
 

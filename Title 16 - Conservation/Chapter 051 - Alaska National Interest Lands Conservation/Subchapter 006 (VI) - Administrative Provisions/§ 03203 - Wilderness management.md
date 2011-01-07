@@ -10,7 +10,7 @@ In accordance with the goal of restoring and maintaining fish production in the 
 
 #### (c) Existing cabins
 
-Previously existing public use cabins within wilderness designated by this Act, may be permitted to continue and may be maintained or replaced subject of such restrictions as the Secretary deems necessary to preserve the wilderness character of the area.
+Previously existing public use cabins within wilderness designated by this Act, may be permitted to continue and may be maintained or replaced subject to such restrictions as the Secretary deems necessary to preserve the wilderness character of the area.
 
 #### (d) New cabins
 
@@ -22,19 +22,19 @@ The Secretary of Agriculture is hereby directed to modify any existing national 
 
 #### (f) Beach log salvage
 
-With National Forest wilderness and national forest monuments desginated <sup>1</sup> by this Act, the Secretary of Agriculture may permit or otherwise regulate the recovery and salvage of logs from coastlines.
+Within National Forest wilderness and national forest monuments desginated <sup>1</sup> by this Act, the Secretary of Agriculture may permit or otherwise regulate the recovery and salvage of logs from coastlines.
 
 (Pub. L. 96–487, title XIII, §1315, Dec. 2, 1980, 94 Stat. 2484; Pub. L. 103–437, §6(d)(31), Nov. 2, 1994, 108 Stat. 4584.)
 
 #### References in Text
 
-The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
+The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
-This Act, referred to in subsecs. (b) to (f), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsecs. (b) to (f), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### Amendments
 
-1994—Subsec. (d). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “designated”.</i>
 

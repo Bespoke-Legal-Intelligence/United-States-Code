@@ -12,7 +12,7 @@ Upon the filing of an application for registration on the supplemental register 
 
 For the purposes of registration on the supplemental register, a mark may consist of any trademark, symbol, label, package, configuration of goods, name, word, slogan, phrase, surname, geographical name, numeral, device, any matter that as a whole is not functional, or any combination of any of the foregoing, but such mark must be capable of distinguishing the applicant's goods or services.
 
-(July 5, 1946, ch. 540, title II, §23, 60 Stat. 435; Pub. L. 87–772, §13, Oct. 9, 1962, 76 Stat. 773; Pub. L. 100–667, title I, §121, Nov. 16, 1988, 102 Stat. 3942; Pub. L. 103–182, title III, §333(b), Dec. 8, 1993, 107 Stat. 2114; Pub. L. 105–330, title II, §201(a)(5), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–43, §6(b), Aug. 5, 1999, 113 Stat. 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(6), Nov. 2, 2002, 116 Stat. 1908.)
+(July 5, 1946, ch. 540, title II, §23, 60 Stat. 435; Pub. L. 87–772, §13, Oct. 9, 1962, 76 Stat. 773; Pub. L. 100–667, title I, §121, Nov. 16, 1988, 102 Stat. 3942; Pub. L. 103–182, title III, §333(b), Dec. 8, 1993, 107 Stat. 2114; Pub. L. 105–330, title II, §201(a)(5), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–43, §6(b), Aug. 5, 1999, 113 Stat. 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV,§4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(6), Nov. 2, 2002, 116 Stat. 1908.)
 
 #### References in Text
 
@@ -24,19 +24,19 @@ Acts Mar. 19, 1920, ch. 104, §1, 41 Stat. 533; Apr. 11, 1930, ch. 132, §4, 46 
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–273 struck out second comma after “numeral”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–273 struck out second comma after “numeral”.
 
-1999—Subsec. (a). Pub. L. 106–113 substituted “Director” for “Commissioner”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–113 substituted “Director” for “Commissioner”.
 
 Pub. L. 106–43 substituted “trademarks” for “trade-marks”.
 
 Subsec. (b). Pub. L. 106–113 substituted “Director” for “Commissioner”.
 
-1998—Subsec. (c). Pub. L. 105–330 substituted “, device, any matter that as a whole is not functional,” for “or device”.
+<b>1998</b>—Subsec. (c). Pub. L. 105–330 substituted “, device, any matter that as a whole is not functional,” for “or device”.
 
-1993—Subsec. (a). Pub. L. 103–182 substituted “(d), and (e)(3)” for “and (d)” and inserted at end “Nothing in this section shall prevent the registration on the supplemental register of a mark, capable of distinguishing the applicant's goods or services and not registrable on the principal register under this chapter, that is declared to be unregistrable under section 1052(e)(3) of this title, if such mark has been in lawful use in commerce by the owner thereof, on or in connection with any goods or services, since before December 8, 1993.”
+<b>1993</b>—Subsec. (a). Pub. L. 103–182 substituted “(d), and (e)(3)” for “and (d)” and inserted at end “Nothing in this section shall prevent the registration on the supplemental register of a mark, capable of distinguishing the applicant's goods or services and not registrable on the principal register under this chapter, that is declared to be unregistrable under section 1052(e)(3) of this title, if such mark has been in lawful use in commerce by the owner thereof, on or in connection with any goods or services, since before December 8, 1993.”
 
-1988—Pub. L. 100–667, §121(6), struck out undesignated concluding par. which read as follows: “Upon a proper showing by the applicant that he requires domestic registration as a basis for foreign protection of his mark, the Commissioner may waive the requirement of a full year's use and may grant registration forthwith.”
+<b>1988</b>—Pub. L. 100–667, §121(6), struck out undesignated concluding par. which read as follows: “Upon a proper showing by the applicant that he requires domestic registration as a basis for foreign protection of his mark, the Commissioner may waive the requirement of a full year's use and may grant registration forthwith.”
 
 Subsec. (a). Pub. L. 100–667, §121(1), (4), designated first par. as subsec. (a), made technical amendment to reference in the original act to subsections (a), (b), (c), and (d) of section 1052 of this title resulting in no change in text, substituted “are in lawful use in commerce by the owner thereof, on” for “have been in lawful use in commerce by the proprietor thereof, upon”, struck out “for the year preceding the filing of the application” after “any goods and services”, and inserted “subsections (a) and (e) of” before “section 1051”.
 
@@ -44,7 +44,7 @@ Subsec. (b). Pub. L. 100–667, §121(2), (5), designated second par. as subsec.
 
 Subsec. (c). Pub. L. 100–667, §121(3), designated third par. as subsec. (c).
 
-1962—Pub. L. 87–772 struck out “has begun the lawful use of his mark in foreign commerce and that he” before “requires domestic registration” in last par.
+<b>1962</b>—Pub. L. 87–772 struck out “has begun the lawful use of his mark in foreign commerce and that he” before “requires domestic registration” in last par.
 
 #### Effective Date of 1999 Amendment
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 105–330 effective Oct. 30, 1998, and applicable only to a
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–182 applicable only to trademark applications filed on or after Dec. 8, 1993, seesection 335(c) of Pub. L. 103–182, set out in a note under section 1052 of this title.
+Amendment by Pub. L. 103–182 applicable only to trademark applications filed on or after Dec. 8, 1993, see section 335(c) of Pub. L. 103–182, set out in a note under section 1052 of this title.
 
 #### Effective Date of 1988 Amendment
 

@@ -22,13 +22,13 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 #### Codification
 
-Subsec. (b) of this section, which required the Comptroller General, not later than six months after the end of each fiscal year, to submit to Congress a report of the audit conducted pursuant to subsec. (a) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 4 of House Document No. 103–7.
+Subsec. (b) of this section, which required the Comptroller General, not later than six months after the endof each fiscal year, to submit to Congress a report of the audit conducted pursuant to subsec. (a) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 4 of House Document No. 103–7.
 
 #### Amendments
 
-1998—Subsecs. (a), (b), (d). Pub. L. 105–261 substituted “subsection (c)” for “subsection (d)”.
+<b>1998</b>—Subsecs. (a), (b), (d). Pub. L. 105–261 substituted “subsection (c)” for “subsection (d)”.
 
-1996—Pub. L. 104–106, §3526(a)(1), substituted “Audits” for “Audit by the Comptroller General of the United States” as section catchline.
+<b>1996</b>—Pub. L. 104–106, §3526(a)(1), substituted “Audits” for “Audit by the Comptroller General of the United States” as section catchline.
 
 Subsec. (a). Pub. L. 104–201, §3541(b), which directed substitution of “chapter 91 of title 31” for “the Accounting and Auditing Act of 1950 (31 U.S.C. 65 et seq.)”, could not be executed because that phrase did not appear subsequent to amendment by Pub. L. 104–106, §3526(a)(2)(B). See below.
 

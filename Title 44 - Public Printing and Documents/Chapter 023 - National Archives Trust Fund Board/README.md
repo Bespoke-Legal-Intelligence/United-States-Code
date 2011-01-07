@@ -20,7 +20,7 @@
 
 #### Amendments
 
-1984—Pub. L. 98–497, title II, §202(c), Oct. 19, 1984, 98 Stat. 2294, amended item 2302 generally.
+<b>1984</b>—Pub. L. 98–497, title II, §202(c), Oct. 19, 1984, 98 Stat. 2294, amended item 2302 generally.
 
 <i><sup>1</sup></i><i> Section catchline amended by Pub. L. 98–497 without corresponding amendment of analysis.</i>
 

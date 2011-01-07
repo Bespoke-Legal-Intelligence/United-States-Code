@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The person to whom premiums are payable under COBRA continuation coverage shall be reimbursed as provided in subsection (c) for the amount of premiums not paid by assistance eligible individuals by reason of section 3002(a) of the Health Insurance Assistance for the Unemployed Act of 2009.<sup>1</sup>
+The person to whom premiums are payable under COBRA continuation coverage shall be reimbursed as provided in subsection (c) for the amount of premiums not paid by assistance eligible individuals by reason of section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009.
 
 #### (b) Person entitled to reimbursement
 
@@ -42,7 +42,7 @@ Except as otherwise provided by the Secretary—
 
 #### (3) Reimbursement contingent on payment of remaining premium
 
-&emsp;No reimbursement may be made under this section to a person with respect to any assistance eligible individual until after the reduced premium required under section 3002(a)(1)(A) of such Act <sup>1</sup> with respect to such individual has been received.
+&emsp;No reimbursement may be made under this section to a person with respect to any assistance eligible individual until after the reduced premium required under section 3001(a)(1)(A) of title III of division B of the American Recovery and Reinvestment Act of 2009 with respect to such individual has been received.
 
 #### (d) Definitions
 
@@ -62,9 +62,19 @@ For purposes of this section—
 
 &emsp;The term “person” includes any governmental entity.
 
-#### (e) Reporting
+#### (e) Employer determination of qualifying event as involuntary termination
 
-Each person entitled to reimbursement under subsection (a) for any period shall submit such reports (at such time and in such manner) as the Secretary may require, including—
+For purposes of this section, in any case in which—
+
+&emsp;(1) based on a reasonable interpretation of section 3001(a)(3)(C) of division B of the American Recovery and Reinvestment Act of 2009 and administrative guidance thereunder, an employer determines that the qualifying event with respect to COBRA continuation coverage for an individual was involuntary termination of a covered employee's employment, and
+
+&emsp;(2) the employer maintains supporting documentation of the determination, including an attestation by the employer of involuntary termination with respect to the covered employee,
+
+> the qualifying event for the individual shall be deemed to be involuntary termination of the covered employee's employment.
+
+#### (f) Reporting
+
+Each person entitled to reimbursement under subsection (a) for any period shall submit suchreports (at such time and in such manner) as the Secretary may require, including—
 
 &emsp;(1) an attestation of involuntary termination of employment for each covered employee on the basis of whose termination entitlement to reimbursement is claimed under subsection (a),
 
@@ -72,7 +82,7 @@ Each person entitled to reimbursement under subsection (a) for any period shall 
 
 &emsp;(3) a report containing the TINs of all covered employees, the amount of subsidy reimbursed with respect to each covered employee and qualified beneficiaries, and a designation with respect to each covered employee as to whether the subsidy reimbursement is for coverage of 1 individual or 2 or more individuals.
 
-#### (f) Regulations
+#### (g) Regulations
 
 The Secretary shall issue such regulations or other guidance as may be necessary or appropriate to carry out this section, including—
 
@@ -80,15 +90,33 @@ The Secretary shall issue such regulations or other guidance as may be necessary
 
 &emsp;(2) the application of this section to group health plans that are multiemployer plans (as defined in section 3(37) of the Employee Retirement Income Security Act of 1974).
 
-(Added Pub. L. 111–5, div. B, title III, §3001(a)(12)(A), Feb. 17, 2009, 123 Stat. 461.)
+(Added Pub. L. 111–5, div. B, title III, §3001(a)(12)(A), Feb. 17, 2009, 123 Stat. 461; amended Pub. L. 111–144, §3(b)(5)(C), Mar. 2, 2010, 124 Stat. 45.)
 
 #### References in Text
 
-The Health Insurance Assistance for the Unemployed Act of 2009, referred to in subsecs. (a) and (c)(3), was the name of title III of div. B in both the introduced and House engrossed versions of H.R. 1 in the 111th Congress. H.R. 1 was enacted into law as Pub. L. 111–5, but as enacted, it did not include any provision known as the Health Insurance Assistance for the Unemployed Act of 2009 and did not contain a section 3002.
+The American Recovery and Reinvestment Act of 2009, referred to in subsecs. (a), (c)(3), and (e)(1), is Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 115. Section 3001(a) of title III of division B of the Act enacted this section and sections 139C and 6720C of this title, amended section 35 of this title, and enacted provisions set out a note below. Section 3001(a)(1)(A), (3)(C) of the Act is set out as a note below. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1 of this title and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(1), (2)(A)(ii) and (f)(2), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. Section 3(37) of the Act is classified to section 1002(37) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(1), (2)(A)(ii) and (g)(2), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. Section 3(37) of the Act is classified to section 1002(37) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The Public Health Service Act, referred to in subsec. (b)(2)(A)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–144, §3(b)(5)(C)(i), substituted “section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009” for “section 3002(a) of the Health Insurance Assistance for the Unemployed Act of 2009”.
+
+Subsec. (c)(3). Pub. L. 111–144, §3(b)(5)(C)(ii), substituted “section 3001(a)(1)(A) of title III of division B of the American Recovery and Reinvestment Act of 2009” for “section 3002(a)(1)(A) of such Act”.
+
+Subsecs. (e) to (g). Pub. L. 111–144, §3(b)(5)(C)(iii), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–144, §3(c), Mar. 2, 2010, 124 Stat. 45, provided that: “The amendments made by this section \[amending this section and sections 35, 139C, and 6720C of this title, and amending provisions set out as a note under this section\] shall take effect as if included in the provisions of section 3001 of division B of the American Recovery and Reinvestment Act of 2009 \[Pub. L. 111–5, set out below\] to which they relate, except that—
+
+&emsp;“(1) the amendments made by subsection (b)(1) \[amending provisions set out as a note under this section\] shall apply to periods of coverage beginning after the date of the enactment of this Act \[Mar. 2, 2010\];
+
+&emsp;“(2) the amendments made by subsection (b)(2) \[amending provisions set out as a note under this section\] shall take effect as if included in the amendments made by section 1010 of division B of the Department of Defense Appropriations Act, 2010 \[Pub. L. 111–118, amending provisions set out a note under this section\]; and
+
+&emsp;“(3) the amendments made by subsections (b)(3) and (b)(4) \[amending provisions set out as a note under this section\] shall take effect on the date of the enactment of this Act \[Mar. 2, 2010\].”
 
 #### Effective Date
 
@@ -96,7 +124,7 @@ Section applicable to premiums to which section 3001(a)(1)(A) of Pub. L. 111–5
 
 #### Premium Assistance for COBRA Benefits
 
-Pub. L. 111–5, div. B, title III, §3001, Feb. 17, 2009, 123 Stat. 455, as amended by Pub. L. 111–118, div. B, §1010(a)–(d), Dec. 19, 2009, 123 Stat. 3472, 3473, provided that:
+Pub. L. 111–5, div. B, title III, §3001, Feb. 17, 2009, 123 Stat. 455, as amended by Pub. L. 111–118, div. B, §1010(a)–(d), Dec. 19, 2009, 123 Stat. 3472, 3473; Pub. L. 111–144, §3(a), (b)(1)–(4), Mar. 2, 2010, 124 Stat. 43, 44; Pub. L. 111–157, §3(a), (b), Apr. 15, 2010, 124 Stat. 1117, provided that:
 
 “(a)
 
@@ -152,7 +180,7 @@ In general.—Paragraph (1)(A) shall not apply with respect to any assistance el
 
 &emsp;&emsp;&emsp;“(ii) the earliest of—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the date which is 15 months after the first day of the first month that paragraph (1)(A) applies with respect to such individual,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the date which is 15 months after the first day that paragraph (1)(A) applies with respect to such individual,
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the date following the expiration of the maximum period of continuation coverage required under the applicable COBRA continuation coverage provision, or
 
@@ -170,11 +198,11 @@ Notification requirement.—An assistance eligible individual shall notify in wr
 
 Assistance eligible individual.—For purposes of this section, the term ‘assistance eligible individual’ means any qualified beneficiary if—
 
-&emsp;&emsp;“(A) such qualified beneficiary is eligible for COBRA continuation coverage related to a qualifying event occurring during the period that begins with September 1, 2008, and ends with February 28, 2010,
+&emsp;&emsp;“(A) such qualified beneficiary is eligible for COBRA continuation coverage related to a qualifying event occurring during the period that begins with September 1, 2008, and ends with May 31, 2010,
 
 &emsp;&emsp;“(B) such qualified beneficiary elects such coverage, and
 
-&emsp;&emsp;“(C) the qualifying event with respect to the COBRA continuation coverage consists of the involuntary termination of the covered employee's employment and occurred during such period.
+&emsp;&emsp;“(C) the qualifying event with respect to the COBRA continuation coverage consists of the involuntary termination of the covered employee's employment and occurred during such period or consists of a reduction of hours followed by such an involuntary termination of employment during such period (as described in paragraph (17)(C)).
 
 &emsp;“(4)
 
@@ -200,11 +228,11 @@ Preexisting conditions.—With respect to a qualified beneficiary who elects COB
 
 &emsp;&emsp;&emsp;“(ii) ending with the beginning of the period described in subparagraph (B)(i),
 
-&nbsp;&nbsp;shall be disregarded for purposes of determining the 63-day periods referred to in section 701(c)(2) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181(c)(2)\], section 9801(c)(2) of the Internal Revenue Code of 1986, and section 2701(c)(2) of the Public Health Service Act \[42 U.S.C. 300gg(c)(2)\].
+&nbsp;&nbsp;shall be disregarded for purposes of determining the 63-day periods referred to in section 701(c)(2) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181(c)(2)\], section 9801(c)(2) of the Internal Revenue Code of 1986, and section 2701(c)(2) of the Public Health Service Act \[former 42 U.S.C. 300gg(c)(2); now 42 U.S.C. 300gg–3(c)(2)\].
 
 &emsp;“(5)
 
-Expedited review of denials of premium assistance.—In any case in which an individual requests treatment as an assistance eligible individual and is denied such treatment by the group health plan, the Secretary of Labor (or the Secretary of Health and Human Services in connection with COBRA continuation coverage which is provided other than pursuant to part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1161 et seq.\]), in consultation with the Secretary of the Treasury, shall provide for expedited review of such denial. An individual shall be entitled to such review upon application to such Secretary in such form and manner as shall be provided by such Secretary. Such Secretary shall make a determination regarding such individual's eligibility within 15 business days after receipt of such individual's application for review under this paragraph. Either Secretary's determination upon review of the denial shall be de novo and shall be the final determination of such Secretary. A reviewing court shall grant deference to such Secretary's determination. The provisions of this paragraph, paragraphs (1) through (4), and paragraph (7) shall be treated as provisions of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] for purposes of part 5 of subtitle B of such title \[29 U.S.C. 1131 et seq.\].
+Expedited review of denials of premium assistance.—In any case in which an individual requests treatment as an assistance eligible individual and is denied such treatment by the group health plan, the Secretary of Labor (or the Secretary of Health and Human Services in connection with COBRA continuation coverage which is provided other than pursuant to part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1161 et seq.\]), in consultation with the Secretary of the Treasury, shall provide for expedited review of such denial. An individual shall be entitled to such review upon application to such Secretary in such form and manner as shall be provided by such Secretary. Such Secretary shall make a determination regarding such individual's eligibility within 15 business days after receipt of such individual's application for review under this paragraph. Either Secretary's determination upon review of the denial shall be de novo and shall be the final determination of such Secretary. A reviewing court shall grant deference to such Secretary's determination. The provisions of this paragraph, paragraphs (1) through (4), and paragraph (7) shall be treated as provisions of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] for purposes of part5 of subtitle B of such title \[29 U.S.C. 1131 et seq.\]. In addition to civil actions that may be brought to enforce applicable provisions of such Act \[29 U.S.C. 1001 et seq.\] or other laws, the appropriate Secretary or an affected individual may bring a civil action to enforce such determinations and for appropriate relief. In addition, such Secretary may assess a penalty against a plan sponsor or health insurance issuer of not more than $110 per day for each failure to comply with such determination of such Secretary after 10 days after the date of the plan sponsor's or issuer's receipt of the determination.
 
 &emsp;“(6)
 
@@ -268,7 +296,7 @@ Regulations.—The Secretary of the Treasury may prescribe such regulations or o
 
 &emsp;“(9)
 
-Outreach.—The Secretary of Labor, in consultation with the Secretary of the Treasury and the Secretary of Health and Human Services, shall provide outreach consisting of public education and enrollment assistance relating to premium reduction provided under this subsection. Such outreach shall target employers, group health plan administrators, public assistance programs, States, insurers, and other entities as determined appropriate by such Secretaries. Such outreach shall include an initial focus on those individuals electing continuation coveragewho are referred to in paragraph (7)(C). Information on such premium reduction, including enrollment, shall also be made available on websites of the Departments of Labor, Treasury, and Health and Human Services.
+Outreach.—The Secretary of Labor, in consultation with the Secretary of the Treasury and the Secretary of Health and Human Services, shall provide outreach consisting of public education and enrollment assistance relating to premium reduction provided under this subsection. Such outreach shall target employers, group health plan administrators, public assistance programs, States, insurers, and other entities as determined appropriate by such Secretaries. Such outreach shall include an initial focus on those individuals electing continuation coverage who are referred to in paragraph (7)(C). Information on such premium reduction, including enrollment, shall also be made available on websites of the Departments of Labor, Treasury, and Health and Human Services.
 
 &emsp;“(10)
 
@@ -422,7 +450,13 @@ Election to pay premiums retroactively and maintain cobra coverage.—In the cas
 
 &emsp;&emsp;&emsp;“(i) such individual was covered under the COBRA continuation coverage to which such premium relates for the period of coverage immediately preceding such transition period, and
 
-&emsp;&emsp;&emsp;“(ii) such individual pays, not later than 60 days after the date of the enactment of this paragraph \[Dec. 19, 2009\] (or, if later, 30 days after the date of provision of the notification required under subparagraph (D)(ii)), the amount of such premium, after the application of paragraph (1)(A).
+&emsp;&emsp;&emsp;“(ii) such individual pays, the amount of such premium, after the application of paragraph (1)(A), by the latest of—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) 60 days after the date of the enactment of this paragraph \[Dec. 19, 2009\],
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) 30 days after the date of provision of the notification required under subparagraph (D)(ii), or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) the end of the period described in section 4980B(f)(2)(B)(iii) of the Internal Revenue Code of 1986.
 
 &emsp;&emsp;“(B)
 
@@ -436,7 +470,7 @@ Transition period.—
 
 In general.—For purposes of this paragraph, the term ‘transition period’ means, with respect to any assistance eligible individual, any period of coverage if—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) such period begins before the date of the enactment of this paragraph \[Dec. 19, 2009\], and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) such assistance eligible individual experienced an involuntary termination that was a qualifying event prior to the date of enactment of the Department of Defense Appropriations Act, 2010 \[Dec. 19, 2009\]; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) paragraph (1)(A) applies to such period by reason of the amendment made by section 1010(b) of the Department of Defense Appropriations Act, 2010 \[Pub. L. 111–118\].
 
@@ -459,6 +493,42 @@ To individuals who lost assistance.—In the case of an assistance eligible indi
 &emsp;&emsp;&emsp;“(iii)
 
 Application of rules.—Rules similar to the rules of paragraph (7) shall apply with respect to notifications under this subparagraph.
+
+&emsp;“(17)
+
+Special rules in case of individuals losing coverage because of a reduction of hours.—
+
+&emsp;&emsp;“(A)
+
+New election period.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—For the purposes of the COBRA continuation provisions, in the case of an individual described in subparagraph (C) who did not make (or who made and discontinued) an election of COBRA continuation coverage on the basis of the reduction of hours of employment, the involuntary termination of employment of such individual on or after the date of the enactment of this paragraph \[Mar. 2, 2010\] shall be treated as a qualifying event.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Counting cobra duration period from previous qualifying event.—In any case of an individual referred to in clause (i), the period of such individual's continuation coverage shall be determined as though the qualifying event were the reduction of hours of employment.
+
+&emsp;&emsp;&emsp;“(iii)
+
+Construction.—Nothing in this paragraph shall be construed as requiring an individual referred to in clause (i) to make a payment for COBRA continuation coverage between the reduction of hours and the involuntary termination of employment.
+
+&emsp;&emsp;&emsp;“(iv)
+
+Preexisting conditions.—With respect to an individual referred to in clause (i) who elects COBRA continuation coverage pursuant to such clause, rules similar to the rules in paragraph (4)(C) shall apply.
+
+&emsp;&emsp;“(B)
+
+Notices.—In the case of an individual described in subparagraph (C), the administrator of the group health plan (or other entity) involved shall provide, during the 60-day period beginning on the date of such individual's involuntary termination of employment, an additional notification described in paragraph (7)(A), including information on the provisions of this paragraph. Rules similar to the rules of paragraph (7) shall apply with respect to such notification.
+
+&emsp;&emsp;“(C)
+
+Individuals described.—Individuals described in this subparagraph are individuals who are assistance eligible individuals on the basis of a qualifying event consisting of a reduction of hours occurring during the period described in paragraph (3)(A) followed by an involuntary termination of employment insofar as such involuntary termination of employment occurred on or after the date of the enactment of this paragraph.
+
+&emsp;“(18)
+
+Rules related to april and may 2010 extension.—In the case of an individual who, with regard to coverage described in paragraph (10)(B), experiences a qualifying event related to a termination of employment on or after April 1, 2010 and prior to the date of the enactment of this paragraph \[Apr. 15, 2010\], rules similar to those in paragraphs (4)(A) and (7)(C) shall apply with respect to all continuation coverage, including State continuation coverage programs.
 
 “(b)
 
@@ -492,7 +562,7 @@ Phase-in percentage.—For purposes of this subsection, the term ‘phase-in per
 
 &emsp;“(3)
 
-Option for high-income individuals to waive assistance and avoid recapture.—Notwithstanding subsection (a)(3), an individual shall not be treated as an assistance eligible individual for purposes of this section and section 6432 of the Internal Revenue Code of 1986 if such individual—
+Option for high-income individuals to waive assistance and avoid recapture.—Notwithstandingsubsection (a)(3), an individual shall not be treated as an assistance eligible individual for purposes of this section and section 6432 of the Internal Revenue Code of 1986 if such individual—
 
 &emsp;&emsp;“(A) makes a permanent election (at such time and in such form and manner as the Secretary of the Treasury may prescribe) to waive the right to the premium assistance provided under this section, and
 
@@ -514,5 +584,7 @@ Regulations.—The Secretary of the Treasury shall issue such regulations or oth
 
 Effective date.—The provisions of this subsection shall apply to taxable years ending after the date of the enactment of this Act \[Feb. 17, 2009\].”
 
-\[Pub. L. 111–118, div. B, §1010(e), Dec. 19, 2009, 123 Stat. 3473, provided that: “The amendments made by this section \[amending section 3001 of div. B of Pub. L. 111–5, set out above\] shall take effect as if included in the provisions of section 3001 of division B of the AmericanRecovery and Reinvestment Act of 2009 \[Pub. L. 111–5\] to which they relate.”\]
+\[Pub. L. 111–157, §3(c), Apr. 15, 2010, 124 Stat. 1117, provided that: “The amendments made by this section \[amending section 3001 of Pub. L. 111–5, set out above\] shall take effect as if included in the provisions of section 3001 of division B of the American Recovery and Reinvestment Act of 2009 \[Pub. L. 111–5\].”\]
+
+\[Pub. L. 111–118, div. B, §1010(e), Dec. 19, 2009, 123 Stat. 3473, provided that: “The amendments made by this section \[amending section 3001 of Pub. L. 111–5, set out above\] shall take effect as if included in the provisions of section 3001 of division B of the American Recovery and Reinvestment Act of 2009 \[Pub. L. 111–5\] to which they relate.”\]
 

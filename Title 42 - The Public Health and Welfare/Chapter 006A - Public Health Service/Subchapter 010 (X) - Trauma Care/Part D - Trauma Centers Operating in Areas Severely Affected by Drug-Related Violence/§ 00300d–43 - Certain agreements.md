@@ -1,28 +1,16 @@
 ### §300d–43. Certain agreements
 
-#### (a) Commitment regarding continued participation in trauma care system
+#### (a) Maintenance of financial support
 
-The Secretary may not make a grant under subsection (a) of section 300d–41 of this title unless the trauma center involved agrees that—
+The Secretary may require a trauma center receiving a grant under section 300d–41(a) of this title to maintain access to trauma services at comparable levels to the prior year during the grant period.
 
-&emsp;(1) the center will continue participation in the system described in subsection (b) of such section throughout the 3-year period beginning on the date that the center first receives payments under the grant; and
+#### (b) Trauma care registry
 
-&emsp;(2) if the agreement made pursuant to paragraph (1) is violated by the center, the center will be liable to the United States for an amount equal to the sum of—
+The Secretary may require the trauma center receiving a grant under section 300d–41(a) of this title to provide data to a national and centralized registry of trauma cases, in accordance with guidelines developed by the American College of Surgeons, and as the Secretary may otherwise require.
 
-&emsp;&emsp;(A) the amount of assistance provided to the center under subsection (a) of such section; and
+(July 1, 1944, ch. 373, title XII, §1243, as added Pub. L. 102–321, title VI, §601, July 10, 1992, 106 Stat. 434; amended Pub. L. 111–148, title III, §3505(a)(3), Mar. 23, 2010, 124 Stat. 524.)
 
-&emsp;&emsp;(B) an amount representing interest on the amount specified in subparagraph (A).
+#### Amendments
 
-#### (b) Maintenance of financial support
-
-With respect to activities for which a grant under section 300d–41 of this title is authorized to be expended, the Secretary may not make such a grant unless the trauma center involved agrees that, during the period in which the center is receiving payments under the grant, the center will maintain expenditures for such activities at a level that is not less than the level maintained by the center during the fiscal year preceding the first fiscal year for which the center receives such payments.
-
-#### (c) Trauma care registry
-
-The Secretary may not make a grant under section 300d–41(a) of this title unless the trauma center involved agrees that—
-
-&emsp;(1) the center will operate a registry of trauma cases in accordance with the applicable guidelines described in section 300d–41(b)(2)(C) of this title, and will begin operation of the registry not later than 6 months after the date on which the center submits to the Secretary the application for the grant; and
-
-&emsp;(2) in carrying out paragraph (1), the center will maintain information on the number of trauma cases treated by the center and, for each such case, the extent to which the center incurs uncompensated costs in providing trauma care.
-
-(July 1, 1944, ch. 373, title XII, §1243, as added Pub. L. 102–321, title VI, §601, July 10, 1992, 106 Stat. 434.)
+<b>2010</b>—Pub. L. 111–148 added subsecs. (a) and (b) and struck out former subsecs. (a) to (c) which related to commitment regarding continued participation in trauma care system, maintenance of financial support, and trauma care registry.
 

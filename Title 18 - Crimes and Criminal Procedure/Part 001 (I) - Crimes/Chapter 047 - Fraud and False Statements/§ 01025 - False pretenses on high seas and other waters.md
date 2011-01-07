@@ -22,9 +22,9 @@ This section \[section 22\] corrects a typographical error in section 1025 of ti
 
 #### Amendments
 
-1996—Pub. L. 104–294 substituted “$1,000” for “$100”.
+<b>1996</b>—Pub. L. 104–294 substituted “$1,000” for “$100”.
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” after “pretenses, shall be” and for “fined not more than $1,000” after “he shall be”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” after “pretenses, shall be” and for “fined not more than $1,000” after “he shall be”.
 
-1949—Act May 24, 1949, corrected spelling of “pretense”.
+<b>1949</b>—Act May 24, 1949, corrected spelling of “pretense”.
 

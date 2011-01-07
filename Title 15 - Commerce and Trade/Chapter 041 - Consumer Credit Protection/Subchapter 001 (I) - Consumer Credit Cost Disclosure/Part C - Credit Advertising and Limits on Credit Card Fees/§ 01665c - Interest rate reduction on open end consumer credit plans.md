@@ -24,7 +24,15 @@ This section shall not be construed to require a reduction in any specific amoun
 
 The Board shall issue final rules not later than 9 months after May 22, 2009, to implement the requirements of and evaluate compliance with this section, and subsections (a), (b), and (c) shall become effective 15 months after May 22, 2009.
 
-(Pub. L. 90–321, title I, §148, as added Pub. L. 111–24, title I, §101(c), May 22, 2009, 123 Stat. 1737.)
+(Pub. L. 90–321, title I, §148, as added Pub. L. 111–24, title I, §101(c), May 22, 2009, 123 Stat. 1737; amended Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

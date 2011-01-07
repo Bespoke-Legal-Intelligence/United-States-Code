@@ -86,7 +86,7 @@ Amounts distributed by an electing Settlement Trust during any taxable year shal
 
 &emsp;If—
 
-&emsp;&emsp;(A) stock in the sponsoring Native Corporation may be disposed of to a person in a manner which would not be permitted bysection 7(h) of the Alaska Native Claims Settlement Act (43 U.S.C. 1606(h)) if such stock were Settlement Common Stock, and
+&emsp;&emsp;(A) stock in the sponsoring Native Corporation may be disposed of to a person in a manner which would not be permitted by section 7(h) of the Alaska Native Claims Settlement Act (43 U.S.C. 1606(h)) if such stock were Settlement Common Stock, and
 
 &emsp;&emsp;(B) at any time after such disposition of stock is first permitted, such corporation transfers assets to a Settlement Trust,
 
@@ -150,5 +150,5 @@ A prior section 646 was renumbered section 645 of this title.
 
 Pub. L. 107–16, title VI, §671(d), June 7, 2001, 115 Stat. 148, provided that: “The amendments made by this section \[enacting this section and section 6039H of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[June 7, 2001\] and to contributions made to electing Settlement Trusts for such year or any subsequent year.”
 
-Section inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if it had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
+Section inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if it had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
 

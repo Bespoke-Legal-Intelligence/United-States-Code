@@ -22,7 +22,7 @@ The Commission—
 
 &emsp;(2) shall require IP-enabled voice service providers to which the regulations apply to register with the Commission and to establish a point of contact for public safety and government officials relative to 9–1–1 and enhanced 9–1–1 service and access; and
 
-&emsp;(3) may modify such regulations from time to time, as necessitated by changes in the market or technology, to ensure the ability ofan IP-enabled voice service provider to comply with its obligations under subsection (a) and to exercise its rights under subsection (b).
+&emsp;(3) may modify such regulations from time to time, as necessitated by changes in the market or technology, to ensure the ability of an IP-enabled voice service provider to comply with its obligations under subsection (a) and to exercise its rights under subsection (b).
 
 #### (d) Delegation of enforcement to State commissions
 
@@ -36,7 +36,7 @@ The Commission may delegate authority to enforce the regulations issued under su
 
 #### (2) Enforcement
 
-&emsp;The Commission shall enforce this section as if this section was a part of the Communications Act of 1934 \[47 U.S.C. 151 et seq.\]. For purposes of this section, any violations of this section, or any regulations promulgated under this section, shall be considered to be a violation of the Communications Act of 1934 or a regulation promulgated under that Act, respectively.
+&emsp;The Commission shall enforce this section as if this section was a part of the Communications Act of 1934 \[47 U.S.C. 151 et seq.\]. For purposes of this section, any violations of this section, or any regulations promulgated under this section, shall be considered to be a violation of the Communications Act of 1934 or aregulation promulgated under that Act, respectively.
 
 #### (f) State authority over fees
 
@@ -96,7 +96,7 @@ A prior section 6 of Pub. L. 106–81 was renumbered section 7 and is classified
 
 #### Amendments
 
-2008—Subsec. (c)(1)(C). Pub. L. 110–368 substituted “paragraph (3)” for “paragraph (2)”.
+<b>2008</b>—Subsec. (c)(1)(C). Pub. L. 110–368 substituted “paragraph (3)” for “paragraph (2)”.
 
 #### Effective Date of 2008 Amendment
 

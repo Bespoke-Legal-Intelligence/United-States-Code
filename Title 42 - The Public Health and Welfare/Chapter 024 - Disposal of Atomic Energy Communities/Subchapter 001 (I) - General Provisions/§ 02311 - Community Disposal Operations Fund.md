@@ -16,7 +16,7 @@ Any amount in said fund which is determined to be in excess of requirements for 
 
 #### Amendments
 
-1956—Act July 25, 1956, amended section generally to establish the Community Disposal Operations Fund, to provide for its availability, and to require excess amounts to be paid as liquidating dividends to the Treasury. Former provisions of this section required that the net proceeds derived by the Commission from the disposal of property pursuant to this chapter were to be covered into the Treasury.
+<b>1956</b>—Act July 25, 1956, amended section generally to establish the Community Disposal Operations Fund, to provide for its availability, and to require excess amounts to be paid as liquidating dividends to the Treasury. Former provisions of this section required that the net proceeds derived by the Commission from the disposal of property pursuant to this chapter were to be covered into the Treasury.
 
 #### Transfer of Functions
 

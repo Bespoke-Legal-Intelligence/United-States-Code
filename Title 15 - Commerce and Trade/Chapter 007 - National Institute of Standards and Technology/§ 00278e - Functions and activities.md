@@ -4,21 +4,15 @@ In the performance of the functions of the Institute the Secretary of Commerce i
 
 (Mar. 3, 1901, ch. 872, §15, as added Pub. L. 85–890, §1, Sept. 2, 1958, 72 Stat. 1711; amended Pub. L. 92–317, §3(e), June 22, 1972, 86 Stat. 235; Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–113, §8(2), Mar. 7, 1996, 110 Stat. 779.)
 
-#### References in Text
-
-The civil service laws, referred to in cl. (f), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
-The classification laws, referred to in cl. (f), are set forth in chapter 51 (§5101 et seq.) and subchapter III (§5331 et seq.) of chapter 53 of Title 5.
-
 #### Codification
 
 “Sections 5542 to 5546 of title 5” substituted in text for “titles II and III of the Federal Employees Pay Act of 1945” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 
-1996—Pub. L. 104–113 struck out “and” before “(g)” and inserted before period at end “; and (h) the provision of transportation services for employees of the Institute between the facilities of the Institute and nearby public transportation, notwithstanding section 1344 of title 31”.
+<b>1996</b>—Pub. L. 104–113 struck out “and” before “(g)” and inserted before period at end “; and (h) the provision of transportation services for employees of the Institute between the facilities of the Institute and nearby public transportation, notwithstanding section 1344 of title 31”.
 
-1988—Pub. L. 100–418 substituted “functions of the Institute” for “functions of the National Bureau of Standards” and “Institute buildings” for “Bureau buildings”.
+<b>1988</b>—Pub. L. 100–418 substituted “functions of the Institute” for “functions of the National Bureau of Standards” and “Institute buildings” for “Bureau buildings”.
 
-1972—Pub. L. 92–317 substituted, in cl. (b), “the care, maintenance, protection, repair, and alteration of Bureau buildings and other plant facilities, equipment, and property” for “the repair and alteration of buildings and other plant facilities”.
+<b>1972</b>—Pub. L. 92–317 substituted, in cl. (b), “the care, maintenance, protection, repair, and alteration of Bureau buildings and other plant facilities, equipment, and property” for “the repair and alteration of buildings and other plant facilities”.
 

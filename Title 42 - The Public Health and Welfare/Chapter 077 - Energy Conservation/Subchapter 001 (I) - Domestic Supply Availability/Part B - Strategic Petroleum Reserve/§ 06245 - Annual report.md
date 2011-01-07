@@ -18,7 +18,7 @@ The Secretary shall report annually to the President and the Congress on actions
 
 &emsp;(8) a summary of expenses for the year, and the number of Federal and contractor employees;
 
-&emsp;(9) the status of contracts for development, operation, maintenance, distribution, and other activities related to the implementation of this part;
+&emsp;(9) the status of contracts for development, operation, maintenance, distribution, andother activities related to the implementation of this part;
 
 &emsp;(10) a summary of foreign oil storage agreements and their implementation status;
 
@@ -28,15 +28,15 @@ The Secretary shall report annually to the President and the Congress on actions
 
 #### Amendments
 
-2000—Pub. L. 106–469 amended section generally. Prior to amendment, section required the Secretary to report to the President and to Congress, not later than one year after the transmittal of the Strategic Petroleum Reserve Plan to the Congress and each year thereafter, on all actions taken to implement this part.
+<b>2000</b>—Pub. L. 106–469 amended section generally. Prior to amendment, section required the Secretary to report to the President and to Congress, not later than one year after the transmittal of the Strategic Petroleum Reserve Plan to the Congress and each year thereafter, on all actions taken to implement this part.
 
-1995—Pub. L. 104–66 struck out subsec. (a) designation before “The Secretary shall”, and struck out subsec. (b) which directed Secretary to report to Congress on activities undertaken with respect to Strategic Petroleum Reserve under the amendments made by Strategic Petroleum Reserve Amendments Act of 1981.
+<b>1995</b>—Pub. L. 104–66 struck out subsec. (a) designation before “The Secretary shall”, and struck out subsec. (b) which directed Secretary to report to Congress on activities undertaken with respect to Strategic Petroleum Reserve under the amendments made by Strategic Petroleum Reserve Amendments Act of 1981.
 
-1986—Subsec. (a)(1). Pub. L. 99–509 amended par. (1) generally, inserting “, including” in introductory text and adding subpars. (A) to (G).
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–509 amended par. (1) generally, inserting “, including” in introductory text and adding subpars. (A) to (G).
 
-1981—Pub. L. 97–35 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1981</b>—Pub. L. 97–35 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1978—Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+<b>1978</b>—Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
 #### Effective Date of 1981 Amendment
 
@@ -48,7 +48,7 @@ Pub. L. 97–229, §6, Aug. 3, 1982, 96 Stat. 253, provided that:
 
 “(a)
 
-Impact Analysis.—(1) The Secretary of Energy shall analyze the impact on the domestic economy and on consumers in the United States of reliance on market allocation and pricing during any substantial reduction in the amount of petroleum products available to the United States. In making such analysis, the Secretary of Energy may consult with the Secretary of theTreasury, the Secretary of Agriculture, the Director of the Office of Management and Budget, and the heads of other appropriate Federal agencies. Such analysis shall—
+Impact Analysis.—(1) The Secretary of Energy shall analyze the impact on the domestic economy and on consumers in the United States of reliance on market allocation and pricing during any substantial reduction in the amount of petroleum products available to the United States. In making such analysis, the Secretary of Energy may consult with the Secretary of the Treasury, the Secretary of Agriculture, the Director of the Office of Management and Budget, and the heads of other appropriate Federal agencies. Such analysis shall—
 
 &emsp;“(A) examine the equity and efficiency of such reliance,
 

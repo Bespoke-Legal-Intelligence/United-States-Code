@@ -26,5 +26,5 @@ A prior section 526 of act July 1, 1944, was renumbered section 547 by section 6
 
 #### Amendments
 
-1990—Pub. L. 101–645 amended section generally, substituting provisions relating to providing certain information from State for provisions relating to requirement of submission of description of intended use of block grant.
+<b>1990</b>—Pub. L. 101–645 amended section generally, substituting provisions relating to providing certain information from State for provisions relating to requirement of submission of description of intended use of block grant.
 

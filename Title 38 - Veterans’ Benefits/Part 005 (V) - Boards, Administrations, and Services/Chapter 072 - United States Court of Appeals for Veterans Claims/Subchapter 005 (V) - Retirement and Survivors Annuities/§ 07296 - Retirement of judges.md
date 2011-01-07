@@ -54,7 +54,7 @@
 
 (3) A judge who becomes permanently disabled and as a result of that disability is unable to perform the duties of the office shall retire.
 
-(c)(1)(A) A judge who is appointed on or after the date of the enactment of the Veterans’ Benefits Improvement Act of 2008 and who retires under subsection (b) and elects under subsection (d) to receive retired pay under this subsection shall (except as provided in paragraph (2)) receive retired pay as follows:
+(c)(1)(A) A judge who is appointed on or after the date of the enactment of the Veterans’ Benefits Improvement Act of 2008 and who retires under subsection (b) and elects under subsection\(d) to receive retired pay under this subsection shall (except as provided in paragraph (2)) receive retired pay as follows:
 
 &emsp;(i) In the case of a judge who is a recall-eligible retired judge under section 7257 of this title, the retired pay of the judge shall (subject to section 7257(d)(2) of this title) be the rate of pay applicable to that judge at the time of retirement, as adjusted from time to time under subsection (f)(3).
 
@@ -98,7 +98,7 @@
 
 (B) If such a cost-of-living adjustment would (but for this subparagraph) result in the retired pay of a retired judge being in excess of the annual rate of pay in effect for judges of the Court as provided in section 7253(e) of this title, such adjustment may be made only in such amount as results in the retired pay of the retired judge being equal to that annual rate of pay (as in effect on the effective date of such adjustment).
 
-(g)(1) A judge who becomes permanently disabled and as a result of that disability is unable to perform the duties of the office shall certify to the President in writing that such permanent disability exists. If the chief judge retires for such a disability, the retirement of the chief judge shall not take effect until concurred in by the President. If any other judge retires for such a disability, the chief judge shall furnish to the President a certificate of disability signed by the chief judge.
+(g)(1) A judge who becomes permanently disabled and as a result of that disability is unable to perform the duties of the office shall certify to the President in writing that such permanent disability exists. If the chief judge retires for such a disability, the retirement of the chief judge shall not take effect until concurred in by the President. If any other judge retires for such a disability, the chief judge shall furnish to thePresident a certificate of disability signed by the chief judge.
 
 (2) Whenever the President finds that a judge has become permanently disabled and as a result of that disability is unable to perform the duties of the office, the President shall declare that judge to be retired. Before a judge may be retired under this paragraph, the judge shall be provided with a full specification of the reasons for the retirement and an opportunity to be heard.
 
@@ -140,21 +140,21 @@ The Civil Service Retirement and Disability Fund, referred to in subsecs. (f)(2)
 
 #### Amendments
 
-2008—Subsec. (c)(1). Pub. L. 110–389, §603(b)(1), added par. (1) and struck out former par. (1), which related to retirement pay structure for retired judges based on recall status.
+<b>2008</b>—Subsec. (c)(1). Pub. L. 110–389, §603(b)(1), added par. (1) and struck out former par. (1), which related to retirement pay structure for retired judges based on recall status.
 
 Subsec. (f)(3)(A). Pub. L. 110–389, §603(b)(2), substituted “paragraph (1)(A)(i) or (2)” for “paragraph (2)”.
 
-2001—Subsec. (b)(2). Pub. L. 107–103 struck out at end: “In order to retire under this paragraph, a judge must, not earlier than 9 months preceding the date of the expiration of the judge's term of office and not later than 6 months preceding such date, advise the President in writing that the judge is willing to accept reappointment to the Court.”
+<b>2001</b>—Subsec. (b)(2). Pub. L. 107–103 struck out at end: “In order to retire under this paragraph, a judge must, not earlier than 9 months preceding the date of the expiration of the judge's term of office and not later than 6 months preceding such date, advise the President in writing that the judge is willing to accept reappointment to the Court.”
 
-1999—Subsec. (a)(2). Pub. L. 106–117, §1035(2), substituted “a judge” for “the chief judge or an associate judge”.
+<b>1999</b>—Subsec. (a)(2). Pub. L. 106–117, §1035(2), substituted “a judge” for “the chief judge or an associate judge”.
 
 Subsec. (c)(1). Pub. L. 106–117, §1022(a), substituted “as follows:” for “at the rate of pay in effect at the time of retirement.” and added subpars. (A) to (C).
 
 Subsec. (f)(3). Pub. L. 106–117, §1022(b), added par. (3).
 
-1998—Subsecs. (a)(1), (i)(1), (k). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+<b>1998</b>—Subsecs. (a)(1), (i)(1), (k). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 4096 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 4096 of this title as this section.
 
 Subsec. (f)(2)(A). Pub. L. 102–198 substituted “8440d” for “8440c”.
 
@@ -180,7 +180,7 @@ Pub. L. 106–117, title X, §§1011, 1012, Nov. 30, 1999, 113 Stat. 1588, 1590,
 
 “(a)
 
-Retirement Authorized.—One eligible judge may retire in accordance with this section in 2000 or2001, and one additional eligible judge may retire in accordance with this section in 2001.
+Retirement Authorized.—One eligible judge may retire in accordance with this section in 2000 or 2001, and one additional eligible judge may retire in accordance with this section in 2001.
 
 “(b)
 

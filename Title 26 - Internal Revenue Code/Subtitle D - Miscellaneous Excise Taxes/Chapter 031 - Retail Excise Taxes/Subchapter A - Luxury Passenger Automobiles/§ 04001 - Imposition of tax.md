@@ -44,7 +44,7 @@
 
 #### (A) Trucks and vans
 
-&emsp;&emsp;In the case of a truck or van, paragraph (1)(B) shall be applied by substituting “grossvehicle weight” for “unloaded gross vehicle weight”.
+&emsp;&emsp;In the case of a truck or van, paragraph (1)(B) shall be applied by substituting “gross vehicle weight” for “unloaded gross vehicle weight”.
 
 #### (B) Limousines
 
@@ -122,7 +122,7 @@ The taxes imposed by this section and section 4003 shall not apply to any sale, 
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–34, §906(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There is hereby imposed on the 1st retail sale of any passenger vehicle a tax equal to 10 percent of the price for which so sold to the extent such price exceeds $30,000.”
+<b>1997</b>—Subsec. (a). Pub. L. 105–34, §906(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There is hereby imposed on the 1st retail sale of any passenger vehicle a tax equal to 10 percent of the price for which so sold to the extent such price exceeds $30,000.”
 
 Subsec. (e)(1). Pub. L. 105–34, §906(b)(1), struck out “and section 4003(a)” after “in subsection (a)” in introductory provisions.
 
@@ -134,7 +134,7 @@ Pub. L. 105–34, §906(b)(2), substituted “subsection (a)(1)” for “subsec
 
 Subsec. (g). Pub. L. 105–34, §1601(f)(3)(B), substituted “taxes imposed by this section and section 4003” for “tax imposed by this section” and “, use, or installation” for “or use”.
 
-1996—Subsec. (e). Pub. L. 104–188, §1703(c)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+<b>1996</b>—Subsec. (e). Pub. L. 104–188, §1703(c)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
 “(1)
 
@@ -156,7 +156,7 @@ Pub. L. 104–188, §1607(a), substituted “December 31, 2002” for “Decembe
 
 Subsec. (g). Pub. L. 104–188, §1607(b), redesignated subsec. (f) as (g).
 
-1993—Pub. L. 103–66 amended section generally, substituting “Imposition of tax” for “Passenger vehicles” in section catchline and “this subchapter” for “subsection (a)” in subsec. (b)(1) and adding subsecs. (d) to (f).
+<b>1993</b>—Pub. L. 103–66 amended section generally, substituting “Imposition of tax” for “Passenger vehicles” in section catchline and “this subchapter” for “subsection (a)” in subsec. (b)(1) and adding subsecs. (d) to (f).
 
 #### Effective Date of 1997 Amendment
 
@@ -164,7 +164,7 @@ Section 906(c) of Pub. L. 105–34 provided that: “The amendments made by this
 
 Section 1601(f)(3)(C) of Pub. L. 105–34 provided that: “The amendments made by this paragraph \[amending this section\] shall apply to sales after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-Amendment by section 1601(f)(3)(A), (B) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by section 1601(f)(3)(A), (B) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
 
 #### Effective Date of 1996 Amendment
 

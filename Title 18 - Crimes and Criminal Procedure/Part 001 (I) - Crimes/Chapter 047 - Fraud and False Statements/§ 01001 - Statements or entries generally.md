@@ -36,13 +36,13 @@ In addition to minor changes of phraseology, the maximum term of imprisonment wa
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–248 inserted last sentence in concluding provisions.
+<b>2006</b>—Subsec. (a). Pub. L. 109–248 inserted last sentence in concluding provisions.
 
-2004—Subsec. (a). Pub. L. 108–458 substituted “be fined under this title, imprisoned not more than 5 years or, if the offense involves international or domestic terrorism (as defined in section 2331), imprisoned not more than 8 years, or both” for “be fined under this title or imprisoned not more than 5 years, or both” in concluding provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–458 substituted “be fined under this title, imprisoned not more than 5 years or, if the offense involves international or domestic terrorism (as defined in section 2331), imprisoned not more than 8 years, or both” for “be fined under this title or imprisoned not more than 5 years, or both” in concluding provisions.
 
-1996—Pub. L. 104–292 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “Whoever, in any matter within the jurisdiction of any department or agency of the United States knowingly and willfully falsifies, conceals or covers up by any trick, scheme, or device a material fact, or makes any false, fictitious or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious or fraudulent statement or entry, shall be fined under this title or imprisoned not more than five years, or both.”
+<b>1996</b>—Pub. L. 104–292 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “Whoever, in any matter within the jurisdiction of any department or agency of the United States knowingly and willfully falsifies, conceals or covers up by any trick, scheme, or device a material fact, or makes any false, fictitious or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious or fraudulent statement or entry, shall be fined under this title or imprisoned not more than five years, or both.”
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
 #### Change of Name
 
@@ -64,7 +64,7 @@ Pub. L. 106–578, §1, Dec. 28, 2000, 114 Stat. 3075, provided that: “This Ac
 
 Pub. L. 105–318, §1, Oct. 30, 1998, 112 Stat. 3007, provided that: “This Act \[amending sections 982, 1028, and 2516 of this title and section 105 of the Ethics in Government Act of 1978, Pub. L. 95–521, set out in the Appendix to Title 5, Government Organization and Employees, and enacting provisions set out as notes under section 1028 of this title and section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Identity Theft and Assumption Deterrence Act of 1998’.”
 
-Pub. L. 105–172, §1, Apr. 24, 1998, 112 Stat. 53, provided that: “This Act \[amending section 1029 of this title and enacting provisions set out as a note under section 994of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Wireless Telephone Protection Act’.”
+Pub. L. 105–172, §1, Apr. 24, 1998, 112 Stat. 53, provided that: “This Act \[amending section 1029 of this title and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Wireless Telephone Protection Act’.”
 
 #### Short Title of 1996 Amendment
 

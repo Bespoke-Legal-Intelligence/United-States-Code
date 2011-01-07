@@ -10,7 +10,7 @@ Section was not enacted as part of the Federal Power Act which generally compris
 
 #### Amendments
 
-1959—Pub. L. 86–124 struck out “except that the provisions of sections 797(b) and 807 of this title shall continue to be applicable to any license issued for a hydroelectric development in the International Rapids section of the Saint Lawrence River” in first sentence.
+<b>1959</b>—Pub. L. 86–124 struck out “except that the provisions of sections 797(b) and 807 of this title shall continue to be applicable to any license issued for a hydroelectric development in the International Rapids section of the Saint Lawrence River” in first sentence.
 
 #### Transfer of Functions
 

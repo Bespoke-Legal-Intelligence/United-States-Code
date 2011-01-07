@@ -12,7 +12,7 @@ Authority and Eligibility Requirements.—(1) A person who is a former enlisted 
 
 &emsp;(C) The person is projected to occupy, or is occupying, a position as a member of the Selected Reserve in a specialty in which the person—
 
-&emsp;&emsp;(i) successfully served while a member on active duty and attained a level of qualification while on active duty commensuratewith the grade and years of service of the member; or
+&emsp;&emsp;(i) successfully served while a member on active duty and attained a level of qualification while on active duty commensurate with the grade and years of service of the member; or
 
 &emsp;&emsp;(ii) has completed training or retraining in the specialty skill that is designated as critically short and attained a level of qualification in the specialty skill that is commensurate with the grade and years of service of the member.
 
@@ -50,19 +50,21 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 (f)
 
-Termination of Authority.—No bonus may be paid under this section to any person for an enlistment after December 31, 2010.
+Termination of Authority.—No bonus may be paid under this section to any person for an enlistment after December 31, 2011.
 
-(Added Pub. L. 99–145, title VI, §644(a)(1), Nov. 8, 1985, 99 Stat. 652; amended Pub. L. 100–26, §8(d)(4), Apr. 21, 1987, 101 Stat. 285; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), title XI, §1136, Oct. 23, 1992, 106 Stat. 2421, 2541; Pub. L. 103–160, div. A, title VI, §612(e), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(e), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §611(e), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(g), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(g), 622, Nov. 18, 1997, 111 Stat. 1785, 1791; Pub. L. 105–261, div. A, title VI, §611(g), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §§611(g), 623(a), Oct. 5, 1999, 113 Stat. 650, 653; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(g), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §§611(f), 617, Dec. 2, 2002, 116 Stat. 2567, 2570; Pub. L. 108–136, div. A, title VI, §611(f), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §§611(f), 618(f), Oct. 28, 2004, 118 Stat. 1947, 1950; Pub. L. 109–163, div. A, title VI, §§621(e), 633, 687(b)(19), Jan. 6, 2006, 119 Stat. 3294, 3299, 3330; Pub. L. 109–364, div. A, title VI, §611(f), Oct. 17, 2006, 120 Stat. 2247; Pub. L. 110–181, div. A, title VI, §611(f), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §611(f), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §611(6), Oct. 28, 2009, 123 Stat. 2352.)
+(Added Pub. L. 99–145, title VI, §644(a)(1), Nov. 8, 1985, 99 Stat. 652; amended Pub. L. 100–26, §8(d)(4), Apr. 21, 1987, 101 Stat. 285; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), title XI, §1136, Oct. 23, 1992, 106 Stat. 2421, 2541; Pub. L. 103–160, div. A, title VI, §612(e), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(e), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §611(e), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(g), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(g), 622, Nov. 18, 1997, 111 Stat. 1785, 1791; Pub. L. 105–261, div. A, title VI, §611(g), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §§611(g), 623(a), Oct. 5, 1999, 113 Stat. 650, 653; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(g), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §§611(f), 617, Dec. 2, 2002, 116 Stat. 2567, 2570; Pub. L. 108–136, div. A, title VI, §611(f), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §§611(f), 618(f), Oct. 28, 2004, 118 Stat. 1947, 1950; Pub. L. 109–163, div. A, title VI, §§621(e), 633, 687(b)(19), Jan. 6, 2006, 119 Stat. 3294, 3299, 3330; Pub. L. 109–364, div. A, title VI, §611(f), Oct. 17, 2006, 120 Stat. 2247; Pub. L. 110–181, div. A, title VI, §611(f), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §611(f), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §611(6), Oct. 28, 2009, 123 Stat. 2352; Pub. L.111–383, div. A, title VI, §611(6), Jan. 7, 2011, 124 Stat. 4236.)
 
 #### Amendments
 
-2009—Subsec. (f). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+<b>2011</b>—Subsec. (f). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
-2008—Subsec. (f). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+<b>2009</b>—Subsec. (f). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+
+<b>2008</b>—Subsec. (f). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
 
 Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
 
-2006—Subsec. (a)(2)(A). Pub. L. 109–163, §633(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “The person has completed a military service obligation, but has not more than 16 years of total military service, and received an honorable discharge at the conclusion of that military service obligation.”
+<b>2006</b>—Subsec. (a)(2)(A). Pub. L. 109–163, §633(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “The person has completed a military service obligation, but has not more than 16 years of total military service, and received an honorable discharge at the conclusion of that military service obligation.”
 
 Subsec. (a)(2)(D). Pub. L. 109–163, §633(2), struck out subpar. (D) which read as follows: “The person has not previously been paid a bonus (except under this section) for enlistment, reenlistment, or extension of enlistment in a reserve component.”
 
@@ -72,7 +74,7 @@ Subsec. (f). Pub. L. 109–364 substituted “December 31, 2007” for “Decemb
 
 Pub. L. 109–163, §621(e), substituted “December 31, 2006” for “December 31, 2005”.
 
-2004—Subsec. (a)(2)(A). Pub. L. 108–375, §618(f)(1), substituted “not more than 16 years” for “less than 14 years”.
+<b>2004</b>—Subsec. (a)(2)(A). Pub. L. 108–375, §618(f)(1), substituted “not more than 16 years” for “less than 14 years”.
 
 Subsec. (b)(1)(A). Pub. L. 108–375, §618(f)(2)(A), substituted “$15,000” for “$8,000”.
 
@@ -84,25 +86,25 @@ Subsec. (b)(3). Pub. L. 108–375, §618(f)(3), added par. (3).
 
 Subsec. (f). Pub. L. 108–375, §611(f), substituted “December 31, 2005” for “December 31, 2004”.
 
-2003—Subsec. (f). Pub. L. 108–136 substituted “December 31, 2004” for “December 31, 2003”.
+<b>2003</b>—Subsec. (f). Pub. L. 108–136 substituted “December 31, 2004” for “December 31, 2003”.
 
-2002—Subsec. (b)(1). Pub. L. 107–314, §617, substituted “$8,000” for “$5,000” in subpar. (A), “$4,000” for “$2,500” in subpar. (B), and “$3,500” for “$2,000” in subpar. (C).
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–314, §617, substituted “$8,000” for “$5,000” in subpar. (A), “$4,000” for “$2,500” in subpar. (B), and “$3,500” for “$2,000” in subpar. (C).
 
 Subsec. (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 Subsec. (f). Pub. L. 107–314, §611(f), substituted “December 31, 2003” for “December 31, 2002”.
 
-2001—Subsec. (f). Pub. L. 107–107 substituted “December 31, 2002” for “December 31, 2001”.
+<b>2001</b>—Subsec. (f). Pub. L. 107–107 substituted “December 31, 2002” for “December 31, 2001”.
 
-2000—Subsec. (f). Pub. L. 106–398 substituted “December 31, 2001” for “December 31, 2000”.
+<b>2000</b>—Subsec. (f). Pub. L. 106–398 substituted “December 31, 2001” for “December 31, 2000”.
 
-1999—Subsec. (a)(2). Pub. L. 106–65, §623(a), added par. (2) and struck out former par. (2) which set forth requirements for payment of a bonus under this section.
+<b>1999</b>—Subsec. (a)(2). Pub. L. 106–65, §623(a), added par. (2) and struck out former par. (2) which set forth requirements for payment of a bonus under this section.
 
 Subsec. (f). Pub. L. 106–65, §611(g), substituted “December 31, 2000” for “December 31, 1999”.
 
-1998—Subsec. (f). Pub. L. 105–261 substituted “December 31, 1999” for “September 30, 1999”.
+<b>1998</b>—Subsec. (f). Pub. L. 105–261 substituted “December 31, 1999” for “September 30, 1999”.
 
-1997—Subsec. (a). Pub. L. 105–85, §622(e)(1), inserted heading.
+<b>1997</b>—Subsec. (a). Pub. L. 105–85, §622(e)(1), inserted heading.
 
 Subsec. (a)(2)(A). Pub. L. 105–85, §622(a)(1), substituted “14 years” for “10 years”.
 
@@ -146,23 +148,23 @@ Subsec. (g). Pub. L. 105–85, §622(d)(2), redesignated subsec. (g) as subsec. 
 
 Subsecs. (h), (i). Pub. L. 105–85, §622(d)(2), redesignated subsecs. (h) and (i) as (e) and (f), respectively.
 
-1996—Subsec. (i). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
+<b>1996</b>—Subsec. (i). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
 
 Pub. L. 104–106 substituted “September 30, 1997” for “September 30, 1996”.
 
-1994—Subsec. (i). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
+<b>1994</b>—Subsec. (i). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
 
-1993—Subsec. (i). Pub. L. 103–160 substituted “September 30, 1995” for “September 30, 1993”.
+<b>1993</b>—Subsec. (i). Pub. L. 103–160 substituted “September 30, 1995” for “September 30, 1993”.
 
-1992—Subsec. (c). Pub. L. 102–484, §1136, inserted before period at end “and may not be paid a bonus under this section unless the specialty associated with the position the member is projected to occupy is a specialty in which the member successfully served while on active duty and attained a level of qualification commensurate with the member's grade and years of service”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–484, §1136, inserted before period at end “and may not be paid a bonus under this section unless the specialty associated with the position the member is projected to occupy is a specialty in which the member successfully served while on active duty and attained a level of qualification commensurate with the member's grade and years of service”.
 
 Subsec. (i). Pub. L. 102–484, §612(d), substituted “September 30, 1993” for “September 30, 1992”.
 
-1991—Subsecs. (e) to (g). Pub. L. 102–25 struck out “of this section” wherever appearing.
+<b>1991</b>—Subsecs. (e) to (g). Pub. L. 102–25 struck out “of this section” wherever appearing.
 
-1989—Subsec. (i). Pub. L. 101–189 substituted “September 30, 1992” for “September 30, 1990”.
+<b>1989</b>—Subsec. (i). Pub. L. 101–189 substituted “September 30, 1992” for “September 30, 1990”.
 
-1987—Subsec. (b)(1)(B). Pub. L. 100–26 inserted a comma after “$2,500”.
+<b>1987</b>—Subsec. (b)(1)(B). Pub. L. 100–26 inserted a comma after “$2,500”.
 
 Subsec. (i). Pub. L. 100–180 substituted “September 30, 1990” for “September 30, 1987”.
 
@@ -192,5 +194,5 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 #### Coverage of Period of Lapsed Authority
 
-For provisions relating to coverage of period of lapsed authority from Oct. 1, 1992, to Oct. 23, 1992, forpayment of bonuses or other special pay under this section, see section 612(j)(2) of Pub. L. 102–484, set out as a note under section 301b of this title.
+For provisions relating to coverage of period of lapsed authority from Oct. 1, 1992, to Oct. 23, 1992, for payment of bonuses or other special pay under this section, see section 612(j)(2) of Pub. L. 102–484, set out as a note under section 301b of this title.
 

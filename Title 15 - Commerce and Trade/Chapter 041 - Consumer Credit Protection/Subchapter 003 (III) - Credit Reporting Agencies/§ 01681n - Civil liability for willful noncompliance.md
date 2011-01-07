@@ -28,9 +28,9 @@ For the purposes of this section, any person who printed an expiration date on a
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–241 added subsec. (d).
+<b>2008</b>—Subsec. (d). Pub. L. 110–241 added subsec. (d).
 
-1996—Subsec. (a). Pub. L. 104–208, §2412(a), designated existing provisions as subsec. (a), inserted heading, and in introductory provisions substituted “Any person who” for “Any consumer reporting agency or user of information which”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2412(a), designated existing provisions as subsec. (a), inserted heading, and in introductory provisions substituted “Any person who” for “Any consumer reporting agency or user of information which”.
 
 Subsec. (a)(1). Pub. L. 104–208, §2412(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “any actual damages sustained by the consumer as a result of the failure;”.
 
@@ -70,7 +70,7 @@ Findings.—The Congress finds as follows:
 
 “(b)
 
-Purpose.—The purpose of this Act \[amending this section and enacting provisions set out as notes under this section and section 1601 of this title\] is to ensure that consumers suffering from any actual harm to their credit or identity are protected while simultaneously limiting abusive lawsuits that do not protect consumers but only result in increased cost to business and potentially increased prices to consumers.”
+Purpose.—The purpose of this Act \[amending this section and enacting provisions set out as notesunder this section and section 1601 of this title\] is to ensure that consumers suffering from any actual harm to their credit or identity are protected while simultaneously limiting abusive lawsuits that do not protect consumers but only result in increased cost to business and potentially increased prices to consumers.”
 
 #### Retroactive Effect of 2008 Amendment
 

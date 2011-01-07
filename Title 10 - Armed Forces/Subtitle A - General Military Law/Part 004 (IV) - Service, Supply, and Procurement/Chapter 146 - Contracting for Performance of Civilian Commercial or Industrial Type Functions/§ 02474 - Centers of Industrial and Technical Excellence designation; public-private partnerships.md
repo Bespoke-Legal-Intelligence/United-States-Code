@@ -12,7 +12,7 @@ Designation.—(1) The Secretary concerned, or the Secretary of Defense in the c
 
 Public-Private Partnerships.—(1) To achieve one or more objectives set forth in paragraph (2), the Secretary designating a Center of Industrial and Technical Excellence under subsection (a) may authorize and encourage the head of the Center to enter into public-private cooperative arrangements (in this section referred to as a “public-private partnership”) to provide for any of the following:
 
-&emsp;(A) For employees of the Center, private industry, or other entities outside the Department of Defense to perform (under contract, subcontract, or otherwise) work related to the core competencies of the Center, including any depot-level maintenance and repair work that involves one or more core competencies of the Center.
+&emsp;(A) For employees of the Center, private industry, or other entities outside the Department of Defense to perform (under contract, subcontract, or otherwise) work related to the core competencies of the Center, including anydepot-level maintenance and repair work that involves one or more core competencies of the Center.
 
 &emsp;(B) For private industry or other entities outside the Department of Defense to use, for any period of time determined to be consistent with the needs of the Department of Defense, any facilities or equipment of the Center that are not fully utilized for a military department's own production or maintenance requirements.
 
@@ -74,27 +74,27 @@ Subsection (d) of section 2667 of this title, referred to in subsec. (d), was re
 
 #### Amendments
 
-2006—Subsec. (f). Pub. L. 109–364 struck out “(1)” before “Amounts”, “entered into during fiscal years 2003 through 2009” before “shall not be counted”, and par. (2) which read as follows: “All funds covered by paragraph (1) shall be included as a separate item in the reports required under paragraphs (1), (2), and (3) of section 2466(d) of this title.”
+<b>2006</b>—Subsec. (f). Pub. L. 109–364 struck out “(1)” before “Amounts”, “entered into during fiscal years 2003through 2009” before “shall not be counted”, and par. (2) which read as follows: “All funds covered by paragraph (1) shall be included as a separate item in the reports required under paragraphs (1), (2), and (3) of section 2466(d) of this title.”
 
-2004—Subsec. (f)(1). Pub. L. 108–375, §323, substituted “through 2009” for “through 2006”.
+<b>2004</b>—Subsec. (f)(1). Pub. L. 108–375, §323, substituted “through 2009” for “through 2006”.
 
 Subsec. (f)(2). Pub. L. 108–375, §1084(d)(20), substituted “section 2466(d)” for “section 2466(e)”.
 
-2002—Subsec. (f)(1). Pub. L. 107–314, §334(1), substituted “Amounts expended for the performance of a depot-level maintenance and repair workload by non-Federal Government personnel at a Center of Industrial and Technical Excellence under any contract entered into during fiscal years 2003 through 2006” for “Amounts expended out of funds described in paragraph (2) for the performance of a depot-level maintenance and repair workload by non-Federal Government personnel at a Center of Industrial and Technical Excellence”.
+<b>2002</b>—Subsec. (f)(1). Pub. L. 107–314, §334(1), substituted “Amounts expended for the performance of a depot-level maintenance and repair workload by non-Federal Government personnel at a Center of Industrial and Technical Excellence under any contract entered into during fiscal years 2003 through 2006” for “Amounts expended out of funds described in paragraph (2) for the performance of a depot-level maintenance and repair workload by non-Federal Government personnel at a Center of Industrial and Technical Excellence”.
 
 Subsec. (f)(2), (3). Pub. L. 107–314, §334(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The funds referred to in paragraph (1) are funds available to the military departments and Defense Agencies for depot-level maintenance and repair workloads for fiscal years 2002 through 2005.”
 
-2001—Subsec. (e)(2)(B)(i). Pub. L. 107–107, §343(b), substituted “under the circumstances described in section 2563(c)(3) of this title” for “in a case of willful conduct or gross negligence”.
+<b>2001</b>—Subsec. (e)(2)(B)(i). Pub. L. 107–107, §343(b), substituted “under the circumstances described in section 2563(c)(3) of this title” for “in a case of willful conduct or gross negligence”.
 
 Subsecs. (f), (g). Pub. L. 107–107, §342, added subsec. (f) and redesignated former subsec. (f) as (g).
 
-2000—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(a)(1)\], substituted “The Secretary concerned, or the Secretary of Defense in the case of a Defense Agency,” for “The Secretary of Defense” and “of the designee” for “of the activity”.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(a)(1)\], substituted “The Secretary concerned, or the Secretary of Defense in the case of a Defense Agency,” for “The Secretary of Defense” and “of the designee” for “of the activity”.
 
 Subsec. (a)(2). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(a)(2)\], inserted “of Defense” after “The Secretary” and substituted “Centers of Industrial and Technical Excellence” for “depot-level activities”.
 
 Subsec. (a)(3). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(a)(3)\], substituted “operations at Centers of Industrial and Technical Excellence” for “depot-level operations”, “by the Centers” for “by depot-level activities”, and “of the Centers” for “of such activities”.
 
-Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(b)\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall enable Centers of Industrialand Technical Excellence to enter into public-private cooperative arrangements for the performance of depot-level maintenance and repair at such Centers and shall encourage the use of such arrangements to maximize the utilization of the capacity at such Centers. A public-private cooperative arrangement under this subsection shall be known as a ‘public-private partnership’.”
+Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(b)\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall enable Centers of Industrial and Technical Excellence to enter into public-private cooperative arrangements for the performance of depot-level maintenance and repair at such Centers and shall encourage the use of such arrangements to maximize the utilization of the capacity at such Centers. A public-private cooperative arrangement under this subsection shall be known as a ‘public-private partnership’.”
 
 Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(c)(3)\], added subsec. (c). Former subsec. (c) redesignated (d).
 

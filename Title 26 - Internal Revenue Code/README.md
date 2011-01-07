@@ -1,5 +1,5 @@
 
-26 U.S.C.<br>United States Code, 2009 Edition<br>Title 26 - INTERNAL REVENUE CODE<br>From the U.S. Government Publishing Office, www.gpo.gov
+26 U.S.C.<br>United States Code, 2010 Edition<br>Title 26 - INTERNAL REVENUE CODE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 26—INTERNAL REVENUE CODE
 
@@ -15559,7 +15559,7 @@ The Internal Revenue Title referred to in subsection (a)(1) is as follows: \* \
 
 #### Amendments
 
-1986—Subsecs. (a)(1), (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsecs. (a)(1), (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 #### Redesignation of Internal Revenue Code of 1954; References
 
@@ -15604,17 +15604,17 @@ References in Laws, Etc.—Except when inappropriate, any reference in any law, 
 
 #### Amendments
 
-1997—Pub. L. 105–34, title XV, §1531(b)(3), Aug. 5, 1997, 111 Stat. 1085, added subtitle K heading “Group health plan requirements” and struck out former subtitle K heading “Group health plan portability, access, and renewability requirements”.
+<b>1997</b>—Pub. L. 105–34, title XV, §1531(b)(3), Aug. 5, 1997, 111 Stat. 1085, added subtitle K heading “Group health plan requirements” and struck out former subtitle K heading “Group health plan portability, access, and renewability requirements”.
 
-1996—Pub. L. 104–191, title IV, §401(b), Aug. 21, 1996, 110 Stat. 2082, added subtitle K heading “Group health plan portability, access, and renewability requirements”.
+<b>1996</b>—Pub. L. 104–191, title IV, §401(b), Aug. 21, 1996, 110 Stat. 2082, added subtitle K heading “Group health plan portability, access, and renewability requirements”.
 
-1982—Pub. L. 97–248, title III, §§307(b)(2), 308(a), Sept. 3, 1982, 96 Stat. 590, 591, provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subtitle C heading is amended to read “Employment taxes and collection of income tax at source”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+<b>1982</b>—Pub. L. 97–248, title III, §§307(b)(2), 308(a), Sept. 3, 1982, 96 Stat. 590, 591, provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subtitle C heading is amended to read “Employment taxes and collection of income tax at source”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
-1981—Pub. L. 97–119, title I, §103(c)(2), Dec. 29, 1981, 95 Stat. 1638, added subtitle I heading “Trust Fund Code”.
+<b>1981</b>—Pub. L. 97–119, title I, §103(c)(2), Dec. 29, 1981, 95 Stat. 1638, added subtitle I heading “Trust Fund Code”.
 
-1976—Pub. L. 94–455, title XIX, §1907(b)(2), Oct. 4, 1976, 90 Stat. 1836, substituted in subtitle G heading “The Joint Committee on Taxation” for “The Joint Committee on Internal Revenue Taxation”.
+<b>1976</b>—Pub. L. 94–455, title XIX, §1907(b)(2), Oct. 4, 1976, 90 Stat. 1836, substituted in subtitle G heading “The Joint Committee on Taxation” for “The Joint Committee on Internal Revenue Taxation”.
 
-1974—Pub. L. 93–443, title IV, §408(a), Oct. 15, 1974, 88 Stat. 1297, added subtitle H heading “Financing of Presidential election campaigns”.
+<b>1974</b>—Pub. L. 93–443, title IV, §408(a), Oct. 15, 1974, 88 Stat. 1297, added subtitle H heading “Financing of Presidential election campaigns”.
 
 #### Table of Contents
 
@@ -15626,8 +15626,10 @@ References in Laws, Etc.—Except when inappropriate, any reference in any law, 
 | :--- | :---: | ---: |
 | [<b>1.</b>](Subtitle%20A%20-%20Income%20Taxes/Chapter%20001%20-%20Normal%20Taxes%20and%20Surtaxes/README.md) | <b>Normal taxes and surtaxes</b> | <b>1</b> |
 | [<b>2.</b>](Subtitle%20A%20-%20Income%20Taxes/Chapter%20002%20-%20Tax%20on%20Self-Employment%20Income/README.md) | <b>Tax on self-employment income</b> | <b>1401</b> |
+| [<b>2A.</b>](Subtitle%20A%20-%20Income%20Taxes/Chapter%20002A%20-%20Unearned%20Income%20Medicare%20Contribution/README.md) | <b>Unearned income Medicare contribution</b> | <b>1411</b> |
 | [<b>3.</b>](Subtitle%20A%20-%20Income%20Taxes/Chapter%20003%20-%20Withholding%20of%20Tax%20on%20Nonresident%20Aliens%20and%20Foreign%20Corporations/README.md) | <b>Withholding of tax on nonresident aliens and foreign corporations</b> | <b>1441</b> |
-| <b>\[4, 5.</b> | <b>Repealed.\]</b> |  |
+| [<b>4.</b>](Subtitle%20A%20-%20Income%20Taxes/Chapter%20004%20-%20Taxes%20to%20Enforce%20Reporting%20on%20Certain%20Foreign%20Accounts/README.md) | <b>Taxes to enforce reporting on certain foreign accounts</b> | <b>1471</b> |
+| <b>\[5.</b> | <b>Repealed.\]</b> |  |
 | [<b>6.</b>](Subtitle%20A%20-%20Income%20Taxes/Chapter%20006%20-%20Consolidated%20Returns/README.md) | <b>Consolidated returns</b> | <b>1501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -15664,7 +15666,7 @@ References in Laws, Etc.—Except when inappropriate, any reference in any law, 
 | [<b>31.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20031%20-%20Retail%20Excise%20Taxes/README.md) | <b>Retail excise taxes</b> | <b>4001</b> |
 | [<b>32.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20032%20-%20Manufacturers%20Excise%20Taxes/README.md) | <b>Manufacturers excise taxes</b> | <b>4061</b> |
 | [<b>33.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20033%20-%20Facilities%20and%20Services/README.md) | <b>Facilities and services</b> | <b>4231</b> |
-| [<b>34.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20034%20-%20Policies%20Issued%20by%20Foreign%20Insurers/README.md) | <b>Policies issued by foreign insurers</b> | <b>4301</b> |
+| [<b>34.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20034%20-%20Taxes%20on%20Certain%20Insurance%20Policies/README.md) | <b>Taxes on certain insurance policies</b> | <b>4371</b> |
 | [<b>35.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20035%20-%20Taxes%20on%20Wagering/README.md) | <b>Taxes on wagering</b> | <b>4401</b> |
 | [<b>36.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20036%20-%20Certain%20Other%20Excise%20Taxes/README.md) | <b>Certain other excise taxes</b> | <b>4451</b> |
 | <b>\[37.</b> | <b>Repealed.\]</b> |  |
@@ -15678,6 +15680,9 @@ References in Laws, Etc.—Except when inappropriate, any reference in any law, 
 | [<b>45.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20045%20-%20Provisions%20Relating%20to%20Expatriated%20Entities/README.md) | <b>Provisions relating to expatriated entities</b> | <b>4985</b> |
 | [<b>46.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20046%20-%20Golden%20Parachute%20Payments/README.md) | <b>Golden parachute payments</b> | <b>4999</b> |
 | [<b>47.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20047%20-%20Certain%20Group%20Health%20Plans/README.md) | <b>Certain group health plans</b> | <b>5000</b> |
+| [<b>48.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20048%20-%20Maintenance%20of%20Minimum%20Essential%20Coverage/README.md) | <b>Maintenance of minimum essential coverage</b> | <b>5000A</b> |
+| [<b>49.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20049%20-%20Cosmetic%20Services/README.md) | <b>Cosmetic services</b> | <b>5000B</b> |
+| [<b>50.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20050%20-%20Foreign%20Procurement/README.md) | <b>Foreign procurement</b> | <b>5000C</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -15761,6 +15766,8 @@ References in Laws, Etc.—Except when inappropriate, any reference in any law, 
 | [<b>100.</b>](Subtitle%20K%20-%20Group%20Health%20Plan%20Requirements/Chapter%20100%20-%20Group%20Health%20Plan%20Requirements/README.md) | <b>Group health plan requirements</b> | <b>9801</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> Editorially supplied. Subtitle J added by Pub. L. 102–486 without corresponding amendment of title analysis.</i>
 
 
 ---

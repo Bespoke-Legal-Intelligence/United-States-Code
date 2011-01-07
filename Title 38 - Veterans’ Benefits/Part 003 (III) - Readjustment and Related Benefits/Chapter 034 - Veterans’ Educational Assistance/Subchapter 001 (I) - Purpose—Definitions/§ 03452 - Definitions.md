@@ -16,7 +16,7 @@ For the purposes of this chapter and chapter 36 of this title—
 
 (b) The term “program of education” means any curriculum or any combination of unit courses or subjects pursued at an educational institution which is generally accepted as necessary to fulfill requirements for the attainment of a predetermined and identified educational, professional, or vocational objective. Such term also means any curriculum of unit courses or subjects pursued at an educational institution which fulfill requirements for the attainment of more than one predetermined and identified educational, professional, or vocational objective if all the objectives pursued are generally recognized as being reasonably related to a single career field. Such term also means any unit course or subject, or combination of courses or subjects, pursued by an eligible veteran at an educational institution, required by the Administrator of the Small Business Administration as a condition to obtaining financial assistance under the provisions of section 7(i)(1) of the Small Business Act (15 U.S.C. 636(i)(1)). Such term also includes licensing or certification tests, the successful completion of which demonstrates an individual's possession of the knowledge or skill required to enter into, maintain, or advance in employment in a predetermined and identified vocation or profession, provided such tests and the licensing or credentialing organizations or entities that offer such tests are approved by the Secretary in accordance with section 3689 of this title. Such term also includes any course, or combination of courses, offered by a qualified provider of entrepreneurship courses. Such term also includes national tests for admission to institutions of higher learning or graduate schools (such as the Scholastic Aptitude Test (SAT), Law School Admission Test (LSAT), Graduate Record Exam (GRE), and Graduate Management Admission Test (GMAT)) and national tests providing an opportunity for course credit at institutions of higher learning (such as the Advanced Placement (AP) exam and College-Level Examination Program (CLEP)).
 
-(c) The term “educational institution” means any public or private elementary school, secondary school, vocational school, correspondence school, business school, junior college, teachers’ college, college, normal school, professional school, university, or scientific or technical institution, or other institution furnishing education for adults. Such term includes any entity that provides training required for completionof any State-approved alternative teacher certification program (as determined by the Secretary). Such term also includes any private entity (that meets such requirements as the Secretary may establish) that offers, either directly or under an agreement with another entity (that meets such requirements), a course or courses to fulfill requirements for the attainment of a license or certificate generally recognized as necessary to obtain, maintain, or advance in employment in a profession or vocation in a high technology occupation (as determined by the Secretary). Such term also includes any qualified provider of entrepreneurship courses.
+(c) The term “educational institution” means any public or private elementary school, secondary school, vocational school, correspondence school, business school, junior college, teachers’ college, college, normal school, professional school, university, or scientific or technical institution, or other institution furnishing education for adults. Such term includes any entity that provides training required for completion of any State-approved alternative teacher certification program (as determined by the Secretary). Such term also includes any private entity (that meets such requirements as the Secretary may establish) that offers, either directly or under an agreement with another entity (that meets such requirements), a course or courses to fulfill requirements for the attainment of a license or certificate generally recognized as necessary to obtain, maintain, or advance in employment in a profession or vocation in a high technology occupation (as determined by the Secretary). Such term also includes any qualified provider of entrepreneurship courses.
 
 (d) The term “dependent” means—
 
@@ -58,13 +58,13 @@ Provisions similar to those comprising subsecs. (a) to (d) of this section were 
 
 #### Amendments
 
-2006—Subsec. (a)(3)(C). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsec. (a)(3)(C). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-2004—Subsec. (b). Pub. L. 108–454, §106(a), inserted at end “Such term also includes national tests for admission to institutions of higher learning or graduate schools (such as the Scholastic Aptitude Test (SAT), Law School Admission Test (LSAT), Graduate Record Exam (GRE), and Graduate Management Admission Test (GMAT)) and national tests providing an opportunity for course credit at institutions of higher learning (such as the Advanced Placement (AP) exam and College-Level Examination Program (CLEP)).”
+<b>2004</b>—Subsec. (b). Pub. L. 108–454, §106(a), inserted at end “Such term also includes national tests for admission to institutions of higher learning or graduate schools (such as the Scholastic Aptitude Test (SAT), Law School Admission Test (LSAT), Graduate Record Exam (GRE), and Graduate Management Admission Test (GMAT)) and national tests providing an opportunity for course credit at institutions of higher learning (such as the Advanced Placement (AP) exam and College-Level Examination Program (CLEP)).”
 
 Subsec. (e)(5). Pub. L. 108–454, §110(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “A joint apprenticeship committee established pursuant to the Act of August 16, 1937, popularly known as the ‘National Apprenticeship Act’ (29 U.S.C. 50 et seq.).”
 
-2003—Subsec. (b). Pub. L. 108–183, §305(c), inserted at end “Such term also includes any course, or combination of courses, offered by a qualified provider of entrepreneurship courses.”
+<b>2003</b>—Subsec. (b). Pub. L. 108–183, §305(c), inserted at end “Such term also includes any course, or combination of courses, offered by a qualified provider of entrepreneurship courses.”
 
 Subsec. (c). Pub. L. 108–183, §305(d), inserted at end “Such term also includes any qualified provider of entrepreneurship courses.”
 
@@ -72,7 +72,7 @@ Subsec. (e). Pub. L. 108–183, §301(a), substituted “means any of the follow
 
 Subsec. (h). Pub. L. 108–183, §305(e), added subsec. (h).
 
-2001—Subsec. (a)(1)(A). Pub. L. 107–14, §8(a)(4)(A)(i), struck out “or” at end.
+<b>2001</b>—Subsec. (a)(1)(A). Pub. L. 107–14, §8(a)(4)(A)(i), struck out “or” at end.
 
 Subsec. (a)(1)(C). Pub. L. 107–14, §8(a)(4)(A)(ii), substituted “subparagraph (B)” for “clause (B) of this paragraph”.
 
@@ -84,21 +84,21 @@ Subsec. (c). Pub. L. 107–103 inserted at end “Such term also includes any pr
 
 Subsec. (e). Pub. L. 107–14, §8(a)(4)(D), substituted “the Act of August 16, 1937, popularly known as the ‘National Apprenticeship Act’ (29 U.S.C. 50 et seq.),” for “chapter 4C of title 29,”.
 
-2000—Subsec. (b). Pub. L. 106–419 inserted at end “Such term also includes licensing or certification tests, the successful completion of which demonstrates an individual's possession of the knowledge or skill required to enter into, maintain, or advance in employment in a predetermined and identified vocation or profession, provided such tests and the licensing or credentialing organizations or entities that offer such tests are approved by the Secretary in accordance with section 3689 of this title.”
+<b>2000</b>—Subsec. (b). Pub. L. 106–419 inserted at end “Such term also includes licensing or certification tests, the successful completion of which demonstrates an individual's possession of the knowledge or skill required to enter into, maintain, or advance in employment in a predetermined and identified vocation or profession, provided such tests and the licensing or credentialing organizations or entities that offer such tests are approved by the Secretary in accordance with section 3689 of this title.”
 
-1996—Subsec. (c). Pub. L. 104–275 substituted “Such” for “For the period ending on September 30, 1996, such”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–275 substituted “Such” for “For the period ending on September 30, 1996, such”.
 
-1994—Subsec. (c). Pub. L. 103–446 inserted at end “For the period ending on September 30, 1996, such term includes any entity that provides training required for completion of any State-approved alternative teacher certification program (as determined by the Secretary).”
+<b>1994</b>—Subsec. (c). Pub. L. 103–446 inserted at end “For the period ending on September 30, 1996, such term includes any entity that provides training required for completion of any State-approved alternative teacher certification program (as determined by the Secretary).”
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1652 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1652 of this title as this section.
 
 Subsec. (a)(3). Pub. L. 102–83, §5(c)(1), substituted “3461(a)” for “1661(a)”.
 
 Subsec. (g). Pub. L. 102–83, §5(c)(1), substituted “3675” for “1775”.
 
-1982—Subsec. (b). Pub. L. 97–295 substituted “section 7(i)(1) of the Small Business Act (15 U.S.C. 636(i)(1))” for “402(a) of the Economic Opportunity Act of 1964 (42 U.S.C. 2902(a))”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–295 substituted “section 7(i)(1) of the Small Business Act (15 U.S.C. 636(i)(1))” for “402(a) of the Economic Opportunity Act of 1964 (42 U.S.C. 2902(a))”.
 
-1980—Pub. L. 96–466, §801(a)(1), inserted “and chapter 36 of this title” after “chapter” in introductory text.
+<b>1980</b>—Pub. L. 96–466, §801(a)(1), inserted “and chapter 36 of this title” after “chapter” in introductory text.
 
 Subsec. (e). Pub. L. 96–466, §801(a)(2), substituted “The” for “For the purposes of this chapter and chapter 36 of this title, the”.
 
@@ -106,7 +106,7 @@ Subsec. (f). Pub. L. 96–466, §§307(a), 801(a)(2), substituted “The” for 
 
 Subsec. (g). Pub. L. 96–466, §801(a)(2), (3), substituted “The” for “For the purposes of this chapter and chapter 36 of this title, the” and “Secretary of Education” for “Commissioner of Education”.
 
-1976—Subsec. (a)(1). Pub. L. 94–502, §402(1), restricted the definition of an eligible veteran to a veteran who commenced his active duty requirement after Jan. 31, 1955 but before Jan. 1, 1977, with the exception of a veteran who enlisted or was assigned to a reserve component before Jan. 1, 1977 and commenced his active duty requirement within 12 months following Jan. 1, 1977.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–502, §402(1), restricted the definition of an eligible veteran to a veteran who commenced his active duty requirement after Jan. 31, 1955 but before Jan. 1, 1977, with the exception of a veteran who enlisted or was assigned to a reserve component before Jan. 1, 1977 and commenced his active duty requirement within 12 months following Jan. 1, 1977.
 
 Subsec. (a)(2). Pub. L. 94–502, §§211(1), 402(2), substituted “such individual” for “he” and inserted “or (B)” after “paragraph (1)(A)”.
 
@@ -116,9 +116,9 @@ Subsec. (e). Pub. L. 94–502, §210(1), struck out “United States Code,” af
 
 Subsecs. (f), (g). Pub. L. 94–502, §202, added subsecs. (f) and (g).
 
-1974—Subsec. (a)(3). Pub. L. 93–508 substituted “Coast Guard Reserve unless at some time subsequent to the completion of such period of active duty for training such individual served on active duty for a consecutive period of one year or more (not including any service as a cadet or midshipman at one of the service academies)” for “Coast Guard Reserve”.
+<b>1974</b>—Subsec. (a)(3). Pub. L. 93–508 substituted “Coast Guard Reserve unless at some time subsequent to the completion of such period of active duty for training such individual served on active duty for a consecutive period of one year or more (not including any service as a cadet or midshipman at one of the service academies)” for “Coast Guard Reserve”.
 
-1970—Subsec. (a)(2). Pub. L. 91–584, §10(1), substituted “more than one hundred eighty days” for “at least two years”.
+<b>1970</b>—Subsec. (a)(2). Pub. L. 91–584, §10(1), substituted “more than one hundred eighty days” for “at least two years”.
 
 Subsec. (b). Pub. L. 91–584, §10(2), expanded the definition of “program of education” to include unit course or subject, or combination of courses or subjects, pursued by eligible veterans at an educational institution, required by the Administrator of the Small Business Administration as a condition to obtaining financial assistance under section 2902(a) of title 42.
 
@@ -126,7 +126,7 @@ Pub. L. 91–219, §201(a), provided that a program of education may include mor
 
 Subsec. (c). Pub. L. 91–219, §201(b), included within the term “educational institution” any public or private “elementary” school, and substituted “other institution furnishing education for adults”, for “any other institution if it furnishes education at the secondary school level or above”.
 
-1967—Subsec. (e). Pub. L. 90–77 added subsec. (e).
+<b>1967</b>—Subsec. (e). Pub. L. 90–77 added subsec. (e).
 
 #### Effective Date of 2003 Amendment
 

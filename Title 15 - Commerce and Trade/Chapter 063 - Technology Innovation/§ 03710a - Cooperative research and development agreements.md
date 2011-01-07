@@ -66,7 +66,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 (3)(A) Any agency using the authority given it under subsection (a) of this section shall review standards of conduct for its employees for resolving potential conflicts of interest to make sure they adequately establish guidelines for situations likely to arise through the use of this authority, including but not limited to cases where present or former employees or their partners negotiate licenses or assignments of titles to inventions or negotiate cooperative research and development agreements with Federal agencies (including the agency with which the employee involved is or was formerly employed).
 
-(B) If, in implementing subparagraph (A), an agency is unable to resolve potential conflicts ofinterest within its current statutory framework, it shall propose necessary statutory changes to be forwarded to its authorizing committees in Congress.
+(B) If, in implementing subparagraph (A), an agency is unable to resolve potential conflicts of interest within its current statutory framework, it shall propose necessary statutory changes to be forwarded to its authorizing committees in Congress.
 
 (4) The laboratory director in deciding what cooperative research and development agreements to enter into shall—
 
@@ -84,7 +84,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 (iii) In any case in which an agency which has contracted with an entity referred to in clause (i) disapproves or requests the modification of a cooperative research and development agreement or joint work statement submitted under that clause, the agency shall transmit a written explanation of such disapproval or modification to the head of the laboratory concerned.
 
-(iv) Any agency that has contracted with a non-Federal entity to operate a laboratory may develop and provide to such laboratory one or more model cooperative research and development agreements for purposes of standardizing practices and procedures, resolving common legal issues, and enabling review of cooperative research and development agreements to be carried out in a routine and prompt manner.
+(iv) Any agency that has contracted with a non-Federal entity to operate a laboratory may develop and provide to such laboratory one ormore model cooperative research and development agreements for purposes of standardizing practices and procedures, resolving common legal issues, and enabling review of cooperative research and development agreements to be carried out in a routine and prompt manner.
 
 (v) A Federal agency may waive the requirements of clause (i) or (ii) under such circumstances as the agency considers appropriate.
 
@@ -106,7 +106,7 @@ As used in this section—
 
 &emsp;&emsp;(B) a group of Government-owned, contractor-operated facilities (including a weapon production facility of the Department of Energy) under a common contract, when a substantial purpose of the contract is the performance of research and development, or the production, maintenance, testing, or dismantlement of a nuclear weapon or its components, for the Federal Government; and
 
-&emsp;&emsp;(C) a Government-owned, contractor-operated facility (including a weapon productionfacility of the Department of Energy) that is not under a common contract described in subparagraph (B), and the primary purpose of which is the performance of research and development, or the production, maintenance, testing, or dismantlement of a nuclear weapon or its components, for the Federal Government,
+&emsp;&emsp;(C) a Government-owned, contractor-operated facility (including a weapon production facility of the Department of Energy) that is not under a common contract described in subparagraph (B), and the primary purpose of which is the performance of research and development, or the production, maintenance, testing, or dismantlement of a nuclear weapon or its components, for the Federal Government,
 
 > &emsp;but such term does not include any facility covered by Executive Order No. 12344, dated February 1, 1982, pertaining to the naval nuclear propulsion program;
 
@@ -134,13 +134,13 @@ In implementing this section, each agency which has contracted with a non-Federa
 
 #### References in Text
 
-Section 203(2) of title 35, referred to in subsec. (b)(1)(C), was redesignated section 203(b) of title 35 by Pub. L. 107–273, div. C, title III, §13206(a)(14)(A)(i), Nov. 2, 2002, 116 Stat. 1905.
+Section 203(2) of title 35, referred to in subsec. (b)(1)(C), was redesignated section 203(b) of title 35 byPub. L. 107–273, div. C, title III, §13206(a)(14)(A)(i), Nov. 2, 2002, 116 Stat. 1905.
 
 Executive Order No. 12344, referred to in subsec. (d)(2), is set out as a note under section 2511 of Title 50, War and National Defense.
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–398, §1 \[div. C, title XXXI, §3196(a)\], substituted “joint work statement or, if permitted by the agency, in an agency-approved annual strategic plan,” for “joint work statement,” in introductory provisions.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[div. C, title XXXI, §3196(a)\], substituted “joint work statement or, if permitted by the agency, in an agency-approved annual strategic plan,” for “joint work statement,” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 106–404, in first sentence, inserted “or, subject to section 209 of title 35, may grant a license to an invention which is federally owned, for which a patent application was filed before the signing of the agreement, and directly within the scope of the work under the agreement,” after “under the agreement,”.
 
@@ -148,25 +148,25 @@ Subsec. (b)(6). Pub. L. 106–398, §1 \[div. C, title XXXI, §3196(b)\], added 
 
 Subsec. (c)(5)(C), (D). Pub. L. 106–398, §1 \[div. C, title XXXI, §3196(c)\], redesignated subpar. (D) as (C), struck out “with a small business firm” after “enter into” and inserted “if” after “statement” in cl. (i), added cls. (iv) and (v), and struck out former subpar. (C) which related to the duties of an agency which has contracted with a non-Federal entity to operate a laboratory with respect to review and approval of joint work statements and agreements under this section and with respect to providing the entity with model cooperative research and development agreements.
 
-1996—Subsec. (b). Pub. L. 104–113 amended subsec. (b) generally, to require that laboratory ensure that collaborating party be provided option of choosing exclusive license for pre-negotiated field of use for any invention under agreement or that collaborating party be offered option of holding licensing rights that collectively encompass rights that would be held under such exclusive license by one party, to set forth explicit conditions that grants under par. (1) were to be subject to, and to require laboratory to ensure that collaborating party might retain title to any invention made solely by its employee in exchange for normally granting Government nonexclusive, nontransferable, irrevocable, paid-up license to practice invention by or on behalf of Government for research or for other Government purposes.
+<b>1996</b>—Subsec. (b). Pub. L. 104–113 amended subsec. (b) generally, to require that laboratory ensure that collaborating party be provided option of choosing exclusive license for pre-negotiated field of use for any invention under agreement or that collaborating party be offered option of holding licensing rights that collectively encompass rights that would be held under such exclusive license by one party, to set forth explicit conditions that grants under par. (1) were to be subject to, and to require laboratory to ensure that collaborating party might retain title to any invention made solely by its employee in exchange for normally granting Government nonexclusive, nontransferable, irrevocable, paid-up license to practice invention by or on behalf of Government for research or for other Government purposes.
 
-1993—Subsec. (d)(2)(B). Pub. L. 103–160, §3160(1), inserted “(including a weapon production facility of the Department of Energy)” after “facilities” and “, or the production, maintenance, testing, or dismantlement of a nuclear weapon or its components,” after “research and development”.
+<b>1993</b>—Subsec. (d)(2)(B). Pub. L. 103–160, §3160(1), inserted “(including a weapon production facility of the Department of Energy)” after “facilities” and “, or the production, maintenance, testing, or dismantlement of a nuclear weapon or its components,” after “research and development”.
 
 Subsec. (d)(2)(C). Pub. L. 103–160, §3160(2), inserted “(including a weapon production facility of the Department of Energy)” after “facility” and “, or the production, maintenance, testing, or dismantlement of a nuclear weapon or its components,” after “research and development”.
 
 Subsec. (d)(4). Pub. L. 103–160, §3160(3)–(5), added par. (4).
 
-1992—Subsec. (c)(5)(C)(i). Pub. L. 102–484, §3135(a)(1), substituted “Except as provided in subparagraph (D), any agency” for “Any agency”.
+<b>1992</b>—Subsec. (c)(5)(C)(i). Pub. L. 102–484, §3135(a)(1), substituted “Except as provided in subparagraph (D), any agency” for “Any agency”.
 
 Subsec. (c)(5)(D). Pub. L. 102–484, §3135(a)(2), added subpar. (D).
 
 Subsec. (d)(1). Pub. L. 102–245 inserted “intellectual property,” after “equipment,” in two places.
 
-1991—Subsec. (d)(2). Pub. L. 102–25 substituted “naval” for “Naval” in concluding provisions.
+<b>1991</b>—Subsec. (d)(2). Pub. L. 102–25 substituted “naval” for “Naval” in concluding provisions.
 
-1989—Subsec. (a). Pub. L. 101–189, §3133(a)(1)(A), inserted “, and, to the extent provided in an agency-approved joint work statement, the director of any of its Government-owned, contractor-operated laboratories” after “Government-operated Federal laboratories” in introductory provisions.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189, §3133(a)(1)(A), inserted “, and, to the extent provided in an agency-approved joint work statement, the director of any of its Government-owned, contractor-operated laboratories” after “Government-operated Federal laboratories” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 101–189, §3133(a)(1)(B), (C), substituted “(in the case of a Government-owned, contractor-operated laboratory, subject to subsection (c) ofthis section) for” for “for Government-owned” and struck out “of Federal employees” before “that may be voluntarily”.
+Subsec. (a)(2). Pub. L. 101–189, §3133(a)(1)(B), (C), substituted “(in the case of a Government-owned, contractor-operated laboratory, subject to subsection (c) of this section) for” for “for Government-owned” and struck out “of Federal employees” before “that may be voluntarily”.
 
 Subsec. (b). Pub. L. 101–189, §3133(a)(2)(A), (C), inserted “, and, to the extent provided in an agency-approved joint work statement, a Government-owned, contractor-operated laboratory,” after “Government-operated Federal laboratory” in introductory provisions and inserted concluding provisions “A Government-owned, contractor-operated laboratory that enters into a cooperative research and development agreement under subsection (a)(1) of this section may use or obligate royalties or other income accruing to such laboratory under such agreement with respect to any invention only (i) for payments to inventors; (ii) for the purposes described in section 3710c(a)(1)(B)(i), (ii), and (iv) of this title; and (iii) for scientific research and development consistent with the research and development mission and objectives of the laboratory.”
 
@@ -188,7 +188,7 @@ Subsec. (d)(3). Pub. L. 101–189, §3133(a)(8)(A), (C), added par. (3).
 
 Subsec. (g). Pub. L. 101–189, §3133(b), added subsec. (g).
 
-1988—Subsec. (a)(2). Pub. L. 100–519, §301(1), substituted “or other intellectual property developed at the laboratory and other inventions or other intellectual property” for “at the laboratory and other inventions”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–519, §301(1), substituted “or other intellectual property developed at the laboratory and other inventions or other intellectual property” for “at the laboratory and other inventions”.
 
 Subsec. (b)(4), (5). Pub. L. 100–519, §301(2), added par. (4) and redesignated former par. (4) as (5).
 

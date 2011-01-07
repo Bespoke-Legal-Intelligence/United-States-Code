@@ -2,7 +2,7 @@
 
 #### (a) Standards or regulations designed to protect against same risk as State standards or regulations; identical State standards
 
-Except as provided in subsections (b) and (c) of this section, whenever a flammability standard or other regulation for a fabric, related material, or product is in effect under this chapter, no State or political subdivision of a State may establish or continue in effect a flammability standard or other regulation for such fabric, related material, or product if the standard or other regulation is designed to protect against the same risk of occurrence of fire with respect to which the standard or other regulation under this chapter is in effect unless the State or political subdivision standard or other regulation is identical to the Federal standard or other regulation.
+Except as provided in subsections (b) and (c) of this section, whenever a flammability standardor other regulation for a fabric, related material, or product is in effect under this chapter, no State or political subdivision of a State may establish or continue in effect a flammability standard or other regulation for such fabric, related material, or product if the standard or other regulation is designed to protect against the same risk of occurrence of fire with respect to which the standard or other regulation under this chapter is in effect unless the State or political subdivision standard or other regulation is identical to the Federal standard or other regulation.
 
 #### (b) State standards or regulations which afford a higher degree of protection
 
@@ -32,13 +32,13 @@ Section 11 of the Act of December 14, 1967 (Public Law 90–189), referred to in
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–314 amended subsec. (d) generally. Prior to amendment, text read as follows: “For purposes of this section—
+<b>2008</b>—Subsec. (d). Pub. L. 110–314 amended subsec. (d) generally. Prior to amendment, text read as follows: “For purposes of this section—
 
 &emsp;“(1) a reference to a flammability standard or other regulation for a fabric, related material, or product in effect under this chapter includes a standard of flammability continued in effect by section 11 of the Act of December 14, 1967 (Public Law 90–189); and
 
 &emsp;“(2) the term ‘Commission’ means the Consumer Product Safety Commission.”
 
-1976—Pub. L. 94–284 substituted provisions which permitted the use of flammability standards or regulations not identical with the standards or regulations in effect under this chapter provided that the standards or regulations used afford a higher degree of protection from the risk of the occurrence of fire than the standards or regulation under this chapter, and which permitted the Commission, by regulation promulgated in accordance with section 553 of title 5, to grant an exemption for a flammability standard or other regulation of a State or political subdivision of a State, for the prior supremacy of chapter provision.
+<b>1976</b>—Pub. L. 94–284 substituted provisions which permitted the use of flammability standards or regulations not identical with the standards or regulations in effect under this chapter provided that the standards or regulations used afford a higher degree of protection from the risk of the occurrence of fire than the standards or regulation under this chapter, and which permitted the Commission, by regulation promulgated in accordance with section 553 of title 5, to grant an exemption for a flammability standard or other regulation of a State or political subdivision of a State, for the prior supremacy of chapter provision.
 
 #### Preemption
 

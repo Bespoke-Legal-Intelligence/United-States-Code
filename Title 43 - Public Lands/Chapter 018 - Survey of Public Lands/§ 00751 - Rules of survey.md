@@ -4,7 +4,7 @@ The public lands shall be divided by north and south lines run according to the 
 
 Second. The corners of the townships must be marked with progressive numbers from the beginning; each distance of a mile between such corners must be also distinctly marked with marks different from those of the corners.
 
-Third. The township shall be subdivided into sections, containing, as nearly as may be, six hundred and forty acres each, by running parallel lines through the same from east to west and from south to north at the distance of one mile from each other, and marking corners at the distance of each half mile. The sections shall be numbered, respectively, beginning with the number one in the northeast section and proceeding west and east alternately through the township with progressive numbers, until the thirty-six be completed.
+Third. The township shall be subdivided into sections, containing, as nearly as may be, six hundred and forty acres each, by running parallel lines through the same from east to west and from south to north at the distance of onemile from each other, and marking corners at the distance of each half mile. The sections shall be numbered, respectively, beginning with the number one in the northeast section and proceeding west and east alternately through the township with progressive numbers, until the thirty-six be completed.
 
 Fourth. The deputy surveyors, respectively, shall cause to be marked on a tree near each corner established in the manner described, and within the section, the number of such section, and over it the number of the township within which such section may be; and the deputy surveyors shall carefully note, in their respective field books, the names of the corner trees marked and the numbers so made.
 
@@ -24,7 +24,7 @@ R.S. §2395 derived from acts May 18, 1796, ch. 29, §2, 1 Stat. 465; May 10, 18
 
 #### Amendments
 
-1950—Par. Third. Act Apr. 29, 1950, struck out provision that sections 1 mile square in townships be established by running survey lines 2 miles apart.
+<b>1950</b>—Par. Third. Act Apr. 29, 1950, struck out provision that sections 1 mile square in townships be established by running survey lines 2 miles apart.
 
 #### Transfer of Functions
 

@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### (1) Qualified payment
 
-&emsp;The term “qualified payment” means any money or property which is transferred to anydesignated settlement fund pursuant to a court order, other than—
+&emsp;The term “qualified payment” means any money or property which is transferred to any designated settlement fund pursuant to a court order, other than—
 
 &emsp;&emsp;(A) any amount which may be transferred from the fund to the taxpayer (or any related person), or
 
@@ -116,13 +116,13 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 
 #### Amendments
 
-2006—Subsec. (g). Pub. L. 109–222 reenacted heading without change and amended text of subsec. (g) generally. Prior to amendment, text read as follows: “Nothing in any provision of law shall be construed as providing that an escrow account, settlement fund, or similar fund is not subject to current income tax. The Secretary shall prescribe regulations providing for the taxation of any such account or fund whether as a grantor trust or otherwise.”
+<b>2006</b>—Subsec. (g). Pub. L. 109–222 reenacted heading without change and amended text of subsec. (g) generally. Prior to amendment, text read as follows: “Nothing in any provision of law shall be construed as providing that an escrow account, settlement fund, or similar fund is not subject to current income tax. The Secretary shall prescribe regulations providing for the taxation of any such account or fund whether as a grantor trust or otherwise.”
 
 Subsec. (g)(3). Pub. L. 109–432 struck out heading and text of par. (3). Text read as follows: “Paragraph (2) shall not apply to accounts and funds established after December 31, 2010.”
 
-1990—Subsec. (e). Pub. L. 101–508 substituted “This section (other than subsection (g))” for “This section”.
+<b>1990</b>—Subsec. (e). Pub. L. 101–508 substituted “This section (other than subsection (g))” for “This section”.
 
-1988—Subsec. (b)(2). Pub. L. 100–647, §1018(f)(4)(B), substituted “No other” for “no other” in concluding provisions.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–647, §1018(f)(4)(B), substituted “No other” for “no other” in concluding provisions.
 
 Subsec. (b)(2)(B). Pub. L. 100–647, §1018(f)(4)(A), substituted “a corporation.” for “the corporation,”.
 
@@ -136,7 +136,7 @@ Subsec. (g). Pub. L. 100–647, §1018(f)(5)(A), added subsec. (g).
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title IV, §409(b), Dec. 20, 2006, 120 Stat. 2963, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in section 201 of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\].”
+Pub. L. 109–432, div. A, title IV, §409(b), Dec. 20, 2006, 120 Stat. 2963, provided that: “The amendment made bythis section \[amending this section\] shall take effect as if included in section 201 of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\].”
 
 Pub. L. 109–222, title II, §201(b), May 17, 2006, 120 Stat. 348, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to accounts and funds established after the date of the enactment of this Act \[May 17, 2006\].”
 

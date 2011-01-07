@@ -62,11 +62,11 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (j), is
 
 #### Codification
 
-Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as partof the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
 
-2004—Subsecs. (a), (b)(1), (2). Pub. L. 108–423, §5(a)(1), substituted “, the National Aeronautics and Space Administration, and the Department of Energy” for “and the National Aeronautics and Space Administration”.
+<b>2004</b>—Subsecs. (a), (b)(1), (2). Pub. L. 108–423, §5(a)(1), substituted “, the National Aeronautics and Space Administration, and the Department of Energy” for “and the National Aeronautics and Space Administration”.
 
 Subsec. (b)(3). Pub. L. 108–423, §5(a)(2), substituted “Administration, the Secretary of Energy,” for “Administration, and”.
 

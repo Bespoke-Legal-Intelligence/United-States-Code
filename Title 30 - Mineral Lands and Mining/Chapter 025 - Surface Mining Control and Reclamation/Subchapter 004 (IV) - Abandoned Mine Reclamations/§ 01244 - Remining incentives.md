@@ -6,7 +6,7 @@ Notwithstanding any other provision of this chapter, the Secretary may, after op
 
 #### (b) Requirements
 
-Any regulations promulgated under subsection (a) shall specify that the incentives shall apply only if the Secretary determines, with the concurrence of the State regulatory authority referred to in subchapter V, that, without the incentives, the eligible land would not be likely to be remined and reclaimed.
+Any regulations promulgated under subsection (a) shall specify that the incentives shall applyonly if the Secretary determines, with the concurrence of the State regulatory authority referred to in subchapter V, that, without the incentives, the eligible land would not be likely to be remined and reclaimed.
 
 #### (c) Incentives
 

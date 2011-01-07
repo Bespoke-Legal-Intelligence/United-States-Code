@@ -76,7 +76,7 @@ In order to receive a payment under the program under this section, the State sh
 
 #### References in Text
 
-Subchapter III of this chapter, referred to in subsecs. (b)(1)(A) and (c)(2), was in the original “title III”,meaning title III of Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1704, which enacted subchapter III of this chapter and amended section 405 of this title. For complete classification of title III to the Code, see Tables.
+Subchapter III of this chapter, referred to in subsecs. (b)(1)(A) and (c)(2), was in the original “title III”, meaning title III of Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1704, which enacted subchapter III of this chapter and amended section 405 of this title. For complete classification of title III to the Code, see Tables.
 
 This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 

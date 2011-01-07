@@ -277,19 +277,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### subpart 1—pilot program of grants to specialty schools for science and mathematics
+#### subpart 1—\[repealed\]
 
 |  |  |
 | :--- | ---: |
-| [7381h.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/Part%20B%20-%20Science%2C%20Engineering%2C%20and%20Mathematics%20Education%20Programs/Subpart%20001%20-%20Pilot%20Program%20of%20Grants%20to%20Specialty%20Schools%20for%20Science%20and%20Mathematics/%C2%A7%2007381h%20-%20Pilot%20program%20of%20grants%20to%20specialty%20schools%20for%20science%20and%20mathematics.md) | Pilot program of grants to specialty schools for science and mathematics. |
+| [7381h.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/Part%20B%20-%20Science%2C%20Engineering%2C%20and%20Mathematics%20Education%20Programs/Subpart%20001%20-%20%5BRepealed/%C2%A7%2007381h%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93358%2C%20title%20IX%2C%20%C2%A7901%28a%29%2C%20Jan.%204%2C%202011%2C%20124%20Stat.%204044.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### subpart 2—experiential-based learning opportunities
+#### subpart 2—\[repealed\]
 
 |  |  |
 | :--- | ---: |
-| [7381j.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/Part%20B%20-%20Science%2C%20Engineering%2C%20and%20Mathematics%20Education%20Programs/Subpart%20002%20-%20Experiential-Based%20Learning%20Opportunities/%C2%A7%2007381j%20-%20Experiential-based%20learning%20opportunities.md) | Experiential-based learning opportunities. |
+| [7381j.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/Part%20B%20-%20Science%2C%20Engineering%2C%20and%20Mathematics%20Education%20Programs/Subpart%20002%20-%20%5BRepealed/%C2%A7%2007381j%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93358%2C%20title%20IX%2C%20%C2%A7901%28a%29%2C%20Jan.%204%2C%202011%2C%20124%20Stat.%204044.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -309,11 +309,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### subpart 5—national energy education development
+#### subpart 5—\[repealed\]
 
 |  |  |
 | :--- | ---: |
-| [7381p.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/Part%20B%20-%20Science%2C%20Engineering%2C%20and%20Mathematics%20Education%20Programs/Subpart%20005%20-%20National%20Energy%20Education%20Development/%C2%A7%2007381p%20-%20National%20energy%20education%20development.md) | National energy education development. |
+| [7381p.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/Part%20B%20-%20Science%2C%20Engineering%2C%20and%20Mathematics%20Education%20Programs/Subpart%20005%20-%20%5BRepealed/%C2%A7%2007381p%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93358%2C%20title%20IX%2C%20%C2%A7901%28a%29%2C%20Jan.%204%2C%202011%2C%20124%20Stat.%204044.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

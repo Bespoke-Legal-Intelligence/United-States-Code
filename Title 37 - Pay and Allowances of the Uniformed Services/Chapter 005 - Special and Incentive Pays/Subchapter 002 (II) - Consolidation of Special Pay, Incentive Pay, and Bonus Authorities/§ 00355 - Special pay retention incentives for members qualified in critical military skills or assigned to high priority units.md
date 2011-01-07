@@ -42,7 +42,7 @@ Certain Members Ineligible.—(1) A retention bonus may not be provided under su
 
 &emsp;(B) is qualified for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
 
-(4) The Secretary of Defense, or the Secretary of Homeland Security with respect to the CoastGuard when it is not operating as a service in the Navy, may waive the limitations in paragraph (1) with respect to a member who, during the period of active duty or service in an active status in a reserve component for which the bonus is being offered, is assigned duties in a skill designated as critical under subsection (b)(1). The authority to grant a waiver under this paragraph may not be delegated below the Under Secretary of Defense for Personnel and Readiness or the Deputy Secretary of the Department of Homeland Security.
+(4) The Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may waive the limitations in paragraph (1) with respect to a member who, during the period of active duty or service in an active status in a reserve component for which the bonus is being offered, is assigned duties in a skill designated as critical under subsection (b)(1). The authority to grant a waiver under this paragraph may not be delegated below the Under Secretary of Defense for Personnel and Readiness or the Deputy Secretary of the Department of Homeland Security.
 
 (f)
 
@@ -54,23 +54,19 @@ Repayment.—A member paid a bonus under this section who fails, during the peri
 
 (h)
 
-Annual Report.—Not later than February 15 of each year, the Secretary of Defense and the Secretary of Homeland Security shall submit to Congress a report—
+Termination of Bonus Authority.—No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2011, and no agreement under this section may be entered into after that date.
 
-&emsp;(1) analyzing the effect, during the preceding fiscal year, of the provision of bonuses under this section on the retention of members of the armed forces who were offered a bonus under this section; and
-
-&emsp;(2) describing the intentions of the Secretary regarding the continued use of the bonus authority during the current and next fiscal years.
-
-(i)
-
-Termination of Bonus Authority.—No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2010, and no agreement under this section may be entered into after that date.
-
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §633(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–157, §323; amended Pub. L. 107–107, div. A, title VI, §614(d), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §§614(d), 618, Dec. 2, 2002, 116 Stat. 2568, 2570; Pub. L. 108–136, div. A, title VI, §§614(d), 622, title X, §1045(b)(1), Nov. 24, 2003, 117 Stat. 1501, 1505, 1612; Pub. L. 108–375, div. A, title VI, §§614(e), 621, title X, §1084(e)(2), Oct. 28, 2004, 118 Stat. 1948, 1954, 2064; Pub. L. 109–163, div. A, title VI, §§624(e), 640(a)–(f)(1), 687(b)(31), Jan. 6, 2006, 119 Stat. 3295, 3302, 3303, 3332; Pub. L. 109–364, div. A, title VI, §614(e), Oct. 17, 2006, 120 Stat. 2248; renumbered §355 and amended Pub. L. 110–181, div. A, title VI, §§614(d), 622, 661(c), Jan. 28, 2008, 122 Stat. 149, 152, 178; Pub. L. 110–417, \[div. A\], title VI, §614(h), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §614(9), Oct. 28, 2009, 123 Stat. 2354.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §633(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–157, §323; amended Pub. L. 107–107, div. A, title VI, §614(d), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §§614(d), 618, Dec. 2, 2002, 116 Stat. 2568, 2570; Pub.L. 108–136, div. A, title VI, §§614(d), 622, title X, §1045(b)(1), Nov. 24, 2003, 117 Stat. 1501, 1505, 1612; Pub. L. 108–375, div. A, title VI, §§614(e), 621, title X, §1084(e)(2), Oct. 28, 2004, 118 Stat. 1948, 1954, 2064; Pub. L. 109–163, div. A, title VI, §§624(e), 640(a)–(f)(1), 687(b)(31), Jan. 6, 2006, 119 Stat. 3295, 3302, 3303, 3332; Pub. L. 109–364, div. A, title VI, §614(e), Oct. 17, 2006, 120 Stat. 2248; renumbered §355 and amended Pub. L. 110–181, div. A, title VI, §§614(d), 622, 661(c), Jan. 28, 2008, 122 Stat. 149, 152, 178; Pub. L. 110–417, \[div. A\], title VI, §614(h), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §614(9), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–207, §4(a)(4), July 27, 2010, 124 Stat. 2251; Pub. L. 111–383, div. A, title VI, §614(9), Jan. 7, 2011, 124 Stat. 4237.)
 
 #### Amendments
 
-2009—Subsec. (i). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+<b>2011</b>—Subsec. (h). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
-2008—Pub. L. 110–181, §661(c)(1), renumbered section 323 of this title as this section.
+<b>2010</b>—Subsecs. (h), (i). Pub. L. 111–207 redesignated subsec. (i) as (h) and struck out former subsec. (h) which required the Secretaries of Defense and Homeland Security to submit to Congress annual reports on retention bonuses.
+
+<b>2009</b>—Subsec. (i). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+
+<b>2008</b>—Pub. L. 110–181, §661(c)(1), renumbered section 323 of this title as this section.
 
 Subsec. (e)(4). Pub. L. 110–181, §622, added par. (4).
 
@@ -80,7 +76,7 @@ Subsec. (i). Pub. L. 110–417 substituted “December 31, 2009” for “Decemb
 
 Pub. L. 110–181, §614(d), substituted “December 31, 2008” for “December 31, 2007”.
 
-2006—Pub. L. 109–163, §640(f)(1), substituted “Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units” for “Special pay: retention incentives for members qualified in a critical military skill” in section catchline.
+<b>2006</b>—Pub. L. 109–163, §640(f)(1), substituted “Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units” for “Special pay: retention incentives for members qualified in a critical military skill” in section catchline.
 
 Subsec. (a). Pub. L. 109–163, §640(a)(1)(A), (b)(1), in introductory provisions, substituted “who is serving on active duty in a regular component or in an active status in a reserve component and who” for “who is serving on active duty and” and “critical military skill designated under subsection (b) or accepts an assignment to a high priority unit designated under such subsection” for “designated critical military skill”.
 
@@ -108,19 +104,19 @@ Subsec. (i). Pub. L. 109–364 substituted “December 31, 2007” for “Decemb
 
 Pub. L. 109–163, §624(e), substituted “December 31, 2006” for “December 31, 2005”.
 
-2004—Subsec. (a). Pub. L. 108–375, §621, inserted “other than an enlisted member referred to in paragraph (3),” after “enlisted member,” in par. (2) and added par. (3).
+<b>2004</b>—Subsec. (a). Pub. L. 108–375, §621, inserted “other than an enlisted member referred to in paragraph (3),” after “enlisted member,” in par. (2) and added par. (3).
 
 Subsec. (h). Pub. L. 108–375, §1084(e)(2), substituted “Secretary of Homeland Security” for “Secretary of Transportation” in introductory provisions.
 
 Subsec. (i). Pub. L. 108–375, §614(e), substituted “December 31, 2005” for “December 31, 2004”.
 
-2003—Subsec. (a). Pub. L. 108–136, §1045(b)(1), substituted “one year” for “1 year” in pars. (1) and (2).
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §1045(b)(1), substituted “one year” for “1 year” in pars. (1) and (2).
 
 Subsec. (b). Pub. L. 108–136, §622, struck out “(1)” before “A designated” and par. (2) which read as follows: “The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall notify Congress, in advance, of each military skill to be designated by the Secretary as critical for purposes of this section. The notice shall be submitted at least 90 days before any bonus with regard to that critical skill is offered under subsection (a) and shall include a discussion of the necessity for the bonus, the amount and method of payment of the bonus, and the retention results that the bonus is expected to achieve.”
 
 Subsec. (i). Pub. L. 108–136, §614(d), substituted “December 31, 2004” for “December 31, 2003”.
 
-2002—Subsec. (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in pars. (1) and (2).
+<b>2002</b>—Subsec. (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in pars. (1) and (2).
 
 Subsec. (d). Pub. L. 107–314, §618(a), designated existing provisions as par. (1) and added par. (2).
 
@@ -130,7 +126,7 @@ Subsec. (g)(1). Pub. L. 107–296 substituted “of Homeland Security” for “
 
 Subsec. (i). Pub. L. 107–314, §614(d), substituted “December 31, 2003” for “December 31, 2002”.
 
-2001—Subsec. (i). Pub. L. 107–107 substituted “December 31, 2002” for “December 31, 2001”.
+<b>2001</b>—Subsec. (i). Pub. L. 107–107 substituted “December 31, 2002” for “December 31, 2001”.
 
 #### Effective Date of 2008 Amendment
 
@@ -138,7 +134,7 @@ Amendment by section 614(d) of Pub. L. 110–181 effective as of Dec. 31, 2007, 
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date
 

@@ -1,6 +1,6 @@
 ### §8110. Operation of medical facilities
 
-(a)(1) The Secretary shall establish the total number of hospital beds and nursing home beds in medical facilities over which the Secretary has direct jurisdiction for the care and treatment of eligible veterans. The Secretary shall establish the total number of such beds so as to maintain a contingency capacity to assist the Department of Defense in time of war or national emergency to care for the casualties of such war or national emergency. Of the number of beds authorized pursuant to the preceding sentence, the Secretary shall maintain the availability of such additional beds and facilities in addition to the operating bed level as the Secretary considers necessary for such contingency purposes. The President shall include in the Budget transmitted to the Congress for each fiscal year pursuant to section 1105 of title 31, an amount for medical care and amounts for construction sufficient to maintain the availability of the contingency capacity referred to in the second sentence of this paragraph. The Secretary shall staff and maintain, in such a manner as to ensure the immediate acceptance and timely and complete care of patients, and in a manner consistent with the policies of the Secretary on overtime, sufficient beds and other treatment capacities to accommodate, and provide such care to, eligible veterans applying for admission and found to be in need of hospital care or medical services.
+(a)(1) The Secretary shall establish the total number of hospital beds and nursing home beds in medical facilities over which the Secretary has direct jurisdiction for the care and treatment of eligible veterans. The Secretary shall establish the total number of such beds so as to maintain a contingency capacity to assist the Department of Defense in time of war or national emergency to care for the casualties of such war or national emergency. Of the number of beds authorized pursuant to the preceding sentence, the Secretary shall maintain the availability of such additional beds and facilities in addition to the operating bed level as theSecretary considers necessary for such contingency purposes. The President shall include in the Budget transmitted to the Congress for each fiscal year pursuant to section 1105 of title 31, an amount for medical care and amounts for construction sufficient to maintain the availability of the contingency capacity referred to in the second sentence of this paragraph. The Secretary shall staff and maintain, in such a manner as to ensure the immediate acceptance and timely and complete care of patients, and in a manner consistent with the policies of the Secretary on overtime, sufficient beds and other treatment capacities to accommodate, and provide such care to, eligible veterans applying for admission and found to be in need of hospital care or medical services.
 
 (2) The Secretary shall maintain the bed and treatment capacities of all Department medical facilities, including the staffing required to maintain such capacities, so as to ensure the accessibility and availability of such beds and treatment capacities to eligible veterans in all States, to minimize delays in admissions and in the provision of hospital, nursing home, and domiciliary care, and of medical services furnished pursuant to section 1710(a) of this title, and to ensure that eligible veterans are provided such care and services in an appropriate manner.
 
@@ -8,7 +8,7 @@
 
 (B) After considering the analyses and recommendations of the Under Secretary for Health pursuant to subparagraph (A) of this paragraph for any fiscal year, the Secretary shall report to the committees, on or before December 1 after the close of such fiscal year, on the results of the analysis of the Under Secretary for Health and on the numbers of operating beds and level of treatment capacities required to enable the Department to carry out the primary function of the Veterans Health Administration. The Secretary shall include in each such report recommendations for (i) the numbers of operating beds and the level of treatment capacities required for the health care of veterans and the maintenance of the contingency capacity referred to in paragraph (1) of this subsection, and (ii) the appropriate staffing and funds therefor.
 
-(C) The Secretary shall, in consultation with the Under Secretary for Health, establish a nationwide policy on the staffing of Departmentmedical facilities in order to ensure that such facilities have adequate staff for the provision to veterans of appropriate, high-quality care and services. The policy shall take into account the staffing levels and mixture of staff skills required for the range of care and services provided veterans in Department facilities.
+(C) The Secretary shall, in consultation with the Under Secretary for Health, establish a nationwide policy on the staffing of Department medical facilities in order to ensure that such facilities have adequate staff for the provision to veterans of appropriate, high-quality care and services. The policy shall take into account the staffing levels and mixture of staff skills required for the range of care and services provided veterans in Department facilities.
 
 (4)(A) With respect to each law making appropriations for the Department for any fiscal year (or any part of a fiscal year), there shall be provided to the Department the funded personnel ceiling defined in subparagraph (C) of this paragraph and the funds appropriated therefor.
 
@@ -20,7 +20,7 @@
 
 (6)(A) Temporary research personnel of the Veterans Health Administration shall be excluded from any ceiling on full-time equivalent employees of the Department or any other personnel ceiling otherwise applicable to employees of the Department.
 
-(B) For purposes of subparagraph (A) of this paragraph, the term “temporary research personnel” means personnel who are employed in the Veterans Health Administration in other than a career appointment for work on a research activity and who are not paid by the Department or are paid from funds appropriated to the Department to support such activity.
+(B) For purposes of subparagraph (A) of this paragraph, the term “temporary research personnel” means personnel who are employed in the Veterans Health Administration in otherthan a career appointment for work on a research activity and who are not paid by the Department or are paid from funds appropriated to the Department to support such activity.
 
 (b) When the Secretary determines, in accordance with regulations which the Secretary shall prescribe, that a Department facility serves a substantial number of veterans with limited English-speaking ability, the Secretary shall establish and implement procedures, upon the recommendation of the Under Secretary for Health, to ensure the identification of sufficient numbers of individuals on such facility's staff who are fluent in both the language most appropriate to such veterans and in English and whose responsibilities shall include providing guidance to such veterans and to appropriate Department staff members with respect to cultural sensitivities and bridging linguistic and cultural differences.
 
@@ -60,7 +60,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 #### Amendments
 
-2002—Subsec. (a)(1). Pub. L. 107–314 struck out “at not more than 125,000 and not less than 100,000” before period at end of first sentence, “shall operate and maintain a total of not less than 90,000 hospital beds and nursing home beds and” before “shall maintain the availability” in third sentence, and “to enable the Department to operate and maintain a total of not less than 90,000 hospital and nursing home beds in accordance with this paragraph and” after “construction sufficient” in fourth sentence.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–314 struck out “at not more than 125,000 and not less than 100,000” before period at end of first sentence, “shall operate and maintain a total of not less than 90,000 hospital beds and nursing home beds and” before “shall maintain the availability” in third sentence, and “to enable the Department to operate and maintain a total of not less than 90,000 hospital and nursing home beds in accordance with this paragraph and” after “construction sufficient” in fourth sentence.
 
 Pub. L. 107–135, §124(a)(1), inserted “and in a manner consistent with the policies of the Secretary on overtime,” after “complete care of patients,” in fifth sentence.
 
@@ -70,15 +70,15 @@ Subsec. (a)(3)(A). Pub. L. 107–135, §124(b)(1), inserted “the adequacy of s
 
 Subsec. (a)(3)(C). Pub. L. 107–135, §124(b)(2), added subpar. (C).
 
-1999—Subsecs. (d) to (f). Pub. L. 106–117 added subsecs. (d) to (f).
+<b>1999</b>—Subsecs. (d) to (f). Pub. L. 106–117 added subsecs. (d) to (f).
 
-1996—Subsec. (a)(2). Pub. L. 104–262, §101(e)(4), substituted “section 1710(a)” for “section 1712”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–262, §101(e)(4), substituted “section 1710(a)” for “section 1712”.
 
 Subsec. (c). Pub. L. 104–262, §305, amended subsec. (c) generally, substituting provisions consisting of an introductory par. and pars. (1) and (2), relating to reports on activities and proposals involving contracting for performance by contractor personnel of work previously performed by Department employees for provisions consisting of pars. (1) to (9), relating to conversion of activities at health-care facilities from those performed by Federal employees to those performed by Government contractors.
 
-1995—Subsec. (a)(4). Pub. L. 104–66 substituted “subparagraph (C)” for “subparagraph (D)” in subpars. (A) and (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “Whenever the Director of the Office of Management and Budget is required to submit a certification under subparagraph (B) of this paragraph, the Comptroller General shall submit to the appropriate committees of the Congress a report stating the Comptroller General's opinion as to whether the Director has complied with the requirements of that subparagraph. The Comptroller General shall submit the report not later than fifteen days after the end of the period specified in such subparagraph for the Director to submit the certification.”
+<b>1995</b>—Subsec. (a)(4). Pub. L. 104–66 substituted “subparagraph (C)” for “subparagraph (D)” in subpars. (A) and (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “Whenever the Director of the Office of Management and Budget is required to submit a certification under subparagraph (B) of this paragraph, the Comptroller General shall submit to the appropriate committees of the Congress a report stating the Comptroller General's opinion as to whether the Director has complied with the requirements of that subparagraph. The Comptroller General shall submit the report not later than fifteen days after the end of the period specified in such subparagraph for the Director to submit the certification.”
 
-1994—Subsec. (a)(3)(B), (5), (6). Pub. L. 103–446, §1201(b)(1), substituted “Veterans Health Administration” for “Department of Medicine and Surgery” wherever appearing.
+<b>1994</b>—Subsec. (a)(3)(B), (5), (6). Pub. L. 103–446, §1201(b)(1), substituted “Veterans Health Administration” for “Department of Medicine and Surgery” wherever appearing.
 
 Subsec. (c)(3)(B). Pub. L. 103–446, §1201(d)(17), substituted “section 513 or 7409” for “section 213 or 4117”.
 
@@ -88,9 +88,9 @@ Pub. L. 103–446, §1103, added par. (7) and struck out former par. (7) which r
 
 Subsec. (c)(8), (9). Pub. L. 103–446, §1103, added pars. (8) and (9).
 
-1992—Subsecs. (a)(3), (b), (c)(1), (3)(B). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
+<b>1992</b>—Subsecs. (a)(3), (b), (c)(1), (3)(B). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 5010 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 5010 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1712” for “612” in par. (2).
 
@@ -108,21 +108,21 @@ Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans�
 
 Pub. L. 102–40, §402(d)(1), substituted “8111, 8111A, or 8153” for “5011, 5011A, or 5053” in par. (3)(A).
 
-1988—Subsec. (a)(6). Pub. L. 100–322, §222(a), added par. (6).
+<b>1988</b>—Subsec. (a)(6). Pub. L. 100–322, §222(a), added par. (6).
 
 Subsec. (c)(2). Pub. L. 100–322, §401(a), inserted “responsive bids are received from at least two responsible, financially autonomous bidders and” after “only if”.
 
-1986—Subsec. (a)(1). Pub. L. 99–576 substituted “125,000 and not less than 100,000” for “one hundred and twenty-five thousand and not less than one hundred thousand” and “90,000” for “ninety thousand” in two places.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–576 substituted “125,000 and not less than 100,000” for “one hundred and twenty-five thousand and not less than one hundred thousand” and “90,000” for “ninety thousand” in two places.
 
-1984—Subsec. (a)(4)(C). Pub. L. 98–528 substituted provision requiring the Comptroller General to submit a report stating the Comptroller General's opinion as to whether the Director has complied with subpar. (B) not later than fifteen days after end of period specified in that subparagraph for Director to submit required certification for provision which had required the Comptroller General to submit a report stating the Comptroller General's opinion as to whether the Director has complied with the requirements of any law making appropriations for the Veterans’ Administration for any fiscal year or any part thereof regarding funded personnel ceilings not later than forty-fifth day after enactment of each such law.
+<b>1984</b>—Subsec. (a)(4)(C). Pub. L. 98–528 substituted provision requiring the Comptroller General to submit a report stating the Comptroller General's opinion as to whether the Director has complied with subpar. (B) not later than fifteen days after end of period specified in that subparagraph for Director to submit required certification for provision which had required the Comptroller General to submit a report stating the Comptroller General's opinion as to whether the Director has complied with the requirements of any law making appropriations for the Veterans’ Administration for any fiscal year or any part thereof regarding funded personnel ceilings not later than forty-fifth day after enactment of each such law.
 
-1983—Subsec. (a)(1). Pub. L. 97–452 substituted “section 1105 of title 31” for “section 201(a) of the Budget and Accounting Act, 1921 (31 U.S.C. 11(a))”.
+<b>1983</b>—Subsec. (a)(1). Pub. L. 97–452 substituted “section 1105 of title 31” for “section 201(a) of the Budget and Accounting Act, 1921 (31 U.S.C. 11(a))”.
 
 Subsec. (c)(2)(B). Pub. L. 98–160 substituted “quantity and quality” for “quantity or quality”.
 
-1982—Subsec. (c). Pub. L. 97–306 added subsec. (c).
+<b>1982</b>—Subsec. (c). Pub. L. 97–306 added subsec. (c).
 
-1981—Subsec. (a)(1). Pub. L. 97–72, §108(a)(1), struck out provision authorizing the Administrator, subject to the approval of the President to establish and operate not less than 125,000 hospital beds in medical facilities over which the Administrator has direct jurisdiction for the care and treatment of eligible veterans and substituted therefor provisions directing the Administrator to establish a total number of hospital beds and nursing home beds in medical facilities over which the Administrator has direct jurisdiction for the care and treatment of eligible veterans at not more than one hundred and twenty-five thousand and not less than one hundred thousand, and provided that the Administrator establish the total number of such beds so as to maintain a contingency capacity to assist the Department of Defense in time of war or national emergency to care for the casualties of such war or national emergency, that of the number of beds authorized pursuant to the preceding sentence, the Administrator operate and maintain a total of not less than ninety thousand hospital beds and nursing home beds and maintain the availability of such additional beds and facilities in addition to the operating bed level as the Administrator considers necessary for such contingency purposes, and that the President include in the Budget transmitted to the Congress for each fiscal year pursuant to section 201(a) of the Budget and Accounting Act, 1921 (31 U.S.C. 11(a)), an amount for medical care and amounts for construction.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–72, §108(a)(1), struck out provision authorizing the Administrator, subject to the approval of the President to establish and operate not less than 125,000 hospital beds in medical facilities over which the Administrator has direct jurisdiction for the care and treatment of eligible veterans and substituted therefor provisions directing the Administrator to establish a total number of hospital beds and nursing home beds in medical facilities over which the Administrator has direct jurisdiction for the care and treatment of eligible veterans at not more than one hundred and twenty-five thousand and not less than one hundred thousand, and provided that the Administrator establish the total number of such beds so as to maintain a contingency capacity to assist the Department of Defense in time of war or national emergency to care for the casualties of such war or national emergency, that of the number of beds authorized pursuant to the preceding sentence, the Administrator operate and maintain a total of not less than ninety thousand hospital beds and nursing home beds and maintain the availability of such additional beds and facilities in addition to the operating bed level as the Administrator considers necessary for such contingency purposes, and that the President include in the Budget transmitted to the Congress for each fiscal year pursuant to section 201(a) of the Budget and Accounting Act, 1921 (31 U.S.C. 11(a)), an amount for medical care and amounts for construction.
 
 Subsec. (a)(3). Pub. L. 97–72, §108(a)(2), struck out provision requiring that the Chief Medical Director periodically analyze agencywide admission policies and the records of those eligible veterans who apply for hospital care and medical services and annually advise each committee of the results and the added requirements which those results indicate and substituted therefor provisions that the Chief Medical Director, at the end of each fiscal year, (i) analyze agencywide admission policies and the records of those eligible veterans who apply for hospital care, medical services and nursing home care, but are rejected or not immediately admitted or provided such care or services, and (ii) review and made recommendations regarding the adequacy of the established operating bed levels, the geographic distribution of operating beds, the demographic characteristics of the veteran population and the associated need for medical care and nursing home facilities and services in each State, and the proportion of the total number of operating beds that are hospital beds and that are nursing home beds, and that, after considering the analyses and recommendations of the Chief Medical Director pursuant to subparagraph (A) of this paragraph for any fiscal year, the Administrator report to the committees, on or before December 1 after the close of such fiscal year, on the results of the analysis of the Chief Medical Director and on the required number of beds and the level of treatment capacities required.
 
@@ -136,7 +136,7 @@ Subsec. (a)(5). Pub. L. 97–66, §601(b)(2), added par. (5).
 
 Subsecs. (b), (c). Pub. L. 97–72, §108(b), redesignated subsec. (c) as (b). Former subsec. (b), authorizing the Administrator to establish, subject to the approval of the President, not less than twelve thousand beds during fiscal year 1980, and during each fiscal year thereafter, for the furnishing of nursing home care to eligible veterans in facilities over which the Administrator has direct jurisdiction, was struck out.
 
-1979—Subsec. (a)(4). Pub. L. 96–151 added par. (4).
+<b>1979</b>—Subsec. (a)(4). Pub. L. 96–151 added par. (4).
 
 #### Effective Date of 2002 Amendment
 
@@ -156,7 +156,7 @@ Amendment by section 601(b)(2) of Pub. L. 97–66 effective Oct. 17, 1981, see s
 
 #### Effective Date of 1979 Amendment
 
-Section 301(b) of Pub. L. 96–151 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect with respect to Public Law 96–103 \[Nov. 5, 1979, 93 Stat. 771\], but, with respect to such Public Law, the certification and report required by subparagraph (B) of paragraph (4) of section 5010 \[now 8110\] of title 38, United States Code (as added by such amendment), and the report required by subparagraph (C) of such paragraph (as added by such amendment) shall be submitted to the appropriate committees ofthe Congress not later than January 15, 1980, and February 1, 1980, respectively.”
+Section 301(b) of Pub. L. 96–151 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect with respect to Public Law 96–103 \[Nov. 5, 1979, 93 Stat. 771\], but, with respect to such Public Law, the certification and report required by subparagraph (B) of paragraph (4) of section 5010 \[now 8110\] of title 38, United States Code (as added by such amendment), and the report required by subparagraph (C) of such paragraph (as added by such amendment) shall be submitted to the appropriate committees of the Congress not later than January 15, 1980, and February 1, 1980, respectively.”
 
 #### Inventory of Medical Waste Management Activities at Department of Veterans Affairs Health Care Facilities
 

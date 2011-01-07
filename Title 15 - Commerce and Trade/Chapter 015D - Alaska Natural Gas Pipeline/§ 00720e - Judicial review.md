@@ -48,5 +48,5 @@ Section is comprised of section 107 of Pub. L. 108–324. Subsec. (d) of section
 
 #### Amendments
 
-2009—Subsec. (a)(3). Pub. L. 111–11 added par. (3) and struck out former par. (3) which read as follows: “the adequacy of any environmental impact statement prepared under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to any action under this chapter.”
+<b>2009</b>—Subsec. (a)(3). Pub. L. 111–11 added par. (3) and struck out former par. (3) which read as follows: “the adequacy of any environmental impact statement prepared under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to any action under this chapter.”
 

@@ -116,7 +116,7 @@ Nothing in this section may be construed to prevent a public housing agency from
 
 #### (f) De minimis exception to demolition requirements
 
-Notwithstanding any other provision of this section, in any 5-year period a public housingagency may demolish not more than the lesser of 5 dwelling units or 5 percent of the total dwelling units owned by the public housing agency, but only if the space occupied by the demolished unit is used for meeting the service or other needs of public housing residents or the demolished unit was beyond repair.
+Notwithstanding any other provision of this section, in any 5-year period a public housing agency may demolish not more than the lesser of 5 dwelling units or 5 percent of the total dwelling units owned by the public housing agency, but only if the space occupied by the demolished unit is used for meeting the service or other needs of public housing residents or the demolished unit was beyond repair.
 
 #### (g) Uniform Relocation and Real Property Acquisition Act
 
@@ -134,11 +134,11 @@ The Uniform Relocation and Real Property Acquisition Policies Act of 1970, refer
 
 #### Amendments
 
-1998—Pub. L. 105–276 amended section generally. Prior to amendment, subsec. (a) required the Secretary to make certain determinations before approving the demolition or disposition of all or part of a public housing project; subsec. (b) required public housing agency consultation with tenants and provision of relocation assistance; subsec. (c) authorized financial assistance using section 1437c contributions; subsec. (d) provided that agency would not be prevented from consolidating occupancy within or among buildings or projects; subsec. (e) provided set-asides for replacement housing in fiscal years 1993 and 1994; subsec. (f) authorized construction on original site if number of new units would be less than number of demolished units; and subsec. (g) declared that this section did not apply to dispositions in accordance with approved homeownership program under subchapter II–A of this chapter.
+<b>1998</b>—Pub. L. 105–276 amended section generally. Prior to amendment, subsec. (a) required the Secretary to make certain determinations before approving the demolition or disposition of all or part of a public housing project; subsec. (b) required public housing agency consultation with tenants and provision of relocation assistance; subsec. (c) authorized financial assistance using section 1437c contributions; subsec. (d) provided that agency would not be prevented from consolidating occupancy within or among buildings or projects; subsec. (e) provided set-asides for replacement housing in fiscal years 1993 and 1994; subsec. (f) authorized construction on original site if number of new units would be less than number of demolished units; and subsec. (g) declared that this section did not apply to dispositions in accordance with approved homeownership program under subchapter II–A of this chapter.
 
-1996—Subsec. (f). Pub. L. 104–134 inserted at end “No one may rely on the preceding sentence as the basis for reconsidering a final order of a court issued, or a settlement approved, by a court.”
+<b>1996</b>—Subsec. (f). Pub. L. 104–134 inserted at end “No one may rely on the preceding sentence as the basis for reconsidering a final order of a court issued, or a settlement approved, by a court.”
 
-1995—Subsec. (b)(1). Pub. L. 104–19, §1002(a)(1), inserted “and” after “housing assistance plan;”.
+<b>1995</b>—Subsec. (b)(1). Pub. L. 104–19, §1002(a)(1), inserted “and” after “housing assistance plan;”.
 
 Subsec. (b)(2). Pub. L. 104–19, §1002(a)(2), substituted “, and the public housing agency provides for the payment of the relocation expenses of each tenant to be displaced, ensures that the rent paid by the tenant following relocation will not exceed the amount permitted under this chapter and shall not commence demolition or disposition of any unit until the tenant of the unit is relocated.” for “; and”.
 
@@ -156,11 +156,11 @@ Subsec. (e). Pub. L. 104–19, §1002(a)(7), which directed the striking of “u
 
 Subsecs. (f), (g). Pub. L. 104–19, §1002(a)(8), (9), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1992—Subsec. (a)(3). Pub. L. 102–550, §111(b)(2), added par. (3).
+<b>1992</b>—Subsec. (a)(3). Pub. L. 102–550, §111(b)(2), added par. (3).
 
 Subsec. (b)(1). Pub. L. 102–550, §116(a), inserted “of the project or portion of the project covered by the application” after “tenant cooperative”.
 
-Subsec. (b)(3). Pub. L. 102–550, §116(b)(5), inserted at end “except that, in any 5-year period, a public housing agency may demolish not more than the lesser of 5 dwelling units or 5 percent of the total dwelling units owned and operated by the public housing agency, without providing an additional dwelling unit for each such public housing dwelling unit to be demolished, but only if the space occupied by the demolished unit is used for meeting the service or other needs of public housing residents.”
+Subsec. (b)(3). Pub. L. 102–550, §116(b)(5), inserted at end “except that, in any 5-year period, a public housing agency may demolish not more than the lesser of 5dwelling units or 5 percent of the total dwelling units owned and operated by the public housing agency, without providing an additional dwelling unit for each such public housing dwelling unit to be demolished, but only if the space occupied by the demolished unit is used for meeting the service or other needs of public housing residents.”
 
 Subsec. (b)(3)(A)(ii). Pub. L. 102–550, §116(b)(1)(A), inserted before semicolon at end “to the extent available; or if such assistance is not available, in the case of an application proposing demolition or disposition of 200 or more units, the use of available project-based assistance under section 1437f of this title having a term of not less than 5 years”.
 
@@ -180,7 +180,7 @@ Subsec. (b)(3)(H). Pub. L. 102–550, §116(b)(3), redesignated subpar. (G) as (
 
 Subsecs. (e), (f). Pub. L. 102–550, §116(c), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1990—Subsec. (a)(2)(A)(i). Pub. L. 101–625, §572(2), substituted “low-income housing” for “lower income housing” wherever appearing.
+<b>1990</b>—Subsec. (a)(2)(A)(i). Pub. L. 101–625, §572(2), substituted “low-income housing” for “lower income housing” wherever appearing.
 
 Subsec. (a)(2)(B). Pub. L. 101–625, §572, substituted “low-income families” for “lower income families” and “low-income housing” for “lower income housing” wherever appearing.
 
@@ -194,7 +194,7 @@ Subsec. (c)(3). Pub. L. 101–625, §513(c), struck out par. (3) which read as f
 
 Subsec. (e). Pub. L. 101–625, §412(b), added subsec. (e).
 
-1988—Subsec. (a)(1). Pub. L. 100–242, §121(a), substituted “and” for “or” after “purposes,”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–242, §121(a), substituted “and” for “or” after “purposes,”.
 
 Subsec. (b). Pub. L. 100–242, §170(f), inserted “or” after “under this section”.
 

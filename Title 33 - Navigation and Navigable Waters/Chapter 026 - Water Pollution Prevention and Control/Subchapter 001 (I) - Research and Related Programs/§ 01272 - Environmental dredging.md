@@ -16,7 +16,7 @@ Whenever necessary to meet the requirements of the Federal Water Pollution Contr
 
 #### (c) Joint plan requirement
 
-The Secretary may only remove and remediate contaminated sediments under subsection (b) of this section in accordance with a joint plan developed by the Secretary and interested Federal, State, and local government officials.Such plan must include an opportunity for public comment, a description of the work to be undertaken, the method to be used for dredged material disposal, the roles and responsibilities of the Secretary and non-Federal sponsors, and identification of sources of funding.
+The Secretary may only remove and remediate contaminated sediments under subsection (b) of this section in accordance with a joint plan developed by the Secretary and interested Federal, State, and local government officials. Such plan must include an opportunity for public comment, a description of the work to be undertaken, the method to be used for dredged material disposal, the roles and responsibilities of the Secretary and non-Federal sponsors, and identification of sources of funding.
 
 #### (d) Disposal costs
 
@@ -66,9 +66,9 @@ Section was enacted as part of the Water Resources Development Act of 1990, and 
 
 #### Amendments
 
-2000—Subsec. (g). Pub. L. 106–541 added subsec. (g).
+<b>2000</b>—Subsec. (g). Pub. L. 106–541 added subsec. (g).
 
-1999—Subsec. (b)(1). Pub. L. 106–53, §224(1)(A), substituted “35 percent” for “50 percent”.
+<b>1999</b>—Subsec. (b)(1). Pub. L. 106–53, §224(1)(A), substituted “35 percent” for “50 percent”.
 
 Subsec. (b)(2). Pub. L. 106–53, §224(1)(B), substituted “$50,000,000” for “$20,000,000”.
 
@@ -76,7 +76,7 @@ Subsec. (d). Pub. L. 106–53, §224(2), substituted “shared as a cost of cons
 
 Subsec. (f)(6) to (8). Pub. L. 106–53, §224(3), added pars. (6) to (8).
 
-1996—Subsec. (a). Pub. L. 104–303, §205(1), inserted “and remediate” after “remove”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–303, §205(1), inserted “and remediate” after “remove”.
 
 Subsec. (b)(1). Pub. L. 104–303, §205(1), (2)(A), inserted “and remediate” after “remove” and inserted “and remediation” after “removal” in two places.
 

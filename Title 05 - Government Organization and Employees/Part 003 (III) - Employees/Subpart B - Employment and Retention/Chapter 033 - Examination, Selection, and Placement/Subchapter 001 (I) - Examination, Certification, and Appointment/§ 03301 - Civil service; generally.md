@@ -234,7 +234,7 @@ Section 2. Section 1 of this order shall become effective on January 1, 1942, ex
 
 Section 3. (a) Upon consideration of the report of the Committee on Civil Service Improvement (House Document No. 118, 77th Congress) appointed by Executive Order No. 8044 of January 31, 1939, it is hereby found and determined that the regulations and procedures hereinafter prescribed in this section with respect to attorney positions in the classified civil service are required by the conditions of good administration.
 
-(b) There is hereby created in the Office of Personnel Management (hereinafter referred to as the Office) aboard to be known as the Board of Legal Examiners (hereinafter referred to as the Board). The Board shall consist of the Solicitor General of the United States and the chief law officer of the Office of Personnel Management, as members <i>ex officio</i>, and nine members to be appointed by the President, four of whom shall be attorneys chosen from the chief officers of the Executive departments, agencies or corporate instrumentalities of the Government, two from the law-teaching profession, and three from attorneys engaged in private practice. The President shall designate the chairman of the Board. Five members shall constitute a quorum, and the Board may transact business notwithstanding vacancies thereon. Members of the Board shall receive no salary as such, but shall be entitled to necessary expenses incurred in the performance of their duties hereunder.
+(b) There is hereby created in the Office of Personnel Management (hereinafter referred to as the Office) a board to be known as the Board of Legal Examiners (hereinafter referred to as the Board). The Board shall consist of the Solicitor General of the United States and the chief law officer of the Office of Personnel Management, as members <i>ex officio</i>, and nine members to be appointed by the President, four of whom shall be attorneys chosen from the chief officers of the Executive departments, agencies or corporate instrumentalities of the Government, two from the law-teaching profession, and three from attorneys engaged in private practice. The President shall designate the chairman of the Board. Five members shall constitute a quorum, and the Board may transact business notwithstanding vacancies thereon. Members of the Board shall receive no salary as such, but shall be entitled to necessary expenses incurred in the performance of their duties hereunder.
 
 (c) It shall be the duty of the Board to promote the development of a merit system for the recruitment, selection, appointment, promotion, and transfer of attorneys in the classified civil service in accordance with the general procedures outlined in Plan A of the report of the Committee on Civil Service Improvement, appointed by Executive Order No. 8044 of January 31, 1939.
 
@@ -262,7 +262,7 @@ Section 5. Persons who on the effective date of section 1 of this order are on f
 
 Section 6. (a) Any person who, in order to perform active service with the military or naval forces of the United States, has left a position (other than a temporary position) which is covered into the classified civil service under section 1 of this order, shall be reinstated in such position or to a position of like seniority, status, and pay in the same department or agency, and may, upon reinstatement, acquire a classified civil-service status: <i>Provided</i>, (1) that he has been honorably discharged from the military or naval service, (2) that he makes application for reinstatement within 90 days after termination of his service with the armed forces or of hospitalization continuing after discharge for a period of not more than one year, and (3) that he qualifies in such suitable noncompetitive examination as the Office may prescribe.
 
-(b) Any person who, in order to perform active service with the military or naval forces of the United States, has left a position in any department or agency (other than a temporary position) which is covered into the classified civil service under section 1 of this order, may, upon his applications and upon the request of the head of the same or any other department or agency, be reinstated in any position for which the Office finds he is qualified, and upon reinstatement shall acquire a classified civil-service status: <i>Provided</i>, (1) that he has been honorably discharged from the military or naval service, and (2) that he qualifies in such suitable noncompetitive examination as the Office may prescribe.
+(b) Any person who, in order to perform active service with the military or naval forces of the United States, has left a position in any department or agency (other than a temporary position) which is covered into the classified civil service under section 1 of this order, may, upon his applications and upon the request of the head of the same or any other department or agency, be reinstated in any position for which the Office finds he is qualified, and upon reinstatement shall acquire a classified civil-service status: <i>Provided</i>, (1) that he has been honorably discharged from the military or navalservice, and (2) that he qualifies in such suitable noncompetitive examination as the Office may prescribe.
 
 Section 7. Executive Order No. 8044 of January 31, 1939, is hereby revoked so far as it applies to positions covered into the classified civil service by this order.
 
@@ -344,7 +344,7 @@ Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 11162
 
-Ex. Ord. No. 11162, July 28, 1964, 29 F.R. 10563, which related to membership of the President's Committee on Equal Employment Opportunity, was superseded by Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, set out as a note under section 2000e of Title 42, The Public Health and Welfare.
+Ex. Ord. No. 11162, July 28, 1964, 29 F.R. 10563, which related to membership of the President's Committee onEqual Employment Opportunity, was superseded by Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, set out as a note under section 2000e of Title 42, The Public Health and Welfare.
 
 #### Executive Order No. 11202
 
@@ -412,11 +412,11 @@ Sec. 3. A person appointed to a nontemporary position in the competitive service
 
 Sec. 4. Any law, Executive order, or regulation that would disqualify an applicant for appointment in the competitive service shall also disqualify a person for appointment under Section 1 of this Order.
 
-Sec. 5. For the purpose of this Order, a person is deemed to be a member of the “Foreign Service” if he was appointed in any agency under authority of the Foreign Service Act of 1946, as amended \[former section 801 et seq. of Title 22, Foreign Relations and Intercourse\], the Foreign Service Act of 1980 \[section 3901 et seq. of Title 22\], or legislation that supplements or replaces the latter Act.
+Sec. 5. For the purpose of this Order, a person is deemed to be a member of the “Foreign Service” if he was appointed in any agency under authority of the Foreign Service Act of 1946, as amended \[former section801 et seq. of Title 22, Foreign Relations and Intercourse\], the Foreign Service Act of 1980 \[section 3901 et seq. of Title 22\], or legislation that supplements or replaces the latter Act.
 
 #### Executive Order No. 11315
 
-Ex. Ord. No. 11315, Nov. 17, 1966, 31 F.R. 14729, as amended by Ex. Ord. No. 12107, §2–101(a), Dec. 28, 1978, 44 F.R. 1055, added Civil Service Rule IX and amended Civil Service Rule VI, provided for transition to the full establishment of executive assignments under RuleIX, and delegated responsibility for the administration of the executive assignment system established by this Order to the Office of Personnel Management and heads of agencies affected by Rule IX. Civil Service Rule IX, as established by this Order, was revoked by Ex. Ord. No. 12748, §8(a), Feb. 1, 1991, 56 F.R. 4521, set out under section 5301 of this title.
+Ex. Ord. No. 11315, Nov. 17, 1966, 31 F.R. 14729, as amended by Ex. Ord. No. 12107, §2–101(a), Dec. 28, 1978, 44 F.R. 1055, added Civil Service Rule IX and amended Civil Service Rule VI, provided for transition to the full establishment of executive assignments under Rule IX, and delegated responsibility for the administration of the executive assignment system established by this Order to the Office of Personnel Management and heads of agencies affected by Rule IX. Civil Service Rule IX, as established by this Order, was revoked by Ex. Ord. No. 12748, §8(a), Feb. 1, 1991, 56 F.R. 4521, set out under section 5301 of this title.
 
 #### Executive Order No. 11598
 
@@ -474,6 +474,8 @@ Sec. 4. Students converted to term appointment under section 2 may subsequently 
 
 Sec. 5. Executive Order No. 11813 of October 7, 1974, is hereby revoked.
 
+\[Ex. Ord. No. 12015, set out above, is revoked on the effective date of final regulations promulgated by the Director of OPM to implement the Internship Program, see Ex. Ord. No. 13562, §8(b), Dec. 27, 2010, 75 F.R. 82588, set out below.\]
+
 #### Executive Order No. 12026
 
 For provisions relating to eligibility for reinstatement in the competitive civil service of certain employees of the Energy Department, see Ex. Ord. No. 12026, Dec. 5, 1977, 42 F.R. 61849, set out as a note under section 7292 of Title 42, The Public Health and Welfare.
@@ -488,7 +490,7 @@ Ex. Ord. No. 12362, May 12, 1982, 47 F.R. 21231, as amended by Ex. Ord. No. 1258
 
 #### Executive Order No. 12364
 
-Ex. Ord. No. 12364, May 24, 1982, 47 F.R. 22931, as amended by Ex. Ord. No. 12645, July 12, 1988, 53 F.R.26750, which related to the Presidential Management Intern Program, was superseded by Ex. Ord. No. 13318, Nov. 21, 2003, 68 F.R. 66317, set out below.
+Ex. Ord. No. 12364, May 24, 1982, 47 F.R. 22931, as amended by Ex. Ord. No. 12645, July 12, 1988, 53 F.R. 26750, which related to the Presidential Management Intern Program, was superseded by Ex. Ord. No. 13318, Nov. 21, 2003, 68 F.R. 66317, set out below.
 
 #### Ex. Ord. No. 12505. Career Appointments to Certain Office of Management and Budget Employees
 
@@ -562,7 +564,7 @@ Ex. Ord. No. 12721, July 30, 1990, 55 F.R. 31349, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including sections 3301 and 3302 of title 5 and section 301 of title 3 of the United States Code, and in order to permit certain overseas employees to acquire competitive status upon returning to the United States, it is hereby ordered as follows:
 
-Section 1. A United States citizen who is a family member of a Federal civilian employee, of a nonappropriated fund employee, or of a member of a uniformed service and who meets the qualifications and other requirements established by the Director of the Office of Personnel Management, including an appropriate period of satisfactory service under one or more overseas appointments in the excepted or competitive civil service, may be appointed noncompetitively to a competitive service position in the executive branch within the United States (including Guam, Puerto Rico, and the Virgin Islands). The employing agency inthe United States may waive a requirement for a written test for an individual appointed under this order if the agency determines that the duties and responsibilities of the position occupied overseas were similar enough to those of the position to which the individual is being appointed under this order to make the written test unnecessary.
+Section 1. A United States citizen who is a family member of a Federal civilian employee, of a nonappropriated fund employee, or of a member of a uniformed service and who meets the qualifications and other requirements established by the Director of the Office of Personnel Management, including an appropriate period of satisfactory service under one or more overseas appointments in the excepted or competitive civil service, may be appointed noncompetitively to a competitive service position in the executive branch within the United States (including Guam, Puerto Rico, and the Virgin Islands). The employing agency in the United States may waive a requirement for a written test for an individual appointed under this order if the agency determines that the duties and responsibilities of the position occupied overseas were similar enough to those of the position to which the individual is being appointed under this order to make the written test unnecessary.
 
 Sec. 2. The Director of the Office of Personnel Management shall prescribe such regulations as may be necessary to implement this order.
 
@@ -626,7 +628,7 @@ Sec. 4. (a) A successful candidate shall be appointed to a position in Schedule 
 
 &emsp;(4) Competitive civil service status may be granted to a Career Intern who satisfactorily completes the internship and meets all other requirements prescribed by the OPM.
 
-&emsp;(5) Within an agency, an employee who formerly held a career or career-conditional appointment immediately before entering the Career Intern Program, and who fails to complete the Career Intern Program for reasons unrelated to misconduct or suitability, shall be placed in a career or career-conditional position in the current agency at no lower grade or pay than the one the employee left to accept the position in the Career Intern Program.
+&emsp;(5) Within an agency, an employee who formerly held a career or career-conditional appointment immediately before entering the Career Intern Program,and who fails to complete the Career Intern Program for reasons unrelated to misconduct or suitability, shall be placed in a career or career-conditional position in the current agency at no lower grade or pay than the one the employee left to accept the position in the Career Intern Program.
 
 Sec. 5. A Career Intern shall participate in a formal program of training and job assignments to develop competencies that the OPM identifies as core to the Program, and the employing agency identifies as appropriate to the agency's mission and needs.
 
@@ -639,6 +641,8 @@ Sec. 8. Executive Order 12596 of May 7, 1987, is revoked.
 Sec. 9. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch. It does not create any right or benefit, substantive or procedural, enforceable in law or equity, by a party against the United States, its agencies, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[Ex. Ord. No. 13162, set out above, is revoked effective Mar. 1, 2011, see Ex. Ord. No. 13562, §8(a), Dec. 27, 2010, 75 F.R. 82588, set out below.\]
 
 #### Ex. Ord. No. 13318. Presidential Management Fellows Program
 
@@ -690,6 +694,8 @@ Sec. 8. This order is not intended to, and does not, create any right or benefit
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+\[Ex. Ord. No. 13318, set out above, is revoked on the effective date of final regulations promulgated by the Director of OPM to implement required changes to the PMF Program, see Ex. Ord. No. 13562, §8(c), Dec. 27, 2010, 75 F.R. 82588, set out below.\]
+
 #### Ex. Ord. No. 13473. To Authorize Certain Noncompetitive Appointments in the Civil Service for Spouses of Certain Members of the Armed Forces
 
 Ex. Ord. No. 13473, Sept. 25, 2008, 73 F.R. 56703, provided:
@@ -706,7 +712,7 @@ Sec. 2. <i>Definitions</i>. As used in this order:
 
 (c) the term “active duty” means full-time duty in an armed force and includes full-time National Guard duty, except that, for Reserve Component members, the term “active duty” does not include training duties or attendance at service schools.
 
-(d) the term “permanent change of station” means the assignment, detail, or transfer of a member of theArmed Forces serving at a present permanent duty station to a different permanent duty station under a competent authorization or order that does not:
+(d) the term “permanent change of station” means the assignment, detail, or transfer of a member of the Armed Forces serving at a present permanent duty station to a different permanent duty station under a competent authorization or order that does not:
 
 &emsp;(i) specify the duty as temporary;
 
@@ -806,7 +812,7 @@ Sec. 2. <i>Council on Veterans Employment</i>. There is hereby established an in
 
 A member of the Council may designate, to perform the Council functions of the member, a senior official who is part of the member's agency, and who is a full-time officer or employee of the Federal Government.
 
-(c) Administration of the Council. The Co-Chairs shall convene meetings of the Council, determine its agenda, and direct its work. At the direction of the Co-Chairs, the Council may establish subgroups consisting exclusively of Council members or their designees, as appropriate. The Vice Chair shall designate an Executive Director for the Council to support the Vice Chair in managing the Council's activities. The OPM shall provide administrative support for the Council to the extent permitted by law and within existing appropriations.
+(c) Administration of the Council. The Co-Chairs shall convene meetings of the Council, determine its agenda, and direct its work. At the direction of the Co-Chairs, the Council may establish subgroups consistingexclusively of Council members or their designees, as appropriate. The Vice Chair shall designate an Executive Director for the Council to support the Vice Chair in managing the Council's activities. The OPM shall provide administrative support for the Council to the extent permitted by law and within existing appropriations.
 
 (d) Steering Committee. There is established within the Council a Steering Committee consisting of the Secretaries of Defense, Labor, Veterans Affairs, and Homeland Security, the Director of OPM, and any other Council member designated by the Co-Chairs. The Steering Committee shall be responsible for providing leadership, accountability, and strategic direction to the Council.
 
@@ -873,6 +879,198 @@ Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13562. Recruiting and Hiring Students and Recent Graduates
+
+Ex. Ord. No. 13562, Dec. 27, 2010, 75 F.R. 82585, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301 and 3302 of title 5, United States Code, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. The Federal Government benefits from a diverse workforce that includes students and recent graduates, who infuse the workplace with their enthusiasm, talents, and unique perspectives. The existing competitive hiring process for the Federal civil service, however, is structured in a manner that, even at the entry level, favors job applicants who have significant previous work experience. This structure, along with the complexity of the rules governing admission to the career civil service, creates a barrier to recruiting and hiring students and recent graduates. It places the Federal Government at a competitive disadvantage compared to private-sector employers when it comes to hiring qualified applicants for entry-level positions.
+
+To compete effectively for students and recent graduates, the Federal Government must improve its recruiting efforts; offer clear paths to Federal internships for students from high school through post-graduate school; offer clear paths to civil service careers for recent graduates; and provide meaningful training, mentoring, and career-development opportunities. Further, exposing students and recent graduates to Federal jobs through internships and similar programs attracts them to careers in the Federal Government and enables agency employers to evaluate them on the job to determine whether they are likely to have successful careers in Government.
+
+Accordingly, pursuant to my authority under 5 U.S.C. 3302(1), and in order to achieve a workforce that represents all segments of society as provided in 5 U.S.C. 2301(b)(1), I find that conditions of good administration (specifically, the need to promote employment opportunities for students and recent graduates in the Federal workforce) make necessary an exception to the competitive hiring rules for certain positions in the Federal civil service.
+
+Sec. 2. <i>Establishment</i>. There are hereby established the Internship Program and the Recent Graduates Program, which, along with the Presidential Management Fellows Program, as modified herein, shall collectively be known as the Pathways Programs. I therefore direct the Director of the Office of Personnel Management (OPM) to issue regulations implementing the Pathways Programs consistent with this order, including:
+
+(a) a description of the positions that executive departments and agencies (agencies) may fill through the Pathways Programs because conditions of good administration necessitate excepting those positions from the competitive hiring rules;
+
+(b) rules governing whether, to what extent, and in what manner public notice should be provided of job opportunities in the Pathways Programs;
+
+(c) a description of career-development, training, and mentorship opportunities for participants in the Pathways Programs;
+
+(d) requirements that managers meaningfully assess the performance of participants in the Pathways Programs to identify those who should be considered for conversion to career civil service positions;
+
+(e) a description of OPM oversight of agency use of the Pathways Programs to ensure that (i) they serve as a supplement to, and not a substitute for, the competitive hiring process, and (ii) agencies are using the Pathways Programs in a genuine effort to develop talent for careers in the civil service;
+
+(f) a description of OPM plans to evaluate agencies’ effectiveness in recruiting and retaining talent using the Pathways Programs and of the satisfaction of Pathways Programs participants and their hiring managers; and
+
+(g) standard naming conventions across agencies, so that students and recent graduates can clearly understand and compare the career pathway opportunities available to them in the Federal Government.
+
+Sec. 3. <i>Internship Program</i>. The Internship Program shall provide students in high schools, community colleges, 4-year colleges, trade schools, career and technical education programs, and other qualifying educational institutions and programs, as determined by OPM, with paid opportunities to work in agencies and explore Federal careers while still in school. The Internship Program would replace the existing Student Career Experience Program, established pursuant to Executive Order 12015 of October 26, 1977. The following principles and policies shall govern the Internship Program:
+
+(a) Participants in the program shall be referred to as “Interns” and shall be students enrolled, or accepted for enrollment, in qualifying educational institutions and programs, as determined by OPM.
+
+(b) Subject to any exceptions OPM may establish by regulation, agencies shall provide Interns with meaningful developmental work and set clear expectations regarding the work experience of the intern.
+
+(c) Students employed by third-party internship providers but placed in agencies may, to the extent permitted by OPM regulations, be treated as participants in the Internship Program.
+
+Sec. 4. <i>Recent Graduates Program</i>. The Recent Graduates Program shall provide individuals who have recently graduated from qualifying educational institutions or programs with developmental experiences in the Federal Government intended to promote possible careers in the civil service. The following principles and policies shall govern the Recent Graduates Program:
+
+(a) Participants in the program shall be referred to as “Recent Graduates” and must have obtained a qualifying degree, or completed a qualifying career or technical education program, as determined by OPM, within the preceding 2 years, except that veterans who, due to their military service obligation, were precluded from participating in the Recent Graduates Program during the 2-year period after obtaining a qualifying degree or completing a qualifying program shall be eligible to participate in the Program within 6 years of obtaining a qualifying degree or completing a qualifying program.
+
+(b) Responsibilities assigned to a Recent Graduate shall be consistent with his or her qualifications, educational background, and career interests, the purpose of the Recent Graduates Program, and agency needs.
+
+Sec. 5. <i>Presidential Management Fellows Program</i>. The Presidential Management Fellows (PMF) Program is an existing program established pursuant to Executive Order 13318 of November 21, 2003, that aims to attract to the Federal service outstanding men and women from a variety of academic disciplines at the graduate level who have a clear interest in, and commitment to, the leadership and management of public policies and programs. The following requirements shall govern the PMF Program upon the revocation of Executive Order 13318, as provided in section 8 of this order:
+
+(a) Participants in this program shall continue to be known as Presidential Management Fellows (PMFs or Fellows) and must have received, within the preceding 2 years, a qualifying advanced degree, as determined by OPM.
+
+(b) Responsibilities assigned to a PMF shall be consistent with the PMF's qualifications, educational background, and career interests, the purposes of the PMF Program, and agency needs.
+
+(c) OPM shall establish the eligibility requirements and minimum qualifications for the program, as well as a process for assessing eligible individuals for consideration for appointment as PMFs.
+
+Sec. 6. <i>Appointment and Conversion</i>. (a) Appointments to any of the Pathways Programs shall be under Schedule D of the excepted service, as established by section 7 of this order.
+
+(b) Appointments to the Recent Graduates or PMF Programs shall not exceed 2 years, unless extended by the employing agency for up to 120 days thereafter.
+
+(c) Appointment to a Pathways Program shall confer no right to further Federal employment in either the competitive or excepted service upon the expiration of the appointment, except that agencies may convert eligible participants noncompetitively to term, career, or career conditional appointments after satisfying requirements to be established by OPM, and agencies may noncompetitively convert participants who wereinitially converted to a term appointment under this section to a career or career-conditional appointment before the term appointment expires.
+
+Sec. 7. <i>Implementation</i>. (a) \[Amended Civil Service Rule VI.\]
+
+(b) The Director of OPM shall:
+
+(i) promulgate such regulations as the Director determines may be necessary to implement this order;
+
+(ii) provide oversight of the Pathways Programs;
+
+(iii) establish, if appropriate, a Government-wide cap on the number of noncompetitive conversions to the competitive service of Interns, Recent Graduates, or PMFs (or a Government-wide combined conversion cap applicable to all three categories together);
+
+(iv) administer, and review and revise annually or as needed, any Government-wide cap established pursuant to this subsection;
+
+(v) provide guidance on conducting an orderly transition from existing student and internship programs to the Pathways Programs established pursuant to this order; and
+
+(vi) consider for publication in the Federal Register at an appropriate time a proposed rule seeking public comment on the elimination of the Student Temporary Employment Program, established through OPM regulations at 5 CFR 213.3202(a).
+
+(c) In accordance with regulations prescribed pursuant to this order and applicable law, agencies shall:
+
+(i) use appropriate merit-based procedures for recruitment, assessment, placement, and ongoing career development for participants in the Pathways Programs;
+
+(ii) provide for equal employment opportunity in the Pathways Programs without regard to race, ethnicity, color, religion, sex, national origin, age, disability, sexual orientation, or any other non-merit-based factor;
+
+(iii) apply veterans’ preference criteria; and
+
+(iv) within 45 days of the date of this order, designate a Pathways Programs Officer (at the agency level, or at bureaus or components within the agency) to administer Pathways Programs, to serve as liaison with OPM, and to report to OPM on the implementation of the Pathways Programs and the individuals hired under them.
+
+Sec. 8. <i>Prior Executive Orders</i>. (a) Effective March 1, 2011, Executive Order 13162 (Federal Career Intern Program) is superseded and revoked. Any individuals serving in appointments under that order on March 1, 2011, shall be converted to the competitive service, effective on that date, with no loss of pay or benefits.
+
+(b) On the effective date of final regulations promulgated by the Director of OPM to implement the Internship Program, Executive Order 12015 (pursuant to which the Student Career Experience Program was established), as amended, is superseded and revoked.
+
+(c) On the effective date of final regulations promulgated by the Director of OPM to implement changes to the PMF Program required by this order, Executive Order 13318 (Presidential Management Fellows Program), as amended, is superseded and revoked.
+
+Sec. 9. <i>General Provisions</i>. (a) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) authority granted by law, regulation, Executive Order, or Presidential Directive to an executive department, agency, or head thereof; or
+
+(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Improving the Federal Recruitment and Hiring Process
+
+Memorandum of President of the United States, May 11, 2010, 75 F.R. 27157, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+To deliver the quality services and results the American people expect and deserve, the Federal Government must recruit and hire highly qualified employees, and public service should be a career of choice for the most talented Americans. Yet the complexity and inefficiency of today's Federal hiring process deters many highly qualified individuals from seeking and obtaining jobs in the Federal Government.
+
+I therefore call on executive departments and agencies (agencies) to overhaul the way they recruit and hire our civilian workforce. Americans must be able to apply for Federal jobs through a commonsense hiring process and agencies must be able to select high-quality candidates efficiently and quickly. Moreover, agency managers and supervisors must assume a leadership role in recruiting and selecting employees from all segments of our society. Human resource offices must provide critical support for these efforts. The ability of agencies to perform their missions effectively and efficiently depends on a talented and engaged workforce, and we must reform our hiring system to further strengthen that workforce.
+
+By the authority vested in me as President by the Constitution and the laws of the United States, including section 3301 of title 5, United States Code, I hereby direct the following:
+
+Section 1. <i>Directions to Agencies</i>. Agency heads shall take the following actions no later than November 1, 2010:
+
+(a) consistent with merit system principles and other requirements of title 5, United States Code, and subject to guidance to be issued by the Office of Personnel Management (OPM), adopt hiring procedures that:
+
+(1) eliminate any requirement that applicants respond to essay-style questions when submitting their initial application materials for any Federal job;
+
+(2) allow individuals to apply for Federal employment by submitting resumes and cover letters or completing simple, plain language applications, and assess applicants using valid, reliable tools; and
+
+(3) provide for selection from among a larger number of qualified applicants by using the “category rating” approach (as authorized by section 3319 of title 5, United States Code), rather than the “rule of 3” approach, under which managers may only select from among the three highest scoring applicants;
+
+(b) require that managers and supervisors with responsibility for hiring are:
+
+(1) more fully involved in the hiring process, including planning current and future workforce requirements, identifying the skills required for the job, and engaging actively in the recruitment and, when applicable, the interviewing process; and
+
+(2) accountable for recruiting and hiring highly qualified employees and supporting their successful transition into Federal service, beginning with the first performance review cycle starting after November 1, 2010;
+
+(c) provide the OPM and the Office of Management and Budget (OMB) timelines and targets to:
+
+(1) improve the quality and speed of agency hiring by:
+
+&emsp;(i) reducing substantially the time it takes to hire mission-critical and commonly filled positions;
+
+&emsp;(ii) measuring the quality and speed of the hiring process; and
+
+&emsp;(iii) analyzing the causes of agency hiring problems and actions that will be taken to reduce them; and
+
+(2) provide every agency hiring manager training on effective, efficient, and timely ways to recruit and hire well-qualified individuals;
+
+(d) notify individuals applying for Federal employment through USAJOBS, an OPM-approved Federal web-based employment search portal, about the status of their application at key stages of the application process; and
+
+(e) identify a senior official accountable for leading agency implementation of this memorandum.
+
+Sec. 2. <i>Directions to the OPM</i>. The OPM shall take the following actions no later than 90 days after the date of this memorandum:
+
+(a) establish a Government-wide performance review and improvement process for hiring reform actions described in section 1 of this memorandum, including:
+
+(1) a timeline, benchmarks, and indicators of progress; \[and\]
+
+(2) a goal-focused, data-driven system for holding agencies accountable for improving the quality and speed of agency hiring, achieving agency hiring reform targets, and satisfying merit system principles and veterans’ preference requirements; and \[sic\]
+
+(b) develop a plan to promote diversity in the Federal workforce, consistent with the merit system principle (codified at 5 U.S.C. 2301(b)(1)) that the Federal Government should endeavor to achieve a workforce from all segments of society;
+
+(c) evaluate the Federal Career Intern Program established by Executive Order 13162 of July 6, 2000, provide recommendations concerning the future of that program, and propose a framework for providing effective pathways into the Federal Government for college students and recent college graduates;
+
+(d) provide guidance or propose regulations, as appropriate, to streamline and improve the quality of job announcements for Federal employment to make sure they are easily understood by applicants;
+
+(e) evaluate the effectiveness of shared registers used in filling positions common across multiple agencies and develop a strategy for improving agencies’ use of these shared registers for commonly filled Government-wide positions;
+
+(f) develop a plan to increase the capacity of USAJOBS to provide applicants, hiring managers, and human resource professionals with information to improve the recruitment and hiring processes; and
+
+(g) take such further administrative action as appropriate to implement sections 1 and 2 of this memorandum.
+
+Sec. 3. <i>Senior Administration Officials</i>. Agency heads and other senior administration officials visiting university or college campuses on official business are encouraged to discuss career opportunities in the Federal Government with students.
+
+Sec. 4. <i>Reporting</i>. (a) The OPM, in coordination with the OMB and in consultation with other agencies, shall develop a public human resources website to:
+
+(1) track key human resource data, including progress on hiring reform implementation; and
+
+(2) assist senior agency leaders, hiring managers, and human resource professionals with identifying and replicating best practices within the Federal Government for improving new employee quality and the hiring process.
+
+(b) Each agency shall regularly review its key human resource performance and work with the OPM and the OMB to achieve timelines and targets for correcting agency hiring problems.
+
+(c) The OPM shall submit to the President an annual report on the impact of hiring initiatives set forth in this memorandum, including its recommendations for further improving the Federal Government's hiring process.
+
+Sec. 5. <i>General Provisions</i>. (a) Except as expressly stated herein, nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(1) authority granted by law or Executive Order to an agency, or the head thereof; or
+
+(2) functions of the Director of the OMB relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Director of the OPM, in consultation with the OMB, may grant an exception to any of the requirements set forth in section 1 of this memorandum to an agency that demonstrates that exceptional circumstances prevent it from complying with that requirement.
+
+Sec. 6. <i>Publication</i>. The Director of the OPM is hereby authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -46,17 +46,17 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (d), is Pub.
 
 #### Amendments
 
-2002—Subsec. (b)(2)(B). Pub. L. 107–110 substituted “section 7801 of title 20” for “section 8801 of title 20”.
+<b>2002</b>—Subsec. (b)(2)(B). Pub. L. 107–110 substituted “section 7801 of title 20” for “section 8801 of title 20”.
 
-1998—Subsec. (a). Pub. L. 105–220 substituted “section 705(20)” for “section 706(8)”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–220 substituted “section 705(20)” for “section 706(8)”.
 
-1994—Subsec. (b)(2)(B). Pub. L. 103–382 substituted “section 8801 of title 20” for “section 2891(12) of title 20”.
+<b>1994</b>—Subsec. (b)(2)(B). Pub. L. 103–382 substituted “section 8801 of title 20” for “section 2891(12) of title 20”.
 
-1992—Subsec. (a). Pub. L. 102–569, §102(p)(32), substituted “a disability” for “handicaps” and “disability” for “handicap” in first sentence.
+<b>1992</b>—Subsec. (a). Pub. L. 102–569, §102(p)(32), substituted “a disability” for “handicaps” and “disability” for “handicap” in first sentence.
 
 Subsec. (d). Pub. L. 102–569, §506, added subsec. (d).
 
-1988—Subsec. (a). Pub. L. 100–630, §206(d)(1), substituted “her or his handicap” for “his handicap”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–630, §206(d)(1), substituted “her or his handicap” for “his handicap”.
 
 Pub. L. 100–259, §4(1), designated existing provisions as subsec. (a).
 
@@ -66,9 +66,9 @@ Subsec. (b)(2)(B). Pub. L. 100–630, §206(d)(2), substituted “section 2891(1
 
 Subsec. (c). Pub. L. 100–259, §4(2), added subsec. (c).
 
-1986—Pub. L. 99–506 substituted “individual with handicaps” for “handicapped individual” and “section 706(8) of this title” for “section 706(7) of this title”.
+<b>1986</b>—Pub. L. 99–506 substituted “individual with handicaps” for “handicapped individual” and “section 706(8) of this title” for “section 706(7) of this title”.
 
-1978—Pub. L. 95–602 substituted “section 706(7) of this title” for “section 706(6) of this title” and inserted provision prohibiting discrimination under any program or activity conducted by any Executive agency or by the United States Postal Service and requiring the heads of these agencies to promulgate regulations prohibiting discrimination.
+<b>1978</b>—Pub. L. 95–602 substituted “section 706(7) of this title” for “section 706(6) of this title” and inserted provision prohibiting discrimination under any program or activity conducted by any Executive agency or by the United States Postal Service and requiring the heads of these agencies to promulgate regulations prohibiting discrimination.
 
 #### Effective Date of 2002 Amendment
 
@@ -84,7 +84,7 @@ Amendment by Pub. L. 100–259 not to be construed to force or require any indiv
 
 #### Construction of Prohibition Against Discrimination Under Federal Grants
 
-Rights or protections of this section not affected by any provision of Pub. L. 98–457, see section 127 of Pub.L. 98–457, set out as a note under section 5101 of Title 42, The Public Health and Welfare.
+Rights or protections of this section not affected by any provision of Pub. L. 98–457, see section 127 of Pub. L. 98–457, set out as a note under section 5101 of Title 42, The Public Health and Welfare.
 
 #### Coordination of Implementation and Enforcement of Provisions
 

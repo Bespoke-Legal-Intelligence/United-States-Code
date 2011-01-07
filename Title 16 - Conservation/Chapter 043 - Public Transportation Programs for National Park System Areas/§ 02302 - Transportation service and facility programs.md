@@ -8,7 +8,7 @@ The Secretary of the Interior (hereinafter referred to as “Secretary”) is au
 
 To carry out the purposes of subsection (a) of this section, the Secretary is authorized to—
 
-&emsp;(1) contract with public or private agencies or carriers to provide transportation services, capital equipment, or facilities to improve access to units of the national park system;
+&emsp;(1) contract with public or private agencies or carriers to provide transportation services,capital equipment, or facilities to improve access to units of the national park system;
 
 &emsp;(2) operate such services directly in the absence of suitable and adequate agencies or carriers;
 
@@ -44,9 +44,9 @@ Section 10526(a)(9) of title 49, referred to in subsec. (g), was omitted in the 
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–333 struck out subsec. (c) which read as follows: “Acquisitions pursuant to subsection (b)(3) and (4) of this section shall not commence prior to sixty days (not counting days on which the Senate or the House of Representatives has adjourned for more than three consecutive days) from the time the Secretary has submitted a detailed proposal for such acquisitions to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives.”
+<b>1996</b>—Subsec. (c). Pub. L. 104–333 struck out subsec. (c) which read as follows: “Acquisitions pursuant to subsection (b)(3) and (4) of this section shall not commence prior to sixty days (not counting days on which the Senate or the House of Representatives has adjourned for more than three consecutive days) from the time the Secretary has submitted a detailed proposal for such acquisitions to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives.”
 
-1994—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

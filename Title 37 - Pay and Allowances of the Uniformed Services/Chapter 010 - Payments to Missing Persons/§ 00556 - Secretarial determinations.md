@@ -18,7 +18,7 @@
 
 > Paragraphs (1), (5), (6), and (7) only apply with respect to a case to which section 555 of this title applies.
 
-(b) When the Secretary concerned, in a case to which section 555 of this title applies, receives information that he considers establishes conclusively the death of a member of a uniformed service, he shall, notwithstanding any earlier action relating to death or other status of the member, act on it as an official report of death. After the end of the 12-month period in a missing status prescribed by section 555 of this title, the Secretary concerned, or his designee, shall, when he considers that the information received, or a lapse of time without information, establishes a reasonable presumption that a member in a missing status is dead, make a finding of death.
+(b) When the Secretary concerned, in a case to which section 555 of this title applies, receivesinformation that he considers establishes conclusively the death of a member of a uniformed service, he shall, notwithstanding any earlier action relating to death or other status of the member, act on it as an official report of death. After the end of the 12-month period in a missing status prescribed by section 555 of this title, the Secretary concerned, or his designee, shall, when he considers that the information received, or a lapse of time without information, establishes a reasonable presumption that a member in a missing status is dead, make a finding of death.
 
 (c) The Secretary concerned, or his designee, may determine the entitlement of a member to pay and allowances under this chapter, including credits and charges in his account, and that determination is conclusive. An account may not be charged or debited with an amount that a member captured, beleaguered, or besieged by a hostile force may receive or be entitled to receive from, or have placed to his credit by, the hostile force as pay, allowances, or other compensation.
 
@@ -110,7 +110,7 @@ In subsection (h), the first sentence is substituted for 50 App. U.S.C. 1009(b) 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–106, §569(c)(4)(A), inserted concluding provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106, §569(c)(4)(A), inserted concluding provisions.
 
 Subsec. (b). Pub. L. 104–106, §569(c)(4)(B), inserted “, in a case to which section 555 of this title applies,” after “When the Secretary concerned”.
 

@@ -20,7 +20,7 @@ This chapter, referred to in par. (3), was in the original “this title”, mea
 
 #### Short Title of 2009 Amendment
 
-Pub. L. 111–84, div. A, title XII, §1261, Oct. 28, 2009, 123 Stat. 2553, provided that: “This subtitle \[subtitle D (§§1261–1266) of title XII of div. A of Pub. L. 111–84, enacting provisions set out as notes under section 6204 of this title\] may be cited as the ‘Victims of Iranian Censorship Act’ or the ‘VOICE Act’.”
+Pub. L. 111–84, div. A, title XII, §1261, Oct. 28, 2009, 123 Stat. 2553, as amended by Pub. L. 111–383, div. A, title X, §1075(d)(19), Jan. 7, 2011, 124 Stat. 4374, provided that: “This subtitle \[subtitle D (§§1261–1266) of title XII of div. A of Pub. L. 111–84, enacting provisions set out as notes under section 6204 of this title\] may be cited as the ‘Victims of Iranian Censorship Act’ or the ‘VOICE Act’.”
 
 #### Short Title of 2002 Amendment
 

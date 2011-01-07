@@ -26,7 +26,7 @@ Whenever the Secretary determines that any item or class of items on account of 
 
 #### (e) Disallowance of items covered under subchapter XIX
 
-(1) Whenever the Secretary determines that any item or class of items on account of which Federal financial participation is claimed under subchapter XIX shall be disallowed for such participation, the State shall be entitled to andupon request shall receive a reconsideration of the disallowance, provided that such request is made during the 60-day period that begins on the date the State receives notice of the disallowance.
+(1) Whenever the Secretary determines that any item or class of items on account of which Federal financial participation is claimed under subchapter XIX shall be disallowed for such participation, the State shall be entitled to and upon request shall receive a reconsideration of the disallowance, provided that such request is made during the 60-day period that begins on the date the State receives notice of the disallowance.
 
 (2)(A) A State may appeal a disallowance of a claim for federal <sup>2</sup> financial participation under subchapter XIX by the Secretary, or an unfavorable reconsideration of a disallowance, during the 60-day period that begins on the date the State receives notice of the disallowance or of the unfavorable reconsideration, in whole or in part, to the Departmental Appeals Board, established in the Department of Health and Human Services (in this paragraph referred to as the “Board”), by filing a notice of appeal with the Board.
 
@@ -46,17 +46,17 @@ Section 1384 of this title, referred to in subsec. (a)(3), is a reference to sec
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–275, §204(b), struck out “or XIX,” after “XVI,”.
+<b>2008</b>—Subsec. (d). Pub. L. 110–275, §204(b), struck out “or XIX,” after “XVI,”.
 
 Subsec. (e). Pub. L. 110–275, §204(a), added subsec. (e).
 
-1996—Subsec. (a)(1). Pub. L. 104–193, §108(g)(3)(A), struck out “or part A of subchapter IV of this chapter,” after “XIX of this chapter,”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–193, §108(g)(3)(A), struck out “or part A of subchapter IV of this chapter,” after “XIX of this chapter,”.
 
 Subsec. (a)(3). Pub. L. 104–193, §108(g)(3)(B), struck out “604,” before “1204,”.
 
 Subsecs. (b), (d). Pub. L. 104–193, §108(g)(3)(A), struck out “or part A of subchapter IV of this chapter,” after “XIX of this chapter,”.
 
-1984—Subsec. (a)(1). Pub. L. 98–369, §2663(e)(6)(A), struck out “VI,” after “I,”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–369, §2663(e)(6)(A), struck out “VI,” after “I,”.
 
 Pub. L. 98–369, §2354(c)(2), corrected typographical error in directory language of Pub. L. 97–35, §2353(h)(1). See 1981 Amendment note below.
 
@@ -70,7 +70,7 @@ Subsec. (d). Pub. L. 98–369, §2663(e)(6)(C), substituted “XVI, or XIX of th
 
 Pub. L. 98–369, §2663(e)(6)(A), struck out “VI,” after “I,”.
 
-1981—Subsec. (a)(1). Pub. L. 97–35, §2353(h)(1), as amended by Pub. L. 98–369, §2354(c)(2), substituted “or XIX of this chapter” for “XIX or XX of this chapter”.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–35, §2353(h)(1), as amended by Pub. L. 98–369, §2354(c)(2), substituted “or XIX of this chapter” for “XIX or XX of this chapter”.
 
 Subsec. (a)(3). Pub. L. 97–35, §2353(h)(2), substituted “or 1396c of this title” for “1396c, or 1397b of this title”.
 
@@ -78,7 +78,7 @@ Subsec. (b). Pub. L. 97–35, §2353(h)(1), as amended by Pub. L. 98–369, §23
 
 Subsec. (d). Pub. L. 97–35, §2353(h)(3), substituted “or XIX of this chapter” for “XIX, or XX of this chapter”.
 
-1975—Subsec. (a)(1). Pub. L. 93–647, §3(d)(1), substituted “XIX or XX” for “or XIX”.
+<b>1975</b>—Subsec. (a)(1). Pub. L. 93–647, §3(d)(1), substituted “XIX or XX” for “or XIX”.
 
 Subsec. (a)(3). Pub. L. 93–647, §3(d)(2), substituted “1396c, or 1397b” for “or 1396c”.
 
@@ -86,11 +86,11 @@ Subsec. (b). Pub. L. 93–647, §3(d)(1), substituted “XIX or XX” for “or 
 
 Subsec. (d). Pub. L. 93–647, §3(d)(3), inserted “XX,” after “XIX,”.
 
-1973—Subsec. (a). Pub. L. 93–233, §18(z–2)(1)(C)(i), (ii), inserted references in par. (1) to subchapter VI of this chapter and in par. (3) to section 804 of this title.
+<b>1973</b>—Subsec. (a). Pub. L. 93–233, §18(z–2)(1)(C)(i), (ii), inserted references in par. (1) to subchapter VI of this chapter and in par. (3) to section 804 of this title.
 
 Subsecs. (b), (d). Pub. L. 93–233, §18(z–2)(1)(C)(iii), (iv), inserted reference to subchapter VI of this chapter.
 
-1968—Subsec. (a)(1). Pub. L. 90–248, §241(c)(5)(A), struck out “IV,” after “I,” and inserted “or part A of subchapter IV of this chapter,” after “XIX of this chapter,”.
+<b>1968</b>—Subsec. (a)(1). Pub. L. 90–248, §241(c)(5)(A), struck out “IV,” after “I,” and inserted “or part A of subchapter IV of this chapter,” after “XIX of this chapter,”.
 
 Subsecs. (b), (d). Pub. L. 90–248, §241(c)(5)(B), struck out “IV,” after “I,” and inserted “, or part A of subchapter IV of this chapter,” after “XIX of this chapter”.
 

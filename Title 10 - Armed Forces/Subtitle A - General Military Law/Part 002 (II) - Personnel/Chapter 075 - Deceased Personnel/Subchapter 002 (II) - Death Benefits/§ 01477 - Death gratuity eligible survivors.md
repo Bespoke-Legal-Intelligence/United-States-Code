@@ -96,7 +96,7 @@ In subsection (d), the words “the death gratuity” are substituted for the wo
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181, §645(a)(3), added subsec. (a) and struck out former subsec. (a) which required a death gratuity payable upon the death of a person covered by section 1475 or 1476 of this title to be paid to or for the living survivor highest on a specified list.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §645(a)(3), added subsec. (a) and struck out former subsec. (a) which required a death gratuity payable upon the death of a person covered by section 1475 or 1476 of this title to be paid to or for the living survivor highest on a specified list.
 
 Subsec. (b). Pub. L. 110–181, §645(a)(3), added subsec. (b). Former subsec. (b) redesignated (d).
 
@@ -112,13 +112,13 @@ Subsec. (e). Pub. L. 110–417 inserted period at end.
 
 Pub. L. 110–181, §645(b), inserted heading and substituted “subsection (a) or (b)” for “subsection (a) or (d)” and “subsection (b)” for “subsection (a).”.
 
-2007—Subsec. (a). Pub. L. 110–28, §3306(1), substituted “Subject to subsection (d), a death gratuity” for “A death gratuity”.
+<b>2007</b>—Subsec. (a). Pub. L. 110–28, §3306(1), substituted “Subject to subsection (d), a death gratuity” for “A death gratuity”.
 
 Subsec. (d). Pub. L. 110–28, §3306(3), added subsec. (d). Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 110–28, §3306(2), redesignated subsec. (d) as (e) and substituted “If a person entitled to all or a portion of a death gratuity under subsection (a) or (d) dies before the person” for “If an eligible survivor dies before he”.
 
-1989—Subsec. (b)(5)(C). Pub. L. 101–189 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+<b>1989</b>—Subsec. (b)(5)(C). Pub. L. 101–189 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
 #### Regulations
 

@@ -2,7 +2,7 @@
 
 #### (a) Transmission service by any electric utility; notice, hearing and findings by Commission
 
-Any electric utility, Federal power marketing agency, or any other person generating electric energy for sale for resale, may apply to the Commission for an order under this subsection requiring a transmitting utility to provide transmission services (including any enlargement of transmission capacity necessary to provide such services) to the applicant. Upon receipt of such application, after public notice and notice to each affected State regulatory authority, each affected electric utility, and each affected Federal power marketing agency, and after affording an opportunity for an evidentiary hearing, the Commission may issue such order if it finds that such order meets the requirements of section 824k of this title, and would otherwise be in the public interest. No order may be issued under this subsection unless the applicant has made a request for transmission services to the transmitting utility that would be the subject of such order at least 60 days prior to its filing of an application for such order.
+Any electric utility, Federal power marketing agency, or any other person generating electric energy for sale for resale, may apply to the Commission for an order under this subsection requiring a transmitting utility to provide transmission services (including any enlargement of transmission capacity necessary to provide such services) to the applicant. Upon receipt of such application, after public notice and notice to each affected State regulatory authority, each affected electric utility, and each affected Federal power marketing agency, andafter affording an opportunity for an evidentiary hearing, the Commission may issue such order if it finds that such order meets the requirements of section 824k of this title, and would otherwise be in the public interest. No order may be issued under this subsection unless the applicant has made a request for transmission services to the transmitting utility that would be the subject of such order at least 60 days prior to its filing of an application for such order.
 
 #### (b) Reliability of electric service
 
@@ -22,7 +22,7 @@ No order may be issued under subsection (a) or (b) of this section which require
 
 &emsp;(A) due to changed circumstances, the requirements applicable, under this section and section 824k of this title, to the issuance of an order under subsection (a) or (b) of this section are no longer met, or <sup>1</sup>
 
-&emsp;(B) any transmission capacity of the utility providing transmission services under such order which was, at the time such order was issued, in excess of the capacity necessary toserve its own customers is no longer in excess of the capacity necessary for such purposes, or
+&emsp;(B) any transmission capacity of the utility providing transmission services under such order which was, at the time such order was issued, in excess of the capacity necessary to serve its own customers is no longer in excess of the capacity necessary for such purposes, or
 
 &emsp;(C) the ordered transmission services require enlargement of transmission capacity and the transmitting utility subject to the order has failed, after making a good faith effort, to obtain the necessary approvals or property rights under applicable Federal, State, and local laws.
 
@@ -52,11 +52,11 @@ As used in this section, the term “facilities” means only facilities used fo
 
 #### Amendments
 
-2005—Subsec. (c). Pub. L. 109–58, §1295(c)(1), struck out par. (2) designation before introductory provisions, redesignated former subpars. (A) and (B) as pars. (1) and (2), respectively, and in par. (2) substituted “termination or modification” for “termination of modification”.
+<b>2005</b>—Subsec. (c). Pub. L. 109–58, §1295(c)(1), struck out par. (2) designation before introductory provisions, redesignated former subpars. (A) and (B) as pars. (1) and (2), respectively, and in par. (2) substituted “termination or modification” for “termination of modification”.
 
 Subsec. (d)(1). Pub. L. 109–58, §1295(c)(2), substituted “if the transmitting utility providing” for “if the electric utility providing” in introductory provisions.
 
-1992—Subsec. (a). Pub. L. 102–486, §721(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “Any electric utility, geothermal power producer (including a producer which is not an electric utility), or Federal power marketing agency may apply to the Commission for an order under this subsection requiring any other electric utility to provide transmission services to the applicant (including any enlargement of transmission capacity necessary to provide such services).”
+<b>1992</b>—Subsec. (a). Pub. L. 102–486, §721(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “Any electric utility, geothermal power producer (including a producer which is not an electric utility), or Federal power marketing agency may apply to the Commission for an order under this subsection requiring any other electric utility to provide transmission services to the applicant (including any enlargement of transmission capacity necessary to provide such services).”
 
 Pub. L. 102–486, §721(2), in second sentence, substituted “the Commission may issue such order if it finds that such order meets the requirements of section 824k of this title, and would otherwise be in the public interest. No order may be issued under this subsection unless the applicant has made a request for transmission services to the transmitting utility that would be the subject of such order at least 60 days prior to its filing of an application for such order.” for “the Commission may issue such order if it finds that such order—
 
@@ -84,9 +84,9 @@ Subsec. (c). Pub. L. 102–486, §721(4), struck out pars. (1), (3), and (4), an
 
 Subsec. (d). Pub. L. 102–486, §721(5), in first sentence substituted “transmitting” for “electric” before “utility” in two places, in second sentence inserted “each affected transmitting utility,” before “and each affected electric utility”, in par. (1) substituted “, or” for period at end of subpar. (B) and added subpar. (C), and in par. (3)(B) substituted “transmitting” for “electric” before “utility”.
 
-1986—Subsec. (c)(2)(B). Pub. L. 99–495 inserted provisions that nothing in this subparagraph shall prevent an application for an order hereunder to be filed prior to termination or modification of an existing rate schedule, provided that such order shall not become effective until termination of such rate schedule or the modification becomes effective.
+<b>1986</b>—Subsec. (c)(2)(B). Pub. L. 99–495 inserted provisions that nothing in this subparagraph shall prevent an application for an order hereunder to be filed prior to termination or modification of an existing rate schedule, provided that such order shall not become effective until termination of such rate schedule or the modification becomes effective.
 
-1980—Subsec. (a). Pub. L. 96–294 added applicability to geothermal power producers.
+<b>1980</b>—Subsec. (a). Pub. L. 96–294 added applicability to geothermal power producers.
 
 #### Effective Date of 1986 Amendment
 

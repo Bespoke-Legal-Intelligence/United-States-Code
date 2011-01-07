@@ -16,7 +16,7 @@
 
 #### Amendments
 
-1988—Pub. L. 100–297 amended section generally, substituting provisions relating to remedies for existing violations for provisions relating to cease and desist orders. See section 1234e of this title.
+<b>1988</b>—Pub. L. 100–297 amended section generally, substituting provisions relating to remedies for existing violations for provisions relating to cease and desist orders. See section 1234e of this title.
 
 #### Effective Date of 1988 Amendment
 

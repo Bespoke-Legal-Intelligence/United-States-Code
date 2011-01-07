@@ -18,9 +18,9 @@ Simplified Offset for Collection of Claims Not in Excess of the Simplified Acqui
 
 &emsp;(B) shall provide the carrier for a claim subject to paragraph (1) with an opportunity to offer an alternative method of repaying the claim (rather than by administrative offset) if the collection of the claim by administrative offset has not already been made.
 
-(3) In this subsection, the term “simplified acquisition threshold” has the meaning given that term in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)).
+(3) In this subsection, the term “simplified acquisition threshold” has the meaning given that term in section 134 of title 41.
 
-(Added Pub. L. 97–258, §2(b)(5)(B), Sept. 13, 1982, 96 Stat. 1053; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1009(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–250.)
+(Added Pub. L. 97–258, §2(b)(5)(B), Sept. 13, 1982, 96 Stat. 1053; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1009(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–250; Pub. L. 111–350, §5(b)(43), Jan. 4, 2011, 124 Stat. 3846.)
 
 Historical and Revision Notes
 
@@ -40,7 +40,9 @@ The words “An amount deducted from an amount due” are substituted for “Mon
 
 #### Amendments
 
-2000—Pub. L. 106–398 amended section catchline and text generally. Prior to amendment, text read as follows: “An amount deducted from an amount due a carrier because of loss of or damage to material in transit for a military department shall be credited to the proper appropriation, account, or fund from which the same or similar material may be replaced.”
+<b>2011</b>—Subsec. (b)(3). Pub. L. 111–350 substituted “section 134 of title 41” for “section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))”.
+
+<b>2000</b>—Pub. L. 106–398 amended section catchline and text generally. Prior to amendment, text read as follows: “An amount deducted from an amount due a carrier because of loss of or damage to material in transit for a military department shall be credited to the proper appropriation, account, or fund from which the same or similar material may be replaced.”
 
 #### Effective Date of 2000 Amendment
 

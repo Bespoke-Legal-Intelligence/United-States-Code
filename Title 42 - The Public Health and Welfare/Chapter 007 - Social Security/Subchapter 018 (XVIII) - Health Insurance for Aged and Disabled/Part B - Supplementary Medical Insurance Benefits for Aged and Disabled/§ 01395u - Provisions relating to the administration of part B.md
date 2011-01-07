@@ -22,7 +22,7 @@ The administration of this part shall be conducted through contracts with medica
 
 &emsp;&emsp;(ii) on the basis of an assignment under the terms of which (I) the reasonable charge is the full charge for the service, (II) the physician or other person furnishing such service agrees not to charge (and to refund amounts already collected) for services for which payment under this subchapter is denied under section 1320c–3(a)(2) of this title by reason of a determination under section 1320c–3(a)(1)(B) of this title, and (III) the physician or other person furnishing such service agrees not to charge (and to refund amounts already collected) for such service if payment may not be made therefor by reason of the provisions of paragraph (1) of section 1395y(a) of this title, and if the individual to whom such service was furnished was without fault in incurring the expenses of such service, and if the Secretary's determination that payment (pursuant to such assignment) was incorrect and was made subsequent to the third year following the year in which notice of such payment was sent to such individual; except that the Secretary may reduce such three-year period to not less than one year if he finds such reduction is consistent with the objectives of this subchapter (except in the case of physicians’ services and ambulance service furnished as described in section 1395y(a)(4) of this title, other than for purposes of section 1395gg(f) of this title);
 
-> &emsp;but (in the case of bills submitted, or requests for payment made, after March 1968) only if the bill is submitted, or a written request for payment is made in such other form as may be permitted under regulations, no later than the close of the calendar year following the year in which such service is furnished (deeming any service furnished in the last 3 months of any calendar year to have been furnished in the succeeding calendar year);
+> &emsp;but (in the case of bills submitted, or requests for payment made, after March 1968) only if the bill is submitted, or a written request for payment is made in such other form as may be permitted under regulations, no later than the period ending 1 calendar year after the date of service;
 
 &emsp;(C) to (E) Repealed. Pub. L. 108–173, title IX, §911(c)(3)(C)(iv), Dec. 8, 2003, 117 Stat. 2384;
 
@@ -48,7 +48,7 @@ The administration of this part shall be conducted through contracts with medica
 
 &emsp;(L) shall monitor and profile physicians’ billing patterns within each area or locality and provide comparative data to physicians whose utilization patterns vary significantly from other physicians in the same payment area or locality.
 
-> In determining the reasonable charge for services for purposes of this paragraph, there shall be taken into consideration the customary charges for similar services generally made by the physician or other person furnishing such services, as well as the prevailing charges in the locality for similar services. No charge may be determined to be reasonable in the case of bills submitted or requests for payment made under this part after December 31, 1970, if it exceeds the higher of (i) the prevailing charge recognized by the carrier and found acceptable by the Secretary for similar services in the same locality in administering this part on December 31, 1970, or (ii) the prevailing charge level that, on the basis of statistical data and methodology acceptable to the Secretary, would cover 75 percent of the customary charges made for similar services in the same locality during the 12-month period ending on the June 30 last preceding the start of the calendar year in which the service is rendered. In the case of physicians’ services the prevailing charge level determined for purposes of clause (ii) of the preceding sentence for any twelve-month period (beginning after June 30, 1973) specified in clause (ii) of such sentence may not exceed (in the aggregate) the level determined under such clause for the fiscal year ending June 30, 1973, or (with respect to physicians’ services furnished in a year after 1987) the level determined under this sentence (or under any other provision of law affecting the prevailing charge level) for the previous year except to the extent that the Secretary finds, on the basis of appropriate economic index data, that such higher level is justified by year-to-year economic changes. With respect to power-operated wheelchairs for which payment may be made in accordance with section 1395x(s)(6) of this title, charges determined to be reasonable may not exceed the lowest charge at which power-operated wheelchairs are available in the locality. In the case of medical services, supplies, and equipment (including equipment servicing) that, in the judgment of the Secretary, do not generally vary significantly in quality from one supplier to another, the charges incurred after December 31, 1972, determined to be reasonable may not exceed the lowest charge levels at which such services, supplies, and equipment are widely and consistently available in a locality except to the extent and under the circumstances specified by the Secretary. The requirement in subparagraph (B) that a bill be submitted or request for payment be made by the close of the following calendar year shall not apply if (I) failure to submit the bill or request the payment by the close of such year is due to the error or misrepresentation of an officer, employee, fiscal intermediary, carrier, medicare administrative contractor, or agent of the Department of Health and Human Services performing functions under this subchapter and acting within the scope of his or its authority, and (II) the bill is submitted or the payment is requested promptly after such error or misrepresentation is eliminated or corrected. Notwithstanding the provisions of the third and fourth sentences preceding this sentence, the prevailing charge level in the case of a physician service in a particular locality determined pursuant to such third and fourth sentences for any calendar year after 1974 shall, if lower than the prevailing charge level for the fiscal year ending June 30, 1975, in the case of a similar physician service in the same locality by reason of the application of economic index data, be raised to such prevailing charge level for the fiscal year ending June 30, 1975, and shall remain at such prevailing charge level until the prevailing charge for a year (as adjusted by economic index data) equals or exceeds such prevailing charge level. The amount of any charges for outpatient services which shall be considered reasonable shall be subject to the limitations established by regulations issued by the Secretary pursuant to section 1395x(v)(1)(K) of this title, and in determining the reasonable charge for such services, the Secretary may limit such reasonable charge to a percentage of the amount of the prevailing charge for similar services furnished in a physician's office, taking into account the extent to which overhead costs associated with such outpatient services have been included in the reasonable cost or charge of the facility.
+> In determining the reasonable charge for services for purposes of this paragraph, there shall be taken into consideration the customary charges for similar services generally made by the physician or other person furnishing such services, as well as the prevailing charges in the locality for similar services. No charge may be determined to be reasonable in the case of bills submitted or requests for payment made under this part after December 31, 1970, if it exceeds the higher of (i) the prevailing charge recognized by the carrier and found acceptable by the Secretary for similar services in the same locality in administering this part on December 31, 1970, or (ii) the prevailing charge level that, on the basis of statistical data and methodology acceptable to the Secretary, would cover 75 percent of the customary charges made for similar services in the same locality during the 12-month period ending on the June 30 last preceding the start of the calendar year in which the service is rendered. In the case of physicians’ services the prevailing charge level determined for purposes of clause (ii) of the preceding sentence for any twelve-month period (beginning after June 30, 1973) specified in clause (ii) of such sentence may not exceed (in the aggregate) the level determined under such clause for the fiscal year ending June 30, 1973, or (with respect to physicians’ services furnished in a year after 1987) the level determined under this sentence (or under any other provision of law affecting the prevailing charge level) for the previous year except to the extent that the Secretary finds, on the basis of appropriate economic index data, that such higher level is justified by year-to-year economic changes. With respect to power-operated wheelchairs for which payment may be made in accordance with section 1395x(s)(6) of this title, charges determined to be reasonable may not exceed the lowest charge at which power-operated wheelchairs are available in the locality. In the case of medical services, supplies, and equipment (including equipment servicing) that, in the judgment of the Secretary, do not generally vary significantly in quality from one supplier to another, the charges incurred after December 31, 1972, determined to be reasonable may not exceed the lowest charge levels at which such services, supplies, and equipment are widely and consistently available in a locality except to the extent and under the circumstances specified by the Secretary. The requirement in subparagraph (B) that a bill be submitted or request for payment be made by the close of the following calendar year shall not apply if (I) failure to submit the bill or request the payment by the close of such year is due to the error or misrepresentation of an officer, employee, fiscal intermediary, carrier, medicare administrative contractor, or agent of the Department of Health and Human Services performing functions under this subchapter and acting within the scope of his or its authority, and (II) the bill is submitted or the payment is requested promptly after such error or misrepresentation is eliminated or corrected. Notwithstanding the provisions of the third and fourth sentences preceding this sentence, the prevailing charge level in the case of a physician service in a particular locality determined pursuant to such third and fourth sentences for any calendar year after 1974 shall, if lower than the prevailing charge level for the fiscal year ending June 30, 1975, in the case of a similar physician service in the same locality by reason of the application of economic index data, be raised to such prevailing charge level for the fiscal year ending June 30, 1975, and shall remain at such prevailing charge level until the prevailing charge for a year (as adjusted by economic index data) equals or exceeds such prevailing charge level. The amount of any charges for outpatient services which shall be considered reasonable shall be subject to the limitations established by regulations issued by the Secretary pursuant to section 1395x(v)(1)(K) of this title, and in determining the reasonable charge for such services, the Secretary may limit such reasonable charge to a percentage of the amount of the prevailing charge for similar services furnished in a physician's office, taking into account the extent to which overhead costs associated with such outpatient services have been included in the reasonable cost or charge of the facility. In applying subparagraph (B), the Secretary may specify exceptions to the 1 calendar year period specified in such subparagraph.
 
 (4)(A)(i) In determining the prevailing charge levels under the third and fourth sentences of paragraph (3) for physicians’ services furnished during the 15-month period beginning July 1, 1984, the Secretary shall not set any level higher than the same level as was set for the 12-month period beginning July 1, 1983.
 
@@ -74,7 +74,7 @@ The administration of this part shall be conducted through contracts with medica
 
 &emsp;(II) if the physician was a participating physician at any time during the 12-month period beginning on October 1, 1984, the physician's customary charges shall be determined based upon the physician's actual charges billed during the 12-month period ending on March 31, 1985.
 
-(iii) In determining the reasonable charge under paragraph (3) for physicians’ services furnished during the 3-month period beginning January 1, 1988, the customary charges shall be the same customary charges as were recognized under this section for the 12-month period beginning January 1, 1987.
+(iii) In determining the reasonable charge under paragraph (3) for physicians’ services furnished during the 3-month period beginning January 1, 1988, the customary charges shall be the same customary charges as were recognizedunder this section for the 12-month period beginning January 1, 1987.
 
 (iv) In determining the reasonable charge under paragraph (3) for physicians’ services (other than primary care services, as defined in subsection (i)(4) of this section) furnished during 1991, the customary charges shall be the same customary charges as were recognized under this section for the 9-month period beginning April 1, 1990. In a case in which subparagraph (F) applies (relating to new physicians) so as to limit the customary charges of a physician during 1990 to a percent of prevailing charges, the previous sentence shall not prevent such limit on customary charges under such subparagraph from increasing in 1991 to a higher percent of such prevailing charges.
 
@@ -172,7 +172,7 @@ The administration of this part shall be conducted through contracts with medica
 
 (B) The Secretary may make a determination under this subparagraph that would result in an increase or decrease under subparagraph (A) of more than 15 percent of the payment amount for a year, but only if—
 
-&emsp;(i) the Secretary's determination takes into account the factors described in subparagraph\(C) and any additional factors the Secretary determines appropriate,
+&emsp;(i) the Secretary's determination takes into account the factors described in subparagraph (C) and any additional factors the Secretary determines appropriate,
 
 &emsp;(ii) the Secretary's determination takes into account the potential impacts described in subparagraph (D), and
 
@@ -234,7 +234,7 @@ The administration of this part shall be conducted through contracts with medica
 
 (B)(i) In determining the reasonable charge under paragraph (3) for a cataract surgical procedure, subject to clause (ii), the prevailing charge for such procedure otherwise recognized for participating and nonparticipating physicians shall be reduced by 10 percent with respect to procedures performed in 1987.
 
-(ii) In no case shall the reduction under clause (i) for a surgical procedure result in a prevailingcharge in a locality for a year which is less than 75 percent of the weighted national average of such prevailing charges for such procedure for all the localities in the United States for 1986.
+(ii) In no case shall the reduction under clause (i) for a surgical procedure result in a prevailing charge in a locality for a year which is less than 75 percent of the weighted national average of such prevailing charges for such procedure for all the localities in the United States for 1986.
 
 (C)(i) The prevailing charge level determined with respect to A-mode ophthalmic ultrasound procedures may not exceed 5 percent of the prevailing charge level established with respect to extracapsular cataract removal with lens insertion.
 
@@ -246,7 +246,7 @@ The administration of this part shall be conducted through contracts with medica
 
 (13)(A) In determining payments under section 1395<i>l</i>(<i>l</i>) of this title and section 1395w–4 of this title for anesthesia services furnished on or after January 1, 1994, the methodology for determining the base and time units used shall be the same for services furnished by physicians, for medical direction by physicians of two, three, or four certified registered nurse anesthetists, or for services furnished by a certified registered nurse anesthetist (whether or not medically directed) and shall be based on the methodology in effect, for anesthesia services furnished by physicians, as of August 10, 1993.
 
-(B) The Secretary shall require claims for physicians’ services for medical direction of nurse anesthetists during the periods in which the provisions of subparagraph (A) apply to indicate the number of such anesthetists being medically directed concurrently at any time during the procedure, the name of each nurse anesthetist being directed, and the type of procedure for which the services are provided.
+(B) The Secretary shall require claims for physicians’ services for medical direction of nurse anesthetists during the periods in which the provisions of subparagraph (A) apply to indicate thenumber of such anesthetists being medically directed concurrently at any time during the procedure, the name of each nurse anesthetist being directed, and the type of procedure for which the services are provided.
 
 (14)(A)(i) In determining the reasonable charge for a physicians’ service specified in subparagraph (C)(i) and furnished during the 9-month period beginning on April 1, 1990, the prevailing charge for such service shall be the prevailing charge otherwise recognized for such service for 1989 reduced by 15 percent or, if less, 1/3 of the percent (if any) by which the prevailing charge otherwise applied in the locality in 1989 exceeds the locally-adjusted reduced prevailing amount (as determined under subparagraph (B)(i)) for the service.
 
@@ -278,7 +278,7 @@ The administration of this part shall be conducted through contracts with medica
 
 &emsp;(iv) The geographic practice cost index value specified in this clause for a locality is the Geographic Overhead Costs Index specified for the locality in table 1 of the September 1989 Supplement to the Geographic Medicare Economic Index: Alternative Approaches (prepared by the Urban Institute and the Center for Health Economics Research).
 
-(D) In the case of a reduction in the prevailing charge for a physicians’ service under subparagraph (A), if a nonparticipating physician furnishes the service to an individual entitled to benefits under this part, after the effective date of such reduction, the physician's actual chargeis subject to a limit under subsection (j)(1)(D) of this section.
+(D) In the case of a reduction in the prevailing charge for a physicians’ service under subparagraph (A), if a nonparticipating physician furnishes the service to an individual entitled to benefits under this part, after the effective date of such reduction, the physician's actual charge is subject to a limit under subsection (j)(1)(D) of this section.
 
 (15)(A) In determining the reasonable charge for surgery, radiology, and diagnostic physicians’ services which the Secretary shall designate (based on their high volume of expenditures under this part) and for which the prevailing charge (but for this paragraph) differs by physician specialty, the prevailing charge for such a service may not exceed the prevailing charge or fee schedule amount for that specialty of physicians that furnish the service most frequently nationally.
 
@@ -332,7 +332,7 @@ The administration of this part shall be conducted through contracts with medica
 
 (B) In this paragraph:
 
-&emsp;(i) The term “clean claim” means a claim that has no defect or impropriety (includingany lack of any required substantiating documentation) or particular circumstance requiring special treatment that prevents timely payment from being made on the claim under this part.
+&emsp;(i) The term “clean claim” means a claim that has no defect or impropriety (including any lack of any required substantiating documentation) or particular circumstance requiring special treatment that prevents timely payment from being made on the claim under this part.
 
 &emsp;(ii) The term “applicable number of calendar days” means—
 
@@ -386,7 +386,7 @@ The Railroad Retirement Board shall, in accordance with such regulations as the 
 
 (4) At the beginning of each year the Secretary shall publish directories (for appropriate local geographic areas) containing the name, address, and specialty of all participating physicians and suppliers (as defined in paragraph (1)) for that area for that year. Each directory shall be organized to make the most useful presentation of the information (as determined by the Secretary) for individuals enrolled under this part. Each participating physician directory for an area shall provide an alphabetical listing of all participating physicians practicing in the area and an alphabetical listing by locality and specialty of such physicians.
 
-(5)(A) The Secretary shall promptly notify individuals enrolled under this part through an annual mailing of the participation program under this subsection and the publication and availability of the directories and shall make the appropriate area directory or directories available in each district and branch office of the Social Security Administration, in the offices of medicare administrative contractors, and to senior citizen organizations.
+(5)(A) The Secretary shall promptly notify individuals enrolled under this part through an annual mailing of the participation program under this subsection and the publication and availability of the directories and shall makethe appropriate area directory or directories available in each district and branch office of the Social Security Administration, in the offices of medicare administrative contractors, and to senior citizen organizations.
 
 (B) The annual notice provided under subparagraph (A) shall include—
 
@@ -406,11 +406,13 @@ The Railroad Retirement Board shall, in accordance with such regulations as the 
 
 &emsp;(B) the toll-free telephone number or numbers, maintained under paragraph (2), at which an individual enrolled under this part may obtain information on participating physicians and suppliers,
 
-&emsp;(C)(i) an offer of assistance to such an individual in obtaining the names of participating physicians of appropriate specialty and (ii) an offer to provide a free copy of the appropriate participating physician directory; and
+&emsp;(C)(i) an offer of assistance to such an individual in obtaining the names of participating physicians of appropriate specialty and (ii) an offer to provide a free copy of the appropriate participating physician directory, and
 
 &emsp;(D) in the case of services for which the billed amount exceeds the limiting charge imposed under section 1395w–4(g) of this title, information regarding such applicable limiting charge (including information concerning the right to a refund under section 1395w–4(g)(1)(A)(iv) of this title).
 
 (8) The Secretary may refuse to enter into an agreement with a physician or supplier under this subsection, or may terminate or refuse to renew such agreement, in the event that such physician or supplier has been convicted of a felony under Federal or State law for an offense which the Secretary determines is detrimental to the best interests of the program or program beneficiaries.
+
+(9) The Secretary may revoke enrollment, for a period of not more than one year for each act, for a physician or supplier under section 1395cc(j) of this title if such physician or supplier fails to maintain and, upon request of the Secretary, provide access to documentation relating to written orders or requests for payment for durable medical equipment, certifications for home health services, or referrals for other items or services written or ordered by such physician or supplier under this subchapter, as specified by the Secretary.
 
 #### (i) Definitions
 
@@ -422,13 +424,13 @@ For purposes of this subchapter:
 
 &emsp;(3) The term “percentage increase in the MEI” means, with respect to physicians’ services furnished in a year, the percentage increase in the medicare economic index (referred to in the fourth sentence of subsection (b)(3) of this section) applicable to such services furnished as of the first day of that year.
 
-&emsp;(4) The term “primary care services” means physicians’ services which constitute officemedical services, emergency department services, home medical services, skilled nursing, intermediate care, and long-term care medical services, or nursing home, boarding home, domiciliary, or custodial care medical services.
+&emsp;(4) The term “primary care services” means physicians’ services which constitute office medical services, emergency department services, home medical services, skilled nursing, intermediate care, and long-term care medical services, or nursing home, boarding home, domiciliary, or custodial care medical services.
 
 #### (j) Monitoring of charges of nonparticipating physicians; sanctions; restitution
 
 (1)(A) In the case of a physician who is not a participating physician for items and services furnished during a portion of the 30-month period beginning July 1, 1984, the Secretary shall monitor the physician's actual charges to individuals enrolled under this part for physicians’ services during that portion of that period. If such physician knowingly and willfully bills individuals enrolled under this part for actual charges in excess of such physician's actual charges for the calendar quarter beginning on April 1, 1984, the Secretary may apply sanctions against such physician in accordance with paragraph (2).
 
-(B)(i) During any period (on or after January 1, 1987, and before the date specified in clause (ii)), during which a physician is a nonparticipating physician, the Secretary shall monitor the actual charges of each such physician for physicians’ services furnished to individuals enrolled under this part. If such physician knowingly and willfully bills on a repeated basis for such a service an actual charge in excess of the maximum allowable actual charge determined under subparagraph (C) for that service, the Secretary may apply sanctions against such physician in accordance with paragraph (2).
+(B)(i) During any period (on or after January 1, 1987, and before the date specified in clause (ii)), during which a physician is a nonparticipating physician, the Secretary shall monitor the actual charges of each such physician for physicians’ services furnished to individuals enrolledunder this part. If such physician knowingly and willfully bills on a repeated basis for such a service an actual charge in excess of the maximum allowable actual charge determined under subparagraph (C) for that service, the Secretary may apply sanctions against such physician in accordance with paragraph (2).
 
 (ii) Clause (i) shall not apply to services furnished after December 31, 1990.
 
@@ -442,11 +444,11 @@ For purposes of this subchapter:
 
 (iii) In clause (ii), the “applicable fraction” is—
 
-&emsp;(I) for 1987, 1/4,
+&emsp;(I) for 1987, ¼,
 
 &emsp;(II) for 1988, 1/3,
 
-&emsp;(III) for 1989, 1/2, and
+&emsp;(III) for 1989, ½, and
 
 &emsp;(IV) for any subsequent year, 1.
 
@@ -462,7 +464,7 @@ For purposes of this subchapter:
 
 (ix) If there is a reduction under subsection (b)(13) of this section in the reasonable charge for medical direction furnished by a nonparticipating physician, the maximum allowable actual charge otherwise permitted under this subsection for such services shall be reduced in the same manner and in the same percentage as the reduction in such reasonable charge.
 
-(D)(i) If an action described in clause (ii) results in a reduction in a reasonable charge for aphysicians’ service or item and a nonparticipating physician furnishes the service or item to an individual entitled to benefits under this part after the effective date of such action, the physician may not charge the individual more than 125 percent of the reduced payment allowance (as defined in clause (iii)) plus (for services or items furnished during the 12-month period (or 9-month period in the case of an action described in clause (ii)(II)) beginning on the effective date of the action) 1/2 of the amount by which the physician's maximum allowable actual charge for the service or item for the previous 12-month period exceeds such 125 percent level.
+(D)(i) If an action described in clause (ii) results in a reduction in a reasonable charge for a physicians’ service or item and a nonparticipating physician furnishes the service or item to an individual entitled to benefits under this part after the effective date of such action, the physician may not charge the individual more than 125 percent of the reduced payment allowance (as defined in clause (iii)) plus (for services or items furnished during the 12-month period (or 9-month period in the case of an action described in clause (ii)(II)) beginning on the effective date of the action) ½ of the amount by which the physician's maximum allowable actual charge for the service or item for the previous 12-month period exceeds such 125 percent level.
 
 (ii) The first sentence of clause (i) shall apply to—
 
@@ -534,7 +536,7 @@ For purposes of this subchapter:
 
 &emsp;(i) the physician establishes that the physician did not know and could not reasonably have been expected to know that payment may not be made for the service by reason of section 1395y(a)(1) of this title, or
 
-&emsp;(ii) before the service was provided, the individual was informed that payment under this part may not be made for the specific service and the individual has agreed to pay for that service.
+&emsp;(ii) before the service was provided, the individual was informed that payment under this part may not be made for the specific serviceand the individual has agreed to pay for that service.
 
 (2) Each medicare administrative contractor with a contract in effect under this section with respect to physicians and each peer review organization with a contract under part B of subchapter XI of this chapter shall send any notice of denial of payment for physicians’ services based on section 1395y(a)(1) of this title and for which payment is not requested on an assignment-related basis to the physician and the individual involved.
 
@@ -650,7 +652,7 @@ For purposes of this subchapter:
 
 #### (p) Requiring submission of diagnostic information
 
-(1) Each request for payment, or bill submitted, for an item or service furnished by a physician or practitioner specified in subsection (b)(18)(C) of this section for which payment may be made under this part shall include the appropriate diagnosis code (or codes) as established by the Secretary for such item or service.
+(1) Each request for payment, or bill submitted, for an item or service furnished by a physician or practitioner specified in subsection\(b)(18)(C) of this section for which payment may be made under this part shall include the appropriate diagnosis code (or codes) as established by the Secretary for such item or service.
 
 (2) In the case of a request for payment for an item or service furnished by a physician or practitioner specified in subsection (b)(18)(C) of this section on an assignment-related basis which does not include the code (or codes) required under paragraph (1), payment may be denied under this part.
 
@@ -692,11 +694,23 @@ The Secretary shall establish a system which provides for a unique identifier fo
 
 #### (s) Application of fee schedule
 
-(1) Subject to paragraph (3), the Secretary may implement a statewide or other areawide fee schedule to be used for payment of any item or service described in paragraph (2) which is paid on a reasonable charge basis. Any fee schedule established under this paragraph for such item or service shall be updated each year by the percentage increase in the consumer price index for all urban consumers (United States city average) for the 12-month period ending with June of the preceding year, except that for items and services described in paragraph (2)(D)—
+(1)(A) Subject to paragraph (3), the Secretary may implement a statewide or other areawide fee schedule to be used for payment of any item or service described in paragraph (2) which is paid on a reasonable charge basis.
 
-&emsp;(A) for 2009 section 1395m(a)(14)(J)(i) of this title shall apply under this paragraph instead of the percentage increase otherwise applicable; and
+(B) Any fee schedule established under this paragraph for such item or service shall be updated—
 
-&emsp;(B) for 2014, if subparagraph (A) is applied to the items and services and there has not been a payment adjustment under paragraph (3)(B) for the items and services for any previous year, the percentage increase computed under section 1395m(a)(14)(L)(i) of this title shall apply instead of the percentage increase otherwise applicable.
+&emsp;(i) for years before 2011—
+
+&emsp;&emsp;(I) subject to subclause (II), by the percentage increase in the consumer price index for all urban consumers (United States city average) for the 12-month period ending with June of the preceding year; and
+
+&emsp;&emsp;(II) for items and services described in paragraph (2)(D) for 2009, section 1395m(a)(14)(J) of this title shall apply underthis paragraph instead of the percentage increase otherwise applicable; and
+
+&emsp;(ii) for 2011 and subsequent years—
+
+&emsp;&emsp;(I) the percentage increase in the consumer price index for all urban consumers (United States city average) for the 12-month period ending with June of the previous year, reduced by—
+
+&emsp;&emsp;(II) the productivity adjustment described in section 1395ww(b)(3)(B)(xi)(II) of this title.
+
+> The application of subparagraph (B)(ii)(II) may result in the update under this paragraph being less than 0.0 for a year, and may result in payment rates under any fee schedule established under this paragraph for a year being less than such payment rates for the preceding year.
 
 (2) The items and services described in this paragraph are as follows:
 
@@ -730,7 +744,7 @@ Each request for payment, or bill submitted, for an item or service furnished to
 
 Each request for payment, or bill submitted, for a drug furnished to an individual for the treatment of anemia in connection with the treatment of cancer shall include (in a form and manner specified by the Secretary) information on the hemoglobin or hematocrit levels for the individual.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1842, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 309; amended Pub. L. 90–248, title I, §§125(a), 154(d), Jan. 2, 1968, 81 Stat. 845, 863; Pub. L. 92–603, title II, §§211(c)(3), 224(a), 227(e)(3), 236(a), 258(a), 262(a), 263(d)(5), 281(d), Oct. 30, 1972, 86 Stat. 1384, 1395, 1407, 1414, 1447–1449, 1455; Pub. L. 93–445, title III, §307, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 94–182, title I, §101(a), Dec. 31, 1975, 89 Stat. 1051; Pub. L. 94–368, §§2, 3(a), (b), July 16, 1976, 90 Stat. 997; Pub. L. 95–142, §2(a)(1), Oct. 25, 1977, 91 Stat. 1175; Pub. L. 95–216, title V, §501(b), Dec. 20, 1977, 91 Stat. 1565; Pub. L. 96–499, title IX, §§918(a)(1), 946(a), (b), 948(b), Dec. 5, 1980, 94 Stat. 2625, 2642, 2643; Pub. L. 97–35, title XXI, §2142(b), Aug. 13, 1981, 95 Stat. 798; Pub. L. 97–248, title I, §§104(a), 113(a), 128(d)(1), Sept. 3, 1982, 96 Stat. 336, 340, 367; Pub. L. 98–369, div. B, title III, §§2303(e), 2306(a), (b)(1), (c), 2307(a)(1), (2), 2326(c)(2), (d)(2), 2339, 2354(b)(13), (14), title VI, 2663(j)(2)(F)(iv), July 18, 1984, 98 Stat. 1066, 1070, 1071, 1073, 1087, 1088, 1093, 1101, 1170; Pub. L. 98–617, §3(a)(1), (b)(5), (6), Nov. 8, 1984, 98 Stat. 3295, 3296; Pub. L. 99–272, title IX, §§9219(b)(1)(A), (2)(A), 9301(b)(1), (2), (c)(2)–(4), (d)(1)–(3), 9304(a), 9306(a), 9307(c), Apr. 7, 1986, 100 Stat. 182–188, 190, 193, 194; Pub. L. 99–509, title IX, §§9307(c)(2)(A), 9311(c), 9320(e)(3), 9331(a)(1)–(3), (b)(1)–(3), (c)(3)(A), 9332(a)(1), (b)(1), (2), (c)(1), (d)(1), 9333(a), (b), 9334(a), 9338(b), (c), 9341(a)(2), Oct. 21, 1986, 100 Stat. 1995, 1998, 2015, 2018–2026, 2028, 2035, 2038; Pub. L. 99–514, title XVIII, §1895(b)(14)(A), (15), (16)(A), Oct. 22, 1986, 100 Stat. 2934; Pub. L. 100–93, §8(c)(2), Aug. 18, 1987, 101 Stat. 692; Pub. L. 100–203, title IV, §§4031(a)(2), 4035(a)(2), 4041(a)(1), (3)(A), 4042(a), (b)(1), (2)(A), (c), 4044(a), 4045(a), (c)(1), (2)(B), (D), 4046(a), 4047(a), 4048(a), (e), 4051(a), 4053(a), formerly 4052(a), 4054(a), formerly 4053(a), 4063(a), 4081(a), 4082(c), 4085(g)(1), (i)(5)–(7), (22)(C), (24)–(27), 4096(a)(1), Dec. 22, 1987, 101 Stat. 1330–76, 1330–78, 1330–83 to 1330–89, 1330–93, 1330–97, 1330–109, 1330–126, 1330–128, 1330–131, 1330–132, 1330–139, as amended Pub. L. 100–360, title IV, §411(f)(1)(A), (2)(C), (D), (F), (3)(A), (4)(B), (7)(B), (11)(A), (14), (g)(2)(C), (i)(2), (4)(C)(vi), (j)(4)(A), July 1, 1988, 102 Stat. 776–779, 781, 783, 788, 789, 791; Pub. L. 100–360, title II, §§201(c), 202(c)(1), (e)(1)–(3)(A), (C), (4)(A), (5), (g), 223(b), (c), title IV, §411(a)(3)(A), (C)(i), (f)(1)(B), (2)(A), (B), (E), (3)(B), (4)(A), (C), (5), (6)(B), (7)(A), (9), (g)(2)(A), (B), (i)(1)(A), July 1, 1988, 102 Stat. 702, 713, 716–718, 747, 768, 776–780, 783, 787; Pub. L. 100–485, title VI, §608(d)(5)(A)–(D), (F)–(H), (17), (21)(A), (B), (D), (24)(B), Oct. 13, 1988, 102 Stat. 2414, 2418, 2420, 2421; Pub. L. 101–234, title II, §201(a), title III, §301(b)(2), (6), (c)(2), (d)(3), Dec. 13, 1989, 103 Stat. 1981, 1985,1986; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(ix), 6102(b), (e)(2)–(4), (9), 6104, 6106(a), 6107(b), 6108(a)(1), (b)(1), (2), 6114(b), (c), 6202(d)(2), Dec. 19, 1989, 103 Stat. 2153, 2184, 2187, 2188, 2208, 2210, 2212, 2213, 2218, 2234; Pub. L. 101–508, title IV, §§4101(a), (b)(1), 4103, 4105(a)(1), (2), (b)(1), 4106(a)(1), (b)(2), 4108(a), 4110(a), 4118(a)(1), (2), (f)(2)(A)–(C), (i)(1), (j)(2), 4155(c), Nov. 5, 1990, 104 Stat. 1388–54, 1388–58 to 1388–63, 1388–66, 1388–67, 1388–69 to 1388–71, 1388–87; Pub. L. 101–597, title IV, §401(c)(2), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–66, title XIII, §§13515(a)(2), 13516(a)(2), 13517(b), 13568(a), (b), Aug. 10, 1993, 107 Stat. 583–585, 608; Pub. L. 103–432, title I, §§123(b)(1), (2)(B), (c), 125(a), (b)(1), 126(a)(1), (c), (e), (g)(9), (h)(2), 135(b)(2), 151(b)(1)(B), (2)(B), Oct. 31, 1994, 108 Stat. 4411–4416, 4423, 4434; Pub. L. 104–191, title II, §§202(b)(2), 221(b), Aug. 21, 1996, 110 Stat. 1998, 2011; Pub. L. 105–33, title IV, §§4201(c)(1), 4205(d)(3)(B), 4302(b), 4315(a), 4316(a), 4317(a), (b), 4432(b)(2), (4), 4512(b)(2), (c), 4531(a)(2), 4556(a), 4603(c)(2)(B)(i), 4611(d), Aug. 5, 1997, 111 Stat. 373, 377, 382, 390, 392, 421, 444, 450, 462, 471, 473; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §223(c), title III, §§305(a), 321(k)(4)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–353, 1501A–361, 1501A–366; Pub. L. 106–554, §1(a)(6) \[title I, §§105(d), 114(a), title II, §222(a), title III, §313(b)(1), (2), title IV, §432(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–472, 2763A–473, 2763A–487, 2763A–499, 2763A–526; Pub. L. 108–173, title III, §§302(d)(3), 303(b), (e), (g)(1), (i)(1), 305(a), title VI, §627(b)(2), title VII, §736(b)(8), (9), title IX, §§911(c), 952(a), (b), Dec. 8, 2003, 117 Stat. 2233, 2238, 2252–2255, 2321, 2356, 2383, 2427; Pub. L. 109–171, title V, §§5114(a)(2), 5202(a)(2), Feb. 8, 2006, 120 Stat. 45, 47; Pub. L. 109–432, div. B, title I, §110(a), title II, §205(b)(2), title IV, §405(c)(2)(A)(i), Dec. 20, 2006, 120 Stat. 2985, 2989, 2999; Pub. L. 110–54, §1(a), Aug. 3, 2007, 121 Stat. 551; Pub. L. 110–173, title I, §116, Dec. 29, 2007, 121 Stat. 2507; Pub. L. 110–275, title I, §§137, 154(a)(2)(B), July 15, 2008, 122 Stat. 2540, 2563.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1842, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 309; amended Pub. L. 90–248, title I, §§125(a), 154(d), Jan. 2, 1968, 81 Stat. 845, 863; Pub. L. 92–603, title II, §§211(c)(3), 224(a), 227(e)(3), 236(a), 258(a), 262(a), 263(d)(5), 281(d), Oct. 30, 1972, 86 Stat. 1384, 1395, 1407, 1414, 1447–1449, 1455; Pub. L. 93–445, title III, §307, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 94–182, title I, §101(a), Dec. 31, 1975, 89 Stat. 1051; Pub. L. 94–368, §§2, 3(a), (b), July 16, 1976, 90 Stat. 997; Pub. L. 95–142, §2(a)(1), Oct. 25, 1977, 91 Stat. 1175; Pub. L. 95–216, title V, §501(b), Dec. 20, 1977, 91 Stat. 1565; Pub. L. 96–499, title IX, §§918(a)(1), 946(a), (b), 948(b), Dec. 5, 1980, 94 Stat. 2625, 2642, 2643; Pub. L. 97–35, title XXI, §2142(b), Aug. 13, 1981, 95 Stat. 798; Pub. L. 97–248, title I, §§104(a), 113(a), 128(d)(1), Sept. 3, 1982, 96 Stat. 336, 340, 367; Pub. L. 98–369, div. B, title III, §§2303(e), 2306(a), (b)(1), (c), 2307(a)(1), (2), 2326(c)(2), (d)(2), 2339, 2354(b)(13), (14), title VI, 2663(j)(2)(F)(iv), July 18, 1984, 98 Stat. 1066, 1070, 1071, 1073, 1087, 1088, 1093, 1101, 1170; Pub. L. 98–617, §3(a)(1), (b)(5), (6), Nov. 8, 1984, 98 Stat. 3295, 3296; Pub. L. 99–272, title IX, §§9219(b)(1)(A), (2)(A), 9301(b)(1), (2), (c)(2)–(4), (d)(1)–(3), 9304(a), 9306(a), 9307(c), Apr. 7, 1986, 100 Stat. 182–188, 190, 193, 194; Pub. L. 99–509, title IX, §§9307(c)(2)(A), 9311(c), 9320(e)(3), 9331(a)(1)–(3), (b)(1)–(3), (c)(3)(A), 9332(a)(1), (b)(1), (2), (c)(1), (d)(1), 9333(a), (b), 9334(a), 9338(b), (c), 9341(a)(2), Oct. 21, 1986, 100 Stat. 1995, 1998, 2015, 2018–2026, 2028, 2035, 2038; Pub. L. 99–514, title XVIII, §1895(b)(14)(A), (15), (16)(A), Oct. 22, 1986, 100 Stat. 2934; Pub. L. 100–93, §8(c)(2), Aug. 18, 1987, 101 Stat. 692; Pub. L. 100–203, title IV, §§4031(a)(2), 4035(a)(2), 4041(a)(1), (3)(A), 4042(a), (b)(1), (2)(A), (c), 4044(a), 4045(a), (c)(1), (2)(B), (D), 4046(a), 4047(a), 4048(a), (e), 4051(a), 4053(a), formerly 4052(a), 4054(a), formerly 4053(a), 4063(a), 4081(a), 4082(c), 4085(g)(1), (i)(5)–(7), (22)(C), (24)–(27), 4096(a)(1), Dec. 22, 1987, 101 Stat. 1330–76, 1330–78, 1330–83 to 1330–89, 1330–93, 1330–97, 1330–109, 1330–126, 1330–128, 1330–131, 1330–132, 1330–139, as amended Pub. L. 100–360, title IV, §411(f)(1)(A), (2)(C), (D), (F), (3)(A), (4)(B), (7)(B), (11)(A), (14), (g)(2)(C), (i)(2), (4)(C)(vi), (j)(4)(A), July 1, 1988, 102 Stat. 776–779, 781, 783, 788, 789, 791; Pub. L. 100–360, title II, §§201(c), 202(c)(1), (e)(1)–(3)(A), (C), (4)(A), (5), (g), 223(b), (c), title IV, §411(a)(3)(A), (C)(i), (f)(1)(B), (2)(A), (B), (E), (3)(B), (4)(A), (C), (5), (6)(B), (7)(A), (9), (g)(2)(A), (B), (i)(1)(A), July 1, 1988, 102 Stat. 702, 713, 716–718, 747, 768, 776–780, 783, 787; Pub. L. 100–485, title VI, §608(d)(5)(A)–(D), (F)–(H), (17), (21)(A), (B), (D), (24)(B), Oct. 13, 1988, 102 Stat. 2414, 2418, 2420, 2421; Pub. L. 101–234, title II, §201(a), title III, §301(b)(2), (6), (c)(2), (d)(3), Dec. 13, 1989, 103 Stat. 1981, 1985, 1986; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(ix), 6102(b), (e)(2)–(4), (9), 6104, 6106(a), 6107(b), 6108(a)(1), (b)(1), (2), 6114(b), (c), 6202(d)(2), Dec. 19, 1989, 103 Stat. 2153, 2184, 2187, 2188, 2208, 2210, 2212, 2213, 2218, 2234; Pub. L. 101–508, title IV, §§4101(a), (b)(1), 4103, 4105(a)(1), (2), (b)(1), 4106(a)(1), (b)(2), 4108(a), 4110(a), 4118(a)(1), (2), (f)(2)(A)–(C), (i)(1), (j)(2), 4155(c), Nov. 5, 1990, 104 Stat. 1388–54, 1388–58 to 1388–63, 1388–66, 1388–67, 1388–69 to 1388–71, 1388–87; Pub. L. 101–597, title IV, §401(c)(2), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–66, title XIII, §§13515(a)(2), 13516(a)(2), 13517(b), 13568(a), (b), Aug. 10, 1993, 107 Stat. 583–585, 608; Pub. L. 103–432, title I, §§123(b)(1), (2)(B), (c), 125(a), (b)(1), 126(a)(1), (c), (e), (g)(9), (h)(2), 135(b)(2), 151(b)(1)(B), (2)(B), Oct. 31, 1994, 108 Stat. 4411–4416, 4423, 4434; Pub. L. 104–191, title II, §§202(b)(2), 221(b), Aug. 21, 1996, 110 Stat.1998, 2011; Pub. L. 105–33, title IV, §§4201(c)(1), 4205(d)(3)(B), 4302(b), 4315(a), 4316(a), 4317(a), (b), 4432(b)(2), (4), 4512(b)(2), (c), 4531(a)(2), 4556(a), 4603(c)(2)(B)(i), 4611(d), Aug. 5, 1997, 111 Stat. 373, 377, 382, 390, 392, 421, 444, 450, 462, 471, 473; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §223(c), title III, §§305(a), 321(k)(4)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–353, 1501A–361, 1501A–366; Pub. L. 106–554, §1(a)(6) \[title I, §§105(d), 114(a), title II, §222(a), title III, §313(b)(1), (2), title IV, §432(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–472, 2763A–473, 2763A–487, 2763A–499, 2763A–526; Pub. L. 108–173, title III, §§302(d)(3), 303(b), (e), (g)(1), (i)(1), 305(a), title VI, §627(b)(2), title VII, §736(b)(8), (9), title IX, §§911(c), 952(a), (b), Dec. 8, 2003, 117 Stat. 2233, 2238, 2252–2255, 2321, 2356, 2383, 2427; Pub. L. 109–171, title V, §§5114(a)(2), 5202(a)(2), Feb. 8, 2006, 120 Stat. 45, 47; Pub. L. 109–432, div. B, title I, §110(a), title II, §205(b)(2), title IV, §405(c)(2)(A)(i), Dec. 20, 2006, 120 Stat. 2985, 2989, 2999; Pub. L. 110–54, §1(a), Aug. 3, 2007, 121 Stat. 551; Pub. L. 110–173, title I, §116, Dec. 29, 2007, 121 Stat. 2507; Pub. L. 110–275, title I, §§137, 154(a)(2)(B), July 15, 2008, 122 Stat. 2540, 2563; Pub. L. 111–148, title III, §3401(<i>o</i>), title VI, §§6404(a)(2)(A), 6406(a), Mar. 23, 2010, 124 Stat. 488, 767, 769.)
 
 #### References in Text
 
@@ -742,15 +756,27 @@ Section 303 of the Medicare Prescription Drug, Improvement, and Modernization Ac
 
 #### Amendments
 
-2008—Subsec. (b)(6)(D)(iii). Pub. L. 110–275, §137, struck out “(before July 1, 2008)” after “or are provided”.
+<b>2010</b>—Subsec. (b)(3). Pub. L. 111–148, §6404(a)(2)(A)(ii), at end of concluding provisions, inserted “In applying subparagraph (B), the Secretary may specify exceptions to the 1 calendar year period specified in such subparagraph.”
+
+Subsec. (b)(3)(B). Pub. L. 111–148, §6404(a)(2)(A)(i), substituted “period ending 1 calendar year after the date of service” for “close of the calendar year following the year in which such service is furnished (deeming any service furnished in the last 3 months of any calendar year to have been furnished in the succeeding calendar year)” in concluding provisions.
+
+Subsec. (h)(9). Pub. L. 111–148, §6406(a), added par. (9).
+
+Subsec. (s)(1). Pub. L. 111–148, §3401(<i>o</i>), designated existing provisions as subpar. (A), added subpar. (B) and concluding provisions, and struck out former second sentence, which read as follows: “Any fee schedule established under this paragraph for such item or service shall be updated each year by the percentage increase in the consumer price index for all urban consumers (United States city average) for the 12-month period ending with June of the preceding year, except that for items and services described in paragraph (2)(D)—
+
+&emsp;“(A) for 2009 section 1395m(a)(14)(J)(i) of this title shall apply under this paragraph instead of the percentage increase otherwise applicable; and
+
+&emsp;“(B) for 2014, if subparagraph (A) is applied to the items and services and there has not been a payment adjustment under paragraph (3)(B) for the items and services for any previous year, the percentage increase computed under section 1395m(a)(14)(L)(i) of this title shall apply instead of the percentage increase otherwise applicable.”
+
+<b>2008</b>—Subsec. (b)(6)(D)(iii). Pub. L. 110–275, §137, struck out “(before July 1, 2008)” after “or are provided”.
 
 Subsec. (s)(1). Pub. L. 110–275, §154(a)(2)(B), substituted “except that for items and services described in paragraph (2)(D)—” for “except that in no event shall a fee schedule for an item described in paragraph (2)(D) be updated before 2003.” and added subpars. (A) and (B).
 
-2007—Subsec. (b)(6)(D)(iii). Pub. L. 110–173 substituted “July 1, 2008” for “January 1, 2008”.
+<b>2007</b>—Subsec. (b)(6)(D)(iii). Pub. L. 110–173 substituted “July 1, 2008” for “January 1, 2008”.
 
 Pub. L. 110–54 inserted “or are provided (before January 1, 2008) over a longer continuous period during all of which the first physician has been called or ordered to active duty as a member of a reserve component of the Armed Forces” after “of more than 60 days”.
 
-2006—Subsec. (b)(6)(H). Pub. L. 109–432, §§205(b)(2), 405(c)(2)(A)(i), amended directory language of Pub. L. 109–171, §5114(a)(2), identically, making technical correction. See below.
+<b>2006</b>—Subsec. (b)(6)(H). Pub. L. 109–432, §§205(b)(2), 405(c)(2)(A)(i), amended directory language of Pub. L. 109–171, §5114(a)(2), identically, making technical correction. See below.
 
 Pub. L. 109–171, §5114(a)(2), as amended by Pub. L. 109–432, §§205(b)(2), 405(c)(2)(A)(i), added subpar. (H).
 
@@ -758,7 +784,7 @@ Subsec. (c)(3)(B)(ii). Pub. L. 109–171, §5202(a)(2), substituted “28 days�
 
 Subsec. (u). Pub. L. 109–432, §110(a), added subsec. (u).
 
-2003—Pub. L. 108–173, §911(c)(1), substituted “Provisions relating to the administration of part B” for “Use of carriers for administration of benefits” in section catchline.
+<b>2003</b>—Pub. L. 108–173, §911(c)(1), substituted “Provisions relating to the administration of part B” for “Use of carriers for administration of benefits” in section catchline.
 
 Subsec. (a). Pub. L. 108–173, §911(c)(2), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized the Secretary to enter into contracts with carriers for the administration of benefits under this part.
 
@@ -778,11 +804,11 @@ Pub. L. 108–173, §911(c)(3)(C)(i), substituted “The Secretary” for “Eac
 
 Subsec. (b)(3)(A). Pub. L. 108–173, §911(c)(3)(C)(ii), substituted “shall take such action” for “will take such action”.
 
-Subsec. (b)(3)(B). Pub. L. 108–173, §911(c)(3)(C)(iii), substituted “to the policyholders and subscribers of the medicare administrative contractor” for “to the policyholders and subscribers of the carrier” in introductory provisions.
+Subsec. (b)(3)(B). Pub. L. 108–173, §911(c)(3)(C)(iii), substituted “to the policyholders and subscribers of themedicare administrative contractor” for “to the policyholders and subscribers of the carrier” in introductory provisions.
 
 Pub. L. 108–173, §911(c)(3)(C)(ii), substituted “shall take such action” for “will take such action” in introductory provisions.
 
-Subsec. (b)(3)(C) to (E). Pub. L. 108–173, §911(c)(3)(C)(iv), struck out subpars. (C) to (E), which directed that each contract provide that the carrier would establish and maintain procedures for a fair hearing in any case where the amount in controversy was between $100 and $500, that the carrier would furnish to the Secretary such information and reports as he would find necessary in performing his functions under this part, and that the carrier would maintain such records and afford such access thereto as the Secretary would find necessary to assure the correctnessand verification of the information and reports under former subpar. (D) and otherwise to carry out the purposes of this part.
+Subsec. (b)(3)(C) to (E). Pub. L. 108–173, §911(c)(3)(C)(iv), struck out subpars. (C) to (E), which directed that each contract provide that the carrier would establish and maintain procedures for a fair hearing in any case where the amount in controversy was between $100 and $500, that the carrier would furnish to the Secretary such information and reports as he would find necessary in performing his functions under this part, and that the carrier would maintain such records and afford such access thereto as the Secretary would find necessary to assure the correctness and verification of the information and reports under former subpar. (D) and otherwise to carry out the purposes of this part.
 
 Subsec. (b)(3)(F). Pub. L. 108–173, §911(c)(3)(C)(ii), substituted “shall take such action” for “will take such action”.
 
@@ -864,7 +890,7 @@ Subsec. (s)(2)(C). Pub. L. 108–173, §627(b)(2), struck out subpar. (C) which 
 
 Subsec. (s)(3). Pub. L. 108–173, §302(d)(3)(B), added par. (3).
 
-2000—Subsec. (b)(6)(C). Pub. L. 106–554, §1(a)(6) \[title II, §222(a)\], struck out “for such services provided before January 1, 2003,” before “payment may be made” and substituted comma for semicolon at end.
+<b>2000</b>—Subsec. (b)(6)(C). Pub. L. 106–554, §1(a)(6) \[title II, §222(a)\], struck out “for such services provided before January 1, 2003,” before “payment may be made” and substituted comma for semicolon at end.
 
 Subsec. (b)(6)(E). Pub. L. 106–554, §1(a)(6) \[title III, §313(b)(1)\], inserted “by, or under arrangements made by, a skilled nursing facility” before “to an individual who” and struck out “or of a part of a facility that includes a skilled nursing facility (as determined under regulations)” before “, payment shall be made” and “(without regard to whether or not the item or service was furnished by the facility, by others under arrangement with them made by the facility, under any other contracting or consulting arrangement, or otherwise)” after “to the facility”.
 
@@ -876,13 +902,13 @@ Subsec. (<i>o</i>)(3). Pub. L. 106–554, §1(a)(6) \[title I, §114(a)\], added
 
 Subsec. (t). Pub. L. 106–554, §1(a)(6) \[title III, §313(b)(2)\], struck out “by a physician” before “to an individual” and “or of a part of a facility that includes a skilled nursing facility (as determined under regulations),” before “for which payment may be made”.
 
-1999—Subsec. (b)(6)(F). Pub. L. 106–113, §1000(a)(6) \[title III, §305(a)\], inserted “(including medical supplies described in section 1395x(m)(5) of this title, but excluding durable medical equipment to the extent provided for in such section)” after “home health services”.
+<b>1999</b>—Subsec. (b)(6)(F). Pub. L. 106–113, §1000(a)(6) \[title III, §305(a)\], inserted “(including medical supplies described in section 1395x(m)(5) of this title, but excluding durable medical equipment to the extent provided for in such section)” after “home health services”.
 
 Subsec. (b)(8)(A)(i)(I). Pub. L. 106–113, §1000(a)(6) \[title II, §223(c)\], substituted “the application of this subchapter to payment under this part” for “the application of this part”.
 
 Subsec. (s)(2)(E). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(4)\], inserted period at end.
 
-1997—Subsec. (b)(2)(E). Pub. L. 105–33, §4611(d), added subpar. (E).
+<b>1997</b>—Subsec. (b)(2)(E). Pub. L. 105–33, §4611(d), added subpar. (E).
 
 Subsec. (b)(6). Pub. L. 105–33, §4512(c), inserted at end “For purposes of subparagraph (C) of the first sentence of this paragraph, an employment relationship may include any independent contractor arrangement, and employer status shall be determined in accordance with the law of the State in which the services described in such clause are performed.”
 
@@ -928,11 +954,11 @@ Subsec. (s). Pub. L. 105–33, §4315(a), added subsec. (s).
 
 Subsec. (t). Pub. L. 105–33, §4432(b)(4), added subsec. (t).
 
-1996—Subsec. (c)(6). Pub. L. 104–191, §202(b)(2), added par. (6).
+<b>1996</b>—Subsec. (c)(6). Pub. L. 104–191, §202(b)(2), added par. (6).
 
 Subsec. (r). Pub. L. 104–191, §221(b), inserted at end “Under such system, the Secretary may impose appropriate fees on such physicians to cover the costs of investigation and recertification activities with respect to the issuance of the identifiers.”
 
-1994—Subsec. (b)(2)(A). Pub. L. 103–432, §126(g)(9), made technical amendment to directory language of Pub. L. 101–508, §4118(j)(2). See 1990 Amendment note below.
+<b>1994</b>—Subsec. (b)(2)(A). Pub. L. 103–432, §126(g)(9), made technical amendment to directory language of Pub. L. 101–508, §4118(j)(2). See 1990 Amendment note below.
 
 Subsec. (b)(2)(D). Pub. L. 103–432, §151(b)(2)(B), added subpar. (D).
 
@@ -946,7 +972,7 @@ Subsec. (b)(3)(I). Pub. L. 103–432, §151(b)(1)(B)(iii), added subpar. (I).
 
 Subsec. (b)(6)(D). Pub. L. 103–432, §125(b)(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “payment may be made to a physician who arranges for visit services (including emergency visits and related services) to be provided to an individual by a second physician on an occasional, reciprocal basis if (i) the first physician is unavailable to provide the visit services, (ii) the individual has arranged or seeks to receive the visit services from the first physician, (iii) the claim form submitted to the carrier includes the second physician's unique identifier (provided under the system established under subsection (r) of this section) and indicates that the claim is for such a ‘covered visit service (and related services)’, and (iv) the visit services are not provided by the second physician over a continuous period of longer than 60 days.”
 
-Subsec. (b)(12)(C). Pub. L. 103–432, §123(b)(2)(B), struck out subpar. (C). Prior to amendment, subpar. (C) readas follows: “Except for deductible and coinsurance amounts applicable under section 1395<i>l</i> of this title, any person who knowingly and willfully presents, or causes to be presented, to an individual enrolled under this part a bill or request for payment for services described in clauses (i), (ii), or (iv) of section 1395x(s)(2)(K) of this title in violation of subparagraph (A)(i) is subject to a civil money penalty of not to exceed $2,000 for each such bill or request. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.”
+Subsec. (b)(12)(C). Pub. L. 103–432, §123(b)(2)(B), struck out subpar. (C). Prior to amendment, subpar. (C) read as follows: “Except for deductible and coinsurance amounts applicable under section 1395<i>l</i> of this title, any person who knowingly and willfully presents, or causes to be presented, to an individual enrolled under this part a bill or request for payment for services described in clauses (i), (ii), or (iv) of section 1395x(s)(2)(K) of this title in violation of subparagraph (A)(i) is subject to a civil money penalty of not to exceed $2,000 for each such bill or request. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.”
 
 Subsec. (b)(16)(B)(iii). Pub. L. 103–432, §126(a)(1), struck out “, simple and subcutaneous” after “Partial”, substituted “injections and small joint” for “injections; small joint” and “femoral fracture and” for “femoral fracture treatments;”, struck out “lobectomy;” after “thoracostomy;” and “enterectomy; colectomy; cholecystectomy;” after “aneurysm repair;”, substituted “fulguration and resection” for “fulguration; transurerethral resection”, and struck out “sacral laminectomy;” before “tympanoplasty”.
 
@@ -972,7 +998,7 @@ Subsec. (q)(1)(B). Pub. L. 103–432, §126(c)(2)(A), substituted “shall, subj
 
 Subsec. (q)(1)(B)(iii). Pub. L. 103–432, §126(c)(2)(B), substituted “The adjusted prevailing charge conversion factor for” for “Subject to clause (iv), the prevailing charge conversion factor to be applied in”.
 
-1993—Subsec. (b)(4)(F). Pub. L. 103–66, §13515(a)(2), struck out subpar. (F) which related to prevailing charge or fee schedule amount in case of professional services of health care practitioner (other than primary care services and other than services furnished in rural area designated as health professional shortage area) furnished during practitioner's first through fourth years of practice.
+<b>1993</b>—Subsec. (b)(4)(F). Pub. L. 103–66, §13515(a)(2), struck out subpar. (F) which related to prevailing charge or fee schedule amount in case of professional services of health care practitioner (other than primary care services and other than services furnished in rural area designated as health professional shortage area) furnished during practitioner's first through fourth years of practice.
 
 Subsec. (b)(13)(A). Pub. L. 103–66, §13516(a)(2)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “In determining the reasonable charge under paragraph (3) of a physician for medical direction of two or more nurse anesthetists performing, on or after April 1, 1988, and before January 1, 1996, anesthesia services in whole or in part concurrently, the number of base units which may be recognized with respect to such medical direction for each concurrent procedure (other than cataract surgery or an iridectomy) shall be reduced by—
 
@@ -994,7 +1020,7 @@ Subsec. (c)(3)(B). Pub. L. 103–66, §13568(a), added cls. (i) and (ii) and str
 
 Subsec. (i)(2). Pub. L. 103–66, §13517(b), substituted “; the term” for “, and the term” and inserted before period at end “; and the term ‘nonparticipating supplier or other person’ means a supplier or other person (excluding a provider of services) that is not a participating physician or supplier (as defined in subsection (h)(1) of this section)”.
 
-1990—Subsec. (b)(2)(A). Pub. L. 101–508, §4118(j)(2), as amended by Pub. L. 103–432, §126(g)(9), substituted “section 1395w–1(e)(2)” for “section 1395w–1(f)(2)”.
+<b>1990</b>—Subsec. (b)(2)(A). Pub. L. 101–508, §4118(j)(2), as amended by Pub. L. 103–432, §126(g)(9), substituted “section 1395w–1(e)(2)” for “section 1395w–1(f)(2)”.
 
 Subsec. (b)(3)(G). Pub. L. 101–508, §4118(f)(2)(B), substituted “section 1395w–4(g)(2) of this title” for “subsection (j)(1)(C) of this section”.
 
@@ -1006,7 +1032,7 @@ Subsec. (b)(4)(E)(iv)(I). Pub. L. 101–508, §4118(a)(2), substituted “the li
 
 Subsec. (b)(4)(E)(v). Pub. L. 101–508, §4105(a)(1), added cl. (v).
 
-Subsec. (b)(4)(F). Pub. L. 101–508, §4106(a)(1), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “In determining the customary charges for physicians’ services furnished during a calendar year (other than primary care services and other than services furnished in a rural area (as defined in section 1395ww(d)(2)(D) of this title) that is designated, under section 254e(a)(1)(A) of this title, as a health manpower shortage area) for which adequate actual charge data are not available because a physician has not yet been in practice for a sufficient period of time, the Secretary shall set a customary charge at a level no higher than 80 percent of the prevailing charge for a service. For the first calendar year during which the preceding sentence no longer applies, the Secretary shall set the customary charge at a level no higher than 85 percent of the prevailing charge for the service.”
+Subsec. (b)(4)(F). Pub. L. 101–508, §4106(a)(1), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “In determining the customary charges for physicians’ services furnished during a calendaryear (other than primary care services and other than services furnished in a rural area (as defined in section 1395ww(d)(2)(D) of this title) that is designated, under section 254e(a)(1)(A) of this title, as a health manpower shortage area) for which adequate actual charge data are not available because a physician has not yet been in practice for a sufficient period of time, the Secretary shall set a customary charge at a level no higher than 80 percent of the prevailing charge for a service. For the first calendar year during which the preceding sentence no longer applies, the Secretary shall set the customary charge at a level no higher than 85 percent of the prevailing charge for the service.”
 
 Subsec. (b)(4)(F)(i). Pub. L. 101–597 substituted “health professional shortage area” for “health manpower shortage area”.
 
@@ -1048,7 +1074,7 @@ Subsec. (q)(1). Pub. L. 101–508, §4103(a), as amended by Pub. L. 103–432, �
 
 Subsec. (r). Pub. L. 101–508, §4118(i)(1), added subsec. (r).
 
-1989—Subsec. (b)(2)(A). Pub. L. 101–239, §6202(d)(2), inserted at end “The Secretary may not require, as a condition of entering into or renewing a contract under this section or under section 1395hh of this title, that a carrier match data obtained other than in its activities under this part with data used in the administration of this part for purposes of identifying situations in which section 1395y(b) of this title may apply.”
+<b>1989</b>—Subsec. (b)(2)(A). Pub. L. 101–239, §6202(d)(2), inserted at end “The Secretary may not require, as a condition of entering into or renewing a contract under this section or under section 1395hh of this title, that a carrier match data obtained other than in its activities under this part with data used in the administration of this part for purposes of identifying situations in which section 1395y(b) of this title may apply.”
 
 Pub. L. 101–234, §201(a), repealed Pub. L. 100–360, §202(e)(3)(C), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
 
@@ -1100,7 +1126,7 @@ Subsec. (<i>o</i>). Pub. L. 101–234, §201(a), repealed Pub. L. 100–360, §2
 
 Subsec. (q). Pub. L. 101–239, §6106(a), added subsec. (q).
 
-1988—Subsec. (b)(2). Pub. L. 100–360, §411(i)(2), amended Pub. L. 100–203, §4082(c), see 1987 Amendment note below.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–360, §411(i)(2), amended Pub. L. 100–203, §4082(c), see 1987 Amendment note below.
 
 Subsec. (b)(2)(A). Pub. L. 100–485, §608(d)(5)(G), inserted “, including claims processing functions” after “and related functions” in last sentence.
 
@@ -1242,7 +1268,7 @@ Subsec. (<i>o</i>)(1)(B)(ii). Pub. L. 100–485, §608(d)(5)(A)(ii), substituted
 
 Subsec. (p). Pub. L. 100–360, §202(g), added subsec. (p).
 
-1987—Subsec. (b)(2). Pub. L. 100–203, §4082(c), as amended by Pub. L. 100–360, §411(i)(2), designated existing provisions as subpar. (A) and added subpar. (B).
+<b>1987</b>—Subsec. (b)(2). Pub. L. 100–203, §4082(c), as amended by Pub. L. 100–360, §411(i)(2), designated existing provisions as subpar. (A) and added subpar. (B).
 
 Pub. L. 100–203, §4041(a)(3)(A)(i), inserted at end “In establishing such standards and criteria, the Secretary shall provide a system to measure a carrier's performance of responsibilities described in paragraph (3)(H) and subsection (h) of this section.”
 
@@ -1292,7 +1318,7 @@ Subsec. (b)(11)(C). Pub. L. 100–203, §4063(a)(1)(A), designated existing prov
 
 Pub. L. 100–203, §4046(a)(1)(B), (C), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-Pub. L. 100–203, §4045(c)(1)(A), struck out former cl. (i) designation before “In the case of” and substituted “, the physician's actual charge is subject to a limit under subsection (j)(1)(D) of this section.” for “(subject to clause (iv)), the physician may not charge the individual more than the limiting charge (as defined in clause (ii)) plus (for services furnished during the 12-month period beginning on the effective date of the reduction) 1/2 of the amount by which the physician's actual charges for the service for the previous 12-month period exceeds the limiting charge.”, and struck out former cls. (ii) to (iv) which read as follows:
+Pub. L. 100–203, §4045(c)(1)(A), struck out former cl. (i) designation before “In the case of” and substituted “, the physician's actual charge is subject to a limit under subsection (j)(1)(D) of this section.” for “(subject to clause (iv)), the physician may not charge the individual more than the limiting charge (as defined in clause (ii)) plus (for services furnished during the 12-month period beginning on the effective date of the reduction) ½ of the amount by which the physician's actual charges for the service for the previous 12-month period exceeds the limiting charge.”, and struck out former cls. (ii) to (iv) which read as follows:
 
 “(ii) In clause (i), the term ‘limiting charge’ means, with respect to a service, 125 percent of the prevailing charge for the service after the reduction referred to in clause (i).
 
@@ -1374,7 +1400,7 @@ Subsec. (<i>l</i>)(1)(C)(i). Pub. L. 100–203, §4085(i)(27), as added by Pub. 
 
 Subsec. (n). Pub. L. 100–203, §4051(a), added subsec. (n).
 
-1986—Subsec. (b)(3). Pub. L. 99–509, §9331(c)(3)(A), inserted “or (with respect to physicians services furnished in a year after 1987) the level determined under this sentence for the previous year” after “ending June 30, 1973,” and “year-to-year” before “economic changes” in fourth sentence.
+<b>1986</b>—Subsec. (b)(3). Pub. L. 99–509, §9331(c)(3)(A), inserted “or (with respect to physicians services furnished in a year after 1987) the level determined under this sentence for the previous year” after “ending June 30, 1973,” and “year-to-year” before “economic changes” in fourth sentence.
 
 Pub. L. 99–272, §9301(d)(1)(B), (C), substituted “June 30 last preceding the start of the calendar year” for “March 31 last preceding the start of the twelve-month period (beginning October 1 of each year)” in third sentence, and struck out “the twelve-month period beginning on October 1 in” before “any calendar year after 1974” in eighth sentence.
 
@@ -1486,7 +1512,7 @@ Subsec. (<i>l</i>). Pub. L. 99–509, §9332(c)(1), added subsec. (<i>l</i>).
 
 Subsec. (m). Pub. L. 99–509, §9332(d)(1), added subsec. (m).
 
-1984—Subsec. (b)(2). Pub. L. 98–369, §2326(c)(2), inserted at end provision that the Secretary publish in the Federal Register standards and criteria for efficient and effective performance of contract obligations under this section and provide an opportunity for public comment prior to implementation.
+<b>1984</b>—Subsec. (b)(2). Pub. L. 98–369, §2326(c)(2), inserted at end provision that the Secretary publish in the Federal Register standards and criteria for efficient and effective performance of contract obligations under this section and provide an opportunity for public comment prior to implementation.
 
 Subsec. (b)(3). Pub. L. 98–369, §2306(b)(1)(B), (C), substituted “during the 12-month period ending on the March 31 last preceding” for “during the last preceding calendar year elapsing prior to” in third sentence and substituted “October 1” for “July 1” wherever appearing in third and eighth sentences.
 
@@ -1528,15 +1554,15 @@ Pub. L. 98–369, §2303(e), struck out subsec. (h) providing for payment for la
 
 Subsecs. (i), (j). Pub. L. 98–369, §2306(c), added subsecs. (i) and (j).
 
-1982—Subsec. (b)(3)(B)(ii)(II). Pub. L. 97–248, §128(d)(1), substituted “section 1395y(a)” for “section 1395y”.
+<b>1982</b>—Subsec. (b)(3)(B)(ii)(II). Pub. L. 97–248, §128(d)(1), substituted “section 1395y(a)” for “section 1395y”.
 
 Subsec. (b)(3). Pub. L. 97–248, §104(a), in provisions following subpar. (F), inserted provisions that in determining the reasonable charge for outpatient services, the Secretary may limit such reasonable charge to a percentage of the amount of the prevailing charge for similar services furnished in a physician's office, taking into account the extent to which overhead costs associated with such outpatient services have been included in the reasonable cost or charge of the facility.
 
 Subsec. (b)(6)(D). Pub. L. 97–248, §113(a), added subpar. (D).
 
-1981—Subsec. (b)(3). Pub. L. 97–35 inserted provision that the amount of any charges for outpatient services which shall be considered reasonable shall be subject to the limitations established by regulations issued by the Secretary pursuant to section 1395x(v)(1)(K) of this title.
+<b>1981</b>—Subsec. (b)(3). Pub. L. 97–35 inserted provision that the amount of any charges for outpatient services which shall be considered reasonable shall be subject to the limitations established by regulations issued by the Secretary pursuant to section 1395x(v)(1)(K) of this title.
 
-1980—Subsec. (b)(3). Pub. L. 96–499, §946(a), in provisions following subpar. (F), substituted “service is rendered” for “bill is submitted or the request for payment is made”.
+<b>1980</b>—Subsec. (b)(3). Pub. L. 96–499, §946(a), in provisions following subpar. (F), substituted “service is rendered” for “bill is submitted or the request for payment is made”.
 
 Subsec. (b)(3)(F). Pub. L. 96–499, §946(b), added subpar. (F).
 
@@ -1544,19 +1570,19 @@ Subsec. (b)(6). Pub. L. 96–499, §948(b), added par. (6).
 
 Subsec. (h). Pub. L. 96–499, §918(a)(1), added subsec. (h).
 
-1977—Subsec. (b)(3). Pub. L. 95–216 provided that, with respect to power-operated wheelchairs for which payment may be made in accordance with section 1395x(s)(6) of this title, charges determined to be reasonable may not exceed the lowest charge at which power-operated wheelchairs are available in the locality.
+<b>1977</b>—Subsec. (b)(3). Pub. L. 95–216 provided that, with respect to power-operated wheelchairs for which payment may be made in accordance with section 1395x(s)(6) of this title, charges determined to be reasonable may not exceed the lowest charge at which power-operated wheelchairs are available in the locality.
 
 Subsec. (b)(5). Pub. L. 95–142 inserted provisions relating to payments under a reassignment or power of attorney in cases other than direct payments to physicians or service providers.
 
-1976—Subsec. (b)(3). Pub. L. 94–368 substituted “for the twelve-month period beginning on July 1 in any calendar year after 1974” for “for the fiscal year beginning July 1, 1975,”, “prior to the start of the twelve-month period (beginning July 1, of each year) in which the bill is submitted or the request for payment is made” for “prior to the start of the fiscal year in which the bill is submitted or the request for payment is made”, and “for any twelve-month period (beginning after June 30, 1973) specified in clause (ii) of such sentence” for “for any fiscal year beginning after June 30, 1973,”.
+<b>1976</b>—Subsec. (b)(3). Pub. L. 94–368 substituted “for the twelve-month period beginning on July 1 in any calendar year after 1974” for “for the fiscal year beginning July 1, 1975,”, “prior to the start of the twelve-month period (beginning July 1, of each year) in which the bill is submitted or the request for payment is made” for “prior to the start of the fiscal year in which the bill is submitted or the request for payment is made”, and “for any twelve-month period (beginning after June 30, 1973) specified in clause (ii) of such sentence” for “for any fiscal year beginning after June 30, 1973,”.
 
-1975—Subsec. (b)(3). Pub. L. 94–182 inserted provisions relating to raising for fiscal year beginning July 1, 1975 inadequate prevailing charge levels for services of physicians in certain localities.
+<b>1975</b>—Subsec. (b)(3). Pub. L. 94–182 inserted provisions relating to raising for fiscal year beginning July 1, 1975 inadequate prevailing charge levels for services of physicians in certain localities.
 
-1974—Subsec. (g). Pub. L. 93–445 substituted “section 231f(d) of title 45” for “section 228s–2(b) of title 45”.
+<b>1974</b>—Subsec. (g). Pub. L. 93–445 substituted “section 231f(d) of title 45” for “section 228s–2(b) of title 45”.
 
-1972—Subsec. (a). Pub. L. 92–603, §227(e)(3), substituted “which involve payments for physicians’ services on a reasonable charge basis” for “which involve payments for physicians’ services”.
+<b>1972</b>—Subsec. (a). Pub. L. 92–603, §227(e)(3), substituted “which involve payments for physicians’ services on a reasonable charge basis” for “which involve payments for physicians’ services”.
 
-Subsec. (b)(3). Pub. L. 92–603, §§244(a), 258(a), inserted provisions relating to determination of reasonableness of physician charges, medical services, supplies, and equipment and for the extension of time for filing claims for supplementary medical insurance benefits where the delay is due to administrative error, at end thereof.
+Subsec. (b)(3). Pub. L. 92–603, §§244(a), 258(a), inserted provisions relating to determination of reasonableness of physician charges, medical services, supplies, and equipment and for the extension of time for filing claims for supplementary medical insurance benefitswhere the delay is due to administrative error, at end thereof.
 
 Subsec. (b)(3)(B)(ii). Pub. L. 92–603, §§211(c)(3), 281(d), designated existing provisions as subcl. (I), added subcl. II, inserted exception in the case of services furnished as described in section 1395y(a)(4) of this title, other than for purposes of section 1395gg(f) of this title.
 
@@ -1566,11 +1592,17 @@ Subsec. (b)(5). Pub. L. 92–603, §236(a), added par. (5).
 
 Subsec. (g). Pub. L. 92–603, §263(d)(5), added subsec. (g).
 
-1968—Subsec. (b)(3)(B). Pub. L. 90–248 provided that payment be made on the basis of an itemized bill instead of a receipted bill as formerly required, and established a time limit within which payment may be requested, and inserted “(except as otherwise provided in section 1395gg(f) of this title)” after “payment will”.
+<b>1968</b>—Subsec. (b)(3)(B). Pub. L. 90–248 provided that payment be made on the basis of an itemized bill instead of a receipted bill as formerly required, and established a time limit within which payment may be requested, and inserted “(except as otherwise provided in section 1395gg(f) of this title)” after “payment will”.
 
 #### Change of Name
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 6404(a)(2)(A) of Pub. L. 111–148 applicable to services furnished on or after Jan. 1, 2010, and in case of services furnished before Jan. 1, 2010, a bill or request for payment under 42 U.S.C. 1395u(b)(3)(B) to be filed not later than Dec. 31, 2010, see section 6404(b) of Pub. L. 111–148, set out as a note under section 1395f of this title.
+
+Amendment by section 6406(a) of Pub. L. 111–148 applicable to orders, certifications, and referrals made on or after Jan. 1, 2010, see section 6406(d) of Pub. L. 111–148, set out as a note under section 1320a–7 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -1620,7 +1652,7 @@ Amendment by section 1000(a)(6) \[title III, §321(k)(4)\] of Pub. L. 106–113 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
+Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997,see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
 
 Amendment by section 4205(d)(3)(B) of Pub. L. 105–33 effective Aug. 5, 1997, see section 4205(d)(4) of Pub. L. 105–33, set out as a note under section 1395x of this title.
 
@@ -1636,7 +1668,7 @@ Amendment by section 4432(b)(2), (4) of Pub. L. 105–33 applicable to items and
 
 Amendment by section 4512(b)(2), (c) of Pub. L. 105–33 applicable with respect to services furnished and supplies provided on and after Jan. 1, 1998, see section 4512(d) of Pub. L. 105–33, set out as a note under section 1395<i>l</i> of this title.
 
-Amendment by section 4556(a) of Pub. L. 105–33 applicable to drugs and biologicals furnished on or after Jan.1, 1998, see section 4556(d) of Pub. L. 105–33, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 4556(a) of Pub. L. 105–33 applicable to drugs and biologicals furnished on or after Jan. 1, 1998, see section 4556(d) of Pub. L. 105–33, set out as a note under section 1395<i>l</i> of this title.
 
 Amendment by section 4603(c)(2)(B)(i) of Pub. L. 105–33 applicable to cost reporting periods beginning on or after Oct. 1, 1999, except as otherwise provided, see section 4603(d) of Pub. L. 105–33, set out as an Effective Date note under section 1395fff of this title.
 
@@ -1708,7 +1740,7 @@ Section 6108(a)(2) of Pub. L. 101–239, as amended by Pub. L. 101–508, title 
 
 “(A) Subject to subparagraph (B), the amendments made by paragraph (1) \[amending this section\] apply to services furnished in 1990 or 1991 which were subject to the first sentence of section 1842(b)(4)(F) of the Social Security Act \[subsec. (b)(4)(F) of this section\] in 1989 or 1990.
 
-“(B) The amendments made by paragraph (1) shall not apply to services furnished in 1990 before April 1, 1990. With respect to physicians’ services furnished during 1990 on and after April 1, such amendments shall be applied as though any reference, in the matter inserted by such amendments, to the ‘first calendar year during which the preceding sentence no longer applies’ were deemed a reference to the remainder of 1990.”
+“(B) The amendments made by paragraph (1) shall not apply to services furnished in 1990 before April 1,1990. With respect to physicians’ services furnished during 1990 on and after April 1, such amendments shall be applied as though any reference, in the matter inserted by such amendments, to the ‘first calendar year during which the preceding sentence no longer applies’ were deemed a reference to the remainder of 1990.”
 
 Section 6108(b)(3) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amending this section\] apply to procedures performed after March 31, 1990.”
 
@@ -1720,7 +1752,7 @@ Amendment by section 201(a) of Pub. L. 101–234 effective Jan. 1, 1990, see sec
 
 Section 301(e) of Pub. L. 101–234 provided that: “The provisions of this section \[amending this section and sections 1395m, 1395cc, 1395<i>ll</i>, and 1395ww of this title, enacting provisions set out as notes under section 1395m of this title, and repealing provisions set out as notes under sections 1395b, 1395b–1, 1395b–2, and 1395h of this title and section 8902 of Title 5, Government Organization and Employees\] (other than subsections (c) and (d) \[amending this section and sections 1395m, 1395cc, 1395<i>ll</i>, and 1395ww of this title and enacting provisions set out as a note under section 1395m of this title\]) shall take effect January 1, 1990, except that—
 
-&emsp;“(1) the repeal of section 421 of MCCA \[Pub. L. 100–360, set out as a note under section 1395b of thistitle\] shall not apply to duplicative part A benefits for periods before January 1, 1990, and
+&emsp;“(1) the repeal of section 421 of MCCA \[Pub. L. 100–360, set out as a note under section 1395b of this title\] shall not apply to duplicative part A benefits for periods before January 1, 1990, and
 
 &emsp;“(2) the amendments made by subsection (b) \[amending this section and sections 1395m, 1395cc, 1395<i>ll</i>, and 1395ww of this title\] shall take effect on the date of the enactment of this Act \[Dec. 13, 1989\].”
 
@@ -1782,7 +1814,7 @@ Section 4051(c) of Pub. L. 100–203 provided that:
 
 Section 4053(b), formerly §4052(b), of Pub. L. 100–203, as renumbered and amended by Pub. L. 100–360, title IV, §411(f)(11)(B), (14), July 1, 1988, 102 Stat. 781, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to payment for services furnished on or after April 1, 1988.”
 
-Section 4054(c), formerly §4053(c), of Pub. L. 100–203, as renumbered by Pub. L. 100–360, title IV, §411(f)(14), July 1, 1988, 102 Stat. 781, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to charges imposed for services furnished on or after April 1, 1988.”
+Section 4054(c), formerly §4053(c), of Pub. L. 100–203, as renumbered by Pub. L. 100–360, title IV, §411(f)(14), July 1, 1988, 102 Stat. 781, provided that: “The amendment made by subsection (a) \[amending this section\]shall apply to charges imposed for services furnished on or after April 1, 1988.”
 
 Amendment by section 4063(a) of Pub. L. 100–203 applicable to items furnished on or after July 1, 1988, see section 4063(c) of Pub. L. 100–203, set out as a note under section 1395(<i>l</i>) of this title.
 
@@ -1800,7 +1832,7 @@ Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning 
 
 #### Effective Date of 1986 Amendments
 
-Section 1895(b)(16)(B) of Pub. L. 99–514 provided that: “The amendment made by subparagraph (A) \[amendingthis section\] shall apply to claims presented after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Section 1895(b)(16)(B) of Pub. L. 99–514 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to claims presented after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 Amendment by section 1895(b)(14)(A), (15) of Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
 
@@ -1918,7 +1950,7 @@ Physician Payment Review Commission (PPRC) was terminated and its assets and sta
 
 #### Linkage of Revised Drug Payments and Increases for Drug Administration
 
-Pub. L. 108–173, title III, §303(f), Dec. 8, 2003, 117 Stat. 2253, provided that: “The Secretary \[of Health and Human Services\] shall not implement the revisions in payment amounts for drugs and biologicals administered by physicians as a result of the amendments made by subsection (b) \[amending this section\] with respect to 2004 unless the Secretary concurrently makes adjustments to the practice expense payment adjustment under the amendments made by subsection (a) \[amending section 1395w–4 of this title\].”
+Pub. L. 108–173, title III, §303(f), Dec. 8, 2003, 117 Stat. 2253, provided that: “The Secretary \[of Health andHuman Services\] shall not implement the revisions in payment amounts for drugs and biologicals administered by physicians as a result of the amendments made by subsection (b) \[amending this section\] with respect to 2004 unless the Secretary concurrently makes adjustments to the practice expense payment adjustment under the amendments made by subsection (a) \[amending section 1395w–4 of this title\].”
 
 #### Continuation of Payment Methodology for Radiopharmaceuticals
 
@@ -1930,7 +1962,7 @@ Pub. L. 108–173, title III, §303(i)(5), Dec. 8, 2003, 117 Stat. 2255, provide
 
 #### Application of 2003 Amendment to Physician Specialties
 
-Pub. L. 108–173, title III, §303(j), Dec. 8, 2003, 117 Stat. 2255, provided that: “Insofar as the amendments madeby this section \[enacting sections 1395w–3a and 1395w–3b of this title, amending this section and sections 1395<i>l</i>, 1395w–4, 1395x, 1395y, and 1396r–8 of this title, and repealing provisions set out as a note under this section\] apply to payments for drugs or biologicals and drug administration services furnished by physicians, such amendments shall only apply to physicians in the specialties of hematology, hematology/oncology, and medical oncology under title XVIII of the Social Security Act \[this subchapter\].”
+Pub. L. 108–173, title III, §303(j), Dec. 8, 2003, 117 Stat. 2255, provided that: “Insofar as the amendments made by this section \[enacting sections 1395w–3a and 1395w–3b of this title, amending this section and sections 1395<i>l</i>, 1395w–4, 1395x, 1395y, and 1396r–8 of this title, and repealing provisions set out as a note under this section\] apply to payments for drugs or biologicals and drug administration services furnished by physicians, such amendments shall only apply to physicians in the specialties of hematology, hematology/oncology, and medical oncology under title XVIII of the Social Security Act \[this subchapter\].”
 
 Pub. L. 108–173, title III, §304, Dec. 8, 2003, 117 Stat. 2255, provided that: “Notwithstanding section 303(j) \[set out above\], the amendments made by section 303 \[enacting sections 1395w–3a and 1395w–3b of this title, amending this section and sections 1395<i>l</i>, 1395w–4, 1395x, 1395y, and 1396r–8 of this title, and repealing provisions set out as a note under this section\] shall also apply to payments for drugs or biologicals and drug administration services furnished by physicians in specialties other than the specialties of hematology, hematology/oncology, and medical oncology.”
 
@@ -2020,7 +2052,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §223(a), (b)\], Nov. 29, 19
 
 “(a)
 
-Limitation on Use.—The Secretary of Health and Human Services may not use, or permit fiscalintermediaries or carriers to use, the inherent reasonableness authority provided under section 1842(b)(8) of the Social Security Act (42 U.S.C. 1395u(b)(8)) until after—
+Limitation on Use.—The Secretary of Health and Human Services may not use, or permit fiscal intermediaries or carriers to use, the inherent reasonableness authority provided under section 1842(b)(8) of the Social Security Act (42 U.S.C. 1395u(b)(8)) until after—
 
 &emsp;“(1) the Comptroller General of the United States releases a report pursuant to the request for such a report made on March 1, 1999, regarding the impact of the Secretary's, fiscal intermediaries’, and carriers’ use of such authority; and
 
@@ -2102,7 +2134,7 @@ Considerations in design of national policies.—The policies under paragraph (1
 
 &emsp;“(3)
 
-Changes in laboratory policies pending adoption of national policy.—During the period that begins on the date of the enactment of this Act \[Aug. 5, 1997\] and ends on the date the Secretary first implements national policies pursuant to regulations promulgated under this subsection, a carrier under such part may implement changes relating to requirements for the submission of a claim for clinical diagnostic laboratory tests.
+Changes in laboratory policies pending adoption of national policy.—During the period that begins on the date of the enactment of this Act\[Aug. 5, 1997\] and ends on the date the Secretary first implements national policies pursuant to regulations promulgated under this subsection, a carrier under such part may implement changes relating to requirements for the submission of a claim for clinical diagnostic laboratory tests.
 
 &emsp;“(4)
 
@@ -2278,7 +2310,7 @@ Report on variations in carrier payment practice.—The Secretary of Health and 
 
 “(2)
 
-Uniform definitions of procedures for payment purposes.—The Secretary shall develop, in consultation with appropriate national medical specialty societies and by not later than July 1, 1989, uniform definitions of physicians’ services (including appropriate classification scheme for procedures) which could serve as the basis for making payments for such services under part B of title XVIII of the Social Security Act \[this part\]. In developing such definitions, to the extent practicable—
+Uniform definitions of procedures for payment purposes.—The Secretary shall develop, in consultation with appropriate national medical specialty societies and by not later than July 1, 1989, uniform definitions of physicians’ services (including appropriate classification scheme for procedures) whichcould serve as the basis for making payments for such services under part B of title XVIII of the Social Security Act \[this part\]. In developing such definitions, to the extent practicable—
 
 &emsp;“(A) ancillary services commonly performed in conjunction with a major procedure would be included with the major procedure;
 
@@ -2300,7 +2332,7 @@ Transition.—The provisions of section 4041(a)(2) (other than subparagraph (D) 
 
 #### Special Rule With Respect to Payment for Intraocular Lenses
 
-Section 4063(d) of Pub. L. 100–203 provided that: “With respect to the establishment of a reasonable chargelimit under section 1842(b)(11)(C)(ii) of the Social Security Act \[subsec. (b)(11)(C)(ii) of this section\], in applying section 1842(j)(1)(D)(i) of such Act, the matter beginning with ‘plus’ shall be considered to have been deleted.”
+Section 4063(d) of Pub. L. 100–203 provided that: “With respect to the establishment of a reasonable charge limit under section 1842(b)(11)(C)(ii) of the Social Security Act \[subsec. (b)(11)(C)(ii) of this section\], in applying section 1842(j)(1)(D)(i) of such Act, the matter beginning with ‘plus’ shall be considered to have been deleted.”
 
 #### Study on Cost Effectiveness of Hearing Prior to Hearing by Administrative Law Judge on Carrier Determinations; Report to Congress
 
@@ -2362,7 +2394,7 @@ Section 9331(d) of Pub. L. 99–509 provided that:
 
 #### Measuring Carrier Performance; Carrier Bonuses for Good Performance
 
-Section 9332(a)(2), (3) of Pub. L. 99–509, as amended by Pub. L. 100–203, title IV, §4085(i)(21)(B), Dec. 22, 1987, 101 Stat. 1330–133, which provided that the Secretary of Health and Human Services was to provide, in the standards and criteria established under section 1842(b)(2) of the Social Security Act \[subsec. (b)(2) of this section\] for contracts under that section, a system to measure a carrier's performance of the responsibilities described in sections 1842(b)(3)(H) and 1842(h) of such Act and that, of the amounts appropriated for administrative activities to carry out part B of title XVIII of the Social Security Act \[this part\], the Secretary of Health and Human Services was to provide payments, totaling 1 percent of the total payments tocarriers for claims processing in any fiscal year, to carriers under section 1842 of such Act, to reward such carriers for their success in increasing the proportion of physicians in the carrier's service area who were participating physicians or in increasing the proportion of total payments for physicians’ services which were payments for such services rendered by participating physicians, was repealed by Pub. L. 100–203, title IV, §4041(a)(3)(B)(i), Dec. 22, 1987, 101 Stat. 1330–84.
+Section 9332(a)(2), (3) of Pub. L. 99–509, as amended by Pub. L. 100–203, title IV, §4085(i)(21)(B), Dec. 22, 1987, 101 Stat. 1330–133, which provided that the Secretary of Health and Human Services was to provide, in the standards and criteria established under section 1842(b)(2) of the Social Security Act \[subsec. (b)(2) of this section\] for contracts under that section, a system to measure a carrier's performance of the responsibilities described in sections 1842(b)(3)(H) and 1842(h) of such Act and that, of the amounts appropriated for administrative activities to carry out part B of title XVIII of the Social Security Act \[this part\], the Secretary of Health and Human Services was to provide payments, totaling 1 percent of the total payments to carriers for claims processing in any fiscal year, to carriers under section 1842 of such Act, to reward such carriers for their success in increasing the proportion of physicians in the carrier's service area who were participating physicians or in increasing the proportion of total payments for physicians’ services which were payments for such services rendered by participating physicians, was repealed by Pub. L. 100–203, title IV, §4041(a)(3)(B)(i), Dec. 22, 1987, 101 Stat. 1330–84.
 
 Section 9332(a)(4)(B), (C) of Pub. L. 99–509, as amended by Pub. L. 100–203, title IV, §4041(a)(3)(B)(ii), (iii), Dec. 22, 1987, 101 Stat. 1330–84; Pub. L. 100–360, title IV, §411(f)(1)(C), July 1, 1988, 102 Stat. 776, provided that:
 

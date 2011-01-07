@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(v)(I) Notwithstanding any other provision of this chapter, any contract market in a stock index futures contract (or option thereon) other than a security futures product, or any derivatives transaction execution facility on which such contract or option is traded, shall file with the Board of Governors of the Federal Reserve System any rule establishing or changing the levels of margin (initial and maintenance) for such stock index futures contract (or option thereon) other than security futures products.
 
-&emsp;&emsp;&emsp;(II) The Board may at any time request any contract market or derivatives transaction execution facility to set the margin for any stock index futures contract (or option thereon), other than for any security futures product, at such levels as the Board in its judgment determines are appropriate to preserve the financial integrity of the contract market or derivatives transaction execution facility, or its clearing system, or to prevent systemic risk. If the contract market or derivatives transaction execution facility fails to do so within the time specified by the Board in its request, the Board may direct the contract market or derivatives transaction execution facility to alter or supplement the rules of the contract market or derivatives transaction execution facility as specified in the request.
+&emsp;&emsp;&emsp;(II) The Board may at any time request any contract market or derivatives transaction execution facility to set the margin for any stock index futures contract (or option thereon), other than for any security futures product, at such levels as the Board in its judgment determines are appropriate to preserve the financial integrity of the contract market or derivatives transaction execution facility, or its clearing system, or to prevent systemic risk. If the contract market or derivatives transaction execution facility fails to do so within the time specified by the Board in its request, the Board may direct the contract market or derivatives transaction execution facility to alter or supplementthe rules of the contract market or derivatives transaction execution facility as specified in the request.
 
 &emsp;&emsp;&emsp;(III) Subject to such conditions as the Board may determine, the Board may delegate any or all of its authority, relating to margin for any stock index futures contract (or option thereon), other than security futures products, under this clause to the Commission.
 
@@ -84,7 +84,7 @@
 
 &emsp;&emsp;(II) After 3 years after December 21, 2000, the Commission and the Securities and Exchange Commission may by order jointly determine to permit trading of options on any security future authorized to be traded under the provisions of this chapter and the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\].
 
-&emsp;&emsp;(iv)(I) All relevant records of a futures commission merchant or introducing broker registered pursuant to section 6f(a)(2) of this title, floor broker or floor trader exempt from registration pursuant to section 6f(a)(3) of this title, associated person exempt from registration pursuant to section 6k(6) of this title, or board of trade designated as a contract market in a security futures product pursuant to section 7b–1 of this title shall be subject to such reasonable periodic or special examinations by representatives of the Commission as the Commission deems necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this chapter, and the Commission, before conducting any such examination, shall give notice to the Securities and Exchange Commission of the proposed examination and consult with the Securities and Exchange Commission concerning the feasibility and desirability of coordinating the examination with examinations conducted by the Securities and Exchange Commission in order to avoid unnecessary regulatory duplication or undue regulatory burdens for the registrant or board of trade.
+&emsp;&emsp;(iv)(I) All relevant records of a futures commission merchant or introducing brokerregistered pursuant to section 6f(a)(2) of this title, floor broker or floor trader exempt from registration pursuant to section 6f(a)(3) of this title, associated person exempt from registration pursuant to section 6k(6) of this title, or board of trade designated as a contract market in a security futures product pursuant to section 7b–1 of this title shall be subject to such reasonable periodic or special examinations by representatives of the Commission as the Commission deems necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this chapter, and the Commission, before conducting any such examination, shall give notice to the Securities and Exchange Commission of the proposed examination and consult with the Securities and Exchange Commission concerning the feasibility and desirability of coordinating the examination with examinations conducted by the Securities and Exchange Commission in order to avoid unnecessary regulatory duplication or undue regulatory burdens for the registrant or board of trade.
 
 &emsp;&emsp;(II) The Commission shall notify the Securities and Exchange Commission of any examination conducted of any futures commission merchant or introducing broker registered pursuant to section 6f(a)(2) of this title, floor broker or floor trader exempt from registration pursuant to section 6f(a)(3) of this title, associated person exempt from registration pursuant to section 6k(6) of this title, or board of trade designated as a contract market in a security futures product pursuant to section 7b–1 of this title, and, upon request, furnish to the Securities and Exchange Commission any examination report and data supplied to or prepared by the Commission in connection with the examination.
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;(i) Nothing in this chapter is intended to prohibit a futures commission merchant from carrying security futures products traded on or subject to the rules of a foreign board of trade in the accounts of persons located outside of the United States.
 
-&emsp;&emsp;(ii) Nothing in this chapter is intended to prohibit any eligible contract participant located in the United States from purchasingor carrying securities futures products traded on or subject to the rules of a foreign board of trade, exchange, or market to the same extent such person may be authorized to purchase or carry other securities traded on a foreign board of trade, exchange, or market so long as any underlying security for such security futures products is traded principally on, by, or through any exchange or market located outside the United States.
+&emsp;&emsp;(ii) Nothing in this chapter is intended to prohibit any eligible contract participant located in the United States from purchasing or carrying securities futures products traded on or subject to the rules of a foreign board of trade, exchange, or market to the same extent such person may be authorized to purchase or carry other securities traded on a foreign board of trade, exchange, or market so long as any underlying security for such security futures products is traded principally on, by, or through any exchange or market located outside the United States.
 
 #### (2) Establishment of Commodity Futures Trading Commission; composition; terms of Commissioners
 
@@ -162,7 +162,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Commission may appoint and fix the compensation of such officers, attorneys,economists, examiners, and other employees as may be necessary for carrying out the functions of the Commission under this chapter.
+&emsp;&emsp;The Commission may appoint and fix the compensation of such officers, attorneys, economists, examiners, and other employees as may be necessary for carrying out the functions of the Commission under this chapter.
 
 #### (B) Rates of pay
 
@@ -188,7 +188,7 @@
 
 &emsp;(B)(i) The Commission shall maintain communications with the Department of the Treasury, the Board of Governors of the Federal Reserve System, and the Securities and Exchange Commission for the purpose of keeping such agencies fully informed of Commission activities that relate to the responsibilities of those agencies, for the purpose of seeking the views of those agencies on such activities, and for considering the relationships between the volume and nature of investment and trading in contracts of sale of a commodity for future delivery and in securities and financial instruments under the jurisdiction of such agencies.
 
-&emsp;(ii) When a board of trade applies for designation or registration as a contract market or derivatives transaction execution facility involving transactions for future delivery of any security issued or guaranteed by the United States or any agency thereof, the Commission shall promptly deliver a copy of such application to the Department of the Treasury and the Board of Governors of the Federal Reserve System. The Commission may not designate or register a board of trade as a contract market or derivatives transaction execution facility based on such application until forty-five days after the date the Commission delivers the application to such agencies or until the Commission receives comments from each of such agencies on the application, whichever period is shorter. Any comments received by the Commission from such agencies shall be included as part of the public record of the Commission's designation proceeding. In designating, registering, or refusing, suspending, or revoking the designation or registration of, a board of trade as a contract market or derivatives transaction execution facility involving transactions for future delivery referred to in this clause or in considering any possible action under this chapter (including without limitation emergency action under section 12a(9) of this title) with respect to such transactions, the Commission shall take into consideration all comments it receives from the Department of the Treasury and the Board of Governors of the Federal Reserve System and shall consider the effect that any such designation, registration, suspension, revocation, or action may have on the debt financing requirements of the United States Government and the continued efficiency and integrity of the underlying market for government securities.
+&emsp;(ii) When a board of trade applies for designation or registration as a contract market or derivatives transaction execution facility involving transactions for future delivery of any security issued or guaranteed by the United States or any agency thereof, the Commission shall promptly deliver a copy of such application to the Department of the Treasury and the Board of Governors of the Federal Reserve System. The Commission may not designate or register a board of trade as a contract market or derivatives transaction execution facility based on such application until forty-five days after the date the Commission delivers the application to such agencies or until the Commission receives comments from each of such agencies on the application, whichever period is shorter. Any comments received by the Commission from such agencies shall be included as part of the public record of the Commission's designation proceeding. In designating, registering, or refusing, suspending, or revoking the designation or registration of, a board of trade as a contract market or derivatives transaction execution facility involving transactions for future delivery referred to in this clause or in considering any possible action under this chapter (including without limitation emergency action under section 12a(9) of this title) with respectto such transactions, the Commission shall take into consideration all comments it receives from the Department of the Treasury and the Board of Governors of the Federal Reserve System and shall consider the effect that any such designation, registration, suspension, revocation, or action may have on the debt financing requirements of the United States Government and the continued efficiency and integrity of the underlying market for government securities.
 
 &emsp;(iii) The provisions of this subparagraph shall not create any rights, liabilities, or obligations upon which actions may be brought against the Commission.
 
@@ -196,7 +196,7 @@
 
 &emsp;(A) Whenever the Commission submits any budget estimate or request to the President or the Office of Management and Budget, it shall concurrently transmit copies of that estimate or request to the House and Senate Appropriations Committees and the House Committee on Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry.
 
-&emsp;(B) Whenever the Commission transmits any legislative recommendations, or testimony, or comments on legislation to the President or the Office of Management and Budget, it shallconcurrently transmit copies thereof to the House Committee on Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry. No officer or agency of the United States shall have any authority to require the Commission to submit its legislative recommendations, or testimony, or comments on legislation to any officer or agency of the United States for approval, comments, or review, prior to the submission of such recommendations, testimony, or comments to the Congress. In instances in which the Commission voluntarily seeks to obtain the comments or review of any officer or agency of the United States, the Commission shall include a description of such actions in its legislative recommendations, testimony, or comments on legislation which it transmits to the Congress.
+&emsp;(B) Whenever the Commission transmits any legislative recommendations, or testimony, or comments on legislation to the President or the Office of Management and Budget, it shall concurrently transmit copies thereof to the House Committee on Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry. No officer or agency of the United States shall have any authority to require the Commission to submit its legislative recommendations, or testimony, or comments on legislation to any officer or agency of the United States for approval, comments, or review, prior to the submission of such recommendations, testimony, or comments to the Congress. In instances in which the Commission voluntarily seeks to obtain the comments or review of any officer or agency of the United States, the Commission shall include a description of such actions in its legislative recommendations, testimony, or comments on legislation which it transmits to the Congress.
 
 &emsp;(C) Whenever the Commission issues for official publication any opinion, release, rule, order, interpretation, or other determination on a matter, the Commission shall provide that any dissenting, concurring, or separate opinion by any Commissioner on the matter be published in full along with the Commission opinion, release, rule, order, interpretation, or determination.
 
@@ -246,7 +246,7 @@ For the purposes of this chapter (but not in any wise limiting the foregoing def
 
 &emsp;&emsp;(i) This chapter applies to, and the Commission shall have jurisdiction over, an agreement, contract, or transaction in foreign currency that—
 
-&emsp;&emsp;&emsp;(I) is a contract of sale of a commodity for future delivery (or an option on such a contract) or an option (other than an option executed or traded on a national securities exchange registered pursuant to section 6(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78f(a))); and
+&emsp;&emsp;&emsp;(I) is a contract of sale of a commodity for future delivery (or an option on such acontract) or an option (other than an option executed or traded on a national securities exchange registered pursuant to section 6(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78f(a))); and
 
 &emsp;&emsp;&emsp;(II) is offered to, or entered into with, a person that is not an eligible contract participant, unless the counterparty, or the person offering to be the counterparty, of the person is—
 
@@ -256,7 +256,7 @@ For the purposes of this chapter (but not in any wise limiting the foregoing def
 
 &emsp;&emsp;&emsp;&emsp;(BB) an associated person of a broker or dealer registered under section 15(b) (except paragraph (11) thereof) or 15C of the Securities Exchange Act of 1934 (15 U.S.C. 78<i>o</i>(b), 78<i>o</i>–5) concerning the financial or securities activities of which the broker or dealer makes and keeps records under section 15C(b) or 17(h) of the Securities Exchange Act of 1934 (15 U.S.C. 78<i>o</i>–5(b), 78q(h));
 
-&emsp;&emsp;&emsp;&emsp;(cc)(AA) a futures commission merchant that is primarily or substantially engaged in the business activities described in section 1a(20) of this title, isregistered under this chapter, is not a person described in item (bb) of this subclause, and maintains adjusted net capital equal to or in excess of the dollar amount that applies for purposes of clause (ii) of this subparagraph; or
+&emsp;&emsp;&emsp;&emsp;(cc)(AA) a futures commission merchant that is primarily or substantially engaged in the business activities described in section 1a(20) of this title, is registered under this chapter, is not a person described in item (bb) of this subclause, and maintains adjusted net capital equal to or in excess of the dollar amount that applies for purposes of clause (ii) of this subparagraph; or
 
 &emsp;&emsp;&emsp;&emsp;(BB) an affiliated person of a futures commission merchant that is primarily or substantially engaged in the business activities described in section 1a(20) of this title, is registered under this chapter, and is not a person described in item (bb) of this subclause, if the affiliated person maintains adjusted net capital equal to or in excess of the dollar amount that applies for purposes of clause (ii) of this subparagraph and is not a person described in such item (bb), and the futures commission merchant makes and keeps records under section 6f(c)(2)(B) of this title concerning the futures and other financial activities of the affiliated person;
 
@@ -346,7 +346,7 @@ For the purposes of this chapter (but not in any wise limiting the foregoing def
 
 &emsp;&emsp;&emsp;(bb) any such person's associated persons; or
 
-&emsp;&emsp;&emsp;(cc) any person who would be exempt from registration if engaging in the same activities in connection with transactions conducted on or subject to the rules of a contract market or a derivatives transaction execution facility.
+&emsp;&emsp;&emsp;(cc) any person who would be exempt from registration if engaging in the sameactivities in connection with transactions conducted on or subject to the rules of a contract market or a derivatives transaction execution facility.
 
 &emsp;&emsp;(III) The Commission may make, promulgate, and enforce such rules and regulations as, in the judgment of the Commission, are reasonably necessary to effectuate any of the provisions of, or to accomplish any of the purposes of, this chapter in connection with the activities of persons subject to subclause (I).
 
@@ -358,7 +358,7 @@ For the purposes of this chapter (but not in any wise limiting the foregoing def
 
 &emsp;&emsp;&emsp;(cc) any person who would be exempt from registration if engaging in the same activities in connection with transactions conducted on or subject to the rules of a contract market or a derivatives transaction execution facility.
 
-&emsp;&emsp;(iv) Sections 6(b) and 6b of this title shall apply to any agreement, contract, or transaction described in clause (i) of this subparagraph as if the agreement, contract, ortransaction were a contract of sale of a commodity for future delivery.
+&emsp;&emsp;(iv) Sections 6(b) and 6b of this title shall apply to any agreement, contract, or transaction described in clause (i) of this subparagraph as if the agreement, contract, or transaction were a contract of sale of a commodity for future delivery.
 
 &emsp;&emsp;(v) This subparagraph shall not be construed to limit any jurisdiction that the Commission may otherwise have under any other provision of this chapter over an agreement, contract, or transaction that is a contract of sale of a commodity for future delivery.
 
@@ -636,9 +636,565 @@ Review.—As part of the Commission's continual monitoring and surveillance acti
 
 > is or would otherwise be subject to this chapter.
 
-(2) No provision of, or amendment made by, the Commodity Futures Modernization Act of2000 shall be construed as conferring jurisdiction on the Commission with respect to any such agreement, contract, or transaction, except as expressly provided in section 7a of this title (to the extent provided in section 7a(g) of this title), 7a–1 of this title, or 7a–3 of this title.
+(2) No provision of, or amendment made by, the Commodity Futures Modernization Act of 2000 shall be construed as conferring jurisdiction on the Commission with respect to any such agreement, contract, or transaction, except as expressly provided in section 7a of this title (to the extent provided in section 7a(g) of this title), 7a–1 of this title, or 7a–3 of this title.
 
-(Sept. 21, 1922, ch. 369, §2, 42 Stat. 998; June 15, 1936, ch. 545, §§2, 3, 49 Stat. 1491; Apr. 7, 1938, ch. 108, 52 Stat. 205; Oct. 9, 1940, ch. 786, §1, 54 Stat. 1059; Aug. 28, 1954, ch. 1041, title VII, §710(a), 68 Stat. 913; July 26, 1955, ch. 382, §1, 69 Stat. 375; Pub. L. 90–258, §1, Feb. 19, 1968, 82 Stat. 26; Pub. L. 90–418, July 23, 1968, 82 Stat. 413; Pub. L. 93–463, title I, §101(a), title II, §§201, 202, Oct. 23, 1974, 88 Stat. 1389, 1395; Pub. L. 95–405, §2, Sept. 30, 1978, 92 Stat. 865; Pub. L. 97–444, title I, §101, title II, §§201, 202, Jan. 11, 1983, 96 Stat. 2294, 2297, 2298; Pub. L. 99–641, title I, §110(1), Nov. 10, 1986, 100 Stat. 3561; Pub. L. 102–546, title II, §§209(b)(1), 215, 226, title IV, §404(b), title V, §501, Oct. 28, 1992, 106 Stat. 3606, 3611, 3618, 3628; Pub. L. 106–554, §1(a)(5) \[title I, §§102—105(b), 106, 107, 123(a)(2), title II, §251(a), (b), (i), (j)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–376 to 2763A–379, 2763A–382, 2763A–405, 2763A–436, 2763A–441, 2763A–445; Pub. L. 107–171, title X, §10702(a), May 13, 2002, 116 Stat. 516; Pub. L. 110–234, title XIII, §§13101(a), 13201(b), 13203(c)–(f), May 22, 2008, 122 Stat. 1427, 1436, 1439; Pub. L. 110–246, §4(a), title XIII, §§13101(a), 13201(b), 13203(c)–(f), June 18, 2008, 122 Stat. 1664, 2189, 2198, 2201.)
+(Sept. 21, 1922, ch. 369, §2, 42 Stat. 998; June 15, 1936, ch. 545, §§2, 3, 49 Stat. 1491; Apr. 7, 1938, ch. 108, 52 Stat. 205; Oct. 9, 1940, ch. 786, §1, 54 Stat. 1059; Aug. 28, 1954, ch. 1041, title VII, §710(a), 68 Stat. 913; July 26, 1955, ch. 382, §1, 69 Stat. 375; Pub. L. 90–258, §1, Feb. 19, 1968, 82 Stat. 26; Pub. L. 90–418, July 23, 1968, 82 Stat. 413; Pub. L. 93–463, title I, §101(a), title II, §§201, 202, Oct. 23, 1974, 88 Stat. 1389, 1395; Pub. L. 95–405, §2, Sept. 30, 1978, 92 Stat. 865; Pub. L. 97–444, title I, §101, title II, §§201, 202, Jan. 11, 1983, 96 Stat. 2294, 2297, 2298; Pub. L. 99–641, title I, §110(1), Nov. 10, 1986, 100 Stat. 3561; Pub. L. 102–546, title II, §§209(b)(1), 215, 226, title IV, §404(b), title V, §501, Oct. 28, 1992, 106 Stat. 3606, 3611, 3618, 3628; Pub. L. 106–554, §1(a)(5) \[title I, §§102—105(b), 106, 107, 123(a)(2), title II, §251(a), (b), (i), (j)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–376 to 2763A–379, 2763A–382, 2763A–405, 2763A–436, 2763A–441, 2763A–445; Pub. L. 107–171, title X, §10702(a), May 13, 2002, 116 Stat. 516; Pub. L. 110–234, title XIII, §§13101(a), 13201(b), 13203(c)–(f), May 22, 2008, 122 Stat. 1427, 1436, 1439; Pub. L. 110–246, §4(a), title XIII, §§13101(a), 13201(b), 13203(c)–(f), June 18, 2008, 122 Stat. 1664, 2189, 2198, 2201; Pub. L. 111–203, title VII, §§717(a), 721(e)(1), 722(a), (c)–(e), 723(a), (b), 727, 734(b)(1), 741(b)(8), (9), 742(a), (c), 751, July 21, 2010, 124 Stat. 1651, 1671–1673, 1675, 1681, 1696, 1718, 1731–1733, 1749.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title VII, §§717(a), 721(e)(1), 722(a), (c)–(e), 723(a), (b), 727, 734(b)(1), 741(b)(8), (9), 742(a), (c), 751, 754, July 21, 2010, 124 Stat. 1651, 1671–1673, 1675, 1681, 1696, 1718, 1731–1733, 1749, 1754, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)—</i>
+
+<i>(A) in paragraph (1)—</i>
+
+<i>(i) in subparagraph (A), in the first sentence, by inserting “the Wall Street Transparency and Accountability Act of 2010 (including an amendment made by that Act) and” after “otherwise provided in”; by striking “(C) and (D)” and inserting “(C), (D), and (I)”; by striking “(c) through (i) of this section” and inserting “(c) and (f)”; by striking “contracts of sale” and inserting “swaps or contracts of sale”; by striking “or derivatives transaction execution facility registered pursuant to section 7 or 7a of this title” and inserting “pursuant to section 7 of this title or a swap execution facility pursuant to section 7b–3 of this title”; and by striking “or 7a”;</i>
+
+<i>(ii) in subparagraph (C)(i), by striking “This” and inserting “(I) Except as provided in subclause (II), this”; and by adding at the end of clause (i) the following new subclause:</i>
+
+&emsp;&emsp;&emsp;<i>“(II) This chapter shall apply to and the Commission shall have jurisdiction with respect to accounts, agreements, and transactions involving, and may permit the listing for trading pursuant to section 7a–2(c) of this title of, a put, call, or other option on 1 or more securities (as defined in section 77b(a)(1) of title 15 or section 3(a)(10) of the Securities Exchange Act of 1934 on January 11, 1983), including any group or index of such securities, or any interest therein or based on the value thereof, that is exempted by the Securities and Exchange Commission pursuant to section 36(a)(1) of the Securities Exchange Act of 1934 with the condition that the Commission exercise concurrent jurisdiction over such put, call, or other option; provided, however, that nothing in this paragraph shall be construed to affect the jurisdiction and authority of the Securities and Exchange Commission over such put, call, or other option.”; and</i>
+
+<i>(iii) by adding at the end the following new subparagraphs:</i>
+
+&emsp;<i>“(G)(i) Nothing in this paragraph shall limit the jurisdiction conferred on the Securities and Exchange Commission by the Wall Street Transparency and Accountability Act of 2010 with regard to security-based swap agreements as defined pursuant to section 3(a)(78) of the Securities Exchange Act of 1934, and security-based swaps.</i>
+
+&emsp;<i>“(ii) In addition to the authority of the Securities and Exchange Commission described in clause (i), nothing in this subparagraph shall limit or affect any statutory authority of the Commission with respect to an agreement, contract, or transaction described in clause (i).</i>
+
+&emsp;<i>“(H) Notwithstanding any other provision of law, the Wall Street Transparency and Accountability Act of 2010 shall not apply to, and the Commodity Futures Trading Commission shall have no jurisdiction under such Act (or any</i><i>amendments to this chapter made by such Act) with respect to, any security other than a security-based swap.</i>
+
+&emsp;<i>“(I)(i) Nothing in this chapter shall limit or affect any statutory authority of the Federal Energy Regulatory Commission or a State regulatory authority (as defined in section 796(21) of title 16) with respect to an agreement, contract, or transaction that is entered into pursuant to a tariff or rate schedule approved by the Federal Energy Regulatory Commission or a State regulatory authority and is—</i>
+
+&emsp;&emsp;<i>“(I) not executed, traded, or cleared on a registered entity or trading facility; or</i>
+
+&emsp;&emsp;<i>“(II) executed, traded, or cleared on a registered entity or trading facility owned or operated by a regional transmission organization or independent system operator.</i>
+
+&emsp;<i>“(ii) In addition to the authority of the Federal Energy Regulatory Commission or a State regulatory authority described in clause (i), nothing in this subparagraph shall limit or affect—</i>
+
+&emsp;&emsp;<i>“(I) any statutory authority of the Commission with respect to an agreement, contract, or transaction described in clause (i); or</i>
+
+&emsp;&emsp;<i>“(II) the jurisdiction of the Commission under subparagraph (A) with respect to an agreement, contract, or transaction that is executed, traded, or cleared on a registered entity or trading facility that is not owned or operated by a regional transmission organization or independent system operator (as defined by sections 796(27) and (28) of title 16).”; and</i>
+
+<i>(B) by adding at the end the following new paragraphs:</i>
+
+#### <i>“(13) Public availability of swap transaction data</i>
+
+#### <i>“(A) Definition of real-time public reporting</i>
+
+&emsp;&emsp;<i>“In this paragraph, the term ‘real-time public reporting’ means to report data relating to a swap transaction, including price and volume, as soon as technologically practicable after the time at which the swap transaction has been executed.</i>
+
+#### <i>“(B) Purpose</i>
+
+&emsp;&emsp;<i>“The purpose of this section is to authorize the Commission to make swap transaction and pricing data available to the public in such form and at such times as the Commission determines appropriate to enhance price discovery.</i>
+
+#### <i>“(C) General rule</i>
+
+&emsp;&emsp;<i>“The Commission is authorized and required to provide by rule for the public availability of swap transaction and pricing data as follows:</i>
+
+&emsp;&emsp;&emsp;<i>“(i) With respect to those swaps that are subject to the mandatory clearing requirement described in subsection (h)(1) (including those swaps that are excepted from the requirement pursuant to subsection (h)(7)), the Commission shall require real-time public reporting for such transactions.</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) With respect to those swaps that are not subject to the mandatory clearing requirement described in subsection (h)(1), but are cleared at a registered derivatives clearing organization, the Commission shall require real-time public reporting for such transactions.</i>
+
+&emsp;&emsp;&emsp;<i>“(iii) With respect to swaps that are not cleared at a registered derivatives clearing organization and which are reported to a swap data repository or the Commission under subsection (h)(6), the Commission shall require real-time public reporting for such transactions, in a manner that does not disclose the business transactions and market positions of any person.</i>
+
+&emsp;&emsp;&emsp;<i>“(iv) With respect to swaps that are determined to be required to be cleared under subsection (h)(2) but are not cleared, the Commission shall require real-time public reporting for such transactions.</i>
+
+#### <i>“(D) Registered entities and public reporting</i>
+
+&emsp;&emsp;<i>“The Commission may require registered entities to publicly disseminate the swap transaction and pricing data required to be reported under this paragraph.</i>
+
+#### <i>“(E) Rulemaking required</i>
+
+&emsp;&emsp;<i>“With respect to the rule providing for the public availability of transaction and pricing data for swaps described in clauses (i) and (ii) of subparagraph (C), the rule promulgated by the Commission shall contain provisions—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) to ensure such information does not identify the participants;</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) to specify the criteria for determining what constitutes a large notional swap transaction (block trade) for particular markets and contracts;</i>
+
+&emsp;&emsp;&emsp;<i>“(iii) to specify the appropriate time delay for reporting large notional swap transactions (block trades) to the public; and</i>
+
+&emsp;&emsp;&emsp;<i>“(iv) that take into account whether the public disclosure will materially reduce market liquidity.</i>
+
+#### <i>“(F) Timeliness of reporting</i>
+
+&emsp;&emsp;<i>“Parties to a swap (including agents of the parties to a swap) shall be responsible for reporting swap transaction information to the appropriate registered entity in a timely manner as may be prescribed by the Commission.</i>
+
+#### <i>“(G) Reporting of swaps to registered swap data repositories</i>
+
+&emsp;&emsp;<i>“Each swap (whether cleared or uncleared) shall be reported to a registered swap data repository.</i>
+
+#### <i>“(14) Semiannual and annual public reporting of aggregate swap data</i>
+
+#### <i>“(A) In general</i>
+
+&emsp;&emsp;<i>“In accordance with subparagraph (B), the Commission shall issue a written report on a semiannual and annual basis to make available to the public information relating to—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) the trading and clearing in the major swap categories; and</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) the market participants and developments in new products.</i>
+
+#### <i>“(B) Use; consultation</i>
+
+&emsp;&emsp;<i>“In preparing a report under subparagraph (A), the Commission shall—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) use information from swap data repositories and derivatives clearing organizations; and</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) consult with the Office of the Comptroller of the Currency, the Bank for International Settlements, and such other regulatory bodies as may be necessary.</i>
+
+#### <i>“(C) Authority of the Commission</i>
+
+&emsp;&emsp;<i>“The Commission may, by rule, regulation, or order, delegate the public reporting responsibilities of the Commission under this paragraph in accordance with such terms and conditions as the Commission determines to be appropriate and in the public interest.</i>
+
+#### <i>“(15) Energy and Environmental Markets Advisory Committee</i>
+
+#### <i>“(A) Establishment</i>
+
+#### <i>“(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>“An Energy and Environmental Markets Advisory Committee is hereby established.</i>
+
+#### <i>“(ii) Membership</i>
+
+&emsp;&emsp;&emsp;<i>“The Committee shall have 9 members.</i>
+
+#### <i>“(iii) Activities</i>
+
+&emsp;&emsp;&emsp;<i>“The Committee's objectives and scope of activities shall be—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(I) to conduct public meetings;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(II) to submit reports and recommendations to the Commission (including dissenting or minority views, if any); and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(III) otherwise to serve as a vehicle for discussion and communication on matters of concern to exchanges, firms, end users, and regulators regarding energy and environmental markets and their regulation by the Commission.</i>
+
+#### <i>“(B) Requirements</i>
+
+#### <i>“(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>“The Committee shall hold public meetings at such intervals as are necessary to carry out the functions of the Committee, but not less frequently than 2 times per year.</i>
+
+#### <i>“(ii) Members</i>
+
+&emsp;&emsp;&emsp;<i>“Members shall be appointed to 3-year terms, but may be removed for cause by vote of the Commission.</i>
+
+#### <i>“(C) Appointment</i>
+
+&emsp;&emsp;<i>“The Commission shall appoint members with a wide diversity of opinion and who represent a broad spectrum of interests, including hedgers and consumers.</i>
+
+#### <i>“(D) Reimbursement</i>
+
+&emsp;&emsp;<i>“Members shall be entitled to per diem and travel expense reimbursement by the Commission.</i>
+
+#### <i>“(E) FACA</i>
+
+&emsp;&emsp;<i>“The Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).”;</i>
+
+<i>(2) in subsection (c)—</i>
+
+<i>(A) in paragraph (1), by striking “7a (to the extent provided in section 7a(g) of this title), 7a–1, 7a–3, or 16(e)(2)(B) of this title)” and inserting “, 7a–1, or 16(e)(2)(B) of this title)”; and</i>
+
+<i>(B) in paragraph (2)—</i>
+
+<i>(i) in subparagraph (A)—</i>
+
+<i>(I) in clause (i), by striking “or” at the end;</i>
+
+<i>(II) by redesignating clause (ii) as clause (iii); and</i>
+
+<i>(III) by inserting after clause (i) the following new clause:</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) a swap; or”;</i>
+
+<i>(ii) in subparagraph (B)—</i>
+
+<i>(I) by striking “(dd),” each place it appears;</i>
+
+<i>(II) in clause (i)(II)—</i>
+
+<i>(aa) in item (aa), by inserting “United States” before “financial institution”;</i>
+
+<i>(bb) in item (cc), by striking “section 1a(20)” and inserting “section 1a” in subitem (AA), and by striking “section 1a(20)” and inserting “section 1a” in subitem (BB);</i>
+
+<i>(cc) in item (dd), by striking “section 1a(12)(A)(ii)” and inserting “section 1a(18)(A)(ii)”;</i>
+
+<i>(dd) by striking items (dd) and (ff);</i>
+
+<i>(ee) by redesignating items (ee) and (gg) as items (dd) and (ff), respectively; and</i>
+
+<i>(ff) in item (dd) (as so redesignated), by striking the semicolon and inserting “; or”;</i>
+
+<i>(III) in clause (iii), by inserting “, and accounts or pooled investment vehicles described in clause (vi),” before “shall be subject to”; and</i>
+
+<i>(IV) by adding at the end the following new clause:</i>
+
+&emsp;&emsp;<i>“(vi) This chapter applies to, and the Commission shall have jurisdiction over, an account or pooled investment vehicle that is offered for the purpose of trading, or that trades, any agreement, contract, or transaction in foreign currency described in clause (i).”;</i>
+
+<i>(iii) in subparagraph (C)—</i>
+
+<i>(I) by striking “(dd),” each place it appears;</i>
+
+<i>(II) in clause (ii)(I), by inserting “, and accounts or pooled investment vehicles described in clause (vii),” before “shall be subject to”; and</i>
+
+<i>(III) by adding at the end the following new clause:</i>
+
+&emsp;&emsp;<i>“(vii) This chapter applies to, and the Commission shall have jurisdiction over, an account or pooled investment vehicle that is offered for the purpose of trading, or that trades, any agreement, contract, or transaction in foreign currency described in clause (i).”; and</i>
+
+<i>(iv) by adding at the end the following new subparagraphs:</i>
+
+#### <i>“(D) Retail commodity transactions</i>
+
+#### <i>“(i) Applicability</i>
+
+&emsp;&emsp;&emsp;<i>“Except as provided in clause (ii), this subparagraph shall apply to any agreement, contract, or transaction in any commodity that is—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(I) entered into with, or offered to (even if not entered into with), a person that is not an eligible contract participant or eligible commercial entity; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(II) entered into, or offered (even if not entered into), on a leveraged or margined basis, or financed by the offeror, the counterparty, or a person acting in concert with the offeror or counterparty on a similar basis.</i>
+
+#### <i>“(ii) Exceptions</i>
+
+&emsp;&emsp;&emsp;<i>“This subparagraph shall not apply to—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(I) an agreement, contract, or transaction described in paragraph (1) or subparagraphs (A), (B), or (C), including any agreement, contract, or transaction specifically excluded from subparagraph (A), (B), or (C);</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(II) any security;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(III) a contract of sale that—</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(aa) results in actual delivery within 28 days or such other longer period as the Commission may determine by rule or regulation based upon the typical commercial practice in cash or spot markets for the commodity involved; or</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(bb) creates an enforceable obligation to deliver between a seller and a buyer that have the ability to deliver and accept delivery, respectively, in connection with the line of business of the seller and buyer; or</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(IV) an agreement, contract, or transaction that is listed on a national securities exchange registered under section 6(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78f(a)); or</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(V) an identified banking product, as defined in section 27(b) of this title.</i>
+
+#### <i>“(iii) Enforcement</i>
+
+&emsp;&emsp;&emsp;<i>“Sections 6(a), 6(b), and 6b of this title apply to any agreement, contract, or transaction described in clause (i), as if the agreement, contract, or transaction was a contract of sale of a commodity for future delivery.</i>
+
+#### <i>“(iv) Eligible commercial entity</i>
+
+&emsp;&emsp;&emsp;<i>“For purposes of this subparagraph, an agricultural producer, packer, or handler shall be considered to be an eligible commercial entity for any agreement, contract, or transaction for a commodity in connection with the line of business of the agricultural producer, packer, or handler.</i>
+
+#### <i>“(E) Prohibition</i>
+
+#### <i>“(i) Definition of Federal regulatory agency</i>
+
+&emsp;&emsp;&emsp;<i>“In this subparagraph, the term ‘Federal regulatory agency’ means—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(I) the Commission;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(II) the Securities and Exchange Commission;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(III) an appropriate Federal banking agency;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(IV) the National Credit Union Association; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(V) the Farm Credit Administration.</i>
+
+#### <i>“(ii) Prohibition</i>
+
+#### <i>“(I) In general</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“Except as provided in subclause (II), a person described in subparagraph (B)(i)(II) for which there is a Federal regulatory agency shall not offer to, or enter into with, a person that is not an eligible contract participant, any agreement, contract, or transaction in foreign currency described in subparagraph (B)(i)(I) except pursuant to a rule or regulation of a Federal regulatory agency allowing the agreement, contract, or transaction under such terms and conditions as the Federal regulatory agency shall prescribe.</i>
+
+#### <i>“(II) Effective date</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“With regard to persons described in subparagraph (B)(i)(II) for which a Federal regulatory agency has issued a proposed rule concerning agreements, contracts, or transactions in foreign currency described in subparagraph (B)(i)(I) prior to July 21, 2010, subclause (I) shall take effect 90 days after July 21, 2010.</i>
+
+#### <i>“(iii) Requirements of rules and regulations</i>
+
+#### <i>“(I) In general</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“The rules and regulations described in clause (ii) shall prescribe appropriate requirements with respect to—</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(aa) disclosure;</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(bb) recordkeeping;</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(cc) capital and margin;</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(dd) reporting;</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(ee) business conduct;</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(ff) documentation; and</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(gg) such other standards or requirements as the Federal regulatory agency shall determine to be necessary.</i>
+
+#### <i>“(II) Treatment</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“The rules or regulations described in clause (ii) shall treat all agreements, contracts, and transactions in foreign currency described in subparagraph (B)(i)(I), and all agreements, contracts, and transactions in foreign currency that are functionally or economically similar to agreements, contracts, or transactions described in subparagraph (B)(i)(I), similarly.”;</i>
+
+<i>(3) by striking subsections (d), (e), (g), and (h); and by redesignating subsection (i) as subsection (g);</i>
+
+<i>(4) by inserting after subsection (c) the following new subsections:</i>
+
+#### <i>“(d) Swaps</i>
+
+<i>“Nothing in this chapter (other than subparagraphs (A), (B), (C), (D), (G), and (H) of subsection (a)(1), subsections (f) and (g), sections 1a, 2(a)(13), 2(c)(2)(A)(ii), 2(e), 2(h), 6(c), 6a, 6b, and 6b–1 of this title, subsections (a), (b), and (g) of section 6c of this title, sections 6d, 6e, 6f, 6g, 6h, 6i, 6j, 6k, 6l</i>, <i>6m, 6n, 6o</i>, <i>6p, 6r, 6s, 6t, 7, 7a–1, 7a–2, 7b, and 7b–3 of this title, sections 9 and 13b of this title, sections 13a–1, 13a–2, 12, 12a, and 13 of this title, subsections (e)(2), (f), and (h) of section 16 of this title, subsections (a) and (b) of section 13c of this title, sections 21, 24, 24a, and 25(a)(4) of this title, and any other provision of this chapter that is applicable to registered entities or Commission registrants) governs or applies to a swap.</i>
+
+#### <i>“(e) Limitation on participation</i>
+
+<i>“It shall be unlawful for any person, other than an eligible contract participant, to enter into a swap unless the swap is entered into on, or subject to the rules of, a board of trade designated as a contract market under section 7 of this title.”;</i>
+
+<i>(5) in subsection (g) (as redesignated), in paragraph (2), by striking “section 7a of this title” and all that follows through “7a–3 of this title” and inserting “section 7a–1 of this title”;</i>
+
+<i>(6) by inserting after subsection (g) (as redesignated) the following new subsection:</i>
+
+#### <i>“(h) Clearing requirement</i>
+
+#### <i>“(1) In general</i>
+
+#### <i>“(A) Standard for clearing</i>
+
+&emsp;&emsp;<i>“It shall be unlawful for any person to engage in a swap unless that person submits such</i><i>swap for clearing to a derivatives clearing organization that is registered under this chapter or a derivatives clearing organization that is exempt from registration under this chapter if the swap is required to be cleared.</i>
+
+#### <i>“(B) Open access</i>
+
+&emsp;&emsp;<i>“The rules of a derivatives clearing organization described in subparagraph (A) shall—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) prescribe that all swaps (but not contracts of sale of a commodity for future delivery or options on such contracts) submitted to the derivatives clearing organization with the same terms and conditions are economically equivalent within the derivatives clearing organization and may be offset with each other within the derivatives clearing organization; and</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) provide for non-discriminatory clearing of a swap (but not a contract of sale of a commodity for future delivery or option on such contract) executed bilaterally or on or through the rules of an unaffiliated designated contract market or swap execution facility.</i>
+
+#### <i>“(2) Commission review</i>
+
+#### <i>“(A) Commission-initiated review</i>
+
+&emsp;&emsp;<i>“(i) The Commission on an ongoing basis shall review each swap, or any group, category, type, or class of swaps to make a determination as to whether the swap or group, category, type, or class of swaps should be required to be cleared.</i>
+
+&emsp;&emsp;<i>“(ii) The Commission shall provide at least a 30-day public comment period regarding any determination made under clause (i).</i>
+
+#### <i>“(B) Swap submissions</i>
+
+&emsp;&emsp;<i>“(i) A derivatives clearing organization shall submit to the Commission each swap, or any group, category, type, or class of swaps that it plans to accept for clearing, and provide notice to its members (in a manner to be determined by the Commission) of the submission.</i>
+
+&emsp;&emsp;<i>“(ii) Any swap or group, category, type, or class of swaps listed for clearing by a derivative clearing organization as of July 21, 2010, shall be considered submitted to the Commission.</i>
+
+&emsp;&emsp;<i>“(iii) The Commission shall—</i>
+
+&emsp;&emsp;&emsp;<i>“(I) make available to the public submissions received under clauses (i) and (ii);</i>
+
+&emsp;&emsp;&emsp;<i>“(II) review each submission made under clauses (i) and (ii), and determine whether the swap, or group, category, type, or class of swaps described in the submission is required to be cleared; and</i>
+
+&emsp;&emsp;&emsp;<i>“(III) provide at least a 30-day public comment period regarding its determination as to whether the clearing requirement under paragraph (1)(A) shall apply to the submission.</i>
+
+#### <i>“(C) Deadline</i>
+
+&emsp;&emsp;<i>“The Commission shall make its determination under subparagraph (B)(iii) not later than 90 days after receiving a submission made under subparagraphs (B)(i) and (B)(ii), unless the submitting derivatives clearing organization agrees to an extension for the time limitation established under this subparagraph.</i>
+
+#### <i>“(D) Determination</i>
+
+&emsp;&emsp;<i>“(i) In reviewing a submission made under subparagraph (B), the Commission shall review whether the submission is consistent with section 7a–1(c)(2) of this title.</i>
+
+&emsp;&emsp;<i>“(ii) In reviewing a swap, group of swaps, or class of swaps pursuant to subparagraph (A) or a submission made under subparagraph (B), the Commission shall take into account the following factors:</i>
+
+&emsp;&emsp;&emsp;<i>“(I) The existence of significant outstanding notional exposures, trading liquidity, and adequate pricing data.</i>
+
+&emsp;&emsp;&emsp;<i>“(II) The availability of rule framework, capacity, operational expertise and resources, and credit support infrastructure to clear the contract on terms that are consistent with the material terms and trading conventions on which the contract is then traded.</i>
+
+&emsp;&emsp;&emsp;<i>“(III) The effect on the mitigation of systemic risk, taking into account the size of the market for such contract and the resources of the derivatives clearing organization available to clear the contract.</i>
+
+&emsp;&emsp;&emsp;<i>“(IV) The effect on competition, including appropriate fees and charges applied to clearing.</i>
+
+&emsp;&emsp;&emsp;<i>“(V) The existence of reasonable legal certainty in the event of the insolvency of the relevant derivatives clearing organization or 1 or more of its clearing members with regard to the treatment of customer and swap counterparty positions, funds, and property.</i>
+
+&emsp;&emsp;<i>“(iii) In making a determination under subparagraph (A) or (B)(iii) that the clearing requirement shall apply, the Commission may require such terms and conditions to the requirement as the Commission determines to be appropriate.</i>
+
+#### <i>“(E) Rules</i>
+
+&emsp;&emsp;<i>“Not later than 1 year after July 21, 2010, the Commission shall adopt rules for a derivatives clearing organization's submission for review, pursuant to this paragraph, of a swap, or a group, category, type, or class of swaps, that it seeks to accept for clearing. Nothing in this subparagraph limits the Commission from making a determination under subparagraph (B)(iii) for swaps described in subparagraph (B)(ii).</i>
+
+#### <i>“(3) Stay of clearing requirement</i>
+
+#### <i>“(A) In general</i>
+
+&emsp;&emsp;<i>“After making a determination pursuant to paragraph (2)(B), the Commission, on application of a counterparty to a swap or on its own initiative, may stay the clearing requirement of paragraph (1) until the Commission completes a review of the terms of the swap (or the group, category, type, or class of swaps) and the clearing arrangement.</i>
+
+#### <i>“(B) Deadline</i>
+
+&emsp;&emsp;<i>“The Commission shall complete a review undertaken pursuant to subparagraph (A) not later than 90 days after issuance of the stay, unless the derivatives clearing organization that clears the swap, or group, category, type, or class of swaps agrees to an extension of the time limitation established under this subparagraph.</i>
+
+#### <i>“(C) Determination</i>
+
+&emsp;&emsp;<i>“Upon completion of the review undertaken pursuant to subparagraph (A), the Commission may—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) determine, unconditionally or subject to such terms and conditions as the Commission determines to be appropriate, that the swap, or group, category, type, or class of swaps must be cleared pursuant to this subsection if it finds that such clearing is consistent with paragraph (2)(D); or</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) determine that the clearing requirement of paragraph (1) shall not apply to the swap, or group, category, type, or class of swaps.</i>
+
+#### <i>“(D) Rules</i>
+
+&emsp;&emsp;<i>“Not later than 1 year after July 21, 2010, the Commission shall adopt rules for reviewing, pursuant to this paragraph, a derivatives clearing organization's clearing of a swap, or a group, category, type, or class of swaps, that it has accepted for clearing.</i>
+
+#### <i>“(4) Prevention of evasion</i>
+
+#### <i>“(A) In general</i>
+
+&emsp;&emsp;<i>“The Commission shall prescribe rules under this subsection (and issue interpretations of rules prescribed under this subsection) as determined by the Commission to be necessary to prevent evasions of the mandatory clearing requirements under this chapter.</i>
+
+#### <i>“(B) Duty of Commission to investigate and take certain actions</i>
+
+&emsp;&emsp;<i>“To the extent the Commission finds that a particular swap, group, category, type, or class of swaps would otherwise be subject to mandatory clearing but no derivatives clearing organization has listed the swap, group, category, type, or class of swaps for clearing, the Commission shall—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) investigate the relevant facts and circumstances;</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) within 30 days issue a public report containing the results of the investigation; and</i>
+
+&emsp;&emsp;&emsp;<i>“(iii) take such actions as the Commission determines to be necessary and in the public interest, which may include requiring the retaining of adequate margin or capital by parties to the swap, group, category, type, or class of swaps.</i>
+
+#### <i>“(C) Effect on authority</i>
+
+&emsp;&emsp;<i>“Nothing in this paragraph—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) authorizes the Commission to adopt rules requiring a derivatives clearing organization to list for clearing a swap, group, category, type, or class of swaps if the clearing of the swap, group, category, type, or class of swaps would threaten the financial integrity of the derivatives clearing organization; and</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) affects the authority of the Commission to enforce the open access provisions of paragraph (1)(B) with respect to a swap, group, category, type, or class of swaps that is listed for clearing by a derivatives clearing organization.</i>
+
+#### <i>“(5) Reporting transition rules</i>
+
+&emsp;<i>“Rules adopted by the Commission under this section shall provide for the reporting of data, as follows:</i>
+
+&emsp;&emsp;<i>“(A) Swaps entered into before July 21, 2010, shall be reported to a registered swap data repository or the Commission no later than 180 days after the effective date of this subsection.</i>
+
+&emsp;&emsp;<i>“(B) Swaps entered into on or after July 21, 2010, shall be reported to a registered swap data repository or the Commission no later than the later of—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) 90 days after such effective date; or</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) such other time after entering into the swap as the Commission may prescribe by rule or regulation.</i>
+
+#### <i>“(6) Clearing transition rules</i>
+
+&emsp;<i>“(A) Swaps entered into before July 21, 2010, are exempt from the clearing requirements of this subsection if reported pursuant to paragraph (5)(A).</i>
+
+&emsp;<i>“(B) Swaps entered into before application of the clearing requirement pursuant to this subsection are exempt from the clearing requirements of this subsection if reported pursuant to paragraph (5)(B).</i>
+
+#### <i>“(7) Exceptions</i>
+
+#### <i>“(A) In general</i>
+
+&emsp;&emsp;<i>“The requirements of paragraph (1)(A) shall not apply to a swap if 1 of the counterparties to the swap—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) is not a financial entity;</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) is using swaps to hedge or mitigate commercial risk; and</i>
+
+&emsp;&emsp;&emsp;<i>“(iii) notifies the Commission, in a manner set forth by the Commission, how it generally meets its financial obligations associated with entering into non-cleared swaps.</i>
+
+#### <i>“(B) Option to clear</i>
+
+&emsp;&emsp;<i>“The application of the clearing exception in subparagraph (A) is solely at the discretion of the counterparty to the swap that meets the conditions of clauses (i) through (iii) of subparagraph (A).</i>
+
+#### <i>“(C) Financial entity definition</i>
+
+#### <i>“(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>“For the purposes of this paragraph, the term ‘financial entity’ means—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(I) a swap dealer;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(II) a security-based swap dealer;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(III) a major swap participant;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(IV) a major security-based swap participant;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(V) a commodity pool;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(VI) a private fund as defined in section 80b–2(a) of title 15;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(VII) an employee benefit plan as defined in paragraphs (3) and (32) of section 1002 of title 29;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(VIII) a person predominantly engaged in activities that are in the business of banking, or in activities that are financial in nature, as defined in section 1843(k) of title 12.</i>
+
+#### <i>“(ii) Exclusion</i>
+
+&emsp;&emsp;&emsp;<i>“The Commission shall consider whether to exempt small banks, savings associations, farm credit system institutions, and credit unions, including—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(I) depository institutions with total assets of $10,000,000,000 or less;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(II) farm credit system institutions with total assets of $10,000,000,000 or less; or</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(III) credit unions with total assets of $10,000,000,000 or less.</i>
+
+#### <i>“(iii) Limitation</i>
+
+&emsp;&emsp;&emsp;<i>“Such definition shall not include an entity whose primary business is providing financing, and uses derivatives for the purpose of hedging underlying commercial risks related to interest rate and foreign currency exposures, 90 percent or more of which arise from financing that facilitates the purchase or lease of products, 90 percent or more of which are manufactured by the parent company or another subsidiary of the parent company.</i>
+
+#### <i>“(D) Treatment of affiliates</i>
+
+#### <i>“(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>“An affiliate of a person that qualifies for an exception under subparagraph (A) (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate, acting on behalf of the person and as an agent, uses the swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity.</i>
+
+#### <i>“(ii) Prohibition relating to certain affiliates</i>
+
+&emsp;&emsp;&emsp;<i>“The exception in clause (i) shall not apply if the affiliate is—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(I) a swap dealer;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(II) a security-based swap dealer;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(III) a major swap participant;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(IV) a major security-based swap participant;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(V) an issuer that would be an investment company, as defined in section 3 of the Investment Company Act of 1940 (15 U.S.C. 80a–3), but for paragraph (1) or (7) of subsection (c) of that Act (15 U.S.C. 80a–3(c));</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(VI) a commodity pool; or</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(VII) a bank holding company with over $50,000,000,000 in consolidated assets.</i>
+
+#### <i>“(iii) Transition rule for affiliates</i>
+
+&emsp;&emsp;&emsp;<i>“An affiliate, subsidiary, or a wholly owned entity of a person that qualifies for an exception under subparagraph (A) and is predominantly engaged in providing financing for the purchase or lease of merchandise or manufactured goods of the person shall be exempt from the margin requirement described in section 6s(e) of this title and the clearing requirement described in paragraph (1) with regard to swaps entered into to mitigate the risk of the financing activities for not less than a 2-year period beginning on July 21, 2010.</i>
+
+#### <i>“(E) Election of counterparty</i>
+
+#### <i>“(i) Swaps required to be cleared</i>
+
+&emsp;&emsp;&emsp;<i>“With respect to any swap that is subject to the mandatory clearing requirement under this subsection and entered into by a swap dealer or a major swap participant with a counterparty that is not a swap dealer, major swap participant, security-based swap dealer, or major security-based swap participant, the counterparty shall have the sole right to select the derivatives clearing organization at which the swap will be cleared.</i>
+
+#### <i>“(ii) Swaps not required to be cleared</i>
+
+&emsp;&emsp;&emsp;<i>“With respect to any swap that is not subject to the mandatory clearing requirement under this subsection and entered into by a swap dealer or a major swap participant with a counterparty that is not a swap dealer, major swap participant, security-based swap dealer, or major security-based swap participant, the counterparty—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(I) may elect to require clearing of the swap; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(II) shall have the sole right to select the derivatives clearing organization at which the swap will be cleared.</i>
+
+#### <i>“(F) Abuse of exception</i>
+
+&emsp;&emsp;<i>“The Commission may prescribe such rules or issue interpretations of the rules as the Commission determines to be necessary to prevent abuse of the exceptions described in this paragraph. The Commission may also request information from those persons claiming the clearing exception as necessary to prevent abuse of the exceptions described in this paragraph.</i>
+
+#### <i>“(8) Trade execution</i>
+
+#### <i>“(A) In general</i>
+
+&emsp;&emsp;<i>“With respect to transactions involving swaps subject to the clearing requirement of paragraph (1), counterparties shall—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) execute the transaction on a board of trade designated as a contract market under section 7 of this title; or</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) execute the transaction on a swap execution facility registered under 7b–3 of this title or a swap execution facility that is exempt from registration under section 7b–3(f) of this title.</i>
+
+#### <i>“(B) Exception</i>
+
+&emsp;&emsp;<i>“The requirements of clauses (i) and (ii) of subparagraph (A) shall not apply if no board of trade or swap execution facility makes the swap available to trade or for swap transactions subject to the clearing exception under paragraph (7).”; and</i>
+
+<i>(7) by adding at the end the following new subsections:</i>
+
+#### <i>“(i) Applicability</i>
+
+<i>“The provisions of this chapter relating to swaps that were enacted by the Wall Street Transparency and Accountability Act of 2010 (including any rule prescribed or regulation promulgated under that Act), shall not apply to activities outside the United States unless those activities—</i>
+
+&emsp;<i>“(1) have a direct and significant connection with activities in, or effect on, commerce of the United States; or</i>
+
+&emsp;<i>“(2) contravene such rules or regulations as the Commission may prescribe or promulgate as are necessary or appropriate to prevent the evasion of any provision of this chapter that was enacted by the Wall Street Transparency and Accountability Act of 2010.</i>
+
+#### <i>“(j) Committee approval by Board</i>
+
+<i>“Exemptions from the requirements of subsection (h)(1) to clear a swap and subsection (h)(8) to exe</i><i>cute a swap through a board of trade or swap execution facility shall be available to a counterparty that is an issuer of securities that are registered under section 12 of the Securities Exchange Act of 1934 (15 U.S.C. 78l) or that is required to file reports pursuant to section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78o) only if an appropriate committee of the issuer's board or governing body has reviewed and approved its decision to enter into swaps that are subject to such exemptions.”</i>
 
 #### References in Text
 
@@ -812,13 +1368,17 @@ Pub. L. 90–258, §1(a), extended definition of “commodity” in third senten
 
 1938—Subsec. (a). Act Apr. 7, 1938, extended “commodity” to wool tops.
 
-1936—Subsec. (a). Act June 15, 1936, substituted “commodity”, “any commodity”, or “commodities”, as the case may require, for “grain” wherever appearing, and “any cash commodity” for “cash grain”, substitutedsentence defining “commodity” for sentence defining “grain”, and inserted definitions of “cooperative association of producers,”, “member of a contract market”, “futures commission merchant”, “floor broker”, and “the commission.”
+1936—Subsec. (a). Act June 15, 1936, substituted “commodity”, “any commodity”, or “commodities”, as the case may require, for “grain” wherever appearing, and “any cash commodity” for “cash grain”, substituted sentence defining “commodity” for sentence defining “grain”, and inserted definitions of “cooperative association of producers,”, “member of a contract market”, “futures commission merchant”, “floor broker”, and “the commission.”
 
 Subsec. (b). Act June 15, 1936, §2, substituted “commodity” and “commodities”, as the case may require, for “grain” wherever appearing.
 
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Pub. L. 110–234, title XIII, §13101(b), May 22, 2008, 122 Stat. 1432, and Pub. L. 110–246, §4(a), title XIII, §13101(b), June 18, 2008, 122 Stat. 1664, 2194, provided that: “The following provisions of the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], as amended by subsection (a) of this section \[amending this section\], shall be effective 120 days after the date of the enactment of this Act \[June 18, 2008\] or at such other time as the Commodity Futures Trading Commission shall determine:
 
@@ -890,7 +1450,41 @@ Amendment by act June 15, 1936, effective 90 days after June 15, 1936, see secti
 
 #### Separability of 1974 Amendment
 
-Pub. L. 93–463, title IV, §413, Oct. 23, 1974, 88 Stat. 1414, provided that: “If any provision of this Act \[see Short Title of 1974 Amendment note set out under section 1 of this title\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and the application of such provisions to other persons or circumstances shall not be affected thereby.”
+Pub. L. 93–463, title IV, §413, Oct. 23, 1974, 88 Stat. 1414, provided that: “If any provision of this Act \[seeShort Title of 1974 Amendment note set out under section 1 of this title\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and the application of such provisions to other persons or circumstances shall not be affected thereby.”
+
+#### Grandfather Provisions
+
+Pub. L. 111–203, title VII, §723(c), July 21, 2010, 124 Stat. 1682, provided that:
+
+“(1)
+
+Legal certainty for certain transactions in exempt commodities.—Not later than 60 days after the date of enactment of this Act \[July 21, 2010\], a person may submit to the Commodity Futures Trading Commission a petition to remain subject to section 2(h) of the Commodity Exchange Act (7 U.S.C. 2(h)) (as in effect on the day before the date of enactment of this Act).
+
+“(2)
+
+Consideration; authority of commodity futures trading commission.—The Commodity Futures Trading Commission—
+
+&emsp;“(A) shall consider any petition submitted under subparagraph (A) in a prompt manner; and
+
+&emsp;“(B) may allow a person to continue operating subject to section 2(h) of the Commodity Exchange Act (7 U.S.C. 2(h)) (as in effect on the day before the date of enactment of this Act) for not longer than a 1-year period.
+
+“(3)
+
+Agricultural swaps.—
+
+&emsp;“(A)
+
+In general.—Except as provided in subparagraph (B), no person shall offer to enter into, enter into, or confirm the execution of, any swap in an agricultural commodity (as defined by the Commodity Futures Trading Commission).
+
+&emsp;“(B)
+
+Exception.—Notwithstanding subparagraph (A), a person may offer to enter into, enter into, or confirm the execution of, any swap in an agricultural commodity pursuant to section 4(c) of the Commodity Exchange Act (7 U.S.C. 6(c)) or any rule, regulation, or order issued thereunder (including any rule, regulation, or order in effect as of the date of enactment of this Act) by the Commodity Futures Trading Commission to allow swaps under such terms and conditions as the Commission shall prescribe.
+
+“(4)
+
+Required reporting.—If the exception described in section 2(h)(8)(B) of the Commodity Exchange Act \[7 U.S.C. 2(h)(8)(B)\] applies, the counterparties shall comply with any recordkeeping and transaction reporting requirements that may be prescribed by the Commission with respect to swaps subject to section 2(h)(8)(B) of the Commodity Exchange Act.”
+
+\[For definition of “swap” as used in section 723(c) of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.\]
 
 #### Portfolio Margining and Security Index Issues
 

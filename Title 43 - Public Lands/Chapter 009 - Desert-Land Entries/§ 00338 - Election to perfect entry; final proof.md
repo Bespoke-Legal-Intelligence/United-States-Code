@@ -6,7 +6,7 @@ Any desert-land entryman or his assignee entitled to the benefit of section 337 
 
 #### Codification
 
-Section is comprised of fourth paragraph of section 5 of act Mar. 4, 1915. First paragraph of such section 5, which was classified to section 26 of Title 41, Public Contracts, was repealed by act June 30, 1949, ch. 288, title VI, §602(a)(20), 63 Stat. 401, eff. July 1, 1949, renumbered Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583; second and third paragraphs of such section 5 are classified to sections 335 and 337 of this title, respectively.
+Section is comprised of fourth paragraph of section 5 of act Mar. 4, 1915. First paragraph of such section 5, which was classified to section 26 of former Title 41, Public Contracts, was repealed by act June 30, 1949, ch. 288, title VI, §602(a)(26), 63 Stat. 401, eff. July 1, 1949, renumbered Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583; second and third paragraphs of such section 5 are classified to sections 335 and 337 of this title, respectively.
 
 Act Mar. 21, 1918 added the last proviso.
 
@@ -14,7 +14,7 @@ Act Mar. 21, 1918 added the last proviso.
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 
-“Officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registersof district land offices and transferred functions of register of district land offices to Secretary of the Interior. See section 403 of Reorg. Plan No. 3, of 1946, set out as a note under section 1 of this title.
+“Officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land offices to Secretary of the Interior. See section 403 of Reorg. Plan No. 3, of 1946, set out as a note under section 1 of this title.
 
 Previously, references to “receiver” changed to “register” by acts Oct. 28, 1921, and Mar. 3, 1925, which consolidated offices of register and receiver and provided for a single officer to be known as register.
 

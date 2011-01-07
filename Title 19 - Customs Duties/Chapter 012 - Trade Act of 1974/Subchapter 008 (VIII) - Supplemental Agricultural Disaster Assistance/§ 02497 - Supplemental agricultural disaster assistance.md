@@ -798,13 +798,13 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Amendments
 
-2009—Subsec. (g)(7). Pub. L. 111–5 added par. (7).
+<b>2009</b>—Subsec. (g)(7). Pub. L. 111–5 added par. (7).
 
 Subsec. (g)(7)(F). Pub. L. 111–80, §745(b)(1), inserted “(including multiyear assistance)” after “assistance” in introductory provisions.
 
 Subsec. (g)(7)(F)(i). Pub. L. 111–80, §745(b)(2), inserted “or multiyear production losses” after “a production loss”.
 
-2008—Subsec. (a)(2). Pub. L. 110–398, §2(b)(1)(F), added par. (2). Former par. (2) redesignated (3).
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–398, §2(b)(1)(F), added par. (2). Former par. (2) redesignated (3).
 
 Subsec. (a)(3). Pub. L. 110–398, §2(b)(1)(E), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 

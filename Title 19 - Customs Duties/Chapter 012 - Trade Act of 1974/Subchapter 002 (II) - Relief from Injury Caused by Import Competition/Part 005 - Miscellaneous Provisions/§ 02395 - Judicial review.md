@@ -24,29 +24,29 @@ Section 1256 of title 28, referred to in subsec. (c), was repealed by Pub. L. 97
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–5, §§1873(b)(1)(C), 1893, temporarily substituted “section 2371b” for “section 2371”. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Subsec. (a). Pub. L. 111–5, §§1873(b)(1)(C), 1893, temporarily substituted “section 2371b” for “section 2371”. See Effective and Termination Dates of 2009 Amendment note below.
 
 Pub. L. 111–5, §§1873(b)(1)(B), 1893, which directed the temporary substitution of “or authorized representative of a community” for “or any other interested domestic party”, was executed by making the temporary substitution for “or any other interested domestic party” the second time appearing to reflect the probable intent of Congress. See Effective and Termination Dates of 2009 Amendment note below.
 
 Pub. L. 111–5, §§1873(b)(1)(A), 1893, temporarily inserted “or 2401e” after “section 2401b”. See Effective and Termination Dates of 2009 Amendment note below.
 
-2004—Pub. L. 108–429, §2004(a)(11)(A), amended directory language of Pub. L. 107–210, §142(a)(1). See 2002 Amendment notes below.
+<b>2004</b>—Pub. L. 108–429, §2004(a)(11)(A), amended directory language of Pub. L. 107–210, §142(a)(1). See 2002 Amendment notes below.
 
-2002—Subsec. (a). Pub. L. 107–210, §142(a)(1), as amended by Pub. L. 108–429, §2004(a)(11)(A), inserted “an agricultural commodity producer (as defined in section 2401(2) of this title) aggrieved by a determination of the Secretary of Agriculture under section 2401b of this title,” after “section 2341 of this title,” in first sentence and substituted “, the Secretary of Commerce, or the Secretary of Agriculture” for “or the Secretary of Commerce” in second sentence.
+<b>2002</b>—Subsec. (a). Pub. L. 107–210, §142(a)(1), as amended by Pub. L. 108–429, §2004(a)(11)(A), inserted “an agricultural commodity producer (as defined in section 2401(2) of this title) aggrieved by a determination of the Secretary of Agriculture under section 2401b of this title,” after “section 2341 of this title,” in first sentence and substituted “, the Secretary of Commerce, or the Secretary of Agriculture” for “or the Secretary of Commerce” in second sentence.
 
 Pub. L. 107–210, §123(b)(4), struck out “or section 2331(c) of this title” after “section 2273 of this title”.
 
 Subsecs. (b), (c). Pub. L. 107–210, §142(a)(1)(B), as amended by Pub. L. 108–429, §2004(a)(11)(A)(i), substituted “, the Secretary of Commerce, or the Secretary of Agriculture” for “or the Secretary of Commerce”.
 
-1993—Subsec. (a). Pub. L. 103–182 inserted reference to section 2331(c) of this title.
+<b>1993</b>—Subsec. (a). Pub. L. 103–182 inserted reference to section 2331(c) of this title.
 
-1982—Subsec. (c). Pub. L. 97–164 substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
+<b>1982</b>—Subsec. (c). Pub. L. 97–164 substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
 
 #### Effective and Termination Dates of 2009 Amendment
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Effective Date of 2002 Amendment
 

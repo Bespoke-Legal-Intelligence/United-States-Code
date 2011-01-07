@@ -44,9 +44,11 @@ The Secretary shall require each electric utility subject to this section to—
 
 #### References in Text
 
-The National Energy Conservation Policy Act, referred to in subsec. (c)(2)(A), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3208, as amended. Part 1 of title II of the National Energy Conservation Policy Act was classified generally to part A (§8211 et seq.) of subchapter II of chapter 91 of this title, and was omitted from the Code pursuant to section 8229 of this title which terminated authority under that part June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of this title and Tables.
+The National Energy Conservation Policy Act, referred to in subsec. (c)(2)(A), is Pub. L. 95–619, Nov. 9,1978, 92 Stat. 3208, as amended. Part 1 of title II of the National Energy Conservation Policy Act was classified generally to part A (§8211 et seq.) of subchapter II of chapter 91 of this title, and was omitted from the Code pursuant to section 8229 of this title which terminated authority under that part June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of this title and Tables.
 
 #### Effective Date
 
 Section effective Aug. 13, 1981, see section 1038 of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 6240 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

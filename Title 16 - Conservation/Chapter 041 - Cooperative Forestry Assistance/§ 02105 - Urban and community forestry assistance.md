@@ -48,7 +48,7 @@ The purposes of this section are to—
 
 #### (c) General authority
 
-The Secretary is authorized to provide financial, technical, and related assistance to State foresters or equivalent State officials for the purpose of encouraging States to provide information and technical assistance to units of localgovernment and others that will encourage cooperative efforts to plan urban forestry programs and to plant, protect, and maintain, and utilize wood from, trees in open spaces, greenbelts, roadside screens, parks, woodlands, curb areas, and residential developments in urban areas. In providing such assistance, the Secretary is authorized to cooperate with interested members of the public, including nonprofit private organizations. The Secretary is also authorized to cooperate directly with units of local government and others in implementing this section whenever the Secretary and the affected State forester or equivalent State official agree that direct cooperation would better achieve the purposes of this section.
+The Secretary is authorized to provide financial, technical, and related assistance to State foresters or equivalent State officials for the purpose of encouraging States to provide information and technical assistance to units of local government and others that will encourage cooperative efforts to plan urban forestry programs and to plant, protect, and maintain, and utilize wood from, trees in open spaces, greenbelts, roadside screens, parks, woodlands, curb areas, and residential developments in urban areas. In providing such assistance, the Secretary is authorized to cooperate with interested members of the public, including nonprofit private organizations. The Secretary is also authorized to cooperate directly with units of local government and others in implementing this section whenever the Secretary and the affected State forester or equivalent State official agree that direct cooperation would better achieve the purposes of this section.
 
 #### (d) Program of education and technical assistance
 
@@ -156,7 +156,7 @@ The Secretary, in cooperation with State foresters or equivalent State officials
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), members of the Council shall serve without pay, but may be reimbursed for reasonable costs incurred while in the actual performance of duties vested in the Council.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), members of the Council shall serve withoutpay, but may be reimbursed for reasonable costs incurred while in the actual performance of duties vested in the Council.
 
 #### (ii) Federal officers and employees
 
@@ -226,21 +226,21 @@ There are hereby authorized to be appropriated $30,000,000 for each of the fisca
 
 #### Codification
 
-November 28, 1990, referred to in subsec. (g)(3), was in the original “the date of enactment of this subsection”, which was translated as meaning the date of enactment of Pub. L. 101–624, which amended this section generally, to reflect the probable intent of Congress.
+November 28, 1990, referred to in subsec. (g)(3), was in the original “the date of enactment of this subsection”,which was translated as meaning the date of enactment of Pub. L. 101–624, which amended this section generally, to reflect the probable intent of Congress.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
-2008—Subsec. (g)(2)(A)(viii). Pub. L. 110–246, §7511(c)(36), substituted “National Institute of Food and Agriculture” for “Extension Service”.
+<b>2008</b>—Subsec. (g)(2)(A)(viii). Pub. L. 110–246, §7511(c)(36), substituted “National Institute of Food and Agriculture” for “Extension Service”.
 
-1991—Subsec. (g)(1)(C), (3)(E). Pub. L. 102–237, §1018(a)(3)(A), (B), substituted “subsection (f)” for “subsection (e)”.
+<b>1991</b>—Subsec. (g)(1)(C), (3)(E). Pub. L. 102–237, §1018(a)(3)(A), (B), substituted “subsection (f)” for “subsection (e)”.
 
 Subsec. (h)(1). Pub. L. 102–237, §1018(a)(3)(C), substituted “subsection (g)” for “subsection (f)”.
 
 Subsec. (h)(2). Pub. L. 102–237, §1018(a)(3)(D), substituted “subsection (g)(3)” for “subsection (f)(3)”.
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to Congressional findings concerning urban forestry assistance, financial, technical, and related assistance to State foresters or equivalent State officials to encourage planning of urban forestry programs, and authorization of appropriations.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to Congressional findings concerning urban forestry assistance, financial, technical, and related assistance to State foresters or equivalent State officials to encourage planning of urban forestry programs, and authorization of appropriations.
 
 #### Effective Date of 2008 Amendment
 

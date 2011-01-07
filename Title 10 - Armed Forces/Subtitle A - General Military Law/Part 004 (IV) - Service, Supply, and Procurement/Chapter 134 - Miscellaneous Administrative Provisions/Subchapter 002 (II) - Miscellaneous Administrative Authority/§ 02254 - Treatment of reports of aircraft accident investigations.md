@@ -8,7 +8,7 @@ In General.—(1) Whenever the Secretary of a military department conducts an ac
 
 (b)
 
-Public Disclosure of Certain Accident Investigation Information.—(1) The Secretaryconcerned, upon request, shall publicly disclose unclassified tapes, scientific reports, and other factual information pertinent to an aircraft accident investigation, before the release of the final accident investigation report relating to the accident, if the Secretary concerned determines—
+Public Disclosure of Certain Accident Investigation Information.—(1) The Secretary concerned, upon request, shall publicly disclose unclassified tapes, scientific reports, and other factual information pertinent to an aircraft accident investigation, before the release of the final accident investigation report relating to the accident, if the Secretary concerned determines—
 
 &emsp;(A) that such tapes, reports, or other information would be included within and releasable with the final accident investigation report; and
 
@@ -46,5 +46,5 @@ Section 1071(c) of Pub. L. 102–484 provided that: “Section 2254 of title 10,
 
 Pub. L. 105–261, div. A, title X, §1065(c), Oct. 17, 1998, 112 Stat. 2134, provided that: “The Secretary of Defense shall prescribe regulations, which shall be applied uniformly across the Department of Defense, establishing procedures by which the military departments shall provide to the family members of any person involved in a military aviation accident periodic update reports on the conduct and progress of investigations into the accident.”
 
-Section 1071(b) of Pub. L. 102–484 provided that: “Regulations under section 2254 of title 10, United States Code, as added by subsection (a), shall be prescribed not later than 180 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
+Section 1071(b) of Pub. L. 102–484 provided that: “Regulations under section 2254 of title 10, United StatesCode, as added by subsection (a), shall be prescribed not later than 180 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
 

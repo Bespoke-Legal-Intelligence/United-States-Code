@@ -54,7 +54,7 @@ Section was formerly classified to section 1135d of this title prior to renumber
 
 #### Amendments
 
-2008—Par. (3)(B). Pub. L. 110–315, §315(b)(1), struck out “or” at end.
+<b>2008</b>—Par. (3)(B). Pub. L. 110–315, §315(b)(1), struck out “or” at end.
 
 Par. (4)(A). Pub. L. 110–315, §315(b)(2)(A), substituted “public and private nonprofit institutions of higher education” for “institutions of higher education”.
 
@@ -66,7 +66,7 @@ Par. (4)(F). Pub. L. 110–315, §315(b)(2)(D), (E), added subpar. (F).
 
 Par. (5). Pub. L. 110–315, §315(b)(3), added par. (5).
 
-1998—Pub. L. 105–244, §307(b), amended section catchline and text generally. Prior to amendment, text read as follows: “Eligibility to receive grants under this part is limited to—
+<b>1998</b>—Pub. L. 105–244, §307(b), amended section catchline and text generally. Prior to amendment, text read as follows: “Eligibility to receive grants under this part is limited to—
 
 &emsp;“(1) public and private nonprofit institutions that are minority institutions (as defined in section 1067k(3) of this title); and
 

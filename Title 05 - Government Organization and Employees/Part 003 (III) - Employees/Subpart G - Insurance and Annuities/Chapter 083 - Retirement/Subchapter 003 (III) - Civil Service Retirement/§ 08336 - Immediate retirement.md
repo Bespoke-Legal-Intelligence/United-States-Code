@@ -46,7 +46,7 @@
 
 > after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity. For purposes of paragraph (1) of this subsection, separation for failure to accept a directed reassignment to a position outside the commuting area of the employee concerned or to accompany a position outside of such area pursuant to a transfer of function shall not be considered to be a removal for cause on charges of misconduct or delinquency. Notwithstanding the first sentence of this subsection, an employee described in paragraph (1) of this subsection is not entitled to an annuity under this subsection if the employee has declined a reasonable offer of another position in the employee's agency for which the employee is qualified, which is not lower than 2 grades (or pay levels) below the employee's grade (or pay level), and which is within the employee's commuting area.
 
-(e) An employee who is voluntarily or involuntarily separated from the service, except by removal for cause on charges of misconduct or delinquency, after completing 25 years of service as an air traffic controller or after becoming 50years of age and completing 20 years of service as an air traffic controller, is entitled to an annuity.
+(e) An employee who is voluntarily or involuntarily separated from the service, except by removal for cause on charges of misconduct or delinquency, after completing 25 years of service as an air traffic controller or after becoming 50 years of age and completing 20 years of service as an air traffic controller, is entitled to an annuity.
 
 (f) An employee who is separated from the service after becoming 62 years of age and completing 5 years of service is entitled to an annuity.
 

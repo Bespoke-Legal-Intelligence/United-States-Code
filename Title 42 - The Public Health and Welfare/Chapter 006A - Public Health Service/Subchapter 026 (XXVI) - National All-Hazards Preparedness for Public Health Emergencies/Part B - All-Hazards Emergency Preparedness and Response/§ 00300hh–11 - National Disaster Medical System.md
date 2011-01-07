@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The National Disaster Medical System shall be a coordinated effort by the Federal agencies specified in subparagraph (B), working in collaboration with the Statesand other appropriate public or private entities, to carry out the purposes described in paragraph (3).
+&emsp;&emsp;The National Disaster Medical System shall be a coordinated effort by the Federal agencies specified in subparagraph (B), working in collaboration with the States and other appropriate public or private entities, to carry out the purposes described in paragraph (3).
 
 #### (B) Participating Federal agencies
 
@@ -80,7 +80,7 @@
 
 #### (B) Notice of absence from position of employment
 
-&emsp;&emsp;Preclusion of giving notice of service by necessity of Service as an intermittent disaster-response appointee when the Secretary activates the National Disaster Medical System shall be deemed preclusion by “military necessity” for purposes of section 4312(b) of title 38 pertaining to giving notice of absence from a position of employment. A determination of such necessity shall be made by the Secretary, in consultation with the Secretary of Defense, and shall not be subject to judicial review.
+&emsp;&emsp;Preclusion of giving notice of service by necessity of Service as an intermittent disaster-response appointee when the Secretary activates the National Disaster Medical System shall be deemed preclusion by “military necessity” for purposes of section 4312(b) oftitle 38 pertaining to giving notice of absence from a position of employment. A determination of such necessity shall be made by the Secretary, in consultation with the Secretary of Defense, and shall not be subject to judicial review.
 
 #### (4) Limitation
 
@@ -100,13 +100,9 @@ For the purpose of providing for the Assistant Secretary for Preparedness and Re
 
 (July 1, 1944, ch. 373, title XXVIII, §2812, formerly §2811, as added Pub. L. 107–188, title I, §102(a), June 12, 2002, 116 Stat. 599; renumbered §2812 and amended Pub. L. 109–417, title I, §102(a)(2), (4), title III, §301(a), Dec. 19, 2006, 120 Stat. 2832, 2834, 2853.)
 
-#### References in Text
-
-The civil service laws, referred to in subsec. (c)(1), are classified generally to Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Amendments
 
-2006—Pub. L. 109–417, §301(a)(1), substituted “National Disaster Medical System” for “Coordination of preparedness for and response to bioterrorism and other public health emergencies” in section catchline.
+<b>2006</b>—Pub. L. 109–417, §301(a)(1), substituted “National Disaster Medical System” for “Coordination of preparedness for and response to bioterrorism and other public health emergencies” in section catchline.
 
 Subsec. (a). Pub. L. 109–417, §301(a)(2), (3), redesignated subsec. (b) as (a) and struck out former subsec. (a) which related to establishment of position and duties of Assistant Secretary for Public Health Emergency Preparedness.
 

@@ -8,11 +8,9 @@ There is authorized to be appropriated annually to the Department of State, out 
 
 Paragraph (D) of article XIV of the Statute of the Agency, referred to in text, provides “The Board of Governors shall apportion the expenses referred to in subparagraph B–1 above, among members in accordance with a scale to be fixed by the General Conference. In fixing the scale the General Conference shall be guided by the principles adopted by the United Nations in assessing contributions of Member States to the regular budget of the United Nations”.
 
-The civil service laws, referred to in text, are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
+The Foreign Service Act of 1980, referred to in text, is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
-The Foreign Service Act of 1980, referred to in text, is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of thisAct to the Code, see Short Title note set out under section 3901 of this title and Tables.
-
-The Atomic Energy Act of 1954, as amended, referred to in text, is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, as amended, referred to in text, is act Aug. 1, 1946, ch. 724, as added by actAug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 #### Codification
 
@@ -22,7 +20,7 @@ The Atomic Energy Act of 1954, as amended, referred to in text, is act Aug. 1, 1
 
 #### Amendments
 
-1980—Pub. L. 96–465 substituted references to the Foreign Service Act of 1980 for references to the Foreign Service Act of 1946.
+<b>1980</b>—Pub. L. 96–465 substituted references to the Foreign Service Act of 1980 for references to the Foreign Service Act of 1946.
 
 #### Effective Date of 1980 Amendment
 

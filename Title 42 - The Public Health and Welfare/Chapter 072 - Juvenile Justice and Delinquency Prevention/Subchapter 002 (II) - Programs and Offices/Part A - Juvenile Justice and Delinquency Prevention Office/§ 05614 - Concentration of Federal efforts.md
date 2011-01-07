@@ -56,6 +56,8 @@ All functions of the Administrator under this subchapter shall be coordinated as
 
 #### References in Text
 
+This chapter, referred to in subsecs. (b), (d), and (f), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
+
 Section 5633(a)(15) of this title, referred to in subsec. (b)(6), was redesignated section 5633(a)(14) of this title by Pub. L. 107–273, div. C, title II, §12209(1)(S), Nov. 2, 2002, 116 Stat. 1879.
 
 #### Codification
@@ -64,7 +66,7 @@ November 2, 2002, referred to in subsec. (b)(7), was in the original “the date
 
 #### Amendments
 
-2002—Subsec. (b)(3). Pub. L. 107–273, §12205(1)(A), struck out “and of the prospective performance and results that might be achieved by alternative programs and activities supplementary to or in lieu of those currently being administered” before semicolon at end.
+<b>2002</b>—Subsec. (b)(3). Pub. L. 107–273, §12205(1)(A), struck out “and of the prospective performance and results that might be achieved by alternative programs and activities supplementary to or in lieu of those currently being administered” before semicolon at end.
 
 Subsec. (b)(5). Pub. L. 107–273, §12205(1)(B), substituted “parts D and E” for “parts C and D” wherever appearing.
 
@@ -84,7 +86,7 @@ Subsec. (i). Pub. L. 107–273, §12205(4), struck out subsec. (i) which read as
 
 “(3) The Administrator shall review and comment upon each juvenile delinquency development statement transmitted to the Administrator under paragraph (1). Such development statement, together with the comments of the Administrator, shall be included by the Federal agency involved in every recommendation or request made by such agency for Federal legislation which significantly affects juvenile delinquency prevention and treatment.”
 
-1992—Subsec. (a). Pub. L. 102–586, §2(c)(1), designated existing provisions as par. (1), substituted “develop objectives, priorities, and a long-term plan, and implement overall policy and a strategy to carry out such plan,” for “implement overall policy and develop objectives and priorities”, and added par. (2).
+<b>1992</b>—Subsec. (a). Pub. L. 102–586, §2(c)(1), designated existing provisions as par. (1), substituted “develop objectives, priorities, and a long-term plan, and implement overall policy and a strategy to carry out such plan,” for “implement overall policy and develop objectives and priorities”, and added par. (2).
 
 Subsec. (b)(7). Pub. L. 102–586, §2(c)(2), (3), added par. (7).
 
@@ -92,9 +94,9 @@ Subsec. (f). Pub. L. 102–586, §2(c)(4), struck out subsec. (f) which read as 
 
 Subsec. (g). Pub. L. 102–586, §2(c)(4), struck out subsec. (g) which read as follows: “The Administrator is authorized to make grants to, or enter into contracts with, any public or private agency, organization, institution, or individual to carry out the purposes of this subchapter.”
 
-1988—Subsec. (a). Pub. L. 100–690, §7253(a), struck out “and the National Advisory Committee for Juvenile Justice and Delinquency Prevention” before period at end.
+<b>1988</b>—Subsec. (a). Pub. L. 100–690, §7253(a), struck out “and the National Advisory Committee for Juvenile Justice and Delinquency Prevention” before period at end.
 
-Subsec. (b)(5). Pub. L. 100–690, §7253(b)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “develop annually with the assistance of the Advisory Committee and the Coordinating Council and submit to the President and the Congress, after the first year following October 3, 1977, prior to December 31, an analysis and evaluation of Federal juvenile delinquency programs conducted and assisted by Federal departments and agencies, the expenditures made, the results achieved, the plans developed, and problems in the operations and coordination of such programs and a brief but precise comprehensive plan for Federal juvenile delinquency programs, with particular emphasis on the prevention of juvenile delinquency and the development of programs and services which will encourage increased diversion of juveniles from the traditional juvenile justice system, which analysis and evaluation shall include recommendations for modifications in organization, management, personnel, standards, budget requests, and implementation plans necessary to increase the effectiveness of these programs;”.
+Subsec. (b)(5). Pub. L. 100–690, §7253(b)(1), amended par. (5) generally. Prior to amendment, par. (5) read asfollows: “develop annually with the assistance of the Advisory Committee and the Coordinating Council and submit to the President and the Congress, after the first year following October 3, 1977, prior to December 31, an analysis and evaluation of Federal juvenile delinquency programs conducted and assisted by Federal departments and agencies, the expenditures made, the results achieved, the plans developed, and problems in the operations and coordination of such programs and a brief but precise comprehensive plan for Federal juvenile delinquency programs, with particular emphasis on the prevention of juvenile delinquency and the development of programs and services which will encourage increased diversion of juveniles from the traditional juvenile justice system, which analysis and evaluation shall include recommendations for modifications in organization, management, personnel, standards, budget requests, and implementation plans necessary to increase the effectiveness of these programs;”.
 
 Subsec. (b)(6), (7). Pub. L. 100–690, §7253(b)(2), (3), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “provide technical assistance and training assistance to Federal, State, and local governments, courts, public and private agencies, institutions, and individuals, in the planning, establishment, funding, operation, or evaluation of juvenile delinquency programs; and”.
 
@@ -106,7 +108,7 @@ Subsec. (d). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (g) as (
 
 “(2) The second such annual report shall contain, in addition to information required by subsection (b)(5) of this section, an identification of Federal programs which are related to juvenile delinquency prevention or treatment, together with a statement of the moneys expended for each such program during the most recent complete fiscal year. Such identification shall be made by the Administrator through the use of criteria developed under paragraph (1).”
 
-Subsec. (e). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (h) as (e) and struck out former subsec.\(e) which read as follows: “The third such annual report submitted to the President and the Congress by the Administrator under subsection (b)(5) of this section shall contain, in addition to the comprehensive plan required by subsection (b)(5) of this section, a detailed statement of procedures to be used with respect to the submission of juvenile delinquency development statements to the Administrator by Federal agencies under subsection (<i>l</i>) of this section. Such statement submitted by the Administrator shall include a description of information, data, and analyses which shall be contained in each such development statement.”
+Subsec. (e). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (h) as (e) and struck out former subsec. (e) which read as follows: “The third such annual report submitted to the President and the Congress by the Administrator under subsection (b)(5) of this section shall contain, in addition to the comprehensive plan required by subsection (b)(5) of this section, a detailed statement of procedures to be used with respect to the submission of juvenile delinquency development statements to the Administrator by Federal agencies under subsection (<i>l</i>) of this section. Such statement submitted by the Administrator shall include a description of information, data, and analyses which shall be contained in each such development statement.”
 
 Subsecs. (f) to (h). Pub. L. 100–690, §7253(c)(3), redesignated subsecs. (i) to (k) as (f) to (h), respectively. Former subsecs. (f) to (h) redesignated (c) to (e), respectively.
 
@@ -116,7 +118,7 @@ Subsecs. (j) to (<i>l</i>). Pub. L. 100–690, §7253(c)(3), redesignated subsec
 
 Subsec. (m). Pub. L. 100–690, §7253(c)(4), struck out subsec. (m) which read as follows: “To carry out the purposes of this section, there is authorized to be appropriated for each fiscal year an amount which does not exceed 7.5 percent of the total amount appropriated to carry out this subchapter.”
 
-1984—Subsec. (a). Pub. L. 98–473, §622(a), substituted “the functions of the Administrator” for “his functions”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–473, §622(a), substituted “the functions of the Administrator” for “his functions”.
 
 Subsec. (b)(2), (4). Pub. L. 98–473, §622(b)(1), (2), substituted “the Administrator” for “he”.
 
@@ -136,7 +138,7 @@ Subsec. (<i>l</i>)(2). Pub. L. 98–473, §622(g)(2), substituted “paragraph (
 
 Subsec. (<i>l</i>)(3). Pub. L. 98–473, §622(g)(3), substituted “the Administrator” for “him” after “transmitted to” and “paragraph (1)” for “subsection (‘<i>l</i>’)”.
 
-1980—Subsec. (b). Pub. L. 96–509, §7(a), struck out reference to the Associate Administrator in provisions preceding par. (1) and in par. (6) inserted reference to training assistance.
+<b>1980</b>—Subsec. (b). Pub. L. 96–509, §7(a), struck out reference to the Associate Administrator in provisions preceding par. (1) and in par. (6) inserted reference to training assistance.
 
 Subsec. (d)(1). Pub. L. 96–509, §19(d)(1), substituted “Administrator for identifying” for “Associate Administrator for identifying”.
 
@@ -150,7 +152,7 @@ Subsec. (<i>l</i>)(1). Pub. L. 96–509, §19(d)(5), substituted “developed by
 
 Subsec. (m). Pub. L. 96–509, §7(b), added subsec. (m).
 
-1977—Subsec. (b). Pub. L. 95–115, §3(b)(1), in introductory text inserted requirement for assistance of the Associate Administrator, added par. (5), and redesignated par. (7) as (6). Former par. (5), relating to an analysis and evaluation of Federal juvenile delinquency programs, and former par. (6), relating to a comprehensive plan for Federal juvenile delinquency programs, were struck out.
+<b>1977</b>—Subsec. (b). Pub. L. 95–115, §3(b)(1), in introductory text inserted requirement for assistance of the Associate Administrator, added par. (5), and redesignated par. (7) as (6). Former par. (5), relating to an analysis and evaluation of Federal juvenile delinquency programs, and former par. (6), relating to a comprehensive plan for Federal juvenile delinquency programs, were struck out.
 
 Subsec. (d)(1). Pub. L. 95–115, §3(b)(2), inserted “Associate” before “Administrator for”.
 
@@ -168,7 +170,7 @@ Subsec. (k). Pub. L. 95–115, §3(b)(7), substituted “subchapter” for “pa
 
 Subsec. (<i>l</i>)(1). Pub. L. 95–115, §3(b)(8), inserted “Associate” before “Administrator under”.
 
-1976—Subsec. (b)(5). Pub. L. 94–273, §8(3), substituted “December 31” for “September 30”.
+<b>1976</b>—Subsec. (b)(5). Pub. L. 94–273, §8(3), substituted “December 31” for “September 30”.
 
 Subsec. (b)(6). Pub. L. 94–273, §12(3), substituted “June” for “March”.
 

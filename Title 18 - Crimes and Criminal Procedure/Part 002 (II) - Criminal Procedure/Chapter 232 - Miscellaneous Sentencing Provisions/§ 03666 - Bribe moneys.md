@@ -18,5 +18,5 @@ This section \[section 55\] corrects section 3612 of title 18, U.S.C., so that t
 
 #### Amendments
 
-1949—Act May 24, 1949, substituted “section 2042” for “section 852”.
+<b>1949</b>—Act May 24, 1949, substituted “section 2042” for “section 852”.
 

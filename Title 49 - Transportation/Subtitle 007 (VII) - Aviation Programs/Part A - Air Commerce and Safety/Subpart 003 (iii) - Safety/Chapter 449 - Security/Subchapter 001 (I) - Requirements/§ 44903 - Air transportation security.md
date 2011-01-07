@@ -34,7 +34,7 @@ Protection Against Violence and Piracy.—The Under Secretary shall prescribe re
 
 Security Programs.—(1) The Under Secretary shall prescribe regulations under subsection (b) of this section that require each operator of an airport regularly serving an air carrier holding a certificate issued by the Secretary of Transportation to establish an air transportation security program that provides a law enforcement presence and capability at each of those airports that is adequate to ensure the safety of passengers. The regulations shall authorize the operator to use the services of qualified State, local, and private law enforcement personnel. When the Under Secretary decides, after being notified by an operator in the form the Under Secretary prescribes, that not enough qualified State, local, and private law enforcement personnel are available to carry out subsection (b), the Under Secretary may authorize the operator to use, on a reimbursable basis, personnel employed by the Under Secretary, or by another department, agency, or instrumentality of the Government with the consent of the head of the department, agency, or instrumentality, to supplement State, local, and private law enforcement personnel. When deciding whether additional personnel are needed, the Under Secretary shall consider the number of passengers boarded at the airport, the extent of anticipated risk of criminal violence or aircraft piracy at the airport or to the air carrier aircraft operations at the airport, and the availability of qualified State or local law enforcement personnel at the airport.
 
-(2)(A) The Under Secretary may approve a security program of an airport operator, or an amendment in an existing program, that incorporates a security program of an airport tenant\(except an air carrier separately complying with part 108 or 129 of title 14, Code of Federal Regulations) having access to a secured area of the airport, if the program or amendment incorporates—
+(2)(A) The Under Secretary may approve a security program of an airport operator, or an amendment in an existing program, that incorporates a security program of an airport tenant (except an air carrier separately complying with part 108 or 129 of title 14, Code of Federal Regulations) having access to a secured area of the airport, if the program or amendment incorporates—
 
 &emsp;(i) the measures the tenant will use, within the tenant's leased areas or areas designated for the tenant's exclusive use under an agreement with the airport operator, to carry out the security requirements imposed by the Under Secretary on the airport operator under the access control system requirements of section 107.14 of title 14, Code of Federal Regulations, or under other requirements of part 107 of title 14; and
 
@@ -138,7 +138,7 @@ Airport perimeter screening.—The Under Secretary—
 
 &emsp;(5)
 
-Use of biometric technology in airport access control systems.—In issuing guidance under paragraph (4)(E), the Assistant Secretary of Homeland Security (Transportation Security Administration) in consultation with representatives of the aviation industry, the biometric identifier industry, and the National Institute of Standards and Technology, shall establish, at a minimum—
+Use of biometric technology in airport access control systems.—In issuing guidanceunder paragraph (4)(E), the Assistant Secretary of Homeland Security (Transportation Security Administration) in consultation with representatives of the aviation industry, the biometric identifier industry, and the National Institute of Standards and Technology, shall establish, at a minimum—
 
 &emsp;&emsp;(A) comprehensive technical and operational system requirements and performance standards for the use of biometric identifier technology in airport access control systems (including airport perimeter access control systems) to ensure that the biometric identifier systems are effective, reliable, and secure;
 
@@ -222,7 +222,7 @@ False non-match.—The term “false non-match” means the rejection of a valid
 
 &emsp;&emsp;(F)
 
-Secure area of an airport.—The term “secure area of an airport” means the sterile area and the Secure Identification Display Area of an airport (as such terms are defined in section 1540.5 of title 49, Code of Federal Regulations, or any successor regulation to such section).
+Secure area of an airport.—The term “secure area of an airport” means the sterile area and the Secure Identification DisplayArea of an airport (as such terms are defined in section 1540.5 of title 49, Code of Federal Regulations, or any successor regulation to such section).
 
 (i)
 
@@ -252,7 +252,7 @@ Short-Term Assessment and Deployment of Emerging Security Technologies and Proce
 
 In general.—The Under Secretary of Transportation for Security shall recommend to airport operators, within 6 months after the date of enactment of the Aviation and Transportation Security Act, commercially available measures or procedures to prevent access to secure airport areas by unauthorized persons. As part of the 6-month assessment, the Under Secretary for Transportation Security shall—
 
-&emsp;&emsp;(A) review the effectiveness of biometrics systems currently in use at several UnitedStates airports, including San Francisco International;
+&emsp;&emsp;(A) review the effectiveness of biometrics systems currently in use at several United States airports, including San Francisco International;
 
 &emsp;&emsp;(B) review the effectiveness of increased surveillance at access points;
 
@@ -370,7 +370,7 @@ In general.—The Assistant Secretary shall establish a timely and fair process 
 
 &emsp;&emsp;&emsp;(ii)
 
-Records.—The process shall include the establishment of a method by which the Assistant Secretary will be able to maintain a record of air passengers and other individuals who have been misidentified and have corrected erroneous information. To prevent repeated delays of misidentified passengers and other individuals, the Transportation Security Administration record shall contain information determined by the Assistant Secretary to authenticate the identity of such a passenger or individual.
+Records.—The process shall include the establishment of a method by which the Assistant Secretary will be able to maintain a record of air passengers andother individuals who have been misidentified and have corrected erroneous information. To prevent repeated delays of misidentified passengers and other individuals, the Transportation Security Administration record shall contain information determined by the Assistant Secretary to authenticate the identity of such a passenger or individual.
 
 &emsp;&emsp;(H)
 
@@ -402,7 +402,7 @@ Security procedures.—The Secretary of Defense, in consultation with the Secret
 
 &emsp;&emsp;(C)
 
-Armed forces defined.—In this paragraph, the term “armed forces” has themeaning given that term by section 101(a)(4) of title 10.
+Armed forces defined.—In this paragraph, the term “armed forces” has the meaning given that term by section 101(a)(4) of title 10.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1205; Pub. L. 106–181, title VII, §717, Apr. 5, 2000, 114 Stat. 163; Pub. L. 106–528, §§4, 6, Nov. 22, 2000, 114 Stat. 2520, 2521; Pub. L. 107–71, title I, §§101(f)(7)–(9), 106(a), (c), (d), 120, 126(b), 136, 144, Nov. 19, 2001, 115 Stat. 603, 608–610, 629, 632, 636, 644; Pub. L. 107–296, title XIV, §§1405, 1406, Nov. 25, 2002, 116 Stat. 2307; Pub. L. 108–176, title VI, §606(a), Dec. 12, 2003, 117 Stat. 2568; Pub. L. 108–458, title IV, §§4011(a), 4012(a)(1), Dec. 17, 2004, 118 Stat. 3712, 3714; Pub. L. 110–53, title XVI, §1615(a), Aug. 3, 2007, 121 Stat. 486; Pub. L. 111–83, title V, §553, Oct. 28, 2009, 123 Stat. 2179.)
 
@@ -456,7 +456,7 @@ In subsection (c)(1), the words “traveling in air transportation or intrastate
 
 In subsection (c)(2)(A), before clause (i), the words “under this section” are omitted as surplus. The words “or an amendment in an existing program” are substituted for “and may approve an amendment to a security program of an airport operator approved by the Administrator under subsection (b)” to eliminate unnecessary words. In clause (ii), the word “monetary” is substituted for “financial” for consistency.
 
-In subsection (e), the words “Notwithstanding any other provisions of law”, “the commission of”, “considered”, and “the moment when” before “such door” are omitted as surplus. The words “to allow passengers to leave” are substituted for “disembarkation”, and the words “the aircraft” are added, for clarity. The words “departments, agencies, and instrumentalities of the Government” are substituted for “Federal departments and agencies” for consistency in the revised title and with other titles of the Code. The words “as may be . . . the purposes of” are omitted as surplus.
+In subsection (e), the words “Notwithstanding any other provisions of law”, “the commission of”, “considered”, and “the moment when” before “such door” are omitted as surplus. The words “to allow passengers to leave” are substituted for “disembarkation”, and the words “the aircraft” are added, for clarity. The words “departments, agencies, and instrumentalities of the Government” are substituted for “Federal departmentsand agencies” for consistency in the revised title and with other titles of the Code. The words “as may be . . . the purposes of” are omitted as surplus.
 
 #### References in Text
 
@@ -476,19 +476,19 @@ Section 607 of the Vision 100—Century of Aviation Reauthorization Act, referre
 
 #### Amendments
 
-2009—Subsec. (j)(2)(C)(v). Pub. L. 111–83 added cl. (v).
+<b>2009</b>—Subsec. (j)(2)(C)(v). Pub. L. 111–83 added cl. (v).
 
-2007—Subsec. (h)(6). Pub. L. 110–53 amended par. (6) generally. Prior to amendment, par. (6) related to establishment of a uniform law enforcement officer travel credential incorporating biometric identifier technology not later than 120 days after Dec. 17, 2004.
+<b>2007</b>—Subsec. (h)(6). Pub. L. 110–53 amended par. (6) generally. Prior to amendment, par. (6) related to establishment of a uniform law enforcement officer travel credential incorporating biometric identifier technology not later than 120 days after Dec. 17, 2004.
 
-2004—Subsec. (h)(4)(E). Pub. L. 108–458, §4011(a)(1), substituted “shall issue, not later than March 31, 2005, guidance for” for “may provide for”.
+<b>2004</b>—Subsec. (h)(4)(E). Pub. L. 108–458, §4011(a)(1), substituted “shall issue, not later than March 31, 2005, guidance for” for “may provide for”.
 
 Subsec. (h)(5) to (7). Pub. L. 108–458, §4011(a)(2), added pars. (5) to (7).
 
 Subsec. (j)(2)(C) to (H). Pub. L. 108–458, §4012(a)(1), added subpars. (C) to (H).
 
-2003—Subsec. (<i>l</i>). Pub. L. 108–176 added subsec. (<i>l</i>).
+<b>2003</b>—Subsec. (<i>l</i>). Pub. L. 108–176 added subsec. (<i>l</i>).
 
-2002—Subsec. (h). Pub. L. 107–296, §1406(3), redesignated subsec. (h), relating to limitation on liability for acts to thwart criminal violence or aircraft piracy, as (k).
+<b>2002</b>—Subsec. (h). Pub. L. 107–296, §1406(3), redesignated subsec. (h), relating to limitation on liability for acts to thwart criminal violence or aircraft piracy, as (k).
 
 Pub. L. 107–296, §1406(2), redesignated subsec. (h), relating to authority to arm flight deck crews with less-than-lethal weapons, as (i).
 
@@ -504,7 +504,7 @@ Subsec. (j). Pub. L. 107–296, §1406(1), redesignated subsec. (i) as (j).
 
 Subsec. (k). Pub. L. 107–296, §1406(3), redesignated subsec. (h), relating to limitation on liability for acts to thwart criminal violence or aircraft piracy, as (k).
 
-2001—Subsec. (a)(2). Pub. L. 107–71, §101(f)(7), (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
+<b>2001</b>—Subsec. (a)(2). Pub. L. 107–71, §101(f)(7), (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
 
 Subsec. (b). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” in two places in introductory provisions.
 
@@ -538,7 +538,7 @@ Pub. L. 107–71, §106(a), added subsec. (h) relating to improved airport perim
 
 Subsec. (i). Pub. L. 107–71, §136, added subsec. (i).
 
-2000—Subsec. (c)(2)(C). Pub. L. 106–528, §6, added subpar. (C).
+<b>2000</b>—Subsec. (c)(2)(C). Pub. L. 106–528, §6, added subpar. (C).
 
 Subsec. (f). Pub. L. 106–181 added subsec. (f).
 
@@ -560,7 +560,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, includingthe functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Strategic Plan To Test and Implement Advanced Passenger Prescreening System
 
@@ -798,7 +798,7 @@ Documentation of Costs; Audit.—The Secretary may not reimburse an airport oper
 
 “(c)
 
-Claim Procedure.—Within 30 days after the date of enactment of this Act \[Nov. 19, 2001\], the Secretary,after consultation with airport operators, on-airport parking lots, and vendors of on-airfield direct services to air carriers, shall publish in the Federal Register the procedures for filing claims for reimbursement under this section of eligible costs incurred by airport operators.”
+Claim Procedure.—Within 30 days after the date of enactment of this Act \[Nov. 19, 2001\], the Secretary, after consultation with airport operators, on-airport parking lots, and vendors of on-airfield direct services to air carriers, shall publish in the Federal Register the procedures for filing claims for reimbursement under this section of eligible costs incurred by airport operators.”
 
 #### Flight Deck Security
 
@@ -870,7 +870,7 @@ Training and background of law enforcement officers.—
 
 &emsp;&emsp;“(A)
 
-In general.—Under the program, to qualify to serve as a Deputy United States Marshal under the program, a State or local law enforcement officer shall—
+In general.—Under the program, to qualify to serve as a Deputy United States Marshal underthe program, a State or local law enforcement officer shall—
 
 &emsp;&emsp;&emsp;“(i) meet the minimum background and training requirements for a law enforcement officer under part 107 of title 14, Code of Federal Regulations (or equivalent requirements established by the Attorney General); and
 
@@ -914,7 +914,7 @@ Regulations.—The Attorney General may promulgate such regulations as may be ne
 
 “(f)
 
-Notification of Congress.—Not later than 90 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Attorney General shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on whetheror not the Attorney General intends to establish the program authorized by this section.”
+Notification of Congress.—Not later than 90 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Attorney General shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on whether or not the Attorney General intends to establish the program authorized by this section.”
 
 #### Development of Aviation Security Liaison Agreement
 

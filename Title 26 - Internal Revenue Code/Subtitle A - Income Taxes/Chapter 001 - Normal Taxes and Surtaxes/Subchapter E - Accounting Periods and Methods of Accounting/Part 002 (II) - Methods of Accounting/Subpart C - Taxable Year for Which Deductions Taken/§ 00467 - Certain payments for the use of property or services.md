@@ -68,7 +68,7 @@ In the case of the lessor or lessee under any section 467 rental agreement, ther
 
 &emsp;&emsp;(A) the prior understated inclusions, or
 
-&emsp;&emsp;(B) the excess of the amount realized (or in the case of a disposition other than a sale,exchange, or involuntary conversion, the fair market value of the property) over the adjusted basis of such property.
+&emsp;&emsp;(B) the excess of the amount realized (or in the case of a disposition other than a sale, exchange, or involuntary conversion, the fair market value of the property) over the adjusted basis of such property.
 
 > &emsp;The amount determined under subparagraph (B) shall be reduced by the amount of any gain treated as ordinary income on the disposition under any other provision of this subtitle.
 
@@ -204,13 +204,13 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 #### Amendments
 
-2003—Subsec. (c)(5)(C). Pub. L. 108–27, §§302(e)(4)(B)(ii), 303, temporarily struck out “, 341(e)(12),” after “170(e)”. See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (c)(5)(C). Pub. L. 108–27, §§302(e)(4)(B)(ii), 303, temporarily struck out “, 341(e)(12),” after “170(e)”. See Effective and Termination Dates of 2003 Amendment note below.
 
-1988—Subsec. (c)(5)(C). Pub. L. 100–647, §1005(c)(10), made technical correction to directory language of Pub. L. 99–514, §511(d)(2)(A). See 1986 Amendment note below.
+<b>1988</b>—Subsec. (c)(5)(C). Pub. L. 100–647, §1005(c)(10), made technical correction to directory language of Pub. L. 99–514, §511(d)(2)(A). See 1986 Amendment note below.
 
 Subsec. (e)(3)(A). Pub. L. 100–647, §1002(i)(2)(H), at end of table inserted item relating to any railroad grading or tunnel bore.
 
-1986—Subsec. (b)(4)(A). Pub. L. 99–514, §1807(b)(2)(A), substituted “statutory recovery period” for “statutory recover period”.
+<b>1986</b>—Subsec. (b)(4)(A). Pub. L. 99–514, §1807(b)(2)(A), substituted “statutory recovery period” for “statutory recover period”.
 
 Subsec. (c)(4). Pub. L. 99–514, §1807(b)(2)(B), substituted “subsection (b)(4)(A)” for “subsection (b)(3)(A)”.
 
@@ -236,7 +236,7 @@ Subsec. (g). Pub. L. 99–514, §1807(b)(1), inserted at end “The preceding se
 
 Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as a note under section 1 of this title.
 
-Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
+Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -272,7 +272,7 @@ Exceptions.—The amendments made by this section shall not apply—
 
 &emsp;“(B) subject to the provisions of paragraph (3), to any agreement to lease property if—
 
-&emsp;&emsp;“(i) there was in effect a firm plan, evidenced by a board of directors’ resolution, memorandum ofagreement, or letter of intent on March 15, 1984, to enter into such an agreement, and
+&emsp;&emsp;“(i) there was in effect a firm plan, evidenced by a board of directors’ resolution, memorandum of agreement, or letter of intent on March 15, 1984, to enter into such an agreement, and
 
 &emsp;&emsp;“(ii) construction of the property was commenced (but such property was not placed in service) on or before March 15, 1984, and
 

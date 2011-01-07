@@ -32,17 +32,17 @@ Provisions similar to those in this section were contained in act Oct. 3, 1913, 
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–382 inserted “imported articles,” after “foreign-trade zone,”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–382 inserted “imported articles,” after “foreign-trade zone,”.
 
-1960—Subsec. (a). Pub. L. 86–606 inserted “, or between Hawaii and any other part of the United States or between Alaska and any other part of the United States” after “possessions” wherever appearing, and made the provisions for free withdrawals inapplicable to petroleum products for vessels or aircraft in voyages or flights between Hawaii or Alaska and any airport or Pacific coast seaport of the United States.
+<b>1960</b>—Subsec. (a). Pub. L. 86–606 inserted “, or between Hawaii and any other part of the United States or between Alaska and any other part of the United States” after “possessions” wherever appearing, and made the provisions for free withdrawals inapplicable to petroleum products for vessels or aircraft in voyages or flights between Hawaii or Alaska and any airport or Pacific coast seaport of the United States.
 
-1953—Subsec. (a). Act Aug. 8, 1953, extended the exemption from payment of duty and internal revenue tax theretofore available to supplies for certain vessels and aircraft withdrawn from bonded warehouses, bonded manufacturing warehouses, or continuous customs custody elsewhere to supplies withdrawn from foreign trade zones; accorded free entry for equipment withdrawn for foreign vessels; and enlarged the classes of vessels and aircraft theretofore covered to include all vessels and aircraft operated by the United States.
+<b>1953</b>—Subsec. (a). Act Aug. 8, 1953, extended the exemption from payment of duty and internal revenue tax theretofore available to supplies for certain vessels and aircraft withdrawn from bonded warehouses, bonded manufacturing warehouses, or continuous customs custody elsewhere to supplies withdrawn from foreigntrade zones; accorded free entry for equipment withdrawn for foreign vessels; and enlarged the classes of vessels and aircraft theretofore covered to include all vessels and aircraft operated by the United States.
 
 Subsec. (b). Act Aug. 8, 1953, made technical changes to conform with the changes made by such act in subsec. (a), including insertion of “or from a foreign-trade zone,”.
 
-1941—Subsec. (a). Act July 22, 1941, inserted “or from any internal-revenue bonded warehouse, from any brewery, or from any winery premises or bonded premises for the storage of wine, free of internal-revenue tax” after “internal-revenue tax”.
+<b>1941</b>—Subsec. (a). Act July 22, 1941, inserted “or from any internal-revenue bonded warehouse, from any brewery, or from any winery premises or bonded premises for the storage of wine, free of internal-revenue tax” after “internal-revenue tax”.
 
-1938—Act June 25, 1938, amended section generally, adding subsecs. (c) and (d).
+<b>1938</b>—Act June 25, 1938, amended section generally, adding subsecs. (c) and (d).
 
 #### Effective Date of 1990 Amendment
 

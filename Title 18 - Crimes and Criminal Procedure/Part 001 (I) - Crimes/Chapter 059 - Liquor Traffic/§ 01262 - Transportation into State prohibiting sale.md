@@ -34,9 +34,9 @@ This section \[section 32\] corrects a typographical error in section 1262 of ti
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in second par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in second par.
 
-1990—Pub. L. 101–647 substituted “State” for “state” in section catchline.
+<b>1990</b>—Pub. L. 101–647 substituted “State” for “state” in section catchline.
 
-1949—Act May 24, 1949, substituted “Districts” for “District” in last par.
+<b>1949</b>—Act May 24, 1949, substituted “Districts” for “District” in last par.
 

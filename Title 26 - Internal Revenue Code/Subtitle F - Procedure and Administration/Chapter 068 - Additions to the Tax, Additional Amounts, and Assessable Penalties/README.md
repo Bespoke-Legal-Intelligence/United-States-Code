@@ -15,7 +15,9 @@
 
 #### Amendments
 
-1998—Pub. L. 105–206, title III, §3306(b), July 22, 1998, 112 Stat. 744, added item for subchapter C.
+<b>1998</b>—Pub. L. 105–206, title III, §3306(b), July 22, 1998, 112 Stat. 744, added item for subchapter C.
+
+<i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
 
 
 ---

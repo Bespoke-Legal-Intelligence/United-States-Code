@@ -42,11 +42,11 @@ Each center assisted under this section may conduct programs—
 
 #### (f) Equitable geographical distribution; needs of elderly and children
 
-The Director of the Institute shall, to the extent practicable, provide for an equitable geographical distribution of centers assisted under this section. The Director shall give appropriate consideration to the need for centers especially suited to meeting the needs of the elderly, and of children (particularly with respect to their education and training), affected by disorders of hearing or other communication processes.
+The Director of the Institute shall, to the extent practicable, provide for an equitable geographical distribution of centers assisted under this section. The Director shall give appropriate consideration to the need for centers especially suited to meeting the needs of the elderly, andof children (particularly with respect to their education and training), affected by disorders of hearing or other communication processes.
 
 #### (g) Period of support; recommended extensions of peer review group
 
-Support of a center under this section may be for a period not to exceed seven years. Such period may be extended by the Director of the Institute for one or more additional periods of notmore than five years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director, with the advice of the Institute's advisory council, if such group has recommended to the Director that such period should be extended.
+Support of a center under this section may be for a period not to exceed seven years. Such period may be extended by the Director of the Institute for one or more additional periods of not more than five years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director, with the advice of the Institute's advisory council, if such group has recommended to the Director that such period should be extended.
 
 (July 1, 1944, ch. 373, title IV, §464C, as added Pub. L. 100–553, §2(4), Oct. 28, 1988, 102 Stat. 2771, and Pub. L. 100–607, title I, §101(4), Nov. 4, 1988, 102 Stat. 3050; amended Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238.)
 
@@ -56,7 +56,7 @@ Pub. L. 100–553 and Pub. L. 100–607 contained identical provisions enacting 
 
 #### Amendments
 
-1988—Pub. L. 100–690 amended this section to read as if the amendments made by Pub. L. 100–607, which enacted this section, had not been enacted. See Codification note above.
+<b>1988</b>—Pub. L. 100–690 amended this section to read as if the amendments made by Pub. L. 100–607, which enacted this section, had not been enacted. See Codification note above.
 
 #### Effective Date of 1988 Amendment
 

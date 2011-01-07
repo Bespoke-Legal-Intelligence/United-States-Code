@@ -6,7 +6,7 @@ The United States and the Republic of Panama, in accordance with the Panama Cana
 
 #### (b) Appointment; compensation and travel expenses
 
-Representatives of the United States on the Joint Commission shall be appointed by the President and shall serve at the pleasure of the President. Such representatives shall servewithout compensation but shall be allowed travel or transportation expenses, including per diem in lieu of subsistence, in accordance with section 3617 of this title.
+Representatives of the United States on the Joint Commission shall be appointed by the President and shall serve at the pleasure of the President. Such representatives shall serve without compensation but shall be allowed travel or transportation expenses, including per diem in lieu of subsistence, in accordance with section 3617 of this title.
 
 #### (c) Protection of pay, seniority, or other rights or benefits of appointed or detailed Federal employees
 
@@ -21,8 +21,4 @@ The United States representatives on the Joint Commission may, to such extent or
 The United States representatives on the Joint Commission may, in cooperation with the representatives of the Republic of Panama on the Joint Commission, establish rules of procedure to be used by the Joint Commission in conducting its affairs, subject to the approval of such rules by the Governments of the United States and the Republic of Panama.
 
 (Pub. L. 96–70, title I, §1106, Sept. 27, 1979, 93 Stat. 457.)
-
-#### References in Text
-
-The civil service laws, referred to in subsec. (c), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
 

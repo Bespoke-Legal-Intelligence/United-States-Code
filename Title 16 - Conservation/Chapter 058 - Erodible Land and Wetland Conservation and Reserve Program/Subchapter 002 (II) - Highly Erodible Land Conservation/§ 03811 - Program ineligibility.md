@@ -38,13 +38,13 @@ The Agricultural Market Transition Act, referred to in subsec. (a)(1)(A), is tit
 
 The Commodity Credit Corporation Charter Act, referred to in subsec. (a)(1)(A), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(1)(D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(1)(D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. For complete classification of thisAct to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
 #### Amendments
 
-2002—Pub. L. 107–171 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2002</b>—Pub. L. 107–171 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1996—Pub. L. 104–127, §311(1), struck out “following December 23, 1985,” before “any person who” in introductory provisions.
+<b>1996</b>—Pub. L. 104–127, §311(1), struck out “following December 23, 1985,” before “any person who” in introductory provisions.
 
 Par. (1)(A). Pub. L. 104–127, §311(2)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “any type of price support or payment made available under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.), the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), or any other Act;”.
 
@@ -70,11 +70,11 @@ Par. (3). Pub. L. 104–127, §311(3), added par. (3) and struck out former par.
 
 &emsp;“(F) a payment, loan or other assistance under section 1003 or section 1006a of this title.”
 
-1991—Par. (1)(D). Pub. L. 102–237, §204(1)(A), substituted “(7 U.S.C. 1421 note)” for “(16 U.S.C. 1421 note)”.
+<b>1991</b>—Par. (1)(D). Pub. L. 102–237, §204(1)(A), substituted “(7 U.S.C. 1421 note)” for “(16 U.S.C. 1421 note)”.
 
 Par. (3)(D), (E). Pub. L. 102–237, §204(1)(B), (C), made technical amendments to references to part II of subchapter IV of this chapter and part III of subchapter IV of this chapter, in subpars. (D) and (E), respectively, to clarify references in corresponding provisions of original Act.
 
-1990—Pub. L. 101–624, §1411(1), inserted “, or designates land on which highly erodible land is predominate to be set aside, diverted, devoted to conservation uses, or otherwise not cultivated under a program administered by the Secretary to reduce production of an agricultural commodity, as determined by the Secretary” after “is predominate” in first sentence.
+<b>1990</b>—Pub. L. 101–624, §1411(1), inserted “, or designates land on which highly erodible land is predominate to be set aside, diverted, devoted to conservation uses, or otherwise not cultivated under a program administered by the Secretary to reduce production of an agricultural commodity, as determined by the Secretary” after “is predominate” in first sentence.
 
 Par. (1)(D). Pub. L. 101–624, §1411(2), inserted reference to section 132 of the Disaster Assistance Act of 1989 and similar provisions enacted after Aug. 14, 1989.
 

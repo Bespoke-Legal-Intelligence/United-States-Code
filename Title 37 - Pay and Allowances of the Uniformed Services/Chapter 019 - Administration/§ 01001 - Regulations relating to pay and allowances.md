@@ -38,17 +38,17 @@ In subsection (c), the words “or departments” are omitted, since, under sect
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-1991—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
-1980—Subsec. (b). Pub. L. 96–513, §516(22)(A), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513, §516(22)(A), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
 Subsec. (c). Pub. L. 96–513, §516(22)(B), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
-1968—Subsec. (c). Pub. L. 90–623 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+<b>1968</b>—Subsec. (c). Pub. L. 90–623 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
-1966—Subsec. (b). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”, and inserted “and allowances” between “pay” and “matters”.
+<b>1966</b>—Subsec. (b). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”, and inserted “and allowances” between “pay” and “matters”.
 
 #### Effective Date of 2002 Amendment
 

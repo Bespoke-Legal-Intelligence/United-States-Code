@@ -44,7 +44,7 @@ Additional Requirements.—The regulations shall also—
 
 &emsp;&emsp;(B) to enter into a firm, fixed-price contract or, if agreed by the buyer, a cost reimbursement contract for the sale; and
 
-&emsp;&emsp;(C) to develop and maintain (from sources other than appropriated funds) working capital to be available for paying design costs, planning costs, procurement costs, and othercosts associated with the commercial articles or commercial services sold.
+&emsp;&emsp;(C) to develop and maintain (from sources other than appropriated funds) working capital to be available for paying design costs, planning costs, procurement costs, and other costs associated with the commercial articles or commercial services sold.
 
 (c)
 
@@ -74,7 +74,7 @@ Definitions.—In this section:
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–337 struck out “nondefense-related commercial” after “sell manufactured” in introductory provisions and added pars. (5) to (9).
+<b>1994</b>—Subsec. (a). Pub. L. 103–337 struck out “nondefense-related commercial” after “sell manufactured” in introductory provisions and added pars. (5) to (9).
 
 #### Regulations
 
@@ -114,7 +114,7 @@ Review by Inspector General.—The Inspector General of the Department of Defens
 
 &emsp;“(4) Specific examples under the pilot program that support the Inspector General's views.
 
-&emsp;“(5) Any other information that the Inspector General considers pertinent regarding the effects of the waiver of section 4543(a)(5) of title 10, United States Code, under the pilot program on opportunities for United States manufacturers, assemblers, developers,or other concerns, and for Army industrial facilities, to enter into or participate in contracts and teaming arrangements under weapon system programs of the Department of Defense.
+&emsp;“(5) Any other information that the Inspector General considers pertinent regarding the effects of the waiver of section 4543(a)(5) of title 10, United States Code, under the pilot program on opportunities for United States manufacturers, assemblers, developers, or other concerns, and for Army industrial facilities, to enter into or participate in contracts and teaming arrangements under weapon system programs of the Department of Defense.
 
 &emsp;“(6) Any recommendations that the Inspector General considers appropriate regarding continuation or modification of the policy set forth in section 4543(a)(5) of title 10, United States Code.”
 

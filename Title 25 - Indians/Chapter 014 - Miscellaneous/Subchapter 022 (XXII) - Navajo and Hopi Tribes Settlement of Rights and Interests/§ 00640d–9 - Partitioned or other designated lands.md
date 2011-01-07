@@ -20,7 +20,7 @@ With respect to any individual subject to relocation, the Secretary shall take s
 
 (1) <sup>1</sup> Lands partitioned pursuant to this subchapter, whether or not the partition order is subject to appeal, shall be subject to the jurisdiction of the tribe to whom partitioned and the laws of such tribe shall apply to such partitioned lands under the following schedule:
 
-&emsp;(A) Effective ninety days after July 8, 1980, all conservation practices, including grazing control and range restoration activities, shall be coordinated and executed with the concurrence of the tribe to whom the particular lands in question have been partitioned, and all such grazing and range restoration matterson the Navajo Reservation lands shall be administered by the Bureau of Indian Affairs Navajo Area Office and on the Hopi Reservation lands by the Bureau of Indian Affairs Phoenix Area Office, under applicable laws and regulations.
+&emsp;(A) Effective ninety days after July 8, 1980, all conservation practices, including grazing control and range restoration activities, shall be coordinated and executed with the concurrence of the tribe to whom the particular lands in question have been partitioned, and all such grazing and range restoration matters on the Navajo Reservation lands shall be administered by the Bureau of Indian Affairs Navajo Area Office and on the Hopi Reservation lands by the Bureau of Indian Affairs Phoenix Area Office, under applicable laws and regulations.
 
 &emsp;(B) Notwithstanding any provision of law to the contrary, each tribe shall have such jurisdiction and authority over any lands partitioned to it and all persons located thereon, not in conflict with the laws and regulations referred to in paragraph (A) above, to the same extent as is applicable to those other portions of its reservation. Such jurisdiction and authority over partitioned lands shall become effective April 18, 1981.
 
@@ -34,11 +34,11 @@ Act of June 14, 1934, referred to in subsec. (a), is act June 14, 1934, ch. 521,
 
 #### Amendments
 
-2009—Subsec. (f). Pub. L. 111–18 struck out subsec. (f), which related to development of lands in litigation.
+<b>2009</b>—Subsec. (f). Pub. L. 111–18 struck out subsec. (f), which related to development of lands in litigation.
 
-1988—Subsec. (f). Pub. L. 100–666 designated existing provisions as par. (1) and added pars. (2) and (3).
+<b>1988</b>—Subsec. (f). Pub. L. 100–666 designated existing provisions as par. (1) and added pars. (2) and (3).
 
-1980—Subsecs. (c) to (f). Pub. L. 96–305 added subsecs. (c) to (f).
+<b>1980</b>—Subsecs. (c) to (f). Pub. L. 96–305 added subsecs. (c) to (f).
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

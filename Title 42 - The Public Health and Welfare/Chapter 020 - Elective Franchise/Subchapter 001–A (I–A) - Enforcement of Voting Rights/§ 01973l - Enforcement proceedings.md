@@ -18,7 +18,7 @@ No court other than the District Court for the District of Columbia shall have j
 
 #### (d) Subpenas
 
-In any action for a declaratory judgment brought pursuant to section 1973b or 1973c of this title, subpenas for witnesses who are required to attend the District Court for the District of Columbia may be served in any judicial district of the United States: <i>Provided</i>, That no writ of subpena shall issue for witnesses without the District of Columbia at a greater distance than one hundred miles from the place of holding courtwithout the permission of the District Court for the District of Columbia being first had upon proper application and cause shown.
+In any action for a declaratory judgment brought pursuant to section 1973b or 1973c of this title, subpenas for witnesses who are required to attend the District Court for the District of Columbia may be served in any judicial district of the United States: <i>Provided</i>, That no writ of subpena shall issue for witnesses without the District of Columbia at a greater distance than one hundred miles from the place of holding court without the permission of the District Court for the District of Columbia being first had upon proper application and cause shown.
 
 #### (e) Attorney's fees
 
@@ -28,11 +28,11 @@ In any action or proceeding to enforce the voting guarantees of the fourteenth o
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–246, §3(e)(3), struck out “or a court of appeals in any proceeding under section 1973g of this title” after “District of Columbia”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–246, §3(e)(3), struck out “or a court of appeals in any proceeding under section 1973g of this title” after “District of Columbia”.
 
 Subsec. (e). Pub. L. 109–246, §6, inserted “, reasonable expert fees, and other reasonable litigation expenses” after “reasonable attorney's fee”.
 
-1975—Subsec. (c)(3). Pub. L. 94–73, §207, added par. (3).
+<b>1975</b>—Subsec. (c)(3). Pub. L. 94–73, §207, added par. (3).
 
 Subsec. (e). Pub. L. 94–73, §402, added subsec. (e).
 

@@ -1,6 +1,6 @@
 ### §1003. Additional definitions
 
-In this chapter:
+In this chapter and part C of subchapter I of chapter 34 of title 42:
 
 #### (1) Authorizing committees
 
@@ -30,7 +30,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(i) the Secretary pursuant to subpart 2 of part G of subchapter IV of this chapter; or
 
-&emsp;&emsp;&emsp;(ii) a Federal agency, State government, or other organization or association thatrecognizes accrediting agencies or associations.
+&emsp;&emsp;&emsp;(ii) a Federal agency, State government, or other organization or association that recognizes accrediting agencies or associations.
 
 #### (6) Disability
 
@@ -134,7 +134,7 @@ In this chapter:
 
 #### (A) State
 
-&emsp;&emsp;The term “State” includes, in addition to the several States of the United States, the Commonwealth of Puerto Rico, the Districtof Columbia, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, and the Freely Associated States.
+&emsp;&emsp;The term “State” includes, in addition to the several States of the United States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, and the Freely Associated States.
 
 #### (B) Freely Associated States
 
@@ -156,11 +156,9 @@ In this chapter:
 
 &emsp;&emsp;(B) reduces barriers in instruction, provides appropriate accommodations, supports, and challenges, and maintains high achievement expectations for all students, including students with disabilities and students who are limited English proficient.
 
-(Pub. L. 89–329, title I, §103, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1589; amended Pub. L. 107–110, title X, §1076(g), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 110–315, title I, §103(a), Aug. 14, 2008, 122 Stat. 3086.)
+(Pub. L. 89–329, title I, §103, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1589;amended Pub. L. 107–110, title X, §1076(g), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 110–315, title I, §103(a), Aug. 14, 2008, 122 Stat. 3086.)
 
 #### References in Text
-
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 Section 212(d) of the Education for Economic Security Act, referred to in par. (3), is section 212(d) of title II of Pub. L. 98–377, Aug. 11, 1984, 98 Stat. 1282, which was classified to section 3972(d) of this title, prior to repeal by Pub. L. 100–297, title II, §2303, Apr. 28, 1988, 102 Stat. 324.
 
@@ -216,13 +214,15 @@ Section 1010, Pub. L. 89–329, title I, §113, formerly §110, Nov. 8, 1965, 79
 
 #### Amendments
 
-2008—Pub. L. 110–315, §103(a)(2), reordered pars. in alphabetical order based on headings of pars. and renumbered pars. as so reordered, resulting in pars. (1) to (22) being redesignated as (2), (4), (6), (9) to (13), (15) to (20), (22), (21), (1), (3), (7), (5), (8), and (14), respectively.
+<b>2008</b>—Pub. L. 110–315, §103(a)(2), reordered pars. in alphabetical order based on headings of pars. and renumbered pars. as so reordered, resulting in pars. (1) to (22) being redesignated as (2), (4), (6), (9) to (13), (15) to (20), (22), (21), (1), (3), (7), (5), (8), and (14), respectively.
 
 Pars. (17) to (24). Pub. L. 110–315, §103(a)(1), added pars. (17) to (24).
 
-2002—Pars. (4) to (6), (10), (14). Pub. L. 107–110 substituted “7801” for “8801”.
+<b>2002</b>—Pars. (4) to (6), (10), (14). Pub. L. 107–110 substituted “7801” for “8801”.
 
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

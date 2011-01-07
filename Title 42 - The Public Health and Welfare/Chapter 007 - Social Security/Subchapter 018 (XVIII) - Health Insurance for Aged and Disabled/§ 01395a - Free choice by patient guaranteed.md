@@ -98,9 +98,9 @@ Parts A and B of this subchapter, referred to in subsec. (b)(5)(A), are classifi
 
 #### Amendments
 
-2003—Subsec. (b)(5)(B). Pub. L. 108–173 substituted “paragraphs (1), (2), (3), and (4) of section 1395x(r)” for “section 1395x(r)(1)”.
+<b>2003</b>—Subsec. (b)(5)(B). Pub. L. 108–173 substituted “paragraphs (1), (2), (3), and (4) of section 1395x(r)” for “section 1395x(r)(1)”.
 
-1997—Pub. L. 105–33 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>1997</b>—Pub. L. 105–33 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Effective Date of 1997 Amendment
 

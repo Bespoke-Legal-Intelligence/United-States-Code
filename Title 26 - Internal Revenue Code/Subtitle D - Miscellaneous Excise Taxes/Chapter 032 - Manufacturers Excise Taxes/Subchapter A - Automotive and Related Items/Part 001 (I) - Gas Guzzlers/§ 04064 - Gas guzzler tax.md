@@ -9,7 +9,7 @@ There is hereby imposed on the sale by the manufacturer of each automobile a tax
 | <b>If the fuel economy of the model type</b> in which the automobile falls is: | <b>The tax is:</b> |
 | :--- | ---: |
 | At least 22.5 | $0&nbsp;&nbsp; |
-| At least 21.5 but less than 22.5 | 1,000&nbsp;&nbsp; |
+| At least 21.5 but less than 22.5 | 1,000   |
 | At least 20.5 but less than 21.5 | 1,300&nbsp;&nbsp; |
 | At least 19.5 but less than 20.5 | 1,700&nbsp;&nbsp; |
 | At least 18.5 but less than 19.5 | 2,100&nbsp;&nbsp; |
@@ -31,7 +31,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “automobile” means any 4-wheeled vehicle propelled by fuel—
 
-&emsp;&emsp;&emsp;(i) which is manufactured primarily for use on public streets, roads, and highways\(except any vehicle operated exclusively on a rail or rails), and
+&emsp;&emsp;&emsp;(i) which is manufactured primarily for use on public streets, roads, and highways (except any vehicle operated exclusively on a rail or rails), and
 
 &emsp;&emsp;&emsp;(ii) which is rated at 6,000 pounds unloaded gross vehicle weight or less.
 
@@ -105,11 +105,11 @@ Section 206 of the Clean Air Act, referred to in subsec. (c)(1), is section 206 
 
 #### Amendments
 
-2005—Subsec. (b)(1)(A). Pub. L. 109–59 struck out concluding provisions which read as follows: “In the case of a limousine, the preceding sentence shall be applied without regard to clause (ii).”
+<b>2005</b>—Subsec. (b)(1)(A). Pub. L. 109–59 struck out concluding provisions which read as follows: “In the caseof a limousine, the preceding sentence shall be applied without regard to clause (ii).”
 
-1994—Subsec. (b)(1)(B). Pub. L. 103–272 substituted “section 32901 of title 49, United States Code,” for “section 501 of the Motor Vehicle Information and Cost Savings Act (15 U.S.C. 2001)”.
+<b>1994</b>—Subsec. (b)(1)(B). Pub. L. 103–272 substituted “section 32901 of title 49, United States Code,” for “section 501 of the Motor Vehicle Information and Cost Savings Act (15 U.S.C. 2001)”.
 
-1990—Subsec. (a). Pub. L. 101–508, §11216(a), amended subsec. (a) generally, substituting present provisions for provisions which set forth gas guzzler tax tables in the case of automobiles built in each of the model years 1980 through 1986 and later.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §11216(a), amended subsec. (a) generally, substituting present provisions for provisions which set forth gas guzzler tax tables in the case of automobiles built in each of the model years 1980 through 1986 and later.
 
 Subsec. (b)(1)(A). Pub. L. 101–508, §11216(b), inserted at end “In the case of a limousine, the preceding sentence shall be applied without regard to clause (ii).”
 
@@ -121,7 +121,7 @@ Subsec. (b)(5)(B). Pub. L. 101–508, §11216(c), substituted heading for one wh
 
 Subsec. (d). Pub. L. 101–508, §11216(d), struck out subsec. (d) which prescribed special rules for small manufacturers.
 
-1986—Subsec. (b)(1)(A)(ii). Pub. L. 99–514, §1812(e)(1)(B)(i), substituted “unloaded gross vehicle weight” for “gross vehicle weight”.
+<b>1986</b>—Subsec. (b)(1)(A)(ii). Pub. L. 99–514, §1812(e)(1)(B)(i), substituted “unloaded gross vehicle weight” for “gross vehicle weight”.
 
 Subsec. (b)(5). Pub. L. 99–514, §1812(e)(1)(B)(ii), amended par. (5) generally, designating existing provisions as subpar. (A), adding subpar. (A) heading, and adding subpar. (B).
 

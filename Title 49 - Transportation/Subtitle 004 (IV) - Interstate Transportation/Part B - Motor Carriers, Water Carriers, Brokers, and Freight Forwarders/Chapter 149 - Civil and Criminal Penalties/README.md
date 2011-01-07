@@ -22,7 +22,7 @@
 
 #### Amendments
 
-2005—Pub. L. 109–59, title IV, §4210(b), Aug. 10, 2005, 119 Stat. 1759, added item 14915.
+<b>2005</b>—Pub. L. 109–59, title IV, §4210(b), Aug. 10, 2005, 119 Stat. 1759, added item 14915.
 
 
 ---

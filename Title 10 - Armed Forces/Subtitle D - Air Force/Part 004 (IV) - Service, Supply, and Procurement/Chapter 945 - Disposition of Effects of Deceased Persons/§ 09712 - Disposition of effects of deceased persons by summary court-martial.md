@@ -78,7 +78,7 @@ In subsection (a), the words “the court-martial jurisdiction of the Air Force 
 
 In subsections (a), (b), and (c), the words “surviving spouse” are substituted for the word “widow”.
 
-In subsection (c), the word “may” is substituted for the words “shall have authority to”. The words “to the extent permitted” are substituted for the words “in so far as will permit”. The words “under this article” and “upon its transactions” are omitted as surplusage.
+In subsection (c), the word “may” is substituted for the words “shall have authority to”. The words “to the extent permitted” are substituted for the words “in so far as \* \* \* will permit”. The words “under this article” and “upon its transactions” are omitted as surplusage.
 
 In subsection (d), the words “through the Quartermaster Corps” are omitted, since the Air Force does not have organic corps created by statute. The words “if such be found by said court” are omitted as surplusage. The words “United States” are substituted for the word “Government”. 5:150j (19 words before 3d semicolon of 1st par.) is omitted as covered by subsection (g).
 
@@ -88,13 +88,13 @@ In subsection (f), the words “Soldiers’ Home” are inserted, since, as prov
 
 #### Amendments
 
-1996—Subsec. (g). Pub. L. 104–316 struck out subsec. (g) which read as follows: “The summary court-martial shall make a full report of the transactions under this section, with respect to the deceased, to the Department of the Air Force for transmission to the General Accounting Office for action authorized in the settlement of accounts of deceased members of the Air Force.”
+<b>1996</b>—Subsec. (g). Pub. L. 104–316 struck out subsec. (g) which read as follows: “The summary court-martial shall make a full report of the transactions under this section, with respect to the deceased, to the Department of the Air Force for transmission to the General Accounting Office for action authorized in the settlement of accounts of deceased members of the Air Force.”
 
-1990—Subsec. (a)(2). Pub. L. 101–510, §1533(a)(9)(A), substituted “a resident of the Armed Forces Retirement Home” for “an inmate of the United States Soldiers’ and Airmen's Home”.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–510, §1533(a)(9)(A), substituted “a resident of the Armed Forces Retirement Home” for “an inmate of the United States Soldiers’ and Airmen's Home”.
 
 Subsec. (f). Pub. L. 101–510, §1533(a)(9)(B), struck out “for transmission to the United States Soldiers’ and Airmen's Home” after “Department of the Air Force” and inserted at end “The Secretary of the Air Force shall deliver to the Armed Forces Retirement Home all items received by the executive part of the Department of the Air Force under this subsection.”
 
-1985—Subsec. (d). Pub. L. 99–145 substituted pars. (1) to (6) for former pars. (1) to (9) which read as follows:
+<b>1985</b>—Subsec. (d). Pub. L. 99–145 substituted pars. (1) to (6) for former pars. (1) to (9) which read as follows:
 
 “(1) Surviving spouse or legal representative.
 
@@ -114,9 +114,9 @@ Subsec. (f). Pub. L. 101–510, §1533(a)(9)(B), struck out “for transmission 
 
 “(9) Beneficiary named in the will of the deceased.”
 
-1980—Subsecs. (a)(2), (f). Pub. L. 96–513 substituted “United States Soldiers’ and Airmen's Home” for “Soldiers’ Home”.
+<b>1980</b>—Subsecs. (a)(2), (f). Pub. L. 96–513 substituted “United States Soldiers’ and Airmen's Home” for “Soldiers’ Home”.
 
-1966—Subsec. (a)(1). Pub. L. 89–718 substituted “military law” for “the court-martial jurisdiction of the Air Force or the Army”.
+<b>1966</b>—Subsec. (a)(1). Pub. L. 89–718 substituted “military law” for “the court-martial jurisdiction of the Air Force or the Army”.
 
 #### Effective Date of 1990 Amendment
 

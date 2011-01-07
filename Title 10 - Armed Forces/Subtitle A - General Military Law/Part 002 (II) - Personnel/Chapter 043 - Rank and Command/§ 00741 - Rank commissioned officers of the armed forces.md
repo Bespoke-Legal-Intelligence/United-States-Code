@@ -113,25 +113,25 @@ In subsection (c), the words “A commissioned officer of the Army or the Air Fo
 
 #### Amendments
 
-2001—Subsec. (d)(4). Pub. L. 107–107 added par. (4).
+<b>2001</b>—Subsec. (d)(4). Pub. L. 107–107 added par. (4).
 
-1996—Subsec. (d)(3). Pub. L. 104–106 made technical correction to directory language of Pub. L. 103–337, §1626(1). See 1994 Amendment note below.
+<b>1996</b>—Subsec. (d)(3). Pub. L. 104–106 made technical correction to directory language of Pub. L. 103–337, §1626(1). See 1994 Amendment note below.
 
-1994—Subsec. (d)(3). Pub. L. 103–337, §1626(3), inserted at end “The authority to change the date of rank of a reserve officer who is placed on the active-duty list to a later date does not apply in the case of an officer who (A) has served continuously in the Selected Reserve of the Ready Reserve since the officer's last promotion, or (B) is placed on the active-duty list while on a promotion list as described in section 14317(b) of this title.”
+<b>1994</b>—Subsec. (d)(3). Pub. L. 103–337, §1626(3), inserted at end “The authority to change the date of rank of a reserve officer who is placed on the active-duty list to a later date does not apply in the case of an officer who (A) has served continuously in the Selected Reserve of the Ready Reserve since the officer's last promotion, or (B) is placed on the active-duty list while on a promotion list as described in section 14317(b) of this title.”
 
 Pub. L. 103–337, §1626(2), inserted “or reserve active-status list” after “he is placed on the active-duty list”.
 
 Pub. L. 103–337, §1626(1), as amended by Pub. L. 104–106, inserted “or who is transferred from an inactive status to an active status and placed on the active-duty list or the reserve active-status list may, effective on the date on which he is placed on the active-duty list” after “warrant officer, W–5,”.
 
-1991—Subsec. (d)(3). Pub. L. 102–190 substituted “chief warrant officer, W–5,” for “warrant officer (W–4)”.
+<b>1991</b>—Subsec. (d)(3). Pub. L. 102–190 substituted “chief warrant officer, W–5,” for “warrant officer (W–4)”.
 
-1985—Subsec. (a). Pub. L. 99–145 substituted “Rear admiral (lower half)” for “Commodore” in table.
+<b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted “Rear admiral (lower half)” for “Commodore” in table.
 
-1984—Subsec. (a). Pub. L. 98–557 struck out “(Navy) and Rear admiral (upper half) (Coast Guard)” after “Rear admiral” and “(Navy) and Rear admiral (lower half) (Coast Guard)” after “Commodore” in table.
+<b>1984</b>—Subsec. (a). Pub. L. 98–557 struck out “(Navy) and Rear admiral (upper half) (Coast Guard)” after “Rear admiral” and “(Navy) and Rear admiral (lower half) (Coast Guard)” after “Commodore” in table.
 
-1982—Subsec. (c). Pub. L. 97–295 substituted “the” for “the the” after “uniformly among”.
+<b>1982</b>—Subsec. (c). Pub. L. 97–295 substituted “the” for “the the” after “uniformly among”.
 
-1981—Pub. L. 97–22, §4(h)(4), substituted “armed forces” for “Army, Navy, Air Force, and Marine Corps” in section catchline.
+<b>1981</b>—Pub. L. 97–22, §4(h)(4), substituted “armed forces” for “Army, Navy, Air Force, and Marine Corps” in section catchline.
 
 Subsec. (a). Pub. L. 97–86 substituted “Commodore” for “Commodore admiral” in right column of table opposite Brigadier general.
 
@@ -143,7 +143,7 @@ Subsec. (d)(1). Pub. L. 97–22, §4(h)(3)(A), inserted “of the Army, Navy, Ai
 
 Subsec. (d)(3). Pub. L. 97–22, §4(h)(3)(B), inserted “of the Army, Navy, Air Force, or Marine Corps” after “(other than a warrant officer)”.
 
-1980—Pub. L. 96–513 completely revised section to restructure and redefine various ranks of commissioned officers of the Army, Air Force, Marine Corps, and Navy and relationships of officers in those ranks among themselves.
+<b>1980</b>—Pub. L. 96–513 completely revised section to restructure and redefine various ranks of commissioned officers of the Army, Air Force, Marine Corps, and Navy and relationships of officers in those ranks among themselves.
 
 #### Effective Date of 2001 Amendment
 

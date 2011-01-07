@@ -152,21 +152,21 @@ Another section 1131(b) of Pub. L. 105–34 enacted section 684 of this title.
 
 #### Amendments
 
-2004—Subsec. (d)(2)(C). Pub. L. 108–357 inserted at end “For purposes of applying section 904(d), any such amount shall be treated in the same manner as if such amount were a royalty.”
+<b>2004</b>—Subsec. (d)(2)(C). Pub. L. 108–357 inserted at end “For purposes of applying section 904(d), any such amount shall be treated in the same manner as if such amount were a royalty.”
 
-1999—Subsec. (a)(3)(B)(i). Pub. L. 106–170 substituted “section 1221(a)” for “section 1221”.
+<b>1999</b>—Subsec. (a)(3)(B)(i). Pub. L. 106–170 substituted “section 1221(a)” for “section 1221”.
 
-1997—Subsec. (d)(2)(C). Pub. L. 105–34, §1131(b)(4), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “For purposes of this chapter, any amount included in gross income by reason of this subsection shall be treated as ordinary income from sources within the United States.”
+<b>1997</b>—Subsec. (d)(2)(C). Pub. L. 105–34, §1131(b)(4), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “For purposes of this chapter, any amount included in gross income by reason of this subsection shall be treated as ordinary income from sources within the United States.”
 
 Subsec. (d)(3). Pub. L. 105–34, §1131(b)(5)(A), added par. (3).
 
 Subsec. (f). Pub. L. 105–34, §1131(b)(2), added subsec. (f).
 
-1990—Subsec. (a)(5). Pub. L. 101–508 substituted “subsection (a) or (b) of section 361” for “section 361”.
+<b>1990</b>—Subsec. (a)(5). Pub. L. 101–508 substituted “subsection (a) or (b) of section 361” for “section 361”.
 
-1988—Subsec. (a)(5), (6). Pub. L. 100–647 added par. (5) and redesignated former par. (5) as (6).
+<b>1988</b>—Subsec. (a)(5), (6). Pub. L. 100–647 added par. (5) and redesignated former par. (5) as (6).
 
-1986—Subsec. (a)(1). Pub. L. 99–514, §1810(g)(4)(A), struck out “355,” after “354,”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1810(g)(4)(A), struck out “355,” after “354,”.
 
 Subsec. (d)(2)(A). Pub. L. 99–514, §1231(e)(2), inserted at end “The amounts taken into account under clause (ii) shall be commensurate with the income attributable to the intangible.”
 
@@ -176,17 +176,17 @@ Subsec. (f). Pub. L. 99–514, §1810(g)(1), struck out subsec. (f) which relate
 
 Pub. L. 99–514, §1810(g)(4)(B), in heading substituted “distributions described in section 336 or 355” for “liquidations under section 336”, and in text inserted “or 355 (or so much of section 356 as relates to section 355)”.
 
-1984—Subsec. (a). Pub. L. 98–369, §131(a), amended subsec. (a) generally, revising provisions of pars. (1) and (2), and adding pars. (3) to (5).
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §131(a), amended subsec. (a) generally, revising provisions of pars. (1) and (2), and adding pars. (3) to (5).
 
 Subsec. (d). Pub. L. 98–369, §131(b), amended subsec. (d) generally, substituting provision providing special rules relating to transfers of intangibles for provision providing special rules relating to transfers of intangibles by possession corporation.
 
 Subsecs. (e), (f). Pub. L. 98–369, §131(c), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1982—Subsecs. (d), (e). Pub. L. 97–248 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1982</b>—Subsecs. (d), (e). Pub. L. 97–248 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1976—Pub. L. 94–455, among other changes, inserted provisions permitting nonrecognition of gain if a request for a ruling that tax avoidance is not present is filed within 183 days after beginning of an exchange, relating to an organization, reorganization, and liquidation of a foreign corporation, in the case of outbound transfers, however, for all other transfers, regulations are to provide the extent that earnings are to be taken into account as dividends and provisions relating to Tax Court review of the tax avoidance rulings.
+<b>1976</b>—Pub. L. 94–455, among other changes, inserted provisions permitting nonrecognition of gain if a request for a ruling that tax avoidance is not present is filed within 183 days after beginning of an exchange, relating to an organization, reorganization, and liquidation of a foreign corporation, in the case of outbound transfers, however, for all other transfers, regulations are to provide the extent that earnings are to be taken into account as dividends and provisions relating to Tax Court review of the tax avoidance rulings.
 
-1971—Subsec. (a). Pub. L. 91–681 designated existing provisions as subsec. (a), and, as so designated, inserted provisions relating to instances of an exchange, described in subsec. (b). Provisions relating to distributions described in section 355 (or so much of section 356 as relates to section 355) were stricken and were transferred to subsec. (c).
+<b>1971</b>—Subsec. (a). Pub. L. 91–681 designated existing provisions as subsec. (a), and, as so designated, inserted provisions relating to instances of an exchange, described in subsec. (b). Provisions relating to distributions described in section 355 (or so much of section 356 as relates to section 355) were stricken and were transferred to subsec. (c).
 
 Subsec. (b). Pub. L. 91–681 added subsec. (b).
 

@@ -16,7 +16,7 @@ The purposes of this subchapter are—
 
 #### Amendments
 
-1998—Pars. (4), (5). Pub. L. 105–277 substituted “Marsh-Billings-Rockefeller” for “Marsh-Billings”.
+<b>1998</b>—Pars. (4), (5). Pub. L. 105–277 substituted “Marsh-Billings-Rockefeller” for “Marsh-Billings”.
 
 #### Short Title
 

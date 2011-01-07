@@ -1,7 +1,5 @@
 Part XI—Support for Economic and Democratic Development of the Independent States of the Former Soviet Union
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
-
 
 ---
 

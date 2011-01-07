@@ -28,15 +28,15 @@
 
 #### Amendments
 
-1998—Subsec. (a)(4)(C). Pub. L. 105–314 added subpar. (C) and struck out former subpar. (C) which read as follows: “any felony under chapter 109A or chapter 110; and”.
+<b>1998</b>—Subsec. (a)(4)(C). Pub. L. 105–314 added subpar. (C) and struck out former subpar. (C) which read as follows: “any felony under chapter 109A or chapter 110; and”.
 
-1996—Subsec. (a)(5). Pub. L. 104–294 added par. (5).
+<b>1996</b>—Subsec. (a)(5). Pub. L. 104–294 added par. (5).
 
-1994—Subsec. (a)(4)(C). Pub. L. 103–322 added subpar. (C).
+<b>1994</b>—Subsec. (a)(4)(C). Pub. L. 103–322 added subpar. (C).
 
-1986—Subsec. (a). Pub. L. 99–646 substituted “the term” for “The term” in pars. (1) to (4) and struck out “and” after “Congress;” in par. (2).
+<b>1986</b>—Subsec. (a). Pub. L. 99–646 substituted “the term” for “The term” in pars. (1) to (4) and struck out “and” after “Congress;” in par. (2).
 
-1984—Subsec. (a). Pub. L. 98–473, §203(c)(1), substituted “3141” for “3146” in provision preceding par. (1).
+<b>1984</b>—Subsec. (a). Pub. L. 98–473, §203(c)(1), substituted “3141” for “3146” in provision preceding par. (1).
 
 Subsec. (a)(1). Pub. L. 98–473, §203(c)(2), substituted “to detain or release” for “to bail or otherwise release” and struck out “and” after “District of Columbia;”.
 

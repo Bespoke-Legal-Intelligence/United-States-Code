@@ -70,23 +70,23 @@
 
 #### Amendments
 
-2006—Pub. L. 109–163, div. A, title V, §552(a)(2), Jan. 6, 2006, 119 Stat. 3262, substituted “Rape, sexual assault, and other sexual misconduct” for “Rape and carnal knowledge” in item 920.
+<b>2006</b>—Pub. L. 109–163, div. A, title V, §552(a)(2), Jan. 6, 2006, 119 Stat. 3262, substituted “Rape, sexual assault, and other sexual misconduct” for “Rape and carnal knowledge” in item 920.
 
 Pub. L. 109–163, div. A, title V, §551(a)(2), Jan. 6, 2006, 119 Stat. 3256, added item 920a.
 
-2004—Pub. L. 108–212, §3(b), Apr. 1, 2004, 118 Stat. 570, added item 919a.
+<b>2004</b>—Pub. L. 108–212, §3(b), Apr. 1, 2004, 118 Stat. 570, added item 919a.
 
-1997—Pub. L. 105–85, div. A, title X, §1073(a)(10), Nov. 18, 1997, 111 Stat. 1900, struck out “Art.” before “95” in item 895.
+<b>1997</b>—Pub. L. 105–85, div. A, title X, §1073(a)(10), Nov. 18, 1997, 111 Stat. 1900, struck out “Art.” before “95” in item 895.
 
-1996—Pub. L. 104–106, div. A, title XI, §1112(b), Feb. 10, 1996, 110 Stat. 461, inserted “flight,” after “Resistance,” in item 895.
+<b>1996</b>—Pub. L. 104–106, div. A, title XI, §1112(b), Feb. 10, 1996, 110 Stat. 461, inserted “flight,” after “Resistance,” in item 895.
 
-1992—Pub. L. 102–484, div. A, title X, §1066(a)(2), Oct. 23, 1992, 106 Stat. 2506, substituted “operation of a vehicle, aircraft, or vessel” for “driving” in item 911.
+<b>1992</b>—Pub. L. 102–484, div. A, title X, §1066(a)(2), Oct. 23, 1992, 106 Stat. 2506, substituted “operation of a vehicle, aircraft, or vessel” for “driving” in item 911.
 
-1985—Pub. L. 99–145, title V, §534(b), Nov. 8, 1985, 99 Stat. 635, added item 906a.
+<b>1985</b>—Pub. L. 99–145, title V, §534(b), Nov. 8, 1985, 99 Stat. 635, added item 906a.
 
-1983—Pub. L. 98–209, §8(b), Dec. 6, 1983, 97 Stat. 1404, added item 912a.
+<b>1983</b>—Pub. L. 98–209, §8(b), Dec. 6, 1983, 97 Stat. 1404, added item 912a.
 
-1961—Pub. L. 87–385, §1(2), Oct. 4, 1961, 75 Stat. 814, added item 923a.
+<b>1961</b>—Pub. L. 87–385, §1(2), Oct. 4, 1961, 75 Stat. 814, added item 923a.
 
 
 ---

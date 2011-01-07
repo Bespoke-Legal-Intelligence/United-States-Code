@@ -20,5 +20,5 @@ July 9, 1952, ch. 608, §501, 66 Stat. 500.
 
 #### Amendments
 
-2006—Pub. L. 109–163 substituted “States, the District of Columbia, Guam, and the Virgin Islands” for “States, the Territories, and the District of Columbia”.
+<b>2006</b>—Pub. L. 109–163 substituted “States, the District of Columbia, Guam, and the Virgin Islands” for “States, the Territories, and the District of Columbia”.
 

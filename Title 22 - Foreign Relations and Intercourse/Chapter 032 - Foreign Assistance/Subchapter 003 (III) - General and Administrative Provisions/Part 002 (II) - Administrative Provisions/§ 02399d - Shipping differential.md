@@ -14,5 +14,5 @@ In text, “section 55305 of title 46” substituted for “section 901(b) of th
 
 #### Amendments
 
-1980—Pub. L. 96–533 substituted “part IV of subchapter II of this chapter” for “subchapter IV of this chapter”.
+<b>1980</b>—Pub. L. 96–533 substituted “part IV of subchapter II of this chapter” for “subchapter IV of this chapter”.
 

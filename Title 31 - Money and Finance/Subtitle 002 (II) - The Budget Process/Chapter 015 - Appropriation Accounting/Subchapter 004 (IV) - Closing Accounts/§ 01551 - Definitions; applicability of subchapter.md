@@ -48,11 +48,11 @@ In subsection (b)(1), the words “District of Columbia government” are substi
 
 #### Amendments
 
-1996—Subsec. (c)(2). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
+<b>1996</b>—Subsec. (c)(2). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
-1992—Pub. L. 102–484 substituted “Definitions; applicability of subchapter” for “Definitions and applications” as section catchline.
+<b>1992</b>—Pub. L. 102–484 substituted “Definitions; applicability of subchapter” for “Definitions and applications” as section catchline.
 
-1990—Pub. L. 101–510 amended text generally, reenacting former subsec. (a)(1) and (2) with a change in capitalization, adding subsecs. (a)(3) and (b), and restating former subsec. (b) as (c).
+<b>1990</b>—Pub. L. 101–510 amended text generally, reenacting former subsec. (a)(1) and (2) with a change in capitalization, adding subsecs. (a)(3) and (b), and restating former subsec. (b) as (c).
 
 #### Effective Date of 1990 Amendment; Transitional Provisions
 

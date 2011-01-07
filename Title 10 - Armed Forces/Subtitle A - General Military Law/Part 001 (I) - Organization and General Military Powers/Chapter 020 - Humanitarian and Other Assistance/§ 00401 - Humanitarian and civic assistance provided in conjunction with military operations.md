@@ -40,7 +40,7 @@
 
 #### Amendments
 
-2006—Subsec. (a)(4). Pub. L. 109–364, §1203(a)(1), struck out par. (4) which read as follows: “The Secretary of Defense shall ensure that no member of the armed forces, while providing assistance under this section that is described in subsection (e)(5)—
+<b>2006</b>—Subsec. (a)(4). Pub. L. 109–364, §1203(a)(1), struck out par. (4) which read as follows: “The Secretary of Defense shall ensure that no member of the armed forces, while providing assistance under this section that is described in subsection (e)(5)—
 
 &emsp;“(A) engages in the physical detection, lifting, or destroying of landmines or other explosive remnants of war (unless the member does so for the concurrent purpose of supporting a United States military operation); or
 
@@ -62,17 +62,17 @@ Subsec. (e)(1). Pub. L. 109–163, §1201(b), inserted “surgical,” before �
 
 Subsec. (e)(5). Pub. L. 109–364, §1203(a)(4), struck out par. (5) which read as follows: “Detection and clearance of landmines and other explosive remnants of war, including activities relating to the furnishing of education, training, and technical assistance with respect to the detection and clearance of landmines and other explosive remnants of war.”
 
-2004—Subsec. (a)(4)(A). Pub. L. 108–375, §1221(b)(1), inserted “or other explosive remnants of war” after “landmines”.
+<b>2004</b>—Subsec. (a)(4)(A). Pub. L. 108–375, §1221(b)(1), inserted “or other explosive remnants of war” after “landmines”.
 
 Subsec. (c)(2)(B). Pub. L. 108–375, §1221(b)(2), substituted “equipment or supplies for clearing landmines or other explosive remnants of war” for “landmine clearing equipment or supplies”.
 
 Subsec. (e)(5). Pub. L. 108–375, §1221(a), inserted “and other explosive remnants of war” after “landmines” in two places.
 
-2000—Subsec. (e)(1). Pub. L. 106–398 substituted “areas of a country that are rural or are underserved by medical, dental, and veterinary professionals, respectively” for “rural areas of a country”.
+<b>2000</b>—Subsec. (e)(1). Pub. L. 106–398 substituted “areas of a country that are rural or are underserved by medical, dental, and veterinary professionals, respectively” for “rural areas of a country”.
 
-1999—Subsec. (d). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
+<b>1999</b>—Subsec. (d). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 
-1996—Subsec. (a)(4). Pub. L. 104–201, §1074(a)(2)(A), substituted “armed forces” for “Armed Forces” in two places.
+<b>1996</b>—Subsec. (a)(4). Pub. L. 104–201, §1074(a)(2)(A), substituted “armed forces” for “Armed Forces” in two places.
 
 Pub. L. 104–106, §1313(b), added par. (4).
 
@@ -96,13 +96,13 @@ Subsec. (e)(4). Pub. L. 104–106, §1313(a)(2), substituted “Rudimentary” f
 
 Subsec. (e)(5). Pub. L. 104–106, §1313(a)(5), added par. (5).
 
-1993—Subsec. (c)(2). Pub. L. 103–160, §1504(b), inserted before period “, except that funds appropriated to the Department of Defense for operation and maintenance (other than funds appropriated pursuant to such paragraph) may be obligated for humanitarian and civic assistance under this section only for incidental costs of carrying out such assistance”.
+<b>1993</b>—Subsec. (c)(2). Pub. L. 103–160, §1504(b), inserted before period “, except that funds appropriated to the Department of Defense for operation and maintenance (other than funds appropriated pursuant to such paragraph) may be obligated for humanitarian and civic assistance under this section only for incidental costs of carrying out such assistance”.
 
 Subsec. (f). Pub. L. 103–160, §1182(a)(1), struck out subsec. (f) which read as follows: “Not more than $16,400,000 may be obligated or expended for the purposes of this section during fiscal years 1987 through 1991.”
 
-1988—Subsec. (c)(2). Pub. L. 100–456 substituted “paragraph (1)” for “subsection (a)”.
+<b>1988</b>—Subsec. (c)(2). Pub. L. 100–456 substituted “paragraph (1)” for “subsection (a)”.
 
-1987—Pub. L. 100–180, §332(b)(1)(A), substituted “Humanitarian and civic assistance provided in conjunction with military operations” for “Armed forces participation in humanitarian and civic assistance activities” in section catchline.
+<b>1987</b>—Pub. L. 100–180, §332(b)(1)(A), substituted “Humanitarian and civic assistance provided in conjunction with military operations” for “Armed forces participation in humanitarian and civic assistance activities” in section catchline.
 
 Subsec. (a). Pub. L. 100–180, §332(b)(1)(B), (C), (5), redesignated former subsec. (a) as par. (1) and former cls. (1) and (2) as cls. (A) and (B), respectively, redesignated former subsecs. (b) and (c) as pars. (2) and (3), respectively, and substituted “section” for “chapter” wherever appearing.
 
@@ -164,7 +164,7 @@ Pub. L. 102–396, title II, Oct. 6, 1992, 106 Stat. 1884, provided: “That whe
 
 #### Appropriation of Funds for Humanitarian and Civic Assistance; Annual Report to Congress on Obligations; Use of Civic Action Teams in Trust Territories of Pacific Islands and Freely Associated States of Micronesia
 
-Pub. L. 109–148, div. A, title VIII, §8009, Dec. 30, 2005, 119 Stat. 2699, which appropriated funds pursuant tothis section and authorized obligations for humanitarian and civic assistance costs under this chapter, with such obligations being reported as required by subsec. (d) of this section, and authorized the use of Civic Action Teams for the provision of assistance in the Trust Territories of the Pacific Islands and freely associated states of Micronesia and the provision of medical services at Army medical facilities in Hawaii upon a determination by the Secretary of the Army, was from the Department of Defense Appropriations Act, 2006 and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were contained in the following prior appropriations acts:
+Pub. L. 109–148, div. A, title VIII, §8009, Dec. 30, 2005, 119 Stat. 2699, which appropriated funds pursuant to this section and authorized obligations for humanitarian and civic assistance costs under this chapter, with such obligations being reported as required by subsec. (d) of this section, and authorized the use of Civic Action Teams for the provision of assistance in the Trust Territories of the Pacific Islands and freely associated states of Micronesia and the provision of medical services at Army medical facilities in Hawaii upon a determination by the Secretary of the Army, was from the Department of Defense Appropriations Act, 2006 and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were contained in the following prior appropriations acts:
 
 Pub. L. 108–287, title VIII, §8009, Aug. 5, 2004, 118 Stat. 971.
 

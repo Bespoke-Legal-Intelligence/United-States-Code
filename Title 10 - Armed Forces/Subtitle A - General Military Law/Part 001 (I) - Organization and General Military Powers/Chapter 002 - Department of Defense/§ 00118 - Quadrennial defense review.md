@@ -2,7 +2,7 @@
 
 (a)
 
-Review Required.—The Secretary of Defense shall every four years, during a year following a year evenly divisible by four, conduct a comprehensive examination (to be known as a “quadrennial defense review”) of the national defense strategy, force structure, force modernization plans, infrastructure, budget plan, and other elements of the defense program and policies of the United States with a view towarddetermining and expressing the defense strategy of the United States and establishing a defense program for the next 20 years. Each such quadrennial defense review shall be conducted in consultation with the Chairman of the Joint Chiefs of Staff.
+Review Required.—The Secretary of Defense shall every four years, during a year following a year evenly divisible by four, conduct a comprehensive examination (to be known as a “quadrennial defense review”) of the national defense strategy, force structure, force modernization plans, infrastructure, budget plan, and other elements of the defense program and policies of the United States with a view toward determining and expressing the defense strategy of the United States and establishing a defense program for the next 20 years. Each such quadrennial defense review shall be conducted in consultation with the Chairman of the Joint Chiefs of Staff.
 
 (b)
 
@@ -48,7 +48,7 @@ Submission of QDR to Congressional Committees.—The Secretary shall submit a re
 
 &emsp;(7) The anticipated roles and missions of the reserve components in the national defense strategy and the strength, capabilities, and equipment necessary to assure that the reserve components can capably discharge those roles and missions.
 
-&emsp;(8) The appropriate ratio of combat forces to support forces (commonly referred to as the “tooth-to-tail” ratio) under the national defense strategy, including, in particular, the appropriate number and size of headquarters units and Defense Agencies for that purpose.
+&emsp;(8) The appropriate ratio of combat forces to support forces (commonly referred to as the“tooth-to-tail” ratio) under the national defense strategy, including, in particular, the appropriate number and size of headquarters units and Defense Agencies for that purpose.
 
 &emsp;(9) The specific capabilities, including the general number and type of specific military platforms, needed to achieve the strategic and warfighting objectives identified in the review.
 
@@ -70,15 +70,83 @@ Submission of QDR to Congressional Committees.—The Secretary shall submit a re
 
 (e)
 
-CJCS Review.—(1) Upon the completion of each review under subsection (a), the Chairmanof the Joint Chiefs of Staff shall prepare and submit to the Secretary of Defense the Chairman's assessment of the review, including the Chairman's assessment of risk and a description of the capabilities needed to address such risk.
+CJCS Review.—(1) Upon the completion of each review under subsection (a), the Chairman of the Joint Chiefs of Staff shall prepare and submit to the Secretary of Defense the Chairman's assessment of the review, including the Chairman's assessment of risk and a description of the capabilities needed to address such risk.
 
 (2) The Chairman's assessment shall be submitted to the Secretary in time for the inclusion of the assessment in the report. The Secretary shall include the Chairman's assessment, together with the Secretary's comments, in the report in its entirety.
 
 (f)
 
-Independent Panel Assessment.—(1) Not later than six months before the date on which the report on a Quadrennial Defense Review is to be submitted under subsection (d), the Secretary of Defense shall establish a panel to conduct an assessment of the quadrennial defense review.
+National Defense Panel.—
 
-(2) Not later than three months after the date on which the report on a quadrennial defense review is submitted under subsection (d) to the congressional committees named in that subsection, the panel appointed under paragraph (1) shall submit to those committees an assessment of the review, including the recommendations of the review, the stated and implied assumptions incorporated in the review, and the vulnerabilities of the strategy and force structure underlying the review. The assessment of the panel shall include analyses of the trends, asymmetries, and concepts of operations that characterize the military balance with potential adversaries, focusing on the strategic approaches of possible opposing forces.
+&emsp;(1)
+
+Establishment.—Not later than February 1 of a year in which a quadrennial defense review is conducted under this section, there shall be established an independent panel to be known as the National Defense Panel (in this subsection referred to as the “Panel”). The Panel shall have the duties set forth in this subsection.
+
+&emsp;(2)
+
+Membership.—The Panel shall be composed of ten members from private civilian life who are recognized experts in matters relating to the national security of the United States. Eight of the members shall be appointed as follows:
+
+&emsp;&emsp;(A) Two by the chairman of the Committee on Armed Services of the House of Representatives.
+
+&emsp;&emsp;(B) Two by the chairman of the Committee on Armed Services of the Senate.
+
+&emsp;&emsp;(C) Two by the ranking member of the Committee on Armed Services of the House of Representatives.
+
+&emsp;&emsp;(D) Two by the ranking member of the Committee on Armed Services of the Senate.
+
+&emsp;(3)
+
+Co-chairs of the panel.—In addition to the members appointed under paragraph (2), the Secretary of Defense shall appoint two members from private civilian life to serve as co-chairs of the panel.
+
+&emsp;(4)
+
+Period of appointment; vacancies.—Members shall be appointed for the life of the Panel. Any vacancy in the Panel shall be filled in the same manner as the original appointment.
+
+&emsp;(5)
+
+Duties.—The Panel shall have the following duties with respect to a quadrennial defense review:
+
+&emsp;&emsp;(A) While the review is being conducted, the Panel shall review the updates from the Secretary of Defense required under paragraph (8) on the conduct of the review.
+
+&emsp;&emsp;(B) The Panel shall—
+
+&emsp;&emsp;&emsp;(i) review the Secretary of Defense's terms of reference and any other materials providing the basis for, or substantial inputs to, the work of the Department of Defense on the quadrennial defense review;
+
+&emsp;&emsp;&emsp;(ii) conduct an assessment of the assumptions, strategy, findings, and risks of the report on the quadrennial defense review required in subsection (d), with particular attention paid to the risks described in that report;
+
+&emsp;&emsp;&emsp;(iii) conduct an independent assessment of a variety of possible force structures of the armed forces, including the force structure identified in the report on the quadrennial defense review required in subsection (d);
+
+&emsp;&emsp;&emsp;(iv) review the resource requirements identified pursuant to subsection (b)(3) and, to the extent practicable, make a general comparison to the resource requirements to support the forces contemplated under the force structures assessed under this subparagraph; and
+
+&emsp;&emsp;&emsp;(v) provide to Congress and the Secretary of Defense, through the report under paragraph (7), any recommendations it considers appropriate for their consideration.
+
+&emsp;(6)
+
+First meeting.—If the Secretary of Defense has not made the Secretary's appointments to the Panel under paragraph (3) by February 1 of a year in which a quadrennial defense review is conducted under this section, the Panel shall convene for its first meeting with the remaining members.
+
+&emsp;(7)
+
+Report.—Not later than 3 months after the date on which the report on a quadrennial defense review is submitted under subsection (d) to the congressional committees named in that subsection, the Panel established under paragraph (1) shall submit to those committees an assessment of the quadrennial defense review, including a description of the items addressed under paragraph (5) with respect to that quadrennial defense review.
+
+&emsp;(8)
+
+Updates from secretary of defense.—The Secretary of Defense shall ensure that periodically, but not less often than every 60 days, or at the request of the co-chairs, the Department of Defense briefs the Panel on the progress of the conduct of a quadrennial defense review under subsection (a).
+
+&emsp;(9)
+
+Administrative provisions.—
+
+&emsp;&emsp;(A) The Panel may request directly from the Department of Defense and any of its components such information as the Panel considers necessary to carry out its duties under this subsection. The head of the department or agency concerned shall cooperate with the Panel to ensure that information requested by the Panel under this paragraph is promptly provided to the maximum extent practical.
+
+&emsp;&emsp;(B) Upon the request of the co-chairs, the Secretary of Defense shall make available to the Panel the services of any federally funded research and development center that is covered by a sponsoring agreement of the Department of Defense.
+
+&emsp;&emsp;(C) The Panel shall have the authorities provided in section 3161 of title 5 and shall be subject to the conditions set forth in such section.
+
+&emsp;&emsp;(D) Funds for activities of the Panel shall be provided from amounts available to the Department of Defense.
+
+&emsp;(10)
+
+Termination.—The Panel for a quadrennial defense review shall terminate 45 days after the date on which the Panel submits its final report on the quadrennial defense review under paragraph (7).
 
 (g)
 
@@ -116,7 +184,7 @@ Interagency Overseas Basing Report.—(1) Not later than 90 days after submittin
 
 (2) A report under paragraph (1) shall include any recommendations for additional closures or realignments of military installations outside of the United States and any comments resulting from an interagency review of these plans that includes the Department of State and other relevant Federal departments and agencies.
 
-(Added Pub. L. 106–65, div. A, title IX, §901(a)(1), Oct. 5, 1999, 113 Stat. 715; amended Pub. L. 107–107, div. A, title IX, §921(a), Dec. 28, 2001, 115 Stat. 1198; Pub. L. 107–314, div. A, title IX, §§922, 923, Dec. 2, 2002, 116 Stat. 2623; Pub. L. 109–364, div. A, title X, §1031(c)–(f), Oct. 17, 2006, 120 Stat. 2385, 2386; Pub. L. 110–181, div. A, title IX, §§941(b), 951(a), Jan. 28, 2008, 122 Stat. 287, 290; Pub. L. 111–84, div. A, title X, §§1002, 1073(a)(2), div. B, title XXVIII, §2822(b), Oct. 28, 2009, 123 Stat. 2439, 2472, 2666.)
+(Added Pub. L. 106–65, div. A, title IX, §901(a)(1), Oct. 5, 1999, 113 Stat. 715; amended Pub. L. 107–107, div. A, title IX, §921(a), Dec. 28, 2001, 115 Stat. 1198; Pub. L. 107–314, div. A, title IX, §§922, 923, Dec. 2, 2002, 116 Stat. 2623; Pub. L. 109–364, div. A, title X, §1031(c)–(f), Oct. 17, 2006, 120 Stat. 2385, 2386; Pub. L. 110–181, div. A, title IX, §§941(b), 951(a), Jan. 28, 2008, 122 Stat. 287, 290; Pub. L. 111–84, div. A, title X, §§1002, 1073(a)(2), div. B, title XXVIII, §2822(b), Oct. 28, 2009, 123 Stat. 2439, 2472, 2666; Pub. L. 111–383, div. A, title X, §1071, Jan. 7, 2011, 124 Stat. 4364.)
 
 #### Prior Provisions
 
@@ -124,13 +192,19 @@ A prior section 118, added Pub. L. 97–295, §1(2)(A), Oct. 12, 1982, 96 Stat. 
 
 #### Amendments
 
-2009—Subsec. (g)(1), (2). Pub. L. 111–84, §1073(a)(2), substituted “January 28, 2008,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008”.
+<b>2011</b>—Subsec. (f). Pub. L. 111–383 amended subsec. (f) generally. Prior to amendment, text read as follows:
+
+“(1) Not later than six months before the date on which the report on a Quadrennial Defense Review is to be submitted under subsection (d), the Secretary of Defense shall establish a panel to conduct an assessment of the quadrennial defense review.
+
+“(2) Not later than three months after the date on which the report on a quadrennial defense review is submitted under subsection (d) to the congressionalcommittees named in that subsection, the panel appointed under paragraph (1) shall submit to those committees an assessment of the review, including the recommendations of the review, the stated and implied assumptions incorporated in the review, and the vulnerabilities of the strategy and force structure underlying the review. The assessment of the panel shall include analyses of the trends, asymmetries, and concepts of operations that characterize the military balance with potential adversaries, focusing on the strategic approaches of possible opposing forces.”
+
+<b>2009</b>—Subsec. (g)(1), (2). Pub. L. 111–84, §1073(a)(2), substituted “January 28, 2008,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008”.
 
 Subsec. (h). Pub. L. 111–84, §1002, added subsec. (h).
 
 Subsec. (i). Pub. L. 111–84, §2822(b), added subsec. (i).
 
-2008—Subsec. (e)(2), (3). Pub. L. 110–181, §941(b), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The Chairman shall include as part of that assessment the Chairman's assessment of the assignment of functions (or roles and missions) to the armed forces, together with any recommendations for changes in assignment that the Chairman considers necessary to achieve maximum efficiency of the armedforces. In preparing the assessment under this paragraph, the Chairman shall consider (among other matters) the following:
+<b>2008</b>—Subsec. (e)(2), (3). Pub. L. 110–181, §941(b), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The Chairman shall include as part of that assessment the Chairman's assessment of the assignment of functions (or roles and missions) to the armed forces, together with any recommendations for changes in assignment that the Chairman considers necessary to achieve maximum efficiency of the armed forces. In preparing the assessment under this paragraph, the Chairman shall consider (among other matters) the following:
 
 &emsp;“(A) Unnecessary duplication of effort among the armed forces.
 
@@ -138,7 +212,7 @@ Subsec. (i). Pub. L. 111–84, §2822(b), added subsec. (i).
 
 Subsec. (g). Pub. L. 110–181, §951(a), added subsec. (g).
 
-2006—Subsec. (b)(4). Pub. L. 109–364, §1031(c), added par. (4).
+<b>2006</b>—Subsec. (b)(4). Pub. L. 109–364, §1031(c), added par. (4).
 
 Subsec. (d)(1). Pub. L. 109–364, §1031(d)(1), inserted “, the strategic planning guidance,” after “United States”.
 
@@ -152,11 +226,11 @@ Subsec. (e)(1). Pub. L. 109–364, §1031(e), inserted “and a description of t
 
 Subsec. (f). Pub. L. 109–364, §1031(f), added subsec. (f).
 
-2002—Subsec. (d). Pub. L. 107–314, §922, substituted “in the year following the year in which the review is conducted, but not later than the date on which the President submits the budget for the next fiscal year to Congress under section 1105(a) of title 31” for “not later than September 30 of the year in which the review is conducted” in second sentence of introductory provisions.
+<b>2002</b>—Subsec. (d). Pub. L. 107–314, §922, substituted “in the year following the year in which the review is conducted, but not later than the date on which the President submits the budget for the next fiscal year to Congress under section 1105(a) of title 31” for “not later than September 30 of the year in which the review is conducted” in second sentence of introductory provisions.
 
 Subsec. (d)(14), (15). Pub. L. 107–314, §923, added par. (14) and redesignated former par. (14) as (15).
 
-2001—Subsec. (e). Pub. L. 107–107 designated the first sentence of existing provisions as par. (1), the second and third sentences of existing provisions as par. (3), and added par. (2).
+<b>2001</b>—Subsec. (e). Pub. L. 107–107 designated the first sentence of existing provisions as par. (1), the second and third sentences of existing provisions as par. (3), and added par. (2).
 
 #### Transfer of Functions
 

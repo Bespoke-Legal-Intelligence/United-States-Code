@@ -36,7 +36,7 @@ If the Secretary of the Army makes a determination pursuant to subsection (b) of
 
 #### (e) Periodic review
 
-(1) Not later than 18 months after the completion of the project modifications authorized insubsection (a) of this section, and periodically thereafter, the Secretary of the Army shall review the determination of adverse effect for adjacent agricultural areas.
+(1) Not later than 18 months after the completion of the project modifications authorized in subsection (a) of this section, and periodically thereafter, the Secretary of the Army shall review the determination of adverse effect for adjacent agricultural areas.
 
 (2) In conducting such review, the Secretary of the Army shall consult with all affected parties, including, but not limited to, the Secretary, the South Florida Water Management District and agricultural users within adjacent agricultural areas.
 
@@ -62,7 +62,7 @@ No Federal license, permit, approval, right-of-way or assistance shall be grante
 
 #### (j) Protection of natural values
 
-The Secretary of the Army is directed in analysis, design and engineering associated with the development of a general design memorandum for works and operations in the “C–111 basin” area of the East Everglades, to take all measures which are feasible and consistent with the purposes of the project to protect natural values associated with Everglades National Park. Upon completion of a general design memorandum for the area, the Secretary shall prepare and transmit a report to the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the United States Senate and the Committee on Natural Resources and the Committee on Public Works and Transportation of the United States House of Representatives on the status of the natural resources of the C–111 basin and functionally related lands.
+The Secretary of the Army is directed in analysis, design and engineering associated withthe development of a general design memorandum for works and operations in the “C–111 basin” area of the East Everglades, to take all measures which are feasible and consistent with the purposes of the project to protect natural values associated with Everglades National Park. Upon completion of a general design memorandum for the area, the Secretary shall prepare and transmit a report to the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the United States Senate and the Committee on Natural Resources and the Committee on Public Works and Transportation of the United States House of Representatives on the status of the natural resources of the C–111 basin and functionally related lands.
 
 #### (k) Acquisition of additional lands
 
@@ -84,7 +84,7 @@ The Department of the Interior and Related Agencies Appropriations Acts for fisc
 
 #### Amendments
 
-1994—Subsecs. (a)(2), (j). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Senate and the Committee on”.
+<b>1994</b>—Subsecs. (a)(2), (j). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Senate and the Committee on”.
 
 Subsec. (k). Pub. L. 103–219 added subsec. (k).
 

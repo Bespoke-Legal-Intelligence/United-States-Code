@@ -80,7 +80,7 @@
 
 #### (D) Level playing field
 
-&emsp;&emsp;Such a sponsor shall permit enrollees to receive benefits (which may include a 90-daysupply of drugs or biologicals) through a pharmacy (other than a mail order pharmacy), with any differential in charge paid by such enrollees.
+&emsp;&emsp;Such a sponsor shall permit enrollees to receive benefits (which may include a 90-day supply of drugs or biologicals) through a pharmacy (other than a mail order pharmacy), with any differential in charge paid by such enrollees.
 
 #### (E) Not required to accept insurance risk
 
@@ -96,7 +96,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall provide for the development, adoption, or recognition of standards relating to a standardized format for the card or other technology required under subparagraph (A). Such standards shall be compatible with part C of subchapter XI of this chapter and may be based on standards developed by an appropriate standard setting organization.
+&emsp;&emsp;&emsp;The Secretary shall provide for the development, adoption, or recognition of standards relating to a standardized format for the card or other technology required under subparagraph (A). Such standards shall be compatible with part C of subchapter XI of this chapter and maybe based on standards developed by an appropriate standard setting organization.
 
 #### (ii) Consultation
 
@@ -160,27 +160,53 @@
 
 #### (G) Required inclusion of drugs in certain categories and classes
 
-#### (i) Identification of drugs in certain categories and classes
+#### (i) Formulary requirements
 
-&emsp;&emsp;&emsp;Beginning with plan year 2010, the Secretary shall identify, as appropriate, categories and classes of drugs for which both of the following criteria are met:
+#### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;(I) Restricted access to drugs in the category or class would have major or life threatening clinical consequences for individuals who have a disease or disorder treated by the drugs in such category or class.
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), a PDP sponsor offering a prescription drug plan shall be required to include all covered part D drugs in the categories and classes identified by the Secretary under clause (ii)(I).
 
-&emsp;&emsp;&emsp;&emsp;(II) There is significant clinical need for such individuals to have access to multiple drugs within a category or class due to unique chemical actions and pharmacological effects of the drugs within the category or class, such as drugs used in the treatment of cancer.
+#### (II) Exceptions
 
-#### (ii) Formulary requirements
+&emsp;&emsp;&emsp;&emsp;The Secretary may establish exceptions that permit a PDP sponsor offering a prescription drug plan to exclude from its formulary a particular covered part D drug in a category or class that is otherwise required to be included in the formulary under subclause (I) (or to otherwise limit access to such a drug, including through prior authorization or utilization management).
 
-&emsp;&emsp;&emsp;Subject to clause (iii), PDP sponsors offering prescription drug plans shall be required to include all covered part D drugs in the categories and classes identified by the Secretary under clause (i).
+#### (ii) Identification of drugs in certain categories and classes
 
-#### (iii) Exceptions
+#### (I) In general
 
-&emsp;&emsp;&emsp;The Secretary may establish exceptions that permits <sup>1</sup> a PDP sponsor of a prescription drug plan to exclude from its formulary a particular covered part D drug in a category or class that is otherwise required to be included in the formulary under clause (ii) (or to otherwise limit access to such a drug, including through prior authorization or utilization management). Any exceptions established under the preceding sentence shall be provided under a process that—
+&emsp;&emsp;&emsp;&emsp;Subject to clause (iv), the Secretary shall identify, as appropriate, categoriesand classes of drugs for which the Secretary determines are of clinical concern.
 
-&emsp;&emsp;&emsp;&emsp;(I) ensures that any exception to such requirement is based upon scientific evidence and medical standards of practice (and, in the case of antiretroviral medications, is consistent with the Department of Health and Human Services Guidelines for the Use of Antiretroviral Agents in HIV-1-Infected Adults and Adolescents); and
+#### (II) Criteria
 
-&emsp;&emsp;&emsp;&emsp;(II) includes a public notice and comment period.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall use criteria established by the Secretary in making any determination under subclause (I).
 
-> &emsp;The requirements of this paragraph may be met by a PDP sponsor directly or through arrangements with another entity.
+#### (iii) Implementation
+
+&emsp;&emsp;&emsp;The Secretary shall establish the criteria under clause (ii)(II) and any exceptions under clause (i)(II) through the promulgation of a regulation which includes a public notice and comment period.
+
+#### (iv) Requirement for certain categories and classes until criteria established
+
+&emsp;&emsp;&emsp;Until such time as the Secretary establishes the criteria under clause (ii)(II) the following categories and classes of drugs shall be identified under clause (ii)(I):
+
+&emsp;&emsp;&emsp;&emsp;(I) Anticonvulsants.
+
+&emsp;&emsp;&emsp;&emsp;(II) Antidepressants.
+
+&emsp;&emsp;&emsp;&emsp;(III) Antineoplastics.
+
+&emsp;&emsp;&emsp;&emsp;(IV) Antipsychotics.
+
+&emsp;&emsp;&emsp;&emsp;(V) Antiretrovirals.
+
+&emsp;&emsp;&emsp;&emsp;(VI) Immunosuppressants for the treatment of transplant rejection.
+
+#### (H) Use of single, uniform exceptions and appeals process
+
+&emsp;&emsp;Notwithstanding any other provision of this part, each PDP sponsor of a prescription drug plan shall—
+
+&emsp;&emsp;&emsp;(i) use a single, uniform exceptions and appeals process (including, to the extent the Secretary determines feasible, a single, uniform model form for use under such process) with respect to the determination of prescription drug coverage for an enrollee under the plan; and
+
+&emsp;&emsp;&emsp;(ii) provide instant access to such process by enrollees through a toll-free telephone number and an Internet website.
 
 #### (c) Cost and utilization management; quality assurance; medication therapy management program
 
@@ -226,17 +252,47 @@
 
 &emsp;&emsp;&emsp;(iii) detection of adverse drug events and patterns of overuse and underuse of prescription drugs.
 
-#### (C) Development of program in cooperation with licensed pharmacists
+#### (C) Required interventions
+
+&emsp;&emsp;For plan years beginning on or after the date that is 2 years after March 23, 2010, prescription drug plan sponsors shall offer medication therapy management services to targeted beneficiaries described in subparagraph (A)(ii) that include, at a minimum, the following to increase adherence to prescription medications or other goals deemed necessary by the Secretary:
+
+&emsp;&emsp;&emsp;(i) An annual comprehensive medication review furnished person-to-person or using telehealth technologies (as defined by the Secretary) by a licensed pharmacist or other qualified provider. The comprehensive medication review—
+
+&emsp;&emsp;&emsp;&emsp;(I) shall include a review of the individual's medications and may result in the creation of a recommended medication action plan or other actions in consultation with the individual and with input from the prescriber to the extent necessary and practicable; and
+
+&emsp;&emsp;&emsp;&emsp;(II) shall include providing the individual with a written or printed summary of the results of the review.
+
+&emsp;&emsp;&nbsp;The Secretary, in consultation with relevant stakeholders, shall develop a standardized format for the action plan under subclause (I) and the summary under subclause (II).
+
+&emsp;&emsp;&emsp;(ii) Follow-up interventions as warranted based on the findings of the annual medication review or the targeted medication enrollment and which may be provided person-to-person or using telehealth technologies (as defined by the Secretary).
+
+#### (D) Assessment
+
+&emsp;&emsp;The prescription drug plan sponsor shall have in place a process to assess, at least on a quarterly basis, the medication use of individuals who are at risk but not enrolled in the medication therapy management program, including individuals who have experienced a transition in care, if the prescription drug plan sponsor has access to that information.
+
+#### (E) <sup>1</sup> Automatic enrollment with ability to opt-out
+
+&emsp;&emsp;The prescription drug plan sponsor shall have in place a process to—
+
+&emsp;&emsp;&emsp;(i) subject to clause (ii), automatically enroll targeted beneficiaries described in subparagraph (A)(ii), including beneficiaries identified under subparagraph (D), in the medication therapy management program required under this subsection; and
+
+&emsp;&emsp;&emsp;(ii) permit such beneficiaries to opt-out of enrollment in such program.
+
+#### (E) <sup>1</sup> Development of program in cooperation with licensed pharmacists
 
 &emsp;&emsp;Such program shall be developed in cooperation with licensed and practicing pharmacists and physicians.
 
-#### (D) Coordination with care management plans
+#### (F) Coordination with care management plans
 
 &emsp;&emsp;The Secretary shall establish guidelines for the coordination of any medication therapy management program under this paragraph with respect to a targeted beneficiary with any care management plan established with respect to such beneficiary under a chronic care improvement program under section 1395b–8 of this title.
 
-#### (E) Considerations in pharmacy fees
+#### (G) Considerations in pharmacy fees
 
 &emsp;&emsp;The PDP sponsor of a prescription drug plan shall take into account, in establishing fees for pharmacists and others providing services under such plan, the resources used, and time required to, implement the medication therapy management program under this paragraph. Each such sponsor shall disclose to the Secretary upon request the amount of any such management or dispensing fees. The provisions of section 1396r–8(b)(3)(D) of this title apply to information disclosed under this subparagraph.
+
+#### (3) Reducing wasteful dispensing of outpatient prescription drugs in long-term care facilities
+
+&emsp;The Secretary shall require PDP sponsors of prescription drug plans to utilize specific, uniform dispensing techniques, as determined by the Secretary, in consultation with relevant stakeholders (including representatives of nursing facilities, residents of nursing facilities, pharmacists, the pharmacy industry (including retail and long-term care pharmacy), prescription drug plans, MA–PD plans, and any other stakeholders the Secretary determines appropriate), such as weekly, daily, or automated dose dispensing, when dispensing covered part D drugs to enrollees who reside in a long-term care facility in order to reduce waste associated with 30-day fills.
 
 #### (d) Consumer satisfaction surveys
 
@@ -300,7 +356,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 #### (D) Permitting use of appropriate messaging
 
-&emsp;&emsp;Such standards shall allow for the messaging of information only if it relates to theappropriate prescribing of drugs, including quality assurance measures and systems referred to in subsection (c)(1)(B) of this section.
+&emsp;&emsp;Such standards shall allow for the messaging of information only if it relates to the appropriate prescribing of drugs, including quality assurance measures and systems referred to in subsection (c)(1)(B) of this section.
 
 #### (E) Permitting patient designation of dispensing pharmacy
 
@@ -390,7 +446,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 &emsp;&emsp;(B) in the case of a group practice (as defined in section 1395nn(h)(4) of this title), by the practice to prescribing health care professionals who are members of such practice; and
 
-&emsp;&emsp;(C) in the case of a PDP sponsor or MA organization, by the sponsor or organization topharmacists and pharmacies participating in the network of such sponsor or organization, and to prescribing health care professionals.
+&emsp;&emsp;(C) in the case of a PDP sponsor or MA organization, by the sponsor or organization to pharmacists and pharmacies participating in the network of such sponsor or organization, and to prescribing health care professionals.
 
 #### (f) Grievance mechanism
 
@@ -414,7 +470,7 @@ Each PDP sponsor shall provide meaningful procedures for hearing and resolving g
 
 #### (2) Limitation in cases on nonformulary determinations
 
-&emsp;A part D eligible individual who is enrolled in a prescription drug plan offered by a PDP sponsor may appeal under paragraph (1) a determination not to provide for coverage of a covered part D drug that is not on the formulary under the plan only if the prescribing physician determines that all covered part D drugs on any tier of the formulary for treatment of the same condition would not be as effective for the individual as the nonformulary drug, would have adverse effects for the individual, or both.
+&emsp;A part D eligible individual who is enrolled in a prescription drug plan offered by a PDPsponsor may appeal under paragraph (1) a determination not to provide for coverage of a covered part D drug that is not on the formulary under the plan only if the prescribing physician determines that all covered part D drugs on any tier of the formulary for treatment of the same condition would not be as effective for the individual as the nonformulary drug, would have adverse effects for the individual, or both.
 
 #### (3) Treatment of nonformulary determinations
 
@@ -452,7 +508,7 @@ Subparagraph (A) of section 1395w–22(e)(4) of this title (relating to treatmen
 
 #### (<i>l</i>) Requirements with respect to sales and marketing activities
 
-The following provisions shall apply to a PDP sponsor (and the agents, brokers, and otherthird parties representing such sponsor) in the same manner as such provisions apply to a Medicare Advantage organization (and the agents, brokers, and other third parties representing such organization):
+The following provisions shall apply to a PDP sponsor (and the agents, brokers, and other third parties representing such sponsor) in the same manner as such provisions apply to a Medicare Advantage organization (and the agents, brokers, and other third parties representing such organization):
 
 &emsp;(1) The prohibition under section 1395w–21(h)(4)(C) of this title on conducting activities described in section 1395w–21(j)(1) of this title.
 
@@ -462,7 +518,7 @@ The following provisions shall apply to a PDP sponsor (and the agents, brokers, 
 
 &emsp;(4) The requirements regarding the appointment of agents and brokers and compliance with State information requests under subparagraphs (A) and (B), respectively, of section 1395w–21(h)(7) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–4, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2082; amended Pub. L. 110–275, title I, §§103(a)(2), (b)(2), (c)(2), (d)(2), 176, July 15, 2008, 122 Stat. 2499–2501, 2581.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–4, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2082; amended Pub. L. 110–275, title I, §§103(a)(2), (b)(2), (c)(2), (d)(2), 176, July 15, 2008, 122 Stat. 2499–2501, 2581; Pub. L. 111–148, title III, §§3307(a), 3310(a), 3312(a), title X, §10328(a), Mar. 23, 2010, 124 Stat. 471, 475, 476, 964.)
 
 #### References in Text
 
@@ -474,7 +530,15 @@ Section 264(c) of the Health Insurance Portability and Accountability Act of 199
 
 #### Amendments
 
-2008—Subsec. (b)(3)(C)(i). Pub. L. 110–275, §176(1), substituted “Subject to subparagraph (G), the formulary” for “The formulary”.
+<b>2010</b>—Subsec. (b)(3)(G). Pub. L. 111–148, §3307(a), amended subpar. (G) generally. Prior to amendment, subpar. (G) related to required inclusion of drugs in certain categories and classes.
+
+Subsec. (b)(3)(H). Pub. L. 111–148, §3312(a), added subpar. (H).
+
+Subsec. (c)(2)(C) to (G). Pub. L. 111–148, §10328(a), added subpars. (C) to (E) and redesignated former subpars. (C) to(E) as (E) to (G), respectively.
+
+Subsec. (c)(3). Pub. L. 111–148, §3310(a), added par. (3).
+
+<b>2008</b>—Subsec. (b)(3)(C)(i). Pub. L. 110–275, §176(1), substituted “Subject to subparagraph (G), the formulary” for “The formulary”.
 
 Subsec. (b)(3)(G). Pub. L. 110–275, §176(2), added subpar. (G).
 
@@ -486,6 +550,14 @@ Subsec. (<i>l</i>)(3). Pub. L. 110–275, §103(c)(2), added par. (3).
 
 Subsec. (<i>l</i>)(4). Pub. L. 110–275, §103(d)(2), added par. (4).
 
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title III, §3307(b), Mar. 23, 2010, 124 Stat. 472, provided that: “The amendments made by this section \[amending this section\] shall apply to plan year 2011 and subsequent plan years.”
+
+Pub. L. 111–148, title III, §3310(b), Mar. 23, 2010, 124 Stat. 475, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to plan years beginning on or after January 1, 2012.”
+
+Pub. L. 111–148, title III, §3312(b), Mar. 23, 2010, 124 Stat. 476, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to exceptions and appeals on or after January 1, 2012.”
+
 #### Effective Date of 2008 Amendment
 
 Amendment by section 103(a)(2) of Pub. L. 110–275 applicable to plan years beginning on or after Jan. 1, 2009, see section 103(a)(3) of Pub. L. 110–275, set out as a note under section 1395w–21 of this title.
@@ -493,6 +565,10 @@ Amendment by section 103(a)(2) of Pub. L. 110–275 applicable to plan years beg
 Amendment by section 103(b)(2) of Pub. L. 110–275 effective on a date specified by the Secretary (but in no case later than Nov. 15, 2008), see section 103(b)(3) of Pub. L. 110–275, set out as a note under section 1395w–21 of this title.
 
 Amendment by section 103(d)(2) of Pub. L. 110–275 applicable to plan years beginning on or after Jan. 1, 2009, see section 103(d)(3) of Pub. L. 110–275, set out as a note under section 1395w–21 of this title.
+
+#### Rule of Construction
+
+Pub. L. 111–148, title X, §10328(b), Mar. 23, 2010, 124 Stat. 965, provided that: “Nothing in this section \[amending this section\] shall limit the authority of the Secretary of Health and Human Services to modify or broaden requirements for a medication therapy management program under part D of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq.\] or to study new models for medication therapy management through the Center for Medicare and Medicaid Innovation under section 1115A of such Act \[42 U.S.C. 1315a\], as added by section 3021 \[of Pub. L. 111–148\].”
 
 #### Grants to Physicians To Implement Electronic Prescription Drug Programs
 
@@ -559,4 +635,8 @@ Matching requirement.—The applicant for a grant under this section shall agree
 “(d)
 
 Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $50,000,000 for fiscal year 2007 and such sums as may be necessary for each of fiscal years 2008 and 2009.”
+
+<i><sup>1</sup></i><i> So in original. Two subpars. (E) have been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
 

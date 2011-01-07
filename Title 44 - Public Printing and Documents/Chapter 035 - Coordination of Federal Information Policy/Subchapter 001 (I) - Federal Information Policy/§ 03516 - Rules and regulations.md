@@ -10,7 +10,7 @@ A prior section 3516, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 28
 
 #### Amendments
 
-2000—Pub. L. 106–398 substituted “subchapter” for “chapter”.
+<b>2000</b>—Pub. L. 106–398 substituted “subchapter” for “chapter”.
 
 #### Effective Date of 2000 Amendment
 

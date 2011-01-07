@@ -22,15 +22,15 @@ Section was formerly classified to section 170u of Title 5 prior to the general 
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–246 inserted “and” before “(4)”, struck out “; and (5) services and supplies to carry out title II of this Act”, and inserted provision that the fund also be available without fiscal year limitation to carry out the purposes of title II of this Act.
+<b>1990</b>—Subsec. (a). Pub. L. 101–246 inserted “and” before “(4)”, struck out “; and (5) services and supplies to carry out title II of this Act”, and inserted provision that the fund also be available without fiscal year limitation to carry out the purposes of title II of this Act.
 
-1982—Subsec. (a)(5). Pub. L. 97–241, §203(a), added cl. (5).
+<b>1982</b>—Subsec. (a)(5). Pub. L. 97–241, §203(a), added cl. (5).
 
-1980—Subsec. (a). Pub. L. 96–465 substituted “Foreign Service Act of 1980” for “Foreign Service Act of 1946, as amended”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–465 substituted “Foreign Service Act of 1980” for “Foreign Service Act of 1946, as amended”.
 
-1978—Pub. L. 95–426 designated existing provisions as subsec. (a), substituted “central services” for “central supply services” in cl. (2), struck out “and” at end of cl. (2), inserted “; and (4) medical and health care services”, struck out “Not to exceed $750,000 in net assets shall be transferred to the fund for purposes of providing capital” after “for the purpose of providing capital”, and added subsec. (b).
+<b>1978</b>—Pub. L. 95–426 designated existing provisions as subsec. (a), substituted “central services” for “central supply services” in cl. (2), struck out “and” at end of cl. (2), inserted “; and (4) medical and health care services”, struck out “Not to exceed $750,000 in net assets shall be transferred to the fund for purposes of providing capital” after “for the purpose of providing capital”, and added subsec. (b).
 
-1972—Pub. L. 92–226 struck out last sentence authorizing appropriation of amounts necessary to provide capital for the fund. See section 2680 of this title.
+<b>1972</b>—Pub. L. 92–226 struck out last sentence authorizing appropriation of amounts necessary to provide capital for the fund. See section 2680 of this title.
 
 #### Effective Date of 1982 Amendment
 

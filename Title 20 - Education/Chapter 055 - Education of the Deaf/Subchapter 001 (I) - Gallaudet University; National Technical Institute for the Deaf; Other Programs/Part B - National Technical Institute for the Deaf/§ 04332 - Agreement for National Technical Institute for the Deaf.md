@@ -48,15 +48,15 @@ Provisions similar to this section were contained in section 684 of this title p
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–315, §903(1), struck out at end “The Secretary, in considering proposals from institutions of higher education to enter into an agreement under this part, shall give preference to institutions which are located in metropolitan industrial areas.”
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–315, §903(1), struck out at end “The Secretary, in considering proposals from institutions of higher education to enter into an agreement under this part, shall give preference to institutions which are located in metropolitan industrial areas.”
 
 Subsec. (b)(3). Pub. L. 110–315, §903(2)(A), substituted “Committee on Health, Education, Labor, and Pensions of the Senate” for “Committee on Labor and Human Resources of the Senate”.
 
 Subsec. (b)(5). Pub. L. 110–315, §903(2)(B), substituted “subchapter IV of chapter 31 of title 40, commonly referred to as the Davis-Bacon Act” for “the Act of March 3, 1931 (40 U.S.C. 276a—276a–5) commonly referred to as the Davis-Bacon Act” and “section 3145 of title 40” for “section 2 of the Act of June 13, 1934 (40 U.S.C. 276c)”.
 
-1998—Subsec. (a)(2). Pub. L. 105–244 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary and the institution of higher education with which the Secretary has an agreement under this section shall, within 1 year after October 16, 1992, assess the need for modification of the agreement. The Secretary and the institution of higher education with which the Secretary has an agreement under this section shall also periodically update the agreement as determined to be necessary by the Secretary or the institution.”
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–244 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary and the institution of higher education with which the Secretary has an agreement under this section shall, within 1 year after October 16, 1992, assess the need for modification of the agreement. The Secretary and the institution of higher education with which the Secretary has an agreement under this section shall also periodically update the agreement as determined to be necessary by the Secretary or the institution.”
 
-1993—Pub. L. 103–73, §203(g)(1), substituted “National Technical Institute for the Deaf” for “Institute” in section catchline.
+<b>1993</b>—Pub. L. 103–73, §203(g)(1), substituted “National Technical Institute for the Deaf” for “Institute” in section catchline.
 
 Subsec. (a)(1). Pub. L. 103–73, §203(g)(2)(A), substituted “part” for “chapter”.
 
@@ -76,7 +76,7 @@ Subsec. (b)(6). Pub. L. 103–73, §203(g)(3)(D), substituted “or hard of hear
 
 Subsec. (c). Pub. L. 103–73, §203(g)(4), inserted a comma after “If”.
 
-1992—Subsec. (a). Pub. L. 102–421, §121(1), designated existing provisions as par. (1) and added par. (2).
+<b>1992</b>—Subsec. (a). Pub. L. 102–421, §121(1), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (b)(2). Pub. L. 102–421, §151(a)(4), substituted “individuals who are deaf” for “the deaf”.
 
@@ -94,5 +94,5 @@ Amendment by Pub. L. 102–421 effective Oct. 1, 1992, see section 161 of Pub. L
 
 #### Establishment of Institute
 
-Pursuant to an agreement entered into between the Secretary and the Rochester Institute of Technology on Dec. 20, 1966, the National Technical Institute for the Deaf (N.T.I.D.) was established and located at Rochester, New York.
+Pursuant to an agreement entered into between the Secretary and the Rochester Institute of Technologyon Dec. 20, 1966, the National Technical Institute for the Deaf (N.T.I.D.) was established and located at Rochester, New York.
 

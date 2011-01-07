@@ -30,7 +30,7 @@ Funds available to any department or agency of the Government for scientific or 
 
 #### (g) “United States” defined
 
-For purposes of this chapter, the term “United States” when used in a geographical sensemeans the States, the District of Columbia, the Commonwealth of Puerto Rico, and all territories and possessions of the United States.
+For purposes of this chapter, the term “United States” when used in a geographical sense means the States, the District of Columbia, the Commonwealth of Puerto Rico, and all territories and possessions of the United States.
 
 #### (h) Expiration of authorization
 
@@ -44,7 +44,7 @@ Notwithstanding any other provision of law, the authorization of any appropriati
 
 (C) The identities of individuals, organizations, and institutions supplying information described in subparagraph (A) may not be disclosed to the public.
 
-(2) In support of functions authorized by section 1862(a)(5) or (6) of this title, the Foundation may designate, at its discretion, authorized persons, including employees of Federal, State, or local agencies or instrumentalities (including local educational agencies) and employees of private organizations, to have access, for statistical or research purposes only, to information collected pursuant to section 1862(a)(5) or (6) of this title that allows for the identification of the supplier. No such person may—
+(2) In support of functions authorized by section 1862(a)(5) or (6) of this title, the Foundation may designate, at its discretion, authorized persons, including employees of Federal, State, or local agencies or instrumentalities (including local educational agencies) and employees of private organizations, to have access, for statistical or research purposes only, to informationcollected pursuant to section 1862(a)(5) or (6) of this title that allows for the identification of the supplier. No such person may—
 
 &emsp;(A) publish information collected pursuant to section 1862(a)(5) or (6) of this title in such a manner that either an individual, an industrial or commercial organization, or an educational, academic, or other nonprofit institution that has received a pledge of confidentiality from the Foundation can be specifically identified;
 
@@ -60,27 +60,25 @@ Notwithstanding any other provision of law, the authorization of any appropriati
 
 Section 1863(h) of this title, referred to in subsec. (a), was redesignated section 1863(g) of this title by Pub. L. 94–282, title V, §503, May 11, 1976, 90 Stat. 473.
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (a), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 The General Schedule, referred to in subsec. (a)(1), is set out under section 5332 of Title 5.
 
 #### Amendments
 
-2002—Subsec. (i). Pub. L. 107–368 amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “Information supplied to the Foundation or a contractor of the Foundation by an industrial or commercial organization in survey forms, questionnaires, or similar instruments for the purposes of subsection (a)(5) or (a)(6) of section 1862 of this title may not be disclosed to the public unless such information has been transformed into statistical or aggregate formats that do not allow the identification of the supplier. The names of organizations supplying such information may not be disclosed to the public.”
+<b>2002</b>—Subsec. (i). Pub. L. 107–368 amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “Information supplied to the Foundation or a contractor of the Foundation by an industrial or commercial organization in survey forms, questionnaires, or similar instruments for the purposes of subsection (a)(5) or (a)(6) of section 1862 of this title may not be disclosed to the public unless such information has been transformed into statistical or aggregate formats that do not allow the identification of the supplier. The names of organizations supplying such information may not be disclosed to the public.”
 
-1998—Subsec. (c). Pub. L. 105–207 substituted “shall be entitled to receive” for “shall receive” and “the maximum rate payable under section 5376” for “the rate specified for the daily rate for GS–18 of the General Schedule under section 5332” and inserted at end “For the purposes of determining the payment of compensation under this subsection, the time spent in travel by any member of the Board or any member of a special commission shall be deemed as time engaged in the business of the Foundation. Members of the Board and members of special commissions may waive compensation and reimbursement for traveling expenses.”
+<b>1998</b>—Subsec. (c). Pub. L. 105–207 substituted “shall be entitled to receive” for “shall receive” and “the maximum rate payable under section 5376” for “the rate specified for the daily rate for GS–18 of the General Schedule under section 5332” and inserted at end “For the purposes of determining the payment of compensation under this subsection, the time spent in travel by any member of the Board or any member of a special commission shall be deemed as time engaged in the business of the Foundation. Members of the Board and members of special commissions may waive compensation and reimbursement for traveling expenses.”
 
-1995—Subsec. (j). Pub. L. 104–66 struck out subsec. (j) which read as follows: “Starting with fiscal year 1990, the Foundation shall submit to the Congress in each fiscal year, at the time of the release of the President's budget, a three-year budget estimate for the Foundation. The three-year budget shall include funding estimates for each major activity, including each scientific directorate, the United States Antarctic Program, the Science and Engineering Education Directorate, and the Program Development and Management activity.”
+<b>1995</b>—Subsec. (j). Pub. L. 104–66 struck out subsec. (j) which read as follows: “Starting with fiscal year 1990, the Foundation shall submit to the Congress in each fiscal year, at the time of the release of the President's budget, a three-year budget estimate for the Foundation. The three-year budget shall include funding estimates for each major activity, including each scientific directorate, the United States Antarctic Program, the Science and Engineering Education Directorate, and the Program Development and Management activity.”
 
-1991—Subsec. (a)(3). Pub. L. 102–139 struck out “and when less than” after “in lieu of”.
+<b>1991</b>—Subsec. (a)(3). Pub. L. 102–139 struck out “and when less than” after “in lieu of”.
 
-1990—Subsec. (f). Pub. L. 101–589 inserted “or education” after “research”.
+<b>1990</b>—Subsec. (f). Pub. L. 101–589 inserted “or education” after “research”.
 
-1988—Subsec. (a). Pub. L. 100–570, §106, designated existing provisions as par. (1) and added pars. (2) and (3).
+<b>1988</b>—Subsec. (a). Pub. L. 100–570, §106, designated existing provisions as par. (1) and added pars. (2) and (3).
 
 Subsec. (j). Pub. L. 100–570, §107, added subsec. (j).
 
-1985—Subsec. (b). Pub. L. 99–159, §109(e)(1)(A), (B), struck out subsec. (b) relating to outside employment and activities, and redesignated subsec. (c) as (b).
+<b>1985</b>—Subsec. (b). Pub. L. 99–159, §109(e)(1)(A), (B), struck out subsec. (b) relating to outside employment and activities, and redesignated subsec. (c) as (b).
 
 Subsecs. (c), (d). Pub. L. 99–159, §109(e)(1)(B), redesignated subsecs. (d) and (e) as (c) and (d), respectively. Former subsec. (c) redesignated (b).
 
@@ -92,11 +90,11 @@ Subsecs. (g), (h). Pub. L. 99–159, §109(e)(1)(B), redesignated subsecs. (h) a
 
 Subsec. (i). Pub. L. 99–159, §109(e)(1)(B), (C), added subsec. (i). Former subsec. (i) redesignated (h).
 
-1977—Subsec. (d). Pub. L. 95–99 substituted provisions authorizing compensation at a daily rate fixed by the chairman but not exceeding the rate specified for the daily rate for GS–18 of the General Schedule under section 5332 of title 5 for provisions authorizing a daily rate of $100.
+<b>1977</b>—Subsec. (d). Pub. L. 95–99 substituted provisions authorizing compensation at a daily rate fixed by the chairman but not exceeding the rate specified for the daily rate for GS–18 of the General Schedule under section 5332 of title 5 for provisions authorizing a daily rate of $100.
 
-1969—Subsec. (i). Pub. L. 91–120 added subsec. (i).
+<b>1969</b>—Subsec. (i). Pub. L. 91–120 added subsec. (i).
 
-1968—Subsec. (a). Pub. L. 90–407, §12, substituted provisions making applicable chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates, for provisions making applicable the civil-service laws and regulations and the Classification Act of 1949, and provisions that the members of special commissions be appointed without regard to the provisions of title 5, governing appointments in the competitive service, for provisions that the Deputy Director, and members of divisional committees and special commissions be appointed without regard to the civil-service laws or regulations. Provisions this subsection, relating to outside employment and activities of certain specified officers of the Foundation, were designated as subsec. (b).
+<b>1968</b>—Subsec. (a). Pub. L. 90–407, §12, substituted provisions making applicable chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates, for provisions making applicable the civil-service laws and regulations and the Classification Act of 1949, and provisions that the members of special commissions be appointed without regard to the provisions of title 5, governing appointments in the competitive service, for provisions that the Deputy Director, and members of divisional committees and special commissions be appointed without regard to the civil-service laws or regulations. Provisions this subsection, relating to outside employment and activities of certain specified officers of the Foundation, were designated as subsec. (b).
 
 Subsec. (b). Pub. L. 90–407, §12, redesignated provisions of former subsec. (a) as (b) and added Assistant Directors to specified officers of Foundation prohibited from engaging in outside employment and activities. Former subsec. (b), providing for the appointment of a Deputy Director, was struck out.
 
@@ -112,7 +110,7 @@ Subsec. (h). Pub. L. 90–407, §12, added subsec. (h). Former subsec. (h) redes
 
 Subsec. (i). Pub. L. 90–407, §12, struck out subsec. (i) which provided for transfer of National Roster of Scientific and Specialized Personnel from United States Employment Service to Foundation.
 
-1959—Subsec. (d). Pub. L. 86–232 increased compensation for $25 to $50 per diem.
+<b>1959</b>—Subsec. (d). Pub. L. 86–232 increased compensation for $25 to $50 per diem.
 
 #### Transfer of Functions
 

@@ -6,5 +6,5 @@ The Secretary of the Interior shall administer the park in accordance with the p
 
 #### Amendments
 
-2002—Pub. L. 107–219 inserted before period at end: “, except that laws, rules, or regulations that are applicable solely to units of the National Park System that are designated as a ‘National Park’ shall not apply to Wolf Trap National Park for the Performing Arts”.
+<b>2002</b>—Pub. L. 107–219 inserted before period at end: “, except that laws, rules, or regulations that are applicable solely to units of the National Park System that are designated as a ‘National Park’ shall not apply to Wolf Trap National Park for the Performing Arts”.
 

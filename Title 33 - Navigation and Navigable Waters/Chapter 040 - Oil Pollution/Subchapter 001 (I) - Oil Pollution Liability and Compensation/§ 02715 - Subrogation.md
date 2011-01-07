@@ -30,7 +30,7 @@ This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 48
 
 #### Amendments
 
-2004—Subsec. (d). Pub. L. 108–293 added subsec. (d).
+<b>2004</b>—Subsec. (d). Pub. L. 108–293 added subsec. (d).
 
-1996—Subsecs. (b), (c). Pub. L. 104–324 added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>1996</b>—Subsecs. (b), (c). Pub. L. 104–324 added subsec. (b) and redesignated former subsec. (b) as (c).
 

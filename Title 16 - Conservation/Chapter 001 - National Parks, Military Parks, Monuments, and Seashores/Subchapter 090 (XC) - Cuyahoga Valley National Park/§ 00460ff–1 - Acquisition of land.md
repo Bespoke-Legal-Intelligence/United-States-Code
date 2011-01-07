@@ -14,7 +14,7 @@ With respect to improved properties, as defined in this subchapter, the Secretar
 
 #### (d) Acquired lands partly outside boundaries; exchange for non-Federal lands within boundaries; report to General Services Administration for disposal
 
-When any tract of land is only partly within the boundaries of the park, the Secretary may acquire all or any portion of the land outside of such boundaries in order to minimize the payment of severance costs. Land so acquired outside of the boundaries may be exchanged by the Secretary for non-Federal lands within the boundaries. Any portion of the land acquired outside the boundaries and not utilized for exchange shall be reported to the General Services Administration for disposal under the Federal Property and Administrative Services Act of 1949, as amended: <i>Provided</i>, That no disposal shall be for less than the fair market value of the lands involved.
+When any tract of land is only partly within the boundaries of the park, the Secretary may acquire all or any portion of the land outside of such boundaries in order to minimize the payment of severance costs. Land so acquired outside of the boundaries may be exchanged by the Secretary for non-Federal lands within the boundaries. Any portion of the land acquired outside the boundaries and not utilized for exchange shall be reported to the General Services Administration for disposal under chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41: <i>Provided</i>, That no disposal shall be for less than the fair market value of the lands involved.
 
 #### (e) “Improved property” defined; determination by Secretary
 
@@ -28,35 +28,37 @@ The owner of an improved property, as defined in this subchapter, on the date of
 
 In exercising his authority to acquire property under this subchapter, the Secretary shall give prompt and careful consideration to any offer made by an individual owning property within the park to sell such property, if such individual notifies the Secretary that the continued ownership of such property is causing, or would result in, undue hardship.
 
-(Pub. L. 93–555, §2, Dec. 27, 1974, 88 Stat. 1784; Pub. L. 94–578, title III, §323(a), Oct. 21, 1976, 90 Stat. 2742; Pub. L. 95–625, title III, §315(a), (d), (f), Nov. 10, 1978, 92 Stat. 3483; Pub. L. 96–87, title IV, §401(g), Oct. 12, 1979, 93 Stat. 666; Pub. L. 99–606, §16, Nov. 6, 1986, 100 Stat. 3468; Pub. L. 102–431, §1, Oct. 23, 1992, 106 Stat. 2211; Pub. L.103–437, §6(a)(5), Nov. 2, 1994, 108 Stat. 4583; Pub. L. 106–291, title I, §149(b), (c)(2), Oct. 11, 2000, 114 Stat. 956.)
+(Pub. L. 93–555, §2, Dec. 27, 1974, 88 Stat. 1784; Pub. L. 94–578, title III, §323(a), Oct. 21, 1976, 90 Stat. 2742; Pub. L. 95–625, title III, §315(a), (d), (f), Nov. 10, 1978, 92 Stat. 3483; Pub. L. 96–87, title IV, §401(g), Oct. 12, 1979, 93 Stat. 666; Pub. L. 99–606, §16, Nov. 6, 1986, 100 Stat. 3468; Pub. L. 102–431, §1, Oct. 23, 1992, 106 Stat. 2211; Pub. L. 103–437, §6(a)(5), Nov. 2, 1994, 108 Stat. 4583; Pub. L. 106–291, title I, §149(b), (c)(2), Oct. 11, 2000, 114 Stat. 956.)
 
 #### References in Text
 
 Section 460ff–4 of this title, referred to in subsec. (b), was in the original “section 5 of this Act” meaning section 5 of Pub. L. 93–555 which was repealed and section 6 was redesignated section 5 by Pub. L. 106–291, title I, §149(d), Oct. 11, 2000, 114 Stat. 956.
 
-The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (d), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+#### Codification
+
+In subsec. (d), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-2000—Pub. L. 106–291, §149(c)(2), substituted “the park” for “the recreation area” wherever appearing and “The park” for “The recreation area” in subsec. (a).
+<b>2000</b>—Pub. L. 106–291, §149(c)(2), substituted “the park” for “the recreation area” wherever appearing and “The park” for “The recreation area” in subsec. (a).
 
 Subsec. (a). Pub. L. 106–291, §149(b), substituted “The park shall” for “The recreational area shall” and “National Park” for “National Recreation Area”.
 
-1994—Subsec. (a). Pub. L. 103–437 substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the United States Congress”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–437 substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the United States Congress”.
 
-1992—Subsec. (b). Pub. L. 102–431 substituted “within the boundaries of the recreation area may be acquired only by donation or exchange for equal value. In determining the exchange value of lands of the State or any political subdivision thereof under this subsection, the Secretary shall not include in the value of those lands amounts paid from the land and water conservation fund, if any, for the original acquisition of those lands by the State or political subdivision” for “may be acquired only by donation”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–431 substituted “within the boundaries of the recreation area may be acquired only by donation or exchange for equal value. In determining the exchange value of lands of the State or any political subdivision thereof under this subsection, the Secretary shall not include in the value of those lands amounts paid from the land and water conservation fund, if any, for the original acquisition of those lands by the State or political subdivision” for “may be acquired only by donation”.
 
-1986—Subsec. (a). Pub. L. 99–606, §16(1), (2), substituted “numbered 644–80,054 and dated July 1986” for “numbered 655–90,001–A and dated May 1978” and inserted provisions relating to City of Akron Lands on the map referred to in first sentence offered as donations or privately owned, and revision of such map.
+<b>1986</b>—Subsec. (a). Pub. L. 99–606, §16(1), (2), substituted “numbered 644–80,054 and dated July 1986” for “numbered 655–90,001–A and dated May 1978” and inserted provisions relating to City of Akron Lands on the map referred to in first sentence offered as donations or privately owned, and revision of such map.
 
 Subsec. (b). Pub. L. 99–606, §16(3), inserted provisions prohibiting acquisition of fee title to any lands designated on the map referred to in subsection (a) as “Scenic Easement Acquisition Areas”, but acquisition of only scenic easement with no prohibition on activities unless consented to by owner, if such activity, etc. would have been permitted under laws of the local government on Apr. 1, 1986.
 
-1979—Subsec. (a). Pub. L. 96–87 substituted “numbered 655–90,001–A” for “numbered 90,001–A”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–87 substituted “numbered 655–90,001–A” for “numbered 90,001–A”.
 
-1978—Subsec. (a). Pub. L. 95–625, §315(a), (f), substituted reference to Boundary Map “numbered 90,001–A, and dated May 1978” for “numbered 90,000–A, and dated September 1976” and inserted provision for land acquisition of the Hydraulic Brick Company and administration of the property as part of the recreation area.
+<b>1978</b>—Subsec. (a). Pub. L. 95–625, §315(a), (f), substituted reference to Boundary Map “numbered 90,001–A, and dated May 1978” for “numbered 90,000–A, and dated September 1976” and inserted provision for land acquisition of the Hydraulic Brick Company and administration of the property as part of the recreation area.
 
 Subsec. (e). Pub. L. 95–625, §315(d), provided for substitution of date “January 1, 1978” for “January 1, 1975” wherever appearing in application of the subsec. to lands and interests therein added to the recreation area by action of the Ninety-fifth Congress.
 
-1976—Subsec. (a). Pub. L. 94–578 substituted “ ‘Boundary Map, Cuyahoga Valley National Recreation Area, Ohio’, numbered 90,000–A, and dated September 1976” for “ ‘Boundary Map, Cuyahoga Valley National Recreation Area, Ohio’, numbered NRA–CUYA–20,000–A, and dated December 1974”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–578 substituted “ ‘Boundary Map, Cuyahoga Valley National Recreation Area, Ohio’, numbered 90,000–A, and dated September 1976” for “ ‘Boundary Map, Cuyahoga Valley National Recreation Area, Ohio’, numbered NRA–CUYA–20,000–A, and dated December 1974”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

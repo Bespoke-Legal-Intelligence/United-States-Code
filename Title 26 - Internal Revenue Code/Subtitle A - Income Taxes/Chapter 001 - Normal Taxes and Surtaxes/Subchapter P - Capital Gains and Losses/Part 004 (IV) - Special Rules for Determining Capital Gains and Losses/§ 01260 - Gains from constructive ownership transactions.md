@@ -78,7 +78,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) enters into a forward or futures contract to acquire the financial asset,
 
-&emsp;&emsp;(C) is the holder of a call option, and is the grantor of a put option, with respect to the financial asset and such options have substantially equal strike prices and substantially contemporaneous maturity dates, or
+&emsp;&emsp;(C) is the holder of a call option, and is the grantor of a put option, with respect to thefinancial asset and such options have substantially equal strike prices and substantially contemporaneous maturity dates, or
 
 &emsp;&emsp;(D) to the extent provided in regulations prescribed by the Secretary, enters into one or more other transactions (or acquires one or more positions) that have substantially the same effect as a transaction described in any of the preceding subparagraphs.
 
@@ -114,7 +114,7 @@ Except as provided in regulations prescribed by the Secretary, if a constructive
 
 #### (g) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry outthe purposes of this section, including regulations—
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations—
 
 &emsp;(1) to permit taxpayers to mark to market constructive ownership transactions in lieu of applying this section, and
 
@@ -124,9 +124,9 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-2007—Subsec. (c)(2)(G). Pub. L. 110–172 substituted “subsection (d)” for “subsection (e)” and inserted “and” at end.
+<b>2007</b>—Subsec. (c)(2)(G). Pub. L. 110–172 substituted “subsection (d)” for “subsection (e)” and inserted “and” at end.
 
-2004—Subsec. (c)(2)(H) to (J). Pub. L. 108–357 redesignated subpar. (J) as (H) and struck out former subpars. (H) and (I), which included foreign personal holding company and foreign investment company (as defined in section 1246(b)) within definition of “pass-thru entity”.
+<b>2004</b>—Subsec. (c)(2)(H) to (J). Pub. L. 108–357 redesignated subpar. (J) as (H) and struck out former subpars. (H) and (I), which included foreign personal holding company and foreign investment company (as defined in section 1246(b)) within definition of “pass-thru entity”.
 
 #### Effective Date of 2004 Amendment
 

@@ -38,7 +38,7 @@
 
 #### (B) Credit card issuer
 
-&emsp;&emsp;For purposes of this subsection, if the purchase of gasoline described in subparagraph (A) (determined without regard to the registration status of the ultimate vendor) is made by means of a credit card issued to the ultimate purchaser, paragraph (1) shall not apply and the person extending the credit to the ultimate purchaser shall be treated as the person (and the only person) who paid the tax, but only if such person—
+&emsp;&emsp;For purposes of this subsection, if the purchase of gasoline described in subparagraph (A) (determined without regard to the registration status of the ultimate vendor) is made by means of a credit card issued to the ultimate purchaser, paragraph (1) shall notapply and the person extending the credit to the ultimate purchaser shall be treated as the person (and the only person) who paid the tax, but only if such person—
 
 &emsp;&emsp;&emsp;(i) is registered under section 4101,
 
@@ -98,7 +98,7 @@ Under regulations prescribed by the Secretary, credit or refund (without interes
 
 &emsp;&emsp;(G) in the case of gasoline, used or sold for use in the production of special fuels referred to in section 4041.
 
-> &emsp;Subparagraphs (C), (D), and (E) shall not apply in the case of any tax paid under section 4064. In the case of the tax imposed by section 4131, subparagraphs (B), (C), (D), and (E) shall not apply and subparagraph (A) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. This paragraph shall not apply in the case of any tax imposed under section 4041(a)(1) or 4081 on diesel fuel or kerosene and any tax paid under section 4121. Subparagraphs (C) and (D) shall not apply in the case of any tax imposed on gasoline under section 4081 if the requirements of subsection (a)(4) are not met. In the case of taxes imposed by subchapter C or D of chapter 32, subparagraph (E) shall not apply.
+> &emsp;Subparagraphs (C), (D), and (E) shall not apply in the case of any tax paid under section 4064. In the case of the tax imposed by section 4131, subparagraphs (B), (C), (D), and (E) shall not apply and subparagraph (A) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. This paragraph shall not apply in the case of any tax imposed under section 4041(a)(1) or 4081 on diesel fuel or kerosene and any tax paid under section 4121. Subparagraphs (C) and (D) shall not apply in the case of any tax imposed on gasoline under section 4081 if the requirements of subsection (a)(4) are not met. In the case of taxes imposed by subchapter C or D of chapter 32, subparagraph (E) shall not apply. In the case of the tax imposed by section 4191, subparagraphs (B), (C), (D), and (E) shall not apply.
 
 #### (3) Tax-paid articles used for further manufacture, etc.
 
@@ -174,7 +174,7 @@ Under regulations prescribed by the Secretary, if any person uses or resells lik
 
 For purposes of this section, any term used in this section has the same meaning as when used in chapter 31, 32, or 33, as the case may be.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 798; Aug. 11, 1955, ch. 793, §2, 69 Stat. 676; Aug. 11, 1955, ch. 805, §§1(h), (i), 2(b), 69 Stat. 690; Apr. 2, 1956, ch. 160, §2(b)(1), 70 Stat. 90; June 29, 1956, ch. 462, title II, §208(b), 70 Stat. 393; Pub. L. 85–475, §4(b)(5), (6), June 30, 1958, 72 Stat. 260; Pub. L. 85–859, title I, §163(a), (c), Sept. 2, 1958, 72 Stat. 1306, 1311; Pub. L. 86–342, title II, §201(d)(1), Sept. 21, 1959, 73 Stat. 614; Pub. L. 86–418, §3, Apr. 8, 1960, 74 Stat. 38; Pub. L. 86–781, §2, Sept. 14, 1960, 74 Stat. 1018; Pub. L. 87–61, title II, §205(c), (d), June 29, 1961, 75 Stat. 126; Pub. L. 87–508, §5(c)(3), June 28, 1962, 76 Stat. 119; Pub. L. 89–44, title II, §207(c), title VI, §601(c), title VIII, §801(d)(2), June 21, 1965, 79 Stat. 140, 153, 158; Pub. L. 91–258, title II, §§205(b)(3), (4), 207(d)(4)–(7), May 21, 1970, 84 Stat. 242, 248, 249; Pub. L. 91–614, title III, §302(a), (b), Dec. 31, 1970, 84 Stat. 1845; Pub. L. 92–178, title IV, §401(a)(3)(C), (g)(6), Dec. 10, 1971, 85 Stat. 531, 534; Pub. L. 94–455, title XIX, §§1904(b)(1), (2), 1906(a)(24)(A), (B)(i), (b)(13)(A), title XXI, §2108(a), Oct. 4, 1976, 90 Stat. 1815, 1827, 1834, 1904; Pub. L. 95–227, §2(b)(4), Feb. 10, 1978, 92 Stat. 12; Pub. L. 95–618, title II, §§201(c)(3), 232(b), 233(c)(3), Nov. 9, 1978, 92 Stat. 3184, 3189, 3192; Pub. L. 96–222, title I, §108(c)(2)(A), (B), (3), (4), Apr. 1, 1980, 94 Stat. 227; Pub. L. 96–596, §4(c)(1), Dec. 24, 1980, 94 Stat. 3475; Pub. L. 96–598, §1(a), (b), Dec. 24, 1980, 94 Stat. 3485, 3486; Pub. L.97–424, title V, §§511(g)(2)(A), 512(b)(2)(C), (D), 515(b)(4), Jan. 6, 1983, 96 Stat. 2173, 2177, 2181; Pub. L. 98–369, div. A, title VII, §§734(b), (j), 735(c)(13), July 18, 1984, 98 Stat. 978, 980, 984; Pub. L. 99–499, title V, §521(d)(5), Oct. 17, 1986, 100 Stat. 1780; Pub. L. 100–203, title IX, §9201(b)(2), title X, §10502(d)(6)–(8), Dec. 22, 1987, 101 Stat. 1330–330, 1330–444; Pub. L. 100–647, title II, §2001(d)(1)(B), title VI, §6102(a), Nov. 10, 1988, 102 Stat. 3594, 3710; Pub. L. 101–508, title XI, §11212(d)(2), Nov. 5, 1990, 104 Stat. 1388–432; Pub. L. 103–66, title XIII, §13242(d)(17)–(19), Aug. 10, 1993, 107 Stat. 524; Pub. L. 104–188, title I, §1702(b)(3), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 105–34, title IX, §905(a), title X, §1032(e)(6), title XIV, §1436(b), Aug. 5, 1997, 111 Stat. 874, 935, 1053; Pub. L. 105–206, title VI, §6023(23), July 22, 1998, 112 Stat. 826; Pub. L. 108–357, title VIII, §§853(d)(2)(G)–(I), 865(a), Oct. 22, 2004, 118 Stat. 1613, 1621; ; Pub. L. 109–59, title XI, §11163(b), Aug. 10, 2005, 119 Stat. 1973; Pub. L. 109–280, title XII, §1207(e), Aug. 17, 2006, 120 Stat. 1071; Pub. L. 110–172, §11(d)(1), Dec. 29, 2007, 121 Stat. 2489.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 798; Aug. 11, 1955, ch. 793, §2, 69 Stat. 676; Aug. 11, 1955, ch. 805, §§1(h), (i), 2(b), 69 Stat. 690; Apr. 2, 1956, ch. 160, §2(b)(1), 70 Stat. 90; June 29, 1956, ch. 462, title II, §208(b), 70 Stat. 393; Pub. L. 85–475, §4(b)(5), (6), June 30, 1958, 72 Stat. 260; Pub. L. 85–859, title I, §163(a), (c), Sept. 2, 1958, 72 Stat. 1306, 1311; Pub. L. 86–342, title II, §201(d)(1), Sept. 21, 1959, 73 Stat. 614; Pub. L. 86–418, §3, Apr. 8, 1960, 74 Stat. 38; Pub. L. 86–781, §2, Sept. 14, 1960, 74 Stat. 1018; Pub. L. 87–61, title II, §205(c), (d), June 29, 1961, 75 Stat. 126; Pub. L. 87–508, §5(c)(3), June 28, 1962, 76 Stat. 119; Pub. L. 89–44, title II, §207(c), title VI, §601(c), title VIII, §801(d)(2), June 21, 1965, 79 Stat. 140, 153, 158; Pub. L. 91–258, title II, §§205(b)(3), (4), 207(d)(4)–(7), May 21, 1970, 84 Stat. 242, 248, 249; Pub. L. 91–614, title III, §302(a), (b), Dec. 31, 1970, 84 Stat. 1845; Pub. L. 92–178, title IV, §401(a)(3)(C), (g)(6), Dec. 10, 1971, 85 Stat. 531, 534; Pub. L. 94–455, title XIX, §§1904(b)(1), (2), 1906(a)(24)(A), (B)(i), (b)(13)(A), title XXI, §2108(a), Oct. 4, 1976, 90 Stat. 1815, 1827, 1834, 1904; Pub. L. 95–227, §2(b)(4), Feb. 10, 1978, 92 Stat. 12;Pub. L. 95–618, title II, §§201(c)(3), 232(b), 233(c)(3), Nov. 9, 1978, 92 Stat. 3184, 3189, 3192; Pub. L. 96–222, title I, §108(c)(2)(A), (B), (3), (4), Apr. 1, 1980, 94 Stat. 227; Pub. L. 96–596, §4(c)(1), Dec. 24, 1980, 94 Stat. 3475; Pub. L. 96–598, §1(a), (b), Dec. 24, 1980, 94 Stat. 3485, 3486; Pub. L. 97–424, title V, §§511(g)(2)(A), 512(b)(2)(C), (D), 515(b)(4), Jan. 6, 1983, 96 Stat. 2173, 2177, 2181; Pub. L. 98–369, div. A, title VII, §§734(b), (j), 735(c)(13), July 18, 1984, 98 Stat. 978, 980, 984; Pub. L. 99–499, title V, §521(d)(5), Oct. 17, 1986, 100 Stat. 1780; Pub. L. 100–203, title IX, §9201(b)(2), title X, §10502(d)(6)–(8), Dec. 22, 1987, 101 Stat. 1330–330, 1330–444; Pub. L. 100–647, title II, §2001(d)(1)(B), title VI, §6102(a), Nov. 10, 1988, 102 Stat. 3594, 3710; Pub. L. 101–508, title XI, §11212(d)(2), Nov. 5, 1990, 104 Stat. 1388–432; Pub. L. 103–66, title XIII, §13242(d)(17)–(19), Aug. 10, 1993, 107 Stat. 524; Pub. L. 104–188, title I, §1702(b)(3), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 105–34, title IX, §905(a), title X, §1032(e)(6), title XIV, §1436(b), Aug. 5, 1997, 111 Stat. 874, 935, 1053; Pub. L. 105–206, title VI, §6023(23), July 22, 1998, 112 Stat. 826; Pub. L. 108–357, title VIII, §§853(d)(2)(G)–(I), 865(a), Oct. 22, 2004, 118 Stat. 1613, 1621; ; Pub. L. 109–59, title XI, §11163(b), Aug. 10, 2005, 119 Stat. 1973; Pub. L. 109–280, title XII, §1207(e), Aug. 17, 2006, 120 Stat. 1071; Pub. L. 110–172, §11(d)(1), Dec. 29, 2007, 121 Stat. 2489; Pub. L. 111–152, title I, §1405(b)(2), Mar. 30, 2010, 124 Stat. 1065.)
 
 #### Codification
 
@@ -182,15 +182,17 @@ Section 1207(e) of Pub. L. 109–280, which directed the amendment of section 64
 
 #### Amendments
 
-2007—Subsec. (a)(4)(C). Pub. L. 110–172 substituted “ultimate vendor or credit card issuer has certified” for “ultimate vendor” and all that follows through “has certified” and substituted “all ultimate purchasers of the vendor or credit card issuer are certified” for “all ultimate purchasers of the vendor” and all that follows through “are certified”. See 2005 Amendment note below.
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–152 inserted at end of concluding provisions “In the case of the tax imposed by section 4191, subparagraphs (B), (C), (D), and (E) shall not apply.”
 
-2006—Subsec. (b)(2). Pub. L. 109–280, §1207(e)(1)(B), (C), in concluding provisions, substituted “Subparagraphs (C), (D), and (E)” for “Subparagraphs (C) and (D)” and “(B), (C), (D), and (E)” for “(B), (C), and (D)” and inserted at end “In the case of taxes imposed by subchapter C or D of chapter 32, subparagraph (E) shall not apply.” See Codification note above.
+<b>2007</b>—Subsec. (a)(4)(C). Pub. L. 110–172 substituted “ultimate vendor or credit card issuer has certified” for “ultimate vendor” and all that follows through “has certified” and substituted “all ultimate purchasers of the vendor or credit card issuer are certified” for “all ultimate purchasers of the vendor” and all that follows through “are certified”. See 2005 Amendment note below.
+
+<b>2006</b>—Subsec. (b)(2). Pub. L. 109–280, §1207(e)(1)(B), (C), in concluding provisions, substituted “Subparagraphs (C), (D), and (E)” for “Subparagraphs (C) and (D)” and “(B), (C), (D), and (E)” for “(B), (C), and (D)” and inserted at end “In the case of taxes imposed by subchapter C or D of chapter 32, subparagraph (E) shall not apply.” See Codification note above.
 
 Subsec. (b)(2)(E) to (G). Pub. L. 109–280, §1207(e)(1)(A), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively. See Codification note above.
 
 Subsec. (b)(4)(B)(iii). Pub. L. 109–280, §1207(e)(2), added cl. (iii). See Codification note above.
 
-2005—Subsec. (a)(4). Pub. L. 109–59, §11163(b)(1)(E), inserted “or credit card issuer” after “vendor” in heading.
+<b>2005</b>—Subsec. (a)(4). Pub. L. 109–59, §11163(b)(1)(E), inserted “or credit card issuer” after “vendor” in heading.
 
 Subsec. (a)(4)(A). Pub. L. 109–59, §11163(b)(1)(A), inserted “except as provided in subparagraph (B),” after “For purposes of this subsection,”.
 
@@ -202,7 +204,7 @@ Pub. L. 109–59, §11163(b)(1)(B), (C), redesignated subpar. (B) as (C) and sub
 
 Subsec. (b)(2). Pub. L. 109–59, §11163(b)(2), inserted at end “Subparagraphs (C) and (D) shall not apply in the case of any tax imposed on gasoline under section 4081 if the requirements of subsection (a)(4) are not met.”
 
-2004—Subsec. (a)(4). Pub. L. 108–357, §865(a), amended heading and text of par. (4) generally, substituting provisions relating to administration of credits and refunds of gasoline tax by a registered ultimate vendor for provisions relating to administration of credits and refunds of gasoline tax by wholesale distributors.
+<b>2004</b>—Subsec. (a)(4). Pub. L. 108–357, §865(a), amended heading and text of par. (4) generally, substituting provisions relating to administration of credits and refunds of gasoline tax by a registered ultimate vendor for provisions relating to administration of credits and refunds of gasoline tax by wholesale distributors.
 
 Subsec. (b)(2). Pub. L. 108–357, §853(d)(2)(G), struck out “4091 or” before “4121” in concluding provisions.
 
@@ -210,17 +212,17 @@ Subsec. (b)(3). Pub. L. 108–357, §853(d)(2)(H), struck out “or 4091” afte
 
 Subsec. (d). Pub. L. 108–357, §853(d)(2)(I), struck out “or to the tax imposed by section 4091 in the case of refunds described in section 4091(d)” before period at end.
 
-1998—Subsec. (b)(5). Pub. L. 105–206 substituted “section 4216(d)(1)” for “section 4216(e)(1)” in subpar. (A) and concluding provisions.
+<b>1998</b>—Subsec. (b)(5). Pub. L. 105–206 substituted “section 4216(d)(1)” for “section 4216(e)(1)” in subpar. (A) and concluding provisions.
 
-1997—Subsec. (a)(4)(B). Pub. L. 105–34, §905(a), inserted at end “Such term includes any person who makes retail sales of gasoline at 10 or more retail motor fuel outlets.”
+<b>1997</b>—Subsec. (a)(4)(B). Pub. L. 105–34, §905(a), inserted at end “Such term includes any person who makes retail sales of gasoline at 10 or more retail motor fuel outlets.”
 
 Subsec. (b)(2). Pub. L. 105–34, §1032(e)(6), inserted “or kerosene” after “diesel fuel” in concluding provisions.
 
 Subsec. (d). Pub. L. 105–34, §1436(b), inserted before period at end “or to the tax imposed by section 4091 in the case of refunds described in section 4091(d)”.
 
-1996—Subsec. (b)(1)(A). Pub. L. 104–188 substituted “chapter 31 or 32” for “chapter 32 or by section 4051”.
+<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–188 substituted “chapter 31 or 32” for “chapter 32 or by section 4051”.
 
-1993—Subsec. (a)(4)(A). Pub. L. 103–66, §13242(d)(17)(A), substituted “gasoline” for “product” in two places.
+<b>1993</b>—Subsec. (a)(4)(A). Pub. L. 103–66, §13242(d)(17)(A), substituted “gasoline” for “product” in two places.
 
 Subsec. (a)(4)(B). Pub. L. 103–66, §13242(d)(17)(B), substituted “section 4093(b)(2)” for “section 4092(b)(2)” and “ ‘any gasoline taxable under section 4081’ for ‘aviation fuel’ therein)” for “ ‘any product taxable under section 4081’ for ‘a taxable fuel’ therein)”.
 
@@ -230,13 +232,13 @@ Subsec. (b)(3)(A). Pub. L. 103–66, §13242(d)(19)(A), substituted “any fuel 
 
 Subsec. (b)(3)(B). Pub. L. 103–66, §13242(d)(19)(B), substituted “any fuel taxable under section 4081 or 4091, such fuel” for “gasoline taxable under section 4081 or any fuel taxable under section 4091, such gasoline or fuel”.
 
-1990—Subsec. (d). Pub. L. 101–508 inserted at end “The preceding sentence shall not apply to the tax imposed by section 4081 in the case of refunds described in section 4081(e).”
+<b>1990</b>—Subsec. (d). Pub. L. 101–508 inserted at end “The preceding sentence shall not apply to the tax imposed by section 4081 in the case of refunds described in section 4081(e).”
 
-1988—Subsec. (a)(4). Pub. L. 100–647, §6102(a), added par. (4).
+<b>1988</b>—Subsec. (a)(4). Pub. L. 100–647, §6102(a), added par. (4).
 
 Subsec. (b)(2). Pub. L. 100–647, §2001(d)(1)(B), substituted “(or under subsection (a) or (d) of section 4041 in respect of sales or under section 4051)” for “(or under paragraph (1)(A) or (2)(A) of section 4041(a) or under paragraph (1)(A) or (2)(A) of section 4041(d) or under section 4051)”.
 
-1987—Subsec. (b)(2). Pub. L. 100–203, §10502(d)(6), struck out “(other than coal taxable under section 4121)” after “of any article” in introductory provisions and inserted at end “This paragraph shall not apply in the case of any tax paid under section 4091 or 4121.”
+<b>1987</b>—Subsec. (b)(2). Pub. L. 100–203, §10502(d)(6), struck out “(other than coal taxable under section 4121)” after “of any article” in introductory provisions and inserted at end “This paragraph shall not apply in the case of any tax paid under section 4091 or 4121.”
 
 Pub. L. 100–203, §9201(b)(2), inserted at end “In the case of the tax imposed by section 4131, subparagraphs (B), (C), and (D) shall not apply and subparagraph (A) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe.”
 
@@ -244,9 +246,9 @@ Subsec. (b)(3)(A). Pub. L. 100–203, §10502(d)(7), inserted “and other than 
 
 Subsec. (b)(3)(B). Pub. L. 100–203, §10502(d)(8), substituted “or any fuel taxable under section 4091, such gasoline or fuel” for “, such gasoline”.
 
-1986—Subsec. (b)(2). Pub. L. 99–499 inserted “or under paragraph (1)(A) or (2)(A) of section 4041(d)” after “section 4041(a)”.
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–499 inserted “or under paragraph (1)(A) or (2)(A) of section 4041(d)” after “section 4041(a)”.
 
-1984—Subsec. (a)(1)(C). Pub. L. 98–369, §734(b)(2)(B)(iii), struck out “, (b)(3)(C), or (D), or (b)(4)” before “of this section”.
+<b>1984</b>—Subsec. (a)(1)(C). Pub. L. 98–369, §734(b)(2)(B)(iii), struck out “, (b)(3)(C), or (D), or (b)(4)” before “of this section”.
 
 Subsec. (a)(2)(B). Pub. L. 98–369, §§734(b)(1)(B), (2)(B)(iv), 735(c)(13)(D), substituted “(4), (5), or (6) of subsection (b)” for “or (B), or (5) of subsection (b)”.
 
@@ -290,7 +292,7 @@ Subsec. (g). Pub. L. 98–369, §735(c)(13)(E), struck out subsec. (g) which rel
 
 Subsecs. (h), (i). Pub. L. 98–369, §735(c)(13)(E), redesignated subsecs. (h) and (i) as (e) and (f), respectively.
 
-1983—Subsec. (a)(1). Pub. L. 97–424, §512(b)(2)(D), substituted “chapter 31 (relating to retail excise taxes)” for “chapter 31 (special fuels)”.
+<b>1983</b>—Subsec. (a)(1). Pub. L. 97–424, §512(b)(2)(D), substituted “chapter 31 (relating to retail excise taxes)” for “chapter 31 (special fuels)”.
 
 Subsec. (b)(2). Pub. L. 97–424, §511(g)(2)(A), substituted “paragraph (1)(A) or (2)(A) of section 4041(a)” for “section 4041(a)(1) or (b)(1)” in provision before subpar. (A).
 
@@ -298,7 +300,7 @@ Pub. L. 97–424, §512(b)(2)(C), inserted “or under section 4051” after “
 
 Pub. L. 97–424, §515(b)(4), struck out subpar. (N) and provision following subpar. (N) relating to amount of credit or refund under subpar. (N).
 
-1980—Subsec. (a)(1)(C). Pub. L. 96–598, §1(b)(2)(B), substituted “(b)(3)(C) or (D)” for “(b)(3)(C)”.
+<b>1980</b>—Subsec. (a)(1)(C). Pub. L. 96–598, §1(b)(2)(B), substituted “(b)(3)(C) or (D)” for “(b)(3)(C)”.
 
 Subsec. (b)(1). Pub. L. 96–596 designated existing provision in part as subpar. (A), and in subpar. (A) as so designated, inserted heading “In general” and substituted “Except as provided in subparagraph (B) or (C), if the price” for “If the price”, designated existing provision in part as subpar. (B), and in subpar. (B) as so designated, inserted heading “Further manufacture” and substituted “Subparagraph (A) shall not” for “The preceding sentence shall not”, and added subpar. (C).
 
@@ -316,17 +318,17 @@ Subsec. (b)(3)(C). Pub. L. 96–222, §108(c)(2)(A), inserted reference to an au
 
 Subsec. (b)(3)(D). Pub. L. 96–598, §1(b)(1), added subpar. (D).
 
-Subsec. (b)(4)(A). Pub. L. 96–598, §1(b)(2)(D), substituted “section 4071, or a recapped or retreaded tire in respect of which tax under section 4071(a)(4) was paidon the tread rubber used in the recapping or retreading,” for “section 4071”.
+Subsec. (b)(4)(A). Pub. L. 96–598, §1(b)(2)(D), substituted “section 4071, or a recapped or retreaded tire in respect of which tax under section 4071(a)(4) was paid on the tread rubber used in the recapping or retreading,” for “section 4071”.
 
 Subsec. (b)(4)(B). Pub. L. 96–222, §108(c)(2)(B), inserted reference to automobile bus chassis or an automobile bus body.
 
-1978—Subsec. (b)(2). Pub. L. 95–618 substituted in subpar. (I) “in the case of any article taxable under section 4061(b), sold for use by the purchaser on or in connection with an automobile bus” for “in the case of a bus chasis or body taxable under section 4061(a), sold to any person for use as described in section 4063(a)(6) or 4221(e)(5)” and added subpars. (L) and (M) and provision following subpar. (M).
+<b>1978</b>—Subsec. (b)(2). Pub. L. 95–618 substituted in subpar. (I) “in the case of any article taxable under section 4061(b), sold for use by the purchaser on or in connection with an automobile bus” for “in the case of a bus chasis or body taxable under section 4061(a), sold to any person for use as described in section 4063(a)(6) or 4221(e)(5)” and added subpars. (L) and (M) and provision following subpar. (M).
 
 Pub. L. 95–227 inserted “(other than coal taxable under section 4121)” after “of any article”.
 
 Subsec. (b)(3). Pub. L. 95–227 inserted “(other than coal taxable under section 4121)” after “of any article”.
 
-1976—Subsec. (a)(1). Pub. L. 94–455, §§1904(b)(1)(A), 1906(b)(13)(A), substituted “(special fuels)” for “(retailers taxes)”, and struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–455, §§1904(b)(1)(A), 1906(b)(13)(A), substituted “(special fuels)” for “(retailers taxes)”, and struck out “or his delegate” after “Secretary”.
 
 Subsec. (a)(3). Pub. L. 94–455, §1906(a)(24)(A), (b)(13)(A), redesignated subpars. (C) and (D) as (A) and (B), and as so redesignated, struck out “or his delegate” after “Secretary”, in subpar. (A). Prior subpars. (A) and (B) had been repealed by Pub. L. 89–44, title VI, §601(c)(6), June 21, 1965, 79 Stat. 153.
 
@@ -360,13 +362,13 @@ Subsec. (e). Pub. L. 94–455, §1904(b)(1)(B), struck out “subchapter E of”
 
 Subsecs. (g), (h). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-1971—Subsec. (b)(2)(R). Pub. L. 92–178, §401(a)(3)(C)(i), inserted reference to section 4063(a)(6).
+<b>1971</b>—Subsec. (b)(2)(R). Pub. L. 92–178, §401(a)(3)(C)(i), inserted reference to section 4063(a)(6).
 
 Subsec. (b)(2)(S). Pub. L. 92–178, §401(a)(3)(C)(ii), added subpar. (S).
 
 Subsec. (g). Pub. L. 92–178, §401(g)(6), substituted “Trucks, buses, tractors, etc.” for “Automobiles, etc.” in heading.
 
-1970—Subsec. (a)(2)(A). Pub. L. 91–258, §205(b)(3), substituted “section 4041 (relating to tax on special fuels)” for “section 4041(a)(2) or (b)(2) (use of diesel and special motor fuels)”.
+<b>1970</b>—Subsec. (a)(2)(A). Pub. L. 91–258, §205(b)(3), substituted “section 4041 (relating to tax on special fuels)” for “section 4041(a)(2) or (b)(2) (use of diesel and special motor fuels)”.
 
 Subsec. (b)(2)(E). Pub. L. 91–614, §302(b), struck out subpar. (E) providing that the tax paid under chapter 32 (or under section 4041(a)(1) or (b)(1)) in respect of any article is deemed an overpayment if such article was resold by any person to a manufacturer or producer for use by him as provided in subsec. (b)(3)(A), (B), (E) or (F).
 
@@ -384,7 +386,7 @@ Subsec. (b)(3)(A) to (C), (E), (F). Pub. L. 91–614, §302(a)(1)(B), substitute
 
 Subsec. (c). Pub. L. 91–614, §302(a)(2), struck out provision providing that the credit for tax paid on tires or inner tubes is allowable only in respect of the first sale on or in connection with, or with the sale of, another article on the sale of which tax is imposed under chapter 32 of this title.
 
-1965—Subsec. (a)(1). Pub. L. 89–44, §601(c)(1), struck out “section 4231(4), (5), or (6) (cabarets, etc.),” from material preceding subpar. (A).
+<b>1965</b>—Subsec. (a)(1). Pub. L. 89–44, §601(c)(1), struck out “section 4231(4), (5), or (6) (cabarets, etc.),” from material preceding subpar. (A).
 
 Subsec. (a)(1)(A). Pub. L. 89–44, §601(c)(2), struck out “admission, or service” after “article” each place it appears.
 
@@ -426,13 +428,13 @@ Subsec. (d). Pub. L. 89–44, §601(c)(14), struck out subsec. (d) which related
 
 Subsec. (g). Pub. L. 89–44, §601(c)(15), substituted “section 4061(a)” for “sections 4061(a), 4111, 4121, 4141,”.
 
-1962—Subsec. (b)(2)(H). Pub. L. 87–508 substituted “commuter fare revenue” for “tax-exempt passenger fare revenue” and struck out “(not including the tax imposed by section 4261, relating to the tax on transportation of persons)” after “total passenger fare revenue”.
+<b>1962</b>—Subsec. (b)(2)(H). Pub. L. 87–508 substituted “commuter fare revenue” for “tax-exempt passenger fare revenue” and struck out “(not including the tax imposed by section 4261, relating to the tax on transportation of persons)” after “total passenger fare revenue”.
 
-1961—Subsec. (b)(2)(E). Pub. L. 87–61, §205(d), inserted reference to subpar. (F) of par. (3).
+<b>1961</b>—Subsec. (b)(2)(E). Pub. L. 87–61, §205(d), inserted reference to subpar. (F) of par. (3).
 
 Subsec. (b)(3)(F). Pub. L. 87–61, §205(c), added subpar. (F).
 
-1960—Subsec. (b)(1). Pub. L. 86–781 inserted “including (in the case of a tax imposed by chapter 32) a readjustment for local advertising (but only to the extent provided in section 4216(f)(2) and (3),)” after “or allowance,”.
+<b>1960</b>—Subsec. (b)(1). Pub. L. 86–781 inserted “including (in the case of a tax imposed by chapter 32) a readjustment for local advertising (but only to the extent provided in section 4216(f)(2) and (3),)” after “or allowance,”.
 
 Subsec. (b)(2)(E). Pub. L. 86–418, §3(a), substituted “subparagraph (A), (B), or (E)” for “subparagraph (A) or (B)”.
 
@@ -440,11 +442,11 @@ Subsec. (b)(3)(A). Pub. L. 86–418, §3(b)(1), substituted “subparagraph (B),
 
 Subsec. (b)(3)(E). Pub. L. 86–418, §3(b)(2), added subpar. (E).
 
-1959—Subsec. (b)(2)(H). Pub. L. 86–342, §201(d)(1)(A), (B), substituted “at the rate of 3 cents or 4 cents a gallon” for “at the rate of 3 cents a gallon”, and “1 cent (where tax was paid at the 3-cent rate) or 2 cents (where tax was paid at the 4-cent rate) for each gallon” for “1 cent for each gallon”.
+<b>1959</b>—Subsec. (b)(2)(H). Pub. L. 86–342, §201(d)(1)(A), (B), substituted “at the rate of 3 cents or 4 cents a gallon” for “at the rate of 3 cents a gallon”, and “1 cent (where tax was paid at the 3-cent rate) or 2 cents (where tax was paid at the 4-cent rate) for each gallon” for “1 cent for each gallon”.
 
 Subsec. (b)(2)(I), (J). Pub. L. 86–342, §201(d)(1)(A), (C), substituted “at the rate of 3 cents or 4 cents a gallon” for “at the rate of 3 cents a gallon”, and “at the rate of 1 cent a gallon where tax was paid at the 3-cent rate or at the rate of 2 cents a gallon where tax was paid at the 4-cent rate” for “at the rate of 1 cent a gallon”.
 
-1958—Subsec. (a) amended generally by Pub. L. 85–859, §163(a), to make section applicable to taxes imposed by pars. (4) and (5) of section 4231, to permit credit or refund of the cabaret tax where the person has repaid the amount of the tax or has filed a written consent to the allowance of the credit or the making of the refund, and to establish special rules for taxes collected under section 4231(6) from a concessionaire, taxes under chapter 31 paid by a supplier, and defining “ultimate purchaser” and “ultimate vendor”.
+<b>1958</b>—Subsec. (a) amended generally by Pub. L. 85–859, §163(a), to make section applicable to taxes imposed by pars. (4) and (5) of section 4231, to permit credit or refund of the cabaret tax where the person has repaid the amount of the tax or has filed a written consent to the allowance of the credit or the making of the refund, and to establish special rules for taxes collected under section 4231(6) from a concessionaire, taxes under chapter 31 paid by a supplier, and defining “ultimate purchaser” and “ultimate vendor”.
 
 Subsec. (a). Pub. L. 85–475, §4(b)(5), struck out reference to section 4281.
 
@@ -462,17 +464,21 @@ Subsec. (f). Pub. L. 85–475, §4(b)(6), struck out reference to section 4281.
 
 Subsecs. (g) to (i). Pub. L. 85–859, §163(c), added subsecs. (g) to (i).
 
-1956—Subsec. (b)(2)(C). Act Apr. 2, 1956, included liquid used on a farm for farming purposes.
+<b>1956</b>—Subsec. (b)(2)(C). Act Apr. 2, 1956, included liquid used on a farm for farming purposes.
 
 Subsec. (b)(2)(J) to (M). Act June 29, 1956, added subpars. (J) to (M).
 
-1955—Subsec. (b)(2)(G). Act Aug. 11, 1955, ch. 805, §2(b), repealed subpar. (G) relating to credit for communication, detection, and navigation receivers when sold to the United States Government.
+<b>1955</b>—Subsec. (b)(2)(G). Act Aug. 11, 1955, ch. 805, §2(b), repealed subpar. (G) relating to credit for communication, detection, and navigation receivers when sold to the United States Government.
 
 Subsec. (b)(2)(I). Act Aug. 11, 1955, ch. 793, added subpar. (I).
 
 Subsec. (b)(3)(A). Act Aug. 11, 1955, ch. 805, §1(h), inserted “and other than an automobile part or accessory taxable under section 4061(b), a refrigerator component taxable under section 4111, a radio or television component taxable under section 4141, or a camera lens taxable under section 4171” after “section 4141”.
 
-Subsec. (b)(3)(B). Act Aug. 11, 1955, ch. 805, §1(i), substituted provisions allowing a credit for automobile parts or accessories, refrigerator, radio, or television components, or camera lenses taxable under sections 4061(b), 4111, 4141, or 4171, respectively, of this title, for provisions allowing a credit for radio and television components purchased and used by a producer in the manufacture of communication, detection, or navigation receivers in commercial, military, or marine installations if such receivers were sold to the United States.
+Subsec. (b)(3)(B). Act Aug. 11, 1955, ch. 805, §1(i), substituted provisions allowing a credit for automobile parts or accessories, refrigerator, radio, or television components, or camera lenses taxable under sections4061(b), 4111, 4141, or 4171, respectively, of this title, for provisions allowing a credit for radio and television components purchased and used by a producer in the manufacture of communication, detection, or navigation receivers in commercial, military, or marine installations if such receivers were sold to the United States.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–152 applicable to sales after Dec. 31, 2012, see section 1405(c) of Pub. L. 111–152, set out as an Effective Date note under section 4191 of this title.
 
 #### Effective Date of 2007 Amendment
 
@@ -556,7 +562,7 @@ Amendment by section 232(b) of Pub. L. 95–618 applicable to sales on or after 
 
 Amendment by section 233(c)(3) of Pub. L. 95–618 effective on first day of first calendar month which begins more than 10 days after Nov. 9, 1978, see section 233(d) of Pub. L. 95–618, set out as a note under section 34 of this title.
 
-Amendment by Pub. L. 95–227 applicable with respect to sales after Mar. 31, 1978, see section 2(d) of Pub. L. 95–227, set out as an Effective Date note under section 4121 of this title.
+Amendment by Pub. L. 95–227 applicable with respect to sales after Mar. 31, 1978, see section 2(d) of Pub. L.95–227, set out as an Effective Date note under section 4121 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -630,5 +636,5 @@ Section 163(e) of Pub. L. 85–859, as amended by Pub. L. 99–514, §2, Oct. 22
 
 &emsp;“(2) such other article was (before any other use) by any person exported, or sold to a State or local government for the exclusive use of a State or local government,
 
-> then any tax imposed by chapter 32 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (or the corresponding provisions of prior revenue law) in respect of such set or component which has been paid shall be deemed to have been an overpayment, by the manufacturer, producer, or importer of such other article, at the time paid. No credit or refund shall be allowed or made under this subsection unless the manufacturer, producer, or importer of such other article establishes to the satisfaction of the Secretary of the Treasury or his delegate that he did not include the amount of the tax in the price of such other article (and has not collected the amount of the tax from the purchaser of such other article), that the amount of the tax has been repaid to the ultimate purchaser of such other article, or that he has obtained the written consent of such ultimate purchaser to the allowance of the credit or the making of the refund. No interest shall be allowed or paid in respect of any such overpayment.”
+> then any tax imposed by chapter 32 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (or the corresponding provisions of prior revenue law) in respect of such set or component which has been paid shall be deemed to have been an overpayment, by the manufacturer, producer, or importer of such other article, at the time paid. No credit or refund shall be allowed or made under this subsection unless the manufacturer, producer, or importer of such other article establishesto the satisfaction of the Secretary of the Treasury or his delegate that he did not include the amount of the tax in the price of such other article (and has not collected the amount of the tax from the purchaser of such other article), that the amount of the tax has been repaid to the ultimate purchaser of such other article, or that he has obtained the written consent of such ultimate purchaser to the allowance of the credit or the making of the refund. No interest shall be allowed or paid in respect of any such overpayment.”
 

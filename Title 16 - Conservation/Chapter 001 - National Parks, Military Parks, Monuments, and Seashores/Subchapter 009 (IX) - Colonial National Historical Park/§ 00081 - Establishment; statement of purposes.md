@@ -1,6 +1,6 @@
 ### §81. Establishment; statement of purposes
 
-Upon proclamation of the President, as herein provided, sufficient of the areas hereinafter specified for the purposes of this subchapter shall be established and set apart as the Colonial National Historical Park for the preservation of the historical structures and remains thereon and for the benefit and enjoyment of the people.
+Upon proclamation of the President, as herein provided, sufficient of the areas hereinafter specified for the purposes of this subchaptershall be established and set apart as the Colonial National Historical Park for the preservation of the historical structures and remains thereon and for the benefit and enjoyment of the people.
 
 (July 3, 1930, ch. 837, §1, 46 Stat. 855; June 5, 1936, ch. 525, §2, 49 Stat. 1483.)
 
@@ -36,7 +36,7 @@ Findings.—Congress finds that—
 
 &emsp;“(5) in 1996—
 
-&emsp;&emsp;“(A) the Commonwealth of Virginia designated the Jamestown-Yorktown Foundation as the State agency responsible for planning and implementingthe Commonwealth's portion of the commemoration of the 400th anniversary of the founding of the Jamestown settlement;
+&emsp;&emsp;“(A) the Commonwealth of Virginia designated the Jamestown-Yorktown Foundation as the State agency responsible for planning and implementing the Commonwealth's portion of the commemoration of the 400th anniversary of the founding of the Jamestown settlement;
 
 &emsp;&emsp;“(B) the Foundation created the Celebration 2007 Steering Committee, known as the Jamestown 2007 Steering Committee; and
 
@@ -218,7 +218,7 @@ Powers of the Commission.—The Commission may—
 
 &emsp;“(3) authorize any member or employee of the Commission to take any action that the Commission is authorized to take by this Act;
 
-&emsp;“(4) procure supplies, services, and property, and make or enter into contracts, leases or other legal agreements, to carry out this Act (except that anycontracts, leases or other legal agreements made or entered into by the Commission shall not extend beyond the date of termination of the Commission);
+&emsp;“(4) procure supplies, services, and property, and make or enter into contracts, leases or other legal agreements, to carry out this Act (except that any contracts, leases or other legal agreements made or entered into by the Commission shall not extend beyond the date of termination of the Commission);
 
 &emsp;“(5) use the United States mails in the same manner and under the same conditions as other Federal agencies;
 

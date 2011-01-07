@@ -2,7 +2,7 @@
 
 #### (a) Cooperation with banks and other financial institutions
 
-Wherever practicable the operations of a small business investment company, including the generation of business, may be undertaken in cooperation with banks or other investors or lenders, incorporated or unincorporated, andany servicing or initial investigation required for loans or acquisitions of securities by the company under the provisions of this chapter may be handled through such banks or other investors or lenders on a fee basis. Any small business investment company may receive fees for services rendered to such banks and other investors and lenders.
+Wherever practicable the operations of a small business investment company, including the generation of business, may be undertaken in cooperation with banks or other investors or lenders, incorporated or unincorporated, and any servicing or initial investigation required for loans or acquisitions of securities by the company under the provisions of this chapter may be handled through such banks or other investors or lenders on a fee basis. Any small business investment company may receive fees for services rendered to such banks and other investors and lenders.
 
 #### (b) Use of advisory services; depository or fiscal agents; investment of funds
 
@@ -84,7 +84,7 @@ In the performance of, and with respect to the functions, powers, and duties ves
 
 (1) The purpose of this subsection is to facilitate the orderly and necessary flow of long-term loans and equity funds from small business investment companies to small business concerns.
 
-(2) In the case of a business loan, the small business investment company making such loan may charge interest on such loan at a rate which does not exceed the maximum rate prescribed by regulation by the Administration for loans made by any licensee (determined without regard to any State rate incorporated by such regulation). In this paragraph, the term “interest” includes only the maximum mandatory sum, expressed in dollars or as a percentage rate, that is payable with respect to the business loan amount received by the small business concern, and does not include the value, if any, of contingent obligations, including warrants, royalty, or conversion rights, granting the small business investment company an ownership interest in the equity or increased future revenue of the small business concern receiving the business loan.
+(2) In the case of a business loan, the small business investment company making such loan may charge interest on such loan at a rate which does not exceed the maximum rate prescribed by regulation by the Administration for loans made by any licensee (determined without regard to any State rate incorporated by such regulation). In this paragraph, the term “interest” includes only the maximum mandatory sum, expressed in dollars or as a percentage rate, that is payable with respect to the business loan amount received by the small business concern, and does not include the value, if any, of contingent obligations, including warrants, royalty, or conversion rights, granting the small business investment company an ownership interest in the equity or increased future revenueof the small business concern receiving the business loan.
 
 (3) A State law or constitutional provision shall be preempted for purposes of paragraph (2) with respect to any loan if such loan is made before the date, on or after April 1, 1980, on which such State adopts a law or certifies that the voters of such State have voted in favor of any provision, constitutional or otherwise, which states explicitly and by its terms that such State does not want the provisions of this subsection to apply with respect to loans made in such State, except that such State law or constitutional or other provision shall be preempted in the case of a loan made, on or after the date on which such law is adopted or such certification is made, pursuant to a commitment to make such loan which was entered into on or after April 1, 1980, and prior to the date on which such law is adopted or such certification is made.
 
@@ -112,47 +112,47 @@ Section 204 of Pub. L. 93–501, cited as a credit to this section, was repealed
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–447, which directed the amendment of section 308(b) of the Small Business Investment Act by substituting “Any such company that is licensed before October 1, 2004 and has outstanding financings is authorized to invest funds not needed for its operations—” and pars. (1) to (3) for last sentence, was executed to this section, which is section 308 of the Small Business Investment Act of 1958, to reflect the probable intent of Congress. Prior to amendment, last sentence read as follows: “Such companies with outstanding financings are authorized to invest funds not reasonably needed for their operations in direct obligations of, or obligations guaranteed as to principal and interest by, the United States, or in certificates of deposit maturing within one year or less, issued by any institution the accounts of which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation, or in savings accounts of such institutions.”
+<b>2004</b>—Subsec. (b). Pub. L. 108–447, which directed the amendment of section 308(b) of the Small Business Investment Act by substituting “Any such company that is licensed before October 1, 2004 and has outstanding financings is authorized to invest funds not needed for its operations—” and pars. (1) to (3) for last sentence, was executed to this section, which is section 308 of the Small Business Investment Act of 1958, to reflect the probable intent of Congress. Prior to amendment, last sentence read as follows: “Such companies with outstanding financings are authorized to invest funds not reasonably needed for their operations in direct obligations of, or obligations guaranteed as to principal and interest by, the United States, or in certificates of deposit maturing within one year or less, issued by any institution the accounts of which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation, or in savings accounts of such institutions.”
 
-1999—Subsec. (i)(2). Pub. L. 106–9 inserted at end: “In this paragraph, the term ‘interest’ includes only the maximum mandatory sum, expressed in dollars or as a percentage rate, that is payable with respect to the business loan amount received by the small business concern, and does not include the value, if any, of contingent obligations, including warrants, royalty, or conversion rights, granting the small business investment company an ownership interest in the equity or increased future revenue of the small business concern receiving the business loan.”
+<b>1999</b>—Subsec. (i)(2). Pub. L. 106–9 inserted at end: “In this paragraph, the term ‘interest’ includes only the maximum mandatory sum, expressed in dollars or as a percentage rate, that is payable with respect to the business loan amount received by the small business concern, and does not include the value, if any, of contingent obligations, including warrants, royalty, or conversion rights, granting the small business investment company an ownership interest in the equity or increased future revenue of the small business concern receiving the business loan.”
 
-1996—Subsec. (e). Pub. L. 104–208, §208(e), substituted “Except as expressly provided otherwise in this chapter, nothing” for “Nothing”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–208, §208(e), substituted “Except as expressly provided otherwise in this chapter, nothing” for “Nothing”.
 
 Subsec. (h). Pub. L. 104–208, §208(h)(1)(B), substituted “section 681 of this title” for “subsection (c) or (d) of section 681 of this title” in pars. (1) to (3).
 
-1994—Subsec. (h). Pub. L. 103–403 added subsec. (h).
+<b>1994</b>—Subsec. (h). Pub. L. 103–403 added subsec. (h).
 
-1992—Subsec. (b). Pub. L. 102–366, §408(c), inserted “with outstanding financings” after “Such companies” in third sentence.
+<b>1992</b>—Subsec. (b). Pub. L. 102–366, §408(c), inserted “with outstanding financings” after “Such companies” in third sentence.
 
 Subsec. (g)(3). Pub. L. 102–366, §417(a), added par. (3).
 
-1986—Subsec. (g)(2)(J). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (g)(2)(J). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1985—Subsec. (i)(2). Pub. L. 99–226, §1(a), substituted “the maximum rate prescribed by regulation by the Administration for loans made by any licensee (determined without regard to any State rate incorporated by such regulation).” for “the lowest of the rates described in subparagraphs (A), (B), and (C)” and struck out subpars. (A), (B), and (C) which described the rates.
+<b>1985</b>—Subsec. (i)(2). Pub. L. 99–226, §1(a), substituted “the maximum rate prescribed by regulation by the Administration for loans made by any licensee (determined without regard to any State rate incorporated by such regulation).” for “the lowest of the rates described in subparagraphs (A), (B), and (C)” and struck out subpars. (A), (B), and (C) which described the rates.
 
 Subsec. (i)(3). Pub. L. 99–226, §1(b), substituted “paragraph (2)” for “paragraph (2)(B)”.
 
-1980—Subsec. (h). Pub. L. 96–221, §529, repealed Pub. L. 96–104 and title II of Pub. L. 96–161, resulting in the striking out of subsec. (h) which related to the limitation on interest rates, overcharges, forfeitures, and the recovery of interest payments. See subsec. (i) of this section for successor provisions. See also Codification and 1979 Amendment notes under this section.
+<b>1980</b>—Subsec. (h). Pub. L. 96–221, §529, repealed Pub. L. 96–104 and title II of Pub. L. 96–161, resulting in the striking out of subsec. (h) which related to the limitation on interest rates, overcharges, forfeitures, and the recovery of interest payments. See subsec. (i) of this section for successor provisions. See also Codification and 1979 Amendment notes under this section.
 
 Subsec. (i). Pub. L. 96–221, §524, added subsec. (i).
 
-1979—Subsec. (h). Pub. L. 96–161 reenacted subsec. (h) \[as added by Pub. L. 96–104\] with three substitutions of dates: in par. (3)(A) “in the case of a State statute, July 1, 1980” was substituted for “July 1, 1981”, in par. (3)(B) “December 28, 1979” was substituted for “November 5, 1979”, and in par. (3)(C) “December 28, 1979” was substituted for “November 5, 1979”.
+<b>1979</b>—Subsec. (h). Pub. L. 96–161 reenacted subsec. (h) \[as added by Pub. L. 96–104\] with three substitutions of dates: in par. (3)(A) “in the case of a State statute, July 1, 1980” was substituted for “July 1, 1981”, in par. (3)(B) “December 28, 1979” was substituted for “November 5, 1979”, and in par. (3)(C) “December 28, 1979” was substituted for “November 5, 1979”.
 
 Pub. L. 96–104 added subsec. (h). A prior subsec. (h), also relating to limitation on interest rates, overcharges, forfeitures, and the recovery of interest payments, was repealed by section 1 of Pub. L. 96–104.
 
-1978—Subsec. (b). Pub. L. 95–507 inserted provisions authorizing small business investment companies to invest funds not reasonably needed for their operations in certificates of deposit maturing within one year or less issued by particular insured institutions and savings accounts of institutions insured by the Federal Deposit Insurance Corporation.
+<b>1978</b>—Subsec. (b). Pub. L. 95–507 inserted provisions authorizing small business investment companies to invest funds not reasonably needed for their operations in certificates of deposit maturing within one year or less issued by particular insured institutions and savings accounts of institutions insured by the Federal Deposit Insurance Corporation.
 
-1974—Subsec. (h). Pub. L. 93–501 added subsec. (h).
+<b>1974</b>—Subsec. (h). Pub. L. 93–501 added subsec. (h).
 
-1967—Subsec. (g). Pub. L. 90–104 designated existing provisions as par. (1) and added par. (2).
+<b>1967</b>—Subsec. (g). Pub. L. 90–104 designated existing provisions as par. (1) and added par. (2).
 
-1966—Subsec. (c). Pub. L. 89–779, §3(1), struck out provisions subjecting each small business investment company to examinations by examiners approved by the Administration and requiring the submission of reports by the companies. See section 687b(b) of this title.
+<b>1966</b>—Subsec. (c). Pub. L. 89–779, §3(1), struck out provisions subjecting each small business investment company to examinations by examiners approved by the Administration and requiring the submission of reports by the companies. See section 687b(b) of this title.
 
 Subsecs. (f), (g). Pub. L. 89–799, §3(2), added subsecs. (f) and (g).
 
-1964—Subsec. (b). Pub. L. 88–273 authorized investment of funds in insured savings accounts (up to the amount of insurance) in institutions insured by the Federal Savings and Loan Insurance Corporation.
+<b>1964</b>—Subsec. (b). Pub. L. 88–273 authorized investment of funds in insured savings accounts (up to the amount of insurance) in institutions insured by the Federal Savings and Loan Insurance Corporation.
 
-1961—Subsec. (a). Pub. L. 87–341, §8, substituted “investors or lenders” for “financial institutions” wherever appearing, and provided that these investors or lenders can be either incorporated or unincorporated.
+<b>1961</b>—Subsec. (a). Pub. L. 87–341, §8, substituted “investors or lenders” for “financial institutions” wherever appearing, and provided that these investors or lenders can be either incorporated or unincorporated.
 
 Subsec. (b). Pub. L. 87–341, §11(c), substituted “operating under the provisions of this chapter” for “organized under this chapter”.
 

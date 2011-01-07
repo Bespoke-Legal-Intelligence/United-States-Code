@@ -12,5 +12,5 @@ Another prior section 1902, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1215, rela
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 702 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 702 of this title as this section.
 

@@ -8,7 +8,7 @@
 
 #### References in Text
 
-The Cotton Research and Promotion Amendments Act of 1990, referred to in subsec. (b), probably means the Cotton Research and Promotion Act Amendments of 1990, subtitle G \[§§1990–1998\] of title XIX of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3909, which amended sections 2101, 2106 to 2110, and 2116 of this title and enacted provisions set out as notes under section 2101 of this title. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 2101 of this title and Tables.
+The Cotton Research and Promotion Amendments Act of 1990, referred to in subsec. (b), probably means the Cotton Research and Promotion Act Amendments of 1990, subtitle G \[§§1990–1998\] of title XIX of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3909, which amended sections 2101, 2106 to 2110, and 2116 of this title and enacted provisions set out as notes under section 2101 of this title. For complete classification of this Act to theCode, see Short Title of 1990 Amendment note set out under section 2101 of this title and Tables.
 
 #### Amendments
 

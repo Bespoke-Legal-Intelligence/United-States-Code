@@ -18,5 +18,5 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 
 #### Amendments
 
-1983—Pub. L. 98–141 substituted “$13,903,000” for “$7,903,000”.
+<b>1983</b>—Pub. L. 98–141 substituted “$13,903,000” for “$7,903,000”.
 

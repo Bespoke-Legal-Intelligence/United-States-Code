@@ -6,5 +6,5 @@ In furnishing assistance to Yugoslavia, the President shall continuously assure 
 
 #### Amendments
 
-1957—Pub. L. 85–141 required the President to continuously assure himself that Yugoslavia continues to maintain its independence, that she is not participating in any policy or program for the Communist conquest of the world, and that the furnishing of assistance is in the interest of national security, and provided that certain committees of the Senate and the Speaker of the House of Representatives should be constantly informed of assistance furnished.
+<b>1957</b>—Pub. L. 85–141 required the President to continuously assure himself that Yugoslavia continues to maintain its independence, that she is not participating in any policy or program for the Communist conquest of the world, and that the furnishing of assistance is in the interest of national security, and provided that certain committees of the Senate and the Speaker of the House of Representatives should be constantly informed of assistance furnished.
 

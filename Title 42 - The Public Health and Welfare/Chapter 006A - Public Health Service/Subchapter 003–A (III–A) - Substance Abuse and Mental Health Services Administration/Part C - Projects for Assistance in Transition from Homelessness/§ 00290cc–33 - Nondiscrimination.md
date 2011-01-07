@@ -38,5 +38,5 @@ The Civil Rights Act of 1964, referred to in subsecs. (a)(1) and (b)(1)(B), is P
 
 #### Amendments
 
-1990—Pub. L. 101–645 amended section generally, substituting provisions relating to nondiscrimination for provision relating to establishment of prohibition against making certain false statements.
+<b>1990</b>—Pub. L. 101–645 amended section generally, substituting provisions relating to nondiscrimination for provision relating to establishment of prohibition against making certain false statements.
 

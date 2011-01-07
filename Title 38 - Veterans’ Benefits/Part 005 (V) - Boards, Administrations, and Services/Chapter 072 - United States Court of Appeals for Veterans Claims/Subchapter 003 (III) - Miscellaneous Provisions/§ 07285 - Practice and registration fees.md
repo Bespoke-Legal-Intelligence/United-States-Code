@@ -16,19 +16,19 @@
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–389 inserted “reasonable” after “impose a” in two places and struck out “, except that such amount may not exceed $30 per year” after “by the Court”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–389 inserted “reasonable” after “impose a” in two places and struck out “, except that such amount may not exceed $30 per year” after “by the Court”.
 
-2001—Pub. L. 107–103, §604(c)(1), substituted “Practice and registration fees” for “Practice fee” in section catchline.
+<b>2001</b>—Pub. L. 107–103, §604(c)(1), substituted “Practice and registration fees” for “Practice fee” in section catchline.
 
 Subsec. (a). Pub. L. 107–103, §604(a), inserted at end “The Court may also impose a registration fee on persons (other than judges of the Court) participating at judicial conferences convened pursuant to section 7286 of this title or in any other court-sponsored activity.”
 
 Subsec. (b). Pub. L. 107–103, §604(b), substituted “for the following purposes:” and pars. (1) and (2) for “for the purposes of (1) employing independent counsel to pursue disciplinary matters, and (2) defraying administrative costs for the implementation of the standards of proficiency prescribed for practice before the Court.”
 
-1998—Subsec. (a). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-1991—Pub. L. 102–40 renumbered section 4085 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4085 of this title as this section.
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
+Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov.11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 

@@ -68,7 +68,15 @@
 
 &emsp;(D) “appropriate regulatory agency” has the meaning prescribed in section 3(a)(34)(G) of the Securities Exchange Act of 1934.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 944; Pub. L. 97–452, §1(9), Jan. 12, 1983, 96 Stat. 2468; Pub. L. 99–571, title II, §201(a), Oct. 28, 1986, 100 Stat. 3222.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 944; Pub. L. 97–452, §1(9), Jan. 12, 1983, 96 Stat. 2468; Pub. L. 99–571, title II, §201(a), Oct. 28, 1986, 100 Stat. 3222; Pub. L. 111–147, title V, §502(d), Mar. 18, 2010, 124 Stat. 108.)
+
+#### Amendment of Subsection (g)
+
+<i>Pub. L. 111–147, title V, §502(d), (f), Mar. 18, 2010, 124 Stat. 108, provided that, applicable to obligations issued after the date which is 2 years after Mar. 18, 2010, subsection (g) of this section is amended as follows:</i>
+
+<i>(1) in paragraph (1), by adding “or” at the end of subparagraph (A), by striking “; or” at the end of subparagraph (B) and inserting a period, and by striking subparagraph (C); and</i>
+
+<i>(2) by striking paragraph (2) and by redesignating paragraphs (3) and (4) as paragraphs (2) and (3), respectively.</i>
 
 Historical and Revision Notes<br>1982
 
@@ -188,7 +196,7 @@ In subsection (g)(4), the words “or chain of nominees” are omitted as includ
 
 Section 8(b) or (c) of the Federal Deposit Insurance Act, referred to in subsec. (h)(2), is classified to section 1818(b), (c) of Title 12, Banks and Banking.
 
-Section 5(d)(2) or 5(d)(3) of the Home Owners’ Loan Act of 1933, referred to in subsec. (h)(2), is classified tosection 1464(d)(2), (3) of Title 12, but was amended generally by Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 282, and no longer relates to issuance of orders. See section 1464(d)(1) of Title 12.
+Section 5(d)(2) or 5(d)(3) of the Home Owners’ Loan Act of 1933, referred to in subsec. (h)(2), is classified to section 1464(d)(2), (3) of Title 12, but was amended generally by Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 282, and no longer relates to issuance of orders. See section 1464(d)(1) of Title 12.
 
 Section 407 of the National Housing Act, referred to in subsec. (h)(2), which was classified to section 1730 of Title 12, was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
 
@@ -196,15 +204,19 @@ Section 206(e) or 206(f) of the Federal Credit Union Act, referred to in subsec.
 
 Clauses (i) through (vi) of section 19(b)(1)(A) of the Federal Reserve Act, referred to in subsec. (h)(5)(A), are classified to cls. (i) through (vi) of section 461(b)(1)(A) of Title 12.
 
-The International Banking Act of 1978, referred to in subsec. (h)(5)(A), is Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, which enacted sections 347d, 611a, and 3101 to 3111 of Title 12, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1829b, 1831b, and 1841 of Title 12, and enacted provisions set out as notes under sections 36, 247, 601, 611a, and 3101 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 12 and Tables.
+The International Banking Act of 1978, referred to in subsec. (h)(5)(A), is Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, which enacted chapter 32 (§3101 et seq.) and sections 347d and 611a of Title 12, Banks and Banking, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1829b, 1831b, and 1841 of Title 12, and enacted provisions set out as notes under sections 36, 247, 601, 611a, and 3101 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 12 and Tables.
 
 Section 3(a)(43), (44), (34)(G), of the Securities Exchange Act of 1934, referred to in subsec. (h)(5)(B) to (D), is classified to section 78c(a)(43), (44), (34)(G) of Title 15, Commerce and Trade.
 
 #### Amendments
 
-1986—Subsec. (h). Pub. L. 99–571 added subsec. (h).
+<b>1986</b>—Subsec. (h). Pub. L. 99–571 added subsec. (h).
 
-1983—Subsec. (g). Pub. L. 97–452 added subsec. (g).
+<b>1983</b>—Subsec. (g). Pub. L. 97–452 added subsec. (g).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–147 applicable to obligations issued after the date which is 2 years after Mar. 18, 2010, see section 502(f) of Pub. L. 111–147, set out as a note under section 149 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1986 Amendment; Promulgation of Regulations
 

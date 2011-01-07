@@ -87,11 +87,11 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 646–6
 
 #### Amendments
 
-1984—Subsec. (a)(13). Pub. L. 98–369 added par. (13).
+<b>1984</b>—Subsec. (a)(13). Pub. L. 98–369 added par. (13).
 
-1980—Subsec. (a)(12). Pub. L. 96–223 added par. (12).
+<b>1980</b>—Subsec. (a)(12). Pub. L. 96–223 added par. (12).
 
-1979—Subsec. (a)(6). Pub. L. 96–39, §807(a)(28)(A), inserted “for manufacturing in such warehouses for export” after “bonded warehouses” and substituted “by law” for “by section 5522(a)”.
+<b>1979</b>—Subsec. (a)(6). Pub. L. 96–39, §807(a)(28)(A), inserted “for manufacturing in such warehouses for export” after “bonded warehouses” and substituted “by law” for “by section 5522(a)”.
 
 Subsec. (a)(9). Pub. L. 96–39, §807(a)(28)(B), struck out “in the case of distilled spirits bottled in bond for export under section 5233 or distilled spirits returned to bonded premises under section 5215(b),” after “payment of tax,”.
 
@@ -101,15 +101,15 @@ Subsec. (a)(11). Pub. L. 96–39, §807(a)(28)(D), added par. (11).
 
 Subsec. (b)(4) to (8). Pub. L. 96–39, §807(a)(28)(E), added par. (4) and redesignated former pars. (4) to (7) as (5) to (8), respectively.
 
-1977—Subsec. (a)(9). Pub. L. 95–176, §3(a), substituted provisions for withdrawal of distilled spirits from bonded premises without payment of tax where the distilled spirits are bottled in bond for export or are returned to bonded premises for transfer (for the purpose of storage pending exportation) to any customs bonded warehouse for exportation and requiring the transferred distilled spirits to be entered, stored, and accounted for, for prior provision for tax free withdrawals for use as samples in making tests or laboratory analyses.
+<b>1977</b>—Subsec. (a)(9). Pub. L. 95–176, §3(a), substituted provisions for withdrawal of distilled spirits from bonded premises without payment of tax where the distilled spirits are bottled in bond for export or are returned to bonded premises for transfer (for the purpose of storage pending exportation) to any customs bonded warehouse for exportation and requiring the transferred distilled spirits to be entered, stored, and accounted for, for prior provision for tax free withdrawals for use as samples in making tests or laboratory analyses.
 
 Subsec. (a)(10). Pub. L. 95–176, §4(a), added par. (10).
 
 Subsec. (b)(7). Pub. L. 95–176, §3(d), added par. (7).
 
-1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary” in introductory provisions and struck out “or Territory” after “State” in par. (2).
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary” in introductory provisions and struck out “or Territory” after “State” in par. (2).
 
-1969—Subsec. (a)(3)(A). Pub. L. 91–172 substituted “section 170(b)(1)(A)(ii)” for “section 503(b)(2)”.
+<b>1969</b>—Subsec. (a)(3)(A). Pub. L. 91–172 substituted “section 170(b)(1)(A)(ii)” for “section 503(b)(2)”.
 
 #### Effective Date of 1984 Amendment
 

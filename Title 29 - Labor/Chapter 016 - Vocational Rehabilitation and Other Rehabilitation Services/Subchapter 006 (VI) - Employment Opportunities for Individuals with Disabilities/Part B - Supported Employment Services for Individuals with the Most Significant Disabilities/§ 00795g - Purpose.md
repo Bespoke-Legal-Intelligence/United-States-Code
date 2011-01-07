@@ -2,7 +2,7 @@
 
 It is the purpose of this part to authorize allotments, in addition to grants for vocational rehabilitation services under subchapter I of this chapter, to assist States in developing collaborative programs with appropriate entities to provide supported employment services for individuals with the most significant disabilities to enable such individuals to achieve the employment outcome of supported employment.
 
-(Pub. L. 93–112, title VI, §621, as added Pub. L. 105–220, title IV, §409, Aug. 7, 1998, 112 Stat. 1214; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(12)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414.)
+(Pub. L. 93–112, title VI, §621, as added Pub. L. 105–220, title IV, §409, Aug. 7, 1998, 112 Stat. 1214;amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(12)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414.)
 
 #### Prior Provisions
 
@@ -12,5 +12,5 @@ A prior section 795g, Pub. L. 93–112, title VI, §621, as added Pub. L. 95–6
 
 #### Amendments
 
-1998—Pub. L. 105–277 made technical amendment to section designation and catchline in original.
+<b>1998</b>—Pub. L. 105–277 made technical amendment to section designation and catchline in original.
 

@@ -62,7 +62,7 @@ Urbanized areas.—In an urbanized area, the local officials shall act through t
 
 &emsp;(5)
 
-Congressional high priority corridors.—Upon the completion of feasibility studies, the Secretary shall add to the National Highway System any congressional high priority corridor or any segment of such a corridor established by section 1105 of the Intermodal Surface Transportation Efficiency Act of 1991 (105 Stat. 2031 et seq.) that was not identified on the National Highway System described in paragraph (1).
+Congressional high priority corridors.—Upon the completion of feasibility studies, the Secretary shall add to the National Highway System any congressional high priority corridor or any segment of such a corridor established by section 1105 of theIntermodal Surface Transportation Efficiency Act of 1991 (105 Stat. 2031 et seq.) that was not identified on the National Highway System described in paragraph (1).
 
 &emsp;(6)
 
@@ -150,7 +150,7 @@ Location.—Highways on the Interstate System shall be located so as—
 
 &emsp;&emsp;(D)
 
-Selection of routes.—To the maximum extent practicable, each route of the Interstate System shall be selected by joint action of the State transportation departments of the State in which the route is located and the adjoining States, in cooperation with local and regional officials, and subject to the approval of the Secretary.
+Selection of routes.—To the maximum extent practicable, each route of theInterstate System shall be selected by joint action of the State transportation departments of the State in which the route is located and the adjoining States, in cooperation with local and regional officials, and subject to the approval of the Secretary.
 
 &emsp;(2)
 
@@ -174,7 +174,7 @@ Designations as future interstate system routes.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—If the Secretary determines that a highway on the National Highway System would be a logical addition or connection to the Interstate System and would qualify for designation as aroute on the Interstate System under subparagraph (A) if the highway met all standards of a highway on the Interstate System, the Secretary may, upon the affirmative recommendation of the State or States in which the highway is located, designate the highway as a future Interstate System route.
+In general.—If the Secretary determines that a highway on the National Highway System would be a logical addition or connection to the Interstate System and would qualify for designation as a route on the Interstate System under subparagraph (A) if the highway met all standards of a highway on the Interstate System, the Secretary may, upon the affirmative recommendation of the State or States in which the highway is located, designate the highway as a future Interstate System route.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -230,7 +230,7 @@ Interstate construction funds not in surplus.—
 
 &emsp;&emsp;(A)
 
-In general.—Upon application by a State and approval by the Secretary, the Secretary may transfer to the apportionment of the State under section 104(b)(1) any amount of funds apportioned to the State under section 104(b)(5)(A) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century), if the amount does not exceed the Federal share of the costs of construction of segments of the Interstate System in the State included in the most recent Interstate System cost estimate.
+In general.—Upon application by a State and approval by the Secretary, the Secretary may transfer to the apportionment of the State under section 104(b)(1) any amount of funds apportioned to the State under section 104(b)(5)(A) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century), if the amount does not exceed theFederal share of the costs of construction of segments of the Interstate System in the State included in the most recent Interstate System cost estimate.
 
 &emsp;&emsp;(B)
 
@@ -244,7 +244,7 @@ Surplus interstate construction funds.—Upon application by a State and approva
 
 Applicability of certain laws.—Funds transferred under this subsection shall be subject to the laws (including regulations, policies, and procedures) relating to the apportionment to which the funds are transferred.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 887; Pub. L. 86–70, §21(d)(1), June 25, 1959, 73 Stat. 145; Pub. L. 86–624, §17(b), (c), July 12, 1960, 74 Stat. 415; Pub. L. 87–866, §8(a), Oct. 23, 1962, 76 Stat. 1147; Pub.L. 90–238, Jan. 2, 1968, 81 Stat. 772; Pub. L. 90–495, §§14, 21, Aug. 23, 1968, 82 Stat. 822, 826; Pub. L. 91–605, title I, §§106(b), 124, Dec. 31, 1970, 84 Stat. 1716, 1729; Pub. L. 93–87, title I, §§109(a), 110(a), (b), 137, 148(a)–(c), (e), Aug. 13, 1973, 87 Stat. 255, 256, 268, 274; Pub. L. 93–643, §125, Jan. 4, 1975, 88 Stat. 2290; Pub. L. 94–280, title I, §§109, 110, 111(a), May 5, 1976, 90 Stat. 431, 433; Pub. L. 95–599, title I, §107(a), (b), (f)(1), Nov. 6, 1978, 92 Stat. 2694, 2695; Pub. L. 96–106, §§1, 2(a), (c), Nov. 9, 1979, 93 Stat. 796; Pub. L. 96–144, §2, Dec. 13, 1979, 93 Stat. 1084; Pub. L. 97–424, title I, §§107(a)–(c)(1), (d), (e), 108(f), Jan. 6, 1983, 96 Stat. 2101–2104; Pub. L. 100–17, title I, §103(b), (f)(1), Apr. 2, 1987, 101 Stat. 136, 141; Pub. L. 102–240, title I, §§1006(a), (b), (d), 1011, title III, §3003(b), Dec. 18, 1991, 105 Stat. 1923, 1925, 1935, 2088; Pub. L. 103–272, §5(f)(1), July 5, 1994, 108 Stat. 1374; Pub. L. 103–429, §§3(1), 7(a)(4)(B), Oct. 31, 1994, 108 Stat. 4377, 4389; Pub. L. 104–59, title I, §101, title III, §301(a), Nov. 28, 1995, 109 Stat. 569, 578; Pub. L. 104–287, §2, Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–178, title I, §1106(b), June 9, 1998, 112 Stat. 131; Pub. L. 109–59, title I, §§1106, 1118(b)(1), title VI, §§6006(a)(1), 6007, Aug. 10, 2005, 119 Stat. 1166, 1181, 1872, 1873.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 887; Pub. L. 86–70, §21(d)(1), June 25, 1959, 73 Stat. 145; Pub. L. 86–624, §17(b), (c), July 12, 1960, 74 Stat. 415; Pub. L. 87–866, §8(a), Oct. 23, 1962, 76 Stat. 1147; Pub. L. 90–238, Jan. 2, 1968, 81 Stat. 772; Pub. L. 90–495, §§14, 21, Aug. 23, 1968, 82 Stat. 822, 826; Pub. L. 91–605, title I, §§106(b), 124, Dec. 31, 1970, 84 Stat. 1716, 1729; Pub. L. 93–87, title I, §§109(a), 110(a), (b), 137, 148(a)–(c), (e), Aug. 13, 1973, 87 Stat. 255, 256, 268, 274; Pub. L. 93–643, §125, Jan. 4, 1975, 88 Stat. 2290; Pub. L. 94–280, title I, §§109, 110, 111(a), May 5, 1976, 90 Stat. 431, 433; Pub. L. 95–599, title I, §107(a), (b), (f)(1), Nov. 6, 1978, 92 Stat. 2694, 2695; Pub. L. 96–106, §§1, 2(a), (c), Nov. 9, 1979, 93 Stat. 796; Pub. L. 96–144, §2, Dec. 13, 1979, 93 Stat. 1084; Pub. L. 97–424, title I, §§107(a)–(c)(1), (d), (e), 108(f), Jan. 6, 1983, 96 Stat. 2101–2104; Pub. L. 100–17, title I, §103(b), (f)(1), Apr. 2, 1987, 101 Stat. 136, 141; Pub. L. 102–240, title I, §§1006(a), (b), (d), 1011, title III, §3003(b), Dec. 18, 1991, 105 Stat. 1923, 1925, 1935, 2088; Pub. L. 103–272, §5(f)(1), July 5, 1994, 108 Stat. 1374; Pub. L. 103–429, §§3(1), 7(a)(4)(B), Oct. 31, 1994, 108 Stat. 4377, 4389; Pub. L. 104–59, title I, §101, title III, §301(a), Nov. 28, 1995, 109 Stat. 569, 578; Pub. L. 104–287, §2, Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–178, title I, §1106(b), June 9, 1998, 112 Stat. 131; Pub. L. 109–59, title I, §§1106, 1118(b)(1), title VI, §§6006(a)(1), 6007, Aug. 10, 2005, 119 Stat. 1166, 1181, 1872, 1873.)
 
 #### References in Text
 
@@ -262,7 +262,7 @@ Another section 1106(b) of Pub. L. 105–178 is set out as a note below.
 
 #### Amendments
 
-2005—Subsec. (b)(6). Pub. L. 109–59, §1118(b)(1)(A), substituted “
+<b>2005</b>—Subsec. (b)(6). Pub. L. 109–59, §1118(b)(1)(A), substituted “
 
 State eligible” for “
 
@@ -282,15 +282,15 @@ Subsec. (c)(4)(B)(iii)(III). Pub. L. 109–59, §1106(b)(2), added subcl. (III).
 
 Subsec. (c)(5). Pub. L. 109–59, §6007, added par. (5).
 
-1998—Pub. L. 105–178 reenacted section catchline without change and amended text generally. Prior to amendment, section related to Federal-aid systems and, in subsec. (a), identified such systems, in subsec. (b), described National Highway System, in subsec. (e), described Interstate Highway System, in subsec. (f), specified authority of Secretary with respect to system, in subsec. (g), provided for removal of certain parts from system, in subsec. (h), authorized Secretary to pay all non-Federal costs of certain parts of system, and in subsec. (i), described eligible projects for National Highway System.
+<b>1998</b>—Pub. L. 105–178 reenacted section catchline without change and amended text generally. Prior to amendment, section related to Federal-aid systems and, in subsec. (a), identified such systems, in subsec. (b), described National Highway System, in subsec. (e), described Interstate Highway System, in subsec. (f), specified authority of Secretary with respect to system, in subsec. (g), provided for removal of certain parts from system, in subsec. (h), authorized Secretary to pay all non-Federal costs of certain parts of system, and in subsec. (i), described eligible projects for National Highway System.
 
-1996—Subsec. (e)(4)(L). Pub. L. 104–287 substituted “
+<b>1996</b>—Subsec. (e)(4)(L). Pub. L. 104–287 substituted “
 
 chapter 53 of title 49” for “
 
 fta” in heading.
 
-1995—Subsec. (b)(3)(C). Pub. L. 104–59, §101(b)(1), substituted “The” for “For purposes of proposing highways for designation to the National Highway System, the”.
+<b>1995</b>—Subsec. (b)(3)(C). Pub. L. 104–59, §101(b)(1), substituted “The” for “For purposes of proposing highways for designation to the National Highway System, the”.
 
 Subsec. (b)(3)(D). Pub. L. 104–59, §101(b)(2), substituted “The” for “In proposing highways for designation to the National Highway System, the” and inserted “on the National Highway System” after “highway mileage”.
 
@@ -298,13 +298,13 @@ Subsec. (b)(5) to (8). Pub. L. 104–59, §101(a), added pars. (5) to (8).
 
 Subsec. (i)(8). Pub. L. 104–59, §301(a), added par. (8) and struck out former par. (8) which read as follows: “Startup costs for traffic management and control if such costs are limited to the time period necessary to achieve operable status but not to exceed 2 years following the date of project approval, if such funds are not used to replace existing funds.”
 
-1994—Subsec. (e)(4)(L)(i). Pub. L. 103–272, §5(f)(1)(A), as amended by Pub. L. 103–429, §7(a)(4)(B), substituted “chapter 53 of title 49” for “the Federal Transit Act”.
+<b>1994</b>—Subsec. (e)(4)(L)(i). Pub. L. 103–272, §5(f)(1)(A), as amended by Pub. L. 103–429, §7(a)(4)(B), substituted “chapter 53 of title 49” for “the Federal Transit Act”.
 
 Subsec. (e)(4)(L)(ii). Pub. L. 103–272, §5(f)(1)(B), as amended by Pub. L. 103–429, §7(a)(4)(B), substituted “section 5323(a)(1)(D) of title 49” for “section 3(e)(4) of the Federal Transit Act”.
 
 Subsec. (i)(3). Pub. L. 103–429, §3(1), substituted “chapter 53 of title 49” for “the Federal Transit Act”.
 
-1991—Subsec. (a). Pub. L. 102–240, §1006(a), added subsec. (a) and struck out former subsec. (a) which established and continued four Federal-aid systems: primary, urban, secondary and Interstate.
+<b>1991</b>—Subsec. (a). Pub. L. 102–240, §1006(a), added subsec. (a) and struck out former subsec. (a) which established and continued four Federal-aid systems: primary, urban, secondary and Interstate.
 
 Subsec. (b). Pub. L. 102–240, §1006(a), added subsec. (b) and struck out former subsec. (b) which related to Federal-aid primary system.
 
@@ -324,13 +324,13 @@ Subsec. (e)(4)(J)(i). Pub. L. 102–240, §1011(b)(1), (2), inserted “and endi
 
 Subsec. (e)(4)(J)(iii). Pub. L. 102–240, §1011(b)(3), (4), substituted “1988–1993” for “1988, 1989, 1990, and 1991” in heading and substituted “1991, 1992, and 1993” for “and 1991” in text.
 
-Subsec. (e)(4)(L). Pub. L. 102–240, §3003(b), substituted “FTA” for “UMTA” in heading and “Federal TransitAct” for “Urban Mass Transportation Act of 1964” in cls. (i) and (ii).
+Subsec. (e)(4)(L). Pub. L. 102–240, §3003(b), substituted “FTA” for “UMTA” in heading and “Federal Transit Act” for “Urban Mass Transportation Act of 1964” in cls. (i) and (ii).
 
 Subsec. (f). Pub. L. 102–240, §1006(b)(2), struck out “the Federal-aid primary system, the Federal-aid secondary system, the Federal-aid urban system, and” before “the Interstate System” and struck out at end “No Federal-aid system or portion thereof shall be eligible for projects in which Federal funds participate until approved by the Secretary.”
 
 Subsec. (i). Pub. L. 102–240, §1006(d), added subsec. (i).
 
-1987—Subsec. (e). Pub. L. 100–17, §103(f)(1)(A)–(D), (H)–(J), inserted heading, indented par. (1) and aligned such par. and pars. (2), (3), and (5) to (9) with par. (4), as amended, and inserted headings for pars. (1) to (3), (8), and (9).
+<b>1987</b>—Subsec. (e). Pub. L. 100–17, §103(f)(1)(A)–(D), (H)–(J), inserted heading, indented par. (1) and aligned such par. and pars. (2), (3), and (5) to (9) with par. (4), as amended, and inserted headings for pars. (1) to (3), (8), and (9).
 
 Subsec. (e)(4). Pub. L. 100–17, §103(b), amended par. (4) generally, revising and restating as subpars. (A) to (P) provisions formerly contained in a single paragraph.
 
@@ -340,7 +340,7 @@ Subsec. (e)(6). Pub. L. 100–17, §103(f)(1)(F), (K), inserted heading, aligned
 
 Subsec. (e)(7). Pub. L. 100–17, §103(f)(1)(G), inserted heading and substituted “are to be applied.” for “are to be applied; and”.
 
-1983—Subsec. (b)(1). Pub. L. 97–424, §108(f), substituted “Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands” for “or Puerto Rico” after “Hawaii, Alaska,”.
+<b>1983</b>—Subsec. (b)(1). Pub. L. 97–424, §108(f), substituted “Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands” for “or Puerto Rico” after “Hawaii, Alaska,”.
 
 Subsec. (e)(4). Pub. L. 97–424, §107(a)(1), struck out eighth sentence and substituted provision relating to authorizations and apportionment of funds for fiscal years ending Sept. 30, 1983, through Sept. 30, 1986, and relating to substitute highway projects and substitute transit projects for provision that there were authorized to be appropriated for liquidation of the obligations incurred under this paragraph such sums as might be necessary out of the general fund of the Treasury.
 
@@ -360,7 +360,7 @@ Pub. L. 97–424, §107(e)(1), struck out “which is within an urbanized area o
 
 Pub. L. 97–424, §107(e)(2), substituted “which will serve the area or areas from which the interstate route or portion thereof was withdrawn, which are selected by the responsible local officials of the area or areas to be served, and which are selected by the Governor or the Governors of the State or the States in which the withdrawn route was located if the withdrawn route was not within an urbanized area or did not pass through and connect urbanized areas, and which are submitted by the Governors of the States in which the withdrawn route was located”, for “which will serve the urbanized area and the connecting nonurbanized area corridor from which the interstate route or portion thereof was withdrawn, which are selected by the responsible local officials of the urbanized area or area to be served, and which are submitted by the Governor of the State in which the withdrawn route was located”, after “section 103 of this title; or both,” in second sentence.
 
-1979—Subsec. (e)(4). Pub. L. 96–144 provided that after Sept. 30, 1979, the Secretary shall not withdraw his approval under par. (4) of any route or portion thereof on the Interstate System open to traffic before the date of the proposed withdrawal, and that any withdrawal of approval of any such route or portion thereof before Sept. 30, 1979, is determined to be authorized by par. (4).
+<b>1979</b>—Subsec. (e)(4). Pub. L. 96–144 provided that after Sept. 30, 1979, the Secretary shall not withdraw his approval under par. (4) of any route or portion thereof on the Interstate System open to traffic before the date of the proposed withdrawal, and that any withdrawal of approval of any such route or portion thereof before Sept. 30, 1979, is determined to be authorized by par. (4).
 
 Pub. L. 96–106, §1, inserted provision that the preceding sentence not apply to a designation made under section 139 of this title.
 
@@ -368,13 +368,13 @@ Subsec. (e)(5). Pub. L. 96–106, §2(a), inserted “, in the case of any with
 
 Subsec. (e)(6) to (9). Pub. L. 96–106, §2(c), added pars. (6) and (7) and redesignated former pars. (6) and (7) as (8) and (9), respectively.
 
-1978—Subsec. (e)(2). Pub. L. 95–599, §107(a)(1), substituted provisions relating to the deadline for designation of Interstate routes for provisions relating to maximum costs of all mileage and granting of preferences.
+<b>1978</b>—Subsec. (e)(2). Pub. L. 95–599, §107(a)(1), substituted provisions relating to the deadline for designation of Interstate routes for provisions relating to maximum costs of all mileage and granting of preferences.
 
 Subsec. (e)(4). Pub. L. 95–599, §107(a)(2), (b), (f)(1)(A), substituted provision setting the maximum Federal share at 85 per cent of the cost of the substitute project for provision stating that the share would be determined in accordance with section 120 of this title, inserted provisions relating to deadline for approval by Secretary and designation of mileage, and struck out provision relating to withdrawal of approval.
 
 Subsec. (e)(5) to (7). Pub. L. 95–599, §107(f)(1)(B), (C), redesignated par. (5) as (7) and added pars. (5) and (6).
 
-1976—Subsec. (e)(2). Pub. L. 94–280, §§109(a), 111(a), struck out from second sentence “prior to the enactment of this paragraph” after “with this title,” and in fourth sentence, substituted provision respecting limitation of cost to United States for aggregate of mileage for route withdrawals which read as follows: “or if the cost of any such withdrawn route was not included in such 1972 Interstate System cost estimate, the cost of such withdrawn route as set forth in the last Interstate System cost estimate before such 1972 cost estimate which was approved by Congress and which included the cost of such withdrawn route, increased or decreased, as the case may be, as determined by the Secretary, based on changes in construction costs of such route or portion thereof, which, (i) in the case of a withdrawn route the cost of which was not included in the 1972 cost estimate but in an earlier cost estimate, have occurred between such earlier cost estimate and the date of enactment of the Federal-Aid Highway Act of 1976, and (ii) in the case of a withdrawn route the cost of which was included in the 1972 cost estimate, have occurred between the 1972 cost estimate and the date of enactment of the Federal-Aid Highway Act of1976, or the date of withdrawal of approval, whichever date is later, and in each case costs shall be based on that design of such route or portion thereof which is the basis of the applicable cost estimate” for “increased or decreased, as the case may be, as determined by the Secretary, based on changes in construction costs of such route or portion thereof as of the date of withdrawal of approval under this paragraph and in accordance with that design of such route or portion thereof which is the basis of such 1972 cost estimate.”
+<b>1976</b>—Subsec. (e)(2). Pub. L. 94–280, §§109(a), 111(a), struck out from second sentence “prior to the enactment of this paragraph” after “with this title,” and in fourth sentence, substituted provision respecting limitation of cost to United States for aggregate of mileage for route withdrawals which read as follows: “or if the cost of any such withdrawn route was not included in such 1972 Interstate System cost estimate, the cost of such withdrawn route as set forth in the last Interstate System cost estimate before such 1972 cost estimate which was approved by Congress and which included the cost of such withdrawn route, increased or decreased, as the case may be, as determined by the Secretary, based on changes in construction costs of such route or portion thereof, which, (i) in the case of a withdrawn route the cost of which was not included in the 1972 cost estimate but in an earlier cost estimate, have occurred between such earlier cost estimate and the date of enactment of the Federal-Aid Highway Act of 1976, and (ii) in the case of a withdrawn route the cost of which was included in the 1972 cost estimate, have occurred between the 1972 cost estimate and the date of enactment of the Federal-Aid Highway Act of 1976, or the date of withdrawal of approval, whichever date is later, and in each case costs shall be based on that design of such route or portion thereof which is the basis of the applicable cost estimate” for “increased or decreased, as the case may be, as determined by the Secretary, based on changes in construction costs of such route or portion thereof as of the date of withdrawal of approval under this paragraph and in accordance with that design of such route or portion thereof which is the basis of such 1972 cost estimate.”
 
 Subsec. (e)(4). Pub. L. 94–280, §110(a), in revising par. (4), substituting provisions set out in text for prior provisions set out in note hereunder, among other changes: authorized the Secretary to withdraw approval of route or portion thereof on Interstate System which passes through and connects urbanized areas within a State and to incur obligations for Federal share of projects authorized under any highway assistance program under section 103 of this title; provided for determination of Federal share of substitute projects as provided in section 120 of this title applicable to the highway program of which the substitute project is a part; made specific reference to section 4 of, for prior general reference to, Urban Mass Transportation Act of 1964, as source of Federal share for mass transit projects; authorized sums available for obligation to remain available until obligated; made sums obligated for mass transit projects part of, to be administered through, Urban Mass Transportation Fund; authorized appropriations out of general fund of the Treasury for liquidation of obligations incurred under this paragraph; made amended par. (4) effective Aug. 13, 1973; and deleted provisions making route withdrawn mileage available for designation on Interstate System in any other State, prohibition against obligation under this paragraph of general funds after June 30, 1981, and requirement that for nonhighway public mass transit project, the Secretary receive State assurance that public mass transportation system will fully utilize the proposed project.
 
@@ -382,9 +382,9 @@ Pub. L. 94–280, §110(b), inserted provision for application of sums to a perm
 
 Subsec. (e)(5). Pub. L. 94–280, §109(b), added par. (5).
 
-1975—Subsec. (e)(2), (4). Pub. L. 93–643 inserted “, increased or decreased, as the case may be, as determined by the Secretary, based on changes in construction costs of such route or portion thereof as of the date of withdrawal of approval under this paragraph and in accordance with that design of such route or portion thereof which is the basis of such 1972 cost estimate” after “House Report Numbered 92–1443”.
+<b>1975</b>—Subsec. (e)(2), (4). Pub. L. 93–643 inserted “, increased or decreased, as the case may be, as determined by the Secretary, based on changes in construction costs of such route or portion thereof as of the date of withdrawal of approval under this paragraph and in accordance with that design of such route or portion thereof which is the basis of such 1972 cost estimate” after “House Report Numbered 92–1443”.
 
-1973—Subsec. (b). Pub. L. 93–87, §148(a), designated existing provisions as par. (1) and added par. (2).
+<b>1973</b>—Subsec. (b). Pub. L. 93–87, §148(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (c). Pub. L. 93–87, §148(b), (e), designated existing provisions as par. (1), inserted “access roads to airports,” after “local rural roads”, and added par. (2).
 
@@ -400,7 +400,7 @@ Subsec. (g). Pub. L. 93–87, §110(a), substituted first sentence reading “th
 
 Subsec. (h). Pub. L. 93–87, §110(b), added subsec. (h).
 
-1970—Subsec. (a). Pub. L. 91–605, §106(b)(3), substituted “four” for “three” and added the urban system to the list of Federal-aid systems.
+<b>1970</b>—Subsec. (a). Pub. L. 91–605, §106(b)(3), substituted “four” for “three” and added the urban system to the list of Federal-aid systems.
 
 Subsecs. (b), (c). Pub. L. 91–605, §106(b)(1), substituted “subsection (f)” for “subsection (e)”.
 
@@ -410,7 +410,7 @@ Subsec. (f). Pub. L. 91–605, §106(b)(1), (2), redesignated former subsec. (e)
 
 Subsec. (g). Pub. L. 91–605, §124, added subsec. (g).
 
-1968—Subsec. (d)(1). Pub. L. 90–495, §14(a), inserted provision making allowance for an exception in pars. (2) and (3) to the forty-one thousand mile total extent of the Interstate system.
+<b>1968</b>—Subsec. (d)(1). Pub. L. 90–495, §14(a), inserted provision making allowance for an exception in pars. (2) and (3) to the forty-one thousand mile total extent of the Interstate system.
 
 Subsec. (d)(2). Pub. L. 90–495, §21, substituted “1968 Interstate System cost estimate set forth in House Document Numbered 199, Ninetieth Congress, as revised” for “1965 Interstate System cost estimate set forth in House Document Numbered 42, Eighty-ninth Congress”.
 
@@ -418,11 +418,11 @@ Subsec. (d)(3). Pub. L. 90–495, §14(b), added par. (3).
 
 Subsec. (d). Pub. L. 90–238 redesignated existing provision as par. (1) and added par. (2).
 
-1962—Subsec. (c). Pub. L. 87–866 substituted “This system may be located both in rural and urban areas, but any extension of the system into urban areas shall be subject to the condition that such extension pass through the urban area or connect with another Federal-aid system within the urban area” for “This system shall be confined to rural areas, except (1) that in any State having a population density of more than two hundred per square mile as shown by the latest available Federal census, the system may include mileage in urban areas as well as rural, and (2) that the system may be extended into urban areas subject to the conditions that any such extension passes through the urban area or connects with another Federal-aid system within the urban area, and that Federal participation in projects on such extensions is limited to urban funds”.
+<b>1962</b>—Subsec. (c). Pub. L. 87–866 substituted “This system may be located both in rural and urban areas, but any extension of the system into urban areas shall be subject to the condition that such extension pass through the urban area or connect with another Federal-aid system within the urban area” for “This system shall be confined to rural areas, except (1) that in any State having a population density of more than two hundred per square mile as shown by the latest available Federal census, the system may include mileage in urban areas as well as rural, and (2) that the system may be extended into urban areas subject to the conditions that any such extension passes through the urban area or connects with another Federal-aid system within the urban area, and that Federal participation in projects on such extensions is limited to urban funds”.
 
-1960—Subsec. (d). Pub. L. 86–624, §17(c), substituted “within the United States, including the District of Columbia, and” for “within the continental United States and”, and inserted “to the greatest extent possible” in two places.
+<b>1960</b>—Subsec. (d). Pub. L. 86–624, §17(c), substituted “within the United States, including the District of Columbia, and” for “within the continental United States and”, and inserted “to the greatest extent possible” in two places.
 
-1959—Subsec. (f). Pub. L. 86–70 repealed subsec. (f) which related to determination of roads in the Territory of Alaska on which Federal-aid funds could be expended.
+<b>1959</b>—Subsec. (f). Pub. L. 86–70 repealed subsec. (f) which related to determination of roads in the Territory of Alaska on which Federal-aid funds could be expended.
 
 Subsec. (g). Pub. L. 86–624, §17(b), repealed subsec. (g) which provided that the systems of highways on which funds apportioned to the Territory of Hawaii under this chapter shall be expended may be determined and agreed upon by the Governor of said Territory and the Secretary.
 
@@ -588,7 +588,7 @@ Section 103(c) of Pub. L. 100–17 provided that:
 
 “(1)
 
-Increase in cost to complete.—The cost of completing substitute transit projects under section 103(e)(4)(B) of title 23, United States Code, is increased by $100,000,000.
+Increase in cost to complete.—The cost of completing substitute transit projects under section103(e)(4)(B) of title 23, United States Code, is increased by $100,000,000.
 
 “(2)
 
@@ -622,7 +622,7 @@ Section 111(b) of Pub. L. 94–280 provided that: “The amendment made by subse
 
 #### Interstate System Subsection (e)(4) Provisions in Effect Prior to Amendment by Pub. L. 94–280, §110; Route Withdrawals Within Urbanized Areas; Availability of Mileage in Other States; Public Mass Transit Nonhighway Projects; General Funds Unavailable for Obligation after June 30, 1981; Supplementary Funds; Urban Mass Transportation Provisions Applicable
 
-Section 103(e)(4) of this title, as added Pub. L. 93–87, title I, §137(b), Aug. 13, 1973, 87 Stat. 269, and amended Pub. L. 93–643, §125(b), Jan. 4, 1975, 88 Stat. 2290, read prior to amendment by section 110 of Pub. L. 94–280 \[set out in the text\] as follows: “Upon the joint request of a State Governor and the local governments concerned, the Secretary may withdraw his approval of any route or portion thereof on the Interstate System within any urbanized area in that State selected and approved in accordance with this title prior to the enactment of this paragraph, if he determines that such route or portion thereof is not essential to completion of a unified and connected Interstate System or will no longer be essential by reason of the application of this paragraph and will not be constructed as a part of the Interstate System, and if he receives assurances that the State does not intend to construct a toll road in the traffic corridor which would be served by such route or portion thereof. The mileage of the route or portion thereof approval of which is withdrawn under this paragraph shall be available for designation on the Interstate System in any other State in accordance with paragraph (1) of this subsection. After the Secretary has withdrawn his approval of any such route or portion thereof, whenever responsible local officials of such urbanized area notify the State highway department that, in lieu of a route or portion thereof approval for which is withdrawn under this paragraph, their needs require a nonhighway public mass transit project involving the construction of fixed rail facilities, or the purchase of passenger equipment, including rolling stock for any mode of mass transit, or both, and the State highway department determines that such public mass transit project is in accordance with the planning process under section 134 of this title and is entitled to priority under such planning process, such public mass transit project shall be submitted for approval to the Secretary. Approval of the plans, specifications, and estimates for such project by the Secretary shall be deemed a contractual obligation of the United States for payment out of the general funds in the Treasury of its proportional share of the cost of such project in an amount equal to the Federal share which would be paid for such a project under the Urban Mass Transportation Act of 1964 \[section 1601 et seq. of Title 49, Transportation\], except that the total Federal cost of all such projects under this paragraph with respect to such route or portion thereof approval of which is withdrawn under this paragraph, shall not exceed the Federal share of the cost which would have been paid for such route or portion thereof, as such cost is included in the 1972 Interstate System cost estimate set forth in table 5 of House Public Works Committee Print Numbered 92–29, as revised in House Report Numbered 92–1443, increased or decreased, as the case may be, as determined by the Secretary, based on changes in construction costs of such route or portion thereof as of the date of withdrawal of approval under this paragraph and in accordance with that design of such route or portion thereof which is the basis of such 1972 cost estimate. Funds apportioned to such State for the Interstate System, which apportionment is based upon an Interstate System cost estimate that includes a route or portion thereof approval of which is withdrawn under this paragraph, shall be reduced by an amount equal to the Federal share of such project as such share becomes a contractual obligation of the United States. No generalfunds shall be obligated under authority of this paragraph after June 30, 1981. No nonhighway public mass transit project shall be approved under this paragraph unless the Secretary has received assurances satisfactory to him from the State that public mass transportation systems will fully utilize the proposed project. The provision of assistance under this paragraph shall not be construed as bringing within the application of chapter 15 of title 5, United States Code \[section 1501 et seq. of Title 5, Government Organization and Employees\], any nonsupervisory employee of an urban mass transportation system (or of any other agency or entity performing related functions) to whom such chapter is otherwise inapplicable. Funds available for expenditure to carry out the purposes of this paragraph shall be supplementary to and not in substitution for funds authorized and available for obligation pursuant to the Urban Mass Transportation Act of 1964, as amended \[section 1601 et seq. of Title 49, Transportation\]. The provisions of section 3(e)(4) of the Urban Mass Transportation Act of 1964, as amended, \[section 1602 (e)(4) of Title 49\], shall apply in carrying out this paragraph.”
+Section 103(e)(4) of this title, as added Pub. L. 93–87, title I, §137(b), Aug. 13, 1973, 87 Stat. 269, and amended Pub. L. 93–643, §125(b), Jan. 4, 1975, 88 Stat. 2290, read prior to amendment by section 110 of Pub. L. 94–280 \[set out in the text\] as follows: “Upon the joint request of a State Governor and the local governments concerned, the Secretary may withdraw his approval of any route or portion thereof on the Interstate System within any urbanized area in that State selected and approved in accordance with this title prior to the enactment of this paragraph, if he determines that such route or portion thereof is not essential to completion of a unified and connected Interstate System or will no longer be essential by reason of the application of this paragraph and will not be constructed as a part of the Interstate System, and if he receives assurances that the State does not intend to construct a toll road in the traffic corridor which would be served by such route or portion thereof. The mileage of the route or portion thereof approval of which is withdrawn under this paragraph shall be available for designation on the Interstate System in any other State in accordance with paragraph (1) of this subsection. After the Secretary has withdrawn his approval of any such route or portion thereof, whenever responsible local officials of such urbanized area notify the State highway department that, inlieu of a route or portion thereof approval for which is withdrawn under this paragraph, their needs require a nonhighway public mass transit project involving the construction of fixed rail facilities, or the purchase of passenger equipment, including rolling stock for any mode of mass transit, or both, and the State highway department determines that such public mass transit project is in accordance with the planning process under section 134 of this title and is entitled to priority under such planning process, such public mass transit project shall be submitted for approval to the Secretary. Approval of the plans, specifications, and estimates for such project by the Secretary shall be deemed a contractual obligation of the United States for payment out of the general funds in the Treasury of its proportional share of the cost of such project in an amount equal to the Federal share which would be paid for such a project under the Urban Mass Transportation Act of 1964 \[section 1601 et seq. of Title 49, Transportation\], except that the total Federal cost of all such projects under this paragraph with respect to such route or portion thereof approval of which is withdrawn under this paragraph, shall not exceed the Federal share of the cost which would have been paid for such route or portion thereof, as such cost is included in the 1972 Interstate System cost estimate set forth in table 5 of House Public Works Committee Print Numbered 92–29, as revised in House Report Numbered 92–1443, increased or decreased, as the case may be, as determined by the Secretary, based on changes in construction costs of such route or portion thereof as of the date of withdrawal of approval under this paragraph and in accordance with that design of such route or portion thereof which is the basis of such 1972 cost estimate. Funds apportioned to such State for the Interstate System, which apportionment is based upon an Interstate System cost estimate that includes a route or portion thereof approval of which is withdrawn under this paragraph, shall be reduced by an amount equal to the Federal share of such project as such share becomes a contractual obligation of the United States. No general funds shall be obligated under authority of this paragraph after June 30, 1981. No nonhighway public mass transit project shall be approved under this paragraph unless the Secretary has received assurances satisfactory to him from the State that public mass transportation systems will fully utilize the proposed project. The provision of assistance under this paragraph shall not be construed as bringing within the application of chapter 15 of title 5, United States Code \[section 1501 et seq. of Title 5, Government Organization and Employees\], any nonsupervisory employee of an urban mass transportation system (or of any other agency or entity performing related functions) to whom such chapter is otherwise inapplicable. Funds available for expenditure to carry out the purposes of this paragraph shall be supplementary to and not in substitution for funds authorized and available for obligation pursuant to the Urban Mass Transportation Act of 1964, as amended \[section 1601 et seq. of Title 49, Transportation\]. The provisions of section 3(e)(4) of the Urban Mass Transportation Act of 1964, as amended, \[section 1602 (e)(4) of Title 49\], shall apply in carrying out this paragraph.”
 
 #### Basis of Federal-Aid Systems Realignment
 

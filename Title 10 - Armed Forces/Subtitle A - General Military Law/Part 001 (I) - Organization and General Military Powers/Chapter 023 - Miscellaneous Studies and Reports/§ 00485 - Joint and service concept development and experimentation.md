@@ -98,13 +98,13 @@ Coordination and Support.—The Secretary of Defense shall ensure that the Secre
 
 #### Amendments
 
-2008—Pub. L. 110–417 amended section generally. Prior to amendment, section related to annual reports on the conduct of joint experimentation activities and contents of each report.
+<b>2008</b>—Pub. L. 110–417 amended section generally. Prior to amendment, section related to annual reports on the conduct of joint experimentation activities and contents of each report.
 
-2001—Subsec. (b)(4)(E). Pub. L. 107–107, §922(1), inserted “(by lease or by purchase)” after “acquire” and “(including any prototype)” after “or equipment”.
+<b>2001</b>—Subsec. (b)(4)(E). Pub. L. 107–107, §922(1), inserted “(by lease or by purchase)” after “acquire” and “(including any prototype)” after “or equipment”.
 
 Subsec. (b)(6). Pub. L. 107–107, §922(2), added par. (6).
 
-1999—Subsec. (a). Pub. L. 106–65, §1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–65, §1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
 Subsec. (b)(5). Pub. L. 106–65, §931, added par. (5).
 
@@ -174,7 +174,7 @@ Congressional Review.—It is, further, the sense of Congress that Congress—
 
 &emsp;&emsp;“(A) establish an appropriate organization to conduct the mission described in subsection (a); and
 
-&emsp;&emsp;“(B) provide to the commander given the responsibility for that mission appropriate and sufficient resources for joint warfighting experimentation and the appropriate authority to execute that commander's assigned responsibilities for that mission, including the authorities specified in subsection (b).
+&emsp;&emsp;“(B) provide to the commander given the responsibility for that mission appropriate and sufficient resources for joint warfighting experimentation andthe appropriate authority to execute that commander's assigned responsibilities for that mission, including the authorities specified in subsection (b).
 
 #### “SEC. 923. REPORTS ON JOINT WARFIGHTING EXPERIMENTATION.
 

@@ -18,5 +18,5 @@ The District of Columbia Nonprofit Corporation Act, referred to in par. (4), is 
 
 #### Amendments
 
-2002—Par. (2). Pub. L. 107–219 substituted “Wolf Trap National Park for the Performing Arts” for “Wolf Trap Farm Park”.
+<b>2002</b>—Par. (2). Pub. L. 107–219 substituted “Wolf Trap National Park for the Performing Arts” for “Wolf Trap Farm Park”.
 

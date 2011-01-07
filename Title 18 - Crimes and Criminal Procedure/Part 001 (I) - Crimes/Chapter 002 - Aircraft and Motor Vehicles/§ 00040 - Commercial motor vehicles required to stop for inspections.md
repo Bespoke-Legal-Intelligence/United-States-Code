@@ -8,5 +8,5 @@
 
 #### Amendments
 
-2008—Pub. L. 110–244 renumbered section 39 of this title, relating to inspection of commercial vehicles, as this section.
+<b>2008</b>—Pub. L. 110–244 renumbered section 39 of this title, relating to inspection of commercial vehicles, as this section.
 

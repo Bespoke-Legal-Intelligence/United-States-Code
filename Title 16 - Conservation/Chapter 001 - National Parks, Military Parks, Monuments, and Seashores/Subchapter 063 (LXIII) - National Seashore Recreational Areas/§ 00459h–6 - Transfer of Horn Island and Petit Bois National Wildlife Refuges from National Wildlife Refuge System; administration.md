@@ -8,7 +8,7 @@
 
 #### Amendments
 
-2006—Pub. L. 109–163 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>2006</b>—Pub. L. 109–163 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Transfer of Excess Department of Defense Property on Santa Rosa and Okaloosa Island, Florida, to Gulf Islands National Seashore
 

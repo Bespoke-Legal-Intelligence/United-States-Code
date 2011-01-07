@@ -4,7 +4,7 @@
 
 (1) After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a powerplant, the Secretary shall, by order, grant a permanent exemption under this subsection for the use of natural gas or petroleum, if he finds that the petitioner has demonstrated that despite diligent good faith efforts—
 
-&emsp;(A) it is likely that an adequate and reliable supply of coal or other alternate fuels of the quality necessary to conform with design and operational requirements for use as a primary energy source will not be available to such powerplant at a cost (taking into account associated facilities for the transportation and use of such fuel) which, based upon the best practicable estimates, does not substantially exceed the cost, as determined by rule by the Secretary, of using imported petroleum as a primary energy source during the remaining useful life of the powerplant;
+&emsp;(A) it is likely that an adequate and reliable supply of coal or other alternate fuels of the quality necessary to conform with design and operational requirements for use as a primary energy source will not be available to such powerplant at a cost (taking into account associated facilities for the transportation and use of such fuel) which, based upon the best practicable estimates, does not substantiallyexceed the cost, as determined by rule by the Secretary, of using imported petroleum as a primary energy source during the remaining useful life of the powerplant;
 
 &emsp;(B) one or more site limitations exist which would not permit the operation of such a powerplant using coal or any other alternate fuel as a primary energy source; or
 
@@ -74,7 +74,7 @@ After consideration of a petition (and comments thereon) for an exemption from o
 
 &emsp;(C) such powerplant is and shall continue to be operated solely as an intermediate load powerplant;
 
-&emsp;(D) the net fuel heat input rate for such powerplant will be maintained at or less than9,500 Btu's per kilowatt hour throughout the remaining useful life of the powerplant; and
+&emsp;(D) the net fuel heat input rate for such powerplant will be maintained at or less than 9,500 Btu's per kilowatt hour throughout the remaining useful life of the powerplant; and
 
 &emsp;(E) the powerplant has the capability to use synthetic fuels derived from coal or other alternate fuel.
 
@@ -102,9 +102,13 @@ After consideration of a petition (and comments thereon) for an exemption from o
 
 (Pub. L. 95–620, title III, §312, Nov. 9, 1978, 92 Stat. 3309; Pub. L. 100–42, §1(c)(10), (12), May 21, 1987, 101 Stat. 313.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (b)(3), was in the original “this Act”, meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
+
 #### Amendments
 
-1987—Subsecs. (a)(1), (b), (d)(1). Pub. L. 100–42, §1(c)(10), struck out “or installation” after “powerplant” wherever appearing.
+<b>1987</b>—Subsecs. (a)(1), (b), (d)(1). Pub. L. 100–42, §1(c)(10), struck out “or installation” after “powerplant” wherever appearing.
 
 Subsec. (d)(2). Pub. L. 100–42, §1(c)(12)(A), struck out par. (2) which read as follows: “In the case of an existing major fuel-burning installation, the percentage determined by the Secretary under subparagraph (B) of paragraph (1) shall not be less than 25 percent.”
 

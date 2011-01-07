@@ -8,13 +8,13 @@
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–337 substituted “12 months” for “three months”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337 substituted “12 months” for “three months”.
 
-1989—Subsecs. (a), (b). Pub. L. 101–189 substituted “this subchapter” for “this chapter”.
+<b>1989</b>—Subsecs. (a), (b). Pub. L. 101–189 substituted “this subchapter” for “this chapter”.
 
-1986—Pub. L. 99–661 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1986</b>—Pub. L. 99–661 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1985—Pub. L. 99–145 renumbered section 2325 of this title as this section.
+<b>1985</b>—Pub. L. 99–145 renumbered section 2325 of this title as this section.
 
 #### Effective Date of 1994 Amendment
 

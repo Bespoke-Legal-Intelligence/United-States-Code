@@ -14,7 +14,7 @@ The Congress finds and declares the following:
 
 &emsp;(6) The arts and the humanities reflect the high place accorded by the American people to the nation's rich cultural heritage and to the fostering of mutual respect for the diverse beliefs and values of all persons and groups.
 
-&emsp;(7) The practice of art and the study of the humanities require constant dedication and devotion. While no government can call a great artist or scholar into existence, it is necessary and appropriate for the Federal Government to help create and sustain not only a climate encouraging freedom of thought, imagination, and inquiry but also the material conditions facilitating the release of this creative talent.
+&emsp;(7) The practice of art and the study of the humanities require constant dedication and devotion. While no government can call agreat artist or scholar into existence, it is necessary and appropriate for the Federal Government to help create and sustain not only a climate encouraging freedom of thought, imagination, and inquiry but also the material conditions facilitating the release of this creative talent.
 
 &emsp;(8) The world leadership which has come to the United States cannot rest solely upon superior power, wealth, and technology, but must be solidly founded upon worldwide respect and admiration for the Nation's high qualities as a leader in the realm of ideas and of the spirit.
 
@@ -30,19 +30,19 @@ The Congress finds and declares the following:
 
 #### Amendments
 
-1990—Pub. L. 101–512 amended section generally, substituting provisions relating to declaration of findings and purposes consisting of pars. (1) to (12) for provisions relating to declaration of purpose consisting of cls. (1) to (9).
+<b>1990</b>—Pub. L. 101–512 amended section generally, substituting provisions relating to declaration of findings and purposes consisting of pars. (1) to (12) for provisions relating to declaration of purpose consisting of cls. (1) to (9).
 
-1985—Cl. (2). Pub. L. 99–194, §102(1), struck out “man's” before “scholarly and cultural activity”.
+<b>1985</b>—Cl. (2). Pub. L. 99–194, §102(1), struck out “man's” before “scholarly and cultural activity”.
 
 Cl. (3). Pub. L. 99–194, §102(2), inserted “, and access to the arts and the humanities,” after “form of education” and substituted “people of all backgrounds and wherever located” for “men”.
 
 Cls. (8), (9). Pub. L. 99–194, §102(3)–(5), added cl. (8) and redesignated former cl. (8) as (9).
 
-1984—Cls. (6) to (8). Pub. L. 98–306, §3, added cl. (6) and redesignated former cls. (6) and (7) as (7) and (8), respectively.
+<b>1984</b>—Cls. (6) to (8). Pub. L. 98–306, §3, added cl. (6) and redesignated former cls. (6) and (7) as (7) and (8), respectively.
 
-1973—Cl. (7). Pub. L. 93–133 struck out provisions relating to strengthening the responsibilities of the Office of Education with respect to education in the arts and the humanities.
+<b>1973</b>—Cl. (7). Pub. L. 93–133 struck out provisions relating to strengthening the responsibilities of the Office of Education with respect to education in the arts and the humanities.
 
-1970—Cl. (2). Pub. L. 91–346 inserted “in order to achieve a better understanding of the past, a better analysis of the present, and a better view of the future”.
+<b>1970</b>—Cl. (2). Pub. L. 91–346 inserted “in order to achieve a better understanding of the past, a better analysis of the present, and a better view of the future”.
 
 #### Effective Date of 1990 Amendment
 
@@ -86,7 +86,7 @@ Section 1 of Pub. L. 93–133 provided: “That this Act \[amending this section
 
 #### Short Title of 1970 Amendment
 
-Section 1 of Pub. L. 91–346 provided: “That this Act \[amending this section and sections 952, 954, 955, 956, 957, and 958 to 960 of this title, repealing sections 781 to 788 and 790 of this title, and enacting provisions set out as notes under section 955 of this title and section 781 of this title\] may be cited as ‘The National Foundation on the Arts and the Humanities Amendments of 1970’.”
+Section 1 of Pub. L. 91–346 provided: “That this Act \[amending this section and sections 952, 954, 955, 956,957, and 958 to 960 of this title, repealing sections 781 to 788 and 790 of this title, and enacting provisions set out as notes under section 955 of this title and section 781 of this title\] may be cited as ‘The National Foundation on the Arts and the Humanities Amendments of 1970’.”
 
 #### Short Title
 

@@ -6,17 +6,13 @@
 
 (Mar. 4, 1927, ch. 513, §14, 44 Stat. 1454; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Pub. L. 90–403, §3, July 18, 1968, 82 Stat. 358.)
 
-#### References in Text
-
-The public land law, referred to in subsec. (a), is classified generally to this title.
-
 #### Codification
 
 Section was formerly classified to section 471m of Title 48, Territories and Insular Possessions.
 
 #### Amendments
 
-1968—Pub. L. 90–403 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1968</b>—Pub. L. 90–403 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Transfer of Functions
 

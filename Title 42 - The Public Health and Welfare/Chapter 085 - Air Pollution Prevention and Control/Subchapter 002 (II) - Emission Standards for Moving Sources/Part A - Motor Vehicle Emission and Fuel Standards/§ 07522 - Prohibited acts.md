@@ -48,7 +48,7 @@ Section was formerly classified to section 1857f–2 of this title.
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–549, §228(b)(2), inserted two sentences at end which set forth conditions under which actions with respect to devices or elements of design, referred to in par. (3), would not be deemed prohibited acts.
+<b>1990</b>—Subsec. (a). Pub. L. 101–549, §228(b)(2), inserted two sentences at end which set forth conditions under which actions with respect to devices or elements of design, referred to in par. (3), would not be deemed prohibited acts.
 
 Subsec. (a)(1). Pub. L. 101–549, §228(e)(1), inserted “or part C of this subchapter in the case of clean-fuel vehicles” before “(except”.
 
@@ -74,7 +74,7 @@ Subsec. (a)(5). Pub. L. 101–549, §228(e)(7), added par. (5).
 
 Subsec. (c). Pub. L. 101–549, §230(6), struck out subsec. (c) which related to exemptions to permit modifications of emission control devices or systems.
 
-1977—Subsec. (a). Pub. L. 95–190, §14(a)(68), in closing text inserted a period after “section 7549 of this title”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–190, §14(a)(68), in closing text inserted a period after “section 7549 of this title”.
 
 Pub. L. 95–95, §§206, 211(a), 218(a), 219(a), (b), inserted “or for any person to fail or refuse to permit entry, testing, or inspection authorized under section 7525(c) of this title” in par. (2), designated existing provisions of par. (3) as subpar. (A) and added subpar. (B), added subpars. (C) and (D) in par. (4), and, following par. (4), inserted provisions that no action with respect to any element of design referred to in par. (3) (including adjustment or alteration of such element) be treated as a prohibited act under par. (3) if the action is in accordance with section 7549 of this title and that nothing in par. (3) be construed to require the use of manufacturer parts in maintaining or repairing motor vehicles or motor vehicle engines.
 
@@ -84,7 +84,7 @@ Subsec. (a)(4)(C). Pub. L. 95–190, §14(a)(67), inserted “or” after “suc
 
 Subsec. (b)(3). Pub. L. 95–95, §218(d), substituted “section 7521 of this title” for “subsection (a) of this section” and “country which is to receive such vehicle or engine” for “country of export”.
 
-1970—Subsec. (a)(1). Pub. L. 91–604, §7(a)(1), struck out reference to the manufacture of new motor vehicles or new motor vehicle engines for sale, inserted provision for issuance by the Administrator of regulations regarding exceptions in the case of importation of new motor vehicles or new motor vehicle engines, and substituted “importation” into the United States of such units for “importation for sale or resale” into the United States of such units.
+<b>1970</b>—Subsec. (a)(1). Pub. L. 91–604, §7(a)(1), struck out reference to the manufacture of new motor vehicles or new motor vehicle engines for sale, inserted provision for issuance by the Administrator of regulations regarding exceptions in the case of importation of new motor vehicles or new motor vehicle engines, and substituted “importation” into the United States of such units for “importation for sale or resale” into the United States of such units.
 
 Subsec. (a)(2). Pub. L. 91–604, §7(a)(2), substituted “section 208” for “section 207”, both of which, for purposes of codification, are translated as “section 7542 of this title”.
 
@@ -100,7 +100,7 @@ Subsec. (b)(3). Pub. L. 91–604, §7(a)(7)(A), inserted provision that, if the 
 
 Subsec. (c). Pub. L. 91–604, §7(a)(7)(B), added subsec. (c).
 
-1967—Subsec. (a). Pub. L. 90–148 substituted “conformity with regulations prescribed under this subchapter” for “conformity with regulations prescribed under section 7521 of this title” in par. (1).
+<b>1967</b>—Subsec. (a). Pub. L. 90–148 substituted “conformity with regulations prescribed under this subchapter” for “conformity with regulations prescribed under section 7521 of this title” in par. (1).
 
 #### Effective Date of 1977 Amendment
 

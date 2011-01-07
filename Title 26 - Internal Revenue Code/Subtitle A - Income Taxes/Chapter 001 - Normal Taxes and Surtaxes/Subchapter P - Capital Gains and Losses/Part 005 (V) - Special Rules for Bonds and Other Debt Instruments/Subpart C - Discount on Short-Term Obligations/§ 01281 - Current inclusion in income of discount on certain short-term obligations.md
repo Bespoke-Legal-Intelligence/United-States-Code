@@ -60,7 +60,7 @@ In the case of any short-term obligation to which this section applies, for purp
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–514, §1803(a)(8), amended subsec. (a) generally, designating existing provisions as par. (1) and adding par. (2).
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1803(a)(8), amended subsec. (a) generally, designating existing provisions as par. (1) and adding par. (2).
 
 Subsec. (b)(1)(F). Pub. L. 99–514, §1803(a)(7), added subpar. (F).
 

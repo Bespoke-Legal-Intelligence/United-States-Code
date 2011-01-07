@@ -26,7 +26,7 @@ Except as provided in subsections (b), (c), and (d), the decision of the Tax Cou
 
 #### (A) Upon mandate of Supreme Court
 
-&emsp;&emsp;If the Supreme Court directs that the decision of the Tax Court be modified or reversed, the decision of the Tax Court rendered in accordance with the mandate of the Supreme Court shall become final upon theexpiration of 30 days from the time it was rendered, unless within such 30 days either the Secretary or the taxpayer has instituted proceedings to have such decision corrected to accord with the mandate, in which event the decision of the Tax Court shall become final when so corrected.
+&emsp;&emsp;If the Supreme Court directs that the decision of the Tax Court be modified or reversed, the decision of the Tax Court rendered in accordance with the mandate of the Supreme Court shall become final upon the expiration of 30 days from the time it was rendered, unless within such 30 days either the Secretary or the taxpayer has instituted proceedings to have such decision corrected to accord with the mandate, in which event the decision of the Tax Court shall become final when so corrected.
 
 #### (B) Upon mandate of the Court of Appeals
 
@@ -96,7 +96,7 @@ If with respect to a decedent's estate subject to a decision of the Tax Court—
 
 #### Amendments
 
-1997—Subsec. (b). Pub. L. 105–34, §1454(b)(3), substituted “section 7436(c) or 7463” for “section 7463”.
+<b>1997</b>—Subsec. (b). Pub. L. 105–34, §1454(b)(3), substituted “section 7436(c) or 7463” for “section 7463”.
 
 Subsec. (c). Pub. L. 105–34, §1452(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Notwithstanding subsection (a), if—
 
@@ -108,7 +108,7 @@ Subsec. (c). Pub. L. 105–34, §1452(a), reenacted heading without change and a
 
 > then the Tax Court may reopen the case solely to determine whether the taxpayer has made an overpayment of such interest and the amount of any such overpayment. If the Tax Court determines under this subsection that the taxpayer has made an overpayment of interest, then that determination shall be treated under section 6512(b)(1) as a determination of an overpayment of tax. An order of the Tax Court redetermining the interest due, when entered upon the records of the court, shall be reviewable in the same manner as a decision of the Tax Court.”
 
-1988—Subsec. (a). Pub. L. 100–647, §6247(b)(2), substituted “subsections (b), (c), and (d)” for “subsections (b) and (c)”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §6247(b)(2), substituted “subsections (b), (c), and (d)” for “subsections (b) and (c)”.
 
 Pub. L. 100–647, §6246(b)(2), substituted “subsections (b) and (c)” for “subsection (b)”.
 
@@ -116,9 +116,9 @@ Subsec. (c). Pub. L. 100–647, §6246(a), added subsec. (c).
 
 Subsec. (d). Pub. L. 100–647, §6247(a), added subsec. (d).
 
-1976—Subsecs. (a)(3)(A), (B)(iii). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (a)(3)(A), (B)(iii). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1969—Pub. L. 91–172 designated existing provisions as subsec. (a), inserted reference to the exception provided for in subsec. (b), substituted “notice of appeal” for “petition for review” in par. (1), and substituted references to dismissal of appeal for references to dismissal of petition for review in par. (2), and added subsec. (b).
+<b>1969</b>—Pub. L. 91–172 designated existing provisions as subsec. (a), inserted reference to the exception provided for in subsec. (b), substituted “notice of appeal” for “petition for review” in par. (1), and substituted references to dismissal of appeal for references to dismissal of petition for review in par. (2), and added subsec. (b).
 
 #### Effective Date of 1997 Amendment
 

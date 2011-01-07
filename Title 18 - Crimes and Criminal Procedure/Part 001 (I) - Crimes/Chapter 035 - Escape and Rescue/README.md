@@ -15,13 +15,9 @@
 
 #### Amendments
 
-1996—Pub. L. 104–208, div. C, title I, §108(b)(2), Sept. 30, 1996, 110 Stat. 3009–558, added item 758.
+<b>1996</b>—Pub. L. 104–208, div. C, title I, §108(b)(2), Sept. 30, 1996, 110 Stat. 3009–558, added item 758.
 
-1994—Pub. L. 103–322, title XXXIII, §330004(5), Sept. 13, 1994, 108 Stat. 2141, struck out item 754 “Rescue of body of executed offender”.
-
-<i><sup>1</sup></i><i> So in original.</i>
-
-<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<b>1994</b>—Pub. L. 103–322, title XXXIII, §330004(5), Sept. 13, 1994, 108 Stat. 2141, struck out item 754 “Rescue of body of executed offender”.
 
 
 ---

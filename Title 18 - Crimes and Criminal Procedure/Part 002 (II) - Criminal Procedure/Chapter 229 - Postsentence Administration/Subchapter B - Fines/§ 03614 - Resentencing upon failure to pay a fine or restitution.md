@@ -24,7 +24,7 @@ For a prior section 3614, applicable to offenses committed prior to Nov. 1, 1987
 
 #### Amendments
 
-1996—Pub. L. 104–232, §207(c)(5)(A), inserted “or restitution” after “fine” in section catchline.
+<b>1996</b>—Pub. L. 104–232, §207(c)(5)(A), inserted “or restitution” after “fine” in section catchline.
 
 Subsec. (a). Pub. L. 104–232, §207(c)(5)(B), inserted “or restitution” after “fine”.
 

@@ -6,7 +6,7 @@ Except as otherwise provided in section 5712 of this title, this subchapter shal
 
 #### (b) Actions by Commission
 
-The Commission shall prevent any person from violating a rule of the Commission under section 5711 of this title in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this subchapter. Any person who violates such rule shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of this subchapter.
+The Commission shall prevent any person from violating a rule of the Commission under section 5711 of this title in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicableterms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this subchapter. Any person who violates such rule shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of this subchapter.
 
 (Pub. L. 102–556, title II, §203, Oct. 28, 1992, 106 Stat. 4191.)
 

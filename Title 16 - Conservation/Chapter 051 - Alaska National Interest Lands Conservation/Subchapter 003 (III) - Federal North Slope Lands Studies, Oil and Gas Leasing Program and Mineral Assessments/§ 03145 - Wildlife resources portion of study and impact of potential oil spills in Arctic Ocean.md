@@ -2,7 +2,7 @@
 
 #### (a) Wildlife resources
 
-The Secretary shall work closely with the State of Alaska and Native Village and Regional Corporations in evaluating the impact of oil and gas exploration, development, production, and transportation and other human activities on the wildlife resources of these lands, including impacts on the Arctic and Porcupine caribou herds, polar bear, muskox, grizzly bear, wolf, wolverine, seabirds, shore birds, and migratory waterfowl. In addition the Secretary shall consult with the appropriate agencies of the Government of Canada in evaluating such impacts particularly with respect to the Porcupine caribou herd.
+The Secretary shall work closely with the State of Alaska and Native Village and Regional Corporations in evaluating the impact of oil and gas exploration, development, production, and transportation and other human activities on the wildlife resources of these lands, including impacts on the Arctic and Porcupine caribou herds, polar bear, muskox, grizzly bear, wolf, wolverine, seabirds, shore birds, and migratorywaterfowl. In addition the Secretary shall consult with the appropriate agencies of the Government of Canada in evaluating such impacts particularly with respect to the Porcupine caribou herd.
 
 #### (b) Oil spills
 
@@ -40,7 +40,7 @@ The Secretary of State shall report to the Congress on the Secretary's efforts p
 
 #### Amendments
 
-1990—Pub. L. 101–380 inserted “and impact of potential oil spills in Arctic Ocean” in section catchline, designated existing text as subsec. (a), and added subsecs. (b) to (d).
+<b>1990</b>—Pub. L. 101–380 inserted “and impact of potential oil spills in Arctic Ocean” in section catchline, designated existing text as subsec. (a), and added subsecs. (b) to (d).
 
 #### Effective Date of 1990 Amendment
 

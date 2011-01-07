@@ -2,7 +2,7 @@
 
 (a) The willful failure of a prisoner to remain within the extended limits of his confinement, or to return within the time prescribed to an institution or facility designated by the Attorney General, shall be deemed an escape from the custody of the Attorney General punishable as provided in chapter 35 of this title.
 
-(b)(1) The Attorney General shall, upon the request of the head of any law enforcement agency of a State or of a unit of local government in a State, make available as expeditiously as possible to such agency, with respect to prisoners who have been convicted of felony offenses against the United States and who are confined at a facility which is a residential communitytreatment center located in the geographical area in which such agency has jurisdiction, the following information maintained by the Bureau of Prisons (to the extent that the Bureau of Prisons maintains such information)—
+(b)(1) The Attorney General shall, upon the request of the head of any law enforcement agency of a State or of a unit of local government in a State, make available as expeditiously as possible to such agency, with respect to prisoners who have been convicted of felony offenses against the United States and who are confined at a facility which is a residential community treatment center located in the geographical area in which such agency has jurisdiction, the following information maintained by the Bureau of Prisons (to the extent that the Bureau of Prisons maintains such information)—
 
 &emsp;(A) the names of such prisoners;
 
@@ -42,9 +42,9 @@ This section supersedes section 705 of title 18, U.S.C., 1940 ed., providing for
 
 #### Amendments
 
-1986—Subsecs. (f), (g). Pub. L. 99–646 added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>1986</b>—Subsecs. (f), (g). Pub. L. 99–646 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1984—Pub. L. 98–473 struck out subsecs. (a) to (c) and (e) and redesignated subsecs. (d), (f), and (g) as (a), (b), and (c), respectively. Prior to amendment subsecs. (a) to (c) and (e) read as follows:
+<b>1984</b>—Pub. L. 98–473 struck out subsecs. (a) to (c) and (e) and redesignated subsecs. (d), (f), and (g) as (a), (b), and (c), respectively. Prior to amendment subsecs. (a) to (c) and (e) read as follows:
 
 “(a) A person convicted of an offense against the United States shall be committed, for such term of imprisonment as the court may direct, to the custody of the Attorney General of the United States, who shall designate the place of confinement where the sentence shall be served.
 
@@ -66,9 +66,9 @@ This section supersedes section 705 of title 18, U.S.C., 1940 ed., providing for
 
 “(e) The authority conferred upon the Attorney General by this section shall extend to all persons committed to the National Training School for Boys.”
 
-1973—Subsec. (c)(1). Pub. L. 93–209 provided for extension of limits to permit establishment or reestablishment of family and community ties and struck out “only” after “may be granted”.
+<b>1973</b>—Subsec. (c)(1). Pub. L. 93–209 provided for extension of limits to permit establishment or reestablishment of family and community ties and struck out “only” after “may be granted”.
 
-1965—Subsec. (a). Pub. L. 89–176 designated as subsec. (a) first unnumbered par. and struck out “or his authorized representative” after “Attorney General of the United States”.
+<b>1965</b>—Subsec. (a). Pub. L. 89–176 designated as subsec. (a) first unnumbered par. and struck out “or his authorized representative” after “Attorney General of the United States”.
 
 Subsec. (b). Pub. L. 89–176 designated as subsec. (b) second and third unnumbered par., inserted “or facility” after “appropriate institution”, substituted “may at any time transfer a person from one place of confinement to another” for “may order any inmate transferred from one institution to another”, and made minor changes in language.
 
@@ -80,5 +80,5 @@ Subsec. (f). Pub. L. 89–176 added subsec. (f).
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
+Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after thetaking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 

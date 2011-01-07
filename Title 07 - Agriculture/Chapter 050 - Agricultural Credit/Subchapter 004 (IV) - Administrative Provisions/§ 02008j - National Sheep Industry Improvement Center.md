@@ -46,7 +46,7 @@ The purposes of the Center shall be to—
 
 &emsp;(3) provide assistance to meet the needs of the sheep or goat industry for infrastructure development, business development, production, resource development, and market and environmental research;
 
-&emsp;(4) advance activities that empower and build the capacity of the United States sheep or goat industry to design unique responses to the special needs of the sheep or goat industries on both a regional and national basis; and
+&emsp;(4) advance activities that empower and build the capacity of the United States sheepor goat industry to design unique responses to the special needs of the sheep or goat industries on both a regional and national basis; and
 
 &emsp;(5) adopt flexible and innovative approaches to solving the long-term needs of the United States sheep or goat industry.
 
@@ -430,7 +430,7 @@ To carry out this section, the Board may consult with—
 
 #### References in Text
 
-This Act, referred to in subsec. (i)(2)(C), refers to the Agricultural Act of 1961, Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294. For classification of this Act to the Code, seeShort Title note set out under section 1911 of this title and Tables. However, the reference was probably intended to be “this title” meaning the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under section 1921 of this title and Tables.
+This Act, referred to in subsec. (i)(2)(C), refers to the Agricultural Act of 1961, Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294. For classification of this Act to the Code, see Short Title note set out under section 1911 of this title and Tables. However, the reference was probably intended to be “this title” meaning the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 #### Codification
 

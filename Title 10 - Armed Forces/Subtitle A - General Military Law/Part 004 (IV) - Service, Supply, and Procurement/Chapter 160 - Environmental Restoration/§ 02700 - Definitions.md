@@ -4,11 +4,11 @@ In this chapter:
 
 &emsp;(1) The term “CERCLA” means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.).
 
-&emsp;(2) The terms “environment”, “facility”, “hazardous substance”, “person”, “release”, “removal”, “response”, “disposal”, and “hazardous waste” have the meanings given those terms in section 101 of CERCLA (42 U.S.C. 9601).
+&emsp;(2) The terms “environment”, “facility”, “hazardous substance”, “person”, “pollutant or contaminant”, “release”, “removal”, “response”, “disposal”, and “hazardous waste” have the meanings given those terms in section 101 of CERCLA (42 U.S.C. 9601).
 
 &emsp;(3) The term “Administrator” means the Administrator of the Environmental Protection Agency.
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1725, §2707; renumbered §2700 and amended Pub. L. 107–314, div. A, title III, §313(a)(1), (c)(1), Dec. 2, 2002, 116 Stat. 2507.)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1725, §2707; renumbered §2700 and amended Pub. L. 107–314, div. A, title III, §313(a)(1), (c)(1), Dec. 2, 2002, 116 Stat. 2507; Pub. L. 111–383, div. A, title X, §1075(b)(46)(A), Jan. 7, 2011, 124 Stat. 4371.)
 
 #### References in Text
 
@@ -16,7 +16,9 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 
 #### Amendments
 
-2002—Pub. L. 107–314, §313(c)(1), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+<b>2011</b>—Par. (2). Pub. L. 111–383 inserted “ ‘pollutant or contaminant’,” after “ ‘person’,”.
+
+<b>2002</b>—Pub. L. 107–314, §313(c)(1), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
 Pub. L. 107–314, §313(a)(1), renumbered section 2707 of this title as this section.
 

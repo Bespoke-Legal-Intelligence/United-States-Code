@@ -6,7 +6,7 @@ Section 122c, based on H. Res. No. 687, §2, Ninety-fifth Congress, Sept. 20, 19
 
 Section 122d, based on H. Res. No. 687, §3, Ninety-fifth Congress, Sept. 20, 1977, enacted into permanent law by Pub. L. 95–391, title I, §111, Sept. 30, 1978, 92 Stat. 777, related to authorization by Committee on House Administration of disbursements under former sections 122b to 122g of this title.
 
-Section 122e, based on H. Res. No. 687, §4, Ninety-fifth Congress, Sept. 20, 1977, enacted into permanent law byPub. L. 95–391, title I, §111, Sept. 30, 1978, 92 Stat. 777, related to furnishing office equipment, carpeting, and draperies.
+Section 122e, based on H. Res. No. 687, §4, Ninety-fifth Congress, Sept. 20, 1977, enacted into permanent law by Pub. L. 95–391, title I, §111, Sept. 30, 1978, 92 Stat. 777, related to furnishing office equipment, carpeting, and draperies.
 
 Section 122f, based on H. Res. No. 687, §5, Ninety-fifth Congress, Sept. 20, 1977, enacted into permanent law by Pub. L. 95–391, title I, §111, Sept. 30, 1978, 92 Stat. 777, authorized Committee on House Administration to prescribe rules and regulations to carry out former sections 122b to 122g of this title.
 

@@ -10,7 +10,7 @@ Second sentence was from a proviso to the first sentence, which was affected by 
 
 #### Amendments
 
-1946—Act Aug. 7, 1946, repealed all provisions requiring annual reports to Congress of the Council's activities and expenditures.
+<b>1946</b>—Act Aug. 7, 1946, repealed all provisions requiring annual reports to Congress of the Council's activities and expenditures.
 
 #### Termination of Advisory Commissions
 

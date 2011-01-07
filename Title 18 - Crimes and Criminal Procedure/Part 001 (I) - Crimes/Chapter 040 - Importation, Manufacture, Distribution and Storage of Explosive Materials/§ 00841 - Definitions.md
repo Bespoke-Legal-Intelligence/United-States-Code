@@ -8,7 +8,7 @@ As used in this chapter—
 
 &emsp;(c) “Explosive materials” means explosives, blasting agents, and detonators.
 
-&emsp;(d) Except for the purposes of subsections (d), (e), (f), (g), (h), (i), and (j) of section 844 of this title, “explosives” means any chemical compound mixture, or device, the primary or common purpose of which is to function by explosion; the term includes, but is not limited to, dynamite and other high explosives, black powder, pellet powder, initiating explosives, detonators, safety fuses, squibs, detonating cord, igniter cord, and igniters. The Attorney General shall publish and revise at least annually in the Federal Register a list of these and any additional explosives which he determines to be within the coverage of this chapter. For the purposes of subsections (d), (e), (f), (g), (h), and (i) of section 844 of this title, the term “explosive” is defined in subsection (j) of such section 844.
+&emsp;(d) Except for the purposes of subsections (d), (e), (f), (g), (h), (i), and (j) of section 844 of this title, “explosives” means any chemical compound mixture, or device, the primary or common purpose of which is to function by explosion; the term includes, but is not limited to, dynamite and other high explosives, black powder, pellet powder, initiating explosives, detonators, safety fuses, squibs, detonating cord, igniter cord, and igniters. The Attorney General shall publish and revise at least annually in the Federal Register a list of these andany additional explosives which he determines to be within the coverage of this chapter. For the purposes of subsections (d), (e), (f), (g), (h), and (i) of section 844 of this title, the term “explosive” is defined in subsection (j) of such section 844.
 
 &emsp;(e) “Blasting agent” means any material or mixture, consisting of fuel and oxidizer, intended for blasting, not otherwise defined as an explosive: <i>Provided</i>, That the finished product, as mixed for use or shipment, cannot be detonated by means of a numbered 8 test blasting cap when unconfined.
 
@@ -40,7 +40,7 @@ As used in this chapter—
 
 &emsp;&emsp;(3) Para-Mononitrotoluene (p-MNT), C<sub>7</sub>H<sub>7</sub>NO<sub>2</sub>, molecular weight 137, when the minimum concentration in the finished explosive is 0.5 percent by mass;
 
-&emsp;&emsp;(4) Ortho-Mononitrotoluene (o-MNT), C<sub>7</sub>H<sub>7</sub>NO<sub>2</sub>, molecular weight 137, when theminimum concentration in the finished explosive is 0.5 percent by mass; and
+&emsp;&emsp;(4) Ortho-Mononitrotoluene (o-MNT), C<sub>7</sub>H<sub>7</sub>NO<sub>2</sub>, molecular weight 137, when the minimum concentration in the finished explosive is 0.5 percent by mass; and
 
 &emsp;&emsp;(5) any other substance in the concentration specified by the Attorney General, after consultation with the Secretary of State and the Secretary of Defense, that has been added to the table in part 2 of the Technical Annex to the Convention on the Marking of Plastic Explosives.
 
@@ -50,7 +50,11 @@ As used in this chapter—
 
 &emsp;(s) “Responsible person” means an individual who has the power to direct the management and policies of the applicant pertaining to explosive materials.
 
-(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 952; amended Pub. L. 104–132, title VI, §602, Apr. 24, 1996, 110 Stat. 1288; Pub. L. 107–296, title XI, §§1112(e)(1), (3), 1122(a), Nov. 25, 2002, 116 Stat. 2276, 2280.)
+&emsp;(t)
+
+Indian Tribe <sup>1</sup>.—The term “Indian tribe” has the meaning given the term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a)).<sup>2</sup>
+
+(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 952; amended Pub. L. 104–132, title VI, §602, Apr. 24, 1996, 110 Stat. 1288; Pub. L. 107–296, title XI, §§1112(e)(1), (3), 1122(a), Nov. 25, 2002, 116 Stat. 2276, 2280; Pub. L. 111–211, title II, §236(b), July 29, 2010, 124 Stat. 2286.)
 
 #### References in Text
 
@@ -58,7 +62,9 @@ For definition of Canal Zone, referred to in subsec. (a), see section 3602(b) of
 
 #### Amendments
 
-2002—Subsec. (d). Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary”.
+<b>2010</b>—Subsec. (t). Pub. L. 111–211 added subsec. (t).
+
+<b>2002</b>—Subsec. (d). Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary”.
 
 Subsec. (j). Pub. L. 107–296, §1122(a)(1), added subsec. (j) and struck out former subsec. (j) which read as follows: “ ‘Permittee’ means any user of explosives for a lawful purpose, who has obtained a user permit under the provisions of this chapter.”
 
@@ -70,7 +76,7 @@ Subsec. (p)(5). Pub. L. 107–296, §1112(e)(3), which directed amendment of par
 
 Subsecs. (r), (s). Pub. L. 107–296, §1122(a)(2), added subsecs. (r) and (s).
 
-1996—Subsecs. (<i>o</i>) to (q). Pub. L. 104–132 added subsecs. (<i>o</i>) to (q).
+<b>1996</b>—Subsecs. (<i>o</i>) to (q). Pub. L. 104–132 added subsecs. (<i>o</i>) to (q).
 
 #### Effective Date of 2002 Amendment
 
@@ -126,7 +132,7 @@ Purpose.—The purpose of this title \[amending this section, sections 842, 844,
 
 #### Marking, Rendering Inert, and Licensing of Explosive Materials
 
-Section 732 of Pub. L. 104–132, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §113\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–61, title I, Oct.10, 1997, 111 Stat. 1272, required study by the Secretary of the Treasury of the marking, rendering inert, and licensing of explosive materials not later than 12 months after Apr. 24, 1996, report to Congress on results and recommendations, hearings by Congress to review study results, promulgation of regulations, and special study on the tagging of smokeless and black powder and report two years after Sept. 30, 1996.
+Section 732 of Pub. L. 104–132, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §113\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–61, title I, Oct. 10, 1997, 111 Stat. 1272, required study by the Secretary of the Treasury of the marking, rendering inert, and licensing of explosive materials not later than 12 months after Apr. 24, 1996, report to Congress on results and recommendations, hearings by Congress to review study results, promulgation of regulations, and special study on the tagging of smokeless and black powder and report two years after Sept. 30, 1996.
 
 #### Congressional Declaration of Purpose
 
@@ -148,9 +154,13 @@ Section 1104 of title XI of Pub. L. 91–452, as amended by Pub. L. 99–514, §
 
 #### Continuation in Business or Operation of Any Person Engaged in Business or Operation on October 15, 1970
 
-Section 1105(c) of Pub. L. 91–452 provided that: “Any person (as defined in section 841(a) of title 18, United States Code) engaging in a business or operation requiring a license or permit under the provisions of chapter 40 of such title 18, who was engaged in such business or operation on the date of enactment of this Act \[Oct. 15, 1970\] and who has filed an application for a license or permit under the provisions of section 843 of such chapter 40 prior to the effective date of such section 843 \[see Effective Date note set out above\] may continue such business or operation pending final action on his application. All provisions of such chapter 40 shall apply to such applicant in the same manner and to the same extent as if he were a holder of a license or permit under such chapter 40.”
+Section 1105(c) of Pub. L. 91–452 provided that: “Any person (as defined in section 841(a) of title 18, United States Code) engaging in a business or operation requiring a license or permit under the provisions of chapter 40 of such title 18, who was engaged in such business or operation on the date of enactment of this Act \[Oct. 15, 1970\] and who has filed an application for a license or permit under the provisions of section 843of such chapter 40 prior to the effective date of such section 843 \[see Effective Date note set out above\] may continue such business or operation pending final action on his application. All provisions of such chapter 40 shall apply to such applicant in the same manner and to the same extent as if he were a holder of a license or permit under such chapter 40.”
 
 #### Authorization of Appropriations
 
 Section 1107 of title XI of Pub. L. 91–452 provided that: “There are hereby authorized to be appropriated such sums as are necessary to carry out the purposes of this title \[enacting this chapter, amending section 2516 of this title, repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set as notes under this section\].”
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+
+<i><sup>2</sup></i><i> So in original. The second closing parenthesis probably should not appear.</i>
 

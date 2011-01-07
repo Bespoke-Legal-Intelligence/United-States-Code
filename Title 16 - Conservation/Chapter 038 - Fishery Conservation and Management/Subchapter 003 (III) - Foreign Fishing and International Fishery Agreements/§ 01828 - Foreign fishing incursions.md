@@ -22,3 +22,7 @@ The Secretary shall provide biannual reports updating the Coast Guard's progress
 
 Section was enacted as part of the Coast Guard and Maritime Transportation Act of 2006, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
+#### Combination of Fisheries Enforcement Plans and Foreign Fishing Incursion Reports
+
+Pub. L. 111–207, §4(b), July 27, 2010, 124 Stat. 2251, provided that: “The Secretary of the department in which the Coast Guard is operating shall combine the reports required under section 224 of the Coast Guard and Maritime Transportation Act of 2004 (16 U.S.C. 1861b) and section 804 of the Coast Guard and Maritime Transportation Act of 2006 (16 U.S.C. 1828) into a single annual report for fiscal years beginning after fiscal year 2010.”
+

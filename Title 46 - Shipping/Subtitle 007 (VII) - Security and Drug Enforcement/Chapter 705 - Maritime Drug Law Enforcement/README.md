@@ -15,7 +15,7 @@
 
 #### Amendments
 
-2008—Pub. L. 110–407, title II, §202(b)(1), Oct. 13, 2008, 122 Stat. 4300, added item 70508.
+<b>2008</b>—Pub. L. 110–407, title II, §202(b)(1), Oct. 13, 2008, 122 Stat. 4300, added item 70508.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

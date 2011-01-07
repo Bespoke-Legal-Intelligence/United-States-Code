@@ -10,7 +10,7 @@ The Administration may, whenever it determines such action to be necessary or de
 
 #### (b) Uniform annual fee; processing fees
 
-The Administration shall fix a uniform annual fee for its share of any guarantee under this section which shall be payable in advance at such time as may be prescribed by the Administrator. The amount of any such fee shall be determined in accordance with sound actuarial practices and procedures, to the extent practicable, but in no case shall such amount exceed, on the Administration's share of any guarantee made under this part, 21/2 per centum per annum of the minimum annual guaranteed rental payable under any guaranteed lease: <i>Provided</i>, That the Administration shall fix the lowest fee that experience under the program established hereby has shown to be justified. The Administration may also fix such uniform fees for the processing of applications for guarantees under this section as the Administrator determines are reasonable and necessary to pay the administrative expenses that are incurred in connection therewith.
+The Administration shall fix a uniform annual fee for its share of any guarantee under this section which shall be payable in advance at such time as may be prescribed by the Administrator. The amount of any such fee shall be determined in accordance with sound actuarial practices and procedures, to the extent practicable, but in no case shall such amount exceed, on the Administration's share of any guarantee made under this part, 2½ per centum per annum of the minimum annual guaranteed rental payable under any guaranteed lease: <i>Provided</i>, That the Administration shall fix the lowest fee that experience under the program established hereby has shown to be justified. The Administration may also fix such uniform fees for the processing of applications for guarantees under this section as the Administrator determines are reasonable and necessary to pay the administrative expenses that are incurred in connection therewith.
 
 #### (c) Escrow; default; additional discretionary provisions
 
@@ -28,9 +28,9 @@ In connection with the guarantee of rentals under any lease pursuant to authorit
 
 #### Amendments
 
-1970—Subsecs. (b), (c)(4). Pub. L. 91–609 substituted “part” for “title”.
+<b>1970</b>—Subsecs. (b), (c)(4). Pub. L. 91–609 substituted “part” for “title”.
 
-1967—Subsec. (a). Pub. L. 90–104 struck out from introductory text “that are (1) eligible for loans under section 636(b)(3) of this title, or (2) eligible for loans under subchapter IV of chapter 34 of Title 42,” after “small business concerns”.
+<b>1967</b>—Subsec. (a). Pub. L. 90–104 struck out from introductory text “that are (1) eligible for loans under section 636(b)(3) of this title, or (2) eligible for loans under subchapter IV of chapter 34 of Title 42,” after “small business concerns”.
 
 #### Effective Date of 1967 Amendment
 

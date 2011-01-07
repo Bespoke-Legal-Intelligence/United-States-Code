@@ -44,7 +44,7 @@ The Soviet Nuclear Threat Reduction Act of 1991, referred to in subsec. (c)(2), 
 
 #### Delegation of Functions
 
-For delegation of certain functions of the President under this section, see Memorandum of President of theUnited States, Apr. 21, 1994, 59 F.R. 21619, set out as a note under section 5854 of this title.
+For delegation of certain functions of the President under this section, see Memorandum of President of the United States, Apr. 21, 1994, 59 F.R. 21619, set out as a note under section 5854 of this title.
 
 Authority of President under this section delegated to Secretary of Defense by section 2 of Memorandum of President of the United States, Dec. 30, 1992, 58 F.R. 3193, set out as a note under section 5852 of this title.
 

@@ -10,5 +10,5 @@ The Director of the Institute shall—
 
 #### Amendments
 
-2002—Par. (1). Pub. L. 107–206 substituted “Ruth L. Kirschstein National Research Service Awards” for “National Research Service Awards”.
+<b>2002</b>—Par. (1). Pub. L. 107–206 substituted “Ruth L. Kirschstein National Research Service Awards” for “National Research Service Awards”.
 

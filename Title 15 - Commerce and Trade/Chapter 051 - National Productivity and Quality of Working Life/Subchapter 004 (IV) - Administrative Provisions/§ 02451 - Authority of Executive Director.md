@@ -22,10 +22,6 @@ The Executive Director is authorized to—
 
 (Pub. L. 94–136, title IV, §401, Nov. 28, 1975, 89 Stat. 741.)
 
-#### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in par. (4), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 #### Codification
 
 In par. (9), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes, as amended (21 \[31\] U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.

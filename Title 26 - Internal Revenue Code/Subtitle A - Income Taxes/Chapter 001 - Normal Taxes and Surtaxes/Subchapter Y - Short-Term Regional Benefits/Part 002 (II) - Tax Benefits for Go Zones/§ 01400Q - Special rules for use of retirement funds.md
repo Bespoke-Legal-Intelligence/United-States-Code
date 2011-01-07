@@ -36,7 +36,7 @@
 
 #### (C) Treatment of repayments for distributions from IRAs
 
-&emsp;&emsp;For purposes of this title, if a contribution is made pursuant to subparagraph (A) with respect to a qualified hurricane distribution from an individual retirement plan (as defined by section 7701(a)(37)), then, to the extent of the amount of the contribution, thequalified hurricane distribution shall be treated as a distribution described in section 408(d)(3) and as having been transferred to the eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution.
+&emsp;&emsp;For purposes of this title, if a contribution is made pursuant to subparagraph (A) with respect to a qualified hurricane distribution from an individual retirement plan (as defined by section 7701(a)(37)), then, to the extent of the amount of the contribution, the qualified hurricane distribution shall be treated as a distribution described in section 408(d)(3) and as having been transferred to the eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution.
 
 #### (4) Definitions
 
@@ -60,7 +60,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any qualified hurricane distribution, unless the taxpayer elects not to have this paragraph apply for any taxable year, any amount required to be included in gross income for such taxable year shall be so included ratably over the 3-taxable year period beginning with such taxable year.
+&emsp;&emsp;In the case of any qualified hurricane distribution, unless the taxpayer elects not to have this paragraph apply for any taxable year, any amount required to be included ingross income for such taxable year shall be so included ratably over the 3-taxable year period beginning with such taxable year.
 
 #### (B) Special rule
 

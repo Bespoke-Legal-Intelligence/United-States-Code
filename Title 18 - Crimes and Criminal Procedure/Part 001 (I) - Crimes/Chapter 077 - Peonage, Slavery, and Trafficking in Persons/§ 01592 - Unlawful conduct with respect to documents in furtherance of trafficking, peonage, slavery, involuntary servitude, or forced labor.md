@@ -22,5 +22,5 @@ Section 103 of the Trafficking Victims Protection Act of 2000, referred to in su
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–457 added subsec. (c).
+<b>2008</b>—Subsec. (c). Pub. L. 110–457 added subsec. (c).
 

@@ -1,6 +1,6 @@
 ### §877. Mailing threatening communications from foreign country
 
-Whoever knowingly deposits in any post office or authorized depository for mail matter of any foreign country any communication addressed to any person within the United States, for the purpose of having such communication delivered by the post office establishment of such foreign country to the Postal Service and by it delivered to such addressee in the United States, and as a result thereof such communication is delivered by the post office establishment of such foreign country to the Postal Service and by it delivered to the address to which it is directed inthe United States, and containing any demand or request for ransom or reward for the release of any kidnapped person, shall be fined under this title or imprisoned not more than twenty years, or both.
+Whoever knowingly deposits in any post office or authorized depository for mail matter of any foreign country any communication addressed to any person within the United States, for the purpose of having such communication delivered by the post office establishment of such foreign country to the Postal Service and by it delivered to such addressee in the United States, and as a result thereof such communication is delivered by the post office establishment of such foreign country to the Postal Service and by it delivered to the address to which it is directed in the United States, and containing any demand or request for ransom or reward for the release of any kidnapped person, shall be fined under this title or imprisoned not more than twenty years, or both.
 
 Whoever, with intent to extort from any person any money or other thing of value, so deposits as aforesaid, any communication for the purpose aforesaid, containing any threat to kidnap any person or any threat to injure the person of the addressee or of another, shall be fined under this title or imprisoned not more than twenty years, or both.
 
@@ -20,7 +20,7 @@ Provisions as to district of trial were omitted as covered by sections 3237 and 
 
 #### Amendments
 
-1994—Pub. L. 103–322, §330021(2), substituted “kidnapped” for “kidnaped” in first par.
+<b>1994</b>—Pub. L. 103–322, §330021(2), substituted “kidnapped” for “kidnaped” in first par.
 
 Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” in first and second pars.
 
@@ -28,7 +28,7 @@ Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for 
 
 Pub. L. 103–322, §330016(1)(G), substituted “fined under this title” for “fined not more than $500” in fourth par.
 
-1970—Pub. L. 91–375 substituted “Postal Service” for “Post Office Department of the United States” in two places in first par.
+<b>1970</b>—Pub. L. 91–375 substituted “Postal Service” for “Post Office Department of the United States” in two places in first par.
 
 #### Effective Date of 1970 Amendment
 

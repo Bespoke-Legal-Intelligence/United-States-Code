@@ -22,7 +22,7 @@ The grantor shall be treated as the owner of any portion of a trust in respect o
 
 #### Amendments
 
-1988—Par. (3). Pub. L. 100–647 inserted at end “For periods during which an individual is the spouse of the grantor (within the meaning of section 672(e)(2)), any reference in this paragraph to the grantor shall be treated as including a reference to such individual.”
+<b>1988</b>—Par. (3). Pub. L. 100–647 inserted at end “For periods during which an individual is the spouse of the grantor (within the meaning of section 672(e)(2)), any reference in this paragraph to the grantor shall be treated as including a reference to such individual.”
 
 #### Effective Date of 1988 Amendment
 

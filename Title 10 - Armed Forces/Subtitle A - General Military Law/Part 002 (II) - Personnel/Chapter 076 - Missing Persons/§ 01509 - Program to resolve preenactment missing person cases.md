@@ -36,7 +36,7 @@ Implementation Process.—(1) The Secretary of Defense shall implement the progr
 
 (c)
 
-Treatment as Missing Persons.—Each unaccounted for person covered by subsection (a)shall be considered to be a missing person for purposes of the applicability of other provisions of this chapter to the person.
+Treatment as Missing Persons.—Each unaccounted for person covered by subsection (a) shall be considered to be a missing person for purposes of the applicability of other provisions of this chapter to the person.
 
 (d)
 
@@ -70,17 +70,17 @@ Review of Status Requirements.—(1) If new information (as described in paragra
 
 Coordination Requirements.—(1) In establishing and carrying out the program, the Secretary of Defense shall coordinate with the Secretaries of the military departments, the Chairman of the Joint Chiefs of Staff, and the commanders of the combatant commands.
 
-(2) In carrying out the program, the Secretary of Defense shall establish close coordination with the Department of State, the Central Intelligence Agency, and the National Security Council to enhance the ability of the Department of Defense POW/MIA accounting community to account for persons covered by subsection (a).
+(2) In carrying out the program, the Secretary of Defense shall establish close coordinationwith the Department of State, the Central Intelligence Agency, and the National Security Council to enhance the ability of the Department of Defense POW/MIA accounting community to account for persons covered by subsection (a).
 
 (Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 348; amended Pub. L. 104–201, div. A, title V, §578(f)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title V, §599(e), Nov. 18, 1997, 111 Stat. 1769; Pub. L. 106–65, div. A, title X, §1066(a)(14), Oct. 5, 1999, 113 Stat. 771; Pub. L. 111–84, div. A, title V, §541(a), Oct. 28, 2009, 123 Stat. 2296.)
 
 #### Amendments
 
-2009—Pub. L. 111–84 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to review of status of missing person cases arising before enactment of this chapter.
+<b>2009</b>—Pub. L. 111–84 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to review of status of missing person cases arising before enactment of this chapter.
 
-1999—Subsec. (a)(2)(A), (B). Pub. L. 106–65 substituted “November 18, 1997,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998”.
+<b>1999</b>—Subsec. (a)(2)(A), (B). Pub. L. 106–65 substituted “November 18, 1997,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998”.
 
-1997—Subsec. (a). Pub. L. 105–85, §599(e)(1), added subsec. (a) and struck out former subsec. (a) which read as follows:
+<b>1997</b>—Subsec. (a). Pub. L. 105–85, §599(e)(1), added subsec. (a) and struck out former subsec. (a) which read as follows:
 
 “(a)
 
@@ -88,7 +88,7 @@ Review of Status.—In the case of an unaccounted for person covered by section 
 
 Subsec. (d). Pub. L. 105–85, §599(e)(2), added subsec. (d).
 
-1996—Pub. L. 104–201, §578(f)(2)(A), struck out “, special interest” after “Preenactment” in section catchline.
+<b>1996</b>—Pub. L. 104–201, §578(f)(2)(A), struck out “, special interest” after “Preenactment” in section catchline.
 
 Subsecs. (c), (d). Pub. L. 104–201, §578(f)(1), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows:
 

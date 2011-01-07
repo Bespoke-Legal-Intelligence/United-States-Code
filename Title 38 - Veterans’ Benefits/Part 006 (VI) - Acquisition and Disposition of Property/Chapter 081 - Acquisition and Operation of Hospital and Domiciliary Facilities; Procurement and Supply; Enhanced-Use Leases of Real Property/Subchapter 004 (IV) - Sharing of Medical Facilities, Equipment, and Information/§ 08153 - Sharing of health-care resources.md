@@ -8,13 +8,13 @@
 
 (B)(i) If the health-care resource required is a commercial service or the use of medical equipment or space, and is not to be acquired from an entity described in subparagraph (A), any procurement of the resource may be conducted without regard to any law or regulation that would otherwise require the use of competitive procedures for procuring the resource, but only if the procurement is conducted in accordance with the simplified procedures prescribed pursuant to clause (ii).
 
-(ii) The Secretary, in consultation with the Administrator for Federal Procurement Policy, may prescribe simplified procedures for the procurement of health-care resources under this subparagraph. The Secretary shall publish such procedures for public comment in accordance with section 22 of the Office of Federal Procurement Policy Act (41 U.S.C. 418b). Such procedures shall permit all responsible sources, as appropriate, to submit a bid, proposal, or quotation (as appropriate) for the resources to be procured and provide for the consideration by the Department of bids, proposals, or quotations so submitted.
+(ii) The Secretary, in consultation with the Administrator for Federal Procurement Policy, may prescribe simplified procedures for the procurement of health-care resources under this subparagraph. The Secretary shall publish such procedures for public comment in accordance with section 1707 of title 41. Such procedures shall permit all responsible sources, as appropriate, to submit a bid, proposal, or quotation (as appropriate) for the resources to be procured and provide for the consideration by the Department of bids, proposals, or quotations so submitted.
 
 (iii) Pending publication of the procedures under clause (ii), the Secretary shall (except as provided under subparagraph (A)) procure health-care resources referred to in clause (i) in accordance with all procurement laws and regulations.
 
 (C) Any procurement of health-care resources other than those covered by subparagraph (A) or (B) shall be conducted in accordance with all procurement laws and regulations.
 
-(D) For any procurement to be conducted on a sole source basis other than a procurement covered by subparagraph (A), a written justification shall be prepared that includes the information and is approved at the levels prescribed in section 303(f) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(f)).
+(D) For any procurement to be conducted on a sole source basis other than a procurement covered by subparagraph (A), a written justification shall be prepared that includes the information and is approved at the levels prescribed in section 3304(e) of title 41.
 
 (E) As used in this paragraph, the term “commercial service” means a service that is offered and sold competitively in the commercial marketplace, is performed under standard commercial terms and conditions, and is procured using firm-fixed price contracts.
 
@@ -42,7 +42,7 @@
 
 &emsp;(2) recommendations for the improvement or more effective administration of such activities.
 
-(Added Pub. L. 89–785, title II, §203, Nov. 7, 1966, 80 Stat. 1374, §5053; amended Pub. L. 91–496, §4, Oct. 22, 1970, 84 Stat. 1092; Pub. L. 93–82, title III, §303, Aug. 2, 1973, 87 Stat. 195; Pub. L. 94–581, title I, §115(a)(1), title II, §§206(c), 210(e)(11), Oct. 21, 1976, 90 Stat. 2852, 2859, 2865; Pub. L. 96–151, title III, §304, Dec. 20, 1979, 93 Stat. 1096; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–160, title VII, §702(20), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 99–576, title II, §231(c)(1), Oct. 28, 1986, 100 Stat. 3264; Pub. L. 101–366, title II, §202(b), Aug. 15, 1990, 104 Stat. 438; renumbered §8153, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(f)(9), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(D), (E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–210, §3(c), Dec. 20, 1993, 107 Stat. 2498; Pub. L. 104–262, title III, §301(c), (d)(1), Oct. 9, 1996, 110 Stat. 3191, 3193; Pub. L. 105–114, title IV, §402(d), (e), Nov. 21, 1997, 111 Stat. 2294; Pub. L. 106–419, title IV, §404(b)(2), Nov. 1, 2000, 114 Stat. 1866; Pub. L. 108–170, title IV, §405(d), Dec. 6, 2003, 117 Stat. 2063.)
+(Added Pub. L. 89–785, title II, §203, Nov. 7, 1966, 80 Stat. 1374, §5053; amended Pub. L. 91–496, §4, Oct. 22, 1970, 84 Stat. 1092; Pub. L. 93–82, title III, §303, Aug. 2, 1973, 87 Stat. 195; Pub. L. 94–581, title I, §115(a)(1), title II, §§206(c), 210(e)(11), Oct. 21, 1976, 90 Stat. 2852, 2859, 2865; Pub. L. 96–151, title III, §304, Dec. 20, 1979, 93 Stat. 1096; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–160, title VII, §702(20), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 99–576, title II, §231(c)(1), Oct. 28, 1986, 100 Stat. 3264; Pub. L. 101–366, title II, §202(b), Aug. 15, 1990, 104 Stat. 438; renumbered §8153, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(f)(9), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(D), (E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–210, §3(c), Dec. 20, 1993, 107 Stat. 2498; Pub. L. 104–262, title III, §301(c), (d)(1), Oct. 9, 1996, 110 Stat. 3191, 3193; Pub. L. 105–114, title IV, §402(d), (e), Nov. 21, 1997, 111 Stat. 2294; Pub. L. 106–419, title IV, §404(b)(2), Nov. 1, 2000, 114 Stat. 1866; Pub. L. 108–170, title IV, §405(d), Dec. 6, 2003, 117 Stat. 2063; Pub. L. 111–350, §5(j)(8), Jan. 4, 2011, 124 Stat. 3850.)
 
 #### References in Text
 
@@ -50,15 +50,19 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 
 #### Amendments
 
-2003—Subsec. (g). Pub. L. 108–170, in introductory provisions, substituted “not later than February 1 of each year” for “not more than 60 days after the end of each fiscal year” and inserted “during the preceding fiscal year” after “under this section”.
+<b>2011</b>—Subsec. (a)(3)(B)(ii). Pub. L. 111–350, §5(j)(8)(A), substituted “section 1707 of title 41” for “section 22 of the Office of Federal Procurement Policy Act (41 U.S.C. 418b)”.
 
-2000—Subsec. (a)(3)(B)(ii). Pub. L. 106–419 amended directory language of Pub. L. 105–114, §402(e). See 1997 Amendment note below.
+Subsec. (a)(3)(D). Pub. L. 111–350, §5(j)(8)(B), substituted “section 3304(e) of title 41” for “section 303(f) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(f))”.
 
-1997—Subsec. (a)(3)(A). Pub. L. 105–114, §402(d), inserted “(including any Executive order, circular, or other administrative policy)” after “law or regulation”.
+<b>2003</b>—Subsec. (g). Pub. L. 108–170, in introductory provisions, substituted “not later than February 1 of each year” for “not more than 60 days after the end of each fiscal year” and inserted “during the preceding fiscal year” after “under this section”.
+
+<b>2000</b>—Subsec. (a)(3)(B)(ii). Pub. L. 106–419 amended directory language of Pub. L. 105–114, §402(e). See 1997 Amendment note below.
+
+<b>1997</b>—Subsec. (a)(3)(A). Pub. L. 105–114, §402(d), inserted “(including any Executive order, circular, or other administrative policy)” after “law or regulation”.
 
 Subsec. (a)(3)(B)(ii). Pub. L. 105–114, §402(e), as amended by Pub. L. 106–419, inserted “, as appropriate,” after “all responsible sources” in third sentence.
 
-1996—Pub. L. 104–262, §301(d)(1), substituted “Sharing of health-care resources” for “Specialized medical resources” in section catchline.
+<b>1996</b>—Pub. L. 104–262, §301(d)(1), substituted “Sharing of health-care resources” for “Specialized medical resources” in section catchline.
 
 Subsec. (a)(1). Pub. L. 104–262, §301(c)(1)(A), substituted “health-care resources” for “certain specialized medical resources”, “other health-care resources” for “other medical resources”, and “of health-care resources between Department health-care facilities and any health-care provider, or other entity or individual” for “of—
 
@@ -82,13 +86,13 @@ Subsec. (d). Pub. L. 104–262, §301(c)(3), substituted “preclude such paymen
 
 Subsecs. (e) to (g). Pub. L. 104–262, §301(c)(4), added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
 
-1993—Subsec. (a). Pub. L. 103–210 designated existing provisions as par. (1) and substituted “other form of agreement for the mutual use, or exchange of use, of—” along with subpars. (A) and (B) and par. (2), for “other form of agreement, as set forth in clauses (1) and (2) below, between Department health-care facilities and other health-care facilities (including organ banks, blood banks, or similar institutions), research centers, or medical schools:
+<b>1993</b>—Subsec. (a). Pub. L. 103–210 designated existing provisions as par. (1) and substituted “other form of agreement for the mutual use, or exchange of use, of—” along with subpars. (A) and (B) and par. (2), for “other form of agreement, as set forth in clauses (1) and (2) below, between Department health-care facilities and other health-care facilities (including organ banks, blood banks, or similar institutions), research centers, or medical schools:
 
 &emsp;“(1) for the mutual use, or exchange of use, of specialized medical resources when such an agreement will obviate the need for a similar resource to be provided in a Department health care facility; or
 
 &emsp;“(2) for the mutual use, or exchange of use, of specialized medical resources in a Department health care facility, which have been justified on the basis of veterans’ care, but which are not utilized to their maximum effective capacity.”
 
-1991—Pub. L. 102–40 renumbered section 5053 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5053 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in introductory provisions.
 
@@ -108,27 +112,27 @@ Subsec. (d)(2). Pub. L. 102–83, §4(b)(2)(D), substituted “the two Secretari
 
 Subsec. (e). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
-1990—Subsec. (a). Pub. L. 101–366, §202(b)(1), substituted “health-care facilities and other health-care facilities (including organ banks, blood banks, or similar institutions), research centers, or medical schools” for “hospitals and other hospitals (or other medical installations having hospital facilities or organ banks, blood banks, or similar institutions) or medical schools or clinics in the medical community” and struck out at end “The Administrator may determine the geographical limitations of a medical community as used in this section.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–366, §202(b)(1), substituted “health-care facilities and other health-care facilities (including organ banks, blood banks, or similar institutions), research centers, or medical schools” for “hospitals and other hospitals (or other medical installations having hospital facilities or organ banks, blood banks, or similar institutions) or medical schools or clinics in the medical community” and struck out at end “The Administrator may determine the geographical limitations of a medical community as used in this section.”
 
 Subsec. (b). Pub. L. 101–366, §202(b)(2), substituted in first sentence “a methodology that provides appropriate flexibility to the heads of the facilities concerned to establish an appropriate reimbursement rate after taking into account local conditions and needs and the actual costs to the providing facility of the resource involved.” for “a charge which covers the full cost of services rendered, supplies used, and including normal depreciation and amortization costs of equipment.” and inserted before period at end of second sentence “and to funds that have been allotted to the facility that furnished the resource involved”.
 
-1986—Subsec. (e). Pub. L. 99–576 added subsec. (e).
+<b>1986</b>—Subsec. (e). Pub. L. 99–576 added subsec. (e).
 
-1983—Subsec. (d). Pub. L. 98–160 substituted “title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.)” for “subchapter XVIII of chapter 7 of title 42”.
+<b>1983</b>—Subsec. (d). Pub. L. 98–160 substituted “title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.)” for “subchapter XVIII of chapter 7 of title 42”.
 
-1982—Subsec. (d)(1). Pub. L. 97–295 substituted “Health and Human Services” for “Health, Education, and Welfare”.
+<b>1982</b>—Subsec. (d)(1). Pub. L. 97–295 substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-1979—Subsec. (a). Pub. L. 96–151 inserted provisions relating to applicability to organ banks, blood banks, or similar institutions.
+<b>1979</b>—Subsec. (a). Pub. L. 96–151 inserted provisions relating to applicability to organ banks, blood banks, or similar institutions.
 
-1976—Subsec. (a). Pub. L. 94–581, §§206(c), 210(e)(11), substituted “when the Administrator determines” for “when he determines” and “clauses” for “paragraphs” in provisions preceding cl. (1), and inserted “health care” after “Veterans’ Administration” in cls. (1) and (2).
+<b>1976</b>—Subsec. (a). Pub. L. 94–581, §§206(c), 210(e)(11), substituted “when the Administrator determines” for “when he determines” and “clauses” for “paragraphs” in provisions preceding cl. (1), and inserted “health care” after “Veterans’ Administration” in cls. (1) and (2).
 
 Subsec. (c). Pub. L. 94–581, §206(c)(2), inserted “health care” after “Veterans’ Administration” in two places.
 
 Subsec. (d). Pub. L. 94–581, §115(a)(1), inserted subsec. (d).
 
-1973—Subsec. (a). Pub. L. 93–82 struck out “or medical schools” from parenthetical and inserted “or medical schools or clinics” after parenthetical.
+<b>1973</b>—Subsec. (a). Pub. L. 93–82 struck out “or medical schools” from parenthetical and inserted “or medical schools or clinics” after parenthetical.
 
-1970—Subsec. (a)(1). Pub. L. 91–496 substituted “for the mutual use, or exchange of use,” for “for the exchange of use”.
+<b>1970</b>—Subsec. (a)(1). Pub. L. 91–496 substituted “for the mutual use, or exchange of use,” for “for the exchange of use”.
 
 #### Effective Date of 2000 Amendment
 

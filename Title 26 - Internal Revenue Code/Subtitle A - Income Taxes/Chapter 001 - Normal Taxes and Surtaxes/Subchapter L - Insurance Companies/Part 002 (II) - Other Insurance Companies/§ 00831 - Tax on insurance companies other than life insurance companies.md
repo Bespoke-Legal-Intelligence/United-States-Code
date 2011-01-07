@@ -60,25 +60,25 @@ For purposes of this section, the term “insurance company” has the meaning g
 
 #### Amendments
 
-2004—Subsec. (b)(2)(A)(i). Pub. L. 108–218, §206(d), struck out “exceed $350,000 but” after “taxable year”.
+<b>2004</b>—Subsec. (b)(2)(A)(i). Pub. L. 108–218, §206(d), struck out “exceed $350,000 but” after “taxable year”.
 
 Subsecs. (c), (d). Pub. L. 108–218, §206(c), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1988—Subsec. (b)(2)(A). Pub. L. 100–647, §1010(f)(1), inserted at end “The election under clause (ii) shall apply to the taxable year for which made and for all subsequent taxable years for which the requirements of clause (i) are met. Such an election, once made, may be revoked only with the consent of the Secretary.”
+<b>1988</b>—Subsec. (b)(2)(A). Pub. L. 100–647, §1010(f)(1), inserted at end “The election under clause (ii) shall apply to the taxable year for which made and for all subsequent taxable years for which the requirements of clause (i) are met. Such an election, once made, may be revoked only with the consent of the Secretary.”
 
 Subsec. (b)(3). Pub. L. 100–647, §1010(f)(9), added par. (3).
 
-1986—Pub. L. 99–514 amended section generally, substituting provisions imposing taxes on insurance companies other than life insurance companies, with an alternative tax on certain small companies, for provisions imposing taxes on insurance companies (other than life or mutual), mutual marine insurance companies, and certain mutual fire or flood insurance companies, with an election for multiple line companies to be taxed on total income.
+<b>1986</b>—Pub. L. 99–514 amended section generally, substituting provisions imposing taxes on insurance companies other than life insurance companies, with an alternative tax on certain small companies, for provisions imposing taxes on insurance companies (other than life or mutual), mutual marine insurance companies, and certain mutual fire or flood insurance companies, with an election for multiple line companies to be taxed on total income.
 
-1976—Subsec. (a). Pub. L. 94–455, §1901(a)(107), substituted “on the taxable income” for “or the taxable income”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1901(a)(107), substituted “on the taxable income” for “or the taxable income”.
 
 Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-1966—Subsec. (b). Pub. L. 89–809, §104(i)(6)(A), redesignated subsec. (c) as (b). Former subsec. (b), which excepted foreign insurance companies other than life or mutual insurance companies, foreign mutual marine insurance companies, and foreign mutual fire insurance companies not carrying on an insurance business within the United States and provided that they would be taxable as other foreign corporations, was struck out.
+<b>1966</b>—Subsec. (b). Pub. L. 89–809, §104(i)(6)(A), redesignated subsec. (c) as (b). Former subsec. (b), which excepted foreign insurance companies other than life or mutual insurance companies, foreign mutual marine insurance companies, and foreign mutual fire insurance companies not carrying on an insurance business within the United States and provided that they would be taxable as other foreign corporations, was struck out.
 
 Subsecs. (c), (d). Pub. L. 89–809, §104(i)(6)(B), redesignated subsec. (d) as (c) and added item (2). Former subsec. (c) redesignated (b).
 
-1962—Pub. L. 87–834, §8(g)(4)(B), substituted “and certain mutual fire or flood insurance companies” for “and mutual fire insurance companies issuing perpetual policies” in section catchline.
+<b>1962</b>—Pub. L. 87–834, §8(g)(4)(B), substituted “and certain mutual fire or flood insurance companies” for “and mutual fire insurance companies issuing perpetual policies” in section catchline.
 
 Subsec. (a). Pub. L. 87–834, §8(e)(1), included flood insurance companies, and substituted provisions authorizing imposition of the tax on those companies whose principal business is the issuance of policies for which the premium deposits are the same, regardless of the length of the term for which the policies are written, if the unabsorbed portion of such premium deposits not required for losses, expenses, or establishment of reserves is returned or credited to the policyholder on cancellation or expiration of the policy for provisions which authorized imposition of tax on those companies which issued policies for which the sole premium charged is a single deposit which (except for such deduction of underwriting costs as may be provided) is refundable on cancellation or expiration of the policy.
 

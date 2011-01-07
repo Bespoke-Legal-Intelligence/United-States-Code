@@ -70,7 +70,7 @@ The Director shall prescribe such regulations as may be necessary to carry out t
 
 &emsp;At the end of each of the fiscal years 1993 through 1997, the Director shall submit to the President and the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report on the effectiveness and costs of carrying out this section.
 
-(Pub. L. 103–36, §2, June 8, 1993, 107 Stat. 104; Pub. L. 103–226, §8(b), Mar. 30, 1994, 108 Stat. 118;Pub. L. 104–93, title IV, §401, Jan. 6, 1996, 109 Stat. 968; Pub. L. 104–293, title IV, §401, Oct. 11, 1996, 110 Stat. 3468; Pub. L. 106–120, title IV, §402, Dec. 3, 1999, 113 Stat. 1616; Pub. L. 107–108, title IV, §402, Dec. 28, 2001, 115 Stat. 1403; Pub. L. 107–306, title IV, §401, Nov. 27, 2002, 116 Stat. 2403; Pub. L. 108–458, title I, §1071(d), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 108–487, title IV, §401(a), (b)(1), Dec. 23, 2004, 118 Stat. 3945, 3946.)
+(Pub. L. 103–36, §2, June 8, 1993, 107 Stat. 104; Pub. L. 103–226, §8(b), Mar. 30, 1994, 108 Stat. 118; Pub. L. 104–93, title IV, §401, Jan. 6, 1996, 109 Stat. 968; Pub. L. 104–293, title IV, §401, Oct. 11, 1996, 110 Stat. 3468; Pub. L. 106–120, title IV, §402, Dec. 3, 1999, 113 Stat. 1616; Pub. L. 107–108, title IV, §402, Dec. 28, 2001, 115 Stat. 1403; Pub. L. 107–306, title IV, §401, Nov. 27, 2002, 116 Stat. 2403; Pub. L. 108–458, title I, §1071(d), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 108–487, title IV, §401(a), (b)(1), Dec. 23, 2004, 118 Stat. 3945, 3946.)
 
 #### Codification
 
@@ -80,31 +80,31 @@ Section was enacted as part of the Central Intelligence Agency Voluntary Separat
 
 #### Amendments
 
-2004—Subsec. (a)(1). Pub. L. 108–458, §1071(d), amended par. (1) generally. Prior to amendment, par. (1) read: “the term ‘Director’ means the Director of Central Intelligence; and”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §1071(d), amended par. (1) generally. Prior to amendment, par. (1) read: “the term ‘Director’ means the Director of Central Intelligence; and”.
 
 Subsecs. (f) to (h). Pub. L. 108–487, §401(a), redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out former subsec. (f), which related to termination of payments under this section.
 
 Subsec. (i). Pub. L. 108–487, §401(b)(1), struck out subsec. (i) which related to remittance of funds.
 
-2002—Subsec. (f). Pub. L. 107–306, §401(1), substituted “September 30, 2005” for “September 30, 2003”.
+<b>2002</b>—Subsec. (f). Pub. L. 107–306, §401(1), substituted “September 30, 2005” for “September 30, 2003”.
 
 Subsec. (i). Pub. L. 107–306, §401(2), substituted “2003, 2004, or 2005” for “or 2003”.
 
-2001—Subsec. (f). Pub. L. 107–108, §402(1), substituted “September 30, 2003” for “September 30, 2002”.
+<b>2001</b>—Subsec. (f). Pub. L. 107–108, §402(1), substituted “September 30, 2003” for “September 30, 2002”.
 
 Subsec. (i). Pub. L. 107–108, §402(2), substituted “2002, or 2003” for “or 2002”.
 
-1999—Subsec. (f). Pub. L. 106–120, §402(a), substituted “September 30, 2002” for “September 30, 1999”.
+<b>1999</b>—Subsec. (f). Pub. L. 106–120, §402(a), substituted “September 30, 2002” for “September 30, 1999”.
 
 Subsec. (i). Pub. L. 106–120, §402(b), substituted “, 1999, 2000, 2001, or 2002” for “or fiscal year 1999”.
 
-1996—Subsec. (f). Pub. L. 104–93, §401(a), substituted “September 30, 1999” for “September 30, 1997”.
+<b>1996</b>—Subsec. (f). Pub. L. 104–93, §401(a), substituted “September 30, 1999” for “September 30, 1997”.
 
 Subsec. (i). Pub. L. 104–293 inserted at end: “The remittance required by this subsection shall be in lieu of any remittance required by section 4(a) of the Federal Workforce Restructuring Act of 1994 (5 U.S.C. 8331 note).”
 
 Pub. L. 104–93, §401(b), added subsec. (i).
 
-1994—Subsec. (b). Pub. L. 103–226, §8(b), inserted four sentences at end relating to repayment of separation pay requirement.
+<b>1994</b>—Subsec. (b). Pub. L. 103–226, §8(b), inserted four sentences at end relating to repayment of separation pay requirement.
 
 #### Effective Date of 2004 Amendment
 

@@ -18,5 +18,5 @@ The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b)(1),
 
 #### Amendments
 
-1978—Pub. L. 95–352 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1978</b>—Pub. L. 95–352 designated existing provisions as subsec. (a) and added subsec. (b).
 

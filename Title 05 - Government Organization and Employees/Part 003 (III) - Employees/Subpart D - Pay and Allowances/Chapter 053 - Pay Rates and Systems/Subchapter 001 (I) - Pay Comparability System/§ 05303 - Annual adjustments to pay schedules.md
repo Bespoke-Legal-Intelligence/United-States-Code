@@ -98,13 +98,51 @@ For designation of agencies to perform functions of President under subsec. (g) 
 
 #### Pay Raises for Programs Funded by Energy and Water Development Appropriations Acts To Be Absorbed Within Such Acts
 
-Pub. L. 102–377, title V, §506, Oct. 2, 1992, 106 Stat. 1343, provided that: “Such sums as may be necessary for Federal employee pay raises for programs funded by this Act or subsequent Energy and Water Development Appropriations Acts hereafter shall be absorbed within the levels appropriated in such Acts.”
+Pub. L. 102–377, title V, §506, Oct. 2, 1992, 106 Stat. 1343, provided that: “Such sums as may be necessaryfor Federal employee pay raises for programs funded by this Act or subsequent Energy and Water Development Appropriations Acts hereafter shall be absorbed within the levels appropriated in such Acts.”
 
 #### Sense of Congress
 
 Section 529 \[title I, §101(e)\] of Pub. L. 101–509 provided that: “It is the sense of the Congress that the total funds dedicated to adjustments under sections 5303 and 5304 \[of this title\] for any year be no less than the total funds that would have been dedicated to adjustments under such section 5303 for such year had the full change in the ECI been applied to pay rates for such year.”
 
 #### Federal Employee Pay Adjustments
+
+2010—Pub. L. 111–242, §147, as added by Pub. L. 111–322, title I, §1(a)(2), Dec. 22, 2010, 124 Stat. 3518, provided that:
+
+“(a) For the purposes of this section—
+
+&emsp;“(1) the term ‘employee’—
+
+&emsp;&emsp;“(A) means an employee as defined in section 2105 of title 5, United States Code; and
+
+&emsp;&emsp;“(B) includes an individual to whom subsection (b), (c), or (f) of such section 2105 pertains (whether or not such individual satisfies subparagraph (A));
+
+&emsp;“(2) the term ‘senior executive’ means—
+
+&emsp;&emsp;“(A) a member of the Senior Executive Service under subchapter VIII of chapter 53 of title 5, United States Code;
+
+&emsp;&emsp;“(B) a member of the FBI–DEA Senior Executive Service under subchapter III of chapter 31 of title 5, United States Code;
+
+&emsp;&emsp;“(C) a member of the Senior Foreign Service under chapter 4 of title I of the Foreign Service Act of 1980 (22 U.S.C. 3961 and following); and
+
+&emsp;&emsp;“(D) a member of any similar senior executive service in an Executive agency;
+
+&emsp;“(3) the term ‘senior-level employee’ means an employee who holds a position in an Executive agency and who is covered by section 5376 of title 5, United States Code, or any similar authority; and
+
+&emsp;“(4) the term ‘Executive agency’ has the meaning given such term by section 105 of title 5, United States Code.
+
+“(b)(1) Notwithstanding any other provision of law, except as provided in subsection (e), no statutory pay adjustment which (but for this subsection) would otherwise take effect during the period beginning on January 1, 2011, and ending on December 31, 2012, shall be made.
+
+“(2) For purposes of this subsection, the term ‘statutory pay adjustment’ means—
+
+&emsp;“(A) an adjustment required under section 5303, 5304, 5304a, 5318, or 5343(a) of title 5, United States Code; and
+
+&emsp;“(B) any similar adjustment, required by statute, with respect to employees in an Executive agency.
+
+“(c) Notwithstanding any other provision of law, except as provided in subsection (e), during the period beginning on January 1, 2011, and ending on December 31, 2012, no senior executive or senior-level employee may receive an increase in his or her rate of basic pay absent a change of position that results in a substantial increase in responsibility, or a promotion.
+
+“(d) The President may issue guidance that Executive agencies shall apply in the implementation of this section.
+
+“(e) The Non-Foreign Area Retirement Equity Assurance Act of 2009 \[Pub. L. 111–84, div. A, title XIX, subtitle B\] (5 U.S.C. 5304 note) shall be applied using the appropriate locality-based comparability payments established by the President as the applicable comparability payments in section 1914(2) and (3) of such Act.”
 
 2009—Pub. L. 111–117, div. C, title VII, §744, Dec. 16, 2009, 123 Stat. 3219, provided that:
 
@@ -116,7 +154,7 @@ Section 529 \[title I, §101(e)\] of Pub. L. 101–509 provided that: “It is t
 
 2008—Pub. L. 110–329, div. A, §142, Sept. 30, 2008, 122 Stat. 3580, as amended by Pub. L. 111–8, div. D, title VII, §738(a), Mar. 11, 2009, 123 Stat. 691, provided that:
 
-“(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2009 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 3.9 percent, and this adjustment shall apply to civilian employees in the Department of Homeland Security andshall apply to civilian employees in the Department of Defense who are represented by a labor organization as defined in section 7103(a)(4) of title 5, United States Code. Such adjustment shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2009.
+“(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2009 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 3.9 percent, and this adjustment shall apply to civilian employees in the Department of Homeland Security and shall apply to civilian employees in the Department of Defense who are represented by a labor organization as defined in section 7103(a)(4) of title 5, United States Code. Such adjustment shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2009.
 
 “(b) The adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2009 under sections 5344 and 5348 of title 5, United States Code, shall be no less than the percentage in subsection (a) as employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under section 5303 and 5304 of such title 5. Prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303 and 5304 of such title 5 and prevailing rate employees described in section 5343(a)(5) of such title 5 shall be considered to be located in the pay locality designated as ‘Rest of US’ pursuant to section 5304 of such title 5 for purposes of this subsection.
 
@@ -154,7 +192,7 @@ Pub. L. 108–199, div. F, title VI, §640, Jan. 23, 2004, 118 Stat. 359, provid
 
 “(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2004 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 4.1 percent, and this adjustment shall apply to civilian employees in the Department of Defense and the Department of Homeland Security and such adjustments shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2004.
 
-“(b) Notwithstanding section 613 of this Act \[div. F of Pub. L. 108–199, 5 U.S.C. 5343 note\], the adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2004 under sections 5344 and 5348 of title 5, United States Code, shall be no less than the percentage in paragraph (a) as employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under section 5303 and 5304 of title 5, United States Code. Prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303 and5304 of title 5 and prevailing rate employees described in section 5343(a)(5) of title 5 shall be considered to be located in the pay locality designated as ‘Rest of US’ pursuant to section 5304 of title 5 for purposes of this paragraph.
+“(b) Notwithstanding section 613 of this Act \[div. F of Pub. L. 108–199, 5 U.S.C. 5343 note\], the adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2004 under sections 5344 and 5348 of title 5, United States Code, shall be no less than the percentage in paragraph (a) as employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under section 5303 and 5304 of title 5, United States Code. Prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303 and 5304 of title 5 and prevailing rate employees described in section 5343(a)(5) of title 5 shall be considered to be located in the pay locality designated as ‘Rest of US’ pursuant to section 5304 of title 5 for purposes of this paragraph.
 
 “(c) Funds used to carry out this section shall be paid from appropriations, which are made to each applicable department or agency for salaries and expenses for fiscal year 2004.”
 
@@ -256,7 +294,7 @@ Restoration.—
 
 &emsp;“(1)
 
-In general.—Effective for pay periods beginning on or after the date of enactment of this Act \[Nov. 30, 1989\], the rate of basic pay for any office or position in the executive, legislative, or judicial branch of the Government or in the government of the District of Columbia shall be determined as if the provisions of law cited in paragraph (2) had never been enacted.
+In general.—Effective for pay periods beginning on or after the date of enactment of this Act \[Nov. 30, 1989\], the rate of basic pay for any office or position in the executive, legislative, or judicialbranch of the Government or in the government of the District of Columbia shall be determined as if the provisions of law cited in paragraph (2) had never been enacted.
 
 &emsp;“(2)
 
@@ -324,7 +362,7 @@ Pub. L. 101–136, title VI, §619, Nov. 3, 1989, 103 Stat. 820, provided that:
 
 &emsp;“(A) if the rate of salary or basic pay payable for that office or position as of September 30, 1988, was equal to or greater than the rate of basic pay then payable for level III of the Executive Schedule under section 5314 of title 5, United States Code; or
 
-&emsp;“(B) to a rate exceeding the rate of basic pay payable for level III of the Executive Schedule under such section 5314 as of September 30, 1988, if, as of that date, the rate of salary or basic pay payable for that office or position was less than the rate of basic pay then payable for such level III.
+&emsp;“(B) to a rate exceeding the rate of basic pay payable for level III of the Executive Schedule under such section 5314 as of September 30, 1988, if, as of that date, the rate of salary or basic pay payable forthat office or position was less than the rate of basic pay then payable for such level III.
 
 “(2) For purposes of paragraph (1), the rate of salary or basic pay payable as of September 30, 1988, for any office or position which was not in existence on such date shall be deemed to be the rate of salary or basic pay payable to individuals in comparable offices or positions on such date, as determined under regulations prescribed—
 
@@ -382,7 +420,7 @@ Pub. L. 99–272, title XV, §15201(a), Apr. 7, 1986, 100 Stat. 332, provided th
 
 “(1) The rates of pay under the General Schedule and the rates of pay under the other statutory pay systems referred to in section 5301(c) of title 5, United States Code, shall not be adjusted under section 5305 of such title during fiscal year 1986.
 
-“(2)(A)(i) For fiscal years 1987 and 1988, the President shall provide for the adjustment of rates of pay undersection 5305 of title 5, United States Code, as appropriate to reduce outlays, relating to pay of officers and employees of the Federal Government, by at least $746,000,000 in fiscal year 1987 and $1,264,000,000 in fiscal year 1988 (without regard to reductions in outlays which result by reason of subparagraph (B)(ii) of this paragraph, paragraph (1) of this subsection, subsection (b) of this section, and the application of section 1009 of title 37, United States Code), computed using the baseline used for the First Concurrent Resolution on the Budget for Fiscal Year 1986 (S. Con. Res. 32, 99th Congress), agreed to on August 1, 1985.
+“(2)(A)(i) For fiscal years 1987 and 1988, the President shall provide for the adjustment of rates of pay under section 5305 of title 5, United States Code, as appropriate to reduce outlays, relating to pay of officers and employees of the Federal Government, by at least $746,000,000 in fiscal year 1987 and $1,264,000,000 in fiscal year 1988 (without regard to reductions in outlays which result by reason of subparagraph (B)(ii) of this paragraph, paragraph (1) of this subsection, subsection (b) of this section, and the application of section 1009 of title 37, United States Code), computed using the baseline used for the First Concurrent Resolution on the Budget for Fiscal Year 1986 (S. Con. Res. 32, 99th Congress), agreed to on August 1, 1985.
 
 “(ii) Clause (i) of this subparagraph shall not be construed to suspend the requirements of section 5305 of title 5, United States Code, with respect to fiscal years 1987 and 1988.
 
@@ -438,7 +476,7 @@ Section 3(c) of Pub. L. 91–656 provided that: “The President may make the in
 
 &emsp;“(1) effective on the first day of the first pay period beginning on or after July 1, 1968, adjust the rates of basic pay, basic compensation, and salary, as in effect by reason of the enactment of the provisions of this title \[see Short Title note under section 5332 of this title\] other than this section and sections 205, 210, 213, 214, 215, and 219—
 
-&emsp;&emsp;“(A) by amounts equal, as nearly as may be practicable, to one-half of the amounts by which such rates are exceeded by rates of pay paid for the samelevels of work in private enterprise as determined on the basis of the 1967 annual survey conducted by the Bureau of Labor Statistics in accordance with the provisions of section 5302 of title 5, United States Code, or
+&emsp;&emsp;“(A) by amounts equal, as nearly as may be practicable, to one-half of the amounts by which such rates are exceeded by rates of pay paid for the same levels of work in private enterprise as determined on the basis of the 1967 annual survey conducted by the Bureau of Labor Statistics in accordance with the provisions of section 5302 of title 5, United States Code, or
 
 &emsp;&emsp;“(B) by 3 per centum,
 

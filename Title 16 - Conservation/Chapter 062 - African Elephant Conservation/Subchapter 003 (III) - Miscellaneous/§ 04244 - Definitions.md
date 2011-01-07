@@ -42,7 +42,7 @@ The Endangered Species Act of 1973, referred to in par. (5), is Pub. L. 93–205
 
 #### Amendments
 
-2002—Par. (4). Pub. L. 107–111 substituted “the account established by division A, section 101(e), title I of Public Law 105–277 under the heading ‘
+<b>2002</b>—Par. (4). Pub. L. 107–111 substituted “the account established by division A, section 101(e), title I of Public Law 105–277 under the heading ‘
 
 multinational species conservation fund’ ” for “the African Elephant Conservation Fund established by section 4212 of this title”.
 

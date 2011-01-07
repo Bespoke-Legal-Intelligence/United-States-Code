@@ -34,11 +34,11 @@ For purposes of applying any exemption from, or reduction of, any tax provided b
 
 #### Amendments
 
-1997—Subsec. (c). Pub. L. 105–34 added subsec. (c).
+<b>1997</b>—Subsec. (c). Pub. L. 105–34 added subsec. (c).
 
-1988—Subsec. (a). Pub. L. 100–647 substituted “Treaty provisions” for “Income affected by treaty” in heading and amended text generally. Prior to amendment, text read as follows: “Income of any kind, to the extent required by any treaty obligation of the United States, shall not be included in gross income and shall be exempt from taxation under this subtitle.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–647 substituted “Treaty provisions” for “Income affected by treaty” in heading and amended text generally. Prior to amendment, text read as follows: “Income of any kind, to the extent required by any treaty obligation of the United States, shall not be included in gross income and shall be exempt from taxation under this subtitle.”
 
-1966—Pub. L. 89–809 designated existing provisions as subsec. (a), added subsec. (b), and substituted “affected by treaty” for “exempt under treaty” in section catchline.
+<b>1966</b>—Pub. L. 89–809 designated existing provisions as subsec. (a), added subsec. (b), and substituted “affected by treaty” for “exempt under treaty” in section catchline.
 
 #### Effective Date of 1997 Amendment
 

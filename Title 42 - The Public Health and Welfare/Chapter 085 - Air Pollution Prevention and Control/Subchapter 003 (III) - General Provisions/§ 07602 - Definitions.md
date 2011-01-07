@@ -90,7 +90,7 @@ Provisions similar to those in subsecs. (b) and (d) of this section were contain
 
 #### Amendments
 
-1990—Subsec. (b)(1) to (3). Pub. L. 101–549, §107(a)(1), (2), struck out “or” at end of par. (3) and substituted periods for semicolons at end of pars. (1) to (3).
+<b>1990</b>—Subsec. (b)(1) to (3). Pub. L. 101–549, §107(a)(1), (2), struck out “or” at end of par. (3) and substituted periods for semicolons at end of pars. (1) to (3).
 
 Subsec. (b)(5). Pub. L. 101–549, §107(a)(3), added par. (5).
 
@@ -108,7 +108,7 @@ Subsecs. (s) to (y). Pub. L. 101–549, §108(j)(1), added subsecs. (s) to (y).
 
 Subsec. (z). Pub. L. 101–549, §709, added subsec. (z).
 
-1977—Subsec. (d). Pub. L. 95–95, §218(c), inserted “and includes the Commonwealth of the Northern Mariana Islands” after “American Samoa”.
+<b>1977</b>—Subsec. (d). Pub. L. 95–95, §218(c), inserted “and includes the Commonwealth of the Northern Mariana Islands” after “American Samoa”.
 
 Subsec. (e). Pub. L. 95–190 substituted “individual, corporation” for “individual corporation”.
 
@@ -118,11 +118,11 @@ Subsec. (g). Pub. L. 95–95, §301(c), expanded definition of “air pollutant�
 
 Subsecs. (i) to (p). Pub. L. 95–95, §301(a), added subsecs. (i) to (p).
 
-1970—Subsec. (a). Pub. L. 91–604, §15(c)(1), substituted definition of “Administrator” as meaning Administrator of the Environmental Protection Agency for definition of “Secretary” as meaning Secretary of Health, Education, and Welfare.
+<b>1970</b>—Subsec. (a). Pub. L. 91–604, §15(c)(1), substituted definition of “Administrator” as meaning Administrator of the Environmental Protection Agency for definition of “Secretary” as meaning Secretary of Health, Education, and Welfare.
 
 Subsecs. (g), (h). Pub. L. 91–604, §15(a)(1), added subsec. (g) defining “air pollutant”, redesignated former subsec. (g) as (h) and substituted references to effects on soil, water, crops, vegetation, manmade materials, animals, wildlife, weather, visibility, and climate for references to injury to agricultural crops and livestock, and inserted references to effects on economic values and on personal comfort and well being.
 
-1967—Pub. L. 90–148 reenacted section without change.
+<b>1967</b>—Pub. L. 90–148 reenacted section without change.
 
 #### Effective Date of 1977 Amendment
 

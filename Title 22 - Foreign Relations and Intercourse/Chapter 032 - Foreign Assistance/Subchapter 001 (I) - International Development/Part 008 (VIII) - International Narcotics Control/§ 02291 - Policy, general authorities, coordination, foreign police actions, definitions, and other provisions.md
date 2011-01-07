@@ -148,15 +148,15 @@ A prior section 481 of Pub. L. 87–195, pt. I, as added Pub. L. 92–226, pt. I
 
 #### Amendments
 
-2008—Subsec. (e)(4)(C). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+<b>2008</b>—Subsec. (e)(4)(C). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
-1997—Subsec. (b)(1). Pub. L. 105–20 substituted reference to chapter 1 of the National Narcotics Leadership Act of 1988 for reference to subtitle A of title I of the Anti-Drug Abuse Act of 1988.
+<b>1997</b>—Subsec. (b)(1). Pub. L. 105–20 substituted reference to chapter 1 of the National Narcotics Leadership Act of 1988 for reference to subtitle A of title I of the Anti-Drug Abuse Act of 1988.
 
-1996—Subsec. (a)(1)(D) to (G). Pub. L. 104–164, §131(a)(1), added subpar. (D) and redesignated former subpars. (D) to (F) as (E) to (G), respectively.
+<b>1996</b>—Subsec. (a)(1)(D) to (G). Pub. L. 104–164, §131(a)(1), added subpar. (D) and redesignated former subpars. (D) to (F) as (E) to (G), respectively.
 
 Subsec. (a)(4). Pub. L. 104–164, §131(a)(2), inserted “, or for other anticrime purposes” before period at end.
 
-1994—Subsec. (d)(2) to (4). Pub. L. 103–447, §101(a), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out heading and text of former par. (2). Text read as follows: “The Secretary of State shall inform the Secretary of Health and Human Services and the Administrator of the Environmental Protection Agency of the use or intended use by any country or international organization of any herbicide for aerial eradication in a program receiving assistance under this part.”
+<b>1994</b>—Subsec. (d)(2) to (4). Pub. L. 103–447, §101(a), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out heading and text of former par. (2). Text read as follows: “The Secretary of State shall inform the Secretary of Health and Human Services and the Administrator of the Environmental Protection Agency of the use or intended use by any country or international organization of any herbicide for aerial eradication in a program receiving assistance under this part.”
 
 Subsec. (e). Pub. L. 103–447, §101(b)(1), substituted “For” for “Except as provided in sections 2291j(h) and (i) of this title with respect to the definition of major illicit drug producing country and major drug-transit country, for”.
 
@@ -164,7 +164,7 @@ Subsec. (e)(2). Pub. L. 103–447, §101(b)(2), amended par. (2) generally. Prio
 
 Subsec. (e)(6) to (8). Pub. L. 103–447, §101(b)(3)–(5), added pars. (6) and (7) and redesignated former par. (6) as (8).
 
-1992—Pub. L. 102–583, §4(a), added section catchline and struck out former catchline which read as follows: “International narcotics control”.
+<b>1992</b>—Pub. L. 102–583, §4(a), added section catchline and struck out former catchline which read as follows: “International narcotics control”.
 
 Subsec. (a)(1). Pub. L. 102–583, §4(a), added par. (1) and struck out former par. (1) which read as follows: “It is the sense of the Congress that—
 
@@ -250,7 +250,7 @@ Subsec. (i)(5). Pub. L. 102–550, §1519(c), inserted “or” at end of subpar
 
 Subsecs. (j), (k). Pub. L. 102–583, §6(b)(2), struck out subsec. (j) relating to actions by international bodies and subsec. (k) relating to procedures for determining major drug-transit countries.
 
-1989—Subsec. (a)(1). Pub. L. 101–231, §17(a), struck out at end “This cooperation should include the development and transmittal of plans by each signatory country to the Single Convention on Narcotic Drugs, 1961, in which illicit narcotics and psychotropic crop cultivation exists, which would advise the International Narcotics Control Board, the United Nations Commission on Narcotic Drugs, and the international community of the strategy, programs, and timetable such country has established for the progressive elimination of that cultivation.”
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–231, §17(a), struck out at end “This cooperation should include the development and transmittal of plans by each signatory country to the Single Convention on Narcotic Drugs, 1961, in which illicit narcotics and psychotropic crop cultivation exists, which would advise the International Narcotics Control Board, the United Nations Commission on Narcotic Drugs, and the international community of the strategy, programs, and timetable such country has established for the progressive elimination of that cultivation.”
 
 Subsec. (b). Pub. L. 101–231, §17(b), inserted “Mid-year report” as heading, struck out par. (1) which required quarterly reports on the programming and obligation of funds under this part, redesignated former par. (2) as subsec. (b), and substituted “Not later than September” for “Not later than August”.
 
@@ -270,7 +270,7 @@ Subsec. (i)(2). Pub. L. 101–231, §17(e), amended par. (2) generally. Prior to
 
 Subsec. (k)(4). Pub. L. 101–231, §17(f), struck out par. (4) which required that reports under subsec. (e) discuss changes made since notification provided pursuant to subsec. (k)(2) and (3).
 
-1988—Subsec. (a)(1)(B) to (E). Pub. L. 100–690, §4502, added subpar. (B), and redesignated former subpars. (B) to (D) as (C) to (E), respectively.
+<b>1988</b>—Subsec. (a)(1)(B) to (E). Pub. L. 100–690, §4502, added subpar. (B), and redesignated former subpars. (B) to (D) as (C) to (E), respectively.
 
 Subsec. (d)(5). Pub. L. 100–690, §4202(b), added par. (5).
 
@@ -312,13 +312,13 @@ Subsec. (i)(4)(viii). Pub. L. 100–461, §578(e)(2)(B), redesignated cl. (vii) 
 
 Subsec. (k). Pub. L. 100–690, §4405(a), added subsec. (k).
 
-1987—Subsec. (e)(7). Pub. L. 100–204, §805(a), added par. (7).
+<b>1987</b>—Subsec. (e)(7). Pub. L. 100–204, §805(a), added par. (7).
 
 Subsec. (h)(2)(A). Pub. L. 100–202 designated existing provisions of subpar. (A) as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and in subcl. (I) inserted “in satisfying the goals agreed to in an applicable bilateral narcotics agreement with the United States, (as described in (ii)) and,” after “on its own,”, and added cl. (ii).
 
 Subsec. (h)(4)(A). Pub. L. 100–204, §805(b), which directed that subpar. (A) of subsec. (h) of this section be amended by substituting “45” for “30”, was executed by making the substitution in subpar. (A) of subsec. (h)(4) of this section to reflect the probable intent of Congress.
 
-1986—Subsec. (a)(3), (4). Pub. L. 99–570, §2017, added par. (3) and redesignated former par. (3) as (4).
+<b>1986</b>—Subsec. (a)(3), (4). Pub. L. 99–570, §2017, added par. (3) and redesignated former par. (3) as (4).
 
 Subsec. (c). Pub. L. 99–570, §2009, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
@@ -336,7 +336,7 @@ Subsec. (i)(4). Pub. L. 99–570, §2005(d), in concluding provisions, added cl.
 
 Subsec. (i)(5). Pub. L. 99–570, §2005(c), added par. (5).
 
-1985—Subsec. (b). Pub. L. 99–83, §604, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+<b>1985</b>—Subsec. (b). Pub. L. 99–83, §604, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
 “(1) Not later than forty-five days after the date on which each calendar quarter of each year ends, the President shall transmit to the Speaker of the House of Representatives, and to the Committee on Foreign Relations of the Senate, a report on the programing and obligation, on a calendar quarter basis, of funds under this part prior to such date.
 
@@ -358,27 +358,27 @@ Subsec. (e)(6). Pub. L. 99–83, §606, added par. (6).
 
 Subsec. (h)(4). Pub. L. 99–83, §618, added par. (4).
 
-1983—Subsec. (a). Pub. L. 98–164, §1003(a), amended subsec. (a) generally, substituting provisions relating to applicability and implementation of Single Convention on Narcotic Drugs, 1961, and development, promotion and assistance respecting international narcotics control, for provisions relating to agreements, assistance, sanctions, etc., to facilitate international narcotics control.
+<b>1983</b>—Subsec. (a). Pub. L. 98–164, §1003(a), amended subsec. (a) generally, substituting provisions relating to applicability and implementation of Single Convention on Narcotic Drugs, 1961, and development, promotion and assistance respecting international narcotics control, for provisions relating to agreements, assistance, sanctions, etc., to facilitate international narcotics control.
 
 Subsec. (e). Pub. L. 98–164, §1003(b), amended subsec. (e) generally, substituting requirements for annual reports on cultivation and manufacture of and traffic in narcotic and psychotropic drugs and other controlled substances and the specific contents of the reports for requirements for annual reports on the status of United States policy regarding production, interdiction, and interception of trafficking in narcotics.
 
 Subsecs. (f) to (j). Pub. L. 98–164, §1003(b), added subsecs. (f) to (j).
 
-1981—Subsec. (c)(2). Pub. L. 97–113, §734(a)(1), struck out par. (2) which provided for a Presidential study of multilateral narcotics control activities and transmission of this study to the Speaker of the House and the President of the Senate no later than June 30, 1977.
+<b>1981</b>—Subsec. (c)(2). Pub. L. 97–113, §734(a)(1), struck out par. (2) which provided for a Presidential study of multilateral narcotics control activities and transmission of this study to the Speaker of the House and the President of the Senate no later than June 30, 1977.
 
 Subsec. (d). Pub. L. 97–113, §502(a)(1), substituted provisions requiring the Secretary of State to inform the Secretary of Health and Human Services of any use of herbicides to eradicate marihuana in a program receiving assistance under this part, directing the Secretary of Health and Human Services to monitor the impact on the health of persons using such marihuana and if he determines their exposure to the herbicide harms theirhealth, report to Congress such determination with any recommendations, urging the President to use not less than $100,000 to develop a substance that clearly and readily warns potential marihuana users that the marihuana has been sprayed with paraquat or other herbicide harmful to the health of the persons using it, and directing the Secretary of Agriculture, if such a substance is developed, to use such substance in conjunction with the spraying of paraquat or other herbicide for provisions prohibiting the use of funds under this part for spraying a herbicide to eradicate marihuana if that practice is likely to seriously harm the health of users of the sprayed marihuana, except if the substance is used with a substance that will clearly and readily warn potential users of the sprayed marihuana of the use of herbicide, and requiring the Secretary of State to submit a report to Congress not later than January 1 of each year detailing efforts taken to ensure compliance with this subsection.
 
 Subsec. (e). Pub. L. 97–113, §502(b), added subsec. (e).
 
-1979—Subsec. (d)(1). Pub. L. 96–92 substituted “for the purpose of” for “or used for any program involving”.
+<b>1979</b>—Subsec. (d)(1). Pub. L. 96–92 substituted “for the purpose of” for “or used for any program involving”.
 
-1978—Subsec. (c)(1). Pub. L. 95–384, §3, inserted provisions prohibiting any agent or employee of the United States Government from interrogating, or from being present at the interrogation of, any United States person arrested in any foreign country in the absence of the written consent of the person arrested and provisions relating to the applicability of this paragraph to the activities of the United States Armed Forces.
+<b>1978</b>—Subsec. (c)(1). Pub. L. 95–384, §3, inserted provisions prohibiting any agent or employee of the United States Government from interrogating, or from being present at the interrogation of, any United States person arrested in any foreign country in the absence of the written consent of the person arrested and provisions relating to the applicability of this paragraph to the activities of the United States Armed Forces.
 
 Subsec. (d). Pub. L. 95–384, §4, added subsec. (d).
 
-1976—Subsec. (c). Pub. L. 94–329 added subsec. (c).
+<b>1976</b>—Subsec. (c). Pub. L. 94–329 added subsec. (c).
 
-1973—Pub. L. 93–189 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1973</b>—Pub. L. 93–189 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 2008 Amendment
 

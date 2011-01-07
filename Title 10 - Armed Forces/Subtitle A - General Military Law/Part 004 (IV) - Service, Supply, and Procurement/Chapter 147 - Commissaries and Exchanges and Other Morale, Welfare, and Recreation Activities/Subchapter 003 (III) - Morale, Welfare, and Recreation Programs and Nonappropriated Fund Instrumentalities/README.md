@@ -18,9 +18,9 @@
 
 #### Amendments
 
-2009—Pub. L. 111–84, div. A, title VI, §651(b), Oct. 28, 2009, 123 Stat. 2369, added item 2492a.
+<b>2009</b>—Pub. L. 111–84, div. A, title VI, §651(b), Oct. 28, 2009, 123 Stat. 2369, added item 2492a.
 
-2004—Pub. L. 108–375, div. A, title VI, §651(c)(1), Oct. 28, 2004, 118 Stat. 1971, added subchapter heading and items 2491 to 2495b.
+<b>2004</b>—Pub. L. 108–375, div. A, title VI, §651(c)(1), Oct. 28, 2004, 118 Stat. 1971, added subchapter heading and items 2491 to 2495b.
 
 
 ---

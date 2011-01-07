@@ -1,6 +1,6 @@
 ### §3726. Withholding of payments, benefits, etc.
 
-(a) No officer, employee, department, or agency of the United States shall set off against, or otherwise withhold from, any veteran or the surviving spouse of any veteran any payments (other than benefit payments under any law administered by the Department of Veterans Affairs) which such veteran or surviving spouse would otherwise be entitled to receive because of any liability to the Secretary allegedly arising out of any loan made to, assumed by, or guaranteed or insured on account of, such veteran or surviving spouse under this chapter, unless the Secretary provides such veteran or surviving spouse with notice by certified mail with return receipt requested of the authority of the Secretary to waive the payment of indebtedness under section 5302(b) of this title.
+(a) No officer, employee, department, or agency of the United States shall set off against, or otherwise withhold from, any veteran or the surviving spouse of any veteran any payments (other than benefit payments under any law administered by the Department of Veterans Affairs) which such veteran or surviving spousewould otherwise be entitled to receive because of any liability to the Secretary allegedly arising out of any loan made to, assumed by, or guaranteed or insured on account of, such veteran or surviving spouse under this chapter, unless the Secretary provides such veteran or surviving spouse with notice by certified mail with return receipt requested of the authority of the Secretary to waive the payment of indebtedness under section 5302(b) of this title.
 
 (b) If the Secretary does not waive the entire amount of the liability, the Secretary shall then determine whether the veteran or surviving spouse should be released from liability under section 3713(b) of this title.
 
@@ -10,15 +10,15 @@
 
 #### Amendments
 
-1997—Pub. L. 105–33 designated existing provisions as subsec. (a), substituted “unless the Secretary provides such veteran or surviving spouse with notice by certified mail with return receipt requested of the authority of the Secretary to waive the payment of indebtedness under section 5302(b) of this title.” for “unless (1) there is first received the consent in writing of such veteran or surviving spouse, as the case may be, or (2) such liability and the amount thereof was determined by a court of competent jurisdiction in a proceeding to which such veteran or surviving spouse was a party.”, and added subsecs. (b) and (c).
+<b>1997</b>—Pub. L. 105–33 designated existing provisions as subsec. (a), substituted “unless the Secretary provides such veteran or surviving spouse with notice by certified mail with return receipt requested of the authority of the Secretary to waive the payment of indebtedness under section 5302(b) of this title.” for “unless (1) there is first received the consent in writing of such veteran or surviving spouse, as the case may be, or (2) such liability and the amount thereof was determined by a court of competent jurisdiction in a proceeding to which such veteran or surviving spouse was a party.”, and added subsecs. (b) and (c).
 
-1991—Pub. L. 102–83 renumbered section 1826 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1826 of this title as this section.
 
-1989—Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively.
 
-1981—Pub. L. 97–66 struck out subsec. (a) which provided that the Administrator could not, unless the Administrator had first obtained the consent in writing of an individual, set off against, or otherwise withhold from, such individual any benefits payable to such individual under any law administered by the Veterans’ Administration because of liability allegedly arising out of any loan made to, assumed by, or guaranteed or insured on account of, such individual under this chapter, and struck out designation “(b)” before “No officer, employee, department, or agency of the United States”.
+<b>1981</b>—Pub. L. 97–66 struck out subsec. (a) which provided that the Administrator could not, unless the Administrator had first obtained the consent in writing of an individual, set off against, or otherwise withhold from, such individual any benefits payable to such individual under any law administered by the Veterans’ Administration because of liability allegedly arising out of any loan made to, assumed by, or guaranteed or insured on account of, such individual under this chapter, and struck out designation “(b)” before “No officer, employee, department, or agency of the United States”.
 
-1976—Subsec. (a). Pub. L. 94–324 substituted “the Administrator” for “he”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–324 substituted “the Administrator” for “he”.
 
 Subsec. (b). Pub. L. 94–324 substituted “surviving spouse” for “widow” wherever appearing.
 

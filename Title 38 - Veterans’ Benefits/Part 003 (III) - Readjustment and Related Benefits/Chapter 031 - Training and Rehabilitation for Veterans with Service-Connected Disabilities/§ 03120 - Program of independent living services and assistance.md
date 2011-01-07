@@ -8,43 +8,45 @@
 
 (d) A program of independent living services and assistance for a veteran shall consist of such services described in section 3104(a) of this title as the Secretary determines necessary to enable such veteran to achieve maximum independence in daily living. Such veteran shall have the same rights with respect to an individualized written plan of services and assistance as are afforded veterans under section 3107 of this title.
 
-(e) Programs of independent living services and assistance shall be initiated for no more than 2600 <sup>1</sup> veterans in each fiscal year, and the first priority in the provision of such programs shall be afforded to veterans for whom the reasonable feasibility of achieving a vocational goal is precluded solely as a result of a service-connected disability.
+(e) Programs of independent living services and assistance shall be initiated for no more than 2,700 veterans in each fiscal year, and the first priority in the provision of such programs shall be afforded to veterans for whom the reasonable feasibility of achieving a vocationalgoal is precluded solely as a result of a service-connected disability.
 
 (f) Entities described in this subsection are (1) public or nonprofit agencies or organizations, and (2) for-profit entities in cases in which the Secretary determines that services comparable in effectiveness to services available from such an entity are not available, or cannot be obtained cost-effectively from, public or nonprofit agencies or through facilities of the Veterans Health Administration.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2185, §1520; amended Pub. L. 99–576, title III, §333(a), (b)(6), (c), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 100–689, title II, §202(b), Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title IV, §§404, 423(b)(1), Dec. 18, 1989, 103 Stat. 2080, 2092; renumbered §3120 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(b)(1), (d)(11), Nov. 2, 1994, 108 Stat. 4682, 4684; Pub. L. 104–275, title I, §101(f)(2)(D), (i), Oct. 9, 1996, 110 Stat. 3325; Pub. L. 107–103, title V, §508(a), Dec. 27, 2001, 115 Stat. 997; Pub. L. 110–389, title III, §332, Oct. 10, 2008, 122 Stat. 4170.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2185, §1520; amended Pub. L. 99–576, title III, §333(a), (b)(6), (c), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 100–689, title II, §202(b), Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title IV, §§404, 423(b)(1), Dec. 18, 1989, 103 Stat. 2080, 2092; renumbered §3120 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(b)(1), (d)(11), Nov. 2, 1994, 108 Stat. 4682, 4684; Pub. L. 104–275, title I, §101(f)(2)(D), (i), Oct. 9, 1996, 110 Stat. 3325; Pub. L. 107–103, title V, §508(a), Dec. 27, 2001, 115 Stat. 997; Pub. L. 110–389, title III, §332, Oct. 10, 2008, 122 Stat. 4170; Pub. L. 111–275, title VIII, §801(a), Oct. 13, 2010, 124 Stat. 2888.)
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–389, which directed amendment of subsec. (e) by substituting “2600 veterans” for “2500 veterans”, was executed by making the substitution for “2,500 veterans” to reflect the probable intent of Congress.
+<b>2010</b>—Subsec. (e). Pub. L. 111–275 substituted “2,700” for “2600”.
 
-2001—Subsec. (e). Pub. L. 107–103 substituted “2,500 veterans” for “five hundred veterans”.
+<b>2008</b>—Subsec. (e). Pub. L. 110–389, which directed amendment of subsec. (e) by substituting “2600 veterans” for “2500 veterans”, was executed by making the substitution for “2,500 veterans” to reflect the probable intent of Congress.
 
-1996—Subsec. (b). Pub. L. 104–275, §101(i)(1), substituted “serious employment handicap resulting in substantial part from a service-connected disability described in section 3102(1)(A)(i)” for “service-connected disability described in section 3102(1)(A)”.
+<b>2001</b>—Subsec. (e). Pub. L. 107–103 substituted “2,500 veterans” for “five hundred veterans”.
+
+<b>1996</b>—Subsec. (b). Pub. L. 104–275, §101(i)(1), substituted “serious employment handicap resulting in substantial part from a service-connected disability described in section 3102(1)(A)(i)” for “service-connected disability described in section 3102(1)(A)”.
 
 Pub. L. 104–275, §101(f)(2)(D), substituted “3106(d) or (e)” for “3106(d)”.
 
 Subsec. (d). Pub. L. 104–275, §101(i)(2), struck out “and (b)” after “section 3104(a)”.
 
-1994—Subsec. (a). Pub. L. 103–446, §1201(b)(1), substituted “Veterans Health Administration” for “Department of Medicine and Surgery”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–446, §1201(b)(1), substituted “Veterans Health Administration” for “Department of Medicine and Surgery”.
 
 Subsec. (b). Pub. L. 103–446, §1201(d)(11), which directed substitution of “section 3102(1)(A)(i)” for “section 3012(1)(A)”, could not be executed because the words “section 3012(1)(A)” did not appear.
 
 Subsec. (f). Pub. L. 103–446, §1201(b)(1), substituted “Veterans Health Administration” for “Department of Medicine and Surgery”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1520 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1520 of this title as this section.
 
 Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “3102(1)(A)” for “1502(1)(A)” and “3106(d)” for “1506(d)”.
 
 Subsec. (d). Pub. L. 102–83, §5(c)(1), substituted “3104(a)” for “1504(a)” and “3107” for “1507”.
 
-1989—Subsec. (a). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Subsec. (a). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
 Pub. L. 101–237, §404(2)–(4), redesignated former par. (1) of subsec. (a) as entire subsection, substituted “The” for “During fiscal years 1982 through 1989, the”, “subsection (f) of this section” for “paragraph (7) of this subsection” and “subsection (b) of this section” for “paragraph (2) of this subsection”, redesignated former pars. (2), (3), (4), (6), and (7) of subsec. (a) as subsecs. (b), (c), (d), (e), and (f) of this section, respectively, and struck out former par. (5) which read as follows: “Any contract for services initiated with respect to any veteran under this section before the end of fiscal year 1989 may be continued in effect after the end of such year for the purposes of providing services and assistance to such veteran in accordance with the provisions of this chapter.”
 
 Subsec. (b). Pub. L. 101–237, §404(1), (3), (5), redesignated former subsec. (a)(2) as (b), struck out before period at end “and who is selected pursuant to criteria provided for in regulations prescribed under paragraph (1) of this subsection” and struck out former subsec. (b) which read as follows: “Not later than February 1, 1989, the Administrator shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives statistical data regarding veterans’ participation in the program conducted under subsection (a) of this section during fiscal years 1987 and 1988 and any recommendations of the Administrator for administrative or legislative action or both regarding the program.”
 
-Subsec. (c). Pub. L. 101–237, §423(b)(1), substituted “Secretary” and “Department of Veterans Affairs” for“Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
+Subsec. (c). Pub. L. 101–237, §423(b)(1), substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
 Pub. L. 101–237, §404(3), (6), redesignated former subsec. (a)(3) as (c) and substituted “subsection (b) of this section” for “paragraph (2) of this subsection”.
 
@@ -58,11 +60,11 @@ Subsec. (f). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for 
 
 Pub. L. 101–237, §404(3), (8), redesignated former subsec. (a)(7) as (f) and substituted “in this subsection are (1) public or nonprofit agencies or organizations, and (2)” for “in this paragraph are (A) public or nonprofit agencies or organizations, and (B)”.
 
-1988—Subsec. (a)(1). Pub. L. 100–689, §202(b)(1), substituted “entities described in paragraph (7) of this subsection” for “public or nonprofit private agencies or organizations”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–689, §202(b)(1), substituted “entities described in paragraph (7) of this subsection” for “public or nonprofit private agencies or organizations”.
 
 Subsec. (a)(7). Pub. L. 100–689, §202(b)(2), added par. (7).
 
-1986—Pub. L. 99–576, §333(b)(6), substituted “Program” for “Pilot program” in section catchline.
+<b>1986</b>—Pub. L. 99–576, §333(b)(6), substituted “Program” for “Pilot program” in section catchline.
 
 Subsec. (a)(1). Pub. L. 99–576, §333(a)(1)(A), substituted “1989” for “1985”.
 
@@ -76,6 +78,10 @@ Subsec. (b). Pub. L. 99–576, §333(c), amended subsec. (b) generally. Prior to
 
 &emsp;“(2) the Administrator's recommendations for any legislative changes with respect to the provision of independent living services and assistance to veterans for whom the achievement of a vocational goal is not feasible.”
 
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–275, title VIII, §801(b), Oct. 13, 2010, 124 Stat. 2888, provided that: “The amendment made bysubsection (a) \[amending this section\] shall apply with respect to fiscal years beginning after the date of the enactment of this Act \[Oct. 13, 2010\].”
+
 #### Effective Date of 2001 Amendment
 
 Pub. L. 107–103, title V, §508(b), Dec. 27, 2001, 115 Stat. 997, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of September 30, 2001.”
@@ -87,6 +93,4 @@ Amendment by Pub. L. 104–275 effective Oct. 9, 1996, with amendment by section
 #### Effective Date
 
 Section effective Oct. 1, 1980, see section 802(a)(2) of Pub. L. 96–466, set out as a note under section 3100 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “2,600”.</i>
 

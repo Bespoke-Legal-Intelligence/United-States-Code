@@ -16,7 +16,7 @@ Any member of the staff of, or any person employed by, a duly accredited diploma
 
 #### (d) Private and nonpolitical activities; solicitation of funds
 
-Any person engaging or agreeing to engage only (1) in private and nonpolitical activities in furtherance of the bona fide trade or commerce of such foreign principal; or (2) in other activities not serving predominantly a foreign interest; or (3) in the soliciting or collecting of funds and contributions within the United States to be used only for medical aid and assistance, or for food and clothing to relieve human suffering, if such solicitation or collection of funds and contributions is in accordance with and subject tothe provisions of subchapter II of chapter 9 of this title, and such rules and regulations as may be prescribed thereunder;
+Any person engaging or agreeing to engage only (1) in private and nonpolitical activities in furtherance of the bona fide trade or commerce of such foreign principal; or (2) in other activities not serving predominantly a foreign interest; or (3) in the soliciting or collecting of funds and contributions within the United States to be used only for medical aid and assistance, or for food and clothing to relieve human suffering, if such solicitation or collection of funds and contributions is in accordance with and subject to the provisions of subchapter II of chapter 9 of this title, and such rules and regulations as may be prescribed thereunder;
 
 #### (e) Religious, scholastic, or scientific pursuits
 
@@ -46,21 +46,21 @@ Prior to general amendment of act June 8, 1938, by act Apr. 29, 1942, section re
 
 #### Amendments
 
-1998—Subsec. (h). Pub. L. 105–166 substituted “has engaged in lobbying activities and has registered” for “is required to register and does register”.
+<b>1998</b>—Subsec. (h). Pub. L. 105–166 substituted “has engaged in lobbying activities and has registered” for “is required to register and does register”.
 
-1995—Subsec. (g). Pub. L. 104–65, §9(2), substituted “judicial proceedings, criminal or civil law enforcement inquiries, investigations, or proceedings, or agency proceedings required by statute or regulation to be conducted on the record” for “established agency proceedings, whether formal or informal”.
+<b>1995</b>—Subsec. (g). Pub. L. 104–65, §9(2), substituted “judicial proceedings, criminal or civil law enforcement inquiries, investigations, or proceedings, or agency proceedings required by statute or regulation to be conducted on the record” for “established agency proceedings, whether formal or informal”.
 
 Subsec. (h). Pub. L. 104–65, §9(3), added subsec. (h).
 
-1966—Subsec. (d). Pub. L. 89–486, §3(a), designated existing provisions as cls. (1) and (3), struck out “financial or mercantile” before “activities” in cl. (1), and inserted the cl. (2) exemption of any person engaging or agreeing to engage in other activities not serving predominantly a foreign interest.
+<b>1966</b>—Subsec. (d). Pub. L. 89–486, §3(a), designated existing provisions as cls. (1) and (3), struck out “financial or mercantile” before “activities” in cl. (1), and inserted the cl. (2) exemption of any person engaging or agreeing to engage in other activities not serving predominantly a foreign interest.
 
 Subsec. (g). Pub. L. 89–486, §3(b), added subsec. (g).
 
-1961—Subsec. (d). Pub. L. 87–366 substituted “private and nonpolitical financial or mercantile activities in furtherance” for “private, non-political, financial, mercantile, or other activities in furtherance”.
+<b>1961</b>—Subsec. (d). Pub. L. 87–366 substituted “private and nonpolitical financial or mercantile activities in furtherance” for “private, non-political, financial, mercantile, or other activities in furtherance”.
 
-1942—Act Apr. 29, 1942, amended section generally.
+<b>1942</b>—Act Apr. 29, 1942, amended section generally.
 
-1939—Act Aug. 7, 1939, amended section generally.
+<b>1939</b>—Act Aug. 7, 1939, amended section generally.
 
 #### Effective Date of 1995 Amendment
 

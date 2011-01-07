@@ -20,7 +20,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-140301(a)D36:311.DSept. 20, 1950, ch. 956, §§1, 2, 4(a), 64 Stat. 868.
+140301(a)
+
+36:311.
+
+Sept. 20, 1950, ch. 956, §§1, 2, 4(a), 64 Stat. 868.
 
 &nbsp;
 

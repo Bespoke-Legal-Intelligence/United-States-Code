@@ -64,13 +64,13 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Prior Provisions
 
-A prior section 2151q, Pub. L. 87–195, pt. I, §119, as added Pub. L. 95–88, title I, §114, Aug. 3, 1977, 91 Stat. 538; amended Pub. L. 95–424, title I, §111, Oct. 6, 1978, 92 Stat. 948; Pub. L. 96–53, title I, §§104(c), 107, Aug. 14,1979, 93 Stat. 362, related to renewable and unconventional energy technologies, prior to repeal by Pub. L. 96–533, title III, §304(g), Dec. 16, 1980, 94 Stat. 3147.
+A prior section 2151q, Pub. L. 87–195, pt. I, §119, as added Pub. L. 95–88, title I, §114, Aug. 3, 1977, 91 Stat. 538; amended Pub. L. 95–424, title I, §111, Oct. 6, 1978, 92 Stat. 948; Pub. L. 96–53, title I, §§104(c), 107, Aug. 14, 1979, 93 Stat. 362, related to renewable and unconventional energy technologies, prior to repeal by Pub. L. 96–533, title III, §304(g), Dec. 16, 1980, 94 Stat. 3147.
 
 #### Amendments
 
-1989—Subsec. (b). Pub. L. 101–167 inserted “, notwithstanding section 2420 of this title,” after “subchapter I of this chapter”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–167 inserted “, notwithstanding section 2420 of this title,” after “subchapter I of this chapter”.
 
-1986—Subsec. (c). Pub. L. 99–529 added subsec. (c) and struck out former subsec. (c) which read as follows: “The Administrator of the Agency for International Development, in conjunction with the Secretary of State, the Secretary of the Interior, the Administrator of the Environmental Protection Agency, the Chairman of the Council on Environmental Quality, and the heads of other appropriate Government agencies, shall develop a United States strategy, including specific policies and programs, to protect and conserve biological diversity in developing countries.”
+<b>1986</b>—Subsec. (c). Pub. L. 99–529 added subsec. (c) and struck out former subsec. (c) which read as follows: “The Administrator of the Agency for International Development, in conjunction with the Secretary of State, the Secretary of the Interior, the Administrator of the Environmental Protection Agency, the Chairman of the Council on Environmental Quality, and the heads of other appropriate Government agencies, shall develop a United States strategy, including specific policies and programs, to protect and conserve biological diversity in developing countries.”
 
 Subsec. (d). Pub. L. 99–529 added subsec. (d) and struck out former subsec. (d) which read as follows: “Each annual report required by section 2394(a) of this title shall include, in a separate volume, a report on the implementation of this subsection. Not later than one year after November 22, 1983, the President shall submit a comprehensive report to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate on the United States strategy to protect and conserve biological diversity in developing countries.”
 

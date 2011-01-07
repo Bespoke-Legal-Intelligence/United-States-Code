@@ -28,9 +28,9 @@ Regulations.—The exercise of authority under subsection (a) is subject to regu
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–107 inserted at end “Performance of funeral honors duty by such a member not on active duty or full-time National Guard duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 435 of title 37.”
+<b>2001</b>—Subsec. (a). Pub. L. 107–107 inserted at end “Performance of funeral honors duty by such a member not on active duty or full-time National Guard duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 435 of title 37.”
 
-2000—Subsec. (b)(2). Pub. L. 106–398 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “if authorized by the Secretary concerned, the allowance under section 435 of title 37.”
+<b>2000</b>—Subsec. (b)(2). Pub. L. 106–398 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “if authorized by the Secretary concerned, the allowance under section 435 of title 37.”
 
 #### Effective Date of 2001 Amendment
 

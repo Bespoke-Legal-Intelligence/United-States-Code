@@ -48,7 +48,7 @@ The text of the boundary descriptions contained in pars. (1) to (5) of subsec. (
 
 #### Amendments
 
-2007—Subsec. (c). Pub. L. 110–114 substituted “subsection (a) (except 30 years from November 17, 1988, inthe case of the area or any part thereof described in subsection (a)(5))” for “subsection (a) of this section”.
+<b>2007</b>—Subsec. (c). Pub. L. 110–114 substituted “subsection (a) (except 30 years from November 17, 1988, inthe case of the area or any part thereof described in subsection (a)(5))” for “subsection (a) of this section”.
 
 #### “Secretary” Defined
 

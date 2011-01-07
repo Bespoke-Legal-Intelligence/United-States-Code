@@ -2,7 +2,7 @@
 
 (a) Notwithstanding the provisions of section 8501 of this title, the Secretary may dispose of the personal property of such decedent left or found upon such premises as hereafter provided in this subchapter.
 
-(b) If any veteran (admitted as a veteran), or a dependent or survivor of a veteran receiving care under the penultimate sentence of section 1781(b) of this title, upon such person's last admission to, or during such person's last period of maintenance in, a Department facility, has personal property situated on such facility and shall have designated in writing a person (natural or corporate) to receive such property when such veteran, dependent or survivor dies, the Secretary or employee of the Department authorized by the Secretary so to act, may transfer possession of such personal property to the person so designated. If there exists no person so designated by such veteran, dependent, or survivor or if the one so designated declines to receive such property, or failed to request such property within ninety days after the Department mails to such designate a notice of death and of the fact of such designation, a description of the property, and an estimate of transportation cost, which shall be paid by such designate if required under the regulations hereinafter mentioned, or if the Secretary declines to transfer possession to such designate, possession of such property may in the discretion of the Secretary or the Secretary's designated subordinate, be transferred to the following persons in the order and manner herein specified unless the parties otherwise agree in writing delivered to the Department, namely, executor or administrator, or if no notice of appointment received, to the spouse, children, grandchildren, parents, grandparents, siblings of the veteran. If claim is made by two or more such relatives having equal priorities, as hereinabove prescribed, or if there are conflicting claims the Secretary or the Secretary's designee may in such case deliver the property either jointly or separately in equal values, to those equally entitled thereto or may make delivery as may be agreed upon by those entitled, or may in the discretion of the Secretary or the Secretary's designee withhold delivery from them and require the qualification of an administrator or executor of the veterans’ estate and thereupon make delivery to such.
+(b) If any veteran (admitted as a veteran), or a dependent or survivor of a veteran receiving care under the penultimate sentence of section 1781(b) of this title, upon such person's last admission to, or during such person's last period of maintenance in, a Department facility, has personal property situated on such facility and shall have designated in writing a person (natural or corporate) to receive such property whensuch veteran, dependent or survivor dies, the Secretary or employee of the Department authorized by the Secretary so to act, may transfer possession of such personal property to the person so designated. If there exists no person so designated by such veteran, dependent, or survivor or if the one so designated declines to receive such property, or failed to request such property within ninety days after the Department mails to such designate a notice of death and of the fact of such designation, a description of the property, and an estimate of transportation cost, which shall be paid by such designate if required under the regulations hereinafter mentioned, or if the Secretary declines to transfer possession to such designate, possession of such property may in the discretion of the Secretary or the Secretary's designated subordinate, be transferred to the following persons in the order and manner herein specified unless the parties otherwise agree in writing delivered to the Department, namely, executor or administrator, or if no notice of appointment received, to the spouse, children, grandchildren, parents, grandparents, siblings of the veteran. If claim is made by two or more such relatives having equal priorities, as hereinabove prescribed, or if there are conflicting claims the Secretary or the Secretary's designee may in such case deliver the property either jointly or separately in equal values, to those equally entitled thereto or may make delivery as may be agreed upon by those entitled, or may in the discretion of the Secretary or the Secretary's designee withhold delivery from them and require the qualification of an administrator or executor of the veterans’ estate and thereupon make delivery to such.
 
 (c) If the property of any decedent is not so delivered or claimed and accepted the Secretary or the Secretary's designee may dispose of such property by public or private sale in accordance with the provisions of this subchapter and regulations prescribed by the Secretary.
 
@@ -16,11 +16,11 @@
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–135 substituted “the penultimate sentence of section 1781(b)” for “the last sentence of section 1713(b)”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–135 substituted “the penultimate sentence of section 1781(b)” for “the last sentence of section 1713(b)”.
 
-1994—Subsec. (d). Pub. L. 103–446 substituted “Department of Veterans Affairs,” for “Department,”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–446 substituted “Department of Veterans Affairs,” for “Department,”.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 5202 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 5202 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
@@ -46,9 +46,9 @@ Pub. L. 102–40, §402(d)(1), substituted “8501” for “5201” in two plac
 
 Subsec. (f). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1986—Subsec. (b). Pub. L. 99–576, §701(94)(A), in first sentence substituted “such person's last” for “his last” in two places, inserted “has personal property situated on such facility and” before “shall have designated”, substituted “to receive such property when such veteran, dependent or survivor dies,” for “to whom he desires his personal property situated upon such facility to be delivered, upon the death of such veteran”, and substituted “the Administrator” for “him” after “authorized by”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–576, §701(94)(A), in first sentence substituted “such person's last” for “his last” in two places, inserted “has personal property situated on such facility and” before “shall have designated”, substituted “to receive such property when such veteran, dependent or survivor dies,” for “to whom he desires his personal property situated upon such facility to be delivered, upon the death of such veteran”, and substituted “the Administrator” for “him” after “authorized by”.
 
-Pub. L. 99–576, §701(94)(B)(i)–(iv), in second sentence substituted “by such veteran, dependent, or survivor” for “by the veteran”, struck out “if he has” before“failed to request”, and substituted “the Administrator's” for “his” and “in writing delivered to the Veterans’ Administration” for “as provided in this subchapter,”.
+Pub. L. 99–576, §701(94)(B)(i)–(iv), in second sentence substituted “by such veteran, dependent, or survivor” for “by the veteran”, struck out “if he has” before “failed to request”, and substituted “the Administrator's” for “his” and “in writing delivered to the Veterans’ Administration” for “as provided in this subchapter,”.
 
 Pub. L. 99–576, §701(94)(B)(v), which directed that second sentence of subsec. (b) be amended by substituting “children, grandchildren, parents, grandparents, siblings” for “child, grandchild, mother, father, grandmother, grandfather, brother or sister”, was executed by substituting the new provisions for “child, grandchild, mother, father, grandmother, grandfather, brother, or sister”, to reflect the probable intent of Congress and the fact that a comma appears after “brother” in the former provisions.
 
@@ -58,9 +58,9 @@ Pub. L. 99–576, §701(94)(D), in fourth sentence substituted “the Administra
 
 Subsec. (c). Pub. L. 99–576, §701(94)(E), substituted “the Administrator's” for “his”.
 
-1982—Subsec. (d). Pub. L. 97–258 substituted “section 1321(a)(45) of title 31” for “section 725s(a)(45) of title 31”.
+<b>1982</b>—Subsec. (d). Pub. L. 97–258 substituted “section 1321(a)(45) of title 31” for “section 725s(a)(45) of title 31”.
 
-1976—Subsec. (b). Pub. L. 94–581 inserted “or a dependent or survivor of a veteran receiving care under the last sentence of section 613(b) of this title,” after “(admitted as a veteran),”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–581 inserted “or a dependent or survivor of a veteran receiving care under the last sentence of section 613(b) of this title,” after “(admitted as a veteran),”.
 
 #### Effective Date of 1976 Amendment
 

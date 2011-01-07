@@ -118,7 +118,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), an individual who fails to make an election during an initial election period under subsection (e)(1) of this section is deemed to have chosen the original medicare fee-for-service program option.
+&emsp;&emsp;&emsp;Subject to clause (ii), an individual who fails to make an election during an initial election period under subsection (e)(1) of this section is deemed to have chosen theoriginal medicare fee-for-service program option.
 
 #### (ii) Seamless continuation of coverage
 
@@ -288,29 +288,15 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), subparagraph (C)(iii), and subparagraph (D), at any time during the first 6 months of 2006, or, if the individual first becomes a Medicare+Choice eligible individual during 2006, during the first 6 months during 2006 in which the individual is a Medicare+Choice eligible individual, a Medicare+Choice eligible individual may change the election under subsection (a)(1) of this section.
+&emsp;&emsp;&emsp;Subject to clause (ii), subparagraph (C)(iii),<sup>1</sup> and subparagraph (D), at any time during the first 6 months of 2006, or, if the individual first becomes a Medicare+Choice eligible individual during 2006, during the first 6 months during 2006 in which the individual is a Medicare+Choice eligible individual, a Medicare+Choice eligible individual may change the election under subsection (a)(1) of this section.
 
 #### (ii) Limitation of one change
 
 &emsp;&emsp;&emsp;An individual may exercise the right under clause (i) only once. The limitation under this clause shall not apply to changes in elections effected during an annual, coordinated election period under paragraph (3) or during a special enrollment period under the first sentence of paragraph (4).
 
-#### (C) Continuous open enrollment and disenrollment for first 3 months in subsequent years
+#### (C) Annual 45-day period for disenrollment from MA plans to elect to receive benefits under the original Medicare fee-for-service program
 
-#### (i) In general
-
-&emsp;&emsp;&emsp;Subject to clauses (ii) and (iii) and subparagraph (D), at any time during the first 3 months of a year after 2006, or, if the individual first becomes a Medicare+Choice eligible individual during a year after 2006, during the first 3 months of such year in which the individual is a Medicare+Choice eligible individual, a Medicare+Choice eligible individual may change the election under subsection (a)(1) of this section.
-
-#### (ii) Limitation of one change during open enrollment period each year
-
-&emsp;&emsp;&emsp;An individual may exercise the right under clause (i) only once during the applicable 3-month period described in such clause in each year. The limitation under this clause shall not apply to changes in elections effected during an annual, coordinated election period under paragraph (3) or during a special enrollment period under paragraph (4).
-
-#### (iii) Limitation on exercise of right with respect to prescription drug coverage
-
-&emsp;&emsp;&emsp;Effective for plan years beginning on or after January 1, 2006, in applying clause (i) (and clause (i) of subparagraph (B)) in the case of an individual who—
-
-&emsp;&emsp;&emsp;&emsp;(I) is enrolled in an MA plan that does provide qualified prescription drug coverage, the individual may exercise the right under such clause only with respect to coverage under the original fee-for-service plan or coverage under another MA plan that does not provide such coverage and may not exercise such right to obtain coverage under an MA–PD plan or under a prescription drug plan under part D of this subchapter; or
-
-&emsp;&emsp;&emsp;&emsp;(II) is enrolled in an MA–PD plan, the individual may exercise the right under such clause only with respect to coverage under another MA–PD plan (and not an MA plan that does not provide qualified prescription drug coverage) or under the original fee-for-service plan and coverage under a prescription drug plan under part D of this subchapter.
+&emsp;&emsp;Subject to subparagraph (D), at any time during the first 45 days of a year (beginning with 2011), an individual who is enrolled in a Medicare Advantage plan may change the election under subsection (a)(1), but only with respect to coverage under the original medicare fee-for-service program under parts A and B, and may elect qualified prescription drug coverage in accordance with section 1395w–101 of this title.
 
 #### (D) Continuous open enrollment for institutionalized individuals
 
@@ -362,9 +348,11 @@
 
 &emsp;&emsp;&emsp;(ii) with respect to 2002, 2003, 2004, and 2005, the period beginning on November 15 and ending on December 31 of the year before such year;
 
-&emsp;&emsp;&emsp;(iii) with respect to 2006, the period beginning on November 15, 2005, and ending on May 15, 2006; and
+&emsp;&emsp;&emsp;(iii) with respect to 2006, the period beginning on November 15, 2005, and ending on May 15, 2006;
 
-&emsp;&emsp;&emsp;(iv) with respect to 2007 and succeeding years, the period beginning on November 15 and ending on December 31 of the year before such year.
+&emsp;&emsp;&emsp;(iv) with respect to 2007, 2008, 2009, and 2010, the period beginning on November 15 and ending on December 31 of the year before such year; and
+
+&emsp;&emsp;&emsp;(v) with respect to 2012 and succeeding years, the period beginning on October 15 and ending on December 7 of the year before such year.
 
 #### (C) Medicare+Choice health information fairs
 
@@ -406,7 +394,7 @@
 
 &emsp;&emsp;(B) subject to subparagraph (C), may not discontinue an election of an MSA plan except during the periods described in clause (ii) or (iii) of subparagraph (A) and under the first sentence of paragraph (4); and
 
-&emsp;&emsp;(C) who elects an MSA plan during an annual, coordinated election period, and whonever previously had elected such a plan, may revoke such election, in a manner determined by the Secretary, by not later than December 15 following the date of the election.
+&emsp;&emsp;(C) who elects an MSA plan during an annual, coordinated election period, and who never previously had elected such a plan, may revoke such election, in a manner determined by the Secretary, by not later than December 15 following the date of the election.
 
 #### (6) Open enrollment periods
 
@@ -500,7 +488,7 @@
 
 #### (4) Prohibition of certain marketing practices
 
-&emsp;Each Medicare+Choice organization shall conform to fair marketing standards, in relation to Medicare+Choice plans offered under this part, included in the standards established under section 1395w–26 of this title. Such standards—
+&emsp;Each Medicare+Choice organization shall conform to fair marketing standards, in relation to Medicare+Choice plans offered underthis part, included in the standards established under section 1395w–26 of this title. Such standards—
 
 &emsp;&emsp;(A) shall not permit a Medicare+Choice organization to provide for, subject to subsection (j)(2)(C), cash, gifts, prizes, or other monetary rebates as an inducement for enrollment or otherwise;
 
@@ -576,7 +564,7 @@
 
 #### (A) Scope of marketing appointments
 
-&emsp;&emsp;The scope of any appointment with respect to the marketing of a Medicare Advantage plan. Such limitation shall require advance agreement with a prospective enrollee on the scope of the marketing appointment and documentation of such agreement by the Medicare Advantage organization. In the case where the marketing appointment is in person, such documentation shall be in writing.
+&emsp;&emsp;The scope of any appointment with respect to the marketing of a Medicare Advantage plan. Such limitation shall require advanceagreement with a prospective enrollee on the scope of the marketing appointment and documentation of such agreement by the Medicare Advantage organization. In the case where the marketing appointment is in person, such documentation shall be in writing.
 
 #### (B) Co-branding
 
@@ -594,19 +582,29 @@
 
 &emsp;&emsp;The use by a Medicare Advantage organization of any individual as an agent, broker, or other third party representing the organization that has not completed an initial training and testing program and does not complete an annual retraining and testing program.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1851, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(A), title V, §§501(a)(1), (b), (c), 502(a), 519(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–378 to 1501A–380, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(2)(C), 613(a), 619(a), 620(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558, 2763A–560, 2763A–563; Pub. L. 107–188, title V, §532(a), (c)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §102(a), (c)(1), title II, §§221(a)(1), (d)(5), 222(<i>l</i>)(3)(A), (B), (D), (E), 231(a), 233(b), (d), 237(b)(2)(A), Dec. 8, 2003, 117 Stat. 2152, 2154, 2180, 2193, 2206, 2207, 2209, 2212; Pub. L. 109–432, div. B, title II, §206(a), Dec. 20, 2006, 120 Stat. 2990; Pub. L. 110–48, §2, July 18, 2007, 121 Stat. 244; Pub. L. 110–275, title I, §103(a)(1), (b)(1), (c)(1), (d)(1), July 15, 2008, 122 Stat. 2498–2501; Pub. L. 111–5, div. B, title IV, §4102(d)(2), Feb. 17, 2009, 123 Stat. 486.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1851, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(A), title V, §§501(a)(1), (b), (c), 502(a), 519(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–378 to 1501A–380, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(2)(C), 613(a), 619(a), 620(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558, 2763A–560, 2763A–563; Pub. L. 107–188, title V, §532(a), (c)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §102(a), (c)(1), title II, §§221(a)(1), (d)(5), 222(<i>l</i>)(3)(A), (B), (D), (E), 231(a), 233(b), (d), 237(b)(2)(A), Dec. 8, 2003, 117 Stat. 2152, 2154, 2180, 2193, 2206, 2207, 2209, 2212; Pub. L. 109–432, div. B, title II, §206(a), Dec. 20, 2006, 120 Stat. 2990; Pub. L. 110–48, §2, July 18, 2007, 121 Stat. 244; Pub. L. 110–275, title I, §103(a)(1), (b)(1), (c)(1), (d)(1), July 15, 2008, 122 Stat. 2498–2501; Pub. L. 111–5, div. B, title IV, §4102(d)(2), Feb. 17, 2009, 123 Stat. 486; Pub. L. 111–148, title III, §§3201(e)(2)(A)(i), 3204(a)(1), (b), Mar. 23, 2010, 124 Stat. 446, 456; Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040.)
 
 #### References in Text
 
-Parts A and B of this subchapter, referred to in text, are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
+Parts A and B, referred to in text, are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
 
-Part D of this subchapter, referred to in subsec. (e)(2)(C)(iii), (E)(iv)(I), is classified to section 1395w–101 et seq. of this title.
+Subsec. (e)(2)(C) of this section, referred to in subsec. (e)(2)(B)(i), was amended generally by section 3204(a)(1) of Pub. L. 111–148 and, as so amended, no longer contains a cl. (iii).
+
+Part D, referred to in subsec. (e)(2)(E)(iv)(I), is classified to section 1395w–101 et seq. of this title.
 
 #### Amendments
 
-2009—Subsec. (i)(1). Pub. L. 111–5 substituted “1395ww(h)(3)(D), and 1395w–23(m)” for “and 1395ww(h)(3)(D)”.
+<b>2010</b>—Subsec. (b)(1)(C). Pub. L. 111–148, §3201(e)(2)(A)(i), which directed that subpar. (C) be struck out, was repealed by Pub. L. 111–152, §1102(a). See Effective Date of 2010 Amendment note below.
 
-2008—Subsec. (h)(4)(A). Pub. L. 110–275, §103(a)(1)(A)(i)(I)(aa), substituted “, subject to subsection (j)(2)(C), cash, gifts, prizes, or other monetary rebates” for “cash or other monetary rebates”.
+Subsec. (e)(2)(C). Pub. L. 111–148, §3204(a)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) related to continuous open enrollment and disenrollment for first 3 months of a year after 2006.
+
+Subsec. (e)(3)(B)(iv). Pub. L. 111–148, §3204(b)(2)(A), substituted “, 2008, 2009, and 2010” for “and succeeding years”.
+
+Subsec. (e)(3)(B)(v). Pub. L. 111–148, §3204(b)(1), (2)(B), (3), added cl. (v).
+
+<b>2009</b>—Subsec. (i)(1). Pub. L. 111–5 substituted “1395ww(h)(3)(D), and 1395w–23(m)” for “and 1395ww(h)(3)(D)”.
+
+<b>2008</b>—Subsec. (h)(4)(A). Pub. L. 110–275, §103(a)(1)(A)(i)(I)(aa), substituted “, subject to subsection (j)(2)(C), cash, gifts, prizes, or other monetary rebates” for “cash or other monetary rebates”.
 
 Subsec. (h)(4)(C). Pub. L. 110–275, §103(a)(1)(A)(i)(I)(bb)–(III), added subpar. (C).
 
@@ -620,13 +618,13 @@ Subsec. (j). Pub. L. 110–275, §103(a)(1)(A)(ii), added subsec. (j).
 
 Subsec. (j)(2). Pub. L. 110–275, §103(b)(1)(B), added par. (2).
 
-2007—Subsec. (e)(2)(E)(i). Pub. L. 110–48, §2(1), substituted “the period beginning on January 1, 2007, and ending on July 31, 2007,” for “2007 or 2008”.
+<b>2007</b>—Subsec. (e)(2)(E)(i). Pub. L. 110–48, §2(1), substituted “the period beginning on January 1, 2007, and ending on July 31, 2007,” for “2007 or 2008”.
 
 Subsec. (e)(2)(E)(iii). Pub. L. 110–48, §2(2), substituted “the applicable period” for “year” in heading and “the period described in such clause” for “the year” in text.
 
-2006—Subsec. (e)(2)(E). Pub. L. 109–432 added subpar. (E).
+<b>2006</b>—Subsec. (e)(2)(E). Pub. L. 109–432 added subpar. (E).
 
-2003—Subsec. (a)(1). Pub. L. 108–173, §102(c)(1)(A), (C), inserted “(other than qualified prescription drug benefits)” after “benefits” in introductory provisions and inserted concluding provisions.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–173, §102(c)(1)(A), (C), inserted “(other than qualified prescription drug benefits)” after “benefits” in introductory provisions and inserted concluding provisions.
 
 Subsec. (a)(1)(B). Pub. L. 108–173, §102(c)(1)(B), substituted comma for period at end.
 
@@ -692,7 +690,7 @@ Subsec. (i)(2). Pub. L. 108–173, §237(b)(2)(A)(ii), inserted “1395w–23(a)
 
 Pub. L. 108–173, §221(d)(5), inserted “1395w–27a(h),” after “1395w–27(f)(2),”.
 
-2002—Subsec. (e)(2)(A). Pub. L. 107–188, §532(a)(1), substituted “through 2004” for “through 2001” in heading and “during the period beginning January 1, 1998, and ending on December 31, 2004” for “during 1998, 1999, 2000, and 2001” in text.
+<b>2002</b>—Subsec. (e)(2)(A). Pub. L. 107–188, §532(a)(1), substituted “through 2004” for “through 2001” in heading and “during the period beginning January 1, 1998, and ending on December 31, 2004” for “during 1998, 1999, 2000, and 2001” in text.
 
 Subsec. (e)(2)(B). Pub. L. 107–188, §532(a)(2), substituted “during 2005” for “during 2002” in heading.
 
@@ -706,7 +704,7 @@ Subsec. (e)(4). Pub. L. 107–188, §532(a)(5), substituted “2005” for “20
 
 Subsec. (e)(6)(A). Pub. L. 107–188, §532(c)(1)(B), substituted “during the annual, coordinated election period under paragraph (3) for each subsequent year” for “each subsequent year (as provided in paragraph (3))”.
 
-2000—Subsec. (a)(3)(B). Pub. L. 106–554, §1(a)(6) \[title VI, §620(a)\], substituted “except that—” and cls. (i) and (ii) for “except that an individual who develops end-stage renal disease while enrolled in a Medicare+Choice plan may continue to be enrolled in that plan.”
+<b>2000</b>—Subsec. (a)(3)(B). Pub. L. 106–554, §1(a)(6) \[title VI, §620(a)\], substituted “except that—” and cls. (i) and (ii) for “except that an individual who develops end-stage renal disease while enrolled in a Medicare+Choice plan may continue to be enrolled in that plan.”
 
 Subsec. (d)(4)(B). Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(2)(C)\], designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
@@ -716,7 +714,7 @@ Subsec. (h)(1)(A). Pub. L. 106–554, §1(a)(6) \[title VI, §613(a)(1)\], inser
 
 Subsec. (h)(5). Pub. L. 106–554, §1(a)(6) \[title VI, §613(a)(2)\], added par. (5).
 
-1999—Subsec. (b)(1)(A). Pub. L. 106–113, §1000(a)(6) \[title V, §501(c)(1)\], inserted “and except as provided in subparagraph (C)” after “may otherwise provide”.
+<b>1999</b>—Subsec. (b)(1)(A). Pub. L. 106–113, §1000(a)(6) \[title V, §501(c)(1)\], inserted “and except as provided in subparagraph (C)” after “may otherwise provide”.
 
 Subsec. (b)(1)(C). Pub. L. 106–113, §1000(a)(6) \[title V, §501(c)(2)\], added subpar. (C).
 
@@ -733,6 +731,14 @@ Subsec. (e)(4)(A). Pub. L. 106–113, §1000(a)(6) \[title V, §501(a)(1)\], add
 Subsec. (f)(2). Pub. L. 106–113, §1000(a)(6) \[title V, §502(a)\], inserted “or change” before “is made” and “, except that if such election or change is made after the 10th day of any calendar month, then the election or change shall not take effect until the first day of the second calendar month following the date on which the election or change is made” before the period at end.
 
 Subsec. (i)(2). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(A)\], struck out “and” after “1395w–27(f)(2),”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040, provided that sections 3201 (amending this section and sections 1395w–23, 1395w–24, 1395w–27a, 1395w–29, and 1395eee of this title and enacting provisions set out as notes under this section and section 1395w–24 of this title) and 3203 (amending section 1395w–23 of this title) of Pub. L. 111–148, and the amendments made by such sections, were repealed, effective as if included in the enactment of Pub. L. 111–148.
+
+Pub. L. 111–148, title III, §3201(e)(2)(B), Mar. 23, 2010, 124 Stat. 447, which provided that amendments by section 3201(e)(2) of Pub. L. 111–148 (amending this section and sections 1395w–23 and 1395w–24 of this title) would take effect on Jan. 1, 2012, was repealed by Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040, effective as if included in the enactment of Pub. L. 111–148.
+
+Pub. L. 111–148, title III, §3204(a)(2), Mar. 23, 2010, 124 Stat. 456, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to 2011 and succeeding years.”
 
 #### Effective Date of 2008 Amendment
 
@@ -796,6 +802,10 @@ Pub. L. 108–173, title II, §223(b), Dec. 8, 2003, 117 Stat. 2207, provided th
 
 Pub. L. 108–173, title II, §221(b)(2), Dec. 8, 2003, 117 Stat. 2181, provided that: “Nothing in part C of title XVIII of the Social Security Act \[this part\] shall be construed as preventing an MSA plan or MA private fee-for-service plan from having a service area that covers one or more MA regions or the entire nation.”
 
+#### No Cuts in Guaranteed Benefits.
+
+Pub. L. 111–148, title III, §3602, Mar. 23, 2010, 124 Stat. 538, provided that: “Nothing in this Act \[see ShortTitle note set out under section 18001 of this title\] shall result in the reduction or elimination of any benefits guaranteed by law to participants in Medicare Advantage plans.”
+
 #### Implementation of Medicare Advantage Program
 
 Pub. L. 108–173, title II, §201, Dec. 8, 2003, 117 Stat. 2176, provided that:
@@ -852,7 +862,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §551\], Nov. 29, 1999, 113 S
 
 #### Report on Medicare MSA (Medical Savings Account) Plans
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §552(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–393, directed the Medicare Payment Assessment Commission to submit to Congress, no later than 1 year after Nov. 29, 1999, a report on specific legislative changes that should be made to make MSA plans a viable option under the Medicare+Choice program.
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §552(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–393, directed the Medicare Payment Assessment Commission to submit to Congress, no later than 1 year after Nov. 29, 1999, a report on specific legislative changes that should bemade to make MSA plans a viable option under the Medicare+Choice program.
 
 #### GAO Audit and Reports on Provision of Medicare+Choice Health Information to Beneficiaries
 
@@ -927,4 +937,6 @@ Duration.—A demonstration project under this section shall be conducted for a 
 “(e)
 
 Separate From Other Demonstration Projects.—A project implemented by the Secretary under this section shall not be conducted in conjunction with any other demonstration project.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

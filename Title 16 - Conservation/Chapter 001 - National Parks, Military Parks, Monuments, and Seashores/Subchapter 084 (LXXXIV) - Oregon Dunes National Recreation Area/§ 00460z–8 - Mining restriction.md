@@ -4,7 +4,3 @@ The lands within the recreation area, subject to valid existing rights, are here
 
 (Pub. L. 92–260, §10, Mar. 23, 1972, 86 Stat. 101.)
 
-#### References in Text
-
-The United States mining laws, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
-

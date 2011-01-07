@@ -1,12 +1,12 @@
 ### §12203. Commissioned officers: appointment, how made; term
 
-(a) Appointments of reserve officers in commissioned grades above lieutenant colonel and commander or below, except commissioned warrant officer, shall be made by the President alone. Appointments of reserve officers in commissioned grades above lieutenant colonel and commander shall be made by the President, by and with the advice and consent of the Senate, except as provided in section 624, 12213, or 12214 of this title.
+(a) Appointments of reserve officers in commissioned grades of lieutenant colonel and commander or below, except commissioned warrant officer, shall be made by the President alone. Appointments of reserve officers in commissioned grades above lieutenant colonel and commander shall be made by the President, by and with the advice and consent of the Senate, except as provided in section 624, 12213, or 12214 of this title.
 
 (b) Subject to the authority, direction, and control of the President, the Secretary concerned may appoint as a reserve commissioned officer any regular officer transferred from the active-duty list of an armed force to the reserve active-status list of a reserve component under section 647 of this title, notwithstanding the requirements of subsection (a).
 
 (c) Appointments of Reserves in commissioned grades are for an indefinite term and are held during the pleasure of the President.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 25, §593; Pub. L. 85–861, §1(10)(C), Sept. 2, 1958, 72 Stat. 1440; Pub. L. 92–129, title VI, §601, Sept. 28, 1971, 85 Stat. 361; Pub. L. 96–513, title V, §501(7), Dec. 12, 1980, 94 Stat. 2907; renumbered §12203 and amended Pub. L. 103–337, div. A, title XVI, §§1632, 1662(c)(2), 1675(b)(1), Oct. 5, 1994, 108 Stat. 2965, 2990, 3017; Pub. L. 104–106, div. A, title XV, §1501(a)(6), Feb. 10, 1996, 110 Stat. 495; Pub. L. 108–375, div. A, title V, §501(c)(4), Oct. 28, 2004, 118 Stat. 1874.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 25, §593; Pub. L. 85–861, §1(10)(C), Sept. 2, 1958, 72 Stat. 1440; Pub. L. 92–129, title VI, §601, Sept. 28, 1971, 85 Stat. 361; Pub. L. 96–513, title V, §501(7), Dec. 12, 1980, 94 Stat. 2907; renumbered §12203 and amended Pub. L. 103–337, div. A, title XVI, §§1632, 1662(c)(2), 1675(b)(1), Oct. 5, 1994, 108 Stat. 2965, 2990, 3017; Pub. L. 104–106, div. A, title XV, §1501(a)(6), Feb. 10, 1996, 110 Stat. 495; Pub. L. 108–375, div. A, title V, §501(c)(4), Oct. 28, 2004, 118 Stat. 1874; Pub. L. 111–383, div. A, title X, §1075(b)(54), Jan. 7, 2011, 124 Stat. 4372.)
 
 Historical and Revision Notes<br>1956
 
@@ -58,21 +58,23 @@ The exception is inserted to reflect section 3352(b) of title 10, United States 
 
 #### Amendments
 
-2004—Subsecs. (b), (c). Pub. L. 108–375 added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted “of” for “above” in first sentence.
 
-1996—Subsec. (a). Pub. L. 104–106 made technical correction to directory language of Pub. L. 103–337, §1632. See 1994 Amendment note below.
+<b>2004</b>—Subsecs. (b), (c). Pub. L. 108–375 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1994—Pub. L. 103–337, §1662(c)(2), renumbered section 593 of this title as this section.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106 made technical correction to directory language of Pub. L. 103–337, §1632. See 1994 Amendment note below.
+
+<b>1994</b>—Pub. L. 103–337, §1662(c)(2), renumbered section 593 of this title as this section.
 
 Subsec. (a). Pub. L. 103–337, §1675(b), substituted “12213, or 12214” for “3352, or 8352”.
 
 Pub. L. 103–337, §1632, as amended by Pub. L. 104–106, substituted “reserve officers in commissioned grades of lieutenant colonel and commander or below” for “Reserves in commissioned grades below lieutenant colonel and commander” and “reserve officers in commissioned grades above lieutenant colonel and commander” for “Reserves in commissioned grades above major and lieutenant commander”.
 
-1980—Subsec. (a). Pub. L. 96–513 inserted reference to section 624 of this title.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 inserted reference to section 624 of this title.
 
-1971—Subsec. (a). Pub. L. 92–129 substituted “below lieutenant colonel and commander” for “below general officer and flag officer”, “in commissioned grades above major and lieutenant commander” for “as general and flag officers”, and “section 3352 or 8352 of this title” for “section 3352 of this title”.
+<b>1971</b>—Subsec. (a). Pub. L. 92–129 substituted “below lieutenant colonel and commander” for “below general officer and flag officer”, “in commissioned grades above major and lieutenant commander” for “as general and flag officers”, and “section 3352 or 8352 of this title” for “section 3352 of this title”.
 
-1958—Subsec. (a). Pub. L. 85–861 inserted “, except as provided in section 3352 of this title” after “consent of the Senate”.
+<b>1958</b>—Subsec. (a). Pub. L. 85–861 inserted “, except as provided in section 3352 of this title” after “consent of the Senate”.
 
 #### Effective Date of 2004 Amendment
 

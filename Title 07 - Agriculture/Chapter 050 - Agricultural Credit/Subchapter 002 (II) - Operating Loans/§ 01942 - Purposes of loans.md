@@ -46,7 +46,7 @@ A loan may be guaranteed under this subchapter only for—
 
 &emsp;(6) paying loan closing costs;
 
-&emsp;(7) assisting a farmer or rancher in changing the equipment, facilities, or methods of operation of a farm or ranch to comply with a standard promulgated under section 655 of title 29 or a standard adopted by a State undera plan approved under section 667 of title 29, if the Secretary determines that without assistance under this paragraph the farmer or rancher is likely to suffer substantial economic injury due to compliance with the standard;
+&emsp;(7) assisting a farmer or rancher in changing the equipment, facilities, or methods of operation of a farm or ranch to comply with a standard promulgated under section 655 of title 29 or a standard adopted by a State under a plan approved under section 667 of title 29, if the Secretary determines that without assistance under this paragraph the farmer or rancher is likely to suffer substantial economic injury due to compliance with the standard;
 
 &emsp;(8) training a borrower under section 2006a of this title; or
 

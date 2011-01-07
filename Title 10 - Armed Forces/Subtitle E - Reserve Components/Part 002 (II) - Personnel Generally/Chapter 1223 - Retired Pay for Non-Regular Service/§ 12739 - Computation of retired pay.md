@@ -40,11 +40,11 @@ Provisions similar to those in this section were contained in formula 3 of the t
 
 #### Amendments
 
-2009—Subsec. (e). Pub. L. 111–84 added subsec. (e).
+<b>2009</b>—Subsec. (e). Pub. L. 111–84 added subsec. (e).
 
-2006—Subsec. (c). Pub. L. 109–364 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the” for “The”, and added par. (2).
+<b>2006</b>—Subsec. (c). Pub. L. 109–364 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the” for “The”, and added par. (2).
 
-2002—Subsec. (b). Pub. L. 107–314, §632(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+<b>2002</b>—Subsec. (b). Pub. L. 107–314, §632(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 107–314, §632(a)(1), (b), redesignated subsec. (b) as (c) and substituted “total amount of the monthly retired pay computed under subsections (a) and (b)” for “amount computed under subsection (a)”. Former subsec. (c) redesignated (d).
 

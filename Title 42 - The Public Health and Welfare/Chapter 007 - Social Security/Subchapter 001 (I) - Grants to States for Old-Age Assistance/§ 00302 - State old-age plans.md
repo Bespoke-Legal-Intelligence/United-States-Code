@@ -12,7 +12,7 @@ A State plan for old-age assistance must—
 
 &emsp;(4) provide (A) for granting an opportunity for a fair hearing before the State agency to any individual whose claim for assistance under the plan is denied or is not acted upon with reasonable promptness, and (B) that if the State plan is administered in each of the political subdivisions of the State by a local agency and such local agency provides a hearing at which evidence may be presented prior to a hearing before the State agency, such local agency may put into effect immediately upon issuance its decision upon the matter considered at such hearing;
 
-&emsp;(5) provide (A) such methods of administration (including methods relating to the establishment and maintenance of personnel standards on a merit basis, except that the Secretary shall exercise no authority with respectto the selection, tenure of office, and compensation of any individual employed in accordance with such methods) as are found by the Secretary to be necessary for the proper and efficient operation of the plan, and (B) for the training and effective use of paid subprofessional staff, with particular emphasis on the full-time or part-time employment of recipients and other persons of low income, as community service aides, in the administration of the plan and for the use of nonpaid or partially paid volunteers in a social service volunteer program in providing services to applicants and recipients and in assisting any advisory committees established by the State agency;
+&emsp;(5) provide (A) such methods of administration (including methods relating to the establishment and maintenance of personnel standards on a merit basis, except that the Secretary shall exercise no authority with respect to the selection, tenure of office, and compensation of any individual employed in accordance with such methods) as are found by the Secretary to be necessary for the proper and efficient operation of the plan, and (B) for the training and effective use of paid subprofessional staff, with particular emphasis on the full-time or part-time employment of recipients and other persons of low income, as community service aides, in the administration of the plan and for the use of nonpaid or partially paid volunteers in a social service volunteer program in providing services to applicants and recipients and in assisting any advisory committees established by the State agency;
 
 &emsp;(6) provide that the State agency will make such reports, in such form and containing such information, as the Secretary may from time to time require, and comply with such provisions as the Secretary may from time to time find necessary to assure the correctness and verification of such reports;
 
@@ -56,11 +56,11 @@ Nothing in this subchapter shall be construed to permit a State to have in effec
 
 #### Amendments
 
-1984—Subsec. (a)(11). Pub. L. 98–369 added par. (11).
+<b>1984</b>—Subsec. (a)(11). Pub. L. 98–369 added par. (11).
 
-1981—Subsec. (a). Pub. L. 97–35 struck out in provision preceding par. (1) “, or for medical assistance for the aged, or for old-age assistance and medical assistance for the aged” par. (11) which specified the contents theState plan must contain if it includes medical assistance for the aged, par. (12) which specified the contents the State plan must contain if it includes assistance to or in behalf of individuals who are patients in institutions for mental diseases, and par. (13) which provided that if the State plan includes assistance to or in behalf of patients in public institutions for mental diseases, it show that the State is making satisfactory progress towards developing and implementing a comprehensive mental health program.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 struck out in provision preceding par. (1) “, or for medical assistance for the aged, or for old-age assistance and medical assistance for the aged” par. (11) which specified the contents the State plan must contain if it includes medical assistance for the aged, par. (12) which specified the contents the State plan must contain if it includes assistance to or in behalf of individuals who are patients in institutions for mental diseases, and par. (13) which provided that if the State plan includes assistance to or in behalf of patients in public institutions for mental diseases, it show that the State is making satisfactory progress towards developing and implementing a comprehensive mental health program.
 
-1972—Subsec. (a)(1). Pub. L. 92–603, §410(a), inserted “except to the extent permitted by the Secretary with respect to services” before “provide”.
+<b>1972</b>—Subsec. (a)(1). Pub. L. 92–603, §410(a), inserted “except to the extent permitted by the Secretary with respect to services” before “provide”.
 
 Subsec. (a)(4). Pub. L. 92–603, §407(a), designated existing provisions as cl. (A) and added cl. (B).
 
@@ -70,29 +70,29 @@ Subsec. (a)(10)(C). Pub. L. 92–603, §405(a), inserted provision relating to u
 
 Subsec. (b). Pub. L. 92–603, §406(a), inserted provision relating to furnishing of manuals and other policy issuances to persons without charge and at option of the State.
 
-1968—Subsec. (a)(5). Pub. L. 90–248, §210(a)(1), designated existing provisions as subpar. (A) and added subpar. (B).
+<b>1968</b>—Subsec. (a)(5). Pub. L. 90–248, §210(a)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (a)(10)(A)(i). Pub. L. 90–248, §213(a)(1), increased from $5 to $7.50 limitation on amount of any income which the State may disregard in making its determination of need.
 
-1965—Subsec. (a)(10)(A). Pub. L. 89–97, §403(a), placed a ceiling of $5 on amount of any income which the State may disregard in making its determination of need and substituted “$80” and “$20” for “$50” and “$10” respectively.
+<b>1965</b>—Subsec. (a)(10)(A). Pub. L. 89–97, §403(a), placed a ceiling of $5 on amount of any income which the State may disregard in making its determination of need and substituted “$80” and “$20” for “$50” and “$10” respectively.
 
 Subsec. (a)(12), (13). Pub. L. 89–97, §221(a)(3), added pars. (12) and (13).
 
-1962—Subsec. (a)(10)(A). Pub. L. 87–543 inserted “as well as any expenses reasonably attributable to the earning of any such income” and exception provision.
+<b>1962</b>—Subsec. (a)(10)(A). Pub. L. 87–543 inserted “as well as any expenses reasonably attributable to the earning of any such income” and exception provision.
 
-1960—Subsec. (a). Pub. L. 86–778 amended subsec. (a) generally, inserting provisions relating to plans for medical assistance, and required plans that include old-age assistance to include reasonable standards, consistent with objectives of this subchapter, for determining eligibility for and extent of such assistance.
+<b>1960</b>—Subsec. (a). Pub. L. 86–778 amended subsec. (a) generally, inserting provisions relating to plans for medical assistance, and required plans that include old-age assistance to include reasonable standards, consistent with objectives of this subchapter, for determining eligibility for and extent of such assistance.
 
 Subsec. (b). Pub. L. 86–778 amended subsec. (b) generally, substituting “eligibility for assistance under the plan” for “eligibility for old-age assistance under the plan” in opening provisions, struck out provisions from par. (1) which permitted plan to impose an age requirement of as much as 70 years until Jan. 1, 1940, and inserted provisions in par. (2) requiring the Secretary to disapprove any plan, in the case of applicants for medical assistance for the aged, which excludes any individual who resides in the State.
 
 Subsec. (c). Pub. L. 86–778 added subsec. (c).
 
-1958—Subsec. (a)(11). Pub. L. 85–840 inserted provisions in par. (11) requiring the State plan to include a description of the steps taken to assure, in provision of such services, maximum utilization of other agencies providing similar or related services.
+<b>1958</b>—Subsec. (a)(11). Pub. L. 85–840 inserted provisions in par. (11) requiring the State plan to include a description of the steps taken to assure, in provision of such services, maximum utilization of other agencies providing similar or related services.
 
-1956—Subsec. (a)(11). Act Aug. 1, 1956, added par. (11).
+<b>1956</b>—Subsec. (a)(11). Act Aug. 1, 1956, added par. (11).
 
-1950—Subsec. (a). Act Aug. 28, 1950, substituted “provide for granting an opportunity for a fair hearing before the State agency to any individual whose claim for old-age assistance is denied or is not acted upon with reasonable promptness” for “provide for granting to any individual, whose claim for old-age assistance is denied, an opportunity for a fair hearing before such State agency” in par. (4), “Administrator” for “Board” wherever appearing, and “he”, “him”, or “his” for “it” or “its” wherever appearing, and added pars. (9) and (10).
+<b>1950</b>—Subsec. (a). Act Aug. 28, 1950, substituted “provide for granting an opportunity for a fair hearing before the State agency to any individual whose claim for old-age assistance is denied or is not acted upon with reasonable promptness” for “provide for granting to any individual, whose claim for old-age assistance is denied, an opportunity for a fair hearing before such State agency” in par. (4), “Administrator” for “Board” wherever appearing, and “he”, “him”, or “his” for “it” or “its” wherever appearing, and added pars. (9) and (10).
 
-1939—Subsec. (a). Act Aug. 10, 1939, amended subsec. (a) generally commencing with par. (5).
+<b>1939</b>—Subsec. (a). Act Aug. 10, 1939, amended subsec. (a) generally commencing with par. (5).
 
 #### Effective Date of 1984 Amendment
 

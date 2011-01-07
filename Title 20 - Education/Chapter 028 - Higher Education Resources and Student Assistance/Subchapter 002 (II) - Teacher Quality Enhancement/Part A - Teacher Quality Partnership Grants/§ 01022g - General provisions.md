@@ -16,7 +16,7 @@ For each State that does not use content assessments as a means of ensuring that
 
 #### (1) In general
 
-&emsp;For the purpose of improving teacher preparation programs, a State that receives funds under this chapter, or that participates as a member of a partnership, consortium, or other entity that receives such funds, shall provide to a teacher preparation program, upon the request of the teacher preparation program, any and all pertinent education-related information that—
+&emsp;For the purpose of improving teacher preparation programs, a State that receives funds under this chapter and part C of subchapter I of chapter 34 of title 42, or that participates as a member of a partnership, consortium, or other entity that receives such funds, shall provide to a teacher preparation program, upon the request of the teacher preparation program, any and all pertinent education-related information that—
 
 &emsp;&emsp;(A) may enable the teacher preparation program to evaluate the effectiveness of the program's graduates or the program itself; and
 
@@ -35,10 +35,6 @@ For each State that does not use content assessments as a means of ensuring that
 &emsp;&emsp;&emsp;(ii) teacher effectiveness evaluations for teachers who graduated from the teacher preparation program.
 
 (Pub. L. 89–329, title II, §208, as added Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3153.)
-
-#### References in Text
-
-This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 89–329, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 

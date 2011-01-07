@@ -18,7 +18,7 @@ Construction Planning.—In planning for the construction of housing to be used 
 
 (d)
 
-Basic Training Defined.—In this section, the term ‘basic training’ means the initial entry training program of the Army that constitutes the basic training of new recruits.
+Basic Training Defined.—In this section, the term ‘basic training’ means the initial entrytraining program of the Army that constitutes the basic training of new recruits.
 
 (Added Pub. L. 105–261, div. A, title V, §521(a)(1), Oct. 17, 1998, 112 Stat. 2009.)
 

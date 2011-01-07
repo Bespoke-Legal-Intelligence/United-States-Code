@@ -28,7 +28,7 @@ If—
 
 #### (A) Buy-sell basis
 
-&emsp;&emsp;A transaction is on a buy-sell basis if the buyer performing the services is entitled toretain part or all of the difference between the price at which the buyer purchases the product and the price at which the buyer sells the product as part or all of the buyer's remuneration for the services, and
+&emsp;&emsp;A transaction is on a buy-sell basis if the buyer performing the services is entitled to retain part or all of the difference between the price at which the buyer purchases the product and the price at which the buyer sells the product as part or all of the buyer's remuneration for the services, and
 
 #### (B) Deposit-commission basis
 
@@ -94,9 +94,9 @@ The date of the enactment of this paragraph, referred to in subsec. (d)(3), is t
 
 #### Amendments
 
-1997—Subsec. (d)(3). Pub. L. 105–34 added par. (3).
+<b>1997</b>—Subsec. (d)(3). Pub. L. 105–34 added par. (3).
 
-1996—Subsec. (e)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
+<b>1996</b>—Subsec. (e)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
 
 #### Effective Date of 1997 Amendment
 

@@ -82,7 +82,7 @@ The Secretary shall establish within the Department of Agriculture a board to be
 
 #### (7) Equal representation of public and private sector members
 
-&emsp;In appointing members to serve on the Advisory Board, the Secretary shall ensure, to the maximum extent practicable, equal representation of public and private sector members.
+&emsp;In appointing members to serve on the Advisory Board, the Secretary shall ensure, to themaximum extent practicable, equal representation of public and private sector members.
 
 #### (c) Duties
 
@@ -100,7 +100,7 @@ The Advisory Board shall—
 
 &emsp;&emsp;(B) implementation of the national research policies and priorities set forth in section 3101 of this title; and
 
-&emsp;&emsp;(C) the development of mechanisms for the assessment of emerging public and privateagricultural research and technology transfer initiatives.
+&emsp;&emsp;(C) the development of mechanisms for the assessment of emerging public and private agricultural research and technology transfer initiatives.
 
 #### (d) Consultation
 
@@ -148,7 +148,7 @@ Act of August 30, 1890, referred to in subsec. (b)(3)(L), is act Aug. 30, 1890, 
 
 For definition of “this chapter”, referred to in subsec. (d)(2), see note set out under section 3102 of this title.
 
-Section 9 of the Federal Advisory Committee Act, referred to in subsec. (f), is section 9 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 9 of the Federal Advisory Committee Act, referred to in subsec. (f), is section 9 of Pub. L. 92–463,which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 

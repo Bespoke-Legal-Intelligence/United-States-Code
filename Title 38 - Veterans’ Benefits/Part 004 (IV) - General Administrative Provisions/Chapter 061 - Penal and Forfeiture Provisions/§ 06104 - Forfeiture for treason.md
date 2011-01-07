@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 3504 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 3504 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
@@ -18,11 +18,11 @@ Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for
 
 Subsec. (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary's” for “Administrator's”.
 
-1986—Subsec. (b). Pub. L. 99–576 substituted “the Administrator's” for “his” and “the dependent” for “he”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–576 substituted “the Administrator's” for “his” and “the dependent” for “he”.
 
-1982—Subsec. (a). Pub. L. 97–295 inserted “to” before “be guilty”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–295 inserted “to” before “be guilty”.
 
-1969—Subsec. (c). Pub. L. 91–24 substituted “September 1, 1959” for “the date of enactment of this subsection”.
+<b>1969</b>—Subsec. (c). Pub. L. 91–24 substituted “September 1, 1959” for “the date of enactment of this subsection”.
 
-1959—Subsec. (c). Pub. L. 86–222 added subsec. (c).
+<b>1959</b>—Subsec. (c). Pub. L. 86–222 added subsec. (c).
 

@@ -22,11 +22,11 @@ Section 564 of the Federal Food, Drug, and Cosmetic Act, referred to in text, is
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–364, §1071(g)(7), made technical correction to directory language of Pub. L. 108–375, §726(b)(1). See 2004 Amendment note below.
+<b>2006</b>—Subsec. (a). Pub. L. 109–364, §1071(g)(7), made technical correction to directory language of Pub. L. 108–375, §726(b)(1). See 2004 Amendment note below.
 
 Pub. L. 109–364, §1071(a)(5), redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and, in par. (2), substituted “paragraph (1)” for “subparagraph (A)”.
 
-2004—Subsec. (a). Pub. L. 108–375, §726(b)(1), as amended by Pub. L. 109–364, §1071(g)(7), inserted “(A)” after “
+<b>2004</b>—Subsec. (a). Pub. L. 108–375, §726(b)(1), as amended by Pub. L. 109–364, §1071(g)(7), inserted “(A)” after “
 
 President.—”.
 

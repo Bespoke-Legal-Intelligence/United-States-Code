@@ -34,9 +34,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §2604, amended section generally. Prior to amendment, section related to: in subsec. (a), authorization to carry out the Great Lakes basin program for soil erosion and sediment control in consultation with the Great Lakes Commission and in cooperation with the Administrator of the Environmental Protection Agency and the Secretary of the Army; in subsec. (b), provision of assistance and prioritization of projects; and, in subsec. (c), appropriations for fiscal years 2002 through 2007.
+<b>2008</b>—Pub. L. 110–246, §2604, amended section generally. Prior to amendment, section related to: in subsec. (a), authorization to carry out the Great Lakes basin program for soil erosion and sediment control in consultation with the Great Lakes Commission and in cooperation with the Administrator of the Environmental Protection Agency and the Secretary of the Army; in subsec. (b), provision of assistance and prioritization of projects; and, in subsec. (c), appropriations for fiscal years 2002 through 2007.
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 ofPub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

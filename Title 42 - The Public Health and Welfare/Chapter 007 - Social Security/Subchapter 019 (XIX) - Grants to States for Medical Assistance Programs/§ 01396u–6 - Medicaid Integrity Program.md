@@ -38,7 +38,9 @@ Activities described in this subsection are as follows:
 
 &emsp;&emsp;(C) The entity complies with such conflict of interest standards as are generally applicable to Federal acquisition and procurement.
 
-&emsp;&emsp;(D) The entity meets such other requirements as the Secretary may impose.
+&emsp;&emsp;(D) The entity agrees to provide the Secretary and the Inspector General of the Department of Health and Human Services with such performance statistics (including the number and amount of overpayments recovered, the number of fraud referrals, and the return on investment of such activities by the entity) as the Secretary or the Inspector General may request.
+
+&emsp;&emsp;(E) The entity meets such other requirements as the Secretary may impose.
 
 #### (3) Contracting requirements
 
@@ -80,9 +82,11 @@ Activities described in this subsection are as follows:
 
 &emsp;&emsp;(A) for fiscal year 2006, $5,000,000;
 
-&emsp;&emsp;(B) for each of fiscal years 2007 and 2008, $50,000,000; and
+&emsp;&emsp;(B) for each of fiscal years 2007 and 2008, $50,000,000;
 
-&emsp;&emsp;(C) for each fiscal year thereafter, $75,000,000.
+&emsp;&emsp;(C) for each of fiscal years 2009 and 2010, $75,000,000; and
+
+&emsp;&emsp;(D) for each fiscal year after fiscal year 2010, the amount appropriated under this paragraph for the previous fiscal year, increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) over the previous year.
 
 #### (2) Availability; authority for use of funds
 
@@ -108,7 +112,11 @@ Activities described in this subsection are as follows:
 
 &emsp;From the amounts appropriated under paragraph (1), the Secretary shall increase by 100 the number of full-time equivalent employees whose duties consist solely of protecting the integrity of the Medicaid program established under this section by providing effective support and assistance to States to combat provider fraud and abuse.
 
-#### (4) Annual report
+#### (4) Evaluations
+
+&emsp;The Secretary shall conduct evaluations of eligible entities which the Secretary contracts with under the Program not less frequently than every 3 years.
+
+#### (5) Annual report
 
 &emsp;Not later than 180 days after the end of each fiscal year (beginning with fiscal year 2006), the Secretary shall submit a report to Congress which identifies—
 
@@ -116,7 +124,7 @@ Activities described in this subsection are as follows:
 
 &emsp;&emsp;(B) the effectiveness of the use of such funds.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1936, as added Pub. L. 109–171, title VI, §6034(a)(2), Feb. 8, 2006, 120 Stat. 74; amended Pub. L. 110–379, §5(a)(1), (b)(1), Oct. 8, 2008, 122 Stat. 4078.)
+(Aug. 14, 1935, ch. 531, title XIX, §1936, as added Pub. L. 109–171, title VI, §6034(a)(2), Feb. 8, 2006, 120 Stat. 74; amended Pub. L. 110–379, §5(a)(1), (b)(1), Oct. 8, 2008, 122 Stat. 4078; Pub. L. 111–148, title VI, §6402(j)(2), Mar. 23, 2010, 124 Stat. 762; Pub. L. 111–152, title I, §1303(b), Mar. 30, 2010, 124 Stat. 1058.)
 
 #### References in Text
 
@@ -128,7 +136,15 @@ A prior section 1936 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 #### Amendments
 
-2008—Subsec. (b)(4). Pub. L. 110–379, §5(a)(1)(A), substituted “Education or training, including at such national, State, or regional conferences as the Secretary may establish, of State or local officers, employees, or independent contractors responsible for the administration or the supervision of the administration of the State plan under this subchapter,” for “Education of”.
+<b>2010</b>—Subsec. (c)(2)(D), (E). Pub. L. 111–148, §6402(j)(2)(A), added subpar. (D) and redesignated former subpar. (D) as (E).
+
+Subsec. (e)(1)(C). Pub. L. 111–152, §1303(b)(2)(A), substituted “for each of fiscal years 2009 and 2010” for “for each fiscal year thereafter”.
+
+Subsec. (e)(1)(D). Pub. L. 111–152, §1303(b)(1), (2)(B), (3), added subpar. (D).
+
+Subsec. (e)(4), (5). Pub. L. 111–148, §6402(j)(2)(B), added par. (4) and redesignated former par. (4) as (5).
+
+<b>2008</b>—Subsec. (b)(4). Pub. L. 110–379, §5(a)(1)(A), substituted “Education or training, including at such national, State, or regional conferences as the Secretary may establish, of State or local officers, employees, or independent contractors responsible for the administration or the supervision of the administration of the State plan under this subchapter,” for “Education of”.
 
 Subsec. (e)(2). Pub. L. 110–379, §5(a)(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Amounts appropriated pursuant to paragraph (1) shall remain available until expended.”
 

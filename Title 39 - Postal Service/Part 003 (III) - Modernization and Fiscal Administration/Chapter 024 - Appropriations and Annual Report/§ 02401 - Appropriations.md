@@ -18,7 +18,7 @@
 
 &emsp;(G) except as provided in paragraph (2) of this subsection, for each fiscal year thereafter an amount equal to 5 percent of such sum for fiscal year 1971.
 
-(2) After fiscal year 1984, the Postal Service may reduce the percentage figure in paragraph (1)(G) of this subsection, including a reduction to 0, if the Postal Service finds that theamounts determined under such paragraph are no longer required to operate the Postal Service in accordance with the policies of this title.
+(2) After fiscal year 1984, the Postal Service may reduce the percentage figure in paragraph (1)(G) of this subsection, including a reduction to 0, if the Postal Service finds that the amounts determined under such paragraph are no longer required to operate the Postal Service in accordance with the policies of this title.
 
 (c) There are authorized to be appropriated to the Postal Service each year a sum determined by the Postal Service to be equal to the difference between the revenues the Postal Service would have received if sections 3217 and 3403 through 3406 had not been enacted and the estimated revenues to be received on mail carried under such sections. In requesting an appropriation under this subsection for a fiscal year, the Postal Service shall include an amount to reconcile sums authorized to be appropriated for prior fiscal years on the basis of estimated mail volume.
 
@@ -30,7 +30,7 @@
 
 &emsp;(2) postal operations generally, including data on the speed and reliability of service provided for the various classes of mail and types of mail service, mail volume, productivity, trends in postal operations, and analyses of the impact of internal and external factors upon the Postal Service;
 
-&emsp;(3) a listing of the total expenditures and obligations incurred by the Postal Service for the most recent fiscal year for which information is available, an estimate of the total expenditures and obligations to be incurred by the Postal Service during the fiscal year for which funds are requested to be appropriated, and the means by which these estimated expenses will be financed; and
+&emsp;(3) a listing of the total expenditures and obligations incurred by the Postal Service forthe most recent fiscal year for which information is available, an estimate of the total expenditures and obligations to be incurred by the Postal Service during the fiscal year for which funds are requested to be appropriated, and the means by which these estimated expenses will be financed; and
 
 &emsp;(4) such other matters as the committees may determine necessary to ensure that the Congress is fully and currently consulted and informed on postal operations, plans, and policies.
 
@@ -50,13 +50,13 @@ Former chapter 67 of title 39, referred to in subsec. (g), means chapter 67 (§4
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–435, §1010(c)(2), inserted “(as last in effect before enactment of the Postal Accountability and Enhancement Act)” after “section 3626(a)” and after “section 3626(a)(3)(B)(ii)”.
+<b>2006</b>—Subsec. (d). Pub. L. 109–435, §1010(c)(2), inserted “(as last in effect before enactment of the Postal Accountability and Enhancement Act)” after “section 3626(a)” and after “section 3626(a)(3)(B)(ii)”.
 
 Subsec. (e). Pub. L. 109–435, §1010(d)(1), substituted “Committee on Government Reform” for “Committee on Post Office and Civil Service” in introductory and concluding provisions and “Each year,” for “Not later than March 15 of each year,” in concluding provisions.
 
-1994—Subsec. (e). Pub. L. 103–437, in introductory provisions, substituted “Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives” for “Committees on Post Office and Civil Service”, and, in concluding provisions, substituted “Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives” for “Committees on Post Office and Civil Service of the Senate and the House of Representatives”.
+<b>1994</b>—Subsec. (e). Pub. L. 103–437, in introductory provisions, substituted “Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives” for “Committees on Post Office and Civil Service”, and, in concluding provisions, substituted “Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives” for “Committees on Post Office and Civil Service of the Senate and the House of Representatives”.
 
-1993—Subsec. (c). Pub. L. 103–123, §703(a), in first sentence substituted “if sections 3217 and 3403 through 3406 had not been enacted” for “if sections 3217, 3403–3406, 3626(a)–(h), 3626(j)–(k), and 3629 of this title, had notbeen enacted” and “such sections.” for “such sections and Acts.” and in second sentence struck out “(i)” after “Postal Service shall” and substituted “volume.” for “volume; and (ii) calculate the sums requested in respect of mail under former sections 4452(b) and 4452(c) of this title as though all such mail consisted of letter shaped pieces, as such pieces are defined in the then effective classification and rate schedules.”
+<b>1993</b>—Subsec. (c). Pub. L. 103–123, §703(a), in first sentence substituted “if sections 3217 and 3403 through 3406 had not been enacted” for “if sections 3217, 3403–3406, 3626(a)–(h), 3626(j)–(k), and 3629 of this title, had not been enacted” and “such sections.” for “such sections and Acts.” and in second sentence struck out “(i)” after “Postal Service shall” and substituted “volume.” for “volume; and (ii) calculate the sums requested in respect of mail under former sections 4452(b) and 4452(c) of this title as though all such mail consisted of letter shaped pieces, as such pieces are defined in the then effective classification and rate schedules.”
 
 Pub. L. 103–31 substituted “3626(a)–(h), 3626(j)–(k), and 3629 of this title” for “and 3626(a)–(h) and (j)–(k) of this title,” in first sentence.
 
@@ -74,23 +74,23 @@ Subsec. (g). Pub. L. 103–123, §704(b)(1)(B), (D), redesignated (i) as (g) and
 
 Subsecs. (h), (i). Pub. L. 103–123, §704(b)(1)(B), redesignated subsecs. (h) and (i) as (f) and (g), respectively.
 
-1991—Subsec. (c). Pub. L. 102–141 amended last sentence generally. Prior to amendment, last sentence read as follows: “In requesting an appropriation under this subsection for a fiscal year, the Postal Service shall include an amount to reconcile sums authorized to be appropriated for prior fiscal years on the basis of estimated mail volume with sums which would have been authorized to be appropriated if based on the final audited mail volume.”
+<b>1991</b>—Subsec. (c). Pub. L. 102–141 amended last sentence generally. Prior to amendment, last sentence read as follows: “In requesting an appropriation under this subsection for a fiscal year, the Postal Service shall include an amount to reconcile sums authorizedto be appropriated for prior fiscal years on the basis of estimated mail volume with sums which would have been authorized to be appropriated if based on the final audited mail volume.”
 
-1990—Subsec. (c). Pub. L. 101–509 substituted “3626(a)–(h) and (j)–(k)” for “3626(a)–(h)”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–509 substituted “3626(a)–(h) and (j)–(k)” for “3626(a)–(h)”.
 
-1986—Subsec. (c). Pub. L. 99–509 substituted “3626(a)–(h)” for “3626”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–509 substituted “3626(a)–(h)” for “3626”.
 
 Pub. L. 99–410 substituted “3406” for “3405” and struck out “the Overseas Citizens Voting Rights Act of 1975, and the Federal Voting Assistance Act of 1955” after “3626 of this title,”.
 
-1981—Subsec. (b)(1). Pub. L. 97–35 substituted “$250,000,000” for “an amount equal to 7 percent of such sum for fiscal year 1971” in subpar. (D), substituted “$100,000,000” for “an amount equal to 6 percent of such sum for fiscal year 1971” in subpar. (E), and substituted “no funds are authorized to be appropriated” for “an amount equal to 5 percent of such sum for fiscal year 1971” in subpar. (F).
+<b>1981</b>—Subsec. (b)(1). Pub. L. 97–35 substituted “$250,000,000” for “an amount equal to 7 percent of such sum for fiscal year 1971” in subpar. (D), substituted “$100,000,000” for “an amount equal to 6 percent of such sum for fiscal year 1971” in subpar. (E), and substituted “no funds are authorized to be appropriated” for “an amount equal to 5 percent of such sum for fiscal year 1971” in subpar. (F).
 
-1980—Subsec. (b)(1)(C). Pub. L. 96–499, §411, substituted “$486,000,000” for “an amount equal to 8 percent of such sum for fiscal year 1971”.
+<b>1980</b>—Subsec. (b)(1)(C). Pub. L. 96–499, §411, substituted “$486,000,000” for “an amount equal to 8 percent of such sum for fiscal year 1971”.
 
 Subsec. (c). Pub. L. 96–499, §414(a), inserted provision requiring Postal Service when requesting an appropriation under subsec. (c) to reconcile sums authorized to be appropriated for prior fiscal years on the basis of estimated mail volume with sums which would have been authorized if based on the final audited mail volume.
 
-1978—Subsec. (c). Pub. L. 95–593 inserted provisions relating to applicability of Overseas Citizens Voting Rights Act of 1975.
+<b>1978</b>—Subsec. (c). Pub. L. 95–593 inserted provisions relating to applicability of Overseas Citizens Voting Rights Act of 1975.
 
-1976—Subsec. (b)(3). Pub. L. 94–421, §2(a), struck out par. (3) which required Postal Service, when requesting appropriations, to present to the appropriate committees in Congress, a statement of its compliance with the cost policy established under section 101(b) of this title.
+<b>1976</b>—Subsec. (b)(3). Pub. L. 94–421, §2(a), struck out par. (3) which required Postal Service, when requesting appropriations, to present to the appropriate committees in Congress, a statement of its compliance with the cost policy established under section 101(b) of this title.
 
 Subsecs. (d) to (i). Pub. L. 94–421, §2(b), added subsecs. (d) to (i).
 

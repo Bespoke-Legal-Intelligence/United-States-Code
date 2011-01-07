@@ -22,7 +22,7 @@
 
 #### (b) Failure to commence or complete service obligations; formula to determine liability; payment to United States; recovery of delinquent damages; disclosure to credit reporting agencies
 
-(1)(A) Except as provided in paragraph (2), if an individual breaches his written contract by failing (for any reason not specified in subsection (a) of this section or section 254p(d) of this title) to begin such individual's service obligation under section 254<i>l</i> of this title in accordance with section 254m or 254n of this title, to complete such service obligation, or to complete a required residency as specified in section 254<i>l</i>(f)(1)(B)(iv) of this title, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula
+(1)(A) Except as provided in paragraph (2), if an individual breaches his written contract by failing (for any reason not specified in subsection (a) of this section or section 254p(d) of this title) to begin such individual's service obligation under section 254<i>l</i> of this title in accordance with section 254m or 254n of this title, to complete such service obligation, or to completea required residency as specified in section 254<i>l</i>(f)(1)(B)(iv) of this title, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t−s
 
@@ -32,7 +32,7 @@
 
 > in which “A” is the amount the United States is entitled to recover, “φ” is the sum of the amounts paid under this subpart to or on behalf of the individual and the interest on such amounts which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States; “t” is the total number of months in the individual's period of obligated service; and “s” is the number of months of such period served by him in accordance with section 254m of this title or a written agreement under section 254n of this title.
 
-(B)(i) Any amount of damages that the United States is entitled to recover under this subsection or under subsection (c) of this section shall, within the 1-year period beginning on the date of the breach of the written contract (or such longer period beginning on such date asspecified by the Secretary), be paid to the United States. Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to section 1395ccc of this title.
+(B)(i) Any amount of damages that the United States is entitled to recover under this subsection or under subsection (c) of this section shall, within the 1-year period beginning on the date of the breach of the written contract (or such longer period beginning on such date as specified by the Secretary), be paid to the United States. Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to section 1395ccc of this title.
 
 (ii) If damages described in clause (i) are delinquent for 3 months, the Secretary shall, for the purpose of recovering such damages—
 
@@ -76,7 +76,7 @@
 
 (1) Any obligation of an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) for service or payment of damages shall be canceled upon the death of the individual.
 
-(2) The Secretary shall by regulation provide for the partial or total waiver or suspension of any obligation of service or payment by an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) whenever compliance by the individual is impossible or would involve extreme hardship to the individual and if enforcement of such obligation with respect to any individual would be unconscionable.
+(2) The Secretary shall by regulation provide for the partial or total waiver or suspension of any obligation of service or payment by an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) whenever compliance by the individual is impossible or wouldinvolve extreme hardship to the individual and if enforcement of such obligation with respect to any individual would be unconscionable.
 
 (3)(A) Any obligation of an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) for payment of damages may be released by a discharge in bankruptcy under title 11 only if such discharge is granted after the expiration of the 7-year period beginning on the first date that payment of such damages is required, and only if the bankruptcy court finds that nondischarge of the obligation would be unconscionable.
 
@@ -112,11 +112,11 @@ A prior section 338E of act July 1, 1944, was renumbered section 338F by Pub. L.
 
 #### Amendments
 
-2003—Subsec. (c)(1). Pub. L. 108–163, §2(<i>l</i>)(1)(A), realigned margins.
+<b>2003</b>—Subsec. (c)(1). Pub. L. 108–163, §2(<i>l</i>)(1)(A), realigned margins.
 
 Subsec. (f). Pub. L. 108–163, §2(<i>l</i>)(1)(B), added subsec. (f).
 
-2002—Subsec. (a)(1). Pub. L. 107–251, §313(a)(1), substituted semicolon for comma at end of subpar. (A) and “; or” for comma at end of subpar. (B), struck out “or” at end of subpar. (C), and struck out subpar. (D) which read as follows: “fails to accept payment, or instructs the educational institution in which he is enrolled not to accept payment, in whole or in part, of a scholarship under such contract,”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–251, §313(a)(1), substituted semicolon for comma at end of subpar. (A) and “; or” for comma at end of subpar. (B), struck out “or” at end of subpar. (C), and struck out subpar. (D) which read as follows: “fails to accept payment, or instructs the educational institution in which he is enrolled not to accept payment, in whole or in part, of a scholarship under such contract,”.
 
 Subsec. (b)(1)(A). Pub. L. 107–251, §313(a)(2)(A)(ii)–(iv), struck out “either” before “to begin”, substituted “254n of this title,” for “254n of this title or”, and inserted “or to complete a required residency as specified in section 254<i>l</i>(f)(1)(B)(iv) of this title,” before “the United States” the first time appearing.
 
@@ -136,31 +136,31 @@ Subsec. (d)(3)(A). Pub. L. 107–251, §313(a)(4), substituted “7-year period�
 
 Subsec. (e). Pub. L. 107–251, §313(a)(5), added subsec. (e).
 
-1990—Subsec. (d)(3). Pub. L. 101–597 designated existing provision as subpar. (A) and added subpar. (B).
+<b>1990</b>—Subsec. (d)(3). Pub. L. 101–597 designated existing provision as subpar. (A) and added subpar. (B).
 
-1988—Subsec. (b)(1)(B)(i). Pub. L. 100–360 made technical amendment to directory language of Pub. L. 100–203, see 1987 Amendment note below.
+<b>1988</b>—Subsec. (b)(1)(B)(i). Pub. L. 100–360 made technical amendment to directory language of Pub. L. 100–203, see 1987 Amendment note below.
 
-1987—Pub. L. 100–177, §202(e)(6), inserted “or loan repayment contract” in section catchline.
+<b>1987</b>—Pub. L. 100–177, §202(e)(6), inserted “or loan repayment contract” in section catchline.
 
 Subsec. (a). Pub. L. 100–177, §202(e)(1), designated existing provisions as par. (1), and former pars. (1) to (4) as subpars. (A) to (D), respectively, and added par. (2).
 
 Subsec. (b)(1). Pub. L. 100–177, §202(e)(2), designated existing provisions as subpar. (A), made technical amendments to references to sections 254m, 254n, and 254p of this title wherever appearing to reflect renumbering of corresponding sections of original act, inserted “under section 254<i>l</i> of this title” after first reference to “service obligation” as the probable intent of Congress, struck out at end “Any amount of damages which the United States is entitled to recover under this subsection shall, within the one year period beginning on the date of the breach of the written contract (or such longer period beginning on such date as specified by the Secretary for good cause shown), be paid to the United States.”, and added subpar. (B).
 
-Subsec. (b)(1)(B)(i). Pub. L. 100–203, as amended by Pub. L. 100–360, inserted at end “Amounts not paidwithin such period shall be subject to collection through deductions in Medicare payments pursuant to section 1395ccc of this title.”
+Subsec. (b)(1)(B)(i). Pub. L. 100–203, as amended by Pub. L. 100–360, inserted at end “Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to section 1395ccc of this title.”
 
 Subsec. (c). Pub. L. 100–177, §202(e)(4), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 100–177, §§202(e)(3), (5), 308(a), redesignated subsec. (c) as (d), in pars. (1), (2), and (3), inserted “or the Loan Repayment Program (or a contract thereunder”, and in par. (3) inserted “, and only if the bankruptcy court finds that nondischarge of the obligation would be unconscionable”.
 
-1983—Subsec. (b)(1). Pub. L. 97–414 substituted “section 254p(d)” for “section 254q(b)”.
+<b>1983</b>—Subsec. (b)(1). Pub. L. 97–414 substituted “section 254p(d)” for “section 254q(b)”.
 
-1981—Subsec. (a). Pub. L. 97–35, §2709(e)(1), (2), redesignated subsec. (b) as (a) and, as so redesignated, in introductory text substituted “254<i>l</i>” for “294t” and added par. (4). Former subsec. (a), which related to liability of individual upon failure to accept payment, was struck out.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2709(e)(1), (2), redesignated subsec. (b) as (a) and, as so redesignated, in introductory text substituted “254<i>l</i>” for “294t” and added par. (4). Former subsec. (a), which related to liability of individual upon failure to accept payment, was struck out.
 
 Subsec. (b). Pub. L. 97–35, §2709(e)(1), (3), redesignated subsec. (c) as (b) and, as so redesignated, designated existing provisions as par. (1) and made numerous changes to reflect renumbering of subpart sections, and added par. (2). Former subsec. (b) redesignated (a).
 
 Subsecs. (c), (d). Pub. L. 97–35, §2709(e)(1), (4)(A), redesignated subsec. (d) as (c) and, as so redesignated, in par. (2) inserted reference to partial or total waiver. Former subsec. (c) redesignated (b).
 
-1977—Subsec. (c). Pub. L. 95–83 substituted “ ‘φ’ is the sum of the amounts paid under this subpart to or on behalf of the individual and the interest on such amounts which would be payable if at the time the amounts were paid they were loans” for “ ‘φ’ is the sum of the amount paid under this subpart to or on behalf of the individual and the interest on such amount which would be payable if at the time it was paid it was a loan”.
+<b>1977</b>—Subsec. (c). Pub. L. 95–83 substituted “ ‘φ’ is the sum of the amounts paid under this subpart to or on behalf of the individual and the interest on such amounts which would be payable if at the time the amounts were paid they were loans” for “ ‘φ’ is the sum of the amount paid under this subpart to or on behalf of the individual and the interest on such amount which would be payable if at the time it was paid it was a loan”.
 
 #### Effective Date of 2003 Amendment
 

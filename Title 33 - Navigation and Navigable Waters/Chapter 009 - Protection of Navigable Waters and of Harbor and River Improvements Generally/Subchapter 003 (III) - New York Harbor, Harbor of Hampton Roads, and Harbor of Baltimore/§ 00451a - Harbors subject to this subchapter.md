@@ -12,7 +12,7 @@ The following harbors shall be subject to this subchapter:
 
 #### Amendments
 
-1958—Pub. L. 85–802 substituted provisions making harbors of New York, Hampton Roads, and Baltimore subject to this subchapter for appropriation provisions.
+<b>1958</b>—Pub. L. 85–802 substituted provisions making harbors of New York, Hampton Roads, and Baltimore subject to this subchapter for appropriation provisions.
 
 #### Effective Date of 1958 Amendment
 

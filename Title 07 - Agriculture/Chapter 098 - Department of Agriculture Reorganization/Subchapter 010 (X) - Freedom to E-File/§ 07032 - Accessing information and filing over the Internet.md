@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 2 years after June 20, 2000, in accordance with subsection (b) of this section, the Secretary shall expand implementation of the Internet-based system established under section 7031 of this title by enabling agricultural producers to access and file all forms and, at theoption of the Secretary, selected records and information of the agencies of the Department specified in section 7031(b) of this title.
+Not later than 2 years after June 20, 2000, in accordance with subsection (b) of this section, the Secretary shall expand implementation of the Internet-based system established under section 7031 of this title by enabling agricultural producers to access and file all forms and, at the option of the Secretary, selected records and information of the agencies of the Department specified in section 7031(b) of this title.
 
 #### (b) Implementation
 
@@ -10,7 +10,7 @@ In carrying out subsection (a) of this section, the Secretary shall ensure that 
 
 &emsp;(1) to file electronically or in paper form, at the option of the agricultural producer, all forms required by agencies of the Department specified in section 7031(b) of this title;
 
-&emsp;(2) to file electronically or in paper form, at the option of the agricultural producer, all documentation required by agencies of the Department specified in section 7031(b) of this title and determined appropriate by the Secretary; and
+&emsp;(2) to file electronically or in paper form, at the option of the agricultural producer, alldocumentation required by agencies of the Department specified in section 7031(b) of this title and determined appropriate by the Secretary; and
 
 &emsp;(3) to access information of the Department concerning farm programs, quarterly trade, economic, and production reports, and other similar production agriculture information that is readily available to the public in paper form.
 

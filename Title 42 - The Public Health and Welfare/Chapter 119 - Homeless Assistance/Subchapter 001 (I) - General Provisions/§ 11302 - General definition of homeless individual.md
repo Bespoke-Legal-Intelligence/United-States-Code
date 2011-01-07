@@ -2,19 +2,43 @@
 
 #### (a) In general
 
-For purposes of this chapter, the term “homeless” or “homeless individual or homeless person” <sup>1</sup> includes—
+For purposes of this chapter, the terms “homeless”, “homeless individual”, and “homeless person” means— <sup>1</sup>
 
-&emsp;(1) an individual who lacks a fixed, regular, and adequate nighttime residence; and
+&emsp;(1) an individual or family who lacks a fixed, regular, and adequate nighttime residence;
 
-&emsp;(2) an individual who has a primary nighttime residence that is—
+&emsp;(2) an individual or family with a primary nighttime residence that is a public or private place not designed for or ordinarily used as a regular sleeping accommodation for human beings, including a car, park, abandoned building, bus or train station, airport, or camping ground;
 
-&emsp;&emsp;(A) a supervised publicly or privately operated shelter designed to provide temporary living accommodations (including welfare hotels, congregate shelters, and transitional housing for the mentally ill);
+&emsp;(3) an individual or family living in a supervised publicly or privately operated shelter designated to provide temporary living arrangements (including hotels and motels paid for by Federal, State, or local government programs for low-income individuals or by charitable organizations, congregate shelters, and transitional housing);
 
-&emsp;&emsp;(B) an institution that provides a temporary residence for individuals intended to be institutionalized; or
+&emsp;(4) an individual who resided in a shelter or place not meant for human habitation and who is exiting an institution where he or she temporarily resided;
 
-&emsp;&emsp;(C) a public or private place not designed for, or ordinarily used as, a regular sleeping accommodation for human beings.
+&emsp;(5) an individual or family who—
 
-#### (b) Income eligibility
+&emsp;&emsp;(A) will imminently lose their housing, including housing they own, rent, or live in without paying rent, are sharing with others, and rooms in hotels or motels not paid for by Federal, State, or local government programs for low-income individuals or by charitable organizations, as evidenced by—
+
+&emsp;&emsp;&emsp;(i) a court order resulting from an eviction action that notifies the individual or family that they must leave within 14 days;
+
+&emsp;&emsp;&emsp;(ii) the individual or family having a primary nighttime residence that is a room in a hotel or motel and where they lack the resources necessary to reside there for more than 14 days; or
+
+&emsp;&emsp;&emsp;(iii) credible evidence indicating that the owner or renter of the housing will not allow the individual or family to stay for more than 14 days, and any oral statement from an individual or family seeking homeless assistance that is found to be credible shall be considered credible evidence for purposes of this clause;
+
+&emsp;&emsp;(B) has no subsequent residence identified; and
+
+&emsp;&emsp;(C) lacks the resources or support networks needed to obtain other permanent housing; and
+
+&emsp;(6) unaccompanied youth and homeless families with children and youth defined as homeless under other Federal statutes who—
+
+&emsp;&emsp;(A) have experienced a long term period without living independently in permanent housing,
+
+&emsp;&emsp;(B) have experienced persistent instability as measured by frequent moves over such period, and
+
+&emsp;&emsp;(C) can be expected to continue in such status for an extended period of time because of chronic disabilities, chronic physical health or mental health conditions, substance addiction, histories of domestic violence or childhood abuse, the presence of a child or youth with a disability, or multiple barriers to employment.
+
+#### (b) Domestic violence and other dangerous or life-threatening conditions
+
+Notwithstanding any other provision of this section, the Secretary shall consider to be homeless any individual or family who is fleeing, or is attempting to flee, domestic violence, dating violence, sexual assault, stalking, or other dangerous or life-threatening conditions in the individual's or family's current housing situation, including where the health and safety of children are jeopardized, and who have no other residence and lack the resources or support networks to obtain other permanent housing.
+
+#### (c) Income eligibility
 
 #### (1) In general
 
@@ -24,77 +48,31 @@ For purposes of this chapter, the term “homeless” or “homeless individual 
 
 &emsp;Notwithstanding paragraph (1), a homeless individual shall be eligible for assistance under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
 
-#### (c) Exclusion
+#### (d) Exclusion
 
 For purposes of this chapter, the term “homeless” or “homeless individual” does not include any individual imprisoned or otherwise detained pursuant to an Act of the Congress or a State law.
 
+#### (e) Persons experiencing homelessness
+
+Any references in this chapter to homeless individuals (including homeless persons) or homeless groups (including homeless persons) shall be considered to include, and to refer to, individuals experiencing homelessness or groups experiencing homelessness, respectively.
+
 (Pub. L. 100–77, title I, §103, July 22, 1987, 101 Stat. 485; Pub. L. 101–625, title VIII, §822, Nov. 28, 1990, 104 Stat. 4355; Pub. L. 101–645, title VI, §602, Nov. 29, 1990, 104 Stat. 4734; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(41), (f)(32)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427, 2681–434; Pub. L. 111–22, div. B, §1003(a), title V, §1502(b), May 20, 2009, 123 Stat. 1664, 1701.)
-
-#### Amendment of Section
-
-<i>Pub. L. 111–22, div. B, §1003(a), title V, §§1502(b), 1503, May 20, 2009, 123 Stat. 1664, 1701, 1702, provided that, effective on, and applicable beginning on the earlier of, the expiration of the 18-month period beginning on May 20, 2009, or the expiration of the 3-month period beginning upon publication by the Secretary of Housing and Urban Development of final regulations pursuant to section 1504 of Pub. L. 111–22, this section is amended as follows:</i>
-
-<i>(1) by striking subsection (a) and adding the following new subsection (a):</i>
-
-#### <i>“(a) In general</i>
-
-<i>“For purposes of this chapter, the terms ‘homeless’, ‘homeless individual’, and ‘homeless person’ means—</i>
-
-&emsp;<i>“(1) an individual or family who lacks a fixed, regular, and adequate nighttime residence;</i>
-
-&emsp;<i>“(2) an individual or family with a primary nighttime residence that is a public or private place not designed for or ordinarily used as a regular sleeping accommodation for human beings, including a car, park, abandoned building, bus or train station, airport, or camping ground;</i>
-
-&emsp;<i>“(3) an individual or family living in a supervised publicly or privately operated shelter designated to provide temporary living arrangements (including hotels and motels paid for by Federal, State, or local government programs for low-income individuals or by charitable organizations, congregate shelters, and transitional housing);</i>
-
-&emsp;<i>“(4) an individual who resided in a shelter or place not meant for human habitation and who is exiting an institution where he or she temporarily resided;</i>
-
-&emsp;<i>“(5) an individual or family who—</i>
-
-&emsp;&emsp;<i>“(A) will imminently lose their housing, including housing they own, rent, or live in without paying rent, are sharing with others, and rooms in hotels or motels not paid for by Federal, State, or local government programs for low-income individuals or by charitable organizations, as evidenced by—</i>
-
-&emsp;&emsp;&emsp;<i>“(i) a court order resulting from an eviction action that notifies the individual or family that they must leave within 14 days;</i>
-
-&emsp;&emsp;&emsp;<i>“(ii) the individual or family having a primary nighttime residence that is a room in a hotel or motel and where they lack the resources necessary to reside there for more than 14 days; or</i>
-
-&emsp;&emsp;&emsp;<i>“(iii) credible evidence indicating that the owner or renter of the housing will not allow the individual or family to stay for more than 14 days, and any oral statement from an individual or family seeking homeless assistance that is found to be credible shall be considered credible evidence for purposes of this clause;</i>
-
-&emsp;&emsp;<i>“(B) has no subsequent residence identified; and</i>
-
-&emsp;&emsp;<i>“(C) lacks the resources or support networks needed to obtain other permanent housing; and</i>
-
-&emsp;<i>“(6) unaccompanied youth and homeless families with children and youth defined as homeless under other Federal statutes who—</i>
-
-&emsp;&emsp;<i>“(A) have experienced a long term period without living independently in permanent housing,</i>
-
-&emsp;&emsp;<i>“(B) have experienced persistent instability as measured by frequent moves over such period, and</i>
-
-&emsp;&emsp;<i>“(C) can be expected to continue in such status for an extended period of time because of chronic disabilities, chronic physical health or mental health conditions, substance addiction, histories of domestic violence or childhood abuse, the presence of a child or youth with a disability, or multiple barriers to employment.”;</i>
-
-<i>(2) by redesignating subsections (b) and (c) as (c) and (d), respectively, and adding the following new subsection (b):</i>
-
-#### <i>“(b) Domestic violence and other dangerous or life-threatening conditions</i>
-
-<i>“Notwithstanding any other provision of this section, the Secretary shall consider to be homeless any individual or family who is fleeing, or is attempting to flee, domestic violence, dating violence, sexual assault, stalking, or other dangerous or life-threatening conditions in the individual's or family's current housing situation, including where the health and safety of children are jeopardized, and who have no other residence and lack the resources or support networks to obtain other permanent housing.”; and</i>
-
-<i>(3) by adding at the end the following new subsection (e):</i>
-
-#### <i>“(e) Persons experiencing homelessness</i>
-
-<i>“Any references in this chapter to homeless individuals (including homeless persons) or homeless groups (including homeless persons) shall be considered to include, and to refer to, individuals experiencing homelessness or groups experiencing homelessness, respectively.”</i>
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+This chapter, referred to in subsecs. (a), (c)(1), (d), and (e), was in the original “this Act”, meaning Pub. L.100–77, July 22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (b)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (c)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Amendments
 
-1998—Subsec. (b)(2). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(32)\], struck out “the Job Training Partnership Act or” after “assistance under”.
+<b>2009</b>—Pub. L. 111–22 added subsecs. (a), (b), and (e), redesignated former subsecs. (b) and (c) as (c) and (d), respectively, and struck out former subsec. (a) which defined “homeless” or “homeless individual or homeless person”.
+
+<b>1998</b>—Subsec. (b)(2). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(32)\], struck out “the Job Training Partnership Act or” after “assistance under”.
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(41)\], substituted “the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “the Job Training Partnership Act”.
 
-1990—Subsec. (a). Pub. L. 101–625 inserted “or homeless person” after “homeless individual” in introductory provisions.
+<b>1990</b>—Subsec. (a). Pub. L. 101–625 inserted “or homeless person” after “homeless individual” in introductory provisions.
 
 Subsec. (b). Pub. L. 101–645 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A homeless individual shall be eligible for assistance under any program provided by this chapter, or by the amendments made by this Act, only if the individual complies with the income eligibility requirements otherwise applicable to such program.”
 
@@ -110,7 +88,7 @@ Pub. L. 111–22, div. B, title V, §1503, May 20, 2009, 123 Stat. 1702, provide
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 101(f) \[title VIII, §405(d)(41)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(32)\] of Pub. L. 105–277effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) \[title VIII, §405(d)(41)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(32)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Regulations
 
@@ -120,5 +98,5 @@ Pub. L. 111–22, div. B, §1003(b), May 20, 2009, 123 Stat. 1666, provided that
 
 Pub. L. 111–22, div. B, §1003(c), May 20, 2009, 123 Stat. 1666, provided that: “This section \[amending this section and enacting provisions set out as a note under this section\] and the amendments made by this section to section 103 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11302) may not be construed to affect, alter, limit, annul, or supersede any other provision of Federal law providing a definition of ‘homeless’, ‘homeless individual’, or ‘homeless person’ for purposes other than such Act \[42 U.S.C. 11301 et seq.\], except to the extent that such provision refers to such section 103 or the definition provided in such section 103.”
 
-<i><sup>1</sup></i><i> So in original. Probably should be “ ‘homeless individual’ or ‘homeless person’ ”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “mean—”.</i>
 

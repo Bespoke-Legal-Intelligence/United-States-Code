@@ -44,7 +44,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 &emsp;&emsp;(B) a right to subscribe for, or to receive, a share of stock in a corporation; or
 
-&emsp;&emsp;(C) a bond, debenture, note, or certificate, or other evidence of indebtedness, issued by a corporation or by a government or political subdivision thereof, with interest coupons or in registered form.
+&emsp;&emsp;(C) a bond, debenture, note, or certificate, or other evidence of indebtedness, issued bya corporation or by a government or political subdivision thereof, with interest coupons or in registered form.
 
 #### (3) Securities in affiliated corporation
 
@@ -138,7 +138,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (C) Determination of adjusted gross income in case of estates and trusts
 
-&emsp;&emsp;For purposes of paragraph (2), the adjusted gross income of an estate or trust shall be computed in the same manner as in the case of an individual, except that the deductions for costs paid or incurred in connection with the administration of the estate or trust shall be treated as allowable in arriving at adjusted gross income.
+&emsp;&emsp;For purposes of paragraph (2), the adjusted gross income of an estate or trust shall becomputed in the same manner as in the case of an individual, except that the deductions for costs paid or incurred in connection with the administration of the estate or trust shall be treated as allowable in arriving at adjusted gross income.
 
 #### (D) Coordination with estate tax
 
@@ -268,7 +268,7 @@ In the case of a taxpayer whose residence is located in an area which has been d
 
 &emsp;Any election by the taxpayer under this subsection for any taxable year—
 
-&emsp;&emsp;(A) shall apply to all losses for such taxable year of the taxpayer on deposits in theinstitution with respect to which such election was made, and
+&emsp;&emsp;(A) shall apply to all losses for such taxable year of the taxpayer on deposits in the institution with respect to which such election was made, and
 
 &emsp;&emsp;(B) may be revoked only with the consent of the Secretary.
 
@@ -288,7 +288,11 @@ In the case of a taxpayer whose residence is located in an area which has been d
 
 &emsp;&emsp;<b>(5) For special rule for losses on small business stock, see section 1244.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 49; Pub. L. 85–866, title I, §§7, 57(c)(1), title II, §202(a), Sept. 2, 1958, 72 Stat. 1608, 1646, 1676; Pub. L. 87–426, §2(a), Mar. 31, 1962, 76 Stat. 51; Pub. L. 88–272, title II, §§208(a), 238, Feb. 26, 1964, 78 Stat. 43, 128; Pub. L. 88–348, §3(a), June 30, 1964, 78 Stat. 237; Pub. L. 91–606, title III, §301(h), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–677, §1(a), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 91–687, §1, Jan. 12, 1971, 84 Stat. 2071; Pub. L. 92–336, §2(a), July 1, 1972, 86 Stat. 406; Pub. L. 92–418, §2(a), Aug. 29, 1972, 86 Stat. 656, 657; Pub. L. 93–288, title VII, §702(h), formerly title VI, §602(h), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(h), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1901(a)(26), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 97–248, title II, §203(a), (b), title III, §310(b)(5), Sept. 3, 1982, 96 Stat. 422, 598; Pub. L. 98–369, div. A, title I, §42(a)(4), title VII, §711(c)(1), (2)(A)(i), (ii), title X, §1051(a), July 18, 1984, 98 Stat. 556, 943, 1044; Pub. L. 99–514, title IX, §905(a), title X, §1004(a), Oct. 22, 1986, 100 Stat. 2385, 2388; Pub. L. 100–647, title I, §1009(d)(1), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 100–707, title I, §109(<i>l</i>), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 105–34, title IX, §912(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–311, title IV, §408(a)(7)(A), (B), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 110–343, div. C, title VII, §706(a)(1), (2)(A)–(C), (c), Oct. 3, 2008, 122 Stat. 3921–3923.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 49; Pub. L. 85–866, title I, §§7, 57(c)(1), title II, §202(a), Sept. 2, 1958, 72 Stat. 1608, 1646, 1676; Pub. L. 87–426, §2(a), Mar. 31, 1962, 76 Stat. 51; Pub. L. 88–272, title II, §§208(a), 238, Feb. 26, 1964, 78 Stat. 43, 128; Pub. L. 88–348, §3(a), June 30, 1964, 78 Stat. 237; Pub. L. 91–606, title III, §301(h), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–677, §1(a), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 91–687, §1, Jan. 12, 1971, 84 Stat. 2071; Pub. L. 92–336, §2(a), July 1, 1972, 86 Stat. 406; Pub. L. 92–418, §2(a), Aug. 29, 1972, 86 Stat. 656, 657; Pub. L. 93–288, title VII, §702(h), formerly title VI, §602(h), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(h), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1901(a)(26), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 97–248, title II, §203(a), (b), title III, §310(b)(5), Sept. 3, 1982, 96 Stat. 422, 598; Pub. L. 98–369, div. A, title I, §42(a)(4), title VII, §711(c)(1), (2)(A)(i), (ii), title X, §1051(a), July 18, 1984, 98 Stat. 556, 943, 1044; Pub. L. 99–514, title IX, §905(a), title X, §1004(a), Oct. 22, 1986, 100 Stat. 2385, 2388; Pub. L. 100–647, title I, §1009(d)(1), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 100–707, title I, §109(<i>l</i>), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 105–34, title IX, §912(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–311, title IV, §408(a)(7)(A), (B), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 110–343, div. C, title VII, §706(a)(1), (2)(A)–(C), (c), Oct. 3, 2008, 122 Stat. 3921–3923; Pub. L. 111–147, title V, §502(a)(2)(D), Mar. 18, 2010, 124 Stat. 107.)
+
+#### Amendment of Subsection (j)(2)(A)
+
+<i>Pub. L. 111–147, title V, §502(a)(2)(D), (f), Mar. 18, 2010, 124 Stat. 107, 108, provided that, applicable to obligations issued after the date</i><i>which is 2 years after Mar. 18, 2010, subsection (j)(2)(A) of this section is amended by striking “except that clause (iv) of subparagraph (A), and subparagraph (B), of such section shall not apply”.</i>
 
 #### References in Text
 
@@ -296,7 +300,7 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Amendments
 
-2008—Subsec. (h)(1). Pub. L. 110–343, §706(c), substituted “$500 ($100 for taxable years beginning after December 31, 2009)” for “$100”.
+<b>2008</b>—Subsec. (h)(1). Pub. L. 110–343, §706(c), substituted “$500 ($100 for taxable years beginning after December 31, 2009)” for “$100”.
 
 Subsec. (h)(3). Pub. L. 110–343, §706(a)(1), added par. (3). Former par. (3) redesignated (4).
 
@@ -310,25 +314,25 @@ Subsec. (i)(1). Pub. L. 110–343, §706(a)(2)(B), substituted “loss occurring
 
 Subsec. (i)(4). Pub. L. 110–343, §706(a)(2)(C), substituted “federally declared disaster (as defined by subsection (h)(3)(C)(i)” for “Presidentially declared disaster (as defined by section 1033(h)(3))”.
 
-2004—Subsecs. (i)(1), (k). Pub. L. 108–311 inserted “Robert T. Stafford” before “Disaster Relief and Emergency Assistance Act”.
+<b>2004</b>—Subsecs. (i)(1), (k). Pub. L. 108–311 inserted “Robert T. Stafford” before “Disaster Relief and Emergency Assistance Act”.
 
-2000—Subsec. (g)(3). Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(2)\], struck out last sentence of concluding provisions which read as follows: “As used in subparagraph (A), the term ‘stock’ does not include nonvoting stock which is limited and preferred as to dividends.”
+<b>2000</b>—Subsec. (g)(3). Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(2)\], struck out last sentence of concluding provisions which read as follows: “As used in subparagraph (A), the term ‘stock’ does not include nonvoting stock which is limited and preferred as to dividends.”
 
 Subsec. (g)(3)(A). Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(1)\], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “stock possessing at least 80 percent of the voting power of all classes of its stock and at least 80 percent of each class of its nonvoting stock is owned directly by the taxpayer, and”.
 
-1997—Subsec. (i)(4). Pub. L. 105–34 added par. (4).
+<b>1997</b>—Subsec. (i)(4). Pub. L. 105–34 added par. (4).
 
-1988—Subsecs. (i)(1), (k). Pub. L. 100–707 substituted “and Emergency Assistance Act” for “Act of 1974”.
+<b>1988</b>—Subsecs. (i)(1), (k). Pub. L. 100–707 substituted “and Emergency Assistance Act” for “Act of 1974”.
 
 Subsec. (<i>l</i>)(5) to (7). Pub. L. 100–647 added pars. (5) and (6), redesignated former par. (6) as (7), and struck out former par. (5) which read as follows: “
 
 Election.—Any election by the taxpayer under this subsection may be revoked only with the consent of the Secretary and shall apply to all losses of the taxpayer on deposits in the institution with respect to which such election was made.”
 
-1986—Subsec. (h)(4)(E). Pub. L. 99–514, §1004(a), added subpar. (E).
+<b>1986</b>—Subsec. (h)(4)(E). Pub. L. 99–514, §1004(a), added subpar. (E).
 
 Subsecs. (<i>l</i>), (m). Pub. L. 99–514, §905(a), added subsec. (<i>l</i>) and redesignated former subsec. (<i>l</i>) as (m).
 
-1984—Subsec. (c)(3). Pub. L. 98–369, §711(c)(2)(A)(i), extended limitation to losses of property not connected with a transaction entered into for profit.
+<b>1984</b>—Subsec. (c)(3). Pub. L. 98–369, §711(c)(2)(A)(i), extended limitation to losses of property not connected with a transaction entered into for profit.
 
 Subsec. (h). Pub. L. 98–369, §711(c)(2)(A)(ii), substituted heading “Treatment of casualty gains and losses” for “Casualty and theft losses”; substituted par. (1) “$100 limitation per casualty” provision for former par. (1) “General rule” provision stating that: “Any loss of an individual described in subsection (c)(3) shall be allowed for any taxable year only to the extent that—
 
@@ -344,7 +348,7 @@ Subsec. (j)(3). Pub. L. 98–369, §42(a)(4), substituted “section 1287” for
 
 Subsecs. (k), (<i>l</i>). Pub. L. 98–369, §1051(a), added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
 
-1982—Subsec. (c)(3). Pub. L. 97–248, §203(b), inserted “except as provided in subsection (h),” before “losses of property” and struck out provisions that a loss described in this paragraph would be allowed only to the extent that the amount of loss to such individual arising from each casualty, or from each theft, exceeded $100, that, for purposes of the $100 limitation, a husband and wife making a joint return under section 6013 for the taxable year in which the loss was allowed as a deduction would be treated as one individual, and that no loss described in this paragraph would be allowed if, at the time of filing the return, such loss had been claimed for estate tax purposes in the estate tax return.
+<b>1982</b>—Subsec. (c)(3). Pub. L. 97–248, §203(b), inserted “except as provided in subsection (h),” before “losses of property” and struck out provisions that a loss described in this paragraph would be allowed only to the extent that the amount of loss to such individual arising from each casualty, or from each theft, exceeded $100, that, for purposes of the $100 limitation, a husband and wife making a joint return under section 6013 for the taxable year in which the loss was allowed as a deduction would be treated as one individual, and that no loss described in this paragraph would be allowed if, at the time of filing the return, such loss had been claimed for estate tax purposes in the estate tax return.
 
 Subsec. (h). Pub. L. 97–248, §203(a), added subsec. (h) relating to casualty and theft losses. Former subsec. (h), relating to disaster losses, redesignated (i).
 
@@ -356,15 +360,15 @@ Pub. L. 97–248, §203(a), redesignated former subsec. (i), setting forth cross
 
 Subsec. (k). Pub. L. 97–248, §310(b)(5), redesignated former subsec. (j), setting forth cross references, as (k).
 
-1976—Subsecs. (i), (j). Pub. L. 94–455 redesignated subsec. (j) as subsec. (i). Former subsec. (i), which related to property confiscated by Cuba, was struck out.
+<b>1976</b>—Subsecs. (i), (j). Pub. L. 94–455 redesignated subsec. (j) as subsec. (i). Former subsec. (i), which related to property confiscated by Cuba, was struck out.
 
-1974—Subsec. (h). Pub. L. 93–288 substituted “Disaster Relief Act of 1974” for “Disaster Relief Act of 1970”.
+<b>1974</b>—Subsec. (h). Pub. L. 93–288 substituted “Disaster Relief Act of 1974” for “Disaster Relief Act of 1970”.
 
-1972—Subsec. (h). Pub. L. 92–418 struck out par. (1) provisions relating to losses attributable to a disaster occurring during period following close of taxable year and on or before time prescribed by law for filing the income tax return for the taxable year without regard to any extension of time, struck out par. (2) designation, and inserted “attributable to a disaster” before “occurring in an area”, and at end of second sentence, inserted “based on facts existing at the date the taxpayer claims the loss”.
+<b>1972</b>—Subsec. (h). Pub. L. 92–418 struck out par. (1) provisions relating to losses attributable to a disaster occurring during period following close of taxable year and on or before time prescribed by law for filing the income tax return for the taxable year without regard to any extension of time, struck out par. (2) designation, and inserted “attributable to a disaster” before “occurring in an area”, and at end of second sentence, inserted “based on facts existing at the date the taxpayer claims the loss”.
 
 Subsec. (h)(1). Pub. L. 92–336 substituted provisions relating to losses attributable to a disaster which occurs during the period after the close of the taxable year and on or before the last day of the 6th calendar month beginning after the close of the taxable year, for provisions relating to losses attributable to a disaster which occurs during the period following the close of the taxable year and on or before the time prescribed by law for filing the income tax return for the taxable year, determined without regard to any extension of time.
 
-1971—Subsec. (g)(3). Pub. L. 91–687 substituted “stock possessing at least 80 percent of the voting power of all classes of its stock and at least 80 percent of each class of its nonvoting stock” for “at least 95 percent of each class of its stock” in subpar. (A), and inserted at the end of the subsection the sentence providing that the term “stock”, as used in subpar. (A), does not include nonvoting stock which is limited and preferred as to dividends.
+<b>1971</b>—Subsec. (g)(3). Pub. L. 91–687 substituted “stock possessing at least 80 percent of the voting power of all classes of its stock and at least 80 percent of each class of its nonvoting stock” for “at least 95 percent of each class of its stock” in subpar. (A), and inserted at the end of the subsection the sentence providing that the term “stock”, as used in subpar. (A), does not include nonvoting stock which is limited and preferred as to dividends.
 
 Subsec. (i)(1). Pub. L. 91–677, §1(a)(1), (2), struck out “or (2)” after “paragraph (1)” in cl. (B), and substituted “one or more days in the period beginning on December 31, 1958, and ending on May 16, 1959” for “December 31, 1958”.
 
@@ -372,9 +376,9 @@ Subsec. (i)(2)(B). Pub. L. 91–677, §1(a)(3), substituted “one or more days 
 
 Subsec. (i)(3). Pub. L. 91–677, §1(a)(4), struck out subsec. (i)(3) which authorized a refund or credit to be given for any overpayment attributable to the application of par. (1), provided that a claim was filed for such refund or credit before Jan. 1, 1965.
 
-1970—Subsec. (h)(2). Pub. L. 91–606 substituted “the Disaster Relief Act of 1970” for “sections 1855–1855g of title 42”.
+<b>1970</b>—Subsec. (h)(2). Pub. L. 91–606 substituted “the Disaster Relief Act of 1970” for “sections 1855–1855g of title 42”.
 
-1964—Subsec. (c)(3). Pub. L. 88–272, §208(a), inserted requirement that losses must exceed $100 to be deductible.
+<b>1964</b>—Subsec. (c)(3). Pub. L. 88–272, §208(a), inserted requirement that losses must exceed $100 to be deductible.
 
 Subsec. (i). Pub. L. 88–348 designated existing provisions as par. (1), substituted provisions permitting individuals who were citizens of the United States or resident aliens on Dec. 31, 1958, who sustained any loss of property prior to Jan. 1, 1964, and which was not a loss described in par. (1) or (2) of subsec. (c), to treat such loss as a loss under subsec. (c)(3), except that in cases of tangible property, the property had to be held by the taxpayer, and located in Cuba, on Dec. 31, 1958, for provisions which permitted any loss of tangible property to be treated as a loss from a casualty within subsec. (c)(3), therein, and added pars. (2) and (3).
 
@@ -382,13 +386,17 @@ Pub. L. 88–272, §238, added subsec. (i). Former subsec. (i) redesignated (j).
 
 Subsec. (j). Pub. L. 88–272, §238, redesignated former subsec. (i) as (j).
 
-1962—Subsecs. (h), (i). Pub. L. 87–426 added subsec. (h) and redesignated former subsec. (h) as (i).
+<b>1962</b>—Subsecs. (h), (i). Pub. L. 87–426 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1958—Subsec. (g)(3)(B). Pub. L. 85–866, §7, substituted “rental of” for “rental from”.
+<b>1958</b>—Subsec. (g)(3)(B). Pub. L. 85–866, §7, substituted “rental of” for “rental from”.
 
 Subsec. (h)(3), (4). Pub. L. 85–866, §57(c)(1), added pars. (3) and (4).
 
 Subsec. (h)(5). Pub. L. 85–866, §202(a), added par. (5).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–147 applicable to obligations issued after the date which is 2 years after Mar. 18, 2010, see section 502(f) of Pub. L. 111–147, set out as a note under section 149 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -478,7 +486,7 @@ Amendment by section 57(c)(1) of Pub. L. 85–866 applicable with respect to tax
 
 Section 711(c)(2)(B) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of taxable years beginning before January 1, 1984—
 
-&emsp;“(i) For purposes of paragraph (1)(B) of section 165(h) of the Internal Revenue Code of 1986 \[formerlyI.R.C. 1954\], adjusted gross income shall be determined without regard to the application of section 1231 of such Code to any gain or loss from an involuntary conversion of property described in subsection (c)(3) of section 165 of such Code arising from fire, storm, shipwreck, or other casualty or from theft.
+&emsp;“(i) For purposes of paragraph (1)(B) of section 165(h) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], adjusted gross income shall be determined without regard to the application of section 1231 of such Code to any gain or loss from an involuntary conversion of property described in subsection (c)(3) of section 165 of such Code arising from fire, storm, shipwreck, or other casualty or from theft.
 
 &emsp;“(ii) Section 1231 of such Code shall be applied after the application of paragraph (1) of section 165(h) of such Code.”
 
@@ -508,7 +516,7 @@ In general.—Except as otherwise provided in this subsection—
 
 &emsp;&emsp;“(A) The provisions of this section shall apply to taxable years ending on or after March 4, 1991, but only with respect to FSLIC assistance not credited before March 4, 1991.
 
-&emsp;&emsp;“(B) If any FSLIC assistance not credited before March 4, 1991, is with respect to a loss sustained or charge-off in a taxable year ending before March 4, 1991, for purposes of determining the amount of any net operating loss carryover to a taxable year ending on or after March 4, 1991, the provisions of this section shall apply to such assistance for purposes of determining the amount of the net operating loss for the taxable year in which such loss was sustained or debt written off. Except as provided in the preceding sentence, this section shall not apply to any FSLIC assistance with respect to a loss sustained or charge-off in a taxable year ending before March 4, 1991.
+&emsp;&emsp;“(B) If any FSLIC assistance not credited before March 4, 1991, is with respect to a loss sustained or charge-off in a taxable year ending before March 4, 1991, for purposes of determining the amount of anynet operating loss carryover to a taxable year ending on or after March 4, 1991, the provisions of this section shall apply to such assistance for purposes of determining the amount of the net operating loss for the taxable year in which such loss was sustained or debt written off. Except as provided in the preceding sentence, this section shall not apply to any FSLIC assistance with respect to a loss sustained or charge-off in a taxable year ending before March 4, 1991.
 
 &emsp;“(2)
 
@@ -584,7 +592,7 @@ Deregulation month.—For purposes of this section, the term ‘deregulation mon
 
 “(c)
 
-Special Rule for Motor Carrier Operating Authority.—In the case of a corporation which was incorporated on December 29, 1969, in the State of Delaware, notwithstanding any other provision of law,there shall be allowed as a deduction for the taxable year of the taxpayer beginning in 1980 an amount equal to $2,705,188 for its entire loss due to a decline in value of its motor carrier operating authority by reason of deregulation.
+Special Rule for Motor Carrier Operating Authority.—In the case of a corporation which was incorporated on December 29, 1969, in the State of Delaware, notwithstanding any other provision of law, there shall be allowed as a deduction for the taxable year of the taxpayer beginning in 1980 an amount equal to $2,705,188 for its entire loss due to a decline in value of its motor carrier operating authority by reason of deregulation.
 
 “(d)
 
@@ -684,7 +692,7 @@ Application of Section.—This section shall apply to any individual—
 
 &emsp;&emsp;“(B) received income in the form of compensation (not taken into account in computing the amount of the deduction) for such loss in settlement of any claim of the taxpayer against a person for that person's liability in tort for the damage or destruction of that taxpayer's property in connection with the disaster, and
 
-&emsp;“(3) who elects (at such time and in such manner as the Secretary of the Treasury or his delegate may byregulations prescribe) to take the benefits of this section.
+&emsp;“(3) who elects (at such time and in such manner as the Secretary of the Treasury or his delegate may by regulations prescribe) to take the benefits of this section.
 
 “(b)
 

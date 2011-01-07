@@ -16,13 +16,13 @@
 
 #### Amendments
 
-2001—Pub. L. 107–103 struck out “(1)” before “In order to”, redesignated par. (2) of subsec. (a) as subsec. (b), redesignated par. (3) of subsec. (a) as subsec. (c) and subpars. (A) and (B) thereof as pars. (1) and (2), respectively, redesignated par. (4) of subsec. (a) as subsec. (d) and substituted “subsection (c)(2)” for “paragraph (3)(B)”, and struck out former subsec. (b) which read as follows: “The appellant shall also furnish the Secretary with a copy of such notice, but a failure to do so shall not constitute a failure of timely compliance with subsection (a) of this section.”
+<b>2001</b>—Pub. L. 107–103 struck out “(1)” before “In order to”, redesignated par. (2) of subsec. (a) as subsec. (b), redesignated par. (3) of subsec. (a) as subsec. (c) and subpars. (A) and (B) thereof as pars. (1) and (2), respectively, redesignated par. (4) of subsec. (a) as subsec. (d) and substituted “subsection (c)(2)” for “paragraph (3)(B)”, and struck out former subsec. (b) which read as follows: “The appellant shall also furnish the Secretary with a copy of such notice, but a failure to do so shall not constitute a failure of timely compliance with subsection (a) of this section.”
 
-1998—Subsec. (a)(1). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-1994—Subsec. (a). Pub. L. 103–446 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “In order to obtain review by the Court of Veterans Appeals of a final decision of the Board of Veterans’ Appeals, a person adversely affected by that action must file a notice of appeal with the Court. Any such notice must be filed within 120 days after the date on which notice of the decision is mailed pursuant to section 7104(e) of this title.”
+<b>1994</b>—Subsec. (a). Pub. L. 103–446 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “In order to obtain review by the Court of Veterans Appeals of a final decision of the Board of Veterans’ Appeals, a person adversely affected by that action must file a notice of appeal with the Court. Any such notice must be filed within 120 days after the date on which notice of the decision is mailed pursuant to section 7104(e) of this title.”
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 4066 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 4066 of this title as this section.
 
 Subsec. (a). Pub. L. 102–40, §402(d)(1), substituted “7104(e)” for “4004(e)”.
 

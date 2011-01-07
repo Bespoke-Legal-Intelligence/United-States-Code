@@ -28,27 +28,51 @@
 
 &emsp;(3) shall include coordination with the Secretary of Defense seeking to ensure that individuals who are being separated from active military, naval, or air service are provided appropriate information about programs, requirements, and procedures for applying for counseling and treatment under this section.
 
-(d) In this section, the term “sexual harassment” means repeated, unsolicited verbal or physical contact of a sexual nature which is threatening in character.
+(d)(1) The Secretary shall carry out a program to provide graduate medical education, training, certification, and continuing medical education for mental health professionals who provide counseling, care, and services under subsection (a).
 
-(Added Pub. L. 102–585, title I, §102(a)(1), Nov. 4, 1992, 106 Stat. 4945; amended Pub. L. 103–452, title I, §101(a)–(d), (f)(1), (2)(A), (g)(1), Nov. 2, 1994, 108 Stat. 4783, 4784; Pub. L. 105–368, title IX, §902, Nov. 11, 1998, 112 Stat. 3360; Pub. L. 106–117, title I, §115(a)–(c), Nov. 30, 1999, 113 Stat. 1558; Pub. L. 108–422, title III, §301, Nov. 30, 2004, 118 Stat. 2382.)
+(2) In carrying out the program required by paragraph (1), the Secretary shall ensure that—
+
+&emsp;(A) all mental health professionals described in such paragraph have been trained in a consistent manner; and
+
+&emsp;(B) training described in such paragraph includes principles of evidence-based treatment and care for sexual trauma and post-traumatic stress disorder.
+
+(e) Each year, the Secretary shall submit to Congress an annual report on the counseling, care, and services provided to veterans pursuant to this section. Each report shall include data for the year covered by the report with respect to each of the following:
+
+&emsp;(1) The number of mental health professionals, graduate medical education trainees, and primary care providers who have been certified under the program required by subsection (d) and the amount and nature of continuing medical education provided under such program to such professionals, trainees, and providers who are so certified.
+
+&emsp;(2) The number of women veterans who received counseling and care and services under subsection (a) from professionals and providers who received training under subsection (d).
+
+&emsp;(3) The number of graduate medical education, training, certification, and continuing medical education courses provided by reason of subsection (d).
+
+&emsp;(4) The number of trained full-time equivalent employees required in each facility of the Department to meet the needs of veterans requiring treatment and care for sexual trauma and post-traumatic stress disorder.
+
+&emsp;(5) Such recommendations for improvements in the treatment of women veterans with sexual trauma and post-traumatic stress disorder as the Secretary considers appropriate.
+
+&emsp;(6) Such other information as the Secretary considers appropriate.
+
+(f) In this section, the term “sexual harassment” means repeated, unsolicited verbal or physical contact of a sexual nature which is threatening in character.
+
+(Added Pub. L. 102–585, title I, §102(a)(1), Nov. 4, 1992, 106 Stat. 4945; amended Pub. L. 103–452, title I, §101(a)–(d), (f)(1), (2)(A), (g)(1), Nov. 2, 1994, 108 Stat. 4783, 4784; Pub. L. 105–368, title IX, §902, Nov. 11, 1998, 112 Stat. 3360; Pub. L. 106–117, title I, §115(a)–(c), Nov. 30, 1999, 113 Stat. 1558; Pub. L. 108–422, title III, §301, Nov. 30, 2004, 118 Stat. 2382; Pub. L. 111–163, title II, §202, May 5, 2010, 124 Stat. 1142.)
 
 #### Amendments
 
-2004—Subsec. (a)(1). Pub. L. 108–422, §301(a)(1), (b), substituted “The” for “During the period through December 31, 2004, the” and inserted “or active duty for training” before period at end.
+<b>2010</b>—Subsecs. (d) to (f). Pub. L. 111–163 added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
+
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–422, §301(a)(1), (b), substituted “The” for “During the period through December 31, 2004, the” and inserted “or active duty for training” before period at end.
 
 Subsec. (a)(2). Pub. L. 108–422, §301(a)(2), struck out “, during the period through December 31, 2004,” after “the Secretary may”.
 
-1999—Subsec. (a)(1). Pub. L. 106–117, §115(a)(1), (b)(1), substituted “December 31, 2004” for “December 31, 2001” and “shall operate a program under which the Secretary provides counseling and appropriate care and services to veterans who the Secretary determines require such counseling and care and services” for “may provide counseling to a veteran who the Secretary determines requires such counseling”.
+<b>1999</b>—Subsec. (a)(1). Pub. L. 106–117, §115(a)(1), (b)(1), substituted “December 31, 2004” for “December 31, 2001” and “shall operate a program under which the Secretary provides counseling and appropriate care and services to veterans who the Secretary determines require such counseling and care and services” for “may provide counseling to a veteran who the Secretary determines requires such counseling”.
 
-Subsec. (a)(2), (3). Pub. L. 106–117, §115(a)(2), (b)(2), redesignated par. (3) as (2), substituted “December 31, 2004” for “December 31, 2001”, and struck out formerpar. (2) which read as follows: “During the period referred to in paragraph (1), the Secretary may provide appropriate care and services to a veteran for an injury, illness, or other psychological condition that the Secretary determines to be the result of a physical assault, battery, or harassment referred to in that paragraph.”
+Subsec. (a)(2), (3). Pub. L. 106–117, §115(a)(2), (b)(2), redesignated par. (3) as (2), substituted “December 31, 2004” for “December 31, 2001”, and struck out former par. (2) which read as follows: “During the period referred to in paragraph (1), the Secretary may provide appropriate care and services to a veteran for an injury, illness, or other psychological condition that the Secretary determines to be the result of a physical assault, battery, or harassment referred to in that paragraph.”
 
 Subsec. (c). Pub. L. 106–117, §115(c)(1), inserted “and treatment” after “counseling” in first sentence.
 
 Subsec. (c)(2), (3). Pub. L. 106–117, §115(c), added par. (2), redesignated former par. (2) as (3), and inserted “and treatment” after “counseling”.
 
-1998—Subsec. (a)(1), (3). Pub. L. 105–368 substituted “December 31, 2001” for “December 31, 1998”.
+<b>1998</b>—Subsec. (a)(1), (3). Pub. L. 105–368 substituted “December 31, 2001” for “December 31, 1998”.
 
-1994—Pub. L. 103–452, §101(f)(2)(A), substituted “and treatment” for “to women veterans” in section catchline.
+<b>1994</b>—Pub. L. 103–452, §101(f)(2)(A), substituted “and treatment” for “to women veterans” in section catchline.
 
 Subsec. (a)(1). Pub. L. 103–452, §101(b)(1), (f)(1)(A), substituted “December 31, 1998,” for “December 31, 1995,” and struck out “woman” after “counseling to a”.
 
@@ -76,7 +100,7 @@ Subsecs. (d), (e). Pub. L. 103–452, §101(c)(2), redesignated subsec. (e) as (
 
 Section 101(g)(2) to (5) of Pub. L. 103–452 provided that:
 
-“(2) In providing information on counseling available to veterans as required under section 1720D(c)(1) of title 38, United States Code (as amended by paragraph (1)), the Secretary of Veterans Affairs shall ensure that the Department of Veterans Affairs personnel who provide assistance under such section are trained in the provision to persons who have experienced sexual trauma of information about the care and services relating to sexual trauma that are available to veterans in the communities in which such veterans reside, including care and services available under programs of the Department (including the care and services available under section 1720D of such title) and from non-Department agencies or organizations.
+“(2) In providing information on counseling available to veterans as required under section 1720D(c)(1) of title38, United States Code (as amended by paragraph (1)), the Secretary of Veterans Affairs shall ensure that the Department of Veterans Affairs personnel who provide assistance under such section are trained in the provision to persons who have experienced sexual trauma of information about the care and services relating to sexual trauma that are available to veterans in the communities in which such veterans reside, including care and services available under programs of the Department (including the care and services available under section 1720D of such title) and from non-Department agencies or organizations.
 
 “(3) The telephone assistance service shall be operated in a manner that protects the confidentiality of persons who place calls to the system.
 

@@ -16,7 +16,7 @@
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–371, §5(1), redesignated existing provisions as par. (1) and added par. (2).
+<b>1994</b>—Subsec. (a). Pub. L. 103–371, §5(1), redesignated existing provisions as par. (1) and added par. (2).
 
 Subsec. (b). Pub. L. 103–371, §5(2), redesignated existing provisions as par. (1) and added par. (2).
 

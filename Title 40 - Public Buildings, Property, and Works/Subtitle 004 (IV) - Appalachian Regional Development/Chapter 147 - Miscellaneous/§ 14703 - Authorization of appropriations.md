@@ -56,7 +56,7 @@ Pub. L. 89–4, title IV, §401, Mar. 9, 1965, 79 Stat. 21; Pub. L. 90–103, ti
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–371, §5(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations to the Appalachian Regional Commission for fiscal years 2002 to 2006.
+<b>2008</b>—Subsec. (a). Pub. L. 110–371, §5(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations to the Appalachian Regional Commission for fiscal years 2002 to 2006.
 
 Subsec. (b). Pub. L. 110–371, §5(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) authorized appropriations to carry out section 14504 of this title for fiscal years 2002 to 2006.
 

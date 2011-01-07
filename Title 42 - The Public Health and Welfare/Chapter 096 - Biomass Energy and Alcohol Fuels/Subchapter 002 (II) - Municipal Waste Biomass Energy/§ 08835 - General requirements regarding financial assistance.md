@@ -2,7 +2,7 @@
 
 #### (a) Priorities, terms, availability, etc.
 
-(1) Priority for financial assistance under the provisions of sections 8832, 8833, and 8834 of this title and the most favorable financial termsavailable, shall be provided for any municipal waste energy project that will—
+(1) Priority for financial assistance under the provisions of sections 8832, 8833, and 8834 of this title and the most favorable financial terms available, shall be provided for any municipal waste energy project that will—
 
 &emsp;(A) produce a liquid fuel from municipal waste; or
 
@@ -24,7 +24,7 @@
 
 &emsp;(B) the financial assistance provided encourages and supplements, but does not compete with nor supplant, any private capital investment which otherwise would be available to the proposed municipal waste energy project on reasonable terms and conditions which would permit such project to be undertaken;
 
-&emsp;(C) assurances are provided that the project will not use, in any substantial quantities, waste paper which would otherwise be recycled for a use other than as a fuel and will not substantially compete with facilities in existence on the date of the financial assistance which are engaged in the separation or recovery of reuseable materials from municipal waste; and
+&emsp;(C) assurances are provided that the project will not use, in any substantial quantities, waste paper which would otherwise be recycled for a use other than as a fuel and will not substantially compete with facilities in existence on the date of the financial assistancewhich are engaged in the separation or recovery of reuseable materials from municipal waste; and
 
 &emsp;(D) that the amount of financial assistance provided for the project is not greater than is necessary to achieve the purposes of this chapter.
 
@@ -84,7 +84,9 @@ Notwithstanding the provisions of the Federal Financing Bank Act of 1973 (12 U.S
 
 #### References in Text
 
-The Federal Financing Bank Act of 1973, referred to in subsec. (h), is Pub. L. 93–224, Dec. 29, 1973, 87 Stat. 937, as amended, which is classified generally to chapter 24 (§2281 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2281 of Title 12 and Tables.
+This chapter, referred to in subsec. (a)(6)(D), was in the original “this title”, meaning title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 683, known as the Biomass Energy and Alcohol Fuels Act of 1980, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 8801 of this title and Tables.
+
+The Federal Financing Bank Act of 1973, referred to in subsec. (h), is Pub. L. 93–224, Dec. 29, 1973, 87 Stat. 937, which is classified generally to chapter 24 (§2281 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2281 of Title 12 and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
 

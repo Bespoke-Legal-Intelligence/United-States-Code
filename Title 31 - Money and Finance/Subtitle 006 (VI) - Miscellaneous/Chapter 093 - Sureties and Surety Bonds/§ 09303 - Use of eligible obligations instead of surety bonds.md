@@ -102,7 +102,7 @@ In subsection (f), the words “in order” are omitted as unnecessary. The word
 
 #### Amendments
 
-2006—Pub. L. 109–351, §901(c)(1), substituted “eligible obligations” for “Government obligations” in section catchline.
+<b>2006</b>—Pub. L. 109–351, §901(c)(1), substituted “eligible obligations” for “Government obligations” in section catchline.
 
 Subsec. (a). Pub. L. 109–351, §901(b), (c)(3), substituted “an eligible obligation” for “a Government obligation” in introductory provisions and amended par. (2) generally. Prior to amendment, par. (2) read as follows: “be in an amount equal at par value to the amount of the required surety bond; and”.
 
@@ -110,9 +110,9 @@ Subsecs. (b) to (e). Pub. L. 109–351, §901(c)(3), (4), substituted “an elig
 
 Subsec. (f). Pub. L. 109–351, §901(c)(2), (3), substituted “eligible obligations” for “Government obligations” and “an eligible obligation” for “a Government obligation”.
 
-2003—Subsec. (d)(1). Pub. L. 108–178 struck out comma after “sections 3131 and 3133 of title 40”.
+<b>2003</b>—Subsec. (d)(1). Pub. L. 108–178 struck out comma after “sections 3131 and 3133 of title 40”.
 
-2002—Subsec. (d). Pub. L. 107–217, §3(h)(9)(A), in introductory provisions substituted “sections 3131 and 3133 of title 40” for “the Act of August 24, 1935 (known as the Miller Act) (40 U.S.C. 270a–270d)” and “section 3133(a) of title 40” for “section 3 of the Act (40 U.S.C. 270c)”.
+<b>2002</b>—Subsec. (d). Pub. L. 107–217, §3(h)(9)(A), in introductory provisions substituted “sections 3131 and 3133 of title 40” for “the Act of August 24, 1935 (known as the Miller Act) (40 U.S.C. 270a–270d)” and “section 3133(a) of title 40” for “section 3 of the Act (40 U.S.C. 270c)”.
 
 Subsec. (d)(1). Pub. L. 107–217, §3(h)(9)(B), substituted “sections 3131 and 3133 of title 40” for “the Act of August 24, 1935 (known as the Miller Act) (40 U.S.C. 270a–270d)” and “section 3133(b) of title 40” for “section 2 of the Act (40 U.S.C. 270b)”.
 

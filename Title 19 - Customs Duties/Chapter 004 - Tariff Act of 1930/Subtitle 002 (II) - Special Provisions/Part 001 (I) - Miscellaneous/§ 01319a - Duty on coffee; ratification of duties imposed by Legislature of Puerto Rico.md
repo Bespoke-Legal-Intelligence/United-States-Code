@@ -10,5 +10,5 @@ Section was not enacted as part of Tariff Act of 1930 which constitutes this cha
 
 #### Amendments
 
-1935—Act Aug. 20, 1935, amended section generally.
+<b>1935</b>—Act Aug. 20, 1935, amended section generally.
 

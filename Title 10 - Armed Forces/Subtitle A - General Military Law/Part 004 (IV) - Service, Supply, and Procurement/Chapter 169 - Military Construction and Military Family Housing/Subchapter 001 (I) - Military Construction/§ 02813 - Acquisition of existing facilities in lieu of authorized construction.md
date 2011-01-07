@@ -26,11 +26,11 @@ Notice and Wait Requirements.—A contract may not be entered into for the acqui
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–163 substituted “21-day period” for “30-day period” and “14-day period” for “21-day period”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–163 substituted “21-day period” for “30-day period” and “14-day period” for “21-day period”.
 
-2003—Subsec. (c). Pub. L. 108–136 struck out “the end of the 30-day period beginning on the date” after “until” and inserted last sentence.
+<b>2003</b>—Subsec. (c). Pub. L. 108–136 struck out “the end of the 30-day period beginning on the date” after “until” and inserted last sentence.
 
-1996—Subsec. (c). Pub. L. 104–106 substituted “appropriate committees of Congress” for “Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–106 substituted “appropriate committees of Congress” for “Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives”.
 
 #### Effective Date
 

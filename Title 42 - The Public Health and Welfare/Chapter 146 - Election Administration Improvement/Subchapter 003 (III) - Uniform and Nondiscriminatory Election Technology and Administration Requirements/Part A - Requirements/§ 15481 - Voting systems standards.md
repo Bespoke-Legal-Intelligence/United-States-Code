@@ -62,7 +62,7 @@ Each voting system used in an election for Federal office shall meet the followi
 
 #### (6) Uniform definition of what constitutes a vote
 
-&emsp;Each State shall adopt uniform and nondiscriminatory standards that define what constitutes a vote and what will be counted as a vote for each category of voting system used in the State.
+&emsp;Each State shall adopt uniform and nondiscriminatory standards that define whatconstitutes a vote and what will be counted as a vote for each category of voting system used in the State.
 
 #### (b) Voting system defined
 

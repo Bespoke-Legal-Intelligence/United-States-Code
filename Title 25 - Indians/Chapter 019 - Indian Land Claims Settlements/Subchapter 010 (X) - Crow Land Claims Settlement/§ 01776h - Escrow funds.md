@@ -64,5 +64,5 @@ Act of June 24, 1938, referred to in subsec. (e), is act June 24, 1938, ch. 648,
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–109 substituted “referred to in this section” for “referred to in this subsection”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–109 substituted “referred to in this section” for “referred to in this subsection”.
 

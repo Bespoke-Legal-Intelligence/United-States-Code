@@ -6,7 +6,7 @@
 
 #### (1) In general
 
-&emsp;Not later than February 15, 2006, and annually thereafter for the next 14 years, the headof each Federal agency which is subject to this Act and Executive Order No. 13031 shall prepare, and submit to Congress, a report that—
+&emsp;Not later than February 15, 2006, and annually thereafter for the next 14 years, the head of each Federal agency which is subject to this Act and Executive Order No. 13031 shall prepare, and submit to Congress, a report that—
 
 &emsp;&emsp;(A) summarizes the compliance by such Federal agency with the alternative fuel purchasing requirements for Federal fleets under this Act and Executive Order No. 13031; and
 
@@ -52,7 +52,7 @@ Subsec. (a) of this section, which required the Administrator of General Service
 
 #### Amendments
 
-2005—Subsec. (b)(1). Pub. L. 109–58 substituted “February 15, 2006” for “1 year after November 13, 1998” in introductory provisions.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–58 substituted “February 15, 2006” for “1 year after November 13, 1998” in introductory provisions.
 
-1998—Pub. L. 105–388 substituted “Reports” for “General Services Administration report” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
+<b>1998</b>—Pub. L. 105–388 substituted “Reports” for “General Services Administration report” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 

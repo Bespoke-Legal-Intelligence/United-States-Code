@@ -1,0 +1,38 @@
+### §1125. Elimination of unnecessary agency reporting
+
+(a)
+
+Agency Identification of Unnecessary Reports.—Annually, based on guidance provided by the Director of the Office of Management and Budget, the Chief Operating Officer at each agency shall—
+
+&emsp;(1) compile a list that identifies all plans and reports the agency produces for Congress, in accordance with statutory requirements or as directed in congressional reports;
+
+&emsp;(2) analyze the list compiled under paragraph (1), identify which plans and reports are outdated or duplicative of other required plans and reports, and refine the list to include only the plans and reports identified to be outdated or duplicative;
+
+&emsp;(3) consult with the congressional committees that receive the plans and reports identified under paragraph (2) to determine whether those plans and reports are no longer useful to the committees and could be eliminated or consolidated with other plans and reports; and
+
+&emsp;(4) provide a total count of plans and reports compiled under paragraph (1) and the list of outdated and duplicative reports identified under paragraph (2) to the Director of the Office of Management and Budget.
+
+(b)
+
+Plans and Reports.—
+
+&emsp;(1)
+
+First year.—During the first year of implementation of this section, the list of plans and reports identified by each agency as outdated or duplicative shall be not less than 10 percent of all plans and reports identified under subsection (a)(1).
+
+&emsp;(2)
+
+Subsequent years.—In each year following the first year described under paragraph (1), the Director of the Office of Management and Budget shall determine the minimum percent of plans and reports to be identified as outdated or duplicative on each list of plans and reports.
+
+(c)
+
+Request for Elimination of Unnecessary Reports.—In addition to including the list of plans and reports determined to be outdated or duplicative by each agency in the budget of the United States Government, as provided by section 1105(a)(37),<sup>1</sup> the Director of the Office of Management and Budget may concurrently submit to Congress legislation to eliminate or consolidate such plans and reports.
+
+(Added Pub. L. 111–352, §11(b), Jan. 4, 2011, 124 Stat. 3881.)
+
+#### References in Text
+
+Section 1105(a)(37), referred to in subsec. (c), probably means the section 1105(a)(37) added by section 11(a)(2) of Pub. L. 111–352, Jan. 4, 2011, 124 Stat. 3881.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

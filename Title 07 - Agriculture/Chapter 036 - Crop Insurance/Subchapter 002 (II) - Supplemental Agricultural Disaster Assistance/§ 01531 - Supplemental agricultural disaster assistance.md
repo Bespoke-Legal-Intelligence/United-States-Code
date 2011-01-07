@@ -128,7 +128,7 @@ In this section:
 
 #### (15) Normal production on the farm
 
-&emsp;The term “normal production on the farm” means the sum of the expected revenue for all crops on the farm, as determined under subsection (b)(6)(A).
+&emsp;The term “normal production on the farm” means the sum of the expected revenue for allcrops on the farm, as determined under subsection (b)(6)(A).
 
 #### (16) Qualifying natural disaster declaration
 
@@ -410,7 +410,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An eligible livestock producer may receive assistance under this subsection only for grazing losses for covered livestock that occur on land that—
+&emsp;&emsp;&emsp;An eligible livestock producer may receive assistance under this subsection onlyfor grazing losses for covered livestock that occur on land that—
 
 &emsp;&emsp;&emsp;&emsp;(I) is native or improved pastureland with permanent vegetative cover; or
 
@@ -418,7 +418,7 @@ In this section:
 
 #### (ii) Exclusions
 
-&emsp;&emsp;&emsp;An eligible livestock producer may not receive assistance under this subsection for grazing losses that occur on land used for haying or grazing under the conservation reserve program established under subchapter B of chapter 1 of subtitle D oftitle XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.).
+&emsp;&emsp;&emsp;An eligible livestock producer may not receive assistance under this subsection for grazing losses that occur on land used for haying or grazing under the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.).
 
 #### (B) Monthly payment rate
 
@@ -504,7 +504,7 @@ In this section:
 
 #### (B) Payment rate
 
-&emsp;&emsp;The payment rate for assistance under this paragraph shall be equal to 50 percent of themonthly feed cost for the total number of livestock covered by the Federal lease of the eligible livestock producer, as determined under paragraph (3)(C).
+&emsp;&emsp;The payment rate for assistance under this paragraph shall be equal to 50 percent of the monthly feed cost for the total number of livestock covered by the Federal lease of the eligible livestock producer, as determined under paragraph (3)(C).
 
 #### (C) Payment duration
 
@@ -570,7 +570,7 @@ In this section:
 
 #### (2) Use of funds
 
-&emsp;Funds made available under this subsection shall be used to reduce losses caused by feed or water shortages, disease, or other factors as determined by the Secretary.
+&emsp;Funds made available under this subsection shall be used to reduce losses caused by feed orwater shortages, disease, or other factors as determined by the Secretary.
 
 #### (3) Availability of funds
 
@@ -666,7 +666,7 @@ In this section:
 
 #### (B) 2009 crop year
 
-&emsp;&emsp;In the case of an insurable commodity or noninsurable commodity for the 2009 crop year that does not meet the requirements ofparagraph (1) and the relevant crop insurance program sales closing date or noninsured crop assistance program fee payment date was prior to August 14, 2008, the Secretary shall waive paragraph (1) if the eligible producer of the insurable commodity or noninsurable commodity pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under paragraph (1) to the Secretary not later than 90 days after October 13, 2008.
+&emsp;&emsp;In the case of an insurable commodity or noninsurable commodity for the 2009 crop year that does not meet the requirements of paragraph (1) and the relevant crop insurance program sales closing date or noninsured crop assistance program fee payment date was prior to August 14, 2008, the Secretary shall waive paragraph (1) if the eligible producer of the insurable commodity or noninsurable commodity pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under paragraph (1) to the Secretary not later than 90 days after October 13, 2008.
 
 #### (5) Equitable relief
 
@@ -792,7 +792,7 @@ In implementing any other program which makes disaster assistance payments (exce
 
 The Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(iv), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Subtitles B and C of the Act probably mean subtitles B and C of title I of the Act, which are classified generally to subchapters II (§8731 et seq.) and III (§8751 et seq.) of chapter 113 of this title. Section 1603 of the Act amended section 1308 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (d)(3)(A)(ii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (d)(3)(A)(ii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354.Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 The date of enactment of this subchapter, referred to in subsecs. (d)(5)(C), (D)(ii) and (g)(4)(A), (5)(B), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
@@ -890,7 +890,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Rulemaking Procedures
 
-Pub. L. 110–329, div. B, title I, §10102, Sept. 30, 2008, 122 Stat. 3588, provided that: “Section 1601(c)(2) of the Food, Conservation and Energy Act of 2008 (Public Law 110–246) \[7 U.S.C. 8781(c)(2)\] shall apply in implementing section 12033 of such Act \[enacting this subchapter and amending sections 1501 to 1503, 1505 to 1510, 1514, 1515, 1517, 1518, and 1520 to 1523 of this title\].”
+Pub. L. 110–329, div. B, title I, §10102, Sept. 30, 2008, 122 Stat. 3588, provided that: “Section 1601(c)(2) of theFood, Conservation and Energy Act of 2008 (Public Law 110–246) \[7 U.S.C. 8781(c)(2)\] shall apply in implementing section 12033 of such Act \[enacting this subchapter and amending sections 1501 to 1503, 1505 to 1510, 1514, 1515, 1517, 1518, and 1520 to 1523 of this title\].”
 
 #### Transition
 

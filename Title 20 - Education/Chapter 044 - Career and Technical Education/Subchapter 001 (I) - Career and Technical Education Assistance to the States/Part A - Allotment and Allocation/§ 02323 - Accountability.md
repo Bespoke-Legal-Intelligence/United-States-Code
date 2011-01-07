@@ -20,7 +20,7 @@ The purpose of this section is to establish and support State and local performa
 
 #### (A) Core indicators of performance for career and technical education students at the secondary level
 
-&emsp;&emsp;Each eligible agency shall identify in the State plan core indicators of performance for career and technical education students at the secondary level that are valid and reliable, and that include, at a minimum, measures of each of the following:
+&emsp;&emsp;Each eligible agency shall identify in the State plan core indicators of performancefor career and technical education students at the secondary level that are valid and reliable, and that include, at a minimum, measures of each of the following:
 
 &emsp;&emsp;&emsp;(i) Student attainment of challenging academic content standards and student academic achievement standards, as adopted by a State in accordance with section 6311(b)(1) of this title and measured by the State determined proficient levels on the academic assessments described in section 6311(b)(3) of this title.
 
@@ -88,7 +88,7 @@ The purpose of this section is to establish and support State and local performa
 
 #### (iii) Agreement on State adjusted levels of performance for first 2 years
 
-&emsp;&emsp;&emsp;The Secretary and each eligible agency shall reach agreement on the levels of performance for each of the core indicators of performance, for the first 2 program years covered by the State plan, taking into account the levels identified in the State plan under clause (ii) and the factors described in clause (vi). The levels of performance agreed to under this clause shall be considered to be the State adjusted level of performance for the State for such years and shall be incorporated into the State plan prior to the approval of such plan.
+&emsp;&emsp;&emsp;The Secretary and each eligible agency shall reach agreement on the levels of performance for each of the core indicators ofperformance, for the first 2 program years covered by the State plan, taking into account the levels identified in the State plan under clause (ii) and the factors described in clause (vi). The levels of performance agreed to under this clause shall be considered to be the State adjusted level of performance for the State for such years and shall be incorporated into the State plan prior to the approval of such plan.
 
 #### (iv) Role of the Secretary
 
@@ -226,5 +226,5 @@ This section (as amended by such Act), referred to in subsec. (b)(2)(D), is this
 
 A prior section 2323, Pub. L. 88–210, title I, §113, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3087, related to accountability, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2323, Pub. L. 88–210, title I, §113, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2445; amended Pub. L. 99–159, title VII, §§704, 713(a)(1), (2), Nov. 22, 1985, 99 Stat. 905, 907; Pub. L. 101–392, title I, §113, Sept. 25, 1990, 104 Stat. 766; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103–382, title III, §391(s)(2), Oct. 20, 1994, 108 Stat. 4024,required submission of State plans, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2323, Pub. L. 88–210, title I, §113, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2445; amended Pub. L. 99–159, title VII, §§704, 713(a)(1), (2), Nov. 22, 1985, 99 Stat. 905, 907; Pub. L. 101–392, title I, §113, Sept. 25, 1990, 104 Stat. 766; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103–382, title III, §391(s)(2), Oct. 20, 1994, 108 Stat. 4024, required submission of State plans, prior to the general amendment of this chapter by Pub. L. 105–332.
 

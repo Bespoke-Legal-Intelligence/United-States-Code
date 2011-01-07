@@ -30,7 +30,7 @@ Pub. L. 102–580, §1(a), Oct. 31, 1992, 106 Stat. 4797, provided that: “This
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–640, §1(a), Nov. 28, 1990, 104 Stat. 4604, provided that: “This Act \[enacting sections 59bb and 2316 to 2324 of this title, amending sections 579a, 652, 701n, 709a, 2213, 2215, 2232, 2238, 2281, 2309a, and 2314a of this title, section 460tt of Title 16, Conservation, and section 1962d–16 of Title 42, The Public Health and Welfare, repealing sections 579 and 2239 of this title, enacting provisions set out as notes under this section, sections 426e, 1252, 1268, 2213, 2232, 2239, 2313, and 2317 of this title, and section 1405c of Title 48, Territories and Insular Possessions, and amending provisions set out asnotes under sections 2294 and 2314 of this title and section 460d of Title 16\] may be cited as the ‘Water Resources Development Act of 1990’.”
+Pub. L. 101–640, §1(a), Nov. 28, 1990, 104 Stat. 4604, provided that: “This Act \[enacting sections 59bb and 2316 to 2324 of this title, amending sections 579a, 652, 701n, 709a, 2213, 2215, 2232, 2238, 2281, 2309a, and 2314a of this title, section 460tt of Title 16, Conservation, and section 1962d–16 of Title 42, The Public Health and Welfare, repealing sections 579 and 2239 of this title, enacting provisions set out as notes under this section, sections 426e, 1252, 1268, 2213, 2232, 2239, 2313, and 2317 of this title, and section 1405c of Title 48, Territories and Insular Possessions, and amending provisions set out as notes under sections 2294 and 2314 of this title and section 460d of Title 16\] may be cited as the ‘Water Resources Development Act of 1990’.”
 
 #### Short Title of 1988 Amendment
 
@@ -44,19 +44,43 @@ Section 215 of title II of Pub. L. 99–662 provided that: “This title \[enact
 
 #### Funding to Process Permits
 
-Pub. L. 106–541, title II, §214, Dec. 11, 2000, 114 Stat. 2594, as amended by Pub. L. 108–137, title I, §114, Dec. 1, 2003, 117 Stat. 1836; Pub. L. 109–99, §1, Nov. 11, 2005, 119 Stat. 2169; Pub. L. 109–209, §1, Mar. 24, 2006, 120 Stat. 318; Pub. L. 109–434, §1, Dec. 20, 2006, 120 Stat. 3197; Pub. L. 110–114, title II, §2002, Nov. 8, 2007, 121 Stat. 1067; Pub. L. 111–120, §1, Dec. 22, 2009, 123 Stat. 3478, provided that:
+Pub. L. 106–541, title II, §214, Dec. 11, 2000, 114 Stat. 2594, as amended by Pub. L. 108–137, title I, §114, Dec. 1, 2003, 117 Stat. 1836; Pub. L. 109–99, §1, Nov. 11, 2005, 119 Stat. 2169; Pub. L. 109–209, §1, Mar. 24, 2006, 120 Stat. 318; Pub. L. 109–434, §1, Dec. 20, 2006, 120 Stat. 3197; Pub. L. 110–114, title II, §2002, Nov. 8, 2007, 121 Stat. 1067; Pub. L. 111–120, §1, Dec. 22, 2009, 123 Stat. 3478; Pub. L. 111–315, §1, Dec. 18, 2010, 124 Stat. 3450, provided that:
 
 “(a)
 
-In General.—The Secretary, after public notice, may accept and expend funds contributed by non-Federal public entities to expedite the evaluation of permits under the jurisdiction of the Department of the Army.
+In General.—The Secretary, after public notice, may accept and expend funds contributed by a non-Federal public entity to expedite the evaluation of a permit of that entity related to a project or activity for a public purpose under the jurisdiction of the Department of the Army.
 
 “(b)
 
-Effect on Permitting.—In carrying out this section, the Secretary shall ensure that the use of funds accepted under subsection (a) will not impact impartial decisionmaking with respect to permits, either substantively or procedurally.
+Effect on Permitting.—
+
+&emsp;“(1)
+
+In general.—In carrying out this section, the Secretary shall ensure that the use of funds accepted under subsection (a) will not impact impartial decisionmaking with respect to permits, either substantively or procedurally.
+
+&emsp;“(2)
+
+Impartial decisionmaking.—In carrying out this section, the Secretary shall ensure that the evaluation of permits carried out using funds accepted under this section shall—
+
+&emsp;&emsp;“(A) be reviewed by—
+
+&emsp;&emsp;&emsp;“(i) the District Commander, or the Commander's designee, of the Corps District in which the project or activity is located; or
+
+&emsp;&emsp;&emsp;“(ii) the Commander of the Corps Division in which the District is located if the evaluation ofthe permit is initially conducted by the District Commander; and
+
+&emsp;&emsp;“(B) utilize the same procedures for decisions that would otherwise be required for the evaluation of permits for similar projects or activities not carried out using funds authorized under this section.
 
 “(c)
 
-Duration of Authority.—The authority provided under this section shall be in effect from October 1, 2000, through December 31, 2010.”
+Limitation on Use of Funds.—None of the funds accepted under this section shall be used to carry out a review of the evaluation of permits required under subsection (b)(2)(A).
+
+“(d)
+
+Public Availability.—The Secretary shall ensure that all final permit decisions carried out using funds authorized under this section are made available to the public, including on the Internet.
+
+“(e)
+
+Duration of Authority.—The authority provided under this section shall be in effect from October 1, 2000, through December 31, 2016.”
 
 #### Monitoring
 
@@ -132,7 +156,7 @@ Purchase of American-Made Equipment and Products.—It is the sense of Congress 
 
 “(b)
 
-Notice to Recipients of Assistance.—In providing financial assistance under this Act, the Secretary,to the greatest extent practicable, shall provide to each recipient of the assistance a notice describing the statement made in subsection (a).”
+Notice to Recipients of Assistance.—In providing financial assistance under this Act, the Secretary, to the greatest extent practicable, shall provide to each recipient of the assistance a notice describing the statement made in subsection (a).”
 
 #### Budget Act Requirements
 

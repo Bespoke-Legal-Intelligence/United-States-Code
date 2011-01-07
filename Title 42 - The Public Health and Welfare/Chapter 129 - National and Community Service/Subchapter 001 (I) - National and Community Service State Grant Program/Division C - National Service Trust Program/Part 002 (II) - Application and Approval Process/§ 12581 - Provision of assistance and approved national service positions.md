@@ -30,7 +30,7 @@ The Corporation shall ensure that each individual selected during a fiscal year 
 
 &emsp;In making grants under this subsection for a fiscal year, the Corporation—
 
-&emsp;&emsp;(A) shall select 2 or more of the national service corps described in section 12572(a) ofthis title to receive grants under this subsection; and
+&emsp;&emsp;(A) shall select 2 or more of the national service corps described in section 12572(a) of this title to receive grants under this subsection; and
 
 &emsp;&emsp;(B) may select national service programs described in section 12572(b) of this title to receive such grants.
 
@@ -170,7 +170,7 @@ A prior section 129 of Pub. L. 101–610 was renumbered section 199H and is clas
 
 #### Amendments
 
-2009—Pub. L. 111–13 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (g) relating to allotments of assistance and approved national service positions to States and Indian tribes, reservation of the national service educational award for eligible individuals in approved positions, reservation of amounts appropriated as considered appropriate for special assistance, competitive distribution of remaining funds, application requirement, approval of positions subject to available funds, and sponsorship of approved national service positions.
+<b>2009</b>—Pub. L. 111–13 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (g) relating to allotments of assistance and approved national service positions to States and Indian tribes, reservation of the national service educational award for eligible individuals in approved positions, reservation of amounts appropriated as considered appropriate for special assistance, competitive distribution of remaining funds, application requirement, approval of positions subject to available funds, and sponsorship of approved national service positions.
 
 #### Effective Date of 2009 Amendment
 

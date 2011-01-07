@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding section 1396d(b) of this title, if a State has in effect a law relating to false or fraudulent claims that meets the requirements of subsection (b), the Federal medical assistance percentage with respect to any amounts recovered under a State action brought under such law, shall be decreased by 10 percentage points.
+Notwithstanding section 1396d(b) of this title, if a State has in effect a law relating to false or fraudulent claims that meets the requirements of subsection (b), the Federal medical assistancepercentage with respect to any amounts recovered under a State action brought under such law, shall be decreased by 10 percentage points.
 
 #### (b) Requirements
 
@@ -32,5 +32,5 @@ A prior section 1396h, act Aug. 14, 1935, ch. 531, title XIX, §1909, as added a
 
 #### Effective Date
 
-Pub. L. 109–171, title VI, §6031(b), Feb. 8, 2006, 120 Stat. 73, as amended by Pub. L. 109–432, div. B, title IV,§405(c)(2)(A)(iii), Dec. 20, 2006, 120 Stat. 3000, provided that: “Except as provided in section 6034(e) \[set out as an Effective Date of 2006 Amendment note under section 1396a of this title\], the amendments made by this section \[enacting this section\] take effect on January 1, 2007.”
+Pub. L. 109–171, title VI, §6031(b), Feb. 8, 2006, 120 Stat. 73, as amended by Pub. L. 109–432, div. B, title IV, §405(c)(2)(A)(iii), Dec. 20, 2006, 120 Stat. 3000, provided that: “Except as provided in section 6034(e) \[set out as an Effective Date of 2006 Amendment note under section 1396a of this title\], the amendments made by this section \[enacting this section\] take effect on January 1, 2007.”
 

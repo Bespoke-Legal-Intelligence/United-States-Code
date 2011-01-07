@@ -14,11 +14,11 @@ Levels II and III of the Executive Schedule, referred to in text, are set out in
 
 #### Amendments
 
-2003—Pub. L. 108–83 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The annual rate of pay for the Public Printer shall be a rate which is equal to the rate for level III of the Executive Schedule of subchapter II of chapter 53 of Title 5. The annual rate of pay for the Deputy Public Printer shall be a rate which is equal to the rate for level IV of such Executive Schedule.”
+<b>2003</b>—Pub. L. 108–83 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The annual rate of pay for the Public Printer shall be a rate which is equal to the rate for level III of the Executive Schedule of subchapter II of chapter 53 of Title 5. The annual rate of pay for the Deputy Public Printer shall be a rate which is equal to the rate for level IV of such Executive Schedule.”
 
-1990—Pub. L. 101–520 amended section generally. Prior to amendment, section read as follows: “The annual rate of pay for the Public Printer shall be a rate which is equal to the rate for level IV of the Executive Schedule of subchapter II of chapter 53 of title 5. The annual rate of pay for the Deputy Public Printer shall be a rate which is equal to the rate for level V of such Executive Schedule.”
+<b>1990</b>—Pub. L. 101–520 amended section generally. Prior to amendment, section read as follows: “The annual rate of pay for the Public Printer shall be a rate which is equal to the rate for level IV of the Executive Schedule of subchapter II of chapter 53 of title 5. The annual rate of pay for the Deputy Public Printer shall be a rate which is equal to the rate for level V of such Executive Schedule.”
 
-1975—Pub. L. 94–82 substituted “pay” for “compensation” in section catchline, and substituted provisions setting the rate of pay for the Public Printer at a rate equal to the rate for level IV of the Executive Schedule and the rate of pay for Deputy Public Printer at a rate equal to the rate for level V of such Schedule for provisions setting the compensation of the Public Printer and the Deputy Public Printer at the rate of $28,750 and $27,500 per annum, respectively.
+<b>1975</b>—Pub. L. 94–82 substituted “pay” for “compensation” in section catchline, and substituted provisions setting the rate of pay for the Public Printer at a rate equal to the rate for level IV of the Executive Schedule and the rate of pay for Deputy Public Printer at a rate equal to the rate for level V of such Schedule for provisions setting the compensation of the Public Printer and the Deputy Public Printer at the rate of $28,750 and $27,500 per annum, respectively.
 
 #### Effective Date of 2003 Amendment
 
@@ -26,9 +26,9 @@ Pub. L. 108–83, title I, §1301(b), Sept. 30, 2003, 117 Stat. 1033, provided t
 
 #### Salary Increases
 
-1987—Salaries of Public Printer and Deputy Public Printer increased respectively to $77,500 and $72,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
+<b>1987</b>—Salaries of Public Printer and Deputy Public Printer increased respectively to $77,500 and $72,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 
-1977—Salaries of the Public Printer and Deputy Public Printer increased respectively to $50,000 and $47,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
+<b>1977</b>—Salaries of the Public Printer and Deputy Public Printer increased respectively to $50,000 and $47,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
 
-1969—Salaries of the Public Printer and Deputy Public Printer increased respectively from $28,750 and $27,500 to $38,000 and $36,000 per annum, commencing on the first day of the pay period which begins after Feb. 14, 1969, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
+<b>1969</b>—Salaries of the Public Printer and Deputy Public Printer increased respectively from $28,750 and $27,500 to $38,000 and $36,000 per annum, commencing on the first day of the pay period which begins after Feb. 14, 1969, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
 

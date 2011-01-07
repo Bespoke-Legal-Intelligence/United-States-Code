@@ -58,7 +58,7 @@
 
 #### References in Text
 
-Title II of the State Department Basic Authorities Act of 1956, referred to in subsec. (d), is title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to chapter 53 (§4301 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of title II to the Code, see Short Title note set out under section 4301 of Title 22 and Tables.
+Title II of the State Department Basic Authorities Act of 1956, referred to in subsec. (d), is title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to chapter 53 (§4301 et seq.) of Title 22, Foreign Relationsand Intercourse. For complete classification of title II to the Code, see Short Title note set out under section 4301 of Title 22 and Tables.
 
 #### Change of Name
 
@@ -76,7 +76,7 @@ Pub. L. 109–177, title VI, §606, Mar. 9, 2006, 120 Stat. 256, provided that:
 
 #### Conversion to New Salary Schedule
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §905\], Dec. 21, 2000, 114 Stat. 2763, 2763A–306, provided that:
+Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §905\], Dec. 21, 2000, 114 Stat. 2763, 2763A–306, as amended by Pub. L. 111–282, §4(b)(4), Oct. 15, 2010, 124 Stat. 3043, provided that:
 
 “(a)
 
@@ -84,7 +84,7 @@ In General.—
 
 &emsp;“(1)
 
-Determination of rates of basic pay.—Effective on the first day of the 1st pay period beginning 6 months after the date of enactment of this Act \[Dec. 21, 2000\], the Secretary of the Treasury shall fix the rates of basic pay for officers and members of the United States Secret Service Uniformed Division, and the Secretary of the Interior shall fix the rates of basic pay for officers and members of the United States Park Police, in accordance with this subsection.
+Determination of rates of basic pay.—Effective on the first day of the 1st pay period beginning 6 months after the date of enactment of this Act \[Dec. 21, 2000\], the Secretary of the Interior shall fix the rates of basic pay for officers and members of the United States Park Police, in accordance with this subsection.
 
 &emsp;“(2)
 
@@ -92,7 +92,7 @@ Placement on revised salary schedule.—
 
 &emsp;&emsp;“(A)
 
-In general.—Each officer and member shall be placed in and receive basic compensation at the corresponding scheduled service step of the salary schedule under section 501(c) of the District of Columbia Police and Firemen's Salary Act of 1958 \[Pub. L. 85–584, title V, Aug. 1, 1958, 72 Stat. 485\] (asamended by section 902(a)) in accordance with the member's total years of creditable service, receiving credit for all service step adjustments. If the scheduled rate of pay for the step to which the officer or member would be assigned in accordance with this paragraph is lower than the officer's or member's salary immediately prior to the enactment of this paragraph, the officer or member will be placed in and receive compensation at the next higher service step.
+In general.—Each officer and member shall be placed in and receive basic compensation at the corresponding scheduled service step of the salary schedule under section 501(c) of the District of Columbia Police and Firemen's Salary Act of 1958 \[Pub. L. 85–584, title V, Aug. 1, 1958, 72 Stat. 485\] (as amended by section 902(a)) in accordance with the member's total years of creditable service, receiving credit for all service step adjustments. If the scheduled rate of pay for the step to which the officer or member would be assigned in accordance with this paragraph is lower than the officer's or member's salary immediately prior to the enactment of this paragraph, the officer or member will be placed in and receive compensation at the next higher service step.
 
 &emsp;&emsp;“(B)
 
@@ -126,31 +126,19 @@ Adjustment To Take Into Account General Schedule Adjustments During Transition.�
 
 Conversion Not Treated as Salary Increase for Purposes of Certain Pensions and Allowances.—The conversion of positions and individuals to appropriate classes of the salary schedule under section 501(c) of the District of Columbia Police and Firemen's Salary Act of 1958 (as amended by section 2\[902\](a)) and the initial adjustments of rates of basic pay of those positions and individuals in accordance with subsection (a) shall not be treated as an increase in salary for purposes of section 3 of the Act entitled ‘An Act to provide increased pensions for widows and children of deceased members of the Police Department and the Fire Department of the District of Columbia’, approved August 4, 1949 \[ch. 394, 63 Stat. 566\] (sec. 4–604, D.C. Code), or section 301 of the District of Columbia Police and Firemen's Salary Act of 1953 \[June 20, 1953, ch. 146, title III, 67 Stat. 75\] (sec. 4–605, D.C. Code).”
 
+\[Pub. L. 111–282, §4(b)(4), Oct. 15, 2010, 124 Stat. 3043, which directed amendment of section 1(a)(4) \[div. B, title IX, §905(a)(1)\] of Pub. L. 106–554, set out above, by striking out “the Secretary of Treasury” and all that followed through “United States Secret Service Uniformed Division, and”, was executed by striking out “the Secretary of the Treasury shall fix the rates of basic pay for officers and members of the United StatesSecret Service Uniformed Division, and” to reflect the probable intent of Congress.
+
 \[Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §909\], Dec. 21, 2000, 114 Stat. 2763, 2763A–310, provided that: “Except as provided in section 908(c) \[114 Stat. 2763A–310\], this title \[enacting provisions set out as notes above and under sections 5301, 5304, and 5305 of Title 5, Government Organization and Employees, and amending provisions set out as a note under section 5305 of Title 5\] and the amendments made by this title shall become effective on the first day of the first pay period beginning 6 months after the date of enactment \[Dec. 21, 2000\].”\]
 
 #### Secret Service Uniformed Division Compensation
 
-Pub. L. 105–61, title I, §118, Oct. 10, 1997, 111 Stat. 1285, provided that:
+Pub. L. 105–61, title I, §118, Oct. 10, 1997, 111 Stat. 1285, as amended by Pub. L. 111–282, §4(b)(3), Oct. 15, 2010, 124 Stat. 3043, provided that:
 
 “(a)
 
 New Rates of Basic Pay.—\[Amended Pub. L. 85–584, title V, §501, Aug. 1, 1958, 72 Stat. 485.\]
 
-“(b)
-
-Conversion to New Salary Schedule.—
-
-&emsp;“(1)(A) Effective on the first day of the first pay period beginning after the date of enactment of this section \[Oct. 10, 1997\], the Secretary of the Treasury shall fix the rates of basic pay for members of the United States Secret Service Uniformed Division in accordance with this paragraph.
-
-&emsp;“(B) Subject to subparagraph (C), each officer and member receiving basic compensation, immediately prior to the effective date of this section, at one of the scheduled rates in the salary schedule in section 101 of the District of Columbia Police and Firemen's Salary Act of 1958 \[Pub. L. 85–584, title I, Aug. 1, 1958, 72 Stat. 481\], as adjusted by law and as in effect prior to the effective date of this section, shall be placed in and receive basic compensation at the corresponding scheduled service step of the salary schedule under subsection (a)(4).
-
-&emsp;“(C)(i) The Assistant Chief and the Chief of the United States Secret Service Uniformed Division shall be placed in and receive basic compensation in salary class 10 and salary class 11, respectively, in the appropriate service step in the new salary class in accordance with section 304 of the District of Columbia Police and Firemen's Salary Act of 1958 \[Pub. L. 85–584, title III, Aug. 1, 1958, 72 Stat. 484\] (District of Columbia Code, section 4–413).
-
-&emsp;“(ii) Each member whose position is to be converted to the salary schedule under section 501(c) of the District of Columbia Police and Firemen's Salary Act of 1958 \[Pub. L. 85–584, title V, Aug. 1, 1958, 72 Stat. 485\] (District of Columbia Code, section 4–416(c)) as amended by this section, in accordance with subsection (a) of this section, and who, prior to the effective date of this section has earned, but has not been credited with, an increase in his or her rate of pay shall be afforded that increase before such member is placed in the corresponding service step in the salary schedule under section 501(c).
-
-&emsp;“(2) Except in the cases of the Assistant Chief and the Chief of the United States Secret Service Uniformed Division, the conversion of positions and individuals to appropriate classes of the salary schedule under section 501(c) of the District of Columbia Police and Firemen's Salary Act of 1958 (District of Columbia Code, section 4–416(c)) as amended by this section, and the initial adjustments of rates of basic pay of those positions and individuals, in accordance with paragraph (1) of this subsection, shall not be considered to be transfers or promotions within the meaning of section 304 of the District of Columbia Police and Firemen's Salary Act of 1958 (District of Columbia Code, section 4–413).
-
-&emsp;“(3) Each member whose position is converted to the salary schedule under section 501(c) of the District of Columbia Police and Firemen's Salary Act of 1958 (District of Columbia Code, section 4–416(c)) as amended by this section, in accordance with subsection (a) of this section, shall be granted credit for purposes of such member's first service step adjustment under the salary schedule in such section 510(c) for all satisfactory service performed by the member since the member's last increase in basic pay prior to the adjustment under that section.
+“(b) \[Repealed. Pub. L. 111–282, §4(b)(3), Oct. 15, 2010, 124 Stat. 3043.\]
 
 “(c)
 

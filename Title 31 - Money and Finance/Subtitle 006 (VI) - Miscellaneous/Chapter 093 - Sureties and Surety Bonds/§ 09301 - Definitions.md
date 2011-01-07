@@ -26,5 +26,5 @@ Clause (2) is substituted for 6:15(last sentence) for consistency and to elimina
 
 #### Amendments
 
-2006—Par. (2). Pub. L. 109–351 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘Government obligation’ means a public debt obligation of the United States Government and an obligation whose principal and interest is unconditionally guaranteed by the Government.”
+<b>2006</b>—Par. (2). Pub. L. 109–351 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘Government obligation’ means a public debt obligation of the United States Government and an obligation whose principal and interest is unconditionally guaranteed by the Government.”
 

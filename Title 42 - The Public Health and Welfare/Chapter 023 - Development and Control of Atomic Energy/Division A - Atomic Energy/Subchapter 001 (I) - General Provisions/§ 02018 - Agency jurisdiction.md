@@ -6,5 +6,5 @@ Nothing in this chapter shall be construed to affect the authority or regulation
 
 #### Amendments
 
-1965—Pub. L. 89–135 inserted “produced through the use of nuclear facilities licensed by the Commission: <i>Provided</i>, That this section shall not be deemed to confer upon any Federal, State, or local agency any authority to regulate, control, or restrict any activities of the Commission.”
+<b>1965</b>—Pub. L. 89–135 inserted “produced through the use of nuclear facilities licensed by the Commission: <i>Provided</i>, That this section shall not be deemed to confer upon any Federal, State, or local agency any authority to regulate, control, or restrict any activities of the Commission.”
 

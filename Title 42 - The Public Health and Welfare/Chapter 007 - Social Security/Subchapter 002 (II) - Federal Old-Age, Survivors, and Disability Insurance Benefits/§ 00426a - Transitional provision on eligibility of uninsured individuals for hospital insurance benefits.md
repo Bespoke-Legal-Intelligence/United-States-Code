@@ -14,7 +14,7 @@ Anyone who—
 
 &emsp;(5) has filed an application under this section in such manner and in accordance with such other requirements as may be prescribed in regulations of the Secretary,
 
-> shall (subject to the limitations in this section) be deemed, solely for purposes of section 426 of this title, to be entitled to monthly insurance benefits under such section 402 for each month,beginning with the first month in which he meets the requirements of this subsection and ending with the month in which he dies, or, if earlier, the month before the month in which he becomes (or upon filing application for monthly insurance benefits under section 402 of this title would become) entitled to hospital insurance benefits under section 426 of this title or becomes certifiable as a qualified railroad retirement beneficiary. An individual who would have met the preceding requirements of this subsection in any month had he filed application under paragraph (5) hereof before the end of such month shall be deemed to have met such requirements in such month if he files such application before the end of the twelfth month following such month. No application under this section which is filed by an individual more than 3 months before the first month in which he meets the requirements of paragraphs (1), (2), (3), and (4) shall be accepted as an application for purposes of this section.
+> shall (subject to the limitations in this section) be deemed, solely for purposes of section 426 of this title, to be entitled to monthly insurance benefits under such section 402 for each month, beginning with the first month in which he meets the requirements of this subsection and ending with the month in which he dies, or, if earlier, the month before the month in which he becomes (or upon filing application for monthly insurance benefits under section 402 of this title would become) entitled to hospital insurance benefits under section 426 of this title or becomes certifiable as a qualified railroad retirement beneficiary. An individual who would have met the preceding requirements of this subsection in any month had he filed application under paragraph (5) hereof before the end of such month shall be deemed to have met such requirements in such month if he files such application before the end of the twelfth month following such month. No application under this section which is filed by an individual more than 3 months before the first month in which he meets the requirements of paragraphs (1), (2), (3), and (4) shall be accepted as an application for purposes of this section.
 
 #### (b) Persons ineligible
 
@@ -58,7 +58,7 @@ Section was not enacted as part of the Social Security Act which comprises this 
 
 #### Amendments
 
-1968—Subsec. (a)(2)(B). Pub. L. 90–248, §139, substituted “1966” for “1965”.
+<b>1968</b>—Subsec. (a)(2)(B). Pub. L. 90–248, §139, substituted “1966” for “1965”.
 
 Subsec. (b)(3)(A), (C). Pub. L. 90–248, §403(h)(1), (2), substituted “chapter 89 of title 5” and “such chapter” for “the Federal Employees Health Benefits Act of 1959” and “such Act” in subpars. (A) and (C), respectively.
 

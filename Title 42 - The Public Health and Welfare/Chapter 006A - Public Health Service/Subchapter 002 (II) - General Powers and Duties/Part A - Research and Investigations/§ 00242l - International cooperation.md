@@ -48,7 +48,7 @@ The Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AID
 
 Section 5703 of title 5, referred to in subsec. (b)(6), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
-The Foreign Service Act of 1980, referred to in subsec. (c), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 9 of title I of the Act is classified generally to subchapter IX (§4081 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (c), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter9 of title I of the Act is classified generally to subchapter IX (§4081 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 #### Codification
 
@@ -60,7 +60,7 @@ A prior section 307 of act July 1, 1944, was classified to section 242e of this 
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–293, §205(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “For the purpose of advancing the status of the health sciences in the United States (and thereby the health of the American people), the Secretary may participate with other countries in cooperative endeavors in biomedical research, health care technology, and the health services research and statistical activities authorized by section 242k of this title and by subchapter VII of this chapter.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–293, §205(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “For the purpose of advancing the status of the health sciences in the United States (and thereby the health of the American people), the Secretary may participate with other countries in cooperative endeavors in biomedical research, health care technology, and the health services research and statistical activities authorized by section 242k of this title and by subchapter VII of this chapter.”
 
 Subsec. (b). Pub. L. 110–293, §205(2)(B), struck out concluding provisions which read as follows: “The Secretary may not, in the exercise of his authority under this section, provide financial assistance for the construction of any facility in any foreign country.”
 
@@ -70,19 +70,19 @@ Subsec. (b)(9), (10). Pub. L. 110–293, §205(2)(A), (D), added pars. (9) and (
 
 Subsec. (c). Pub. L. 110–293, §205(3), substituted “1980” for “1990” and inserted “or section 903 of the Foreign Service Act of 1980 (22 U.S.C. 4083)” after “title 5”.
 
-2003—Subsec. (d). Pub. L. 108–25 added subsec. (d).
+<b>2003</b>—Subsec. (d). Pub. L. 108–25 added subsec. (d).
 
-1993—Subsec. (c). Pub. L. 103–183 added subsec. (c).
+<b>1993</b>—Subsec. (c). Pub. L. 103–183 added subsec. (c).
 
-1992—Subsec. (b)(8). Pub. L. 102–531, which directed amendment of subsec. (b) by adding par. (8) at the end thereof, was executed by adding par. (8) after par. (7) to reflect the probable intent of Congress.
+<b>1992</b>—Subsec. (b)(8). Pub. L. 102–531, which directed amendment of subsec. (b) by adding par. (8) at the end thereof, was executed by adding par. (8) after par. (7) to reflect the probable intent of Congress.
 
-1989—Subsec. (a). Pub. L. 101–239 substituted “section 242k of this title and by subchapter VII of this chapter” for “sections 242b, 242c, 242k, and 242n of this title”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239 substituted “section 242k of this title and by subchapter VII of this chapter” for “sections 242b, 242c, 242k, and 242n of this title”.
 
-1981—Subsec. (a). Pub. L. 97–35, §921(a), inserted reference to health care technology and section 242n of this title.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §921(a), inserted reference to health care technology and section 242n of this title.
 
 Subsec. (b). Pub. L. 97–35, §921(b), in par. (5) inserted reference to health care technology, and in par. (6) inserted reference to health care technology activities.
 
-1974—Pub. L. 93–353 amended section generally.
+<b>1974</b>—Pub. L. 93–353 amended section generally.
 
 #### International Health Study
 

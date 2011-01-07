@@ -8,13 +8,13 @@
 
 #### Amendments
 
-1999—Subsec. (b). Pub. L. 106–113 made technical correction to directory language of Pub. L. 105–277, §1422(b)(3)(B). See 1998 Amendment note below.
+<b>1999</b>—Subsec. (b). Pub. L. 106–113 made technical correction to directory language of Pub. L. 105–277, §1422(b)(3)(B). See 1998 Amendment note below.
 
-1998—Subsec. (b). Pub. L. 105–277, §1422(b)(3)(B), as amended by Pub. L. 106–113, substituted “Administrator of the Agency for International Development” for “Director of the United States International Development Cooperation Agency”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–277, §1422(b)(3)(B), as amended by Pub. L. 106–113, substituted “Administrator of the Agency for International Development” for “Director of the United States International Development Cooperation Agency”.
 
 Pub. L. 105–277, §1335(<i>l</i>)(3), substituted “Broadcasting Board of Governors,” for “Director of the United States Information Agency, the chairman of the Board for International Broadcasting,” and “with respect to the Board and the Agency” for “with respect to their respective agencies”.
 
-1990—Subsec. (b). Pub. L. 101–246 substituted “United States Information Agency, the chairman of the Board for International Broadcasting,” for “International Communication Agency”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–246 substituted “United States Information Agency, the chairman of the Board for International Broadcasting,” for “International Communication Agency”.
 
 #### Effective Date of 1998 Amendment
 

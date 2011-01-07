@@ -32,7 +32,7 @@ For definition of Canal Zone, referred to in par. (7), see section 3602(b) of Ti
 
 #### Amendments
 
-1978—Pub. L. 95–302 in cl. (1) substituted definition of “a substance other than convention oil” for definition of “ship”, in cl. (2) substituted definition of “convention” for definition of “oil”, in cl. (3) substituted definition of “convention oil” for definition of “convention”, in cl. (5) substituted definition of “ship” for definition of “United States”, and added cls. (6) and (7).
+<b>1978</b>—Pub. L. 95–302 in cl. (1) substituted definition of “a substance other than convention oil” for definition of “ship”, in cl. (2) substituted definition of “convention” for definition of “oil”, in cl. (3) substituted definition of “convention oil” for definition of “convention”, in cl. (5) substituted definition of “ship” for definition of “United States”, and added cls. (6) and (7).
 
 #### Effective Date of 1978 Amendment
 

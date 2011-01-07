@@ -30,11 +30,11 @@ Section 10(d) of the Railroad Unemployment Insurance Act, referred to in subsec.
 
 #### Amendments
 
-1988—Pub. L. 100–647, §7106(a), amended section generally, revising and restating provisions of subsecs. (a) and (b) and specifying imposition of 4 percent tax on rail wages rather than a tax based on the “applicable percentage” of rail wages, and in subsec. (c) substituting provisions relating to termination if loans to railroad unemployment fund repaid for provisions relating to rates of tax.
+<b>1988</b>—Pub. L. 100–647, §7106(a), amended section generally, revising and restating provisions of subsecs. (a) and (b) and specifying imposition of 4 percent tax on rail wages rather than a tax based on the “applicable percentage” of rail wages, and in subsec. (c) substituting provisions relating to termination if loans to railroad unemployment fund repaid for provisions relating to rates of tax.
 
 Pub. L. 100–647, §1018(u)(17), added a period at end of par. (4).
 
-1986—Subsec. (c). Pub. L. 99–272 amended subsec. (c) generally. Prior to amendment subsec. (c) read as follows:
+<b>1986</b>—Subsec. (c). Pub. L. 99–272 amended subsec. (c) generally. Prior to amendment subsec. (c) read as follows:
 
 “(c)
 

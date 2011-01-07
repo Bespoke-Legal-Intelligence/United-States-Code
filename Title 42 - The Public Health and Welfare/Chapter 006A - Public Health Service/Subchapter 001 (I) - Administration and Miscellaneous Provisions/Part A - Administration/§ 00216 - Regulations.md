@@ -16,7 +16,7 @@ No regulation relating to qualifications for appointment of medical officers or 
 
 #### Amendments
 
-1949—Subsec. (b). Act Oct. 12, 1949, struck out references to travel and transportation of household goods and effects.
+<b>1949</b>—Subsec. (b). Act Oct. 12, 1949, struck out references to travel and transportation of household goods and effects.
 
 #### Effective Date of 1949 Amendment
 

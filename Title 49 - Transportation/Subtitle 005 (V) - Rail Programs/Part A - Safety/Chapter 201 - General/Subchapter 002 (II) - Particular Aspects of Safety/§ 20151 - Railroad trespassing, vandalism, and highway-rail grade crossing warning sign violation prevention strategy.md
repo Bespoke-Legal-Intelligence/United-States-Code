@@ -6,7 +6,7 @@ Evaluation of Existing Laws.—In consultation with affected parties, the Secret
 
 (b)
 
-Outreach Program for Trespassing and Vandalism Prevention.—The Secretary shall develop and maintain a comprehensive outreach program to improve communications among Federal railroad safety inspectors, State inspectors certified by the Federal Railroad Administration, railroad police, and State and local law enforcement officers, for the purpose of addressing trespassing and vandalism problems on railroad property, and strengthening relevant enforcement strategies. This program shall be designed to increase public and police awareness of the illegality of, dangers inherent in, and the extent of, trespassing on railroad rights-of-way, to develop strategies to improve the prevention of trespassing and vandalism, and to improve theenforcement of laws relating to railroad trespass, vandalism, and safety.
+Outreach Program for Trespassing and Vandalism Prevention.—The Secretary shall develop and maintain a comprehensive outreach program to improve communications among Federal railroad safety inspectors, State inspectors certified by the Federal Railroad Administration, railroad police, and State and local law enforcement officers, for the purpose of addressing trespassing and vandalism problems on railroad property, and strengthening relevant enforcement strategies. This program shall be designed to increase public and police awareness of the illegality of, dangers inherent in, and the extent of, trespassing on railroad rights-of-way, to develop strategies to improve the prevention of trespassing and vandalism, and to improve the enforcement of laws relating to railroad trespass, vandalism, and safety.
 
 (c)
 
@@ -38,7 +38,7 @@ The date of enactment of the Rail Safety Improvement Act of 2008, referred to in
 
 #### Amendments
 
-2008—Pub. L. 110–432, §208(a)(1), substituted “Railroad trespassing, vandalism, and highway-rail grade crossing warning sign violation prevention strategy” for “Railroad trespassing and vandalism prevention strategy” in section catchline.
+<b>2008</b>—Pub. L. 110–432, §208(a)(1), substituted “Railroad trespassing, vandalism, and highway-rail grade crossing warning sign violation prevention strategy” for “Railroad trespassing and vandalism prevention strategy” in section catchline.
 
 Subsec. (a). Pub. L. 110–432, §208(a)(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “In consultation with affected parties, the Secretary of Transportation shall evaluate and review current local, State, and Federal laws regarding trespassing on railroad property and vandalism affecting railroad safety, and develop model prevention strategies and enforcement laws to be used for the consideration of State and local legislatures and governmental entities. The first such evaluation and review shall be completed within 1 year after November 2, 1994. The Secretary shall revise such model prevention strategies and enforcement codes periodically.”
 
@@ -48,5 +48,5 @@ Subsec. (c). Pub. L. 110–432, §208(a)(4), designated existing provisions as p
 
 Subsec. (d). Pub. L. 110–432, §208(a)(5), added subsec. (d).
 
-1996—Subsecs. (a), (c). Pub. L. 104–287 substituted “November 2, 1994” for “the date of enactment of the Federal Railroad Safety Authorization Act of 1994”.
+<b>1996</b>—Subsecs. (a), (c). Pub. L. 104–287 substituted “November 2, 1994” for “the date of enactment of the Federal Railroad Safety Authorization Act of 1994”.
 

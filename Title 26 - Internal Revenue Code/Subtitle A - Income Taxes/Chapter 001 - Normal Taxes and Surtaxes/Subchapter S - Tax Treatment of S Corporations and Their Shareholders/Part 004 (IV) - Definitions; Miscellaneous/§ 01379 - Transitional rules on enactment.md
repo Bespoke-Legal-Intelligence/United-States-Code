@@ -40,7 +40,7 @@ A prior section 1379, added Pub. L. 91–172, title V, §531(a), Dec. 30, 1969, 
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–369 struck out “In applying this subchapter to any taxable year beginning after December 31, 1982,” and substituted “Any references in this title to a provision” for “any reference in this subchapter to another provision”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369 struck out “In applying this subchapter to any taxable year beginning after December 31, 1982,” and substituted “Any references in this title to a provision” for “any reference in this subchapter to another provision”.
 
 #### Effective Date of 1984 Amendment
 

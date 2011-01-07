@@ -10,7 +10,7 @@ The Secretary is authorized, in carrying out this chapter, to accept, purchase, 
 
 #### (c) Authority to enter into certain agreements and to make certain expenditures
 
-The Secretary may make such grants, enter into such contracts or agreements, establishsuch procedures, and make such payments, in installments and in advance or by way of reimbursement, or otherwise allocate or expend such funds under this chapter, as may be necessary to carry out this chapter, including making expenditures for construction, repairs, and capital improvements, and including making necessary adjustments in payments on account of over-payments or underpayments.
+The Secretary may make such grants, enter into such contracts or agreements, establish such procedures, and make such payments, in installments and in advance or by way of reimbursement, or otherwise allocate or expend such funds under this chapter, as may be necessary to carry out this chapter, including making expenditures for construction, repairs, and capital improvements, and including making necessary adjustments in payments on account of over-payments or underpayments.
 
 #### (d) Annual report
 
@@ -70,7 +70,7 @@ The Secretary shall ensure that each individual participating in any program or 
 
 #### (A) General authority
 
-&emsp;&emsp;Notwithstanding any other provision of law, the Secretary may waive for a State, or a local area in a State, pursuant to a requestsubmitted by the Governor of the State (in consultation with appropriate local elected officials) that meets the requirements of subparagraph (B)—
+&emsp;&emsp;Notwithstanding any other provision of law, the Secretary may waive for a State, or a local area in a State, pursuant to a request submitted by the Governor of the State (in consultation with appropriate local elected officials) that meets the requirements of subparagraph (B)—
 
 &emsp;&emsp;&emsp;(i) any of the statutory or regulatory requirements of subchapter II of this chapter or this subchapter (except for requirements relating to wage and labor standards, including nondisplacement protections, worker rights, participation and protection of workers and participants, grievance procedures and judicial review, nondiscrimination, allocation of funds to local areas, eligibility of providers or participants, the establishment and functions of local areas and local boards, and procedures for review and approval of plans); and
 
@@ -114,9 +114,9 @@ Provisions similar to this section were contained in sections 1504, 1571, and 15
 
 #### Amendments
 
-2006—Subsec. (g)(1)(A). Pub. L. 109–281 inserted “and section 2918a of this title” after “Except as provided in subparagraph (B)”.
+<b>2006</b>—Subsec. (g)(1)(A). Pub. L. 109–281 inserted “and section 2918a of this title” after “Except as provided in subparagraph (B)”.
 
-1998—Subsec. (i)(1). Pub. L. 105–277 substituted “1998 (Public Law 105–78; 111 Stat. 1467)” for “1997 (Public Law 104–208; 110 Stat. 3009–234)”. The substitution was made to reflect the probable intent of Congress, in the absence of closing quotation marks designating the provisions to be inserted.
+<b>1998</b>—Subsec. (i)(1). Pub. L. 105–277 substituted “1998 (Public Law 105–78; 111 Stat. 1467)” for “1997 (Public Law 104–208; 110 Stat. 3009–234)”. The substitution was made to reflect the probable intent of Congress, in the absence of closing quotation marks designating the provisions to be inserted.
 
 #### Effective Date of 2006 Amendment
 

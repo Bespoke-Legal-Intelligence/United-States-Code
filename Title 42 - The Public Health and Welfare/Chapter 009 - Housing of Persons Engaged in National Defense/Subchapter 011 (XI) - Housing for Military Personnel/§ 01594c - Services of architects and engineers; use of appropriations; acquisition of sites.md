@@ -6,19 +6,15 @@ Whenever the Secretary of Defense or his designee determines that it is desirabl
 
 #### References in Text
 
-This title, referred to in text, means title IV of act Aug. 11, 1955, ch. 783, 69 Stat. 646, as amended, which enacted sections 1594 and 1594a, 1594b to 1594f of this title, amended sections 1720, 1748, and 1748a to 1748g of Title 12, Banks and Banking, and enacted provisions set out as a note under section 1748 of Title 12. For complete classification of this Act to the Code, see Tables.
-
-The civil service laws, referred to in text, are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
-The classification laws, referred to in text, are classified generally to chapter 51 (§5101 et seq.) and subchapter III (§5331 et seq.) of chapter 53 of Title 5.
+This title, referred to in text, means title IV of act Aug. 11, 1955, ch. 783, 69 Stat. 646, which enacted sections 1594 and 1594a, 1594b to 1594f of this title, amended sections 1720, 1748, and 1748a to 1748g of Title 12, Banks and Banking, and enacted provisions set out as a note under section 1748 of Title 12. For complete classification of this Act to the Code, see Tables.
 
 The United States Housing Act of 1937, referred to in text, is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
 #### Amendments
 
-1967—Pub. L. 90–19 substituted “Secretary of Housing and Urban Development” and “Department of Housing and Urban Development” for “Public Housing Administration” and “Federal Housing Administration” in first sentence and first proviso and for “Federal Housing Administration” in penultimate sentence and “Secretary of Defense” for “Secretary” in third proviso and last two sentences, respectively.
+<b>1967</b>—Pub. L. 90–19 substituted “Secretary of Housing and Urban Development” and “Department of Housing and Urban Development” for “Public Housing Administration” and “Federal Housing Administration” in first sentence and first proviso and for “Federal Housing Administration” in penultimate sentence and “Secretary of Defense” for “Secretary” in third proviso and last two sentences, respectively.
 
-1956—Act Aug. 7, 1956, inserted second proviso requiring plans, drawings, and specifications to follow the principle of modular measure, so the housing may be built by conventional construction, on-site fabrication, factory precutting, factory fabrication, or any combination of these construction methods.
+<b>1956</b>—Act Aug. 7, 1956, inserted second proviso requiring plans, drawings, and specifications to follow the principle of modular measure, so the housing may be built by conventional construction, on-site fabrication, factory precutting, factory fabrication, or any combination of these construction methods.
 
 #### Transfer of Functions
 

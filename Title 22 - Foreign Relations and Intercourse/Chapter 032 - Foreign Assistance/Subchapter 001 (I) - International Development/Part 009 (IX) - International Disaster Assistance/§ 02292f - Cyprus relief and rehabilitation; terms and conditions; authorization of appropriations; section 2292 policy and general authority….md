@@ -6,7 +6,7 @@ The President is authorized to furnish assistance, on such terms and conditions 
 
 #### Amendments
 
-1976—Pub. L. 94–329 substituted “$40,000,000” for “$30,000,000”.
+<b>1976</b>—Pub. L. 94–329 substituted “$40,000,000” for “$30,000,000”.
 
 #### Delegation of Functions
 

@@ -12,5 +12,5 @@ Based on 44 U.S. Code, 1964 ed., §166 (Jan. 12, 1895, ch. 23, §71, 28 Stat. 61
 
 #### Amendments
 
-1996—Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives” for “Doorkeeper of the House”.
+<b>1996</b>—Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives” for “Doorkeeper of the House”.
 

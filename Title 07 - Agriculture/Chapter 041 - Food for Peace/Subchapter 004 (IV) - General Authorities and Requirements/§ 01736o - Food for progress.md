@@ -146,7 +146,7 @@ In entering into agreements under this section, the President shall take reasona
 
 #### (1) In general
 
-&emsp;In carrying out this section, the President, on request and subject to the availability ofeligible commodities, is encouraged to approve agreements that provide for eligible commodities to be made available for distribution or sale by the recipient on a multicountry or multiyear basis if the agreements otherwise meet the requirements of this section.
+&emsp;In carrying out this section, the President, on request and subject to the availability of eligible commodities, is encouraged to approve agreements that provide for eligible commodities to be made available for distribution or sale by the recipient on a multicountry or multiyear basis if the agreements otherwise meet the requirements of this section.
 
 #### (2) Deadline for program announcements
 
@@ -300,7 +300,7 @@ Pub. L. 107–171, §3106(e)(2), which directed substitution of “$40,000,000�
 
 Subsec. (f)(5). Pub. L. 107–171, §3009(b)(2), added par. (5).
 
-Subsec. (g). Pub. L. 107–171, §3106(f), added subsec. (g) and struck out former subsec. (g) which read as follows:“Not more than 500,000 metric tons of commodities may be furnished under this section in each of the fiscal years 1986 through 2002.”
+Subsec. (g). Pub. L. 107–171, §3106(f), added subsec. (g) and struck out former subsec. (g) which read as follows: “Not more than 500,000 metric tons of commodities may be furnished under this section in each of the fiscal years 1986 through 2002.”
 
 Subsec. (h). Pub. L. 107–171, §3106(b)(2)(D), (g), inserted heading and substituted “eligible commodities” for “commodities”.
 
@@ -340,7 +340,7 @@ Subsec. (j). Pub. L. 104–127, §227(5), substituted “may” for “shall”.
 
 Subsec. (k). Pub. L. 104–127, §227(6), substituted “2002” for “1995”.
 
-Subsec. (<i>l</i>)(1). Pub. L. 104–127, §227(7), substituted “1996 through 2002” for “1991 through 1995” and inserted “, and to provide technical assistance for monetization programs,” after “monitoring of food assistance programs”.
+Subsec. (<i>l</i>)(1). Pub. L. 104–127, §227(7), substituted “1996 through 2002” for “1991 through 1995” and inserted“, and to provide technical assistance for monetization programs,” after “monitoring of food assistance programs”.
 
 Subsec. (m). Pub. L. 104–127, §227(8), in introductory provisions, struck out “with respect to the independent states of the former Soviet Union” after “this section” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”, and in par. (2), struck out “in the independent states” after “the use” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”.
 

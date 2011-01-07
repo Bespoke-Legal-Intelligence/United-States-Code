@@ -6,17 +6,17 @@ Every contract, combination in the form of trust or otherwise, or conspiracy, in
 
 #### Amendments
 
-2004—Pub. L. 108–237 substituted “$100,000,000” for “$10,000,000”, “$1,000,000” for “$350,000”, and “10” for “three”.
+<b>2004</b>—Pub. L. 108–237 substituted “$100,000,000” for “$10,000,000”, “$1,000,000” for “$350,000”, and “10” for “three”.
 
-1990—Pub. L. 101–588 substituted “$10,000,000” for “one million dollars” and “$350,000” for “one hundred thousand dollars”.
+<b>1990</b>—Pub. L. 101–588 substituted “$10,000,000” for “one million dollars” and “$350,000” for “one hundred thousand dollars”.
 
-1975—Pub. L. 94–145 struck out from first sentence two provisos granting anti-trust exemption to State fair trade laws.
+<b>1975</b>—Pub. L. 94–145 struck out from first sentence two provisos granting anti-trust exemption to State fair trade laws.
 
-1974—Pub. L. 93–528 substituted “a felony, and, on conviction thereof, shall be punished by fine not exceeding one million dollars if a corporation, or, if any other person, one hundred thousand dollars, or by imprisonment not exceeding three years” for “a misdemeanor, and on conviction thereof, shall be punished by fine not exceeding fifty thousand dollars, or by imprisonment not exceeding one year”.
+<b>1974</b>—Pub. L. 93–528 substituted “a felony, and, on conviction thereof, shall be punished by fine not exceeding one million dollars if a corporation, or, if any other person, one hundred thousand dollars, or by imprisonment not exceeding three years” for “a misdemeanor, and on conviction thereof, shall be punished by fine not exceeding fifty thousand dollars, or by imprisonment not exceeding one year”.
 
-1955—Act July 7, 1955, substituted “fifty thousand dollars” for “five thousand dollars”.
+<b>1955</b>—Act July 7, 1955, substituted “fifty thousand dollars” for “five thousand dollars”.
 
-1937—Act Aug. 17, 1937, inserted two provisos.
+<b>1937</b>—Act Aug. 17, 1937, inserted two provisos.
 
 #### Effective Date of 2001 Amendment
 
@@ -32,11 +32,11 @@ Pub. L. 111–30, §1, June 19, 2009, 123 Stat. 1775, provided that: “This Act
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–327, §1, Sept. 30, 2008, 122 Stat. 3566, provided that: “This Act \[amending provisions set out as a note under this section\] may be cited as the ‘Need-Based Educational Aid Act of 2008’.”
+Pub. L. 110–327, §1, Sept. 30, 2008, 122 Stat. 3566, provided that: “This Act \[amending provisions set out asa note under this section\] may be cited as the ‘Need-Based Educational Aid Act of 2008’.”
 
 #### Short Title of 2007 Amendment
 
-Pub. L. 110–6, §1, Feb. 26, 2007, 121 Stat. 61, provided that: “This Act \[amending provisions set out as a noteunder this section\] may be cited as the ‘Antitrust Modernization Commission Extension Act of 2007’.”
+Pub. L. 110–6, §1, Feb. 26, 2007, 121 Stat. 61, provided that: “This Act \[amending provisions set out as a note under this section\] may be cited as the ‘Antitrust Modernization Commission Extension Act of 2007’.”
 
 #### Short Title of 2004 Amendment
 
@@ -98,17 +98,23 @@ Pub. L. 94–435, title III, §305(a), Sept. 30, 1976, 90 Stat. 1397, added imme
 
 #### Antitrust Enforcement Enhancements and Cooperation Incentives
 
-Pub. L. 108–237, title II, §§211–214, June 22, 2004, 118 Stat. 666, 667, as amended by Pub. L. 111–30, §2, June 19, 2009, 123 Stat. 1775, provided that:
+Pub. L. 108–237, title II, §§211–214, June 22, 2004, 118 Stat. 666, 667, as amended by Pub. L. 111–30, §2, June 19, 2009, 123 Stat. 1775; Pub. L. 111–190, §§1–4, June 9, 2010, 124 Stat. 1275, 1276, provided that:
 
 #### “SEC. 211. SUNSET.
 
 “(a)
 
-In General.—Except as provided in subsection (b), the provisions of sections 211 through 214 shall cease to have effect 6 years after the date of enactment of this Act \[June 22, 2004\].
+In General.—Except as provided in subsection (b), the provisions of sections 211 through 214 of this subtitle \[this note\] shall cease to have effect 16 years after the date of enactment of this Act \[June 22, 2004\].
 
 “(b)
 
-Exception.—With respect to an applicant who has entered into an antitrust leniency agreement on or before the date on which the provisions of sections 211 through 214 of this subtitle \[this note\] shall cease to have effect, the provisions of sections 211 through 214 of this subtitle shall continue in effect.
+Exceptions.—With respect to—
+
+&emsp;“(1) a person who receives a marker on or before the date on which the provisions of section 211 through 214 of this subtitle shall cease to have effect that later results in the execution of an antitrust leniency agreement; or
+
+&emsp;“(2) an applicant who has entered into an antitrust leniency agreement on or before the date on which the provisions of sections 211 through 214 of this subtitle shall cease to have effect,
+
+> the provisions of sections 211 through 214 of this subtitle shall continue in effect.
 
 #### “SEC. 212. DEFINITIONS.
 
@@ -136,6 +142,10 @@ Cooperating individual.—The term ‘cooperating individual’ means, with resp
 
 &emsp;“(6)
 
+Marker.—The term ‘marker’ means an assurance given by the Antitrust Division to a candidate for corporate leniency that no other company will be considered for leniency, for some finite period of time, while the candidate is given an opportunity to perfect its leniency application.
+
+&emsp;“(7)
+
 Person.—The term ‘person’ has the meaning given it in subsection (a) of the first section of the Clayton Act \[15 U.S.C. 12(a)\].
 
 #### “SEC. 213. LIMITATION ON RECOVERY.
@@ -162,9 +172,13 @@ Requirements.—Subject to subsection (c), an antitrust leniency applicant or co
 
 “(c)
 
-Timeliness.—If the initial contact by the antitrust leniency applicant with the Antitrust Division regarding conduct covered by the antitrust leniency agreement occurs after a State, or subdivision of a State, has issued compulsory process in connection with an investigation of allegations of a violation of section 1 or 3 of the Sherman Act \[15 U.S.C. 1, 3\] or any similar State law based on conduct covered by the antitrust leniency agreement or after a civil action described in subsection (a) has been filed, then the court shall consider, in making the determination concerning satisfactory cooperation described in subsection (b), the timeliness of the applicant's initial cooperation with the claimant.
+Timeliness.—The court shall consider, in making the determination concerning satisfactory cooperation described in subsection (b), the timeliness of the applicant's or cooperating individual's cooperation with the claimant.
 
 “(d)
+
+Cooperation After Expiration of Stay or Protective Order.—If the Antitrust Division does obtain a stay or protective order in a civil action based on conduct covered by an antitrust leniency agreement, once the stay or protective order, or a portion thereof, expires or is terminated, the antitrust leniency applicant and cooperating individuals shall provide without unreasonable delay any cooperation described in paragraphs (1) and (2) of subsection (b) that was prohibited by the expired or terminated stay or protective order, or the expired or terminated portion thereof, in order for the cooperation to be deemed satisfactory under such paragraphs.
+
+“(e)
 
 Continuation.—Nothing in this section shall be construed to modify, impair, or supersede the provisions of sections 4, 4A, and 4C of the Clayton Act \[15 U.S.C. 15, 15a, 15c\] relating to the recovery of costs of suit, including a reasonable attorney's fee, and interest on damages, to the extent that such recovery is authorized by such sections.
 
@@ -172,11 +186,13 @@ Continuation.—Nothing in this section shall be construed to modify, impair, or
 
 “Nothing in this subtitle \[subtitle A (§§211–215) of title II of Pub. L. 108–237, amending this section and sections 2 and 3 of this title and enacting this note\] shall be construed to—
 
-&emsp;“(1) affect the rights of the Antitrust Division to seek a stay or protective order in a civil action based on conduct covered by an antitrust leniency agreement to prevent the cooperation described in section 213(b) from impairing or impeding the investigation or prosecution by the Antitrust Division of conduct covered by the agreement;
+&emsp;“(1) affect the rights of the Antitrust Division to seek a stay or protective order in a civil action based on conduct covered by an antitrust leniency agreement to prevent the cooperation described in section 213(b) of this subtitle from impairing or impeding the investigation or prosecution by the Antitrust Division of conduct covered by the agreement;
 
 &emsp;“(2) create any right to challenge any decision by the Antitrust Division with respect to an antitrust leniency agreement; or
 
-&emsp;“(3) affect, in any way, the joint and several liability of any party to a civil action described in section 213(a), other than that of the antitrust leniency applicant and cooperating individuals as provided in section 213(a) of this title.”
+&emsp;“(3) affect, in any way, the joint and several liability of any party to a civil action described in section 213(a) of this subtitle, other than that of the antitrust leniency applicant and cooperating individuals as provided in section 213(a) of this subtitle.”
+
+\[Pub. L. 111–190, §6, June 9, 2010, 124 Stat. 1276, provided that: “The amendments made by section 1 \[amending section 211 of Pub. L. 108–237, set out above\] shall take effect immediately before June 22, 2010.”\]
 
 \[Pub. L. 111–30, §3, June 19, 2009, 123 Stat. 1775, provided that: “The amendment made by section 2 \[amending section 211(a) of Pub. L. 108–237, set out above\] shall take effect immediately before June 22, 2009.”\]
 
@@ -322,7 +338,7 @@ Expenditures and Contracts.—The Commission or, on authorization of the Commiss
 
 “(e)
 
-Mails.—The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
+Mails.—The Commission may use the United States mails in the same manner and under the sameconditions as other departments and agencies of the United States.
 
 “(f)
 
@@ -342,7 +358,7 @@ Gifts, Bequests, and Devises.—The Commission may accept, use, and dispose of g
 
 #### Year 2000 Information and Readiness Disclosure
 
-Pub. L. 105–271, Oct. 19, 1998, 112 Stat. 2386, as amended by Pub. L. 107–273, div. C, title IV, §14102(e), Nov. 2,2002, 116 Stat. 1922, known as the Year 2000 Information and Readiness Disclosure Act, provided for the free disclosure and exchange of information about computer processing problems, solutions, test practices and test results, and related matters in connection with the transition to the year 2000.
+Pub. L. 105–271, Oct. 19, 1998, 112 Stat. 2386, as amended by Pub. L. 107–273, div. C, title IV, §14102(e), Nov. 2, 2002, 116 Stat. 1922, known as the Year 2000 Information and Readiness Disclosure Act, provided for the free disclosure and exchange of information about computer processing problems, solutions, test practices and test results, and related matters in connection with the transition to the year 2000.
 
 #### Application of Antitrust Laws to Award of Need-Based Educational Aid
 
@@ -458,7 +474,7 @@ Exemption.—It shall not be unlawful under the antitrust laws for 2 or more ins
 
 Limitations.—Subsection (a) shall not apply with respect to—
 
-&emsp;“(1) any financial aid or assistance authorized by the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.); or
+&emsp;“(1) any financial aid or assistance authorized by the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) \[and 42 U.S.C. 2751 et seq.\]; or
 
 &emsp;“(2) any contract, combination, or conspiracy with respect to the amount or terms of any prospective financial aid award to a specific individual.
 

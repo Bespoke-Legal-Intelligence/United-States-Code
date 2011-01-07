@@ -24,11 +24,11 @@ For the purpose of this chapter:
 
 #### Amendments
 
-2002—Par. (5). Pub. L. 107–306 added par. (5).
+<b>2002</b>—Par. (5). Pub. L. 107–306 added par. (5).
 
-1998—Par. (3). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
+<b>1998</b>—Par. (3). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
 
-1996—Par. (4). Pub. L. 104–201 added par. (4).
+<b>1996</b>—Par. (4). Pub. L. 104–201 added par. (4).
 
 #### Effective Date of 1998 Amendment
 

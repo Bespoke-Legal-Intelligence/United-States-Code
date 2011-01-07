@@ -6,7 +6,7 @@ The purpose of this section is to reduce the cost of information support for the
 
 #### (b) “Legislative information” defined
 
-As used in this section, the term “legislative information” means information, prepared within the legislative branch, consisting of the textof publicly available bills, amendments, committee hearings, and committee reports, the text of the Congressional Record, data relating to bill status, data relating to legislative activity, and other similar public information that is directly related to the legislative process.
+As used in this section, the term “legislative information” means information, prepared within the legislative branch, consisting of the text of publicly available bills, amendments, committee hearings, and committee reports, the text of the Congressional Record, data relating to bill status, data relating to legislative activity, and other similar public information that is directly related to the legislative process.
 
 #### (c) Development of single system to serve entire Congress
 

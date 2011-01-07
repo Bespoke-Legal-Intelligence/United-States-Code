@@ -150,15 +150,15 @@ A prior section 1918 of act July 1, 1944, was classified to section 300x–6 of 
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–310 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “With respect to fiscal year 2000, the amount of the allotment of a State under section 300x of this title shall not be less than the amount the State received under section 300x of this title for fiscal year 1998.”
+<b>2000</b>—Subsec. (b). Pub. L. 106–310 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “With respect to fiscal year 2000, the amount of the allotment of a State under section 300x of this title shall not be less than the amount the State received under section 300x of this title for fiscal year 1998.”
 
-1999—Subsec. (b). Pub. L. 106–113 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “For each of the fiscal years 1993 and 1994, the amount of the allotment required in section 300x of this title for a State for the fiscal year involved shall be the greater of—
+<b>1999</b>—Subsec. (b). Pub. L. 106–113 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “For each of the fiscal years 1993 and 1994, the amount of the allotment required in section 300x of this title for a State for the fiscal year involved shall be the greater of—
 
 &emsp;“(1) the amount determined under subsection (a) of this section for the State for the fiscal year; and
 
 &emsp;“(2) an amount equal to 20.6 percent of the amount received by the State from allotments made pursuant to this part for fiscal year 1992 (including reallotments under section 205(a) of the ADAMHA Reorganization Act).”
 
-1998—Subsec. (b). Pub. L. 105–277, temporarily amended subsec. (b) to read as follows: “(b)
+<b>1998</b>—Subsec. (b). Pub. L. 105–277, temporarily amended subsec. (b) to read as follows: “(b)
 
 Minimum allotments for States.—
 
@@ -168,7 +168,7 @@ In general.—With respect to fiscal year 1999, the amount of the allotment of a
 
 > See Effective and Termination Dates of 1998 Amendment note below.
 
-1992—Subsec. (a)(5)(A)(iii). Pub. L. 102–352, §2(a)(8), substituted “45” for “25”.
+<b>1992</b>—Subsec. (a)(5)(A)(iii). Pub. L. 102–352, §2(a)(8), substituted “45” for “25”.
 
 Subsec. (c)(2)(C). Pub. L. 102–352, §2(a)(9), added subpar. (C).
 

@@ -26,3 +26,5 @@ Before December 31, 1979, the President shall submit a report to Congress in whi
 
 Section 760a of title 15, referred to in subsec. (b), was omitted from the Code pursuant to section 760g of Title 15, Commerce and Trade, which provided for the expiration of the President's authority under that section on Sept. 30, 1981.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

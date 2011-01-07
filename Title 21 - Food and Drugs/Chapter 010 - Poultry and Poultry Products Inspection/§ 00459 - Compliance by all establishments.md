@@ -26,9 +26,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §11017(b), inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+<b>2008</b>—Pub. L. 110–246, §11017(b), inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
-1968—Pub. L. 90–492 substituted “otherwise subject to this chapter” for “in or for marketing in a designated major consuming area”.
+<b>1968</b>—Pub. L. 90–492 substituted “otherwise subject to this chapter” for “in or for marketing in a designated major consuming area”.
 
 #### Effective Date of 2008 Amendment
 

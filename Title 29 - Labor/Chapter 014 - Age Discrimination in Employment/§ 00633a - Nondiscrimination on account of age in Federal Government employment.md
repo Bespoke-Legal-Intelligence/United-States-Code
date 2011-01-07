@@ -46,17 +46,17 @@ The amendments made to this section by the Age Discrimination in Employment Act 
 
 #### Amendments
 
-2009—Subsec. (f). Pub. L. 111–2 substituted “of sections 626(d)(3) and” for “of section”.
+<b>2009</b>—Subsec. (f). Pub. L. 111–2 substituted “of sections 626(d)(3) and” for “of section”.
 
-2006—Subsec. (a). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-2004—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1998—Subsec. (a). Pub. L. 105–220 inserted “in the Smithsonian Institution,” before “and in the Government Printing Office”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–220 inserted “in the Smithsonian Institution,” before “and in the Government Printing Office”.
 
-1995—Subsec. (a). Pub. L. 104–1 substituted “units of the judicial branch” for “units of the legislative and judicial branches” and inserted “Government Printing Office, the General Accounting Office, and the” before “Library of Congress”.
+<b>1995</b>—Subsec. (a). Pub. L. 104–1 substituted “units of the judicial branch” for “units of the legislative and judicial branches” and inserted “Government Printing Office, the General Accounting Office, and the” before “Library of Congress”.
 
-1978—Subsec. (a). Pub. L. 95–256, §5(a), inserted age requirement of at least 40 years of age, and “personnel actions” after “except”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–256, §5(a), inserted age requirement of at least 40 years of age, and “personnel actions” after “except”.
 
 Subsecs. (f), (g). Pub. L. 95–256, §5(e), added subsecs. (f) and (g).
 

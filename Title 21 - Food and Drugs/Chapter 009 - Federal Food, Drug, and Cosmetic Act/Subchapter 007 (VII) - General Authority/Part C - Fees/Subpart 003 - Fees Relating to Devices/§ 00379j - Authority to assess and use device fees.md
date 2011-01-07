@@ -319,7 +319,7 @@ The Indian Self Determination and Educational Assistance Act, referred to in sub
 
 #### Amendments
 
-2007—Subsec. (a)(1). Pub. L. 110–85, §§212(a)(1)(A), 217, temporarily substituted “Beginning in fiscal year 2008” for “Beginning on October 26, 2002”. See Effective and Termination Dates of 2007 Amendment note below.
+<b>2007</b>—Subsec. (a)(1). Pub. L. 110–85, §§212(a)(1)(A), 217, temporarily substituted “Beginning in fiscal year 2008” for “Beginning on October 26, 2002”. See Effective and Termination Dates of 2007 Amendment note below.
 
 Subsec. (a)(2). Pub. L. 110–85, §§212(a)(1)(B), 217, temporarily amended heading generally. Prior to amendment, heading read as follows: “Premarket application, premarket report, supplement, and submission fee”. See Effective and Termination Dates of 2007 Amendment note below.
 
@@ -387,7 +387,7 @@ Subsec. (h)(3). Pub. L. 110–85, §§212(h)(1), 217, temporarily amended par. (
 
 Subsec. (h)(4). Pub. L. 110–85, §§212(h)(2), 217, temporarily amended par. (4) generally. Prior to amendment, text read as follows: “Any amount of fees collected for a fiscal year under this section that exceeds the amount of fees specified in appropriation Acts for such fiscal year shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for a subsequent fiscal year.” See Effective and Termination Dates of 2007 Amendment note below.
 
-2005—Subsec. (a)(2)(A). Pub. L. 109–43, §2(a)(7), substituted “subsection (c)(1)” for “subsection (c)(5)”.
+<b>2005</b>—Subsec. (a)(2)(A). Pub. L. 109–43, §2(a)(7), substituted “subsection (c)(1)” for “subsection (c)(5)”.
 
 Subsec. (b). Pub. L. 109–43, §2(a)(1), inserted “and” after “2004;” and substituted “2005” for “2005; $32,615,000 in fiscal year 2006, and $35,000,000 in fiscal year 2007”.
 
@@ -435,7 +435,7 @@ Subsec. (h)(3)(D), (E). Pub. L. 109–43, §2(a)(6), added subpar. (D) and struc
 
 “(E) $35,000,000 for fiscal year 2007,”.
 
-2004—Pub. L. 108–214, §2(d)(3)(A), made technical correction to directory language of Pub. L. 107–250, §102(a), which enacted this section.
+<b>2004</b>—Pub. L. 108–214, §2(d)(3)(A), made technical correction to directory language of Pub. L. 107–250, §102(a), which enacted this section.
 
 Subsec. (a). Pub. L. 108–214, §2(d)(2)(A), designated introductory provisions of subsec. (a) as par. (1), inserted heading, substituted “this section.” for “this section as follows:”, and redesignated former par. (1) as (2).
 

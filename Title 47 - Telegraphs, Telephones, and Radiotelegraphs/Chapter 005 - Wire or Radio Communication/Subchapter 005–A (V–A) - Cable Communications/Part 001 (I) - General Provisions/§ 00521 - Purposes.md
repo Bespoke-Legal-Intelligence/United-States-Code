@@ -18,7 +18,7 @@ The purposes of this subchapter are to—
 
 #### Effective Date
 
-Section 9(a) of Pub. L. 98–549 provided that: “Except where otherwise expressly provided, the provisions of this Act \[enacting this subchapter and section 611 of this title, amending sections 152, 224, 309, and 605 of this title, section 2511 of Title 18, Crimes and Criminal Procedure, and section 1805 of Title 50, War and National Defense, and enacting provisions set out as notes under this section and sections 543, 605, and 609 of this title\]and the amendments made thereby shall take effect 60 days after the date of enactment of this Act \[Oct. 30, 1984\].”
+Section 9(a) of Pub. L. 98–549 provided that: “Except where otherwise expressly provided, the provisions of this Act \[enacting this subchapter and section 611 of this title, amending sections 152, 224, 309, and 605 of this title, section 2511 of Title 18, Crimes and Criminal Procedure, and section 1805 of Title 50, War and National Defense, and enacting provisions set out as notes under this section and sections 543, 605, and 609 of this title\] and the amendments made thereby shall take effect 60 days after the date of enactment of this Act \[Oct. 30, 1984\].”
 
 #### Short Title
 
@@ -102,7 +102,7 @@ Pub. L. 102–385, §26, Oct. 5, 1992, 106 Stat. 1502, directed Federal Communic
 
 #### Applicability of Antitrust Laws to Pub. L. 102–385
 
-Pub. L. 102–385, §27, Oct. 5, 1992, 106 Stat. 1503, provided that: “Nothing in this Act \[enacting sections 334, 335, 534 to 537, 544a, 548, and 555a of this title, amending sections 325, 332, 522, 532, 533, 541 to 544, 546, 551 to 555, and 558 of this title, and enacting provisions set out as notes under this section and sections 325, 531, 543, and 554 of this title\] or the amendments made by this Act shall be construed to alter or restrict in any manner the applicability of any Federal or State antitrust law.”
+Pub. L. 102–385, §27, Oct. 5, 1992, 106 Stat. 1503, provided that: “Nothing in this Act \[enacting sections 334, 335, 534 to 537, 544a, 548, and 555a of this title, amending sections 325, 332, 522, 532, 533, 541 to 544, 546, 551 to 555, and 558 of this title, and enacting provisions set out as notes under this section and sections 325, 531, 543, and 554 of this title\] or the amendments made by this Actshall be construed to alter or restrict in any manner the applicability of any Federal or State antitrust law.”
 
 #### Effect of Cable Communications Policy Act of 1984 on Jurisdiction of Federal Communications Commission Respecting Wire or Radio Communications Through Cable Systems
 

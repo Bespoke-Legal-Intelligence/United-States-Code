@@ -30,7 +30,7 @@
 
 #### Amendments
 
-1984—Pub. L. 98–216, §3(d)(1), Feb. 14, 1984, 98 Stat. 6, substituted “Presidential” for “Bureau of Budget” in item 1108.
+<b>1984</b>—Pub. L. 98–216, §3(d)(1), Feb. 14, 1984, 98 Stat. 6, substituted “Presidential” for “Bureau of Budget” in item 1108.
 
 #### Federal Records Management Provisions Without Effect on Chapter
 

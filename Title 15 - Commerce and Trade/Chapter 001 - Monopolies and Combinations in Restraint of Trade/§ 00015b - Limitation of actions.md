@@ -12,7 +12,7 @@ This Act, referred to in text, probably refers to act July 7, 1955.
 
 #### Amendments
 
-1976—Pub. L. 94–435 substituted “section 15, 15a, or 15c” for “sections 15 or 15a”.
+<b>1976</b>—Pub. L. 94–435 substituted “section 15, 15a, or 15c” for “sections 15 or 15a”.
 
 #### Effective Date
 

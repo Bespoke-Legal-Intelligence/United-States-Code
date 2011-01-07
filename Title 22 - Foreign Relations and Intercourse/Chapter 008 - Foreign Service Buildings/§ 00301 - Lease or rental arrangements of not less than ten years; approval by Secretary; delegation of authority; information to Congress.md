@@ -2,7 +2,7 @@
 
 #### (a) Leases
 
-Notwithstanding the provisions of this chapter or any other Act, no lease or other rental arrangement for a period of less than ten years, and requiring an annual payment in excess of $50,000 shall be entered into by the Secretary of State for the purpose of renting or leasing offices, buildings, grounds, or living quarters for the use of the Foreign Service abroad, unless such lease or other rental arrangement is approved by the Secretary. The Secretary may delegate his authority under this section only tothe Deputy Under Secretary of State for Administration or to the Director of the Office of Foreign Buildings. The Secretary shall keep the Congress fully and currently informed with respect to leases or other rental arrangements approved under this section.
+Notwithstanding the provisions of this chapter or any other Act, no lease or other rental arrangement for a period of less than ten years, and requiring an annual payment in excess of $50,000 shall be entered into by the Secretary ofState for the purpose of renting or leasing offices, buildings, grounds, or living quarters for the use of the Foreign Service abroad, unless such lease or other rental arrangement is approved by the Secretary. The Secretary may delegate his authority under this section only to the Deputy Under Secretary of State for Administration or to the Director of the Office of Foreign Buildings. The Secretary shall keep the Congress fully and currently informed with respect to leases or other rental arrangements approved under this section.
 
 #### (b) Advance payments for long-term leases and lease purchase
 
@@ -12,7 +12,7 @@ The Secretary may, subject to the availability of appropriations, make advance p
 
 #### Amendments
 
-1991—Pub. L. 102–138 designated existing provisions as subsec. (a), inserted heading, substituted “$50,000” for “$25,000,”, and added subsec. (b).
+<b>1991</b>—Pub. L. 102–138 designated existing provisions as subsec. (a), inserted heading, substituted “$50,000” for “$25,000,”, and added subsec. (b).
 
 #### Authority of Secretary of State
 

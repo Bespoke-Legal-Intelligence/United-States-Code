@@ -102,7 +102,7 @@
 
 #### Part G—National Community Economic Partnership
 
-I74subpart 1—community economic partnership investment funds
+#### subpart 1—community economic partnership investment funds
 
 |  |  |
 | :--- | ---: |
@@ -204,7 +204,7 @@ I74subpart 1—community economic partnership investment funds
 
 #### Part A—Safe Streets for Women
 
-I74subpart 1—safety for women in public transit
+#### subpart 1—safety for women in public transit
 
 |  |  |
 | :--- | ---: |
@@ -224,7 +224,7 @@ I74subpart 1—safety for women in public transit
 
 #### Part B—Safe Homes for Women
 
-I74subpart 1—confidentiality for abused persons
+#### subpart 1—confidentiality for abused persons
 
 |  |  |
 | :--- | ---: |
@@ -276,7 +276,7 @@ I74subpart 1—confidentiality for abused persons
 
 #### Part D—Equal Justice for Women in Courts
 
-I74subpart 1—education and training for judges and court personnel in state courts
+#### subpart 1—education and training for judges and court personnel in state courts
 
 |  |  |
 | :--- | ---: |

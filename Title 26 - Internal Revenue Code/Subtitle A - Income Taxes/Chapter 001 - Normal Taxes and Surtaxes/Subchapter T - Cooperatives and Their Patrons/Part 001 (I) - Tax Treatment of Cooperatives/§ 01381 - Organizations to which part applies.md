@@ -30,7 +30,7 @@ An organization described in subsection (a)(1) shall be subject to the taxes imp
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–357 added subsec. (c).
+<b>2004</b>—Subsec. (c). Pub. L. 108–357 added subsec. (c).
 
 #### Effective Date of 2004 Amendment
 

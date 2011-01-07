@@ -22,3 +22,4 @@ Part B—General Provisions Respecting National Research Institutes
 - [&sect; 00284n - Certain demonstration projects](%C2%A7%2000284n%20-%20Certain%20demonstration%20projects.md)
 - [&sect; 00284o - Activities of the National Institutes of Health with respect to research on paralysis](%C2%A7%2000284o%20-%20Activities%20of%20the%20National%20Institutes%20of%20Health%20with%20respect%20to%20research%20on%20paralysis.md)
 - [&sect; 00284p - Activities of the National Institutes of Health with respect to research with implications for enhancing daily function for persons with&#8230;](%C2%A7%2000284p%20-%20Activities%20of%20the%20National%20Institutes%20of%20Health%20with%20respect%20to%20research%20with%20implications%20for%20enhancing%20daily%20function%20for%20persons%20with%E2%80%A6.md)
+- [&sect; 00284q - Pain research](%C2%A7%2000284q%20-%20Pain%20research.md)

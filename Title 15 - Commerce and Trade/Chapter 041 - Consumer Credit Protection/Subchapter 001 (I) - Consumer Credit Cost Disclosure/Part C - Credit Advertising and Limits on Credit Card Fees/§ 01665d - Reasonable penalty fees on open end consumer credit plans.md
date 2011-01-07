@@ -6,7 +6,7 @@ The amount of any penalty fee or charge that a card issuer may impose with respe
 
 #### (b) Rulemaking required
 
-The Board, in consultation with the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Director of the Office of Thrift Supervision, and the National Credit Union Administration Board, shall issue final rules not later than 9 months after May 22, 2009, to establish standards for assessing whether the amount of any penalty fee or charge described under subsection (a) is reasonable and proportional to the omission or violation to which the fee or charge relates. Subsection (a) shall become effective 15 months after May 22, 2009.
+The Board, in consultation with the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Director of the Office of Thrift Supervision, and the National Credit Union Administration Board, shall issue final rules not later than 9 months after May 22, 2009, to establish standards for assessing whether the amount of any penalty fee or charge described under subsection (a) isreasonable and proportional to the omission or violation to which the fee or charge relates. Subsection (a) shall become effective 15 months after May 22, 2009.
 
 #### (c) Considerations
 
@@ -22,13 +22,21 @@ In issuing rules required by this section, the Board shall consider—
 
 #### (d) Differentiation permitted
 
-In issuing rules required by this subsection, the Board may establish different standards fordifferent types of fees and charges, as appropriate.
+In issuing rules required by this subsection, the Board may establish different standards for different types of fees and charges, as appropriate.
 
 #### (e) Safe harbor rule authorized
 
 The Board, in consultation with the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Director of the Office of Thrift Supervision, and the National Credit Union Administration Board, may issue rules to provide an amount for any penalty fee or charge described under subsection (a) that is presumed to be reasonable and proportional to the omission or violation to which the fee or charge relates.
 
-(Pub. L. 90–321, title I, §149, as added Pub. L. 111–24, title I, §102(b)(1), May 22, 2009, 123 Stat. 1740.)
+(Pub. L. 90–321, title I, §149, as added Pub. L. 111–24, title I, §102(b)(1), May 22, 2009, 123 Stat. 1740; amended Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

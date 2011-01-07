@@ -68,13 +68,13 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### Amendments
 
-1989—Subsec. (b)(2)(B). Pub. L. 101–239, §7811(i)(6)(A), substituted “section 11(b)(1)” for “section 11(b)”.
+<b>1989</b>—Subsec. (b)(2)(B). Pub. L. 101–239, §7811(i)(6)(A), substituted “section 11(b)(1)” for “section 11(b)”.
 
 Subsec. (d)(2). Pub. L. 101–239, §7811(i)(6)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A foreign partner's share of any withholding tax paid by the partnership under this section shall be treated as distributed to such partner by such partnership on the last day of the partnership's taxable year (for which such tax was paid).”
 
 Subsec. (f). Pub. L. 101–239, §7811(i)(6)(C), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations providing for the application of this section in the case of publicly traded partnerships.”
 
-1988—Pub. L. 100–647 amended section generally, substituting provisions relating to withholding tax on foreign partners’ share of effectively connected income for provisions which related to withholding tax on amounts paid by partnerships to foreign partners.
+<b>1988</b>—Pub. L. 100–647 amended section generally, substituting provisions relating to withholding tax on foreign partners’ share of effectively connected income for provisions which related to withholding tax on amounts paid by partnerships to foreign partners.
 
 #### Effective Date of 1989 Amendment
 
@@ -87,4 +87,6 @@ Section 1012(s)(1)(D) of Pub. L. 100–647 provided that: “The amendments made
 #### Effective Date
 
 Section 1246(d) of Pub. L. 99–514 provided that: “The amendment made by this section \[enacting this section and amending section 6401 of this title\] shall apply to distributions after December 31, 1987 (or, if earlier, the effective date (which shall not be earlier than January 1, 1987) of the initial regulations issued under section 1446 of the Internal Revenue Code of 1986 as added by this section).”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
 

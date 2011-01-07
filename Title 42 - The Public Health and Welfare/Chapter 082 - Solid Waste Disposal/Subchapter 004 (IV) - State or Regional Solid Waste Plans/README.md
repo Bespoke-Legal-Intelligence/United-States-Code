@@ -1,7 +1,5 @@
 ### SUBCHAPTER IV—STATE OR REGIONAL SOLID WASTE PLANS
 
-<i><sup>1</sup></i><i> So in original. Probably should be “publicly”.</i>
-
 
 ---
 

@@ -10,7 +10,7 @@
 
 (4) Notwithstanding the requirement for eligibility and uses of funds in paragraphs (2) and (3), a railroad carrier is eligible for a grant under this section if the applicant uses the funds solely for the development of assessments or security plans under section 1162 of this title.
 
-(5) Notwithstanding the requirements for eligibility and uses of funds in paragraphs (2) and\(3), prior to the earlier of 1 year after the date of issuance of final regulations requiring vulnerability assessments and security plans under section 1162 of this title or 3 years after August 3, 2007, the Secretary may award grants under this section for rail security improvements listed under subsection (b) based upon railroad carrier vulnerability assessments and security plans that the Secretary determines are sufficient for the purposes of this section but have not been approved by the Secretary in accordance with section 1162 of this title.
+(5) Notwithstanding the requirements for eligibility and uses of funds in paragraphs (2) and (3), prior to the earlier of 1 year after the date of issuance of final regulations requiring vulnerability assessments and security plans under section 1162 of this title or 3 years after August 3, 2007, the Secretary may award grants under this section for rail security improvements listed under subsection (b) based upon railroad carrier vulnerability assessments and security plans that the Secretary determines are sufficient for the purposes of this section but have not been approved by the Secretary in accordance with section 1162 of this title.
 
 #### (b) Uses of funds
 
@@ -94,7 +94,7 @@ Each recipient of a grant under this section shall report annually to the Secret
 
 #### (g) Non-Federal match study
 
-Not later than 240 days after August 3, 2007, the Secretary shall provide a report to the appropriate congressional committees on the feasibility and appropriateness of requiring a non-Federal match for grants awarded to freightrailroad carriers and other private entities under this section.
+Not later than 240 days after August 3, 2007, the Secretary shall provide a report to the appropriate congressional committees on the feasibility and appropriateness of requiring a non-Federal match for grants awarded to freight railroad carriers and other private entities under this section.
 
 #### (h) Subject to certain standards
 

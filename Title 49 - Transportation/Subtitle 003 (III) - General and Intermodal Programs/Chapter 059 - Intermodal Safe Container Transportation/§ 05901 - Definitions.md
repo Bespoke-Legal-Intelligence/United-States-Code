@@ -4,7 +4,7 @@ In this chapter—
 
 &emsp;(1) except as otherwise provided in this chapter, the definitions in sections 10102 and 13102 of this title apply.
 
-&emsp;(2) “beneficial owner” means a person not having title to property but having ownership rights in the property, including a trustee of property in transit from an overseas place of origin that is domiciled or doing business in the United States, except that a carrier, agent of a carrier, broker, customs broker, freight forwarder, warehouser, or terminal operator is not a beneficial owner only because of providing or arranging for any part of the intermodal transportation of property.
+&emsp;(2) “beneficial owner” means a person not having title to property but having ownership rights in the property, including a trustee of property in transit from an overseas place of origin that is domiciled or doing business in the United States, except that a carrier, agent of a carrier, broker, customs broker, freightforwarder, warehouser, or terminal operator is not a beneficial owner only because of providing or arranging for any part of the intermodal transportation of property.
 
 &emsp;(3) “carrier” means—
 
@@ -12,7 +12,7 @@ In this chapter—
 
 &emsp;&emsp;(B) an ocean common carrier (as defined in section 40102 of title 46) providing transportation of property in commerce.
 
-&emsp;(4) “container” has the meaning given the term “freight container” by the InternationalStandards Organization in Series 1, Freight Containers, 3d Edition (reference number ISO668–1979(E)), including successive revisions, and similar containers that are used in providing transportation in interstate commerce.
+&emsp;(4) “container” has the meaning given the term “freight container” by the International Standards Organization in Series 1, Freight Containers, 3d Edition (reference number ISO668–1979(E)), including successive revisions, and similar containers that are used in providing transportation in interstate commerce.
 
 &emsp;(5) “first carrier” means the first carrier transporting a loaded container or trailer in intermodal transportation.
 
@@ -72,9 +72,9 @@ In clause (7), the words “property-carrying” are substituted for “cargo ca
 
 #### Amendments
 
-2006—Par. (3)(B). Pub. L. 109–304 substituted “section 40102 of title 46” for “section 3 of the Shipping Act of 1984 (46 App. U.S.C. 1702)”.
+<b>2006</b>—Par. (3)(B). Pub. L. 109–304 substituted “section 40102 of title 46” for “section 3 of the Shipping Act of 1984 (46 App. U.S.C. 1702)”.
 
-1996—Par. (1). Pub. L. 104–291, §203(1), added par. (1) and struck out former par. (1) which read as follows: “the definitions in section 10102 of this title apply.”
+<b>1996</b>—Par. (1). Pub. L. 104–291, §203(1), added par. (1) and struck out former par. (1) which read as follows: “the definitions in section 10102 of this title apply.”
 
 Pars. (6) to (8). Pub. L. 104–291, §203(2), (3), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 

@@ -8,17 +8,17 @@
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1761 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1761 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “3520” for “1720”.
 
-1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1980—Subsec. (a). Pub. L. 96–466 substituted “authorized” for “required” and “may provide additional counseling” for “may provide or require additional counseling”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–466 substituted “authorized” for “required” and “may provide additional counseling” for “may provide or require additional counseling”.
 
-1976—Subsec. (a). Pub. L. 94–502 substituted “if the Administrator deems” for “if he deems”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–502 substituted “if the Administrator deems” for “if he deems”.
 
-1966—Subsec. (a). Pub. L. 89–358 redesignated subsec. (b) as (a) and struck out provisions of former subsec. (a) for audit and review of payments by the GAO as provided by Budget and Accounting Act of 1921 and Budget and Accounting Procedures Act of 1950.
+<b>1966</b>—Subsec. (a). Pub. L. 89–358 redesignated subsec. (b) as (a) and struck out provisions of former subsec. (a) for audit and review of payments by the GAO as provided by Budget and Accounting Act of 1921 and Budget and Accounting Procedures Act of 1950.
 
 Subsec. (b). Pub. L. 89–358 redesignated subsec. (d) as (b). Former subsec. (b) redesignated (a).
 

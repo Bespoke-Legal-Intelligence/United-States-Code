@@ -32,7 +32,7 @@ Dissemination of results.—The research results of the program, expressed in te
 
 Program Administration.—In carrying out the program under this section, the National Research Council shall ensure, to the maximum extent practicable, that—
 
-&emsp;(1) projects and researchers are selected to conduct research for the program on the basis of merit and open solicitation of proposals and review by panels of appropriate experts;
+&emsp;(1) projects and researchers are selected to conduct research for the program on the basisof merit and open solicitation of proposals and review by panels of appropriate experts;
 
 &emsp;(2) State department of transportation officials and other stakeholders, as appropriate, are involved in the governance of the program at the overall program level and technical level through the use of expert panels and committees;
 
@@ -72,7 +72,7 @@ Consultation.—In developing the report, the Transportation Research Board shal
 
 &emsp;(4)
 
-Submission.—Not later than February 1, 2009, the report shall be submitted to the Committee on Environment and Public Works ofthe Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+Submission.—Not later than February 1, 2009, the report shall be submitted to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 (f)
 
@@ -106,11 +106,19 @@ Treatment.—Employees of the National Academy of Sciences and other individuals
 
 Sources of payments.—Payment of any award, compromise, or settlement of a civil action or proceeding with respect to a claim described in paragraph (1) shall be paid first out of insurance maintained by the National Academy of Sciences, second from funds made available to carry out this section, and then from sums made available under section 1304 of title 31. For purposes of such section, such an award, compromise, or settlement shall be deemed to be a judgment, award, or settlement payable under section 2414 or 2672 of title 28. The Secretary may establish a reserve of funds to carry out this section for making payments under this paragraph.
 
-(Added Pub. L. 109–59, title V, §5210(a), Aug. 10, 2005, 119 Stat. 1801.)
+(h)
+
+Implementation.—Notwithstanding any other provision of this section, the Secretary may use funds made available to carry out this section for implementation of research products related to the future strategic highway research program, including development, demonstration, evaluation, and technology transfer activities.
+
+(Added Pub. L. 109–59, title V, §5210(a), Aug. 10, 2005, 119 Stat. 1801; amended Pub. L. 111–322, title II, §2203(d), Dec. 22, 2010, 124 Stat. 3526.)
 
 #### Prior Provisions
 
 A prior section 510, added Pub. L. 91–605, title I, §117(b), Dec. 31, 1970, 84 Stat. 1724, related to construction of replacement housing, prior to repeal by Pub. L. 91–646, title II, §220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
 Another prior section 510 was renumbered section 511 of this title and subsequently repealed.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (h). Pub. L. 111–322 added subsec. (h).
 

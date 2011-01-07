@@ -36,7 +36,7 @@ Except as provided in subsection (c)(3) of this section, the members of a State 
 
 &emsp;&emsp;(H) An individual between the ages of 16 and 25 who is a participant or supervisor in a program.
 
-&emsp;&emsp;(I) A representative of a national service program described in subsection (a), (b), or (c) of section 12572.
+&emsp;&emsp;(I) A representative of a national service program described in subsection (a), (b), or (c) of section 12572 of this title.
 
 &emsp;&emsp;(J) A representative of the volunteer sector.
 
@@ -64,7 +64,7 @@ Except as provided in subsection (c)(3) of this section, the members of a State 
 
 #### (5) Limitation on number of State employees as members
 
-&emsp;The number of voting members of a State Commission selected under paragraph (1) or (2)who are officers or employees of the State may not exceed 25 percent (reduced to the nearest whole number) of the total membership of the State Commission.
+&emsp;The number of voting members of a State Commission selected under paragraph (1) or (2) who are officers or employees of the State may not exceed 25 percent (reduced to the nearest whole number) of the total membership of the State Commission.
 
 #### (d) Miscellaneous matters
 
@@ -134,7 +134,7 @@ The State Commission or alternative administrative entity for a State shall be r
 
 &emsp;&emsp;(G) is updated annually, reflecting changes in practices and policies that will improve the coordination and effectiveness of Federal, State, and local resources for service and volunteerism within the State;
 
-&emsp;&emsp;(H) ensures outreach to, and coordination with, municipalities (including large cities)and county governments regarding the national service laws; and
+&emsp;&emsp;(H) ensures outreach to, and coordination with, municipalities (including large cities) and county governments regarding the national service laws; and
 
 &emsp;&emsp;(I) contains such information as the State Commission considers to be appropriate or as the Corporation may require.
 
@@ -152,7 +152,7 @@ The State Commission or alternative administrative entity for a State shall be r
 
 &emsp;&emsp;(B) to apply for assistance under the national service laws using, if appropriate, information and materials available through a clearinghouse established under section 12653a <sup>1</sup> of this title.
 
-&emsp;(7) Assistance in the provision of health care and child care benefits under section 12594 of this title to participants in national service programs that receive assistance under section 12571 of this title.
+&emsp;(7) Assistance in the provision of health care and child care benefits under section 12594 ofthis title to participants in national service programs that receive assistance under section 12571 of this title.
 
 &emsp;(8) Development of a State system for the recruitment and placement of participants in programs that receive assistance under the national service laws and dissemination of information concerning national service programs that receive such assistance or approved national service positions.
 
@@ -220,7 +220,7 @@ A State Commission or alternative administrative entity may not directly carry o
 
 #### (i) Delegation
 
-Subject to such requirements as the Corporation may prescribe, a State Commission maydelegate nonpolicymaking duties to a State agency or public or private nonprofit organization.
+Subject to such requirements as the Corporation may prescribe, a State Commission may delegate nonpolicymaking duties to a State agency or public or private nonprofit organization.
 
 #### (j) Approval of State Commission or alternative
 
@@ -292,7 +292,7 @@ Subject to such requirements as the Corporation may prescribe, a State Commissio
 
 #### (A) In general
 
-&emsp;&emsp;A member of the State Commission or alternative administrative entity shall haveno personal liability with respect to any claim arising out of or resulting from any act or omission by such person, within the scope of the service of the member on the State Commission or alternative administrative entity.
+&emsp;&emsp;A member of the State Commission or alternative administrative entity shall have no personal liability with respect to any claim arising out of or resulting from any act or omission by such person, within the scope of the service of the member on the State Commission or alternative administrative entity.
 
 #### (B) Limitation
 
@@ -308,9 +308,11 @@ Subject to such requirements as the Corporation may prescribe, a State Commissio
 
 &emsp;&emsp;(C) to limit or alter in any way the immunities that are available under applicable law for State officials and employees not described in this subsection.
 
-(Pub. L. 101–610, title I, §178, as added and amended Pub. L. 103–82, title II, §201(a), title IV, §405(p)(1), Sept. 21, 1993, 107 Stat. 867, 922; Pub. L. 111–13, title I, §1606, Apr. 21, 2009, 123 Stat. 1530.)
+(Pub. L. 101–610, title I, §178, as added and amended Pub. L. 103–82, title II, §201(a), title IV,§405(p)(1), Sept. 21, 1993, 107 Stat. 867, 922; Pub. L. 111–13, title I, §1606, Apr. 21, 2009, 123 Stat. 1530.)
 
 #### References in Text
+
+This chapter, referred to in subsecs. (a)(2) and (k)(1), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, known as the National and Community Service Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 The Domestic Volunteer Service Act of 1973, referred to in subsecs. (c)(2)(E) and (e)(5), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified principally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
@@ -324,9 +326,9 @@ A prior section 12638, Pub. L. 101–610, title I, §178, Nov. 16, 1990, 104 Sta
 
 #### Amendments
 
-2009—Subsec. (a)(2). Pub. L. 111–13, §1606(1), substituted “section 12582” for “sections 12543 and 12582”.
+<b>2009</b>—Subsec. (a)(2). Pub. L. 111–13, §1606(1), substituted “section 12582” for “sections 12543 and 12582”.
 
-Subsec. (c)(1)(I). Pub. L. 111–13, §1606(2)(A), substituted “subsection (a), (b), or (c) of section 12572.” for “section 12572(a) of this title, such as a youth corps program described in section 12572(a)(2) of this title.”
+Subsec. (c)(1)(I). Pub. L. 111–13, §1606(2)(A), substituted “subsection (a), (b), or (c) of section 12572 of this title.” for “section 12572(a) of this title, such as a youth corps program described in section 12572(a)(2) of this title.”
 
 Subsec. (c)(1)(J). Pub. L. 111–13, §1606(2)(B), added subpar. (J).
 
@@ -340,7 +342,7 @@ Subsec. (e)(2). Pub. L. 111–13, §1606(5)(B), substituted “section 12582” 
 
 Subsecs. (f) to (<i>l</i>). Pub. L. 111–13, §1606(6), (7), added subsecs. (f) and (g) and redesignated former subsecs. (f) to (j) as (h) to (<i>l</i>), respectively.
 
-1993—Subsec. (i)(2)(A). Pub. L. 103–82, §405(p)(1), substituted “the Corporation” for “ACTION, or of the Corporation,” before “that carries out”.
+<b>1993</b>—Subsec. (i)(2)(A). Pub. L. 103–82, §405(p)(1), substituted “the Corporation” for “ACTION, or of the Corporation,” before “that carries out”.
 
 #### Effective Date of 2009 Amendment
 

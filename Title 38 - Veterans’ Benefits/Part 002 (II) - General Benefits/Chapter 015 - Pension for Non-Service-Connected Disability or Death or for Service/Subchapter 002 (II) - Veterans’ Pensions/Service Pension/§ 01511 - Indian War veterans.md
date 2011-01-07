@@ -28,7 +28,7 @@ Another prior section 1511, Pub. L. 85–857, Sept. 2,1958, 72 Stat. 1171, §150
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 511 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 511 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
@@ -36,11 +36,11 @@ Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “1521” for “521” i
 
 Subsec. (c)(2). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1975—Subsecs. (b), (c). Pub. L. 94–169 substituted “such veteran” for “he” wherever appearing.
+<b>1975</b>—Subsecs. (b), (c). Pub. L. 94–169 substituted “such veteran” for “he” wherever appearing.
 
-1967—Subsec. (c). Pub. L. 90–77 designated existing provisions as par. (1), inserted “except as provided in paragraph (2)”, and added par. (2).
+<b>1967</b>—Subsec. (c). Pub. L. 90–77 designated existing provisions as par. (1), inserted “except as provided in paragraph (2)”, and added par. (2).
 
-1960—Subsec. (c). Pub. L. 86–670 added subsec. (c).
+<b>1960</b>—Subsec. (c). Pub. L. 86–670 added subsec. (c).
 
 #### Effective Date of 1975 Amendment
 

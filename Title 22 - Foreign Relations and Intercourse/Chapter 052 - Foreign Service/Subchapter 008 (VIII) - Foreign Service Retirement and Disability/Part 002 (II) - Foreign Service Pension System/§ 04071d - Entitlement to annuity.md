@@ -10,7 +10,7 @@
 
 &emsp;(B) the term “System”, as used in those sections, means the Foreign Service Pension System.
 
-(3) For purposes of any annuity computation under this subsection, the average pay (as used in section 8414 <sup>1</sup> of title 5) of any member of theService whose official duty station is outside the continental United States shall be considered to be the salary that would have been paid to the member had the member's official duty station been Washington, D.C., including locality-based comparability payments under section 5304 of title 5 that would have been payable to the member if the member's official duty station had been Washington, D.C.
+(3) For purposes of any annuity computation under this subsection, the average pay (as used in section 8414 <sup>1</sup> of title 5) of any member of the Service whose official duty station is outside the continental United States shall be considered to be the salary that would have been paid to the member had the member's official duty station been Washington, D.C., including locality-based comparability payments under section 5304 of title 5 that would have been payable to the member if the member's official duty station had been Washington, D.C.
 
 #### (b) Voluntary or mandatory retirement with authorization for immediate annuity; computation of annuity
 
@@ -56,9 +56,9 @@ The Central Intelligence Agency Retirement Act, referred to in subsec. (b)(2)(A)
 
 #### Amendments
 
-2002—Subsec. (a)(3). Pub. L. 107–228 added par. (3).
+<b>2002</b>—Subsec. (a)(3). Pub. L. 107–228 added par. (3).
 
-1998—Subsec. (b)(1). Pub. L. 105–277, §2312(b)(1)(A), and Pub. L. 105–382 amended par. (1) identically, inserting “4010a,” after “4008,”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–277, §2312(b)(1)(A), and Pub. L. 105–382 amended par. (1) identically, inserting “4010a,” after “4008,”.
 
 Pub. L. 105–277, §2312(b)(1)(C), substituted “Service, shall” for “Service shall”.
 
@@ -68,9 +68,9 @@ Subsec. (b)(3). Pub. L. 105–382, which directed the insertion of “4010a,” 
 
 Pub. L. 105–277, §2312(b)(2), substituted “4010, or 4010a” for “or 4010”.
 
-1993—Subsec. (b)(2)(A)(ii). Pub. L. 103–178 substituted “under title II of the Central Intelligence Agency Retirement Act (50 U.S.C. 2011 et seq.) or under section 302(a) or 303(b) of that Act (50 U.S.C. 2152(a), 2153(b))” for “under title II of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees or under section 302(a) or 303(b) of that Act”.
+<b>1993</b>—Subsec. (b)(2)(A)(ii). Pub. L. 103–178 substituted “under title II of the Central Intelligence Agency Retirement Act (50 U.S.C. 2011 et seq.) or under section 302(a) or 303(b) of that Act (50 U.S.C. 2152(a), 2153(b))” for “under title II of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees or under section 302(a) or 303(b) of that Act”.
 
-1986—Subsec. (b)(1). Pub. L. 99–556, §406(a), substituted “as a member of the Foreign Service” for “of service subject to this subchapter”.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–556, §406(a), substituted “as a member of the Foreign Service” for “of service subject to this subchapter”.
 
 Subsec. (b)(2). Pub. L. 99–556, §406(b), amended par. (2) by substituting subpars. (A) and (B) for former subpars. (A) to (C). Prior to amendment, subpars. (A) to (C) read as follows:
 

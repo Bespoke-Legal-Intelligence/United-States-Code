@@ -24,7 +24,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations for the admi
 
 #### Amendments
 
-2003—Subsec. (a)(1). Pub. L. 108–136, §511(a)(1)(A), substituted “under regulations prescribed by the Secretary of Defense” for “by a selection board convened under section 14101(b) of this title”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136, §511(a)(1)(A), substituted “under regulations prescribed by the Secretary of Defense” for “by a selection board convened under section 14101(b) of this title”.
 
 Subsec. (a)(6). Pub. L. 108–136, §511(a)(1)(B), substituted “under regulations prescribed under paragraph (1)” for “as a result of the convening of a selection board under section 14101(b) of this title”.
 
@@ -38,7 +38,7 @@ Approval of Secretary Concerned.—Continuation of an officer on the reserve act
 
 Instructions To Continuation Boards.—A continuation board convened under section 14101(b) of this title to consider officers for continuation on the reserve active-status list under this section shall act in accordance with the instructions and directions provided to the board by the Secretary of the military department concerned.”
 
-2000—Subsec. (a)(1). Pub. L. 106–398 substituted “A reserve officer” for “Upon application, a reserve officer”.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–398 substituted “A reserve officer” for “Upon application, a reserve officer”.
 
 #### Effective Date
 

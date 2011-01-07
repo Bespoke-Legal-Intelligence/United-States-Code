@@ -2,7 +2,7 @@
 
 (a)
 
-Deposit Required.—The Secretary of the military department concerned shall deposit in the Armed Forces Retirement Home Trust Fund a percentage (determined under subsection (b)) of the following amounts:
+Deposit Required.—The Secretary of the military department concerned or, in the case of the Coast Guard, the Commandant shall deposit in the Armed Forces Retirement Home Trust Fund a percentage (determined under subsection (b)) of the following amounts:
 
 &emsp;(1) The amount of forfeitures and fines adjudged against an enlisted member, warrant officer, or limited duty officer of the armed forces by sentence of a court martial or under authority of section 815 of this title (article 15) over and above any amount that may be due from the member, warrant officer, or limited duty officer for the reimbursement of the United States or any individual.
 
@@ -12,11 +12,7 @@ Deposit Required.—The Secretary of the military department concerned shall dep
 
 Determination of Percentage.—The Armed Forces Retirement Home Board shall determine, on the basis of the financial needs of the Armed Forces Retirement Home, the percentage of the amounts referred to in subsection (a) to be deposited in the trust fund referred to in such subsection.
 
-(c)
-
-Application to Coast Guard.—In this section, the term “armed forces” does not include the Coast Guard when it is not operating as a service in the Navy.
-
-(Added Pub. L. 101–189, div. A, title III, §342(a)(1), Nov. 29, 1989, 103 Stat. 1419; amended Pub. L. 101–510, div. A, title XV, §1533(a)(3), (4)(A), Nov. 5, 1990, 104 Stat. 1733.)
+(Added Pub. L. 101–189, div. A, title III, §342(a)(1), Nov. 29, 1989, 103 Stat. 1419; amended Pub. L. 101–510, div. A, title XV, §1533(a)(3), (4)(A), Nov. 5, 1990, 104 Stat. 1733; Pub. L. 111–281, title II, §205(b)(1), Oct. 15, 2010, 124 Stat. 2911.)
 
 #### Prior Provisions
 
@@ -24,7 +20,11 @@ A prior section 2772, act Aug. 10, 1956, ch. 1041, 70A Stat. 156, authorized wit
 
 #### Amendments
 
-1990—Pub. L. 101–510, §1533(a)(4)(A), substituted “Retirement Home” for “retirement homes” in section catchline and amended text generally, substituting subsecs. (a) to (c) relating to shares of fines and forfeitures to benefit the Armed Forces Retirement Home for former subsecs. (a) and (b) relating to shares of fines and forfeitures to benefit the Soldiers’ Home and the Naval Home.
+<b>2010</b>—Subsec. (a). Pub. L. 111–281, §205(b)(1)(A), inserted “or, in the case of the Coast Guard, the Commandant” after “concerned” in introductory provisions.
+
+Subsec. (c). Pub. L. 111–281, §205(b)(1)(B), struck out subsec. (c). Text read as follows: “In this section, the term ‘armed forces’ does not include the Coast Guard when it is not operating as a service in the Navy.”
+
+<b>1990</b>—Pub. L. 101–510, §1533(a)(4)(A), substituted “Retirement Home” for “retirement homes” in section catchline and amended text generally, substituting subsecs. (a) to (c) relating to shares of fines and forfeitures to benefit the Armed Forces Retirement Home for former subsecs. (a) and (b) relating to shares of fines and forfeitures to benefit the Soldiers’ Home and the Naval Home.
 
 Pub. L. 101–510, §1533(a)(3), inserted “and forfeitures” after “fines” in subsecs. (a)(1)(A) and (b)(1)(A) and substituted “, warrant officer, or limited duty officer” for “or warrant officer” wherever appearing.
 
@@ -41,8 +41,4 @@ Section 342(b) of Pub. L. 101–189 provided that:
 “(1) Subsection (a) of section 2772 of such title \[10 U.S.C. 2772(a)\], as added by subsection (a), shall apply with respect to fines and forfeitures adjudged after the date of the enactment of this Act \[Nov. 29, 1989\].
 
 “(2) Subsection (b) of such section shall apply with respect to fines and forfeitures adjudged after May 31, 1990.”
-
-#### Transfer of Functions
-
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

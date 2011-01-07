@@ -74,11 +74,11 @@ Definitions.—In this section:
 
 #### Amendments
 
-2009—Subsec. (b)(2). Pub. L. 111–84, §617(b)(1), substituted “Special rule for deceased and disabled members” for “Mandatory payment of unpaid amounts under certain circumstances; no repayment of unearned amounts” in heading.
+<b>2009</b>—Subsec. (b)(2). Pub. L. 111–84, §617(b)(1), substituted “Special rule for deceased and disabled members” for “Mandatory payment of unpaid amounts under certain circumstances; no repayment of unearned amounts” in heading.
 
 Subsec. (b)(3). Pub. L. 111–84, §617(b)(2), added par. (3).
 
-2008—Pub. L. 110–417, §651(c)(2)(A), substituted “Repayment of unearned portion of bonus, incentive pay, or similar benefit, and termination of remaining payments, when conditions of payment not met” for “Repayment of unearned portion of bonus, incentive pay, or similar benefit when conditions of payment not met” in section catchline.
+<b>2008</b>—Pub. L. 110–417, §651(c)(2)(A), substituted “Repayment of unearned portion of bonus, incentive pay, or similar benefit, and termination of remaining payments, when conditions of payment not met” for “Repayment of unearned portion of bonus, incentive pay, or similar benefit when conditions of payment not met” in section catchline.
 
 Subsec. (a). Pub. L. 110–417, §651(c)(1)(A), inserted “and Termination” after “Repayment” in heading and “, and the member may not receive any unpaid amounts of the bonus, incentive pay, or similar benefit after the member fails to satisfy such service or eligibility requirement” in text before period at end.
 

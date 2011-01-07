@@ -2,7 +2,7 @@
 
 (a)
 
-Reference to Division of the Court.—The division of the court to which this chapter refersis the division established under section 49 of this title.
+Reference to Division of the Court.—The division of the court to which this chapter refers is the division established under section 49 of this title.
 
 (b)
 
@@ -36,7 +36,7 @@ In general.—The division of the court, upon the request of the Attorney Genera
 
 Procedure for request by independent counsel.—(A) If the independent counsel discovers or receives information about possible violations of criminal law by persons as provided in section 591, which are not covered by the prosecutorial jurisdiction of the independent counsel, the independent counsel may submit such information to the Attorney General. The Attorney General shall then conduct a preliminary investigation of the information in accordance with the provisions of section 592, except that such preliminary investigation shall not exceed 30 days from the date such information is received. In making the determinations required by section 592, the Attorney General shall give great weight to any recommendations of the independent counsel.
 
-&emsp;(B) If the Attorney General determines, after according great weight to the recommendations of the independent counsel, that there are no reasonable grounds to believe that further investigation is warranted, the Attorney General shall promptly so notify the division of the court and the division of the court shall have no power to expand the jurisdiction of the independent counsel or to appoint another independent counsel with respect to the matters involved.
+&emsp;(B) If the Attorney General determines, after according great weight to the recommendations of the independent counsel, that there are no reasonable grounds to believe that further investigation is warranted, the Attorney General shall promptly so notify thedivision of the court and the division of the court shall have no power to expand the jurisdiction of the independent counsel or to appoint another independent counsel with respect to the matters involved.
 
 &emsp;(C) If—
 
@@ -60,7 +60,7 @@ Attorneys’ Fees.—
 
 &emsp;(1)
 
-Award of fees.—Upon the request of an individual who is the subject of an investigation conducted by an independent counsel pursuant to this chapter, the division of the court may, if no indictment is brought against such individual pursuant to that investigation, award reimbursement for those reasonable attorneys’ fees incurred by that individual during that investigation which would not have been incurred but for the requirements of this chapter. The division of the court shall notify the the <sup>1</sup> independent counsel who conductedthe investigation and Attorney <sup>2</sup> General of any request for attorneys’ fees under this subsection.
+Award of fees.—Upon the request of an individual who is the subject of an investigation conducted by an independent counsel pursuant to this chapter, the division of the court may, if no indictment is brought against such individual pursuant to that investigation, award reimbursement for those reasonable attorneys’ fees incurred by that individual during that investigation which would not have been incurred but for the requirements of this chapter. The division of the court shall notify the the <sup>1</sup> independent counsel who conducted the investigation and Attorney <sup>2</sup> General of any request for attorneys’ fees under this subsection.
 
 &emsp;(2)
 
@@ -86,7 +86,7 @@ Amicus Curiae Briefs.—When presented with significant legal issues, the divisi
 
 #### Amendments
 
-1994—Subsec. (f)(1). Pub. L. 103–270, §3(n)(1), inserted “the independent counsel who conducted the investigation and” before “Attorney General” in last sentence.
+<b>1994</b>—Subsec. (f)(1). Pub. L. 103–270, §3(n)(1), inserted “the independent counsel who conducted the investigation and” before “Attorney General” in last sentence.
 
 Subsec. (f)(2). Pub. L. 103–270, §3(n)(2), in introductory provisions substituted “shall direct such independent counsel and” for “may direct” and “subsection, addressing—” for “subsection, analyzing for each expense—”, added subpars. (A) to (D) and struck out former subpars. (A) to (C) which read as follows:
 
@@ -96,9 +96,9 @@ Subsec. (f)(2). Pub. L. 103–270, §3(n)(2), in introductory provisions substit
 
 &emsp;“(C) the reasonableness of the amount of money requested.”
 
-1987—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (h) for former subsecs. (a) to (g) which related to similar subject matter.
+<b>1987</b>—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (h) for former subsecs. (a) to (g) which related to similar subject matter.
 
-1983—Subsec. (b). Pub. L. 97–409, §2(a)(1), substituted “independent counsel” for “special prosecutor” and “independent counsel's” for “special prosecutor's” wherever appearing.
+<b>1983</b>—Subsec. (b). Pub. L. 97–409, §2(a)(1), substituted “independent counsel” for “special prosecutor” and “independent counsel's” for “special prosecutor's” wherever appearing.
 
 Subsecs. (c) to (e). Pub. L. 97–409, §2(a)(1)(A), substituted “independent counsel” for “special prosecutor” wherever appearing.
 

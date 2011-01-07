@@ -160,9 +160,9 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of this paragraph, the term “applicable tax limit” means—
 
-&emsp;&emsp;&emsp;(i) in the case of a taxable year to which section 26(a)(2) applies, the limitation imposed by section 26(a)(2) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 25D, and 1400C), and
+&emsp;&emsp;&emsp;(i) in the case of a taxable year to which section 26(a)(2) applies, the limitation imposed by section 26(a)(2) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 25D,<sup>1</sup> and 1400C), and
 
-&emsp;&emsp;&emsp;(ii) in the case of a taxable year to which section 26(a)(2) does not apply, the limitation imposed by section 26(a)(1) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 24, 25A(i), 25B, 25D, 30, 30B, 30D, and 1400C).
+&emsp;&emsp;&emsp;(ii) in the case of a taxable year to which section 26(a)(2) does not apply, the limitation imposed by section 26(a)(1) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 24, 25A(i), 25B, 25D, 30, 30B, 30D, and 1400C).
 
 #### (2) Indebtedness not treated as certified where certain requirements not in fact met
 
@@ -294,9 +294,11 @@ Each person who makes a loan which is a certified indebtedness amount under any 
 
 &emsp;&emsp;<b>For provisions increasing the tax imposed by this chapter to recapture a portion of the Federal subsidy from the use of mortgage credit certificates, see section 143(m).</b>
 
-(Added Pub. L. 98–369, div. A, title VI, §612(a), July 18, 1984, 98 Stat. 905; amended Pub. L. 99–514, title XIII, §1301(f), title XVIII, §§1862(a)–(d)(1), 1899A(1), Oct. 22, 1986, 100 Stat. 2655, 2883, 2884, 2958; Pub. L. 100–647, title I, §1013(a)(25), (26), title IV, §4005(a)(2), (g)(7), Nov. 10, 1988, 102 Stat. 3543, 3645, 3651; Pub. L. 101–239, title VII, §7104(b), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11408(b), Nov. 5, 1990, 104 Stat. 1388–477; Pub. L. 102–227, title I, §108(b), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13141(b), Aug. 10, 1993, 107 Stat. 436; Pub. L. 104–188, title I, §1807(c)(1), Aug. 20, 1996, 110 Stat. 1902; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, title VI, §6008(d)(7), July 22, 1998, 112 Stat. 812; Pub. L. 107–16, title II, §201(b)(2)(F), title VI, §618(b)(2)(B), June 7, 2001, 115 Stat. 46, 108; Pub. L. 109–58, title XIII, §1335(b)(2), Aug. 8, 2005, 119 Stat. 1036; Pub. L. 109–135, title IV, §402(i)(3)(C), (4), Dec. 21, 2005, 119 Stat. 2613, 2615; Pub. L. 110–343, div. B, title II, §205(d)(1)(B), Oct. 3, 2008, 122 Stat. 3838; Pub. L. 111–5, div. B, title I, §§1004(b)(2), 1142(b)(1)(B), 1144(b)(1)(B), Feb. 17, 2009, 123 Stat. 314, 330, 332.)
+(Added Pub. L. 98–369, div. A, title VI, §612(a), July 18, 1984, 98 Stat. 905; amended Pub. L. 99–514, title XIII, §1301(f), title XVIII, §§1862(a)–(d)(1), 1899A(1), Oct. 22, 1986, 100 Stat. 2655, 2883, 2884, 2958; Pub. L. 100–647, title I, §1013(a)(25), (26), title IV, §4005(a)(2), (g)(7), Nov. 10, 1988, 102 Stat. 3543, 3645, 3651; Pub. L. 101–239, title VII, §7104(b), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11408(b), Nov. 5, 1990, 104 Stat. 1388–477; Pub. L. 102–227, title I, §108(b), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13141(b), Aug. 10, 1993, 107 Stat. 436; Pub. L. 104–188, title I, §1807(c)(1), Aug. 20, 1996, 110 Stat. 1902; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, title VI, §6008(d)(7), July 22, 1998, 112 Stat. 812; Pub. L. 107–16, title II, §201(b)(2)(F), title VI, §618(b)(2)(B), June 7, 2001, 115 Stat. 46, 108; Pub. L. 109–58, title XIII, §1335(b)(2), Aug. 8, 2005, 119 Stat. 1036; Pub. L. 109–135, title IV, §402(i)(3)(C), (4), Dec. 21, 2005, 119 Stat. 2613, 2615; Pub. L. 110–343, div. B, title II, §205(d)(1)(B), Oct. 3, 2008, 122 Stat. 3838; Pub. L. 111–5, div. B, title I, §§1004(b)(2), 1142(b)(1)(B), 1144(b)(1)(B), Feb. 17, 2009, 123 Stat. 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(B), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298.)
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 10909(c) of Pub. L. 111–148, see Effective and Termination Dates of 2010 Amendment note below.</i>
 
 <i>For termination of amendment by section 402(i)(3)(H) of Pub. L. 109–135, see Effective and Termination Dates of 2005 Amendments note below.</i>
 
@@ -308,37 +310,39 @@ A prior section 25 was renumbered section 26 of this title.
 
 #### Amendments
 
-2009—Subsec. (e)(1)(C)(ii). Pub. L. 111–5, §1144(b)(1)(B), inserted “30B,” after “30,”.
+<b>2010</b>—Subsec. (e)(1)(C). Pub. L. 111–148, §10909(b)(2)(B), (c), as amended by Pub. L. 111–312, temporarily struck out “23,” after “and sections” in cls. (i) and (ii). See Effective and Termination Dates of 2010 Amendment note below.
+
+<b>2009</b>—Subsec. (e)(1)(C)(ii). Pub. L. 111–5, §1144(b)(1)(B), inserted “30B,” after “30,”.
 
 Pub. L. 111–5, §1142(b)(1)(B), inserted “30,” after “25D,”.
 
 Pub. L. 111–5, §1004(b)(2), inserted “25A(i),” after “24,”.
 
-2008—Subsec. (e)(1)(C)(ii). Pub. L. 110–343 inserted “30D,” after “25D,”.
+<b>2008</b>—Subsec. (e)(1)(C)(ii). Pub. L. 110–343 inserted “30D,” after “25D,”.
 
-2005—Subsec. (e)(1)(C). Pub. L. 109–135, §402(i)(3)(C), (H), temporarily reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this paragraph, the term ‘applicable tax limit’ means the limitation imposed by section 26(a) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 24, 25B, and 1400C).” See Effective and Termination Dates of 2005 Amendments notes below.
+<b>2005</b>—Subsec. (e)(1)(C). Pub. L. 109–135, §402(i)(3)(C), (H), temporarily reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this paragraph, the term ‘applicable tax limit’ means the limitation imposed by section 26(a) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 24, 25B, and 1400C).” See Effective and Termination Dates of 2005 Amendments notes below.
 
 Pub. L. 109–58, §1335(b)(2), which directed amendment of subpar. (C) by substituting “other than this section, section 23, section 25D, and section 1400C” for “this section and sections 23 and 1400C”, was repealed by Pub. L. 109–135, §402(i)(4). See Effective and Termination Dates of 2005 Amendments notes below.
 
-2001—Subsec. (e)(1)(C). Pub. L. 107–16, §618(b)(2)(B), inserted “25B,” after “24,”.
+<b>2001</b>—Subsec. (e)(1)(C). Pub. L. 107–16, §618(b)(2)(B), inserted “25B,” after “24,”.
 
 Pub. L. 107–16, §§201(b)(2)(F), 901, temporarily inserted “, 24,” after “sections 23”. See Effective and Termination Dates of 2001 Amendment note below.
 
-1998—Subsec. (e)(1)(C). Pub. L. 105–206 substituted “sections 23 and 1400C” for “section 23”.
+<b>1998</b>—Subsec. (e)(1)(C). Pub. L. 105–206 substituted “sections 23 and 1400C” for “section 23”.
 
-1997—Subsec. (e)(7). Pub. L. 105–34 substituted “section 121” for “section 1034”.
+<b>1997</b>—Subsec. (e)(7). Pub. L. 105–34 substituted “section 121” for “section 1034”.
 
-1996—Subsec. (e)(1)(C). Pub. L. 104–188 inserted “and section 23” after “other than this section”.
+<b>1996</b>—Subsec. (e)(1)(C). Pub. L. 104–188 inserted “and section 23” after “other than this section”.
 
-1993—Subsecs. (h) to (j). Pub. L. 103–66 redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out heading and text of former subsec. (h). Text read as follows: “No election may be made under subsection (c)(2)(A)(ii) for any period after June 30, 1992.”
+<b>1993</b>—Subsecs. (h) to (j). Pub. L. 103–66 redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out heading and text of former subsec. (h). Text read as follows: “No election may be made under subsection (c)(2)(A)(ii) for any period after June 30, 1992.”
 
-1991—Subsec. (h). Pub. L. 102–227 substituted “June 30, 1992” for “December 31, 1991”.
+<b>1991</b>—Subsec. (h). Pub. L. 102–227 substituted “June 30, 1992” for “December 31, 1991”.
 
-1990—Subsec. (h). Pub. L. 101–508 substituted “December 31, 1991” for “September 30, 1990”.
+<b>1990</b>—Subsec. (h). Pub. L. 101–508 substituted “December 31, 1991” for “September 30, 1990”.
 
-1989—Subsec. (h). Pub. L. 101–239 substituted “for any period after September 30, 1990” for “for any calendar year after 1989”.
+<b>1989</b>—Subsec. (h). Pub. L. 101–239 substituted “for any period after September 30, 1990” for “for any calendar year after 1989”.
 
-1988—Subsec. (c)(2)(A)(ii). Pub. L. 100–647, §1013(a)(25), amended Pub. L. 99–514, §1301(f)(2)(C)(ii), see 1986 Amendment note below.
+<b>1988</b>—Subsec. (c)(2)(A)(ii). Pub. L. 100–647, §1013(a)(25), amended Pub. L. 99–514, §1301(f)(2)(C)(ii), see 1986 Amendment note below.
 
 Subsec. (h). Pub. L. 100–647, §4005(a)(2), substituted “1989” for “1988”.
 
@@ -346,7 +350,7 @@ Pub. L. 100–647, §1013(a)(26), substituted “1988” for “1987”.
 
 Subsec. (j). Pub. L. 100–647, §4005(g)(7), added subsec. (j).
 
-1986—Subsec. (a)(1)(B). Pub. L. 99–514, §1862(d)(1), substituted “paid or accrued” for “paid or incurred”.
+<b>1986</b>—Subsec. (a)(1)(B). Pub. L. 99–514, §1862(d)(1), substituted “paid or accrued” for “paid or incurred”.
 
 Subsec. (b)(2)(A)(ii). Pub. L. 99–514, §1301(f)(2)(A), substituted “section 143(k)(4)” for “section 103A(<i>l</i>)(6)”.
 
@@ -412,6 +416,12 @@ Subsec. (f)(3). Pub. L. 99–514, §1301(f)(2)(O), substituted “section 146(d)
 
 Subsec. (f)(4). Pub. L. 99–514, §1899A(1), substituted “ensure” for “insure”.
 
+#### Effective and Termination Dates of 2010 Amendment
+
+Amendment by Pub. L. 111–148 terminated applicable to taxable years beginning after Dec. 31, 2011, and section is amended to read as if such amendment had never been enacted, see section 10909(c) of Pub. L. 111–148, set out as a note under section 1 of this title.
+
+Amendment by Pub. L. 111–148 applicable to taxable years beginning after Dec. 31, 2009, see section 10909(d) of Pub. L. 111–148, set out as a note under section 1 of this title.
+
 #### Effective Date of 2009 Amendment
 
 Amendment by section 1004(b)(2) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1004(d) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
@@ -426,25 +436,25 @@ Amendment by Pub. L. 110–343 applicable to taxable years beginning after Dec. 
 
 #### Effective and Termination Dates of 2005 Amendments
 
-Amendment by section 402(i)(3)(C) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title.
+Amendment by section 402(i)(3)(C) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 36C of this title.
 
-The Internal Revenue Code of 1986 to be applied and administered as if the amendments made by section 1335(b)(1)–(3) of Pub. L. 109–58 had never been enacted, see section 402(i)(4) of Pub. L. 109–135, set out as a note under section 23 of this title.
+The Internal Revenue Code of 1986 to be applied and administered as if the amendments made by section 1335(b)(1)–(3) of Pub. L. 109–58 had never been enacted, see section 402(i)(4) of Pub. L. 109–135, set out as a note under section 36C of this title.
 
-Amendments by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which they relate, except that amendment by section 402(i)(3)(C) of Pub. L. 109–135 is applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
+Amendments by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which they relate, except that amendment by section 402(i)(3)(C) of Pub. L. 109–135 is applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 36C of this title.
 
-Amendment by Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1335(c) of Pub. L. 109–58, set out as a note under section 23 of this title.
+Amendment by Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1335(c) of Pub. L. 109–58, set out as a note under section 36C of this title.
 
 #### Effective and Termination Dates of 2001 Amendment
 
-Amendment by Pub. L. 107–16 inapplicable to taxable years beginning during 2004 or 2005, see section 312(b)(2) of Pub. L. 108–311, set out as a note under section 23 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable years beginning during 2004 or 2005, see section 312(b)(2) of Pub. L. 108–311, set out as a note under section 36C of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to taxable years beginning during 2002 and 2003, see section 601(b)(2) of Pub. L. 107–147, set out as a note under section 23 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable years beginning during 2002 and 2003, see section 601(b)(2) of Pub. L. 107–147, set out as a note under section 36C of this title.
 
 Amendment by section 201(b)(2)(F) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 201(e)(2) of Pub. L. 107–16, set out as a note under section 24 of this title.
 
 Amendment by section 618(b)(2)(B) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 618(d) of Pub. L. 107–16, set out as a note under section 24 of this title.
 
-Amendment by section 201(b)(2)(F) of Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by section 201(b)(2)(F) of Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -456,7 +466,7 @@ Amendment by Pub. L. 105–34 applicable to sales and exchanges after May 6, 199
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1807(e) of Pub. L. 104–188, set out as an Effective Date note under section 23 of this title.
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1807(e) of Pub. L. 104–188, set out as an Effective Date note under section 36C of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -464,7 +474,7 @@ Section 13141(f)(2) of Pub. L. 103–66 provided that: “The amendment made by 
 
 #### Effective Date of 1991 Amendment
 
-Section 108(c)(2) of Pub. L. 102–227 provided that: “The amendment made by subsection (b) \[amendingthis section\] shall apply to elections for periods after December 31, 1991.”
+Section 108(c)(2) of Pub. L. 102–227 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to elections for periods after December 31, 1991.”
 
 #### Effective Date of 1990 Amendment
 
@@ -480,7 +490,7 @@ Amendment by section 4005(g)(7) of Pub. L. 100–647 applicable to financing pro
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1301(f)(1) of Pub. L. 99–514 applicable to nonissued bond amounts elected after Aug. 15, 1986, and amendment by section 1301(f)(2) of Pub. L. 99–514 applicable to certificates issued with respect to nonissued bond amounts elected after Aug. 15, 1986, see section 1311(b) of Pub. L. 99–514, as amended, set out as an Effective Date; Transitional Rules note under section 141 of this title.
+Amendment by section 1301(f)(1) of Pub. L. 99–514 applicable to nonissued bond amounts elected after Aug.15, 1986, and amendment by section 1301(f)(2) of Pub. L. 99–514 applicable to certificates issued with respect to nonissued bond amounts elected after Aug. 15, 1986, see section 1311(b) of Pub. L. 99–514, as amended, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
 Amendment by section 1862(a)–(d)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -499,4 +509,6 @@ Elections.—The amendments made by this section shall apply to elections under 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

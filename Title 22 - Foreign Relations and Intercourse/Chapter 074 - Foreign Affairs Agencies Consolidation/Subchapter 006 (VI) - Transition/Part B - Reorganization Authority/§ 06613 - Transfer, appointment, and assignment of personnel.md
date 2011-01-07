@@ -36,5 +36,5 @@ Section 4102 of this title, referred to in subsec. (c), was in the original “s
 
 #### Amendments
 
-1999—Subsec. (c). Pub. L. 106–113 inserted after first sentence “In carrying out the reorganization under this Act, the Secretary shall ensure that the advances made in increasing the number and status of women and minorities within the foreign affairs agencies of the Federal Government, in terms of representation within the agencies as well as relative rank, are not undermined by discrimination within the newly reorganized Department of State.”.
+<b>1999</b>—Subsec. (c). Pub. L. 106–113 inserted after first sentence “In carrying out the reorganization under this Act, the Secretary shall ensure that the advances made in increasing the number and status of women and minorities within the foreign affairs agencies of the Federal Government, in terms of representation within the agencies as well as relative rank, are not undermined by discrimination within the newly reorganized Department of State.”.
 

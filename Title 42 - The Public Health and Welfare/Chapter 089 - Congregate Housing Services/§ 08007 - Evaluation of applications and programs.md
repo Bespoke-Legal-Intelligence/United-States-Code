@@ -40,11 +40,11 @@ In evaluating programs receiving assistance under this chapter, the Secretary sh
 
 #### Amendments
 
-1988—Subsec. (c). Pub. L. 100–242 added subsec. (c) and struck out former subsec. (c) which required Secretary to prepare and submit a report to Congress evaluating the congregate housing services program, not later than March 15, 1984.
+<b>1988</b>—Subsec. (c). Pub. L. 100–242 added subsec. (c) and struck out former subsec. (c) which required Secretary to prepare and submit a report to Congress evaluating the congregate housing services program, not later than March 15, 1984.
 
-1983—Subsec. (c). Pub. L. 98–181 added subsec. (c).
+<b>1983</b>—Subsec. (c). Pub. L. 98–181 added subsec. (c).
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (b)(2) of this section relating to submittingthe annually published report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 8th item on page 106 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (b)(2) of this section relating to submitting the annually published report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 8th item on page 106 of House Document No. 103–7.
 

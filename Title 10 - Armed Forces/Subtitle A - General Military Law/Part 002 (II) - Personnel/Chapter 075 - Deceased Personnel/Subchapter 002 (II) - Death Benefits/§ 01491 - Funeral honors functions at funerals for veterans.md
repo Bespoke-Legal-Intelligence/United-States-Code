@@ -22,9 +22,9 @@ Support.—(1) To support a funeral honors detail under this section, the Secret
 
 &emsp;(B) For members of a veterans organization or other organization referred to in subsection (b)(2) and for members of the armed forces in a retired status, materiel, equipment, and training.
 
-&emsp;(C) For members of a veterans organization or other organization referred to in subsection (b)(2), articles of clothing that, as determinedby the Secretary concerned, are appropriate as a civilian uniform for persons participating in a funeral honors detail.
+&emsp;(C) For members of a veterans organization or other organization referred to in subsection (b)(2), articles of clothing that, as determined by the Secretary concerned, are appropriate as a civilian uniform for persons participating in a funeral honors detail.
 
-(2) The Secretary of Defense shall prescribe annually a flat rate daily stipend for purposes of paragraph (1)(A). Such stipend shall be set at a rate so as to encompass typical costs for transportation and other miscellaneous expenses for persons participating in funeral honors details who are members of the armed forces in a retired status and other persons who are not members of the armed forces or employees of the United States.
+(2) The Secretary of Defense shall prescribe annually a flat rate daily stipend for purposes of paragraph (1)(A). Such stipend shall be set at a rate so as to encompass typical costs for transportation and other miscellaneous expenses forpersons participating in funeral honors details who are members of the armed forces in a retired status and other persons who are not members of the armed forces or employees of the United States.
 
 (3) A stipend paid under this subsection to a member of the armed forces in a retired status is in addition to any compensation to which the member is entitled under section 435(a)(2) of title 37 and any other compensation to which the member may be entitled.
 
@@ -62,9 +62,9 @@ Veteran Defined.—In this section, the term “veteran” means a decedent who�
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–163 inserted “, except when military honors are prohibited under section 985(a) of this title” before period at end.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 inserted “, except when military honors are prohibited under section 985(a) of this title” before period at end.
 
-2002—Subsec. (d)(1). Pub. L. 107–314, §571(1), designated existing provisions as par. (1) and substituted “ To support a” for “To provide a”. Former par. (1) redesignated (1)(A).
+<b>2002</b>—Subsec. (d)(1). Pub. L. 107–314, §571(1), designated existing provisions as par. (1) and substituted “ To support a” for “To provide a”. Former par. (1) redesignated (1)(A).
 
 Subsec. (d)(1)(A). Pub. L. 107–314, §571(2), redesignated par. (1) as subpar. (A) of par. (1) and amended it generally. Prior to amendment, text read as follows: “Transportation, or reimbursement for transportation, and expenses for a person who participates in the funeral honors detail and is not a member of the armed forces or an employee of the United States.”
 
@@ -74,15 +74,15 @@ Subsec. (d)(1)(C). Pub. L. 107–314, §571(4), redesignated par. (3) as subpar.
 
 Subsec. (d)(2), (3). Pub. L. 107–314, §571(5), added pars. (2) and (3). Former pars. (2) and (3) redesignated subpars. (B) and (C), respectively, of par. (1).
 
-2001—Subsec. (b)(2). Pub. L. 107–107, §561(a), inserted “(other than members in a retired status)” after “members of the armed forces” in first sentence and inserted “(including members in a retired status),” after “members of the armed forces” in second sentence.
+<b>2001</b>—Subsec. (b)(2). Pub. L. 107–107, §561(a), inserted “(other than members in a retired status)” after “members of the armed forces” in first sentence and inserted “(including members in a retired status),” after “members of the armed forces” in second sentence.
 
 Subsec. (d)(3). Pub. L. 107–107, §564, added par. (3).
 
-1999—Pub. L. 106–65, §578(k)(1), substituted “Funeral honors functions at funerals for veterans” for “Honor guard details at funerals of veterans” as section catchline.
+<b>1999</b>—Pub. L. 106–65, §578(k)(1), substituted “Funeral honors functions at funerals for veterans” for “Honor guard details at funerals of veterans” as section catchline.
 
 Subsec. (a). Pub. L. 106–65, §578(a)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of a military department shall, upon request, provide an honor guard detail (or ensure that an honor guard detail is provided) for the funeral of any veteran that occurs after December 31, 1999.”
 
-Subsec. (b). Pub. L. 106–65, §578(b), substituted “Funeral Honors Details” for “Honor Guard Details” in subsec. (b) heading, designated existing provisions as par. (1), substituted “a funeral honors detail” for “an honor guard detail” and “two or more persons.” for “not less than three persons and (unless a bugler is part of the detail) has the capability to play a recorded version of Taps.”, redesignated subsec. (c) as subsec. (b)(2), struck out former subsec. (c) heading “Persons Forming Honor Guards”, and substituted “At least two members of the funeral honors detail for a veteran's funeral shall be members of the armed forces, at least one of whom shall be a member of the armed force of which the veteran was a member. The remainder of the detail” for “An honor guard detail” and “Each member of the armed forces in the detail shall wear the uniform ofthe member's armed force while serving in the detail.” for “The Secretary of a military department may provide transportation, or reimbursement for transportation, and expenses for a person who participates in an honor guard detail under this section and is not a member of the armed forces or an employee of the United States.”
+Subsec. (b). Pub. L. 106–65, §578(b), substituted “Funeral Honors Details” for “Honor Guard Details” in subsec. (b) heading, designated existing provisions as par. (1), substituted “a funeral honors detail” for “an honor guard detail” and “two or more persons.” for “not less than three persons and (unless a bugler is part of the detail) has the capability to play a recorded version of Taps.”, redesignated subsec. (c) as subsec. (b)(2), struck out former subsec. (c) heading “Persons Forming Honor Guards”, and substituted “At least two members of the funeral honors detail for a veteran's funeral shall be members of the armed forces, at least one of whom shall be a member of the armed force of which the veteran was a member. The remainder of the detail” for “An honor guard detail” and “Each member of the armed forces in the detail shall wear the uniform of the member's armed force while serving in the detail.” for “The Secretary of a military department may provide transportation, or reimbursement for transportation, and expenses for a person who participates in an honor guard detail under this section and is not a member of the armed forces or an employee of the United States.”
 
 Subsec. (c). Pub. L. 106–65, §578(c)(2), added subsec. (c). Former subsec. (c) redesignated subsec. (b)(2).
 

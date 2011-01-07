@@ -50,7 +50,7 @@ The United States Housing Act of 1937, referred to in subsec. (b), is act Sept. 
 
 #### Amendments
 
-2008—Subsecs. (f), (g). Pub. L. 110–411 added subsecs. (f) and (g).
+<b>2008</b>—Subsecs. (f), (g). Pub. L. 110–411 added subsecs. (f) and (g).
 
 #### Effective Date
 

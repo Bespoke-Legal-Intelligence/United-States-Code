@@ -1,6 +1,6 @@
 ### §5301. Buying obligations of the United States Government
 
-(a) The President may direct the Secretary of the Treasury to make an agreement with the Federal reserve banks and the Board of Governors of the Federal Reserve System when thePresident decides that the foreign commerce of the United States is affected adversely because—
+(a) The President may direct the Secretary of the Treasury to make an agreement with the Federal reserve banks and the Board of Governors of the Federal Reserve System when the President decides that the foreign commerce of the United States is affected adversely because—
 
 &emsp;(1) the value of coins and currency of a foreign country compared to the present standard value of gold is depreciating;
 
@@ -16,7 +16,7 @@
 
 &emsp;(2) buy directly and hold an additional $3,000,000,000 of obligations of the Government for each agreed period, unless the Secretary consents to the sale of the obligations before the end of the period.
 
-(c) With the approval of the Secretary, the Board may require Federal reserve banks to take action the Secretary and Board consider necessary to prevent unreasonable credit expansion.
+(c) With the approval of the Secretary, the Board may require Federal reserve banks to take action the Secretary and Board considernecessary to prevent unreasonable credit expansion.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 993.)
 

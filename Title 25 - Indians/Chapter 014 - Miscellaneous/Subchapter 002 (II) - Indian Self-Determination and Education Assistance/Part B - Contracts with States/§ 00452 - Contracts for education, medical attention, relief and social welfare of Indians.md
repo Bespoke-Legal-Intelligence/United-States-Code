@@ -1,12 +1,12 @@
 ### §452. Contracts for education, medical attention, relief and social welfare of Indians
 
-The Secretary of the Interior is authorized, in his discretion, to enter into a contract or contracts with any State or Territory, or political subdivision thereof, or with any State university, college, or school, or with any appropriate State or private corporation, agency, or institution, for the education, medical attention, agricultural assistance, and social welfare, including relief of distress, of Indians in such State or Territory, through the agencies of the State or Territory or of the corporations and organizations hereinbefore named, and to expend under such contract or contracts, moneys appropriated by Congress for the education, medical attention, agricultural assistance, and social welfare, including relief of distress, of Indians in such State or Territory.
+The Secretary of the Interior is authorized, in his discretion, to enter into a contract or contracts with any State or Territory, or political subdivision thereof, or with any State university, college, or school, or with any appropriate State or private corporation, agency, or institution, for the education, medical attention, agricultural assistance, and social welfare, including relief of distress, of Indians in such State or Territory, through the agencies of the State or Territory or of the corporations and organizations hereinbefore named, and to expend under such contract or contracts, moneys appropriated byCongress for the education, medical attention, agricultural assistance, and social welfare, including relief of distress, of Indians in such State or Territory.
 
 (Apr. 16, 1934, ch. 147, §1, 48 Stat. 596; June 4, 1936, ch. 490, §1, 49 Stat. 1458.)
 
 #### Amendments
 
-1936—Act June 4, 1936, substituted “with any State or Territory, or political subdivision thereof, or with any State university, college, or school, or with any appropriate State or private corporation, agency, or institution”, “through the agencies of the State or Territory or of the corporations and organizations hereinbefore named,”, and “such State or Territory” for “any State or Territory having legal authority so to do,”, “through the qualified agencies of such State or Territory,”, and “such State”, respectively.
+<b>1936</b>—Act June 4, 1936, substituted “with any State or Territory, or political subdivision thereof, or with any State university, college, or school, or with any appropriate State or private corporation, agency, or institution”, “through the agencies of the State or Territory or of the corporations and organizations hereinbefore named,”, and “such State or Territory” for “any State or Territory having legal authority so to do,”, “through the qualified agencies of such State or Territory,”, and “such State”, respectively.
 
 #### Short Title
 

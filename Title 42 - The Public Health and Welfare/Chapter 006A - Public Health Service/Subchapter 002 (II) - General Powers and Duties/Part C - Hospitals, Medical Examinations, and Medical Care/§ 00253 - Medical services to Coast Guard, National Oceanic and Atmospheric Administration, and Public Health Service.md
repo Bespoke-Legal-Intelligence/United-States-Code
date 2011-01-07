@@ -30,15 +30,15 @@ The Service shall provide all services referred to in subsection (a) of this sec
 
 #### Amendments
 
-1985—Subsec. (b). Pub. L. 99–117 added subsec. (b).
+<b>1985</b>—Subsec. (b). Pub. L. 99–117 added subsec. (b).
 
-1963—Subsec. (b). Pub. L. 88–71, §2(a), repealed subsec. (b) which provided for treatment of dependents of personnel. See section 253a(b) of this title.
+<b>1963</b>—Subsec. (b). Pub. L. 88–71, §2(a), repealed subsec. (b) which provided for treatment of dependents of personnel. See section 253a(b) of this title.
 
 Subsec. (c). Pub. L. 88–71, §2(b), inserted “or Coast and Geodetic Survey” after “Coast Guard” in two places.
 
-1960—Subsec. (a). Pub. L. 86–415 struck out provisions which authorized medical, surgical, and dental care and hospitalization for retired personnel of Coast Guard, Coast and Geodetic Survey, and Public Health Service.
+<b>1960</b>—Subsec. (a). Pub. L. 86–415 struck out provisions which authorized medical, surgical, and dental care and hospitalization for retired personnel of Coast Guard, Coast and Geodetic Survey, and Public Health Service.
 
-1956—Subsec. (b). Act June 7, 1956, repealed subsec. (b) except insofar as it related to dependent members of families of ships’ officers and members of crews of vessels of Coast and Geodetic Survey.
+<b>1956</b>—Subsec. (b). Act June 7, 1956, repealed subsec. (b) except insofar as it related to dependent members of families of ships’ officers and members of crews of vessels of Coast and Geodetic Survey.
 
 #### Change of Name
 

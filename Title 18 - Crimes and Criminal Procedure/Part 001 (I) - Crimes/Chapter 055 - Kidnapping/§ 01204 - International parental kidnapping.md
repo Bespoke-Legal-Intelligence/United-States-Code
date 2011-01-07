@@ -26,7 +26,7 @@
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–21, §107(1), inserted “, or attempts to do so,” before “or retains”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–21, §107(1), inserted “, or attempts to do so,” before “or retains”.
 
 Subsec. (c)(1). Pub. L. 108–21, §107(2)(A), inserted “or the Uniform Child Custody Jurisdiction and Enforcement Act” before “and was”.
 

@@ -72,7 +72,7 @@ In subsection (a), the words “Trust Territory of the Pacific Islands” are om
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–163 substituted “has the meaning given that term in section 101(a)(17) of title 10.” for “means the following:
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–163 substituted “has the meaning given that term in section 101(a)(17) of title 10.” for “means the following:
 
 &emsp;“(A) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
 

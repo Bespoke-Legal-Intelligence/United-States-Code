@@ -40,7 +40,7 @@ Terms and conditions.—The Federal share payable of the costs described in para
 
 &emsp;&emsp;(E) the alternative for which the right-of-way is acquired is selected by the State pursuant to regulations to be issued by the Secretary which provide for the consideration of the environmental impacts of various alternatives;
 
-&emsp;&emsp;(F) before the time that the cost incurred by a State is approved for Federal participation, environmental compliance pursuant to the National Environmental Policy Act has been completed for the project for which the right-of-way was acquired by the State, and the acquisition has been approved by the Secretary under this Act,<sup>1</sup> and in compliance with section 303 of title 49, section 7 of the Endangered Species Act, and all other applicable environmental laws shall be identified by the Secretary in regulations; and
+&emsp;&emsp;(F) before the time that the cost incurred by a State is approved for Federal participation, environmental compliance pursuant to the National Environmental Policy Act has been completed for the project for which the right-of-way was acquired by the State, and the acquisition has been approved by the Secretary under this Act,<sup>1</sup> and in compliancewith section 303 of title 49, section 7 of the Endangered Species Act, and all other applicable environmental laws shall be identified by the Secretary in regulations; and
 
 &emsp;&emsp;(G) before the time that the cost incurred by a State is approved for Federal participation, both the Secretary and the Administrator of the Environmental Protection Agency have concurred that the property acquired in advance of Federal approval or authorization did not influence the environmental assessment of the project, the decision relative to the need to construct the project, or the selection of the project design or location.
 
@@ -48,7 +48,7 @@ Terms and conditions.—The Federal share payable of the costs described in para
 
 #### References in Text
 
-The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (c)(2)(A), is act Jan. 2, 1971, Pub. L. 91–646, 84 Stat.1894, as amended, and which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (c)(2)(A), is act Jan. 2, 1971, Pub. L. 91–646, 84 Stat. 1894, as amended, and which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (c)(2)(B), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
@@ -60,15 +60,15 @@ Section 7 of the Endangered Species Act, referred to in subsec. (c)(2)(F), proba
 
 #### Amendments
 
-1998—Pub. L. 105–178, §1301(a), substituted “Advance acquisition of real property” for “Advance acquisition of rights-of-way” in section catchline.
+<b>1998</b>—Pub. L. 105–178, §1301(a), substituted “Advance acquisition of real property” for “Advance acquisition of rights-of-way” in section catchline.
 
 Subsec. (a). Pub. L. 105–178, §1301(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “For the purpose of facilitating the acquisition of rights-of-way on any Federal-aid highway in the most expeditious and economical manner, and recognizing that the acquisition of rights-of-way requires lengthy planning and negotiations if it is to be done at a reasonable cost, the Secretary, upon the request of the State highway department, is authorized to make available the funds apportioned to any State which may be expended on such highway for acquisition of rights-of-way, in anticipation of construction and under such rules and regulations as the Secretary may prescribe. The agreement between the Secretary and the State highway department for the reimbursement of the cost of such rights-of-way shall provide for the actual construction of a road on such rights-of-way within a period not exceeding 20 years following the fiscal year in which such request is made unless a longer period is determined to be reasonable by the Secretary.”
 
 Subsecs. (c), (d). Pub. L. 105–178, §1211(e)(1), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to establishment and administration of right-of-way revolving fund.
 
-1994—Subsec. (d)(2)(F). Pub. L. 103–429 substituted “section 303 of title 49” for “section 4(f) of the Department of Transportation Act”.
+<b>1994</b>—Subsec. (d)(2)(F). Pub. L. 103–429 substituted “section 303 of title 49” for “section 4(f) of the Department of Transportation Act”.
 
-1992—Subsec. (a). Pub. L. 102–388, §346(1), (2), substituted “Federal-aid highway” for “of the Federal-aid highway systems, including the Interstate System,” and “which may be expended on such highway” for “for expenditure on any of the Federal-aid highway systems, including the Interstate System,”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–388, §346(1), (2), substituted “Federal-aid highway” for “of the Federal-aid highway systems, including the Interstate System,” and “which may be expended on such highway” for “for expenditure on any of the Federal-aid highway systems, including the Interstate System,”.
 
 Subsec. (c)(2). Pub. L. 102–388, §346(3), inserted “and passenger transit facilities”.
 
@@ -76,25 +76,25 @@ Subsec. (c)(3). Pub. L. 102–388, §346(5), which directed the substitution of 
 
 Pub. L. 102–388, §346(4), substituted “project” for “highway” after “construction of a” in first and second sentences.
 
-1991—Subsecs. (a), (c)(3). Pub. L. 102–240, §1017(a), substituted “20” for “ten”.
+<b>1991</b>—Subsecs. (a), (c)(3). Pub. L. 102–240, §1017(a), substituted “20” for “ten”.
 
 Subsec. (d). Pub. L. 102–240, §1017(b), added subsec. (d).
 
-1976—Subsec. (a). Pub. L. 94–280, §115(b), inserted “unless a longer period is determined to be reasonable by the Secretary” after “request is made” in last sentence.
+<b>1976</b>—Subsec. (a). Pub. L. 94–280, §115(b), inserted “unless a longer period is determined to be reasonable by the Secretary” after “request is made” in last sentence.
 
 Subsec. (c)(2). Pub. L. 94–280, §115(a), struck out “made pursuant to section 133 or chapter 5 of this title” after “relocation payments” in last sentence.
 
 Subsec. (c)(3). Pub. L. 94–280, §115(c), inserted “or later” after “earlier” in first sentence.
 
-1973—Subsec. (a). Pub. L. 93–87, §113(a), substituted “ten” for “seven” years in last sentence.
+<b>1973</b>—Subsec. (a). Pub. L. 93–87, §113(a), substituted “ten” for “seven” years in last sentence.
 
 Subsec. (c)(3). Pub. L. 93–87, §113(b), substituted “ten” for “seven” years in first sentence.
 
-1968—Subsec. (b). Pub. L. 90–495, §7(a), substituted “subsection (a) of this section” for “this section”.
+<b>1968</b>—Subsec. (b). Pub. L. 90–495, §7(a), substituted “subsection (a) of this section” for “this section”.
 
 Subsec. (c). Pub. L. 90–495, §7(b), added subsec. (c).
 
-1959—Subsec. (a). Pub. L. 86–35 increased from five to seven years the period in which actual construction shall commence on rights-of-way acquired in anticipation of such construction.
+<b>1959</b>—Subsec. (a). Pub. L. 86–35 increased from five to seven years the period in which actual construction shall commence on rights-of-way acquired in anticipation of such construction.
 
 #### Effective Date of 1991 Amendment
 
@@ -122,7 +122,7 @@ Credit to highway trust fund.—With respect to a project for which funds have b
 
 #### Preservation of Transportation Corridors Report
 
-Section 1017(c) of Pub. L. 102–240 provided that: “The Secretary, in consultation with the States, shall report to Congress within 2 years after the date of the enactment of this Act \[Dec. 18, 1991\], a national list of the rights-of-way identified by the metropolitan planning organizations and the States (under sections 134 and 135 of title 23, United States Code), including the total mileage involved, an estimate of the total costs, and astrategy for preventing further loss of rights-of-way including the desirability of creating a transportation right-of-way land bank to preserve vital corridors.”
+Section 1017(c) of Pub. L. 102–240 provided that: “The Secretary, in consultation with the States, shall report to Congress within 2 years after the date of the enactment of this Act \[Dec. 18, 1991\], a national list of the rights-of-way identified by the metropolitan planning organizations and the States (under sections 134 and 135 of title 23, United States Code), including the total mileage involved, an estimate of the total costs, and a strategy for preventing further loss of rights-of-way including the desirability of creating a transportation right-of-way land bank to preserve vital corridors.”
 
 #### Authorization of Appropriations to Right-of-Way Revolving Fund; Apportionment; Reversion of Amounts Not Advanced or Obligated
 

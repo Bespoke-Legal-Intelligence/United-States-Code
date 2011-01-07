@@ -6,7 +6,7 @@
 
 &emsp;(2) notwithstanding paragraph (1), the President (and only the President) may direct a person who serves in an office for which appointment is required to be made by the President, by and with the advice and consent of the Senate, to perform the functions and duties of the vacant office temporarily in an acting capacity subject to the time limitations of section 3346; or
 
-&emsp;(3) notwithstanding paragraph (1), the President (and only the President) may direct an officer or employee of such Executive agency to perform the functions and duties of the vacant office temporarily in an acting capacity, subject to the time limitations of section 3346, if—
+&emsp;(3) notwithstanding paragraph (1), the President (and only the President) may direct anofficer or employee of such Executive agency to perform the functions and duties of the vacant office temporarily in an acting capacity, subject to the time limitations of section 3346, if—
 
 &emsp;&emsp;(A) during the 365-day period preceding the date of death, resignation, or beginning of inability to serve of the applicable officer, the officer or employee served in a position in such agency for not less than 90 days; and
 
@@ -90,7 +90,7 @@ Ex. Ord. No. 11487, Oct. 6, 1969, 34 F.R. 15593, as amended by Pub. L. 101–509
 
 #### Executive Order No. 11822
 
-Ex. Ord. No. 11822, Dec. 10, 1974, 39 F.R. 43275, which designated certain officers of the Department of the Treasury to act as Secretary of the Treasury during any period of unavailability of both the Secretary and the Deputy Secretary of the Treasury, was revoked by Ex. Ord. No. 13246, §4, Dec. 18, 2001, 66 F.R. 66270, set out below.
+Ex. Ord. No. 11822, Dec. 10, 1974, 39 F.R. 43275, which designated certain officers of the Department of the Treasury to act as Secretary of the Treasury during any period of unavailability of both the Secretary andthe Deputy Secretary of the Treasury, was revoked by Ex. Ord. No. 13246, §4, Dec. 18, 2001, 66 F.R. 66270, set out below.
 
 #### Executive Order No. 11880
 
@@ -98,7 +98,7 @@ Ex. Ord. No. 11880, Oct. 2, 1975, 40 F.R. 46089, as amended by Ex. Ord. No. 1260
 
 #### Executive Order No. 11957
 
-Ex. Ord. No. 11957, Jan. 13, 1977, 42 F.R. 3295, which designated certain officers of the Department of Agriculture to act as Secretary of Agriculture during any period of unavailability of both the Secretary and the Deputy Secretary of Agriculture, was revoked by Ex. Ord. No. 13241, §4, Dec. 18, 2001, 66 F.R. 66259, set out below.
+Ex. Ord. No. 11957, Jan. 13, 1977, 42 F.R. 3295, which designated certain officers of the Department of Agriculture to act as Secretary of Agriculture during any period of unavailability of both the Secretary and the Deputy Secretary of Agriculture, was revoked by Ex. Ord. No. 13241, §4, Dec. 18, 2001, 66 F.R. 66259, formerly set out below.
 
 #### Executive Order No. 12343
 
@@ -156,7 +156,7 @@ Section 1. <i>Succession To Act as the Secretary of the Army.</i>
 
 &emsp;(1) The designation of an Acting Secretary of the Army under this subsection applies only for the duration of the Secretary's absence or disability, and does not affect the authority of the Secretary to resume the powers of the Secretary's office.
 
-&emsp;(2) When the Secretary of the Army is temporarily absent from the position, the Secretary of the Armymay continue to exercise the powers and fulfill the duties of his office during his absence, notwithstanding the provisions of this order.
+&emsp;(2) When the Secretary of the Army is temporarily absent from the position, the Secretary of the Army may continue to exercise the powers and fulfill the duties of his office during his absence, notwithstanding the provisions of this order.
 
 (c) Precedence among those officers designated in paragraph (a) of this section who have the same date of appointment shall be determined by the Secretary of the Army at the time that such appointments are made.
 
@@ -182,7 +182,7 @@ Section 1. <i>Succession To Act as the Secretary of the Air Force.</i>
 
 &emsp;(3) The Chief of Staff of the Air Force.
 
-(b) In the event of the absence or temporary disability of the Secretary of the Air Force, the incumbents holding the Department of the Air Force positions designated in paragraph (a) of this section, in the order indicated, shall act for and exercise the powers of the Secretary of the Air Force.
+(b) In the event of the absence or temporary disability of the Secretary of the Air Force, the incumbentsholding the Department of the Air Force positions designated in paragraph (a) of this section, in the order indicated, shall act for and exercise the powers of the Secretary of the Air Force.
 
 &emsp;(1) The designation of an Acting Secretary of the Air Force applies only for the duration of the Secretary's absence or disability, and does not affect the authority of the Secretary to resume the powers of the Secretary's office.
 
@@ -198,57 +198,11 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 13000
 
-Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, which provided an order of succession of officers to act as Secretary of Defense, was revoked by Ex. Ord. No. 13394, §5, Dec. 22, 2005, 70 F.R. 76666, set out below.
+Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, which provided an order of succession of officers to act as Secretary of Defense, was revoked by Ex. Ord. No. 13394, §5, Dec. 22, 2005, 70 F.R. 76666, formerly set out below.
 
-#### Ex. Ord. No. 13241. Providing an Order of Succession Within the Department of Agriculture
+#### Executive Order No. 13241
 
-Ex. Ord. No. 13241, Dec. 18, 2001, 66 F.R. 66258, as amended by Ex. Ord. No. 13261, §4(a), Mar. 19, 2002, 67 F.R. 13243; Ex. Ord. No. 13484, §§1, 2, Jan. 9, 2009, 74 F.R. 2285, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including Subchapter III of Chapter 33 of title 5 of the United States Code, it is hereby ordered that:
-
-Section 1. Subject to the provisions of section 3 of this Executive Order, the officers named in section 2, in the order listed, shall act as and perform the functions and duties of the office of Secretary of Agriculture (Secretary) during any period when both the Secretary and the Deputy Secretary of Agriculture (Deputy Secretary) have died, resigned, or are otherwise unable to perform the functions and duties of the office of Secretary.
-
-Sec. 2. <i>Order of Succession.</i>
-
-(a) General Counsel of the Department of Agriculture;
-
-(b) Chief Financial Officer of the Department of Agriculture;
-
-(c) Assistant Secretary of Agriculture for Administration;
-
-(d) Under Secretary of Agriculture for Farm and Foreign Agricultural Services;
-
-(e) Under Secretary of Agriculture for Natural Resources and Environment;
-
-(f) Under Secretary of Agriculture for Marketing and Regulatory Programs;
-
-(g) Under Secretary of Agriculture for Rural Development;
-
-(h) Under Secretary of Agriculture for Food, Nutrition, and Consumer Services;
-
-(i) Under Secretary of Agriculture for Food Safety;
-
-(j) Under Secretary of Agriculture for Research, Education, and Economics;
-
-(k) Assistant Secretary of Agriculture for Congressional Relations;
-
-(l) Assistant Secretary of Agriculture for Civil Rights;
-
-(m) Director, Kansas City Commodity Office, Farm Service Agency (consistent with the time of service and rate of pay requirements of section 3345(a)(3) of title 5, United States Code); and
-
-(n) State Executive Directors of the Farm Service Agency for the States of Missouri, Kansas, Iowa, and Nebraska, in order of seniority fixed by length of unbroken service as State Executive Director of that State (consistent with the time of service and rate of pay requirements of section 3345(a)(3) of title 5, United States Code).
-
-Sec. 3. <i>Exceptions.</i>
-
-(a) No individual who is serving in an office listed in section 2(a)–(n) in an acting capacity shall, by virtue of so serving, act as Secretary pursuant to this order.
-
-(b) Notwithstanding the provisions of this Executive Order, the President retains discretion, to the extent permitted by Subchapter III of Chapter 33 of title 5 of the United States Code, to depart from this Executive Order in designating an acting Secretary.
-
-(c) No individual listed in section 2 shall act as the Secretary unless that individual is otherwise eligible to so serve under the Federal Vacancies Reform Act of 1998.
-
-Sec. 4. Executive Order 11957 of January 13, 1977, is hereby revoked.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 13241, Dec. 18, 2001, 66 F.R. 66258, as amended by Ex. Ord. No. 13261, §4(a), Mar. 19, 2002, 67 F.R. 13243; Ex. Ord. No. 13484, §§1, 2, Jan. 9, 2009, 74 F.R. 2285, which designated certain officers of the Department of Agriculture to act as Secretary of Agriculture during any period of unavailability of both the Secretary and the Deputy Secretary of Agriculture, was revoked by Ex. Ord. No. 13542, §3, May 13, 2010, 75 F.R. 27922, set out below.
 
 #### Ex. Ord. No. 13242. Providing an Order of Succession Within the Department of Commerce
 
@@ -328,7 +282,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13244, Dec. 18, 2001, 66 F.R. 66267, as amended by Ex. Ord. No. 13261, §4(d), Mar. 19, 2002, 67 F.R. 13244, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including Subchapter III of Chapter 33 of title 5 of the United States Code, it is hereby ordered that:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including Subchapter III of Chapter 33 of title 5 of the United States Code, it is hereby ordered that:
 
 Section 1. Subject to the provisions of section 3 of this Executive Order, the officers named in section 2, in the order listed, shall act as and perform the functions and duties of the office of Secretary of the Interior (Secretary) during any period when both the Secretary and the Deputy Secretary of the Interior (Deputy Secretary) have died, resigned, or are otherwise unable to perform the functions and duties of the office of Secretary.
 
@@ -444,7 +398,7 @@ Sec. 2. <i>Order of Succession.</i>
 
 (d) General Counsel of the Department of Veterans Affairs;
 
-(e) Assistant Secretaries of Veterans Affairs, in the order in which they shall have taken the oath of office as Assistant Secretaries, other than the Chief Financial Officer and, if an Assistant Secretary, the Chief Information Officer;
+(e) Assistant Secretaries of Veterans Affairs, in the order in which they shall have taken the oath of officeas Assistant Secretaries, other than the Chief Financial Officer and, if an Assistant Secretary, the Chief Information Officer;
 
 (f) Chief Information Officer of the Department of Veterans Affairs, if the Chief Information Officer is an officer appointed by the President by and with the consent of the Senate;
 
@@ -586,7 +540,7 @@ Sec. 3. <i>Exceptions.</i>
 
 Sec. 4. <i>Amendments to Certain Executive Orders providing Orders of Succession</i>. Executive Orders 13241, 13242, 13243, 13244, 13245, 13246, and 13247 of December 18, 2001, and Executive Orders 13250 and 13251 of December 28, 2001, are hereby amended as follows:
 
-(a) \[Amended Ex. Ord. No. 13241, set out above;\]
+(a) \[Amended Ex. Ord. No. 13241, formerly set out above;\]
 
 (b) \[Amended Ex. Ord. No. 13242, set out above;\]
 
@@ -600,7 +554,7 @@ Sec. 4. <i>Amendments to Certain Executive Orders providing Orders of Succession
 
 (g) \[Amended Ex. Ord. No. 13247, set out above;\]
 
-(h) \[Amended Ex. Ord. No. 13250, set out above; and\]
+(h) \[Amended Ex. Ord. No. 13250, formerly set out above; and\]
 
 (i) \[Amended Ex. Ord. No. 13251, set out above.\]
 
@@ -642,53 +596,9 @@ Sec. 2. <i>Exceptions</i>. (a) No individual who is serving in an office listed 
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 13394. Providing an Order of Succession Within the Department of Defense
+#### Executive Order No. 13394
 
-Ex. Ord. No. 13394, Dec. 22, 2005, 70 F.R. 76665, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered as follows:
-
-Section 1. Subject to the provisions of section 3 of this order, the officers named in section 2, in the order listed, shall act as and perform the functions and duties of the office of the Secretary of Defense (Secretary) during any period when the Secretary has died, resigned, or is otherwise unable to perform the functions and duties of the office of Secretary.
-
-Sec. 2. <i>Order of Succession.</i>
-
-(a) Deputy Secretary of Defense;
-
-(b) Under Secretary of Defense for Intelligence;
-
-(c) Under Secretary of Defense for Policy;
-
-(d) Under Secretary of Defense for Acquisition, Technology, and Logistics;
-
-(e) Secretary of the Army;
-
-(f) Secretary of the Air Force;
-
-(g) Secretary of the Navy;
-
-(h) Under Secretary of Defense for Personnel and Readiness and the Under Secretary of Defense (Comptroller);
-
-(i) Deputy Under Secretary of Defense for Acquisition and Technology, Deputy Under Secretary of Defense for Policy, and Deputy Under Secretary of Defense for Personnel and Readiness;
-
-(j) General Counsel of the Department of Defense, the Assistant Secretaries of Defense, and the Director of Operational Test and Evaluation;
-
-(k) Deputy Under Secretary of Defense for Logistics and Material Readiness and the Director of Defense Research and Engineering;
-
-(l) Under Secretaries of the Army, the Navy, and the Air Force; and
-
-(m) Assistant Secretaries of the Army, the Navy, and the Air Force, and General Counsels of the Army, the Navy, and the Air Force.
-
-Sec. 3. <i>Exceptions</i>. (a) No individual who is serving in an office listed in section 2(a)–(m) in an acting capacity shall act as Secretary pursuant to this order.
-
-(b) Precedence among officers designated within the same subsection of section 2 of this order shall be determined by the order in which they have been appointed to such office by the President. Where officers designated within the same subsection of section 2 of this order are appointed on the same date, precedence will be determined by the order in which they have taken the oath to serve in that office.
-
-(c) Notwithstanding the provisions of this order, the President retains discretion, to the extent permitted by law, to depart from this order in designating an acting Secretary.
-
-Sec. 4. <i>Judicial Review</i>. This order is intended to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, entities, officers, employees or agents, or any other person.
-
-Sec. 5. <i>Revocation</i>. Executive Order No. 13000 of April 24, 1996 \[formerly set out above\], and the President's memorandum of June 2, 2005, entitled: “Order of Succession of Officers to Act as Secretary of Defense,” \[not set out in the Code\] are hereby revoked.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 13394, Dec. 22, 2005, 70 F.R. 76665, which provided an order of succession of officers to act as Secretary of Defense, was revoked by Ex. Ord. No. 13533, §3, Mar. 1, 2010, 75 F.R. 10164, set out below.
 
 #### Ex. Ord. No. 13461. Providing an Order of Succession Within the Department of Health and Human Services
 
@@ -748,7 +658,7 @@ Sec. 2. <i>Definitions</i>. As used in this order:
 
 &emsp;(ii) the United States Postal Service and the Postal Regulatory Commission; and
 
-(b) “order of succession” means a list of officials by position who shall act as and perform the functions and duties of the office of the head of the agency in theevent that the office-holder has died, resigned, or otherwise become unable to perform the functions and duties of the office. “Order of succession” does not include any order, rule, memorandum, or other document delegating or partially delegating the authority of an office.
+(b) “order of succession” means a list of officials by position who shall act as and perform the functions and duties of the office of the head of the agency in the event that the office-holder has died, resigned, or otherwise become unable to perform the functions and duties of the office. “Order of succession” does not include any order, rule, memorandum, or other documentdelegating or partially delegating the authority of an office.
 
 Sec. 3. <i>Orders of Succession Requiring Presidential Action.</i>
 
@@ -778,31 +688,9 @@ Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 13481. Providing An Order of Succession Within the Department of Justice
+#### Executive Order No. 13481
 
-Ex. Ord. No. 13481, Dec. 9, 2008, 73 F.R. 75531, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered that:
-
-Section 1. Subject to the provisions of section 2 of this order, the following officers, in the order listed, shall act as and perform the functions and duties of the office of Attorney General, during any period in which the Attorney General, the Deputy Attorney General, the Associate Attorney General, and the officers designated by the Attorney General pursuant to 28 U.S.C. 508 to act as Attorney General have died, resigned, or otherwise become unable to perform the functions and duties of the office of Attorney General, until such time as at least one of the officers mentioned above is able to perform the functions and duties of that office:
-
-(a) United States Attorney for the District of Maryland;
-
-(b) United States Attorney for the Southern District of Alabama; and
-
-(c) United States Attorney for the Northern District of Georgia.
-
-Sec. 2. <i>Exceptions</i>. (a) No individual who is serving in an office listed in section 1 of this order in an acting capacity, by virtue of so serving, shall act as Attorney General pursuant to this order.
-
-(b) No individual listed in section 1 shall act as Attorney General unless that individual is otherwise eligible to so serve under the Federal Vacancies Reform Act of 1998.
-
-(c) Notwithstanding the provisions of this order, the President retains discretion, to the extent permitted by law, to depart from this order in designating an acting Attorney General.
-
-Sec. 3. This order supersedes the President's Memorandum for the Attorney General of December 8, 2006 (Designation of Officers of the Department of Justice).
-
-Sec. 4. This order is intended to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 13481, Dec. 9, 2008, 73 F.R. 75531, which provided an order of succession within the Department of Justice, was revoked by Ex. Ord. No. 13557, §3, Nov. 4, 2010, 75 F.R. 68679, set out below.
 
 #### Ex. Ord. No. 13485. Providing an Order of Succession Within the Department of Transportation
 
@@ -849,6 +737,150 @@ Sec. 3. This order supersedes the President's Memorandum of March 19, 2002 (Desi
 Sec. 4. This order is intended to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13533. Providing an Order of Succession Within the Department of Defense
+
+Ex. Ord. No. 13533, Mar. 1, 2010, 75 F.R. 10163, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, as amended, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered that:
+
+Section 1. <i>Order of Succession.</i>
+
+(a) Subject to the provisions of section 2 of this order, the following officials of the Department of Defense, in the order listed, shall act as and perform the functions and duties of the office of the Secretary of Defense (Secretary) during any period in which the Secretary has died, resigned, or otherwise become unable to perform the functions and duties of the office of the Secretary, until such time as the Secretary is able to perform the functions and duties of that office:
+
+(1) Deputy Secretary of Defense;
+
+(2) Secretary of the Army;
+
+(3) Secretary of the Navy;
+
+(4) Secretary of the Air Force;
+
+(5) Under Secretary of Defense for Acquisition, Technology, and Logistics;
+
+(6) Under Secretary of Defense for Policy;
+
+(7) Under Secretary of Defense (Comptroller);
+
+(8) Under Secretary of Defense for Personnel and Readiness;
+
+(9) Under Secretary of Defense for Intelligence;
+
+(10) Deputy Chief Management Officer, Department of Defense;
+
+(11) Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics;
+
+(12) Principal Deputy Under Secretary of Defense for Policy;
+
+(13) Principal Deputy Under Secretary of Defense (Comptroller);
+
+(14) Principal Deputy Under Secretary of Defense for Personnel and Readiness;
+
+(15) Principal Deputy Under Secretary of Defense for Intelligence;
+
+(16) Director of Defense Research and Engineering \[now Assistant Secretary of Defense for Research and Engineering\];
+
+(17) General Counsel of the Department of Defense, the Assistant Secretaries of Defense, the Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs \[now Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs\], the Director of Operational Test and Evaluation, the Director of Operational Energy Plans and Programs \[now Assistant Secretary of Defense for Operational Energy Plans and Programs\], and the Director of Cost Assessment and Program Evaluation;
+
+(18) Under Secretaries of the Army, the Navy, and the Air Force; and
+
+(19) Assistant Secretaries of the Army, the Navy, and the Air Force, and General Counsels of the Army, the Navy, and the Air Force.
+
+(b) Precedence among officers designated within the same paragraph of subsection (a) shall be determined by the order in which they have been appointed to such office. Where officers designated within the same paragraph of subsection (a) have the same appointment date, precedence shall be determined by the order in which they have taken the oath to serve in that office.
+
+Sec. 2. <i>Exceptions.</i>
+
+(a) No individual who is serving in an office listed in section 1 in an acting capacity, by virtue of so serving, shall act as Secretary pursuant to this order.
+
+(b) No individual listed in section 1 shall act as Secretary unless that individual was appointed by the President, by and with the advice and consent of the Senate, and that individual is otherwise eligible to so serve under the Federal Vacancies Reform Act of 1998, as amended.
+
+(c) Notwithstanding the provisions of this order, the President retains discretion, to the extent permitted by law, to depart from this order in designating an acting Secretary.
+
+Sec. 3. <i>Revocation</i>. Executive Order 13394 of December 22, 2005 (Providing An Order of Succession Within the Department of Defense), is hereby revoked.
+
+Sec. 4. <i>Judicial Review</i>. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13542. Providing an Order of Succession Within the Department of Agriculture
+
+Ex. Ord. No. 13542, May 13, 2010, 75 F.R. 27921, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345, <i>et seq</i>., it is hereby ordered that:
+
+Section 1. <i>Order of Succession</i>. (a) Subject to the provisions of section 2 of this order, the following officials of the Department of Agriculture, in the order listed, shall act as and perform the functions and duties of the office of Secretary of Agriculture (Secretary) during any period in which both the Secretary and the Deputy Secretary of Agriculture (Deputy Secretary) have died, resigned, or are otherwise unable to perform the functions and duties of the office of Secretary, until such time as the Secretary or Deputy Secretary is able to perform the functions and duties of that office:
+
+(1) Assistant Secretary of Agriculture for Administration;
+
+(2) Under Secretary of Agriculture for Marketing and Regulatory Programs;
+
+(3) Under Secretary of Agriculture for Food, Nutrition, and Consumer Services;
+
+(4) Under Secretary of Agriculture for Food Safety;
+
+(5) Under Secretary of Agriculture for Natural Resources and Environment;
+
+(6) Under Secretary of Agriculture for Farm and Foreign Agricultural Services;
+
+(7) Under Secretary of Agriculture for Rural Development;
+
+(8) Under Secretary of Agriculture for Research, Education, and Economics;
+
+(9) General Counsel of the Department of Agriculture;
+
+(10) Chief of Staff, Office of the Secretary;
+
+(11) Director, Kansas City Commodity Office, Farm Service Agency;
+
+(12) State Executive Directors of the Farm Service Agency for the States of California, Iowa, and Kansas, in order of seniority fixed by length of unbroken service as State Executive Director of that State;
+
+(13) Regional Administrators of the Food and Nutrition Service for the Mountain Plains Regional Office (Denver, Colorado), Midwest Regional Office (Chicago, Illinois), and Western Regional Office (San Francisco, California), in order of seniority fixed by length of unbroken service as Regional Administrator of that Regional Office;
+
+(14) Chief Financial Officer of the Department of Agriculture;
+
+(15) Assistant Secretary of Agriculture for Civil Rights; and
+
+(16) Assistant Secretary of Agriculture for Congressional Relations.
+
+(b) If any two or more individuals designated in paragraphs (12) and (13) of subsection (a) were sworn in to, or commenced service in, their respective offices on the same day, precedence shall be determined by the alphabetical order of the State in which the individual serves.
+
+Sec. 2. <i>Exceptions</i>. (a) No individual who is serving in an office listed in section 1 in an acting capacity shall, by virtue of so serving, act as Secretary pursuant to this order.
+
+(b) No individual who is serving in an office listed in section 1 shall act as Secretary unless that individual is otherwise eligible to so serve under the Federal Vacancies Reform Act of 1998.
+
+(c) Notwithstanding the provisions of this order, the President retains discretion, to the extent permitted by law, to depart from this order in designating an acting Secretary.
+
+Sec. 3. Executive Order 13241 of December 18, 2001, as amended, is hereby revoked.
+
+Sec. 4. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13557. Providing an Order of Succession Within the Department of Justice
+
+Ex. Ord. No. 13557, Nov. 4, 2010, 75 F.R. 68679, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered that:
+
+Section 1. <i>Order of Succession</i>. Subject to the provisions of section 2 of this order, the following officers, in the order listed, shall act as and perform the functions and duties of the office of Attorney General, during any period in which the Attorney General, the Deputy Attorney General, the Associate Attorney General, and any officers designated by the Attorney General pursuant to 28 U.S.C. 508 to act as Attorney General have died, resigned, or otherwise become unable to perform the functions and duties of the office of Attorney General, until such time as at least one of the officers mentioned above is able to perform the functions and duties of that office:
+
+(a) United States Attorney for the Eastern District of Virginia;
+
+(b) United States Attorney for the District of Minnesota; and
+
+(c) United States Attorney for the District of Arizona.
+
+Sec. 2. <i>Exceptions</i>. (a) No individual who is serving in an office listed in section 1 of this order in an acting capacity, by virtue of so serving, shall act as Attorney General pursuant to this order.
+
+(b) No individual listed in section 1 shall act as Attorney General unless that individual is otherwise eligible to so serve under the Federal Vacancies Reform Act of 1998.
+
+(c) Notwithstanding the provisions of this order, the President retains discretion, to the extent permitted by law, to depart from this order in designating an acting Attorney General.
+
+Sec. 3. Executive Order 13481 of December 9, 2008, is revoked.
+
+Sec. 4. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Designation of Officers of the Federal Emergency Management Agency To Act as Director of the Federal Emergency Management Agency
 
@@ -940,7 +972,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Designation of Officers of the Department of Justice
 
-Memorandum of President of the United States, Dec. 8, 2006, 71 F.R. 74753, which provided a designation of officers of the Department of Justice, was superseded by Ex. Ord. No. 13481, §3, Dec. 9, 2008, 73 F.R. 75531, set out above.
+Memorandum of President of the United States, Dec. 8, 2006, 71 F.R. 74753, which provided a designation of officers of the Department of Justice, was superseded by Ex. Ord. No. 13481, §3, Dec. 9, 2008, 73 F.R. 75531, formerly set out above.
 
 #### Designation of Officers of the Federal Bureau of Investigation
 
@@ -1146,7 +1178,7 @@ Memorandum for the Director of the Pension Benefit Guaranty Corporation
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered that:
 
-Section 1. <i>Order of Succession</i>. Subject to the provisions of section 2 of this memorandum, the following officials of the Pension Benefit Guaranty Corporation, in the order listed, shall act as and perform the functions and duties of the office of the Director of the Pension Benefit Guaranty Corporation (Director), during any period in which the Director has died, resigned, orotherwise become unable to perform the functions and duties of the office of Director, until such time as the Director is able to perform the functions and duties of that office:
+Section 1. <i>Order of Succession</i>. Subject to the provisions of section 2 of this memorandum, the following officials of the Pension Benefit Guaranty Corporation, in the order listed, shall act as and perform the functions and duties of the office of the Director of the Pension Benefit Guaranty Corporation (Director), during any period in which the Director has died, resigned, or otherwise become unable to perform the functions and duties of the office of Director, until such time as the Director is able to perform the functions and duties of that office:
 
 (a) Deputy Director for Operations;
 
@@ -1252,7 +1284,7 @@ Memorandum for the President of the Overseas Private Investment Corporation
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered that:
 
-Section 1. <i>Order of Succession</i>. Subject to the provisions of section 2 of this memorandum, the following officials of the Overseas Private Investment Corporation, in the order listed, shall act as and perform thefunctions and duties of the office of the President of the Overseas Private Investment Corporation (POPIC), during any period in which the POPIC has died, resigned, or otherwise become unable to perform the functions and duties of the office of POPIC, until such time as the POPIC is able to perform the functions and duties of that office:
+Section 1. <i>Order of Succession</i>. Subject to the provisions of section 2 of this memorandum, the following officials of the Overseas Private Investment Corporation, in the order listed, shall act as and perform the functions and duties of the office of the President of the Overseas Private Investment Corporation (POPIC), during any period in which the POPIC has died, resigned, or otherwise become unable to perform the functions and duties of the office of POPIC, until such time as the POPIC is able to perform the functions and duties of that office:
 
 (a) Executive Vice President;
 

@@ -30,7 +30,7 @@ The Congress finds that—
 
 #### (1) General rule
 
-&emsp;Neither the Board of Governors of the Federal Reserve System nor the Federal Reserve Bank of New York may designate, or permit the continuation of any prior designation of, any person of a foreign country as a primary dealer in government debt instruments if such foreign country does not accord to United States companies the same competitive opportunities in the underwriting and distribution of government debt instruments issued by such country as such country accords to domestic companies of such country.
+&emsp;Neither the Board of Governors of the Federal Reserve System nor the Federal Reserve Bank of New York may designate, or permit the continuation of any prior designation of, any person of a foreign country as a primarydealer in government debt instruments if such foreign country does not accord to United States companies the same competitive opportunities in the underwriting and distribution of government debt instruments issued by such country as such country accords to domestic companies of such country.
 
 #### (2) Certain prior acquisitions excepted
 

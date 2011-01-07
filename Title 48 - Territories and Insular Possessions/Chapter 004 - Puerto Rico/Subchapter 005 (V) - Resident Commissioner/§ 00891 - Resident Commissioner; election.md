@@ -20,7 +20,7 @@ The manner of paying the salary and traveling expenses of the resident commissio
 
 #### Amendments
 
-1934—Act June 5, 1934, changed commencement of term of office from Mar. 4 to Jan. 3 following the general election.
+<b>1934</b>—Act June 5, 1934, changed commencement of term of office from Mar. 4 to Jan. 3 following the general election.
 
 #### Change of Name
 

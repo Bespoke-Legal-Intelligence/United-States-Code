@@ -78,13 +78,13 @@ The Director shall continue awards for the support of the Educational Resources 
 
 &emsp;&emsp;&emsp;&emsp;(II) the priorities and mission of the Institute; and
 
-&emsp;&emsp;&emsp;(ii) developed by the Department, other Federal agencies, or entities (including entities supported under subchapter II of this chapter and the Educational Resources Information Center Clearinghouses (established under section 941(f) of the Educational Research, Development, Dissemination, and Improvement Act of 1994 (20U.S.C. 6041(f)) (as such provision was in effect on the day before November 5, 2002))).<sup>1</sup>
+&emsp;&emsp;&emsp;(ii) developed by the Department, other Federal agencies, or entities (including entities supported under subchapter II of this chapter and the Educational Resources Information Center Clearinghouses (established under section 941(f) of the Educational Research, Development, Dissemination, and Improvement Act of 1994 (20 U.S.C. 6041(f)) (as such provision was in effect on the day before November 5, 2002))).<sup>1</sup>
 
 (Pub. L. 107–279, title I, §172, Nov. 5, 2002, 116 Stat. 1962.)
 
 #### References in Text
 
-The Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002), referred to in subsecs. (a)(1)(E), (b)(1), (c), and (d)(2)(B)(ii), is title IX of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 212, as amended, which was classified principally to subchapter IX (§6001 et seq.) of chapter 68 of this title and was substantially repealed by Pub. L. 107–279, title IV, §403(2), Nov. 5, 2002, 116 Stat. 1985. Section 941 of the Act was classified to section 6041 of this title prior to repeal. For complete classification of this Act to the Code, see section 6001 of this title and Tables.
+The Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existedon the day before November 5, 2002), referred to in subsecs. (a)(1)(E), (b)(1), (c), and (d)(2)(B)(ii), is title IX of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 212, as amended, which was classified principally to subchapter IX (§6001 et seq.) of chapter 68 of this title and was substantially repealed by Pub. L. 107–279, title IV, §403(2), Nov. 5, 2002, 116 Stat. 1985. Section 941 of the Act was classified to section 6041 of this title prior to repeal. For complete classification of this Act to the Code, see section 6001 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. The third closing parenthesis probably should not appear.</i>
 

@@ -6,5 +6,5 @@ Payments may be made under this subchapter (after necessary adjustments, in the 
 
 #### Amendments
 
-1993—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
+<b>1993</b>—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
 

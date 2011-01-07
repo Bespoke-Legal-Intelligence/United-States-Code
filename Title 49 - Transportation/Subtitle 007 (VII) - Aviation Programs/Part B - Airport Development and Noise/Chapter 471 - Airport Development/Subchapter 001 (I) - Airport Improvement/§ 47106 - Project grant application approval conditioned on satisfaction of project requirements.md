@@ -34,7 +34,7 @@ Environmental Requirements.—(1) The Secretary may approve an application under
 
 &emsp;&emsp;(ii) the airport management board has voting representation from the communities in which the project is located or has advised the communities that they have the right to petition the Secretary about a proposed project; and
 
-&emsp;&emsp;(iii) with respect to an airport development project involving the location of an airport, runway, or major runway extension at a medium or large hub airport, the airport sponsor has made available to and has provided upon request to the metropolitan planning organization in the area in whichthe airport is located, if any, a copy of the proposed amendment to the airport layout plan to depict the project and a copy of any airport master plan in which the project is described or depicted; and
+&emsp;&emsp;(iii) with respect to an airport development project involving the location of an airport, runway, or major runway extension at a medium or large hub airport, the airport sponsor has made available to and has provided upon request to the metropolitan planning organization in the area in which the airport is located, if any, a copy of the proposed amendment to the airport layout plan to depict the project and a copy of any airport master plan in which the project is described or depicted; and
 
 &emsp;(B) if the application is found to have a significant adverse effect on natural resources, including fish and wildlife, natural, scenic, and recreation assets, water and air quality, or another factor affecting the environment, only after finding that no possible and prudent alternative to the project exists and that every reasonable step has been taken to minimize the adverse effect.
 
@@ -180,7 +180,7 @@ In subsection (a)(5), the words “which submitted the project grant application
 
 In subsection (b), before clause (1), the words “for an airport” are added for clarity. In clause (1), the words “or an agency thereof” are omitted surplus. In clause (3), the words “that the Secretary . . . decides is necessary” are substituted for “when it is determined by the Secretary that any such item is required” to eliminate unnecessary words.
 
-In subsection (c)(1)(B), before subclause (i), the words “chief executive officer” are substituted for “Governor” because this chapter applies to the District of Columbia which does not have a Governor. The words “except that the Administrator of the Environmental Protection Agency shall make the certification instead of the chief executive officer if” are substituted for “In any case where . . . certification shall be obtained from such Administrator” for clarity. Subclause (i) is substituted for “such standards have not been approved” for clarity.
+In subsection (c)(1)(B), before subclause (i), the words “chief executive officer” are substituted for “Governor” because this chapter applies to the District ofColumbia which does not have a Governor. The words “except that the Administrator of the Environmental Protection Agency shall make the certification instead of the chief executive officer if” are substituted for “In any case where . . . certification shall be obtained from such Administrator” for clarity. Subclause (i) is substituted for “such standards have not been approved” for clarity.
 
 In subsection (c)(2), before clause (A), the words “Notwithstanding any other provision of law” are omitted as surplus. The words “that does not involve the location of an airport or runway, or a major runway extension” are substituted for “(other than an airport development project in which paragraph (7)(A) applies)” for clarity. The words “the preparation of” are omitted as surplus. In clause (B), the words “statutory and administrative” are omitted as surplus.
 
@@ -202,7 +202,7 @@ In subsection (e)(3), the words “adversely affected” are substituted for “
 
 #### Amendments
 
-2003—Subsec. (c)(1)(A)(iii). Pub. L. 108–176, §305(1), inserted “and” after semicolon at end.
+<b>2003</b>—Subsec. (c)(1)(A)(iii). Pub. L. 108–176, §305(1), inserted “and” after semicolon at end.
 
 Pub. L. 108–176, §187, added cl. (iii).
 
@@ -220,13 +220,13 @@ Subsec. (c)(4), (5). Pub. L. 108–176, §305(5)–(7), redesignated par. (5) as
 
 “(B) The Secretary shall condition approval of the application on compliance with the applicable standards during construction and operation.”
 
-2002—Subsec. (g). Pub. L. 107–296 added subsec. (g).
+<b>2002</b>—Subsec. (g). Pub. L. 107–296 added subsec. (g).
 
-2001—Subsec. (f)(3), (4). Pub. L. 107–71, which directed the amendment of section 47106(f) by adding par. (3) and redesignating former par. (3) as (4), without specifying the Code title to be amended, was executed by making the amendments to this section, to reflect the probable intent of Congress.
+<b>2001</b>—Subsec. (f)(3), (4). Pub. L. 107–71, which directed the amendment of section 47106(f) by adding par. (3) and redesignating former par. (3) as (4), without specifying the Code title to be amended, was executed by making the amendments to this section, to reflect the probable intent of Congress.
 
-2000—Subsec. (f). Pub. L. 106–181 added subsec. (f).
+<b>2000</b>—Subsec. (f). Pub. L. 106–181 added subsec. (f).
 
-1994—Subsecs. (d), (e). Pub. L. 103–305 added subsec. (e), redesignated former subsec. (e) as (d), and struck out former subsec. (d) which read as follows:
+<b>1994</b>—Subsecs. (d), (e). Pub. L. 103–305 added subsec. (e), redesignated former subsec. (e) as (d), and struck out former subsec. (d) which read as follows:
 
 “(d)
 

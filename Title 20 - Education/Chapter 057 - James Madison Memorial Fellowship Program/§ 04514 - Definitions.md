@@ -18,9 +18,9 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-2002—Par. (4). Pub. L. 107–110 substituted “7801” for “8801”.
+<b>2002</b>—Par. (4). Pub. L. 107–110 substituted “7801” for “8801”.
 
-1998—Par. (3). Pub. L. 105–244, §102(a)(6)(G)(i), substituted “section 1001” for “section 1141(a)”.
+<b>1998</b>—Par. (3). Pub. L. 105–244, §102(a)(6)(G)(i), substituted “section 1001” for “section 1141(a)”.
 
 Par. (4). Pub. L. 105–244, §102(a)(6)(G)(ii), substituted “section 8801” for “section 1141(d)”.
 

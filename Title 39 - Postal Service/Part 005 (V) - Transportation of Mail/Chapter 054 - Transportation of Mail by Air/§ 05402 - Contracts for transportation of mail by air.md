@@ -446,7 +446,7 @@ The date of enactment of this subsection, referred to in subsec. (s), is the dat
 
 #### Amendments
 
-2008—Subsec. (a)(2). Pub. L. 110–405, §2(b)(11)(D), which directed the insertion of “foreign air carrier,” after “terms”, was executed by making the insertion after first reference to “terms” to reflect the probable intent of Congress.
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–405, §2(b)(11)(D), which directed the insertion of “foreign air carrier,” after “terms”, was executed by making the insertion after first reference to “terms” to reflect the probable intent of Congress.
 
 Pub. L. 110–405, §2(b)(11)(A), inserted “ ‘foreign air carrier’.” after “ ‘interstate air transportation’,”
 
@@ -460,7 +460,7 @@ Subsec. (a)(25). Pub. L. 110–405, §2(b)(11)(C), redesignated par. (24) as (25
 
 Subsecs. (b), (c). Pub. L. 110–405, §2(a), added subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which related to contracts with certificated air carriers without advertising for bids for transportation of mail between points in foreign air transportation authorized by Secretary and contracts with air carriers for transportation of mail between points in foreign air transportation not authorized by Secretary, respectively.
 
-2006—Subsec. (a)(4), (5). Pub. L. 109–435, §1005(a)(1), (2), substituted “subsection (g)(1)(A)(iv)(I)” for “subsection (g)(1)(D)(i)”.
+<b>2006</b>—Subsec. (a)(4), (5). Pub. L. 109–435, §1005(a)(1), (2), substituted “subsection (g)(1)(A)(iv)(I)” for “subsection (g)(1)(D)(i)”.
 
 Subsec. (a)(8)(A). Pub. L. 109–435, §1005(a)(3), substituted “linehaul rates and a single terminal handling payment at a bush terminal handling rate paid to a bush carrier” for “rates paid to a bush carrier”.
 
@@ -488,7 +488,7 @@ Subsec. (k)(5). Pub. L. 109–435, §1005(f), struck out par. (5) which read as 
 
 Subsec. (p)(3). Pub. L. 109–435, §1005(g), substituted “subsection (g)(1)(A)(iv)” for “subsection (g)(1)(D)”.
 
-2004—Subsec. (a)(10)(C). Pub. L. 108–447, §301(c), added subpar. (C) and struck out former subpar. (C) which read as follows: “actually engaged in the carriage of mainline nonpriority bypass mail through scheduled service in the State of Alaska;”.
+<b>2004</b>—Subsec. (a)(10)(C). Pub. L. 108–447, §301(c), added subpar. (C) and struck out former subpar. (C) which read as follows: “actually engaged in the carriage of mainline nonpriority bypass mail through scheduled service in the State of Alaska;”.
 
 Subsec. (g)(1). Pub. L. 108–447, §301(d), added par. (1) and struck out former par. (1) which read as follows: “The Postal Service, in selecting carriers of non-priority bypass mail to any point served by more than one carrier in the State of Alaska, shall adhere to an equitable tender policy within a qualified group of carriers, in accordance with the regulations of the Postal Service, and shall, at a minimum, require that any such carrier shall—
 
@@ -508,7 +508,7 @@ Subsec. (g)(4)(C). Pub. L. 108–447, §301(e), added subpar. (C).
 
 Subsec. (g)(7). Pub. L. 108–447, §301(f), added par. (7).
 
-2002—Subsec. (a). Pub. L. 107–206, §3002(c)(1)(C), added subsec. (a). Former subsec. (a) redesignated (b).
+<b>2002</b>—Subsec. (a). Pub. L. 107–206, §3002(c)(1)(C), added subsec. (a). Former subsec. (a) redesignated (b).
 
 Subsecs. (b), (c). Pub. L. 107–206, §3002(e)(1)(A), substituted “Secretary” for “Secretary of Transportation” wherever appearing.
 
@@ -538,13 +538,13 @@ Subsec. (g)(4) to (6). Pub. L. 107–206, §3002(c)(4), added pars. (4) to (6).
 
 Subsecs. (h) to (s). Pub. L. 107–206, §3002(c)(5), added subsecs. (h) to (s).
 
-2001—Subsec. (d). Pub. L. 107–67 designated existing provisions as par. (1) and added par. (2).
+<b>2001</b>—Subsec. (d). Pub. L. 107–67 designated existing provisions as par. (1) and added par. (2).
 
-1995—Subsec. (f). Pub. L. 104–52, §631(a)(1), substituted “The” for “During the period beginning January 1, 1985, and ending January 1, 1999, the”.
+<b>1995</b>—Subsec. (f). Pub. L. 104–52, §631(a)(1), substituted “The” for “During the period beginning January 1, 1985, and ending January 1, 1999, the”.
 
 Subsec. (g)(1)(D). Pub. L. 104–52, §631(a)(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “have provided scheduled service within the State of Alaska for at least 12 months before being selected as a carrier of non-priority bypass mail.”
 
-1994—Subsec. (a). Pub. L. 103–272, §4(g)(2)(A), substituted “section 40101(a) of title 49” for “section 1302 of title 49”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–272, §4(g)(2)(A), substituted “section 40101(a) of title 49” for “section 1302 of title 49”.
 
 Subsec. (b). Pub. L. 103–272, §4(g)(2)(B), substituted “sections 40109(a) and (c)–(h) and 42112 of title 49” for “sections 1371(k) and 1386(b) of title 49”, “part A of subtitle VII of title 49” for “sections 1301–1542 of title 49”, and “chapters 411 and 413 of title 49” for “sections 1371–1386 of title 49”.
 
@@ -554,11 +554,11 @@ Subsec. (e). Pub. L. 103–272, §4(g)(2)(D), struck out “ ‘overseas air tr
 
 Subsec. (g)(1)(A). Pub. L. 103–429 substituted “section 41102(a) of title 49” for “section 401 of the Federal Aviation Act of 1958 (49 U.S.C. 1371)”.
 
-1988—Subsec. (f). Pub. L. 100–238, §137(1), substituted “January 1, 1999” for “January 1, 1989”.
+<b>1988</b>—Subsec. (f). Pub. L. 100–238, §137(1), substituted “January 1, 1999” for “January 1, 1989”.
 
 Subsec. (g). Pub. L. 100–238, §137(2), added subsec. (g).
 
-1984—Subsec. (a). Pub. L. 98–443, §9(g)(4)(A)–(C), substituted “Secretary of Transportation” for “Civil Aeronautics Board” wherever appearing, substituted “between any of the points in foreign air transportation” for “between any of the points”, and struck out “10 percent of the domestic mail transported under any such contract or” before “5 percent”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–443, §9(g)(4)(A)–(C), substituted “Secretary of Transportation” for “Civil Aeronautics Board” wherever appearing, substituted “between any of the points in foreign air transportation” for “between any of the points”, and struck out “10 percent of the domestic mail transported under any such contract or” before “5 percent”.
 
 Subsec. (b). Pub. L. 98–443, §9(g)(4)(A), (D), substituted “Secretary of Transportation” for “Civil Aeronautics Board” wherever appearing and “required between points in foreign air transportation” for “required between points”.
 

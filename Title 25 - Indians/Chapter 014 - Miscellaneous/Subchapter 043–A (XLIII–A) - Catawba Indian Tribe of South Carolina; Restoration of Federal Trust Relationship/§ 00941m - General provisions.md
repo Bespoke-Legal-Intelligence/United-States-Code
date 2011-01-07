@@ -14,7 +14,7 @@ The provisions of any Federal law enacted after October 27, 1993, for the benefi
 
 #### (d) Eligibility for consideration to become enterprise zone or general purpose foreign trade zone
 
-Notwithstanding the provisions of any other law or regulation, the Tribe shall be eligible to become, sponsor and operate (1) an “enterprise zone” pursuant to title VII of the Housing and Community Development Act of 1987 (42 U.S.C. 11501–11505) or any other applicable Federal (or State) laws or regulations; or (2) a “foreign-trade zone” or “subzone” pursuant to the Foreign Trade Zones Act of 1934, as amended (19 U.S.C. 81a–81u) and the regulations thereunder,to the same extent as other federally recognized Indian Tribes.
+Notwithstanding the provisions of any other law or regulation, the Tribe shall be eligible to become, sponsor and operate (1) an “enterprise zone” pursuant to title VII of the Housing and Community Development Act of 1987 (42 U.S.C. 11501–11505) or any other applicable Federal (or State) laws or regulations; or (2) a “foreign-trade zone” or “subzone” pursuant to the Foreign Trade Zones Act of 1934, as amended (19 U.S.C. 81a–81u) and the regulations thereunder, to the same extent as other federally recognized Indian Tribes.
 
 #### (e) General applicability of State law
 

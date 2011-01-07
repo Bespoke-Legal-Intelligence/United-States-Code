@@ -1,6 +1,6 @@
 ### §664. Theft or embezzlement from employee benefit plan
 
-Any person who embezzles, steals, or unlawfully and willfully abstracts or converts to hisown use or to the use of another, any of the moneys, funds, securities, premiums, credits, property, or other assets of any employee welfare benefit plan or employee pension benefit plan, or of any fund connected therewith, shall be fined under this title, or imprisoned not more than five years, or both.
+Any person who embezzles, steals, or unlawfully and willfully abstracts or converts to his own use or to the use of another, any of the moneys, funds, securities, premiums, credits, property, or other assets of any employee welfare benefit plan or employee pension benefit plan, or of any fund connected therewith, shall be fined under this title, or imprisoned not more than five years, or both.
 
 As used in this section, the term “any employee welfare benefit plan or employee pension benefit plan” means any employee benefit plan subject to any provision of title I of the Employee Retirement Income Security Act of 1974.
 
@@ -12,9 +12,9 @@ The Employee Retirement Income Security Act of 1974, referred to in text, is Pub
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-1974—Pub. L. 93–406 substituted “any employee benefit plan subject to any provision of title I of the Employee Retirement Income Security Act of 1974” for “any such plan subject to the provisions of the Welfare and Pension Plans Disclosure Act”.
+<b>1974</b>—Pub. L. 93–406 substituted “any employee benefit plan subject to any provision of title I of the Employee Retirement Income Security Act of 1974” for “any such plan subject to the provisions of the Welfare and Pension Plans Disclosure Act”.
 
 #### Effective Date of 1974 Amendment
 

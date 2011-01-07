@@ -26,7 +26,7 @@
 
 #### (A) Prohibition
 
-&emsp;&emsp;A child care provider that receives assistance under this subchapter shall not discriminate in employment on the basis of the religion of the prospective employee if such employee's primary responsibility is or will be working directly with children in the provision of child care services.
+&emsp;&emsp;A child care provider that receives assistance under this subchapter shall not discriminate in employment on the basis of the religion of the prospective employee if such employee's primary responsibility is or willbe working directly with children in the provision of child care services.
 
 #### (B) Qualified applicants
 
@@ -48,5 +48,5 @@ Nothing in this subchapter shall be construed to supersede or modify any provisi
 
 #### Amendments
 
-1992—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
+<b>1992</b>—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
 

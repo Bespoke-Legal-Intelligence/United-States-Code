@@ -12,13 +12,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note set out under section 1 of this title.</i>
+
 #### Amendments
 
-2004—Pub. L. 108–311, title IV, §408(a)(20), Oct. 4, 2004, 118 Stat. 1192, added item 2011.
+<b>2004</b>—Pub. L. 108–311, title IV, §408(a)(20), Oct. 4, 2004, 118 Stat. 1192, added item 2011.
 
-2001—Pub. L. 107–16, title V, §532(c)(13), (d), title IX, §901, June 7, 2001, 115 Stat. 75, 150, temporarily struck out item 2011 “Credit for State death taxes”. See Effective and Termination Dates of 2001 Amendment note set out under section 2011 of this title.
+<b>2001</b>—Pub. L. 107–16, title V, §532(c)(13), (d), title IX, §901, June 7, 2001, 115 Stat. 75, 150, temporarily struck out item 2011 “Credit for State death taxes”.
 
-1976—Pub. L. 94–455, title XX, §2001(c)(1)(N)(ii), Oct. 4, 1976, 90 Stat. 1853, added item 2010.
+<b>1976</b>—Pub. L. 94–455, title XX, §2001(c)(1)(N)(ii), Oct. 4, 1976, 90 Stat. 1853, added item 2010.
 
 
 ---

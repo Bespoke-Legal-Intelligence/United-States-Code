@@ -10,7 +10,7 @@ Eligible project costs.—The term “eligible project costs” means amounts su
 
 &emsp;&emsp;(A) development phase activities, including planning, feasibility analysis, revenue forecasting, environmental review, permitting, preliminary engineering and design work, and other preconstruction activities;
 
-&emsp;&emsp;(B) construction, reconstruction, rehabilitation, replacement, and acquisition of real property (including land related to the project and improvements to land), environmental mitigation, construction contingencies, and acquisition of equipment; and
+&emsp;&emsp;(B) construction, reconstruction, rehabilitation, replacement, and acquisition of realproperty (including land related to the project and improvements to land), environmental mitigation, construction contingencies, and acquisition of equipment; and
 
 &emsp;&emsp;(C) capitalized interest necessary to meet market requirements, reasonably required reserve funds, capital issuance expenses, and other carrying costs during construction.
 
@@ -112,11 +112,11 @@ The Federal Credit Reform Act of 1990, referred to in subsec. (a)(13), is title 
 
 #### Amendments
 
-2008—Subsec. (a)(3). Pub. L. 110–244 inserted “bbb minus, BBB (low),” after “Baa3,”.
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–244 inserted “bbb minus, BBB (low),” after “Baa3,”.
 
-2006—Subsec. (a)(10). Pub. L. 109–291, which directed amendment of section 181(11) of this title by substituting “registered with the Securities and Exchange Commission as a nationally recognized statistical rating organization, as that term is defined in section 3(a) of the Securities Exchange Act of 1934” for “identified by the Securities and Exchange Commission as a nationally recognized statistical rating organization”, was executed to subsec. (a)(10) of this section by making the substitution for “identified by the Securities and Exchange Commission as a Nationally Recognized Statistical Rating Organization” to reflect the probable intent of Congress and the amendment by Pub. L. 109–59. See 2005 Amendment notes below.
+<b>2006</b>—Subsec. (a)(10). Pub. L. 109–291, which directed amendment of section 181(11) of this title by substituting “registered with the Securities and Exchange Commission as a nationally recognized statistical rating organization, as that term is defined in section 3(a) of the Securities Exchange Act of 1934” for “identified by the Securities and Exchange Commission as a nationally recognized statistical rating organization”, was executed to subsec. (a)(10) of this section by making the substitution for “identified by the Securities and Exchange Commission as a Nationally Recognized Statistical Rating Organization” to reflect the probable intent of Congress and the amendment by Pub. L. 109–59. See 2005 Amendment notes below.
 
-2005—Pub. L. 109–59, §1602(d), renumbered section 181 of this title as this section.
+<b>2005</b>—Pub. L. 109–59, §1602(d), renumbered section 181 of this title as this section.
 
 Pub. L. 109–59, §1602(b)(1), (5), substituted “Generally applicable provisions” for “Definitions” in section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “In this chapter” for “In this subchapter” in introductory provisions, “this chapter” for “this subchapter” in par. (2), “604” for “184” in par. (5), “603” for “183” in par. (11), and added subsec. (b).
 
@@ -140,7 +140,7 @@ Pars. (11) to (15). Pub. L. 109–59, §1601(a)(2), redesignated pars. (12) to (
 
 Pub. L. 105–178, title I, §1502, June 9, 1998, 112 Stat. 241, provided that: “Congress finds that—
 
-&emsp;“(1) a well-developed system of transportation infrastructure is critical to the economic well-being,health, and welfare of the people of the United States;
+&emsp;“(1) a well-developed system of transportation infrastructure is critical to the economic well-being, health, and welfare of the people of the United States;
 
 &emsp;“(2) traditional public funding techniques such as grant programs are unable to keep pace with the infrastructure investment needs of the United States because of budgetary constraints at the Federal, State, and local levels of government;
 
@@ -208,7 +208,7 @@ Funding.—
 
 Contribution.—Notwithstanding any other provision of law, the Secretary may allow, subject to subsection (h)(1), a State that enters into a cooperative agreement under this section to contribute to the infrastructure bank established by the State not to exceed—
 
-&emsp;&emsp;“(A)(i) the total amount of funds apportioned to the State under each of paragraphs (1), (3), and (4) of section 104(b) and section 144 of title 23, United States Code, excluding funds set aside under paragraphs (1) and (2) of section 133(d) of such title; and
+&emsp;&emsp;“(A)(i) the total amount of funds apportioned to the State under each of paragraphs (1), (3), and (4) of section 104(b) and section 144 of title 23, UnitedStates Code, excluding funds set aside under paragraphs (1) and (2) of section 133(d) of such title; and
 
 &emsp;&emsp;“(ii) the total amount of funds allocated to the State under section 105 of such title;
 
@@ -266,7 +266,7 @@ In general.—Subject to paragraph (2), in order to establish an infrastructure 
 
 &emsp;&emsp;“(A) contribute, at a minimum, to the bank from non-Federal sources an amount equal to 25 percent of the amount of each capitalization grant made to the State and contributed to the bank under subsection (c), except that if the State has a higher Federal share payable under section 120(b) of title 23, United States Code, the State shall be required to contribute only an amount commensurate with the higher Federal share;
 
-&emsp;&emsp;“(B) ensure that the bank maintains on a continuing basis an investment grade rating on itsdebt issuances and its ability to pay claims under credit enhancement programs of the bank;
+&emsp;&emsp;“(B) ensure that the bank maintains on a continuing basis an investment grade rating on its debt issuances and its ability to pay claims under credit enhancement programs of the bank;
 
 &emsp;&emsp;“(C) ensure that investment income generated by funds contributed to the bank will be—
 

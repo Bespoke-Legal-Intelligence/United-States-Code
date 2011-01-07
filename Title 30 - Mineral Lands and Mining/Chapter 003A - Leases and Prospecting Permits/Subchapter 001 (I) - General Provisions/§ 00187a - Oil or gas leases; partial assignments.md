@@ -14,11 +14,11 @@ Notwithstanding anything to the contrary in section 187 of this title, any oil o
 
 #### Amendments
 
-1987—Pub. L. 100–203 substituted third to fifth sentences for former third sentence which read as follows: “The Secretary shall disapprove the assignment or sublease only for lack of qualification of the assignee or sublessee or for lack of sufficient bond: <i>Provided, however</i>, That the Secretary may, in his discretion, disapprove an assignment of a separate zone or deposit under any lease, or of a part of a legal subdivision.”
+<b>1987</b>—Pub. L. 100–203 substituted third to fifth sentences for former third sentence which read as follows: “The Secretary shall disapprove the assignment or sublease only for lack of qualification of the assignee or sublessee or for lack of sufficient bond: <i>Provided, however</i>, That the Secretary may, in his discretion, disapprove an assignment of a separate zone or deposit under any lease, or of a part of a legal subdivision.”
 
-1960—Pub. L. 86–705 amended last sentence to restrict automatic extensions after Sept. 2, 1960.
+<b>1960</b>—Pub. L. 86–705 amended last sentence to restrict automatic extensions after Sept. 2, 1960.
 
-1954—Act July 29, 1954, authorized partial assignment of a lease in its extended term regardless of reason for extension.
+<b>1954</b>—Act July 29, 1954, authorized partial assignment of a lease in its extended term regardless of reason for extension.
 
 #### Savings Provision
 

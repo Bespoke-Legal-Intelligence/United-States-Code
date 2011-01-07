@@ -2,7 +2,7 @@
 
 #### (a) Coordination of nationwide rural development program using services of executive branch departments and agencies and State and local governments
 
-The Secretary of Agriculture shall provide leadership within the executive branch for, andshall assume responsibility for coordinating, a nationwide rural development program using the services of executive branch departments and agencies, including, but not limited to, the agencies, bureaus, offices, and services of the Department of Agriculture, in coordination with rural development programs of State and local governments.
+The Secretary of Agriculture shall provide leadership within the executive branch for, and shall assume responsibility for coordinating, a nationwide rural development program using the services of executive branch departments and agencies, including, but not limited to, the agencies, bureaus, offices, and services of the Department of Agriculture, in coordination with rural development programs of State and local governments.
 
 #### (b) Policy development; systematic review of Federal programs; access to information; development of process to receive and assess needs, goals, etc.; cooperative agreements to improve Federal programs affecting rural areas; public hearings and comments
 
@@ -32,7 +32,7 @@ Cooperators.—Each cooperator, including each Federal agency, to the extent tha
 
 &emsp;(A) maximize the effectiveness, increase the responsiveness, and improve the delivery of Federal programs to rural areas;
 
-&emsp;(B) increase the coordination of Federal programs with the development needs, objectives, and resources of local communities, substate areas, States, and multistate regions; and
+&emsp;(B) increase the coordination of Federal programs with the development needs, objectives,and resources of local communities, substate areas, States, and multistate regions; and
 
 &emsp;(C) achieve the most effective combinations of Federal, State, and local resources to meet the needs of rural areas for orderly growth and development.
 
@@ -54,7 +54,7 @@ Cooperators.—Each cooperator, including each Federal agency, to the extent tha
 
 (5) The rural development strategy and the annual updates to the strategy shall be transmitted to the House Committee on Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry by January 31 of the calendar year immediately preceding the beginning of the appropriate fiscal year.
 
-(6) The rural development strategy and each annual update of the strategy shall contain an analysis of the budget recommendations of thePresident for the fiscal year following the transmittal of the strategy or update of the strategy and of all the available budget projections of the President for subsequent fiscal years, and projections regarding the budget that are relevant or essential to the rural development policy and the rural development strategy developed under this subsection. Each annual update shall also contain a detailed statement of the findings and conclusions of the Secretary regarding the implementation during the preceding fiscal year of the rural development strategy, including any revisions of the strategy, any recommended legislation to improve the rural development effort of the Federal Government, and an evaluation of and recommendations regarding the rural development information system required under section 1926(a)(12) of this title.
+(6) The rural development strategy and each annual update of the strategy shall contain an analysis of the budget recommendations of the President for the fiscal year following the transmittal of the strategy or update of the strategy and of all the available budget projections of the President for subsequent fiscal years, and projections regarding the budget that are relevant or essential to the rural development policy and the rural development strategy developed under this subsection. Each annual update shall also contain a detailed statement of the findings and conclusions of the Secretary regarding the implementation during the preceding fiscal year of the rural development strategy, including any revisions of the strategy, any recommended legislation to improve the rural development effort of the Federal Government, and an evaluation of and recommendations regarding the rural development information system required under section 1926(a)(12) of this title.
 
 #### (d) Strategy implementation; goals
 
@@ -90,7 +90,7 @@ Section 10 of Pub. L. 96–355 provided that: “The provisions of this Act \[en
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (c)(5) of this section relating to transmittal of rural development strategy annual updates to certain committees of Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 44 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (c)(5) of this section relating to transmittalof rural development strategy annual updates to certain committees of Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 44 of House Document No. 103–7.
 
 #### Transfer of Functions
 

@@ -26,7 +26,7 @@ A definition of “carrier” is added based on language appearing in various pr
 
 Act Apr. 16, 1936, ch. 229, 49 Stat. 1207, as amended by Pub. L. 97–31, §12(146), Aug. 6, 1981, 95 Stat. 166, provided:
 
-“That every bill of lading or similar document of title which is evidence of a contract for the carriage ofgoods by sea to or from ports of the United States, in foreign trade, shall have effect subject to the provisions of this Act.
+“That every bill of lading or similar document of title which is evidence of a contract for the carriage of goods by sea to or from ports of the United States, in foreign trade, shall have effect subject to the provisions of this Act.
 
 ### “TITLE I
 
@@ -36,7 +36,7 @@ Act Apr. 16, 1936, ch. 229, 49 Stat. 1207, as amended by Pub. L. 97–31, §12(1
 
 “(b) The term ‘contract of carriage’ applies only to contracts of carriage covered by a bill of lading or any similar document of title, insofar as such document relates to the carriage of goods by sea, including any bill of lading or any similar document as aforesaid issued under or pursuant to a charter party from the moment at which such bill of lading or similar document of title regulates the relations between a carrier and a holder of the same.
 
-“(c) The term ‘goods’ includes goods, wares, merchandise, and articles of every kind whatsoever, except live animals and cargo which by the contract of carriage is stated as being carried on deck and is so carried.
+“(c) The term ‘goods’ includes goods, wares, merchandise, and articles of every kind whatsoever, except liveanimals and cargo which by the contract of carriage is stated as being carried on deck and is so carried.
 
 “(d) The term ‘ship’ means any vessel used for the carriage of goods by sea.
 
@@ -86,7 +86,7 @@ Act Apr. 16, 1936, ch. 229, 49 Stat. 1207, as amended by Pub. L. 97–31, §12(1
 
 #### “RIGHTS AND IMMUNITIES
 
-“Sec. 4. (1) Neither the carrier nor the ship shall be liable for loss or damage arising or resulting from unseaworthiness unless caused by want of due diligence on the part of the carrier to make the ship seaworthy, and to secure that the ship is properly manned, equipped, and supplied, and to make the holds, refrigerating and cool chambers, and all other parts of the ship in which goods are carried fit and safe for their reception, carriage, and preservation in accordance with the provisions of paragraph (1) of section 3. Whenever loss or damage has resulted from unseaworthiness, the burden of proving the exercise of due diligence shall beon the carrier or other persons claiming exemption under this section.
+“Sec. 4. (1) Neither the carrier nor the ship shall be liable for loss or damage arising or resulting from unseaworthiness unless caused by want of due diligence on the part of the carrier to make the ship seaworthy, and to secure that the ship is properly manned, equipped, and supplied, and to make the holds, refrigerating and cool chambers, and all other parts of the ship in which goods are carried fit and safe for their reception, carriage, and preservation in accordance with the provisions of paragraph (1) of section 3. Whenever loss or damage has resulted from unseaworthiness, the burden of proving the exercise of due diligence shall be on the carrier or other persons claiming exemption under this section.
 
 “(2) Neither the carrier nor the ship shall be responsible for loss or damage arising or resulting from—
 
@@ -108,7 +108,7 @@ Act Apr. 16, 1936, ch. 229, 49 Stat. 1207, as amended by Pub. L. 97–31, §12(1
 
 “(i) Act or omission of the shipper or owner of the goods, his agent or representative;
 
-“(j) Strikes or lockouts or stoppage or restraint of labor from whatever cause, whether partial or general: <i>Provided</i>, That nothing herein contained shall be construed to relieve a carrier from responsibility for the carrier's own acts;
+“(j) Strikes or lockouts or stoppage or restraint of labor from whatever cause, whether partial or general:<i>Provided</i>, That nothing herein contained shall be construed to relieve a carrier from responsibility for the carrier's own acts;
 
 “(k) Riots and civil commotions;
 

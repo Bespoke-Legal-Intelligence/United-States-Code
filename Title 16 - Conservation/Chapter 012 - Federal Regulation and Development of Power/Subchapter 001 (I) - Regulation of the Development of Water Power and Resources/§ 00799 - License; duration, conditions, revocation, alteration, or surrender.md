@@ -6,15 +6,15 @@ Licenses under this subchapter shall be issued for a period not exceeding fifty 
 
 #### Amendments
 
-1998—Pub. L. 105–192 inserted at end “Licenses may be revoked only for the reasons and in the manner prescribed under the provisions of this chapter, and may be altered or surrendered only upon mutual agreement between the licensee and the Commission after thirty days’ public notice.”
+<b>1998</b>—Pub. L. 105–192 inserted at end “Licenses may be revoked only for the reasons and in the manner prescribed under the provisions of this chapter, and may be altered or surrendered only upon mutual agreement between the licensee and the Commission after thirty days’ public notice.”
 
-1996—Pub. L. 104–316 struck out at end “Licenses may be revoked only for the reasons and in the manner prescribed under the provisions of this chapter, and may be altered or surrendered only upon mutual agreement between the licensee and the Commission after thirty days’ public notice.”
+<b>1996</b>—Pub. L. 104–316 struck out at end “Licenses may be revoked only for the reasons and in the manner prescribed under the provisions of this chapter, and may be altered or surrendered only upon mutual agreement between the licensee and the Commission after thirty days’ public notice.”
 
 Pub. L. 104–106 struck out at end “Copies of all licenses issued under the provisions of this subchapter and calling for the payment of annual charges shall be deposited with the General Accounting Office, in compliance with section 20 of title 41.”
 
-1935—Act Aug. 26, 1935, §204, amended section generally, substituting “thirty days” for “ninety days” in third sentence and inserting last sentence.
+<b>1935</b>—Act Aug. 26, 1935, §204, amended section generally, substituting “thirty days” for “ninety days” in third sentence and inserting last sentence.
 
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2302 of Title 10, Armed Forces.
 

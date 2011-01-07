@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) Using documentation, or providing documentation subsequently used by the importer of record, which indicates a false or fraudulent country of origin or source of textile or apparel products.
 
-&emsp;&emsp;(B) Using counterfeit visas, licenses, permits, bills of lading, or similar documentation, or providing counterfeit visas, licenses,permits, bills of lading, or similar documentation that is subsequently used by the importer of record, with respect to the entry into the customs territory of the United States of textile or apparel products.
+&emsp;&emsp;(B) Using counterfeit visas, licenses, permits, bills of lading, or similar documentation, or providing counterfeit visas, licenses, permits, bills of lading, or similar documentation that is subsequently used by the importer of record, with respect to the entry into the customs territory of the United States of textile or apparel products.
 
 &emsp;&emsp;(C) Manufacturing, producing, supplying, or selling textile or apparel products which are falsely or fraudulently labelled as to country of origin or source.
 
@@ -60,13 +60,9 @@
 
 (June 17, 1930, ch. 497, title IV, §592A, as added Pub. L. 103–465, title III, §333, Dec. 8, 1994, 108 Stat. 4947; amended Pub. L. 104–295, §20(c)(3), Oct. 11, 1996, 110 Stat. 3528.)
 
-#### References in Text
-
-The customs laws, referred to in subsec. (a)(1), (2), are classified generally to this title.
-
 #### Amendments
 
-1996—Subsec. (a)(3). Pub. L. 104–295 substituted “list under paragraph (1)” for “list under paragraph (2)”.
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–295 substituted “list under paragraph (1)” for “list under paragraph (2)”.
 
 #### Effective Date
 
@@ -74,5 +70,5 @@ Section effective on the date on which the WTO Agreement enters into force with 
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 

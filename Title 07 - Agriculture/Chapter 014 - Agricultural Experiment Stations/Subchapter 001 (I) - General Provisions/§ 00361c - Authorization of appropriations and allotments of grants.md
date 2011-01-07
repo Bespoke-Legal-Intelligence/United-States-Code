@@ -8,7 +8,7 @@ There are authorized to be appropriated for the purposes of sections 361a to 361
 
 (1) Out of such sums each State shall be entitled to receive annually a sum of money equal to and subject to the same requirement as to use for marketing research projects as the sums received from Federal appropriations for State agricultural experiment stations for the fiscal year 1955, except that amounts heretofore made available from the fund known as the “Regional research fund, Office of Experiment Stations” shall continue to be available for the support of cooperative regional projects as defined in subsection (c)(3) of this section, and the said fund shall be designated “Regional research fund, State agricultural experiment stations,” and the Secretary of Agriculture shall be entitled to receive annually for the administration of sections 361a to 361i of this title, a sum not less than that available for this purpose for the fiscal year ending June 30, 1955: <i>Provided</i>, That if the appropriations hereunder available for distribution in any fiscal year are less than those for the fiscal year 1955 the allotment to each State and the amounts for Federal administration and the regional research fund shall be reduced in proportion to the amount of such reduction.
 
-(2) There is authorized to be appropriated for the fiscal year ending June 30, 1973, and for each fiscal year thereafter, for payment to the Virgin Islands and Guam, $100,000 each, which sums shall be in addition to the sums appropriated for the several States of the United States and Puerto Rico under the provisions of this section. The amount paid by the Federal Government to the Virgin Islands and Guam pursuant to this paragraph shall not exceed during any fiscal year, except the fiscal years ending June 30, 1971, and June 30, 1972, when such amount may be used to pay the total cost of providing services pursuant to sections 361a to 361i of this title, the amount available and budgeted for expenditure by the Virgin Islands and Guam for the purposes of such sections.
+(2) There is authorized to be appropriated for the fiscal year ending June 30, 1973, and for each fiscal year thereafter, for payment to the Virgin Islands and Guam, $100,000 each, which sums shall be in addition to the sums appropriated for the several States of the United States and Puerto Rico under the provisions of this section.The amount paid by the Federal Government to the Virgin Islands and Guam pursuant to this paragraph shall not exceed during any fiscal year, except the fiscal years ending June 30, 1971, and June 30, 1972, when such amount may be used to pay the total cost of providing services pursuant to sections 361a to 361i of this title, the amount available and budgeted for expenditure by the Virgin Islands and Guam for the purposes of such sections.
 
 #### (c) Allotment of additional sums
 
@@ -76,7 +76,7 @@ If in any year the amount made available by a State from its own funds (includin
 
 #### (2) Plan of work
 
-&emsp;The State shall include in the plan of work of the State required under section 361g of thistitle a description of the manner in which the State will meet the requirements of subsection (c)(3) of this section.
+&emsp;The State shall include in the plan of work of the State required under section 361g of this title a description of the manner in which the State will meet the requirements of subsection (c)(3) of this section.
 
 #### (i) Integration of research and extension
 
@@ -142,11 +142,11 @@ Subsec. (d)(4)(B). Pub. L. 110–246, §7404(a)(3), inserted “or the District 
 
 2002—Subsec. (d)(4). Pub. L. 107–171 added par. (4) and struck out heading and text of former par. (4). Text read as follows: “In lieu of the matching funds requirement of paragraph (1), the Commonwealth of Puerto Rico, the Virgin Islands, and Guam shall be subject to the same matching funds requirements as those applicable to an eligible institution under section 3222d of this title.”
 
-1998—Subsec. (b)(1). Pub. L. 105–185, §104(b)(1), made technical amendment to reference in original act which appears in text as reference to subsection (c)(3) of this section.
+1998—Subsec. (b)(1). Pub. L. 105–185, §104(b)(1), made technical amendment to reference in original act whichappears in text as reference to subsection (c)(3) of this section.
 
 Subsec. (c)(1), (2). Pub. L. 105–185, §104(a)(1)(A), redesignated pars. 1 and 2 as (1) and (2), respectively.
 
-Subsec. (c)(3). Pub. L. 105–185, §104(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “Not more than 25 per centum shall be allotted to the States for cooperative research in which two or more State agricultural experiment stations are cooperating to solve problems that concern the agriculture of more than one State. The funds available for such purposes, together with funds available pursuant to subsection\(b) of this section for like purpose shall be designated as the ‘Regional research fund, State agricultural experiment stations’;”.
+Subsec. (c)(3). Pub. L. 105–185, §104(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “Not more than 25 per centum shall be allotted to the States for cooperative research in which two or more State agricultural experiment stations are cooperating to solve problems that concern the agriculture of more than one State. The funds available for such purposes, together with funds available pursuant to subsection (b) of this section for like purpose shall be designated as the ‘Regional research fund, State agricultural experiment stations’;”.
 
 Pub. L. 105–185, §104(a)(1)(A), redesignated par. 3 as (3).
 

@@ -30,7 +30,7 @@ Rule 65 of the Federal Rules of Civil Procedure, referred to in subsec. (a)(1), 
 
 #### Amendments
 
-1999—Pub. L. 106–168 added subsecs. (a) and (b), struck out former subsec. (a) which provided for injunctive relief and other orders by the district court in which the defendant gets his mail, and redesignated former subsec. (b) as (c).
+<b>1999</b>—Pub. L. 106–168 added subsecs. (a) and (b), struck out former subsec. (a) which provided for injunctive relief and other orders by the district court in which the defendant gets his mail, and redesignated former subsec. (b) as (c).
 
 #### Effective Date of 1999 Amendment
 

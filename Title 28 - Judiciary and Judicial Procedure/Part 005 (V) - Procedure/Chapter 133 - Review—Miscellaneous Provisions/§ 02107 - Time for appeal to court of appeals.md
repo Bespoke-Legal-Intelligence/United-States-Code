@@ -46,7 +46,7 @@ Changes were made in phraseology.
 
 #### Senate Revision Amendment
 
-By Senate amendment, all provisions relating to the Tax Court were eliminated. Therefore, section 1142 of title 26, U.S.C., Internal Revenue Code, was not one ofthe sources of this section as finally enacted. However, no change in the text of this section was necessary. See 80th Congress Senate Report No. 1559.
+By Senate amendment, all provisions relating to the Tax Court were eliminated. Therefore, section 1142 of title 26, U.S.C., Internal Revenue Code, was not one of the sources of this section as finally enacted. However, no change in the text of this section was necessary. See 80th Congress Senate Report No. 1559.
 
 #### 1949 Act
 
@@ -56,17 +56,17 @@ This amendment eliminates as surplusage the words “in any such action, suit or
 
 #### Amendments
 
-2009—Subsec. (c). Pub. L. 111–16 substituted “within 14 days” for “within 7 days” in concluding provisions.
+<b>2009</b>—Subsec. (c). Pub. L. 111–16 substituted “within 14 days” for “within 7 days” in concluding provisions.
 
-1991—Pub. L. 102–198 designated first and second pars. as subsecs. (a) and (b), respectively, added subsec. (c), designated fifth par. as subsec. (d), and struck out third and fourth pars. which read as follows:
+<b>1991</b>—Pub. L. 102–198 designated first and second pars. as subsecs. (a) and (b), respectively, added subsec. (c), designated fifth par. as subsec. (d), and struck out third and fourth pars. which read as follows:
 
 “In any action, suit or proceeding in admiralty, the notice of appeal shall be filed within ninety days after the entry of the order, judgment or decree appealed from, if it is a final decision, and within fifteen days after its entry if it is an interlocutory decree.
 
 “The district court may extend the time for appeal not exceeding thirty days from the expiration of the original time herein prescribed, upon a showing of excusable neglect based on failure of a party to learn of the entry of the judgment, order or decree.”
 
-1978—Pub. L. 95–598 directed the amendment of section by inserting “or the bankruptcy court” after “district court” and by striking out the final par., which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Pub. L. 95–598 directed the amendment of section by inserting “or the bankruptcy court” after “district court” and by striking out the final par., which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-1949—Act May 24, 1949, restored, in third par., the 15-day limitation of time within which to appeal from an interlocutory order in admiralty, and in fourth par., substituted “The district court may” for “The district court, in any such action, suit, or proceeding, may” and corrected spelling of “excusable”.
+<b>1949</b>—Act May 24, 1949, restored, in third par., the 15-day limitation of time within which to appeal from an interlocutory order in admiralty, and in fourth par., substituted “The district court may” for “The district court, in any such action, suit, or proceeding, may” and corrected spelling of “excusable”.
 
 #### Effective Date of 2009 Amendment
 

@@ -102,7 +102,7 @@ In this section:
 
 #### (5) Types of covered costs
 
-&emsp;Subject to paragraphs (2), (3), and (4), the contract entered into under this section for an advanced nuclear facility shall include as covered costs those costs that result from a delay during construction and in gaining approval for fuel loading and full-power operation, including—
+&emsp;Subject to paragraphs (2), (3), and (4), the contract entered into under this section for anadvanced nuclear facility shall include as covered costs those costs that result from a delay during construction and in gaining approval for fuel loading and full-power operation, including—
 
 &emsp;&emsp;(A) principal or interest on any debt obligation of an advanced nuclear facility owned by a non-Federal entity; and
 
@@ -139,4 +139,6 @@ For each advanced nuclear facility that is covered by a contract under this sect
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
 (Pub. L. 109–58, title VI, §638, Aug. 8, 2005, 119 Stat. 791.)
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “to”.</i>
 

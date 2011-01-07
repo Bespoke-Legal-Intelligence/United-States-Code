@@ -8,7 +8,7 @@
 
 &emsp;(3) solutions to long-term (the period beyond 10 years after submission of the plan or its annual revision) energy supply system and associated environmental problems.
 
-(b)(1) Based on the comprehensive energy research, development, and demonstration plan developed under subsection (a) of this section, the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992 \[42 U.S.C. 13522\], shall develop and transmit to the Congress, on or before June 30, 1975, a comprehensive nonnuclear energy research, development, and demonstration program to implement the nonnuclear research, development, and demonstration aspects of the comprehensive plan. Such program shall be updated and transmitted to the Congress annually as part of the report required under section 5914 <sup>1</sup> of this title.
+(b)(1) Based on the comprehensive energy research, development, and demonstration plan developed under subsection (a) of this section, the Secretary, in consultation with the AdvisoryBoard established under section 2302 of the Energy Policy Act of 1992 \[42 U.S.C. 13522\], shall develop and transmit to the Congress, on or before June 30, 1975, a comprehensive nonnuclear energy research, development, and demonstration program to implement the nonnuclear research, development, and demonstration aspects of the comprehensive plan. Such program shall be updated and transmitted to the Congress annually as part of the report required under section 5914 <sup>1</sup> of this title.
 
 (2) This program shall be designed to achieve solutions to the energy supply and associated environmental problems in the immediate and short-term, middle-term, and long-term time intervals described in subsection (a)(1) through (3) of this section. In formulating the nonnuclear aspects of this program, the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992 \[42 U.S.C. 13522\], shall evaluate the economic, environmental, and technological merits of each aspect of the program.
 
@@ -74,7 +74,7 @@ The Energy Policy Act of 1992, referred to in subsecs. (a) and (b)(3)(S), is Pub
 
 Section 5914 of this title, referred to in subsecs. (a), (b)(1), and (c), was omitted from the Code.
 
-The Geothermal Energy Research, Development, and Demonstration Act of 1974, referred to in subsec. (b)(3)(F), is Pub. L. 93–410, Sept. 3, 1974, 88 Stat. 1079, as amended, which is classified generally to chapter 24\(§1101 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 30 and Tables.
+The Geothermal Energy Research, Development, and Demonstration Act of 1974, referred to in subsec. (b)(3)(F), is Pub. L. 93–410, Sept. 3, 1974, 88 Stat. 1079, as amended, which is classified generally to chapter 24 (§1101 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 30 and Tables.
 
 The Solar Heating and Cooling Demonstration Act of 1974, referred to in subsec. (b)(3)(I), is Pub. L. 93–409, Sept. 3, 1974, 88 Stat. 1069, as amended, which is classified generally to subchapter I (§5501 et seq.) of chapter 71 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5501 of this title and Tables.
 
@@ -84,9 +84,9 @@ The Renewable Energy and Energy Efficiency Technology Competitiveness Act of 198
 
 #### Amendments
 
-2005—Subsec. (b)(3). Pub. L. 109–58 substituted “Secretary” for “Administrator” in introductory provisions and subpars. (D) and (E) and inserted “Demonstration” after “Cooling” in subpar. (I) and “Energy” after “Solar” in subpar. (L).
+<b>2005</b>—Subsec. (b)(3). Pub. L. 109–58 substituted “Secretary” for “Administrator” in introductory provisions and subpars. (D) and (E) and inserted “Demonstration” after “Cooling” in subpar. (I) and “Energy” after “Solar” in subpar. (L).
 
-1992—Subsec. (a). Pub. L. 102–486, §2303(a)(1)(A), substituted “the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), and titles XX through XXIII of the Energy Policy Act of 1992, the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992,” for “the Administrator”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–486, §2303(a)(1)(A), substituted “the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), and titles XX through XXIII of the Energy Policy Act of 1992, the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992,” for “the Administrator”.
 
 Subsec. (a)(1). Pub. L. 102–486, §2303(a)(1)(B), substituted “(the period up to 5 years after submission of the plan or its annual revision)” for “(to the early 1980's)”.
 
@@ -108,7 +108,7 @@ Subsec. (c). Pub. L. 102–486, §2303(a)(3)(B), inserted at end “Such program
 
 Pub. L. 102–486, §2303(a)(3)(A), substituted “Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992,” for “Administrator”.
 
-1978—Subsec. (c). Pub. L. 95–238 added subsec. (c).
+<b>1978</b>—Subsec. (c). Pub. L. 95–238 added subsec. (c).
 
 #### Nonapplicability of Title II of Pub. L. 95–238 to Any Authorization or Appropriation for Military Application of Nuclear Energy, Etc.; Definitions
 

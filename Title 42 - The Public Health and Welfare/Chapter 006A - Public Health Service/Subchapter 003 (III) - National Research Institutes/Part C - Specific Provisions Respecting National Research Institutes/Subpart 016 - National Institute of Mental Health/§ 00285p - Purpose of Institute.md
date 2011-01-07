@@ -6,7 +6,7 @@ The general purpose of the National Institute of Mental Health (hereafter in thi
 
 #### (b) Research program
 
-The research program established under this subpart shall include support for biomedical andbehavioral neuroscience and shall be designed to further the treatment and prevention of mental illness, the promotion of mental health, and the study of the psychological, social and legal factors that influence behavior.
+The research program established under this subpart shall include support for biomedical and behavioral neuroscience and shall be designed to further the treatment and prevention of mental illness, the promotion of mental health, and the study of the psychological, social and legal factors that influence behavior.
 
 #### (c) Collaboration
 
@@ -50,9 +50,9 @@ The Director of the Institute shall collaborate with the Administrator of the Su
 
 #### Amendments
 
-2007—Subsec. (f). Pub. L. 109–482 struck out subsec. (f) which authorized appropriations and provided that at least 15% of the appropriated amounts were to carry out health services research relating to mental health.
+<b>2007</b>—Subsec. (f). Pub. L. 109–482 struck out subsec. (f) which authorized appropriations and provided that at least 15% of the appropriated amounts were to carry out health services research relating to mental health.
 
-1992—Subsec. (f)(1). Pub. L. 102–352 struck out “other than section 285<i>o</i>–4 of this title” after “this subpart”.
+<b>1992</b>—Subsec. (f)(1). Pub. L. 102–352 struck out “other than section 285<i>o</i>–4 of this title” after “this subpart”.
 
 #### Effective Date of 2007 Amendment
 

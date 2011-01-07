@@ -40,7 +40,7 @@ Firefighting agency.—The term “firefighting agency” means any volunteer, p
 
 #### Amendments
 
-2004—Subsecs. (a), (b). Pub. L. 108–375 substituted “shall” for “may” in introductory provisions.
+<b>2004</b>—Subsecs. (a), (b). Pub. L. 108–375 substituted “shall” for “may” in introductory provisions.
 
 #### Identification of Defense Technologies Suitable for Use, or Conversion for Use, in Providing Fire and Emergency Medical Services
 

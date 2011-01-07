@@ -18,7 +18,7 @@ For the purposes of this section—
 
 &emsp;(4) The term “retirement system” means a pension, annuity, retirement, or similar fund or system established by a State or by a political subdivision thereof.
 
-&emsp;(5) The term “coverage group” means (A) employees of the State other than those engaged in performing service in connection with a proprietary function; (B) employees of a political subdivision of a State other than those engaged in performing service in connection with a proprietary function; (C) employees of a State engaged in performing service in connection with a single proprietary function; or (D) employees of a political subdivision of a State engaged in performing service in connection with a single proprietary function. If under the preceding sentence an employee would be included in more than one coverage group by reason of the fact that he performs service in connection with two or more proprietary functions or in connection with both a proprietary function and a nonproprietaryfunction, he shall be included in only one such coverage group. The determination of the coverage group in which such employee shall be included shall be made in such manner as may be specified in the agreement. Persons employed under section 709 of title 32, who elected under section 6 of the National Guard Technicians Act of 1968 to remain covered by an employee retirement system of, or plan sponsored by, a State or the Commonwealth of Puerto Rico, shall, for the purposes of this chapter, be employees of the State or the Commonwealth of Puerto Rico and (notwithstanding the preceding provisions of this paragraph), shall be deemed to be a separate coverage group. For purposes of this section, individuals employed pursuant to an agreement, entered into pursuant to section 1624 of title 7 or section 499n of title 7, between a State and the United States Department of Agriculture to perform services as inspectors of agricultural products may be deemed, at the option of the State, to be employees of the State and (notwithstanding the preceding provisions of this paragraph) shall be deemed to be a separate coverage group.
+&emsp;(5) The term “coverage group” means (A) employees of the State other than those engaged in performing service in connection with a proprietary function; (B) employees of a political subdivision of a State other than those engaged in performing service in connection with a proprietary function; (C) employees of a State engaged in performing service in connection with a single proprietary function; or (D) employees of a political subdivision of a State engaged in performing service in connection with a single proprietary function. If under the preceding sentence an employee would be included in more than one coverage group by reason of the fact that he performs service in connection with two or more proprietary functions or in connection with both a proprietary function and a nonproprietary function, he shall be included in only one such coverage group. The determination of the coverage group in which such employee shall be included shall be made in such manner as may be specified in the agreement. Persons employed under section 709 of title 32, who elected under section 6 of the National Guard Technicians Act of 1968 to remain covered by an employee retirement system of, or plan sponsored by, a State or the Commonwealth of Puerto Rico, shall, for the purposes of this chapter, be employees of the State or the Commonwealth of Puerto Rico and (notwithstanding the preceding provisions of this paragraph), shall be deemed to be a separate coverage group. For purposes of this section, individuals employed pursuant to an agreement, entered into pursuant to section 1624 of title 7 or section 499n of title 7, between a State and the United States Department of Agriculture to perform services as inspectors of agricultural products may be deemed, at the option of the State, to be employees of the State and (notwithstanding the preceding provisions of this paragraph) shall be deemed to be a separate coverage group.
 
 #### (c) Services covered
 
@@ -52,7 +52,7 @@ For the purposes of this section—
 
 (7) No agreement may be made applicable (either in the original agreement or by any modification thereof) to service performed by any individual to whom paragraph (3)(B) of this subsection is applicable unless such agreement provides (in the case of each coverage group involved) either that the service of any individual to whom such paragraph is applicable and who is a member of such coverage group shall continue to be covered by such agreement in case he thereafter becomes eligible to be a member of a retirement system, or that such service shall cease to be so covered when he becomes eligible to be a member of such a system (but only if the agreement is not already applicable to such system pursuant to subsection (d)(3) of this section), whichever may be desired by the State.
 
-(8)(A) Notwithstanding any other provision of this section, the agreement with any State entered into under this section may at the option of the State be modified at any time to exclude service performed by election officials or election workers if the remuneration paid in a calendar year for such service is less than $1,000 with respect to service performed during any calendar year commencing on or after January 1, 1995, ending on or before December 31, 1999, and the adjusted amount determined under subparagraph (B) for any calendar year commencing on or after January 1, 2000, with respect to service performed during such calendar year. Any modification of an agreement pursuant to this paragraph shall be effective with respect to services performed in and after the calendaryear in which the modification is mailed or delivered by other means to the Commissioner of Social Security.
+(8)(A) Notwithstanding any other provision of this section, the agreement with any State entered into under this section may at the option of the State be modified at any time to exclude service performed by election officials or election workers if the remuneration paid in a calendar year for such service is less than $1,000 with respect to service performed during any calendar year commencing on or after January 1, 1995, ending on or before December 31, 1999, and the adjusted amount determined under subparagraph (B) for any calendar year commencing on or after January 1, 2000, with respect to service performed during such calendar year. Any modification of an agreement pursuant to this paragraph shall be effective with respect to services performed in and after the calendar year in which the modification is mailed or delivered by other means to the Commissioner of Social Security.
 
 (B) For each year after 1999, the Commissioner of Social Security shall adjust the amount referred to in subparagraph (A) at the same time and in the same manner as is provided under section 415(a)(1)(B)(ii) of this title with respect to the amounts referred to in section 415(a)(1)(B)(i) of this title, except that—
 
@@ -70,7 +70,7 @@ For the purposes of this section—
 
 (3) Notwithstanding paragraph (1) of this subsection, an agreement with a State may be made applicable (either in the original agreement or by any modification thereof) to service performed by employees in positions covered by a retirement system (including positions specified in paragraph (4) of this subsection but not including positions excluded by or pursuant to paragraph (5)), if the governor of the State, or an official of the State designated by him for the purpose, certifies to the Commissioner of Social Security that the following conditions have been met:
 
-&emsp;(A) A referendum by secret written ballot was held on the question of whether service in positions covered by such retirement system should be excluded from or included under an agreement under this section;
+&emsp;(A) A referendum by secret written ballot was held on the question of whether service inpositions covered by such retirement system should be excluded from or included under an agreement under this section;
 
 &emsp;(B) An opportunity to vote in such referendum was given (and was limited) to eligible employees;
 
@@ -90,7 +90,7 @@ For the purposes of this section—
 
 &emsp;(C) all employees in positions which were covered by such system at any time before such date and to whose services the insurance system established by this subchapter has not been extended before such date because the positions were covered by such retirement system (including employees to whose services the agreement was not applicable on such date because such services were excluded pursuant to subsection (c)(3)(B) of this section).
 
-(5)(A) Nothing in paragraph (3) of this subsection shall authorize the extension of the insurance system established by this subchapterto service in any policeman's or fireman's position.
+(5)(A) Nothing in paragraph (3) of this subsection shall authorize the extension of the insurance system established by this subchapter to service in any policeman's or fireman's position.
 
 (B) At the request of the State, any class or classes of positions covered by a retirement system which may be excluded from the agreement pursuant to paragraph (3) or (5) of subsection (c) of this section, and to which the agreement does not already apply, may be excluded from the agreement at the time it is made applicable to such retirement system; except that, notwithstanding the provisions of paragraph (3)(B) of such subsection, such exclusion may not include any services to which such paragraph (3)(B) is applicable. In the case of any such exclusion, each such class so excluded shall, for purposes of this subsection, constitute a separate retirement system in case of any modification of the agreement thereafter agreed to.
 
@@ -116,7 +116,7 @@ For the purposes of this section—
 
 &emsp;(iii) employees of such State covered by such retirement system who are employed in such department of such State in positions others than those referred to in clause (i).
 
-(7) The certification by the governor (or an official of the State designated by him for the purpose) required under paragraph (3) of this subsection shall be deemed to have been made, in the case of a division or part (created under subparagraph (C) of paragraph (6) of this subsection or the corresponding provision of prior law) consisting of the positions of members of a retirement system who desire coverage under the agreement under this section, if the governor (or the official so designated) certifies to the Commissioner of Social Security that—
+(7) The certification by the governor (or an official of the State designated by him for the purpose) required under paragraph (3) of this subsection shall be deemed to have been made, in the case of a division or part (created under subparagraph (C) of paragraph (6) of this subsection or the corresponding provision of prior law) consisting of the positions of members of a retirement system who desire coverage under theagreement under this section, if the governor (or the official so designated) certifies to the Commissioner of Social Security that—
 
 &emsp;(A) an opportunity to vote by written ballot on the question of whether they wish to be covered under an agreement under this section was given to all individuals who were members of such system at the time the vote was held;
 
@@ -172,7 +172,7 @@ No agreement under this section may be terminated, either in its entirety or wit
 
 #### (h) Delegation of functions
 
-The Commissioner of Social Security is authorized, pursuant to agreement with the head of any Federal agency, to delegate any of the Commissioner's functions under this section toany officer or employee of such agency and otherwise to utilize the services and facilities of such agency in carrying out such functions, and payment therefor shall be in advance or by way of reimbursement, as may be provided in such agreement.
+The Commissioner of Social Security is authorized, pursuant to agreement with the head of any Federal agency, to delegate any of the Commissioner's functions under this section to any officer or employee of such agency and otherwise to utilize the services and facilities of such agency in carrying out such functions, and payment therefor shall be in advance or by way of reimbursement, as may be provided in such agreement.
 
 #### (i) Wisconsin Retirement Fund
 
@@ -190,7 +190,7 @@ Notwithstanding subsection (d) of this section, an agreement with any State ente
 
 #### (k) Certain employees of State of Utah
 
-Notwithstanding the provisions of subsection (d) of this section, the agreement with the State of Utah entered into pursuant to this section may be modified pursuant to subsection (c)(4) of this section so as to apply to services performed for any of the following, the employees performing services for each of which shall constitute a separate coverage group: Weber Junior College, Carbon Junior College, Dixie Junior College, Central Utah Vocational School, Salt Lake Area Vocational School, Center for the Adult Blind, Union High School (Roosevelt, Utah), Utah High School Activities Association, State Industrial School, State Training School, State Board of Education, and Utah School Employees Retirement Board. Any modification agreed to prior to January 1, 1955, may be made effective with respect to services performed by employees as members of any of such coverage groups after an effective date specified therein, except that in no case may any such date be earlier than December 31, 1950. Coverage provided for in this subsection shall not be affected by a subsequent change in the name of a group.
+Notwithstanding the provisions of subsection (d) of this section, the agreement with the State of Utah entered into pursuant to this section may be modified pursuant to subsection (c)(4) of this section so as to apply to services performed for any of the following, the employees performing services for each of which shall constitute a separate coverage group: Weber Junior College, Carbon Junior College, Dixie Junior College, Central Utah Vocational School, Salt Lake Area Vocational School, Center for the Adult Blind, Union High School (Roosevelt, Utah), Utah High School Activities Association, State Industrial School, State Training School, State Board of Education, and Utah School Employees Retirement Board. Any modification agreed to prior to January 1, 1955, may be made effective with respect to services performed by employees as members of any of such coverage groups after aneffective date specified therein, except that in no case may any such date be earlier than December 31, 1950. Coverage provided for in this subsection shall not be affected by a subsequent change in the name of a group.
 
 #### (<i>l</i>) Policemen and firemen in certain States
 
@@ -208,7 +208,7 @@ Any agreement with a State entered into pursuant to this section may, notwithsta
 
 #### (n) Optional medicare coverage of current employees
 
-(1) The Commissioner of Social Security shall, at the request of any State, enter into or modify an agreement with such State under this section for the purpose of extending the provisions of subchapter XVIII of this chapter, and sections426 and 426–1 of this title, to services performed by employees of such State or any political subdivision thereof who are described in paragraph (2).
+(1) The Commissioner of Social Security shall, at the request of any State, enter into or modify an agreement with such State under this section for the purpose of extending the provisions of subchapter XVIII of this chapter, and sections 426 and 426–1 of this title, to services performed by employees of such State or any political subdivision thereof who are described in paragraph (2).
 
 (2) This subsection shall apply only with respect to employees—
 
@@ -230,9 +230,9 @@ The Internal Revenue Code of 1986, referred to in subsec. (e)(3), is classified 
 
 #### Amendments
 
-2004—Subsec. (d)(6)(C). Pub. L. 108–203 inserted “Kentucky, Louisiana,” after “Illinois,”.
+<b>2004</b>—Subsec. (d)(6)(C). Pub. L. 108–203 inserted “Kentucky, Louisiana,” after “Illinois,”.
 
-1994—Subsecs. (a)(1), (c)(4). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
+<b>1994</b>—Subsecs. (a)(1), (c)(4). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
 
 Subsec. (c)(6)(F). Pub. L. 103–296, §321(a)(18), realigned margin.
 
@@ -250,21 +250,21 @@ Subsec. (e)(3). Pub. L. 103–296, §321(c)(6)(I), substituted “1986” for �
 
 Subsecs. (g)(1), (h). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” in subsecs. (g)(1) and (h) and “the Commissioner's” for “his” in subsec. (h).
 
-Subsec. (<i>l</i>). Pub. L. 103–296, §305(a), struck out par. (1) designation before “Any agreement with”, substituted “a State entered into pursuant to this section” for “the State of Alabama, California, Florida, Georgia, Hawaii, Idaho, Kansas, Maine, Maryland, Mississippi, Montana, New York, North Carolina, North Dakota, Oregon, Puerto Rico, South Carolina, South Dakota, Tennessee, Texas, Vermont, Virginia, or Washington entered into pursuant to this section prior to August 1, 1956,”, and struck out par. (2) which read as follows: “A State, not otherwise listed by name in paragraph (1), shall be deemed to be a State listed in such paragraph for the purpose of extending coverage under this subchapter to service in firemen's positions covered by a retirement system, if the governor of the State, or an official of the State designated by him for the purpose, certifies to the Secretary that the overall benefit protection of the employees in such positions would be improved by reason of the extension of such coverage to such employees. Notwithstanding the provisions of the second sentence of such paragraph (1), such firemen's positionsshall be deemed a separate retirement system and no other positions shall be included in such system.”
+Subsec. (<i>l</i>). Pub. L. 103–296, §305(a), struck out par. (1) designation before “Any agreement with”, substituted “a State entered into pursuant to this section” for “the State of Alabama, California, Florida, Georgia, Hawaii, Idaho, Kansas, Maine, Maryland, Mississippi, Montana, New York, North Carolina, North Dakota, Oregon, Puerto Rico, South Carolina, South Dakota, Tennessee, Texas, Vermont, Virginia, or Washington entered into pursuant to this section prior to August 1, 1956,”, and struck out par. (2) which read as follows: “A State, not otherwise listed by name in paragraph (1), shall be deemed to be a State listed in such paragraph for the purpose of extending coverage under this subchapter to service in firemen's positions covered by a retirement system, if the governor of the State, or an official of the State designated by him for the purpose, certifies to the Secretary that the overall benefit protection of the employees in such positions would be improved by reason of the extension of such coverage to such employees. Notwithstanding the provisions of the second sentence of such paragraph (1), such firemen's positions shall be deemed a separate retirement system and no other positions shall be included in such system.”
 
 Subsecs. (m)(3), (4), (n)(1). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
 
-1990—Subsec. (c)(6)(F). Pub. L. 101–508 added subpar. (F).
+<b>1990</b>—Subsec. (c)(6)(F). Pub. L. 101–508 added subpar. (F).
 
-1989—Subsec. (c)(5). Pub. L. 101–239 substituted “subparagraph (B) of section 409(a)(7)” for “paragraph (2) of section 409(h)”.
+<b>1989</b>—Subsec. (c)(5). Pub. L. 101–239 substituted “subparagraph (B) of section 409(a)(7)” for “paragraph (2) of section 409(h)”.
 
-1987—Subsec. (n). Pub. L. 100–203, §9023(c), redesignated subsec. (v) as (n), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which had previously been struck out of subsec. (v) by section 4009(j)(7) of Pub. L. 100–203 prior to its redesignation as subsec. (n) by Pub. L. 100–203, §9023(c)(1). See below.
+<b>1987</b>—Subsec. (n). Pub. L. 100–203, §9023(c), redesignated subsec. (v) as (n), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which had previously been struck out of subsec. (v) by section 4009(j)(7) of Pub. L. 100–203 prior to its redesignation as subsec. (n) by Pub. L. 100–203, §9023(c)(1). See below.
 
 Subsec. (v). Pub. L. 100–203, §9023(c)(1), redesignated subsec. (v) as (n).
 
 Subsec. (v)(3). Pub. L. 100–203, §4009(j)(7), struck out par. (3) which read as follows: “Payments by the State required under subsection (e) of this section with respect to employees covered under this subsection shall be limited to amounts equivalent to the sum of the taxes which would be imposed by sections 3101(b) and 3111(b) of the Internal Revenue Code of 1954 if such services for which wages were paid to such employees constituted ‘employment’ as defined in section 3121 of such Code.”
 
-1986—Subsec. (d)(6). Pub. L. 99–509, §9002(c)(2)(C), substituted “subsection (e)” for “subsection (f)” in subpar. (A), and “subsection (e)(1)” for “subsection (f)(1)” in subpar. (F).
+<b>1986</b>—Subsec. (d)(6). Pub. L. 99–509, §9002(c)(2)(C), substituted “subsection (e)” for “subsection (f)” in subpar. (A), and “subsection (e)(1)” for “subsection (f)(1)” in subpar. (F).
 
 Subsec. (d)(8)(D). Pub. L. 99–509, §9002(c)(2)(D), substituted “subsection (<i>l</i>)” for “subsection (p)”.
 
@@ -310,7 +310,7 @@ Subsec. (w). Pub. L. 99–509, §9002(c)(1), struck out subsec. (w) which read a
 
 Pub. L. 99–272, §13205(c), added subsec. (w).
 
-1984—Subsecs. (a)(1), (c)(4), (d)(3), (7), (h)(2), (3). Pub. L. 98–369, §2663(j)(3)(A)(iii), struck out “of Health, Education, and Welfare” after “Secretary” wherever appearing.
+<b>1984</b>—Subsecs. (a)(1), (c)(4), (d)(3), (7), (h)(2), (3). Pub. L. 98–369, §2663(j)(3)(A)(iii), struck out “of Health, Education, and Welfare” after “Secretary” wherever appearing.
 
 Subsec. (i). Pub. L. 98–369, §2663(j)(3)(A)(iii), struck out “of Health, Education, and Welfare” after “Secretary”.
 
@@ -320,15 +320,15 @@ Subsecs. (j), (k)(1), (<i>l</i>), (p)(2). Pub. L. 98–369, §2663(j)(3)(A)(iii)
 
 Subsecs. (q)(4)(B), (6)(B), (r)(1). Pub. L. 98–369, §2663(j)(2)(A)(ii), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare” wherever appearing.
 
-1983—Subsec. (e)(1)(A). Pub. L. 98–21, §342(a), amended subpar. (A) generally, designating existing provisions as cl. (i), and in (i) as so designated, substituting “on the last day of each calendar month” for “within the thirty-day period immediately following the last day of each calendar month” and inserting “with respect to the period which includes the first fifteen days of such calendar month” before “if the services”, and adding cl. (ii).
+<b>1983</b>—Subsec. (e)(1)(A). Pub. L. 98–21, §342(a), amended subpar. (A) generally, designating existing provisions as cl. (i), and in (i) as so designated, substituting “on the last day of each calendar month” for “within the thirty-day period immediately following the last day of each calendar month” and inserting “with respect to the period which includes the first fifteen days of such calendar month” before “if the services”, and adding cl. (ii).
 
 Subsec. (g). Pub. L. 98–21, §103(a), amended subsec. (g) generally, substituting provision that no agreement under this section may be terminated on or after April 20, 1983, for provision that had authorized the termination of agreements of States with the Secretary conditioned upon the giving of advance notice.
 
 Subsec. (<i>o</i>). Pub. L. 98–21, §325(a), inserted provision that coverage provided for in this subsection shall not be affected by a subsequent change in the name of a group.
 
-1980—Subsec. (e)(1)(A). Pub. L. 96–265, §503(a), substituted “(A) that the State will pay to the Secretary of the Treasury, within the thirty-day period immediately following the last day of each calendar month, amounts equivalent to the sum of the taxes which would be imposed by sections 3101 and 3111 of the Internal Revenue Code of 1954 if the services for which wages were paid in such month to employees covered by the agreement constituted employment as defined in section 3121 of such Code” for “(A) that the State will pay to the Secretary of the Treasury, at such time or times as the Secretary of Health, Education, and Welfare may by regulations prescribe, amounts equivalent to the sum of the taxes which would be imposed by sections 1400 and 1410 of the Internal Revenue Code of 1939, if the services of employees covered by the agreement constituted employment as defined in section 1426 of the Internal Revenue Code of 1939”.
+<b>1980</b>—Subsec. (e)(1)(A). Pub. L. 96–265, §503(a), substituted “(A) that the State will pay to the Secretary of the Treasury, within the thirty-day period immediately following the last day of each calendar month, amounts equivalent to the sum of the taxes which would be imposed by sections 3101 and 3111 of the Internal Revenue Code of 1954 if the services for which wages were paid in such month to employees covered by the agreement constituted employment as defined in section 3121 of such Code” for “(A) that the State will pay to the Secretary of the Treasury, at such time or times as the Secretary of Health, Education, and Welfare may by regulations prescribe, amounts equivalent to the sum of the taxes which would be imposed by sections 1400 and 1410 of the Internal Revenue Code of 1939, if the services of employees covered by the agreement constituted employment as defined in section 1426 of the Internal Revenue Code of 1939”.
 
-1977—Subsec. (c)(8). Pub. L. 95–216, §353(b)(1), substituted “year” for “quarter” and “$100” for “$50”.
+<b>1977</b>—Subsec. (c)(8). Pub. L. 95–216, §353(b)(1), substituted “year” for “quarter” and “$100” for “$50”.
 
 Subsec. (d)(6)(C). Pub. L. 95–216, §320, inserted reference to New Jersey.
 
@@ -344,11 +344,11 @@ Subsec. (q)(6)(B). Pub. L. 95–216, §353(b)(4), substituted “period or perio
 
 Subsec. (r)(1). Pub. L. 95–216, §353(b)(5), in provisions preceding cl. (A) and in cl. (B) substituted “year” for “quarter”, and in cl. (A) struck out “in which occurred the calendar quarter” after “year”.
 
-1974—Subsec. (p)(1). Priv. L. 93–107 inserted “Montana,” after “Maryland,”.
+<b>1974</b>—Subsec. (p)(1). Priv. L. 93–107 inserted “Montana,” after “Maryland,”.
 
-1972—Subsec. (p)(1). Pub. L. 92–603 inserted “Idaho,” after “Hawaii,”.
+<b>1972</b>—Subsec. (p)(1). Pub. L. 92–603 inserted “Idaho,” after “Hawaii,”.
 
-1968—Subsec. (b)(5). Pub. L. 90–486 substituted provisions pertaining to the coverage of persons employed under section 709 of title 32, who elected under section 6 of the National Guard Technicians Act of 1968 to remain covered by an employee retirement system of, or plan sponsored by, a state or the Commonwealth of Puerto Rico, such persons, for the purposes of this chapter, to be considered employees of the state or the Commonwealth of Puerto Rico, for provisions pertaining to the coverage of civilian employees of National Guard units of a state who are employed pursuant to section 42 of title 32, and who are paid from funds allotted to such units by the Department of the Defense, such persons, for the purposes of this section, to be deemed employees of the state.
+<b>1968</b>—Subsec. (b)(5). Pub. L. 90–486 substituted provisions pertaining to the coverage of persons employed under section 709 of title 32, who elected under section 6 of the National Guard Technicians Act of 1968 to remain covered by an employee retirement system of, or plan sponsored by, a state or the Commonwealth of Puerto Rico, such persons, for the purposes of this chapter, to be considered employees of the state or the Commonwealth of Puerto Rico, for provisions pertaining to the coverage of civilian employees of National Guard units of a state who are employed pursuant to section 42 of title 32, and who are paid from funds allotted to such units by the Department of the Defense, such persons, for the purposes of this section, to be deemed employees of the state.
 
 Subsec. (c)(3). Pub. L. 90–248, §116(b)(1)(A), struck out subpar. (A) which provided for the exclusion of any service of an emergency nature and redesignated subpars. (B) and (C) as (A) and (B), respectively.
 
@@ -376,23 +376,23 @@ Subsec. (p). Pub. L. 90–248, §§119(a), 120(a), designated existing provision
 
 Subsec. (u). Pub. L. 90–248, §122(d), added subsec. (u).
 
-1965—Subsec. (d)(6)(C). Pub. L. 89–97, §314, inserted “Alaska,” before “California”.
+<b>1965</b>—Subsec. (d)(6)(C). Pub. L. 89–97, §314, inserted “Alaska,” before “California”.
 
 Subsec. (d)(6)(F). Pub. L. 89–97, §315, substituted “1967” for “1963”.
 
 Subsec. (h)(1). Pub. L. 89–97, §108(b), substituted “Trust Funds and the Federal Hospital Insurance Trust Fund in the ratio in which amounts are appropriated to such Funds pursuant to subsection (a)(3) of section 401 of this title, subsection (b)(1) of such section, and subsection (a)(1) of section 1395i of this title, respectively” for “Trust Funds in the ratio in which amounts are appropriated to such Funds pursuant to subsections (a)(3) and (b)(1) of section 401 of this title”.
 
-1964—Subsec. (d)(6)(C). Pub. L. 88–382 included retirement systems established by Nevada.
+<b>1964</b>—Subsec. (d)(6)(C). Pub. L. 88–382 included retirement systems established by Nevada.
 
 Subsec. (p). Pub. L. 88–350 inserted reference to Texas.
 
-1962—Subsec. (p). Pub. L. 87–878 inserted reference to Maine.
+<b>1962</b>—Subsec. (p). Pub. L. 87–878 inserted reference to Maine.
 
-1961—Subsec. (d)(6)(C). Pub. L. 87–64, §107, included retirement system established by the State of New Mexico.
+<b>1961</b>—Subsec. (d)(6)(C). Pub. L. 87–64, §107, included retirement system established by the State of New Mexico.
 
 Subsec. (d)(6)(F). Pub. L. 87–64, §106, substituted “prior to 1963 or, if later, the expiration of two years after the date” for “prior to 1960 or, if later the expiration of one year after the date”, and inserted sentence providing that any such modification or later modification, providing for the transfer of additional positions within a retirement system previously divided pursuant to subpar. (C) to the separate retirement system composed of positions of members who desire coverage, shall be effective with respect to services performed after the same effective date as that which was specified in the case of such previous division.
 
-1960—Subsec. (b)(1). Pub. L. 86–778, §103(i), excluded Guam and American Samoa from definition of “State”.
+<b>1960</b>—Subsec. (b)(1). Pub. L. 86–778, §103(i), excluded Guam and American Samoa from definition of “State”.
 
 Subsec. (c)(6)(C). Pub. L. 86–778, §103(j)(2)(G), substituted “section 410(k)” for “section 410(<i>l</i>)”.
 
@@ -418,9 +418,9 @@ Pub. L. 86–624, §30(f), substituted “Hawaii” for “Territory of Hawaii�
 
 Subsecs. (q) to (t). Pub. L. 86–778, §102(f)(1), added subsecs. (q) to (t).
 
-1959—Subsec. (p). Pub. L. 86–284 inserted reference to California, Kansas, North Dakota, and Vermont.
+<b>1959</b>—Subsec. (p). Pub. L. 86–284 inserted reference to California, Kansas, North Dakota, and Vermont.
 
-1958—Subsec. (d)(6). Pub. L. 85–840, §315(a)(1), designated first sentence as subpar. (A), second and third sentences as subpar. (B), fourth sentence as subpar. (C), fifth sentence as subpar. (D), and sixth sentence as subpar. (G), added subpars. (E) and (F), and amended subpar. (C) to include retirement systems established by the States of Massachusetts and Vermont.
+<b>1958</b>—Subsec. (d)(6). Pub. L. 85–840, §315(a)(1), designated first sentence as subpar. (A), second and third sentences as subpar. (B), fourth sentence as subpar. (C), fifth sentence as subpar. (D), and sixth sentence as subpar. (G), added subpars. (E) and (F), and amended subpar. (C) to include retirement systems established by the States of Massachusetts and Vermont.
 
 Pub. L. 85–787 added Massachusetts and Vermont to States authorized to divide their retirement systems into two parts, and inserted sentence permitting transfer, in cases of divided retirement system, of members not desiring coverage to system of members desiring coverage.
 
@@ -436,7 +436,7 @@ Subsec. (k)(3). Pub. L. 85–798, §2, added par. (3).
 
 Subsec. (p). Pub. L. 85–798, §3, included agreements with the State of Washington.
 
-1957—Subsec. (d)(6). Pub. L. 85–227 authorized the States of California, Connecticut, Minnesota, and Rhode Island, or any political subdivisions thereof, to divide their retirement system into two divisions or parts.
+<b>1957</b>—Subsec. (d)(6). Pub. L. 85–227 authorized the States of California, Connecticut, Minnesota, and Rhode Island, or any political subdivisions thereof, to divide their retirement system into two divisions or parts.
 
 Subsec. (d)(7). Pub. L. 85–229 added par. (7).
 
@@ -448,7 +448,7 @@ Subsec. (k). Pub. L. 85–226, §1, redesignated existing provisions as par. (1)
 
 Subsec. (p). Pub. L. 85–226, §2, included agreements with the States of Alabama, Georgia, Maryland, New York, and Tennessee, or the Territory of Hawaii.
 
-1956—Subsec. (d)(6). Act Aug. 1, 1956, §104(e), authorized the State of Florida, Georgia, New York, North Dakota, Pennsylvania, Tennessee, Washington, Wisconsin, or the Territory of Hawaii, or any political subdivision thereof, to divide their retirement system into two divisions or parts, and provided for a separate retirement system with respect to employees of the States of Florida, Georgia, Minnesota, North Dakota, Pennsylvania, Washington, or the Territory of Hawaii who are compensated in whole or in part from grants under subchapter III of this chapter.
+<b>1956</b>—Subsec. (d)(6). Act Aug. 1, 1956, §104(e), authorized the State of Florida, Georgia, New York, North Dakota, Pennsylvania, Tennessee, Washington, Wisconsin, or the Territory of Hawaii, or any political subdivision thereof, to divide their retirement system into two divisions or parts, and provided for a separate retirement system with respect to employees of the States of Florida, Georgia, Minnesota, North Dakota, Pennsylvania, Washington, or the Territory of Hawaii who are compensated in whole or in part from grants under subchapter III of this chapter.
 
 Subsec. (h)(1). Act Aug. 1, 1956, §103(f), required amounts to be deposited in the Trust Funds in the ratio in which amounts are appropriated to such Funds pursuant to section 401(a)(3), (b)(1), of this title.
 
@@ -456,7 +456,7 @@ Subsec. (j). Act Aug. 1, 1956, §103(g), substituted “Secretary of Health, Edu
 
 Subsec. (p). Act Aug. 1, 1956, §104(g), added subsec. (p).
 
-1954—Subsec. (b)(5). Act Sept. 1, 1954, §101(i)(1), (2), inserted sentence at end relating to civilian employees of State National Guard units and a sentence relating to certain State inspectors of agricultural products.
+<b>1954</b>—Subsec. (b)(5). Act Sept. 1, 1954, §101(i)(1), (2), inserted sentence at end relating to civilian employees of State National Guard units and a sentence relating to certain State inspectors of agricultural products.
 
 Subsec. (c)(3). Act Sept. 1, 1954, §101(h)(3), inserted an additional optional exclusion with respect to all services performed by individuals as members of any coverage group who are in positions covered by a retirement system on the date when the group is brought under the agreement if these individuals are not eligible to become members of the system on that date, or on any later date when they first occupy the positions, and if they have not already been included under the agreement by means of a referendum.
 
@@ -482,9 +482,9 @@ Subsec. (n). Act Sept. 1, 1954, §101(h)(8), added subsec. (n).
 
 Subsec. (<i>o</i>). Act Sept. 1, 1954, §101(j), added subsec. (<i>l</i>).
 
-1953—Subsec. (m). Act Aug. 15, 1953, added subsec. (m).
+<b>1953</b>—Subsec. (m). Act Aug. 15, 1953, added subsec. (m).
 
-1952—Subsec. (f). Act June 28, 1952, substituted “January 1, 1954” for “January 1, 1953”.
+<b>1952</b>—Subsec. (f). Act June 28, 1952, substituted “January 1, 1954” for “January 1, 1953”.
 
 #### Effective Date of 2004 Amendment
 
@@ -546,7 +546,7 @@ Amendment by Pub. L. 87–64 effective Aug. 1, 1961, see section 109 of Pub. L. 
 
 #### Effective Date of 1960 Amendment
 
-Section 102(b)(2) of Pub. L. 86–778 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply in the case of transfers of positions (as described therein) which occur on or after the date of enactment of this Act \[Sept. 13, 1960\]. Such amendment shall also apply in the case of such transfers in anyState which occurred prior to such date, but only upon request of the Governor (or other official designated by him for the purpose) filed with the Secretary of Health, Education, and Welfare before July 1, 1961; and, in the case of any such request, such amendment shall apply only with respect to wages paid on and after the date on which such request is filed.”
+Section 102(b)(2) of Pub. L. 86–778 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply in the case of transfers of positions (as described therein) which occur on or after the date of enactment of this Act \[Sept. 13, 1960\]. Such amendment shall also apply in the case of such transfers in any State which occurred prior to such date, but only upon request of the Governor (or other official designated by him for the purpose) filed with the Secretary of Health, Education, and Welfare before July 1, 1961; and, in the case of any such request, such amendment shall apply only with respect to wages paid on and after the date on which such request is filed.”
 
 Section 102(c)(3) of Pub. L. 86–778 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply in the case of any agreement or modification of an agreement under section 218 of the Social Security Act \[this section\] which is agreed to on or after January 1, 1960; except that in the case of any such agreement or modification agreed to before January 1, 1961, the effective date specified therein shall not be earlier than December 31, 1955. The amendment made by paragraph (2) \[amending this section\] shall apply in the case of any such agreement or modification which is agreed to on or after the date of the enactment of this Act \[Sept. 13, 1960\].”
 
@@ -606,7 +606,7 @@ Section 9008 of Pub. L. 100–203 provided that:
 
 “(a)
 
-In General.—Notwithstanding subsection (d)(5)(A) of section 218 of the Social Security Act \[subsec. (d)(5)(A) of this section\] and the references theretoin subsections (d)(1) and (d)(3) of such section 218, the agreement with the State of Iowa heretofore entered into pursuant to such section 218 may, at any time prior to January 1, 1989, be modified pursuant to subsection (c)(4) of such section 218 so as to apply to services performed in policemen's or firemen's positions required to be covered by a retirement system pursuant to section 410.1 of the Iowa Code as in effect on July 1, 1953, if the State of Iowa has at any time prior to the date of the enactment of this Act \[Dec. 22, 1987\] paid to the Secretary of the Treasury, with respect to any of the services performed in such positions, the sums prescribed pursuant to subsection (e)(1) of such section 218 (as in effect on December 31, 1986, with respect to payments due with respect to wages paid on or before such date).
+In General.—Notwithstanding subsection (d)(5)(A) of section 218 of the Social Security Act \[subsec. (d)(5)(A) of this section\] and the references thereto in subsections (d)(1) and (d)(3) of such section 218, the agreement with the State of Iowa heretofore entered into pursuant to such section 218 may, at any time prior to January 1, 1989, be modified pursuant to subsection (c)(4) of such section 218 so as to apply to services performed in policemen's or firemen's positions required to be covered by a retirement system pursuant to section 410.1 of the Iowa Code as in effect on July 1, 1953, if the State of Iowa has at any time prior to the date of the enactment of this Act \[Dec. 22, 1987\] paid to the Secretary of the Treasury, with respect to any of the services performed in such positions, the sums prescribed pursuant to subsection (e)(1) of such section 218 (as in effect on December 31, 1986, with respect to payments due with respect to wages paid on or before such date).
 
 “(b)
 
@@ -650,7 +650,7 @@ Pub. L. 94–202, §6, Jan. 2, 1976, 89 Stat. 1136, provided that:
 
 Section 143 of Pub. L. 92–603 provided that:
 
-“(a) Notwithstanding the provisions of subsection (d)(5)(A) of section 218 of the Social Security Act \[subsec. (d)(5)(A) of this section\] and the references thereto in subsections (d)(1) and (d)(3) of such section 218 the agreement with the State of West Virginia heretofore entered into pursuant to such section 218 \[this section\]may, at any time prior to 1974, be modified pursuant to subsection (c)(4) of such section 218 so as to apply to services performed in policemen's or firemen's positions covered by a retirement system on the date of the enactment of this Act \[Oct. 30, 1972\] by individuals as employees of any class III or class IV municipal corporation (as defined in or under the laws of the State) if the State of West Virginia has at any time prior to the date of the enactment of this Act paid to the Secretary of the Treasury, with respect to any of the services performed in such positions by individuals as employees of such municipal corporation, the sums prescribed pursuant to subsection (e)(1) of such section 218. For purposes of this subsection, a retirement system which covers positions of policemen or firemen, or both, and other positions, shall, if the State of West Virginia so desires, be deemed to be a separate retirement system with respect to the positions of such policemen or firemen, or both, as the case may be.
+“(a) Notwithstanding the provisions of subsection (d)(5)(A) of section 218 of the Social Security Act \[subsec. (d)(5)(A) of this section\] and the references thereto in subsections (d)(1) and (d)(3) of such section 218 the agreement with the State of West Virginia heretofore entered into pursuant to such section 218 \[this section\] may, at any time prior to 1974, be modified pursuant to subsection (c)(4) of such section 218 so as to apply to services performed in policemen's or firemen's positions covered by a retirement system on the date of the enactment of this Act \[Oct. 30, 1972\] by individuals as employees of any class III or class IV municipal corporation (as defined in or under the laws of the State) if the State of West Virginia has at any time prior to the date of the enactment of this Act paid to the Secretary of the Treasury, with respect to any of the services performed in such positions by individuals as employees of such municipal corporation, the sums prescribed pursuant to subsection (e)(1) of such section 218. For purposes of this subsection, a retirement system which covers positions of policemen or firemen, or both, and other positions, shall, if the State of West Virginia so desires, be deemed to be a separate retirement system with respect to the positions of such policemen or firemen, or both, as the case may be.
 
 “(b) Notwithstanding the provisions of subsection (f) of section 218 of the Social Security Act, any modification in the agreement with the State of West Virginia under subsection (a) of this section, to the extent it involves services performed by individuals as employees of any class III or class IV municipal corporation, may be made effective with respect to—
 
@@ -698,7 +698,7 @@ Section 124 of Pub. L. 90–248 provided that:
 
 #### Modification of Agreements With States of North Dakota and Iowa With Respect to Certain Students
 
-Section 338 of Pub. L. 89–97 provided that: “Notwithstanding any provision of section 218 of the Social Security Act \[this section\], the agreements with the States of North Dakota and Iowa entered into pursuant to such section may, at the option of the State, be modified so as to exclude service performed in any calendar quarter in the employ of a school, college, or university if such service is performed by a student who is enrolled and is regularly attending classes at such school, college, or university and if the remuneration for such service is less than $50. Any modification of either of such agreements pursuant to this Act shall be effective with respect to services performed after an effective date specified in such modification, except thatsuch date shall not be earlier than the date of enactment of this Act \[July 30, 1965\].”
+Section 338 of Pub. L. 89–97 provided that: “Notwithstanding any provision of section 218 of the Social Security Act \[this section\], the agreements with the States of North Dakota and Iowa entered into pursuant to such section may, at the option of the State, be modified so as to exclude service performed in any calendar quarter in the employ of a school, college, or university if such service is performed by a student who is enrolled and is regularly attending classes at such school, college, or university and if the remuneration for such service is less than $50. Any modification of either of such agreements pursuant to this Act shall be effective with respect to services performed after an effective date specified in such modification, except that such date shall not be earlier than the date of enactment of this Act \[July 30, 1965\].”
 
 #### Modification of Agreement With State of Nebraska for Exclusion of Services Performed by Justices of the Peace and Constables
 
@@ -714,7 +714,7 @@ Section 102(k) of Pub. L. 86–778, as amended by Pub. L. 89–97, title III, §
 
 #### Modification of Existing Agreement With State of Oklahoma Prior to 1962
 
-Section 3 of Pub. L. 86–284 provided that: “Notwithstanding the provisions of subsection (d)(5)(A) of section 218 of the Social Security Act \[subsec. (d)(5)(A) of this section\] and the references thereto in subsections (d)(1) and (d)(3) of such section 218, the agreement with the State of Oklahoma heretofore entered into pursuant to such section 218 \[this section\] may, at any time prior to 1962, be modified pursuant to subsection (c)(4) of such section 218 so as to apply to services performed by any individual employed by such State (or any political subdivision thereof) in any policeman's position covered by a retirement system in effect on the date of enactment of this Act \[Sept. 16, 1959\] if (1) in the case of an individual performing such services on such date, such individual is ineligible to become a member of such retirement system, or, in the case of an individual who prior to such date has ceased to perform such services, such individual was, on the last day he did perform such services, ineligible to become a member of such retirement system, and (2) such State has, prior to 1959, paid to the Secretary of the Treasury, with respect to any of the services performed by such individual in any such position, the sums prescribed pursuant to subsection (e)(1) of such section 218. Notwithstanding the provisions of subsection (f) of such section 218, such modification shall be effective with respect to (i) all services performed by such individual in any such position on or after the date of enactment of this Act, and (ii) all such services, performed before such date, with respect to which such State has paid to the Secretary of the Treasury the sums prescribed pursuant to subsection (e) of such section 218, at the time or times established pursuant to such subsection.”
+Section 3 of Pub. L. 86–284 provided that: “Notwithstanding the provisions of subsection (d)(5)(A) of section 218 of the Social Security Act \[subsec. (d)(5)(A) of this section\] and the references thereto in subsections (d)(1) and (d)(3) of such section 218, the agreement with the State of Oklahoma heretofore entered into pursuant to such section 218 \[this section\] may, at any time prior to 1962, be modified pursuant to subsection (c)(4) of such section 218 so as to apply to services performedby any individual employed by such State (or any political subdivision thereof) in any policeman's position covered by a retirement system in effect on the date of enactment of this Act \[Sept. 16, 1959\] if (1) in the case of an individual performing such services on such date, such individual is ineligible to become a member of such retirement system, or, in the case of an individual who prior to such date has ceased to perform such services, such individual was, on the last day he did perform such services, ineligible to become a member of such retirement system, and (2) such State has, prior to 1959, paid to the Secretary of the Treasury, with respect to any of the services performed by such individual in any such position, the sums prescribed pursuant to subsection (e)(1) of such section 218. Notwithstanding the provisions of subsection (f) of such section 218, such modification shall be effective with respect to (i) all services performed by such individual in any such position on or after the date of enactment of this Act, and (ii) all such services, performed before such date, with respect to which such State has paid to the Secretary of the Treasury the sums prescribed pursuant to subsection (e) of such section 218, at the time or times established pursuant to such subsection.”
 
 #### Modification of Existing Agreement With State of Maine Prior to July 1, 1967
 
@@ -722,7 +722,7 @@ Section 316 of Pub. L. 85–840, as amended by Pub. L. 86–778, title I, §102(
 
 #### Modification of Existing Agreements With States of California, Connecticut, Minnesota, or Rhode Island Prior to 1960
 
-Section 2 of Pub. L. 85–227 provided that: “Notwithstanding subsection (f) of section 218 of the Social Security Act \[subsec. (f) of this section\], any modification of the agreement with the State of California, Connecticut, Minnesota, or Rhode Island under such section which makes such agreement applicable to services performed in positions covered by a separate retirement system created pursuant to the fourth sentence of subsection (d)(6) of such section (and consisting of the positions of members who desire coverage under the agreement) may, if such modification is agreed to prior to 1960, be made effective with respect to services performed in such positions after an effective date specified in such modification, except that inno case may such date be earlier than December 31, 1955.”
+Section 2 of Pub. L. 85–227 provided that: “Notwithstanding subsection (f) of section 218 of the Social Security Act \[subsec. (f) of this section\], any modification of the agreement with the State of California, Connecticut, Minnesota, or Rhode Island under such section which makes such agreement applicable to services performed in positions covered by a separate retirement system created pursuant to the fourth sentence of subsection (d)(6) of such section (and consisting of the positions of members who desire coverage under the agreement) may, if such modification is agreed to prior to 1960, be made effective with respect to services performed in such positions after an effective date specified in such modification, except that in no case may such date be earlier than December 31, 1955.”
 
 #### Modification of Existing Agreements With States of Florida, Nevada, New Mexico, Minnesota, Oklahoma, Pennsylvania, Texas, Washington, or Hawaii Prior to July 1, 1962
 
@@ -750,7 +750,7 @@ Section 119(b) of Pub. L. 90–248, as amended by Pub. L. 99–514, §2, Oct. 22
 
 #### Validation of Coverage for Certain Employees of an Integral Unit of a Political Subdivision of Alaska
 
-Section 342 of Pub. L. 89–97 provided that: “For purposes of the agreement under section 218 of the Social Security Act \[this section\] entered into by the State of Alaska, or its predecessor the Territory of Alaska, where employees of an integral unit of a political subdivision of the State or Territory of Alaska have in good faith been included under the State or Territory's agreement as a coverage group on the basis that such integral unit of a political subdivision was a political subdivision, then such unit of the political subdivision shall, for purposes of section 218(b)(2) of such Act, be deemed to be a political subdivision, and employees performing services within such unit shall be deemed to be a coverage group, effective with the effective date specified in such agreement or modification of such agreement with respect to such coverage group and ending with the last day of the year in which this Act is enacted \[1965\].”
+Section 342 of Pub. L. 89–97 provided that: “For purposes of the agreement under section 218 of the Social Security Act \[this section\] entered into by the State of Alaska, or its predecessor the Territory of Alaska,where employees of an integral unit of a political subdivision of the State or Territory of Alaska have in good faith been included under the State or Territory's agreement as a coverage group on the basis that such integral unit of a political subdivision was a political subdivision, then such unit of the political subdivision shall, for purposes of section 218(b)(2) of such Act, be deemed to be a political subdivision, and employees performing services within such unit shall be deemed to be a coverage group, effective with the effective date specified in such agreement or modification of such agreement with respect to such coverage group and ending with the last day of the year in which this Act is enacted \[1965\].”
 
 #### Validation of Coverage for District Engineering Aides of Soil and Water Conservation Districts of Oklahoma
 
@@ -764,7 +764,7 @@ Section 1 of Pub. L. 87–878 provided: “That, for purposes of the agreement u
 
 Section 102(h) of Pub. L. 86–778 provided that: “For purposes of the agreement under section 218 of the Social Security Act \[this section\] entered into by the State of Mississippi, services of teachers in such State performed after February 28, 1951, and prior to October 1, 1959, shall be deemed to have been performed by such teachers as employees of the State. The term ‘teacher’ as used in the preceding sentence means—
 
-&emsp;“(1) any individual who is licensed to serve in the capacity of teacher, librarian, registrar, supervisor, principal, or superintendent and who is principally engaged in the public elementary or secondary schoolsystem of the State in any one or more of such capacities;
+&emsp;“(1) any individual who is licensed to serve in the capacity of teacher, librarian, registrar, supervisor, principal, or superintendent and who is principally engaged in the public elementary or secondary school system of the State in any one or more of such capacities;
 
 &emsp;“(2) any employee in the office of the county superintendent of education or the county school supervisor, or in the office of the principal of any county or municipal public elementary or secondary school in the State; and
 
@@ -792,7 +792,7 @@ Section 101(<i>l</i>) of act Sept. 1, 1954, provided that:
 
 &emsp;“(D) the month in which such individual filed his application for recomputation referred to in paragraph (1) of this subsection or, if he died without filing such application and prior to January 1, 1956, the month in which he died, and in any such case (but, if the individual is deceased, only if death occurred after August 1954) the amendments made by subsections (b)(1), (e)(1) and (e)(3)(B) of section 102 of this Act \[amending section 415 of this title\] shall be applicable.
 
-> Such recomputation shall be effective for and after the month in which the application required by paragraph (1) of this subsection is filed. The provisions of this subsection shall not be applicable in the case of any individual if his primary insurance amount has been recomputed under section 215(f)(2) of the Social Security Act on the basis of an application filed prior to September 1954.
+> Such recomputation shall be effective for and after the month in which the application required by paragraph\(1) of this subsection is filed. The provisions of this subsection shall not be applicable in the case of any individual if his primary insurance amount has been recomputed under section 215(f)(2) of the Social Security Act on the basis of an application filed prior to September 1954.
 
 “(3) If any recomputation under section 215(f) of the Social Security Act is made by reason of deductions deemed pursuant to paragraph (1) of this subsection to have been imposed with respect to benefits based on the wages and self-employment income of any individual, the total of the benefits based on such wages and self-employment income for months for which such deductions are so deemed to have been imposed shall be recovered by making, in addition to any other deductions under section 203 of such Act, deductions from any increase in benefits, based on such wages and self-employment income, resulting from such recomputation.”
 

@@ -542,13 +542,13 @@ Section 438 of the Higher Education Act of 1965, referred to in subsec. (g), is 
 
 #### Amendments
 
-2006—Subsec. (f)(4)(D)(ii)(II) to (IV). Pub. L. 109–222 redesignated subcls. (III) and (IV) as (II) and (III), respectively, and struck out former subcl. (II) which read as follows: “all bonds issued by a governmental unit to make loans to other governmental units with general taxing powers not subordinate to such unit shall, for purposes of applying such subclause to such unit, be treated as not issued by such unit.”
+<b>2006</b>—Subsec. (f)(4)(D)(ii)(II) to (IV). Pub. L. 109–222 redesignated subcls. (III) and (IV) as (II) and (III), respectively, and struck out former subcl. (II) which read as follows: “all bonds issued by a governmental unit to make loans to other governmental units with general taxing powers not subordinate to such unit shall, for purposes of applying such subclause to such unit, be treated as not issued by such unit.”
 
-2005—Subsec. (b)(4). Pub. L. 109–58 added par. (4).
+<b>2005</b>—Subsec. (b)(4). Pub. L. 109–58 added par. (4).
 
-2001—Subsec. (f)(4)(D)(vii). Pub. L. 107–16, §§421(a), 901, temporarily substituted “the lesser of $10,000,000” for “the lesser of $5,000,000”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (f)(4)(D)(vii). Pub. L. 107–16, §§421(a), 901, temporarily substituted “the lesser of $10,000,000” for “the lesser of $5,000,000”. See Effective and Termination Dates of 2001 Amendment note below.
 
-1997—Subsec. (c)(2)(B) to (E). Pub. L. 105–34, §1444(a), redesignated subpars. (C) to (E) as (B) to (D), respectively, and struck out heading and text of former subpar. (B). Text read as follows: “In the case of the proceeds of an issue to be used to make or finance loans under a program described in section 144(b)(1)(A), subparagraph (A) shall be applied by substituting ‘18 months’ for ‘6 months’. The preceding sentence shall not apply to any bond issued after December 31, 1988.”
+<b>1997</b>—Subsec. (c)(2)(B) to (E). Pub. L. 105–34, §1444(a), redesignated subpars. (C) to (E) as (B) to (D), respectively, and struck out heading and text of former subpar. (B). Text read as follows: “In the case of the proceeds of an issue to be used to make or finance loans under a program described in section 144(b)(1)(A), subparagraph (A) shall be applied by substituting ‘18 months’ for ‘6 months’. The preceding sentence shall not apply to any bond issued after December 31, 1988.”
 
 Subsec. (d)(3). Pub. L. 105–34, §1443, struck out par. (3) which related to limitations on investment in nonpurpose investments.
 
@@ -560,7 +560,7 @@ Subsec. (f)(4)(D)(vii). Pub. L. 105–34, §223(a), added cl. (vii).
 
 Subsec. (f)(4)(E). Pub. L. 105–34, §1444(b), struck out subpar. (E) which related to exception for certain qualified student loan bonds.
 
-1990—Subsec. (c)(2)(D). Pub. L. 101–508, §11701(j)(5), substituted “subsection (f)(4)(C)(iv)” for “subsection (f)(4)(B)(iv)(IV)” in introductory provisions and “subsection (f)(4)(C)(v)” for “subsection (f)(4)(B)(iv)(VIII)” in cl. (i).
+<b>1990</b>—Subsec. (c)(2)(D). Pub. L. 101–508, §11701(j)(5), substituted “subsection (f)(4)(C)(iv)” for “subsection (f)(4)(B)(iv)(IV)” in introductory provisions and “subsection (f)(4)(C)(v)” for “subsection (f)(4)(B)(iv)(VIII)” in cl. (i).
 
 Subsec. (c)(2)(D), (E). Pub. L. 101–508, §11701(j)(6), made technical amendment to Pub. L. 101–239, §7652(c). See 1989 Amendment note below.
 
@@ -572,7 +572,7 @@ Subsec. (f)(4)(B)(iv). Pub. L. 101–508, §11701(j)(4), amended cl. (iv) genera
 
 Subsec. (f)(4)(C) to (E). Pub. L. 101–508, §11701(j)(3)(A), (B), added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 
-1989—Subsec. (c)(2)(D), (E). Pub. L. 101–239, §7652(c), as amended by Pub. L. 101–508, §11701(j)(6), added subpar. (D) and redesignated former subpar. (D) as (E).
+<b>1989</b>—Subsec. (c)(2)(D), (E). Pub. L. 101–239, §7652(c), as amended by Pub. L. 101–508, §11701(j)(6), added subpar. (D) and redesignated former subpar. (D) as (E).
 
 Subsec. (d)(3)(E)(ii). Pub. L. 101–239, §7814(c)(2), struck out “a qualified mortgage bond or” after “in the case of”.
 
@@ -586,7 +586,7 @@ Subsec. (f)(4)(B)(iv). Pub. L. 101–239, §7652(b), added cl. (iv).
 
 Subsec. (f)(4)(C)(ii)(II). Pub. L. 101–239, §7816(t), substituted “to make loans to” for “on behalf of”.
 
-1988—Subsec. (b)(2). Pub. L. 100–647, §1013(a)(43)(B), struck out at end “Such term shall not include any tax-exempt bond.”
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–647, §1013(a)(43)(B), struck out at end “Such term shall not include any tax-exempt bond.”
 
 Subsec. (b)(2)(E). Pub. L. 100–647, §5053(b), added subpar. (E).
 
@@ -628,7 +628,7 @@ Amendment by Pub. L. 109–58 applicable to obligations issued after Aug. 8, 200
 
 Pub. L. 107–16, title IV, §421(b), June 7, 2001, 115 Stat. 65, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued in calendar years beginning after December 31, 2001.”
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

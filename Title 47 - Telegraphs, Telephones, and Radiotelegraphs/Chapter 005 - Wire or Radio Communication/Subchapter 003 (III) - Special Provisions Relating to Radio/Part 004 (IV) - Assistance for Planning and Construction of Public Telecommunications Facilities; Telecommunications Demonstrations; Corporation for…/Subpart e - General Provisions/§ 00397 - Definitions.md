@@ -44,7 +44,7 @@ For the purposes of this part—
 
 &emsp;(B) disseminates public telecommunications services to the public.
 
-(13) The term “public telecommunications facilities” means apparatus necessary for production, interconnection, captioning, broadcast, or other distribution of programming, including, but not limited to, studio equipment, cameras, microphones, audio and video storage or reproduction equipment, or both, signal processors and switchers, towers, antennas, transmitters, translators, microwave equipment, mobile equipment, satellite communications equipment, instructional television fixed serviceequipment, subsidiary communications authorization transmitting and receiving equipment, cable television equipment, video and audio cassettes and discs, optical fiber communications equipment, and other means of transmitting, emitting, storing, and receiving images and sounds, or intelligence, except that such term does not include the buildings to house such apparatus (other than small equipment shelters which are part of satellite earth stations, translators, microwave interconnection facilities, and similar facilities).
+(13) The term “public telecommunications facilities” means apparatus necessary for production, interconnection, captioning, broadcast, or other distribution of programming, including, but not limited to, studio equipment, cameras, microphones, audio and video storage or reproduction equipment, or both, signal processors and switchers, towers, antennas, transmitters, translators, microwave equipment, mobile equipment, satellite communications equipment, instructional television fixed service equipment, subsidiary communications authorization transmitting and receiving equipment, cable television equipment, video and audio cassettes and discs, optical fiber communications equipment, and other means of transmitting, emitting, storing, and receiving images and sounds, or intelligence, except that such term does not include the buildings to house such apparatus (other than small equipment shelters which are part of satellite earth stations, translators, microwave interconnection facilities, and similar facilities).
 
 (14) The term “public telecommunications services” means noncommercial educational and cultural radio and television programs, and related noncommercial instructional or informational material that may be transmitted by means of electronic communications.
 
@@ -66,21 +66,21 @@ A prior section 397, act June 19, 1934, ch. 652, title III, §397, as added May 
 
 #### Amendments
 
-1996—Par. (9). Pub. L. 104–208, in closing provisions, struck out “and approved by the Comptroller General pursuant to section 396(g)(5) of this title” after “by the Corporation” and “with respect to such services provided to public telecommunications entities after such standards are approved by the Comptroller General and only” before “, with respect to such an entity”.
+<b>1996</b>—Par. (9). Pub. L. 104–208, in closing provisions, struck out “and approved by the Comptroller General pursuant to section 396(g)(5) of this title” after “by the Corporation” and “with respect to such services provided to public telecommunications entities after such standards are approved by the Comptroller General and only” before “, with respect to such an entity”.
 
-1990—Par. (2). Pub. L. 101–437, §203(b)(1), substituted “subpart D” for “subpart C”.
+<b>1990</b>—Par. (2). Pub. L. 101–437, §203(b)(1), substituted “subpart D” for “subpart C”.
 
 Par. (15). Pub. L. 101–437, §203(b)(2), inserted “and subpart B” after “subpart A” and substituted “subpart C, subpart D” for “subpart B, subpart C”.
 
-1981—Par. (15). Pub. L. 97–35 substituted “Health and Human Services” for “Health, Education, and Welfare”.
+<b>1981</b>—Par. (15). Pub. L. 97–35 substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-1978—Pub. L. 95–567, revised definition of “construction”, “corporation”, “interconnection”, “noncommercial educational broadcast station”, “non-Federal financial support”, “Secretary” and “State”, inserted definitions of “meeting”, “interconnection system”, “noncommercial telecommunications entity”, “preoperational expenses”, “public telecommunications entity”, “public telecommunications facilities”, and “public telecommunications services”, and deleted definitions of “educational television or radio programs” and “State educational television agency” in order to make such definitions consistent with the chapter as amended.
+<b>1978</b>—Pub. L. 95–567, revised definition of “construction”, “corporation”, “interconnection”, “noncommercial educational broadcast station”, “non-Federal financial support”, “Secretary” and “State”, inserted definitions of “meeting”, “interconnection system”, “noncommercial telecommunications entity”, “preoperational expenses”, “public telecommunications entity”, “public telecommunications facilities”, and “public telecommunications services”, and deleted definitions of “educational television or radio programs” and “State educational television agency” in order to make such definitions consistent with the chapter as amended.
 
-1976—Par. (2). Pub. L. 94–309 substituted “transmission and reception apparatus” for “transmission apparatus” and “closed circuit television or radio programs” for “closed circuit television programs” and inserted in parenthetical text reference to non-video recording equipment, radio subcarrier receivers and satellite transceivers.
+<b>1976</b>—Par. (2). Pub. L. 94–309 substituted “transmission and reception apparatus” for “transmission apparatus” and “closed circuit television or radio programs” for “closed circuit television programs” and inserted in parenthetical text reference to non-video recording equipment, radio subcarrier receivers and satellite transceivers.
 
-1975—Pars. (10), (11). Pub. L. 94–192 added pars. (10) and (11).
+<b>1975</b>—Pars. (10), (11). Pub. L. 94–192 added pars. (10) and (11).
 
-1967—Par. (1). Pub. L. 90–129, §105(a), included the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands in definition of “State”.
+<b>1967</b>—Par. (1). Pub. L. 90–129, §105(a), included the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands in definition of “State”.
 
 Par. (2). Pub. L. 90–129, §§103(f)(1), 106, provided for application of term “construction” to educational radio broadcasting facilities and defined such term to include acquisition and installation of transmission apparatus necessary for radio broadcasting, and included costs of planning, respectively.
 

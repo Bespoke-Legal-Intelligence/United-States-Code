@@ -22,7 +22,7 @@ Not later than September 30, 2011, the Secretary shall conduct an evaluation of 
 
 &emsp;(1) an evaluation of whether children participating in the school lunch and breakfast programs increased their consumption of whole grains;
 
-&emsp;(2) an evaluation of which whole grains and whole grain products are most acceptable foruse in the school lunch and breakfast programs;
+&emsp;(2) an evaluation of which whole grains and whole grain products are most acceptable for use in the school lunch and breakfast programs;
 
 &emsp;(3) any recommendations of the Secretary regarding the integration of whole grain products in the school lunch and breakfast programs; and
 

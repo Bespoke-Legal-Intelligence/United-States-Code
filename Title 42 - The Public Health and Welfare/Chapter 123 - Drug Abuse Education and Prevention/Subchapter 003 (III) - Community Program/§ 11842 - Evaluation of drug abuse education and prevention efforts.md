@@ -20,7 +20,7 @@ To carry out this section, there are authorized to be appropriated $12,000,000 i
 
 #### Amendments
 
-1989—Subsec. (a). Pub. L. 101–93 and Pub. L. 101–204, §1001(c)(1)(A)(ii), made identical amendments, striking out “(as defined in section 11851(6) of this title)” after “drug abuse”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–93 and Pub. L. 101–204, §1001(c)(1)(A)(ii), made identical amendments, striking out “(as defined in section 11851(6) of this title)” after “drug abuse”.
 
 Pub. L. 101–204, §1001(c)(1)(A)(i), struck out “, acting through the Administrator,” before “shall develop”.
 

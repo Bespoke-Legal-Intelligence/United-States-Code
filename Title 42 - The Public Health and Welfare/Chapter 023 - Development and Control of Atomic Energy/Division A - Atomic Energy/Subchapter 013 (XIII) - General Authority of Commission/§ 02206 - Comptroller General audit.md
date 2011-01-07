@@ -6,7 +6,7 @@ No moneys appropriated for the purposes of this chapter shall be available for p
 
 #### Amendments
 
-2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
+<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
 
-1958—Pub. L. 85–681 inserted proviso relating to records disposal.
+<b>1958</b>—Pub. L. 85–681 inserted proviso relating to records disposal.
 

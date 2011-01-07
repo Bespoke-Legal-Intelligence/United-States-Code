@@ -10,11 +10,11 @@ This part, referred to in text, was in the original “this subtitle”, meaning
 
 #### Amendments
 
-2006—Pub. L. 109–162, §109(2), which directed substitution of “2011” for “2006”, was executed by substituting “2011” for “2005” to reflect the probable intent of Congress, because “2006” does not appear in text.
+<b>2006</b>—Pub. L. 109–162, §109(2), which directed substitution of “2011” for “2006”, was executed by substituting “2011” for “2005” to reflect the probable intent of Congress, because “2006” does not appear in text.
 
 Pub. L. 109–162, §109(1), substituted “2007” for “2001”.
 
-2000—Pub. L. 106–386 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this part—
+<b>2000</b>—Pub. L. 106–386 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this part—
 
 &emsp;“(1) $1,500,000 for fiscal year 1996;
 

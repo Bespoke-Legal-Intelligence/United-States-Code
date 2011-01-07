@@ -16,21 +16,31 @@
 
 &emsp;&emsp;Rules similar to the rules of paragraphs (5) and (7) of section 1400B(b) shall apply for purposes of this paragraph.
 
-#### (C) Gain after 2014 not qualified
+#### (C) Gain after 2016 not qualified
 
-&emsp;&emsp;Subparagraph (A) shall not apply to gain attributable to periods after December 31, 2014.
+&emsp;&emsp;Subparagraph (A) shall not apply to gain attributable to periods after December 31, 2016.
 
 #### (D) Treatment of DC zone
 
 &emsp;&emsp;The District of Columbia Enterprise Zone shall not be treated as an empowerment zone for purposes of this paragraph.
 
-#### (3) Special rules for 2009 and 2010
+#### (3) Special rules for 2009 and certain periods in 2010
 
-&emsp;In the case of qualified small business stock acquired after the date of the enactment of this paragraph and before January 1, 2011—
+&emsp;In the case of qualified small business stock acquired after the date of the enactment of this paragraph and on or before the date of the enactment of the Creating Small Business Jobs Act of 2010—
 
 &emsp;&emsp;(A) paragraph (1) shall be applied by substituting “75 percent” for “50 percent”, and
 
 &emsp;&emsp;(B) paragraph (2) shall not apply.
+
+#### (4) 100 percent exclusion for stock acquired during certain periods in 2010 and 2011
+
+&emsp;In the case of qualified small business stock acquired after the date of the enactment of the Creating Small Business Jobs Act of 2010 and before January 1, 2012—
+
+&emsp;&emsp;(A) paragraph (1) shall be applied by substituting “100 percent” for “50 percent”,
+
+&emsp;&emsp;(B) paragraph (2) shall not apply, and
+
+&emsp;&emsp;(C) paragraph (7) of section 57(a) shall not apply.
 
 #### (b) Per-issuer limitation on taxpayer's eligible gain
 
@@ -38,7 +48,7 @@
 
 &emsp;If the taxpayer has eligible gain for the taxable year from 1 or more dispositions of stock issued by any corporation, the aggregate amount of such gain from dispositions of stock issued by such corporation which may be taken into account under subsection (a) for the taxable year shall not exceed the greater of—
 
-&emsp;&emsp;(A) $10,000,000 reduced by the aggregate amount of eligible gain taken into account by the taxpayer under subsection (a) for prior taxable years and attributable to dispositions of stock issued by such corporation, or
+&emsp;&emsp;(A) $10,000,000 reduced by the aggregate amount of eligible gain taken into accountby the taxpayer under subsection (a) for prior taxable years and attributable to dispositions of stock issued by such corporation, or
 
 &emsp;&emsp;(B) 10 times the aggregate adjusted bases of qualified small business stock issued by such corporation and disposed of by the taxpayer during the taxable year.
 
@@ -92,7 +102,7 @@ For purposes of this section—
 
 #### (ii) Specialized small business investment company
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term “specialized small business investment company” means any eligible corporation (as defined in subsection (e)(4)) which is licensed to operate under section 301(d) ofthe Small Business Investment Act of 1958 (as in effect on May 13, 1993).
+&emsp;&emsp;&emsp;For purposes of clause (i), the term “specialized small business investment company” means any eligible corporation (as defined in subsection (e)(4)) which is licensed to operate under section 301(d) of the Small Business Investment Act of 1958 (as in effect on May 13, 1993).
 
 #### (3) Certain purchases by corporation of its own stock
 
@@ -118,7 +128,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the aggregate gross assets of such corporation (or any predecessor thereof) at all times on or after the date of the enactment of the Revenue Reconciliation Act of 1993 and before the issuance did not exceed $50,000,000,
 
-&emsp;&emsp;(B) the aggregate gross assets of such corporation immediately after the issuance (determined by taking into account amounts received in the issuance) do not exceed $50,000,000, and
+&emsp;&emsp;(B) the aggregate gross assets of such corporation immediately after the issuance (determined by taking into account amountsreceived in the issuance) do not exceed $50,000,000, and
 
 &emsp;&emsp;(C) such corporation agrees to submit such reports to the Secretary and to shareholders as the Secretary may require to carry out the purposes of this section.
 
@@ -348,19 +358,21 @@ For purposes of this section—
 
 &emsp;&emsp;(C) to the extent provided in regulations, the taxpayer has entered into any other transaction which substantially reduces the risk of loss from holding such qualified small business stock.
 
-> &emsp;For purposes of the preceding sentence, any reference to the taxpayer shall be treated asincluding a reference to any person who is related (within the meaning of section 267(b) or 707(b)) to the taxpayer.
+> &emsp;For purposes of the preceding sentence, any reference to the taxpayer shall be treated as including a reference to any person who is related (within the meaning of section 267(b) or 707(b)) to the taxpayer.
 
 #### (k) Regulations
 
 The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations to prevent the avoidance of the purposes of this section through split-ups, shell corporations, partnerships, or otherwise.
 
-(Added Pub. L. 103–66, title XIII, §13113(a), Aug. 10, 1993, 107 Stat. 422; amended Pub. L. 104–188, title I, §1621(b)(7), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 106–554, §1(a)(7) \[title I, §117(a), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–604; Pub. L. 108–357, title VIII, §835(b)(9), Oct. 22, 2004, 118 Stat. 1594; Pub. L. 111–5, div. B, title I, §1241(a), Feb. 17, 2009, 123 Stat. 342.)
+(Added Pub. L. 103–66, title XIII, §13113(a), Aug. 10, 1993, 107 Stat. 422; amended Pub. L. 104–188, title I, §1621(b)(7), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 106–554, §1(a)(7) \[title I, §117(a), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–604; Pub. L. 108–357, title VIII, §835(b)(9), Oct. 22, 2004, 118 Stat. 1594; Pub. L. 111–5, div. B, title I, §1241(a), Feb. 17, 2009, 123 Stat. 342; Pub. L. 111–240, title II, §2011(a), (b), Sept. 27, 2010, 124 Stat. 2554; Pub. L. 111–312, title VII, §§753(b), 760(a), Dec. 17, 2010, 124 Stat. 3321, 3323.)
 
 #### References in Text
 
 The date of the enactment of this paragraph, referred to in subsec. (a)(2)(A), is the date of enactment of Pub. L. 106–554, which was approved Dec. 21, 2000.
 
 The date of the enactment of this paragraph, referred to in subsec. (a)(3), is the date of enactment of Pub. L. 111–5, which was approved Feb. 17, 2009.
+
+The date of the enactment of the Creating Small Business Jobs Act of 2010, referred to in subsec. (a)(3), (4), is the date of enactment of Pub. L. 111–240, which was approved Sept. 27, 2010.
 
 The date of the enactment of the Revenue Reconciliation Act of 1993, referred to in subsecs. (c)(1) and (d)(1)(A), is the date of enactment of Pub. L. 103–66, which was approved Aug. 10, 1993.
 
@@ -372,15 +384,31 @@ A prior section 1202, acts Aug. 16, 1954, ch. 736, 68A Stat. 320; Oct. 4, 1976, 
 
 #### Amendments
 
-2009—Subsec. (a)(3). Pub. L. 111–5 added par. (3).
+<b>2010</b>—Subsec. (a)(2)(C). Pub. L. 111–312, §753(b), substituted “2016” for “2014” in heading and “December 31, 2016” for “December 31, 2014” in text.
 
-2004—Subsec. (e)(4)(C). Pub. L. 108–357 substituted “or REMIC” for “REMIC, or FASIT”.
+Subsec. (a)(3). Pub. L. 111–240, §2011(b), inserted “certain periods in” before “2010” in heading and substituted “on or before the date of the enactment of the Creating Small Business Jobs Act of 2010” for “before January 1, 2011” in text.
 
-2000—Pub. L. 106–554, §1(a)(7) \[title I, §117(b)(2)\], substituted “Partial” for “50-percent” in section catchline.
+Subsec. (a)(4). Pub. L. 111–312, §760(a), inserted “and 2011” after “2010” in heading and substituted “January 1, 2012” for “January 1, 2011” in introductory provisions.
+
+Pub. L. 111–240, §2011(a), added par. (4).
+
+<b>2009</b>—Subsec. (a)(3). Pub. L. 111–5 added par. (3).
+
+<b>2004</b>—Subsec. (e)(4)(C). Pub. L. 108–357 substituted “or REMIC” for “REMIC, or FASIT”.
+
+<b>2000</b>—Pub. L. 106–554, §1(a)(7) \[title I, §117(b)(2)\], substituted “Partial” for “50-percent” in section catchline.
 
 Subsec. (a). Pub. L. 106–554, §1(a)(7) \[title I, §117(a)\], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “In the case of a taxpayer other than a corporation, gross income shall not include 50 percent of any gain from the sale or exchange of qualified small business stock held for more than 5 years.”
 
-1996—Subsec. (e)(4)(C). Pub. L. 104–188 substituted “REMIC, or FASIT” for “or REMIC”.
+<b>1996</b>—Subsec. (e)(4)(C). Pub. L. 104–188 substituted “REMIC, or FASIT” for “or REMIC”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title VII, §753(d), Dec. 17, 2010, 124 Stat. 3321, provided that: “The amendments made by this section \[amending this section and section 1391 of this title\] shall apply to periods after December 31, 2009.”
+
+Pub. L. 111–312, title VII, §760(b), Dec. 17, 2010, 124 Stat. 3323, provided that: “The amendments made by this section \[amending this section\] shall apply to stock acquired after December 31, 2010.”
+
+Pub. L. 111–240, title II, §2011(c), Sept. 27, 2010, 124 Stat. 2554, provided that: “The amendments made by this section \[amending this section\] shall apply to stock acquired after the date of the enactment of this Act \[Sept. 27, 2010\].”
 
 #### Effective Date of 2009 Amendment
 

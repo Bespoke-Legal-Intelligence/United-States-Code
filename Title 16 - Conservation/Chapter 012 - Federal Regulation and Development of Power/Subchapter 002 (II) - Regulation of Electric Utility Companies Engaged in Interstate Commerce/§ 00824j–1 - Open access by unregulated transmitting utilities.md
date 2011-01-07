@@ -44,7 +44,7 @@ In exercising authority under subsection (b)(1) of this section, the Commission 
 
 #### (h) Other requests
 
-The provision of transmission services under subsection (b) of this section does not preclude a request for transmission services under section 824j of this title.
+The provision of transmission services under subsection (b) of this section does not precludea request for transmission services under section 824j of this title.
 
 #### (i) Limitation
 

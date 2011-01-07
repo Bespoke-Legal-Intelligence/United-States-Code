@@ -8,7 +8,7 @@
 
 > No subpena shall be issued under this section which requires the disclosure of intramanagement guidance, advice, counsel, or training within an agency or between an agency and the Office of Personnel Management.
 
-(b) In the case of contumacy or failure to obey a subpena issued under subsection (a)(1) of this section, the United States district court for the judicial district in which the person to whom the subpena is addressed resides or is served may issue an order requiring such person to appear at any designated place to testify or to produce documentary or other evidence. Any failure to obey the order of the court may be punished by the court as a contempt thereof.
+(b) In the case of contumacy or failure to obey a subpena issued under subsection (a)(1) of this section, the United States district court for the judicial district in which the person to whomthe subpena is addressed resides or is served may issue an order requiring such person to appear at any designated place to testify or to produce documentary or other evidence. Any failure to obey the order of the court may be punished by the court as a contempt thereof.
 
 (c) Witnesses (whether appearing voluntarily or under subpena) shall be paid the same fee and mileage allowances which are paid subpenaed witnesses in the courts of the United States.
 

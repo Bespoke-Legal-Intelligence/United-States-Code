@@ -20,7 +20,7 @@
 
 #### (C) Suspension of period
 
-&emsp;&emsp;The removal period shall be extended beyond a period of 90 days and the alien may remain in detention during such extended period if the alien fails or refuses to make timely application in good faith for travel or other documents necessary to the alien's departure or conspires or acts to prevent the alien's removal subject to an order of removal.
+&emsp;&emsp;The removal period shall be extended beyond a period of 90 days and the alien may remain in detention during such extended period if the alien fails or refuses to make timely application in good faith for travel orother documents necessary to the alien's departure or conspires or acts to prevent the alien's removal subject to an order of removal.
 
 #### (2) Detention
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(i) in the case of an alien in the custody of the Attorney General, if the Attorney General determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense related to smuggling or harboring of aliens or an offense described in section 1101(a)(43)(B), (C), (E), (I), or (L) of this title <sup>3</sup> and (II) the removal of the alien is appropriate and in the best interest of the United States; or
 
-&emsp;&emsp;&emsp;(ii) in the case of an alien in the custody of a State (or a political subdivision of a State), if the chief State official exercising authority with respect to the incarceration of the alien determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense described in section 1101(a)(43)(C) or (E) of this title), (II) the removal is appropriate and in the best interest of the State, and (III) submits awritten request to the Attorney General that such alien be so removed.
+&emsp;&emsp;&emsp;(ii) in the case of an alien in the custody of a State (or a political subdivision of a State), if the chief State official exercising authority with respect to the incarceration of the alien determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense described in section 1101(a)(43)(C) or (E) of this title), (II) the removal is appropriate and in the best interest of the State, and (III) submits a written request to the Attorney General that such alien be so removed.
 
 #### (C) Notice
 
@@ -162,7 +162,7 @@
 
 &emsp;&emsp;&emsp;(i) to the country that is host to a government in exile of the country of which the alien is a citizen or subject if the government of the host country will permit the alien's entry; or
 
-&emsp;&emsp;&emsp;(ii) if the recognized government of the country of which the alien is a citizen or subject is not in exile, to a country, or a political or territorial subdivision of a country, that is very near the country of which the alien is a citizen or subject, or, with the consent of the government of the country of which the alien is a citizen or subject, to another country.
+&emsp;&emsp;&emsp;(ii) if the recognized government of the country of which the alien is a citizen orsubject is not in exile, to a country, or a political or territorial subdivision of a country, that is very near the country of which the alien is a citizen or subject, or, with the consent of the government of the country of which the alien is a citizen or subject, to another country.
 
 #### (3) Restriction on removal to a country where alien's life or freedom would be threatened
 
@@ -192,7 +192,7 @@
 
 #### (1) Vessels and aircraft
 
-&emsp;An alien arriving at a port of entry of the United States who is ordered removed either without a hearing under section 1225(b)(1) or 1225(c) of this title or pursuant to proceedingsunder section 1229a of this title initiated at the time of such alien's arrival shall be removed immediately on a vessel or aircraft owned by the owner of the vessel or aircraft on which the alien arrived in the United States, unless—
+&emsp;An alien arriving at a port of entry of the United States who is ordered removed either without a hearing under section 1225(b)(1) or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival shall be removed immediately on a vessel or aircraft owned by the owner of the vessel or aircraft on which the alien arrived in the United States, unless—
 
 &emsp;&emsp;(A) it is impracticable to remove the alien on one of those vessels or aircraft within a reasonable time, or
 
@@ -352,7 +352,7 @@
 
 #### (1) In general
 
-&emsp;The Attorney General shall arrange for appropriate places of detention for aliens detained pending removal or a decision on removal. When United States Government facilities are unavailable or facilities adapted or suitably located for detention are unavailable for rental, the Attorney General may expend from the appropriation “Immigration and Naturalization Service—Salaries and Expenses”, without regard to section 5 of title 41, amounts necessary to acquire land and to acquire, build, remodel, repair, and operate facilities (including living quarters for immigration officers if not otherwise available) necessary for detention.
+&emsp;The Attorney General shall arrange for appropriate places of detention for aliens detained pending removal or a decision on removal. When United States Government facilities are unavailable or facilities adapted or suitably located for detention are unavailable for rental, the Attorney General may expend from the appropriation “Immigration and Naturalization Service—Salaries and Expenses”, without regard to section 6101 of title 41, amounts necessary to acquire land and to acquire, build, remodel, repair, and operate facilities (including living quarters for immigration officers if not otherwise available) necessary for detention.
 
 #### (2) Detention facilities of the Immigration and Naturalization Service
 
@@ -382,7 +382,7 @@ Nothing in this section shall be construed to create any substantive or procedur
 
 &emsp;(iii) was admitted as a nonimmigrant and at the time he or she was taken into custody by the State or a political subdivision of the State has failed to maintain the nonimmigrant status in which the alien was admitted or to which it was changed under section 1258 of this title, or to comply with the conditions of any such status.
 
-(4)(A) In carrying out paragraph (1), the Attorney General shall give priority to the Federal incarceration of undocumented criminal aliens who have committed aggravated felonies.
+(4)(A) In carrying out paragraph (1), the Attorney General shall give priority to the Federalincarceration of undocumented criminal aliens who have committed aggravated felonies.
 
 (B) The Attorney General shall ensure that undocumented criminal aliens incarcerated in Federal facilities pursuant to this subsection are held in facilities which provide a level of security appropriate to the crimes for which they were convicted.
 
@@ -402,7 +402,11 @@ Nothing in this section shall be construed to create any substantive or procedur
 
 Section 259 of title 42, referred to in subsec. (a)(4)(A), was repealed by Pub. L. 106–310, div. B, title XXXIV, §3405(a), Oct. 17, 2000, 114 Stat. 1221.
 
+This chapter, referred to in subsecs. (a)(4)(B), (5), (d)(3), and (e)(2), (3)(A), (C), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+
 #### Codification
+
+In subsec. (g)(1), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 The text of subsec. (j) of section 1252 of this title, which was redesignated as subsec. (i) of this section by Pub. L. 104–208, §306(a)(1), was based on section 242(j) of act June 27, 1952, ch. 477, title II, ch. 5, as added Sept. 13, 1994, Pub. L. 103–322, title II, §20301(a), 108 Stat. 1823.
 
@@ -432,7 +436,7 @@ Pub. L. 109–162, title XI, §1196(d), as added by Pub. L. 109–271, §8(n)(6)
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–13 effective May 11, 2005, and applicable to applications for asylum, withholding,or other relief from removal made on or after such date, see section 101(h)(2) of Pub. L. 109–13, set out as a note under section 1158 of this title.
+Amendment by Pub. L. 109–13 effective May 11, 2005, and applicable to applications for asylum, withholding, or other relief from removal made on or after such date, see section 101(h)(2) of Pub. L. 109–13, set out as a note under section 1158 of this title.
 
 #### Effective Date of 1996 Amendment
 

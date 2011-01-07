@@ -318,7 +318,7 @@ The Internal Revenue Code of 1986, referred to in subsecs. (f)(5)(B)(ii) and (k)
 
 #### Amendments
 
-2000—Subsec. (c). Pub. L. 106–182, §4(a)(1), in last sentence of concluding provisions substituted “nor shall any deduction be made under this subsection from any widow's or widower's insurance benefit if the widow, surviving divorced wife, widower, or surviving divorced husband involved became entitled to such benefit prior to attaining age 60” for “nor shall any deduction be made under this subsection from any widow's insurance benefit for any month in which the widow or surviving divorced wife is entitled and has not attained retirement age (as defined in section 416(<i>l</i>) of this title) (but only if she became so entitled prior to attaining age 60), or from any widower's insurance benefit for any month in which the widower or surviving divorced husband is entitled and has not attained retirement age (as defined in section 416(<i>l</i>) of this title) (but only if he became so entitled prior to attaining age 60)”.
+<b>2000</b>—Subsec. (c). Pub. L. 106–182, §4(a)(1), in last sentence of concluding provisions substituted “nor shall any deduction be made under this subsection from any widow's or widower's insurance benefit if the widow, surviving divorced wife, widower, or surviving divorced husband involved became entitled to such benefit prior to attaining age 60” for “nor shall any deduction be made under this subsection from any widow's insurance benefit for any month in which the widow or surviving divorced wife is entitled and has not attained retirement age (as defined in section 416(<i>l</i>) of this title) (but only if she became so entitled prior to attaining age 60), or from any widower's insurance benefit for any month in which the widower or surviving divorced husband is entitled and has not attained retirement age (as defined in section 416(<i>l</i>) of this title) (but only if he became so entitled prior to attaining age 60)”.
 
 Subsec. (c)(1). Pub. L. 106–182, §2(1), substituted “retirement age (as defined in section 416(<i>l</i>) of this title)” for “the age of seventy”.
 
@@ -338,7 +338,7 @@ Subsec. (h)(1)(A)(i), (ii). Pub. L. 106–182, §2(5), substituted “retirement
 
 Subsec. (j). Pub. L. 106–182, §2(6), substituted “retirement age” for “age seventy” in heading and “having attained retirement age (as defined in section 416(<i>l</i>) of this title)” for “seventy years of age”.
 
-1996—Subsec. (f)(8)(B)(ii). Pub. L. 104–121, §102(b)(1)(A), substituted “the taxable year ending after 2001 and before 2003 (with respect to individuals described in subparagraph (D)) or the taxable year ending after 1993 and before 1995 (with respect to other individuals)” for “the taxable year ending after 1993 and before 1995”.
+<b>1996</b>—Subsec. (f)(8)(B)(ii). Pub. L. 104–121, §102(b)(1)(A), substituted “the taxable year ending after 2001 and before 2003 (with respect to individuals described in subparagraph (D)) or the taxable year ending after 1993 and before 1995 (with respect to other individuals)” for “the taxable year ending after 1993 and before 1995”.
 
 Subsec. (f)(8)(B)(ii)(II). Pub. L. 104–121, §102(b)(1)(B), substituted “for 2000 (with respect to individuals described in subparagraph (D)) or 1992 (with respect to other individuals)” for “for 1992”.
 
@@ -354,7 +354,7 @@ Subsec. (f)(8)(D). Pub. L. 104–121, §102(a), amended subpar. (D) generally. P
 
 &emsp;“(v) shall be $500 for each month of any taxable year ending after 1981 and before 1983.”
 
-1994—Subsec. (a)(2)(C). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
+<b>1994</b>—Subsec. (a)(2)(C). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
 
 Subsec. (a)(4). Pub. L. 103–296, §309(b), substituted “section 422(b) of this title. Notwithstanding the preceding sentence, any reduction under this subsection in the case of an individual who is entitled to a benefit under subsection (b), (c), (d), (e), (f), (g), or (h) of section 402 of this title for any month on the basis of the same wages and self-employment income as another person—
 
@@ -416,7 +416,7 @@ Subsec. (k). Pub. L. 103–296, §321(c)(6)(A), substituted “Code of 1986” f
 
 Subsec. (<i>l</i>). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
-1990—Subsec. (a)(3)(D). Pub. L. 101–508, §5119(c), added subpar. (D).
+<b>1990</b>—Subsec. (a)(3)(D). Pub. L. 101–508, §5119(c), added subpar. (D).
 
 Subsec. (a)(6). Pub. L. 101–508, §5119(d), inserted “(3)(D),” after “(3)(C),”.
 
@@ -428,7 +428,7 @@ Subsec. (d)(1)(B). Pub. L. 101–508, §5127(b), designated existing provisions 
 
 Subsec. (f)(5)(E). Pub. L. 101–508, §5123(a)(1), (2), redesignated last undesignated par. of section 411(a) of this title as subpar. (E) and substituted “For purposes of this section, any individual's net earnings from self-employment which result from or are attributable to” for “Any income of an individual which results from or is attributable to”, “the income, on which the computation of such net earnings from self-employment is based, is actually paid” for “the income is actually paid”, and “unless such income was” for “unless it was”.
 
-1989—Subsec. (f)(5)(C). Pub. L. 101–239, §10208(d)(2)(A)(ii), (vi), substituted “paragraphs (1), (6)(B), (6)(C), (7)(B), and (8) of section 409(a)” for “subsections (a), (g)(2), (g)(3), (h)(2), and (j) of section 409” in introductory provisions and “409(a)(11)(B)” for “409(m)(2)” in cl. (ii).
+<b>1989</b>—Subsec. (f)(5)(C). Pub. L. 101–239, §10208(d)(2)(A)(ii), (vi), substituted “paragraphs (1), (6)(B), (6)(C), (7)(B), and (8) of section 409(a)” for “subsections (a), (g)(2), (g)(3), (h)(2), and (j) of section 409” in introductory provisions and “409(a)(11)(B)” for “409(m)(2)” in cl. (ii).
 
 Subsec. (f)(8)(B)(ii)(I). Pub. L. 101–239, §10208(b)(1)(A), substituted “the deemed average total wages (as defined in section 409(k)(1) of this title)” for “the average of the total wages (as defined in regulations of the Secretary and computed without regard to the limitations specified in section 409(a) of this title) reported to the Secretary of the Treasury or his delegate”.
 
@@ -438,13 +438,13 @@ Subsec. (f)(8)(B)(ii)(II). Pub. L. 101–239, §10208(b)(1)(B), substituted “t
 
 Subsec. (<i>l</i>). Pub. L. 101–239, §10305(a), substituted “Secretary, except that in making any such determination, the Secretary shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language)” for “Secretary” in last sentence.
 
-1988—Subsec. (f)(3). Pub. L. 100–647 inserted “(or, but for the individual's death, would have attained)” after “who has attained” in first sentence, inserted after first sentence “For purposes of the preceding sentence, notwithstanding section 411(e) of this title, the number of months in the taxable year in which an individual dies shall be 12.”, and substituted “first sentence of this paragraph” for “preceding sentence” in last sentence.
+<b>1988</b>—Subsec. (f)(3). Pub. L. 100–647 inserted “(or, but for the individual's death, would have attained)” after “who has attained” in first sentence, inserted after first sentence “For purposes of the preceding sentence, notwithstanding section 411(e) of this title, the number of months in the taxable year in which an individual dies shall be 12.”, and substituted “first sentence of this paragraph” for “preceding sentence” in last sentence.
 
-1986—Subsec. (a)(4). Pub. L. 99–272, §12108(a)(1), struck out “preceding” after “pursuant to the” in first sentence.
+<b>1986</b>—Subsec. (a)(4). Pub. L. 99–272, §12108(a)(1), struck out “preceding” after “pursuant to the” in first sentence.
 
 Subsec. (a)(6). Pub. L. 99–272, §12108(a)(2), substituted “(4), and (5)” for “and (5)” and “shall be reduced” for “whether or not such total benefits are otherwise subject to reduction under this subsection but after any reduction under this subsection which would otherwise be applicable, shall be, reduced or further reduced”.
 
-1984—Subsec. (a)(8). Pub. L. 98–369, §2663(a)(3)(A), inserted a period at end of par. (8).
+<b>1984</b>—Subsec. (a)(8). Pub. L. 98–369, §2663(a)(3)(A), inserted a period at end of par. (8).
 
 Subsec. (d)(1)(A). Pub. L. 98–369, §2661(g)(1)(A)(i), substituted “for more than forty-five hours of which such individual engaged” for “on seven or more different calendar days of which he engaged”.
 
@@ -462,7 +462,7 @@ Subsec. (f)(9). Pub. L. 98–369, §2661(g)(2)(A), added par. (9).
 
 Subsec. (h)(4). Pub. L. 98–369, §2602(a), added par. (4).
 
-1983—Subsec. (a)(3)(A). Pub. L. 98–21, §331(a)(1), amended cl. (ii) generally, substituting provisions relating to an amount (I) initially equal to the product of 1.75 and the primary insurance amount that would be computed under section 415(a)(1) of this title, for January of the year determined for purposes of this clause under the following two sentences, with respect to average indexed monthly earnings equal to one-twelfth of the contribution and benefit base determined for that year under section 430 of this title, and (II) thereafter increased in accordance with the provisions of section 415(i)(2)(A)(ii) of this title, for provisions relating to an amount equal to the product of 1.75 and the primary insurance amount that would be computed under section 415(a)(1) of this title for that month with respect to average indexed monthly earnings equal to one-twelfth of the contribution and benefit base determined for that year under section 430 of this title, and inserted provisions following cl. (ii).
+<b>1983</b>—Subsec. (a)(3)(A). Pub. L. 98–21, §331(a)(1), amended cl. (ii) generally, substituting provisions relating to an amount (I) initially equal to the product of 1.75 and the primary insurance amount that would be computed under section 415(a)(1) of this title, for January of the year determined for purposes of this clause under the following two sentences, with respect to average indexed monthly earnings equal to one-twelfth of the contribution and benefit base determined for that year under section 430 of this title, and (II) thereafter increased in accordance with the provisions of section 415(i)(2)(A)(ii) of this title, for provisions relating to an amount equal to the product of 1.75 and the primary insurance amount that would be computed under section 415(a)(1) of this title for that month with respect to average indexed monthly earnings equal to one-twelfth of the contribution and benefit base determined for that year under section 430 of this title, and inserted provisions following cl. (ii).
 
 Subsec. (a)(7). Pub. L. 98–21, §331(a)(2), substituted “the amount determined in accordance with the provisions of paragraph (3)(A)(ii) of this subsection, except that for this purpose the references to subparagraph (A) in the last two sentences of paragraph (3)(A) shall be deemed to be references to paragraph (7)” for “the product of 1.75 and the primary insurance amount that would be computed under section 415(a)(1) of this title for that month with respect to average indexed monthly earnings equal to one-twelfth of the contribution and benefit base determined under section 430 of this title for the year in which that month occurs”.
 
@@ -506,7 +506,7 @@ Subsec. (f)(8)(A). Pub. L. 98–21, §111(a)(4), substituted “December” for 
 
 Subsec. (f)(8)(D). Pub. L. 98–21, §201(c)(1)(B), substituted “retirement age (as defined in section 416(<i>l</i>) of this title)” for “age 65”.
 
-1981—Subsec. (a)(1). Pub. L. 97–35, §2206(b)(2), substituted in provisions following subpar. (D) “decreased to the next lower” for “increased to the next higher”.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–35, §2206(b)(2), substituted in provisions following subpar. (D) “decreased to the next lower” for “increased to the next higher”.
 
 Subsec. (a)(3)(B)(iii). Pub. L. 97–35, §2206(b)(3), substituted “next lower multiple” for “next higher multiple”.
 
@@ -514,7 +514,7 @@ Subsec. (a)(8). Pub. L. 97–123, §2(f), struck out “, modified by the appli
 
 Pub. L. 97–35, §§2201(c)(6), 2206(b)(4), inserted “, modified by the application of section 415(a)(6) of this title” and inserted provision that for the purposes of the preceding sentence, the phrase “rounded to the next higher multiple of $0.10”, as it appeared in subsec. (a)(2)(C) of this section as in effect in December 1978, be deemed to read “rounded to the next lower multiple of $0.10”.
 
-1980—Subsec. (a). Pub. L. 96–265 added par. (6), redesignated former pars. (6) to (8) as (7) to (9), respectively, and made conforming amendments to pars. (1), (2)(D), and (8).
+<b>1980</b>—Subsec. (a). Pub. L. 96–265 added par. (6), redesignated former pars. (6) to (8) as (7) to (9), respectively, and made conforming amendments to pars. (1), (2)(D), and (8).
 
 Subsec. (a)(3)(A). Pub. L. 96–473, §6(b)(1), substituted “entitled on the basis” for “entitled on the bases”.
 
@@ -526,7 +526,7 @@ Subsec. (f)(2)(F). Pub. L. 96–473, §1(a)(2), inserted reference to cl. (F).
 
 Subsec. (f)(5)(D). Pub. L. 96–473, §3(a), revised former cls. (i) and (ii) into cl. (i), inserted reference to women, and added cl. (ii).
 
-1977—Subsec. (a)(1) to (7). Pub. L. 95–216, §202, generally restated the provisions of existing pars. (1) to (5) with changes to take into account the revised system for computing primary insurance amounts based on wage-indexed earnings and redistributed those existing provisions as thus restated into pars. (1) to (7).
+<b>1977</b>—Subsec. (a)(1) to (7). Pub. L. 95–216, §202, generally restated the provisions of existing pars. (1) to (5) with changes to take into account the revised system for computing primary insurance amounts based on wage-indexed earnings and redistributed those existing provisions as thus restated into pars. (1) to (7).
 
 Subsec. (a)(8). Pub. L. 95–216, §204(e), added par. (8).
 
@@ -552,9 +552,9 @@ Pub. L. 95–216, §302(c), substituted “age 70” for “the age of 72” and
 
 Subsec. (j). Pub. L. 95–216, §302(a), (d), substituted “seventy” for “seventy-two” in heading and in text.
 
-1976—Subsec. (f)(8)(B)(ii). Pub. L. 94–202 substituted “wages of all employees as reported to the Secretary of the Treasury for the calendar year preceding the calendar year” for “taxable wages of all employees as reported to the Secretary for the first calendar quarter of the calendar year” in cl. (I), substituted “wages of all employees as reported to the Secretary of the Treasury for the calendar year 1973, or, if later, the calendar year preceding” for “taxable wages of all employees as reported to the Secretary for the first calendar quarter of 1973, or, if later, the first calendar quarter of” in cl. (II), and directed that the average wages for calendaryear 1978, or any prior calendar year, be deemed equal to 400% of the average wages reported for the first quarter of that year.
+<b>1976</b>—Subsec. (f)(8)(B)(ii). Pub. L. 94–202 substituted “wages of all employees as reported to the Secretary of the Treasury for the calendar year preceding the calendar year” for “taxable wages of all employees as reported to the Secretary for the first calendar quarter of the calendar year” in cl. (I), substituted “wages of all employees as reported to the Secretary of the Treasury for the calendar year 1973, or, if later, the calendar year preceding” for “taxable wages of all employees as reported to the Secretary for the first calendar quarter of 1973, or, if later, the first calendar quarter of” in cl. (II), and directed that the average wages for calendaryear 1978, or any prior calendar year, be deemed equal to 400% of the average wages reported for the first quarter of that year.
 
-1973—Subsec. (f). Pub. L. 93–66, §202(a), (b), substituted in pars. (1), (3), first sentence, and (4)(B), “$200” for “$175”.
+<b>1973</b>—Subsec. (f). Pub. L. 93–66, §202(a), (b), substituted in pars. (1), (3), first sentence, and (4)(B), “$200” for “$175”.
 
 Subsec. (f)(8)(A). Pub. L. 93–233, §3(k)(1), substituted: “with the month of June following” for “with the first month of the calendar year following”, “which ends after the calendar year in which such benefit increase is effective” for “which ends with the close of or after the calendar year with the first month of which such benefit increase is effective”, and “during the calendar year after the calendar year in which the benefit increase is effective” for “during such calendar year”; and struck out after “such quarter occurs” and before “a new exempt amount” parenthetical “(along with the publication of such benefit increased as required by section 415(i)(2)(D) of this title)”.
 
@@ -566,7 +566,7 @@ Subsec. (f)(8)(C). Pub. L. 93–233, §3(k)(3), struck out “or providing a gen
 
 Subsec. (h)(1)(A). Pub. L. 93–66, §202(c), substituted “$200” for “$175”.
 
-1972—Subsec. (a). Pub. L. 92–336, §202(a)(2)(A), inserted “in or deemed to be” after “the table”.
+<b>1972</b>—Subsec. (a). Pub. L. 92–336, §202(a)(2)(A), inserted “in or deemed to be” after “the table”.
 
 Subsec. (a)(2). Pub. L. 92–336, §202(a)(2)(B), as amended by Pub. L. 92–603, §§103(c), 144(a)(3), substituted provisions relating to the reduction in the total benefits for any month after January 1971 where two or more persons were entitled to monthly benefits under section 402 or 423 of this title for January 1971 or any prior month, for provisions relating to the reduction in the total of benefits for September 1972 or any subsequent month where two or more persons were entitled to monthly benefits under section 402 or 423 of this title for August, 1972.
 
@@ -590,11 +590,11 @@ Subsec. (f)(8). Pub. L. 92–603, §105(b), added par. (8).
 
 Subsec. (h)(1)(A). Pub. L. 92–603, §105(a)(2), substituted “$175 or the exempt amount as determined under subsection (f)(8) of this section” for “$140”.
 
-1971—Subsec. (a)(2). Pub. L. 92–5 substituted references to January 1971 for references to January 1970, substituted “December 1970” for “December 1969”, and, in subpar. (B), substituted “prior to March 17, 1971” for “prior to December 30, 1969 (and prior to January 1, 1970)”, and lowered the multiple of the benefit amount from 115 percent to 110 percent.
+<b>1971</b>—Subsec. (a)(2). Pub. L. 92–5 substituted references to January 1971 for references to January 1970, substituted “December 1970” for “December 1969”, and, in subpar. (B), substituted “prior to March 17, 1971” for “prior to December 30, 1969 (and prior to January 1, 1970)”, and lowered the multiple of the benefit amount from 115 percent to 110 percent.
 
-1969—Subsec. (a)(2). Pub. L. 91–172 substituted references to January 1970 for references to February 1968, and, in subpar. (B), substituted “prior to December 30, 1969 (and prior to January 1, 1970)” for “prior to February 1968”, and raised the multiple of the benefit amount from 113 percent to 115 percent.
+<b>1969</b>—Subsec. (a)(2). Pub. L. 91–172 substituted references to January 1970 for references to February 1968, and, in subpar. (B), substituted “prior to December 30, 1969 (and prior to January 1, 1970)” for “prior to February 1968”, and raised the multiple of the benefit amount from 113 percent to 115 percent.
 
-1968—Subsec. (a). Pub. L. 90–248, §163(a)(1), provided for reduction of benefits in the total of monthly benefits to which individuals are entitled for any month on the basis of the wages and self-employment income of an insured individual and that where such total of benefits for such month includes any benefit or benefits under section 402(d) of this title which are payable solely by reason of section 416(h)(3) of this title, the reduction shall be first applied to reduce (proportionately where there is more than one benefit so payable) the benefits so payable (but not below zero).
+<b>1968</b>—Subsec. (a). Pub. L. 90–248, §163(a)(1), provided for reduction of benefits in the total of monthly benefits to which individuals are entitled for any month on the basis of the wages and self-employment income of an insured individual and that where such total of benefits for such month includes any benefit or benefits under section 402(d) of this title which are payable solely by reason of section 416(h)(3) of this title, the reduction shall be first applied to reduce (proportionately where there is more than one benefit so payable) the benefits so payable (but not below zero).
 
 Subsec. (a)(2). Pub. L. 90–248, §101(b), substituted references to February 1968 for former references to December 1964 and for former references to the enactment of the Social Security Amendments of 1965, increased the multiple of the benefit amount from 107 to 113 percent, and struck out former cl. (ii) which provided that the total of monthly benefits shall not be reduced to less than the larger of the amount determined under subpar. (A) or with respect to any month after the month in which the Social Security Amendments of 1965 are enacted, an amount equal to the sum of the amounts derived by multiplying the benefit amount determined under this subchapter (including subsection (a) of this section, but without the application of section 422(b) of this title, section 402(q) of this title, and subsections (b), (c) and (d) of this section), as in effect prior to the enactment of such Amendments, for each such person (other than a person who would not be entitled to such benefits for such month without the application of the amendments made by section 306 of the Social Security Amendments of 1965) for the month of enactment, by 107 percent and raising each such increased amount, if it is not a multiple of $0.10, to the next higher multiple of $0.10.
 
@@ -618,7 +618,7 @@ Subsec. (h)(2). Pub. L. 90–248, §160(b), substituted in text preceding subpar
 
 Subsec. (h)(2)(A). Pub. L. 90–248, §161(a), inserted exception provision that if the deduction is less than the amount of his benefits for the last month for which he was entitled to benefits, the additional deduction will be the amount of the deduction under subsec. (b) but not less than ten dollars.
 
-1965—Subsec. (a)(2). Pub. L. 89–97, §301(c), substituted provisions to assure an increase in the family benefits for families who were on the benefit rolls after December 1964 and whose benefits were determined under former provisions by providing that the maximum family benefit of each month after December 1964 will be the larger of (1) the family maximum specified in column V of the new table or (2) the sum of all family members’ benefits after each such benefit has been increased by seven percent (and rounded to the next higher ten cents if it is not already a multiple of ten cents), for former provisions restricting the reduction of total benefits to individuals entitled to monthly benefits under section 402 or 423 of this title for December 1958.
+<b>1965</b>—Subsec. (a)(2). Pub. L. 89–97, §301(c), substituted provisions to assure an increase in the family benefits for families who were on the benefit rolls after December 1964 and whose benefits were determined under former provisions by providing that the maximum family benefit of each month after December 1964 will be the larger of (1) the family maximum specified in column V of the new table or (2) the sum of all family members’ benefits after each such benefit has been increased by seven percent (and rounded to the next higher ten cents if it is not already a multiple of ten cents), for former provisions restricting the reduction of total benefits to individuals entitled to monthly benefits under section 402 or 423 of this title for December 1958.
 
 Subsec. (a)(3). Pub. L. 89–97, §§301(c), 308(d)(6), struck out par. (3) which was a special saving clause for maximum family benefits of people who became disabled before 1959 since families whose benefits were determined under such par. (3) are now covered by subsec. (a)(2) of this section, and added par. (3), respectively.
 
@@ -640,9 +640,9 @@ Subsec. (f)(5)(D). Pub. L. 89–97, §325(a)(2), added subpar. (D).
 
 Subsec. (h)(1)(A). Pub. L. 89–97, §310(a)(3), substituted “$125” for “$100”.
 
-1961—Subsec. (f)(3). Pub. L. 87–64 substituted “$500” for “$300” in two places.
+<b>1961</b>—Subsec. (f)(3). Pub. L. 87–64 substituted “$500” for “$300” in two places.
 
-1960—Subsec. (a)(3). Pub. L. 86–778, §302(a), substituted “, then such total of benefits shall not be reduced to less than $99.10 if such primary insurance amount is $66, to less than $102.40 if such primary insurance amount is $67, to less than $106.50 if such primary insurance amount is $68, or, if such primary insurance amount is higher than $68, to less than the smaller of” for “and is not less than $68, then such total of benefits shall not be reduced to less than the smaller of” in the provisions following cl. (B), and “the amount determined under this subsection without regard to this paragraph, or $206.60, whichever is larger” for “the last figure in column V of the table appearing in section 415(a) of this title” in cl. (C).
+<b>1960</b>—Subsec. (a)(3). Pub. L. 86–778, §302(a), substituted “, then such total of benefits shall not be reduced to less than $99.10 if such primary insurance amount is $66, to less than $102.40 if such primary insurance amount is $67, to less than $106.50 if such primary insurance amount is $68, or, if such primary insurance amount is higher than $68, to less than the smaller of” for “and is not less than $68, then such total of benefits shall not be reduced to less than the smaller of” in the provisions following cl. (B), and “the amount determined under this subsection without regard to this paragraph, or $206.60, whichever is larger” for “the last figure in column V of the table appearing in section 415(a) of this title” in cl. (C).
 
 Subsec. (b). Pub. L. 86–778, §211(a), amended subsec. (b) generally, and among other changes, authorized deductions from payments to which any other persons are entitled on the basis of an individual's wages and self-employed income, substituted provisions requiring deductions for months in which an individual is charged with excess earnings under the provisions of subsec. (f) of this section for provisions which required deductions for months in which an individual is charged with any earnings under the provisions of subsec. (e) of this section, and inserted the second, third, fourth and fifth sentences. Former cls. (2)–(5) and the closing paragraph of subsec. (b) are covered by subsec. (c) of this section.
 
@@ -664,7 +664,7 @@ Subsec. (k). Pub. L. 86–778, §103(b), substituted “the Commonwealth of Puer
 
 Subsec. (<i>l</i>). Pub. L. 86–778, §211(h), substituted “subsection (g) or (h)(1)(A) of this section” for “subsection (f) or (g)(1)(A) of this section”.
 
-1958—Subsec. (a). Pub. L. 85–840, §101(f), substituted provisions limiting the total of monthly benefits under sections 402 and 423 of this title to the amount provided in column V of the table in section 415(a) of this title for provisions which limited the total of monthly benefits under section 402 of this title to $50, or 80% of the average monthly wage, or one and one-half times the primary insurance amount, whichever is greater, with a maximum amount of $200 and inserted provisions limiting the reduction for individuals who were entitled to monthly benefits under section 402 or 423 of this title for December 1958, and for individuals entitled to monthly benefits with respect to whom a period of disability began prior to January 1959 and continued until he became entitled to benefits under section 402 or 423 of this title, or he died, whichever first occurred.
+<b>1958</b>—Subsec. (a). Pub. L. 85–840, §101(f), substituted provisions limiting the total of monthly benefits under sections 402 and 423 of this title to the amount provided in column V of the table in section 415(a) of this title for provisions which limited the total of monthly benefits under section 402 of this title to $50, or 80% of the average monthly wage, or one and one-half times the primary insurance amount, whichever is greater, with a maximum amount of $200 and inserted provisions limiting the reduction for individuals who were entitled to monthly benefits under section 402 or 423 of this title for December 1958, and for individuals entitled to monthly benefits with respect to whom a period of disability began prior to January 1959 and continued until he became entitled to benefits under section 402 or 423 of this title, or he died, whichever first occurred.
 
 Subsec. (c). Pub. L. 85–840, §205(j), inserted “, based on the wages and self-employment income of an individual entitled to old-age insurance benefits,” before “to which a wife” in opening provisions of par. (1), and Pub. L. 85–840, §307(f), designated existing provisions of subsec. (c) as par. (1), redesignated subpars. (1) and (2) of par. (1) as subpars. (A) and (B), substituted in subpar. (B) of par. (1) “subparagraph (A)” for “paragraph (1)”, and added par. (2).
 
@@ -678,7 +678,7 @@ Subsec. (h). Pub. L. 85–840, §205(k), struck out provisions that related to r
 
 Subsec. (<i>l</i>). Pub. L. 85–840, §308(e), substituted “(g)(1)(A) of this section” for “(g) of this section”.
 
-1956—Subsec. (a). Act Aug. 1, 1956, §101(d), inserted “after any deductions under section 422(b) of this title, and after any reduction under section 424 of this title” in two places.
+<b>1956</b>—Subsec. (a). Act Aug. 1, 1956, §101(d), inserted “after any deductions under section 422(b) of this title, and after any reduction under section 424 of this title” in two places.
 
 Subsec. (b). Act Aug. 1, 1956, §101(e), inserted paragraph providing that a child should not be considered to be entitled to a child's insurance benefit for any month in which an event specified in section 422(b) of this title occurs with respect to such child, and prohibiting any deduction from any child's insurance benefit for the month in which the child entitled to such benefit attained the age of 18 or any subsequent month.
 
@@ -694,7 +694,7 @@ Subsec. (h). Act Aug. 1, 1956, §101(g), included deductions by reason of the pr
 
 Subsec. (k). Act Aug. 1, 1956, §112(b), inserted “and are not performed in the active military or naval service of the United States” after “section 410 of this title”.
 
-1954—Subsec. (a). Act Sept. 1, 1954, §102(e)(7), increased maximum limitations on the total monthly amount of benefits.
+<b>1954</b>—Subsec. (a). Act Sept. 1, 1954, §102(e)(7), increased maximum limitations on the total monthly amount of benefits.
 
 Subsec. (b)(1), (2). Act Sept. 1, 1954, §103(a), (i)(3), put into effect an annual retirement test for beneficiaries whether they have wage or self-employment earnings, or both, inserted provision for making deductions on account of nonrecovered remunerative activity outside the United States, and provided that deductions because of such provisions be made from an individual's benefits only for months in which he is under the age of 72, rather than 75.
 
@@ -726,11 +726,11 @@ Subsec. (k). Act Sept. 1, 1954, §103(g), added subsec. (k).
 
 Subsec. (<i>l</i>). Act Sept. 1, 1954, §103(h), added subsec. (<i>l</i>).
 
-1952—Subsec. (a). Act July 18, 1952, §2(b)(2), increased the maximum and minimum monthly benefits payable a family.
+<b>1952</b>—Subsec. (a). Act July 18, 1952, §2(b)(2), increased the maximum and minimum monthly benefits payable a family.
 
 Subsecs. (b)(1), (2), (c)(1), (2), (e), (g). Act July 18, 1952, §4(a)–(d), substituted $75 for $50 wherever appearing.
 
-1950—Subsec. (a). Act Aug. 28, 1950, §102(a), amended subsec. (a) generally to consolidate provisions of former subsecs. (a) to (c) of this section and to liberalize the maximum amount of monthly benefits payable.
+<b>1950</b>—Subsec. (a). Act Aug. 28, 1950, §102(a), amended subsec. (a) generally to consolidate provisions of former subsecs. (a) to (c) of this section and to liberalize the maximum amount of monthly benefits payable.
 
 Subsec. (b). Act Aug. 28, 1950, §103(a), provided that deductions are to be made from benefits for any month in which a beneficiary is under age 75 and either renders services for wages of more than $50, or is charged with net earnings from self-employment of more than $50, and provided that deductions are to be made for any month in which a wife, widow or divorced wife does not have in her care a child or her husband or former husband entitled to a child's insurance benefit.
 
@@ -748,11 +748,11 @@ Subsec. (h). Act Aug. 28, 1950, §103(a), pointed out circumstances under which 
 
 Subsecs. (i), (j). Act Aug. 28, 1950, §103(a), added subsecs. (i) and (j).
 
-1946—Subsec. (g). Act Aug. 10, 1946, §406(b), inserted exception limiting the first deduction for failure to report to one month's benefit.
+<b>1946</b>—Subsec. (g). Act Aug. 10, 1946, §406(b), inserted exception limiting the first deduction for failure to report to one month's benefit.
 
 Subsec. (d)(2). Act Aug. 10, 1946, §406(a), struck out par. (2) which related to deductions for failure to attend school.
 
-1939—Act Aug. 10, 1939, amended section generally.
+<b>1939</b>—Act Aug. 10, 1939, amended section generally.
 
 #### Effective Date of 2000 Amendment
 

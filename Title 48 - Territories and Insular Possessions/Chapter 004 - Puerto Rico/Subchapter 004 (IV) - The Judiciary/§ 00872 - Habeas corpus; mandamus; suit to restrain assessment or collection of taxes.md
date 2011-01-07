@@ -12,7 +12,7 @@ No suit for the purpose of restraining the assessment or collection of any tax i
 
 #### Amendments
 
-1927—Act Mar. 4, 1927, added second paragraph.
+<b>1927</b>—Act Mar. 4, 1927, added second paragraph.
 
 #### Change of Name
 

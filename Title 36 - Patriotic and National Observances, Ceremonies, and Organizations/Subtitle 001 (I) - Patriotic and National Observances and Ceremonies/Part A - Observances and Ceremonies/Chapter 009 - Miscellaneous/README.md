@@ -10,7 +10,7 @@
 
 #### Amendments
 
-2002—Pub. L. 107–248, title VIII, §8143(b)(2), Oct. 23, 2002, 116 Stat. 1570, added item 903.
+<b>2002</b>—Pub. L. 107–248, title VIII, §8143(b)(2), Oct. 23, 2002, 116 Stat. 1570, added item 903.
 
 
 ---

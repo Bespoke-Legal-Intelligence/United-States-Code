@@ -32,7 +32,7 @@
 
 &emsp;(B) to ensure compliance with the terms of the contract and prudent management.
 
-(6) Costs incurred before the initial year that a self-determination contract is in effect may not be included in the amount required to be paid under paragraph (2) if the Secretary does not receive a written notification of the natureand extent of the costs prior to the date on which such costs are incurred.
+(6) Costs incurred before the initial year that a self-determination contract is in effect may not be included in the amount required to be paid under paragraph (2) if the Secretary does not receive a written notification of the nature and extent of the costs prior to the date on which such costs are incurred.
 
 #### (b) Reductions and increases in amount of funds provided
 
@@ -92,7 +92,7 @@ Any right of action or other remedy (other than those relating to a criminal off
 
 #### (g) Addition to contract of full amount contractor entitled; adjustment
 
-Upon the approval of a self-determination contract, the Secretary shall add to the contract the full amount of funds to which the contractor is entitled under subsection (a) of this section, subject to adjustments for each subsequent yearthat such tribe or tribal organization administers a Federal program, function, service, or activity under such contract.
+Upon the approval of a self-determination contract, the Secretary shall add to the contract the full amount of funds to which the contractor is entitled under subsection (a) of this section, subject to adjustments for each subsequent year that such tribe or tribal organization administers a Federal program, function, service, or activity under such contract.
 
 #### (h) Indirect costs for contracts for construction programs
 
@@ -164,11 +164,11 @@ A prior section 106 of Pub. L. 93–638 was renumbered section 105 by Pub. L. 10
 
 #### Amendments
 
-2000—Subsecs. (c) to (<i>o</i>). Pub. L. 106–260 added subsec. (c) and redesignated former subsecs. (c) to (n) as (d) to (<i>o</i>), respectively.
+<b>2000</b>—Subsecs. (c) to (<i>o</i>). Pub. L. 106–260 added subsec. (c) and redesignated former subsecs. (c) to (n) as (d) to (<i>o</i>), respectively.
 
-1998—Subsecs. (c) to (<i>o</i>). Pub. L. 105–362 redesignated subsecs. (d) to (<i>o</i>) as (c) to (n), respectively, and struck out former subsec. (c) which related to Secretary's annual report to Congress on implementation of this subchapter.
+<b>1998</b>—Subsecs. (c) to (<i>o</i>). Pub. L. 105–362 redesignated subsecs. (d) to (<i>o</i>) as (c) to (n), respectively, and struck out former subsec. (c) which related to Secretary's annual report to Congress on implementation of this subchapter.
 
-1994—Subsec. (a)(1). Pub. L. 103–413, §102(14)(A), inserted before period at end “, without regard to any organizational level within the Department of the Interior or the Department of Health and Human Services, as appropriate, at which the program, function, service, or activity or portion thereof, including supportive administrative functions that are otherwise contractable, is operated”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–413, §102(14)(A), inserted before period at end “, without regard to any organizational level within the Department of the Interior or the Department of Health and Human Services, as appropriate, at which the program, function, service, or activity or portion thereof, including supportive administrative functions that are otherwise contractable, is operated”.
 
 Subsec. (a)(2). Pub. L. 103–413, §102(14)(B), inserted “an amount for” after “consist of”.
 
@@ -190,7 +190,7 @@ Subsec. (i). Pub. L. 103–413, §102(18), added subsec. (i) and struck out form
 
 Subsecs. (j) to (<i>o</i>). Pub. L. 103–413, §102(19), added subsecs. (j) to (<i>o</i>).
 
-1990—Subsec. (e). Pub. L. 101–644 substituted “1992” for “1988”.
+<b>1990</b>—Subsec. (e). Pub. L. 101–644 substituted “1992” for “1988”.
 
 Subsec. (f). Pub. L. 101–301, §2(a)(8), substituted “prior to enactment of chapter 75 of title 31” for “prior to enactment of the Single Agency Audit Act of 1984 (chapter 75 of title 31)”, which for purposes of codification was translated as “prior to October 19, 1984”, requiring no change in text.
 

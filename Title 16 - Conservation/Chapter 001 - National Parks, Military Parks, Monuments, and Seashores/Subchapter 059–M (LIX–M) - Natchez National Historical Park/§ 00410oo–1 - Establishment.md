@@ -24,5 +24,5 @@ The Secretary shall prepare a map of the lands included within the park. Such ma
 
 #### Amendments
 
-1990—Subsec. (b)(3). Pub. L. 101–399 added par. (3).
+<b>1990</b>—Subsec. (b)(3). Pub. L. 101–399 added par. (3).
 

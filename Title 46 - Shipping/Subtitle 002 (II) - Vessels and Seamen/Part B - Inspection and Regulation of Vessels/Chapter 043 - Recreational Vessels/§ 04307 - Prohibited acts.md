@@ -36,5 +36,5 @@ Section 4307 prohibits certain acts in the manufacture and operation of recreati
 
 #### Amendments
 
-1984—Subsec. (a)(1)(A). Pub. L. 98–557 designated existing provisions as cl. (i), substituted “and” for “or”, and added cl. (ii).
+<b>1984</b>—Subsec. (a)(1)(A). Pub. L. 98–557 designated existing provisions as cl. (i), substituted “and” for “or”, and added cl. (ii).
 

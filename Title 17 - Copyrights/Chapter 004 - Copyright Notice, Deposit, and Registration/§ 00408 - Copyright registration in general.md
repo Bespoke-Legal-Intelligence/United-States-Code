@@ -82,7 +82,7 @@ Effect of untimely application.—An action under this chapter for infringement 
 
 #### Historical and Revision Notes
 
-I74house report no. 94–1476
+#### house report no. 94–1476
 
 <b>Permissive Registration.</b> Under section 408(a), registration of a claim to copyright in any work whether published or unpublished, can be made voluntarily by “the owner of copyright or of any exclusive right in the work” at any time during the copyright term. The claim may be registered in the Copyright Office by depositing the copies, phonorecords, or other material specified by subsection (b) and (c), together with an application and fee. Except where, under section 405(a), registration is made to preserve a copyright that would otherwise be invalidated because of omission of the notice, registration is not a condition of copyright protection.
 
@@ -96,7 +96,7 @@ With respect to works published in the United States, a single deposit could be 
 
 Where the copies or phonorecords are bulky, unwieldy, easily broken, or otherwise impractical to file and retain as records identifying the work registered, the Register would be able to require or permit the substitute deposit of material that would better serve the purpose of identification. Cases of this sort might include, for example, billboard posters, toys and dolls, ceramics and glassware, costume jewelry, and a wide range of three-dimensional objects embodying copyrighted material. The Register's authority would also extend to rare or extremely valuable copies which would be burdensome or impossible to deposit. Deposit of one copy or phonorecord rather than two would probably be justifiable in the case of most motion pictures, and in any case where the Library of Congress has no need for the deposit and its only purpose is identification.
 
-The provision empowering the Register to allow a number of related works to be registered together as a group represents a needed and important liberalization of the law now in effect. At present the requirement for separate registrations where related works or parts of a work are published separately has created administrative problems and has resulted in unnecessary burdens and expenses on authors and other copyright owners. In a number of cases the technical necessity for separate applications and fees has caused copyright owners to forego copyright altogether. Examples of cases where these undesirable and unnecessary results could be avoided by allowing a single registration include the various editions or issues of a daily newspaper, a work published in serial installments, a group of related jewelry designs, a group of photographs by one photographer, a series of greeting cards related to each other in some way, or a group of poems by a single author.
+The provision empowering the Register to allow a number of related works to be registered together as a group represents a needed and important liberalizationof the law now in effect. At present the requirement for separate registrations where related works or parts of a work are published separately has created administrative problems and has resulted in unnecessary burdens and expenses on authors and other copyright owners. In a number of cases the technical necessity for separate applications and fees has caused copyright owners to forego copyright altogether. Examples of cases where these undesirable and unnecessary results could be avoided by allowing a single registration include the various editions or issues of a daily newspaper, a work published in serial installments, a group of related jewelry designs, a group of photographs by one photographer, a series of greeting cards related to each other in some way, or a group of poems by a single author.
 
 <b>Single Registration.</b> Section 408(c)(2) directs the Register of Copyrights to establish regulations permitting under certain conditions a single registration for a group of works by the same individual author, all first published as contributions to periodicals, including newspapers, within a twelve-month period, on the basis of a single deposit, application, and registration fee. It is required that each of the works as first published have a separate copyright notice, and that the name of the owner of copyright in the work, (or an abbreviation by which the name can be recognized, or a generally known alternative designation of the owner) is the same in each notice. It is further required that the deposit consist of one copy of the entire issue of the periodical, or of the entire section in the case of a newspaper, in which each contribution is first published. Finally, the application shall identify each work separately, including the periodical containing it and its date of first publication.
 
@@ -116,11 +116,11 @@ The date of enactment of this subsection, referred to in subsec. (f)(1), is the 
 
 #### Amendments
 
-2005—Subsec. (f). Pub. L. 109–9 added subsec. (f).
+<b>2005</b>—Subsec. (f). Pub. L. 109–9 added subsec. (f).
 
-1992—Subsec. (a). Pub. L. 102–307 substituted “At any time during the subsistence of the first term of copyright in any published or unpublished work in which the copyright was secured before January 1, 1978, and during the subsistence of any copyright secured on or after that date,” for “At any time during the subsistence of copyright in any published or unpublished work,”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–307 substituted “At any time during the subsistence of the first term of copyright in any published or unpublished work in which the copyright was secured before January 1, 1978, and during the subsistence of any copyright secured on or after that date,” for “At any time during the subsistence of copyright in any published or unpublished work,”.
 
-1988—Subsec. (a). Pub. L. 100–568, §9(a)(1), substituted “Such” for “Subject to the provisions of section 405(a), such”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–568, §9(a)(1), substituted “Such” for “Subject to the provisions of section 405(a), such”.
 
 Subsec. (c)(2). Pub. L. 100–568, §9(a)(2), substituted “the following conditions:” for “all of the following conditions—”, struck out subpar. (A) which read “if each of the works as first published bore a separate copyright notice, and the name of the owner of copyright in the work, or an abbreviation by which the name can be recognized, or a generally known alternative designation of the owner was the same in each notice; and”, and redesignated subpars. (B) and (C) as (A) and (B), respectively.
 

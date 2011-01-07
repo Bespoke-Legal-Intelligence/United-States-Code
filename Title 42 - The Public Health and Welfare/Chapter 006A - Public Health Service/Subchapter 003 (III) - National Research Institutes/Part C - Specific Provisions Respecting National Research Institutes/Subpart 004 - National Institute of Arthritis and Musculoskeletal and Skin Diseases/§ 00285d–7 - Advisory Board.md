@@ -28,7 +28,7 @@ Members of the Advisory Board who are officers or employees of the Federal Gover
 
 #### (d) Term of office; vacancy
 
-The term of office of an appointed member of the Advisory Board is four years. Any memberappointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member's term until a successor has taken office. If a vacancy occurs in the Advisory Board, the Secretary shall make an appointment to fill the vacancy not later than 90 days after the date the vacancy occurred.
+The term of office of an appointed member of the Advisory Board is four years. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member's term until a successor has taken office. If a vacancy occurs in the Advisory Board, the Secretary shall make an appointment to fill the vacancy not later than 90 days after the date the vacancy occurred.
 
 #### (e) Chairman
 
@@ -36,7 +36,7 @@ The members of the Advisory Board shall select a chairman from among the appoint
 
 #### (f) Executive director, professional and clerical staff; administrative support services and facilities
 
-The Secretary shall, after consultation with and consideration of the recommendations of the Advisory Board, provide the Advisory Board with an executive director and one other professional staff member. In addition, the Secretary shall, after consultation with and consideration of the recommendations of the Advisory Board, provide the Advisory Board with such additional professional staff members, such clerical staff members, and (through contracts or other arrangements) with such administrative support services and facilities, such information, and such services of consultants, as the Secretary determines are necessary for the Advisory Board to carry out its functions.
+The Secretary shall, after consultation with and consideration of the recommendations of the Advisory Board, provide the Advisory Board with an executive director and one other professional staff member. In addition, the Secretary shall, after consultation with and consideration of the recommendations of the Advisory Board, provide the Advisory Board with such additionalprofessional staff members, such clerical staff members, and (through contracts or other arrangements) with such administrative support services and facilities, such information, and such services of consultants, as the Secretary determines are necessary for the Advisory Board to carry out its functions.
 
 #### (g) Meetings
 
@@ -64,15 +64,15 @@ The National Arthritis Advisory Board in existence on November 20, 1985, shall t
 
 #### Amendments
 
-2007—Subsecs. (j), (k). Pub. L. 109–482 redesignated subsec. (k) as (j) and struck out former subsec. (j) which required the Advisory Board to prepare an annual report for the Secretary and set out the subjects for report.
+<b>2007</b>—Subsecs. (j), (k). Pub. L. 109–482 redesignated subsec. (k) as (j) and struck out former subsec. (j) which required the Advisory Board to prepare an annual report for the Secretary and set out the subjects for report.
 
-1993—Subsec. (a). Pub. L. 103–43, §701(d)(1), inserted “and Musculoskeletal and Skin Diseases” after “Arthritis”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–43, §701(d)(1), inserted “and Musculoskeletal and Skin Diseases” after “Arthritis”.
 
 Subsec. (b). Pub. L. 103–43, §§701(d)(2), 2008(b)(7), substituted “twenty” for “eighteen” in introductory provisions, “eight” for “six” and “including one member who is a person who has such a disease, one person who is the parent of an adult with such a disease, and two members who are parents of children with arthritis” for “including at least one member who is a person who has such a disease and one member who is a parent of a person who has such a disease” in par. (1)(B), and “Department of Veterans Affairs” for “Veterans’ Administration” in par. (2)(A).
 
 Subsec. (j)(5). Pub. L. 103–43, §701(d)(3), added par. (5).
 
-1992—Subsec. (b)(2)(A). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsec. (b)(2)(A). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
 Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 

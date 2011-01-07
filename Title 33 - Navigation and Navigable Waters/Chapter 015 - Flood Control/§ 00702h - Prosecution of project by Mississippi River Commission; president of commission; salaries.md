@@ -16,7 +16,7 @@ Provisions of the second paragraph, as amended by Pub. L. 106–53, that read: �
 
 #### Amendments
 
-1999—Pub. L. 106–53 amended provisions which were omitted from the second paragraph by substituting “$21,500” for “$7,500”. See Codification note above.
+<b>1999</b>—Pub. L. 106–53 amended provisions which were omitted from the second paragraph by substituting “$21,500” for “$7,500”. See Codification note above.
 
 #### Change of Name
 

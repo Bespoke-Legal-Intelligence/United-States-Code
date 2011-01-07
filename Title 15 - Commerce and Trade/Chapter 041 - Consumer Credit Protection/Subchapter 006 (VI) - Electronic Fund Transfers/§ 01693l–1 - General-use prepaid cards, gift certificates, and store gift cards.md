@@ -108,7 +108,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(iv) that such fee or charge may be assessed for inactivity; and
 
-&emsp;&emsp;(B) the issuer or vendor of such certificate or card informs the purchaser of such charge or fee before such certificate or card is purchased, regardless of whether the certificate or card is purchased in person, over the Internet, or by telephone.
+&emsp;&emsp;(B) the issuer or vendor of such certificate or card informs the purchaser of such charge or fee before such certificate or card is purchased, regardless of whether the certificateor card is purchased in person, over the Internet, or by telephone.
 
 #### (4) Exclusion
 
@@ -150,11 +150,59 @@ In this section, the following definitions shall apply:
 
 &emsp;The regulations required by this subsection shall be issued in final form not later than 9 months after May 22, 2009.
 
-(Pub. L. 90–321, title IX, §915, as added Pub. L. 111–24, title IV, §401(2), May 22, 2009, 123 Stat. 1751.)
+(Pub. L. 90–321, title IX, §915, as added Pub. L. 111–24, title IV, §401(2), May 22, 2009, 123 Stat. 1751; amended Pub. L. 111–203, title X, §1084(1), July 21, 2010, 124 Stat. 2081.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1084(1), 1100H, July 21, 2010, 124 Stat. 2081, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+
+#### Prior Provisions
+
+A prior section 915 of Pub. L. 90–321 was renumbered section 916 and is classified to section 1693m of this title.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date
 
-Pub. L. 111–24, title IV, §403, May 22, 2009, 123 Stat. 1754, provided that: “This title \[enacting this section and amending sections 1693n to 1693r of this title and provisions set out as a note under section 1693 of this title\] and the amendments made by this title shall become effective 15 months after the date of enactment of this Act \[May 22, 2009\].”
+Pub. L. 111–24, title IV, §403, as added by Pub. L. 111–209, §1, July 27, 2010, 124 Stat. 2254, provided that:
+
+“(a)
+
+In General.—Except as provided under subsection (b) of this section, this title \[enacting this section and amending sections 1693m to 1693r of this title and provisions set out as a note under section 1693 of this title\] and the amendments made by this title shall become effective 15 months after the date of enactment of this Act \[May 22, 2009\].
+
+“(b)
+
+Exception.—
+
+&emsp;“(1)
+
+In general.—In the case of a gift certificate, store gift card, or general-use prepaid card that was produced prior to April 1, 2010, the effective date of the disclosure requirements described in sections 915(b)(3) and (c)(2)(B) of the Electronic Funds \[probably should be “Fund”\] Transfer Act \[15 U.S.C. 1693<i>l</i>–1(b)(3), (c)(2)(B)\] shall be January 31, 2011, provided that an issuer of such a certificate or card shall—
+
+&emsp;&emsp;“(A) comply with paragraphs (1) and (2) of section 915(b) of such Act \[15 U.S.C. 1693<i>l</i>–1(b)(1), (2)\];
+
+&emsp;&emsp;“(B) consider any such certificate or card for which funds expire to have no expiration date with respect to the underlying funds;
+
+&emsp;&emsp;“(C) at a consumer's request, replace such certificate or card that has funds remaining at no cost to the consumer; and
+
+&emsp;&emsp;“(D) comply with the disclosure requirements of paragraph (2) of this subsection.
+
+&emsp;“(2)
+
+Disclosure requirements.—The disclosure requirements of this subsection are met by providing notice to consumers, via in-store signage, messages during customer service calls, Web sites, and general advertising, that—
+
+&emsp;&emsp;“(A) any such certificate or card for which funds expire shall be deemed to have no expiration date with respect to the underlying funds;
+
+&emsp;&emsp;“(B) consumers holding such certificate or card shall have a right to a free replacement certificate or card that includes the packaging and materials, typically associated with such a certificate or card; and
+
+&emsp;&emsp;“(C) any dormancy fee, inactivity fee, or service fee for such certificates or cards that might otherwise be charged shall not be charged if such fees do not comply with section 915 of the Electronic Funds \[probably should be “Fund”\] Transfer Act \[15 U.S.C. 1693<i>l</i>–1\].
+
+&emsp;“(3)
+
+Period for disclosure requirements.—The notice requirements in paragraph (2) of this subsection shall continue until January 31, 2013.”
+
+Pub. L. 111–24, title IV, §403, May 22, 2009, 123 Stat. 1754, which provided that title IV of Pub. L. 111–24 was to become effective 15 months after May 22, 2009, was repealed by Pub. L. 111–209, §1, July 27, 2010, 124 Stat. 2254.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “General-use”.</i>
 

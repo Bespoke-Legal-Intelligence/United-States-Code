@@ -1,7 +1,5 @@
 Part A—Administration
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 
@@ -9,7 +7,7 @@ Part A—Administration
 
 - [&sect; 00202 - Administration and supervision of Service](%C2%A7%2000202%20-%20Administration%20and%20supervision%20of%20Service.md)
 - [&sect; 00203 - Organization of Service](%C2%A7%2000203%20-%20Organization%20of%20Service.md)
-- [&sect; 00204 - Commissioned corps; composition; appointment of Regular and Reserve officers; appointment and status of warrant officers](%C2%A7%2000204%20-%20Commissioned%20corps%3B%20composition%3B%20appointment%20of%20Regular%20and%20Reserve%20officers%3B%20appointment%20and%20status%20of%20warrant%20officers.md)
+- [&sect; 00204 - Commissioned Corps and Ready Reserve Corps](%C2%A7%2000204%20-%20Commissioned%20Corps%20and%20Ready%20Reserve%20Corps.md)
 - [&sect; 00204a - Deployment readiness](%C2%A7%2000204a%20-%20Deployment%20readiness.md)
 - [&sect; 00205 - Appointment and tenure of office of Surgeon General; reversion in rank](%C2%A7%2000205%20-%20Appointment%20and%20tenure%20of%20office%20of%20Surgeon%20General%3B%20reversion%20in%20rank.md)
 - [&sect; 00206 - Assignment of officers](%C2%A7%2000206%20-%20Assignment%20of%20officers.md)
@@ -55,3 +53,4 @@ Part A—Administration
 - [&sect; 00235 - Administration of grants in multigrant projects; promulgation of regulations](%C2%A7%2000235%20-%20Administration%20of%20grants%20in%20multigrant%20projects%3B%20promulgation%20of%20regulations.md)
 - [&sect; 00236 - Orphan Products Board](%C2%A7%2000236%20-%20Orphan%20Products%20Board.md)
 - [&sect; 00237 - Silvio O. Conte Senior Biomedical Research Service](%C2%A7%2000237%20-%20Silvio%20O.%20Conte%20Senior%20Biomedical%20Research%20Service.md)
+- [&sect; 00237a - Health and Human Services Office on Women's Health](%C2%A7%2000237a%20-%20Health%20and%20Human%20Services%20Office%20on%20Women%27s%20Health.md)

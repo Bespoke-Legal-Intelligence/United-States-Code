@@ -6,7 +6,7 @@ Subject to review and approval by the Board, motor carriers subject to jurisdict
 
 #### Historical and Revision Notes
 
-I74Pub. L. 104–287
+#### Pub. L. 104–287
 
 This amends 49:14709 by setting out the effective date of 49:14709 and for clarity and consistency.
 
@@ -20,5 +20,5 @@ Provisions similar to those in this section were contained in section 11712 of t
 
 #### Amendments
 
-1996—Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of this section” and “December 31, 1995” for “the day before the effective date of this section”.
+<b>1996</b>—Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of this section” and “December 31, 1995” for “the day before the effective date of this section”.
 

@@ -8,7 +8,7 @@
 
 #### (2) Representation of diverse points of view
 
-&emsp;To the maximum extent practicable, the membership of the Board shall represent diverse points of view relating to conservationand management of fish, wildlife, plants, and other natural resources.
+&emsp;To the maximum extent practicable, the membership of the Board shall represent diverse points of view relating to conservation and management of fish, wildlife, plants, and other natural resources.
 
 #### (3) Not Federal employees
 
@@ -116,15 +116,11 @@ Members of the Board shall serve without pay, but may be reimbursed for the actu
 
 (Pub. L. 98–244, §3, Mar. 26, 1984, 98 Stat. 107; Pub. L. 101–593, title I, §110(b), Nov. 16, 1990, 104 Stat. 2959; Pub. L. 103–232, title I, §103(a)(1), (b), Apr. 11, 1994, 108 Stat. 336; Pub. L. 106–408, title II, §203(a), (b), Nov. 1, 2000, 114 Stat. 1777, 1778; Pub. L. 110–281, §2, July 21, 2008, 122 Stat. 2617.)
 
-#### References in Text
-
-Provisions of title 5 governing appointments in competitive service, referred to in subsec. (g)(2)(A), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–281 added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Foundation shall have a governing Board of Directors (referred to in this chapter as the ‘Board’), which shall consist of 25 Directors appointed in accordance with subsection (b) of this section, each of whom shall be a United States citizen.”
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–281 added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Foundation shall have a governing Board of Directors (referred to in this chapter as the ‘Board’), which shall consist of 25 Directors appointed in accordance with subsection (b) of this section, each of whom shall be a United States citizen.”
 
-2000—Subsec. (a). Pub. L. 106–408, §203(a), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Foundation shall have a governing Board of Directors (hereinafter referred to in this chapter as the ‘Board’), which shall consist of 15 Directors, each of whom shall be a United States citizen and—
+<b>2000</b>—Subsec. (a). Pub. L. 106–408, §203(a), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Foundation shall have a governing Board of Directors (hereinafter referred to in this chapter as the ‘Board’), which shall consist of 15 Directors, each of whom shall be a United States citizen and—
 
 &emsp;“(1) six of whom must be knowledgeable or experienced in fish and wildlife conservation; and
 
@@ -134,15 +130,15 @@ Provisions of title 5 governing appointments in competitive service, referred to
 
 Subsec. (b). Pub. L. 106–408, §203(b), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “By December 31, 1984, the Secretary of the Interior (hereinafter referred to in this chapter as the ‘Secretary’) shall appoint the Directors of the Board. The Directors shall be appointed for terms of six years; except that the Secretary, in making the initial appointments to the Board, shall appoint three Directors to a term of two years, three Directors to a term of four years, and three Directors to a term of six years. A vacancy on the Board shall be filled within sixty days of said vacancy in the manner in which the original appointment was made. No individual may serve more than two consecutive terms as a Director. The Secretary of the Interior shall consult with the Under Secretary of Commerce for Oceans and Atmosphere before appointing any Director of the Board.”
 
-1994—Subsec. (a). Pub. L. 103–232, §103(b), substituted “15 Directors” for “nine Directors” in introductory provisions and “4” for “three” in par. (2).
+<b>1994</b>—Subsec. (a). Pub. L. 103–232, §103(b), substituted “15 Directors” for “nine Directors” in introductory provisions and “4” for “three” in par. (2).
 
 Subsec. (b). Pub. L. 103–232, §103(a)(1), inserted at end “The Secretary of the Interior shall consult with the Under Secretary of Commerce for Oceans and Atmosphere before appointing any Director of the Board.”
 
-1990—Subsec. (g)(2)(A). Pub. L. 101–593 struck out “, except that no individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule” after “General Schedule pay rates”.
+<b>1990</b>—Subsec. (g)(2)(A). Pub. L. 101–593 struck out “, except that no individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule” after “General Schedule pay rates”.
 
 #### Effective Date of 1994 Amendment
 
-Section 103(a)(2) of Pub. L. 103–232 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to appointments of Directors of the Board of Directors of the National Fish and Wildlife Foundation made after the date of the enactment of this Act \[Apr. 11, 1994\].”
+Section 103(a)(2) of Pub. L. 103–232 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply to appointments of Directors of the Board of Directors of the National Fish and Wildlife Foundation made after the date of the enactment of this Act \[Apr. 11, 1994\].”
 
 #### Initial Terms of Six New Directors
 

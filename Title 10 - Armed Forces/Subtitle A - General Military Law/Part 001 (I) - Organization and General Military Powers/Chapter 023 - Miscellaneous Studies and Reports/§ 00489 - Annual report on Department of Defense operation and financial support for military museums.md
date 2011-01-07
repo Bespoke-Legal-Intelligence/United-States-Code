@@ -12,13 +12,13 @@ Report Required.—As part of the budget materials submitted to Congress in conn
 
 (b)
 
-Information on Individual Museums.—For each museum identified in a report under this section, the Secretary of Defense shall include in the report the following:
+Information on Individual Museums.—For each museum identified in a report under thissection, the Secretary of Defense shall include in the report the following:
 
 &emsp;(1) The purpose and functions of the museum and the justification for the museum.
 
 &emsp;(2) A description of the facilities dedicated to the museum, including the location, size, and type of facilities and whether the facilities are included or eligible for inclusion on the National Register of Historic Places.
 
-&emsp;(3) An itemized listing of the funds appropriated to the Department of Defense that were obligated to support the museum during the fiscal year covered by the report and a description of the process used to determine theannual allocation of Department of Defense funds for the museum.
+&emsp;(3) An itemized listing of the funds appropriated to the Department of Defense that were obligated to support the museum during the fiscal year covered by the report and a description of the process used to determine the annual allocation of Department of Defense funds for the museum.
 
 &emsp;(4) An itemized listing of any other Federal funds, funds from a nonappropriated fund instrumentality account of the Department of Defense, and non-Federal funds obligated to support the museum.
 

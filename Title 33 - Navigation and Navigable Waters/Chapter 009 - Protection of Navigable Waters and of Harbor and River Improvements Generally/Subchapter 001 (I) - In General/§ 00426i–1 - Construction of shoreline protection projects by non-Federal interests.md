@@ -58,7 +58,7 @@ The Secretary is authorized to complete and transmit to the appropriate non-Fede
 
 #### Amendments
 
-1996—Subsec. (e)(1)(A). Pub. L. 104–303 inserted before semicolon “and enters into a written agreement with the non-Federal interest with respect to the project or separable element (including the terms of cooperation)”.
+<b>1996</b>—Subsec. (e)(1)(A). Pub. L. 104–303 inserted before semicolon “and enters into a written agreement with the non-Federal interest with respect to the project or separable element (including the terms of cooperation)”.
 
 #### “Secretary” Defined
 

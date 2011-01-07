@@ -82,7 +82,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (6) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out thepurposes of this subsection, including regulations preventing avoidance of this subsection through cross-ownership arrangements or otherwise.
+&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations preventing avoidance of this subsection through cross-ownership arrangements or otherwise.
 
 #### (f) Treatment of certain property excluded from section 197
 
@@ -106,7 +106,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (3) Mortgage servicing rights
 
-&emsp;If a depreciation deduction is allowable under subsection (a) with respect to any right described in section 197(e)(6), such deduction shall be computed by using the straight line method and a useful life of 108 months.
+&emsp;If a depreciation deduction is allowable under subsection (a) with respect to any rightdescribed in section 197(e)(6), such deduction shall be computed by using the straight line method and a useful life of 108 months.
 
 #### (g) Depreciation under income forecast method
 
@@ -316,23 +316,23 @@ In the case of property held by one person for life with remainder to another pe
 
 &emsp;&emsp;<b>(2) For amortization of goodwill and certain other intangibles, see section 197.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 51; Pub. L. 85–866, title I, §89(b), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 87–834, §13(b), (c)(1), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 89–800, §2, Nov. 8, 1966, 80 Stat. 1513; Pub. L. 90–26, §§1, 2(b), June 13, 1967, 81 Stat. 57, 58; Pub. L. 91–172, title IV, §441(a), title V, §521(a),\(d), Dec. 30, 1969, 83 Stat. 625, 649, 653; Pub. L. 92–178, title I, §109(a), Dec. 10, 1971, 85 Stat. 508; Pub. L. 93–625, §3(c), Jan. 3, 1975, 88 Stat. 2109; Pub. L. 94–455, title II, §§202(c)(3), 203(a), title XIX, §§1901(a)(27), 1906(b)(13)(A), title XXI, §2124(c)(1), (d)(1), Oct. 4, 1976, 90 Stat. 1530, 1768, 1834, 1918; Pub. L. 95–171, §4(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 95–600, title III, §§312(c)(4), 367, title VII, §701(f)(4), (6), Nov. 6, 1978, 92 Stat. 2826, 2857, 2901, 2902; Pub. L. 95–615, §7(a), Nov. 8, 1978, 92 Stat. 3098; Pub. L. 95–618, title III, §301(d)(3), (e)(1), Nov. 9, 1978, 92 Stat. 3200, 3201; Pub. L. 96–541, §§2(c), (d), 3, Dec. 17, 1980, 94 Stat. 3204, 3205; Pub. L. 96–613, §2(a), Dec. 28, 1980, 94 Stat. 3579; Pub. L. 97–34, title II, §§203(a)–(c)(1), (d), 209(d)(3), 212(d)(1), 264(a), Aug. 13, 1981, 95 Stat. 221, 222, 227, 239, 264; Pub. L. 97–424, title V, §541(a)(2), Jan. 6, 1983, 96 Stat. 2192; Pub. L. 98–369, div. A, title X, §1064, July 18, 1984, 98 Stat. 1047; Pub. L. 99–514, title II, §201(d)(1), title XV, §1511(c)(4), title XVIII, §1809(d)(1), Oct. 22, 1986, 100 Stat. 2139, 2745, 2821; Pub. L. 100–647, title I, §1002(a)(22), (24), (31), (i)(1), Nov. 10, 1988, 102 Stat. 3356, 3357, 3370; Pub. L. 101–239, title VII, §§7622(b)(1) \[(d)(1)\], 7645(a), Dec. 19, 1989, 103 Stat. 2378, 2381; Pub. L. 101–508, title XI, §11812(a), (b)(1), Nov. 5, 1990, 104 Stat. 1388–534; Pub. L. 103–66, title XIII, §§13206(c)(2), 13261(b), (f)(1), Aug. 10, 1993, 107 Stat. 466, 538, 539; Pub. L. 104–188, title I, §1604(a), Aug. 20, 1996, 110 Stat. 1836; Pub. L. 105–34, title X, §1086(a), Aug. 5, 1997, 111 Stat. 957; Pub. L. 108–357, title II, §242(a), (b), title VIII, §847(b)(1), (2), Oct. 22, 2004, 118 Stat. 1438, 1439, 1601; Pub. L. 109–58, title XIII, §1329(a), Aug. 8, 2005, 119 Stat. 1020; Pub. L. 109–135, title IV, §412(r), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–222, title II, §207(a), title V, §503(a), May 17, 2006, 120 Stat. 350, 354; Pub. L. 110–140, title XV, §1502(a), Dec. 19, 2007, 121 Stat. 1800; Pub. L. 110–172, §11(a)(13), Dec. 29, 2007, 121 Stat. 2485.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 51; Pub. L. 85–866, title I, §89(b), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 87–834, §13(b), (c)(1), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 89–800, §2, Nov. 8, 1966, 80 Stat. 1513; Pub. L. 90–26, §§1, 2(b), June 13, 1967, 81 Stat. 57, 58; Pub. L. 91–172, title IV, §441(a), title V, §521(a), (d), Dec. 30, 1969, 83 Stat. 625, 649, 653; Pub. L. 92–178, title I, §109(a), Dec. 10, 1971, 85 Stat. 508; Pub. L. 93–625, §3(c), Jan. 3, 1975, 88 Stat. 2109; Pub. L. 94–455, title II, §§202(c)(3), 203(a), title XIX, §§1901(a)(27), 1906(b)(13)(A), title XXI, §2124(c)(1), (d)(1), Oct. 4, 1976, 90 Stat. 1530, 1768, 1834, 1918; Pub. L. 95–171, §4(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 95–600, title III, §§312(c)(4), 367, title VII, §701(f)(4), (6), Nov. 6, 1978, 92 Stat. 2826, 2857, 2901, 2902; Pub. L. 95–615, §7(a), Nov. 8, 1978, 92 Stat. 3098; Pub. L. 95–618, title III, §301(d)(3), (e)(1), Nov. 9, 1978, 92 Stat. 3200, 3201; Pub. L. 96–541, §§2(c), (d), 3, Dec. 17, 1980, 94 Stat. 3204, 3205; Pub. L. 96–613, §2(a), Dec. 28, 1980, 94 Stat. 3579; Pub. L. 97–34, title II, §§203(a)–(c)(1), (d), 209(d)(3), 212(d)(1), 264(a), Aug. 13, 1981, 95 Stat. 221, 222, 227, 239, 264; Pub. L. 97–424, title V, §541(a)(2), Jan. 6, 1983, 96 Stat. 2192; Pub. L. 98–369, div. A, title X, §1064, July 18, 1984, 98 Stat. 1047; Pub. L. 99–514, title II, §201(d)(1), title XV, §1511(c)(4), title XVIII, §1809(d)(1), Oct. 22, 1986, 100 Stat. 2139, 2745, 2821; Pub. L. 100–647, title I, §1002(a)(22), (24), (31), (i)(1), Nov. 10, 1988, 102 Stat. 3356, 3357, 3370; Pub. L. 101–239, title VII, §§7622(b)(1) \[(d)(1)\], 7645(a), Dec. 19, 1989, 103 Stat. 2378, 2381; Pub. L. 101–508, title XI, §11812(a), (b)(1), Nov. 5, 1990, 104 Stat. 1388–534; Pub. L. 103–66, title XIII, §§13206(c)(2), 13261(b), (f)(1), Aug. 10, 1993, 107 Stat. 466, 538, 539; Pub. L. 104–188, title I, §1604(a), Aug. 20, 1996, 110 Stat. 1836; Pub. L. 105–34, title X, §1086(a), Aug. 5, 1997, 111 Stat. 957; Pub. L. 108–357, title II, §242(a), (b), title VIII, §847(b)(1), (2), Oct. 22, 2004, 118 Stat. 1438, 1439, 1601; Pub. L. 109–58, title XIII, §1329(a), Aug. 8, 2005, 119 Stat. 1020; Pub. L. 109–135, title IV, §412(r), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–222, title II, §207(a), title V, §503(a), May 17, 2006, 120 Stat. 350, 354; Pub. L. 110–140, title XV, §1502(a), Dec. 19, 2007, 121 Stat. 1800; Pub. L. 110–172, §11(a)(13), Dec. 29, 2007, 121 Stat. 2485.)
 
 #### Amendments
 
-2007—Subsec. (g)(8)(C)(ii)(II). Pub. L. 110–172 substituted “section 263A(i)(2)” for “section 263A(j)(2)”.
+<b>2007</b>—Subsec. (g)(8)(C)(ii)(II). Pub. L. 110–172 substituted “section 263A(i)(2)” for “section 263A(j)(2)”.
 
 Subsec. (h)(5)(A). Pub. L. 110–140 substituted “7-year” for “5-year”.
 
-2006—Subsec. (g)(8). Pub. L. 109–222, §207(a), added par. (8).
+<b>2006</b>—Subsec. (g)(8). Pub. L. 109–222, §207(a), added par. (8).
 
 Subsec. (h)(5). Pub. L. 109–222, §503(a), added par. (5).
 
-2005—Subsec. (f)(3). Pub. L. 109–135 substituted “section 197(e)(6)” for “section 197(e)(7)”.
+<b>2005</b>—Subsec. (f)(3). Pub. L. 109–135 substituted “section 197(e)(6)” for “section 197(e)(7)”.
 
 Subsecs. (h), (i). Pub. L. 109–58 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-2004—Subsec. (f)(1)(C). Pub. L. 108–357, §847(b)(1), added subpar. (C).
+<b>2004</b>—Subsec. (f)(1)(C). Pub. L. 108–357, §847(b)(1), added subpar. (C).
 
 Subsec. (f)(2). Pub. L. 108–357, §847(b)(2), inserted at end “If such property would be tax-exempt use property as defined in subsection (h) of section 168 if such section applied to such property, the useful life under such regulations shall not be less than 125 percent of the lease term (within the meaning of section 168(i)(3)).”
 
@@ -340,11 +340,11 @@ Subsec. (g)(5)(E) to (G). Pub. L. 108–357, §242(b), added subpar. (E) and red
 
 Subsec. (g)(7). Pub. L. 108–357, §242(a), added par. (7).
 
-1997—Subsec. (g)(6). Pub. L. 105–34 added par. (6).
+<b>1997</b>—Subsec. (g)(6). Pub. L. 105–34 added par. (6).
 
-1996—Subsecs. (g), (h). Pub. L. 104–188 added subsec. (g) and redesignated former subsec. (g) as (h).
+<b>1996</b>—Subsecs. (g), (h). Pub. L. 104–188 added subsec. (g) and redesignated former subsec. (g) as (h).
 
-1993—Subsec. (c). Pub. L. 103–66, §13261(b)(2), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The basis on which exhaustion, wear and tear, and obsolescence are to be allowed in respect of any property shall be the adjusted basis provided in section 1011 for the purpose of determining the gain on the sale or other disposition of such property.”
+<b>1993</b>—Subsec. (c). Pub. L. 103–66, §13261(b)(2), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The basis on which exhaustion, wear and tear, and obsolescence are to be allowed in respect of any property shall be the adjusted basis provided in section 1011 for the purpose of determining the gain on the sale or other disposition of such property.”
 
 Subsec. (e)(2). Pub. L. 103–66, §13206(c)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “This subsection shall not apply to any term interest to which section 273 applies.”
 
@@ -352,7 +352,7 @@ Subsec. (f). Pub. L. 103–66, §13261(b)(1), added subsec. (f). Former subsec. 
 
 Subsec. (g). Pub. L. 103–66, §13261(b)(1), (f)(1), redesignated subsec. (f) as (g) and amended heading and text generally, designating existing provisions of text as par. (1) and adding par. (2).
 
-1990—Subsec. (b). Pub. L. 101–508, §11812(a), added subsec. (b) and struck out former subsec. (b) “Use of certain methods and rates” which read as follows: “For taxable years ending after December 31, 1953, the term ‘reasonable allowance’ as used in subsection (a) shall include (but shall not be limited to) an allowance computed in accordance with regulations prescribed by the Secretary, under any of the following methods:
+<b>1990</b>—Subsec. (b). Pub. L. 101–508, §11812(a), added subsec. (b) and struck out former subsec. (b) “Use of certain methods and rates” which read as follows: “For taxable years ending after December 31, 1953, the term ‘reasonable allowance’ as used in subsection (a) shall include (but shall not be limited to) an allowance computed in accordance with regulations prescribed by the Secretary, under any of the following methods:
 
 &emsp;“(1) the straight line method,
 
@@ -406,11 +406,11 @@ Subsec. (q). Pub. L. 101–508, §11812(a)(1), struck out subsec. (q) which rela
 
 Subsecs. (r), (s). Pub. L. 101–508, §11812(a)(1), redesignated subsecs. (r) and (s) as (e) and (f), respectively.
 
-1989—Subsec. (r). Pub. L. 101–239, §7645(a), added subsec. (r).
+<b>1989</b>—Subsec. (r). Pub. L. 101–239, §7645(a), added subsec. (r).
 
 Pub. L. 101–239, §7622(b)(1) \[(d)(1)\], repealed subsec. (r) which provided that trademark or trade name expenditures were not depreciable.
 
-1988—Subsec. (a). Pub. L. 100–647, §1002(a)(24), struck out at end “In the case of recovery property (within the meaning of section 168), the deduction allowable under section 168 shall be deemed to constitute the reasonable allowance provided by this section, except with respect to that portion of the basis of such property to which subsection (k) applies.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1002(a)(24), struck out at end “In the case of recovery property (within the meaning of section 168), the deduction allowable undersection 168 shall be deemed to constitute the reasonable allowance provided by this section, except with respect to that portion of the basis of such property to which subsection (k) applies.”
 
 Subsec. (d). Pub. L. 100–647, §1002(a)(31), substituted “property to which section 168 applies” for “recovery property defined in section 168”.
 
@@ -418,17 +418,17 @@ Subsec. (<i>l</i>)(3)(G). Pub. L. 100–647, §1002(a)(22), substituted “secti
 
 Subsecs. (r), (s). Pub. L. 100–647, §1002(i)(1), added subsec. (r) and redesignated former subsec. (r) as (s).
 
-1986—Subsec. (c). Pub. L. 99–514, §1809(d)(1), inserted “Paragraphs (2), (3), and (4) of subsection (b) shall not apply to any motion picture film, video tape, or sound recording.”
+<b>1986</b>—Subsec. (c). Pub. L. 99–514, §1809(d)(1), inserted “Paragraphs (2), (3), and (4) of subsection (b) shall not apply to any motion picture film, video tape, or sound recording.”
 
 Subsec. (m)(4). Pub. L. 99–514, §201(d)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “This subsection shall not apply with respect to recovery property (within the meaning of section 168) placed in service after December 31, 1980.”
 
 Subsec. (q)(2)(B). Pub. L. 99–514, §1511(c)(4), substituted “at the underpayment rate established under section 6621” for “at the rate determined under section 6621”.
 
-1984—Subsec. (k)(1), (3)(D). Pub. L. 98–369 substituted “January 1, 1987” for “January 1, 1984” wherever appearing.
+<b>1984</b>—Subsec. (k)(1), (3)(D). Pub. L. 98–369 substituted “January 1, 1987” for “January 1, 1984” wherever appearing.
 
-1983—Subsec. (<i>l</i>)(3)(G). Pub. L. 97–424 inserted provision that, for the purposes of this paragraph, rules similar to the rules of section 168(e)(3)(C) of this title shall apply.
+<b>1983</b>—Subsec. (<i>l</i>)(3)(G). Pub. L. 97–424 inserted provision that, for the purposes of this paragraph, rules similar to the rules of section 168(e)(3)(C) of this title shall apply.
 
-1981—Subsec. (a). Pub. L. 97–34, §203(a), inserted provision that, in the case of recovery property (within the meaning of section 168), the deduction allowable under section 168 shall be deemed to constitute the reasonable allowance provided by this section, except with respect to that portion of the basis of such property to which subsection (k) applies.
+<b>1981</b>—Subsec. (a). Pub. L. 97–34, §203(a), inserted provision that, in the case of recovery property (within the meaning of section 168), the deduction allowable under section 168 shall be deemed to constitute the reasonable allowance provided by this section, except with respect to that portion of the basis of such property to which subsection (k) applies.
 
 Subsec. (d). Pub. L. 97–34, §203(d), provided that subsec. (d) did not apply with respect to recovery property defined in section 168.
 
@@ -444,7 +444,7 @@ Subsec. (r). Pub. L. 97–34, §203(c)(1), redesignated subsec. (s) as (r). Form
 
 Subsec. (s). Pub. L. 97–34, §203(c)(1), redesignated subsec. (s) as (r).
 
-1980—Subsec. (k). Pub. L. 96–541, §3, substituted in pars. (1) and (3)(D) “January 1, 1984” for “January 1, 1982” wherever appearing.
+<b>1980</b>—Subsec. (k). Pub. L. 96–541, §3, substituted in pars. (1) and (3)(D) “January 1, 1984” for “January 1, 1982” wherever appearing.
 
 Subsec. (n)(4). Pub. L. 96–541, §2(c), added par. (4).
 
@@ -452,7 +452,7 @@ Subsec. (<i>o</i>)(3). Pub. L. 96–541, §2(d), added par. (3).
 
 Subsecs. (r), (s). Pub. L. 96–613 added subsec. (r) and redesignated former subsec. (r) as (s).
 
-1978—Subsec. (i). Pub. L. 95–600, §312(c)(4), struck out subsec. (i) which related to a limitation in the case of property constructed or acquired during the suspension period.
+<b>1978</b>—Subsec. (i). Pub. L. 95–600, §312(c)(4), struck out subsec. (i) which related to a limitation in the case of property constructed or acquired during the suspension period.
 
 Subsec. (k)(1), (3)(D). Pub. L. 95–615 substituted “January 1, 1979” for “January 1, 1978” wherever appearing.
 
@@ -468,9 +468,9 @@ Subsec. (q). Pub. L. 95–618, §301(e)(1), added subsec. (q).
 
 Subsec. (r). Pub. L. 95–618, §301(d)(3), redesignated former subsec. (p) as (r).
 
-1977—Subsec. (k). Pub. L. 95–171 substituted “January 1, 1979” for “January 1, 1978” wherever appearing in pars. (1) and (3)(D).
+<b>1977</b>—Subsec. (k). Pub. L. 95–171 substituted “January 1, 1979” for “January 1, 1978” wherever appearing in pars. (1) and (3)(D).
 
-1976—Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (d). Pub. L. 94–455, §§1901(a)(27)(A), 1906(b)(13)(A), substituted “after August 16, 1954” for “after the date of enactment of this title” and struck out “or his delegate” after “Secretary” in first sentence before “shall be binding”.
 
@@ -506,11 +506,11 @@ Subsec. (<i>o</i>). Pub. L. 94–455, §2124(d)(1), added subsec. (<i>o</i>).
 
 Subsec. (p). Pub. L. 94–455, §2124(c)(1), redesignated former subsec. (n) as (p).
 
-1975—Subsec. (k)(1). Pub. L. 93–625 substituted “January 1, 1976” for “January 1, 1975”.
+<b>1975</b>—Subsec. (k)(1). Pub. L. 93–625 substituted “January 1, 1976” for “January 1, 1975”.
 
-1971—Subsecs. (m), (n). Pub. L. 92–178 added subsec. (m) and redesignated former subsec. (m) as (n).
+<b>1971</b>—Subsecs. (m), (n). Pub. L. 92–178 added subsec. (m) and redesignated former subsec. (m) as (n).
 
-1969—Subsec. (e)(3). Pub. L. 91–172, §521(d), added par. (3).
+<b>1969</b>—Subsec. (e)(3). Pub. L. 91–172, §521(d), added par. (3).
 
 Subsecs. (j), (k). Pub. L. 91–172, §521(a), added subsecs. (j) and (k). Former subsec. (j) redesignated (m).
 
@@ -518,17 +518,17 @@ Subsec. (<i>l</i>). Pub. L. 91–172, §441(a), added subsec. (<i>l</i>).
 
 Subsec. (m). Pub. L. 91–172, §521(a), redesignated former subsec. (j) as (m).
 
-1967—Subsec. (i)(1). Pub. L. 90–26, §2(b), provided that accelerated depreciation was not to apply if the physical construction, reconstruction or erection by any person was begun during the suspension period or begun, pursuant to an order placed during such period, before May 24, 1967, subject to the proviso that only that portion of the basis which was properly attributable to construction, reconstruction or erection before May 24, 1967, shall be affected by the applicability of the suspension period.
+<b>1967</b>—Subsec. (i)(1). Pub. L. 90–26, §2(b), provided that accelerated depreciation was not to apply if the physical construction, reconstruction or erection by any person was begun during the suspension period or begun, pursuant to an order placed during such period, before May 24, 1967, subject to the proviso that only that portion of the basis which was properly attributable to construction, reconstruction or erection before May 24, 1967, shall be affected by the applicability of the suspension period.
 
 Subsec. (i)(3). Pub. L. 90–26, §1, substituted “March 9, 1967” for “December 31, 1967”.
 
-1966—Subsecs. (i), (j). Pub. L. 89–800 added subsec. (i) and redesignated former subsec. (i) as (j).
+<b>1966</b>—Subsecs. (i), (j). Pub. L. 89–800 added subsec. (i) and redesignated former subsec. (i) as (j).
 
-1962—Subsec. (e). Pub. L. 87–834, §13(b), designated existing provisions as par. (1) and added par. (2).
+<b>1962</b>—Subsec. (e). Pub. L. 87–834, §13(b), designated existing provisions as par. (1) and added par. (2).
 
 Subsecs. (f) to (i). Pub. L. 87–834, §13(c)(1), added subsec. (f) and redesignated former subsecs. (f), (g), and (h) as (g), (h), and (i), respectively.
 
-1958—Subsec. (d). Pub. L. 85–866 inserted “certified mail or” before “registered mail”.
+<b>1958</b>—Subsec. (d). Pub. L. 85–866 inserted “certified mail or” before “registered mail”.
 
 #### Effective Date of 2007 Amendment
 
@@ -570,7 +570,7 @@ Binding contracts.—The amendment made by subsection (a) shall not apply to any
 
 “(3)
 
-Underpayments of income tax.—No addition to tax shall be made under section 6662 of the Internal Revenue Code of 1986 as a result of the application of subsection (d) of that section (relating to substantial understatements of income tax) with respect to any underpayment of income tax for any taxable year ending before the date of the enactment of this Act \[Aug. 20, 1996\], to the extent such underpayment was createdor increased by the amendments made by subsection (a).”
+Underpayments of income tax.—No addition to tax shall be made under section 6662 of the Internal Revenue Code of 1986 as a result of the application of subsection (d) of that section (relating to substantial understatements of income tax) with respect to any underpayment of income tax for any taxable year ending before the date of the enactment of this Act \[Aug. 20, 1996\], to the extent such underpayment was created or increased by the amendments made by subsection (a).”
 
 #### Effective Date of 1993 Amendment
 
@@ -674,7 +674,7 @@ Amendment by Pub. L. 89–800 applicable to taxable years ending after Oct. 9, 1
 
 #### Effective Date of 1962 Amendment
 
-Amendment by section 13(b) of Pub. L. 87–834 applicable to taxable years beginning after Dec. 31, 1962, and amendment by section 13(c)(1) of Pub. L. 87–834 applicable to taxable years beginning after Dec. 31, 1961, and ending after Oct. 16, 1962, see section 13(g) of Pub. L. 87–834, set out as an Effective Date note under section 1245 of this title.
+Amendment by section 13(b) of Pub. L. 87–834 applicable to taxable years beginning after Dec. 31, 1962, andamendment by section 13(c)(1) of Pub. L. 87–834 applicable to taxable years beginning after Dec. 31, 1961, and ending after Oct. 16, 1962, see section 13(g) of Pub. L. 87–834, set out as an Effective Date note under section 1245 of this title.
 
 #### Effective Date of 1958 Amendment
 

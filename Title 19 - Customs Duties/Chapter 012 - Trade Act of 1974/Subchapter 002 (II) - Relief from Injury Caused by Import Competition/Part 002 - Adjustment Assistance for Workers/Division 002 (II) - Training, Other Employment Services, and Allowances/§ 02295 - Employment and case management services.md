@@ -12,7 +12,7 @@ The Secretary shall make available, directly or through agreements with States u
 
 &emsp;(3) Information on training available in local and regional areas, information on individual counseling to determine which training is suitable training, and information on how to apply for such training.
 
-&emsp;(4) Information on how to apply for financial aid, including referring workers to educational opportunity centers described in section 402F of the Higher Education Act of 1965 (20 U.S.C. 1070a–16), where applicable, and notifying workers that the workers may request financial aid administrators at institutions of higher education (as defined in section 102 of such Act (20 U.S.C. 1002)) to use the administrators’ discretion under section 479A of such Act (20 U.S.C. 1087tt) to use current year income data, rather than preceding year income data, for determining the amount of need of the workers for Federal financial assistance under title IV of such Act (20 U.S.C. 1070 et seq.).
+&emsp;(4) Information on how to apply for financial aid, including referring workers to educational opportunity centers described in section 402F of the Higher Education Act of 1965 (20 U.S.C. 1070a–16), where applicable, and notifying workers that the workers may request financial aid administrators at institutions of higher education (as defined in section 102 of such Act (20 U.S.C. 1002)) to use the administrators’ discretion under section 479A of such Act (20 U.S.C. 1087tt) to use current year income data, rather than preceding year income data, for determining the amount of need of the workers for Federal financial assistance under title IV of such Act (20 U.S.C. 1070 et seq.) \[and 42 U.S.C. 2751 et seq.\].
 
 &emsp;(5) Short-term prevocational services, including development of learning skills, communications skills, interviewing skills, punctuality, personal maintenance skills, and professional conduct to prepare individuals for employment or training.
 
@@ -42,17 +42,17 @@ The Higher Education Act of 1965, referred to in par. (4), is Pub. L. 89–329, 
 
 #### Amendments
 
-2009—Pub. L. 111–5, §§1826(a), 1893, temporarily amended section generally. Prior to amendment, text read as follows: “The Secretary shall make every reasonable effort to secure for adversely affected workers covered by a certification under subpart A of this part counseling, testing, and placement services, and supportive and other services, provided for under any other Federal law, including the services provided through one-stop delivery systems described in section 2864(c) of title 29. The Secretary shall, whenever appropriate, procure such services through agreements with the States.” See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Pub. L. 111–5, §§1826(a), 1893, temporarily amended section generally. Prior to amendment, text read as follows: “The Secretary shall make every reasonable effort to secure for adversely affected workers covered by a certification under subpart A of this part counseling, testing, and placement services, and supportive and other services, provided for under any other Federal law, including the services provided throughone-stop delivery systems described in section 2864(c) of title 29. The Secretary shall, whenever appropriate, procure such services through agreements with the States.” See Effective and Termination Dates of 2009 Amendment note below.
 
-2002—Pub. L. 107–210 inserted “, including the services provided through one-stop delivery systems described in section 2864(c) of title 29” before period at end of first sentence.
+<b>2002</b>—Pub. L. 107–210 inserted “, including the services provided through one-stop delivery systems described in section 2864(c) of title 29” before period at end of first sentence.
 
-1988—Pub. L. 100–418 substituted “the States” for “cooperating State agencies”.
+<b>1988</b>—Pub. L. 100–418 substituted “the States” for “cooperating State agencies”.
 
 #### Effective and Termination Dates of 2009 Amendment
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -60,5 +60,5 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2010, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

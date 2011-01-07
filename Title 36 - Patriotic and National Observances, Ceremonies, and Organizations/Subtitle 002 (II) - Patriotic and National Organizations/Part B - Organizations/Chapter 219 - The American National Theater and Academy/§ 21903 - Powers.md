@@ -28,7 +28,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-21903D36:3303 (less perpetual succession).DJuly 5, 1935, ch. 373, §§3 (less perpetual succession), 7, 49 Stat. 458, 459.
+21903
+
+36:3303 (less perpetual succession).
+
+July 5, 1935, ch. 373, §§3 (less perpetual succession), 7, 49 Stat. 458, 459.
 
 &nbsp;
 

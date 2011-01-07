@@ -22,13 +22,13 @@ The application of this part to a corporation shall be determined without regard
 
 #### Amendments
 
-2005—Subsec. (b)(2) to (4). Pub. L. 109–135 redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follow: “a foreign personal holding company (as defined in section 552),”.
+<b>2005</b>—Subsec. (b)(2) to (4). Pub. L. 109–135 redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follow: “a foreign personal holding company (as defined in section 552),”.
 
-1997—Subsec. (b)(4). Pub. L. 105–34 substituted “section 1297” for “section 1296”.
+<b>1997</b>—Subsec. (b)(4). Pub. L. 105–34 substituted “section 1297” for “section 1296”.
 
-1986—Subsec. (b)(4). Pub. L. 99–514 added par. (4).
+<b>1986</b>—Subsec. (b)(4). Pub. L. 99–514 added par. (4).
 
-1984—Subsec. (c). Pub. L. 98–369 added subsec. (c).
+<b>1984</b>—Subsec. (c). Pub. L. 98–369 added subsec. (c).
 
 #### Effective Date of 2005 Amendment
 

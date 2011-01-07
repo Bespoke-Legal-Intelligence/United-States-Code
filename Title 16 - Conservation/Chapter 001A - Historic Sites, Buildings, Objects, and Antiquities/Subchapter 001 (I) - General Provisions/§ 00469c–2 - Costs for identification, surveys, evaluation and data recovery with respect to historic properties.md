@@ -12,5 +12,5 @@ Notwithstanding section 469c(a) of this title, or any other provision of law to 
 
 #### Amendments
 
-1994—Par. (3). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Par. (3). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 

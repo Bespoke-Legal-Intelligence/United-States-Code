@@ -6,7 +6,7 @@ When used in this subchapter, unless the context otherwise requires, the followi
 
 &emsp;(1) “Assignment” includes any direct or indirect transfer or hypothecation of an investment advisory contract by the assignor or of a controlling block of the assignor's outstanding voting securities by a security holder of the assignor; but if the investment adviser is a partnership, no assignment of an investment advisory contract shall be deemed to result from the death or withdrawal of a minority of the members of the investment adviser having only a minority interest in the business of the investment adviser, or from the admission to the investment adviser of one or more members who, after such admission, shall be only a minority of the members and shall have only a minority interest in the business.
 
-&emsp;(2) “Bank” means (A) a banking institution organized under the laws of the United States or a Federal savings association, as defined in section 1462(5) of title 12, (B) a member bank of the Federal Reserve System, (C) any other banking institution, savings association, as defined in section 1462(4) of title 12, or trust company, whether incorporated or not, doing business under the laws of any State or of the United States, a substantial portion of the business of which consists of receiving deposits or exercising fiduciary powers similar tothose permitted to national banks under the authority of the Comptroller of the Currency, and which is supervised and examined by State or Federal authority having supervision over banks or savings associations, and which is not operated for the purpose of evading the provisions of this subchapter, and (D) a receiver, conservator, or other liquidating agent of any institution or firm included in clauses (A), (B), or (C) of this paragraph.
+&emsp;(2) “Bank” means (A) a banking institution organized under the laws of the United States or a Federal savings association, as defined in section 1462(5) of title 12, (B) a member bank of the Federal Reserve System, (C) any other banking institution, savings association, as defined in section 1462(4) of title 12, or trust company, whether incorporated or not, doing business under the laws of any State or of the United States, a substantial portion of the business of which consists of receiving deposits or exercising fiduciary powers similar to those permitted to national banks under the authority of the Comptroller of the Currency, and which is supervised and examined by State or Federal authority having supervision over banks or savings associations, and which is not operated for the purpose of evading the provisions of this subchapter, and (D) a receiver, conservator, or other liquidating agent of any institution or firm included in clauses (A), (B), or (C) of this paragraph.
 
 &emsp;(3) The term “broker” has the same meaning as given in section 3 of the Securities Exchange Act of 1934 \[15 U.S.C. 78c\].
 
@@ -42,9 +42,9 @@ When used in this subchapter, unless the context otherwise requires, the followi
 
 &emsp;(19) “State” means any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, or any other possession of the United States.
 
-&emsp;(20) “Underwriter” means any person who has purchased from an issuer with a view to, or sells for an issuer in connection with, the distribution of any security, or participates or has a direct or indirect participation in any such undertaking, or participates or has a participation in the direct or indirect underwriting of any such undertaking; but such term shall not include a person whose interest is limited to a commission from an underwriter or dealer not in excess of the usual and customary distributor's or seller's commission. As used in this paragraph the term “issuer” shall include in addition to an issuer, any person directly or indirectly controlling or controlled by the issuer, or any person under direct or indirect common control with the issuer.
+&emsp;(20) “Underwriter” means any person who has purchased from an issuer with a view to, or sells for an issuer in connection with, the distribution of any security, or participates or has a direct or indirect participation in any such undertaking, or participates or has a participation in the direct or indirect underwriting of any such undertaking; but such term shall not include a person whose interest is limited to a commission from an underwriter or dealer not in excess of the usual and customary distributor's or seller's commission.As used in this paragraph the term “issuer” shall include in addition to an issuer, any person directly or indirectly controlling or controlled by the issuer, or any person under direct or indirect common control with the issuer.
 
-&emsp;(21) “Securities Act of 1933” \[15 U.S.C. 77a et seq.\], “Securities Exchange Act of 1934” \[15 U.S.C. 78a et seq.\], “Public Utility Holding Company Act of 1935”,<sup>1</sup> and “Trust Indenture Act of 1939” \[15 U.S.C. 77aaa et seq.\], mean those Acts, respectively, as heretofore or hereafter amended.
+&emsp;(21) “Securities Act of 1933” \[15 U.S.C. 77a et seq.\], “Securities Exchange Act of 1934” \[15 U.S.C. 78a et seq.\], and “Trust Indenture Act of 1939” \[15 U.S.C. 77aaa et seq.\], mean those Acts, respectively, as heretofore or hereafter amended.
 
 &emsp;(22) “Business development company” means any company which is a business development company as defined in section 80a–2(a)(48) of this title and which complies with section 80a–54 of this title, except that—
 
@@ -68,7 +68,7 @@ When used in this subchapter, unless the context otherwise requires, the followi
 
 &emsp;&emsp;(B) for which all of the records relating to its investment adviser activities are separately maintained in or extractable from such unit's own facilities or the facilities of the bank, and such records are so maintained or otherwise accessible as to permit independent examination and enforcement by the Commission of this subchapter or the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] and rules and regulations promulgated under this subchapter or the Investment Company Act of 1940.
 
-&emsp;(27) The terms “security future” and “narrow-based security index” have the same meanings as provided in section 3(a)(55) of theSecurities Exchange Act of 1934 \[15 U.S.C. 78c(a)(55)\].
+&emsp;(27) The terms “security future” and “narrow-based security index” have the same meanings as provided in section 3(a)(55) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(55)\].
 
 &emsp;(28) The term “credit rating agency” has the same meaning as in section 3 of the Securities Exchange Act of 1934 \[15 U.S.C. 78c\].
 
@@ -80,27 +80,61 @@ No provision in this subchapter shall apply to, or be deemed to include, the Uni
 
 Whenever pursuant to this subchapter the Commission is engaged in rulemaking and is required to consider or determine whether an action is necessary or appropriate in the public interest, the Commission shall also consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation.
 
-(Aug. 22, 1940, ch. 686, title II, §202, 54 Stat. 847; Pub. L. 86–70, §12(c), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(d), July 12, 1960, 74 Stat. 412; Pub. L. 86–750, §1, Sept. 13, 1960, 74 Stat. 885; Pub. L. 89–485, §13(j), July 1, 1966, 80 Stat. 243; Pub. L. 91–547, §23, Dec. 14, 1970, 84 Stat. 1430; Pub. L. 95–598, title III, §311, Nov. 6, 1978, 92 Stat. 2676; Pub. L. 96–477, title II, §201, Oct. 21, 1980, 94 Stat. 2289; Pub. L. 97–303, §6, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VII, §701, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 101–550, title II, §206(b), Nov. 15, 1990, 104 Stat. 2720; Pub. L. 104–290, title III, §303(c), Oct. 11, 1996, 110 Stat. 3438; Pub. L. 106–102, title II, §§217–219, 224, Nov. 12, 1999, 113 Stat. 1399, 1400, 1402; Pub. L. 106–554, §1(a)(5) \[title II, §209(a)(2), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–435, 2763A–436; Pub. L. 109–291, §4(b)(3)(A), (B), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 109–351, title IV, §401(b)(1), Oct. 13, 2006, 120 Stat. 1973.)
+(Aug. 22, 1940, ch. 686, title II, §202, 54 Stat. 847; Pub. L. 86–70, §12(c), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(d), July 12, 1960, 74 Stat. 412; Pub. L. 86–750, §1, Sept. 13, 1960, 74 Stat. 885; Pub. L. 89–485, §13(j), July 1, 1966, 80 Stat. 243; Pub. L. 91–547, §23, Dec. 14, 1970, 84 Stat. 1430; Pub. L. 95–598, title III, §311, Nov. 6, 1978, 92 Stat. 2676; Pub. L. 96–477, title II, §201, Oct. 21, 1980, 94 Stat. 2289; Pub. L. 97–303, §6, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VII, §701, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 101–550, title II, §206(b), Nov. 15, 1990, 104 Stat. 2720; Pub. L. 104–290, title III, §303(c), Oct. 11, 1996, 110 Stat. 3438; Pub. L. 106–102, title II, §§217–219, 224, Nov.12, 1999, 113 Stat. 1399, 1400, 1402; Pub. L. 106–554, §1(a)(5) \[title II, §209(a)(2), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–435, 2763A–436; Pub. L. 109–291, §4(b)(3)(A), (B), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 109–351, title IV, §401(b)(1), Oct. 13, 2006, 120 Stat. 1973; Pub. L. 111–203, title IV, §§402(a), 409(a), title VII, §770, title IX, §986(d), July 21, 2010, 124 Stat. 1570, 1575, 1801, 1936.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 111–203, title IV, §§402(a), 409(a), 419, July 21, 2010, 124 Stat. 1570, 1575, 1580, provided that, effective 1 year after July 21, 2010, except that any investment adviser may, at the discretion of the investment adviser, register with the Commission under the Investment Advisers Act of 1940 during that 1-year period, subject to the rules of the Commission, and except as otherwise provided, subsection (a) of this section is amended as follows:</i>
+
+<i>(1) in paragraph (11), by striking “or (G)” and inserting the following: “; (G) any family office, as defined by rule, regulation, or order of the Commission, in accordance with the purposes of this subchapter; or (H)”; and</i>
+
+<i>(2) by adding at the end the following:</i>
+
+&emsp;<i>“(29) The term ‘private fund’ means an issuer that would be an investment company, as defined in section 3 of the Investment Company Act of 1940 (15 U.S.C. 80a–3), but for section 3(c)(1) or 3(c)(7) of that Act.</i>
+
+&emsp;<i>“(30) The term ‘foreign private adviser’ means any investment adviser who—</i>
+
+&emsp;&emsp;<i>“(A) has no place of business in the United States;</i>
+
+&emsp;&emsp;<i>“(B) has, in total, fewer than 15 clients and investors in the United States in private funds advised by the investment adviser;</i>
+
+&emsp;&emsp;<i>“(C) has aggregate assets under management attributable to clients in the United States and investors in the United States in private funds advised by the investment adviser of less than $25,000,000, or such higher amount as the Commission may, by rule, deem appropriate in accordance with the purposes of this subchapter; and</i>
+
+&emsp;&emsp;<i>“(D) neither—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) holds itself out generally to the public in the United States as an investment adviser; nor</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) acts as—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(I) an investment adviser to any investment company registered under the Investment Company Act of 1940; or</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(II) a company that has elected to be a business development company pursuant to section 54 of the Investment Company Act of 1940 (15 U.S.C. 80a–53), and has not withdrawn its election.”</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
+
+<i>Pub. L. 111–203, title VII, §§770, 774, July 21, 2010, 124 Stat. 1801, 1802, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, this section is amended by adding at the end the following:</i>
+
+&emsp;<i>(29) The terms “commodity pool”, “commodity pool operator”, “commodity trading advisor”, “major swap participant”, “swap”, “swap dealer”, and “swap execution facility” have the same meanings as in section 1a of title 7.</i>
 
 #### References in Text
 
-The Bank Holding Company Act of 1956, referred to in subsec. (a)(11)(A), is act May 9, 1956, ch. 240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§1841 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of Title 12 and Tables.
+The Bank Holding Company Act of 1956, referred to in subsec. (a)(11)(A), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§1841 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of Title 12 and Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (a)(12), (26)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of this chapter. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (a)(12), (26)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of this chapter. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
-The Securities Act of 1933, referred to in subsec. (a)(21), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsec. (a)(21), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (a)(21), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (a)(21), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
-The Public Utility Holding Company Act of 1935, referred to in subsec. (a)(21), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§79 et seq.) of this title, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
-
-The Trust Indenture Act of 1939, referred to in subsec. (a)(21), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, and amended, which is classified generally to subchapter III (§77aaa et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77aaa of this title and Tables.
+The Trust Indenture Act of 1939, referred to in subsec. (a)(21), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, which is classified generally to subchapter III (§77aaa et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77aaa of this title and Tables.
 
 This subchapter, referred to in subsec. (a)(26)(B), was in the original “this Act” and was translated as reading “this title”, meaning title II of act Aug. 22, 1940, ch. 686, known as the Investment Advisers Act of 1940, to reflect the probable intent of Congress.
 
 #### Amendments
 
-2006—Subsec. (a)(2)(A). Pub. L. 109–351, §401(b)(1)(A), inserted “or a Federal savings association, as defined in section 1462(5) of title 12” after “a banking institution organized under the laws of the United States”.
+<b>2010</b>—Subsec. (a)(21). Pub. L. 111–203, §986(d), struck out “ ‘Public Utility Holding Company Act of 1935’,” after “ ‘Securities Exchange Act of 1934’,”.
+
+<b>2006</b>—Subsec. (a)(2)(A). Pub. L. 109–351, §401(b)(1)(A), inserted “or a Federal savings association, as defined in section 1462(5) of title 12” after “a banking institution organized under the laws of the United States”.
 
 Subsec. (a)(2)(C). Pub. L. 109–351, §401(b)(1)(B), inserted “, savings association, as defined in section 1462(4) of title 12,” after “other banking institution” and “or savings associations” after “having supervision over banks”.
 
@@ -108,11 +142,11 @@ Subsec. (a)(11)(F), (G). Pub. L. 109–291, §4(b)(3)(B), added subpar. (F) and 
 
 Subsec. (a)(28). Pub. L. 109–291, §4(b)(3)(A), added par. (28).
 
-2000—Subsec. (a)(18). Pub. L. 106–554, §1(a)(5) \[title II, §209(a)(2)\], inserted “security future,” after “treasury stock,”.
+<b>2000</b>—Subsec. (a)(18). Pub. L. 106–554, §1(a)(5) \[title II, §209(a)(2)\], inserted “security future,” after “treasury stock,”.
 
 Subsec. (a)(27). Pub. L. 106–554, §1(a)(5) \[title II, §209(a)(4)\], added par. (27).
 
-1999—Subsec. (a)(3). Pub. L. 106–102, §218, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “ ‘Broker’ means any person engaged in the business of effecting transactions in securities for the account of others, but does not include a bank.”
+<b>1999</b>—Subsec. (a)(3). Pub. L. 106–102, §218, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “ ‘Broker’ means any person engaged in the business of effecting transactions in securities for the account of others, but does not include a bank.”
 
 Subsec. (a)(7). Pub. L. 106–102, §219, amended par. (7) generally. Prior to amendment, par. (7) read as follows: “ ‘Dealer’ means any person regularly engaged in the business of buying and selling securities for his own account, through a broker or otherwise, but does not include a bank, insurance company, or investment company, or any person insofar as he is engaged in investing, reinvesting or trading in securities, or in owning or holding securities, for his own account, either individually or in some fiduciary capacity, but not as a part of a regular business.”
 
@@ -122,33 +156,43 @@ Subsec. (a)(26). Pub. L. 106–102, §217(b), added par. (26).
 
 Subsec. (c). Pub. L. 106–102, §224, added subsec. (c).
 
-1996—Subsec. (a). Pub. L. 104–290, §303(c)(1), substituted “requires, the following definitions shall apply:” for “requires—” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–290, §303(c)(1), substituted “requires, the following definitions shall apply:” for “requires—” in introductory provisions.
 
 Subsec. (a)(25). Pub. L. 104–290, §303(c)(2), added par. (25).
 
-1990—Subsec. (a)(23), (24). Pub. L. 101–550 added pars. (23) and (24).
+<b>1990</b>—Subsec. (a)(23), (24). Pub. L. 101–550 added pars. (23) and (24).
 
-1987—Subsec. (a)(19). Pub. L. 100–181 struck out reference to Canal Zone.
+<b>1987</b>—Subsec. (a)(19). Pub. L. 100–181 struck out reference to Canal Zone.
 
-1982—Subsec. (a)(18). Pub. L. 97–303 inserted “any put, call, straddle, option, or privilege on any security (including a certificate of deposit) or on any group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency,” after “mineral rights,”.
+<b>1982</b>—Subsec. (a)(18). Pub. L. 97–303 inserted “any put, call, straddle, option, or privilege on any security (including a certificate of deposit) or on any group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency,” after “mineral rights,”.
 
-1980—Subsec. (a)(22). Pub. L. 96–477 added par. (22).
+<b>1980</b>—Subsec. (a)(22). Pub. L. 96–477 added par. (22).
 
-1978—Subsec. (a)(5). Pub. L. 95–598 substituted “a case under title 11” for “bankruptcy”.
+<b>1978</b>—Subsec. (a)(5). Pub. L. 95–598 substituted “a case under title 11” for “bankruptcy”.
 
-1970—Subsec. (a)(2). Pub. L. 91–547, §23(1), substituted “under the authority of the Comptroller of the Currency” for “under section 248(k) of Title 12”.
+<b>1970</b>—Subsec. (a)(2). Pub. L. 91–547, §23(1), substituted “under the authority of the Comptroller of the Currency” for “under section 248(k) of Title 12”.
 
 Subsec. (a)(17) to (21). Pub. L. 91–547, §23(2), added par. (17) and redesignated former pars. (17) to (20) as (18) to (21), respectively.
 
-1966—Subsec. (a)(11)(A). Pub. L. 89–485 substituted “bank holding company as defined in the Bank Holding Company Act of 1956” for “holding company affiliate, as defined in the Banking Act of 1933”.
+<b>1966</b>—Subsec. (a)(11)(A). Pub. L. 89–485 substituted “bank holding company as defined in the Bank Holding Company Act of 1956” for “holding company affiliate, as defined in the Banking Act of 1933”.
 
-1960—Subsec. (a)(12). Pub. L. 86–750, §1(a), substituted definition of “control” as “the power to exercise a controlling influence over the management or policies of a company, unless such power is solely the result of an official position with such company” for its prior definition which was the same as in the Investment Company Act of 1940.
+<b>1960</b>—Subsec. (a)(12). Pub. L. 86–750, §1(a), substituted definition of “control” as “the power to exercise a controlling influence over the management or policies of a company, unless such power is solely the result of an official position with such company” for its prior definition which was the same as in the Investment Company Act of 1940.
 
 Subsec. (a)(18). Pub. L. 86–750, §1(b), struck out reference to Philippine Islands, which change was previously executed in the codification of this section pursuant to Proc. No. 2695 that granted independence to the Philippine Islands.
 
 Pub. L. 86–624 struck out reference to Hawaii.
 
-1959—Subsec. (a)(18). Pub. L. 86–70 struck out reference to Alaska.
+<b>1959</b>—Subsec. (a)(18). Pub. L. 86–70 struck out reference to Alaska.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 986(d) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
+Pub. L. 111–203, title IV, §419, July 21, 2010, 124 Stat. 1580, provided that: “Except as otherwise provided in this title \[enacting sections 80b–18b and 80b–18c of this title, amending this section and sections 80b–3, 80b–3a, 80b–4, 80b–5, 80b–10, and 80b–11 of this title, and enacting provisions set out as notes under this section and sections 77b and 80b–20 of this title\], this title and the amendments made by this title shall become effective 1 year after the date of enactment of this Act \[July 21, 2010\], except that any investment adviser may, at the discretion of the investment adviser, register with the Commission under the Investment Advisers Act of 1940 \[15 U.S.C. 80b–1 et seq.\] during that 1-year period, subject to the rules of the Commission.”
+
+\[For definitions of “investment adviser” and “Commission” as used in section 419 of Pub. L. 111–203, set out above, see section 402(b) of Pub. L. 111–203, set out below, and section 5301 of Title 12, Banks and Banking, respectively.\]
+
+Amendment by section 770 of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -166,9 +210,41 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
 
+#### Regulations; Construction
+
+Pub. L. 111–203, title IV, §409(b), (c), July 21, 2010, 124 Stat. 1575, provided that:
+
+“(b)
+
+Rulemaking.—The rules, regulations, or orders issued by the Commission pursuant to section 202(a)(11)(G) of the Investment Advisers Act of 1940 \[15 U.S.C. 80b–2(a)(11)(G)\], as added by this section, regarding the definition of the term ‘family office’ shall provide for an exemption that—
+
+&emsp;“(1) is consistent with the previous exemptive policy of the Commission, as reflected in exemptive orders for family offices in effect on the date of enactment of this Act \[July 21, 2010\], and the grandfathering provisions in paragraph (3);
+
+&emsp;“(2) recognizes the range of organizational, management, and employment structures and arrangements employed by family offices; and
+
+&emsp;“(3) does not exclude any person who was not registered or required to be registered under the Investment Advisers Act of 1940 \[15 U.S.C. 80b–1 et seq.\] on January 1, 2010 from the definition of the term ‘family office’, solely because such person provides investment advice to, and was engaged before January 1, 2010 in providing investment advice to—
+
+&emsp;&emsp;“(A) natural persons who, at the time of their applicable investment, are officers, directors, or employees of the family office who—
+
+&emsp;&emsp;&emsp;“(i) have invested with the family office before January 1, 2010; and
+
+&emsp;&emsp;&emsp;“(ii) are accredited investors, as defined in Regulation D of the Commission (or any successor thereto) under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], or, as the Commission may prescribe by rule, the successors-in-interest thereto;
+
+&emsp;&emsp;“(B) any company owned exclusively and controlled by members of the family of the family office, or as the Commission may prescribe by rule;
+
+&emsp;&emsp;“(C) any investment adviser registered under the Investment Adviser\[s\] Act of 1940 \[15 U.S.C. 80b–1 et seq.\] that provides investment advice to the family office and who identifies investment opportunities to the family office, and invests in such transactions on substantially the same terms as the family office invests, but does not invest in other funds advised by the family office, and whose assets as to which the family office directly or indirectly provides investment advice represent, in the aggregate, not more than 5 percent of the value of the total assets as to which the family office provides investment advice.
+
+“(c)
+
+Antifraud Authority.—A family office that would not be a family office, but for subsection (b)(3), shall be deemed to be an investment adviser for the purposes of paragraphs (1), (2) and (4) of section 206 of the Investment Advisers Act of 1940 \[15 U.S.C. 80b–6\].”
+
+\[For definitions of “Commission” and “investment adviser” as used in section 409(b), (c) of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking, and section 402(b) of Pub. L. 111–203, set out below, respectively.\]
+
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Definitions
+
+Pub. L. 111–203, title IV, §402(b), July 21, 2010, 124 Stat. 1570, provided that: “As used in this title \[enacting sections 80b–18b and 80b–18c of this title, amending this section and sections 80b–3, 80b–3a, 80b–4, 80b–5, 80b–10, and 80b–11 of this title, and enacting provisions set out as notes under this section and sections 77b and 80b–20 of this title\], the terms ‘investment adviser’ and ‘private fund’ have the same meanings as in section 202 of the Investment Advisers Act of 1940 \[15 U.S.C. 80b–2\], as amended by this title.”
 

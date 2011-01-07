@@ -1,6 +1,6 @@
 ### §2821. Requirement for authorization of appropriations for construction and acquisition of military family housing
 
-(a) Except as provided in subsection (b), funds may not be appropriated for the construction, acquisition, leasing, addition, extension, expansion, alteration, relocation, or operation and maintenance of family housing under the jurisdiction of the Department of Defense unless the appropriation of such funds has been authorized by law.
+(a) Except as provided in subsection (b), funds may not be appropriated for the construction,acquisition, leasing, addition, extension, expansion, alteration, relocation, or operation and maintenance of family housing under the jurisdiction of the Department of Defense unless the appropriation of such funds has been authorized by law.
 
 (b) In addition to the funds authorized to be appropriated by law in any fiscal year for the purposes described in subsection (a), there are authorized to be appropriated such additional sums as may be necessary for increases in salary, pay, retirement, and other employee benefits authorized by law for civilian employees of the Department of Defense whose compensation is provided for by funds appropriated for the purposes described in such subsection.
 
@@ -20,7 +20,7 @@
 
 #### Amendments
 
-1985—Subsec. (b). Pub. L. 99–145 substituted “such subsection” for “such paragraph”.
+<b>1985</b>—Subsec. (b). Pub. L. 99–145 substituted “such subsection” for “such paragraph”.
 
 Subsec. (d). Pub. L. 99–167 added subsec. (d).
 

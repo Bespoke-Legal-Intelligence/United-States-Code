@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;On the first day of publication of the Federal Register that is 180 days or more after June 22,2009, the Secretary of Health and Human Services shall publish in the Federal Register a final rule regarding cigarettes and smokeless tobacco, which—
+&emsp;On the first day of publication of the Federal Register that is 180 days or more after June 22, 2009, the Secretary of Health and Human Services shall publish in the Federal Register a final rule regarding cigarettes and smokeless tobacco, which—
 
 &emsp;&emsp;(A) is deemed to be issued under chapter 9 <sup>1</sup> of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 387 et seq.\], as added by section 101 of this division; and
 
@@ -68,7 +68,7 @@
 
 &emsp;“(B) at any football, basketball, baseball, soccer, or hockey event or any other sporting or entertainment event determined by the Secretary to be covered by this subparagraph.
 
-“(4) The Secretary shall implement a program to ensure compliance with this paragraph and submit a report to the Congress on such compliance not later than 18 months after the date ofenactment of the Family Smoking Prevention and Tobacco Control Act.
+“(4) The Secretary shall implement a program to ensure compliance with this paragraph and submit a report to the Congress on such compliance not later than 18 months after the date of enactment of the Family Smoking Prevention and Tobacco Control Act.
 
 “(5) Nothing in this paragraph shall be construed to authorize any person to distribute or cause to be distributed any sample of a tobacco product to any individual who has not attained the minimum age established by applicable law for the purchase of such product.”.
 
@@ -98,7 +98,7 @@ As of June 22, 2009, the following documents issued by the Food and Drug Adminis
 
 &emsp;(1) The preamble to the proposed rule in the document titled “Regulations Restricting the Sale and Distribution of Cigarettes and Smokeless Tobacco Products to Protect Children and Adolescents” (60 Fed. Reg. 41314–41372 (August 11, 1995)).
 
-&emsp;(2) The document titled “Nicotine in Cigarettes and Smokeless Tobacco Products is a Drug and These Products Are Nicotine Delivery Devices Under the Federal Food, Drug, and Cosmetic Act” (60 Fed. Reg. 41453–41787 (August 11, 1995)).
+&emsp;(2) The document titled “Nicotine in Cigarettes and Smokeless Tobacco Products is aDrug and These Products Are Nicotine Delivery Devices Under the Federal Food, Drug, and Cosmetic Act” (60 Fed. Reg. 41453–41787 (August 11, 1995)).
 
 &emsp;(3) The preamble to the final rule in the document titled “Regulations Restricting the Sale and Distribution of Cigarettes and Smokeless Tobacco to Protect Children and Adolescents” (61 Fed. Reg. 44396–44615 (August 28, 1996)).
 

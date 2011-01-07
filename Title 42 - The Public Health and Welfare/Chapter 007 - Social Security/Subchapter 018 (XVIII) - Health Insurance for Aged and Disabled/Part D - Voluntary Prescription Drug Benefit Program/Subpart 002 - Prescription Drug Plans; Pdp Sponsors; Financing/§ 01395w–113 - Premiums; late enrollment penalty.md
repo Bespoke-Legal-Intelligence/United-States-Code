@@ -20,7 +20,7 @@
 
 #### (iii) Adjusted national average monthly bid amount defined
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “adjusted national average monthly bid amount” means the national average monthly bid amount computed under paragraph (4), as adjusted under section 1395w–115(c)(2) of this title.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “adjusted national average monthlybid amount” means the national average monthly bid amount computed under paragraph (4), as adjusted under section 1395w–115(c)(2) of this title.
 
 #### (C) Increase for supplemental prescription drug benefits
 
@@ -34,9 +34,13 @@
 
 &emsp;&emsp;The monthly beneficiary premium is subject to decrease in the case of a subsidy eligible individual under section 1395w–114 of this title.
 
-#### (F) Uniform premium
+#### (F) Increase based on income
 
-&emsp;&emsp;Except as provided in subparagraphs (D) and (E), the monthly beneficiary premium for a prescription drug plan in a PDP region is the same for all part D eligible individuals enrolled in the plan.
+&emsp;&emsp;The monthly beneficiary premium shall be increased pursuant to paragraph (7).
+
+#### (G) Uniform premium
+
+&emsp;&emsp;Except as provided in subparagraphs (D), (E), and (F), the monthly beneficiary premium for a prescription drug plan in a PDP region is the same for all part D eligible individuals enrolled in the plan.
 
 #### (2) Base beneficiary premium
 
@@ -99,6 +103,54 @@
 #### (6) PDP approved bid defined
 
 &emsp;For purposes of this part, the term “PDP approved bid” means, with respect to a prescription drug plan, the bid amount approved for the plan under this part.
+
+#### (7) Increase in base beneficiary premium based on income
+
+#### (A) In general
+
+&emsp;&emsp;In the case of an individual whose modified adjusted gross income exceeds the threshold amount applicable under paragraph (2) of section 1395r(i) of this title (including application of paragraph (5) of such section) for the calendar year, the monthly amount of the beneficiary premium applicable underthis section for a month after December 2010 shall be increased by the monthly adjustment amount specified in subparagraph (B).
+
+#### (B) Monthly adjustment amount
+
+&emsp;&emsp;The monthly adjustment amount specified in this subparagraph for an individual for a month in a year is equal to the product of—
+
+&emsp;&emsp;&emsp;(i) the quotient obtained by dividing—
+
+&emsp;&emsp;&emsp;&emsp;(I) the applicable percentage determined under paragraph (3)(C) of section 1395r(i) of this title (including application of paragraph (5) of such section) for the individual for the calendar year reduced by 25.5 percent; by
+
+&emsp;&emsp;&emsp;&emsp;(II) 25.5 percent; and
+
+&emsp;&emsp;&emsp;(ii) the base beneficiary premium (as computed under paragraph (2)).
+
+#### (C) Modified adjusted gross income
+
+&emsp;&emsp;For purposes of this paragraph, the term “modified adjusted gross income” has the meaning given such term in subparagraph (A) of section 1395r(i)(4) of this title, determined for the taxable year applicable under subparagraphs (B) and (C) of such section.
+
+#### (D) Determination by Commissioner of Social Security
+
+&emsp;&emsp;The Commissioner of Social Security shall make any determination necessary to carry out the income-related increase in the base beneficiary premium under this paragraph.
+
+#### (E) Procedures to assure correct income-related increase in base beneficiary premium
+
+#### (i) Disclosure of base beneficiary premium
+
+&emsp;&emsp;&emsp;Not later than September 15 of each year beginning with 2010, the Secretary shall disclose to the Commissioner of Social Security the amount of the base beneficiary premium (as computed under paragraph (2)) for the purpose of carrying out the income-related increase in the base beneficiary premium under this paragraph with respect to the following year.
+
+#### (ii) Additional disclosure
+
+&emsp;&emsp;&emsp;Not later than October 15 of each year beginning with 2010, the Secretary shall disclose to the Commissioner of Social Security the following information for the purpose of carrying out the income-related increase in the base beneficiary premium under this paragraph with respect to the following year:
+
+&emsp;&emsp;&emsp;&emsp;(I) The modified adjusted gross income threshold applicable under paragraph (2) of section 1395r(i) of this title (including application of paragraph (5) of such section).
+
+&emsp;&emsp;&emsp;&emsp;(II) The applicable percentage determined under paragraph (3)(C) of section 1395r(i) of this title (including application of paragraph (5) of such section).
+
+&emsp;&emsp;&emsp;&emsp;(III) The monthly adjustment amount specified in subparagraph (B).
+
+&emsp;&emsp;&emsp;&emsp;(IV) Any other information the Commissioner of Social Security determines necessary to carry out the income-related increase in the base beneficiary premium under this paragraph.
+
+#### (F) Rule of construction
+
+&emsp;&emsp;The formula used to determine the monthly adjustment amount specified under subparagraph (B) shall only be used for the purpose of determining such monthly adjustment amount under such subparagraph.
 
 #### (b) Late enrollment penalty
 
@@ -178,7 +230,7 @@
 
 #### (ii) Disclosure of non-creditable coverage
 
-&emsp;&emsp;&emsp;In the case of such coverage that does not meet such requirement, the disclosureto part D eligible individuals under this subparagraph shall include information regarding the fact that because such coverage does not meet such requirement there are limitations on the periods in a year in which the individuals may enroll under a prescription drug plan or an MA–PD plan and that any such enrollment is subject to a late enrollment penalty under this subsection.
+&emsp;&emsp;&emsp;In the case of such coverage that does not meet such requirement, the disclosure to part D eligible individuals under this subparagraph shall include information regarding the fact that because such coverage does not meet such requirement there are limitations on the periods in a year in which the individuals may enroll under a prescription drug plan or an MA–PD plan and that any such enrollment is subject to a late enrollment penalty under this subsection.
 
 #### (C) Waiver of requirement
 
@@ -208,7 +260,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3), the provisions of section 1395w–24(d) of this title shall apply to PDP sponsors and premiums (and any late enrollment penalty) under this part in the same manner as they apply to MA organizations and beneficiary premiums under part C of this subchapter, except that any reference to a Trust Fund is deemed for this purpose a reference to the Medicare Prescription Drug Account.
+&emsp;Subject to paragraphs (2), (3), and (4), the provisions of section 1395w–24(d) of this title shall apply to PDP sponsors and premiums (and any late enrollment penalty) under this part in the same manner as they apply to MA organizations and beneficiary premiums under part C of this subchapter, except that any reference to a Trust Fund is deemed for this purpose a reference to the Medicare Prescription Drug Account.
 
 #### (2) Crediting of late enrollment penalty
 
@@ -228,7 +280,17 @@
 
 &emsp;In applying this subsection in the case of a fallback prescription drug plan, paragraph (2) shall not apply and the monthly beneficiary premium shall be collected in the manner specified in section 1395w–24(d)(2)(A) of this title (or such other manner as may be provided under section 1395s of this title in the case of monthly premiums under section 1395r of this title).
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–13, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2102; amended Pub. L. 110–275, title I, §114(a)(1), July 15, 2008, 122 Stat. 2506.)
+#### (4) Collection of monthly adjustment amount
+
+#### (A) In general
+
+&emsp;&emsp;Notwithstanding any provision of this subsection or section 1395w–24(d)(2) of this title, subject to subparagraph (B), the amount of the income-related increase in the base beneficiary premium for an individual for a month (as determined under subsection (a)(7)) shall be paid through withholding from benefit payments in the manner provided under section 1395s of this title.
+
+#### (B) Agreements
+
+&emsp;&emsp;In the case where the monthly benefit payments of an individual that are withheld under subparagraph (A) are insufficient to pay the amount described in such subparagraph, the Commissioner of Social Security shall enter into agreements with the Secretary, the Director of the Office of Personnel Management, and the Railroad Retirement Board as necessary in order to allow other agencies to collect the amount described in subparagraph (A) that was not withheld under such subparagraph.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–13, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2102; amended Pub. L. 110–275, title I, §114(a)(1), July 15, 2008, 122 Stat. 2506; Pub. L. 111–148, title III, §3308(a), (b)(1), Mar. 23, 2010, 124 Stat. 472, 474.)
 
 #### References in Text
 
@@ -238,7 +300,15 @@ Part C of this subchapter, referred to in subsec. (c)(1), is classified to secti
 
 #### Amendments
 
-2008—Subsec. (b)(8). Pub. L. 110–275 added par. (8).
+<b>2010</b>—Subsec. (a)(1)(F), (G). Pub. L. 111–148, §3308(b)(1), added subpar. (F), redesignated former subpar. (F) as (G), and substituted “(D), (E), and (F)” for “(D) and (E)” in subpar. (G).
+
+Subsec. (a)(7). Pub. L. 111–148, §3308(a)(1), added par. (7).
+
+Subsec. (c)(1). Pub. L. 111–148, §3308(a)(2)(A), substituted “(2), (3), and (4)” for “(2) and (3)”.
+
+Subsec. (c)(4). Pub. L. 111–148, §3308(a)(2)(B), added par. (4).
+
+<b>2008</b>—Subsec. (b)(8). Pub. L. 110–275 added par. (8).
 
 #### Effective Date of 2008 Amendment
 

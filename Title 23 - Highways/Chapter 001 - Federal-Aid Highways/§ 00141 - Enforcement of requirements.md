@@ -18,23 +18,23 @@ Section 4481 of the Internal Revenue Code of 1986, referred to in subsec. (c), i
 
 #### Prior Provisions
 
-A prior section 141, Pub. L. 90–495, §35(a), Aug. 23, 1968, 82 Stat. 836, related to real property acquisition policies, prior to repeal by Pub. L. 91–646, title III, §306, Jan. 2, 1971, 84 Stat. 1907, such repeal becoming effective as to all States after July 1, 1972, the date on which sections 4630 and 4655 of Title 42, The Public Health and Welfare, covering similar subject matter, became applicable to all States.
+A prior section 141, Pub. L. 90–495, §35(a), Aug. 23, 1968, 82 Stat. 836, related to real property acquisition policies, prior to repeal by Pub. L. 91–646, title III, §306,Jan. 2, 1971, 84 Stat. 1907, such repeal becoming effective as to all States after July 1, 1972, the date on which sections 4630 and 4655 of Title 42, The Public Health and Welfare, covering similar subject matter, became applicable to all States.
 
 #### Amendments
 
-1998—Subsec. (c). Pub. L. 105–178 substituted “section 104(b)(4)” for “section 104(b)(5) of this title” in two places.
+<b>1998</b>—Subsec. (c). Pub. L. 105–178 substituted “section 104(b)(4)” for “section 104(b)(5) of this title” in two places.
 
-1995—Pub. L. 104–59 redesignated subsecs. (b) to (d) as (a) to (c), respectively, and struck out former subsec. (a) which read as follows: “Each State shall certify to the Secretary before January 1 of each year that it is enforcing all speed limits on public highways in accordance with section 154 of this title. The Secretary shall not approve any project under section 106 of this title in any State which has failed to certify in accordance with this subsection.”
+<b>1995</b>—Pub. L. 104–59 redesignated subsecs. (b) to (d) as (a) to (c), respectively, and struck out former subsec. (a) which read as follows: “Each State shall certify to the Secretary before January 1 of each year that it is enforcing all speed limits on public highways in accordance with section 154 of this title. The Secretary shall not approve any project under section 106 of this title in any State which has failed to certify in accordance with this subsection.”
 
-1994—Subsec. (b). Pub. L. 103–429 substituted “section 31112 of title 49” for “section 411(j) of the Surface Transportation Assistance Act of 1982 (49 U.S.C. App. 2311(j))”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–429 substituted “section 31112 of title 49” for “section 411(j) of the Surface Transportation Assistance Act of 1982 (49 U.S.C. App. 2311(j))”.
 
-1991—Subsec. (b). Pub. L. 102–240 inserted at end “Each State shall also certify that it is enforcing and complying with the provisions of section 127(d) of this title and section 411(j) of the Surface Transportation Assistance Act of 1982 (49 U.S.C. App. 2311(j)).”
+<b>1991</b>—Subsec. (b). Pub. L. 102–240 inserted at end “Each State shall also certify that it is enforcing and complying with the provisions of section 127(d) of this title and section 411(j) of the Surface Transportation Assistance Act of 1982 (49 U.S.C. App. 2311(j)).”
 
-1986—Subsec. (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1983—Subsec. (d). Pub. L. 97–424 added subsec. (d).
+<b>1983</b>—Subsec. (d). Pub. L. 97–424 added subsec. (d).
 
-1978—Pub. L. 95–599 designated existing provisions as subsecs. (a) and (b) and added subsec. (c).
+<b>1978</b>—Pub. L. 95–599 designated existing provisions as subsecs. (a) and (b) and added subsec. (c).
 
 #### Effective Date of 1995 Amendment
 

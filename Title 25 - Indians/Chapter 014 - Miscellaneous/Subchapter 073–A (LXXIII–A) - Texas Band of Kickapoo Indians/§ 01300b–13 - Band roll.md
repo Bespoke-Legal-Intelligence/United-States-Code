@@ -6,7 +6,7 @@ Within one year of January 8, 1983, the Secretary shall, after consultation with
 
 #### (b) Report to Congress
 
-If the Secretary does not compile the roll within the period prescribed in subsection (a) of this section, he shall submit a report to Congress setting forth the reasons he did not do so.
+If the Secretary does not compile the roll within the period prescribed in subsection (a) ofthis section, he shall submit a report to Congress setting forth the reasons he did not do so.
 
 #### (c) Citizenship for applicants
 

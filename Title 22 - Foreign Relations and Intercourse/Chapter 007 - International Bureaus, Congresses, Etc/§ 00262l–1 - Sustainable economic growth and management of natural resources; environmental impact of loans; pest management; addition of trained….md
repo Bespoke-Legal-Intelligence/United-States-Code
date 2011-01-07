@@ -10,7 +10,7 @@ It is the policy of the United States that participation in international financ
 
 &emsp;(3) fully inform and involve host country environmental and health officials (Federal and local) and nongovernmental environmental and indigenous peoples organizations at all stages of the project cycle in environmentally sensitive projects as well as in policy based lending to ensure the active participation of local communities and non-governmental organizations in the planning of projects that may adversely affect them;
 
-&emsp;(4) substantially increase the proportion of lending supporting environmentally beneficial projects and project components, including but not limited to technical assistance for environmental ministries and institutions, resource rehabilitation projects and project components, protection of indigenous peoples, and appropriate light capital technology projects. Other examples of such projects include small scale mixed farming and multiplecropping, agroforestry, programs to promote kitchen gardens, watershed management and rehabilitation, high yield wood lots, integrated pest management systems, dune stabilization programs, programs to improve energy efficiency, energy efficient technologies such as small scale hydro projects, solar, wind and biomass energy systems, rural and mobile telecommunications systems, and improved efficiency and management of irrigation systems; and
+&emsp;(4) substantially increase the proportion of lending supporting environmentally beneficial projects and project components, including but not limited to technical assistance for environmental ministries and institutions, resource rehabilitation projects and project components, protection of indigenous peoples, and appropriate light capital technology projects. Other examples of such projects include small scale mixed farming and multiple cropping, agroforestry, programs to promote kitchen gardens, watershed management and rehabilitation, high yield wood lots, integrated pest management systems, dune stabilization programs, programs to improve energy efficiency, energy efficient technologies such as small scale hydro projects, solar, wind and biomass energy systems, rural and mobile telecommunications systems, and improved efficiency and management of irrigation systems; and
 
 &emsp;(5) conduct analyses of the comparative costs of new generating facilities with the cost of increasing energy efficiency in the project service area.
 
@@ -46,7 +46,7 @@ The Secretary of the Treasury and the Secretary of State, in cooperation with th
 
 The Administrator of the Agency for International Development, in consultation with the Secretaries of Treasury and State, shall continue, and work to enhance, the operation of the “early warning system”, by—
 
-&emsp;(1) instructing overseas missions of the Agency for International Development and embassies of the United States to analyze the impacts of Multilateral Development Bank loans well in advance of a loan's approval. Such reviews shall address the economic viability of the project; adverse impacts on the environment, natural resources, public health, and indigenous peoples; and recommendations as to measures, including alternatives, that could eliminate or mitigate adverse impacts. If not classified under the national security system of classification, such information shall be made available to the public;
+&emsp;(1) instructing overseas missions of the Agency for International Development and embassies of the United States to analyze the impacts of Multilateral Development Bank loans well in advance of a loan's approval. Such reviews shall address the economic viability of the project; adverse impacts on the environment, natural resources, public health,and indigenous peoples; and recommendations as to measures, including alternatives, that could eliminate or mitigate adverse impacts. If not classified under the national security system of classification, such information shall be made available to the public;
 
 &emsp;(2) compiling a list of proposed Multilateral Development Bank loans likely to have adverse impacts on the environment, natural resources, public health, or indigenous peoples. The list shall contain the information identified in paragraph (1), shall be updated in consultation with interested members of the public, and shall be made available to the Committees on Appropriations by April 1, 1988 and semiannually thereafter; and
 
@@ -80,5 +80,5 @@ Section was formerly classified to section 262<i>l</i> of this title.
 
 #### Amendments
 
-1989—Subsec. (c). Pub. L. 101–240 struck out subsec. (c) which related to “debt for conservation” initiatives.
+<b>1989</b>—Subsec. (c). Pub. L. 101–240 struck out subsec. (c) which related to “debt for conservation” initiatives.
 

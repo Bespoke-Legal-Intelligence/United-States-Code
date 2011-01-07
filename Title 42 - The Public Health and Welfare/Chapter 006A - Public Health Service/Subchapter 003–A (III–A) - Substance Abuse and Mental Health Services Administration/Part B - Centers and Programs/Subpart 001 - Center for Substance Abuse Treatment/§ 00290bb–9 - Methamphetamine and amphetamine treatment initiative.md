@@ -24,7 +24,7 @@ The Director shall—
 
 &emsp;(1) evaluate the activities supported by grants under subsection (a) of this section;
 
-&emsp;(2) disseminate widely such significant information derived from the evaluation as the Director considers appropriate to assist States, Indian tribes, and private providers of treatment services for methamphetamine or amphetamine abuser or addiction in the treatment of methamphetamine or amphetamine abuse or addiction; and
+&emsp;(2) disseminate widely such significant information derived from the evaluation as the Director considers appropriate to assist States,Indian tribes, and private providers of treatment services for methamphetamine or amphetamine abuser or addiction in the treatment of methamphetamine or amphetamine abuse or addiction; and
 
 &emsp;(3) provide States, Indian tribes, and such providers with technical assistance in connection with the provision of such treatment.
 

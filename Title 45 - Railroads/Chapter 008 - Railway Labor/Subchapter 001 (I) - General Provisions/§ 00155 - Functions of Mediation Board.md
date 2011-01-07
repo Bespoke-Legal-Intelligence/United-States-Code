@@ -22,7 +22,7 @@ In any case in which a controversy arises over the meaning or the application of
 
 The Mediation Board shall have the following duties with respect to the arbitration of disputes under section 157 of this title:
 
-(a) On failure of the arbitrators named by the parties to agree on the remaining arbitrator or arbitrators within the time set by section 157 of this title, it shall be the duty of the Mediation Board to name such remaining arbitrator or arbitrators. It shall be the duty of the Board in naming such arbitrator or arbitrators to appoint only those whom the Board shall deem wholly disinterested in the controversy to be arbitrated and impartial and without bias as between the parties to such arbitration. Should, however, the Board name an arbitrator or arbitrators not so disinterested and impartial, then, upon proper investigation and presentation of the facts, the Board shall promptly remove such arbitrator.
+(a) On failure of the arbitrators named by the parties to agree on the remaining arbitrator or arbitrators within the time set by section 157 ofthis title, it shall be the duty of the Mediation Board to name such remaining arbitrator or arbitrators. It shall be the duty of the Board in naming such arbitrator or arbitrators to appoint only those whom the Board shall deem wholly disinterested in the controversy to be arbitrated and impartial and without bias as between the parties to such arbitration. Should, however, the Board name an arbitrator or arbitrators not so disinterested and impartial, then, upon proper investigation and presentation of the facts, the Board shall promptly remove such arbitrator.
 
 If an arbitrator named by the Mediation Board, in accordance with the provisions of this chapter, shall be removed by such Board as provided by this chapter, or if such an arbitrator refuses or is unable to serve, it shall be the duty of the Mediation Board, promptly, to select another arbitrator, in the same manner as provided in this chapter for an original appointment by the Mediation Board.
 
@@ -44,5 +44,5 @@ As originally enacted, par. Third (b) contained a reference to the “circuit co
 
 #### Amendments
 
-1934—Act June 21, 1934, amended generally par. First and par. Second, (e) and (f).
+<b>1934</b>—Act June 21, 1934, amended generally par. First and par. Second, (e) and (f).
 

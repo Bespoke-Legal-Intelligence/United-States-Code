@@ -6,11 +6,13 @@ The Secretary may award grants to States and Indian tribes (as defined in sectio
 
 #### (b) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated $19,500,000 for fiscal year 2002, and such sums as may be necessary for each of the fiscal years 2003 through 2006.
+For the purpose of carrying out this section, there are authorized to be appropriated $19,500,000 for fiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2015.
 
-(July 1, 1944, ch. 373, title III, §317R, as added Pub. L. 107–188, title III, §312, June 12, 2002, 116 Stat. 674; amended Pub. L. 108–75, §2(1), Aug. 15, 2003, 117 Stat. 898.)
+(July 1, 1944, ch. 373, title III, §317R, as added Pub. L. 107–188, title III, §312, June 12, 2002, 116 Stat. 674; amended Pub. L. 108–75, §2(1), Aug. 15, 2003, 117 Stat. 898; Pub. L. 111–353, title II, §205(d), Jan. 4, 2011, 124 Stat. 3939.)
 
 #### Amendments
 
-2003—Pub. L. 108–75 made technical amendment relating to placement of section within original act.
+<b>2011</b>—Subsec. (b). Pub. L. 111–353 substituted “2010” for “2002” and “2011 through 2015” for “2003 through 2006”.
+
+<b>2003</b>—Pub. L. 108–75 made technical amendment relating to placement of section within original act.
 

@@ -30,7 +30,7 @@ In this chapter:
 
 #### (5) Land use regulation
 
-&emsp;The term “land use regulation” means a zoning or landmarking law, or the application of such a law, that limits or restricts a claimant's use or development of land (including a structure affixed to land), if the claimant has an ownership, leasehold, easement, servitude, or other property interest in the regulated land or a contract or option to acquire such an interest.
+&emsp;The term “land use regulation” means a zoning or landmarking law, or the applicationof such a law, that limits or restricts a claimant's use or development of land (including a structure affixed to land), if the claimant has an ownership, leasehold, easement, servitude, or other property interest in the regulated land or a contract or option to acquire such an interest.
 
 #### (6) Program or activity
 
@@ -47,4 +47,8 @@ In this chapter:
 &emsp;&emsp;The use, building, or conversion of real property for the purpose of religious exercise shall be considered to be religious exercise of the person or entity that uses or intends to use the property for that purpose.
 
 (Pub. L. 106–274, §8, Sept. 22, 2000, 114 Stat. 806.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 106–274, Sept. 22, 2000, 114 Stat. 803, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2000cc of this title and Tables.
 

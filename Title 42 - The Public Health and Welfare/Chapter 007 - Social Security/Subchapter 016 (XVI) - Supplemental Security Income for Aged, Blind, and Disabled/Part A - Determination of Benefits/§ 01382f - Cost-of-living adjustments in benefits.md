@@ -10,7 +10,7 @@ Whenever benefit amounts under subchapter II of this chapter are increased by an
 
 &emsp;&emsp;(B) the amount in effect for such month under such subsection; and
 
-&emsp;(2) the amount obtained under paragraph (1) with respect to each subsection shall be further increased by the same percentage by which benefit amounts under subchapter II of this chapter are increased for such month, or, if greater (in any case where the increase under subchapter II of this chapter was determined on the basis of the wage increase percentage rather than the CPI increase percentage), the percentage by which benefit amounts under subchapter II of this chapter would be increased for such month if the increase had been determined on the basis of the CPI increase percentage, (and rounded, when not a multiple of $12, to the next lower multiple of $12), effective with respect to benefits for months after such month.
+&emsp;(2) the amount obtained under paragraph (1) with respect to each subsection shall be further increased by the same percentage by which benefit amounts under subchapter II ofthis chapter are increased for such month, or, if greater (in any case where the increase under subchapter II of this chapter was determined on the basis of the wage increase percentage rather than the CPI increase percentage), the percentage by which benefit amounts under subchapter II of this chapter would be increased for such month if the increase had been determined on the basis of the CPI increase percentage, (and rounded, when not a multiple of $12, to the next lower multiple of $12), effective with respect to benefits for months after such month.
 
 #### (b) Publication in Federal Register of new dollar amounts
 
@@ -32,13 +32,13 @@ Section 211 of Public Law 93–66, referred to in subsecs. (a)(1), (b), and (c)(
 
 #### Amendments
 
-1983—Subsec. (a)(2). Pub. L. 98–21, §401(b), inserted provision that the amount obtained under par. (1) with respect to each subsection shall be further increased by the percentage by which benefit amounts under subchapter II of this chapter would be increased for such month if the increase had been determined on the basis of the CPI increase percentage, if greater, in any case where the increase under subchapter II of this chapterwas determined on the basis of the wage increase percentage rather than the CPI increase percentage.
+<b>1983</b>—Subsec. (a)(2). Pub. L. 98–21, §401(b), inserted provision that the amount obtained under par. (1) with respect to each subsection shall be further increased by the percentage by which benefit amounts under subchapter II of this chapter would be increased for such month if the increase had been determined on the basis of the CPI increase percentage, if greater, in any case where the increase under subchapter II of this chapter was determined on the basis of the wage increase percentage rather than the CPI increase percentage.
 
 Subsec. (b). Pub. L. 98–21, §401(a)(2), substituted “subsection (a) of this subsection” for “this section”.
 
 Subsec. (c). Pub. L. 98–21, §401(a)(1), added subsec. (c).
 
-1982—Pub. L. 97–248 redesignated existing provisions as subsec. (a), revised method of computation into pars. (1) and (2) and among other changes increased base for rounding-off from a multiple of $1.20 to a multiple of $12.00, and struck out provisions relating to publication of increased dollar amounts in the Federal Register, and added subsec. (b).
+<b>1982</b>—Pub. L. 97–248 redesignated existing provisions as subsec. (a), revised method of computation into pars. (1) and (2) and among other changes increased base for rounding-off from a multiple of $1.20 to a multiple of $12.00, and struck out provisions relating to publication of increased dollar amounts in the Federal Register, and added subsec. (b).
 
 #### Effective Date of 1982 Amendment
 

@@ -36,13 +36,13 @@ The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to i
 
 #### Amendments
 
-1998—Pub. L. 105–185 inserted section catchline, added subsec. (a), and struck out former subsec. (a) which read as follows:
+<b>1998</b>—Pub. L. 105–185 inserted section catchline, added subsec. (a), and struck out former subsec. (a) which read as follows:
 
 “(1) Congress finds that scientific discoveries and technological advances must be made and applied to support the protection, management, and utilization of the Nation's renewable resources. It is the purpose of this subchapter to authorize the Secretary of Agriculture (hereinafter in this subchapter referred to as the ‘Secretary’) to implement a comprehensive program of forest and rangeland renewable resources research and dissemination of the findings of such research.
 
 “(2) Congress further finds that the forest and rangeland renewable resources of the world are threatened by deforestation due to conversion to agriculture of lands better suited to other uses, over-grazing, over-harvesting, and other causes that pose a direct adverse threat to people, the global environment, and the world economy.”
 
-1990—Subsecs. (a), (c). Pub. L. 101–513 designated existing provisions of subsec. (a) as par. (1), added par. (2), and added subsec. (c).
+<b>1990</b>—Subsecs. (a), (c). Pub. L. 101–513 designated existing provisions of subsec. (a) as par. (1), added par. (2), and added subsec. (c).
 
 #### Effective Date
 

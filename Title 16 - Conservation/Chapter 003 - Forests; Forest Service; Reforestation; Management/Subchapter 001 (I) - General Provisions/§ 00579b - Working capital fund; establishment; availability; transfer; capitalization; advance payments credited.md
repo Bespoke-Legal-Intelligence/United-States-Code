@@ -6,5 +6,5 @@ There is established a working capital fund which shall be available without fis
 
 #### Amendments
 
-1962—Pub. L. 87–869 struck out the $25,000,000 limitation on amount of capitalization in Forest Service working capital fund.
+<b>1962</b>—Pub. L. 87–869 struck out the $25,000,000 limitation on amount of capitalization in Forest Service working capital fund.
 

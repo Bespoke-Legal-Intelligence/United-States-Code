@@ -6,7 +6,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### (b) Comprehensive plan for visitor use and overnight visitor facilities; development, implementation, etc.; authorization of appropriations
 
-The Secretary shall, in cooperation with other Federal, State, and local governmental entities and private entities experienced in the fields of outdoor recreation and visitor services, develop and implement a comprehensive plan for visitor use and overnight visitor facilities for the park. The plan shall set forth methods of achieving an appropriate level and type of visitation in order that the resources of the park and its environs may be interpreted for, and used and enjoyed by, the public in a manner consistent with the purposes for which the park was established. Suchplan may include appropriate informational and educational messages and materials. In the development and implementation of such plan the Secretary may expend funds donated or appropriated for the purposes of this subsection. Effective October 1, 1983, there is authorized to be appropriated for the purposes of this subsection not to exceed $250,000, to remain available until expended.
+The Secretary shall, in cooperation with other Federal, State, and local governmental entities and private entities experienced in the fields of outdoor recreation and visitor services, develop and implement a comprehensive plan for visitor use and overnight visitor facilities for the park. The plan shall set forth methods of achieving an appropriate level and type of visitation in order that the resources of the park and its environs may be interpreted for, and used and enjoyed by, the public in a manner consistent with the purposes for which the park was established. Such plan may include appropriate informational and educational messages and materials. In the development and implementation of such plan the Secretary may expend funds donated or appropriated for the purposes of this subsection. Effective October 1, 1983, there is authorized to be appropriated for the purposes of this subsection not to exceed $250,000, to remain available until expended.
 
 #### (c) Existing road access; study and report; authorization of appropriations
 
@@ -20,7 +20,7 @@ For purposes of section 460<i>l</i>–9(a)(3) of this title, the statutory ceili
 
 #### Amendments
 
-1983—Pub. L. 97–405 designated existing provisions as subsec. (a), substituted “$38,314,000” for “$26,014,000”, and added subsecs. (b) to (d).
+<b>1983</b>—Pub. L. 97–405 designated existing provisions as subsec. (a), substituted “$38,314,000” for “$26,014,000”, and added subsecs. (b) to (d).
 
 #### Change of Name
 

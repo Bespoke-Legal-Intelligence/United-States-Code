@@ -24,7 +24,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-140501D36:821.DAug. 26, 1958, Pub. L. 85–761, §§1, 2, 4(1), 72 Stat. 854, 856.
+140501
+
+36:821.
+
+Aug. 26, 1958, Pub. L. 85–761, §§1, 2, 4(1), 72 Stat. 854, 856.
 
 &nbsp;
 

@@ -4,7 +4,7 @@
 
 In order to maintain existing conformity between the Civil Service Retirement and Disability System under subchapter III of chapter 83 of title 5, and the Foreign Service Retirement and Disability System, whenever a law of general applicability is enacted which—
 
-&emsp;(1) affects the treatment of current or former participants, annuitants, or survivors under the Civil Service Retirement and Disability System; and
+&emsp;(1) affects the treatment of current or former participants, annuitants, or survivorsunder the Civil Service Retirement and Disability System; and
 
 &emsp;(2) affects treatment which, immediately prior to the enactment of such law, was substantially identical to the treatment accorded to participants, former participants, annuitants, or survivors under the Foreign Service Retirement and Disability System;
 
@@ -26,7 +26,7 @@ The President shall maintain, under the same conditions and in the same manner a
 
 #### Amendments
 
-1986—Subsec. (c). Pub. L. 99–335 added subsec. (c).
+<b>1986</b>—Subsec. (c). Pub. L. 99–335 added subsec. (c).
 
 #### Effective Date of 1986 Amendment
 
@@ -38,7 +38,7 @@ Pub. L. 102–54, §13(h)(2), June 13, 1991, 105 Stat. 275, provided that: “An
 
 #### Construction of Section With Civil Service Retirement Spouse Equity Act of 1984
 
-This section not applicable with respect to either the amendments made by section 2 of Pub. L. 98–615 or the provisions of section 4 of Pub. L. 98–615 relating to equitable treatment under the Civil Service Retirement System for former spouses, except that, notwithstanding section 4(h) of Pub. L. 98–615, this section applicable with respect to sections 8339(j) and 8341(e) and (h) ofTitle 5, Government Organization and Employees, and section 4 (except subsec. (b)) of Pub. L. 98–615 to the extent that those sections apply to a qualified former wife or husband, see section 4069–1 of this title and section 4(h) of Pub. L. 98–615, set out as an Effective Date of 1984 Amendment note under section 8341 of Title 5.
+This section not applicable with respect to either the amendments made by section 2 of Pub. L. 98–615 or the provisions of section 4 of Pub. L. 98–615 relating to equitable treatment under the Civil Service Retirement System for former spouses, except that, notwithstanding section 4(h) of Pub. L. 98–615, this section applicable with respect to sections 8339(j) and 8341(e) and (h) of Title 5, Government Organization and Employees, and section 4 (except subsec. (b)) of Pub. L. 98–615 to the extent that those sections apply to a qualified former wife or husband, see section 4069–1 of this title and section 4(h) of Pub. L. 98–615, set out as an Effective Date of 1984 Amendment note under section 8341 of Title 5.
 
 #### Recommendations by Secretary of State to President
 
@@ -68,7 +68,7 @@ Sec. 3. The amendments to be deemed made by this Order shall take effect as of F
 
 Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, provided:
 
-By the authority vested in me as President of the United States of America by Section 827 of the Foreign Service Act of 1980 (22 U.S.C. 4067) (hereafter referred to as “the Act” \[this chapter\]), and in order to conform further the Foreign Service Retirement and Disability System to the Civil Service Retirement and Disability System, it is hereby ordered as follows:
+By the authority vested in me as President of the United States of America by Section 827 of the ForeignService Act of 1980 (22 U.S.C. 4067) (hereafter referred to as “the Act” \[this chapter\]), and in order to conform further the Foreign Service Retirement and Disability System to the Civil Service Retirement and Disability System, it is hereby ordered as follows:
 
 Section 1. <i>Interest Rates, Deposits, Refunds, and Redeposits</i>. (a) The second sentence of Section 805(d)(3) of the Act (22 U.S.C. 4045(d)(3)), the first sentence of Section 815(h) (22 U.S.C. 4055(h)), and the first sentence of Section 825(a) (22 U.S.C. 4065(a)), are deemed to be amended to provide that interest shall be compounded at at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 819 \[22 U.S.C. 4059\], as determined by the Secretary of the Treasury.
 
@@ -198,7 +198,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13105, Nov. 2, 1998, 63 F.R. 60201, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 827 of the Foreign Service Act of 1980 (22 U.S.C. 4067) and section 292 of the Central Intelligence Agency Retirement Act of 1964 (50 U.S.C. 2141), and in order to conform further the Foreign Service Retirement and Disability System and the Central Intelligence Agency Retirement and Disability System to the Civil Service Retirement and Disability System, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 827 of the Foreign Service Act of 1980 (22 U.S.C. 4067) and section 292 of the Central Intelligence Agency Retirement Act of 1964 (50 U.S.C.2141), and in order to conform further the Foreign Service Retirement and Disability System and the Central Intelligence Agency Retirement and Disability System to the Civil Service Retirement and Disability System, it is hereby ordered as follows:
 
 Section 1. In conjunction with section 860 of the Foreign Service Act of 1980 (22 U.S.C. 4071i), the Secretary of State shall issue regulations providing for an open enrollment period from November 1, 1998, to April 30, 1999, during which employee participants in the Foreign Service Retirement and Disability System may elect to become subject to the Foreign Service Pension System.
 

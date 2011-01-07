@@ -50,9 +50,9 @@ Section 306(a)(1) of the Federal Election Campaign Act of 1971, referred to in p
 
 #### Amendments
 
-2007—Par. (3). Pub. L. 110–172 substituted “section 306(a)(1)” for “section 309(a)(1)”.
+<b>2007</b>—Par. (3). Pub. L. 110–172 substituted “section 306(a)(1)” for “section 309(a)(1)”.
 
-1976—Par. (2). Pub. L. 94–283, §306(b)(1), inserted provision that “candidate” shall not include any individual who is not actively conducting campaigns in more than one State in connection with seeking nomination for election to be President of the United States.
+<b>1976</b>—Par. (2). Pub. L. 94–283, §306(b)(1), inserted provision that “candidate” shall not include any individual who is not actively conducting campaigns in more than one State in connection with seeking nomination for election to be President of the United States.
 
 Par. (3). Pub. L. 94–283, §115(c)(2), substituted “309(a)(1)” for “310(a)(1)”.
 

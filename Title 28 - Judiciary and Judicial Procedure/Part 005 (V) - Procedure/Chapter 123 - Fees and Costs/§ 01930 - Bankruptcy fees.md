@@ -16,7 +16,7 @@
 
 &emsp;(5) For a case commenced under chapter 12 of title 11, $200.
 
-&emsp;(6) In addition to the filing fee paid to the clerk, a quarterly fee shall be paid to the United States trustee, for deposit in the Treasury, in each case under chapter 11 of title 11 for each quarter (including any fraction thereof) until the case is converted or dismissed, whichever occurs first. The fee shall be $325 for each quarter in which disbursements total less than $15,000; $650 for each quarter in which disbursements total $15,000 or more but less than $75,000; $975 for each quarter in which disbursements total $75,000 or more but less than $150,000; $1,625 for each quarter in which disbursements total $150,000 or more but less than $225,000; $1,950 for each quarter in which disbursements total $225,000 or more but less than $300,000; $4,875 for each quarter in which disbursements total $300,000 or more but less than $1,000,000; $6,500 for each quarter in which disbursements total $1,000,000 or more but less than $2,000,000; $9,750 for each quarter in which disbursements total $2,000,000 or more but less than $3,000,000; $10,400 for each quarter in which disbursements total $3,000,000 or more but less than $5,000,000; $13,000 for each quarter in which disbursements total $5,000,000 or more but less than $15,000,000; $20,000 for each quarter in which disbursements total $15,000,000 or more but less than $30,000,000; $30,000 for each quarter in which disbursements total more than $30,000,000. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.
+&emsp;(6) In addition to the filing fee paid to the clerk, a quarterly fee shall be paid to the United States trustee, for deposit in the Treasury, in each case under chapter 11 of title 11 for each quarter (including any fraction thereof) until the case is converted or dismissed, whichever occurs first. The fee shall be $325 for each quarter in which disbursements total less than $15,000; $650 for each quarter in which disbursements total $15,000 or more but less than $75,000; $975 for each quarter in which disbursements total $75,000 or more but less than $150,000; $1,625 for each quarter in which disbursements total $150,000 or more but less than $225,000; $1,950 for each quarter in which disbursements total $225,000 or more but less than $300,000; $4,875 for each quarter in which disbursements total $300,000 or more but less than $1,000,000; $6,500 for each quarter in which disbursements total $1,000,000 or more but less than $2,000,000; $9,750 for each quarter in which disbursements total $2,000,000 or more but less than $3,000,000; $10,400 for each quarter inwhich disbursements total $3,000,000 or more but less than $5,000,000; $13,000 for each quarter in which disbursements total $5,000,000 or more but less than $15,000,000; $20,000 for each quarter in which disbursements total $15,000,000 or more but less than $30,000,000; $30,000 for each quarter in which disbursements total more than $30,000,000. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.
 
 &emsp;(7) In districts that are not part of a United States trustee region as defined in section 581 of this title, the Judicial Conference of the United States may require the debtor in a case under chapter 11 of title 11 to pay fees equal to those imposed by paragraph (6) of this subsection. Such fees shall be deposited as offsetting receipts to the fund established under section 1931 of this title and shall remain available until expended.
 
@@ -50,13 +50,13 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-2007—Subsec. (a)(6). Pub. L. 110–161 substituted last two sentences for former last two sentences which read as follows: “The fee shall be $250 for each quarter in which disbursements total less than $15,000; $500 for each quarter in which disbursements total $15,000 or more but less than $75,000; $750 for each quarter in which disbursements total $75,000 or more but less than $150,000; $1,250 for each quarter in which disbursements total $150,000 or more but less than $225,000; $1,500 for each quarter in which disbursements total $225,000 or more but less than $300,000; $3,750 for each quarter in which disbursements total $300,000 or more but less than $1,000,000; $5,000 for each quarter in which disbursements total $1,000,000 or more but less than $2,000,000; $7,500 for each quarter in which disbursements total $2,000,000 or more but less than $3,000,000; $8,000 for each quarter in which disbursements total $3,000,000 or more but less than $5,000,000; $10,000 for each quarter in which disbursements total $5,000,000 or more. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.”
+<b>2007</b>—Subsec. (a)(6). Pub. L. 110–161 substituted last two sentences for former last two sentences which read as follows: “The fee shall be $250 for each quarter in which disbursements total less than $15,000; $500 for each quarter in which disbursements total $15,000 or more but less than $75,000; $750 for each quarter in which disbursements total $75,000 or more but less than $150,000; $1,250 for each quarter in which disbursements total $150,000 or more but less than $225,000; $1,500 for each quarter in which disbursements total $225,000 or more but less than $300,000; $3,750 for each quarter in which disbursements total $300,000 or more but less than $1,000,000; $5,000 for each quarter in which disbursements total $1,000,000 or more but less than $2,000,000; $7,500 for each quarter in which disbursements total $2,000,000 or more but less than $3,000,000; $8,000 for each quarter in which disbursements total $3,000,000 or more but less than $5,000,000; $10,000 for each quarter in which disbursements total $5,000,000 or more. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.”
 
-2006—Subsec. (a)(1). Pub. L. 109–171, §10101(a)(1), substituted “$245” for “$220” in subpar. (A) and “$235” for “$150” in subpar. (B).
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–171, §10101(a)(1), substituted “$245” for “$220” in subpar. (A) and “$235” for “$150” in subpar. (B).
 
 Subsec. (a)(2). Pub. L. 109–171, §10101(a)(2), which directed substitution of “$2,750” for “$1,000” in par. (2), could not be executed because “$1,000” does not appear in par. (2).
 
-2005—Subsec. (a). Pub. L. 109–8, §418(1), substituted “The parties” for “Notwithstanding section 1915 of this title, the parties” in introductory provisions.
+<b>2005</b>—Subsec. (a). Pub. L. 109–8, §418(1), substituted “The parties” for “Notwithstanding section 1915 of this title, the parties” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 109–8, §325(a)(1), as amended by Pub. L. 109–13, added par. (1) and struck out former par. (1), which read as follows: “For a case commenced under chapter 7 or 13 of title 11, $155.”
 
@@ -64,31 +64,31 @@ Subsec. (a)(3). Pub. L. 109–8, §325(a)(2), as amended by Pub. L. 109–13, su
 
 Subsec. (f). Pub. L. 109–8, §418(2), added subsec. (f).
 
-2000—Subsec. (a). Pub. L. 106–518, §104, substituted “the amount equal to the difference between the fee specified in paragraph (3) and the fee specified in paragraph (1)” for “$400” in concluding provisions.
+<b>2000</b>—Subsec. (a). Pub. L. 106–518, §104, substituted “the amount equal to the difference between the fee specified in paragraph (3) and the fee specified in paragraph (1)” for “$400” in concluding provisions.
 
 Subsec. (a)(2). Pub. L. 106–518, §103, substituted “equal to the fee specified in paragraph (3) for filing a case under chapter 11 of title 11. The amount by which the fee payable under this paragraph exceeds $300 shall be deposited in the fund established under section 1931 of this title” for “$300”.
 
 Subsec. (a)(7). Pub. L. 106–518, §105, which directed amendment of subsec. (a) by adding par. (7) at end, was executed by adding par. (7) after par. (6) and before concluding provisions to reflect the probable intent of Congress.
 
-1999—Subsec. (a)(1). Pub. L. 106–113 substituted “$155” for “$130”.
+<b>1999</b>—Subsec. (a)(1). Pub. L. 106–113 substituted “$155” for “$130”.
 
-1996—Subsec. (a)(3). Pub. L. 104–208 inserted a dollar sign before “800”.
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–208 inserted a dollar sign before “800”.
 
 Subsec. (a)(6). Pub. L. 104–208 substituted “$500 for each quarter in which disbursements total $15,000 or more but less than $75,000; $750 for each quarter in which disbursements total $75,000 or more but less than $150,000; $1,250 for each quarter in which disbursements total $150,000 or more but less than $225,000; $1,500 for each quarter in which disbursements total $225,000 or more but less than $300,000; $3,750 for each quarter in which disbursements total $300,000 or more but less than $1,000,000; $5,000 for each quarter in which disbursements total $1,000,000 or more but less than $2,000,000; $7,500 for each quarter in which disbursements total $2,000,000 or more but less than $3,000,000; $8,000 for each quarter in which disbursements total $3,000,000 or more but less than $5,000,000; $10,000 for each quarter in which disbursements total $5,000,000 or more. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.” for “$500 for each quarter in which disbursements total $15,000 or more but less than $150,000; $1,250 or each quarter in which disbursements total $150,000 or more but less than $300,000; $3,750 for each quarter in which disbursements total $300,000 or more but less than $3,000,000; $5,000 for each quarter in which disbursements total $3,000,000 or more. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.”
 
 Pub. L. 104–91, as amended by Pub. L. 104–99, struck out “a plan is confirmed or” before “the case is converted”.
 
-1993—Subsec. (a)(1). Pub. L. 103–121, §111(a)(1), substituted “$130” for “$120”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–121, §111(a)(1), substituted “$130” for “$120”.
 
 Subsec. (a)(3). Pub. L. 103–81, §111(b)(1), substituted “800” for “$600”.
 
-1991—Subsec. (a)(3). Pub. L. 102–140, §111(a)(1), substituted “$600” for “$500”.
+<b>1991</b>—Subsec. (a)(3). Pub. L. 102–140, §111(a)(1), substituted “$600” for “$500”.
 
 Subsec. (a)(6). Pub. L. 102–140, §111(a)(2), substituted “$250” for “$150”, “$500” for “$300”, “$1,250” for “$750”, “$3,750” for “$2,250”, and “$5,000” for “$3,000”.
 
-1989—Subsec. (a)(1). Pub. L. 101–162 substituted “$120” for “$90”.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–162 substituted “$120” for “$90”.
 
-1986—Subsec. (a). Pub. L. 99–554, §§117(5), 144(f), in introductory and closing provisions, substituted “of the district court or the clerk of the bankruptcy court, if one has been certified pursuant to section 156(b) of this title” for “of the court”, and in closing provisions, inserted provision that for conversion, on request of the debtor, of a case under chapter 7 or 13 of title 11, to a case under chapter 11 of title 11, the debtor pay to the clerk of the court a fee of $400.
+<b>1986</b>—Subsec. (a). Pub. L. 99–554, §§117(5), 144(f), in introductory and closing provisions, substituted “of the district court or the clerk of the bankruptcy court, if one has been certified pursuant to section 156(b) of this title” for “of the court”, and in closing provisions, inserted provision that for conversion, on request of the debtor, of a case under chapter 7 or 13 of title 11, to a case under chapter 11 of title 11, the debtor pay to the clerk of the court a fee of $400.
 
 Subsec. (a)(1). Pub. L. 99–500 and Pub. L. 99–591, Pub. L. 99–554, §117(1), amended par. (1) identically substituting “$90” for “$60”.
 
@@ -98,7 +98,7 @@ Subsec. (a)(4). Pub. L. 99–554, §117(3), substituted “$1,000” for “$500
 
 Subsec. (a)(5), (6). Pub. L. 99–554, §117(4), added pars. (5) and (6).
 
-1984—Pub. L. 98–353, §111(b), substituted “fees” for “courts” in section catchline.
+<b>1984</b>—Pub. L. 98–353, §111(b), substituted “fees” for “courts” in section catchline.
 
 Subsecs. (a), (c), (e). Pub. L. 98–353, §111(a), substituted “clerk of the court” for “clerk of the bankruptcy court”.
 

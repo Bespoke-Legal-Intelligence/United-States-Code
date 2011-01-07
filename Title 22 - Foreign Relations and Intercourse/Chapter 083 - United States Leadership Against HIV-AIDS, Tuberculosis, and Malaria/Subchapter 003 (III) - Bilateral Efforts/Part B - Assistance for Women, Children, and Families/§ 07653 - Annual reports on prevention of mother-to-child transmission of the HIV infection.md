@@ -28,7 +28,7 @@ In this section, the term “reporting period” means, in the case of the initi
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–293 substituted “10 years” for “5 years”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–293 substituted “10 years” for “5 years”.
 
 #### Delegation of Functions
 

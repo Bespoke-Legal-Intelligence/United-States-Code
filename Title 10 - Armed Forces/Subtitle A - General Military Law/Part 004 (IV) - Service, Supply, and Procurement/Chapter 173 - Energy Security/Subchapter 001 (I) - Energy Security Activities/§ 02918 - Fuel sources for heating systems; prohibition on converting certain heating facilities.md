@@ -14,15 +14,15 @@
 
 #### Amendments
 
-2006—Pub. L. 109–364 renumbered section 2690 of this title as this section.
+<b>2006</b>—Pub. L. 109–364 renumbered section 2690 of this title as this section.
 
-1997—Subsec. (b). Pub. L. 105–85 substituted “unless the Secretary determines that the conversion—” for “unless the Secretary—” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
+<b>1997</b>—Subsec. (b). Pub. L. 105–85 substituted “unless the Secretary determines that the conversion—” for “unless the Secretary—” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
 
 “(1) determines that the conversion (A) is required by the government of the country in which the facility is located, or (B) is cost effective over the life cycle of the facility; and
 
 “(2) submits to Congress notification of the proposed conversion and a period of 30 days has elapsed following the date on which Congress receives the notice.”
 
-1986—Pub. L. 99–661 substituted “Fuel sources for heating systems; prohibition on converting certain heating facilities” for “Restriction on fuel sources for new heating systems” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1986</b>—Pub. L. 99–661 substituted “Fuel sources for heating systems; prohibition on converting certain heating facilities” for “Restriction on fuel sources for new heating systems” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) Except as provided in subsection (b), a new heating system that requires a heat input rate of fifty million British thermal units per hour or more and that uses oil or gas (or a derivative of oil or gas) as fuel may not be constructed on lands under the jurisdiction of a military department.
 

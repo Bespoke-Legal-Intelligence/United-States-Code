@@ -28,7 +28,7 @@ In connection with this demonstration, the Secretary of Housing and Urban Develo
 
 #### (3) Calculation of match
 
-&emsp;In determining compliance with paragraph (1)(B), an agency may include the value of such items as the Secretary determines to be appropriate, which may include the salary paid to staff to provide supportive services, ifsuch items have a readily discernible market value.
+&emsp;In determining compliance with paragraph (1)(B), an agency may include the value of such items as the Secretary determines to be appropriate, which may include the salary paid to staff to provide supportive services, if such items have a readily discernible market value.
 
 #### (d) Applications
 
@@ -104,7 +104,7 @@ For purposes of this section:
 
 &emsp;(2) The term “elderly person” means a person who is at least 62 years of age.
 
-&emsp;(3) The term “frail elderly person” means an elderly person who is unable to perform at least 3 activities of daily living adopted by the Secretary for purposes of this program. Owners may establish additional eligibility requirements (acceptable to the Secretary)based on the standards in local supportive services programs.
+&emsp;(3) The term “frail elderly person” means an elderly person who is unable to perform at least 3 activities of daily living adopted by the Secretary for purposes of this program. Owners may establish additional eligibility requirements (acceptable to the Secretary) based on the standards in local supportive services programs.
 
 &emsp;(4) The term “professional assessment committee” means a group of at least 3 persons appointed by a public housing agency which shall include at least 1 qualified medical professional and other persons professionally competent to appraise the functional abilities of the frail elderly in relation to the performance of activities of daily living.
 
@@ -168,7 +168,7 @@ The budget authority available under section 1437c(c) of this title for assistan
 
 #### (k) Funding for services
 
-There are authorized to be appropriated for the Secretary to carry out the responsibilities for supportive services under the demonstrations under this section $10,000,000 to becomeavailable in fiscal year 1993, and $10,420,000 to become available in fiscal year 1994. Any such amounts appropriated under this subsection shall remain available until expended.
+There are authorized to be appropriated for the Secretary to carry out the responsibilities for supportive services under the demonstrations under this section $10,000,000 to become available in fiscal year 1993, and $10,420,000 to become available in fiscal year 1994. Any such amounts appropriated under this subsection shall remain available until expended.
 
 #### (<i>l</i>) Implementation
 
@@ -188,7 +188,7 @@ Section was enacted as part of the Cranston-Gonzalez National Affordable Housing
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–550, §605(c)(1), substituted “determined by the Secretary” for “beginning on November 28, 1990”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–550, §605(c)(1), substituted “determined by the Secretary” for “beginning on November 28, 1990”.
 
 Subsec. (g)(1). Pub. L. 102–550, §605(c)(2), added par. (1) and struck out former par. (1) which read as follows: “The term ‘demonstration period’ means the period beginning on November 28, 1990, and ending upon the termination date under subsection (a) of this section.”
 

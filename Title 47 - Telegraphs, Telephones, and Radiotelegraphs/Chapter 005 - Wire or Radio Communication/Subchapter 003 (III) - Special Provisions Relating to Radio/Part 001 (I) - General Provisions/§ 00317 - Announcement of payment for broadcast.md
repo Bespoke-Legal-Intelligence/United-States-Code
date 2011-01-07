@@ -26,7 +26,7 @@ The Commission shall prescribe appropriate rules and regulations to carry out th
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96–507 conformed the reference to section 508 of this title to reflect the renumbering of that section by Pub. L. 96–507.
+<b>1980</b>—Subsec. (b). Pub. L. 96–507 conformed the reference to section 508 of this title to reflect the renumbering of that section by Pub. L. 96–507.
 
-1960—Pub. L. 86–752 designated existing provisions as subsec. (a), inserting proviso clause, and added subsecs. (b) to (e).
+<b>1960</b>—Pub. L. 86–752 designated existing provisions as subsec. (a), inserting proviso clause, and added subsecs. (b) to (e).
 

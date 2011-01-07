@@ -14,7 +14,7 @@
 
 For any article described in subsection (a)(2) of this section, the Secretary shall—
 
-&emsp;(1) promptly consult with representatives of the industry producing such articles and other allied groups or individuals regarding specific actions or the development of an integrated marketing strategy utilizing some or all of the commercial export programs of the Department of Agriculture and the Commodity Credit Corporation to help mitigate or offset the effects of the unfair trade practice identified in subsection (a)(2) of this section; and
+&emsp;(1) promptly consult with representatives of the industry producing such articles and other allied groups or individuals regarding specific actions or the development of an integrated marketing strategy utilizing some or all of thecommercial export programs of the Department of Agriculture and the Commodity Credit Corporation to help mitigate or offset the effects of the unfair trade practice identified in subsection (a)(2) of this section; and
 
 &emsp;(2) ascertain and take into account the industry preference for the practical use of available commercial export promotion programs in implementing subsection (a)(1) of this section.
 

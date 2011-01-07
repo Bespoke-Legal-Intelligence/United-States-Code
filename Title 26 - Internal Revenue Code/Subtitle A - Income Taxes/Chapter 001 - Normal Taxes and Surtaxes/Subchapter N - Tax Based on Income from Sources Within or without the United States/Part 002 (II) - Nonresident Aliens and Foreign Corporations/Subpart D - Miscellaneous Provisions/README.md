@@ -15,15 +15,15 @@ Subpart D—Miscellaneous Provisions
 
 #### Amendments
 
-1989—Pub. L. 101–239, title VII, §7401(c), Dec. 19, 1989, 103 Stat. 2357, added item 898.
+<b>1989</b>—Pub. L. 101–239, title VII, §7401(c), Dec. 19, 1989, 103 Stat. 2357, added item 898.
 
-1986—Pub. L. 99–514, title XII, §1212(b)(1), Oct. 22, 1986, 100 Stat. 2537, redesignated former subpart (C) as (D).
+<b>1986</b>—Pub. L. 99–514, title XII, §1212(b)(1), Oct. 22, 1986, 100 Stat. 2537, redesignated former subpart (C) as (D).
 
-1980—Pub. L. 96–499, title XI, §1122(b), Dec. 5, 1980, 94 Stat. 2687, added item 897.
+<b>1980</b>—Pub. L. 96–499, title XI, §1122(b), Dec. 5, 1980, 94 Stat. 2687, added item 897.
 
-1966—Pub. L. 89–809, title I, §§102(a)(4)(B), 105(c), Nov. 13, 1966, 80 Stat. 1543, 1565, substituted “affected by treaty” for “exempt under treaty” in item 894, inserted “or from bank deposits” in item 895, and added item 896.
+<b>1966</b>—Pub. L. 89–809, title I, §§102(a)(4)(B), 105(c), Nov. 13, 1966, 80 Stat. 1543, 1565, substituted “affected by treaty” for “exempt under treaty” in item 894, inserted “or from bank deposits” in item 895, and added item 896.
 
-1961—Pub. L. 87–29, §1(b), May 4, 1961, 75 Stat. 64, added item 895.
+<b>1961</b>—Pub. L. 87–29, §1(b), May 4, 1961, 75 Stat. 64, added item 895.
 
 
 ---

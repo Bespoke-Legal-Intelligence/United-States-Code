@@ -64,5 +64,5 @@ In subsection (b)(1), the words “for the purpose” are omitted as unnecessary
 
 #### Amendments
 
-2006—Subsec. (b)(2). Pub. L. 109–284 substituted “subsection (a)(2)” for “section (a)(2)”.
+<b>2006</b>—Subsec. (b)(2). Pub. L. 109–284 substituted “subsection (a)(2)” for “section (a)(2)”.
 

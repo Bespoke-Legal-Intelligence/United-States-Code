@@ -38,5 +38,5 @@ In subsec. (b), “subtitle IV of title 49” substituted for “the Interstate 
 
 #### Amendments
 
-1996—Subsec. (d). Pub. L. 104–287 substituted “the term ‘railroad carrier’ has in section 20102 of title 49” for “such terms have under the first section of the Act of February 17, 1911 (45 U.S.C. 22)”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–287 substituted “the term ‘railroad carrier’ has in section 20102 of title 49” for “such terms have under the first section of the Act of February 17, 1911 (45 U.S.C. 22)”.
 

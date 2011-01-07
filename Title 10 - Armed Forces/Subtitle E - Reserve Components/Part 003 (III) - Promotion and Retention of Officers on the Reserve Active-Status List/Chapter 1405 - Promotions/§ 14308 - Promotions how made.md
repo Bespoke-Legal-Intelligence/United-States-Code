@@ -2,7 +2,7 @@
 
 (a)
 
-Promotion List.—When the report of a selection board convened under section 14101(a) or 14502 of this title is approved by the President, the Secretary of the military department concerned shall place the names of all officers selected for promotion within a competitive category on a single list for that competitive category, to be known as a promotion list, in the order of seniority of those officers on the reserve active-status list. A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence.
+Promotion List.—When the report of a selection board convened under section 14101(a) or14502 of this title is approved by the President, the Secretary of the military department concerned shall place the names of all officers selected for promotion within a competitive category on a single list for that competitive category, to be known as a promotion list, in the order of seniority of those officers on the reserve active-status list. A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence.
 
 (b)
 
@@ -50,25 +50,25 @@ Effective Date of Promotion After Federal Recognition.—The effective date of a
 
 (g)
 
-Army and Air Force General Officer Promotions.—A reserve officer of the Army or the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to thatgrade only to fill a vacancy in the Army Reserve or the Air Force Reserve, as the case may be, in that grade.
+Army and Air Force General Officer Promotions.—A reserve officer of the Army or the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Army Reserve or the Air Force Reserve, as the case may be, in that grade.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2937; amended Pub. L. 105–85, div. A, title V, §514(c), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 107–107, div. A, title V, §§505(b)(1), 506(b), Dec. 28, 2001, 115 Stat. 1086, 1089; Pub. L. 109–364, div. A, title V, §511(d)(2), Oct. 17, 2006, 120 Stat. 2183.)
 
 #### Prior Provisions
 
-Provisions similar to those in subsecs. (a), (d), and (f) of this section were contained in sections 3385, 5902(a) to (c), and 8374 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (b)(2), (c)(1).
+Provisions similar to those in subsecs. (a), (d), and (f) of this section were contained in sections 3385, 5902(a)to (c), and 8374 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (b)(2), (c)(1).
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–364 inserted at end “A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence.”
+<b>2006</b>—Subsec. (a). Pub. L. 109–364 inserted at end “A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence.”
 
-2001—Subsec. (b)(4). Pub. L. 107–107, §505(b)(1), added par. (4).
+<b>2001</b>—Subsec. (b)(4). Pub. L. 107–107, §505(b)(1), added par. (4).
 
 Subsec. (c)(2). Pub. L. 107–107, §506(b)(1)(B), added par. (2). Former par. (2) redesignated (3).
 
 Subsec. (c)(3). Pub. L. 107–107, §506(b)(1)(A), (2), redesignated par. (2) as (3) and inserted “provided in paragraph (2) or as otherwise” after “Except as”.
 
-1997—Subsec. (e)(2). Pub. L. 105–85, §514(c)(1), inserted “a grade below colonel in” after “an officer in”.
+<b>1997</b>—Subsec. (e)(2). Pub. L. 105–85, §514(c)(1), inserted “a grade below colonel in” after “an officer in”.
 
 Subsec. (g). Pub. L. 105–85, §514(c)(2), inserted “or the Air Force” after “A reserve officer of the Army”, substituted “in the Army Reserve or the Air Force Reserve, as the case may be, in that grade” for “in that grade in a unit of the Army Reserve that is organized to serve as a unit and that has attained the strength prescribed by the Secretary of the Army”, and struck out at end “A reserve officer of the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Air Force Reserve in that grade.”
 

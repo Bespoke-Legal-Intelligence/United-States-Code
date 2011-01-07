@@ -83,6 +83,7 @@
 | 61f–11. | Provision of services and equipment on a reimbursable basis. |
 | 61f–12. | Treatment of electronic services provided by Sergeant at Arms. |
 | 61f–13. | Media support services. |
+| 61f–14. | Law enforcement authority of Sergeant-at-Arms and Doorkeeper of the Senate. |
 | [61g.](%C2%A7%2000061g%20-%20Compensation%20of%20Secretaries%20for%20Senate%20Majority%20and%20Minority.md) | Compensation of Secretaries for Senate Majority and Minority. |
 | 61g–1 to 61g–3. Omitted. |  |
 | 61g–4. | Appointment and compensation of employees by Secretary of Conference of Majority of Senate and Secretary of Conference of Minority of Senate. |
@@ -417,6 +418,7 @@
 - [&sect; 00061f&#8211;11 - Provision of services and equipment on a reimbursable basis](%C2%A7%2000061f%E2%80%9311%20-%20Provision%20of%20services%20and%20equipment%20on%20a%20reimbursable%20basis.md)
 - [&sect; 00061f&#8211;12 - Treatment of electronic services provided by Sergeant at Arms](%C2%A7%2000061f%E2%80%9312%20-%20Treatment%20of%20electronic%20services%20provided%20by%20Sergeant%20at%20Arms.md)
 - [&sect; 00061f&#8211;13 - Media support services](%C2%A7%2000061f%E2%80%9313%20-%20Media%20support%20services.md)
+- [&sect; 00061f&#8211;14 - Law enforcement authority of Sergeant-at-Arms and Doorkeeper of the Senate](%C2%A7%2000061f%E2%80%9314%20-%20Law%20enforcement%20authority%20of%20Sergeant-at-Arms%20and%20Doorkeeper%20of%20the%20Senate.md)
 - [&sect; 00061g - Compensation of Secretaries for Senate Majority and Minority](%C2%A7%2000061g%20-%20Compensation%20of%20Secretaries%20for%20Senate%20Majority%20and%20Minority.md)
 - [&sect; 00061g&#8211;1 to 61g&#8211;3 - Omitted](%C2%A7%2000061g%E2%80%931%20to%2061g%E2%80%933%20-%20Omitted.md)
 - [&sect; 00061g&#8211;4 - Appointment and compensation of employees by Secretary of Conference of Majority of Senate and Secretary of Conference of Minority of&#8230;](%C2%A7%2000061g%E2%80%934%20-%20Appointment%20and%20compensation%20of%20employees%20by%20Secretary%20of%20Conference%20of%20Majority%20of%20Senate%20and%20Secretary%20of%20Conference%20of%20Minority%20of%E2%80%A6.md)

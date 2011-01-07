@@ -104,7 +104,7 @@ No cable operator shall be required—
 
 #### (f) Regulations by Commission
 
-Within 180 days after October 5, 1992, the Commission shall, following a rulemaking proceeding, issue regulations implementing the requirements imposed by this section. Such implementing regulations shall include necessary revisions to update section 76.51 of title 47 of the Code of Federal Regulations.
+Within 180 days after October 5, 1992, the Commission shall, following a rulemaking proceeding, issue regulations implementing the requirements imposed by this section. Such implementing regulations shall include necessary revisionsto update section 76.51 of title 47 of the Code of Federal Regulations.
 
 #### (g) Sales presentations and program length commercials
 
@@ -178,7 +178,7 @@ This chapter, referred to in subsec. (g)(1), was in the original “this Act”,
 
 #### Amendments
 
-1996—Subsec. (h)(1)(C)(i). Pub. L. 104–104, §301(d)(1)(A), substituted “by the Commission by regulation or order using, where available, commercial publications which delineate television markets based on viewing patterns,” for “in the manner provided in section 73.3555(d)(3)(i) of title 47, Code of Federal Regulations, as in effect on May 1, 1991,”.
+<b>1996</b>—Subsec. (h)(1)(C)(i). Pub. L. 104–104, §301(d)(1)(A), substituted “by the Commission by regulation or order using, where available, commercial publications which delineate television markets based on viewing patterns,” for “in the manner provided in section 73.3555(d)(3)(i) of title 47, Code of Federal Regulations, as in effect on May 1, 1991,”.
 
 Subsec. (h)(1)(C)(iv). Pub. L. 104–104, §301(d)(1)(B), added cl. (iv) and struck out former cl. (iv) which read as follows: “In the rulemaking proceeding required by subsection (f) of this section, the Commission shall provide for expedited consideration of requests filed under this subparagraph.”
 

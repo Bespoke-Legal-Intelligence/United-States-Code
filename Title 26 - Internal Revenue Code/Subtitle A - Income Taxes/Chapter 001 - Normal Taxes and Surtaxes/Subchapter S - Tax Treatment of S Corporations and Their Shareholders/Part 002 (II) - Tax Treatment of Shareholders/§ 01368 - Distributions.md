@@ -98,21 +98,21 @@ If a director receives a distribution (not in part or full payment in exchange f
 
 #### Amendments
 
-2007—Subsec. (f). Pub. L. 110–28 added subsec. (f).
+<b>2007</b>—Subsec. (f). Pub. L. 110–28 added subsec. (f).
 
-1996—Subsec. (d). Pub. L. 104–188, §1309(a)(2), inserted at end “In the case of any distribution made during any taxable year, the adjusted basis of the stock shall be determined with regard to the adjustments provided in paragraph (1) of section 1367(a) for the taxable year.”
+<b>1996</b>—Subsec. (d). Pub. L. 104–188, §1309(a)(2), inserted at end “In the case of any distribution made during any taxable year, the adjusted basis of the stock shall be determined with regard to the adjustments provided in paragraph (1) of section 1367(a) for the taxable year.”
 
 Subsec. (e)(1)(A). Pub. L. 104–188, §1309(c), substituted “as otherwise provided in this paragraph” for “as provided in subparagraph (B)” and “section 1367(a)(2)” for “section 1367(b)(2)(A)”.
 
 Subsec. (e)(1)(C). Pub. L. 104–188, §1309(b), added subpar. (C).
 
-1986—Subsec. (e)(1)(A). Pub. L. 99–514 inserted “and no adjustment shall be made for Federal taxes attributable to any taxable year in which the corporation was a C corporation” before period at end.
+<b>1986</b>—Subsec. (e)(1)(A). Pub. L. 99–514 inserted “and no adjustment shall be made for Federal taxes attributable to any taxable year in which the corporation was a C corporation” before period at end.
 
-1984—Subsec. (c). Pub. L. 98–369, §721(r)(2), inserted “Except to the extent provided in regulations, if the distributions during the taxable year exceed the amount in the accumulated adjustments account at the close of the taxable year, for purposes of this subsection, the balance of such account shall be allocated among such distributions in proportion to their respective sizes.”
+<b>1984</b>—Subsec. (c). Pub. L. 98–369, §721(r)(2), inserted “Except to the extent provided in regulations, if the distributions during the taxable year exceed the amount in the accumulated adjustments account at the close of the taxable year, for purposes of this subsection, the balance of such account shall be allocated among such distributions in proportion to their respective sizes.”
 
 Subsec. (e)(1)(A). Pub. L. 98–369, §721(r)(1), substituted “(except that no adjustment shall be made for income (and related expenses) which is exempt from tax under this title and the phrase ‘(but not below zero)’ shall be disregarded in section 1367(b)(2)(A))” for “(except that no adjustment shall be made for income which is exempt from tax under this title and no adjustment shall be made for any expense not deductible in computing the corporation's taxable income and not properly chargeable to capital account)”.
 
-1983—Subsec. (e)(3). Pub. L. 97–448 added par. (3).
+<b>1983</b>—Subsec. (e)(3). Pub. L. 97–448 added par. (3).
 
 #### Effective Date of 2007 Amendment
 
@@ -141,4 +141,6 @@ Section applicable to taxable years beginning after Dec. 31, 1982, see section 6
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “is”.</i>
 

@@ -46,7 +46,7 @@ Section 715b of this title, referred to in subsec. (c)(2), was omitted from the 
 
 #### Amendments
 
-2006—Pub. L. 109–266, §10(e)(1), (2), inserted section catchline, substituted subsec. (a) for introductory provisions which read “All moneys received for such stamps shall be accounted for by the Postal Service or the Department of the Interior, whichever is appropriate, and paid into the Treasury of the United States, and shall be reserved and set aside as a special fund to be known as the migratory bird conservation fund, to be administered by the Secretary of the Interior. All moneys received into such fund are appropriated for the following objects and shall be available therefor until expended:”, inserted subsec. (b) designation, heading, and introductory provisions, redesignated former subsecs. (a) to (c) as pars. (1) to (3), respectively, of subsec. (b), and realigned margins.
+<b>2006</b>—Pub. L. 109–266, §10(e)(1), (2), inserted section catchline, substituted subsec. (a) for introductory provisions which read “All moneys received for such stamps shall be accounted for by the Postal Service or the Department of the Interior, whichever is appropriate, and paid into the Treasury of the United States, and shall be reserved and set aside as a special fund to be known as the migratory bird conservation fund, to be administered by the Secretary of the Interior. All moneys received into such fund are appropriated for the following objects and shall be available therefor until expended:”, inserted subsec. (b) designation, heading, and introductory provisions, redesignated former subsecs. (a) to (c) as pars. (1) to (3), respectively, of subsec. (b), and realigned margins.
 
 Subsec. (b)(1). Pub. L. 109–266, §10(e)(3), inserted heading and substituted “So much as may be necessary shall be used by the Secretary for engraving” for “So much as may be necessary shall be used by the Secretary of the Interior to make advance allotments to the Postal Service at such times and in such amounts as may be mutually agreed upon by the Secretary of the Interior and the Postal Service for direct expenditure by the Postal Service for engraving”, “Migratory Bird Hunting and Conservation Stamps” for “migratory bird hunting stamps”, “personnel” for “personal”, and “Postal Service” for “postal service”.
 
@@ -54,7 +54,7 @@ Subsec. (b)(2). Pub. L. 109–266, §10(e)(4)(B), inserted “(16 U.S.C. 715 et 
 
 Pub. L. 109–266, §10(e)(4)(A), which directed amendment of par. (2) by substituting heading “Areas for refuges” and text “Except as provided in paragraph (3) and subsection (c)” for “Except as provided in subsections (c) and (d) of this section”, was executed by making the substitution for “Except as authorized in subsections (c) and (d) of this section” to reflect the probable intent of Congress.
 
-Subsec. (b)(3). Pub. L. 109–266, §10(e)(5), inserted heading, inserted “(16 U.S.C. 715 et seq.)” after “Migratory Bird Conservation Act”, and substituted “The Secretary may use funds made available under paragraph (2) for the purposes of that paragraph, and such other funds as may be appropriated for the purposes of that paragraph or this paragraph,” for “The Secretary of the Interior is authorized to utilize funds made available under subsection (b) of this section for the purposes of such subsection, and such other funds as may be appropriated for the purposes of such subsection, or of this subsection,” and “pursuant to this paragraph” for “pursuant to this subsection”.
+Subsec. (b)(3). Pub. L. 109–266, §10(e)(5), inserted heading, inserted “(16 U.S.C. 715 et seq.)” after “Migratory Bird Conservation Act”, and substituted “The Secretary may use funds made available under paragraph (2) for the purposes of that paragraph, and such other funds as may be appropriated for the purposes of that paragraph or this paragraph,” for “The Secretary ofthe Interior is authorized to utilize funds made available under subsection (b) of this section for the purposes of such subsection, and such other funds as may be appropriated for the purposes of such subsection, or of this subsection,” and “pursuant to this paragraph” for “pursuant to this subsection”.
 
 Subsec. (c). Pub. L. 109–266, §10(e)(6), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b)(3).
 
@@ -64,25 +64,25 @@ Subsec. (c)(2). Pub. L. 109–266, §10(e)(7)(B), inserted heading and substitut
 
 Subsec. (d). Pub. L. 109–266, §10(e)(6), redesignated subsec. (d) as (c).
 
-1998—Subsecs. (b), (d). Pub. L. 105–269 substituted “subsections (c) and (d)” for “subsection (c)” in subsec. (b) and added subsec. (d).
+<b>1998</b>—Subsecs. (b), (d). Pub. L. 105–269 substituted “subsections (c) and (d)” for “subsection (c)” in subsec. (b) and added subsec. (d).
 
-1976—Pub. L. 94–215 inserted “or the Department of the Interior, whichever is appropriate,” after “Postal Service” in first sentence.
+<b>1976</b>—Pub. L. 94–215 inserted “or the Department of the Interior, whichever is appropriate,” after “Postal Service” in first sentence.
 
-1971—Pub. L. 92–214 substituted “Postal Service” for “Post Office Department” in introductory provisions and “Postal Service” for “Post Office Department” and “Postmaster General” in subsec. (a).
+<b>1971</b>—Pub. L. 92–214 substituted “Postal Service” for “Post Office Department” in introductory provisions and “Postal Service” for “Post Office Department” and “Postmaster General” in subsec. (a).
 
-1966—Subsec. (b). Pub. L. 89–669 struck out provisos relating to wildlife management areas and rule making for such areas which are now covered by section 668bb(d) (1) of this title.
+<b>1966</b>—Subsec. (b). Pub. L. 89–669 struck out provisos relating to wildlife management areas and rule making for such areas which are now covered by section 668bb(d) (1) of this title.
 
-1958—Subsecs. (a), (b). Pub. L. 85–585 earmarked proceeds from sale of stamps, less expenses of Post Office Department in connection with fish and wildlife matters, for the acquisition of migratory bird refuges, and permitted hunting of resident game birds in designated wildlife management areas.
+<b>1958</b>—Subsecs. (a), (b). Pub. L. 85–585 earmarked proceeds from sale of stamps, less expenses of Post Office Department in connection with fish and wildlife matters, for the acquisition of migratory bird refuges, and permitted hunting of resident game birds in designated wildlife management areas.
 
 Subsec. (c). Pub. L. 85–585 added subsec. (c).
 
-1951—Subsec. (a). Act Oct. 20, 1951, substituted “85 per centum” for “90 per centum”.
+<b>1951</b>—Subsec. (a). Act Oct. 20, 1951, substituted “85 per centum” for “90 per centum”.
 
 Subsec. (b). Act Oct. 20, 1951, inserted “in enforcing” after “The remainder shall be available for expenses”.
 
-1949—Subsec. (a). Act Aug. 12, 1949, inserted proviso.
+<b>1949</b>—Subsec. (a). Act Aug. 12, 1949, inserted proviso.
 
-1935—Act June 15, 1935, amended section generally.
+<b>1935</b>—Act June 15, 1935, amended section generally.
 
 #### Effective Date of 1958 Amendment
 

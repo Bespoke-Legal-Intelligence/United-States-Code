@@ -50,7 +50,9 @@ Spot Sale (same year)
 
 Advance Sale
 
-1993–1999 DD25,000
+1993–1999
+
+25,000
 
 2000 and after
 
@@ -199,4 +201,6 @@ The Administrator may terminate the withholding of allowances and the auction sa
 #### References in Text
 
 Section 79b of title 15, referred to in subsec. (a)(2)(C), was repealed by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. See section 16451(1) of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

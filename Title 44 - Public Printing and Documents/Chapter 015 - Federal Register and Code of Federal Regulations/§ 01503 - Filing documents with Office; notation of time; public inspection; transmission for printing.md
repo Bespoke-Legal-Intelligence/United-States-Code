@@ -10,9 +10,9 @@ Based on 44 U.S. Code, 1964 ed., §302 (July 26, 1935, ch. 417, §2, 49 Stat. 50
 
 #### Amendments
 
-1984—Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services”, “National Archives and Records Administration” for “General Services Administration”, and “Archivist” for “Administrator” wherever appearing.
+<b>1984</b>—Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services”, “National Archives and Records Administration” for “General Services Administration”, and “Archivist” for “Administrator” wherever appearing.
 
-1978—Pub. L. 95–440 substituted provision for retention of original documents by the General Services Administration for prior provision for retention in the archives of the National Archives and inserted provisions dispensing with such retention when disposals are made in accordance with disposal schedules and requiring retention of original proclamations of the President and Executive orders as part of the National Archives.
+<b>1978</b>—Pub. L. 95–440 substituted provision for retention of original documents by the General Services Administration for prior provision for retention in the archives of the National Archives and inserted provisions dispensing with such retention when disposals are made in accordance with disposal schedules and requiring retention of original proclamations of the President and Executive orders as part of the National Archives.
 
 #### Effective Date of 1984 Amendment
 

@@ -94,7 +94,7 @@ After notice and opportunity for public hearing, the Administrator shall promulg
 
 #### Amendments
 
-2005—Pub. L. 109–59 designated existing provisions as subsec. (a), inserted heading, substituted “After notice and opportunity for public hearing” for “Not later than one year after August 7, 1977, and after notice and opportunity for public hearing”, and added subsec. (b).
+<b>2005</b>—Pub. L. 109–59 designated existing provisions as subsec. (a), inserted heading, substituted “After notice and opportunity for public hearing” for “Not later than one year after August 7, 1977, and after notice and opportunity for public hearing”, and added subsec. (b).
 
 #### Effective Date
 

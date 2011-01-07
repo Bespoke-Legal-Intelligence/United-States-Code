@@ -6,7 +6,7 @@ Establishment of Program.—The Secretary of Defense shall conduct a program to 
 
 (b)
 
-Assistance Authorized.—The Secretary of Defense may provide technical and other assistance to facilitate the achievement of the purposes of projects conducted under the program. In providing such assistance, the Secretary shallmake available, as appropriate for the work to be performed, equipment and facilities of Department of Defense laboratories (including the scientists and engineers at those laboratories) for purposes of projects selected by the Secretary.
+Assistance Authorized.—The Secretary of Defense may provide technical and other assistance to facilitate the achievement of the purposes of projects conducted under the program. In providing such assistance, the Secretary shall make available, as appropriate for the work to be performed, equipment and facilities of Department of Defense laboratories (including the scientists and engineers at those laboratories) for purposes of projects selected by the Secretary.
 
 (c)
 
@@ -54,11 +54,11 @@ Provisions similar to those in this section were contained in section 2523 of th
 
 #### Amendments
 
-1996—Pub. L. 104–106 substituted “program” for “partnerships” in section catchline and amended text generally. Prior to amendment, text related to program for establishment of cooperative arrangements between Department of Defense and eligible entities.
+<b>1996</b>—Pub. L. 104–106 substituted “program” for “partnerships” in section catchline and amended text generally. Prior to amendment, text related to program for establishment of cooperative arrangements between Department of Defense and eligible entities.
 
-1994—Subsec. (c)(3). Pub. L. 103–337 added par. (3).
+<b>1994</b>—Subsec. (c)(3). Pub. L. 103–337 added par. (3).
 
-1993—Subsec. (c). Pub. L. 103–160, §1315(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary of Defense shall ensure that, to the maximum extent he determines to be practicable, the amount of the funds provided by the Federal Government under a partnership does not exceed the total amount provided by non-Federal Government participants in that partnership.”
+<b>1993</b>—Subsec. (c). Pub. L. 103–160, §1315(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary of Defense shall ensure that, to the maximum extent he determines to be practicable, the amount of the funds provided by the Federal Government under a partnership does not exceed the total amount provided by non-Federal Government participants in that partnership.”
 
 Subsec. (e). Pub. L. 103–160, §1317(c), struck out “, except that procedures other than competitive procedures may be used in any case in which an exception set out in section 2304(c) of this title applies” after “partnerships”.
 
@@ -72,7 +72,7 @@ Funding 1998.—Of the amounts authorized to be appropriated by section 201 \[11
 
 “(b)
 
-Goals.—(1) Subject to paragraph (3), it shall be the objective of the Secretary of each military department to obligate for dual-use projects in each fiscal year referred to in paragraph (2), out of the total amount authorized to be appropriated for such fiscal year for the applied research programs of the militarydepartment, the percent of such amount that is specified for that fiscal year in paragraph (2).
+Goals.—(1) Subject to paragraph (3), it shall be the objective of the Secretary of each military department to obligate for dual-use projects in each fiscal year referred to in paragraph (2), out of the total amount authorized to be appropriated for such fiscal year for the applied research programs of the military department, the percent of such amount that is specified for that fiscal year in paragraph (2).
 
 “(2) The objectives for fiscal years under paragraph (1) are as follows:
 

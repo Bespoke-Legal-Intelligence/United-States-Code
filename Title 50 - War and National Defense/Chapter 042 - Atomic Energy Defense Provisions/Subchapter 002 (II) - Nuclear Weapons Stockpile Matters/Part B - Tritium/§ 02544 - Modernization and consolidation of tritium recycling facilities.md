@@ -20,5 +20,5 @@ Section 3101 of the National Defense Authorization Act for Fiscal Year 1997, ref
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–136, §3141(e)(19)(D), inserted “of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201)” after “section 3101”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–136, §3141(e)(19)(D), inserted “of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201)” after “section 3101”.
 

@@ -62,5 +62,5 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(8), is Pu
 
 #### Amendments
 
-2007—Pub. L. 110–134 amended section generally. Prior to amendment, section related to requirements for Head Start agencies to coordinate with local educational agencies and schools to assist in transition from Head Start to school.
+<b>2007</b>—Pub. L. 110–134 amended section generally. Prior to amendment, section related to requirements for Head Start agencies to coordinate with local educational agencies and schools to assist in transition from Head Start to school.
 

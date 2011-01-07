@@ -16,7 +16,7 @@ For purposes of this chapter—
 
 (g) The term “adulterated” shall apply to any poultry product under one or more of the following circumstances:
 
-&emsp;(1) if it bears or contains any poisonous or deleterious substance which may render it injurious to health; but in case the substance is not an added substance, such article shall not be considered adulterated under this clause if the quantity of such substance in or on such article does not ordinarily render it injurious to health;
+&emsp;(1) if it bears or contains any poisonous or deleterious substance which may render it injurious to health; but in case the substance isnot an added substance, such article shall not be considered adulterated under this clause if the quantity of such substance in or on such article does not ordinarily render it injurious to health;
 
 &emsp;(2)(A) if it bears or contains (by reason of administration of any substance to the live poultry or otherwise) any added poisonous or added deleterious substance (other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; or (iii) a color additive) which may, in the judgment of the Secretary, make such article unfit for human food;
 
@@ -112,11 +112,11 @@ The Federal Food, Drug, and Cosmetic Act, referred to in pars. (x) and (y), is a
 
 #### Amendments
 
-1992—Subsec. (g)(2)(D). Pub. L. 102–571 substituted “379e” for “376”.
+<b>1992</b>—Subsec. (g)(2)(D). Pub. L. 102–571 substituted “379e” for “376”.
 
-1968—Pub. L. 90–492 inserted definitions of “State”, “territory”, “United States”, “misbranded”, “official mark”, “official inspection legend”, “official certificate”, “official device”, “capable of use as human food”, “processed”, “Federal Food, Drug, and Cosmetic Act”, “pesticide chemical”, “poultry products broker”, “renderer”, and “animal food manufacturer”, revised definitions of “commerce”, “poultry”, “poultry product”, “adulterated”, “Secretary”, “inspector”, “container” or “package”, “label”, and “immediate container”, reenacted without change definitions of “person”, “official establishment”, “inspection service”, and “shipping container”, and deleted definition of “wholesome”, “unwholesome”, and “official inspection mark”.
+<b>1968</b>—Pub. L. 90–492 inserted definitions of “State”, “territory”, “United States”, “misbranded”, “official mark”, “official inspection legend”, “official certificate”, “official device”, “capable of use as human food”, “processed”, “Federal Food, Drug, and Cosmetic Act”, “pesticide chemical”, “poultry products broker”,“renderer”, and “animal food manufacturer”, revised definitions of “commerce”, “poultry”, “poultry product”, “adulterated”, “Secretary”, “inspector”, “container” or “package”, “label”, and “immediate container”, reenacted without change definitions of “person”, “official establishment”, “inspection service”, and “shipping container”, and deleted definition of “wholesome”, “unwholesome”, and “official inspection mark”.
 
-1962—Par. (a). Pub. L. 87–498 struck out references to Territories or possessions, and inserted definition of “State”.
+<b>1962</b>—Par. (a). Pub. L. 87–498 struck out references to Territories or possessions, and inserted definition of “State”.
 
 #### Change of Name
 

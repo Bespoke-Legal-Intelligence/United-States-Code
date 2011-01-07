@@ -12,7 +12,7 @@ Eligible Members.—(1) Subject to the numerical limitations specified in paragr
 
 (c)
 
-Amount of Allowance.—The Secretary of the military department concerned shall pay a preventive health services allowance to a member selected to receive the allowance in an amount equal to—
+Amount of Allowance.—The Secretary of the military department concerned shall pay apreventive health services allowance to a member selected to receive the allowance in an amount equal to—
 
 &emsp;(1) $500 per year, in the case of a member without dependents; and
 

@@ -74,7 +74,7 @@ For purposes of this part:
 
 #### (1) DISC income
 
-&emsp;The earnings and profits derived by a corporation during a taxable year in which such corporation is a DISC, before reduction for any distributions during the year, but reduced by amounts deemed distributed under section 995(b)(1), shall constitute the DISC income forsuch year. The earnings and profits of a DISC for a taxable year include any amounts includible in such DISC's gross income pursuant to section 951(a) for such year. Accumulated DISC income shall be reduced by deemed distributions under section 995(b)(2).
+&emsp;The earnings and profits derived by a corporation during a taxable year in which such corporation is a DISC, before reduction for any distributions during the year, but reduced by amounts deemed distributed under section 995(b)(1), shall constitute the DISC income for such year. The earnings and profits of a DISC for a taxable year include any amounts includible in such DISC's gross income pursuant to section 951(a) for such year. Accumulated DISC income shall be reduced by deemed distributions under section 995(b)(2).
 
 #### (2) Previously taxed income
 
@@ -92,13 +92,13 @@ In the case of a shareholder who is a nonresident alien individual or a foreign 
 
 #### Amendments
 
-1986—Subsec. (a)(2). Pub. L. 99–514 inserted last sentence and struck out former last sentence which read as follows: “In the case of any amount of any actual distribution made pursuant to section 992(c) which is required to satisfy the condition of section 992(a)(1)(A), the preceding sentence shall apply to one-half of such amount, and paragraph (1) shall apply to the remaining one-half of such amount.”
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514 inserted last sentence and struck out former last sentence which read as follows: “In the case of any amount of any actual distribution made pursuant to section 992(c) which is required to satisfy the condition of section 992(a)(1)(A), the preceding sentence shall apply to one-half of such amount, and paragraph (1) shall apply to the remaining one-half of such amount.”
 
-1984—Subsec. (g). Pub. L. 98–369 inserted “and which are derived from sources within the United States”.
+<b>1984</b>—Subsec. (g). Pub. L. 98–369 inserted “and which are derived from sources within the United States”.
 
-1978—Subsec. (a)(2). Pub. L. 95–600 substituted “section (b)(1)(G)” for “section (b)(1)(E)”.
+<b>1978</b>—Subsec. (a)(2). Pub. L. 95–600 substituted “section (b)(1)(G)” for “section (b)(1)(E)”.
 
-1976—Subsec. (a)(2). Pub. L. 94–455, §1101(e), inserted at end “In the case of any amount of any actual distribution made pursuant to section 992(c) which is required to satisfy the condition of section 992(a)(1)(A), the preceding sentence shall apply to one-half of such amount, and paragraph (1) shall apply to the remaining one-half of such amount.”
+<b>1976</b>—Subsec. (a)(2). Pub. L. 94–455, §1101(e), inserted at end “In the case of any amount of any actual distribution made pursuant to section 992(c) which is required to satisfy the condition of section 992(a)(1)(A), the preceding sentence shall apply to one-half of such amount, and paragraph (1) shall apply to the remaining one-half of such amount.”
 
 Subsec. (d). Pub. L. 94–455, §1901(b)(3)(I), substituted “ordinary income” for “gain from the sale or exchange of property which is not a capital asset” in par. (1)(A) after “dividend or as” and, in par. (2), after “treated as”.
 

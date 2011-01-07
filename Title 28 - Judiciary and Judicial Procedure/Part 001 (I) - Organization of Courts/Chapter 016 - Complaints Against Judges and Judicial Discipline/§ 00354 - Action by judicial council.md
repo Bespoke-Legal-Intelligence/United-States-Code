@@ -62,7 +62,7 @@ Referral to Judicial Conference.—
 
 &emsp;(1)
 
-In general.—In addition to the authority granted under subsection (a), the judicial council may, in its discretion, refer any complaint under section 351, together with the record of any associated proceedings and itsrecommendations for appropriate action, to the Judicial Conference of the United States.
+In general.—In addition to the authority granted under subsection (a), the judicial council may, in its discretion, refer any complaint under section 351, together with the record of any associated proceedings and its recommendations for appropriate action, to the Judicial Conference of the United States.
 
 &emsp;(2)
 

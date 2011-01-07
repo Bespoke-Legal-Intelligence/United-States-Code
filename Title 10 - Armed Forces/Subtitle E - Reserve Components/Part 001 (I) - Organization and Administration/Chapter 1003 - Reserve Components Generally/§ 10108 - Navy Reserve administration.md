@@ -1,6 +1,6 @@
 ### §10108. Navy Reserve: administration
 
-(a) The Navy Reserve is the reserve component of the Navy. It shall be organized, administered, trained, and supplied under the direction of the Chief of Naval Operations.
+(a) The Navy Reserve is the reserve component of the Navy. It shall be organized, administered,trained, and supplied under the direction of the Chief of Naval Operations.
 
 (b) The bureaus and offices of the executive part of the Department of the Navy have the same relation and responsibility to the Navy Reserve as they do to the Regular Navy.
 
@@ -12,7 +12,7 @@ Provisions similar to those in this section were contained in section 5251(a), (
 
 #### Amendments
 
-2006—Pub. L. 109–163, §515(b)(3)(F), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
+<b>2006</b>—Pub. L. 109–163, §515(b)(3)(F), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
 
 Pub. L. 109–163, §515(b)(1)(AA), substituted “Navy Reserve” for “Naval Reserve” in subsecs. (a) and (b).
 

@@ -68,7 +68,7 @@ Subsection (c)(2) is substituted for 31:49 and the words “and, to the extent h
 
 #### Amendments
 
-2002—Subsec. (c)(1). Pub. L. 107–217 substituted “section 121(b) of title 40” for “section 205(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486(b))”.
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–217 substituted “section 121(b) of title 40” for “section 205(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486(b))”.
 
 #### Adoption of Capital Accounting Standards
 

@@ -8,7 +8,7 @@
 
 (b)(1) If the first nomination for the office is rejected by the Senate, withdrawn, or returned to the President by the Senate, the person may continue to serve as the acting officer for no more than 210 days after the date of such rejection, withdrawal, or return.
 
-(2) Notwithstanding paragraph (1), if a second nomination for the office is submitted to the Senate after the rejection, withdrawal, or returnof the first nomination, the person serving as the acting officer may continue to serve—
+(2) Notwithstanding paragraph (1), if a second nomination for the office is submitted to the Senate after the rejection, withdrawal, or return of the first nomination, the person serving as the acting officer may continue to serve—
 
 &emsp;(A) until the second nomination is confirmed; or
 

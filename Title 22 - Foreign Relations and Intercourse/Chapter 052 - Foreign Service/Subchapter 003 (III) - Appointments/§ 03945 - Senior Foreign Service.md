@@ -32,11 +32,11 @@ Section 3393a of title 5, referred to in subsec. (d), was repealed by Pub. L. 10
 
 #### Amendments
 
-1990—Subsec. (d). Pub. L. 101–280 made technical correction to Pub. L. 101–194. See 1989 Amendment note below.
+<b>1990</b>—Subsec. (d). Pub. L. 101–280 made technical correction to Pub. L. 101–194. See 1989 Amendment note below.
 
-1989—Subsec. (d). Pub. L. 101–194, as amended by Pub. L. 101–280, added subsec. (d).
+<b>1989</b>—Subsec. (d). Pub. L. 101–194, as amended by Pub. L. 101–280, added subsec. (d).
 
-1985—Subsec. (c). Pub. L. 99–93 added subsec. (c).
+<b>1985</b>—Subsec. (c). Pub. L. 99–93 added subsec. (c).
 
 #### Effective Date of 1989 Amendment
 

@@ -15,11 +15,11 @@
 
 #### Amendments
 
-1997—Pub. L. 105–85, div. A, title V, §581(a)(2), Nov. 18, 1997, 111 Stat. 1760, added item 856a.
+<b>1997</b>—Pub. L. 105–85, div. A, title V, §581(a)(2), Nov. 18, 1997, 111 Stat. 1760, added item 856a.
 
-1996—Pub. L. 104–106, div. A, title XI, §§1122(a)(2), 1123(b), Feb. 10, 1996, 110 Stat. 463, 464, added items 857a and 858b.
+<b>1996</b>—Pub. L. 104–106, div. A, title XI, §§1122(a)(2), 1123(b), Feb. 10, 1996, 110 Stat. 463, 464, added items 857a and 858b.
 
-1960—Pub. L. 86–633, §1(2), July 12, 1960, 74 Stat. 468, added item 858a.
+<b>1960</b>—Pub. L. 86–633, §1(2), July 12, 1960, 74 Stat. 468, added item 858a.
 
 
 ---

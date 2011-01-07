@@ -40,7 +40,7 @@ Functions vested by section 551 et seq. of this title in hearing examiners emplo
 
 #### Hearing Examiners Employed by Department of the Interior
 
-Functions vested by section 551 et seq. of this title in hearing examiners employed by Department of the Interior not included in functions of officers, agencies, and employees of that Department transferred to Secretary of the Interior by 1950 Reorg. Plan No. 3, §1, eff.May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, transferred set out in the Appendix to this title.
+Functions vested by section 551 et seq. of this title in hearing examiners employed by Department of the Interior not included in functions of officers, agencies, and employees of that Department transferred to Secretary of the Interior by 1950 Reorg. Plan No. 3, §1, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, transferred set out in the Appendix to this title.
 
 #### Hearing Examiners Employed by Department of Justice
 

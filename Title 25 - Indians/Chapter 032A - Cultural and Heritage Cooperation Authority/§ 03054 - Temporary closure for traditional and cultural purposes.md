@@ -8,7 +8,7 @@ To the maximum extent practicable, the Secretary shall ensure access to National
 
 #### (1) Authority to close
 
-&emsp;Upon the approval by the Secretary of a request from an Indian tribe, the Secretary may temporarily close from public access specifically identified National Forest System land to protect the privacy of tribal activities for traditional and cultural purposes.
+&emsp;Upon the approval by the Secretary of a request from an Indian tribe, the Secretary may temporarily close from public access specifically identified National Forest System landto protect the privacy of tribal activities for traditional and cultural purposes.
 
 #### (2) Limitation
 

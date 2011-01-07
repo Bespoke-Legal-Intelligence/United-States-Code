@@ -128,11 +128,11 @@ A prior section 1124a, Pub. L. 89–329, title VI, §605, as added Pub. L. 99–
 
 #### Amendments
 
-2009—Subsec. (a)(2). Pub. L. 111–39, §601(a)(1)(A), inserted “the” before “Federal” in introductory provisions.
+<b>2009</b>—Subsec. (a)(2). Pub. L. 111–39, §601(a)(1)(A), inserted “the” before “Federal” in introductory provisions.
 
 Subsec. (a)(7)(D). Pub. L. 111–39, §601(a)(1)(B), substituted “applicant, consortium,” for “institution, combination”.
 
-2008—Subsec. (a)(1). Pub. L. 110–315, §604(1), substituted “consortia” for “combinations” wherever appearing.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–315, §604(1), substituted “consortia” for “combinations” wherever appearing.
 
 Subsec. (a)(2)(B)(ii). Pub. L. 110–315, §604(2)(A), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “preservice and inservice teacher training;”.
 

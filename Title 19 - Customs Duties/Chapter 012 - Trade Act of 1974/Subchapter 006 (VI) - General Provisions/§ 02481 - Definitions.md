@@ -34,11 +34,11 @@ The Harmonized Tariff Schedule of the United States, referred to in par. (7), is
 
 #### Amendments
 
-1998—Par. (9). Pub. L. 105–206 substituted “trade treatment based on normal trade relations (known under international law as most-favored-nation treatment)” for “most-favored-nation treatment”.
+<b>1998</b>—Par. (9). Pub. L. 105–206 substituted “trade treatment based on normal trade relations (known under international law as most-favored-nation treatment)” for “most-favored-nation treatment”.
 
-1988—Par. (7). Pub. L. 100–418 substituted “chapters 1 through 97 of the Harmonized Tariff Schedule of the United States” for “schedules 1 through 7 of the Tariff Schedules of the United States”.
+<b>1988</b>—Par. (7). Pub. L. 100–418 substituted “chapters 1 through 97 of the Harmonized Tariff Schedule of the United States” for “schedules 1 through 7 of the Tariff Schedules of the United States”.
 
-1979—Par. (2). Pub. L. 96–39, §1106(h)(1), substituted “or exaction” for “and exaction”.
+<b>1979</b>—Par. (2). Pub. L. 96–39, §1106(h)(1), substituted “or exaction” for “and exaction”.
 
 Par. (4). Pub. L. 96–39, §202(c)(1), substituted “section 1401a or 1402 of this title (as in effect before the effective date of the amendments made by title II of the Trade Agreements Act of 1979) or in sections 1401a of this title (as in effect on the effective date of such title II amendments) whichever is applicable” for “section 1401a or 1402 of this title applicable”.
 

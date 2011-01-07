@@ -74,7 +74,7 @@
 
 #### (c) Grants
 
-The Secretary may award grants to institutions of higher education or other private and public institutions and organizations, that are carrying out a program or project assisted under this division prior to October 7, 1998, to enable the institutions and organizations to expand and leverage the success of such programs or projects by working in partnership with other institutions, community-based organizations, or combinations of such institutions and organizations, that are not receiving assistance under this division and are serving low-income students and first generation college students, in order to—
+The Secretary may award grants to institutions of higher education or other private and public institutions and organizations, that are carrying out a program or project assisted under this division prior to October 7, 1998, to enable the institutions and organizations to expand and leverage the success of such programs orprojects by working in partnership with other institutions, community-based organizations, or combinations of such institutions and organizations, that are not receiving assistance under this division and are serving low-income students and first generation college students, in order to—
 
 &emsp;(1) disseminate and replicate best practices of programs or projects assisted under this division; and
 
@@ -88,7 +88,7 @@ In order to improve overall program or project effectiveness, the results of eva
 
 #### Amendments
 
-2008—Pub. L. 110–315, §403(h)(1), substituted “Reports, evaluations, and grants for project improvement and dissemination” for “Evaluations and grants for project improvement and dissemination partnership projects” in section catchline.
+<b>2008</b>—Pub. L. 110–315, §403(h)(1), substituted “Reports, evaluations, and grants for project improvement and dissemination” for “Evaluations and grants for project improvement and dissemination partnership projects” in section catchline.
 
 Subsec. (a). Pub. L. 110–315, §403(h)(3), added subsec. (a). Former subsec. (a) redesignated (b).
 
@@ -106,7 +106,7 @@ Former subsec. (b) redesignated (c).
 
 Subsecs. (c), (d). Pub. L. 110–315, §403(h)(2), redesignated subsecs. (b) and (c) as (c) and (d), respectively.
 
-1998—Pub. L. 105–244 amended section generally, revising and restating former subsecs. (a) to (c) relating to evaluation for project improvement.
+<b>1998</b>—Pub. L. 105–244 amended section generally, revising and restating former subsecs. (a) to (c) relating to evaluation for project improvement.
 
 #### Effective Date of 1998 Amendment
 

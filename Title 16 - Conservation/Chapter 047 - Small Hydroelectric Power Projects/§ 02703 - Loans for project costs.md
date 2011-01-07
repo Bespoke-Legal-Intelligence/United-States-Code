@@ -16,7 +16,7 @@ The Secretary is authorized to make loans to any municipality, electric cooperat
 
 #### (b) Preference
 
-The Secretary shall give preference to applicants under this section who do not have available alternative financing which the Secretarydeems appropriate to carry out the project and whose projects will provide useful information as to the technical and economic feasibility of—
+The Secretary shall give preference to applicants under this section who do not have available alternative financing which the Secretary deems appropriate to carry out the project and whose projects will provide useful information as to the technical and economic feasibility of—
 
 &emsp;(1) the generation of electric energy by such projects, and
 

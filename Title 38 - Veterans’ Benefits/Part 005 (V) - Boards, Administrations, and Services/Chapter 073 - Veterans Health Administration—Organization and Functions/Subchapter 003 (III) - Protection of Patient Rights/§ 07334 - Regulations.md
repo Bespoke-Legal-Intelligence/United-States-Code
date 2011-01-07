@@ -26,7 +26,7 @@ Section 7332(b)(2)(C) of this title, referred to in subsec. (c), was formerly a 
 
 #### Amendments
 
-1991—Pub. L. 102–40, §401(a)(4)(A), renumbered section 4134 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §401(a)(4)(A), renumbered section 4134 of this title as this section.
 
 Subsec. (a). Pub. L. 102–40, §403(a)(4), struck out “of this section” after “subsection (b)”.
 
@@ -42,7 +42,9 @@ Pub. L. 102–40, §402(d)(1), substituted “7331, 7332, and 7333” for “413
 
 Subsec. (d). Pub. L. 102–40, §403(a)(1), substituted “Secretary” for “Administrator” in two places.
 
-1988—Pub. L. 100–322 amended section generally, substituting provisions consisting of subsecs. (a) to (d) for former provisions consisting of subsecs. (a) and (b).
+<b>1988</b>—Pub. L. 100–322 amended section generally, substituting provisions consisting of subsecs. (a) to (d) for former provisions consisting of subsecs. (a) and (b).
 
-1982—Subsec. (a). Pub. L. 97–295 substituted “Health and Human Services” for “Health, Education, and Welfare” wherever appearing, and substituted “the President (or the delegate of the President)” for “the Director of the Office of Drug Abuse Policy (or any successor authority)”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–295 substituted “Health and Human Services” for “Health, Education, and Welfare” wherever appearing, and substituted “the President (or the delegate of the President)” for “the Director of the Office of Drug Abuse Policy (or any successor authority)”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,5 +16,5 @@ Upon petition by the Comptroller General through any attorney employed by the Go
 
 #### Amendments
 
-2004—Subsecs. (a), (c). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsecs. (a), (c). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to the availability of funds appropriated under section 2027 of this title, the Secretary is authorized to formulate and administer a supplemental nutrition assistance program under which, at the request of the State agency, eligible households within the State shall be provided an opportunity to obtain a more nutritious diet through the issuance to them of an allotment and, through an approved State plan, nutrition education, except that a State may not participate in the supplemental nutrition assistance program if the Secretary determines that State or local sales taxes are collected within that State on purchases of food made with benefits issued under this chapter. The benefits so received by such households shall be used only to purchase food from retail food stores which have been approved for participation in the supplemental nutrition assistance program. benefits <sup>1</sup> issued and used as provided in this chapter shall be redeemable at face value by the Secretary through the facilities of the Treasury of the United States.
+Subject to the availability of funds appropriated under section 2027 of this title, the Secretary is authorized to formulate and administer a supplemental nutrition assistance program under which, at the request of the State agency, eligible households within the State shall be provided an opportunity to obtain a more nutritious diet through the issuance to them of an allotment, except that a State may not participate in the supplemental nutrition assistance program if the Secretary determines that State or local sales taxes are collected within that State on purchases of food made with benefits issued under this chapter. The benefits so received by such households shall be used only to purchase food from retail food stores which have been approved for participation in the supplemental nutrition assistance program. benefits <sup>1</sup> issued and used as provided in this chapter shall be redeemable at face value by the Secretary through the facilities of the Treasury of the United States.
 
 #### (b) Food distribution program on Indian reservations
 
@@ -74,7 +74,7 @@ Subject to the availability of funds appropriated under section 2027 of this tit
 
 The Secretary shall issue such regulations consistent with this chapter as the Secretary deems necessary or appropriate for the effective and efficient administration of the supplemental nutrition assistance program and shall promulgate all such regulations in accordance with the procedures set forth in section 553 of title 5. In addition, prior to issuing any regulation, the Secretary shall provide the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a copy of the regulation with a detailed statement justifying it.
 
-(Pub. L. 88–525, §4, Aug. 31, 1964, 78 Stat. 704; Pub. L. 91–671, §3, Jan. 11, 1971, 84 Stat. 2049; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 961; Pub. L. 99–198, title XV, §§1505(a), 1506, Dec. 23, 1985, 99 Stat. 1567; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), May 22, 2008, 122 Stat. 1092, 1102, 1106, 1122; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), June 18, 2008, 122 Stat. 1664, 1853, 1863, 1867, 1884.)
+(Pub. L. 88–525, §4, Aug. 31, 1964, 78 Stat. 704; Pub. L. 91–671, §3, Jan. 11, 1971, 84 Stat. 2049; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 961; Pub. L. 99–198, title XV, §§1505(a), 1506, Dec. 23, 1985, 99 Stat. 1567; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a),May 22, 2008, 122 Stat. 1092, 1102, 1106, 1122; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), June 18, 2008, 122 Stat. 1664, 1853, 1863, 1867, 1884; Pub. L. 111–296, title II, §241(b)(1), Dec. 13, 2010, 124 Stat. 3236.)
 
 #### References in Text
 
@@ -85,6 +85,8 @@ The date of enactment of this paragraph, referred to in subsec. (b)(6)(E), is th
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2010—Subsec. (a). Pub. L. 111–296 struck out “and, through an approved State plan, nutrition education” after “issuance to them of an allotment” in first sentence.
 
 2008—Pub. L. 110–246, §4002(a)(1), substituted “supplemental nutrition assistance program” for “food stamp program” in section catchline.
 
@@ -111,6 +113,10 @@ Subsec. (c). Pub. L. 95–113 inserted provisions relating to transmittal of reg
 1971—Subsec. (a). Pub. L. 91–671 substituted “the State agency” and “the charge to be paid for such allotment by eligible households” for “an appropriate State agency” and “their normal expenditures for food”, respectively, and struck out “more nearly” before “to obtain”.
 
 Subsec. (b). Pub. L. 91–671 substituted “operation” for “effect”, “federally donated foods” for “federally owned foods” where first appearing, and exception provision for distributions to households: during temporary emergency situations, for period of time necessary to effect transition to a food stamp program as a replacement of distribution of federally donated foods, or on request of the State agency without simultaneous participation in both the food stamp program and distribution of federally donated foods for prior exception during emergency situations caused by a national or other disaster.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as a note under section 1751 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 2008 Amendment
 

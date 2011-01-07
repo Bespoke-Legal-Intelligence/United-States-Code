@@ -1,7 +1,5 @@
 subpart 3—subgrants to eligible partnerships
 
-<i><sup>1</sup></i><i> So in original. No par. (9) has been enacted.</i>
-
 
 ---
 

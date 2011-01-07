@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(i) any recognized gain on the sale or exchange of property used in the trade or business, and
 
-&emsp;&emsp;&emsp;(ii) any recognized gain from the compulsory or involuntary conversion (as a result of destruction in whole or in part, theft or seizure, or an exercise of the power of requisition or condemnation or the threat or imminence thereof) into other property or money of—
+&emsp;&emsp;&emsp;(ii) any recognized gain from the compulsory or involuntary conversion (as a result of destruction in whole or in part, theft or seizure, or an exercise of thepower of requisition or condemnation or the threat or imminence thereof) into other property or money of—
 
 &emsp;&emsp;&emsp;&emsp;(I) property used in the trade or business, or
 
@@ -140,11 +140,11 @@ For purposes of this section—
 
 #### Amendments
 
-1999—Subsec. (b)(1)(C), (D). Pub. L. 106–170 substituted “section 1221(a)” for “section 1221”.
+<b>1999</b>—Subsec. (b)(1)(C), (D). Pub. L. 106–170 substituted “section 1221(a)” for “section 1221”.
 
-1984—Subsec. (a). Pub. L. 98–369, §1001(b)(15), (e), substituted “6 months” for “1 year” wherever appearing, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §1001(b)(15), (e), substituted “6 months” for “1 year” wherever appearing, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-Pub. L. 98–369, §711(c)(2)(A)(iii), amended subsec. (a) generally, substituting pars. (1) to (4), for “If, during the taxable year, the recognized gains on sales or exchanges of property used in the trade or business, plus the recognized gains from the compulsory or involuntary conversion (as a result of destruction in whole or in part, theft or seizure, or an exercise of the power of requisition or condemnation or the threat or imminence thereof) of property used in the trade or business and capital assets held for more than 1 year into other property or money, exceed the recognized losses from such sales, exchanges, and conversions, such gains and losses shall be considered as gains and losses from sales or exchanges of capital assets held for more than 1 year. If such gains do not exceed such losses, such gainsand losses shall not be considered as gains and losses from sales or exchanges of capital assets. For purposes of this subsection—
+Pub. L. 98–369, §711(c)(2)(A)(iii), amended subsec. (a) generally, substituting pars. (1) to (4), for “If, during the taxable year, the recognized gains on sales or exchanges of property used in the trade or business, plus the recognized gains from the compulsory or involuntary conversion (as a result of destruction in whole or in part, theft or seizure, or an exercise of the power of requisition or condemnation or the threat or imminence thereof) of property used in the trade or business and capital assets held for more than 1 year into other property or money, exceed the recognized losses from such sales, exchanges, and conversions, such gains and losses shall be considered as gains and losses from sales or exchanges of capital assets held for more than 1 year. If such gains do not exceed such losses, such gains and losses shall not be considered as gains and losses from sales or exchanges of capital assets. For purposes of this subsection—
 
 &emsp;“(1) in determining under this subsection whether gains exceed losses, the gains described therein shall be included only if and to the extent taken into account in computing gross income and the losses described therein shall be included only if and to the extent taken into account in computing taxable income, except that section 1211 shall not apply; and
 
@@ -156,23 +156,23 @@ Subsec. (b)(1), (4). Pub. L. 98–369, §1001(b)(15), (e), substituted “6 mont
 
 Subsec. (c). Pub. L. 98–369, §176(a), added subsec. (c).
 
-1981—Subsec. (b)(1)(D). Pub. L. 97–34 substituted “paragraph (5)” for “paragraph (6)”.
+<b>1981</b>—Subsec. (b)(1)(D). Pub. L. 97–34 substituted “paragraph (5)” for “paragraph (6)”.
 
-1978—Subsec. (b)(1)(D). Pub. L. 95–600 added subpar. (D).
+<b>1978</b>—Subsec. (b)(1)(D). Pub. L. 95–600 added subpar. (D).
 
-1976—Subsecs. (a), (b)(1), (4). Pub. L. 94–455, §1402(b)(2), provided that “9 months” would be changed to “1 year” wherever appearing.
+<b>1976</b>—Subsecs. (a), (b)(1), (4). Pub. L. 94–455, §1402(b)(2), provided that “9 months” would be changed to “1 year” wherever appearing.
 
 Pub. L. 94–455, §1402(b)(1)(R), provided that in subsecs. (a), first and last sentences, (a)(2), and (b)(1), (4), “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
-1969—Subsec. (a). Pub. L. 91–172, §516(b), provided that casualty (or theft) losses with respect to depreciable property and real estate used in trade or business and capital assets held for the production of income as well as personal assets are to be consolidated with casualty (or theft) gains with respect to this type of property and if the casualty losses exceed the casualty gains, the net loss is treated as an ordinary loss without regard to whether there may be noncasualty gains under this section, but, if the casualty gains exceed the casualty losses, the net gain is treated as a gain under this section and must be consolidated with other gains and losses under this section.
+<b>1969</b>—Subsec. (a). Pub. L. 91–172, §516(b), provided that casualty (or theft) losses with respect to depreciable property and real estate used in trade or business and capital assets held for the production of income as well as personal assets are to be consolidated with casualty (or theft) gains with respect to this type of property and if the casualty losses exceed the casualty gains, the net loss is treated as an ordinary loss without regard to whether there may be noncasualty gains under this section, but, if the casualty gains exceed the casualty losses, the net gain is treated as a gain under this section and must be consolidated with other gains and losses under this section.
 
 Subsec. (b)(1)(C). Pub. L. 91–172, §514(b)(2), inserted reference to a letter or memorandum.
 
 Subsec. (b)(3). Pub. L. 91–172, §212(b)(1), redesignated existing provisions as subpar. (B) and added subpar. (A).
 
-1964—Subsec. (b)(2). Pub. L. 88–272 inserted reference to iron ore in text, and to domestic iron ore in heading.
+<b>1964</b>—Subsec. (b)(2). Pub. L. 88–272 inserted reference to iron ore in text, and to domestic iron ore in heading.
 
-1958—Subsec. (a). Pub. L. 85–866 inserted provision respecting casualty losses sustained upon certain uninsured property.
+<b>1958</b>—Subsec. (a). Pub. L. 85–866 inserted provision respecting casualty losses sustained upon certain uninsured property.
 
 #### Effective Date of 1999 Amendment
 

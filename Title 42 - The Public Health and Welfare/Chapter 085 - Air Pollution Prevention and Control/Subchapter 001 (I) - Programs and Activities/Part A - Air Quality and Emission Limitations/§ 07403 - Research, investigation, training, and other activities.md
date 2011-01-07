@@ -24,7 +24,7 @@ In carrying out the provisions of the preceding subsection the Administrator is 
 
 &emsp;(3) make grants to air pollution control agencies, to other public or nonprofit private agencies, institutions, and organizations, and to individuals, for purposes stated in subsection (a)(1) of this section;
 
-&emsp;(4) contract with public or private agencies, institutions, and organizations, and with individuals, without regard to section 3324(a) and (b) of title 31 and section 5 of title 41;
+&emsp;(4) contract with public or private agencies, institutions, and organizations, and with individuals, without regard to section 3324(a) and (b) of title 31 and section 6101 of title 41;
 
 &emsp;(5) establish and maintain research fellowships, in the Environmental Protection Agency and at public or nonprofit private educational institutions or research organizations;
 
@@ -64,7 +64,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 &emsp;(C) shall consult with other Federal agencies to ensure that similar research being conducted in other agencies is coordinated to avoid duplication.
 
-(2) In conducting the research program under this subsection, the Administrator shall develop methods and techniques necessary to identify and assess the risks to human health from bothroutine and accidental exposures to individual air pollutants and combinations thereof. Such research program shall include the following elements:
+(2) In conducting the research program under this subsection, the Administrator shall develop methods and techniques necessary to identify and assess the risks to human health from both routine and accidental exposures to individual air pollutants and combinations thereof. Such research program shall include the following elements:
 
 &emsp;(A) The creation of an Interagency Task Force to coordinate such program. The Task Force shall include representatives of the National Institute for Environmental Health Sciences, the Environmental Protection Agency, the Agency for Toxic Substances and Disease Registry, the National Toxicology Program, the National Institute of Standards and Technology, the National Science Foundation, the Surgeon General, and the Department of Energy. This Interagency Task Force shall be chaired by a representative of the Environmental Protection Agency and shall convene its first meeting within 60 days after November 15, 1990.
 
@@ -216,7 +216,7 @@ The Acid Precipitation Act of 1980, referred to in subsec. (j)(1), (3)(A), is ti
 
 #### Codification
 
-In subsec. (b)(4), “section 3324(a) and (b) of title 31” substituted for reference to section 3648 of the Revised Statutes (31 U.S.C. 529) on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b)(4), “section 3324(a) and (b) of title 31 and section 6101 of title 41” substituted for “sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529; 41 U.S.C. 5)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was formerly classified to section 1857b of this title.
 
@@ -224,11 +224,11 @@ Section was formerly classified to section 1857b of this title.
 
 Provisions similar to those in subsec. (a)(3) of this section were contained in subsec. (a) of a prior section 1857b of this title, act July 14, 1955, ch. 360, §3, 69 Stat. 322, as amended Oct. 9, 1962, Pub. L. 87–761, §2, 76 Stat. 760, prior to the general amendment of this chapter by Pub. L. 88–206.
 
-Provisions similar to those in this section were contained in prior sections 1857a to 1857d of this title, act July 14, 1955, ch. 360, §§2 to 5, 69 Stat. 322 (section 1857b as amended Oct. 9, 1962, Pub. L. 87–761, §2, 76 Stat. 760; section 1857d as amended Sept. 22, 1959, Pub. L. 86–365, §1, 73 Stat. 646 and Oct. 9, 1962, Pub. L. 87–761, §1, 76 Stat. 760), prior to the general amendment of this chapter by Pub. L. 88–206.
+Provisions similar to those in this section were contained in prior sections 1857a to 1857d of this title, actJuly 14, 1955, ch. 360, §§2 to 5, 69 Stat. 322 (section 1857b as amended Oct. 9, 1962, Pub. L. 87–761, §2, 76 Stat. 760; section 1857d as amended Sept. 22, 1959, Pub. L. 86–365, §1, 73 Stat. 646 and Oct. 9, 1962, Pub. L. 87–761, §1, 76 Stat. 760), prior to the general amendment of this chapter by Pub. L. 88–206.
 
 #### Amendments
 
-1990—Subsec. (a)(1). Pub. L. 101–549, §901(a)(1), inserted “(including health and welfare effects)” after “effects”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–549, §901(a)(1), inserted “(including health and welfare effects)” after “effects”.
 
 Subsec. (b)(8). Pub. L. 101–549, §901(a)(2), which directed amendment of subsec. (b) by adding par. (8) at end, was executed by adding par. (8) after par. (7) to reflect the probable intent of Congress.
 
@@ -236,11 +236,11 @@ Subsecs. (c) to (f). Pub. L. 101–549, §901(b), amended subsecs. (c) to (f) ge
 
 Subsecs. (g) to (k). Pub. L. 101–549, §901(c), added subsecs. (g) to (k).
 
-1977—Subsec. (a). Pub. L. 95–95, §101(b), struck out reference to “training” in par. (1) and added par. (5).
+<b>1977</b>—Subsec. (a). Pub. L. 95–95, §101(b), struck out reference to “training” in par. (1) and added par. (5).
 
 Subsec. (b). Pub. L. 95–95, §101(a), struck out par. (5) which provided for training and training grants to personnel of air pollution control agencies and other persons with suitable qualifications, redesignated pars. (6), (7), and (8) as (5), (6), and (7), respectively, and, following par. (7) as so redesignated, inserted provisions directing the Administrator, in carrying out subsec. (a), to provide training for, and make training grants to, personnel of air pollution control agencies and other persons with suitable qualifications and to make grants to such agencies, to other public or nonprofit private agencies, institutions, and organizations for the purposes stated in subsec. (a)(5) and allowing reasonable fees to be charged for such training provided to persons other than personnel of air pollution control agencies but requiring that such training be provided to such personnel of air pollution control agencies without charge.
 
-1970—Subsec. (a). Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary”.
 
 Subsec. (b). Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary” and “Environmental Protection Agency” for “Department of Health, Education, and Welfare”.
 
@@ -252,13 +252,13 @@ Subsec. (e). Pub. L. 91–604, §15(c)(2), substituted “Administrator” for �
 
 Subsec. (f). Pub. L. 91–604, §2(a), added subsec. (f).
 
-1967—Subsec. (a). Pub. L. 90–148 substituted “establish technical advisory committees composed of recognized experts in various aspects of air pollution to assist in the examination and evaluation of research progress and proposals and to avoid duplication of research” for “initiate and conduct a program of research directed toward the development of improved, low-cost techniques for extracting sulfur from fuels” as cl. (4) and struck out cl. (5) which related to research programs relating to the control of hydrocarbon emissions from evaporation of gasoline and nitrogen and aldehyde oxide emission from gasoline and diesel powered vehicles and relating to the development of improved low-cost techniques to reduce emissions of oxides of sulfur produced by the combustion of sulfur-containing fuels.
+<b>1967</b>—Subsec. (a). Pub. L. 90–148 substituted “establish technical advisory committees composed of recognized experts in various aspects of air pollution to assist in the examination and evaluation of research progress and proposals and to avoid duplication of research” for “initiate and conduct a program of research directed toward the development of improved, low-cost techniques for extracting sulfur from fuels” as cl. (4) and struck out cl. (5) which related to research programs relating to the control of hydrocarbon emissions from evaporation of gasoline and nitrogen and aldehyde oxide emission from gasoline and diesel powered vehicles and relating to the development of improved low-cost techniques to reduce emissions of oxides of sulfur produced by the combustion of sulfur-containing fuels.
 
 Subsec. (c). Pub. L. 90–148 struck out provision for promulgation of criteria in the case of particular air pollution agents present in the air in certain quantities reflecting the latest scientific knowledge and allowing for availability and revision and provided for recommendation by Secretary of air quality criteria.
 
 Subsec. (e). Pub. L. 90–148 substituted references to subsections (d), (e), and (f) of section 7415 of this title for references to subsections (c), (d), and (e) of section 7415 of this title in provision for admission of advisory findings and recommendations together with the record of the conference and made such findings and recommendations part of the proceedings of the conference, not merely part of the record of proceedings.
 
-1965—Subsec. (a)(5). Pub. L. 89–272, §103(3), added par. (5).
+<b>1965</b>—Subsec. (a)(5). Pub. L. 89–272, §103(3), added par. (5).
 
 Subsecs. (d), (e). Pub. L. 89–272, §103(4), added subsecs. (d) and (e).
 

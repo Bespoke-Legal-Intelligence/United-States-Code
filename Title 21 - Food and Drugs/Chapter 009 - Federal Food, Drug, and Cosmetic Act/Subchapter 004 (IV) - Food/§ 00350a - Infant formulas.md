@@ -202,9 +202,9 @@ NUTRIENTS
 
 #### Amendments
 
-1993—Subsec. (h)(1). Pub. L. 103–80 substituted “(e)(1)(B) of this section” for “(c)(1)(B) of this section,” in concluding provisions.
+<b>1993</b>—Subsec. (h)(1). Pub. L. 103–80 substituted “(e)(1)(B) of this section” for “(c)(1)(B) of this section,” in concluding provisions.
 
-1986—Subsecs. (a) to (d). Pub. L. 99–570, §4014(a)(7), added subsecs. (a) to (d) and struck out former subsecs. (a) relating to adulteration and regulatory oversight, (b) relating to notice to the Secretary by a manufacturer and requirements and scope of that notice, (c) relating to additional notice requirements for the manufacturer, and (d) relating to procedures applicable to recalls by a manufacturer.
+<b>1986</b>—Subsecs. (a) to (d). Pub. L. 99–570, §4014(a)(7), added subsecs. (a) to (d) and struck out former subsecs. (a) relating to adulteration and regulatory oversight, (b) relating to notice to the Secretary by a manufacturer and requirements and scope of that notice, (c) relating to additional notice requirements for the manufacturer, and (d) relating to procedures applicable to recalls by a manufacturer.
 
 Subsecs. (e), (f). Pub. L. 99–570, §4014(a)(1), (7), added subsecs. (e) and (f) and redesignated former subsecs. (e) and (f) as (g) and (h), respectively.
 

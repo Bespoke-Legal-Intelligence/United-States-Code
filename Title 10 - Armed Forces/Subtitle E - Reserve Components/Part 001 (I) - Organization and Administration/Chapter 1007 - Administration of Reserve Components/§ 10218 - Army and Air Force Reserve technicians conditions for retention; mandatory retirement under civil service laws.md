@@ -30,7 +30,7 @@ Separation and Retirement of Military Technicians (Dual Status).—(1) An indivi
 
 (b)
 
-Non-Dual Status Technicians.—(1) An individual who on October 5, 1999, is employed by the Army Reserve or the Air Force Reserve as a non-dual status technician and who on that date is eligible for an unreduced annuity and is age 60 or older shall be separated not later than April 5, 2000.
+Non-Dual Status Technicians.—(1) An individual who on October 5, 1999, is employed bythe Army Reserve or the Air Force Reserve as a non-dual status technician and who on that date is eligible for an unreduced annuity and is age 60 or older shall be separated not later than April 5, 2000.
 
 (2)(A) An individual who on October 5, 1999, is employed by the Army Reserve or the Air Force Reserve as a non-dual status technician and who on that date is not eligible for an unreduced annuity or is under age 60 shall be offered the opportunity to—
 
@@ -66,7 +66,7 @@ Voluntary Personnel Action Defined.—In this section, the term “voluntary per
 
 #### Amendments
 
-2000—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(20)(A)\], substituted “October 5, 1999,” for “the date of the enactment of this section”.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(20)(A)\], substituted “October 5, 1999,” for “the date of the enactment of this section”.
 
 Subsec. (a)(2). Pub. L. 106–398, §1 \[\[div. A\], title V, §525(a)(1)(A)\], inserted “and is age 60 or older at that time” after “unreduced annuity”.
 

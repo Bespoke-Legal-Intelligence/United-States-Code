@@ -30,7 +30,7 @@ Redemption, cancellation, and destruction of currency.—The Secretary shall—
 
 &emsp;(B) outstanding currency referred to in subsection (b)(1) of this section.
 
-(2) When the Secretary makes a determination under this subsection, the Secretary shall reduce the amount of that currency outstanding by the amount the Secretary determines will not be redeemed and credit the appropriate receipt account.
+(2) When the Secretary makes a determination under this subsection, the Secretary shall reduce the amount of that currency outstandingby the amount the Secretary determines will not be redeemed and credit the appropriate receipt account.
 
 (d) To provide a historical collection of United States currency, the Secretary may withhold from cancellation and destruction and transfer to a special account one piece of each design, issue, or series of each denomination of each kind of currency (including circulating notes of Federal reserve banks and national banks) after redemption. The Secretary may make appropriate entries in Treasury accounts because of the transfers.
 
@@ -130,7 +130,7 @@ Acts February 25, 1862, July 11, 1862, and March 3, 1863, and resolution January
 
 #### Amendments
 
-1994—Subsec. (b)(2). Pub. L. 103–325 inserted concluding provisions.
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–325 inserted concluding provisions.
 
-1992—Subsec. (b)(2). Pub. L. 102–390 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall redeem from the general fund of the Treasury and cancel and destroy currency referred to in paragraph (1) of this subsection when the currency is presented to the Secretary.”
+<b>1992</b>—Subsec. (b)(2). Pub. L. 102–390 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall redeem from the general fund of the Treasury and cancel and destroy currency referred to in paragraph (1) of this subsection when the currency is presented to the Secretary.”
 

@@ -76,7 +76,7 @@ In addition to information required in this section, the stamp, tag, label, or o
 
 #### (c) Substitute identification
 
-If any person subject to section 68a of this title with respect to a wool product finds or hasreasonable cause to believe its stamp, tag, label, or other means of identification, or substitute therefor under section 68c of this title, does not contain the information required by this subchapter, he may replace same with a substitute containing the information so required.
+If any person subject to section 68a of this title with respect to a wool product finds or has reasonable cause to believe its stamp, tag, label, or other means of identification, or substitute therefor under section 68c of this title, does not contain the information required by this subchapter, he may replace same with a substitute containing the information so required.
 
 #### (d) Designations on linings, paddings, etc.
 
@@ -96,17 +96,17 @@ For purposes of this subchapter, any wool product shall be misbranded if a stamp
 
 #### Amendments
 
-2006—Subsec. (a)(5), (6). Pub. L. 109–428 added pars. (5) and (6).
+<b>2006</b>—Subsec. (a)(5), (6). Pub. L. 109–428 added pars. (5) and (6).
 
-1984—Subsec. (a)(2)(D). Pub. L. 98–417, §304, added subpar. (D).
+<b>1984</b>—Subsec. (a)(2)(D). Pub. L. 98–417, §304, added subpar. (D).
 
 Subsecs. (e), (f). Pub. L. 98–417, §305, added subsecs. (e) and (f).
 
-1980—Subsec. (a)(2)(A). Pub. L. 96–242 substituted “recycled wool” for “reprocessed wool” as cl. (2), struck out cl. (3) “reused wool”, and redesignated existing cls. (4) and (5) as (3) and (4), respectively.
+<b>1980</b>—Subsec. (a)(2)(A). Pub. L. 96–242 substituted “recycled wool” for “reprocessed wool” as cl. (2), struck out cl. (3) “reused wool”, and redesignated existing cls. (4) and (5) as (3) and (4), respectively.
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–428, §2(b), Dec. 20, 2006, 120 Stat. 2915, provided that: “The amendments made by this section \[amending this section\] shall apply to wool products manufactured on or after January 1, 2007.”
+Pub. L. 109–428, §2(b), Dec. 20, 2006, 120 Stat. 2915, provided that: “The amendments made by this section\[amending this section\] shall apply to wool products manufactured on or after January 1, 2007.”
 
 #### Effective Date of 1984 Amendment
 

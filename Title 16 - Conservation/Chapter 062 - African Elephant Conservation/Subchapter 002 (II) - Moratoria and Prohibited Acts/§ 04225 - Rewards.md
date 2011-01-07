@@ -10,7 +10,7 @@ The amount of a reward under this section shall be equal to not more than one-ha
 
 #### (c) Limitation on eligibility
 
-An officer or employee of the United States or of any State or local government who furnishes information or renders service in the performance of his or her official duties shall not be eligible for a reward under this section.
+An officer or employee of the United States or of any State or local government who furnishesinformation or renders service in the performance of his or her official duties shall not be eligible for a reward under this section.
 
 (Pub. L. 100–478, title II, §2205, Oct. 7, 1988, 102 Stat. 2320.)
 

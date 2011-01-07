@@ -28,7 +28,7 @@ A summons issued under section 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7602 shall
 
 &emsp;&emsp;(G) any barter exchange (as defined in section 6045(c)(3)),
 
-&emsp;&emsp;(H) any regulated investment company (as defined in section 851) and any agent of such regulated investment company when acting as an agent thereof,
+&emsp;&emsp;(H) any regulated investment company (as defined in section 851) and any agent of suchregulated investment company when acting as an agent thereof,
 
 &emsp;&emsp;(I) any enrolled agent, and
 
@@ -40,37 +40,37 @@ A summons issued under section 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7602 shall
 
 #### Amendments
 
-2000—Subsec. (b)(2)(A) to (G). Pub. L. 106–554 substituted a comma for semicolon at end.
+<b>2000</b>—Subsec. (b)(2)(A) to (G). Pub. L. 106–554 substituted a comma for semicolon at end.
 
-1998—Subsec. (a). Pub. L. 105–206, §3416(a), designated existing provisions as subsec. (a) and inserted heading.
+<b>1998</b>—Subsec. (a). Pub. L. 105–206, §3416(a), designated existing provisions as subsec. (a) and inserted heading.
 
 Subsec. (b). Pub. L. 105–206, §3416(a), added subsec. (b).
 
 Subsec. (b)(2). Pub. L. 105–206, §3413(c), added subpar. (J) and concluding provisions.
 
-1988—Pub. L. 100–647, §1017(c)(12), made technical correction to language of Pub. L. 99–514, §1703(e)(2)(G), see 1986 Amendment note below.
+<b>1988</b>—Pub. L. 100–647, §1017(c)(12), made technical correction to language of Pub. L. 99–514, §1703(e)(2)(G), see 1986 Amendment note below.
 
 Pub. L. 100–647, §1017(c)(9), substituted “6421(g)(2)” for “6421(f)(2)”.
 
-1986—Pub. L. 99–514, as amended by Pub. L. 100–647, §1017(c)(12), substituted “6427(j)(2)” for “6427(i)(2)”.
+<b>1986</b>—Pub. L. 99–514, as amended by Pub. L. 100–647, §1017(c)(12), substituted “6427(j)(2)” for “6427(i)(2)”.
 
-1984—Pub. L. 98–369 substituted “6427(i)(2)” for “6427(h)(2)”.
+<b>1984</b>—Pub. L. 98–369 substituted “6427(i)(2)” for “6427(h)(2)”.
 
-1983—Pub. L. 97–424 struck out “6424(d)(2),” after “6421(f)(2),”.
+<b>1983</b>—Pub. L. 97–424 struck out “6424(d)(2),” after “6421(f)(2),”.
 
-1980—Pub. L. 96–223 substituted “6427(h)(2)” for “6427(g)(2)”.
+<b>1980</b>—Pub. L. 96–223 substituted “6427(h)(2)” for “6427(g)(2)”.
 
-1978—Pub. L. 95–599 substituted “6427(g)(2)” for “6427(f)(2)”.
+<b>1978</b>—Pub. L. 95–599 substituted “6427(g)(2)” for “6427(f)(2)”.
 
-1976—Pub. L. 94–530 substituted “6427(f)(2)” for “6427(e)(2)”.
+<b>1976</b>—Pub. L. 94–530 substituted “6427(f)(2)” for “6427(e)(2)”.
 
 Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1970—Pub. L. 91–258 inserted reference to section 6427(e)(2).
+<b>1970</b>—Pub. L. 91–258 inserted reference to section 6427(e)(2).
 
-1965—Pub. L. 89–44 inserted reference to section 6424(d)(2).
+<b>1965</b>—Pub. L. 89–44 inserted reference to section 6424(d)(2).
 
-1956—Act June 29, 1956, inserted reference to section 6421(f)(2).
+<b>1956</b>—Act June 29, 1956, inserted reference to section 6421(f)(2).
 
 Act Apr. 2, 1956, inserted reference to section 6420(e)(2).
 
@@ -82,7 +82,7 @@ Pub. L. 105–206, title III, §3416(b), July 22, 1998, 112 Stat. 757, provided 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

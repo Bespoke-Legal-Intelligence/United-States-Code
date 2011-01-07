@@ -6,7 +6,7 @@ Agreements Without Certification.—If the Secretary of Transportation does not 
 
 &emsp;(1) establish an adequate program for record maintenance, reporting, and inspection designed to assist compliance with applicable safety standards prescribed under this chapter; and
 
-&emsp;(2) prescribe procedures for approval of plans of inspection and maintenance substantially the same as required under section 60108 (a) and (b) of this title.
+&emsp;(2) prescribe procedures for approval of plans of inspection and maintenance substantiallythe same as required under section 60108 (a) and (b) of this title.
 
 (b)
 
@@ -14,7 +14,7 @@ Agreements With Certification.—
 
 &emsp;(1)
 
-In general.—If the Secretary accepts a certification under section 60105 and makes the determination required under this subsection, the Secretary may make an agreement with a State authority authorizing it to participate in the oversight of interstate pipeline transportation. Each such agreement shall include a plan for the State authority to participate in special investigations involvingincidents or new construction and allow the State authority to participate in other activities overseeing interstate pipeline transportation or to assume additional inspection or investigatory duties. Nothing in this section modifies section 60104(c) or authorizes the Secretary to delegate the enforcement of safety standards for interstate pipeline facilities prescribed under this chapter to a State authority.
+In general.—If the Secretary accepts a certification under section 60105 and makes the determination required under this subsection, the Secretary may make an agreement with a State authority authorizing it to participate in the oversight of interstate pipeline transportation. Each such agreement shall include a plan for the State authority to participate in special investigations involving incidents or new construction and allow the State authority to participate in other activities overseeing interstate pipeline transportation or to assume additional inspection or investigatory duties. Nothing in this section modifies section 60104(c) or authorizes the Secretary to delegate the enforcement of safety standards for interstate pipeline facilities prescribed under this chapter to a State authority.
 
 &emsp;(2)
 
@@ -146,7 +146,7 @@ Enactment of the Pipeline Safety Improvement Act of 2002, referred to in subsec.
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–355, §4(a)(1), substituted “
+<b>2002</b>—Subsec. (a). Pub. L. 107–355, §4(a)(1), substituted “
 
 Agreements Without Certification” for “
 
@@ -160,5 +160,5 @@ Subsec. (d). Pub. L. 107–355, §4(a)(2), redesignated subsec. (c) as (d). Form
 
 Subsec. (e). Pub. L. 107–355, §4(a)(2), (b), redesignated subsec. (d) as (e), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary may end an agreement made under this section when the Secretary finds that the State authority has not complied with any provision of the agreement. The Secretary shall give the authority notice and an opportunity for a hearing before ending an agreement. The finding and decision to end the agreement shall be published in the Federal Register and may not become effective for at least 15 days after the date of publication.”
 
-1996—Pub. L. 104–304 substituted “State pipeline safety agreements” for “State agreements” in section catchline.
+<b>1996</b>—Pub. L. 104–304 substituted “State pipeline safety agreements” for “State agreements” in section catchline.
 

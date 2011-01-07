@@ -1,6 +1,6 @@
 ### §8435. Protections for spouses and former spouses
 
-(a)(1)(A) A married employee or Member (or former employee or Member) may withdraw all or part of a Thrift Savings Fund account undersubsection (b)(2), (3), or (4) of section 8433 of this title or change a withdrawal election only if the employee or Member (or former employee or Member) satisfies the requirements of subparagraph (B). A married employee or Member (or former employee or Member) may make a withdrawal from a Thrift Savings Fund account under subsection (c)(1) of section 8433 of this title only if the employee or Member (or former employee or Member) satisfies the requirements of subparagraph (B).
+(a)(1)(A) A married employee or Member (or former employee or Member) may withdraw all or part of a Thrift Savings Fund account under subsection (b)(2), (3), or (4) of section 8433 of this title or change a withdrawal election only if the employee or Member (or former employee or Member) satisfies the requirements of subparagraph (B). A married employee or Member (or former employee or Member) may make a withdrawal from a Thrift Savings Fund account under subsection (c)(1) of section 8433 of this title only if the employee or Member (or former employee or Member) satisfies the requirements of subparagraph (B).
 
 (B) An employee or Member (or former employee or Member) may make an election or change referred to in subparagraph (A) if the employee or Member and the employee's or Member's spouse (or the former employee or Member and the former employee's or Member's spouse) jointly waive, by written election, any right which the spouse may have to a survivor annuity with respect to such employee or Member (or former employee or Member) under section 8434 of this title or subsection (b).
 
@@ -50,7 +50,7 @@
 
 &emsp;(B) the total amount of all other survivor annuities payable under this subchapter to other former spouses of such deceased employee, Member, former employee, or former Member based on the order of precedence provided in paragraph (4).
 
-(4) If more than one former spouse of a deceased employee, Member, former employee, or former Member is entitled to a survivor annuity pursuant to this subsection, the amount of each such survivor annuity shall be limited appropriately to carry out paragraph (3) in the orderof precedence established for the entitlements by the chronological order of the dates on which elections are properly made pursuant to section 8434(a)(2)(E) of this title and the dates on which the court decrees, orders, or agreements applicable to the entitlement were issued, as the case may be.
+(4) If more than one former spouse of a deceased employee, Member, former employee, orformer Member is entitled to a survivor annuity pursuant to this subsection, the amount of each such survivor annuity shall be limited appropriately to carry out paragraph (3) in the order of precedence established for the entitlements by the chronological order of the dates on which elections are properly made pursuant to section 8434(a)(2)(E) of this title and the dates on which the court decrees, orders, or agreements applicable to the entitlement were issued, as the case may be.
 
 (5) Subsections (c) and (d) of section 8445 of this title shall apply to an entitlement of a former spouse to a survivor annuity under this subsection.
 

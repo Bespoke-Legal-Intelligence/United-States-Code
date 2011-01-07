@@ -16,5 +16,5 @@ No person shall be entitled to receive any salary or other compensation from the
 
 #### Amendments
 
-1970—Subsec. (b). Pub. L. 91–599 authorized appointment of an alternate Executive Director.
+<b>1970</b>—Subsec. (b). Pub. L. 91–599 authorized appointment of an alternate Executive Director.
 

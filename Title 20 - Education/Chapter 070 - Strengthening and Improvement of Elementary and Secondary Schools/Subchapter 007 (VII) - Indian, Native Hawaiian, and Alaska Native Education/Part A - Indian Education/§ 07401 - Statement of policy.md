@@ -22,7 +22,7 @@ Ex. Ord. No. 13336, Apr. 30, 2004, 69 F.R. 25295, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and to recognize the unique educational and culturally related academic needs of American Indian and Alaska Native students consistent with the unique political and legal relationship of the Federal Government with tribal governments, it is hereby ordered as follows:
 
-Section 1. <i>Purpose</i>. The United States has a unique legal relationship with Indian tribes and a special relationship with Alaska Native entities as provided in the Constitution of the United States, treaties, and Federal statutes. This Administration is committed to continuing to work with these Federally recognized tribal governments on a government-to-government basis, and supports tribal sovereignty and self-determination. It is the purpose of this order to assist American Indian and Alaska Native students in meeting the challenging student academic standards of the No Child Left Behind Act of 2001 (Public Law 107–110 \[see Tables for classification\]) in a manner that is consistent with tribal traditions, languages, and cultures. This order builds on the innovations, reforms, and high standards of the No Child Left Behind Act of 2001, including: stronger accountability for results; greater flexibility in the use of Federal funds; more choices for parents; and an emphasis on research-based instruction that works.
+Section 1. <i>Purpose</i>. The United States has a unique legal relationship with Indian tribes and a special relationship with Alaska Native entities as provided in the Constitution of the United States, treaties, and Federal statutes. This Administration is committed to continuing to work with these Federally recognized tribal governments on a government-to-government basis, and supports tribal sovereignty and self-determination. It is the purpose of this order to assist American Indian and Alaska Native students in meeting the challenging student academic standards of the No Child Left Behind Act of 2001 (Public Law 107–110 \[see Tables for classification\]) in a manner that is consistent with tribal traditions, languages, and cultures. This order builds on the innovations, reforms, and high standards of theNo Child Left Behind Act of 2001, including: stronger accountability for results; greater flexibility in the use of Federal funds; more choices for parents; and an emphasis on research-based instruction that works.
 
 Sec. 2. <i>Interagency Working Group</i>. There is established an Interagency Working Group on American Indian and Alaska Native Education (Working Group) to oversee the implementation of this order.
 
@@ -60,7 +60,7 @@ Sec. 3. <i>Study and Report</i>. The Secretary of Education, in coordination wit
 
 &emsp;(v) development of methods to increase the high school graduation rate and develop pathways to college and the workplace for American Indian and Alaska Native students.
 
-The Secretary of Education shall develop an agenda, including proposed timelines and ongoing activities, forthe conduct of the study, and shall make that agenda available to the public on the Internet.
+The Secretary of Education shall develop an agenda, including proposed timelines and ongoing activities, for the conduct of the study, and shall make that agenda available to the public on the Internet.
 
 (b) The Secretary of Education, in coordination with the Working Group, shall issue a report to the President that shall:
 

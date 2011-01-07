@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Upon default by the borrower on any loan covered by Federal loan insurance pursuant to this subpart, and after a substantial collection effort (including, subject to subsection (h) of this section, commencement and prosecution of an action) as determined under regulations of the Secretary, the insurance beneficiary shall promptly notify the Secretary and the Secretary shall, if requested (at that time or after further collection efforts) by the beneficiary, or may on his own motion, if the insurance is still in effect, pay to the beneficiarythe amount of the loss sustained by the insured upon that loan as soon as that amount has been determined, except that, if the insurance beneficiary including any servicer of the loan is not designated for “exceptional performance”, as set forth in paragraph (2), the Secretary shall pay to the beneficiary a sum equal to 98 percent of the amount of the loss sustained by the insured upon that loan.
+&emsp;Upon default by the borrower on any loan covered by Federal loan insurance pursuant to this subpart, and after a substantial collection effort (including, subject to subsection (h) of this section, commencement and prosecution of an action) as determined under regulations of the Secretary, the insurance beneficiary shall promptly notify the Secretary and the Secretary shall, if requested (at that time or after further collection efforts) by the beneficiary, or may on his own motion, if the insurance is still in effect, pay to the beneficiary the amount of the loss sustained by the insured upon that loan as soon as that amount has been determined, except that, if the insurance beneficiary including any servicer of the loan is not designated for “exceptional performance”, as set forth in paragraph (2), the Secretary shall pay to the beneficiary a sum equal to 98 percent of the amount of the loss sustained by the insured upon that loan.
 
 #### (2) Exceptional performance
 
@@ -26,7 +26,7 @@
 
 #### (E) Quarterly compliance audit
 
-&emsp;&emsp;To maintain its status as an exceptional performer, the lender, holder, or servicer shall undergo a quarterly compliance audit at the end of each quarter (other than the quarter in which status as an exceptional performer is established through a financial and compliance audit, as described in subparagraph (C)), and submit the results of such audit to the Secretary. The compliance audit shall review compliance with due diligence requirements for the period beginning on the day after the ending date of the previous audit, in accordance with standards determined by the Secretary.
+&emsp;&emsp;To maintain its status as an exceptional performer, the lender, holder, or servicer shall undergo a quarterly compliance auditat the end of each quarter (other than the quarter in which status as an exceptional performer is established through a financial and compliance audit, as described in subparagraph (C)), and submit the results of such audit to the Secretary. The compliance audit shall review compliance with due diligence requirements for the period beginning on the day after the ending date of the previous audit, in accordance with standards determined by the Secretary.
 
 #### (F) Revocation authority
 
@@ -74,7 +74,7 @@ For purposes of this section:
 
 #### (f) Reductions in Federal reimbursements or payments for defaulting borrowers
 
-The Secretary shall, after notice and opportunity for a hearing, cause to be reduced Federal reimbursements or payments for health services under any Federal law to borrowers who are practicing their professions and have defaulted on their loans insured under this subpart in amounts up to the remaining balance of such loans. Procedures for reduction of payments under the medicare program are provided under section 1395ccc of this title. Notwithstanding such section 1395ccc of this title, any funds recovered under this subsection shall be deposited in the insurance fund established under section 292i of this title.
+The Secretary shall, after notice and opportunity for a hearing, cause to be reduced Federal reimbursements or payments for health services under any Federal law to borrowers who are practicing their professions and have defaulted on their loans insured under this subpart inamounts up to the remaining balance of such loans. Procedures for reduction of payments under the medicare program are provided under section 1395ccc of this title. Notwithstanding such section 1395ccc of this title, any funds recovered under this subsection shall be deposited in the insurance fund established under section 292i of this title.
 
 #### (g) Conditions for discharge of debt in bankruptcy
 
@@ -134,13 +134,13 @@ A prior section 707 of act July 1, 1944, was classified to section 292g of this 
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–392, §142(a), designated existing provisions as par. (1), inserted heading, substituted “determined, except that, if the insurance beneficiary including any servicer of the loan is not designated for ‘exceptional performance’, as set forth in paragraph (2), the Secretary shall pay to the beneficiary a sum equal to 98 percent of the amount of the loss sustained by the insured upon that loan.” for “determined.”, struck out at end “Not later than one year after October 13, 1992, the Secretary shall establish performance standards for lenders and holders of loans under this subpart, including fees to be imposed for failing to meet such standards.”, and added par. (2).
+<b>1998</b>—Subsec. (a). Pub. L. 105–392, §142(a), designated existing provisions as par. (1), inserted heading, substituted “determined, except that, if the insurance beneficiary including any servicer of the loan is not designated for ‘exceptional performance’, as set forth in paragraph (2), the Secretary shall pay to the beneficiary a sum equal to 98 percent of the amount of the loss sustained by the insured upon that loan.” for “determined.”, struck out at end “Not later than one year after October 13, 1992, the Secretary shall establish performance standards for lenders and holders of loans under this subpart, including fees to be imposed for failing to meet such standards.”, and added par. (2).
 
 Subsec. (e)(4). Pub. L. 105–392, §142(b), added par. (4).
 
 Subsec. (g). Pub. L. 105–392, §144(a), substituted “Notwithstanding any other provision of Federal or State law, a debt that is a loan insured” for “A debt which is a loan insured” in introductory provisions.
 
-1993—Subsec. (g)(1). Pub. L. 103–43, §2014(a)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “after the expiration of the five-year period beginning on the first date, as specified in subparagraphs (B) and (C) of section 292d(a)(2) of this title, when repayment of such loan is required;”.
+<b>1993</b>—Subsec. (g)(1). Pub. L. 103–43, §2014(a)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “after the expiration of the five-year period beginning on the first date, as specified in subparagraphs (B) and (C) of section 292d(a)(2) of this title, when repayment of such loan is required;”.
 
 Subsec. (j). Pub. L. 103–43, §2014(a)(2)(B), added subsec. (j).
 

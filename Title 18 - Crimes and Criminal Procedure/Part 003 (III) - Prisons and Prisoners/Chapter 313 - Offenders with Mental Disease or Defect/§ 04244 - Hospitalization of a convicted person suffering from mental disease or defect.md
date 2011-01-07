@@ -24,7 +24,7 @@ Discharge.—When the director of the facility in which the defendant is hospita
 
 #### Amendments
 
-1984—Pub. L. 98–473 amended section generally, substituting “Hospitalization of a convicted person suffering from mental disease or defect” for “Mental incompetency after arrest and before trial” in section catchline, and substituting provisions relating to motion, examination and report, hearing, etc., to determine present mental condition of convicted defendant, for provisions relating to motion, examination, etc., to determine the mental competency of a person after arrest and before trial.
+<b>1984</b>—Pub. L. 98–473 amended section generally, substituting “Hospitalization of a convicted person suffering from mental disease or defect” for “Mental incompetency after arrest and before trial” in section catchline, and substituting provisions relating to motion, examination and report, hearing, etc., to determine present mental condition of convicted defendant, for provisions relating to motion, examination, etc., to determine the mental competency of a person after arrest and before trial.
 
 #### Separability
 

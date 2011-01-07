@@ -16,7 +16,7 @@
 
 #### Amendments
 
-1991—Subsec. (a)(1). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
 Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
@@ -26,7 +26,7 @@ Subsec. (a)(3). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” f
 
 Subsec. (c)(2). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1986—Subsec. (b). Pub. L. 99–576 substituted “such person” for “he”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–576 substituted “such person” for “he”.
 
-1976—Subsec. (c). Pub. L. 94–491 added subsec. (c).
+<b>1976</b>—Subsec. (c). Pub. L. 94–491 added subsec. (c).
 

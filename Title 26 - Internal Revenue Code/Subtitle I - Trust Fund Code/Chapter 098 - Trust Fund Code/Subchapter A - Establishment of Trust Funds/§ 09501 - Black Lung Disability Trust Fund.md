@@ -82,11 +82,11 @@ The Black Lung Benefits Act, referred to in subsecs. (b)(2)(A), (B) and (d), is 
 
 The date of enactment of the Black Lung Benefits Revenue Act of 1981, referred to in subsec. (d)(1)(A), is the date of enactment of Pub. L. 97–119, which was approved Dec. 29, 1981.
 
-The enactment of this section, referred to in subsec. (d), probably means the date of enactment of Pub. L. 97–119, which enacted this section and which was approved Dec. 29, 1981.
+The enactment of this section, referred to in subsec. (d), probably means the date of enactment of Pub. L.97–119, which enacted this section and which was approved Dec. 29, 1981.
 
 #### Amendments
 
-1982—Pub. L. 97–248 struck out “Establishment of” before “Black Lung” in section catchline.
+<b>1982</b>—Pub. L. 97–248 struck out “Establishment of” before “Black Lung” in section catchline.
 
 #### Effective Date of 1982 Amendment
 
@@ -162,7 +162,7 @@ Prepayment of trust fund obligations.—The Trust Fund is authorized to repay an
 
 #### Funds to Remain Available
 
-Pub. L. 111–8, div. F, title I, Mar. 11, 2009, 123 Stat. 757, provided in part that: “In fiscal year 2009 and thereafter, such sums as may be necessary from the Black Lung Disability Trust Fund (‘Fund’), to remain available until expended, for payment of all benefits authorized by section 9501(d)(1), (2), (4), and (7) of the Internal Revenue Code of 1954 \[now 1986\]; and interest on advances, as authorized by section 9501(c)(2) of that Act.”
+Pub. L. 111–8, div. F, title I, Mar. 11, 2009, 123 Stat. 757, provided in part that: “In fiscal year 2009 and thereafter, such sums as may be necessary from the Black Lung Disability Trust Fund (‘Fund’), to remainavailable until expended, for payment of all benefits authorized by section 9501(d)(1), (2), (4), and (7) of the Internal Revenue Code of 1954 \[now 1986\]; and interest on advances, as authorized by section 9501(c)(2) of that Act.”
 
 Similar provisions were contained in the following appropriation acts:
 
@@ -184,7 +184,7 @@ Pub. L. 99–272, title XIII, §13203(b), Apr. 7, 1986, 100 Stat. 312, provided 
 
 #### Provisions Relating to Payment of Benefits to Miners and Eligible Survivors of Miners To Take Effect as Rules and Regulations of Secretary of Labor
 
-Pub. L. 95–239, §20(b), Mar. 1, 1978, 92 Stat. 106, provided that: “In the event that the payment of benefits to miners and to eligible survivors of miners cannot be made from the Black Lung Disability Trust Fund established by section 3(a) of the Black Lung Benefits Revenue Act of 1977 \[former section 934a(a) of Title 30, Mineral Lands and Mining\], the provisions of the Act relating to the payment of benefits to miners and to eligible survivors of miners, as in effect immediately before the date of the enactment of this Act \[Mar. 1, 1978\], shall take effect, as rules and regulations of the Secretary of Labor until such provisions are revoked, amended, or revised by law. The Secretary of Labor may promulgate additional rules and regulations tocarry out such provisions and shall make benefit payments to miners and to eligible survivors of miners in accordance with such provisions.”
+Pub. L. 95–239, §20(b), Mar. 1, 1978, 92 Stat. 106, provided that: “In the event that the payment of benefits to miners and to eligible survivors of miners cannot be made from the Black Lung Disability Trust Fund established by section 3(a) of the Black Lung Benefits Revenue Act of 1977 \[former section 934a(a) of Title 30, Mineral Lands and Mining\], the provisions of the Act relating to the payment of benefits to miners and to eligible survivors of miners, as in effect immediately before the date of the enactment of this Act \[Mar. 1, 1978\], shall take effect, as rules and regulations of the Secretary of Labor until such provisions are revoked, amended, or revised by law. The Secretary of Labor may promulgate additional rules and regulations to carry out such provisions and shall make benefit payments to miners and to eligible survivors of miners in accordance with such provisions.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

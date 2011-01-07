@@ -10,7 +10,7 @@ Second sentence of act June 15, 1917, which related to fees for taking applicati
 
 #### Amendments
 
-1968—Pub. L. 90–428 substituted provisions requiring that the initial passport application be duly verified under oath before a person authorized and empowered by the Secretary of State to administer oaths for provisions requiring that each passport application be duly verified under oath before a person authorized and empowered to administer oaths.
+<b>1968</b>—Pub. L. 90–428 substituted provisions requiring that the initial passport application be duly verified under oath before a person authorized and empowered by the Secretary of State to administer oaths for provisions requiring that each passport application be duly verified under oath before a person authorized and empowered to administer oaths.
 
 #### Effective Date of 1968 Amendment
 

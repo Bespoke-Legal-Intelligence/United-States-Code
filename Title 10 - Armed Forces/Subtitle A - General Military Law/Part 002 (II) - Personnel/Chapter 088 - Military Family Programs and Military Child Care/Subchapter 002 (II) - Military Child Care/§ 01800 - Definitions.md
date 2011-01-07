@@ -8,11 +8,11 @@ In this subchapter:
 
 &emsp;(3) The term “child care employee” means a civilian employee of the Department of Defense who is employed to work in a military child development center (regardless of whether the employee is paid from appropriated funds or nonappropriated funds).
 
-&emsp;(4) The term “child care fee receipts” means those nonappropriated funds that are derived from fees paid by members of the armed forces for child care services provided at military child development centers.
+&emsp;(4) The term “child care fee receipts” means those nonappropriated funds that are derived from fees paid by members of the armed forcesfor child care services provided at military child development centers.
 
 (Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 335, §1798; renumbered §1800, Pub. L. 106–65, div. A, title V, §584(a)(1)(A), Oct. 5, 1999, 113 Stat. 634.)
 
 #### Amendments
 
-1999—Pub. L. 106–65 renumbered section 1798 of this title as this section.
+<b>1999</b>—Pub. L. 106–65 renumbered section 1798 of this title as this section.
 

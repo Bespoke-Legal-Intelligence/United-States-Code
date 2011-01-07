@@ -18,7 +18,7 @@ For purposes of this section, nonqualified preferred stock (as defined in sectio
 
 #### Amendments
 
-1997—Subsecs. (b), (c). Pub. L. 105–34 added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>1997</b>—Subsecs. (b), (c). Pub. L. 105–34 added subsec. (b) and redesignated former subsec. (b) as (c).
 
 #### Effective Date of 1997 Amendment
 

@@ -86,6 +86,8 @@ All standards activities of the Department shall be conducted in accordance with
 
 #### References in Text
 
+This chapter, referred to in subsecs. (b)(1), (2), and (e), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+
 Section 12(d) of the National Technology Transfer Advancement Act of 1995, referred to in subsec. (g), probably means section 12(d) of the National Technology Transfer and Advancement Act of 1995, which is section 12(d) of Pub. L. 104–113, and which is set out as a note under section 272 of Title 15, Commerce and Trade.
 
 #### Amendments

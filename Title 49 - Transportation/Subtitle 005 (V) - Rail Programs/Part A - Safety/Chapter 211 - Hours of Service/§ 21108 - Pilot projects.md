@@ -40,5 +40,5 @@ The date of enactment of the Rail Safety Improvement Act of 2008, referred to in
 
 #### Amendments
 
-2008—Pub. L. 110–432 amended section generally, revising and restating provisions of former subsec. (a) relating to waivers as subsecs. (a) to (c), provisions of former subsec. (b) relating to requirement of a report to Congress as subsec. (d), and provisions of former subsec. (c) defining “directly affected covered service employees” as subsec. (e).
+<b>2008</b>—Pub. L. 110–432 amended section generally, revising and restating provisions of former subsec. (a) relating to waivers as subsecs. (a) to (c), provisions of former subsec. (b) relating to requirement of a report to Congress as subsec. (d), and provisions of former subsec. (c) defining “directly affected covered service employees” as subsec. (e).
 

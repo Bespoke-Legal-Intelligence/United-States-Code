@@ -16,7 +16,7 @@ No amount authorized to be appropriated or otherwise made available for the Depa
 
 #### (d) Limitation pending implementation of project review procedures
 
-(1) Not more than $8,750,000 of the amounts referred to in subsection (b) may be obligated or expended for purposes of the Initiative until the Secretary of Energy establishes and implements project review procedures for projects under the Initiative and submits to the Committee onArmed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the project review procedures so established and implemented.
+(1) Not more than $8,750,000 of the amounts referred to in subsection (b) may be obligated or expended for purposes of the Initiative until the Secretary of Energy establishes and implements project review procedures for projects under the Initiative and submits to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the project review procedures so established and implemented.
 
 (2) The project review procedures established under paragraph (1) shall ensure that any scientific, technical, or commercial project initiated under the Initiative—
 

@@ -14,7 +14,7 @@
 
 #### (3) Dissemination of checklists
 
-&emsp;The Director of the National Institute of Standards and Technology shall make any checklist developed under this paragraph for any computer hardware or software system available to each Federal agency that is a user or potential user of the system.
+&emsp;The Director of the National Institute of Standards and Technology shall make anychecklist developed under this paragraph for any computer hardware or software system available to each Federal agency that is a user or potential user of the system.
 
 #### (4) Agency use requirements
 

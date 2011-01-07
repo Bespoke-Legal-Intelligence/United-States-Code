@@ -100,7 +100,7 @@ In this section, the term “eligible institution” means an institution of hig
 
 #### (C) Reduction
 
-&emsp;&emsp;The institutional allowance paid under subparagraph (A) shall be reduced by theamount the eligible institution charges and collects from a fellowship recipient for tuition and other expenses as part of the recipient's instructional program.
+&emsp;&emsp;The institutional allowance paid under subparagraph (A) shall be reduced by the amount the eligible institution charges and collects from a fellowship recipient for tuition and other expenses as part of the recipient's instructional program.
 
 #### (D) Use for overhead prohibited
 

@@ -6,7 +6,7 @@ There is hereby authorized to be appropriated, from time to time, out of any mon
 
 #### Effective Date
 
-Section effective June 30, 1937, see section 1 of act June 30, 1936, set out as a note under section 703 of this title.
+Act June 20, 1936, ch. 634, §5, 49 Stat. 1556, provided in part that this section is effective as of the day aforesaid (June 30, 1937). See Effective Date of 1936 Amendment note set out under section 703 of this title.
 
 #### Transfer of Functions
 

@@ -82,7 +82,7 @@ This amends 49:32702(8) and 32705 to clarify the restatement of 15:1982(5) and 1
 
 #### Amendments
 
-1996—Par. (8). Pub. L. 104–287 inserted “any” after “or”.
+<b>1996</b>—Par. (8). Pub. L. 104–287 inserted “any” after “or”.
 
 #### Effective Date of 1996 Amendment
 

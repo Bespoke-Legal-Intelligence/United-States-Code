@@ -12,7 +12,7 @@ Provisions similar to those comprising this section were contained in section 50
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 5014 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5014 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 

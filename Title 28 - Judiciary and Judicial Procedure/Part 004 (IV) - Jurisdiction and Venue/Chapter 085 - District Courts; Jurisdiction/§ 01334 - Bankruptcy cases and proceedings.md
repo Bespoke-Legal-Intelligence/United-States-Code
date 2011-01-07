@@ -26,7 +26,7 @@ Changes in phraseology were made.
 
 #### Amendments
 
-2005—Subsec. (b). Pub. L. 109–8, §324(a)(1), substituted “Except as provided in subsection (e)(2), and notwithstanding” for “Notwithstanding”.
+<b>2005</b>—Subsec. (b). Pub. L. 109–8, §324(a)(1), substituted “Except as provided in subsection (e)(2), and notwithstanding” for “Notwithstanding”.
 
 Subsec. (c)(1). Pub. L. 109–8, §802(c)(2), substituted “Except with respect to a case under chapter 15 of title 11, nothing in” for “Nothing in”.
 
@@ -34,17 +34,17 @@ Subsec. (d). Pub. L. 109–8, §1219, substituted “made under subsection (c)�
 
 Subsec. (e). Pub. L. 109–8, §324(a)(2), added subsec. (e) and struck out former subsec. (e) which read as follows: “The district court in which a case under title 11 is commenced or is pending shall have exclusive jurisdiction of all of the property, wherever located, of the debtor as of the commencement of such case, and of property of the estate.”
 
-1994—Subsecs. (c)(2), (d). Pub. L. 103–394, §104(b)(2), inserted “(other than a decision not to abstain in a proceeding described in subsection (c)(2))” after “subsection” in second sentence of subsec. (c)(2) and designated that sentence and third sentence of subsec. (c)(2) as subsec. (d). Former subsec. (d) redesignated (e).
+<b>1994</b>—Subsecs. (c)(2), (d). Pub. L. 103–394, §104(b)(2), inserted “(other than a decision not to abstain in a proceeding described in subsection (c)(2))” after “subsection” in second sentence of subsec. (c)(2) and designated that sentence and third sentence of subsec. (c)(2) as subsec. (d). Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 103–394, §104(b)(1), redesignated subsec. (d) as (e).
 
-1990—Subsec. (c)(2). Pub. L. 101–650 inserted in second sentence “or not to abstain” after “to abstain” and “by the court of appeals under section 158(d), 1291, or 1292 of this title or by the Supreme Court of the United States under section 1254 of this title” before period at end.
+<b>1990</b>—Subsec. (c)(2). Pub. L. 101–650 inserted in second sentence “or not to abstain” after “to abstain” and “by the court of appeals under section 158(d), 1291, or 1292 of this title or by the Supreme Court of the United States under section 1254 of this title” before period at end.
 
-1986—Subsec. (d). Pub. L. 99–554 substituted “and of property of the estate” for “and of the estate”.
+<b>1986</b>—Subsec. (d). Pub. L. 99–554 substituted “and of property of the estate” for “and of the estate”.
 
-1984—Pub. L. 98–353 in amending section generally, substituted “cases” for “matters” in section catchline, designated existing provision as subsec. (a), and in subsec. (a) as so designated, substituted “Except as provided in subsection (b) of this section, the district” for “The district” and “original and exclusive jurisdiction of all cases under title 11” for “original jurisdiction, exclusive of the courts of the States, of all matters and proceedings in bankruptcy”, and added subsecs. (b) to (d).
+<b>1984</b>—Pub. L. 98–353 in amending section generally, substituted “cases” for “matters” in section catchline, designated existing provision as subsec. (a), and in subsec. (a) as so designated, substituted “Except as provided in subsection (b) of this section, the district” for “The district” and “original and exclusive jurisdiction of all cases under title 11” for “original jurisdiction, exclusive of the courts of the States, of all matters and proceedings in bankruptcy”, and added subsecs. (b) to (d).
 
-1978—Pub. L. 95–598 directed the general amendment of section to relate to bankruptcy appeals, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Pub. L. 95–598 directed the general amendment of section to relate to bankruptcy appeals, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 #### Effective Date of 2005 Amendment
 
@@ -62,7 +62,7 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective July 10, 1984, except that subsec. (c)(2) not applicable with respect to cases under Title 11, Bankruptcy, that are pending on July 10, 1984, or to proceedings arising in or related to such cases, see section 122(a), (b) of Pub. L. 98–353, set out as an Effective Date note under section 151 of this title.
+Amendment by Pub. L. 98–353 effective July 10, 1984, except that subsec. (c)(2) not applicable with respect to cases under Title 11, Bankruptcy, that are pending onJuly 10, 1984, or to proceedings arising in or related to such cases, see section 122(a), (b) of Pub. L. 98–353, set out as an Effective Date note under section 151 of this title.
 
 #### Jurisdiction Over and Transfer of Bankruptcy Cases and Proceedings
 

@@ -46,7 +46,7 @@ Grants made under subsection (a) of this section shall, to the extent deemed pos
 
 #### Amendments
 
-1994—Pub. L. 103–239 amended section generally, substituting provisions relating to development program for Native Hawaiian and Alaska Native culture and arts for provisions relating to development program for Native Hawaiian culture and arts.
+<b>1994</b>—Pub. L. 103–239 amended section generally, substituting provisions relating to development program for Native Hawaiian and Alaska Native culture and arts for provisions relating to development program for Native Hawaiian culture and arts.
 
 #### Effective Date of 1994 Amendment
 

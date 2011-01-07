@@ -148,7 +148,7 @@ The Secretary may establish 20 officer positions in the Epidemic Intelligence Se
 
 &emsp;&emsp;(A) the epidemiology and pathogenesis of such pathogens;
 
-&emsp;&emsp;(B) the sequencing of the genomes, or other DNA analysis, or other comparativeanalysis, of priority pathogens (as determined by the Director of the National Institutes of Health in consultation with the working group established in subsection (a) of this section), in collaboration and coordination with the activities of the Department of Defense and the Joint Genome Institute of the Department of Energy;
+&emsp;&emsp;(B) the sequencing of the genomes, or other DNA analysis, or other comparative analysis, of priority pathogens (as determined by the Director of the National Institutes of Health in consultation with the working group established in subsection (a) of this section), in collaboration and coordination with the activities of the Department of Defense and the Joint Genome Institute of the Department of Energy;
 
 &emsp;&emsp;(C) the development of priority countermeasures; and
 
@@ -196,7 +196,7 @@ The Secretary may establish 20 officer positions in the Epidemic Intelligence Se
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–417, §304(1), added subsec. (a) and struck out heading and text of former subsec. (a) which established a working group on bioterrorism and other public health emergencies.
+<b>2006</b>—Subsec. (a). Pub. L. 109–417, §304(1), added subsec. (a) and struck out heading and text of former subsec. (a) which established a working group on bioterrorism and other public health emergencies.
 
 Subsec. (b)(2). Pub. L. 109–417, §301(d)(1), substituted “At-Risk Individuals and Public Health Emergencies” for “Children and Terrorism” in heading.
 
@@ -216,11 +216,11 @@ Subsecs. (c) to (h). Pub. L. 109–417, §304(2)–(4), added subsecs. (c), (d),
 
 Subsecs. (i), (j). Pub. L. 109–417, §304(5), struck out subsecs. (i) and (j) which related to report to congressional committees on public health and medical consequences of a bioterrorist attack and the supplementary nature of funds appropriated under this section, respectively.
 
-2004—Subsec. (a)(1). Pub. L. 108–276, §2(d)(1), inserted “the Secretary of Homeland Security,” after “Management Agency,” in introductory provisions.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–276, §2(d)(1), inserted “the Secretary of Homeland Security,” after “Management Agency,” in introductory provisions.
 
 Subsec. (h)(4)(B). Pub. L. 108–276, §2(d)(2), substituted “to treat, identify, or prevent conditions” for “to diagnose conditions”.
 
-2002—Subsec. (a). Pub. L. 107–188, §108, added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary, in coordination with the Secretary of Defense, shall establish a joint interdepartmental working group on preparedness and readiness for the medical and public health effects of a bioterrorist attack on the civilian population. Such joint working group shall—
+<b>2002</b>—Subsec. (a). Pub. L. 107–188, §108, added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary, in coordination with the Secretary of Defense, shall establish a joint interdepartmental working group on preparedness and readiness for the medical and public health effects of a bioterrorist attack on the civilian population. Such joint working group shall—
 
 &emsp;“(1) coordinate research on pathogens likely to be used in a bioterrorist attack on the civilian population as well as therapies to treat such pathogens;
 
@@ -228,7 +228,7 @@ Subsec. (h)(4)(B). Pub. L. 108–276, §2(d)(2), substituted “to treat, identi
 
 &emsp;“(3) develop shared standards for equipment to detect and to protect against infection from pathogens likely to be used in a bioterrorist attack on the civilian population; and
 
-&emsp;“(4) coordinate the development, maintenance, and procedures for the release of, strategic reserves ofvaccines, drugs, and medical supplies which may be needed rapidly after a bioterrorist attack upon the civilian population.”
+&emsp;“(4) coordinate the development, maintenance, and procedures for the release of, strategic reserves of vaccines, drugs, and medical supplies which may be needed rapidly after a bioterrorist attack upon the civilian population.”
 
 Subsec. (b). Pub. L. 107–188, §104(a)(1), (3), added subsec. (b) and struck out former subsec. (b) which related to establishment, functions, membership, and coordination of a working group on the public health and medical consequences of bioterrorism.
 
@@ -236,7 +236,7 @@ Subsecs. (c), (d). Pub. L. 107–188, §104(a)(3), added subsecs. (c) and (d). F
 
 Subsec. (e). Pub. L. 107–188, §104(a)(2), redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
 
-Subsec. (e)(2). Pub. L. 107–188, §111(3), which directed the amendment of section 391F(e)(2) of the Public Health Service Act by striking out “or” after “clinic,” and inserting before period “, professional organization or society, school or program that trains medical laboratory personnel, private accrediting organization, or other nonprofit private institution or entity meeting criteria established by the Secretary”, was executed to subsec. (e)(2) of this section, which is section 319F(e)(2) of the Act, to reflect the probable intent of Congress.
+Subsec. (e)(2). Pub. L. 107–188, §111(3), which directed the amendment of section 391F(e)(2) of the Public Health Service Act by striking out “or” after “clinic,” and inserting before period “, professional organization or society, school or program that trains medical laboratory personnel, private accrediting organization, or other nonprofit private institution or entity meeting criteria established by the Secretary”, was executed tosubsec. (e)(2) of this section, which is section 319F(e)(2) of the Act, to reflect the probable intent of Congress.
 
 Subsec. (f). Pub. L. 107–188, §104(a)(2), redesignated subsec. (d) as (f). Former subsec. (f) redesignated (h).
 

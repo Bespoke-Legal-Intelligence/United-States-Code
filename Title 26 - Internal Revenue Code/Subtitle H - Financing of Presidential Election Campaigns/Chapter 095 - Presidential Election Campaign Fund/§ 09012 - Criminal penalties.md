@@ -46,7 +46,7 @@
 
 #### (f) Unauthorized expenditures and contributions
 
-(1) Except as provided in paragraph (2), it shall be unlawful for any political committee which is not an authorized committee with respect to theeligible candidates of a political party for President and Vice President in a presidential election knowingly and willfully to incur expenditures to further the election of such candidates, which would constitute qualified campaign expenses if incurred by an authorized committee of such candidates, in an aggregate amount exceeding $1,000.
+(1) Except as provided in paragraph (2), it shall be unlawful for any political committee which is not an authorized committee with respect to the eligible candidates of a political party for President and Vice President in a presidential election knowingly and willfully to incur expenditures to further the election of such candidates, which would constitute qualified campaign expenses if incurred by an authorized committee of such candidates, in an aggregate amount exceeding $1,000.
 
 (2) This subsection shall not apply to (A) expenditures by a broadcaster regulated by the Federal Communications Commission, or by a periodical publication, in reporting the news or in taking editorial positions, or (B) expenditures by any organization described in section 501(c) which is exempt from tax under section 501(a) in communicating to its members the views of that organization.
 
@@ -62,11 +62,11 @@
 
 #### Amendments
 
-1976—Subsec. (b)(1). Pub. L. 94–283 substituted “9006(c)” for “9006(d)”.
+<b>1976</b>—Subsec. (b)(1). Pub. L. 94–283 substituted “9006(c)” for “9006(d)”.
 
 Subsec. (e)(3). Pub. L. 94–455 substituted “Secretary of the Treasury” for “Secretary”.
 
-1974—Subsec. (a). Pub. L. 93–443, §406(b)(2), (3), struck out “campaign” before “expenses” in heading and inserted in par. (1) provision making it unlawful for a national committee of a major or minor party knowingly and willfully to incur expenses with respect to a presidential nominating convention in excess of applicable expenditure limitation unless authorized by the Commission.
+<b>1974</b>—Subsec. (a). Pub. L. 93–443, §406(b)(2), (3), struck out “campaign” before “expenses” in heading and inserted in par. (1) provision making it unlawful for a national committee of a major or minor party knowingly and willfully to incur expenses with respect to a presidential nominating convention in excess of applicable expenditure limitation unless authorized by the Commission.
 
 Subsec. (c)(2), (3). Pub. L. 93–443, §406(b)(4), added par. (2) and redesignated former par. (2) as (3).
 
@@ -76,7 +76,7 @@ Subsec. (e)(1). Pub. L. 93–443, §406(b)(6), inserted provision making it unla
 
 Subsec. (e)(3). Pub. L. 93–443, §406(b)(6), inserted requirement of payment, by any person accepting any kickback or illegal payment in connection with any expense incurred by the national committee of a major or minor party with respect to a presidential nominating convention, to the Secretary for deposit in the general fund of the Treasury.
 
-1973—Subsec. (b)(1). Pub. L. 93–53 substituted section “9006(d)” for “9006(c)”.
+<b>1973</b>—Subsec. (b)(1). Pub. L. 93–53 substituted section “9006(d)” for “9006(c)”.
 
 #### Effective Date of 1974 Amendment
 

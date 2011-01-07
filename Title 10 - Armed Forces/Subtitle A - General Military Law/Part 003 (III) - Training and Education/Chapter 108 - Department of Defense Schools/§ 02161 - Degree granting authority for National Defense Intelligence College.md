@@ -28,9 +28,9 @@ Congressional Notification Requirements.—(1) When seeking to establish degree 
 
 #### Amendments
 
-2008—Pub. L. 110–417 amended section generally. Prior to amendment, section related to conferral of academic degrees by the Joint Military Intelligence College.
+<b>2008</b>—Pub. L. 110–417 amended section generally. Prior to amendment, section related to conferral of academic degrees by the Joint Military Intelligence College.
 
-1997—Pub. L. 105–107 substituted “Joint Military Intelligence College: academic degrees” for “Defense Intelligence School: master of science of strategic intelligence” in section catchline and amended text generally. Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary of Defense, the Commandant of the Defense Intelligence School may, upon recommendation by the faculty of such school, confer the degree of master of science of strategic intelligence upon graduates of the school who have fulfilled the requirements for that degree.”
+<b>1997</b>—Pub. L. 105–107 substituted “Joint Military Intelligence College: academic degrees” for “Defense Intelligence School: master of science of strategic intelligence” in section catchline and amended text generally. Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary of Defense, the Commandant of the Defense Intelligence School may, upon recommendation by the faculty of such school, confer the degree of master of science of strategic intelligence upon graduates of the school who have fulfilled the requirements for that degree.”
 
 #### Effective Date of 2008 Amendment
 

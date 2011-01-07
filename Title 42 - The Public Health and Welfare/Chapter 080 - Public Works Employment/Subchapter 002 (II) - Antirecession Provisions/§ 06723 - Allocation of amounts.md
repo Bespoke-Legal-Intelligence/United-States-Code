@@ -52,7 +52,7 @@
 
 &emsp;(D) the term “local government” means the government of a county, municipality, township, or other unit of government below the State which—
 
-&emsp;&emsp;(i) is a unit of general government (determined on the basis of the same principles asare used by the Bureau of the Census for general statistical purposes), and
+&emsp;&emsp;(i) is a unit of general government (determined on the basis of the same principles as are used by the Bureau of the Census for general statistical purposes), and
 
 &emsp;&emsp;(ii) performs substantial governmental functions. Such term includes the District of Columbia and also includes the recognized governing body of an Indian tribe or Alaskan Native village which performs substantial governmental functions. Such term does not include the government of a township area unless such government performs substantial governmental functions.
 
@@ -70,7 +70,7 @@ In subsecs. (b)(3)(D) and (c)(3)(C), “sections 6705–6707(a) of title 31” s
 
 #### Amendments
 
-1977—Subsec. (b)(3)(D). Pub. L. 95–30, §603(a), substituted “for the most recently completed entitlement period, as defined under section 1261(b) of title 31” for “for the one-year period beginning on July 1, 1975”.
+<b>1977</b>—Subsec. (b)(3)(D). Pub. L. 95–30, §603(a), substituted “for the most recently completed entitlement period, as defined under section 1261(b) of title 31” for “for the one-year period beginning on July 1, 1975”.
 
 Subsec. (c)(1). Pub. L. 95–30, §603(b), substituted “paragraph (4)” for “paragraphs (3) and (5)”.
 
@@ -78,7 +78,7 @@ Subsec. (c)(3). Pub. L. 95–30, §603(c)–(h), struck out par. (3) which set o
 
 Subsec. (c)(4), (5). Pub. L. 95–30, §603(c), redesignated pars. (4) and (5) as (3) and (4), respectively.
 
-1976—Subsec. (c)(3)(C)(ii). Pub. L. 94–447, §201(2), substituted “90 days” for “thirty days”.
+<b>1976</b>—Subsec. (c)(3)(C)(ii). Pub. L. 94–447, §201(2), substituted “90 days” for “thirty days”.
 
 Subsec. (c)(4)(E)(ii). Pub. L. 94–447, §201(3), substituted “or Alaskan Native village” for “of Alaskan Native village”.
 

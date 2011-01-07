@@ -142,9 +142,9 @@ In subsec. (t), “chapter 91 of title 31” substituted for “the Government C
 
 #### Amendments
 
-2007—Subsec. (g). Pub. L. 110–38 amended third sentence generally. Prior to amendment, third sentence read as follows: “Three members of the Board shall be appointed from among officers or employees of agencies of the United States concerned with inter-American affairs.”
+<b>2007</b>—Subsec. (g). Pub. L. 110–38 amended third sentence generally. Prior to amendment, third sentence read as follows: “Three members of the Board shall be appointed from among officers or employees of agencies of the United States concerned with inter-American affairs.”
 
-1991—Subsec. (g). Pub. L. 102–138, §173(b)(1), inserted provision at end that all individuals appointed to the Board possess an understanding of and sensitivity to community level development processes and that no more than 5 members of the Board be of any one political party.
+<b>1991</b>—Subsec. (g). Pub. L. 102–138, §173(b)(1), inserted provision at end that all individuals appointed to the Board possess an understanding of and sensitivity to community level development processes and that no more than 5 members of the Board be of any one political party.
 
 Subsec. (q). Pub. L. 102–138, §173(c), amended subsec. (q) generally. Prior to amendment, subsec. (q) read as follows: “The Foundation shall establish a principal office. The Foundation is authorized to establish agencies, branch offices, or other offices in any place or places within the United States or elsewhere in any of which locations the Foundation may carry on all or any of its operations and business.”
 
@@ -152,25 +152,25 @@ Subsec. (s)(2). Pub. L. 102–138, §173(a), amended first sentence generally, s
 
 Subsecs. (v), (w). Pub. L. 102–138, §173(d), added subsecs. (v) and (w).
 
-1990—Subsec. (s)(2). Pub. L. 101–246 amended first sentence generally, substituting “$16,932,000 for the fiscal year 1990 and $25,000,000 for the fiscal year 1991” for “$11,969,000 for fiscal year 1986 and $12,969,000 for fiscal year 1987 (not less than $1,000,000 of which shall be for Haiti)”.
+<b>1990</b>—Subsec. (s)(2). Pub. L. 101–246 amended first sentence generally, substituting “$16,932,000 for the fiscal year 1990 and $25,000,000 for the fiscal year 1991” for “$11,969,000 for fiscal year 1986 and $12,969,000 for fiscal year 1987 (not less than $1,000,000 of which shall be for Haiti)”.
 
-1986—Subsec. (g). Pub. L. 99–529, §403(a), substituted “nine members” for “seven members” and “Six members” for “Four members”.
+<b>1986</b>—Subsec. (g). Pub. L. 99–529, §403(a), substituted “nine members” for “seven members” and “Six members” for “Four members”.
 
 Subsec. (s)(2). Pub. L. 99–529, §202(e), substituted “$12,969,000 for fiscal year 1987 (not less than $1,000,000 of which shall be for Haiti)” for “$11,969,000 for fiscal year 1987”.
 
-1985—Subsec. (s)(2). Pub. L. 99–83 substituted provisions authorizing appropriations of $11,969,000 for each of fiscal years 1986 and 1987, for provisions authorizing appropriations of $16,000,000 for each of fiscal years 1984 and 1985.
+<b>1985</b>—Subsec. (s)(2). Pub. L. 99–83 substituted provisions authorizing appropriations of $11,969,000 for each of fiscal years 1986 and 1987, for provisions authorizing appropriations of $16,000,000 for each of fiscal years 1984 and 1985.
 
-1983—Subsec. (s)(2). Pub. L. 98–164 substituted “$16,000,000 for the fiscal year 1984 and $16,000,000 for the fiscal year 1985” for “$12,000,000 for the fiscal year 1982 and $12,800,000 for the fiscal year 1983”.
+<b>1983</b>—Subsec. (s)(2). Pub. L. 98–164 substituted “$16,000,000 for the fiscal year 1984 and $16,000,000 for the fiscal year 1985” for “$12,000,000 for the fiscal year 1982 and $12,800,000 for the fiscal year 1983”.
 
-1982—Subsec. (h). Pub. L. 97–241, §501(b), substituted “travel expenses, including per diem in lieu of subsistence, in accordance with section 5703 of title 5” for “actual and necessary expenses not in excess of $50 per day, and for transportation expenses”.
+<b>1982</b>—Subsec. (h). Pub. L. 97–241, §501(b), substituted “travel expenses, including per diem in lieu of subsistence, in accordance with section 5703 of title 5” for “actual and necessary expenses not in excess of $50 per day, and for transportation expenses”.
 
 Subsec. (s)(2). Pub. L. 97–241, §501(a), substituted “$12,000,000 for the fiscal year 1982 and $12,800,000 for the fiscal year 1983” for “$25,000,000 for each of the fiscal years 1979 and 1980”.
 
 Subsec. (u). Pub. L. 97–241, §501(c), added subsec. (u).
 
-1977—Subsec. (s). Pub. L. 95–105 designated existing provisions as par. (1) and added par. (2).
+<b>1977</b>—Subsec. (s). Pub. L. 95–105 designated existing provisions as par. (1) and added par. (2).
 
-1972—Pub. L. 92–226, §406(3), substituted “Foundation” for “Institute” wherever appearing in subsecs. (b) to (g), (i), (j) to (r), and (t).
+<b>1972</b>—Pub. L. 92–226, §406(3), substituted “Foundation” for “Institute” wherever appearing in subsecs. (b) to (g), (i), (j) to (r), and (t).
 
 Subsec. (a). Pub. L. 92–226, §406(2), substituted “Inter-American Foundation” and “Foundation” for “Inter-American Social Development Institute” and “Institute”.
 
@@ -197,4 +197,6 @@ Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586\], Nov. 29, 1999, 113 S
 #### Transition Rule for Board Appointments
 
 Section 173(b)(2) of Pub. L. 102–138 provided that: “The requirements established by the amendment made by paragraph (1) \[amending this section\] do not affect appointments made to the Board of the Inter-American Foundation before the date of enactment of this Act \[Oct. 28, 1991\].”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “devise,”.</i>
 

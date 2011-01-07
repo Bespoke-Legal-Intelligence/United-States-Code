@@ -92,17 +92,17 @@ Section was formerly classified to section 1067 of this title prior to renumberi
 
 #### Amendments
 
-2009—Subsec. (a)(6). Pub. L. 111–39 made technical amendment to reference in original act which appears in text as reference to section 1801 of title 25.
+<b>2009</b>—Subsec. (a)(6). Pub. L. 111–39 made technical amendment to reference in original act which appears in text as reference to section 1801 of title 25.
 
-2008—Subsec. (b)(2). Pub. L. 110–315, §320(5), substituted “eligible institutions under part A” for “eligible institutions under part A institutions” in introductory provisions. See Codification note above.
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–315, §320(5), substituted “eligible institutions under part A” for “eligible institutions under part A institutions” in introductory provisions. See Codification note above.
 
 Subsec. (c). Pub. L. 110–315, §318, added subsec. (c).
 
-1998—Subsec. (a)(5) to (7). Pub. L. 105–244 struck out “or” at end of par. (5), added par. (6), and redesignated former par. (6) as (7).
+<b>1998</b>—Subsec. (a)(5) to (7). Pub. L. 105–244 struck out “or” at end of par. (5), added par. (6), and redesignated former par. (6) as (7).
 
-1992—Subsec. (a). Pub. L. 102–325 substituted “Secretary may waive” for “Secretary shall waive”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–325 substituted “Secretary may waive” for “Secretary shall waive”.
 
-1987—Subsec. (a)(2). Pub. L. 100–50, §2(a)(14), substituted “low-income” for “low- and middle-income”.
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–50, §2(a)(14), substituted “low-income” for “low- and middle-income”.
 
 Subsec. (b)(3). Pub. L. 100–50, §2(a)(15), added par. (3).
 

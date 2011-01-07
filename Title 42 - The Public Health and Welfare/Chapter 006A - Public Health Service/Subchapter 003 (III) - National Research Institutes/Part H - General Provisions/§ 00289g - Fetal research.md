@@ -24,9 +24,9 @@ In administering the regulations for the protection of human research subjects w
 
 #### Amendments
 
-1993—Subsec. (c). Pub. L. 103–43 struck out subsec. (c) which directed Biomedical Ethics Advisory Committee to conduct a study of the nature, advisability, and biomedical and ethical implications of exercising any waiver of the risk standard published in section 46.102(g) of part 46 of title 45 of the Code of Federal Regulations and to report its finding to the Biomedical Ethics Board not later than 24 months after Nov. 4, 1988, which report was to be then transmitted to specified Congressional committees.
+<b>1993</b>—Subsec. (c). Pub. L. 103–43 struck out subsec. (c) which directed Biomedical Ethics Advisory Committee to conduct a study of the nature, advisability, and biomedical and ethical implications of exercising any waiver of the risk standard published in section 46.102(g) of part 46 of title 45 of the Code of Federal Regulations and to report its finding to the Biomedical Ethics Board not later than 24 months after Nov. 4, 1988, which report was to be then transmitted to specified Congressional committees.
 
-1988—Subsec. (c)(1). Pub. L. 100–607, §157(b), substituted “24 months after November 4, 1988” for “thirty months after November 20, 1985”.
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–607, §157(b), substituted “24 months after November 4, 1988” for “thirty months after November 20, 1985”.
 
 Subsec. (c)(2). Pub. L. 100–607, §156(1), substituted “24-month period beginning on November 4, 1988” for “thirty-six month period beginning on November 20, 1985”.
 

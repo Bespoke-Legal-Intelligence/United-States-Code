@@ -6,7 +6,7 @@
 
 (b)(1) A monthly account shall be submitted to the appropriate official in the District of Columbia by the 10th day after the end of the month covered by the account. The official shall submit the account to the Comptroller General by the 20th day after receiving the account.
 
-(2) An account (except a monthly account) shall be submitted to the appropriate official in the District of Columbia by the 20th day afterthe end of the period covered by the account. The official shall submit the account to the Comptroller General by the 60th day after receiving the account.
+(2) An account (except a monthly account) shall be submitted to the appropriate official in the District of Columbia by the 20th day after the end of the period covered by the account. The official shall submit the account to the Comptroller General by the 60th day after receiving the account.
 
 (3) Notwithstanding paragraphs (1) and (2) of this subsection, an account of the armed forces shall be submitted to the Comptroller General by the 60th day after the account is received. However, during a war or national emergency and for 18 months after the war or emergency ends, an account shall be submitted to the Comptroller General by the 90th day after the account is received.
 
@@ -18,7 +18,7 @@
 
 (e)(1) The Comptroller General shall disapprove a requisition for an advance of money if an account from which the advance is to be made is not submitted to the Comptroller General within the time required by subsection (b) of this section. The Comptroller General may disapprove the request for another reason related to the condition of an account of the official for whom the advance is requested. However, the Secretary of the Treasury may overrule the decision of the Comptroller General on the sufficiency of the other reasons.
 
-(2) The Secretary may extend the time requirements of subsection (b)(1) and (2) of this section for submitting an account to the proper official in the District of Columbia or waive a condition of delinquency only when there is, or is likely to be, a manifest physical difficulty in complying with those requirements. If an account is not submitted to the Comptroller General on time under subsection (b), an order of the President or, if the President is ill or not in the District of Columbia, the Secretary is required to authorize an advance.
+(2) The Secretary may extend the time requirements of subsection (b)(1) and (2) of thissection for submitting an account to the proper official in the District of Columbia or waive a condition of delinquency only when there is, or is likely to be, a manifest physical difficulty in complying with those requirements. If an account is not submitted to the Comptroller General on time under subsection (b), an order of the President or, if the President is ill or not in the District of Columbia, the Secretary is required to authorize an advance.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 961.)
 

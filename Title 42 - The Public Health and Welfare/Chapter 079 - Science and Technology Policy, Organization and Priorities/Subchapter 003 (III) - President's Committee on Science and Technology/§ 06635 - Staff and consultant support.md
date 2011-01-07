@@ -10,10 +10,6 @@
 
 (Pub. L. 94–282, title III, §305, May 11, 1976, 90 Stat. 470.)
 
-#### References in Text
-
-The civil service laws, referred to in subsec. (a)(1), are set out in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Abolition of President's Committee on Science and Technology; Transfer of Functions
 
 See note set out under section 6631 of this title.

@@ -2,7 +2,7 @@
 
 (a)
 
-General Penalty.—A person knowingly and willfully violating section 60114(b), 60118(a), or 60128 of this title or a regulation prescribed or order issued under this chapter shall be fined under title 18, imprisoned for not more than 5 years, or both.
+General Penalty.—A person knowingly and willfully violating section 60114(b), 60118(a), or 60128 of this title or a regulation prescribed or order issued under this chapter shall be finedunder title 18, imprisoned for not more than 5 years, or both.
 
 (b)
 
@@ -94,7 +94,7 @@ In subsection (b), the word “damaging” is substituted for “injures”, and
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–355, §21(4), substituted “60114(b)” for “60114(c)”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–355, §21(4), substituted “60114(b)” for “60114(c)”.
 
 Subsec. (b). Pub. L. 107–355, §8(c), substituted “gas pipeline facility, an” for “gas pipeline facility or” and inserted “, or either an intrastate gas pipeline facility or intrastate hazardous liquid pipeline facility that is used in interstate or foreign commerce or in any activity affecting interstate or foreign commerce” after “liquid pipeline facility”.
 
@@ -104,9 +104,9 @@ Subsec. (d)(1). Pub. L. 107–355, §3(c)(2), inserted “knowingly and willfull
 
 Subsec. (d)(2)(B). Pub. L. 107–355, §3(c)(3), added subpar. (B) and struck out former subpar. (B) which read as follows: “a pipeline facility that does not report the damage promptly to the operator of the pipeline facility and to other appropriate authorities; or”.
 
-2001—Subsec. (b). Pub. L. 107–56 struck out “, or attempting to damage or destroy,” before “an interstate gas pipeline facility”, inserted “, or attempting or conspiring to do such an act,” before “shall be fined under title 18,” and substituted “20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.” for “15 years, or both.”
+<b>2001</b>—Subsec. (b). Pub. L. 107–56 struck out “, or attempting to damage or destroy,” before “an interstate gas pipeline facility”, inserted “, or attempting or conspiring to do such an act,” before “shall be fined under title 18,” and substituted “20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.” for “15 years, or both.”
 
-1996—Subsec. (a). Pub. L. 104–304, §18(b)(1), substituted “, 60118(a), or 60128” for “or 60118(a)”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–304, §18(b)(1), substituted “, 60118(a), or 60128” for “or 60118(a)”.
 
 Subsec. (d)(2). Pub. L. 104–304, §14, added subpar. (B) and redesignated former subpar. (B) as (C).
 

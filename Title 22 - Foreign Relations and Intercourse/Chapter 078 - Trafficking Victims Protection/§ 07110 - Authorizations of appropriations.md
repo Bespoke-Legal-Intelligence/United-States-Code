@@ -112,7 +112,7 @@ This Act, referred to in subsec. (g)(1), is the Victims of Trafficking and Viole
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–457, §301(1)(A)(ii), (B), in first sentence, substituted “$5,500,000 for each of the fiscal years 2008 through 2011” for “$1,500,000 for fiscal year 2001, $3,000,000 for each of the fiscal years 2002 and 2003, $5,000,000 for each of the fiscal years 2004 and 2005, and $5,500,000 for each of the fiscal years 2006 and 2007” and, in second sentence, substituted “$1,500,000 for additional personnel for each of the fiscal years 2008 through 2011, and $3,000 for official reception and representation expenses” for “for official reception and representation expenses $3,000” and “2008 through 2011” for “2006 and 2007”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–457, §301(1)(A)(ii), (B), in first sentence, substituted “$5,500,000 for each of the fiscal years 2008 through 2011” for “$1,500,000 for fiscal year 2001, $3,000,000 for each of the fiscal years 2002 and 2003, $5,000,000 for each of the fiscal years 2004 and 2005, and $5,500,000 for each of the fiscal years 2006 and 2007” and, in second sentence, substituted “$1,500,000 for additional personnel for each of the fiscal years 2008 through 2011, and $3,000 for official reception and representation expenses” for “for official reception and representation expenses $3,000” and “2008 through 2011” for “2006 and 2007”.
 
 Pub. L. 110–457, §301(1)(A)(i), which directed striking out “section 104, and”, was executed by striking out “section 104 and” after “the purposes of”, to reflect the probable intent of Congress.
 
@@ -148,7 +148,7 @@ Subsec. (h). Pub. L. 110–457, §301(7), substituted “each of the fiscal year
 
 Subsec. (i). Pub. L. 110–457, §301(8), substituted “2008 through 2011” for “2006 and 2007”.
 
-2006—Subsec. (a). Pub. L. 109–164, §301(1), substituted “$5,000,000 for each of the fiscal years 2004 and 2005, and $5,500,000 for each of the fiscal years 2006 and 2007. In addition, there are authorized to be appropriated to the Office to Monitor and Combat Trafficking for official reception and representation expenses $3,000 for each of the fiscal years 2006 and 2007.” for “and $5,000,000 for each of the fiscal years 2004 and 2005.”
+<b>2006</b>—Subsec. (a). Pub. L. 109–164, §301(1), substituted “$5,000,000 for each of the fiscal years 2004 and 2005, and $5,500,000 for each of the fiscal years 2006 and 2007. In addition, there are authorized to be appropriated to the Office to Monitor and Combat Trafficking for official reception and representation expenses $3,000 for each of the fiscal years 2006 and 2007.” for “and $5,000,000 for each of the fiscal years 2004 and 2005.”
 
 Subsec. (b). Pub. L. 109–164, §301(2), substituted “2004, 2005, 2006, and 2007” for “2004 and 2005”.
 
@@ -162,7 +162,7 @@ Subsec. (f). Pub. L. 109–164, §301(6), substituted “2004, 2005, 2006, and 2
 
 Subsecs. (h), (i). Pub. L. 109–164, §301(7), added subsecs. (h) and (i).
 
-2003—Subsec. (a). Pub. L. 108–193, §7(1), substituted “7103(e), 7103(f)” for “7103” and “, $3,000,000 for each of the fiscal years 2002 and 2003, and $5,000,000 for each of the fiscal years 2004 and 2005” for “and $3,000,000 for each of the fiscal years 2002 and 2003”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–193, §7(1), substituted “7103(e), 7103(f)” for “7103” and “, $3,000,000 for each of the fiscal years 2002 and 2003, and $5,000,000 for each of the fiscal years 2004 and 2005” for “and $3,000,000 for each of the fiscal years 2002 and 2003”.
 
 Subsec. (b). Pub. L. 108–193, §7(2), inserted before period at end “and $15,000,000 for each of the fiscal years 2004 and 2005”.
 
@@ -178,7 +178,7 @@ Subsec. (f). Pub. L. 108–193, §7(6), inserted “and $10,000,000 for each of 
 
 Subsec. (g). Pub. L. 108–193, §7(7), added subsec. (g).
 
-2002—Subsec. (a). Pub. L. 107–228, §682(b)(1), substituted “for each of the fiscal years 2002 and 2003” for “for fiscal year 2002”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–228, §682(b)(1), substituted “for each of the fiscal years 2002 and 2003” for “for fiscal year 2002”.
 
 Subsec. (c)(1). Pub. L. 107–228, §682(b)(2)(A), substituted “, $10,000,000 for fiscal year 2002, and $15,000,000 for fiscal year 2003” for “and $10,000,000 for fiscal year 2002”.
 

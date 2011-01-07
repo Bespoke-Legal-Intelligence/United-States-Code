@@ -10,7 +10,7 @@ The Commission shall, within 30 months after February 8, 1996, and annually ther
 
 #### (c) Demographic information for unserved areas
 
-As part of the inquiry required by subsection (b), the Commission shall compile a list of geographical areas that are not served by any provider of advanced telecommunications capability (as defined by subsection (d)(1)) <sup>1</sup> and to theextent that data from the Census Bureau is available, determine, for each such unserved area—
+As part of the inquiry required by subsection (b), the Commission shall compile a list of geographical areas that are not served by any provider of advanced telecommunications capability (as defined by subsection (d)(1)) <sup>1</sup> and to the extent that data from the Census Bureau is available, determine, for each such unserved area—
 
 &emsp;(1) the population;
 
@@ -44,11 +44,11 @@ Section was enacted as part of the Telecommunications Act of 1996, and not as pa
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–385, §103(a)(1), substituted “annually” for “regularly”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–385, §103(a)(1), substituted “annually” for “regularly”.
 
 Subsecs. (c), (d). Pub. L. 110–385, §103(a)(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-2002—Subsec. (c)(2). Pub. L. 107–110 substituted “section 7801 of title 20” for “paragraphs (14) and (25), respectively, of section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801)”.
+<b>2002</b>—Subsec. (c)(2). Pub. L. 107–110 substituted “section 7801 of title 20” for “paragraphs (14) and (25), respectively, of section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801)”.
 
 #### Effective Date of 2002 Amendment
 

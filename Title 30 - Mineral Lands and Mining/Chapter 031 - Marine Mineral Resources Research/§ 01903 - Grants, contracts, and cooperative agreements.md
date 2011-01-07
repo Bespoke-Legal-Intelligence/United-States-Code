@@ -94,7 +94,7 @@
 
 #### (d) Reports
 
-An eligible entity that receives a grant or contract or enters into a cooperative agreement under this section shall submit an annual progress report and a final technical report to the Secretary that—
+An eligible entity that receives a grant or contract or enters into a cooperative agreement under this section shall submit an annualprogress report and a final technical report to the Secretary that—
 
 &emsp;(1) describes project activities, implications of the project, the significance of the project to marine mineral research, identification, assessment, and exploration, and potential commercial and economic benefits and effects of the project; and
 

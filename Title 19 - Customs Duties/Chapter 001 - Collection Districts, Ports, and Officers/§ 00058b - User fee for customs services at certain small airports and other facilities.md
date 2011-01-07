@@ -32,13 +32,13 @@ Fees collected by the Secretary of the Treasury under subsection (a) of this sec
 
 #### (f) Customs services for foreign trade zones or subzones
 
-For purposes of this section, customs services provided in connection with, or with respect to, any foreign trade zone or subzone that is located at, or in the vicinity of, any airport, seaport, or other facility described in subsection (a) of thissection or designated under subsection (c) of this section shall be considered to be customs services provided at such airport, seaport, or other facility.
+For purposes of this section, customs services provided in connection with, or with respect to, any foreign trade zone or subzone that is located at, or in the vicinity of, any airport, seaport, or other facility described in subsection (a) of this section or designated under subsection (c) of this section shall be considered to be customs services provided at such airport, seaport, or other facility.
 
 (Pub. L. 98–573, title II, §236, Oct. 30, 1984, 98 Stat. 2992; Pub. L. 99–190, §142, Dec. 19, 1985, 99 Stat. 1324; Pub. L. 99–272, title XIII, §13032, Apr. 7, 1986, 100 Stat. 310; Pub. L. 100–418, title I, §1905, Aug. 23, 1988, 102 Stat. 1313; Pub. L. 101–207, §3(c)(2), (f)(1), Dec. 7, 1989, 103 Stat. 1834, 1835.)
 
 #### Amendments
 
-1989—Pub. L. 101–207, §3(f)(1)(C), inserted “and other facilities” after “airports” in section catchline.
+<b>1989</b>—Pub. L. 101–207, §3(f)(1)(C), inserted “and other facilities” after “airports” in section catchline.
 
 Subsecs. (a)(3), (b). Pub. L. 101–207, §3(f)(1)(A), inserted “, seaport, or other facility” after “airport” wherever appearing.
 
@@ -48,15 +48,15 @@ Subsec. (e). Pub. L. 101–207, §3(f)(1)(A), inserted “, seaport, or other f
 
 Subsec. (f). Pub. L. 101–207, §3(c)(2), (f)(1)(A), added subsec. (f) and inserted “, seaport, or other facility” after “airport” in two places.
 
-1988—Subsec. (a)(2), (3). Pub. L. 100–418, §1905(1)–(3), added par. (2) and redesignated former par. (2) as (3).
+<b>1988</b>—Subsec. (a)(2), (3). Pub. L. 100–418, §1905(1)–(3), added par. (2) and redesignated former par. (2) as (3).
 
 Subsec. (c). Pub. L. 100–418, §1905(4), struck out “20” before “airports”.
 
-1986—Subsec. (c). Pub. L. 99–272, §13032(1), made amendment identical to Pub. L. 99–190, substituting “20 airports” for “4 airports”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–272, §13032(1), made amendment identical to Pub. L. 99–190, substituting “20 airports” for “4 airports”.
 
 Subsec. (e). Pub. L. 99–272, §13032(2), substituted last two sentences for former last sentence which read as follows: “The funds in such account shall only be available, as provided by appropriation Acts, for expenditures relating to the provision of customs services at such airport (including expenditures for the salaries and expenses of individuals employed to provide such services).”
 
-1985—Subsec. (c). Pub. L. 99–190 substituted “20 airports” for “4 airports”.
+<b>1985</b>—Subsec. (c). Pub. L. 99–190 substituted “20 airports” for “4 airports”.
 
 #### Effective Date
 

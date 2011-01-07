@@ -30,7 +30,7 @@ If the President determines, after appropriate consultation, that (1) an unfores
 
 (1) Before the start of each fiscal year the President shall report to the Committees on the Judiciary of the House of Representatives and of the Senate regarding the foreseeable number of refugees who will be in need of resettlement during the fiscal year and the anticipated allocation of refugee admissions during the fiscal year. The President shall provide for periodic discussions between designated representatives of the President and members of such committees regarding changes in the worldwide refugee situation, the progress of refugee admissions, and the possible need for adjustments in the allocation of admissions among refugees.
 
-(2) As soon as possible after representatives of the President initiate appropriate consultation with respect to the number of refugee admissions under subsection (a) of this section or with respect to the admission of refugees in response to an emergency refugee situation under subsection (b) of this section, the Committees on the Judiciary of the House of Representativesand of the Senate shall cause to have printed in the Congressional Record the substance of such consultation.
+(2) As soon as possible after representatives of the President initiate appropriate consultation with respect to the number of refugee admissions under subsection (a) of this section or with respect to the admission of refugees in response to an emergency refugee situation under subsection (b) of this section, the Committees on the Judiciary of the House of Representatives and of the Senate shall cause to have printed in the Congressional Record the substance of such consultation.
 
 (3)(A) After the President initiates appropriate consultation prior to making a determination under subsection (a) of this section, a hearing to review the proposed determination shall be held unless public disclosure of the details of the proposal would jeopardize the lives or safety of individuals.
 
@@ -64,6 +64,10 @@ For purposes of this section, the term “appropriate consultation” means, wit
 
 (June 27, 1952, ch. 477, title II, ch. 1, §207, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 103; amended Pub. L. 100–525, §9(h), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 101–649, title I, §104(b), title VI, §603(a)(4), Nov. 29, 1990, 104 Stat. 4985, 5082; Pub. L. 102–232, title III, §307(<i>l</i>)(1), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 104–208, div. C, title VI, §601(b), Sept. 30, 1996, 110 Stat. 3009–689; Pub. L. 105–292, title VI, §602(a), Oct. 27, 1998, 112 Stat. 2812; Pub. L. 107–208, §5, Aug. 6, 2002, 116 Stat. 929; Pub. L. 109–13, div. B, title I, §101(g)(2), May 11, 2005, 119 Stat. 305.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (c)(1), (2)(A), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+
 #### Prior Provisions
 
 A prior section 1157, act June 27, 1952, ch. 477, title II, ch. 1, §207, 66 Stat. 181, prohibited issuance of immigrant visas to other immigrants in lieu of immigrants excluded from admission, immigrants deported, immigrants failing to apply for admission to the United States, or immigrants found to be nonquota immigrants after having previously been found to be quota immigrants, prior to repeal by Pub. L. 89–236, §7, Oct. 3, 1965, 79 Stat. 916.
@@ -82,7 +86,7 @@ A prior section 1157, act June 27, 1952, ch. 477, title II, ch. 1, §207, 66 Sta
 
 1990—Subsec. (a)(4). Pub. L. 101–649, §104(b), added par. (4).
 
-Subsec. (c)(3). Pub. L. 101–649, §603(a)(4), substituted “(4), (5), and (7)(A)” for “(14), (15), (20), (21), (25), and (32)” and “(other than paragraph (2)(C) or subparagraphs (A), (B), (C), or (E) of paragraph (3))” for “(other than paragraph (27), (29), or (33) and other than so much of paragraph (23) as relates to trafficking in narcotics)”.
+Subsec. (c)(3). Pub. L. 101–649, §603(a)(4), substituted “(4), (5), and (7)(A)” for “(14), (15), (20), (21), (25), and\(32)” and “(other than paragraph (2)(C) or subparagraphs (A), (B), (C), or (E) of paragraph (3))” for “(other than paragraph (27), (29), or (33) and other than so much of paragraph (23) as relates to trafficking in narcotics)”.
 
 1988—Subsec. (c)(1). Pub. L. 100–525 substituted “otherwise” for “otherwide”.
 
@@ -118,7 +122,7 @@ For delegation of Congressional reporting functions of President under subsec. (
 
 #### Iraq Refugee Crisis
 
-Pub. L. 110–181, div. A, title XII, subtitle C, Jan. 28, 2008, 122 Stat. 395, as amended by Pub. L. 110–242, §1, June 3, 2008, 122 Stat. 1567; Pub. L. 111–84, div. A, title VIII, §813(d), Oct. 28, 2009, 123 Stat. 2407; Pub. L. 111–118, div. A, title VIII, §8120(a), Dec. 19, 2009, 123 Stat. 3457, provided that:
+Pub. L. 110–181, div. A, title XII, subtitle C, Jan. 28, 2008, 122 Stat. 395, as amended by Pub. L. 110–242, §1, June 3, 2008, 122 Stat. 1567; Pub. L. 111–84, div. A, title VIII, §813(d), Oct. 28, 2009, 123 Stat. 2407; Pub. L. 111–118, div. A, title VIII, §8120(a), Dec. 19, 2009, 123 Stat. 3457; Pub. L. 111–383, div. A, title X, §1075(f)(9), (10), Jan. 7, 2011, 124 Stat. 4376, provided that:
 
 #### “SEC. 1241. SHORT TITLE.
 
@@ -172,7 +176,7 @@ Identification of Other Persecuted Groups.—The Secretary of State, or the desi
 
 “(c)
 
-Ineligible Organizations and Entities.—Organizations and entities described in subsection (a)(2) shall not include any that appear on the Department of the Treasury's list of Specially Designated Nationals or any entity specifically excluded by the Secretary of Homeland Security, after consultation with the Secretary of State and the heads of relevant elements of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4))\[)\].
+Ineligible Organizations and Entities.—Organizations and entities described in subsection (a)(2) shall not include any that appear on the Department of the Treasury's list of Specially Designated Nationals or any entity specifically excluded by the Secretary of Homeland Security, after consultation with the Secretary of State and the heads of relevant elements of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4))).
 
 “(d)
 
@@ -196,7 +200,7 @@ In General.—Subject to subsection (c), the Secretary of Homeland Security, or,
 
 &emsp;“(2) is otherwise eligible to receive an immigrant visa;
 
-&emsp;“(3) is otherwise admissible to the United States for permanent residence (excluding the grounds for inadmissibility specified in section 212(a)(4) of such Act (8 U.S.C. 1182(a)(4))\[)\]; and
+&emsp;“(3) is otherwise admissible to the United States for permanent residence (excluding the grounds for inadmissibility specified in section 212(a)(4) of such Act (8 U.S.C. 1182(a)(4))); and
 
 &emsp;“(4) cleared a background check and appropriate screening, as determined by the Secretary of Homeland Security.
 
@@ -304,7 +308,7 @@ Responsibilities.—The Senior Coordinator shall be responsible for the oversigh
 
 “(c)
 
-Designation of Additional Senior Coordinators.—The Secretary of State shall designate in the embassies of the United States in Cairo, Egypt,Amman, Jordan, Damascus, Syria, and Beirut, Lebanon, a Senior Coordinator to oversee resettlement in the United States of refugees of special humanitarian concern in those countries to ensure their applications to the United States refugee resettlement program are processed in an orderly manner and without delay.
+Designation of Additional Senior Coordinators.—The Secretary of State shall designate in the embassies of the United States in Cairo, Egypt, Amman, Jordan, Damascus, Syria, and Beirut, Lebanon, a Senior Coordinator to oversee resettlement in the United States of refugees of special humanitarian concern in those countries to ensure their applications to the United States refugee resettlement program are processed in an orderly manner and without delay.
 
 #### “SEC. 1246. COUNTRIES WITH SIGNIFICANT POPULATIONS OF IRAQI REFUGEES.
 
@@ -368,7 +372,7 @@ Information required.—To the extent data is available, the information referre
 
 &emsp;“(3)
 
-Executive agency defined.—In this subsection, the term ‘executive agency’ has the meaning given the term in section 4(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(1)).
+Executive agency defined.—In this subsection, the term ‘executive agency’ has the meaning given the term in section 4(1) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 403(1)) \[now 41 U.S.C. 133\].
 
 “(d)
 
@@ -632,7 +636,7 @@ Establishment of Categories.—
 
 &emsp;“(2)(A) Aliens who are (or were) nationals and residents of an independent state of the former Soviet Union or of Estonia, Latvia, or Lithuania and who are Jews or Evangelical Christians shall be deemed a category of alien established under paragraph (1)(A).
 
-&emsp;“(B) Aliens who are (or were) nationals of an independent state of the former Soviet Union or of Estonia, Latvia, or Lithuania and who are current members of, and demonstrate public, active, and continuous participation (or attempted participation) in thereligious activities of, the Ukrainian Catholic Church or the Ukrainian Orthodox Church, shall be deemed a category of alien established under paragraph (1)(A).
+&emsp;“(B) Aliens who are (or were) nationals of an independent state of the former Soviet Union or of Estonia, Latvia, or Lithuania and who are current members of, and demonstrate public, active, and continuous participation (or attempted participation) in the religious activities of, the Ukrainian Catholic Church or the Ukrainian Orthodox Church, shall be deemed a category of alien established under paragraph (1)(A).
 
 &emsp;“(C) Aliens who are (or were) nationals and residents of Vietnam, Laos, or Cambodia and who are members of categories of individuals determined, by the Attorney General in accordance with ‘Immigration and Naturalization Service Worldwide Guidelines for Overseas Refugee Processing’ (issued by the Immigration and Naturalization Service in August 1983) shall be deemed a category of alien established under paragraph (1)(B).
 
@@ -677,6 +681,8 @@ Section 204(d)(1) of Pub. L. 96–212 provided that: “Notwithstanding section 
 #### Presidential Determination Concerning Admission and Adjustment of Status of Refugees
 
 Determinations by the President pursuant to this section concerning the admission and adjustment of status of refugees for particular fiscal years were contained in the following Presidential Determinations:
+
+Presidential Determination No. 2011–02, Oct. 8, 2010, 75 F.R. 75851.
 
 Presidential Determination No. 2009–32, Sept. 30, 2009, 74 F.R. 52385.
 

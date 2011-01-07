@@ -46,9 +46,9 @@ No deduction shall be allowed under subsection (a) to any taxpayer for any taxab
 
 #### (g) Termination
 
-This section shall not apply to property placed in service after December 31, 2009.
+This section shall not apply to property placed in service after December 31, 2011.
 
-(Added Pub. L. 109–432, div. A, title IV, §404(a), Dec. 20, 2006, 120 Stat. 2955; amended Pub. L. 110–343, div. C, title III, §311, Oct. 3, 2008, 122 Stat. 3869.)
+(Added Pub. L. 109–432, div. A, title IV, §404(a), Dec. 20, 2006, 120 Stat. 2955; amended Pub. L. 110–343, div. C, title III, §311, Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §743(a), Dec. 17, 2010, 124 Stat. 3319.)
 
 #### References in Text
 
@@ -56,7 +56,13 @@ The date of the enactment of this section, referred to in subsec. (c)(2), is the
 
 #### Amendments
 
-2008—Subsec. (g). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2008”.
+<b>2010</b>—Subsec. (g). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
+
+<b>2008</b>—Subsec. (g). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2008”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title VII, §743(b), Dec. 17, 2010, 124 Stat. 3319, provided that: “The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2009.”
 
 #### Effective Date
 

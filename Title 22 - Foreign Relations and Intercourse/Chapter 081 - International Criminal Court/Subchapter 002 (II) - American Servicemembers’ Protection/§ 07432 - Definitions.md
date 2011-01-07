@@ -20,7 +20,7 @@ As used in this subchapter and in section 7402 of this title:
 
 #### (5) Extradition
 
-&emsp;The terms “extradition” and “extradite” mean the extradition of a person in accordance with the provisions of chapter 209 of title 18 (including section 3181(b) of such title) andsuch terms include both extradition and surrender as those terms are defined in Article 102 of the Rome Statute.
+&emsp;The terms “extradition” and “extradite” mean the extradition of a person in accordance with the provisions of chapter 209 of title 18 (including section 3181(b) of such title) and such terms include both extradition and surrender as those terms are defined in Article 102 of the Rome Statute.
 
 #### (6) International Criminal Court
 
@@ -62,9 +62,9 @@ Executive Order 12958, referred to in par. (2), which was set out as a note unde
 
 #### Amendments
 
-2008—Par. (13). Pub. L. 110–181 struck out par. (13) which defined “United States military assistance”.
+<b>2008</b>—Par. (13). Pub. L. 110–181 struck out par. (13) which defined “United States military assistance”.
 
-2006—Par. (13)(A). Pub. L. 109–364 struck out “or 5” before “of part II”.
+<b>2006</b>—Par. (13)(A). Pub. L. 109–364 struck out “or 5” before “of part II”.
 
 #### Change of Name
 

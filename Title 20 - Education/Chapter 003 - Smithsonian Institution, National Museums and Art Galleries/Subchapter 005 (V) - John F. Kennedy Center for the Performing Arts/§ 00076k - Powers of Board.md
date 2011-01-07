@@ -86,9 +86,9 @@ The Labor Management Relations Act, 1947, referred to in subsec. (f)(2), is act 
 
 #### Amendments
 
-1997—Subsec. (g). Pub. L. 105–95 added subsec. (g).
+<b>1997</b>—Subsec. (g). Pub. L. 105–95 added subsec. (g).
 
-1994—Pub. L. 103–279, §4(a)(1), substituted section catchline for former section catchline.
+<b>1994</b>—Pub. L. 103–279, §4(a)(1), substituted section catchline for former section catchline.
 
 Subsec. (a). Pub. L. 103–279, §4(a)(1), inserted heading and substituted “John F. Kennedy Center for the Performing Arts, as a bureau of the Smithsonian Institution,” for “Smithsonian Institution”.
 
@@ -98,5 +98,5 @@ Subsec. (c). Pub. L. 103–279, §4(c), added heading and text of subsec. (c) an
 
 Subsecs. (d) to (f). Pub. L. 103–279, §4(c), added subsecs. (d) to (f).
 
-1964—Subsecs. (a), (b). Pub. L. 88–260 substituted “John F. Kennedy Center for the Performing Arts” for “National Cultural Center” wherever appearing.
+<b>1964</b>—Subsecs. (a), (b). Pub. L. 88–260 substituted “John F. Kennedy Center for the Performing Arts” for “National Cultural Center” wherever appearing.
 

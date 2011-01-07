@@ -10,5 +10,5 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 #### Amendments
 
-1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §1205, which enacted this section.
+<b>1996</b>—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §1205, which enacted this section.
 

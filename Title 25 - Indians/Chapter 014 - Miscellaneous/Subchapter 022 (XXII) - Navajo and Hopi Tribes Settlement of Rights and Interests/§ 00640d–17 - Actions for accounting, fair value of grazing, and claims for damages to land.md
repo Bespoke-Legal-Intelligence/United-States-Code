@@ -8,7 +8,7 @@ Either tribe, acting through the chairman of its tribal council, for and on beha
 
 &emsp;(2) for the determination and recovery of the fair value of the grazing and agricultural use by either tribe and its individual members since the 28th day of September 1962 of the undivided one-half interest of the other tribe in the lands within the joint use area, together with interest at the rate of 6 per centum per annum compounded annually, notwithstanding the fact that the tribes are tenants in common of such lands; and
 
-&emsp;(3) for the adjudication of any claims that either tribe may have against the other for damages to the lands to which title was quieted as aforesaid by the United States District Court for the District of Arizona in such tribes, share and share alike, subject to the trust title of the United States, without interest, notwithstanding the fact that such tribes are tenants in common of such lands: <i>Provided</i>, That the United States may be joined as a party to such an action and, in such case, the provisions of sections 1346(a)(2) and 1505 of title 28 shall not be applicable to such action.
+&emsp;(3) for the adjudication of any claims that either tribe may have against the other for damages to the lands to which title was quieted as aforesaid by the United States District Court for the District of Arizona in such tribes, share and share alike, subject to the trust title of the United States, without interest, notwithstanding the fact that such tribes are tenants in common of such lands: <i>Provided</i>,That the United States may be joined as a party to such an action and, in such case, the provisions of sections 1346(a)(2) and 1505 of title 28 shall not be applicable to such action.
 
 #### (b) Defenses
 

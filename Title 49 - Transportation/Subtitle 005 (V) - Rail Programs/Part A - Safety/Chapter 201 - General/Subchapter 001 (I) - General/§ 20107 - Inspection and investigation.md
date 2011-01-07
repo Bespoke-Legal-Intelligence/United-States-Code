@@ -94,7 +94,7 @@ In subsection (b), the words “In carrying out this part” are substituted for
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–432 added subsec. (c).
+<b>2008</b>—Subsec. (c). Pub. L. 110–432 added subsec. (c).
 
 #### Safety Inspections in Mexico
 

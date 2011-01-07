@@ -12,7 +12,7 @@ The Secretary shall modify delinquent farmer program loans made or insured under
 
 To be eligible to obtain assistance under subsection (a) of this section—
 
-&emsp;(1) the delinquency must be due to circumstances beyond the control of the borrower, as defined in regulations issued by the Secretary, except that the regulations shall require that, if the value of the assets calculated under subsection (c)(2)(A)(ii) of this section that may be realized through liquidation or other methods would produce enough income to make the delinquent loan current, the borrower shall not be eligible for assistance under subsection (a) of this section;
+&emsp;(1) the delinquency must be due to circumstances beyond the control of the borrower, as defined in regulations issued by the Secretary,except that the regulations shall require that, if the value of the assets calculated under subsection (c)(2)(A)(ii) of this section that may be realized through liquidation or other methods would produce enough income to make the delinquent loan current, the borrower shall not be eligible for assistance under subsection (a) of this section;
 
 &emsp;(2) the borrower must have acted in good faith with the Secretary in connection with the loan as defined in regulations issued by the Secretary;
 
@@ -96,7 +96,7 @@ To be eligible to obtain assistance under subsection (a) of this section—
 
 &emsp;&emsp;(B) the value of the restructured loan is less than the recovery value; and
 
-&emsp;&emsp;(C) not later than 90 days after receipt of the notification described in paragraph (4)(B), the borrower pays (or obtains third-party financing to pay) the Secretary an amount equal to the current market value.
+&emsp;&emsp;(C) not later than 90 days after receipt of the notification described in paragraph\(4)(B), the borrower pays (or obtains third-party financing to pay) the Secretary an amount equal to the current market value.
 
 #### (7) Negotiation of appraisal
 
@@ -380,7 +380,7 @@ Regulations.—As soon as practicable after the date of enactment of this Act \[
 
 #### Suspension of Collection Activities During Transition Period
 
-Section 615(d) of Pub. L. 100–233 provided that: “The Secretary of Agriculture shall not initiate any acceleration, foreclosure, or liquidation in connection withany delinquent farmer program loan before the date the Secretary has issued final regulations to carry out the amendments made by this section \[enacting section 2001 of this title and amending sections 1927a and 1981 of this title\]. The preceding sentence shall not prohibit the Secretary from taking any action with respect to waste, fraud, or abuse by the borrower.”
+Section 615(d) of Pub. L. 100–233 provided that: “The Secretary of Agriculture shall not initiate any acceleration, foreclosure, or liquidation in connection with any delinquent farmer program loan before the date the Secretary has issued final regulations to carry out the amendments made by this section \[enacting section 2001 of this title and amending sections 1927a and 1981 of this title\]. The preceding sentence shall not prohibit the Secretary from taking any action with respect to waste, fraud, or abuse by the borrower.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

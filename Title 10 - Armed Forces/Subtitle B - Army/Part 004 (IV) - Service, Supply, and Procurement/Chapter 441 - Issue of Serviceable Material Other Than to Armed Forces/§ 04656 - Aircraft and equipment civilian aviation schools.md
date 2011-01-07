@@ -22,5 +22,5 @@ The words “in his discretion and”, “rules”, “limitations”, and “on
 
 #### Amendments
 
-1982—Pub. L. 97–295 struck out “, and at least one of which is designated by the Civil Aeronautics Authority for the training of Negro air pilots” after “competent orders”.
+<b>1982</b>—Pub. L. 97–295 struck out “, and at least one of which is designated by the Civil Aeronautics Authority for the training of Negro air pilots” after “competent orders”.
 

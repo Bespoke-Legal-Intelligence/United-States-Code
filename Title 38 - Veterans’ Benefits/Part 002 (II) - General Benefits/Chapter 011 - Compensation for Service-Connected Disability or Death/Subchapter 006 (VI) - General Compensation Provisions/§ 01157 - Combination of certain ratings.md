@@ -6,7 +6,7 @@ The Secretary shall provide for the combination of ratings and pay compensation 
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 357 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 357 of this title as this section.
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 

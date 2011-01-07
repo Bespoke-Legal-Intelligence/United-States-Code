@@ -10,5 +10,5 @@ Act of October 9, 1962 (76 Stat. 755), referred to in text, is Pub. L. 87–759,
 
 #### Amendments
 
-2009—Pub. L. 111–11 substituted “Jean Lafitte National Historical Park and Preserve” for “Jean Lafitte National Historical Park”.
+<b>2009</b>—Pub. L. 111–11 substituted “Jean Lafitte National Historical Park and Preserve” for “Jean Lafitte National Historical Park”.
 

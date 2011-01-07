@@ -16,7 +16,7 @@ The term “net earnings from self-employment” means the gross income, as comp
 
 &emsp;(5)(A) If any of the income derived from a trade or business (other than a trade or business carried on by a partnership) is community income under community property laws applicable to such income, the gross income and deductions attributable to such trade or business shall be treated as the gross income and deductions of the spouse carrying on such trade or business or, if such trade or business is jointly operated, treated as the gross income and deductions of each spouse on the basis of their respective distributive share of the gross income and deductions;
 
-&emsp;(B) If any portion of a partner's distributive share of the ordinary net income or loss from a trade or business carried on by a partnership is community income or loss under the community property laws applicable to such share, all of such distributive share shall be included in computing the net earnings from self-employment of such partner, and no part of such share shall be taken into account in computing the net earnings from self-employment of the spouse of such partner;
+&emsp;(B) If any portion of a partner's distributive share of the ordinary net income or loss from a trade or business carried on by a partnership is community income or loss under the community property laws applicable to such share, all of such distributive share shall beincluded in computing the net earnings from self-employment of such partner, and no part of such share shall be taken into account in computing the net earnings from self-employment of the spouse of such partner;
 
 &emsp;(6) A resident of the Commonwealth of Puerto Rico shall compute his net earnings from self-employment in the same manner as a citizen of the United States but without regard to the provisions of section 933 of the Internal Revenue Code of 1986;
 
@@ -56,7 +56,7 @@ The term “net earnings from self-employment” means the gross income, as comp
 
 &emsp;(ii) in the case of an individual, if the gross income derived by him from such trade or business is more than the upper limit and the net earnings from self-employment derived by him from such trade or business (computed under this subsection without regard to this sentence) are less than the lower limit, the net earnings from self-employment derived by him from such trade or business may, at his option, be deemed to be the lower limit; and
 
-&emsp;(iii) in the case of a member of a partnership, if his distributive share of the gross income of the partnership derived from such trade or business (after such gross income has been reduced by the sum of all payments to which section 707(c) of the Internal Revenue Code of 1986 applies) is not more than the upper limit, his distributive share of income described in section 702(a)(8) of such Code derived from such trade or business may, at his option, be deemed to be an amount equal to 662/3 percent of his distributive share of such gross income (after such gross income has been so reduced); or
+&emsp;(iii) in the case of a member of a partnership, if his distributive share of the gross income of the partnership derived from such trade or business (after such gross income has been reduced by the sum of all payments to which section 707(c) of the Internal RevenueCode of 1986 applies) is not more than the upper limit, his distributive share of income described in section 702(a)(8) of such Code derived from such trade or business may, at his option, be deemed to be an amount equal to 662/3 percent of his distributive share of such gross income (after such gross income has been so reduced); or
 
 &emsp;(iv) in the case of a member of a partnership, if his distributive share of the gross income of the partnership derived from such trade or business (after such gross income has been reduced by the sum of all payments to which section 707(c) of the Internal Revenue Code of 1986 applies) is more than the upper limit and his distributive share (whether or not distributed) of income described in section 702(a)(8) of such Code derived from such trade or business (computed under this subsection without regard to this sentence) is less than the lower limit, his distributive share of income described in such section 702(a)(8) derived from such trade or business may, at his option, be deemed to be the lower limit.
 
@@ -68,7 +68,7 @@ The term “net earnings from self-employment” means the gross income, as comp
 
 > and, for purposes of such sentence, if an individual (including a member of a partnership) derives gross income from more than one such trade or business, such gross income (including his distributive share of the gross income of any partnership derived from any such trade or business) shall be deemed to have been derived from one trade or business.
 
-The preceding sentence and clauses (i) through (iv) of the second preceding sentence shall also apply in the case of any trade or business (other than a trade or business specified in such second preceding sentence) which is carried on by an individual who is self-employed on a regular basis as defined in subsection (g) of this section, or by a partnership of which an individual is a member on a regular basis as defined in subsection (g) of this section, but only if such individual's net earnings from self-employment in the taxable year as determined without regard to this sentence are less than the lower limit and less than 662/3 percent of the sum (in such taxable year) of such individual's gross income derived from all trades or businesses carried on by him and his distributive share of the income or loss from all trades or businesses carried on by allthe partnerships of which he is a member; except that this sentence shall not apply to more than 5 taxable years in the case of any individual, and in no case in which an individual elects to determine the amount of his net earnings from self-employment for a taxable year under the provisions of the two preceding sentences with respect to a trade or business to which the second preceding sentence applies and with respect to a trade or business to which this sentence applies shall such net earnings for such year exceed the lower limit.
+The preceding sentence and clauses (i) through (iv) of the second preceding sentence shall also apply in the case of any trade or business (other than a trade or business specified in such second preceding sentence) which is carried on by an individual who is self-employed on a regular basis as defined in subsection (g) of this section, or by a partnership of which an individual is a member on a regular basis as defined in subsection (g) of this section, but only if such individual's net earnings from self-employment in the taxable year as determined without regard to this sentence are less than the lower limit and less than 662/3 percent of the sum (in such taxable year) of such individual's gross income derived from all trades or businesses carried on by him and his distributive share of the income or loss from all trades or businesses carried on by all the partnerships of which he is a member; except that this sentence shall not apply to more than 5 taxable years in the case of any individual, and in no case in which an individual elects to determine the amount of his net earnings from self-employment for a taxable year under the provisions of the two preceding sentences with respect to a trade or business to which the second preceding sentence applies and with respect to a trade or business to which this sentence applies shall such net earnings for such year exceed the lower limit.
 
 #### (b) Self-employment income
 
@@ -96,7 +96,7 @@ The term “self-employment income” means the net earnings from self-employmen
 
 &emsp;(2) The net earnings from self-employment, if such net earnings for the taxable year are less than $400.
 
-> An individual who is not a citizen of the United States but who is a resident of the Commonwealth of Puerto Rico, the Virgin Islands, Guam, or American Samoa shall not, for the purpose of this subsection, be considered to be a nonresident alien individual. In the case of church employee income, the special rules of subsection (i)(2) of this section shall apply for purposes of paragraph (2).
+> An individual who is not a citizen of the United States but who is a resident of the Commonwealth of Puerto Rico, the Virgin Islands, Guam, or American Samoa shall not, for the purpose of this subsection, be considered to be a nonresident alien individual. In the case of church employee income, the special rules ofsubsection (i)(2) of this section shall apply for purposes of paragraph (2).
 
 #### (c) Trade or business
 
@@ -218,11 +218,11 @@ The Internal Revenue Code of 1986, referred to in text, is classified to Title 2
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §15352(b)(1), in concluding provisions, substituted “the upper limit” for “$2,400” wherever appearing and “the lower limit” for “$1,600” wherever appearing.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §15352(b)(1), in concluding provisions, substituted “the upper limit” for “$2,400” wherever appearing and “the lower limit” for “$1,600” wherever appearing.
 
 Subsec. (a)(1). Pub. L. 110–246, §15301(b), inserted “, and including payments under section 3833(2) of title 16 to individuals receiving benefits under section 402 or 423 of this title” after “crop shares”.
 
@@ -230,17 +230,17 @@ Subsec. (a)(2). Pub. L. 110–246, §4115(c)(1)(A)(i), (B)(iii), substituted “
 
 Subsec. (k). Pub. L. 110–246, §15352(b)(2), added subsec. (k).
 
-2007—Subsec. (a)(16). Pub. L. 110–28 added par. (16).
+<b>2007</b>—Subsec. (a)(16). Pub. L. 110–28 added par. (16).
 
-2004—Subsec. (a)(5)(A). Pub. L. 108–203, §425(a), substituted “the gross income and deductions attributable to such trade or business shall be treated as the gross income and deductions of the spouse carrying on such trade or business or, if such trade or business is jointly operated, treated as the gross income and deductions of each spouse on the basis of their respective distributive share of the gross income and deductions;” for “all of the gross income and deductions attributable to such trade or business shall be treated as the gross income and deductions of the husband unless the wife exercises substantially all of the management and control of such trade or business, in which case all of such gross income and deductions shall be treated as the gross income and deductions of the wife;”.
+<b>2004</b>—Subsec. (a)(5)(A). Pub. L. 108–203, §425(a), substituted “the gross income and deductions attributable to such trade or business shall be treated as the gross income and deductions of the spouse carrying on such trade or business or, if such trade or business is jointly operated, treated as the gross income and deductions of each spouse on the basis of their respective distributive share of the gross income and deductions;” for “all of the gross income and deductions attributable to such trade or business shall be treated as the gross income and deductions of the husband unless the wife exercises substantially all of the management and control of such trade or business, in which case all of such gross income and deductions shall be treated as the gross income and deductions of the wife;”.
 
 Subsec. (a)(7). Pub. L. 108–203, §422(a), inserted “, but shall not include in any such net earnings from self-employment the rental value of any parsonage or any parsonage allowance (whether or not excluded under section 107 of the Internal Revenue Code of 1986) provided after the individual retires, or any other retirement benefit received by such individual from a church plan (as defined in section 414(e) of such Code) after the individual retires” before semicolon at end.
 
 Subsec. (a)(15). Pub. L. 108–203, §424(a), substituted “section 162(<i>l</i>)” for “section 162(m)”.
 
-1997—Subsec. (j). Pub. L. 105–34 added subsec. (j).
+<b>1997</b>—Subsec. (j). Pub. L. 105–34 added subsec. (j).
 
-1994—Subsec. (a). Pub. L. 103–296, §321(c)(6)(E), substituted “1986” for “1954” after “Code of” wherever appearing in introductory provisions, in pars. (3), (4), (6), (10), (11), and (12), and in cls. (iii) and (iv) of closing provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–296, §321(c)(6)(E), substituted “1986” for “1954” after “Code of” wherever appearing in introductory provisions, in pars. (3), (4), (6), (10), (11), and (12), and in cls. (iii) and (iv) of closing provisions.
 
 Subsec. (a)(13) to (15). Pub. L. 103–296, §321(a)(14), (c)(5), struck out “and” at end of par. (13), substituted “; and” for period at end of par. (14), and inserted “of the Internal Revenue Code of 1986” after “section 162(m)” in par. (15).
 
@@ -256,25 +256,25 @@ Subsec. (c)(3), (6). Pub. L. 103–296, §321(c)(6)(F), substituted “1986” f
 
 Subsecs. (d), (e), (h)(1)(B). Pub. L. 103–296, §321(c)(6)(G), substituted “1986” for “1954” after “Code of”.
 
-1990—Subsec. (a). Pub. L. 101–508, §5123(a)(1), redesignated last undesignated paragraph, relating to incomeof an individual which results from or is attributable to performance of services by such individual as a director of a corporation, as subsec. (f)(5) of section 403 of this title.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §5123(a)(1), redesignated last undesignated paragraph, relating to income of an individual which results from or is attributable to performance of services by such individual as a director of a corporation, as subsec. (f)(5) of section 403 of this title.
 
 Subsec. (a)(14), (15). Pub. L. 101–508, §5130(a)(3), redesignated par. (14), relating to nonallowability of deduction under section 162(m) (health insurance costs of self-employed individuals), as (15).
 
 Subsec. (b). Pub. L. 101–508, §5130(a)(2), made technical correction to directory language of Pub. L. 98–21, §322(b)(1). See 1983 Amendment note below.
 
-1988—Subsec. (a)(7). Pub. L. 100–647, §8016(a)(2), inserted “of the Internal Revenue Code of 1986” before semicolon at end.
+<b>1988</b>—Subsec. (a)(7). Pub. L. 100–647, §8016(a)(2), inserted “of the Internal Revenue Code of 1986” before semicolon at end.
 
 Subsec. (a)(14). Pub. L. 100–647, §3043(b), added par. (14) relating to the exclusion of income excluded from taxation under section 7873 of the Internal Revenue Code of 1986 (income derived by Indians from exercise of fishing rights).
 
 Pub. L. 100–647, §1011B(b)(4), added par. (14) relating to nonallowability of deduction under section 162(m) (health insurance costs of self-employed individuals).
 
-1987—Subsec. (a). Pub. L. 100–203, §9022(a), inserted par. at end relating to income of an individual which results from or is attributable to the performance of services by such individual as a director of a corporation.
+<b>1987</b>—Subsec. (a). Pub. L. 100–203, §9022(a), inserted par. at end relating to income of an individual which results from or is attributable to the performance of services by such individual as a director of a corporation.
 
 Subsec. (a)(7). Pub. L. 100–203, §9023(b)(1), struck out reference to section 931 (relating to income from sources within possessions of the United States) of the Internal Revenue Code of 1954.
 
 Subsec. (a)(8). Pub. L. 100–203, §9023(b)(2), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “The term ‘possession of the United States’ as used in sections 931 (relating to income from sources within the possessions of the United States) and 932 (relating to citizens of possessions of the United States) of the Internal Revenue Code of 1986 shall be deemed not to include the Virgin Islands, Guam, or American Samoa;”.
 
-1986—Subsec. (a)(13). Pub. L. 99–514, §1882(b)(2)(B)(i), amended par. (13) generally. Prior to amendment, par. (13) read as follows: “With respect to remuneration for service which are treated as services in a trade or business under subsection (c)(2)(G) of this section—
+<b>1986</b>—Subsec. (a)(13). Pub. L. 99–514, §1882(b)(2)(B)(i), amended par. (13) generally. Prior to amendment, par. (13) read as follows: “With respect to remuneration for service which are treated as services in a trade or business under subsection (c)(2)(G) of this section—
 
 &emsp;“(A) no deduction for trade or business expenses provided under the Internal Revenue Code of 1954 (other than the deduction under paragraph (11) of this subsection) shall apply;
 
@@ -288,7 +288,7 @@ Subsec. (c)(2)(G). Pub. L. 99–514, §1883(a)(6), realigned margins of subpar. 
 
 Subsec. (i). Pub. L. 99–514, §1882(b)(2)(A), added subsec. (i).
 
-1984—Subsec. (a). Pub. L. 98–369, §2663(a)(8)(A), substituted “subtitle A of the Internal Revenue Code of 1954” for “chapter 1 of the Internal Revenue Code of 1939”, “such subtitle” for “such chapter”, and “section 702(a)(8) of the Internal Revenue Code of 1954” for “section 183 of the Internal Revenue Code of 1939”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §2663(a)(8)(A), substituted “subtitle A of the Internal Revenue Code of 1954” for “chapter 1 of the Internal Revenue Code of 1939”, “such subtitle” for “such chapter”, and “section 702(a)(8) of the Internal Revenue Code of 1954” for “section 183 of the Internal Revenue Code of 1939”.
 
 Pub. L. 98–369, §2663(a)(8)(D), in provisions following numbered pars., substituted “702(a)(8)” for “702(a)(9)” in cl. (iii) and in two places in cl. (iv).
 
@@ -312,7 +312,7 @@ Subsec. (e). Pub. L. 98–369, §2663(a)(8)(I), substituted “subtitle A of the
 
 Subsec. (h). Pub. L. 98–369, §102(c)(2), added subsec. (h).
 
-1983—Subsec. (a)(10). Pub. L. 98–21, §323(b)(2)(A), substituted “The exclusion from gross income provided by section 911(a)(1) of the Internal Revenue Code of 1954 shall not apply” for “In the case of an individual described in section 911(d)(1)(B) of the Internal Revenue Code of 1954, the exclusion from gross income provided by section 911(a)(1) of such Code shall not apply”.
+<b>1983</b>—Subsec. (a)(10). Pub. L. 98–21, §323(b)(2)(A), substituted “The exclusion from gross income provided by section 911(a)(1) of the Internal Revenue Code of 1954 shall not apply” for “In the case of an individual described in section 911(d)(1)(B) of the Internal Revenue Code of 1954, the exclusion from gross income provided by section 911(a)(1) of such Code shall not apply”.
 
 Pub. L. 98–21, §323(b)(2)(B), temporarily amended par. (10) by substituting “In the case of an individual described in section 911(d)(1)(B) of the Internal Revenue Code of 1954, the exclusion from gross income provided by section 911(a)(1) of such Code shall not apply” for “In the case of an individual who has been a resident of the United States during the entire taxable year, the exclusion from gross income provided by section 911(a)(2) of the Internal Revenue Code of 1954 shall not apply”. See Effective and Termination Dates of 1983 Amendment note below.
 
@@ -320,21 +320,21 @@ Subsec. (a)(11), (12). Pub. L. 98–21, §124(c)(3), added par. (11) and redesig
 
 Subsec. (b). Pub. L. 98–21, §322(b)(1), as amended by Pub. L. 101–508, §5130(a)(2), inserted “, except as provided by an agreement under section 433 of this title” after “non-resident alien individual” in provisions preceding par. (1).
 
-1978—Subsec. (a)(2). Pub. L. 95–600, §703(j)(14)(D), which directed that “(other than interest described in section 35 of the Internal Revenue Code of 1954)” be struck out from subsec. (a)(2) of this section, was executed by striking out “(other than interest described in section 25(a) of the Internal Revenue Code of 1939)” as the probable intent of Congress.
+<b>1978</b>—Subsec. (a)(2). Pub. L. 95–600, §703(j)(14)(D), which directed that “(other than interest described in section 35 of the Internal Revenue Code of 1954)” be struck out from subsec. (a)(2) of this section, was executed by striking out “(other than interest described in section 25(a) of the Internal Revenue Code of 1939)” as the probable intent of Congress.
 
 Subsec. (c)(6). Pub. L. 95–600, §703(j)(14)(E), substituted “section 1402(g)” for “section 1402(h)”.
 
-1977—Subsec. (a)(11). Pub. L. 95–216 added par. (11).
+<b>1977</b>—Subsec. (a)(11). Pub. L. 95–216 added par. (11).
 
-1976—Subsec. (c)(2)(F). Pub. L. 94–455 added subpar. (F).
+<b>1976</b>—Subsec. (c)(2)(F). Pub. L. 94–455 added subpar. (F).
 
-1974—Subsec. (a)(1). Pub. L. 93–368 inserted “(as determined without regard to any activities of an agent of such owner or tenant)” after “material participation by the owner or tenant” wherever appearing.
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–368 inserted “(as determined without regard to any activities of an agent of such owner or tenant)” after “material participation by the owner or tenant” wherever appearing.
 
-1973—Subsec. (b)(1)(H). Pub. L. 93–233 substituted “$13,200” for “$12,600”.
+<b>1973</b>—Subsec. (b)(1)(H). Pub. L. 93–233 substituted “$13,200” for “$12,600”.
 
 Pub. L. 93–66 substituted “$12,600” for “$12,000”.
 
-1972—Subsec. (a). Pub. L. 92–603, §§121(a)(1), 124(a), 140(a), struck out provisions of par. (7) relating to citizens of the United States performing the specified services as an employee of an American employer (as defined in section 410(e) of this title) or as a minister in a foreign country who has a congregation composed predominantly of United States citizens, inserted provisions in par. (7) relating to the applicability of sections 911 and 931 of title 26, and added par. (10) and provisions for an optional method for determining self-employment earnings.
+<b>1972</b>—Subsec. (a). Pub. L. 92–603, §§121(a)(1), 124(a), 140(a), struck out provisions of par. (7) relating to citizens of the United States performing the specified services as an employee of an American employer (as defined in section 410(e) of this title) or as a minister in a foreign country who has a congregation composed predominantly of United States citizens, inserted provisions in par. (7) relating to the applicability of sections 911 and 931 of title 26, and added par. (10) and provisions for an optional method for determining self-employment earnings.
 
 Subsec. (b)(1)(F). Pub. L. 92–336, §203(a)(2)(A), inserted “and prior to 1973” after “1971”.
 
@@ -342,11 +342,11 @@ Subsec. (b)(1)(G) to (I). Pub. L. 92–336, §203(a)(2)(B), added subpars. (G) t
 
 Subsec. (g). Pub. L. 92–603, §121(a)(2), added subsec. (g).
 
-1971—Subsec. (b)(1)(E). Pub. L. 92–5, §203(a)(2)(A), inserted “and beginning prior to 1972” after “1967”.
+<b>1971</b>—Subsec. (b)(1)(E). Pub. L. 92–5, §203(a)(2)(A), inserted “and beginning prior to 1972” after “1967”.
 
 Subsec. (b)(1)(F). Pub. L. 92–5, §203(a)(2)(B), added subpar. (F).
 
-1968—Subsec. (a)(9). Pub. L. 90–248, §118(b), added par. (9).
+<b>1968</b>—Subsec. (a)(9). Pub. L. 90–248, §118(b), added par. (9).
 
 Subsec. (b)(1)(D), (E). Pub. L. 90–248, §108(a)(2)(A), (B), inserted “and prior to 1968” after “1965” and added subpar. (E), respectively.
 
@@ -356,7 +356,7 @@ Subsec. (c)(1). Pub. L. 90–248, §122(a)(1), included in term “trade or busi
 
 Subsec. (c)(2)(E). Pub. L. 90–248, §122(a)(2), added subpar. (E).
 
-1965—Subsec. (a). Pub. L. 89–97, §312(a), substituted “$2,400” for “$1,800” in cls. (i) to (iv) and “$1,600” for “$1,200” in cls. (ii) and (iv) of second sentence following par. (8), wherever appearing.
+<b>1965</b>—Subsec. (a). Pub. L. 89–97, §312(a), substituted “$2,400” for “$1,800” in cls. (i) to (iv) and “$1,600” for “$1,200” in cls. (ii) and (iv) of second sentence following par. (8), wherever appearing.
 
 Subsec. (b)(1)(C). Pub. L. 89–97, §320(a)(2)(A), inserted “and prior to 1966” after “1958” and substituted “and” for “or” after the semicolon.
 
@@ -366,9 +366,9 @@ Subsec. (c). Pub. L. 89–97, §311(a)(1), (2), struck out from par. (5) “doct
 
 Subsec. (c)(6). Pub. L. 89–97, §319(b), added par. (6).
 
-1964—Subsec. (a)(3)(B), Pub. L. 88–272 amended cl. (B) generally, substituting “, coal, or iron ore, if section 631 of the Internal Revenue Code of 1954 applies” for “or coal, if section 117(j) of the Internal Revenue Code of 1954 is applicable”.
+<b>1964</b>—Subsec. (a)(3)(B), Pub. L. 88–272 amended cl. (B) generally, substituting “, coal, or iron ore, if section 631 of the Internal Revenue Code of 1954 applies” for “or coal, if section 117(j) of the Internal Revenue Code of 1954 is applicable”.
 
-1960—Subsec. (a)(6). Pub. L. 86–778, §103(j)(3), substituted “section 933 of the Internal Revenue Code of 1954” for “section 116(1) of the Internal Revenue Code of 1954”, and struck out provisions which defined “possession of the United States” in the case of taxable years beginning before the effective date specified in former section 419 of this title.
+<b>1960</b>—Subsec. (a)(6). Pub. L. 86–778, §103(j)(3), substituted “section 933 of the Internal Revenue Code of 1954” for “section 116(1) of the Internal Revenue Code of 1954”, and struck out provisions which defined “possession of the United States” in the case of taxable years beginning before the effective date specified in former section 419 of this title.
 
 Subsec. (a)(8). Pub. L. 86–778, §103(g), added par. (8) and inserted a reference to paragraph (8) in cls. (v) and (vi) of last sentence.
 
@@ -376,13 +376,13 @@ Subsec. (b). Pub. L. 86–778, §103(h), provided that individuals who are not c
 
 Subsec. (c)(2). Pub. L. 86–778, §106(a), excluded service described in section 410(a)(11), (12), or (15) of this title performed in the United States by a citizen of the United States.
 
-1958—Subsec. (b)(1). Pub. L. 85–840, §102(b), inserted “and prior to 1959” after “year ending after 1954” in cl. (B), and added cl. (C).
+<b>1958</b>—Subsec. (b)(1). Pub. L. 85–840, §102(b), inserted “and prior to 1959” after “year ending after 1954” in cl. (B), and added cl. (C).
 
 Subsec. (f). Pub. L. 85–840, §313(a), added subsec. (f).
 
-1957—Subsec. (a)(7). Pub. L. 85–239 permitted computation of net earnings without regard to sections 107 and 119 of the Internal Revenue Code of 1954.
+<b>1957</b>—Subsec. (a)(7). Pub. L. 85–239 permitted computation of net earnings without regard to sections 107 and 119 of the Internal Revenue Code of 1954.
 
-1956—Subsec. (a). Act Aug. 1, 1956, §106(a), amended last two sentences generally, to include those businesses in which the income is computed under an accrual method, and partnerships, to change the method of computation of net earnings for individuals by permitting those whose gross income is not more than $1,800 to deem their net earnings to be 662/3 percent of such gross income, and those whose gross income is more than $1,800 and the net earnings are less than $1,200, to deem the net earnings to be $1,200, and to provide for the computation of net earnings for members of partnerships.
+<b>1956</b>—Subsec. (a). Act Aug. 1, 1956, §106(a), amended last two sentences generally, to include those businesses in which the income is computed under an accrual method, and partnerships, to change the method of computation of net earnings for individuals by permitting those whose gross income is not more than $1,800 to deem their net earnings to be 662/3 percent of such gross income, and those whose gross income ismore than $1,800 and the net earnings are less than $1,200, to deem the net earnings to be $1,200, and to provide for the computation of net earnings for members of partnerships.
 
 Subsec. (a)(1). Act Aug. 1, 1956, §104(c)(2), struck out from exclusion, income derived by an owner or tenant to land if such income is derived under an arrangement with another individual for the production by such other individual of agricultural or horticultural commodities if such arrangement provides for material participation by the owner or tenant in the production or the management of the production of such commodities, and there is material participation by the owner or tenant with respect to any such commodity.
 
@@ -392,7 +392,7 @@ Subsec. (c)(2). Act Aug. 1, 1956, §104(c)(3), included within term “trade or 
 
 Subsec. (c)(5). Act Aug. 1, 1956, §104(d), struck out exclusion from coverage in the case of lawyers, dentists, osteopaths, veterinarians, chiropractors, naturopaths, and optometrists.
 
-1954—Subsec. (a)(1). Act Sept. 1, 1954, §101(g)(2), made it clear that rentals paid in crop shares would be excluded as being rentals from real estate.
+<b>1954</b>—Subsec. (a)(1). Act Sept. 1, 1954, §101(g)(2), made it clear that rentals paid in crop shares would be excluded as being rentals from real estate.
 
 Subsec. (a)(2). Act Sept. 1, 1954, §101(g)(1), redesignated par. (3) as (2), and struck out former par. (2).
 
@@ -412,7 +412,7 @@ Subsec. (c)(2). Act Sept. 1, 1954, §101(d)(1), inserted “and other than servi
 
 Subsec. (c)(5). Act Sept. 1, 1954, §101(g)(4), struck out exclusion from coverage in case of architects, certified public accountants, accountants registered or licensed as accountants under State or municipal law, full-time practicing public accountants, funeral directors, or professional engineers.
 
-1950—Subsec. (a)(7). Act Sept. 23, 1950, made provisions applicable to Puerto Rico and provided the basis for computation of net earnings.
+<b>1950</b>—Subsec. (a)(7). Act Sept. 23, 1950, made provisions applicable to Puerto Rico and provided the basis for computation of net earnings.
 
 #### Effective Date of 2008 Amendment
 
@@ -458,7 +458,7 @@ Amendment by section 8016(a)(2) of Pub. L. 100–647 effective Nov. 10, 1988, ex
 
 #### Effective Date of 1987 Amendment
 
-Amendment by section 9022(a) of Pub. L. 100–203 applicable with respect to services performed in taxable years beginning on or after Jan. 1, 1988, see section 9022(c) of Pub. L. 100–203, set out as a note under section 1402 of Title 26, Internal Revenue Code.
+Amendment by section 9022(a) of Pub. L. 100–203 applicable with respect to services performed in taxable years beginning on or after Jan. 1, 1988, see section9022(c) of Pub. L. 100–203, set out as a note under section 1402 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1986 Amendment
 
@@ -542,7 +542,7 @@ Amendment by Pub. L. 88–272 applicable with respect to amounts received or acc
 
 #### Effective Date of 1960 Amendment
 
-Amendment by section 103(g) of Pub. L. 86–778 applicable only in the case of taxable years beginning after 1960, except that, insofar as involves the nonapplication of section 932 of Title 26, Internal Revenue Code, to the Virgin Islands for purposes of sections 1401 et seq. of Title 26 and this section, such amendment shall be effective in the case of all taxable years with respect to which such sections 1401 et seq. (and corresponding provisions of prior law) and this section are applicable, see section 103(v)(1) of Pub. L. 86–778, set out as a note under section 402 of this title.
+Amendment by section 103(g) of Pub. L. 86–778 applicable only in the case of taxable years beginning after1960, except that, insofar as involves the nonapplication of section 932 of Title 26, Internal Revenue Code, to the Virgin Islands for purposes of sections 1401 et seq. of Title 26 and this section, such amendment shall be effective in the case of all taxable years with respect to which such sections 1401 et seq. (and corresponding provisions of prior law) and this section are applicable, see section 103(v)(1) of Pub. L. 86–778, set out as a note under section 402 of this title.
 
 Amendment by section 103(h) of Pub. L. 86–778 applicable only in the case of taxable years beginning after 1960, see section 103(v)(1), (3) of Pub. L. 86–778, set out as a note under section 402 of this title.
 

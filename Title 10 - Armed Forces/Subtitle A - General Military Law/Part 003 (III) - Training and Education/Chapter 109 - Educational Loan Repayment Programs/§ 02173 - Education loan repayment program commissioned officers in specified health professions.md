@@ -28,6 +28,8 @@ Academic and Professional Requirements.—One of the following academic requirem
 
 &emsp;(3) The person is enrolled in the final year of an approved graduate program leading to specialty qualification in medicine, dentistry, osteopathic medicine, or other health profession.
 
+&emsp;(4) The person is enrolled in the Armed Forces Health Professions Scholarship and Financial Assistance Program under subchapter I of chapter 105 of this title for a number of years less than is required to complete the normal length of the course of study required for the health profession concerned.
+
 (d)
 
 Certain Persons Ineligible.—Students of the Uniformed Services University of the Health Sciences established under section 2112 of this title are not eligible for the repayment of an education loan under this section.
@@ -58,15 +60,17 @@ Effect of Failure To Complete Obligation.—(1) A commissioned officer who is re
 
 Regulations.—The Secretary of Defense shall prescribe regulations to carry out this section, including standards for qualified loans and authorized payees and other terms and conditions for the making of loan repayments.
 
-(Added Pub. L. 105–85, div. A, title VI, §651(a), Nov. 18, 1997, 111 Stat. 1802; amended Pub. L. 107–314, div. A, title V, §573, Dec. 2, 2002, 116 Stat. 2558; Pub. L. 109–163, div. A, title VI, §687(c)(7), Jan. 6, 2006, 119 Stat. 3334; Pub. L. 109–364, div. A, title V, §537(a), Oct. 17, 2006, 120 Stat. 2209.)
+(Added Pub. L. 105–85, div. A, title VI, §651(a), Nov. 18, 1997, 111 Stat. 1802; amended Pub. L. 107–314, div. A, title V, §573, Dec. 2, 2002, 116 Stat. 2558; Pub. L. 109–163, div. A, title VI, §687(c)(7), Jan. 6, 2006, 119 Stat. 3334; Pub. L. 109–364, div. A, title V, §537(a), Oct. 17, 2006, 120 Stat. 2209; Pub. L. 111–383, div. A, title V, §553, Jan. 7, 2011, 124 Stat. 4220.)
 
 #### Amendments
 
-2006—Subsec. (e)(2). Pub. L. 109–364 substituted “$60,000” for “$22,000”.
+<b>2011</b>—Subsec. (c)(4). Pub. L. 111–383 added par. (4).
+
+<b>2006</b>—Subsec. (e)(2). Pub. L. 109–364 substituted “$60,000” for “$22,000”.
 
 Subsec. (g). Pub. L. 109–163 designated existing provisions as par. (1) and added par. (2).
 
-2002—Subsec. (d). Pub. L. 107–314, §573(a), substituted “Students” for “Participants of the Armed Forces Health Professions Scholarship and Financial Assistance program under subchapter I of chapter 105 of this title and students”.
+<b>2002</b>—Subsec. (d). Pub. L. 107–314, §573(a), substituted “Students” for “Participants of the Armed Forces Health Professions Scholarship and Financial Assistance program under subchapter I of chapter 105 of this title and students”.
 
 Subsec. (e)(2). Pub. L. 107–314, §573(b), struck out at end “The total amount that may be repaid on behalf of any person may not exceed an amount determined on the basis of a four-year active duty service obligation.”
 

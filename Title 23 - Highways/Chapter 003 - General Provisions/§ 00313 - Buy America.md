@@ -22,7 +22,7 @@ Intentional Violations.—If it has been determined by a court or Federal agency
 
 &emsp;(2) represented that any product used in projects to which this section applies, sold in or shipped to the United States that was not produced in the United States, was produced in the United States;
 
-> that person shall be ineligible to receive any contract or subcontract made with funds authorized under the Intermodal Surface Transportation Efficiency Act of 1991 pursuant to thedebarment, suspension, and ineligibility procedures in subpart 9.4 of chapter 1 of title 48, Code of Federal Regulations.
+> that person shall be ineligible to receive any contract or subcontract made with funds authorized under the Intermodal Surface Transportation Efficiency Act of 1991 pursuant to the debarment, suspension, and ineligibility procedures in subpart 9.4 of chapter 1 of title 48, Code of Federal Regulations.
 
 (f)
 
@@ -52,7 +52,7 @@ A prior section 313, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 915, authorized t
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–59, §1903(c)(1), substituted “to carry out the Surface Transportation Assistance Act of 1982 (96 Stat. 2097) or this title” for “by this Act or by any Act amended by this Act or, after the date of enactment of this Act, any funds authorized to be appropriated to carry out this Act, title 23, United States Code, or the Surface Transportation Assistance Act of 1978”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §1903(c)(1), substituted “to carry out the Surface Transportation Assistance Act of 1982 (96 Stat. 2097) or this title” for “by this Act or by any Act amended by this Act or, after the date of enactment of this Act, any funds authorized to be appropriated to carry out this Act, title 23, United States Code, or the Surface Transportation Assistance Act of 1978”.
 
 Subsec. (b)(3), (4). Pub. L. 109–59, §1903(c)(2), redesignated par. (4) as (3).
 

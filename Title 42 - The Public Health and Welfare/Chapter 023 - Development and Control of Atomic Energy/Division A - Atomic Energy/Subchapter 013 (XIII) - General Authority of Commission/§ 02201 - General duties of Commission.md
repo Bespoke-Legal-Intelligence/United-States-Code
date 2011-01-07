@@ -16,7 +16,7 @@ In the performance of its functions the Commission is authorized to—
 
 #### (d) Employment of personnel
 
-&emsp;appoint and fix the compensation of such officers and employees as may be necessary tocarry out the functions of the Commission. Such officers and employees shall be appointed in accordance with the civil-service laws and their compensation fixed in accordance with chapter 51 and subchapter III of chapter 53 of title 5, except that, to the extent the Commission deems such action necessary to the discharge of its responsibilities, personnel may be employed and their compensation fixed without regard to such laws: <i>Provided, however</i>, That no officer or employee (except such officers and employees whose compensation is fixed by law, and scientific and technical personnel up to a limit of the highest rate of grade 18 of the General Schedule) whose position would be subject to chapter 51 and subchapter III of chapter 53 of title 5, if such provisions were applicable to such position, shall be paid a salary at a rate in excess of the rate payable under such provisions for positions of equivalent difficulty or responsibility. Such rates of compensation may be adopted by the Commission as may be authorized by chapter 51 and subchapter III of chapter 53 of title 5, as of the same date such rates are authorized for positions subject to such provisions. The Commission shall make adequate provision for administrative review of any determination to dismiss any employee;
+&emsp;appoint and fix the compensation of such officers and employees as may be necessary to carry out the functions of the Commission. Such officers and employees shall be appointed in accordance with the civil-service laws and their compensation fixed in accordance with chapter 51 and subchapter III of chapter 53 of title 5, except that, to the extent the Commission deems such action necessary to the discharge of its responsibilities, personnel may be employed and their compensation fixed without regard to such laws: <i>Provided, however</i>, That no officer or employee (except such officers and employees whose compensation isfixed by law, and scientific and technical personnel up to a limit of the highest rate of grade 18 of the General Schedule) whose position would be subject to chapter 51 and subchapter III of chapter 53 of title 5, if such provisions were applicable to such position, shall be paid a salary at a rate in excess of the rate payable under such provisions for positions of equivalent difficulty or responsibility. Such rates of compensation may be adopted by the Commission as may be authorized by chapter 51 and subchapter III of chapter 53 of title 5, as of the same date such rates are authorized for positions subject to such provisions. The Commission shall make adequate provision for administrative review of any determination to dismiss any employee;
 
 #### (e) Acquisition of material, property, etc.; negotiation of commercial leases
 
@@ -40,7 +40,7 @@ In the performance of its functions the Commission is authorized to—
 
 #### (j) Disposition of surplus materials
 
-&emsp;without regard to the provisions of the Federal Property and Administrative Services Act of 1949, as amended,<sup>2</sup> except section 207 of that Act,<sup>2</sup> or any other law, make such disposition as it may deem desirable of (1) radioactive materials, and (2) any other property, the special disposition of which is, in the opinion of the Commission, in the interest of the national security: <i>Provided, however</i>, That the property furnished to licensees in accordance with the provisions of subsection (m) of this section shall not be deemed to be property disposed of by the Commission pursuant to this subsection;
+&emsp;without regard to the provisions of chapters 1 to 11 (except section 559) of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, or any other law, make such disposition as it may deem desirable of (1) radioactive materials, and (2) any other property, the special disposition of which is, in the opinion of the Commission, in the interest of the national security: <i>Provided, however</i>, That the property furnished to licensees in accordance with the provisions of subsection (m) of this section shall not be deemed to be property disposed of by the Commission pursuant to this subsection;
 
 #### (k) Carrying of firearms; authority to make arrests without warrant
 
@@ -66,7 +66,7 @@ In the performance of its functions the Commission is authorized to—
 
 #### (q) Easements for rights-of-way
 
-&emsp;The Commission is authorized and empowered, under such terms and conditions as are deemed advisable by it, to grant easements for rights-of-way over, across, in, and upon acquired lands under its jurisdiction and control, and public lands permanently withdrawn or reserved for the use of the Commission, to any State, political subdivision thereof, or municipality, or to any individual, partnership, or corporation of any State, Territory, or possession of the United States, for (a) railroad tracks; (b) oil pipe lines; (c) substations for electric power transmission lines, telephone lines, and telegraph lines, and pumping stations for gas, water, sewer, and oil pipe lines; (d) canals; (e) ditches; (f) flumes; (g) tunnels; (h) dams and reservoirs in connection with fish and wildlife programs, fish hatcheries, and other fish-cultural improvements; (i) roads and streets; and (j) for any other purpose or purposes deemed advisable by the Commission:<i>Provided</i>, That such rights-of-way shall be granted only upon a finding by the Commission that the same will not be incompatible with the public interest: <i>Provided further</i>, That such rights-of-way shall not include any more land than is reasonably necessary for the purpose for which granted: <i>And provided further</i>, That all or any part of such rights-of-way may be annulled and forfeited by the Commission for failure to comply with the terms and conditions of any grant hereunder or for nonuse for a period of two consecutive years or abandonment of rights granted under authority hereof. Copies of all instruments granting easements over public lands pursuant to this section shall be furnished to the Secretary of the Interior.
+&emsp;The Commission is authorized and empowered, under such terms and conditions as are deemed advisable by it, to grant easements for rights-of-way over, across, in, and upon acquired lands under its jurisdiction and control, and public lands permanently withdrawn or reserved for the use of the Commission, to any State, political subdivision thereof, or municipality, or to any individual, partnership, or corporation of any State, Territory, or possession of the United States, for (a) railroad tracks; (b) oil pipe lines; (c) substations for electric power transmission lines, telephone lines, and telegraph lines, and pumping stations for gas, water, sewer, and oil pipe lines; (d) canals; (e) ditches; (f) flumes; (g) tunnels; (h) dams and reservoirs in connection with fish and wildlife programs, fish hatcheries, and other fish-cultural improvements; (i) roads and streets; and (j) for any other purpose or purposes deemed advisable by the Commission: <i>Provided</i>, That such rights-of-way shall be granted only upon a finding by the Commission that the same will not be incompatible with the public interest: <i>Provided further</i>, That such rights-of-way shall not include any more land than is reasonably necessary for the purpose for which granted: <i>And provided further</i>, That all or any part of such rights-of-way may be annulled and forfeited by the Commission for failure to comply with the terms and conditions of any grant hereunder or for nonuse for a period of two consecutive years or abandonment of rights granted under authority hereof. Copies of all instruments grantingeasements over public lands pursuant to this section shall be furnished to the Secretary of the Interior.
 
 #### (r) Sale of utilities and related services
 
@@ -108,11 +108,11 @@ In the performance of its functions the Commission is authorized to—
 
 &emsp;(B) In entering into such contracts the Commission shall be guided by the following principles: (i) the percentage of the total cost of special facilities devoted to contract performance and chargeable to the Commission should not exceed the ratio between the period of contract deliveries and the anticipated useful life of such special facilities; (ii) the desirability of obtaining options to renew the contract for reasonable periods at prices not to include charges for special facilities already amortized; and (iii) the desirability of reserving in the Commission the right to take title to the special facilities under appropriate circumstances; and
 
-&emsp;(3) include in contracts made under this subsection provisions which limit the obligation of funds to estimated annual deliveries and services and the unamortized balance of such amounts due for special facilities as the parties shall agree is chargeable to the performance of the contract. Any appropriation available at the time of termination or thereafter made available to the Commission for operating expenses shall be available for payment of such costs which may arise from terminationas the contract may provide. The term “special facilities” as used in this subsection means any land and any depreciable buildings, structures, utilities, machinery, equipment, and fixtures necessary for the production or furnishing of such supplies, equipment, materials, or services and not available to the vendors or suppliers for the performance of the contract.
+&emsp;(3) include in contracts made under this subsection provisions which limit the obligation of funds to estimated annual deliveries and services and the unamortized balance of such amounts due for special facilities as the parties shall agree is chargeable to the performance of the contract. Any appropriation available at the time of termination or thereafter made available to the Commission for operating expenses shall be available for payment of such costs which may arise from termination as the contract may provide. The term “special facilities” as used in this subsection means any land and any depreciable buildings, structures, utilities, machinery, equipment, and fixtures necessary for the production or furnishing of such supplies, equipment, materials, or services and not available to the vendors or suppliers for the performance of the contract.
 
 #### (v) Support of United States Enrichment Corporation
 
-&emsp;provide services in support of the United States Enrichment Corporation, except that the Secretary of Energy shall annually collect payments and other charges from the Corporation sufficient to ensure recovery of the costs (excluding depreciation and imputed interest on original plant investments in the Department's gaseous diffusion plants and costs under section 2297c–2(d) <sup>3</sup> of this title) incurred by the Department of Energy after October 24, 1992, in performing such services;
+&emsp;provide services in support of the United States Enrichment Corporation, except that the Secretary of Energy shall annually collect payments and other charges from the Corporation sufficient to ensure recovery of the costs (excluding depreciation and imputed interest on original plant investments in the Department's gaseous diffusion plants and costs under section 2297c–2(d) <sup>2</sup> of this title) incurred by the Department of Energy after October 24, 1992, in performing such services;
 
 #### (w) License fees for nuclear power reactors
 
@@ -136,15 +136,13 @@ In the performance of its functions the Commission is authorized to—
 
 #### References in Text
 
-The civil service laws, referred to in subsec. (d), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
-The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (j), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works. Section 207 of the Act was repealed and reenacted by Pub. L. 107–217 as section 559 of Title 40.
-
 Section 2297c–2 of this title, referred to in subsec. (v), was repealed by Pub. L. 104–134, title III, §3116(a)(1), Apr. 26, 1996, 110 Stat. 1321–349.
 
 #### Codification
 
-In subsec. (d), “chapter 51 and subchapter III of chapter 53 of title 5” and “such provisions” substituted for“the Classification Act of 1949, as amended” and “such Act”, respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (d), “chapter 51 and subchapter III of chapter 53 of title 5” and “such provisions” substituted for “the Classification Act of 1949, as amended” and “such Act”, respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+
+In subsec. (j), “chapters 1 to 11 (except section 559) of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended, except section 207 of that Act” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (x)(2)(B), “November 8, 1978” was in the original “the date of the enactment of this section”, which has been translated as the date of the enactment of this subsection to reflect the probable intent of Congress.
 
@@ -154,61 +152,61 @@ Provisions similar to this section were contained in section 1812(a) of this tit
 
 #### Amendments
 
-2005—Subsec. (i)(4). Pub. L. 109–58, §626, added cl. (4).
+<b>2005</b>—Subsec. (i)(4). Pub. L. 109–58, §626, added cl. (4).
 
 Subsec. (w). Pub. L. 109–58, §623, substituted “to the Commission for, or is issued by the Commission, a license or certificate” for “for or is issued a license for a utilization facility designed to produce electrical or heat energy pursuant to section 2133 or 2134(b) of this title, or which operates any facility regulated or certified under section 2297f or 2297f–1 of this title” and “section 9701” for “section 483a” and struck out “, of applicants for, or holders of, such licenses or certificates” before period at end.
 
-1992—Subsec. (v). Pub. L. 102–486, §902(a)(4), amended subsec. (v) generally, substituting provisions relating to duty to provide services in support of United States Energy Enrichment Corporation for provisions relating to duty to enter into contracts for production or enrichment of special nuclear material.
+<b>1992</b>—Subsec. (v). Pub. L. 102–486, §902(a)(4), amended subsec. (v) generally, substituting provisions relating to duty to provide services in support of United States Energy Enrichment Corporation for provisions relating to duty to enter into contracts for production or enrichment of special nuclear material.
 
 Subsec. (w). Pub. L. 102–486, §902(a)(5), inserted “or which operates any facility regulated or certified under section 2297f or 2297f–1 of this title,” after “2134(b) of this title,” and “or certificates” after “holders of, such licenses”.
 
-1990—Subsec. (b). Pub. L. 101–575, which directed amendment of subsec. (b) by striking the period at the end and inserting “; in addition, the Commission shall prescribe such regulations or orders as may be necessary or desirable to promote the Nation's common defense and security with regard to control, ownership, or possession of any equipment or device, or important component part especially designed for such equipment or device, capable of separating the isotopes of uranium or enriching uranium in the isotope 235;”, was executed by striking the semicolon at end of subsec. (b) and making insertion to reflect probable intent of Congress.
+<b>1990</b>—Subsec. (b). Pub. L. 101–575, which directed amendment of subsec. (b) by striking the period at the end and inserting “; in addition, the Commission shall prescribe such regulations or orders as may be necessary or desirable to promote the Nation's common defense and security with regard to control, ownership, or possession of any equipment or device, or important component part especially designed for such equipment or device, capable of separating the isotopes of uranium or enriching uranium in the isotope 235;”, was executed by striking the semicolon at end of subsec. (b) and making insertion to reflect probable intent of Congress.
 
-1988—Subsec. (v). Pub. L. 100–449 inserted in closing provisions “For purposes of this subsection and of section 305 of Public Law 99–591 (100 Stat. 3341–209, 210), ‘foreign origin’ excludes source or special nuclear material originating in Canada.”
+<b>1988</b>—Subsec. (v). Pub. L. 100–449 inserted in closing provisions “For purposes of this subsection and of section 305 of Public Law 99–591 (100 Stat. 3341–209, 210), ‘foreign origin’ excludes source or special nuclear material originating in Canada.”
 
-1986—Subsec. (k). Pub. L. 99–661 inserted “and subcontractors (at any tier)” after “employees of its contractors”, substituted “under the jurisdiction of the United States” for “owned by the United States and”, inserted “or being transported to or from such facilities” after “contracted to the United States”, inserted after third sentence “An employee of a contractor or subcontractor authorized to carry firearms under this subsection may make such arrests only when the individual to be arrested is within, or in direct flight from, the area of such offense.”, and inserted before the semicolon at end “. The Secretary, with the approval of the Attorney General, shall issue guidelines to implement this subsection”.
+<b>1986</b>—Subsec. (k). Pub. L. 99–661 inserted “and subcontractors (at any tier)” after “employees of its contractors”, substituted “under the jurisdiction of the United States” for “owned by the United States and”, inserted “or being transported to or from such facilities” after “contracted to the United States”, inserted after third sentence “An employee of a contractor or subcontractor authorized to carry firearms under this subsection may make such arrests only when the individual to be arrested is within, or in direct flight from, the area of such offense.”, and inserted before the semicolon at end “. The Secretary, with the approval of the Attorney General, shall issue guidelines to implement this subsection”.
 
-1981—Subsec. (k). Pub. L. 97–90 inserted provision that a person authorized to carry firearms under this subsection may, while in the performance of, and in connection with, official duties, make arrests without warrant for any offense against the United States committed in that person's presence or for any felony cognizable under the laws of the United States if that person has reasonable grounds to believe that the individual to be arrested has committed or is committing such felony, that a person granted authority to make arrests by this subsection may exercise that authority only in the enforcement of (1) laws regarding the property of the United States in the custody of the Department of Energy, the Nuclear Regulatory Commission, or a contractor of the Department of Energy or Nuclear Regulatory Commission, or (2) any provision of this chapter that may subject an offender to a fine, imprisonment, or both, and that the arrest authority conferred by this subsection is in addition to any arrest authority under other laws.
+<b>1981</b>—Subsec. (k). Pub. L. 97–90 inserted provision that a person authorized to carry firearms under this subsection may, while in the performance of, and in connection with, official duties, make arrests without warrant for any offense against the United States committed in that person's presence or for any felony cognizable under the laws of the United States if that person has reasonable grounds to believe that the individual to be arrested has committed or is committing such felony, that a person granted authority to make arrests by this subsection may exercise that authority only in the enforcement of (1) laws regarding the property of the United States in the custody of the Department of Energy, the Nuclear Regulatory Commission, or a contractor of the Department of Energy or Nuclear Regulatory Commission, or (2) any provision of this chapter that may subject an offender to a fine, imprisonment, or both, and that the arrest authority conferred by this subsection is in addition to any arrest authority under other laws.
 
-1978—Subsec. (x). Pub. L. 95–604 added subsec. (x).
+<b>1978</b>—Subsec. (x). Pub. L. 95–604 added subsec. (x).
 
-1974—Subsec. (i). Pub. L. 93–377 inserted provision in cl. (2) relating to regulations or orders designating activities, involving quantities of special nuclear material important to the common defense and security, that may be conducted by persons whose character, etc., have been established so that if they are permitted to conduct such activities it would not be inimical to the common defense and security.
+<b>1974</b>—Subsec. (i). Pub. L. 93–377 inserted provision in cl. (2) relating to regulations or orders designating activities, involving quantities of special nuclear material important to the common defense and security, that may be conducted by persons whose character, etc., have been established so that if they are permitted to conduct such activities it would not be inimical to the common defense and security.
 
-1972—Subsec. (w). Pub. L. 92–314 added subsec. (w).
+<b>1972</b>—Subsec. (w). Pub. L. 92–314 added subsec. (w).
 
-1970—Subsec. (c). Pub. L. 91–452 struck out provisions that no person be excused from complying with any requirements under this paragraph because of his privilege against self-incrimination, but that the immunity provisions of the Compulsory Testimony Act of Feb. 11, 1893, apply with respect to any individual who specifically claims such privilege.
+<b>1970</b>—Subsec. (c). Pub. L. 91–452 struck out provisions that no person be excused from complying with any requirements under this paragraph because of his privilege against self-incrimination, but that the immunity provisions of the Compulsory Testimony Act of Feb. 11, 1893, apply with respect to any individual who specifically claims such privilege.
 
 Subsec. (n). Pub. L. 91–560, §7, struck out references to section 2132 of this title and the finding of practical value.
 
 Subsec. (v). Pub. L. 91–560, §8, substituted provisions for the establishment of prices on a basis of recovery of the Government's costs over a reasonable period of time for provisions for the establishment of prices on a basis which will provide reasonable compensation to the Government.
 
-1967—Subsec. (n). Pub. L. 90–190 substituted “2077(b)” for “2077(a)(3)”.
+<b>1967</b>—Subsec. (n). Pub. L. 90–190 substituted “2077(b)” for “2077(a)(3)”.
 
-1964—Subsec. (v). Pub. L. 88–489 added subsec. (v).
+<b>1964</b>—Subsec. (v). Pub. L. 88–489 added subsec. (v).
 
-1962—Subsec. (d). Pub. L. 87–793 substituted “up to a limit of the highest rate of grade 18 of the General Schedule of the Classification Act of 1949, as amended” for “up to a limit of $19,000”.
+<b>1962</b>—Subsec. (d). Pub. L. 87–793 substituted “up to a limit of the highest rate of grade 18 of the General Schedule of the Classification Act of 1949, as amended” for “up to a limit of $19,000”.
 
 Subsec. (<i>l</i>). Pub. L. 87–456 repealed subsec. (<i>l</i>) which authorized the admittance free of duty into the United States of purchases made abroad of source materials.
 
 Subsec. (n). Pub. L. 87–615 substituted “2165(f) of this title” for “2165(e) of this title”.
 
-1961—Subsecs. (s) to (v). Pub. L. 87–206 redesignated subsecs. (t) to (v) as (s) to (u), respectively.
+<b>1961</b>—Subsecs. (s) to (v). Pub. L. 87–206 redesignated subsecs. (t) to (v) as (s) to (u), respectively.
 
-1959—Subsec. (m). Pub. L. 86–300 inserted references to sections 2073(a)(4) and 2093(a)(4) of this title.
+<b>1959</b>—Subsec. (m). Pub. L. 86–300 inserted references to sections 2073(a)(4) and 2093(a)(4) of this title.
 
-1958—Subsec. (d). Pub. L. 85–681, §6, authorized the Commission to adopt compensation rates on a retroactive basis as may be authorized by the Classification Act for other Government employees.
+<b>1958</b>—Subsec. (d). Pub. L. 85–681, §6, authorized the Commission to adopt compensation rates on a retroactive basis as may be authorized by the Classification Act for other Government employees.
 
 Subsecs. (n) to (s). Pub. L. 85–507 redesignated subsecs. (<i>o</i>) to (s) as (n) to (r), respectively. Former subsec. (n), which authorized the Commission to assign employees for instruction, education, or training by public or private agencies, institutions of learning, laboratories, or industrial or commercial organizations, was repealed by Pub. L. 85–507, see section 4101 et seq. of Title 5, Government Organizations and Employees.
 
 Subsecs. (t) to (v). Pub. L. 85–681, §7, added subsecs. (t) to (v).
 
-1957—Subsec. (d). Pub. L. 85–287 inserted “up to a limit of $19,000” after “scientific and technical personnel”.
+<b>1957</b>—Subsec. (d). Pub. L. 85–287 inserted “up to a limit of $19,000” after “scientific and technical personnel”.
 
 Subsec. (e). Pub. L. 85–162, §201, inserted “(at the time of the initial grant of any privilege grant, lease, or permit, or renewal thereof, or in order to avoid inequities or undue hardship prior to the sale by the United States of property affected by such grant)” after “adjusted terms which”.
 
 Subsec. (s). Pub. L. 85–162, §204, added subsec. (s).
 
-1956—Subsec. (e). Act July 14, 1956, inserted proviso relating to negotiation of commercial leases without advertising by the Commission.
+<b>1956</b>—Subsec. (e). Act July 14, 1956, inserted proviso relating to negotiation of commercial leases without advertising by the Commission.
 
 Subsec. (r). Act Aug. 6, 1956, added subsec. (r).
 
@@ -265,6 +263,4 @@ Section 203 of Pub. L. 85–162 directed Atomic Energy Commission, Federal Housi
 <i><sup>1</sup></i><i> So in original.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
 

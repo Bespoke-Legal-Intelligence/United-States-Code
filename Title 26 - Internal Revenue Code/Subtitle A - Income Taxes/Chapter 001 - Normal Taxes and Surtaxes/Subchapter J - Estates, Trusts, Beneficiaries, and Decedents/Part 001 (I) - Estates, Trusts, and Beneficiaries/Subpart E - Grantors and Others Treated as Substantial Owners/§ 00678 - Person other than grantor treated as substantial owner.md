@@ -24,15 +24,15 @@ Subsection (a) shall not apply with respect to a power which has been renounced 
 
 &emsp;&emsp;<b>For provision under which beneficiary of trust is treated as owner of the portion of the trust which consists of stock in an S corporation, see section 1361(d).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 231; Pub. L. 94–455, title X, §1013(b), Oct. 4, 1976, 90 Stat. 1615; Pub. L. 97–448, title I, §102(i)(2), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 106–554, §1(a)(7) \[title III, §319(8)(A)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 231; Pub. L. 94–455, title X, §1013(b), Oct. 4, 1976, 90 Stat. 1615;Pub. L. 97–448, title I, §102(i)(2), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 106–554, §1(a)(7) \[title III, §319(8)(A)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646.)
 
 #### Amendments
 
-2000—Subsec. (e). Pub. L. 106–554 substituted “an S corporation” for “an electing small business corporation”.
+<b>2000</b>—Subsec. (e). Pub. L. 106–554 substituted “an S corporation” for “an electing small business corporation”.
 
-1983—Subsec. (e). Pub. L. 97–448 added subsec. (e).
+<b>1983</b>—Subsec. (e). Pub. L. 97–448 added subsec. (e).
 
-1976—Subsec. (b). Pub. L. 94–455 substituted “if the grantor of the trust or a transferor (to whom section 679 applies) is otherwise treated as the owner under the provisions of this subpart other than this section” for “if the grantor of the trust is otherwise treated as the owner under sections 671 to 677, inclusive”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 substituted “if the grantor of the trust or a transferor (to whom section 679 applies) is otherwise treated as the owner under the provisions of this subpart other than this section” for “if the grantor of the trust is otherwise treated as the owner under sections 671 to 677, inclusive”.
 
 #### Effective Date of 1983 Amendment
 

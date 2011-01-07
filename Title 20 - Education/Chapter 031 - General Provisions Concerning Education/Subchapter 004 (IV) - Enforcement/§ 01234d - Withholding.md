@@ -28,7 +28,7 @@ Upon review of a decision of the Office by the Secretary, the findings of fact b
 
 #### (f) Final agency action
 
-The decision of the Office in any hearing under this section shall become final agency action 60days after the recipient receives written notice of the decision unless the Secretary either—
+The decision of the Office in any hearing under this section shall become final agency action 60 days after the recipient receives written notice of the decision unless the Secretary either—
 
 &emsp;(1) modifies or sets aside the decision, in whole or in part, in which case the decision of the Secretary shall become final agency action when the recipient receives written notice of the Secretary's action; or
 
@@ -38,7 +38,7 @@ The decision of the Office in any hearing under this section shall become final 
 
 #### Amendments
 
-1988—Pub. L. 100–297 amended section generally, substituting provisions relating to withholding for provisions relating to judicial review. See section 1234g of this title.
+<b>1988</b>—Pub. L. 100–297 amended section generally, substituting provisions relating to withholding for provisions relating to judicial review. See section 1234g of this title.
 
 #### Effective Date of 1988 Amendment
 

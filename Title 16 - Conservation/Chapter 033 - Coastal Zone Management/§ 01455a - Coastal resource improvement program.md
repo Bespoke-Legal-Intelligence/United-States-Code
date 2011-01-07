@@ -36,7 +36,7 @@ The Secretary may make grants to any eligible coastal state to assist that state
 
 &emsp;(C) in the case of grants made for objectives described in subsection (b)(2) of this section—
 
-&emsp;&emsp;(i) the rehabilitation or acquisition of piers to provide increased public use, including compatible commercial activity.
+&emsp;&emsp;(i) the rehabilitation or acquisition of piers to provide increased public use, including compatible commercial activity,
 
 &emsp;&emsp;(ii) the establishment of shoreline stabilization measures including the installation or rehabilitation of bulkheads for the purpose of public safety or increasing public access and use, and
 
@@ -62,15 +62,15 @@ With the approval of the Secretary, an eligible coastal state may allocate to a 
 
 #### (f) Other technical and financial assistance
 
-In addition to providing grants under this section, the Secretary shall assist eligible coastal states and their local governments in identifying and obtaining other sources of availableFederal technical and financial assistance regarding the objectives of this section.
+In addition to providing grants under this section, the Secretary shall assist eligible coastal states and their local governments in identifying and obtaining other sources of available Federal technical and financial assistance regarding the objectives of this section.
 
 (Pub. L. 89–454, title II, §306A, as added Pub. L. 96–464, §6, Oct. 17, 1980, 94 Stat. 2062; amended Pub. L. 99–272, title VI, §6043(b)(2), Apr. 7, 1986, 100 Stat. 124; Pub. L. 101–508, title VI, §§6207, 6216(a), Nov. 5, 1990, 104 Stat. 1388–307, 1388–314; Pub. L. 102–587, title II, §2205(b)(9)–(12), Nov. 4, 1992, 106 Stat. 5051; Pub. L. 104–150, §7(1), June 3, 1996, 110 Stat. 1381.)
 
 #### Amendments
 
-1996—Subsec. (b)(4). Pub. L. 104–150 added par. (4).
+<b>1996</b>—Subsec. (b)(4). Pub. L. 104–150 added par. (4).
 
-1992—Subsec. (a)(1)(B). Pub. L. 102–587, §2205(b)(10), substituted “through (K)” for “through (I)”.
+<b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–587, §2205(b)(10), substituted “through (K)” for “through (I)”.
 
 Subsec. (b)(1). Pub. L. 102–587, §2205(b)(9), made technical amendment to directory language of Pub. L. 101–508, §6216(a). See 1990 Amendment note below.
 
@@ -80,9 +80,9 @@ Subsec. (b)(3). Pub. L. 102–587, §2205(b)(11)(B), substituted “access to”
 
 Subsec. (c)(2)(C). Pub. L. 102–587, §2205(b)(12), in closing provisions, substituted “shall not be” for “shall not by”.
 
-1990—Subsec. (b)(1). Pub. L. 101–508, §6216(a), as amended by Pub. L. 102–587, §2205(b)(9), substituted “1455(d)(9)” for “1455(c)(9)”.
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–508, §6216(a), as amended by Pub. L. 102–587, §2205(b)(9), substituted “1455(d)(9)” for “1455(c)(9)”.
 
 Pub. L. 101–508, §6207, inserted before period at end “, or for the purpose of restoring and enhancing shellfish production by the purchase and distribution of clutch material on publicly owned reef tracts”.
 
-1986—Subsec. (d)(1). Pub. L. 99–272 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “No grant made under this section may exceed an amount equal to 80 per centum of the cost of carrying out the purpose or project for which it was awarded.”
+<b>1986</b>—Subsec. (d)(1). Pub. L. 99–272 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “No grant made under this section may exceed an amount equal to 80 per centum of the cost of carrying out the purpose or project for which it was awarded.”
 

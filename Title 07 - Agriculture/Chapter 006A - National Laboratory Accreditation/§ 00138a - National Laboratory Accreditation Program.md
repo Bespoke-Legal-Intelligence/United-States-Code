@@ -6,7 +6,7 @@ The Secretary shall administer a National Laboratory Accreditation Program under
 
 #### (b) Standards
 
-The Secretary of Health and Human Services, after consultation with the Secretary and theAdministrator of the Environmental Protection Agency, shall establish, through regulations, standards for the National Laboratory Accreditation program <sup>1</sup> that shall include—
+The Secretary of Health and Human Services, after consultation with the Secretary and the Administrator of the Environmental Protection Agency, shall establish, through regulations, standards for the National Laboratory Accreditation program <sup>1</sup> that shall include—
 
 &emsp;(1) standards applicable to laboratories;
 

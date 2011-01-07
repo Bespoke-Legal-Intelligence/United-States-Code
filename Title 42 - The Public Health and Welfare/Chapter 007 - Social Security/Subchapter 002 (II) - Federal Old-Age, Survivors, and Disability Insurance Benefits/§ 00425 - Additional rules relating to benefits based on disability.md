@@ -12,15 +12,15 @@ Notwithstanding any other provision of this subchapter, payment to an individual
 
 &emsp;(2) the Commissioner of Social Security determines that the completion of such program, or its continuation for a specified period of time, will increase the likelihood that such individual may (following his participation in such program) be permanently removed from the disability benefit rolls.
 
-(Aug. 14, 1935, ch. 531, title II, §225, as added Aug. 1, 1956, ch. 836, title I, §103(a), 70 Stat. 817; amended Pub. L. 85–840, title II, §205(<i>o</i>), Aug. 28, 1958, 72 Stat. 1025; Pub. L. 89–97, title III, §306(c)(15), July 30, 1965, 79 Stat. 373; Pub. L. 90–248, title I, §§104(d)(5), 158(c)(9), Jan. 2, 1968, 81 Stat. 833, 869; Pub. L. 92–603, title I, §107(b)(5), Oct. 30, 1972, 86 Stat. 1343; Pub. L. 96–265, title III, §301(a), June 9, 1980, 94 Stat. 449; Pub. L. 98–21, title III, §309(p), Apr. 20, 1983, 97 Stat. 117; Pub. L. 101–508, title V, §5113(a), Nov. 5, 1990, 104 Stat. 1388–273; Pub. L. 103–296, title I, §107(a)(4), title II, §201(a)(3)(A), Aug. 15, 1994, 108 Stat. 1478, 1494; Pub. L. 104–121, title I, §105(a)(4), Mar. 29, 1996, 110 Stat. 853; Pub. L. 106–170, title I, §101(b)(1)(D), Dec. 17, 1999, 113 Stat. 1873.)
+(Aug. 14, 1935, ch. 531, title II, §225, as added Aug. 1, 1956, ch. 836, title I, §103(a), 70 Stat. 817; amended Pub. L. 85–840, title II, §205(<i>o</i>), Aug. 28, 1958, 72 Stat. 1025; Pub. L. 89–97, title III, §306(c)(15), July 30, 1965, 79 Stat. 373; Pub. L. 90–248, title I, §§104(d)(5), 158(c)(9), Jan. 2, 1968, 81Stat. 833, 869; Pub. L. 92–603, title I, §107(b)(5), Oct. 30, 1972, 86 Stat. 1343; Pub. L. 96–265, title III, §301(a), June 9, 1980, 94 Stat. 449; Pub. L. 98–21, title III, §309(p), Apr. 20, 1983, 97 Stat. 117; Pub. L. 101–508, title V, §5113(a), Nov. 5, 1990, 104 Stat. 1388–273; Pub. L. 103–296, title I, §107(a)(4), title II, §201(a)(3)(A), Aug. 15, 1994, 108 Stat. 1478, 1494; Pub. L. 104–121, title I, §105(a)(4), Mar. 29, 1996, 110 Stat. 853; Pub. L. 106–170, title I, §101(b)(1)(D), Dec. 17, 1999, 113 Stat. 1873.)
 
 #### Amendments
 
-1999—Subsec. (b)(1). Pub. L. 106–170 substituted “a program consisting of the Ticket to Work and Self-Sufficiency Program under section 1320b–19 of this title or another program of vocational rehabilitation services, employment services, or other support services” for “a program of vocational rehabilitation services”.
+<b>1999</b>—Subsec. (b)(1). Pub. L. 106–170 substituted “a program consisting of the Ticket to Work and Self-Sufficiency Program under section 1320b–19 of this title or another program of vocational rehabilitation services, employment services, or other support services” for “a program of vocational rehabilitation services”.
 
-1996—Subsec. (c). Pub. L. 104–121 struck out subsec. (c) which related to nonpayment or termination of benefits where entitlement involved alcoholism or drug addiction.
+<b>1996</b>—Subsec. (c). Pub. L. 104–121 struck out subsec. (c) which related to nonpayment or termination of benefits where entitlement involved alcoholism or drug addiction.
 
-1994—Pub. L. 103–296, §201(a)(3)(A)(i), amended section catchline.
+<b>1994</b>—Pub. L. 103–296, §201(a)(3)(A)(i), amended section catchline.
 
 Subsec. (a). Pub. L. 103–296, §201(a)(3)(A)(i), inserted heading.
 
@@ -34,21 +34,21 @@ Subsec. (c). Pub. L. 103–296, §201(a)(3)(A)(iii), added subsec. (c).
 
 Pub. L. 103–296, §107(a)(4), in subsec. (c) as added by Pub. L. 103–296, §201(a)(3)(A)(iii), substituted “Commissioner of Social Security” for “Secretary” wherever appearing and “Commissioner's” for “Secretary's” wherever appearing.
 
-1990—Subsec. (b)(1). Pub. L. 101–508, §5113(a)(1), added par. (1) and struck out former par. (1) which read as follows: “such individual is participating in an approvedvocational rehabilitation program under a State plan approved under title I of the Rehabilitation Act of 1973, and”.
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–508, §5113(a)(1), added par. (1) and struck out former par. (1) which read as follows: “such individual is participating in an approved vocational rehabilitation program under a State plan approved under title I of the Rehabilitation Act of 1973, and”.
 
 Subsec. (b)(2). Pub. L. 101–508, §5113(a)(2), substituted “Secretary” for “Commissioner of Social Security”.
 
-1983—Subsec. (a). Pub. L. 98–21 inserted “or surviving divorced husband” after “widower”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–21 inserted “or surviving divorced husband” after “widower”.
 
-1980—Pub. L. 96–265 designated existing provisions as subsec. (a), made conforming amendments in subsec. (a) as so designated, and added subsec. (b).
+<b>1980</b>—Pub. L. 96–265 designated existing provisions as subsec. (a), made conforming amendments in subsec. (a) as so designated, and added subsec. (b).
 
-1972—Pub. L. 92–603 substituted “age 60” for “age 62”.
+<b>1972</b>—Pub. L. 92–603 substituted “age 60” for “age 62”.
 
-1968—Pub. L. 90–248 in first sentence inserted “or that a widow or surviving divorced wife who has not attained age 60 and is entitled to benefits under section 402(e) of this title, or that a widower who has not attained age 62 and is entitled to benefits under section 402(f) of this title,” after “section 402(d) of this title,” and substituted “402(d), 402(e), 402(f), or 423” for “423 or 402(d)”, and substituted in third sentence reference to “423(d)” for “423(c)(2)”.
+<b>1968</b>—Pub. L. 90–248 in first sentence inserted “or that a widow or surviving divorced wife who has not attained age 60 and is entitled to benefits under section 402(e) of this title, or that a widower who has not attained age 62 and is entitled to benefits under section 402(f) of this title,” after “section 402(d) of this title,” and substituted “402(d), 402(e), 402(f), or 423” for “423 or 402(d)”, and substituted in third sentence reference to “423(d)” for “423(c)(2)”.
 
-1965—Pub. L. 89–97 inserted “The first sentence of this section shall not apply to any child entitled to benefits under section 402(d) of this title, if he has attained the age of 18 but has not attained the age of 22, for any month during which he is a full-time student (as defined and determined under section 402(d) of this title).”
+<b>1965</b>—Pub. L. 89–97 inserted “The first sentence of this section shall not apply to any child entitled to benefits under section 402(d) of this title, if he has attained the age of 18 but has not attained the age of 22, for any month during which he is a full-time student (as defined and determined under section 402(d) of this title).”
 
-1958—Pub. L. 85–840 provided that whenever the benefits of an individual entitled to a disability insurance benefit are suspended for any month, the benefits of any individual entitled thereto under subsection (b), (c), or (d) of section 402 of this title, on the basis of the wages and self-employment income of such individual, shall be suspended for such month.
+<b>1958</b>—Pub. L. 85–840 provided that whenever the benefits of an individual entitled to a disability insurance benefit are suspended for any month, the benefits of any individual entitled thereto under subsection (b), (c), or (d) of section 402 of this title, on the basis of the wages and self-employment income of such individual, shall be suspended for such month.
 
 #### Effective Date of 1999 Amendment
 
@@ -94,7 +94,7 @@ Amendment by Pub. L. 98–21 applicable only with respect to monthly payments pa
 
 #### Effective Date of 1980 Amendment
 
-Section 301(c) of Pub. L. 96–265 provided that: “The amendments made by this section \[amending this section and section 1383 of this title\] shall become effective on the first day of the sixth month which begins after the date of the enactment of this Act \[June 9, 1980\], and shall apply with respect to individuals whose disability has not been determined to have ceased prior to such first day.”
+Section 301(c) of Pub. L. 96–265 provided that: “The amendments made by this section \[amending this section and section 1383 of this title\] shall become effective on the first day of the sixth month which begins after the date of the enactment of this Act \[June 9,1980\], and shall apply with respect to individuals whose disability has not been determined to have ceased prior to such first day.”
 
 #### Effective Date of 1972 Amendment
 

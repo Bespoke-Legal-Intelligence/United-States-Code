@@ -20,7 +20,7 @@ Purposes.—The purposes of the Center established under subsection (a) shall be
 
 &emsp;&emsp;(D) domestic nongovernmental organizations.
 
-&emsp;(3) To conduct research; collect, analyze, and distribute lessons learned; and compile best practices in matters relating to complex operations.
+&emsp;(3) To conduct research; collect, analyze, and distribute lessons learned; and compile bestpractices in matters relating to complex operations.
 
 &emsp;(4) To identify gaps in the education and training of Department of Defense personnel, and other relevant United States Government personnel, relating to complex operations, and to facilitate efforts to fill such gaps.
 

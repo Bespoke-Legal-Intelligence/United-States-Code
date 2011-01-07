@@ -30,17 +30,17 @@ If less than the correct amount of tax imposed by section 3101, 3111, 3201, 3221
 
 #### Amendments
 
-1986—Subsec. (a)(5). Pub. L. 99–272 added par. (5).
+<b>1986</b>—Subsec. (a)(5). Pub. L. 99–272 added par. (5).
 
-1976—Subsec. (a)(1). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (a)(4). Pub. L. 94–455, §1906(a)(13), substituted “Mayor of the District of Columbia and each agent designated by him” for “Commissioners of the District of Columbia and each agent designated by them” after “owned thereby, the”.
 
 Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1965—Subsec. (a)(4). Pub. L. 89–97 added par. (4).
+<b>1965</b>—Subsec. (a)(4). Pub. L. 89–97 added par. (4).
 
-1960—Subsec. (a)(3). Pub. L. 86–778 added par. (3).
+<b>1960</b>—Subsec. (a)(3). Pub. L. 86–778 added par. (3).
 
 #### Effective Date of 1986 Amendment
 

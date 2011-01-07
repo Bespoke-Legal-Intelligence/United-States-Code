@@ -1,7 +1,5 @@
 ### SUBCHAPTER LIX–CC—ADAMS NATIONAL HISTORICAL PARK
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
-
 
 ---
 

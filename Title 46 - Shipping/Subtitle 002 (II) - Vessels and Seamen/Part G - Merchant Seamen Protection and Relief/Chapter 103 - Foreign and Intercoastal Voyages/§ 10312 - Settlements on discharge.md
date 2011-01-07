@@ -22,5 +22,5 @@ Section 10312 outlines the procedures for settlements upon discharge and for set
 
 #### Amendments
 
-1993—Pub. L. 103–206 amended heading and text of section generally, substituting text consisting of sentence relating to signing agreements on discharge and settlement for former subsecs. (a) to (f) relating to such agreements, proceedings before shipping commissioners to settle disputes, certified copies of agreements, evidence of release of claims, and statements of wages paid.
+<b>1993</b>—Pub. L. 103–206 amended heading and text of section generally, substituting text consisting of sentence relating to signing agreements on discharge and settlement for former subsecs. (a) to (f) relating to such agreements, proceedings before shipping commissioners to settle disputes, certified copies of agreements, evidence of release of claims, and statements of wages paid.
 

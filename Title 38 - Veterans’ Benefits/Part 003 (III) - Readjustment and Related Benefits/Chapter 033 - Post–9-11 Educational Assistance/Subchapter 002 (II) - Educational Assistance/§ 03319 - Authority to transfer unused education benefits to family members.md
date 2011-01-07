@@ -2,15 +2,19 @@
 
 (a)
 
-In General.—Subject to the provisions of this section, the Secretary of Defense may authorize the Secretary concerned, to promote recruitment and retention of members of the Armed Forces, to permit an individual described in subsection (b) who is entitled to educational assistance under this chapter to elect to transfer to one or more of the dependents specified in subsection (c) a portion of such individual's entitlement to such assistance, subject to the limitation under subsection (d).
+In General.—
+
+&emsp;(1) Subject to the provisions of this section, the Secretary concerned may permit an individual described in subsection (b) who is entitled to educational assistance under this chapter to elect to transfer to one or more of the dependents specified in subsection (c) a portion of such individual's entitlement to such assistance, subject to the limitation under subsection (d).
+
+&emsp;(2) The purpose of the authority in paragraph (1) is to promote recruitment and retention in the uniformed services. The Secretary concerned may exercise the authority for that purpose when authorized by the Secretary of Defense in the national security interests of the United States.
 
 (b)
 
-Eligible Individuals.—An individual referred to in subsection (a) is any member of the Armed Forces who, at the time of the approval of the individual's request to transfer entitlement to educational assistance under this section, has completed at least—
+Eligible Individuals.—An individual referred to in subsection (a) is any member of the uniformed services who, at the time of the approval of the individual's request to transfer entitlement to educational assistance under this section, has completed at least—
 
-&emsp;(1) six years of service in the armed forces and enters into an agreement to serve at least four more years as a member of the Armed Forces; or
+&emsp;(1) six years of service in the armed forces and enters into an agreement to serve at least four more years as a member of the uniformed services; or
 
-&emsp;(2) the years of service as determined in regulations pursuant to section (k).<sup>1</sup>
+&emsp;(2) the years of service as determined in regulations pursuant to subsection (j).
 
 (c)
 
@@ -90,7 +94,7 @@ Additional Administrative Matters.—
 
 &emsp;(1)
 
-Use.—The use of any entitlement to educational assistance transferred under this section shall be charged against the entitlementof the individual making the transfer at the rate of one month for each month of transferred entitlement that is used.
+Use.—The use of any entitlement to educational assistance transferred under this section shall be charged against the entitlement of the individual making the transfer at the rate of one month for each month of transferred entitlement that is used.
 
 &emsp;(2)
 
@@ -110,11 +114,49 @@ Rate of payment.—The monthly rate of educational assistance payable to a depen
 
 &emsp;(4)
 
-Death of transferor.—The death of an individual transferring an entitlement under this section shall not affect the use of the entitlement by the dependent to whom the entitlement is transferred.
+Death of transferor.—The death of an individual transferring an entitlement underthis section shall not affect the use of the entitlement by the dependent to whom the entitlement is transferred.
 
 &emsp;(5)
 
-Limitation on age of use by child transferees.—A child to whom entitlement is transferred under this section may use the benefit without regard to the 15-year delimiting date, but may not use any entitlement so transferred after attaining the age of 26 years.
+Limitation on age of use by child transferees.—
+
+&emsp;&emsp;(A)
+
+In general.—A child to whom entitlement is transferred under this section may use the benefits transferred without regard to the 15-year delimiting date specified in section 3321, but may not, except as provided in subparagraph (B), use any benefits so transferred after attaining the age of 26 years.
+
+&emsp;&emsp;(B)
+
+Primary caregivers of seriously injured members of the armed forces and veterans.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Subject to clause (ii), in the case of a child who, before attaining the age of 26 years, is prevented from pursuing a chosen program of education by reason of acting as the primary provider of personal care services for a veteran or member of the Armed Forces under section 1720G(a), the child may use the benefits beginning on the date specified in clause (iii) for a period whose length is specified in clause (iv).
+
+&emsp;&emsp;&emsp;(ii)
+
+Inapplicability for revocation.—Clause (i) shall not apply with respect to the period of an individual as a primary provider of personal care services if the period concludes with the revocation of the individual's designation as such a primary provider under section 1720G(a)(7)(D).
+
+&emsp;&emsp;&emsp;(iii)
+
+Date for commencement of use.—The date specified in this clause for the beginning of the use of benefits by a child under clause (i) is the later of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the date on which the child ceases acting as the primary provider of personal care services for the veteran or member concerned as described in clause (i);
+
+&emsp;&emsp;&emsp;&emsp;(II) the date on which it is reasonably feasible, as determined under regulations prescribed by the Secretary, for the child to initiate or resume the use of benefits; or
+
+&emsp;&emsp;&emsp;&emsp;(III) the date on which the child attains the age of 26 years.
+
+&emsp;&emsp;&emsp;(iv)
+
+Length of use.—The length of the period specified in this clause for the use of benefits by a child under clause (i) is the length equal to the length of the period that—
+
+&emsp;&emsp;&emsp;&emsp;(I) begins on the date on which the child begins acting as the primary provider of personal care services for the veteran or member concerned as described in clause (i); and
+
+&emsp;&emsp;&emsp;&emsp;(II) ends on the later of—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the date on which the child ceases acting as the primary provider of personal care services for the veteran or member as described in clause (i); or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the date on which it is reasonably feasible, as so determined, for the child to initiate or resume the use of benefits.
 
 &emsp;(6)
 
@@ -160,17 +202,33 @@ Regulations.—(1) The Secretary of Defense, in coordination with the Secretary 
 
 &emsp;(C) the manner and effect of an election to modify or revoke a transfer of entitlement under subsection (f)(2).
 
-(k)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2369; amended Pub. L. 111–275, title X, §1001(g)(7), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§110(a), (b), 112(b), title II, §201(b), Jan. 4, 2011, 124 Stat. 4120, 4122, 4123.)
 
-Secretary Concerned Defined.—Notwithstanding section 101(25), in this section, the term “Secretary concerned” means—
+#### Amendments
 
-&emsp;(1) the Secretary of the Army with respect to matters concerning the Army;
+<b>2011</b>—Subsec. (a). Pub. L. 111–377, §110(b), designated existing provisions as par. (1), substituted “Subject to the provisions of this section, the Secretary concerned may permit” for “Subject to the provisions of this section, the Secretary of Defense may authorize the Secretary concerned, to promote recruitment and retention of members of the Armed Forces, to permit”, and added par. (2).
 
-&emsp;(2) the Secretary of the Navy with respect to matters concerning the Navy or the Marine Corps;
+Subsec. (b). Pub. L. 111–377, §110(a)(1), substituted “uniformed services” for “Armed Forces” in introductory provisions and par. (1).
 
-&emsp;(3) the Secretary of the Air Force with respect to matters concerning the Air Force; and
+Subsec. (b)(2). Pub. L. 111–377, §112(b), which directed substitution of “to subsection (j)” for “to section (k)”, could not be executed because of prior amendment by Pub. L. 111–275. See 2010 Amendment note below.
 
-&emsp;(4) the Secretary of Defense with respect to matters concerning the Coast Guard, or the Secretary of Homeland Security when it is not operating as a service in the Navy.
+Subsec. (h)(5). Pub. L. 111–377, §201(b), amended par. (5) generally. Prior to amendment, text read as follows: “A child to whom entitlement is transferred under this section may use the benefit without regard to the 15-year delimiting date, but may not use any entitlement so transferred after attaining the age of 26 years.”
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2369.)
+Subsec. (k). Pub. L. 111–377, §110(a)(2), struck out subsec. (k). Text read as follows: “Notwithstanding section 101(25), in this section, the term ‘Secretary concerned’ means—
+
+&emsp;“(1) the Secretary of the Army with respect to matters concerning the Army;
+
+&emsp;“(2) the Secretary of the Navy with respect to matters concerning the Navy or the Marine Corps;
+
+&emsp;“(3) the Secretary of the Air Force with respect to matters concerning the Air Force; and
+
+&emsp;“(4) the Secretary of Defense with respect to matters concerning the Coast Guard, or the Secretary of Homeland Security when it is not operating as a service in the Navy.”
+
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–275 substituted “subsection (j)” for “section (k)”.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–377, title I, §110(c), Jan. 4, 2011, 124 Stat. 4120, provided that: “The amendments made by this section \[amending this section\] shall take effect on August 1, 2011.”
+
+Amendment by section 201(b) of Pub. L. 111–377 effective Aug. 1, 2011, and applicable with respect to preventions and suspension of pursuit of programs of education that commence on or after that date, see section 201(d) of Pub. L. 111–377, set out as a note under section 3031 of this title.
 

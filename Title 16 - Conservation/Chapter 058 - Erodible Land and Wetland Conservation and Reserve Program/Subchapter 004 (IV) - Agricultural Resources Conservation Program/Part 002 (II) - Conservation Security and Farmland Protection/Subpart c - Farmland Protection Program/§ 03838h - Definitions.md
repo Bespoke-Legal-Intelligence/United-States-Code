@@ -68,7 +68,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Par. (1). Pub. L. 110–246, §2401(a)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The term ‘eligible entity’ means—
+<b>2008</b>—Par. (1). Pub. L. 110–246, §2401(a)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The term ‘eligible entity’ means—
 
 &emsp;“(A) any agency of any State or local government or an Indian tribe (including a farmland protection board or land resource council established under State law); or
 

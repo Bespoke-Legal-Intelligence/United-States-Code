@@ -1,9 +1,5 @@
 Part A—National Institutes of Health
 
-<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
-
-<i><sup>2</sup></i><i> So in original. The word “section” probably should not appear.</i>
-
 
 ---
 
@@ -14,6 +10,7 @@ Part A—National Institutes of Health
 - [&sect; 00282a - Authorization of appropriations](%C2%A7%2000282a%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00282b - Electronic coding of grants and activities](%C2%A7%2000282b%20-%20Electronic%20coding%20of%20grants%20and%20activities.md)
 - [&sect; 00282c - Public access to funded investigators&#8217; final manuscripts](%C2%A7%2000282c%20-%20Public%20access%20to%20funded%20investigators%E2%80%99%20final%20manuscripts.md)
+- [&sect; 00282d - Cures Acceleration Network](%C2%A7%2000282d%20-%20Cures%20Acceleration%20Network.md)
 - [&sect; 00283 - Biennial reports of Director of NIH](%C2%A7%2000283%20-%20Biennial%20reports%20of%20Director%20of%20NIH.md)
 - [&sect; 00283a - Annual reporting to increase interagency collaboration and coordination](%C2%A7%2000283a%20-%20Annual%20reporting%20to%20increase%20interagency%20collaboration%20and%20coordination.md)
 - [&sect; 00283a&#8211;1 - Annual reporting to prevent fraud and abuse](%C2%A7%2000283a%E2%80%931%20-%20Annual%20reporting%20to%20prevent%20fraud%20and%20abuse.md)

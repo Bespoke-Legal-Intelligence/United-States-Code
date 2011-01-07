@@ -8,9 +8,9 @@ To assure adequate notification and timely delivery of student aid funds under t
 
 &emsp;&emsp;(A) by February 1: first meeting of the technical committee on forms design of the Department;
 
-&emsp;&emsp;(B) by March 1: proposed modifications and updates pursuant to section 1087rr of this title published in the Federal Register;
+&emsp;&emsp;(B) by March 1: proposed modifications, updates, and notices pursuant to sections 1087rr and 1090(a)(5) of this title published in the Federal Register;
 
-&emsp;&emsp;(C) by June 1: final modifications and updates pursuant to section 1087rr of this title published in the Federal Register;
+&emsp;&emsp;(C) by June 1: final modifications, updates, and notices pursuant to sections 1087rr and 1090(a)(5) of this title published in the Federal Register;
 
 &emsp;&emsp;(D) by August 15: application for Federal student assistance and multiple data entry data elements and instructions approved;
 
@@ -64,7 +64,7 @@ The Secretary shall notify the authorizing committees when a deadline included i
 
 #### (e) Compliance calendar
 
-Prior to the beginning of each award year, the Secretary shall provide to institutions of higher education a list of all the reports and disclosures required under this chapter. The list shall include—
+Prior to the beginning of each award year, the Secretary shall provide to institutions of higher education a list of all the reports and disclosures required under this chapter and part C of subchapter I of chapter 34 of title 42. The list shall include—
 
 &emsp;(1) the date each report or disclosure is required to be completed and to be submitted, made available, or disseminated;
 
@@ -80,18 +80,6 @@ Prior to the beginning of each award year, the Secretary shall provide to instit
 
 (Pub. L. 89–329, title IV, §482, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1477; amended Pub. L. 100–50, §15(2), June 3, 1987, 101 Stat. 355; Pub. L. 102–325, title IV, §482, July 23, 1992, 106 Stat. 612; Pub. L. 103–208, §2(h)(7), Dec. 20, 1993, 107 Stat. 2476; Pub. L. 104–66, title I, §1042(b), Dec. 21, 1995, 109 Stat. 715; Pub. L. 105–244, title IV, §481, Oct. 7, 1998, 112 Stat. 1732; Pub. L. 110–315, title I, §103(b)(9), title IV, §482(a), Aug. 14, 2008, 122 Stat. 3089, 3271; Pub. L. 111–39, title IV, §407(b)(2), July 1, 2009, 123 Stat. 1950.)
 
-#### Amendment of Subsection (a)(1)(B), (C)
-
-<i>Pub. L. 110–315, title IV, §482(a)(1), (b), Aug. 14, 2008, 122 Stat. 3271, 3272, provided that, effective July 1, 2010, subsection (a)(1) is amended by striking subparagraphs (B) and (C) and inserting the following:</i>
-
-&emsp;&emsp;<i>“(B) by March 1: proposed modifications, updates, and notices pursuant to sections 1087rr and 1090(a)(5) of this title published in the Federal Register;</i>
-
-&emsp;&emsp;<i>“(C) by June 1: final modifications, updates, and notices pursuant to sections 1087rr and 1090(a)(5) of this title published in the Federal Register;”.</i>
-
-#### References in Text
-
-This chapter, referred to in subsec. (e), was in the original “this Act”, meaning Pub. L. 89–329, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
-
 #### Prior Provisions
 
 A prior section 1089, Pub. L. 89–329, title IV, §482, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1445; amended Pub. L. 97–35, title V, §533(a)(1), (2), (b), Aug. 13, 1981, 95 Stat. 453; Pub. L. 99–272, title XVI, §16031, Apr. 7, 1986, 100 Stat. 354, related to analysis of student's need for financial assistance, prior to the general revision of this part by Pub. L. 99–498.
@@ -100,27 +88,33 @@ Another prior section 1089, Pub. L. 89–329, title IV, §499, formerly §469, a
 
 #### Amendments
 
-2009—Subsec. (b). Pub. L. 111–39 substituted “section 1070b–3(d) of this title, section 2752(d) of title 42, or section 1087bb(i) of this title” for “section 1070b–3(e) of this title, section 2752(e) of title 42, or section 1087bb(j) of this title”.
+<b>2009</b>—Subsec. (b). Pub. L. 111–39 substituted “section 1070b–3(d) of this title, section 2752(d) of title 42, or section 1087bb(i) of this title” for “section 1070b–3(e) of this title, section 2752(e) of title 42, or section 1087bb(j) of this title”.
 
-2008—Subsec. (d). Pub. L. 110–315, §103(b)(9), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives”.
+<b>2008</b>—Subsec. (a)(1)(B), (C). Pub. L. 110–315, §482(a)(1), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
+
+“(B) by March 1: proposed modifications and updates pursuant to section 1087rr of this title published in the Federal Register;
+
+“(C) by June 1: final modifications and updates pursuant to section 1087rr of this title published in the Federal Register;”.
+
+Subsec. (d). Pub. L. 110–315, §103(b)(9), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives”.
 
 Subsec. (e). Pub. L. 110–315, §482(a)(2), added subsec. (e).
 
-1998—Subsec. (a)(3), (4). Pub. L. 105–244, §481(a), added pars. (3) and (4).
+<b>1998</b>—Subsec. (a)(3), (4). Pub. L. 105–244, §481(a), added pars. (3) and (4).
 
 Subsec. (c). Pub. L. 105–244, §481(b), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “Any regulatory changes initiated by the Secretary affecting the programs pursuant to this subchapter and part C of subchapter I of chapter 34 of title 42 that have not been published in final form by December 1 prior to the start of the award year shall not become effective until the beginning of the second award year after such December 1 date. For award year 1994–95, this subsection shall not require a delay in the effectiveness of regulatory changes affecting this part and parts B and G of this subchapter that are published in final form by May 1, 1994.”
 
-1995—Subsec. (d). Pub. L. 104–66, in first sentence substituted “a deadline included in the calendar described in subsection (a) of this section is not met” for “the items specified in the calendar have been completed and provide all relevant forms, rules, and instructions with such notice” and after first sentence struck out “When a deadline included in the calendar is not met, the Secretary, within 7 days, shall submit to the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives a written report, including proper documentation, as to why the deadline was not adhered to and a detailed plan for ensuring that subsequent dates are met.”
+<b>1995</b>—Subsec. (d). Pub. L. 104–66, in first sentence substituted “a deadline included in the calendar described in subsection (a) of this section is not met” for “the items specified in the calendar have been completed and provide all relevant forms, rules, and instructions with such notice” and after first sentence struck out “When a deadline included in the calendar is not met, the Secretary, within 7 days, shall submit to the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives a written report, including proper documentation, as to why the deadline was not adhered to and a detailed plan for ensuring that subsequent dates are met.”
 
-1993—Subsec. (c). Pub. L. 103–208 inserted at end “For award year 1994–95, this subsection shall not require a delay in the effectiveness of regulatory changes affecting this part and parts B and G of this subchapter that are published in final form by May 1, 1994.”
+<b>1993</b>—Subsec. (c). Pub. L. 103–208 inserted at end “For award year 1994–95, this subsection shall not require a delay in the effectiveness of regulatory changes affecting this part and parts B and G of this subchapter that are published in final form by May 1, 1994.”
 
-1992—Subsec. (a)(1)(B), (C). Pub. L. 102–325, §482(b)(1), substituted “section 1087rr” for “sections 1070a–5 and 1087rr”.
+<b>1992</b>—Subsec. (a)(1)(B), (C). Pub. L. 102–325, §482(b)(1), substituted “section 1087rr” for “sections 1070a–5 and 1087rr”.
 
 Subsec. (b). Pub. L. 102–325, §482(b)(2), substituted “subpart 3” for “subpart 2”.
 
 Subsec. (c). Pub. L. 102–325, §482(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Any additional regulatory changes initiated by the Secretary affecting the general administration of the programs pursuant to this subchapter and part C of subchapter I of chapter 34 of title 42 that have not been published in final form by December 1 prior to the start of the award year shall not become effective until the beginning of the second award year after the December 1 date.”
 
-1987—Subsec. (b). Pub. L. 100–50 inserted reference to section 1087bb(j) of this title and part D of this subchapter.
+<b>1987</b>—Subsec. (b). Pub. L. 100–50 inserted reference to section 1087bb(j) of this title and part D of this subchapter.
 
 #### Effective Date of 2009 Amendment
 
@@ -136,7 +130,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -158,5 +152,5 @@ Pub. L. 97–301, §4, Oct. 13, 1982, 96 Stat. 1400, as amended by Pub. L. 98–
 
 #### Determination of Independent Student Status for Academic Years 1982–1983 Through 1987–1988
 
-Pub. L. 97–301, §6, Oct. 13, 1982, 96 Stat. 1400, as amended by Pub. L. 98–79, §4(a), Aug. 15, 1983, 97 Stat. 481; Pub. L. 98–516, title VII, §707(3), Oct. 19, 1984, 98 Stat. 2407; Pub. L. 99–498, title IV, §408(a)(1), Oct. 17, 1986, 100 Stat. 1495, which provided that notwithstanding any rule or regulation, the criteria for the determination of independent student status, prescribed under subsec. (c)(2) of this section, in effect for academic year 1982–1983, was to be the criteria for such determinations for each of the academic years 1983–1984, 1984–1985, 1985–1986, 1986–1987, and 1987–1988, was repealed by Pub. L. 99–498, title IV, §408(b), Oct. 17, 1986, 100 Stat. 1495, eff. with respect to any academic year beginning on or after July 1, 1988.
+Pub. L. 97–301, §6, Oct. 13, 1982, 96 Stat. 1400, as amended by Pub. L. 98–79, §4(a), Aug. 15, 1983, 97 Stat. 481; Pub. L. 98–516, title VII, §707(3), Oct. 19, 1984, 98 Stat. 2407; Pub. L. 99–498, title IV, §408(a)(1), Oct. 17, 1986, 100 Stat. 1495, which provided that notwithstanding any rule or regulation, the criteria for the determination of independent student status, prescribed under subsec. (c)(2) of this section, in effect for academic year 1982–1983, was to be the criteria for such determinations for each of the academic years 1983–1984, 1984–1985, 1985–1986, 1986–1987, and 1987–1988, was repealedby Pub. L. 99–498, title IV, §408(b), Oct. 17, 1986, 100 Stat. 1495, eff. with respect to any academic year beginning on or after July 1, 1988.
 

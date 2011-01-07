@@ -4,7 +4,7 @@
 
 It shall be unlawful to import into the customs territory of the United States from any place outside thereof (but within the United States), or to import into the United States from any place outside thereof, any controlled substance in schedule I or II of subchapter I of this chapter, or any narcotic drug in schedule III, IV, or V of subchapter I of this chapter, or ephedrine, pseudoephedrine, or phenylpropanolamine, except that—
 
-&emsp;(1) such amounts of crude opium, poppy straw, concentrate of poppy straw, and coca leaves, and of ephedrine, pseudoephedrine, and phenylpropanolamine, as the Attorney General finds to be necessary to provide for medical, scientific, or other legitimate purposes, and
+&emsp;(1) such amounts of crude opium, poppy straw, concentrate of poppy straw, and cocaleaves, and of ephedrine, pseudoephedrine, and phenylpropanolamine, as the Attorney General finds to be necessary to provide for medical, scientific, or other legitimate purposes, and
 
 &emsp;(2) such amounts of any controlled substance in schedule I or II or any narcotic drug in schedule III, IV, or V that the Attorney General finds to be necessary to provide for the medical, scientific, or other legitimate needs of the United States—
 
@@ -52,19 +52,19 @@ Schedules I, II, III, IV, and V, referred to in subsecs. (a) and (b), are set ou
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–177, §715(1)(A), inserted “or ephedrine, pseudoephedrine, or phenylpropanolamine,” after “schedule III, IV, or V of subchapter I of this chapter,” in introductory provisions.
+<b>2006</b>—Subsec. (a). Pub. L. 109–177, §715(1)(A), inserted “or ephedrine, pseudoephedrine, or phenylpropanolamine,” after “schedule III, IV, or V of subchapter I of this chapter,” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 109–177, §715(1)(B), inserted “, and of ephedrine, pseudoephedrine, and phenylpropanolamine,” after “coca leaves”.
 
 Subsecs. (d), (e). Pub. L. 109–177, §715(2), added subsecs. (d) and (e).
 
-1984—Subsec. (a)(1). Pub. L. 98–473, §519, amended par. (1) generally, inserting references to poppy straw and concentrate of poppy straw.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–473, §519, amended par. (1) generally, inserting references to poppy straw and concentrate of poppy straw.
 
 Subsec. (a)(2)(C). Pub. L. 98–473, §520, added subpar. (C).
 
-Subsec. (b)(2). Pub. L. 98–473, §521, substituted “is imported pursuant to such notification, or declaration, or in the case of any nonnarcotic controlled substance in schedule III, such import permit, notification, or declaration, as the Attorney General may by regulation prescribe, except that if a nonnarcotic controlled substance in schedule IV or V is also listed in schedule I or II of the Convention on Psychotropic Substances it shall be imported pursuant to such import permit requirements, prescribed by regulation of the Attorney General, as are required by the Convention” for “is imported pursuant to such notification or declaration requirements as the Attorney General may by regulation prescribe, except that if a nonnarcotic controlled substance in schedule III, IV, or V is also listed in schedule I or II of the Convention on Psychotropic Substances it shall be imported pursuant to such import permit requirements, prescribed by regulation of the Attorney General, as are required by the Convention”.
+Subsec. (b)(2). Pub. L. 98–473, §521, substituted “is imported pursuant to such notification, or declaration, or in the case of any nonnarcotic controlled substance in schedule III, such import permit, notification, or declaration, as the Attorney General may by regulation prescribe, except that if a nonnarcotic controlled substance in schedule IV or V is also listed in schedule Ior II of the Convention on Psychotropic Substances it shall be imported pursuant to such import permit requirements, prescribed by regulation of the Attorney General, as are required by the Convention” for “is imported pursuant to such notification or declaration requirements as the Attorney General may by regulation prescribe, except that if a nonnarcotic controlled substance in schedule III, IV, or V is also listed in schedule I or II of the Convention on Psychotropic Substances it shall be imported pursuant to such import permit requirements, prescribed by regulation of the Attorney General, as are required by the Convention”.
 
-1978—Subsec. (b)(2). Pub. L. 95–633 inserted provision relating to exception for nonnarcotic controlled substances listed in schedule I or II of the Convention on Psychotropic Substances.
+<b>1978</b>—Subsec. (b)(2). Pub. L. 95–633 inserted provision relating to exception for nonnarcotic controlled substances listed in schedule I or II of the Convention on Psychotropic Substances.
 
 #### Effective Date of 1978 Amendment
 

@@ -28,7 +28,7 @@ International Obligations” contained in the Act of April 25, 1945 (59 Stat. 89
 
 #### Amendments
 
-1996—Subsec. (d). Pub. L. 104–319 added subsec. (d).
+<b>1996</b>—Subsec. (d). Pub. L. 104–319 added subsec. (d).
 
-1990—Pub. L. 101–246 designated existing provisions as subsec. (a), redesignated cls. (a) and (b) as (1) and (2), respectively, added cl. (3), and added subsecs. (b) and (c).
+<b>1990</b>—Pub. L. 101–246 designated existing provisions as subsec. (a), redesignated cls. (a) and (b) as (1) and (2), respectively, added cl. (3), and added subsecs. (b) and (c).
 

@@ -56,13 +56,13 @@ Improper Disclosure Is Violation.—Any willful disclosure or use by an investig
 
 #### Amendments
 
-2002—Subsec. (d)(3). Pub. L. 107–296 inserted “or 2511(2)(i)” after “2511(3)”.
+<b>2002</b>—Subsec. (d)(3). Pub. L. 107–296 inserted “or 2511(2)(i)” after “2511(3)”.
 
-2001—Subsec. (a). Pub. L. 107–56, §223(a)(1), inserted “, other than the United States,” after “person or entity”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–56, §223(a)(1), inserted “, other than the United States,” after “person or entity”.
 
 Subsecs. (f), (g). Pub. L. 107–56, §223(a)(2), (3), added subsecs. (f) and (g).
 
-1986—Pub. L. 99–508 amended section generally. Prior to amendment, section read as follows: “Any person whose wire or oral communication is intercepted, disclosed, or used in violation of this chapter shall (1) have a civil cause of action against any person who intercepts, discloses, or uses, or procures any other person to intercept, disclose, or use such communications, and (2) be entitled to recover from any such person—
+<b>1986</b>—Pub. L. 99–508 amended section generally. Prior to amendment, section read as follows: “Any person whose wire or oral communication is intercepted, disclosed, or used in violation of this chapter shall (1) have a civil cause of action against any person who intercepts, discloses, or uses, or procures any other person to intercept, disclose, or use such communications, and (2) be entitled to recover from any such person—
 
 &emsp;“(a) actual damages but not less than liquidated damages computed at the rate of $100 a day for each day of violation or $1,000, whichever is higher;
 
@@ -72,7 +72,7 @@ Subsecs. (f), (g). Pub. L. 107–56, §223(a)(2), (3), added subsecs. (f) and (g
 
 > A good faith reliance on a court order or legislative authorization shall constitute a complete defense to any civil or criminal action brought under this chapter or under any other law.”
 
-1970—Pub. L. 91–358 substituted provisions that a good faith reliance on a court order or legislative authorization constitute a complete defense to any civil or criminal action brought under this chapter or under any other law, for provisions that a good faith reliance on a court order or on the provisions of section 2518(7) of this chapter constitute a complete defense to any civil or criminal action brought under this chapter.
+<b>1970</b>—Pub. L. 91–358 substituted provisions that a good faith reliance on a court order or legislative authorization constitute a complete defense to any civil or criminal action brought under this chapter or under any other law, for provisions that a good faith reliance on a court order or on the provisions of section 2518(7) of this chapter constitute a complete defense to any civil or criminal action brought under this chapter.
 
 #### Effective Date of 2002 Amendment
 

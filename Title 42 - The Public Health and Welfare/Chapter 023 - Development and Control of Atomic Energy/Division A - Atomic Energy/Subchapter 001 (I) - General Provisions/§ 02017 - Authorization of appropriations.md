@@ -14,7 +14,7 @@ Notwithstanding the provisions of subsection (a) of this section, funds are here
 
 #### (d) Substituted construction projects
 
-Funds authorized to be appropriated for any construction project to be used in connection with the development or production of special nuclear material or atomic weapons may be used to start another construction project not otherwise authorized if the substituted construction project is within the limit of cost of the construction project for which substitution is to be made, and the Commission certifies that—
+Funds authorized to be appropriated for any construction project to be used in connectionwith the development or production of special nuclear material or atomic weapons may be used to start another construction project not otherwise authorized if the substituted construction project is within the limit of cost of the construction project for which substitution is to be made, and the Commission certifies that—
 
 &emsp;(1) the substituted project is essential to the common defense and security;
 
@@ -30,7 +30,7 @@ Provisions similar to those comprising this section were contained in section 19
 
 #### Amendments
 
-1963—Subsec. (a). Pub. L. 88–72 required legislative authorization of appropriations to the Commission and waiver of charges for use of materials under the Cooperative Power Reactor Demonstration Program. Former provisions of subsec. (a) authorized appropriations necessary and appropriate to carry out the provisions and purposes of this chapter, excepting in par. (1) sums necessary for acquisition of real property or facility acquisition, construction or expansion (and deeming under certain conditions a nonmilitary experimental reactor to be a facility) and in par. (2) sums necessary to carry out cooperative programs for development and construction of reactors for demonstration of their use in production of electrical power or process heat, or for propulsion, or for commercial provision of byproduct material, irradiation or other special service, for civilian use, by arrangements providing for payment of funds, rendering of services and undertaking of research and development without full reimbursement, the waiver of charges accompanying such arrangement or the provision of other financial assistance pursuant to such arrangement or the acquisition of real property or facility acquisition, construction or expansion undertaken by the Commission as part of such arrangement.
+<b>1963</b>—Subsec. (a). Pub. L. 88–72 required legislative authorization of appropriations to the Commission and waiver of charges for use of materials under the Cooperative Power Reactor Demonstration Program. Former provisions of subsec. (a) authorized appropriations necessary and appropriate to carry out the provisions and purposes of this chapter, excepting in par. (1) sums necessary for acquisition of real property or facility acquisition, construction or expansion (and deeming under certain conditions a nonmilitary experimental reactor to be a facility) and in par. (2) sums necessary to carry out cooperative programs for development and construction of reactors for demonstration of their use in production of electrical power or process heat, or for propulsion, or for commercial provision of byproduct material, irradiation or other special service, for civilian use, by arrangements providing for payment of funds, rendering of services and undertaking of research and development without full reimbursement, the waiver of charges accompanying such arrangement or the provision of other financial assistance pursuant to such arrangement or the acquisition of real property or facility acquisition, construction or expansion undertaken by the Commission as part of such arrangement.
 
 Subsec. (b). Pub. L. 88–72 substituted “Any act appropriating funds to the Commission” for “The acts appropriating such sums.”
 
@@ -38,9 +38,9 @@ Subsec. (c). Pub. L. 88–72 struck out authorization of funds provision for adv
 
 Subsec. (d). Pub. L. 88–72 struck out “hereafter” after “Funds” and inserted “construction” before “project” wherever appearing.
 
-1962—Subsecs. (c), (d). Pub. L. 87–615 added subsecs. (c) and (d).
+<b>1962</b>—Subsecs. (c), (d). Pub. L. 87–615 added subsecs. (c) and (d).
 
-1957—Pub. L. 85–79 designated first sentence as introductory clause of subsec. (a) and as (a)(1), inserted proviso to (a)(1), added (a)(2), by designating second sentence as subsec. (b), and struck out former sentence which provided that “Funds appropriated to the Commission shall, if obligated by contract during the fiscal year for which appropriated, remain available for expenditure for four years following the expiration of the fiscal year for which appropriated.”.
+<b>1957</b>—Pub. L. 85–79 designated first sentence as introductory clause of subsec. (a) and as (a)(1), inserted proviso to (a)(1), added (a)(2), by designating second sentence as subsec. (b), and struck out former sentence which provided that “Funds appropriated to the Commission shall, if obligated by contract during the fiscal year for which appropriated, remain available for expenditure for four years following the expiration of the fiscal year for which appropriated.”.
 
 #### Effective Date of 1963 Amendment
 

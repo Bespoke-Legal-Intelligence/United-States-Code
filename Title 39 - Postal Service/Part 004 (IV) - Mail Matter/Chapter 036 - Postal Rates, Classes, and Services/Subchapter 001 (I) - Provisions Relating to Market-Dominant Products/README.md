@@ -10,9 +10,7 @@ Section 3602, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 759, related to terms of
 
 #### Amendments
 
-2006—Pub. L. 109–435, title II, §201(c), Dec. 20, 2006, 120 Stat. 3205, redesignated subchapter II of this chapter as this subchapter and substituted “PROVISIONS RELATING TO MARKET-DOMINANT PRODUCTS” for “PERMANENT RATES AND CLASSES OF MAIL” in subchapter heading.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+<b>2006</b>—Pub. L. 109–435, title II, §201(c), Dec. 20, 2006, 120 Stat. 3205, redesignated subchapter II of this chapter as this subchapter and substituted “PROVISIONS RELATING TO MARKET-DOMINANT PRODUCTS” for “PERMANENT RATES AND CLASSES OF MAIL” in subchapter heading.
 
 
 ---

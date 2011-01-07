@@ -36,7 +36,7 @@ The options referred to in subsection (b) are as follows:
 
 #### (3) Transport over private transmission lines
 
-&emsp;The State and the electric utility shall permit, and shall waive or modify such laws as would otherwise prohibit, the construction and operation of private electric wires constructed, owned, and operated by the project owner or operator, to transport the power to up to 3 purchasers within a 3-mile radius of the project, allowing the wires to use or cross public rights-of-way, without subjecting the project to regulation as a public utility, and according the wires the same treatment for safety, zoning, land use, and other legal privileges as apply or would apply to the wires of the utility, except that—
+&emsp;The State and the electric utility shall permit, and shall waive or modify such laws as would otherwise prohibit, the construction and operation of private electric wires constructed, owned, and operated by the project owner or operator, to transport the power toup to 3 purchasers within a 3-mile radius of the project, allowing the wires to use or cross public rights-of-way, without subjecting the project to regulation as a public utility, and according the wires the same treatment for safety, zoning, land use, and other legal privileges as apply or would apply to the wires of the utility, except that—
 
 &emsp;&emsp;(A) there shall be no grant of any power of eminent domain to take or cross private property for the wires; and
 
@@ -126,7 +126,7 @@ The options referred to in subsection (b) are as follows:
 
 #### (B) Limitation
 
-&emsp;&emsp;No utility shall be required to purchase or transport a quantity of net excess power under this section that exceeds the available capacity of the wires, meter, or other equipment of the electric utility serving the site unless the owner or operator of the projectagrees to pay necessary and reasonable upgrade costs.
+&emsp;&emsp;No utility shall be required to purchase or transport a quantity of net excess power under this section that exceeds the available capacity of the wires, meter, or other equipment of the electric utility serving the site unless the owner or operator of the project agrees to pay necessary and reasonable upgrade costs.
 
 #### (e) Procedural requirements for consideration and determination
 

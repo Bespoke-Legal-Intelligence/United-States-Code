@@ -18,7 +18,7 @@ The Commission may adopt such rules and regulations, relating to administrative 
 
 #### (e) Views of the Commission
 
-The Members of the Commission may speak in their capacity as private citizens. Statements on behalf of the Commission shall be issued in writing over the names of the Members. The Commission shall in its written statements clearly describe its statutory authority, distinguishing that authority from that of appointed or elected officials of the United States Government. Oral statements, where practicable, shall include a similar description.
+The Members of the Commission may speak in their capacity as private citizens. Statementson behalf of the Commission shall be issued in writing over the names of the Members. The Commission shall in its written statements clearly describe its statutory authority, distinguishing that authority from that of appointed or elected officials of the United States Government. Oral statements, where practicable, shall include a similar description.
 
 #### (f) Travel
 
@@ -28,7 +28,7 @@ The Members of the Commission may, with the approval of the Commission, conduct 
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27,1998, 112 Stat. 2787, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
 
 #### Prior Provisions
 

@@ -12,7 +12,7 @@ Denial of Funds for Preventing ROTC Access to Campus.—No funds described in su
 
 Denial of Funds for Preventing Military Recruiting on Campus.—No funds described in subsection (d)(1) may be provided by contract or by grant to an institution of higher education (including any subelement of such institution) if the Secretary of Defense determines that that institution (or any subelement of that institution) has a policy or practice (regardless of when implemented) that either prohibits, or in effect prevents—
 
-&emsp;(1) the Secretary of a military department or Secretary of Homeland Security from gaining access to campuses, or access to students (who are 17 years of age or older) on campuses, for purposes of military recruiting in a manner that is at least equal in quality and scope to the access to campuses and to students that is provided to any other employer; or
+&emsp;(1) the Secretary of a military department or Secretary of Homeland Security from gaining access to campuses, or access to students (who are 17 years of age or older) on campuses,for purposes of military recruiting in a manner that is at least equal in quality and scope to the access to campuses and to students that is provided to any other employer; or
 
 &emsp;(2) access by military recruiters for purposes of military recruiting to the following information pertaining to students (who are 17 years of age or older) enrolled at that institution (or any subelement of that institution):
 
@@ -66,7 +66,7 @@ Provisions similar to those in this section were contained in Pub. L. 103–337,
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–375, §552(d), struck out “(including a grant of funds to be available for student aid)” after “by grant” in introductory provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–375, §552(d), struck out “(including a grant of funds to be available for student aid)” after “by grant” in introductory provisions.
 
 Subsec. (b). Pub. L. 108–375, §552(b)(2)(A), (d), in introductory provisions, substituted “subsection (d)(1)” for “subsection (d)(2)” and struck out “(including a grant of funds to be available for student aid)” after “by grant”.
 
@@ -86,11 +86,11 @@ Subsec. (d)(2). Pub. L. 108–375, §552(b)(1)(B), (c)(2), added par. (2) and st
 
 Subsec. (e)(1). Pub. L. 108–375, §552(b)(2)(B), inserted “, to the head of each other department and agency the funds of which are subject to the determination,” after “Secretary of Education”.
 
-2002—Subsec. (b)(1). Pub. L. 107–296, §1704(b)(1), substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–296, §1704(b)(1), substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
 Subsec. (d)(2)(B). Pub. L. 107–296, §1704(b)(3), substituted “Department of Homeland Security” for “Department of Transportation”.
 
-1999—Pub. L. 106–65 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to denial of Department of Defense grants and contracts to institutions of higher education that have anti-ROTC policies.
+<b>1999</b>—Pub. L. 106–65 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to denial of Department of Defense grants and contracts to institutions of higher education that have anti-ROTC policies.
 
 #### Effective Date of 2004 Amendment
 
@@ -98,7 +98,7 @@ Pub. L. 108–375, div. A, title V, §552(f), Oct. 28, 2004, 118 Stat. 1912, pro
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Funds Available Solely for Student Financial Assistance
 

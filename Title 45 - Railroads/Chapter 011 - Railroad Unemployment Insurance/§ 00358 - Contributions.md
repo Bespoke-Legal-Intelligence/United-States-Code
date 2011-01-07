@@ -366,7 +366,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;As of January 1, 1990, the Board shall commence maintaining an individual employer record with respect to each employer, and the records necessary to determine pooled charges, pooled credits and unallocated charge balances for the system. Whenever a new employer begins paying compensation with respect to which contributions are payable pursuant to this subsection, the Board shall establish and maintain an individual employer record for such employer.
+&emsp;&emsp;As of January 1, 1990, the Board shall commence maintaining an individual employerrecord with respect to each employer, and the records necessary to determine pooled charges, pooled credits and unallocated charge balances for the system. Whenever a new employer begins paying compensation with respect to which contributions are payable pursuant to this subsection, the Board shall establish and maintain an individual employer record for such employer.
 
 #### (B) Definition
 
@@ -416,7 +416,7 @@
 
 &emsp;&emsp;(ii) ending on that June 30.
 
-&emsp;(B) The amount computed under subparagraph (A) shall be increased to an amount thatbears the same ratio to the amount so computed as 12 bears to the number of calendar quarters on which the computation is based.
+&emsp;(B) The amount computed under subparagraph (A) shall be increased to an amount that bears the same ratio to the amount so computed as 12 bears to the number of calendar quarters on which the computation is based.
 
 #### (b) Employee representative contribution
 
@@ -470,11 +470,11 @@ The contributions required by this chapter shall be collected by the Board and s
 
 #### (j) Time for payment; failure to pay promptly
 
-The contributions required by this chapter shall be collected and paid quarterly or at such other times and in such manner and under such conditions not inconsistent with this chapter as may be prescribed by regulations of the Board, and shall not be deducted, in whole or in part,from the compensation of employees in the employer's employ. If a contribution required by this chapter is not paid when due, there shall be added to the amount payable (except in the case of adjustments made in accordance with the provisions of this chapter) interest at the rate of 1 per centum per month or fraction of a month from the date the contribution became due until paid. Any interest collected pursuant to this subsection shall be credited to the account.
+The contributions required by this chapter shall be collected and paid quarterly or at such other times and in such manner and under such conditions not inconsistent with this chapter as may be prescribed by regulations of the Board, and shall not be deducted, in whole or in part, from the compensation of employees in the employer's employ. If a contribution required by this chapter is not paid when due, there shall be added to the amount payable (except in the case of adjustments made in accordance with the provisions of this chapter) interest at the rate of 1 per centum per month or fraction of a month from the date the contribution became due until paid. Any interest collected pursuant to this subsection shall be credited to the account.
 
 #### (k) Application of other laws; authority of Board
 
-All provisions of law, including penalties, applicable with respect to any tax imposed by the provisions of the Railroad Retirement Tax Act \[26 U.S.C. 3201 et seq.\], insofar as applicable and not inconsistent with the provisions of this chapter, shall be applicable with respect to the contributions required by this chapter: <i>Provided</i>, That all authority and functions conferred by or pursuant to such provisions upon any officer or employee of the United States, except the authority to institute and prosecute, and the function of instituting and prosecuting, criminal proceedings, shall, with respect to such contributions, be vested in and exercised by the Board or such officers and employees of the Board as it may designate therefor. The remedies available under the first sentence of this subsection for an employer or employee representative who contests the amount of contributions payable by him shall also apply with respect to a contention that the contribution rate determined by the Board under subsection (a) or (b) of this section to be applicable to such employer or employee representative is inaccurate or otherwise improper.
+All provisions of law, including penalties, applicable with respect to any tax imposed by the provisions of the Railroad Retirement Tax Act \[26 U.S.C. 3201 et seq.\], insofar as applicable and not inconsistent with the provisions of this chapter, shall be applicable with respect to the contributions required by this chapter: <i>Provided</i>, That all authority and functions conferred by or pursuant to such provisions upon any officer or employee of the United States, except the authority to institute and prosecute, and the function of instituting and prosecuting, criminal proceedings, shall, with respect to such contributions, be vested in and exercised by the Board or such officers and employees of the Board as it may designate therefor. The remedies available under the first sentence of this subsection for an employer or employee representative who contests the amount of contributions payable by him shall also apply with respect to a contention that the contribution rate determined by the Board under subsection (a) or (b) of this section to be applicable to suchemployer or employee representative is inaccurate or otherwise improper.
 
 (June 25, 1938, ch. 680, §8, 52 Stat. 1102; July 31, 1946, ch. 709, §318, 60 Stat. 739; June 23, 1948, ch. 608, §§4, 5(a), 6, 62 Stat. 577, 578; Aug. 31, 1954, ch. 1164, pt. III, §§305, 306, 68 Stat. 1042; Pub. L. 85–927, pt. II, §203, Sept. 6, 1958, 72 Stat. 1782; Pub. L. 86–28, pt. III, §§306, 307, May 19, 1959, 73 Stat. 32; Pub. L. 88–133, title III, §§303(a), 304, Oct. 5, 1963, 77 Stat. 222, 223; Pub. L. 89–700, title II, §204, title III, §301(i), (ii), Oct. 30, 1966, 80 Stat. 1087, 1088; Pub. L. 94–92, title I, §1(g), (h), Aug. 9, 1975, 89 Stat. 463; Pub. L. 97–35, title XI, §1128(b), Aug. 13, 1981, 95 Stat. 641; Pub. L. 98–76, title V, §503(a), Aug. 12, 1983, 97 Stat. 440; Pub. L. 100–647, title VII, §§7102(a)–(d), 7103(a), Nov. 10, 1988, 102 Stat. 3759–3770; Pub. L. 101–322, §8(a), July 6, 1990, 104 Stat. 297.)
 
@@ -488,9 +488,9 @@ The Railroad Retirement Tax Act, referred to in subsec. (k), is act Aug. 16, 195
 
 #### Amendments
 
-1990—Subsec. (a)(1)(B)(vi). Pub. L. 101–322 inserted “the National Railroad Passenger Corporation and” after “the contribution of”.
+<b>1990</b>—Subsec. (a)(1)(B)(vi). Pub. L. 101–322 inserted “the National Railroad Passenger Corporation and” after “the contribution of”.
 
-1988—Subsec. (a). Pub. L. 100–647, §7102(a), added subsec. (a) and struck out former subsec. (a) which consisted of two undesignated pars.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §7102(a), added subsec. (a) and struck out former subsec. (a) which consisted of two undesignated pars.
 
 Subsec. (b). Pub. L. 100–647, §7102(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each employee representative shall pay a contribution with respect to so much of the compensation paid to him for services performed as an employee representative during any month as is not, for any such calendar month, in excess of $600, at the rate applicable to employers in accordance with subsection (a) of this section. The compensation of an employee representative and the contribution with respect thereto shall be determined in the same manner and with the same effect as if the employee organization by which such employee representative is employed were an employer as defined in this chapter.”
 
@@ -506,7 +506,7 @@ Pub. L. 100–647, §7102(d)(1), redesignated former subsec. (f) as (i).
 
 Subsecs. (j), (k). Pub. L. 100–647, §7102(d)(1), redesignated former subsecs. (g) and (h) as (j) and (k), respectively.
 
-1983—Subsec. (a). Pub. L. 98–79, §503(a)(1), amended provisions preceding table generally. Prior to amendment, such provisions read as follows: “Every employer shall pay a contribution, with respect to having employees in his service, equal to the percentage determined as set forth below of so much of the compensation as is not in excess of $300 for any calendar month paid by him to any employee for services rendered to him after June 30, 1939, and before July 1, 1954, and is not in excess of $350 for any calendar month paid by him to any employee for services rendered to him after June 30, 1954, and before June 1, 1959, and is not in excess of $400 for any calendar month paid by him to any employee for services rendered to him after May 31, 1959: <i>Provided, however</i>, That if compensation is paid to an employee by more than one employer with respect to any such calendar month, the contributions required by this subsection shall apply to not more than $300 for any month before July 1, 1954, and to not more than $350 for any month after June 30, 1954, and before June 1, 1959, and to not more than $400 for any month after May 31, 1959, of the aggregate compensation paid to said employee by all said employers with respect to such calendar month, and each employer other than a subordinate unit of a national railway-labor-organization employer shall be liable for that proportion of the contribution with respect to such compensation paid by all such employers which the compensation paid by him after December 31, 1946, to the employee for services during any calendar month after 1946 bears to the total compensation paid by all such employers after December 31, 1946, to such employee for services rendered during such month; and in the event that the compensation so paid by such employers to the employee for services rendered during such month is less than $300 if such month is before July 1, 1954, or lessthan $350 if such month is after June 30, 1954, and before June 1, 1959, or less than $400 if such month is after May 31, 1959, each subordinate unit of a national railway-labor-organization employer shall be liable for such proportion of any additional contribution as the compensation paid by such employer after December 31, 1946, to such employee for services rendered during such month bears to the total compensation paid by all such employers after December 31, 1946, to such employee for services rendered during such month:
+<b>1983</b>—Subsec. (a). Pub. L. 98–79, §503(a)(1), amended provisions preceding table generally. Prior to amendment, such provisions read as follows: “Every employer shall pay a contribution, with respect to having employees in his service, equal to the percentage determined as set forth below of so much of the compensation as is not in excess of $300 for any calendar month paid by him to any employee for services rendered to him after June 30, 1939, and before July 1, 1954, and is not in excess of $350 for any calendar month paid by him to any employee for services rendered to him after June 30, 1954, and before June 1, 1959, and is not in excess of $400 for any calendar month paid by him to any employee for services rendered to him after May 31, 1959: <i>Provided, however</i>, That if compensation is paid to an employee by more than one employer with respect to any such calendar month, the contributions required by this subsection shall apply to not more than $300 for any month before July 1, 1954, and to not more than $350 for any month after June 30, 1954, and before June 1, 1959, and to not more than $400 for any month after May 31, 1959, of the aggregate compensation paid to said employee by all said employers with respect to such calendar month, and each employer other than a subordinate unit of a national railway-labor-organization employer shall be liable for that proportion of the contribution with respect to such compensation paid by all such employers which the compensation paid by him after December 31, 1946, to the employee for services during any calendar month after 1946 bears to the total compensation paid by all such employers after December 31, 1946, to such employee for services rendered during such month; and in the event that the compensation so paid by such employers to the employee for services rendered during such month is less than $300 if such month is before July 1, 1954, or less than $350 if such month is after June 30, 1954, and before June 1, 1959, or less than $400 if such month is after May 31, 1959, each subordinate unit of a national railway-labor-organization employer shall be liable for such proportion of any additional contribution as the compensation paid by such employer after December 31, 1946, to such employee for services rendered during such month bears to the total compensation paid by all such employers after December 31, 1946, to such employee for services rendered during such month:
 
 “1. With respect to compensation paid prior to January 1, 1948, the rate shall be 3 per centum;
 
@@ -514,9 +514,9 @@ Subsecs. (j), (k). Pub. L. 100–647, §7102(d)(1), redesignated former subsecs.
 
 Subsec. (b). Pub. L. 98–76, §503(a)(2), struck out “after December 1975” after “during any month”, and substituted “$600” for “$400”.
 
-1981—Subsec. (f). Pub. L. 97–35 substituted “equals 0.5 per centum” for “equals 0.25 per centum”.
+<b>1981</b>—Subsec. (f). Pub. L. 97–35 substituted “equals 0.5 per centum” for “equals 0.25 per centum”.
 
-1975—Subsec. (a). Pub. L. 94–92, §1(g), substituted table reading:
+<b>1975</b>—Subsec. (a). Pub. L. 94–92, §1(g), substituted table reading:
 
 &nbsp;
 
@@ -528,37 +528,37 @@ Subsec. (b). Pub. L. 98–76, §503(a)(2), struck out “after December 1975” 
 | $50,000,000 or more but less than $100,000,000 | 7\.0 |
 | Less than $50,000,000 | 8\.0” |
 | for prior provisions reading: |  |
-| “$450,000,000 or more | 11/2 |
+| “$450,000,000 or more | 1½ |
 | $400,000,000 or more but less than $450,000,000 | 2 |
-| $350,000,000 or more but less than $400,000,000 | 21/2 |
+| $350,000,000 or more but less than $400,000,000 | 2½ |
 | $300,000,000 or more but less than $350,000,000 | 3 |
 | Less than $300,000,000 | 4” |
 
-Subsec. (b). Pub. L. 94–92, §1(h), substituted “Each employee representative shall pay a contribution with respect to so much of the compensation paid to him for services performed as an employee representative during any month after December 1975 as is not, for any such calendar month, in excess of $400, at the rate applicable to employers in accordance with subsection (a) of this section.” for “Each employee representative shall pay, with respect to his income, a contribution equal to 4 per centum of so much of the compensation of such employee representative as is not in excess of $300 for any calendar month, paid to him for services performed as an employee representative after June 30, 1939, and before July 1, 1954, and as is not in excess of $350 paid to him for services rendered as an employee representative in any calendar month after June 30, 1954, and before June 1, 1959, and as is not in excess of $400 paid to him for services rendered as an employee representative in any calendar month after May 31, 1959.”
+Subsec. (b). Pub. L. 94–92, §1(h), substituted “Each employee representative shall pay a contribution with respect to so much of the compensation paid to him forservices performed as an employee representative during any month after December 1975 as is not, for any such calendar month, in excess of $400, at the rate applicable to employers in accordance with subsection (a) of this section.” for “Each employee representative shall pay, with respect to his income, a contribution equal to 4 per centum of so much of the compensation of such employee representative as is not in excess of $300 for any calendar month, paid to him for services performed as an employee representative after June 30, 1939, and before July 1, 1954, and as is not in excess of $350 paid to him for services rendered as an employee representative in any calendar month after June 30, 1954, and before June 1, 1959, and as is not in excess of $400 paid to him for services rendered as an employee representative in any calendar month after May 31, 1959.”
 
-1966—Subsec. (a). Pub. L. 89–700, §301(i), (ii), substituted “before June 1, 1959” for “before the calendar month next following the month in which this Act was amended in 1959”, and “after May 31, 1959” for “after the month in which this Act was so amended”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–700, §301(i), (ii), substituted “before June 1, 1959” for “before the calendar month next following the month in which this Act was amended in 1959”, and “after May 31, 1959” for “after the month in which this Act was so amended”.
 
-Subsec. (b). Pub. L. 89–700, §§204(a), 301(i), (ii), increased contribution rate from 33/4 per centum to 4 per centum, and substituted “before June 1, 1959” for “before the calendar month next following the month in which this Act was amended in 1959”, and “after May 31, 1959” for “after the month in which this Act was so amended”.
+Subsec. (b). Pub. L. 89–700, §§204(a), 301(i), (ii), increased contribution rate from 3¾ per centum to 4 per centum, and substituted “before June 1, 1959” for “before the calendar month next following the month in which this Act was amended in 1959”, and “after May 31, 1959” for “after the month in which this Act was so amended”.
 
 Subsec. (h). Pub. L. 89–700, §204(b), substituted “the provisions of the Railroad Retirement Tax Act” for “section 1800 or 2700 of title 26, and the provisions of section 3661 of title 26”.
 
-1963—Subsec. (a). Pub. L. 88–133, §303(a), increased contribution rate in table from 33/4 to 4 percent when balance to credit of railroad unemployment insurance account as of close of business on Sept. 30 of any year is less than $300,000,000.
+<b>1963</b>—Subsec. (a). Pub. L. 88–133, §303(a), increased contribution rate in table from 3¾ to 4 percent when balance to credit of railroad unemployment insurance account as of close of business on Sept. 30 of any year is less than $300,000,000.
 
 Subsec. (f). Pub. L. 88–133, §304, increased amount of contributions to be deposited to credit of fund from 0.2 per centum to 0.25 per centum of total compensation on which such contributions are based.
 
-1959—Subsec. (a). Pub. L. 86–28, §306, increased earnings base from $350 to $400 per month for months after May 1959 for purposes of unemployment insurance contributions, and contribution rates with respect to compensation paid after May 1959 by 1 percent for each of the categories over $300,000,000, by 11/4 percent when the balance was $250,000,000 or more but less than $300,000,000, and by 3/4 of 1 percent where the balance was less than $250,000,000.
+<b>1959</b>—Subsec. (a). Pub. L. 86–28, §306, increased earnings base from $350 to $400 per month for months after May 1959 for purposes of unemployment insurance contributions, and contribution rates with respect to compensation paid after May 1959 by 1 percent for each of the categories over $300,000,000, by 1¼ percent when the balance was $250,000,000 or more but less than $300,000,000, and by ¾ of 1 percent where the balance was less than $250,000,000.
 
-Subsec. (b). Pub. L. 86–28, §307, increased contribution rate from 3 to 33/4 per centum and maximum amount of compensation for which contribution is payable from $350 to $400 for services rendered in any calendar month after May 1959.
+Subsec. (b). Pub. L. 86–28, §307, increased contribution rate from 3 to 3¾ per centum and maximum amount of compensation for which contribution is payable from $350 to $400 for services rendered in any calendar month after May 1959.
 
-1958—Subsec. (a). Pub. L. 85–927 inserted provision deeming balance to credit of fund a part of balance to credit of account.
+<b>1958</b>—Subsec. (a). Pub. L. 85–927 inserted provision deeming balance to credit of fund a part of balance to credit of account.
 
-1954—Subsecs. (a), (b). Act Aug. 31, 1954, increased earnings base from $300 to $350 per month after June 30, 1954 for purposes of unemployment insurance contributions.
+<b>1954</b>—Subsecs. (a), (b). Act Aug. 31, 1954, increased earnings base from $300 to $350 per month after June 30, 1954 for purposes of unemployment insurance contributions.
 
-1948—Subsec. (a). Act June 23, 1948, §§4, 5(a), substituted for flat 3 percent contribution rate a sliding scale under which tax rate is automatically adjusted in accordance with amount of reserves in unemployment insurance account as of close of business on Sept. 30 of each year.
+<b>1948</b>—Subsec. (a). Act June 23, 1948, §§4, 5(a), substituted for flat 3 percent contribution rate a sliding scale under which tax rate is automatically adjusted in accordance with amount of reserves in unemployment insurance account as of close of business on Sept. 30 of each year.
 
 Subsec. (f). Act June 23, 1948, §6, changed rates of credits to account and fund.
 
-1946—Subsec. (a). Act July 31, 1946, §318(a), changed basis of contributions from compensation payable during a month to compensation paid during the month and inserted provisions relating to proration of contributions where one of the employers is a railway labor organization.
+<b>1946</b>—Subsec. (a). Act July 31, 1946, §318(a), changed basis of contributions from compensation payable during a month to compensation paid during the month and inserted provisions relating to proration of contributions where one of the employers is a railway labor organization.
 
 Subsec. (h). Act July 31, 1946, §318(b), substituted references to sections of the Internal Revenue Code for references to the sections of the Internal Revenue Acts of 1926 and 1934 from which they were derived.
 

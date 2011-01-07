@@ -6,7 +6,7 @@ In the administration of the National Park System, the Secretary of the Interior
 
 #### Amendments
 
-1976—Pub. L. 91–383, §5, as added by Pub. L. 94–458, included travel expenses for dependents of a deceased National Park System employee.
+<b>1976</b>—Pub. L. 91–383, §5, as added by Pub. L. 94–458, included travel expenses for dependents of a deceased National Park System employee.
 
 #### Transfer of Functions
 

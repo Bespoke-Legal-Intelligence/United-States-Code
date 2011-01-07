@@ -50,9 +50,9 @@ Sections 31a to 31h of this title, referred to in text, was in the original “t
 
 #### Amendments
 
-1999—Pars. (4) to (10). Pub. L. 106–148 added pars. (4), (5), and (9) and redesignated former pars. (4), (5), (6), and (7) as (6), (7), (8), and (10), respectively.
+<b>1999</b>—Pars. (4) to (10). Pub. L. 106–148 added pars. (4), (5), and (9) and redesignated former pars. (4), (5), (6), and (7) as (6), (7), (8), and (10), respectively.
 
-1997—Pub. L. 105–36, §3(a)(1), substituted “In sections 31a to 31h of this title:” for “As used in sections 31a to 31h of this title:” in introductory provisions.
+<b>1997</b>—Pub. L. 105–36, §3(a)(1), substituted “In sections 31a to 31h of this title:” for “As used in sections 31a to 31h of this title:” in introductory provisions.
 
 Par. (1). Pub. L. 105–36, §3(a)(5), inserted heading.
 

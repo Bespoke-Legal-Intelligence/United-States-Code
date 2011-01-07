@@ -18,17 +18,17 @@ Every person, before commencing business as a manufacturer or importer of tobacc
 
 #### Amendments
 
-2009—Pub. L. 111–3, §702(a)(1)(A), inserted “or processed tobacco” after “tobacco products” in introductory provisions.
+<b>2009</b>—Pub. L. 111–3, §702(a)(1)(A), inserted “or processed tobacco” after “tobacco products” in introductory provisions.
 
 Par. (3). Pub. L. 111–3, §702(b)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “such person (including, in the case of a corporation, any officer, director, or principal stockholder and, in the case of a partnership, a partner) is, by reason of his business experience, financial standing, or trade connections, not likely to maintain operations in compliance with this chapter, or has failed to disclose any material information required or made any material false statement in the application therefor.”
 
-1997—Pub. L. 105–33, §9302(h)(5), struck out “or” at end of par. (1), added par. (2), and redesignated former par. (2) as (3).
+<b>1997</b>—Pub. L. 105–33, §9302(h)(5), struck out “or” at end of par. (1), added par. (2), and redesignated former par. (2) as (3).
 
 Pub. L. 105–33, §9302(h)(2)(A), inserted “or importer” after “manufacturer” in introductory provisions.
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” and struck out provision that no person subject to this section, who was lawfully engaged in business on the date of the enactment of the Excise Tax Technical Changes Act of 1958, be denied the right to carry on that business pending reasonable opportunity to make applications for permit and final action thereon.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” and struck out provision that no person subject to this section, who was lawfully engaged in business on the date of the enactment of the Excise Tax Technical Changes Act of 1958, be denied the right to carry on that business pending reasonable opportunity to make applications for permit and final action thereon.
 
-1958—Pub. L. 85–859 included export warehouse proprietors, and excluded dealers in tobacco materials.
+<b>1958</b>—Pub. L. 85–859 included export warehouse proprietors, and excluded dealers in tobacco materials.
 
 #### Effective Date of 2009 Amendment
 
@@ -42,7 +42,7 @@ Amendment by Pub. L. 105–33 applicable to articles removed, as defined in sect
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1905(a)(27) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
+Amendment by section 1905(a)(27) of Pub. L. 94–455 effective on first day of first month which begins morethan 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 
 #### Effective Date of 1958 Amendment
 

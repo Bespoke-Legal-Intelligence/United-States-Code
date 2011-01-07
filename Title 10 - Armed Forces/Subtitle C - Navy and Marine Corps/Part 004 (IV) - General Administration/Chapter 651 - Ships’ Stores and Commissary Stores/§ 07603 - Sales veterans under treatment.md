@@ -22,5 +22,5 @@ The word “separated” is substituted for the word “discharged”. The words
 
 #### Amendments
 
-1989—Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1989</b>—Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 

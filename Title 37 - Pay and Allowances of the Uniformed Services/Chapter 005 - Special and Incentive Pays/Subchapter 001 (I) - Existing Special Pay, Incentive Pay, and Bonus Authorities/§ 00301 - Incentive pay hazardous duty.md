@@ -2,7 +2,7 @@
 
 (a) Subject to regulations prescribed by the President, a member of a uniformed service who is entitled to basic pay is also entitled to incentive pay, in the amount set forth in subsection (b) or (c), for the performance of hazardous duty required by orders. In this subsection, the term “hazardous duty” means duty—
 
-&emsp;(1) involving frequent and regular participation in aerial flight as a crew member, as determined by the Secretary concerned, except for a member who is entitled to incentive pay under section 301a of this title;
+&emsp;(1) involving frequent and regular participation in aerial flight as a crew member, as determined by the Secretary concerned, exceptfor a member who is entitled to incentive pay under section 301a of this title;
 
 &emsp;(2) involving frequent and regular participation in aerial flight, not as a crew member under paragraph (1);
 
@@ -185,7 +185,7 @@ $150&nbsp;&nbsp;
 
 (d)(1) In time of war, the President may suspend the payment of incentive pay for any hazardous duty described in subsection (a).
 
-(2) A member is entitled to not more than two payments of incentive pay, authorized by this section, for a period of time during which he qualifies for more than one payment of that pay.
+(2) A member is entitled to not more than two payments of incentive pay, authorized by thissection, for a period of time during which he qualifies for more than one payment of that pay.
 
 (e) A member of a uniformed service who is entitled to basic pay may be paid incentive pay under this subsection, at a monthly rate not to exceed $150, for any month during which the member performs duty involving regular participation as a firefighting crew member, as determined by the Secretary concerned.
 
@@ -251,15 +251,15 @@ In subsection (b), the words preceding the tables are substituted for section 23
 
 In subsection (f), the words “a member of a reserve component of a uniformed service, or of the National Guard” are substituted for the enumeration of the organizations concerned in section 301(d) of existing title 37. The words “when . . . performs, under orders, any duty described in subsection (a)(1)–(11) for members entitled to basic pay” are substituted for the words “when required by competent orders to perform any hazardous duty prescribed by or pursuant to section 235 of this title for members of the uniformed services entitled to receive basic pay and when in consequence of such orders they do perform any hazardous duty so prescribed”. The last sentence is substituted for section 301(e) (as applicable to (d)) of existing title 37.
 
-In subsection (g), the words “entitled to incentive pay under section 301(a)(1) of this title” are substituted for the words “flight pay”. At the time of the enactment of the source statute, additional pay was authorized as “flight pay”. However, the Career Compensation Act of 1949 did not authorize “flight pay” but provided incentive pay in section 204(a)(1) \[now section 301(a)(1) of this revised title\] for “duty as a crew member . . . involving frequent and regular participation in aerial flight”. The words “before January 2 of each year” are substituted for the words “On or before January 1, annually”. The word “grade” is substituted for the word “rank” to conform to the definition in section 101(15) of this revised title.
+In subsection (g), the words “entitled to incentive pay under section 301(a)(1) of this title” are substitutedfor the words “flight pay”. At the time of the enactment of the source statute, additional pay was authorized as “flight pay”. However, the Career Compensation Act of 1949 did not authorize “flight pay” but provided incentive pay in section 204(a)(1) \[now section 301(a)(1) of this revised title\] for “duty as a crew member . . . involving frequent and regular participation in aerial flight”. The words “before January 2 of each year” are substituted for the words “On or before January 1, annually”. The word “grade” is substituted for the word “rank” to conform to the definition in section 101(15) of this revised title.
 
 #### Amendments
 
-2006—Subsec. (f)(2)(C). Pub. L. 109–364 struck out comma after “the term”.
+<b>2006</b>—Subsec. (f)(2)(C). Pub. L. 109–364 struck out comma after “the term”.
 
-2004—Subsecs. (d), (e). Pub. L. 108–375 designated existing provisions of subsec. (d) as par. (1) of subsec. (d), redesignated former subsec. (e) as par. (2) of subsec. (d), and added subsec. (e).
+<b>2004</b>—Subsecs. (d), (e). Pub. L. 108–375 designated existing provisions of subsec. (d) as par. (1) of subsec. (d), redesignated former subsec. (e) as par. (2) of subsec. (d), and added subsec. (e).
 
-2003—Subsec. (a)(2). Pub. L. 108–136, §615(c)(1), substituted “paragraph” for “clause”.
+<b>2003</b>—Subsec. (a)(2). Pub. L. 108–136, §615(c)(1), substituted “paragraph” for “clause”.
 
 Subsec. (a)(11) to (13). Pub. L. 108–136, §615(a), struck out “or” at end of par. (11), added par. (12), and redesignated former par. (12) as (13).
 
@@ -277,15 +277,15 @@ Pub. L. 108–136, §615(b)(2), substituted “(13)” for “(12)” in introdu
 
 Subsec. (f)(2)(A). Pub. L. 108–136, §615(c)(1), substituted “paragraph” for “clause” after “same”.
 
-2001—Subsec. (a)(11), (12). Pub. L. 107–107, §615(a), added par. (11) and redesignated former par. (11) as (12).
+<b>2001</b>—Subsec. (a)(11), (12). Pub. L. 107–107, §615(a), added par. (11) and redesignated former par. (11) as (12).
 
 Subsec. (c)(1). Pub. L. 107–107, §615(b)(1), substituted “(11) of subsection (a)” for “(10) of subsection (a)”.
 
 Subsec. (c)(2)(A). Pub. L. 107–107, §615(b)(2), substituted “(12) of subsection (a)” for “(11) of subsection (a)”.
 
-1998—Subsec. (b). Pub. L. 105–261 in table substituted “165” for “150” as monthly rate for pay grade E–4, “190” for “150” as monthly rate for pay grade E–5, “215” for “175” as monthly rate for pay grade E–6, and “240” for “200” as monthly rate for pay grades E–7 to E–9.
+<b>1998</b>—Subsec. (b). Pub. L. 105–261 in table substituted “165” for “150” as monthly rate for pay grade E–4, “190” for “150” as monthly rate for pay grade E–5, “215” for “175” as monthly rate for pay grade E–6, and “240” for “200” as monthly rate for pay grades E–7 to E–9.
 
-1997—Subsec. (b). Pub. L. 105–85, §614(a)(2), in table substituted “150” for “125” as monthly rate for pay grades O–1, W–1, and E–4.
+<b>1997</b>—Subsec. (b). Pub. L. 105–85, §614(a)(2), in table substituted “150” for “125” as monthly rate for pay grades O–1, W–1, and E–4.
 
 Pub. L. 105–85, §614(a)(1), in table substituted “150” for “110” as monthly rate for pay grades O–7 to O–10 and E–1 to E–3.
 
@@ -293,7 +293,7 @@ Subsec. (c)(1). Pub. L. 105–85, §614(c), substituted “$150” for “$110�
 
 Subsec. (c)(2)(A). Pub. L. 105–85, §614(b), in table substituted “150” for “100” in first column for pay grade W–1, “150” for “110” in last column for pay grade O–7 and above, and “150” for “125” in first column for pay grades O–1 to O–3, E–4 and below, and E–5, in second column for pay grade W–1, and in fourteenth and fifteenth columns for pay grade E–4 and below.
 
-1996—Subsec. (a)(11). Pub. L. 104–106, §615(a), substituted “a member” for “an officer (other than a warrant officer)”.
+<b>1996</b>—Subsec. (a)(11). Pub. L. 104–106, §615(a), substituted “a member” for “an officer (other than a warrant officer)”.
 
 Subsec. (c)(2)(A). Pub. L. 104–106, §615(c)(1), substituted “a member” for “an officer” in provisions before table.
 
@@ -301,21 +301,21 @@ Pub. L. 104–106, §615(b), amended table generally, adding provisions relating
 
 Subsec. (c)(2)(B). Pub. L. 104–106, §615(c), substituted “a member” for “an officer” and substituted “the member” for “the officer” in two places.
 
-1991—Pub. L. 102–25 struck out “of this section” and “of this subsection” wherever appearing.
+<b>1991</b>—Pub. L. 102–25 struck out “of this section” and “of this subsection” wherever appearing.
 
 Subsec. (b). Pub. L. 102–190, §1111(d)(1), in table inserted provisions relating to pay grade of W–5, compensable at monthly rate of $250, below item relating to pay grade O–1.
 
 Subsec. (c)(1). Pub. L. 102–190, §614, substituted “in military free fall operations involving parachute deployment by the jumper without the use of a static line” for “at a high altitude with a low opening”.
 
-1987—Subsec. (a). Pub. L. 100–26, §8(e)(2)(A), substituted “In this subsection, the term” for “For the purposes of this subsection,”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–26, §8(e)(2)(A), substituted “In this subsection, the term” for “For the purposes of this subsection,”.
 
 Subsec. (b). Pub. L. 100–26, §8(d)(1), which directed that subsec. (b) be amended by substituting “Monthly Rate” for “Monthly rate” wherever appearing, could not be executed, because in the one place where the words appear, both words were already capitalized.
 
 Subsec. (f)(2)(C). Pub. L. 100–26, §8(e)(2)(B), substituted “paragraph, the term” for “paragraph”.
 
-1986—Subsec. (a)(1). Pub. L. 99–661 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “as a crew member, as determined by the Secretary concerned, involving frequent and regular participation in aerial flight;”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–661 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “as a crew member, as determined by the Secretary concerned, involving frequent and regular participation in aerial flight;”.
 
-1985—Subsec. (a)(1). Pub. L. 99–145, §635(a)(1)(A), substituted “a crew member” for “an enlisted crew member”.
+<b>1985</b>—Subsec. (a)(1). Pub. L. 99–145, §635(a)(1)(A), substituted “a crew member” for “an enlisted crew member”.
 
 Subsec. (a)(10). Pub. L. 99–145, §635(a)(1)(B), in amending cl. (10) generally, designated existing provisions as cls. (A) and (B) and added cl. (C).
 
@@ -327,7 +327,7 @@ Pub. L. 99–145, §635(a)(3), amended par. (1) generally. Prior to amendment, p
 
 Subsec. (f). Pub. L. 99–145, §647(a), designated existing provisions as par. (1), inserted “for the entire month” after “section 204 of this title”, and added par. (2).
 
-1984—Subsec. (a)(3). Pub. L. 98–525, §624(a)(1), redesignated cl. (4) as (3). Former cl. (3), relating to duty involving frequent and regular participation in glider flights, was struck out.
+<b>1984</b>—Subsec. (a)(3). Pub. L. 98–525, §624(a)(1), redesignated cl. (4) as (3). Former cl. (3), relating to duty involving frequent and regular participation in glider flights, was struck out.
 
 Subsec. (a)(4). Pub. L. 98–525, §624(a)(1), redesignated cl. (6) as (4). Former cl. (4) redesignated (3).
 
@@ -339,15 +339,15 @@ Subsec. (c)(1). Pub. L. 98–525, §624(a)(2), substituted “or (10),” for �
 
 Subsec. (c)(2). Pub. L. 98–525, §624(a)(3), substituted “(11)” for “(13)”.
 
-1983—Subsec. (a)(12). Pub. L. 98–94 inserted “or the testing of aircraft or missile systems (or components of such systems) during which highly toxic fuels or propellants are used”.
+<b>1983</b>—Subsec. (a)(12). Pub. L. 98–94 inserted “or the testing of aircraft or missile systems (or components of such systems) during which highly toxic fuels or propellants are used”.
 
-1981—Subsec. (a). Pub. L. 97–60, §111(a), inserted reference in cl. (10) to a ship other than an aircraft carrier from which aircraft are launched, and added cls. (11) to (13).
+<b>1981</b>—Subsec. (a). Pub. L. 97–60, §111(a), inserted reference in cl. (10) to a ship other than an aircraft carrier from which aircraft are launched, and added cls. (11) to (13).
 
 Subsec. (b). Pub. L. 97–60, §111(b), amended table to reflect an upward adjustment in the monthly incentive pay.
 
-Subsec. (c). Pub. L. 97–60, §111(c), designated existing provisions as par. (1), inserted reference to cls. (11) and (12) of subsec. (a) of this section and substituted “$83” for “$55”, and added par. (2).
+Subsec. (c). Pub. L. 97–60, §111(c), designated existing provisions as par. (1), inserted reference to cls. (11) and\(12) of subsec. (a) of this section and substituted “$83” for “$55”, and added par. (2).
 
-1980—Subsec. (a)(2). Pub. L. 96–579, §3(a), redesignated cl. (4) as (2) and struck out former cl. (2) defining “hazardous duty” as including submarine duty. See section 301c(a)(5) of this title.
+<b>1980</b>—Subsec. (a)(2). Pub. L. 96–579, §3(a), redesignated cl. (4) as (2) and struck out former cl. (2) defining “hazardous duty” as including submarine duty. See section 301c(a)(5) of this title.
 
 Pub. L. 96–513, §516(5)(A), (B), in subcl. (B) substituted reference to subcl. (A) for reference to cl. (A), and in subcl. (B) substituted reference to subcl. (B) for reference to cl. (B).
 
@@ -363,21 +363,21 @@ Subsec. (c). Pub. L. 96–579, §3(c), inserted references to cls. (2) and (3) a
 
 Subsec. (f). Pub. L. 96–513, §516(5)(C), substituted reference to subsection (a) for reference to subsection (a)(1)–(12).
 
-1974—Subsec. (a)(1). Pub. L. 93–294, §2(1), substituted “an enlisted crew member” for “a crew member”.
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–294, §2(1), substituted “an enlisted crew member” for “a crew member”.
 
 Subsec. (g). Pub. L. 93–294, §2(2), repealed subsec. (g) which required the Secretary of each military department to report to Congress before January 2 each year the number of officers of the Army, Navy, or Air Force, as the case may be, above the grade of major or lieutenant commander, by grade and age group, who were entitled to incentive pay under subsec. (a)(1) of this section. See section 301a of this title.
 
-1972—Subsec. (a)(2)(A). Pub. L. 92–436 included in the hazardous duty for incentive pay of a member of a submarine operational command the application of hours served underway in excess of 48 during the preceding five calendar months and not used to qualify for incentive pay, to satisfy of underway time requirements for the current month.
+<b>1972</b>—Subsec. (a)(2)(A). Pub. L. 92–436 included in the hazardous duty for incentive pay of a member of a submarine operational command the application of hours served underway in excess of 48 during the preceding five calendar months and not used to qualify for incentive pay, to satisfy of underway time requirements for the current month.
 
-1966—Subsec. (a)(2). Pub. L. 89–718 made only style changes by capitalizing letter designations for cls. “A”, “B”, and “C” and by setting off text following cl. C through the device of moving the margin to the left of the margin for the clauses.
+<b>1966</b>—Subsec. (a)(2). Pub. L. 89–718 made only style changes by capitalizing letter designations for cls. “A”, “B”, and “C” and by setting off text following cl. C through the device of moving the margin to the left of the margin for the clauses.
 
-1965—Subsec. (a)(2). Pub. L. 89–278 included duty as a member of a submarine operational command staff whose duties require serving on a submarine during underway operations for certain specified periods within term “hazardous duty”.
+<b>1965</b>—Subsec. (a)(2). Pub. L. 89–278 included duty as a member of a submarine operational command staff whose duties require serving on a submarine during underway operations for certain specified periods within term “hazardous duty”.
 
 Subsec. (a)(12). Pub. L. 89–149, §1, added cl. (12).
 
 Subsecs. (c), (f). Pub. L. 89–149, §§2, 3, inserted reference to cl. (12) of subsec. (a).
 
-1963—Subsec. (a)(2). Pub. L. 88–132, §6, substituted “as determined by the Secretary concerned, on a submarine (including, in the case of nuclear-powered submarines, periods of training and rehabilitation after assignment thereto), or, in the case of personnel qualified in submarines, as a prospective crew-member of a submarine being constructed, and during periods of instruction to prepare for assignment to a submarine of advanced design or a position of increased responsibility on a submarine” for “on board a submarine, including, in the case of nuclear-powered submarines, periods of training and rehabilitation after assignment thereto as determined by the Secretary concerned, and including submarines under construction from the time builders’ trials begin”.
+<b>1963</b>—Subsec. (a)(2). Pub. L. 88–132, §6, substituted “as determined by the Secretary concerned, on a submarine (including, in the case of nuclear-powered submarines, periods of training and rehabilitation after assignment thereto), or, in the case of personnel qualified in submarines, as a prospective crew-member of a submarine being constructed, and during periods of instruction to prepare for assignment to a submarine of advanced design or a position of increased responsibility on a submarine” for “on board a submarine, including, in the case of nuclear-powered submarines, periods of training and rehabilitation after assignment thereto as determined by the Secretary concerned, and including submarines under construction from the time builders’ trials begin”.
 
 Subsec. (a)(9). Pub. L. 88–132, §7, substituted “inside a high- or low-pressure chamber” for “as a low-pressure chamber inside observer”.
 

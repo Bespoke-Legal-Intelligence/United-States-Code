@@ -16,11 +16,11 @@ Exception.—Under regulations prescribed by the Secretary of Defense, education
 
 #### Amendments
 
-2008—Subsec. (a)(2). Pub. L. 110–181, §530(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “when the member separates from the Ready Reserve, as provided for under section 16164(a)(1) or section 16164(a)(2), as applicable, of this title.”
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–181, §530(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “when the member separates from the Ready Reserve, as provided for under section 16164(a)(1) or section 16164(a)(2), as applicable, of this title.”
 
 Subsec. (b). Pub. L. 110–181, §530(b), struck out “of not more than 90 days” after “in the Selected Reserve”.
 
-2006—Pub. L. 109–163 designated existing provisions as subsec. (a), inserted heading, substituted “Except as provided in subsection (b), educational assistance” for “Educational assistance”, and added subsec. (b).
+<b>2006</b>—Pub. L. 109–163 designated existing provisions as subsec. (a), inserted heading, substituted “Except as provided in subsection (b), educational assistance” for “Educational assistance”, and added subsec. (b).
 
 #### Effective Date of 2008 Amendment
 

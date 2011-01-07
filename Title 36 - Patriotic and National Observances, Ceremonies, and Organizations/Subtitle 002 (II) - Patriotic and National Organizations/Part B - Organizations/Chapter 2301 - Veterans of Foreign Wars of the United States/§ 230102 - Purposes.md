@@ -36,5 +36,5 @@ May 28, 1936, ch. 471, §3, 49 Stat. 1391.
 
 #### Amendments
 
-2002—Pub. L. 107–242 inserted “charitable,” before “and educational,” in introductory provisions.
+<b>2002</b>—Pub. L. 107–242 inserted “charitable,” before “and educational,” in introductory provisions.
 

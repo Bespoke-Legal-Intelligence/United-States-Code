@@ -120,11 +120,11 @@ Federal Share.—The Federal share of the cost of carrying out a project under t
 
 #### Amendments
 
-2008—Subsec. (a)(3)(B). Pub. L. 110–244, §101(<i>o</i>)(1), substituted “a National Scenic Byway, an All-American Road, or one of America's Byways under paragraph (1)” for “a National Scenic Byway under subparagraph (A)” in introductory provisions.
+<b>2008</b>—Subsec. (a)(3)(B). Pub. L. 110–244, §101(<i>o</i>)(1), substituted “a National Scenic Byway, an All-American Road, or one of America's Byways under paragraph (1)” for “a National Scenic Byway under subparagraph (A)” in introductory provisions.
 
 Subsec. (c)(3). Pub. L. 110–244, §101(<i>o</i>)(2), substituted “All-American Road, or one of America's Byways” for “or All-American Road” in two places.
 
-2005—Subsec. (a)(1). Pub. L. 109–59, §1802(a)(1), substituted “the roads as—” and subpars. (A) to (C) for “the roads as National Scenic Byways or All-American Roads.”
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §1802(a)(1), substituted “the roads as—” and subpars. (A) to (C) for “the roads as National Scenic Byways or All-American Roads.”
 
 Subsec. (a)(3), (4). Pub. L. 109–59, §1802(a)(2), added pars. (3) and (4) and struck out heading and text of former par. (3). Text read as follows: “To be considered for the designation, a road must be nominated by a State or a Federal land management agency and must first be designated as a State scenic byway or, in the case of a road on Federal land, as a Federal land management agency byway.”
 

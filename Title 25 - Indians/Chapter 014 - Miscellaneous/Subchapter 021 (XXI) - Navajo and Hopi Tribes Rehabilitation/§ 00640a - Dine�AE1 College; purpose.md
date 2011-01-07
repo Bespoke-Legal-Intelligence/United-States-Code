@@ -10,11 +10,11 @@ Section was not enacted as part of act Apr. 19, 1950, ch. 92, 64 Stat. 44, which
 
 #### Amendments
 
-2008—Pub. L. 110–315 substituted “Navajo Nation” for “Navajo Tribe of Indians” and “Dine�AE1 College” for “the Navajo Community College”.
+<b>2008</b>—Pub. L. 110–315 substituted “Navajo Nation” for “Navajo Tribe of Indians” and “Dine�AE1 College” for “the Navajo Community College”.
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–315, title IX, §945, Aug. 14, 2008, 122 Stat. 3468, provided that: “This subpart \[subpart 2 (§§945, 946) of part E of title IX of Pub. L. 110–315, amending this section and sections 640b to 640c–3 of this title\] may be cited as the ‘Navajo Nation Higher Education Act of 2008’.”
+Pub. L. 110–315, title IX, §945, Aug. 14, 2008, 122 Stat. 3468, provided that: “This subpart \[subpart 2 (§§945, 946)of part E of title IX of Pub. L. 110–315, amending this section and sections 640b to 640c–3 of this title\] may be cited as the ‘Navajo Nation Higher Education Act of 2008’.”
 
 #### Short Title of 1978 Amendment
 

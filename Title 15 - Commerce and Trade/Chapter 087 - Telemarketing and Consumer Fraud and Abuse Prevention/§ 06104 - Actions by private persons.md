@@ -6,7 +6,7 @@ Any person adversely affected by any pattern or practice of telemarketing which 
 
 #### (b) Notice
 
-The plaintiff shall serve prior written notice of the action upon the Commission and provide the Commission with a copy of its complaint, except in any case where such prior notice is not feasible, in which case the person shall serve such notice immediately upon instituting such action. The Commission shall have the right (A) to intervene in the action, (B) upon so intervening, to be heard on all matters arising therein, and (C) to file petitions for appeal.
+The plaintiff shall serve prior written notice of the action upon the Commission and provide the Commission with a copy of its complaint, except in any case where such prior notice is not feasible, in which case the person shall serve such notice immediately upon instituting such action. The Commission shall have the right (A)to intervene in the action, (B) upon so intervening, to be heard on all matters arising therein, and (C) to file petitions for appeal.
 
 #### (c) Action by Commission
 
@@ -24,5 +24,13 @@ Nothing in this section shall restrict any right which any person may have under
 
 Any civil action brought under subsection (a) of this section in a district court of the United States may be brought in the district in which the defendant is found, is an inhabitant, or transacts business or wherever venue is proper under section 1391 of title 28. Process in such an action may be served in any district in which the defendant is an inhabitant or in which the defendant may be found.
 
-(Pub. L. 103–297, §5, Aug. 16, 1994, 108 Stat. 1549.)
+(Pub. L. 103–297, §5, Aug. 16, 1994, 108 Stat. 1549; Pub. L. 111–203, title X, §1100C(c), July 21, 2010, 124 Stat. 2111.)
+
+#### Amendment of Subsection (c)
+
+<i>Pub. L. 111–203, title X, §§1100C(c), 1100H, July 21, 2010, 124 Stat. 2111, 2113, provided that, effective on the designated transfer date, subsection (c) of this section is amended by inserting after “Commission” each place that term appears the following: “or the Bureau of Consumer Financial Protection”. See Effective Date of 2010 Amendment note below.</i>
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 

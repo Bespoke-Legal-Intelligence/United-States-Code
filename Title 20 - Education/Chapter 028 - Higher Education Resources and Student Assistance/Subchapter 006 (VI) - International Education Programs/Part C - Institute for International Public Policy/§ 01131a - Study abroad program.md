@@ -30,9 +30,9 @@ A prior section 623 of Pub. L. 89–329 was renumbered section 624 and is classi
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–315 struck out “as defined in section 1061 of this title” after “Black colleges and universities” and substituted “tribally controlled colleges or universities, Alaska Native-serving, Native Hawaiian-serving, and Hispanic-serving institutions” for “tribally controlled Indian community colleges as defined in the Tribally Controlled Community College Assistance Act of 1978”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315 struck out “as defined in section 1061 of this title” after “Black colleges and universities” and substituted “tribally controlled colleges or universities, Alaska Native-serving, Native Hawaiian-serving, and Hispanic-serving institutions” for “tribally controlled Indian community colleges as defined in the Tribally Controlled Community College Assistance Act of 1978”.
 
-1998—Pub. L. 105–244, §603(c)(1), substituted “Study” for “Junior year” in section catchline.
+<b>1998</b>—Pub. L. 105–244, §603(c)(1), substituted “Study” for “Junior year” in section catchline.
 
 Subsec. (b)(2). Pub. L. 105–244, §603(c)(2), inserted “, or completing the third year of study in the case of a summer abroad program,” after “year of study” and substituted “study abroad” for “junior year abroad”.
 

@@ -18,11 +18,11 @@ No major emitting facility on which construction is commenced after August 7, 19
 
 &emsp;(7) the person who owns or operates, or proposes to own or operate, a major emitting facility for which a permit is required under this part agrees to conduct such monitoring as may be necessary to determine the effect which emissions from any such facility may have, or is having, on air quality in any area which may be affected by emissions from such source; and
 
-&emsp;(8) in the case of a source which proposes to construct in a class III area, emissions from which would cause or contribute to exceeding the maximum allowable increments applicablein a class II area and where no standard under section 7411 of this title has been promulgated subsequent to August 7, 1977, for such source category, the Administrator has approved the determination of best available technology as set forth in the permit.
+&emsp;(8) in the case of a source which proposes to construct in a class III area, emissions from which would cause or contribute to exceeding the maximum allowable increments applicable in a class II area and where no standard under section 7411 of this title has been promulgated subsequent to August 7, 1977, for such source category, the Administrator has approved the determination of best available technology as set forth in the permit.
 
 #### (b) Exception
 
-The demonstration pertaining to maximum allowable increases required under subsection (a)(3) of this section shall not apply to maximum allowable increases for class II areas in the case of an expansion or modification of a major emitting facility which is in existence on August 7, 1977, whose allowable emissions of air pollutants, after compliance with subsection (a)(4) of this section, will be less than fifty tons per year and for which the owner or operator of such facility demonstrates that emissions of particulate matter and sulfur oxides will not cause or contribute to ambient air quality levels in excess of the national secondary ambient air quality standard for either of such pollutants.
+The demonstration pertaining to maximum allowable increases required under subsection\(a)(3) of this section shall not apply to maximum allowable increases for class II areas in the case of an expansion or modification of a major emitting facility which is in existence on August 7, 1977, whose allowable emissions of air pollutants, after compliance with subsection (a)(4) of this section, will be less than fifty tons per year and for which the owner or operator of such facility demonstrates that emissions of particulate matter and sulfur oxides will not cause or contribute to ambient air quality levels in excess of the national secondary ambient air quality standard for either of such pollutants.
 
 #### (c) Permit applications
 
@@ -76,15 +76,15 @@ micrograms per cubic meter)
 
 (D)(i) In any case where the owner or operator of a proposed major emitting facility who has been denied a certification under subparagraph (C)(iii) demonstrates to the satisfaction of the Governor, after notice and public hearing, and the Governor finds, that the facility cannot be constructed by reason of any maximum allowable increase for sulfur dioxide for periods of twenty-four hours or less applicable to any class I area and, in the case of Federal mandatory class I areas, that a variance under this clause will not adversely affect the air quality related values of the area (including visibility), the Governor, after consideration of the Federal Land Manager's recommendation (if any) and subject to his concurrence, may grant a variance from such maximum allowable increase. If such variance is granted, a permit may be issued to such source pursuant to the requirements of this subparagraph.
 
-(ii) In any case in which the Governor recommends a variance under this subparagraph in which the Federal Land Manager does not concur, the recommendations of the Governor and the Federal Land Manager shall be transmitted to the President. The President may approve the Governor's recommendation if he finds that such variance is in the national interest. No Presidential finding shall be reviewable in any court. The variance shall take effect if thePresident approves the Governor's recommendations. The President shall approve or disapprove such recommendation within ninety days after his receipt of the recommendations of the Governor and the Federal Land Manager.
+(ii) In any case in which the Governor recommends a variance under this subparagraph in which the Federal Land Manager does not concur, the recommendations of the Governor and the Federal Land Manager shall be transmitted to the President. The President may approve the Governor's recommendation if he finds that such variance is in the national interest. No Presidential finding shall be reviewable in any court. The variance shall take effect if the President approves the Governor's recommendations. The President shall approve or disapprove such recommendation within ninety days after his receipt of the recommendations of the Governor and the Federal Land Manager.
 
 (iii) In the case of a permit issued pursuant to this subparagraph, such facility shall comply with such emission limitations under such permit as may be necessary to assure that emissions of sulfur oxides from such facility will not (during any day on which the otherwise applicable maximum allowable increases are exceeded) cause or contribute to concentrations which exceed the following maximum allowable increases for such areas over the baseline concentration for such pollutant and to assure that such emissions will not cause or contribute to concentrations which exceed the otherwise applicable maximum allowable increases for periods of exposure of 24 hours or less on more than 18 days during any annual period:
 
 MAXIMUM ALLOWABLE INCREASE<br>(In micrograms per cubic meter)
 
 | Period of exposure | Low terrain areas | High terrain areas |
-| --- | --- | --- |
-| 24-hr maximum D36 D62 |  |  |
+| :--- | :---: | ---: |
+| 24-hr maximum | 36 | 62 |
 | 3-hr maximum | 130 | 221 |
 
 (iv) For purposes of clause (iii), the term “high terrain area” means with respect to any facility, any area having an elevation of 900 feet or more above the base of the stack of such facility, and the term “low terrain area” means any area other than a high terrain area.
@@ -111,7 +111,7 @@ MAXIMUM ALLOWABLE INCREASE<br>(In micrograms per cubic meter)
 
 #### Amendments
 
-1977—Subsec. (a)(1). Pub. L. 95–190, §14(a)(44), substituted “part;” for “part:”.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–190, §14(a)(44), substituted “part;” for “part:”.
 
 Subsec. (a)(3). Pub. L. 95–190, §14(a)(45), inserted provision making applicable requirement of section 7410(j) of this title.
 

@@ -32,7 +32,7 @@ Operational Criteria.—Not later than 90 days after the date of the submission 
 
 (e)
 
-Improving Security.—The Under Secretary shall take necessary actions to improve domestic air transportation security by correcting any deficiencies in that security discovered in the assessments, analyses, and monitoring carried out under this section.
+Improving Security.—The Under Secretary shall take necessary actions to improve domestic air transportation security by correcting any deficiencies in that security discovered in theassessments, analyses, and monitoring carried out under this section.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1207; Pub. L. 107–71, title I, §101(f)(1), (7), (9), Nov. 19, 2001, 115 Stat. 603; Pub. L. 108–458, title IV, §4001(b), Dec. 17, 2004, 118 Stat. 3712.)
 
@@ -76,9 +76,9 @@ Section 114(t), referred to in subsecs. (c) and (d), was redesignated section 11
 
 #### Amendments
 
-2004—Subsecs. (c) to (e). Pub. L. 108–458 added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+<b>2004</b>—Subsecs. (c) to (e). Pub. L. 108–458 added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
-2001—Subsec. (a). Pub. L. 107–71, §101(f)(7), (9), substituted “Under Secretary” for “Administrator” in two places and “of Transportation for Security” for “of the Federal Aviation Administration”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–71, §101(f)(7), (9), substituted “Under Secretary” for “Administrator” in two places and “of Transportation for Security” for “of the Federal Aviation Administration”.
 
 Subsec. (b). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” in introductory provisions.
 
@@ -90,7 +90,7 @@ Subsec. (c). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” fo
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

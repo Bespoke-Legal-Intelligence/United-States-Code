@@ -10,7 +10,7 @@ Hearings.—An operator receiving a notice under subsection (a) of this section 
 
 (c)
 
-Orders.—After an opportunity for a hearing on the record, the Secretary may issue theorder if the Secretary decides it is justified in the public interest.
+Orders.—After an opportunity for a hearing on the record, the Secretary may issue the order if the Secretary decides it is justified in the public interest.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1317.)
 

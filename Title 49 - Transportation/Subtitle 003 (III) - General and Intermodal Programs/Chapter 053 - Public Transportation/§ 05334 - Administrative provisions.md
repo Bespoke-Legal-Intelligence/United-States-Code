@@ -114,7 +114,7 @@ Transfer of Amounts and Non-Government Share.—(1) Amounts made available for a
 
 Relationship to Other Laws.—(1) Section 9107(a) of title 31 applies to the Secretary of Transportation under this chapter.
 
-(2) Section 3709 of the Revised Statutes (41 U.S.C. 5) applies to a contract for more than $1,000 for services or supplies related to property acquired under this chapter.
+(2) Section 6101(b) to (d) of title 41 applies to a contract for more than $1,000 for services or supplies related to property acquired under this chapter.
 
 (k)
 
@@ -132,7 +132,7 @@ In general.—The Administrator of the Federal Transit Administration shall foll
 
 Binding obligation defined.—In this subsection, the term “binding obligation” means a substantive policy statement, rule, or guidance document issued by the Federal Transit Administration that grants rights, imposes obligations, produces significant effects on private interests, or effects a significant change in existing policy.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 836; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 104–316, title I, §127(a), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–178, title III, §§3023(c), 3025(a), (b)(1), (c), June 9, 1998, 112 Stat. 364, 365; Pub. L. 109–59, title III, §§3002(b)(4), 3032, Aug. 10, 2005, 119 Stat. 1545, 1626.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 836; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 104–316, title I, §127(a), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–178, title III, §§3023(c), 3025(a), (b)(1), (c), June 9, 1998, 112 Stat. 364, 365; Pub. L. 109–59, title III, §§3002(b)(4), 3032, Aug. 10, 2005, 119 Stat. 1545, 1626; Pub. L. 111–350, §5(<i>o</i>)(3), Jan. 4, 2011, 124 Stat. 3853.)
 
 Historical and Revision Notes
 
@@ -212,7 +212,7 @@ In subsection (b), the words “regulatory” and “regulatory proceeding” ar
 
 In subsection (b)(1), the words “Federal Transit Administration” are substituted for “Urban Mass Transportation Administration” because of section 3004(b) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2088). The words “also” and “required by the first sentence of this paragraph” are omitted as surplus.
 
-In subsection (c), before clause (1), the words “In the performance of, and with respect to, the functions, powers, and duties vested in him by this subchapter. . . notwithstanding the provisions of any other law” are omitted as surplus. In clause (1), the words “prepare . . . and” and “for wholly owned Government corporations” are omitted as surplus.
+In subsection (c), before clause (1), the words “In the performance of, and with respect to, the functions, powers, and duties vested in him by this subchapter . . . notwithstanding the provisions of any other law” are omitted as surplus. In clause (1), the words “prepare . . . and” and “for wholly owned Government corporations” are omitted as surplus.
 
 Subsection (d) is substituted for 49 App.:1608(a) (1st sentence related to 12:1749a(b) and last sentence) to eliminate unnecessary words.
 
@@ -234,7 +234,9 @@ The date of enactment of this paragraph, referred to in subsec. (h)(4)(C), is th
 
 #### Amendments
 
-2005—Subsec. (a)(10). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation”.
+<b>2011</b>—Subsec. (j)(2). Pub. L. 111–350 substituted “Section 6101(b) to (d) of title 41” for “Section 3709 of the Revised Statutes (41 U.S.C. 5)”.
+
+<b>2005</b>—Subsec. (a)(10). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation”.
 
 Subsec. (a)(11). Pub. L. 109–59, §3032(1), added par. (11).
 
@@ -266,7 +268,7 @@ Subsec. (i). Pub. L. 109–59, §3032(2), (3), redesignated subsec. (h) as (i) a
 
 Subsecs. (k), (<i>l</i>). Pub. L. 109–59, §3032(6), added subsecs. (k) and (<i>l</i>).
 
-1998—Pub. L. 105–178, §3025(b)(1), inserted “provisions” after “Administrative” in section catchline.
+<b>1998</b>—Pub. L. 105–178, §3025(b)(1), inserted “provisions” after “Administrative” in section catchline.
 
 Subsec. (a)(10). Pub. L. 105–178, §3025(a), added par. (10).
 
@@ -274,7 +276,7 @@ Subsec. (b)(4). Pub. L. 105–178, §3023(c), substituted “5323(a)(2), 5323(c)
 
 Subsec. (g)(4). Pub. L. 105–178, §3025(c), added par. (4).
 
-1996—Subsec. (b)(1). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 
 Subsec. (c)(2). Pub. L. 104–316 substituted “for” for “the Comptroller General shall”.
 

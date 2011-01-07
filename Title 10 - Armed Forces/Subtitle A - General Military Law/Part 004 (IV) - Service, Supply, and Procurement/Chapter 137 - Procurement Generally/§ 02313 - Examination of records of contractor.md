@@ -96,43 +96,43 @@ Feb. 19, 1948, ch. 65, §4(c); added Oct. 31, 1951, ch. 652 (as applicable to §
 
 In subsection (a), the words “An agency named in section 2303 of this title” are substituted for the words “a procuring agency”. The words “made by that agency under this chapter” are inserted for clarity.
 
-In subsection (b), the word “under” is substituted for the words “pursuant to authority contained in”. The word “provide” is substituted for the words “include a clause to the effect”. The words “are entitled” are substituted for the words “shall have the right”. The words “of the United States”, “duly authorized”, “have access to and”, and “engaged in the performance of” are omitted as surplusage.
+In subsection (b), the word “under” is substituted for the words “pursuant to authority contained in”. The word “provide” is substituted for the words “include a clause to the effect”. The words “are entitled” are substituted for the words “shall \* \* \* have \* \* \* the right”. The words “of the United States”, “duly authorized”, “have access to and”, and “engaged in the performance of” are omitted as surplusage.
 
 #### Amendments
 
-2008—Subsec. (c)(1). Pub. L. 110–417 inserted “and to interview any current employee regarding such transactions” before period at end.
+<b>2008</b>—Subsec. (c)(1). Pub. L. 110–417 inserted “and to interview any current employee regarding such transactions” before period at end.
 
-1999—Subsec. (b)(4). Pub. L. 106–65 struck out par. (4) which read as follows: “The Director (or any successor official) shall submit an annual report to the Secretary of Defense on the exercise of such authority during the preceding year and the reasons why such authority was exercised in any instance. The Secretary shall forward a copy of each such report to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives.”
+<b>1999</b>—Subsec. (b)(4). Pub. L. 106–65 struck out par. (4) which read as follows: “The Director (or any successor official) shall submit an annual report to the Secretary of Defense on the exercise of such authority during the preceding year and the reasons why such authority was exercised in any instance. The Secretary shall forward a copy of each such report to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives.”
 
-1996—Subsec. (b)(4). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+<b>1996</b>—Subsec. (b)(4). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
 Subsec. (d). Pub. L. 104–201 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “
 
 Limitation on Preaward Audits Relating to Indirect Costs.—The head of an agency may not perform a preaward audit to evaluate proposed indirect costs under any contract, subcontract, or modification to be entered into in accordance with this chapter in any case in which the contracting officer determines that the objectives of the audit can reasonably be met by accepting the results of an audit conducted by any other department or agency of the Federal Government within one year preceding the date of the contracting officer's determination.”
 
-1994—Pub. L. 103–355, §2201(a)(1), amended section generally, striking out “of books” before “and records” in section catchline, and substituting subsecs. (a) to (i) for former subsecs. (a) to (d).
+<b>1994</b>—Pub. L. 103–355, §2201(a)(1), amended section generally, striking out “of books” before “and records” in section catchline, and substituting subsecs. (a) to (i) for former subsecs. (a) to (d).
 
 Subsec. (f)(2). Pub. L. 103–355, §4102(c), added par. (2).
 
-1990—Subsec. (c). Pub. L. 101–510 struck out after cl. (2) “If subsection (b) is not applied to a contract or subcontract based on a determination under clause (2), a written report shall be furnished to the Congress.”
+<b>1990</b>—Subsec. (c). Pub. L. 101–510 struck out after cl. (2) “If subsection (b) is not applied to a contract or subcontract based on a determination under clause (2), a written report shall be furnished to the Congress.”
 
-1987—Subsec. (d)(1). Pub. L. 100–26 substituted “section 2306a” for “section 2306(f)”.
+<b>1987</b>—Subsec. (d)(1). Pub. L. 100–26 substituted “section 2306a” for “section 2306(f)”.
 
-1985—Subsec. (d). Pub. L. 99–145 added subsec. (d).
+<b>1985</b>—Subsec. (d). Pub. L. 99–145 added subsec. (d).
 
-1984—Subsec. (b). Pub. L. 98–369 substituted “awarded after using procedures other than sealed bid procedures” for “negotiated under this chapter”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369 substituted “awarded after using procedures other than sealed bid procedures” for “negotiated under this chapter”.
 
-1966—Subsec. (b). Pub. L. 89–607, §1(2)(A), substituted “Except as provided in subsection (c), each” for “Each”.
+<b>1966</b>—Subsec. (b). Pub. L. 89–607, §1(2)(A), substituted “Except as provided in subsection (c), each” for “Each”.
 
 Subsec. (c). Pub. L. 89–607, §1(2)(B), added subsec. (c).
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as a note under section 251 of Title 41, Public Contracts.
+Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as a note under section 2302 of this title.
 
 #### Exemption of Functions
 

@@ -40,7 +40,7 @@ Measures To Be Taken.—As part of such reform, the Secretary shall undertake th
 
 &emsp;“(5) Revise the evaluation system for drill sergeants in training to provide for a so-called ‘whole person’ assessment that gives insight into the qualifications and suitability of a drill sergeant candidate beyond the candidate's ability to accomplish required performance tasks.
 
-&emsp;“(6) Revise the Army military personnel records system so that, under conditions and circumstancesto be specified in regulations prescribed by the Secretary, a drill sergeant trainee who fails to complete the training to be a drill sergeant and is denied graduation will not have the fact of that failure recorded in those personnel records.
+&emsp;“(6) Revise the Army military personnel records system so that, under conditions and circumstances to be specified in regulations prescribed by the Secretary, a drill sergeant trainee who fails to complete the training to be a drill sergeant and is denied graduation will not have the fact of that failure recorded in those personnel records.
 
 &emsp;“(7) Provide each drill sergeant in training with the opportunity, before or during that training, to work with new recruits in initial entry training and to be evaluated on that opportunity.
 

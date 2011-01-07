@@ -24,9 +24,9 @@ If any officer or employee of the Treasury Department acting in connection with 
 
 #### Amendments
 
-1998—Pub. L. 105–206 amended section catchline and text generally, substituting present provisions for provisions which had declared: in subsec. (a), that provisions of Reorganization Plans No. 26 of 1950 and No. 1 of 1952 should apply to all functions vested by this title, or by any act amending this title in any officer, employee, or agency of the Department; and in subsec. (b), that nothing in such Reorganization Plans should be considered to impair existing rights and remedies, that for the purpose of any action to recover tax all statutes, rules, and regulations referring to collector of internal revenue, principal officer for internal revenue district, or Secretary, should be deemed to refer to officer whose acts gave rise to such action, and that venue of any such action should be the same as under existing law.
+<b>1998</b>—Pub. L. 105–206 amended section catchline and text generally, substituting present provisions for provisions which had declared: in subsec. (a), that provisions of Reorganization Plans No. 26 of 1950 and No. 1 of 1952 should apply to all functions vested by this title, or by any act amending this title in any officer, employee, or agency of the Department; and in subsec. (b), that nothing in such Reorganization Plans should be considered to impair existing rights and remedies, that for the purpose of any action to recover tax all statutes, rules, and regulations referring to collector of internal revenue, principal officer for internal revenue district, or Secretary, should be deemed to refer to officer whose acts gave rise to such action, and that venue of any such action should be the same as under existing law.
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 1998 Amendment
 

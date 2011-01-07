@@ -62,7 +62,7 @@ The Governmental Performance and Results Act of 1993, referred to in subsec. (c)
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–373, §4(a), inserted “on a case-by-case basis” before period at end of third sentence.
+<b>2000</b>—Subsec. (a). Pub. L. 106–373, §4(a), inserted “on a case-by-case basis” before period at end of third sentence.
 
 Subsec. (b). Pub. L. 106–373, §4(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Board's general areas of responsibility shall include, but not be limited to—
 

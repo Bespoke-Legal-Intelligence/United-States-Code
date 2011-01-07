@@ -22,7 +22,7 @@ Entitlement When No Residence or Household Maintained for Dependents.—An allow
 
 (c)
 
-Effect of Election to Serve Unaccompanied Tour of Duty.—(1) Except as provided in paragraph (2) or (3), a member who elects to serve a tour of duty unaccompanied by his dependents at a permanent station to which the movement of his dependents is authorized at the expense of the United States under section 406 of this title is not entitled to an allowance under subsection (a)(1)(A).
+Effect of Election to Serve Unaccompanied Tour of Duty.—(1) Except as provided in paragraph (2) or (3), a member who elects toserve a tour of duty unaccompanied by his dependents at a permanent station to which the movement of his dependents is authorized at the expense of the United States under section 406 of this title is not entitled to an allowance under subsection (a)(1)(A).
 
 (2) The prohibition in the first sentence of paragraph (1) does not apply to a member who elects to serve an unaccompanied tour of duty because a dependent cannot accompany the member to or at that permanent station for certified medical reasons.
 
@@ -40,21 +40,21 @@ Entitlement While Spouse Entitled to Basic Pay.—(1) A member married to anothe
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–417 designated first sentence of existing provisions as par. (1), designated last two sentences of existing provisions as par. (3) and substituted “Except as provided in paragraph (2)” for “However”, and added par. (2).
+<b>2008</b>—Subsec. (d). Pub. L. 110–417 designated first sentence of existing provisions as par. (1), designated last two sentences of existing provisions as par. (3) and substituted “Except as provided in paragraph (2)” for “However”, and added par. (2).
 
-2004—Subsec. (a)(1). Pub. L. 108–375, §623(b)(2)(A), substituted “$250” for “$100”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–375, §623(b)(2)(A), substituted “$250” for “$100”.
 
 Subsec. (e). Pub. L. 108–375, §623(b)(2)(B), struck out heading and text of subsec. (e). Text read as follows: “For the period beginning on October 1, 2003, and ending on December 31, 2005, the monthly allowance authorized by subsection (a)(1) shall be increased to $250.”
 
 Pub. L. 108–375, §623(b)(1), substituted “December 31, 2005” for “December 31, 2004”.
 
-2003—Subsec. (a)(1). Pub. L. 108–11, §1316(b), (c), as amended by Pub. L. 108–136, §618(d)(2), temporarily substituted “$250” for “$100”. See Effective and Termination Dates of 2003 Amendments note below.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–11, §1316(b), (c), as amended by Pub. L. 108–136, §618(d)(2), temporarily substituted “$250” for “$100”. See Effective and Termination Dates of 2003 Amendments note below.
 
 Subsec. (e). Pub. L. 108–136, §606, added subsec. (e).
 
-2001—Subsec. (c). Pub. L. 107–107 designated first sentence of existing provisions as par. (1) and substituted “Except as provided in paragraph (2) or (3), a member” for “A member”, added par. (2), and designated second sentence of existing provisions as par. (3) and substituted “The Secretary concerned may waive paragraph (1)” for “The Secretary concerned may waive the preceding sentence”.
+<b>2001</b>—Subsec. (c). Pub. L. 107–107 designated first sentence of existing provisions as par. (1) and substituted “Except as provided in paragraph (2) or (3), a member” for “A member”, added par. (2), and designated second sentence of existing provisions as par. (3) and substituted “The Secretary concerned may waive paragraph (1)” for “The Secretary concerned may waive the preceding sentence”.
 
-1997—Subsec. (a). Pub. L. 105–85, §603(c)(3)(B)(i), redesignated subsec. (b)(1), (2) as subsec. (a)(1), (2), respectively, and inserted subsec. heading.
+<b>1997</b>—Subsec. (a). Pub. L. 105–85, §603(c)(3)(B)(i), redesignated subsec. (b)(1), (2) as subsec. (a)(1), (2), respectively, and inserted subsec. heading.
 
 Pub. L. 105–85, §603(c)(3)(A), struck out heading and text of subsec. (a). Text read as follows: “In addition to any allowance or per diem to which he otherwise may be entitled under this title, a member of a uniformed service with dependents who is on permanent duty outside of the United States, or in Alaska, is entitled to a monthly allowance equal to the basic allowance for quarters payable to a member without dependents in the same pay grade if—
 
@@ -74,19 +74,19 @@ Subsec. (c). Pub. L. 105–85, §603(c)(3)(B)(iv), redesignated subsec. (b)(4) a
 
 Subsec. (d). Pub. L. 105–85, §603(c)(3)(B)(v), added subsec. (d).
 
-1996—Subsec. (b)(1)(D). Pub. L. 104–201, §607(a), added subpar. (D).
+<b>1996</b>—Subsec. (b)(1)(D). Pub. L. 104–201, §607(a), added subpar. (D).
 
 Subsec. (b)(4). Pub. L. 104–106 inserted “paragraph (1)(A) of” after “not entitled to an allowance under”.
 
 Subsec. (b)(5). Pub. L. 104–201, §607(b), added par. (5).
 
-1994—Subsec. (b)(2). Pub. L. 103–337, §625(a)(3), added par. (2). Former par. (2) redesignated (3).
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–337, §625(a)(3), added par. (2). Former par. (2) redesignated (3).
 
 Pub. L. 103–337, §625(a)(1), struck out at beginning “A member who becomes entitled to an allowance under this subsection by virtue of duty described in subparagraph (B) or (C) of paragraph (1) for a continuous period of more than 30 days is entitled to the allowance effective as of the first day of that period.”
 
 Subsec. (b)(3), (4). Pub. L. 103–337, §625(a)(2), redesignated pars. (2) and (3) as (3) and (4), respectively.
 
-1991—Subsec. (a). Pub. L. 102–190, §625(b)(1), inserted heading.
+<b>1991</b>—Subsec. (a). Pub. L. 102–190, §625(b)(1), inserted heading.
 
 Subsec. (b). Pub. L. 102–190, §625(b)(2), inserted heading.
 
@@ -96,19 +96,19 @@ Pub. L. 102–190, §611(b), substituted “In” for “Except in time of war o
 
 Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
-1986—Subsec. (b). Pub. L. 99–661, §618(a), designated existing provisions as pars. (1) and (2), in par. (1) redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and in par. (2) substituted “subparagraph (B) or (C) of paragraph (1)” for “clause (2) or (3)”, and added par. (3).
+<b>1986</b>—Subsec. (b). Pub. L. 99–661, §618(a), designated existing provisions as pars. (1) and (2), in par. (1) redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and in par. (2) substituted “subparagraph (B) or (C) of paragraph (1)” for “clause (2) or (3)”, and added par. (3).
 
-1985—Subsec. (b). Pub. L. 99–145 substituted “$60” for “$30”.
+<b>1985</b>—Subsec. (b). Pub. L. 99–145 substituted “$60” for “$30”.
 
-1980—Subsec. (b). Pub. L. 96–342 struck out “(other than a member in pay grade E–1, E–2, E–3, or E–4 (4 years’ or less service))” after “a member of a uniformed service with dependents”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–342 struck out “(other than a member in pay grade E–1, E–2, E–3, or E–4 (4 years’ or less service))” after “a member of a uniformed service with dependents”.
 
-1970—Subsec. (b). Pub. L. 91–533 struck out “who is entitled to a basic allowance for quarters” after “(4 years’ or less service)”.
+<b>1970</b>—Subsec. (b). Pub. L. 91–533 struck out “who is entitled to a basic allowance for quarters” after “(4 years’ or less service)”.
 
 Pub. L. 91–529 inserted provisions authorizing payment of an allowance under this subsection even though the member does not maintain for his primary dependents who would otherwise normally reside with him, a residence or household, subject to his management or control, which he is likely to share with them as a common household when his duty assignment permits.
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–417, \[div. A\], title VI, §604(b), Oct. 14, 2008, 122 Stat. 4483, provided that: “Paragraph (2) of subsection (d) of section 427 of title 37, United States Code, as added by subsection (a), shall apply with respect to members of the uniformed services described in such paragraph who perform service covered by subparagraph (A), (B), or (C) of subsection (a)(1) such \[sic\] section on or after October 1, 2008.”
+Pub. L. 110–417, \[div. A\], title VI, §604(b), Oct. 14, 2008, 122 Stat. 4483, as amended by Pub. L. 111–383, div. A, title X, §1075(e)(9), Jan. 7, 2011, 124 Stat. 4375, provided that: “Paragraph (2) of subsection (d) of section 427 of title 37, United States Code, as added by subsection (a), shall apply with respect to members of the uniformed services described in such paragraph who perform service covered by subparagraph (A), (B), or (C) of subsection (a)(1) of such section on or after October 1, 2008.”
 
 #### Effective Date of 2004 Amendment
 
@@ -118,7 +118,7 @@ Pub. L. 108–375, div. A, title VI, §623(b)(2), Oct. 28, 2004, 118 Stat. 1955,
 
 Pub. L. 108–136, div. A, title VI, §618(d)(2), Nov. 24, 2003, 117 Stat. 1504, provided that the amendment made by section 618(d)(2) is effective Apr. 16, 2003.
 
-Amendment by Pub. L. 108–11 effective Oct. 1, 2002, and applicable with respect to months beginning on or after that date, and expires Sept. 30, 2003, and, effective Sept. 30, 2003, the dollar amount specified in subsec. (a)(1) of this section as in effect on the day before Apr. 16, 2003, is revived, see section 1316(c), (d) of Pub. L. 108–11, as amended, set out as notes under section 310 of this title.
+Amendment by Pub. L. 108–11 effective Oct. 1, 2002, and applicable with respect to months beginning on or after that date, and expires Sept. 30, 2003, and, effective Sept. 30, 2003, the dollar amount specified in subsec. (a)(1) of this section as in effect on the day before Apr. 16, 2003, is revived, see section 1316(c), (d) of Pub. L. 108–11, set out as notes under section 310 of this title.
 
 #### Effective Date of 2001 Amendment
 

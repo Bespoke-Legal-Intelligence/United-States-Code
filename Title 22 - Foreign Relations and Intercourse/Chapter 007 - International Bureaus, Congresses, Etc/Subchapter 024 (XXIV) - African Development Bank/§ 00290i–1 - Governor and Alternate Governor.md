@@ -16,7 +16,7 @@ The Governor, or in the Governor's absence the Alternate Governor, on the instru
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–513 substituted “Governor, an Alternate Governor, and a Director” for “Governor and an Alternate Governor”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–513 substituted “Governor, an Alternate Governor, and a Director” for “Governor and an Alternate Governor”.
 
 #### Delegation of Functions
 

@@ -68,7 +68,7 @@ In awarding grants to eligible applicants under this section, the Secretary shal
 
 #### (1) Requirement
 
-&emsp;In order to ensure the successful operation of programs assisted under this section, the Secretary shall use funds made available under section 9835(a)(2)(E) of this title to monitor the operation of such programs, and funds made available under section 9835(a)(2)(C)(i)(I) of this title to provide training and technical assistance tailored to the particular needs of such programs, consistent with section 9835(c) of this title.
+&emsp;In order to ensure the successful operation of programs assisted under this section, theSecretary shall use funds made available under section 9835(a)(2)(E) of this title to monitor the operation of such programs, and funds made available under section 9835(a)(2)(C)(i)(I) of this title to provide training and technical assistance tailored to the particular needs of such programs, consistent with section 9835(c) of this title.
 
 #### (2) Training and technical assistance
 
@@ -136,7 +136,7 @@ The Secretary shall—
 
 &emsp;&emsp;(G) the relationship of health and well-being of pregnant women to prenatal and early child development.
 
-(Pub. L. 97–35, title VI, §645A, as added Pub. L. 103–252, title I, §112(a), May 18, 1994, 108 Stat. 638;amended Pub. L. 105–285, title I, §113, Oct. 27, 1998, 112 Stat. 2719; Pub. L. 110–134, §15, Dec. 12, 2007, 121 Stat. 1418.)
+(Pub. L. 97–35, title VI, §645A, as added Pub. L. 103–252, title I, §112(a), May 18, 1994, 108 Stat. 638; amended Pub. L. 105–285, title I, §113, Oct. 27, 1998, 112 Stat. 2719; Pub. L. 110–134, §15, Dec. 12, 2007, 121 Stat. 1418.)
 
 #### References in Text
 
@@ -144,7 +144,7 @@ The Individuals with Disabilities Education Act, referred to in subsec. (b)(11),
 
 #### Amendments
 
-2007—Pub. L. 110–134, §15(1), struck out “for families with infants and toddlers” after “programs” in section catchline.
+<b>2007</b>—Pub. L. 110–134, §15(1), struck out “for families with infants and toddlers” after “programs” in section catchline.
 
 Subsec. (a). Pub. L. 110–134, §15(2), substituted “The Secretary shall make grants to entities (referred to in this subchapter as ‘Early Head Start agencies’) in accordance with this section for programs (referred to in this subchapter as ‘Early Head Start programs’)” for “The Secretary shall make grants, in accordance with the provisions of this section for programs”.
 
@@ -180,7 +180,7 @@ Subsec. (g). Pub. L. 110–134, §15(7), added subsec. (g) and struck out former
 
 Subsecs. (h), (i). Pub. L. 110–134, §15(8), added subsecs. (h) and (i).
 
-1998—Pub. L. 105–285, §113(1), inserted “Early Head Start” in section catchline.
+<b>1998</b>—Pub. L. 105–285, §113(1), inserted “Early Head Start” in section catchline.
 
 Subsec. (a). Pub. L. 105–285, §113(2), substituted “provisions of this section for” for “provisions of this section for—”, struck out par. (1) designation before “programs providing”, substituted “self-sufficiency.” for “self-sufficiency; and”, and struck out par. (2) which read as follows: “provision of training and technical assistance to entities carrying out programs, and evaluation of programs, that were supported under the Comprehensive Child Development Act (42 U.S.C. 9881 et seq.), as in effect on the day before May 18, 1994.”
 

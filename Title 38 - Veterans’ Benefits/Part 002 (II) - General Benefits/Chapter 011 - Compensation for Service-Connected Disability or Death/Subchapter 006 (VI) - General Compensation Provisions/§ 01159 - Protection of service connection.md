@@ -6,11 +6,11 @@ Service connection for any disability or death granted under this title which ha
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 359 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 359 of this title as this section.
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1962—Pub. L. 87–825 provided for computation of the period from the date the administrator determines as the date the status commenced for rating purposes.
+<b>1962</b>—Pub. L. 87–825 provided for computation of the period from the date the administrator determines as the date the status commenced for rating purposes.
 
 #### Effective Date of 1962 Amendment
 

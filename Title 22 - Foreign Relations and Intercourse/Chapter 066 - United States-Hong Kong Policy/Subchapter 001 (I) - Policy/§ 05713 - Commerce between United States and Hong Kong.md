@@ -20,7 +20,7 @@ It is the sense of the Congress that the following, which are based in part on t
 
 &emsp;(9) The United States should encourage Hong Kong to continue its efforts to develop a framework which provides adequate protection for intellectual property rights.
 
-&emsp;(10) The United States should negotiate a bilateral investment treaty directly with Hong Kong, in consultation with the Government of the People's Republic of China.
+&emsp;(10) The United States should negotiate a bilateral investment treaty directly with HongKong, in consultation with the Government of the People's Republic of China.
 
 &emsp;(11) The change in the exercise of sovereignty over Hong Kong should not affect ownership in any property, tangible or intangible, held in the United States by any Hong Kong person.
 
@@ -28,5 +28,5 @@ It is the sense of the Congress that the following, which are based in part on t
 
 #### Amendments
 
-1998—Par. (4). Pub. L. 105–206 struck out “(commonly referred to as ‘most-favored-nation status’)” after “nondiscriminatory trade treatment”.
+<b>1998</b>—Par. (4). Pub. L. 105–206 struck out “(commonly referred to as ‘most-favored-nation status’)” after “nondiscriminatory trade treatment”.
 

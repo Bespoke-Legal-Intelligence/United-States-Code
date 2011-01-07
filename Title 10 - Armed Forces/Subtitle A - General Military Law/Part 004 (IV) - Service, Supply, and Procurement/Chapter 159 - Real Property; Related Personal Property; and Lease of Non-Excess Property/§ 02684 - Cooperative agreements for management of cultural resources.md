@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary of Defense or the Secretary of a military department may enter into a cooperative agreement with a State or local government or other entity for the preservation, management, maintenance, and improvement of cultural resources located on asite authorized by subsection (b) and for the conduct of research regarding the cultural resources. Activities under the cooperative agreement shall be subject to the availability of funds to carry out the cooperative agreement.
+Authority.—The Secretary of Defense or the Secretary of a military department may enter into a cooperative agreement with a State or local government or other entity for the preservation, management, maintenance, and improvement of cultural resources located on a site authorized by subsection (b) and for the conduct of research regarding the cultural resources. Activities under the cooperative agreement shall be subject to the availability of funds to carry out the cooperative agreement.
 
 (b)
 
@@ -42,11 +42,11 @@ A prior section 2684, added Pub. L. 93–166, title V, §509(a), Nov. 29, 1973, 
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181, §2824(a)(1), substituted “located on a site authorized by subsection (b)” for “on military installations”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §2824(a)(1), substituted “located on a site authorized by subsection (b)” for “on military installations”.
 
 Subsecs. (b) to (d). Pub. L. 110–181, §2824(a)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
 Subsec. (d)(5). Pub. L. 110–181, §2824(b), added par. (5).
 
-1997—Subsec. (b). Pub. L. 105–85 struck out “, United States Code,” after “title 31”.
+<b>1997</b>—Subsec. (b). Pub. L. 105–85 struck out “, United States Code,” after “title 31”.
 

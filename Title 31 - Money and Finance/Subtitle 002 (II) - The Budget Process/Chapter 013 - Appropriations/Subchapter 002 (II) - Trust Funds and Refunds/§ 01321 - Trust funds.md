@@ -236,9 +236,9 @@ The District of Columbia Workmen's Compensation Act, referred to in subsec. (a)(
 
 #### Amendments
 
-2004—Subsec. (a)(59). Pub. L. 108–199 added par. (59).
+<b>2004</b>—Subsec. (a)(59). Pub. L. 108–199 added par. (59).
 
-1998—Subsec. (a)(92) to (94). Pub. L. 105–261 struck out pars. (92) to (94) which read as follows:
+<b>1998</b>—Subsec. (a)(92) to (94). Pub. L. 105–261 struck out pars. (92) to (94) which read as follows:
 
 “(92) Fisher House Trust Fund, Department of the Army.
 
@@ -246,7 +246,7 @@ The District of Columbia Workmen's Compensation Act, referred to in subsec. (a)(
 
 “(94) Fisher House Trust Fund, Department of the Navy.”
 
-1996—Subsec. (a)(92), (93). Pub. L. 104–106, §914(c)(1), added pars. (92) and (93).
+<b>1996</b>—Subsec. (a)(92), (93). Pub. L. 104–106, §914(c)(1), added pars. (92) and (93).
 
 Subsec. (a)(94). Pub. L. 104–201, §1008(c)(1), added par. (94).
 
@@ -254,19 +254,19 @@ Subsec. (b). Pub. L. 104–106, §914(c)(2), designated existing provisions as p
 
 Subsec. (b)(2)(D). Pub. L. 104–201, §1008(c)(2), added subpar. (D).
 
-1994—Subsec. (a)(91). Pub. L. 103–322 added par. (91).
+<b>1994</b>—Subsec. (a)(91). Pub. L. 103–322 added par. (91).
 
-1991—Subsec. (a)(45), (74), (82), (83). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”, wherever appearing.
+<b>1991</b>—Subsec. (a)(45), (74), (82), (83). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”, wherever appearing.
 
-1990—Subsec. (a)(5). Pub. L. 101–510, §1533(c)(1)(A)(i), substituted “Armed Forces Retirement Home Trust Fund” for “Personal funds of deceased inmates, Naval Home”.
+<b>1990</b>—Subsec. (a)(5). Pub. L. 101–510, §1533(c)(1)(A)(i), substituted “Armed Forces Retirement Home Trust Fund” for “Personal funds of deceased inmates, Naval Home”.
 
 Subsec. (a)(59), (81). Pub. L. 101–510, §1533(c)(1)(A)(ii), struck out pars. (59) “Soldiers’ Home, permanent fund.” and (81) “Soldiers’ Home, interest account.”
 
 Subsec. (b). Pub. L. 101–510, §1533(c)(1)(B), substituted “Armed Forces Retirement Home Trust Fund” for “Soldiers’ Home, Permanent Fund” in two places.
 
-1989—Subsec. (b). Pub. L. 101–189 substituted “annual appropriations and only if the appropriations are specifically authorized by law.” for “annual appropriations. Those appropriations are authorized to be made.”
+<b>1989</b>—Subsec. (b). Pub. L. 101–189 substituted “annual appropriations and only if the appropriations are specifically authorized by law.” for “annual appropriations. Those appropriations are authorized to be made.”
 
-1984—Subsec. (a)(12). Pub. L. 98–426 substituted “Longshore” for “Longshoremen's”.
+<b>1984</b>—Subsec. (a)(12). Pub. L. 98–426 substituted “Longshore” for “Longshoremen's”.
 
 #### Effective Date of 1998 Amendment
 

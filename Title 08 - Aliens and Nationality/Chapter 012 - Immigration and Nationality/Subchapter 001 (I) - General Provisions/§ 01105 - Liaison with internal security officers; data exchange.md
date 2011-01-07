@@ -20,7 +20,7 @@ The provision of the extracts described in subsection (b) of this section may be
 
 #### (d) Regulations
 
-For purposes of administering this section, the Department of State shall, prior to receiving access to NCIC data but not later than 4 monthsafter October 26, 2001, promulgate final regulations—
+For purposes of administering this section, the Department of State shall, prior to receiving access to NCIC data but not later than 4 months after October 26, 2001, promulgate final regulations—
 
 &emsp;(1) to implement procedures for the taking of fingerprints; and
 
@@ -35,6 +35,10 @@ For purposes of administering this section, the Department of State shall, prior
 &emsp;&emsp;(D) to protect any privacy rights of individuals who are subjects of such information.
 
 (June 27, 1952, ch. 477, title I, §105, 66 Stat. 175; Pub. L. 95–105, title I, §109(b)(2), Aug. 17, 1977, 91 Stat. 847; Pub. L. 103–236, title I, §162(h)(3), Apr. 30, 1994, 108 Stat. 408; Pub. L. 107–56, title IV, §403(a), Oct. 26, 2001, 115 Stat. 343.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (a), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 

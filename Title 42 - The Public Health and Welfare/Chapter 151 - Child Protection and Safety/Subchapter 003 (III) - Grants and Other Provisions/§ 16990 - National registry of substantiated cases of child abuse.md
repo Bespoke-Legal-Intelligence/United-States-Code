@@ -32,7 +32,7 @@ The Secretary of Health and Human Services, in consultation with the Attorney Ge
 
 &emsp;&emsp;(A) shall be in a standardized electronic form determined by the Secretary of Health and Human Services; and
 
-&emsp;&emsp;(B) shall contain case-specific identifying information that is limited to the name of the perpetrator and the nature of the substantiated case of child abuse or neglect, and that complies with clauses (viii) and (ix) of section 5106a(b)(2)(A) of this title.
+&emsp;&emsp;(B) shall contain case-specific identifying information that is limited to the name of the perpetrator and the nature of the substantiated case of child abuse or neglect, and that complies with clauses (viii) and (ix) of section 5106a(b)(2)(A) <sup>1</sup> of this title.
 
 #### (d) Construction
 
@@ -48,7 +48,7 @@ Information contained in the national registry shall only be accessible to any F
 
 #### (f) Dissemination
 
-The Secretary of Health and Human Services shall establish standards for the dissemination of information in the national registry of substantiated cases of child abuse or neglect. Such standards shall comply with clauses (viii) and (ix) of section 5106a(b)(2)(A) of this title.
+The Secretary of Health and Human Services shall establish standards for the dissemination of information in the national registry of substantiated cases of child abuse or neglect. Such standards shall comply with clauses (viii) and (ix) of section 5106a(b)(2)(A) <sup>1</sup> of this title.
 
 #### (g) Study
 
@@ -73,4 +73,10 @@ The Secretary of Health and Human Services shall establish standards for the dis
 &emsp;There is authorized to be appropriated $500,000 for the period of fiscal years 2006 and 2007 to carry out the study required by this subsection.
 
 (Pub. L. 109–248, title VI, §633, July 27, 2006, 120 Stat. 642.)
+
+#### References in Text
+
+Section 5106a(b)(2)(A) of this title, referred to in subsecs. (c)(2)(B) and (f), was redesignated section 5106a(b)(2)(B) of this title by Pub. L. 111–320, title I, §115(c)(2)(A), Dec. 20, 2010, 124 Stat. 3469.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

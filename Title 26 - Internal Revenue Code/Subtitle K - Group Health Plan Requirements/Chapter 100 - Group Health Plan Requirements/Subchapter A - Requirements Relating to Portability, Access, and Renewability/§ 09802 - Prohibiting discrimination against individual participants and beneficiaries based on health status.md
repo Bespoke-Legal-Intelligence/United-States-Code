@@ -136,13 +136,13 @@ Any reference in this chapter to genetic information concerning an individual or
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§1320d et seq.) of subchapter XI of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. PartC of title XI of the Act is classified generally to part C (§1320d et seq.) of subchapter XI of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (c)(3)(A), is section 264 of Pub. L. 104–191, which is set out as a note under section 1320d–2 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
-2008—Subsec. (b)(2)(A). Pub. L. 110–233, §103(a)(1), inserted “except as provided in paragraph (3)” before semicolon.
+<b>2008</b>—Subsec. (b)(2)(A). Pub. L. 110–233, §103(a)(1), inserted “except as provided in paragraph (3)” before semicolon.
 
 Subsec. (b)(3). Pub. L. 110–233, §103(a)(2), added par. (3).
 
@@ -152,7 +152,7 @@ Subsec. (f). Pub. L. 110–233, §103(c), added subsec. (f) relating to genetic 
 
 Pub. L. 110–233, §103(b), redesignated subsec. (c) as (f) relating to special rules for church plans.
 
-1997—Subsec. (c). Pub. L. 105–34 added subsec. (c).
+<b>1997</b>—Subsec. (c). Pub. L. 105–34 added subsec. (c).
 
 #### Effective Date of 2008 Amendment
 

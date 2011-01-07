@@ -2,11 +2,11 @@
 
 (a) The Secretary of Defense shall authorize the director of each defense laboratory to enter into one or more education partnership agreements with educational institutions in the United States for the purpose of encouraging and enhancing study in scientific disciplines at all levels of education. The educational institutions referred to in the preceding sentence are local educational agency, colleges, universities, and any other nonprofit institutions that are dedicated to improving science, mathematics, and engineering education.
 
-(b) Under a partnership agreement entered into with an educational institution under this section, the director of a defense laboratory may provide, and is encouraged to provide, assistance to the educational institution by—
+(b) Under a partnership agreement entered into with an educational institution under this section, the director of a defense laboratory mayprovide, and is encouraged to provide, assistance to the educational institution by—
 
 &emsp;(1) loaning defense laboratory equipment to the institution for any purpose and duration in support of such agreement that the director considers appropriate;
 
-&emsp;(2) notwithstanding the provisions of subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.) or any provision of law or regulation relating to transfers of surplus property, transferring to the institution any computer equipment, or other scientific equipment, that is—
+&emsp;(2) notwithstanding the provisions of subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 or any provision of law or regulation relating to transfers of surplus property, transferring to the institution any computer equipment, or other scientific equipment, that is—
 
 &emsp;&emsp;(A) commonly used by educational institutions;
 
@@ -26,29 +26,33 @@
 
 (d) The Secretary of Defense shall ensure that, in entering into education partnership agreements under this section, the director of a defense laboratory gives a priority to providing assistance to educational institutions serving women, members of minority groups, and other groups of individuals who traditionally are involved in the engineering and science professions in disproportionately low numbers.
 
-(e) In this section:
+(e) The Secretary of Defense may permit the director of a defense laboratory to enter into a cooperative agreement with an appropriate entity to act as an intermediary and assist the director in carrying out activities under this section.
+
+(f) In this section:
 
 &emsp;(1) The term “defense laboratory” means any laboratory, product center, test center, depot, training and educational organization, or operational command under the jurisdiction of the Department of Defense.
 
 &emsp;(2) The term “local educational agency” has the meaning given such term in section 9101 of the Elementary and Secondary Education Act of 1965.
 
-(Added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1522; amended Pub. L. 103–382, title III, §391(b)(4), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, §1503(a)(19), Feb. 10, 1996, 110 Stat. 512; Pub. L. 106–398, §1 \[\[div. A\], title II, §253\], Oct. 30, 2000, 114 Stat. 1654, 1654A–49; Pub. L. 107–110, title X, §1076(e), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 108–178, §4(b)(1), Dec. 15, 2003, 117 Stat. 2640.)
+(Added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1522; amended Pub. L. 103–382, title III, §391(b)(4), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, §1503(a)(19), Feb. 10, 1996, 110 Stat. 512; Pub. L. 106–398, §1 \[\[div. A\], title II, §253\], Oct. 30, 2000, 114 Stat. 1654, 1654A–49; Pub. L. 107–110, title X, §1076(e), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 108–178, §4(b)(1), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 111–350, §5(b)(3), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 111–383, div. A, title II, §211(b), Jan. 7, 2011, 124 Stat. 4163.)
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(2), is act June 30, 1949, ch. 288, 63 Stat. 393, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 251 of Title 41 and Tables.
-
 Paragraphs (3), (4), and (5) of section 312(b) of the Higher Education Act of 1965 (20 U.S.C. 1058(b)), referred to in subsec. (c), were repealed by Pub. L. 102–325, title III, §302(a)(3), July 23, 1992, 106 Stat. 472.
 
-Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (e)(2), is classified to section 7801 of Title 20, Education.
+Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(2), is classified to section 7801 of Title 20, Education.
 
 #### Amendments
 
-2003—Subsec. (b)(2). Pub. L. 108–178 inserted “subtitle I of title 40 and title III of” before “the Federal” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
+<b>2011</b>—Subsec. (b)(2). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” in introductory provisions.
 
-2002—Subsec. (e)(2). Pub. L. 107–110 substituted “section 9101 of the Elementary and Secondary Education Act of 1965” for “section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801)”.
+Subsecs. (e), (f). Pub. L. 111–383 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-2000—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title II, §253(a)(1)\], inserted “, and is encouraged to provide,” after “may provide” in introductory provisions.
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–178 inserted “subtitle I of title 40 and title III of” before “the Federal” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
+
+<b>2002</b>—Subsec. (e)(2). Pub. L. 107–110 substituted “section 9101 of the Elementary and Secondary Education Act of 1965” for “section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801)”.
+
+<b>2000</b>—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title II, §253(a)(1)\], inserted “, and is encouraged to provide,” after “may provide” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title II, §253(a)(2)\], inserted before semicolon “for any purpose and duration in support of such agreement that the director considers appropriate”.
 
@@ -56,9 +60,9 @@ Subsec. (b)(2). Pub. L. 106–398, §1 \[\[div. A\], title II, §253(a)(3)\], ad
 
 Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title II, §253(b)\], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “In this section, the term ‘local educational agency’ has the meaning given such term in section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801).”
 
-1996—Subsec. (e). Pub. L. 104–106 substituted “(20 U.S.C. 8801)” for “(20 U.S.C. 2891(12))”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–106 substituted “(20 U.S.C. 8801)” for “(20 U.S.C. 2891(12))”.
 
-1994—Subsec. (a). Pub. L. 103–382, §391(b)(4)(A), substituted “educational agency” for “education agencies”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–382, §391(b)(4)(A), substituted “educational agency” for “education agencies”.
 
 Subsec. (e). Pub. L. 103–382, §394(b)(4)(B)(iii), which directed amendment of subsec. (e) by striking out “(20 U.S.C. 1058(b)” could not be executed because “(20 U.S.C. 1058(b)” does not appear in subsec. (e).
 

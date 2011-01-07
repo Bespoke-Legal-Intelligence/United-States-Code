@@ -1,6 +1,6 @@
 ### §3705. Warranties
 
-(a) The Secretary shall require that in connection with any property upon which there is located a dwelling designed principally for not more than a four-family residence and which is appraised for guaranty or insurance before the beginning of construction, the seller or builder, and such other person as may be required by the Secretary to become warrantor, shall deliver to the purchaser or owner of such property a warranty that the dwelling is constructed in substantial conformity with the plans and specifications (including any amendments thereof, or changes and variations therein, which have been approved in writing by the Secretary) on which the Secretary based the Secretary's valuation of the dwelling. The Secretary shall deliver to the builder, seller, or other warrantor the Secretary's written approval (which shall be conclusive evidence of such appraisal) of any amendment of, or change or variation in, such plans and specifications which the Secretary deems to be a substantial amendment thereof, or change or variation therein, and shall file a copy of such written approval with such plans and specifications. Such warranty shall apply only with respect to such instances of substantial nonconformity to such approved plans and specifications (including any amendments thereof, or changes or variations therein, which have been approved in writing, as provided in this section, by the Secretary) as to which the purchaser or home owner has given written notice to the warrantor within one year from the date of conveyance of title to, or initial occupancy of, the dwelling, whichever first occurs. Such warranty shall be in addition to, and not in derogation of, all other rights and privileges which such purchaser or owner may have under any other law or instrument. The provisions of this section shall apply to any such property covered by a mortgage insured or guaranteed by the Secretary on and after October 1, 1954, unless such mortgage is insured or guaranteed pursuant to a commitment therefor made before October 1, 1954.
+(a) The Secretary shall require that in connection with any property upon which there is located a dwelling designed principally for not more than a four-family residence and which is appraised for guaranty or insurance before the beginning of construction, the seller or builder, and such other person as may be required by the Secretary to become warrantor, shall deliver to the purchaser or owner of such property a warranty that the dwelling is constructed in substantial conformity with the plans and specifications (including any amendments thereof, or changes and variations therein, which have been approved in writing by the Secretary) on which the Secretary based the Secretary's valuation of the dwelling. The Secretary shall deliver to the builder, seller, or other warrantor the Secretary's written approval (which shall be conclusive evidence of such appraisal) of any amendment of, or change or variation in, such plans and specifications which the Secretary deems to be a substantial amendment thereof, or change or variation therein, and shall file a copy of such written approval with such plans and specifications. Such warranty shall apply only with respect to such instances of substantial nonconformity to such approved plans and specifications (including any amendments thereof, orchanges or variations therein, which have been approved in writing, as provided in this section, by the Secretary) as to which the purchaser or home owner has given written notice to the warrantor within one year from the date of conveyance of title to, or initial occupancy of, the dwelling, whichever first occurs. Such warranty shall be in addition to, and not in derogation of, all other rights and privileges which such purchaser or owner may have under any other law or instrument. The provisions of this section shall apply to any such property covered by a mortgage insured or guaranteed by the Secretary on and after October 1, 1954, unless such mortgage is insured or guaranteed pursuant to a commitment therefor made before October 1, 1954.
 
 (b) The Secretary shall permit copies of the plans and specifications (including written approvals of any amendments thereof, or changes or variations therein, as provided in this section) for dwellings in connection with which warranties are required by subsection (a) of this section to be made available in their appropriate local offices for inspection or for copying by any purchaser, home owner, or warrantor during such hours or periods of time as the Secretary may determine to be reasonable.
 
@@ -8,17 +8,17 @@
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–446 made technical correction to directory language of Pub. L. 102–54, §15(a)(1)(A). See 1991 Amendment note below.
+<b>1994</b>—Subsec. (a). Pub. L. 103–446 made technical correction to directory language of Pub. L. 102–54, §15(a)(1)(A). See 1991 Amendment note below.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1805 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1805 of this title as this section.
 
 Subsec. (a). Pub. L. 102–54, §15(a)(1)(B), substituted “appraisal)” for “approval)” in second sentence.
 
 Pub. L. 102–54, §15(a)(1)(A), as amended by Pub. L. 103–446, substituted “appraised” for “approved” before “for guaranty” in first sentence.
 
-1989—Pub. L. 101–237 substituted “Secretary” and “Secretary's” for “Administrator” and “Administrator's”, respectively, wherever appearing.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” and “Secretary's” for “Administrator” and “Administrator's”, respectively, wherever appearing.
 
-1976—Subsec. (a). Pub. L. 94–324 substituted “the Administrator's” for “his” wherever appearing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–324 substituted “the Administrator's” for “his” wherever appearing.
 
 #### Effective Date of 1994 Amendment
 

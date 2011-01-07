@@ -22,7 +22,7 @@ Effect of Noncompliance of Federal Officials With Deadlines.—(1) The inability
 
 (b)
 
-Inapplicability of Statutes of Limitations.—If any person seeks to file a complaintor claim with the Secretary, the Merit Systems Protection Board, or a Federal or State court under this chapter alleging a violation of this chapter, there shall be no limit on the period for filing the complaint or claim.
+Inapplicability of Statutes of Limitations.—If any person seeks to file a complaint or claim with the Secretary, the Merit Systems Protection Board, or a Federal or State court under this chapter alleging a violation of this chapter, there shall be no limit on the period for filing the complaint or claim.
 
 (Added Pub. L. 110–389, title III, §311(f)(1), Oct. 10, 2008, 122 Stat. 4163.)
 

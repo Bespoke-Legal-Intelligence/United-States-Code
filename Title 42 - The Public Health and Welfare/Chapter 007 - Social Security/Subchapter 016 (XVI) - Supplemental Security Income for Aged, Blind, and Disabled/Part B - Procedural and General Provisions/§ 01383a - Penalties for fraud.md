@@ -26,7 +26,7 @@ Whoever—
 
 (3) If the court does not order restitution, or orders only partial restitution, under this subsection, the court shall state on the record the reasons therefor.
 
-(4)(A) Except as provided in subparagraph (B), funds paid to the Commissioner of Social Security as restitution pursuant to a court ordershall be deposited as miscellaneous receipts in the general fund of the Treasury.
+(4)(A) Except as provided in subparagraph (B), funds paid to the Commissioner of Social Security as restitution pursuant to a court order shall be deposited as miscellaneous receipts in the general fund of the Treasury.
 
 (B) In the case of funds paid to the Commissioner of Social Security pursuant to paragraph (1)(B), the Commissioner of Social Security shall certify for payment to the individual described in such paragraph an amount equal to the lesser of the amount of the funds so paid or the individual's outstanding financial loss as described in such paragraph, except that such amount may be reduced by any overpayment of benefits owed under this subchapter, subchapter II of this chapter, or subchapter VIII of this chapter by the individual.
 
@@ -38,11 +38,11 @@ Any person or entity convicted of a violation of subsection (a) of this section 
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–203, §209(c)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+<b>2004</b>—Subsec. (b). Pub. L. 108–203, §209(c)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 108–203, §209(c)(1), (3), redesignated subsec. (b) as (c), struck out “(2)” before “Any person”, and struck out par (1) which read as follows: “If a person or entity violates subsection (a) of this section in the person's or entity's role as, or in applying to become, a representative payee under section 1383(a)(2) of this title on behalf of another individual (other than the person's eligible spouse), and the violation includes a willful misuse of funds by the person or entity, the court may also require that full or partial restitution of funds be made to such other individual.”
 
-1994—Subsec. (a). Pub. L. 103–296, §206(c)(1), inserted closing provisions and struck out former closing provisions which read as follows: “shall be guilty of a misdemeanor and upon conviction thereof shall be fined not more than $1,000 or imprisoned for not more than one year, or both.”
+<b>1994</b>—Subsec. (a). Pub. L. 103–296, §206(c)(1), inserted closing provisions and struck out former closing provisions which read as follows: “shall be guilty of a misdemeanor and upon conviction thereof shall be fined not more than $1,000 or imprisoned for not more than one year, or both.”
 
 Subsec. (b). Pub. L. 103–296, §206(c)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
@@ -54,9 +54,9 @@ Subsec. (b). Pub. L. 103–296, §206(c)(2), amended subsec. (b) generally. Prio
 
 “(2) In any case in which the court determines that a violation described in paragraph (1) includes a willful misuse of funds by such person or entity, the court may also require that full or partial restitution of such funds be made to the individual for whom such person or entity was the certified payee.
 
-“(3) Any person or entity convicted of a felony under this section or under section 408 of this title may not be certified as a payee under section 1383(a)(2) of this title.”
+“(3) Any person or entity convicted of a felony under this section or under section 408 of this title may notbe certified as a payee under section 1383(a)(2) of this title.”
 
-1984—Pub. L. 98–460 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1984</b>—Pub. L. 98–460 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 2004 Amendment
 

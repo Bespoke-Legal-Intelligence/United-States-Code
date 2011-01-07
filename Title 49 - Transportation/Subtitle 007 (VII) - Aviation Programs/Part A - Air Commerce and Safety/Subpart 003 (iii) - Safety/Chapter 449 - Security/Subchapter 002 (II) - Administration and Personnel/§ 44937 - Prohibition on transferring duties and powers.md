@@ -30,9 +30,9 @@ This amends 49:44937 to correct an error in the codification enacted by section 
 
 #### Amendments
 
-2001—Pub. L. 107–71 substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
+<b>2001</b>—Pub. L. 107–71 substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
 
-1994—Pub. L. 103–429 substituted “44906” for “44906(a)(1) or (b)”.
+<b>1994</b>—Pub. L. 103–429 substituted “44906” for “44906(a)(1) or (b)”.
 
 #### Effective Date of 1994 Amendment
 

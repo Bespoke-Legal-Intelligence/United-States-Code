@@ -24,13 +24,13 @@ Minor changes were made in arrangement, translation, and phraseology.
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-1990—Pub. L. 101–647 struck out “; opening letters” after “nonmailable” in section catchline.
+<b>1990</b>—Pub. L. 101–647 struck out “; opening letters” after “nonmailable” in section catchline.
 
-1970—Subsec. (b). Pub. L. 91–375 struck out “of the United States” after “Postal Service”.
+<b>1970</b>—Subsec. (b). Pub. L. 91–375 struck out “of the United States” after “Postal Service”.
 
-1960—Subsec. (c). Pub. L. 86–682 repealed subsec. (c) which related to the opening of letters, effective Sept. 1, 1960.
+<b>1960</b>—Subsec. (c). Pub. L. 86–682 repealed subsec. (c) which related to the opening of letters, effective Sept. 1, 1960.
 
 #### Effective Date of 1970 Amendment
 

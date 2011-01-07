@@ -6,5 +6,5 @@ Except as otherwise provided in sections 421a to 421h of this title, the provisi
 
 #### Amendments
 
-1972—Pub. L. 92–487 reenacted section without change.
+<b>1972</b>—Pub. L. 92–487 reenacted section without change.
 

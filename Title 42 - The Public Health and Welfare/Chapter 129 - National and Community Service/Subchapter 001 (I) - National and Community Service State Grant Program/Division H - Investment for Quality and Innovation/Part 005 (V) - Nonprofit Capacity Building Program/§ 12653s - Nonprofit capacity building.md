@@ -50,7 +50,7 @@ To be eligible to receive a grant under this section, an intermediary nonprofit 
 
 &emsp;&emsp;(B) the degree to which the activities proposed to be provided through the grant will assist a wide number of nonprofit organizations within a State, relative to the proposed amount of the grant; and
 
-&emsp;&emsp;(C) the quality of the organizational development assistance to be delivered by the intermediary nonprofit grantee, including the qualifications of its administrators andrepresentatives, and its record in providing services to small and midsize nonprofit organizations.
+&emsp;&emsp;(C) the quality of the organizational development assistance to be delivered by the intermediary nonprofit grantee, including the qualifications of its administrators and representatives, and its record in providing services to small and midsize nonprofit organizations.
 
 #### (f) Federal share
 

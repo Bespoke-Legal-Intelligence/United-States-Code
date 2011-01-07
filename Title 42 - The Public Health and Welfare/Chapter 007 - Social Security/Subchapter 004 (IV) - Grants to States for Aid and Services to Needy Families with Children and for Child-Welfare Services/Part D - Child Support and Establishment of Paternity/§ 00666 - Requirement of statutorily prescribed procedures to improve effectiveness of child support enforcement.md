@@ -24,7 +24,7 @@ Liens.—Procedures under which—
 
 &emsp;&emsp;(A) liens arise by operation of law against real and personal property for amounts of overdue support owed by a noncustodial parent who resides or owns property in the State; and
 
-&emsp;&emsp;(B) the State accords full faith and credit to liens described in subparagraph (A) arising in another State, when the State agency, party, or other entity seeking to enforce such a lien complies with the procedural rules relating to recording or serving liens that arise within the State, except that such rules may not require judicial notice or hearing prior to the enforcement of such a lien.
+&emsp;&emsp;(B) the State accords full faith and credit to liens described in subparagraph (A) arising in another State, when the State agency, party, or other entity seeking to enforcesuch a lien complies with the procedural rules relating to recording or serving liens that arise within the State, except that such rules may not require judicial notice or hearing prior to the enforcement of such a lien.
 
 &emsp;(5)
 
@@ -114,7 +114,7 @@ Legal finding of paternity.—Procedures under which a signed voluntary acknowle
 
 &emsp;&emsp;&emsp;&emsp;(I) 60 days; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the date of an administrative or judicial proceeding relating to the child\(including a proceeding to establish a support order) in which the signatory is a party.
+&emsp;&emsp;&emsp;&emsp;(II) the date of an administrative or judicial proceeding relating to the child (including a proceeding to establish a support order) in which the signatory is a party.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -186,9 +186,9 @@ Safeguards.—Procedures ensuring that, in carrying out subparagraph (A), inform
 
 &emsp;(8)(A) Procedures under which all child support orders not described in subparagraph (B) will include provision for withholding from income, in order to assure that withholding as a means of collecting child support is available if arrearages occur without the necessity of filing application for services under this part.
 
-&emsp;(B) Procedures under which all child support orders which are initially issued in the State on or after January 1, 1994, and are not being enforced under this part will include the following requirements:
+&emsp;(B) Procedures under which all child support orders which are initially issued in the Stateon or after January 1, 1994, and are not being enforced under this part will include the following requirements:
 
-&emsp;&emsp;(i) The income of a noncustodial parent shall be subject to withholding, regardless of whether support payments by such parent are in arrears, on the effective date of the order; except that such income shall not be subject to withholding under this clause in any case where (I) one of the parties demonstrates, and the court (or administrativeprocess) finds, that there is good cause not to require immediate income withholding, or (II) a written agreement is reached between both parties which provides for an alternative arrangement.
+&emsp;&emsp;(i) The income of a noncustodial parent shall be subject to withholding, regardless of whether support payments by such parent are in arrears, on the effective date of the order; except that such income shall not be subject to withholding under this clause in any case where (I) one of the parties demonstrates, and the court (or administrative process) finds, that there is good cause not to require immediate income withholding, or (II) a written agreement is reached between both parties which provides for an alternative arrangement.
 
 &emsp;&emsp;(ii) The requirements of subsection (b)(1) of this section (which shall apply in the case of each noncustodial parent against whom a support order is or has been issued or modified in the State, without regard to whether the order is being enforced under the State plan).
 
@@ -250,7 +250,7 @@ Locator information from interstate networks.—Procedures to ensure that all Fe
 
 Recording of social security numbers in certain family matters.—Procedures requiring that the social security number of—
 
-&emsp;&emsp;(A) any applicant for a professional license, driver's license, occupational license, recreational license, or marriage license be recorded on the application;
+&emsp;&emsp;(A) any applicant for a professional license, driver's license, occupational license,recreational license, or marriage license be recorded on the application;
 
 &emsp;&emsp;(B) any individual who is subject to a divorce decree, support order, or paternity determination or acknowledgment be placed in the records relating to the matter; and
 
@@ -326,7 +326,7 @@ Liability.—A financial institution shall not be liable under any Federal or St
 
 &emsp;&emsp;&emsp;(i) for any disclosure of information to the State agency under subparagraph (A)(i);
 
-&emsp;&emsp;&emsp;(ii) for encumbering or surrendering any assets held by such financial institution inresponse to a notice of lien or levy issued by the State agency as provided for in subparagraph (A)(ii); or
+&emsp;&emsp;&emsp;(ii) for encumbering or surrendering any assets held by such financial institution in response to a notice of lien or levy issued by the State agency as provided for in subparagraph (A)(ii); or
 
 &emsp;&emsp;&emsp;(iii) for any other action taken in good faith to comply with the requirements of subparagraph (A).
 
@@ -370,9 +370,9 @@ Health care coverage.—Procedures under which—
 
 The procedures referred to in subsection (a)(1)(A) of this section (relating to the withholding from income of amounts payable as support) must provide for the following:
 
-&emsp;(1) In the case of each noncustodial parent against whom a support order is or has been issued or modified in the State, and is being enforced under the State plan, so much of such parent's income must be withheld, in accordance with the succeeding provisions of this subsection, as is necessary to comply with the order and provide for the payment of any fee to the employer which may be required under paragraph (6)(A), up to the maximum amount permitted under section 1673(b) of title 15. If there are arrearages to be collected, amounts withheld to satisfy such arrearages, when added to the amounts withheld to pay current support and provide for the fee, may not exceed the limit permitted under such section 1673(b), but the State need not withhold up to the maximum amount permitted under such section in order to satisfy arrearages.
+&emsp;(1) In the case of each noncustodial parent against whom a support order is or has been issued or modified in the State, and is being enforced under the State plan, so much of such parent's income must be withheld, in accordance with the succeeding provisions of this subsection, as is necessary to comply with the order and provide for the payment of any fee to the employer which may be required under paragraph (6)(A), up to the maximum amount permitted under section 1673(b) of title 15. If there are arrearages to be collected, amounts withheld to satisfy such arrearages, when added to the amounts withheld to pay current support and provide for the fee, may not exceed the limit permitted under such section1673(b), but the State need not withhold up to the maximum amount permitted under such section in order to satisfy arrearages.
 
-&emsp;(2) Such withholding must be provided without the necessity of any application therefor in the case of a child (whether or not eligible for assistance under a State program funded under part A of this subchapter) with respect to whom services are already being provided under the State plan under this part, and must be provided in accordance with this subsection on the basis of an application for servicesunder the State plan in the case of any other child in whose behalf a support order has been issued or modified in the State. In either case such withholding must occur without the need for any amendment to the support order involved or for any further action (other than those actions required under this part) by the court or other entity which issued such order.
+&emsp;(2) Such withholding must be provided without the necessity of any application therefor in the case of a child (whether or not eligible for assistance under a State program funded under part A of this subchapter) with respect to whom services are already being provided under the State plan under this part, and must be provided in accordance with this subsection on the basis of an application for services under the State plan in the case of any other child in whose behalf a support order has been issued or modified in the State. In either case such withholding must occur without the need for any amendment to the support order involved or for any further action (other than those actions required under this part) by the court or other entity which issued such order.
 
 &emsp;(3)(A) The income of a noncustodial parent shall be subject to such withholding, regardless of whether support payments by such parent are in arrears, in the case of a support order being enforced under this part that is issued or modified on or after the first day of the 25th month beginning after October 13, 1988, on the effective date of the order; except that such income shall not be subject to such withholding under this subparagraph in any case where (i) one of the parties demonstrates, and the court (or administrative process) finds, that there is good cause not to require immediate income withholding, or (ii) a written agreement is reached between both parties which provides for an alternative arrangement.
 
@@ -540,11 +540,11 @@ If a State demonstrates to the satisfaction of the Secretary, through the presen
 
 #### (e) “Overdue support” defined
 
-For purposes of this section, the term “overdue support” means the amount of a delinquency pursuant to an obligation determined under a court order, or an order of an administrative process established under State law, for support and maintenance of a minor child which is owed to or on behalf of such child, or for support and maintenance of the noncustodial parent's spouse (or former spouse) with whom the child is living if and to the extent that spousal support (with respect to such spouse or former spouse) would be included for purposes of section 654(4) of this title. At the option of the State, overdue support may include amounts which otherwise meet the definition in the first sentence of this subsection but which are owed to or on behalf of a child who is not a minor child. The option to include support owed to children who are not minors shall apply independently to each procedure specified under this section.
+For purposes of this section, the term “overdue support” means the amount of a delinquency pursuant to an obligation determined under a court order, or an order of an administrative process established under State law, for support and maintenance of a minor child which is owed to or on behalf of such child, or for support and maintenance of the noncustodial parent's spouse (or former spouse) with whom the child is living if and to the extent that spousal support (with respect to such spouse or former spouse) would be included for purposes of section 654(4) of this title. At the option of the State,overdue support may include amounts which otherwise meet the definition in the first sentence of this subsection but which are owed to or on behalf of a child who is not a minor child. The option to include support owed to children who are not minors shall apply independently to each procedure specified under this section.
 
 #### (f) Uniform Interstate Family Support Act
 
-In order to satisfy section 654(20)(A) of this title, on and after January 1, 1998, each Statemust have in effect the Uniform Interstate Family Support Act, as approved by the American Bar Association on February 9, 1993, and as in effect on August 22, 1996, including any amendments officially adopted as of such date by the National Conference of Commissioners on Uniform State Laws.
+In order to satisfy section 654(20)(A) of this title, on and after January 1, 1998, each State must have in effect the Uniform Interstate Family Support Act, as approved by the American Bar Association on February 9, 1993, and as in effect on August 22, 1996, including any amendments officially adopted as of such date by the National Conference of Commissioners on Uniform State Laws.
 
 #### (g) Laws voiding fraudulent transfers
 
@@ -578,7 +578,7 @@ October 13, 1988, referred to in subsec. (b)(3)(A), was in the original “the d
 
 #### Amendments
 
-2006—Subsec. (a)(10)(A)(i). Pub. L. 109–171, §7302(a), in introductory provisions, substituted “parent or” for “parent, or,” and struck out “upon the request of the State agency under the State plan or of either parent,” after “under part A of this subchapter,”.
+<b>2006</b>—Subsec. (a)(10)(A)(i). Pub. L. 109–171, §7302(a), in introductory provisions, substituted “parent or” for “parent, or,” and struck out “upon the request of the State agency under the State plan or of either parent,” after “under part A of this subchapter,”.
 
 Subsec. (a)(14)(A)(iii). Pub. L. 109–171, §7301(g), inserted “(but the assisting State may establish a corresponding case based on such other State's request for assistance)” before semicolon.
 
@@ -594,19 +594,19 @@ Subsec. (a)(19)(B)(iv). Pub. L. 109–171, §7307(a)(2)(A)(ii)(II)(aa), struck o
 
 Subsec. (a)(19)(C). Pub. L. 109–171, §7307(a)(2)(A)(ii)(III), substituted “obligated” for “noncustodial” in two places.
 
-1999—Subsec. (a)(7)(A). Pub. L. 106–169, §401(m), substituted “1681a(f) of title 15)” for “1681a(f) of title 15”.
+<b>1999</b>—Subsec. (a)(7)(A). Pub. L. 106–169, §401(m), substituted “1681a(f) of title 15)” for “1681a(f) of title 15”.
 
 Subsec. (b)(6)(A)(i). Pub. L. 106–169, §401(n), substituted “State of the obligor's” for “state of the obligor's” in introductory provisions.
 
 Subsec. (c)(2)(A)(i). Pub. L. 106–169, §401(f), substituted “social security” for “Social Security”.
 
-1998—Subsec. (a)(14)(B). Pub. L. 105–200, §404(a), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “In this part, the term ‘high-volume automated administrative enforcement’ means the use of automatic data processing to search various State data bases, including license records, employment service data, and State new hire registries, to determine whether information is available regarding a parent who owes a child support obligation.”
+<b>1998</b>—Subsec. (a)(14)(B). Pub. L. 105–200, §404(a), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “In this part, the term ‘high-volume automated administrative enforcement’ means the use of automatic data processing to search various State data bases, including license records, employment service data, and State new hire registries, to determine whether information is available regarding a parent who owes a child support obligation.”
 
 Subsec. (a)(17)(A)(i). Pub. L. 105–200, §406(a), inserted “and the Federal Parent Locator Service in the case of financial institutions doing business in two or more States,” before “a data match system”.
 
-Subsec. (a)(19). Pub. L. 105–200, §401(c)(1), amended heading and text of par. (19) generally. Prior to amendment, text read as follows: “Procedures under which all child support orders enforced pursuant to this part shall include a provision for the health care coverage of the child, and in the case in which a noncustodial parent provides such coverage and changes employment, and the new employer provides health care coverage, the State agency shall transfer notice of the provision to the employer, which notice shall operate to enroll the child in the noncustodial parent's health plan, unless the noncustodial parent contests the notice.”
+Subsec. (a)(19). Pub. L. 105–200, §401(c)(1), amended heading and text of par. (19) generally. Prior to amendment, text read as follows: “Procedures under which all child support orders enforced pursuant to this part shall include a provision for the health care coverage ofthe child, and in the case in which a noncustodial parent provides such coverage and changes employment, and the new employer provides health care coverage, the State agency shall transfer notice of the provision to the employer, which notice shall operate to enroll the child in the noncustodial parent's health plan, unless the noncustodial parent contests the notice.”
 
-1997—Subsec. (a)(1)(B). Pub. L. 105–33, §5556(e), substituted “January 1, 1994” for “October 1, 1996”.
+<b>1997</b>—Subsec. (a)(1)(B). Pub. L. 105–33, §5556(e), substituted “January 1, 1994” for “October 1, 1996”.
 
 Subsec. (a)(3)(B). Pub. L. 105–33, §5532(i)(2), substituted “section 657” for “section 657(b)(4) or (d)(3)”.
 
@@ -636,7 +636,7 @@ Subsec. (c)(2)(A)(ii). Pub. L. 105–33, §5538(2)(B), substituted “court or a
 
 Subsec. (f). Pub. L. 105–33, §5537, substituted “and as in effect on August 22, 1996, including any amendments officially adopted as of such date by the National Conference of Commissioners on Uniform State Laws.” for “together with any amendments officially adopted before January 1, 1998 by the National Conference of Commissioners on Uniform State Laws.”
 
-1996—Subsec. (a). Pub. L. 104–193, §§365(b), 395(d)(1)(H), in closing provisions, substituted “(7), and (15)” for “and (7)” and “noncustodial parent” for “absent parent”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–193, §§365(b), 395(d)(1)(H), in closing provisions, substituted “(7), and (15)” for “and (7)” and “noncustodial parent” for “absent parent”.
 
 Subsec. (a)(1). Pub. L. 104–193, §314(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Procedures described in subsection (b) of this section for the withholding from income of amounts payable as support.”
 
@@ -730,17 +730,17 @@ Subsec. (f). Pub. L. 104–193, §321, added subsec. (f).
 
 Subsec. (g). Pub. L. 104–193, §364, added subsec. (g).
 
-1994—Subsec. (a)(7). Pub. L. 103–432, §212(a)(1), substituted “Procedures which require the State to periodically report to consumer reporting agencies (as defined in section 1681a(f) of title 15) the name of any parent who owes overdue support and is at least 2 months delinquent in the payment of such support and the amount of such delinquency” for “Procedures by which information regarding the amount of overdue support owed by an absent parent residing in the State will be made available to any consumer reporting agency (as defined in section 1681a(f) of title 15) upon the request of such agency”.
+<b>1994</b>—Subsec. (a)(7). Pub. L. 103–432, §212(a)(1), substituted “Procedures which require the State to periodically report to consumer reporting agencies (as defined in section 1681a(f) of title 15) the name of any parent who owes overdue support and is at least 2 months delinquent in the payment of such support and the amount of such delinquency” for “Procedures by which information regarding the amount of overdue support owed by an absent parent residing in the State will be made available to any consumer reporting agency (as defined in section 1681a(f) of title 15) upon the request of such agency”.
 
 Subsec. (a)(7)(C). Pub. L. 103–432, §212(a)(2), substituted “(C) such information shall not be made available to (i) a consumer reporting agency which the State determines does not have sufficient capability to systematically and timely make accurate use of such information, or (ii) an entity which has not furnished evidence satisfactory to the State that the entity is a consumer reporting agency” for “(C) a fee for furnishing such information, in an amount not exceeding the actual cost thereof, may be imposed on the requesting agency by the State”.
 
-1993—Subsec. (a)(2). Pub. L. 103–66, §13721(b)(1), struck out “at the option of the State,” after “and (B)” and inserted “or paternity establishment” after “support order issuance and enforcement”.
+<b>1993</b>—Subsec. (a)(2). Pub. L. 103–66, §13721(b)(1), struck out “at the option of the State,” after “and (B)” and inserted “or paternity establishment” after “support order issuance and enforcement”.
 
 Subsec. (a)(5)(C) to (H). Pub. L. 103–66, §13721(b)(2), added subpars. (C) to (H).
 
 Subsec. (a)(11). Pub. L. 103–66, §13721(b)(3), added par. (11).
 
-1988—Subsec. (a)(5). Pub. L. 100–485, §111(b), designated existing provisions as subpar. (A) and added subpar. (B).
+<b>1988</b>—Subsec. (a)(5). Pub. L. 100–485, §111(b), designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (a)(5)(A). Pub. L. 100–485, §111(e), as amended by Pub. L. 100–647, designated existing provisions as cl. (i) and added cl. (ii).
 
@@ -756,7 +756,7 @@ Subsec. (b)(3). Pub. L. 100–485, §101(a), amended par. (3) generally. Prior t
 
 &emsp;“(C) such earlier date as the State may select.”
 
-1986—Subsec. (a)(9). Pub. L. 99–509 added par. (9).
+<b>1986</b>—Subsec. (a)(9). Pub. L. 99–509 added par. (9).
 
 #### Effective Date of 2006 Amendment
 
@@ -816,7 +816,7 @@ Section 9103(b) of Pub. L. 99–509 provided that:
 
 “(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall become effective on the date of the enactment of this Act \[Oct. 21, 1986\].
 
-“(2) In the case of a State with respect to which the Secretary of Health and Human Services has determined that State legislation is required in order to conform the State plan approved under part D of title IV of the Social Security Act \[this part\] to the requirements imposed by the amendment made by subsection (a) \[amending this section\], the State plan shall not be regarded as failing to comply with the requirements of such part solely by reason of its failure to meet the requirements imposed by such amendment prior to the beginning of the fourth month beginning after the end of the first session of the State legislature which ends on or after the date of the enactment of this Act \[Oct. 21, 1986\]. For purposes of the preceding sentence, the term ‘session’ means a regular, special, budget, or other session of a State legislature.”
+“(2) In the case of a State with respect to which the Secretary of Health and Human Services has determined that State legislation is required in order to conform the State plan approved under part D of title IV of the Social Security Act \[this part\] to the requirements imposed by the amendment made by subsection (a) \[amending this section\], the State plan shall not be regarded as failing to comply with the requirements of such part solely by reason of its failure to meet the requirements imposed by such amendment prior to the beginning of the fourth month beginning after the endof the first session of the State legislature which ends on or after the date of the enactment of this Act \[Oct. 21, 1986\]. For purposes of the preceding sentence, the term ‘session’ means a regular, special, budget, or other session of a State legislature.”
 
 #### Effective Date
 

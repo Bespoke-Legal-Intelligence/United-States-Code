@@ -322,21 +322,21 @@ The volume cap of any issuing authority for any calendar year shall be reduced b
 
 #### Amendments
 
-2008—Subsec. (d)(5). Pub. L. 110–289, §3021(a)(1), added par. (5).
+<b>2008</b>—Subsec. (d)(5). Pub. L. 110–289, §3021(a)(1), added par. (5).
 
 Subsec. (f)(6). Pub. L. 110–289, §3021(a)(2), added par. (6).
 
 Subsec. (i)(6). Pub. L. 110–289, §3007(a), added par. (6).
 
-2005—Subsec. (g)(3). Pub. L. 109–59 substituted “(14), or (15) of section 142(a), and” for “or (14) of section 142(a) (relating to airports, docks and wharves, environmental enhancements of hydroelectric generating facilities, qualified public educational facilities, and qualified green building and sustainable design projects), and”.
+<b>2005</b>—Subsec. (g)(3). Pub. L. 109–59 substituted “(14), or (15) of section 142(a), and” for “or (14) of section 142(a) (relating to airports, docks and wharves, environmental enhancements of hydroelectric generating facilities, qualified public educational facilities, and qualified green building and sustainable design projects), and”.
 
-2004—Subsec. (g)(3). Pub. L. 108–357 substituted “(13), or (14)” for “or (13)” and “qualified public educational facilities, and qualified green building and sustainable design projects” for “and qualified public educational facilities”.
+<b>2004</b>—Subsec. (g)(3). Pub. L. 108–357 substituted “(13), or (14)” for “or (13)” and “qualified public educational facilities, and qualified green building and sustainable design projects” for “and qualified public educational facilities”.
 
-2001—Subsec. (g)(3). Pub. L. 107–16, §§422(c), 901, temporarily substituted “(12), or (13)” for “or (12)” and “environmental enhancements of hydroelectric generating facilities, and qualified public educational facilities” for “and environmental enhancements of hydroelectric generating facilities”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (g)(3). Pub. L. 107–16, §§422(c), 901, temporarily substituted “(12), or (13)” for “or (12)” and “environmental enhancements of hydroelectric generating facilities, and qualified public educational facilities” for “and environmental enhancements of hydroelectric generating facilities”. See Effective and Termination Dates of 2001 Amendment note below.
 
-2000—Subsec. (d)(1), (2). Pub. L. 106–554 amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) provided for State ceilings based on the per capita limits and aggregate limits set out in an included table.
+<b>2000</b>—Subsec. (d)(1), (2). Pub. L. 106–554 amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) provided for State ceilings based on the per capita limits and aggregate limits set out in an included table.
 
-1998—Subsec. (d)(1). Pub. L. 105–277 added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The State ceiling applicable to any State for any calendar year shall be the greater of—
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–277 added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The State ceiling applicable to any State for any calendar year shall be the greater of—
 
 &emsp;“(A) an amount equal to $75 multiplied by the State population, or
 
@@ -350,13 +350,13 @@ Subsec. (d)(2). Pub. L. 105–277 added par. (2) and struck out heading and text
 
 &emsp;“(B) ‘$150,000,000’ for ‘$250,000,000’.”
 
-1993—Subsec. (g). Pub. L. 103–66, which directed the amendment of par. (4) by adding at the end thereof the following flush sentence: “Paragraph (4) shall be applied without regard to ‘75 percent of’ if all of the property to be financed by the net proceeds of the issue is to be owned by a governmental unit (within the meaning of section 142(b)(1)).”, was executed by inserting the sentence at the end of subsec. (g), to reflect the probable intent of Congress.
+<b>1993</b>—Subsec. (g). Pub. L. 103–66, which directed the amendment of par. (4) by adding at the end thereof the following flush sentence: “Paragraph (4) shall be applied without regard to ‘75 percent of’ if all of the property to be financed by the net proceeds of the issue is to be owned by a governmental unit (within the meaning of section 142(b)(1)).”, was executed by inserting the sentence at the end of subsec. (g), to reflect the probable intent of Congress.
 
-1992—Subsec. (g)(3). Pub. L. 102–486 substituted “, (2), or (12)” for “or (2)” and “, docks and wharves, and environmental enhancements of hydroelectric generating facilities” for “and docks and wharves”.
+<b>1992</b>—Subsec. (g)(3). Pub. L. 102–486 substituted “, (2), or (12)” for “or (2)” and “, docks and wharves, and environmental enhancements of hydroelectric generating facilities” for “and docks and wharves”.
 
-1989—Subsec. (g)(3), (4). Pub. L. 101–239 redesignated par. (3), relating to exempt facility bonds issued as part of an issue described in par. (11) of section 142(a), as (4).
+<b>1989</b>—Subsec. (g)(3), (4). Pub. L. 101–239 redesignated par. (3), relating to exempt facility bonds issued as part of an issue described in par. (11) of section 142(a), as (4).
 
-1988—Subsec. (d)(4)(B). Pub. L. 100–647, §1013(a)(40), substituted “respect to a” for “respect a”.
+<b>1988</b>—Subsec. (d)(4)(B). Pub. L. 100–647, §1013(a)(40), substituted “respect to a” for “respect a”.
 
 Subsec. (f)(5)(A). Pub. L. 100–647, §1013(a)(9), amended subpar. (A) generally, as in effect before amendment by Pub. L. 100–203. Before amendment by Pub. L. 100–203, subpar. (A) read as follows: “the purpose of issuing bonds referred to in one of the clauses of section 141(d)(1)(A),”.
 
@@ -372,7 +372,7 @@ Subsec. (k)(1). Pub. L. 100–647, §1013(a)(10)(A), substituted “paragraphs (
 
 Subsec. (k)(3). Pub. L. 100–647, §1013(a)(10)(B), added par. (3).
 
-1987—Subsec. (f)(5)(A). Pub. L. 100–203 amended subpar. (A) generally, as amended by Pub. L. 100–647, §1013(a)(9), restating it without change. See 1988 Amendment note above.
+<b>1987</b>—Subsec. (f)(5)(A). Pub. L. 100–203 amended subpar. (A) generally, as amended by Pub. L. 100–647, §1013(a)(9), restating it without change. See 1988 Amendment note above.
 
 #### Effective Date of 2008 Amendment
 
@@ -392,7 +392,7 @@ Amendment by Pub. L. 108–357 applicable to bonds issued after Dec. 31, 2004, s
 
 Amendment by Pub. L. 107–16 applicable to bonds issued after Dec. 31, 2001, see section 422(f) of Pub. L. 107–16, set out as a note under section 142 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 2000 Amendment
 

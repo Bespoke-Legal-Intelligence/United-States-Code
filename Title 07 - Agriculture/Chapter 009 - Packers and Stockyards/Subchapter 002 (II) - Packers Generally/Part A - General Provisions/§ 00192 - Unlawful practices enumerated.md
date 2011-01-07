@@ -1,6 +1,6 @@
 ### §192. Unlawful practices enumerated
 
-It shall be unlawful for any packer or swine contractor with respect to livestock, meats, meat food products, or livestock products in unmanufactured form, or for any live poultry dealer with respect to live poultry, to:
+It shall be unlawful for any packer or swine contractor with respect to livestock, meats,meat food products, or livestock products in unmanufactured form, or for any live poultry dealer with respect to live poultry, to:
 
 (a) Engage in or use any unfair, unjustly discriminatory, or deceptive practice or device; or
 
@@ -44,7 +44,7 @@ Par. (c). Pub. L. 100–173, §3(2), struck out reference to poultry handlers wh
 
 #### Termination Date of 1999 Amendment
 
-Amendment by Pub. L. 106–78 to terminate Sept. 30, 2010, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under section 1635 of this title.
+Amendment by Pub. L. 106–78 to terminate Sept. 30, 2015, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under section 1635 of this title.
 
 #### Effective Date of 1987 Amendment
 

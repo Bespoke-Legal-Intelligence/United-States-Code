@@ -6,7 +6,7 @@ In a case in which DNA testing implicates an identified person in the commission
 
 #### Amendments
 
-2006—Pub. L. 109–162 struck out “except for a felony offense under chapter 109A,” before “no statute of limitations”.
+<b>2006</b>—Pub. L. 109–162 struck out “except for a felony offense under chapter 109A,” before “no statute of limitations”.
 
 #### Effective Date
 

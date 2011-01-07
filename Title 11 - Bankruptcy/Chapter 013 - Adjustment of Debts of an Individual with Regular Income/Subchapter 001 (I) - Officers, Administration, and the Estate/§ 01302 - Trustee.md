@@ -4,7 +4,7 @@
 
 (b) The trustee shall—
 
-&emsp;(1) perform the duties specified in sections 704(2), 704(3), 704(4), 704(5), 704(6), 704(7), and 704(9) of this title;
+&emsp;(1) perform the duties specified in sections 704(a)(2), 704(a)(3), 704(a)(4), 704(a)(5), 704(a)(6), 704(a)(7), and 704(a)(9) of this title;
 
 &emsp;(2) appear and be heard at any hearing that concerns—
 
@@ -34,7 +34,7 @@
 
 &emsp;(ii) include in the notice provided under clause (i) the name, address, and telephone number of such holder; and
 
-&emsp;(C) at such time as the debtor is granted a discharge under section 1328, provide written notice to such holder and to such State child support enforcement agency of—
+&emsp;(C) at such time as the debtor is granted a discharge under section 1328, provide writtennotice to such holder and to such State child support enforcement agency of—
 
 &emsp;&emsp;(i) the granting of the discharge;
 
@@ -52,7 +52,7 @@
 
 (B) Notwithstanding any other provision of law, a creditor that makes a disclosure of a last known address of a debtor in connection with a request made under subparagraph (A) shall not be liable by reason of making that disclosure.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2645; Pub. L. 98–353, title III, §§314, 525, July 10, 1984, 98 Stat. 356, 388; Pub. L. 99–554, title II, §§228, 283(w), Oct. 27, 1986, 100 Stat. 3103, 3118; Pub. L. 103–394, title V, §501(d)(37), Oct. 22, 1994, 108 Stat. 4147; Pub. L. 109–8, title II, §219(d), Apr. 20, 2005, 119 Stat. 58.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2645; Pub. L. 98–353, title III, §§314, 525, July 10, 1984, 98 Stat. 356, 388; Pub. L. 99–554, title II, §§228, 283(w), Oct. 27, 1986, 100 Stat. 3103, 3118; Pub. L. 103–394, title V, §501(d)(37), Oct. 22, 1994, 108 Stat. 4147; Pub. L. 109–8, title II, §219(d), Apr. 20, 2005, 119 Stat. 58; Pub. L. 111–327, §2(a)(39), Dec. 22, 2010, 124 Stat. 3561.)
 
 #### Historical and Revision Notes
 
@@ -86,6 +86,8 @@ Sections 464 and 466 of the Social Security Act, referred to in subsec. (d)(1)(A
 
 #### Amendments
 
+2010—Subsec. (b)(1). Pub. L. 111–327 substituted “704(a)(2), 704(a)(3), 704(a)(4), 704(a)(5), 704(a)(6), 704(a)(7), and 704(a)(9)” for “704(2), 704(3), 704(4), 704(5), 704(6), 704(7), and 704(9)”.
+
 2005—Subsec. (b)(6). Pub. L. 109–8, §219(d)(1), added par. (6).
 
 Subsec. (d). Pub. L. 109–8, §219(d)(2), added subsec. (d).
@@ -108,7 +110,7 @@ Pub. L. 99–554, §228(2), struck out subsec. (e) which read as follows:
 
 “(2) Such individual shall collect such percentage fee from all payments under plans in the cases under this chapter for which such individual serves as standing trustee. Such individual shall pay annually to the Treasury—
 
-&emsp;“(A) any amount by which the actual compensation received by such individual exceeds five percent of all such payments made under plans in cases under this chapter for which such individual serves as standing trustee; and
+&emsp;“(A) any amount by which the actual compensation received by such individual exceeds five percent of all such payments made under plans in cases under thischapter for which such individual serves as standing trustee; and
 
 &emsp;“(B) any amount by which the percentage fee fixed under paragraph (1)(B) of this subsection for all such cases exceeds—
 

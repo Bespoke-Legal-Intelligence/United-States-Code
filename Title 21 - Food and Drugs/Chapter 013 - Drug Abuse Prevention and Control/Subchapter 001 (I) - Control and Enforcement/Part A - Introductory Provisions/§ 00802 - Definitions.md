@@ -42,7 +42,7 @@ As used in this subchapter:
 
 (13) The term “felony” means any Federal or State offense classified by applicable Federal or State law as a felony.
 
-(14) The term “isomer” means the optical isomer, except as used in schedule I(c) and schedule II(a)(4). As used in schedule I(c), the term “isomer” means any optical, positional, or geometric isomer. As used in schedule II(a)(4), the term “isomer” means any optical or geometric isomer.
+(14) The term “isomer” means the optical isomer, except as used in schedule I(c) and schedule II(a)(4). As used in schedule I(c), the term “isomer” means any optical, positional, or geometric isomer. As used in schedule II(a)(4), theterm “isomer” means any optical or geometric isomer.
 
 (15) The term “manufacture” means the production, preparation, propagation, compounding, or processing of a drug or other substance, either directly or indirectly or by extraction from substances of natural origin, or independently by means of chemical synthesis or by a combination of extraction and chemical synthesis, and includes any packaging or repackaging of such substance or labeling or relabeling of its container; except that such term does not include the preparation, compounding, packaging, or labeling of a drug or other substance in conformity with applicable State or local law by a practitioner as an incident to his administration or dispensing of such drug or substance in the course of his professional practice. The term “manufacturer” means a person who manufactures a drug or other substance.
 
@@ -100,7 +100,7 @@ As used in this subchapter:
 
 (30) The term “detoxification treatment” means the dispensing, for a period not in excess of one hundred and eighty days, of a narcotic drug in decreasing doses to an individual in order to alleviate adverse physiological or psychological effects incident to withdrawal from the continuous or sustained use of a narcotic drug and as a method of bringing the individual to a narcotic drug-free state within such period.
 
-(31) The term “Convention on Psychotropic Substances” means the Convention on Psychotropic Substances signed at Vienna, Austria, on February 21, 1971; and the term “Single Convention on Narcotic Drugs” means the Single Convention on Narcotic Drugs signed at New York, New York, on March 30, 1961.
+(31) The term “Convention on Psychotropic Substances” means the Convention on Psychotropic Substances signed at Vienna, Austria, onFebruary 21, 1971; and the term “Single Convention on Narcotic Drugs” means the Single Convention on Narcotic Drugs signed at New York, New York, on March 30, 1961.
 
 (32)(A) Except as provided in subparagraph (C), the term “controlled substance analogue” means a substance—
 
@@ -206,7 +206,7 @@ As used in this subchapter:
 
 (39) The term “regulated transaction” means—
 
-&emsp;(A) a distribution, receipt, sale, importation, or exportation of, or an international transaction involving shipment of, a listed chemical, or if the Attorney General establishes a threshold amount for a specific listed chemical, a threshold amount, including a cumulative threshold amount for multiple transactions (as determined by the Attorney General, in consultation with the chemical industry and taking into consideration the quantities normally used for lawful purposes), of a listed chemical, except that such term does not include—
+&emsp;(A) a distribution, receipt, sale, importation, or exportation of, or an international transaction involving shipment of, a listed chemical, or if the Attorney General establishes a threshold amount for a specific listed chemical, a threshold amount, including a cumulative threshold amount for multiple transactions (as determined by the Attorney General, in consultation with the chemical industry and taking into consideration the quantities normally used for lawful purposes), of alisted chemical, except that such term does not include—
 
 &emsp;&emsp;(i) a domestic lawful distribution in the usual course of business between agents or employees of a single regulated person;
 
@@ -526,7 +526,7 @@ As used in this subchapter:
 
 &emsp;(C) the practitioner, acting in the usual course of professional practice, determines there is a legitimate medical purpose for the issuance of the new prescription.
 
-(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, §2(a), Oct. 22, 2004, 118 Stat. 1661; Pub. L. 109–162, title XI, §1180, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 109–177, title VII, §§711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, 120 Stat. 256, 257, 263; Pub. L. 110–425, §3(a), Oct. 15, 2008, 122 Stat. 4821.)
+(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II,§507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, §2(a), Oct. 22, 2004, 118 Stat. 1661; Pub. L. 109–162, title XI, §1180, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 109–177, title VII, §§711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, 120 Stat. 256, 257, 263; Pub. L. 110–425, §3(a), Oct. 15, 2008, 122 Stat. 4821.)
 
 #### References in Text
 
@@ -542,9 +542,9 @@ The Indian Self-Determination and Education Assistance Act, referred to in pars.
 
 #### Amendments
 
-2008—Pars. (50) to (56). Pub. L. 110–425 added pars. (50) to (56).
+<b>2008</b>—Pars. (50) to (56). Pub. L. 110–425 added pars. (50) to (56).
 
-2006—Par. (39)(A)(iv). Pub. L. 109–177, §712(a)(1)(A)(i), amended cl. (iv) generally. Prior to amendment, cl. (iv) related to transactions involving drugs containing ephedrine, pseudoephedrine, or phenylpropanolamine.
+<b>2006</b>—Par. (39)(A)(iv). Pub. L. 109–177, §712(a)(1)(A)(i), amended cl. (iv) generally. Prior to amendment, cl. (iv) related to transactions involving drugs containing ephedrine, pseudoephedrine, or phenylpropanolamine.
 
 Par. (39)(A)(v), (vi). Pub. L. 109–177, §712(a)(1)(A)(ii), (iii), added cl. (v) and redesignated former cl. (v) as (vi).
 
@@ -558,13 +558,13 @@ Pars. (46) to (48). Pub. L. 109–177, §§711(a)(1)(B), added pars. (46) to (48
 
 Par. (49). Pub. L. 109–177, §711(a)(1)(A), (2)(A), redesignated par. (46) as (49), substituted “ephedrine, pseudoephedrine, or” for “pseudoephedrine or” in subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “For purposes of this paragraph, sale for personal use means the sale of below-threshold quantities in a single transaction to an individual for legitimate medical use.”
 
-2004—Par. (41). Pub. L. 108–358, §2(a)(1), realigned margins, added subpar. (A), and struck out former subpar. (A) which defined “anabolic steroid”.
+<b>2004</b>—Par. (41). Pub. L. 108–358, §2(a)(1), realigned margins, added subpar. (A), and struck out former subpar. (A) which defined “anabolic steroid”.
 
 Par. (44). Pub. L. 108–358, §2(a)(2), inserted “anabolic steroids,” after “marihuana,”.
 
-2002—Pars. (43), (44). Pub. L. 107–273 repealed Pub. L. 104–294, §§604(b)(4), 607(j)(2). See 1996 Amendment note below.
+<b>2002</b>—Pars. (43), (44). Pub. L. 107–273 repealed Pub. L. 104–294, §§604(b)(4), 607(j)(2). See 1996 Amendment note below.
 
-2000—Par. (32)(A). Pub. L. 106–172, §5(a)(1), substituted “subparagraph (C)” for “subparagraph (B)” in introductory provisions.
+<b>2000</b>—Par. (32)(A). Pub. L. 106–172, §5(a)(1), substituted “subparagraph (C)” for “subparagraph (B)” in introductory provisions.
 
 Par. (32)(B), (C). Pub. L. 106–172, §5(a)(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
 
@@ -572,9 +572,9 @@ Par. (34)(X), (Y). Pub. L. 106–172, §3(c), added subpar. (X) and redesignated
 
 Par. (39)(A)(iv)(II). Pub. L. 106–310 substituted “9 grams” for “24 grams” in two places and inserted before semicolon at end “and sold in package sizes of not more than 3 grams of pseudoephedrine base or 3 grams of phenylpropanolamine base”.
 
-1997—Par. (9)(A). Pub. L. 105–115 redesignated cl. (i) as subpar. (A) and struck out cl. (ii) which read as follows: “any derivative of barbituric acid which has been designated by the Secretary as habit forming under section 352(d) of this title; or”.
+<b>1997</b>—Par. (9)(A). Pub. L. 105–115 redesignated cl. (i) as subpar. (A) and struck out cl. (ii) which read as follows: “any derivative of barbituric acid which has been designated by the Secretary as habit forming under section 352(d) of this title; or”.
 
-1996—Par. (26). Pub. L. 104–294, §607(j)(1), amended par. (26) generally. Prior to amendment, par. (26) read as follows: “The term ‘State’ means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and the Canal Zone.”
+<b>1996</b>—Par. (26). Pub. L. 104–294, §607(j)(1), amended par. (26) generally. Prior to amendment, par. (26) read as follows: “The term ‘State’ means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and the Canal Zone.”
 
 Par. (34)(P), (S), (U). Pub. L. 104–237, §209(1), substituted “Isosafrole” for “Insosafrole” in subpar. (P), “N-Methylephedrine” for “N-Methylepherdrine” in subpar. (S), and “Hydriodic acid” for “Hydriotic acid” in subpar. (U).
 
@@ -592,7 +592,7 @@ Pub. L. 104–237, §401(b)(3), redesignated par. (43), relating to felony drug 
 
 Pars. (45), (46). Pub. L. 104–237, §401(b)(4), added pars. (45) and (46).
 
-1994—Par. (34)(V), (W). Pub. L. 103–322, §330024(b), realigned margins and capitalized first letter.
+<b>1994</b>—Par. (34)(V), (W). Pub. L. 103–322, §330024(b), realigned margins and capitalized first letter.
 
 Par. (35). Pub. L. 103–322, §330024(d)(1), made technical correction to directory language of Pub. L. 103–200, §2(a)(4)(B). See 1993 Amendment note below.
 
@@ -600,7 +600,7 @@ Par. (39)(A)(iv)(II). Pub. L. 103–322, §330024(a), substituted “; or” fo
 
 Par. (43). Pub. L. 103–322, §90105(d), added par. (43) defining “felony drug offense”.
 
-1993—Par. (33). Pub. L. 103–200, §2(a)(1), substituted “any list I chemical or any list II chemical” for “any listed precursor chemical or listed essential chemical”.
+<b>1993</b>—Par. (33). Pub. L. 103–200, §2(a)(1), substituted “any list I chemical or any list II chemical” for “any listed precursor chemical or listed essential chemical”.
 
 Par. (34). Pub. L. 103–200, §2(a)(2), substituted “list I chemical” for “listed precursor chemical” and “important to the manufacture” for “critical to the creation” in introductory provisions.
 
@@ -642,7 +642,7 @@ Par. (40). Pub. L. 103–200, §2(a)(7), substituted “list I chemical or a lis
 
 Pars. (42), (43). Pub. L. 103–200, §2(a)(8), added pars. (42) and (43).
 
-1990—Par. (32)(A). Pub. L. 101–647, §3599I, substituted “the stimulant” for “the stimulent” in cl. (ii) and “a stimulant” for “a stimulent” in cl. (iii).
+<b>1990</b>—Par. (32)(A). Pub. L. 101–647, §3599I, substituted “the stimulant” for “the stimulent” in cl. (ii) and “a stimulant” for “a stimulent” in cl. (iii).
 
 Par. (34)(M) to (Y). Pub. L. 101–647, §2301(a), added subpars. (M) to (Y).
 
@@ -650,13 +650,13 @@ Par. (35)(E). Pub. L. 101–647, §2301(b), struck out subpar. (E) “Hydriodic 
 
 Par. (41). Pub. L. 101–647, §1902(b), added par. (41).
 
-1988—Par. (8). Pub. L. 100–690, §6054(1), inserted “or a listed chemical” after “a controlled substance”.
+<b>1988</b>—Par. (8). Pub. L. 100–690, §6054(1), inserted “or a listed chemical” after “a controlled substance”.
 
 Par. (11). Pub. L. 100–690, §6054(2), inserted “or a listed chemical” after “a controlled substance” in two places.
 
 Pars. (33) to (40). Pub. L. 100–690, §6054(3), added pars. (33) to (40).
 
-1986—Par. (6). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Par. (6). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 Par. (14). Pub. L. 99–570, §1870, and Pub. L. 99–646 amended par. (14) identically, substituting “any optical” for “the optical” in second and third sentences.
 
@@ -666,7 +666,7 @@ Pars. (26) to (31). Pub. L. 99–570, §1003(b)(2), redesignated pars. (25) to (
 
 Par. (32). Pub. L. 99–570, §1203, added par. (32).
 
-1984—Pars. (14) to (16). Pub. L. 98–473, §507(a), added par. (14) and redesignated former pars. (14) to (16) as (15) to (17), respectively.
+<b>1984</b>—Pars. (14) to (16). Pub. L. 98–473, §507(a), added par. (14) and redesignated former pars. (14) to (16) as (15) to (17), respectively.
 
 Par. (17). Pub. L. 98–473, §507, redesignated former par. (16) as (17), and expanded and revised definition of “narcotic drug”, including within term poppy straw, cocaine, and ecgonine. Former par. (17) redesignated (18).
 
@@ -678,11 +678,11 @@ Pub. L. 98–473, §507(a), redesignated former par. (28) as (29). Former par. (
 
 Par. (30). Pub. L. 98–473, §507(a), redesignated former par. (29) as (30).
 
-1979—Par. (4). Pub. L. 96–132 substituted provisions defining “Drug Enforcement Administration” for provisions defining “Bureau of Narcotics and Dangerous Drugs”.
+<b>1979</b>—Par. (4). Pub. L. 96–132 substituted provisions defining “Drug Enforcement Administration” for provisions defining “Bureau of Narcotics and Dangerous Drugs”.
 
-1978—Par. (29). Pub. L. 95–633 added par. (29).
+<b>1978</b>—Par. (29). Pub. L. 95–633 added par. (29).
 
-1974—Pars. (27), (28). Pub. L. 93–281 added pars. (27) and (28).
+<b>1974</b>—Pars. (27), (28). Pub. L. 93–281 added pars. (27) and (28).
 
 #### Change of Name
 
@@ -762,7 +762,7 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
 Pub. L. 110–425, §3(k)(1), Oct. 15, 2008, 122 Stat. 4833, provided that: “The Attorney General may promulgate and enforce any rules, regulations, and procedures which may be necessary and appropriate for the efficient execution of functions under this Act \[see Short Title of 2008 Amendment note set out under section 801 of this title\] or the amendments made by this Act, and, with the concurrence of the Secretary of Health and Human Services where this Act or the amendments made by this Act so provide, promulgate any interim rules necessary for the implementation of this Act or the amendments made by this Act, prior to its effective date \[see Effective Date of 2008 Amendment note above\].”
 
-Section 301(b) of Pub. L. 98–509 provided that: “The Secretary of Health and Human Services shall, within ninety days of the date of the enactment of this Act \[Oct. 19, 1984\], promulgate regulations for the administration of section 102(28) of the Controlled Substances Act \[21 U.S.C. 802(29)\] as amended by subsection (a) and shall include in the first report submitted under section 505(b) \[503(b)\] of the Public Health Service Act \[former 42 U.S.C. 290aa–2(b)\] after the expiration of such ninety days the findings of the Secretary with respect to the effect of the amendment made by subsection (a).”
+Section 301(b) of Pub. L. 98–509 provided that: “The Secretary of Health and Human Services shall, within ninety days of the date of the enactment of this Act \[Oct. 19, 1984\], promulgate regulations for the administration of section 102(28) of the Controlled Substances Act \[21 U.S.C. 802(29)\] as amended by subsection (a) and shall include in the first report submitted under section 505(b) \[503(b)\] of the Public Health Service Act \[former 42 U.S.C. 290aa–2(b)\] after the expiration ofsuch ninety days the findings of the Secretary with respect to the effect of the amendment made by subsection (a).”
 
 #### Construction of 2008 Amendment
 
@@ -818,7 +818,7 @@ In general.—Notwithstanding section 401(d) of the Comprehensive Methamphetamin
 
 &emsp;“(2)
 
-Due process.—The Attorney General shall establish the single-transaction limit under paragraph\(1) only after notice, comment, and an informal hearing.”
+Due process.—The Attorney General shall establish the single-transaction limit under paragraph (1) only after notice, comment, and an informal hearing.”
 
 #### Regulation of Retail Sales of Certain Precursor Chemicals; Effect on Thresholds; Combination Ephedrine Products
 

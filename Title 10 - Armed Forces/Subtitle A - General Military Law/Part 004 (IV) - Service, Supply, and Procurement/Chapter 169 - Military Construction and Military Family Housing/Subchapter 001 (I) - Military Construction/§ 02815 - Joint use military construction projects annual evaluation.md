@@ -16,5 +16,5 @@ Annual Evaluation.—In the case of the budget submitted under section 1105 of t
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–314 substituted “for any fiscal year” for “for fiscal year 2003 and each fiscal year thereafter”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–314 substituted “for any fiscal year” for “for fiscal year 2003 and each fiscal year thereafter”.
 

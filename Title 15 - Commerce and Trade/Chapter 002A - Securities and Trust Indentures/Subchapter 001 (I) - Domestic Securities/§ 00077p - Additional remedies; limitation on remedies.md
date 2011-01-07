@@ -104,7 +104,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### Amendments
 
-1998—Pub. L. 105–353 amended section catchline and text generally. Prior to amendment, text read as follows: “The rights and remedies provided by this subchapter shall be in addition to any and all other rights and remedies that may exist at law or in equity.”
+<b>1998</b>—Pub. L. 105–353 amended section catchline and text generally. Prior to amendment, text read as follows: “The rights and remedies provided by this subchapter shall be in addition to any and all other rights and remedies that may exist at law or in equity.”
 
 #### Effective Date of 1998 Amendment
 

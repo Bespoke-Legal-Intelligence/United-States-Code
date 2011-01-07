@@ -12,7 +12,7 @@ Unless a registration statement is in effect as to a security, it shall be unlaw
 
 It shall be unlawful for any person, directly or indirectly—
 
-&emsp;(1) to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to carry ortransmit any prospectus relating to any security with respect to which a registration statement has been filed under this subchapter, unless such prospectus meets the requirements of section 77j of this title; or
+&emsp;(1) to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to carry or transmit any prospectus relating to any security with respect to which a registration statement has been filed under this subchapter, unless such prospectus meets the requirements of section 77j of this title; or
 
 &emsp;(2) to carry or cause to be carried through the mails or in interstate commerce any such security for the purpose of sale or for delivery after sale, unless accompanied or preceded by a prospectus that meets the requirements of subsection (a) of section 77j of this title.
 
@@ -20,17 +20,29 @@ It shall be unlawful for any person, directly or indirectly—
 
 It shall be unlawful for any person, directly or indirectly, to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to offer to sell or offer to buy through the use or medium of any prospectus or otherwise any security, unless a registration statement has been filed as to such security, or while the registration statement is the subject of a refusal order or stop order or (prior to the effective date of the registration statement) any public proceeding or examination under section 77h of this title.
 
-(May 27, 1933, ch. 38, title I, §5, 48 Stat. 77; June 6, 1934, ch. 404, title II, §204, 48 Stat. 906; Aug. 10, 1954, ch. 667, title I, §7, 68 Stat. 684.)
+(May 27, 1933, ch. 38, title I, §5, 48 Stat. 77; June 6, 1934, ch. 404, title II, §204, 48 Stat. 906; Aug. 10, 1954, ch. 667, title I, §7, 68 Stat. 684; Pub. L.111–203, title VII, §768(b), July 21, 2010, 124 Stat. 1801.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title VII, §§768(b), 774, July 21, 2010, 124 Stat. 1801, 1802, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, this section is amended by adding at the end the following:</i>
+
+#### <i>(d) Security-based swaps</i>
+
+<i>Notwithstanding the provisions of section 77c or 77d of this title, unless a registration statement meeting the requirements of section 77j(a) of this title is in effect as to a security-based swap, it shall be unlawful for any person, directly or indirectly, to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to offer to sell, offer to buy or purchase or sell a security-based swap to any person who is not an eligible contract participant as defined in section 1a(18) of title 7.</i>
 
 #### Amendments
 
-1954—Subsec. (a)(1). Act Aug. 10, 1954, struck out “or offer to buy” after “to sell”.
+<b>1954</b>—Subsec. (a)(1). Act Aug. 10, 1954, struck out “or offer to buy” after “to sell”.
 
 Subsec. (b). Act Aug. 10, 1954, in par. (1) substituted “with respect to which a registration statement has been filed” for “registered” and in par. (2) omitted “to” after “to carry or” and inserted “subsection (a) of” before “section 77j of this title”.
 
 Subsec. (c). Act Aug. 10, 1954, added subsec. (c).
 
-1934—Act June 6, 1934, repealed subsec. (c), the provisions of which were replaced by section 77c(a)(11) of this title.
+<b>1934</b>—Act June 6, 1934, repealed subsec. (c), the provisions of which were replaced by section 77c(a)(11) of this title.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
 
 #### Effective Date of 1954 Amendment
 

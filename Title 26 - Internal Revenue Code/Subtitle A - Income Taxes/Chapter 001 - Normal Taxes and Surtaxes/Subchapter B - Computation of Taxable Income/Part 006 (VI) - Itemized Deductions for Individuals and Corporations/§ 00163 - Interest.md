@@ -80,7 +80,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 &emsp;&emsp;&emsp;(iii) so much of the net capital gain referred to in clause (ii)(II) (or, if lesser, the net gain referred to in clause (ii)(I)) as the taxpayer elects to take into account under this clause.
 
-> &emsp;&emsp;Such term shall include qualified dividend income (as defined in section 1(h)(11)(B)) only to the extent the taxpayer elects to treat such income as investment income for purposes of this subsection.
+> &emsp;&emsp;Such term shall include qualified dividend income (as defined in section 1(h)(11)(B))only to the extent the taxpayer elects to treat such income as investment income for purposes of this subsection.
 
 #### (C) Investment expenses
 
@@ -92,7 +92,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 #### (E) Reduction in investment income during phase-in of passive loss rules
 
-&emsp;&emsp;Investment income of the taxpayer for any taxable year shall be reduced by the amount of the passive activity loss to which section469(a) does not apply for such taxable year by reason of section 469(m). The preceding sentence shall not apply to any portion of such passive activity loss which is attributable to a rental real estate activity with respect to which the taxpayer actively participates (within the meaning of section 469(i)(6)) during such taxable year.
+&emsp;&emsp;Investment income of the taxpayer for any taxable year shall be reduced by the amount of the passive activity loss to which section 469(a) does not apply for such taxable year by reason of section 469(m). The preceding sentence shall not apply to any portion of such passive activity loss which is attributable to a rental real estate activity with respect to which the taxpayer actively participates (within the meaning of section 469(i)(6)) during such taxable year.
 
 #### (5) Property held for investment
 
@@ -189,7 +189,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 #### (A) In general
 
-&emsp;&emsp;If any debt instrument having original issue discount is held by a related foreign person, any portion of such original issue discount shall not be allowable as a deduction to the issuer until paid. The preceding sentence shall not apply to the extent that the original issue discount is effectively connected with the conduct by such foreign related person of a trade or business within the United States unless such original issue discount is exempt from taxation (or is subject to a reduced rate of tax) pursuant to a treaty obligation of the United States.
+&emsp;&emsp;If any debt instrument having original issue discount is held by a related foreignperson, any portion of such original issue discount shall not be allowable as a deduction to the issuer until paid. The preceding sentence shall not apply to the extent that the original issue discount is effectively connected with the conduct by such foreign related person of a trade or business within the United States unless such original issue discount is exempt from taxation (or is subject to a reduced rate of tax) pursuant to a treaty obligation of the United States.
 
 #### (B) Special rule for certain foreign entities
 
@@ -263,13 +263,13 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 #### (E) Effect on earnings and profits
 
-&emsp;&emsp;This paragraph shall not apply for purposes of determining earnings and profits; except that, for purposes of determining the dividend equivalent portion of any amount includible in gross income under section 1272(a) in respect of an applicable high yield discount obligation, no reduction shall be made for any amount attributable to the disqualified portion of any original issue discount on such obligation.
+&emsp;&emsp;This paragraph shall not apply for purposes of determining earnings and profits; except that, for purposes of determining thedividend equivalent portion of any amount includible in gross income under section 1272(a) in respect of an applicable high yield discount obligation, no reduction shall be made for any amount attributable to the disqualified portion of any original issue discount on such obligation.
 
 #### (F) Suspension of application of paragraph
 
 #### (i) Temporary suspension
 
-&emsp;&emsp;&emsp;This paragraph shall not apply to any applicable high yield discount obligation issued during the period beginning on September 1, 2008, and ending on December 31, 2009, in exchange (including an exchange resulting from a modification of the debt instrument) for an obligation which is not an applicable high yield discount obligation and the issuer (or obligor) of which is the same as the issuer (or obligor) of suchapplicable high yield discount obligation. The preceding sentence shall not apply to any obligation the interest on which is interest described in section 871(h)(4) (without regard to subparagraph (D) thereof) or to any obligation issued to a related person (within the meaning of section 108(e)(4)).
+&emsp;&emsp;&emsp;This paragraph shall not apply to any applicable high yield discount obligation issued during the period beginning on September 1, 2008, and ending on December 31, 2009, in exchange (including an exchange resulting from a modification of the debt instrument) for an obligation which is not an applicable high yield discount obligation and the issuer (or obligor) of which is the same as the issuer (or obligor) of such applicable high yield discount obligation. The preceding sentence shall not apply to any obligation the interest on which is interest described in section 871(h)(4) (without regard to subparagraph (D) thereof) or to any obligation issued to a related person (within the meaning of section 108(e)(4)).
 
 #### (ii) Successive application
 
@@ -353,7 +353,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;For purposes of this subsection, the term “personal interest” means any interest allowable as a deduction under this chapter other than—
 
-&emsp;&emsp;(A) interest paid or accrued on indebtedness properly allocable to a trade or business (other than the trade or business of performing services as an employee),
+&emsp;&emsp;(A) interest paid or accrued on indebtedness properly allocable to a trade or business\(other than the trade or business of performing services as an employee),
 
 &emsp;&emsp;(B) any investment interest (within the meaning of subsection (d)),
 
@@ -447,7 +447,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (ii) Phaseout
 
-&emsp;&emsp;&emsp;The amount otherwise treated as interest under clause (i) shall be reduced (but not below zero) by 10 percent of such amount for each $1,000 ($500 in the case of a married individual filing a separate return) (or fraction thereof) that the taxpayer's adjusted gross income for the taxable year exceeds $100,000 ($50,000 in the case of a married individual filing a separate return).
+&emsp;&emsp;&emsp;The amount otherwise treated as interest under clause (i) shall be reduced (butnot below zero) by 10 percent of such amount for each $1,000 ($500 in the case of a married individual filing a separate return) (or fraction thereof) that the taxpayer's adjusted gross income for the taxable year exceeds $100,000 ($50,000 in the case of a married individual filing a separate return).
 
 #### (iii) Limitation
 
@@ -457,7 +457,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;&emsp;&emsp;Clause (i) shall not apply to amounts—
 
-&emsp;&emsp;&emsp;&emsp;(I) paid or accrued after December 31, 2010, or
+&emsp;&emsp;&emsp;&emsp;(I) paid or accrued after December 31, 2011, or
 
 &emsp;&emsp;&emsp;&emsp;(II) properly allocable to any period after such date.
 
@@ -531,7 +531,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;&emsp;(C) such instrument has significant original issue discount.
 
-> &emsp;For purposes of subparagraph (B)(i), the Secretary may by regulation (i) permit a rate to be used with respect to any debt instrument which is higher than the applicable Federal rate if the taxpayer establishes to the satisfaction of the Secretary that such higher rate is based on the same principles as the applicable Federal rate and is appropriate for the term of the instrument, or (ii) permit, on a temporary basis, a rate to be used with respect to any debt instrument which is higher than the applicable Federal rate if the Secretary determines that such rate is appropriate in light ofdistressed conditions in the debt capital markets.
+> &emsp;For purposes of subparagraph (B)(i), the Secretary may by regulation (i) permit a rate to be used with respect to any debt instrument which is higher than the applicable Federal rate if the taxpayer establishes to the satisfaction of the Secretary that such higher rate is based on the same principles as the applicable Federal rate and is appropriate for the term of the instrument, or (ii) permit, on a temporary basis, a rate to be used with respect to any debt instrument which is higher than the applicable Federal rate if the Secretary determines that such rate is appropriate in light of distressed conditions in the debt capital markets.
 
 #### (2) Significant original issue discount
 
@@ -601,7 +601,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (ii) Excess limitation carryforward
 
-&emsp;&emsp;&emsp;If a corporation has an excess limitation for any taxable year, the amount of such excess limitation shall be an excess limitation carryforward to the 1st succeeding taxable year and to the 2nd and 3rd succeeding taxable years to the extent not previously taken into account under this clause. The amount of such a carryforward taken into account for any such succeeding taxable year shall not exceed the excess interest expense for such succeeding taxable year (determined without regard to the carryforward from the taxable year of such excess limitation).
+&emsp;&emsp;&emsp;If a corporation has an excess limitation for any taxable year, the amount of such excess limitation shall be an excess limitation carryforward to the 1st succeeding taxable year and to the 2nd and 3rd succeeding taxable years to the extent not previously taken into account under this clause. The amount of such a carryforward taken into account for any such succeeding taxable year shall not exceed the excess interest expense for such succeedingtaxable year (determined without regard to the carryforward from the taxable year of such excess limitation).
 
 #### (iii) Excess limitation
 
@@ -613,7 +613,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (C) Ratio of debt to equity
 
-&emsp;&emsp;For purposes of this paragraph, the term “ratio of debt to equity” means the ratio which the total indebtedness of the corporation bears to the sum of its money and all other assets reduced (but not below zero) bysuch total indebtedness. For purposes of the preceding sentence—
+&emsp;&emsp;For purposes of this paragraph, the term “ratio of debt to equity” means the ratio which the total indebtedness of the corporation bears to the sum of its money and all other assets reduced (but not below zero) by such total indebtedness. For purposes of the preceding sentence—
 
 &emsp;&emsp;&emsp;(i) the amount taken into account with respect to any asset shall be the adjusted basis thereof for purposes of determining gain,
 
@@ -783,7 +783,7 @@ No deduction shall be allowed under this section for any interest payable under 
 
 &emsp;&emsp;(B) a substantial amount of the principal or interest is required to be determined, or at the option of the issuer or a related party is determined, by reference to the value of such equity, or
 
-&emsp;&emsp;(C) the indebtedness is part of an arrangement which is reasonably expected to result in a transaction described in subparagraph (A) or (B).
+&emsp;&emsp;(C) the indebtedness is part of an arrangement which is reasonably expected to resultin a transaction described in subparagraph (A) or (B).
 
 > &emsp;For purposes of this paragraph, principal or interest shall be treated as required to be so paid, converted, or determined if it may be required at the option of the holder or a related party and there is a substantial certainty the option will be exercised.
 
@@ -805,7 +805,7 @@ No deduction shall be allowed under this section for any interest payable under 
 
 #### (m) Interest on unpaid taxes attributable to nondisclosed reportable transactions
 
-No deduction shall be allowed under this chapter for any interest paid or accrued under section 6601 on any underpayment of tax which is attributable to the portion of any reportable transaction understatement (as defined in section 6662A(b)) with respect to which the requirement of section 6664(d)(2)(A) is not met.
+No deduction shall be allowed under this chapter for any interest paid or accrued under section 6601 on any underpayment of tax which is attributable to the portion of any reportable transaction understatement (as defined in section 6662A(b)) with respect to which the requirement of section 6664(d)(2)(A) <sup>2</sup> is not met.
 
 #### (n) Cross references
 
@@ -819,9 +819,25 @@ No deduction shall be allowed under this chapter for any interest paid or accrue
 
 &emsp;&emsp;<b>(5) For treatment of redeemable ground rents and real property held subject to liabilities under redeemable ground rents, see section 1055.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 46; Pub. L. 88–9, §1(a), (c), Apr. 10, 1963, 77 Stat. 6, 7; Pub. L. 88–272, title II, §224(c), Feb. 26, 1964, 78 Stat. 79; Pub. L. 91–172, title II, §221(a), Dec. 30, 1969, 83 Stat. 574; Pub. L. 92–178, title III, §304(a)(2), (b)(2), (d), Dec. 10, 1971, 85 Stat. 523, 524; Pub. L. 94–455, title II, §§205(c)(3), 209(a), title XIX, §§1901(b)(3)(K), (8)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1542, 1793, 1794, 1834; Pub. L. 97–248, title II, §231(b), title III, §310(b)(2), Sept. 3, 1982, 96 Stat. 498, 596; Pub. L. 97–354, §5(a)(18), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title I, §§42(a)(3), 56(b), 127(f), 128(c), title VI, §612(c), July 18, 1984, 98 Stat. 556, 574, 652, 654, 911; Pub. L. 99–514, title V, §511(a), (b), title IX, §902(e)(1), title XIII, §1301(j)(3), title XVIII, §§1803(a)(4), 1810(e)(1), Oct. 22, 1986, 100 Stat. 2244, 2246, 2382, 2657, 2793, 2825; Pub. L. 100–203, title X, §§10102(a), (b), 10212(b), Dec. 22, 1987, 101 Stat. 1330–384, 1330–386, 1330–406; Pub. L. 100–647, title I, §§1005(c)(1)–(9), (12), 1006(u)(1), 1009(b)(6), title II, §2004(b)(1), Nov. 10, 1988, 102 Stat. 3390–3392, 3427, 3449, 3598; Pub. L. 101–239, title VII, §§7202(a), (b), 7210(a), Dec. 19, 1989, 103 Stat. 2330, 2331, 2339; Pub. L. 101–508, title XI, §11701(b), (c), Nov. 5, 1990, 104 Stat. 1388–507; Pub. L. 103–66, title XIII, §§13206(d)(1), 13228(a)–(c), Aug. 10, 1993, 107 Stat. 467, 494, 495; Pub. L. 104–188, title I, §§1703(n)(4), 1704(f)(2)(A), (B), Aug. 20, 1996, 110 Stat. 1877, 1879; Pub. L. 105–34, title III, §312(d)(1), title V, §503(b)(2), title X, §1005(a), title XVI, §1604(g)(1), Aug. 5, 1997, 111 Stat. 839, 853, 911, 1099; Pub. L. 105–277, div. J, title IV, §4003(a)(1), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–170, title V, §544, Dec. 17, 1999, 113 Stat. 1944; Pub. L. 108–27, title III, §302(b), May 28, 2003, 117 Stat. 762; Pub. L. 108–357, title VIII, §§838(a), 841(a), 845(a)–(d), Oct. 22, 2004, 118 Stat. 1596, 1597, 1600, 1601; Pub. L. 109–135, title IV, §403(a)(15), Dec. 21, 2005, 119 Stat. 2619; Pub. L. 109–222, title V, §501(a), (b), May 17, 2006, 120 Stat. 354; Pub. L. 109–432, div. A, title IV, §419(a), (b), Dec. 20, 2006, 120 Stat. 2967; Pub. L. 110–142, §3(a), Dec. 20, 2007, 121 Stat. 1804; Pub. L. 111–5, div. B, title I, §1232(a), (b), Feb. 17, 2009, 123 Stat. 341.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 46; Pub. L. 88–9, §1(a), (c), Apr. 10, 1963, 77 Stat. 6, 7; Pub. L. 88–272, title II, §224(c), Feb. 26, 1964, 78 Stat. 79; Pub. L. 91–172, title II, §221(a), Dec. 30, 1969, 83 Stat. 574; Pub. L. 92–178, title III, §304(a)(2), (b)(2), (d), Dec. 10, 1971, 85 Stat. 523, 524; Pub. L. 94–455, title II, §§205(c)(3), 209(a), title XIX, §§1901(b)(3)(K), (8)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1542, 1793, 1794, 1834; Pub. L. 97–248, title II, §231(b), title III, §310(b)(2), Sept. 3, 1982, 96 Stat. 498, 596; Pub. L. 97–354, §5(a)(18), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title I, §§42(a)(3), 56(b), 127(f), 128(c), title VI, §612(c), July 18, 1984, 98 Stat. 556, 574, 652, 654, 911; Pub. L. 99–514, title V, §511(a), (b), title IX, §902(e)(1), title XIII, §1301(j)(3), title XVIII, §§1803(a)(4), 1810(e)(1), Oct. 22, 1986, 100 Stat. 2244, 2246, 2382, 2657, 2793, 2825; Pub. L. 100–203, title X, §§10102(a), (b), 10212(b), Dec. 22, 1987, 101 Stat. 1330–384, 1330–386, 1330–406; Pub. L. 100–647, title I, §§1005(c)(1)–(9), (12), 1006(u)(1), 1009(b)(6), title II, §2004(b)(1), Nov. 10, 1988, 102 Stat. 3390–3392, 3427, 3449, 3598; Pub. L. 101–239, title VII, §§7202(a), (b), 7210(a), Dec. 19, 1989, 103 Stat. 2330, 2331, 2339; Pub. L. 101–508, title XI, §11701(b), (c), Nov. 5, 1990, 104 Stat. 1388–507; Pub. L. 103–66, title XIII, §§13206(d)(1), 13228(a)–(c), Aug. 10, 1993, 107 Stat. 467, 494, 495; Pub. L. 104–188, title I, §§1703(n)(4), 1704(f)(2)(A), (B), Aug. 20, 1996, 110 Stat. 1877, 1879; Pub. L. 105–34, title III, §312(d)(1), title V, §503(b)(2), title X, §1005(a), title XVI, §1604(g)(1), Aug. 5, 1997, 111 Stat. 839, 853, 911, 1099; Pub. L. 105–277, div. J, title IV, §4003(a)(1), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–170, title V, §544, Dec. 17, 1999, 113 Stat. 1944; Pub. L. 108–27, title III, §302(b), May 28, 2003, 117 Stat. 762; Pub. L. 108–357, title VIII, §§838(a), 841(a), 845(a)–(d), Oct. 22, 2004, 118 Stat. 1596, 1597, 1600, 1601; Pub. L. 109–135, title IV, §403(a)(15), Dec. 21, 2005, 119 Stat. 2619; Pub. L. 109–222, title V, §501(a), (b), May 17, 2006, 120 Stat. 354; Pub. L. 109–432, div. A, title IV, §419(a), (b), Dec. 20, 2006, 120 Stat. 2967; Pub. L. 110–142, §3(a), Dec. 20, 2007, 121 Stat. 1804; Pub. L. 111–5, div. B, title I, §1232(a), (b), Feb. 17, 2009, 123 Stat. 341; Pub. L. 111–147, title V, §502(a)(1), (2)(B), (C), (c), Mar. 18, 2010, 124 Stat. 107, 108; Pub. L. 111–312, title VII, §759(a), Dec. 17, 2010, 124 Stat. 3323.)
 
 #### Amendment of Section
+
+<i>Pub. L. 111–147, title V, §502(a)(1), (2)(B), (C), (c), (f), Mar. 18, 2010, 124 Stat. 107, 108, provided that, applicable to obligations issued after the date which is 2 years after Mar. 18, 2010, subsection (f) of this section is amended as follows:</i>
+
+<i>(1) in paragraph (2):</i>
+
+<i>(A) in subparagraph (A), by inserting “or” at the end of clause (ii), by striking “, or” at the end of clause (iii) and inserting a period, and by striking clause (iv);</i>
+
+<i>(B) by striking out subparagraph (B) and redesignating subparagraph (C) as (B);</i>
+
+<i>(C) by striking out “, and subparagraph (B),” in introductory provisions of subparagraph (B), as resdesignated; and</i>
+
+<i>(D) by amending clause (i) of subparagraph (B), as redesignated, to read as follows:</i>
+
+&emsp;&emsp;&emsp;<i>“(i) such obligation is of a type which the Secretary has determined by regulations to be used frequently in avoiding Federal taxes, and”; and</i>
+
+<i>(2) in paragraph (3), by inserting before the period at the end the following: “, except that a dematerialized book entry system or other book entry system specified by the Secretary shall be treated as a book entry system described in such section”.</i>
 
 <i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
@@ -829,15 +845,19 @@ No deduction shall be allowed under this chapter for any interest paid or accrue
 
 The date of the enactment of this subparagraph, referred to in subsec. (h)(4)(E)(ii), is the date of enactment of Pub. L. 109–432, which was approved Dec. 20, 2006.
 
+Section 6664(d)(2)(A), referred to in subsec. (m), was redesignated as section 6664(d)(3)(A) by Pub. L. 111–152, title I, §1409(c)(2)(A), Mar. 30, 2010, 124 Stat. 1069.
+
 #### Amendments
 
-2009—Subsec. (e)(5)(F), (G). Pub. L. 111–5, §1232(a), added subpar. (F) and redesignated former subpar. (F) as (G).
+<b>2010</b>—Subsec. (h)(3)(E)(iv)(I). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2010”.
+
+<b>2009</b>—Subsec. (e)(5)(F), (G). Pub. L. 111–5, §1232(a), added subpar. (F) and redesignated former subpar. (F) as (G).
 
 Subsec. (i)(1). Pub. L. 111–5, §1232(b), in concluding provisions, inserted “(i)” before “permit a rate” and “, or (ii) permit, on a temporary basis, a rate to be used with respect to any debt instrument which is higher than the applicable Federal rate if the Secretary determines that such rate is appropriate in light of distressed conditions in the debt capital markets” before period at end.
 
-2007—Subsec. (h)(3)(E)(iv)(I). Pub. L. 110–142 substituted “December 31, 2010” for “December 31, 2007”.
+<b>2007</b>—Subsec. (h)(3)(E)(iv)(I). Pub. L. 110–142 substituted “December 31, 2010” for “December 31, 2007”.
 
-2006—Subsec. (h)(3)(E). Pub. L. 109–432, §419(a), added subpar. (E).
+<b>2006</b>—Subsec. (h)(3)(E). Pub. L. 109–432, §419(a), added subpar. (E).
 
 Subsec. (h)(4)(E), (F). Pub. L. 109–432, §419(b), added subpars. (E) and (F).
 
@@ -845,9 +865,9 @@ Subsec. (j)(8). Pub. L. 109–222, §501(a), added par. (8). Former par. (8) red
 
 Subsec. (j)(9). Pub. L. 109–222 redesignated par. (8) as (9) and added subpar. (D).
 
-2005—Subsec. (j)(6)(A)(i)(III), (IV). Pub. L. 109–135 added subcl. (III) and redesignated former subcl. (III) as (IV).
+<b>2005</b>—Subsec. (j)(6)(A)(i)(III), (IV). Pub. L. 109–135 added subcl. (III) and redesignated former subcl. (III) as (IV).
 
-2004—Subsec. (e)(3)(B), (C). Pub. L. 108–357, §841(a), added subpar. (B) and redesignated former subpar. (B) as (C).
+<b>2004</b>—Subsec. (e)(3)(B), (C). Pub. L. 108–357, §841(a), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 Subsec. (<i>l</i>)(2). Pub. L. 108–357, §845(a), inserted “or equity held by the issuer (or any related party) in any other person” after “or a related party”.
 
@@ -857,13 +877,13 @@ Subsec. (<i>l</i>)(4) to (7). Pub. L. 108–357, §845(b), (c), added pars. (4) 
 
 Subsecs. (m), (n). Pub. L. 108–357, §838(a), added subsec. (m) and redesignated former subsec. (m) as (n).
 
-2003—Subsec. (d)(4)(B). Pub. L. 108–27, §§302(b), 303, temporarily inserted at end “Such term shall include qualified dividend income (as defined in section 1(h)(11)(B)) only to the extent the taxpayer elects to treat such income as investment income for purposes of this subsection.” See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (d)(4)(B). Pub. L. 108–27, §§302(b), 303, temporarily inserted at end “Such term shall include qualified dividend income (as defined in section 1(h)(11)(B)) only to the extent the taxpayer elects to treat such income as investment income for purposes of this subsection.” See Effective and Termination Dates of 2003 Amendment note below.
 
-1999—Subsec. (j)(3)(C). Pub. L. 106–170 added subpar. (C).
+<b>1999</b>—Subsec. (j)(3)(C). Pub. L. 106–170 added subpar. (C).
 
-1998—Subsec. (h)(2)(F). Pub. L. 105–277 added subpar. (F).
+<b>1998</b>—Subsec. (h)(2)(F). Pub. L. 105–277 added subpar. (F).
 
-1997—Subsec. (h)(2)(E). Pub. L. 105–34, §503(b)(2)(B), struck out “or 6166 or under section 6166A (as in effect before its repeal by the Economic Recovery Tax Act of 1981)” after “section 6163”.
+<b>1997</b>—Subsec. (h)(2)(E). Pub. L. 105–34, §503(b)(2)(B), struck out “or 6166 or under section 6166A (as in effect before its repeal by the Economic Recovery Tax Act of 1981)” after “section 6163”.
 
 Subsec. (h)(4)(A)(i)(I). Pub. L. 105–34, §312(d)(1), substituted “section 121” for “section 1034”.
 
@@ -877,13 +897,13 @@ Pub. L. 105–34, §503(b)(2)(A), redesignated subsec. (k) as (<i>l</i>).
 
 Subsec. (m). Pub. L. 105–34, §1005(a), redesignated subsec. (<i>l</i>) as (m).
 
-1996—Subsec. (j)(1)(B). Pub. L. 104–188, §1704(f)(2)(A), inserted before period at end “(and clause (ii) of paragraph (2)(A) shall not apply for purposes of applying this subsection to the amount so treated)”.
+<b>1996</b>—Subsec. (j)(1)(B). Pub. L. 104–188, §1704(f)(2)(A), inserted before period at end “(and clause (ii) of paragraph (2)(A) shall not apply for purposes of applying this subsection to the amount so treated)”.
 
 Subsec. (j)(6)(E)(ii). Pub. L. 104–188, §1703(n)(4), which directed that cl. (ii) be amended by substituting “which is” for “which is a”, could not be executed, because “which is a” does not appear.
 
 Subsec. (j)(7), (8). Pub. L. 104–188, §1704(f)(2)(B), added par. (7) and redesignated former par. (7) as (8).
 
-1993—Subsec. (d)(4)(B). Pub. L. 103–66, §13206(d)(1), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “The term ‘investment income’ means the sum of—
+<b>1993</b>—Subsec. (d)(4)(B). Pub. L. 103–66, §13206(d)(1), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “The term ‘investment income’ means the sum of—
 
 &emsp;“(i) gross income (other than gain taken into account under clause (ii)) from property held for investment, and
 
@@ -909,7 +929,7 @@ Subsec. (j)(5)(B). Pub. L. 103–66, §13228(c)(1), struck out “to a related p
 
 Subsec. (j)(6)(D), (E). Pub. L. 103–66, §13228(b), added subpars. (D) and (E).
 
-1990—Subsec. (e)(5)(A). Pub. L. 101–508, §11701(b)(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “For purposes of clause (ii), rules similar to the rules of subsection (i)(3)(B) shall apply in determining the time when the original issue discount is paid.”
+<b>1990</b>—Subsec. (e)(5)(A). Pub. L. 101–508, §11701(b)(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “For purposes of clause (ii), rules similar to the rules of subsection (i)(3)(B) shall apply in determining the time when the original issue discount is paid.”
 
 Subsec. (i)(3). Pub. L. 101–508, §11701(b)(2)(B), inserted sentence at end.
 
@@ -919,7 +939,7 @@ Subsec. (j)(2)(A)(ii). Pub. L. 101–508, §11701(c)(2), substituted “or on an
 
 Subsec. (j)(2)(C). Pub. L. 101–508, §11701(c)(1), substituted “reduced (but not below zero) by such” for “less such” in introductory provisions.
 
-1989—Subsec. (e)(5), (6). Pub. L. 101–239, §7202(a), added par. (5) and redesignated former par. (5) as (6).
+<b>1989</b>—Subsec. (e)(5), (6). Pub. L. 101–239, §7202(a), added par. (5) and redesignated former par. (5) as (6).
 
 Subsec. (i). Pub. L. 101–239, §7202(b), added subsec. (i). Former subsec. (i) redesignated (j).
 
@@ -929,7 +949,7 @@ Pub. L. 101–239, §7202(b), redesignated subsec. (i) as (j).
 
 Subsec. (k). Pub. L. 101–239, §7210(a), redesignated subsec. (j) as (k).
 
-1988—Subsec. (d)(3)(A). Pub. L. 100–647, §1005(c)(1), substituted “properly allocable to” for “incurred or continued to purchase or carry”.
+<b>1988</b>—Subsec. (d)(3)(A). Pub. L. 100–647, §1005(c)(1), substituted “properly allocable to” for “incurred or continued to purchase or carry”.
 
 Subsec. (d)(4)(B). Pub. L. 100–647, §1005(c)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The term ‘investment income’ means the sum of—
 
@@ -959,7 +979,7 @@ Subsec. (h)(3)(C). Pub. L. 100–647, §1005(c)(5), effective as if enacted imme
 
 Subsec. (h)(4). Pub. L. 100–647, §1005(c)(6)(A), effective as if enacted immediately before enactment of Pub. L. 100–203 (redesignating par. (5) as (4), see 1987 Amendment note below), amended heading by substituting “Other definitions and special rules—For purposes of this subsection—” for “Other definitions and special rules”.
 
-Subsec. (h)(4)(A). Pub. L. 100–647, §1005(c)(6)(B)(i), (7), effective as if enacted immediately before enactment ofPub. L. 100–203 (redesignating par. (5) as (4), see 1987 Amendment note below), amended subpar. (A) by striking out “For purposes of this subsection—” after “Qualified residence” in introductory provisions, “used or” after “Residence not” in cl. (iii) heading, and “or use” after “does not rent” in cl. (iii) text.
+Subsec. (h)(4)(A). Pub. L. 100–647, §1005(c)(6)(B)(i), (7), effective as if enacted immediately before enactment of Pub. L. 100–203 (redesignating par. (5) as (4), see 1987 Amendment note below), amended subpar. (A) by striking out “For purposes of this subsection—” after “Qualified residence” in introductory provisions, “used or” after “Residence not” in cl. (iii) heading, and “or use” after “does not rent” in cl. (iii) text.
 
 Subsec. (h)(4)(B). Pub. L. 100–647, §1005(c)(6)(B)(ii), effective as if enacted immediately before enactment of Pub. L. 100–203 (redesignating par. (5) as (4), see 1987 Amendment note below), amended subpar. (B) by substituting “Any” for “For purposes of this paragraph, any”.
 
@@ -973,7 +993,7 @@ Pub. L. 100–647, §1005(c)(9), substituted “but for this paragraph” for �
 
 Subsec. (i)(2). Pub. L. 100–647, §1009(b)(6), made technical correction to directory language of Pub. L. 99–514, §902(e)(1), see 1986 Amendment note below.
 
-1987—Subsec. (d)(4)(E). Pub. L. 100–203, §10212(b), substituted “section 469(m)” for “section 469(<i>l</i>)”.
+<b>1987</b>—Subsec. (d)(4)(E). Pub. L. 100–203, §10212(b), substituted “section 469(m)” for “section 469(<i>l</i>)”.
 
 Subsec. (h)(3). Pub. L. 100–203, §10102(a), amended par. (3) generally. Prior to amendment (see 1988 Amendment note above), par. (3) read as follows: “For purposes of this subsection—
 
@@ -1019,7 +1039,7 @@ Time for determination.—Except as provided in regulations, any determination u
 
 Subsec. (h)(4), (5). Pub. L. 100–203, §10102(b), redesignated par. (5) as (4) and struck out former par. (4) which defined “qualified indebtedness” for purposes of this subsection.
 
-1986—Subsec. (d). Pub. L. 99–514, §511(a), substituted “Limitation on investment interest” for “Limitation on interest on investment indebtedness” in heading, and amended text generally, revising and restating as pars. (1) to (6) provisions of former pars. (1) to (7).
+<b>1986</b>—Subsec. (d). Pub. L. 99–514, §511(a), substituted “Limitation on investment interest” for “Limitation on interest on investment indebtedness” in heading, and amended text generally, revising and restating as pars. (1) to (6) provisions of former pars. (1) to (7).
 
 Subsec. (e)(2)(C). Pub. L. 99–514, §1803(a)(4), added subpar. (C).
 
@@ -1035,7 +1055,7 @@ Subsec. (i)(2). Pub. L. 99–514, §902(e)(1), as amended by Pub. L. 100–647, 
 
 Pub. L. 99–514, §511(b), redesignated former subsec. (h) as (i).
 
-1984—Subsec. (d)(3)(D). Pub. L. 98–369, §56(b), designated existing provisions as cl. (i) and added cl. (ii).
+<b>1984</b>—Subsec. (d)(3)(D). Pub. L. 98–369, §56(b), designated existing provisions as cl. (i) and added cl. (ii).
 
 Subsec. (e)(1). Pub. L. 98–369, §42(a)(3), substituted “debt instrument” for “bond” in two places and struck out “by an issuer (other than a natural person)” before “, the portion of the original issue”.
 
@@ -1053,7 +1073,7 @@ Subsec. (f)(2)(C)(i). Pub. L. 98–369, §127(f), redesignated existing provisio
 
 Subsecs. (g), (h). Pub. L. 98–369, §612(c), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-1982—Subsec. (d)(4). Pub. L. 97–354 redesignated subpar. (D) as (B). Former subpars. (B) and (C), relating to partnerships and shareholders of electing small business corporations, respectively, were struck out.
+<b>1982</b>—Subsec. (d)(4). Pub. L. 97–354 redesignated subpar. (D) as (B). Former subpars. (B) and (C), relating to partnerships and shareholders of electing small business corporations, respectively, were struck out.
 
 Subsec. (e). Pub. L. 97–248, §231(b), added subsec. (e) relating to original issue discount. Former subsec. (e), setting forth cross references, redesignated (f).
 
@@ -1063,7 +1083,7 @@ Subsec. (f). Pub. L. 97–248, §310(b)(2), added subsec. (f) relating to the re
 
 Subsec. (g). Pub. L. 97–248, §310(b)(2), redesignated former subsec. (f), setting forth cross references, as (g).
 
-1976—Subsec. (b)(1). Pub. L. 94–455, §1901(b)(8)(C), substituted “organization described in section170(b)(1)(A)(ii) and which is provided for a student of such organization” for “institution (as defined in section 151(e)(4)) and which is provided for a student of such institution”.
+<b>1976</b>—Subsec. (b)(1). Pub. L. 94–455, §1901(b)(8)(C), substituted “organization described in section 170(b)(1)(A)(ii) and which is provided for a student of such organization” for “institution (as defined in section 151(e)(4)) and which is provided for a student of such institution”.
 
 Subsec. (d)(1). Pub. L. 94–455, §209(a)(1), among other changes, substituted in subpar. (A) “$10,000” for “$25,000” and “$5,000” for “$12,500”, struck out subpar. (C) relating to the excess of net long-term capital gain over short-term capital loss and subpar. (D) relating to the excess of investment interest over amounts in subpar. (A), and in provisions following lettered paragraphs substituted “$10,000” for “$25,000” and struck out provisions relating to the determination of the amount referred to in subpar. (C).
 
@@ -1085,7 +1105,7 @@ Subsec. (d)(6). Pub. L. 94–455, §§209(a)(4), 1906(b)(13)(A), redesignated pa
 
 Subsec. (d)(7). Pub. L. 94–455, §209(a)(6), added par. (7). Former par. (7) redesignated (6).
 
-1971—Subsec. (d)(1)(B). Pub. L. 92–178, §304(b)(2), inserted “the amount (if any) by which the deductions allowable under this section (determined without regard to this subsection) and sections 162, 164(a)(1) or (2), or 212 attributable to property of the taxpayer subject to a net lease exceeds the rental income produced by such property for the property year, plus” after “plus”.
+<b>1971</b>—Subsec. (d)(1)(B). Pub. L. 92–178, §304(b)(2), inserted “the amount (if any) by which the deductions allowable under this section (determined without regard to this subsection) and sections 162, 164(a)(1) or (2), or 212 attributable to property of the taxpayer subject to a net lease exceeds the rental income produced by such property for the property year, plus” after “plus”.
 
 Subsec. (d)(3)(C). Pub. L. 92–178, §304(d), inserted reference to section 162.
 
@@ -1093,11 +1113,17 @@ Subsec. (d)(4)(A)(i). Pub. L. 92–178, §304(a)(2)(A), inserted “of the lesso
 
 Subsec. (d)(7). Pub. L. 92–178, §304(a)(2)(B), added par. (7).
 
-1969—Subsecs. (d), (e). Pub. L. 91–172 added subsec. (d). Former subsec. (d) redesignated (e).
+<b>1969</b>—Subsecs. (d), (e). Pub. L. 91–172 added subsec. (d). Former subsec. (d) redesignated (e).
 
-1964—Subsec. (b)(1). Pub. L. 88–272 included the purchase of educational services, and defined “educational services”.
+<b>1964</b>—Subsec. (b)(1). Pub. L. 88–272 included the purchase of educational services, and defined “educational services”.
 
-1963—Subsecs. (c), (d). Pub. L. 88–9, §1(a), (c), added subsec. (c), redesignated former subsec. (c) as (d) and added par. (5).
+<b>1963</b>—Subsecs. (c), (d). Pub. L. 88–9, §1(a), (c), added subsec. (c), redesignated former subsec. (c) as (d) and added par. (5).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title VII, §759(b), Dec. 17, 2010, 124 Stat. 3323, provided that: “The amendment made by this section \[amending this section\] shall apply to amounts paid or accrued after December 31, 2010.”
+
+Amendment by Pub. L. 111–147 applicable to obligations issued after the date which is 2 years after Mar. 18, 2010, see section 502(f) of Pub. L. 111–147, set out as a note under section 149 of this title.
 
 #### Effective Date of 2009 Amendment
 
@@ -1109,7 +1135,7 @@ Suspension.—The amendments made by subsection (a) \[amending this section\] sh
 
 “(2)
 
-Interest rate authority.—The amendments made by subsection (b) \[amending this section\] shall apply to obligations issued after December 31, 2009, in taxable years ending after such date.”
+Interest rate authority.—The amendments made by subsection (b) \[amending this section\] shallapply to obligations issued after December 31, 2009, in taxable years ending after such date.”
 
 #### Effective Date of 2007 Amendment
 
@@ -1137,7 +1163,7 @@ Pub. L. 108–357, title VIII, §845(e), Oct. 22, 2004, 118 Stat. 1601, provided
 
 Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as a note under section 1 of this title.
 
-Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
+Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -1380,4 +1406,6 @@ Election.—The election under subsection (a)(2) shall be made at such time and 
 For provision that, for purposes of amendments by section 231(b) of Pub. L. 97–248, any evidence of indebtedness issued pursuant to a written commitment which was binding on July 1, 1982, and at all times thereafter be treated as issued on July 1, 1982, see section 231(e) of Pub. L. 97–248, set out as a note under section 1232A of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “in”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

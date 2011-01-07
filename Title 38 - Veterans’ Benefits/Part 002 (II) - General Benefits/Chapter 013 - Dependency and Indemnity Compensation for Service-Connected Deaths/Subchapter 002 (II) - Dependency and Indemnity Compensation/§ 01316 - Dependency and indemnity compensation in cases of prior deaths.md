@@ -28,7 +28,7 @@ The Servicemen's Indemnity Act of 1951, referred to in subsec. (e), is act Apr. 
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 416 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 416 of this title as this section.
 
 Subsec. (a)(2). Pub. L. 102–83, §5(c)(1), substituted “1315” for “415”.
 
@@ -36,9 +36,9 @@ Subsecs. (b) to (d). Pub. L. 102–83, §4(a)(1), substituted “administered by
 
 Subsec. (e)(3). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-1982—Subsecs. (b)(1)(B), (2)(B), (c)(2), (d)(2). Pub. L. 97–295 substituted “subchapter I of chapter 81 of title 5” for “the Federal Employees’ Compensation Act” wherever appearing.
+<b>1982</b>—Subsecs. (b)(1)(B), (2)(B), (c)(2), (d)(2). Pub. L. 97–295 substituted “subchapter I of chapter 81 of title 5” for “the Federal Employees’ Compensation Act” wherever appearing.
 
-1976—Subsec. (a). Pub. L. 94–433, §405(11), substituted “surviving spouse” for “widow” in par. (1) and “such person's” for “his” in par. (2).
+<b>1976</b>—Subsec. (a). Pub. L. 94–433, §405(11), substituted “surviving spouse” for “widow” in par. (1) and “such person's” for “his” in par. (2).
 
 Subsec. (b)(1). Pub. L. 94–433, §405(12), substituted “surviving spouse” and “such surviving spouse” for “widow” and “her”, respectively.
 

@@ -254,7 +254,7 @@ Sections 14 and 10(a)(2) of the Federal Advisory Committee Act, referred to in s
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–360, §103(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There is established a National Earthquake Hazards Reduction Program.”
+<b>2004</b>—Subsec. (a). Pub. L. 108–360, §103(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There is established a National Earthquake Hazards Reduction Program.”
 
 Subsec. (b)(1). Pub. L. 108–360, §103(2)(A)(i), (iv), in introductory provisions, substituted “National Institute of Standards and Technology shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Institute” for “Federal Emergency Management Agency (hereafter in this chapter referred to as the ‘Agency’) shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Agency” and struck out concluding provisions which read as follows: “The principal official carrying out the responsibilities described in this paragraph shall be at a level no lower than that of Associate Director.”
 
@@ -286,13 +286,13 @@ Subsec. (b)(5)(D), (E). Pub. L. 108–360, §103(2)(F), added subpar. (D) and re
 
 Subsec. (c)(1). Pub. L. 108–360, §103(3), substituted “Interagency Coordinating Committee” for “Agency”.
 
-2000—Subsec. (b)(1). Pub. L. 106–503, §206(1), redesignated subpars. (B) to (F) as (A) to (E), respectively, and struck out former subpar. (A) which read as follows: “prepare, in conjunction with the other Program agencies, an annual budget for the Program to be submitted to the Office of Management and Budget;”.
+<b>2000</b>—Subsec. (b)(1). Pub. L. 106–503, §206(1), redesignated subpars. (B) to (F) as (A) to (E), respectively, and struck out former subpar. (A) which read as follows: “prepare, in conjunction with the other Program agencies, an annual budget for the Program to be submitted to the Office of Management and Budget;”.
 
 Subsec. (b)(2)(A)(ii). Pub. L. 106–503, §208, inserted before semicolon at end “, and development of means of increasing public access to available locality-specific information that may assist the public in preparing for or responding to earthquakes”.
 
 Subsec. (c). Pub. L. 106–503, §206(2), added subsec. (c).
 
-1997—Subsec. (b)(1)(F). Pub. L. 105–47, §3(b), added subpar. (F).
+<b>1997</b>—Subsec. (b)(1)(F). Pub. L. 105–47, §3(b), added subpar. (F).
 
 Subsec. (b)(3)(H). Pub. L. 105–47, §3(c), added subpar. (H).
 
@@ -300,19 +300,19 @@ Subsec. (b)(4)(F). Pub. L. 105–47, §3(a), added subpar. (F).
 
 Subsec. (b)(5)(D). Pub. L. 105–47, §3(d), added subpar. (D).
 
-1990—Pub. L. 101–614 amended section generally, substituting present provisions consisting of subsecs. (a) and (b) for former provisions which provided for: in subsec. (a), establishment of program; in subsec. (b), duties of President and Director of Federal Emergency Management Agency; in subsec. (c), objectives of program; in subsec. (d), Federal participation; in subsec. (e), research elements; in subsec. (f), mitigation elements; in subsec. (g), State assistance; in subsec. (h), non-Federal participation; in subsec. (i), study and recommendations on disaster relief; and in subsec. (j), cost sharing.
+<b>1990</b>—Pub. L. 101–614 amended section generally, substituting present provisions consisting of subsecs. (a) and (b) for former provisions which provided for: in subsec. (a), establishment of program; in subsec. (b), duties of President and Director of Federal Emergency Management Agency; in subsec. (c), objectives of program; in subsec. (d), Federal participation; in subsec. (e), research elements; in subsec. (f), mitigation elements; in subsec. (g), State assistance; in subsec. (h), non-Federal participation; in subsec. (i), study and recommendations on disaster relief; and in subsec. (j), cost sharing.
 
-1988—Subsec. (b)(2)(F). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+<b>1988</b>—Subsec. (b)(2)(F). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
 Subsecs. (g), (i). Pub. L. 100–707 substituted “Disaster Relief and Emergency Assistance Act” for “Disaster Relief Act of 1974”.
 
 Subsec. (j). Pub. L. 100–252 added subsec. (j).
 
-1985—Subsec. (b)(2)(E). Pub. L. 99–105, §5, amended subpar. (E) generally, substituting “to be submitted to the Congress and updated at such times as may be required by significant program events, but in no event less frequently than every three years;” for “which plan will recommend base and incremental budget options for the agencies to carry out the elements and programs specified through at least 1985, and which plan shall be completed by September 30, 1981, and transmitted to the Congress and shall be updated annually; and”.
+<b>1985</b>—Subsec. (b)(2)(E). Pub. L. 99–105, §5, amended subpar. (E) generally, substituting “to be submitted to the Congress and updated at such times as may be required by significant program events, but in no event less frequently than every three years;” for “which plan will recommend base and incremental budget options for the agencies to carry out the elements and programs specified through at least 1985, and which plan shall be completed by September 30, 1981, and transmitted to the Congress and shall be updated annually; and”.
 
 Subsec. (b)(2)(F), (G). Pub. L. 99–105, §6, added subpar. (F) and redesignated former subpar. (F) as (G).
 
-1980—Subsec. (a). Pub. L. 96–472, §101(a), inserted provisions relating to non-Federal participation in par. (2), and substituted provisions respecting the elements described in subsec. (f) of this section, for provisions respecting the implementation plan described in subsec. (f) of this section in par. (3).
+<b>1980</b>—Subsec. (a). Pub. L. 96–472, §101(a), inserted provisions relating to non-Federal participation in par. (2), and substituted provisions respecting the elements described in subsec. (f) of this section, for provisions respecting the implementation plan described in subsec. (f) of this section in par. (3).
 
 Subsec. (b). Pub. L. 96–472, §101(b), substituted provisions setting forth the duties of the President and the Director of the Federal Emergency Management Agency with respect to the Program for provisions setting forth the duties of the President with respect to the program and plan.
 

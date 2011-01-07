@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(xii) Department of Commerce.
 
-> The chairperson and vice-chairperson of the Access Board shall be elected by majority vote of the members of the Access Board to serve for terms of one year. When the chairperson is amember of the general public, the vice-chairperson shall be a Federal official; and when the chairperson is a Federal official, the vice-chairperson shall be a member of the general public. Upon the expiration of the term as chairperson of a member who is a Federal official, the subsequent chairperson shall be a member of the general public; and vice versa.
+> The chairperson and vice-chairperson of the Access Board shall be elected by majority vote of the members of the Access Board to serve for terms of one year. When the chairperson is a member of the general public, the vice-chairperson shall be a Federal official; and when the chairperson is a Federal official, the vice-chairperson shall be a member of the general public. Upon the expiration of the term as chairperson of a member who is a Federal official, the subsequent chairperson shall be a member of the general public; and vice versa.
 
 (2)(A)(i) The term of office of each appointed member of the Access Board shall be 4 years, except as provided in clause (ii). Each year, the terms of office of at least three appointed members of the board <sup>1</sup> shall expire.
 
@@ -110,7 +110,7 @@ Beginning in fiscal year 2000, the Access Board, after consultation with the Sec
 
 &emsp;(A) to bring a civil action in any appropriate United States district court to enforce, in whole or in part, any final order of the Access Board under this subsection; and
 
-&emsp;(B) to intervene, appear, and participate, or to appear as amicus curiae, in any court of the United States or in any court of a State in civil actions that relate to this section or to the Architectural Barriers Act of 1968 \[42 U.S.C. 4151 et seq.\].
+&emsp;(B) to intervene, appear, and participate, or to appear as amicus curiae, in any court of the United States or in any court of a State in civil actions that relate to this section or tothe Architectural Barriers Act of 1968 \[42 U.S.C. 4151 et seq.\].
 
 > Except as provided in section 518(a) of title 28, relating to litigation before the Supreme Court, the executive director may appear for and represent the Access Board in any civil litigation brought under this section.
 
@@ -150,7 +150,7 @@ Beginning in fiscal year 2000, the Access Board, after consultation with the Sec
 
 There are authorized to be appropriated for the purpose of carrying out the duties and functions of the Access Board under this section such sums as may be necessary for each of the fiscal years 1999 through 2003.
 
-(Pub. L. 93–112, title V, §502, Sept. 26, 1973, 87 Stat. 391; Pub. L. 93–516, title I, §§110, 111(n)–(q), Dec. 7, 1974, 88 Stat. 1619, 1621, 1622; Pub. L. 93–651, title I, §§110, 111(n)–(q), Nov. 21, 1974, 89 Stat. 2–4, 2–6, 2–7; Pub. L. 94–230, §§10, 11(b)(13), Mar. 15, 1976, 90 Stat. 212, 214; Pub. L. 95–251, §2(a)(8), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–602, title I, §118, Nov. 6, 1978, 92 Stat. 2979; Pub. L. 96–374, title XIII, §1321, Oct. 3, 1980, 94 Stat. 1499; Pub. L. 98–221, title I, §151, Feb. 22, 1984, 98 Stat. 28; Pub. L. 99–506, title I, §103(d)(2)(C), title VI, §601, title X, §1002(e)(2)(B)–(D), Oct. 21, 1986, 100 Stat. 1810, 1829, 1844; Pub. L. 100–630, title II, §206(b), Nov. 7, 1988, 102 Stat. 3311; Pub. L. 102–52, §6, June 6, 1991, 105 Stat. 262; Pub. L. 102–54, §13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(30), title V, §504, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(b), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title IV, §408(a)(2), Aug. 7, 1998, 112 Stat. 1202; Pub. L. 105–394, title II, §203(a), Nov. 13, 1998, 112 Stat. 3653; Pub. L. 108–364, §3(b)(3), Oct. 25, 2004, 118 Stat. 1737.)
+(Pub. L. 93–112, title V, §502, Sept. 26, 1973, 87 Stat. 391; Pub. L. 93–516, title I, §§110, 111(n)–(q), Dec. 7, 1974, 88 Stat. 1619, 1621, 1622; Pub. L. 93–651, title I, §§110, 111(n)–(q), Nov. 21, 1974, 89 Stat. 2–4, 2–6, 2–7; Pub. L. 94–230, §§10, 11(b)(13), Mar. 15, 1976, 90 Stat. 212, 214; Pub. L. 95–251,§2(a)(8), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–602, title I, §118, Nov. 6, 1978, 92 Stat. 2979; Pub. L. 96–374, title XIII, §1321, Oct. 3, 1980, 94 Stat. 1499; Pub. L. 98–221, title I, §151, Feb. 22, 1984, 98 Stat. 28; Pub. L. 99–506, title I, §103(d)(2)(C), title VI, §601, title X, §1002(e)(2)(B)–(D), Oct. 21, 1986, 100 Stat. 1810, 1829, 1844; Pub. L. 100–630, title II, §206(b), Nov. 7, 1988, 102 Stat. 3311; Pub. L. 102–52, §6, June 6, 1991, 105 Stat. 262; Pub. L. 102–54, §13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(30), title V, §504, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(b), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title IV, §408(a)(2), Aug. 7, 1998, 112 Stat. 1202; Pub. L. 105–394, title II, §203(a), Nov. 13, 1998, 112 Stat. 3653; Pub. L. 108–364, §3(b)(3), Oct. 25, 2004, 118 Stat. 1737.)
 
 #### References in Text
 
@@ -162,13 +162,13 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2), (3)(
 
 #### Codification
 
-Subsecs. (h) and (i)(3) of this section, which required the Board to submit an annual report on its activitiesto Congress and, at the same time the Board transmits the report required under section 4157(b) of Title 42, The Public Health and Welfare, to transmit that report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, items 4 to 6 on page 155 of House Document No. 103–7.
+Subsecs. (h) and (i)(3) of this section, which required the Board to submit an annual report on its activities to Congress and, at the same time the Board transmits the report required under section 4157(b) of Title 42, The Public Health and Welfare, to transmit that report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, items 4 to 6 on page 155 of House Document No. 103–7.
 
 #### Amendments
 
-2004—Subsec. (d). Pub. L. 108–364 substituted “targeted individuals and entities” for “targeted individuals”.
+<b>2004</b>—Subsec. (d). Pub. L. 108–364 substituted “targeted individuals and entities” for “targeted individuals”.
 
-1998—Subsec. (a)(1). Pub. L. 105–220, §408(a)(2)(A), substituted “chairperson and” for “Chairperson and” in concluding provisions.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–220, §408(a)(2)(A), substituted “chairperson and” for “Chairperson and” in concluding provisions.
 
 Subsec. (b)(2). Pub. L. 105–220, §408(a)(2)(B)(i), substituted “information” for “guidelines”.
 
@@ -198,9 +198,9 @@ Pub. L. 105–220, §408(a)(2)(F), substituted “fiscal years 1999 through 2003
 
 Subsec. (j). Pub. L. 105–394, §203(a)(1), redesignated subsec. (i) as (j).
 
-1993—Subsec. (a)(5)(A). Pub. L. 103–73 substituted “level IV of the Executive Schedule under section 5315” for “level 4 of the Senior Executive Service Schedule under section 5382”.
+<b>1993</b>—Subsec. (a)(5)(A). Pub. L. 103–73 substituted “level IV of the Executive Schedule under section 5315” for “level 4 of the Senior Executive Service Schedule under section 5382”.
 
-1992—Pub. L. 102–569, §504(a)(2), (3), substituted “the Access Board” and “The Access Board” for “the Board” and “The Board”, respectively, wherever appearing.
+<b>1992</b>—Pub. L. 102–569, §504(a)(2), (3), substituted “the Access Board” and “The Access Board” for “the Board” and “The Board”, respectively, wherever appearing.
 
 Subsec. (a)(1). Pub. L. 102–569, §504(a)(1), substituted “the ‘Access Board’ ” for “the ‘Board’ ” in introductory provisions.
 
@@ -222,7 +222,7 @@ Subsec. (c). Pub. L. 102–569, §102(p)(30), substituted “individuals with di
 
 Subsec. (d)(1). Pub. L. 102–569, §504(d)(1), in first sentence, substituted “The Access Board shall conduct” for “In carrying out its functions under this chapter, the Access Board shall, directly or through grants to public or private nonprofit organizations or contracts with private nonprofit or forprofit organizations, carry out its functions under subsections (b) and (c) of this section, and shall conduct” and “to ensure compliance” for “to insure compliance”.
 
-Subsec. (d)(3). Pub. L. 102–569, §504(d)(2), struck out par. (3) which read as follows: “The Access Board, in consultation and coordination with other concerned Federal departments and agencies and agencies within the Department of Education, shall develop standards and provide appropriate technical assistance to any public or private activity, person, or entity affected by regulations prescribed pursuant to this subchapter with respect to overcoming architectural, transportation, and communication barriers. Any funds appropriated to any such department or agency for the purpose of providing such assistance may be transferred to the Access Board for the purpose of carrying out this paragraph. The Access Board may arrange to carry out its responsibilities under this paragraph through such other departments and agencies for such periods as the Access Board determines is appropriate. In carrying out its technical assistance responsibilities under this paragraph, the Access Board shall establish a procedure to insure separation of its compliance and technical assistance responsibilities under this section.”
+Subsec. (d)(3). Pub. L. 102–569, §504(d)(2), struck out par. (3) which read as follows: “The Access Board, in consultation and coordination with other concerned Federal departments and agencies and agencies within the Department of Education, shall develop standards and provide appropriate technical assistance to any public or private activity, person, or entity affected by regulations prescribed pursuant to this subchapter with respect to overcoming architectural, transportation, and communication barriers. Any funds appropriated to any such department or agency for the purpose of providing such assistance may be transferred to the Access Board for the purpose of carrying out this paragraph.The Access Board may arrange to carry out its responsibilities under this paragraph through such other departments and agencies for such periods as the Access Board determines is appropriate. In carrying out its technical assistance responsibilities under this paragraph, the Access Board shall establish a procedure to insure separation of its compliance and technical assistance responsibilities under this section.”
 
 Subsec. (f). Pub. L. 102–569, §504(e), added par. (1), designated existing provisions as par. (2) and substituted “paragraph” for “subsection”, “Chairperson” for “Secretary”, and “the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382” for “the daily pay rate for a person employed as a GS–18 under section 5332”.
 
@@ -230,7 +230,7 @@ Subsec. (g). Pub. L. 102–569, §504(f), designated existing provisions as par.
 
 Pub. L. 102–569, §102(p)(30), substituted “individuals with disabilities” for “individuals with handicaps” wherever appearing.
 
-Subsec. (h)(1). Pub. L. 102–569, §504(g)(1)–(3), redesignated par. (2) as (1), struck out at end “The Access Board may also make grants to any designated Stateunit for the purpose of conducting studies to provide the cost assessments required by paragraph (1). Before including in such report the findings of any study conducted for the Access Board under a grant or contract to provide the Access Board with such cost assessments, the Access Board shall take all necessary steps to validate the accuracy of any such findings.”, and struck out former par. (1) which read as follows: “Within one year following November 6, 1978, the Access Board shall submit to the President and the Congress a report containing an assessment of the amounts required to be expended by States and by political subdivisions thereof to provide individuals with disabilities with full access to all programs and activities receiving Federal assistance.”
+Subsec. (h)(1). Pub. L. 102–569, §504(g)(1)–(3), redesignated par. (2) as (1), struck out at end “The Access Board may also make grants to any designated State unit for the purpose of conducting studies to provide the cost assessments required by paragraph (1). Before including in such report the findings of any study conducted for the Access Board under a grant or contract to provide the Access Board with such cost assessments, the Access Board shall take all necessary steps to validate the accuracy of any such findings.”, and struck out former par. (1) which read as follows: “Within one year following November 6, 1978, the Access Board shall submit to the President and the Congress a report containing an assessment of the amounts required to be expended by States and by political subdivisions thereof to provide individuals with disabilities with full access to all programs and activities receiving Federal assistance.”
 
 Pub. L. 102–569, §102(p)(30), substituted “individuals with disabilities” for “individuals with handicaps” before “with full access”.
 
@@ -238,11 +238,11 @@ Subsec. (h)(2). Pub. L. 102–569, §504(g)(4), which directed the addition of p
 
 Subsec. (i). Pub. L. 102–569, §504(h), substituted “fiscal years 1993 through 1997.” for “fiscal years 1987 through 1992, but in no event shall the amount appropriated for any one fiscal year exceed $3,000,000.”
 
-1991—Subsec. (a)(1)(B)(ix). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Subsec. (a)(1)(B)(ix). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
 Subsec. (i). Pub. L. 102–52 substituted “1987 through 1992” for “1987, 1988, 1989, 1990, and 1991”.
 
-1988—Subsec. (a)(2). Pub. L. 100–630, §206(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term of office of each appointed member of the Board shall be three years; except that (i) the members first taking office shall serve, as designated by the President at the time of appointment, four for a term of one year, four for a term of two years, and three for a term of three years, (ii) a member whose term has expired may continue to serve until a successor has been appointed, and (iii) a member appointed to fill a vacancy shall serve for the remainder of the term to which that member's predecessor was appointed.”
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–630, §206(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term of office of each appointed member of the Board shall be three years; except that (i) the members first taking office shall serve, as designated by the President at the time of appointment, four for a term of one year, four for a term of two years, and three for a term of three years, (ii) a member whose term has expired may continue to serve until a successor has been appointed, and (iii) a member appointed to fill a vacancy shall serve for the remainder of the term to which that member's predecessor was appointed.”
 
 Subsec. (a)(3). Pub. L. 100–630, §206(b)(2), substituted “the member” for “he”.
 
@@ -258,7 +258,7 @@ Subsec. (f). Pub. L. 100–630, §206(b)(10), substituted “daily pay rate for�
 
 Subsec. (g). Pub. L. 100–630, §206(b)(11), substituted “transportation barriers facing individuals with handicaps” for “transportation barriers to individuals with handicaps” and for “transportation barriers of handicapped individuals” in fourth and seventh sentences, respectively, and “housing needs of individuals with handicaps” for “housing needs of handicapped individuals” in seventh sentence.
 
-1986—Subsec. (a)(1)(A). Pub. L. 99–506, §§103(d)(2)(C), 601(a)(2), substituted “Twelve” for “Eleven”, “six” for “five”, and “individuals with handicaps” for “handicapped individuals”.
+<b>1986</b>—Subsec. (a)(1)(A). Pub. L. 99–506, §§103(d)(2)(C), 601(a)(2), substituted “Twelve” for “Eleven”, “six” for “five”, and “individuals with handicaps” for “handicapped individuals”.
 
 Subsec. (a)(1)(B). Pub. L. 99–506, §601(a)(1), substituted provision that Chairperson and vice-chairperson of Board shall be elected by majority vote of members of Board to serve for terms of one year, for provision that President had to appoint first Chairman of such Board who was to serve for term of not more than two years, with subsequent Chairmen to be elected by majority vote of Board for term of one year, and inserted provisions that positions of Chairperson and vice-chairperson each be held alternately in succession by Federal official and by member of general public, and that when either office is held by member of general public, the other will be held by Federal official.
 
@@ -282,17 +282,17 @@ Subsec. (h)(1). Pub. L. 99–506, §103(d)(2)(C), substituted reference to indiv
 
 Subsec. (i). Pub. L. 99–506, §601(c), which directed the substitution of “of the fiscal years 1987, 1988, 1989, 1990, and 1991,” for “fiscal year ending before October 1, 1986,” was executed by making the substitution for “fiscal year ending before October 1, 1986.,” as the probable intent of Congress. See 1984 Amendment note below.
 
-1984—Subsec. (i). Pub. L. 98–221 substituted “October 1, 1986.” for “October 1, 1982”.
+<b>1984</b>—Subsec. (i). Pub. L. 98–221 substituted “October 1, 1986.” for “October 1, 1982”.
 
-1980—Subsec. (a)(1)(B)(i). Pub. L. 96–374, §1321(a)(1), substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare”.
+<b>1980</b>—Subsec. (a)(1)(B)(i). Pub. L. 96–374, §1321(a)(1), substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare”.
 
 Subsec. (a)(1)(B)(xi). Pub. L. 96–374, §1321(a)(2), added cl. (xi).
 
 Subsec. (h)(3). Pub. L. 96–374, §1321(b), added par. (3).
 
-1978—Subsec. (a). Pub. L. 95–602, §118(a), substituted provision permitting President to appoint eleven members of Board from general public of whom five are to be handicapped, adding head of the Department of Justice as a Board member, authorizing President to appoint the first chairman, and providing for the term of office, reappointment, and compensation of Board members for provision restricting Board membership to head of Department of Health, Education, and Welfare, Department of Transportation, Department of Housing and Urban Development, Department of Labor, Department of the Interior, Department of Defense, General Services Administration, United States Postal Service, and Veterans’ Administration, appointing Secretary of Health, Education, and Welfare as chairman, and authorizing appointment of a Consumer Advisory Panel, a majority of members of which were to be handicapped, to provide guidance, advice, and recommendations to Board.
+<b>1978</b>—Subsec. (a). Pub. L. 95–602, §118(a), substituted provision permitting President to appoint eleven members of Board from general public of whom five are to be handicapped, adding head of the Department of Justice as a Board member, authorizing President to appoint the first chairman, and providing for the term of office, reappointment, and compensation of Board members for provision restricting Board membership to head of Department of Health, Education, and Welfare, Department of Transportation, Department of Housing and Urban Development, Department of Labor, Department of the Interior, Department of Defense, General Services Administration, United States Postal Service, and Veterans’ Administration, appointing Secretary of Health, Education, and Welfare as chairman, and authorizing appointment of a Consumer Advisory Panel, a majority of members of which were to be handicapped, to provide guidance, advice, and recommendations to Board.
 
-Subsec. (b)(1). Pub. L. 95–602, §118(b)(1), substituted provision requiring Board to insure compliance with standards of Architectural Barriers Act of 1968, including application to United States Postal Service, and to insure all waivers and modifications of standards are based on findings of fact and are not inconsistent withthat Act or this section for provision requiring Board to insure compliance with the standards prescribed by General Services Administration, Department of Defense, and Department of Housing and Urban Development pursuant to Architectural Barriers Act of 1968.
+Subsec. (b)(1). Pub. L. 95–602, §118(b)(1), substituted provision requiring Board to insure compliance with standards of Architectural Barriers Act of 1968, including application to United States Postal Service, and to insure all waivers and modifications of standards are based on findings of fact and are not inconsistent with that Act or this section for provision requiring Board to insure compliance with the standards prescribed by General Services Administration, Department of Defense, and Department of Housing and Urban Development pursuant to Architectural Barriers Act of 1968.
 
 Subsec. (b)(2). Pub. L. 95–602, §118(b)(2), inserted “communication,” before “and attitudinal” and “telecommunication devices,” before “public buildings”.
 
@@ -308,11 +308,11 @@ Subsec. (h). Pub. L. 95–602, §118(e), added subsec. (h). Former subsec. (h), 
 
 Subsec. (i). Pub. L. 95–602, §118(e), added subsec. (i).
 
-1976—Subsec. (h). Pub. L. 94–230, §10, authorized appropriation of $1,500,000 for fiscal year ending Sept. 30, 1977.
+<b>1976</b>—Subsec. (h). Pub. L. 94–230, §10, authorized appropriation of $1,500,000 for fiscal year ending Sept. 30, 1977.
 
 Pub. L. 94–230, §11(b)(13), authorized appropriation of $1,500,000 for fiscal year ending Sept. 30, 1978.
 
-1974—Subsec. (a). Pub. L. 93–516, §111(n), redesignated cls. (6), (7), and (8), as cls. (7), (8), and (9), added cl. (6), and following designated clauses, inserted provisions that Secretary of Health, Education, and Welfare shall be Chairman of Board, and that Board shall appoint, upon recommendation of Secretary, a Consumer Advisory Panel, a majority of members of which shall be handicapped individuals, to provide guidance, advice, and recommendations to Board in carrying out its functions.
+<b>1974</b>—Subsec. (a). Pub. L. 93–516, §111(n), redesignated cls. (6), (7), and (8), as cls. (7), (8), and (9), added cl. (6), and following designated clauses, inserted provisions that Secretary of Health, Education, and Welfare shall be Chairman of Board, and that Board shall appoint, upon recommendation of Secretary, a Consumer Advisory Panel, a majority of members of which shall be handicapped individuals, to provide guidance, advice, and recommendations to Board in carrying out its functions.
 
 Pub. L. 93–651, §111(n), amended subsec. (a) in exactly the same manner as it was amended by Pub. L. 93–516.
 

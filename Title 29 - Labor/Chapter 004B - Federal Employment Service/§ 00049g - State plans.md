@@ -20,7 +20,7 @@ If such detailed plans are in conformity with the provisions of this chapter and
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–220, §306(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any State desiring to receive the benefits of this chapter shall, by the agency designated to cooperate with the United States Employment Service, submit to the Secretary of Labor detailed plans for carrying out the provisions of this chapter within such State.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–220, §306(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any State desiring to receive the benefits of this chapter shall, by the agency designated to cooperate with the United States Employment Service, submit to the Secretary of Labor detailed plans for carrying out the provisions of this chapter within such State.”
 
 Subsec. (b). Pub. L. 105–220, §306(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which contained certain requirements for plan preparation at State and national levels.
 
@@ -30,7 +30,7 @@ Subsec. (d). Pub. L. 105–220, §306(5), (6), redesignated subsec. (e) as (d) a
 
 Subsec. (e). Pub. L. 105–220, §306(5), redesignated subsec. (e) as (d).
 
-1982—Pub. L. 97–300, §601(d)(1), substituted “Secretary of Labor” for “Director” wherever appearing.
+<b>1982</b>—Pub. L. 97–300, §601(d)(1), substituted “Secretary of Labor” for “Director” wherever appearing.
 
 Subsec. (a). Pub. L. 97–300, §601(d)(2), designated provisions relating to the submission of a plan to the Secretary by any State desiring to receive benefits under certain sections of this chapter as subsec. (a).
 
@@ -40,7 +40,7 @@ Subsec. (d). Pub. L. 97–300, §601(d)(3), designated provisions relating to th
 
 Subsec. (e). Pub. L. 97–300, §601(d)(4), designated provisions relating to approval and notice by the Secretary of the State plans as subsec. (e).
 
-1954—Act Aug. 3, 1954, inserted provisions relating to promotion and development of employment opportunities and for job counseling and placement of handicapped persons.
+<b>1954</b>—Act Aug. 3, 1954, inserted provisions relating to promotion and development of employment opportunities and for job counseling and placement of handicapped persons.
 
 #### Effective Date of 1998 Amendment
 

@@ -108,7 +108,7 @@ This amends 49:33106(b)(3) to correct an error in the codification enacted by se
 
 #### Amendments
 
-1994—Subsec. (b)(3). Pub. L. 103–429 substituted “paragraph (2)(B) or (C) of this subsection” for “subparagraph (2)(B) or (C) of this paragraph”.
+<b>1994</b>—Subsec. (b)(3). Pub. L. 103–429 substituted “paragraph (2)(B) or (C) of this subsection” for “subparagraph (2)(B) or (C) of this paragraph”.
 
 #### Effective Date of 1994 Amendment
 

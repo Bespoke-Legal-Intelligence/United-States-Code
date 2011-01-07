@@ -30,13 +30,13 @@ Provisions similar to those in this section were contained in sections 1590(f), 
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–163 substituted “594” for “544”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted “594” for “544”.
 
-2004—Subsec. (d). Pub. L. 108–375 added subsec. (d).
+<b>2004</b>—Subsec. (d). Pub. L. 108–375 added subsec. (d).
 
-2001—Subsec. (a). Pub. L. 107–107 substituted “544” for “517”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–107 substituted “544” for “517”.
 
-2000—Subsec. (a). Pub. L. 106–398 substituted “517” for “492”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398 substituted “517” for “492”.
 
 #### Effective Date
 

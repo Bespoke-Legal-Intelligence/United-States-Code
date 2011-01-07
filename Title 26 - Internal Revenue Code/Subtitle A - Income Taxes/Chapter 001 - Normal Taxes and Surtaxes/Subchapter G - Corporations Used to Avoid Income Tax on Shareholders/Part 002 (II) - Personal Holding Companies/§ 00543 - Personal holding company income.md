@@ -296,21 +296,21 @@ Section 563(d), referred to in subsecs. (a)(2)(B)(ii) and (d)(5)(A)(ii), was red
 
 #### Amendments
 
-2006—Subsec. (a)(1)(B). Pub. L. 109–304 substituted “chapter 533 or 535 of title 46, United States Code” for “section 511 or 607 of the Merchant Marine Act, 1936 (46 U.S.C. App. 1161 or 1177)”.
+<b>2006</b>—Subsec. (a)(1)(B). Pub. L. 109–304 substituted “chapter 533 or 535 of title 46, United States Code” for “section 511 or 607 of the Merchant Marine Act, 1936 (46 U.S.C. App. 1161 or 1177)”.
 
-2004—Subsec. (b)(1). Pub. L. 108–357 inserted “and” at end of subpar. (A), substituted a period for “, and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “in the case of a foreign corporation all of the outstanding stock of which during the last half of the taxable year is owned by nonresident alien individuals (whether directly or indirectly through foreign estates, foreign trusts, foreign partnerships, or other foreign corporations), all items of income which would, but for this subparagraph, constitute personal holding company income under any paragraph of subsection (a) other than paragraph (7) thereof:”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–357 inserted “and” at end of subpar. (A), substituted a period for “, and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “in the case of a foreign corporation all of the outstanding stock of which during the last half of the taxable year is owned by nonresident alien individuals (whether directly or indirectly through foreign estates, foreign trusts, foreign partnerships, or other foreign corporations), all items of income which would, but for this subparagraph, constitute personal holding company income under any paragraph of subsection (a) other than paragraph (7) thereof:”.
 
-1999—Subsec. (a)(1)(D)(i). Pub. L. 106–170 substituted “1221(a)(1)” for “1221(1)”.
+<b>1999</b>—Subsec. (a)(1)(D)(i). Pub. L. 106–170 substituted “1221(a)(1)” for “1221(1)”.
 
-1998—Subsec. (d)(5)(A)(ii). Pub. L. 105–206 substituted “section 563(d)” for “section 563(c)”.
+<b>1998</b>—Subsec. (d)(5)(A)(ii). Pub. L. 105–206 substituted “section 563(d)” for “section 563(c)”.
 
-1996—Subsec. (a)(2)(B)(ii). Pub. L. 104–188 substituted “563(d)” for “563(c)”.
+<b>1996</b>—Subsec. (a)(2)(B)(ii). Pub. L. 104–188 substituted “563(d)” for “563(c)”.
 
-1988—Subsec. (a)(1)(D). Pub. L. 100–647, §6279(a), added subpar. (D).
+<b>1988</b>—Subsec. (a)(1)(D). Pub. L. 100–647, §6279(a), added subpar. (D).
 
 Subsec. (c). Pub. L. 100–647, §1010(f)(5), substituted “other than life insurance companies” for “other than life or mutual” in heading and “other than a life insurance company” for “other than life or mutual” in text.
 
-1986—Subsec. (a)(1)(B). Pub. L. 99–514, §1899A(18), substituted “46 U.S.C. App.” for “46 U.S.C.”.
+<b>1986</b>—Subsec. (a)(1)(B). Pub. L. 99–514, §1899A(18), substituted “46 U.S.C. App.” for “46 U.S.C.”.
 
 Subsec. (a)(1)(C). Pub. L. 99–514, §645(a)(1), added subpar. (C).
 
@@ -320,11 +320,11 @@ Subsec. (b)(3)(E). Pub. L. 99–514, §645(a)(4)(B), added subpar. (E).
 
 Subsec. (d). Pub. L. 99–514, §645(a)(2), added subsec. (d).
 
-1984—Subsec. (a)(1)(C). Pub. L. 98–369 struck out subpar. (C) providing for nonapplication of par. (1) to dividends to which section 302(b)(4) would apply if the corporation were an individual.
+<b>1984</b>—Subsec. (a)(1)(C). Pub. L. 98–369 struck out subpar. (C) providing for nonapplication of par. (1) to dividends to which section 302(b)(4) would apply if the corporation were an individual.
 
-1982—(a)(1)(C). Pub. L. 97–248 added subpar. (C).
+<b>1982</b>—(a)(1)(C). Pub. L. 97–248 added subpar. (C).
 
-1976—Subsec. (a)(1). Pub. L. 94–455, §1901(b)(32)(D), inserted in subpar. (B) “(46 U.S.C. 1161 or 1177)” after “Merchant Marine Act, 1936”, and struck out subpar. (C) relating to a dividend distribution of divested stock.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–455, §1901(b)(32)(D), inserted in subpar. (B) “(46 U.S.C. 1161 or 1177)” after “Merchant Marine Act, 1936”, and struck out subpar. (C) relating to a dividend distribution of divested stock.
 
 Subsec. (a)(4). Pub. L. 94–553 struck out “(other than by reason of section 2 or 6 thereof)” after “title 17 of the United States Code”.
 
@@ -334,7 +334,7 @@ Subsec. (a)(6). Pub. L. 94–455, §2106(a), redesignated existing provisions as
 
 Subsec. (b)(2)(A), (B), (D). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1966—Subsec. (a)(2). Pub. L. 89–809, §206(b)(1), struck out provision that royalties received for the use of, or for the privilege of using, a patent, invention, model, or design, secret formula, process, or other similar property right be treated as rent if such property right is also used by the corporation receiving such royalties in the manufacture or production of tangible personal property held for lease to customers and if the amount constituting rent from such leases to customers meets the requirement of subparagraph (A).
+<b>1966</b>—Subsec. (a)(2). Pub. L. 89–809, §206(b)(1), struck out provision that royalties received for the use of, or for the privilege of using, a patent, invention, model, or design, secret formula, process, or other similar property right be treated as rent if such property right is also used by the corporation receiving such royalties in the manufacture or production of tangible personal property held for lease to customers and if the amount constituting rent from such leases to customers meets the requirement of subparagraph (A).
 
 Subsec. (b)(1)(C). Pub. L. 89–809, §104(h)(2), added subpar. (C).
 
@@ -342,7 +342,7 @@ Subsec. (b)(2)(D). Pub. L. 89–809, §206(b)(2), added subpar. (D).
 
 Subsec. (b)(3). Pub. L. 89–809, §206(a), struck out “amounts constituting personal holding company income under subsection (a)(6), nor copyright royalties (as defined in subsection (a)(4)), nor produced film rents (as defined in subsection (a)(5)(B)).” after “but does not include”, and added subpars. (A) to (D).
 
-1964—Subsec. (a). Pub. L. 88–272, §225(d), amended subsec. (a) generally, and among other changes, substituted “adjusted ordinary gross income” for “gross income”, provided, relative to rental income, that in addition to the 50-percent test of par. (2)(A), now applied on the basis of adjusted income from rents and adjusted ordinary gross income, a second test for exclusion shall be whether the sum on the dividends paid during the taxable year, the dividends paid on the last day of the year, and the consent dividends for the taxable year, equals or exceeds the amount by which the personal holding company income for the year exceeds 10 percent of the ordinary gross income, relative to mineral, oil, and gas royalties, that in addition to the 50-percent test of par. (3)(A), now applied on the basis of adjusted ordinary gross income, and the 15-percent test of par. (3)(C), from which test have been excluded deductions “specifically allowable under sections other than section 162” and is also now applied on the basis of adjusted gross income, the royalties shall be excluded if the personal holding company income for the taxable year is not more than 10 percent of the ordinary gross income, relative to copyright royalties, retained the 50-percent test as in par. (4)(A), making it applicable to ordinary gross income, included in the computation of the income for the taxable year the adjusted income from rents and the adjusted income from mineral, oil, and gas royalties, excluded from the sum of deductions allocable to royalties, deductions specifically allowable under sections other than 162, and changed the requirement that deductions constitute 50 percent or more of gross income to provide that they must equal 25 percent of ordinary gross income reduced by royalties paid and by depreciation deductions with respect to copyrights, relative to produced film rents, that they be treated on their own basis and not as rentals, and defined “produced film rents”, relative to use of corporation property by shareholders, that personal holding company income includes copyright royalties and the adjusted income from mineral, oil, and gas royalties, eliminated gains from the sale or other disposition of any interest in an estate or trust, from the sale or exchange of stock or securities, and from futures transactions in any commodity, and also definition of “rents”. See subsec. (b)(3).
+<b>1964</b>—Subsec. (a). Pub. L. 88–272, §225(d), amended subsec. (a) generally, and among other changes, substituted “adjusted ordinary gross income” for “gross income”, provided, relative to rental income, that in addition to the 50-percent test of par. (2)(A), now applied on the basis of adjusted income from rents and adjusted ordinary gross income, a second test for exclusion shall be whether the sum on the dividends paid during the taxable year, the dividends paid on the last day of the year, and the consent dividends for the taxable year, equals or exceeds the amount by which the personal holding company income for the year exceeds 10 percent of the ordinary gross income, relative to mineral, oil, and gas royalties, that in addition to the 50-percent test of par. (3)(A), now applied on the basis of adjusted ordinary gross income, and the 15-percent test of par. (3)(C), from which test have been excluded deductions “specifically allowable under sections other than section 162” and is also now applied on the basis of adjusted gross income, the royalties shall be excluded if the personal holding company income for the taxable year is not more than 10 percent of the ordinary gross income, relative to copyright royalties, retained the 50-percent test as in par. (4)(A), making it applicable to ordinary gross income, included in the computation of the income for the taxable year the adjusted income from rents and the adjusted income from mineral, oil, and gas royalties, excluded from the sum of deductions allocable to royalties, deductions specifically allowable under sections other than 162, and changed the requirement that deductions constitute 50 percent or more of gross income to provide that they must equal 25 percent of ordinary gross income reduced by royalties paid and by depreciation deductions with respect to copyrights, relative to produced film rents, that they be treated on their own basis and not as rentals, and defined “produced film rents”, relative to use of corporation property by shareholders, that personal holding company income includes copyright royalties and the adjusted income from mineral, oil, and gas royalties, eliminated gains from the sale or other disposition of any interest in an estate or trust, from the sale or exchange of stock or securities, and from futures transactions in any commodity, and also definition of “rents”. See subsec. (b)(3).
 
 Subsec. (a)(2). Pub. L. 88–484 inserted sentence requiring royalties received for the use of, or for the privilege of using, a patent, invention, model, or design (whether or not patented), secret formula or process, or any other similar property right to be treated as rent, if such property right is also used by the corporation receiving such royalties in the manufacture or production of tangible personal property held for lease to customers, and if the amount (computed without regard to this sentence) constituting rent from such leases to customers meets the requirements of subparagraph (A).
 
@@ -350,11 +350,11 @@ Subsec. (b). Pub. L. 88–272, §225(d), added subsec. (b). Former subsec. (b), 
 
 Subsec. (d). Pub. L. 88–272, §225(k)(2), struck out subsec. (d) which related to special adjustment on disposition of antitrust stock received as a dividend.
 
-1962—Subsec. (a)(1). Pub. L. 87–403 prescribed conditions making inapplicable the provisions of the paragraph to dividend distribution of divested stock.
+<b>1962</b>—Subsec. (a)(1). Pub. L. 87–403 prescribed conditions making inapplicable the provisions of the paragraph to dividend distribution of divested stock.
 
 Subsec. (d). Pub. L. 87–403 added subsec. (d).
 
-1960—Subsec. (a)(1). Pub. L. 86–435, §1(b)(1), excluded copyright royalties.
+<b>1960</b>—Subsec. (a)(1). Pub. L. 86–435, §1(b)(1), excluded copyright royalties.
 
 Subsec. (a)(6). Pub. L. 86–435, §1(b)(2), inserted sentence providing that copyright royalties constitute personal holding company income.
 

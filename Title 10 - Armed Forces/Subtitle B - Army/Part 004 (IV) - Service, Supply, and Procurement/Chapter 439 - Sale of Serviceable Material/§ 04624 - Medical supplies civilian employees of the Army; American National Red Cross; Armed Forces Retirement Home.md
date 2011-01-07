@@ -46,15 +46,15 @@ In subsection (c), the words “in the District of Columbia” are omitted as su
 
 #### Amendments
 
-1990—Pub. L. 101–510, §1533(a)(5)(B), substituted “Armed Forces Retirement Home” for “Soldiers’ and Airmen's Home” in section catchline.
+<b>1990</b>—Pub. L. 101–510, §1533(a)(5)(B), substituted “Armed Forces Retirement Home” for “Soldiers’ and Airmen's Home” in section catchline.
 
 Subsec. (c). Pub. L. 101–510, §1533(a)(5)(A), substituted “Armed Forces Retirement Home” for “United States Soldiers’ and Airmen's Home”.
 
-1980—Pub. L. 96–513, §512(18)(B), inserted “and Airmen's” after “Soldiers’ ” in section catchline.
+<b>1980</b>—Pub. L. 96–513, §512(18)(B), inserted “and Airmen's” after “Soldiers’ ” in section catchline.
 
 Subsec. (c). Pub. L. 96–513, §512(18)(A), substituted “United States Soldiers’ and Airmen's” for “Soldiers’ ”.
 
-1968—Subsec. (b). Pub. L. 90–329 substituted “Army Medical Department” for “Army Medical Service”.
+<b>1968</b>—Subsec. (b). Pub. L. 90–329 substituted “Army Medical Department” for “Army Medical Service”.
 
 #### Effective Date of 1990 Amendment
 

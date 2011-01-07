@@ -32,7 +32,7 @@ In subsection (b), the words “On and after September 29, 1969,” are omitted 
 
 #### Amendments
 
-1986—Subsec. (b). Pub. L. 99–234 substituted “rates and amounts” for “rates”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–234 substituted “rates and amounts” for “rates”.
 
 #### Effective Date of 1986 Amendment
 

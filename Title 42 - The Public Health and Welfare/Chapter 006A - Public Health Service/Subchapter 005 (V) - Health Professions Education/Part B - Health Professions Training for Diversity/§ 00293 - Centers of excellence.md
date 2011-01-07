@@ -56,7 +56,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (C) Consortium
 
-&emsp;&emsp;The condition specified in this subparagraph is that, in accordance with subsection\(e)(1) of this section, the designated health profession school involved has with other health profession schools (designated or otherwise) formed a consortium to carry out the purposes described in subsection (b) of this section at the schools of the consortium.
+&emsp;&emsp;The condition specified in this subparagraph is that, in accordance with subsection (e)(1) of this section, the designated health profession school involved has with other health profession schools (designated or otherwise) formed a consortium to carry out the purposes described in subsection (b) of this section at the schools of the consortium.
 
 #### (D) Application of criteria to other programs
 
@@ -176,53 +176,61 @@ In this section:
 
 &emsp;The term “Native Americans” means American Indians, Alaskan Natives, Aleuts, and Native Hawaiians.
 
-#### (h) Funding
+#### (h) Formula for allocations
 
-#### (1) Authorization of appropriations
+#### (1) Allocations
 
-&emsp;For the purpose of making grants under subsection (a) of this section, there are authorized to be appropriated $26,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.
-
-#### (2) Allocations
-
-&emsp;Based on the amount appropriated under paragraph (1) for a fiscal year, one of the following subparagraphs shall apply:
+&emsp;Based on the amount appropriated under subsection (i) for a fiscal year, the following subparagraphs shall apply as appropriate:
 
 #### (A) In general
 
-&emsp;&emsp;If the amounts appropriated under paragraph (1) for a fiscal year are $24,000,000 or less—
+&emsp;&emsp;If the amounts appropriated under subsection (i) for a fiscal year are $24,000,000 or less—
 
-&emsp;&emsp;&emsp;(i) the Secretary shall make available $12,000,000 for grants under subsection (a) of this section to health professions schools that meet the conditions described in subsection (c)(2)(A) of this section; and
+&emsp;&emsp;&emsp;(i) the Secretary shall make available $12,000,000 for grants under subsection (a) to health professions schools that meet the conditions described in subsection (c)(2)(A); and
 
-&emsp;&emsp;&emsp;(ii) and available after grants are made with funds under clause (i), the Secretary shall make available—
+&emsp;&emsp;&emsp;(ii) and <sup>2</sup> available after grants are made with funds under clause (i), the Secretary shall make available—
 
-&emsp;&emsp;&emsp;&emsp;(I) 60 percent of such amount for grants under subsection (a) of this section to health professions schools that meet the conditions described in paragraph (3) or (4) of subsection (c) of this section (including meeting the conditions under subsection (e) of this section); and
+&emsp;&emsp;&emsp;&emsp;(I) 60 percent of such amount for grants under subsection (a) to health professions schools that meet the conditions described in paragraph (3) or (4) of subsection (c) (including meeting the conditions under subsection (e)); and
 
-&emsp;&emsp;&emsp;&emsp;(II) 40 percent of such amount for grants under subsection (a) of this section to health professions schools that meet the conditions described in subsection (c)(5) of this section.
+&emsp;&emsp;&emsp;&emsp;(II) 40 percent of such amount for grants under subsection (a) to health professions schools that meet the conditions described in subsection (c)(5).
 
 #### (B) Funding in excess of $24,000,000
 
-&emsp;&emsp;If amounts appropriated under paragraph (1) for a fiscal year exceed $24,000,000 but are less than $30,000,000—
+&emsp;&emsp;If amounts appropriated under subsection (i) for a fiscal year exceed $24,000,000 but are less than $30,000,000—
 
-&emsp;&emsp;&emsp;(i) 80 percent of such excess amounts shall be made available for grants under subsection (a) of this section to health professions schools that meet the requirements described in paragraph (3) or (4) ofsubsection (c) of this section (including meeting conditions pursuant to subsection (e) of this section); and
+&emsp;&emsp;&emsp;(i) 80 percent of such excess amounts shall be made available for grants under subsection (a) to health professions schools that meet the requirements described in paragraph (3) or (4) of subsection (c) (including meeting conditions pursuant to subsection (e)); and
 
-&emsp;&emsp;&emsp;(ii) 20 percent of such excess amount shall be made available for grants under subsection (a) of this section to health professions schools that meet the conditions described in subsection (c)(5) of this section.
+&emsp;&emsp;&emsp;(ii) 20 percent of such excess amount shall be made available for grants under subsection (a) to health professions schools that meet the conditions described in subsection (c)(5).
 
 #### (C) Funding in excess of $30,000,000
 
-&emsp;&emsp;If amounts appropriated under paragraph (1) for a fiscal year are $30,000,000 or more, the Secretary shall make available—
+&emsp;&emsp;If amounts appropriated under subsection (i) for a fiscal year exceed $30,000,000 but are less than $40,000,000, the Secretary shall make available—
 
-&emsp;&emsp;&emsp;(i) not less than $12,000,000 for grants under subsection (a) of this section to health professions schools that meet the conditions described in subsection (c)(2)(A) of this section;
+&emsp;&emsp;&emsp;(i) not less than $12,000,000 for grants under subsection (a) to health professions schools that meet the conditions described in subsection (c)(2)(A);
 
-&emsp;&emsp;&emsp;(ii) not less than $12,000,000 for grants under subsection (a) of this section to health professions schools that meet the conditions described in paragraph (3) or (4) of subsection (c) of this section (including meeting conditions pursuant to subsection (e) of this section);
+&emsp;&emsp;&emsp;(ii) not less than $12,000,000 for grants under subsection (a) to health professions schools that meet the conditions described in paragraph (3) or (4) of subsection (c) (including meeting conditions pursuant to subsection (e));
 
-&emsp;&emsp;&emsp;(iii) not less than $6,000,000 for grants under subsection (a) of this section to health professions schools that meet the conditions described in subsection (c)(5) of this section; and
+&emsp;&emsp;&emsp;(iii) not less than $6,000,000 for grants under subsection (a) to health professions schools that meet the conditions described in subsection (c)(5); and
 
-&emsp;&emsp;&emsp;(iv) after grants are made with funds under clauses (i) through (iii), any remaining funds for grants under subsection (a) of this section to health professions schools that meet the conditions described in paragraph (2)(A), (3), (4), or (5) of subsection (c) of this section.
+&emsp;&emsp;&emsp;(iv) after grants are made with funds under clauses (i) through (iii), any remaining excess amount for grants under subsection (a) to health professions schools that meet the conditions described in paragraph (2)(A), (3), (4), or (5) of subsection (c).
 
-#### (3) No limitation
+#### (D) Funding in excess of $40,000,000
 
-&emsp;Nothing in this subsection shall be construed as limiting the centers of excellence referred to in this section to the designated amount, or to preclude such entities from competing for other grants under this section.
+&emsp;&emsp;If amounts appropriated under subsection (i) for a fiscal year are $40,000,000 or more, the Secretary shall make available—
 
-#### (4) Maintenance of effort
+&emsp;&emsp;&emsp;(i) not less than $16,000,000 for grants under subsection (a) to health professions schools that meet the conditions described in subsection (c)(2)(A);
+
+&emsp;&emsp;&emsp;(ii) not less than $16,000,000 for grants under subsection (a) to health professions schools that meet the conditions described in paragraph (3) or (4) of subsection (c) (including meeting conditions pursuant to subsection (e));
+
+&emsp;&emsp;&emsp;(iii) not less than $8,000,000 for grants under subsection (a) to health professions schools that meet the conditions described in subsection (c)(5); and
+
+&emsp;&emsp;&emsp;(iv) after grants are made with funds under clauses (i) through (iii), any remaining funds for grants under subsection (a) to health professions schools that meet the conditions described in paragraph (2)(A), (3), (4), or (5) of subsection (c).
+
+#### (2) No limitation
+
+&emsp;Nothing in this subsection shall be construed as limiting the centers of excellence referred to in this section to the designated amount, or to preclude such entities from competing for grants under this section.
+
+#### (3) Maintenance of effort
 
 #### (A) In general
 
@@ -230,9 +238,17 @@ In this section:
 
 #### (B) Use of Federal funds
 
-&emsp;&emsp;With respect to any Federal amounts received by a center of excellence and available for carrying out activities for which a grant under this part is authorized to be expended, the Secretary may not make such a grant to the center for any fiscal year unless the center agrees that the center will, before expending the grant, expend the Federal amounts obtained from sources other than the grant.
+&emsp;&emsp;With respect to any Federal amounts received by a center of excellence and available for carrying out activities for which a grant under this part is authorized to be expended, the center shall, before expending the grant, expend the Federal amounts obtained from sources other than the grant, unless given prior approval from the Secretary.
 
-(July 1, 1944, ch. 373, title VII, §736, as added Pub. L. 105–392, title I, §101(a), Nov. 13, 1998, 112 Stat. 3525.)
+#### (i) Authorization of appropriations
+
+There are authorized to be appropriated to carry out this section—
+
+&emsp;(1) $50,000,000 for each of the fiscal years 2010 through 2015; and
+
+&emsp;(2) and <sup>2</sup> such sums as are necessary for each subsequent fiscal year.
+
+(July 1, 1944, ch. 373, title VII, §736, as added Pub. L. 105–392, title I, §101(a), Nov. 13, 1998, 112 Stat. 3525; amended Pub. L. 111–148, title V, §5401, Mar. 23, 2010, 124 Stat. 642.)
 
 #### References in Text
 
@@ -246,9 +262,15 @@ Another prior section 293, act July 1, 1944, ch. 373, title VII, §720, as added
 
 A prior section 736 of act July 1, 1944, was classified to section 294i of this title prior to the general revision of this subchapter by Pub. L. 102–408.
 
+#### Amendments
+
+<b>2010</b>—Subsecs. (h), (i). Pub. L. 111–148 added subsecs. (h) and (i) and struck out former subsec. (h) which related to authorization of appropriations for fiscal years 1998 through 2002 and allocations of amounts.
+
 #### Savings Provision
 
 Pub. L. 105–392, title I, §110, Nov. 13, 1998, 112 Stat. 3562, provided that: “In the case of any authority for making awards of grants or contracts that is terminated by the amendments made by this subtitle \[subtitle A (§§101–110) of title I of Pub. L. 105–392, see Tables for classification\], the Secretary of Health and Human Services may, notwithstanding the termination of the authority, continue in effect any grant or contract made under the authority that is in effect on the day before the date of the enactment of this Act \[Nov. 13, 1998\], subject to the duration of any such grant or contract not exceeding the period determined by the Secretary in first approving such financial assistance, or in approving the most recent request made (before the date of such enactment) for continuation of such assistance, as the case may be.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

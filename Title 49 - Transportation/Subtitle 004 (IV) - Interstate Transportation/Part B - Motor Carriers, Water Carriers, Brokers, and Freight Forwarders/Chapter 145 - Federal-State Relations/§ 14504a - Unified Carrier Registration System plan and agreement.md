@@ -196,7 +196,7 @@ Rules and regulations governing the ucr agreement.—The board of directors shal
 
 &emsp;&emsp;&emsp;(iii) the payment of excess fees by a State to the designated depository and the distribution of fees by the depository to those States so entitled; and
 
-&emsp;&emsp;&emsp;(iv) the providing of notice by a motor carrier, motor private carrier, broker, freight forwarder, or leasing company tothe board of the intent of such entity to change its base-State, and the procedures for a State to object to such a change under subparagraph (C);
+&emsp;&emsp;&emsp;(iv) the providing of notice by a motor carrier, motor private carrier, broker, freight forwarder, or leasing company to the board of the intent of such entity to change its base-State, and the procedures for a State to object to such a change under subparagraph (C);
 
 &emsp;&emsp;(B) provide for the administration of the unified carrier registration agreement, including procedures for amending the agreement and obtaining clarification of any provision of the Agreement;
 
@@ -230,7 +230,7 @@ Quorum.—A majority of directors shall constitute a quorum.
 
 &emsp;&emsp;(C)
 
-Voting.—Approval of any matter before the board shall require the approval of a majority of all directors present at the meeting, except that a decision to approve the exclusion of carriers from the definition of the term “motor carrier” under subsection (a)(5) shall require an affirmative vote of 3/4 of all such directors..<sup>3</sup>
+Voting.—Approval of any matter before the board shall require the approval of a majority of all directors present at the meeting, except that a decision to approve the exclusion of carriers from the definition of the term “motor carrier” under subsection (a)(5) shall require an affirmative vote of ¾ of all such directors..<sup>3</sup>
 
 &emsp;&emsp;(D)
 
@@ -266,7 +266,7 @@ Determination of fees.—
 
 &emsp;&emsp;(A)
 
-Recommendation by board.—The board shall recommend to the Secretary the initial annual fees to be assessed carriers, leasing companies, brokers, and freight forwarders under the unified carrier registration agreement. In making its recommendation to the Secretary for the level of fees to be assessed in any agreement year, and in setting the fee level, the board and the Secretary shall consider—
+Recommendation by board.—The board shall recommend to the Secretary theinitial annual fees to be assessed carriers, leasing companies, brokers, and freight forwarders under the unified carrier registration agreement. In making its recommendation to the Secretary for the level of fees to be assessed in any agreement year, and in setting the fee level, the board and the Secretary shall consider—
 
 &emsp;&emsp;&emsp;(i) the administrative costs associated with the unified carrier registration plan and the agreement;
 
@@ -352,7 +352,7 @@ Fees.—(A) Fees charged—
 
 &emsp;(2)
 
-Determination of ownership or operation.—For purposes of this subsection, a commercial motor vehicle is owned or operated by a motor carrier, motor private carrier, or freight forwarder if the vehicle is registered under Federal law or State law, or both, in the name of the motor carrier, motor private carrier, or freight forwarder or is controlled by the motor carrier, motor private carrier, or freight forwarder under a long term lease during a vehicle registration year.
+Determination of ownership or operation.—For purposes of this subsection, a commercial motor vehicle is owned or operated by a motor carrier, motor private carrier, or freight forwarder if the vehicle is registered under Federal law or State law, or both, in thename of the motor carrier, motor private carrier, or freight forwarder or is controlled by the motor carrier, motor private carrier, or freight forwarder under a long term lease during a vehicle registration year.
 
 &emsp;(3)
 
@@ -418,7 +418,7 @@ Relief.—Subject to section 1341 of title 28, the court, on a proper showing sh
 
 Enforcement by states.—Nothing in this section—
 
-&emsp;&emsp;(A) prohibits a participating State from issuing citations and imposing reasonable fines and penalties pursuant to the applicable laws and regulations of the State on any motor carrier, motor private carrier, freight forwarder, broker, or leasing company for failure to—
+&emsp;&emsp;(A) prohibits a participating State from issuing citations and imposing reasonable fines and penalties pursuant to the applicable laws and regulations of the State on anymotor carrier, motor private carrier, freight forwarder, broker, or leasing company for failure to—
 
 &emsp;&emsp;&emsp;(i) submit information documents as required under subsection (d)(2); or
 
@@ -442,7 +442,7 @@ The date of enactment of the Unified Carrier Registration Act of 2005, referred 
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–432, §701(d)(1)(A), inserted “(except as provided in paragraph (5))” after “14506” in introductory provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–432, §701(d)(1)(A), inserted “(except as provided in paragraph (5))” after “14506” in introductory provisions.
 
 Subsec. (a)(1)(A). Pub. L. 110–432, §701(d)(1)(B), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “Except as provided in subparagraph (B), the term ‘commercial motor vehicle’ has the meaning such term has under section 31101.”
 
@@ -454,11 +454,15 @@ Subsec. (c)(1)(B). Pub. L. 110–244, §301(p)(1), substituted “a” for “th
 
 Subsec. (c)(2). Pub. L. 110–244, §301(n), substituted “exclusively in intrastate operations” for “exclusively in interstate operations”.
 
-Subsec. (d)(4)(C). Pub. L. 110–432, §701(d)(2), inserted before period “, except that a decision to approve the exclusion of carriers from the definition of the term ‘motor carrier’ under subsection (a)(5) shall require an affirmative vote of 3/4 of all such directors.”
+Subsec. (d)(4)(C). Pub. L. 110–432, §701(d)(2), inserted before period “, except that a decision to approve the exclusion of carriers from the definition of the term ‘motor carrier’ under subsection (a)(5) shall require an affirmative vote of ¾ of all such directors.”
 
 Subsec. (f)(1)(A)(i). Pub. L. 110–244, §301(p)(2), struck out “in connection with the filing of proof of financial responsibility” before “under the UCR agreement”.
 
 Subsec. (f)(1)(A)(ii). Pub. L. 110–244, §301(<i>o</i>), (p)(3), substituted “under the UCR agreement” for “in connection with such a filing” and struck out “or” before “under this paragraph.”
+
+#### Deemed References to Chapters 509 and 511 of Title 51
+
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

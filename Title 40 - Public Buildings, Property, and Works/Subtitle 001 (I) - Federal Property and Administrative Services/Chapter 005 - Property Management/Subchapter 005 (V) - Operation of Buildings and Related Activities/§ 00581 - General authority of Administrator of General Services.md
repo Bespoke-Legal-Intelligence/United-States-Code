@@ -158,9 +158,9 @@ In subsection (g)(1), the words “mixed-ownership Government corporation” are
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–284 substituted “The Administrator of General Services may—” for “The Administrator may—” in introductory provisions.
+<b>2006</b>—Subsec. (b). Pub. L. 109–284 substituted “The Administrator of General Services may—” for “The Administrator may—” in introductory provisions.
 
-2002—Subsec. (a). Pub. L. 107–296, §1706(a)(1), struck out subsec. (a) which read as follows: “
+<b>2002</b>—Subsec. (a). Pub. L. 107–296, §1706(a)(1), struck out subsec. (a) which read as follows: “
 
 Applicability.—To the extent that the Administrator of General Services by law, other than this section, may maintain, operate, and protect buildings or property, including the construction, repair, preservation, demolition, furnishing, or equipping of buildings or property, the Administrator, in the discharge of these duties, may exercise authority granted under this section.”
 
@@ -169,6 +169,40 @@ Subsec. (b). Pub. L. 107–296, §1706(a)(2), in par. (1), inserted “and” at
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
+#### Federal Buildings Personnel Training
+
+Pub. L. 111–308, Dec. 14, 2010, 124 Stat. 3283, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Federal Buildings Personnel Training Act of 2010’.
+
+#### “SEC. 2. TRAINING OF FEDERAL BUILDING PERSONNEL.
+
+“(a)
+
+Identification of Core Competencies.—Not later than 18 months after the date of enactment of this Act \[Dec. 14, 2010\], and annually thereafter, the Administrator of General Services, in consultation with representatives of relevant professional societies, industry associations, and apprenticeship training providers, and after providing notice and an opportunity for comment, shall identify the core competencies necessary for Federal personnel performing building operations and maintenance, energy management, safety, and design functions to comply with requirements under Federal law. The core competencies identified shall include competencies relating to building operations and maintenance, energy management, sustainability, water efficiency, safety (including electrical safety), and building performance measures.
+
+“(b)
+
+Designation of Relevant Courses, Certifications, Degrees, Licenses, and Registrations.—The Administrator, in consultation with representatives of relevant professional societies, industry associations, and apprenticeship training providers, shall identify a course, certification, degree, license, or registration to demonstrate each core competency, and for ongoing training with respect to each core competency, identified for a category of personnel specified in subsection (a).
+
+“(c)
+
+Identified Competencies.—An individual shall demonstrate each core competency identified by the Administrator under subsection (a) for the category of personnel that includes such individual. An individual shall demonstrate each core competency through the means identified under subsection (b) not later than one year after the date on which such core competency is identified under subsection (a) or, if the date of hire of such individual occurs after the date of such identification, not later than one year after such date of hire. In the case of an individual hired for an employment period not to exceed one year, such individual shalldemonstrate each core competency at the start of the employment period.
+
+“(d)
+
+Continuing Education.—The Administrator, in consultation with representatives of relevant professional societies, industry associations, and apprenticeship training providers, shall develop or identify comprehensive continuing education courses to ensure the operation of Federal buildings in accordance with industry best practices and standards.
+
+“(e)
+
+Curriculum With Respect to Facility Management and Operation of High-Performance Buildings.—Not later than 18 months after the date of enactment of this Act, and annually thereafter, the Administrator, acting through the head of the Office of Federal High-Performance Green Buildings, and the Secretary of Energy, acting through the head of the Office of Commercial High-Performance Green Buildings, in consultation with the heads of other appropriate Federal departments and agencies and representatives of relevant professional societies, industry associations, and apprenticeship training providers, shall develop a recommended curriculum relating to facility management and the operation of high-performance buildings.
+
+“(f)
+
+Applicability of This Section to Functions Performed Under Contract.—Training requirements under this section shall apply to non-Federal personnel performing building operations and maintenance, energy management, safety, and design functions under a contract with a Federal department or agency. A contractor shall provide training to, and certify the demonstration of core competencies for, non-Federal personnel in a manner that is approved by the Administrator.”
 
 #### Facilitating Access to Federal Property for Siting of Mobile Services Antennas
 

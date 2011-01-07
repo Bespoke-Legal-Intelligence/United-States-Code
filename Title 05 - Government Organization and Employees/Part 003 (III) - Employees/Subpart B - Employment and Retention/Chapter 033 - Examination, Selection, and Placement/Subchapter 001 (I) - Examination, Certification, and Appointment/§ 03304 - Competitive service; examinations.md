@@ -18,7 +18,7 @@
 
 (c)(1) For the purpose of this subsection, the term “technician” has the meaning given such term by section 8337(h)(1) of this title.
 
-(2) Notwithstanding a contrary provision of this title or of the rules and regulations prescribed under this title for the administration ofthe competitive service, an individual who served for at least 3 years as a technician acquires a competitive status for transfer to the competitive service if such individual—
+(2) Notwithstanding a contrary provision of this title or of the rules and regulations prescribed under this title for the administration of the competitive service, an individual who served for at least 3 years as a technician acquires a competitive status for transfer to the competitive service if such individual—
 
 &emsp;(A) is involuntarily separated from service as a technician other than by removal for cause on charges of misconduct or delinquency;
 

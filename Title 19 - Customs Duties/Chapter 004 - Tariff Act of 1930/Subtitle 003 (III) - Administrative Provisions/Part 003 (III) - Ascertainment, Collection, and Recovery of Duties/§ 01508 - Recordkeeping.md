@@ -74,13 +74,13 @@ Any—
 
 #### (3) Exports under the Canadian agreement
 
-&emsp;Any person who exports, or who knowingly causes to be exported, any merchandise toCanada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada shall make, keep, and render for examination and inspection such records (including certifications of origin or copies thereof) which pertain to the exportations.
+&emsp;Any person who exports, or who knowingly causes to be exported, any merchandise to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada shall make, keep, and render for examination and inspection such records (including certifications of origin or copies thereof) which pertain to the exportations.
 
 #### (c) Period of time
 
 The records required by subsections (a) and (b) of this section shall be kept for such periods of time as the Secretary shall prescribe; except that—
 
-&emsp;(1) no period of time for the retention of the records required under subsection (a) or (b)(3) of this section may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate;
+&emsp;(1) no period of time for the retention of the records required under subsection (a) or (b)(3)of this section may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate;
 
 &emsp;(2) the period of time for the retention of the records required under subsection (b)(2) of this section shall be at least 5 years from the date of signature of the NAFTA Certificate of Origin; and
 
@@ -160,7 +160,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 #### (2) Exports to CAFTA–DR countries
 
-&emsp;Any person who completes and issues a CAFTA–DR certification of origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection allrecords and supporting documents related to the origin of the good (including the certification or copies thereof).
+&emsp;Any person who completes and issues a CAFTA–DR certification of origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
 
 #### (3) Retention period
 
@@ -174,7 +174,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 #### (A) Records and supporting documents
 
-&emsp;&emsp;The term “records and supporting documents” means, with respect to an exported good under paragraph (2), records and documents related to the origin of the good, including—
+&emsp;&emsp;The term “records and supporting documents” means, with respect to an exportedgood under paragraph (2), records and documents related to the origin of the good, including—
 
 &emsp;&emsp;&emsp;(i) the purchase, cost, and value of, and payment for, the good;
 
@@ -218,23 +218,23 @@ A prior section 1508, acts June 17, 1930, ch. 497, title IV, §508, 46 Stat. 732
 
 #### Amendments
 
-2007—Subsec. (h). Pub. L. 110–138, §§107(c), 207(2), temporarily added subsec. (h). Former subsec. (h) redesignated (i). See Effective and Termination Dates of 2007 Amendment note below.
+<b>2007</b>—Subsec. (h). Pub. L. 110–138, §§107(c), 207(2), temporarily added subsec. (h). Former subsec. (h) redesignated (i). See Effective and Termination Dates of 2007 Amendment note below.
 
 Subsec. (i). Pub. L. 110–138, §§107(c), 207(1), (3), temporarily redesignated subsec. (h) as (i) and, in introductory provisions, substituted “(f), (g), or (h)” for “(f) or (g)” and “any such subsection” for “either such subsection”. See Effective and Termination Dates of 2007 Amendment note below.
 
-2005—Subsec. (g). Pub. L. 109–53, §§107(d), 208(2), temporarily added subsec. (g). Former subsec. (g) redesignated (h). See Effective and Termination Dates of 2005 Amendment note below.
+<b>2005</b>—Subsec. (g). Pub. L. 109–53, §§107(d), 208(2), temporarily added subsec. (g). Former subsec. (g) redesignated (h). See Effective and Termination Dates of 2005 Amendment note below.
 
 Subsec. (h). Pub. L. 109–53, §§107(d), 208(1), (3), temporarily redesignated subsec. (g) as (h) and, in introductory provisions, inserted “or (g)” after “(f)” and substituted “either such subsection” for “that subsection”. See Effective and Termination Dates of 2005 Amendment note below.
 
-2003—Subsec. (b). Pub. L. 108–77, §§107(c), 207(1), temporarily substituted “Exportations to NAFTA countries” for “Exportations to free trade countries” in heading. See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (b). Pub. L. 108–77, §§107(c), 207(1), temporarily substituted “Exportations to NAFTA countries” for “Exportations to free trade countries” in heading. See Effective and Termination Dates of 2003 Amendment note below.
 
 Subsec. (b)(2)(B)(i)(I). Pub. L. 108–77, §§107(c), 209, temporarily substituted “the eleventh paragraph of section 1311 of this title” for “the last paragraph of section 1311 of this title” and “the proviso preceding the last proviso to section 81c(a) of this title” for “the last proviso to section 81c(a) of this title”. See Effective and Termination Dates of 2003 Amendment note below.
 
 Subsecs. (f), (g). Pub. L. 108–77, §§107(c), 207(2), temporarily added subsecs. (f) and (g). See Effective and Termination Dates of 2003 Amendment note below.
 
-1996—Subsec. (c)(1). Pub. L. 104–295 inserted “, filing of a reconciliation,” after “entry”.
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–295 inserted “, filing of a reconciliation,” after “entry”.
 
-1993—Subsec. (a). Pub. L. 103–182, §614(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any owner, importer, consignee, or agent thereof who imports, or who knowingly causes to be imported, any merchandise into the customs territory of the United States shall make, keep, and render for examination and inspection such records (including statements, declarations, and other documents) which—
+<b>1993</b>—Subsec. (a). Pub. L. 103–182, §614(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any owner, importer, consignee, or agent thereof who imports, or who knowingly causes to be imported, any merchandise into the customs territory of the United States shall make, keep, and render for examination and inspection such records (including statements, declarations, and other documents) which—
 
 &emsp;“(1) pertain to any such importation, or to the information contained in the documents required by this chapter in connection with the entry of merchandise; and
 
@@ -248,7 +248,7 @@ Pub. L. 103–182, §614(2), amended subsec. (c) generally. Prior to amendment, 
 
 Subsec. (e). Pub. L. 103–182, §205(a)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any person who fails to retain records required by subsection (b) of this section or the regulations issued to implement that subsection shall be liable to a civil penalty not to exceed $10,000.”
 
-1988—Subsecs. (b) to (e). Pub. L. 100–449 added subsec. (b), redesignated former subsec. (b) as (c) and inserted “and (b)” after “subsection (a)”, redesignated former subsec. (c) as (d), and added subsec. (e).
+<b>1988</b>—Subsecs. (b) to (e). Pub. L. 100–449 added subsec. (b), redesignated former subsec. (b) as (c) and inserted “and (b)” after “subsection (a)”, redesignated former subsec. (c) as (d), and added subsec. (e).
 
 #### Effective and Termination Dates of 2007 Amendment
 

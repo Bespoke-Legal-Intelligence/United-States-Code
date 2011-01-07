@@ -14,5 +14,5 @@ Grants under this section may only be used for the following activities:
 
 #### Amendments
 
-1992—Pars. (1), (2). Pub. L. 102–550 substituted “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases”.
+<b>1992</b>—Pars. (1), (2). Pub. L. 102–550 substituted “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases”.
 

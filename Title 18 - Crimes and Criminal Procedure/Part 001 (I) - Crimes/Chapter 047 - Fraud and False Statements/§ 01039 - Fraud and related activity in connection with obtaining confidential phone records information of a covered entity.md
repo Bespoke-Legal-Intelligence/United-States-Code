@@ -26,7 +26,7 @@ Prohibition on Sale or Transfer of Confidential Phone Records Information.—
 
 Prohibition on Purchase or Receipt of Confidential Phone Records Information.—
 
-&emsp;(1) Except as otherwise permitted by applicable law, whoever, in interstate or foreign commerce, knowingly and intentionally purchases or receives, or attempts to purchase or receive, confidential phone records information of a covered entity, without prior authorization from the customer to whom such confidential phone records information relates, or knowing or having reason to know such information was obtained fraudulently, shall be fined under this title, imprisoned not more than 10 years, or both.
+&emsp;(1) Except as otherwise permitted by applicable law, whoever, in interstate or foreign commerce, knowingly and intentionally purchases or receives, or attempts to purchase or receive, confidential phone records information of a covered entity, without prior authorization from the customer to whom such confidential phone records information relates, orknowing or having reason to know such information was obtained fraudulently, shall be fined under this title, imprisoned not more than 10 years, or both.
 
 &emsp;(2) For purposes of this subsection, the exceptions specified in section 222(d) of the Communications Act of 1934 shall apply for the use of confidential phone records information by any covered entity, as defined in subsection (h).
 
@@ -62,7 +62,7 @@ Confidential phone records information.—The term “confidential phone records
 
 &emsp;&emsp;(B) is made available to a covered entity by a customer solely by virtue of the relationship between that covered entity and the customer; or
 
-&emsp;&emsp;(C) is contained in any bill, itemization, or account statement provided to a customerby or on behalf of a covered entity solely by virtue of the relationship between that covered entity and the customer.
+&emsp;&emsp;(C) is contained in any bill, itemization, or account statement provided to a customer by or on behalf of a covered entity solely by virtue of the relationship between that covered entity and the customer.
 
 &emsp;(2)
 

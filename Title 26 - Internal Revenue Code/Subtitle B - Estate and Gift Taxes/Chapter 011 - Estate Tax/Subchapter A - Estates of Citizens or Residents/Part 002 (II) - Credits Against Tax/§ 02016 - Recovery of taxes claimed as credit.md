@@ -10,11 +10,11 @@ If any tax claimed as a credit under section 2014 is recovered from any foreign 
 
 #### Amendments
 
-2002—Pub. L. 107–147 struck out “any State, any possession of the United States, or the District of Columbia,” after “any foreign country,”.
+<b>2002</b>—Pub. L. 107–147 struck out “any State, any possession of the United States, or the District of Columbia,” after “any foreign country,”.
 
-2001—Pub. L. 107–16, §§532(c)(4), 901, temporarily struck out “2011 or” before “2014 is recovered”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Pub. L. 107–16, §§532(c)(4), 901, temporarily struck out “2011 or” before “2014 is recovered”. See Effective and Termination Dates of 2001 Amendment note below.
 
-1976—Pub. L. 94–455 struck out “Territory or” after “any State, any” and “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out “Territory or” after “any State, any” and “or his delegate” after “Secretary”.
 
 #### Effective Date of 2002 Amendment
 
@@ -24,5 +24,5 @@ Amendment by Pub. L. 107–147 effective as if included in the provisions of the
 
 Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 

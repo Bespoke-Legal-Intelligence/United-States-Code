@@ -16,11 +16,11 @@ The Secretary shall discontinue the educational assistance allowance on behalf o
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1724 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1724 of this title as this section.
 
 Par. (2)(C). Pub. L. 102–83, §5(c)(1), substituted “3691” for “1791”.
 
-1989—Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
 Pub. L. 101–237, §412(b), substituted “attendance, conduct,” for “conduct”.
 
@@ -30,11 +30,11 @@ Pars. (1), (2). Pub. L. 101–237, §411(b), added pars. (1) and (2) and struck 
 
 “(2) the program which the eligible person now proposes to pursue (whether the same or revised) is suitable to the person's aptitudes, interests, and abilities.”
 
-1980—Pub. L. 96–466 struck out provisions relating to the conditions upon which an eligible person's progress would be considered unsatisfactory.
+<b>1980</b>—Pub. L. 96–466 struck out provisions relating to the conditions upon which an eligible person's progress would be considered unsatisfactory.
 
-1977—Pub. L. 95–202 inserted provisions authorizing the Administrator to determine the veteran's progress to be satisfactory even though the veteran will graduate within a length of time exceeding the approved length if the additional length of time is reasonable in accordance with regulations.
+<b>1977</b>—Pub. L. 95–202 inserted provisions authorizing the Administrator to determine the veteran's progress to be satisfactory even though the veteran will graduate within a length of time exceeding the approved length if the additional length of time is reasonable in accordance with regulations.
 
-1976—Pub. L. 94–502, §310(15), substituted “such person is attending” for “he is attending”, “the Administrator finds that” for “he finds that”, and “the person's” for “his” in two places.
+<b>1976</b>—Pub. L. 94–502, §310(15), substituted “such person is attending” for “he is attending”, “the Administrator finds that” for “he finds that”, and “the person's” for “his” in two places.
 
 Pub. L. 94–502, §307, inserted provision specifying progress as unsatisfactory when the veteran will not be able to graduate within the approved length of the course.
 

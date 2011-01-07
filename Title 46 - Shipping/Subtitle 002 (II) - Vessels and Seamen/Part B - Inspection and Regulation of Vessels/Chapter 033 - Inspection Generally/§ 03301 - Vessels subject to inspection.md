@@ -32,7 +32,7 @@ The following categories of vessels are subject to inspection under this part:
 
 &emsp;(15) towing vessels.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(2), July 17, 1984, 98 Stat. 445; Pub. L. 102–587, title V, §5208(b), Nov. 4, 1992, 106 Stat. 5076; Pub. L. 104–324, title XI, §1104(g), Oct.19, 1996, 110 Stat. 3967; Pub. L. 108–293, title IV, §415(a), Aug. 9, 2004, 118 Stat. 1047.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(2), July 17, 1984, 98 Stat. 445; Pub. L. 102–587, title V, §5208(b), Nov. 4, 1992, 106 Stat. 5076; Pub. L. 104–324, title XI, §1104(g), Oct. 19, 1996, 110 Stat. 3967; Pub. L. 108–293, title IV, §415(a), Aug. 9, 2004, 118 Stat. 1047.)
 
 Historical and Revision Notes
 
@@ -96,13 +96,13 @@ It should also be noted that a particular vessel can, when engaged in various ty
 
 #### Amendments
 
-2004—Par. (15). Pub. L. 108–293 added par. (15).
+<b>2004</b>—Par. (15). Pub. L. 108–293 added par. (15).
 
-1996—Par. (14). Pub. L. 104–324 added par. (14).
+<b>1996</b>—Par. (14). Pub. L. 104–324 added par. (14).
 
-1992—Par. (13). Pub. L. 102–587 added par. (13).
+<b>1992</b>—Par. (13). Pub. L. 102–587 added par. (13).
 
-1984—Pars. (11), (12). Pub. L. 98–364 added pars. (11) and (12).
+<b>1984</b>—Pars. (11), (12). Pub. L. 98–364 added pars. (11) and (12).
 
 #### Effective Date of 1992 Amendment
 

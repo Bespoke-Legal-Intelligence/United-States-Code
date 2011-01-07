@@ -28,7 +28,7 @@
 
 #### Amendments
 
-1994—Subsec. (a)(2). Pub. L. 103–337 substituted “Court of Criminal Appeals” for “Court of Military Review” and “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–337 substituted “Court of Criminal Appeals” for “Court of Military Review” and “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
 
 #### Effective Date
 

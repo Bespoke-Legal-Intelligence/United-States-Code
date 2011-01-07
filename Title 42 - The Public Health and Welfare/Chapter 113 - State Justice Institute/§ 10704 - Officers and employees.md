@@ -2,7 +2,7 @@
 
 #### (a) Duties of Director; appointment and removal of employees; political tests or qualifications prohibited
 
-(1) The Director, subject to general policies established by the Board, shall supervise the activities of persons employed by the Institute and may appoint and remove such employees as he determines necessary to carry out the purposes of the Institute. The Director shall be responsible for the executive and administrative operations of the Institute, and shall perform suchduties as are delegated to such Director by the Board and the Institute.
+(1) The Director, subject to general policies established by the Board, shall supervise the activities of persons employed by the Institute and may appoint and remove such employees as he determines necessary to carry out the purposes of the Institute. The Director shall be responsible for the executive and administrative operations of the Institute, and shall perform such duties as are delegated to such Director by the Board and the Institute.
 
 (2) No political test or political qualification shall be used in selecting, appointing, promoting, or taking any other personnel action with respect to any officer, agent, or employee of the Institute, or in selecting or monitoring any grantee, contractor, person, or entity receiving financial assistance under this chapter.
 
@@ -30,11 +30,15 @@ The Institute and its officers and employees shall be subject to the provisions 
 
 (Pub. L. 98–620, title II, §205, Nov. 8, 1984, 98 Stat. 3339; Pub. L. 100–690, title VII, §7321(b)(2), Nov. 18, 1988, 102 Stat. 4466; Pub. L. 100–702, title VI, §602, Nov. 19, 1988, 102 Stat. 4653; Pub. L. 108–372, §3(a), (b), Oct. 25, 2004, 118 Stat. 1754.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(2) and (c)(1), (2), was in the original “this title”, meaning title II ofPub. L. 98–620, Nov. 8, 1984, 98 Stat. 3336, known as the State Justice Institute Act of 1984, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 10701 of this title and Tables.
+
 #### Amendments
 
-2004—Subsec. (c)(3). Pub. L. 108–372, §3(a), added par. (3).
+<b>2004</b>—Subsec. (c)(3). Pub. L. 108–372, §3(a), added par. (3).
 
 Subsec. (d)(2). Pub. L. 108–372, §3(b), inserted “, notwithstanding section 8914 of such title” after “(relating to health insurance)”.
 
-1988—Subsec. (d)(2). Pub. L. 100–690 and Pub. L. 100–702 amended par. (2) identically, substituting “chapters 83 and 84” for “chapter 83”.
+<b>1988</b>—Subsec. (d)(2). Pub. L. 100–690 and Pub. L. 100–702 amended par. (2) identically, substituting “chapters 83 and 84” for “chapter 83”.
 

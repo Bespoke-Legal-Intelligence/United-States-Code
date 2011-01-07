@@ -22,21 +22,21 @@
 
 #### Amendments
 
-2002—Subsec. (d). Pub. L. 107–314 struck out subsec. (d) which read as follows: “In this section, the term ‘continental United States’ means the 48 contiguous States and the District of Columbia.”
+<b>2002</b>—Subsec. (d). Pub. L. 107–314 struck out subsec. (d) which read as follows: “In this section, the term ‘continental United States’ means the 48 contiguous States and the District of Columbia.”
 
-1999—Subsec. (b)(1). Pub. L. 106–65 struck out “or” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
+<b>1999</b>—Subsec. (b)(1). Pub. L. 106–65 struck out “or” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
 
-1994—Subsec. (b)(1). Pub. L. 103–337, §623(1)(A), substituted “from the location of the member or dependents, at the time notification of the personal emergency is received, or” for “from the international airport nearest the location of the member and dependents at the time notification of the personal emergency is received or the international airport nearest” in introductory provisions.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–337, §623(1)(A), substituted “from the location of the member or dependents, at the time notification of the personal emergency is received, or” for “from the international airport nearest the location of the member and dependents at the time notification of the personal emergency is received or the international airport nearest” in introductory provisions.
 
 Subsec. (b)(1)(A). Pub. L. 103–337, §623(1)(B), substituted “closest to the location” for “closest to the international airport”.
 
 Subsec. (b)(4). Pub. L. 103–337, §623(2), substituted “to the location from which the member or dependent departed or the member's duty station.” for “to the international airport from which the member or dependent departed or the international airport nearest the member's duty station.”
 
-1991—Subsecs. (a), (b)(3), (c). Pub. L. 102–25 struck out “of this section” in subsecs. (a) and (c) and “of this subsection” in two places in subsec. (b)(3).
+<b>1991</b>—Subsecs. (a), (b)(3), (c). Pub. L. 102–25 struck out “of this section” in subsecs. (a) and (c) and “of this subsection” in two places in subsec. (b)(3).
 
-1987—Subsec. (d). Pub. L. 100–26 inserted “the term” after “In this section,”.
+<b>1987</b>—Subsec. (d). Pub. L. 100–26 inserted “the term” after “In this section,”.
 
-1984—Pub. L. 98–525 substituted “personal emergencies for certain members and dependents” for “certain emergencies for members performing temporary duty” in section catchline.
+<b>1984</b>—Pub. L. 98–525 substituted “personal emergencies for certain members and dependents” for “certain emergencies for members performing temporary duty” in section catchline.
 
 Subsec. (a). Pub. L. 98–525 substituted “transportation in accordance with subsection (b) of this section may be provided for a member of a uniformed service and for dependents of that member authorized to reside at the member's duty station (or authorized to reside at another location and receive a station allowance) incident to emergency leave granted for reasons of a personal emergency (or in the case of transportation provided only for a dependent, under circumstances involving a personal emergency similar to the circumstances for which emergency leave could be granted a member)” for “a member of a uniformed service who is performing temporary duty away from his permanent duty station (or who is assigned to a ship or unit operating away from its home port) may be provided the travel and transportation authorized by section 404 of this title for travel performed by the member from his place of temporary duty (or from his ship or unit) to his permanent duty station (or the home port of the ship or unit) or to any other location, and return (if applicable), if such travel has been approved incident to the serious illness or injury or the death of a dependent of the member”.
 

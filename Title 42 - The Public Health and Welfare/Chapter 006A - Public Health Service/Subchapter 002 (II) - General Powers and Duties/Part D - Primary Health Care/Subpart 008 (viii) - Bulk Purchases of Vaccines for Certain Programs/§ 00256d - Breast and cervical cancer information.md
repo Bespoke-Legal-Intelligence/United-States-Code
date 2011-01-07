@@ -40,7 +40,7 @@ The entities specified in this subsection are the following:
 
 &emsp;(10) Non-Federal entities authorized under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\].
 
-(July 1, 1944, ch. 373, title III, §340D, as added Pub. L. 103–183, title I, §104, Dec. 14, 1993, 107Stat. 2230; amended Pub. L. 106–310, div. A, title XXV, §2502(b), Oct. 17, 2000, 114 Stat. 1163; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664.)
+(July 1, 1944, ch. 373, title III, §340D, as added Pub. L. 103–183, title I, §104, Dec. 14, 1993, 107 Stat. 2230; amended Pub. L. 106–310, div. A, title XXV, §2502(b), Oct. 17, 2000, 114 Stat. 1163; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664.)
 
 #### References in Text
 
@@ -50,15 +50,17 @@ Sections 254b and 254c of this title, referred to in subsec. (c)(3), (4), were i
 
 Section 256a of this title, referred to in subsec. (c)(6), was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 
-The Indian Self-Determination Act, referred to in subsec. (c)(10), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination Act, referred to in subsec. (c)(10), is title I of Pub. L. 93–638, Jan. 4, 1975,88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 #### Amendments
 
-2002—Subsec. (c)(5). Pub. L. 107–251 substituted “254b(h)” for “256”.
+<b>2002</b>—Subsec. (c)(5). Pub. L. 107–251 substituted “254b(h)” for “256”.
 
-2000—Subsec. (c)(1). Pub. L. 106–310 substituted “section 247b–7 of this title” for “section 247b–6 of this title”.
+<b>2000</b>—Subsec. (c)(1). Pub. L. 106–310 substituted “section 247b–7 of this title” for “section 247b–6 of this title”.
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 
 Reference to community health center, migrant health center, public housing health center, or homeless health center, considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

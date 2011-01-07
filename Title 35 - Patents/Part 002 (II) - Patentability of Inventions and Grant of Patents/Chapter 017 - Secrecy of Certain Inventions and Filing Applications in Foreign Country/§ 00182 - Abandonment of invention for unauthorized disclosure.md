@@ -12,7 +12,7 @@ Language is changed.
 
 #### Amendments
 
-1999—Pub. L. 106–113 substituted “Commissioner of Patents” for “Commissioner” wherever appearing.
+<b>1999</b>—Pub. L. 106–113 substituted “Commissioner of Patents” for “Commissioner” wherever appearing.
 
 #### Effective Date of 1999 Amendment
 

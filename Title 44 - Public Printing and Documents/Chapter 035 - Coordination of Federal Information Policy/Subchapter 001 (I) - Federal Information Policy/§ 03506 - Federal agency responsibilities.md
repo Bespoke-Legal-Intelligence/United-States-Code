@@ -10,7 +10,7 @@
 
 (B) The Secretary of the Department of Defense and the Secretary of each military department may each designate Chief Information Officers who shall report directly to such Secretary to carry out the responsibilities of the department under this subchapter. If more than one Chief Information Officer is designated, the respective duties of the Chief Information Officers shall be clearly delineated.
 
-(3) The Chief Information Officer designated under paragraph (2) shall head an office responsible for ensuring agency compliance with and prompt, efficient, and effective implementationof the information policies and information resources management responsibilities established under this subchapter, including the reduction of information collection burdens on the public. The Chief Information Officer and employees of such office shall be selected with special attention to the professional qualifications required to administer the functions described under this subchapter.
+(3) The Chief Information Officer designated under paragraph (2) shall head an office responsible for ensuring agency compliance with and prompt, efficient, and effective implementation of the information policies and information resources management responsibilities established under this subchapter, including the reduction of information collection burdens on the public. The Chief Information Officer and employees of such office shall be selected with special attention to the professional qualifications required to administer the functions described under this subchapter.
 
 (4) Each agency program official shall be responsible and accountable for information resources assigned to and supporting the programs under such official. In consultation with the Chief Information Officer designated under paragraph (2) and the agency Chief Financial Officer (or comparable official), each agency program official shall define program information needs and develop strategies, systems, and capabilities to meet those needs.
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;(A) encouraging a diversity of public and private sources for information based on government public information;
 
-&emsp;&emsp;(B) in cases in which the agency provides public information maintained in electronic format, providing timely and equitable access to the underlying data (in whole or in part); and
+&emsp;&emsp;(B) in cases in which the agency provides public information maintained in electronicformat, providing timely and equitable access to the underlying data (in whole or in part); and
 
 &emsp;&emsp;(C) agency dissemination of public information in an efficient, effective, and economical manner;
 
@@ -156,7 +156,7 @@
 
 &emsp;(6) make data available to statistical agencies and readily accessible to the public.
 
-(f) With respect to records management, each agency shall implement and enforce applicablepolicies and procedures, including requirements for archiving information maintained in electronic format, particularly in the planning, design and operation of information systems.
+(f) With respect to records management, each agency shall implement and enforce applicable policies and procedures, including requirements for archiving information maintained in electronic format, particularly in the planning, design and operation of information systems.
 
 (g) With respect to privacy and security, each agency shall—
 
@@ -198,7 +198,7 @@ Another prior section 3506, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1303, prov
 
 #### Amendments
 
-2002—Subsec. (c)(4). Pub. L. 107–198, §2(c), added par. (4).
+<b>2002</b>—Subsec. (c)(4). Pub. L. 107–198, §2(c), added par. (4).
 
 Subsec. (g)(1). Pub. L. 107–296, §1005(c)(3)(A), and Pub. L. 107–347, §305(c)(3)(A), amended par. (1) identically, inserting “and” at end.
 
@@ -212,9 +212,9 @@ Pub. L. 107–217, §3(<i>l</i>)(6)(B), substituted “section 11332 of title 40
 
 Subsec. (i). Pub. L. 107–198, §2(b), added subsec. (i).
 
-2000—Subsecs. (a)(1) to (3), (b)(4), (c)(1). Pub. L. 106–398 substituted “subchapter” for “chapter” wherever appearing.
+<b>2000</b>—Subsecs. (a)(1) to (3), (b)(4), (c)(1). Pub. L. 106–398 substituted “subchapter” for “chapter” wherever appearing.
 
-1996—Subsec. (a)(2)(A). Pub. L. 104–106, §5125(a)(1)(A), substituted “Chief Information Officer” for “senior official”.
+<b>1996</b>—Subsec. (a)(2)(A). Pub. L. 104–106, §5125(a)(1)(A), substituted “Chief Information Officer” for “senior official”.
 
 Subsec. (a)(2)(B). Pub. L. 104–106, §5125(a)(1)(B), substituted “designate Chief Information Officers” for “designate senior officials”, “Chief Information Officer” for “official”, and “the Chief Information Officers” for “the officials”.
 

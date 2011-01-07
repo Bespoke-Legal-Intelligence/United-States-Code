@@ -4,7 +4,7 @@
 
 In General.—(1) The Secretary of Defense shall use the procedures prescribed by this section with respect to any operation specified in paragraph (2) that involves—
 
-&emsp;(A) the deployment (other than for a training exercise) of elements of the Armed Forces for a purpose other than a purpose for which funds have been specifically provided in advance; or
+&emsp;(A) the deployment (other than for a training exercise) of elements of the armed forces for a purpose other than a purpose for which funds have been specifically provided in advance; or
 
 &emsp;(B) the provision of humanitarian assistance, disaster relief, or support for law enforcement (including immigration control) for which funds have not been specifically provided in advance.
 
@@ -22,13 +22,13 @@ In General.—(1) The Secretary of Defense shall use the procedures prescribed b
 
 (b)
 
-Waiver of Requirement To Reimburse Support Units.—(1) The Secretary of Defense shall direct that, when a unit of the Armed Forces participating in an operation described in subsection (a) receives services from an element of the Department of Defense that operates through the Defense Business Operations Fund (or a successor fund), such unit of the Armed Forces may not be required to reimburse that element for the incremental costs incurred by that element in providing such services, notwithstanding any other provision of law or any Government accounting practice.
+Waiver of Requirement To Reimburse Support Units.—(1) The Secretary of Defense shall direct that, when a unit of the armed forces participating in an operation described in subsection (a) receives services from an element of the Department of Defense that operates through the Defense Business Operations Fund (or a successor fund), such unit of the armed forces may not be required to reimburse that element for the incremental costs incurred by that element in providing such services, notwithstanding any other provision of law or any Government accounting practice.
 
 (2) The amounts which but for paragraph (1) would be required to be reimbursed to an element of the Department of Defense (or a fund) shall be recorded as an expense attributable to the operation and shall be accounted for separately.
 
 (c)
 
-Transfer Authority.—(1) Whenever there is an operation of the Department of Defense described in subsection (a), the Secretary of Defense may transfer amounts described in paragraph (3) to accounts from which incremental expenses for that operation were incurred in order to reimburse those accounts for those incremental expenses. Amounts so transferredshall be merged with and be available for the same purposes as the accounts to which transferred.
+Transfer Authority.—(1) Whenever there is an operation of the Department of Defense described in subsection (a), the Secretary of Defense may transfer amounts described in paragraph (3) to accounts from which incremental expenses for that operation were incurred in order to reimburse those accounts for those incremental expenses. Amounts so transferred shall be merged with and be available for the same purposes as the accounts to which transferred.
 
 (2) The total amount that the Secretary of Defense may transfer under the authority of this section in any fiscal year is $200,000,000.
 
@@ -64,7 +64,7 @@ Relationship to War Powers Resolution.—This section may not be construed as al
 
 GAO Compliance Reviews.—The Comptroller General of the United States shall from time to time, and when requested by a committee of Congress, conduct a review of the defense funding structure under this section to determine whether the Department of Defense is complying with the requirements and limitations of this section.
 
-(Added Pub. L. 103–160, div. A, title XI, §1108(a)(1), Nov. 30, 1993, 107 Stat. 1751; amended Pub. L. 104–106, div. A, title X, §1003(a)(1), Feb. 10, 1996, 110 Stat. 415; Pub. L. 108–136, div. A, title X, §1031(a)(3), Nov. 24, 2003, 117 Stat. 1596.)
+(Added Pub. L. 103–160, div. A, title XI, §1108(a)(1), Nov. 30, 1993, 107 Stat. 1751; amended Pub. L. 104–106, div. A, title X, §1003(a)(1), Feb. 10, 1996, 110 Stat. 415; Pub. L. 108–136, div. A, title X, §1031(a)(3), Nov. 24, 2003, 117 Stat. 1596; Pub. L. 111–383, div. A, title X, §1075(b)(2), Jan. 7, 2011, 124 Stat. 4369.)
 
 #### References in Text
 
@@ -72,9 +72,11 @@ The War Powers Resolution, referred to in subsec. (h), is Pub. L. 93–148, Nov.
 
 #### Amendments
 
-2003—Subsec. (d). Pub. L. 108–136 struck out subsec. (d) which required Secretary of Defense, within 45 days after identifying an operation pursuant to subsec. (a)(2), to submit a report to Congress relating to the funding, objectives, duration, cost, and exit criteria of the operation.
+<b>2011</b>—Subsecs. (a)(1)(A), (b)(1). Pub. L. 111–383 substituted “armed forces” for “Armed Forces” wherever appearing.
 
-1996—Pub. L. 104–106 substituted “Operations for which funds are not provided in advance: funding mechanisms” for “Expenses for contingency operations” as section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (h) relating to funding procedures for operations designated by the Secretary of Defense as National Contingency Operations.
+<b>2003</b>—Subsec. (d). Pub. L. 108–136 struck out subsec. (d) which required Secretary of Defense, within 45 days after identifying an operation pursuant to subsec. (a)(2), to submit a report to Congress relating to the funding, objectives, duration, cost, and exit criteria of the operation.
+
+<b>1996</b>—Pub. L. 104–106 substituted “Operations for which funds are not provided in advance: funding mechanisms” for “Expenses for contingency operations” as section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (h) relating to funding procedures for operations designated by the Secretary of Defense as National Contingency Operations.
 
 #### Effective Date of 1996 Amendment
 

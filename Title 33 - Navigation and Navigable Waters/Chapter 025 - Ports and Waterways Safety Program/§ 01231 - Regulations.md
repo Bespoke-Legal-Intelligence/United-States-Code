@@ -18,7 +18,7 @@ The Secretary, in the exercise of this regulatory authority, shall establish pro
 
 &emsp;(5) representatives of environmental groups,
 
-&emsp;(6) any other interested parties who are knowledgeable or experienced in dealing withproblems involving vessel safety, port and waterways safety, and protection of the marine environment, and
+&emsp;(6) any other interested parties who are knowledgeable or experienced in dealing with problems involving vessel safety, port and waterways safety, and protection of the marine environment, and
 
 &emsp;(7) advisory committees consisting of all interested segments of the public when the establishment of such committees is considered necessary because the issues involved are highly complex or controversial.
 

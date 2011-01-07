@@ -32,7 +32,7 @@ Provisions similar to those in this section were contained in section 10924 of t
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–244 amended subsec. (a) generally. Prior to amendment, text read as follows:
+<b>2008</b>—Subsec. (a). Pub. L. 110–244 amended subsec. (a) generally. Prior to amendment, text read as follows:
 
 “(1)
 
@@ -42,7 +42,7 @@ Household Goods.—The Secretary shall register, subject to section 13906(b), a 
 
 Others.—The Secretary may register a person to provide service subject to jurisdiction under subchapter III of chapter 135 as a broker (other than a broker of household goods) if the Secretary finds that such registration is needed for the protection of shippers and that the person is fit, willing, and able to provide the service and to comply with this part and applicable regulations of the Secretary and Board.”
 
-2005—Subsec. (a). Pub. L. 109–59, §4142(c)(1), (3), designated existing provisions as par. (1), inserted heading, and added par. (2).
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §4142(c)(1), (3), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Subsec. (a)(1). Pub. L. 109–59, §4142(c)(2), which directed amendment of par. (1) by inserting “of household goods” after “broker”, was executed by making the insertion in two places to reflect the probable intent of Congress.
 

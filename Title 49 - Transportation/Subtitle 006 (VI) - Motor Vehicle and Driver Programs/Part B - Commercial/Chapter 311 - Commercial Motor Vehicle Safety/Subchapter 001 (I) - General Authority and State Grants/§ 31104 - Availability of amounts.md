@@ -10,9 +10,13 @@ In General.—Subject to subsection (f), there are authorized to be appropriated
 
 &emsp;(3) $197,000,000 for fiscal year 2007;
 
-&emsp;(4) $202,000,000 for fiscal year 2008; and
+&emsp;(4) $202,000,000 for fiscal year 2008;
 
-&emsp;(5) $209,000,000 for fiscal year 2009.
+&emsp;(5) $209,000,000 for fiscal year 2009; and <sup>1</sup>
+
+&emsp;(6) $209,000,000 for fiscal year 2010; and
+
+&emsp;(7) $88,753,000 for the period beginning October 1, 2010, and ending on March 4, 2011.
 
 (b)
 
@@ -56,13 +60,17 @@ Authorization of appropriations.—There are authorized to be appropriated from 
 
 &emsp;&emsp;(C) $223,000,000 for fiscal year 2007;
 
-&emsp;&emsp;(D) $228,000,000 for fiscal year 2008; and
+&emsp;&emsp;(D) $228,000,000 for fiscal year 2008;
 
-&emsp;&emsp;(E) $234,000,000 for fiscal year 2009.
+&emsp;&emsp;(E) $234,000,000 for fiscal year 2009; and <sup>1</sup>
+
+&emsp;&emsp;(F) “(F) <sup>2</sup> $239,828,000 for fiscal year 2010; and
+
+&emsp;&emsp;(G) “(G) <sup>2</sup> $103,678,000 for the period beginning October 1, 2010, and ending on March 4, 2011.
 
 &emsp;(2)
 
-Use of funds.—The funds authorized by this subsection shall be used for personnel costs; administrative infrastructure; rent; information technology; programs for research and technology, information management, regulatory development, the administration of the performance and registration informationsystem management, and outreach and education; other operating expenses; and such other expenses as may from time to time become necessary to implement statutory mandates of the Administration not funded from other sources.
+Use of funds.—The funds authorized by this subsection shall be used for personnel costs; administrative infrastructure; rent; information technology; programs for research and technology, information management, regulatory development, the administration of the performance and registration information system management, and outreach and education; other operating expenses; and such other expenses as may from time to time become necessary to implement statutory mandates of the Administration not funded from other sources.
 
 (j)
 
@@ -90,7 +98,7 @@ Criteria.—The Secretary shall establish safety performance criteria to be used
 
 &emsp;(2)
 
-Set aside.—The Secretary may set aside from amounts made available by subsection (a) up to $15,000,000 for each of fiscal years 2006 through 2009 for States, local governments, and organizations representing government agencies or officials described in paragraph (3) for carrying out high priority activities and projects that improve commercial motor vehicle safety and compliance with commercial motor vehicle safety regulations (including activities and projects that are national in scope), increase public awareness and education, demonstrate new technologies, and reduce the number and rate of accidents involving commercial motor vehicles.
+Set aside.—The Secretary may set aside from amounts made available by subsection (a) up to $15,000,000 for each of fiscal years 2006 through 2010 and $6,370,000 for the period beginning October 1, 2010, and ending on March 4, 2011 for States, local governments, and organizations representing government agencies or officials described in paragraph (3) for carrying out high priority activities and projects that improve commercial motor vehicle safety and compliance with commercial motor vehicle safety regulations (including activities and projects that are national in scope), increase public awareness and education, demonstrate new technologies, and reduce the number and rate of accidents involving commercial motor vehicles.
 
 &emsp;(3)
 
@@ -100,7 +108,7 @@ Description of recipients.—Amounts set aside under this subsection shall be al
 
 Limitation.—At least 90 percent of the amounts set aside for a fiscal year under this subsection shall be awarded in grants to State agencies and local government agencies.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 987; Pub. L. 105–130, §7, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title IV, §4003(e)–(g), June 9, 1998, 112 Stat. 397; Pub. L. 108–88, §7(b), Sept. 30, 2003, 117 Stat. 1120; Pub. L. 108–202, §11(b), Feb. 29, 2004, 118 Stat. 490; Pub. L. 108–224, §9(b), Apr. 30, 2004, 118 Stat. 638; Pub. L. 108–263, §9(b), June 30, 2004, 118 Stat. 709; Pub. L. 108–280, §9(b), July 30, 2004, 118 Stat. 886; Pub. L. 108–310, §7(b), Sept. 30, 2004, 118 Stat. 1153; Pub. L. 109–14, §6(b), May 31, 2005, 119 Stat. 330; Pub. L. 109–20, §6(b), July 1, 2005, 119 Stat. 352; Pub. L. 109–35, §6(b), July 20, 2005, 119 Stat. 385; Pub. L. 109–37, §6(b), July 22, 2005, 119 Stat. 400; Pub. L. 109–40, §6(b), July 28, 2005, 119 Stat. 417; Pub. L. 109–59, title IV, §§4101(a), (b), 4107(a), Aug. 10, 2005, 119 Stat. 1714, 1719; Pub. L. 110–244, title III, §301(a), June 6, 2008, 122 Stat. 1616.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 987; Pub. L. 105–130, §7, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title IV, §4003(e)–(g), June 9, 1998, 112 Stat. 397; Pub. L. 108–88, §7(b), Sept. 30, 2003, 117 Stat. 1120; Pub. L. 108–202, §11(b), Feb. 29, 2004, 118 Stat. 490; Pub. L. 108–224, §9(b), Apr. 30, 2004, 118 Stat. 638; Pub. L. 108–263, §9(b), June 30, 2004, 118 Stat. 709; Pub. L. 108–280, §9(b), July 30, 2004, 118 Stat. 886; Pub. L. 108–310, §7(b), Sept. 30, 2004, 118 Stat. 1153; Pub. L. 109–14, §6(b), May 31, 2005, 119 Stat. 330; Pub. L. 109–20, §6(b), July 1, 2005, 119 Stat. 352; Pub. L. 109–35, §6(b), July 20, 2005, 119 Stat. 385; Pub. L. 109–37, §6(b), July 22, 2005, 119 Stat. 400; Pub. L. 109–40, §6(b), July 28, 2005, 119 Stat. 417; Pub. L. 109–59, title IV, §§4101(a), (b), 4107(a), Aug. 10, 2005, 119 Stat. 1714, 1719; Pub. L. 110–244, title III, §301(a), June 6, 2008, 122 Stat. 1616; Pub. L. 111–147, title IV, §422(a), (b), (d), Mar. 18, 2010, 124 Stat. 86, 87; Pub. L. 111–322, title II, §2202(a), (b), (d), Dec. 22, 2010, 124 Stat. 3524, 3525.)
 
 Historical and Revision Notes
 
@@ -194,9 +202,25 @@ In subsection (j), the words “Not later than 9 months after December 18, 1991�
 
 #### Amendments
 
-2008—Subsec. (f). Pub. L. 110–244 struck out par. (1) designation and heading before “On October” and struck out par. (2) which permitted the Secretary to designate certain allocated amounts for high-priority and border activities.
+<b>2010</b>—Subsec. (a)(6). Pub. L. 111–147, §422(a), added par. (6).
 
-2005—Subsec. (a). Pub. L. 109–59, §4101(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text contained pars. (1) to (8) making amounts available from the Highway Trust Fund (other than the Mass Transit Account) for the Secretary of Transportation to incur obligations to carry out section 31102 for fiscal years 1998 to 2004 and part of 2005.
+Subsec. (a)(7). Pub. L. 111–322, §2202(a), substituted “$88,753,000 for the period beginning October 1, 2010, andending on March 4, 2011.” for “$52,679,000 for the period beginning on October 1, 2010, and ending on December 31, 2010.”
+
+Pub. L. 111–147, §422(a), added par. (7).
+
+Subsec. (i)(1)(F). Pub. L. 111–147, §422(b), added subpar. (F).
+
+Subsec. (i)(1)(G). Pub. L. 111–322, §2202(b), substituted “$103,678,000 for the period beginning October 1, 2010, and ending on March 4, 2011.” for “$61,036,000 for the period beginning on October 1, 2010, and ending on December 31, 2010.”
+
+Pub. L. 111–147, §422(b), added subpar (G).
+
+Subsec. (k)(2). Pub. L. 111–322, §2202(d), substituted “2010 and $6,370,000 for the period beginning October 1, 2010, and ending on March 4, 2011” for “2009, $15,000,000 for fiscal year 2010, and $3,781,000 for the period beginning on October 1, 2010, and ending on December 31, 2010”.
+
+Pub. L. 111–147, §422(d), substituted “2009, $15,000,000 for fiscal year 2010, and $3,781,000 for the period beginning on October 1, 2010, and ending on December 31, 2010” for “2009”.
+
+<b>2008</b>—Subsec. (f). Pub. L. 110–244 struck out par. (1) designation and heading before “On October” and struck out par. (2) which permitted the Secretary to designate certain allocated amounts for high-priority and border activities.
+
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §4101(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text contained pars. (1) to (8) making amounts available from the Highway Trust Fund (other than the Mass Transit Account) for the Secretary of Transportation to incur obligations to carry out section 31102 for fiscal years 1998 to 2004 and part of 2005.
 
 Subsec. (a)(8). Pub. L. 109–40 amended par. (8) generally. Prior to amendment, par. (8) read as follows: “Not more than $138,904,110 for the period of October 1, 2004, through July 27, 2005.”
 
@@ -212,7 +236,7 @@ Subsecs. (i), (j). Pub. L. 109–59, §4101(b), added subsecs. (i) and (j).
 
 Subsec. (k). Pub. L. 109–59, §4107(a), added subsec. (k).
 
-2004—Subsec. (a)(7). Pub. L. 108–280 amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Not more than $140,833,333 for the period of October 1, 2003, through July 31, 2004.”
+<b>2004</b>—Subsec. (a)(7). Pub. L. 108–280 amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Not more than $140,833,333 for the period of October 1, 2003, through July 31, 2004.”
 
 Pub. L. 108–263 amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Not more than $126,519,126 for the period of October 1, 2003, through June 30, 2004.”
 
@@ -222,9 +246,9 @@ Pub. L. 108–202 amended par. (7) generally. Prior to amendment, par. (7) read 
 
 Subsec. (a)(8). Pub. L. 108–310 added par. (8).
 
-2003—Subsec. (a)(7). Pub. L. 108–88 added par. (7).
+<b>2003</b>—Subsec. (a)(7). Pub. L. 108–88 added par. (7).
 
-1998—Subsec. (a). Pub. L. 105–178, §4003(e), amended heading and text of subsec. (a) generally, substituting provisions relating to appropriations for fiscal years 1998 to 2003 for provisions relating to appropriations for fiscal years ending Sept. 30, 1993 to 1997 and for period of Oct. 1, 1997 through Mar. 31, 1998.
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §4003(e), amended heading and text of subsec. (a) generally, substituting provisions relating to appropriations for fiscal years 1998 to 2003 for provisions relating to appropriations for fiscal years ending Sept. 30, 1993 to 1997 and for period of Oct. 1, 1997 through Mar. 31, 1998.
 
 Subsec. (b). Pub. L. 105–178, §4003(f), struck out par. (1) designation and par. (2) which read as follows: “Amounts made available under section 404(a)(2) of the Surface Transportation Assistance Act of 1982 before October 1, 1991, that are not obligated on October 1, 1992, are available for reallocation and obligation under paragraph (1) of this subsection.”
 
@@ -248,7 +272,7 @@ Subsec. (i). Pub. L. 105–178, §4003(g)(3), struck out heading and text of sub
 
 Subsec. (j). Pub. L. 105–178, §4003(g)(4), redesignated subsec. (j) as (h).
 
-1997—Subsec. (a). Pub. L. 105–130 substituted “Not more” for “not more” in pars. (1) to (5) and added par. (6).
+<b>1997</b>—Subsec. (a). Pub. L. 105–130 substituted “Not more” for “not more” in pars. (1) to (5) and added par. (6).
 
 #### Funding
 
@@ -257,4 +281,8 @@ Pub. L. 109–59, title IV, §4116(d), Aug. 10, 2005, 119 Stat. 1728, provided t
 #### Increased Authorizations for Motor Carrier Safety Grants
 
 Pub. L. 105–178, title IV, §4003(i), as added by Pub. L. 106–159, title I, §103(b)(1), Dec. 9, 1999, 113 Stat. 1753, provided that: “The amount made available to incur obligations to carry out section 31102 of title 49, United States Code, by section 31104(a) of such title for each of fiscal years 2001 through 2003 shall be increased by $65,000,000.”
+
+<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

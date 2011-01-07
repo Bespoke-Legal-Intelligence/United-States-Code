@@ -26,7 +26,7 @@ This section \[section 25\], by adding to section 1151 of title 18, U.S.C., the 
 
 #### Amendments
 
-1949—Act May 24, 1949, incorporated the limitations of term “Indian country” which are contained in sections 1154 and 1156 of this title.
+<b>1949</b>—Act May 24, 1949, incorporated the limitations of term “Indian country” which are contained in sections 1154 and 1156 of this title.
 
 #### Short Title of 1976 Amendment
 

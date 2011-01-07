@@ -230,3 +230,7 @@ Section 15801(3) of this title, referred to in subsec. (a)(7), was in the origin
 
 This subtitle, referred to in subsec. (j), appearing in the original, is unidentifiable because title XVI of Pub. L. 102–486, of which this section is a part, does not contain subtitles.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. See References in Text note below.</i>
+

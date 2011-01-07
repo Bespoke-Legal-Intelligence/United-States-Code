@@ -10,7 +10,7 @@ Under regulations prescribed by the Secretary of Defense, a person who is a form
 
 #### Amendments
 
-1994—Pub. L. 103–337, §1662(c)(2), renumbered section 596a of this title as this section.
+<b>1994</b>—Pub. L. 103–337, §1662(c)(2), renumbered section 596a of this title as this section.
 
 #### Effective Date
 

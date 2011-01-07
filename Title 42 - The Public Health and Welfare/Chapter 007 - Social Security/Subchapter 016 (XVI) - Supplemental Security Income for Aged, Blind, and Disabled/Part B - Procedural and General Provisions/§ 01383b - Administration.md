@@ -40,11 +40,11 @@ The Commissioner of Social Security shall establish by regulation criteria for t
 
 #### Amendments
 
-2006—Subsec. (e). Pub. L. 109–171 added subsec. (e).
+<b>2006</b>—Subsec. (e). Pub. L. 109–171 added subsec. (e).
 
-1999—Subsec. (c). Pub. L. 106–170 designated existing provisions as par. (1) and added par. (2).
+<b>1999</b>—Subsec. (c). Pub. L. 106–170 designated existing provisions as par. (1) and added par. (2).
 
-1994—Subsec. (a). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” and “the Commissioner's” for “his”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” and “the Commissioner's” for “his”.
 
 Subsec. (c). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” in two places.
 
@@ -52,9 +52,9 @@ Subsec. (d). Pub. L. 103–296, §203(a), added subsec. (d).
 
 Pub. L. 103–296, §107(a)(4), in subsec. (d) as added by Pub. L. 103–296, §203(a), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
-1984—Subsec. (c). Pub. L. 98–460 added subsec. (c).
+<b>1984</b>—Subsec. (c). Pub. L. 98–460 added subsec. (c).
 
-1973—Subsec. (a). Pub. L. 93–66, §214(1), (2), designated existing provisions as subsec. (a) and made the authority of the Secretary subject to subsec. (b) of this section.
+<b>1973</b>—Subsec. (a). Pub. L. 93–66, §214(1), (2), designated existing provisions as subsec. (a) and made the authority of the Secretary subject to subsec. (b) of this section.
 
 Subsec. (b). Pub. L. 93–66, §214(3), added subsec. (b).
 

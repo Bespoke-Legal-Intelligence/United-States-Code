@@ -20,7 +20,7 @@
 
 (2) A hearing to be held within an area served by a regional office of the Department shall (except as provided in paragraph (3)) be scheduled to be held in accordance with the place of the case on the docket under subsection (a) relative to other cases on the docket for which hearings are scheduled to be held within that area.
 
-(3) A hearing to be held within an area served by a regional office of the Department may, for cause shown, be advanced on motion for an earlier hearing. Any such motion shall set forth succinctly the grounds upon which the motion is based. Such a motion may be granted only—
+(3) A hearing to be held within an area served by a regional office of the Department may, forcause shown, be advanced on motion for an earlier hearing. Any such motion shall set forth succinctly the grounds upon which the motion is based. Such a motion may be granted only—
 
 &emsp;(A) if the case involves interpretation of law of general application affecting other claims;
 
@@ -30,7 +30,7 @@
 
 (e)(1) At the request of the Chairman, the Secretary may provide suitable facilities and equipment to the Board or other components of the Department to enable an appellant located at a facility within the area served by a regional office to participate, through voice transmission or through picture and voice transmission, by electronic or other means, in a hearing with a Board member or members sitting at the Board's principal location.
 
-(2) When such facilities and equipment are available, the Chairman may afford the appellant an opportunity to participate in a hearing before the Board through the use of such facilities and equipment in lieu of a hearing held by personally appearing before a Board member or panel as provided in subsection (d). Any suchhearing shall be conducted in the same manner as, and shall be considered the equivalent of, a personal hearing. If the appellant declines to participate in a hearing through the use of such facilities and equipment, the opportunity of the appellant to a hearing as provided in such subsection (d) shall not be affected.
+(2) When such facilities and equipment are available, the Chairman may afford the appellant an opportunity to participate in a hearing before the Board through the use of such facilities and equipment in lieu of a hearing held by personally appearing before a Board member or panel as provided in subsection (d). Any such hearing shall be conducted in the same manner as, and shall be considered the equivalent of, a personal hearing. If the appellant declines to participate in a hearing through the use of such facilities and equipment, the opportunity of the appellant to a hearing as provided in such subsection (d) shall not be affected.
 
 (f) Nothing in this section shall preclude the screening of cases for purposes of—
 
@@ -42,7 +42,7 @@
 
 #### Amendments
 
-1998—Subsec. (a)(1). Pub. L. 105–368, §1003(a)(1), inserted “in paragraphs (2) and (3) and” after “Except as provided”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–368, §1003(a)(1), inserted “in paragraphs (2) and (3) and” after “Except as provided”.
 
 Subsec. (a)(2). Pub. L. 105–368, §1003(a)(2), added second and third sentences and struck out former second sentence which read as follows: “Any such motion shall set forth succinctly the grounds upon which it is based and may not be granted unless the case involves interpretation of law of general application affecting other claims or for other sufficient cause shown.”
 
@@ -52,11 +52,11 @@ Subsec. (d)(2). Pub. L. 105–368, §1003(b)(1), substituted “in accordance wi
 
 Subsec. (d)(3). Pub. L. 105–368, §1003(b)(2), added par. (3) and struck out former par. (3) which read as follows: “In a case in which the Secretary is aware that the appellant is seriously ill or is under severe financial hardship, a hearing may be scheduled at a time earlier than would be provided for under paragraph (2).”
 
-1994—Pub. L. 103–446 substituted “Except as provided in subsection (f), each case” for “Each case” in subsec. (a)(1) and added subsec. (f).
+<b>1994</b>—Pub. L. 103–446 substituted “Except as provided in subsection (f), each case” for “Each case” in subsec. (a)(1) and added subsec. (f).
 
 Pub. L. 103–271 amended section generally. Prior to amendment, text read as follows: “All cases received pursuant to application for review on appeal shall be considered and decided in regular order according to their places upon the docket; however, for cause shown a case may be advanced on motion for earlier consideration and determination. Every such motion shall set forth succinctly the grounds upon which it is based. No such motion shall be granted except in cases involving interpretation of law of general application affecting other claims, or for other sufficient cause shown.”
 
-1991—Pub. L. 102–40 renumbered section 4007 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4007 of this title as this section.
 
-1962—Pub. L. 87–666 renumbered section 4006 of this title as this section.
+<b>1962</b>—Pub. L. 87–666 renumbered section 4006 of this title as this section.
 

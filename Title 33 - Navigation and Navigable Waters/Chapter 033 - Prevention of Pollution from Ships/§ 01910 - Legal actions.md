@@ -44,7 +44,7 @@ In any action brought under this section, if the Secretary or Attorney General a
 
 #### Amendments
 
-2008—Subsec. (a)(3), (4). Pub. L. 110–280, §12(1), added par. (3) and redesignated former par. (3) as (4).
+<b>2008</b>—Subsec. (a)(3), (4). Pub. L. 110–280, §12(1), added par. (3) and redesignated former par. (3) as (4).
 
 Subsec. (b)(1). Pub. L. 110–280, §12(2), substituted “concerned or the Administrator,” for “concerned,”.
 

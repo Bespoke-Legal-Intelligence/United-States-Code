@@ -54,7 +54,7 @@ A prior section 6105, act Aug. 16, 1954, ch. 736, 68A Stat. 755, authorized the 
 
 #### Amendments
 
-2002—Subsec. (b)(2). Pub. L. 107–134, §201(c)(9)(A), struck out “or” at end.
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–134, §201(c)(9)(A), struck out “or” at end.
 
 Subsec. (b)(3). Pub. L. 107–134, §201(c)(9)(D), added par. (3). Former par. (3) redesignated (4).
 

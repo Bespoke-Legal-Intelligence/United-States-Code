@@ -22,7 +22,7 @@ A prior section 2200, Pub. L. 87–195, pt. I, §240, as added Pub. L. 91–175,
 
 #### Amendments
 
-2003—Pub. L. 108–158 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2003</b>—Pub. L. 108–158 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1985—Pub. L. 99–204 inserted reference to section 2194b of this title.
+<b>1985</b>—Pub. L. 99–204 inserted reference to section 2194b of this title.
 

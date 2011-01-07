@@ -10,7 +10,7 @@ Training Requirements.—The Secretary shall prescribe by regulation requirement
 
 (b)
 
-Beginning and Completing Training.—A hazmat employer shall begin the training of hazmat employees of the employer not later than 6 months after the Secretary prescribes the regulations under subsection (a) of this section. The training shall be completed within a reasonable period of time after—
+Beginning and Completing Training.—A hazmat employer shall begin the training ofhazmat employees of the employer not later than 6 months after the Secretary prescribes the regulations under subsection (a) of this section. The training shall be completed within a reasonable period of time after—
 
 &emsp;(1) 6 months after the regulations are prescribed; or
 
@@ -140,7 +140,7 @@ In subsection (f)(1), the words “(relating to coordination of Federal informat
 
 #### Amendments
 
-2005—Subsecs. (a) to (d). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation” in introductory provisions of subsecs. (a) to (c) and “Secretary shall” for “Secretary of Transportation shall” in introductory provisions of subsec. (d).
+<b>2005</b>—Subsecs. (a) to (d). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation” in introductory provisions of subsecs. (a) to (c) and “Secretary shall” for “Secretary of Transportation shall” in introductory provisions of subsec. (d).
 
 Subsec. (e). Pub. L. 109–59, §7108(1), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “The Secretary shall, subject to the availability of funds under section 5127(c)(3), make grants for training instructors to train hazmat employees under this section. A grant under this subsection shall be made to a nonprofit hazmat employee organization that demonstrates—
 
@@ -160,7 +160,7 @@ Pub. L. 109–59, §7108(4), substituted “section 5106” for “sections 5106
 
 Subsec. (h). Pub. L. 109–59, §7108(2), redesignated subsec. (g) as (h).
 
-1994—Subsec. (d). Pub. L. 103–311, §106, in introductory provisions inserted “or duplicate” after “conflict with” and in par. (1) substituted “hazard communication, and hazardous waste operations, and” for “hazardous waste operations and”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–311, §106, in introductory provisions inserted “or duplicate” after “conflict with” and in par. (1) substituted “hazard communication, and hazardous waste operations, and” for “hazardous waste operations and”.
 
 Subsec. (e). Pub. L. 103–311, §119(c)(1), (2), in first sentence substituted “The Secretary shall, subject to the availability of funds under section 5127(c)(3), make grants for training instructors to train hazmat employees under this section.” for “In consultation with the Secretaries of Transportation and Labor and the Administrator, the Director of the National Institute of Environmental Health Sciences may make grants to train hazmat employees under this section.” and in second sentence inserted “hazmat employee” after “nonprofit”.
 

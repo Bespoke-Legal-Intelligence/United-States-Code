@@ -6,5 +6,5 @@ There are authorized to be appropriated for fiscal year 1985, and for each fisca
 
 #### Amendments
 
-1984—Pub. L. 98–449 amended section generally, substituting provisions authorizing appropriations for payment of interest under this subchapter for provisions authorizing appropriations for the Indian Loan Guarantee and Insurance Fund, interest subsidies and administrative expenses.
+<b>1984</b>—Pub. L. 98–449 amended section generally, substituting provisions authorizing appropriations for payment of interest under this subchapter for provisions authorizing appropriations for the Indian Loan Guarantee and Insurance Fund, interest subsidies and administrative expenses.
 

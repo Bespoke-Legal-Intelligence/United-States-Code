@@ -202,7 +202,7 @@ Each eligible entity that receives a grant under this section shall provide, to 
 
 #### (ii) Reservation of funds
 
-&emsp;&emsp;&emsp;The Secretary shall reserve not more than 5 percent of the funds made availableunder this section to carry out this paragraph.
+&emsp;&emsp;&emsp;The Secretary shall reserve not more than 5 percent of the funds made available under this section to carry out this paragraph.
 
 #### (B) Uses
 
@@ -246,7 +246,7 @@ Each eligible entity that receives a grant under this section shall provide, to 
 
 #### (D) Partnership for activities under subparagraph (B)(iv)
 
-&emsp;&emsp;In carrying out national activities under subparagraph (B)(iv), the Secretary may enter into a partnership with a national nonprofit character education organization that will disseminate information to educators, parents, administrators, and others nationwide, including information about the range of model character education programs, materials, and curricula.
+&emsp;&emsp;In carrying out national activities under subparagraph (B)(iv), the Secretary may enter into a partnership with a national nonprofit character education organization that will disseminate information to educators,parents, administrators, and others nationwide, including information about the range of model character education programs, materials, and curricula.
 
 #### (E) Report
 

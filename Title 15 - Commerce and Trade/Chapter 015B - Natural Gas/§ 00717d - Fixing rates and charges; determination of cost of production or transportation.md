@@ -6,7 +6,7 @@ Whenever the Commission, after a hearing had upon its own motion or upon complai
 
 #### (b) Costs of production and transportation
 
-The Commission upon its own motion, or upon the request of any State commission, wheneverit can do so without prejudice to the efficient and proper conduct of its affairs, may investigate and determine the cost of the production or transportation of natural gas by a natural-gas company in cases where the Commission has no authority to establish a rate governing the transportation or sale of such natural gas.
+The Commission upon its own motion, or upon the request of any State commission, whenever it can do so without prejudice to the efficient and proper conduct of its affairs, may investigate and determine the cost of the production or transportation of natural gas by a natural-gas company in cases where the Commission has no authority to establish a rate governing the transportation or sale of such natural gas.
 
 (June 21, 1938, ch. 556, §5, 52 Stat. 823.)
 

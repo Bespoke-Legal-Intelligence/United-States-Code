@@ -16,7 +16,7 @@ Assistant Chief.—The Surgeon General shall appoint the assistant chief from th
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–314 substituted “major general” for “brigadier general” in second sentence.
+<b>2002</b>—Subsec. (b). Pub. L. 107–314 substituted “major general” for “brigadier general” in second sentence.
 
-1998—Subsec. (b). Pub. L. 105–261 struck out “, but not for more than three years, and may not be reappointed to the same position” after “pleasure of the Secretary”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–261 struck out “, but not for more than three years, and may not be reappointed to the same position” after “pleasure of the Secretary”.
 

@@ -76,11 +76,11 @@ Prior to the complete revision of this section by section 502(a)(2) of Pub. L. 9
 
 #### Amendments
 
-2008—Subsec. (a)(4). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+<b>2008</b>—Subsec. (a)(4). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
-1985—Subsec. (a)(1)(B). Pub. L. 99–83 inserted provisions relating to evaluation of whether programs are benefiting the poor majority.
+<b>1985</b>—Subsec. (a)(1)(B). Pub. L. 99–83 inserted provisions relating to evaluation of whether programs are benefiting the poor majority.
 
-1981—Subsec. (a). Pub. L. 97–113, §733(1), substituted provision requiring information regarding American foreign policy and effectiveness of assistance to other countries for provision requiring information regarding United States development policy and effectiveness of assistance to developing countries and provision directing the Chairman prepare and transmit to Congress as part of the annual presentation materials for foreign assistance a report as described in this subsection for provision directing the Chairman to transmit a report on foreign assistance for the fiscal year ending the previous Sept. 30.
+<b>1981</b>—Subsec. (a). Pub. L. 97–113, §733(1), substituted provision requiring information regarding American foreign policy and effectiveness of assistance to other countries for provision requiring information regarding United States development policy and effectiveness of assistance to developing countries and provision directing the Chairman prepare and transmit to Congress as part of the annual presentation materials for foreign assistance a report as described in this subsection for provision directing the Chairman to transmit a report on foreign assistance for the fiscal year ending the previous Sept. 30.
 
 Subsec. (a)(1)(B). Pub. L. 97–113, §733(2), struck out “the progress developing countries are making toward achieving those objectives which are indicative of improved well-being of the poor majority, which objectives shall include but not be limited to” before “increasing life expectancy and literacy”.
 
@@ -94,9 +94,9 @@ Subsec. (a)(8). Pub. L. 97–113, §733(6), substituted provision that the repor
 
 Subsec. (a)(9) to (12). Pub. L. 97–113, §733(6), added pars. (9) to (12).
 
-1980—Subsec. (a)(6) to (8). Pub. L. 96–533 added pars. (6) and (7) and redesignated former par. (6) as (8).
+<b>1980</b>—Subsec. (a)(6) to (8). Pub. L. 96–533 added pars. (6) and (7) and redesignated former par. (6) as (8).
 
-1978—Subsec. (a). Pub. L. 95–424, §502(a)(2), added subsec. (a).
+<b>1978</b>—Subsec. (a). Pub. L. 95–424, §502(a)(2), added subsec. (a).
 
 Subsec. (b). Pub. L. 95–424, §502(a)(2), substituted definitions of “foreign assistance” and “provided by the United States Government” for provisions requiring public disclosure of all information concerning operations under this chapter except that which is deemed incompatible with the Security of the United States.
 
@@ -104,33 +104,33 @@ Subsec. (c). Pub. L. 95–424, §502(a)(1), struck out “(c)” at beginning of
 
 Subsecs. (d) to (h). Pub. L. 95–424, §502(a)(2), struck out subsecs. (d), relating to presentation of programs to Congressional committees; (e), relating to inclusion of a specific plan in the President's recommendations to Congress; (f), relating to a report by the President to Congress showing the status of each outstanding loan; (g), relating to a report by the President to Congress showing debt-servicing problems; and (h), relating to military assistance to South Vietnam, Thailand, and Laos.
 
-1976—Subsec. (d). Pub. L. 94–329 struck out provisions under which sales pursuant to the Foreign Assistance Act of 1961 or any other Act were included in the enumeration of factors used in developing, for purpose of presentation material, a chart showing the full extent of United States assistance planned or expected for each such country for the next fiscal year.
+<b>1976</b>—Subsec. (d). Pub. L. 94–329 struck out provisions under which sales pursuant to the Foreign Assistance Act of 1961 or any other Act were included in the enumeration of factors used in developing, for purpose of presentation material, a chart showing the full extent of United States assistance planned or expected for each such country for the next fiscal year.
 
 Subsec. (f). Pub. L. 94–273 substituted “September” for “June” and “March” for “December”.
 
-1974—Subsec. (d). Pub. L. 93–559 substituted in item (1) respecting presentation material “economic assistance, military grants (and including for any such grant of any excess defense article, the value of such article expressed in terms of its acquisition cost to the United States), and military sales” for “economic assistance and military grants and sales”.
+<b>1974</b>—Subsec. (d). Pub. L. 93–559 substituted in item (1) respecting presentation material “economic assistance, military grants (and including for any such grant of any excess defense article, the value of such article expressed in terms of its acquisition cost to the United States), and military sales” for “economic assistance and military grants and sales”.
 
-1973—Subsec. (f). Pub. L. 93–189 inserted references to contracts of guarantee or insurance, the status of sales of defense articles or defense services on credit terms, the status of sales of agricultural commodities on credit terms, and the status of loans, contracts of guarantee or insurance, or extensions of credit (or participations therein) made under the Export-Import Bank Act of 1945, and inserted provisions limiting the reporting requirement of the subsection so as to include only loans, contracts, sales, extensions of credit, or other transactions in excess of $1,000,000.
+<b>1973</b>—Subsec. (f). Pub. L. 93–189 inserted references to contracts of guarantee or insurance, the status of sales of defense articles or defense services on credit terms, the status of sales of agricultural commodities on credit terms, and the status of loans, contracts of guarantee or insurance, or extensions of credit (or participations therein) made under the Export-Import Bank Act of 1945, and inserted provisions limiting the reporting requirement of the subsection so as to include only loans, contracts, sales, extensions of credit, or other transactions in excess of $1,000,000.
 
 Subsec. (g). Pub. L. 93–189 added subsec. (g).
 
-1972—Subsec. (a). Pub. L. 92–226, §304(c)(2), struck out provisions for annual report to Congress concerning operations under this chapter, including information on the progress of the freedom of navigation and nondiscrimination declaration. See annual foreign assistance report provisions of section 2417 of this title.
+<b>1972</b>—Subsec. (a). Pub. L. 92–226, §304(c)(2), struck out provisions for annual report to Congress concerning operations under this chapter, including information on the progress of the freedom of navigation and nondiscrimination declaration. See annual foreign assistance report provisions of section 2417 of this title.
 
 Subsec. (d). Pub. L. 92–226, §304(a)(3), substituted in last sentence reference to section “2360(b)” for prior reference to sections “2360, 2364(a)”.
 
-1969—Subsec. (a). Pub. L. 91–175 excluded operations reported to Congress pursuant to section 2200a of this title from report required by this section, and struck out of last sentence reference to the operation of the investment guaranty program.
+<b>1969</b>—Subsec. (a). Pub. L. 91–175 excluded operations reported to Congress pursuant to section 2200a of this title from report required by this section, and struck out of last sentence reference to the operation of the investment guaranty program.
 
-1968—Subsec. (d). Pub. L. 90–629, §45(b)(4), required the presentation material to include in the chart foreign assistance data under any other Act.
+<b>1968</b>—Subsec. (d). Pub. L. 90–629, §45(b)(4), required the presentation material to include in the chart foreign assistance data under any other Act.
 
 Subsec. (g). Pub. L. 90–629, §45(a), repealed provisions of subsec. (g) which related to exports of defense articles, contents of reports, and utilization of statistics and information of Government agencies, and is now covered by section 2776(a) of this title.
 
-1967—Subsec. (d). Pub. L. 90–137, §302(h)(1), inserted introductory provision for presentation of programs to Congressional Committees in connection with requests for appropriations for fiscal year 1969, penultimate provision for inclusion of foreign assistance data (an assistance chart, contribution details, and a statement of projects), and provision for notification as to findings and reasons therefor under section 2311 or 2341(c) of this title.
+<b>1967</b>—Subsec. (d). Pub. L. 90–137, §302(h)(1), inserted introductory provision for presentation of programs to Congressional Committees in connection with requests for appropriations for fiscal year 1969, penultimate provision for inclusion of foreign assistance data (an assistance chart, contribution details, and a statement of projects), and provision for notification as to findings and reasons therefor under section 2311 or 2341(c) of this title.
 
 Subsecs. (g), (h). Pub. L. 90–137, §302(h)(2), added subsecs. (g) and (h).
 
-1966—Subsec. (f). Pub. L. 89–583 added subsec. (f).
+<b>1966</b>—Subsec. (f). Pub. L. 89–583 added subsec. (f).
 
-1962—Subsec. (a). Pub. L. 87–565, §302(e), required reports to include information on progress under the freedom of navigation and nondiscriminatory declaration contained in section 2151 of this title.
+<b>1962</b>—Subsec. (a). Pub. L. 87–565, §302(e), required reports to include information on progress under the freedom of navigation and nondiscriminatory declaration contained in section 2151 of this title.
 
 Subsec. (d). Pub. L. 87–565, §302(f), substituted “At the end of each fiscal year” and “fiscal year” for “In January of each year” and “preceding twelve months”, respectively, and provided that the presentation material submitted to Congress during its consideration of amendments to this chapter, or of any Act appropriating funds pursuant to authorizations contained in this chapter, should include a comparison of the current fiscal year programs and activities with those presented to Congress in the previous year and an explanation of any substantial changes.
 

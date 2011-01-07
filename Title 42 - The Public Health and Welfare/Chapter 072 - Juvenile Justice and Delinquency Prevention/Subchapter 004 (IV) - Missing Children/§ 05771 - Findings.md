@@ -30,7 +30,7 @@ The Congress finds that—
 
 #### References in Text
 
-This chapter, referred to in par. (8), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
+This chapter, referred to in par. (8), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
 
 #### Prior Provisions
 
@@ -38,11 +38,11 @@ A prior section 402 of Pub. L. 93–415 amended section 3888 of this title and r
 
 #### Amendments
 
-2008—Pub. L. 110–240 amended section generally. Prior to amendment, section consisted of pars. (1) to (5) stating findings of Congress concerning missing or abducted children and the role of the National Center for Missing and Exploited Children.
+<b>2008</b>—Pub. L. 110–240 amended section generally. Prior to amendment, section consisted of pars. (1) to (5) stating findings of Congress concerning missing or abducted children and the role of the National Center for Missing and Exploited Children.
 
-2003—Pub. L. 108–96 amended section generally. Prior to amendment, section consisted of pars. (1) to (21) stating findings of Congress.
+<b>2003</b>—Pub. L. 108–96 amended section generally. Prior to amendment, section consisted of pars. (1) to (21) stating findings of Congress.
 
-1999—Pars. (9) to (21). Pub. L. 106–71 added pars. (9) to (21).
+<b>1999</b>—Pars. (9) to (21). Pub. L. 106–71 added pars. (9) to (21).
 
 #### Effective Date
 

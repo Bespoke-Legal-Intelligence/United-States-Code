@@ -38,7 +38,7 @@ Release of Covenants.—With the concurrence of the Secretary of Interior, the S
 
 (e)
 
-Congressional Notification.—The Secretary concerned may not approve of the reconveyance of real property under subsection (c) or grant the release of a covenant under subsection (d) until the Secretary notifies the appropriate committees of Congress of the proposed reconveyance or release and a period of 21 days elapses from the date the notification is received by the committees.
+Congressional Notification.—The Secretary concerned may not approve of the reconveyance of real property under subsection (c) or grant the release of a covenant under subsection (d) until the Secretary notifies the appropriate committees of Congress of the proposed reconveyance or release and a period of 21 days elapses from the date the notification is received by the committees or, if earlier, a period of 14 days has elapsed from the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.
 
 (f)
 
@@ -62,9 +62,9 @@ Definitions.—In this section:
 
 &emsp;(2) The term “Secretary concerned” means the Secretary of a military department.
 
-&emsp;(3) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico,the Commonwealth of the Northern Marianas, Guam, the Virgin Islands, and American Samoa.
+&emsp;(3) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Marianas, Guam, the Virgin Islands, and American Samoa.
 
-(Added Pub. L. 107–314, div. B, title XXVIII, §2812(a)(1), Dec. 2, 2002, 116 Stat. 2707; amended Pub. L. 109–163, div. A, title X, §1056(a)(1), (b), Jan. 6, 2006, 119 Stat. 3438, 3439; Pub. L. 109–364, div. A, title X, §1071(a)(22), Oct. 17, 2006, 120 Stat. 2399.)
+(Added Pub. L. 107–314, div. B, title XXVIII, §2812(a)(1), Dec. 2, 2002, 116 Stat. 2707; amended Pub. L. 109–163, div. A, title X, §1056(a)(1), (b), Jan. 6, 2006, 119 Stat. 3438, 3439; Pub. L. 109–364, div. A, title X, §1071(a)(22), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 111–383, div. B, title XXVIII, §2803(a), Jan. 7, 2011, 124 Stat. 4458.)
 
 #### References in Text
 
@@ -72,7 +72,9 @@ Section 1 of Public Law 106–504 (114 Stat. 2309), referred to in subsec. (h)(2
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–364 substituted “Reversionary” for “Revisionary” in heading.
+<b>2011</b>—Subsec. (e). Pub. L. 111–383 inserted before period at end “or, if earlier, a period of 14 days has elapsed from the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
+
+<b>2006</b>—Subsec. (c). Pub. L. 109–364 substituted “Reversionary” for “Revisionary” in heading.
 
 Subsec. (i)(2) to (4). Pub. L. 109–163 struck out par. (2), which defined “base closure law”, redesignated pars. (3) and (4) as (2) and (3), respectively, and, in par. (3), substituted “Guam, the Virgin Islands, and American Samoa” for “and the territories and possessions of the United States”.
 

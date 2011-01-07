@@ -10,5 +10,5 @@ Based on 44 U.S. Code, 1964 ed., §79 (Mar. 28, 1904, No. 11, 33 Stat. 584).
 
 #### Amendments
 
-1990—Pub. L. 101–520 substituted “The Revolving Fund” for “The appropriation for printing and binding”.
+<b>1990</b>—Pub. L. 101–520 substituted “The Revolving Fund” for “The appropriation for printing and binding”.
 

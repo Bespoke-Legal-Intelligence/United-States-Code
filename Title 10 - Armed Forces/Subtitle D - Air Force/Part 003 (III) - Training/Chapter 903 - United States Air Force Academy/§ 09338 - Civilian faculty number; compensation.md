@@ -14,5 +14,5 @@
 
 #### Amendments
 
-1999—Subsec. (c). Pub. L. 106–65 added subsec. (c).
+<b>1999</b>—Subsec. (c). Pub. L. 106–65 added subsec. (c).
 

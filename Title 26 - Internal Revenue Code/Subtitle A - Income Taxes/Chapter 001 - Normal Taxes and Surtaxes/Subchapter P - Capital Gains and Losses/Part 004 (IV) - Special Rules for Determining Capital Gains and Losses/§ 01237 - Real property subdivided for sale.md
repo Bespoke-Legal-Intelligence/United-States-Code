@@ -2,7 +2,7 @@
 
 #### (a) General
 
-Any lot or parcel which is part of a tract of real property in the hands of a taxpayer otherthan a C corporation shall not be deemed to be held primarily for sale to customers in the ordinary course of trade or business at the time of sale solely because of the taxpayer having subdivided such tract for purposes of sale or because of any activity incident to such subdivision or sale, if—
+Any lot or parcel which is part of a tract of real property in the hands of a taxpayer other than a C corporation shall not be deemed to be held primarily for sale to customers in the ordinary course of trade or business at the time of sale solely because of the taxpayer having subdivided such tract for purposes of sale or because of any activity incident to such subdivision or sale, if—
 
 &emsp;(1) such tract, or any lot or parcel thereof, had not previously been held by such taxpayer primarily for sale to customers in the ordinary course of trade or business (unless such tract at such previous time would have been covered by this section) and, in the same taxable year in which the sale occurs, such taxpayer does not so hold any other real property; and
 
@@ -34,7 +34,7 @@ Any lot or parcel which is part of a tract of real property in the hands of a ta
 
 &emsp;&emsp;(B) it is shown to the satisfaction of the Secretary that the lot or parcel, the value of which was substantially enhanced by such improvement, would not have been marketable at the prevailing local price for similar building sites without such improvement; and
 
-&emsp;&emsp;(C) the taxpayer elects, in accordance with regulations prescribed by the Secretary, to make no adjustment to basis of the lot or parcel, or of any other property owned by the taxpayer, on account of the expenditures for such improvements. Such election shall not make any item deductible which would not otherwise be deductible.
+&emsp;&emsp;(C) the taxpayer elects, in accordance with regulations prescribed by the Secretary, to make no adjustment to basis of the lot orparcel, or of any other property owned by the taxpayer, on account of the expenditures for such improvements. Such election shall not make any item deductible which would not otherwise be deductible.
 
 #### (c) Tract defined
 
@@ -44,21 +44,21 @@ For purposes of this section, the term “tract of real property” means a sing
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–188, §1314(a), substituted “other than a C corporation” for “other than a corporation” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–188, §1314(a), substituted “other than a C corporation” for “other than a corporation” in introductory provisions.
 
 Subsec. (a)(2)(A). Pub. L. 104–188, §1314(b), inserted “an S corporation which included the taxpayer as a shareholder,” after “controlled by the taxpayer,”.
 
-1976—Subsec. (b)(3)(B), (C). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b)(3)(B), (C). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (d). Pub. L. 94–455, §1901(a)(138), struck out effective date provision making the section applicable only with respect to sales of property occurring after Dec. 31, 1953, except that for purposes of subsec. (c) defining tract of real property and for determining the number of sales under subsec. (b)(1) of this section, all sales of lots and parcels from any tract of real property during the period of 5 years before Dec. 31, 1953, shall be taken into account, except as provided in subsec. (c).
 
-1971—Subsec. (a). Pub. L. 91–686, §2(a)(1), substituted “other than a corporation” for “(including corporations only if no shareholder directly or indirectly holds real property for sale to customers in the ordinarycourse of trade or business and only in the case of property described in the last sentence of subsection (b)(3))”.
+<b>1971</b>—Subsec. (a). Pub. L. 91–686, §2(a)(1), substituted “other than a corporation” for “(including corporations only if no shareholder directly or indirectly holds real property for sale to customers in the ordinary course of trade or business and only in the case of property described in the last sentence of subsection (b)(3))”.
 
 Subsec. (b). Pub. L. 91–686, §2(a)(2), struck out sentence which made subpars. (B) and (C) inapplicable in the case of property acquired through the foreclosure of a lien thereon which secured the payment of an indebtedness to the taxpayer or (in the case of a corporation) to a creditor who has transferred the foreclosure bid to the taxpayer in exchange for all of its stock and other consideration and in the case of property adjacent to such property if 80 percent of the real property owned by the taxpayer was property described in the first part of the sentence.
 
-1958—Subsec. (a)(1). Pub. L. 85–866 substituted “and, in the same taxable year” for “or, in the same taxable year”.
+<b>1958</b>—Subsec. (a)(1). Pub. L. 85–866 substituted “and, in the same taxable year” for “or, in the same taxable year”.
 
-1956—Subsec. (a). Act Apr. 27, 1956, §1, substituted “(including corporations only if no shareholder directly or indirectly holds real property for sale to customers in the ordinary course of trade or business and only in the case of property described in the last sentence of subsection (b)(3))” for “other than a corporation”.
+<b>1956</b>—Subsec. (a). Act Apr. 27, 1956, §1, substituted “(including corporations only if no shareholder directly or indirectly holds real property for sale to customers in the ordinary course of trade or business and only in the case of property described in the last sentence of subsection (b)(3))” for “other than a corporation”.
 
 Subsec. (b)(3). Act Apr. 27, 1956, §2, substituted “water, sewer, or drainage facilities” for “water or sewer facilities” in subpar. (A), and inserted provision at end that requirements of subpars. (B) and (C) do not apply to certain specified property.
 

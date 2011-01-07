@@ -28,7 +28,7 @@ As used in this part and part C of this subchapter:
 
 #### Amendments
 
-2000—Par. (1). Pub. L. 106–469, §103(5)(A), struck out par. (1) which read as follows: “The term ‘Early Storage Reserve’ means that portion of the Strategic Petroleum Reserve which consists of petroleum products stored pursuant to section 6235 of this title.”
+<b>2000</b>—Par. (1). Pub. L. 106–469, §103(5)(A), struck out par. (1) which read as follows: “The term ‘Early Storage Reserve’ means that portion of the Strategic Petroleum Reserve which consists of petroleum products stored pursuant to section 6235 of this title.”
 
 Par. (3). Pub. L. 106–469, §103(5)(A), struck out par. (3) which read as follows: “The term ‘Industrial Petroleum Reserve’ means that portion of the Strategic Petroleum Reserve which consists of petroleum products owned by importers or refiners and acquired, stored, or maintained pursuant to section 6236 of this title.”
 
@@ -36,5 +36,5 @@ Par. (7). Pub. L. 106–469, §103(5)(A), struck out par. (7) which read as foll
 
 Par. (11). Pub. L. 106–469, §103(5)(B), struck out “; such term includes the Industrial Petroleum Reserve, the Early Storage Reserve, and the Regional Petroleum Reserve” before period at end.
 
-1990—Pub. L. 101–383 inserted “and part C of this subchapter” after “this part”.
+<b>1990</b>—Pub. L. 101–383 inserted “and part C of this subchapter” after “this part”.
 

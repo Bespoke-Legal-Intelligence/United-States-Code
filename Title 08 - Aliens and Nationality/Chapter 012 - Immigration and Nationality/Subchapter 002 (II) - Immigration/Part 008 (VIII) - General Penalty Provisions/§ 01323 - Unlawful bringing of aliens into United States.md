@@ -4,7 +4,7 @@
 
 (1) It shall be unlawful for any person, including any transportation company, or the owner, master, commanding officer, agent, charterer, or consignee of any vessel or aircraft, to bring to the United States from any place outside thereof (other than from foreign contiguous territory) any alien who does not have a valid passport and an unexpired visa, if a visa was required under this chapter or regulations issued thereunder.
 
-(2) It is unlawful for an owner, agent, master, commanding officer, person in charge, purser, or consignee of a vessel or aircraft who is bringing an alien (except an alien crewmember) to theUnited States to take any consideration to be kept or returned contingent on whether an alien is admitted to, or ordered removed from, the United States.
+(2) It is unlawful for an owner, agent, master, commanding officer, person in charge, purser, or consignee of a vessel or aircraft who is bringing an alien (except an alien crewmember) to the United States to take any consideration to be kept or returned contingent on whether an alien is admitted to, or ordered removed from, the United States.
 
 #### (b) Evidence
 
@@ -26,6 +26,10 @@ A fine under this section may be reduced, refunded, or waived under such regulat
 
 (June 27, 1952, ch. 477, title II, ch. 8, §273, 66 Stat. 227; Pub. L. 101–649, title II, §201(b), title V, §543(a)(10), Nov. 29, 1990, 104 Stat. 5014, 5058; Pub. L. 102–232, title III, §306(c)(4)(D), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 103–416, title II, §§209(a), 216, 219(p), Oct. 25, 1994, 108 Stat. 4312, 4315, 4317; Pub. L. 104–208, div. C, title III, §§308(c)(3), (e)(13), 371(b)(8), title VI, §671(b)(6), (7), Sept. 30, 1996, 110 Stat. 3009–616, 3009–620, 3009–645, 3009–722.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (a)(1), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+
 #### Amendments
 
 1996—Subsec. (a). Pub. L. 104–208, §308(c)(3), designated existing provisions as par. (1) and added par. (2).
@@ -36,7 +40,7 @@ Pub. L. 104–208, §671(b)(6), substituted “remains” for “remain”.
 
 Subsec. (d). Pub. L. 104–208, §371(b)(8), substituted “immigration judges” for “special inquiry officers”.
 
-Pub. L. 104–208, §308(e)(13), struck out subsec. (d) which read as follows: “The owner, charterer, agent, consignee, commanding officer, or master of any vessel or aircraft arriving at the United States from any place outside the United States who fails to deport any alien stowaway on the vessel or aircraft on which such stowaway arrived or on another vessel or aircraft at the expense of the vessel or aircraft on which such stowaway arrived when required to do so by an immigration officer, shall pay to the Commissioner a fine of $3,000 for each alien stowaway, in respect of whom any such failure occurs. Pending final determination of liability for such fine, no such vessel or aircraft shall be granted clearance, except that clearance may be granted upon the deposit of an amount sufficient to cover such fine, or of a bond with sufficient surety to secure the payment thereof approved by the Commissioner. The provisions of section 1225 of this title for detention of aliens for examination before immigration judges and the right of appeal provided for in section 1226 of this title shall not apply to aliens who arrive as stowaways and no such alien shall be permitted to land in the United States, except temporarily for medical treatment, or pursuant to such regulations as the Attorney General may prescribe for the ultimate departure or removal or deportation of such alien from the United States.”
+Pub. L. 104–208, §308(e)(13), struck out subsec. (d) which read as follows: “The owner, charterer, agent, consignee, commanding officer, or master of any vessel or aircraft arriving at the United States from any place outside the United States who fails to deport any alien stowaway on the vessel or aircraft on which such stowaway arrived or on another vessel or aircraft at the expense of the vessel or aircraft on which such stowaway arrived when required to do so by an immigration officer, shall pay to the Commissioner a fine of $3,000 for each alien stowaway, in respect of whom any such failure occurs. Pending final determination of liability for such fine, no such vessel or aircraft shall be granted clearance, except that clearance may be granted upon the deposit of an amount sufficient to cover such fine,or of a bond with sufficient surety to secure the payment thereof approved by the Commissioner. The provisions of section 1225 of this title for detention of aliens for examination before immigration judges and the right of appeal provided for in section 1226 of this title shall not apply to aliens who arrive as stowaways and no such alien shall be permitted to land in the United States, except temporarily for medical treatment, or pursuant to such regulations as the Attorney General may prescribe for the ultimate departure or removal or deportation of such alien from the United States.”
 
 1994—Subsec. (b). Pub. L. 103–416, §219(p), in first sentence substituted “Commissioner” for “collector of customs” before “to the alien”.
 

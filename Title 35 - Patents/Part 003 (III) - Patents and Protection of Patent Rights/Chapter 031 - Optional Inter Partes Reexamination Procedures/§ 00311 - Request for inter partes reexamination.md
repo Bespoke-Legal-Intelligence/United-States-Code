@@ -20,7 +20,7 @@ Copy.—The Director promptly shall send a copy of the request to the owner of r
 
 #### Amendments
 
-2002—Pub. L. 107–273, §13202(c)(1), made technical correction to directory language of Pub. L. 106–113, which enacted this section.
+<b>2002</b>—Pub. L. 107–273, §13202(c)(1), made technical correction to directory language of Pub. L. 106–113, which enacted this section.
 
 Subsec. (a). Pub. L. 107–273, §13202(a)(1)(A), substituted “third-party requester” for “person”.
 

@@ -26,9 +26,9 @@ After publication of the roll in the Federal Register, the membership of the tri
 
 #### Amendments
 
-1988—Subsec. (b). Pub. L. 100–446 inserted “Cow Creek descendants or other” before “Indian individuals”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–446 inserted “Cow Creek descendants or other” before “Indian individuals”.
 
-1987—Pub. L. 100–139 amended section generally. Prior to amendment, section read as follows:
+<b>1987</b>—Pub. L. 100–139 amended section generally. Prior to amendment, section read as follows:
 
 “(a) Membership in the tribe shall consist of every individual—
 

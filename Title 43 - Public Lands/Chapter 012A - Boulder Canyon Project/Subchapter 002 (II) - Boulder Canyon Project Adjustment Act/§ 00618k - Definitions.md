@@ -22,5 +22,5 @@ The Boulder Canyon Project Act, referred to in text, is act Dec. 21, 1928, ch. 4
 
 #### Amendments
 
-1984—Pub. L. 98–381 substituted “beginning June 1, 1937” for “during the period from June 1, 1937, to May 31, 1987, inclusive” in definition of “Replacements”.
+<b>1984</b>—Pub. L. 98–381 substituted “beginning June 1, 1937” for “during the period from June 1, 1937, to May 31, 1987, inclusive” in definition of “Replacements”.
 

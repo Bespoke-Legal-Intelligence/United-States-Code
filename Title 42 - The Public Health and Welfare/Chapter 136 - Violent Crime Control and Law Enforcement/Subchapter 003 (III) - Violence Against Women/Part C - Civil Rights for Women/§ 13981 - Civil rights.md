@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (2) No prior criminal action
 
-&emsp;Nothing in this section requires a prior criminal complaint, prosecution, or conviction to establish the elements of a cause of action under subsection (c) of this section.
+&emsp;Nothing in this section requires a prior criminal complaint, prosecution, or convictionto establish the elements of a cause of action under subsection (c) of this section.
 
 #### (3) Concurrent jurisdiction
 
@@ -59,4 +59,6 @@ For short title of this part as the “Civil Rights Remedies for Gender-Motivate
 #### Constitutionality
 
 For decision holding this section unconstitutional, see <i>United States v. Morrison</i>, 529 U.S. 598, 120 S. Ct. 1740, 146 L. Ed. 2d 658 (2000).
+
+<i><sup>1</sup></i><i> So in original. The word “means” probably should appear after “(A)” below.</i>
 

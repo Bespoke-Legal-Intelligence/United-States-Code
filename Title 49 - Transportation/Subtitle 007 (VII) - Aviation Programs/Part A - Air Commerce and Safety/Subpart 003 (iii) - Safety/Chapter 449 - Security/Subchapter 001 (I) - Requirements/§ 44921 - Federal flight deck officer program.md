@@ -78,7 +78,7 @@ Training.—
 
 &emsp;&emsp;(A)
 
-In general.—The Under Secretary shall base the requirements for the trainingof Federal flight deck officers under subsection (b) on the training standards applicable to Federal air marshals; except that the Under Secretary shall take into account the differing roles and responsibilities of Federal flight deck officers and Federal air marshals.
+In general.—The Under Secretary shall base the requirements for the training of Federal flight deck officers under subsection (b) on the training standards applicable to Federal air marshals; except that the Under Secretary shall take into account the differing roles and responsibilities of Federal flight deck officers and Federal air marshals.
 
 &emsp;&emsp;(B)
 
@@ -212,7 +212,7 @@ The date of enactment of this section, referred to in subsec. (b)(1), (2), is th
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–176, §609(b)(1), struck out “passenger” before “air transportation” in two places.
+<b>2003</b>—Subsec. (a). Pub. L. 108–176, §609(b)(1), struck out “passenger” before “air transportation” in two places.
 
 Subsec. (k)(2). Pub. L. 108–176, §609(b)(2), substituted “or any other flight deck crew member” for “or, if more than 1 pilot is required for the operation of the aircraft or by the regulations under which the flight is being conducted, the individual designated as second in command”.
 
@@ -228,7 +228,7 @@ Section effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–29
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security,relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Equitable Implementation of 2003 Amendments
 

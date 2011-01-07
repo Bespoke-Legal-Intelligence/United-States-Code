@@ -24,13 +24,13 @@ This section \[section 3\] corrects a typographical error in section 114 of titl
 
 #### Amendments
 
-1996—Pub. L. 104–132 substituted “torture (as defined in section 2340), maim, or disfigure” for “maim or disfigure”.
+<b>1996</b>—Pub. L. 104–132 substituted “torture (as defined in section 2340), maim, or disfigure” for “maim or disfigure”.
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $25,000”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $25,000”.
 
-1990—Pub. L. 101–647 substituted “or imprisoned” for “and imprisoned”.
+<b>1990</b>—Pub. L. 101–647 substituted “or imprisoned” for “and imprisoned”.
 
-1984—Pub. L. 98–473 substituted “and imprisoned” for “or imprisoned” and provisions raising maximum fine from $1,000 to $25,000 and raising maximum term of imprisonment from seven years to twenty years.
+<b>1984</b>—Pub. L. 98–473 substituted “and imprisoned” for “or imprisoned” and provisions raising maximum fine from $1,000 to $25,000 and raising maximum term of imprisonment from seven years to twenty years.
 
-1949—Act May 24, 1949, corrected spelling of “maim”.
+<b>1949</b>—Act May 24, 1949, corrected spelling of “maim”.
 

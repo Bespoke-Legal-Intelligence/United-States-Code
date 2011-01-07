@@ -36,11 +36,11 @@ Section 31326(b)(2) provides in the case of a foreign vessel, the preferred mort
 
 #### Amendments
 
-2006—Subsec. (b)(1). Pub. L. 109–304, §15(31)(A), substituted “chapter 537 of this title,” for “title XI of the Merchant Marine Act, 1936 (46 App. U.S.C. 1101 et seq.)”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–304, §15(31)(A), substituted “chapter 537 of this title,” for “title XI of the Merchant Marine Act, 1936 (46 App. U.S.C. 1101 et seq.)”.
 
 Subsec. (b)(2). Pub. L. 109–304, §15(31)(B), substituted “chapter 537 of this title” for “title XI of that Act”.
 
-1993—Subsec. (b)(1). Pub. L. 103–160, §1260(1), inserted “, including a preferred mortgage lien on a foreign vessel whose mortgage has been guaranteed under title XI of the Merchant Marine Act, 1936 (46 App. U.S.C. 1101 et seq.)” after “preferred mortgage lien”.
+<b>1993</b>—Subsec. (b)(1). Pub. L. 103–160, §1260(1), inserted “, including a preferred mortgage lien on a foreign vessel whose mortgage has been guaranteed under title XI of the Merchant Marine Act, 1936 (46 App. U.S.C. 1101 et seq.)” after “preferred mortgage lien”.
 
 Subsec. (b)(2). Pub. L. 103–160, §1360(2), inserted “whose mortgage has not been guaranteed under title XI of that Act” after “foreign vessel”.
 

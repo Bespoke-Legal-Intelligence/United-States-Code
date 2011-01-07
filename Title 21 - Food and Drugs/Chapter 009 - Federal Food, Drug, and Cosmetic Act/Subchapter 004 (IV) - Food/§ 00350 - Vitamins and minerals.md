@@ -52,7 +52,7 @@
 
 #### Amendments
 
-1994—Subsec. (b)(2). Pub. L. 103–417, §7(d), redesignated subpar. (A) as par. (2), substituted “dietary supplement ingredients described in section 321(ff) of this title” for “vitamins or minerals”, and struck out former subpar. (B), which read as follows: “Notwithstanding the provisions of subparagraph (A), the labeling and advertising for any food to which this section applies may not give prominence to or emphasize ingredients which are not—
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–417, §7(d), redesignated subpar. (A) as par. (2), substituted “dietary supplement ingredients described in section 321(ff) of this title” for “vitamins or minerals”, and struck out former subpar. (B), which read as follows: “Notwithstanding the provisions of subparagraph (A), the labeling and advertising for any food to which this section applies may not give prominence to or emphasize ingredients which are not—
 
 &emsp;“(i) vitamins,
 

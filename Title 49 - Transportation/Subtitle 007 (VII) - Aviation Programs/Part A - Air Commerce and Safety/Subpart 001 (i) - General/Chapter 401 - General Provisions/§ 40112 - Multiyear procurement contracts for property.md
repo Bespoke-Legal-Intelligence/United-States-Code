@@ -50,7 +50,7 @@ Contract Provisions.—(1) A contract under this section may—
 
 Cancellation Payment and Notice of Cancellation Ceiling.—(1) If a contract under this section provides that performance is subject to an appropriation being made, it also may provide for a cancellation payment to be made to the contractor if the appropriation is not made.
 
-(2) Before awarding a contract under this section containing a cancellation ceiling of more than $100,000,000, the Administrator shall give written notice of the proposed contract and cancellation ceiling to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives. The contract may not be awarded until the endof the 30-day period beginning on the date of the notice.
+(2) Before awarding a contract under this section containing a cancellation ceiling of more than $100,000,000, the Administrator shall give written notice of the proposed contract and cancellation ceiling to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives. The contract may not be awarded until the end of the 30-day period beginning on the date of the notice.
 
 (f)
 
@@ -132,7 +132,7 @@ In subsection (f), the words “canceled or” and “cancellation or” are omi
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–106 struck out “or a contract to purchase property to which section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759) applies” after “improvement to real property”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106 struck out “or a contract to purchase property to which section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759) applies” after “improvement to real property”.
 
 Subsec. (e)(2). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 

@@ -162,7 +162,7 @@
 
 #### (ii) Revocation
 
-&emsp;&emsp;&emsp;If the designated officer or any selected entity determines that a third party is not meeting the procedures or requirements established under subparagraph (B), the selected entity shall—
+&emsp;&emsp;&emsp;If the designated officer or any selected entity determines that a third party is notmeeting the procedures or requirements established under subparagraph (B), the selected entity shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) revoke the accreditation of that third party to conduct certifications under this subsection; and
 

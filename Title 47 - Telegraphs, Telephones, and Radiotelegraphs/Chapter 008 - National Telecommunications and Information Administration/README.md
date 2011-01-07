@@ -32,7 +32,7 @@
 |  |  |
 | :--- | ---: |
 | [941\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2000941%20-%20Child-friendly%20second-level%20Internet%20domain.md) | Child-friendly second-level Internet domain. |
-| [942\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2000942%20-%20Coordination%20of%20E%E2%80%93911%20implementation.md) | Coordination of E–911 implementation. |
+| [942\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2000942%20-%20Omitted.md) | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -2,7 +2,7 @@
 
 #### (a) Annual report to the Secretary
 
-In order to continue receiving funding after the first year of a multiyear grant or contractunder this subpart, the administrator of the grant or contract for the local educational agency or community-based organization shall submit to the Secretary an annual report that—
+In order to continue receiving funding after the first year of a multiyear grant or contract under this subpart, the administrator of the grant or contract for the local educational agency or community-based organization shall submit to the Secretary an annual report that—
 
 &emsp;(1) describes the activities conducted during the preceding year; and
 

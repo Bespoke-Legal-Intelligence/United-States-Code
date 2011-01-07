@@ -82,7 +82,7 @@ The FREEDOM Support Act, referred to in subsec. (b)(3), is Pub. L. 102–511, Oc
 
 #### Amendments
 
-2008—Subsec. (b)(3). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+<b>2008</b>—Subsec. (b)(3). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
 #### Change of Name
 

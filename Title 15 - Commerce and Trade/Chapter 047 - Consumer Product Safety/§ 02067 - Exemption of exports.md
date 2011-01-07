@@ -2,7 +2,7 @@
 
 #### (a) Risk of injury to consumers within United States
 
-This chapter shall not apply to any consumer product if (1) it can be shown that such product is manufactured, sold, or held for sale for export from the United States (or that such product was imported for export), unless (A) such consumer product is in fact distributed in commerce for use in the United States, or (B) the Commission determines that exportation of such product presents an unreasonable risk of injury to consumers within the United States, and (2)such consumer product when distributed in commerce, or any container in which it is enclosed when so distributed, bears a stamp or label stating that such consumer product is intended for export; except that this chapter shall apply to any consumer product manufactured for sale, offered for sale, or sold for shipment to any installation of the United States located outside of the United States.
+This chapter shall not apply to any consumer product if (1) it can be shown that such product is manufactured, sold, or held for sale for export from the United States (or that such product was imported for export), unless (A) such consumer product is in fact distributed in commerce for use in the United States, or (B) the Commission determines that exportation of such product presents an unreasonable risk of injury to consumers within the United States, and (2) such consumer product when distributed in commerce, or any container in which it is enclosed when so distributed, bears a stamp or label stating that such consumer product is intended for export; except that this chapter shall apply to any consumer product manufactured for sale, offered for sale, or sold for shipment to any installation of the United States located outside of the United States.
 
 #### (b) Statement of exportation: filing period, information; notification of foreign country; petition for minimum filing period: good cause
 
@@ -20,7 +20,7 @@ Nothing in this section shall apply to any consumer product, the export of which
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–314, §221(a)(1), substituted “any product which is not in conformity with an applicable consumer product safety rule in effect under this chapter,” for “any product—
+<b>2008</b>—Subsec. (b). Pub. L. 110–314, §221(a)(1), substituted “any product which is not in conformity with an applicable consumer product safety rule in effect under this chapter,” for “any product—
 
 &emsp;“(1) which is not in conformity with an applicable consumer product safety standard in effect under this chapter, or
 
@@ -28,5 +28,5 @@ Nothing in this section shall apply to any consumer product, the export of which
 
 Subsecs. (c), (d). Pub. L. 110–314, §221(a)(2), added subsecs. (c) and (d).
 
-1978—Subsec. (a). Pub. L. 95–631 designated existing text as subsec. (a) and cl. (A) and in subsec. (a), as so designated, added cl. (B), and added subsec. (b).
+<b>1978</b>—Subsec. (a). Pub. L. 95–631 designated existing text as subsec. (a) and cl. (A) and in subsec. (a), as so designated, added cl. (B), and added subsec. (b).
 

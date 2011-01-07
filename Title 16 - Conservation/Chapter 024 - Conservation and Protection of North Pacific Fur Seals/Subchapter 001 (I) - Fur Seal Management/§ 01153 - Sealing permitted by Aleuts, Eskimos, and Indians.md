@@ -8,5 +8,5 @@
 
 #### Amendments
 
-1983—Pub. L. 98–129 amended section generally, substituting provisions authorizing sealing by Aleuts, Eskimos, and Indians, which were previously contained in section 1152 of this title, for provisions authorizing scientific research on fur seal resources. See section 1154 of this title.
+<b>1983</b>—Pub. L. 98–129 amended section generally, substituting provisions authorizing sealing by Aleuts, Eskimos, and Indians, which were previously contained in section 1152 of this title, for provisions authorizing scientific research on fur seal resources. See section 1154 of this title.
 

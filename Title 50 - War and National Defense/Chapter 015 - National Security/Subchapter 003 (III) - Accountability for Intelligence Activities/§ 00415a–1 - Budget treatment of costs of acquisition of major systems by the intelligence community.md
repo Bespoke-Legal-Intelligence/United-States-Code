@@ -6,7 +6,7 @@
 
 (2) Each independent cost estimate for a major system shall, to the maximum extent practicable, specify the amount required to be appropriated and obligated to develop, procure, and operate the major system in each fiscal year of the proposed period of development, procurement, and operation of the major system.
 
-(3)(A) In the case of a program of the intelligence community that qualifies as a major system, an independent cost estimate shall be prepared before the submission to Congress of the budget of the President for the first fiscal year in which appropriated funds are anticipated to be obligated for the development or procurement of such major system.
+(3)(A) In the case of a program of the intelligence community that qualifies as a major system, an independent cost estimate shall beprepared before the submission to Congress of the budget of the President for the first fiscal year in which appropriated funds are anticipated to be obligated for the development or procurement of such major system.
 
 (B) In the case of a program of the intelligence community for which an independent cost estimate was not previously required to be prepared under this section, including a program for which development or procurement commenced before December 13, 2003, if the aggregate future costs of development or procurement (or any combination of such activities) of the program will exceed $500,000,000 (in current fiscal year dollars), the program shall qualify as a major system for purposes of this section, and an independent cost estimate for such major system shall be prepared before the submission to Congress of the budget of the President for the first fiscal year thereafter in which appropriated funds are anticipated to be obligated for such major system.
 
@@ -52,13 +52,15 @@ In this section:
 
 &emsp;(2) The term “independent cost estimate” means a pragmatic and neutral analysis, assessment, and quantification of all costs and risks associated with the acquisition of a major system, which shall be based on programmatic and technical specifications provided by the office within the element of the intelligence community with primary responsibility for the development, procurement, or operation of the major system.
 
-&emsp;(3) The term “major system” means any significant program of an element of the intelligence community with projected total development and procurement costs exceeding $500,000,000 (in current fiscal year dollars), which costs shall include all end-to-end program costs, including costs associated with the development and procurement of the program and any other costs associated with the development and procurement of systems required to support or utilize the program.
+&emsp;(3) The term “major system” means any significant program of an element of the intelligence community with projected total development and procurement costs exceeding $500,000,000 (based on fiscal year 2010 constant dollars), which costs shall include all end-to-end program costs, including costs associated with the development and procurement of the program and any other costs associated with the development and procurement of systems required to support or utilize the program.
 
-(July 26, 1947, ch. 343, title V, §506A, as added Pub. L. 108–177, title III, §312(b)(1), Dec. 13, 2003, 117 Stat. 2607; amended Pub. L. 108–458, title I, §§1071(a)(1)(BB), 1072(a)(6), Dec. 17, 2004, 118 Stat. 3689, 3692.)
+(July 26, 1947, ch. 343, title V, §506A, as added Pub. L. 108–177, title III, §312(b)(1), Dec. 13, 2003,117 Stat. 2607; amended Pub. L. 108–458, title I, §§1071(a)(1)(BB), 1072(a)(6), Dec. 17, 2004, 118 Stat. 3689, 3692; Pub. L. 111–259, title III, §321(b), Oct. 7, 2010, 124 Stat. 2669.)
 
 #### Amendments
 
-2004—Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(BB), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+<b>2010</b>—Subsec. (e)(3). Pub. L. 111–259 substituted “(based on fiscal year 2010 constant dollars)” for “(in current fiscal year dollars)”.
+
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(BB), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 Subsec. (b)(1). Pub. L. 108–458, §1072(a)(6), substituted “Office of the Director of National Intelligence” for “Office of the Deputy Director of Central Intelligence”.
 

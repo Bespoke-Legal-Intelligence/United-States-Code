@@ -74,7 +74,7 @@ Application.—To be eligible to participate in the pilot program, a State shall
 
 &emsp;(2)
 
-Public notice.—Before entering into a memorandum of understanding allowing a State to participate in the pilot program, the Secretary shall—
+Public notice.—Before entering into a memorandum of understanding allowing aState to participate in the pilot program, the Secretary shall—
 
 &emsp;&emsp;(A) publish notice in the Federal Register of the Secretary's intent to allow the State to participate in the program, including a copy of the State's application to the Secretary and the terms of the proposed agreement with the State; and
 

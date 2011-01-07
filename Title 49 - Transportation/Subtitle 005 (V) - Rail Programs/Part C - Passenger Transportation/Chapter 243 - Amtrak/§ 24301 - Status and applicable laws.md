@@ -80,7 +80,7 @@ Waste Disposal.—(1) An intercity rail passenger car manufactured after October
 
 (n)
 
-Rail Transportation Treated Equally.—When authorizing transportation in the continental United States for an officer, employee,or member of the uniformed services of a department, agency, or instrumentality of the Government, the head of that department, agency, or instrumentality shall consider rail transportation (including transportation by extra-fare trains) the same as transportation by another authorized mode. The Administrator of General Services shall include Amtrak in the contract air program of the Administrator in markets in which transportation provided by Amtrak is competitive with other carriers on fares and total trip times.
+Rail Transportation Treated Equally.—When authorizing transportation in the continental United States for an officer, employee, or member of the uniformed services of a department, agency, or instrumentality of the Government, the head of that department, agency, or instrumentality shall consider rail transportation (including transportation by extra-fare trains) the same as transportation by another authorized mode. The Administrator of General Services shall include Amtrak in the contract air program of the Administrator in markets in which transportation provided by Amtrak is competitive with other carriers on fares and total trip times.
 
 (<i>o</i>)
 
@@ -262,11 +262,11 @@ The date of the enactment of this subsection, referred to in subsec. (<i>o</i>),
 
 #### Amendments
 
-2007—Subsec. (<i>o</i>). Pub. L. 110–53 added subsec. (<i>o</i>).
+<b>2007</b>—Subsec. (<i>o</i>). Pub. L. 110–53 added subsec. (<i>o</i>).
 
-2004—Subsec. (c). Pub. L. 108–199 inserted “11123,” after “except for sections”.
+<b>2004</b>—Subsec. (c). Pub. L. 108–199 inserted “11123,” after “except for sections”.
 
-1997—Subsec. (a)(1). Pub. L. 105–134, §401(1), substituted “railroad carrier under section 20102(2) and chapters 261 and 281” for “rail carrier under section 10102”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–134, §401(1), substituted “railroad carrier under section 20102(2) and chapters 261 and 281” for “rail carrier under section 10102”.
 
 Subsec. (a)(3). Pub. L. 105–134, §415(d)(1), inserted “, and shall not be subject to title 31” after “United States Government”.
 
@@ -292,13 +292,13 @@ Subsec. (c). Pub. L. 105–134, §401(2), reenacted heading without change and a
 
 Subsec. (e). Pub. L. 105–134, §110(a), inserted at end “Section 552 of title 5, United States Code, applies to Amtrak for any fiscal year in which Amtrak receives a Federal subsidy.”
 
-Subsec. (f). Pub. L. 105–134, §106(b), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The laws of the District of Columbia govern leases and contracts of Amtrak, regardless of where they are executed.”
+Subsec. (f). Pub. L. 105–134, §106(b), amended heading and text of subsec. (f) generally. Prior to amendment,text read as follows: “The laws of the District of Columbia govern leases and contracts of Amtrak, regardless of where they are executed.”
 
 Subsec. (<i>l</i>)(1). Pub. L. 105–134, §208, inserted heading and substituted in text “Amtrak, a rail carrier subsidiary of Amtrak, and any passenger or other customer of Amtrak or such subsidiary, are” for “Amtrak or a rail carrier subsidiary of Amtrak is”, “tax, fee, head charge, or other charge, imposed or levied by a State, political subdivision, or local taxing authority on Amtrak, a rail carrier subsidiary of Amtrak, or on persons traveling in intercity rail passenger transportation or on mail or express transportation provided by Amtrak or such a subsidiary, or on the carriage of such persons, mail, or express, or on the sale of any such transportation, or on the gross receipts derived therefrom” for “tax or fee imposed by a State, a political subdivision of a State, or a local taxing authority and levied on it”, and “In the case of a tax or fee that Amtrak was required to pay as of September 10, 1982, Amtrak is not exempt from such tax or fee if it was assessed before April 1, 1997.” for “However, Amtrak is not exempt under this subsection from a tax or fee that it was required to pay as of September 10, 1982.”
 
 Subsec. (m)(1)(A). Pub. L. 105–134, §402, substituted “2001” for “1996”.
 
-1995—Subsec. (c)(1). Pub. L. 104–88, §308(g)(1)(A), substituted “Part A of subtitle IV” for “Subtitle IV”.
+<b>1995</b>—Subsec. (c)(1). Pub. L. 104–88, §308(g)(1)(A), substituted “Part A of subtitle IV” for “Subtitle IV”.
 
 Subsec. (c)(2)(A). Pub. L. 104–88, §308(g)(1)(B), substituted “section 10721 of this title applies” for “sections 10721–10724 of this title apply”.
 
@@ -324,7 +324,7 @@ Pub. L. 105–134, title I, §109, Dec. 2, 1997, 111 Stat. 2574, provided that: 
 
 #### Application of Federal Property and Administrative Services Act
 
-Pub. L. 105–134, title I, §110(b), Dec. 2, 1997, 111 Stat. 2574, provided that: “Section 303B(m) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253b(m)) applies to a proposal in the possession or control of Amtrak.”
+Pub. L. 105–134, title I, §110(b), Dec. 2, 1997, 111 Stat. 2574, provided that: “Section 303B(m) of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C. 253b(m)) \[now 41 U.S.C. 4702\] applies to a proposal in the possession or control of Amtrak.”
 
 #### Exemption From Laws Relating to Abandoned or Unclaimed Property
 

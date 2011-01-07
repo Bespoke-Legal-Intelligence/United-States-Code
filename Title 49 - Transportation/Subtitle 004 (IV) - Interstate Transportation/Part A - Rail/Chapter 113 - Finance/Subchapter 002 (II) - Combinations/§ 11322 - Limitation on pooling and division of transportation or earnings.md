@@ -6,7 +6,7 @@
 
 &emsp;(2) will not unreasonably restrain competition.
 
-(b) The Board may impose conditions governing the pooling or division and may approve and authorize payment of a reasonable consideration between the rail carriers.
+(b) The Board may impose conditions governing the pooling or division and may approve andauthorize payment of a reasonable consideration between the rail carriers.
 
 (c) The Board may begin a proceeding under this section on its own initiative or on application.
 

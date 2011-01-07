@@ -34,7 +34,7 @@ Acceptance of Faculty Research Grants.—(1) The Secretary of Defense may author
 
 (3) A grant may be accepted under this subsection only from a corporation, fund, foundation, educational institution, or similar entity that is organized and operated primarily for scientific, literary, or educational purposes.
 
-(4) The Secretary shall establish an account for administering funds received as researchgrants under this subsection. The President of the University shall use the funds in the account in accordance with applicable provisions of the regulations and the terms and condition of the grants received.
+(4) The Secretary shall establish an account for administering funds received as research grants under this subsection. The President of the University shall use the funds in the account in accordance with applicable provisions of the regulations and the terms and condition of the grants received.
 
 (5) Subject to such limitations as may be provided in appropriations Acts, appropriations available for the National Defense University may be used to pay expenses incurred by the University in applying for, and otherwise pursuing, the award of qualifying research grants.
 
@@ -44,21 +44,21 @@ Acceptance of Faculty Research Grants.—(1) The Secretary of Defense may author
 
 #### Amendments
 
-2006—Subsec. (b)(6), (7). Pub. L. 109–364, §904(b)(2)(A), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “The Center for Hemispheric Defense Studies.”
+<b>2006</b>—Subsec. (b)(6), (7). Pub. L. 109–364, §904(b)(2)(A), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “The Center for Hemispheric Defense Studies.”
 
 Subsec. (c). Pub. L. 109–364, §904(b)(2)(B), struck out heading and text of subsec. (c). Text read as follows: “Funds available for the payment of personnel expenses under the Latin American cooperation authority set forth in section 1050 of this title are also available for the costs of the operation of the Center for Hemispheric Defense Studies.”
 
 Subsec. (e). Pub. L. 109–163 added subsec. (e).
 
-2001—Subsec. (d). Pub. L. 107–107 added subsec. (d).
+<b>2001</b>—Subsec. (d). Pub. L. 107–107 added subsec. (d).
 
-2000—Subsec. (b)(3). Pub. L. 106–398 substituted “Joint Forces Staff College” for “Armed Forces Staff College”.
+<b>2000</b>—Subsec. (b)(3). Pub. L. 106–398 substituted “Joint Forces Staff College” for “Armed Forces Staff College”.
 
-1998—Subsec. (b)(7). Pub. L. 105–261, §904, added par. (7).
+<b>1998</b>—Subsec. (b)(7). Pub. L. 105–261, §904, added par. (7).
 
 Subsec. (c). Pub. L. 105–261, §905(a), added subsec. (c).
 
-1997—Subsec. (b)(6). Pub. L. 105–85, §922(a), added par. (6).
+<b>1997</b>—Subsec. (b)(6). Pub. L. 105–85, §922(a), added par. (6).
 
 #### Change of Name
 
@@ -98,7 +98,7 @@ Startup of Center.—The Secretary of Defense shall establish the Center for the
 
 “(e)
 
-Implementation Report.—(1) Not later than January 1, 2001, the President of the National Defense University shall submit to the Secretary of Defense a report setting forth the President's organizational plan for the Center for the Study of Chinese Military Affairs, the proposed budget for the Center, and the timetable for initial and full operations of the Center. The President of the National Defense University shall prepare that report in consultation with the Director of the Center and the Director of the Institute for National Strategic Studies of the University.
+Implementation Report.—(1) Not later than January 1, 2001, the President of the National DefenseUniversity shall submit to the Secretary of Defense a report setting forth the President's organizational plan for the Center for the Study of Chinese Military Affairs, the proposed budget for the Center, and the timetable for initial and full operations of the Center. The President of the National Defense University shall prepare that report in consultation with the Director of the Center and the Director of the Institute for National Strategic Studies of the University.
 
 “(2) The Secretary of Defense shall transmit the report under paragraph (1), together with whatever comments the Secretary considers appropriate, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives not later than February 1, 2001.”
 

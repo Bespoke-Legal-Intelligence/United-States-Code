@@ -22,5 +22,5 @@ The words “or persons” are omitted for the reasons stated in the revision no
 
 #### Amendments
 
-1966—Pub. L. 89–718 struck out “the” before “Secretary” in section catchline.
+<b>1966</b>—Pub. L. 89–718 struck out “the” before “Secretary” in section catchline.
 

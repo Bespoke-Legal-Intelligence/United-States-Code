@@ -24,21 +24,13 @@ The designation of the recreation management area shall not be construed to proh
 
 #### (f) Development
 
-No developed campgrounds shall be constructed within the recreation management area. After August 13, 1993, no new roads or trails may be constructed within the recreation management area.
+No developed campgrounds shall be constructed within the recreation management area. After August 13, 1993, no new roads ortrails may be constructed within the recreation management area.
 
 #### (g) Off-road recreation
 
 Motorized travel shall be permitted within the recreation management area only on those established trails and routes existing as of July 1, 1991, on which such travel was permitted as of such date, except that other trails and routes may be used where necessary for administrative purposes or to respond to an emergency. No later than one year after August 13, 1993, the Secretary shall identify such routes and trails and shall prepare and make available to the public a map showing such routes and trails. Nothing in this subsection shall be construed as precluding the Secretary from closing any trail or route from use for purposes of resource protection or public safety.
 
 (Pub. L. 103–77, §5, Aug. 13, 1993, 107 Stat. 760.)
-
-#### References in Text
-
-The public land laws, referred to in subsec. (c), are classified generally to Title 43, Public Lands.
-
-The mining laws and the mineral leasing laws, referred to in subsec. (c), are classified generally to Title 30, Mineral Lands and Mining.
-
-Geothermal leasing laws, referred to in subsec. (c), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
 
 #### Short Title
 

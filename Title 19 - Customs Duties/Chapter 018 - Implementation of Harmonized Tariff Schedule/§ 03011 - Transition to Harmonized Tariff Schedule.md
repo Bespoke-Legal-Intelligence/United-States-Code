@@ -2,7 +2,7 @@
 
 #### (a) Existing executive actions
 
-(1) The appropriate officers of the United States Government shall take whatever actions are necessary to conform, to the fullest extent practicable, with the tariff classification system of the Harmonized Tariff Schedule all proclamations, regulations, rulings, notices, findings, determinations, orders, recommendations, and other written actions that—
+(1) The appropriate officers of the United States Government shall take whatever actions are necessary to conform, to the fullest extent practicable, with the tariff classification systemof the Harmonized Tariff Schedule all proclamations, regulations, rulings, notices, findings, determinations, orders, recommendations, and other written actions that—
 
 &emsp;(A) are in effect on the day before January 1, 1989; and
 
@@ -24,7 +24,7 @@
 
 &emsp;(B) an article not previously subject to the restriction being included within the restriction;
 
-> the President may proclaim changes in subchapter IV of chapter 99 of the Harmonized Tariff Schedule to conform that subchapter to thefullest extent possible to part 3 of the Appendix to the old Schedules.
+> the President may proclaim changes in subchapter IV of chapter 99 of the Harmonized Tariff Schedule to conform that subchapter to the fullest extent possible to part 3 of the Appendix to the old Schedules.
 
 (2) Whenever the President determines that the conversion from headnote 2 of subpart A of part 10 of schedule 1 of the old Schedules to Additional U.S. Note 2, chapter 17, of the Harmonized Tariff Schedule results in—
 
@@ -70,13 +70,13 @@
 
 #### References in Text
 
-The Harmonized Tariff Schedule, referred to in subsecs. (a)(1), (c), and (d)(2)(B), (3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Harmonized Tariff Schedule, referred to in subsecs. (a)(1), (c), and (d)(2)(B), (3), is not set out in theCode. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 This chapter, referred to in subsec. (d)(1), was in the original “this subtitle”, meaning subtitle B (§§1201–1217) of title I of Pub. L. 100–418, which is classified principally to this chapter. For complete classification of this subtitle to the Code, see References in Text note set out under section 3001 of this title and Tables.
 
 #### Amendments
 
-1996—Subsec. (b)(1). Pub. L. 104–188, §1954(a)(1), inserted “(as in effect on July 31, 1995)” after “of this title”.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–188, §1954(a)(1), inserted “(as in effect on July 31, 1995)” after “of this title”.
 
 Subsec. (b)(2). Pub. L. 104–188, §1954(a)(2), inserted “(as in effect on July 31, 1995)” after “of this title”.
 

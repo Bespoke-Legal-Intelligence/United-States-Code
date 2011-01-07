@@ -46,5 +46,5 @@ A person shall not be in violation of subsection (a)(1) of this section if the p
 
 #### Amendments
 
-2006—Subsec. (a)(2)(D). Pub. L. 109–168 substituted “of a regulated” for “or a regulated”.
+<b>2006</b>—Subsec. (a)(2)(D). Pub. L. 109–168 substituted “of a regulated” for “or a regulated”.
 

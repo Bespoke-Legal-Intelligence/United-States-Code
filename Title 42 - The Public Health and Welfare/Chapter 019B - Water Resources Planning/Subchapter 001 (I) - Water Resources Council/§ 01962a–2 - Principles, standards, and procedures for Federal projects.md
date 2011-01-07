@@ -12,7 +12,7 @@ The Council shall develop standards and criteria for economic evaluation of wate
 
 #### Amendments
 
-1983—Pub. L. 97–449 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1983</b>—Pub. L. 97–449 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Delegation of Functions
 

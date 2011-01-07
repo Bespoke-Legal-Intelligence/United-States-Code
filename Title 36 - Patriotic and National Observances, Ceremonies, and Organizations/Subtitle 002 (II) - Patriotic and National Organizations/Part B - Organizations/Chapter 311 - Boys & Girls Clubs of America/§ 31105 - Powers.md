@@ -28,7 +28,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-31105D36:694(2)–(9).DAug. 6, 1956, ch. 976, §§4(2)–(9), 16, 70 Stat. 1052, 1056.
+31105
+
+36:694(2)–(9).
+
+Aug. 6, 1956, ch. 976, §§4(2)–(9), 16, 70 Stat. 1052, 1056.
 
 &nbsp;
 

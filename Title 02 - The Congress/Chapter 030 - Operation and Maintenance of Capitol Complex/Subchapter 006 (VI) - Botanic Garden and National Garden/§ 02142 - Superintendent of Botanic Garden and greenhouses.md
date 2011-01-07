@@ -1,6 +1,6 @@
 ### §2142. Superintendent of Botanic Garden and greenhouses
 
-There shall be a superintendent and assistants in the Botanical Garden and greenhouses, whoshall be under the direction of the Joint Committee on the Library.
+There shall be a superintendent and assistants in the Botanical Garden and greenhouses, who shall be under the direction of the Joint Committee on the Library.
 
 (R.S. §1827.)
 

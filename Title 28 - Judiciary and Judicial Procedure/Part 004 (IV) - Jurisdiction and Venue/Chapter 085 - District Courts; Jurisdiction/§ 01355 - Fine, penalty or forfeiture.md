@@ -28,9 +28,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1992—Pub. L. 102–550 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
+<b>1992</b>—Pub. L. 102–550 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
 
-1980—Pub. L. 96–417 inserted exception for matters within the jurisdiction of the Court of International Trade under section 1582 of this title.
+<b>1980</b>—Pub. L. 96–417 inserted exception for matters within the jurisdiction of the Court of International Trade under section 1582 of this title.
 
 #### Effective Date of 1980 Amendment
 

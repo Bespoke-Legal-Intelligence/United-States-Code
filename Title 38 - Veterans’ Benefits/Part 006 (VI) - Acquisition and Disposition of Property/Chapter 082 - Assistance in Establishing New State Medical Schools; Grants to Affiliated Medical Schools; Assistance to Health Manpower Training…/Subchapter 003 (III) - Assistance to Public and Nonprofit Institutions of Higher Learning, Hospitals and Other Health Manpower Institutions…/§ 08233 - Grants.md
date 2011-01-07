@@ -8,15 +8,15 @@
 
 &emsp;(2) the application contains or is supported by adequate assurance that any Federal funds made available under this subchapter will be supplemented by funds or other resources available from other sources, whether public or private;
 
-&emsp;(3) the application sets forth such fiscal control and accounting procedures as may be necessary to assure proper disbursement of, and accounting for, Federal funds expended under this subchapter; and
+&emsp;(3) the application sets forth such fiscal control and accounting procedures as may be necessary to assure proper disbursement of, andaccounting for, Federal funds expended under this subchapter; and
 
-&emsp;(4) the application provides for making such reports, in such form and containing such information, as the Secretary may require to carry out the Secretary's functions under this subchapter, and for keeping such records andfor affording such access thereto as the Secretary may find necessary to assure the correctness and verification of such reports.
+&emsp;(4) the application provides for making such reports, in such form and containing such information, as the Secretary may require to carry out the Secretary's functions under this subchapter, and for keeping such records and for affording such access thereto as the Secretary may find necessary to assure the correctness and verification of such reports.
 
 (Added Pub. L. 92–541, §2(a), Oct. 24, 1972, 86 Stat. 1106, §5093; amended Pub. L. 94–581, title II, §210(f)(5), Oct. 21, 1976, 90 Stat. 2866; Pub. L. 96–330, title IV, §405, Aug. 26, 1980, 94 Stat. 1052; renumbered §8233, Pub. L. 102–40, title IV, §402(b)(2)(D), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 5093 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5093 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
@@ -24,9 +24,9 @@ Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans�
 
 Subsec. (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary's” for “Administrator's” wherever appearing.
 
-1980—Subsec. (b)(1). Pub. L. 96–330 struck out “and will result in a substantial increase in the number of students trained at such institution, provided that there is reasonable assurance from a recognized accrediting body or bodies approved for such purposes by the Commissioner of Education of the Department of Health, Education, and Welfare that the increase in the number of students will not threaten any existing accreditation or otherwise compromise the quality of the training at such institution” after “training program of the eligible institution”.
+<b>1980</b>—Subsec. (b)(1). Pub. L. 96–330 struck out “and will result in a substantial increase in the number of students trained at such institution, provided that there is reasonable assurance from a recognized accrediting body or bodies approved for such purposes by the Commissioner of Education of the Department of Health, Education, and Welfare that the increase in the number of students will not threaten any existing accreditation or otherwise compromise the quality of the training at such institution” after “training program of the eligible institution”.
 
-1976—Subsec. (b). Pub. L. 94–581 substituted “the Administrator's” for “his” in provisions preceding par. (1) and in par. (4).
+<b>1976</b>—Subsec. (b). Pub. L. 94–581 substituted “the Administrator's” for “his” in provisions preceding par. (1) and in par. (4).
 
 #### Effective Date of 1976 Amendment
 

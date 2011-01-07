@@ -32,9 +32,5 @@ Pub. L. 106–559, §1, Dec. 21, 2000, 114 Stat. 2778, provided that: “This Ac
 
 #### Availability of Funds for Courts or Law Enforcement Officers of Certain Tribes or Villages
 
-Pub. L. 108–199, div. B, title I, §112(a)(1), Jan. 23, 2004, 118 Stat. 62, provided that: “None of the funds provided in this Act \[div. B of Pub. L. 108–199, see Tables for classification\] or hereafter may be used for courts or law enforcement officers for a tribe or village—
-
-&emsp;“(A) in which fewer than 25 Native members live in the village year round; or
-
-&emsp;“(B) that is located within the boundaries of the Fairbanks North Star Borough, the Matanuska Susitna Borough, the Municipality of Anchorage, the Kenai Peninsula Borough, the City and Borough of Juneau, the Sitka Borough, or the Ketchikan Borough.”
+Pub. L. 108–199, div. B, title I, §112(a)(1), Jan. 23, 2004, 118 Stat. 62, which prohibited use of funds provided in div. B of Pub. L. 108–199 or on or after Jan. 23, 2004, for courts or law enforcement officers for a tribe or village in which fewer than 25 Native members live in the village year round or that is located within certain areas, was repealed by Pub. L. 111–211, title II, §247(e)(1), July 29, 2010, 124 Stat. 2297.
 

@@ -6,7 +6,7 @@ The tax on domestic distilled spirits and on distilled spirits removed from cust
 
 #### (b) Collection of tax on imported distilled spirits
 
-The internal revenue tax imposed by section 5001(a)(1) and (2) upon imported distilled spirits shall be collected by the Secretary and deposited as internal revenue collections, under such regulations as the Secretary may prescribe. Section 5688 shall be applicable to the disposition of imported spirits.
+The internal revenue tax imposed by section 5001(a)(1) and (2) upon imported distilled spiritsshall be collected by the Secretary and deposited as internal revenue collections, under such regulations as the Secretary may prescribe. Section 5688 shall be applicable to the disposition of imported spirits.
 
 #### (c) Cross references
 
@@ -30,13 +30,13 @@ Prior section 5007(e)(2) related to “relief from assessment for deficiencies i
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–465, §136(c)(3), amended subsec. (b) generally, striking out provisions relating to collection and deposit as internal revenue collections of taxes on imported perfumes containing distilled spirits.
+<b>1994</b>—Subsec. (b). Pub. L. 103–465, §136(c)(3), amended subsec. (b) generally, striking out provisions relating to collection and deposit as internal revenue collections of taxes on imported perfumes containing distilled spirits.
 
 Subsec. (c)(3). Pub. L. 103–465, §136(c)(4), substituted “section 5001(a)(4), (5), and (6)” for “section 5001(a)(5), (6), and (7)”.
 
-1979—Subsec. (a). Pub. L. 96–39 struck out “(1) General” before “The tax on domestic” and par. (2) which related to distilled spirits withdrawn to bottling premises under withdrawal bond.
+<b>1979</b>—Subsec. (a). Pub. L. 96–39 struck out “(1) General” before “The tax on domestic” and par. (2) which related to distilled spirits withdrawn to bottling premises under withdrawal bond.
 
-1976—Subsec. (a)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (b)(1). Pub. L. 94–455, §§1905(b)(2)(A), 1906(b)(13)(A), struck out second sentence “Such tax shall be in addition to any customs duty imposed under the Tariff Act of 1930 (46 Stat. 590; 19 U.S.C., chapter 4), or any subsequent act.” and “or his delegate” after “Secretary” wherever appearing.
 

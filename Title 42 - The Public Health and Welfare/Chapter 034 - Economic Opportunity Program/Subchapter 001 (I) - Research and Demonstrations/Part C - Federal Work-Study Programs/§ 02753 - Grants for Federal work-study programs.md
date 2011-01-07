@@ -26,7 +26,7 @@ An agreement entered into pursuant to this section shall—
 
 &emsp;(3) provide that in the selection of students for employment under such work-study program, only students who demonstrate financial need in accordance with part F \[20 U.S.C. 1087kk et seq.\] and meet the requirements of section 1091 of title 20 will be assisted, except that if the institution's grant under this part is directly or indirectly based in part on the financial need demonstrated by students who are (A) attending the institution on less than a full-time basis, or (B) independent students, a reasonable portion of the grant shall be made available to such students;
 
-&emsp;(4) provide that for a student employed in a work-study program under this part, at thetime income derived from any need-based employment is in excess of the determination of the amount of such student's need by more than $300, continued employment shall not be subsidized with funds appropriated under this part;
+&emsp;(4) provide that for a student employed in a work-study program under this part, at the time income derived from any need-based employment is in excess of the determination of the amount of such student's need by more than $300, continued employment shall not be subsidized with funds appropriated under this part;
 
 &emsp;(5) provide that the Federal share of the compensation of students employed in the work-study program in accordance with the agreement shall not exceed 75 percent, except that—
 
@@ -44,7 +44,7 @@ An agreement entered into pursuant to this section shall—
 
 &emsp;&emsp;(B) the Federal share may exceed 75 percent if the Secretary determines, pursuant to regulations promulgated by the Secretary establishing objective criteria for such determinations, that a Federal share in excess of such amounts is required in furtherance of the purpose of this part;
 
-&emsp;(6) include provisions to make employment under such work-study program reasonably available (to the extent of available funds) to all eligible students in the institution in need thereof;
+&emsp;(6) include provisions to make employment under such work-study program reasonably available (to the extent of available funds) toall eligible students in the institution in need thereof;
 
 &emsp;(7) provide assurances that employment made available from funds under this part will, to the maximum extent practicable, complement and reinforce the educational program or vocational goals of each student receiving assistance under this part;
 
@@ -142,17 +142,17 @@ A prior section 2753, Pub. L. 89–329, title IV, §443, formerly title I, §143
 
 #### Amendments
 
-2009—Subsec. (b)(2). Pub. L. 111–39, §403(1), made technical amendment to reference in original act which appears in text as reference to this section in introductory provisions.
+<b>2009</b>—Subsec. (b)(2). Pub. L. 111–39, §403(1), made technical amendment to reference in original act which appears in text as reference to this section in introductory provisions.
 
 Subsec. (d)(1). Pub. L. 111–39, §403(2), substituted “subsection (b)(2)(A)” for “subsection (b)(2)(B)”.
 
 Subsec. (e)(1). Pub. L. 111–39, §403(3), struck out “in accordance with such subsection” before “to compensate” in introductory provisions.
 
-2008—Subsec. (b)(2)(A) to (C). Pub. L. 110–315, §443(1), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “for fiscal year 1999, an institution shall use at least 5 percent of the total amount of funds granted to such institution under this section in any fiscal year to compensate students employed in community service (including a reasonable amount of time spent in travel or training directly related to such community service), except that the Secretary may waive this subparagraph if the Secretary determines that enforcing it would cause hardship for students at an institution;”.
+<b>2008</b>—Subsec. (b)(2)(A) to (C). Pub. L. 110–315, §443(1), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “for fiscal year 1999, an institution shall use at least 5 percent of the total amount of funds granted to such institution under this section in any fiscal year to compensate students employed in community service (including a reasonable amount of time spent in travel or training directly related to such community service), except that the Secretary may waive this subparagraph if the Secretary determines that enforcing it would cause hardship for students at an institution;”.
 
 Subsec. (e). Pub. L. 110–315, §443(2), added subsec. (e).
 
-1998—Subsec. (b)(1). Pub. L. 105–244, §443(a), inserted “, including internships, practica, or research assistantships as determined by the Secretary,” after “part-time employment”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–244, §443(a), inserted “, including internships, practica, or research assistantships as determined by the Secretary,” after “part-time employment”.
 
 Pub. L. 105–244, §443(b), (c)(1)(A), substituted “for fiscal year 1999,” for “in fiscal year 1994 and succeeding fiscal years,”, inserted “(including a reasonable amount of time spent in travel or training directly related to such community service)” after “community service”, and struck out “and” at end.
 
@@ -174,7 +174,7 @@ Subsec. (c)(4). Pub. L. 105–244, §443(g), inserted “, to the maximum exten
 
 Subsec. (d). Pub. L. 105–244, §443(c)(2), added subsec. (d).
 
-1993—Subsec. (b)(2)(A). Pub. L. 103–208, §2(d)(3), substituted “institution; and” for “institution;”.
+<b>1993</b>—Subsec. (b)(2)(A). Pub. L. 103–208, §2(d)(3), substituted “institution; and” for “institution;”.
 
 Subsec. (b)(5). Pub. L. 103–208, §2(d)(4), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “provide that the Federal share of the compensation of students employed in the work-study program in accordance with the agreement shall not exceed 75 percent for academic year 1993–1994 and succeeding academic years, except that—
 
@@ -190,7 +190,7 @@ Subsec. (b)(8)(A) to (C). Pub. L. 103–208, §2(d)(5), added subpars. (A) and (
 
 “(C) furnishing student services that are directly related to the student's education, as determined by the Secretary pursuant to regulations, except that no student shall be employed in any position that would involve the solicitation of other potential students to enroll in the school;”.
 
-1992—Pub. L. 102–325, §441(a)(2), inserted “Federal” after “Grants for” in section catchline.
+<b>1992</b>—Pub. L. 102–325, §441(a)(2), inserted “Federal” after “Grants for” in section catchline.
 
 Subsec. (b)(1). Pub. L. 102–325, §443(a), inserted “, work in community service” after “institution itself”.
 
@@ -214,11 +214,11 @@ Subsec. (b)(8)(C). Pub. L. 102–325, §443(f)(2), (g)(2), inserted “that are 
 
 Subsec. (b)(9) to (11). Pub. L. 102–325, §443(g)(1), (3), added pars. (9) and (10) and redesignated former par. (9) as (11).
 
-1987—Subsec. (b). Pub. L. 100–50, §11(b), substituted “paragraph (5)(B)” for “clause (6)(B)” in par. (2)(A), and “paragraph (2)(A)” for “clause (2)(A)” in par. (5)(B).
+<b>1987</b>—Subsec. (b). Pub. L. 100–50, §11(b), substituted “paragraph (5)(B)” for “clause (6)(B)” in par. (2)(A), and “paragraph (2)(A)” for “clause (2)(A)” in par. (5)(B).
 
 Subsec. (c). Pub. L. 100–50, §11(c), substituted “As part of its agreement” for “In addition to the” and inserted “and subsection (b)(3) of this section” before semicolon at end of par. (1).
 
-1986—Pub. L. 99–498 amended section generally, inserting provisions relating to private sector employment agreements.
+<b>1986</b>—Pub. L. 99–498 amended section generally, inserting provisions relating to private sector employment agreements.
 
 #### Effective Date of 2009 Amendment
 
@@ -238,7 +238,7 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of Title 20, Education.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of Title 20, Education.
 
 #### Effective Date of 1986 Amendment
 

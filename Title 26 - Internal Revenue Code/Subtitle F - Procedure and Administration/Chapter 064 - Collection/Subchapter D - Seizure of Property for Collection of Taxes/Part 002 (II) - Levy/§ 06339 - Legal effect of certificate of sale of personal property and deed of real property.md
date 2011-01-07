@@ -22,7 +22,7 @@ In all cases of sale pursuant to section 6335 of property (other than real prope
 
 #### (5) As authority for transfer of title to motor vehicle
 
-&emsp;If such property consists of a motor vehicle, shall be notice, when received, to any public official charged with the registration of title to motor vehicles, of such transfer and shallbe authority to such official to record the transfer on his books and records in the same manner as if the certificate of title to such motor vehicle were transferred or assigned by the party holding the same, in lieu of any original or prior certificate, which shall be void, whether canceled or not.
+&emsp;If such property consists of a motor vehicle, shall be notice, when received, to any public official charged with the registration of title to motor vehicles, of such transfer and shall be authority to such official to record the transfer on his books and records in the same manner as if the certificate of title to such motor vehicle were transferred or assigned by the party holding the same, in lieu of any original or prior certificate, which shall be void, whether canceled or not.
 
 #### (b) Deed of real property
 
@@ -50,11 +50,11 @@ A certificate of sale of personal property given or a deed to real property exec
 
 #### Amendments
 
-1976—Subsec. (b)(2). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b)(2). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1966—Subsecs. (c), (d). Pub. L. 89–719 added subsecs. (c) and (d).
+<b>1966</b>—Subsecs. (c), (d). Pub. L. 89–719 added subsecs. (c) and (d).
 
-1958—Subsec. (b)(2). Pub. L. 85–866 substituted “as” for “of” after “Deed” in heading.
+<b>1958</b>—Subsec. (b)(2). Pub. L. 85–866 substituted “as” for “of” after “Deed” in heading.
 
 #### Effective Date of 1966 Amendment
 

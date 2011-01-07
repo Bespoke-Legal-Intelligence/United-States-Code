@@ -28,5 +28,5 @@ Section 300(a) of title III of Pub. L. 99–499 provided that: “This title \[e
 
 #### Executive Order No. 12856
 
-Ex. Ord. No. 12856, Aug. 3, 1993, 58 F.R. 41981, which provided for Federal compliance with right-to-know laws and pollution prevention requirements, was revoked by Ex. Ord. No. 13148, §901, Apr. 21, 2000, 65 F.R. 24604, formerly set out as a note under section 4321 of this title.
+Ex. Ord. No. 12856, Aug. 3, 1993, 58 F.R. 41981, which provided for Federal compliance with right-to-knowlaws and pollution prevention requirements, was revoked by Ex. Ord. No. 13148, §901, Apr. 21, 2000, 65 F.R. 24604, formerly set out as a note under section 4321 of this title.
 

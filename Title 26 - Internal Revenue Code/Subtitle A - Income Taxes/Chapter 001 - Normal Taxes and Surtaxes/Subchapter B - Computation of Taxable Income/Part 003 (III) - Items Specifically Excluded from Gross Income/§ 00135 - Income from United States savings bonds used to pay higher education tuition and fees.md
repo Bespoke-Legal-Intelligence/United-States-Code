@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of an individual who pays qualified higher education expenses during the taxable year, no amount shall be includible in gross income by reason of the redemption during such year of any qualified United States savings bond.
+In the case of an individual who pays qualified higher education expenses during the taxable year, no amount shall be includible in gross income by reason of the redemption during suchyear of any qualified United States savings bond.
 
 #### (b) Limitations
 
@@ -98,7 +98,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) an educational assistance allowance under chapter 30, 31, 32, 34, or 35 of title 38, United States Code,
 
-&emsp;&emsp;(C) a payment (other than a gift, bequest, devise, or inheritance within the meaning of section 102(a)) for educational expenses, or attributable to attendance at an eligible educational institution, which is exempt from income taxation by any law of the United States, or
+&emsp;&emsp;(C) a payment (other than a gift, bequest, devise, or inheritance within the meaning ofsection 102(a)) for educational expenses, or attributable to attendance at an eligible educational institution, which is exempt from income taxation by any law of the United States, or
 
 &emsp;&emsp;(D) a payment, waiver, or reimbursement of qualified higher education expenses under a qualified tuition program (within the meaning of section 529(b)).
 
@@ -134,9 +134,9 @@ A prior section 135 was renumbered section 140 of this title.
 
 #### Amendments
 
-2004—Subsec. (c)(4)(A). Pub. L. 108–357 inserted “199,” before “221”.
+<b>2004</b>—Subsec. (c)(4)(A). Pub. L. 108–357 inserted “199,” before “221”.
 
-2001—Subsec. (c)(2)(C). Pub. L. 107–22, in heading substituted “Coverdell education savings” for “education individual retirement” and in text substituted “a Coverdell education savings” for “an education individual retirement”.
+<b>2001</b>—Subsec. (c)(2)(C). Pub. L. 107–22, in heading substituted “Coverdell education savings” for “education individual retirement” and in text substituted “a Coverdell education savings” for “an education individual retirement”.
 
 Pub. L. 107–16, §402(a)(4)(A), (B), substituted “qualified tuition” for “qualified State tuition” in heading and text.
 
@@ -148,7 +148,7 @@ Subsec. (d)(2)(A). Pub. L. 107–16, §§401(g)(2)(B), 901, temporarily substitu
 
 Subsec. (d)(2)(B). Pub. L. 107–16, §402(b)(2)(A), substituted “the exclusions under sections 529(c)(3)(B) and 530(d)(2)” for “the exclusion under section 530(d)(2)”.
 
-1998—Subsec. (c)(2)(C). Pub. L. 105–206, §6004(d)(9), inserted “and education individual retirement accounts” after “program” in heading and substituted “section 72” for “section 529(c)(3)(A)” in text.
+<b>1998</b>—Subsec. (c)(2)(C). Pub. L. 105–206, §6004(d)(9), inserted “and education individual retirement accounts” after “program” in heading and substituted “section 72” for “section 529(c)(3)(A)” in text.
 
 Subsec. (c)(3). Pub. L. 105–206, §6004(c)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘eligible educational institution’ means—
 
@@ -160,25 +160,25 @@ Subsec. (c)(4)(A). Pub. L. 105–277 inserted “221,” after “137,”.
 
 Subsec. (d)(2). Pub. L. 105–206, §6004(d)(4), substituted “other higher education benefits” for “higher education credit” in heading and amended text of par. (2) generally. Prior to amendment, text read as follows: “The amount of the qualified higher education expenses otherwise taken into account under subsection (a) with respect to the education of an individual shall be reduced (before the application of subsection (b)) by the amount of such expenses which are taken into account in determining the credit allowable to the taxpayer or any other person under section 25A with respect to such expenses.”
 
-1997—Subsec. (c)(2)(C). Pub. L. 105–34, §213(e)(2), inserted “, or to an education individual retirement account (as defined in section 530) on behalf of an account beneficiary,” after “(as defined in such section)”.
+<b>1997</b>—Subsec. (c)(2)(C). Pub. L. 105–34, §213(e)(2), inserted “, or to an education individual retirement account (as defined in section 530) on behalf of an account beneficiary,” after “(as defined in such section)”.
 
 Pub. L. 105–34, §211(c), added subpar. (C).
 
 Subsec. (d)(2) to (4). Pub. L. 105–34, §201(d), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-1996—Subsec. (b)(2)(B)(ii). Pub. L. 104–188, §1703(d), inserted “, determined by substituting ‘calendar year 1989’ for ‘calendar year 1992’ in subparagraph (B) thereof” before period at end.
+<b>1996</b>—Subsec. (b)(2)(B)(ii). Pub. L. 104–188, §1703(d), inserted “, determined by substituting ‘calendar year 1989’ for ‘calendar year 1992’ in subparagraph (B) thereof” before period at end.
 
 Subsec. (c)(4)(A). Pub. L. 104–188, §1807(c)(2), inserted “137,” before “911”.
 
 Subsec. (d)(1)(D). Pub. L. 104–188, §1806(b)(1), added subpar. (D).
 
-1990—Subsec. (b)(2)(B). Pub. L. 101–508, §11702(h)(1), substituted “the $40,000 and $60,000 amounts” for “each dollar amount” in introductory provisions.
+<b>1990</b>—Subsec. (b)(2)(B). Pub. L. 101–508, §11702(h)(1), substituted “the $40,000 and $60,000 amounts” for “each dollar amount” in introductory provisions.
 
 Subsec. (b)(2)(B)(ii). Pub. L. 101–508, §11101(d)(1)(E), struck out before period at end “, determined by substituting ‘calendar year 1989’ for ‘calendar year 1987’ in subparagraph (B) thereof”.
 
 Subsec. (b)(2)(C). Pub. L. 101–508, §11702(h)(2), struck out “(A) or” after “subparagraph”.
 
-1989—Subsec. (d)(1). Pub. L. 101–239 substituted “subsection (a) with respect to” for “subsection (a) respect to”.
+<b>1989</b>—Subsec. (d)(1). Pub. L. 101–239 substituted “subsection (a) with respect to” for “subsection (a) respect to”.
 
 #### Effective Date of 2004 Amendment
 
@@ -194,7 +194,7 @@ Amendment by section 402(a)(4)(A), (B), (b)(2)(A) of Pub. L. 107–16 applicable
 
 Amendment by section 431(c)(1) of Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
 
-Amendment by sections 401(g)(2)(B) and 431(c)(1) of Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by sections 401(g)(2)(B) and 431(c)(1) of Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendments
 
@@ -216,7 +216,7 @@ Amendment by section 1703(d) of Pub. L. 104–188 effective as if included in th
 
 Amendment by section 1806(b)(1) of Pub. L. 104–188 applicable to taxable years ending after Aug. 20, 1996, with transition rules applicable where States or agencies or instrumentalities thereof maintain on such date programs under which persons may purchase tuition credits or certificates on behalf of, or make contributions for education expenses of, designated beneficiaries, see section 1806(c) of Pub. L. 104–188, set out as an Effective Date note under section 529 of this title.
 
-Amendment by section 1807(c)(2) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996,see section 1807(e) of Pub. L. 104–188, set out as an Effective Date note under section 23 of this title.
+Amendment by section 1807(c)(2) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1807(e) of Pub. L. 104–188, set out as an Effective Date note under section 36C of this title.
 
 #### Effective Date of 1990 Amendment
 

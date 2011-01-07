@@ -122,3 +122,5 @@ Section 203 of Pub. L. 101–578 directed Secretary of the Interior, not later t
 
 Section 204 of title II of Pub. L. 101–578 provided that: “There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this title \[enacting this section and provisions set out as notes above\].”
 
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+

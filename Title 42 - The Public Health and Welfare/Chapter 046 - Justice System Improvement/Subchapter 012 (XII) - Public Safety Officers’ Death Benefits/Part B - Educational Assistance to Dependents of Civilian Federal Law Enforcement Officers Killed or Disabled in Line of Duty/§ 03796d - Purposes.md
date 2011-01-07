@@ -12,5 +12,5 @@ The purposes of this part are—
 
 #### Amendments
 
-1998—Par. (1). Pub. L. 105–390 substituted “public safety” for “civilian Federal law enforcement”.
+<b>1998</b>—Par. (1). Pub. L. 105–390 substituted “public safety” for “civilian Federal law enforcement”.
 

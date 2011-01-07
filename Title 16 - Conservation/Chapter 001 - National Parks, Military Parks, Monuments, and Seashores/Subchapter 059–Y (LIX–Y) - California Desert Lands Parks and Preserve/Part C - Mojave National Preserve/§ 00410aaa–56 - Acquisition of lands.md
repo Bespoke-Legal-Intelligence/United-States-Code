@@ -18,7 +18,7 @@ Exchange Required.—In exchange for the private property described in subsectio
 
 “(b)
 
-Consideration.—As consideration for the property to be conveyed by the Secretary under subsection (a), Mr. and Mrs. Henry Sandoz of Mountain Pass, California, have agreed to convey to the Secretary a parcel of real property consisting of approximately five acres, identified as parcel APN 569–051–44, and located in the west 1/2 of the northeast 1/4 of the northwest 1/4 of the northwest 1/4 of section 11, township 14 north, range 15 east, San Bernardino base and meridian.
+Consideration.—As consideration for the property to be conveyed by the Secretary under subsection (a), Mr. and Mrs. Henry Sandoz of Mountain Pass, California, have agreed to convey to the Secretary a parcel of real property consisting of approximately five acres, identified as parcel APN 569–051–44, and located in the west ½ of the northeast ¼ of the northwest ¼ of the northwest ¼ of section 11, township 14 north, range 15 east, San Bernardino base and meridian.
 
 “(c)
 
@@ -34,5 +34,5 @@ Reversionary Clause.—The conveyance under subsection (a) shall be subject to t
 
 “(f)
 
-Boundary Adjustment; Administration of Acquired Land.—The boundaries of the Mojave National Preserve shall be adjusted to reflect the land exchange required by this section. The property acquired by the Secretary under this section shall become part of the Mojave National Preserve and be administered in accordance with the laws, rules, and regulations generally applicable to the Mojave National Preserve.”
+Boundary Adjustment; Administration of Acquired Land.—The boundaries of the Mojave National Preserve shall be adjusted to reflect the land exchange required by this section. The property acquired by theSecretary under this section shall become part of the Mojave National Preserve and be administered in accordance with the laws, rules, and regulations generally applicable to the Mojave National Preserve.”
 

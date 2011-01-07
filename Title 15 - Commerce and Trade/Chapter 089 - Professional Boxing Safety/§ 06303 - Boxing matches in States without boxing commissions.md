@@ -12,5 +12,5 @@
 
 #### Amendments
 
-2000—Pub. L. 106–210 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>2000</b>—Pub. L. 106–210 designated existing provisions as subsec. (a) and added subsec. (b).
 

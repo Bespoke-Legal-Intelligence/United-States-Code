@@ -32,5 +32,5 @@ In subsection (b), the words “To be eligible for temporary Federal recognition
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181 substituted “one year” for “six months” in last sentence.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181 substituted “one year” for “six months” in last sentence.
 

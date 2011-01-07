@@ -2,7 +2,7 @@
 
 #### (a) Designation of liaison
 
-The Secretary shall designate an individual in the Office of Special Education and Rehabilitative Services of the Department of Education from among individuals who have experience inthe education of individuals who are deaf to serve as liaison between the Department and Gallaudet University, the National Technical Institute for the Deaf, and other postsecondary educational programs for individuals who are deaf under the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\], the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], and other Federal or non-Federal agencies, institutions, or organizations involved with the education or rehabilitation of individuals who are deaf or hard of hearing.
+The Secretary shall designate an individual in the Office of Special Education and Rehabilitative Services of the Department of Education from among individuals who have experience in the education of individuals who are deaf to serve as liaison between the Department and Gallaudet University, the National Technical Institute for the Deaf, and other postsecondary educational programs for individuals who are deaf under the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\], the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], and other Federal or non-Federal agencies, institutions, or organizations involved with the education or rehabilitation of individuals who are deaf or hard of hearing.
 
 #### (b) Duties of liaison
 
@@ -28,11 +28,11 @@ The Rehabilitation Act of 1973, referred to in subsec. (a), is Pub. L. 93–112,
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–315 substituted “The” for “Not later than 30 days after August 4, 1986, the”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315 substituted “The” for “Not later than 30 days after August 4, 1986, the”.
 
-1993—Subsec. (b). Pub. L. 103–73, which directed amendment of subsec. (b) by inserting “or hard of hearing” after “individuals who are deaf”, was executed by making the insertion in introductory provisions but not in par. (2) to reflect the probable intent of Congress.
+<b>1993</b>—Subsec. (b). Pub. L. 103–73, which directed amendment of subsec. (b) by inserting “or hard of hearing” after “individuals who are deaf”, was executed by making the insertion in introductory provisions but not in par. (2) to reflect the probable intent of Congress.
 
-1992—Pub. L. 102–421, §151(a)(5), struck out “for the deaf” after “educational programs” in section catchline.
+<b>1992</b>—Pub. L. 102–421, §151(a)(5), struck out “for the deaf” after “educational programs” in section catchline.
 
 Subsec. (a). Pub. L. 102–421, §151(a)(4), substituted “individuals who are deaf” for “the deaf” in two places.
 
@@ -42,7 +42,7 @@ Subsec. (b). Pub. L. 102–421, §151(a)(4), substituted “individuals who are 
 
 Subsec. (b)(1) to (3). Pub. L. 102–421, §136(2), struck out “and” at end of par. (1), added par. (2), and redesignated former par. (2) as (3).
 
-1990—Subsec. (a). Pub. L. 101–476 substituted “Individuals with Disabilities Education Act” for “Education of the Handicapped Act”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–476 substituted “Individuals with Disabilities Education Act” for “Education of the Handicapped Act”.
 
 #### Effective Date of 1992 Amendment
 

@@ -34,9 +34,9 @@ A prior section 1581, acts Aug. 10, 1956, ch. 1041, 70A Stat. 118; Sept. 2, 1958
 
 #### Amendments
 
-2001—Subsec. (b). Pub. L. 107–107 struck out par. (2) designation and “on or after December 5, 1991,” after “all amounts obligated” and struck out par. (1) which read as follows: “The Secretary of the Treasury shall deposit into the account all amounts that were obligated by the Secretary of Defense before December 5, 1991, and that remain unexpended for separation pay for foreign nationals referred to in subsection (e).”
+<b>2001</b>—Subsec. (b). Pub. L. 107–107 struck out par. (2) designation and “on or after December 5, 1991,” after “all amounts obligated” and struck out par. (1) which read as follows: “The Secretary of the Treasury shall deposit into the account all amounts that were obligated by the Secretary of Defense before December 5, 1991, and that remain unexpended for separation pay for foreign nationals referred to in subsection (e).”
 
-1994—Subsecs. (a), (b). Pub. L. 103–337, §346(1), substituted “foreign nationals referred to in subsection (e)” for “foreign national employees of the Department of Defense” wherever appearing.
+<b>1994</b>—Subsecs. (a), (b). Pub. L. 103–337, §346(1), substituted “foreign nationals referred to in subsection (e)” for “foreign national employees of the Department of Defense” wherever appearing.
 
 Subsec. (e). Pub. L. 103–337, §346(2), added subsec. (e) and struck out former subsec. (e) which read as follows: “
 
@@ -48,5 +48,5 @@ Employees Covered.—This section applies only with respect to separation pay of
 
 &emsp;“(3) A memorandum of understanding with a foreign nation.”
 
-1992—Subsec. (b)(1), (2). Pub. L. 102–484 substituted “December 5, 1991,” for “the date of the enactment of this section”.
+<b>1992</b>—Subsec. (b)(1), (2). Pub. L. 102–484 substituted “December 5, 1991,” for “the date of the enactment of this section”.
 

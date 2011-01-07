@@ -26,11 +26,7 @@
 
 &emsp;&emsp;(ii) in writing by the Secretary to have access to those files.
 
-(c)(1) A classification society (including an employee or agent of that society) may not review, examine, survey, or certify the construction, repair, or alteration of a vessel in the United States unless—
-
-&emsp;(A) the society has applied for approval under this subsection and the Secretary has reviewed and approved that society with respect to the conduct of that society under paragraph (2); or
-
-&emsp;(B) the society is a full member of the International Association of Classification Societies.
+(c)(1) A classification society (including an employee or agent of that society) may not review, examine, survey, or certify the construction, repair, or alteration of a vessel in the United States unless the society has applied for approval under this subsection and the Secretary has reviewed and approved that society with respect to the conduct of that society under paragraph (2).
 
 (2) The Secretary may approve a person for purposes of paragraph (1) only if the Secretary determines that—
 
@@ -46,7 +42,41 @@
 
 &emsp;&emsp;(iv) request the safety records of a vessel the person will survey from any classification society that previously surveyed the vessel.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 516; Pub. L. 104–324, title VI, §607(a), (b)(1), Oct. 19, 1996, 110 Stat. 3931, 3932; Pub. L. 108–293, title IV, §413(a), Aug. 9, 2004, 118 Stat. 1046.)
+(d)(1) The Secretary may delegate to the American Bureau of Shipping or another classification society recognized by the Secretary as meeting acceptable standards for such a society, for a United States offshore facility, the authority to—
+
+&emsp;(A) review and approve plans required for issuing a certificate of inspection, a certificate of compliance, or any other certification and related documents issued by the Coast Guard pursuant to regulations issued under section 30 of the Outer Continental Shelf Lands Act (43 U.S.C. 1356); and
+
+&emsp;(B) conduct inspections and examinations.
+
+(2) The Secretary may make a delegation under paragraph (1) to a foreign classification society only if—
+
+&emsp;(A) the foreign society has offices and maintains records in the United States; and
+
+&emsp;(B)(i) the government of the foreign country in which the foreign society is headquartered delegates that authority to the American Bureau of Shipping; or
+
+&emsp;(ii) the Secretary has entered into an agreement with the government of the foreign country in which the foreign society is headquartered that—
+
+&emsp;&emsp;(I) ensures the government of the foreign country will accept plan review, inspections, or examinations conducted by the American Bureau of Shipping and provide equivalent access to inspect, certify, and provide related services to offshore facilities located in that country or operating under the authority of that country; and
+
+&emsp;&emsp;(II) is in full accord with principles of reciprocity in regards to any delegation contemplated by the Secretary under paragraph (1).
+
+(3) If an inspection or examination is conducted under authority delegated under this subsection, the person to which the authority was delegated—
+
+&emsp;(A) shall maintain in the United States complete files of all information derived from or necessarily connected with the inspection or examination for at least 2 years after the United States offshore facility ceases to be certified; and
+
+&emsp;(B) shall permit access to those files at all reasonable times to any officer, employee, or member of the Coast Guard designated—
+
+&emsp;&emsp;(i) as a marine inspector and serving in a position as a marine inspector; or
+
+&emsp;&emsp;(ii) in writing by the Secretary to have access to those files.
+
+(4) For purposes of this subsection—
+
+&emsp;(A) the term “offshore facility” means any installation, structure, or other device (including any vessel not documented under chapter 121 of this title or the laws of another country), fixed or floating, that dynamically holds position or is temporarily or permanently attached to the seabed or subsoil under the sea; and
+
+&emsp;(B) the term “United States offshore facility” means any offshore facility, fixed or floating, that dynamically holds position or is temporarily or permanently attached to the seabed or subsoil under the territorial sea of the United States or the outer Continental Shelf (as that term is defined in section 2 of the Outer Continental Shelf Lands Act (43 U.S.C. 1331)), including any vessel, rig, platform, or other vehicle or structure subject to regulation under section 30 of the Outer Continental Shelf Lands Act (43 U.S.C. 1356).
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 516; Pub. L. 104–324, title VI, §607(a), (b)(1), Oct. 19, 1996, 110 Stat. 3931, 3932; Pub. L. 108–293, title IV, §413(a), Aug. 9, 2004, 118 Stat. 1046; Pub. L. 111–281, title VI, §622, Oct. 15, 2010, 124 Stat. 2978.)
 
 Historical and Revision Notes
 
@@ -62,15 +92,23 @@ Historical and Revision Notes
 
 46:881
 
-Section 3316 prescribes the relationship between certain classification societies and the Federal Government with respect to the promotion of maritime safety and the security of life and property at sea. Briefly stated, a classification society, like the American Bureau of Shipping (ABS), establishes and administers standards for the design, construction, and periodic survey of commercial vessels, yachts, and other marine structures. Classification certifies adherence to these standards, thus representing that a vessel or structure possesses the structural and mechanical fitness required for its intended service.
+Section 3316 prescribes the relationship between certain classification societies and the Federal Government with respect to the promotion of maritime safety and the security of life and property at sea. Briefly stated, a classification society, like the American Bureau of Shipping (ABS), establishes and administers standards for the design, construction, and periodicsurvey of commercial vessels, yachts, and other marine structures. Classification certifies adherence to these standards, thus representing that a vessel or structure possesses the structural and mechanical fitness required for its intended service.
 
-The section requires that a Federal department, agency, or instrumentality recognize the American Bureau of Shipping as its agent for classing vessels ownedby the Federal Government and in any matters related to classification. In effect, the ABS has a statutory monopoly on classing vessels of the United States Government. Additionally, the section contains the authority to permit the Secretary to rely on reports, documents, and certificates issued by a classification society that is similar to the American Bureau of Shipping. However, a “similar classification society” continues to mean one that is organized like the American Bureau of Shipping with attendant governmental representation.
+The section requires that a Federal department, agency, or instrumentality recognize the American Bureau of Shipping as its agent for classing vessels owned by the Federal Government and in any matters related to classification. In effect, the ABS has a statutory monopoly on classing vessels of the United States Government. Additionally, the section contains the authority to permit the Secretary to rely on reports, documents, and certificates issued by a classification society that is similar to the American Bureau of Shipping. However, a “similar classification society” continues to mean one that is organized like the American Bureau of Shipping with attendant governmental representation.
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–293 added subsec. (c).
+<b>2010</b>—Subsec. (c). Pub. L. 111–281, §622(b), added par. (1) and struck out former par. (1) which read as follows: “A classification society (including an employee or agent of that society) may not review, examine, survey, or certify the construction, repair, or alteration of a vessel in the United States unless—
 
-1996—Pub. L. 104–324, §607(b)(1), substituted “Classification societies” for “United States classification societies” in section catchline.
+&emsp;“(A) the society has applied for approval under this subsection and the Secretary has reviewed and approved that society with respect to the conduct of that society under paragraph (2); or
+
+&emsp;“(B) the society is a full member of the International Association of Classification Societies.”
+
+Subsec. (d). Pub. L. 111–281, §622(a), added subsec. (d).
+
+<b>2004</b>—Subsec. (c). Pub. L. 108–293 added subsec. (c).
+
+<b>1996</b>—Pub. L. 104–324, §607(b)(1), substituted “Classification societies” for “United States classification societies” in section catchline.
 
 Subsec. (a). Pub. L. 104–324, §607(a)(3), which directed the substitution of “American Bureau of Shipping” for “Bureau”, was executed by making the substitution the first place appearing, to reflect the probable intent of Congress.
 

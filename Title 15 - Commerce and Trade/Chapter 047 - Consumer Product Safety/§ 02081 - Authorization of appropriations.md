@@ -32,7 +32,7 @@ No funds appropriated under subsection (a) of this section may be used to pay an
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–314, §201(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations for fiscal years 1991 and 1992.
+<b>2008</b>—Subsec. (a). Pub. L. 110–314, §201(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations for fiscal years 1991 and 1992.
 
 Subsec. (b). Pub. L. 110–314, §201(c), redesignated subsec. (c) as (b), inserted heading, and struck out former subsec. (b), which related to authorization of appropriations for the planning and construction of research, development and testing facilities described in section 2076(h) of this title.
 
@@ -40,15 +40,15 @@ Subsec. (b)(1). Pub. L. 110–314, §235(c)(4), which directed substitution of �
 
 Subsec. (c). Pub. L. 110–314, §201(c), redesignated subsec. (c) as (b).
 
-1994—Subsec. (b)(1). Pub. L. 103–437 in introductory provisions substituted “Committee on Energy and Commerce of the House of Representatives, and by the Committee on Commerce, Science, and Transportation of the Senate” for “Committee on Interstate and Foreign Commerce of the House of Representatives, and by the Committee on Commerce of the Senate”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–437 in introductory provisions substituted “Committee on Energy and Commerce of the House of Representatives, and by the Committee on Commerce, Science, and Transportation of the Senate” for “Committee on Interstate and Foreign Commerce of the House of Representatives, and by the Committee on Commerce of the Senate”.
 
-1990—Subsec. (a). Pub. L. 101–608 added pars. (1) and (2) and struck out former pars. (1) to (9) which specified maximum appropriations authorized for fiscal year ending June 30, 1976, to fiscal year ending Sept. 30, 1983.
+<b>1990</b>—Subsec. (a). Pub. L. 101–608 added pars. (1) and (2) and struck out former pars. (1) to (9) which specified maximum appropriations authorized for fiscal year ending June 30, 1976, to fiscal year ending Sept. 30, 1983.
 
-1981—Subsec. (a). Pub. L. 97–35 added pars. (8) and (9) and provision following par. (9) relating to payment of accumulated or accrued leave, severance pay, and any other expenses related to a reduction in force in the Commission.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 added pars. (8) and (9) and provision following par. (9) relating to payment of accumulated or accrued leave, severance pay, and any other expenses related to a reduction in force in the Commission.
 
-1978—Subsec. (a)(5) to (7). Pub. L. 95–631 added pars. (5) to (7).
+<b>1978</b>—Subsec. (a)(5) to (7). Pub. L. 95–631 added pars. (5) to (7).
 
-1976—Subsec. (a). Pub. L. 94–284, §2, substituted “$51,000,000 for the fiscal year ending June 30, 1976, $14,000,000 for the period beginning July 1, 1976, and ending September 30, 1976, $60,000,000 for the fiscal year ending September 30, 1977, and $68,000,000 for the fiscal year ending September 30, 1978” for “$55,000,000 for the fiscal year ending June 30, 1973, $59,000,000 for the fiscal year ending June 30, 1974, and $64,000,000 for the fiscal year ending June 30, 1975”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–284, §2, substituted “$51,000,000 for the fiscal year ending June 30, 1976, $14,000,000 for the period beginning July 1, 1976, and ending September 30, 1976, $60,000,000 for the fiscal year ending September 30, 1977, and $68,000,000 for the fiscal year ending September 30, 1978” for “$55,000,000 for the fiscal year ending June 30, 1973, $59,000,000 for the fiscalyear ending June 30, 1974, and $64,000,000 for the fiscal year ending June 30, 1975”.
 
 Subsec. (c). Pub. L. 94–284, §5(b), added subsec. (c).
 

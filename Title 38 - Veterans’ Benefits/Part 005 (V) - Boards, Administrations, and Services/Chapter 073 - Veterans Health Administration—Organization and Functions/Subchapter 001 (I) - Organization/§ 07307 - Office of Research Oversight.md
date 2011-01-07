@@ -32,7 +32,7 @@ Functions.—(1) The Director shall report to the Under Secretary for Health on 
 
 (d)
 
-General Functions.—(1) The Director shall conduct periodic inspections and reviews, as the Director determines appropriate, of medical research programs of the Department. Suchinspections and reviews shall include review of required documented assurances.
+General Functions.—(1) The Director shall conduct periodic inspections and reviews, as the Director determines appropriate, of medical research programs of the Department. Such inspections and reviews shall include review of required documented assurances.
 
 (2) The Director shall observe external accreditation activities conducted for accreditation of medical research programs conducted in facilities of the Department.
 

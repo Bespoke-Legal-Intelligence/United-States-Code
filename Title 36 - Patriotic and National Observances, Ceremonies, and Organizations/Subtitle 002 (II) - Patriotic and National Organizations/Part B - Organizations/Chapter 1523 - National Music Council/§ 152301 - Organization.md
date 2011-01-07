@@ -20,7 +20,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-152301D36:661.DAug. 1, 1956, ch. 824, §§1, 2, 19, 70 Stat. 794, 797.
+152301
+
+36:661.
+
+Aug. 1, 1956, ch. 824, §§1, 2, 19, 70 Stat. 794, 797.
 
 &nbsp;
 

@@ -1,7 +1,5 @@
 ### SUBCHAPTER VIII—MILITARY APPLICATION OF ATOMIC ENERGY
 
-<i><sup>1</sup></i><i> So in original.</i>
-
 
 ---
 

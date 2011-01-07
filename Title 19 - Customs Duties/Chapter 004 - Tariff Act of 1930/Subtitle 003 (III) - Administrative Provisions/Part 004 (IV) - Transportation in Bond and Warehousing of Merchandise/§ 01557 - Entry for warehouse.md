@@ -22,7 +22,7 @@ Merchandise entered under bond, under any provision of law, may, upon payment of
 
 Merchandise may be withdrawn for consumption without the payment of the duty thereon if the importer of record or transferee is permitted to pay duty at a later time pursuant to regulations prescribed by the Secretary under section 1505 of this title.
 
-(June 17, 1930, ch. 497, title IV, §557, 46 Stat. 744; June 25, 1938, ch. 679, §§2, 22(a), 23(a), 52 Stat. 1077, 1087, 1088; Aug. 8, 1953, ch. 397, §21(a), 67 Stat. 519; June 30, 1955, ch. 258, §2(a) (4), 69 Stat. 242; Pub. L. 91–271, title III, §301(t), June 2, 1970, 84 Stat. 290; Pub. L. 91–685, §1, Jan. 12, 1971, 84Stat. 2069; Pub. L. 95–410, title I, §108(a), (b)(1), Oct. 3, 1978, 92 Stat. 892; Pub. L. 97–446, title II, §201(f), Jan. 12, 1983, 96 Stat. 2350; Pub. L. 103–182, title VI, §665, Dec. 8, 1993, 107 Stat. 2215; Pub. L. 106–36, title II, §2409, June 25, 1999, 113 Stat. 171; Pub. L. 109–280, title XIV, §1635(c), Aug. 17, 2006, 120 Stat. 1170.)
+(June 17, 1930, ch. 497, title IV, §557, 46 Stat. 744; June 25, 1938, ch. 679, §§2, 22(a), 23(a), 52 Stat. 1077, 1087, 1088; Aug. 8, 1953, ch. 397, §21(a), 67 Stat. 519; June 30, 1955, ch. 258, §2(a) (4), 69 Stat. 242; Pub. L. 91–271, title III, §301(t), June 2, 1970, 84 Stat. 290; Pub. L. 91–685, §1, Jan. 12, 1971, 84 Stat. 2069; Pub. L. 95–410, title I, §108(a), (b)(1), Oct. 3, 1978, 92 Stat. 892; Pub. L. 97–446, title II, §201(f), Jan. 12, 1983, 96 Stat. 2350; Pub. L. 103–182, title VI, §665, Dec. 8, 1993, 107 Stat. 2215; Pub. L. 106–36, title II, §2409, June 25, 1999, 113 Stat. 171; Pub. L. 109–280, title XIV, §1635(c), Aug. 17, 2006, 120 Stat. 1170.)
 
 #### Prior Provisions
 
@@ -40,33 +40,33 @@ R.S. §2967, which provided that merchandise imported into the port of Louisvill
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–280, §1635(c)(1)(A), inserted “, or such longer period of time as the Bureau of Customs and Border Protection may at its discretion permit upon proper request being filed and good cause shown” after “date of importation” in second sentence of introductory provisions.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–280, §1635(c)(1)(A), inserted “, or such longer period of time as the Bureau of Customs and Border Protection may at its discretion permit upon proper request being filed and good cause shown” after “date of importation” in second sentence of introductory provisions.
 
 Subsec. (a)(1)(A). Pub. L. 109–280, §1635(c)(1)(B), inserted “or such longer period of time as the Bureau of Customs and Border Protection may at its discretion permit upon proper request being filed and good cause shown” after “date of importation”.
 
 Subsec. (a)(2). Pub. L. 109–280, §1635(c)(2), inserted “, or such longer period of time as the Bureau of Customs and Border Protection may at its discretion permit upon proper request being filed and good cause shown,” after “date of importation”.
 
-1999—Subsec. (a)(1). Pub. L. 106–36 inserted “(including international travel merchandise)” after “Any merchandise subject to duty” in first sentence of introductory provisions.
+<b>1999</b>—Subsec. (a)(1). Pub. L. 106–36 inserted “(including international travel merchandise)” after “Any merchandise subject to duty” in first sentence of introductory provisions.
 
-1993—Subsec. (a). Pub. L. 103–182 designated first two sentences as par. (1), substituted “; except that—” along with subpars. (A) and (B) for “: <i>Provided</i>, That the total period of time for which such merchandise may remain in bonded warehouse shall not exceed 5 years from the date of importation.”, and designated remaining portion of subsec. (a) as par. (2).
+<b>1993</b>—Subsec. (a). Pub. L. 103–182 designated first two sentences as par. (1), substituted “; except that—” along with subpars. (A) and (B) for “: <i>Provided</i>, That the total period of time for which such merchandise may remain in bonded warehouse shall not exceed 5 years from the date of importation.”, and designated remaining portion of subsec. (a) as par. (2).
 
-1983—Subsec. (a). Pub. L. 97–446, §201(f)(1), inserted “purchaser” after “risk of the owner”.
+<b>1983</b>—Subsec. (a). Pub. L. 97–446, §201(f)(1), inserted “purchaser” after “risk of the owner”.
 
 Subsec. (d). Pub. L. 97–446, §201(f)(2), substituted “importer of record” for “consignee” before “or transferee”.
 
-1978—Subsec. (a). Pub. L. 95–410, §108(b)(1), substituted “5 years” for “three years” wherever appearing.
+<b>1978</b>—Subsec. (a). Pub. L. 95–410, §108(b)(1), substituted “5 years” for “three years” wherever appearing.
 
 Subsec. (d). Pub. L. 95–410, §108(a), added subsec. (d).
 
-1971—Subsec. (b). Pub. L. 91–685 substituted provisions which granted the transferee the right to file a protest under section 1514 of this title to the same extent that such right would have been available to the transferor and required notice of liquidation to be given the transferee in the form and manner prescribed by the Secretary of the Treasury for former provisions which denied the transferee the right to file any protest under section 1514 of this title except as to decisions with respect to his rights under subsec. (c) of this section or under section 1562 or 1563 of this title or against a decision as to the rate or amount of duty, tax, charge, or exaction when such rate or amount has been changed by statute or proclamation on or after the date of the transfer, or the right to file an appeal for reappraisement under section 1501 of this title, except when subsequent to the transfer and before a withdrawal for consumption has been deposited for the merchandise, it has been charge changed in condition pursuant to section 1311 or 1562 of this title in a manner which necessitates that it be appraised in its changed condition in order that the correct amount of duties may be assessed, and prohibited any new or separate liquidation, reliquidation, or determination to be made in name of, or on behalf of, a transferee, except with regard to any matter which may arise under subsec. (c) of this section or section 1562 or 1563 of this title when the transferee has invoked either of these sections, and in the case of a statutory or proclaimed change in the rate of duty, tax, charge, or exaction applicable to the merchandise the subject of the transfer and effective on or after the date of the transfer.
+<b>1971</b>—Subsec. (b). Pub. L. 91–685 substituted provisions which granted the transferee the right to file a protest under section 1514 of this title to the same extent that such right would have been available to the transferor and required notice of liquidation to be given the transferee in the form and manner prescribed by the Secretary of the Treasury for former provisions which denied the transferee the right to file any protest under section 1514 of this title except as to decisions with respect to his rights under subsec. (c) of this section or under section 1562 or 1563 of this title or against a decision as to the rate or amount of duty, tax, charge, or exaction when such rate or amount has been changed by statute or proclamation on or after the date of the transfer, or the right to file an appeal for reappraisement under section 1501 of this title, except when subsequent to the transfer and before a withdrawal for consumption has been deposited for the merchandise, it has been charge changed in condition pursuant to section 1311 or 1562 of this title in a manner which necessitates that it be appraised in its changed condition in order that the correct amount of duties may be assessed, and prohibited any new or separate liquidation, reliquidation, or determination to be made in name of, or on behalf of, a transferee, except with regard to any matter which may arise under subsec. (c) of this section or section 1562 or 1563 of this title when the transferee has invoked either of these sections, and in the case of a statutory or proclaimed change in the rate of duty, tax, charge, or exaction applicable to the merchandise the subject of the transfer and effective on or after the date of the transfer.
 
-1970—Subsec. (b). Pub. L. 91–271 substituted “a protest contesting an appraisement decision in accordance with section 1514 of this title” for “an appeal for reappraisement under section 1501 of this title”.
+<b>1970</b>—Subsec. (b). Pub. L. 91–271 substituted “a protest contesting an appraisement decision in accordance with section 1514 of this title” for “an appeal for reappraisement under section 1501 of this title”.
 
-1955—Subsec. (a). Act June 30, 1955, inserted “Johnston Island” in two places.
+<b>1955</b>—Subsec. (a). Act June 30, 1955, inserted “Johnston Island” in two places.
 
-1953—Subsec. (b). Act Aug. 8, 1953, provided that all transfers shall be irrevocable; that in the case of each transfer the transferee shall file a bond undertaking to pay all unpaid duties, taxes, charges, and exactions on the merchandise the subject of the transfer; and that a transferee shall have no right to file a protest under section 1514 of this title, or to a separate liquidation in his behalf, unless the rate of duty, tax, charge, or exaction has been changed pursuant to statute or proclamation after the right to withdraw the merchandise was transferred to him.
+<b>1953</b>—Subsec. (b). Act Aug. 8, 1953, provided that all transfers shall be irrevocable; that in the case of each transfer the transferee shall file a bond undertaking to pay all unpaid duties, taxes, charges, and exactions on the merchandise the subject of the transfer; and that a transferee shall have no right to file a protest under section 1514 of this title, or to a separate liquidation in his behalf, unless the rate of duty, tax, charge, or exaction has been changed pursuant to statute or proclamation after the right to withdraw the merchandise was transferred to him.
 
-1938—Act June 25, 1938, amended section generally, and among other changes, inserted “Wake Island, Midway Islands, Kingman Reef” before “or the island of Guam,” and struck out “(or ten months in the case of grain)” wherever appearing.
+<b>1938</b>—Act June 25, 1938, amended section generally, and among other changes, inserted “Wake Island, Midway Islands, Kingman Reef” before “or the island of Guam,” and struck out “(or ten months in the case of grain)” wherever appearing.
 
 #### Effective Date of 2006 Amendment
 

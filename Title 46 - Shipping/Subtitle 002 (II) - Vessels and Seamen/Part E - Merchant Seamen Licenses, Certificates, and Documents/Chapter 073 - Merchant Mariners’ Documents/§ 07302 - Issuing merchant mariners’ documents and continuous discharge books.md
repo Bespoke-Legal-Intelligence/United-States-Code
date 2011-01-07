@@ -10,7 +10,17 @@
 
 (e) The Secretary shall require the testing of an individual applying for issuance or renewal of a merchant mariner's document under this chapter for the use of a dangerous drug in violation of law or Federal regulation.
 
-(f) Except as provided in subsection (g), a merchant mariner's document issued under this chapter is valid for 5 years and may be renewed for additional 5-year periods.
+(f)
+
+Periods of Validity and Renewal of Merchant Mariners’ Documents.—
+
+&emsp;(1)
+
+In general.—Except as provided in subsection (g), a merchant mariner's document issued under this chapter is valid for a 5-year period and may be renewed for additional 5-year periods.
+
+&emsp;(2)
+
+Advance renewals.—A renewed merchant mariner's document may be issued under this chapter up to 8 months in advance but is not effective until the date that the previously issued merchant mariner's document expires or until the completion of any active suspension or revocation of that previously issued merchant mariner's document, whichever is later.
 
 (g)(1) The Secretary may, pending receipt and review of information required under subsections (c) and (d), immediately issue an interim merchant mariner's document valid for a period not to exceed 120 days, to—
 
@@ -20,7 +30,7 @@
 
 (2) No more than one interim document may be issued to an individual under paragraph (1)(A) of this subsection.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 542; Pub. L. 101–380, title IV, §§4101(b), 4102(c), Aug. 18, 1990, 104 Stat. 509; Pub. L. 107–295, title III, §324(a), Nov. 25, 2002, 116 Stat. 2104; Pub. L. 108–293, title VI, §609(1), Aug. 9, 2004, 118 Stat. 1058; Pub. L. 109–241, title IX, §901(h)(1), (2), July 11, 2006, 120 Stat. 564.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 542; Pub. L. 101–380, title IV, §§4101(b), 4102(c), Aug. 18, 1990, 104 Stat. 509; Pub. L. 107–295, title III, §324(a), Nov. 25, 2002, 116 Stat. 2104; Pub. L. 108–293, title VI, §609(1), Aug. 9, 2004, 118 Stat. 1058; Pub. L. 109–241, title IX, §901(h)(1), (2), July 11, 2006, 120 Stat. 564; Pub. L. 111–281, title VI, §614(a), Oct. 15, 2010, 124 Stat. 2970.)
 
 Historical and Revision Notes
 
@@ -44,17 +54,19 @@ Subsection (b) allows the Secretary to issue a continuous discharge book to an i
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–241, §901(h)(1), amended directory language of Pub. L. 108–293, §609(1). See 2004 Amendment note below.
+<b>2010</b>—Subsec. (f). Pub. L. 111–281 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Except as provided in subsection (g), a merchant mariner's document issued under this chapter is valid for 5 years and may be renewed for additional 5-year periods.”
+
+<b>2006</b>—Subsec. (c). Pub. L. 109–241, §901(h)(1), amended directory language of Pub. L. 108–293, §609(1). See 2004 Amendment note below.
 
 Pub. L. 109–241, §901(h)(2), inserted “section” before “30305(b)(5)” and before “30304(a)(3)(A)”.
 
-2004—Subsec. (c). Pub. L. 108–293, §609(1), as amended by Pub. L. 109–241, §901(h)(1), substituted “30305(b)(5) of title 49” for “section 206(b)(7) of the National Driver Register Act of 1982 (23 U.S.C. 401 note)” and “30304(a)(3)(A) or (B) of title 49” for “section 205(a)(3)(A) or (B) of that Act”.
+<b>2004</b>—Subsec. (c). Pub. L. 108–293, §609(1), as amended by Pub. L. 109–241, §901(h)(1), substituted “30305(b)(5) of title 49” for “section 206(b)(7) of the National Driver Register Act of 1982 (23 U.S.C. 401 note)” and “30304(a)(3)(A) or (B) of title 49” for “section 205(a)(3)(A) or (B) of that Act”.
 
-2002—Subsec. (f). Pub. L. 107–295, §324(a)(1), substituted “Except as provided in subsection (g), a” for “A”.
+<b>2002</b>—Subsec. (f). Pub. L. 107–295, §324(a)(1), substituted “Except as provided in subsection (g), a” for “A”.
 
 Subsec. (g). Pub. L. 107–295, §324(a)(2), added subsec. (g).
 
-1990—Subsecs. (c) to (e). Pub. L. 101–380, §4101(b), added subsecs. (c) to (e).
+<b>1990</b>—Subsecs. (c) to (e). Pub. L. 101–380, §4101(b), added subsecs. (c) to (e).
 
 Subsec. (f). Pub. L. 101–380, §4102(c), added subsec. (f).
 

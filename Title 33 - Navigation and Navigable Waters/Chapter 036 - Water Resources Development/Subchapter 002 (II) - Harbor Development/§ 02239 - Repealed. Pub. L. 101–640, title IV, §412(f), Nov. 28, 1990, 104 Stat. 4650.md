@@ -40,7 +40,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to car
 
 “(d)
 
-Reports.—Not later than September 30, 1998, and periodically thereafter, the Administrator and the Secretary shall transmit to Congress a report on the results of the project to be carried out under this section, including an assessment of the progress made inachieving the purpose of the project set forth in subsection (a)(3).
+Reports.—Not later than September 30, 1998, and periodically thereafter, the Administrator and the Secretary shall transmit to Congress a report on the results of the project to be carried out under this section, including an assessment of the progress made in achieving the purpose of the project set forth in subsection (a)(3).
 
 “(e)
 
@@ -76,7 +76,7 @@ Demonstration Project.—The Secretary, in consultation with the Administrator o
 
 “(d)
 
-Mud Dump Site Defined.—For purposes of this section, the term ‘Mud Dump Site’ means the area located approximately 53/4 miles east of Sandy Hook, New Jersey, with boundary coordinates of 40 degrees, 23 minutes, 48 seconds North, 73 degrees, 51 minutes, 28 seconds West; 40 degrees, 21 minutes, 48 seconds North, 73 degrees, 50 minutes, 00 seconds West; 40 degrees, 21 minutes, 48 seconds North; 73 degrees, 51 minutes, 28 seconds West; and 40 degrees, 23 minutes, 48 seconds North; 73 degrees, 50 minutes, 00 seconds West.
+Mud Dump Site Defined.—For purposes of this section, the term ‘Mud Dump Site’ means the area located approximately 5¾ miles east of Sandy Hook, New Jersey, with boundary coordinates of 40 degrees, 23 minutes, 48 seconds North, 73 degrees, 51 minutes, 28 seconds West; 40 degrees, 21 minutes, 48 seconds North, 73 degrees, 50 minutes, 00 seconds West; 40 degrees, 21 minutes, 48 seconds North; 73 degrees, 51 minutes, 28 seconds West; and 40 degrees, 23 minutes, 48 seconds North; 73 degrees, 50 minutes, 00 seconds West.
 
 “(e)
 

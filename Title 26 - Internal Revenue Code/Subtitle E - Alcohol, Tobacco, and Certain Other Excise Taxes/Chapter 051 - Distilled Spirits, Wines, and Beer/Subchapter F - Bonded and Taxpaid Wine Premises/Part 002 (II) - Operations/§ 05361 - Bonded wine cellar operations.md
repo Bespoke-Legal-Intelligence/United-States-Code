@@ -10,11 +10,11 @@ A prior section 5361, act Aug. 16, 1954, ch. 736, 68A Stat. 664, consisted of pr
 
 #### Amendments
 
-1997—Pub. L. 105–34 struck out “unmerchantable” after “premises receive”.
+<b>1997</b>—Pub. L. 105–34 struck out “unmerchantable” after “premises receive”.
 
-1979—Pub. L. 96–39 substituted “or receive on wine premises” for “or receive on standard wine premises only”.
+<b>1979</b>—Pub. L. 96–39 substituted “or receive on wine premises” for “or receive on standard wine premises only”.
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 1997 Amendment
 

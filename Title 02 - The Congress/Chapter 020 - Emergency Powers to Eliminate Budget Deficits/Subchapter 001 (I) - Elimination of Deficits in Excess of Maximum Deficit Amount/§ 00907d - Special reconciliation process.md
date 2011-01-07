@@ -4,7 +4,7 @@
 
 #### (1) Committee alternatives to Presidential order
 
-&emsp;After the submission of an OMB sequestration update report under section 904 of this title that envisions a sequestration under section 902 or 903 of this title, each standing committee of the Senate may, not later than October 10, submit to the Committee on the Budget of the Senate information of the type described in section 632(d) of this title with respect to alternatives to the order envisionedby such report insofar as such order affects laws within the jurisdiction of the committee.
+&emsp;After the submission of an OMB sequestration update report under section 904 of this title that envisions a sequestration under section 902 or 903 of this title, each standing committee of the Senate may, not later than October 10, submit to the Committee on the Budget of the Senate information of the type described in section 632(d) of this title with respect to alternatives to the order envisioned by such report insofar as such order affects laws within the jurisdiction of the committee.
 
 #### (2) Initial Budget Committee action
 
@@ -12,7 +12,7 @@
 
 #### (3) Response of committees
 
-&emsp;Committees instructed pursuant to paragraph (2), or affected thereby, shall submit their responses to the Budget Committee no later than 10 days after the resolution referred to in paragraph (2) is agreed to, except that if only one such Committee is so instructed such Committee shall, by the same date, report to the Senate a reconciliation bill or reconciliation resolution containing its recommendations in response to such instructions. A committee shall be considered to have complied with all instructions to it pursuant to a resolution adopted under paragraph (2) if it has made recommendations with respect to matters within its jurisdiction which would result in a reduction in the deficit at least equal to the total reduction directed by such instructions.
+&emsp;Committees instructed pursuant to paragraph (2), or affected thereby, shall submittheir responses to the Budget Committee no later than 10 days after the resolution referred to in paragraph (2) is agreed to, except that if only one such Committee is so instructed such Committee shall, by the same date, report to the Senate a reconciliation bill or reconciliation resolution containing its recommendations in response to such instructions. A committee shall be considered to have complied with all instructions to it pursuant to a resolution adopted under paragraph (2) if it has made recommendations with respect to matters within its jurisdiction which would result in a reduction in the deficit at least equal to the total reduction directed by such instructions.
 
 #### (4) Budget Committee action
 

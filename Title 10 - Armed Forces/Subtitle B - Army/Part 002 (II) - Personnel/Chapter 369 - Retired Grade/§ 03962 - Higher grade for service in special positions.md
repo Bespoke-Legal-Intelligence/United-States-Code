@@ -74,7 +74,7 @@ In subsection (b), or 10:156c (1st 6, and 9th through 43d, words) is omitted as 
 
 In subsection (c), 10:166g(b) (proviso) is omitted as executed.
 
-In subsection (d), the words “Upon retirement” are substituted for the words “When is retired”. The word “allowances” is omitted, since retired officers are not entitled to allowances. The words “grade is below brigadier general” are inserted, since any permanent professor who has the grade of brigadier general retires in that grade under section 4335 of this title.
+In subsection (d), the words “Upon retirement” are substituted for the words “When \* \* \* is retired”. The word “allowances” is omitted, since retired officers are not entitled to allowances. The words “grade is below brigadier general” are inserted, since any permanent professor who has the grade of brigadier general retires in that grade under section 4335 of this title.
 
 1958
 
@@ -96,9 +96,9 @@ The amendment reflects section 1 of the Act of May 31, 1956, ch. 348 (70 Stat. 2
 
 #### Amendments
 
-1996—Pub. L. 104–106 designated subsec. (b) as entire section and struck out subsec. (a) which read as follows: “Upon retirement, a commissioned officer of the Army who has served (1) as Chief of Staff to the President, (2) as Chief of Staff of the Army, (3) as a senior member of the Military Staff Committee of the United Nations, or (4) as Surgeon General of the Army in the grade of lieutenant general may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade in which he served on active duty.”
+<b>1996</b>—Pub. L. 104–106 designated subsec. (b) as entire section and struck out subsec. (a) which read as follows: “Upon retirement, a commissioned officer of the Army who has served (1) as Chief of Staff to the President, (2) as Chief of Staff of the Army, (3) as a senior member of the Military Staff Committee of the United Nations, or (4) as Surgeon General of the Army in the grade of lieutenant general may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade in which he served on active duty.”
 
-1980—Pub. L. 96–343, §13(a)(3), substituted “positions” for “positions: regular commissioned officers” in section catchline.
+<b>1980</b>—Pub. L. 96–343, §13(a)(3), substituted “positions” for “positions: regular commissioned officers” in section catchline.
 
 Subsec. (a). Pub. L. 96–513, §502(19)(A), as amended by Pub. L. 97–22, struck out cl. (4) which had referred to service in a position of importance and responsibility designated by the President to carry out the grade of general or lieutenant general under section 3066 of this title, and redesignated cl. (5) as (4).
 
@@ -110,9 +110,9 @@ Pub. L. 96–343, §13(a)(2), struck out “Regular” before “Army”.
 
 Subsec. (c). Pub. L. 96–513, §502(19)(C), redesignated subsec. (c) as (b).
 
-1965—Subsec. (a). Pub. L. 89–288 added the Surgeon General of the Army to the list of commissioned officers who may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade held by him at any time on the active list.
+<b>1965</b>—Subsec. (a). Pub. L. 89–288 added the Surgeon General of the Army to the list of commissioned officers who may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade held by him at any time on the active list.
 
-1958—Subsecs. (c), (d). Pub. L. 85–861 redesignated former subsec. (d) as (c) and repealed former subsec. (c) which related to retirement of commissioned officers who served as Director or Deputy Director of the Women's Army Corps, Chief of the Army Nurse Corps, or Chief or assistant chief of the Women's Medical Specialist Corps.
+<b>1958</b>—Subsecs. (c), (d). Pub. L. 85–861 redesignated former subsec. (d) as (c) and repealed former subsec. (c) which related to retirement of commissioned officers who served as Director or Deputy Director of the Women's Army Corps, Chief of the Army Nurse Corps, or Chief or assistant chief of the Women's Medical Specialist Corps.
 
 #### Effective Date of 1980 Amendment
 

@@ -22,7 +22,7 @@ The approximately 16,000 acres of land in the Arapaho/Roosevelt National Forest 
 
 #### (c) Map and boundary description
 
-As soon as practicable after August 21, 2002, the Secretary shall file with the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a map and a boundary description of the Protection Area. The map and boundary description shall have the same force and effect as if included in this Act, except that the Secretary may correct clerical and typographical errors in the map and boundary description. The map and boundary description shall be on file and available for public inspection in the office of the Chief of the Forest Service, Department of Agriculture, and in the office of the Forest Supervisor of the Arapaho/Roosevelt National Forest.
+As soon as practicable after August 21, 2002, the Secretary shall file with the Committee onResources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a map and a boundary description of the Protection Area. The map and boundary description shall have the same force and effect as if included in this Act, except that the Secretary may correct clerical and typographical errors in the map and boundary description. The map and boundary description shall be on file and available for public inspection in the office of the Chief of the Forest Service, Department of Agriculture, and in the office of the Forest Supervisor of the Arapaho/Roosevelt National Forest.
 
 #### (d) Management
 
@@ -84,7 +84,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 #### (2) Natural gas pipeline
 
-&emsp;The Secretary shall allow for maintenance of rights-of-ways and access roads located within the Protection Area to the extent necessary to operate the natural gas pipeline permitted under the Arapaho/Roosevelt National Forest master permit numbered 4138.01 in a manner that avoids negative impacts on public safety and allows for compliance with Federal pipeline safety requirements. Such maintenance may include vegetation management, road maintenance, ground stabilization, and motorized vehicle access.
+&emsp;The Secretary shall allow for maintenance of rights-of-ways and access roads located within the Protection Area to the extent necessary to operate the natural gas pipeline permitted under the Arapaho/Roosevelt National Forest master permit numbered 4138.01 in amanner that avoids negative impacts on public safety and allows for compliance with Federal pipeline safety requirements. Such maintenance may include vegetation management, road maintenance, ground stabilization, and motorized vehicle access.
 
 #### (3) Permanent Federal ownership
 
@@ -115,14 +115,6 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 #### References in Text
 
 This Act, referred to in text, is Pub. L. 107–216, Aug. 21, 2002, 116 Stat. 1055, which is classified principally to sections 539<i>l</i> to 539<i>l</i>–5 of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
-
-The public land laws, referred to in subsec. (d)(1)(B)(i), are classified generally to Title 43, Public Lands.
-
-The mining laws, referred to in subsec. (d)(1)(B)(ii), are classified generally to Title 30, Mineral Lands and Mining.
-
-The mineral leasing laws, referred to in subsec. (d)(1)(B)(iii), are classified generally to Title 30, Mineral Lands and Mining.
-
-The geothermal leasing laws, referred to in subsec. (d)(1)(B)(iii), are classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining.
 
 #### Change of Name
 

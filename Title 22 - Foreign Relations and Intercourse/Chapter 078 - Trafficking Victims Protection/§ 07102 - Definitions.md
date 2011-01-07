@@ -106,9 +106,9 @@ The Arms Export Control Act, referred to in par. (7)(B), is Pub. L. 90–629, Oc
 
 #### Amendments
 
-2008—Par. (1). Pub. L. 110–457 substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
+<b>2008</b>—Par. (1). Pub. L. 110–457 substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
 
-2003—Par. (7)(A)(i). Pub. L. 108–193 inserted “in support of programs of nongovernmental organizations” before “that is made available”.
+<b>2003</b>—Par. (7)(A)(i). Pub. L. 108–193 inserted “in support of programs of nongovernmental organizations” before “that is made available”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
 

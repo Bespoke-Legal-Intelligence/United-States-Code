@@ -4,7 +4,7 @@
 
 (2) Each such report shall set forth—
 
-&emsp;(A) the total amount requested for special access programs of the Department of Defensein the President's budget for the next fiscal year submitted under section 1105 of title 31; and
+&emsp;(A) the total amount requested for special access programs of the Department of Defense in the President's budget for the next fiscal year submitted under section 1105 of title 31; and
 
 &emsp;(B) for each program in that budget that is a special access program—
 
@@ -64,11 +64,11 @@
 
 #### Amendments
 
-2001—Subsec. (g)(2). Pub. L. 107–107 substituted “Subcommittee on Defense” for “National Security Subcommittee”.
+<b>2001</b>—Subsec. (g)(2). Pub. L. 107–107 substituted “Subcommittee on Defense” for “National Security Subcommittee”.
 
-1999—Subsec. (g)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+<b>1999</b>—Subsec. (g)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1996—Subsec. (a)(1). Pub. L. 104–106, §1055, substituted “March 1” for “February 1”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–106, §1055, substituted “March 1” for “February 1”.
 
 Subsec. (g). Pub. L. 104–106, §1502(a)(4), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
@@ -76,7 +76,7 @@ Subsec. (g). Pub. L. 104–106, §1502(a)(4), added pars. (1) and (2) and struck
 
 “(2) the Defense Subcommittees of the Committees on Appropriations of the Senate and House of Representatives.”
 
-1990—Subsec. (c). Pub. L. 101–510, §1461(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Whenever a change is made in the status of a program of the Department of Defense as a special access program, the Secretary of Defense shall submit to the defense committees a report describing the change. Any such report shall be submitted not later than 30 days after the date on which the change takes effect.”
+<b>1990</b>—Subsec. (c). Pub. L. 101–510, §1461(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Whenever a change is made in the status of a program of the Department of Defense as a special access program, the Secretary of Defense shall submit to the defense committees a report describing the change. Any such report shall be submitted not later than 30 days after the date on which the change takes effect.”
 
 Subsec. (f). Pub. L. 101–510, §1482(a)(2), added subsec. (f). Former subsec. (f) redesignated (g).
 

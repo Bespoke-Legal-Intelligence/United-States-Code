@@ -28,27 +28,27 @@ For purposes of subsection (a), the term “control” means—
 
 #### (c) Authority of the Secretary under this section
 
-The provisions of section 269(c) and the authority of the Secretary under such section,shall, to the extent not inconsistent with the provisions of this section, be applicable to this section.
+The provisions of section 269(c) and the authority of the Secretary under such section, shall, to the extent not inconsistent with the provisions of this section, be applicable to this section.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 371; Pub. L. 85–866, title II, §205(a), Sept. 2, 1958, 72 Stat. 1680; Pub. L. 88–272, title II, §235(b), Feb. 26, 1964, 78 Stat. 125; Pub. L. 94–12, title III, §304(b), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–455, title XIX, §§1901(a)(158), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1790, 1834; Pub. L. 95–600, title III, §301(b)(18)(A), (B), Nov. 6, 1978, 92 Stat. 2823; Pub. L. 97–34, title II, §232(b)(2), Aug. 13, 1981, 95 Stat. 250; Pub. L. 99–514, title XVIII, §1899A(36), Oct. 22, 1986, 100 Stat. 2960.)
 
 #### Amendments
 
-1986—Subsec. (c). Pub. L. 99–514 substituted “section 269(c)” for “section 269(b)”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “section 269(c)” for “section 269(b)”.
 
-1981—Subsec. (a). Pub. L. 97–34 struck out “$150,000” before “accumulated earnings credit”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–34 struck out “$150,000” before “accumulated earnings credit”.
 
-1978—Pub. L. 95–600, §301(b)(18)(B), substituted “the benefits of the graduated corporate rates” for “surtax exemption” in section catchline.
+<b>1978</b>—Pub. L. 95–600, §301(b)(18)(B), substituted “the benefits of the graduated corporate rates” for “surtax exemption” in section catchline.
 
 Subsec. (a). Pub. L. 95–600, §301(b)(18)(A), in provisions following par. (3) substituted “disallow the benefits of the rates contained in section 11(b) which are lower than the highest rate specified in such section” for “disallow the surtax exemption (as defined in section 11(d))” and “such benefits or” for “such exemption or”.
 
-1976—Subsec. (a). Pub. L. 94–455 §§1901(a)(158), 1906(b)(13)(A), substituted “subsection (c)” for “subsection (d)” after “determined under” and struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 §§1901(a)(158), 1906(b)(13)(A), substituted “subsection (c)” for “subsection (d)” after “determined under” and struck out “or his delegate” after “Secretary”.
 
-1975—Subsec. (a). Pub. L. 94–12 substituted “$150,000” for “$100,000”.
+<b>1975</b>—Subsec. (a). Pub. L. 94–12 substituted “$150,000” for “$100,000”.
 
-1964—Pub. L. 88–272 amended section generally, and among other changes, designated provisions as subsecs. (a) to (c), included among corporations who are disallowed surtax exemption and accumulated earnings credit, corporations, and five or fewer individuals in charge of a corporation who, directly or indirectly, transfer property in contravention of subsec. (a) after June 12, 1963, substituted provisions permitting the Secretary or his delegate to disallow the exemption or the earnings credit, for provisions which disallowed the exemption and the credit except as otherwise determined by the Secretary of his delegate, provisions that for purposes of determining ownership of stock, section 1563(e) shall apply, for provisions which determined ownership in accordance with section 544, and defined control, with respect to corporations described in subsec. (a)(3), to include the additional test as stated in subsec. (b)(2)(B).
+<b>1964</b>—Pub. L. 88–272 amended section generally, and among other changes, designated provisions as subsecs. (a) to (c), included among corporations who are disallowed surtax exemption and accumulated earnings credit, corporations, and five or fewer individuals in charge of a corporation who, directly or indirectly, transfer property in contravention of subsec. (a) after June 12, 1963, substituted provisions permitting the Secretary or his delegate to disallow the exemption or the earnings credit, for provisions which disallowed the exemption and the credit except as otherwise determined by the Secretary of his delegate, provisions that for purposes of determining ownership of stock, section 1563(e) shall apply, for provisions which determined ownership in accordance with section 544, and defined control, with respect to corporations described in subsec. (a)(3), to include the additional test as stated in subsec. (b)(2)(B).
 
-1958—Pub. L. 85–866 substituted “$100,000” for “$60,000”.
+<b>1958</b>—Pub. L. 85–866 substituted “$100,000” for “$60,000”.
 
 #### Effective Date of 1981 Amendment
 
@@ -64,7 +64,7 @@ Amendment by section 1901(a)(158) of Pub. L. 94–455 applicable with respect to
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 94–12 applicable to taxable years beginning after Dec. 31, 1974, see section 305(c) of Pub. L. 94–12, set out as a note under section 535 of this title.
+Amendment by Pub. L. 94–12 applicable to taxable years beginning after Dec. 31, 1974, see section 305(c) ofPub. L. 94–12, set out as a note under section 535 of this title.
 
 #### Effective Date of 1964 Amendment
 

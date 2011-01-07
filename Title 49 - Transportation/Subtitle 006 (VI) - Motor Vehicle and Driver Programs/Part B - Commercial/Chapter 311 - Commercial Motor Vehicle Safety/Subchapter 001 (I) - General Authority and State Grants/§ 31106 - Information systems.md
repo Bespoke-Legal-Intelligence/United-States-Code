@@ -136,11 +136,15 @@ In subsection (b)(2), the word “schedule” is substituted for “system” fo
 
 #### Amendments
 
-2005—Subsec. (a)(3)(F), (G). Pub. L. 109–59, §4108(a), added subpars. (F) and (G).
+<b>2005</b>—Subsec. (a)(3)(F), (G). Pub. L. 109–59, §4108(a), added subpars. (F) and (G).
 
 Subsec. (b)(2) to (4). Pub. L. 109–59, §4109(a), added pars. (2) to (4) and struck out former pars. (2) to (4), which related to design of program with State licensing systems in par. (2), conditions of participation in par. (3), and funding for fiscal years 1998 to 2003 in par. (4).
 
-1998—Pub. L. 105–178 amended section catchline and text generally, substituting, in subsec. (a), provisions relating to information systems and data analysis for provisions relating to definition of commercial motor vehicle, in subsec. (b), provisions relating to performance and registration information program for provisions relating to information system, in subsec. (c), provisions relating to commercial motor vehicle driver safety program for provisions relating to demonstration project, in subsec. (d), provisions relating to cooperative agreements, grants, and contracts for provisions relating to review of State systems, and in subsec. (e), provisions relating to information availability and privacy protection policy for provisions relating to regulations, and striking out subsecs. (f) and (g), which related to report to Congress and authorization of appropriations, respectively.
+<b>1998</b>—Pub. L. 105–178 amended section catchline and text generally, substituting, in subsec. (a), provisions relating to information systems and data analysis for provisions relating to definition of commercial motor vehicle, in subsec. (b), provisions relating to performance and registration information program for provisions relating to information system, in subsec. (c), provisions relating to commercial motor vehicle driver safety program for provisions relating to demonstration project, in subsec. (d), provisions relating to cooperative agreements, grants, and contracts for provisions relating to review of State systems, and in subsec. (e), provisions relating to information availability and privacy protection policy for provisions relating to regulations, and striking out subsecs. (f) and (g), which related to report to Congress and authorization of appropriations, respectively.
+
+#### Deemed References to Chapters 509 and 511 of Title 51
+
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 
 #### Commercial Vehicle Information Systems and Networks Deployment
 

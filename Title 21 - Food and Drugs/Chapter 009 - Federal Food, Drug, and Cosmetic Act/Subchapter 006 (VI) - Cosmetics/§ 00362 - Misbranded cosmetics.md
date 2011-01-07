@@ -18,11 +18,11 @@ A cosmetic shall be deemed to be misbranded—
 
 #### Amendments
 
-1992—Par. (e). Pub. L. 102–571 substituted “379e” for “376”.
+<b>1992</b>—Par. (e). Pub. L. 102–571 substituted “379e” for “376”.
 
-1970—Par. (f). Pub. L. 91–601 added par. (f).
+<b>1970</b>—Par. (f). Pub. L. 91–601 added par. (f).
 
-1960—Par. (e). Pub. L. 86–618 added par. (e).
+<b>1960</b>—Par. (e). Pub. L. 86–618 added par. (e).
 
 #### Effective Date of 1970 Amendment
 
@@ -38,5 +38,5 @@ Par. (b) effective Jan. 1, 1940, and such subsection effective July 1, 1940, as 
 
 #### Transfer of Functions
 
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare\[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 

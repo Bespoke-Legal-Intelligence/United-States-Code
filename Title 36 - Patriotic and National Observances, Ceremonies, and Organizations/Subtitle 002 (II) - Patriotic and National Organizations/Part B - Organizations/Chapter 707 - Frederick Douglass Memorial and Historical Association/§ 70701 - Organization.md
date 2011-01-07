@@ -20,7 +20,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-70701D36:4401 (words before “for the following objects and purposes”).DJune 6, 1900, ch. 806, §§1 (words before “for the following objects and purposes”), 3, 31 Stat. 662, 663.
+70701
+
+36:4401 (words before “for the following objects and purposes”).
+
+June 6, 1900, ch. 806, §§1 (words before “for the following objects and purposes”), 3, 31 Stat. 662, 663.
 
 &nbsp;
 

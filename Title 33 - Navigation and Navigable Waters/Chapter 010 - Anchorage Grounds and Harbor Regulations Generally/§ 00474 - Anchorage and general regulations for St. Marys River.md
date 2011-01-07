@@ -4,13 +4,13 @@ The Commandant of the Coast Guard is authorized and directed to adopt and prescr
 
 All officers of the Coast Guard who are directed to enforce the regulations prescribed by the above rules are empowered and directed, in case of necessity, or when a proper notice has been disregarded, to use the force at their command to remove from channels or stop any vessel found violating the prescribed rules.
 
-In the event of the violation of any such regulations or rules of the Commandant of the Coast Guard by the owners, master, or person in charge of such vessel, such owners, master, or person in charge shall be liable to a penalty not exceeding $200: <i>Provided</i>, That the Commandant of the Coast Guard may remit said fine on such terms as he may prescribe: <i>Provided also</i>, That nothing in this section shall be construed to amend or repeal chapter <sup>1</sup> 4 of this title.
+In the event of the violation of any such regulations or rules of the Commandant of the Coast Guard by the owners, master, or person in charge of such vessel, such owners, master, or person in charge shall be liable to a penalty notexceeding $200: <i>Provided</i>, That the Commandant of the Coast Guard may remit said fine on such terms as he may prescribe: <i>Provided also</i>, That nothing in this section shall be construed to amend or repeal chapter <sup>1</sup> 4 of this title.
 
 (Mar. 6, 1896, ch. 49, §§1–3, 29 Stat. 54, 55; Apr. 26, 1906, ch. 1874, §§1, 2, 34 Stat. 136; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Oct. 14, 1949, ch. 393, §§1, 20, 63 Stat. 496, 561; Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938.)
 
 #### References in Text
 
-Chapter 4 of this title, referred to in last par., was in the original “the Act entitled ‘An Act to regulate navigation on the Great Lakes, and their connecting and tributary waters as far east as Montreal,’ approved February eighth, eighteen hundred and ninety-five”, which was classified generally to chapter 4 (§241 et seq.) of this title and was repealed by Pub. L. 96–591, §8(b), Dec. 24, 1980, 94 Stat. 3435, eff. Mar. 1, 1983, pursuant to 47 F.R. 15135, Apr. 8, 1982. See section 7 of Pub. L. 96–591, set out as an Effective Date note under section 2001 of this title.
+Chapter 4 of this title, referred to in last par., was in the original “the Act entitled ‘An Act to regulate navigation on the Great Lakes, and their connecting and tributary waters as far east as Montreal,’ approved February eighth, eighteen hundred and ninety-five”, which was classified generally to chapter 4 (§241 et seq.) of this title and was repealed by Pub. L. 96–591, §8(b), Dec. 24, 1980, 94 Stat. 3435, eff. Mar. 1, 1983, pursuant to 47 F.R. 15135, Apr. 8, 1982. See section 7 of Pub. L. 96–591, set out as an Effective Date of 1980 Amendment note under section 1604 of this title.
 
 #### Transfer of Functions
 

@@ -54,7 +54,27 @@
 
 &emsp;(2) part-time appointments of personnel in such category may be for periods of more than one year.
 
-(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 226; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–419, title II, §204, Nov. 1, 2000, 114 Stat. 1842; Pub. L. 108–170, title III, §301(c), Dec. 6, 2003, 117 Stat. 2057.)
+(g)(1) Except as provided in paragraph (3), employment of a registered nurse on a temporary part-time basis under subsection (a)(1) shall be for a probationary period of two years.
+
+(2) Except as provided in paragraph (3), upon completion by a registered nurse of the probationary period described in paragraph (1)—
+
+&emsp;(A) the employment of such nurse shall—
+
+&emsp;&emsp;(i) no longer be considered temporary; and
+
+&emsp;&emsp;(ii) be considered an appointment described in section 7403(a) of this title; and
+
+&emsp;(B) the nurse shall be considered to have served the probationary period required by section 7403(b).
+
+(3) This subsection shall not apply to appointments made on a term limited basis of less than or equal to three years of—
+
+&emsp;(A) nurses with a part-time appointment resulting from an academic affiliation or teaching position in a nursing academy of the Department;
+
+&emsp;(B) nurses appointed as a result of a specific research proposal or grant; or
+
+&emsp;(C) nurses who are not citizens of the United States and appointed under section 7407(a) of this title.
+
+(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 226; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–419, title II, §204, Nov. 1, 2000, 114 Stat. 1842; Pub. L. 108–170, title III, §301(c), Dec. 6, 2003, 117 Stat. 2057; Pub. L. 111–163, title VI, §601(c), May 5, 2010, 124 Stat. 1168.)
 
 #### Prior Provisions
 
@@ -62,7 +82,9 @@ Provisions similar to those in this section were contained in section 4114(a) of
 
 #### Amendments
 
-2003—Subsec. (a)(1)(B), (C). Pub. L. 108–170, §301(c)(1)(A), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
+<b>2010</b>—Subsec. (g). Pub. L. 111–163 added subsec. (g).
+
+<b>2003</b>—Subsec. (a)(1)(B), (C). Pub. L. 108–170, §301(c)(1)(A), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
 
 “(B) Certified or registered respiratory therapists, licensed physical therapists, licensed practical or vocational nurses, pharmacists, and occupational therapists.
 
@@ -72,9 +94,9 @@ Subsec. (a)(2)(B). Pub. L. 108–170, §301(c)(1)(B), added subpar. (B) and stru
 
 Subsec. (c)(1). Pub. L. 108–170, §301(c)(2), substituted “paragraphs (1) and (3) of section 7401” for “section 7401(1)”.
 
-2000—Subsec. (c)(2). Pub. L. 106–419, §204(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Temporary full-time appointments of persons who have successfully completed a full course of nursing in a recognized school of nursing, approved by the Secretary, or who have successfully completed a full course of training for any category of personnel described in paragraph (3) of section 7401 of this title ina recognized education or training institution approved by the Secretary, and who are pending registration or licensure in a State, or certification by a national board recognized by the Secretary, shall not exceed two years.”
+<b>2000</b>—Subsec. (c)(2). Pub. L. 106–419, §204(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Temporary full-time appointments of persons who have successfully completed a full course of nursing in a recognized school of nursing, approved by the Secretary, or who have successfully completed a full course of training for any category of personnel described in paragraph (3) of section 7401 of this title in a recognized education or training institution approved by the Secretary, and who are pending registration or licensure in a State, or certification by a national board recognized by the Secretary, shall not exceed two years.”
 
 Subsec. (c)(3), (4). Pub. L. 106–419, §204(b), added par. (3) and redesignated former par. (3) as (4).
 
-1992—Subsecs. (a), (c)(1), (f)(1). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+<b>1992</b>—Subsecs. (a), (c)(1), (f)(1). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 

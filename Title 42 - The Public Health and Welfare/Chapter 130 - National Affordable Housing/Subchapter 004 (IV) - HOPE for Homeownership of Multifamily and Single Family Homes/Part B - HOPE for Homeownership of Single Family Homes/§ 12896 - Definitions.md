@@ -12,7 +12,7 @@ For purposes of this part:
 
 &emsp;&emsp;(B) is a first-time homebuyer.
 
-&emsp;(4) The term “eligible property” means a single family property, containing no more than four units, that is owned or held by the Secretary, the Secretary of Veterans Affairs, the Secretary of Agriculture, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, the Secretary of Defense, the Secretary of Transportation, the General Services Administration, any other Federal agency, a State or local government (including any in rem property), or a public housing agency or an Indian housing authority (excluding public or Indian housing under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] and including properties held by institutions within the jurisdiction of the Resolution Trust Corporation).
+&emsp;(4) The term “eligible property” means a single family property, containing no more than four units, that is owned or held by the Secretary, the Secretary of Veterans Affairs, the Secretary of Agriculture, the ResolutionTrust Corporation, the Federal Deposit Insurance Corporation, the Secretary of Defense, the Secretary of Transportation, the General Services Administration, any other Federal agency, a State or local government (including any in rem property), or a public housing agency or an Indian housing authority (excluding public or Indian housing under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] and including properties held by institutions within the jurisdiction of the Resolution Trust Corporation).
 
 &emsp;(5) The term “first-time homebuyer” has the same meaning as in section 12704 of this title.
 
@@ -46,7 +46,7 @@ Section 3(b)(11) of the United States Housing Act of 1937, referred to in par. (
 
 #### Amendments
 
-1992—Par. (4). Pub. L. 102–550 inserted “the Federal Deposit Insurance Corporation, the Secretary of Defense, the Secretary of Transportation, the General Services Administration, any other Federal agency,” after “Corporation,” and substituted “(excluding public or Indian housing under the United States Housing Act of 1937 and including” for “(including scattered site single family properties, and”.
+<b>1992</b>—Par. (4). Pub. L. 102–550 inserted “the Federal Deposit Insurance Corporation, the Secretary of Defense, the Secretary of Transportation, the General Services Administration, any other Federal agency,” after “Corporation,” and substituted “(excluding public or Indian housing under the United States Housing Act of 1937 and including” for “(including scattered site single family properties, and”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

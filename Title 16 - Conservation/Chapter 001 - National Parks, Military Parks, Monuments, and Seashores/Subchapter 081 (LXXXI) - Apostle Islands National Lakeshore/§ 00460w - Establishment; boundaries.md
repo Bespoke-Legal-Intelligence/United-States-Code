@@ -16,7 +16,7 @@ In order to conserve and develop for the benefit, inspiration, education, recrea
 
 #### Amendments
 
-1986—Pub. L. 99–497 designated the provision specifying the boundaries of the Apostle Islands National Lakeshore as the area depicted on the map numbered NL–AI–91,000 as par. (a), substituted “1970; and” for “1970”, added par. (b), and in provision following par. (b) substituted “maps” for “map”.
+<b>1986</b>—Pub. L. 99–497 designated the provision specifying the boundaries of the Apostle Islands National Lakeshore as the area depicted on the map numbered NL–AI–91,000 as par. (a), substituted “1970; and” for “1970”, added par. (b), and in provision following par. (b) substituted “maps” for “map”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

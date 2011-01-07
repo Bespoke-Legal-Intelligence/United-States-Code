@@ -2,7 +2,7 @@
 
 #### (a) Appointment; duties
 
-The Director shall appoint a flood insurance advisory committee without regard to the provisions of title 5 governing appointments in thecompetitive service, and such committee shall advise the Director in the preparation of any regulations prescribed in accordance with this chapter and with respect to policy matters arising in the administration of this chapter, and shall perform such other responsibilities as the Director may, from time to time, assign to such committee.
+The Director shall appoint a flood insurance advisory committee without regard to the provisions of title 5 governing appointments in the competitive service, and such committee shall advise the Director in the preparation of any regulations prescribed in accordance with this chapter and with respect to policy matters arising in the administration of this chapter, and shall perform such other responsibilities as the Director may, from time to time, assign to such committee.
 
 #### (b) Membership
 
@@ -26,13 +26,11 @@ Members of the committee shall, while attending conferences or meetings thereof,
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (a), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 This chapter, referred to in subsec. (a), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
 
-1983—Subsecs. (a), (c). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+<b>1983</b>—Subsecs. (a), (c). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
 
 #### Transfer of Functions
 

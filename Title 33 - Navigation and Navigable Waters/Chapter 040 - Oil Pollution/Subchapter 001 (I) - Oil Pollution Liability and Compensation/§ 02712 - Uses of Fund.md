@@ -20,9 +20,11 @@ The Fund shall be available to the President for—
 
 &emsp;&emsp;(A) not more than $25,000,000 in each fiscal year shall be available to the Secretary for operating expenses incurred by the Coast Guard;
 
-&emsp;&emsp;(B) not more than $30,000,000 each year through the end of fiscal year 1992 shall be available to establish the National Response System under section 1321(j) of this title, including the purchase and prepositioning of oil spill removal equipment; and
+&emsp;&emsp;(B) not more than $15,000,000 in each fiscal year shall be available to the Under Secretary of Commerce for Oceans and Atmosphere for expenses incurred by, and activities related to, response and damage assessment capabilities of the National Oceanic and Atmospheric Administration;
 
-&emsp;&emsp;(C) not more than $27,250,000 in each fiscal year shall be available to carry out subchapter IV of this chapter; and
+&emsp;&emsp;(C) not more than $30,000,000 each year through the end of fiscal year 1992 shall be available to establish the National Response System under section 1321(j) of this title, including the purchase and prepositioning of oil spill removal equipment; and
+
+&emsp;&emsp;(D) not more than $27,250,000 in each fiscal year shall be available to carry out subchapter IV of this chapter; and
 
 &emsp;(6) the making of loans pursuant to the program established under section 2713(f) of this title.
 
@@ -70,7 +72,31 @@ Payment of any claim or obligation by the Fund under this Act shall be subject t
 
 #### (g) Audits
 
-The Comptroller General shall audit all payments, obligations, reimbursements, and other uses of the Fund, to assure that the Fund is being properly administered and that claims are being appropriately and expeditiously considered. The Comptroller General shall submit to the Congress an interim report one year after August 18, 1990. The Comptroller General shall thereafter audit the Fund as is appropriate. Each Federal agency shall cooperate with the Comptroller General in carrying out this subsection.
+#### (1) In general
+
+&emsp;The Comptroller General of the United States shall conduct an audit, including a detailed accounting of each disbursement from the Fund in excess of $500,000 that is—
+
+&emsp;&emsp;(A) disbursed by the National Pollution Fund Center and not reimbursed by the responsible party; and
+
+&emsp;&emsp;(B) administered and managed by the receiving Federal agencies, including final payments made to agencies and contractors and, to the extent possible, subcontractors.
+
+#### (2) Frequency
+
+&emsp;The audits shall be conducted—
+
+&emsp;&emsp;(A) at least once every 3 years after October 15, 2010, until 2016; and
+
+&emsp;&emsp;(B) at least once every 5 years after the last audit conducted under subparagraph (A).
+
+#### (3) Submission of results
+
+&emsp;The Comptroller shall submit the results of each audit conducted under paragraph (1) to—
+
+&emsp;&emsp;(A) the Senate Committee on Commerce, Science, and Transportation;
+
+&emsp;&emsp;(B) the House of Representatives Committee on Transportation and Infrastructure; and
+
+&emsp;&emsp;(C) the Secretary or Administrator of each agency referred to in paragraph (1)(B).
 
 #### (h) Period of limitations for claims
 
@@ -114,15 +140,47 @@ In any case in which the President has paid an amount from the Fund for any remo
 
 &emsp;This subsection shall not be considered to restrict the use of Department of Defense resources.
 
-(Pub. L. 101–380, title I, §1012, Aug. 18, 1990, 104 Stat. 498; Pub. L. 108–293, title VII, §708(b), Aug. 9, 2004, 118 Stat. 1077.)
+#### (<i>l</i>) Reports
+
+#### (1) In general
+
+&emsp;Within one year after October 15, 2010, and annually thereafter, the President, through the Secretary of the Department in which the Coast Guard is operating, shall—
+
+&emsp;&emsp;(A) provide a report on disbursements for the preceding fiscal year from the Fund, regardless of whether those disbursements were subject to annual appropriations, to—
+
+&emsp;&emsp;&emsp;(i) the Senate Committee on Commerce, Science, and Transportation; and
+
+&emsp;&emsp;&emsp;(ii) the House of Representatives Committee on Transportation and Infrastructure; and
+
+&emsp;&emsp;(B) make the report available to the public on the National Pollution Funds Center Internet website.
+
+#### (2) Contents
+
+&emsp;The report shall include—
+
+&emsp;&emsp;(A) a list of each disbursement of $250,000 or more from the Fund during the preceding fiscal year; and
+
+&emsp;&emsp;(B) a description of how each such use of the Fund meets the requirements of subsection (a).
+
+#### (3) Agency recordkeeping
+
+&emsp;Each Federal agency that receives amounts from the Fund shall maintain records describing the purposes for which such funds were obligated or expended in such detail as the Secretary may require for purposes of the report required under paragraph (1).
+
+(Pub. L. 101–380, title I, §1012, Aug. 18, 1990, 104 Stat. 498; Pub. L. 108–293, title VII, §708(b), Aug. 9, 2004, 118 Stat. 1077; Pub. L. 111–281, title VII, §708, Oct. 15, 2010, 124 Stat. 2984.)
 
 #### References in Text
 
-This Act, referred to in subsecs. (a)(5) and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. Sections 1004(d)(2) and 1006(e) are classified to sections 2704(d)(2) and 2706(e), respectively, of this title. Section 4107 amended section 1223 of this title and enacted provisions set out as a note under section 1223 of this title. Sections 4110 and 4111 enacted provisions set out as a note and formerly set out as anote under section 3703 of Title 46, Shipping. Section 4112 is not classified to the Code. Section 4117 enacted provisions set out as a note under section 1295 of the former Appendix to Title 46. Section 5006 is classified to section 2736 of this title. Section 8103 enacted provisions formerly set out as a note under section 1651 of Title 43, Public Lands. Title VII is classified to subchapter IV of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This Act, referred to in subsecs. (a)(5) and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. Sections 1004(d)(2) and 1006(e) are classified to sections 2704(d)(2) and 2706(e), respectively, of this title. Section 4107 amended section 1223 of this title and enacted provisions set out as a note under section 1223 of this title. Sections 4110 and 4111 enacted provisions set out as a note and formerly set out as a note under section 3703 of Title 46, Shipping. Section 4112 is not classified to the Code. Section 4117 enacted provisions set out as a note under section 1295 of the former Appendix to Title 46. Section 5006 is classified to section 2736 of this title. Section 8103 enacted provisions formerly set out as a note under section 1651 of Title 43, Public Lands. Title VII is classified to subchapter IV of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 #### Amendments
 
-2004—Subsec. (a)(6). Pub. L. 108–293 added par. (6).
+<b>2010</b>—Subsec. (a)(5)(B) to (D). Pub. L. 111–281, §708(a), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
+
+Subsec. (g). Pub. L. 111–281, §708(b)(1), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “The Comptroller General shall audit all payments, obligations, reimbursements, and other uses of the Fund, to assure that the Fund is being properly administered and that claims are being appropriately and expeditiously considered. The Comptroller General shall submit to the Congress an interim report one year after August 18, 1990. The Comptroller General shall thereafter audit the Fund as is appropriate. Each Federal agency shall cooperate with the Comptroller General in carrying out this subsection.”
+
+Subsec. (<i>l</i>). Pub. L. 111–281, §708(b)(2), added subsec. (<i>l</i>).
+
+<b>2004</b>—Subsec. (a)(6). Pub. L. 108–293 added par. (6).
 
 #### Transfer of Functions
 

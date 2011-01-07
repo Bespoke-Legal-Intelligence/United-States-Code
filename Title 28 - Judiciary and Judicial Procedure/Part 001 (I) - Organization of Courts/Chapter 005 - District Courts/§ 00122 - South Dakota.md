@@ -10,7 +10,7 @@ South Dakota constitutes one judicial district comprising four divisions.
 
 &emsp;&emsp;Court for the Southern Division shall be held at Sioux Falls.
 
-&emsp;&emsp;(3) The central division comprises the counties of Buffalo, Dewey, Faulk, Gregory,Haakon, Hand, Hughes, Hyde, Jerauld, Jones, Lyman, Mellette, Potter, Stanley, Sully, Todd, Tripp, and Ziebach.
+&emsp;&emsp;(3) The central division comprises the counties of Buffalo, Dewey, Faulk, Gregory, Haakon, Hand, Hughes, Hyde, Jerauld, Jones, Lyman, Mellette, Potter, Stanley, Sully, Todd, Tripp, and Ziebach.
 
 &emsp;&emsp;Court for the Central Division shall be held at Pierre.
 
@@ -26,21 +26,21 @@ Based on title 28, U.S.C., 1940 ed., §187 (Mar. 3, 1911, ch. 231, §106, 36 Sta
 
 A provision relating to maintenance of offices by the clerk was omitted as covered by sections 452 and 751 of this title.
 
-Provisions that the Northern Division included Lake Traverse Indian Reservation and that part of Standing Rock Indian Reservation lying in South Dakota; that the Southern Division included the Yorkton Indian Reservation; that the Central Division included the Cheyenne River, Lower Brule, and Crow Creek Indian Reservations; and that the Western Division included Rosebud and Pine Ridge Indian Reservations, were all omitted as surplusage. (See Reviser's Note under section 114 of this title.)
+Provisions that the Northern Division included Lake Traverse Indian Reservation and that part of Standing Rock Indian Reservation lying in South Dakota; that the Southern Division included the Yorkton Indian Reservation; that the Central Division included theCheyenne River, Lower Brule, and Crow Creek Indian Reservations; and that the Western Division included Rosebud and Pine Ridge Indian Reservations, were all omitted as surplusage. (See Reviser's Note under section 114 of this title.)
 
 Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1990—Par. (3). Pub. L. 101–650, §324(b)(1), struck out “Jackson,” after “Hyde,”.
+<b>1990</b>—Par. (3). Pub. L. 101–650, §324(b)(1), struck out “Jackson,” after “Hyde,”.
 
 Par. (4). Pub. L. 101–650, §324(b)(2), inserted “Jackson,” after “Harding,” and substituted “and Shannon” for “Shannon, Washabaugh, and Washington”.
 
-1972—Par. (2). Pub. L. 92–376, §1(a), removed Gregory County from the Southern Division.
+<b>1972</b>—Par. (2). Pub. L. 92–376, §1(a), removed Gregory County from the Southern Division.
 
 Par. (3). Pub. L. 92–376, §1(b), added Gregory, Mellette, Todd, and Tripp counties to the Central Division and removed Armstrong county from the Central Division.
 
 Par. (4). Pub. L. 92–376, §1(c), removed Mellette, Todd, and Tripp counties from the Western Division.
 
-1966—Pub. L. 89–638 provided for holding court at Rapid City.
+<b>1966</b>—Pub. L. 89–638 provided for holding court at Rapid City.
 

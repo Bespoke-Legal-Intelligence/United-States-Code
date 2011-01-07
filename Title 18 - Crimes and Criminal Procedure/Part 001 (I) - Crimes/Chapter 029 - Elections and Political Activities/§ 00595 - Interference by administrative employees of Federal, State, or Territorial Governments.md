@@ -26,11 +26,11 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322, §330016(1)(L), which directed the amendment of this section by substituting “under this title” for “not more than $10,000”, could not be executed because the phrase “not more than $10,000” does not appear in text.
+<b>1994</b>—Pub. L. 103–322, §330016(1)(L), which directed the amendment of this section by substituting “under this title” for “not more than $10,000”, could not be executed because the phrase “not more than $10,000” does not appear in text.
 
 Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” in first par.
 
-1970—Pub. L. 91–405 substituted reference to Delegate from District of Columbia or Resident Commissioner for Delegate or Resident Commissioner from any Territory or Possession.
+<b>1970</b>—Pub. L. 91–405 substituted reference to Delegate from District of Columbia or Resident Commissioner for Delegate or Resident Commissioner from any Territory or Possession.
 
 #### Effective Date of 1970 Amendment
 

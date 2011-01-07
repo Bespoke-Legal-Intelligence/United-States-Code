@@ -108,7 +108,7 @@ Beginning on June 22, 2009, the Secretary shall in accordance with this section 
 
 #### (1) In general
 
-&emsp;Fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts, subject to paragraph (2)(D). Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation.
+&emsp;Fees authorized under subsection (a) shall be collected and available for obligation only tothe extent and in the amount provided in advance in appropriations Acts, subject to paragraph (2)(D). Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation.
 
 #### (2) Availability
 

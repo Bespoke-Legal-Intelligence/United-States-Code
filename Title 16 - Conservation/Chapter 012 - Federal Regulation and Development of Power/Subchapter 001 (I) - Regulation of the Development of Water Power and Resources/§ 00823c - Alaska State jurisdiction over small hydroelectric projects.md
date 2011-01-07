@@ -22,7 +22,7 @@ Notwithstanding sections 797(e) and 817 of this title, the Commission shall disc
 
 &emsp;(3) requires, as a condition of a license for any project works—
 
-&emsp;&emsp;(A) the construction, maintenance, and operation by a licensee at its own expense of such lights and signals as may be directed by the Secretary of the Department in which the Coast Guard is operating, and such fishways as may be prescribed by the Secretary of the Interior or the Secretary of Commerce, as appropriate;
+&emsp;&emsp;(A) the construction, maintenance, and operation by a licensee at its own expense of such lights and signals as may be directed bythe Secretary of the Department in which the Coast Guard is operating, and such fishways as may be prescribed by the Secretary of the Interior or the Secretary of Commerce, as appropriate;
 
 &emsp;&emsp;(B) the operation of any navigation facilities which may be constructed as part of any project to be controlled at all times by such reasonable rules and regulations as may be made by the Secretary of the Army; and
 
@@ -92,7 +92,7 @@ The Fish and Wildlife Coordination Act, referred to in subsec. (a)(1), (3)(C), i
 
 #### Amendments
 
-2005—Subsec. (a)(3)(C). Pub. L. 109–58, §244(1), inserted “except as provided in subsection (j) of this section,” before “conditions”.
+<b>2005</b>—Subsec. (a)(3)(C). Pub. L. 109–58, §244(1), inserted “except as provided in subsection (j) of this section,” before “conditions”.
 
 Subsec. (j). Pub. L. 109–58, §244(2), added subsec. (j).
 

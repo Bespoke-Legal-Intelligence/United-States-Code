@@ -20,9 +20,9 @@ State Defined.—In this section, the term “State” includes the District of 
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–163 struck out “Territory and” before “possession”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–163 struck out “Territory and” before “possession”.
 
-1993—Pub. L. 103–160 amended section generally. Prior to amendment, section read as follows:
+<b>1993</b>—Pub. L. 103–160 amended section generally. Prior to amendment, section read as follows:
 
 “(a) The provisions of any contract under this chapter which relate to the nature and extent of coverage of benefits (including payments with respect to benefits) shall preempt any law of a State or local government, or any regulation issued under such a law, which relates to health insurance or plans to the extent that such law or regulation is inconsistent with such contractual provisions.
 
@@ -42,7 +42,7 @@ Pub. L. 102–396, title IX, §9032, Oct. 6, 1992, 106 Stat. 1908, as amended by
 
 #### Applicability to Contracts Entered Into Pursuant to Solicitation Number MDA–903–87–R–0047
 
-Pub. L. 100–463, title VIII, §8078(b), Oct. 1, 1988, 102 Stat. 2270–30, provided that preemption provisions of 10U.S.C. 1103 shall apply to contracts entered into pursuant to Solicitation Number MDA–903–87–R–0047 and shall preempt State and local laws or regulations which relate to health insurance or prepaid health care plans. Similar provisions were contained in the following prior appropriation act:
+Pub. L. 100–463, title VIII, §8078(b), Oct. 1, 1988, 102 Stat. 2270–30, provided that preemption provisions of 10 U.S.C. 1103 shall apply to contracts entered into pursuant to Solicitation Number MDA–903–87–R–0047 and shall preempt State and local laws or regulations which relate to health insurance or prepaid health care plans. Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 100–202, §101(b) \[title VIII, §8104(b)\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–81.
 

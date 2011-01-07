@@ -2,9 +2,23 @@
 
 The Board shall by regulation exempt from the requirements of this subchapter any class of electronic fund transfers within any State if the Board determines that under the law of that State that class of electronic fund transfers is subject to requirements substantially similar to those imposed by this subchapter, and that there is adequate provision for enforcement.
 
-(Pub. L. 90–321, title IX, §920, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3741.)
+(Pub. L. 90–321, title IX, §922, formerly §920, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3741; renumbered §921, Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat. 1751; renumbered §922 and amended Pub. L. 111–203, title X, §§1073(a)(3), 1084(1), July 21, 2010, 124 Stat. 2060, 2081.)
 
-#### Renumbering of Section
+#### Amendment of Section
 
-<i>Pub. L. 111–24, title IV, §§401(1), 403, May 22, 2009, 123 Stat. 1751, 1754, provided that, effective 15 months after May 22, 2009, section 920 of Pub. L. 90–321, which is classified to this section, is renumbered section 921 of Pub. L. 90–321.</i>
+<i>Pub. L. 111–203, title X, §§1084(1), 1100H, July 21, 2010, 124 Stat. 2081, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+
+#### Codification
+
+Another section 922 of Pub. L. 90–321 is classified to section 1693q of this title.
+
+Renumbering of section 920 of Pub. L. 90–321 as section 921 by section 401(1) of Pub. L. 111–24 was executed prior to the renumbering of section 921 of Pub. L. 90–321 as section 922 by section 1073(a)(3) of Pub. L. 111–203 as the probable intent of Congress, notwithstanding section 403 of Pub. L. 111–24, set out as an Effective Date note under section 1693<i>l</i>–1 of this title and section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking, which provided that the renumbering by Pub. L. 111–24 was effective 15 months after May 22, 2009, and the renumbering by Pub. L. 111–203 was effective 1 day after July 21, 2010.
+
+#### Prior Provisions
+
+A prior section 922 of Pub. L. 90–321 was renumbered section 923 and is classified as an Effective Date note under section 1693 of this title.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 1084(1) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 

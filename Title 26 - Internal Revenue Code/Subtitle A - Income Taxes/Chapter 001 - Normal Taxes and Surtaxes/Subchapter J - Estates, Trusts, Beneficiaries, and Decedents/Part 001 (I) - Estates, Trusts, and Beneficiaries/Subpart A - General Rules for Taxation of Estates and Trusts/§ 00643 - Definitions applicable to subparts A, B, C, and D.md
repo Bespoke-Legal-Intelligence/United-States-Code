@@ -90,7 +90,7 @@ Except to the extent otherwise provided in regulations, this subchapter shall be
 
 #### (B) Election
 
-&emsp;&emsp;Any election under this paragraph shall apply to all distributions made by the estateor trust during a taxable year and shall be made on the return of such estate or trust for such taxable year.
+&emsp;&emsp;Any election under this paragraph shall apply to all distributions made by the estate or trust during a taxable year and shall be made on the return of such estate or trust for such taxable year.
 
 > &emsp;Any such election, once made, may be revoked only with the consent of the Secretary.
 
@@ -146,13 +146,13 @@ For purposes of subparts B, C, and D—
 
 #### (1) General rule
 
-&emsp;Except as provided in regulations, if a foreign trust makes a loan of cash or marketable securities directly or indirectly to—
+&emsp;Except as provided in regulations, if a foreign trust makes a loan of cash or marketable securities (or permits the use of any other trust property) directly or indirectly to or by—
 
 &emsp;&emsp;(A) any grantor or beneficiary of such trust who is a United States person, or
 
 &emsp;&emsp;(B) any United States person not described in subparagraph (A) who is related to such grantor or beneficiary,
 
-> &emsp;the amount of such loan shall be treated as a distribution by such trust to such grantor or beneficiary (as the case may be).
+> &emsp;the amount of such loan (or the fair market value of the use of such property) shall be treated as a distribution by such trust to such grantor or beneficiary (as the case may be).
 
 #### (2) Definitions and special rules
 
@@ -180,29 +180,39 @@ For purposes of subparts B, C, and D—
 
 &emsp;&emsp;Any trust which is treated under this subsection as making a distribution shall be treated as not described in section 651.
 
-#### (3) Subsequent transactions regarding loan principal
+#### (E) Exception for compensated use of property
 
-&emsp;If any loan is taken into account under paragraph (1), any subsequent transaction between the trust and the original borrower regarding the principal of the loan (by way of complete or partial repayment, satisfaction, cancellation, discharge, or otherwise) shall be disregarded for purposes of this title.
+&emsp;&emsp;In the case of the use of any trust property other than a loan of cash or marketable securities, paragraph (1) shall not apply to the extent that the trust is paid the fair market value of such use within a reasonable period of time of such use.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 217; Pub. L. 87–834, §7(a), Oct. 16, 1962, 76 Stat. 985; Pub. L. 94–455, title X, §1013(c), (e)(2), Oct. 4, 1976, 90 Stat. 1615, 1616; Pub. L. 96–223, title IV, §404(b)(4), Apr. 2, 1980, 94 Stat. 306; Pub. L. 97–34, title III, §301(b)(4), (6)(B), Aug. 13, 1981, 95 Stat. 270; Pub. L. 97–248, title III, §§302(b)(1), 308(a), Sept. 3, 1982, 96 Stat. 586, 591; Pub. L. 97–448, title I, §103(a)(3), Jan. 12, 1983, 96 Stat. 2375; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title I, §§81(a), 82(a), title VII, §722(h)(3), July 18, 1984, 98 Stat. 597, 598, 975; Pub. L. 99–514, title III, §301(b)(7), title VI, §612(b)(4), title XIV, §1404(b), title XVIII, §1806(a), (c), Oct. 22, 1986, 100 Stat. 2217, 2250, 2713, 2810, 2811; Pub. L. 100–647, title I, §1014(d)(3), (4), Nov. 10, 1988, 102 Stat. 3561; Pub. L. 101–239, title VII, §7811(b), (f)(1), Dec. 19, 1989, 103 Stat.2406, 2409; Pub. L. 103–66, title XIII, §13113(d)(3), Aug. 10, 1993, 107 Stat. 430; Pub. L. 104–188, title I, §§1904(c)(1), 1906(b), (c)(1), Aug. 20, 1996, 110 Stat. 1912, 1915.)
+#### (3) Subsequent transactions
+
+&emsp;If any loan (or use of property) is taken into account under paragraph (1), any subsequent transaction between the trust and the original borrower regarding the principal of the loan (by way of complete or partial repayment, satisfaction, cancellation, discharge, or otherwise) or the return of such property shall be disregarded for purposes of this title.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 217; Pub. L. 87–834, §7(a), Oct. 16, 1962, 76 Stat. 985; Pub. L. 94–455, title X, §1013(c), (e)(2), Oct. 4, 1976, 90 Stat. 1615, 1616; Pub. L. 96–223, title IV, §404(b)(4), Apr. 2, 1980, 94 Stat. 306; Pub. L. 97–34, title III, §301(b)(4), (6)(B), Aug. 13, 1981, 95 Stat. 270; Pub. L. 97–248, title III, §§302(b)(1), 308(a), Sept. 3, 1982, 96 Stat. 586, 591; Pub. L. 97–448, title I, §103(a)(3), Jan. 12, 1983, 96 Stat. 2375; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title I, §§81(a), 82(a), title VII, §722(h)(3), July 18, 1984, 98 Stat. 597, 598, 975; Pub. L. 99–514, title III, §301(b)(7), title VI, §612(b)(4), title XIV, §1404(b), title XVIII, §1806(a), (c), Oct. 22, 1986, 100 Stat. 2217, 2250, 2713, 2810, 2811; Pub. L. 100–647, title I, §1014(d)(3), (4), Nov. 10, 1988, 102 Stat. 3561; Pub. L. 101–239, title VII, §7811(b), (f)(1), Dec. 19, 1989, 103 Stat. 2406, 2409; Pub. L. 103–66, title XIII, §13113(d)(3), Aug. 10, 1993, 107 Stat. 430; Pub. L. 104–188, title I, §§1904(c)(1), 1906(b), (c)(1), Aug. 20, 1996, 110 Stat. 1912, 1915; Pub. L. 111–147, title V, §533(a), (b), (d), Mar. 18, 2010, 124 Stat. 114.)
 
 #### Amendments
 
-1996—Subsec. (a)(7). Pub. L. 104–188, §1906(b), added par. (7).
+<b>2010</b>—Subsec. (i)(1). Pub. L. 111–147, §533(a), substituted “(or permits the use of any other trust property) directly or indirectly to or by” for “directly or indirectly to” in introductory provisions and inserted “(or the fair market value of the use of such property)” after “the amount of such loan” in concluding provisions.
+
+Subsec. (i)(2)(E). Pub. L. 111–147, §533(b), added subpar. (E).
+
+Subsec. (i)(3). Pub. L. 111–147, §533(d), struck out “regarding loan principal” after “transactions” in heading and inserted “(or use of property)” after “If any loan” and “or the return of such property” after “otherwise)”.
+
+<b>1996</b>—Subsec. (a)(7). Pub. L. 104–188, §1906(b), added par. (7).
 
 Subsec. (h). Pub. L. 104–188, §1904(c)(1), added subsec. (h).
 
 Subsec. (i). Pub. L. 104–188, §1906(c)(1), added subsec. (i).
 
-1993—Subsec. (a)(3). Pub. L. 103–66 inserted at end “The exclusion under section 1202 shall not be taken into account.”
+<b>1993</b>—Subsec. (a)(3). Pub. L. 103–66 inserted at end “The exclusion under section 1202 shall not be taken into account.”
 
-1989—Subsec. (a)(6)(A). Pub. L. 101–239, §7811(f)(1), substituted “section 265(a)(1)” for “section 265(1)”.
+<b>1989</b>—Subsec. (a)(6)(A). Pub. L. 101–239, §7811(f)(1), substituted “section 265(a)(1)” for “section 265(1)”.
 
 Subsec. (a)(6)(C). Pub. L. 101–239, §7811(b)(1), struck out “(i)” after “such a trust,” and “, and (ii) the deduction under section 1202 (relating to deduction for excess of capital gains over capital losses) shall not be taken into account” before period at end.
 
 Subsec. (a)(6)(D). Pub. L. 101–239, §7811(b)(2), struck out subpar. (D) which read as follows: “Effective for distributions made in taxable years beginning after December 31, 1975, the undistributed net income of each foreign trust for each taxable year beginning on or before December 31, 1975, remaining undistributed at the close of the last taxable year beginning on or before December 31, 1975, shall be redetermined by taking into account the deduction allowed by section 1202.”
 
-1988—Subsec. (g)(1). Pub. L. 100–647, §1014(d)(3)(A), struck out at end “The preceding sentence shall apply only to the extent the payments of estimated tax made by the trust for the taxable year exceed the tax imposed by this chapter shown on its return for the taxable year.”
+<b>1988</b>—Subsec. (g)(1). Pub. L. 100–647, §1014(d)(3)(A), struck out at end “The preceding sentence shall apply only to the extent the payments of estimated tax made by the trust for the taxable year exceed the tax imposed by this chapter shown on its return for the taxable year.”
 
 Subsec. (g)(2). Pub. L. 100–647, §1014(d)(3)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “An election under paragraph (1) may be made—
 
@@ -212,7 +222,7 @@ Subsec. (g)(2). Pub. L. 100–647, §1014(d)(3)(B), amended par. (2) generally. 
 
 Subsec. (g)(3). Pub. L. 100–647, §1014(d)(4), added par. (3).
 
-1986—Subsec. (a)(3). Pub. L. 99–514, §301(b)(7), struck out “The deduction under section 1202 (relating to deduction for excess of capital gains over capital losses) shall not be taken into account.”
+<b>1986</b>—Subsec. (a)(3). Pub. L. 99–514, §301(b)(7), struck out “The deduction under section 1202 (relating to deduction for excess of capital gains over capital losses) shall not be taken into account.”
 
 Subsec. (a)(7). Pub. L. 99–514, §612(b)(4), struck out par. (7), dividends or interest, which read as follows: “There shall be included the amount of any dividends or interest excluded from gross income pursuant to section 116 (relating to partial exclusion of dividends) or section 128 (relating to certain interest).”
 
@@ -224,33 +234,37 @@ Subsec. (f). Pub. L. 99–514, §1806(c)(2), redesignated subsec. (e) as (f).
 
 Subsec. (g). Pub. L. 99–514, §1404(b), added subsec. (g).
 
-1984—Subsec. (d). Pub. L. 98–369, §81(a), added subsec. (d) relating to treatment of property distributed in kind.
+<b>1984</b>—Subsec. (d). Pub. L. 98–369, §81(a), added subsec. (d) relating to treatment of property distributed in kind.
 
 Pub. L. 98–369, §722(h)(3), added subsec. (d) relating to coordination with back-up withholding.
 
 Subsec. (e). Pub. L. 98–369, §82(a), added subsec. (e).
 
-1983—Subsec. (a)(7). Pub. L. 97–448 substituted “section 116 (relating to partial exclusion of dividends) or section 128 (relating to certain interest)” for “section 116 (relating to partial exclusion of dividends or interest received) or section 128 (relating to interest on certain savings certificates)”.
+<b>1983</b>—Subsec. (a)(7). Pub. L. 97–448 substituted “section 116 (relating to partial exclusion of dividends) or section 128 (relating to certain interest)” for “section 116 (relating to partial exclusion of dividends or interest received) or section 128 (relating to interest on certain savings certificates)”.
 
 Subsec. (d). Pub. L. 98–67 repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
-1982—Subsec. (d). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, this section is amended by adding subsec. (d) relating to coordination with withholding on interest and dividends. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 (this title) shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+<b>1982</b>—Subsec. (d). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, this section is amended by adding subsec. (d) relating to coordination with withholding on interest and dividends. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 (this title) shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
-1981—Subsec. (a)(7). Pub. L. 97–34, §301(b)(6)(A), inserted reference to “interest” in heading and text, which continued the amendment made by Pub. L. 96–223.
+<b>1981</b>—Subsec. (a)(7). Pub. L. 97–34, §301(b)(6)(A), inserted reference to “interest” in heading and text, which continued the amendment made by Pub. L. 96–223.
 
 Pub. L. 97–34, §301(b)(4), inserted “or section 128 (relating to interest on certain savings certificates)” after “received)”.
 
-1980—Subsec. (a)(7). Pub. L. 96–223 inserted “or interest” after “dividends” in heading and text.
+<b>1980</b>—Subsec. (a)(7). Pub. L. 96–223 inserted “or interest” after “dividends” in heading and text.
 
-1976—Subsec. (a)(6)(C). Pub. L. 94–455, §1013(c)(1), struck out “created by a United States person” after “foreign trust”.
+<b>1976</b>—Subsec. (a)(6)(C). Pub. L. 94–455, §1013(c)(1), struck out “created by a United States person” after “foreign trust”.
 
 Subsec. (a)(6)(D). Pub. L. 94–455, §1013(c)(2), added subpar. (D).
 
 Subsec. (d). Pub. L. 94–455, §1013(e)(2), struck out subsec. (a) which defined a foreign trust created by a United States person.
 
-1962—Subsec. (a)(6). Pub. L. 87–834, §7(a)(1), substituted “Income of foreign trust” for “Foreign income” in heading, designated existing provisions as subpar. (A), and added subpars. (B) and (C).
+<b>1962</b>—Subsec. (a)(6). Pub. L. 87–834, §7(a)(1), substituted “Income of foreign trust” for “Foreign income” in heading, designated existing provisions as subpar. (A), and added subpars. (B) and (C).
 
 Subsec. (d). Pub. L. 87–834, §7(a)(2), added subsec. (d).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–147, title V, §533(e), Mar. 18, 2010, 124 Stat. 114, provided that: “The amendments made by this section \[amending this section and section 679 of this title\] shall apply to loans made, and uses of property, after the date of the enactment of this Act \[Mar. 18, 2010\].”
 
 #### Effective Date of 1996 Amendment
 
@@ -286,7 +300,7 @@ Amendment by Pub. L. 103–66 applicable to stock issued after Aug. 10, 1993, se
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988,Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

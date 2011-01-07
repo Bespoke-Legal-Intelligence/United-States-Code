@@ -48,7 +48,7 @@ The words “There is established”, in 5 U.S.C. 171(a), are omitted as execute
 
 #### Amendments
 
-1986—Pub. L. 99–433 renumbered section 131 of this title as this section, designated existing provisions as subsec. (a), and added subsecs. (b) and (c).
+<b>1986</b>—Pub. L. 99–433 renumbered section 131 of this title as this section, designated existing provisions as subsec. (a), and added subsecs. (b) and (c).
 
 #### Change of Name
 
@@ -242,7 +242,7 @@ Pub. L. 101–510, div. A, title XIII, §1321, Nov. 5, 1990, 104 Stat. 1670, pro
 
 #### Restoration of Certain Reporting Requirements of Title 10 Terminated by Goldwater-Nichols Act
 
-Pub. L. 101–510, div. A, title XIII, §1323, Nov. 5, 1990, 104 Stat. 1672, restored effectiveness of following report and notification provisions previously terminated by section 602(c) of the Goldwater-Nichols Department of Defense Reorganization Act of 1986, Pub. L. 99–433, formerly set out below: (1) the quarterly report required by section 127(c) of this title relating to emergency and extraordinary expenses, (2) the notifications requiredby section 2672a(b) of this title relating to urgent acquisitions of interests in land, (3) the notifications required by section 7308(c) of this title relating to the transfer or gift of obsolete, condemned, or captured vessels, and (4) the notifications required by section 7309(b) of this title relating to construction or repair of vessels in foreign shipyards.
+Pub. L. 101–510, div. A, title XIII, §1323, Nov. 5, 1990, 104 Stat. 1672, restored effectiveness of following report and notification provisions previously terminated by section 602(c) of the Goldwater-Nichols Department of Defense Reorganization Act of 1986, Pub. L. 99–433, formerly set out below: (1) the quarterly report required by section 127(c) of this title relating to emergency and extraordinary expenses, (2) the notifications required by section 2672a(b) of this title relating to urgent acquisitions of interests in land, (3) the notifications required by section 7308(c) of this title relating to the transfer or gift of obsolete, condemned, or captured vessels, and (4) the notifications required by section 7309(b) of this title relating to construction or repair of vessels in foreign shipyards.
 
 #### Goldwater-Nichols Department of Defense Reorganization Act of 1986; Congressional Declaration of Policy
 
@@ -292,7 +292,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### DEPARTMENT OF DEFENSE
 
-I74Section 1. Transfers of Functions
+#### Section 1. Transfers of Functions
 
 (a) All functions of the Munitions Board, the Research and Development Board, the Defense Supply Management Agency, and the Director of Installations are hereby transferred to the Secretary of Defense.
 

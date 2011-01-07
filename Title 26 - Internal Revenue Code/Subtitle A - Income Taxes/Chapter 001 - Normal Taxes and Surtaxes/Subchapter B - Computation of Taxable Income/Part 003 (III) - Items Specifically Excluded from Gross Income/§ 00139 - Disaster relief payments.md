@@ -78,9 +78,9 @@ A prior section 139 was renumbered section 140 of this title.
 
 #### Amendments
 
-2008—Subsec. (c)(2). Pub. L. 110–343 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “a Presidentially declared disaster (as defined in section 1033(h)(3)),”.
+<b>2008</b>—Subsec. (c)(2). Pub. L. 110–343 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “a Presidentially declared disaster (as defined in section 1033(h)(3)),”.
 
-2005—Subsec. (d). Pub. L. 109–7, §1(a)(2)(A), substituted “qualified disaster relief payments and qualified disaster mitigation payments” for “a qualified disaster relief payment”.
+<b>2005</b>—Subsec. (d). Pub. L. 109–7, §1(a)(2)(A), substituted “qualified disaster relief payments and qualified disaster mitigation payments” for “a qualified disaster relief payment”.
 
 Subsec. (e). Pub. L. 109–7, §1(a)(2)(B), substituted “, (f), and (g)” for “and (f)”.
 

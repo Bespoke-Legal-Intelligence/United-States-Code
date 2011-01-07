@@ -32,7 +32,7 @@ A prior section 645 was renumbered section 644 of this title.
 
 #### Amendments
 
-1998—Pub. L. 105–206 renumbered section 646 of this title as this section.
+<b>1998</b>—Pub. L. 105–206 renumbered section 646 of this title as this section.
 
 #### Effective Date
 

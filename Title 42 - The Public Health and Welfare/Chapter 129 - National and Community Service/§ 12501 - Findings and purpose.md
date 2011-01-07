@@ -66,7 +66,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Amendments
 
-2009—Subsec. (b)(2). Pub. L. 111–13, §1101(1), substituted “community and service throughout the varied and diverse communities of” for “community throughout”.
+<b>2009</b>—Subsec. (b)(2). Pub. L. 111–13, §1101(1), substituted “community and service throughout the varied and diverse communities of” for “community throughout”.
 
 Subsec. (b)(4). Pub. L. 111–13, §1101(2), inserted “geographic location,” after “income,”.
 
@@ -76,7 +76,7 @@ Subsec. (b)(7). Pub. L. 111–13, §1101(4)(A), substituted “programs, agencie
 
 Subsec. (b)(9) to (19). Pub. L. 111–13, §1101(4)(B)–(6), added pars. (9) to (19).
 
-1993—Pub. L. 103–82 amended section generally, substituting provisions relating to findings and purposes for former provisions setting forth the purposes of this chapter.
+<b>1993</b>—Pub. L. 103–82 amended section generally, substituting provisions relating to findings and purposes for former provisions setting forth the purposes of this chapter.
 
 #### Effective Date of 2009 Amendment
 
@@ -116,13 +116,13 @@ Pub. L. 108–45, §1, July 3, 2003, 117 Stat. 844, which provided that Pub. L. 
 
 Section 199 \[formerly 120\] of subtitle I (§§199–199O) \[formerly subtitle C (§§120–136)\] of title I of Pub. L. 101–610, as renumbered by Pub. L. 103–82, title I, §101(a), Sept. 21, 1993, 107 Stat. 788, provided that: “This subtitle \[enacting division I (formerly part C) of subchapter I of this chapter\] may be cited as the ‘American Conservation and Youth Service Corps Act of 1990’.”
 
-Section 140 of subtitle D (§§140–150) of title I of Pub. L. 101–610, which provided that such subtitle (enactingformer part D (§§12571–12580) of subchapter I of this chapter) be cited as the “National and Community Service Act”, was omitted in the general amendment of part D (now division D) by Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 816.
+Section 140 of subtitle D (§§140–150) of title I of Pub. L. 101–610, which provided that such subtitle (enacting former part D (§§12571–12580) of subchapter I of this chapter) be cited as the “National and Community Service Act”, was omitted in the general amendment of part D (now division D) by Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 816.
 
 Pub. L. 101–610, title III, §301, Nov. 16, 1990, 104 Stat. 3180, which provided that title III of Pub. L. 101–610, enacting subchapter II of this chapter, could be cited as “The Points of Light Foundation Act”, was repealed by Pub. L. 111–13, title I, §1831(a), Apr. 21, 2009, 123 Stat. 1578.
 
 #### Compliance With Buy American Act
 
-Section 501 of Pub. L. 103–82 provided that: “No funds appropriated pursuant to this Act \[see Tables for classification\] (including the amendments made by this Act) may be expended by an entity unless the entity agrees that in expending the assistance the entity will comply with sections 2 through 4 of the Act of March 3, 1933 (41 U.S.C. 10a–10c \[41 U.S.C. 10a, 10b, former 10b–1\], popularly known as the ‘Buy American Act’).”
+Pub. L. 103–82, title V, §501, Sept. 21, 1993, 107 Stat. 922, provided that: “No funds appropriated pursuant to this Act \[see Tables for classification\] (including the amendments made by this Act) may be expended by an entity unless the entity agrees that in expending the assistance the entity will comply with sections 2 through 4 of the Act of March 3, 1933 (\[former\] 41 U.S.C. 10a–10c, popularly known as the ‘Buy American Act’ \[see 41 U.S.C. 8301 et seq.\]).”
 
 #### Sense of Congress; Requirement Regarding Notice
 
@@ -220,7 +220,7 @@ Sec. 4. <i>USA Freedom Corps Office</i>. (a) <i>General</i>. The USA Freedom Cor
 
 (b) <i>Presidential Recognition to Participants in USA Freedom Corps Programs</i>. In addition to supporting and facilitating the functions of the Council listed in section 3 of this order, the Office shall support the President in providing recognition to volunteers and other participants in programs and activities relating to the functions and missions of the USA Freedom Corps as described in section 2 of this order.
 
-Sec. 5. <i>General Provisions</i>. (a) The White House Office shall provide the Council and Office with such funding and administrative support, to the extent permitted by law and subject to the availability of appropriations, as directed by the Chief of Staff to the President to carry out the provisions of this order.
+Sec. 5. <i>General Provisions</i>. (a) The White House Office shall provide the Council and Office with such funding and administrative support, to the extent permitted by law and subject to the availability of appropriations, asdirected by the Chief of Staff to the President to carry out the provisions of this order.
 
 (b) This order does not alter the existing authorities or roles of executive branch departments, agencies, or offices. Nothing in this order shall supersede any requirement made by or under law.
 
@@ -294,7 +294,7 @@ Sec. 4. <i>Management Reforms</i>. (a) The Corporation should implement internal
 
 &emsp;(iv) Management reforms that tie employee performance to fiscal responsibility, attainment of management goals, and professional conduct.
 
-Sec. 5. <i>Report</i>. Within 180 days after the date of this order, the Chief Executive Officer shall report to the President, through the Assistant to the President and Director of the USA Freedom Corps Office, the actions the Corporation proposes to undertake to accomplish the objectives set forth in this order.
+Sec. 5. <i>Report</i>. Within 180 days after the date of this order, the Chief Executive Officer shall report to the President, through the Assistant to the President and Director of the USA Freedom Corps Office, the actionsthe Corporation proposes to undertake to accomplish the objectives set forth in this order.
 
 Sec. 6. <i>Judicial Review</i>. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
 

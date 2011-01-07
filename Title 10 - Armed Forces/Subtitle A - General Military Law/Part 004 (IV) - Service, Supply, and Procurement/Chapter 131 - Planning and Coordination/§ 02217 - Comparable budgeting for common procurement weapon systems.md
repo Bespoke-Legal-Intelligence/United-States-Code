@@ -30,5 +30,5 @@ Section is based on Pub. L. 99–500, §101(c) \[title X, §955\], Oct. 18, 1986
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–106 substituted “Under Secretary of Defense (Comptroller)” for “Comptroller of the Department of Defense”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–106 substituted “Under Secretary of Defense (Comptroller)” for “Comptroller of the Department of Defense”.
 

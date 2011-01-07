@@ -1,7 +1,5 @@
 ### SUBCHAPTER LXXX—HOOPA-YUROK SETTLEMENT
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

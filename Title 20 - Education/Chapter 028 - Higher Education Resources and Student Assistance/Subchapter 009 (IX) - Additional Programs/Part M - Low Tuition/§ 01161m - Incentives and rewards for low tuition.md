@@ -64,7 +64,7 @@ The categories of institutions described in subsection (a) shall be the followin
 
 &emsp;An institution of higher education that does not provide a program of instruction for which it awards a bachelor's degree complies with the requirements of this paragraph if—
 
-&emsp;&emsp;(A) for a public institution of higher education, such institution's tuition is in the lowest quartile of institutions in the same category as described under subsection (b); or
+&emsp;&emsp;(A) for a public institution of higher education, such institution's tuition is in thelowest quartile of institutions in the same category as described under subsection (b); or
 
 &emsp;&emsp;(B) for any institution of higher education, such institution guarantees that for any academic year (or the equivalent) beginning on or after July 1, 2009, and for each of the 1.5 succeeding continuous academic years, the tuition and fees charged to an undergraduate student will not exceed—
 
@@ -74,7 +74,7 @@ The categories of institutions described in subsection (a) shall be the followin
 
 &emsp;&emsp;&emsp;&emsp;(I) the amount that the student was charged for an academic year at the time the student first enrolled in the institution of higher education, plus
 
-&emsp;&emsp;&emsp;&emsp;(II) the percentage change in tuition and fees at the institution for the three most recent academic years for whichdata is available, multiplied by the amount determined under subclause (I).
+&emsp;&emsp;&emsp;&emsp;(II) the percentage change in tuition and fees at the institution for the three most recent academic years for which data is available, multiplied by the amount determined under subclause (I).
 
 #### (d) Definitions
 
@@ -88,7 +88,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### Amendments
 
-2009—Subsec. (a)(1)(B). Pub. L. 111–39 substituted “of institutions” for “of for institutions”.
+<b>2009</b>—Subsec. (a)(1)(B). Pub. L. 111–39 substituted “of institutions” for “of for institutions”.
 
 #### Effective Date of 2009 Amendment
 

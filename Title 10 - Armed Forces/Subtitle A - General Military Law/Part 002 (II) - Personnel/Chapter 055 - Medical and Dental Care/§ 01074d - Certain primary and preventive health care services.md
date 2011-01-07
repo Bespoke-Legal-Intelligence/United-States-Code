@@ -2,7 +2,7 @@
 
 (a)
 
-Services Available.—(1) Female members and former members of the uniformed services entitled to medical care under section 1074 or 1074a of this title shall also be entitled to primary and preventive health care services for women as part of such medical care. The services described in paragraphs (1) and (2) of subsection (b) shall be provided under such procedures and at such intervals as the Secretary of Defense shall prescribe.
+Services Available.—(1) Female members and former members of the uniformed services entitled to medical care under section 1074 or1074a of this title shall also be entitled to primary and preventive health care services for women as part of such medical care. The services described in paragraphs (1) and (2) of subsection (b) shall be provided under such procedures and at such intervals as the Secretary of Defense shall prescribe.
 
 (2) Male members and former members of the uniformed services entitled to medical care under section 1074 or 1074a of this title shall also be entitled to preventive health care screening for colon or prostate cancer at such intervals and using such screening methods as the administering Secretaries consider appropriate.
 
@@ -30,13 +30,13 @@ Definition.—In this section, the term “primary and preventive health care se
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–364, §703(a)(1), inserted at end “The services described in paragraphs (1) and (2) of subsection (b) shall be provided under such procedures and at such intervals as the Secretary of Defense shall prescribe.”
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–364, §703(a)(1), inserted at end “The services described in paragraphs (1) and (2) of subsection (b) shall be provided under such procedures and at such intervals as the Secretary of Defense shall prescribe.”
 
 Subsec. (b)(1). Pub. L. 109–364, §703(a)(2)(A), substituted “Cervical cancer screening” for “Papanicolaou tests (pap smear)”.
 
 Subsec. (b)(2). Pub. L. 109–364, §703(a)(2)(B), substituted “Breast cancer screening” for “Breast examinations and mammography”.
 
-1996—Pub. L. 104–201, §701(a)(2)(A), amended catchline generally, substituting “Certain primary and preventive health care services” for “Primary and preventive health care services for women”.
+<b>1996</b>—Pub. L. 104–201, §701(a)(2)(A), amended catchline generally, substituting “Certain primary and preventive health care services” for “Primary and preventive health care services for women”.
 
 Subsec. (a). Pub. L. 104–201, §701(a)(1)(A), designated existing provisions as par. (1) and added par. (2).
 

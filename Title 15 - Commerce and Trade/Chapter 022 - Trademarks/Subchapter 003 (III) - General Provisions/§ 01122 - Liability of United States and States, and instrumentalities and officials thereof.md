@@ -2,7 +2,7 @@
 
 #### (a) Waiver of sovereign immunity by the United States
 
-The United States, all agencies and instrumentalities thereof, and all individuals, firms, corporations, other persons acting for the United States and with the authorization and consent of the United States, shall not be immune from suit in Federal or State court by any person, including any governmental or nongovernmental entity, for any violation under this chapter.
+The United States, all agencies and instrumentalities thereof, and all individuals, firms,corporations, other persons acting for the United States and with the authorization and consent of the United States, shall not be immune from suit in Federal or State court by any person, including any governmental or nongovernmental entity, for any violation under this chapter.
 
 #### (b) Waiver of sovereign immunity by States
 
@@ -20,7 +20,7 @@ A prior section 1122, act July 5, 1946, ch. 540, title VI, §40, 60 Stat. 440, r
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–43, §4(b)(2), added subsec. (a). Former subsec. (a) redesignated (b).
+<b>1999</b>—Subsec. (a). Pub. L. 106–43, §4(b)(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
 Subsec. (b). Pub. L. 106–43, §4(b)(1), (2), redesignated subsec. (a) as (b) and inserted heading. Former subsec. (b) redesignated (c).
 
@@ -28,5 +28,5 @@ Subsec. (c). Pub. L. 106–43, §4(b)(1), (3), redesignated subsec. (b) as (c) a
 
 #### Effective Date
 
-Section effective with respect to violations that occur on or after Oct. 27, 1992, see section 4 of Pub. L.102–542, set out as an Effective Date of 1992 Amendment note under section 1114 of this title.
+Section effective with respect to violations that occur on or after Oct. 27, 1992, see section 4 of Pub. L. 102–542, set out as an Effective Date of 1992 Amendment note under section 1114 of this title.
 

@@ -30,9 +30,9 @@ Historical and Revision Notes
 
 Sept. 19, 1951, ch. 407, §302, 65 Stat. 329; Apr. 1, 1954, ch. 127, §7, 68 Stat. 48.
 
-In subsection (b), the words “holding appointments or enlisted in the Regular Air Force as now or hereafter provided by law”, “and such other persons as are now or may hereafter be specified by law”, and “commissioned warrant officers” are omitted as surplusage, since the revised section lists all persons in the Regular Air Force. 10:1832(b) (last sentence) is omitted as executed.
+In subsection (b), the words “holding appointments or enlisted in the Regular Air Force as now or hereafter provided by law”, “and such other persons as are now or may hereafter be specified by law”, and “commissioned \* \* \* warrant officers” are omitted as surplusage, since the revised section lists all persons in the Regular Air Force. 10:1832(b) (last sentence) is omitted as executed.
 
 #### Amendments
 
-1958—Subsec. (b)(2). Pub. L. 85–600 included the registrar of the Air Force Academy.
+<b>1958</b>—Subsec. (b)(2). Pub. L. 85–600 included the registrar of the Air Force Academy.
 

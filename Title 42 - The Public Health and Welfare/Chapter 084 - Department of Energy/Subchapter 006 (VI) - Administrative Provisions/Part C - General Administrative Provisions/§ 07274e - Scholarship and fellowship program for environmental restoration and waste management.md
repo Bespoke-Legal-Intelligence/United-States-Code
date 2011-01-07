@@ -80,9 +80,9 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-1998—Subsec. (b)(1). Pub. L. 105–244 substituted “section 101 of the Higher Education Act of 1965” for “section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a))”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–244 substituted “section 101 of the Higher Education Act of 1965” for “section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a))”.
 
-1994—Subsec. (a). Pub. L. 103–337 inserted at end “The scholarship and fellowship program shall be known asthe ‘Marilyn Lloyd Scholarship and Fellowship Program’.”
+<b>1994</b>—Subsec. (a). Pub. L. 103–337 inserted at end “The scholarship and fellowship program shall be known as the ‘Marilyn Lloyd Scholarship and Fellowship Program’.”
 
 #### Effective Date of 1998 Amendment
 

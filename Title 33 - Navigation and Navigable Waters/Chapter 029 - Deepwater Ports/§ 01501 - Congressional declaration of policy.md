@@ -20,9 +20,9 @@
 
 #### Amendments
 
-2002—Subsec. (a)(5), (6). Pub. L. 107–295 inserted “or natural gas” after “oil” wherever appearing.
+<b>2002</b>—Subsec. (a)(5), (6). Pub. L. 107–295 inserted “or natural gas” after “oil” wherever appearing.
 
-1996—Subsec. (a)(5), (6). Pub. L. 104–324 added pars. (5) and (6).
+<b>1996</b>—Subsec. (a)(5), (6). Pub. L. 104–324 added pars. (5) and (6).
 
 #### Short Title of 1996 Amendment
 

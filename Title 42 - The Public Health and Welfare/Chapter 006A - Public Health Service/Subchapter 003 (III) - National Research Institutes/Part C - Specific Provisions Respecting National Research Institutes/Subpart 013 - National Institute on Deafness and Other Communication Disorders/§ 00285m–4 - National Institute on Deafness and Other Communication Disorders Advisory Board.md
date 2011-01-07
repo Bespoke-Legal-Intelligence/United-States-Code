@@ -46,7 +46,7 @@ The Advisory Board shall meet at the call of the chairman or upon request of the
 
 The Advisory Board shall—
 
-&emsp;(1) review and evaluate the implementation of the plan prepared under section 285m–1(a) ofthis title and periodically update the plan to ensure its continuing relevance;
+&emsp;(1) review and evaluate the implementation of the plan prepared under section 285m–1(a) of this title and periodically update the plan to ensure its continuing relevance;
 
 &emsp;(2) for the purpose of assuring the most effective use and organization of resources respecting deafness and other communication disorders, advise and make recommendations to the Congress, the Secretary, the Director of NIH, the Director of the Institute, and the heads of other appropriate Federal agencies for the implementation and revision of such plan; and
 
@@ -70,7 +70,7 @@ Pub. L. 100–553 and section 2613(a)(1) of Pub. L. 100–690 contained identica
 
 #### Amendments
 
-2007—Subsec. (j). Pub. L. 109–482 struck out subsec. (j) which read as follows: “The Advisory Board shall prepare an annual report for the Secretary which—
+<b>2007</b>—Subsec. (j). Pub. L. 109–482 struck out subsec. (j) which read as follows: “The Advisory Board shall prepare an annual report for the Secretary which—
 
 &emsp;“(1) describes the Advisory Board's activities in the fiscal year for which the report is made;
 
@@ -80,15 +80,15 @@ Pub. L. 100–553 and section 2613(a)(1) of Pub. L. 100–690 contained identica
 
 &emsp;“(4) contains the Advisory Board's recommendations (if any) for changes in the plan prepared under section 285m–1(a) of this title.”
 
-1993—Subsec. (b)(2)(A). Pub. L. 103–43 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1993</b>—Subsec. (b)(2)(A). Pub. L. 103–43 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1992—Subsec. (b)(2)(A). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsec. (b)(2)(A). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
 Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1989—Subsec. (k). Pub. L. 101–93 substituted “April 1, 1989” for “90 days after the date of the enactment of the National Institute on Deafness and Other Communication Disorders Act”.
+<b>1989</b>—Subsec. (k). Pub. L. 101–93 substituted “April 1, 1989” for “90 days after the date of the enactment of the National Institute on Deafness and Other Communication Disorders Act”.
 
-1988—Pub. L. 100–690, §2613(b)(2), amended this section to read as if the amendments made by Pub. L. 100–690, §2613(a)(1), which enacted this section, had not been enacted. See Codification note above.
+<b>1988</b>—Pub. L. 100–690, §2613(b)(2), amended this section to read as if the amendments made by Pub. L. 100–690, §2613(a)(1), which enacted this section, had not been enacted. See Codification note above.
 
 #### Effective Date of 2007 Amendment
 

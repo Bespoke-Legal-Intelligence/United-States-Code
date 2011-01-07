@@ -14,9 +14,9 @@ Changes in phraseology were also made.
 
 #### Amendments
 
-2006—Pub. L. 109–162 inserted at end “Nothing in this section applies to evidence of postage payment approved by the United States Postal Service.”
+<b>2006</b>—Pub. L. 109–162 inserted at end “Nothing in this section applies to evidence of postage payment approved by the United States Postal Service.”
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 
-1951—Act July 16, 1951, prohibited use of notices or advertising prints or labels on United States coins.
+<b>1951</b>—Act July 16, 1951, prohibited use of notices or advertising prints or labels on United States coins.
 

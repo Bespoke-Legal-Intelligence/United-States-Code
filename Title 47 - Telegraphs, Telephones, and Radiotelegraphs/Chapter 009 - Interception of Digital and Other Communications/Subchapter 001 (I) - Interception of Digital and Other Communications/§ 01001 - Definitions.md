@@ -10,7 +10,7 @@ For purposes of this subchapter—
 
 &emsp;(4) The term “electronic messaging services” means software-based services that enable the sharing of data, images, sound, writing, or other information among computing devices controlled by the senders or recipients of the messages.
 
-&emsp;(5) The term “government” means the government of the United States and any agencyor instrumentality thereof, the District of Columbia, any commonwealth, territory, or possession of the United States, and any State or political subdivision thereof authorized by law to conduct electronic surveillance.
+&emsp;(5) The term “government” means the government of the United States and any agency or instrumentality thereof, the District of Columbia, any commonwealth, territory, or possession of the United States, and any State or political subdivision thereof authorized by law to conduct electronic surveillance.
 
 &emsp;(6) The term “information services”—
 

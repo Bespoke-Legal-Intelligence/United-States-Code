@@ -36,7 +36,7 @@
 
 #### (ii) Additional considerations
 
-&emsp;&emsp;&emsp;In the event that the Secretary makes a determination, set forth in a proposed tobacco product standard in a proposed rule, that it is appropriate for the protection of public health to require the reduction or elimination of an additive, constituent (including a smoke constituent), or other component of a tobacco product becausethe Secretary has found that the additive, constituent, or other component is or may be harmful, any party objecting to the proposed standard on the ground that the proposed standard will not reduce or eliminate the risk of illness or injury may provide for the Secretary's consideration scientific evidence that demonstrates that the proposed standard will not reduce or eliminate the risk of illness or injury.
+&emsp;&emsp;&emsp;In the event that the Secretary makes a determination, set forth in a proposed tobacco product standard in a proposed rule, that it is appropriate for the protection of public health to require the reduction or elimination of an additive, constituent (including a smoke constituent), or other component of a tobacco product because the Secretary has found that the additive, constituent, or other component is or may be harmful, any party objecting to the proposed standard on the ground that the proposed standard will not reduce or eliminate the risk of illness or injury may provide for the Secretary's consideration scientific evidence that demonstrates that the proposed standard will not reduce or eliminate the risk of illness or injury.
 
 #### (4) Content of tobacco product standards
 
@@ -110,7 +110,7 @@
 
 #### (3) Finding
 
-&emsp;A notice of proposed rulemaking for the revocation of a tobacco product standard shall set forth a finding with supporting justification that the tobacco product standard is no longerappropriate for the protection of the public health.
+&emsp;A notice of proposed rulemaking for the revocation of a tobacco product standard shall set forth a finding with supporting justification that the tobacco product standard is no longer appropriate for the protection of the public health.
 
 #### (4) Comment
 

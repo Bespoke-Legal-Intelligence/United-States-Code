@@ -8,16 +8,19 @@
 | [7504\.](%C2%A7%2007504%20-%20Travel%20and%20expense%20reimbursement.md) | Travel and expense reimbursement. |
 | [7505\.](%C2%A7%2007505%20-%20Review%20of%20information%20in%20National%20Driver%20Register.md) | Review of information in National Driver Register. |
 | [7506\.](%C2%A7%2007506%20-%20Convention%20tonnage%20for%20licenses%2C%20certificates%2C%20and%20documents.md) | Convention tonnage for licenses, certificates, and documents. |
+| [7507\.](%C2%A7%2007507%20-%20Authority%20to%20extend%20the%20duration%20of%20licenses%2C%20certificates%20of%20registry%2C%20and%20merchant%20mariner%20documents.md) | Authority to extend the duration of licenses, certificates of registry, and merchant mariner documents. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1996—Pub. L. 104–324, title VII, §745(b), Oct. 19, 1996, 110 Stat. 3943, added item 7506.
+<b>2010</b>—Pub. L. 111–281, title VI, §615(b), Oct. 15, 2010, 124 Stat. 2972, added item 7507.
 
-1990—Pub. L. 101–380, title IV, §4105(c), Aug. 18, 1990, 104 Stat. 513, added item 7505.
+<b>1996</b>—Pub. L. 104–324, title VII, §745(b), Oct. 19, 1996, 110 Stat. 3943, added item 7506.
 
-1986—Pub. L. 99–640, §10(b)(2)(B), Nov. 10, 1986, 100 Stat. 3550, added item 7504.
+<b>1990</b>—Pub. L. 101–380, title IV, §4105(c), Aug. 18, 1990, 104 Stat. 513, added item 7505.
+
+<b>1986</b>—Pub. L. 99–640, §10(b)(2)(B), Nov. 10, 1986, 100 Stat. 3550, added item 7504.
 
 
 ---
@@ -30,3 +33,4 @@
 - [&sect; 07504 - Travel and expense reimbursement](%C2%A7%2007504%20-%20Travel%20and%20expense%20reimbursement.md)
 - [&sect; 07505 - Review of information in National Driver Register](%C2%A7%2007505%20-%20Review%20of%20information%20in%20National%20Driver%20Register.md)
 - [&sect; 07506 - Convention tonnage for licenses, certificates, and documents](%C2%A7%2007506%20-%20Convention%20tonnage%20for%20licenses%2C%20certificates%2C%20and%20documents.md)
+- [&sect; 07507 - Authority to extend the duration of licenses, certificates of registry, and merchant mariner documents](%C2%A7%2007507%20-%20Authority%20to%20extend%20the%20duration%20of%20licenses%2C%20certificates%20of%20registry%2C%20and%20merchant%20mariner%20documents.md)

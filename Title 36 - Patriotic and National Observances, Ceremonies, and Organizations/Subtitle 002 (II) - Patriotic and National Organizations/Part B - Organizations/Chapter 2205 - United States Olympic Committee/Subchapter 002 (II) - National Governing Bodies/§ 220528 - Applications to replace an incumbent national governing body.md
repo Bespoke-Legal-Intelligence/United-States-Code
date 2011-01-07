@@ -124,7 +124,7 @@ In subsection (g), before clause (1), the words “with sections 220522, 220524,
 
 #### Amendments
 
-1998—Subsec. (c)(1)(A). Pub. L. 105–277, §142(p)(1), substituted “Olympic Games or the Paralympic Games, or in both” for “Olympic Games or both”.
+<b>1998</b>—Subsec. (c)(1)(A). Pub. L. 105–277, §142(p)(1), substituted “Olympic Games or the Paralympic Games, or in both” for “Olympic Games or both”.
 
 Subsec. (c)(2). Pub. L. 105–277, §142(p)(2), (3), substituted “certified” for “registered” and substituted “body and with any other organization that has filed an application.” for “body.”
 

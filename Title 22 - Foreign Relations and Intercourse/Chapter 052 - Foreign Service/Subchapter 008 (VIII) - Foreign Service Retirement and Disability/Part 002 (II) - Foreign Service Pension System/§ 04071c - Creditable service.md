@@ -47,7 +47,7 @@ Credit shall be given under this System to a participant for a period of prior s
 
 A participant who, while on approved leave without pay, serves as a full-time paid employee of a Member or office of the Congress shall continue to make contributions to the Fund based upon the Foreign Service salary rate that would be in effect if the participant were in a pay status. The participant's employing Member or office in the Congress shall make a contribution (from the appropriation or fund which is used for payment of the salary of the participant) determined under section 4071f(a) of this title to the Treasury of the United States to the credit of the Fund. All periods of service for which full contributions to the Fund are made under this subsection shall be counted as creditable service for purposes of this part and shall not, unless all retirement credit is transferred, be counted as creditable service under any other Government retirement system.
 
-(Pub. L. 96–465, title I, §854, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 616; amended Pub. L. 99–556, title IV, §405, Oct. 27, 1986, 100 Stat. 3137; Pub. L. 100–238, title II, §242, Jan. 8, 1988, 101 Stat. 1776; Pub. L. 103–178, titleII, §204(b)(2), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 105–33, title VII, §7001(e)(1)(B), Aug. 5, 1997, 111 Stat. 661; Pub. L. 106–346, §101(a) \[title V, §505(e)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–54.)
+(Pub. L. 96–465, title I, §854, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 616; amended Pub. L. 99–556, title IV, §405, Oct. 27, 1986, 100 Stat. 3137; Pub. L. 100–238, title II, §242, Jan. 8, 1988, 101 Stat. 1776; Pub. L. 103–178, title II, §204(b)(2), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 105–33, title VII, §7001(e)(1)(B), Aug. 5, 1997, 111 Stat. 661; Pub. L. 106–346, §101(a) \[title V, §505(e)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–54.)
 
 #### References in Text
 
@@ -65,9 +65,9 @@ The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(1)(C), is
 
 #### Amendments
 
-2000—Subsec. (c)(1). Pub. L. 106–346, in concluding provisions, substituted “December 31, 2000” for “December 31, 2002”, and in table in concluding provisions, struck out item at end relating to service period January 1, 2001, to December 31, 2002.
+<b>2000</b>—Subsec. (c)(1). Pub. L. 106–346, in concluding provisions, substituted “December 31, 2000” for “December 31, 2002”, and in table in concluding provisions, struck out item at end relating to service period January 1, 2001, to December 31, 2002.
 
-1997—Subsec. (c). Pub. L. 105–33 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Credit shall be given under this System to a participant for a period of prior satisfactory service as—
+<b>1997</b>—Subsec. (c). Pub. L. 105–33 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Credit shall be given under this System to a participant for a period of prior satisfactory service as—
 
 &emsp;“(1) a volunteer or volunteer leader under the Peace Corps Act (22 U.S.C. 2501 et seq.),
 
@@ -77,13 +77,13 @@ The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(1)(C), is
 
 > if the participant makes a payment to the Fund equal to 3 percent of pay received for the volunteer service (as determined in accordance with regulations of the Secretary of State consistent with regulations for making corresponding determinations under chapter 83, title 5) together with interest determined under regulations issued by the Secretary of State.”
 
-1993—Subsec. (a)(3). Pub. L. 103–178, §204(b)(1), substituted “the Central Intelligence Agency Retirement Act (50 U.S.C. 2011 et seq.)” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
+<b>1993</b>—Subsec. (a)(3). Pub. L. 103–178, §204(b)(1), substituted “the Central Intelligence Agency RetirementAct (50 U.S.C. 2011 et seq.)” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
 
 Subsec. (d). Pub. L. 103–178, §204(b)(2)(B), substituted “the Central Intelligence Agency Retirement Act (50 U.S.C. 2151 et seq.)” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
 
-1988—Subsec. (e). Pub. L. 100–238 struck out “matching” after “shall make a” and inserted “determined under section 4071f(a) of this title” after “participant)”.
+<b>1988</b>—Subsec. (e). Pub. L. 100–238 struck out “matching” after “shall make a” and inserted “determined under section 4071f(a) of this title” after “participant)”.
 
-1986—Subsec. (d). Pub. L. 99–556, §405(a), which directed that subsec. (d) be amended by substituting “which was deducted and withheld from the individual's basic pay under the other retirement system” for “which would have been deducted from pay under section 4071c(a) of this title had the individual been a participant”, was executed by making the substitution for “which would have been deducted from pay under section 4071e(a) of this title had the individual been a participant”, as the probable intent of Congress.
+<b>1986</b>—Subsec. (d). Pub. L. 99–556, §405(a), which directed that subsec. (d) be amended by substituting “which was deducted and withheld from the individual's basic pay under the other retirement system” for “which would have been deducted from pay under section 4071c(a) of this title had the individual been a participant”, was executed by making the substitution for “which would have been deducted from pay under section 4071e(a) of this title had the individual been a participant”, as the probable intent of Congress.
 
 Subsec. (e). Pub. L. 99–556, §405(b), added subsec. (e).
 

@@ -336,27 +336,27 @@ Effective date and duration.—This subsection shall only apply with respect to 
 
 #### Amendments
 
-2009—Subsec. (m)(2)(F) to (I). Pub. L. 111–31, §201(a), added subpars. (F) to (I) and struck out former subpar. (F) which read as follows: “for months after fiscal year 2013, $100.”
+<b>2009</b>—Subsec. (m)(2)(F) to (I). Pub. L. 111–31, §201(a), added subpars. (F) to (I) and struck out former subpar. (F) which read as follows: “for months after fiscal year 2013, $100.”
 
 Subsec. (m)(6). Pub. L. 111–31, §201(b), substituted “September 30, 2017” for “February 28, 2016” and substituted “October 1, 2017” for “March 1, 2016” in two places.
 
-2008—Subsec. (c)(3). Pub. L. 110–181, §643(a), added par. (3).
+<b>2008</b>—Subsec. (c)(3). Pub. L. 110–181, §643(a), added par. (3).
 
 Subsec. (m). Pub. L. 110–181, §644, added subsec. (m).
 
 Subsec. (m)(1)(B). Pub. L. 110–417 substituted “subsection (a)(1) of section 1448 of this title or by reason of coverage under subsection (d) of such section” for “section 1448(a)(1) of this title”.
 
-2000—Subsec. (j)(1). Pub. L. 106–398 substituted “A reserve-component annuity shall be effective in accordance with the designation made under section 1448(e) of this title by the person providing the annuity.” for “An annuity elected by a person providing a reserve-component annuity shall be effective in accordance with the designation made by such person under section 1448(e) of this title.”
+<b>2000</b>—Subsec. (j)(1). Pub. L. 106–398 substituted “A reserve-component annuity shall be effective in accordance with the designation made under section 1448(e) of this title by the person providing the annuity.” for “An annuity elected by a person providing a reserve-component annuity shall be effective in accordance with the designation made by such person under section 1448(e) of this title.”
 
-1998—Subsec. (f)(3)(D). Pub. L. 105–261 substituted “the day referred to in section 1448(b)(3)(E)(ii) of this title” for “the first day of the first month which begins after the date of the court order or filing involved”.
+<b>1998</b>—Subsec. (f)(3)(D). Pub. L. 105–261 substituted “the day referred to in section 1448(b)(3)(E)(ii) of this title” for “the first day of the first month which begins after the date of the court order or filing involved”.
 
-1997—Subsec. (f)(1)(C). Pub. L. 105–85 inserted at end “Notwithstanding the preceding sentence, a change of election under this subsection to provide an annuity to a spouse instead of a former spouse may (subject to paragraph (2)) be made at any time after the person providing the annuity remarries without regard to the time limitation in section 1448(a)(5)(B) of this title.”
+<b>1997</b>—Subsec. (f)(1)(C). Pub. L. 105–85 inserted at end “Notwithstanding the preceding sentence, a change of election under this subsection to provide an annuity to a spouse instead of a former spouse may (subject to paragraph (2)) be made at any time after the person providing the annuity remarries without regard to the time limitation in section 1448(a)(5)(B) of this title.”
 
-1996—Pub. L. 104–201 amended section generally, revising and restating provisions relating to payment of annuities and beneficiaries and inserting subsec., par., and subpar. headings.
+<b>1996</b>—Pub. L. 104–201 amended section generally, revising and restating provisions relating to payment of annuities and beneficiaries and inserting subsec., par., and subpar. headings.
 
-1994—Subsecs. (c), (k)(1). Pub. L. 103–337 substituted “section 1311(a) of title 38” for “section 411(a) of title 38”.
+<b>1994</b>—Subsecs. (c), (k)(1). Pub. L. 103–337 substituted “section 1311(a) of title 38” for “section 411(a) of title 38”.
 
-1989—Subsec. (f)(3)(B). Pub. L. 101–189, §1407(a)(4), substituted “within one year of the date of the court order or filing involved” for “before October 1, 1985, or within one year of the date of the court order or filing involved, whichever is later”.
+<b>1989</b>—Subsec. (f)(3)(B). Pub. L. 101–189, §1407(a)(4), substituted “within one year of the date of the court order or filing involved” for “before October 1, 1985, or within one year of the date of the court order or filing involved, whichever is later”.
 
 Subsec. (h). Pub. L. 101–189, §1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
@@ -364,13 +364,13 @@ Subsec. (<i>l</i>)(1). Pub. L. 101–189, §1407(a)(2), substituted “reserve-c
 
 Subsec. (<i>l</i>)(2). Pub. L. 101–189, §1407(a)(3), struck out “or retainer” after “of which the retired”.
 
-1987—Subsec. (b). Pub. L. 100–26, §3(3), made technical amendment to directory language of Pub. L. 99–661, §643(a). See 1986 Amendment note below.
+<b>1987</b>—Subsec. (b). Pub. L. 100–26, §3(3), made technical amendment to directory language of Pub. L. 99–661, §643(a). See 1986 Amendment note below.
 
 Subsec. (f)(3)(A). Pub. L. 100–224 struck out second of two commas after “required by a court order to make such an election”.
 
 Subsec. (k)(1). Pub. L. 100–180 substituted “55 years of age” for “60 years of age”.
 
-1986—Subsec. (b). Pub. L. 99–661, §643(a), as amended by Pub. L. 100–26, §3(3), substituted “age 55” for “age 60” in two places.
+<b>1986</b>—Subsec. (b). Pub. L. 99–661, §643(a), as amended by Pub. L. 100–26, §3(3), substituted “age 55” for “age 60” in two places.
 
 Subsec. (c). Pub. L. 99–661, §1343(a)(8)(C), substituted “entitled to dependency and indemnity compensation” for “entitled to compensation”.
 
@@ -386,7 +386,7 @@ Subsec. (f)(3)(A). Pub. L. 99–661, §641(b)(3), struck out “voluntary” bef
 
 Subsec. (f)(4). Pub. L. 99–661, §641(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Nothing in this chapter authorizes any court to order any person to elect under section 1448(b) of this title to provide an annuity to a former spouse unless such person has voluntarily agreed in writing to make such election.”
 
-1985—Subsec. (a)(1), (2). Pub. L. 99–145, §723(a)(1), inserted “or the eligible former spouse” after “widow or widower”.
+<b>1985</b>—Subsec. (a)(1), (2). Pub. L. 99–145, §723(a)(1), inserted “or the eligible former spouse” after “widow or widower”.
 
 Subsec. (a)(3). Pub. L. 99–145, §723(a)(2), inserted “(with the concurrence of the person's spouse, if required under section 1448(a)(3) of this title)” after “title applies”, and “or former spouse” after “the spouse”.
 
@@ -430,13 +430,13 @@ Subsec. (<i>l</i>)(3)(A). Pub. L. 99–145, §1303(a)(11)(B), struck out “(not
 
 Subsec. (<i>l</i>)(3)(A)(i). Pub. L. 99–145, §719(8)(A), substituted “retired pay” for “retried or retainer pay”.
 
-1984—Subsec. (f)(3), (4). Pub. L. 98–525, §644, added par. (3) and redesignated former par. (3) as (4).
+<b>1984</b>—Subsec. (f)(3), (4). Pub. L. 98–525, §644, added par. (3) and redesignated former par. (3) as (4).
 
 Subsec. (i). Pub. L. 98–525, §642(b)(1), substituted “Except as provided in subsection (<i>l</i>), an” for “An”.
 
 Subsec. (<i>l</i>). Pub. L. 98–525, §642(b)(2), added subsec. (<i>l</i>).
 
-1983—Subsec. (a)(4). Pub. L. 98–94, §941(a)(3)(A), struck out “at the time the person to whom section 1448 applies became entitled to retired or retainer pay” after “section 1448(b) of this title”.
+<b>1983</b>—Subsec. (a)(4). Pub. L. 98–94, §941(a)(3)(A), struck out “at the time the person to whom section 1448 applies became entitled to retired or retainer pay” after “section 1448(b) of this title”.
 
 Subsec. (f)(1). Pub. L. 98–94, §941(a)(3)(B), inserted “(without regard to the eligibility of the person making the change of election to make an election under such section)” after “section 1448(a)(5) of this title”.
 
@@ -444,13 +444,13 @@ Pub. L. 98–94, §941(c)(3)(A), struck out “of this subsection” after “su
 
 Subsec. (f)(2). Pub. L. 98–94, §941(c)(3)(B), substituted “or annulment,” for “annulment, or legal separation,”.
 
-1982—Subsec. (a)(4). Pub. L. 97–252, §1003(c), substituted “former spouse or other natural person” for “natural person” and “unless the election to provide an annuity to the former spouse or other natural person has been changed as provided in subsection (f)” for “if there is no eligible beneficiary under clause (1) or clause (2)”.
+<b>1982</b>—Subsec. (a)(4). Pub. L. 97–252, §1003(c), substituted “former spouse or other natural person” for “natural person” and “unless the election to provide an annuity to the former spouse or other natural person has been changed as provided in subsection (f)” for “if there is no eligible beneficiary under clause (1) or clause (2)”.
 
 Subsec. (f). Pub. L. 97–252, §1003(d), designated existing provisions as par. (1), substituted “A person who elects to provide an annuity to a person designated by him under section 1448(b) of this title may, subject to paragraph (2) of this subsection,” for “An unmarried person who elects to provide an annuity to a person designated by him under subsection (a)(4), but who later marries or acquires a dependent child,”, inserted provision that the Secretary concerned notify the former spouse or such other natural person previously designated under section 1448(b) of any such change in election, and added pars. (2) and (3).
 
-1981—Subsec. (d). Pub. L. 97–22 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1981</b>—Subsec. (d). Pub. L. 97–22 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-1978—Subsec. (a). Pub. L. 95–397, §203(1), inserted “(or on such other day as he may provide under subsection (j))” after “death of a person to whom section 1448 of this title applies”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–397, §203(1), inserted “(or on such other day as he may provide under subsection (j))” after “death of a person to whom section 1448 of this title applies”.
 
 Subsec. (d). Pub. L. 95–397, §207(b), substituted “section 8339(j)” for “section 8339(i)”.
 
@@ -458,7 +458,7 @@ Subsec. (f). Pub. L. 95–397, §207(c), substituted “section 1448(a)(5)” fo
 
 Subsecs. (j), (k). Pub. L. 95–397, §203(2), added subsecs. (j) and (k).
 
-1976—Subsec. (a)(3), (4). Pub. L. 94–496, §1(3), added par. (3) and redesignated former par. (3) as (4).
+<b>1976</b>—Subsec. (a)(3), (4). Pub. L. 94–496, §1(3), added par. (3) and redesignated former par. (3) as (4).
 
 Subsec. (f). Pub. L. 94–496, §1(4), substituted “(a)(4)” for “(a)(3)”.
 

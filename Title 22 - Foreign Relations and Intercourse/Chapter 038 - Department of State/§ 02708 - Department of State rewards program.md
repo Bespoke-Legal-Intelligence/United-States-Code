@@ -16,7 +16,7 @@
 
 #### (b) Rewards authorized
 
-In the sole discretion of the Secretary (except as provided in subsection (c)(2) of this section) and in consultation, as appropriate, with the Attorney General, the Secretary may pay a reward to any individual who furnishes information leading to—
+In the sole discretion of the Secretary (except as provided in subsection (c)(2) of this section)and in consultation, as appropriate, with the Attorney General, the Secretary may pay a reward to any individual who furnishes information leading to—
 
 &emsp;(1) the arrest or conviction in any country of any individual for the commission of an act of international terrorism against a United States person or United States property;
 
@@ -112,7 +112,7 @@ An officer or employee of any entity of Federal, State, or local government or o
 
 #### (1) Reports on payment of rewards
 
-&emsp;Not later than 30 days after the payment of any reward under this section, the Secretary shall submit a report to the appropriate congressional committees with respect to such reward. The report, which may be submitted inclassified form if necessary, shall specify the amount of the reward paid, to whom the reward was paid, and the acts with respect to which the reward was paid. The report shall also discuss the significance of the information for which the reward was paid in dealing with those acts.
+&emsp;Not later than 30 days after the payment of any reward under this section, the Secretary shall submit a report to the appropriate congressional committees with respect to such reward. The report, which may be submitted in classified form if necessary, shall specify the amount of the reward paid, to whom the reward was paid, and the acts with respect to which the reward was paid. The report shall also discuss the significance of the information for which the reward was paid in dealing with those acts.
 
 #### (2) Annual reports
 
@@ -178,7 +178,7 @@ As used in this section:
 
 &emsp;&emsp;(B) an alien lawfully present in the United States.
 
-(Aug. 1, 1956, ch. 841, title I, §36, as added Pub. L. 98–533, title I, §102, Oct. 19, 1984, 98 Stat. 2708; amended Pub. L. 99–399, title V, §502, Aug. 27, 1986, 100 Stat. 869; Pub. L. 100–690, title IV, §4602, Nov. 18, 1988, 102 Stat. 4287; Pub. L. 101–231, §13(a), Dec. 13, 1989, 103 Stat. 1963; Pub. L. 101–246, title X, §1001, Feb. 16, 1990, 104 Stat. 86; Pub. L. 103–236, title I, §133(a)(1), title VIII, §827, Apr. 30, 1994, 108 Stat. 395, 519; Pub. L. 104–134, title I, §101\[(a)\] \[title IV, §406\], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2202, Oct. 21, 1998, 112 Stat. 2681–805; Pub. L. 105–323, title I, §101, Oct. 30, 1998, 112 Stat. 3029; Pub. L. 107–56, title V, §502, Oct. 26, 2001, 115 Stat. 364; Pub. L. 108–447, div. B, title IV, §405(a)–(d), Dec. 8, 2004, 118 Stat. 2902, 2903; Pub. L. 110–181, div. A, title XII, §1255(a), Jan. 28, 2008, 122 Stat. 402.)
+(Aug. 1, 1956, ch. 841, title I, §36, as added Pub. L. 98–533, title I, §102, Oct. 19, 1984, 98 Stat. 2708; amended Pub. L. 99–399, title V, §502, Aug. 27,1986, 100 Stat. 869; Pub. L. 100–690, title IV, §4602, Nov. 18, 1988, 102 Stat. 4287; Pub. L. 101–231, §13(a), Dec. 13, 1989, 103 Stat. 1963; Pub. L. 101–246, title X, §1001, Feb. 16, 1990, 104 Stat. 86; Pub. L. 103–236, title I, §133(a)(1), title VIII, §827, Apr. 30, 1994, 108 Stat. 395, 519; Pub. L. 104–134, title I, §101\[(a)\] \[title IV, §406\], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2202, Oct. 21, 1998, 112 Stat. 2681–805; Pub. L. 105–323, title I, §101, Oct. 30, 1998, 112 Stat. 3029; Pub. L. 107–56, title V, §502, Oct. 26, 2001, 115 Stat. 364; Pub. L. 108–447, div. B, title IV, §405(a)–(d), Dec. 8, 2004, 118 Stat. 2902, 2903; Pub. L. 110–181, div. A, title XII, §1255(a), Jan. 28, 2008, 122 Stat. 402.)
 
 #### References in Text
 
@@ -190,9 +190,9 @@ A prior section 36 of act Aug. 1, 1956, was renumbered section 37 by section 102
 
 #### Amendments
 
-2008—Subsec. (e)(1). Pub. L. 110–181 inserted at end “The Secretary shall authorize a reward of $50,000,000 for the capture or death or information leading to the capture or death of Osama bin Laden.”
+<b>2008</b>—Subsec. (e)(1). Pub. L. 110–181 inserted at end “The Secretary shall authorize a reward of $50,000,000 for the capture or death or information leading to the capture or death of Osama bin Laden.”
 
-2004—Subsec. (b)(7). Pub. L. 108–447, §405(a), added par. (7).
+<b>2004</b>—Subsec. (b)(7). Pub. L. 108–447, §405(a), added par. (7).
 
 Subsec. (e)(1). Pub. L. 108–447, §405(b), substituted “$25,000,000” for “$5,000,000”, struck out period after “terrorist acts.”, and inserted at end “Without first making such determination, the Secretary may authorize a reward of up to twice the amount specified in this paragraph for the capture or information leading to the capture of a leader of a foreign terrorist organization.”
 
@@ -200,7 +200,7 @@ Subsec. (e)(6). Pub. L. 108–447, §405(c), added par. (6).
 
 Subsecs. (i) to (k). Pub. L. 108–447, §405(d), added subsec. (i) and redesignated former subsecs. (i) and (j) as (j) and (k), respectively.
 
-2001—Subsec. (b)(4). Pub. L. 107–56, §502(1)(A), struck out “or” at end.
+<b>2001</b>—Subsec. (b)(4). Pub. L. 107–56, §502(1)(A), struck out “or” at end.
 
 Subsec. (b)(5). Pub. L. 107–56, §502(1)(B), substituted “, including by dismantling an organization in whole or significant part; or” for period at end.
 
@@ -218,23 +218,23 @@ Allocation of funds.—To the maximum extent practicable, funds made available t
 
 Subsec. (e)(1). Pub. L. 107–56, §502(3), inserted “, except as personally authorized by the Secretary of State if he determines that offer or payment of an award of a larger amount is necessary to combat terrorism or defend the Nation against terrorist acts.” after “$5,000,000”.
 
-1998—Pub. L. 105–323 generally amended section substantially similar to general amendment by Pub. L. 105–277, except that the maximum reward in subsec. (e)(1) was increased from $2,000,000 to $5,000,000.
+<b>1998</b>—Pub. L. 105–323 generally amended section substantially similar to general amendment by Pub. L. 105–277, except that the maximum reward in subsec. (e)(1) was increased from $2,000,000 to $5,000,000.
 
 Pub. L. 105–277 generally amended section revising and restating provisions relating to Department of State program authorizing rewards for information relating to arrests or convictions with respect to international terrorism or drug trafficking.
 
-1996—Subsec. (a)(1). Pub. L. 104–134 which directed substitution of “shall establish and publicize a program under which rewards may be paid” for “may pay a reward” in section 36(a)(1) of the State Department Authorities Act of 1956 was executed to subsec. (a)(1) of this section, section 36(a)(1) of the State Department Basic Authorities Act of 1956, to reflect the probable intent of Congress.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–134 which directed substitution of “shall establish and publicize a program under which rewards may be paid” for “may pay a reward” in section 36(a)(1) of the State Department Authorities Act of 1956 was executed to subsec. (a)(1) of this section, section 36(a)(1) of the State Department Basic Authorities Act of 1956, to reflect the probable intent of Congress.
 
-1994—Subsec. (a). Pub. L. 103–236, §827, designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
+<b>1994</b>—Subsec. (a). Pub. L. 103–236, §827, designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
 
 Pub. L. 103–236, §133(a)(1), struck out “and is primarily outside the territorial jurisdiction of the United States” after “United States property” in concluding provisions.
 
-1990—Subsec. (c). Pub. L. 101–246, which directed amendment of subsec. (c) by substituting “$2,000,000” for “$500,000”, could not be executed because “$500,000” did not appear after execution of the amendment by Pub. L. 101–231. See 1989 Amendment note below.
+<b>1990</b>—Subsec. (c). Pub. L. 101–246, which directed amendment of subsec. (c) by substituting “$2,000,000” for “$500,000”, could not be executed because “$500,000” did not appear after execution of the amendment by Pub. L. 101–231. See 1989 Amendment note below.
 
-1989—Subsec. (c). Pub. L. 101–231 substituted “$2,000,000” for “$500,000”.
+<b>1989</b>—Subsec. (c). Pub. L. 101–231 substituted “$2,000,000” for “$500,000”.
 
-1988—Subsec. (g). Pub. L. 100–690 amended second sentence generally. Prior to amendment, second sentence read as follows: “In addition to the amount authorized by the preceding sentence, there are authorized to be appropriated $10,000,000 for fiscal year 1987 for ‘Administration of Foreign Affairs’ for use in paying rewards under this section, up to $5,000,000 of which may be used for rewards for information described in subsection (b)(1) of this section.”
+<b>1988</b>—Subsec. (g). Pub. L. 100–690 amended second sentence generally. Prior to amendment, second sentence read as follows: “In addition to the amount authorized by the preceding sentence, there are authorized to be appropriated $10,000,000 for fiscal year 1987 for ‘Administration of Foreign Affairs’ for use in paying rewards under this section, up to $5,000,000 of which may be used for rewards for information described in subsection (b)(1) of this section.”
 
-1986—Subsecs. (b), (c). Pub. L. 99–399, §502(a), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
+<b>1986</b>—Subsecs. (b), (c). Pub. L. 99–399, §502(a), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 99–399, §502(a)(1), (c)(1), redesignated former subsec. (c) as (d), and substituted “subsection (a) of this section” for “this section”. Former subsec. (d) redesignated (e).
 
@@ -256,7 +256,7 @@ Amendment by section 827 of Pub. L. 103–236 effective 60 days after Apr. 30, 1
 
 #### Rewards for Information Concerning Individuals Sought for Serious Violations of International Humanitarian Law Relating to Former Yugoslavia or Rwanda
 
-Pub. L. 105–323, title I, §102, Oct. 30, 1998, 112 Stat. 3032, as amended by Pub. L. 106–277, §1, Oct. 2, 2000, 114 Stat. 813; Pub. L. 107–228, div. A, title VI, §697(d), Sept. 30, 2002, 116 Stat. 1418, provided that:
+Pub. L. 105–323, title I, §102, Oct. 30, 1998, 112 Stat. 3032, as amended by Pub. L. 106–277, §1, Oct. 2, 2000, 114Stat. 813; Pub. L. 107–228, div. A, title VI, §697(d), Sept. 30, 2002, 116 Stat. 1418, provided that:
 
 “(a)
 

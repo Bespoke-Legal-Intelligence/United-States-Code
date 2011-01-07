@@ -30,5 +30,5 @@ The words “Theodore Roosevelt Association” are substituted for “Roosevelt 
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–284 substituted “With” for “with” in heading.
+<b>2006</b>—Subsec. (b). Pub. L. 109–284 substituted “With” for “with” in heading.
 

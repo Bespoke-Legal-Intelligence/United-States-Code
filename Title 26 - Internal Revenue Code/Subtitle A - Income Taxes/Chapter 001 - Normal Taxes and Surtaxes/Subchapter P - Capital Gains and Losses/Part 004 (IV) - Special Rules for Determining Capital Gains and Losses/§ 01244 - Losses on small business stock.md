@@ -92,15 +92,15 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### Amendments
 
-1984—Subsecs. (c)(1), (d)(2). Pub. L. 98–369 substituted “stock in a” for “common stock in a”.
+<b>1984</b>—Subsecs. (c)(1), (d)(2). Pub. L. 98–369 substituted “stock in a” for “common stock in a”.
 
-1978—Subsec. (b). Pub. L. 95–600, §345(b), substituted in par. (1) “$50,000” for “$25,000” and in par. (2) “$100,000” for “$50,000”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–600, §345(b), substituted in par. (1) “$50,000” for “$25,000” and in par. (2) “$100,000” for “$50,000”.
 
 Subsec. (c). Pub. L. 95–600, §345(a), (c), among other changes, substituted provisions permitting a corporation to issue common stock under the provisions of this section without a written plan for provisions requiring that a written plan to issue section 1244 stock must be adopted by the issuing corporation and increased the amount of section 1244 stock that a qualified small business corporation may issue from $500,000 to $1,000,000.
 
 Subsec. (d)(2). Pub. L. 95–600, §345(d), substituted “subparagraph (C)” for “subparagraph (E)” and “paragraphs (1)(C) and (3)(A)” for “paragraphs (1)(E) and (2)(A)”.
 
-1976—Subsecs. (a), (b). Pub. L. 94–455, §1901(b)(3)(G), substituted “an ordinary loss” for “a loss from the sale or exchange of an asset which is not a capital asset”.
+<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455, §1901(b)(3)(G), substituted “an ordinary loss” for “a loss from the sale or exchange of an asset which is not a capital asset”.
 
 Subsec. (c)(1)(E). Pub. L. 94–455, §1901(b)(1)(W), struck out reference to section 242 of this title.
 

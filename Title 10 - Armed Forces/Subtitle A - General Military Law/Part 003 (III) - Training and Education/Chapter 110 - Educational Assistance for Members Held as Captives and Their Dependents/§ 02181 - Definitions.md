@@ -10,9 +10,9 @@ In this chapter:
 
 #### Amendments
 
-1987—Pub. L. 100–26, substituted “The terms ‘captive’ ” for “ ‘Captive’ ” in par. (1) and “The term ‘dependent’ ” for “ ‘Dependent’ ” in par. (2).
+<b>1987</b>—Pub. L. 100–26, substituted “The terms ‘captive’ ” for “ ‘Captive’ ” in par. (1) and “The term ‘dependent’ ” for “ ‘Dependent’ ” in par. (2).
 
 #### Effective Date
 
-Section 806(d)(3) of Pub. L. 99–399 provided that: “Chapter 110 of title 10, United States Code, as addedby paragraph (1), shall apply with respect to persons whose captive status begins after January 21, 1981.”
+Section 806(d)(3) of Pub. L. 99–399 provided that: “Chapter 110 of title 10, United States Code, as added by paragraph (1), shall apply with respect to persons whose captive status begins after January 21, 1981.”
 

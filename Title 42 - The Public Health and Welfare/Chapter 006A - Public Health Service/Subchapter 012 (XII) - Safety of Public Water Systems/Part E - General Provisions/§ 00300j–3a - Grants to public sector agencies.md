@@ -30,7 +30,7 @@ Section was enacted as part of the Environmental Research, Development, and Demo
 
 #### Amendments
 
-1978—Subsec. (a)(2). Pub. L. 95–477 inserted “agricultural use or” after “drinking and”.
+<b>1978</b>—Subsec. (a)(2). Pub. L. 95–477 inserted “agricultural use or” after “drinking and”.
 
 #### Effective Date of 1978 Amendment
 

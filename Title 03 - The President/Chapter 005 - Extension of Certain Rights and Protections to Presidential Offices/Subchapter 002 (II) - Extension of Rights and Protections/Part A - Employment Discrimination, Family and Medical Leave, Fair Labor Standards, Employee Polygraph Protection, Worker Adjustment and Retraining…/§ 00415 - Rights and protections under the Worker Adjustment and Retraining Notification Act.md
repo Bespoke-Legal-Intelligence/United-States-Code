@@ -30,7 +30,7 @@ Description of individuals.—An individual described in this subparagraph is an
 
 (b)
 
-Remedy.—The remedy for a violation of subsection (a) shall be such damages as would be appropriate if awarded under paragraphs (1), (2), and (4) of section 5(a) of the Worker Adjustment and Retraining Notification Act.
+Remedy.—The remedy for a violation of subsection (a) shall be such damages as would beappropriate if awarded under paragraphs (1), (2), and (4) of section 5(a) of the Worker Adjustment and Retraining Notification Act.
 
 (c)
 

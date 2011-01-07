@@ -16,7 +16,7 @@ A prior section 43 of act Aug. 1, 1956, was renumbered section 44 by section 115
 
 #### Amendments
 
-1999—Pub. L. 106–113 designated existing provisions as subsec. (a), inserted subsec. heading, substituted “disposition of personal estates pursuant to section 2715c of this title” for “disposition of personal effects”, and added subsec. (b).
+<b>1999</b>—Pub. L. 106–113 designated existing provisions as subsec. (a), inserted subsec. heading, substituted “disposition of personal estates pursuant to section 2715c of this title” for “disposition of personal effects”, and added subsec. (b).
 
 #### Development of Standardized Procedures
 

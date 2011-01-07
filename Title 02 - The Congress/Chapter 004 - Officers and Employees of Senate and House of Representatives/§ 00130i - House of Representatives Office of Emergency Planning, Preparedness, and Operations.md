@@ -14,7 +14,7 @@ The Speaker, in consultation with the minority leader—
 
 &emsp;(3) shall exercise, with respect to any employee of the Office, the authority referred to in section 8344(k)(2)(B) of title 5 and the authority referred to in section 8468(h)(2)(B) of title 5;
 
-&emsp;(4) shall approve procurement of services of experts and consultants by the Office or bycommittees or other entities of the House of Representatives for assignment to the Office; and
+&emsp;(4) shall approve procurement of services of experts and consultants by the Office or by committees or other entities of the House of Representatives for assignment to the Office; and
 
 &emsp;(5) may request the head of any Federal department or agency to detail to the Office, on a reimbursable basis, any of the personnel of the department or agency.
 
@@ -34,5 +34,5 @@ This section shall take effect on January 10, 2002, and shall apply to fiscal ye
 
 #### Codification
 
-Section is from the Emergency Supplemental Act, 2002, which is div. B of the Department of Defense and Emergency Supplemental Appropriations for Recovery from and Response to Terrorist Attacks on the United States Act, 2002.
+Section is from the Emergency Supplemental Act, 2002, which is div. B of the Department of Defense andEmergency Supplemental Appropriations for Recovery from and Response to Terrorist Attacks on the United States Act, 2002.
 

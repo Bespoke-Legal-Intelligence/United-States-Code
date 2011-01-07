@@ -96,7 +96,7 @@ July 2, 1942, ch. 477, §1, 56 Stat. 628.
 
 #### Amendments
 
-1998—Pub. L. 105–261 inserted “Secretary of Defense or the” before “Secretary of a military department”.
+<b>1998</b>—Pub. L. 105–261 inserted “Secretary of Defense or the” before “Secretary of a military department”.
 
 #### Effective Date
 

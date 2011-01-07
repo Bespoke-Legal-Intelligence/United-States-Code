@@ -8,7 +8,3 @@ The following provisions are made with respect to additional needs of the lepros
 
 (Pub. L. 96–565, title I, §107, Dec. 22, 1980, 94 Stat. 3323.)
 
-#### References in Text
-
-The Federal civil service laws, referred to in par. (1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-

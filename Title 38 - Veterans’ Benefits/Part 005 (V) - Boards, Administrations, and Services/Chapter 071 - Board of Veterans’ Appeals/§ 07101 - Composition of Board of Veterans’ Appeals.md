@@ -48,11 +48,11 @@
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
 
-1998—Subsec. (b)(1). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-1994—Subsec. (a). Pub. L. 103–271, §2, struck out “(not more than 65)” after “such number”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–271, §2, struck out “(not more than 65)” after “such number”.
 
 Subsec. (b). Pub. L. 103–446, §201(d)(1), (2), designated as par. (2) the text in par. (1) beginning “The Chairman may be removed” and struck out former par. (2) which read as follows:
 
@@ -74,7 +74,7 @@ Subsec. (d)(3)(B). Pub. L. 103–271, §4(b)(2), substituted “section 7101(a)�
 
 Subsec. (e). Pub. L. 103–271, §4(b)(1), substituted “an acting member” for “a temporary or acting member”.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 4001 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 4001 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
@@ -98,7 +98,7 @@ Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans�
 
 Subsec. (d)(3)(B). Pub. L. 102–40, §402(d)(1), substituted “7103(d)” for “4003(d)”.
 
-1988—Subsec. (a). Pub. L. 100–687, §202(b), inserted “and” after “Vice Chairman,” substituted “necessary in order to conduct hearings and dispose of appeals properly before the Board in a timely manner. The Board shall have” for “necessary, and”, and inserted provisions which required that Board have sufficient personnel to conduct hearings and consider and dispose of appeals.
+<b>1988</b>—Subsec. (a). Pub. L. 100–687, §202(b), inserted “and” after “Vice Chairman,” substituted “necessary in order to conduct hearings and dispose of appeals properly before the Board in a timely manner. The Board shall have” for “necessary, and”, and inserted provisions which required that Board have sufficient personnel to conduct hearings and consider and dispose of appeals.
 
 Subsec. (b). Pub. L. 100–687, §201(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Members of the Board (including the Chairman and Vice Chairman) shall be appointed by the Administrator with the approval of the President.”
 
@@ -106,7 +106,7 @@ Subsec. (d). Pub. L. 100–687, §208, added subsec. (d).
 
 Subsec. (e). Pub. L. 100–687, §209, added subsec. (e).
 
-1984—Subsec. (a). Pub. L. 98–223, §208(a), (c), substituted “65” for “fifty” and struck out “associate” before “members”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–223, §208(a), (c), substituted “65” for “fifty” and struck out “associate” before “members”.
 
 Subsec. (c). Pub. L. 98–223, §208(b), added subsec. (c).
 

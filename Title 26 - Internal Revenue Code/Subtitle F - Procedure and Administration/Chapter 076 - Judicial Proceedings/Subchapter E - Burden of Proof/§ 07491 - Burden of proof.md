@@ -24,7 +24,7 @@
 
 #### (b) Use of statistical information on unrelated taxpayers
 
-In the case of an individual taxpayer, the Secretary shall have the burden of proof in any court proceeding with respect to any item of income which was reconstructed by the Secretary solely through the use of statistical information on unrelated taxpayers.
+In the case of an individual taxpayer, the Secretary shall have the burden of proof in any court proceeding with respect to any item of income which was reconstructed by the Secretarysolely through the use of statistical information on unrelated taxpayers.
 
 #### (c) Penalties
 
@@ -42,7 +42,7 @@ A prior section 7493, act Aug. 16, 1954, ch. 736, 68A Stat. 893, provided that n
 
 #### Amendments
 
-1998—Subsec. (a)(2). Pub. L. 105–277 inserted concluding provisions.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–277 inserted concluding provisions.
 
 #### Effective Date of 1998 Amendment
 

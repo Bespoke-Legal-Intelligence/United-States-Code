@@ -37,7 +37,7 @@
 
 #### Amendments
 
-2006—Pub. L. 109–364, div. A, title III, §354(b), Oct. 17, 2006, 120 Stat. 2162, added item 40728A.
+<b>2006</b>—Pub. L. 109–364, div. A, title III, §354(b), Oct. 17, 2006, 120 Stat. 2162, added item 40728A.
 
 
 ---

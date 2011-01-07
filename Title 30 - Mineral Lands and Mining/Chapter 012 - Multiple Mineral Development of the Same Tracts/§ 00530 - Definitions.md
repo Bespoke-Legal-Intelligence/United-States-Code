@@ -6,7 +6,7 @@ As used in this chapter “mineral leasing laws” shall mean the Act of Februar
 
 #### References in Text
 
-Act of February 25, 1920, referred to in text, is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
+Act of February 25, 1920, referred to in text, is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known asthe Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
 
 Act of April 17, 1926, referred to in text, is act Apr. 17, 1926, ch. 158, 44 Stat. 301, as amended, which is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -22,9 +22,9 @@ Section 5(b)(1) of the Atomic Energy Act, as amended, referred to in text, was f
 
 #### Amendments
 
-2005—Pub. L. 109–58 amended directory language of Pub. L. 91–581, §26. See 1970 Amendment note below.
+<b>2005</b>—Pub. L. 109–58 amended directory language of Pub. L. 91–581, §26. See 1970 Amendment note below.
 
-1970—Pub. L. 91–581, §26, as amended by Pub. L. 109–58, redefined “mineral leasing laws” to exclude “the Act of October 20, 1914” and to include “Geothermal Steam Act of 1970” and “Leasing Act minerals” to include “all geothermal steam and associated geothermalresources which, upon the effective date of the Geothermal Steam Act of 1970, are provided in that Act to be disposed of thereunder”.
+<b>1970</b>—Pub. L. 91–581, §26, as amended by Pub. L. 109–58, redefined “mineral leasing laws” to exclude “the Act of October 20, 1914” and to include “Geothermal Steam Act of 1970” and “Leasing Act minerals” to include “all geothermal steam and associated geothermal resources which, upon the effective date of the Geothermal Steam Act of 1970, are provided in that Act to be disposed of thereunder”.
 
 #### Transfer of Functions
 

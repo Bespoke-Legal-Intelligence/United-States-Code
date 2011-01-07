@@ -56,7 +56,7 @@
 
 #### References in Text
 
-The Controlled Substances Act, referred to in subsec. (b)(4)(A)(i), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (b)(4)(A)(i), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Actto the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 The Controlled Substances Import and Export Act, referred to in subsec. (b)(4)(A)(i), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21. For complete classification of the Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
 
@@ -64,13 +64,13 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(
 
 #### Amendments
 
-2006—Subsec. (b)(4)(A)(iv). Pub. L. 109–304 substituted “Chapter 705 of title 46” for “The Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
+<b>2006</b>—Subsec. (b)(4)(A)(iv). Pub. L. 109–304 substituted “Chapter 705 of title 46” for “The Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
 
-1999—Subsec. (b)(1)(C), (D). Pub. L. 106–65, §1066(a)(4)(A), realigned margins.
+<b>1999</b>—Subsec. (b)(1)(C), (D). Pub. L. 106–65, §1066(a)(4)(A), realigned margins.
 
 Subsec. (b)(2)(F)(i). Pub. L. 106–65, §1066(a)(4)(B), struck out semicolon after “law enforcement personnel;”.
 
-1998—Subsec. (b)(1)(C), (D). Pub. L. 105–277, §201(1), (2), added subpars. (C) and (D).
+<b>1998</b>—Subsec. (b)(1)(C), (D). Pub. L. 105–277, §201(1), (2), added subpars. (C) and (D).
 
 Subsec. (b)(2)(F)(i). Pub. L. 105–277, §201(3), inserted “along with any other civilian or military personnel who are supporting, or conducting, a joint operation with civilian law enforcement personnel;” after “transportation of civilian law enforcement personnel” and struck out “and” at end.
 
@@ -82,21 +82,21 @@ Subsec. (b)(4)(A). Pub. L. 105–277, §201(5), substituted “a Federal agency�
 
 Subsec. (b)(4)(A)(v). Pub. L. 105–277, §201(6), added cl. (v).
 
-1992—Subsec. (b)(2)(B) to (F). Pub. L. 102–484, §1042(1), added subpar. (B) and redesignated former subpars. (B) to (E) as (C) to (F), respectively.
+<b>1992</b>—Subsec. (b)(2)(B) to (F). Pub. L. 102–484, §1042(1), added subpar. (B) and redesignated former subpars. (B) to (E) as (C) to (F), respectively.
 
 Subsec. (b)(3). Pub. L. 102–484, §1042(2), substituted “paragraph (2)(D)” for “paragraph (2)(C)”.
 
-1989—Subsec. (b)(2)(E). Pub. L. 101–189, §1210, substituted “and the Attorney General (and the Secretary of State in the case of a law enforcement operation outside of the land area of the United States)” for “, theAttorney General, and the Secretary of State, in connection with a law enforcement operation outside the land area of the United States” in introductory provisions.
+<b>1989</b>—Subsec. (b)(2)(E). Pub. L. 101–189, §1210, substituted “and the Attorney General (and the Secretary of State in the case of a law enforcement operation outside of the land area of the United States)” for “, the Attorney General, and the Secretary of State, in connection with a law enforcement operation outside the land area of the United States” in introductory provisions.
 
 Subsec. (b)(4)(A)(iii). Pub. L. 101–189, §1216(b), substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 of the Tariff Schedules of the United States”.
 
 Subsec. (c). Pub. L. 101–189, §1216(c), substituted “subsection (b)(2)” for “paragraph (2)”.
 
-1988—Pub. L. 100–456 substituted “Maintenance and operation of equipment” for “Assistance by Department of Defense personnel” in section catchline, and amended text generally, revising and restating former subsecs. (a) to (d) as subsecs. (a) to (c).
+<b>1988</b>—Pub. L. 100–456 substituted “Maintenance and operation of equipment” for “Assistance by Department of Defense personnel” in section catchline, and amended text generally, revising and restating former subsecs. (a) to (d) as subsecs. (a) to (c).
 
 Subsec. (a)(3). Pub. L. 100–418, which directed substitution of “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 of the Tariff Schedules of the United States”, could not be executed because of intervening general amendment by Pub. L. 100–456.
 
-1986—Subsec. (a). Pub. L. 99–570, §3056(a), inserted provision at end relating to assistance that such agency is authorized to furnish to any foreign government which is involved in the enforcement of similar laws.
+<b>1986</b>—Subsec. (a). Pub. L. 99–570, §3056(a), inserted provision at end relating to assistance that such agency is authorized to furnish to any foreign government which is involved in the enforcement of similar laws.
 
 Subsec. (c). Pub. L. 99–570, §3056(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
@@ -114,7 +114,7 @@ Subsec. (c). Pub. L. 99–570, §3056(b), amended subsec. (c) generally. Prior t
 
 Subsec. (d). Pub. L. 99–661 added subsec. (d).
 
-1984—Subsec. (a)(3). Pub. L. 98–525 struck out “(19 U.S.C. 1202)” after “Tariff Schedules of the United States”.
+<b>1984</b>—Subsec. (a)(3). Pub. L. 98–525 struck out “(19 U.S.C. 1202)” after “Tariff Schedules of the United States”.
 
 #### Effective Date of 1988 Amendment
 
@@ -210,7 +210,7 @@ Pub. L. 103–335, title VIII, §8154(a), Sept. 30, 1994, 108 Stat. 2658.
 
 #### Additional Support for Counter-Drug Activities
 
-Pub. L. 101–510, div. A, title X, §1004, Nov. 5, 1990, 104 Stat. 1629, as amended by Pub. L. 102–190, div. A, title X, §1088(a), Dec. 5, 1991, 105 Stat. 1484; Pub. L. 102–484, div. A, title X, §1041(a)–(d)(1), Oct. 23, 1992, 106 Stat. 2491; Pub. L. 103–160, div. A, title XI, §1121(a), (b), Nov. 30, 1993, 107 Stat. 1753; Pub. L. 103–337, div. A, title X, §1011(a), Oct. 5, 1994, 108 Stat. 2836; Pub. L. 105–261, div. A, title X, §1021, Oct. 17, 1998, 112 Stat. 2120; Pub. L. 107–107, div. A, title X, §1021, Dec. 28, 2001, 115 Stat. 1212; Pub. L. 109–364, div. A, title X, §1021, Oct. 17, 2006, 120 Stat. 2382, provided that:
+Pub. L. 101–510, div. A, title X, §1004, Nov. 5, 1990, 104 Stat. 1629, as amended by Pub. L. 102–190, div. A, title X, §1088(a), Dec. 5, 1991, 105 Stat. 1484; Pub. L. 102–484, div. A, title X, §1041(a)–(d)(1), Oct. 23, 1992, 106 Stat. 2491; Pub. L. 103–160, div. A, title XI, §1121(a), (b), Nov. 30, 1993, 107 Stat. 1753; Pub. L. 103–337, div. A, title X, §1011(a), Oct. 5, 1994, 108 Stat. 2836; Pub. L. 105–261, div. A, title X, §1021, Oct. 17, 1998, 112 Stat. 2120; Pub. L. 107–107, div. A, title X, §1021, Dec. 28, 2001, 115 Stat. 1212; Pub. L. 109–364, div. A, title X, §1021, Oct. 17, 2006, 120 Stat. 2382; Pub. L. 111–383, div. A, title X, §1015(a), Jan. 7, 2011, 124 Stat. 4347, provided that:
 
 “(a)
 
@@ -240,7 +240,7 @@ Types of Support.—The purposes for which the Secretary of Defense may provide 
 
 &emsp;“(3) The transportation of personnel of the United States and foreign countries (including per diem expenses associated with such transportation), and the transportation of supplies and equipment, for the purpose of facilitating counter-drug activities within or outside the United States.
 
-&emsp;“(4) The establishment (including an unspecified minor military construction project) and operation of bases of operations or training facilities for the purpose of facilitating counter-drug activities of the Department of Defense or any Federal, State, or local law enforcement agency within or outside the United States or counter-drug activities of a foreign law enforcement agency outside the United States.
+&emsp;“(4) The establishment (including an unspecified minor military construction project) and operation of bases of operations or training facilities for the purpose of facilitating counter-drug activities of the Department of Defense or any Federal, State, or local law enforcement agency within or outside the United States or for the purpose of facilitating counter-drug activities of a foreign law enforcement agency outside the United States.
 
 &emsp;“(5) Counter-drug related training of law enforcement personnel of the Federal Government, of State and local governments, and of foreign countries, including associated support expenses for trainees and the provision of materials necessary to carry out such training.
 
@@ -264,7 +264,7 @@ Limitation on Counter-Drug Requirements.—The Secretary of Defense may not limi
 
 “(d)
 
-Contract Authority.—In carrying out subsection (a), the Secretary of Defense may acquire services or equipment by contract for support provided under that subsection if the Department of Defense would normally acquire such services or equipment by contract for the purpose of conducting a similar activity for the Department of Defense.
+Contract Authority.—In carrying out subsection (a), the Secretary of Defense may acquire services or equipment by contract for support providedunder that subsection if the Department of Defense would normally acquire such services or equipment by contract for the purpose of conducting a similar activity for the Department of Defense.
 
 “(e)
 
@@ -286,9 +286,13 @@ Congressional Notification of Facilities Projects.—(1) When a decision is made
 
 “(2) Paragraph (1) applies to an unspecified minor military construction project that—
 
-&emsp;“(A) is intended for the modification or repair of a Department of Defense facility for the purpose set forth in subsection (b)(4); and
+&emsp;“(A) is intended for the construction, modification, or repair of any facility for the purposes set forth in subsection (b)(4); and
 
-&emsp;“(B) has an estimated cost of more than $500,000.”
+&emsp;“(B) has an estimated cost of more than $500,000.
+
+“(3) This subsection may not be construed as an authorization for the use of funds for any military construction project that would exceed the approved cost limitations of an unspecified minor military construction project under section 2805(a)(2) of title 10, United States Code.”
+
+\[Pub. L. 111–383, div. A, title X, §1015(b), Jan. 7, 2011, 124 Stat. 4348, provided that: “The amendments made by subsection (a) \[amending section 1004 of Pub. L. 101–510, set out above\] shall take effect on the date of the enactment of this Act \[Jan. 7, 2011\], and shall apply with respect to facilities projects for which a decision is made to be carried out on or after that date.”\]
 
 #### Communications Network
 

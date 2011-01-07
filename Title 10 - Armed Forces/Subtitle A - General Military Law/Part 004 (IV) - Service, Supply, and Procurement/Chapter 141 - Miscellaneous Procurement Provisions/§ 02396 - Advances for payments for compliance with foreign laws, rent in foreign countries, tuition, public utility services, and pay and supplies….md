@@ -48,7 +48,7 @@ July 13, 1955, ch. 358, §602, 69 Stat. 314.
 
 Oct. 19, 1965, Pub. L. 89–265, 79 Stat. 989.
 
-In subsection (a), the words “On and after July 13, 1955” are omitted as executed. The words “An advance” are substituted for “section 529 of this title shall notapply in the case of payments” because of the restatement.
+In subsection (a), the words “On and after July 13, 1955” are omitted as executed. The words “An advance” are substituted for “section 529 of this title shall not apply in the case of payments” because of the restatement.
 
 In subsection (b), the words “armed force of the United States” are substituted for “Army, Navy, Air Force, Marine Corps, or Coast Guard” because of 10:101(4) and to avoid confusion with the phrase “armed force of a friendly foreign country”.
 
@@ -74,13 +74,13 @@ This redesignates 10:2395 as 10:2396 because of the redesignation of 10:2394 (en
 
 #### Amendments
 
-2002—Subsec. (b)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in introductory provisions.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in introductory provisions.
 
-1997—Pub. L. 105–85, §1014(b)(1), inserted “public utility services,” after “tuition,” in section catchline.
+<b>1997</b>—Pub. L. 105–85, §1014(b)(1), inserted “public utility services,” after “tuition,” in section catchline.
 
 Subsec. (a)(4). Pub. L. 105–85, §1014(a), added par. (4).
 
-1982—Subsec. (b)(2)(C). Pub. L. 97–295 substituted “any other” for “another”.
+<b>1982</b>—Subsec. (b)(2)(C). Pub. L. 97–295 substituted “any other” for “another”.
 
 #### Effective Date of 2002 Amendment
 

@@ -10,7 +10,7 @@ The administration, protection, and promotion of Grand Canyon National Park shal
 
 #### Amendments
 
-1978—Pub. L. 95–586 inserted provisions authorizing the Secretary to contract for the sale of water located within the park for use of customers within Tusayan, Arizona.
+<b>1978</b>—Pub. L. 95–586 inserted provisions authorizing the Secretary to contract for the sale of water located within the park for use of customers within Tusayan, Arizona.
 
 #### Transfer of Functions
 
@@ -18,5 +18,5 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Special United States Magistrate Judge for Grand Canyon National Park
 
-Appointment by United States District Court for the District of Arizona of a special commissioner \[now United States magistrate judge\] for the Grand Canyon National Park, see Pub. L. 86–258, Sept. 14, 1959, 73 Stat. 546, as amended, formerly set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Appointment by United States District Court for the District of Arizona of a special commissioner \[now United States magistrate judge\] for the Grand Canyon National Park, see Pub. L. 86–258, Sept. 14, 1959, 73 Stat.546, as amended, formerly set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 

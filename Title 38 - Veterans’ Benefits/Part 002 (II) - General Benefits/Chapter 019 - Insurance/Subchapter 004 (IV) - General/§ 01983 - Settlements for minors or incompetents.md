@@ -6,9 +6,9 @@ When an optional mode of settlement of National Service Life Insurance or United
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 783 of this title as this section and substituted “Secretary” for “Administrator”.
+<b>1991</b>—Pub. L. 102–83 renumbered section 783 of this title as this section and substituted “Secretary” for “Administrator”.
 
 Pub. L. 102–54 substituted “the Act of February 25, 1933 (25 U.S.C. 14)” for “section 14 of title 25”.
 
-1986—Pub. L. 99–576 substituted “such beneficiary's” for “his”.
+<b>1986</b>—Pub. L. 99–576 substituted “such beneficiary's” for “his”.
 

@@ -76,13 +76,13 @@ If a return is made for a short period by reason of subsection (a)—
 
 &emsp;<b>For returns for a period of less than 12 months in the case of a debtor's election to terminate a taxable year, see section 1398(d)(2)(E).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 149; Pub. L. 86–779, §10(i), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 91–172, title III, §301(b)(6), Dec. 30, 1969, 83 Stat. 585; Pub. L. 94–455, title III, §301(e), title XII, §1204(c)(2), title XVI, §1607(b)(1)(C), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1553, 1697, 1757, 1834; Pub. L. 95–30, title I, §102(b)(6), May 23, 1977, 91 Stat. 137; Pub. L. 95–600, title IV, §421(e)(2), title VII, §703(<i>o</i>)(1)–(3), Nov. 6, 1978, 92 Stat. 2876, 2943; Pub. L. 96–222, title I, §104(a)(4)(H)(iii), Apr. 1, 1980, 94 Stat. 217; Pub. L. 96–589, §3(d), Dec. 24, 1980, 94 Stat. 3401; Pub. L. 97–448, title III, §304(a), Jan. 12, 1983, 96 Stat. 2398; Pub. L. 99–514, title I, §104(b)(7), title VII, §701(e)(3), Oct. 22, 1986, 100 Stat. 2105, 2342; Pub. L. 108–357, title IV, §413(c)(6), Oct. 22, 2004, 118 Stat. 1507.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 149; Pub. L. 86–779, §10(i), Sept. 14, 1960, 74 Stat. 1009; Pub. L.91–172, title III, §301(b)(6), Dec. 30, 1969, 83 Stat. 585; Pub. L. 94–455, title III, §301(e), title XII, §1204(c)(2), title XVI, §1607(b)(1)(C), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1553, 1697, 1757, 1834; Pub. L. 95–30, title I, §102(b)(6), May 23, 1977, 91 Stat. 137; Pub. L. 95–600, title IV, §421(e)(2), title VII, §703(<i>o</i>)(1)–(3), Nov. 6, 1978, 92 Stat. 2876, 2943; Pub. L. 96–222, title I, §104(a)(4)(H)(iii), Apr. 1, 1980, 94 Stat. 217; Pub. L. 96–589, §3(d), Dec. 24, 1980, 94 Stat. 3401; Pub. L. 97–448, title III, §304(a), Jan. 12, 1983, 96 Stat. 2398; Pub. L. 99–514, title I, §104(b)(7), title VII, §701(e)(3), Oct. 22, 1986, 100 Stat. 2105, 2342; Pub. L. 108–357, title IV, §413(c)(6), Oct. 22, 2004, 118 Stat. 1507.)
 
 #### Amendments
 
-2004—Subsec. (e)(3) to (5). Pub. L. 108–357 redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “Undistributed foreign personal holding company income, see section 557.”
+<b>2004</b>—Subsec. (e)(3) to (5). Pub. L. 108–357 redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “Undistributed foreign personal holding company income, see section 557.”
 
-1986—Subsec. (b)(1). Pub. L. 99–514, §104(b)(7)(A), struck out “, and adding the zero bracket amount” after “by the number of months in the short period”.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §104(b)(7)(A), struck out “, and adding the zero bracket amount” after “by the number of months in the short period”.
 
 Subsec. (b)(2)(A)(ii). Pub. L. 99–514, §104(b)(7)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the tax computed on the sum of the modified taxable income for the short period plus the zero bracket amount.”
 
@@ -92,13 +92,13 @@ Subsec. (d). Pub. L. 99–514, §701(e)(3), substituted “and tax preferences�
 
 &emsp;“(2) the $10,000 amount specified in section 56 (relating to minimum tax for tax preferences), modified as provided by section 58, shall be reduced to the amount which bears the same ratio to such specified amount as the number of days in the short period bears to 365.”
 
-1983—Subsec. (e). Pub. L. 97–448 substituted “section 1398(d)(2)(E)” for “section 1398(d)(3)(E)”.
+<b>1983</b>—Subsec. (e). Pub. L. 97–448 substituted “section 1398(d)(2)(E)” for “section 1398(d)(3)(E)”.
 
-1980—Subsec. (d)(2). Pub. L. 96–222 struck out “in the case of a corporation,” before “the $10,000 amount”.
+<b>1980</b>—Subsec. (d)(2). Pub. L. 96–222 struck out “in the case of a corporation,” before “the $10,000 amount”.
 
 Subsec. (e). Pub. L. 96–589 inserted cross reference to section 1398(d)(3)(E) for returns for a period of less than 12 months in the case of a debtor's election to terminate a taxable year.
 
-1978—Subsec. (b)(1). Pub. L. 95–600, §703(<i>o</i>)(2), substituted “modified taxable income for such short period” for “gross income for such short period (minus the deductions allowed by this chapter for the short period, but only the adjusted amount of the deductions for personal exemptions)”.
+<b>1978</b>—Subsec. (b)(1). Pub. L. 95–600, §703(<i>o</i>)(2), substituted “modified taxable income for such short period” for “gross income for such short period (minus the deductions allowed by this chapter for the short period, but only the adjusted amount of the deductions for personal exemptions)”.
 
 Subsec. (b)(2). Pub. L. 95–600, §703(<i>o</i>)(1), substituted in cl. (i) “modified taxable income” for “taxable income” in two places and in cl. (ii) “the sum of the modified taxable income” for “the taxable income” and “plus the zero bracket amount” for “without placing the taxable income on an annual basis”.
 
@@ -106,9 +106,9 @@ Subsec. (b)(3). Pub. L. 95–600, §703(<i>o</i>)(3), added par. (3).
 
 Subsec. (d). Pub. L. 95–600, §421(e)(2), substituted “Adjustment in computing minimum tax for tax preferences” for “Adjustment in exclusion for computing minimum tax for tax preferences” in heading, redesignated existing provisions as par. (2) and as so redesignated applied par. (2) to corporations, and added par. (1).
 
-1977—Subsec. (b)(1). Pub. L. 95–30 substituted “multiplying the gross income for such short period (minus the deductions allowed by this chapter for the short period, but only the adjusted amount of the deductions for personal exemptions) by 12, dividing the result by the number of months in the short period, and adding the zero bracket amount” for “multiplying such income by 12, and dividing the result by the number of months in the short period”.
+<b>1977</b>—Subsec. (b)(1). Pub. L. 95–30 substituted “multiplying the gross income for such short period (minus the deductions allowed by this chapter for the short period, but only the adjusted amount of the deductions for personal exemptions) by 12, dividing the result by the number of months in the short period, and adding the zero bracket amount” for “multiplying such income by 12, and dividing the result by the number of months in the short period”.
 
-1976—Subsec. (a)(1). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (a)(3). Pub. L. 94–455, §1204(c)(2), struck out par. (3) which made termination of taxpayer's taxable year under section 6851 as one of the circumstances under which a tax return for a period of less than 12 months shall be made.
 
@@ -118,9 +118,9 @@ Subsec. (d). Pub. L. 94–455, §301(e), substituted “$10,000” for “$30,00
 
 Subsec. (e)(5). Pub. L. 94–455, §1607(b)(1)(C), substituted “section 857(b)(2)(C)” for “section 857(b)(2)(D)”.
 
-1969—Subsecs. (d), (e). Pub. L. 91–172 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1969</b>—Subsecs. (d), (e). Pub. L. 91–172 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1960—Subsec. (d)(5). Pub. L. 86–779 added par. (5).
+<b>1960</b>—Subsec. (d)(5). Pub. L. 86–779 added par. (5).
 
 #### Effective Date of 2004 Amendment
 
@@ -150,7 +150,7 @@ Amendment by section 421(e)(2) of Pub. L. 95–600 applicable to taxable years b
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) of Pub. L. 95–30, set out as a note under section 1 of this title.
+Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) ofPub. L. 95–30, set out as a note under section 1 of this title.
 
 #### Effective Date of 1976 Amendment
 

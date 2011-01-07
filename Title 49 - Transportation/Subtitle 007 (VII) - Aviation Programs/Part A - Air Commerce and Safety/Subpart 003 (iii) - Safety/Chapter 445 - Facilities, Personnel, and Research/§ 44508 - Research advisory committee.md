@@ -90,7 +90,7 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d), is
 
 #### Amendments
 
-1996—Subsec. (a)(1)(D). Pub. L. 104–264 added subpar. (D).
+<b>1996</b>—Subsec. (a)(1)(D). Pub. L. 104–264 added subpar. (D).
 
 #### Effective Date of 1996 Amendment
 

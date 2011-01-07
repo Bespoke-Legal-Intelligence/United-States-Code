@@ -176,13 +176,13 @@ The tariff laws of the United States, referred to in subsec. (d)(3), are classif
 
 #### Amendments
 
-2001—Subsec. (b)(1)(B). Pub. L. 107–107 inserted “, including actual and administrative costs related to shoplifting, theft detection, and theft prevention” before comma at end.
+<b>2001</b>—Subsec. (b)(1)(B). Pub. L. 107–107 inserted “, including actual and administrative costs related to shoplifting, theft detection, and theft prevention” before comma at end.
 
-1999—Subsec. (d)(2). Pub. L. 106–169 substituted “sections 204(f) and 1631(b)(4)” for “section 204(f)”.
+<b>1999</b>—Subsec. (d)(2). Pub. L. 106–169 substituted “sections 204(f) and 1631(b)(4)” for “section 204(f)”.
 
-1996—Subsec. (a)(1). Pub. L. 104–134, §31001(z)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘administrative offset’ means withholding money payable by the United States Government to, or held by the Government for, a person to satisfy a debt the person owes the Government.”
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–134, §31001(z)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘administrative offset’ means withholding money payable by the United States Government to, or held by the Government for, a person to satisfy a debt the person owes the Government.”
 
-Subsec. (a)(4). Pub. L. 104–134, §31001(c)(2), amended par. (4) generally. Prior to amendment, par. (4) read asfollows: “ ‘executive or legislative agency’ means a department, agency, or instrumentality in the executive or legislative branch of the Government.”
+Subsec. (a)(4). Pub. L. 104–134, §31001(c)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “ ‘executive or legislative agency’ means a department, agency, or instrumentality in the executive or legislative branch of the Government.”
 
 Subsec. (a)(8). Pub. L. 104–134, §31001(d)(3), added par. (8).
 
@@ -196,11 +196,11 @@ Pub. L. 104–134, §31001(z)(1)(D), amended subsec. (d) generally. Prior to ame
 
 Subsecs. (e), (f). Pub. L. 104–134, §31001(z)(1)(C), added subsecs. (e) and (f).
 
-1994—Subsec. (d). Pub. L. 103–387 inserted “, except to the extent provided under section 204(f) of such Act (42 U.S.C. 404(f)),” after “the Social Security Act (42 U.S.C. 301 et seq.)”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–387 inserted “, except to the extent provided under section 204(f) of such Act (42 U.S.C. 404(f)),” after “the Social Security Act (42 U.S.C. 301 et seq.)”.
 
-1986—Subsec. (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1983—Pub. L. 97–452 designated existing provisions as subsec. (a), added pars. (1), (2), and (3), redesignated former par. (1) as (4) and substituted “Government” for “United States Government”, redesignated former par. (2) as (5), added par. (6), redesignated former par. (3) as (7) and struck out “the” before “Commissioned Corps” in two places, and added subsecs. (b) to (d).
+<b>1983</b>—Pub. L. 97–452 designated existing provisions as subsec. (a), added pars. (1), (2), and (3), redesignated former par. (1) as (4) and substituted “Government” for “United States Government”, redesignated former par. (2) as (5), added par. (6), redesignated former par. (3) as (7) and struck out “the” before “Commissioned Corps” in two places, and added subsecs. (b) to (d).
 
 #### Effective Date of 1999 Amendment
 

@@ -6,7 +6,7 @@ The words defined in this section shall have the following meanings for purposes
 
 &emsp;(2) “reservations” means national forests, tribal lands embraced within Indian reservations, military reservations, and other lands and interests in lands owned by the United States, and withdrawn, reserved, or withheld from private appropriation and disposal under the public land laws; also lands and interests in lands acquired and held for any public purposes; but shall not include national monuments or national parks;
 
-&emsp;(3) “corporation” means any corporation, joint-stock company, partnership, association, business trust, organized group of persons, whether incorporated or not, or a receiver or receivers, trustee or trustees of any of the foregoing. It shall not include “municipalities” as hereinafter defined;
+&emsp;(3) “corporation” means any corporation, joint-stock company, partnership, association,business trust, organized group of persons, whether incorporated or not, or a receiver or receivers, trustee or trustees of any of the foregoing. It shall not include “municipalities” as hereinafter defined;
 
 &emsp;(4) “person” means an individual or a corporation;
 
@@ -126,19 +126,17 @@ Transmission organization.—The term “Transmission Organization” means a Re
 
 #### References in Text
 
-The public land laws, referred to in pars. (1), (2), are classified generally to Title 43, Public Lands.
-
 Section 79z–5a of title 15, referred to in par. (25), was repealed by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974.
 
 #### Amendments
 
-2005—Par. (17)(C). Pub. L. 109–58, §1253(b)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “ ‘qualifying small power production facility’ means a small power production facility—
+<b>2005</b>—Par. (17)(C). Pub. L. 109–58, §1253(b)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “ ‘qualifying small power production facility’ means a small power production facility—
 
 &emsp;“(i) which the Commission determines, by rule, meets such requirements (including requirements respecting fuel use, fuel efficiency, and reliability) as the Commission may, by rule, prescribe; and
 
 &emsp;“(ii) which is owned by a person not primarily engaged in the generation or sale of electric power (other than electric power solely from cogeneration facilities or small power production facilities);”.
 
-Par. (18)(B). Pub. L. 109–58, §1253(b)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “ ‘qualifying cogeneration facility’ means a cogeneration facility which—
+Par. (18)(B). Pub. L. 109–58, §1253(b)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: “ ‘qualifying cogeneration facility’ means a cogeneration facility which—
 
 &emsp;“(i) the Commission determines, by rule, meets such requirements (including requirements respecting minimum size, fuel use, and fuel efficiency) as the Commission may, by rule, prescribe; and
 
@@ -154,21 +152,21 @@ Transmitting utility.—The term ‘transmitting utility’ means any electric u
 
 Pars. (26) to (29). Pub. L. 109–58, §1291(b)(2), added pars. (26) to (29).
 
-1992—Par. (22). Pub. L. 102–486, §726(b), inserted “(including any municipality)” after “State agency”.
+<b>1992</b>—Par. (22). Pub. L. 102–486, §726(b), inserted “(including any municipality)” after “State agency”.
 
 Pars. (23) to (25). Pub. L. 102–486, §726(a), added pars. (23) to (25).
 
-1991—Par. (17)(E). Pub. L. 102–46 struck out “, and which would otherwise not qualify as a small power production facility because of the power production capacity limitation contained in subparagraph (A)(ii)” after “geothermal resources” in introductory provisions.
+<b>1991</b>—Par. (17)(E). Pub. L. 102–46 struck out “, and which would otherwise not qualify as a small power production facility because of the power production capacity limitation contained in subparagraph (A)(ii)” after “geothermal resources” in introductory provisions.
 
-1990—Par. (17)(A). Pub. L. 101–575, §3(a), inserted “a facility which is an eligible solar, wind, waste, or geothermal facility, or”.
+<b>1990</b>—Par. (17)(A). Pub. L. 101–575, §3(a), inserted “a facility which is an eligible solar, wind, waste, or geothermal facility, or”.
 
 Par. (17)(E). Pub. L. 101–575, §3(b), added subpar. (E).
 
-1980—Par. (17)(A)(i). Pub. L. 96–294 added applicability to geothermal resources.
+<b>1980</b>—Par. (17)(A)(i). Pub. L. 96–294 added applicability to geothermal resources.
 
-1978—Pars. (17) to (22). Pub. L. 95–617 added pars. (17) to (22).
+<b>1978</b>—Pars. (17) to (22). Pub. L. 95–617 added pars. (17) to (22).
 
-1935—Act Aug. 26, 1935, §201, amended definitions of “reservations” and “corporations”, and inserted definitions of “person”, “licensee”, “commission”, “commissioner”, “State commission” and “security”.
+<b>1935</b>—Act Aug. 26, 1935, §201, amended definitions of “reservations” and “corporations”, and inserted definitions of “person”, “licensee”, “commission”, “commissioner”, “State commission” and “security”.
 
 #### FERC Regulations
 

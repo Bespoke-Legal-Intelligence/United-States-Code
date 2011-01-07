@@ -76,7 +76,7 @@ Except as provided in subsections (b) and (c), if—
 
 &emsp;The amount of the nonrecourse liability treated as described in paragraph (1)(B) shall be reduced by the lesser of—
 
-&emsp;&emsp;(A) the amount of such liability which an owner of other assets not transferred to the transferee and also subject to such liabilityhas agreed with the transferee to, and is expected to, satisfy; or
+&emsp;&emsp;(A) the amount of such liability which an owner of other assets not transferred to the transferee and also subject to such liability has agreed with the transferee to, and is expected to, satisfy; or
 
 &emsp;&emsp;(B) the fair market value of such other assets (determined without regard to section 7701(g)).
 
@@ -88,13 +88,13 @@ Except as provided in subsections (b) and (c), if—
 
 #### Amendments
 
-2005—Subsec. (d)(1). Pub. L. 109–135 inserted “section 361(b)(3),” after “section 358(h),”.
+<b>2005</b>—Subsec. (d)(1). Pub. L. 109–135 inserted “section 361(b)(3),” after “section 358(h),”.
 
-2004—Subsec. (c)(1)(B). Pub. L. 108–357 inserted “with respect to which stock or securities of the corporation to which the assets are transferred are distributed in a transaction which qualifies under section 355” after “section 368(a)(1)(D)”.
+<b>2004</b>—Subsec. (c)(1)(B). Pub. L. 108–357 inserted “with respect to which stock or securities of the corporation to which the assets are transferred are distributed in a transaction which qualifies under section 355” after “section 368(a)(1)(D)”.
 
-2000—Subsec. (d)(1). Pub. L. 106–554 inserted “section 358(h),” after “section 358(d),” in introductory provisions.
+<b>2000</b>—Subsec. (d)(1). Pub. L. 106–554 inserted “section 358(h),” after “section 358(d),” in introductory provisions.
 
-1999—Subsec. (a). Pub. L. 106–36, §3001(d)(2), struck out “or acquisition” after “assumption” in concluding provisions.
+<b>1999</b>—Subsec. (a). Pub. L. 106–36, §3001(d)(2), struck out “or acquisition” after “assumption” in concluding provisions.
 
 Subsec. (a)(2). Pub. L. 106–36, §3001(a)(1), struck out “, or acquires from the taxpayer property subject to a liability” before comma at end.
 
@@ -106,17 +106,17 @@ Subsec. (c)(3)(A). Pub. L. 106–36, §3001(d)(5), struck out “or to which the
 
 Subsec. (d). Pub. L. 106–36, §3001(b)(1), added subsec. (d).
 
-1990—Subsecs. (a), (b)(1). Pub. L. 101–508, §11801(c)(8)(F)(i), substituted “351 or 361” for “351, 361, 371, or 374” wherever appearing.
+<b>1990</b>—Subsecs. (a), (b)(1). Pub. L. 101–508, §11801(c)(8)(F)(i), substituted “351 or 361” for “351, 361, 371, or 374” wherever appearing.
 
 Subsec. (c)(2). Pub. L. 101–508, §11801(c)(8)(F)(ii), inserted “or” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “to which section 371 or 374 applies, or”.
 
-1980—Subsec. (c)(2)(C). Pub. L. 96–589 added subpar. (C).
+<b>1980</b>—Subsec. (c)(2)(C). Pub. L. 96–589 added subpar. (C).
 
 Subsec. (c)(3)(A). Pub. L. 96–222 struck out requirement that only taxpayers who compute taxable income under the cash receipts and disbursements method of accounting are eligible to exclude certain liabilities in determining the amount of gain realized on a transfer to a controlled corporation and the requirement that the excluded liability must be an account payable.
 
-1978—Subsec. (c)(3). Pub. L. 95–600 added par. (3).
+<b>1978</b>—Subsec. (c)(3). Pub. L. 95–600 added par. (3).
 
-1956—Subsec. (a). Act June 29, 1956, §2(1), substituted “371, or 374” for “or 371” in two places.
+<b>1956</b>—Subsec. (a). Act June 29, 1956, §2(1), substituted “371, or 374” for “or 371” in two places.
 
 Subsec. (b). Act June 29, 1956, §2(1), substituted “371, or 374” for “or 371”.
 

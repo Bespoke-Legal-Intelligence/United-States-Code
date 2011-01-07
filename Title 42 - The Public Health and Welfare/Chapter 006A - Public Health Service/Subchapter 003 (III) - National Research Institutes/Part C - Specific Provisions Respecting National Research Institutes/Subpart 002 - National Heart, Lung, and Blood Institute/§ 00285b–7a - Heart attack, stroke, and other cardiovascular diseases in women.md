@@ -12,7 +12,7 @@ The Director of the Institute shall coordinate activities under subsection (a) o
 
 In carrying out subsection (a) of this section, the Director of the Institute shall conduct or support research to expand the understanding of the causes of, and to develop methods for preventing, cardiovascular diseases in women. Activities under such subsection shall include conducting and supporting the following:
 
-&emsp;(1) Research to determine the reasons underlying the prevalence of heart attack, stroke,and other cardiovascular diseases in women, including African-American women and other women who are members of racial or ethnic minority groups.
+&emsp;(1) Research to determine the reasons underlying the prevalence of heart attack, stroke, and other cardiovascular diseases in women, including African-American women and other women who are members of racial or ethnic minority groups.
 
 &emsp;(2) Basic research concerning the etiology and causes of cardiovascular diseases in women.
 
@@ -30,7 +30,7 @@ In carrying out subsection (a) of this section, the Director of the Institute sh
 
 #### Amendments
 
-2007—Subsec. (d). Pub. L. 109–482 struck out heading and text of subsec. (d). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1999 through 2003. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriation that is available for such purpose.”
+<b>2007</b>—Subsec. (d). Pub. L. 109–482 struck out heading and text of subsec. (d). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1999 through 2003. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriation that is available for such purpose.”
 
 #### Effective Date of 2007 Amendment
 

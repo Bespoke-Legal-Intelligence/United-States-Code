@@ -10,7 +10,7 @@ Section was formerly classified to section 623g of former Title 5, Executive Dep
 
 #### Amendments
 
-1964—Pub. L. 88–426, §305(34), struck out provisions which prescribed compensation of Administrative Assistant Secretary.
+<b>1964</b>—Pub. L. 88–426, §305(34), struck out provisions which prescribed compensation of Administrative Assistant Secretary.
 
 #### Change of Name
 

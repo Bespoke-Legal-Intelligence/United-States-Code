@@ -14,7 +14,7 @@ Minor changes of phraseology were made.
 
 #### Amendments
 
-2002—Pub. L. 107–273 struck out “at a salary of $10,000 a year” after “under the Attorney General”.
+<b>2002</b>—Pub. L. 107–273 struck out “at a salary of $10,000 a year” after “under the Attorney General”.
 
 #### Compensation of Director
 

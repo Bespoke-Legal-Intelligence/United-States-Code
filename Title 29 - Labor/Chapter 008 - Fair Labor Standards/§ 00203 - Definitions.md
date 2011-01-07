@@ -54,11 +54,11 @@ As used in this chapter—
 
 &emsp;(ii) such services are not the same type of services which the individual is employed to perform for such public agency.
 
-(B) An employee of a public agency which is a State, political subdivision of a State, or an interstate governmental agency may volunteer to perform services for any other State, politicalsubdivision, or interstate governmental agency, including a State, political subdivision or agency with which the employing State, political subdivision, or agency has a mutual aid agreement.
+(B) An employee of a public agency which is a State, political subdivision of a State, or an interstate governmental agency may volunteer to perform services for any other State, political subdivision, or interstate governmental agency, including a State, political subdivision or agency with which the employing State, political subdivision, or agency has a mutual aid agreement.
 
 (5) The term “employee” does not include individuals who volunteer their services solely for humanitarian purposes to private non-profit food banks and who receive from the food banks groceries.
 
-(f) “Agriculture” includes farming in all its branches and among other things includes the cultivation and tillage of the soil, dairying, the production, cultivation, growing, and harvesting of any agricultural or horticultural commodities (including commodities defined as agricultural commodities in section 1141j(g) <sup>2</sup> of title 12), the raising of livestock, bees, fur-bearing animals, or poultry, and any practices (including any forestry or lumbering operations) performed by a farmer or on a farm as an incident to or in conjunction with such farming operations, including preparation for market, delivery to storage or to market or to carriers for transportation to market.
+(f) “Agriculture” includes farming in all its branches and among other things includes the cultivation and tillage of the soil, dairying, the production, cultivation, growing, and harvesting of any agricultural or horticultural commodities (including commodities defined as agricultural commodities in section 1141j(g) <sup>2</sup> of title 12), the raising of livestock, bees, fur-bearinganimals, or poultry, and any practices (including any forestry or lumbering operations) performed by a farmer or on a farm as an incident to or in conjunction with such farming operations, including preparation for market, delivery to storage or to market or to carriers for transportation to market.
 
 (g) “Employ” includes to suffer or permit to work.
 
@@ -128,7 +128,7 @@ As used in this chapter—
 
 &emsp;(2) is engaged in the prevention, control, and extinguishment of fires or response to emergency situations where life, property, or the environment is at risk.
 
-(June 25, 1938, ch. 676, §3, 52 Stat. 1060; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §3, 63Stat. 911; Pub. L. 87–30, §2, May 5, 1961, 75 Stat. 65; Pub. L. 89–601, title I, §§101–103, title II, §215(a), Sept. 23, 1966, 80 Stat. 830–832, 837; Pub. L. 92–318, title IX, §906(b)(2), (3), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(a), 13(e), Apr. 8, 1974, 88 Stat. 58, 64; Pub. L. 95–151, §§3(a), (b), 9(a)–(c), Nov. 1, 1977, 91 Stat. 1249, 1251; Pub. L. 99–150, §§4(a), 5, Nov. 13, 1985, 99 Stat. 790; Pub. L. 101–157, §§3(a), (d), 5, Nov. 17, 1989, 103 Stat. 938, 939, 941; Pub. L. 104–1, title II, §203(d), Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–188, \[title II\], §2105(b), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–221, §2, Aug. 7, 1998, 112 Stat. 1248; Pub. L. 106–151, §1, Dec. 9, 1999, 113 Stat. 1731; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
+(June 25, 1938, ch. 676, §3, 52 Stat. 1060; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §3, 63 Stat. 911; Pub. L. 87–30, §2, May 5, 1961, 75 Stat. 65; Pub. L. 89–601, title I, §§101–103, title II, §215(a), Sept. 23, 1966, 80 Stat. 830–832, 837; Pub. L. 92–318, title IX, §906(b)(2), (3), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(a), 13(e), Apr. 8, 1974, 88 Stat. 58, 64; Pub. L. 95–151, §§3(a), (b), 9(a)–(c), Nov. 1, 1977, 91 Stat. 1249, 1251; Pub. L. 99–150, §§4(a), 5, Nov. 13, 1985, 99 Stat. 790; Pub. L. 101–157, §§3(a), (d), 5, Nov. 17, 1989, 103 Stat. 938, 939, 941; Pub. L. 104–1, title II, §203(d), Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–188, \[title II\], §2105(b), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–221, §2, Aug. 7, 1998, 112 Stat. 1248; Pub. L. 106–151, §1, Dec. 9, 1999, 113 Stat. 1731; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
 #### References in Text
 
@@ -136,13 +136,13 @@ Section 1141j(g) of title 12, referred to in subsec. (f), was redesignated secti
 
 #### Amendments
 
-2006—Subsecs. (e)(2)(B), (x). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Subsecs. (e)(2)(B), (x). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-1999—Subsec. (y). Pub. L. 106–151 added subsec. (y).
+<b>1999</b>—Subsec. (y). Pub. L. 106–151 added subsec. (y).
 
-1998—Subsec. (e)(5). Pub. L. 105–221 added par. (5).
+<b>1998</b>—Subsec. (e)(5). Pub. L. 105–221 added par. (5).
 
-1996—Subsec. (m). Pub. L. 104–188 inserted “In determining the wage an employer is required to pay a tipped employee, the amount paid such employee by the employee's employer shall be an amount equal to—
+<b>1996</b>—Subsec. (m). Pub. L. 104–188 inserted “In determining the wage an employer is required to pay a tipped employee, the amount paid such employee by the employee's employer shall be an amount equal to—
 
 &emsp;“(1) the cash wage paid such employee which for purposes of such determination shall be not less than the cash wage required to be paid such an employee on August 20, 1996; and
 
@@ -152,27 +152,27 @@ Section 1141j(g) of title 12, referred to in subsec. (f), was redesignated secti
 
 Pub. L. 104–188 in last sentence substituted “preceding 2 sentences” for “previous sentence” and struck out “(1)” after “employee unless” and “(2)” after “subsection, and”.
 
-1995—Subsec. (e)(2)(A). Pub. L. 104–1 struck out “legislative or” before “judicial branch” in cl. (iii) and added cl. (vi).
+<b>1995</b>—Subsec. (e)(2)(A). Pub. L. 104–1 struck out “legislative or” before “judicial branch” in cl. (iii) and added cl. (vi).
 
-1989—Subsec. (m). Pub. L. 101–157, §5, substituted “in excess of (1) 45 percent of the applicable minimum wage rate during the year beginning April 1, 1990, and (2) 50 percent of the applicable minimum wage rate after March 31, 1991,” for “in excess of 40 per centum of the applicable minimum wage rate,”.
+<b>1989</b>—Subsec. (m). Pub. L. 101–157, §5, substituted “in excess of (1) 45 percent of the applicable minimum wage rate during the year beginning April 1, 1990, and (2) 50 percent of the applicable minimum wage rate after March 31, 1991,” for “in excess of 40 per centum of the applicable minimum wage rate,”.
 
 Subsec. (r). Pub. L. 101–157, §3(d), designated first sentence as par. (1), made a separate sentence out of the existing proviso and redesignated cls. (1), (2), and (3) as (A), (B), and (C), respectively, designated second sentence as par. (2), in par. (2) as so designated, redesignated existing pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, and, in subpar. (A) as so redesignated, substituted “school is operated” for “school is public or private or operated”.
 
 Subsec. (s). Pub. L. 101–157, §3(a), amended subsec. (s) generally, completely revising definition of “enterprise engaged in commerce or in the production of goods for commerce”.
 
-1985—Subsec. (e)(1). Pub. L. 99–150, §4(a)(1), substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
+<b>1985</b>—Subsec. (e)(1). Pub. L. 99–150, §4(a)(1), substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
 
 Subsec. (e)(2)(C)(ii). Pub. L. 99–150, §5, struck out “or” at end of subcl. (III), struck out “who” in subcl. (IV) before “is an”, substituted “, or” for period at end of subcl. (IV), and added subcl. (V).
 
 Subsec. (e)(4). Pub. L. 99–150, §4(a)(2), added par. (4).
 
-1977—Subsec. (m). Pub. L. 95–151, §3(b), substituted “45 per centum” for “50 per centum”, effective Jan. 1, 1979, and “40 per centum” for “45 per centum”, effective Jan. 1, 1980.
+<b>1977</b>—Subsec. (m). Pub. L. 95–151, §3(b), substituted “45 per centum” for “50 per centum”, effective Jan. 1, 1979, and “40 per centum” for “45 per centum”, effective Jan. 1, 1980.
 
 Subsec. (s). Pub. L. 95–151, §9(a)–(c), in par. (1) inserted exception for enterprises comprised exclusively of retail or service establishments and described in par. (2), added par. (2), redesignated former pars. (2) to (5) as (3) to (6), respectively, and in text following par. (6), as so redesignated, inserted provisions relating to coverage of retail or service establishments subject to section 206(a)(1) of this title on June 30, 1978, and provisions relating to violations of such coverage requirements.
 
 Subsec. (t). Pub. L. 95–151, §3(a), substituted “$30” for “$20”.
 
-1974—Subsec. (d). Pub. L. 93–259, §6(a)(1), redefined “employer” to include a public agency and struck out text which excluded from such term the United States or any State or political subdivision of a State (except with respect to employees of a State, or a political subdivision thereof, employed (1) in a hospital, institution, or school referred to in last sentence of subsec. (r) of this section, or (2) in the operation of a railway or carrier referred to in such sentence).
+<b>1974</b>—Subsec. (d). Pub. L. 93–259, §6(a)(1), redefined “employer” to include a public agency and struck out text which excluded from such term the United States or any State or political subdivision of a State (except with respect to employees of a State, or a political subdivision thereof, employed (1) in a hospital, institution, or school referred to in last sentence of subsec. (r) of this section, or (2) in the operation of a railway or carrier referred to in such sentence).
 
 Subsec. (e). Pub. L. 93–259, §6(a)(2), in revising definition of “employee”, incorporated existing introductory text in provisions designated as par. (1), inserting exception provision; added par. (2); incorporated existing cl. (1) in provisions designated as par. (3); and struck out former cl. (2) excepting from “employee”, “any individual who is employed by an employer engaged in agriculture if such individual (A) is employed as a hand harvest laborer and is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (B) commutes daily from his permanent residence to the farm on which he is so employed, and (C) has been engaged in agriculture less than thirteen weeks during the preceding calendar year”.
 
@@ -182,13 +182,13 @@ Subsec. (m). Pub. L. 93–259, §13(e), substituted in provision respecting wage
 
 Subsec. (r)(3). Pub. L. 93–259, §6(a)(4), added par. (3).
 
-Subsec. (s). Pub. L. 93–259, §6(a)(5), in first sentence substituted preceding par. (1) “or employees handling,selling, or otherwise working on goods or materials” for “including employees handling, selling, or otherwise working on goods” and added par. (5), and inserted third sentence deeming employees of an enterprise which is a public agency to be employees engaged in commerce, or in production of goods for commerce, or employees handling, selling, or otherwise working on goods or materials that have been moved in or produced for commerce.
+Subsec. (s). Pub. L. 93–259, §6(a)(5), in first sentence substituted preceding par. (1) “or employees handling, selling, or otherwise working on goods or materials” for “including employees handling, selling, or otherwise working on goods” and added par. (5), and inserted third sentence deeming employees of an enterprise which is a public agency to be employees engaged in commerce, or in production of goods for commerce, or employees handling, selling, or otherwise working on goods or materials that have been moved in or produced for commerce.
 
 Subsec. (x). Pub. L. 93–259, §6(a)(6), added subsec. (x).
 
-1972—Subsecs. (r)(1), (s)(4). Pub. L. 92–318, §906(b)(2), (3), inserted reference to a preschool.
+<b>1972</b>—Subsecs. (r)(1), (s)(4). Pub. L. 92–318, §906(b)(2), (3), inserted reference to a preschool.
 
-1966—Subsec. (d). Pub. L. 89–601, §102(b), expanded definition of employer to include a State or a political subdivision thereof with respect to employees in a hospital, institution, or school referred to in last sentence of subsec. (r) of this section, or in the operation of a railway or carrier referred to in such sentence.
+<b>1966</b>—Subsec. (d). Pub. L. 89–601, §102(b), expanded definition of employer to include a State or a political subdivision thereof with respect to employees in a hospital, institution, or school referred to in last sentence of subsec. (r) of this section, or in the operation of a railway or carrier referred to in such sentence.
 
 Subsec. (e). Pub. L. 89–601, §103(a), excluded from definition of “employee,” when that term is used in definition of “man-day,” any agricultural employee who is the parent, spouse, child, or other member of his employer's immediate family and any agricultural hand harvest laborer, paid on a piece rate basis, who commutes daily from his permanent residence to the farm on which he is so employed, and who has been employed in agriculture less than 13 weeks during the preceding calendar year.
 
@@ -206,13 +206,13 @@ Subsec. (u). Pub. L. 89–601, §103(b), added subsec. (u).
 
 Subsecs. (v), (w). Pub. L. 89–601, §102(d), added subsecs. (v) and (w).
 
-1961—Subsec. (m). Pub. L. 87–30, §2(a), provided for exclusion from wages under a collective-bargaining agreement the cost of board, lodging, or other facilities and authorized the Secretary to determine the fair value of board, lodging, or other facilities for defined classes of employees in defined areas to be used in lieu of actual cost.
+<b>1961</b>—Subsec. (m). Pub. L. 87–30, §2(a), provided for exclusion from wages under a collective-bargaining agreement the cost of board, lodging, or other facilities and authorized the Secretary to determine the fair value of board, lodging, or other facilities for defined classes of employees in defined areas to be used in lieu of actual cost.
 
 Subsec. (n). Pub. L. 87–30, §2(b), inserted “, except as used in subsection (s)(1) of this section,”.
 
 Subsecs. (p) to (s). Pub. L. 87–30, §2(c), added subsecs. (p) to (s).
 
-1949—Subsec. (b). Act Oct. 26, 1949, §3(a), substituted “between” for “from” after “States or”, and “and” for “to” before “any place”.
+<b>1949</b>—Subsec. (b). Act Oct. 26, 1949, §3(a), substituted “between” for “from” after “States or”, and “and” for “to” before “any place”.
 
 Subsec. (j). Act Oct. 26, 1949, §3(b), inserted “closely related” before “process” and substituted “directly essential” for “necessary” after “occupation”.
 

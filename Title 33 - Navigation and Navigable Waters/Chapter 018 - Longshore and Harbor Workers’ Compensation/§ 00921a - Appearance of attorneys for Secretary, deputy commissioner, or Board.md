@@ -10,7 +10,7 @@ Section was not enacted as part of the Longshore and Harbor Workers’ Compensat
 
 #### Amendments
 
-1972—Pub. L. 92–576 substituted provisions for representation of the Secretary, the deputy commissioner, or the Board by attorneys appointed by the Secretary except for proceedings in the Supreme Court, for former provisions requiring the United States attorney in the judicial district in which the case is pending to appear as attorney or counsel on behalf of the Secretary of Labor or his deputy commissioner when either is a party to the case or interested, and to represent such Secretary or deputy in any court in which such case may be carried on appeal.
+<b>1972</b>—Pub. L. 92–576 substituted provisions for representation of the Secretary, the deputy commissioner,or the Board by attorneys appointed by the Secretary except for proceedings in the Supreme Court, for former provisions requiring the United States attorney in the judicial district in which the case is pending to appear as attorney or counsel on behalf of the Secretary of Labor or his deputy commissioner when either is a party to the case or interested, and to represent such Secretary or deputy in any court in which such case may be carried on appeal.
 
 #### Change of Name
 

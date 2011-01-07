@@ -18,7 +18,15 @@ Upon the request of the Commission, the Administrator of General Services shall 
 
 #### (e) Contracts
 
-The Commission may contract with and compensate persons and Federal agencies for supplies and services without regard to section 5 of title 41.
+The Commission may contract with and compensate persons and Federal agencies for supplies and services without regard to section 6101 of title 41.
 
 (Pub. L. 107–252, title II, §205, Oct. 29, 2002, 116 Stat. 1677.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a), (b), and (d), was in the original “this Act”, meaning Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, known as the Help America Vote Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of this title and Tables.
+
+#### Codification
+
+In subsec. (e), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

@@ -12,7 +12,7 @@ For the purpose of conserving, developing, and enhancing within the several Stat
 
 #### (c) Increase of Federal share
 
-(1) Whenever two or more States having a common interest in any basin jointly enter into a cooperative agreement with the Secretary under subsection (a) of this section to carry out a research and development program to conserve, develop, and enhance anadromous fishery resources of the Nation, or fish in the Great Lakes and Lake Champlain that ascend streamsto spawn, the Federal share of the program costs shall be increased to a maximum of 662/3 per centum. For the purpose of this subsection, the term “basin” includes rivers and their tributaries, lakes, and other bodies of water or portions thereof.
+(1) Whenever two or more States having a common interest in any basin jointly enter into a cooperative agreement with the Secretary under subsection (a) of this section to carry out a research and development program to conserve, develop, and enhance anadromous fishery resources of the Nation, or fish in the Great Lakes and Lake Champlain that ascend streams to spawn, the Federal share of the program costs shall be increased to a maximum of 662/3 per centum. For the purpose of this subsection, the term “basin” includes rivers and their tributaries, lakes, and other bodies of water or portions thereof.
 
 (2) In the case of any State that has implemented an interstate fisheries management plan for anadromous fishery resources, prepared by an interstate commission, the Federal share of any grant made under this section to carry out activities required by such plan shall be up to 90 percent. For purposes of this paragraph, the term “interstate commission” means—
 
@@ -34,19 +34,19 @@ Public Law 81–66, May 19, 1949, 63 Stat. 70, referred to in subsec. (c)(2)(C),
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–372 designated existing provisions as par. (1) and added par. (2).
+<b>2002</b>—Subsec. (b). Pub. L. 107–372 designated existing provisions as par. (1) and added par. (2).
 
-1983—Subsec. (c)(2). Pub. L. 98–44 substituted “resources, prepared by an interstate commission” for “resources”, substituted “up to 90 percent” for “90 percent”, and inserted provision defining interstate commission for purposes of this paragraph.
+<b>1983</b>—Subsec. (c)(2). Pub. L. 98–44 substituted “resources, prepared by an interstate commission” for “resources”, substituted “up to 90 percent” for “90 percent”, and inserted provision defining interstate commission for purposes of this paragraph.
 
 Subsec. (c). Pub. L. 97–453 designated existing provisions as par. (1) and added par. (2).
 
-1979—Subsec. (c). Pub. L. 96–118 struck out provisions respecting cost to Federal government of operation and maintenance of structures, devices, etc., constructed by States under cooperative agreements.
+<b>1979</b>—Subsec. (c). Pub. L. 96–118 struck out provisions respecting cost to Federal government of operation and maintenance of structures, devices, etc., constructed by States under cooperative agreements.
 
-1978—Subsecs. (a), (c). Pub. L. 95–464 inserted “and Lake Champlain” after “Great Lakes”.
+<b>1978</b>—Subsecs. (a), (c). Pub. L. 95–464 inserted “and Lake Champlain” after “Great Lakes”.
 
-1974—Subsec. (c). Pub. L. 93–362 substituted “662/3 per centum” for “60 per centum”.
+<b>1974</b>—Subsec. (c). Pub. L. 93–362 substituted “662/3 per centum” for “60 per centum”.
 
-1970—Subsec. (a). Pub. L. 91–249, §1(a), made the Federal share of the cost of conservation, development and enhancement of the anadromous fishery resources subject to the provisions of subsec. (c) of this section.
+<b>1970</b>—Subsec. (a). Pub. L. 91–249, §1(a), made the Federal share of the cost of conservation, development and enhancement of the anadromous fishery resources subject to the provisions of subsec. (c) of this section.
 
 Subsec. (c). Pub. L. 91–249, §1(b), added subsec. (c).
 

@@ -108,6 +108,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VI—FORMALDEHYDE STANDARDS FOR COMPOSITE WOOD PRODUCTS
+
+|  |  |
+| :--- | ---: |
+| [2697\.](Subchapter%20006%20%28VI%29%20-%20Formaldehyde%20Standards%20for%20Composite%20Wood%20Products/%C2%A7%2002697%20-%20Formaldehyde%20standards.md) | Formaldehyde standards. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -118,3 +126,4 @@
 - [Subchapter 003 (III) - Indoor Radon Abatement](Subchapter%20003%20%28III%29%20-%20Indoor%20Radon%20Abatement/README.md)
 - [Subchapter 004 (IV) - Lead Exposure Reduction](Subchapter%20004%20%28IV%29%20-%20Lead%20Exposure%20Reduction/README.md)
 - [Subchapter 005 (V) - Healthy High-Performance Schools](Subchapter%20005%20%28V%29%20-%20Healthy%20High-Performance%20Schools/README.md)
+- [Subchapter 006 (VI) - Formaldehyde Standards for Composite Wood Products](Subchapter%20006%20%28VI%29%20-%20Formaldehyde%20Standards%20for%20Composite%20Wood%20Products/README.md)

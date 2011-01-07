@@ -22,5 +22,5 @@ The words “without their consent” are substituted for the word “involuntar
 
 #### Amendments
 
-1994—Pub. L. 103–337 renumbered section 677 of this title as this section.
+<b>1994</b>—Pub. L. 103–337 renumbered section 677 of this title as this section.
 

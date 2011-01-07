@@ -12,7 +12,7 @@
 
 #### Amendments
 
-1990—Pub. L. 101–510, div. A, title V, §521(a)(2), Nov. 5, 1990, 104 Stat. 1561, added item 638a.
+<b>1990</b>—Pub. L. 101–510, div. A, title V, §521(a)(2), Nov. 5, 1990, 104 Stat. 1561, added item 638a.
 
 
 ---

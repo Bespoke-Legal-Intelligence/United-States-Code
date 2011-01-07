@@ -90,7 +90,7 @@ Any allotments approved pursuant to this section during the four years following
 
 Act of February 8, 1887 (24 Stat. 389), referred to in subsec. (a), is popularly known as the Indian General Allotment Act. For complete classification of this Act to the Code, see Short Title note set out under section 331 of Title 25, Indians, and Tables.
 
-Act of June 25, 1910 (36 Stat. 363), referred to in subsec. (a), probably means act June 25, 1910, ch. 431, 36 Stat. 855, which enacted section 148 of this title, sections 104 and 107 of former Title 18, Criminal Code and Criminal Procedure, sections 47, 93, 151, 191, 202, 312, 331, 333, 336, 337, 344a, 351, 352, 353, 372, 373, 403, 406, 407, 408 of Title 25, sections 6a–1 and 16a of Title 41, Public Contracts. Sections 104 and 107 of former Title 18 were repealed in the general revision of that title by act June 25, 1948, ch. 645, 62 Stat. 683, and were reenacted as sections 1853 and 1856 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables.
+Act of June 25, 1910 (36 Stat. 363), referred to in subsec. (a), probably means act June 25, 1910, ch. 431, 36 Stat. 855, which enacted section 148 of this title, sections 104 and 107 of former Title 18, Criminal Code and Criminal Procedure, sections 47, 93, 151, 191, 202, 312, 331, 333, 336, 337, 344a, 351, 352, 353, 372, 373, 403, 406, 407, 408 of Title 25, section 6a–1 of former Title 41, Public Contracts. Sections 104 and 107 of former Title 18 were repealed in the general revision of that title by act June 25, 1948, ch. 645, 62 Stat. 683, and were reenacted as sections 1853 and 1856 of Title 18, Crimes and Criminal Procedure. Section 6a–1 of former Title 41 was repealed and restated as section 6102(e) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Tables.
 
 Act of May 17, 1906 (34 Stat. 197), as amended, referred to in subsecs. (a), (d)(2)(B)(i), and (f)(1), is act May 17, 1906, ch. 2469, 34 Stat. 197, which enacted sections 270–1, 270–2, and 270–3 of this title, and was repealed by Pub. L. 92–203, §18(a), Dec. 18, 1971, 85 Stat. 710. For complete classification of this Act to the Code, see Tables.
 
@@ -100,13 +100,13 @@ Section 6 of the Act entitled “An Act to provide for the admission of the Stat
 
 #### Amendments
 
-2004—Subsec. (d). Pub. L. 108–452, §301, added subsec. (d).
+<b>2004</b>—Subsec. (d). Pub. L. 108–452, §301, added subsec. (d).
 
 Subsec. (e). Pub. L. 108–452, §303, added subsec. (e).
 
 Subsec. (f). Pub. L. 108–452, §305, added subsec. (f).
 
-1992—Subsec. (c). Pub. L. 102–415 added subsec. (c).
+<b>1992</b>—Subsec. (c). Pub. L. 102–415 added subsec. (c).
 
 #### Title Recovery of Native Allotments
 

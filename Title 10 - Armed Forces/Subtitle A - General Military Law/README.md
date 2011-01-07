@@ -49,12 +49,7 @@
 | [<b>49.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20049%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md) | <b>Miscellaneous Prohibitions and Penalties</b> | <b>971</b> |
 | [<b>50.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20050%20-%20Miscellaneous%20Command%20Responsibilities/README.md) | <b>Miscellaneous Command Responsibilities</b> | <b>991</b> |
 | [<b>51.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20051%20-%20Reserve%20Components%20Standards%20and%20Procedures%20for%20Retention%20and%20Promotion/README.md) | <b>Reserve Components: Standards and Procedures for Retention and Promotion</b> | <b>1001</b> |
-| [<b>53.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20053%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md) | <b>Miscellaneous Rights and Benefits</b> | <b>1031 </b><b><sup>1</sup></b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
+| [<b>53.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20053%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md) | <b>Miscellaneous Rights and Benefits</b> | <b>1030</b> |
 | [<b>54.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20054%20-%20Commissary%20and%20Exchange%20Benefits/README.md) | <b>Commissary and Exchange Benefits</b> | <b>1061</b> |
 | [<b>55.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20055%20-%20Medical%20and%20Dental%20Care/README.md) | <b>Medical and Dental Care</b> | <b>1071</b> |
 | [<b>56.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20056%20-%20Department%20of%20Defense%20Medicare-Eligible%20Retiree%20Health%20Care%20Fund/README.md) | <b>Department of Defense Medicare-Eligible Retiree Health Care Fund</b> | <b>1111</b> |
@@ -126,7 +121,7 @@
 | [<b>146.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20146%20-%20Contracting%20for%20Performance%20of%20Civilian%20Commercial%20or%20Industrial%20Type%20Functions/README.md) | <b>Contracting for Performance of Civilian Commercial or Industrial Type Functions</b> | <b>2460</b> |
 | [<b>147.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20147%20-%20Commissaries%20and%20Exchanges%20and%20Other%20Morale%2C%20Welfare%2C%20and%20Recreation%20Activities/README.md) | <b>Commissaries and Exchanges and Other Morale, Welfare, and Recreation Activities</b> | <b>2481</b> |
 | [<b>148.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20148%20-%20National%20Defense%20Technology%20and%20Industrial%20Base%2C%20Defense%20Reinvestment%2C%20and%20Defense%20Conversion/README.md) | <b>National Defense Technology and Industrial Base, Defense Reinvestment, and Defense Conversion</b> | <b>2500</b> |
-| <b>\[149.</b> | <b>Repealed.\]</b> |  |
+| [<b>149.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20149%20-%20Defense%20Acquisition%20System/README.md) | <b>Defense Acquisition System</b> | <b>2545</b> |
 | <b>\[150.</b> | <b>Repealed.\]</b> |  |
 | [<b>152.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20152%20-%20Issue%20of%20Supplies%2C%20Services%2C%20and%20Facilities/README.md) | <b>Issue of Supplies, Services, and Facilities</b> | <b>2551</b> |
 | [<b>153.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20153%20-%20Exchange%20of%20Material%20and%20Disposal%20of%20Obsolete%2C%20Surplus%2C%20or%20Unclaimed%20Property/README.md) | <b>Exchange of Material and Disposal of Obsolete, Surplus, or Unclaimed Property</b> | <b>2571</b> |
@@ -147,59 +142,61 @@
 
 #### Amendments
 
-2009—Pub. L. 111–84, div. A, title X, §1073(a)(1), Oct. 28, 2009, 123 Stat. 2472, substituted “1580” for “1581” in item for chapter 81 and “2551” for “2541” in item for chapter 152.
+<b>2011</b>—Pub. L. 111–383, div. A, title VIII, §861(b), title X, §1075(b)(1), Jan. 7, 2011, 124 Stat. 4292, 4368, substituted “1030” for “1031” in item for chapter 53 and added item for chapter 149.
 
-2008—Pub. L. 110–181, div. A, title X, §1068(a)(4)(B), Jan. 28, 2008, 122 Stat. 326, substituted “Insurrection” for “Enforcement of the Laws to Restore Public Order” in item for chapter 15.
+<b>2009</b>—Pub. L. 111–84, div. A, title X, §1073(a)(1), Oct. 28, 2009, 123 Stat. 2472, substituted “1580” for “1581” in item for chapter 81 and “2551” for “2541” in item for chapter 152.
 
-2006—Pub. L. 109–366, §3(a)(2), Oct. 17, 2006, 120 Stat. 2630, added item for chapter 47A.
+<b>2008</b>—Pub. L. 110–181, div. A, title X, §1068(a)(4)(B), Jan. 28, 2008, 122 Stat. 326, substituted “Insurrection” for “Enforcement of the Laws to Restore Public Order” in item for chapter 15.
+
+<b>2006</b>—Pub. L. 109–366, §3(a)(2), Oct. 17, 2006, 120 Stat. 2630, added item for chapter 47A.
 
 Pub. L. 109–364, div. A, title VIII, §816(a)(2), title X, §1076(a)(4)(A), div. B, title XXVIII, §2851(c)(1), Oct. 17, 2006, 120 Stat. 2326, 2405, 2495, substituted “Enforcement of the Laws to Restore Public Order” for “Insurrection” in item for chapter 15 and added items for chapters 144A and 173.
 
-2004—Pub. L. 108–375, div. A, title V, §532(e), title X, §1084(d)(1), Oct. 28, 2004, 118 Stat. 1900, 2061, substituted “480” for “481” in item for chapter 23, added item for chapter 107, and redesignated former item for chapter 107 as item for chapter 106A.
+<b>2004</b>—Pub. L. 108–375, div. A, title V, §532(e), title X, §1084(d)(1), Oct. 28, 2004, 118 Stat. 1900, 2061, substituted “480” for “481” in item for chapter 23, added item for chapter 107, and redesignated former item for chapter 107 as item for chapter 106A.
 
-2003—Pub. L. 108–136, div. A, title IX, §921(d)(8), title X, §1045(a)(1), Nov. 24, 2003, 117 Stat. 1569, 1612, substituted “Geospatial-Intelligence” for “Imagery and Mapping” in item for chapter 22 and “2700” for “2701” in item for chapter 160.
+<b>2003</b>—Pub. L. 108–136, div. A, title IX, §921(d)(8), title X, §1045(a)(1), Nov. 24, 2003, 117 Stat. 1569, 1612, substituted “Geospatial-Intelligence” for “Imagery and Mapping” in item for chapter 22 and “2700” for “2701” in item for chapter 160.
 
-2001—Pub. L. 107–107, div. A, title IX, §911(b), title X, §1048(a)(1), Dec. 28, 2001, 115 Stat. 1196, 1222, struck out period after “1111” in item for chapter 56 and added item for chapter 135.
+<b>2001</b>—Pub. L. 107–107, div. A, title IX, §911(b), title X, §1048(a)(1), Dec. 28, 2001, 115 Stat. 1196, 1222, struck out period after “1111” in item for chapter 56 and added item for chapter 135.
 
-2000—Pub. L. 106–398, §1 \[\[div. A\], title VII, §713(a)(2), title IX, §922(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–184, 1654A–236, added items for chapters 56 and 112.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title VII, §713(a)(2), title IX, §922(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–184, 1654A–236, added items for chapters 56 and 112.
 
-1999—Pub. L. 106–65, div. A, title V, §586(c)(1), title VII, §721(c)(2), Oct. 5, 1999, 113 Stat. 638, 694, added item for chapter 50 and substituted “Deceased Personnel” for “Death Benefits” and “1471” for “1475” in item for chapter 75.
+<b>1999</b>—Pub. L. 106–65, div. A, title V, §586(c)(1), title VII, §721(c)(2), Oct. 5, 1999, 113 Stat. 638, 694, added item for chapter 50 and substituted “Deceased Personnel” for “Death Benefits” and “1471” for “1475” in item for chapter 75.
 
-1997—Pub. L. 105–85, div. A, title III, §§355(c)(2), 371(a)(2), (c)(5), title V, §591(a)(2), title X, §§1073(a)(1), (2), 1074(d)(2), Nov. 18, 1997, 111 Stat. 1694, 1705, 1762, 1900, 1910, substituted “481” for “471” in item for chapter 23, added items for chapters 80 and 136, and substituted “2460” for “2461” in item for chapter 146, “Commissaries and Exchanges and Other Morale, Welfare, and Recreation Activities” for “Utilities and Services” in item for chapter 147, “2500” for “2491” in item for chapter 148, and “2541” for “2540” in item for chapter 152.
+<b>1997</b>—Pub. L. 105–85, div. A, title III, §§355(c)(2), 371(a)(2), (c)(5), title V, §591(a)(2), title X, §§1073(a)(1), (2), 1074(d)(2), Nov. 18, 1997, 111 Stat. 1694, 1705, 1762, 1900, 1910, substituted “481” for “471” in item for chapter 23, added items for chapters 80 and 136, and substituted “2460” for “2461” in item for chapter 146, “Commissaries and Exchanges and Other Morale, Welfare, and Recreation Activities” for “Utilities and Services” in item for chapter 147, “2500” for “2491” in item for chapter 148, and “2541” for “2540” in item for chapter 152.
 
-1996—Pub. L. 104–201, div. A, title XI, §1123(a)(1), (2), title XVI, §1633(c)(3), Sept. 23, 1996, 110 Stat. 2687, 2688, 2751, substituted “National Imagery and Mapping Agency” for “Miscellaneous Studies and Reports” and “441” for “451” in item for chapter 22, added item for chapter 23, substituted “Civilian Defense Intelligence Employees” for “Defense Intelligence Agency and Central Imagery Office Civilian Personnel” in item for chapter 83, and struck out item for chapter 167 “Defense Mapping Agency”.
+<b>1996</b>—Pub. L. 104–201, div. A, title XI, §1123(a)(1), (2), title XVI, §1633(c)(3), Sept. 23, 1996, 110 Stat. 2687, 2688, 2751, substituted “National Imagery and Mapping Agency” for “Miscellaneous Studies and Reports” and “441” for “451” in item for chapter 22, added item for chapter 23, substituted “Civilian Defense Intelligence Employees” for “Defense Intelligence Agency and Central Imagery Office Civilian Personnel” in item for chapter 83, and struck out item for chapter 167 “Defense Mapping Agency”.
 
 Pub. L. 104–106, div. A, title V, §§568(a)(2), 569(b)(2), title X, §1061(a)(2), (b)(2), Feb. 10, 1996, 110 Stat. 335, 351, 442, added items for chapters 76 and 88 and struck out items for chapters 89 “Volunteers Investing in Peace and Security” and 171 “Security and Control of Supplies”.
 
-1994—Pub. L. 103–359, title V, §501(b)(2), Oct. 14, 1994, 108 Stat. 3429, substituted “Defense Intelligence Agency and Central Imagery Office Civilian Personnel” for “Defense Intelligence Agency Civilian Personnel” in item for chapter 83.
+<b>1994</b>—Pub. L. 103–359, title V, §501(b)(2), Oct. 14, 1994, 108 Stat. 3429, substituted “Defense Intelligence Agency and Central Imagery Office Civilian Personnel” for “Defense Intelligence Agency Civilian Personnel” in item for chapter 83.
 
 Pub. L. 103–355, title VIII, §8101(b), Oct. 13, 1994, 108 Stat. 3389, added item for chapter 140.
 
 Pub. L. 103–337, div. A, title V, §554(a)(2), Oct. 5, 1994, 108 Stat. 2773, added item for chapter 22.
 
-1993—Pub. L. 103–160, div. A, title VIII, §828(b)(1), Nov. 30, 1993, 107 Stat. 1713, struck out item for chapter 135 “Encouragement of Aviation”.
+<b>1993</b>—Pub. L. 103–160, div. A, title VIII, §828(b)(1), Nov. 30, 1993, 107 Stat. 1713, struck out item for chapter 135 “Encouragement of Aviation”.
 
-1992—Pub. L. 102–484, div. A, title XIII, §1322(a)(2), div. D, title XLII, §4271(b)(1), Oct. 23, 1992, 106 Stat. 2553, 2695, added items for chapters 89 and 148 and struck out former items for chapters 148 “Defense Industrial Base”, 149 “Manufacturing Technology”, and 150 “Development of Dual-Use Critical Technologies”.
+<b>1992</b>—Pub. L. 102–484, div. A, title XIII, §1322(a)(2), div. D, title XLII, §4271(b)(1), Oct. 23, 1992, 106 Stat. 2553, 2695, added items for chapters 89 and 148 and struck out former items for chapters 148 “Defense Industrial Base”, 149 “Manufacturing Technology”, and 150 “Development of Dual-Use Critical Technologies”.
 
-1991—Pub. L. 102–190, div. A, title X, §1061(a)(26)(C)(ii), Dec. 5, 1991, 105 Stat. 1474, effective Oct. 1, 1993, struck out item for chapter 85 “Procurement Management Personnel”.
+<b>1991</b>—Pub. L. 102–190, div. A, title X, §1061(a)(26)(C)(ii), Dec. 5, 1991, 105 Stat. 1474, effective Oct. 1, 1993, struck out item for chapter 85 “Procurement Management Personnel”.
 
-Pub. L. 102–190, div. A, title VIII, §821(f), title X, §§1002(a)(2), 1061(a)(27)(A), title XI, §1112(b)(2), Dec. 5, 1991, 105 Stat. 1432, 1455, 1474, 1501, substituted “Defense Budget Matters” for “Regular Components” and inserted “221” in item for chapter 9, substituted “Original Appointments of Regular Officers in Grades Above Warrant Officer Grades” for “Appointments in Regular Components” in item for chapter 33, added item forchapter 33A, substituted “Manufacturing” for “Maufacturing” in item for chapter 149, added items for chapters 150 and 152, struck out item for former chapter 150 “Issue to Armed Forces” and struck out item for former chapter 151 “Issue of Serviceable Material Other Than to Armed Forces”.
+Pub. L. 102–190, div. A, title VIII, §821(f), title X, §§1002(a)(2), 1061(a)(27)(A), title XI, §1112(b)(2), Dec. 5, 1991, 105 Stat. 1432, 1455, 1474, 1501, substituted “Defense Budget Matters” for “Regular Components” and inserted “221” in item for chapter 9, substituted “Original Appointments of Regular Officers in Grades Above Warrant Officer Grades” for “Appointments in Regular Components” in item for chapter 33, added item for chapter 33A, substituted “Manufacturing” for “Maufacturing” in item for chapter 149, added items for chapters 150 and 152, struck out item for former chapter 150 “Issue to Armed Forces” and struck out item for former chapter 151 “Issue of Serviceable Material Other Than to Armed Forces”.
 
 Pub. L. 102–25, title VII, §701(e)(1), (2), Apr. 6, 1991, 105 Stat. 114, added item for chapter 85 and in item for chapter 108 inserted “2161”.
 
-1990—Pub. L. 101–510, div. A, title II, §247(a)(2)(B), title V, §502(a)(2), title VIII, §823(b)(1), title IX, §911(b)(3), title XII, §1202(b), title XVIII, §1801(a)(2), Nov. 5, 1990, 104 Stat. 1523, 1557, 1602, 1626, 1656, 1757, added item for chapter 58, struck out item for chapter 85 “Procurement Management Personnel”, added item for chapter 87, substituted “Department of Defense Schools” for “Granting of Advanced Degrees at Department of Defense Schools” in item for chapter 108, substituted “Support of Science, Mathematics, and Engineering Education” for “National Defense Science and Engineering Graduate Fellowships” in item for chapter 111, added item for chapter 149 and redesignated former item for chapter 149 as item for chapter 150, and added item for chapter 172.
+<b>1990</b>—Pub. L. 101–510, div. A, title II, §247(a)(2)(B), title V, §502(a)(2), title VIII, §823(b)(1), title IX, §911(b)(3), title XII, §1202(b), title XVIII, §1801(a)(2), Nov. 5, 1990, 104 Stat. 1523, 1557, 1602, 1626, 1656, 1757, added item for chapter 58, struck out item for chapter 85 “Procurement Management Personnel”, added item for chapter 87, substituted “Department of Defense Schools” for “Granting of Advanced Degrees at Department of Defense Schools” in item for chapter 108, substituted “Support of Science, Mathematics, and Engineering Education” for “National Defense Science and Engineering Graduate Fellowships” in item for chapter 111, added item for chapter 149 and redesignated former item for chapter 149 as item for chapter 150, and added item for chapter 172.
 
-1989—Pub. L. 101–189, div. A, title VIII, §843(d)(2), title IX, §931(e)(2), title XVI, §1622(d)(2), Nov. 29, 1989, 103 Stat. 1517, 1535, 1605, substituted “Training and Education” for “Training” in item for part III, added item for chapter 111, and substituted “Cooperative Agreements” for “Acquisition and Cross-Servicing Agreements” in item for chapter 138.
+<b>1989</b>—Pub. L. 101–189, div. A, title VIII, §843(d)(2), title IX, §931(e)(2), title XVI, §1622(d)(2), Nov. 29, 1989, 103 Stat. 1517, 1535, 1605, substituted “Training and Education” for “Training” in item for part III, added item for chapter 111, and substituted “Cooperative Agreements” for “Acquisition and Cross-Servicing Agreements” in item for chapter 138.
 
-1988—Pub. L. 100–456, div. A, title III, §§342(a)(2), 344(b)(2), title VIII, §821(b)(2), title XI, §1104(b), Sept. 29, 1988, 102 Stat. 1961, 1962, 2016, 2046, substituted “Support for” for “Cooperation With” and “Agencies” for “Officials” in item for chapter 18, substituted “Defense Industrial Base” for “Buy American Requirements” in item for chapter 148, substituted “Property Records and Report of Theft or Loss of Certain Property” for “Property Records” in item for chapter 161, and added item for chapter 171.
+<b>1988</b>—Pub. L. 100–456, div. A, title III, §§342(a)(2), 344(b)(2), title VIII, §821(b)(2), title XI, §1104(b), Sept. 29, 1988, 102 Stat. 1961, 1962, 2016, 2046, substituted “Support for” for “Cooperation With” and “Agencies” for “Officials” in item for chapter 18, substituted “Defense Industrial Base” for “Buy American Requirements” in item for chapter 148, substituted “Property Records and Report of Theft or Loss of Certain Property” for “Property Records” in item for chapter 161, and added item for chapter 171.
 
 Pub. L. 100–370, §§1(c)(3), (e)(2), 2(a)(2), 3(a)(2), July 19, 1988, 102 Stat. 841, 845, 854, 855, added items for chapters 54, 134, 146, and 148.
 
-1987—Pub. L. 100–180, div. A, title III, §332(c), title VII, §711(b), Dec. 4, 1987, 101 Stat. 1080, 1111, substituted “Humanitarian and Other Assistance” for “Humanitarian and Civic Assistance Provided in Conjunction With Military Operations” in item for chapter 20 and “Financial Assistance Programs” for “Scholarship Program” in item for chapter 105.
+<b>1987</b>—Pub. L. 100–180, div. A, title III, §332(c), title VII, §711(b), Dec. 4, 1987, 101 Stat. 1080, 1111, substituted “Humanitarian and Other Assistance” for “Humanitarian and Civic Assistance Provided in Conjunction With Military Operations” in item for chapter 20 and “Financial Assistance Programs” for “Scholarship Program” in item for chapter 105.
 
 Pub. L. 100–26, §§7(c)(1), 9(b)(4), Apr. 21, 1987, 101 Stat. 280, 287, added item for chapter 21, substituted “Acquisition and Cross-Servicing Agreements with NATO Allies and Other Countries” for “North Atlantic Treaty Organization Acquisition and Cross-Servicing Agreements” in item for chapter 138, substituted “Major Defense Acquisition Programs” for “Oversight of Cost Growth in Major Programs” and “2430” for “2431” in item for chapter 144, and substituted “2721” for “2701” in item for chapter 161.
 
-1986—Pub. L. 99–661, div. A, title III, §333(a)(2), title XIII, §1343(a)(22), Nov. 14, 1986, 100 Stat. 3859, 3994, added item for chapter 20 and substituted “2341” for “2321” in item for chapter 138.
+<b>1986</b>—Pub. L. 99–661, div. A, title III, §333(a)(2), title XIII, §1343(a)(22), Nov. 14, 1986, 100 Stat. 3859, 3994, added item for chapter 20 and substituted “2341” for “2321” in item for chapter 138.
 
 Pub. L. 99–499, title II, §211(a)(2), Oct. 17, 1986, 100 Stat. 1725, added item for chapter 160.
 
@@ -207,23 +204,23 @@ Pub. L. 99–433, title IV, §401(b), title VI, §605, Oct. 1, 1986, 100 Stat. 1
 
 Pub. L. 99–399, title VIII, §806(d)(2), Aug. 27, 1986, 100 Stat. 888, added item for chapter 110.
 
-1985—Pub. L. 99–145, title VI, §671(a)(2), title IX, §924(a)(2), Nov. 8, 1985, 99 Stat. 663, 698, added items for chapters 85 and 109.
+<b>1985</b>—Pub. L. 99–145, title VI, §671(a)(2), title IX, §924(a)(2), Nov. 8, 1985, 99 Stat. 663, 698, added items for chapters 85 and 109.
 
-1984—Pub. L. 98–525, title VII, §705(a)(2), title XII, §1241(a)(2), Oct. 19, 1984, 98 Stat. 2567, 2606, substituted “Members of the Selected Reserve” for “Enlisted Members of the Selected Reserve of the Ready Reserve” in item for chapter 106 and added item for chapter 142.
+<b>1984</b>—Pub. L. 98–525, title VII, §705(a)(2), title XII, §1241(a)(2), Oct. 19, 1984, 98 Stat. 2567, 2606, substituted “Members of the Selected Reserve” for “Enlisted Members of the Selected Reserve of the Ready Reserve” in item for chapter 106 and added item for chapter 142.
 
-1983—Pub. L. 98–94, title IX, §925(a)(2), title XII, §1268(15), Sept. 24, 1983, 97 Stat. 648, 707, added item for chapter 74, and substituted “or” for “and” in item for chapter 60.
+<b>1983</b>—Pub. L. 98–94, title IX, §925(a)(2), title XII, §1268(15), Sept. 24, 1983, 97 Stat. 648, 707, added item for chapter 74, and substituted “or” for “and” in item for chapter 60.
 
-1982—Pub. L. 97–295, §1(50)(D), Oct. 12, 1982, 96 Stat. 1300, added item for chapter 167.
+<b>1982</b>—Pub. L. 97–295, §1(50)(D), Oct. 12, 1982, 96 Stat. 1300, added item for chapter 167.
 
 Pub. L. 97–269, title V, §501(b), Sept. 27, 1982, 96 Stat. 1145, added item for chapter 8.
 
 Pub. L. 97–214, §2(b), July 12, 1982, 96 Stat. 169, added item for chapter 169.
 
-1981—Pub. L. 97–89, title VII, §701(a)(2), Dec. 4, 1981, 95 Stat. 1160, added item for chapter 83.
+<b>1981</b>—Pub. L. 97–89, title VII, §701(a)(2), Dec. 4, 1981, 95 Stat. 1160, added item for chapter 83.
 
 Pub. L. 97–86, title IX, §905(a)(2), Dec. 1, 1981, 95 Stat. 1116, added item for chapter 18.
 
-1980—Pub. L. 96–513, title V, §§501(1), 511(29), (54)(B), (99), Dec. 12, 1980, 94 Stat. 2907, 2922, 2925, 2929, added item for chapter 32, substituted “531” for “541” as section number in item for chapter 33, substituted “34” for “35” as chapter number of chapter relating to appointments as reserve officers, added items for chapters 35 and 36, substituted “Reserve Components: Standards and Procedures for Retention and Promotion” for “Retention of Reserves” in item for chapter 51, added item for chapter 60, substituted “1251” for “1255” as section number in item for chapter 63, substituted “Retirement of Warrant Officers” for “Retirement” in item for chapter 65, substituted “1370” for “1371” as section number in item for chapter 69, amended item for chapter 73 to read: “Annuities Based on Retired or Retainer Pay”, and capitalized “Assistance”, “Persons”, “Enlisting”, “Active”, and “Duty” in item for chapter 107.
+<b>1980</b>—Pub. L. 96–513, title V, §§501(1), 511(29), (54)(B), (99), Dec. 12, 1980, 94 Stat. 2907, 2922, 2925, 2929, added item for chapter 32, substituted “531” for “541” as section number in item for chapter 33, substituted “34” for “35” as chapter number of chapter relating to appointments as reserve officers, added items for chapters 35 and 36, substituted “Reserve Components: Standards and Procedures for Retention and Promotion” for “Retention of Reserves” in item for chapter 51, added item for chapter 60, substituted “1251” for “1255” as section number in item for chapter 63, substituted “Retirement of Warrant Officers” for “Retirement” in item for chapter 65, substituted “1370” for “1371” as section number in item for chapter 69, amended item for chapter 73 to read: “Annuities Based on Retired or Retainer Pay”, and capitalized “Assistance”, “Persons”, “Enlisting”, “Active”, and “Duty” in item for chapter 107.
 
 Pub. L. 96–450, title IV, §406(b), Oct. 14, 1980, 94 Stat. 1981, added item for chapter 108.
 
@@ -231,27 +228,27 @@ Pub. L. 96–342, title IX, §901(b), Sept. 8, 1980, 94 Stat. 1114, added item f
 
 Pub. L. 96–323, §2(b), Aug. 4, 1980, 94 Stat. 1019, added item for chapter 138.
 
-1977—Pub. L. 95–79, title IV, §402(b), July 30, 1977, 91 Stat. 330, added item for chapter 106.
+<b>1977</b>—Pub. L. 95–79, title IV, §402(b), July 30, 1977, 91 Stat. 330, added item for chapter 106.
 
-1972—Pub. L. 92–426, §2(b), Sept. 21, 1972, 86 Stat. 719, added items for chapters 104 and 105.
+<b>1972</b>—Pub. L. 92–426, §2(b), Sept. 21, 1972, 86 Stat. 719, added items for chapters 104 and 105.
 
 Pub. L. 92–425, §2, Sept. 21, 1972, 86 Stat. 711, amended item for chapter 73 by inserting “; Survivor Benefit Plan” after “Pay” which could not be executed as directed in view of amendment by Pub. L. 87–381. See 1961 Amendment note below.
 
-1968—Pub. L. 90–377, §2, July 5, 1968, 82 Stat. 288, added item for chapter 48.
+<b>1968</b>—Pub. L. 90–377, §2, July 5, 1968, 82 Stat. 288, added item for chapter 48.
 
-1967—Pub. L. 90–83, §3(2), Sept. 11, 1967, 81 Stat. 220, struck out item for chapter 80 “Exemplary Rehabilitation Certificates”.
+<b>1967</b>—Pub. L. 90–83, §3(2), Sept. 11, 1967, 81 Stat. 220, struck out item for chapter 80 “Exemplary Rehabilitation Certificates”.
 
-1966—Pub. L. 89–690, §2, Oct. 15, 1966, 80 Stat. 1017, added item for chapter 80.
+<b>1966</b>—Pub. L. 89–690, §2, Oct. 15, 1966, 80 Stat. 1017, added item for chapter 80.
 
-1964—Pub. L. 88–647, title I, §101(2), title II, §201(2), Oct. 13, 1964, 78 Stat. 1064, 1069, added items for chapters 102 and 103.
+<b>1964</b>—Pub. L. 88–647, title I, §101(2), title II, §201(2), Oct. 13, 1964, 78 Stat. 1064, 1069, added items for chapters 102 and 103.
 
-1962—Pub. L. 87–651, title II, §203, Sept. 7, 1962, 76 Stat. 519, added item for chapter 4.
+<b>1962</b>—Pub. L. 87–651, title II, §203, Sept. 7, 1962, 76 Stat. 519, added item for chapter 4.
 
 Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40.
 
-1961—Pub. L. 87–381, §1(2), Oct. 4, 1961, 75 Stat. 810, substituted “Retired Serviceman's Family Protection Plan” for “Annuities Based on Retired or Retainer Pay” in item for chapter 73.
+<b>1961</b>—Pub. L. 87–381, §1(2), Oct. 4, 1961, 75 Stat. 810, substituted “Retired Serviceman's Family Protection Plan” for “Annuities Based on Retired or Retainer Pay” in item for chapter 73.
 
-1958—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted “General Service Requirements” for “Service Requirements for Reserves” in item for chapter 37, “971” for “\[No present sections\]” in item for chapter 49, “Medical and Dental Care” for “Voting by Members of Armed Forces” in item for chapter 55, and struck out “Care of the Dead” and substituted “1475” for “1481” in item for chapter 75.
+<b>1958</b>—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted “General Service Requirements” for “Service Requirements for Reserves” in item for chapter 37, “971” for “\[No present sections\]” in item for chapter 49, “Medical and Dental Care” for “Voting by Members of ArmedForces” in item for chapter 55, and struck out “Care of the Dead” and substituted “1475” for “1481” in item for chapter 75.
 
 
 ---

@@ -12,7 +12,7 @@
 
 #### (2) Phasein
 
-&emsp;In the case of any taxable year beginning after 2004 and before 2010, paragraph (1) shall be applied by substituting for the percentage contained therein the transition percentage determined under the following table:
+&emsp;In the case of any taxable year beginning after 2004 and before 2010, paragraph (1) shall be applied by substituting for the percentagecontained therein the transition percentage determined under the following table:
 
 <b>For taxable years</b>
 
@@ -38,13 +38,13 @@
 
 &emsp;The amount of the deduction allowable under subsection (a) for any taxable year shall not exceed 50 percent of the W–2 wages of the taxpayer for the taxable year.
 
-#### (2) W-2 wages
+#### (2) W–2 wages
 
 &emsp;For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “W-2 wages” means, with respect to any person for any taxable year of such person, the sum of the amounts described in paragraphs (3) and (8) of section 6051(a) paid by such person with respect to employment of employees by such person during the calendar year ending during such taxable year.
+&emsp;&emsp;The term “W–2 wages” means, with respect to any person for any taxable year of such person, the sum of the amounts described in paragraphs (3) and (8) of section 6051(a) paid by such person with respect to employment of employees by such person during the calendar year ending during such taxable year.
 
 #### (B) Limitation to wages attributable to domestic production
 
@@ -106,7 +106,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(III) electricity, natural gas, or potable water produced by the taxpayer in the United States,
 
-&emsp;&emsp;&emsp;(ii) in the case of a taxpayer engaged in the active conduct of a construction trade or business, construction of real propertyperformed in the United States by the taxpayer in the ordinary course of such trade or business, or
+&emsp;&emsp;&emsp;(ii) in the case of a taxpayer engaged in the active conduct of a construction trade or business, construction of real property performed in the United States by the taxpayer in the ordinary course of such trade or business, or
 
 &emsp;&emsp;&emsp;(iii) in the case of a taxpayer engaged in the active conduct of an engineering or architectural services trade or business, engineering or architectural services performed in the United States by the taxpayer in the ordinary course of such trade or business with respect to the construction of real property in the United States.
 
@@ -182,7 +182,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the items referred to in subparagraph (A)(ii) (as determined therein) and the W–2 wages of the trust or estate for the taxable year, shall be apportioned between the beneficiaries and the fiduciary (and among the beneficiaries) under regulations prescribed by the Secretary, and
 
-&emsp;&emsp;&emsp;(ii) for purposes of paragraph (2), adjusted gross income of the trust or estateshall be determined as provided in section 67(e) with the adjustments described in such paragraph.
+&emsp;&emsp;&emsp;(ii) for purposes of paragraph (2), adjusted gross income of the trust or estate shall be determined as provided in section 67(e) with the adjustments described in such paragraph.
 
 #### (C) Regulations
 
@@ -274,15 +274,15 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any taxpayer with gross receipts for any taxable year from sourceswithin the Commonwealth of Puerto Rico, if all of such receipts are taxable under section 1 or 11 for such taxable year, then for purposes of determining the domestic production gross receipts of such taxpayer for such taxable year under subsection (c)(4), the term “United States” shall include the Commonwealth of Puerto Rico.
+&emsp;&emsp;In the case of any taxpayer with gross receipts for any taxable year from sources within the Commonwealth of Puerto Rico, if all of such receipts are taxable under section 1 or 11 for such taxable year, then for purposes of determining the domestic production gross receipts of such taxpayer for such taxable year under subsection (c)(4), the term “United States” shall include the Commonwealth of Puerto Rico.
 
 #### (B) Special rule for applying wage limitation
 
-&emsp;&emsp;In the case of any taxpayer described in subparagraph (A), for purposes of applying the limitation under subsection (b) for any taxable year, the determination of W–2 wages of such taxpayer shall be made without regard to any exclusion under section 3401(a)(8) for remuneration paid for services performed in Puerto Rico.
+&emsp;&emsp;In the case of any taxpayer described in subparagraph (A), for purposes of applying the limitation under subsection (b) for any taxable year, the determination of W–2 wages of such taxpayer shall be made without regard to any exclusion under section3401(a)(8) for remuneration paid for services performed in Puerto Rico.
 
 #### (C) Termination
 
-&emsp;&emsp;This paragraph shall apply only with respect to the first 4 taxable years of the taxpayer beginning after December 31, 2005, and before January 1, 2010.
+&emsp;&emsp;This paragraph shall apply only with respect to the first 6 taxable years of the taxpayer beginning after December 31, 2005, and before January 1, 2012.
 
 #### (9) Special rule for taxpayers with oil related qualified production activities income
 
@@ -308,7 +308,7 @@ For purposes of this section—
 
 &emsp;The Secretary shall prescribe such regulations as are necessary to carry out the purposes of this section, including regulations which prevent more than 1 taxpayer from being allowed a deduction under this section with respect to any activity described in subsection (c)(4)(A)(i).
 
-(Added Pub. L. 108–357, title I, §102(a), Oct. 22, 2004, 118 Stat. 1424; amended Pub. L. 109–135, title IV, §403(a)(1)–(13), Dec. 21, 2005, 119 Stat. 2615–2619; Pub. L. 109–222, title V, §514(a), (b), May 17, 2006, 120 Stat. 366; Pub. L. 109–432, div. A, title IV, §401(a), Dec. 20, 2006, 120 Stat. 2953; Pub. L. 110–343, div. B, title IV, §401(a), (b), div. C, title III, §312(a), title V, §502(c), Oct. 3, 2008, 122 Stat. 3851, 3869, 3876.)
+(Added Pub. L. 108–357, title I, §102(a), Oct. 22, 2004, 118 Stat. 1424; amended Pub. L. 109–135, title IV, §403(a)(1)–(13), Dec. 21, 2005, 119 Stat. 2615–2619; Pub. L. 109–222, title V, §514(a), (b), May 17, 2006, 120 Stat. 366; Pub. L. 109–432, div. A, title IV, §401(a), Dec. 20, 2006, 120 Stat. 2953; Pub. L. 110–343, div. B, title IV, §401(a), (b), div. C, title III, §312(a), title V, §502(c), Oct. 3, 2008, 122 Stat. 3851, 3869, 3876; Pub. L. 111–312, title VII, §746(a), Dec. 17, 2010, 124 Stat. 3319.)
 
 #### References in Text
 
@@ -316,7 +316,9 @@ Section 927(a)(2)(C) of this title, referred to in subsec. (d)(9)(C), was repeal
 
 #### Amendments
 
-2008—Subsec. (b)(2)(D). Pub. L. 110–343, §502(c)(1), added subpar. (D).
+<b>2010</b>—Subsec. (d)(8)(C). Pub. L. 111–312 substituted “first 6 taxable years” for “first 4 taxable years” and “January 1, 2012” for “January 1, 2010”.
+
+<b>2008</b>—Subsec. (b)(2)(D). Pub. L. 110–343, §502(c)(1), added subpar. (D).
 
 Subsec. (c)(6). Pub. L. 110–343, §502(c)(2), inserted at end “A qualified film shall include any copyrights, trademarks, or other intangibles with respect to such film. The methods and means of distributing a qualified film shall not affect the availability of the deduction under this section.”
 
@@ -328,7 +330,7 @@ Subsec. (d)(8)(C). Pub. L. 110–343, §312(a), substituted “first 4 taxable y
 
 Subsec. (d)(9), (10). Pub. L. 110–343, §401(a), added par. (9) and redesignated former par. (9) as (10).
 
-2006—Subsec. (a)(2). Pub. L. 109–222, §514(b)(2), struck out “and subsection (d)(1)” after “paragraph (1)”.
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–222, §514(b)(2), struck out “and subsection (d)(1)” after “paragraph (1)”.
 
 Subsec. (b)(2). Pub. L. 109–222, §514(a), amended par. (2) generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘W–2 wages’ means, with respect to any person for any taxable year of such person, the sum of the amounts described in paragraphs (3) and (8) of section 6051(a) paid by such person with respect to employment of employees by such person during the calendar year ending during such taxable year. Such term shall not include any amount which is not properly included in a return filed with the Social Security Administration on or before the 60th day after the due date (including extensions) for such return.”
 
@@ -340,7 +342,7 @@ Subsec. (d)(1)(A)(iii). Pub. L. 109–222, §514(b)(1), amended cl. (iii) genera
 
 Subsec. (d)(8), (9). Pub. L. 109–432 added par. (8) and redesignated former par. (8) as (9).
 
-2005—Subsec. (a)(2). Pub. L. 109–135, §403(a)(11)(B), substituted “subsection (d)(1)” for “subsections (d)(1) and (d)(6)”.
+<b>2005</b>—Subsec. (a)(2). Pub. L. 109–135, §403(a)(11)(B), substituted “subsection (d)(1)” for “subsections (d)(1) and (d)(6)”.
 
 Subsec. (b)(1). Pub. L. 109–135, §403(a)(1), substituted “the taxpayer” for “the employer”.
 
@@ -381,6 +383,10 @@ Subsec. (d)(6). Pub. L. 109–135, §403(a)(11)(A), reenacted heading without ch
 Subsec. (d)(7). Pub. L. 109–135, §403(a)(12), added par. (7). Former par. (7) redesignated (8).
 
 Subsec. (d)(8). Pub. L. 109–135, §403(a)(12), (13), redesignated par. (7) as (8) and inserted before period at end “, including regulations which prevent more than 1 taxpayer from being allowed a deduction under this section with respect to any activity described in subsection (c)(4)(A)(i)”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title VII, §746(b), Dec. 17, 2010, 124 Stat. 3320, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009.”
 
 #### Effective Date of 2008 Amendment
 

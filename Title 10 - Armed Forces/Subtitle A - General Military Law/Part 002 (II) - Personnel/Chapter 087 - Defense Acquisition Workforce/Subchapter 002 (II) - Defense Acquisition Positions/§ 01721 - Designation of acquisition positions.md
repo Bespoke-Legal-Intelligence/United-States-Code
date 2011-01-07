@@ -38,9 +38,9 @@ Management Headquarters Activities.—The Secretary also shall designate as acqu
 
 #### Amendments
 
-1997—Subsec. (c). Pub. L. 105–85 substituted “November 12, 1996” for “November 25, 1988”.
+<b>1997</b>—Subsec. (c). Pub. L. 105–85 substituted “November 12, 1996” for “November 25, 1988”.
 
-1991—Subsec. (c). Pub. L. 102–25 substituted “Activities’, dated” for “Activities,’ dated” in last sentence.
+<b>1991</b>—Subsec. (c). Pub. L. 102–25 substituted “Activities’, dated” for “Activities,’ dated” in last sentence.
 
 #### Twenty Percent Reduction in Defense Acquisition Workforce
 

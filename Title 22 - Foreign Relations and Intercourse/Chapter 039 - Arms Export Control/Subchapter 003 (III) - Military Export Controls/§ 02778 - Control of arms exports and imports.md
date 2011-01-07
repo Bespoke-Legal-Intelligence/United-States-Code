@@ -44,17 +44,17 @@
 
 #### (c) Criminal violations; punishment
 
-Any person who willfully violates any provision of this section or section 2779 of this title, or any rule or regulation issued under either section, or who willfully, in a registration or license application or required report, makes any untrue statement of a material fact or omits to state a material fact required to be stated therein or necessary to make the statements therein not misleading, shall upon conviction be fined for each violation not more than $1,000,000 or imprisoned not more than ten years, or both.
+Any person who willfully violates any provision of this section, section 2779 of this title, a treaty referred to in subsection (j)(1)(C)(i), or any rule or regulation issued under this section or section 2779 of this title, including any rule or regulation issued to implement or enforce a treaty referred to in subsection (j)(1)(C)(i) or an implementing arrangement pursuant to such treaty, or who willfully, in a registration or license application or required report, makes any untrue statement of a material fact or omits to state a material fact required to be stated therein or necessary to make the statements therein not misleading, shall upon conviction be fined for each violation not more than $1,000,000 or imprisoned not more than 20 years, or both.
 
 #### (d) Repealed. Pub. L. 96–70, title III, §3303(a)(4), Sept. 27, 1979, 93 Stat. 499
 
 #### (e) Enforcement powers of President
 
-In carrying out functions under this section with respect to the export of defense articles and defense services, the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies and officials by subsections (c), (d), (e), and (g) of section 11 of the Export Administration Act of 1979 \[50 U.S.C. App. 2410(c), (d), (e), and (g)\], and by subsections (a) and (c) of section 12 of such Act \[50 U.S.C. App. 2411(a) and (c)\], subject to the same terms and conditions as are applicable to such powers under such Act \[50 U.S.C. App. 2401 et seq.\], except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest. Nothing in this subsection shall be construed as authorizing the withholding of information from the Congress. Notwithstanding section 11(c) of the Export Administration Act of 1979, the civil penalty for each violation involving controls imposed on the export of defense articles and defense services under this section may not exceed $500,000.
+In carrying out functions under this section with respect to the export of defense articles and defense services, including defense articles and defense services exported or imported pursuant to a treaty referred to in subsection (j)(1)(C)(i), the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies and officials by subsections (c), (d), (e), and (g) of section 11 of the Export Administration Act of 1979 \[50 U.S.C. App. 2410(c), (d), (e), and (g)\], and by subsections (a) and (c) of section 12 of such Act \[50 U.S.C. App. 2411(a) and (c)\], subject to the same terms and conditions as are applicable to such powers under such Act \[50 U.S.C. App. 2401 et seq.\], except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest. Nothing in this subsection shall be construed as authorizing the withholding of information from the Congress. Notwithstanding section 11(c) of the Export Administration Act of 1979, the civil penalty for each violation involving controls imposed on the export of defense articles and defense services under this section may not exceed $500,000.
 
 #### (f) Periodic review of items on Munitions List; exemptions
 
-(1) The President shall periodically review the items on the United States Munitions List to determine what items, if any, no longer warrantexport controls under this section. The results of such reviews shall be reported to the Speaker of the House of Representatives and to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate. The President may not remove any item from the Munitions List until 30 days after the date on which the President has provided notice of the proposed removal to the Committee on International Relations of the House of Representatives and to the Committee on Foreign Relations of the Senate in accordance with the procedures applicable to reprogramming notifications under section 2394–1(a) of this title. Such notice shall describe the nature of any controls to be imposed on that item under any other provision of law.
+(1) The President shall periodically review the items on the United States Munitions List to determine what items, if any, no longer warrant export controls under this section. The results of such reviews shall be reported to the Speaker of the House of Representatives and to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate. The President may not remove any item from the Munitions List until 30 days after the date on which the President has provided notice of the proposed removal to the Committee on International Relations of the House of Representatives and to the Committee on Foreign Relations of the Senate in accordance with the procedures applicable to reprogramming notifications under section 2394–1(a) of this title. Such notice shall describe the nature of any controls to be imposed on that item under any other provision of law.
 
 (2) The President may not authorize an exemption for a foreign country from the licensing requirements of this chapter for the export of defense items under subsection (j) of this section or any other provision of this chapter until 30 days after the date on which the President has transmitted to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate a notification that includes—
 
@@ -63,6 +63,8 @@ In carrying out functions under this section with respect to the export of defen
 &emsp;(B) a determination by the Attorney General that the bilateral agreement concluded under subsection (j) of this section requires the compilation and maintenance of sufficient documentation relating to the export of United States defense articles, defense services, and related technical data to facilitate law enforcement efforts to detect, prevent, and prosecute criminal violations of any provision of this chapter, including the efforts on the part of countries and factions engaged in international terrorism to illicitly acquire sophisticated United States defense items.
 
 (3) Paragraph (2) shall not apply with respect to an exemption for Canada from the licensing requirements of this chapter for the export of defense items.
+
+(4) Paragraph (2) shall not apply with respect to an exemption under subsection (j)(1) to give effect to a treaty referred to in subsection (j)(1)(C)(i) (and any implementing arrangements to such treaty), provided that the President promulgates regulations to implement and enforce such treaty under this section and section 2779 of this title.
 
 #### (g) Identification of persons convicted or subject to indictment for violations of certain provisions
 
@@ -140,7 +142,7 @@ In carrying out functions under this section with respect to the export of defen
 
 &emsp;(B) the term “foreign government” includes any agency or subdivision of a foreign government, including an official mission of a foreign government;
 
-&emsp;(C) the term “foreign person” means any person who is not a citizen or national of the United States or lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], and includes foreign corporations, international organizations, and foreign governments;
+&emsp;(C) the term “foreign person” means any person who is not a citizen or national of theUnited States or lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], and includes foreign corporations, international organizations, and foreign governments;
 
 &emsp;(D) the term “party to the export” means—
 
@@ -172,9 +174,37 @@ As prescribed in regulations issued under this section, a United States person t
 
 &emsp;&emsp;&emsp;(ii) be implemented by the United States and the foreign country in a manner that is legally-binding under their domestic laws.
 
-#### (B) Exception
+#### (B) Exception for Canada
 
 &emsp;&emsp;The requirement to conclude a bilateral agreement in accordance with subparagraph (A) shall not apply with respect to an exemption for Canada from the licensing requirements of this chapter for the export of defense items.
+
+#### (C) Exception for defense trade cooperation treaties
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The requirement to conclude a bilateral agreement in accordance with subparagraph (A) shall not apply with respect to an exemption from the licensing requirements of this chapter for the export of defense items to give effect to any of the following defense trade cooperation treaties, provided that the treaty has entered into force pursuant to article II, section 2, clause 2 of the Constitution of the United States:
+
+&emsp;&emsp;&emsp;&emsp;(I) The Treaty Between the Government of the United States of America and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Defense Trade Cooperation, done at Washington and London on June 21 and 26, 2007 (and any implementing arrangement thereto).
+
+&emsp;&emsp;&emsp;&emsp;(II) The Treaty Between the Government of the United States of America and the Government of Australia Concerning Defense Trade Cooperation, done at Sydney September 5, 2007 (and any implementing arrangement thereto).
+
+#### (ii) Limitation of scope
+
+&emsp;&emsp;&emsp;The United States shall exempt from the scope of a treaty referred to in clause (i)—
+
+&emsp;&emsp;&emsp;&emsp;(I) complete rocket systems (including ballistic missile systems, space launch vehicles, and sounding rockets) or complete unmanned aerial vehicle systems (including cruise missile systems, target drones, and reconnaissance drones) capable of delivering at least a 500 kilogram payload to a range of 300 kilometers, and associated production facilities, software, or technology for these systems, as defined in the Missile Technology Control Regime Annex Category I, Item 1;
+
+&emsp;&emsp;&emsp;&emsp;(II) individual rocket stages, re-entry vehicles and equipment, solid or liquid propellant motors or engines, guidance sets, thrust vector control systems, and associated production facilities, software, and technology, as defined in the Missile Technology Control Regime Annex Category I, Item 2;
+
+&emsp;&emsp;&emsp;&emsp;(III) defense articles and defense services listed in the Missile Technology Control Regime Annex Category II that are for use in rocket systems, as that term is used in such Annex, including associated production facilities, software, or technology;
+
+&emsp;&emsp;&emsp;&emsp;(IV) toxicological agents, biological agents, and associated equipment, as listed in the United States Munitions List (part 121.1 of chapter I of title 22, Code of Federal Regulations), Category XIV, subcategories (a), (b), (f)(1), (i), (j) as it pertains to (f)(1), (<i>l</i>) as it pertains to (f)(1), and (m) as it pertains to all of the subcategories cited in this paragraph;
+
+&emsp;&emsp;&emsp;&emsp;(V) defense articles and defense services specific to the design and testing of nuclear weapons which are controlledunder United States Munitions List Category XVI(a) and (b), along with associated defense articles in Category XVI(d) and technology in Category XVI(e);
+
+&emsp;&emsp;&emsp;&emsp;(VI) with regard to the treaty cited in clause (i)(I), defense articles and defense services that the United States controls under the United States Munitions List that are not controlled by the United Kingdom, as defined in the United Kingdom Military List or Annex 4 to the United Kingdom Dual Use List, or any successor lists thereto; and
+
+&emsp;&emsp;&emsp;&emsp;(VII) with regard to the treaty cited in clause (i)(II), defense articles for which Australian laws, regulations, or other commitments would prevent Australia from enforcing the control measures specified in such treaty.
 
 #### (2) Requirements of bilateral agreement
 
@@ -228,9 +258,11 @@ As prescribed in regulations issued under this section, a United States person t
 
 &emsp;&emsp;&emsp;(ii) the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
-(Pub. L. 90–629, ch. 3, §38, as added Pub. L. 94–329, title II, §212(a)(1), June 30, 1976, 90 Stat. 744; amended Pub. L. 95–92, §20, Aug. 4, 1977, 91 Stat. 623; Pub. L. 96–70, title III, §3303(a)(4), Sept. 27, 1979, 93 Stat. 499; Pub. L. 96–72, §22(a), Sept. 29, 1979, 93 Stat. 535; Pub. L. 96–92, §21, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §107(a), (c), Dec. 16, 1980, 94 Stat. 3136; Pub. L. 97–113, title I, §§106, 107, Dec. 29, 1981, 95 Stat. 1522; Pub. L. 99–64, title I, §123(a), July 12, 1985, 99 Stat. 156; Pub. L. 99–83, title I, §119(a), (b), Aug. 8, 1985, 99 Stat. 203, 204; Pub. L. 100–202, §101(b) \[title VIII, §8142(a)\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–88; Pub. L. 100–204, title XII, §1255, Dec. 22, 1987, 101 Stat. 1429; Pub. L. 101–222, §§3(a), 6, Dec. 12, 1989, 103 Stat. 1896, 1899; Pub. L. 103–236, title VII, §714(a)(1), Apr. 30, 1994, 108 Stat. 497; Pub. L. 104–164, title I, §§151(a), 156, July 21, 1996, 110 Stat. 1437, 1440; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(2), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §§1302(a), 1303, 1304\], Nov. 29, 1999, 113 Stat. 1536, 1501A–510, 1501A–511; Pub. L. 106–280, title I, §102(a), (b), Oct. 6, 2000, 114 Stat. 846, 848; Pub. L. 107–228, div. B, title XIV, §1406, Sept. 30, 2002, 116 Stat. 1458; Pub. L. 108–458, title VI, §6910, Dec. 17, 2004, 118 Stat. 3774.)
+(Pub. L. 90–629, ch. 3, §38, as added Pub. L. 94–329, title II, §212(a)(1), June 30, 1976, 90 Stat. 744; amended Pub. L. 95–92, §20, Aug. 4, 1977, 91 Stat. 623; Pub. L. 96–70, title III, §3303(a)(4), Sept. 27, 1979, 93 Stat. 499; Pub. L. 96–72, §22(a), Sept. 29, 1979, 93 Stat. 535; Pub. L. 96–92, §21, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §107(a), (c), Dec. 16, 1980, 94 Stat. 3136; Pub. L. 97–113, title I, §§106, 107, Dec. 29, 1981, 95 Stat. 1522; Pub. L. 99–64, title I, §123(a), July 12, 1985, 99 Stat. 156; Pub. L. 99–83, title I, §119(a), (b), Aug. 8, 1985, 99Stat. 203, 204; Pub. L. 100–202, §101(b) \[title VIII, §8142(a)\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–88; Pub. L. 100–204, title XII, §1255, Dec. 22, 1987, 101 Stat. 1429; Pub. L. 101–222, §§3(a), 6, Dec. 12, 1989, 103 Stat. 1896, 1899; Pub. L. 103–236, title VII, §714(a)(1), Apr. 30, 1994, 108 Stat. 497; Pub. L. 104–164, title I, §§151(a), 156, July 21, 1996, 110 Stat. 1437, 1440; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(2), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §§1302(a), 1303, 1304\], Nov. 29, 1999, 113 Stat. 1536, 1501A–510, 1501A–511; Pub. L. 106–280, title I, §102(a), (b), Oct. 6, 2000, 114 Stat. 846, 848; Pub. L. 107–228, div. B, title XIV, §1406, Sept. 30, 2002, 116 Stat. 1458; Pub. L. 108–458, title VI, §6910, Dec. 17, 2004, 118 Stat. 3774; Pub. L. 111–195, title I, §107(a)(2), July 1, 2010, 124 Stat. 1337; Pub. L. 111–266, title I, §§102(b)–103(c), Oct. 8, 2010, 124 Stat. 2797, 2799.)
 
 #### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Export Administration Act of 1979, referred to in subsec. (e), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of Title 50, Appendix, and Tables.
 
@@ -238,7 +270,7 @@ Section 104 of the Foreign Corrupt Practices Act (15 U.S.C. 78dd–2), referred 
 
 Sections 3, 4, 5, and 6 of the Prevention of Terrorist Access to Destructive Weapons Act of 2004, referred to in subsec. (g)(1)(A)(xii), probably means sections 6903, 6904, 6905, and 6906, respectively, of Pub. L. 108–458, which enacted section 2332g of Title 18, Crimes and Criminal Procedure, amended sections 2122 and 2272 of Title 42, The Public Health and Welfare, and enacted sections 2332h and 175c of Title 18.
 
-The Immigration and Nationality Act, referred to in subsec. (g)(9)(C), is act June 27, 1952, ch. 477, 66 Stat.163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (g)(9)(C), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 #### Reference to Section 1934 of This Title Deemed Reference to This Section
 
@@ -246,33 +278,45 @@ Section 212(b)(1) of Pub. L. 94–329 provided in part that: “Any reference to
 
 #### Amendments
 
-2004—Subsec. (g)(1)(A)(xii). Pub. L. 108–458 added cl. (xii).
+<b>2010</b>—Subsec. (c). Pub. L. 111–266, §103(a), substituted “this section, section 2779 of this title, a treaty referred to in subsection (j)(1)(C)(i), or any rule or regulation issued under this section or section 2779 of this title, including any rule or regulation issued to implement or enforce a treaty referred to in subsection (j)(1)(C)(i) or an implementing arrangement pursuant to such treaty” for “this section or section 2779 of this title, or any rule or regulation issued under either section”.
 
-2002—Subsec. (f)(1). Pub. L. 107–228 substituted “The President may not remove any item from the Munitions List until 30 days after the date on which the President has provided notice of the proposed removal to the Committee on International Relations of the House of Representatives and to the Committee on Foreign Relations of the Senate in accordance with the procedures applicable to reprogramming notifications under section 2394–1(a) of this title. Such notice shall describe the nature of any controls to be imposed on that item under any other provision of law.” for “Such a report shall be submitted at least 30 days before any item is removed from the Munitions List and shall describe the nature of any controls to be imposed on that item under the Export Administration Act of 1979.”
+Pub. L. 111–195 substituted “20 years” for “ten years”.
 
-2000—Subsec. (f). Pub. L. 106–280, §102(b), designated existing provisions as par. (1) and added pars. (2) and (3).
+Subsec. (e). Pub. L. 111–266, §103(b), substituted “defense services, including defense articles and defense services exported or imported pursuant to a treaty referred to in subsection (j)(1)(C)(i),” for “defense services,”.
+
+Subsec. (f)(4). Pub. L. 111–266, §103(c), added par. (4).
+
+Subsec. (j)(1)(B). Pub. L. 111–266, §102(b)(1), inserted “for Canada” after “Exception” in heading.
+
+Subsec. (j)(1)(C). Pub. L. 111–266, §102(b)(2), added subpar. (C).
+
+<b>2004</b>—Subsec. (g)(1)(A)(xii). Pub. L. 108–458 added cl. (xii).
+
+<b>2002</b>—Subsec. (f)(1). Pub. L. 107–228 substituted “The President may not remove any item from the Munitions List until 30 days after the date on which the President has provided notice of the proposed removal to the Committee on International Relations of the House of Representatives and to the Committee on Foreign Relations of the Senate in accordance with the procedures applicable to reprogramming notifications under section 2394–1(a) of this title. Such notice shall describe the nature of any controls to be imposed on that item under any other provision of law.” for “Such a report shall be submitted at least 30 days before any item is removed from the Munitions List and shall describe the nature of any controls to be imposed on that item under the Export Administration Act of 1979.”
+
+<b>2000</b>—Subsec. (f). Pub. L. 106–280, §102(b), designated existing provisions as par. (1) and added pars. (2) and (3).
 
 Subsec. (j). Pub. L. 106–280, §102(a), added subsec. (j).
 
-1999—Subsec. (e). Pub. L. 106–113, §1000(a)(7) \[title XIII, §1303\], in first sentence, inserted “section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that” after “except that”.
+<b>1999</b>—Subsec. (e). Pub. L. 106–113, §1000(a)(7) \[title XIII, §1303\], in first sentence, inserted “section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that” after “except that”.
 
 Subsec. (g)(1)(A)(iii). Pub. L. 106–113, §1000(a)(7) \[title XIII, §1304\], inserted “or section 2339A of such title (relating to providing material support to terrorists)” before comma at end.
 
 Subsec. (i). Pub. L. 106–113, §1000(a)(7) \[title XIII, §1302(a)\], added subsec. (i).
 
-1998—Subsec. (a)(2). Pub. L. 105–277 substituted “take into account” for “be made in coordination with the Director of the United States Arms Control and Disarmament Agency, taking into account the Director's assessment as to” and struck out at end “The Director of the Arms Control and Disarmament Agency is authorized, whenever the Director determines that the issuance of an export license under this section would be detrimental to the national security of the United States, to recommend to the President that such export license be disapproved.”
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–277 substituted “take into account” for “be made in coordination with the Director of the United States Arms Control and Disarmament Agency, taking into account the Director's assessment as to” and struck out at end “The Director of the Arms Control and Disarmament Agency is authorized, whenever the Director determines that the issuance of an export license under this section would be detrimental to the national security of the United States, to recommend to the President that such export license be disapproved.”
 
-1996—Subsec. (b)(1)(A). Pub. L. 104–164, §151(a), designated existing provisions of subpar. (A) as cl. (i) and added cl. (ii).
+<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–164, §151(a), designated existing provisions of subpar. (A) as cl. (i) and added cl. (ii).
 
 Subsec. (e). Pub. L. 104–164, §156, inserted before period at end of first sentence “, except that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest”.
 
-1994—Subsec. (a)(2). Pub. L. 103–236 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Decisions on issuing export licenses under this section shall be made in coordination with the Director of the United States Arms Control and Disarmament Agency and shall take into account the Director's opinion as to whether the export of an article will contribute to an arms race, support international terrorism, increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control arrangements.”
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–236 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Decisions on issuing export licenses under this section shall be made in coordination with the Director of the United States Arms Control and Disarmament Agency and shall take into account the Director's opinion as to whether the export of an article will contribute to an arms race, support international terrorism, increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control arrangements.”
 
-1989—Subsec. (a)(2). Pub. L. 101–222, §3(a), inserted “support international terrorism,” after “arms race,”.
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–222, §3(a), inserted “support international terrorism,” after “arms race,”.
 
 Subsec. (h). Pub. L. 101–222, §6, added subsec. (h).
 
-1987—Subsec. (b)(1). Pub. L. 100–204, §1255(b), designated existing provisions as subpar. (A) and added subpar. (B) relating to review by Secretary of the Treasury of munitions control registrations.
+<b>1987</b>—Subsec. (b)(1). Pub. L. 100–204, §1255(b), designated existing provisions as subpar. (A) and added subpar. (B) relating to review by Secretary of the Treasury of munitions control registrations.
 
 Pub. L. 100–202 designated existing provisions as subpar. (A) and added subpar. (B) relating to allowance of return to United States of certain military firearms, etc., under certain circumstances.
 
@@ -280,27 +324,27 @@ Subsec. (b)(3). Pub. L. 100–204, §1255(c), added par. (3).
 
 Subsec. (g). Pub. L. 100–204, §1255(a), added subsec. (g).
 
-1985—Subsec. (c). Pub. L. 99–83, §119(a), inserted “for each violation” before “not more” and substituted “$1,000,000” for “$100,000” and “ten” for “two”.
+<b>1985</b>—Subsec. (c). Pub. L. 99–83, §119(a), inserted “for each violation” before “not more” and substituted “$1,000,000” for “$100,000” and “ten” for “two”.
 
 Subsec. (e). Pub. L. 99–83, §119(b), inserted provisions relating to civil penalty for each violation.
 
 Pub. L. 99–64 substituted “(g)” for “(f)”.
 
-1981—Subsec. (b)(3). Pub. L. 97–113, §106, struck out par. (3) which placed a $100,000,000 ceiling on commercial arms exports of major defense equipment to all countries other than NATO countries, Japan, Australia, and New Zealand.
+<b>1981</b>—Subsec. (b)(3). Pub. L. 97–113, §106, struck out par. (3) which placed a $100,000,000 ceiling on commercial arms exports of major defense equipment to all countries other than NATO countries, Japan, Australia, and New Zealand.
 
 Subsec. (f). Pub. L. 97–113, §107, added subsec. (f).
 
-1980—Subsec. (a)(3). Pub. L. 96–533, §107(c), added par. (3).
+<b>1980</b>—Subsec. (a)(3). Pub. L. 96–533, §107(c), added par. (3).
 
 Subsec. (b)(3). Pub. L. 96–533, §107(a), increased the limitation in the sale of major defense equipment exports to $100,000,000 from $35,000,000.
 
-1979—Subsec. (b)(3). Pub. L. 96–92 increased the limitation in the sale of major defense equipment exports to $35,000,000 from $25,000,000.
+<b>1979</b>—Subsec. (b)(3). Pub. L. 96–92 increased the limitation in the sale of major defense equipment exports to $35,000,000 from $25,000,000.
 
 Subsec. (d). Pub. L. 96–70 struck out subsec. (d) which provided that this section applies to and within the Canal Zone.
 
 Subsec. (e). Pub. L. 96–72 substituted “subsections (c), (d), (e), and (f) of section 11 of the Export Administration Act of 1979, and by subsections (a) and (c) of section 12 of such Act” for “sections 6(c), (d), (e), and (f) and 7(a) and (c) of the Export Administration Act of 1969”.
 
-1977—Subsec. (b)(3). Pub. L. 95–92 inserted provisions relating to exceptions to prohibitions against issuance of licenses under this section and procedures applicable for implementation of such exceptions.
+<b>1977</b>—Subsec. (b)(3). Pub. L. 95–92 inserted provisions relating to exceptions to prohibitions against issuance of licenses under this section and procedures applicable for implementation of such exceptions.
 
 #### Change of Name
 
@@ -318,7 +362,7 @@ Section 151(b) of Pub. L. 104–164 provided that: “Section 38(b)(1)(A)(ii) of
 
 Section 101(b) \[title VIII, §8142(b)\] of Pub. L. 100–202 provided that:
 
-“(1) Except as provided in paragraphs (2) and (3), subparagraph (B) of section 38(b)(1) of the Arms Export Control Act \[subsec. (b)(1)(B) of this section\], as addedby subsection (a), shall take effect at the end of the ninety-day period beginning on the date of the enactment of this Act \[Dec. 22, 1987\].
+“(1) Except as provided in paragraphs (2) and (3), subparagraph (B) of section 38(b)(1) of the Arms Export Control Act \[subsec. (b)(1)(B) of this section\], as added by subsection (a), shall take effect at the end of the ninety-day period beginning on the date of the enactment of this Act \[Dec. 22, 1987\].
 
 “(2)(A) Such subparagraph shall take effect on the date of the enactment of this Act \[Dec. 22, 1987\] with respect to any military firearms or ammunition (or components, parts, accessories and attachments for such firearms) with respect to which an import permit was issued by the Secretary of the Treasury on or after July 1, 1986, irrespective of whether such import permit was subsequently suspended, revoked, or withdrawn by the Secretary of the Treasury based on the application of section 38(b)(1) of the Arms Export Control Act \[subsec. (b)(1) of this section\] as in effect on the day before the date of the enactment of this Act.
 
@@ -336,6 +380,14 @@ Amendment by Pub. L. 96–72 effective upon the expiration of the Export Adminis
 
 Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of this title.
 
+#### Regulations
+
+Pub. L. 111–266, title I, §106, Oct. 8, 2010, 124 Stat. 2802, provided that: “The President is authorized to issue regulations pursuant to the Arms Export Control Act (22 U.S.C. 2751 et seq.) to implement and enforce the Treaty Between the Government of the United States of America and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Defense Trade Cooperation, done at Washington and London on June 21 and 26, 2007 (and any implementing arrangement thereto) and the Treaty Between the Government of the United States of America and the Government of Australia Concerning Defense Trade Cooperation, done at Sydney, September 5, 2007 (and any implementing arrangement thereto), consistent with other applicable provisions of the Arms Export Control Act, as amended by this Act \[see Short Title of 2010 Amendment notes set out under section 2751 of thistitle\], and with the terms of any resolution of advice and consent adopted by the Senate with respect to either treaty.”
+
+#### Rule of Construction
+
+Pub. L. 111–266, title I, §107, Oct. 8, 2010, 124 Stat. 2802, provided that: “Nothing in this title \[see section 101 of Pub. L. 111–266, set out as a Short Title of 2010 Amendment note under section 2751 of this title\], the Treaty Between the Government of the United States of America and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Defense Trade Cooperation, done at Washington and London on June 21 and 26, 2007 (and any implementing arrangement thereto), the Treaty Between the Government of the United States of America and the Government of Australia Concerning Defense Trade Cooperation, done at Sydney, September 5, 2007 (and any implementing arrangement thereto), or in any regulation issued to implement either treaty, shall be construed to modify or supersede any provision of law or regulation other than the Arms Export Control Act (22 U.S.C. 2751 et seq.), as amended by this Act \[see Short Title of 2010 Amendment notes set out under section 2751 of this title\], and the International Traffic in Arms Regulations (subchapter M of chapter I of title 22, Code of Federal Regulations).”
+
 #### Delegation of Functions
 
 Functions of President under this section, with certain exceptions, delegated to Secretary of State, with concurrence of Secretary of Defense required for designations of items or categories of items which are considered as defense articles or services subject to export control under this section, by section 1(<i>l</i>)(1) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
@@ -343,6 +395,74 @@ Functions of President under this section, with certain exceptions, delegated to
 Functions of President under this section relating to the control of import of defense articles and services transferred to Attorney General, with certain requirements for considering the views of Secretary of State and for receiving concurrence of Secretary of State and Secretary of Defense for designations of items or categories of items which are considered as defense articles and services subject to import control under this section, by section 1(<i>l</i>)(2) of Ex. Ord. No. 11958.
 
 Functions of President which involve subsec. (e) of this section and are agreed to by Secretary of State and Secretary of Commerce delegated to Secretary of Commerce to be carried out on behalf of Secretary of State by section 1(<i>l</i>)(3) of Ex. Ord. No. 11958.
+
+#### Limitation on Implementing Arrangements
+
+Pub. L. 111–266, title I, §105, Oct. 8, 2010, 124 Stat. 2800, provided that:
+
+“(a)
+
+In General.—No amendment to an implementing arrangement concluded pursuant to a treaty referred to in section 38(j)(1)(C)(i) of the Arms Export Control Act, as added by this Act \[22 U.S.C. 2778(j)(1)(C)(i)\], shall enter into effect for the United States unless the Congress adopts, and there is enacted, legislation approving the entry into effect of that amendment for the United States.
+
+“(b)
+
+Covered Amendments.—
+
+&emsp;“(1)
+
+In general.—The requirements specified in subsection (a) shall apply to any amendment other than an amendment that addresses an administrative or technical matter. The requirements in subsection (a) shall not apply to any amendment that solely addresses an administrative or technical matter.
+
+&emsp;“(2)
+
+U.S.-UK implementing arrangement.—In the case of the Implementing Arrangement Pursuant to the Treaty Between the Government of the United States of America and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Defense Trade Cooperation, signed at Washington February 14, 2008, amendments to which the requirements specified in subsection (a) apply shall include—
+
+&emsp;&emsp;“(A) any amendment to section 2, paragraphs (1), (2), or (3) that modifies the criteria governing operations, programs, and projects to which the treaty applies;
+
+&emsp;&emsp;“(B) any amendment to section 3, paragraphs (1) or (2) that modifies the criteria governing end-use requirements and the requirements for approved community members responding to United States Government solicitations;
+
+&emsp;&emsp;“(C) any amendment to section 4, paragraph (4) that modifies the criteria for including items on the list of defense articles exempt from the treaty;
+
+&emsp;&emsp;“(D) any amendment to section 4, paragraph (7) that modifies licensing and other applicable requirements relating to items added to the list of defense articles exempt from the scope of the treaty;
+
+&emsp;&emsp;“(E) any amendment to section 7, paragraph (4) that modifies the criteria for eligibility in the approved community under the treaty for nongovernmental United Kingdom entities and facilities;
+
+&emsp;&emsp;“(F) any amendment to section 7, paragraph (9) that modifies the conditions for suspending or removing a United Kingdom entity from the approved community under the treaty;
+
+&emsp;&emsp;“(G) any amendment to section 7, paragraphs (11) or (12) that modifies the conditions under which individuals may be granted access to defense articles exported under the treaty;
+
+&emsp;&emsp;“(H) any amendment to section 9, paragraphs (1), (3), (7), (8), (9), (12), or (13) that modifies the circumstances under which United States Government approval is required for the re-transfer or re-export of a defense article, or to exceptions to such requirement; and
+
+&emsp;&emsp;“(I) any amendment to section 11, paragraph (4)(b) that modifies conditions of entry to the United Kingdom community under the treaty.
+
+&emsp;“(3)
+
+U.S.-Australia implementing arrangement.—In the case of the Implementing Arrangement Pursuant to the Treaty Between the Government of the United States of America and the Government of the \[sic\] Australia Concerning Defense Trade Cooperation, signed at Washington March 14, 2008, amendments to which the requirements specified in subsection (a) apply shall include—
+
+&emsp;&emsp;“(A) any amendment to section 2, paragraphs (1), (2), or (3) that modifies the criteria governing operations, programs, and projects to which the treaty applies;
+
+&emsp;&emsp;“(B) any amendment to section 3, paragraphs (1) or (2) that modifies the criteria governing end-use requirements and the requirements for approved community members responding to United States Government solicitations;
+
+&emsp;&emsp;“(C) any amendment to section 4, paragraph (4) that modifies criteria for including items on the list of defense articles exempt from the scope of the treaty;
+
+&emsp;&emsp;“(D) any amendment to section 4, paragraph (7) that modifies licensing and other applicable requirements relating to items added to the list of defense articles exempt from the scope of the treaty;
+
+&emsp;&emsp;“(E) any amendment to section 6, paragraph (4) that modifies the criteria for eligibility in the approved community under the treaty for nongovernmental Australian entities and facilities;
+
+&emsp;&emsp;“(F) any amendment to section 6, paragraph (9) that modifies the conditions for suspending or removing an Australian entity from the Australia community under the treaty;
+
+&emsp;&emsp;“(G) any amendment to section 6, paragraphs (11), (12), (13), or (14) that modifies the conditions under which individuals may be granted access to defense articles exported under the treaty;
+
+&emsp;&emsp;“(H) any amendment to section 9, paragraphs (1), (2), (4), (7), or (8) that modifies the circumstances under which United States Government approval is required for the re-transfer or re-export of a defense article, or to exceptions to such requirement; and
+
+&emsp;&emsp;“(I) any amendment to section 11, paragraph (6) that modifies conditions of entry to the Australian community under the treaty.
+
+“(c)
+
+Congressional Notification for Other Amendments To Implementing Arrangements.—Not later than 15 days before any amendment to an implementing arrangement to which subsection (a) does not apply shall take effect, the President shall provide to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report containing—
+
+&emsp;“(1) the text of the amendment; and
+
+&emsp;“(2) an analysis of the amendment's effect, including an analysis regarding why subsection (a) does not apply.”
 
 #### Information Management Priorities
 
@@ -444,7 +564,7 @@ Contents of Report.—The report required by subsection (a) shall include, at a 
 
 &emsp;“(3) An audit by the Inspectors General of the Departments of Defense, State, Commerce, and Energy, in consultation with the Director of Central Intelligence and the Director of the Federal Bureau of Investigation, of the policies and procedures of the United States Government with respect to the export of technologies and technical information referred to in subsection (a) to countries and entities of concern.
 
-&emsp;“(4) The status of the implementation or other disposition of recommendations included in reports of audits by Inspectors General that have been set forth in a previous annual report under this section pursuant to paragraph (3).
+&emsp;“(4) The status of the implementation or other disposition of recommendations included in reports ofaudits by Inspectors General that have been set forth in a previous annual report under this section pursuant to paragraph (3).
 
 “(c)
 
@@ -622,7 +742,7 @@ Advisory Group.—(1) The Director of Central Intelligence shall establish withi
 
 “(3) In addition to the duties under paragraph (1), the advisory group shall—
 
-&emsp;“(A) review, on a continuing basis, information relating to transfers of satellite, launch vehicle, or other technology or knowledge with respect to the course of the overseas launch of commercial satellites of United States origin; and
+&emsp;“(A) review, on a continuing basis, information relating to transfers of satellite, launch vehicle, or other technology or knowledge with respect to thecourse of the overseas launch of commercial satellites of United States origin; and
 
 &emsp;“(B) analyze the potential impact of such transfers on the space and military systems, programs, or activities of foreign countries.
 
@@ -700,7 +820,7 @@ Pub. L. 105–261, div. A, title XV, subtitle B, Oct. 17, 1998, 112 Stat. 2173, 
 
 &emsp;“(5) due to the military sensitivity of the technologies involved, it is in the national security interests of the United States that United States satellites and related items be subject to the same export controls that apply under United States law and practices to munitions;
 
-&emsp;“(6) the United States should not issue any blanket waiver of the suspensions contained in section 902 of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 (Public Law 101–246) \[22 U.S.C. 2151 note\], regarding the export of satellites of United States origin intended for launch from a launch vehicle owned by the People's Republic of China;
+&emsp;“(6) the United States should not issue any blanket waiver of the suspensions contained in section 902 of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 (Public Law 101–246) \[22 U.S.C. 2151 note\], regarding the export of satellites of UnitedStates origin intended for launch from a launch vehicle owned by the People's Republic of China;
 
 &emsp;“(7) the United States should pursue policies that protect and enhance the United States space launch industry; and
 
@@ -752,7 +872,7 @@ Report.—Not later than January 1, 1999, the Secretary of State, in consultatio
 
 “(a)
 
-Actions by the President.—Notwithstanding any other provision of law, the President shall takesuch actions as are necessary to implement the following requirements for improving national security controls in the export licensing of satellites and related items:
+Actions by the President.—Notwithstanding any other provision of law, the President shall take such actions as are necessary to implement the following requirements for improving national security controls in the export licensing of satellites and related items:
 
 &emsp;“(1)
 
@@ -794,7 +914,7 @@ Mandatory notification and certification.—All technology transfer control plan
 
 &emsp;“(5)
 
-Mandatory intelligence community review.—The Secretary of Commerce and the Secretary of State shall provide to the Secretary of Defense and the Director of Central Intelligence copies of all export license applications and technical assistance agreements submitted for approval in connection with launches in foreign countries of satellites to verify the legitimacy of the stated end-user or end-users.
+Mandatory intelligence community review.—The Secretary of Commerce and the Secretary of State shall provide to the Secretary of Defense and the Director of Central Intelligence copies of all export license applications and technical assistance agreements submitted for approval in connectionwith launches in foreign countries of satellites to verify the legitimacy of the stated end-user or end-users.
 
 &emsp;“(6)
 
@@ -910,7 +1030,7 @@ Findings.—The Congress makes the following findings:
 
 “(b)
 
-Statement of Policy.—(1) It shall be the policy of the United States to seek verifiable internationalagreements prohibiting the sale, transfer, or export, and further limiting the use, production, possession, and deployment of anti-personnel landmines.
+Statement of Policy.—(1) It shall be the policy of the United States to seek verifiable international agreements prohibiting the sale, transfer, or export, and further limiting the use, production, possession, and deployment of anti-personnel landmines.
 
 “(2) It is the sense of the Congress that the President should actively seek to negotiate under United Nations auspices or other auspices an international agreement, or a modification of the Convention, to prohibit the sale, transfer, or export of anti-personnel landmines.
 
@@ -952,7 +1072,7 @@ Pub. L. 102–138, title IV, Oct. 28, 1991, 105 Stat. 718, provided that:
 
 &emsp;“(4) the continued proliferation of unconventional weapons, including nuclear, biological, and chemical weapons, as well as delivery systems associated with those weapons, poses an urgent threat to security and stability in the Middle East and Persian Gulf region;
 
-&emsp;“(5) the continued proliferation of ballistic missile technologies and ballistic missile systems that are capable of delivering conventional, nuclear, biological, or chemical warheads undermines security and stability in the Middle East and Persian Gulf region;
+&emsp;“(5) the continued proliferation of ballistic missile technologies and ballistic missile systems that arecapable of delivering conventional, nuclear, biological, or chemical warheads undermines security and stability in the Middle East and Persian Gulf region;
 
 &emsp;“(6) future security and stability in the Middle East and Persian Gulf region would be enhanced by establishing a stable military balance among regional powers by restraining and reducing both conventional and unconventional weapons;
 
@@ -1040,7 +1160,7 @@ Promotion of regional arms control agreements.—In order to achieve the purpose
 
 &emsp;&emsp;“(A) the maintenance of the military balance within the region, while eliminating nuclear, biological, and chemical weapons and associated delivery systems, and ballistic missiles;
 
-&emsp;&emsp;“(B) the implementation of confidence-building and security-building measures, including advance notification of certain ground and aerial military exercises in the Middle East and the Persian Gulf; and
+&emsp;&emsp;“(B) the implementation of confidence-building and security-building measures, including advancenotification of certain ground and aerial military exercises in the Middle East and the Persian Gulf; and
 
 &emsp;&emsp;“(C) other useful arms control measures.
 

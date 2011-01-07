@@ -50,7 +50,7 @@ A prior section 505, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 831, 
 
 #### Amendments
 
-2005—Subsec. (a)(7). Pub. L. 109–59, §5205(1), added par. (7).
+<b>2005</b>—Subsec. (a)(7). Pub. L. 109–59, §5205(1), added par. (7).
 
 Subsec. (d). Pub. L. 109–59, §5205(2), substituted “for the period described in section 118(b)(2)” for “for the same period as funds apportioned under section 104(b)(1)”.
 

@@ -26,7 +26,7 @@ The provisions of this section shall be in addition to any other liability which
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–176 inserted “or” after “park system resource”.
+<b>2000</b>—Subsec. (b). Pub. L. 106–176 inserted “or” after “park system resource”.
 
-1996—Subsec. (b). Pub. L. 104–333 inserted “any marine or aquatic park resource” after “any park system resource”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–333 inserted “any marine or aquatic park resource” after “any park system resource”.
 

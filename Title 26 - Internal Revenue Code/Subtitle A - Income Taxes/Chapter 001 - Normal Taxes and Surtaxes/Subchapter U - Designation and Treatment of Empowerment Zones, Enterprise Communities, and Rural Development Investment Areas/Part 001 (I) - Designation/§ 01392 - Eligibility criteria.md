@@ -72,7 +72,7 @@ For purposes of subsection (a)(4)—
 
 &emsp;&emsp;(C) The 35 percent threshold in subsection (a)(4)(C).
 
-> &emsp;If the appropriate Secretary elects to reduce the threshold under subparagraph (C), suchSecretary may (in lieu of applying the preceding sentence) reduce by 10 percentage points the threshold under subparagraph (C) for 3 population census tracts.
+> &emsp;If the appropriate Secretary elects to reduce the threshold under subparagraph (C), such Secretary may (in lieu of applying the preceding sentence) reduce by 10 percentage points the threshold under subparagraph (C) for 3 population census tracts.
 
 #### (3) Each noncontiguous area must satisfy poverty rate rule
 
@@ -102,5 +102,5 @@ A prior section 1392, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 
 
 #### Amendments
 
-1997—Subsec. (d). Pub. L. 105–34 added subsec. (d).
+<b>1997</b>—Subsec. (d). Pub. L. 105–34 added subsec. (d).
 

@@ -14,7 +14,7 @@
 
 (d) The punishment for a violation of subsection (a) of this section shall be—
 
-&emsp;(1) if death results from acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commitaggravated sexual abuse, or an attempt to kill, a fine in accordance with this title and imprisonment for any term of years or for life, or both, or may be sentenced to death;
+&emsp;(1) if death results from acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, a fine in accordance with this title and imprisonment for any term of years or for life, or both, or may be sentenced to death;
 
 &emsp;(2) if bodily injury results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this section, and the violation is by means of fire or an explosive, a fine under this title or imprisonment for not more that 40 years, or both;
 
@@ -32,11 +32,11 @@
 
 #### Amendments
 
-2002—Subsec. (d). Pub. L. 107–273, §4002(c)(1), repealed amendment by Pub. L. 107–273, §605(r). See 1996 Amendment note below.
+<b>2002</b>—Subsec. (d). Pub. L. 107–273, §4002(c)(1), repealed amendment by Pub. L. 107–273, §605(r). See 1996 Amendment note below.
 
 Subsec. (e). Pub. L. 107–273, §4002(e)(4), made technical correction to directory language of Pub. L. 104–294, §601(c)(3). See 1996 Amendment note below.
 
-1996—Subsec. (a). Pub. L. 104–155, §3(1), substituted “subsection (d)” for “subsection (c) of this section” in concluding provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–155, §3(1), substituted “subsection (d)” for “subsection (c) of this section” in concluding provisions.
 
 Subsec. (b). Pub. L. 104–155, §3(3), added subsec. (b) and struck out former subsec. (b) which read as follows: “The circumstances referred to in subsection (a) are that—
 
@@ -64,11 +64,11 @@ Subsec. (f). Pub. L. 104–155, §3(2), (5), redesignated subsec. (e) as (f), in
 
 Subsec. (g). Pub. L. 104–155, §3(6), added subsec. (g).
 
-1994—Subsec. (c)(1). Pub. L. 103–322, §320103(d)(1), inserted “from acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill” after “death results”.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–322, §320103(d)(1), inserted “from acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill” after “death results”.
 
 Pub. L. 103–322, §60006(d), inserted “, or may be sentenced to death” after “or both”.
 
-Subsec. (c)(2). Pub. L. 103–322, §320103(d)(2), struck out “serious” before “bodily” and inserted “from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire” after “injury results”.
+Subsec. (c)(2). Pub. L. 103–322, §320103(d)(2), struck out “serious” before “bodily” and inserted “from the actscommitted in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire” after “injury results”.
 
 Subsec. (e). Pub. L. 103–322, §320103(d)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “As used in this section—
 

@@ -26,9 +26,9 @@ With notice to the Secretary of the Treasury and public notice as soon as practi
 
 &emsp;The Secretary may order the destruction or removal from the United States of—
 
-&emsp;&emsp;(A) any animal, article, or means of conveyance that has been imported but has not entered the United States if the Secretarydetermines that destruction or removal from the United States is necessary to prevent the introduction into or dissemination within the United States of any pest or disease of livestock;
+&emsp;&emsp;(A) any animal, article, or means of conveyance that has been imported but has not entered the United States if the Secretary determines that destruction or removal from the United States is necessary to prevent the introduction into or dissemination within the United States of any pest or disease of livestock;
 
-&emsp;&emsp;(B) any animal or progeny of any animal, article, or means of conveyance that has been imported or entered in violation of this chapter; or
+&emsp;&emsp;(B) any animal or progeny of any animal, article, or means of conveyance that hasbeen imported or entered in violation of this chapter; or
 
 &emsp;&emsp;(C) any animal that has strayed into the United States if the Secretary determines that destruction or removal from the United States is necessary to prevent the introduction into or dissemination within the United States of any pest or disease of livestock.
 
@@ -53,6 +53,10 @@ With notice to the Secretary of the Treasury and public notice as soon as practi
 &emsp;&emsp;&emsp;(ii) recover from the owner the costs of any care, handling, disposal, or other action incurred by the Secretary in connection with the remedial action, destruction, or removal.
 
 (Pub. L. 107–171, title X, §10404, May 13, 2002, 116 Stat. 496.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (c)(1)(B), was in the original “this subtitle”, meaning subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 #### Transfer of Functions
 

@@ -10,17 +10,17 @@
 
 #### Amendments
 
-1998—Subsec. (c). Pub. L. 105–368, in first sentence, substituted “under the control of the National Cemetery Administration” for “within the National Cemetery System” and “under the control of such Administration” for “within such System”.
+<b>1998</b>—Subsec. (c). Pub. L. 105–368, in first sentence, substituted “under the control of the National Cemetery Administration” for “within the National Cemetery System” and “under the control of such Administration” for “within such System”.
 
-1991—Pub. L. 102–83 renumbered section 1005 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1005 of this title as this section.
 
-1989—Subsec. (a). Pub. L. 101–237, §313(b)(4), inserted “of the Interior” after “funds appropriated to the Secretary”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–237, §313(b)(4), inserted “of the Interior” after “funds appropriated to the Secretary”.
 
 Pub. L. 101–237, §313(b)(1), substituted “Secretary may transfer” for “Administrator may transfer” and “Secretary's” for “Administrator's”.
 
 Subsecs. (b), (c). Pub. L. 101–237, §313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
 
-1986—Subsec. (a). Pub. L. 99–576, §701(56)(A), substituted “the Administrator's” for “his”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–576, §701(56)(A), substituted “the Administrator's” for “his”.
 
 Subsec. (c). Pub. L. 99–576, §701(56)(B), substituted “The Administrator” for “He”.
 

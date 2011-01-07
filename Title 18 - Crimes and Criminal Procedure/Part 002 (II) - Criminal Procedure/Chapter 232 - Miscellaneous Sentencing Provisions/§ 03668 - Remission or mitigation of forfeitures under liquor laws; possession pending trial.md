@@ -38,5 +38,5 @@ The internal-revenue laws relating to liquor, referred to in subsecs. (a) and (d
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–217 substituted “section 1306 of title 40” for “sections 304f–304m of Title 40”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–217 substituted “section 1306 of title 40” for “sections 304f–304m of Title 40”.
 

@@ -6,7 +6,7 @@ The Secretary, in cooperation with manufacturers of heavy duty engines and with 
 
 #### (b) Funding
 
-(1) There are authorized to be appropriated to the Secretary for carrying out this section such sums as may be necessary for fiscal years 1993through 1995, to remain available until expended.
+(1) There are authorized to be appropriated to the Secretary for carrying out this section such sums as may be necessary for fiscal years 1993 through 1995, to remain available until expended.
 
 (2) The authority of the Secretary to obligate amounts to be expended under this section shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance by appropriation Acts.
 
@@ -14,7 +14,7 @@ The Secretary, in cooperation with manufacturers of heavy duty engines and with 
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–486, §401(a), substituted “alternative fuels” for “alcohol and natural gas”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–486, §401(a), substituted “alternative fuels” for “alcohol and natural gas”.
 
 Subsec. (b)(1). Pub. L. 102–486, §401(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are authorized to be appropriated for the period encompassing the fiscal years ending September 30, 1990, September 30, 1991, and September 30, 1992, a total of $2,000,000 for alcohol powered vehicles and dual energy vehicles, and a total of $2,000,000 for natural gas powered vehicles and natural gas dual energy vehicles, to carry out the purposes of this section.”
 

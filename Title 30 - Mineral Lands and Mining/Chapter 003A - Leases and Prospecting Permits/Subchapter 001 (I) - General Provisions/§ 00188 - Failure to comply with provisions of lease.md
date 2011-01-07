@@ -2,7 +2,7 @@
 
 #### (a) Forfeiture
 
-Except as otherwise herein provided, any lease issued under the provisions of this chapter may be forfeited and canceled by an appropriate proceeding in the United States district court for the district in which the property, or some part thereof, is located whenever the lessee fails to comply with any of the provisions of this chapter, of the lease, or of the general regulations promulgated under this chapter and in force at the date of the lease; and the lease may provide for resort to appropriate methods for the settlement of disputes or for remedies for breach of specified conditions thereof.
+Except as otherwise herein provided, any lease issued under the provisions of this chapter maybe forfeited and canceled by an appropriate proceeding in the United States district court for the district in which the property, or some part thereof, is located whenever the lessee fails to comply with any of the provisions of this chapter, of the lease, or of the general regulations promulgated under this chapter and in force at the date of the lease; and the lease may provide for resort to appropriate methods for the settlement of disputes or for remedies for breach of specified conditions thereof.
 
 #### (b) Cancellation
 
@@ -18,7 +18,7 @@ Where any lease has been or is hereafter terminated automatically by operation o
 
 #### (d) Additional grounds for reinstatement
 
-(1) Where any oil and gas lease issued pursuant to section 226(b) or (c) of this title or the Mineral Leasing Act for Acquired Lands (30 U.S.C.351 et seq.) has been, or is hereafter, terminated automatically by operation of law under this section for failure to pay on or before the anniversary date the full amount of the rental due, and such rental is not paid or tendered within twenty days thereafter, and it is shown to the satisfaction of the Secretary of the Interior that such failure was justifiable or not due to lack of reasonable diligence on the part of the lessee, or, no matter when the rental is paid after termination, it is shown to the satisfaction of the Secretary that such failure was inadvertent, the Secretary may reinstate the lease as of the date of termination for the unexpired portion of the primary term of the original lease or any extension thereof remaining at the date of termination, and so long thereafter as oil or gas is produced in paying quantities. In any case where a lease is reinstated under this subsection and the Secretary finds that the reinstatement of such lease (A) occurs after the expiration of the primary term or any extension thereof, or (B) will not afford the lessee a reasonable opportunity to continue operations under the lease, the Secretary may, at his discretion, extend the term of such lease for such period as he deems reasonable, but in no event for more than two years from the date the Secretary authorizes the reinstatement and so long thereafter as oil or gas is produced in paying quantities.
+(1) Where any oil and gas lease issued pursuant to section 226(b) or (c) of this title or the Mineral Leasing Act for Acquired Lands (30 U.S.C. 351 et seq.) has been, or is hereafter, terminated automatically by operation of law under this section for failure to pay on or before the anniversary date the full amount of the rental due, and such rental is not paid or tendered within twenty days thereafter, and it is shown to the satisfaction of the Secretary of the Interior that such failure was justifiable or not due to lack of reasonable diligence on the part of the lessee, or, no matter when the rental is paid after termination, it is shown to the satisfaction of the Secretary that such failure was inadvertent, the Secretary may reinstate the lease as of the date of termination for the unexpired portion of the primary term of the original lease or any extension thereof remaining at the date of termination, and so long thereafter as oil or gas is produced in paying quantities. In any case where a lease is reinstated under this subsection and the Secretary finds that the reinstatement of such lease (A) occurs after the expiration of the primary term or any extension thereof, or (B) will not afford the lessee a reasonable opportunity to continue operations under the lease, the Secretary may, at his discretion, extend the term of such lease for such period as he deems reasonable, but in no event for more than two years from the date the Secretary authorizes the reinstatement and so long thereafter as oil or gas is produced in paying quantities.
 
 (2) No lease shall be reinstated under paragraph (1) of this subsection unless—
 
@@ -52,7 +52,7 @@ Any reinstatement under subsection (d) of this section shall be made only if the
 
 #### (f) Issuance of noncompetitive oil and gas lease; conditions
 
-Where an unpatented oil placer mining claim validly located prior to February 24, 1920, which has been or is currently producing or is capable of producing oil or gas, has been or is hereafter deemed conclusively abandoned for failure to file timely the required instruments or copies of instruments required by section 1744 of title 43, and it is shown to the satisfaction of the Secretary that such failure was inadvertent, justifiable, or not due to lack of reasonable diligence on the part of the owner, the Secretary may issue, for the lands covered by the abandonedunpatented oil placer mining claim, a noncompetitive oil and gas lease, consistent with the provisions of section 226(e) of this title, to be effective from the statutory date the claim was deemed conclusively abandoned. Issuance of such a lease shall be conditioned upon:
+Where an unpatented oil placer mining claim validly located prior to February 24, 1920, which has been or is currently producing or is capable of producing oil or gas, has been or is hereafter deemed conclusively abandoned for failure to file timely the required instruments or copies of instruments required by section 1744 of title 43, and it is shown to the satisfaction of the Secretary that such failure was inadvertent, justifiable, or not due to lack of reasonable diligence on the part of the owner, the Secretary may issue, for the lands covered by the abandoned unpatented oil placer mining claim, a noncompetitive oil and gas lease, consistent with the provisions of section 226(e) of this title, to be effective from the statutory date the claim was deemed conclusively abandoned. Issuance of such a lease shall be conditioned upon:
 
 &emsp;(1) a petition for issuance of a noncompetitive oil and gas lease, together with the required rental and royalty, including back rental and royalty accruing from the statutory date of abandonment of the oil placer mining claim, being filed with the Secretary—
 
@@ -60,11 +60,11 @@ Where an unpatented oil placer mining claim validly located prior to February 24
 
 &emsp;&emsp;(B) with respect to any claim deemed conclusively abandoned after January 12, 1983, on or before the one hundred and twentieth day after final notification by the Secretary or a court of competent jurisdiction of the determination of the abandonment of the oil placer mining claim;
 
-&emsp;(2) a valid lease not having been issued affecting any of the lands covered by the abandoned oil placer mining claim prior to the filing of such petition: <i>Provided, however</i>, That after the filing of a petition for issuance of a lease under this subsection, the Secretary shall not issue any new lease affecting any of the lands covered by such abandoned oil placer mining claim for a reasonable period, as determined in accordance with regulations issued by him;
+&emsp;(2) a valid lease not having been issued affecting any of the lands covered by the abandoned oil placer mining claim prior to the filing of such petition: <i>Provided, however</i>, That after the filing of a petition for issuance of a lease under this subsection, the Secretary shall not issue any new lease affecting any ofthe lands covered by such abandoned oil placer mining claim for a reasonable period, as determined in accordance with regulations issued by him;
 
 &emsp;(3) a requirement in the lease for payment of rental, including back rentals accruing from the statutory date of abandonment of the oil placer mining claim, of not less than $5 per acre per year;
 
-&emsp;(4) a requirement in the lease for payment of royalty on production removed or sold from the oil placer mining claim, including all royalty on production made subsequent to the statutory date the claim was deemed conclusively abandoned, of not less than 121/2 percent; and
+&emsp;(4) a requirement in the lease for payment of royalty on production removed or sold from the oil placer mining claim, including all royalty on production made subsequent to the statutory date the claim was deemed conclusively abandoned, of not less than 12½ percent; and
 
 &emsp;(5) compliance with the notice and reimbursement of costs provisions of paragraph (4) of subsection (e) of this section but addressed to the petition covering the conversion of an abandoned unpatented oil placer mining claim to a noncompetitive oil and gas lease.
 
@@ -100,27 +100,27 @@ The Mineral Leasing Act for Acquired Lands, referred to in subsec. (d)(1), is ac
 
 #### Amendments
 
-2005—Subsec. (d)(2)(A), (B). Pub. L. 109–58 added subpars. (A) and (B) and struck out former subpars. (A) and (B), which related to reinstatement with respect to any lease that terminated under subsec. (b) of this section prior to Jan. 12, 1983, and reinstatement with respect to any lease that terminated under subsec. (b) of this section on or after Jan. 12, 1983.
+<b>2005</b>—Subsec. (d)(2)(A), (B). Pub. L. 109–58 added subpars. (A) and (B) and struck out former subpars. (A) and (B), which related to reinstatement with respect to any lease that terminated under subsec. (b) of this section prior to Jan. 12, 1983, and reinstatement with respect to any lease that terminated under subsec. (b) of this section on or after Jan. 12, 1983.
 
-1994—Subsec. (e). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House” in concluding provisions.
+<b>1994</b>—Subsec. (e). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House” in concluding provisions.
 
-1990—Subsec. (g)(3), (4). Pub. L. 101–567 added pars. (3) and (4).
+<b>1990</b>—Subsec. (g)(3), (4). Pub. L. 101–567 added pars. (3) and (4).
 
-1987—Subsec. (b). Pub. L. 100–203, §5104, amended first sentence generally. Prior to amendment, first sentence read as follows: “Any lease issued after August 21, 1935, under the provisions of section 226 of this title shall be subject to cancellation by the Secretary of the Interior after thirty days’ notice upon the failure of the lessee to comply with any of the provisions of the lease, unless or until the land covered by any such lease is known to contain valuable deposits of oil or gas.”
+<b>1987</b>—Subsec. (b). Pub. L. 100–203, §5104, amended first sentence generally. Prior to amendment, first sentence read as follows: “Any lease issued after August 21, 1935, under the provisions of section 226 of this title shall be subject to cancellation by the Secretary of the Interior after thirty days’ notice upon the failure of the lessee to comply with any of the provisions of the lease, unless or until the land covered by any such lease is known to contain valuable deposits of oil or gas.”
 
 Subsec. (h). Pub. L. 100–203, §5102(d)(2), substituted “section 226(m)” for “section 226(j)”.
 
-1983—Subsecs. (d) to (j). Pub. L. 97–451 added subsecs. (d) to (i) and redesignated former subsec. (d) as (j).
+<b>1983</b>—Subsecs. (d) to (j). Pub. L. 97–451 added subsecs. (d) to (i) and redesignated former subsec. (d) as (j).
 
-1970—Subsec. (b). Pub. L. 91–245, §1, inserted proviso authorizing continuance of a lease where timely paid rent is nominally deficient or miscalculated due to an error either in acreage figure stated in the lease, in any decision affecting the lease, or in a bill or decision rendered by the Secretary, except where a new lease was issued prior to May 12, 1970 or the lessee failed to pay the deficiency within the period allowed by the Secretary.
+<b>1970</b>—Subsec. (b). Pub. L. 91–245, §1, inserted proviso authorizing continuance of a lease where timely paid rent is nominally deficient or miscalculated due to an error either in acreage figure stated in the lease, in any decision affecting the lease, or in a bill or decision rendered by the Secretary, except where a new lease was issued prior to May 12, 1970 or the lessee failed to pay the deficiency within the period allowed by the Secretary.
 
 Subsec. (c). Pub. L. 91–245, §2, inserted provisions allowing reinstatement of a lease despite a twenty-day delay in payment of rent, made the payment of back rental accruing from the date of termination of the lease a prerequisite to such reinstatement, restricted the Secretary's power to issue a new lease on the lands covered by the terminated lease, gave the Secretary discretion to extend the term of a reinstated lease so as to afford the lessee a reasonable opportunity to continue operations under the lease, and struck out requirement that the petition for reinstatement of any lease terminated prior to Oct. 15, 1962 be filed within 180 days after Oct. 15, 1962.
 
-1962—Pub. L. 87–822 designated existing pars. as subsecs. (a) and (b) and added subsecs. (c) and (d).
+<b>1962</b>—Pub. L. 87–822 designated existing pars. as subsecs. (a) and (b) and added subsecs. (c) and (d).
 
-1954—Act July 29, 1954, provided for automatic termination of a lease on failure to pay rental on or before anniversary date of lease, for any lease on which there is no well capable of producing oil or gas in paying quantities.
+<b>1954</b>—Act July 29, 1954, provided for automatic termination of a lease on failure to pay rental on or before anniversary date of lease, for any lease on which there is no well capable of producing oil or gas in paying quantities.
 
-1946—Act Aug. 8, 1946, principally added second par. relating to cancellation of leases by Secretary of the Interior.
+<b>1946</b>—Act Aug. 8, 1946, principally added second par. relating to cancellation of leases by Secretary of the Interior.
 
 #### Savings Provision
 

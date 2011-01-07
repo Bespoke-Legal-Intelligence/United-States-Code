@@ -20,7 +20,7 @@ Pub. L. 96–527, title VII, §744, Dec. 15, 1980, 94 Stat. 3089.
 
 #### Amendments
 
-1991—Pub. L. 102–190 renumbered section 1074b of this title as this section.
+<b>1991</b>—Pub. L. 102–190 renumbered section 1074b of this title as this section.
 
 #### Effective Date
 

@@ -26,7 +26,7 @@ If any member of the Commission who was appointed to the Commission under paragr
 
 #### (c) Terms of office and reappointment of members
 
-(1) Except as provided in paragraph (2) of this subsection, members shall be appointed for terms of two years. A member may be reappointed only three times unless such member was originally appointed to fill a vacancy pursuant to subsection (e)(1) of this section, in which case such member may be reappointed four times.
+(1) Except as provided in paragraph (2) of this subsection, members shall be appointed forterms of two years. A member may be reappointed only three times unless such member was originally appointed to fill a vacancy pursuant to subsection (e)(1) of this section, in which case such member may be reappointed four times.
 
 (2) Of the members first appointed pursuant to subsection (a) of this section, the following shall be appointed for terms of three years:
 
@@ -68,7 +68,7 @@ The Commission established pursuant to this subchapter shall cease to exist seve
 
 #### Amendments
 
-1987—Subsec. (e)(2). Pub. L. 100–134, §1(2), substituted “until his successor is appointed” for “for a period not longer than thirty days”.
+<b>1987</b>—Subsec. (e)(2). Pub. L. 100–134, §1(2), substituted “until his successor is appointed” for “for a period not longer than thirty days”.
 
 Subsec. (i). Pub. L. 100–134, §1(3), substituted “seventeen” for “ten”.
 

@@ -26,7 +26,7 @@ No person who sells, or offers for sale, distilled spirits, or agent or employee
 
 &emsp;(4) possess any liquor bottle, any portion of the contents of which has been altered or increased in violation of the provisions of paragraph (3);
 
-> except that the Secretary may by regulations authorize the reuse of liquor bottles, under suchconditions as he may by regulations prescribe. When used in this subsection the term “liquor bottle” shall mean a liquor bottle or other container which has been used for the bottling or packaging of distilled spirits under regulations issued pursuant to subsection (a).
+> except that the Secretary may by regulations authorize the reuse of liquor bottles, under such conditions as he may by regulations prescribe. When used in this subsection the term “liquor bottle” shall mean a liquor bottle or other container which has been used for the bottling or packaging of distilled spirits under regulations issued pursuant to subsection (a).
 
 #### (d) Closures
 
@@ -40,7 +40,7 @@ The immediate container of distilled spirits withdrawn from bonded premises, or 
 
 #### Prior Provisions
 
-A prior section 5301, act Aug. 16, 1954, ch. 736, 68A Stat. 654, related to establishment of industrial alcohol plants, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5171(a), (b)(1), 5172, 5173(a), (b) of this title.
+A prior section 5301, act Aug. 16, 1954, ch. 736, 68A Stat. 654, related to establishment of industrial alcoholplants, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5171(a), (b)(1), 5172, 5173(a), (b) of this title.
 
 Provisions similar to those comprising subsecs. (a), (c), and (d) of this section were contained in prior section 5214, act Aug. 16, 1954, ch. 736, 68A Stat. 639, prior to the general revision of this chapter by Pub. L. 85–859.
 
@@ -64,13 +64,13 @@ A prior section 5310, act Aug. 16, 1954, ch. 736, 68A Stat. 658, related to with
 
 #### Amendments
 
-1984—Subsec. (c). Pub. L. 98–369, §454(c)(9), substituted “tax determination” for “stamping” in pars. (1) and (3), and struck out “, if the liquor bottles are to be again stamped under the provisions of this chapter” after “by regulations prescribe” in provisions following par. (4).
+<b>1984</b>—Subsec. (c). Pub. L. 98–369, §454(c)(9), substituted “tax determination” for “stamping” in pars. (1) and (3), and struck out “, if the liquor bottles are to be again stamped under the provisions of this chapter” after “by regulations prescribe” in provisions following par. (4).
 
 Subsec. (d). Pub. L. 98–369, §454(b), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1979—Subsec. (a)(1). Pub. L. 96–39 substituted “section 5002(a)(8)” for “section 5002(a)(6)”.
+<b>1979</b>—Subsec. (a)(1). Pub. L. 96–39 substituted “section 5002(a)(8)” for “section 5002(a)(6)”.
 
-1976—Subsecs. (a) to (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a) to (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 1984 Amendment
 

@@ -16,7 +16,7 @@ Provisions similar to those in this section were contained in sections 4504 and 
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–106 inserted “only” after “applies” in second sentence.
+<b>1996</b>—Subsec. (b). Pub. L. 104–106 inserted “only” after “applies” in second sentence.
 
-1994—Subsec. (a). Pub. L. 103–337 substituted “chemical activity, and aeronautical supplies,” for “and chemical activity supplies,”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337 substituted “chemical activity, and aeronautical supplies,” for “and chemical activity supplies,”.
 

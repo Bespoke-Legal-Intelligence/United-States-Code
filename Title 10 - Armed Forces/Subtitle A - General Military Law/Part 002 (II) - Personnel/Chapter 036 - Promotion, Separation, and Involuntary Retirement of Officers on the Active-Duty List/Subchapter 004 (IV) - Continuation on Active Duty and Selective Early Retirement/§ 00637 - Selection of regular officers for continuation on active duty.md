@@ -34,19 +34,19 @@
 
 #### Amendments
 
-2008—Subsec. (b)(3). Pub. L. 110–181 substituted “except as provided under section 1251 or 1253 of this title” for “but such period may not (except as provided under section 1251(b) of this title) extend beyond the date of the officer's sixty-second birthday”.
+<b>2008</b>—Subsec. (b)(3). Pub. L. 110–181 substituted “except as provided under section 1251 or 1253 of this title” for “but such period may not (except as provided under section 1251(b) of this title) extend beyond the date of the officer's sixty-second birthday”.
 
-1990—Subsec. (c). Pub. L. 101–510, §521(b)(1)(A), inserted at end “The period of the continuation on active duty of an officer under this section may be reduced by the Secretary concerned in the case of any officer as provided in section 638a of this title.”
+<b>1990</b>—Subsec. (c). Pub. L. 101–510, §521(b)(1)(A), inserted at end “The period of the continuation on active duty of an officer under this section may be reduced by the Secretary concerned in the case of any officer as provided in section 638a of this title.”
 
 Subsecs. (d), (e). Pub. L. 101–510, §521(b)(1)(B), (C), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1985—Subsec. (b)(2). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
+<b>1985</b>—Subsec. (b)(2). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
 
-1984—Subsec. (a)(2). Pub. L. 98–525, §1405(15)(A), substituted “20” for “twenty”.
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–525, §1405(15)(A), substituted “20” for “twenty”.
 
 Subsec. (a)(3). Pub. L. 98–525, §1405(15)(B), substituted “24” for “twenty-four”.
 
-1981—Subsec. (b)(1). Pub. L. 97–22, §4(e)(1), substituted “section 633 or 634” for “section 633, 634, 635, or 636”.
+<b>1981</b>—Subsec. (b)(1). Pub. L. 97–22, §4(e)(1), substituted “section 633 or 634” for “section 633, 634, 635, or 636”.
 
 Subsec. (b)(2). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
 

@@ -64,19 +64,19 @@ In subsection (b)(2), the words “amounts equal to amounts expended annually ou
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–443, §8(a), struck out “and” after “2005,” and substituted “2006, $81,594,000 for fiscal year 2007, and $92,625,000 for fiscal year 2008.” for “2006.”
+<b>2006</b>—Subsec. (a). Pub. L. 109–443, §8(a), struck out “and” after “2005,” and substituted “2006, $81,594,000 for fiscal year 2007, and $92,625,000 for fiscal year 2008.” for “2006.”
 
 Subsec. (c). Pub. L. 109–443, §8(b)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to appropriations and fees for the National Transportation Safety Board Academy.
 
 Subsec. (d). Pub. L. 109–443, §8(c), struck out heading and text of subsec. (d). Text read as follows: “The National Transportation Safety Board shall transmit an annual report to the Congress on the activities and operations of the National Transportation Safety Board Academy.”
 
-2003—Subsec. (a). Pub. L. 108–168, §2(a), struck out “and” after “fiscal year 2001,” and substituted “$73,325,000 for fiscal year 2003, $78,757,000 for fiscal year 2004, $83,011,000 for fiscal year 2005, and $87,539,000 for fiscal year 2006. Such sums shall” for “such sums to”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–168, §2(a), struck out “and” after “fiscal year 2001,” and substituted “$73,325,000 for fiscal year 2003, $78,757,000 for fiscal year 2004, $83,011,000 for fiscal year 2005, and $87,539,000 for fiscal year 2006. Such sums shall” for “such sums to”.
 
 Subsec. (b). Pub. L. 108–168, §2(b), added second sentence and struck out former second sentence which read as follows: “Amounts equal to the amounts expended annually out of the fund are authorized to be appropriated to the emergency fund.”
 
 Subsecs. (c), (d). Pub. L. 108–168, §2(c), added subsecs. (c) and (d).
 
-2000—Pub. L. 106–424 amended section catchline and text generally. Prior to amendment, text read as follows:
+<b>2000</b>—Pub. L. 106–424 amended section catchline and text generally. Prior to amendment, text read as follows:
 
 “(a)
 
@@ -94,9 +94,9 @@ Emergency Fund.—The Board has an emergency fund of $1,000,000 available for ne
 
 Availability of Amounts.—Amounts appropriated under this section remain available until expended.”
 
-1996—Subsec. (a). Pub. L. 104–291 struck out “and” after “1995,” and inserted “, $42,400,00 for fiscal year1997, $44,400,000 for fiscal year 1998, and $46,600,000 for fiscal year 1999.” before period at end of first sentence.
+<b>1996</b>—Subsec. (a). Pub. L. 104–291 struck out “and” after “1995,” and inserted “, $42,400,00 for fiscal year 1997, $44,400,000 for fiscal year 1998, and $46,600,000 for fiscal year 1999.” before period at end of first sentence.
 
-1994—Subsec. (a). Pub. L. 103–411 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Not more than $38,800,000 may be appropriated to the National Transportation Safety Board for the fiscal year ending September 30, 1993, to carry out this chapter.”
+<b>1994</b>—Subsec. (a). Pub. L. 103–411 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Not more than $38,800,000 may be appropriated to the National Transportation Safety Board for the fiscal year ending September 30, 1993, to carry out this chapter.”
 
 #### Effective Date of 2006 Amendment
 

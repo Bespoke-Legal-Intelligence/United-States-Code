@@ -22,7 +22,7 @@ Higher Rate.—A tax is imposed at the rate of 13.5 cents per ton, not to exceed
 
 Exception for Vessels Entering Other Than by Sea.—Subsection (a) does not apply to a vessel entering other than by sea from a foreign port or place at which tonnage, lighthouse, or other equivalent taxes are not imposed on vessels of the United States.
 
-(Pub. L. 109–304, §9(b), Oct. 6, 2006, 120 Stat. 1677; Pub. L. 109–171, title IV, §4001, Feb. 8, 2006, 120 Stat. 27; Pub. L. 110–181, div. C, title XXXV, §3524, Jan. 28, 2008, 122 Stat. 600.)
+(Pub. L. 109–304, §9(b), Oct. 6, 2006, 120 Stat. 1677; Pub. L. 109–171, title IV, §4001, Feb. 8, 2006, 120Stat. 27; Pub. L. 110–181, div. C, title XXXV, §3524, Jan. 28, 2008, 122 Stat. 600.)
 
 Historical and Revision Notes
 
@@ -58,9 +58,9 @@ In subsection (a)(2), the reference to the definitions in section 2101 is confin
 
 #### Amendments
 
-2008—Pub. L. 110–181, §3524(b), repealed Pub. L. 109–171, §4001. See 2006 Amendment note below.
+<b>2008</b>—Pub. L. 110–181, §3524(b), repealed Pub. L. 109–171, §4001. See 2006 Amendment note below.
 
 Subsecs. (a), (b). Pub. L. 110–181, §3524(a)(1), incorporated the substance of the amendment by Pub. L. 109–171, §4001, into this section by substituting “4.5 cents per ton, not to exceed a total of 22.5 cents per ton per year, for fiscal years 2006 through 2010, and 2 cents per ton, not to exceed a total of 10 cents per ton per year, for each fiscal year thereafter,” for “2 cents per ton (but not more than a total of 10 cents per ton per year)” in subsec. (a) and “13.5 cents per ton, not to exceed a total of 67.5 cents per ton per year, for fiscal years 2006 through 2010, and 6 cents per ton, not to exceed a total of 30 cents per ton per year, for each fiscal year thereafter,” for “6 cents per ton (but not more than a total of 30 cents per ton per year)” in subsec. (b). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-2006—Pub. L. 109–171, §4001, which directed the amendment of sections 121 and 132 of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3524(b). See 2008 Amendment note for subsecs. (a), (b) and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–171, §4001, which directed the amendment of sections 121 and 132 of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3524(b). See 2008 Amendment note for subsecs. (a), (b) and Historical and Revision notes above.
 

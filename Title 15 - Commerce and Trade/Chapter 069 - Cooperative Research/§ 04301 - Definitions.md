@@ -2,7 +2,7 @@
 
 (a) For purposes of this chapter:
 
-&emsp;(1) The term “antitrust laws” has the meaning given it in subsection (a) of section 12 of this title, except that such term includes section 45 of this title to the extent that such section 45 of this title applies to unfair methods of competition.
+&emsp;(1) The term “antitrust laws” has the meaning given it in subsection (a) of section 12 ofthis title, except that such term includes section 45 of this title to the extent that such section 45 of this title applies to unfair methods of competition.
 
 &emsp;(2) The term “Attorney General” means the Attorney General of the United States.
 
@@ -84,11 +84,11 @@ Section 12(d) of the National Technology Transfer and Advancement Act of 1995, r
 
 #### Amendments
 
-2004—Subsec. (a)(7) to (10). Pub. L. 108–237, §103(1), added pars. (7) to (10).
+<b>2004</b>—Subsec. (a)(7) to (10). Pub. L. 108–237, §103(1), added pars. (7) to (10).
 
 Subsec. (c). Pub. L. 108–237, §103(2), added subsec. (c).
 
-1993—Subsec. (a)(6). Pub. L. 103–42, §3(b), struck out “research and development” after “joint” in introductory provisions, inserted subpars. (D) and (E), redesignated former subpars. (D) and (E) as (F) and (G), respectively, inserted “or production” after “research” in subpar. (F), substituted “(D), (E), and (F)” for “and (D)” in subpar. (G), and substituted “such venture” for “research” after “facilities for the conducting of” in concluding provisions.
+<b>1993</b>—Subsec. (a)(6). Pub. L. 103–42, §3(b), struck out “research and development” after “joint” in introductory provisions, inserted subpars. (D) and (E), redesignated former subpars. (D) and (E) as (F) and (G), respectively, inserted “or production” after “research” in subpar. (F), substituted “(D), (E), and (F)” for “and (D)” in subpar. (G), and substituted “such venture” for “research” after “facilities for the conducting of” in concluding provisions.
 
 Subsec. (b). Pub. L. 103–42, §3(c)(1), struck out “research and development” before “venture” in introductory provisions.
 
@@ -152,7 +152,7 @@ Pub. L. 108–237, title I, §102, June 22, 2004, 118 Stat. 661, provided that: 
 
 &emsp;“(8) Private developers of the technical standards that are used as Government standards are often not similarly protected, leaving such developers vulnerable to being named as codefendants in lawsuits even though the likelihood of their being held liable is remote in most cases, and they generally have limited resources to defend themselves in such lawsuits.
 
-&emsp;“(9) Standards development organizations do not stand to benefit from any antitrust violations thatmight occur in the voluntary consensus standards development process.
+&emsp;“(9) Standards development organizations do not stand to benefit from any antitrust violations that might occur in the voluntary consensus standards development process.
 
 &emsp;“(10) As was the case with respect to research and production joint ventures before the passage of the National Cooperative Research and Production Act of 1993, if relief from the threat of liability under the antitrust laws is not granted to voluntary consensus standards bodies, both regarding the development of new standards and efforts to keep existing standards current, such bodies could be forced to cut back on standards development activities at great financial cost both to the Government and to the national economy.”
 

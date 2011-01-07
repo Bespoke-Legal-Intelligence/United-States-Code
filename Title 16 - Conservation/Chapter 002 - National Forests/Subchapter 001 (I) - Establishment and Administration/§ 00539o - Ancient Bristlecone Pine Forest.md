@@ -74,3 +74,5 @@ The National Forest Management Act of 1976, referred to in subsec. (c)(1)(B), is
 
 For definitions of terms used in this section, see section 1801 of Pub. L. 111–11, set out as a note under section 460vvv of this title.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “protects”.</i>
+

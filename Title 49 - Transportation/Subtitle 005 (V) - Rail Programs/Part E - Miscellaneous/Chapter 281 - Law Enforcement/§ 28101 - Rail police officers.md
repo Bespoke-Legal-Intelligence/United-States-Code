@@ -38,7 +38,7 @@ The words “to the extent of the authority of a police officer certified or com
 
 #### Amendments
 
-2007—Pub. L. 110–53 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2007</b>—Pub. L. 110–53 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1994—Pub. L. 103–440 renumbered section 26101 of this title as this section.
+<b>1994</b>—Pub. L. 103–440 renumbered section 26101 of this title as this section.
 

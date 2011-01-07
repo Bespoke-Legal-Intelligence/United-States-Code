@@ -18,11 +18,11 @@
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–446 substituted “section 7312” for “section 4112”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–446 substituted “section 7312” for “section 4112”.
 
-1992—Subsec. (a). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 5055 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 5055 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
@@ -34,13 +34,13 @@ Subsec. (c)(1). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” f
 
 Subsecs. (c)(2), (d) to (f). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1979—Subsec. (c)(1). Pub. L. 96–151 inserted authorization for the three succeeding fiscal years after fiscal year 1979.
+<b>1979</b>—Subsec. (c)(1). Pub. L. 96–151 inserted authorization for the three succeeding fiscal years after fiscal year 1979.
 
-1976—Subsec. (a). Pub. L. 94–581 substituted “advise the Administrator” for “advise him” and “Assistant Chief Medical Director charged with administration of the Department of Medicine and Surgery medical research program” for “Assistant Chief Medical Director for Research and Education in Medicine”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–581 substituted “advise the Administrator” for “advise him” and “Assistant Chief Medical Director charged with administration of the Department of Medicine and Surgery medical research program” for “Assistant Chief Medical Director for Research and Education in Medicine”.
 
 Subsec. (c)(1). Pub. L. 94–424 substituted provisions authorizing appropriations of $3,500,000 for fiscal year 1976; $1,700,000 for the period beginning July 1, 1976, and ending Sept. 30, 1976; $4,000,000 for fiscal year 1977; $4,000,000 for fiscal year 1978; and $4,000,000 for fiscal year 1979 for provisions authorizing appropriations of $3,000,000 for each fiscal year 1968 through 1971, and such sums as may be necessary for each fiscal year 1972 through 1975.
 
-1971—Subsec. (c)(1). Pub. L. 92–69 substituted provisions authorizing appropriations of amounts up to $3,000,000 for each fiscal year 1968 through 1971, and such sums as may be necessary for each fiscal year 1972 through 1975, for provisions authorizing appropriations of amounts up to $3,000,000 for each of the first four fiscal years following fiscal year in which this subchapter was enacted.
+<b>1971</b>—Subsec. (c)(1). Pub. L. 92–69 substituted provisions authorizing appropriations of amounts up to $3,000,000 for each fiscal year 1968 through 1971, and such sums as may be necessary for each fiscal year 1972 through 1975, for provisions authorizing appropriations of amounts up to $3,000,000 for each of the first four fiscal years following fiscal year in which this subchapter was enacted.
 
 #### Change of Name
 

@@ -12,11 +12,11 @@ After the segregation provided for in section 541 of this title shall have been 
 
 #### References in Text
 
-Act of June 1, 1938, referred to in subsec. (b), is act June 1, 1938, ch. 310, 52 Stat. 605, as amended, which is classified generally to subchapter XI (§551 et seq.) ofthis chapter. For complete classification of this Act to the Code, see Tables.
+Act of June 1, 1938, referred to in subsec. (b), is act June 1, 1938, ch. 310, 52 Stat. 605, as amended, which is classified generally to subchapter XI (§551 et seq.) of this chapter. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-1954—Subsec. (a). Act Aug. 13, 1954, repealed subsec. (a) which related to transfer of funds.
+<b>1954</b>—Subsec. (a). Act Aug. 13, 1954, repealed subsec. (a) which related to transfer of funds.
 
 #### Effective Date of 1954 Amendment
 

@@ -46,7 +46,7 @@
 
 #### (C) Use of agency personnel
 
-&emsp;&emsp;The Board may utilize or employ the services of the personnel of any agency or instrumentality of the Federal Government or the District of Columbia, with the consent of the agency or the instrumentality concerned, on a reimbursable basis, and utilize voluntary and uncompensated personnel.
+&emsp;&emsp;The Board may utilize or employ the services of the personnel of any agency or instrumentality of the Federal Government or the District of Columbia, with the consent of theagency or the instrumentality concerned, on a reimbursable basis, and utilize voluntary and uncompensated personnel.
 
 #### (D) Selection of contractors
 
@@ -86,15 +86,15 @@
 
 #### Amendments
 
-2002—Subsec. (a)(2)(D). Pub. L. 107–224 amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: “In carrying out the duties of the Board under this subchapter, the Board may negotiate any contract for an environmental system for, a protection system for, or a repair to, maintenance of, or restoration of the John F. Kennedy Center for the Performing Arts with selected contractors and award the contract on the basis of contractor qualifications as well as price.”
+<b>2002</b>—Subsec. (a)(2)(D). Pub. L. 107–224 amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: “In carrying out the duties of the Board under this subchapter, the Board may negotiate any contract for an environmental system for, a protection system for, or a repair to, maintenance of, or restoration of the John F. Kennedy Center for the Performing Arts with selected contractors and award the contract on the basis of contractor qualifications as well as price.”
 
-1998—Subsec. (a)(1)(G). Pub. L. 105–226, §2, amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), plan, design, and construct each capital repair, replacement, improvement, rehabilitation, alteration, or modification necessary for the feature;”.
+<b>1998</b>—Subsec. (a)(1)(G). Pub. L. 105–226, §2, amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), plan, design, and construct each capital repair, replacement, improvement, rehabilitation, alteration, or modification necessary for the feature;”.
 
 Subsec. (a)(1)(H)(ii). Pub. L. 105–226, §3, amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), all necessary maintenance, repair, and alteration of, and all janitorial, security, and other services and equipment necessary for the operation of, the feature, in a manner consistent with requirements for high quality operations; and”.
 
-1997—Subsec. (a)(1)(I). Pub. L. 105–95 added subpar. (I).
+<b>1997</b>—Subsec. (a)(1)(I). Pub. L. 105–95 added subpar. (I).
 
-1994—Pub. L. 103–279 substituted section catchline for former section catchline, added heading and text of subsec. (a), and struck out former subsec. (a) which read as follows: “The Board shall—
+<b>1994</b>—Pub. L. 103–279 substituted section catchline for former section catchline, added heading and text of subsec. (a), and struck out former subsec. (a) which read as follows: “The Board shall—
 
 &emsp;“(1) present classical and contemporary music, opera, drama, dance, and poetry from this and other countries,
 
@@ -106,9 +106,9 @@ Subsec. (a)(1)(H)(ii). Pub. L. 105–226, §3, amended cl. (ii) generally. Prior
 
 &emsp;“(5) provide within the John F. Kennedy Center for the Performing Arts a suitable memorial in honor of the late President.”
 
-1983—Pub. L. 98–205 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1983</b>—Pub. L. 98–205 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1964—Pub. L. 88–260 struck out “and” at end of par. (3), substituted “John F. Kennedy Center for the Performing Arts” for “Cultural Center” in par. (4), and added par. (5).
+<b>1964</b>—Pub. L. 88–260 struck out “and” at end of par. (3), substituted “John F. Kennedy Center for the Performing Arts” for “Cultural Center” in par. (4), and added par. (5).
 
 #### Access to John F. Kennedy Center for the Performing Arts
 

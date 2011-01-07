@@ -10,7 +10,7 @@ If any corporation receives any extraordinary dividend with respect to any share
 
 #### (2) Amounts in excess of basis
 
-&emsp;If the nontaxed portion of such dividends exceeds such basis, such excess shall be treated as gain from the sale or exchange of such stock for the taxable year in which the extraordinary dividend is received.
+&emsp;If the nontaxed portion of such dividends exceeds such basis, such excess shall be treatedas gain from the sale or exchange of such stock for the taxable year in which the extraordinary dividend is received.
 
 #### (b) Nontaxed portion
 
@@ -262,9 +262,9 @@ A prior section 1059 was renumbered section 1061 of this title.
 
 #### Amendments
 
-1998—Subsec. (g)(1). Pub. L. 105–206 substituted “, in the case of stock held by pass-thru entities, and in the case of consolidated groups” for “and in the case of stock held by pass-thru entities”.
+<b>1998</b>—Subsec. (g)(1). Pub. L. 105–206 substituted “, in the case of stock held by pass-thru entities, and in the case of consolidated groups” for “and in the case of stock held by pass-thru entities”.
 
-1997—Subsec. (a)(2). Pub. L. 105–34, §1011(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In addition to any gain recognized under this chapter, there shall be treated as gain from the sale or exchange of any stock for the taxable year in which the sale or disposition of such stock occurs an amount equal to the aggregate nontaxed portions of any extraordinary dividends with respect to such stock which did not reduce the basis of such stock by reason of the limitation on reducing basis below zero.”
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–34, §1011(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In addition to any gain recognized under this chapter, there shall be treated as gain from the sale or exchange of any stock for the taxable year in which the sale or disposition of such stock occurs an amount equal to the aggregate nontaxed portions of any extraordinary dividends with respect to such stock which did not reduce the basis of such stock by reason of the limitation on reducing basis below zero.”
 
 Subsec. (d)(1). Pub. L. 105–34, §1011(c), amended heading and text of par. (1) generally. Prior to amendment, text read as follows:
 
@@ -274,7 +274,7 @@ In general.—Except as provided in subparagraph (B), any reduction in basis und
 
 “(B)
 
-Special rule for computing extraordinary dividend.—In determining a taxpayer's adjusted basisfor purposes of subsection (c)(1), any reduction in basis under subsection (a)(1) by reason of a prior distribution which was an extraordinary dividend shall be treated as occurring at the beginning of the ex-dividend date for such distribution.”
+Special rule for computing extraordinary dividend.—In determining a taxpayer's adjusted basis for purposes of subsection (c)(1), any reduction in basis under subsection (a)(1) by reason of a prior distribution which was an extraordinary dividend shall be treated as occurring at the beginning of the ex-dividend date for such distribution.”
 
 Subsec. (d)(3). Pub. L. 105–34, §1604(d)(1), substituted “subsection (a)” for “subsection (a)(2)”.
 
@@ -288,11 +288,11 @@ Subsec. (e)(1). Pub. L. 105–34, §1011(b), amended heading and text of par. (1
 
 Subsec. (e)(1)(A)(iii). Pub. L. 105–34, §1013(b), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “which would not have been treated (in whole or in part) as a dividend if any options had not been taken into account under section 318(a)(4).”
 
-1989—Subsecs. (f), (g). Pub. L. 101–239 added subsecs. (f) and (g) and struck out former subsec. (f) which read as follows: “
+<b>1989</b>—Subsecs. (f), (g). Pub. L. 101–239 added subsecs. (f) and (g) and struck out former subsec. (f) which read as follows: “
 
 Regulations.—The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations providing for the application of this section in the case of stock dividends, stock splits, reorganizations, and other similar transactions and in the case of stock held by pass-thru entities.”
 
-1988—Subsec. (d)(5). Pub. L. 100–647, §1006(c)(2), inserted “amount or” after “agrees to the”.
+<b>1988</b>—Subsec. (d)(5). Pub. L. 100–647, §1006(c)(2), inserted “amount or” after “agrees to the”.
 
 Pub. L. 100–647, §1006(c)(1), redesignated par. (6) as (5) and struck out former par. (5) which related to extension to certain property distributions.
 
@@ -326,7 +326,7 @@ Subsec. (e)(3)(C)(i). Pub. L. 100–647, §1006(c)(7), inserted “fixed” befo
 
 Subsec. (f). Pub. L. 100–647, §1006(c)(9), inserted “and in the case of stock held by pass-thru entities” after “other similar transactions”.
 
-1986—Subsec. (a). Pub. L. 99–514, §614(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If any corporation—
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §614(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If any corporation—
 
 &emsp;“(1) receives an extraordinary dividend with respect to any share of stock, and
 
@@ -372,7 +372,7 @@ Transition rule.—The amendments made by this section shall not apply to any di
 
 Certain dividends not pursuant to certain redemptions.—In determining whether the amendment made by subsection (a) applies to any extraordinary dividend other than a dividend treated as an extraordinary dividend under section 1059(e)(1) of the Internal Revenue Code of 1986 (as amended by this Act), paragraphs (1) and (2) shall be applied by substituting ‘September 13, 1995’ for ‘May 3, 1995’.”
 
-Amendment by section 1013(b) of Pub. L. 105–34 applicable to distributions and acquisitions after June 8, 1997, with certain exceptions, see section 1013(d) of Pub.L. 105–34, set out as a note under section 304 of this title.
+Amendment by section 1013(b) of Pub. L. 105–34 applicable to distributions and acquisitions after June 8, 1997, with certain exceptions, see section 1013(d) of Pub. L. 105–34, set out as a note under section 304 of this title.
 
 #### Effective Date of 1989 Amendment
 

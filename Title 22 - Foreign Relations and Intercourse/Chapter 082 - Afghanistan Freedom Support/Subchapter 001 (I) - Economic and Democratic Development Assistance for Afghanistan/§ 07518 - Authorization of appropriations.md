@@ -20,9 +20,9 @@ The Food for Peace Act, referred to in subsec. (b)(2), is act July 10, 1954, ch.
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–458 substituted “such sums as may be necessary for each of the fiscal years 2005 and 2006.” for “$1,825,000,000 for fiscal year 2004 and $425,000,000 for each of fiscal years 2005 and 2006.”
+<b>2004</b>—Subsec. (a). Pub. L. 108–458 substituted “such sums as may be necessary for each of the fiscal years 2005 and 2006.” for “$1,825,000,000 for fiscal year 2004 and $425,000,000 for each of fiscal years 2005 and 2006.”
 
-2003—Subsec. (a). Pub. L. 108–106 substituted “$1,825,000,000 for fiscal year 2004 and $425,000,000 for each of fiscal years 2005 and 2006” for “$425,000,000 for each of the fiscal years 2003 through 2006”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–106 substituted “$1,825,000,000 for fiscal year 2004 and $425,000,000 for each of fiscal years 2005 and 2006” for “$425,000,000 for each of the fiscal years 2003 through 2006”.
 
 #### Change of Name
 

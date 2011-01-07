@@ -28,7 +28,7 @@ For purposes of this chapter—
 
 #### (3) 1974 UMWA Pension Plan
 
-&emsp;The term “1974 UMWA Pension Plan” means a pension plan described in section 404(c) (or acontinuation thereof), participation in which is substantially limited to individuals who retired in 1976 and thereafter.
+&emsp;The term “1974 UMWA Pension Plan” means a pension plan described in section 404(c) (or a continuation thereof), participation in which is substantially limited to individuals who retired in 1976 and thereafter.
 
 #### (4) 1992 UMWA Benefit Plan
 
@@ -122,7 +122,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) is an unrelated person to an eligible seller described in subparagraph (C); and
 
-&emsp;&emsp;&emsp;(ii) purchases for fair market value assets, or all of the stock, of a related personto such seller, in a bona fide, arm's-length sale.
+&emsp;&emsp;&emsp;(ii) purchases for fair market value assets, or all of the stock, of a related person to such seller, in a bona fide, arm's-length sale.
 
 #### (B) Unrelated person
 
@@ -140,13 +140,13 @@ For purposes of this chapter, the term “enactment date” means the date of th
 
 #### References in Text
 
-Section 9713A, referred to in subsec. (a)(4), probably should be a reference to section 9712 which provided for the establishment of the United Mine Workers of America 1992 Benefit Plan, referred to in that section as the “1992 UMWA Benefit Plan”. No section 9713A of this title has been enacted.
+Section 9713A, referred to in subsec. (a)(4), probably should be a reference to section 9712 which provided forthe establishment of the United Mine Workers of America 1992 Benefit Plan, referred to in that section as the “1992 UMWA Benefit Plan”. No section 9713A of this title has been enacted.
 
 The date of the enactment of this chapter, referred to in subsec. (d), is the date of the enactment of Pub. L. 102–486, which was approved Oct. 24, 1992.
 
 #### Amendments
 
-2006—Subsec. (c)(8). Pub. L. 109–432 added par. (8).
+<b>2006</b>—Subsec. (c)(8). Pub. L. 109–432 added par. (8).
 
 #### Effective Date of 2006 Amendment
 
@@ -173,4 +173,6 @@ Statement of Policy.—It is the policy of this subtitle \[subtitle C (§§19141
 &emsp;“(2) to allow for sufficient operating assets for such plans; and
 
 &emsp;“(3) to provide for the continuation of a privately financed self-sufficient program for the delivery of health care benefits to the beneficiaries of such plans.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -48,7 +48,7 @@ Executive Order No. 12985, referred to in subsec. (a)(3)(A)(iii), is set out as 
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–288, §2(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any contract in the amount of $25,000or more entered into by any department or agency for the procurement of personal property and non-personal services (including construction) for the United States, shall contain a provision requiring that the party contracting with the United States shall take affirmative action to employ and advance in employment qualified special disabled veterans, veterans of the Vietnam era, recently separated veterans, and any other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized. The provisions of this section shall apply to any subcontract entered into by a prime contractor in carrying out any contract for the procurement of personal property and non-personal services (including construction) for the United States. In addition to requiring affirmative action to employ such veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the President shall implement the provisions of this section by promulgating regulations which shall require that (1) each such contractor undertake in such contract to list immediately with the appropriate local employment service office all of its employment openings except that the contractor may exclude openings for executive and top management positions, positions which are to be filled from within the contractor's organization, and positions lasting three days or less, and (2) each such local office shall give such veterans priority in referral to such employment openings.”
+<b>2002</b>—Subsec. (a). Pub. L. 107–288, §2(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any contract in the amount of $25,000 or more entered into by any department or agency for the procurement of personal property and non-personal services (including construction) for the United States, shall contain a provision requiring that the party contracting with the United States shall take affirmative action to employ and advance in employment qualified special disabled veterans, veterans of the Vietnam era, recently separated veterans, and any other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized. The provisions of this section shall apply to any subcontract entered into by a prime contractor in carrying out any contract for the procurement of personal property and non-personal services (including construction) for the United States. In addition to requiring affirmative action to employ such veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the President shall implement the provisions of this section by promulgating regulations which shall require that (1) each such contractor undertake in such contract to list immediately with the appropriate local employment service office all of its employment openings except that the contractor may exclude openings for executive and top management positions, positions which are to be filled from within the contractor's organization, and positions lasting three days or less, and (2) each such local office shall give such veterans priority in referral to such employment openings.”
 
 Subsec. (c). Pub. L. 107–288, §2(b)(2)(A), struck out “suitable” before “employment openings” and substituted “subsection (a)(2)(B)” for “subsection (a)(2) of this section”.
 
@@ -62,11 +62,11 @@ Subsec. (d)(1)(A), (B). Pub. L. 107–288, §2(b)(2)(B)(ii), amended subpars. (A
 
 Subsec. (d)(2). Pub. L. 107–288, §2(b)(2)(C), struck out “of this subsection” after “paragraph (1)”.
 
-2000—Subsec. (a). Pub. L. 106–419, §322(a), inserted “recently separated veterans,” after “veterans of the Vietnam era,” in first sentence.
+<b>2000</b>—Subsec. (a). Pub. L. 106–419, §322(a), inserted “recently separated veterans,” after “veterans of the Vietnam era,” in first sentence.
 
 Subsec. (d)(1)(A), (B). Pub. L. 106–419, §322(b), inserted “recently separated veterans,” after “veterans of the Vietnam era,”.
 
-1998—Subsec. (a). Pub. L. 105–339, §7(a)(1), in first sentence, substituted “$25,000” for “$10,000” and “special disabled veterans, veterans of the Vietnam era, and any other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized” for “special disabled veterans and veterans of the Vietnam era”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–339, §7(a)(1), in first sentence, substituted “$25,000” for “$10,000” and “special disabled veterans, veterans of the Vietnam era, and any other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized” for “special disabled veterans and veterans of the Vietnam era”.
 
 Subsec. (b). Pub. L. 105–339, §7(a)(2), substituted “veteran covered by the first sentence of subsection (a)” for “special disabled veteran or veteran of the Vietnam era”.
 
@@ -74,9 +74,9 @@ Subsec. (d)(1)(A), (B). Pub. L. 105–339, §7(a)(3), substituted “special dis
 
 Subsec. (d)(1)(C). Pub. L. 105–339, §8, added subpar. (C).
 
-1994—Subsec. (a)(1). Pub. L. 103–446 substituted “all of its employment openings except that the contractor may exclude openings for executive and top management positions, positions which are to be filled from within the contractor's organization, and positions lasting three days or less,” for “all of its suitable employment openings,”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–446 substituted “all of its employment openings except that the contractor may exclude openings for executive and top management positions, positions which are to be filled from within the contractor's organization, and positions lasting three days or less,” for “all of its suitable employment openings,”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 2012 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 2012 of this title as this section.
 
 Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “4107(c)” for “2007(c)”.
 
@@ -84,19 +84,19 @@ Pub. L. 102–83, §4(b)(8), substituted “Secretary of Labor” for “Secreta
 
 Subsec. (d). Pub. L. 102–83, §4(b)(8), substituted “Secretary of Labor” for “Secretary” wherever appearing.
 
-1982—Subsec. (d). Pub. L. 97–306 added subsec. (d).
+<b>1982</b>—Subsec. (d). Pub. L. 97–306 added subsec. (d).
 
-1980—Subsec. (a). Pub. L. 96–466, §801(j), inserted “special” after “qualified” and substituted “regulations which shall require” for “regulations within 60 days after the date of enactment of this section, which regulations shall require”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–466, §801(j), inserted “special” after “qualified” and substituted “regulations which shall require” for “regulations within 60 days after the date of enactment of this section, which regulations shall require”.
 
 Subsec. (b). Pub. L. 96–466, §509, among other changes, substituted reference to a special disabled veteran for reference to a disabled veteran, struck out provisions relating to the filing of a complaint by any veteran entitled to disability compensation who believed that a contractor had discriminated against such veteran because such veteran was a handicapped individual within the meaning of section 706(6) of title 29, and substituted provisions relating to the filing of a complaint with the Secretary of Labor for provisions relating to the filing of a complaint with the Veterans’ Employment Service of the Department of Labor and prompt referral of the complaint to the Secretary.
 
-1978—Subsec. (b). Pub. L. 95–520 authorized filing of a complaint by a veteran entitled to disability compensation under laws administered by the Veterans’ Administration based on a contractor's discrimination against the veteran because the veteran is handicapped.
+<b>1978</b>—Subsec. (b). Pub. L. 95–520 authorized filing of a complaint by a veteran entitled to disability compensation under laws administered by the Veterans’ Administration based on a contractor's discrimination against the veteran because the veteran is handicapped.
 
-1976—Subsec. (b). Pub. L. 94–502, §607(2), substituted “the contractor's” for “his”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–502, §607(2), substituted “the contractor's” for “his”.
 
 Subsec. (c). Pub. L. 94–502, §605, added subsec. (c).
 
-1974—Subsec. (a). Pub. L. 93–508, §402(1), (2), substituted “Any contract in the amount of $10,000 or more entered into” for “Any contract entered into”, “the party contracting with the United States shall take affirmative action to employ and advance in employment” for “in employing persons to carry out such contract, the party contracting with the United States shall give special emphasis to the employment of”, and “In addition to requiring affirmative action to employ such veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the President shall” for “The President shall”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–508, §402(1), (2), substituted “Any contract in the amount of $10,000 or more entered into” for “Any contract entered into”, “the party contracting with the United States shall take affirmative action to employ and advance in employment” for “in employing persons to carry out such contract, the party contracting with the United States shall give special emphasis to the employment of”, and “In addition to requiring affirmative action to employ such veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the President shall” for “The President shall”.
 
 Subsec. (b). Pub. L. 93–508, §402(3), substituted “relating to the employment of veterans” for “relating to giving special emphasis in employment to veterans”.
 

@@ -38,7 +38,7 @@ In subsection (a), the words “who has served (1) as Chief of Staff to the Pres
 
 In subsection (b), the words “in that grade” are substituted for the words “in such higher temporary grade”. The words “under section 8071 of this title” are inserted for clarity.
 
-In subsection (c), the words “Upon retirement” are substituted for the words “When is retired”. The word “allowances” is omitted, since retired officers are not entitled to allowances. The words “grade is below brigadier general” are inserted, since any permanent professor who has the grade of brigadier general retires in that grade under section 9335 of this title.
+In subsection (c), the words “Upon retirement” are substituted for the words “When \* \* \* is retired”. The word “allowances” is omitted, since retired officers are not entitled to allowances. The words “grade is below brigadier general” are inserted, since any permanent professor who has the grade of brigadier general retires in that grade under section 9335 of this title.
 
 1958
 
@@ -60,17 +60,17 @@ The amendment reflects section 1 of the Act of May 31, 1956, ch. 348 (70 Stat. 2
 
 #### Amendments
 
-1996—Pub. L. 104–106 designated subsec. (b) as entire section and struck out subsec. (a) which read as follows: “Upon retirement, a commissioned officer of the Air Force who has served (1) as Chief of Staff to the President, (2) as Chief of Staff of the Air Force, (3) as a senior member of the Military Staff Committee of the United Nations, or (4) as Surgeon General of the Air Force in the grade of lieutenant general may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade in which he served on active duty.”
+<b>1996</b>—Pub. L. 104–106 designated subsec. (b) as entire section and struck out subsec. (a) which read as follows: “Upon retirement, a commissioned officer of the Air Force who has served (1) as Chief of Staff to the President, (2) as Chief of Staff of the Air Force, (3) as a senior member of the Military Staff Committee of the United Nations, or (4) as Surgeon General of the Air Force in the grade of lieutenant general may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade in which he served on active duty.”
 
-1980—Pub. L. 96–343, §13(b)(2), substituted “positions” for “positions: regular commissioned officers” in section catchline.
+<b>1980</b>—Pub. L. 96–343, §13(b)(2), substituted “positions” for “positions: regular commissioned officers” in section catchline.
 
 Subsec. (a). Pub. L. 96–513 substituted “or (4)” for “(4) in a position of importance and responsibility designated by the President to carry the grade of general or lieutenant general under section 8066 of this title, or (5)”.
 
 Pub. L. 96–343, §13(b)(1), substituted “Air Force who has” for “Regular Air Force who has” and “in which he served on active duty” for “held by him at any time on the active list”.
 
-1965—Subsec. (a). Pub. L. 89–288 added the Surgeon General of the Air Force to the list of commissioned officers who may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade held by him at any time on the active list.
+<b>1965</b>—Subsec. (a). Pub. L. 89–288 added the Surgeon General of the Air Force to the list of commissioned officers who may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade held by him at any time on the active list.
 
-1958—Subsecs. (b), (c). Pub. L. 85–861 redesignated subsec. (c) as (b), and struck out former subsec. (b) which related to retirement grade of a woman Air Force officer who served at least two and one-half years on active duty in the temporary grade of colonel in the Air Force under section 8071 of this title.
+<b>1958</b>—Subsecs. (b), (c). Pub. L. 85–861 redesignated subsec. (c) as (b), and struck out former subsec. (b) which related to retirement grade of a woman Air Force officer who served at least two and one-half years on active duty in the temporary grade of colonel in the Air Force under section 8071 of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -82,5 +82,5 @@ For authority of the President to appoint a retired commissioned officer of a re
 
 #### Retired Grade for Certain General Officers
 
-Extension of privilege granted by subsec. (a) of this section, to officers, heretofore or hereafter retired, who served in the grade of general or lieutenant general after Dec. 7, 1941, and before July 1, 1946, see section 38of act Aug. 10, 1956, set out as a note under section 3962 of this title.
+Extension of privilege granted by subsec. (a) of this section, to officers, heretofore or hereafter retired, who served in the grade of general or lieutenant general after Dec. 7, 1941, and before July 1, 1946, see section 38 of act Aug. 10, 1956, set out as a note under section 3962 of this title.
 

@@ -28,7 +28,7 @@
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–168, §106(1), in concluding provisions, substituted “$50,000 for each mailing of less than 50,000 pieces; $100,000 for each mailing of 50,000 to 100,000 pieces; with an additional $10,000 for each additional 10,000 pieces above 100,000, not to exceed $2,000,000” for “$10,000 for each day that such person engages in conduct described by paragraph (1), (2), or (3) of this subsection”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–168, §106(1), in concluding provisions, substituted “$50,000 for each mailing of less than 50,000 pieces; $100,000 for each mailing of 50,000 to 100,000 pieces; with an additional $10,000 for each additional 10,000 pieces above 100,000, not to exceed $2,000,000” for “$10,000 for each day that such person engages in conduct described by paragraph (1), (2), or (3) of this subsection”.
 
 Subsec. (b)(1), (2). Pub. L. 106–168, §106(2), inserted “, (c), or (d)” after “of subsection (a)”.
 

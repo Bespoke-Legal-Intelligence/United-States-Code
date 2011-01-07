@@ -28,7 +28,7 @@ A prior section 6107, acts Aug. 16, 1954, ch. 736, 68A Stat. 756; Nov. 2, 1966, 
 
 #### Amendments
 
-2007—Pub. L. 110–28, §8246(a)(2)(C)(i)(I), substituted “Tax return preparer” for “Income tax return preparer” in section catchline.
+<b>2007</b>—Pub. L. 110–28, §8246(a)(2)(C)(i)(I), substituted “Tax return preparer” for “Income tax return preparer” in section catchline.
 
 Subsec. (a). Pub. L. 110–28, §8246(a)(2)(C)(i)(II), substituted “a tax return preparer” for “an income tax return preparer”.
 

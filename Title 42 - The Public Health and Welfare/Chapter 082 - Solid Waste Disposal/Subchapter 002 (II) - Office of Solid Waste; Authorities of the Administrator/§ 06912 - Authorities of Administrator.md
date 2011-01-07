@@ -32,11 +32,11 @@ In subsec. (a)(6), “chapter 51 of title 49” substituted for “the Hazardous
 
 #### Amendments
 
-1988—Subsec. (a)(5). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+<b>1988</b>—Subsec. (a)(5). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
-1984—Subsec. (c). Pub. L. 98–616 added subsec. (c).
+<b>1984</b>—Subsec. (c). Pub. L. 98–616 added subsec. (c).
 
-1980—Subsec. (a)(6). Pub. L. 96–482 added par. (6).
+<b>1980</b>—Subsec. (a)(6). Pub. L. 96–482 added par. (6).
 
 #### Transfer of Functions
 

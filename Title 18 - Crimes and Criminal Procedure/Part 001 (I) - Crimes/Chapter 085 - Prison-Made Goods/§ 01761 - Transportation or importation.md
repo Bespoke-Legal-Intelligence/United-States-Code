@@ -42,31 +42,31 @@ Minor changes in phraseology were made.
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–294, §601(a)(7), substituted “fined under this title” for “fined not more than $50,000”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–294, §601(a)(7), substituted “fined under this title” for “fined not more than $50,000”.
 
 Subsec. (b). Pub. L. 104–134 inserted “or not-for-profit organizations” after “of a State”.
 
 Subsec. (d). Pub. L. 104–294, §607(h), added subsec. (d).
 
-1994—Pub. L. 103–322, §330016(1)(H), which directed the amendment of this section by substituting “under this title” for “not more than $1,000”, could not be executed because the phrase “not more than $1,000” did not appear in text subsequent to amendment of subsec. (a) by Pub. L. 102–393. See 1992 Amendment note below.
+<b>1994</b>—Pub. L. 103–322, §330016(1)(H), which directed the amendment of this section by substituting “under this title” for “not more than $1,000”, could not be executed because the phrase “not more than $1,000” did not appear in text subsequent to amendment of subsec. (a) by Pub. L. 102–393. See 1992 Amendment note below.
 
 Subsec. (c). Pub. L. 103–322, §330010(11), struck out “and” at end of par. (1), substituted semicolon for period at end of par. (2)(B), and inserted “and” at end of par. (3).
 
-1992—Subsec. (a). Pub. L. 102–393 substituted “$50,000” for “$1,000” and “two years” for “one year”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–393 substituted “$50,000” for “$1,000” and “two years” for “one year”.
 
-1990—Subsec. (c). Pub. L. 101–647, §2906(1), (2), substituted “In addition to the exceptions set forth in subsection (b) of this section, this chapter shall not apply to goods, wares, or merchandise manufactured, produced, or mined by convicts or prisoners who” for “In addition to the exceptions set forth in subsection (b) of this section, this chapter shall also not apply to goods, wares, or merchandise manufactured, produced, or mined by convicts or prisoners participating in a program of not more than twenty pilot projects designated by the Director of the Bureau of Justice Assistance and who” in introductory provisions, added par. (1), and redesignated former pars. (1) to (3) as (2) to (4), respectively.
+<b>1990</b>—Subsec. (c). Pub. L. 101–647, §2906(1), (2), substituted “In addition to the exceptions set forth in subsection (b) of this section, this chapter shall not apply to goods, wares, or merchandise manufactured, produced, or mined by convicts or prisoners who” for “In addition to the exceptions set forth in subsection (b) of this section, this chapter shall also not apply to goods, wares, or merchandise manufactured, produced, or mined by convicts or prisoners participating in a program of not more than twenty pilot projects designated by the Director of the Bureau of Justice Assistance and who” in introductory provisions, added par. (1), and redesignated former pars. (1) to (3) as (2) to (4), respectively.
 
 Subsec. (c)(2)(B). Pub. L. 101–647, §2906(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “reasonable charges for room and board as determined by regulations which shall be issued by the Chief State correctional officer;”.
 
-1987—Subsec. (d). Pub. L. 100–17 struck out subsec. (d) which read as follows: “Notwithstanding any law to the contrary, materials produced by convict labor may be used in the construction of any highways or portion of highways located on Federal-aid systems, as described in section 103 of title 23, United States Code.”
+<b>1987</b>—Subsec. (d). Pub. L. 100–17 struck out subsec. (d) which read as follows: “Notwithstanding any law to the contrary, materials produced by convict labor may be used in the construction of any highways or portion of highways located on Federal-aid systems, as described in section 103 of title 23, United States Code.”
 
-1984—Subsec. (a). Pub. L. 98–473, §223(c), inserted “, supervised release,” after “parole”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–473, §223(c), inserted “, supervised release,” after “parole”.
 
 Subsec. (c). Pub. L. 98–473, §609K(a), substituted “twenty” for “seven” and “Director of the Bureau of Justice Assistance” for “Administrator of the Law Enforcement Assistance Administration”.
 
 Subsec. (d). Pub. L. 98–473, §609K(b), added subsec. (d).
 
-1979—Subsec. (c). Pub. L. 90–351 added subsec. (c).
+<b>1979</b>—Subsec. (c). Pub. L. 90–351 added subsec. (c).
 
 #### Effective Date of 1984 Amendment
 
@@ -82,7 +82,7 @@ Pub. L. 101–647, title XXIX, §2908, Nov. 29, 1990, 104 Stat. 4915, which requ
 
 #### Exemptions to Federal Restrictions on Marketability of Prison-Made Goods
 
-Pub. L. 90–351, title I, §819(c), formerly §827(c), as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1215, renumbered and amended Pub. L. 98–473, title II, §609B(f), (<i>o</i>), Oct. 12, 1984, 98 Stat. 2093, 2096, provided that: “The provisions of section 1761 of title 18, United States Code, and of the first section of the Act of June 30, 1936 (49 Stat. 2036; 41 U.S.C. 35), commonly known as the Walsh-Healey Act, creating exemptions to Federal restrictions on marketability of prison-made goods, as amended from time to time, shall not apply unless—
+Pub. L. 90–351, title I, §819(c), formerly §827(c), as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1215, renumbered and amended Pub. L. 98–473, title II, §609B(f), (<i>o</i>), Oct. 12, 1984, 98 Stat. 2093, 2096, provided that: “The provisions of section 1761 of title 18, United States Code, and of the first section of the Act of June 30, 1936 (49 Stat. 2036; \[former\] 41 U.S.C. 35 \[see 41 U.S.C. 6502\]), commonly known as the Walsh-Healey Act, creating exemptions to Federal restrictions on marketability of prison-made goods, as amended from time to time, shall not apply unless—
 
 &emsp;“(1) representatives of local union central bodies or similar labor union organizations have been consulted prior to the initiation of any project qualifying of any exemption created by this section; and
 

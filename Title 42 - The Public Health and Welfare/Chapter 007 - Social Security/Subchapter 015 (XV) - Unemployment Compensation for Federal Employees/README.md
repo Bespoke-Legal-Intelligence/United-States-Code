@@ -1,7 +1,5 @@
 ### SUBCHAPTER XV—UNEMPLOYMENT COMPENSATION FOR FEDERAL EMPLOYEES
 
-<i><sup>1</sup></i><i> So in original. Probably should be “needs”.</i>
-
 
 ---
 

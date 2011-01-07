@@ -42,19 +42,19 @@ The Migratory Bird Conservation Act, referred to in subsec. (a), is act Feb. 18,
 
 #### Amendments
 
-2005—Subsec. (b)(2)(C). Pub. L. 109–75 substituted “2016” for “2006”.
+<b>2005</b>—Subsec. (b)(2)(C). Pub. L. 109–75 substituted “2016” for “2006”.
 
-2000—Subsec. (a). Pub. L. 106–553, §1(a)(2) \[title IX, §902(d)(1)\], designated existing provisions as par. (1) and added par. (2).
+<b>2000</b>—Subsec. (a). Pub. L. 106–553, §1(a)(2) \[title IX, §902(d)(1)\], designated existing provisions as par. (1) and added par. (2).
 
 Subsecs. (c), (d). Pub. L. 106–553, §1(a)(2) \[title IX, §902(d)(2)\], added subsecs. (c) and (d).
 
-1989—Pub. L. 101–233 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1989</b>—Pub. L. 101–233 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1972—Pub. L. 92–558 substituted “(beginning with the fiscal year 1975)” for “(beginning with the fiscal year 1971)” and inserted reference to section 4161(b) of title 26.
+<b>1972</b>—Pub. L. 92–558 substituted “(beginning with the fiscal year 1975)” for “(beginning with the fiscal year 1971)” and inserted reference to section 4161(b) of title 26.
 
-1970—Pub. L. 91–503 inserted provisions for the deposit of the 10 per cent tax on pistols and revolvers under section 4181 of title 26 into the Federal aid to wildlife restoration fund beginning in fiscal year 1971.
+<b>1970</b>—Pub. L. 91–503 inserted provisions for the deposit of the 10 per cent tax on pistols and revolvers under section 4181 of title 26 into the Federal aid to wildlife restoration fund beginning in fiscal year 1971.
 
 #### Effective Date of 1989 Amendment
 

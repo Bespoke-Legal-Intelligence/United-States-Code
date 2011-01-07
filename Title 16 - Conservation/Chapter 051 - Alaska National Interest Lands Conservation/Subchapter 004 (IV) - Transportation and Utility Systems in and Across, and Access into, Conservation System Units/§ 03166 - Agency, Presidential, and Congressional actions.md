@@ -4,7 +4,7 @@
 
 (1) In the case of any application for the approval of any transportation or utility system to which section 3165 of this title does not apply or that does not occupy, use, or traverse any area within the National Wilderness Preservation System, if, in compliance with section 3164 of this title—
 
-&emsp;(A) each Federal agency concerned decides to approve each authorization within its jurisdiction with respect to that system, then the system shall be deemed to be approved and each such agency shall promptly issue, in accordance with applicable law, such rights-of-way, permits, licenses, leases, certificates, or other authorizations as are necessary with respect to the establishment of the system; or
+&emsp;(A) each Federal agency concerned decides to approve each authorization within its jurisdiction with respect to that system, then thesystem shall be deemed to be approved and each such agency shall promptly issue, in accordance with applicable law, such rights-of-way, permits, licenses, leases, certificates, or other authorizations as are necessary with respect to the establishment of the system; or
 
 &emsp;(B) one or more Federal agencies decide to disapprove any authorization within its jurisdiction with respect, to that system, then the system shall be deemed to be disapproved and the applicant for the system may appeal the disapproval to the President.
 
@@ -18,7 +18,7 @@
 
 (1) In the case of any application for the approval of a transportation or utility system to which section 3165 of this title applies or that proposes to occupy, use, or traverse any area within the National Wilderness Preservation System, each Federal agency concerned shall promptly submit to the President notification whether the agency tentatively approved or disapproved each authorization within its jurisdiction that applies with respect to the system. Such notification shall be accompanied by a statement of the reasons and findings supporting the agency position.
 
-(2) Within four months after receiving all notification referred to in paragraph (1) and after considering such notifications, any environmental impact statement prepared pursuant to section 3164(e) of this title, and the comments of the public and Federal agencies received during the preparation of such statement, the President shall decide whether or not the application for the system concerned should be approved. If the President denies an application the applicant shall be deemed to have exhausted his administrative remedies, and may file suite in any appropriate Federal court to challenge such decision. If the President approves the application, he shall submit to Congress his recommendation for approval of the transportation or utility system covered, whereupon the Congress shall consider the application as provided in subsection (c) of this section. The President shall include with his recommendation to Congress—
+(2) Within four months after receiving all notification referred to in paragraph (1) and after considering such notifications, any environmental impact statement prepared pursuant to section 3164(e) of this title, and the comments of the public and Federal agencies received during the preparation of such statement, the President shall decide whether or not the application for the system concerned should be approved. If the President denies an application the applicant shall be deemed to have exhausted his administrative remedies, and may file suit in any appropriate Federal court to challenge such decision. If the President approves the application, he shall submit to Congress his recommendation for approval of the transportation or utility system covered, whereupon the Congress shall consider the application as provided in subsection (c) of this section. The President shall include with his recommendation to Congress—
 
 &emsp;(A) the application which is the subject of his recommendation;
 
@@ -36,15 +36,15 @@
 
 &emsp;(A) continuity of session of the Congress is broken only by an adjournment sine die; and
 
-&emsp;(B) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of one-hundred-and-twenty-day calendar period.
+&emsp;(B) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the one-hundred-and-twenty-day calendar period.
 
 (3) This subsection is enacted by the Congress—
 
-&emsp;(A) as an exercise of the rulemaking power of each House of the Congress respectively, but applicable only with respect to the procedure to be followed in the House in the case of resolutions described by paragraph (6) of this subsection; and its supersedes other rules only to the extent that it is inconsistent therewith; and
+&emsp;(A) as an exercise of the rulemaking power of each House of the Congress respectively, but applicable only with respect to the procedure to be followed in the House in the case of resolutions described by paragraph (6) of this subsection; and it supersedes other rules only to the extent that it is inconsistent therewith; and
 
 &emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as those relate to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of such House.
 
-(4) For the purposes of this subsection, the term “resolution” means a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and Senate approve the application for      under title XI of the Alaska National Interest Lands Conservation Act submitted by the President to the Congress on       , 19 .”; the first blank space therein to be filled in with the appropriate transportation or utility system and the second blank therein to be filled with the date on which the President submits the application to the House of Representatives and the Senate.
+(4) For the purposes of this subsection, the term “resolution” means a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and Senate approve the application for      under title XI of the Alaska National Interest Lands Conservation Act submitted by the President to the Congress on       , 19 .”; the first blankspace therein to be filled in with the appropriate transportation or utility system and the second blank therein to be filled with the date on which the President submits the application to the House of Representatives and the Senate.
 
 (5) Except as otherwise provided in this subsection, the provisions of section 719f(d) of title 15 shall apply to the consideration of the resolution.
 
@@ -54,9 +54,9 @@
 
 #### References in Text
 
-The Alaska National Interest Lands Conservation Act, referred to in subsec. (c)(4), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended. Title XI of the Alaska National Interest Lands Conservation Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Alaska National Interest Lands Conservation Act, referred to in subsec. (c)(4), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. Title XI of the Alaska National Interest Lands Conservation Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Federal Land Policy and Management Act, referred to in subsec. (c)(6), probably means the Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended. Title V of the Federal Land Policy and Management Act of 1976 is classified generally to subchapter V (§1761 et seq.) of chapter 35 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act, referred to in subsec. (c)(6), probably means the Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743. Title V of the Federal Land Policy and Management Act of 1976 is classified generally to subchapter V (§1761 et seq.) of chapter 35 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 

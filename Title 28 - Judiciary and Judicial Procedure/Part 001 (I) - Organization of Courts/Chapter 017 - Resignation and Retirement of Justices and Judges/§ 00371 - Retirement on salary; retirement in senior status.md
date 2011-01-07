@@ -44,7 +44,7 @@ Years of service:
 
 &emsp;(A) The justice or judge must have carried in the preceding calendar year a caseload involving courtroom participation which is equal to or greater than the amount of work involving courtroom participation which an average judge in active service would perform in three months. In the instance of a justice or judge who has sat on both district courts and courts of appeals, the caseload of appellate work and trial work shall be determined separately and the results of those determinations added together for purposes of this paragraph.
 
-&emsp;(B) The justice or judge performed in the preceding calendar year substantial judicial duties not involving courtroom participation under subparagraph (A), including settlement efforts, motion decisions, writing opinions in cases that have not been orally argued, and administrative duties for the court to which the justice or judge is assigned. Any certification under this subparagraph shall include a statement describing in detail the nature and amount of work and certifying that the work done is equal to or greater than the work described in this subparagraph which an averagejudge in active service would perform in three months.
+&emsp;(B) The justice or judge performed in the preceding calendar year substantial judicial duties not involving courtroom participation under subparagraph (A), including settlement efforts, motion decisions, writing opinions in cases that have not been orally argued, and administrative duties for the court to which the justice or judge is assigned. Any certification under this subparagraph shall include a statement describing in detail the nature and amount of work and certifying that the work done is equal to or greater than the work described in this subparagraph which an average judge in active service would perform in three months.
 
 &emsp;(C) The justice or judge has, in the preceding calendar year, performed work described in subparagraphs (A) and (B) in an amount which, when calculated in accordance with such subparagraphs, in the aggregate equals at least 3 months work.
 
@@ -54,7 +54,7 @@ Years of service:
 
 (2) Determinations of work performed under subparagraphs (A), (B), (C), and (D) of paragraph (1) shall be made pursuant to rules promulgated by the Judicial Conference of the United States. In promulgating such criteria, the Judicial Conference shall take into account existing standards promulgated by the Conference for allocation of space and staff for senior judges.
 
-(3) If in any year a justice or judge who retires under subsection (b) does not receive a certification under this subsection (except as provided in paragraph (1)(E)), he or she may thereafter receive a certification for that year by satisfying the requirements of subparagraph (A), (B), (C), or (D) of paragraph (1) of this subsection in a subsequent year and attributing a sufficient part of the work performed in such subsequent year to the earlier year so that the work so attributed, when added to the work performed during such earlier year, satisfies the requirements for certification for that year. However, a justice or judge may not receive credit for the same work for purposes of certification for more than 1 year.
+(3) If in any year a justice or judge who retires under subsection (b) does not receive a certification under this subsection (except as provided in paragraph (1)(E)), he or she may thereafter receive a certification for that year by satisfying the requirements of subparagraph (A), (B), (C), or (D) of paragraph (1) of this subsection in a subsequent year and attributing a sufficientpart of the work performed in such subsequent year to the earlier year so that the work so attributed, when added to the work performed during such earlier year, satisfies the requirements for certification for that year. However, a justice or judge may not receive credit for the same work for purposes of certification for more than 1 year.
 
 (4) In the case of any justice or judge who retires under subsection (b) during a calendar year, there shall be included in the determination under this subsection of work performed during that calendar year all work performed by that justice or judge (as described in subparagraphs (A), (B), (C), and (D) of paragraph (1)) during that calendar year before such retirement.
 
@@ -74,7 +74,7 @@ The revised section continues the provision respecting the salary of a resigned 
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(a)(2)\], substituted “subsection (e)” for “subsection (f)” wherever appearing.
+<b>2000</b>—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(a)(2)\], substituted “subsection (e)” for “subsection (f)” wherever appearing.
 
 Subsec. (e). Pub. L. 106–518, which directed amendment of subsec. (e) by inserting “, except such pay as is deductible from the retired or retainer pay as a result of participation in any survivor's benefits plan in connection with the retired pay,” after “such retired or retainer pay”, could not be executed because of amendment by Pub. L. 106–398. See below.
 
@@ -82,17 +82,17 @@ Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(a)(1)\], redesignated subse
 
 Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(a)(1)(B)\], redesignated subsec. (f) as (e).
 
-1996—Subsec. (f)(1)(D). Pub. L. 104–317, §301(b), inserted at end “In any year in which a justice or judge performs work described under this subparagraph for less than the full year, one-half of such work may be aggregated with work described under subparagraph (A), (B), or (C) of this paragraph for the purpose of the justice or judge satisfying the requirements of such subparagraph.”
+<b>1996</b>—Subsec. (f)(1)(D). Pub. L. 104–317, §301(b), inserted at end “In any year in which a justice or judge performs work described under this subparagraph for less than the full year, one-half of such work may be aggregated with work described under subparagraph (A), (B), or (C) of this paragraph for the purpose of the justice or judge satisfying the requirements of such subparagraph.”
 
 Subsec. (f)(3). Pub. L. 104–317, §301(a), substituted “may thereafter receive a certification for that year by satisfying the requirements of subparagraph (A), (B), (C), or (D) of paragraph (1) of this subsection in a subsequent year and attributing a sufficient part of the work performed in such subsequent year to the earlier year so that the work so attributed, when added to the work performed during such earlier year, satisfies the requirements for certification for that year. However, a justice or judge may not receive credit for the same work for purposes of certification for more than 1 year.” for “is thereafter ineligible to receive such a certification.”
 
-1989—Subsec. (b). Pub. L. 101–194, §705(a)(1), designated existing provisions as par. (1), inserted “or her” after “his”, substituted “of the office if he or she meets the requirements of subsection (f)” for “of the office”, and added par. (2).
+<b>1989</b>—Subsec. (b). Pub. L. 101–194, §705(a)(1), designated existing provisions as par. (1), inserted “or her” after “his”, substituted “of the office if he or she meets the requirements of subsection (f)” for “of the office”, and added par. (2).
 
 Subsec. (f). Pub. L. 101–194, §705(a)(2), added subsec. (f).
 
-1988—Subsec. (e). Pub. L. 100–702 added subsec. (e).
+<b>1988</b>—Subsec. (e). Pub. L. 100–702 added subsec. (e).
 
-1984—Pub. L. 98–353 substituted “Retirement on salary; retirement in senior status” for “Resignation or retirement for age” in section catchline.
+<b>1984</b>—Pub. L. 98–353 substituted “Retirement on salary; retirement in senior status” for “Resignation or retirement for age” in section catchline.
 
 Subsec. (a). Pub. L. 98–353 amended subsec. (a) generally, substituting “may retire from the office after attaining the age and meeting the service requirements, whether continuous or otherwise, of subsection (c) and shall, during the remainder of his lifetime, receive an annuity equal to the salary he was receiving at the time he retired” for “who resigns after attaining the age of seventy years and after serving at least ten years continuously or otherwise shall, during the remainder of his lifetime, continue to receive the salary which he was receiving when he resigned”.
 
@@ -100,7 +100,7 @@ Subsec. (b). Pub. L. 98–353 amended subsec. (b) generally, substituting “may
 
 Subsecs. (c), (d). Pub. L. 98–353 added subsecs. (c) and (d).
 
-1954—Act Feb. 10, 1954, struck out “; substitute judge on failure to retire” in section catchline.
+<b>1954</b>—Act Feb. 10, 1954, struck out “; substitute judge on failure to retire” in section catchline.
 
 Subsec. (a). Act Feb. 10, 1954, reenacted subsec. (a) without change.
 
@@ -108,7 +108,7 @@ Subsec. (b). Act Feb. 10, 1954, in first sentence, inserted provision for retire
 
 Subsec. (c). Act Feb. 10, 1954, in general amendment of section, omitted subsec. (c) which related to appointment of substitute judges for disabled judges eligible to resign or retire where the latter fail to resign or retire, and to precedence of such disabled judges who remain on the active list after the appointment of substitutes.
 
-1951—Act Oct. 31, 1951, subdivided section into subsections, and limited second par. of subsec. (c) (as so designated) to judges who remain on the active list but whose disabilities cause the appointment of additional judges as authorized by first par. of such subsec.
+<b>1951</b>—Act Oct. 31, 1951, subdivided section into subsections, and limited second par. of subsec. (c) (as so designated) to judges who remain on the active list but whose disabilities cause the appointment of additional judges as authorized by first par. of such subsec.
 
 #### Effective Date of 2000 Amendment
 

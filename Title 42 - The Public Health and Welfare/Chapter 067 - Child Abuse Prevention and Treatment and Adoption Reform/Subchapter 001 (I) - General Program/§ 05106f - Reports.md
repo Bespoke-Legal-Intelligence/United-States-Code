@@ -1,26 +1,48 @@
 ### §5106f. Reports
 
-#### (a) Omitted
+#### (a) Coordination efforts
 
-#### (b) Effectiveness of State programs
+Not later than 1 year after December 20, 2010, the Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on efforts to coordinate the objectives and activities of agencies and organizations that are responsible for programs and activities related to child abuse and neglect. Not later than 3 years after December 20, 2010, the Secretary shall submit to those committees a second report on such efforts during the 3-year period following December 20, 2010. Not later than 5 years after December 20, 2010, the Secretary shall submit to those committees a third report on such efforts during the 5-year period following December 20, 2010.
 
-Not later than two years after the first fiscal year for which funds are obligated under section 10603a of this title, the Secretary shall submit to the appropriate committees of Congress a report evaluating the effectiveness of assisted programs in achieving the objectives of section 5106c of this title.
+#### (b) Effectiveness of State programs and technical assistance
+
+Not later than 2 years after December 20, 2010, and every 2 years thereafter, the Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report evaluating the effectiveness of programs receiving assistance under section 5106a of this title in achieving the objectives of section 5106a of this title.
 
 #### (c) Study and report relating to citizen review panels
 
+#### (1) In general
+
+&emsp;The Secretary shall conduct a study to determine the effectiveness of citizen review panels, established under section 5106a(c) of this title, in achieving the stated function of such panels under section 5106a(c)(4)(A) of this title of—
+
+&emsp;&emsp;(A) examining the policies, procedures, and practices of State and local child protection agencies; and
+
+&emsp;&emsp;(B) evaluating the extent to which such State and local child protection agencies are fulfilling their child protection responsibilities, as described in clauses (i) through (iii) of section 5106a(c)(4)(A) of this title.
+
+#### (2) Content of study
+
+&emsp;The study described in paragraph (1) shall be completed in a manner suited to the unique design of citizen review panels, including consideration of the variability among the panels within and between States. The study shall include the following:
+
+&emsp;&emsp;(A) Data describing the membership, organizational structure, operation, and administration of all citizen review panels and the total number of such panels in each State.
+
+&emsp;&emsp;(B) A detailed summary of the extent to which collaboration and information-sharing occurs between citizen review panels and State child protective services agencies or any other entities or State agencies. The summary shall include a description of the outcomes that result from collaboration and information sharing.
+
+&emsp;&emsp;(C) Evidence of the adherence and responsiveness to the reporting requirements under section 5106a(c)(6) of this title by citizen review panels and States.
+
+#### (3) Report
+
+&emsp;Not later than 2 years after December 20, 2010, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and Labor of the House of Representatives a report that contains the results of the study conducted under paragraph (1).
+
+#### (d) Study and report relating to immunity from prosecution for professional consultation in suspected and known instances of child abuse and neglect
+
 #### (1) Study
 
-&emsp;The Secretary shall conduct a study by random sample of the effectiveness of the citizen review panels established under section 5106a(c) of this title.
+&emsp;The Secretary shall complete a study, in consultation with experts in the provision of healthcare, law enforcement, education, and local child welfare administration, that examines how provisions for immunity from prosecution under State and local laws and regulations facilitate and inhibit individuals cooperating, consulting, or assisting in making good faith reports, including mandatory reports, of suspected or known instances of child abuse or neglect.
 
 #### (2) Report
 
-&emsp;Not later than 3 years after June 25, 2003, the Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report that contains the results of the study conducted under paragraph (1).
+&emsp;Not later than 1 year after December 20, 2010, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and Labor of the House of Representatives a report that contains the results of the study conducted under paragraph (1) and any recommendations for statutory or regulatory changes the Secretary determines appropriate. Such report may be submitted electronically.
 
-(Pub. L. 93–247, title I, §110, formerly §13, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 116; renumbered title I, §112, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(6), Oct. 25, 1989, 103 Stat. 764, 765; renumbered §110 and amended Pub. L. 104–235, title I, §113(a)(1)(B), (3), Oct. 3, 1996, 110 Stat. 3079; Pub. L. 108–36, title I, §118, June 25, 2003, 117 Stat. 813.)
-
-#### Codification
-
-Subsec. (a) of this section, which required the Secretary to submit to the appropriate committees of Congress a biennial report on efforts to coordinate the objectives and activities of agencies and organizations which are responsible for programs and activities related to child abuse and neglect, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, item 9 on page 100 of House Document No. 103–7.
+(Pub. L. 93–247, title I, §110, formerly §13, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 116; renumbered title I, §112, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(6), Oct. 25, 1989, 103 Stat. 764, 765; renumbered §110 and amended Pub. L. 104–235, title I, §113(a)(1)(B), (3), Oct. 3, 1996, 110 Stat. 3079; Pub. L. 108–36, title I, §118, June 25, 2003, 117 Stat. 813; Pub. L. 111–320, title I, §118, Dec. 20, 2010, 124 Stat. 3475.)
 
 #### Prior Provisions
 
@@ -28,17 +50,29 @@ A prior section 110 of Pub. L. 93–247 was renumbered section 108 and is classi
 
 #### Amendments
 
-2003—Subsec. (c). Pub. L. 108–36 added subsec. (c).
+<b>2010</b>—Subsec. (a). Pub. L. 111–320, §118(a), added subsec. (a) and struck out former subsec. (a) which required the Secretary to submit to the appropriate committees of Congress a biennial report on efforts to coordinate the objectives and activities of agencies and organizations which are responsible for programs and activities related to child abuse and neglect.
 
-1996—Subsec. (b). Pub. L. 104–235 substituted “effectiveness of assisted programs in achieving the objectives of section 5106c of this title” for “effectiveness of—
+Subsec. (b). Pub. L. 111–320, §118(a), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Not later than two years after the first fiscal year for which funds are obligated under section 10603a of this title, the Secretary shall submit to the appropriate committees of Congress a report evaluating the effectiveness of assisted programs in achieving the objectives of section 5106c of this title.”
+
+Subsec. (c). Pub. L. 111–320, §118(b), amended subsec. (c) generally. Prior to amendment, text read as follows:
+
+“(1)
+
+Study.—The Secretary shall conduct a study by random sample of the effectiveness of the citizen review panels established under section 5106a(c) of this title.
+
+“(2)
+
+Report.—Not later than 3 years after June 25, 2003, the Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report that contains the results of the study conducted under paragraph (1).”
+
+Subsec. (d). Pub. L. 111–320, §118(c), added subsec. (d).
+
+<b>2003</b>—Subsec. (c). Pub. L. 108–36 added subsec. (c).
+
+<b>1996</b>—Subsec. (b). Pub. L. 104–235 substituted “effectiveness of assisted programs in achieving the objectives of section 5106c of this title” for “effectiveness of—
 
 &emsp;“(1) assisted programs in achieving the objectives of section 5106c of this title; and
 
 &emsp;“(2) the technical assistance provided under section 5106b of this title”.
 
-1989—Subsec. (b). Pub. L. 101–126, §3(b)(6), made technical amendments to references to sections 5106b and 5106c of this title to reflect renumbering of corresponding sections of original act.
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+<b>1989</b>—Subsec. (b). Pub. L. 101–126, §3(b)(6), made technical amendments to references to sections 5106b and 5106c of this title to reflect renumbering of corresponding sections of original act.
 

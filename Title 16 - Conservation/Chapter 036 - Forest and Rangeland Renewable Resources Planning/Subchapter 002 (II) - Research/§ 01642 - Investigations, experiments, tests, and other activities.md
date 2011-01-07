@@ -170,7 +170,7 @@ The Federal revenue codes, referred to in subsec. (d)(2), are classified general
 
 #### Amendments
 
-1998—Subsec. (d). Pub. L. 105–185, §253(b), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Secretary is authorized to conduct, support, and cooperate in studies and other activities the Secretary deems necessary to—
+<b>1998</b>—Subsec. (d). Pub. L. 105–185, §253(b), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Secretary is authorized to conduct, support, and cooperate in studies and other activities the Secretary deems necessary to—
 
 &emsp;“(1) evaluate renewable resource management problems associated with urban-forest interface;
 
@@ -182,15 +182,15 @@ Subsec. (d)(3). Pub. L. 105–277 substituted “At the request of the Governor 
 
 Subsec. (e). Pub. L. 105–185, §253(c), added subsec. (e).
 
-1990—Subsec. (a)(1). Pub. L. 101–624, §1241(a)(1), inserted “, including activities for encouraging improved reforestation of forest lands from which timber has been harvested” after “purposes”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–624, §1241(a)(1), inserted “, including activities for encouraging improved reforestation of forest lands from which timber has been harvested” after “purposes”.
 
 Subsec. (b). Pub. L. 101–624, §1241(a)(2), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (d). Pub. L. 101–624, §1241(a)(3), added subsec. (d).
 
-1988—Subsec. (c). Pub. L. 100–521 added subsec. (c).
+<b>1988</b>—Subsec. (c). Pub. L. 100–521 added subsec. (c).
 
-1980—Subsec. (a)(1). Pub. L. 96–294, §254(1), inserted applicability to energy production and energy conservation activities.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–294, §254(1), inserted applicability to energy production and energy conservation activities.
 
 Subsec. (a)(4). Pub. L. 96–294, §254(2), inserted applicability to producing and conserving energy.
 

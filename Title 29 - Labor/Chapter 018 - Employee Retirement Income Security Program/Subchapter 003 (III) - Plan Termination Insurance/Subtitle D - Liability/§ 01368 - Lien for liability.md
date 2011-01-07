@@ -60,7 +60,7 @@ A former subsec. (f) of this section was originally subsec. (e) of section 1362 
 
 #### Amendments
 
-1989—Subsec. (a). Pub. L. 101–239, §7881(f)(12), struck out “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title” after “the amount of such liability” and substituted “in the amount of such liability (including interest) upon all property and rights to property, whether real or personal, belonging to such person, except that such lien may not be in an amount in excess of 30 percent of the collective net worth of all persons described in section 1362(a) of this title” for “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title upon all property and rights to property, whether real or personal, belonging to such person.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7881(f)(12), struck out “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title” after “the amount of such liability” and substituted “in the amount of such liability (including interest) upon all property and rights to property, whether real or personal, belonging to such person, except that such lien may not be in an amount in excess of 30 percent of the collective net worth of all persons described in section 1362(a) of this title” for “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title upon all property and rights to property, whether real or personal, belonging to such person.”
 
 Pub. L. 101–239, §7881(f)(3)(B), struck out at end “The preceding provisions of this subsection shall be applied in a manner consistent with the provisions of section 1364(d) of this title relating to treatment of multiple controlled groups.”
 
@@ -70,11 +70,11 @@ Subsec. (c)(2). Pub. L. 101–239, §7894(g)(4)(A), substituted “section 3713 
 
 Subsec. (f). Pub. L. 101–239, §7881(f)(10)(C), added subsec. (f).
 
-1987—Subsec. (a). Pub. L. 100–203, §9312(b)(2)(B)(i), substituted “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title” for “to the extent of an amount equal to the unpaid amount described in section 1362(b)(1)(A)(i) of this title” in two places.
+<b>1987</b>—Subsec. (a). Pub. L. 100–203, §9312(b)(2)(B)(i), substituted “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title” for “to the extent of an amount equal to the unpaid amount described in section 1362(b)(1)(A)(i) of this title” in two places.
 
 Pub. L. 100–203, §9312(b)(2)(C)(ii), inserted at end “The preceding provisions of this subsection shall be applied in a manner consistent with the provisions of section 1364(d) of this title relating to treatment of multiple controlled groups.”
 
-1986—Pub. L. 99–272, §11016(a)(6)(B)(i), struck out “of employer” after “liability” in section catchline.
+<b>1986</b>—Pub. L. 99–272, §11016(a)(6)(B)(i), struck out “of employer” after “liability” in section catchline.
 
 Subsec. (a). Pub. L. 99–272, §11016(a)(6)(B)(ii), substituted “person liable” for “employer or employers liable”, “neglects or refuses” for “neglect or refuse”, and “such person” for “such employer or employers” and inserted “to the extent of an amount equal to the unpaid amount described in section 1362(b)(1)(A)(i) of this title” in two places.
 
@@ -84,7 +84,7 @@ Subsec. (d)(1), (2). Pub. L. 99–272, §11016(a)(6)(B)(iii), (iv), substituted 
 
 Subsec. (e). Pub. L. 99–272, §11016(a)(6)(B)(v), (c)(14), struck out “, with the consent of the board of directors,” after “corporation determines” and substituted “liable person” for “employer or employers”.
 
-1978—Subsec. (c)(2). Pub. L. 95–598 substituted “a case under title 11 or in” and “title 11” for “the case of bankruptcy or” and “the Bankruptcy Act”.
+<b>1978</b>—Subsec. (c)(2). Pub. L. 95–598 substituted “a case under title 11 or in” and “title 11” for “the case of bankruptcy or” and “the Bankruptcy Act”.
 
 #### Effective Date of 1989 Amendment
 

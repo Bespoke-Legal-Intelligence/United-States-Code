@@ -94,7 +94,7 @@ Awards to Responsible Contractors.—
 
 &emsp;(1)
 
-In general.—Federal financial assistance under this chapter may be provided for contracts only if a recipient awards such contracts to responsible contractors possessing the ability to successfully perform under theterms and conditions of a proposed procurement.
+In general.—Federal financial assistance under this chapter may be provided for contracts only if a recipient awards such contracts to responsible contractors possessing the ability to successfully perform under the terms and conditions of a proposed procurement.
 
 &emsp;(2)
 
@@ -108,7 +108,7 @@ Criteria.—Before making an award to a contractor under paragraph (1), a recipi
 
 &emsp;&emsp;(D) the contractor's financial and technical resources.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 825; Pub. L. 104–287, §5(16), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3022, June 9, 1998, 112 Stat. 363; Pub. L. 105–206, title IX, §9009(n), July 22, 1998, 112 Stat. 857; Pub. L. 107–217, §3(n)(2), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 109–59, title III, §3025(a), Aug. 10, 2005, 119 Stat. 1620; Pub. L. 110–244, title II, §201(k), June 6, 2008, 122 Stat. 1611.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 825; Pub. L. 104–287, §5(16), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3022, June 9, 1998, 112 Stat. 363; Pub. L. 105–206, title IX, §9009(n), July 22, 1998, 112 Stat. 857; Pub. L. 107–217, §3(n)(2), Aug. 21, 2002, 116 Stat. 1302; Pub. L.109–59, title III, §3025(a), Aug. 10, 2005, 119 Stat. 1620; Pub. L. 110–244, title II, §201(k), June 6, 2008, 122 Stat. 1611.)
 
 Historical and Revision Notes
 
@@ -160,15 +160,15 @@ The Federal Public Transportation Act of 2005, referred to in subsec. (h), is ti
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–244, §201(k)(1), inserted “adopted before August 10, 2005” before period at end.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–244, §201(k)(1), inserted “adopted before August 10, 2005” before period at end.
 
 Subsec. (b)(2), (3). Pub. L. 110–244, §201(k)(2), (3), redesignated par. (3) as (2) and struck out former par. (2). Text read as follows: “Paragraph (1) does not apply to the extent a State has adopted by law, before the date of enactment of the Federal Public Transportation Act of 2005, an equivalent State qualifications-based requirement for contracting for architectural, engineering, and design services.”
 
-2005—Pub. L. 109–59 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to noncompetitive bidding in subsec. (a), procedures for award of architectural, engineering, and design contracts in subsec. (b), and efficient procurement in subsec. (c).
+<b>2005</b>—Pub. L. 109–59 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to noncompetitive bidding in subsec. (a), procedures for award of architectural, engineering, and design contracts in subsec. (b), and efficient procurement in subsec. (c).
 
-2002—Subsec. (b). Pub. L. 107–217 substituted “chapter 11 of title 40” for “title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.)”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–217 substituted “chapter 11 of title 40” for “title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.)”.
 
-1998—Subsec. (b). Pub. L. 105–178, §3022(b), as added by Pub. L. 105–206, inserted “or requirement” after “A contract” and “When awarding such contracts, recipients of assistance under this chapter shall maximize efficiencies of administration by accepting nondisputed audits conducted by other governmental agencies, as provided in subparagraphs (C) through (F) of section 112(b)(2) of title 23, United States Code.” before “This subsection does not apply”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–178, §3022(b), as added by Pub. L. 105–206, inserted “or requirement” after “A contract” and “When awarding such contracts, recipients of assistance under this chapter shall maximize efficiencies of administration by accepting nondisputed audits conducted by other governmental agencies, as provided in subparagraphs (C) through (F) of section 112(b)(2) of title 23, United States Code.” before “This subsection does not apply”.
 
 Pub. L. 105–178, §3022(a)(1), (2), redesignated subsec. (d) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “A recipient of financial assistance of the United States Government under this chapter may make a contract to expend that assistance to acquire rolling stock—
 
@@ -188,7 +188,7 @@ Subsec. (c). Pub. L. 105–178, §3022(a)(1), (3), added subsec. (c) and struck 
 
 Subsec. (d). Pub. L. 105–178, §3022(a)(2), redesignated subsec. (d) as (b).
 
-1996—Subsec. (d). Pub. L. 104–287 substituted “
+<b>1996</b>—Subsec. (d). Pub. L. 104–287 substituted “
 
 Architectural, Engineering, and Design Contracts” for “
 

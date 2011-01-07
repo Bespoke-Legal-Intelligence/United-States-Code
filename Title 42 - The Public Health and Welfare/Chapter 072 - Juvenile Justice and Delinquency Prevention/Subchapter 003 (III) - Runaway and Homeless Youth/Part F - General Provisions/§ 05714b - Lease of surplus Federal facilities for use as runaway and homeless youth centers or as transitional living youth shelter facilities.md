@@ -12,7 +12,7 @@ The Secretary may enter into cooperative lease arrangements with States, localit
 
 #### (b) Period of availability; rent-free use; structural changes: Federal ownership and consent
 
-(1) Each facility made available under this section shall be made available for a period of not less than 2 years, and no rent or fee shall be charged to the applicant in connection with use of such facility.
+(1) Each facility made available under this section shall be made available for a period of notless than 2 years, and no rent or fee shall be charged to the applicant in connection with use of such facility.
 
 (2) Any structural modifications or additions to facilities made available under this section shall become the property of the United States. All such modifications or additions may be made only after receiving the prior written consent of the Secretary or other appropriate officer of the Department of Health and Human Services.
 
@@ -24,9 +24,9 @@ A prior section 381 of Pub. L. 93–415 was renumbered section 382 and is classi
 
 #### Amendments
 
-1998—Subsec. (a)(3). Pub. L. 105–277 substituted “unit of local government” for “unit of general local government”.
+<b>1998</b>—Subsec. (a)(3). Pub. L. 105–277 substituted “unit of local government” for “unit of general local government”.
 
-1988—Pub. L. 100–690, §7273(b)(1), inserted “or as transitional living youth shelter facilities” at end of section catchline.
+<b>1988</b>—Pub. L. 100–690, §7273(b)(1), inserted “or as transitional living youth shelter facilities” at end of section catchline.
 
 Subsec. (a). Pub. L. 100–690, §7273(b)(2), inserted “or as transitional living youth shelter facilities” after “runaway and homeless youth centers” in introductory provisions and “or transitional living youth project, as the case may be, under this subchapter” after “homeless youth center” in par. (1).
 

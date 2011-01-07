@@ -28,3 +28,5 @@ Notwithstanding any other provision of this chapter, the authority of the Secret
 
 Section 1226a of this title, referred to in subsec. (b), was in the original a reference to section 414 of the General Education Provisions Act. Section 414 of that Act was renumbered as section 422 by Pub. L. 103–382, title II, §212(b)(1), Oct. 20, 1994, 108 Stat. 3913, and is classified to section 1226a of this title.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

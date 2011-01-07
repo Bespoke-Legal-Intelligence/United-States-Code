@@ -1,7 +1,5 @@
 ### SUBCHAPTER XIII—VIOLENT CRIME REDUCTION TRUST FUND
 
-<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
-
 
 ---
 

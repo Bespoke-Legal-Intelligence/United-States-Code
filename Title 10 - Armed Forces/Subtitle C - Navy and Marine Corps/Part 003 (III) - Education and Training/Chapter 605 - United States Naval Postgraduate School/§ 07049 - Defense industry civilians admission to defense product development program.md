@@ -42,13 +42,13 @@ Use of Funds.—Amounts received by the school for instruction of students enrol
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–417 substituted “125” for “25”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–417 substituted “125” for “25”.
 
-2006—Subsec. (a). Pub. L. 109–163 inserted “and systems engineering” after “curriculum related to defense product development” and substituted “25” for “10”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 inserted “and systems engineering” after “curriculum related to defense product development” and substituted “25” for “10”.
 
-2004—Subsec. (e). Pub. L. 108–375 substituted “President” for “Superintendent”.
+<b>2004</b>—Subsec. (e). Pub. L. 108–375 substituted “President” for “Superintendent”.
 
-2003—Subsec. (c). Pub. L. 108–136 substituted “Determination” for “Certification” in heading and struck out “, and certifies to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives,” after “determines” in introductory provisions.
+<b>2003</b>—Subsec. (c). Pub. L. 108–136 substituted “Determination” for “Certification” in heading and struck out “, and certifies to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives,” after “determines” in introductory provisions.
 
 #### Program Evaluation and Report
 

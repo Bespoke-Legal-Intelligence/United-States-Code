@@ -234,7 +234,7 @@ Another prior section 2005, Pub. L. 95–561, title XI, §1125, Nov. 1, 1978, 92
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
+<b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
 
 #### Change of Name
 

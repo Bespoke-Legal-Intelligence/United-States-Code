@@ -52,7 +52,7 @@ Subject to subsection (c), projects carried out under subsection (a) may be carr
 
 #### (2) Operation, maintenance, replacement, and rehabilitation costs
 
-&emsp;Operation, maintenance, replacement, and rehabilitation costs associated with a projectunder this section are the responsibility of the non-Federal interest.
+&emsp;Operation, maintenance, replacement, and rehabilitation costs associated with a project under this section are the responsibility of the non-Federal interest.
 
 #### (d) Selection of dredged material disposal method for environmental purposes
 
@@ -112,13 +112,13 @@ Section was enacted as part of the Water Resources Development Act of 1992, and 
 
 #### Amendments
 
-2007—Pub. L. 110–114 amended section generally. Prior to amendment, section related to beneficial uses of dredged material.
+<b>2007</b>—Pub. L. 110–114 amended section generally. Prior to amendment, section related to beneficial uses of dredged material.
 
-1999—Subsec. (c). Pub. L. 106–53, §209(1), in introductory provisions, substituted “binding agreement with the Secretary” for “cooperative agreement in accordance with the requirements of section 1962d–5b of title 42”.
+<b>1999</b>—Subsec. (c). Pub. L. 106–53, §209(1), in introductory provisions, substituted “binding agreement with the Secretary” for “cooperative agreement in accordance with the requirements of section 1962d–5b of title 42”.
 
 Subsec. (g). Pub. L. 106–53, §209(2), added subsec. (g).
 
-1996—Subsecs. (e), (f). Pub. L. 104–303 added subsec. (e) and redesignated former subsec. (e) as (f).
+<b>1996</b>—Subsecs. (e), (f). Pub. L. 104–303 added subsec. (e) and redesignated former subsec. (e) as (f).
 
 #### “Secretary” Defined
 

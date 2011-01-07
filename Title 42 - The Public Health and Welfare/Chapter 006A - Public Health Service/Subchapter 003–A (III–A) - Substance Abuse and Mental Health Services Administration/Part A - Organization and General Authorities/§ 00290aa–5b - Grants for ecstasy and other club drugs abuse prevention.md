@@ -20,7 +20,7 @@ Amounts made available under a grant, contract or cooperative agreement under su
 
 &emsp;&emsp;(A) to carry out school-based programs that are focused on those districts with high or increasing rates of abuse and addiction to 3,4-methylenedioxy methamphetamine, related drugs, and other club drugs and targeted at populations that are most at risk to start abusing these drugs;
 
-&emsp;&emsp;(B) to carry out community-based prevention programs that are focused on those populations within the community that are most at-risk for abuse of and addiction to3,4-methylenedioxy methamphetamine, related drugs, and other club drugs;
+&emsp;&emsp;(B) to carry out community-based prevention programs that are focused on those populations within the community that are most at-risk for abuse of and addiction to 3,4-methylenedioxy methamphetamine, related drugs, and other club drugs;
 
 &emsp;&emsp;(C) to assist local government entities to conduct appropriate prevention activities relating to 3,4-methylenedioxy methamphetamine, related drugs, and other club drugs;
 

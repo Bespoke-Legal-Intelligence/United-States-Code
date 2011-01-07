@@ -16,11 +16,11 @@ Section 4(b) of Pub. L. 94–544 and section 7(b) of Pub. L. 94–567 identicall
 
 #### Amendments
 
-1980—Pub. L. 96–199 inserted provisions authorizing an appropriation of $5,000,000 for the acquisition of lands or interests therein.
+<b>1980</b>—Pub. L. 96–199 inserted provisions authorizing an appropriation of $5,000,000 for the acquisition of lands or interests therein.
 
-1970—Pub. L. 91–223, §1, substituted “$57,500,000” for “$19,135,000”, restricted conveyances of any interest in any lands acquired after April 3, 1970, only for public accommodations, facilities, and services under provisions for concessions in areas administered by National Park Service.
+<b>1970</b>—Pub. L. 91–223, §1, substituted “$57,500,000” for “$19,135,000”, restricted conveyances of any interest in any lands acquired after April 3, 1970, only for public accommodations, facilities, and services under provisions for concessions in areas administered by National Park Service.
 
-1966—Pub. L. 89–666 substituted “$19,135,000” for “$14,000,000”.
+<b>1966</b>—Pub. L. 89–666 substituted “$19,135,000” for “$14,000,000”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

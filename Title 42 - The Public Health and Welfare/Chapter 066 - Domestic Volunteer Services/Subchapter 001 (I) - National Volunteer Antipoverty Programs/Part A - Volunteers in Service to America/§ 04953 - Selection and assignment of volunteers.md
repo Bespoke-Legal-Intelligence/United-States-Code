@@ -20,7 +20,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 &emsp;(8) in assisting with the reentry and reintegration of formerly incarcerated youth and adults into society, including providing training and counseling in education, employment, and life skills;
 
-&emsp;(9) in developing and carrying out financial literacy, financial planning, budgeting, saving,and reputable credit accessibility programs in low-income communities, including those programs that educate individuals about financing home ownership and higher education;
+&emsp;(9) in developing and carrying out financial literacy, financial planning, budgeting, saving, and reputable credit accessibility programs in low-income communities, including those programs that educate individuals about financing home ownership and higher education;
 
 &emsp;(10) in initiating and supporting before-school and after-school programs, serving children in low-income communities, that may engage participants in mentoring, tutoring, life skills and study skills programs, service-learning, physical, nutrition, and health education programs, and other activities addressing the needs of the children;
 
@@ -48,7 +48,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 (4) The Director shall ensure that applications for service as a volunteer under this part are available to the public on request to the Corporation (including any State or regional offices of the Agency) <sup>2</sup> and that an individual making such request is informed of the manner in which such application is required to be submitted. A completed application may be submitted by any interested individual to, and shall be accepted by, any office of the Corporation.
 
-(5)(A) The Director shall provide for the assignment of each applicant approved as a volunteer under this part to a project or program that is, to the maximum extent practicable, consistent with the abilities, experiences, and preferences of such applicant that are set forth in the application described in paragraph (4) and the needs and preferences of projects or programs approved for the assignment of such volunteers.
+(5)(A) The Director shall provide for the assignment of each applicant approved as a volunteer under this part to a project or program that is, to the maximum extent practicable, consistent with the abilities, experiences, and preferences of such applicant that are set forth inthe application described in paragraph (4) and the needs and preferences of projects or programs approved for the assignment of such volunteers.
 
 (B) In carrying out subparagraph (A), the Director shall utilize the database established under paragraph (2)(B).
 
@@ -58,7 +58,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 (E) If an applicant under this part who is recruited locally becomes unavailable for service prior to the commencement of service, the recipient of the project grant or contract that was designated to receive the services of such applicant may replace such applicant with another qualified applicant approved by the Director.
 
-(F) If feasible and appropriate, low-income community volunteers shall be given the option of serving in the home communities of such volunteers in teams with nationally recruited specialist volunteers. The Director shall attempt to assign such volunteers to serve in the home or nearby communities of such volunteers and shall make national efforts to attract other individuals to serve in the VISTA program. The Director shall also, in the assignment of volunteers under this subparagraph, recognize thatcommunity-identified needs that cannot be met in the local area and the individual desires of VISTA volunteers in regard to the service in various geographical areas of the United States should be taken into consideration.
+(F) If feasible and appropriate, low-income community volunteers shall be given the option of serving in the home communities of such volunteers in teams with nationally recruited specialist volunteers. The Director shall attempt to assign such volunteers to serve in the home or nearby communities of such volunteers and shall make national efforts to attract other individuals to serve in the VISTA program. The Director shall also, in the assignment of volunteers under this subparagraph, recognize that community-identified needs that cannot be met in the local area and the individual desires of VISTA volunteers in regard to the service in various geographical areas of the United States should be taken into consideration.
 
 #### (c) Public awareness and recruit activities; dissemination of information; reimbursement of costs; coordination; obligation of funds
 
@@ -112,6 +112,8 @@ The Director may enter into agreements under which public and private nonprofit 
 
 #### References in Text
 
+This chapter, referred to in subsec. (a)(6), was in the original “this Act”, meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+
 The Community Service Block Grant Act, referred to in subsec. (a)(6), probably means the Community Services Block Grant Act, which is subtitle B (§671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
 
 The Economic Opportunity Act of 1964, referred to in subsec. (a)(6), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508. Titles VIII and X of the Act are classified generally to subchapters VIII (§2991 et seq.) and X (§2996 et seq.), respectively, of chapter 34 of this title. For complete classification of this Act to the Code, see Tables.
@@ -126,7 +128,7 @@ The Higher Education Act of 1965, referred to in subsec. (c)(1)(E), is Pub. L. 8
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–13, §2102(1)(A), inserted “the Commonwealth of the Northern Mariana Islands,” after “American Samoa,”.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–13, §2102(1)(A), inserted “the Commonwealth of the Northern Mariana Islands,” after “American Samoa,”.
 
 Subsec. (a)(2). Pub. L. 111–13, §2102(1)(B), substituted “individuals with disabilities, especially individuals with severe disabilities;” for “handicapped individuals, especially those with severe handicaps;”.
 
@@ -166,15 +168,15 @@ Subsec. (g). Pub. L. 111–13, §2102(5), struck out “, and such Governor or 
 
 Subsec. (i). Pub. L. 111–13, §2102(6), added subsec. (i).
 
-1998—Subsec. (d). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(28)(A)\], which directed amendment of the second sentence to read “private industry council established under the Job Training Partnership Act or”, was not executed, to reflect the probable intent of Congress and subsequent amendment by Pub. L. 111–13, §2102(4).
+<b>1998</b>—Subsec. (d). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(28)(A)\], which directed amendment of the second sentence to read “private industry council established under the Job Training Partnership Act or”, was not executed, to reflect the probable intent of Congress and subsequent amendment by Pub. L. 111–13, §2102(4).
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(36)(A)\], substituted “Whenever feasible, such efforts shall be coordinated with an appropriate private industry council established under the Job Training Partnership Act or local workforce investment board established under section 2832 of title 29.” for “Whenever feasible, such efforts shall be coordinated with an appropriate private industry council under the Job Training Partnership Act.”
 
-1994—Subsec. (b)(5), (6). Pub. L. 103–304, §3(b)(7), redesignated par. (6) as (5).
+<b>1994</b>—Subsec. (b)(5), (6). Pub. L. 103–304, §3(b)(7), redesignated par. (6) as (5).
 
 Subsec. (c)(1)(F). Pub. L. 103–304, §3(b)(8), realigned margin.
 
-1993—Subsec. (a). Pub. L. 103–82, §323(a)(1), substituted “public” for “a public” in introductory provisions.
+<b>1993</b>—Subsec. (a). Pub. L. 103–82, §323(a)(1), substituted “public” for “a public” in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 103–82, §323(a)(2), directed amendment of par. (2) by striking “and” at end. See 1984 Amendment note below.
 
@@ -220,13 +222,13 @@ Subsec. (c)(4) to (6). Pub. L. 103–82, §323(c)(2), (3), redesignated par. (6)
 
 Subsec. (h). Pub. L. 103–82, §323(d), added subsec. (h).
 
-1989—Pub. L. 101–204, §101(d)(2)(A), substituted “Selection and assignment” for “Assignment” in section catchline.
+<b>1989</b>—Pub. L. 101–204, §101(d)(2)(A), substituted “Selection and assignment” for “Assignment” in section catchline.
 
 Subsec. (a). Pub. L. 101–204, §101(d)(2)(B), inserted introductory provisions and struck out former introductory provisions which read as follows: “The Director, upon request of Federal, State, or local agencies, or private nonprofit organizations, may assign such volunteers to work in the several States in the local communities in which the volunteers were recruited in appropriate projects and programs, including work—”.
 
 Subsec. (a)(5), (6). Pub. L. 101–204, §701, added par. (5) and redesignated former par. (5) as (6).
 
-Subsec. (b). Pub. L. 101–204, §101(a), amended subsec. (b) generally. Prior to amendment subsec. (b) read as follows: “The Director shall establish, at a cost not to exceed $250,000, procedures to recruit and place individuals from all walks of life, age groups, economic levels, and geographic areas to serve as VISTA volunteers. The procedures shall include an information system to ensure that potential applicants are made aware of the broad range of VISTA volunteer opportunities and a system to identify and place qualified volunteers where their skills are most needed. The Director shall also establish procedures for national and local recruitment, media and public awareness efforts, and specialized campaigns designed to recruit recent college graduates, special skilled volunteers, and individuals 55 years of age and older. The Director, wherever feasible and appropriate, shall assign low-income community volunteers to serve in their home communities in teams with nationally recruited specialist volunteers. The Director shall make efforts to assign volunteers to serve in their home or nearby communities and shall make national efforts to attract other volunteers to serve in the VISTA program. The Director shall also, in the assignment of volunteers, recognize that the community identified needs which cannot be met in the local area, and the individual desires of VISTA volunteers in regard to placement in various geographic areas of the Nation, should be taken into consideration.”
+Subsec. (b). Pub. L. 101–204, §101(a), amended subsec. (b) generally. Prior to amendment subsec. (b) read as follows: “The Director shall establish, at a cost not toexceed $250,000, procedures to recruit and place individuals from all walks of life, age groups, economic levels, and geographic areas to serve as VISTA volunteers. The procedures shall include an information system to ensure that potential applicants are made aware of the broad range of VISTA volunteer opportunities and a system to identify and place qualified volunteers where their skills are most needed. The Director shall also establish procedures for national and local recruitment, media and public awareness efforts, and specialized campaigns designed to recruit recent college graduates, special skilled volunteers, and individuals 55 years of age and older. The Director, wherever feasible and appropriate, shall assign low-income community volunteers to serve in their home communities in teams with nationally recruited specialist volunteers. The Director shall make efforts to assign volunteers to serve in their home or nearby communities and shall make national efforts to attract other volunteers to serve in the VISTA program. The Director shall also, in the assignment of volunteers, recognize that the community identified needs which cannot be met in the local area, and the individual desires of VISTA volunteers in regard to placement in various geographic areas of the Nation, should be taken into consideration.”
 
 Subsecs. (c) to (e). Pub. L. 101–204, §101(b), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
@@ -234,11 +236,11 @@ Subsec. (f). Pub. L. 101–204, §101(b)(1), (d)(2)(C), redesignated subsec. (e)
 
 Subsec. (g). Pub. L. 101–204, §101(b)(1), redesignated former subsec. (f) as (g).
 
-1986—Subsec. (b). Pub. L. 99–551 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Director, wherever feasible and appropriate, shall assign low-income community volunteers to serve in their home communities in teams with nationally recruited specialist volunteers. The Director shall make efforts to assign volunteers to serve in their home communities or in nearby communities and shall make national efforts to attract other volunteers to serve in the VISTA program.”
+<b>1986</b>—Subsec. (b). Pub. L. 99–551 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Director, wherever feasible and appropriate, shall assign low-income community volunteers to serve in their home communities in teams with nationally recruited specialist volunteers. The Director shall make efforts to assign volunteers to serve in their home communities or in nearby communities and shall make national efforts to attract other volunteers to serve in the VISTA program.”
 
-1984—Subsec. (a). Pub. L. 98–288, §4(a)(1), inserted “in the local communities in which the volunteers were recruited” and inserted “, including work” in provisions before par. (1).
+<b>1984</b>—Subsec. (a). Pub. L. 98–288, §4(a)(1), inserted “in the local communities in which the volunteers were recruited” and inserted “, including work” in provisions before par. (1).
 
-Subsec. (a)(2). Pub. L. 98–288, §4(a)(2), which directed substitution of a semicolon for “, under the supervisionof nonprofit institutions or facilities, and”, was executed by making the substitution for “, under the supervision of nonprofit institutions or facilities; and” to reflect the probable intent of Congress.
+Subsec. (a)(2). Pub. L. 98–288, §4(a)(2), which directed substitution of a semicolon for “, under the supervision of nonprofit institutions or facilities, and”, was executed by making the substitution for “, under the supervision of nonprofit institutions or facilities; and” to reflect the probable intent of Congress.
 
 Subsec. (a)(3), (4). Pub. L. 98–288, §4(a)(4), added pars. (3) and (4). Former par. (3) redesignated (5).
 
@@ -252,7 +254,7 @@ Subsec. (e). Pub. L. 98–288, §4(c)(1)(A), redesignated subsec. (c) as (e).
 
 Subsec. (f). Pub. L. 98–288, §4(c)(1)(A), (d), redesignated subsec. (d) as (f), and substituted “work in a program or project in any community unless the application for such program or project contains evidence of local support and” for “duties or work in a program or project in any State unless such program or project”.
 
-1979—Subsec. (b). Pub. L. 96–143, §2(a), substituted “Not later than 30 days after” for “Prior to” and inserted provisions that the Director offer to provide each volunteer enrolled for a period of full-time service of not less than one year under this subchapter, and, upon the request of such volunteer, provide such volunteer with an individual and updated plan as described in the preceding two sentences.
+<b>1979</b>—Subsec. (b). Pub. L. 96–143, §2(a), substituted “Not later than 30 days after” for “Prior to” and inserted provisions that the Director offer to provide each volunteer enrolled for a period of full-time service of not less than one year under this subchapter, and, upon the request of such volunteer, provide such volunteer with an individual and updated plan as described in the preceding two sentences.
 
 Subsec. (d). Pub. L. 96–143, §2(b), inserted “in a program or project” after “work” and “or project” after “program” and inserted provisions requiring notification by a Governor or other chief executive officer to the Director that such Governor or other chief executive officer has disapproved a program or project under this section and requiring the Director to terminate a program or project under this section in the event of a timely request by the Governor or other chief executive officer not later than 30 days after the date such request is received or at such date agreed upon by the Director and such Governor or other chief executive officer.
 

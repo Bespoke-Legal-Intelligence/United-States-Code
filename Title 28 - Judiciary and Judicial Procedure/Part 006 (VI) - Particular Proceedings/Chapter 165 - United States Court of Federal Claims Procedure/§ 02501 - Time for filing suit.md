@@ -24,13 +24,13 @@ The section was extended to include claims referred by the head of an executive 
 
 #### Amendments
 
-2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in last par.
+<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in last par.
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
-1954—Act Sept. 3, 1954, struck out “, or the claim is referred by the Senate or House of Representatives, or by the head of an executive department” in first par.
+<b>1954</b>—Act Sept. 3, 1954, struck out “, or the claim is referred by the Senate or House of Representatives, or by the head of an executive department” in first par.
 
 #### Effective Date of 1992 Amendment
 

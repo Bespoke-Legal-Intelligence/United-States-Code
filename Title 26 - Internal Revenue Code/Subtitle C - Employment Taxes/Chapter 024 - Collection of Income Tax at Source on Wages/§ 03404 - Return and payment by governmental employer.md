@@ -6,5 +6,5 @@ If the employer is the United States, or a State, or political subdivision there
 
 #### Amendments
 
-1976—Pub. L. 94–455 struck out “Territory” after “or a State” and “of such State”.
+<b>1976</b>—Pub. L. 94–455 struck out “Territory” after “or a State” and “of such State”.
 

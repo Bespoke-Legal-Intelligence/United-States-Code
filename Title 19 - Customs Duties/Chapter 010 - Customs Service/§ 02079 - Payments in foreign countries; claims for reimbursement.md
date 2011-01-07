@@ -16,7 +16,7 @@ Section was formerly classified to section 529e of Title 31 prior to the general
 
 #### Amendments
 
-1970—Pub. L. 91–513 struck out references to narcotics officers and narcotics laws.
+<b>1970</b>—Pub. L. 91–513 struck out references to narcotics officers and narcotics laws.
 
 #### Change of Name
 

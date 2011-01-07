@@ -76,7 +76,7 @@ Sept. 9, 1966, Pub. L. 89–563, §108(k), 80 Stat. 723; Oct. 31, 1988, Pub. L. 
 
 In subsection (a), the words “or the Transportation of Explosives Act, as amended (18 U.S.C. 831–835)” are omitted as obsolete because 18:831–835 have been repealed. The word “prescribe” is substituted for “adopt” for consistency. The words “or continue in effect” and “In prescribing safety regulations” are omitted as surplus. The word “prescribed” is substituted for “issued” for consistency. The words “to comply” and “Federal” are omitted as surplus. The words “in effect” are added for clarity.
 
-In subsection (b)(1), the word “Federal” is omitted as surplus. The word “prescribe” is substituted for “either to establish, or to continue in effect” for consistency and to eliminate unnecessary words. The words “standard prescribed under this chapter” are substituted for “Federal standard” for clarity. The words “However, the United States . . . may prescribe” are substituted for “Nothing in this section shall be construed to prevent the Federal . . . from establishing” for consistency. The words “of a State” are substituted for “thereof” for clarity. The word “standard” is substituted for “safety requirement” for consistency. The words “performance requirement” are substituted for “standard of performance” to avoid using “standard” in 2 different ways.
+In subsection (b)(1), the word “Federal” is omitted as surplus. The word “prescribe” is substituted for “eitherto establish, or to continue in effect” for consistency and to eliminate unnecessary words. The words “standard prescribed under this chapter” are substituted for “Federal standard” for clarity. The words “However, the United States . . . may prescribe” are substituted for “Nothing in this section shall be construed to prevent the Federal . . . from establishing” for consistency. The words “of a State” are substituted for “thereof” for clarity. The word “standard” is substituted for “safety requirement” for consistency. The words “performance requirement” are substituted for “standard of performance” to avoid using “standard” in 2 different ways.
 
 Subsection (b)(2) is substituted for 15:1392(d) (2d sentence) for consistency and to eliminate unnecessary words.
 
@@ -86,7 +86,7 @@ In subsection (d), the words “United States” are substituted for “Federal�
 
 #### Amendments
 
-1995—Subsec. (a). Pub. L. 104–88 substituted “subchapter I of chapter 135” for “subchapter II of chapter 105” in two places.
+<b>1995</b>—Subsec. (a). Pub. L. 104–88 substituted “subchapter I of chapter 135” for “subchapter II of chapter 105” in two places.
 
 #### Effective Date of 1995 Amendment
 

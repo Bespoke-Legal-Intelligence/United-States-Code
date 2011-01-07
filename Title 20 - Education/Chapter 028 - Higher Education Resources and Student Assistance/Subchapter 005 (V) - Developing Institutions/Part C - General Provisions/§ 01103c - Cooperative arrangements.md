@@ -12,7 +12,7 @@ The Secretary shall give priority to grants for the purposes described under sub
 
 Grants to Hispanic-serving institutions having a cooperative arrangement may be made under this section for a period determined under section 1101d of this title.
 
-(Pub. L. 89–329, title V, §524, formerly §514, as added Pub. L. 105–244, title V, §501, Oct. 7, 1998, 112 Stat. 1773; renumbered §524 and amended Pub. L. 110–315, title V, §§502(a)(2), 504, Aug. 14, 2008, 122 Stat. 3331, 3333.)
+(Pub. L. 89–329, title V, §524, formerly §514, as added Pub. L. 105–244, title V, §501, Oct. 7, 1998,112 Stat. 1773; renumbered §524 and amended Pub. L. 110–315, title V, §§502(a)(2), 504, Aug. 14, 2008, 122 Stat. 3331, 3333.)
 
 #### Prior Provisions
 
@@ -28,5 +28,5 @@ Another prior section 524 of Pub. L. 89–329 was classified to section 1114 of 
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–315, §504, substituted “sections 1101b and 1102b” for “section 1101b”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §504, substituted “sections 1101b and 1102b” for “section 1101b”.
 

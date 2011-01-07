@@ -36,9 +36,9 @@ This section \[section 47\] corrects a typographical error in section 2421 of ti
 
 #### Amendments
 
-1998—Pub. L. 105–314 inserted “or attempts to do so,” before “shall be fined” and substituted “10 years” for “five years”.
+<b>1998</b>—Pub. L. 105–314 inserted “or attempts to do so,” before “shall be fined” and substituted “10 years” for “five years”.
 
-1986—Pub. L. 99–628 amended section generally. Prior to amendment, section read as follows:
+<b>1986</b>—Pub. L. 99–628 amended section generally. Prior to amendment, section read as follows:
 
 “Whoever knowingly transports in interstate or foreign commerce, or in the District of Columbia or in any Territory or Possession of the United States, any woman or girl for the purpose of prostitution or debauchery, or for any other immoral purpose, or with the intent and purpose to induce, entice, or compel such woman or girl to become a prostitute or to give herself up to debauchery, or to engage in any other immoral practice; or
 
@@ -46,5 +46,5 @@ This section \[section 47\] corrects a typographical error in section 2421 of ti
 
 “Shall be fined not more than $5,000 or imprisoned not more than five years, or both.”
 
-1949—Act May 24, 1949, corrected spelling of “induce”.
+<b>1949</b>—Act May 24, 1949, corrected spelling of “induce”.
 

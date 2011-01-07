@@ -28,13 +28,13 @@ Every manufacturer of new automobiles distributed in commerce shall, prior to th
 
 &emsp;&emsp;(2) refers to frontal impact crash tests, side impact crash tests, and rollover resistance tests (whether or not such automobile has been assigned a safety rating for such tests);
 
-&emsp;&emsp;(3) contains information describing the nature and meaning of the crash test data presented and a reference to additional vehiclesafety resources, including http://www.safecar.gov; and
+&emsp;&emsp;(3) contains information describing the nature and meaning of the crash test data presented and a reference to additional vehicle safety resources, including http://www.safecar.gov; and
 
 &emsp;&emsp;(4) is presented in a legible, visible, and prominent fashion and covers at least—
 
 &emsp;&emsp;&emsp;(A) 8 percent of the total area of the label; or
 
-&emsp;&emsp;&emsp;(B) an area with a minimum length of 41/2 inches and a minimum height of 31/2 inches; and
+&emsp;&emsp;&emsp;(B) an area with a minimum length of 4½ inches and a minimum height of 3½ inches; and
 
 &emsp;(h) if an automobile has not been tested by the National Highway Traffic Safety Administration under the New Car Assessment Program, or safety ratings for such automobile have not been assigned in one or more rating categories, a statement to that effect.
 
@@ -42,7 +42,7 @@ Every manufacturer of new automobiles distributed in commerce shall, prior to th
 
 #### Amendments
 
-2005—Subsec. (f)(3). Pub. L. 109–59, §10307(a)(2), inserted “and” at end.
+<b>2005</b>—Subsec. (f)(3). Pub. L. 109–59, §10307(a)(2), inserted “and” at end.
 
 Subsecs. (g), (h). Pub. L. 109–59, §10307(a)(1), (3), (4), added subsecs. (g) and (h).
 

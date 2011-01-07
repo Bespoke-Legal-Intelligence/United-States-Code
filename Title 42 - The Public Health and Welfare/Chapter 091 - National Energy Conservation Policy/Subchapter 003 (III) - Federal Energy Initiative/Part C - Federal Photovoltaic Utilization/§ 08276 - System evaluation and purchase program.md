@@ -12,5 +12,5 @@ Nothing in this part shall preclude any Federal agency from directly procuring a
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–294 inserted provisions relating to Federal agencies acting under delegations from the Secretary.
+<b>1980</b>—Subsec. (a). Pub. L. 96–294 inserted provisions relating to Federal agencies acting under delegations from the Secretary.
 

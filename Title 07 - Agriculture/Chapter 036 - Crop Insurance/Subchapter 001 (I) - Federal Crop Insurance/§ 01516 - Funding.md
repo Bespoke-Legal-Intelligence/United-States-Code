@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) Premium subsidies, including the administrative and operating expenses of an approved insurance provider for the delivery of policies with additional coverage.
 
-&emsp;&emsp;(C) Costs associated with the conduct of livestock and wild salmon pilot programs carried out under section 1523 of this title, subject to the limitations in subsections (a)(3)(E)(ii) and (b)(10) of section 1523 of this title.
+&emsp;&emsp;(C) Costs associated with the conduct of livestock and wild salmon pilot programs carried out under section 1523 of this title,subject to the limitations in subsections (a)(3)(E)(ii) and (b)(10) of section 1523 of this title.
 
 &emsp;&emsp;(D) Costs associated with the reimbursement, contracting, and partnerships for research and development under section 1522 of this title.
 
@@ -92,7 +92,7 @@ Subsec. (b). Pub. L. 105–185, §531(2), added subsec. (b) and struck out headi
 
 “(1)
 
-Administrative and operating expenses.—In the case of each of the 1995 through 1997 reinsurance years, the Corporation is authorized to pay from the insurance fund established under subsection (c) of this section, the administrative and operating expenses ofan approved insurance provider, including expenses covered by subsection (a)(1)(B) of this section.
+Administrative and operating expenses.—In the case of each of the 1995 through 1997 reinsurance years, the Corporation is authorized to pay from the insurance fund established under subsection (c) of this section, the administrative and operating expenses of an approved insurance provider, including expenses covered by subsection (a)(1)(B) of this section.
 
 “(2)
 

@@ -66,11 +66,11 @@ In subsection (c), the word “criteria” is omitted as covered by the word “
 
 #### Amendments
 
-1989—Subsec. (a)(2). Pub. L. 101–189, §1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–189, §1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
 Subsec. (b). Pub. L. 101–189, §1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1986—Pub. L. 99–661 added subsec. (a), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsecs. (a) and (b) which read as follows:
+<b>1986</b>—Pub. L. 99–661 added subsec. (a), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsecs. (a) and (b) which read as follows:
 
 “(a) Except as provided in section 1480 of this title, the Secretary concerned shall have a death gratuity paid to or for the survivor prescribed by section 1477 of this title of each person who dies within 120 days after his discharge or release from—
 

@@ -10,7 +10,7 @@ The Congress makes the following findings:
 
 &emsp;(1) The security of the United States is and will continue to depend on the ability of the United States to exercise international leadership.
 
-&emsp;(2) The ability of the United States to exercise international leadership is, and will increasingly continue to be, based on the political and economic strength of the UnitedStates, as well as on United States military strength around the world.
+&emsp;(2) The ability of the United States to exercise international leadership is, and will increasingly continue to be, based on the political and economic strength of the United States, as well as on United States military strength around the world.
 
 &emsp;(3) Recent changes in the world pose threats of a new kind to international stability as Cold War tensions continue to decline while economic competition, regional conflicts, terrorist activities, and weapon proliferations have dramatically increased.
 
@@ -40,7 +40,7 @@ The purposes of this chapter are as follows:
 
 #### Amendments
 
-1998—Subsecs. (b)(7), (c)(2). Pub. L. 105–272 inserted “counterproliferation studies,” after “area studies,”.
+<b>1998</b>—Subsecs. (b)(7), (c)(2). Pub. L. 105–272 inserted “counterproliferation studies,” after “area studies,”.
 
-1992—Subsec. (a). Pub. L. 102–496 amended subsec. (a) generally, inserting “David L. Boren”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–496 amended subsec. (a) generally, inserting “David L. Boren”.
 

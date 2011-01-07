@@ -8,9 +8,21 @@
 
 &emsp;(2) improve agency performance and the accomplishment of agency missions.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 181.)
+(c)
+
+Comparable Treatment.—Notwithstanding any other provision of law, the Director shall treat or review a rule or order prescribed or proposed by the Director of the Bureau of Consumer Financial Protection on the same terms and conditions as apply to any rule or order prescribed or proposed by the Board of Governors of the Federal Reserve System.
+
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 181; amended Pub. L. 111–203, title X, §1100D(b), July 21, 2010, 124 Stat. 2111.)
 
 #### Prior Provisions
 
 A prior section 3513, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2822; amended Pub. L. 98–497, title I, §107(b)(27), Oct. 19, 1984, 98 Stat. 2291, related to periodic review of agency activities by Director and report of review and agency response to it prior to the general amendment of this chapter by Pub. L. 104–13.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (c). Pub. L. 111–203 added subsec. (c).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 

@@ -42,11 +42,11 @@ A prior section 5003, act Aug. 16, 1954, ch. 736, 68A Stat. 597, consisted of pr
 
 #### Amendments
 
-1979—Par. (9). Pub. L. 96–39, §807(a)(1)(A), struck out “section 5522(a) and” before “section 5214(a)(9)”.
+<b>1979</b>—Par. (9). Pub. L. 96–39, §807(a)(1)(A), struck out “section 5522(a) and” before “section 5214(a)(9)”.
 
 Pars. (15) to (17). Pub. L. 96–39, §807(a)(1)(B), added pars. (15) and (16) and redesignated former par. (15) as (17).
 
-1977—Par. (9). Pub. L. 95–176, §3(c), struck out “manufacturing” after “customs” and inserted reference to section 5214(a)(9).
+<b>1977</b>—Par. (9). Pub. L. 95–176, §3(c), struck out “manufacturing” after “customs” and inserted reference to section 5214(a)(9).
 
 Par. (14). Pub. L. 95–176, §4(f), substituted “withdrawal of distilled spirits without payment of tax for use in certain research, development, or testing, see section 5214(a)(10)” for “removal of samples free of tax for making tests or laboratory analyses, see section 5214(a)(9)”.
 

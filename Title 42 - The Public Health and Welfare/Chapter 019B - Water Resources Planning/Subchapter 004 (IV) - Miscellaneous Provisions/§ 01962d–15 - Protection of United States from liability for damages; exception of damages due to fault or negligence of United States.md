@@ -1,6 +1,6 @@
 ### §1962d–15. Protection of United States from liability for damages; exception of damages due to fault or negligence of United States
 
-The requirement in any water resources development project under the jurisdiction of theSecretary of the Army, that non-Federal interests hold and save the United States free from damages due to the construction, operation, and maintenance of the project, does not include damages due to the fault or negligence of the United States or its contractors.
+The requirement in any water resources development project under the jurisdiction of the Secretary of the Army, that non-Federal interests hold and save the United States free from damages due to the construction, operation, and maintenance of the project, does not include damages due to the fault or negligence of the United States or its contractors.
 
 (Pub. L. 93–251, title I, §9, Mar. 7, 1974, 88 Stat. 16.)
 

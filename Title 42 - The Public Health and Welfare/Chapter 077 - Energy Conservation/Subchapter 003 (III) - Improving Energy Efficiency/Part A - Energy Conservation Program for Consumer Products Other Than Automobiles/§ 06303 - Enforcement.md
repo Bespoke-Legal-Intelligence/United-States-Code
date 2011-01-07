@@ -14,9 +14,9 @@ It shall be an unfair or deceptive act or practice in or affecting commerce (wit
 
 #### (d) Procedure for assessing penalty
 
-(1) Before issuing an order assessing a civil penalty against any person under this section, the Secretary shall provide to such person notice of the proposed penalty. Such notice shall inform such person of his opportunity to elect in writing within 30 days after the date of receipt of such notice to have the procedures of paragraph (3) (in lieu of those of paragraph (2)) apply with respect to such assessment.
+(1) Before issuing an order assessing a civil penalty against any person under this section,the Secretary shall provide to such person notice of the proposed penalty. Such notice shall inform such person of his opportunity to elect in writing within 30 days after the date of receipt of such notice to have the procedures of paragraph (3) (in lieu of those of paragraph (2)) apply with respect to such assessment.
 
-(2)(A) Unless an election is made within 30 calendar days after receipt of notice under paragraph (1) to have paragraph (3) apply with respect to such penalty, the Secretary shall assessthe penalty, by order, after a determination of violation has been made on the record after an opportunity for an agency hearing pursuant to section 554 of title 5 before an administrative law judge appointed under section 3105 of such title 5. Such assessment order shall include the administrative law judge's findings and the basis for such assessment.
+(2)(A) Unless an election is made within 30 calendar days after receipt of notice under paragraph (1) to have paragraph (3) apply with respect to such penalty, the Secretary shall assess the penalty, by order, after a determination of violation has been made on the record after an opportunity for an agency hearing pursuant to section 554 of title 5 before an administrative law judge appointed under section 3105 of such title 5. Such assessment order shall include the administrative law judge's findings and the basis for such assessment.
 
 (B) Any person against whom a penalty is assessed under this paragraph may, within 60 calendar days after the date of the order of the Secretary assessing such penalty, institute an action in the United States court of appeals for the appropriate judicial circuit for judicial review of such order in accordance with chapter 7 of title 5. The court shall have jurisdiction to enter a judgment affirming, modifying, or setting aside in whole or in part, the order of the Secretary, or the court may remand the proceeding to the Secretary for such further action as the court may direct.
 
@@ -40,9 +40,9 @@ It shall be an unfair or deceptive act or practice in or affecting commerce (wit
 
 #### Amendments
 
-1987—Pub. L. 100–12 inserted headings for subsecs. (a) to (d).
+<b>1987</b>—Pub. L. 100–12 inserted headings for subsecs. (a) to (d).
 
-1978—Subsec. (a). Pub. L. 95–619, §§425(e)(1), 691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing, and “subsection (c) of this section” for “subsection (b) of this section”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–619, §§425(e)(1), 691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing, and “subsection (c) of this section” for “subsection (b) of this section”.
 
 Subsec. (c). Pub. L. 95–619, §425(e)(2), substituted “section 6293(c) of this title” for “section 6293(d)(2) of this title” and inserted provision making an exception from the unfair or deceptive act or practice rule.
 

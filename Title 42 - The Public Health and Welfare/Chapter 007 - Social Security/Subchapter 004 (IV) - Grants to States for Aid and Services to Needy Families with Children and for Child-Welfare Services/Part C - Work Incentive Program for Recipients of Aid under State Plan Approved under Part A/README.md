@@ -1,7 +1,5 @@
 Part C—Work Incentive Program for Recipients of Aid Under State Plan Approved Under Part A
 
-<i><sup>1</sup></i><i> So in original. Probably should be “parent”.</i>
-
 
 ---
 

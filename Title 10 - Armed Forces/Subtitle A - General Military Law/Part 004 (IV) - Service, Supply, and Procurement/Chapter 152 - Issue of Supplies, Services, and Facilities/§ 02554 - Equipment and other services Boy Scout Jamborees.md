@@ -16,7 +16,7 @@
 
 (h) Other departments of the Federal Government are authorized, under such regulations as may be prescribed by the Secretary thereof, to provide to the Boy Scouts of America, equipment and other services, under the same conditions and restrictions prescribed in the preceding subsections for the Secretary of Defense.
 
-(i)(1) The Secretary of Defense shall provide at least the same level of support under this section for a national or world Boy Scout Jamboree as was provided under this section for the preceding national or world Boy Scout Jamboree.
+(i)(1) The Secretary of Defense shall provide at least the same level of support under this section for a national or world Boy Scout Jamboreeas was provided under this section for the preceding national or world Boy Scout Jamboree.
 
 (2) The Secretary of Defense may waive paragraph (1), if the Secretary—
 
@@ -28,7 +28,7 @@
 
 #### Codification
 
-Pub. L. 109–148, §8126(c)(2), and Pub. L. 109–163, §1058(c), amended this section by adding substantially identical subsecs. (i). The subsec. (i) added by Pub. L.109–148, §8126(c)(2), was subsequently omitted on authority of Pub. L. 109–364, §1071(f)(1), (3), which repealed Pub. L. 109–148, §8126(c)(2), and provided that the amendments by Pub. L. 109–148, §8126(c)(2), and Pub. L. 109–163, §1058(c), to this section be executed so as to appear only once in the law as amended. See Reconciliation of Duplicate Enactments note and 2005 and 2006 Amendment notes below.
+Pub. L. 109–148, §8126(c)(2), and Pub. L. 109–163, §1058(c), amended this section by adding substantially identical subsecs. (i). The subsec. (i) added by Pub. L. 109–148, §8126(c)(2), was subsequently omitted on authority of Pub. L. 109–364, §1071(f)(1), (3), which repealed Pub. L. 109–148, §8126(c)(2), and provided that the amendments by Pub. L. 109–148, §8126(c)(2), and Pub. L. 109–163, §1058(c), to this section be executed so as to appear only once in the law as amended. See Reconciliation of Duplicate Enactments note and 2005 and 2006 Amendment notes below.
 
 #### Prior Provisions
 
@@ -36,9 +36,9 @@ A prior section 2554 was renumbered section 2564 of this title.
 
 #### Amendments
 
-2006—Subsec. (i). Pub. L. 109–163 added subsec. (i). See Codification note above.
+<b>2006</b>—Subsec. (i). Pub. L. 109–163 added subsec. (i). See Codification note above.
 
-2005—Subsec. (i). Pub. L. 109–148 added subsec. (i) which read as follows:
+<b>2005</b>—Subsec. (i). Pub. L. 109–148 added subsec. (i) which read as follows:
 
 “(i)(1) The Secretary of Defense shall provide at least the same level of support under this section for a national or world Boy Scout Jamboree as was provided under this section for the preceding national or world Boy Scout Jamboree.
 
@@ -50,11 +50,11 @@ A prior section 2554 was renumbered section 2564 of this title.
 
 See Codification note above.
 
-2001—Subsec. (d). Pub. L. 107–107 substituted “Air Mobility Command” for “Military Airlift Command”.
+<b>2001</b>—Subsec. (d). Pub. L. 107–107 substituted “Air Mobility Command” for “Military Airlift Command”.
 
-2000—Pub. L. 106–398 renumbered section 2544 of this title as this section.
+<b>2000</b>—Pub. L. 106–398 renumbered section 2544 of this title as this section.
 
-1996—Subsecs. (g), (h). Pub. L. 104–106 added subsec. (g) and redesignated former subsec. (g) as (h).
+<b>1996</b>—Subsecs. (g), (h). Pub. L. 104–106 added subsec. (g) and redesignated former subsec. (g) as (h).
 
 #### Reconciliation of Duplicate Enactments
 

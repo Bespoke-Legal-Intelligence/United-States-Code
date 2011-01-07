@@ -8,7 +8,7 @@ General Provisions.—Whenever a work protected under this title is published in
 
 Form of Notice.—If a notice appears on the copies, it shall consist of the following three elements:
 
-&emsp;(1) the symbol G6�AF (the letter C in a circle), or the word “Copyright”, or the abbreviation “Copr.”; and
+&emsp;(1) the symbol �AF (the letter C in a circle), or the word “Copyright”, or the abbreviation “Copr.”; and
 
 &emsp;(2) the year of first publication of the work; in the case of compilations, or derivative works incorporating previously published material, the year date of first publication of the compilation or derivative work is sufficient. The year date may be omitted where a pictorial, graphic, or sculptural work, with accompanying text matter, if any, is reproduced in or on greeting cards, postcards, stationery, jewelry, dolls, toys, or any useful articles; and
 
@@ -26,9 +26,9 @@ Evidentiary Weight of Notice.—If a notice of copyright in the form and positio
 
 #### Historical and Revision Notes
 
-I74house report no. 94–1476
+#### house report no. 94–1476
 
-A requirement that the public be given formal notice of every work in which copyright is claimed was a part of the first U.S. copyright statute enacted in 1790, and since 1802 our copyright laws have always provided that the published copies of copyrighted works must bear aspecified notice as a condition of protection. Under the present law the copyright notice serves four principal functions:
+A requirement that the public be given formal notice of every work in which copyright is claimed was a part of the first U.S. copyright statute enacted in 1790, and since 1802 our copyright laws have always provided that the published copies of copyrighted works must bear a specified notice as a condition of protection. Under the present law the copyright notice serves four principal functions:
 
 &emsp;(1) It has the effect of placing in the public domain a substantial body of published material that no one is interested in copyrighting;
 
@@ -48,13 +48,13 @@ It should be noted that, under the definition of “publication” in section 10
 
 Subsections (a) of both section 401 and section 402 require that a notice be used whenever the work “is published in the United States or elsewhere by authority of the copyright owner.” The phrase “or elsewhere,” which does not appear in the present law, makes the notice requirements applicable to copies or phonorecords distributed to the public anywhere in the world, regardless of where and when the work was first published. The values of notice are fully applicable to foreign editions of works copyrighted in the United States, especially with the increased flow of intellectual materials across national boundaries, and the gains in the use of notice on editions published abroad under the Universal Copyright Convention should not be wiped out. The consequences of omissions or mistakes with respect to the notice are far less serious under the bill than under the present law, and section 405(a) makes doubly clear that a copyright owner may guard himself against errors or omissions by others if he makes use of the prescribed notice an express condition of his publishing licenses.
 
-Subsection (b) of section 401, which sets out the form of notice to appear on visually-perceptible copies, retains the basic elements of the notice under the present law: the word “Copyright”, the abbreviation “Copr.”, or the symbol “G6�AF”; the year of first publication; and the name of the copyright owner. The year of publication, which is still significant in computing the term and determining the status of a work, is required for all categories of copyrightable works. Clause (2) of subsection (b) makes clear that, in the case of a derivative work or compilation, it is not necessary to list the dates of publication of all preexisting material incorporated in the work; however, as noted below in connection with section 409, the application for registration covering a compilation or derivative work must identify “any preexisting work or works that it is based on or incorporates.” Clause (3) establishes that a recognizable abbreviation or a generally known alternative designation may be used instead of the full name of the copyright owner.
+Subsection (b) of section 401, which sets out the form of notice to appear on visually-perceptible copies, retains the basic elements of the notice under the present law: the word “Copyright”, the abbreviation “Copr.”, or the symbol “�AF”; the year of first publication; and the name of the copyright owner. The year of publication, which is still significant in computing the term and determining the status of a work, is required for all categories of copyrightable works. Clause (2) of subsection (b) makes clear that, in the case of a derivative work or compilation, it is not necessary to list the dates of publication of all preexisting material incorporated in the work; however, as noted below in connection with section 409, the application for registration covering a compilation or derivative work must identify “any preexisting work or works that it is based on or incorporates.” Clause (3) establishes that a recognizable abbreviation or a generally known alternative designation may be used instead of the full name of the copyright owner.
 
 By providing simply that the notice “shall be affixed to the copies in such manner and location as to give reasonable notice of the claim of copyright,” subsection (c) follows the flexible approach of the Universal Copyright Convention. The further provision empowering the Register of Copyrights to set forth in regulations a list of examples of “specific methods of affixation and positions of the notice on various types of works that will satisfy this requirement” will offer substantial guidance and avoid a good deal of uncertainty. A notice placed or affixed in accordance with the regulations would clearly meet the requirements but, since the Register's specifications are not to “be considered exhaustive,” a notice placed or affixed in some other way might also comply with the law if it were found to “give reasonable notice” of the copyright claim.
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–568, §7(a)(1), (2), substituted “General provisions” for “General requirement” in heading, and “may be placed on” for “shall be placed on all” in text.
+<b>1988</b>—Subsec. (a). Pub. L. 100–568, §7(a)(1), (2), substituted “General provisions” for “General requirement” in heading, and “may be placed on” for “shall be placed on all” in text.
 
 Subsec. (b). Pub. L. 100–568, §7(a)(3), substituted “If a notice appears on the copies, it” for “The notice appearing on the copies”.
 

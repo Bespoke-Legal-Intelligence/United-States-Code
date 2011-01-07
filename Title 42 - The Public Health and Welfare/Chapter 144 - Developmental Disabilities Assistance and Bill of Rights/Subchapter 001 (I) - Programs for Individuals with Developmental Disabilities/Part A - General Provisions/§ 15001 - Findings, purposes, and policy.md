@@ -110,7 +110,7 @@ It is the policy of the United States that all programs, projects, and activitie
 
 &emsp;(10) families of children with developmental disabilities need to have access to and use of safe and appropriate child care and before-school and after-school programs, in the most integrated settings, in order to enrich the participation of the children in community life;
 
-&emsp;(11) individuals with developmental disabilities need to have access to and use of public transportation, in order to be independent anddirectly contribute to and participate in all facets of community life; and
+&emsp;(11) individuals with developmental disabilities need to have access to and use of public transportation, in order to be independent and directly contribute to and participate in all facets of community life; and
 
 &emsp;(12) individuals with developmental disabilities need to have access to and use of recreational, leisure, and social opportunities in the most integrated settings, in order to enrich their participation in community life.
 
@@ -312,7 +312,7 @@ Sec. 4. <i>Cooperation by Agencies</i>. The heads of Federal departments and age
 
 Sec. 5. <i>Administration</i>. (a) The Department of Health and Human Services shall provide the Committee with necessary staff support, administrative services and facilities, and funding, to the extent permitted by law.
 
-(b) Each member of the Committee, except any member who receives other compensation from the United States Government, may receive compensation for each day engaged in the work of the Committee, as authorized by law (5 U.S.C. 3109), and may also receive travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5701–5707), for persons employed intermittently in the Government service. Committee members with disabilities may be compensated for attendant expenses, consistent with Government procedures and practices.
+(b) Each member of the Committee, except any member who receives other compensation from the United States Government, may receive compensation for eachday engaged in the work of the Committee, as authorized by law (5 U.S.C. 3109), and may also receive travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5701–5707), for persons employed intermittently in the Government service. Committee members with disabilities may be compensated for attendant expenses, consistent with Government procedures and practices.
 
 (c) The Secretary of Health and Human Services shall perform such other functions with respect to the Committee as may be required by the Federal Advisory Committee Act, as amended (5 U.S.C. App.), except that of reporting to the Congress.
 

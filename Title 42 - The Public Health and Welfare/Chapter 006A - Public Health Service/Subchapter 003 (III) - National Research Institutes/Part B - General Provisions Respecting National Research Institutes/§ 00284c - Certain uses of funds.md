@@ -2,7 +2,7 @@
 
 (a)(1) Except as provided in paragraph (2), the sum of the amounts obligated in any fiscal year for administrative expenses of the National Institutes of Health may not exceed an amount which is 5.5 percent of the total amount appropriated for such fiscal year for the National Institutes of Health.
 
-(2) Paragraph (1) does not apply to the National Library of Medicine, the National Center for Nursing Research, the John E. Fogarty International Center for Advanced Study in the Health Sciences, the Warren G. Magnuson Clinical Center, and the Office of Medical Applications of Research.
+(2) Paragraph (1) does not apply to the National Library of Medicine, the National Centerfor Nursing Research, the John E. Fogarty International Center for Advanced Study in the Health Sciences, the Warren G. Magnuson Clinical Center, and the Office of Medical Applications of Research.
 
 (3) For purposes of paragraph (1), the term “administrative expenses” means expenses incurred for the support of activities relevant to the award of grants, contracts, and cooperative agreements and expenses incurred for general administration of the scientific programs and activities of the National Institutes of Health.
 
@@ -12,13 +12,13 @@
 
 #### Amendments
 
-1998—Subsec. (a)(4). Pub. L. 105–362 struck out par. (4) which read as follows: “Not later than December 31, 1987, and December 31 of each succeeding year, the Secretary shall report to the Congress the amount obligated in the fiscal year preceding such date for administrative expenses of the National Institutes of Health and the total amount appropriated for the National Institutes of Health for such fiscal year. The Secretary shall consult with the Comptroller General of the United States in preparing each report.”
+<b>1998</b>—Subsec. (a)(4). Pub. L. 105–362 struck out par. (4) which read as follows: “Not later than December 31, 1987, and December 31 of each succeeding year, the Secretary shall report to the Congress the amount obligated in the fiscal year preceding such date for administrative expenses of the National Institutes of Health and the total amount appropriated for the National Institutes of Health for such fiscal year. The Secretary shall consult with the Comptroller General of the United States in preparing each report.”
 
-1996—Subsec. (a)(3). Pub. L. 104–316 struck out at end “In identifying expenses incurred for such support and administration the Secretary shall consult with the Comptroller General of the United States.”
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–316 struck out at end “In identifying expenses incurred for such support and administration the Secretary shall consult with the Comptroller General of the United States.”
 
-1993—Pub. L. 103–43 amended section catchline generally, redesignated subsec. (b) as (a) and par. (5) of subsec. (a) as (b), struck out former subsec. (a) which authorized appropriations in addition to amounts otherwise appropriated under this subchapter for the National Cancer Institute for programs other than under section 285a–1 of this title and for its program under section 285a–1 of this title and for the National Heart, Lung, and Blood Institute for programs other than under section 285b–1 of this title and for its program under section 285b–1 of this title, and substituted “Department of Veterans Affairs” for “Veterans’ Administration” in subsec. (b).
+<b>1993</b>—Pub. L. 103–43 amended section catchline generally, redesignated subsec. (b) as (a) and par. (5) of subsec. (a) as (b), struck out former subsec. (a) which authorized appropriations in addition to amounts otherwise appropriated under this subchapter for the National Cancer Institute for programs other than under section 285a–1 of this title and for its program under section 285a–1 of this title and for the National Heart, Lung, and Blood Institute for programs other than under section 285b–1 of this title and for its program under section 285b–1 of this title, and substituted “Department of Veterans Affairs” for “Veterans’ Administration” in subsec. (b).
 
-1988—Subsec. (a)(1), (2). Pub. L. 100–607, §118(a), amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
+<b>1988</b>—Subsec. (a)(1), (2). Pub. L. 100–607, §118(a), amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
 
 “(1)(A) For the National Cancer Institute (other than its programs under section 285a–1 of this title), there are authorized to be appropriated $1,194,000,000 for fiscal year 1986, $1,270,000,000 for fiscal year 1987, and $1,344,000,000 for fiscal year 1988.
 

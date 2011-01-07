@@ -2,7 +2,7 @@
 
 (a)(1) The following property is subject to forfeiture to the United States:
 
-&emsp;(A) Any property, real or personal, involved in a transaction or attempted transaction in violation of section 1956, 1957 or 1960 of this title, or any property traceable to such property.
+&emsp;(A) Any property, real or personal, involved in a transaction or attempted transaction inviolation of section 1956, 1957 or 1960 of this title, or any property traceable to such property.
 
 &emsp;(B) Any property, real or personal, within the jurisdiction of the United States, constituting, derived from, or traceable to, any proceeds obtained directly or indirectly from an offense against a foreign nation, or any property used to facilitate such an offense, if the offense—
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(i) of any individual, entity, or organization engaged in planning or perpetrating any any <sup>1</sup> Federal crime of terrorism (as defined in section 2332b(g)(5)) against the United States, citizens or residents of the United States, or their property, and all assets, foreign or domestic, affording any person a source of influence over any such entity or organization;
 
-&emsp;&emsp;(ii) acquired or maintained by any person with the intent and for the purpose of supporting, planning, conducting, or concealingany Federal crime of terrorism (as defined in section 2332b(g)(5) <sup>2</sup> against the United States, citizens or residents of the United States, or their property;
+&emsp;&emsp;(ii) acquired or maintained by any person with the intent and for the purpose of supporting, planning, conducting, or concealing any Federal crime of terrorism (as defined in section 2332b(g)(5) <sup>2</sup> against the United States, citizens or residents of the United States, or their property;
 
 &emsp;&emsp;(iii) derived from, involved in, or used or intended to be used to commit any Federal crime of terrorism (as defined in section 2332b(g)(5)) against the United States, citizens or residents of the United States, or their property; or
 
@@ -58,7 +58,7 @@
 
 (2) For purposes of paragraph (1), the term “proceeds” is defined as follows:
 
-&emsp;(A) In cases involving illegal goods, illegal services, unlawful activities, and telemarketing and health care fraud schemes, the term “proceeds” means property of any kind obtained directly or indirectly, as the result of the commission of the offense giving rise to forfeiture, and any property traceable thereto, and is not limited to the net gain or profit realized from the offense.
+&emsp;(A) In cases involving illegal goods, illegal services, unlawful activities, and telemarketing and health care fraud schemes, the term “proceeds” means property of any kind obtained directly or indirectly, as the result ofthe commission of the offense giving rise to forfeiture, and any property traceable thereto, and is not limited to the net gain or profit realized from the offense.
 
 &emsp;(B) In cases involving lawful goods or lawful services that are sold or provided in an illegal manner, the term “proceeds” means the amount of money acquired through the illegal transactions resulting in the forfeiture, less the direct costs incurred in providing the goods or services. The claimant shall have the burden of proof with respect to the issue of direct costs. The direct costs shall not include any part of the overhead expenses of the entity providing the goods or services, or any part of the income taxes paid by the entity.
 
@@ -134,7 +134,7 @@
 
 (5) In requesting a stay under paragraph (1), the Government may, in appropriate cases, submit evidence ex parte in order to avoid disclosing any matter that may adversely affect an ongoing criminal investigation or pending criminal trial.
 
-(6) Whenever a civil forfeiture proceeding is stayed pursuant to this subsection, the court shall enter any order necessary to preserve the value of the property or to protect the rights of lienholders or other persons with an interest in the property while the stay is in effect.
+(6) Whenever a civil forfeiture proceeding is stayed pursuant to this subsection, the courtshall enter any order necessary to preserve the value of the property or to protect the rights of lienholders or other persons with an interest in the property while the stay is in effect.
 
 (7) A determination by the court that the claimant has standing to request a stay pursuant to paragraph (2) shall apply only to this subsection and shall not preclude the Government from objecting to the standing of the claimant by dispositive motion or at the time of trial.
 
@@ -178,7 +178,7 @@ In general.—For the purpose of a forfeiture under this section or under the Co
 
 &emsp;&emsp;(B)
 
-Authority to suspend.—The Attorney General, in consultation with the Secretary of the Treasury, may suspend or terminate a forfeiture under this section if the Attorney General determines that a conflict of law exists between the laws of the jurisdiction in which the foreign financial institution (as defined in section 984(c)(2)(A) of this title) is located and the laws of the United States with respect to liabilities arising from the restraint, seizure, or arrest of such funds, and that such suspension or termination would be in the interest of justice and would not harm the national interests of the United States.
+Authority to suspend.—The Attorney General, in consultation with the Secretary of the Treasury, may suspend or terminate a forfeiture under this section if the Attorney General determines that a conflict of law exists between the laws of the jurisdiction in which the foreign financial institution (as defined in section 984(c)(2)(A) of this title) is located and the laws of the United States with respect to liabilities arising from the restraint, seizure, or arrest of such funds, and that such suspension or termination would be in the interest of justice and wouldnot harm the national interests of the United States.
 
 &emsp;(2)
 
@@ -216,7 +216,11 @@ Exception.—The foreign financial institution (as defined in section 984(c)(2)(
 
 &emsp;&emsp;&emsp;&emsp;(II) the foreign financial institution (as defined in section 984(c)(2)(A) of this title) establishes, by a preponderance of the evidence, that prior to the restraint, seizure, or arrest of the funds, the foreign financial institution (as defined in section 984(c)(2)(A) of this title) had discharged all or part of its obligation to the prior owner of the funds, in which case the foreign financial institution (as defined in section 984(c)(2)(A) of this title) shall be deemed the owner of the funds to the extent of such discharged obligation.
 
-(Added Pub. L. 99–570, title I, §1366(a), Oct. 27, 1986, 100 Stat. 3207–35; amended Pub. L. 100–690, title VI, §§6463(a), (b), 6469(b), 6470(b), (e), (f), 6471(c), Nov. 18, 1988, 102 Stat. 4374, 4377, 4378; Pub. L. 101–73, title IX, §963(a), (b), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title I, §103, title XXV, §§2508, 2524, 2525(a), title XXXV, §3531, Nov. 29, 1990, 104 Stat. 4791, 4862, 4873, 4874, 4924; Pub. L. 102–393, title VI, §638(d), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, §104(a), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §§1525(c)(1), 1533, Oct. 28, 1992, 106 Stat. 4065, 4066; Pub. L. 103–322, title XXXIII, §330011(s)(2), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 103–447, title I, §102(b), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 106–185, §§2(c)(1), 5(a), 6, 8(a), 20, Apr. 25, 2000, 114 Stat. 210, 213–215, 224; Pub. L. 107–56, title III, §§319(a), 320, 372(b)(1), 373(b), title VIII, §806, Oct. 26, 2001, 115 Stat. 311, 315, 339, 340, 378; Pub. L. 107–197, title III, §301(d), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, §4002(a)(2), Nov. 2, 2002, 116 Stat. 1806; Pub. L. 109–177, title I, §§111, 120, title IV, §§404, 406(a)(3), Mar. 9, 2006, 120 Stat. 209, 221, 244.)
+(Added Pub. L. 99–570, title I, §1366(a), Oct. 27, 1986, 100 Stat. 3207–35; amended Pub. L. 100–690, title VI, §§6463(a), (b), 6469(b), 6470(b), (e), (f), 6471(c), Nov. 18, 1988, 102 Stat. 4374, 4377, 4378; Pub. L. 101–73, title IX, §963(a), (b), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title I, §103, title XXV, §§2508, 2524, 2525(a), title XXXV, §3531, Nov. 29, 1990, 104 Stat. 4791, 4862, 4873, 4874, 4924; Pub. L. 102–393, title VI, §638(d), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, §104(a), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §§1525(c)(1), 1533, Oct. 28, 1992, 106 Stat. 4065, 4066; Pub. L. 103–322, title XXXIII, §330011(s)(2), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 103–447, title I, §102(b), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 106–185, §§2(c)(1), 5(a), 6, 8(a), 20, Apr. 25, 2000, 114 Stat. 210, 213–215, 224; Pub. L. 107–56, title III, §§319(a), 320, 372(b)(1), 373(b), title VIII, §806, Oct. 26, 2001, 115 Stat. 311, 315, 339, 340, 378; Pub. L. 107–197, title III, §301(d), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, §4002(a)(2), Nov. 2, 2002, 116 Stat. 1806; Pub. L. 109–177, title I, §§111, 120, title IV, §§404, 406(a)(3), Mar. 9, 2006, 120 Stat. 209, 221, 244; Pub. L. 111–203, title III, §377(3), July 21, 2010, 124 Stat. 1569.)
+
+#### Amendment of Subsection (a)(1)(D)
+
+<i>Pub. L. 111–203, title III, §§351, 377(3), July 21, 2010, 124 Stat. 1546, 1569, provided that, effective on the transfer date, subsection (a)(1)(D) of this section is amended by striking “Resolution Trust Corporation,” and by striking “or the Office of Thrift Supervision”. See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -236,7 +240,7 @@ Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (i)
 
 #### Amendments
 
-2006—Subsec. (a)(1)(B)(i). Pub. L. 109–177, §111, inserted “trafficking in nuclear, chemical, biological, or radiological weapons technology or material, or” after “involves”.
+<b>2006</b>—Subsec. (a)(1)(B)(i). Pub. L. 109–177, §111, inserted “trafficking in nuclear, chemical, biological, or radiological weapons technology or material, or” after “involves”.
 
 Subsec. (a)(1)(G)(i). Pub. L. 109–177, §120(1), which directed amendment of cl. (i) by substituting “any Federal crime of terrorism (as defined in section 2332b(g)(5))” for “act of international or domestic terrorism (as defined in section 2331)”, was executed by making the substitution for “act of domestic or international terrorism (as defined in section 2331)”, to reflect the probable intent of Congress.
 
@@ -248,11 +252,11 @@ Subsec. (a)(1)(G)(iv). Pub. L. 109–177, §404, added cl. (iv).
 
 Subsec. (k). Pub. L. 109–177, §406(a)(3), substituted “foreign financial institution (as defined in section 984(c)(2)(A) of this title)” for “foreign bank” wherever appearing.
 
-2002—Subsec. (a)(1)(H). Pub. L. 107–197 added subpar. (H).
+<b>2002</b>—Subsec. (a)(1)(H). Pub. L. 107–197 added subpar. (H).
 
 Subsec. (d). Pub. L. 107–273 substituted “proceeds from the sale of such property under this section” for “proceeds from the sale of this section”.
 
-2001—Subsec. (a)(1)(A). Pub. L. 107–56, §§372(b)(1), 373(b), struck out “of section 5313(a) or 5324(a) of title 31, or” after “transaction or attempted transaction in violation”, substituted “, 1957 or 1960” for “or 1957”, and struck out at end “However, no property shall be seized or forfeited in the case of a violation of section 5313(a) of title 31 by a domestic financial institution examined by a Federal bank supervisory agency or a financial institution regulated by the Securities and Exchange Commission or a partner, director, or employee thereof.”
+<b>2001</b>—Subsec. (a)(1)(A). Pub. L. 107–56, §§372(b)(1), 373(b), struck out “of section 5313(a) or 5324(a) of title 31, or” after “transaction or attempted transaction in violation”, substituted “, 1957 or 1960” for “or 1957”, and struck out at end “However, no property shall be seized or forfeited in the case of a violation of section 5313(a) of title 31 by a domestic financial institution examined by a Federal bank supervisory agency or a financial institution regulated by the Securities and Exchange Commission or a partner, director, or employee thereof.”
 
 Subsec. (a)(1)(B). Pub. L. 107–56, §320, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Any property, real or personal, within the jurisdiction of the United States, constituting, derived from, or traceable to, any proceeds obtained directly or indirectly from an offense against a foreign nation involving the manufacture, importation, sale, or distribution of a controlled substance (as such term is defined for the purposes of the Controlled Substances Act), within whose jurisdiction such offense would be punishable by death or imprisonment for a term exceeding one year and which would be punishable under the laws of the United States by imprisonment for a term exceeding one year if such act or activity constituting the offense against the foreign nation had occurred within the jurisdiction of the United States.”
 
@@ -260,7 +264,7 @@ Subsec. (a)(1)(G). Pub. L. 107–56, §806, added subpar. (G).
 
 Subsec. (k). Pub. L. 107–56, §319(a), added subsec. (k).
 
-2000—Subsec. (a)(1). Pub. L. 106–185, §2(c)(1)(A), substituted “The” for “Except as provided in paragraph (2), the” in introductory provisions.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–185, §2(c)(1)(A), substituted “The” for “Except as provided in paragraph (2), the” in introductory provisions.
 
 Subsec. (a)(1)(C). Pub. L. 106–185, §20(a), substituted “or any offense constituting ‘specified unlawful activity’ (as defined in section 1956(c)(7) of this title), or a conspiracy to commit such offense.” for “or a violation of section 1341 or 1343 of such title affecting a financial institution.”
 
@@ -288,11 +292,11 @@ Subsec. (e)(6). Pub. L. 106–185, §6, added par. (6) and struck out former par
 
 Subsec. (g). Pub. L. 106–185, §8(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The filing of an indictment or information alleging a violation of law, Federal, State, or local, which is also related to a forfeiture proceeding under this section shall, upon motion of the United States and for good cause shown, stay the forfeiture proceeding.”
 
-1994—Subsec. (e)(7). Pub. L. 103–322, §330011(s)(2), amended directory language of Pub. L. 101–647, §2525(a)(2). See 1990 Amendment note below.
+<b>1994</b>—Subsec. (e)(7). Pub. L. 103–322, §330011(s)(2), amended directory language of Pub. L. 101–647, §2525(a)(2). See 1990 Amendment note below.
 
-Subsec. (i)(1)(C). Pub. L. 103–447, which directed substitution of “section 490(a)(1) of the Foreign AssistanceAct of 1961” for “paragraph (1)(A) of section 481(h) of the Foreign Assistance Act of 1961”, could not be executed because the words “paragraph (1)(A) of” do not appear in text.
+Subsec. (i)(1)(C). Pub. L. 103–447, which directed substitution of “section 490(a)(1) of the Foreign Assistance Act of 1961” for “paragraph (1)(A) of section 481(h) of the Foreign Assistance Act of 1961”, could not be executed because the words “paragraph (1)(A) of” do not appear in text.
 
-1992—Subsec. (a)(1)(A). Pub. L. 102–550, §1525(c)(1), substituted “5324(a)” for “5324”.
+<b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–550, §1525(c)(1), substituted “5324(a)” for “5324”.
 
 Subsec. (a)(1)(C). Pub. L. 102–393 inserted provisions relating to sections 471, 472, 473, 474, 476, 477, 478, 479, 480, 481, 485, 486, 487, 488, 501, 502, 510, 542, 545, 842, 844, 1028, 1029, and 1030 of this title.
 
@@ -300,7 +304,7 @@ Subsec. (a)(1)(F). Pub. L. 102–519 added subpar. (F).
 
 Subsec. (e). Pub. L. 102–550, §1533, struck out penultimate sentence of concluding provisions which read as follows: “The authority granted to the Secretary of the Treasury and the Postal Service pursuant to this subsection shall apply only to property that has been administratively forfeited.”
 
-1990—Subsec. (a)(1)(C). Pub. L. 101–647, §2524(1), inserted “1032,” after “1014,” and “or a violation of section 1341 or 1343 of such title affecting a financial institution” before period at end.
+<b>1990</b>—Subsec. (a)(1)(C). Pub. L. 101–647, §2524(1), inserted “1032,” after “1014,” and “or a violation of section 1341 or 1343 of such title affecting a financial institution” before period at end.
 
 Subsec. (a)(1)(D), (E). Pub. L. 101–647, §2525(a)(1), added subpars. (D) and (E).
 
@@ -322,7 +326,7 @@ Pub. L. 101–647, §103(2), (4), (5), inserted “or the Secretary of the Treas
 
 Subsec. (i)(2) to (5). Pub. L. 101–647, §103(2), realigned margins.
 
-1989—Subsec. (a)(1)(C). Pub. L. 101–73, §963(a), added subpar. (C).
+<b>1989</b>—Subsec. (a)(1)(C). Pub. L. 101–73, §963(a), added subpar. (C).
 
 Subsec. (e). Pub. L. 101–73, §963(b), substituted “determine—” for “determine to—” in introductory provisions, inserted “The United States shall not be liable in any action arising out of a transfer under paragraph (3), (4), or (5) of this subsection.” in closing provisions, added pars. (1) to (5), and struck out former pars. (1) and (2) which read as follows:
 
@@ -330,7 +334,7 @@ Subsec. (e). Pub. L. 101–73, §963(b), substituted “determine—” for “d
 
 “(2) any State or local law enforcement agency which participated directly in any of the acts which led to the seizure or forfeiture of the property.”
 
-1988—Subsec. (a)(1)(A). Pub. L. 100–690, §6463(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “Any property, real or personal, which represents the gross receipts a person obtains, directly or indirectly, as a result of a violation of section 1956 or 1957 of this title, or which is traceable to such gross receipts.”
+<b>1988</b>—Subsec. (a)(1)(A). Pub. L. 100–690, §6463(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “Any property, real or personal, which represents the gross receipts a person obtains, directly or indirectly, as a result of a violation of section 1956 or 1957 of this title, or which is traceable to such gross receipts.”
 
 Subsec. (a)(1)(B). Pub. L. 100–690, §6470(b), inserted “, real or personal,” after “property”, substituted “constituting, derived from, or traceable to, any proceeds obtained directly or indirectly from” for “which represents the proceeds of”, “such offense would” for “such offense or activity would”, and “punishable under the laws of the United States by imprisonment” for “punishable by imprisonment”, and inserted “constituting the offense against the foreign nation” after “such act or activity”.
 
@@ -346,7 +350,7 @@ Subsec. (b)(2). Pub. L. 100–690, §6469(b)(2), substituted “the Attorney Gen
 
 Subsec. (c). Pub. L. 100–690, §6469(b)(2), substituted “the Attorney General, the Secretary of the Treasury, or the Postal Service” for “the Attorney General or the Secretary of the Treasury” in two places.
 
-Subsec. (d). Pub. L. 100–690, §6469(b)(2), (3), substituted “the Attorney General, the Secretary of theTreasury, or the Postal Service” for “the Attorney General or the Secretary of the Treasury” and inserted provision that Attorney General have sole responsibility for disposing of petitions for remission or mitigation with respect to property involved in a judicial forfeiture proceeding.
+Subsec. (d). Pub. L. 100–690, §6469(b)(2), (3), substituted “the Attorney General, the Secretary of the Treasury, or the Postal Service” for “the Attorney General or the Secretary of the Treasury” and inserted provision that Attorney General have sole responsibility for disposing of petitions for remission or mitigation with respect to property involved in a judicial forfeiture proceeding.
 
 Subsec. (e). Pub. L. 100–690, §6469(b)(2), which directed the substitution of “the Attorney General, the Secretary of the Treasury, or the Postal Service” for “the Attorney General or the Secretary of the Treasury” was executed to reflect the probable intent of Congress by making the substitution in four places without regard as to whether or not the initial article “the” was capitalized.
 
@@ -356,9 +360,13 @@ Subsec. (g). Pub. L. 100–690, §6471(c), inserted “, Federal, State or loca
 
 Subsec. (i)(1). Pub. L. 100–690, §6470(f), substituted “subsection” for “subchapter” in fourth sentence.
 
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
+
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
+Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L.106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
 
 #### Effective Date of 1994 Amendment
 

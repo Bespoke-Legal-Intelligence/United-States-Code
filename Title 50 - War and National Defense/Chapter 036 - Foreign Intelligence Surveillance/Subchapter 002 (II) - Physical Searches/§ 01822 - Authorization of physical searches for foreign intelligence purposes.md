@@ -46,13 +46,15 @@ The court of review established under section 1803(b) of this title shall have j
 
 Judicial proceedings under this subchapter shall be concluded as expeditiously as possible. The record of proceedings under this subchapter, including applications made and orders granted, shall be maintained under security measures established by the Chief Justice of the United States in consultation with the Attorney General and the Director of National Intelligence.
 
-(Pub. L. 95–511, title III, §302, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3444; amended Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 110–261, title I, §109(b)(2)(B), July 10, 2008, 122 Stat. 2465.)
+(Pub. L. 95–511, title III, §302, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3444; amended Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 110–261, title I, §109(b)(2)(B), July 10, 2008, 122 Stat. 2465; Pub. L. 111–259, title VIII, §806(a)(2), Oct. 7, 2010, 124 Stat. 2748.)
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–261 inserted “(except when sitting en banc)” after “except that no judge”.
+<b>2010</b>—Subsecs. (a)(3), (4)(A)(ii), (e). Pub. L. 111–259 made technical amendment to directory language of Pub. L. 108–458. See 2004 Amendment note below.
 
-2004—Subsecs. (a)(3), (4)(A)(ii), (e). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+<b>2008</b>—Subsec. (c). Pub. L. 110–261 inserted “(except when sitting en banc)” after “except that no judge”.
+
+<b>2004</b>—Subsecs. (a)(3), (4)(A)(ii), (e). Pub. L. 108–458, as amended by Pub. L. 111–259, substituted “Director ofNational Intelligence” for “Director of Central Intelligence”.
 
 #### Effective Date of 2008 Amendment
 

@@ -1,6 +1,6 @@
 ### §625. Limitations on authorization of appropriations
 
-To carry out this subpart (other than sections 626, 627, and 628b of this title), there are authorized to be appropriated to the Secretary not more than $325,000,000 for each of fiscal years 2007 through 2011.
+To carry out this subpart (other than sections 626, 627, and 628b of this title), there are authorized to be appropriated to the Secretary notmore than $325,000,000 for each of fiscal years 2007 through 2011.
 
 (Aug. 14, 1935, ch. 531, title IV, §425, as added Pub. L. 109–288, §6(a), Sept. 28, 2006, 120 Stat. 1244; amended Pub. L. 110–351, title I, §102(b), Oct. 7, 2008, 122 Stat. 3956.)
 
@@ -10,7 +10,7 @@ A prior section 625, act Aug. 14, 1935, ch. 531, title IV, §425, as added Pub. 
 
 #### Amendments
 
-2008—Pub. L. 110–351 inserted “(other than sections 626, 627, and 628b of this title)” after “this subpart”.
+<b>2008</b>—Pub. L. 110–351 inserted “(other than sections 626, 627, and 628b of this title)” after “this subpart”.
 
 #### Effective Date of 2008 Amendment
 

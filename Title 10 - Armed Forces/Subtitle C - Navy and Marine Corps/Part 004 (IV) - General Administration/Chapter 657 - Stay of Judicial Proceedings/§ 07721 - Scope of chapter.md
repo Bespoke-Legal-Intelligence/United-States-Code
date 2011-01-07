@@ -40,13 +40,13 @@ In subsection (b) the words “service in” are substituted for the words “pa
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–304 substituted “chapter 311 of title 46” for “the Act of March 3, 1925 (commonly referred to as the ‘Public Vessels Act’) (46 U.S.C. App. 781–790)”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–304 substituted “chapter 311 of title 46” for “the Act of March 3, 1925 (commonly referred to as the ‘Public Vessels Act’) (46 U.S.C. App. 781–790)”.
 
-1993—Subsec. (a). Pub. L. 103–35 substituted “(46 U.S.C. App. 781–790)” for “(46 U.S.C. 781–790)”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–35 substituted “(46 U.S.C. App. 781–790)” for “(46 U.S.C. 781–790)”.
 
-1987—Subsec. (b). Pub. L. 100–26 inserted “, the term” after “In this chapter”.
+<b>1987</b>—Subsec. (b). Pub. L. 100–26 inserted “, the term” after “In this chapter”.
 
-1980—Subsec. (a). Pub. L. 96–513 substituted “the Act of March 3, 1925 (commonly referred to as the ‘Public Vessels Act’) (46 U.S.C. 781–790)” for “sections 781–790 of title 46”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “the Act of March 3, 1925 (commonly referred to as the ‘Public Vessels Act’) (46 U.S.C. 781–790)” for “sections 781–790 of title 46”.
 
 #### Effective Date of 1980 Amendment
 

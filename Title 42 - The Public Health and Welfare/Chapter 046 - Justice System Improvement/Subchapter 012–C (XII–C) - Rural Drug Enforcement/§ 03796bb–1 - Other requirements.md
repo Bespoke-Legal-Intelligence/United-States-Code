@@ -10,7 +10,7 @@ Parts A and C of subchapter V of this chapter shall apply with respect to funds 
 
 #### Amendments
 
-2006—Par. (1). Pub. L. 109–162, §1111(c)(2)(G)(i), substituted “section 3755(a)” for “section 3756(a)”.
+<b>2006</b>—Par. (1). Pub. L. 109–162, §1111(c)(2)(G)(i), substituted “section 3755(a)” for “section 3756(a)”.
 
 Par. (2). Pub. L. 109–162, §1111(c)(2)(G)(ii), substituted “section 3752” for “section 3753(a)” and “section 3755” for “section 3756”.
 

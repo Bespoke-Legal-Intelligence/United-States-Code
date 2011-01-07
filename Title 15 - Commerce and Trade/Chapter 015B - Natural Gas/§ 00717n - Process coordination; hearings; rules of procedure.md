@@ -16,7 +16,7 @@ In this section, the term “Federal authorization”—
 
 #### (2) Other agencies
 
-&emsp;Each Federal and State agency considering an aspect of an application for Federal authorization shall cooperate with the Commissionand comply with the deadlines established by the Commission.
+&emsp;Each Federal and State agency considering an aspect of an application for Federal authorization shall cooperate with the Commission and comply with the deadlines established by the Commission.
 
 #### (c) Schedule
 
@@ -58,5 +58,5 @@ The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), is title
 
 #### Amendments
 
-2005—Pub. L. 109–58 substituted “Process coordination; hearings; rules of procedure” for “Hearings; rules of procedure” in section catchline, added subsecs. (a) to (d), and redesignated former subsecs. (a) and (b) as (e) and (f), respectively.
+<b>2005</b>—Pub. L. 109–58 substituted “Process coordination; hearings; rules of procedure” for “Hearings; rules of procedure” in section catchline, added subsecs. (a) to (d), and redesignated former subsecs. (a) and (b) as (e) and (f), respectively.
 

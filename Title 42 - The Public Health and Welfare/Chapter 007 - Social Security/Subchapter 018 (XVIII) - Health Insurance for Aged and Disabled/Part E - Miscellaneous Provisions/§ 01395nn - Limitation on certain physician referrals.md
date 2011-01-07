@@ -48,7 +48,7 @@ Subsection (a)(1) of this section shall not apply in the following cases:
 
 &emsp;&emsp;(B) that are billed by the physician performing or supervising the services, by a group practice of which such physician is a member under a billing number assigned to the group practice, or by an entity that is wholly owned by such physician or such group practice,
 
-> &emsp;if the ownership or investment interest in such services meets such other requirements as the Secretary may impose by regulation as needed to protect against program or patient abuse.
+> &emsp;if the ownership or investment interest in such services meets such other requirements as the Secretary may impose by regulation as needed to protect against program or patient abuse. Such requirements shall, with respect to magnetic resonance imaging, computed tomography, positron emission tomography, and any other designated health services specified under subsection (h)(6)(D) that the Secretary determines appropriate, include a requirement that the referring physician inform the individual in writing at the time of the referral that the individual may obtain the services for which the individual is being referred from a person other than a person described in subparagraph (A)(i) and provide such individual with a written list of suppliers (as defined in section 1395x(d) of this title) who furnish such services in the area in which such individual resides.
 
 #### (3) Prepaid plans
 
@@ -98,9 +98,11 @@ The following, if not otherwise excepted under subsection (b) of this section, s
 
 &emsp;In the case of designated health services furnished in a rural area (as defined in section 1395ww(d)(2)(D) of this title) by an entity, if—
 
-&emsp;&emsp;(A) substantially all of the designated health services furnished by the entity are furnished to individuals residing in such a rural area; and
+&emsp;&emsp;(A) substantially all of the designated health services furnished by the entity are furnished to individuals residing in such a rural area;
 
-&emsp;&emsp;(B) effective for the 18-month period beginning on December 8, 2003, the entity is not a specialty hospital (as defined in subsection (h)(7) of this section).
+&emsp;&emsp;(B) effective for the 18-month period beginning on December 8, 2003, the entity is not a specialty hospital (as defined in subsection (h)(7) of this section); and
+
+&emsp;&emsp;(C) in the case where the entity is a hospital, the hospital meets the requirements of paragraph (3)(D).
 
 #### (3) Hospital ownership
 
@@ -108,9 +110,11 @@ The following, if not otherwise excepted under subsection (b) of this section, s
 
 &emsp;&emsp;(A) the referring physician is authorized to perform services at the hospital;
 
-&emsp;&emsp;(B) effective for the 18-month period beginning on December 8, 2003, the hospital is not a specialty hospital (as defined in subsection (h)(7) of this section); and
+&emsp;&emsp;(B) effective for the 18-month period beginning on December 8, 2003, the hospital is not a specialty hospital (as defined in subsection (h)(7) of this section);
 
-&emsp;&emsp;(C) the ownership or investment interest is in the hospital itself (and not merely in a subdivision of the hospital).
+&emsp;&emsp;(C) the ownership or investment interest is in the hospital itself (and not merely in a subdivision of the hospital); and
+
+&emsp;&emsp;(D) the hospital meets the requirements described in subsection (i)(1) not later than 18 months after March 23, 2010.
 
 #### (e) Exceptions relating to other compensation arrangements
 
@@ -202,7 +206,7 @@ The following shall not be considered to be a compensation arrangement described
 
 #### (ii) “Physician incentive plan” defined
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “physician incentive plan” means any compensation arrangement between an entity and a physician or physician group that may directly or indirectly have the effect of reducing or limiting services provided with respect to individuals enrolled with the entity.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “physician incentive plan” meansany compensation arrangement between an entity and a physician or physician group that may directly or indirectly have the effect of reducing or limiting services provided with respect to individuals enrolled with the entity.
 
 #### (4) Remuneration unrelated to the provision of designated health services
 
@@ -276,7 +280,7 @@ Each entity providing covered items or services for which payment may be made un
 
 #### (3) Civil money penalty and exclusion for improper claims
 
-&emsp;Any person that presents or causes to be presented a bill or a claim for a service that suchperson knows or should know is for a service for which payment may not be made under paragraph (1) or for which a refund has not been made under paragraph (2) shall be subject to a civil money penalty of not more than $15,000 for each such service. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+&emsp;Any person that presents or causes to be presented a bill or a claim for a service that such person knows or should know is for a service for which payment may not be made under paragraph (1) or for which a refund has not been made under paragraph (2) shall be subject to a civil money penalty of not more than $15,000 for each such service. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (4) Civil money penalty and exclusion for circumvention schemes
 
@@ -336,7 +340,7 @@ For purposes of this section:
 
 #### (2) Employee
 
-&emsp;An individual is considered to be “employed by” or an “employee” of an entity if the individual would be considered to be an employee of the entity under the usual common law rules applicable in determining the employer-employee relationship (as applied for purposesof section 3121(d)(2) of the Internal Revenue Code of 1986).
+&emsp;An individual is considered to be “employed by” or an “employee” of an entity if the individual would be considered to be an employee of the entity under the usual common law rules applicable in determining the employer-employee relationship (as applied for purposes of section 3121(d)(2) of the Internal Revenue Code of 1986).
 
 #### (3) Fair market value
 
@@ -444,7 +448,175 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(v) that meets such other requirements as the Secretary may specify.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1877, as added Pub. L. 101–239, title VI, §6204(a), Dec. 19, 1989, 103 Stat. 2236; amended Pub. L. 101–508, title IV, §4207(e)(1)–(3), (k)(2), formerly §4027(e)(1)–(3), (k)(2), Nov. 5, 1990, 104 Stat. 1388–121, 1388–122, 1388–124, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 103–66, title XIII, §13562(a), Aug. 10, 1993, 107 Stat. 596; Pub. L. 103–432, title I, §152(a), (b), Oct. 31, 1994, 108 Stat. 4436; Pub. L. 105–33, title IV, §4314, Aug. 5, 1997, 111 Stat. 389; Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §524(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title I, §101(e)(8)(B), title V, §507(a), Dec. 8, 2003, 117 Stat. 2152, 2295; Pub. L. 110–275, title I, §143(b)(9), July 15, 2008, 122 Stat. 2543.)
+#### (i) Requirements for hospitals to qualify for rural provider and hospital exception to ownership or investment prohibition
+
+#### (1) Requirements described
+
+&emsp;For purposes of subsection (d)(3)(D), the requirements described in this paragraph for a hospital are as follows:
+
+#### (A) Provider agreement
+
+&emsp;&emsp;The hospital had—
+
+&emsp;&emsp;&emsp;(i) physician ownership or investment on December 31, 2010; and
+
+&emsp;&emsp;&emsp;(ii) a provider agreement under section 1395cc of this title in effect on such date.
+
+#### (B) Limitation on expansion of facility capacity
+
+&emsp;&emsp;Except as provided in paragraph (3), the number of operating rooms, procedure rooms, and beds for which the hospital is licensed at any time on or after March 23, 2010, is no greater than the number of operating rooms, procedure rooms, and beds for which the hospital is licensed as of such date.
+
+#### (C) Preventing conflicts of interest
+
+&emsp;&emsp;(i) The hospital submits to the Secretary an annual report containing a detailed description of—
+
+&emsp;&emsp;&emsp;(I) the identity of each physician owner or investor and any other owners or investors of the hospital; and
+
+&emsp;&emsp;&emsp;(II) the nature and extent of all ownership and investment interests in the hospital.
+
+&emsp;&emsp;(ii) The hospital has procedures in place to require that any referring physician owner or investor discloses to the patient being referred, by a time that permits the patient to make a meaningful decision regarding the receipt of care, as determined by the Secretary—
+
+&emsp;&emsp;&emsp;(I) the ownership or investment interest, as applicable, of such referring physician in the hospital; and
+
+&emsp;&emsp;&emsp;(II) if applicable, any such ownership or investment interest of the treating physician.
+
+&emsp;&emsp;(iii) The hospital does not condition any physician ownership or investment interests either directly or indirectly on the physician owner or investor making or influencing referrals to the hospital or otherwise generating business for the hospital.
+
+&emsp;&emsp;(iv) The hospital discloses the fact that the hospital is partially owned or invested in by physicians—
+
+&emsp;&emsp;&emsp;(I) on any public website for the hospital; and
+
+&emsp;&emsp;&emsp;(II) in any public advertising for the hospital.
+
+#### (D) Ensuring bona fide investment
+
+&emsp;&emsp;(i) The percentage of the total value of the ownership or investment interests held in the hospital, or in an entity whose assets include the hospital, by physician owners or investors in the aggregate does not exceed such percentage as of March 23, 2010.
+
+&emsp;&emsp;(ii) Any ownership or investment interests that the hospital offers to a physician owner or investor are not offered on more favorable terms than the terms offered to a person who is not a physician owner or investor.
+
+&emsp;&emsp;(iii) The hospital (or any owner or investor in the hospital) does not directly or indirectly provide loans or financing for any investment in the hospital by a physician owner or investor.
+
+&emsp;&emsp;(iv) The hospital (or any owner or investor in the hospital) does not directly or indirectly guarantee a loan, make a payment toward a loan, or otherwise subsidize a loan, for any individual physician owner or investor or group of physician owners or investors that is related to acquiring any ownership or investment interest in the hospital.
+
+&emsp;&emsp;(v) Ownership or investment returns are distributed to each owner or investor in the hospital in an amount that is directly proportional to the ownership or investment interest of such owner or investor in the hospital.
+
+&emsp;&emsp;(vi) Physician owners and investors do not receive, directly or indirectly, any guaranteed receipt of or right to purchase other business interests related to the hospital, including the purchase or lease of any property under the control of other owners or investors in the hospital or located near the premises of the hospital.
+
+&emsp;&emsp;(vii) The hospital does not offer a physician owner or investor the opportunity to purchase or lease any property under the control of the hospital or any other owner or investor in the hospital on more favorable terms than the terms offered to an individual who is not a physician owner or investor.
+
+#### (E) Patient safety
+
+&emsp;&emsp;(i) Insofar as the hospital admits a patient and does not have any physician available on the premises to provide services during all hours in which the hospital is providing services to such patient, before admitting the patient—
+
+&emsp;&emsp;&emsp;(I) the hospital discloses such fact to a patient; and
+
+&emsp;&emsp;&emsp;(II) following such disclosure, the hospital receives from the patient a signed acknowledgment that the patient understands such fact.
+
+&emsp;&emsp;(ii) The hospital has the capacity to—
+
+&emsp;&emsp;&emsp;(I) provide assessment and initial treatment for patients; and
+
+&emsp;&emsp;&emsp;(II) refer and transfer patients to hospitals with the capability to treat the needs of the patient involved.
+
+#### (F) Limitation on application to certain converted facilities
+
+&emsp;&emsp;The hospital was not converted from an ambulatory surgical center to a hospital on or after March 23, 2010.
+
+#### (2) Publication of information reported
+
+&emsp;The Secretary shall publish, and update on an annual basis, the information submitted by hospitals under paragraph (1)(C)(i) on the public Internet website of the Centers for Medicare \& Medicaid Services.
+
+#### (3) Exception to prohibition on expansion of facility capacity
+
+#### (A) Process
+
+#### (i) Establishment
+
+&emsp;&emsp;&emsp;The Secretary shall establish and implement a process under which a hospital that is an applicable hospital (as defined in subparagraph (E)) or is a high Medicaid facility described in subparagraph (F) may apply for an exception from the requirement under paragraph (1)(B).
+
+#### (ii) Opportunity for community input
+
+&emsp;&emsp;&emsp;The process under clause (i) shall provide individuals and entities in the community in which the applicable hospital applying for an exception is located with the opportunity to provide input with respect to the application.
+
+#### (iii) Timing for implementation
+
+&emsp;&emsp;&emsp;The Secretary shall implement the process under clause (i) on February 1, 2012.
+
+#### (iv) Regulations
+
+&emsp;&emsp;&emsp;Not later than January 1, 2012, the Secretary shall promulgate regulations to carry out the process under clause (i).
+
+#### (B) Frequency
+
+&emsp;&emsp;The process described in subparagraph (A) shall permit an applicable hospital to apply for an exception up to once every 2 years.
+
+#### (C) Permitted increase
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subject to clause (ii) and subparagraph (D), an applicable hospital granted an exception under the process described in subparagraph (A) may increase the number of operating rooms, procedure rooms, and beds for which the applicable hospital is licensed above the baseline number of operating rooms, procedure rooms, and beds of the applicable hospital (or, if the applicable hospital has been granted a previous exception under this paragraph, above the number of operating rooms, procedure rooms, and beds for which the hospital is licensed after the application of the most recent increase under such an exception).
+
+#### (ii) 100 percent increase limitation
+
+&emsp;&emsp;&emsp;The Secretary shall not permit an increase in the number of operating rooms, procedure rooms, and beds for which an applicable hospital is licensed under clause (i) to the extent such increase would result in the number of operating rooms, procedure rooms, and beds for which the applicable hospital is licensed exceeding 200 percent of the baseline number of operating rooms, procedure rooms, and beds of the applicable hospital.
+
+#### (iii) Baseline number of operating rooms, procedure rooms, and beds
+
+&emsp;&emsp;&emsp;In this paragraph, the term “baseline number of operating rooms, procedure rooms, and beds” means the number of operating rooms, procedure rooms, and beds for which the applicable hospital is licensed as of March 23, 2010 (or, in the case of a hospital that did not have a provider agreement in effect as of such date but does have such an agreement in effect on December 31, 2010, the effective date of such provider agreement).
+
+#### (D) Increase limited to facilities on the main campus of the hospital
+
+&emsp;&emsp;Any increase in the number of operating rooms, procedure rooms, and beds for which an applicable hospital is licensed pursuant to this paragraph may only occur in facilities on the main campus of the applicable hospital.
+
+#### (E) Applicable hospital
+
+&emsp;&emsp;In this paragraph, the term “applicable hospital” means a hospital—
+
+&emsp;&emsp;&emsp;(i) that is located in a county in which the percentage increase in the population during the most recent 5-year period (as of the date of the application under subparagraph (A)) is at least 150 percent of the percentage increase in the population growth of the State in which the hospital is located during that period, as estimated by Bureau of the Census;
+
+&emsp;&emsp;&emsp;(ii) whose annual percent of total inpatient admissions that represent inpatientadmissions under the program under subchapter XIX is equal to or greater than the average percent with respect to such admissions for all hospitals located in the county in which the hospital is located;
+
+&emsp;&emsp;&emsp;(iii) that does not discriminate against beneficiaries of Federal health care programs and does not permit physicians practicing at the hospital to discriminate against such beneficiaries;
+
+&emsp;&emsp;&emsp;(iv) that is located in a State in which the average bed capacity in the State is less than the national average bed capacity; and
+
+&emsp;&emsp;&emsp;(v) that has an average bed occupancy rate that is greater than the average bed occupancy rate in the State in which the hospital is located.
+
+#### (F) High Medicaid facility described
+
+&emsp;&emsp;A high Medicaid facility described in this subparagraph is a hospital that—
+
+&emsp;&emsp;&emsp;(i) is not the sole hospital in a county;
+
+&emsp;&emsp;&emsp;(ii) with respect to each of the 3 most recent years for which data are available, has an annual percent of total inpatient admissions that represent inpatient admissions under subchapter XIX that is estimated to be greater than such percent with respect to such admissions for any other hospital located in the county in which the hospital is located; and
+
+&emsp;&emsp;&emsp;(iii) meets the conditions described in subparagraph (E)(iii).
+
+#### (G) Procedure rooms
+
+&emsp;&emsp;In this subsection, the term “procedure rooms” includes rooms in which catheterizations, angiographies, angiograms, and endoscopies are performed, except such term shall not include emergency rooms or departments (exclusive of rooms in which catheterizations, angiographies, angiograms, and endoscopies are performed).
+
+#### (H) Publication of final decisions
+
+&emsp;&emsp;Not later than 60 days after receiving a complete application under this paragraph, the Secretary shall publish in the Federal Register the final decision with respect to such application.
+
+#### (I) Limitation on review
+
+&emsp;&emsp;There shall be no administrative or judicial review under section 1395ff of this title, section 1395<i>oo</i> of this title, or otherwise of the process under this paragraph (including the establishment of such process).
+
+#### (4) Collection of ownership and investment information
+
+&emsp;For purposes of subparagraphs (A)(i) and (D)(i) of paragraph (1), the Secretary shall collect physician ownership and investment information for each hospital.
+
+#### (5) Physician owner or investor defined
+
+&emsp;For purposes of this subsection, the term “physician owner or investor” means a physician (or an immediate family member of such physician) with a direct or an indirect ownership or investment interest in the hospital.
+
+#### (6) Clarification
+
+&emsp;Nothing in this subsection shall be construed as preventing the Secretary from revoking a hospital's provider agreement if not in compliance with regulations implementing section 1395cc of this title.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1877, as added Pub. L. 101–239, title VI, §6204(a), Dec. 19, 1989, 103 Stat. 2236; amended Pub. L. 101–508, title IV, §4207(e)(1)–(3), (k)(2), formerly §4027(e)(1)–(3), (k)(2), Nov. 5, 1990, 104 Stat. 1388–121, 1388–122, 1388–124, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 103–66, title XIII, §13562(a), Aug. 10, 1993, 107 Stat. 596; Pub. L. 103–432, title I, §152(a), (b), Oct. 31, 1994, 108 Stat. 4436; Pub. L. 105–33, title IV, §4314, Aug. 5, 1997, 111 Stat. 389; Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §524(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title I, §101(e)(8)(B), title V, §507(a), Dec. 8, 2003, 117 Stat. 2152, 2295; Pub. L. 110–275, title I, §143(b)(9), July 15, 2008, 122 Stat. 2543; Pub. L. 111–148, title VI, §§6001(a), 6003(a), title X, §10601(a), Mar. 23, 2010, 124 Stat. 684, 697, 1005; Pub. L. 111–152, title I, §1106, Mar. 30, 2010, 124 Stat. 1049.)
 
 #### References in Text
 
@@ -466,9 +638,31 @@ A prior section 1395nn, act Aug. 14, 1935, ch. 531, title XVIII, §1877, as adde
 
 #### Amendments
 
-2008—Subsec. (h)(6)(L). Pub. L. 110–275 added subpar. (L).
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–148, §6003(a), inserted at end of concluding provisions “Such requirements shall, with respect to magnetic resonance imaging, computed tomography, positron emission tomography, and any other designated health services specified under subsection (h)(6)(D) that the Secretary determines appropriate, include a requirement that the referring physician inform the individual in writing at the time of the referral that the individual may obtainthe services for which the individual is being referred from a person other than a person described in subparagraph (A)(i) and provide such individual with a written list of suppliers (as defined in section 1395x(d) of this title) who furnish such services in the area in which such individual resides.”
 
-2003—Subsec. (b)(5). Pub. L. 108–173, §101(e)(8)(B), added par. (5).
+Subsec. (d)(2)(C). Pub. L. 111–148, §6001(a)(1), added subpar. (C).
+
+Subsec. (d)(3)(D). Pub. L. 111–148, §6001(a)(2), added subpar. (D).
+
+Subsec. (i). Pub. L. 111–148, §6001(a)(3), added subsec. (i).
+
+Subsec. (i)(1)(A)(i). Pub. L. 111–152, §1106(1), substituted “December 31, 2010” for “August 1, 2010”.
+
+Pub. L. 111–148, §10601(a)(1), substituted “August 1, 2010” for “February 1, 2010”.
+
+Subsec. (i)(3)(A)(i). Pub. L. 111–152, §1106(2)(A), substituted “a hospital that is an applicable hospital (as defined in subparagraph (E)) or is a high Medicaid facility described in subparagraph (F)” for “an applicable hospital (as defined in subparagraph (E))”.
+
+Subsec. (i)(3)(A)(iii). Pub. L. 111–148, §10601(a)(2)(A), substituted “February 1, 2012” for “August 1, 2011”.
+
+Subsec. (i)(3)(A)(iv). Pub. L. 111–148, §10601(a)(2)(B), substituted “January 1, 2012” for “July 1, 2011”.
+
+Subsec. (i)(3)(C)(iii). Pub. L. 111–152, §1106(2)(B), inserted “(or, in the case of a hospital that did not have a provider agreement in effect as of such date but does have such an agreement in effect on December 31, 2010, the effective date of such provider agreement)” after “March 23, 2010”.
+
+Subsec. (i)(3)(F) to (I). Pub. L. 111–152, §1106(2)(C), (D), added subpar. (F) and redesignated former subpars. (F) to (H) as (G) to (I), respectively.
+
+<b>2008</b>—Subsec. (h)(6)(L). Pub. L. 110–275 added subpar. (L).
+
+<b>2003</b>—Subsec. (b)(5). Pub. L. 108–173, §101(e)(8)(B), added par. (5).
 
 Subsec. (d)(2). Pub. L. 108–173, §507(a)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In the case of designated health services furnished in a rural area (as defined in section 1395ww(d)(2)(D) of this title) by an entity, if substantially all of the designated health services furnished by such entity are furnished to individuals residing in such a rural area.”
 
@@ -476,21 +670,21 @@ Subsec. (d)(3)(B), (C). Pub. L. 108–173, §507(a)(1)(A), added subpar. (B) and
 
 Subsec. (h)(7). Pub. L. 108–173, §507(a)(1)(B), added par. (7).
 
-1999—Subsec. (b)(3)(C). Pub. L. 106–113, §1000(a)(6) \[title V, §524(a)(1)\], struck out “or” at the end.
+<b>1999</b>—Subsec. (b)(3)(C). Pub. L. 106–113, §1000(a)(6) \[title V, §524(a)(1)\], struck out “or” at the end.
 
 Subsec. (b)(3)(D). Pub. L. 106–113, §1000(a)(6) \[title V, §524(a)(2)\], substituted “, or” for period at end.
 
 Subsec. (b)(3)(E). Pub. L. 106–113, §1000(a)(6) \[title V, §524(a)(3)\], which directed addition of provisions at end of par. (3) but which separated directory language from language to be added because of the apparent placement out of sequence of pars. (2) and (3) of §524(a), was executed by adding subpar. (E) at end of par. (3) to reflect the probable intent of Congress.
 
-1997—Subsec. (g)(6). Pub. L. 105–33 added par. (6).
+<b>1997</b>—Subsec. (g)(6). Pub. L. 105–33 added par. (6).
 
-1994—Subsec. (f). Pub. L. 103–432, §152(a)(1), (4), (5), in introductory provisions, substituted “ownership, investment, and compensation arrangements” for “ownership arrangements”, and in closing provisions, substituted “designated health services” for “covered items and services” and struck out “Such information shall first be provided not later than October 1, 1991.” after “shall specify.” and “The Secretary may waive the requirements of this subsection (and the requirements of chapter 35 of title 44 with respect to information provided under this subsection) with respect to reporting by entities in a State (except for entities providing designated health services) so long as such reporting occurs in at least 10 States, and the Secretary may waive such requirements with respect to the providers in a State required to report so long as such requirements are not waived with respect to parenteral and enteral suppliers, end stage renal disease facilities, suppliers of ambulance services, hospitals, entities providing physical therapy services, and entities providing diagnostic imaging services of any type.” at end.
+<b>1994</b>—Subsec. (f). Pub. L. 103–432, §152(a)(1), (4), (5), in introductory provisions, substituted “ownership, investment, and compensation arrangements” for “ownership arrangements”, and in closing provisions, substituted “designated health services” for “covered items and services” and struck out “Such information shall first be provided not later than October 1, 1991.” after “shall specify.” and “The Secretary may waive the requirements of this subsection (and the requirements of chapter 35 of title 44 with respect to information provided under this subsection) with respect to reporting by entities in a State (except for entities providing designated health services) so long as such reporting occurs in at least 10 States, and the Secretary may waive such requirements with respect to the providers in a State required to report so long as such requirements are not waived with respect to parenteral and enteral suppliers, end stage renal disease facilities, suppliers of ambulance services, hospitals, entities providing physical therapy services, and entities providing diagnostic imaging services of any type.” at end.
 
 Subsec. (f)(2). Pub. L. 103–432, §152(a)(2), (3), inserted “, or with a compensation arrangement (as described in subsection (a)(2)(B) of this section),” after “investment interest (as described in subsection (a)(2)(A) of this section)” and “interest or who have such a compensation relationship with the entity” before period at end.
 
 Subsec. (h)(6). Pub. L. 103–432, §152(b), in subpar. (D), substituted “services, including magnetic resonance imaging, computerized axial tomography scans, and ultrasound services” for “or other diagnostic services”, and in subpars. (E), (F), and (H), inserted “and supplies” before period at end.
 
-1993—Subsecs. (a) to (e). Pub. L. 103–66, §13562(a)(1), amended headings and text of subsecs. (a) to (e) generally, substituting present provisions for provisions which related to: prohibition of certain referrals in subsec. (a), general exceptions to both ownership and compensation arrangement prohibitions in subsec. (b), general exception related only to ownership or investment prohibition for ownership in publicly-traded securities in subsec. (c), additional exceptions related only to ownership or investment prohibition in subsec. (d), and exceptions relating to other compensation arrangements in subsec. (e).
+<b>1993</b>—Subsecs. (a) to (e). Pub. L. 103–66, §13562(a)(1), amended headings and text of subsecs. (a) to (e) generally, substituting present provisions for provisions which related to: prohibition of certain referrals in subsec. (a), general exceptions to both ownership and compensation arrangement prohibitions in subsec. (b), general exception related only to ownership or investment prohibition for ownership in publicly-traded securities in subsec. (c), additional exceptions related only to ownership or investment prohibition in subsec. (d), and exceptions relating to other compensation arrangements in subsec. (e).
 
 Subsec. (f). Pub. L. 103–66, §13562(a)(3), substituted “designated health services” for “clinical laboratory services” in concluding provisions.
 
@@ -498,13 +692,13 @@ Subsec. (g)(1). Pub. L. 103–66, §13562(a)(4), substituted “designated healt
 
 Subsec. (h). Pub. L. 103–66, §13562(a)(2), amended heading and text of subsec. (h) generally, substituting pars. (1) to (6) for former pars. (1) to (7) which defined “compensation arrangement”, “remuneration”, “employee”, “fair market value”, “group practice”, “investor”, “interested investor”, “disinterested investor”, “referral”, and “referring physician”.
 
-1990—Subsec. (b)(4), (5). Pub. L. 101–508, §4207(e)(2), formerly §4027(e)(2), as renumbered by Pub. L. 103–432, §160(d)(4), added par. (4) and redesignated former par. (4) as (5).
+<b>1990</b>—Subsec. (b)(4), (5). Pub. L. 101–508, §4207(e)(2), formerly §4027(e)(2), as renumbered by Pub. L. 103–432, §160(d)(4), added par. (4) and redesignated former par. (4) as (5).
 
 Subsec. (f). Pub. L. 101–508, §4207(e)(3)(B), (C), formerly §4027(e)(3)(B), (C), as renumbered by Pub. L. 103–432, §160(d)(4), substituted “October 1, 1991” for “1 year after December 19, 1989” in second sentence and inserted at end “The requirement of this subsection shall not apply to covered items and services provided outside the United States or to entities which the Secretary determines provides services for which payment may be made under this subchapter very infrequently. The Secretary may waive the requirements of this subsection (and the requirements of chapter 35 of title 44 with respect to information provided under this subsection) with respect to reporting by entities in a State (except for entities providing clinical laboratory services) so long as such reporting occurs in at least 10 States, and the Secretary may waive such requirements with respect to the providers in a State required to report so long as such requirements are not waived with respect to parenteral and enteral suppliers, end stage renal disease facilities, suppliers of ambulance services, hospitals, entities providing physical therapy services, and entities providing diagnostic imaging services of any type.”
 
 Subsec. (f)(2). Pub. L. 101–508, §4207(e)(3)(A), formerly §4027(e)(3)(A), as renumbered by Pub. L. 103–432, §160(d)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the names and all of the medicare provider numbers of the physicians who are interested investors or who are immediate relatives of interested investors.”
 
-Subsec. (g)(5). Pub. L. 101–508, §4207(k)(2), formerly §4027(k)(2), as renumbered by Pub. L. 103–432, §160(d)(4), inserted at end “The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.”
+Subsec. (g)(5). Pub. L. 101–508, §4207(k)(2), formerly §4027(k)(2), as renumbered by Pub. L. 103–432, §160(d)(4), inserted at end “The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civilmoney penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.”
 
 Subsec. (h)(6). Pub. L. 101–508, §4207(e)(1)(C), formerly §4027(e)(1)(C), as renumbered by Pub. L. 103–432, §160(d)(4), added par. (6). Former par. (6) redesignated (7).
 
@@ -515,6 +709,10 @@ Subsec. (h)(7). Pub. L. 101–508, §4207(e)(1)(C), formerly §4027(e)(1)(C), as
 #### Change of Name
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title VI, §6003(b), Mar. 23, 2010, 124 Stat. 697, provided that: “The amendment made by this section \[amending this section\] shall apply to services furnished on or after January 1, 2010.”
 
 #### Effective Date of 2008 Amendment
 
@@ -550,7 +748,7 @@ Exceptions.—With respect to referrals made for clinical laboratory services on
 
 &emsp;“(C) the requirements of section 1877(c)(2) of the Social Security Act \[subsec. (c)(2) of this section\] (as amended by this Act) shall not apply to any securities of a corporation that meets the requirements of section 1877(c)(2) of the Social Security Act (as in effect on the day before the date of the enactment of this Act);
 
-&emsp;“(D) section 1877(e)(3) of the Social Security Act \[subsec. (e)(3) of this section\] (as amended by this Act) shall apply, except that it shall not apply to anyarrangement that meets the requirements of subsection (e)(2) or subsection (e)(3) of section 1877 of the Social Security Act (as in effect on the day before the date of the enactment of this Act);
+&emsp;“(D) section 1877(e)(3) of the Social Security Act \[subsec. (e)(3) of this section\] (as amended by this Act) shall apply, except that it shall not apply to any arrangement that meets the requirements of subsection (e)(2) or subsection (e)(3) of section 1877 of the Social Security Act (as in effect on the day before the date of the enactment of this Act);
 
 &emsp;“(E) the requirements of clauses (iv) and (v) of section 1877(h)(4)(A), and of clause (i) of section 1877(h)(4)(B), of the Social Security Act \[subsec. (h)(4)(A)(iv), (v), (B)(i) of this section\] (as amended by this Act) shall not apply; and
 
@@ -573,6 +771,66 @@ Section 6204(c) of Pub. L. 101–239 provided that:
 #### Deadline for Certain Regulations
 
 Section 6204(d) of Pub. L. 101–239, as amended by Pub. L. 101–508, title IV, §4207(e)(4)(B), formerly §4027(e)(4)(B), Nov. 5, 1990, 104 Stat. 1388–122, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: “The Secretary of Health and Human Services shall publish final regulations to carry out section 1877 of the Social Security Act \[this section\] by not later than October 1, 1991.”
+
+#### Enforcement
+
+Pub. L. 111–148, title VI, §6001(b), Mar. 23, 2010, 124 Stat. 689, as amended by Pub. L. 111–148, title X, §10601(b), Mar. 23, 2010, 124 Stat. 1005, provided that:
+
+“(1)
+
+Ensuring compliance.—The Secretary of Health and Human Services shall establish policies and procedures to ensure compliance with the requirements described in subsection (i)(1) of section 1877 of the Social Security Act \[42 U.S.C. 1395nn(i)(1)\], as added by subsection (a)(3), beginning on the date such requirements first apply. Such policies and procedures may include unannounced site reviews of hospitals.
+
+“(2)
+
+Audits.—Beginning not later than May 1, 2012, the Secretary of Health and Human Services shall conduct audits to determine if hospitals violate the requirements referred to in paragraph (1).”
+
+#### Medicare Self-Referral Disclosure Protocol
+
+Pub. L. 111–148, title VI, §6409, Mar. 23, 2010, 124 Stat. 772, provided that:
+
+“(a)
+
+Development of Self-Referral Disclosure Protocol.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Health and Human Services, in cooperation with the Inspector General of the Department of Health and Human Services, shall establish, not later than 6 months after the date of the enactment of this Act \[Mar. 23, 2010\], a protocol to enable health care providers of services and suppliers to disclose an actual or potential violation of section 1877 of the Social Security Act (42 U.S.C. 1395nn) pursuant to a self-referral disclosure protocol (in this section referred to as an ‘SRDP’). The SRDP shall include direction to health care providers of services and suppliers on—
+
+&emsp;&emsp;“(A) a specific person, official, or office to whom such disclosures shall be made; and
+
+&emsp;&emsp;“(B) instruction on the implication of the SRDP on corporate integrity agreements and corporate compliance agreements.
+
+&emsp;“(2)
+
+Publication on internet website of srdp information.—The Secretary of Health and Human Services shall post information on the public Internet website of the Centers for Medicare \& Medicaid Services to inform relevant stakeholders of how to disclose actual or potential violations pursuant to an SRDP.
+
+&emsp;“(3)
+
+Relation to advisory opinions.—The SRDP shall be separate from the advisory opinion process set forth in regulations implementing section 1877(g) of the Social Security Act \[42 U.S.C. 1395nn(g)\].
+
+“(b)
+
+Reduction in Amounts Owed.—The Secretary of Health and Human Services is authorized to reduce the amount due and owing for all violations under section 1877 of the Social Security Act \[42 U.S.C. 1395nn\] to an amount less than that specified in subsection (g) of such section. In establishing such amount for a violation, the Secretary may consider the following factors:
+
+&emsp;“(1) The nature and extent of the improper or illegal practice.
+
+&emsp;“(2) The timeliness of such self-disclosure.
+
+&emsp;“(3) The cooperation in providing additional information related to the disclosure.
+
+&emsp;“(4) Such other factors as the Secretary considers appropriate.
+
+“(c)
+
+Report.—Not later than 18 months after the date on which the SRDP protocol is established under subsection (a)(1), the Secretary shall submit to Congress a report on the implementation of this section. Such report shall include—
+
+&emsp;“(1) the number of health care providers of services and suppliers making disclosures pursuant to the SRDP;
+
+&emsp;“(2) the amounts collected pursuant to the SRDP;
+
+&emsp;“(3) the types of violations reported under the SRDP; and
+
+&emsp;“(4) such other information as may be necessary to evaluate the impact of this section.”
 
 #### Application of Exception for Hospitals Under Development
 

@@ -32,7 +32,7 @@ Provisions similar to those in this section were contained in section 235 of thi
 
 #### Amendments
 
-1996—Subsec. (a)(6). Pub. L. 104–201, §1723(a)(2)(A), substituted “Section 5724a(c)” for “Section 5724a(a)(3)”.
+<b>1996</b>—Subsec. (a)(6). Pub. L. 104–201, §1723(a)(2)(A), substituted “Section 5724a(c)” for “Section 5724a(a)(3)”.
 
 Subsec. (a)(7). Pub. L. 104–201, §1723(a)(2)(B), substituted “Section 5724a(d)” for “Section 5724a(a)(4)”.
 

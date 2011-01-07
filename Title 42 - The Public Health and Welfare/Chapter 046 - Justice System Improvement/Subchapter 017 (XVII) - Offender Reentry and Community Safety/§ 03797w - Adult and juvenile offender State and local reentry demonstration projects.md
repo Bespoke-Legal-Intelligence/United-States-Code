@@ -126,7 +126,7 @@ The Attorney General shall give priority to grant applications under this sectio
 
 &emsp;As a condition of receiving financial assistance under this section, each applicant shall establish or empower a Reentry Task Force, or other relevant convening authority, to—
 
-&emsp;&emsp;(A) examine ways to pool resources and funding streams to promote lower recidivismrates for returning offenders and minimize the harmful effects of offenders’ time in prison, jail, or a juvenile facility on families and communities of offenders by collecting data and best practices in offender reentry from demonstration grantees and other agencies and organizations; and
+&emsp;&emsp;(A) examine ways to pool resources and funding streams to promote lower recidivism rates for returning offenders and minimize the harmful effects of offenders’ time in prison, jail, or a juvenile facility on families and communities of offenders by collecting data and best practices in offender reentry from demonstration grantees and other agencies and organizations; and
 
 &emsp;&emsp;(B) provide the analysis described in subsection (e)(4).
 
@@ -294,7 +294,7 @@ Section 17541(d)(3)(B) of this title, referred to in subsec. (j)(2)(A), was in t
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–199, §101(d), substituted “States, local governments, territories, or Indian Tribes, or any combination thereof, in partnership with stakeholders, service providers, and nonprofit organizations.” for “States, Territories, and Indian tribes, in partnership with units of local government and nonprofit organizations, for the purpose of establishing adult and juvenile offender reentry demonstration projects.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–199, §101(d), substituted “States, local governments, territories, or Indian Tribes, or any combination thereof, in partnership with stakeholders, service providers, and nonprofit organizations.” for “States, Territories, and Indian tribes, in partnership with units of local government and nonprofit organizations, for the purpose of establishing adult and juvenile offender reentry demonstration projects.”
 
 Subsec. (b)(1) to (7). Pub. L. 110–199, §101(a), added pars. (1) to (7) and struck out former pars. (1) to (4) which read as follows:
 
@@ -320,7 +320,7 @@ Subsecs. (d) to (<i>o</i>). Pub. L. 110–199, §101(c), added subsecs. (d) to (
 
 Subsec. (<i>o</i>)(1). Pub. L. 110–199, §101(e)(1), substituted “$55,000,000 for each of fiscal years 2009 and 2010” for “$15,000,000 for fiscal year 2003, $15,500,000 for fiscal year 2004, and $16,000,000 for fiscal year 2005”.
 
-Subsec. (<i>o</i>)(2). Pub. L. 110–199, §101(e)(2), amended par. (2) generally. Prior to amendment, text read as follows: “Of the amount made available to carry out this section in any fiscal year—
+Subsec. (<i>o</i>)(2). Pub. L. 110–199, §101(e)(2), amended par. (2) generally. Prior to amendment, text read as follows:“Of the amount made available to carry out this section in any fiscal year—
 
 &emsp;“(A) not more than 2 percent or less than 1 percent may be used by the Attorney General for salaries and administrative expenses; and
 

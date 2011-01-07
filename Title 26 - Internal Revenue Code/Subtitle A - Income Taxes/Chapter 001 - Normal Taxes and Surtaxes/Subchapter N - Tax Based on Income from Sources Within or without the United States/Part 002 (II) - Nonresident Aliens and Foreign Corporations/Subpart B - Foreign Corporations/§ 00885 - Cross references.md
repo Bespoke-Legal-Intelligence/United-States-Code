@@ -14,11 +14,11 @@
 
 #### Amendments
 
-1986—Pub. L. 99–514 renumbered section 884 of this title as this section.
+<b>1986</b>—Pub. L. 99–514 renumbered section 884 of this title as this section.
 
-1969—Pub. L. 91–172 redesignated pars. (2) to (6) as (1) to (5), respectively. Former par. (1), referring to section 512(a), was struck out.
+<b>1969</b>—Pub. L. 91–172 redesignated pars. (2) to (6) as (1) to (5), respectively. Former par. (1), referring to section 512(a), was struck out.
 
-1966—Par. (1). Pub. L. 89–809 redesignated par. (4) as (1). Former par. (1) redesignated (6).
+<b>1966</b>—Par. (1). Pub. L. 89–809 redesignated par. (4) as (1). Former par. (1) redesignated (6).
 
 Par. (2). Pub. L. 89–809 redesignated par. (3) as (2) and substituted “foreign corporations carrying on an insurance business within the United States, see section 842” for “foreign insurance companies, see subchapter L (sec. 801 and following)”. Former par. (2) redesignated (3).
 

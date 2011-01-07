@@ -140,7 +140,7 @@ In this section:
 
 #### (4) Coordination
 
-&emsp;To avoid duplication of effort, the Advisory Committee shall coordinate its activities with those of other Federal advisory committees working in related areas.
+&emsp;To avoid duplication of effort, the Advisory Committee shall coordinate its activities withthose of other Federal advisory committees working in related areas.
 
 #### (5) Meetings
 

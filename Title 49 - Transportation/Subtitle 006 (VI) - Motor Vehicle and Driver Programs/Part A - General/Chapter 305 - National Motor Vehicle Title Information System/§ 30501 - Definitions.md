@@ -64,9 +64,9 @@ The text of 15:2041(9) is omitted because the complete title of the Secretary of
 
 #### Amendments
 
-1997—Par. (6). Pub. L. 105–102 amended directory language of Pub. L. 104–152, §2(c). See 1996 Amendment note below.
+<b>1997</b>—Par. (6). Pub. L. 105–102 amended directory language of Pub. L. 104–152, §2(c). See 1996 Amendment note below.
 
-1996—Par. (6). Pub. L. 104–152, §3(a), substituted “Attorney General” for “Secretary of Transportation”.
+<b>1996</b>—Par. (6). Pub. L. 104–152, §3(a), substituted “Attorney General” for “Secretary of Transportation”.
 
 Pub. L. 104–152, §2(c), as amended by Pub. L. 105–102, §3(b), substituted “National Motor Vehicle Title Information System” for “National Automobile Title Information System”.
 

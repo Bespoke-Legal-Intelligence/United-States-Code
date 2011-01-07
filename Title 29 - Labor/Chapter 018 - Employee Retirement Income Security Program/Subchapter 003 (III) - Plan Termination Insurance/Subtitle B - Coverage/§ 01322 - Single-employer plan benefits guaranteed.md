@@ -16,7 +16,7 @@ Subject to the limitations contained in subsection (b) of this section, the corp
 
 (3) The amount of monthly benefits described in subsection (a) of this section provided by a plan, which are guaranteed under this section with respect to a participant, shall not have an actuarial value which exceeds the actuarial value of a monthly benefit in the form of a life annuity commencing at age 65 equal to the lesser of—
 
-&emsp;(A) his average monthly gross income from his employer during the 5 consecutive calendar year period (or, if less, during the number of calendar years in such period in which he actively participates in the plan) during which his gross income from that employer was greater than during any other such period with that employer determined by dividing 1/12 of the sum of all such gross income by the number of such calendar years in which he had such gross income, or
+&emsp;(A) his average monthly gross income from his employer during the 5 consecutive calendar year period (or, if less, during the number of calendar years in such period in which he actively participates in the plan) during which his gross income from that employer was greater than during any other such period with that employer determined by dividing 1/12 of the sum of all such gross income by thenumber of such calendar years in which he had such gross income, or
 
 &emsp;(B) $750 multiplied by a fraction, the numerator of which is the contribution and benefit base (determined under section 230 of the Social Security Act \[42 U.S.C. 430\]) in effect at the time the plan terminates and the denominator of which is such contribution and benefit base in effect in calendar year 1974.
 
@@ -64,7 +64,7 @@ Subject to the limitations contained in subsection (b) of this section, the corp
 
 #### (c) Payment by corporation to participants and beneficiaries of recovery percentage of outstanding amount of benefit liabilities
 
-(1) In addition to benefits paid under the preceding provisions of this section with respect to a terminated plan, the corporation shall pay the portion of the amount determined under paragraph (2) which is allocated with respect to each participant under section 1344(a) of this title. Such payment shall be made to such participant or to such participant's beneficiaries (including alternate payees, within the meaning of section 1056(d)(3)(K) of this title).
+(1) In addition to benefits paid under the preceding provisions of this section with respect toa terminated plan, the corporation shall pay the portion of the amount determined under paragraph (2) which is allocated with respect to each participant under section 1344(a) of this title. Such payment shall be made to such participant or to such participant's beneficiaries (including alternate payees, within the meaning of section 1056(d)(3)(K) of this title).
 
 (2) The amount determined under this paragraph is an amount equal to the product derived by multiplying—
 
@@ -112,7 +112,7 @@ If a contributing sponsor of a plan has filed or has had filed against such pers
 
 #### (h) Special rule for plans electing certain funding requirements
 
-If any plan makes an election under section 402(a)(1) of the Pension Protection Act of 2006and is terminated effective before the end of the 10-year period beginning on the first day of the first applicable plan year—
+If any plan makes an election under section 402(a)(1) of the Pension Protection Act of 2006 and is terminated effective before the end of the 10-year period beginning on the first day of the first applicable plan year—
 
 &emsp;(1) this section shall be applied—
 
@@ -130,13 +130,13 @@ If any plan makes an election under section 402(a)(1) of the Pension Protection 
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, and XVI of the Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended.Titles II, and XVI of the Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 402(a)(1) of the Pension Protection Act of 2006, referred to in subsec. (h), is section 402(a)(1) of Pub. L. 109–280, which is set out as a note under section 430 of Title 26, Internal Revenue Code.
 
 #### Amendments
 
-2006—Subsec. (b)(5). Pub. L. 109–280, §407(a), amended par. (5) generally. Prior to amendment, par. (5) related to the amount of benefits guaranteed under this section in the case of a participant in a plan who was covered by the plan as a substantial owner.
+<b>2006</b>—Subsec. (b)(5). Pub. L. 109–280, §407(a), amended par. (5) generally. Prior to amendment, par. (5) related to the amount of benefits guaranteed under this section in the case of a participant in a plan who was covered by the plan as a substantial owner.
 
 Subsec. (b)(8). Pub. L. 109–280, §403(a), added par. (8).
 
@@ -152,11 +152,11 @@ Subsec. (g). Pub. L. 109–280, §404(a), which directed amendment of this secti
 
 Subsec. (h). Pub. L. 109–280, §402(g)(2)(A), added subsec. (h).
 
-1994—Subsec. (b)(3). Pub. L. 103–465, §777(a), inserted at end “The maximum guaranteed monthly benefit shall not be reduced solely on account of the age of a participant in the case of a benefit payable by reason of disability that occurred on or before the termination date, if the participant demonstrates to the satisfaction of the corporation that the Social Security Administration has determined that the participant satisfies the definition of disability under title II or XVI of the Social Security Act, and the regulations thereunder. If a benefit payable by reason of disability is converted to an early or normal retirement benefit for reasons other than a change in the health of the participant, such early or normal retirement benefit shall be treated as a continuation of the benefit payable by reason of disability and this subparagraph shall continue to apply.”
+<b>1994</b>—Subsec. (b)(3). Pub. L. 103–465, §777(a), inserted at end “The maximum guaranteed monthly benefit shall not be reduced solely on account of the age of a participant in the case of a benefit payable by reason of disability that occurred on or before the termination date, if the participant demonstrates to the satisfaction of the corporation that the Social Security Administration has determined that the participant satisfies the definition of disability under title II or XVI of the Social Security Act, and the regulations thereunder. If a benefit payable by reason of disability is converted to an early or normal retirement benefit for reasons other than a change in the health of the participant, such early or normal retirement benefit shall be treated as a continuation of the benefit payable by reason of disability and this subparagraph shall continue to apply.”
 
 Subsec. (f). Pub. L. 103–465, §766(c), added subsec. (f).
 
-1989—Subsec. (a). Pub. L. 101–239, §7894(g)(3)(B), substituted “this subchapter” for “section 1321 of this title”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7894(g)(3)(B), substituted “this subchapter” for “section 1321 of this title”.
 
 Subsec. (b)(2). Pub. L. 101–239, §7894(g)(1), substituted “60-month” for “60 month”.
 
@@ -168,13 +168,13 @@ Pub. L. 101–239, §7881(f)(4), struck out “(in the case of a deceased partic
 
 Subsec. (c)(3)(B)(ii). Pub. L. 101–239, §7881(f)(5), inserted before period at end “, and during the 5-Federal fiscal year period ending with the fiscal year preceding the fiscal year in which occurs the date of the notice of intent to terminate with respect to the plan termination for which the recovery ratio is being determined”.
 
-1987—Subsecs. (c) to (e). Pub. L. 100–203 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+<b>1987</b>—Subsecs. (c) to (e). Pub. L. 100–203 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
 Subsec. (b)(7). Pub. L. 99–272, §11016(c)(8), in provisions following subpar. (B) substituted “12 months beginning with” for “12 months following”.
 
 Subsec. (d). Pub. L. 99–272, §11016(c)(9), added subsec. (d).
 
-1980—Subsec. (a). Pub. L. 96–364, §403(c)(2), inserted “, in accordance with this section,” after “guarantee” and “single-employer” before “plan which”, and struck out “the terms of” after “under”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–364, §403(c)(2), inserted “, in accordance with this section,” after “guarantee” and “single-employer” before “plan which”, and struck out “the terms of” after “under”.
 
 Subsec. (b). Pub. L. 96–364, §403(c)(3), (4), in par. (1) substituted “(7)” for “(8)”, struck out par. (5) relating to receipt of a life annuity commencing at age 65, and redesignated pars. (6) to (8) as (5) to (7), respectively.
 
@@ -184,7 +184,7 @@ Amendment by section 402(g)(2)(A) of Pub. L. 109–280 applicable to plan years 
 
 Pub. L. 109–280, title IV, §403(b), Aug. 17, 2006, 120 Stat. 928, provided that: “The amendment made by this section \[amending this section\] shall apply to benefits that become payable as a result of an event which occurs after July 26, 2005.”
 
-Pub. L. 109–280, title IV, §404(c), Aug. 17, 2006, 120 Stat. 928, provided that: “The amendments made this section \[amending this section and section 1344 of thistitle\] shall apply with respect to proceedings initiated under title 11, United States Code, or under any similar Federal law or law of a State or political subdivision, on or after the date that is 30 days after the date of enactment of this Act \[Aug. 17, 2006\].”
+Pub. L. 109–280, title IV, §404(c), Aug. 17, 2006, 120 Stat. 928, provided that: “The amendments made this section \[amending this section and section 1344 of this title\] shall apply with respect to proceedings initiated under title 11, United States Code, or under any similar Federal law or law of a State or political subdivision, on or after the date that is 30 days after the date of enactment of this Act \[Aug. 17, 2006\].”
 
 Amendment by section 407(a) of Pub. L. 109–280 applicable to plan terminations under section 1341(c) of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 31, 2005, and under section 1342 of this title with respect to which notices of determination are provided under such section after such date, see section 407(d)(1) of Pub. L. 109–280, set out as a note under section 1321 of this title.
 

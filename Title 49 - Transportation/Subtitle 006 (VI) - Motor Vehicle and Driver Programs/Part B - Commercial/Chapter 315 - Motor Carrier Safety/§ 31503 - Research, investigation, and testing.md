@@ -48,9 +48,9 @@ In subsection (b), the words “In carrying out this chapter” are substituted 
 
 #### Amendments
 
-1995—Subsec. (a). Pub. L. 104–88 substituted “subchapter I of chapter 135” for “subchapter II of chapter 105”.
+<b>1995</b>—Subsec. (a). Pub. L. 104–88 substituted “subchapter I of chapter 135” for “subchapter II of chapter 105”.
 
-1994—Pub. L. 103–272 renumbered section 3103 of this title as this section and amended it generally, restating it without substantive change.
+<b>1994</b>—Pub. L. 103–272 renumbered section 3103 of this title as this section and amended it generally, restating it without substantive change.
 
 #### Effective Date of 1995 Amendment
 

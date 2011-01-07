@@ -12,11 +12,11 @@ The notice instituting proceedings pursuant to subsection (a) of this section sh
 
 #### (1) In general
 
-&emsp;Whenever the Commission determines that the alleged violation or threatened violation specified in the notice instituting proceedings pursuant to subsection (a) of this section, or the continuation thereof, is likely to result in significant dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest, including, but not limited to, losses to the Securities Investor Protection Corporation, prior to the completion of the proceedings, the Commission may enter a temporary order requiring the respondent to cease and desist from the violation or threatened violation and to take such action to prevent the violation or threatened violation and to prevent dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest as the Commission deems appropriate pending completion of such proceedings. Such an order shall be entered only after notice and opportunity for a hearing, unless the Commission determines that notice and hearing prior to entry would be impracticable or contrary to the public interest. A temporary order shall become effective upon service upon the respondent and, unless set aside, limited, or suspended by the Commission or a court of competent jurisdiction, shall remain effective and enforceable pending the completion of the proceedings.
+&emsp;Whenever the Commission determines that the alleged violation or threatened violation specified in the notice instituting proceedings pursuant to subsection (a) of this section, or the continuation thereof, is likely to result in significant dissipation or conversion of assets, significant harm to investors, or substantialharm to the public interest, including, but not limited to, losses to the Securities Investor Protection Corporation, prior to the completion of the proceedings, the Commission may enter a temporary order requiring the respondent to cease and desist from the violation or threatened violation and to take such action to prevent the violation or threatened violation and to prevent dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest as the Commission deems appropriate pending completion of such proceedings. Such an order shall be entered only after notice and opportunity for a hearing, unless the Commission determines that notice and hearing prior to entry would be impracticable or contrary to the public interest. A temporary order shall become effective upon service upon the respondent and, unless set aside, limited, or suspended by the Commission or a court of competent jurisdiction, shall remain effective and enforceable pending the completion of the proceedings.
 
 #### (2) Applicability
 
-&emsp;paragraph (1) subsection <sup>1</sup> shall apply only to a respondent that acts, or, at the time of the alleged misconduct acted, as a broker, dealer, investment adviser, investment company, municipal securities dealer, government securities broker, government securities dealer, registered public accounting firm (as defined in section 7201 of this title), or transfer agent, or is, or was at the time of the alleged misconduct, an associated person of, or a person seeking to become associated with, any of the foregoing.
+&emsp;Paragraph (1) shall apply only to a respondent that acts, or, at the time of the alleged misconduct acted, as a broker, dealer, investment adviser, investment company, municipal securities dealer, government securities broker, government securities dealer, registered public accounting firm (as defined in section 7201 of this title), or transfer agent, or is, or was at the time of the alleged misconduct, an associated person of, or a person seeking to become associated with, any of the foregoing.
 
 #### (3) Temporary freeze
 
@@ -68,7 +68,7 @@ The notice instituting proceedings pursuant to subsection (a) of this section sh
 
 &emsp;&emsp;(B) 10 days after the Commission renders a decision on an application and hearing under paragraph (1), with respect to any temporary cease-and-desist order entered without a prior Commission hearing,
 
-> &emsp;the respondent may apply to the United States district court for the district in which the respondent resides or has its principal place of business, or for the District of Columbia, for an order setting aside, limiting, or suspending the effectiveness or enforcement of the order, and the court shall have jurisdiction to enter such an order. A respondent served with a temporary cease-and-desist order entered without a prior Commission hearing may not apply to the court except after hearing and decision by the Commission on the respondent's application under paragraph (1) of this subsection.
+> &emsp;the respondent may apply to the United States district court for the district in which the respondent resides or has its principal place ofbusiness, or for the District of Columbia, for an order setting aside, limiting, or suspending the effectiveness or enforcement of the order, and the court shall have jurisdiction to enter such an order. A respondent served with a temporary cease-and-desist order entered without a prior Commission hearing may not apply to the court except after hearing and decision by the Commission on the respondent's application under paragraph (1) of this subsection.
 
 #### (3) No automatic stay of temporary order
 
@@ -86,7 +86,7 @@ In any cease-and-desist proceeding under subsection (a) of this section, the Com
 
 In any cease-and-desist proceeding under subsection (a) of this section, the Commission may issue an order to prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who has violated section 78j(b) of this title or the rules or regulations thereunder, from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78<i>l</i> of this title, or that is required to file reports pursuant to section 78<i>o</i>(d) of this title, if the conduct of that person demonstrates unfitness to serve as an officer or director of any such issuer.
 
-(June 6, 1934, ch. 404, title I, §21C, as added Pub. L. 101–429, title II, §203, Oct. 15, 1990, 104 Stat. 939; amended Pub. L. 107–204, §3(b)(3), title XI, §§1103, 1105(a), July 30, 2002, 116 Stat. 749, 807, 809.)
+(June 6, 1934, ch. 404, title I, §21C, as added Pub. L. 101–429, title II, §203, Oct. 15, 1990, 104 Stat. 939; amended Pub. L. 107–204, §3(b)(3), title XI, §§1103, 1105(a), July 30, 2002, 116 Stat. 749, 807, 809; Pub. L. 111–203, title IX, §985(b)(8), July 21, 2010, 124 Stat. 1934.)
 
 #### References in Text
 
@@ -96,7 +96,9 @@ Section 7201 of this title, referred to in subsec. (c)(2), was in the original �
 
 #### Amendments
 
-2002—Subsec. (c)(2). Pub. L. 107–204, §1103(b), substituted “paragraph (1)” for “This”.
+<b>2010</b>—Subsec. (c)(2). Pub. L. 111–203 substituted “Paragraph (1)” for “paragraph (1) subsection”.
+
+<b>2002</b>—Subsec. (c)(2). Pub. L. 107–204, §1103(b), substituted “paragraph (1)” for “This”.
 
 Pub. L. 107–204, §3(b)(3), inserted “registered public accounting firm (as defined in section 7201 of this title),” after “government securities dealer,”.
 
@@ -104,9 +106,11 @@ Subsec. (c)(3). Pub. L. 107–204, §1103(a), added par. (3).
 
 Subsec. (f). Pub. L. 107–204, §1105(a), added subsec. (f).
 
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
 #### Effective Date
 
 Section effective Oct. 15, 1990, with provisions relating to civil penalties and accounting and disgorgement, see section 1(c)(1), (2) of Pub. L. 101–429, set out in an Effective Date of 1990 Amendment note under section 77g of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

@@ -22,7 +22,7 @@ Projects and programs for which grants and contracts are made under this section
 
 (2)(A) Each applicant from within a State, upon filing its application with the Secretary for a grant or contract under this section, shall submit a copy of its application for review by the State agency responsible for the administration of alcohol abuse and alcoholism prevention, treatment, and rehabilitation activities. Such State agency shall be given not more than thirty days from the date of receipt of the application to submit to the Secretary, in writing, an evaluation of the project or program set forth in the application. Such evaluation shall include comments on the relationship of the project to other projects and programs pending and approved and to any State comprehensive plan for treatment and prevention of alcohol abuse and alcoholism. The State shall furnish the applicant a copy of any such evaluation.
 
-(B)(i) Except as provided in clause (ii), each application for a grant under this section shall be submitted by the Secretary to the National Advisory Council on Alcohol Abuse and Alcoholism for its review. The Secretary may approve an application for a grant under this section only if it is recommended for approval by such Council.
+(B)(i) Except as provided in clause (ii), each application for a grant under this section shall be submitted by the Secretary to the NationalAdvisory Council on Alcohol Abuse and Alcoholism for its review. The Secretary may approve an application for a grant under this section only if it is recommended for approval by such Council.
 
 (ii) Clause (i) shall not apply to an application for a grant under this section for a project or program for any period of 12 consecutive months for which period payments under such grant will be less than $250,000, if an application for a grant under this section for such project or program and for a period of time which includes such 12-month period has been submitted to, and approved by, the Secretary.
 
@@ -62,25 +62,25 @@ Provisions similar to those comprising this section were contained in Pub. L. 88
 
 #### Amendments
 
-1983—Subsec. (a). Pub. L. 97–414, §9(d)(1), amended directory language of Pub. L. 97–35, §963(b)(4), to correct a typographical error, and did not involve any change in text. See 1981 Amendment note below.
+<b>1983</b>—Subsec. (a). Pub. L. 97–414, §9(d)(1), amended directory language of Pub. L. 97–35, §963(b)(4), to correct a typographical error, and did not involve any change in text. See 1981 Amendment note below.
 
 Subsec. (a)(3). Pub. L. 97–414, §9(d)(2), substituted a comma for the period at end.
 
 Subsec. (c)(4). Pub. L. 98–24 inserted parenthetical reference to Native Hawaiians and Native American Pacific Islanders.
 
-1981—Subsec. (a). Pub. L. 97–35, §963(b), as amended by Pub. L. 97–414, §9(d)(1), restructured and revised provisions and in par. (1) inserted provisions respecting program emphasis, struck out pars. (3) and (5), relating to services for underserved populations and programs and services for law enforcement personnel, etc., respectively, and redesignated former par. (4) as (3).
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §963(b), as amended by Pub. L. 97–414, §9(d)(1), restructured and revised provisions and in par. (1) inserted provisions respecting program emphasis, struck out pars. (3) and (5), relating to services for underserved populations and programs and services for law enforcement personnel, etc., respectively, and redesignated former par. (4) as (3).
 
 Subsec. (c). Pub. L. 97–35, §963(c), revised and restructured provisions and, among changes, in pars. (2), (3), and (4) made changes in phraseology, added pars. (5) and (7), and redesignated former par. (5) as (6).
 
-1980—Subsec. (a). Pub. L. 96–180, §11(a), added par. (1), redesignated as pars. (2) to (5) former pars. (1) to (4), and substituted in par. (2) “support projects of a demonstrable value in developing” for “conduct demonstration and evaluation projects, including projects designed to develop” and in par. (3) “the elderly, women, the handicapped, families of alcoholics, and victims of alcohol-related domestic violence” for “female alcoholics, and individuals in geographic areas where such services are not otherwise adequately available”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–180, §11(a), added par. (1), redesignated as pars. (2) to (5) former pars. (1) to (4), and substituted in par. (2) “support projects of a demonstrable value in developing” for “conduct demonstration and evaluation projects, including projects designed to develop” and in par. (3) “the elderly, women, the handicapped, families of alcoholics, and victims of alcohol-related domestic violence” for “female alcoholics, and individuals in geographic areas where such services are not otherwise adequately available”.
 
 Subsec. (b). Pub. L. 96–180, §11(b), added cl. (1), redesignated as cls. (2) to (4) former cls. (1) to (3), and in cl. (2) inserted “(in the case of prevention and treatment services)” after “seek”.
 
 Subsec. (c)(4). Pub. L. 96–180, §11(c), required Secretary to encourage submission of applications, incorporated existing provisions in cls. (A) and (C), and inserted cl. (B).
 
-1977—Subsec. (c)(2)(B)(i). Pub. L. 95–83 substituted “its” for “his”.
+<b>1977</b>—Subsec. (c)(2)(B)(i). Pub. L. 95–83 substituted “its” for “his”.
 
-1976—Subsec. (a). Pub. L. 94–371, §6(a), inserted provisions which authorized development of effective coordination of all alcoholism treatment resources available, emphasis in treatment projects of those of the population currently underserved, and, training of personnel to enable them to meet certification requirements of public and private accreditation.
+<b>1976</b>—Subsec. (a). Pub. L. 94–371, §6(a), inserted provisions which authorized development of effective coordination of all alcoholism treatment resources available, emphasis in treatment projects of those of the population currently underserved, and, training of personnel to enable them to meet certification requirements of public and private accreditation.
 
 Subsec. (b). Pub. L. 94–371, §6(b), added cl. (2). Former cl. (2) redesignated (3).
 

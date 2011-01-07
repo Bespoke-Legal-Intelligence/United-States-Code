@@ -30,7 +30,7 @@ A creditor may not unilaterally terminate any account under an open end consumer
 
 &emsp;&emsp;(B) Prohibit additional extensions of credit or reduce the credit limit applicable to an account under the plan during any period in which the value of the consumer's principal dwelling which secures any outstanding balance is significantly less than the original appraisal value of the dwelling.
 
-&emsp;&emsp;(C) Prohibit additional extensions of credit or reduce the credit limit applicable to the account during any period in which the creditor has reason to believe that the consumer will be unable to comply with the repayment requirements of the account due to a material change in the consumer's financial circumstances.
+&emsp;&emsp;(C) Prohibit additional extensions of credit or reduce the credit limit applicable to theaccount during any period in which the creditor has reason to believe that the consumer will be unable to comply with the repayment requirements of the account due to a material change in the consumer's financial circumstances.
 
 &emsp;&emsp;(D) Prohibit additional extensions of credit or reduce the credit limit applicable to the account during any period in which the consumer is in default with respect to any material obligation of the consumer under the agreement.
 
@@ -70,11 +70,19 @@ If any term or condition described in section 1637a(a) of this title which is di
 
 &emsp;For purposes of determining when a nonrefundable fee may be imposed in accordance with this subsection if the disclosures and pamphlet referred to in paragraph (1) are mailed to the consumer, the date of the receipt of the disclosures by such consumer shall be deemed to be 3 business days after the date of mailing by the creditor.
 
-(Pub. L. 90–321, title I, §137, as added Pub. L. 100–709, §3, Nov. 23, 1988, 102 Stat. 4731; amended Pub. L. 103–325, title I, §154(c), Sept. 23, 1994, 108 Stat. 2197.)
+(Pub. L. 90–321, title I, §137, as added Pub. L. 100–709, §3, Nov. 23, 1988, 102 Stat. 4731; amended Pub. L. 103–325, title I, §154(c), Sept. 23, 1994, 108 Stat. 2197; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–325 inserted at end “This subsection does not apply to reverse mortgage transactions.”
+<b>1994</b>—Subsec. (b). Pub. L. 103–325 inserted at end “This subsection does not apply to reverse mortgage transactions.”
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

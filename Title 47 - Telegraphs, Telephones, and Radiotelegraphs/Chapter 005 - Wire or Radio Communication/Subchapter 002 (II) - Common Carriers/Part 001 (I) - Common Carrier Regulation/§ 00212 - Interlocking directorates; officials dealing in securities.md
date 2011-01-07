@@ -6,7 +6,7 @@ It shall be unlawful for any person to hold the position of officer or director 
 
 #### Amendments
 
-1994—Pub. L. 103–414 substituted “It shall” for “After sixty days from June 19, 1934, it shall”.
+<b>1994</b>—Pub. L. 103–414 substituted “It shall” for “After sixty days from June 19, 1934, it shall”.
 
-1956—Act Aug. 2, 1956, inserted proviso that Commission may authorize persons to hold position of officer or director in more than one carrier, where carrier owns more than 50 percent of the stock of the other carriers, or that 50 percent or more of the stock of all such carriers is owned by the same person, struck out “such” before “carrier” in sentence after proviso, inserted “subject to this chapter” after that word, and substituted “carriers” for “carrier” toward end of said sentence.
+<b>1956</b>—Act Aug. 2, 1956, inserted proviso that Commission may authorize persons to hold position of officer or director in more than one carrier, where carrier owns more than 50 percent of the stock of the other carriers, or that 50 percent or more of the stock of all such carriers is owned by the same person, struck out “such” before “carrier” in sentence after proviso, inserted “subject to this chapter” after that word, and substituted “carriers” for “carrier” toward end of said sentence.
 

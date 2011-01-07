@@ -74,23 +74,23 @@ This chapter, referred to in subsecs. (a) and (b)(6), was in the original a refe
 
 #### Amendments
 
-2004—Subsec. (a)(7), (8). Pub. L. 108–264, §102(b), struck out “and” at end of par. (7), added par. (8), and struck out former par. (8) which read as follows: “for costs of preparing the report under section 577 of the Riegle Community Development and Regulatory Improvement Act of 1994, except that the fund shall be available for the purpose under this paragraph in an amount not to exceed an aggregate of $5,000,000 over the 2-year period beginning on September 23, 1994.”
+<b>2004</b>—Subsec. (a)(7), (8). Pub. L. 108–264, §102(b), struck out “and” at end of par. (7), added par. (8), and struck out former par. (8) which read as follows: “for costs of preparing the report under section 577 of the Riegle Community Development and Regulatory Improvement Act of 1994, except that the fund shall be available for the purpose under this paragraph in an amount not to exceed an aggregate of $5,000,000 over the 2-year period beginning on September 23, 1994.”
 
 Subsec. (a)(9). Pub. L. 108–264, §104(b), added par. (9).
 
-1994—Subsec. (a). Pub. L. 103–325, §§554(b)(1), 577(h)(1), in introductory provisions, substituted “shall” for “is authorized to” after “Director”, inserted “an account separate from any other accounts or funds available to the Director and shall be” after “which shall be”, and inserted “(except as otherwise provided in this section)” after “without fiscal year limitation”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–325, §§554(b)(1), 577(h)(1), in introductory provisions, substituted “shall” for “is authorized to” after “Director”, inserted “an account separate from any other accounts or funds available to the Director and shall be” after “which shall be”, and inserted “(except as otherwise provided in this section)” after “without fiscal year limitation”.
 
 Subsec. (a)(6) to (8). Pub. L. 103–325, §§542, 554(b)(2), 577(h)(2), added pars. (6) to (8), respectively.
 
-1990—Subsec. (a)(4). Pub. L. 101–508 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “to pay such administrative expenses (or portion of such expenses) of carrying out the flood insurance program as he may deem necessary; and”.
+<b>1990</b>—Subsec. (a)(4). Pub. L. 101–508 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “to pay such administrative expenses (or portion of such expenses) of carrying out the flood insurance program as he may deem necessary; and”.
 
-1988—Subsec. (e). Pub. L. 100–242 substituted “title 31, United States Code,” for “title 31, United States Code”, which for purposes of codification was translated as “title 31”, requiring no change in text.
+<b>1988</b>—Subsec. (e). Pub. L. 100–242 substituted “title 31, United States Code,” for “title 31, United States Code”, which for purposes of codification was translated as “title 31”, requiring no change in text.
 
-1984—Subsec. (e). Pub. L. 98–479 substituted “sections 9103 and 9104 of title 31” for “law (sections 102, 103, and 104 of the Government Corporations Control Act (31 U.S.C. 847–849))”.
+<b>1984</b>—Subsec. (e). Pub. L. 98–479 substituted “sections 9103 and 9104 of title 31” for “law (sections 102, 103, and 104 of the Government Corporations Control Act (31 U.S.C. 847–849))”.
 
-1983—Subsecs. (a), (b)(5), (c), (d). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+<b>1983</b>—Subsecs. (a), (b)(5), (c), (d). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
 
-1981—Subsec. (a). Pub. L. 97–35, §341(c)(1), inserted reference to subsec. (f) of this section.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §341(c)(1), inserted reference to subsec. (f) of this section.
 
 Subsec. (f). Pub. L. 97–35, §341(c)(2), added subsec. (f).
 

@@ -40,7 +40,7 @@ The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a), is P
 
 #### Amendments
 
-1978—Subsecs. (e), (f). Pub. L. 95–620, §805(b), inserted “preceding provisions of” before “this section”.
+<b>1978</b>—Subsecs. (e), (f). Pub. L. 95–620, §805(b), inserted “preceding provisions of” before “this section”.
 
 Subsec. (g). Pub. L. 95–620, §805(a), added subsec. (g).
 

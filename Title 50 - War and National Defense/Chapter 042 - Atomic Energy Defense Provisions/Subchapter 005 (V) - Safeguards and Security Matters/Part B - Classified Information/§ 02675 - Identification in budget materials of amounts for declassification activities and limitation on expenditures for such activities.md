@@ -30,5 +30,5 @@ Section was formerly set out as a note under section 435 of this title prior to 
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–136, §3141(h)(15)(D), substituted “October 5, 1999,” for “the date of the enactment of this Act”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–136, §3141(h)(15)(D), substituted “October 5, 1999,” for “the date of the enactment of this Act”.
 

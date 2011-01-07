@@ -82,7 +82,7 @@ In the case of an eligible woman, the services referred to in subsection (a)(3) 
 
 #### (2) Status as medicaid provider
 
-&emsp;(A) Subject to subparagraphs (B) and (C), the Director may make an award under subsection (a) of this section only if, in the case of any authorized service that is available pursuant to the State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the State involved—
+&emsp;(A) Subject to subparagraphs (B) and (C), the Director may make an award under subsection (a) of this section only if, in the case of any authorized service that is available pursuant to the State plan approved under title XIX ofthe Social Security Act \[42 U.S.C. 1396 et seq.\] for the State involved—
 
 &emsp;&emsp;(i) the applicant for the award will provide the service directly, and the applicant has entered into a participation agreement under the State plan and is qualified to receive payments under such plan; or
 
@@ -184,7 +184,7 @@ For purposes of this section:
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary to fiscal years 2001 through 2003.
 
-(July 1, 1944, ch. 373, title V, §508, as added Pub. L. 102–321, title I, §108(a), July 10, 1992, 106 Stat.336; amended Pub. L. 106–310, div. B, title XXXIII, §3301(a), Oct. 17, 2000, 114 Stat. 1207.)
+(July 1, 1944, ch. 373, title V, §508, as added Pub. L. 102–321, title I, §108(a), July 10, 1992, 106 Stat. 336; amended Pub. L. 106–310, div. B, title XXXIII, §3301(a), Oct. 17, 2000, 114 Stat. 1207.)
 
 #### References in Text
 
@@ -198,7 +198,7 @@ A prior section 508 of act July 1, 1944, which was classified to section 290aa�
 
 #### Amendments
 
-2000—Subsec. (r). Pub. L. 106–310 reenacted heading without change and amended text generally, substituting provisions authorizing appropriations for fiscal years 2001 to 2003 for provisions authorizing appropriations for fiscal years 1993 and 1994 and authorizing appropriations from the special forfeiture fund of the Director of the Office of National Drug Control Policy.
+<b>2000</b>—Subsec. (r). Pub. L. 106–310 reenacted heading without change and amended text generally, substituting provisions authorizing appropriations for fiscal years 2001 to 2003 for provisions authorizing appropriations for fiscal years 1993 and 1994 and authorizing appropriations from the special forfeiture fund of the Director of the Office of National Drug Control Policy.
 
 #### Change of Name
 

@@ -1,7 +1,5 @@
 ### \[PART IV—REPEALED\]
 
-<i><sup>1</sup></i><i> So in original. A reference to 15 U.S.C. 80a–2(a)(36) was probably intended.</i>
-
 
 ---
 

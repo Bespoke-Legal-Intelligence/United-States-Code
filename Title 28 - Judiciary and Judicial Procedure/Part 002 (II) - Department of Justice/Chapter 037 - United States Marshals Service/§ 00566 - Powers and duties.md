@@ -6,7 +6,7 @@
 
 (c) Except as otherwise provided by law or Rule of Procedure, the United States Marshals Service shall execute all lawful writs, process, and orders issued under the authority of the United States, and shall command all necessary assistance to execute its duties.
 
-(d) Each United States marshal, deputy marshal, and any other official of the Service as may be designated by the Director may carry firearms and make arrests without warrant for any offense against the United States committed in his or her presence, or for any felony cognizable under the laws of the United States if he or she has reasonable grounds to believe that the person to be arrested has committed or is committing such felony.
+(d) Each United States marshal, deputy marshal, and any other official of the Service asmay be designated by the Director may carry firearms and make arrests without warrant for any offense against the United States committed in his or her presence, or for any felony cognizable under the laws of the United States if he or she has reasonable grounds to believe that the person to be arrested has committed or is committing such felony.
 
 (e)(1) The United States Marshals Service is authorized to—
 
@@ -26,7 +26,7 @@
 
 (h) The United States marshals shall pay such office expenses of United States Attorneys as may be directed by the Attorney General.
 
-(i) The Director of the United States Marshals Service shall consult with the Judicial Conference of the United States on a continuing basis regarding the security requirements for the judicial branch of the United States Government, to ensure that the views of the Judicial Conference regarding the security requirementsfor the judicial branch of the Federal Government are taken into account when determining staffing levels, setting priorities for programs regarding judicial security, and allocating judicial security resources. In this paragraph, the term “judicial security” includes the security of buildings housing the judiciary, the personal security of judicial officers, the assessment of threats made to judicial officers, and the protection of all other judicial personnel. The United States Marshals Service retains final authority regarding security requirements for the judicial branch of the Federal Government.
+(i) The Director of the United States Marshals Service shall consult with the Judicial Conference of the United States on a continuing basis regarding the security requirements for the judicial branch of the United States Government, to ensure that the views of the Judicial Conference regarding the security requirements for the judicial branch of the Federal Government are taken into account when determining staffing levels, setting priorities for programs regarding judicial security, and allocating judicial security resources. In this paragraph, the term “judicial security” includes the security of buildings housing the judiciary, the personal security of judicial officers, the assessment of threats made to judicial officers, and the protection of all other judicial personnel. The United States Marshals Service retains final authority regarding security requirements for the judicial branch of the Federal Government.
 
 (Added Pub. L. 100–690, title VII, §7608(a)(1), Nov. 18, 1988, 102 Stat. 4514; amended Pub. L. 110–177, title I, §§101(a), 102(a), Jan. 7, 2008, 121 Stat. 2534, 2535.)
 
@@ -36,7 +36,7 @@ A prior section 566, added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 620
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–177, §102(a), substituted “, the Court of International Trade, and the United States Tax Court, as provided by law” for “and the Court of International Trade”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–177, §102(a), substituted “, the Court of International Trade, and the United States Tax Court, as provided by law” for “and the Court of International Trade”.
 
 Subsec. (i). Pub. L. 110–177, §101(a), added subsec. (i).
 

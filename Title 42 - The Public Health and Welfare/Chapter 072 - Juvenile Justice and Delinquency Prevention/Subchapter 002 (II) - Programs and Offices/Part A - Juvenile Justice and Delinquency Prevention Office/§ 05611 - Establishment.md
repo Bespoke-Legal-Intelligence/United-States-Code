@@ -18,15 +18,15 @@ There shall be in the Office a Deputy Administrator who shall be appointed by th
 
 This division, referred to in subsec. (a), probably means division II (§§610–670) of chapter VI of title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 2107, which made numerous amendments to this chapter. For complete classification of this division to the Code, see Short Title of 1984 Amendment note set out under section 5601 of this title and Tables.
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
 
 #### Amendments
 
-1992—Subsec. (b). Pub. L. 102–586 amended third sentence generally, substituting “The Administrator shall have the same reporting relationship with the Attorney General as the directors of other offices and bureaus within the Office of Justice Programs have” for “The Administrator shall report to the Attorney General through the Assistant Attorney General who heads the Office of Justice Programs under part A of title I of the Omnibus Crime Control and Safe Streets Act of 1968”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–586 amended third sentence generally, substituting “The Administrator shall have the same reporting relationship with the Attorney General as the directors of other offices and bureaus within the Office of Justice Programs have” for “The Administrator shall report to the Attorney General through the Assistant Attorney General who heads the Office of Justice Programs under part A of title I of the Omnibus Crime Control and Safe Streets Act of 1968”.
 
-1988—Subsec. (c). Pub. L. 100–690 struck out “and whose function shall be to supervise and direct the National Institute for Juvenile Justice and Delinquency Prevention established by section 5651 of this title” after “Attorney General” in first sentence and “also” after “The Deputy Administrator shall” in second sentence.
+<b>1988</b>—Subsec. (c). Pub. L. 100–690 struck out “and whose function shall be to supervise and direct the National Institute for Juvenile Justice and Delinquency Prevention established by section 5651 of this title” after “Attorney General” in first sentence and “also” after “The Deputy Administrator shall” in second sentence.
 
-1984—Subsec. (a). Pub. L. 98–473, in amending subsec. (a) generally, substituted provisions relating to establishment of the Office of Juvenile Justice and Delinquency Prevention for former provisions which also provided for the establishment of the Office and its administration by an Administrator.
+<b>1984</b>—Subsec. (a). Pub. L. 98–473, in amending subsec. (a) generally, substituted provisions relating to establishment of the Office of Juvenile Justice and Delinquency Prevention for former provisions which also provided for the establishment of the Office and its administration by an Administrator.
 
 Subsec. (b). Pub. L. 98–473, in amending subsec. (b) generally, substituted provisions relating to functions and duties of the Administrator for former provisions which related to administration of the program.
 
@@ -38,7 +38,7 @@ Subsec. (e). Pub. L. 98–473, in amending section generally, struck out subsec.
 
 Subsec. (f). Pub. L. 98–473, in amending section generally, struck out subsec. (f) which related to supervision of the National Institute for Juvenile Justice and Delinquency Prevention.
 
-1980—Subsec. (a). Pub. L. 96–509, §6(a), substituted “under the general authority of the Attorney General” for “Law Enforcement Assistance Administration”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–509, §6(a), substituted “under the general authority of the Attorney General” for “Law Enforcement Assistance Administration”.
 
 Subsec. (c). Pub. L. 96–509, §19(b)(1), substituted “Administrator” for “Associate Administrator” as the name of the official heading the Office of Juvenile Justice and Delinquency Prevention and struck out provisions that had governed the meaning to be placed upon the use of the title “Associate Administrator”.
 
@@ -48,7 +48,7 @@ Subsec. (e). Pub. L. 96–509, §§6(c), 19(b)(3), substituted “Deputy Adminis
 
 Subsec. (f). Pub. L. 96–509, §§6(d), 19(b)(4), substituted “Deputy Administrator” for “Deputy Associate Administrator” and “Attorney General” for “Administrator”.
 
-1977—Subsec. (a). Pub. L. 95–115, §3(a)(1), inserted provisions relating to administration of provisions of this chapter.
+<b>1977</b>—Subsec. (a). Pub. L. 95–115, §3(a)(1), inserted provisions relating to administration of provisions of this chapter.
 
 Subsec. (c). Pub. L. 95–115, §3(a)(2), (3)(A), inserted provisions relating to statutory references to the Associate Administrator and substituted “an Associate” for “an Assistant”.
 

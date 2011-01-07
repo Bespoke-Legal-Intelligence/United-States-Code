@@ -30,7 +30,7 @@ Relationship to Other Pay and Allowances.—Special pay paid to a member under t
 
 #### References in Text
 
-Section 310(b) of this title, referred to in subsec. (d), was redesignated section 310(c) of this title, and a newsection 310(b) was added, by Pub. L. 111–84, div. A, title VI, §618(a)(3), (4), Oct. 28, 2009, 123 Stat. 2355.
+Section 310(b) of this title, referred to in subsec. (d), was redesignated section 310(c) of this title, and a new section 310(b) was added, by Pub. L. 111–84, div. A, title VI, §618(a)(3), (4), Oct. 28, 2009, 123 Stat. 2355.
 
 #### Effective Date
 

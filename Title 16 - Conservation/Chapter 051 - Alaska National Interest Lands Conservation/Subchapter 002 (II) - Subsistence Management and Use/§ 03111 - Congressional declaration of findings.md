@@ -2,7 +2,7 @@
 
 The Congress finds and declares that—
 
-&emsp;(1) the continuation of the opportunity for subsistence uses by rural residents of Alaska, including both Natives and non-Natives, on the public lands and by Alaska Natives on Native lands is essential to Native physical, economic, traditional, and cultural existence and to non-Native physical, economic, traditional, and social existence.
+&emsp;(1) the continuation of the opportunity for subsistence uses by rural residents of Alaska, including both Natives and non-Natives, on the public lands and by Alaska Natives on Native lands is essential to Native physical, economic, traditional, and cultural existence and to non-Native physical, economic, traditional, and social existence;
 
 &emsp;(2) the situation in Alaska is unique in that, in most cases, no practical alternative means are available to replace the food supplies and other items gathered from fish and wildlife which supply rural residents dependent on subsistence uses;
 
@@ -20,7 +20,7 @@ The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92�
 
 #### Amendments
 
-1997—Pub. L. 105–83, §316(b)(3), which directed the designation of existing provisions as subsec. (a) and the addition of subsec. (b) relating to further congressional findings as to subsistence use of public lands by rural residents of Alaska, was repealed by Pub. L. 105–83, §316(d). See Effective and Termination Dates of 1997 Amendment note below.
+<b>1997</b>—Pub. L. 105–83, §316(b)(3), which directed the designation of existing provisions as subsec. (a) and the addition of subsec. (b) relating to further congressional findings as to subsistence use of public lands by rural residents of Alaska, was repealed by Pub. L. 105–83, §316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
 #### Effective and Termination Dates of 1997 Amendment
 

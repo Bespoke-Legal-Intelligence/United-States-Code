@@ -32,7 +32,7 @@
 
 #### (5) Applicability
 
-&emsp;The provisions of this subsection shall extend to and apply in respect of distilled spirits lost after the tax was determined and before completion of the physical removal of the distilled spirits from the bonded premises.
+&emsp;The provisions of this subsection shall extend to and apply in respect of distilled spirits lost after the tax was determined and beforecompletion of the physical removal of the distilled spirits from the bonded premises.
 
 #### (b) Voluntary destruction
 
@@ -82,9 +82,9 @@ Provisions similar to those comprising subsecs. (a)(1) to (4) and (f)(1), (2) of
 
 #### Amendments
 
-1997—Subsec. (c)(1). Pub. L. 105–34 substituted “on which tax has been determined or paid” for “withdrawn from bonded premises on payment or determination of tax”.
+<b>1997</b>—Subsec. (c)(1). Pub. L. 105–34 substituted “on which tax has been determined or paid” for “withdrawn from bonded premises on payment or determination of tax”.
 
-1979—Subsec. (a)(1)(C). Pub. L. 96–39, §807(a)(6)(A), added subpar. (C).
+<b>1979</b>—Subsec. (a)(1)(C). Pub. L. 96–39, §807(a)(6)(A), added subpar. (C).
 
 Subsec. (a)(5). Pub. L. 96–39, §807(a)(6)(B), substituted “before” for “prior to the completion” and struck out provisions relating to the applicability of this subsection where the loss occurred after the time prescribed for the withdrawal of the distilled spirits from the bonded premises under section 5006(a)(2) and relating to the applicability of this paragraph to any loss of distilled spirits for which abatement, remission, credit, or refund of tax is allowed under subsec. (c).
 
@@ -100,11 +100,11 @@ Subsec. (f). Pub. L. 96–39, §807(a)(6)(D), redesignated subsec. (h) as (f). F
 
 Subsecs. (g), (h). Pub. L. 96–39, §807(a)(6)(D), redesignated subsecs. (g) and (h) as (e) and (f), respectively.
 
-1977—Subsec. (d). Pub. L. 95–176, §2(f), reenacted par. (1) and substituted heading “General” for “Allowance of tax” and “(or the tax equal to such tax imposed under section 7652)” for “or under section 7652”; added pars. (2) and (3); and redesignated as par. (4) provisions of former par. (2) and inserted reference to allowance of claims under par. (2) or (3).
+<b>1977</b>—Subsec. (d). Pub. L. 95–176, §2(f), reenacted par. (1) and substituted heading “General” for “Allowance of tax” and “(or the tax equal to such tax imposed under section 7652)” for “or under section 7652”; added pars. (2) and (3); and redesignated as par. (4) provisions of former par. (2) and inserted reference to allowance of claims under par. (2) or (3).
 
 Subsec. (f)(5). Pub. L. 95–176, §4(e), added par. (5).
 
-1976—Subsec. (b)(1). Pub. L. 94–455, §§1905(a)(2)(A), 1906(b)(13)(A), inserted “or by section 7652” after “tax imposed by this chapter” and struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b)(1). Pub. L. 94–455, §§1905(a)(2)(A), 1906(b)(13)(A), inserted “or by section 7652” after “tax imposed by this chapter” and struck out “or his delegate” after “Secretary”.
 
 Subsec. (b)(2). Pub. L. 94–455, §§1905(a)(2)(B), 1906(b)(13)(A), struck out “or his delegate” after “Secretary” and inserted “, or under section 7652” after “under subpart B of this part”.
 
@@ -116,15 +116,15 @@ Subsec. (c)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegat
 
 Subsec. (d)(1). Pub. L. 94–455, §§1905(a)(2)(C), (D), 1906(b)(13)(A), struck out “on or after July 1, 1959,” after “from bonded premises,” and “or his delegate” after “Secretary” and inserted “or under section 7652” after “under section 5001(a)(1)”.
 
-1971—Subsec. (b)(2). Pub. L. 91–659, §2(a), struck out condition that the distilled spirits can be destroyed only before bottling and permitted destruction after completion of bottling so long as the distilled spirits are on the bottling premises and added taxes imposed under subpart B of this Part as additional taxes which can be claimed for abatement, remission, credit or refund.
+<b>1971</b>—Subsec. (b)(2). Pub. L. 91–659, §2(a), struck out condition that the distilled spirits can be destroyed only before bottling and permitted destruction after completion of bottling so long as the distilled spirits are on the bottling premises and added taxes imposed under subpart B of this Part as additional taxes which can be claimed for abatement, remission, credit or refund.
 
 Subsec. (c)(1)(A). Pub. L. 91–659, §1, added cl. (iii).
 
 Subsec. (c)(5). Pub. L. 91–659, §2(b), permits distilled spirits returned to bottling premises to be treated for purposes of the various loss provisions as though they had not been removed from the bottling premises.
 
-1968—Subsec. (c)(1). Pub. L. 90–630 inserted provisions allowing abatement, remission, and refund if the casualty loss occurs after completion of the packaging but before the spirits have been removed from the premises of the distilled spirits plant to which the spirits were removed from bond.
+<b>1968</b>—Subsec. (c)(1). Pub. L. 90–630 inserted provisions allowing abatement, remission, and refund if the casualty loss occurs after completion of the packaging but before the spirits have been removed from the premises of the distilled spirits plant to which the spirits were removed from bond.
 
-1965—Subsec. (d)(2). Pub. L. 89–44 struck out final clause prohibiting the allowance of a claim in respect to any distilled spirits withdrawn from bonded premises of a distilled spirits plant more than 6 months prior to the date of such return.
+<b>1965</b>—Subsec. (d)(2). Pub. L. 89–44 struck out final clause prohibiting the allowance of a claim in respect to any distilled spirits withdrawn from bonded premises of a distilled spirits plant more than 6 months prior to the date of such return.
 
 #### Effective Date of 1997 Amendment
 

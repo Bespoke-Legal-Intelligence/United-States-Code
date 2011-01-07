@@ -1,6 +1,6 @@
 ### §1745. Nursing home care and medications for veterans with service-connected disabilities
 
-(a)(1) The Secretary shall pay each State home for nursing home care at the rate determined under paragraph (2), in any case in which such care is provided to any veteran as follows:
+(a)(1) The Secretary shall pay each State home for nursing home care at the rate determinedunder paragraph (2), in any case in which such care is provided to any veteran as follows:
 
 &emsp;(A) Any veteran in need of such care for a service-connected disability.
 
@@ -40,7 +40,7 @@
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–461, §211(a)(2), added subsec. (b).
+<b>2006</b>—Subsec. (b). Pub. L. 109–461, §211(a)(2), added subsec. (b).
 
 Subsec. (c). Pub. L. 109–461, §211(b)(1), added subsec. (c).
 

@@ -4,7 +4,7 @@ In this chapter:
 
 #### (1) Additional protocol
 
-&emsp;The term “Additional Protocol”, when used in the singular form, means the Protocol Additional to the Agreement between the United States of America and the International Atomic Energy Agency for the Application of Safeguards in the United States of America,with Annexes, signed at Vienna June 12, 1998 (T. Doc. 107–7).
+&emsp;The term “Additional Protocol”, when used in the singular form, means the Protocol Additional to the Agreement between the United States of America and the International Atomic Energy Agency for the Application of Safeguards in the United States of America, with Annexes, signed at Vienna June 12, 1998 (T. Doc. 107–7).
 
 #### (2) Appropriate congressional committees
 

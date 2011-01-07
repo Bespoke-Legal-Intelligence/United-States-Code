@@ -6,7 +6,7 @@ Section 8372, added Pub. L. 85–861, §1(178)(C), Sept. 2, 1958, 72 Stat. 1527;
 
 Section 8373, added Pub. L. 89–172, §1, Sept. 8, 1965, 79 Stat. 662, related to promotion of officers to grades of brigadier general and major general of Air Force Reserve. See section 14315 of this title.
 
-A prior section 8373, added Pub. L. 85–861, §1(178)(C), Sept. 2, 1958, 72 Stat. 1528; amended Pub. L. 86–559, §1(58), June 30, 1960, 74 Stat. 277, containing similar subject matter, expired by its own terms on June 30, 1964.
+A prior section 8373, added Pub. L. 85–861, §1(178)(C), Sept. 2, 1958, 72 Stat. 1528; amended Pub. L. 86–559,§1(58), June 30, 1960, 74 Stat. 277, containing similar subject matter, expired by its own terms on June 30, 1964.
 
 Section 8374, added Pub. L. 85–861, §1(178)(C), Sept. 2, 1958, 72 Stat. 1528, provided that promotion of reserve commissioned officers be effective upon Federal recognition in next higher grade of Air National Guard. See section 14308(f) of this title.
 

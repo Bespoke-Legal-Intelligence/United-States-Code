@@ -16,7 +16,7 @@ The first paragraph of this section is comprised of act June 17, 1902, and the s
 
 #### Amendments
 
-1986—Pub. L. 99–396 inserted reference to American Samoa, Guam, the Northern Mariana Islands, and the Virgin Islands in second par.
+<b>1986</b>—Pub. L. 99–396 inserted reference to American Samoa, Guam, the Northern Mariana Islands, and the Virgin Islands in second par.
 
 #### Transfer of Functions
 

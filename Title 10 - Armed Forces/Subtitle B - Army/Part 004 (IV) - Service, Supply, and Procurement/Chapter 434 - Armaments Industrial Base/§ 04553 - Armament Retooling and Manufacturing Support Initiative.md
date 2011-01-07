@@ -32,7 +32,7 @@ Purposes.—The purposes of the ARMS Initiative are as follows:
 
 &emsp;&emsp;(D) Other activities approved by the Secretary.
 
-&emsp;(9) To foster cooperation between the Department of the Army, property managers,commercial interests, and State and local agencies in the implementation of sustainable development strategies and investment in eligible facilities made available for purposes of the ARMS Initiative.
+&emsp;(9) To foster cooperation between the Department of the Army, property managers, commercial interests, and State and local agencies in the implementation of sustainable development strategies and investment in eligible facilities made available for purposes of the ARMS Initiative.
 
 &emsp;(10) To reduce or eliminate the cost of asset disposal that would be incurred if property at an eligible facility was declared excess to the needs of the Department of the Army.
 
@@ -42,7 +42,7 @@ Availability of Facilities.—The Secretary may make any eligible facility avail
 
 (d)
 
-Consideration for Leases.—Section 1302 of title 40 shall not apply to uses of property or facilities in accordance with the ARMS Initiative.
+Consideration for Leases.—Section 1302 of title 40 shall not apply to uses of property orfacilities in accordance with the ARMS Initiative.
 
 (e)
 
@@ -54,9 +54,9 @@ Program Support.—(1) Funds appropriated for purposes of the ARMS Initiative ma
 
 #### Amendments
 
-2006—Subsec. (b)(3). Pub. L. 109–163 struck out “in manufacturing processes that are” after “having the skills”.
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–163 struck out “in manufacturing processes that are” after “having the skills”.
 
-2003—Subsec. (d). Pub. L. 108–178 substituted “Section 1302 of title 40” for “Section 321 of the Act of June 30, 1932 (40 U.S.C. 303b),”.
+<b>2003</b>—Subsec. (d). Pub. L. 108–178 substituted “Section 1302 of title 40” for “Section 321 of the Act of June 30, 1932 (40 U.S.C. 303b),”.
 
 #### Effective Date of 2003 Amendment
 

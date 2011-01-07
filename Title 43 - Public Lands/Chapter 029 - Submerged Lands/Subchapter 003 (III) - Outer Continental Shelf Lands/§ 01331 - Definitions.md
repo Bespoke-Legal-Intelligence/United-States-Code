@@ -6,7 +6,7 @@ When used in this subchapter—
 
 (b) The term “Secretary” means the Secretary of the Interior, except that with respect to functions under this subchapter transferred to, or vested in, the Secretary of Energy or the Federal Energy Regulatory Commission by or pursuant to the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), the term “Secretary” means the Secretary of Energy, or the Federal Energy Regulatory Commission, as the case may be;
 
-(c) The term “lease” means any form of authorization which is issued under section 1337 ofthis title or maintained under section 1335 of this title and which authorizes exploration for, and development and production of, minerals;
+(c) The term “lease” means any form of authorization which is issued under section 1337 of this title or maintained under section 1335 of this title and which authorizes exploration for, and development and production of, minerals;
 
 (d) The term “person” includes, in addition to a natural person, an association, a State, a political subdivision of a State, or a private, public, or municipal corporation;
 
@@ -14,7 +14,7 @@ When used in this subchapter—
 
 (f) The term “affected State” means, with respect to any program, plan, lease sale, or other activity, proposed, conducted, or approved pursuant to the provisions of this subchapter, any State—
 
-&emsp;(1) the laws of which are declared, pursuant to section 1333(a)(2) of this title, to be the law of the United States for the portion of the outer Continental Shelf on which such activity is, or is proposed to be, conducted;
+&emsp;(1) the laws of which are declared, pursuant to section 1333(a)(2) of this title, to be the lawof the United States for the portion of the outer Continental Shelf on which such activity is, or is proposed to be, conducted;
 
 &emsp;(2) which is, or is proposed to be, directly connected by transportation facilities to any artificial island or structure referred to in section 1333(a)(1) of this title;
 
@@ -50,7 +50,7 @@ When used in this subchapter—
 
 &emsp;(5) the Act of June 19, 1936, chapter 592 (15 U.S.C. 13, 13a, 13b, and 21a);
 
-(<i>o</i>) The term “fair market value” means the value of any mineral (1) computed at a unit price equivalent to the average unit price at which such mineral was sold pursuant to a lease during the period for which any royalty or net profit share is accrued or reserved to the United States pursuant to such lease, or (2) if there were no such sales, or if the Secretary finds that there were an insufficient number of such sales to equitably determine such value, computed at the average unit price at which such mineral was sold pursuant to other leases in the same region of the outer Continental Shelf during suchperiod, or (3) if there were no sales of such mineral from such region during such period, or if the Secretary finds that there are an insufficient number of such sales to equitably determine such value, at an appropriate price determined by the Secretary;
+(<i>o</i>) The term “fair market value” means the value of any mineral (1) computed at a unit price equivalent to the average unit price at which such mineral was sold pursuant to a lease during the period for which any royalty or net profit share is accrued or reserved to the United States pursuant to such lease, or (2) if there were no such sales, or if the Secretary finds that there were an insufficient number of such sales to equitably determine such value, computed at the average unit price at which such mineral was sold pursuant to other leases in the same region of the outer Continental Shelf during such period, or (3) if there were no sales of such mineral from such region during such period, or if the Secretary finds that there are an insufficient number of such sales to equitably determine such value, at an appropriate price determined by the Secretary;
 
 (p) The term “major Federal action” means any action or proposal by the Secretary which is subject to the provisions of section 4332(2)(C) of title 42; and
 
@@ -76,7 +76,7 @@ Act of June 19, 1936, referred to in subsec. (n)(5), is act June 19, 1936, ch. 5
 
 #### Amendments
 
-1978—Subsec. (b). Pub. L. 95–372, §201(a), inserted provision that, with respect to functions under this subchapter transferred to, or vested in, the Secretary of Energy or the Federal Energy Regulatory Commission by or pursuant to the Department of Energy Organization Act, “Secretary” means the Secretary of Energy or the Federal Energy Regulatory Commission, as the case may be.
+<b>1978</b>—Subsec. (b). Pub. L. 95–372, §201(a), inserted provision that, with respect to functions under this subchapter transferred to, or vested in, the Secretary of Energy or the Federal Energy Regulatory Commission by or pursuant to the Department of Energy Organization Act, “Secretary” means the Secretary of Energy or the Federal Energy Regulatory Commission, as the case may be.
 
 Subsec. (c). Pub. L. 95–372, §201(a), substituted “lease” for “mineral lease” as term defined and in definition of that term substituted “any form of authorization which is issued under section 1337 of this title or maintained under section 1335 of this title and which authorizes exploration for, and development and production of, minerals;” for “any form of authorization for the exploration for, or development or removal of deposits of, oil, gas, or other minerals; and”.
 
@@ -128,7 +128,7 @@ south area.—The term ‘181 South Area’ means any area—
 
 &emsp;&emsp;&emsp;“(iii) in the Central Planning Area;
 
-&emsp;&emsp;“(B) excluded from the Proposed Final Outer Continental Shelf Oil and Gas Leasing Program for1997–2002, dated August 1996, of the Minerals Management Service; and
+&emsp;&emsp;“(B) excluded from the Proposed Final Outer Continental Shelf Oil and Gas Leasing Program for 1997–2002, dated August 1996, of the Minerals Management Service; and
 
 &emsp;&emsp;“(C) included in the areas considered for oil and gas leasing, as identified in map 8, page 37 of the document entitled ‘Draft Proposed Program Outer Continental Shelf Oil and Gas Leasing Program 2007–2012’, dated February 2006.
 
@@ -154,7 +154,7 @@ planning area.—The term ‘2002–2007 planning area’ means any area—
 
 &emsp;&emsp;“(A) located in—
 
-&emsp;&emsp;&emsp;“(i) the Eastern Planning Area, as designated in the Proposed Final Outer Continental Shelf Oil and Gas Leasing Program 2002–2007, dated April 2002, of the Minerals Management Service;
+&emsp;&emsp;&emsp;“(i) the Eastern Planning Area, as designated in the Proposed Final Outer Continental Shelf Oiland Gas Leasing Program 2002–2007, dated April 2002, of the Minerals Management Service;
 
 &emsp;&emsp;&emsp;“(ii) the Central Planning Area, as designated in the Proposed Final Outer Continental Shelf Oil and Gas Leasing Program 2002–2007, dated April 2002, of the Minerals Management Service; or
 
@@ -270,7 +270,7 @@ Exchange of Certain Leases.—
 
 &emsp;“(1)
 
-In general.—The Secretary shall permit any person that, as of the date of enactment of this Act \[Dec. 20, 2006\], has entered into an oil or gas leasewith the Secretary in any area described in paragraph (2) or (3) of subsection (a) to exchange the lease for a bonus or royalty credit that may only be used in the Gulf of Mexico.
+In general.—The Secretary shall permit any person that, as of the date of enactment of this Act \[Dec. 20, 2006\], has entered into an oil or gas lease with the Secretary in any area described in paragraph (2) or (3) of subsection (a) to exchange the lease for a bonus or royalty credit that may only be used in the Gulf of Mexico.
 
 &emsp;“(2)
 

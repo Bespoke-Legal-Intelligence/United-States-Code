@@ -64,9 +64,9 @@ The words “and a part of a year that is less than six months is disregarded”
 
 #### Amendments
 
-1983—Pub. L. 98–94 substituted “each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded”.
+<b>1983</b>—Pub. L. 98–94 substituted “each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded”.
 
-1980—Pub. L. 96–513 substituted “separation pay” for “severance pay” in section catchline and substituted “separation pay” for “lump-sum payments” in text.
+<b>1980</b>—Pub. L. 96–513 substituted “separation pay” for “severance pay” in section catchline and substituted “separation pay” for “lump-sum payments” in text.
 
 #### Effective Date of 1983 Amendment
 

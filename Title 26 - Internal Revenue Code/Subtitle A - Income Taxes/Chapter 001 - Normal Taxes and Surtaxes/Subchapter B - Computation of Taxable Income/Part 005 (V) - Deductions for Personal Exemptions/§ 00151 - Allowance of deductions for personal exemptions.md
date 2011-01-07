@@ -107,27 +107,27 @@ No exemption shall be allowed under this section with respect to any individual 
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–311 reenacted heading without change and amended text generally. Prior to amendment, text consisted of pars. (1) to (6) relating to additional exemption for dependents in general, exemption denied in case of certain married dependents, child defined, student defined, certain income of handicapped dependents not taken into account, and treatment of missing children, respectively.
+<b>2004</b>—Subsec. (c). Pub. L. 108–311 reenacted heading without change and amended text generally. Prior to amendment, text consisted of pars. (1) to (6) relating to additional exemption for dependents in general, exemption denied in case of certain married dependents, child defined, student defined, certain income of handicapped dependents not taken into account, and treatment of missing children, respectively.
 
-2002—Subsec. (c)(6)(B)(iii). Pub. L. 107–147, §417(6), inserted “as” before “such terms”.
+<b>2002</b>—Subsec. (c)(6)(B)(iii). Pub. L. 107–147, §417(6), inserted “as” before “such terms”.
 
 Subsec. (c)(6)(C). Pub. L. 107–147, §412(b), substituted “for principal place of abode requirements” for “for earned income credit” in heading, “An” for “For purposes of section 32, an” in introductory provisions, and “principal place of abode requirements of section 2(a)(1)(B), section 2(b)(1)(A), and section 32(c)(3)(A)(ii)” for “requirement of section 32(c)(3)(A)(ii)” in concluding provisions.
 
-2001—Subsec. (d)(3)(E), (F). Pub. L. 107—16, §§102(a), 901, temporarily added subpars. (E) and (F). See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (d)(3)(E), (F). Pub. L. 107—16, §§102(a), 901, temporarily added subpars. (E) and (F). See Effective and Termination Dates of 2001 Amendment note below.
 
-2000—Subsec. (c)(6). Pub. L. 106–554 added par. (6).
+<b>2000</b>—Subsec. (c)(6). Pub. L. 106–554 added par. (6).
 
-1996—Subsec. (d)(3)(C)(i). Pub. L. 104–188, §1702(a)(2), substituted “joint return” for “joint of a return”.
+<b>1996</b>—Subsec. (d)(3)(C)(i). Pub. L. 104–188, §1702(a)(2), substituted “joint return” for “joint of a return”.
 
 Subsec. (e). Pub. L. 104–188, §1615(a)(1), added subsec. (e).
 
-1993—Subsec. (d)(3)(E). Pub. L. 103–66, §13205, struck out heading and text of subpar. (E). Text read as follows: “This paragraph shall not apply to any taxable year beginning after December 31, 1996.”
+<b>1993</b>—Subsec. (d)(3)(E). Pub. L. 103–66, §13205, struck out heading and text of subpar. (E). Text read as follows: “This paragraph shall not apply to any taxable year beginning after December 31, 1996.”
 
 Subsec. (d)(4)(A)(ii), (B)(ii). Pub. L. 103–66, §13201(b)(3)(G), substituted “1992” for “1989”.
 
-1992—Subsec. (d)(3)(E). Pub. L. 102–318 substituted “1996” for “1995”.
+<b>1992</b>—Subsec. (d)(3)(E). Pub. L. 102–318 substituted “1996” for “1995”.
 
-1990—Subsec. (d). Pub. L. 101–508, §11104(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “For purposes of this section—
+<b>1990</b>—Subsec. (d). Pub. L. 101–508, §11104(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “For purposes of this section—
 
 “(1)
 
@@ -153,9 +153,9 @@ Inflation adjustment for years after 1989.—In the case of any taxable year beg
 
 Subsec. (d)(3)(B). Pub. L. 101–508, §11101(d)(1)(F), substituted “1989” for “1987”.
 
-1988—Subsec. (c)(1)(B)(ii). Pub. L. 100–647 inserted “who has not attained the age of 24 at the close of such calendar year” after “student”.
+<b>1988</b>—Subsec. (c)(1)(B)(ii). Pub. L. 100–647 inserted “who has not attained the age of 24 at the close of such calendar year” after “student”.
 
-1986—Subsec. (c). Pub. L. 99–514, §103(b), redesignated subsec. (e) as (c) and struck out former subsec. (c) which provided for an additional exemption for taxpayer or spouse aged 65 or more.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514, §103(b), redesignated subsec. (e) as (c) and struck out former subsec. (c) which provided for an additional exemption for taxpayer or spouse aged 65 or more.
 
 Subsec. (d). Pub. L. 99–514, §103(b), redesignated subsec. (f) as (d) and struck out former subsec. (d) which provided for an additional exemption for blindness of taxpayer or spouse.
 
@@ -167,19 +167,19 @@ Subsec. (f). Pub. L. 99–514, §103(b), redesignated subsec. (f) as (d).
 
 Pub. L. 99–514, §103(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “For purposes of this section, the term ‘exemption amount’ means, with respect to any taxable year, $1,000 increased by an amount equal to $1,000 multiplied by the cost-of-living adjustment (as defined in section 1(f)(3)) for the calendar year in which the taxable year begins. If the amount determined under the preceding sentence is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10 (or if such amount is a multiple of $5, such amount shall be increased to the next highest multiple of $10).”
 
-1984—Subsec. (e)(5). Pub. L. 98–369 added par. (5).
+<b>1984</b>—Subsec. (e)(5). Pub. L. 98–369 added par. (5).
 
-1981—Subsecs. (b), (c), (d)(1), (2), (e)(1). Pub. L. 97–34, §104(c)(1), substituted “the exemption amount” for “$1,000” wherever appearing.
+<b>1981</b>—Subsecs. (b), (c), (d)(1), (2), (e)(1). Pub. L. 97–34, §104(c)(1), substituted “the exemption amount” for “$1,000” wherever appearing.
 
 Subsec. (f). Pub. L. 97–34, §104(c)(2), added subsec. (f).
 
-1978—Pub. L. 95–600 increased exemption from $750 to $1,000 with respect to taxable years beginning after Dec. 31, 1978.
+<b>1978</b>—Pub. L. 95–600 increased exemption from $750 to $1,000 with respect to taxable years beginning after Dec. 31, 1978.
 
-1976—Subsec. (e)(4). Pub. L. 94–455 struck out “and educational institution” after “Student” in heading, substituted in subpars. (A) and (B) “organization described in section 170(b)(1)(A)(ii)” for “institution”, and struck out provisions following subpar. (B) defining educational institution.
+<b>1976</b>—Subsec. (e)(4). Pub. L. 94–455 struck out “and educational institution” after “Student” in heading, substituted in subpars. (A) and (B) “organization described in section 170(b)(1)(A)(ii)” for “institution”, and struck out provisions following subpar. (B) defining educational institution.
 
-1971—Pub. L. 92–178 increased exemption from $650 to $675 with respect to taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972, and from $675 to $750 with respect to taxable years beginning after Dec. 31, 1971.
+<b>1971</b>—Pub. L. 92–178 increased exemption from $650 to $675 with respect to taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972, and from $675 to $750 with respect to taxable years beginning after Dec. 31, 1971.
 
-1969—Pub. L. 91–172, §801(a)(1), (b)(1), (c)(1), (d)(1), increased exemption from $600 to $625 with respect to taxable years beginning after Dec. 31, 1969, and before Jan. 1, 1971, from $625 to $650 for taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972, from $650 to $700 for taxable years beginning after Dec. 31, 1971, and before Jan. 1, 1973, and from $700 to $750 for taxable years beginning after Dec. 31, 1972.
+<b>1969</b>—Pub. L. 91–172, §801(a)(1), (b)(1), (c)(1), (d)(1), increased exemption from $600 to $625 with respect to taxable years beginning after Dec. 31, 1969, and before Jan. 1, 1971, from $625 to $650 for taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972, from $650 to $700 for taxable years beginning after Dec. 31, 1971, and before Jan. 1, 1973, and from $700 to $750 for taxable years beginning after Dec. 31, 1972.
 
 Subsecs. (b), (c), Pub. L. 91–172, §941(b), substituted “if a joint return is not made by the taxpayer and his spouse” for “if a separate return is made by the taxpayer”.
 
@@ -195,7 +195,7 @@ Pub. L. 107–147, title IV, §412(e), Mar. 9, 2002, 116 Stat. 54, provided that
 
 Pub. L. 107–16, title I, §102(b), June 7, 2001, 115 Stat. 44, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2005.”
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -261,7 +261,7 @@ Section 801(c)(1), (d)(1) of Pub. L. 91–172 provided for an increase in the pe
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the comma.</i>
 

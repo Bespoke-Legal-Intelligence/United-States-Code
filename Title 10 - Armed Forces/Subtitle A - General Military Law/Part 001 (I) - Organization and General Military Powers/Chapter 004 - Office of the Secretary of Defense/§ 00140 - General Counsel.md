@@ -38,11 +38,11 @@ Another prior section 140 was renumbered section 127 of this title.
 
 #### Amendments
 
-1993—Pub. L. 103–160 renumbered section 139 of this title as this section.
+<b>1993</b>—Pub. L. 103–160 renumbered section 139 of this title as this section.
 
-1986—Pub. L. 99–433, §§101(a)(7), 110(d)(11), renumbered section 137 of this title as this section, and struck out “: powers and duties” at end of section catchline.
+<b>1986</b>—Pub. L. 99–433, §§101(a)(7), 110(d)(11), renumbered section 137 of this title as this section, and struck out “: powers and duties” at end of section catchline.
 
-1964—Subsec. (c). Pub. L. 88–426 repealed subsec. (c) which related to compensation of General Counsel. See section 5315 of Title 5, Government Organization and Employees.
+<b>1964</b>—Subsec. (c). Pub. L. 88–426 repealed subsec. (c) which related to compensation of General Counsel. See section 5315 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1964 Amendment
 

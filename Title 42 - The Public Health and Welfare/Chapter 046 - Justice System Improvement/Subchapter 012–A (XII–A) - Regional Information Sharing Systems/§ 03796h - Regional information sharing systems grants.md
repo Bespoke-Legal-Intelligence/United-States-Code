@@ -2,7 +2,7 @@
 
 #### (a) Authority of Director
 
-The Director of the Bureau of Justice Assistance is authorized to make grants and enter into contracts with State and local criminal justice agencies and nonprofit organizations for the purposes of identifying, targeting, and removing criminal conspiracies and activities and terrorist conspiracies and activities spanning jurisdictional boundaries.
+The Director of the Bureau of Justice Assistance is authorized to make grants and enter into contracts with State, tribal, and local criminal justice agencies and nonprofit organizations for the purposes of identifying, targeting, and removing criminal conspiracies and activities and terrorist conspiracies and activities spanning jurisdictional boundaries.
 
 #### (b) Purposes
 
@@ -26,7 +26,7 @@ The Director is authorized to promulgate such rules and regulations as are neces
 
 There are authorized to be appropriated to the Bureau of Justice Assistance to carry out this section $50,000,000 for fiscal year 2002 and $100,000,000 for fiscal year 2003.
 
-(Pub. L. 90–351, title I, §1301, as added Pub. L. 100–690, title VI, §6101(a), Nov. 18, 1988, 102 Stat. 4340; amended Pub. L. 107–56, title VII, §701, Oct. 26, 2001, 115 Stat. 374; Pub. L. 109–162, title XI, §1114, Jan. 5, 2006, 119 Stat. 3103.)
+(Pub. L. 90–351, title I, §1301, as added Pub. L. 100–690, title VI, §6101(a), Nov. 18, 1988, 102 Stat.4340; amended Pub. L. 107–56, title VII, §701, Oct. 26, 2001, 115 Stat. 374; Pub. L. 109–162, title XI, §1114, Jan. 5, 2006, 119 Stat. 3103; Pub. L. 111–211, title II, §252(a), July 29, 2010, 124 Stat. 2299.)
 
 #### Prior Provisions
 
@@ -38,17 +38,29 @@ For other prior sections 1301 of Pub. L. 90–351 and prior section 3796h of thi
 
 #### Amendments
 
-2006—Subsec. (b)(1). Pub. L. 109–162, §1114(1), inserted “regional” before “information sharing systems”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–211 inserted “, tribal,” after “State”.
+
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–162, §1114(1), inserted “regional” before “information sharing systems”.
 
 Subsec. (b)(3). Pub. L. 109–162, §1114(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “establishing and maintaining a telecommunication of the information sharing and analytical programs in clauses (1) and (2);”.
 
 Subsec. (b)(4). Pub. L. 109–162, §1114(3), struck out “(5)” at end.
 
-2001—Subsec. (a). Pub. L. 107–56, §701(1), inserted “and terrorist conspiracies and activities” after “criminal conspiracies and activities”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–56, §701(1), inserted “and terrorist conspiracies and activities” after “criminal conspiracies and activities”.
 
 Subsec. (b)(4), (5). Pub. L. 107–56, §701(2), added par. (4) and redesignated former par. (4) as (5).
 
 Subsec. (d). Pub. L. 107–56, §701(3), added subsec. (d).
+
+#### Construction of 2010 Amendment
+
+Pub. L. 111–211, title II, §252(b), July 29, 2010, 124 Stat. 2299, provided that: “Nothing in this section \[amending this section\] or any amendment made by this section—
+
+&emsp;“(1) allows the grant to be made to, or used by, an entity for law enforcement activities that the entity lacks jurisdiction to perform; or
+
+&emsp;“(2) has any effect other than to authorize, award, or deny a grant of funds to a federally recognized Indian tribe for the purposes described in the relevant grant program.”
+
+\[For definition of “Indian tribe” as used in section 252(b) of Pub. L. 111–211, set out above, see section 203(a) of Pub. L. 111–211, set out as a note under section 2801 of Title 25, Indians.\]
 
 #### Transfer of Functions
 

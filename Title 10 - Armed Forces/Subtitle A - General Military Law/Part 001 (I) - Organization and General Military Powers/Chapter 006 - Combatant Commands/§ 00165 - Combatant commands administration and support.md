@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall provide for the administration and support of forces assigned to each combatant command.
+In General.—The Secretary of Defense, with the advice and assistance of the Chairmanof the Joint Chiefs of Staff, shall provide for the administration and support of forces assigned to each combatant command.
 
 (b)
 

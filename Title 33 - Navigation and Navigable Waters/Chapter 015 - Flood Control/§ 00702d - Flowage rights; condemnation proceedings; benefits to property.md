@@ -8,7 +8,7 @@ The Secretary of the Army may cause proceedings to be instituted for the acquire
 
 #### Amendments
 
-1945—Act Nov. 30, 1945, substituted second sentence of second par. for a sentence which read “In all such proceedings the court, for the purpose of ascertaining the value of the property and assessing the compensation to be paid, shall appoint three commissioners, whose award, when confirmed by the court, shall be final.”
+<b>1945</b>—Act Nov. 30, 1945, substituted second sentence of second par. for a sentence which read “In all such proceedings the court, for the purpose of ascertaining the value of the property and assessing the compensation to be paid, shall appoint three commissioners, whose award, when confirmed by the court, shall be final.”
 
 #### Change of Name
 

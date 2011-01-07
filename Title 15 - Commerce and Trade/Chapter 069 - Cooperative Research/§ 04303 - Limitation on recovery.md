@@ -10,7 +10,7 @@ Notwithstanding section 15 of this title and in lieu of the relief specified in 
 
 #### (b) Recovery by States
 
-Notwithstanding section 15c of this title, and in lieu of the relief specified in such section, any State that is entitled to monetary relief on a claim under such section shall recover the total damage sustained as described in subsection (a)(1) of such section, interest calculated at the rate specified in section 1961 of title 28 on such total damage as specified in subsection (d) of this section, and the cost of suit attributable to such claim, including a reasonable attorney's fee pursuant to section 15c of this title if such claim—
+Notwithstanding section 15c of this title, and in lieu of the relief specified in such section, any State that is entitled to monetary relief on a claim under such section shall recover the total damage sustained as described in subsection\(a)(1) of such section, interest calculated at the rate specified in section 1961 of title 28 on such total damage as specified in subsection (d) of this section, and the cost of suit attributable to such claim, including a reasonable attorney's fee pursuant to section 15c of this title if such claim—
 
 &emsp;(1) results from conduct that is within the scope of a notification that has been filed under section 4305(a) of this title for a joint venture, or for a standards development activity engaged in by a standards development organization against which such claim is made, and
 
@@ -46,7 +46,7 @@ This section shall be applicable only if the challenged conduct of a person defe
 
 #### Amendments
 
-2004—Subsecs. (a)(1), (b)(1), (c)(1). Pub. L. 108–237, §105(1), inserted “, or for a standards development activity engaged in by a standards development organization against which such claim is made” after “joint venture”.
+<b>2004</b>—Subsecs. (a)(1), (b)(1), (c)(1). Pub. L. 108–237, §105(1), inserted “, or for a standards development activity engaged in by a standards development organization against which such claim is made” after “joint venture”.
 
 Subsec. (e). Pub. L. 108–237, §105(3), added subsec. (e). Former subsec. (e) redesignated (f).
 
@@ -54,7 +54,7 @@ Pub. L. 108–237, §105(2)(A), inserted “, or of a standards development act
 
 Subsec. (f). Pub. L. 108–237, §105(2)(B), redesignated subsec. (e) as (f).
 
-1993—Subsecs. (a) to (c). Pub. L. 103–42, §3(e)(1)(A), (B), in introductory provisions inserted “of this section” after “subsection (d)” and in par. (1) substituted “joint venture” for “joint research and development venture”.
+<b>1993</b>—Subsecs. (a) to (c). Pub. L. 103–42, §3(e)(1)(A), (B), in introductory provisions inserted “of this section” after “subsection (d)” and in par. (1) substituted “joint venture” for “joint research and development venture”.
 
 Subsec. (e). Pub. L. 103–42, §3(e)(1)(A), (C), substituted “October 11, 1984,” for “the effective date of this Act” and substituted “joint venture” for “joint research and development venture”.
 

@@ -40,7 +40,7 @@ In this section:
 
 &emsp;(1) The term “program or project” means, with respect to a field office of the Department of Energy, a program or project that is for environmental restoration or waste management activities necessary for national security programs of the Department, that is being carried out by that office, and for which defense environmental management funds have been authorized and appropriated.
 
-&emsp;(2) The term “defense environmental management funds” means funds appropriated to the Department of Energy pursuant to an authorization for carrying out environmental restoration and waste management activities necessary for national security programs.
+&emsp;(2) The term “defense environmental management funds” means funds appropriated tothe Department of Energy pursuant to an authorization for carrying out environmental restoration and waste management activities necessary for national security programs.
 
 (Pub. L. 107–314, div. D, title XLVII, §4710, formerly div. C, title XXXVI, §3629, Dec. 2, 2002, 116 Stat. 2760; renumbered div. D, title XLVII, §4710, and amended Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), (D)(iv), Nov. 24, 2003, 117 Stat. 1781.)
 
@@ -50,5 +50,5 @@ Section was formerly classified to section 7386i of Title 42, The Public Health 
 
 #### Amendments
 
-2003—Subsec. (c). Pub. L. 108–136, §3141(j)(2)(D)(iv), made technical amendment to reference in original act which appears in text as reference to section 2742 of this title.
+<b>2003</b>—Subsec. (c). Pub. L. 108–136, §3141(j)(2)(D)(iv), made technical amendment to reference in original act which appears in text as reference to section 2742 of this title.
 

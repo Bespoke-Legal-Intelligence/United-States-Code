@@ -18,5 +18,5 @@ Except as otherwise provided, the procedure for consideration of alleged violati
 
 #### References in Text
 
-Part A of subchapter II of this chapter, referred to in text, was in the original “part A of title II”, meaning part A (§§201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, as amended, which enacted part A of subchapter II of this chapter and amended section 6381 of Title 5, Government Organization and Employees, sections 203, 633a, 2611, and 2617 of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare. For complete classification of part A to the Code, see Tables.
+Part A of subchapter II of this chapter, referred to in text, was in the original “part A of title II”, meaning part A (§§201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
 

@@ -14,11 +14,11 @@ Public Law 88–170, as amended (82 Stat. 863), referred to in text, is Pub. L. 
 
 #### Amendments
 
-1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1984—Pub. L. 98–454 inserted “(including, but not limited to, compensation paid to members of the Armed Forces and pensions paid to retired civilians and military employees of the United States, or their survivors, who are residents of, or who are domiciled in, Guam)” after “inhabitants of Guam” in first sentence.
+<b>1984</b>—Pub. L. 98–454 inserted “(including, but not limited to, compensation paid to members of the Armed Forces and pensions paid to retired civilians and military employees of the United States, or their survivors, who are residents of, or who are domiciled in, Guam)” after “inhabitants of Guam” in first sentence.
 
-1978—Pub. L. 95–348 inserted provisions relating to authorization, amount, computation, etc., of remittance, prior to commencement of any fiscal year, of duties, taxes, and fees to be collected in or derived from Guam under this section during that next fiscal year.
+<b>1978</b>—Pub. L. 95–348 inserted provisions relating to authorization, amount, computation, etc., of remittance, prior to commencement of any fiscal year, of duties, taxes, and fees to be collected in or derived from Guam under this section during that next fiscal year.
 
-1960—Pub. L. 86–778 inserted clause providing that nothing in this chapter shall be construed to apply to any tax imposed by chapter 2 or 21 of title 26.
+<b>1960</b>—Pub. L. 86–778 inserted clause providing that nothing in this chapter shall be construed to apply to any tax imposed by chapter 2 or 21 of title 26.
 

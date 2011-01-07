@@ -26,11 +26,9 @@
 
 #### Amendments
 
-2003—Pub. L. 108–176, title I, §185(b), Dec. 12, 2003, 117 Stat. 2518, added item 46319.
+<b>2003</b>—Pub. L. 108–176, title I, §185(b), Dec. 12, 2003, 117 Stat. 2518, added item 46319.
 
-2000—Pub. L. 106–181, title V, §§509(b), 511(b), Apr. 5, 2000, 114 Stat. 141, 142, added items 46317 and 46318.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “App.)),”.</i>
+<b>2000</b>—Pub. L. 106–181, title V, §§509(b), 511(b), Apr. 5, 2000, 114 Stat. 141, 142, added items 46317 and 46318.
 
 
 ---

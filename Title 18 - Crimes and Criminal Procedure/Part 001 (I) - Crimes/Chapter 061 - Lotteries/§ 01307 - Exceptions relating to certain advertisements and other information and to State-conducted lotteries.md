@@ -32,7 +32,7 @@ Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (d), is
 
 #### Amendments
 
-1988—Pub. L. 100–625, §3(a)(1), substituted “Exceptions relating to certain advertisements and other information and to State-conducted lotteries” for “State-conducted lotteries” in section catchline.
+<b>1988</b>—Pub. L. 100–625, §3(a)(1), substituted “Exceptions relating to certain advertisements and other information and to State-conducted lotteries” for “State-conducted lotteries” in section catchline.
 
 Subsec. (a). Pub. L. 100–625, §2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The provisions of sections 1301, 1302, 1303, and 1304 shall not apply to an advertisement, list of prizes, or information concerning a lottery conducted by a State acting under the authority of State law—
 
@@ -42,11 +42,11 @@ Subsec. (a). Pub. L. 100–625, §2(a), amended subsec. (a) generally. Prior to 
 
 Subsec. (d). Pub. L. 100–625, §§2(b), 3(a)(3), inserted “subsection (b) of” after “purposes of” and inserted at end “For purposes of this section, the term a ‘not-for-profit organization’ means any organization that would qualify as tax exempt under section 501 of the Internal Revenue Code of 1986.”
 
-1979—Subsec. (b). Pub. L. 96–90, §1(a), incorporated existing provision in text designated cl. (1), included mailing of equipment, and added cl. (2).
+<b>1979</b>—Subsec. (b). Pub. L. 96–90, §1(a), incorporated existing provision in text designated cl. (1), included mailing of equipment, and added cl. (2).
 
 Subsec. (c). Pub. L. 96–90, §1(b), designated existing text as cl. (1) and added cl. (2).
 
-1976—Subsec. (a)(1). Pub. L. 94–525 inserted “or in an adjacent State which conducts such a lottery” after “State”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–525 inserted “or in an adjacent State which conducts such a lottery” after “State”.
 
 #### Effective Date of 1988 Amendment
 

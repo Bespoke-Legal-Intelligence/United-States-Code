@@ -72,13 +72,13 @@ A prior section 2501 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 #### Amendments
 
-2009—Subsec. (f)(3). Pub. L. 111–8 added par. (3).
+<b>2009</b>—Subsec. (f)(3). Pub. L. 111–8 added par. (3).
 
-2008—Subsec. (a). Pub. L. 110–177, §302(d)(1), inserted “and State and local court officers” after “tribal law enforcement officers”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–177, §302(d)(1), inserted “and State and local court officers” after “tribal law enforcement officers”.
 
 Subsec. (b)(1). Pub. L. 110–177, §302(d)(2), inserted “State or local court,” after “government,”.
 
-2000—Subsec. (f). Pub. L. 106–517, §3(a), designated first sentence as par. (1), inserted par. heading, substituted “subsection (a) of this section—” and subpars. (A) and (B) for “subsection (a) of this section may not exceed 50 percent.”, and designated second sentence as par. (2) and inserted par. heading.
+<b>2000</b>—Subsec. (f). Pub. L. 106–517, §3(a), designated first sentence as par. (1), inserted par. heading, substituted “subsection (a) of this section—” and subpars. (A) and (B) for “subsection (a) of this section may not exceed 50 percent.”, and designated second sentence as par. (2) and inserted par. heading.
 
 Subsec. (g). Pub. L. 106–517, §3(b), amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “At least half of the funds available under this subchapter shall be awarded to units of local government with fewer than 100,000 residents.”
 

@@ -62,19 +62,19 @@ Section 224(a) of the Military Construction and Veterans Affairs and Related Age
 
 #### Amendments
 
-2007—Subsec. (c)(1). Pub. L. 110–161 inserted “or section 224(a) of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008” after “section 421(b)(2) of the Veterans’ Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 553)” and substituted “such sections” for “that section”.
+<b>2007</b>—Subsec. (c)(1). Pub. L. 110–161 inserted “or section 224(a) of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008” after “section 421(b)(2) of the Veterans’ Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 553)” and substituted “such sections” for “that section”.
 
-2003—Subsec. (a)(3). Pub. L. 108–178 struck out comma after “of title 40”.
+<b>2003</b>—Subsec. (a)(3). Pub. L. 108–178 struck out comma after “of title 40”.
 
-2002—Subsec. (a)(1). Pub. L. 107–217, §3(j)(5)(A), substituted “subchapter II of chapter 5 of title 40, sections 541–555 and 1302 of title 40” for “section 321 of the Act of June 30, 1932 (40 U.S.C. 303b), sections 202 and 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483, 484)”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–217, §3(j)(5)(A), substituted “subchapter II of chapter 5 of title 40, sections 541–555 and 1302 of title 40” for “section 321 of the Act of June 30, 1932 (40 U.S.C. 303b), sections 202 and 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483, 484)”.
 
 Subsec. (a)(3). Pub. L. 107–217, §3(j)(5)(B), substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (40 U.S.C. 276a et seq.)”.
 
-2001—Subsec. (b)(1). Pub. L. 107–95 designated existing provisions as subpar. (A) and added subpar. (B).
+<b>2001</b>—Subsec. (b)(1). Pub. L. 107–95 designated existing provisions as subpar. (A) and added subpar. (B).
 
-2000—Subsec. (a)(4). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
+<b>2000</b>—Subsec. (a)(4). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
-1999—Subsec. (a)(2). Pub. L. 106–117, §208(a), inserted subpar. (A) designation before “the Secretary”, redesignated subpars. (A) to (C) as cls. (i) to (iii), respectively, and realigned the margins, substituted “; or” for period at end of cl. (iii), and added subpar. (B).
+<b>1999</b>—Subsec. (a)(2). Pub. L. 106–117, §208(a), inserted subpar. (A) designation before “the Secretary”, redesignated subpars. (A) to (C) as cls. (i) to (iii), respectively, and realigned the margins, substituted “; or” for period at end of cl. (iii), and added subpar. (B).
 
 Subsec. (b)(2). Pub. L. 106–117, §208(b)(1), substituted “may not exceed 75 years.” for “may not exceed—”
 

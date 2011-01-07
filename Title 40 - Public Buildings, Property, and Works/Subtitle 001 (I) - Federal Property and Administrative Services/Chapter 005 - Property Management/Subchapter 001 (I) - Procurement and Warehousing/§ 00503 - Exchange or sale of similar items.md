@@ -10,7 +10,7 @@ Applicable Regulation and Law.—
 
 &emsp;(1)
 
-Regulations prescribed by administrator of general services.—A transaction under subsection (a) must be carried out in accordance with regulations the Administrator of General Services prescribes, subject to regulations prescribed by the Administrator for Federal Procurement Policy under the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.).
+Regulations prescribed by administrator of general services.—A transaction under subsection (a) must be carried out in accordance with regulations the Administrator of General Services prescribes, subject to regulations prescribed by the Administrator for Federal Procurement Policy under division B (except sections 1704 and 2303) of subtitle I of title 41.
 
 &emsp;(2)
 
@@ -18,9 +18,13 @@ In writing.—A transaction under subsection (a) must be evidenced in writing.
 
 &emsp;(3)
 
-Section 3709 of revised statutes.—Section 3709 of the Revised Statutes (41 U.S.C. 5) applies to a sale of property under subsection (a), except that fixed price sales may be conducted in the same manner and subject to the same conditions as are applicable to the sale of property under section 545(d) of this title.
+Section 6101(b
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1081.)
+) to (d
+
+) of title 41.—Section 6101(b) to (d) of title 41 applies to a sale of property under subsection (a), except that fixed price sales may be conducted in the same manner and subject to the same conditions as are applicable to the sale of property under section 545(d) of this title.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1081; Pub. L. 111–350, §5(<i>l</i>)(8), Jan. 4, 2011, 124 Stat. 3851.)
 
 Historical and Revision Notes
 
@@ -44,7 +48,17 @@ In subsection (b)(1), the words “subject to regulations” are substituted for
 
 In subsection (b)(2), the words “the authority of” are omitted as unnecessary.
 
-#### References in Text
+#### Amendments
 
-The Office of Federal Procurement Policy Act, referred to in subsec. (b)(1), is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, as amended, which is classified principally to chapter 7 (§401 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 41 and Tables.
+<b>2011</b>—Subsec. (b)(1). Pub. L. 111–350, §5(<i>l</i>)(8)(A), substituted “division B (except sections 1704 and 2303) of subtitle I of title 41” for “the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)”.
+
+Subsec. (b)(3). Pub. L. 111–350, §5(<i>l</i>)(8)(B), substituted “
+
+Section 6101(b
+
+) to (d
+
+) of title 41” for “
+
+Section 3709 of revised statutes” in heading and “Section 6101(b) to (d) of title 41” for “Section 3709 of the Revised Statutes (41 U.S.C. 5)” in text.
 

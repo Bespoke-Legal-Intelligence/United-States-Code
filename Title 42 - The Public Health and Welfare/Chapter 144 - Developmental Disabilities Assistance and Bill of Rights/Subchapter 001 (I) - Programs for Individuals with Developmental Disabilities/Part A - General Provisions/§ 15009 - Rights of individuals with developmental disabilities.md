@@ -46,3 +46,5 @@ The rights of individuals with developmental disabilities described in findings 
 
 (Pub. L. 106–402, title I, §109, Oct. 30, 2000, 114 Stat. 1692.)
 
+<i><sup>1</sup></i><i> So in original. Probably should be “habilitation”.</i>
+

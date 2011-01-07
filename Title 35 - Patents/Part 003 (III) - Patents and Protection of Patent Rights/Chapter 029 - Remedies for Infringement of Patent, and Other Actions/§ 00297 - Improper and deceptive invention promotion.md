@@ -16,7 +16,7 @@ In General.—An invention promoter shall have a duty to disclose the following 
 
 (b)
 
-Civil Action.—(1) Any customer who enters into a contract with an invention promoter and who is found by a court to have been injured by any material false or fraudulent statement or representation, or any omission of material fact, by that invention promoter (or any agent, employee, director, officer, partner, or independent contractor of such invention promoter), or by the failure of that invention promoter to disclose such information as required under subsection (a), may recover in a civil action against the invention promoter (or the officers, directors, or partners of such invention promoter), in addition to reasonable costs and attorneys’ fees—
+Civil Action.—(1) Any customer who enters into a contract with an invention promoter and who is found by a court to have been injured by any material false or fraudulent statement or representation, or any omission of material fact, by that invention promoter (or any agent, employee, director, officer, partner, or independentcontractor of such invention promoter), or by the failure of that invention promoter to disclose such information as required under subsection (a), may recover in a civil action against the invention promoter (or the officers, directors, or partners of such invention promoter), in addition to reasonable costs and attorneys’ fees—
 
 &emsp;(A) the amount of actual damages incurred by the customer; or
 

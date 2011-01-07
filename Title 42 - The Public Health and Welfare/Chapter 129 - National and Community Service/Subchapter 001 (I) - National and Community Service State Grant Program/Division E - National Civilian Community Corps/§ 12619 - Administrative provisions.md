@@ -72,7 +72,7 @@ The Chief Executive Officer shall—
 
 #### (E) Training
 
-&emsp;&emsp;The Director shall provide to other members of the permanent cadre appropriate training in youth development techniques, including techniques for working with and enhancing the development of disadvantaged youth, and the principles of service-learning. All members of the permanent cadre shall be required to participate in the training.
+&emsp;&emsp;The Director shall provide to other members of the permanent cadre appropriate training in youth development techniques,including techniques for working with and enhancing the development of disadvantaged youth, and the principles of service-learning. All members of the permanent cadre shall be required to participate in the training.
 
 #### (3) Inapplicability of certain civil service laws
 
@@ -98,7 +98,7 @@ Section was formerly classified to section 12653h of this title prior to renumbe
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–13, §1509(1)(A), substituted “National Civilian Community Corps Program” for “Civilian Community Corps Demonstration Program” in introductory provisions.
+<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1509(1)(A), substituted “National Civilian Community Corps Program” for “Civilian Community Corps Demonstration Program” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 111–13, §1509(1)(B), inserted “including those” before “recommended” and “National” before “Civilian Community Corps”.
 
@@ -120,11 +120,11 @@ Subsec. (c)(2)(E). Pub. L. 111–13, §1509(3)(B)(iv), substituted “to other m
 
 Subsec. (c)(3). Pub. L. 111–13, §1509(3)(C), substituted “other members” for “the members” and “12622(b)(1)” for “section 12622(a)(2)(A)”.
 
-1994—Subsec. (c)(2)(C)(i). Pub. L. 103–304 substituted “section 12622(a)(2)” for “section section 12622(a)(2)”.
+<b>1994</b>—Subsec. (c)(2)(C)(i). Pub. L. 103–304 substituted “section 12622(a)(2)” for “section section 12622(a)(2)”.
 
 Subsec. (c)(3). Pub. L. 103–337 inserted at end “In the case of a member of the permanent cadre who was recommended for appointment in accordance with section 12622(a)(2)(A) of this title and is entitled to retired or retainer pay, section 5532 of title 5 shall not apply to reduce the member's retired or retainer pay by reason of the member being paid as a member of the cadre.”
 
-1993—Subsec. (a). Pub. L. 103–82, §403(a)(1)(A), (B), substituted “Supervision” for “Board” in heading and “The Chief Executive Officer shall monitor” for “The Board shall monitor” and “the Chief Executive Officer shall—” for “the Board shall—” in introductory provisions.
+<b>1993</b>—Subsec. (a). Pub. L. 103–82, §403(a)(1)(A), (B), substituted “Supervision” for “Board” in heading and “The Chief Executive Officer shall monitor” for “The Board shall monitor” and “the Chief Executive Officer shall—” for “the Board shall—” in introductory provisions.
 
 Pub. L. 103–82, §104(e)(2)(E)(i)(I), substituted “section 12612” for “section 12653a” in introductory provisions.
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 104(b), (e)(2)(E) of Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
+Amendment by section 104(b), (e)(2)(E) of Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.103–82, set out as a note under section 1701 of Title 16, Conservation.
 
 Amendment by section 402(b)(1) of Pub. L. 103–82 effective Oct. 1, 1993, see section 406(a) of Pub. L. 103–82, set out as a note under section 5061 of this title.
 

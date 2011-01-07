@@ -20,7 +20,7 @@ Aliens subject to the worldwide level specified in section 1151(c) of this title
 
 #### (3) Married sons and married daughters of citizens
 
-&emsp;Qualified immigrants who are the married sons or married daughters of citizens of the United States shall be allocated visas in a number not to exceed 23,400, plus any visas not required for the classes specified in paragraphs (1) and (2).
+&emsp;Qualified immigrants who are the married sons or married daughters of citizens of theUnited States shall be allocated visas in a number not to exceed 23,400, plus any visas not required for the classes specified in paragraphs (1) and (2).
 
 #### (4) Brothers and sisters of citizens
 
@@ -88,7 +88,7 @@ Aliens subject to the worldwide level specified in section 1151(d) of this title
 
 #### (II) Prohibition
 
-&emsp;&emsp;&emsp;&emsp;No permanent resident visa may be issued to an alien physician described in subclause (I) by the Secretary of State under section 1154(b) of this title, and the Attorney General may not adjust the status of such an alien physician from that of a nonimmigrant alien to that of a permanent resident alien under section 1255 of this title, until such time as the alien has worked full time as a physician for an aggregate of 5 years (not including the time served in the status of an alien described in section 1101(a)(15)(J) of this title), in an area or areas designated by the Secretary of Health and HumanServices as having a shortage of health care professionals or at a health care facility under the jurisdiction of the Secretary of Veterans Affairs.
+&emsp;&emsp;&emsp;&emsp;No permanent resident visa may be issued to an alien physician described in subclause (I) by the Secretary of Stateunder section 1154(b) of this title, and the Attorney General may not adjust the status of such an alien physician from that of a nonimmigrant alien to that of a permanent resident alien under section 1255 of this title, until such time as the alien has worked full time as a physician for an aggregate of 5 years (not including the time served in the status of an alien described in section 1101(a)(15)(J) of this title), in an area or areas designated by the Secretary of Health and Human Services as having a shortage of health care professionals or at a health care facility under the jurisdiction of the Secretary of Veterans Affairs.
 
 #### (III) Statutory construction
 
@@ -140,13 +140,13 @@ Aliens subject to the worldwide level specified in section 1151(d) of this title
 
 &emsp;&emsp;&emsp;(i) in which such alien has invested (after November 29, 1990) or, is actively in the process of investing, capital in an amount not less than the amount specified in subparagraph (C), and
 
-&emsp;&emsp;&emsp;(ii) which will benefit the United States economy and create full-time employment for not fewer than 10 United States citizens or aliens lawfully admitted for permanent residence or other immigrants lawfully authorized to be employed in the United States (other than the immigrant and the immigrant's spouse, sons, or daughters).
+&emsp;&emsp;&emsp;(ii) which will benefit the United States economy and create full-time employment for not fewer than 10 United States citizens or aliens lawfully admitted for permanent residence or other immigrants lawfully authorized to be employed in the United States (other than the immigrantand the immigrant's spouse, sons, or daughters).
 
 #### (B) Set-aside for targeted employment areas
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not less than 3,000 of the visas made available under this paragraph in each fiscal year shall be reserved for qualified immigrants who invest in a new commercial enterprise described in subparagraph (A)which will create employment in a targeted employment area.
+&emsp;&emsp;&emsp;Not less than 3,000 of the visas made available under this paragraph in each fiscal year shall be reserved for qualified immigrants who invest in a new commercial enterprise described in subparagraph (A) which will create employment in a targeted employment area.
 
 #### (ii) “Targeted employment area” defined
 
@@ -300,11 +300,11 @@ Aliens subject to the worldwide level specified in section 1151(d) of this title
 
 #### (d) Treatment of family members
 
-A spouse or child as defined in subparagraph (A), (B), (C), (D), or (E) of section 1101(b)(1) of this title shall, if not otherwise entitled to an immigrant status and the immediate issuance of a visa under subsection (a), (b), or (c) of this section, be entitled to the same status, and the same order of consideration provided in the respective subsection, if accompanying or following to join, the spouse or parent.
+A spouse or child as defined in subparagraph (A), (B), (C), (D), or (E) of section 1101(b)(1) ofthis title shall, if not otherwise entitled to an immigrant status and the immediate issuance of a visa under subsection (a), (b), or (c) of this section, be entitled to the same status, and the same order of consideration provided in the respective subsection, if accompanying or following to join, the spouse or parent.
 
 #### (e) Order of consideration
 
-(1) Immigrant visas made available under subsection (a) or (b) of this section shall be issued to eligible immigrants in the order in which apetition in behalf of each such immigrant is filed with the Attorney General (or in the case of special immigrants under section 1101(a)(27)(D) of this title, with the Secretary of State) as provided in section 1154(a) of this title.
+(1) Immigrant visas made available under subsection (a) or (b) of this section shall be issued to eligible immigrants in the order in which a petition in behalf of each such immigrant is filed with the Attorney General (or in the case of special immigrants under section 1101(a)(27)(D) of this title, with the Secretary of State) as provided in section 1154(a) of this title.
 
 (2) Immigrant visa numbers made available under subsection (c) of this section (relating to diversity immigrants) shall be issued to eligible qualified immigrants strictly in a random order established by the Secretary of State for the fiscal year involved.
 
@@ -356,7 +356,7 @@ The enactment date of this subsection, referred to in subsec. (b)(2)(B)(ii)(IV),
 
 2002—Subsec. (b)(5)(A). Pub. L. 107–273, §11036(a)(1)(A), substituted “enterprise (including a limited partnership)—” for “enterprise—” in introductory provisions.
 
-Subsec. (b)(5)(A)(i) to (iii). Pub. L. 107–273, §11036(a)(1)(B), (C), redesignated cls. (ii) and (iii) as (i) and (ii), respectively, and struck out former cl. (i) which read as follows: “which the alien has established,”.
+Subsec. (b)(5)(A)(i) to (iii). Pub. L. 107–273, §11036(a)(1)(B), (C), redesignated cls. (ii) and (iii) as (i)and (ii), respectively, and struck out former cl. (i) which read as follows: “which the alien has established,”.
 
 Subsec. (b)(5)(B)(i). Pub. L. 107–273, §11036(a)(2), substituted “invest in” for “establish”.
 
@@ -432,7 +432,7 @@ Subsec. (a)(8). Pub. L. 95–417 inserted provisions requiring a valid adoption 
 
 Subsec. (e). Pub. L. 94–571, §4(4), substituted provision requiring Secretary of State to terminate the registration of an alien who fails to apply for an immigrant visa within one year following notification of the availability of such visa, including provision for reinstatement of a registration upon establishment within two years following the notification that the failure to apply was due to circumstances beyond the alien's control for prior provision for discretionary termination of the registration on a waiting list of an alien failing to evidence continued intention to apply for a visa as prescribed by regulation and inserted provision for automatic revocation of approval of a petition approved under section 1154(b) of this title upon such termination.
 
-1965—Subsec. (a). Pub. L. 89–236 substituted provisions setting up preference priorities and percentage allocations of the total numerical limitation for the admission of qualified immigrants, consisting of unmarried sons or daughters of U.S. citizens (20 percent), husbands, wives, and unmarried sons or daughters of alien residents (20 percent plus any unused portion of class 1), members of professions, scientists, and artists (10 percent), married sons or daughters of U.S. citizens (10 percent plus any unused portions of classes 1–3), brothers or sisters of U.S. citizens (24 percent plus any unused portions of classes 1 through 4), skilled or unskilled persons capable of filling labor shortages in the United States (10 percent), refugees (6 percent), otherwise qualified immigrants (portion not used by classes 1 through 7), and allowing a spouse or child to be given the same status and order of consideration as the spouse or parent, for provisions spelling out the preferences under the quotas based on the previous national origins quota systems.
+1965—Subsec. (a). Pub. L. 89–236 substituted provisions setting up preference priorities and percentage allocations of the total numerical limitation for the admission of qualified immigrants, consisting of unmarried sons or daughters of U.S. citizens (20 percent), husbands, wives, and unmarried sons or daughters of alien residents (20 percent plus any unused portion of class 1), members of professions, scientists, and artists (10 percent), married sons or daughters of U.S. citizens (10percent plus any unused portions of classes 1–3), brothers or sisters of U.S. citizens (24 percent plus any unused portions of classes 1 through 4), skilled or unskilled persons capable of filling labor shortages in the United States (10 percent), refugees (6 percent), otherwise qualified immigrants (portion not used by classes 1 through 7), and allowing a spouse or child to be given the same status and order of consideration as the spouse or parent, for provisions spelling out the preferences under the quotas based on the previous national origins quota systems.
 
 Subsec. (b). Pub. L. 89–236 substituted provisions requiring that consideration be given applications for immigrant visas in the order in which the classes of which they are members are listed in subsec. (a), for provisions allowing issuance of quota immigrant visas under the previous national origins quota system in the order of filing in the first calendar month after receipt of notice of approval for which a quota number was available.
 
@@ -686,7 +686,7 @@ Additional Visa Numbers.—
 
 &emsp;“(1)
 
-In general.—In addition to any immigrant visas otherwise available, immigrant visa numbersshall be available in each of fiscal years 1992, 1993, and 1994 for spouses and children of eligible, legalized aliens (as defined in subsection (c)) in a number equal to 55,000 minus the number (if any) computed under paragraph (2) for the fiscal year.
+In general.—In addition to any immigrant visas otherwise available, immigrant visa numbers shall be available in each of fiscal years 1992, 1993, and 1994 for spouses and children of eligible, legalized aliens (as defined in subsection (c)) in a number equal to 55,000 minus the number (if any) computed under paragraph (2) for the fiscal year.
 
 &emsp;“(2)
 
@@ -770,7 +770,7 @@ Specialized knowledge.—The term ‘specialized knowledge’ has the meaning gi
 
 Supervisor.—The term ‘supervisor’ means any individual having authority, in the interest of the employer, to hire, transfer, suspend, lay off, recall, promote, discharge, assign, reward, or discipline other employees, or responsibility to direct them, or to adjust their grievances, or effectively recommend such action, if in connection with the foregoing the exercise of such authority is not merely of a routine or clerical nature, but requires the use of independent judgment.”
 
-\[Section 124 of Pub. L. 101–649 effective Nov. 29, 1990, and (unless otherwise provided) applicable to fiscal year 1991, see section 161(b) of Pub. L. 101–649, set out as an Effective Date of 1990 Amendment note under section 1101 of this title.\]
+\[Section 124 of Pub. L. 101–649 effective Nov. 29, 1990, and (unless otherwise provided) applicable to fiscal year 1991, see section 161(b) of Pub. L. 101–649, set outas an Effective Date of 1990 Amendment note under section 1101 of this title.\]
 
 #### Diversity Transition for Aliens Who Are Natives of Certain Adversely Affected Foreign States
 
@@ -778,7 +778,7 @@ Section 217(b) of Pub. L. 103–416 provided that:
 
 “(1)
 
-Eligibility.—For the purpose of carrying out the extension of the diversity transition program under the amendments made by subsection (a) \[amending section 132 of Pub. L. 101–649, set out below\], applications for natives of diversity transition countries submitted for fiscal year 1995 for diversity immigrants under section 203(c) of the Immigration and Nationality Act \[8 U.S.C. 1153(c)\] shall be considered applications for visas madeavailable for fiscal year 1995 for the diversity transition program under section 132 of the Immigration Act of 1990 \[section 132 of Pub. L. 101–649\]. No application period for the fiscal year 1995 diversity transition program shall be established and no new applications may be accepted for visas made available under such program for fiscal year 1995. Applications for visas in excess of the minimum available to natives of the country specified in section 132(c) of the Immigration Act of 1990 shall be selected for qualified applicants within the several regions defined in section 203(c)(1)(F) of the Immigration and Nationality Act in proportion to the region's share of visas issued in the diversity transition program during fiscal years 1992 and 1993.
+Eligibility.—For the purpose of carrying out the extension of the diversity transition program under the amendments made by subsection (a) \[amending section 132 of Pub. L. 101–649, set out below\], applications for natives of diversity transition countries submitted for fiscal year 1995 for diversity immigrants under section 203(c) of the Immigration and Nationality Act \[8 U.S.C. 1153(c)\] shall be considered applications for visas made available for fiscal year 1995 for the diversity transition program under section 132 of the Immigration Act of 1990 \[section 132 of Pub. L. 101–649\]. No application period for the fiscal year 1995 diversity transition program shall be established and no new applications may be accepted for visas made available under such program for fiscal year 1995. Applications for visas in excess of the minimum available to natives of the country specified in section 132(c) of the Immigration Act of 1990 shall be selected for qualified applicants within the several regions defined in section 203(c)(1)(F) of the Immigration and Nationality Act in proportion to the region's share of visas issued in the diversity transition program during fiscal years 1992 and 1993.
 
 “(2)
 

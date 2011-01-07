@@ -20,11 +20,11 @@ The radiotelegraph station and the radio direction finding apparatus required by
 
 &emsp;(i) The radio direction finding apparatus shall be efficient and capable of receiving signals with the minimum of receiver noise and of taking bearings from which the true bearing and direction may be determined. It shall be capable of receiving signals on the radiotelegraph frequencies assigned by the radio regulations annexed to the International Telecommunication Convention in force for the purposes of distress, direction finding, and maritime radio beacons, and, in installations made after May 26, 1965, such other frequencies as the Commission may for safety purposes designate.
 
-(June 19, 1934, ch. 652, title III, §355, formerly §354, as added May 20, 1937, ch. 229, §10(b), 50 Stat. 193; amended 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; renumbered §355 and amended Aug. 13, 1954, ch. 729, §2(a)(1), (c), 68 Stat. 706; Pub. L. 89–121, §6, Aug. 13, 1965, 79 Stat. 514.)
+(June 19, 1934, ch. 652, title III, §355, formerly §354, as added May 20, 1937, ch. 229, §10(b), 50 Stat. 193; amended 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; renumbered §355 and amended Aug. 13, 1954,ch. 729, §2(a)(1), (c), 68 Stat. 706; Pub. L. 89–121, §6, Aug. 13, 1965, 79 Stat. 514.)
 
 #### Amendments
 
-1965—Pub. L. 89–121 substituted “radiotelegraph station” for “radio installation” in opening provisions.
+<b>1965</b>—Pub. L. 89–121 substituted “radiotelegraph station” for “radio installation” in opening provisions.
 
 Subsec. (a). Pub. L. 89–121, among other changes, substituted “radiotelegraph station” for “radio installation”, required the main installation and the reserve installation to be electrically separate and independent of each other, and included cargo ships between 300 and 500 tons within the ships that may omit the reserve transmitter if the main transmitter complies with all the requirements for the reserve transmitter.
 
@@ -44,7 +44,7 @@ Subsec. (h). Pub. L. 89–121 redesignated former subsec. (g) as (h), and substi
 
 Subsec. (i). Pub. L. 89–121 redesignated former subsec. (h) as (i), and substituted provisions requiring the apparatus to be capable of receiving signals with the minimum of receiver noise for provisions which required the apparatus to be capable of receiving clearly perceptible signals.
 
-1954—Act Aug. 13, 1954, §2(a)(1), amended credit to section by changing section number from “354” to “355” of act June 19, 1934.
+<b>1954</b>—Act Aug. 13, 1954, §2(a)(1), amended credit to section by changing section number from “354” to “355” of act June 19, 1934.
 
 Subsec. (a). Act Aug. 13, 1954, §2(c), provided for a “reserve radiotelegraph installation” instead of merely a “reserve installation”.
 

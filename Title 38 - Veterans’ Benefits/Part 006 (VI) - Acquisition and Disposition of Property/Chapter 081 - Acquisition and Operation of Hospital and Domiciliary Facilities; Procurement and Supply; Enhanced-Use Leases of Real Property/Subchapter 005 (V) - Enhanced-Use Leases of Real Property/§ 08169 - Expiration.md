@@ -6,13 +6,13 @@ The authority of the Secretary to enter into enhanced-use leases under this subc
 
 #### Amendments
 
-1999—Pub. L. 106–117 substituted “December 31, 2011” for “December 31, 2001”.
+<b>1999</b>—Pub. L. 106–117 substituted “December 31, 2011” for “December 31, 2001”.
 
-1997—Pub. L. 105–114 substituted “December 31, 2001” for “December 31, 1997”.
+<b>1997</b>—Pub. L. 105–114 substituted “December 31, 2001” for “December 31, 1997”.
 
-1996—Pub. L. 104–110 substituted “December 31, 1997” for “December 31, 1995”.
+<b>1996</b>—Pub. L. 104–110 substituted “December 31, 1997” for “December 31, 1995”.
 
-1994—Pub. L. 103–452 substituted “December 31, 1995” for “December 31, 1994”.
+<b>1994</b>—Pub. L. 103–452 substituted “December 31, 1995” for “December 31, 1994”.
 
 #### Ratification of Actions During Period of Expired Authority
 

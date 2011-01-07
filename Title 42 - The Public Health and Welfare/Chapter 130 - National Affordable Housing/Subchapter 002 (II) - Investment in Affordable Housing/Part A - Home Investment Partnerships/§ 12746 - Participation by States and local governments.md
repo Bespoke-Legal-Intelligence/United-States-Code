@@ -90,7 +90,7 @@ The Secretary shall designate a State or unit of general local government to be 
 
 #### Amendments
 
-1992—Par. (3)(A). Pub. L. 102–550, §202(a)(1), substituted “Except as provided in paragraph (10), a jurisdiction” for “A jurisdiction”.
+<b>1992</b>—Par. (3)(A). Pub. L. 102–550, §202(a)(1), substituted “Except as provided in paragraph (10), a jurisdiction” for “A jurisdiction”.
 
 Par. (9)(B). Pub. L. 102–550, §202(a)(2), inserted “, except as provided in paragraph (10)” after “in any 1 year”.
 

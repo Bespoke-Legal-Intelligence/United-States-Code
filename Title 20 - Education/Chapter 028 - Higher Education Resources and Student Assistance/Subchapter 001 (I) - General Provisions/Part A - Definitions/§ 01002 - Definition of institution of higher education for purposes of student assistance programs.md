@@ -10,23 +10,39 @@
 
 &emsp;&emsp;(B) a postsecondary vocational institution (as defined in subsection (c) of this section); and
 
-&emsp;&emsp;(C) only for the purposes of part B of subchapter IV of this chapter, an institution outside the United States that is comparable to an institution of higher education as defined in section 1001 of this title and that has been approved by the Secretary for the purpose of part B of subchapter IV of this chapter.
+&emsp;&emsp;(C) only for the purposes of part C of subchapter IV of this chapter, an institution outside the United States that is comparable to an institution of higher education as defined in section 1001 of this title and that has been approved by the Secretary for the purpose of part C of subchapter IV of this chapter, consistent with the requirements of section 1087b(d) of this title.
 
 #### (2) Institutions outside the United States
 
 #### (A) In general
 
-&emsp;&emsp;For the purpose of qualifying as an institution under paragraph (1)(C), the Secretary shall establish criteria by regulation for the approval of institutions outside the United States and for the determination that such institutions are comparable to an institution of higher education as defined in section 1001 of this title (except that a graduate medical school, or a veterinary school, located outside the United States shall not be required to meet the requirements of section 1001(a)(4) of this title). Such criteria shall include a requirement that a student attending such school outside the United States is ineligible for loans made, insured, or guaranteed under part B of subchapter IV of this chapter unless—
+&emsp;&emsp;For the purpose of qualifying as an institution under paragraph (1)(C), the Secretary shall establish criteria by regulation for the approval of institutions outside the United States and for the determination that such institutions are comparable to an institution of higher education as defined in section 1001 of this title (except that a graduate medical school, nursing school, or a veterinary school, located outside the United States shall not be required to meet the requirements of section 1001(a)(4) of this title). Such criteria shall include a requirement that a student attending such school outside the United States is ineligible for loans made under part C of subchapter IV of this chapter unless—
 
-&emsp;&emsp;&emsp;(i) in the case of a graduate medical school located outside the United States—
+&emsp;&emsp;&emsp;(i) except as provided in subparagraph (B)(iii)(IV), in the case of a graduate medical school located outside the United States—
 
-&emsp;&emsp;&emsp;&emsp;(I)(aa) at least 60 percent of those enrolled in, and at least 60 percent of the graduates of, the graduate medical school outside the United States were not persons described in section 1091(a)(5) of this title in the year preceding the year for which a student is seeking a loan under part B of subchapter IV of this chapter; and
+&emsp;&emsp;&emsp;&emsp;(I)(aa) at least 60 percent of those enrolled in, and at least 60 percent of the graduates of, the graduate medical school outside the United States were not persons described in section 1091(a)(5) of this title in the year preceding the year for which a student is seeking a loan under part C of subchapter IV of this chapter; and
 
-&emsp;&emsp;&emsp;&emsp;(bb) at least 60 percent of the individuals who were students or graduates of the graduate medical school outside the United States or Canada (both nationals of the United States and others) taking the examinations administered by the Educational Commission for Foreign Medical Graduates received a passing score in the year preceding the year for which a student is seeking a loan under part B of subchapter IV of this chapter; or
+&emsp;&emsp;&emsp;&emsp;(bb) at least 75 percent of the individuals who were students or graduates of the graduate medical school outside the United States or Canada (both nationals of the United States and others) taking the examinations administered by the Educational Commission for Foreign Medical Graduates received a passing score in the year preceding the year for which a student is seeking a loan under part C of subchapter IV of this chapter; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the institution has a clinical training program that was approved by a State as of January 1, 1992; or
+&emsp;&emsp;&emsp;&emsp;(II) the institution—
 
-&emsp;&emsp;&emsp;(ii) in the case of a veterinary school located outside the United States that does not meet the requirements of section 1001(a)(4) of this title, the institution's students complete their clinical training at an approved veterinary school located in the United States.
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) has or had a clinical training program that was approved by a State as of January 1, 1992; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) continues to operate a clinical training program in at least one State that is approved by that State;
+
+&emsp;&emsp;&emsp;(ii) in the case of a veterinary school located outside the United States that does not meet the requirements of section 1001(a)(4) of this title, the institution's students complete their clinical training at an approved veterinary school located in the United States; or
+
+&emsp;&emsp;&emsp;(iii) in the case of a nursing school located outside of the United States—
+
+&emsp;&emsp;&emsp;&emsp;(I) the nursing school has an agreement with a hospital, or accredited school of nursing (as such terms are defined in section 296 of title 42), located in the United States that requires the students of the nursing school to complete the students’ clinical training at such hospital or accredited school of nursing;
+
+&emsp;&emsp;&emsp;&emsp;(II) the nursing school has an agreement with an accredited school of nursing located in the United States providing that the students graduating from the nursing school located outside of the United States also receive a degree from the accredited school of nursing located in the United States;
+
+&emsp;&emsp;&emsp;&emsp;(III) the nursing school certifies only Federal Direct Stafford Loans under section 1087e(a)(2)(A) of this title, Federal Direct Unsubsidized Stafford Loans under section 1087e(a)(2)(D) of this title, or Federal Direct PLUS Loans under section 1087e(a)(2)(B) of this title for students attending the institution;
+
+&emsp;&emsp;&emsp;&emsp;(IV) the nursing school reimburses the Secretary for the cost of any loan defaults for current and former students included in the calculation of the institution's cohort default rate during the previous fiscal year; and
+
+&emsp;&emsp;&emsp;&emsp;(V) not less than 75 percent of the individuals who were students or graduates of the nursing school, and who took the National Council Licensure Examination for Registered Nurses in the year preceding the year for which the institution is certifying a Federal Direct Stafford Loan under section 1087e(a)(2)(A) of this title, a Federal Direct Unsubsidized Stafford Loan under section 1087e(a)(2)(D) of this title, or a Federal Direct PLUS Loan under section 1087e(a)(2)(B) of this title, received a passing score on such examination.
 
 #### (B) Advisory panel
 
@@ -46,7 +62,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Not later than 1 year after August 14, 2008, the advisory panel described in clause (i) shall submit a report to the Secretary and to the authorizing committees recommending eligibility criteria for participation in the loan programs under part B of subchapter IV of this chapter for graduate medical schools that—
+&emsp;&emsp;&emsp;&emsp;Not later than 1 year after August 14, 2008, the advisory panel described in clause (i) shall submit a report to the Secretary and to the authorizing committees recommending eligibility criteria for participation in the loan programs under part C of subchapter IV of this chapter for graduate medical schools that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) are located outside of the United States;
 
@@ -76,31 +92,31 @@
 
 #### (III) Minimum eligibility requirement
 
-&emsp;&emsp;&emsp;&emsp;In the recommendations described in subclause (II), the criteria described in subparagraph (A)(i)(I)(bb) shall be a minimum eligibility requirement for a graduate medical school described in subclause (I) to participate in the loan programs under part B of subchapter IV of this chapter.
+&emsp;&emsp;&emsp;&emsp;In the recommendations described in subclause (II), the criteria described in subparagraph (A)(i)(I)(bb) shall be a minimum eligibility requirement for a graduate medical school described in subclause (I) to participate in the loan programs under part C of subchapter IV of this chapter.
 
 #### (IV) Authority
 
 &emsp;&emsp;&emsp;&emsp;The Secretary may—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) not earlier than 180 days after the submission of the report described in subclause (I), issue proposed regulations establishing criteria for the eligibility of graduate medical schools described in such subclause to participate in the loan programs under part B of subchapter IV of this chapter based on the recommendations of such report; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) not earlier than 180 days after the submission of the report described in subclause (I), issue proposed regulations establishing criteria for the eligibility of graduate medical schools described in such subclause to participate in the loan programs under part C of subchapter IV of this chapter based on the recommendations of such report; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) not earlier than one year after the issuance of proposed regulations under item (aa), issue final regulations establishing such criteria for eligibility.
 
 #### (C) Failure to release information
 
-&emsp;&emsp;The failure of an institution outside the United States to provide, release, or authorize release to the Secretary of such information as may be required by subparagraph (A) shall render such institution ineligible for the purpose of part B of subchapter IV of this chapter.
+&emsp;&emsp;The failure of an institution outside the United States to provide, release, or authorize release to the Secretary of such information as may be required by subparagraph (A) shall render such institution ineligible for the purpose of part C of subchapter IV of this chapter.
 
 #### (D) Special rule
 
-&emsp;&emsp;If, pursuant to this paragraph, an institution loses eligibility to participate in the programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, then a student enrolled at such institution may, notwithstanding such loss of eligibility, continue to be eligible to receive a loan under part B of subchapter IV while attending such institution for the academic year succeeding the academic year in which such loss of eligibility occurred.
+&emsp;&emsp;If, pursuant to this paragraph, an institution loses eligibility to participate in the programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, then a student enrolled at such institution may, notwithstanding such loss of eligibility, continue to be eligible to receive a loan under part C of subchapter IV while attending such institution for the academic year succeeding the academic year in which such loss of eligibility occurred.
 
 #### (3) Limitations based on course of study or enrollment
 
 &emsp;An institution shall not be considered to meet the definition of an institution of higher education in paragraph (1) if such institution—
 
-&emsp;&emsp;(A) offers more than 50 percent of such institution's courses by correspondence (excluding courses offered by telecommunications as defined in section 1091(<i>l</i>)(4) of this title), unless the institution is an institution that meets the definition in section 2302(3)(C) of this title;
+&emsp;&emsp;(A) offers more than 50 percent of such institution's courses by correspondence (excluding courses offered by telecommunications as defined in section 1091(<i>l</i>)(4) <sup>1</sup> of this title), unless the institution is an institution that meets the definition in section 2302(3)(C) of this title;
 
-&emsp;&emsp;(B) enrolls 50 percent or more of the institution's students in correspondence courses (excluding courses offered by telecommunications as defined in section 1091(<i>l</i>)(4) of this title), unless the institution is an institution that meets the definition in such section, except that the Secretary, at the request of such institution, may waive the applicability of this subparagraph to such institution for good cause, as determined by the Secretary in the case of an institution of higher education that provides a 2- or 4-year program of instruction (or both) for which the institution awards an associate or baccalaureate degree, respectively;
+&emsp;&emsp;(B) enrolls 50 percent or more of the institution's students in correspondence courses (excluding courses offered by telecommunications as defined in section 1091(<i>l</i>)(4) <sup>1</sup> of this title), unless the institution is an institution that meets the definition in such section, except that the Secretary, at the request of such institution, may waive the applicability of this subparagraph to such institution for good cause, as determined by the Secretary in the case of an institution of higher education that provides a 2- or 4-year program of instruction (or both) for which the institution awards an associate or baccalaureate degree, respectively;
 
 &emsp;&emsp;(C) has a student enrollment in which more than 25 percent of the students are incarcerated, except that the Secretary may waive the limitation contained in this subparagraph for a nonprofit institution that provides a 2- or 4-year program of instruction (or both) for which the institution awards a bachelor's degree, or an associate's degree or a postsecondary diploma, respectively; or
 
@@ -128,7 +144,11 @@
 
 &emsp;For the purpose of this section, the term “proprietary institution of higher education” means a school that—
 
-&emsp;&emsp;(A) provides an eligible program of training to prepare students for gainful employment in a recognized occupation;
+&emsp;&emsp;(A)(i) provides an eligible program of training to prepare students for gainful employment in a recognized occupation; or
+
+&emsp;&emsp;(ii)(I) provides a program leading to a baccalaureate degree in liberal arts, and has provided such a program since January 1, 2009; and
+
+&emsp;&emsp;(II) is accredited by a recognized regional accrediting agency or association, and has continuously held such accreditation since October 1, 2007, or earlier;
 
 &emsp;&emsp;(B) meets the requirements of paragraphs (1) and (2) of section 1001(a) of this title;
 
@@ -140,7 +160,11 @@
 
 #### (2) Additional institutions
 
-&emsp;The term “proprietary institution of higher education” also includes a proprietary educational institution in any State that, in lieu of the requirement in paragraph (1) of section 1001(a) of this title, admits as regular students persons who are beyond the age of compulsory school attendance in the State in which the institution is located.
+&emsp;The term “proprietary institution of higher education” also includes a proprietary educational institution in any State that, in lieu of the requirement in section 1001(a)(1) of this title, admits as regular students individuals—
+
+&emsp;&emsp;(A) who are beyond the age of compulsory school attendance in the State in which the institution is located; or
+
+&emsp;&emsp;(B) who will be dually or concurrently enrolled in the institution and a secondary school.
 
 #### (c) Postsecondary vocational institution
 
@@ -156,85 +180,19 @@
 
 #### (2) Additional institutions
 
-&emsp;The term “postsecondary vocational institution” also includes an educational institution in any State that, in lieu of the requirement in paragraph (1) of section 1001(a) of this title, admits as regular students persons who are beyond the age of compulsory school attendance in the State in which the institution is located.
+&emsp;The term “postsecondary vocational institution” also includes an educational institution in any State that, in lieu of the requirement in section 1001(a)(1) of this title, admits as regular students individuals—
 
-(Pub. L. 89–329, title I, §102, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1586; amended Pub. L. 108–98, §1(a), Oct. 10, 2003, 117 Stat. 1174; Pub. L. 109–171, title VIII, §8002, Feb. 8, 2006, 120 Stat. 155; Pub. L. 109–270, §2(c)(1), Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–315, title I, §102(a)–(d)(1), Aug. 14, 2008, 122 Stat. 3083–3085; Pub. L. 111–39, title I, §101(b)(1), July 1, 2009, 123 Stat. 1935.)
+&emsp;&emsp;(A) who are beyond the age of compulsory school attendance in the State in which the institution is located; or
 
-#### Amendment of Subsection (a)(2)(A)
+&emsp;&emsp;(B) who will be dually or concurrently enrolled in the institution and a secondary school.
 
-<i>Pub. L. 110–315, title I, §102(a)(1), (e), Aug. 14, 2008, 122 Stat. 3083, 3086, provided that, ef</i><i>fective July 1, 2010, subsection (a)(2) of this section is amended as follows:</i>
-
-<i>(1) in subparagraph (A)—</i>
-
-<i>(A) in the first sentence of the matter preceding clause (i), by inserting “nursing school,” after “graduate medical school,”;</i>
-
-<i>(B) in clause (i)—</i>
-
-<i>(i) in the matter preceding subclause (I), by inserting “except as provided in subparagraph (B)(iii)(IV),” before “in the case”; and</i>
-
-<i>(ii) by striking subclause (II) and inserting the following new subclause:</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(II) the institution—</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(aa) has or had a clinical training program that was approved by a State as of January 1, 1992; and</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(bb) continues to operate a clinical training program in at least one State that is approved by that State;”;</i>
-
-<i>(C) in clause (ii), by striking the period at the end and inserting “; or”; and</i>
-
-<i>(D) by adding at the end the following:</i>
-
-&emsp;&emsp;&emsp;<i>“(iii) in the case of a nursing school located outside of the United States—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(I) the nursing school has an agreement with a hospital, or accredited school of nursing (as such terms are defined in section 296 of title 42), located in the United States that requires the students of the nursing school to complete the students’ clinical training at such hospital or accredited school of nursing;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(II) the nursing school has an agreement with an accredited school of nursing located in the United States providing that the students graduating from the nursing school located outside of the United States also receive a degree from the accredited school of nursing located in the United States;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(III) the nursing school certifies only Federal Stafford Loans under section 1078 of this title, unsubsidized Federal Stafford Loans under section 1078–8 of this title, or Federal PLUS loans under section 1078–2 of this title for students attending the institution;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(IV) the nursing school reimburses the Secretary for the cost of any loan defaults for current and former students included in the calculation of the institution's cohort default rate during the previous fiscal year; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(V) not less than 75 percent of the individuals who were students or graduates of the nursing school, and who took the National Council Licensure Examination for Registered Nurses in the year preceding the year for which the institution is certifying a Federal Stafford Loan under section 1078 of this title, an unsubsidized Federal Stafford Loan under section 1078–8 of this title, or a Federal PLUS loan under section 1078–2 of this title, received a passing score on such examination.”</i>
-
-<i>Pub. L. 110–315, title I, §102(b), (e), Aug. 14, 2008, 122 Stat. 3085, 3086, provided that, effective July 1, 2010, subsection (a)(2)(A)(i)(I)(bb) of this section is amended by striking “60” and inserting “75”.</i>
-
-#### Amendment of Subsections (b) and (c)(2)
-
-<i>Pub. L. 110–315, title I, §102(d)(1), (e), Aug. 14, 2008, 122 Stat. 3083, 3086, provided that, effective July 1, 2010, this section is amended—</i>
-
-<i>(A) in subsection (b)—</i>
-
-<i>(i) by striking paragraph (1)(A) and inserting the following:</i>
-
-&emsp;&emsp;<i>“(A)(i) provides an eligible program of training to prepare students for gainful employment in a recognized occupation; or</i>
-
-&emsp;&emsp;<i>“(ii)(I) provides a program leading to a baccalaureate degree in liberal arts, and has provided such a program since January 1, 2009; and</i>
-
-&emsp;&emsp;<i>“(II) is accredited by a recognized regional accrediting agency or association, and has continuously held such accreditation since October 1, 2007, or earlier;”; and</i>
-
-<i>(ii) by striking paragraph (2) and inserting the following:</i>
-
-#### <i>“(2) Additional institutions</i>
-
-&emsp;<i>“The term ‘proprietary institution of higher education’ also includes a proprietary educational institution in any State that, in lieu of the requirement in section 1001(a)(1) of this title, admits as regular students individuals—</i>
-
-&emsp;&emsp;<i>“(A) who are beyond the age of compulsory school attendance in the State in which the institution is located; or</i>
-
-&emsp;&emsp;<i>“(B) who will be dually or concurrently enrolled in the institution and a secondary school.”; and</i>
-
-<i>(B) by striking paragraph (2) of subsection (c) and inserting the following:</i>
-
-#### <i>“(2) Additional institutions</i>
-
-&emsp;<i>“The term ‘postsecondary vocational institution’ also includes an educational institution in any State that, in lieu of the requirement in section 1001(a)(1) of this title, admits as regular students individuals—</i>
-
-&emsp;&emsp;<i>“(A) who are beyond the age of compulsory school attendance in the State in which the institution is located; or</i>
-
-&emsp;&emsp;<i>“(B) who will be dually or concurrently enrolled in the institution and a secondary school.”</i>
+(Pub. L. 89–329, title I, §102, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1586;amended Pub. L. 108–98, §1(a), Oct. 10, 2003, 117 Stat. 1174; Pub. L. 109–171, title VIII, §8002, Feb. 8, 2006, 120 Stat. 155; Pub. L. 109–270, §2(c)(1), Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–315, title I, §102(a)–(d)(1), Aug. 14, 2008, 122 Stat. 3083–3085; Pub. L. 111–39, title I, §101(b)(1), July 1, 2009, 123 Stat. 1935; Pub. L. 111–152, title II, §2209(b)(1), Mar. 30, 2010, 124 Stat. 1077.)
 
 #### References in Text
 
 Section 1101 of the Higher Education Opportunity Act, referred to in subsec. (a)(2)(B)(iii)(II)(gg), is section 1101 of title XI of 110–315, Aug. 14, 2008, 122 Stat. 3490, which is not classified to the Code.
+
+Section 1091(<i>l</i>) of this title, referred to in subsec. (a)(3)(A), (B), was struck out and a new section 1091(<i>l</i>) was added by Pub. L. 110–315, title IV, §485(a)(5), Aug. 14, 2008, 122 Stat. 3288. As so amended, section 1091(<i>l</i>) no longer contains a par. (4) or a definition of “telecommunications”.
 
 #### Prior Provisions
 
@@ -244,25 +202,55 @@ A prior section 1002, Pub. L. 89–329, title I, §102, as added Pub. L. 102–3
 
 Another prior section 1002, Pub. L. 89–329, title I, §102, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1278, defined terms “continuing education”, “adult learner”, “eligible institution”, and “qualified entity”, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
-Another prior section 1002, Pub. L. 89–329, title I, §102, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94Stat. 1374, provided for establishment of Commission on National Development in Postsecondary Education, prior to the general amendment of this subchapter by Pub. L. 99–498.
+Another prior section 1002, Pub. L. 89–329, title I, §102, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1374, provided for establishment of Commission on National Development in Postsecondary Education, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
 Another prior section 1002, Pub. L. 89–329, title I, §102, Nov. 8, 1965, 79 Stat. 1219; Pub. L. 94–482, title I, §101(b)(1), (g)(2), Oct. 12, 1976, 90 Stat. 2083, 2086, defined the terms “community service program”, “continuing education program”, and “resource materials sharing programs”, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 #### Amendments
 
-2009—Subsec. (a)(2)(D). Pub. L. 111–39 substituted “under part B of subchapter IV” for “under part B”.
+<b>2010</b>—Pub. L. 111–152, §2209(b)(1)(A), substituted “part C” for “part B” wherever appearing before “subchapter IV”.
 
-2008–Subsec. (a)(2)(B)(iii). Pub. L. 110–315, §102(a)(2), added cl. (iii).
+Subsec. (a)(1)(C). Pub. L. 111–152, §2209(b)(1)(B), inserted “, consistent with the requirements of section 1087b(d) of this title” before period at end.
+
+Subsec. (a)(2)(A). Pub. L. 111–152, §2209(b)(1)(C)(i), substituted “made” for “made, insured, or guaranteed” in introductory provisions.
+
+Subsec. (a)(2)(A)(iii)(III). Pub. L. 111–152, §2209(b)(1)(C)(ii)(I), substituted “only Federal Direct Stafford Loans under section 1087e(a)(2)(A) of this title, Federal Direct Unsubsidized Stafford Loans under section 1087e(a)(2)(D) of this title, or Federal Direct PLUS Loans under section 1087e(a)(2)(B) of this title” for “only Federal Stafford Loans under section 1078 of this title, unsubsidized Federal Stafford Loans under section 1078–8 of this title, or Federal PLUS loans under section 1078–2 of this title”.
+
+Subsec. (a)(2)(A)(iii)(V). Pub. L. 111–152, §2209(b)(1)(C)(ii)(II), substituted “a Federal Direct Stafford Loan under section 1087e(a)(2)(A) of this title, a Federal Direct Unsubsidized Stafford Loan under section 1087e(a)(2)(D) of this title, or a Federal Direct PLUS Loan under section 1087e(a)(2)(B) of this title” for “a Federal Stafford Loan under section 1078 of this title, an unsubsidized Federal Stafford Loan under section 1078–8 of this title, or a Federal PLUS loan under section 1078–2 of this title”.
+
+<b>2009</b>—Subsec. (a)(2)(D). Pub. L. 111–39 substituted “under part B of subchapter IV” for “under part B”.
+
+<b>2008</b>—Subsec. (a)(2)(A). Pub. L. 110–315, §102(a)(1)(A), inserted “nursing school,” after “graduate medical school,” in introductory provisions.
+
+Subsec. (a)(2)(A)(i). Pub. L. 110–315, §102(a)(1)(B)(i), inserted “except as provided in subparagraph (B)(iii)(IV),” before “in the case” in introductory provisions.
+
+Subsec. (a)(2)(A)(i)(I)(bb). Pub. L. 110–315, §102(b), substituted “75” for “60”.
+
+Subsec. (a)(2)(A)(i)(II). Pub. L. 110–315, §102(a)(1)(B)(ii), added subcl. (II) and struck out former subcl. (II) which read as follows: “the institution has a clinical training program that was approved by a State as of January 1, 1992; or”.
+
+Subsec. (a)(2)(A)(iii). Pub. L. 110–315, §102(a)(1)(C), (D), added cl. (iii).
+
+Subsec. (a)(2)(B)(iii). Pub. L. 110–315, §102(a)(2), added cl. (iii).
+
+Subsec. (b)(1)(A). Pub. L. 110–315, §102(d)(1)(A)(i), added subpar. (A) and struck out former subpar. (A) which read as follows: “provides an eligible program of training to prepare students for gainful employment in a recognized occupation;”.
 
 Subsec. (b)(1)(D) to (F). Pub. L. 110–315, §102(c), struck out “and” after semicolon in subpar. (D), substituted “; and” for period in subpar. (E), and struck out subpar. (F) which read as follows: “has at least 10 percent of the school's revenues from sources that are not derived from funds provided under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, as determined in accordance with regulations prescribed by the Secretary.”
 
-2006—Subsec. (a)(3)(A). Pub. L. 109–270 substituted “2302(3)(C) of this title” for “2471(4)(C) of this title”.
+Subsec. (b)(2). Pub. L. 110–315, §102(d)(1)(A)(ii), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The term ‘proprietary institution of higher education’ also includes a proprietary educational institution in any State that, in lieu of the requirement in paragraph (1) of section 1001(a) of this title, admits as regular students persons who are beyond the age of compulsory school attendance in the State in which the institution is located.”
+
+Subsec. (c)(2). Pub. L. 110–315, §102(d)(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The term ‘postsecondary vocational institution’ also includes an educational institution in any State that, in lieu of the requirement in paragraph (1) of section 1001(a) of this title, admits as regular students persons who are beyond the age of compulsory school attendance in the State in which the institution is located.”
+
+<b>2006</b>—Subsec. (a)(3)(A). Pub. L. 109–270 substituted “2302(3)(C) of this title” for “2471(4)(C) of this title”.
 
 Pub. L. 109–171, §8002(1), inserted “(excluding courses offered by telecommunications as defined in section 1091(<i>l</i>)(4) of this title)” after “courses by correspondence”.
 
 Subsec. (a)(3)(B). Pub. L. 109–171, §8002(2), inserted “(excluding courses offered by telecommunications as defined in section 1091(<i>l</i>)(4) of this title)” after “correspondence courses”.
 
-2003—Subsec. (a)(2)(A). Pub. L. 108–98 amended subpar. (A) generally. Prior to amendment, subpar. (A) required the Secretary to establish criteria for approval of institutions outside the United States for purposes of par. (1)(C), including certain requirements for graduate medical or veterinary schools.
+<b>2003</b>—Subsec. (a)(2)(A). Pub. L. 108–98 amended subpar. (A) generally. Prior to amendment, subpar. (A) required the Secretary to establish criteria for approval of institutions outside the United States for purposes of par. (1)(C), including certain requirements for graduate medical or veterinary schools.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–152, title II, §2209(b)(2), Mar. 30, 2010, 124 Stat. 1078, provided that: “The amendments made by subparagraph (C) of paragraph (1) \[amending this section\] shall be effective on July 1, 2010, as if enacted as part of section 102(a)(1) of the Higher Education Opportunity Act (Public Law 110–315) and subject to section 102(e) of such Act as amended by section 101(a)(2) of Public Law 111–39 (20 U.S.C. 1002 note).”
 
 #### Effective Date of 2009 Amendment
 
@@ -283,4 +271,6 @@ Pub. L. 108–98, §1(b), Oct. 10, 2003, 117 Stat. 1175, provided that: “This 
 #### Construction
 
 Pub. L. 110–315, title I, §102(d)(2), Aug. 14, 2008, 122 Stat. 3086, provided that: “Nothing in the amendment made by paragraph (1)(A)(i) to section 102(b)(1)(A) of the Higher Education Act of 1965 (20 U.S.C. 1002(b)(1)(A)) shall be construed to negate or supercede any State laws governing proprietary institutions of higher education.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -82,3 +82,4 @@
 - [&sect; 00286qq - Quota increase to 4,973,100,000 Special Drawing Rights](%C2%A7%2000286qq%20-%20Quota%20increase%20to%204%2C973%2C100%2C000%20Special%20Drawing%20Rights.md)
 - [&sect; 00286rr - Approval to sell a limited amount of the Fund's gold](%C2%A7%2000286rr%20-%20Approval%20to%20sell%20a%20limited%20amount%20of%20the%20Fund%27s%20gold.md)
 - [&sect; 00286ss - Acceptance of amendment to Articles of Agreement of Fund approved on October 22, 1997](%C2%A7%2000286ss%20-%20Acceptance%20of%20amendment%20to%20Articles%20of%20Agreement%20of%20Fund%20approved%20on%20October%2022%2C%201997.md)
+- [&sect; 00286tt - Restrictions on use of United States funds for foreign governments; protection of American taxpayers](%C2%A7%2000286tt%20-%20Restrictions%20on%20use%20of%20United%20States%20funds%20for%20foreign%20governments%3B%20protection%20of%20American%20taxpayers.md)

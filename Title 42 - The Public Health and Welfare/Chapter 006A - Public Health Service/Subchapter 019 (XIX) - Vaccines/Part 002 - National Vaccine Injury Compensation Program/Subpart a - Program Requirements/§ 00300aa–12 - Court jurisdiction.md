@@ -140,21 +140,21 @@ A prior section 2112 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-1993—Subsec. (d)(3)(D). Pub. L. 103–66 substituted “30 months (but for not more than 6 months at a time)” for “540 days”.
+<b>1993</b>—Subsec. (d)(3)(D). Pub. L. 103–66 substituted “30 months (but for not more than 6 months at a time)” for “540 days”.
 
-1992—Subsecs. (a), (c) to (g). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” and “Court of Federal Claims” for “Claims Court”, wherever appearing.
+<b>1992</b>—Subsecs. (a), (c) to (g). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” and “Court of Federal Claims” for “Claims Court”, wherever appearing.
 
-1991—Subsec. (d)(3)(D). Pub. L. 102–168, §201(c), (h)(2), realigned margin and substituted “540 days” for “180 days”.
+<b>1991</b>—Subsec. (d)(3)(D). Pub. L. 102–168, §201(c), (h)(2), realigned margin and substituted “540 days” for “180 days”.
 
 Subsec. (g). Pub. L. 102–168, §201(h)(3), made technical amendment to underlying provisions of original Act.
 
 Pub. L. 102–168, §201(d)(1), substituted “or the petitioner may choose under section 300aa–21(b) of this title to have the petition remain before the special masteror court, as the case may be” for “and the petition will be considered withdrawn under such section if the petitioner, the special master, or the court do not take certain actions” before period at end.
 
-1990—Subsec. (d)(3)(D). Pub. L. 101–502, §5(b)(1), added subpar. (D).
+<b>1990</b>—Subsec. (d)(3)(D). Pub. L. 101–502, §5(b)(1), added subpar. (D).
 
 Subsec. (g). Pub. L. 101–502, §5(b)(2), added subsec. (g).
 
-1989—Subsec. (a). Pub. L. 101–239, §6601(d), substituted “and the United States Claims Court special masters shall, in accordance with this section, have jurisdiction” for “shall have jurisdiction (1)”, “. The United States Claims Court may issue” for “, and (2) to issue”, and “deems” for “deem”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §6601(d), substituted “and the United States Claims Court special masters shall, in accordance with this section, have jurisdiction” for “shall have jurisdiction (1)”, “. The United States Claims Court may issue” for “, and (2) to issue”, and “deems” for “deem”.
 
 Subsec. (b)(1). Pub. L. 101–239, §6601(f), substituted “In all proceedings brought by the filing of a petition under section 300aa–11(b) of this title, the Secretary shall be named as the respondent, shall participate, and shall be represented in accordance with section 518(a) of title 28.” for “The Secretary shall be named as the respondent in all proceedings brought by the filing of a petition under section 300aa–11(b) of this title. Except as provided in paragraph (2), no other person may intervene in any such proceeding.”
 
@@ -180,13 +180,13 @@ Subsec. (f). Pub. L. 101–239, §6601(i), inserted “within 60 days of the dat
 
 Pub. L. 101–239, §6601(e)(1), redesignated subsec. (e) as (f).
 
-1988—Subsec. (c)(2). Pub. L. 100–360, §411(<i>o</i>)(3)(A), added Pub. L. 100–203, §4308(a), see 1987 Amendment note below.
+<b>1988</b>—Subsec. (c)(2). Pub. L. 100–360, §411(<i>o</i>)(3)(A), added Pub. L. 100–203, §4308(a), see 1987 Amendment note below.
 
 Subsec. (e). Pub. L. 100–360, §411(<i>o</i>)(2), made technical amendment to directory language of Pub. L. 100–203, §4307(3)(C), see 1987 Amendment note below.
 
 Pub. L. 100–360, §411(<i>o</i>)(3)(A), added Pub. L. 100–203, §4308(b), see 1987 Amendment note below.
 
-1987—Subsec. (a). Pub. L. 100–203, §4307(3)(A), substituted “United States Claims Court” for “district courts of the United States” and “the court” for “the courts”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–203, §4307(3)(A), substituted “United States Claims Court” for “district courts of the United States” and “the court” for “the courts”.
 
 Subsec. (c)(1). Pub. L. 100–203, §4307(3)(B), substituted “the United States Claims Court” for “the district court of the United States in which the petition is filed”.
 

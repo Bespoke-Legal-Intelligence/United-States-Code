@@ -24,7 +24,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 #### (A) Provision of funds
 
-&emsp;&emsp;There shall be available to the Secretary to carry out this section, from funds in the Treasury not otherwise appropriated, $255,000,000 for each of the fiscal years 2008 and 2009. The authority to award grants under this section shall expire at the end of fiscal year 2009.
+&emsp;&emsp;There shall be available to the Secretary to carry out this section, from funds in the Treasury not otherwise appropriated, $255,000,000 for each of the fiscal years 2008 through 2019. The authority to award grants under this section shall expire at the end of fiscal year 2019.
 
 #### (B) Availability
 
@@ -44,7 +44,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 #### (B) HSI STEM and articulation programs
 
-&emsp;&emsp;The amount made available for allocation under this subparagraph by subparagraph (A)(i) for any fiscal year shall be available for Hispanic-serving Institutions <sup>1</sup> for activities described in section 1101b of this title, with a priority given to applications that propose—
+&emsp;&emsp;The amount made available for allocation under this subparagraph by subparagraph\(A)(i) for any fiscal year shall be available for Hispanic-serving Institutions <sup>1</sup> for activities described in section 1101b of this title, with a priority given to applications that propose—
 
 &emsp;&emsp;&emsp;(i) to increase the number of Hispanic and other low income students attaining degrees in the fields of science, technology, engineering, or mathematics; and
 
@@ -78,7 +78,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;&emsp;(i) $30,000,000 for such fiscal year shall be available to eligible institutions described in subsection (a)(3) and shall be made available as grants under section 1059c of this title, treating such $30,000,000 as part of the amount appropriated for such fiscal year in a regular or supplemental appropriation Act to carry out such section, and using such $30,000,000 for purposes described in subsection (c) of such section;
 
-&emsp;&emsp;&emsp;(ii) $15,000,000 for such fiscal year shall be available to eligible institutions described in subsection (a)(4) and shall be made available as grants under section 1059d of this title, treating such $15,000,000 as part of the amount appropriated for such fiscal year in a regular or supplemental appropriation Act to carry outsuch section and using such $15,000,000 for purposes described in subsection (c) of such section;
+&emsp;&emsp;&emsp;(ii) $15,000,000 for such fiscal year shall be available to eligible institutions described in subsection (a)(4) and shall be made available as grants under section 1059d of this title, treating such $15,000,000 as part of the amount appropriated for such fiscal year in a regular or supplemental appropriation Act to carry out such section and using such $15,000,000 for purposes described in subsection (c) of such section;
 
 &emsp;&emsp;&emsp;(iii) $5,000,000 for such fiscal year shall be available to eligible institutions described in subsection (a)(6) for activities described in section 1057(c) of this title; and
 
@@ -192,7 +192,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;&emsp;(iii) an annual authorization of appropriations under the Act of March 2, 1867 (14 Stat. 438; 20 U.S.C. 123).
 
-(Pub. L. 89–329, title III, §371, formerly title IV, §499A, as added Pub. L. 110–84, title VIII, §802, Sept. 27, 2007, 121 Stat. 817; renumbered title III, §371, and amended Pub. L. 110–315, title III, §316(a)(3), (b), (c), Aug. 14, 2008, 122 Stat. 3185; Pub. L. 111–39, title III, §301(7), July 1, 2009, 123 Stat. 1937.)
+(Pub. L. 89–329, title III, §371, formerly title IV, §499A, as added Pub. L. 110–84, title VIII, §802, Sept. 27, 2007, 121 Stat. 817; renumbered title III, §371, and amended Pub. L. 110–315, title III, §316(a)(3), (b), (c), Aug. 14, 2008, 122 Stat. 3185; Pub. L. 111–39, title III, §301(7), July 1, 2009, 123 Stat. 1937; Pub. L. 111–152, title II, §2103, Mar. 30, 2010, 124 Stat. 1074.)
 
 #### References in Text
 
@@ -206,11 +206,13 @@ Section was formerly classified to section 1099e of this title prior to renumber
 
 #### Amendments
 
-2009—Subsec. (c)(3)(D), (4), (9)(C)(iii). Pub. L. 111–39, §301(7)(A)–(C)(i), substituted “1070a–11(h)” for “1070a–11(g)”.
+<b>2010</b>—Subsec. (b)(1)(A). Pub. L. 111–152 substituted “through 2019. The authority to award grants under this section shall expire at the end of fiscal year 2019.” for “and 2009. The authority to award grants under this section shall expire at the end of fiscal year 2009.”
+
+<b>2009</b>—Subsec. (c)(3)(D), (4), (9)(C)(iii). Pub. L. 111–39, §301(7)(A)–(C)(i), substituted “1070a–11(h)” for “1070a–11(g)”.
 
 Subsec. (c)(9)(F). Pub. L. 111–39, §301(7)(C)(ii), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “is not receiving assistance under part B of this subchapter.”
 
-2008—Subsec. (b)(1). Pub. L. 110–315, §316(c), amended par. (1) generally. Prior to amendment, text read as follows: “There shall be available to the Secretary to carry out this section, from funds not otherwise appropriated, $255,000,000 for each of the fiscal years 2008 and 2009. The authority to award grants under this section shall expire at the end of fiscal year 2009.”
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–315, §316(c), amended par. (1) generally. Prior to amendment, text read as follows: “There shall be available to the Secretary to carry out this section, from funds not otherwise appropriated, $255,000,000 for each of the fiscal years 2008 and 2009. The authority to award grants under this section shall expire at the end of fiscal year 2009.”
 
 Subsec. (b)(2)(C)(i). Pub. L. 110–315, §316(b)(1), substituted “this subchapter” for “subchapter III” in two places.
 
@@ -223,4 +225,6 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 #### Effective Date
 
 Section effective Oct. 1, 2007, see section 1(c) of Pub. L. 110–84, set out as an Effective Date of 2007 Amendment note under section 1070a of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

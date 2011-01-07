@@ -10,7 +10,7 @@ The function of grazing advisory boards established pursuant to this section sha
 
 #### (c) Appointment and terms of members
 
-The number of advisers on each board and the number of years an adviser may serve shall be determined by the Secretary concerned in his discretion. Each board shall consist of livestockrepresentatives who shall be lessees or permittees in the area administered by the office concerned and shall be chosen by the lessees and permittees in the area through an election prescribed by the Secretary concerned.
+The number of advisers on each board and the number of years an adviser may serve shall be determined by the Secretary concerned in his discretion. Each board shall consist of livestock representatives who shall be lessees or permittees in the area administered by the office concerned and shall be chosen by the lessees and permittees in the area through an election prescribed by the Secretary concerned.
 
 #### (d) Meetings
 
@@ -32,5 +32,5 @@ The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–514 substituted “sixteen contiguous Western States” for “eleven contiguous Western States”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–514 substituted “sixteen contiguous Western States” for “eleven contiguous Western States”.
 

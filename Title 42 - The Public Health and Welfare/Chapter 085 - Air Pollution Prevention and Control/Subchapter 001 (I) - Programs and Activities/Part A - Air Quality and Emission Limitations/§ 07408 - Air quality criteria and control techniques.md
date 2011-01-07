@@ -48,7 +48,7 @@ The Administrator shall, after consultation with the Secretary of Transportation
 
 #### (f) Information regarding processes, procedures, and methods to reduce or control pollutants in transportation; reduction of mobile source related pollutants; reduction of impact on public health
 
-(1) The Administrator shall publish and make available to appropriate Federal, State, andlocal environmental and transportation agencies not later than one year after November 15, 1990, and from time to time thereafter—
+(1) The Administrator shall publish and make available to appropriate Federal, State, and local environmental and transportation agencies not later than one year after November 15, 1990, and from time to time thereafter—
 
 &emsp;(A) information prepared, as appropriate, in consultation with the Secretary of Transportation, and after providing public notice and opportunity for comment, regarding the formulation and emission reduction potential of transportation control measures related to criteria pollutants and their precursors, including, but not limited to—
 
@@ -120,9 +120,9 @@ A prior section 108 of act July 14, 1955, was renumbered section 115 by Pub. L. 
 
 #### Amendments
 
-1998—Subsec. (f)(3), (4). Pub. L. 105–362 struck out par. (3), which required reports by the Secretary of Transportation and the Administrator to be submitted to Congress by Jan. 1, 1993, and every 3 years thereafter, reviewing and analyzing existing State and local air quality related transportation programs, evaluatingachievement of goals, and recommending changes to existing programs, and par. (4), which required that in each report after the first report the Secretary of Transportation include a description of the actions taken to implement the changes recommended in the preceding report.
+<b>1998</b>—Subsec. (f)(3), (4). Pub. L. 105–362 struck out par. (3), which required reports by the Secretary of Transportation and the Administrator to be submitted to Congress by Jan. 1, 1993, and every 3 years thereafter, reviewing and analyzing existing State and local air quality related transportation programs, evaluating achievement of goals, and recommending changes to existing programs, and par. (4), which required that in each report after the first report the Secretary of Transportation include a description of the actions taken to implement the changes recommended in the preceding report.
 
-1990—Subsec. (e). Pub. L. 101–549, §108(a), inserted first sentence and struck out former first sentence which read as follows: “The Administrator shall, after consultation with the Secretary of Transportation and the Secretary of Housing and Urban Development and State and local officials and within 180 days after August 7, 1977, and from time to time thereafter, publish guidelines on the basic program elements for the planning process assisted under section 7505 of this title.”
+<b>1990</b>—Subsec. (e). Pub. L. 101–549, §108(a), inserted first sentence and struck out former first sentence which read as follows: “The Administrator shall, after consultation with the Secretary of Transportation and the Secretary of Housing and Urban Development and State and local officials and within 180 days after August 7, 1977, and from time to time thereafter, publish guidelines on the basic program elements for the planning process assisted under section 7505 of this title.”
 
 Subsec. (f)(1). Pub. L. 101–549, §108(b), in introductory provisions, substituted present provisions for provisions relating to Federal agencies, States, and air pollution control agencies within either 6 months or one year after Aug. 7, 1977.
 
@@ -134,7 +134,7 @@ Subsec. (g). Pub. L. 101–549, §108(<i>o</i>), added subsec. (g).
 
 Subsec. (h). Pub. L. 101–549, §108(c), added subsec. (h).
 
-1977—Subsec. (a)(1)(A). Pub. L. 95–95, §401(a), substituted “emissions of which, in his judgment, cause or contribute to air pollution which may reasonably be anticipated to endanger public health or welfare” for “which in his judgment has an adverse effect on public health or welfare”.
+<b>1977</b>—Subsec. (a)(1)(A). Pub. L. 95–95, §401(a), substituted “emissions of which, in his judgment, cause or contribute to air pollution which may reasonably be anticipated to endanger public health or welfare” for “which in his judgment has an adverse effect on public health or welfare”.
 
 Subsec. (b)(1). Pub. L. 95–95, §104(a), substituted “cost of installation and operation, energy requirements, emission reduction benefits, and environmental impact of the emission control technology” for “technology and costs of emission control”.
 

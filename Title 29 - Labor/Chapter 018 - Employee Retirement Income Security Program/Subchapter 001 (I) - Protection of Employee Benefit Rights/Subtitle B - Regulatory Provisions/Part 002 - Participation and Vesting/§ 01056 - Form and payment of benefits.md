@@ -292,7 +292,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 &emsp;&emsp;For purpose <sup>1</sup> of this paragraph, the term “prohibited payment” means—
 
-&emsp;&emsp;&emsp;(i) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 1054(b)(1)(G) of this title), to a participant or beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title) occurs during any period a limitation under subparagraph (A) or (B) is in effect,
+&emsp;&emsp;&emsp;(i) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 1054(b)(1)(G) of this title), to a participant or beneficiary whose annuity starting date\(as defined in section 1055(h)(2) of this title) occurs during any period a limitation under subparagraph (A) or (B) is in effect,
 
 &emsp;&emsp;&emsp;(ii) any payment for the purchase of an irrevocable commitment from an insurer to pay benefits, and
 
@@ -368,7 +368,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (A) Presumption of continued underfunding
 
-&emsp;&emsp;In any case in which a benefit limitation under paragraph (1), (2), (3), or (4) has been applied to a plan with respect to the plan year preceding the current plan year, the adjusted funding target attainment percentage of the plan for the current plan year shall be presumed to be equal to the adjusted funding target attainment percentage of the plan for the preceding plan year until the enrolled actuary of the plan certifies the actual adjusted funding target attainment percentage of the plan for the current plan year.
+&emsp;&emsp;In any case in which a benefit limitation under paragraph (1), (2), (3), or (4) has beenapplied to a plan with respect to the plan year preceding the current plan year, the adjusted funding target attainment percentage of the plan for the current plan year shall be presumed to be equal to the adjusted funding target attainment percentage of the plan for the preceding plan year until the enrolled actuary of the plan certifies the actual adjusted funding target attainment percentage of the plan for the current plan year.
 
 #### (B) Presumption of underfunding after 10th month
 
@@ -444,6 +444,34 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 &emsp;&emsp;&emsp;Clause (ii) shall not apply with respect to any plan year beginning after 2008 unless the funding target attainment percentage (determined without regard to the reduction in the value of assets under section 1083(f)(4) of this title) of the plan for each preceding plan year beginning after 2007 was not less than the applicable percentage with respect to such preceding plan year determined under clause (ii).
 
+#### (D) Special rule for certain years
+
+&emsp;&emsp;Solely for purposes of any applicable provision—
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;For plan years beginning on or after October 1, 2008, and before October 1, 2010, the adjusted funding target attainment percentage of a plan shall be the greater of—
+
+&emsp;&emsp;&emsp;&emsp;(I) such percentage, as determined without regard to this subparagraph, or
+
+&emsp;&emsp;&emsp;&emsp;(II) the adjusted funding target attainment percentage for such plan for the plan year beginning after October 1, 2007, and before October 1, 2008, as determined under rules prescribed by the Secretary of the Treasury.
+
+#### (ii) Special rule
+
+&emsp;&emsp;&emsp;In the case of a plan for which the valuation date is not the first day of the plan year—
+
+&emsp;&emsp;&emsp;&emsp;(I) clause (i) shall apply to plan years beginning after December 31, 2007, and before January 1, 2010, and
+
+&emsp;&emsp;&emsp;&emsp;(II) clause (i)(II) shall apply based on the last plan year beginning before November 1, 2007, as determined under rules prescribed by the Secretary of the Treasury.
+
+#### (iii) Applicable provision
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “applicable provision” means—
+
+&emsp;&emsp;&emsp;&emsp;(I) paragraph (3), but only for purposes of applying such paragraph to a payment which, as determined under rules prescribed by the Secretary of the Treasury, is a payment under a social security leveling option which accelerates payments under the plan before, and reduces payments after, a participant starts receiving social security benefits in order to provide substantially similar aggregate payments both before and after such benefits are received, and
+
+&emsp;&emsp;&emsp;&emsp;(II) paragraph (4).
+
 #### (10) Secretarial authority for plans with alternate valuation date
 
 &emsp;In the case of a plan which has designated a valuation date other than the first day of the plan year, the Secretary of the Treasury may prescribe rules for the application of this subsection which are necessary to reflect the alternate valuation date.
@@ -452,11 +480,11 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 &emsp;For purposes of this subsection, in the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary of the Treasury may provide.
 
-(Pub. L. 93–406, title I, §206, Sept. 2, 1974, 88 Stat. 864; Pub. L. 98–397, title I, §104(a), Aug. 23, 1984, 98 Stat. 1433; Pub. L. 99–514, title XVIII, §1898(c)(2)(B), (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, 100 Stat. 2952–2954; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 103–465, title VII, §§761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, 108 Stat. 5033, 5048; Pub. L. 105–34, title XV, §1502(a), Aug. 5, 1997, 111 Stat. 1058; Pub. L. 109–280, title I, §§103(a), 107(a)(9), (10), title IV, §410(b), Aug. 17, 2006, 120 Stat. 809, 819, 935; Pub. L. 110–458, title I, §101(c)(1)(B)–(G), Dec. 23, 2008, 122 Stat. 5097.)
+(Pub. L. 93–406, title I, §206, Sept. 2, 1974, 88 Stat. 864; Pub. L. 98–397, title I, §104(a), Aug. 23, 1984, 98 Stat. 1433; Pub. L. 99–514, title XVIII, §1898(c)(2)(B), (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, 100 Stat. 2952–2954; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 103–465, title VII, §§761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, 108 Stat. 5033, 5048; Pub. L. 105–34, title XV, §1502(a), Aug. 5, 1997, 111 Stat. 1058; Pub. L. 109–280, title I, §§103(a), 108(a)(9), (10), formerly §107(a)(9), (10), title IV, §410(b), Aug. 17, 2006, 120 Stat. 809, 819, 935, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §101(c)(1)(B)–(G), Dec. 23, 2008, 122 Stat. 5097; Pub. L. 111–192, title II, §203(a)(1), June 25, 2010, 124 Stat. 1299.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Railroad Retirement Act of 1937, referred to in subsec. (b), is act Aug. 29, 1935, ch. 812, 49 Stat. 967, as amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and which was classified principally to subchapter III (§228a et seq.) of chapter 9 of Title 45, Railroads. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305. The Railroad Retirement Act of 1974 is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45. For complete classification of these acts to the Code, see Tables.
 
@@ -464,7 +492,9 @@ This chapter, referred to in subsecs. (e)(4) and (g)(5)(C)(i), was in the origin
 
 #### Amendments
 
-2008—Subsec. (g)(1)(B)(ii). Pub. L. 110–458, §101(c)(1)(B), substituted “an adjusted funding” for “a funding”.
+<b>2010</b>—Subsec. (g)(9)(D). Pub. L. 111–192, §203(a)(1), added subpar. (D).
+
+<b>2008</b>—Subsec. (g)(1)(B)(ii). Pub. L. 110–458, §101(c)(1)(B), substituted “an adjusted funding” for “a funding”.
 
 Subsec. (g)(1)(C). Pub. L. 110–458, §101(c)(1)(C), inserted “benefit” after “event” in heading.
 
@@ -476,29 +506,29 @@ Subsec. (g)(9)(C). Pub. L. 110–458, §101(c)(1)(F), in cl. (i), struck out “
 
 Subsec. (g)(10), (11). Pub. L. 110–458, §101(c)(1)(G), added par. (10) and redesignated former par. (10) as (11).
 
-2006—Subsec. (e)(1). Pub. L. 109–280, §107(a)(9), substituted “1083(j)(4)” for “1082(d)” and “1083(j)(4)(E)(i)” for “1082(e)(5)”.
+<b>2006</b>—Subsec. (e)(1). Pub. L. 109–280, §108(a)(9), formerly §107(a)(9), as renumbered by Pub. L. 111–192, §202(a), substituted “1083(j)(4)” for “1082(d)” and “1083(j)(4)(E)(i)” for “1082(e)(5)”.
 
-Subsec. (e)(3). Pub. L. 109–280, §107(a)(10), substituted “section 1083(j)(3) of this title by reason of section 1083(j)(4)(A) of this title” for “section 1082(e) of this title by reason of paragraph (5)(A) thereof”.
+Subsec. (e)(3). Pub. L. 109–280, §108(a)(10), formerly §107(a)(10), as renumbered by Pub. L. 111–192, §202(a), substituted “section 1083(j)(3) of this title by reason of section 1083(j)(4)(A) of this title” for “section 1082(e) of this title by reason of paragraph (5)(A) thereof”.
 
 Subsec. (f). Pub. L. 109–280, §410(b), substituted “section 1350 of this title” for “subchapter III of this chapter, the plan shall provide that”.
 
 Subsec. (g). Pub. L. 109–280, §103(a), added subsec. (g).
 
-1997—Subsec. (d)(4), (5). Pub. L. 105–34 added pars. (4) and (5).
+<b>1997</b>—Subsec. (d)(4), (5). Pub. L. 105–34 added pars. (4) and (5).
 
-1994—Subsec. (e). Pub. L. 103–465, §761(a)(9)(B)(i), added subsec. (e).
+<b>1994</b>—Subsec. (e). Pub. L. 103–465, §761(a)(9)(B)(i), added subsec. (e).
 
 Subsec. (f). Pub. L. 103–465, §776(c)(2), added subsec. (f).
 
-1989—Subsec. (a)(1). Pub. L. 101–239, §7894(c)(8), inserted “occurs” before “the date”.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–239, §7894(c)(8), inserted “occurs” before “the date”.
 
 Subsec. (d)(2). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Subsec. (d)(3)(I). Pub. L. 101–239, §7894(c)(9)(A), substituted “such Act” for “such act”.
 
-1986—Subsec. (d)(3)(E)(i). Pub. L. 99–514, §1898(c)(7)(B)(iii), substituted “A” for “In the case of any payment before a participant has separated from service, a” in introductory provisions and inserted “in the case of any payment before a participant has separated from service,” in subcl. (I).
+<b>1986</b>—Subsec. (d)(3)(E)(i). Pub. L. 99–514, §1898(c)(7)(B)(iii), substituted “A” for “In the case ofany payment before a participant has separated from service, a” in introductory provisions and inserted “in the case of any payment before a participant has separated from service,” in subcl. (I).
 
-Subsec. (d)(3)(E)(ii). Pub. L. 99–514, §1898(c)(7)(B)(iv), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “For purposes of this subparagraph, theterm ‘earliest retirement age’ has the meaning given such term by section 1055(h)(3) of this section, except that in the case of any individual account plan, the earliest retirement age shall be the date which is 10 years before the normal retirement age.”
+Subsec. (d)(3)(E)(ii). Pub. L. 99–514, §1898(c)(7)(B)(iv), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “For purposes of this subparagraph, the term ‘earliest retirement age’ has the meaning given such term by section 1055(h)(3) of this section, except that in the case of any individual account plan, the earliest retirement age shall be the date which is 10 years before the normal retirement age.”
 
 Subsec. (d)(3)(F)(i). Pub. L. 99–514, §1898(c)(6)(B), inserted “(and any spouse of the participant shall not be treated as a spouse of the participant for such purposes)”.
 
@@ -520,7 +550,7 @@ Subsec. (d)(3)(M). Pub. L. 99–514, §1898(c)(5), added subpar. (M).
 
 Subsec. (d)(3)(N). Pub. L. 99–514, §1898(c)(4)(B), redesignated subpar. (L) as (N).
 
-1984—Subsec. (d)(3). Pub. L. 98–397 added par. (3).
+<b>1984</b>—Subsec. (d)(3). Pub. L. 98–397 added par. (3).
 
 #### Effective Date of 2008 Amendment
 
@@ -530,7 +560,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 Amendment by section 103(a) of Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2007, with collective bargaining exception, see section 103(c) of Pub. L. 109–280, set out as a note under section 1021 of this title.
 
-Amendment by section 107(a)(9), (10) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 107(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
+Amendment by section 108(a)(9), (10) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 108(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
 
 Pub. L. 109–280, title IV, §410(c), Aug. 17, 2006, 120 Stat. 935, provided that: “The amendments made by this section \[amending this section and section 1350 of this title\] shall apply to distributions made after final regulations implementing subsections (c) and (d) of section 4050 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1350(c), (d)\] (as added by subsection (a)), respectively, are prescribed.”
 
@@ -570,11 +600,11 @@ Amendment by Pub. L. 98–397 effective Jan. 1, 1985, except as otherwise provid
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “purposes”.</i>
 

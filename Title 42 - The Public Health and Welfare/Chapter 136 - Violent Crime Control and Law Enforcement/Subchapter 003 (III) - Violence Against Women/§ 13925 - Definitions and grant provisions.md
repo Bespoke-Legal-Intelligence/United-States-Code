@@ -32,7 +32,7 @@ In this subchapter:
 
 &emsp;The term “court-based” and “court-related personnel” mean persons working in the court, whether paid or volunteer, including—
 
-&emsp;&emsp;(A) clerks, special masters, domestic relations officers, administrators, mediators, custody evaluators, guardians ad litem, lawyers, negotiators, probation, parole, interpreters, victim assistants, victim advocates, and judicial, administrative, or any other professionals or personnel similarly involved in the legal process;
+&emsp;&emsp;(A) clerks, special masters, domestic relations officers, administrators, mediators, custody evaluators, guardians ad litem, lawyers, negotiators, probation, parole, interpreters, victim assistants, victim advocates, and judicial, administrative, or any otherprofessionals or personnel similarly involved in the legal process;
 
 &emsp;&emsp;(B) court security personnel;
 
@@ -172,7 +172,7 @@ In this subchapter:
 
 #### (26) State domestic violence coalition
 
-&emsp;The term “State domestic violence coalition” means a program determined by the Administration for Children and Families under the Family Violence Prevention and Services Act (42 U.S.C. 10410(b)).
+&emsp;The term “State domestic violence coalition” means a program determined by the Administration for Children and Families under sections 10402 and 10411 of this title.
 
 #### (27) State sexual assault coalition
 
@@ -206,7 +206,7 @@ In this subchapter:
 
 &emsp;The term “tribal nonprofit organization” means—
 
-&emsp;&emsp;(A) a victim services provider that has as its primary purpose to assist Native victims of domestic violence, dating violence, sexual assault, or stalking; and
+&emsp;&emsp;(A) a victim services provider that has as its primary purpose to assist Native victimsof domestic violence, dating violence, sexual assault, or stalking; and
 
 &emsp;&emsp;(B) staff and leadership of the organization must include persons with a demonstrated history of assisting American Indian or Alaska Native victims of domestic violence, dating violence, sexual assault, or stalking.
 
@@ -282,7 +282,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(i) nonpersonally identifying data in the aggregate regarding services to their clients and nonpersonally identifying demographic information in order to comply with Federal, State, tribal, or territorial reporting, evaluation, or data collection requirements;
 
-&emsp;&emsp;&emsp;(ii) court-generated information and law-enforcement generated information contained in secure, governmental registries for protection order enforcement purposes; and
+&emsp;&emsp;&emsp;(ii) court-generated information and law-enforcement generated information contained in secure, governmental registriesfor protection order enforcement purposes; and
 
 &emsp;&emsp;&emsp;(iii) law enforcement- and prosecution-generated information necessary for law enforcement and prosecution purposes.
 
@@ -320,7 +320,7 @@ In this subchapter:
 
 #### (9) Prohibition on tort litigation
 
-&emsp;Funds appropriated for the grant program under this subchapter may not be used to fundcivil representation in a lawsuit based on a tort claim. This paragraph should not be construed as a prohibition on providing assistance to obtain restitution in a protection order or criminal case.
+&emsp;Funds appropriated for the grant program under this subchapter may not be used to fund civil representation in a lawsuit based on a tort claim. This paragraph should not be construed as a prohibition on providing assistance to obtain restitution in a protection order or criminal case.
 
 #### (10) Prohibition on lobbying
 
@@ -330,7 +330,7 @@ In this subchapter:
 
 &emsp;Of the total amounts appropriated under this subchapter, not less than 3 percent and up to 8 percent, unless otherwise noted, shall be available for providing training and technical assistance relating to the purposes of this subchapter to improve the capacity of the grantees, subgrantees, and other entities. If there is a demonstrated history that the Office on Violence Against Women has previously set aside amounts greater than 8 percent for technical assistance and training relating to grant programs authorized under this subchapter, the Office has the authority to continue setting aside amounts greater than 8 percent.
 
-(Pub. L. 103–322, title IV, §40002, as added Pub. L. 109–162, §3(a), Jan. 5, 2006, 119 Stat. 2964; amended Pub. L. 109–271, §§1(d)–(f), 2(e), Aug. 12, 2006, 120 Stat. 751, 752.)
+(Pub. L. 103–322, title IV, §40002, as added Pub. L. 109–162, §3(a), Jan. 5, 2006, 119 Stat. 2964; amended Pub. L. 109–271, §§1(d)–(f), 2(e), Aug. 12, 2006, 120 Stat. 751, 752; Pub. L. 111–320, title II, §202(d), Dec. 20, 2010, 124 Stat. 3509.)
 
 #### References in Text
 
@@ -340,15 +340,15 @@ The Native American Housing Assistance and Self-Determination Act of 1996, refer
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (a)(13), (30)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Family Violence Prevention and Services Act, referred to in subsec. (a)(26), is title III of Pub. L. 98–457, Oct. 9, 1984, 98 Stat. 1757, as amended, which is classified generally to chapter 110 (§10401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10401 of this title and Tables.
-
 The Public Health Service Act, referred to in subsec. (a)(27), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§ 201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 This Act, referred to in subsec. (b)(1), (2)(E), is Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1796, known as the Violent Crime Control and Law Enforcement Act of 1994. For complete classification of this Act to the Code, see Short Title note set out under section 13701 of this title and Tables.
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–271, §1(e)(1), substituted “Alaska Native” for “Alaskan”.
+<b>2010</b>—Subsec. (a)(26). Pub. L. 111–320 substituted “under sections 10402 and 10411 of this title” for “under the Family Violence Prevention and Services Act (42 U.S.C. 10410(b))”.
+
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–271, §1(e)(1), substituted “Alaska Native” for “Alaskan”.
 
 Subsec. (a)(23). Pub. L. 109–271, §1(d), substituted “proscribed” for “prescribed”.
 

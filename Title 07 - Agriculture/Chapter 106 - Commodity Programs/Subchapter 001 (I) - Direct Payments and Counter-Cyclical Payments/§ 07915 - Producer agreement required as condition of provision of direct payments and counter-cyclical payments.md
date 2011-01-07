@@ -28,7 +28,7 @@
 
 #### (1) Termination
 
-&emsp;Except as provided in paragraph (2), a transfer of (or change in) the interest of the producers on a farm in base acres for which direct payments or counter-cyclical payments aremade shall result in the termination of the payments with respect to the base acres, unless the transferee or owner of the acreage agrees to assume all obligations under subsection (a) of this section. The termination shall take effect on the date determined by the Secretary.
+&emsp;Except as provided in paragraph (2), a transfer of (or change in) the interest of the producers on a farm in base acres for which direct payments or counter-cyclical payments are made shall result in the termination of the payments with respect to the base acres, unless the transferee or owner of the acreage agrees to assume all obligations under subsection (a) of this section. The termination shall take effect on the date determined by the Secretary.
 
 #### (2) Exception
 

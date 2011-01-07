@@ -12,7 +12,7 @@ The Tariff Act of 1930, as amended, referred to in text, is act June 17, 1930, c
 
 #### Amendments
 
-1979—Pub. L. 96–39 substituted “subtitle B of title VII of the Tariff Act of 1930” for “the Anti-Dumping Act, 1921,”.
+<b>1979</b>—Pub. L. 96–39 substituted “subtitle B of title VII of the Tariff Act of 1930” for “the Anti-Dumping Act, 1921,”.
 
 #### Effective Date of 1979 Amendment
 

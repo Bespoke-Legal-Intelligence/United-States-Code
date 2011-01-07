@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;In order to better coordinate efforts with the separate Industrial Assessment Centers and to ensure that the energy efficiency and, when applicable, the renewable nature of deploying mature clean energy technology is fully accounted for, the Secretary shall relocate theadministration of the Clean Energy Application Centers to the Office of Energy Efficiency and Renewable Energy within the Department of Energy.
+&emsp;In order to better coordinate efforts with the separate Industrial Assessment Centers and toensure that the energy efficiency and, when applicable, the renewable nature of deploying mature clean energy technology is fully accounted for, the Secretary shall relocate the administration of the Clean Energy Application Centers to the Office of Energy Efficiency and Renewable Energy within the Department of Energy.
 
 #### (2) Office of Electricity Delivery and Energy Reliability
 

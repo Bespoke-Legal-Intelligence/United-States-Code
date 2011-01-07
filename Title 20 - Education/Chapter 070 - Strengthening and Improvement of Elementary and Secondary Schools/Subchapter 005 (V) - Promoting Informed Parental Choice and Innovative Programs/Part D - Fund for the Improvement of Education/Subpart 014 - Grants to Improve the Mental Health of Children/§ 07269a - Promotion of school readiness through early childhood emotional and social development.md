@@ -88,7 +88,7 @@ In this section:
 
 #### (3) Provider of early childhood services
 
-&emsp;The term “provider of early childhood services” means a public or private entity that has regular contact with young children, including child welfare agencies, child care providers, Head Start and Early Head Start providers, preschools, kindergartens, libraries, mentalhealth professionals, family courts, homeless shelters, and primary care providers.
+&emsp;The term “provider of early childhood services” means a public or private entity that has regular contact with young children, including child welfare agencies, child care providers, Head Start and Early Head Start providers, preschools, kindergartens, libraries, mental health professionals, family courts, homeless shelters, and primary care providers.
 
 (Pub. L. 89–10, title V, §5542, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1853.)
 

@@ -10,3 +10,5 @@
 
 General Accounting Office redesignated Government Accountability Office. See section 8 of Pub. L. 108–271, set out as a note under section 702 of this title.
 
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
+

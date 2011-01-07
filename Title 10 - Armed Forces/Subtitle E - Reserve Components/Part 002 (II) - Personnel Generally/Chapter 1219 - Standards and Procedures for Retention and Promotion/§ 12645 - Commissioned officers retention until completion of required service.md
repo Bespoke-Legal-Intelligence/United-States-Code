@@ -34,23 +34,23 @@ The word “subsequently” is omitted as surplusage.
 
 #### Amendments
 
-1996—Subsec. (b)(2). Pub. L. 104–201 inserted “or a reserve active-status list” after “active-duty list”.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–201 inserted “or a reserve active-status list” after “active-duty list”.
 
 Subsec. (b)(3), (4). Pub. L. 104–106 made technical correction to directory language of Pub. L. 103–337, §1627. See 1994 Amendment note below.
 
-1994—Pub. L. 103–337, §1662(h)(2), renumbered section 1005 of this title as this section.
+<b>1994</b>—Pub. L. 103–337, §1662(h)(2), renumbered section 1005 of this title as this section.
 
 Subsec. (a). Pub. L. 103–337, §1675(d)(2), substituted “573, 1407, 1409, or 1411” for “337, 361, 363, 573, 837, 861, or 863”.
 
 Subsec. (b)(3), (4). Pub. L. 103–337, §1627, as amended by Pub. L. 104–106, added pars. (3) and (4).
 
-1984—Pub. L. 98–525 substituted “(a) Except as provided in subsection (b), a reserve commissioned officer” for “A reserve commissioned officer, other than a commissioned warrant officer,”, struck out the comma before “may”, and added subsec. (b).
+<b>1984</b>—Pub. L. 98–525 substituted “(a) Except as provided in subsection (b), a reserve commissioned officer” for “A reserve commissioned officer, other than a commissioned warrant officer,”, struck out the comma before “may”, and added subsec. (b).
 
-1975—Pub. L. 93–586 inserted reference to chapter 21 of title 14.
+<b>1975</b>—Pub. L. 93–586 inserted reference to chapter 21 of title 14.
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, seesection 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 
 #### Effective Date of 1994 Amendment
 

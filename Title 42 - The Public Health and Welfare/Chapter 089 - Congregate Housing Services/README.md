@@ -18,8 +18,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Subsec. (b) enacted without a par. (2).</i>
-
 
 ---
 

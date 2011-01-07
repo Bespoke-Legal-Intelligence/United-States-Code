@@ -1,6 +1,6 @@
 ### §1104. Cost-of-living adjustments
 
-(a) In the computation of cost-of-living adjustments for fiscal years 1998 through 2013 in the rates of, and dollar limitations applicable to, compensation payable under this chapter, such adjustments shall be made by a uniform percentage that is no more than the percentage equal to the social security increase for that fiscal year, with all increased monthly rates and limitations (other than increased rates or limitations equal to a whole dollar amount) rounded down to the next lower whole dollar amount.
+(a) In the computation of cost-of-living adjustments for fiscal years 1998 through 2013 in therates of, and dollar limitations applicable to, compensation payable under this chapter, such adjustments shall be made by a uniform percentage that is no more than the percentage equal to the social security increase for that fiscal year, with all increased monthly rates and limitations (other than increased rates or limitations equal to a whole dollar amount) rounded down to the next lower whole dollar amount.
 
 (b) For purposes of this section, the term “social security increase” means the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased for any fiscal year as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
 
@@ -12,9 +12,9 @@ The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 5
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–183 substituted “2013” for “2011”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–183 substituted “2013” for “2011”.
 
-2001—Subsec. (a). Pub. L. 107–103 substituted “2011” for “2002”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–103 substituted “2011” for “2002”.
 
-1998—Pub. L. 105–368 renumbered section 1103 of this title as this section.
+<b>1998</b>—Pub. L. 105–368 renumbered section 1103 of this title as this section.
 

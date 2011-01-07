@@ -22,7 +22,7 @@
 
 (2) The Secretary shall designate a chairman of the Task Force from among its members.
 
-(3) Members shall be appointed for the life of the Task Force. Any vacancy in the Task Force shall be filled in the same manner in which the original appointment was made.
+(3) Members shall be appointed for the life of the Task Force. Any vacancy in the Task Forceshall be filled in the same manner in which the original appointment was made.
 
 #### (b) Meetings; quorum; hearings
 
@@ -74,5 +74,5 @@ The Task Force shall cease to exist at the end of the 180-day period beginning o
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

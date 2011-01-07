@@ -6,7 +6,7 @@ The provision of this title shall apply to all unappropriated authorizations con
 
 #### Amendments
 
-1998—Pub. L. 105–178 inserted “refuge roads,” after “Indian reservation roads,”.
+<b>1998</b>—Pub. L. 105–178 inserted “refuge roads,” after “Indian reservation roads,”.
 
-1983—Pub. L. 97–424 substituted “park road” for “park roads and trails” after “forest development roads and trails,”.
+<b>1983</b>—Pub. L. 97–424 substituted “park road” for “park roads and trails” after “forest development roads and trails,”.
 

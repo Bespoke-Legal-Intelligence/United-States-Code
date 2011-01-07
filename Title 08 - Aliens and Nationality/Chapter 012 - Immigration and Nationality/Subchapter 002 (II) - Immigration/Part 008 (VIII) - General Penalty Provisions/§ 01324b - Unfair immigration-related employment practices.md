@@ -48,7 +48,7 @@
 
 #### (2) No overlap with EEOC complaints
 
-&emsp;No charge may be filed respecting an unfair immigration-related employment practice described in subsection (a)(1)(A) of this section if a charge with respect to that practice based on the same set of facts has been filed with the Equal Employment Opportunity Commission under title VII of the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\], unless the charge is dismissed as being outside the scope of such title. No charge respecting an employment practice may be filed with the Equal Employment Opportunity Commission under such title if a charge with respect to such practice based on the same set of facts has been filed under this subsection, unless the charge is dismissed under this section as being outside the scope of this section.
+&emsp;No charge may be filed respecting an unfair immigration-related employment practice described in subsection (a)(1)(A) of this section ifa charge with respect to that practice based on the same set of facts has been filed with the Equal Employment Opportunity Commission under title VII of the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\], unless the charge is dismissed as being outside the scope of such title. No charge respecting an employment practice may be filed with the Equal Employment Opportunity Commission under such title if a charge with respect to such practice based on the same set of facts has been filed under this subsection, unless the charge is dismissed under this section as being outside the scope of this section.
 
 #### (c) Special Counsel
 
@@ -72,7 +72,7 @@
 
 #### (1) By Special Counsel
 
-&emsp;The Special Counsel shall investigate each charge received and, within 120 days of thedate of the receipt of the charge, determine whether or not there is reasonable cause to believe that the charge is true and whether or not to bring a complaint with respect to the charge before an administrative law judge. The Special Counsel may, on his own initiative, conduct investigations respecting unfair immigration-related employment practices and, based on such an investigation and subject to paragraph (3), file a complaint before such a judge.
+&emsp;The Special Counsel shall investigate each charge received and, within 120 days of the date of the receipt of the charge, determine whether or not there is reasonable cause to believe that the charge is true and whether or not to bring a complaint with respect to the charge before an administrative law judge. The Special Counsel may, on his own initiative, conduct investigations respecting unfair immigration-related employment practices and, based on such an investigation and subject to paragraph (3), file a complaint before such a judge.
 
 #### (2) Private actions
 
@@ -122,7 +122,7 @@
 
 &emsp;&emsp;Such an order also may require the person or entity—
 
-&emsp;&emsp;&emsp;(i) to comply with the requirements of section 1324a(b) of this title with respect toindividuals hired (or recruited or referred for employment for a fee) during a period of up to three years;
+&emsp;&emsp;&emsp;(i) to comply with the requirements of section 1324a(b) of this title with respect to individuals hired (or recruited or referred for employment for a fee) during a period of up to three years;
 
 &emsp;&emsp;&emsp;(ii) to retain for the period referred to in clause (i) and only for purposes consistent with section 1324a(b)(5) of this title, the name and address of each individual who applies, in person or in writing, for hiring for an existing position, or for recruiting or referring for a fee, for employment in the United States;
 
@@ -182,7 +182,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 #### (3) Enforcement decree in original review
 
-&emsp;If, upon appeal of an order under subsection (i)(1) of this section, the United States court of appeals does not reverse such order, suchcourt shall have the jurisdiction to make and enter a decree enforcing the order of the administrative law judge.
+&emsp;If, upon appeal of an order under subsection (i)(1) of this section, the United States court of appeals does not reverse such order, such court shall have the jurisdiction to make and enter a decree enforcing the order of the administrative law judge.
 
 #### (4) Awarding of attorney's fees
 
@@ -216,7 +216,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 (3) There are authorized to be appropriated to carry out this subsection $10,000,000 for each fiscal year (beginning with fiscal year 1991).
 
-(June 27, 1952, ch. 477, title II, ch. 8, §274B, as added Pub. L. 99–603, title I, §102(a), Nov. 6, 1986, 100 Stat. 3374; amended Pub. L. 100–525, §2(b), Oct. 24, 1988, 102 Stat. 2610; Pub. L. 101–649, title V, §§531, 532(a), 533(a), 534(a), 535(a), 536(a), 537(a), 539(a), Nov. 29, 1990, 104 Stat. 5054–5056; Pub. L. 102–232, title III, §306(b)(1), (3), (c)(1), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 103–416, title II, §219(q), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title IV, §421(a), title VI, §671(d)(1)(B), Sept. 30, 1996, 110 Stat. 3009–670, 3009–723.)
+(June 27, 1952, ch. 477, title II, ch. 8, §274B, as added Pub. L. 99–603, title I, §102(a), Nov. 6, 1986, 100 Stat. 3374; amended Pub. L. 100–525, §2(b), Oct. 24, 1988, 102 Stat. 2610; Pub. L. 101–649, title V, §§531, 532(a), 533(a), 534(a), 535(a), 536(a), 537(a), 539(a), Nov. 29, 1990, 104 Stat. 5054–5056; Pub. L.102–232, title III, §306(b)(1), (3), (c)(1), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 103–416, title II, §219(q), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title IV, §421(a), title VI, §671(d)(1)(B), Sept. 30, 1996, 110 Stat. 3009–670, 3009–723.)
 
 #### References in Text
 

@@ -12,7 +12,7 @@ The Secretary shall establish and maintain an ocean acidification program within
 
 &emsp;&emsp;(C) research to identify and develop adaptation strategies and techniques for effectively conserving marine ecosystems as they cope with increased ocean acidification;
 
-&emsp;&emsp;(D) as an integral part of the research programs described in this chapter, educationalopportunities that encourage an interdisciplinary and international approach to exploring the impacts of ocean acidification;
+&emsp;&emsp;(D) as an integral part of the research programs described in this chapter, educational opportunities that encourage an interdisciplinary and international approach to exploring the impacts of ocean acidification;
 
 &emsp;&emsp;(E) as an integral part of the research programs described in this chapter, national public outreach activities to improve the understanding of current scientific knowledge of ocean acidification and its impacts on marine resources; and
 

@@ -16,5 +16,5 @@ Minor verbal change was made.
 
 #### Amendments
 
-1994—Pub. L. 103–322 inserted “or attempts to rob” after “robs”.
+<b>1994</b>—Pub. L. 103–322 inserted “or attempts to rob” after “robs”.
 

@@ -6,7 +6,7 @@ The Secretary of the Treasury shall maintain in the unemployment trust fund esta
 
 #### (b) Payment of benefits or refunds
 
-All moneys in the account shall be used solely for the payment of the benefits and refunds provided for by this chapter. The Board shall, from time to time, certify to the Secretary of the Treasury the name and address of each person orcompany entitled to receive benefits or a refund payment under this chapter, the amount of such payment, and the time at which it shall be made. Prior to audit or settlement by the Government Accountability Office, the Secretary of the Treasury, through the Fiscal Service of the Treasury Department, shall make payments from the account directly to such person or company of the amount of benefits or refund so certified by the Board: <i>Provided, however</i>, That if the Board shall so request, the Secretary of the Treasury, through the Fiscal Service of the Treasury Department, shall transmit benefits payments to the Board for distribution by it through employment offices or in such other manner as the Board deems proper.
+All moneys in the account shall be used solely for the payment of the benefits and refunds provided for by this chapter. The Board shall, from time to time, certify to the Secretary of the Treasury the name and address of each person or company entitled to receive benefits or a refund payment under this chapter, the amount of such payment, and the time at which it shall be made. Prior to audit or settlement by the Government Accountability Office, the Secretary of the Treasury, through the Fiscal Service of the Treasury Department, shall make payments from the account directly to such person or company of the amount of benefits or refund so certified by the Board: <i>Provided, however</i>, That if the Board shall so request, the Secretary of the Treasury, through the Fiscal Service of the Treasury Department, shall transmit benefits payments to the Board for distribution by it through employment offices or in such other manner as the Board deems proper.
 
 #### (c) Annual report to Congress
 
@@ -14,7 +14,7 @@ The Board shall include in its annual report to Congress a statement with respec
 
 #### (d) Transfer and retransfer of funds; interest
 
-Whenever the Board finds at any time that the balance in the railroad unemployment insurance account will be insufficient to pay the benefits and refunds which it estimates are due, or will become due, under this chapter, it shall request the Secretary of the Treasury to transfer from the Railroad Retirement Account to the credit of the railroad unemployment insurance account such moneys as the Board estimates would be necessary for the payment of such benefits and refunds, and the Secretary shall make such transfer. Whenever the Board finds that the balance in the railroad unemployment insurance account, without regard to the amounts transferred pursuant to the next preceding sentence, is sufficient to pay such benefits and refunds, it shall request the Secretary of the Treasury to retransfer from the railroad unemployment insurance account to the credit of the Railroad Retirement Account such moneys as in its judgment are not needed for the payment of such benefits and refunds, plus interest at a rate for each fiscal year equal to the average rate of interest borne by all special obligations held by the Railroad Retirement Account on the last day of the preceding fiscal year, rounded to the nearest multiple of one-eighth of 1 per centum, and the Secretary shall make such retransfer. In determining the balance in the railroad unemployment insurance account as of September 30 of any year pursuant to section 358(a) of this title, any moneys transferred from the Railroad Retirement Account to the credit of the railroad unemployment insurance account which have not been retransferred as of such date from the latter account to the credit of the former, plus the interest accrued thereon to that date, shall be disregarded.
+Whenever the Board finds at any time that the balance in the railroad unemployment insurance account will be insufficient to pay the benefits and refunds which it estimates are due, or will become due, under this chapter, it shall request the Secretary of the Treasury to transfer from the Railroad Retirement Account to the credit of the railroad unemployment insurance account such moneys as the Board estimates would be necessary for the payment of such benefits and refunds, and the Secretary shall make such transfer. Whenever the Board finds that thebalance in the railroad unemployment insurance account, without regard to the amounts transferred pursuant to the next preceding sentence, is sufficient to pay such benefits and refunds, it shall request the Secretary of the Treasury to retransfer from the railroad unemployment insurance account to the credit of the Railroad Retirement Account such moneys as in its judgment are not needed for the payment of such benefits and refunds, plus interest at a rate for each fiscal year equal to the average rate of interest borne by all special obligations held by the Railroad Retirement Account on the last day of the preceding fiscal year, rounded to the nearest multiple of one-eighth of 1 per centum, and the Secretary shall make such retransfer. In determining the balance in the railroad unemployment insurance account as of September 30 of any year pursuant to section 358(a) of this title, any moneys transferred from the Railroad Retirement Account to the credit of the railroad unemployment insurance account which have not been retransferred as of such date from the latter account to the credit of the former, plus the interest accrued thereon to that date, shall be disregarded.
 
 (June 25, 1938, ch. 680, §10 (less (e)–(g)), 52 Stat. 1104; June 20, 1939, ch. 227, §13, 53 Stat. 848; 1940 Reorg. Plan No. III, §1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; June 23, 1948, ch. 608, §7, 62 Stat. 578; Pub. L. 86–28, pt. III, §308(a), May 19, 1959, 73 Stat. 32; Pub. L. 88–133, title III, §305, Oct. 5, 1963, 77 Stat. 223; Pub. L. 89–700, title II, §205, Oct. 30, 1966, 80 Stat. 1087; Pub. L. 90–257, title II, §205, Feb. 15, 1968, 82 Stat. 24; Pub. L. 93–445, title IV, §403, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–92, title I, §1(i), Aug. 9, 1975, 89 Stat. 464; Pub. L. 98–76, title III, §302, Aug. 12, 1983, 97 Stat. 432; Pub. L. 99–107, §4, Sept. 30, 1985, 99 Stat. 479; Pub. L. 99–155, §2(c), Nov. 14, 1985, 99 Stat. 814; Pub. L. 99–181, §3, Dec. 13, 1985, 99 Stat. 1172; Pub. L. 99–189, §3, Dec. 18, 1985, 99 Stat. 1184; Pub. L. 99–272, title XIII, §13302, Apr. 7, 1986, 100 Stat. 327; Pub. L. 100–647, title VII, §7103(b)(1), Nov. 10, 1988, 102 Stat. 3770; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
@@ -30,13 +30,13 @@ Section 10(e)–(g) of act June 25, 1938, amended section 1104 of Title 42, The 
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1988—Subsec. (a). Pub. L. 100–647 substituted “0.65” for “0.5”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647 substituted “0.65” for “0.5”.
 
-1986—Subsec. (d). Pub. L. 99–272 struck out at end “No transfer shall be made under this subsection from Railroad Retirement Account after December 19, 1985, and no such transfer shall be made on or before December 19, 1985, for purposes of paying benefits and refunds due after such date.”
+<b>1986</b>—Subsec. (d). Pub. L. 99–272 struck out at end “No transfer shall be made under this subsection from Railroad Retirement Account after December 19, 1985, and no such transfer shall be made on or before December 19, 1985, for purposes of paying benefits and refunds due after such date.”
 
-1985—Subsec. (d). Pub. L. 99–189 substituted “December 19, 1985” for “December 18, 1985” wherever appearing.
+<b>1985</b>—Subsec. (d). Pub. L. 99–189 substituted “December 19, 1985” for “December 18, 1985” wherever appearing.
 
 Pub. L. 99–181 substituted “December 18, 1985” for “December 14, 1985” wherever appearing.
 
@@ -44,27 +44,27 @@ Pub. L. 99–155 substituted “December 14, 1985” for “November 14, 1985”
 
 Pub. L. 99–107 substituted “November 14, 1985” for “September 30, 1985” wherever appearing.
 
-1983—Subsec. (d). Pub. L. 98–76 inserted provisions that no transfer shall be made under this subsection from Railroad Retirement Account after September 30, 1985, and no such transfer shall be made on or before September 30, 1985, for purposes of paying benefits and refunds due after such date.
+<b>1983</b>—Subsec. (d). Pub. L. 98–76 inserted provisions that no transfer shall be made under this subsection from Railroad Retirement Account after September 30, 1985, and no such transfer shall be made on or before September 30, 1985, for purposes of paying benefits and refunds due after such date.
 
-1975—Subsec. (a)(i). Pub. L. 94–92, §1(i)(1), substituted “0.5” for “0.25”.
+<b>1975</b>—Subsec. (a)(i). Pub. L. 94–92, §1(i)(1), substituted “0.5” for “0.25”.
 
 Subsec. (a)(ii). Pub. L. 94–92, §1(i)(2), struck out “and pursuant to subsection (h)\[e\] of this section”. Congress probably intended to strike out internal reference to subsec. (e) of this section in view of repeal of subsection by section 403 of Pub. L. 93–445 and it being last subsection of section.
 
-1974—Subsec. (e). Pub. L. 93–445 repealed subsec. (e) which was added by Pub. L. 90–257 as subsec. (h) and redesignated (e) for purposes of codification, and which provided for annual adjustment of account and transfer of funds from Railroad Retirement Account.
+<b>1974</b>—Subsec. (e). Pub. L. 93–445 repealed subsec. (e) which was added by Pub. L. 90–257 as subsec. (h) and redesignated (e) for purposes of codification, and which provided for annual adjustment of account and transfer of funds from Railroad Retirement Account.
 
-1968—Subsec. (a)(ii). Pub. L. 90–257 inserted reference to amounts transferred or paid into account pursuant to subsec. (e) of this section.
+<b>1968</b>—Subsec. (a)(ii). Pub. L. 90–257 inserted reference to amounts transferred or paid into account pursuant to subsec. (e) of this section.
 
 Subsec. (e). Pub. L. 90–257 added subsec. (e) which was subsec. (h) in original and was redesignated (e) for purposes of codification.
 
-1966—Subsec. (a). Pub. L. 89–700 substituted “0.25 per centum” for “0.2 per centum”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–700 substituted “0.25 per centum” for “0.2 per centum”.
 
-1963—Subsec. (d). Pub. L. 88–133 substituted “a rate for each fiscal year equal to the average rate of interest borne by all special obligations held by the RailroadRetirement Account on the last day of the preceding fiscal year, rounded to the nearest multiple of one-eighth of 1 per centum” for “the rate of 3 per centum per annum.”
+<b>1963</b>—Subsec. (d). Pub. L. 88–133 substituted “a rate for each fiscal year equal to the average rate of interest borne by all special obligations held by the Railroad Retirement Account on the last day of the preceding fiscal year, rounded to the nearest multiple of one-eighth of 1 per centum” for “the rate of 3 per centum per annum.”
 
-1959—Subsec. (d). Pub. L. 86–28 substituted provisions authorizing Board to request transfer and retransfer of funds for provisions which directed Secretary of the Treasury to advance not more than $25,000,000 for purpose of paying benefits.
+<b>1959</b>—Subsec. (d). Pub. L. 86–28 substituted provisions authorizing Board to request transfer and retransfer of funds for provisions which directed Secretary of the Treasury to advance not more than $25,000,000 for purpose of paying benefits.
 
-1948—Subsec. (a)(i). Act June 23, 1948, changed computation of insurance account.
+<b>1948</b>—Subsec. (a)(i). Act June 23, 1948, changed computation of insurance account.
 
-1939—Subsec. (a). Act June 20, 1939, substituted “(f)” for “(g)”.
+<b>1939</b>—Subsec. (a). Act June 20, 1939, substituted “(f)” for “(g)”.
 
 #### Effective Date of 1988 Amendment
 

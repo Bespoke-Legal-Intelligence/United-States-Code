@@ -158,9 +158,9 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 
 #### Amendments
 
-2003—Pub. L. 108–15 amended section catchline and text generally. Prior to amendment, text provided for the establishment of the Citizens Commemorative Coin Advisory Committee and contained provisions concerning its oversight, membership, duties, and funding, the term of each membership, and the compensation of each member.
+<b>2003</b>—Pub. L. 108–15 amended section catchline and text generally. Prior to amendment, text provided for the establishment of the Citizens Commemorative Coin Advisory Committee and contained provisions concerning its oversight, membership, duties, and funding, the term of each membership, and the compensation of each member.
 
-1996—Subsec. (a)(4). Pub. L. 104–329 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Each member appointed under clause (i) or (iii) of paragraph (3)(A) shall be appointed for a term of 4 years.”
+<b>1996</b>—Subsec. (a)(4). Pub. L. 104–329 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Each member appointed under clause (i) or (iii) of paragraph (3)(A) shall be appointed for a term of 4 years.”
 
 Pub. L. 104–208, §101(f) \[title V, §529(d)(1)\], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “No individual shall be appointed to serve as a member of the Advisory Committee for a term in excess of 5 years.”
 

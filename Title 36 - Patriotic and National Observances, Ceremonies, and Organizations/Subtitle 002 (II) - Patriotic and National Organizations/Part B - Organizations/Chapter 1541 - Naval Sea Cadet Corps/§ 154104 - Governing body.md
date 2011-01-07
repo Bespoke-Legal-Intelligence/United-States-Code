@@ -24,7 +24,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-154104(a)D36:1047.DSept. 10, 1962, Pub. L. 87–655, §§7, 8, 76 Stat. 532.
+154104(a)
+
+36:1047.
+
+Sept. 10, 1962, Pub. L. 87–655, §§7, 8, 76 Stat. 532.
 
 154104(b)
 

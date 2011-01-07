@@ -4,7 +4,7 @@ The provisions of section 4301 of the Employee Retirement Income Security Act of
 
 &emsp;(1) arising out of an obligation to pay any amount required to be paid by this chapter; or
 
-&emsp;(2) arising out of an obligation to pay any amount required by section 402(h)(5)(B)(ii) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232(h)(5)(B)(ii)).
+&emsp;(2) arising out of an obligation to pay any amount required by section 402(h)(5)(B)(ii) ofthe Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232(h)(5)(B)(ii)).
 
 (Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3055; amended Pub. L. 109–432, div. C, title II, §213(b)(2), Dec. 20, 2006, 120 Stat. 3027.)
 
@@ -14,5 +14,5 @@ The Employee Retirement Income Security Act of 1974, referred to in text, is Pub
 
 #### Amendments
 
-2006—Pub. L. 109–432 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The provisions of section 4301 of the Employee Retirement Income Security Act of 1974 shall apply to any claim arising out of an obligation to pay any amount required to be paid by this chapter in the same manner as any claim arising out of an obligation to pay withdrawal liability under subtitle E of title IV of such Act. For purposes of the preceding sentence, a signatory operator and related persons shall be treated in the same manner as employers.”
+<b>2006</b>—Pub. L. 109–432 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The provisions of section 4301 of the Employee Retirement Income Security Act of 1974 shall apply to any claim arising out of an obligation to pay any amount required to be paid by this chapter in the same manner as any claim arising out of an obligation to pay withdrawal liability under subtitle E of title IV of such Act. For purposes of the preceding sentence, a signatory operator and related persons shall be treated in the same manner as employers.”
 

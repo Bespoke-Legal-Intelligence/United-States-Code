@@ -12,7 +12,7 @@ Not later than 3 months before the payment of any such quarterly installment to 
 
 #### (1) Computation
 
-&emsp;The Secretary shall estimate the amount to be paid to each eligible State for each quarter under this part, such estimate to be based ona report filed by the State containing an estimate by the State of the total sum to be expended by the State in the quarter under the State program funded under this part and such other information as the Secretary may find necessary.
+&emsp;The Secretary shall estimate the amount to be paid to each eligible State for each quarter under this part, such estimate to be based on a report filed by the State containing an estimate by the State of the total sum to be expended by the State in the quarter under the State program funded under this part and such other information as the Secretary may find necessary.
 
 #### (2) Certification
 
@@ -30,9 +30,9 @@ A prior section 605, acts Aug. 14, 1935, ch. 531, title IV, §405, 49 Stat. 629;
 
 #### Amendments
 
-2004—Subsec. (d). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (d). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1997—Pub. L. 105–33 made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
+<b>1997</b>—Pub. L. 105–33 made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
 #### Effective Date of 1997 Amendment
 

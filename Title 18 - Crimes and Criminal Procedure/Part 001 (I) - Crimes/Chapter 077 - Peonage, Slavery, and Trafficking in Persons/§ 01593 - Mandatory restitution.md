@@ -20,5 +20,5 @@ The Fair Labor Standards Act, referred to in subsec. (b)(3), probably means the 
 
 #### Amendments
 
-2008—Subsec. (b)(4). Pub. L. 110–457 added par. (4).
+<b>2008</b>—Subsec. (b)(4). Pub. L. 110–457 added par. (4).
 

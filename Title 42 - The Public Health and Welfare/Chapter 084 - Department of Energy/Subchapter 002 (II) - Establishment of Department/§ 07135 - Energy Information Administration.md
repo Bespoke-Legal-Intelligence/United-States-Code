@@ -4,7 +4,7 @@
 
 (1) There shall be within the Department an Energy Information Administration to be headed by an Administrator who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate provided for in level IV of the Executive Schedule under section 5315 of title 5. The Administrator shall be a person who, by reason of professional background and experience, is specially qualified to manage an energy information system.
 
-(2) The Administrator shall be responsible for carrying out a central, comprehensive, and unified energy data and information program which will collect, evaluate, assemble, analyze, and disseminate data and information which is relevant to energy resource reserves, energy production, demand, and technology, and related economic and statistical information, or which is relevant to the adequacy of energy resourcesto meet demands in the near and longer term future for the Nation's economic and social needs.
+(2) The Administrator shall be responsible for carrying out a central, comprehensive, and unified energy data and information program which will collect, evaluate, assemble, analyze, and disseminate data and information which is relevant to energy resource reserves, energy production, demand, and technology, and related economic and statistical information, or which is relevant to the adequacy of energy resources to meet demands in the near and longer term future for the Nation's economic and social needs.
 
 #### (b) Delegation of functions
 
@@ -132,7 +132,7 @@ In order to improve the ability to evaluate the effectiveness of the Nation's en
 
 #### (m) Renewable fuels survey
 
-(1) In order to improve the ability to evaluate the effectiveness of the Nation's renewable fuels mandate, the Administrator shall conduct and publish the results of a survey of renewable fuelsdemand in the motor vehicle fuels market in the United States monthly, and in a manner designed to protect the confidentiality of individual responses. In conducting the survey, the Administrator shall collect information both on a national and regional basis, including each of the following:
+(1) In order to improve the ability to evaluate the effectiveness of the Nation's renewable fuels mandate, the Administrator shall conduct and publish the results of a survey of renewable fuels demand in the motor vehicle fuels market in the United States monthly, and in a manner designed to protect the confidentiality of individual responses. In conducting the survey, the Administrator shall collect information both on a national and regional basis, including each of the following:
 
 &emsp;(A) The quantity of renewable fuels produced.
 
@@ -154,27 +154,29 @@ In order to improve the ability to evaluate the effectiveness of the Nation's en
 
 #### References in Text
 
-The Federal Energy Administration Act of 1974, referred to in subsec. (c), is Pub. L. 93–275, May 7, 1974, 88 Stat. 96, as amended. Part B of the Federal Energy Administration Act of 1974 is classified generally to subchapter II (§790 et seq.) of chapter 16B of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 761 of Title 15 and Tables.
+The Federal Energy Administration Act of 1974, referred to in subsec. (c), is Pub. L. 93–275, May 7, 1974, 88 Stat. 96. Part B of the Federal Energy Administration Act of 1974 is classified generally to subchapter II (§790 et seq.) of chapter 16B of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 761 of Title 15 and Tables.
+
+This chapter, referred to in subsecs. (c), (h)(1)(B)(i), (2)(E) to (4), and (j)(2)(A), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 Section 55 of part B of the Federal Energy Administration Act of 1974, referred to in subsec. (e), was classified to section 790d of Title 15, Commerce and Trade, and was repealed by Pub. L. 104–66, title I, §1051(k), Dec. 21, 1995, 109 Stat. 717.
 
-The Energy Policy and Conservation Act, referred to in subsec. (h)(3), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, which is classified principally to chapter 77 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+The Energy Policy and Conservation Act, referred to in subsec. (h)(3), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, which is classified principally to chapter 77 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
 
-2005—Subsec. (m). Pub. L. 109–58 added subsec. (m).
+<b>2005</b>—Subsec. (m). Pub. L. 109–58 added subsec. (m).
 
-1992—Subsec. (i)(1). Pub. L. 102–486, §171(a)(1), in introductory provisions, substituted “at least once every two years” for “on at least a triennial basis”.
+<b>1992</b>—Subsec. (i)(1). Pub. L. 102–486, §171(a)(1), in introductory provisions, substituted “at least once every two years” for “on at least a triennial basis”.
 
 Subsec. (i)(1)(D). Pub. L. 102–486, §171(a)(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “use of nonpurchased sources of energy, such as cogeneration and waste by-products.”
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 102–486, §171(b), added subsecs. (j) to (<i>l</i>).
 
-1986—Subsec. (i). Pub. L. 99–509 added subsec. (i).
+<b>1986</b>—Subsec. (i). Pub. L. 99–509 added subsec. (i).
 
 #### End Use Consumption Surveys; Manufacturing Energy Consumption Survey
 
-Pub. L. 104–134, title I, §101(c) \[title II\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–188; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That notwithstanding section 4(d) of the Service Contract Act of 1965 (41 U.S.C. 353(d)) or any other provision of law, funds appropriated under this heading \[DEPARTMENT OF ENERGY,
+Pub. L. 104–134, title I, §101(c) \[title II\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–188; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That notwithstanding section 4(d) of the Service Contract Act of 1965 (41 U.S.C. 353(d)) \[now 41 U.S.C. 6707(d)\] or any other provision of law, funds appropriated under this heading \[DEPARTMENT OF ENERGY,
 
 energy information administration\] hereafter may be used to enter into a contract for end use consumption surveys for a term not to exceed eight years: <i>Provided further</i>, That notwithstanding any other provision of law, hereafter the Manufacturing Energy Consumption Survey shall be conducted on a triennial basis.”
 

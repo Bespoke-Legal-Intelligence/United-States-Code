@@ -14,5 +14,5 @@ Title II, referred to in subsec. (a), is title II (§§201–209) of Pub. L. 95�
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–259 inserted at end “This subsection does not prohibit the disposal of residual radioactive material from a processing site under this subchapter at a site licensed under title II or the expenditure of funds under this subchapter for such disposal.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–259 inserted at end “This subsection does not prohibit the disposal of residual radioactive material from a processing site under this subchapter at a site licensed under title II or the expenditure of funds under this subchapter for such disposal.”
 

@@ -70,13 +70,13 @@ Section 31140 of this title, referred to in par. (8), was repealed by Pub. L. 10
 
 #### Amendments
 
-2005—Pars. (6) to (11). Pub. L. 109–59 added par. (6) and redesignated former pars. (6) to (10) as (7) to (11), respectively.
+<b>2005</b>—Pars. (6) to (11). Pub. L. 109–59 added par. (6) and redesignated former pars. (6) to (10) as (7) to (11), respectively.
 
-1998—Par. (1)(A). Pub. L. 105–178, §4008(a)(1), inserted “or gross vehicle weight” after “rating” and “, whichever is greater” after “pounds”.
+<b>1998</b>—Par. (1)(A). Pub. L. 105–178, §4008(a)(1), inserted “or gross vehicle weight” after “rating” and “, whichever is greater” after “pounds”.
 
 Par. (1)(B). Pub. L. 105–178, §4008(a)(2), which directed substitution of “more than 8 passengers (including the driver) for compensation;” for “passengers” and all that follows through semicolon at end, was executed by making the substitution for “passengers for compensation, but excluding vehicles providing taxicab service and having a capacity of not more than 6 passengers and not operated on a regular route or between specified places;” to reflect the probable intent of Congress.
 
-1995—Par. (1)(B) to (D). Pub. L. 104–88 added subpars. (B) and (C), redesignated former subpar. (C) as (D), and struck out former subpar. (B) which read as follows: “is designed to transport more than 15 passengers including the driver; or”.
+<b>1995</b>—Par. (1)(B) to (D). Pub. L. 104–88 added subpars. (B) and (C), redesignated former subpar. (C) as (D), and struck out former subpar. (B) which read as follows: “is designed to transport more than 15 passengers including the driver; or”.
 
 #### Effective Date of 1995 Amendment
 

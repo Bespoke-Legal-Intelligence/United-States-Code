@@ -28,7 +28,7 @@ Effective for fiscal year 2007 and subsequent fiscal years, if a grant award mad
 
 &emsp;&emsp;(A) The unobligated funds are available for expenditure by the State involved for the one-year period beginning upon the expiration of the grant year (referred to in this section as the “carryover year”).
 
-&emsp;&emsp;(B) If the funds are not expended by the end of the carryover year, the Secretary shall cancel that unexpended balance of the award, and shall require the State to return any amounts from such balance that have been disbursed to the State.
+&emsp;&emsp;(B) If the funds are not expended by the end of the carryover year, the Secretary shall cancel that unexpended balance of theaward, and shall require the State to return any amounts from such balance that have been disbursed to the State.
 
 #### (3) Use of cancelled balances
 
@@ -40,7 +40,7 @@ Effective for fiscal year 2007 and subsequent fiscal years, if a grant award mad
 
 &emsp;&emsp;In the case of a State for which a balance from a grant award made pursuant to section 300ff–28(a)(1) or 300ff–28(a)(2)(F)(i) of this title is unobligated as of the end of the grant year for the award—
 
-&emsp;&emsp;&emsp;(i) the Secretary shall reduce, by the same amount as such unobligated balance (less any amount of such balance that is the subject of a waiver of cancellation under paragraph (1)), the amount of the grant under such section for the first fiscal year beginning after the fiscal year in which the Secretary obtains the information necessary for determining that such balance was unobligated as of the end ofthe grant year (which requirement for a reduction applies without regard to whether a waiver under paragraph (1) has been approved with respect to such balance); and
+&emsp;&emsp;&emsp;(i) the Secretary shall reduce, by the same amount as such unobligated balance (less any amount of such balance that is the subject of a waiver of cancellation under paragraph (1)), the amount of the grant under such section for the first fiscal year beginning after the fiscal year in which the Secretary obtains the information necessary for determining that such balance was unobligated as of the end of the grant year (which requirement for a reduction applies without regard to whether a waiver under paragraph (1) has been approved with respect to such balance); and
 
 &emsp;&emsp;&emsp;(ii) the grant funds involved in such reduction shall be made available by the Secretary as additional funds for grants under section 300ff–29a of this title for such first fiscal year, subject to section 300ff–28(a)(2)(H) of this title;
 
@@ -66,7 +66,7 @@ In administering subsections (b) and (c) with respect to the unobligated balance
 
 #### Amendments
 
-2009—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
 Subsec. (a). Pub. L. 111–87, §5(c)(3), substituted “300ff–28(a)(2)(F)” for “300ff–28(a)(2)(G)”.
 
@@ -86,7 +86,7 @@ Subsec. (d). Pub. L. 111–87, §10(a), inserted at end “If an expenditure of 
 
 Subsec. (e). Pub. L. 111–87, §8(b)(2)(B), added subsec. (e).
 
-2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+<b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

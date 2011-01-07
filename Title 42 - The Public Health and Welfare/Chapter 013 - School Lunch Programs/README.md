@@ -12,10 +12,11 @@
 | [1757\.](%C2%A7%2001757%20-%20State%20disbursement%20to%20schools.md) | State disbursement to schools. |
 | [1758\.](%C2%A7%2001758%20-%20Program%20requirements.md) | Program requirements. |
 | [1758a.](%C2%A7%2001758a%20-%20State%20performance%20on%20enrolling%20children%20receiving%20program%20benefits%20for%20free%20school%20meals.md) | State performance on enrolling children receiving program benefits for free school meals. |
+| [1758b.](%C2%A7%2001758b%20-%20Local%20school%20wellness%20policy.md) | Local school wellness policy. |
 | [1759\.](%C2%A7%2001759%20-%20Direct%20disbursement%20to%20schools%20by%20Secretary.md) | Direct disbursement to schools by Secretary. |
 | [1759a.](%C2%A7%2001759a%20-%20Special%20assistance%20funds.md) | Special assistance funds. |
 | [1760\.](%C2%A7%2001760%20-%20Miscellaneous%20provisions.md) | Miscellaneous provisions. |
-| [1761\.](%C2%A7%2001761%20-%20Summer%20food%20service%20programs%20for%20children%20in%20service%20institutions.md) | Summer food service programs for children in service institutions. |
+| [1761\.](%C2%A7%2001761%20-%20Summer%20food%20service%20program%20for%20children.md) | Summer food service program for children. |
 | [1762\.](%C2%A7%2001762%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93147%2C%20title%20III%2C%20%C2%A7308%2C%20Nov.%2010%2C%201989%2C%20103%20Stat.%20915.md) | Repealed. |
 | [1762a.](%C2%A7%2001762a%20-%20Commodity%20distribution%20program.md) | Commodity distribution program. |
 | 1763, 1764. Repealed. |  |
@@ -28,11 +29,13 @@
 | [1769b.](%C2%A7%2001769b%20-%20Department%20of%20Defense%20overseas%20dependents%E2%80%99%20schools.md) | Department of Defense overseas dependents’ schools. |
 | 1769b–1. | Training, technical assistance, and food service management institute. |
 | [1769c.](%C2%A7%2001769c%20-%20Compliance%20and%20accountability.md) | Compliance and accountability. |
-| 1769d, 1769e. Repealed. |  |
+| [1769d.](%C2%A7%2001769d%20-%20Childhood%20hunger%20research.md) | Childhood hunger research. |
+| [1769e.](%C2%A7%2001769e%20-%20State%20childhood%20hunger%20challenge%20grants.md) | State childhood hunger challenge grants. |
 | [1769f.](%C2%A7%2001769f%20-%20Duties%20of%20Secretary%20relating%20to%20nonprocurement%20debarment.md) | Duties of Secretary relating to nonprocurement debarment. |
 | [1769g.](%C2%A7%2001769g%20-%20Information%20clearinghouse.md) | Information clearinghouse. |
-| [1769h.](%C2%A7%2001769h%20-%20Accommodation%20of%20the%20special%20dietary%20needs%20of%20individuals%20with%20disabilities.md) | Accommodation of the special dietary needs of individuals with disabilities. |
+| [1769h.](%C2%A7%2001769h%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93296%2C%20title%20IV%2C%20%C2%A7441%28a%29%2814%29%2C%20Dec.%2013%2C%202010%2C%20124%20Stat.%203264.md) | Repealed. |
 | [1769i.](%C2%A7%2001769i%20-%20Program%20evaluation.md) | Program evaluation. |
+| [1769j.](%C2%A7%2001769j%20-%20Ensuring%20safety%20of%20school%20meals.md) | Ensuring safety of school meals. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -51,10 +54,11 @@
 - [&sect; 01757 - State disbursement to schools](%C2%A7%2001757%20-%20State%20disbursement%20to%20schools.md)
 - [&sect; 01758 - Program requirements](%C2%A7%2001758%20-%20Program%20requirements.md)
 - [&sect; 01758a - State performance on enrolling children receiving program benefits for free school meals](%C2%A7%2001758a%20-%20State%20performance%20on%20enrolling%20children%20receiving%20program%20benefits%20for%20free%20school%20meals.md)
+- [&sect; 01758b - Local school wellness policy](%C2%A7%2001758b%20-%20Local%20school%20wellness%20policy.md)
 - [&sect; 01759 - Direct disbursement to schools by Secretary](%C2%A7%2001759%20-%20Direct%20disbursement%20to%20schools%20by%20Secretary.md)
 - [&sect; 01759a - Special assistance funds](%C2%A7%2001759a%20-%20Special%20assistance%20funds.md)
 - [&sect; 01760 - Miscellaneous provisions](%C2%A7%2001760%20-%20Miscellaneous%20provisions.md)
-- [&sect; 01761 - Summer food service programs for children in service institutions](%C2%A7%2001761%20-%20Summer%20food%20service%20programs%20for%20children%20in%20service%20institutions.md)
+- [&sect; 01761 - Summer food service program for children](%C2%A7%2001761%20-%20Summer%20food%20service%20program%20for%20children.md)
 - [&sect; 01762 - Repealed. Pub. L. 101&#8211;147, title III, &sect;308, Nov. 10, 1989, 103 Stat. 915](%C2%A7%2001762%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93147%2C%20title%20III%2C%20%C2%A7308%2C%20Nov.%2010%2C%201989%2C%20103%20Stat.%20915.md)
 - [&sect; 01762a - Commodity distribution program](%C2%A7%2001762a%20-%20Commodity%20distribution%20program.md)
 - [&sect; 01763 - Repealed. Pub. L. 101&#8211;147, title I, &sect;104, Nov. 10, 1989, 103 Stat. 883](%C2%A7%2001763%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93147%2C%20title%20I%2C%20%C2%A7104%2C%20Nov.%2010%2C%201989%2C%20103%20Stat.%20883.md)
@@ -69,8 +73,10 @@
 - [&sect; 01769b - Department of Defense overseas dependents&#8217; schools](%C2%A7%2001769b%20-%20Department%20of%20Defense%20overseas%20dependents%E2%80%99%20schools.md)
 - [&sect; 01769b&#8211;1 - Training, technical assistance, and food service management institute](%C2%A7%2001769b%E2%80%931%20-%20Training%2C%20technical%20assistance%2C%20and%20food%20service%20management%20institute.md)
 - [&sect; 01769c - Compliance and accountability](%C2%A7%2001769c%20-%20Compliance%20and%20accountability.md)
-- [&sect; 01769d, 1769e - Repealed. Pub. L. 104&#8211;193, title VII, &sect;&sect;711, 712, Aug. 22, 1996, 110 Stat. 2301](%C2%A7%2001769d%2C%201769e%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93193%2C%20title%20VII%2C%20%C2%A7%C2%A7711%2C%20712%2C%20Aug.%2022%2C%201996%2C%20110%20Stat.%202301.md)
+- [&sect; 01769d - Childhood hunger research](%C2%A7%2001769d%20-%20Childhood%20hunger%20research.md)
+- [&sect; 01769e - State childhood hunger challenge grants](%C2%A7%2001769e%20-%20State%20childhood%20hunger%20challenge%20grants.md)
 - [&sect; 01769f - Duties of Secretary relating to nonprocurement debarment](%C2%A7%2001769f%20-%20Duties%20of%20Secretary%20relating%20to%20nonprocurement%20debarment.md)
 - [&sect; 01769g - Information clearinghouse](%C2%A7%2001769g%20-%20Information%20clearinghouse.md)
-- [&sect; 01769h - Accommodation of the special dietary needs of individuals with disabilities](%C2%A7%2001769h%20-%20Accommodation%20of%20the%20special%20dietary%20needs%20of%20individuals%20with%20disabilities.md)
+- [&sect; 01769h - Repealed. Pub. L. 111&#8211;296, title IV, &sect;441(a)(14), Dec. 13, 2010, 124 Stat. 3264](%C2%A7%2001769h%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93296%2C%20title%20IV%2C%20%C2%A7441%28a%29%2814%29%2C%20Dec.%2013%2C%202010%2C%20124%20Stat.%203264.md)
 - [&sect; 01769i - Program evaluation](%C2%A7%2001769i%20-%20Program%20evaluation.md)
+- [&sect; 01769j - Ensuring safety of school meals](%C2%A7%2001769j%20-%20Ensuring%20safety%20of%20school%20meals.md)

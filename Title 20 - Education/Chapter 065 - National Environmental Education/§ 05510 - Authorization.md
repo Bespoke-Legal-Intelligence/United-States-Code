@@ -12,7 +12,7 @@ Of such sums appropriated in a fiscal year, 25 percent shall be available for th
 
 Funds appropriated pursuant to this section may be made available to the National Environmental Education and Training Foundation to—
 
-&emsp;(1) match partially or wholly the amount or value of contributions (whether in currency, services, or property) made to the Foundationby private persons and State and local governments; and
+&emsp;(1) match partially or wholly the amount or value of contributions (whether in currency, services, or property) made to the Foundation by private persons and State and local governments; and
 
 &emsp;(2) provide administrative services under section 5509(d) of this title:
 

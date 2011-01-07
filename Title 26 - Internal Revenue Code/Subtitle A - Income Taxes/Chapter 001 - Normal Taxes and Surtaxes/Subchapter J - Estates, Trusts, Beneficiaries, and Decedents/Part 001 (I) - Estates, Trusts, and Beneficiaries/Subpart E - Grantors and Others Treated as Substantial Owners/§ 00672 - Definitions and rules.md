@@ -86,9 +86,9 @@ A person shall be considered to have a power described in this subpart even thou
 
 #### Amendments
 
-1998—Subsec. (f)(3)(B). Pub. L. 105–206 substituted “section 1297” for “section 1296”.
+<b>1998</b>—Subsec. (f)(3)(B). Pub. L. 105–206 substituted “section 1297” for “section 1296”.
 
-1996—Subsec. (c). Pub. L. 104–188, §1904(a)(2), inserted “subsection (f) and” before “sections 674” in closing provisions.
+<b>1996</b>—Subsec. (c). Pub. L. 104–188, §1904(a)(2), inserted “subsection (f) and” before “sections 674” in closing provisions.
 
 Subsec. (f). Pub. L. 104–188, §1904(a)(1), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “
 
@@ -108,11 +108,11 @@ In general.—If—
 
 Regulations.—The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection.”
 
-1990—Subsec. (f). Pub. L. 101–508 added subsec. (f).
+<b>1990</b>—Subsec. (f). Pub. L. 101–508 added subsec. (f).
 
-1988—Subsec. (e). Pub. L. 100–647 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “For purposes of this subpart, if a grantor's spouse is living with the grantor at the time of the creation of any power or interest held by such spouse, the grantor shall be treated as holding such power or interest.”
+<b>1988</b>—Subsec. (e). Pub. L. 100–647 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “For purposes of this subpart, if a grantor's spouse is living with the grantor at the time of the creation of any power or interest held by such spouse, the grantor shall be treated as holding such power or interest.”
 
-1986—Subsec. (e). Pub. L. 99–514 added subsec. (e).
+<b>1986</b>—Subsec. (e). Pub. L. 99–514 added subsec. (e).
 
 #### Effective Date of 1998 Amendment
 

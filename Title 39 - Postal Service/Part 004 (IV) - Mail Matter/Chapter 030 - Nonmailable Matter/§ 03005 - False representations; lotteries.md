@@ -32,29 +32,29 @@
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–435 substituted “under section 3001(d),” for “under 3001(d),” in introductory provisions and “under such section 3001(d),” for “under such 3001(d),” in concluding provisions.
+<b>2006</b>—Subsec. (a). Pub. L. 109–435 substituted “under section 3001(d),” for “under 3001(d),” in introductory provisions and “under such section 3001(d),” for “under such 3001(d),” in concluding provisions.
 
-1999—Subsec. (a). Pub. L. 106–168, §104, in two places, struck out “or” after “(h),” and inserted “, (j), or (k)” after “(i)”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–168, §104, in two places, struck out “or” after “(h),” and inserted “, (j), or (k)” after “(i)”.
 
 Subsec. (c). Pub. L. 106–168, §105(b)(2)(A), substituted “section,” for “section and section 3006 of this title,”.
 
-1991—Subsec. (a). Pub. L. 102–71 substituted “3001(d), (h), or (i)” for “section 3001(d), (f), or (g)” in two places.
+<b>1991</b>—Subsec. (a). Pub. L. 102–71 substituted “3001(d), (h), or (i)” for “section 3001(d), (f), or (g)” in two places.
 
-1990—Subsec. (a). Pub. L. 101–524 substituted “section 3001(d), (f), or (g)” for “section 3001(d)” in two places.
+<b>1990</b>—Subsec. (a). Pub. L. 101–524 substituted “section 3001(d), (f), or (g)” for “section 3001(d)” in two places.
 
-1988—Subsec. (d)(1). Pub. L. 100–625 amended cl. (1) generally. Prior to amendment, cl. (1) read as follows: “a newspaper of general circulation containing advertisements, lists of prizes, or information concerning a lottery conducted by a State acting under authority of State law, published in that State, or in an adjacent State which conducts such a lottery,”.
+<b>1988</b>—Subsec. (d)(1). Pub. L. 100–625 amended cl. (1) generally. Prior to amendment, cl. (1) read as follows: “a newspaper of general circulation containing advertisements, lists of prizes, or information concerning a lottery conducted by a State acting under authority of State law, published in that State, or in an adjacent State which conducts such a lottery,”.
 
-1983—Subsec. (a)(3). Pub. L. 98–186, §2(a), added par. (3).
+<b>1983</b>—Subsec. (a)(3). Pub. L. 98–186, §2(a), added par. (3).
 
 Subsec. (d). Pub. L. 98–186, §2(b), struck out “or” before “(2)”, inserted “or” before “(3)”, and inserted cl. (3) and provision relating to applicability of cl. (3).
 
 Subsec. (e). Pub. L. 98–186, §2(c), added subsec. (e).
 
-1978—Subsec. (a). Pub. L. 95–360 inserted provisions relating to nonmailable matter under section 3001(d) of this title.
+<b>1978</b>—Subsec. (a). Pub. L. 95–360 inserted provisions relating to nonmailable matter under section 3001(d) of this title.
 
-1976—Subsec. (d). Pub. L. 94–525 substituted “a newspaper of general circulation containing advertisements, lists of prizes, or information concerning a lottery conducted by a State acting under authority of State law, published in that State, or in an adjacent State which conducts such a lottery,” for “a newspaper of general circulation published in a State containing advertisements, lists of prizes, or information concerning a lottery conducted by that State acting under authority of State law,”.
+<b>1976</b>—Subsec. (d). Pub. L. 94–525 substituted “a newspaper of general circulation containing advertisements, lists of prizes, or information concerning a lottery conducted by a State acting under authority of State law, published in that State, or in an adjacent State which conducts such a lottery,” for “a newspaper of general circulation published in a State containing advertisements, lists of prizes, or information concerning a lottery conducted by that State acting under authority of State law,”.
 
-1975—Subsec. (d). Pub. L. 93–583 added subsec. (d).
+<b>1975</b>—Subsec. (d). Pub. L. 93–583 added subsec. (d).
 
 #### Effective Date of 1999 Amendment
 

@@ -68,7 +68,7 @@ In all schools selected to receive funds under section 6313(c) of this title tha
 
 &emsp;&emsp;(E) provide instruction by highly qualified teachers;
 
-&emsp;&emsp;(F) in accordance with subsection (e)(3) of this section and section 6319 of this title, provide opportunities for professional development with resources provided under this part, and, to the extent practicable, from other sources, for teachers, principals, and paraprofessionals, including, if appropriate, pupil services personnel, parents, and other staff, who work with participating childrenin programs under this section or in the regular education program;
+&emsp;&emsp;(F) in accordance with subsection (e)(3) of this section and section 6319 of this title, provide opportunities for professional development with resources provided under this part, and, to the extent practicable, from other sources, for teachers, principals, and paraprofessionals, including, if appropriate, pupil services personnel, parents, and other staff, who work with participating children in programs under this section or in the regular education program;
 
 &emsp;&emsp;(G) provide strategies to increase parental involvement in accordance with section 6318 of this title, such as family literacy services; and
 

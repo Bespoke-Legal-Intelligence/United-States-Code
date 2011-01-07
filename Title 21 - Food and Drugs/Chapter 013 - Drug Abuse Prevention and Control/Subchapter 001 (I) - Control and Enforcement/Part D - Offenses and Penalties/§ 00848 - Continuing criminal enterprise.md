@@ -58,7 +58,7 @@ Act of July 15, 1932 (D.C. Code, secs. 24–203—24–207), referred to in subs
 
 #### Amendments
 
-2006—Subsec. (e)(2). Pub. L. 109–177, §221(1), substituted “(1)(B)” for “(1)(b)”.
+<b>2006</b>—Subsec. (e)(2). Pub. L. 109–177, §221(1), substituted “(1)(B)” for “(1)(b)”.
 
 Subsecs. (g) to (p). Pub. L. 109–177, §221(2), struck out subsecs. (g) to (p) which related to hearing and sentencing procedures in death penalty cases and sentencing in capital cases in which the death penalty is not sought or imposed.
 
@@ -68,17 +68,17 @@ Subsec. (r). Pub. L. 109–177, §221(3), struck out subsec. (r) which provided 
 
 Subsec. (s). Pub. L. 109–177, §733, added subsec. (s).
 
-1996—Subsec. (q)(9). Pub. L. 104–132, §108, amended par. (9) generally. Prior to amendment, par. (9) read as follows: “Upon a finding in ex parte proceedings that investigative, expert or other services are reasonably necessary for the representation of the defendant, whether in connection with issues relating to guilt or sentence, the court shall authorize the defendant's attorneys to obtain such services on behalf of the defendant and shall order the payment of fees and expenses therefore, under paragraph (10). Upon a finding that timely procurement of such services could not practicably await prior authorization, the court may authorize the provision of and payment for such services nunc pro tunc.”
+<b>1996</b>—Subsec. (q)(9). Pub. L. 104–132, §108, amended par. (9) generally. Prior to amendment, par. (9) read as follows: “Upon a finding in ex parte proceedings that investigative, expert or other services are reasonably necessary for the representation of the defendant, whether in connection with issues relating to guilt or sentence, the court shall authorize the defendant's attorneys to obtain such services on behalf of the defendant and shall order the payment of fees and expenses therefore, under paragraph (10). Upon a finding that timely procurement of such services could not practicably await prior authorization, the court may authorize the provision of and payment for such services nunc pro tunc.”
 
 Subsec. (q)(10). Pub. L. 104–132, §903(b), amended par. (10) generally. Prior to amendment, par. (10) read as follows: “Notwithstanding the rates and maximum limits generally applicable to criminal cases and any other provision of law to the contrary, the court shall fix the compensation to be paid to attorneys appointed under this subsection and the fees and expenses to be paid for investigative, expert, and other reasonably necessary services authorized under paragraph (9), at such rates or amounts as the court determines to be reasonably necessary to carry out the requirements of paragraphs (4) through (9).”
 
-1994—Subsec. (b)(2)(A). Pub. L. 103–322, §330003(e), substituted “subsection (c)(1) of this section” for “subsection (d)(1) of this section”.
+<b>1994</b>—Subsec. (b)(2)(A). Pub. L. 103–322, §330003(e), substituted “subsection (c)(1) of this section” for “subsection (d)(1) of this section”.
 
 Subsec. (n)(11). Pub. L. 103–322, §330014, made technical amendment to reference to section 859 of this title to correct reference to corresponding section of original act.
 
 Subsec. (q)(8). Pub. L. 103–322, §330009(d), substituted “applications for writ” for “applications, for writ”.
 
-1988—Subsec. (a). Pub. L. 100–690, §6481(a), increased minimum term of imprisonment for first violations to 20 from 10 years and for subsequent violations to 30 from 20 years.
+<b>1988</b>—Subsec. (a). Pub. L. 100–690, §6481(a), increased minimum term of imprisonment for first violations to 20 from 10 years and for subsequent violations to 30 from 20 years.
 
 Subsecs. (c), (d). Pub. L. 100–690, §6481(b), redesignated subsecs. (d) and (e) as (c) and (d), respectively.
 
@@ -88,11 +88,11 @@ Pub. L. 100–690, §7001(a)(1), which directed redesignation of former subsec. 
 
 Subsecs. (g) to (r). Pub. L. 100–690, §7001(b), added subsecs. (g) to (r).
 
-1986—Subsec. (a). Pub. L. 99–570, §1252, substituted “to a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual,” for “to a fine of not more than $100,000,” and “to a fine not to exceed the greater of twice the amount authorized in accordance with the provisions of title 18 or $4,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual,” for “to a fine of not more than $200,000,”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–570, §1252, substituted “to a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual,” for “to afine of not more than $100,000,” and “to a fine not to exceed the greater of twice the amount authorized in accordance with the provisions of title 18 or $4,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual,” for “to a fine of not more than $200,000,”.
 
 Subsecs. (b) to (e). Pub. L. 99–570, §1253, added subsec. (b) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively, which resulted in there not being a subsec. (c).
 
-1984—Subsec. (a). Pub. L. 98–473, §305, struck out par. (1) designation, substituted references to section 853 of this title for references to paragraph (2) in two places, and struck out par. (2) which related to forfeitures to the United States by any person convicted under par. (1).
+<b>1984</b>—Subsec. (a). Pub. L. 98–473, §305, struck out par. (1) designation, substituted references to section 853 of this title for references to paragraph (2) in two places, and struck out par. (2) which related to forfeitures to the United States by any person convicted under par. (1).
 
 Subsec. (d). Pub. L. 98–473, §305(b), struck out subsec. (d) relating to jurisdiction of courts of the United States.
 

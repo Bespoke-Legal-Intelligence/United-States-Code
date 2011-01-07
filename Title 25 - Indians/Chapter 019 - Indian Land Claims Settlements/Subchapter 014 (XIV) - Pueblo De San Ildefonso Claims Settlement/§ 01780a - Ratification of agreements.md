@@ -2,7 +2,7 @@
 
 #### (a) Ratification
 
-The Settlement Agreement and Los Alamos Agreement are ratified under Federal law, andthe parties to those agreements are authorized to carry out the provisions of the agreements.
+The Settlement Agreement and Los Alamos Agreement are ratified under Federal law, and the parties to those agreements are authorized to carry out the provisions of the agreements.
 
 #### (b) Corrections and modifications
 

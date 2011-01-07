@@ -32,15 +32,15 @@ In the case of any expenditures paid or incurred with respect to the development
 
 #### Amendments
 
-1988—Subsec. (e). Pub. L. 100–647 substituted “section 59(e)” for “section 58(i)”.
+<b>1988</b>—Subsec. (e). Pub. L. 100–647 substituted “section 59(e)” for “section 58(i)”.
 
-1986—Subsec. (a). Pub. L. 99–514, §411(b)(2)(C)(i), inserted reference to subsec. (d).
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §411(b)(2)(C)(i), inserted reference to subsec. (d).
 
 Subsecs. (d), (e). Pub. L. 99–514, §411(b)(2)(A), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1982—Subsec. (d). Pub. L. 97–248 added subsec. (d).
+<b>1982</b>—Subsec. (d). Pub. L. 97–248 added subsec. (d).
 
-1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 1988 Amendment
 
@@ -52,5 +52,5 @@ Amendment by Pub. L. 99–514 applicable to costs paid or incurred after Dec. 31
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, see section 201(e)(1) of Pub. L. 97–248, set out as a note under section 5 of this title.
+Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, see section 201(e)(1)of Pub. L. 97–248, set out as a note under section 5 of this title.
 

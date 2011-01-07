@@ -10,5 +10,5 @@ In addition to any other authority provided under this chapter for the acquisiti
 
 #### Amendments
 
-1999—Pub. L. 106–65 substituted “eligible entities” for “private persons” in introductory provisions.
+<b>1999</b>—Pub. L. 106–65 substituted “eligible entities” for “private persons” in introductory provisions.
 

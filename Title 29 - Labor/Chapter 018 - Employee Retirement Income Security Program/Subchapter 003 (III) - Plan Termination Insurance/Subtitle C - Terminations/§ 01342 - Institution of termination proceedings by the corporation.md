@@ -62,7 +62,7 @@ Confidentiality.—
 
 &emsp;&emsp;(i)
 
-In general.—The plan administrator, the plan sponsor, or the corporation shall not provide information under subparagraph (A) in a form which includes any information that may directly or indirectly be associated with, or otherwise identify, an individual participant or beneficiary.
+In general.—The plan administrator, the plan sponsor, or the corporation shall not provide information under subparagraph\(A) in a form which includes any information that may directly or indirectly be associated with, or otherwise identify, an individual participant or beneficiary.
 
 &emsp;&emsp;(ii)
 
@@ -132,7 +132,7 @@ Reasonable charges.—A plan sponsor may charge a reasonable fee for any informa
 
 &emsp;(F) each employee organization which, for purposes of collective bargaining, represents plan participants employed by an employer described in subparagraph (C), (D), or (E).
 
-(3) Except to the extent inconsistent with the provisions of this chapter, or as may be otherwise ordered by the court, a trustee appointed under this section shall be subject to the same duties as those of a trustee under section 704 of title 11, and shall be, with respect to the plan, a fiduciary within the meaning of paragraph (21) of section 1002 of this title and under section 4975(e) of title 26 (except to the extent that the provisions of this subchapter are inconsistent with the requirements applicable under part 4 of subtitle B of subchapter I of this chapter and of such section 4975).
+(3) Except to the extent inconsistent with the provisions of this chapter, or as may be otherwise ordered by the court, a trustee appointed under this section shall be subject to the sameduties as those of a trustee under section 704 of title 11, and shall be, with respect to the plan, a fiduciary within the meaning of paragraph (21) of section 1002 of this title and under section 4975(e) of title 26 (except to the extent that the provisions of this subchapter are inconsistent with the requirements applicable under part 4 of subtitle B of subchapter I of this chapter and of such section 4975).
 
 #### (e) Filing of application notwithstanding pendency of other proceedings
 
@@ -160,25 +160,25 @@ This chapter, referred to in subsec. (d)(3), was in the original “this Act”,
 
 #### Amendments
 
-2008—Subsec. (c)(3)(C)(i). Pub. L. 110–458 substituted “, the plan sponsor, or the corporation” for “and plan sponsor” and “subparagraph (A)” for “subparagraph (A)(i)”.
+<b>2008</b>—Subsec. (c)(3)(C)(i). Pub. L. 110–458 substituted “, the plan sponsor, or the corporation” for “and plan sponsor” and “subparagraph (A)” for “subparagraph (A)(i)”.
 
-2006—Subsec. (c). Pub. L. 109–280 designated first par. as par. (1), redesignated par. (3) as (2), and added a new par. (3).
+<b>2006</b>—Subsec. (c). Pub. L. 109–280 designated first par. as par. (1), redesignated par. (3) as (2), and added a new par. (3).
 
-1994—Subsec. (a)(3). Pub. L. 103–465 substituted “1343(c)(7)” for “1343(b)(7)”.
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–465 substituted “1343(c)(7)” for “1343(b)(7)”.
 
-1989—Subsec. (a). Pub. L. 101–239, §7893(e), inserted period after “terms of the plan” at end of second sentence.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7893(e), inserted period after “terms of the plan” at end of second sentence.
 
 Pub. L. 101–239, §7881(g)(7), made technical correction to directory language of Pub. L. 100–203, §9314(b), see 1987 Amendment note below.
 
 Subsecs. (a)(1), (d)(3). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1987—Subsec. (a). Pub. L. 100–203, §9314(b), as amended by Pub. L. 101–239, §7881(g)(7), amended last sentence generally. Prior to amendment, last sentence read as follows: “The corporation is authorized to pool the assets of terminated plans for purposes of administration and such other purposes, not inconsistent with its duties to the plan participants and the employer maintaining the plan under this subchapter, as it determines to be required for the efficient administration of this subchapter.” Another section 9314(b) of Pub. L. 100–203 amended subsec. (c) of this section, see below.
+<b>1987</b>—Subsec. (a). Pub. L. 100–203, §9314(b), as amended by Pub. L. 101–239, §7881(g)(7), amended last sentence generally. Prior to amendment, last sentence read as follows: “The corporation is authorized to pool the assets of terminated plans for purposes of administration and such other purposes, not inconsistent with its duties to the plan participants and the employer maintaining the plan under this subchapter, as it determines to be required for the efficient administration of this subchapter.” Another section 9314(b) of Pub. L. 100–203 amended subsec. (c) of this section, see below.
 
 Subsec. (c)(3). Pub. L. 100–203, §9314(b), added par. (3). Another section 9314(b) of Pub. L. 100–203 amended subsec. (a) of this section, see above.
 
 Subsec. (i). Pub. L. 100–203, §9312(c)(3), struck out subsec. (i) which read as follows: “In any case in which a plan is terminated under this section in a termination proceeding initiated by the corporation pursuant to subsection (a) of this section, the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title, unless the corporation determines that all benefit commitments under the plan are benefits guaranteed by the corporation under section 1322 of this title or that there is no amount of unfunded benefit commitments under the plan.”
 
-1986—Pub. L. 99–272, §11010(c), substituted “Institution of termination proceedings by the corporation” for “Termination by corporation” in section catchline.
+<b>1986</b>—Pub. L. 99–272, §11010(c), substituted “Institution of termination proceedings by the corporation” for “Termination by corporation” in section catchline.
 
 Subsec. (a). Pub. L. 99–272, §11010(a)(1)(B), in provision following par. (4) inserted provision that the corporation as soon as practicable institute proceedings under this section to terminate a single-employer plan whenever the corporation determines that the plan does not have assets available to pay benefits currently due under the terms of the plan.
 
@@ -194,7 +194,7 @@ Subsec. (d)(3). Pub. L. 99–272, §11016(c)(11), substituted “those of a trus
 
 Subsec. (i). Pub. L. 99–272, §11010(b), added subsec. (i).
 
-1980—Subsec. (a). Pub. L. 96–364, §402(a)(6)(A), substituted “terminated plans” for “such small plans”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–364, §402(a)(6)(A), substituted “terminated plans” for “such small plans”.
 
 Subsec. (b). Pub. L. 96–364, §402(a)(6)(B), redesignated existing provisions as par. (1) and added pars. (2) and (3).
 
@@ -206,7 +206,7 @@ Subsec. (d)(1)(B). Pub. L. 96–364, §402(a)(6)(F), (G), in cl. (i) substituted
 
 Subsec. (d)(2)(D) to (F). Pub. L. 96–364, §402(a)(6)(H)–(J), added subpars. (D) to (F).
 
-1978—Subsec. (f). Pub. L. 95–598 substituted “of a court of the United States having jurisdiction over cases under chapter 11 of title 11” for “of a court of bankruptcy and of a court in a proceeding under chapter X of the Bankruptcy Act” in first sentence and struck out “bankruptcy,” before “mortgage foreclosure” in second sentence.
+<b>1978</b>—Subsec. (f). Pub. L. 95–598 substituted “of a court of the United States having jurisdiction over cases under chapter 11 of title 11” for “of a court of bankruptcy and of a court in a proceeding under chapter X of the Bankruptcy Act” in first sentence and struck out “bankruptcy,” before “mortgage foreclosure” in second sentence.
 
 #### Effective Date of 2008 Amendment
 

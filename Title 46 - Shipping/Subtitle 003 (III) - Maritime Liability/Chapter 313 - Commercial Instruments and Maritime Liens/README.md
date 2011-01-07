@@ -53,9 +53,9 @@ Section 102 of this bill adds a new subtitle III to title 46, which contains a c
 
 #### Amendments
 
-2002—Pub. L. 107–295, title II, §205(a)(2), Nov. 25, 2002, 116 Stat. 2096, substituted “notices of claim of maritime lien” for “liens on preferred mortgage vessels” in item 31343.
+<b>2002</b>—Pub. L. 107–295, title II, §205(a)(2), Nov. 25, 2002, 116 Stat. 2096, substituted “notices of claim of maritime lien” for “liens on preferred mortgage vessels” in item 31343.
 
-1996—Pub. L. 104–324, title XI, §1113(b)(3), Oct. 19, 1996, 110 Stat. 3970, struck out item 31328 “Limitations on parties serving as trustees of mortgaged vessel interests”.
+<b>1996</b>—Pub. L. 104–324, title XI, §1113(b)(3), Oct. 19, 1996, 110 Stat. 3970, struck out item 31328 “Limitations on parties serving as trustees of mortgaged vessel interests”.
 
 
 ---

@@ -26,7 +26,7 @@ The Secretary of Agriculture shall charge a rental charge for all ski area permi
 
 #### (c) Payment
 
-The rental charge set forth in subsection (b) of this section shall be due on June 1 of each year and shall be paid or prepaid by the permittee on a monthly, quarterly, annual or other schedule as determined appropriate by the Secretary in consultation with the permittee. Unless mutually agreed otherwise by the Secretary and the permittee, the payment or prepayment schedule shall conform to the permittee's schedule in effect prior to November 12, 1996. To reduce costs to the permittee and the Forest Service, the Secretary shall each year provide the permittee with a standardized form and worksheets (including annual rental charge calculation brackets and rates) to be used for rental charge calculation and submitted with the rental charge payment. Information provided on such forms shall be compiled by the Secretary annually and kept in the Office of the Chief, United States Forest Service.
+The rental charge set forth in subsection (b) of this section shall be due on June 1 of each year and shall be paid or prepaid by the permittee on a monthly, quarterly, annual or other schedule as determined appropriate by the Secretary in consultation with the permittee. Unless mutually agreed otherwise by the Secretary and the permittee, the payment or prepayment scheduleshall conform to the permittee's schedule in effect prior to November 12, 1996. To reduce costs to the permittee and the Forest Service, the Secretary shall each year provide the permittee with a standardized form and worksheets (including annual rental charge calculation brackets and rates) to be used for rental charge calculation and submitted with the rental charge payment. Information provided on such forms shall be compiled by the Secretary annually and kept in the Office of the Chief, United States Forest Service.
 
 #### (d) Effective date
 
@@ -42,7 +42,7 @@ The ski area permit rental charge set forth in this section shall become effecti
 
 #### (e) Non-national forest land operations
 
-Under no circumstances shall revenue, or subpermittee revenue (other than lift ticket, area use pass, or ski school sales) obtained from operations physically located on non-national forestland be included in the ski area permit rental charge calculation.
+Under no circumstances shall revenue, or subpermittee revenue (other than lift ticket, area use pass, or ski school sales) obtained from operations physically located on non-national forest land be included in the ski area permit rental charge calculation.
 
 #### (f) “Revenue” and “sales” defined; limitations
 
@@ -68,23 +68,17 @@ Subject to valid existing rights, all lands located within the boundaries of ski
 
 #### References in Text
 
-Act of March 4, 1915, referred to in subsecs. (a) and (j), is act Mar. 4, 1915, ch. 144, 38 Stat. 1086, as amended. For complete classification of this Act to the Code, see Tables.
+Act of March 4, 1915, referred to in subsecs. (a) and (j), is act Mar. 4, 1915, ch. 144, 38 Stat. 1086. For complete classification of this Act to the Code, see Tables.
 
 Act of June 4, 1897, referred to in subsecs. (a) and (j), is act June 4, 1897, ch. 2, 30 Stat. 11. For complete classification of this Act to the Code, see Tables.
 
 The National Forest Ski Area Permit Act of 1986, referred to in subsecs. (a) and (j), is Pub. L. 99–522, Oct. 22, 1986, 100 Stat. 3000, which enacted section 497b of this title and provisions set out as a note under section 497b of this title. For complete classification of this Act to the Code, see Short Title note set out under section 497b of this title and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
-
-The mining laws and the laws pertaining to mineral leasing, referred to in subsec. (j), are classified generally to Title 30, Mineral Lands and Mining.
-
-Laws pertaining to geothermal leasing, referred to in subsec. (j), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
-
-The public land laws, referred to in subsec. (j), are classified generally to Title 43, Public Lands.
+The National Environmental Policy Act of 1969, referred to in subsec. (i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
 
-2000—Subsec. (b)(3). Pub. L. 106–176, §117(1), substituted “required by this section” for “legislated by this Act”.
+<b>2000</b>—Subsec. (b)(3). Pub. L. 106–176, §117(1), substituted “required by this section” for “legislated by this Act”.
 
 Subsec. (d). Pub. L. 106–176, §117(2), in introductory provisions, substituted “formula of this section” for “formula of this Act”, in pars. (1) to (3), substituted “this section” for “this Act”, and, in concluding provisions, inserted “adjusted gross revenue for the” before “1994–1995 base year” and substituted “this section” for “this Act”.
 

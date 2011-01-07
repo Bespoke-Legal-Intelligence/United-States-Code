@@ -30,7 +30,7 @@ Approval of applications for assistance.—
 
 &emsp;&emsp;(A)
 
-Findings by the secretary.—The Secretary may approve an application for financial assistance for a capital project in accordance with this chapter only if the Secretary makes written findings, after reviewing the application and the transcript of any hearing held before a State or local governmental authority under section 5323(b), that—
+Findings by the secretary.—The Secretary may approve an application for financial assistance for a capital project in accordance with this chapter only if the Secretary makes written findings, after reviewing the application and the transcript of anyhearing held before a State or local governmental authority under section 5323(b), that—
 
 &emsp;&emsp;&emsp;(i) an adequate opportunity to present views was given to all parties having a significant economic, social, or environmental interest;
 
@@ -114,5 +114,5 @@ The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 
 
 #### Amendments
 
-2005—Pub. L. 109–59 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c)relating to requirements of a relocation program for families displaced by a project, consideration of economic, social, and environmental interests, and prohibition against regulating the operation of a mass transportation system for which a grant is made under section 5309 and regulating any charge for the system after a grant is made.
+<b>2005</b>—Pub. L. 109–59 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to requirements of a relocation program for families displaced by a project, consideration of economic, social, and environmental interests, and prohibition against regulating the operation of a mass transportation system for which a grant is made under section 5309 and regulating any charge for the system after a grant is made.
 

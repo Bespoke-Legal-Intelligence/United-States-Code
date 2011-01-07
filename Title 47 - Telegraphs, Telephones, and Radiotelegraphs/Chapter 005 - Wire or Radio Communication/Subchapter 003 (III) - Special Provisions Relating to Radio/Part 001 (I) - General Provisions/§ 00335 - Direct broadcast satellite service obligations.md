@@ -4,11 +4,17 @@
 
 The Commission shall, within 180 days after October 5, 1992, initiate a rulemaking proceeding to impose, on providers of direct broadcast satellite service, public interest or other requirements for providing video programming. Any regulations prescribed pursuant to such rulemaking shall, at a minimum, apply the access to broadcast time requirement of section 312(a)(7) of this title and the use of facilities requirements of section 315 of this title to providers of direct broadcast satellite service providing video programming. Such proceeding also shall examine the opportunities that the establishment of direct broadcast satellite service provides for the principle of localism under this chapter, and the methods by which such principle may be served through technological and other developments in, or regulation of, such service.
 
-#### (b) Carriage obligations for noncommercial, educational, and informational programming
+#### (b) Carriage obligations for noncommercial, educational, State public affairs, and informational programming
 
 #### (1) Channel capacity required
 
-&emsp;The Commission shall require, as a condition of any provision, initial authorization, or authorization renewal for a provider of direct broadcast satellite service providing video programming, that the provider of such service reserve a portion of its channel capacity, equal to not less than 4 percent nor more than 7 percent, exclusively for noncommercial programming of an educational or informational nature.
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), the Commission shall require, as a condition of any provision, initial authorization, or authorization renewal for a provider of direct broadcast satellite service providing video programming, that the provider of such service reserve a portion of its channel capacity, equal to not less than 4 percent nor more than 7 percent, exclusively for noncommercial programming of an educational or informational nature.
+
+#### (B) Requirement for qualified satellite provider
+
+&emsp;&emsp;The Commission shall require, as a condition of any provision, initial authorization, or authorization renewal for a qualified satellite provider of direct broadcast satellite service providing video programming, that such provider reserve a portion of its channel capacity, equal to not less than 3.5 percent nor more than 7 percent, exclusively for noncommercial programming of an educational or informational nature.
 
 #### (2) Use of unused channel capacity
 
@@ -34,7 +40,7 @@ The Commission shall, within 180 days after October 5, 1992, initiate a rulemaki
 
 #### (5) Definitions
 
-&emsp;For purposes of this subsection—
+&emsp;For purposes of this subsection:
 
 &emsp;&emsp;(A) The term “provider of direct broadcast satellite service” means—
 
@@ -44,7 +50,41 @@ The Commission shall, within 180 days after October 5, 1992, initiate a rulemaki
 
 &emsp;&emsp;(B) The term “national educational programming supplier” includes any qualified noncommercial educational television station, other public telecommunications entities, and public or private educational institutions.
 
-(June 19, 1934, ch. 652, title III, §335, as added Pub. L. 102–385, §25(a), Oct. 5, 1992, 106 Stat. 1501.)
+&emsp;&emsp;(C) The term “qualified satellite provider” means any provider of direct broadcast satellite service that—
+
+&emsp;&emsp;&emsp;(i) provides the retransmission of the State public affairs networks of at least 15 different States;
+
+&emsp;&emsp;&emsp;(ii) offers the programming of State public affairs networks upon reasonable prices, terms, and conditions as determined by the Commission under paragraph (4); and
+
+&emsp;&emsp;&emsp;(iii) does not delete any noncommercial programming of an educational or informational nature in connection with the carriage of a State public affairs network.
+
+&emsp;&emsp;(D) The term “State public affairs network” means a non-commercial non-broadcast network or a noncommercial educational television station—
+
+&emsp;&emsp;&emsp;(i) whose programming consists of information about State government deliberations and public policy events; and
+
+&emsp;&emsp;&emsp;(ii) that is operated by—
+
+&emsp;&emsp;&emsp;&emsp;(I) a State government or subdivision thereof;
+
+&emsp;&emsp;&emsp;&emsp;(II) an organization described in section 501(c)(3) of title 26 that is exempt from taxation under section 501(a) of such title and that is governed by an independent board of directors; or
+
+&emsp;&emsp;&emsp;&emsp;(III) a cable system.
+
+(June 19, 1934, ch. 652, title III, §335, as added Pub. L. 102–385, §25(a), Oct. 5, 1992, 106 Stat. 1501;amended Pub. L. 111–175, title II, §209, May 27, 2010, 124 Stat. 1254.)
+
+#### Amendments
+
+<b>2010</b>—Subsec. (b). Pub. L. 111–175, §209(1), inserted “State public affairs,” after “educational,” in heading.
+
+Subsec. (b)(1). Pub. L. 111–175, §209(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Commission shall require, as a condition of any provision, initial authorization, or authorization renewal for a provider of direct broadcast satellite service providing video programming, that the provider of such service reserve a portion of its channel capacity, equal to not less than 4 percent nor more than 7 percent, exclusively for noncommercial programming of an educational or informational nature.”
+
+Subsec. (b)(5). Pub. L. 111–175, §209(3), which directed substitution of “For purposes of this subsection:” for “For purposes of the subsection—”, was executed by making the substitution for “For purposes of this subsection—” in introductory provisions, to reflect the probable intent of Congress.
+
+Subsec. (b)(5)(C), (D). Pub. L. 111–175, §209(4), added subpars. (C) and (D).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–175 effective Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as a note under section 111 of Title 17, Copyrights.
 
 #### Effective Date
 

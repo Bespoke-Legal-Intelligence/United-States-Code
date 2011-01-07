@@ -32,9 +32,9 @@ The Chief Financial Officer of the Armed Forces Retirement Home shall comply wit
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–181 added subsec. (d).
+<b>2008</b>—Subsec. (d). Pub. L. 110–181 added subsec. (d).
 
-2001—Pub. L. 107–107, §1410(a)(2), inserted “Armed Forces” before “Retirement Home Trust Fund” in section catchline.
+<b>2001</b>—Pub. L. 107–107, §1410(a)(2), inserted “Armed Forces” before “Retirement Home Trust Fund” in section catchline.
 
 Subsec. (c). Pub. L. 107–107, §1404(b)(2), substituted “Chief Operating Officer” for “Director”.
 

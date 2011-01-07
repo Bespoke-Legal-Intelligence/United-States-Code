@@ -16,5 +16,5 @@ The Commission or any other Federal officer or agency authorized to issue rules 
 
 #### Amendments
 
-1989—Subsec. (d). Pub. L. 101–60 struck out subsec. (d) which directed that any determination made under section 3347(c) of this title be made in accordance with procedures applicable to the granting of any authority under the Natural Gas Act to import natural gas or liquefied natural gas (as the case might be).
+<b>1989</b>—Subsec. (d). Pub. L. 101–60 struck out subsec. (d) which directed that any determination made under section 3347(c) of this title be made in accordance with procedures applicable to the granting of any authority under the Natural Gas Act to import natural gas or liquefied natural gas (as the case might be).
 

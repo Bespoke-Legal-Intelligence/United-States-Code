@@ -6,5 +6,5 @@ Whenever he considers it necessary, the Secretary concerned may, under regulatio
 
 #### Amendments
 
-1972—Pub. L. 92–425 substituted “subchapter” for “chapter”.
+<b>1972</b>—Pub. L. 92–425 substituted “subchapter” for “chapter”.
 

@@ -22,7 +22,7 @@ Preparation of Vessel for Use as Artificial Reef.—The Secretary shall ensure t
 
 (d)
 
-Cost Sharing.—The Secretary may share with the recipient of a vessel transferred under subsection (a) any costs associated with transferring the vessel under that subsection, including costs of the preparation of the vessel under subsection (c).
+Cost Sharing.—The Secretary may share with the recipient of a vessel transferred undersubsection (a) any costs associated with transferring the vessel under that subsection, including costs of the preparation of the vessel under subsection (c).
 
 (e)
 
@@ -44,7 +44,7 @@ The National Fishing Enhancement Act of 1984, referred to in subsec. (b)(1), is 
 
 #### Amendments
 
-2009—Subsec. (b)(1). Pub. L. 111–84 substituted “1802(14)))” for “1802(14))”.
+<b>2009</b>—Subsec. (b)(1). Pub. L. 111–84 substituted “1802(14)))” for “1802(14))”.
 
-2006—Subsec. (b)(1). Pub. L. 109–364 substituted “3(14)” for “2(14)”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–364 substituted “3(14)” for “2(14)”.
 

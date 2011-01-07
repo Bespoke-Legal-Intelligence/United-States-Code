@@ -28,7 +28,7 @@ Limitation on Amount of Special Pay.—The amount of retention special pay paid 
 
 #### Amendments
 
-2002—Subsecs. (a), (b). Pub. L. 107–314, §615(g)(1), substituted “retention special pay under this section” for “special pay at the rates specified in subsection (d)”.
+<b>2002</b>—Subsecs. (a), (b). Pub. L. 107–314, §615(g)(1), substituted “retention special pay under this section” for “special pay at the rates specified in subsection (d)”.
 
 Subsec. (c). Pub. L. 107–314, §615(g)(2), inserted “
 

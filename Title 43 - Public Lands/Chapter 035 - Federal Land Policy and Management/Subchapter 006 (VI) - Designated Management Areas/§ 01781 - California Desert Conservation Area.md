@@ -60,8 +60,6 @@ There are authorized to be appropriated for fiscal years 1977 through 1981 not t
 
 This Act, referred to in subsecs. (c)(2) and (f), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
-The United States mining laws, referred to in subsec. (f), are classified generally to Title 30, Mineral Lands and Mining.
-
 #### Codification
 
 Subsec. (i) of this section, which required the Secretary to report annually to Congress on the progress in, and any problems concerning, the implementation of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the last item on page 107 of House Document No. 103–7.
@@ -82,7 +80,7 @@ Designation.—There is hereby established the Desert Lily Sanctuary within the 
 
 “(b)
 
-Withdrawal.—Subject to valid existing rights, all Federal lands within the Desert Lily Sanctuary are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and mineral materials, and all amendments thereto.”
+Withdrawal.—Subject to valid existing rights, all Federal lands within the Desert Lily Sanctuary arehereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and mineral materials, and all amendments thereto.”
 
 #### Dinosaur Trackway Area of Critical Environmental Concern
 

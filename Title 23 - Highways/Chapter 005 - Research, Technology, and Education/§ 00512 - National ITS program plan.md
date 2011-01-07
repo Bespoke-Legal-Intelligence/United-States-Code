@@ -126,7 +126,7 @@ Information Clearinghouse.—
 
 In general.—The Secretary shall—
 
-&emsp;&emsp;“(A) maintain a repository for technical and safety data collected as a result of federally sponsoredprojects carried out under this subtitle (including the amendments made by this subtitle); and
+&emsp;&emsp;“(A) maintain a repository for technical and safety data collected as a result of federally sponsored projects carried out under this subtitle (including the amendments made by this subtitle); and
 
 &emsp;&emsp;“(B) make, on request, that information (except for proprietary information and data) readily available to all users of the repository at an appropriate cost.
 
@@ -532,7 +532,7 @@ Development.—The Secretary \[of Transportation\] shall develop a nationwide pr
 
 &emsp;“(2)
 
-Consultation.—The Secretary shall develop the agreement under paragraph (1) in consultationwith the National Conference of State Historic Preservation Officers and the Advisory Council on Historic Preservation established under title II of the National Historic Preservation Act (26 U.S.C. 470i et seq.) and after soliciting the views of other interested parties.
+Consultation.—The Secretary shall develop the agreement under paragraph (1) in consultation with the National Conference of State Historic Preservation Officers and the Advisory Council on Historic Preservation established under title II of the National Historic Preservation Act (26 U.S.C. 470i et seq.) and after soliciting the views of other interested parties.
 
 “(c)
 

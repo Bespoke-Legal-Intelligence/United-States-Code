@@ -4,3 +4,7 @@ The committee shall place each position (in existence on, or established after, 
 
 (Pub. L. 88–652, §6, Oct. 13, 1964, 78 Stat. 1081.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which enacted this chapter and amended sections 88c and 123b of this title. For complete classification of this Act to the Code, see Short Title note set out under section 291 of this title and Tables.
+

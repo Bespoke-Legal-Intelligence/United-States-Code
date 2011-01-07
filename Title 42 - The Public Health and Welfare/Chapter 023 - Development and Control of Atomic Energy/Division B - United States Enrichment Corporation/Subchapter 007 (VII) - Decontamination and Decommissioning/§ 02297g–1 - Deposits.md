@@ -44,7 +44,7 @@ Any special assessment levied under this section on domestic utilities for the d
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–222 substituted “$518,233,333” for “$488,333,333” and inserted “beginning on October 24, 1992,” after “inflation”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–222 substituted “$518,233,333” for “$488,333,333” and inserted “beginning on October 24, 1992,” after “inflation”.
 
-1998—Subsec. (a). Pub. L. 105–388 substituted “$488,333,333” for “$480,000,000”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–388 substituted “$488,333,333” for “$480,000,000”.
 

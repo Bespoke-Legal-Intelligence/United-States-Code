@@ -14,7 +14,7 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1988—Pub. L. 100–690 amended section generally. Prior to amendment, section read as follows: “The board of directors of Federal Prison Industries shall make annual reports to Congress on the conduct of the business of the corporation and on the condition of its funds.”
+<b>1988</b>—Pub. L. 100–690 amended section generally. Prior to amendment, section read as follows: “The board of directors of Federal Prison Industries shall make annual reports to Congress on the conduct of the business of the corporation and on the condition of its funds.”
 
 #### Termination of Reporting Requirements
 

@@ -50,7 +50,7 @@ Before approving a management program submitted by a coastal state, the Secretar
 
 &emsp;&emsp;&emsp;(ii) which have been developed by a local government, an areawide agency, a regional agency, or an interstate agency; and
 
-&emsp;&emsp;(B) established an effective mechanism for continuing consultation and coordination between the management agency designated pursuant to paragraph (6) and with local governments, interstate agencies, regional agencies, and areawide agencies within thecoastal zone to assure the full participation of those local governments and agencies in carrying out the purposes of this chapter; except that the Secretary shall not find any mechanism to be effective for purposes of this subparagraph unless it requires that—
+&emsp;&emsp;(B) established an effective mechanism for continuing consultation and coordination between the management agency designated pursuant to paragraph (6) and with local governments, interstate agencies, regional agencies, and areawide agencies within the coastal zone to assure the full participation of those local governments and agencies in carrying out the purposes of this chapter; except that the Secretary shall not find any mechanism to be effective for purposes of this subparagraph unless it requires that—
 
 &emsp;&emsp;&emsp;(i) the management agency, before implementing any management program decision which would conflict with any local zoning ordinance, decision, or other action, shall send a notice of the management program decision to any local government whose zoning authority is affected;
 
@@ -124,21 +124,21 @@ The National Environmental Policy Act of 1969, referred to in subsec. (e)(2), is
 
 #### Amendments
 
-1992—Subsecs. (a) to (d), (e)(2), (3)(A). Pub. L. 102–587 substituted “coastal state” and “coastal states” for “coastal State” and “coastal States”, respectively, wherever appearing, and substituted period for semicolon at end of subsec. (b).
+<b>1992</b>—Subsecs. (a) to (d), (e)(2), (3)(A). Pub. L. 102–587 substituted “coastal state” and “coastal states” for “coastal State” and “coastal States”, respectively, wherever appearing, and substituted period for semicolon at end of subsec. (b).
 
-1990—Pub. L. 101–508 amended section generally, substituting present provisions for provisions which authorized grants for administering a state management program, provided for a ratio of Federal to State contributions, allocation of grants, program requirements, required authority for management of coastal zone, required findings prior to approval of grants, allocation to other political subdivisions, program modification, segmental development, and inventory and designation of areas of national significance and standards for protection of coastal resources.
+<b>1990</b>—Pub. L. 101–508 amended section generally, substituting present provisions for provisions which authorized grants for administering a state management program, provided for a ratio of Federal to State contributions, allocation of grants, program requirements, required authority for management of coastal zone, required findings prior to approval of grants, allocation to other political subdivisions, program modification, segmental development, and inventory and designation of areas of national significance and standards for protection of coastal resources.
 
-1986—Subsec. (a). Pub. L. 99–272, §6043(b)(1), amended introductory text generally, which prior to amendment read as follows: “The Secretary may make grants to any coastal state for not more than 80 per centum of the costs of administering such state's management program if the Secretary—”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–272, §6043(b)(1), amended introductory text generally, which prior to amendment read as follows: “The Secretary may make grants to any coastal state for not more than 80 per centum of the costs of administering such state's management program if the Secretary—”.
 
 Subsec. (g). Pub. L. 99–272, §6043(c), inserted “, and subject to the following conditions:” in provisions preceding par. (1), added pars. (1) to (3), and struck out provision that except with respect to any management program amendment which was made before Oct. 1, 1978, for the purpose of complying with the requirements of section 1454(b)(7), (8) and (9) of this title, no grant was to be made under this section to any coastal state after the date of such amendment or modification, until the Secretary approved such amendment or modification.
 
-1980—Subsec. (a). Pub. L. 96–464, §5(a)(1), in opening text, substituted “The Secretary may make grants” for “The Secretary may make a grant annually”, added par. (3), and provision following par. (3) which defined the costs of administering a management program.
+<b>1980</b>—Subsec. (a). Pub. L. 96–464, §5(a)(1), in opening text, substituted “The Secretary may make grants” for “The Secretary may make a grant annually”, added par. (3), and provision following par. (3) which defined the costs of administering a management program.
 
 Subsec. (b). Pub. L. 96–464, §5(2), struck out proviso that no annual grant made under this section shall be in excess of $2,000,000 for fiscal year 1975, in excess of $2,500,000 for fiscal year 1976, and in excess of $3,000,000 for fiscal year 1977.
 
 Subsec. (i). Pub. L. 96–464, §5(a)(3), added subsec. (i).
 
-1976—Subsec. (a). Pub. L. 94–370, §5(1), raised the federal share of grants to 80 per centum from 662/3 per centum of the cost of administering a state's management program, substituted requirement that Secretary approve state's management program in accordance with subsecs. (c), (d), and (e) and find that such programs meet requirements under section 1454(b) of this title for requirement that Secretary approve state's management programs in accordance with subsec. (c), and struck out proviso that Federal funds from other sources shall not be used to pay the state's share of costs.
+<b>1976</b>—Subsec. (a). Pub. L. 94–370, §5(1), raised the federal share of grants to 80 per centum from 662/3 per centum of the cost of administering a state's management program, substituted requirement that Secretary approve state's management program in accordance with subsecs. (c), (d), and (e) and find that such programs meet requirements under section 1454(b) of this title for requirement that Secretary approve state's management programs in accordance with subsec. (c), and struck out proviso that Federal funds from other sources shall not be used to pay the state's share of costs.
 
 Subsec. (c)(2)(B). Pub. L. 94–370, §5(2), inserted provisions that mechanism not be found to be effective by Secretary until management agency meets certain requirement such as notice to affected zoning authority, 30-day period for zoning authority to respond with recommendations, and action to be taken by management agency where zoning authority does submit recommendations.
 
@@ -146,7 +146,7 @@ Subsec. (c)(8). Pub. L. 94–370, §5(3), inserted “planning for, and” befor
 
 Subsec. (g). Pub. L. 94–370, §5(4), inserted requirement that except for pre-Oct. 1, 1978 amendments of management programs, for purposes of complying with section 1454(b)(7), (8), and (9) of this title, no grant shall be made under this section to any coastal state after the date of an amendment until approved by Secretary.
 
-1975—Subsec. (b). Pub. L. 93–612 substituted provisos establishing maximum amount of annual grant for fiscal years 1975, 1976, and 1977, establishing a minimum of 1 per centum of the total appropriated amount, and providing for waiver of the 1 per centum minimum upon request of the coastal State, for proviso limiting an annual administrative grant to a maximum of 10 per centum and a minimum of 1 per centum of the total appropriated amount.
+<b>1975</b>—Subsec. (b). Pub. L. 93–612 substituted provisos establishing maximum amount of annual grant for fiscal years 1975, 1976, and 1977, establishing a minimum of 1 per centum of the total appropriated amount, and providing for waiver of the 1 per centum minimum upon request of the coastal State, for proviso limiting an annual administrative grant to a maximum of 10 per centum and a minimum of 1 per centum of the total appropriated amount.
 
 #### Effective Date of 1980 Amendment
 
@@ -154,7 +154,7 @@ Section 5(b) of Pub. L. 96–464 provided that: “The amendments made by subsec
 
 #### Additional Program Requirements
 
-Section 6206(b) of title VI of Pub. L. 101–508 provided that: “Each State which submits a management program for approval under section 306 of the Coastal ZoneManagement Act of 1972 \[16 U.S.C. 1455\], as amended by this subtitle (including a State which submitted a program before the date of enactment of this Act \[Nov. 5, 1990\]), shall demonstrate to the Secretary—
+Section 6206(b) of title VI of Pub. L. 101–508 provided that: “Each State which submits a management program for approval under section 306 of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455\], as amended by this subtitle (including a State which submitted a program before the date of enactment of this Act \[Nov. 5, 1990\]), shall demonstrate to the Secretary—
 
 &emsp;“(1) that the program complies with section 306(d)(14) and (15) of that Act, by not later than 3 years after the date of the enactment of this Act; and
 

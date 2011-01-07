@@ -74,7 +74,7 @@ Pub. L. 106–472, title II, §202, Nov. 9, 2000, 114 Stat. 2068, provided that:
 
 “(a)
 
-Proposed Regulations.—Not later than 90 days after the date of the enactment of this Act \[Nov. 9, 2000\], the Secretary of Agriculture shall publish in the Federal Register proposed regulations for carrying out the amendment made by section 201 \[enacting this chapter\].
+Proposed Regulations.—Not later than 90 days after the date of the enactment of this Act \[Nov. 9,2000\], the Secretary of Agriculture shall publish in the Federal Register proposed regulations for carrying out the amendment made by section 201 \[enacting this chapter\].
 
 “(b)
 

@@ -24,11 +24,11 @@ As used in this chapter—
 
 #### Amendments
 
-2009—Par. (3). Pub. L. 111–79 substituted “includes—” and subpars. (A) and (B) for “has the meaning assigned by section 3127, and includes any Federal court within that definition, without geographic limitation; and”.
+<b>2009</b>—Par. (3). Pub. L. 111–79 substituted “includes—” and subpars. (A) and (B) for “has the meaning assigned by section 3127, and includes any Federal court within that definition, without geographic limitation; and”.
 
-2006—Par. (4). Pub. L. 109–177 added par. (4).
+<b>2006</b>—Par. (4). Pub. L. 109–177 added par. (4).
 
-2001—Par. (3). Pub. L. 107–56 added par. (3).
+<b>2001</b>—Par. (3). Pub. L. 107–56 added par. (3).
 
-1988—Pub. L. 100–618 renumbered section 2710 of this title as this section.
+<b>1988</b>—Pub. L. 100–618 renumbered section 2710 of this title as this section.
 

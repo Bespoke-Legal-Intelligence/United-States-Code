@@ -34,9 +34,9 @@ Reorganization Plan Numbered 3 of 1979, referred to in subsec. (a)(3)(A), is Reo
 
 #### Amendments
 
-1999—Subsec. (a)(4). Pub. L. 106–113 added par. (4).
+<b>1999</b>—Subsec. (a)(4). Pub. L. 106–113 added par. (4).
 
-1998—Subsec. (a)(1). Pub. L. 105–277, §1422(b)(4)(A), substituted “Administrator of the Agency for International Development” for “Director of the United States International Development Cooperation Agency”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–277, §1422(b)(4)(A), substituted “Administrator of the Agency for International Development” for “Director of the United States International Development Cooperation Agency”.
 
 Pub. L. 105–277, §1335(k)(1), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency”.
 

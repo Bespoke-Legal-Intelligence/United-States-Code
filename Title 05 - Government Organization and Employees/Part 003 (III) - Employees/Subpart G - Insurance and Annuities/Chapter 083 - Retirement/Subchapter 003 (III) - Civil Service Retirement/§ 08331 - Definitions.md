@@ -54,7 +54,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(xii) a member of the Foreign Service (as described in section 103(6) of the Foreign Service Act of 1980), appointed after December 31, 1987.
 
-> &emsp;Notwithstanding this paragraph, the employment of a teacher in the recess period between two school years in a position other than a teaching position in which he served immediately before the recess period does not qualify the individual as an employee for the purpose of this subchapter. For the purpose of the preceding sentence, “teacher” and “teachingposition” have the meanings given them by section 901 of title 20;
+> &emsp;Notwithstanding this paragraph, the employment of a teacher in the recess period between two school years in a position other than a teaching position in which he served immediately before the recess period does not qualify the individual as an employee for the purpose of this subchapter. For the purpose of thepreceding sentence, “teacher” and “teaching position” have the meanings given them by section 901 of title 20;
 
 &emsp;(2) “Member” means a Member of Congress as defined by section 2106 of this title, after he gives notice in writing to the official by whom he is paid of his desire to become subject to this subchapter, but does not include any such Member of Congress who is subject to the Federal Employees’ Retirement System or who makes an election under section 8401(20) of this title not to be subject to such System;
 

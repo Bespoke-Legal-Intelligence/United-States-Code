@@ -16,5 +16,5 @@ The date of enactment of this Act, referred to in text, means the date of enactm
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250” in second par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250” in second par.
 

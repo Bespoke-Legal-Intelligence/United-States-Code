@@ -2,7 +2,7 @@
 
 If a foreign proceeding and a case under another chapter of this title are pending concurrently regarding the same debtor, the court shall seek cooperation and coordination under sections 1525, 1526, and 1527, and the following shall apply:
 
-&emsp;(1) If the case in the United States pending at the time the petition for recognition of such foreign proceeding is filed—
+&emsp;(1) If the case in the United States is pending at the time the petition for recognition of such foreign proceeding is filed—
 
 &emsp;&emsp;(A) any relief granted under section 1519 or 1521 must be consistent with the relief granted in the case in the United States; and
 
@@ -18,5 +18,9 @@ If a foreign proceeding and a case under another chapter of this title are pendi
 
 &emsp;(4) In achieving cooperation and coordination under sections 1528 and 1529, the court may grant any of the relief authorized under section 305.
 
-(Added Pub. L. 109–8, title VIII, §801(a), Apr. 20, 2005, 119 Stat. 144.)
+(Added Pub. L. 109–8, title VIII, §801(a), Apr. 20, 2005, 119 Stat. 144; amended Pub. L. 111–327, §2(a)(48), Dec. 22, 2010, 124 Stat. 3562.)
+
+#### Amendments
+
+2010—Par. (1). Pub. L. 111–327, which directed amendment of par. (1) by inserting “is” after “States”, was executed by making the insertion only in introductory provisions to reflect the probable intent of Congress.
 

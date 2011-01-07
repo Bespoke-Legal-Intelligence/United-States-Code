@@ -82,7 +82,7 @@
 
 &emsp;&emsp;&emsp;(iv) for the reporting of cancer case data to the statewide cancer registry in such a format, with such data elements, and in accordance with such standards of quality timeliness and completeness, as may be established by the Secretary;
 
-&emsp;&emsp;&emsp;(v) for the protection of the confidentiality of all cancer case data reported to the statewide cancer registry, including a prohibition on disclosure to any person of information reported to the statewide cancer registry that identifies, or could lead to the identification of, an individual cancerpatient, except for disclosure to other State cancer registries and local and State health officers;
+&emsp;&emsp;&emsp;(v) for the protection of the confidentiality of all cancer case data reported to the statewide cancer registry, including a prohibition on disclosure to any person of information reported to the statewide cancer registry that identifies, or could lead to the identification of, an individual cancer patient, except for disclosure to other State cancer registries and local and State health officers;
 
 &emsp;&emsp;&emsp;(vi) for a means by which confidential case data may in accordance with State law be disclosed to cancer researchers for the purposes of cancer prevention, control and research;
 
@@ -116,9 +116,9 @@ In the case of a grant under subsection (a) of this section to any State specifi
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–260 designated existing provisions as par. (1), inserted par. (1) heading, substituted “population-based, statewide registries to collect, for each condition specified in paragraph (2)(A), data” for “population-based, statewide cancer registries in order to collect, for each form of in-situ and invasive cancer (with the exception of basal cell and squamous cell carcinoma of the skin), data”, redesignated former pars. (1) to (5) as subpars. (A) to (E) of par. (1), respectively, and added par. (2).
+<b>2002</b>—Subsec. (a). Pub. L. 107–260 designated existing provisions as par. (1), inserted par. (1) heading, substituted “population-based, statewide registries to collect, for each condition specified in paragraph (2)(A), data” for “population-based, statewide cancer registries in order to collect, for each form of in-situ and invasive cancer (with the exception of basal cell and squamous cell carcinoma of the skin), data”, redesignated former pars. (1) to (5) as subpars. (A) to (E) of par. (1), respectively, and added par. (2).
 
-2000—Subsec. (e). Pub. L. 106–310, §502(2)(B), substituted “subsection (b) of section 280e–3 of this title” for “section 280e–3(b) of this title” and “such section” for “section 399C”.
+<b>2000</b>—Subsec. (e). Pub. L. 106–310, §502(2)(B), substituted “subsection (b) of section 280e–3 of this title” for “section 280e–3(b) of this title” and “such section” for “section 399C”.
 
 #### Change of Name
 

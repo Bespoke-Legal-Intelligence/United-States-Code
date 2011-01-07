@@ -30,6 +30,10 @@ Any party may demand a jury trial where a jury trial would be available in an ac
 
 (Pub. L. 104–1, title IV, §408, Jan. 23, 1995, 109 Stat. 37; Pub. L. 107–68, title I, §119(a), Nov. 12, 2001, 115 Stat. 573.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (c) and (d)(1), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
+
 #### Amendments
 
 2001—Subsec. (d). Pub. L. 107–68 added subsec. (d).

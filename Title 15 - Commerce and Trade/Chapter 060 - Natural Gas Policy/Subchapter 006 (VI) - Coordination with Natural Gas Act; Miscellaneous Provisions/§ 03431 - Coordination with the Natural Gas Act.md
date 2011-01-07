@@ -86,7 +86,7 @@ The Natural Gas Act, referred to in subsec. (a)(1), (2)(A), (B), is act June 21,
 
 #### Amendments
 
-1989—Subsec. (a)(1)(A). Pub. L. 101–60, §3(b)(7)(A), in heading substituted “Application to first sales” for “Natural gas not committed or dedicated” and amended text generally. Prior to amendment, text read as follows: “For purposes of section 1(b) of the Natural Gas Act, effective on the first day of the first month beginning after November 9, 1978, the provisions of the Natural Gas Act and the jurisdiction of the Commission under such Act shall not apply to natural gas which was not committed or dedicated to interstate commerce as of November 8, 1978, solely by reason of any first sale of such natural gas.”
+<b>1989</b>—Subsec. (a)(1)(A). Pub. L. 101–60, §3(b)(7)(A), in heading substituted “Application to first sales” for “Natural gas not committed or dedicated” and amended text generally. Prior to amendment, text read as follows: “For purposes of section 1(b) of the Natural Gas Act, effective on the first day of the first month beginning after November 9, 1978, the provisions of the Natural Gas Act and the jurisdiction of the Commission under such Act shall not apply to natural gas which was not committed or dedicated to interstate commerce as of November 8, 1978, solely by reason of any first sale of such natural gas.”
 
 Subsec. (a)(1)(B). Pub. L. 101–60, §3(b)(7)(B), (C), redesignated subpar. (C) as (B) and struck out former subpar. (B) which related to committed or dedicated natural gas which was high-cost natural gas, new natural gas, or natural gas produced from any new, onshore production well.
 

@@ -14,5 +14,5 @@ To be eligible for the office of Delegate a candidate shall—
 
 #### Amendments
 
-1978—Subsec. (b). Pub. L. 95–584 substituted allegiance requirement for provision requiring United States citizenship for at least seven years prior to the date of the election.
+<b>1978</b>—Subsec. (b). Pub. L. 95–584 substituted allegiance requirement for provision requiring United States citizenship for at least seven years prior to the date of the election.
 

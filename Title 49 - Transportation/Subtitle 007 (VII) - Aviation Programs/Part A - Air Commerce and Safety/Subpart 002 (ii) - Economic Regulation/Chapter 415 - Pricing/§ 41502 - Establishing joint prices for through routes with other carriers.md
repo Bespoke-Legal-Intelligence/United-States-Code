@@ -62,9 +62,9 @@ This amends the catchline for 49:41502 to make a technical and conforming amendm
 
 #### Amendments
 
-1997—Pub. L. 105–102 struck out “common” before “carriers” in section catchline.
+<b>1997</b>—Pub. L. 105–102 struck out “common” before “carriers” in section catchline.
 
-1995—Pub. L. 104–88 substituted “another carrier” for “another common carrier” in subsec. (a) and “a carrier” for “a common carrier” in subsecs. (a), (b), and (c).
+<b>1995</b>—Pub. L. 104–88 substituted “another carrier” for “another common carrier” in subsec. (a) and “a carrier” for “a common carrier” in subsecs. (a), (b), and (c).
 
 #### Effective Date of 1995 Amendment
 

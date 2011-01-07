@@ -119,13 +119,31 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part F—National Fund for Excellence in American Indian Education
+#### Part F—Transferred
+
+|  |
+| :--- |
+| 458bbb to 458bbb–2. Transferred. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part G—Indian Law Enforcement Foundation
 
 |  |  |
 | :--- | ---: |
-| [458bbb.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20F%20-%20National%20Fund%20for%20Excellence%20in%20American%20Indian%20Education/%C2%A7%2000458bbb%20-%20National%20Fund%20for%20Excellence%20in%20American%20Indian%20Education.md) | National Fund for Excellence in American Indian Education. |
-| 458bbb–1. | Administrative services and support. |
-| 458bbb–2. | Definitions. |
+| [458ccc.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20G%20-%20Indian%20Law%20Enforcement%20Foundation/%C2%A7%2000458ccc%20-%20Definitions.md) | Definitions. |
+| 458ccc–1. | Indian Law Enforcement Foundation. |
+| 458ccc–2. | Administrative services and support. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part H—National Fund for Excellence in American Indian Education
+
+|  |  |
+| :--- | ---: |
+| [458ddd.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20H%20-%20National%20Fund%20for%20Excellence%20in%20American%20Indian%20Education/%C2%A7%2000458ddd%20-%20National%20Fund%20for%20Excellence%20in%20American%20Indian%20Education.md) | National Fund for Excellence in American Indian Education. |
+| 458ddd–1. | Administrative services and support. |
+| 458ddd–2. | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

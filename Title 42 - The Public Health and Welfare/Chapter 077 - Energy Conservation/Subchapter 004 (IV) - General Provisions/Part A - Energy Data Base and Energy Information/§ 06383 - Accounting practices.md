@@ -44,9 +44,9 @@ The Securities and Exchange Commission shall assure that accounting practices de
 
 #### Amendments
 
-2004—Subsec. (b)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1998—Subsec. (b). Pub. L. 105–388, §5(a)(15)(A), substituted “with respect to” for “with repect to” in concluding provisions.
+<b>1998</b>—Subsec. (b). Pub. L. 105–388, §5(a)(15)(A), substituted “with respect to” for “with repect to” in concluding provisions.
 
 Subsec. (c)(1). Pub. L. 105–388, §5(a)(15)(B), substituted “, controlling,” for “controlling” in concluding provisions.
 

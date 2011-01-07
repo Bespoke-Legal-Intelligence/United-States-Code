@@ -32,7 +32,7 @@ Another prior section 2368, Pub. L. 87–195, pt. III, §618, Sept. 4, 1961, 75 
 
 #### Findings
 
-Pub. L. 110–417, \[div. A\], title XVI, §1602, Oct. 14, 2008, 122 Stat. 4653, provided that: “Congress finds the following:
+Pub. L. 110–417, \[div. A\], title XVI, §1602, Oct. 14, 2008, 122 Stat. 4653, as amended by Pub. L. 111–383, div. A, title X, §1075(e)(18), Jan. 7, 2011, 124 Stat. 4375, provided that: “Congress finds the following:
 
 &emsp;“(1) In June 2004, the Office of the Coordinator for Reconstruction and Stabilization (referred to as the ‘Coordinator’) was established in the Department of State with the mandate to lead, coordinate, and institutionalize United States Government civilian capacity to prevent or prepare for post-conflict situations and help reconstruct and stabilize a country or region that is at risk of, in, or is in transition from, conflict or civil strife.
 
@@ -42,7 +42,7 @@ Pub. L. 110–417, \[div. A\], title XVI, §1602, Oct. 14, 2008, 122 Stat. 4653,
 
 &emsp;“(4) The Department of Defense issued Directive 3000.05, which establishes that stability operations are a core United States military mission that the Department of Defense must be prepared to conduct and support, provides guidance on stability operations that will evolve over time, and assigns responsibilities within the Department of Defense for planning, training, and preparing to conduct and support stability operations.
 
-&emsp;“(5) The President's Fiscal Year 2009 Budget Request to Congress includes $248.6 million for a Civilian Stabilization Initiative that would vastly improve civilian partnership with United States Armed Forces in post-conflict stabilization situations, including by establishing a \[sic\] Active Response Corps of 250 persons, a Standby Response Corps of 2,000 persons, and a Civilian Response Corps of 2,000 persons.”
+&emsp;“(5) The President's Fiscal Year 2009 Budget Request to Congress includes $248.6 million for a Civilian Stabilization Initiative that would vastly improve civilian partnership with United States Armed Forces in post-conflict stabilization situations, including by establishing an Active Response Corps of 250 persons, a Standby Response Corps of 2,000 persons, and a Civilian Response Corps of 2,000 persons.”
 
 #### Reconstruction and Stabilization Strategy
 

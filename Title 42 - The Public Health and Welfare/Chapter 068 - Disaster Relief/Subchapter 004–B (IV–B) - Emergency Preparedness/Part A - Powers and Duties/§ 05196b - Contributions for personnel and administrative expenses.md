@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-To further assist in carrying out the purposes of this subchapter, the Director may make financial contributions to the States (including interstate emergency preparedness authorities established pursuant to section 5196(h) of this title) for necessary and essential State and local emergency preparedness personnel and administrative expenses, on the basis of approved plans (which shall be consistent with the Federal emergency response plans for emergency preparedness) for the emergency preparedness of the States. The financial contributions to the States under this section may not exceed one-half of the total cost of such necessary and essential State and local emergency preparedness personnel and administrative expenses.
+To further assist in carrying out the purposes of this subchapter, the Administrator may make financial contributions to the States (including interstate emergency preparedness authorities established pursuant to section 5196(h) of this title) for necessary and essential State and local emergency preparedness personnel and administrative expenses, on the basis of approved plans (which shall be consistent with the Federal emergency response plans for emergency preparedness) for the emergency preparedness of the States. The financial contributions to the States under this section may not exceed one-half of the total cost of such necessary and essential State and local emergency preparedness personnel and administrative expenses.
 
 #### (b) Plan requirements
 
@@ -12,13 +12,13 @@ A plan submitted under this section shall—
 
 &emsp;(2) provide that the State shall share the financial assistance with that provided by the Federal Government under this section from any source determined by it to be consistent with State law;
 
-&emsp;(3) provide for the development of State and local emergency preparedness operational plans, including a catastrophic incident annex, pursuant to standards approved by the Director;
+&emsp;(3) provide for the development of State and local emergency preparedness operational plans, including a catastrophic incident annex, pursuant to standards approved by the Administrator;
 
 &emsp;(4) provide for the employment of a full-time emergency preparedness director, or deputy director, by the State;
 
-&emsp;(5) provide that the State shall make such reports in such form and content as the Director may require;
+&emsp;(5) provide that the State shall make such reports in such form and content as the Administrator may require;
 
-&emsp;(6) make available to duly authorized representatives of the Director and the Comptroller General, books, records, and papers necessary to conduct audits for the purposes of this section; and
+&emsp;(6) make available to duly authorized representatives of the Administrator and the Comptroller General, books, records, and papers necessary to conduct audits for the purposes of this section; and
 
 &emsp;(7) include a plan for providing information to the public in a coordinated manner.
 
@@ -38,7 +38,7 @@ A plan submitted under this section shall—
 
 #### (d) Terms and conditions
 
-The Director shall establish such other terms and conditions as the Director considers necessary and proper to carry out this section.
+The Administrator shall establish such other terms and conditions as the Administrator considers necessary and proper to carry out this section.
 
 #### (e) Application of other provisions
 
@@ -46,21 +46,21 @@ In carrying out this section, the provisions of section <sup>1</sup> 5196(h) an
 
 #### (f) Allocation of funds
 
-For each fiscal year concerned, the Director shall allocate to each State, in accordance with regulations and the total sum appropriated under this subchapter, amounts to be made available to the States for the purposes of this section. Regulations governing allocations to the States under this subsection shall give due regard to (1) the criticality of the areas which may be affected by hazards with respect to the development of the total emergency preparedness readiness of the United States, (2) the relative state of development of emergency preparedness readiness of the State, (3) population, and (4) such other factors as the Director shall prescribe. The Director may reallocate the excess of any allocation not used by a State in a plan submitted under this section. Amounts paid to any State or political subdivision under this section shall be expended solely for the purposes set forth in this section.
+For each fiscal year concerned, the Administrator shall allocate to each State, in accordance with regulations and the total sum appropriated under this subchapter, amounts to be made available to the States for the purposes ofthis section. Regulations governing allocations to the States under this subsection shall give due regard to (1) the criticality of the areas which may be affected by hazards with respect to the development of the total emergency preparedness readiness of the United States, (2) the relative state of development of emergency preparedness readiness of the State, (3) population, and (4) such other factors as the Administrator shall prescribe. The Administrator may reallocate the excess of any allocation not used by a State in a plan submitted under this section. Amounts paid to any State or political subdivision under this section shall be expended solely for the purposes set forth in this section.
 
 #### (g) Standards for State and local emergency preparedness operational plans
 
-In approving standards for State and local emergency preparedness operational plans pursuant to subsection (b)(3), the Director shall ensure that such plans take into account the needs of individuals with household pets and service animals prior to, during, and following a major disaster or emergency.
+In approving standards for State and local emergency preparedness operational plans pursuant to subsection (b)(3), the Administrator shall ensure that such plans take into account the needs of individuals with household pets and service animals prior to, during, and following a major disaster or emergency.
 
 #### (h) <sup>2</sup> Submission of plan
 
-If a State fails to submit a plan for approval as required by this section within 60 days after the Director notifies the States of the allocations under this section, the Director may reallocate such funds, or portions thereof, among the other States in such amounts as, in the judgment of the Director, will best assure the adequate development of the emergency preparedness capability of the United States.
+If a State fails to submit a plan for approval as required by this section within 60 days after the Administrator notifies the States of the allocations under this section, the Administrator may reallocate such funds, or portions thereof, among the other States in such amounts as, in the judgment of the Administrator, will best assure the adequate development of the emergency preparedness capability of the United States.
 
 #### (h) <sup>2</sup> Annual reports
 
-The Director shall report annually to the Congress all contributions made pursuant to this section.
+The Administrator shall report annually to the Congress all contributions made pursuant to this section.
 
-(Pub. L. 93–288, title VI, §613, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3106; amended Pub. L. 107–188, title I, §151, June 12, 2002, 116 Stat. 630; Pub. L. 109–295, title VI, §631, Oct. 4, 2006, 120 Stat. 1420; Pub. L. 109–308, §2, Oct. 6, 2006, 120 Stat. 1725.)
+(Pub. L. 93–288, title VI, §613, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3106; amended Pub. L. 107–188, title I, §151, June 12, 2002, 116 Stat. 630; Pub. L. 109–295, title VI, §631, Oct. 4, 2006, 120 Stat. 1420; Pub. L. 109–308, §2, Oct. 6, 2006, 120 Stat. 1725; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
 
 #### Codification
 
@@ -72,7 +72,9 @@ Provisions similar to those in this section were contained in section 2286 of Ti
 
 #### Amendments
 
-2006—Subsec. (b)(3). Pub. L. 109–295, §631(1), inserted “including a catastrophic incident annex,” after “plans,”.
+<b>2011</b>—Pub. L. 111–351 substituted “Administrator” for “Director” wherever appearing.
+
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–295, §631(1), inserted “including a catastrophic incident annex,” after “plans,”.
 
 Subsecs. (c) to (f). Pub. L. 109–295, §631(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g). See Codification note above.
 
@@ -84,7 +86,7 @@ Subsec. (h). Pub. L. 109–308, §2(1), redesignated subsec. (g) relating to sub
 
 Pub. L. 109–295, §631(2), redesignated subsec. (g) relating to annual reports as (h). See Codification note above.
 
-2002—Subsec. (b)(7). Pub. L. 107–188 added par. (7).
+<b>2002</b>—Subsec. (b)(7). Pub. L. 107–188 added par. (7).
 
 #### Transfer of Functions
 

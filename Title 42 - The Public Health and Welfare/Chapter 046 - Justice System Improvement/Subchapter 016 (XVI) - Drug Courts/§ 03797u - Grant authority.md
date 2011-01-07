@@ -76,7 +76,7 @@ Economic sanctions imposed on an offender pursuant to this section shall not be 
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–162 substituted “offenders, and other individuals under the jurisdiction of the court, with substance abuse problems” for “offenders with substance abuse problems”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–162 substituted “offenders, and other individuals under the jurisdiction of the court, with substance abuse problems” for “offenders with substance abuse problems”.
 
 Subsec. (c). Pub. L. 109–177 added subsec. (c).
 

@@ -30,7 +30,7 @@ Training provided pursuant to grants made under this part may include current in
 
 &emsp;(14) historical evolution of laws and attitudes on domestic violence;
 
-&emsp;(15) proper and improper interpretations of the defenses of self-defense and provocation, and the use of expert witness testimony on battered woman syndrome;
+&emsp;(15) proper and improper interpretations of the defenses of self-defense and provocation,and the use of expert witness testimony on battered woman syndrome;
 
 &emsp;(16) the likelihood of retaliation, recidivism, and escalation of violence by batterers, and the potential impact of incarceration and other meaningful sanctions for acts of domestic violence including violations of orders of protection;
 
@@ -54,7 +54,7 @@ Section 3796gg–2 of this title, referred to in par. (10), was subsequently rep
 
 #### Amendments
 
-2000—Par. (10). Pub. L. 106–386, §1406(d)(2)(A), inserted “and dating violence (as defined in section 3796gg–2 of this title)” before the semicolon.
+<b>2000</b>—Par. (10). Pub. L. 106–386, §1406(d)(2)(A), inserted “and dating violence (as defined in section 3796gg–2 of this title)” before the semicolon.
 
 Par. (11). Pub. L. 106–386, §1406(d)(2)(B), inserted “and dating violence” after “domestic violence”.
 

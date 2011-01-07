@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;If any individual makes an indirect skip during such individual's lifetime, any unused portion of such individual's GST exemption shall be allocated to the property transferred to the extent necessary to make the inclusion ratio for such property zero. If the amount of the indirect skip exceeds such unused portion, the entire unused portion shall be allocated to the property transferred.
+&emsp;If any individual makes an indirect skip during such individual's lifetime, any unused portion of such individual's GST exemption shall be allocated to the property transferred to theextent necessary to make the inclusion ratio for such property zero. If the amount of the indirect skip exceeds such unused portion, the entire unused portion shall be allocated to the property transferred.
 
 #### (2) Unused portion
 
@@ -144,7 +144,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The allocation under paragraph (1) shall be made among the properties described in subparagraph (A) thereof and the trusts described in subparagraph (B) thereof, as the case may be, in proportion to the respectiveamounts (at the time of allocation) of the nonexempt portions of such properties or trusts.
+&emsp;&emsp;The allocation under paragraph (1) shall be made among the properties described in subparagraph (A) thereof and the trusts described in subparagraph (B) thereof, as the case may be, in proportion to the respective amounts (at the time of allocation) of the nonexempt portions of such properties or trusts.
 
 #### (B) Nonexempt portion
 
@@ -158,11 +158,11 @@
 
 #### Amendments
 
-2001—Subsec. (b)(2). Pub. L. 107–16, §§561(b), 901, temporarily substituted “or subsection (c)(1)” for “with respect to a prior direct skip”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (b)(2). Pub. L. 107–16, §§561(b), 901, temporarily substituted “or subsection (c)(1)” for “with respect to a prior direct skip”. See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsecs. (c) to (e). Pub. L. 107–16, §§561(a), 901, temporarily added subsecs. (c) and (d) and redesignated former subsec. (c) as (e). See Effective and Termination Dates of 2001 Amendment note below.
 
-1988—Subsec. (b)(2). Pub. L. 100–647 substituted “paragraph (1) with respect to a prior direct skip)” for “paragraph (1)) with respect to a prior direct skip”.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–647 substituted “paragraph (1) with respect to a prior direct skip)” for “paragraph (1)) with respect to a prior direct skip”.
 
 #### Effective and Termination Dates of 2001 Amendment
 
@@ -176,7 +176,7 @@ Deemed allocation.—Section 2632(c) of the Internal Revenue Code of 1986 (as ad
 
 Retroactive allocations.—Section 2632(d) of the Internal Revenue Code of 1986 (as added by subsection (a)) shall apply to deaths of non-skip persons occurring after December 31, 2000.”
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

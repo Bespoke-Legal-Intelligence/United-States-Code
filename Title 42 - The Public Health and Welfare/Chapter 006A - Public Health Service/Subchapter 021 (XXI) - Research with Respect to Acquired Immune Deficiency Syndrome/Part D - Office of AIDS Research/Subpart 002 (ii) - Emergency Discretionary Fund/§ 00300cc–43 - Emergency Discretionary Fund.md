@@ -74,7 +74,7 @@ For purposes of this section:
 
 #### Amendments
 
-2007—Subsecs. (e) to (g). Pub. L. 109–482 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out heading and text of former subsec. (e). Text read as follows: “Not later than February 1 of each fiscal year, the Director of the Office shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report on the identified sets of AIDS activities carried out during the preceding fiscal year with amounts in the Fund. The report shall provide a description of each such set of activities and an explanation of the reasons underlying the use of the Fund for the set.”
+<b>2007</b>—Subsecs. (e) to (g). Pub. L. 109–482 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out heading and text of former subsec. (e). Text read as follows: “Not later than February 1 of each fiscal year, the Director of the Office shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report on the identified sets of AIDS activities carried out during the preceding fiscal year with amounts in the Fund. The report shall provide a description of each such set of activities and an explanation of the reasons underlying the use of the Fund for the set.”
 
 #### Effective Date of 2007 Amendment
 

@@ -48,7 +48,7 @@
 
 #### Amendments
 
-1996—Pub. L. 104–106, §1040(d)(1), inserted “: reprisals” after “instrumentalities” in section catchline.
+<b>1996</b>—Pub. L. 104–106, §1040(d)(1), inserted “: reprisals” after “instrumentalities” in section catchline.
 
 Subsec. (a)(1). Pub. L. 104–106, §1040(c), substituted “Navy Exchange Service Command” for “Navy Resale and Services Support Office”.
 
@@ -58,7 +58,7 @@ Subsec. (d). Pub. L. 104–106, §903(a), (f)(3), which directed amendment of su
 
 Subsec. (e). Pub. L. 104–106, §1040(b), inserted before period at end of second sentence “and to permit the reporting of alleged violations of subsection (b) directly to the Inspector General of the Department of Defense”.
 
-1987—Subsec. (a). Pub. L. 100–26 inserted “The term” after each par. designation and struck out uppercase letter of first word after first quotation marks in each par. and substituted lowercase letter.
+<b>1987</b>—Subsec. (a). Pub. L. 100–26 inserted “The term” after each par. designation and struck out uppercase letter of first word after first quotation marks in each par. and substituted lowercase letter.
 
 #### Effective Date
 

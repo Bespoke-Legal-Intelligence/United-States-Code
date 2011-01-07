@@ -196,7 +196,7 @@ For purposes of this section—
 
 #### (ii) Plans in critical status
 
-&emsp;&emsp;&emsp;If the plan's actuary certifies under subsection (b)(3)(A) for a plan year in any funding plan adoption period or funding improvement period that the plan is in critical status, the funding plan adoption period or funding improvement period, whichever is applicable, shall end as of the close of the plan year preceding the firstplan year in the rehabilitation period with respect to such status.
+&emsp;&emsp;&emsp;If the plan's actuary certifies under subsection (b)(3)(A) for a plan year in any funding plan adoption period or funding improvement period that the plan is in critical status, the funding plan adoption period or funding improvement period, whichever is applicable, shall end as of the close of the plan year preceding the first plan year in the rehabilitation period with respect to such status.
 
 #### (D) Plans in endangered status at end of period
 
@@ -268,7 +268,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) any new direct or indirect exclusion of younger or newly hired employees from plan participation,
 
-&emsp;&emsp;(B) no amendment of the plan which increases the liabilities of the plan by reason of any increase in benefits, any change inthe accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan may be adopted unless the amendment is required as a condition of qualification under part I of subchapter D of chapter 1 of title 26 or to comply with other applicable law, and
+&emsp;&emsp;(B) no amendment of the plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan may be adopted unless theamendment is required as a condition of qualification under part I of subchapter D of chapter 1 of title 26 or to comply with other applicable law, and
 
 &emsp;&emsp;(C) in the case of a plan in seriously endangered status, the plan sponsor shall take all reasonable actions which are consistent with the terms of the plan and applicable law and which are expected, based on reasonable assumptions, to achieve—
 
@@ -396,7 +396,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) if lower, the accrual rate under the plan on such first day.
 
-> &emsp;The equivalent standard accrual rate shall be determined by the plan sponsor based on the standard or average contribution base units which the plan sponsor determines to be representative for active participants and suchother factors as the plan sponsor determines to be relevant. Nothing in this paragraph shall be construed as limiting the ability of the plan sponsor to prepare and provide the bargaining parties with alternative schedules to the default schedule that establish lower or higher accrual and contribution rates than the rates otherwise described in this paragraph.
+> &emsp;The equivalent standard accrual rate shall be determined by the plan sponsor based on the standard or average contribution base units which the plan sponsor determines to be representative for active participants and such other factors as the plan sponsor determines to be relevant. Nothing in this paragraph shallbe construed as limiting the ability of the plan sponsor to prepare and provide the bargaining parties with alternative schedules to the default schedule that establish lower or higher accrual and contribution rates than the rates otherwise described in this paragraph.
 
 #### (7) Automatic employer surcharge
 
@@ -630,7 +630,7 @@ A prior section 1085, Pub. L. 93–406, title I, §305, Sept. 2, 1974, 88 Stat. 
 
 #### Amendments
 
-2008—Subsec. (b)(3)(C). Pub. L. 110–458, §102(b)(1)(B), substituted “section 1021(b)(1)” for “section 1021(b)(4)”.
+<b>2008</b>—Subsec. (b)(3)(C). Pub. L. 110–458, §102(b)(1)(B), substituted “section 1021(b)(1)” for “section 1021(b)(4)”.
 
 Subsec. (b)(3)(D)(iii). Pub. L. 110–458, §102(b)(1)(C), substituted “The Secretary of the Treasury, in consultation with the Secretary” for “The Secretary”.
 

@@ -22,7 +22,7 @@ Section was formerly classified to section 41 of Title 8, Aliens and Nationality
 
 #### Amendments
 
-1991—Pub. L. 102–166 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1991</b>—Pub. L. 102–166 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 #### Effective Date of 1991 Amendment
 

@@ -10,5 +10,5 @@ The cumulative total of the principal of the loans outstanding at any time with 
 
 #### Amendments
 
-1973—Pub. L. 93–45 provided for a limitation of $1,500,000,000 on amount of loans outstanding in the case of loans covered by allotments for fiscal year ending June 30, 1974.
+<b>1973</b>—Pub. L. 93–45 provided for a limitation of $1,500,000,000 on amount of loans outstanding in the case of loans covered by allotments for fiscal year ending June 30, 1974.
 

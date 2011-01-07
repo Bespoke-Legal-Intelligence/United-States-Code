@@ -30,13 +30,13 @@ As used in this section, the term “public safety officer” means a person ser
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–12, §8(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There are hereby established two classes of honorary awards for the recognition of outstanding and distinguished service by public safety officers—
+<b>2001</b>—Subsec. (a). Pub. L. 107–12, §8(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There are hereby established two classes of honorary awards for the recognition of outstanding and distinguished service by public safety officers—
 
 &emsp;“(1) the President's Award For Outstanding Public Safety Service (‘President's Award’); and
 
 &emsp;“(2) the Director's Award For Distinguished Public Safety Service (‘Director's Award’).”
 
-Subsec. (b). Pub. L. 107–12, §8(2), struck out pars. (1) and (2) designations and text of par. (1) which read as follows: “The President's Award shall be presented by the President of the United States to public safety officers for extraordinary valor in the line of duty or for outstanding contribution to public safety.”
+Subsec. (b). Pub. L. 107–12, §8(2), struck out pars. (1) and (2) designations and text of par. (1) which read asfollows: “The President's Award shall be presented by the President of the United States to public safety officers for extraordinary valor in the line of duty or for outstanding contribution to public safety.”
 
 Subsec. (c). Pub. L. 107–12, §8(3), (4), redesignated subsec. (e) as (c) and struck out pars. (1) and (2) designations and text of par. (1), which read as follows: “Each President's Award shall consist of—
 
@@ -56,7 +56,7 @@ Subsec. (d). Pub. L. 107–12, §8(3), redesignated subsec. (f) as (d) and struc
 
 Subsecs. (e) to (g). Pub. L. 107–12, §8(3), redesignated subsecs. (e) to (g) as (c) to (e), respectively.
 
-2000—Subsec. (a)(2). Pub. L. 106–503, §110(a)(2)(C), substituted “Director's” for “Secretary's” in two places.
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–503, §110(a)(2)(C), substituted “Director's” for “Secretary's” in two places.
 
 Subsec. (b)(2). Pub. L. 106–503, §110(a)(2)(B)(iv), (C), substituted “Director's” for “Secretary's” and “Director” for “Secretary”.
 
@@ -70,7 +70,7 @@ Subsec. (e)(2). Pub. L. 106–503, §110(a)(2)(C), substituted “Director's” 
 
 Subsec. (f). Pub. L. 106–503, §110(a)(2)(B)(iv), substituted “Director” for “Secretary”.
 
-1984—Subsecs. (b)(2), (c), (e)(1)(A), (f). Pub. L. 98–241 struck out “, the Secretary of Defense,” after “Secretary” wherever appearing.
+<b>1984</b>—Subsecs. (b)(2), (c), (e)(1)(A), (f). Pub. L. 98–241 struck out “, the Secretary of Defense,” after “Secretary” wherever appearing.
 
 #### Transfer of Functions
 

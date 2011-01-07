@@ -15,7 +15,7 @@
 
 #### Amendments
 
-2006—Pub. L. 109–364, div. A, title X, §1071(a)(35), Oct. 17, 2006, 120 Stat. 2400, substituted “Civilian member:” for “Civilian member;” in item 7081.
+<b>2006</b>—Pub. L. 109–364, div. A, title X, §1071(a)(35), Oct. 17, 2006, 120 Stat. 2400, substituted “Civilian member:” for “Civilian member;” in item 7081.
 
 
 ---

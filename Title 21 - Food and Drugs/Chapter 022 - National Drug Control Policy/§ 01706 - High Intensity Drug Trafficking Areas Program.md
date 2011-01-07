@@ -134,7 +134,7 @@ As part of the documentation that supports the President's annual budget request
 
 #### (1) Initial report
 
-&emsp;Not later than 90 days after December 29, 2006, the Director shall, after consulting withthe Executive Boards of each designated high intensity drug trafficking area, submit a report to Congress that describes, for each designated high intensity drug trafficking area—
+&emsp;Not later than 90 days after December 29, 2006, the Director shall, after consulting with the Executive Boards of each designated high intensity drug trafficking area, submit a report to Congress that describes, for each designated high intensity drug trafficking area—
 
 &emsp;&emsp;(A) the specific purposes for the high intensity drug trafficking area;
 
@@ -252,7 +252,7 @@ December 29, 2006, referred to in subsecs. (k)(1), (<i>l</i>), and (m) was in th
 
 #### Amendments
 
-2006—Pub. L. 109–469, §301, amended section generally. Prior to amendment, section related to the High Intensity Drug Trafficking Areas Program.
+<b>2006</b>—Pub. L. 109–469, §301, amended section generally. Prior to amendment, section related to the High Intensity Drug Trafficking Areas Program.
 
 Subsec. (q). Pub. L. 109–469, §302(c), added subsec. (q).
 

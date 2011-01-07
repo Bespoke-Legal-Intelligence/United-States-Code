@@ -12,9 +12,9 @@ Initial certifications by the Commission under subsection (a), and all determina
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–455 substituted “Secretary of the Treasury” for “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 substituted “Secretary of the Treasury” for “Secretary”.
 
-1974—Pub. L. 93–443, §404(c)(6), substituted “Commission” for “Comptroller General” in section catchline.
+<b>1974</b>—Pub. L. 93–443, §404(c)(6), substituted “Commission” for “Comptroller General” in section catchline.
 
 Subsec. (a). Pub. L. 93–443, §405(a), substituted provision for certification by the Commission not later than 10 days after the candidates of a political party for President and Vice President have met all applicable conditions for eligibility to receive payments under this chapter set forth in section 9003 of this title for prior provision for certification by the Comptroller General on the basis of the evidence, books, records, and information furnished by the eligible candidates of a political party and prior to examination and audit under section 9007 of this title.
 

@@ -30,7 +30,7 @@ For the purpose of this section, the term—
 
 &emsp;&emsp;(A) means a discharge, including—
 
-&emsp;&emsp;&emsp;(i) graywater, bilge water, cooling water, weather deck runoff, ballast water, oil water separator effluent, and any other pollutant discharge from the operation of a marine propulsion system, shipboard maneuvering system, crew habitability system, or installed major equipment, such as an aircraft carrier elevator or a catapult, or from a protective, preservative, or absorptive application to the hull of the vessel; and
+&emsp;&emsp;&emsp;(i) graywater, bilge water, cooling water, weather deck runoff, ballast water, oil water separator effluent, and any other pollutant discharge from the operation of a marine propulsion system, shipboard maneuvering system, crew habitability system, or installed major equipment, such as an aircraft carrier elevator or a catapult,or from a protective, preservative, or absorptive application to the hull of the vessel; and
 
 &emsp;&emsp;&emsp;(ii) a discharge in connection with the testing, maintenance, and repair of a system described in clause (i) whenever the vessel is waterborne; and
 
@@ -70,11 +70,11 @@ For the purpose of this section, the term—
 
 #### (d) Vessels owned and operated by the United States
 
-The provisions of this section and the standards and regulations promulgated hereunder apply to vessels owned and operated by the United States unless the Secretary of Defense finds that compliance would not be in the interest of national security. With respect to vessels owned and operated by the Department of Defense, regulations under the last sentence of subsection (b)(1) of this section and certifications under subsection (g)(2) of this sectionshall be promulgated and issued by the Secretary of Defense.
+The provisions of this section and the standards and regulations promulgated hereunder apply to vessels owned and operated by the United States unless the Secretary of Defense finds that compliance would not be in the interest of national security. With respect to vessels owned and operated by the Department of Defense, regulations under the last sentence of subsection (b)(1) of this section and certifications under subsection (g)(2) of this section shall be promulgated and issued by the Secretary of Defense.
 
 #### (e) Pre-promulgation consultation
 
-Before the standards and regulations under this section are promulgated, the Administrator and the Secretary of the department in which the Coast Guard is operating shall consult with the Secretary of State; the Secretary of Health and Human Services; the Secretary of Defense; the Secretary of the Treasury; the Secretary of Commerce; other interested Federal agencies; and the States and industries interested; and otherwise comply with the requirements of section 553 of title 5.
+Before the standards and regulations under this section are promulgated, the Administrator and the Secretary of the department in which the Coast Guard is operating shall consult with the Secretary of State; the Secretary of Health and Human Services; the Secretary of Defense; the Secretary of the Treasury; the Secretary ofCommerce; other interested Federal agencies; and the States and industries interested; and otherwise comply with the requirements of section 553 of title 5.
 
 #### (f) Regulation by States or political subdivisions thereof; complete prohibition upon discharge of sewage
 
@@ -140,7 +140,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (A) In general
 
-&emsp;&emsp;The Administrator and the Secretary of Defense, after consultation with the Secretary of the department in which the Coast Guard is operating, the Secretary of Commerce, and interested States, shall jointly determine the discharges incidental to the normal operation of a vessel of the Armed Forces for which it is reasonable and practicable to require use of a marine pollution control device to mitigate adverse impacts on the marine environment. Notwithstanding subsection (a)(1) of section 553 of title 5, the Administrator and the Secretary of Defense shall promulgate the determinations in accordance with such section. The Secretary of Defense shall require the use of a marine pollution control device on board avessel of the Armed Forces in any case in which it is determined that the use of such a device is reasonable and practicable.
+&emsp;&emsp;The Administrator and the Secretary of Defense, after consultation with the Secretary of the department in which the Coast Guard is operating, the Secretary of Commerce, and interested States, shall jointly determine the discharges incidental to the normal operation of a vessel of the Armed Forces for which it is reasonable and practicable to require use of a marine pollution control device to mitigate adverse impacts on the marine environment. Notwithstanding subsection (a)(1) of section 553 of title 5, the Administrator and the Secretary of Defense shall promulgate the determinations in accordance with such section. The Secretary of Defense shall require the use of a marine pollution control device on board a vessel of the Armed Forces in any case in which it is determined that the use of such a device is reasonable and practicable.
 
 #### (B) Considerations
 
@@ -224,7 +224,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;Beginning on the effective date of—
 
-&emsp;&emsp;&emsp;(i) a determination under paragraph (2) that it is not reasonable and practicable to require use of a marine pollution controldevice regarding a particular discharge incidental to the normal operation of a vessel of the Armed Forces; or
+&emsp;&emsp;&emsp;(i) a determination under paragraph (2) that it is not reasonable and practicable to require use of a marine pollution control device regarding a particular discharge incidental to the normal operation of a vessel of the Armed Forces; or
 
 &emsp;&emsp;&emsp;(ii) regulations promulgated by the Secretary of Defense under paragraph (4);
 
@@ -398,11 +398,11 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (5) Effect of other laws
 
-&emsp;This subsection shall not affect the application of section 1321 of this title to dischargesincidental to the normal operation of a recreational vessel.
+&emsp;This subsection shall not affect the application of section 1321 of this title to discharges incidental to the normal operation of a recreational vessel.
 
 #### (6) Prohibition relating to recreational vessels
 
-&emsp;After the effective date of the regulations promulgated by the Secretary of the department in which the Coast Guard is operating under paragraph (4), the owner or operator of a recreational vessel shall neither operate in nor discharge any discharge incidental to the normal operation of the vessel into, the waters of the United States or the waters of the contiguous zone, if the owner or operator of the vessel is not using any applicable management practice meeting standards established under this subsection.
+&emsp;After the effective date of the regulations promulgated by the Secretary of the department in which the Coast Guard is operating under paragraph (4), the owner or operator of a recreational vessel shall neither operate in nor discharge any discharge incidental to the normal operation of the vessel into, the watersof the United States or the waters of the contiguous zone, if the owner or operator of the vessel is not using any applicable management practice meeting standards established under this subsection.
 
 (June 30, 1948, ch. 758, title III, §312, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 871; amended Pub. L. 95–217, §59, Dec. 27, 1977, 91 Stat. 1596; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–4, title III, §311, Feb. 4, 1987, 101 Stat. 42; Pub. L. 104–106, div. A, title III, §325(b)–(c)(2), Feb. 10, 1996, 110 Stat. 254–259; Pub. L. 110–288, §4, July 29, 2008, 122 Stat. 2650.)
 
@@ -412,9 +412,9 @@ For definition of Canal Zone, referred to in subsecs. (a)(4) and (m), see sectio
 
 #### Amendments
 
-2008—Subsec. (<i>o</i>). Pub. L. 110–288 added subsec. (<i>o</i>).
+<b>2008</b>—Subsec. (<i>o</i>). Pub. L. 110–288 added subsec. (<i>o</i>).
 
-1996—Subsec. (a)(8). Pub. L. 104–106, §325(c)(1)(A), substituted “corporation, association, or agency of the United States,” for “corporation, or association,”.
+<b>1996</b>—Subsec. (a)(8). Pub. L. 104–106, §325(c)(1)(A), substituted “corporation, association, or agency of the United States,” for “corporation, or association,”.
 
 Subsec. (a)(12) to (14). Pub. L. 104–106, §325(c)(1)(B), (C), added pars. (12) to (14).
 
@@ -422,11 +422,11 @@ Subsec. (j). Pub. L. 104–106, §325(c)(2), substituted “subsection (g)(1) of
 
 Subsec. (n). Pub. L. 104–106, §325(b), added subsec. (n).
 
-1987—Subsec. (f)(1). Pub. L. 100–4, §311(a), designated existing provision as subpar. (A), substituted “Except as provided in subparagraph (B), after” for “After”, and added subpar. (B).
+<b>1987</b>—Subsec. (f)(1). Pub. L. 100–4, §311(a), designated existing provision as subpar. (A), substituted “Except as provided in subparagraph (B), after” for “After”, and added subpar. (B).
 
 Subsec. (k). Pub. L. 100–4, §311(b), inserted at end “The provisions of this section may also be enforced by a State.”
 
-1977—Subsec. (a)(6). Pub. L. 95–217, §59(a), inserted “except that, with respect to commercial vessels on the Great Lakes, such term shall include graywater” after “receive or retain body wastes”.
+<b>1977</b>—Subsec. (a)(6). Pub. L. 95–217, §59(a), inserted “except that, with respect to commercial vessels on the Great Lakes, such term shall include graywater” after “receive or retain body wastes”.
 
 Subsec. (a)(10), (11). Pub. L. 95–217, §59(b), added pars. (10) and (11).
 
@@ -492,7 +492,7 @@ Findings.—The Congress finds the following:
 
 &emsp;“(1) The discharge of untreated sewage by vessels is prohibited under Federal law in all areas within the navigable waters of the United States.
 
-&emsp;“(2) The discharge of treated sewage by vessels is prohibited under either Federal or State law in manyof the United States bodies of water where recreational boaters operate.
+&emsp;“(2) The discharge of treated sewage by vessels is prohibited under either Federal or State law in many of the United States bodies of water where recreational boaters operate.
 
 &emsp;“(3) There is currently an inadequate number of pumpout stations for type III marine sanitation devices where recreational vessels normally operate.
 
@@ -612,7 +612,7 @@ Disclaimer.—Nothing in this subtitle shall be interpreted to preclude a State 
 
 Issuance of Guidance.—Not later than 3 months after the date of the enactment of this subtitle \[Nov. 4, 1992\], the Secretary of the Interior shall, after consulting with the Administrator of the Environmental Protection Agency, the Under Secretary of Commerce for Oceans and Atmosphere, and the Commandant of the Coast Guard, issue for public comment pumpout station and waste reception facility guidance. The Secretary of the Interior shall finalize the guidance not later than 6 months after the date of enactment of this subtitle. The guidance shall include—
 
-&emsp;“(1) guidance regarding the types of pumpout stations and waste reception facilities that may be appropriate for construction, renovation, operation, or maintenance with amounts available under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 etseq.\]), as amended by this subtitle, and appropriate location of the stations and facilities within a marina or boatyard;
+&emsp;“(1) guidance regarding the types of pumpout stations and waste reception facilities that may be appropriate for construction, renovation, operation, or maintenance with amounts available under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 et seq.\]), as amended by this subtitle, and appropriate location of the stations and facilities within a marina or boatyard;
 
 &emsp;“(2) guidance defining what constitutes adequate and reasonably available pumpout stations and waste reception facilities in boating areas;
 
@@ -622,7 +622,7 @@ Issuance of Guidance.—Not later than 3 months after the date of the enactment 
 
 &emsp;“(5) guidance on the waters most likely to be affected by the discharge of sewage from vessels; and
 
-&emsp;“(6) other information that is considered necessary to promote the establishment of pumpout facilities to reduce sewage discharges from vessels and to protect United States waters.
+&emsp;“(6) other information that is considered necessary to promote the establishment of pumpout facilitiesto reduce sewage discharges from vessels and to protect United States waters.
 
 “(b)
 

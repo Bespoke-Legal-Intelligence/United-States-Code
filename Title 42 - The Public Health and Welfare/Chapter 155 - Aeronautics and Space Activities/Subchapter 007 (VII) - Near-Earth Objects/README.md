@@ -1,14 +1,10 @@
 ### SUBCHAPTER VII—NEAR-EARTH OBJECTS
 
-<i><sup>1</sup></i><i> So in original. Probably should be “are”.</i>
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 17791 - Reaffirmation of policy](%C2%A7%2017791%20-%20Reaffirmation%20of%20policy.md)
-- [&sect; 17792 - Findings](%C2%A7%2017792%20-%20Findings.md)
-- [&sect; 17793 - Requests for information](%C2%A7%2017793%20-%20Requests%20for%20information.md)
-- [&sect; 17794 - Establishment of policy with respect to threats posed by near-Earth objects](%C2%A7%2017794%20-%20Establishment%20of%20policy%20with%20respect%20to%20threats%20posed%20by%20near-Earth%20objects.md)
-- [&sect; 17795 - Planetary radar capability](%C2%A7%2017795%20-%20Planetary%20radar%20capability.md)
+- [&sect; 17791 - Repealed or Omitted](%C2%A7%2017791%20-%20Repealed%20or%20Omitted.md)
+- [&sect; 17792 - Transferred](%C2%A7%2017792%20-%20Transferred.md)
+- [&sect; 17793 to 17795 - Repealed. Pub. L. 111&#8211;314, &sect;6, Dec. 18, 2010, 124 Stat. 3444](%C2%A7%2017793%20to%2017795%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93314%2C%20%C2%A76%2C%20Dec.%2018%2C%202010%2C%20124%20Stat.%203444.md)

@@ -10,5 +10,5 @@ Based on 44 U.S. Code, 1964 ed., §275b (Mar. 2, 1931, ch. 378, §1, 46 Stat. 14
 
 #### Amendments
 
-1998—Pub. L. 105–225 struck out “the United Spanish War Veterans,” before “the Veterans of Foreign Wars of the United States”.
+<b>1998</b>—Pub. L. 105–225 struck out “the United Spanish War Veterans,” before “the Veterans of Foreign Wars of the United States”.
 

@@ -12,7 +12,7 @@ A prior section 4 of act May 17, 1954, was renumbered section 11 and is set out 
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–355 substituted “There is hereby designated” for “The Secretary of the Interior is further authorized to designate”, “approximately” for “not more than”, and “366–80013, dated January 1992,” for “MWR–366/80,004, and dated February 9, 1984,”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–355 substituted “There is hereby designated” for “The Secretary of the Interior is further authorized to designate”, “approximately” for “not more than”, and “366–80013, dated January 1992,” for “MWR–366/80,004, and dated February 9, 1984,”.
 
 #### Compliance With Congressional Budget Act
 

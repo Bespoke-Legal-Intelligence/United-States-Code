@@ -14,7 +14,7 @@ As used in this subchapter, the term—
 
 #### Amendments
 
-1977—Par. (2). Pub. L. 95–28, §102(a), inserted reference to Trust Territory of the Pacific Islands.
+<b>1977</b>—Par. (2). Pub. L. 95–28, §102(a), inserted reference to Trust Territory of the Pacific Islands.
 
 Par. (4). Pub. L. 95–28, §102(b), added par. (4).
 

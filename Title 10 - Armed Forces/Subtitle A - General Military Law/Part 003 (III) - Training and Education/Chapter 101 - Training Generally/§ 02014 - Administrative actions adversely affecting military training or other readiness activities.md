@@ -16,7 +16,7 @@ Consultation Between Secretary and Head of Executive Agency.—Upon notification
 
 &emsp;(1) respond promptly to the Secretary; and
 
-&emsp;(2) consistent with the urgency of the training or readiness activity involved and the provisions of law under which the administrative action or proposed administrative action is being taken, seek to reach an agreement with the Secretary on immediate actions to attainthe objective of the administrative action or proposed administrative action in a manner which eliminates or mitigates the adverse effects of the administrative action or proposed administrative action upon the training or readiness activity.
+&emsp;(2) consistent with the urgency of the training or readiness activity involved and the provisions of law under which the administrative action or proposed administrative action is being taken, seek to reach an agreement with the Secretary on immediate actions to attain the objective of the administrative action or proposed administrative action in a manner which eliminates or mitigates the adverse effects of the administrative action or proposedadministrative action upon the training or readiness activity.
 
 (d)
 
@@ -46,7 +46,7 @@ Definition.—In this section, the term “Executive agency” has the meaning g
 
 #### Amendments
 
-2004—Subsec. (g). Pub. L. 108–375 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (g). Pub. L. 108–375 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1999—Subsec. (a). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 

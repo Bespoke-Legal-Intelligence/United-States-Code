@@ -10,7 +10,7 @@ The attendance of any witness and the production of documentary evidence may be 
 
 #### (c) Enforcement of subpoena
 
-In the case of disobedience to a subpoena by any person, the Secretary concerned may request the Attorney General to invoke the aid of any court of the United States within the jurisdiction in which the investigation is conducted, or where the person resides, is found, transacts business, is licensed to do business, or is incorporated, in requiring the attendance and testimony of any witness and the production of documentary evidence. In case of a refusal to obey a subpoena issued to any person, a court may order the person to appear before the Secretary concerned and give evidence concerning the matter in question or to produce documentary evidence. Any failure to obey the court's order may be punished by the court as a contempt of the court.
+In the case of disobedience to a subpoena by any person, the Secretary concerned may request the Attorney General to invoke the aid of any court of the United States within the jurisdiction in which the investigation is conducted, or where the person resides, is found, transacts business, is licensed to do business, or is incorporated, in requiring the attendance and testimony of any witness and the production of documentary evidence. In case of a refusal to obey a subpoena issued to any person, a court may order the person to appear before the Secretaryconcerned and give evidence concerning the matter in question or to produce documentary evidence. Any failure to obey the court's order may be punished by the court as a contempt of the court.
 
 #### (d) Compensation
 
@@ -22,7 +22,7 @@ The Secretary concerned shall publish procedures for the issuance of subpoenas u
 
 #### (f) Scope of subpoena
 
-Subpoenas for witnesses to attend court in any judicial district or testify or produce evidence atan administrative hearing in any judicial district in any action or proceeding arising under section 2279e of this title may run to any other judicial district.
+Subpoenas for witnesses to attend court in any judicial district or testify or produce evidence at an administrative hearing in any judicial district in any action or proceeding arising under section 2279e of this title may run to any other judicial district.
 
 (Pub. L. 106–224, title V, §502, June 20, 2000, 114 Stat. 455; Pub. L. 107–296, title IV, §421(h)(2), Nov. 25, 2002, 116 Stat. 2184.)
 

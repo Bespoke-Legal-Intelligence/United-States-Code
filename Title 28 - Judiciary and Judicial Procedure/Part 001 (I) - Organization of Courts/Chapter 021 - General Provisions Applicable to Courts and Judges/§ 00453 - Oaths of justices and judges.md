@@ -16,7 +16,7 @@ The Attorney General has ruled that the expression “any judge of any court of 
 
 #### Amendments
 
-1990—Pub. L. 101–650 substituted “under the Constitution” for “according to the best of my abilities and understanding, agreeably to the Constitution”.
+<b>1990</b>—Pub. L. 101–650 substituted “under the Constitution” for “according to the best of my abilities and understanding, agreeably to the Constitution”.
 
 #### Effective Date of 1990 Amendment
 

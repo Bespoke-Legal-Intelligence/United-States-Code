@@ -64,7 +64,7 @@ Whoever—
 
 #### (c) Restriction on access to subscribers by common carriers; judicial remedies respecting restrictions
 
-(1) A common carrier within the District of Columbia or within any State, or in interstate or foreign commerce, shall not, to the extent technically feasible, provide access to a communication specified in subsection (b) of this section from the telephone of any subscriber who has not previously requested in writing the carrier to provide access to such communication if the carrier collects from subscribers an identifiable charge for such communication that the carrier remits, in whole or in part, to the provider of such communication.
+(1) A common carrier within the District of Columbia or within any State, or in interstate or foreign commerce, shall not, to the extent technically feasible, provide access to a communication specified in subsection (b) of this section from the telephone of any subscriber whohas not previously requested in writing the carrier to provide access to such communication if the carrier collects from subscribers an identifiable charge for such communication that the carrier remits, in whole or in part, to the provider of such communication.
 
 (2) Except as provided in paragraph (3), no cause of action may be brought in any court or administrative agency against any common carrier, or any of its affiliates, including their officers, directors, employees, agents, or authorized representatives on account of—
 
@@ -162,19 +162,19 @@ The Library Services and Construction Act, referred to in subsec. (h)(5), is act
 
 #### Amendments
 
-2006—Subsec. (h)(1)(C). Pub. L. 109–162 added subpar. (C).
+<b>2006</b>—Subsec. (h)(1)(C). Pub. L. 109–162 added subpar. (C).
 
-2003—Subsec. (a)(1)(A). Pub. L. 108–21, §603(1)(A), substituted “or child pornography” for “, lewd, lascivious, filthy, or indecent” in concluding provisions.
+<b>2003</b>—Subsec. (a)(1)(A). Pub. L. 108–21, §603(1)(A), substituted “or child pornography” for “, lewd, lascivious, filthy, or indecent” in concluding provisions.
 
 Subsec. (a)(1)(B). Pub. L. 108–21, §603(1)(B), substituted “child pornography” for “indecent” in concluding provisions.
 
 Subsec. (d)(1). Pub. L. 108–21, §603(2), substituted “is obscene or child pornography” for “, in context, depicts or describes, in terms patently offensive as measured by contemporary community standards, sexual or excretory activities or organs” in concluding provisions.
 
-1998—Subsec. (h)(2). Pub. L. 105–277 substituted “230(f)(2)” for “230(e)(2)”.
+<b>1998</b>—Subsec. (h)(2). Pub. L. 105–277 substituted “230(f)(2)” for “230(e)(2)”.
 
 Subsec. (h)(4). Pub. L. 105–244, which directed amendment of section 223(h)(4) of the Telecommunications Act of 1934 (47 U.S.C. 223(h)(4)) by substituting “section 1001” for “section 1141”, was executed to this section, which is section 223 of the Communications Act of 1934, to reflect the probable intent of Congress.
 
-1996—Subsec. (a). Pub. L. 104–104, §502(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “Whoever—
+<b>1996</b>—Subsec. (a). Pub. L. 104–104, §502(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “Whoever—
 
 &emsp;“(1) in the District of Columbia or in interstate or foreign communication by means of telephone—
 
@@ -192,9 +192,9 @@ Subsec. (h)(4). Pub. L. 105–244, which directed amendment of section 223(h)(4)
 
 Subsecs. (d) to (h). Pub. L. 104–104, §502(2), added subsecs. (d) to (h).
 
-1994—Subsec. (b)(3). Pub. L. 103–414 substituted “defendant restricted access” for “defendant restrict access”.
+<b>1994</b>—Subsec. (b)(3). Pub. L. 103–414 substituted “defendant restricted access” for “defendant restrict access”.
 
-1989—Subsecs. (b), (c). Pub. L. 101–166 added subsecs. (b) and (c) and struck out former subsec. (b) which read as follows:
+<b>1989</b>—Subsecs. (b), (c). Pub. L. 101–166 added subsecs. (b) and (c) and struck out former subsec. (b) which read as follows:
 
 “(1) Whoever knowingly—
 
@@ -212,7 +212,7 @@ Subsecs. (d) to (h). Pub. L. 104–104, §502(2), added subsecs. (d) to (h).
 
 > shall be fined not more than $50,000 or imprisoned not more than six months, or both.”
 
-1988—Subsec. (b). Pub. L. 100–690 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+<b>1988</b>—Subsec. (b). Pub. L. 100–690 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
 “(1) Whoever knowingly—
 
@@ -236,7 +236,7 @@ Subsecs. (d) to (h). Pub. L. 104–104, §502(2), added subsecs. (d) to (h).
 
 Pub. L. 100–297, in par. (1)(A), struck out “under eighteen years of age or to any other person without that person's consent” after “to any person”, redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “It is a defense to a prosecution under this subsection that the defendant restricted access to the prohibited communication to persons eighteen years of age or older in accordance with procedures which the Commission shall prescribe by regulation.”, redesignated par. (4) as (3) and substituted “under paragraphs (1) and (2)” for “under paragraphs (1) and (3)”, and redesignated par. (5) as (4).
 
-1983—Subsec. (a). Pub. L. 98–214, §8(a)(1), (2), designated existing provisions as subsec. (a) and substituted “$50,000” for “$500” in provisions after par. (2).
+<b>1983</b>—Subsec. (a). Pub. L. 98–214, §8(a)(1), (2), designated existing provisions as subsec. (a) and substituted “$50,000” for “$500” in provisions after par. (2).
 
 Subsec. (a)(2). Pub. L. 98–214, §8(b), inserted “facility” after “telephone”.
 
@@ -278,7 +278,7 @@ Section 8(c), (d) of Pub. L. 98–214 provided that:
 
 “(c) The Federal Communications Commission shall issue regulations pursuant to section 223(b)(2) of the Communications Act of 1934 (as added by subsection (a) of this section) \[subsec. (b)(2) of this section\] not later than one hundred and eighty days after the date of the enactment of this Act \[Dec. 8, 1983\].
 
-“(d) The Commission shall act on all complaints alleging violation of section 223 of the CommunicationsAct of 1934 \[this section\] which are pending on the date of the enactment of this Act \[Dec. 8, 1983\] within ninety days of such date of enactment.”
+“(d) The Commission shall act on all complaints alleging violation of section 223 of the Communications Act of 1934 \[this section\] which are pending on the date of the enactment of this Act \[Dec. 8, 1983\] within ninety days of such date of enactment.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

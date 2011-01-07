@@ -104,7 +104,7 @@ Timing of Grants; Availability.—
 
 &emsp;“(1)
 
-Timing.—The Commission shall award grants under the program to eligible States not later than 60days after the date on which the Commission establishes the program.
+Timing.—The Commission shall award grants under the program to eligible States not later than 60 days after the date on which the Commission establishes the program.
 
 &emsp;“(2)
 
@@ -116,7 +116,7 @@ Report to Congress.—
 
 &emsp;“(1)
 
-Report.—Not later than June 30, 2009, the Commission, in consultation with the States receiving grants under the program and the Election Assistance Commission Board of Advisors, shall submit a report to Congress on the impact of the program on the collection of the election data described in subsection (a).
+Report.—Not later than June 30, 2009, the Commission, in consultation with the States receiving grants under the program and the Election Assistance Commission Board of Advisors, shall submita report to Congress on the impact of the program on the collection of the election data described in subsection (a).
 
 &emsp;“(2)
 

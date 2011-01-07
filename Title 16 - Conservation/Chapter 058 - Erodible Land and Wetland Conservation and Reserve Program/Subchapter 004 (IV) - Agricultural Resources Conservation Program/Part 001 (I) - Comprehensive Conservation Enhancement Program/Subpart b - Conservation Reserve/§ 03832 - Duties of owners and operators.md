@@ -118,7 +118,7 @@ A prior section 3832, Pub. L. 99–198, title XII, §1232, Dec. 23, 1985, 99 Sta
 
 #### Amendments
 
-2008—Subsec. (a)(5) to (7). Pub. L. 110–246, §2107, added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
+<b>2008</b>—Subsec. (a)(5) to (7). Pub. L. 110–246, §2107, added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
 
 Subsec. (a)(8). Pub. L. 110–246, §2108(a), added par. (8) and struck out former par. (8) which related to prohibition against harvesting, grazing, or other commercial use of the forage, with exception authorizing Secretary to permit managed harvesting and grazing if appropriate requirements were developed and timeframes identified or in a drought or other emergency, and exception for the installation of wind turbines.
 
@@ -128,7 +128,7 @@ Subsec. (a)(9) to (11). Pub. L. 110–246, §2107(1), redesignated pars. (8) to 
 
 Subsec. (d). Pub. L. 110–246, §2108(b), added subsec. (d).
 
-2003—Subsec. (a)(7)(A)(iii). Pub. L. 108–7 inserted before semicolon “, except that this clause shall not apply to the 2002 calendar year, and the Secretary shall repay the owner or operator (in a manner determined by the Secretary) for any reduction in rental payments made to the owner or operator as the result of the application of this clause to the 2002 calendar year”.
+<b>2003</b>—Subsec. (a)(7)(A)(iii). Pub. L. 108–7 inserted before semicolon “, except that this clause shall not apply to the 2002 calendar year, and the Secretary shall repay the owner or operator (in a manner determined by the Secretary) for any reduction in rental payments made to the owner or operator as the result of the application of this clause to the 2002 calendar year”.
 
 #### Effective Date of 2008 Amendment
 

@@ -52,7 +52,7 @@
 - [&sect; 00080a&#8211;44 - Disclosure of information filed with Commission; copies](%C2%A7%2000080a%E2%80%9344%20-%20Disclosure%20of%20information%20filed%20with%20Commission%3B%20copies.md)
 - [&sect; 00080a&#8211;45 - Reports by Commission; hiring and leasing authority](%C2%A7%2000080a%E2%80%9345%20-%20Reports%20by%20Commission%3B%20hiring%20and%20leasing%20authority.md)
 - [&sect; 00080a&#8211;46 - Validity of contracts](%C2%A7%2000080a%E2%80%9346%20-%20Validity%20of%20contracts.md)
-- [&sect; 00080a&#8211;47 - Violation of subchapter](%C2%A7%2000080a%E2%80%9347%20-%20Violation%20of%20subchapter.md)
+- [&sect; 00080a&#8211;47 - Liability of controlling persons; preventing compliance with subchapter](%C2%A7%2000080a%E2%80%9347%20-%20Liability%20of%20controlling%20persons%3B%20preventing%20compliance%20with%20subchapter.md)
 - [&sect; 00080a&#8211;48 - Penalties](%C2%A7%2000080a%E2%80%9348%20-%20Penalties.md)
 - [&sect; 00080a&#8211;49 - Construction with other laws](%C2%A7%2000080a%E2%80%9349%20-%20Construction%20with%20other%20laws.md)
 - [&sect; 00080a&#8211;50 - Separability](%C2%A7%2000080a%E2%80%9350%20-%20Separability.md)

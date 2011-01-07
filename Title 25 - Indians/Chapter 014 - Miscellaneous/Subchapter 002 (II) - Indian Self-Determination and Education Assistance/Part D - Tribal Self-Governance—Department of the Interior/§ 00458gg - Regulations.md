@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 90 days after October 25, 1994, at the request of a majority of the Indian tribes with agreements under this part, the Secretary shall initiate procedures under subchapter III of chapter 5 of title 5 to negotiate and promulgate such regulations as are necessary to carry out this part.
+Not later than 90 days after October 25, 1994, at the request of a majority of the Indian tribeswith agreements under this part, the Secretary shall initiate procedures under subchapter III of chapter 5 of title 5 to negotiate and promulgate such regulations as are necessary to carry out this part.
 
 #### (b) Committee
 

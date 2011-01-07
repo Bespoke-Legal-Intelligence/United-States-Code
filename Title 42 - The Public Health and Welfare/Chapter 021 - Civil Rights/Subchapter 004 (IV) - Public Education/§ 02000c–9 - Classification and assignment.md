@@ -6,5 +6,5 @@ Nothing in this subchapter shall prohibit classification and assignment for reas
 
 #### Amendments
 
-1972—Pub. L. 92–318 inserted “sex” after “religion,”.
+<b>1972</b>—Pub. L. 92–318 inserted “sex” after “religion,”.
 

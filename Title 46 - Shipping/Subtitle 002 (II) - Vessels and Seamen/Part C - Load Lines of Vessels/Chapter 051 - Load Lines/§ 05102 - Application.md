@@ -22,7 +22,7 @@
 
 &emsp;(2) a recreational vessel when operated only for pleasure.
 
-&emsp;(3) a fishing vessel.
+&emsp;(3) a fishing vessel, unless the vessel is built after July 1, 2012.
 
 &emsp;(4) a fish processing vessel of not more than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that—
 
@@ -56,11 +56,11 @@
 
 &emsp;(12) a vessel of the working fleet of the Panama Canal Commission not on a foreign voyage.
 
-(c) On application by the owner and after a survey under section 5105 of this title, the Secretary may assign load lines for a vessel excluded from the application of this chapterunder subsection (b) of this section. A vessel assigned load lines under this subsection is subject to this chapter until the surrender of its load line certificate and the removal of its load line marks.
+(c) On application by the owner and after a survey under section 5105 of this title, the Secretary may assign load lines for a vessel excluded from the application of this chapter under subsection (b) of this section. A vessel assigned load lines under this subsection is subject to this chapter until the surrender of its load line certificate and the removal of its load line marks.
 
 (d) This chapter does not affect an international agreement to which the Government is a party that is not in conflict with the International Convention on Load Lines currently in force for the United States.
 
-(Pub. L. 99–509, title V, §5101(2), Oct. 21, 1986, 100 Stat. 1914; Pub. L. 101–595, title VI, §602(d), Nov. 16, 1990, 104 Stat. 2991; Pub. L. 104–324, title VII, §719, Oct. 19, 1996, 110 Stat. 3938; Pub. L. 107–295, title IV, §436(a), Nov. 25, 2002, 116 Stat. 2129.)
+(Pub. L. 99–509, title V, §5101(2), Oct. 21, 1986, 100 Stat. 1914; Pub. L. 101–595, title VI, §602(d), Nov. 16, 1990, 104 Stat. 2991; Pub. L. 104–324, title VII, §719, Oct. 19, 1996, 110 Stat. 3938; Pub. L. 107–295, title IV, §436(a), Nov. 25, 2002, 116 Stat. 2129; Pub. L. 111–281, title VI, §604(d)(1), Oct. 15, 2010, 124 Stat. 2965.)
 
 #### Historical and Revision Notes
 
@@ -76,7 +76,7 @@ Clause (1) regarding “a vessel of the United States” includes all vessels do
 
 Clause (2) regarding “a vessel on the navigable waters of the United States” includes all domestic or foreign vessels found in or on the navigable waters of the United States.
 
-Clause (3) regarding “a vessel owned by a citizen of the United States or a corporation established by or under the laws of the United States or a State, and not registered in a foreign country” includes all vessels owned by citizens of the United States (as defined in 5107(7)) \[sic\] and not registered under the laws of a foreign country, wherever the vessels may be located.
+Clause (3) regarding “a vessel owned by a citizen of the United States or a corporation established by or under the laws of the United States or a State, and not registered in a foreign country” includes all vessels owned by citizens of the United States (as defined in5107(7)) \[sic\] and not registered under the laws of a foreign country, wherever the vessels may be located.
 
 Clause (4) regarding “a public vessel of the United States” includes all United States public vessels.
 
@@ -120,19 +120,21 @@ Section 5102(d) provides that this chapter shall not be construed as abrogating 
 
 #### Amendments
 
-2002—Subsec. (b)(5)(B)(ii). Pub. L. 107–295 inserted “is not” after “(ii)”.
+<b>2010</b>—Subsec. (b)(3). Pub. L. 111–281 inserted “, unless the vessel is built after July 1, 2012” after “vessel”.
 
-1996—Subsec. (b)(4). Pub. L. 104–324, §719(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “5,000 gross tons” in introductory provisions.
+<b>2002</b>—Subsec. (b)(5)(B)(ii). Pub. L. 107–295 inserted “is not” after “(ii)”.
+
+<b>1996</b>—Subsec. (b)(4). Pub. L. 104–324, §719(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “5,000 gross tons” in introductory provisions.
 
 Subsec. (b)(5). Pub. L. 104–324, §719(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons” in introductory provisions.
 
 Subsec. (b)(10). Pub. L. 104–324, §719(3), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “150 gross tons”.
 
-1990—Subsec. (b)(5)(B). Pub. L. 101–595 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “is not on a foreign voyage.”
+<b>1990</b>—Subsec. (b)(5)(B). Pub. L. 101–595 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “is not on a foreign voyage.”
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–595 effective Nov. 16, 1990, with provision that before Jan. 1, 2003, a fish tendervessel is exempt from this chapter when engaged in Aleutian trade if the vessel either operated in that trade before Sept. 8, 1990, or was purchased before that date to be used in such trade and entered into service in that trade before June 1, 1992, did not undergo a major conversion, and did not have a load line assigned at any time before Nov. 16, 1990, see section 602(f) of Pub. L. 101–595, set out as a note under section 4502 of this title.
+Amendment by Pub. L. 101–595 effective Nov. 16, 1990, with provision that before Jan. 1, 2003, a fish tender vessel is exempt from this chapter when engaged in Aleutian trade if the vessel either operated in that trade before Sept. 8, 1990, or was purchased before that date to be used in such trade and entered into service in that trade before June 1, 1992, did not undergo a major conversion, and did not have a load line assigned at any time before Nov. 16, 1990, see section 602(f) of Pub. L. 101–595, set out as a note under section 4502 of this title.
 
 #### Fish Tender Vessels in Aleutian Trade
 

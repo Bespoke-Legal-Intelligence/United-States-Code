@@ -18,13 +18,13 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 #### Amendments
 
-2005—Pub. L. 109–102 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>2005</b>—Pub. L. 109–102 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1996—Pub. L. 104–164 inserted “and individuals who are not members of the government” after “legislators” in second sentence of introductory provisions.
+<b>1996</b>—Pub. L. 104–164 inserted “and individuals who are not members of the government” after “legislators” in second sentence of introductory provisions.
 
-1992—Pub. L. 102–583, in introductory provisions, inserted “, and may also include legislators,” after “ministries of defense” and substituted “(iii) contribute to cooperation between military and law enforcement personnel with respect to counternarcotics law enforcement efforts, or (iv)” for “or (iii)”.
+<b>1992</b>—Pub. L. 102–583, in introductory provisions, inserted “, and may also include legislators,” after “ministries of defense” and substituted “(iii) contribute to cooperation between military and law enforcement personnel with respect to counternarcotics law enforcement efforts, or (iv)” for “or (iii)”.
 
-1990—Pub. L. 101–513 inserted after first sentence “Such civilian personnel shall include foreign governmental personnel of ministries other than ministries of defense if the military education and training would (i) contribute to responsible defense resource management, (ii) foster greater respect for and understanding of the principle of civilian control of the military, or (iii) improve military justice systems and procedures in accordance with internationally recognized human rights.”
+<b>1990</b>—Pub. L. 101–513 inserted after first sentence “Such civilian personnel shall include foreign governmental personnel of ministries other than ministries of defense if the military education and training would (i) contribute to responsible defense resource management, (ii) foster greater respect for and understanding of the principle of civilian control of the military, or (iii) improve military justice systems and procedures in accordance with internationally recognized human rights.”
 
 #### Delegation of Functions
 

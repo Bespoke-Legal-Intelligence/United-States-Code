@@ -6,7 +6,7 @@ Subject to the provisions of section 913 of this title a claim for compensation 
 
 #### (b) Notice of claim
 
-Within ten days after such claim is filed the deputy commissioner, in accordance with regulations prescribed by the Secretary, shall notify the employer and any other person (other than the claimant), whom the deputy commissioner considers an interested party, that a claim has been filed. Such notice may be served personallyupon the employer or other person, or sent to such employer or person by registered mail.
+Within ten days after such claim is filed the deputy commissioner, in accordance with regulations prescribed by the Secretary, shall notify the employer and any other person (other than the claimant), whom the deputy commissioner considers an interested party, that a claim has been filed. Such notice may be served personally upon the employer or other person, or sent to such employer or person by registered mail.
 
 #### (c) Investigations; order for hearing; notice; rejection or award
 
@@ -36,15 +36,15 @@ An injured employee claiming or entitled to compensation shall submit to such ph
 
 #### Amendments
 
-1984—Subsecs. (a), (b), (g), (h). Pub. L. 98–426, §27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note under section 902 of this title.
+<b>1984</b>—Subsecs. (a), (b), (g), (h). Pub. L. 98–426, §27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note under section 902 of this title.
 
-1978—Subsec. (d). Pub. L. 95–251 substituted references to administrative law judges for references to hearing examiners.
+<b>1978</b>—Subsec. (d). Pub. L. 95–251 substituted references to administrative law judges for references to hearing examiners.
 
-1972—Subsec. (d). Pub. L. 92–576 substituted provisions for conduct of hearings under section 554 of title 5 by a hearing examiner qualified under section 3105 of title 5 and vesting in hearing examiners the powers, duties, and responsibilities vested in deputy commissioners on Oct. 27, 1972, for former provisions authorizing claimant and employer to present evidence with respect to claims and for representation of a claimant under a written authorization.
+<b>1972</b>—Subsec. (d). Pub. L. 92–576 substituted provisions for conduct of hearings under section 554 of title5 by a hearing examiner qualified under section 3105 of title 5 and vesting in hearing examiners the powers, duties, and responsibilities vested in deputy commissioners on Oct. 27, 1972, for former provisions authorizing claimant and employer to present evidence with respect to claims and for representation of a claimant under a written authorization.
 
-1960—Subsecs. (c), (e). Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
+<b>1960</b>—Subsecs. (c), (e). Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
 
-1938—Subsec. (g). Act June 25, 1938, authorized transfer of cases, with administrative approval, at any time after filing of claim for the additional purposes of making investigations and taking other necessary action instead of after issuance of compensation order without anyone's approval.
+<b>1938</b>—Subsec. (g). Act June 25, 1938, authorized transfer of cases, with administrative approval, at any time after filing of claim for the additional purposes of making investigations and taking other necessary action instead of after issuance of compensation order without anyone's approval.
 
 #### Effective Date of 1984 Amendment
 

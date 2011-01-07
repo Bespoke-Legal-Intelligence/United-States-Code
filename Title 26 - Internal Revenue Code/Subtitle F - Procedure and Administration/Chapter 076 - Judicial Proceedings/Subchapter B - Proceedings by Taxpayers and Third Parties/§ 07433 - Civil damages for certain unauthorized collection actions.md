@@ -58,7 +58,7 @@ A prior section 7433 was renumbered 7437 of this title.
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–206, §3102(a)(1)(A), inserted “, or by reason of negligence,” after “recklessly or intentionally”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–206, §3102(a)(1)(A), inserted “, or by reason of negligence,” after “recklessly or intentionally”.
 
 Subsec. (b). Pub. L. 105–206, §3102(a)(1)(B)(i), (c)(2), in introductory provisions, inserted “or petition filed under subsection (e)” after “subsection (a)” and inserted “($100,000, in the case of negligence)” after “$1,000,000”.
 
@@ -68,7 +68,7 @@ Subsec. (d)(1). Pub. L. 105–206, §3102(a)(2), substituted “Requirement that
 
 Subsec. (e). Pub. L. 105–206, §3102(c)(1), added subsec. (e).
 
-1996—Subsec. (b). Pub. L. 104–168, §801(a), substituted “$1,000,000” for “$100,000”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–168, §801(a), substituted “$1,000,000” for “$100,000”.
 
 Subsec. (d)(1). Pub. L. 104–168, §802(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows:
 

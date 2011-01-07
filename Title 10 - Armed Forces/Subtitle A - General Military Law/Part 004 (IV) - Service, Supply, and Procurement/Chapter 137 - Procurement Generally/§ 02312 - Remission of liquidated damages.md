@@ -22,5 +22,5 @@ The words “a contract, made by that agency, that provides for” are substitut
 
 #### Amendments
 
-1996—Pub. L. 104–316 substituted “Secretary of the Treasury” for “Comptroller General”.
+<b>1996</b>—Pub. L. 104–316 substituted “Secretary of the Treasury” for “Comptroller General”.
 

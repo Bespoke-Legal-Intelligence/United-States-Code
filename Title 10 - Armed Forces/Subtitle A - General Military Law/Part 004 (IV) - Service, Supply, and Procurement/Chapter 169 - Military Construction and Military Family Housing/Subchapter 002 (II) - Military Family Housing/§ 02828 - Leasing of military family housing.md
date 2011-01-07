@@ -38,7 +38,7 @@
 
 (C) The term of a lease under subparagraph (A) may not exceed 2 years.
 
-(c) The Secretary concerned may lease housing facilities in foreign countries for assignment, without rental charge, as family housing to members of the armed forces and for assignment, with or without rental charge, as family housing to civilian employees of the Department of Defense—
+(c) The Secretary concerned may lease housing facilities in foreign countries for assignment, without rental charge, as family housingto members of the armed forces and for assignment, with or without rental charge, as family housing to civilian employees of the Department of Defense—
 
 &emsp;(1) under circumstances specified in clause (A), (B), (D), or (E) of subsection (a)(2);
 
@@ -74,11 +74,11 @@
 
 (6) The maximum number of family housing units that may be leased in foreign countries under this section at any one time is 55,775.
 
-(f) A lease for family housing facilities, or for real property related to family housing facilities, in a foreign country for which the average estimated annual rental during the term of the lease exceeds $1,000,000 may not be made under this section until (1) the Secretary concerned provides to the appropriate committees of Congress written notification of the facts concerning the proposed lease, and (2) a period of 21 days elapses after the notification is received by those committees.
+(f) A lease for family housing facilities, or for real property related to family housing facilities, in a foreign country for which the average estimated annual rental during the term of the lease exceeds $1,000,000 may not be made under this section until (1) the Secretary concerned provides to the appropriate committees of Congress written notification of the facts concerning the proposed lease, and (2) a period of 21 days elapses after the notification is received by those committees or, if earlier, a period of 14 days has elapsed from the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.
 
 (g) Appropriations available to the Department of Defense for maintenance or construction may be used for the acquisition of interests in land under this section.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 161; amended Pub. L. 97–321, title VIII, §805(b)(2), Oct. 15, 1982, 96 Stat. 1573; Pub. L. 98–115, title VIII, §801, Oct. 11, 1983, 97 Stat. 782; Pub. L. 98–407, title VIII, §806(a), Aug. 28, 1984, 98 Stat. 1521; Pub. L. 99–167, title VIII, §§801(b), 803, 805, Dec. 3, 1985, 99 Stat. 985, 987, 988; Pub. L. 99–661, div. B, title VII, §§2702(d)–(g), 2713(b), 2714, Nov. 14, 1986, 100 Stat. 4040–4042; Pub. L. 100–26, §7(j)(8), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–180, div. B, subdiv. 3, title I, §§2306(a), 2309, 2311, Dec. 4, 1987, 101 Stat. 1216, 1217; Pub. L. 100–370, §1(<i>l</i>)(2), July 19, 1988, 102 Stat. 849; Pub. L. 100–456, div. B, title XXVIII, §2802, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–189, div. B, title XXVIII, §§2802, 2805, Nov. 29, 1989, 103 Stat. 1646, 1647; Pub. L. 102–190, div. B, title XXVIII, §2806(b), Dec. 5, 1991, 105 Stat. 1540; Pub. L. 103–35, title II, §201(d)(7), May 31, 1993, 107 Stat. 99; Pub. L. 103–160, div. B, title XXVIII, §2801, Nov. 30, 1993, 107 Stat. 1883; Pub. L. 104–106, div. B, title XXVIII, §2816, Feb. 10, 1996, 110 Stat. 553; Pub. L. 105–85, div. B, title XXVIII, §2803, Nov. 18, 1997, 111 Stat. 1990; Pub. L. 105–261, div. B, title XXVIII, §2802, Oct. 17, 1998, 112 Stat. 2202; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2804\], Oct. 30, 2000, 114 Stat. 1654, 1654A–414; Pub. L. 107–314, div. A, title X, §1062(a)(15), div. B, title XXVIII, §2801, Dec. 2, 2002, 116 Stat. 2650, 2702; Pub. L. 108–136, div. B, title XXVIII, §§2803, 2804(a), Nov. 24, 2003, 117 Stat. 1719; Pub. L. 109–163, div. B, title XXVIII, §2802, Jan. 6, 2006, 119 Stat. 3505; Pub. L. 109–364, div. B, title XXVIII, §2804, Oct. 17, 2006, 120 Stat. 2467; Pub. L. 110–181, div. B, title XXVIII, §2806(a)–(c), Jan. 28, 2008, 122 Stat. 540, 541; Pub. L. 110–417, div. B, title XXVIII, §2802, Oct. 14, 2008, 122 Stat. 4719.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 161; amended Pub. L. 97–321, title VIII, §805(b)(2), Oct. 15, 1982, 96 Stat. 1573; Pub. L. 98–115, title VIII, §801, Oct. 11, 1983, 97 Stat. 782; Pub. L. 98–407, title VIII, §806(a), Aug. 28, 1984, 98 Stat. 1521; Pub. L. 99–167, title VIII, §§801(b), 803, 805, Dec. 3, 1985, 99 Stat. 985, 987, 988; Pub. L. 99–661, div. B, title VII, §§2702(d)–(g), 2713(b), 2714, Nov. 14, 1986, 100 Stat. 4040–4042; Pub. L. 100–26, §7(j)(8), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–180, div. B, subdiv. 3, title I, §§2306(a), 2309, 2311, Dec. 4, 1987, 101 Stat. 1216, 1217; Pub. L. 100–370, §1(<i>l</i>)(2), July 19, 1988, 102 Stat. 849; Pub. L. 100–456, div. B, title XXVIII, §2802, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–189, div. B, title XXVIII, §§2802, 2805, Nov. 29, 1989, 103 Stat. 1646, 1647; Pub. L. 102–190, div. B, title XXVIII, §2806(b), Dec. 5, 1991, 105 Stat. 1540; Pub. L. 103–35, title II, §201(d)(7), May 31, 1993, 107 Stat. 99; Pub. L. 103–160, div. B, title XXVIII, §2801, Nov. 30, 1993, 107 Stat. 1883; Pub. L. 104–106, div. B, title XXVIII, §2816, Feb. 10, 1996, 110 Stat. 553; Pub. L. 105–85, div. B, title XXVIII, §2803, Nov. 18, 1997, 111 Stat. 1990; Pub. L. 105–261, div. B, title XXVIII, §2802, Oct. 17, 1998, 112 Stat. 2202; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2804\], Oct. 30, 2000, 114 Stat. 1654, 1654A–414; Pub. L. 107–314, div. A, title X, §1062(a)(15), div. B, title XXVIII, §2801, Dec. 2, 2002, 116 Stat. 2650, 2702; Pub. L. 108–136, div. B, title XXVIII, §§2803, 2804(a), Nov. 24, 2003, 117 Stat. 1719; Pub. L. 109–163, div. B, title XXVIII, §2802, Jan. 6, 2006, 119 Stat. 3505; Pub. L. 109–364, div. B, title XXVIII, §2804, Oct. 17, 2006, 120 Stat. 2467; Pub.L. 110–181, div. B, title XXVIII, §2806(a)–(c), Jan. 28, 2008, 122 Stat. 540, 541; Pub. L. 110–417, div. B, title XXVIII, §2802, Oct. 14, 2008, 122 Stat. 4719; Pub. L. 111–383, div. B, title XXVIII, §2803(d), Jan. 7, 2011, 124 Stat. 4459.)
 
 #### Historical and Revision Notes
 
@@ -88,7 +88,9 @@ Subsection (h) of this section and section 2673 of this title are based on Pub. 
 
 #### Amendments
 
-2008—Subsec. (b)(2). Pub. L. 110–181, §2806(a)(1), substituted “paragraphs (3), (4), and (7)” for “paragraphs (3) and (4)”.
+<b>2011</b>—Subsec. (f)(2). Pub. L. 111–383 inserted before period at end “or, if earlier, a period of 14 days has elapsed from the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
+
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–181, §2806(a)(1), substituted “paragraphs (3), (4), and (7)” for “paragraphs (3) and (4)”.
 
 Subsec. (b)(5). Pub. L. 110–181, §2806(a)(2), substituted “paragraphs (2), (3), and (7)” for “paragraphs (2) and (3)”.
 
@@ -100,15 +102,15 @@ Subsec. (e)(2). Pub. L. 110–181, §2806(b), substituted “the Secretaries of 
 
 Subsec. (f). Pub. L. 110–181, §2806(c), substituted “$1,000,000” for “$500,000”.
 
-2006—Subsec. (b)(4)(D). Pub. L. 109–364 added subpar. (D).
+<b>2006</b>—Subsec. (b)(4)(D). Pub. L. 109–364 added subpar. (D).
 
 Subsec. (e)(4). Pub. L. 109–163 substituted “2,800” for “2,400”.
 
-2003—Subsec. (d)(1). Pub. L. 108–136, §2804(a), substituted “10 years, or 15 years in the case of leases in Korea,” for “ten years,”.
+<b>2003</b>—Subsec. (d)(1). Pub. L. 108–136, §2804(a), substituted “10 years, or 15 years in the case of leases in Korea,” for “ten years,”.
 
 Subsec. (e)(2). Pub. L. 108–136, §2803, substituted “2,800” for “2,000”.
 
-2002—Subsec. (b)(2). Pub. L. 107–314, §1062(a)(15), inserted “time” after “from time to”.
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–314, §1062(a)(15), inserted “time” after “from time to”.
 
 Subsec. (e)(3). Pub. L. 107–314, §2801(a), substituted “1,175 units” for “800 units”.
 
@@ -118,15 +120,15 @@ Subsec. (e)(5). Pub. L. 107–314, §2801(b)(1), (3), redesignated par. (4) as (
 
 Subsec. (e)(6). Pub. L. 107–314, §2801(b)(1), (4), redesignated par. (5) as (6) and substituted “55,775” for “53,000”.
 
-2000—Subsec. (b)(2). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2804(c)(1)\], inserted “, as adjusted from time to under paragraph (5)” after “per year”.
+<b>2000</b>—Subsec. (b)(2). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2804(c)(1)\], inserted “, as adjusted from time to under paragraph (5)” after “per year”.
 
 Subsec. (b)(3). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2804(c)(2)\], substituted “the maximum amount per unit per year in effect under paragraph (2) but does not exceed $14,000 per unit per year, as adjusted from time to time under paragraph (5)” for “$12,000 per unit per year but does not exceed $14,000 per unit per year”.
 
-Subsec. (b)(4). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2804(a)\], designated existing provisions as subpar. (A),struck out last sentence which read as follows: “The total amount for all leases under this paragraph may not exceed $280,000 per year, and no lease on any individual housing unit may exceed $60,000 per year.”, and added subpars. (B) and (C).
+Subsec. (b)(4). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2804(a)\], designated existing provisions as subpar. (A), struck out last sentence which read as follows: “The total amount for all leases under this paragraph may not exceed $280,000 per year, and no lease on any individual housing unit may exceed $60,000 per year.”, and added subpars. (B) and (C).
 
 Subsec. (b)(5), (6). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2804(b)\], added pars. (5) and (6) and struck out former par. (5) which read as follows: “At the beginning of each fiscal year, the Secretary concerned shall adjust the maximum lease amount provided for under paragraphs (2), (3), and (4) for the previous fiscal year by the percentage (if any) by which the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, during the preceding fiscal year exceeds such Consumer Price Index for the fiscal year before such preceding fiscal year.”
 
-1998—Subsec. (e)(2). Pub. L. 105–261, §2802(a)(1), inserted “, and the Secretary of the Army may lease not more than 500 units of family housing in Italy,” after “family housing in Italy”.
+<b>1998</b>—Subsec. (e)(2). Pub. L. 105–261, §2802(a)(1), inserted “, and the Secretary of the Army may lease not more than 500 units of family housing in Italy,” after “family housing in Italy”.
 
 Subsec. (e)(3). Pub. L. 105–261, §2802(a)(3), added par. (3). Former par. (3) redesignated (4).
 
@@ -136,7 +138,7 @@ Pub. L. 105–261, §2802(a)(2), redesignated par. (3) as (4). Former par. (4) r
 
 Subsec. (e)(5). Pub. L. 105–261, §2802(a)(2), redesignated par. (4) as (5).
 
-1997—Subsec. (b)(2). Pub. L. 105–85, §2803(a)(1), substituted “paragraphs (3) and (4)” for “paragraph (3)”.
+<b>1997</b>—Subsec. (b)(2). Pub. L. 105–85, §2803(a)(1), substituted “paragraphs (3) and (4)” for “paragraph (3)”.
 
 Subsec. (b)(4). Pub. L. 105–85, §2803(a)(3), added par. (4). Former par. (4) redesignated (5).
 
@@ -144,11 +146,11 @@ Subsec. (b)(5). Pub. L. 105–85, §2803(b), substituted “paragraphs (2), (3),
 
 Pub. L. 105–85, §2803(a)(2), redesignated par. (4) as (5).
 
-1996—Subsec. (e)(1). Pub. L. 104–106, §2816(1), substituted “450 units” for “300 units” in first sentence and “350 such units” for “220 such units” in second sentence.
+<b>1996</b>—Subsec. (e)(1). Pub. L. 104–106, §2816(1), substituted “450 units” for “300 units” in first sentence and “350 such units” for “220 such units” in second sentence.
 
 Subsec. (e)(2). Pub. L. 104–106, §2816(2), substituted “450 units” for “300 units”.
 
-1993—Subsec. (b)(2), (3). Pub. L. 103–35 substituted “per year” for “per annum” in par. (2) and in two places in par. (3).
+<b>1993</b>—Subsec. (b)(2), (3). Pub. L. 103–35 substituted “per year” for “per annum” in par. (2) and in two places in par. (3).
 
 Subsec. (b)(4). Pub. L. 103–160, §2801(a), added par. (4).
 
@@ -158,9 +160,9 @@ Pub. L. 103–35 substituted “per year” for “per annum”.
 
 Subsec. (e)(2) to (4). Pub. L. 103–160, §2801(b)(3), (4), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
-1991—Subsecs. (g), (h). Pub. L. 102–190 redesignated subsec. (h) as (g) and struck out former subsec. (g) which authorized contracts for lease of family housing units on or near military installations at which there is a validated deficit in family housing. See section 2835 of this title.
+<b>1991</b>—Subsecs. (g), (h). Pub. L. 102–190 redesignated subsec. (h) as (g) and struck out former subsec. (g) which authorized contracts for lease of family housing units on or near military installations at which there is a validated deficit in family housing. See section 2835 of this title.
 
-1989—Subsec. (b)(2). Pub. L. 101–189, §2802(1), substituted “$12,000” for “$10,000”.
+<b>1989</b>—Subsec. (b)(2). Pub. L. 101–189, §2802(1), substituted “$12,000” for “$10,000”.
 
 Subsec. (b)(3). Pub. L. 101–189, §2802(2), substituted “Not” for “(A) Except as provided in subparagraph (B), not”, “$12,000” for “$10,000”, and “$14,000” for “$12,000” and struck out subpar. (B) which read as follows: “During fiscal years 1986 and 1987, the number of housing units that may be leased pursuant to the provisions of subparagraph (A) may be increased by 500 units for each such fiscal year. The Secretary concerned shall provide written notification to the Committees on Armed Services of the Senate and House of Representatives concerning the location, purpose, and cost of the additional units permitted by this subparagraph. Such notification shall be made periodically as the leases are entered into.”
 
@@ -174,11 +176,11 @@ Subsec. (g)(8). Pub. L. 101–189, §2805, redesignated par. (9) as (8), substit
 
 Subsec. (g)(9), (10). Pub. L. 101–189, §2805(2), redesignated par. (10) as (9). Former par. (9) redesignated (8).
 
-1988—Subsec. (e)(2). Pub. L. 100–456 substituted “38,000” for “36,000”.
+<b>1988</b>—Subsec. (e)(2). Pub. L. 100–456 substituted “38,000” for “36,000”.
 
 Subsec. (h). Pub. L. 100–370 added subsec. (h).
 
-1987—Subsec. (a)(1). Pub. L. 100–26 substituted “armed forces” for “Armed Forces”.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–26 substituted “armed forces” for “Armed Forces”.
 
 Subsec. (b)(2). Pub. L. 100–180, §2309(b)(1), inserted “per unit per annum” after “$10,000”.
 
@@ -200,7 +202,7 @@ Subsec. (g)(8)(C). Pub. L. 100–180, §2306(a)(3), added subpar. (C).
 
 Subsec. (g)(9). Pub. L. 100–180, §2306(a)(4), substituted “1989” for “1988”.
 
-1986—Subsec. (b)(2). Pub. L. 99–661, §2702(d)(1), substituted “$10,000” for “the amount specified by law as the maximum annual domestic family housing unit lease amount”.
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–661, §2702(d)(1), substituted “$10,000” for “the amount specified by law as the maximum annual domestic family housing unit lease amount”.
 
 Subsec. (b)(3)(A). Pub. L. 99–661, §2702(d)(2), substituted “$10,000 but does not exceed $12,000” for “the maximum annual domestic family housing unit lease amount but does not exceed 120 percent of that amount”.
 
@@ -218,7 +220,7 @@ Subsec. (g)(9). Pub. L. 99–661, §2713(b)(2), substituted “September 30, 198
 
 Subsec. (g)(10). Pub. L. 99–661, §2713(b)(3), added par. (10).
 
-1985—Subsec. (b)(3). Pub. L. 99–167, §805, designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), not” for “Not”, and added subpar. (B).
+<b>1985</b>—Subsec. (b)(3). Pub. L. 99–167, §805, designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), not” for “Not”, and added subpar. (B).
 
 Subsec. (d). Pub. L. 99–167, §803, designated existing provisions as par. (1) and added par. (2).
 
@@ -226,11 +228,11 @@ Subsec. (g)(8). Pub. L. 99–167, §801(b)(2), designated existing provisions as
 
 Subsec. (g)(9). Pub. L. 99–167, §801(b)(1), substituted “September 30, 1986” for “October 1, 1985”.
 
-1984—Subsec. (g)(8), (9). Pub. L. 98–407 added par. (8) and redesignated former par. (8) as (9).
+<b>1984</b>—Subsec. (g)(8), (9). Pub. L. 98–407 added par. (8) and redesignated former par. (8) as (9).
 
-1983—Subsec. (g). Pub. L. 98–115 added subsec. (g).
+<b>1983</b>—Subsec. (g). Pub. L. 98–115 added subsec. (g).
 
-1982—Subsec. (e)(1). Pub. L. 97–321 inserted “the” after “may be waived by” in second sentence.
+<b>1982</b>—Subsec. (e)(1). Pub. L. 97–321 inserted “the” after “may be waived by” in second sentence.
 
 #### Effective Date of 1991 Amendment
 

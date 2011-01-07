@@ -10,9 +10,9 @@
 
 &emsp;Paragraph (1) shall apply if—
 
-&emsp;&emsp;(A) a State or district attorney establishes, within the jurisdiction of such State or district attorney and with respect to alleged bad check violations that do not involve a check described in subsection (b), apretrial diversion program for alleged bad check offenders who agree to participate voluntarily in such program to avoid criminal prosecution;
+&emsp;&emsp;(A) a State or district attorney establishes, within the jurisdiction of such State or district attorney and with respect to alleged bad check violations that do not involve a check described in subsection (b), a pretrial diversion program for alleged bad check offenders who agree to participate voluntarily in such program to avoid criminal prosecution;
 
-&emsp;&emsp;(B) a private entity, that is subject to an administrative support services contract with a State or district attorney and operates under the direction, supervision, and control of such State or district attorney, operates the pretrial diversion program described in subparagraph (A); and
+&emsp;&emsp;(B) a private entity, that is subject to an administrative support services contract with a State or district attorney and operates under the direction, supervision, andcontrol of such State or district attorney, operates the pretrial diversion program described in subparagraph (A); and
 
 &emsp;&emsp;(C) in the course of performing duties delegated to it by a State or district attorney under the contract, the private entity referred to in subparagraph (B)—
 

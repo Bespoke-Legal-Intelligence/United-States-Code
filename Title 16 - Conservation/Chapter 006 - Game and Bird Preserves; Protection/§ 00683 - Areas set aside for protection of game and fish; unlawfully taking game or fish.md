@@ -10,7 +10,7 @@ Act of March first, nineteen hundred and eleven, referred to in text, was in the
 
 #### Amendments
 
-1948—Act June 25, 1948, struck out penal provisions (see section 41 of Title 18, Crimes and Criminal Procedure), and inserted provision relating to the unlawfulness in hunting, catching, etc. game animals, etc. under rules and regulations of Secretary of Agriculture.
+<b>1948</b>—Act June 25, 1948, struck out penal provisions (see section 41 of Title 18, Crimes and Criminal Procedure), and inserted provision relating to the unlawfulness in hunting, catching, etc. game animals, etc. under rules and regulations of Secretary of Agriculture.
 
 #### Effective Date of 1948 Amendment
 

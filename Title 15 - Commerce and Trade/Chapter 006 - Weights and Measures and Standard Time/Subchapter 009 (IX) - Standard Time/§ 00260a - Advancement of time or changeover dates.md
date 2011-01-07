@@ -16,13 +16,13 @@ For any violation of the provisions of this section the Secretary of Transportat
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–58 substituted “second Sunday of March” for “first Sunday of April” and “first Sunday of November” for “last Sunday of October”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–58 substituted “second Sunday of March” for “first Sunday of April” and “first Sunday of November” for “last Sunday of October”.
 
-1986—Subsec. (a). Pub. L. 99–359 substituted “first Sunday of April” for “last Sunday of April”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–359 substituted “first Sunday of April” for “last Sunday of April”.
 
-1983—Subsec. (c). Pub. L. 97–449 substituted “Secretary of Transportation or his” for “Interstate Commerce Commission or its”.
+<b>1983</b>—Subsec. (c). Pub. L. 97–449 substituted “Secretary of Transportation or his” for “Interstate Commerce Commission or its”.
 
-1972—Subsec. (a). Pub. L. 92–267 authorized any State with parts thereof lying in more than one time zone to exempt by law that part of such State lying within any time zone from provisions of this subsection providing for advancement of time.
+<b>1972</b>—Subsec. (a). Pub. L. 92–267 authorized any State with parts thereof lying in more than one time zone to exempt by law that part of such State lying within any time zone from provisions of this subsection providing for advancement of time.
 
 #### Effective Date of 2005 Amendment
 
@@ -90,7 +90,7 @@ Section 1. The Secretary of Transportation (hereinafter “the Secretary”) is 
 
 Sec. 2. In deciding to grant or deny an exemption or realignment, the Secretary shall consider, among other things, the policy of the United States, as expressed in sections 2 and 4 of the Uniform Time Act of 1966 (80 Stat. 107, 108; 15 U.S.C. 260, 261), to promote the adoption and observance of uniform time within the standard time zones of the United States and the convenience of commerce, as well as possible energy savings, undue hardship to large segments of the population, and the possible impact on the success of and cooperation with the national energy conservation program.
 
-Sec. 3. In carrying out his responsibilities under this order, the Secretary shall, as he deems necessary, consult with the Department of Health, Education, and Welfare, the Federal Energy Office (or any agency which hereafter may succeed to its functions), and any other interested agency and he may call upon thoseagencies for information and advice. Each interested department or agency shall assist the Secretary, as necessary, to carry out the provisions of this order.
+Sec. 3. In carrying out his responsibilities under this order, the Secretary shall, as he deems necessary, consult with the Department of Health, Education, and Welfare, the Federal Energy Office (or any agency which hereafter may succeed to its functions), and any other interested agency and he may call upon those agencies for information and advice. Each interested department or agency shall assist the Secretary, as necessary, to carry out the provisions of this order.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

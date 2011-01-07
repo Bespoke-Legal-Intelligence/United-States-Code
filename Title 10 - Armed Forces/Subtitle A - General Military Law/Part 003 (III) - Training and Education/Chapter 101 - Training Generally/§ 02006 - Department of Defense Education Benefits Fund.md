@@ -4,7 +4,7 @@
 
 (b) In this section:
 
-&emsp;(1) The term “armed forces education liabilities” means liabilities of the armed forces for benefits under chapter 30 of title 38 and for Department of Defense benefits under paragraphs (3) and (4) of section 510(e) and chapters 1606 and 1607 of this title, including funds provided by the Secretary of Homeland Security for education liabilities for the Coast Guard when it is not operating as a service in the Department of the Navy.
+&emsp;(1) The term “armed forces education liabilities” means liabilities of the armed forces for benefits under chapter 30 or 33 of title 38 and for Department of Defense benefits under paragraphs (3) and (4) of section 510(e) and chapters 1606 and 1607 of this title, including funds provided by the Secretary of Homeland Security for education liabilities for the Coast Guard when it is not operating as a service in the Department of the Navy.
 
 &emsp;(2) The term “normal cost”, with respect to any period of time, means the total of the following:
 
@@ -20,7 +20,9 @@
 
 &emsp;&emsp;(D) The present value of future benefits payable from the Fund for the Department of Defense portion of payments of educational assistance under subchapter II of chapter 30 of title 38 attributable to increased usage of benefits as a result of transfers of entitlement to basic educational assistance under section 3020 of that title during such period.
 
-&emsp;&emsp;(E) The present value of future benefits payable from the Fund for educational assistance under paragraphs (3) and (4) of section 510(e) of this title to persons who during such period become entitled to such assistance.
+&emsp;&emsp;(E) <sup>1</sup> The present value of future benefits payable from the Fund for educational assistance under paragraphs (3) and (4) of section 510(e) of this title to persons who during such period become entitled to such assistance.
+
+&emsp;&emsp;(E) <sup>1</sup> The present value of any future benefits payable from the Fund for amounts attributable to increased amounts of educational assistance authorized by section 3316 of title 38.
 
 (c) There shall be deposited into the Fund the following, which shall constitute the assets of the Fund:
 
@@ -36,7 +38,7 @@
 
 (2) Based on the most recent such valuation, the Secretary of Defense shall estimate the normal cost for the next fiscal year.
 
-(3) If at the time of any such valuation there has been a change in benefits under an education program described in subsection (b)(1) that has been made since the last such valuation and that increases or decreases the present value of benefits payable from the Fund, the Secretary of Defense shall determine an amortization methodology and schedule for the liquidation of the unfunded liability (or negative unfunded liability) thus created such that the present value of the sum of the amortization payments equals the increase or decrease in the present value of such benefits.
+(3) If at the time of any such valuation there has been a change in benefits under an education program described in subsection (b)(1) that has been made since the last such valuation and that increases or decreases the present value of benefits payable from the Fund, the Secretary of Defense shall determine an amortization methodology and schedule for the liquidation of the unfunded liability (or negativeunfunded liability) thus created such that the present value of the sum of the amortization payments equals the increase or decrease in the present value of such benefits.
 
 (4) If at the time of any such valuation the Secretary of Defense determines that, based upon changes in actuarial assumptions since the last valuation, there has been an actuarial gain or loss to the Fund, the Secretary shall determine an amortization methodology and schedule for the liquidation of such gain or loss through an increase or decrease in the payments that would otherwise be made to the Fund.
 
@@ -56,11 +58,15 @@
 
 (g) The Secretary of the Treasury shall invest such portion of the Fund as is not in the judgment of the Secretary required to meet current withdrawals. Such investments shall be in public debt securities with maturities suitable to the needs of the Fund, as determined by the Secretary, and bearing interest at rates determined by the Secretary, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The income on such investments shall be credited to and form a part of the Fund.
 
-(Added Pub. L. 98–525, title VII, §706(a)(1), Oct. 19, 1984, 98 Stat. 2568; amended Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–189, div. A, title XVI, §1621(a)(2), (6), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 101–510, div. A, title XIII, §1322(a)(2), title XIV, §1484(j)(2), Nov. 5, 1990, 104 Stat. 1671, 1718; Pub. L. 103–337, div. A, title X, §1070(e)(6), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title XV, §§1501(c)(21), 1503(a)(17), Feb. 10, 1996, 110 Stat. 499, 512; Pub. L. 106–65, div. A, title V, §550, Oct. 5, 1999, 113 Stat. 611; Pub. L. 107–107, div. A, title VI, §654(b), Dec. 28, 2001, 115 Stat. 1157; Pub. L. 108–136, div. A, title V, §535(b), Nov. 24, 2003, 117 Stat. 1474; Pub. L. 108–375, div. A, title V, §527(b)(1), Oct. 28, 2004, 118 Stat. 1894; Pub. L. 109–364, div. A, title X, §1071(a)(9), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title IX, §906(b)(2), Jan. 28, 2008, 122 Stat. 277.)
+(Added Pub. L. 98–525, title VII, §706(a)(1), Oct. 19, 1984, 98 Stat. 2568; amended Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–189, div. A, title XVI, §1621(a)(2), (6), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 101–510, div. A, title XIII, §1322(a)(2), title XIV, §1484(j)(2), Nov. 5, 1990, 104 Stat. 1671, 1718; Pub. L. 103–337, div. A, title X, §1070(e)(6), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title XV, §§1501(c)(21), 1503(a)(17), Feb. 10, 1996, 110 Stat. 499, 512; Pub. L. 106–65, div. A, title V, §550, Oct. 5, 1999, 113 Stat. 611; Pub. L. 107–107, div. A, title VI, §654(b), Dec. 28, 2001, 115 Stat. 1157; Pub. L. 108–136, div. A, title V, §535(b), Nov. 24, 2003, 117 Stat. 1474; Pub. L. 108–375, div. A, title V, §527(b)(1), Oct. 28, 2004, 118 Stat. 1894; Pub. L. 109–364, div. A, title X, §1071(a)(9), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title IX, §906(b)(2), Jan. 28, 2008, 122 Stat. 277; Pub. L. 111–377, title I, §109(b)(2), Jan. 4, 2011, 124 Stat. 4120.)
 
 #### Amendments
 
-2008—Subsec. (c)(1). Pub. L. 110–181, §906(b)(2)(A), substituted “subsection (f)” for “subsection (g)”.
+<b>2011</b>—Subsec. (b)(1). Pub. L. 111–377, §109(b)(2)(A), inserted “or 33” after “chapter 30”.
+
+Subsec. (b)(2)(E). Pub. L. 111–377, §109(b)(2)(B), added subpar. (E) relating to amounts attributable to increased amounts of educational assistance authorized by section 3316 of title 38.
+
+<b>2008</b>—Subsec. (c)(1). Pub. L. 110–181, §906(b)(2)(A), substituted “subsection (f)” for “subsection (g)”.
 
 Subsec. (e). Pub. L. 110–181, §906(b)(2)(B), (C), redesignated subsec. (f) as (e) and struck out former subsec. (e) which established in the Department of Defense a Department of Defense Education Benefits Board of Actuaries.
 
@@ -74,21 +80,21 @@ Subsec. (f)(2)(B). Pub. L. 110–181, §906(b)(2)(E)(ii), substituted “subsect
 
 Subsecs. (g), (h). Pub. L. 110–181, §906(b)(2)(C), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
-2006—Subsec. (b)(1). Pub. L. 109–364 inserted “of this title” after “1607” and struck out “of this title” before period at end.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–364 inserted “of this title” after “1607” and struck out “of this title” before period at end.
 
-2004—Subsec. (b)(1). Pub. L. 108–375, §527(b)(1)(A), substituted “chapters 1606 and 1607, including funds provided by the Secretary of Homeland Security for education liabilities for the Coast Guard when it is not operating as a service in the Department of the Navy” for “chapter 1606”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–375, §527(b)(1)(A), substituted “chapters 1606 and 1607, including funds provided by the Secretary of Homeland Security for education liabilities for the Coast Guard when it is not operating as a service in the Department of the Navy” for “chapter 1606”.
 
 Subsec. (b)(2)(C). Pub. L. 108–375, §527(b)(1)(B), substituted “(including funds from the Department in which the Coast Guard is operating) for educational assistance under chapters 1606 and 1607” for “for educational assistance under chapter 1606”.
 
-2003—Subsec. (b)(1). Pub. L. 108–136, §535(b)(1), inserted “paragraphs (3) and (4) of section 510(e) and” after “Department of Defense benefits under”.
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §535(b)(1), inserted “paragraphs (3) and (4) of section 510(e) and” after “Department of Defense benefits under”.
 
 Subsec. (b)(2)(E). Pub. L. 108–136, §535(b)(2), added subpar. (E).
 
-2001—Subsec. (b)(2)(D). Pub. L. 107–107 added subpar. (D).
+<b>2001</b>—Subsec. (b)(2)(D). Pub. L. 107–107 added subpar. (D).
 
-1999—Subsec. (a). Pub. L. 106–65, §550(1), substituted “armed forces education liabilities” for “Department of Defense education liabilities”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–65, §550(1), substituted “armed forces education liabilities” for “Department of Defense education liabilities”.
 
-Subsec. (b)(1). Pub. L. 106–65, §550(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Department of Defense education liabilities’ means liabilities of the Department of Defense for benefits under chapter 30 of title 38 and for benefits under chapter 1606 of this title.”
+Subsec. (b)(1). Pub. L. 106–65, §550(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Department of Defense education liabilities’ means liabilities of the Department of Defense forbenefits under chapter 30 of title 38 and for benefits under chapter 1606 of this title.”
 
 Subsec. (b)(2)(C). Pub. L. 106–65, §550(3), inserted “Department of Defense” after “future” and substituted “chapter 1606” for “chapter 106”.
 
@@ -100,19 +106,23 @@ Subsec. (f)(5). Pub. L. 106–65, §550(6), inserted “and the Department in wh
 
 Subsec. (g). Pub. L. 106–65, §550(7), inserted “and the Secretary of the Department in which the Coast Guard is operating” after “The Secretary of Defense” in pars. (1) and (2) and substituted “concerned” for “of a military department” in par. (3).
 
-1996—Subsec. (b)(1). Pub. L. 104–106, §1501(c)(21), substituted “chapter 1606 of this title” for “chapter 106 of this title”.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–106, §1501(c)(21), substituted “chapter 1606 of this title” for “chapter 106 of this title”.
 
 Subsec. (b)(2)(B)(ii). Pub. L. 104–106, §1503(a)(17), substituted “section 3012 of such title” for “section 1412 of such title”.
 
-1994—Subsec. (b)(2). Pub. L. 103–337 substituted “section 3015(d)”, “section 3011”, and “section 3021(b)” for “section 1415(c)”, “section 1411”, and “section 1421(b)”, respectively.
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–337 substituted “section 3015(d)”, “section 3011”, and “section 3021(b)” for “section 1415(c)”, “section 1411”, and “section 1421(b)”, respectively.
 
-1990—Subsec. (d). Pub. L. 101–510, §1484(j)(2), substituted “enable the Secretary of Veterans Affairs” for “enable the Administrator”.
+<b>1990</b>—Subsec. (d). Pub. L. 101–510, §1484(j)(2), substituted “enable the Secretary of Veterans Affairs” for “enable the Administrator”.
 
 Subsec. (e)(3). Pub. L. 101–510, §1322(a)(2), substituted “and shall recommend to the President and Congress” for “and report periodically, not less than once every four years, to the President and Congress on the status of the Fund and shall recommend”.
 
-1989—Subsec. (d). Pub. L. 101–189 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” in first sentence and “Secretary of Veterans Affairs” for “Administrator” in second sentence.
+<b>1989</b>—Subsec. (d). Pub. L. 101–189 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” in first sentence and “Secretary of Veterans Affairs” for “Administrator” in second sentence.
 
-1987—Subsec. (b). Pub. L. 100–26 inserted “The term” after each par. designation and substituted “normal” for “Normal” in par. (2).
+<b>1987</b>—Subsec. (b). Pub. L. 100–26 inserted “The term” after each par. designation and substituted “normal” for “Normal” in par. (2).
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–377, title I, §109(c), Jan. 4, 2011, 124 Stat. 4120, provided that: “The amendments made by this section \[amending this section and section 3316 of Title 38, Veterans’ Benefits\] shall take effect on August 1, 2011.”
 
 #### Effective Date of 1996 Amendment
 
@@ -129,4 +139,6 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 #### First Payment Into Fund
 
 Section 706(b) of Pub. L. 98–525 directed that first payment into Department of Defense Education Benefits Fund under this section be made not later than three months after Board of Actuaries determined amounts needed to be paid into Fund for that portion of fiscal year 1985 beginning on July 1, 1985, with first payment in a lump sum equal to total of amounts that would have been paid to Fund each month between July 1, 1985, and time such first payment was made.
+
+<i><sup>1</sup></i><i> So in original. Two subpars. (E) have been enacted.</i>
 

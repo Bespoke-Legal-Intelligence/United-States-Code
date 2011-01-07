@@ -30,9 +30,9 @@ Submittal of Information on Death.—If a board appointed under section 1503, 15
 
 #### Amendments
 
-1997—Subsec. (b)(3), (4). Pub. L. 105–85 added pars. (3) and (4).
+<b>1997</b>—Subsec. (b)(3), (4). Pub. L. 105–85 added pars. (3) and (4).
 
-1996—Subsec. (b)(3), (4). Pub. L. 104–201 struck out pars. (3) and (4) which read as follows:
+<b>1996</b>—Subsec. (b)(3), (4). Pub. L. 104–201 struck out pars. (3) and (4) which read as follows:
 
 “(3) A description of the location of the body, if recovered.
 

@@ -22,7 +22,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 #### (2) Mixed uses permitted to be counted
 
-&emsp;Bands of frequencies which a report of the Secretary under subsection (a) or (d)(1) of this section recommends be partially retained for use by Federal Government stations, but which are also recommended to be reallocated to be made available under the 1934 Act \[47 U.S.C. 151 et seq.\] for use by non-Federal stations, may be counted toward the minimum spectrum required by paragraph (1) or (3) of this subsection, except that—
+&emsp;Bands of frequencies which a report of the Secretary under subsection (a) or (d)(1) of this section recommends be partially retained for use by Federal Government stations, butwhich are also recommended to be reallocated to be made available under the 1934 Act \[47 U.S.C. 151 et seq.\] for use by non-Federal stations, may be counted toward the minimum spectrum required by paragraph (1) or (3) of this subsection, except that—
 
 &emsp;&emsp;(A) the bands of frequencies counted under this paragraph may not count toward more than one-half of the minimums required by paragraph (1) or (3) of this subsection;
 
@@ -98,7 +98,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 #### (B) Mixed use eligibility
 
-&emsp;&emsp;The frequencies assigned to any Federal power agency may only be eligible for mixeduse under subsection (b)(2) of this section in geographically separate areas, but in those cases where a frequency is to be shared by an affected Federal power agency and a non-Federal user, such use by the non-Federal user shall not cause harmful interference to the affected Federal power agency or adversely affect the reliability of its power system.
+&emsp;&emsp;The frequencies assigned to any Federal power agency may only be eligible for mixed use under subsection (b)(2) of this section in geographically separate areas, but in those cases where a frequency is to be shared by an affected Federal power agency and a non-Federal user, such use by the non-Federal user shall not cause harmful interference to the affected Federal power agency or adversely affect the reliability of its power system.
 
 #### (C) “Federal power agency” defined
 
@@ -156,13 +156,13 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 #### (f) Additional reallocation report
 
-If the Secretary receives a notice from the Commission pursuant to section 3002(c)(5) of the Balanced Budget Act of 1997, the Secretary shall prepare and submit to the President, the Commission, and the Congress a report recommending for reallocation for use other than by Federal Government stations under section 305 of the 1934 Act (47 U.S.C. 305), bands of frequencies that are suitable for the licensees identified inthe Commission's notice. The Commission shall, not later than one year after receipt of such report, prepare, submit to the President and the Congress, and implement, a plan for the immediate allocation and assignment of such frequencies under the 1934 Act \[47 U.S.C. 151 et seq.\] to incumbent licensees described in the Commission's notice.
+If the Secretary receives a notice from the Commission pursuant to section 3002(c)(5) of the Balanced Budget Act of 1997, the Secretary shall prepare and submit to the President, the Commission, and the Congress a report recommending for reallocation for use other than by Federal Government stations under section 305 of the 1934 Act (47 U.S.C. 305), bands of frequencies that are suitable for the licensees identified in the Commission's notice. The Commission shall, not later than one year after receipt of such report, prepare, submit to the President and the Congress, and implement, a plan for the immediate allocation and assignment of such frequencies under the 1934 Act \[47 U.S.C. 151 et seq.\] to incumbent licensees described in the Commission's notice.
 
 #### (g) Relocation of Federal Government stations
 
 #### (1) Eligible Federal entities
 
-&emsp;Any Federal entity that operates a Federal Government station assigned to a band of frequencies specified in paragraph (2) and that incurs relocation costs because of the reallocation of frequencies from Federal use to non-Federal use shall receive payment for such costs from the Spectrum Relocation Fund, in accordance with section 928 of this title. For purposes of this paragraph, Federal power agencies exempted under subsection (c)(4) of this section that choose to relocate from the frequencies identified for reallocation pursuant to subsection (a) of this section, are eligible to receive payment under this paragraph.
+&emsp;Any Federal entity that operates a Federal Government station assigned to a band of frequencies specified in paragraph (2) and that incurs relocation costs because of the reallocation of frequencies from Federal use to non-Federal use shall receive payment for such costs from the Spectrum Relocation Fund, in accordance with section 928 of this title. For purposes of this paragraph, Federal poweragencies exempted under subsection (c)(4) of this section that choose to relocate from the frequencies identified for reallocation pursuant to subsection (a) of this section, are eligible to receive payment under this paragraph.
 
 #### (2) Eligible frequencies
 
@@ -220,13 +220,13 @@ Section 3002(c)(5) of the Balanced Budget Act of 1997, referred to in subsec. (f
 
 #### Amendments
 
-2004—Subsec. (g). Pub. L. 108–494 added pars. (1) to (6) and struck out former pars. (1) to (3) which related to relocation of Federal Government stations in general, process for relocation, and right to reclaim.
+<b>2004</b>—Subsec. (g). Pub. L. 108–494 added pars. (1) to (6) and struck out former pars. (1) to (3) which related to relocation of Federal Government stations in general, process for relocation, and right to reclaim.
 
-1999—Subsec. (b)(3)(A). Pub. L. 106–65 substituted “12 megahertz” for “20 megahertz”.
+<b>1999</b>—Subsec. (b)(3)(A). Pub. L. 106–65 substituted “12 megahertz” for “20 megahertz”.
 
-1998—Subsec. (g)(1). Pub. L. 105–261 designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Any such Federal entity which proposes to so relocate shall notify the NTIA, which in turn shall notify the Commission, before the auction concerned of the marginal costs anticipated to be associated with such relocation or with modifications necessary to accommodate prospective licensees. The Commission in turn shall notify potential bidders of the estimated relocation or modification costs based on the geographic area covered by the proposed licenses before the auction.” for “Such payments may be in advance of relocation and may be in cash or in kind. Any such payment in cash shall be deposited in the account of such Federal entity in the Treasury of the United States or in a separate account authorized by law. Funds deposited according to this paragraph shall be available, without appropriation or fiscal year limitation, only for such expenses of the Federal entity for which such funds were deposited under this paragraph.”, and added subpars. (B) to (F).
+<b>1998</b>—Subsec. (g)(1). Pub. L. 105–261 designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Any such Federal entity which proposes to so relocate shall notify the NTIA, which in turn shall notify the Commission, before the auction concerned of the marginal costs anticipated to be associated with such relocation or with modifications necessary to accommodate prospective licensees. The Commission in turn shall notify potential bidders of the estimated relocation or modification costs based on the geographic area covered by the proposed licenses before the auction.” for “Such payments may be in advance of relocation and may be in cash or in kind. Any such payment in cash shall be deposited in the account of such Federal entity in the Treasury of the United States or in a separate account authorized by law. Funds deposited according to this paragraph shall be available, without appropriation or fiscal year limitation, only for such expenses of the Federal entity for which such funds were deposited under this paragraph.”, and added subpars. (B) to (F).
 
-1997—Subsec. (a). Pub. L. 105–33, §3002(e)(1), inserted “and within 6 months after August 5, 1997” after “August 10, 1993,” in introductory provisions.
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §3002(e)(1), inserted “and within 6 months after August 5, 1997” after “August 10, 1993,” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 105–33, §3002(e)(2)(A), (B), substituted “Initial reallocation report” for “In general” in heading and inserted “in the initial report required by subsection (a) of this section” after “recommend for reallocation” in text.
 

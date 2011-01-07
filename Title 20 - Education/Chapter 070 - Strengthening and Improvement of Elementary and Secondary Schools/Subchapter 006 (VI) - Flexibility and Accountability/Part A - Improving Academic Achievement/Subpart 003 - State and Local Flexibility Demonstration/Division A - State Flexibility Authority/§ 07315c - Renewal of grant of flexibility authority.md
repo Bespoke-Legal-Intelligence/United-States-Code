@@ -6,7 +6,7 @@ Except as provided in section 7315b of this title and in accordance with this se
 
 #### (b) Renewal
 
-The Secretary may not renew a grant of flexibility authority under this division unless, notlater than 6 months before the end of the original term of the grant of authority, the State educational agency seeking the renewal notifies the Secretary, and the local educational agencies with which the State educational agency has entered into performance agreements, of the agency's intention to renew the grant of authority.
+The Secretary may not renew a grant of flexibility authority under this division unless, not later than 6 months before the end of the original term of the grant of authority, the State educational agency seeking the renewal notifies the Secretary, and the local educational agencies with which the State educational agency has entered into performance agreements, of the agency's intention to renew the grant of authority.
 
 #### (c) Effective date
 

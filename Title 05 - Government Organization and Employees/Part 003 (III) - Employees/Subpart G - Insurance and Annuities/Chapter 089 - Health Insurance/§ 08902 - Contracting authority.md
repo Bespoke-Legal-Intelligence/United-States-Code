@@ -1,6 +1,6 @@
 ### §8902. Contracting authority
 
-(a) The Office of Personnel Management may contract with qualified carriers offering plans described by section 8903 or 8903a of this title, without regard to section 5 of title 41 or other statute requiring competitive bidding. Each contract shall be for a uniform term of at least 1 year, but may be made automatically renewable from term to term in the absence of notice of termination by either party.
+(a) The Office of Personnel Management may contract with qualified carriers offering plans described by section 8903 or 8903a of this title, without regard to section 6101(b) to (d) of title 41 or other statute requiring competitive bidding. Each contract shall be for a uniform term of at least 1 year, but may be made automatically renewable from term to term in the absence of notice of termination by either party.
 
 (b) To be eligible as a carrier for the plan described by section 8903(2) of this title, a company must be licensed to issue group health insurance in all the States and the District of Columbia.
 
@@ -34,7 +34,7 @@
 
 (m)(1) The terms of any contract under this chapter which relate to the nature, provision, or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any State or local law, or any regulation issued thereunder, which relates to health insurance or plans.
 
-(2)(A) Notwithstanding the provisions of paragraph (1) of this subsection, if a contract underthis chapter provides for the provision of, the payment for, or the reimbursement of the cost of health services for the care and treatment of any particular health condition, the carrier shall provide, pay, or reimburse up to the limits of its contract for any such health service properly provided by any person licensed under State law to provide such service if such service is provided to an individual covered by such contract in a State where 25 percent or more of the population is located in primary medical care manpower shortage areas designated pursuant to section 332 of the Public Health Service Act (42 U.S.C. 254e).
+(2)(A) Notwithstanding the provisions of paragraph (1) of this subsection, if a contract under this chapter provides for the provision of, the payment for, or the reimbursement of the cost of health services for the care and treatment of any particular health condition, the carrier shall provide, pay, or reimburse up to the limits of its contract for any such health service properly provided by any person licensed under State law to provide such service if such service is provided to an individual covered by such contract in a State where 25 percent or more of the population is located in primary medical care manpower shortage areas designated pursuant to section 332 of the Public Health Service Act (42 U.S.C. 254e).
 
 (B) The provisions of subparagraph (A) shall not apply to contracts entered into providing prepayment plans described in section 8903(4) of this title.
 
@@ -54,7 +54,7 @@
 
 (<i>o</i>) A contract may not be made or a plan approved which includes coverage for any benefit, item, or service for which funds may not be used under the Assisted Suicide Funding Restriction Act of 1997.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 601; Pub. L. 93–246, §3, Jan. 31, 1974, 88 Stat. 4; Pub. L. 93–363, §1, July 30, 1974, 88 Stat. 398; Pub. L. 94–183, §2(43), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 94–460, title I, §110(b), Oct. 8, 1976, 90 Stat. 1952; Pub. L. 95–368, §1, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–179, §3, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(2), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(a), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§105(b), 106(a)(3), Feb. 27, 1986, 100 Stat. 15, 16; Pub. L. 100–202, §101(m) \[title VI, §626\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 100–654, title II, §§201(b), 202(a), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 101–508, title VII, §7002(a), Nov. 5, 1990, 104 Stat. 1388–329; Pub. L. 101–509, title IV, §1, Nov. 5, 1990, 104 Stat. 1421; Pub. L. 102–393, title V, §537(a), (b), Oct. 6, 1992, 106 Stat. 1765; Pub. L. 105–12, §9(g), Apr. 30, 1997, 111 Stat. 27; Pub. L. 105–266, §§3(c), 8, Oct. 19, 1998, 112 Stat. 2366, 2370.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 601; Pub. L. 93–246, §3, Jan. 31, 1974, 88 Stat. 4; Pub. L. 93–363, §1, July 30, 1974, 88 Stat. 398; Pub. L. 94–183, §2(43), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 94–460, title I, §110(b), Oct. 8, 1976, 90 Stat. 1952; Pub. L. 95–368, §1, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–179, §3, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(2), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(a), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§105(b), 106(a)(3), Feb. 27, 1986, 100 Stat. 15, 16; Pub. L. 100–202, §101(m) \[title VI, §626\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 100–654, title II, §§201(b), 202(a), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 101–508, title VII, §7002(a), Nov. 5, 1990, 104 Stat. 1388–329; Pub. L. 101–509, title IV, §1, Nov. 5, 1990, 104 Stat. 1421; Pub. L. 102–393, title V, §537(a), (b), Oct. 6, 1992, 106 Stat. 1765; Pub. L. 105–12, §9(g), Apr. 30, 1997, 111 Stat. 27; Pub. L. 105–266, §§3(c), 8, Oct. 19, 1998, 112 Stat. 2366, 2370; Pub. L. 111–350, §5(a)(15), Jan. 4, 2011, 124 Stat. 3842.)
 
 Historical and Revision Notes
 
@@ -87,6 +87,8 @@ The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (<i
 Another section 1 of title IV of Pub. L. 101–509, 104 Stat. 1416, enacted sections 2701 to 2706 of Title 44, Public Printing and Documents, and provisions set out as a note under section 2102 of Title 44.
 
 #### Amendments
+
+2011—Subsec. (a). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 5 of title 41”.
 
 1998—Subsec. (k)(2), (3). Pub. L. 105–266, §8, added par. (2) and redesignated former par. (2) as (3).
 
@@ -186,7 +188,7 @@ Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions,
 
 #### Effective Date of 1980 Amendment
 
-Section 5(b) of Pub. L. 96–179, as amended by Pub. L. 99–251, title I, §106(a)(2), Feb. 27, 1986, 100 Stat. 16, provided that: “The amendments made by section 3 \[amending this section\] shall apply to services provided after December 31, 1979, under any contract entered into or renewed after December 31, 1979.”
+Section 5(b) of Pub. L. 96–179, as amended by Pub. L. 99–251, title I, §106(a)(2), Feb. 27, 1986, 100 Stat. 16, provided that: “The amendments made by section 3 \[amending this section\] shall apply to services providedafter December 31, 1979, under any contract entered into or renewed after December 31, 1979.”
 
 #### Effective Date of 1978 Amendments
 

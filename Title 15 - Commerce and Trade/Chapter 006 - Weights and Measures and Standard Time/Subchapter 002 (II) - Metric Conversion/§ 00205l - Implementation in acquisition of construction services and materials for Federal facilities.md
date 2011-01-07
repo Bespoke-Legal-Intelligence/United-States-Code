@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Construction services and materials for Federal facilities shall be procured in accordance with the policies and procedures set forth in chapter 137 of title 10, section 2377 of title 10, title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.), and section 205b(2) of this title. Determination of a design method shall be based upon preliminary market research as required under section 2377(c) of title 10 and section 314B(c) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 264b(c)). If the requirements of this subchapter conflict with the provisions of section 2377 of title 10 or section 314B of the Federal Property and Administrative Services Act of 1949, then the provisions of <sup>1</sup> 2377 or 314B shall take precedence.
+Construction services and materials for Federal facilities shall be procured in accordance with the policies and procedures set forth in chapter 137 of title 10, section 2377 of title 10, division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, and section 205b(2) of this title. Determinationof a design method shall be based upon preliminary market research as required under section 2377(c) of title 10 and section 3307(d) of title 41. If the requirements of this subchapter conflict with the provisions of section 2377 of title 10 or section 3307(b) to (d) of title 41, then the provisions of <sup>1</sup> 2377 or 3307(b) to (d) shall take precedence.
 
 #### (b) Concrete masonry units
 
@@ -22,7 +22,7 @@ In carrying out the policy set forth in section 205b of this title (with particu
 
 &emsp;(1) the predominant voluntary industry consensus standards include the use of hard-metric for the items specified; or
 
-&emsp;(2) hard-metric specifications are necessary in a contract for the repair or replacement ofparts of Federal facilities in existence or under construction upon the effective date of the Savings in Construction Act of 1996; or
+&emsp;(2) hard-metric specifications are necessary in a contract for the repair or replacement of parts of Federal facilities in existence or under construction upon the effective date of the Savings in Construction Act of 1996; or
 
 &emsp;(3) the following 2 criteria are met:
 
@@ -52,7 +52,7 @@ The provisions of subsections (b) and (c) of this section shall not apply to Fed
 
 &emsp;(A) whether the agency is adequately applying the policies and procedures in this section;
 
-&emsp;(B) whether the availability of hard-metric products and services from United States firms is sufficient to ensure full and open competition; and
+&emsp;(B) whether the availability of hard-metric products and services from United Statesfirms is sufficient to ensure full and open competition; and
 
 &emsp;(C) the total installed price to the Federal Government.
 
@@ -64,17 +64,21 @@ The provisions of subsections (b) and (c) of this section shall not apply to Fed
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
-
 The effective date of the Savings in Construction Act of 1996, referred to in subsecs. (b)(1) and (c)(2), is 90 days after Oct. 11, 1996. See Effective Date of 1996 Amendment; Savings Provision note set out under section 205c of this title.
+
+#### Codification
+
+In subsec. (a), “division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”, “section 3307(d) of title 41” substituted for “section 314B(c) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 264b(c))”, “section 3307(b) to (d) of title 41” substituted for “section 314B of the Federal Property and Administrative Services Act of 1949”, and “or 3307(b) to (d)” substituted for “or 314B” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-2004—Subsec. (e). Pub. L. 108–423 struck out heading and text of subsec. (e). Text read as follows: “The provisions contained in subsections (b) and (c) of this section shall expire 10 years from the effective date of the Savings in Construction Act of 1996.”
+<b>2004</b>—Subsec. (e). Pub. L. 108–423 struck out heading and text of subsec. (e). Text read as follows: “The provisions contained in subsections (b) and (c) of this section shall expire 10 years from the effective date of the Savings in Construction Act of 1996.”
 
-1996—Pub. L. 104–289, §5, added subsec. (f).
+<b>1996</b>—Pub. L. 104–289, §5, added subsec. (f).
 
 #### Effective Date; Savings Provision
 
 Section effective 90 days after Oct. 11, 1996, and inapplicable to contracts awarded and solicitations issued on or before that date, unless head of Federal agency makes written determination that it would be in public interest to apply one or more provisions of Pub. L. 104–289 to these existing contracts or solicitations, see section 6(b) of Pub. L. 104–289, set out as an Effective Date of 1996 Amendment; Savings Provision note under section 205c of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “section”.</i>
 

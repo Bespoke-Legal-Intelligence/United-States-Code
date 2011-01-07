@@ -46,7 +46,7 @@ A prior section 12673, Pub. L. 101–610, title IV, §403, Nov. 16, 1990, 104 St
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–13, §1831(b)(1), substituted “term ‘administrative organization’ means a nonprofit private organization that enters into an agreement with the Corporation to carry out this section.” for “term ‘Foundation’ means the Points of Light Foundation funded under section 301, or another nonprofit private organization, that enters into an agreement with the Corporation to carry out this section.”
+<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1831(b)(1), substituted “term ‘administrative organization’ means a nonprofit private organization that enters into an agreement with the Corporation to carry out this section.” for “term ‘Foundation’ means the Points of Light Foundation funded under section 301, or another nonprofit private organization, that enters into an agreement with the Corporation to carry out this section.”
 
 Subsecs. (b), (d), (e). Pub. L. 111–13, §1831(b)(2), substituted “administrative organization” for “Foundation” wherever appearing.
 

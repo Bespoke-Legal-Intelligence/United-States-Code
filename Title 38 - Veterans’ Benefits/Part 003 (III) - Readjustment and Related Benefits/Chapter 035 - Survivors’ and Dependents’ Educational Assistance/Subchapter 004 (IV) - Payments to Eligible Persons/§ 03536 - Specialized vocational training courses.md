@@ -6,13 +6,13 @@ The Secretary may approve a specialized course of vocational training leading to
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 1736 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1736 of this title as this section.
 
-1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1976—Pub. L. 94–502 substituted “if the Administrator finds” for “if he finds”.
+<b>1976</b>—Pub. L. 94–502 substituted “if the Administrator finds” for “if he finds”.
 
-1963—Pub. L. 88–126 substituted “The” for “Notwithstanding the provisions of subsections (b) and (c) of section 1735 of this title, the”.
+<b>1963</b>—Pub. L. 88–126 substituted “The” for “Notwithstanding the provisions of subsections (b) and (c) of section 1735 of this title, the”.
 
 #### Effective Date of 1976 Amendment
 

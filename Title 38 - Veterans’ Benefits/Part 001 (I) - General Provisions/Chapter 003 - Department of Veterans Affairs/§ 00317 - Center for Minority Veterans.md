@@ -8,7 +8,7 @@
 
 (d) The Director shall perform the following functions with respect to veterans who are minorities:
 
-&emsp;(1) Serve as principal adviser to the Secretary on the adoption and implementation of policies and programs affecting veterans who are minorities.
+&emsp;(1) Serve as principal adviser to the Secretary on the adoption and implementation ofpolicies and programs affecting veterans who are minorities.
 
 &emsp;(2) Make recommendations to the Secretary, the Under Secretary for Health, the Under Secretary for Benefits, and other Department officials for the establishment or improvement of programs in the Department for which veterans who are minorities are eligible.
 
@@ -56,7 +56,7 @@ Prior section 317, added Pub. L. 102–218, §1(a), Dec. 11, 1991, 105 Stat. 167
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–275, §501(a), inserted “career or” before “noncareer”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–275, §501(a), inserted “career or” before “noncareer”.
 
 Subsec. (d)(10) to (12). Pub. L. 104–275, §501(b), added pars. (10) and (11) and redesignated former par. (10) as (12).
 

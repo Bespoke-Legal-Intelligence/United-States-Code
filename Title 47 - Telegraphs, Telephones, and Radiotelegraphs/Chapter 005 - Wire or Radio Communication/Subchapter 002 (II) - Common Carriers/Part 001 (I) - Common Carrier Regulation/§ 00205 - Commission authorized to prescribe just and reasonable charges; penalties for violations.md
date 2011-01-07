@@ -8,5 +8,5 @@
 
 #### Amendments
 
-1989—Subsec. (b). Pub. L. 101–239 substituted “$12,000” for “$1,000”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–239 substituted “$12,000” for “$1,000”.
 

@@ -20,7 +20,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;&emsp;(A) to screen men for prostate cancer as a preventive health measure;
 
-&emsp;&emsp;(B) to provide appropriate referrals for the medical treatment of men who have been screened under subparagraph (A) and to ensure, to the extent practicable, the provisionof appropriate followup services and support services such as case management;
+&emsp;&emsp;(B) to provide appropriate referrals for the medical treatment of men who have been screened under subparagraph (A) and to ensure, to the extent practicable, the provision of appropriate followup services and support services such as case management;
 
 &emsp;&emsp;(C) to establish mechanisms through which State and local health departments can monitor the quality of screening procedures for prostate cancer, including the interpretation of such procedures; and
 
@@ -44,7 +44,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (c) Education on significance of early detection
 
-The Secretary may not make a grant under subsection (a) of this section unless the applicant involved agrees that, in carrying out subsection (a)(3) of this section, the applicant will carry out education programs to communicate to men, and to local health officials, the significance of the early detection of prostate cancer.
+The Secretary may not make a grant under subsection (a) of this section unless the applicant involved agrees that, in carrying out subsection (a)(3) of this section, the applicant will carry out education programs to communicateto men, and to local health officials, the significance of the early detection of prostate cancer.
 
 #### (d) Requirement of provision of all services by date certain
 
@@ -150,7 +150,7 @@ For purposes of this section, the term “units of local government” includes 
 
 &emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall reserve not more than 20 percent for carrying out subsection (j)(1) of this section.
 
-(July 1, 1944, ch. 373, title III, §317D, as added Pub. L. 102–531, title III, §308, Oct. 27, 1992, 106Stat. 3495; amended Pub. L. 103–43, title XX, §2010(i)(1)(B)(iv), June 10, 1993, 107 Stat. 213; Pub. L. 103–183, title VII, §705(b), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §401(a)(3), Nov. 13, 1998, 112 Stat. 3587; Pub. L. 106–505, title VI, §602(a), Nov. 13, 2000, 114 Stat. 2345.)
+(July 1, 1944, ch. 373, title III, §317D, as added Pub. L. 102–531, title III, §308, Oct. 27, 1992, 106 Stat. 3495; amended Pub. L. 103–43, title XX, §2010(i)(1)(B)(iv), June 10, 1993, 107 Stat. 213; Pub. L. 103–183, title VII, §705(b), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §401(a)(3), Nov. 13, 1998, 112 Stat. 3587; Pub. L. 106–505, title VI, §602(a), Nov. 13, 2000, 114 Stat. 2345.)
 
 #### References in Text
 
@@ -158,7 +158,7 @@ The Social Security Act, referred to in subsec. (b)(2)(C), is act Aug. 14, 1935,
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–505, §602(a)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States and local health departments for the purpose of enabling such States and departments to carry out programs—
+<b>2000</b>—Subsec. (a). Pub. L. 106–505, §602(a)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States and local health departments for the purpose of enabling such States and departments to carry out programs—
 
 &emsp;“(1) to screen men for prostate cancer as a preventive health measure;
 
@@ -174,9 +174,9 @@ The Social Security Act, referred to in subsec. (b)(2)(C), is act Aug. 14, 1935,
 
 Subsec. (<i>l</i>)(1). Pub. L. 106–505, §602(a)(2), substituted “2004” for “1998”.
 
-1998—Subsec. (<i>l</i>)(1). Pub. L. 105–392 made technical amendment to directory language of Pub. L. 103–183. See 1993 Amendment note below.
+<b>1998</b>—Subsec. (<i>l</i>)(1). Pub. L. 105–392 made technical amendment to directory language of Pub. L. 103–183. See 1993 Amendment note below.
 
-1993—Pub. L. 103–43 made technical amendment to directory language of Pub. L. 102–531, §308, which enacted this section.
+<b>1993</b>—Pub. L. 103–43 made technical amendment to directory language of Pub. L. 102–531, §308, which enacted this section.
 
 Subsec. (<i>l</i>)(1). Pub. L. 103–183, as amended by Pub. L. 105–392, substituted “through 1998” for “through 1996”.
 

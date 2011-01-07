@@ -18,7 +18,7 @@ Not later than 18 months before the date on which the Secretary commences offeri
 
 #### Amendments
 
-1996—Pub. L. 104–273 amended section generally. Prior to amendment, section related to individual enterprise in developing helium.
+<b>1996</b>—Pub. L. 104–273 amended section generally. Prior to amendment, section related to individual enterprise in developing helium.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

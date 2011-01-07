@@ -24,7 +24,7 @@ Provisions similar to those in this section were contained in section 5036 of th
 
 #### Amendments
 
-1994—Pars. (3) to (5). Pub. L. 103–337 added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+<b>1994</b>—Pars. (3) to (5). Pub. L. 103–337 added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
 #### Order of Succession
 

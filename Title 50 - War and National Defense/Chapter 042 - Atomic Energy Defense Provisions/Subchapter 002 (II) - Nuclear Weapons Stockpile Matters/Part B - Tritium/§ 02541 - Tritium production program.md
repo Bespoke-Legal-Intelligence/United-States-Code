@@ -60,7 +60,7 @@ Section was formerly set out as a note under section 2121 of Title 42, The Publi
 
 #### Amendments
 
-2003—Subsec. (a)(1). Pub. L. 108–136, §3141(e)(16)(D)(i), substituted “February 10, 1996” for “the date of the enactment of this Act”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136, §3141(e)(16)(D)(i), substituted “February 10, 1996” for “the date of the enactment of this Act”.
 
 Subsec. (b). Pub. L. 108–136, §3141(e)(16)(D)(ii), inserted “of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106)” after “section 3101”.
 

@@ -6,7 +6,7 @@ All prospecting permits and leases for oil or gas made or issued under the provi
 
 #### (b) Prior leases
 
-In cases where water wells producing such water have heretofore been or may hereafter bedrilled upon lands embraced in any prospecting permit or lease heretofore issued under this chapter, the Secretary may in like manner purchase the casing in such wells.
+In cases where water wells producing such water have heretofore been or may hereafter be drilled upon lands embraced in any prospecting permit or lease heretofore issued under this chapter, the Secretary may in like manner purchase the casing in such wells.
 
 #### (c) Disposition
 
@@ -14,7 +14,7 @@ The Secretary may make such purchase and may lease or operate such wells for the
 
 #### (d) Revolving fund
 
-The Secretary may use so much of any funds available for the plugging of wells as he may find necessary to start the program provided for by this section, and thereafter he may use the proceeds from the sale or other disposition of such water as a revolving fund for the continuation of such program, and such proceeds are hereby appropriated for such purpose.
+The Secretary may use so much of any funds available for the plugging of wells, as he may find necessary to start the program provided forby this section, and thereafter he may use the proceeds from the sale or other disposition of such water as a revolving fund for the continuation of such program, and such proceeds are hereby appropriated for such purpose.
 
 #### (e) Operations under lease not restricted
 
@@ -24,7 +24,7 @@ Nothing in this section shall be construed to restrict operations under any oil 
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–579 struck out proviso relating to reservation of land as a water hole under section 300 of title 43.
+<b>1976</b>—Subsec. (a). Pub. L. 94–579 struck out proviso relating to reservation of land as a water hole under section 300 of title 43.
 
 #### Effective Date of 1976 Amendment
 

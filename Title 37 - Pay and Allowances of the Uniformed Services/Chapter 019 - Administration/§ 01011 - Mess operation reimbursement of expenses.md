@@ -1,6 +1,6 @@
 ### §1011. Mess operation: reimbursement of expenses
 
-(a) The Secretary of Defense shall, by regulation, establish rates for meals sold at messes to officers, civilians, and enlisted members. Such rates shall be established at a level sufficient to provide reimbursement of operating expenses and food costs to the appropriations concerned, but members of the uniformed services and civilians in a travel status receiving a per diem allowance in lieu of subsistence shall be charged at a rate of not less than $2.50 per day. Notwithstanding the preceding sentence, if the Secretary determines that it is in the best interest of the United States, the Secretary may reduce a rate for meals established under this subsection by the amount of that rate attributable to operating expenses.
+(a) The Secretary of Defense shall, by regulation, establish rates for meals sold at messes to officers, civilians, and enlisted members. Such rates shall be established at a level sufficient to provide reimbursement of operating expenses and food costs to the appropriations concerned,but members of the uniformed services and civilians in a travel status receiving a per diem allowance in lieu of subsistence shall be charged at a rate of not less than $2.50 per day. Notwithstanding the preceding sentence, if the Secretary determines that it is in the best interest of the United States, the Secretary may reduce a rate for meals established under this subsection by the amount of that rate attributable to operating expenses.
 
 (b) For the purposes of this section, payment for meals at the rates established under this section may be made in cash or, in the case of enlisted members or civilian employees, by deduction from pay. Members of organized nonprofit youth groups sponsored at either the national or local level, when extended the privilege of visiting a military installation or when residing at a military installation pursuant to an agreement in effect on June 30, 1986, and permitted to eat in the general mess by the commanding officer of the installation, shall pay the commuted ration cost of such meal or meals.
 
@@ -12,15 +12,15 @@
 
 #### Amendments
 
-2002—Subsec. (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1996—Subsec. (d). Pub. L. 104–324 added subsec. (d).
+<b>1996</b>—Subsec. (d). Pub. L. 104–324 added subsec. (d).
 
-1989—Subsec. (a). Pub. L. 101–189 substituted “and enlisted members” for “or enlisted members entitled to a per diem transportation allowance determined under section 404(d)(2) of this title” and inserted at end “Notwithstanding the preceding sentence, if the Secretary determines that it is in the best interest of the United States, the Secretary may reduce a rate for meals established under this subsection by the amount of that rate attributable to operating expenses.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–189 substituted “and enlisted members” for “or enlisted members entitled to a per diem transportation allowance determined under section 404(d)(2) of this title” and inserted at end “Notwithstanding the preceding sentence, if the Secretary determines that it is in the best interest of the United States, the Secretary may reduce a rate for meals established under this subsection by the amount of that rate attributable to operating expenses.”
 
-1986—Subsec. (b). Pub. L. 99–661 inserted “or when residing at a military installation pursuant to an agreement in effect on June 30, 1986,” in second sentence.
+<b>1986</b>—Subsec. (b). Pub. L. 99–661 inserted “or when residing at a military installation pursuant to an agreement in effect on June 30, 1986,” in second sentence.
 
-1985—Subsec. (c). Pub. L. 99–145 added subsec. (c).
+<b>1985</b>—Subsec. (c). Pub. L. 99–145 added subsec. (c).
 
 #### Effective Date of 2002 Amendment
 

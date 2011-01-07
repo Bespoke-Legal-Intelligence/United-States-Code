@@ -14,9 +14,9 @@ R.S. §5579, as originally enacted, constituted the President, the Vice-Presiden
 
 #### Amendments
 
-1894—Act Mar. 12, 1894, substituted “the Chief Justice, and heads of executive departments” for “the Secretary of State, the Secretary of the Treasury, the Secretary of War, the Secretary of the Navy, the Postmaster-General, the Attorney General, the Chief Justice, the Commissioner of Patents, the governor of the District of Columbia, and other such persons as they may elect honorary members”.
+<b>1894</b>—Act Mar. 12, 1894, substituted “the Chief Justice, and heads of executive departments” for “the Secretary of State, the Secretary of the Treasury, the Secretary of War, the Secretary of the Navy, the Postmaster-General, the Attorney General, the Chief Justice, the Commissioner of Patents, the governor of the District of Columbia, and other such persons as they may elect honorary members”.
 
-1877—Act Feb. 27, 1877, substituted “Patents” for “Patent Office”.
+<b>1877</b>—Act Feb. 27, 1877, substituted “Patents” for “Patent Office”.
 
 #### Short Title of 2003 Amendment
 

@@ -6,7 +6,7 @@ The Comptroller General may conduct verification examinations with respect to th
 
 &emsp;(1) any person who is required to submit energy information to the Secretary, the Department of the Interior, or the Federal Energy Regulatory Commission pursuant to any rule, regulation, order, or other legal process of such Secretary, Department or Commission;
 
-&emsp;(2) any person who is engaged in the production, processing, refining, transportation by pipeline, or distribution (at other than the retail level) of energy resources—
+&emsp;(2) any person who is engaged in the production, processing, refining, transportation bypipeline, or distribution (at other than the retail level) of energy resources—
 
 &emsp;&emsp;(A) if such person has furnished, directly or indirectly, energy information (without regard to whether such information was furnished pursuant to legal requirements) to any Federal agency (other than the Internal Revenue Service), and
 
@@ -16,7 +16,7 @@ The Comptroller General may conduct verification examinations with respect to th
 
 #### (b) Request for examination
 
-The Comptroller General shall conduct verification examinations of any person or company described in subsection (a) of this section, if requested to do so by any duly established committee of the Congress having legislative or oversight responsibilities under the rules of theHouse of Representatives or of the Senate, with respect to energy matters or any of the laws administered by the Department of the Interior (or the Secretary thereof), the Federal Energy Regulatory Commission, or the Secretary.
+The Comptroller General shall conduct verification examinations of any person or company described in subsection (a) of this section, if requested to do so by any duly established committee of the Congress having legislative or oversight responsibilities under the rules of the House of Representatives or of the Senate, with respect to energy matters or any of the laws administered by the Department of the Interior (or the Secretary thereof), the Federal Energy Regulatory Commission, or the Secretary.
 
 #### (c) Definitions
 
@@ -32,9 +32,13 @@ For the purposes of this subchapter—
 
 (Pub. L. 94–163, title V, §501, Dec. 22, 1975, 89 Stat. 956; Pub. L. 95–91, title III, §301, title IV, §402, title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 583, 606, 607; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288.)
 
+#### References in Text
+
+This subchapter, referred to in subsec. (c), was in the original “this title”, meaning title V of Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 956, which is classified principally to this subchapter. For complete classification of title V to the Code, see Tables.
+
 #### Amendments
 
-1978—Subsec. (b). Pub. L. 95–619 purported to substitute “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration. See Transfer of Functions note below.
+<b>1978</b>—Subsec. (b). Pub. L. 95–619 purported to substitute “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration. See Transfer of Functions note below.
 
 #### Transfer of Functions
 

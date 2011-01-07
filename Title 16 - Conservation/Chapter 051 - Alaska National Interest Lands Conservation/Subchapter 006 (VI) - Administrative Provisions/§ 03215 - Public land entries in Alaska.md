@@ -56,3 +56,7 @@ The Alaska Statehood Act, referred to in subsec. (d), is Pub. L. 85–508, July 
 
 Act of May 17, 1906, as amended, referred to in subsec. (d), is act May 17, 1906, ch. 2469, 34 Stat. 197, as amended, which was classified to sections 270–1 to 270–3 of Title 43, Public Lands, prior to its repeal by Pub. L. 92–203, §18(a), Dec. 18, 1971, 85 Stat. 710. See section 1617 of Title 43.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “this”.</i>
+

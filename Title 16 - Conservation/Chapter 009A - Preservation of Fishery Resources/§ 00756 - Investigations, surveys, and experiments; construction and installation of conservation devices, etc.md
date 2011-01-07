@@ -6,7 +6,7 @@ The Secretary of Commerce is further authorized and directed (1) to conduct such
 
 #### Amendments
 
-1946—Act Aug. 8, 1946, struck out requirement to maintain conservation devices, etc.
+<b>1946</b>—Act Aug. 8, 1946, struck out requirement to maintain conservation devices, etc.
 
 #### Transfer of Functions
 

@@ -38,7 +38,7 @@ A prior section 561, added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 619
 
 #### Amendments
 
-2006—Subsec. (i). Pub. L. 109–177 added subsec. (i).
+<b>2006</b>—Subsec. (i). Pub. L. 109–177 added subsec. (i).
 
-2002—Subsec. (i). Pub. L. 107–273 struck out subsec. (i) which read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out the functions of the Service.”
+<b>2002</b>—Subsec. (i). Pub. L. 107–273 struck out subsec. (i) which read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out the functions of the Service.”
 

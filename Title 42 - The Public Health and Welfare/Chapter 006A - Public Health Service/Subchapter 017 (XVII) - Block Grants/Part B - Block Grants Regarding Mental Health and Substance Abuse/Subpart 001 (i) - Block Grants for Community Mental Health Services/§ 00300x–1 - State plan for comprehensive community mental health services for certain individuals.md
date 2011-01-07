@@ -92,7 +92,7 @@ Section 300x–1b, act July 1, 1944, ch. 373, title XIX, §1913, as added Oct. 1
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–310 added pars. (1) to (5) and concluding provisions and struck out former pars. (1) to (12) relating to criteria for plan.
+<b>2000</b>—Subsec. (b). Pub. L. 106–310 added pars. (1) to (5) and concluding provisions and struck out former pars. (1) to (12) relating to criteria for plan.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

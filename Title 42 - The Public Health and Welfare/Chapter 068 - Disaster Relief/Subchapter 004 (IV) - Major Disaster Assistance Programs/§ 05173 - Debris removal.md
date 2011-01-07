@@ -38,9 +38,9 @@ A prior section 407 of Pub. L. 93–288 was renumbered section 410 by Pub. L. 10
 
 #### Amendments
 
-2006—Subsec. (e). Pub. L. 109–347 added subsec. (e).
+<b>2006</b>—Subsec. (e). Pub. L. 109–347 added subsec. (e).
 
-1988—Subsec. (a)(2). Pub. L. 100–707, §106(c)(2), inserted “or owner or operator of a private nonprofit facility” after “local government”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–707, §106(c)(2), inserted “or owner or operator of a private nonprofit facility” after “local government”.
 
 Subsecs. (c), (d). Pub. L. 100–707, §106(c)(3), added subsecs. (c) and (d).
 

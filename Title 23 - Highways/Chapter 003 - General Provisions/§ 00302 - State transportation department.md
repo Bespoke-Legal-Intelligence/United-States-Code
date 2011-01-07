@@ -10,7 +10,7 @@ Effect of Compliance.—Compliance with subsection (a) shall have no effect on t
 
 #### Amendments
 
-1998—Pub. L. 105–178, §1212(a)(2)(B)(ii), substituted “State transportation department” for “State highway department” in section catchline.
+<b>1998</b>—Pub. L. 105–178, §1212(a)(2)(B)(ii), substituted “State transportation department” for “State highway department” in section catchline.
 
 Subsec. (a). Pub. L. 105–178, §1212(a)(1)(A), (2)(A)(i), substituted “State transportation department” for “State highway department” and struck out after first sentence “Among other things, the organization shall include a secondary road unit.”
 

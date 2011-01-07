@@ -20,5 +20,5 @@ Operational Files Defined.—In this section, the term “operational files” h
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in introductory provisions.
+<b>2003</b>—Subsec. (b). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in introductory provisions.
 

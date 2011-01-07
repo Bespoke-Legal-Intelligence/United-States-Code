@@ -66,13 +66,13 @@ The Defense Dependents’ Education Act of 1978, referred to in subsec. (b)(1), 
 
 #### Amendments
 
-2004—Subsec. (b)(2) to (4). Pub. L. 108–375 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+<b>2004</b>—Subsec. (b)(2) to (4). Pub. L. 108–375 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-2003—Subsec. (b)(2). Pub. L. 108–136 inserted before period at end of first sentence “or during a different period in the same fiscal year selected by the member”.
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–136 inserted before period at end of first sentence “or during a different period in the same fiscal year selected by the member”.
 
-2002—Subsec. (f). Pub. L. 107–314 added subsec. (f) and struck out heading and text of former subsec. (f). Text defined the terms “continental United States” and “formal education”.
+<b>2002</b>—Subsec. (f). Pub. L. 107–314 added subsec. (f) and struck out heading and text of former subsec. (f). Text defined the terms “continental United States” and “formal education”.
 
-2001—Subsec. (a). Pub. L. 107–107, §639(a), inserted heading and amended text generally. Prior to amendment, text read as follows:
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §639(a), inserted heading and amended text generally. Prior to amendment, text read as follows:
 
 “(a) Under regulations to be prescribed by the Secretary of Defense, a member of a uniformed service who—
 
@@ -100,19 +100,19 @@ Subsec. (e). Pub. L. 107–107, §639(c)(3), inserted heading.
 
 Subsec. (f). Pub. L. 107–107, §639(c)(4), inserted heading.
 
-2000—Subsecs. (a)(3), (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title VI, §646(1)\], substituted “for the purpose of obtaining a formal education” for “for the purpose of obtaining a secondary or undergraduate college education”.
+<b>2000</b>—Subsecs. (a)(3), (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title VI, §646(1)\], substituted “for the purpose of obtaining a formal education” for “for the purpose of obtaining a secondary or undergraduate college education”.
 
 Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title VI, §646(2)\], substituted “In this section:” for “In this section,”, inserted par. (1) designation, substituted “The term” for “the term”, and added par. (2).
 
-1998—Subsec. (b). Pub. L. 105–261 designated existing provisions as par. (1) and added par. (2).
+<b>1998</b>—Subsec. (b). Pub. L. 105–261 designated existing provisions as par. (1) and added par. (2).
 
-1991—Subsec. (a). Pub. L. 102–25 struck out “of this subsection” after “clause (3)” in par. (2) and “of this section” after “subsection (b)” in concluding provisions.
+<b>1991</b>—Subsec. (a). Pub. L. 102–25 struck out “of this subsection” after “clause (3)” in par. (2) and “of this section” after “subsection (b)” in concluding provisions.
 
 Subsec. (b). Pub. L. 102–25, §702(b)(1), struck out “of this section” after “subsection (a)”.
 
-1990—Subsec. (b). Pub. L. 101–510 inserted “(20 U.S.C. 921 et seq.)” after “Education Act of 1978”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–510 inserted “(20 U.S.C. 921 et seq.)” after “Education Act of 1978”.
 
-1989—Subsec. (a). Pub. L. 101–189, §625(a)(1), inserted “continental” before “United States” in pars. (1) and (3) and struck out “oversea” before “duty station” in par. (2).
+<b>1989</b>—Subsec. (a). Pub. L. 101–189, §625(a)(1), inserted “continental” before “United States” in pars. (1) and (3) and struck out “oversea” before “duty station” in par. (2).
 
 Subsec. (b). Pub. L. 101–189, §625(a)(2), inserted “continental” before “United States” in two places and substituted “outside the continental United States” for “in the oversea area”.
 

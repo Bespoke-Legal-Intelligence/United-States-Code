@@ -34,7 +34,7 @@ The Commission shall, by rule, condition the manufacturing for sale, offering fo
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–314, §215(c)(1), inserted subsec. heading.
+<b>2008</b>—Subsec. (a). Pub. L. 110–314, §215(c)(1), inserted subsec. heading.
 
 Subsec. (a)(1). Pub. L. 110–314, §215(a)(1), substituted “(B) any firewalled conformity assessment bodies accredited under section 2063(f)(2)(D) of this title, or (C)” for “or (B)”.
 

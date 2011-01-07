@@ -16,7 +16,7 @@ Notice; Claim; Complaint.—
 
 &emsp;(iv) In a case in which the property is seized by a State or local law enforcement agency and turned over to a Federal law enforcement agency for the purpose of forfeiture under Federal law, notice shall be sent not more than 90 days after the date of seizure by the State or local law enforcement agency.
 
-&emsp;(v) If the identity or interest of a party is not determined until after the seizure or turnover but is determined before a declaration of forfeiture is entered, notice shall be sent to such interested party not later than 60 days after the determination by the Government ofthe identity of the party or the party's interest.
+&emsp;(v) If the identity or interest of a party is not determined until after the seizure or turnover but is determined before a declaration of forfeiture is entered, notice shall be sent to such interested party not later than 60 days after the determination by the Government of the identity of the party or the party's interest.
 
 &emsp;(B) A supervisory official in the headquarters office of the seizing agency may extend the period for sending notice under subparagraph (A) for a period not to exceed 30 days (which period may not be further extended except by a court), if the official determines that the conditions in subparagraph (D) are present.
 
@@ -142,7 +142,7 @@ Innocent Owner Defense.—
 
 &emsp;&emsp;(iv) the claimant acquired his or her interest in the property through marriage, divorce, or legal separation, or the claimant was the spouse or legal dependent of a person whose death resulted in the transfer of the property to the claimant through inheritance or probate,
 
-> &emsp;except that the court shall limit the value of any real property interest for which innocent ownership is recognized under this subparagraph to the value necessary to maintain reasonable shelter in the community for suchclaimant and all dependents residing with the claimant.
+> &emsp;except that the court shall limit the value of any real property interest for which innocent ownership is recognized under this subparagraph to the value necessary to maintain reasonable shelter in the community for such claimant and all dependents residing with the claimant.
 
 &emsp;(4) Notwithstanding any provision of this subsection, no person may assert an ownership interest under this subsection in contraband or other property that it is illegal to possess.
 
@@ -302,11 +302,11 @@ Restraining Orders; Protective Orders.—
 
 &emsp;&emsp;&emsp;(i) there is a substantial probability that the United States will prevail on the issue of forfeiture and that failure to enter the order will result in the property being destroyed, removed from the jurisdiction of the court, or otherwise made unavailable for forfeiture; and
 
-&emsp;&emsp;&emsp;(ii) the need to preserve the availability of the property through the entry of the requested order outweighs the hardship onany party against whom the order is to be entered.
+&emsp;&emsp;&emsp;(ii) the need to preserve the availability of the property through the entry of the requested order outweighs the hardship on any party against whom the order is to be entered.
 
 &emsp;(2) An order entered pursuant to paragraph (1)(B) shall be effective for not more than 90 days, unless extended by the court for good cause shown, or unless a complaint described in paragraph (1)(A) has been filed.
 
-&emsp;(3) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when a complaint has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought is subject to civil forfeiture and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than 14 days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
+&emsp;(3) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when a complaint has not yet been filed with respect to the property, ifthe United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought is subject to civil forfeiture and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than 14 days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
 
 &emsp;(4) The court may receive and consider, at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Federal Rules of Evidence.
 
@@ -332,11 +332,11 @@ The Federal Rules of Evidence, referred to in subsec. (j)(4), are set out in the
 
 #### Amendments
 
-2009—Subsec. (j)(3). Pub. L. 111–16 substituted “14 days” for “10 days”.
+<b>2009</b>—Subsec. (j)(3). Pub. L. 111–16 substituted “14 days” for “10 days”.
 
-2001—Subsec. (i)(2)(D). Pub. L. 107–56 inserted “or the International Emergency Economic Powers Act (IEEPA) (50 U.S.C. 1701 et seq.)” before semicolon.
+<b>2001</b>—Subsec. (i)(2)(D). Pub. L. 107–56 inserted “or the International Emergency Economic Powers Act (IEEPA) (50 U.S.C. 1701 et seq.)” before semicolon.
 
-2000—Subsec. (a)(2)(C)(ii). Pub. L. 106–561 struck out “(and provide customary documentary evidence of such interest if available) and state that the claim is not frivolous” after “such property”.
+<b>2000</b>—Subsec. (a)(2)(C)(ii). Pub. L. 106–561 struck out “(and provide customary documentary evidence of such interest if available) and state that the claim is not frivolous” after “such property”.
 
 Subsec. (j). Pub. L. 106–185, §9, added subsec. (j).
 

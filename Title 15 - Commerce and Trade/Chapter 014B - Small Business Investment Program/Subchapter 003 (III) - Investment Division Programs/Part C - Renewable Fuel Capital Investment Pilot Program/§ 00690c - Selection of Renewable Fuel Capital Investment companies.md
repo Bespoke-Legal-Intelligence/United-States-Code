@@ -50,7 +50,7 @@ A company desiring to be designated as a Renewable Fuel Capital Investment compa
 
 &emsp;&emsp;(E) the likelihood that the company will be able to satisfy the conditions under subsection (d);
 
-&emsp;&emsp;(F) the extent to which the activities proposed by the company will expand economic opportunities in the geographic areas in which the company intends to invest;
+&emsp;&emsp;(F) the extent to which the activities proposed by the company will expand economicopportunities in the geographic areas in which the company intends to invest;
 
 &emsp;&emsp;(G) the strength of the proposal by the company to provide operational assistance under this part as the proposal relates to the ability of the company to meet applicable cash requirements and properly use in-kind contributions, including the use of resources for the services of licensed professionals, when necessary, whether provided by employees or contractors; and
 
@@ -74,7 +74,7 @@ A company desiring to be designated as a Renewable Fuel Capital Investment compa
 
 #### (A) In general
 
-&emsp;&emsp;In order to provide operational assistance to smaller enterprises expected to be financed by the company, each conditionallyapproved company shall have binding commitments (for contribution in cash or in-kind)—
+&emsp;&emsp;In order to provide operational assistance to smaller enterprises expected to be financed by the company, each conditionally approved company shall have binding commitments (for contribution in cash or in-kind)—
 
 &emsp;&emsp;&emsp;(i) from sources other than the Administration that meet criteria established by the Administrator; and
 

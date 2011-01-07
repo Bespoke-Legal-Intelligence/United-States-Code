@@ -14,13 +14,13 @@
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–458, §6704(1), substituted “facility of” for “facility in”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–458, §6704(1), substituted “facility of” for “facility in”.
 
 Subsec. (b)(2). Pub. L. 108–458, §6704(2), inserted “or foreign” after “interstate”.
 
-1996—Subsec. (a). Pub. L. 104–294 substituted comma for “or who conspires to do so” after “or who conspires to do so” and substituted “this title or imprisoned” for “this title and imprisoned” before “for not more than twenty years”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–294 substituted comma for “or who conspires to do so” after “or who conspires to do so” and substituted “this title or imprisoned” for “this title and imprisoned” before “for not more than twenty years”.
 
-1994—Pub. L. 103–322, §330016(1)(Q), which directed the amendment of this section by substituting “under this title” for “not more than $50,000”, could not be executed because the phrase “not more than $50,000” did not appear in text subsequent to amendment of subsec. (a) by Pub. L. 103–322, §60003(a)(11). See below.
+<b>1994</b>—Pub. L. 103–322, §330016(1)(Q), which directed the amendment of this section by substituting “under this title” for “not more than $50,000”, could not be executed because the phrase “not more than $50,000” did not appear in text subsequent to amendment of subsec. (a) by Pub. L. 103–322, §60003(a)(11). See below.
 
 Subsec. (a). Pub. L. 103–322, §330016(1)(N), substituted “fined under this title” for “fined not more than $20,000” after “injury results, shall be”.
 
@@ -30,11 +30,11 @@ Pub. L. 103–322, §§140007(b), 320105, each amended subsec. (a) by inserting 
 
 Pub. L. 103–322, §60003(a)(11), substituted “and if death results, shall be punished by death or life imprisonment, or shall be fined not more than $250,000, or both” for “and if death results, shall be subject to imprisonment for any term of years or for life, or shall be fined not more than $50,000, or both” before period at end.
 
-1990—Subsec. (b). Pub. L. 101–647, §3558, substituted “section 1959” for “section 1952B” in introductory provisions.
+<b>1990</b>—Subsec. (b). Pub. L. 101–647, §3558, substituted “section 1959” for “section 1952B” in introductory provisions.
 
 Subsec. (b)(3). Pub. L. 101–647, §1205(k), added par. (3).
 
-1988—Pub. L. 100–690, §7053(a), renumbered section 1952A of this title as this section.
+<b>1988</b>—Pub. L. 100–690, §7053(a), renumbered section 1952A of this title as this section.
 
 Subsec. (a). Pub. L. 100–690, §7058(b), substituted “ten years” for “five years”.
 

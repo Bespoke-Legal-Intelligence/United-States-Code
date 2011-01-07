@@ -6,5 +6,5 @@ Provisions for cash, loan, paid-up, and extended values, dividends from gains an
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 706 of this title as this section and substituted “Secretary” for “Administrator”.
+<b>1991</b>—Pub. L. 102–83 renumbered section 706 of this title as this section and substituted “Secretary” for “Administrator”.
 

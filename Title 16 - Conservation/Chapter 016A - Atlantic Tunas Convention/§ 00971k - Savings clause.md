@@ -6,5 +6,5 @@ Nothing in this chapter shall have the effect of diminishing the rights and obli
 
 #### Amendments
 
-1998—Pub. L. 105–384 made technical amendment to style of heading and section designation in original act.
+<b>1998</b>—Pub. L. 105–384 made technical amendment to style of heading and section designation in original act.
 

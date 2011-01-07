@@ -26,7 +26,7 @@ Definition.—As used in this section, the term “illicit sexual conduct” mea
 
 (g)
 
-Defense.—In a prosecution under this section based on illicit sexual conduct as defined insubsection (f)(2), it is a defense, which the defendant must establish by a preponderance of the evidence, that the defendant reasonably believed that the person with whom the defendant engaged in the commercial sex act had attained the age of 18 years.
+Defense.—In a prosecution under this section based on illicit sexual conduct as defined in subsection (f)(2), it is a defense, which the defendant must establish by a preponderance of the evidence, that the defendant reasonably believed that the person with whom the defendant engaged in the commercial sex act had attained the age of 18 years.
 
 (June 25, 1948, ch. 645, 62 Stat. 812; Pub. L. 95–225, §3(a), Feb. 6, 1978, 92 Stat. 8; Pub. L. 99–628, §5(b)(1), Nov. 7, 1986, 100 Stat. 3511; Pub. L. 103–322, title XVI, §160001(g), Sept. 13, 1994, 108 Stat. 2037; Pub. L. 104–71, §5, Dec. 23, 1995, 109 Stat. 774; Pub. L. 104–294, title VI, §§601(b)(4), 604(b)(33), Oct. 11, 1996, 110 Stat. 3499, 3508; Pub. L. 105–314, title I, §103, Oct. 30, 1998, 112 Stat. 2976; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–21, title I, §§103(a)(2)(C), (b)(2)(B), 105, Apr. 30, 2003, 117 Stat. 652, 653; Pub. L. 109–248, title II, §204, July 27, 2006, 120 Stat. 613.)
 
@@ -44,9 +44,9 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–248 substituted “10 years or for life” for “5 years and not more than 30 years”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–248 substituted “10 years or for life” for “5 years and not more than 30 years”.
 
-2003—Subsec. (a). Pub. L. 108–21, §105(b), struck out “or attempts to do so,” before “shall be fined”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–21, §105(b), struck out “or attempts to do so,” before “shall be fined”.
 
 Pub. L. 108–21, §103(a)(2)(C), (b)(2)(B), substituted “and imprisoned not less than 5 years and” for “, imprisoned” and “30 years” for “15 years, or both”.
 
@@ -56,9 +56,9 @@ Subsec. (b) to (g). Pub. L. 108–21, §105(a), added subsecs. (b) to (g) and st
 
 Travel With Intent To Engage in Sexual Act With a Juvenile.—A person who travels in interstate commerce, or conspires to do so, or a United States citizen or an alien admitted for permanent residence in the United States who travels in foreign commerce, or conspires to do so, for the purpose of engaging in any sexual act (as defined in section 2246) with a person under 18 years of age that would be in violation of chapter 109A if the sexual act occurred in the special maritime and territorial jurisdiction of the United States shall be fined under this title, imprisoned not more than 15 years, or both.”
 
-2002—Subsec. (b). Pub. L. 107–273 repealed Pub. L. 104–294, §601(b)(4). See 1996 Amendment note below.
+<b>2002</b>—Subsec. (b). Pub. L. 107–273 repealed Pub. L. 104–294, §601(b)(4). See 1996 Amendment note below.
 
-1998—Subsec. (a). Pub. L. 105–314, §103(1), added subsec. (a) and struck out former subsec. (a) which read as follows:
+<b>1998</b>—Subsec. (a). Pub. L. 105–314, §103(1), added subsec. (a) and struck out former subsec. (a) which read as follows:
 
 “(a)
 
@@ -66,19 +66,19 @@ Transportation With Intent To Engage in Criminal Sexual Activity.—A person who
 
 Subsec. (b). Pub. L. 105–314, §103(2), substituted “15 years” for “10 years”.
 
-1996—Pub. L. 104–294, §604(b)(33), amended directory language of Pub. L. 103–322, §160001(g). See 1994 Amendment note below.
+<b>1996</b>—Pub. L. 104–294, §604(b)(33), amended directory language of Pub. L. 103–322, §160001(g). See 1994 Amendment note below.
 
 Subsec. (b). Pub. L. 104–294, §601(b)(4), which made amendment identical to that made by Pub. L. 104–71, was repealed by Pub. L. 107–273. See 1995 Amendment note below.
 
-1995—Subsec. (b). Pub. L. 104–71 substituted “2246” for “2245”.
+<b>1995</b>—Subsec. (b). Pub. L. 104–71 substituted “2246” for “2245”.
 
-1994—Pub. L. 103–322, as amended by Pub. L. 104–294, §604(b)(33), added subsec. (b) and substituted “(a)
+<b>1994</b>—Pub. L. 103–322, as amended by Pub. L. 104–294, §604(b)(33), added subsec. (b) and substituted “(a)
 
 Transportation With Intent To Engage in Criminal Sexual Activity.—A person who” for “Whoever”.
 
-1986—Pub. L. 99–628 amended section generally, revising and restating as one paragraph provisions formerly contained in subsec. (a) and striking out subsec. (b) which provided definitions.
+<b>1986</b>—Pub. L. 99–628 amended section generally, revising and restating as one paragraph provisions formerly contained in subsec. (a) and striking out subsec. (b) which provided definitions.
 
-1978—Pub. L. 95–225 substituted “Transportation of minors” for “Coercion or enticement of minor female” in section catchline, designated existing provision as subsec. (a), substituted provisions relating to conduct prohibiting the transportation of minors for provisions relating to conduct prohibiting the coercion or enticement of a minor female, and added subsec. (b).
+<b>1978</b>—Pub. L. 95–225 substituted “Transportation of minors” for “Coercion or enticement of minor female” in section catchline, designated existing provision as subsec. (a), substituted provisions relating to conduct prohibiting the transportation of minors for provisions relating to conduct prohibiting the coercion or enticement of a minor female, and added subsec. (b).
 
 #### Effective Date of 2002 Amendment
 

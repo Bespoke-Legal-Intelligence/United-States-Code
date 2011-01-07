@@ -12,7 +12,7 @@
 
 #### (b) Amount of stipends
 
-The Secretary shall make payments to institutions of higher education for the purpose of paying stipends to individuals who are awarded fellowships under this subpart. The stipends the Secretary establishes shall reflect the purpose of the program under this subpart to encourage highly talented students to undertake graduate study as described in this subpart. In the case of an individual who receives such individual's first stipend under this subpart in academic year 2009–2010 or any succeeding academic year, such stipend shall be set at a level of support equal to that provided by the National Science Foundation Graduate Research Fellowship Program for such academic year, except such amount shall be adjusted as necessary so as not to exceed the fellow's demonstrated level of need as determined under part E of subchapter IV of this chapter.
+The Secretary shall make payments to institutions of higher education for the purpose ofpaying stipends to individuals who are awarded fellowships under this subpart. The stipends the Secretary establishes shall reflect the purpose of the program under this subpart to encourage highly talented students to undertake graduate study as described in this subpart. In the case of an individual who receives such individual's first stipend under this subpart in academic year 2009–2010 or any succeeding academic year, such stipend shall be set at a level of support equal to that provided by the National Science Foundation Graduate Research Fellowship Program for such academic year, except such amount shall be adjusted as necessary so as not to exceed the fellow's demonstrated level of need as determined under part E of subchapter IV of this chapter.
 
 #### (c) Treatment of institutional payments
 
@@ -22,7 +22,7 @@ An institution of higher education that makes institutional payments for tuition
 
 Notwithstanding the provisions of subsection (a) of this section, no student shall receive an award—
 
-&emsp;(1) except during periods in which such student is maintaining satisfactory progress in,and devoting essentially full time to, study or research in the field in which such fellowship was awarded; or
+&emsp;(1) except during periods in which such student is maintaining satisfactory progress in, and devoting essentially full time to, study or research in the field in which such fellowship was awarded; or
 
 &emsp;(2) if the student is engaging in gainful employment other than part-time employment involved in teaching, research, or similar activities determined by the institution to be in support of the student's progress towards a degree.
 
@@ -48,7 +48,7 @@ A prior section 1135c–2, Pub. L. 89–329, title X, §1033, as added Pub. L. 9
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–315, §703(b), substituted “2009–2010” for “1999–2000” and “Foundation Graduate Research Fellowship Program for such academic year” for “Foundation graduate fellowships”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–315, §703(b), substituted “2009–2010” for “1999–2000” and “Foundation Graduate Research Fellowship Program for such academic year” for “Foundation graduate fellowships”.
 
 Subsec. (c). Pub. L. 110–315, §703(e)(4), made technical amendment to references in original act which appear in text as references to sections 1135d(a) and 1135b(b)(2) of this title.
 

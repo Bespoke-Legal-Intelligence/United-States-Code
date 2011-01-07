@@ -24,9 +24,9 @@ Definition.—In this section, the term “professional accounting position” m
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–417 substituted “0505, 0510, 0511, or equivalent” for “GS–510, GS–511, and GS–505”.
+<b>2008</b>—Subsec. (e). Pub. L. 110–417 substituted “0505, 0510, 0511, or equivalent” for “GS–510, GS–511, and GS–505”.
 
 #### Effective Date
 
-Pub. L. 107–314, div. A, title XI, §1104(b), Dec. 2, 2002, 116 Stat. 2661, provided that: “Standards established pursuant to section 1599d of title 10, United StatesCode, as added by subsection (a), may take effect no sooner than 120 days after the date of the enactment of this Act \[Dec. 2, 2002\].”
+Pub. L. 107–314, div. A, title XI, §1104(b), Dec. 2, 2002, 116 Stat. 2661, provided that: “Standards established pursuant to section 1599d of title 10, United States Code, as added by subsection (a), may take effect no sooner than 120 days after the date of the enactment of this Act \[Dec. 2, 2002\].”
 

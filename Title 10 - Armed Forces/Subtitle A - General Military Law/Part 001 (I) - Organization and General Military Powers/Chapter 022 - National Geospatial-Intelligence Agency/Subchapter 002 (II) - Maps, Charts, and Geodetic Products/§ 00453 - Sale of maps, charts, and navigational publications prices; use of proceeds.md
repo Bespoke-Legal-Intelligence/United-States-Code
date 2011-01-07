@@ -6,9 +6,9 @@ Prices.—All maps, charts, and other publications offered for sale by the Natio
 
 (b)
 
-Use of Proceeds To Pay Foreign Licensing Fees.—(1) The Secretary of Defense may pay any NGA foreign data acquisition fee out of the proceeds of the sale of maps, charts, and other publications of the Agency, and those proceeds are hereby made available for that purpose.
+Use of Proceeds To Pay Foreign Licensing Fees.—(1) The Secretary of Defense may pay any NGA foreign data acquisition fee out of theproceeds of the sale of maps, charts, and other publications of the Agency, and those proceeds are hereby made available for that purpose.
 
-(2) In this subsection, the term “NGA foreign data acquisition fee” means any licensing orother fee imposed by a foreign country or international organization for the acquisition or use of data or products by the National Geospatial-Intelligence Agency.
+(2) In this subsection, the term “NGA foreign data acquisition fee” means any licensing or other fee imposed by a foreign country or international organization for the acquisition or use of data or products by the National Geospatial-Intelligence Agency.
 
 (Added Pub. L. 97–295, §1(50)(C), Oct. 12, 1982, 96 Stat. 1299, §2794; renumbered §453 and amended Pub. L. 104–201, div. A, title XI, §1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 106–65, div. A, title X, §1010(a), Oct. 5, 1999, 113 Stat. 739; Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), (B), Nov. 24, 2003, 117 Stat. 1568.)
 
@@ -28,15 +28,15 @@ The words “Secretary of Defense” and “Defense Mapping Agency” are substi
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–136, §921(d)(2)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §921(d)(2)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 Subsec. (b)(1). Pub. L. 108–136, §921(d)(2)(B), substituted “NGA” for “NIMA”.
 
 Subsec. (b)(2). Pub. L. 108–136, §921(d)(2)(A), (B), substituted “NGA” for “NIMA” and “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-1999—Pub. L. 106–65 amended section catchline and text generally. Prior to amendment, text read as follows: “All maps, charts, and other publications offered for sale by the National Imagery and Mapping Agency shall be sold at prices and under regulations that may be prescribed by the Secretary of Defense.”
+<b>1999</b>—Pub. L. 106–65 amended section catchline and text generally. Prior to amendment, text read as follows: “All maps, charts, and other publications offered for sale by the National Imagery and Mapping Agency shall be sold at prices and under regulations that may be prescribed by the Secretary of Defense.”
 
-1996—Pub. L. 104–201 renumbered section 2794 of this title as this section and substituted “National Imagery and Mapping Agency” for “Defense Mapping Agency”.
+<b>1996</b>—Pub. L. 104–201 renumbered section 2794 of this title as this section and substituted “National Imagery and Mapping Agency” for “Defense Mapping Agency”.
 
 #### Effective Date of 1996 Amendment
 

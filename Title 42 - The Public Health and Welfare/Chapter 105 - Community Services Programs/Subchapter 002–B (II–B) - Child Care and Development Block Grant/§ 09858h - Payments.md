@@ -22,15 +22,15 @@ Payments to a State from the allotment under section 9858m of this title for any
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–193 substituted “obligated” for “expended” and “succeeding fiscal year” for “succeeding 3 fiscal years”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–193 substituted “obligated” for “expended” and “succeeding fiscal year” for “succeeding 3 fiscal years”.
 
-1993—Subsec. (c). Pub. L. 103–171 made technical correction to directory language of Pub. L. 102–586, §8(a). See 1992 Amendment note below.
+<b>1993</b>—Subsec. (c). Pub. L. 103–171 made technical correction to directory language of Pub. L. 102–586, §8(a). See 1992 Amendment note below.
 
-1992—Pub. L. 102–401 and Pub. L. 102–586, §8(c)(1), made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
+<b>1992</b>—Pub. L. 102–401 and Pub. L. 102–586, §8(c)(1), made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
 
 Subsec. (c). Pub. L. 102–586, §8(a), as amended by Pub. L. 103–171, substituted “expended” for “obligated” and “succeeding 3 fiscal years” for “succeeding fiscal year”.
 
-1991—Subsec. (c). Pub. L. 102–27 substituted “obligated” for “expended”.
+<b>1991</b>—Subsec. (c). Pub. L. 102–27 substituted “obligated” for “expended”.
 
 #### Effective Date of 1996 Amendment
 

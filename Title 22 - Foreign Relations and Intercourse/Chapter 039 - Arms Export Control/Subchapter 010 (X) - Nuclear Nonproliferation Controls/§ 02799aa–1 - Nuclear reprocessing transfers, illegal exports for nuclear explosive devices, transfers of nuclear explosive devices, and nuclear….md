@@ -2,7 +2,7 @@
 
 #### (a) Prohibitions on assistance to countries involved in transfer of nuclear reprocessing equipment, materials, or technology; exceptions; procedures applicable
 
-(1) Except as provided in paragraph (2) of this subsection, no funds made available to carry out the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] or this chapter may be used for the purpose of providing economic assistance (including assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346 et seq.\]), providing military assistance or grant military education and training, providing assistance under chapter 6 of part II of that Act \[22 U.S.C. 2348 et seq.\], or extending military credits or making guarantees, to any country which the President determines—
+(1) Except as provided in paragraph (2) of this subsection, no funds made available to carry out the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] or this chapter may be used for the purpose of providing economic assistance (including assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346 et seq.\]), providing military assistance or grant military education and training, providing assistance under chapter 6 of part II of that Act \[22U.S.C. 2348 et seq.\], or extending military credits or making guarantees, to any country which the President determines—
 
 &emsp;(A) delivers nuclear reprocessing equipment, materials, or technology to any other country on or after August 4, 1977, or receives such equipment, materials, or technology from any other country on or after August 4, 1977 (except for the transfer of reprocessing technology associated with the investigation, under international evaluation programs in which the United States participates, of technologies which are alternatives to pure plutonium reprocessing), or
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(ii) detonates a nuclear explosive device,
 
-&emsp;(C) transfers to a non-nuclear-weapon state any design information or component which isdetermined by the President to be important to, and known by the transferring country to be intended by the recipient state for use in, the development or manufacture of any nuclear explosive device, or
+&emsp;(C) transfers to a non-nuclear-weapon state any design information or component which is determined by the President to be important to, and known by the transferring country to be intended by the recipient state for use in, the development or manufacture of any nuclear explosive device, or
 
 &emsp;(D) is a non-nuclear-weapon state and seeks and receives any design information or component which is determined by the President to be important to, and intended by the recipient state for use in, the development or manufacture of any nuclear explosive device,
 
@@ -94,9 +94,11 @@ As used in this section, the term “non-nuclear-weapon state” means any count
 
 The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1) and (b)(2)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. Chapters 4 and 6 of part II of the Act are classified generally to parts IV (§2346 et seq.) and VI (§2348 et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
+This chapter, referred to in subsecs. (a)(1) and (b)(2)(B)(i), (C), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+
 Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsecs. (a)(3)(B) and (b)(4)(C), is section 601(b) of Pub. L. 94–329, title VI, June 30, 1976, 90 Stat. 765, which is not classified to the Code.
 
-For effective date of part B of the Nuclear Proliferation Prevention Act of 1994 \[part B of title VIII of Pub. L. 103–236\], referred to in subsec. (b)(1), as 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
+For effective date of part B of the Nuclear Proliferation Prevention Act of 1994 \[part B of title VIII of Pub. L. 103–236\], referred to in subsec. (b)(1), as 60 days afterApr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
 
 The National Security Act of 1947, as amended, referred to in subsec. (b)(2)(D)(i), (G), is act July 26, 1947, ch. 343, 61 Stat. 495, as amended. Title V of the Act is classified generally to subchapter III (§413 et seq.) of chapter 15 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 50 and Tables.
 
@@ -104,7 +106,7 @@ Section 102 of the Arms Export Control Act, referred to in subsec. (b)(4)(D), is
 
 #### Amendments
 
-1998—Subsec. (b)(2)(D)(ii). Pub. L. 105–194, §2(c), inserted “medicines, medical equipment, and” after “to”.
+<b>1998</b>—Subsec. (b)(2)(D)(ii). Pub. L. 105–194, §2(c), inserted “medicines, medical equipment, and” after “to”.
 
 Subsec. (b)(2)(D)(iii). Pub. L. 105–194, §2(a), added cl. (iii).
 
@@ -158,7 +160,7 @@ Limited exception related to certain sanctions and prohibitions.—The authority
 
 Limited exception related to certain activities.—Unless the President determines and certifies to the appropriate congressional committees that using the authority under subsection (a) is vital to the national security interests of the United States, such authority shall not apply with respect to—
 
-&emsp;&emsp;“(A) an activity described in subparagraph (A) of section 102(b)(1) of the Arms Export Control Act \[22U.S.C. 2799aa–1(b)(1)(A)\] that occurs after September 19, 2005, and before the date of the enactment of this Act \[June 30, 2008\];
+&emsp;&emsp;“(A) an activity described in subparagraph (A) of section 102(b)(1) of the Arms Export Control Act \[22 U.S.C. 2799aa–1(b)(1)(A)\] that occurs after September 19, 2005, and before the date of the enactment of this Act \[June 30, 2008\];
 
 &emsp;&emsp;“(B) an activity described in subparagraph (C) of such section that occurs after September 19, 2005; or
 
@@ -206,7 +208,7 @@ Matters to be included.—The report required under subsection (A) shall include
 
 &emsp;&emsp;&emsp;“(i) how the United States will confirm that North Korea has ‘provided a complete and correct declaration of all of its nuclear programs’;
 
-&emsp;&emsp;&emsp;“(ii) how the United States will maintain a high and ongoing level of confidence that North Korea has fully met the terms of the Six-Party Talks Agreement relating to its nuclear programs;
+&emsp;&emsp;&emsp;“(ii) how the United States will maintain a high and ongoing level of confidence that North Koreahas fully met the terms of the Six-Party Talks Agreement relating to its nuclear programs;
 
 &emsp;&emsp;&emsp;“(iii) any diplomatic agreement with North Korea regarding verification measures relating to North Korea's nuclear programs under the Six-Party Talks Agreement (other than implementing arrangements made during on-site operations); and
 

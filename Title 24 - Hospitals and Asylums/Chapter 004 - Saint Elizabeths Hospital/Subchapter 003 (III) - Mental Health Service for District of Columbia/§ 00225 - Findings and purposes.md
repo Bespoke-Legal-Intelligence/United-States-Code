@@ -68,7 +68,7 @@ This subchapter, referred to in subsec. (b)(4), was in the original “this Act�
 
 #### Amendments
 
-1991—Subsec. (b)(1). Pub. L. 102–150 substituted “October 1, 1993” for “October 1, 1991”.
+<b>1991</b>—Subsec. (b)(1). Pub. L. 102–150 substituted “October 1, 1993” for “October 1, 1991”.
 
 #### Effective Date
 

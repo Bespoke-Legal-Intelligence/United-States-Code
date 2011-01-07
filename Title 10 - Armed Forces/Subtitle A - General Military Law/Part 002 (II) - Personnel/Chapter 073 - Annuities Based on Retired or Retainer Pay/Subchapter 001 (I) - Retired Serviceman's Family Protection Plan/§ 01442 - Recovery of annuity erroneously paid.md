@@ -22,7 +22,7 @@ The words “In addition to other methods of recovery provided by law, the Secre
 
 #### Amendments
 
-1996—Pub. L. 104–316 struck out “and the Comptroller General” after “judgment of the Secretary concerned”.
+<b>1996</b>—Pub. L. 104–316 struck out “and the Comptroller General” after “judgment of the Secretary concerned”.
 
-1972—Pub. L. 92–425 substituted “subchapter” for “chapter”.
+<b>1972</b>—Pub. L. 92–425 substituted “subchapter” for “chapter”.
 

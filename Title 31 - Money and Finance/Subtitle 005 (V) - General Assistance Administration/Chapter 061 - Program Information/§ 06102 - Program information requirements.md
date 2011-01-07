@@ -96,7 +96,7 @@ In subsection (c)(2), the words “further”, “officials”, and “Federal�
 
 #### Amendments
 
-1983—Subsec. (a). Pub. L. 98–169, §2(1), substituted “collect and review information on domestic assistance programs and shall provide such information to the Administrator” for “prepare and maintain information on domestic assistance programs”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–169, §2(1), substituted “collect and review information on domestic assistance programs and shall provide such information to the Administrator” for “prepare and maintain information on domestic assistance programs”.
 
 Pub. L. 98–169, §1(2), substituted “Director” for “Director of the Office of Management and Budget”.
 

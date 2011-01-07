@@ -24,11 +24,11 @@ As used in this chapter, unless the context otherwise requires:
 
 #### Amendments
 
-2004—Pars. (8), (9). Pub. L. 108–360 added pars. (8) and (9).
+<b>2004</b>—Pars. (8), (9). Pub. L. 108–360 added pars. (8) and (9).
 
-2000—Par. (6). Pub. L. 106–503 inserted “and infrastructure” after “communication facilities”.
+<b>2000</b>—Par. (6). Pub. L. 106–503 inserted “and infrastructure” after “communication facilities”.
 
-1990—Par. (2). Pub. L. 101–614, §4(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘program’ means the earthquake hazards reduction program established under section 7704 of this title.”
+<b>1990</b>—Par. (2). Pub. L. 101–614, §4(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘program’ means the earthquake hazards reduction program established under section 7704 of this title.”
 
 Pars. (6), (7). Pub. L. 101–614, §4(2), added pars. (6) and (7).
 

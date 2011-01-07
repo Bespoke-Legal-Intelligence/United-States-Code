@@ -10,13 +10,13 @@ Contracting Goals.—(1) In order to increase contracting opportunities for smal
 
 (2) The goal for a fiscal year for participation under paragraph (1)(A) shall be determined by the Secretary.
 
-(3) The goal for a fiscal year for participation under paragraph (1)(B) shall be not less than the Government-wide goal for that fiscal year for participation by small business concerns owned and controlled by veterans with service-connected disabilities under section 15(g)(1) of the Small Business Act (15 U.S.C. 644(g)(1)).
+(3) The goal for a fiscal year for participation under paragraph (1)(B) shall be not less than theGovernment-wide goal for that fiscal year for participation by small business concerns owned and controlled by veterans with service-connected disabilities under section 15(g)(1) of the Small Business Act (15 U.S.C. 644(g)(1)).
 
 (4) The Secretary shall establish a review mechanism to ensure that, in the case of a subcontract of a Department contract that is counted for purposes of meeting a goal established pursuant to this section, the subcontract was actually awarded to a business concern that may be counted for purposes of meeting that goal.
 
 (b)
 
-Use of Noncompetitive Procedures for Certain Small Contracts.—For purposes of meeting the goals under subsection (a), and in accordance with this section, in entering into a contract with a small business concern owned and controlled by veterans for an amount less than the simplified acquisition threshold (as defined in section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)), a contracting officer of the Department may use procedures other than competitive procedures.
+Use of Noncompetitive Procedures for Certain Small Contracts.—For purposes of meeting the goals under subsection (a), and in accordance with this section, in entering into a contract with a small business concern owned and controlled by veterans for an amount less than the simplified acquisition threshold (as defined in section 134 of title 41), a contracting officer of the Department may use procedures other than competitive procedures.
 
 (c)
 
@@ -24,7 +24,7 @@ Sole Source Contracts for Contracts Above Simplified Acquisition Threshold.—Fo
 
 &emsp;(1) such concern is determined to be a responsible source with respect to performance of such contract opportunity;
 
-&emsp;(2) the anticipated award price of the contract (including options) will exceed the simplified acquisition threshold (as defined in section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)) but will not exceed $5,000,000; and
+&emsp;(2) the anticipated award price of the contract (including options) will exceed the simplified acquisition threshold (as defined in section 134 of title 41) but will not exceed $5,000,000; and
 
 &emsp;(3) in the estimation of the contracting officer, the contract award can be made at a fair and reasonable price that offers best value to the United States.
 
@@ -40,15 +40,17 @@ Eligibility of Small Business Concerns.—A small business concern may be awarde
 
 Database of Veteran-Owned Businesses.—(1) Subject to paragraphs (2) through (6), the Secretary shall maintain a database of small business concerns owned and controlled by veterans and the veteran owners of such business concerns.
 
-(2) To be eligible for inclusion in the database, such a veteran shall submit to the Secretary such information as the Secretary may require with respect to the small business concern or the veteran.
+(2)(A) To be eligible for inclusion in the database, such a veteran shall submit to the Secretary such information as the Secretary may require with respect to the small business concern or the veteran. Application for inclusion in the database shall constitute permission under section 552a of title 5 (commonly referred to as the Privacy Act) for the Secretary to access such personal information maintained by the Secretary as may be necessary to verify the information contained in the application.
+
+(B) If the Secretary receives an application for inclusion in the database from an individual whose status as a veteran cannot be verified because the Secretary does not maintain information with respect to the veteran status of the individual, the Secretary may not include the small business concern owned and controlled by the individual in the database maintained by the Secretary until the Secretary receives such information as may be necessary to verify that the individual is a veteran.
 
 (3) Information maintained in the database shall be submitted on a voluntary basis by such veterans.
 
-(4) In maintaining the database, the Secretary shall carry out at least the following two verification functions:
+(4) No small business concern may be listed in the database until the Secretary has verified that—
 
-&emsp;(A) Verification that each small business concern listed in the database is owned and controlled by veterans.
+&emsp;(A) the small business concern is owned and controlled by veterans; and
 
-&emsp;(B) In the case of a veteran who indicates a service-connected disability, verification of the service-disabled status of such veteran.
+&emsp;(B) in the case of a small business concern for which the person who owns and controls the concern indicates that the person is a veteran with a service-connected disability, that the person is a veteran with a service-connected disability.
 
 (5) The Secretary shall make the database available to all Federal departments and agencies and shall notify each such department and agency of the availability of the database.
 
@@ -120,7 +122,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) not less than 51 percent of which is owned by one or more veterans with service-connected disabilities that are permanent and total who are unable to manage the daily business operations of such concern or, in the case of a publicly owned business, not less than 51 percent of the stock of which is owned by one or more such veterans.
 
-(Added Pub. L. 109–461, title V, §502(a)(1), Dec. 22, 2006, 120 Stat. 3431; amended Pub. L. 110–389, title VIII, §806, Oct. 10, 2008, 122 Stat. 4189.)
+(Added Pub. L. 109–461, title V, §502(a)(1), Dec. 22, 2006, 120 Stat. 3431; amended Pub. L. 110–389, title VIII, §806, Oct. 10, 2008, 122 Stat. 4189; Pub. L. 111–275, title I, §104(b)(1), Oct. 13, 2010, 124 Stat. 2867; Pub. L. 111–350, §5(j)(7), Jan. 4, 2011, 124 Stat. 3850.)
 
 #### References in Text
 
@@ -128,13 +130,33 @@ The Small Business Act, referred to in subsec. (j)(2), is Pub. L. 85–536, §2(
 
 #### Amendments
 
-2008—Subsecs. (j) to (<i>l</i>). Pub. L. 110–389 added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (<i>l</i>), respectively.
+<b>2011</b>—Subsecs. (b), (c)(2). Pub. L. 111–350 substituted “section 134 of title 41” for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)”.
+
+<b>2010</b>—Subsec. (f)(2). Pub. L. 111–275, §104(b)(1)(A), designated existing provisions as subpar. (A), inserted at end of subpar. (A) “Application for inclusion in the database shall constitute permission under section 552a of title 5 (commonly referred to as the Privacy Act) for the Secretary to access such personal information maintained by the Secretary as may be necessary to verify the information contained in the application.”, and added subpar. (B).
+
+Subsec. (f)(4). Pub. L. 111–275, §104(b)(1)(B), added par. (4) and struck out former par. (4) which read as follows: “In maintaining the database, the Secretary shall carry out at least the following two verification functions:
+
+&emsp;“(A) Verification that each small business concern listed in the database is owned and controlled by veterans.
+
+&emsp;“(B) In the case of a veteran who indicates a service-connected disability, verification of the service-disabled status of such veteran.”
+
+<b>2008</b>—Subsecs. (j) to (<i>l</i>). Pub. L. 110–389 added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (<i>l</i>), respectively.
 
 #### Effective Date
 
 Pub. L. 109–461, title V, §502(d), Dec. 22, 2006, 120 Stat. 3435, provided that: “This section \[enacting this section and provisions set out as a note below\] and the amendments made by this section shall take effect on the date that is 180 days after the date of the enactment of this Act \[Dec. 22, 2006\].”
 
-#### Transition Rule
+#### Transition Provisions
+
+Pub. L. 111–275, title I, §104(b)(2), Oct. 13, 2010, 124 Stat. 2868, provided that: “In the case of a small business concern included in the database as of the date of the enactment of this Act \[Oct. 13, 2010\] for which, as of such date, the Secretary of Veterans Affairs has not verified the status of such concern in accordance with paragraph (4) of subsection (f) of section 8127 of title 38, United States Code, as amended by paragraph (1), not later than 60 days after the date of the enactment of this Act, the Secretary shall notify the person who owns and controls the concern that—
+
+&emsp;“(A) the Secretary is required to verify the status of the concern in accordance with such paragraph, as so amended;
+
+&emsp;“(B) verification of such status shall require that the person who owns and controls the concern apply for inclusion in the database in accordance with such subsection, as so amended;
+
+&emsp;“(C) application for inclusion in the database shall constitute permission under section 552a of title 5, United States Code (commonly referred to as the Privacy Act), for the Secretary to access such personal information maintained by the Secretary as may be necessary to verify the information contained in the application; and
+
+&emsp;“(D) the person who owns and controls the concern must submit to the Secretary all information required by the Secretary under this paragraph within 90 days of receiving the Secretary's notice of such requirement or the concern shall be removed from the database.”
 
 Pub. L. 109–461, title V, §502(b), Dec. 22, 2006, 120 Stat. 3435, provided that: “A small business concern that is listed in any small business database maintained by the Secretary of Veterans Affairs on the date of the enactment of this Act \[Dec. 22, 2006\] shall be presumed to be eligible for inclusion in the database under subsection (f) of section 8127 of title 38, United States Code, as added by subsection (a), during the period beginning on the effective date of that section \[see Effective Date note above\] and ending one year after such effective date. Such a small business concern may be removed from the database during that period if it is found not to be a small business concern owned and controlled by veterans (as defined in subsection (k) of such section).”
 

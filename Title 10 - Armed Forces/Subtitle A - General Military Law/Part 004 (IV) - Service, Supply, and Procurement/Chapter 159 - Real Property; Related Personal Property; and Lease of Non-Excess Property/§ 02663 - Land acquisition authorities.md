@@ -82,7 +82,7 @@ Land Acquisition Options in Advance of Military Construction Projects.—(1) The
 
 (2) As consideration for an option acquired under paragraph (1), the Secretary may pay, from funds available to the military department under the jurisdiction of the Secretary for real property activities, an amount that is not more than 12 percent of the appraised fair market value of the property.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 85–861, §33(a)(14), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 109–163, div. B, title XXVIII, §2821(a), Jan. 6, 2006, 119 Stat. 3511; Pub. L. 109–364, div. B, title XXVIII, §2821(b), Oct. 17, 2006, 120 Stat. 2474; Pub. L. 110–181, div. B, title XXVIII, §2822(a), Jan. 28, 2008, 122 Stat. 544.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 85–861, §33(a)(14), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 109–163, div. B, title XXVIII, §2821(a), Jan. 6, 2006, 119 Stat. 3511; Pub. L. 109–364, div. B, title XXVIII, §2821(b), Oct. 17, 2006, 120 Stat. 2474; Pub. L. 110–181, div. B, title XXVIII, §2822(a), Jan. 28, 2008, 122 Stat. 544; Pub. L. 111–383, div. A, title X, §1075(g)(6), Jan. 7, 2011, 124 Stat. 4377.)
 
 Historical and Revision Notes<br>1956
 
@@ -116,15 +116,15 @@ July 2, 1917, ch. 35; restated Apr. 11, 1918, ch. 51, 40 Stat. 518.
 
 Oct. 25, 1951, ch. 563, §101 (less 22d through 43d words), 65 Stat. 641.
 
-In subsection (a), the words “brought in a court of proper jurisdiction” are substituted for the words “instituted in any court having jurisdiction of such proceedings”. The words “any interest in land, including temporary use” are substituted for the words “any land, temporary use thereof or other interest therein, or right pertaining thereto”. The words “relating to suits for the condemnation of property” are omitted as surplusage. The last sentence is substituted for 50:171 (words between semicolon and first proviso). The Act of July 2, 1917, ch. 35, as restated by the Act of April 11, 1918, ch. 51 (last 77 words), are not contained in 50:171. They are also omitted from the revised section as executed.
+In subsection (a), the words “brought \* \* \* in a court of proper jurisdiction” are substituted for the words “instituted \* \* \* in any court having jurisdiction of such proceedings”. The words “any interest in land, including temporary use” are substituted for the words “any land, temporary use thereof or other interest therein, or right pertaining thereto”. The words “relating to suits for the condemnation of property” are omitted as surplusage. The last sentence is substituted for 50:171 (words between semicolon and first proviso). The Act of July 2, 1917, ch. 35, as restated by the Act of April 11, 1918, ch. 51 (last 77 words), are not contained in 50:171. They are also omitted from the revised section as executed.
 
 In subsection (a)(1), the word “location” is omitted as surplusage. The words “operation of” are substituted for the words “prosecution of works for”.
 
-In subsection (b), the words “That when such property is acquired” are omitted as surplusage. The words “under subsection (a)” are substituted for the words “of any land, temporary use thereof or other use therein or right pertaining thereto to be acquired for any of the purposes aforesaid”. The words “take and use” are substituted for the words “possession thereof may be taken and used for military purposes”.
+In subsection (b), the words “That when such property is acquired” are omitted as surplusage. The words “under subsection (a)” are substituted for the words “of any land, temporary use thereof or other use therein or right pertaining thereto to be acquired for any of the purposes aforesaid”. The words “take and use” are substituted for the words “possession thereof may be taken \* \* \* and used for military purposes”.
 
-In subsection (c), the words “as soon as the owner fixes a price for it” are substituted for the words “Thatwhen the owner of such land, interest, or rights pertaining thereto shall fix a price for the same”. The word “considers” is substituted for the words “which in the opinion”. The words “contract for or buy” are substituted for the words “purchase or enter into a contract”. The words “without further delay” are omitted as surplusage.
+In subsection (c), the words “as soon as the owner fixes a price for it” are substituted for the words “That when the owner of such land, interest, or rights pertaining thereto shall fix a price for the same”. The word “considers” is substituted for the words “which in the opinion”. The words “contract for or buy” are substituted for the words “purchase or enter into a contract”. The words “without further delay” are omitted as surplusage.
 
-In subsection (d), the words “a gift of any interest in land for any purpose named in subsection (a)” are substituted for 50:171 (last 15 words of 2d proviso).
+In subsection (d), the words “a gift of any interest in land \* \* \* for any purpose named in subsection (a)” are substituted for 50:171 (last 15 words of 2d proviso).
 
 #### 1958 Act
 
@@ -140,15 +140,17 @@ The text of section 2676(b) of this title, which was transferred to this section
 
 #### Amendments
 
-2008—Subsec. (h). Pub. L. 110–181 added subsec. (h).
+<b>2011</b>—Subsec. (a)(1). Pub. L. 111–383 made technical amendment to directory language of Pub. L. 109–364, §2821(b)(1). See 2006 Amendment note below.
 
-2006—Pub. L. 109–163, §2821(a)(1)(A), substituted “Land acquisition authorities” for “Acquisition” in section catchline.
+<b>2008</b>—Subsec. (h). Pub. L. 110–181 added subsec. (h).
+
+<b>2006</b>—Pub. L. 109–163, §2821(a)(1)(A), substituted “Land acquisition authorities” for “Acquisition” in section catchline.
 
 Subsec. (a). Pub. L. 109–163, §2821(a)(1)(B), (C), inserted “
 
 Acquisition of Land by Condemnation for Certain Military Purposes.—(1)” before “The Secretary” in introductory provisions, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), in subpar. (C), substituted “subparagraph (B)” for “clause (2)”, redesignated subsec. (b) as par. (2) and substituted “paragraph (1)” for “subsection (a)”.
 
-Subsec. (a)(1). Pub. L. 109–364, §2821(b)(1), substituted “Subject to subsection (f), the Secretary” for “The Secretary” in introductory provisions. Amendment was executed as the probable intent of Congress, notwithstanding words missing from the directory language.
+Subsec. (a)(1). Pub. L. 109–364, §2821(b)(1), as amended by Pub. L. 111–383, substituted “Subject to subsection (f), the Secretary” for “The Secretary” in introductory provisions.
 
 Subsec. (b). Pub. L. 109–163, §2821(a)(1)(D), redesignated subsec. (c) as (b) and inserted heading.
 
@@ -166,7 +168,11 @@ Subsec. (e). Pub. L. 109–163, §2821(a)(10), (11), redesignated subsec. (b) of
 
 Subsecs. (f), (g). Pub. L. 109–364, §2821(b)(2), added subsecs. (f) and (g).
 
-1958—Subsec. (a). Pub. L. 85–861 struck out provisions requiring proceedings under this subsection to be in accordance with the law of the State in which the suit is brought.
+<b>1958</b>—Subsec. (a). Pub. L. 85–861 struck out provisions requiring proceedings under this subsection to be in accordance with the law of the State in which the suit is brought.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–383, div. A, title X, §1075(g), Jan. 7, 2011, 124 Stat. 4376, provided that amendment by section 1075(g)(6) is effective as of Oct. 17, 2006, and as if included in Pub. L. 109–364 as enacted.
 
 #### Effective Date of 1958 Amendment
 

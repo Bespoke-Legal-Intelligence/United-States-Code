@@ -46,7 +46,7 @@ The Secretary may award grants in accordance with the following:
 
 &emsp;&emsp;(E) providing education and training opportunities and programs for health professionals and allied caregivers; and
 
-&emsp;&emsp;(F) developing, testing, evaluating, and replicating effective intervention programsto maintain or improve health and quality of life.
+&emsp;&emsp;(F) developing, testing, evaluating, and replicating effective intervention programs to maintain or improve health and quality of life.
 
 &emsp;(2) To private health and disability organizations for the purpose of—
 

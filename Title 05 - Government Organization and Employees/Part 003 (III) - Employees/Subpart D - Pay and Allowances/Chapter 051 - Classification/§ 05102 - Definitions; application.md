@@ -74,7 +74,7 @@
 
 &emsp;(4) teachers, school officials, and employees of the Board of Education of the District of Columbia whose pay is fixed under chapter 15 of title 31, District of Columbia Code; the chief judges and the associate judges of the Superior Court of the District of Columbia and the District of Columbia Court of Appeals; and nonjudicial employees of the District of Columbia court system whose pay is fixed under title 11 of the District of Columbia Code;
 
-&emsp;(5) members of the Metropolitan Police, the Fire Department of the District of Columbia, the United States Park Police, and the Executive Protective Service; members of the police force of the National Zoological Park whose pay is fixed under section 5375 of this title; and members of the police forces of the Bureau of Engraving and Printing and the United States Mint whose pay is fixed under section 5378 of this title;
+&emsp;(5) members of the Metropolitan Police, the Fire Department of the District of Columbia, the United States Park Police, and the United States Secret Service Uniformed Division; members of the police force of the National Zoological Park whose pay is fixed under section 5375 of this title; and members of the police forces of the Bureau of Engraving and Printing and the United States Mint whose pay is fixed under section 5378 of this title;
 
 &emsp;(6) lighthouse keepers and civilian employees on lightships and vessels of the Coast Guard whose pay is fixed under section 432(f) and (g) of title 14;
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(B) an individual or organization outside the service of the Government of the United States;
 
-&emsp;(16) student nurses, medical or dental interns, residents-in-training, student dietitians, student physical therapists, student occupational therapists, and other student employees, assigned or attached to a hospital, clinic, or laboratory primarily for training purposes, whose pay is fixed under subchapter V of chapter 53 of this title or sections 7405 and 7406 of title 38;
+&emsp;(16) student nurses, medical or dental interns, residents-in-training, student dietitians, student physical therapists, student occupational therapists, and other student employees, assigned or attached to a hospital, clinic, or laboratory primarily for training purposes, whose pay is fixed under subchapterV of chapter 53 of this title or sections 7405 and 7406 of title 38;
 
 &emsp;(17) inmates, patients, or beneficiaries receiving care or treatment or living in Government agencies or institutions;
 
@@ -110,7 +110,7 @@
 
 &emsp;(20) employees employed on a fee, contract, or piece work basis;
 
-&emsp;(21) employees who may lawfully perform their duties concurrently with their privateprofession, business, or other employment, and whose duties require only a portion of their time, when it is impracticable to ascertain or anticipate the proportion of time devoted to the service of the Government of the United States;
+&emsp;(21) employees who may lawfully perform their duties concurrently with their private profession, business, or other employment, and whose duties require only a portion of their time, when it is impracticable to ascertain or anticipate the proportion of time devoted to the service of the Government of the United States;
 
 &emsp;(22) “teachers” and “teaching positions” as defined by section 901 of title 20;
 
@@ -128,13 +128,13 @@
 
 &emsp;(29) administrative law judges appointed under section 3105; or
 
-&emsp;(30) members of agency boards of contract appeals appointed under section 8 of the Contract Disputes Act of 1978.
+&emsp;(30) members of agency boards of contract appeals appointed under section 7105(a)(2), (c)(2), or (d)(2) of title 41.
 
 (d) This chapter does not apply to an employee of the Office of the Architect of the Capitol whose pay is fixed by other statute. Subsection (c) of this section, except paragraph (7), does not apply to the Office of the Architect of the Capitol.
 
 (e) Except as may be specifically provided, this chapter does not apply for pay purposes to any employee of the government of the District of Columbia during fiscal year 2006 or any succeeding fiscal year.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 444; Pub. L. 90–83, §1(11), Sept. 11, 1967, 81 Stat. 197; Pub. L. 90–610, §2, Oct. 21, 1968, 82 Stat. 1201; Pub. L. 91–34, §2(a), June 30, 1969, 83 Stat. 41; Pub. L. 91–358, title I, §172(f), July 29, 1970, 84 Stat. 591; Pub. L. 91–375, §6(c)(9), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–176, §1, Dec. 5, 1973, 87 Stat. 693; Pub. L. 94–183, §2(12), (13), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title VIII, §801(a)(3)(D), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 96–54, §2(a)(22), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–70, title III, §3302(e)(1), (6), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(b), Feb. 15, 1980, 94 Stat. 33; Pub. L. 96–465, title II, §2314(b), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 97–468, title VI, §615(b)(1)(C), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(a), Nov. 8, 1984, 98 Stat. 3302; Pub. L. 99–145, title V, §504(b), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–335, title II, §207(n), June 6, 1986, 100 Stat. 598; Pub. L. 100–135, §1(b)(2), Oct. 16, 1987, 101 Stat. 811; Pub. L. 101–189, div. A, title XI, §1124(e), Nov. 29, 1989, 103 Stat. 1560; Pub. L. 101–474, §5(h), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §§101(b)(9)(F), 104(d)(1), 109(a)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1441, 1447, 1451; Pub. L. 101–510, div. A, title XII, §1209(h)(2), Nov. 5, 1990, 104 Stat. 1667; Pub. L. 102–40, title IV, §403(c)(1), May 7, 1991, 105 Stat. 240; Pub. L. 102–54, §13(b)(1), (2), June 13, 1991, 105 Stat. 274; Pub. L. 103–160, div. A, title V, §533(c), title IX, §923(b), Nov. 30, 1993, 107 Stat. 1658, 1731; Pub. L. 103–359, title V, §501(g), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–446, title XII, §1203(b), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–201, div. A, title XI, §1122(a)(1), div. C, title XXXV, §3548(a)(2), Sept. 23, 1996, 110 Stat. 2687, 2868; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–375, div. A, title V, §557(b)(5), Oct. 28, 2004, 118 Stat. 1916; Pub. L. 109–356, title III, §303(b), Oct. 16, 2006, 120 Stat. 2040; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 444; Pub. L. 90–83, §1(11), Sept. 11, 1967, 81 Stat. 197; Pub. L. 90–610, §2, Oct. 21, 1968, 82 Stat. 1201; Pub. L. 91–34, §2(a), June 30, 1969, 83 Stat. 41; Pub. L. 91–358, title I, §172(f), July 29, 1970, 84 Stat. 591; Pub. L. 91–375, §6(c)(9), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–176, §1, Dec. 5, 1973, 87 Stat. 693; Pub. L. 94–183, §2(12), (13), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title VIII, §801(a)(3)(D), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 96–54, §2(a)(22), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–70, title III, §3302(e)(1), (6), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(b), Feb. 15, 1980, 94 Stat. 33; Pub. L. 96–465, title II, §2314(b), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 97–468, title VI, §615(b)(1)(C), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(a), Nov. 8, 1984, 98 Stat. 3302; Pub. L. 99–145, title V, §504(b), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–335, title II, §207(n), June 6, 1986, 100 Stat. 598; Pub. L. 100–135, §1(b)(2), Oct. 16, 1987, 101 Stat. 811; Pub. L. 101–189, div. A, title XI, §1124(e), Nov. 29, 1989, 103 Stat. 1560; Pub. L. 101–474, §5(h), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §§101(b)(9)(F), 104(d)(1), 109(a)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1441, 1447, 1451; Pub. L. 101–510, div. A, title XII, §1209(h)(2), Nov. 5, 1990, 104 Stat. 1667; Pub. L. 102–40, title IV, §403(c)(1), May 7, 1991, 105 Stat. 240; Pub. L. 102–54, §13(b)(1), (2), June 13, 1991, 105 Stat. 274; Pub. L. 103–160, div. A, title V, §533(c), title IX, §923(b), Nov. 30, 1993, 107 Stat. 1658, 1731; Pub. L. 103–359, title V, §501(g), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–446, title XII, §1203(b), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–201, div. A, title XI, §1122(a)(1), div. C, title XXXV, §3548(a)(2), Sept. 23, 1996, 110 Stat. 2687, 2868; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–375, div. A, title V, §557(b)(5), Oct. 28, 2004, 118 Stat. 1916; Pub. L. 109–356, title III, §303(b), Oct. 16, 2006, 120 Stat. 2040; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–282, §4(c)(1), Oct. 15, 2010, 124 Stat. 3043; Pub. L. 111–350, §5(a)(8), Jan. 4, 2011, 124 Stat. 3841.)
 
 Historical and Revision Notes<br>1966
 
@@ -226,7 +226,7 @@ In subsection (a)(1)(vii), the words “Panama Canal Company” are substituted 
 
 The exception for the Inland Waterways Corporation in former section 1082(13) is omitted on authority of the Act of July 19, 1963, Pub. L. 88–67, 77 Stat. 81.
 
-The exceptions for Production Credit Corporations and Federal Intermediate Credit Banks in former section 1082(18) and (19) are omitted as they are no longer“corporations wholly owned by the United States”. Under the Farm Credit Act of 1956, 70 Stat. 659, the Production Credit Corporations were merged in the Federal Intermediate Credit Banks, and pursuant to that Act the Federal Intermediate Credit Banks have ceased to be corporations wholly owned by the United States.
+The exceptions for Production Credit Corporations and Federal Intermediate Credit Banks in former section 1082(18) and (19) are omitted as they are no longer “corporations wholly owned by the United States”. Under the Farm Credit Act of 1956, 70 Stat. 659, the Production Credit Corporations were merged in the Federal Intermediate Credit Banks, and pursuant to that Act the Federal Intermediate Credit Banks have ceased to be corporations wholly owned by the United States.
 
 Subsection (a)(2) is added for clarity. The reference to “an individual employed in or under an agency” includes both officers and employees of an agency.
 
@@ -280,13 +280,15 @@ The amendment to 5 U.S.C. 5102(c)(26) reflects Public Law 89–444, section 4.
 
 #### References in Text
 
-The Foreign Service Act of 1980, referred to in subsec. (c)(2), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (c)(2), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 Level V of the Executive Schedule, referred to in subsec. (c)(25), is set out in section 5316 of this title.
 
-Section 8 of the Contract Disputes Act of 1978, referred to in subsec. (c)(30), is classified to section 607 of Title 41, Public Contracts.
-
 #### Amendments
+
+2011—Subsec. (c)(30). Pub. L. 111–350 substituted “section 7105(a)(2), (c)(2), or (d)(2) of title 41” for “section 8 of the Contract Disputes Act of 1978”.
+
+2010—Subsec. (c)(5). Pub. L. 111–282 substituted “the United States Secret Service Uniformed Division” for “the Executive Protective Service”.
 
 2008—Subsec. (a)(1)(x). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
@@ -378,9 +380,9 @@ Subsec. (c)(4). Pub. L. 91–358 expanded reference to include chief judges, sub
 
 1968—Subsec. (c). Pub. L. 90–610 inserted par. (27).
 
-#### Change of Name
+#### Effective Date of 2010 Amendment
 
-Reference to Executive Protective Service held to refer to United States Secret Service Uniformed Division pursuant to Pub. L. 95–179, set out as a note under section 3056a of Title 18, Crimes and Criminal Procedure.
+Pub. L. 111–282, §5, Oct. 15, 2010, 124 Stat. 3044, provided that: “This Act \[enacting chapter 102 of this title, amending this section and sections 5541, 6304, and 6324 of this title, enacting provisions set out as notes under section 10201 of this title, and amending provisions set out as notes under section 3056A of Title 18, Crimes and Criminal Procedure\] and the amendments made by this Act shall take effect on the first day of the first pay period which begins after the date of the enactment of this Act \[Oct. 15, 2010\].”
 
 #### Effective Date of 1999 Amendment
 
@@ -388,7 +390,7 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1122(a)(1) of Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of Title 10, Armed Forces.
+Amendment by section 1122(a)(1) of Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201,set out as a note under section 193 of Title 10, Armed Forces.
 
 #### Effective Date of 1990 Amendment
 
@@ -464,7 +466,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 #### Dissolution of Virgin Islands Corporation
 
-Virgin Islands Corporation established to have succession until June 30, 1969, unless sooner dissolved by Act of Congress, by act June 30, 1949, ch. 285, 63 Stat. 350, as amended (48 U.S.C. 1407 et seq.). Corporation terminated its program June 30, 1965, and dissolved July 1, 1966. Act June 30, 1949, was repealed by Pub. L. 97–357, title III, §308(e), Oct. 19, 1982, 96 Stat. 1710.
+Virgin Islands Corporation established to have succession until June 30, 1969, unless sooner dissolved by Act of Congress, by act June 30, 1949, ch. 285, 63 Stat. 350, as amended (48 U.S.C. 1407 et seq.). Corporation terminated its program June 30, 1965, and dissolved July 1,1966. Act June 30, 1949, was repealed by Pub. L. 97–357, title III, §308(e), Oct. 19, 1982, 96 Stat. 1710.
 
 #### Civilian Members of Faculty of Air Force Institute of Technology on November 8, 1985
 

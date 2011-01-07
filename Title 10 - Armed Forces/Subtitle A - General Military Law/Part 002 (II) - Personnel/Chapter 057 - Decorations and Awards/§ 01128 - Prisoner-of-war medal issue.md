@@ -32,7 +32,7 @@
 
 #### Amendments
 
-1989—Subsec. (a)(4). Pub. L. 101–189 added par. (4).
+<b>1989</b>—Subsec. (a)(4). Pub. L. 101–189 added par. (4).
 
 #### Effective Date of 1989 Amendment
 

@@ -50,7 +50,7 @@ In clause (5), the words “train employee” are substituted for “employee”
 
 #### Amendments
 
-2008—Par. (4). Pub. L. 110–432 struck out “employed by a railroad carrier” after “individual”.
+<b>2008</b>—Par. (4). Pub. L. 110–432 struck out “employed by a railroad carrier” after “individual”.
 
 #### Effective Date of 2008 Amendment
 

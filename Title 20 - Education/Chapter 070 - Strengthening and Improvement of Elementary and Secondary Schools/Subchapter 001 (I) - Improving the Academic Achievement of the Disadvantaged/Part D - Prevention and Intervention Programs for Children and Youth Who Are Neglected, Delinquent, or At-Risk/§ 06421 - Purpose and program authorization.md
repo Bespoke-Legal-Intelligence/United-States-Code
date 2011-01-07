@@ -18,7 +18,7 @@ In order to carry out the purpose of this part and from amounts appropriated und
 
 #### Prior Provisions
 
-A prior section 6421, Pub. L. 89–10, title I, §1401, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3591, set out findings and purpose and authorized program, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6421, Pub. L. 89–10, title I, §1401, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3591, set out findings and purpose and authorized program, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 A prior section 1401 of Pub. L. 89–10 was classified to section 2821 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 

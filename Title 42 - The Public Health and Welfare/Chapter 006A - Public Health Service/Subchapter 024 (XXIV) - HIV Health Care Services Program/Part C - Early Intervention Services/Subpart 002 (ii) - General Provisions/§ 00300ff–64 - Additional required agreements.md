@@ -28,7 +28,7 @@ The Secretary may not make a grant under this part unless—
 
 &emsp;(3) the applicant agrees to provide additional documentation to the Secretary regarding the process used to obtain community input into the design and implementation of activities related to such grant; and
 
-&emsp;(4) the applicant agrees to submit, every 2 years, to the lead State agency under section 300ff–27(b)(4) of this title audits, consistent with Office of Management and Budget circular A133, regarding funds expended in accordance with this subchapter and shall include necessary client level data to complete unmet need calculations and Statewide coordinated statements of need process.
+&emsp;(4) the applicant agrees to submit, every 2 years, to the lead State agency under section300ff–27(b)(4) of this title audits, consistent with Office of Management and Budget circular A133, regarding funds expended in accordance with this subchapter and shall include necessary client level data to complete unmet need calculations and Statewide coordinated statements of need process.
 
 #### (b) Provision of opportunities for anonymous counseling and testing
 
@@ -114,7 +114,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;(5) the applicant will provide for the establishment of a clinical quality management program—
 
-&emsp;&emsp;(A) to assess the extent to which medical services funded under this subchapter thatare provided to patients are consistent with the most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infections, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines; and
+&emsp;&emsp;(A) to assess the extent to which medical services funded under this subchapter that are provided to patients are consistent with the most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infections, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines; and
 
 &emsp;&emsp;(B) to ensure that improvements in the access to and quality of HIV health services are addressed.
 
@@ -122,9 +122,9 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 #### Amendments
 
-2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+<b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 Subsec. (a)(1)(C), (D). Pub. L. 109–415, §306(b)(1), added subpars. (C) and (D).
 
@@ -140,7 +140,7 @@ Subsec. (g)(5). Pub. L. 109–415, §301(b)(2), inserted “clinical” before �
 
 Subsec. (g)(5)(A). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease”.
 
-2000—Subsecs. (e)(5), (f)(2). Pub. L. 106–345, §301(b)(3)(A), (B), struck out “300ff–42(b) or” after “a waiver under section”.
+<b>2000</b>—Subsecs. (e)(5), (f)(2). Pub. L. 106–345, §301(b)(3)(A), (B), struck out “300ff–42(b) or” after “a waiver under section”.
 
 Subsec. (g)(3). Pub. L. 106–345, §322(1)(A), substituted “10 percent” for “7.5 percent”.
 
@@ -148,7 +148,7 @@ Subsec. (g)(5). Pub. L. 106–345, §322(1)(B), (2), (3), added par. (5).
 
 Subsec. (h). Pub. L. 106–345, §301(b)(3)(C), struck out heading and text of subsec. (h). Text read as follows: “A State may not use amounts received under a grant awarded under section 300ff–41 of this title to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.”
 
-1996—Subsec. (g)(3). Pub. L. 104–146, §3(d)(5)(B)(i), substituted “7.5 percent including planning and evaluation” for “5 percent”.
+<b>1996</b>—Subsec. (g)(3). Pub. L. 104–146, §3(d)(5)(B)(i), substituted “7.5 percent including planning and evaluation” for “5 percent”.
 
 Subsec. (g)(4). Pub. L. 104–146, §3(d)(5)(A), (B)(ii), (C), added par. (4).
 

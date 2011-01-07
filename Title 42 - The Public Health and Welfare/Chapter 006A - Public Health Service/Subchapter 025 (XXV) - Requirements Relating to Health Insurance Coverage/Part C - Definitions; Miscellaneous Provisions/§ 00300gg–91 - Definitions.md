@@ -18,7 +18,7 @@
 
 #### (3) Treatment of certain plans as group health plan for notice provision
 
-&emsp;A program under which creditable coverage described in subparagraph (C), (D), (E), or (F) of section 300gg(c)(1) of this title is provided shall be treated as a group health plan for purposes of applying section 300gg(e) of this title.
+&emsp;A program under which creditable coverage described in subparagraph (C), (D), (E), or (F) of section 2701(c)(1) <sup>1</sup> is provided shall be treated as a group health plan for purposes of applying section 2701(e).<sup>1</sup>
 
 #### (b) Definitions relating to health insurance
 
@@ -28,7 +28,7 @@
 
 #### (2) Health insurance issuer
 
-&emsp;The term “health insurance issuer” means an insurance company, insurance service, or insurance organization (including a healthmaintenance organization, as defined in paragraph (3)) which is licensed to engage in the business of insurance in a State and which is subject to State law which regulates insurance (within the meaning of section 514(b)(2) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1144(b)(2)\]). Such term does not include a group health plan.
+&emsp;The term “health insurance issuer” means an insurance company, insurance service, or insurance organization (including a health maintenance organization, as defined in paragraph (3)) which is licensed to engage in the business of insurance in a State and which is subject to State law which regulates insurance (within the meaning of section 514(b)(2) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1144(b)(2)\]). Such term does not include a group health plan.
 
 #### (3) Health maintenance organization
 
@@ -130,7 +130,7 @@ For purposes of this subchapter, the term “excepted benefits” means benefits
 
 #### (6) Employer
 
-&emsp;The term “employer” has the meaning given such term under section 3(5) of the EmployeeRetirement Income Security Act of 1974 \[29 U.S.C. 1002(5)\], except that such term shall include only employers of two or more employees.
+&emsp;The term “employer” has the meaning given such term under section 3(5) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(5)\], except that such term shall include only employers of two or more employees.
 
 #### (7) Church plan
 
@@ -150,7 +150,7 @@ Non-Federal governmental plan.—The term “non-Federal governmental plan” me
 
 #### (9) Health status-related factor
 
-&emsp;The term “health status-related factor” means any of the factors described in section 300gg–1(a)(1) of this title.
+&emsp;The term “health status-related factor” means any of the factors described in section 2702(a)(1).<sup>1</sup>
 
 #### (10) Network plan
 
@@ -176,7 +176,7 @@ Non-Federal governmental plan.—The term “non-Federal governmental plan” me
 
 &emsp;The term “family member” means, with respect to any individual—
 
-&emsp;&emsp;(A) a dependent (as such term is used for purposes of section 300gg(f)(2) of this title) of such individual; and
+&emsp;&emsp;(A) a dependent (as such term is used for purposes of section 2701(f)(2)) <sup>1</sup> of such individual; and
 
 &emsp;&emsp;(B) any other individual who is a first-degree, second-degree, third-degree, or fourth-degree relative of such individual or of an individual described in subparagraph (A).
 
@@ -236,6 +236,14 @@ Non-Federal governmental plan.—The term “non-Federal governmental plan” me
 
 &emsp;&emsp;(D) other activities related to the creation, renewal, or replacement of a contract of health insurance or health benefits.
 
+#### (20) Qualified health plan
+
+&emsp;The term “qualified health plan” has the meaning given such term in section 18021(a) of this title.
+
+#### (21) Exchange
+
+&emsp;The term “Exchange” means an American Health Benefit Exchange established under section 18031 of this title.
+
 #### (e) Definitions relating to markets and small employers
 
 For purposes of this subchapter:
@@ -250,7 +258,7 @@ For purposes of this subchapter:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), such terms <sup>1</sup> includes coverage offered in connection with a group health plan that has fewer than two participants as current employees on the first day of the plan year.
+&emsp;&emsp;&emsp;Subject to clause (ii), such terms <sup>2</sup> includes coverage offered in connection with a group health plan that has fewer than two participants as current employees on the first day of the plan year.
 
 #### (ii) State exception
 
@@ -258,7 +266,7 @@ For purposes of this subchapter:
 
 #### (2) Large employer
 
-&emsp;The term “large employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 51 employees on business days during the preceding calendar year and who employs at least 2 employees on the first day of the plan year.
+&emsp;The term “large employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 101 employees on business days during the preceding calendar year and who employs at least 2 employees on the first day of the plan year.
 
 #### (3) Large group market
 
@@ -266,7 +274,7 @@ For purposes of this subchapter:
 
 #### (4) Small employer
 
-&emsp;The term “small employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 2 but not more than 50 employees on business days during the preceding calendar year and who employs at least 2 employees on the first day of the plan year.
+&emsp;The term “small employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 1 but not more than 100 employees on business days during the preceding calendar year and who employs at least 1 employees <sup>3</sup> on the first day of the plan year.
 
 #### (5) Small group market
 
@@ -278,7 +286,7 @@ For purposes of this subchapter:
 
 #### (A) Application of aggregation rule for employers
 
-&emsp;&emsp;all <sup>2</sup> persons treated as a single employer under subsection (b), (c), (m), or (<i>o</i>) of section 414 of title 26 shall be treated as 1 employer.
+&emsp;&emsp;all <sup>4</sup> persons treated as a single employer under subsection (b), (c), (m), or (<i>o</i>) of section 414 of title 26 shall be treated as 1 employer.
 
 #### (B) Employers not in existence in preceding year
 
@@ -288,21 +296,35 @@ For purposes of this subchapter:
 
 &emsp;&emsp;Any reference in this subsection to an employer shall include a reference to any predecessor of such employer.
 
-(July 1, 1944, ch. 373, title XXVII, §2791, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1972; amended Pub. L. 110–233, title I, §102(a)(4), May 21, 2008, 122 Stat. 890.)
+(July 1, 1944, ch. 373, title XXVII, §2791, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1972; amended Pub. L. 110–233, title I, §102(a)(4), May 21, 2008, 122 Stat. 890; Pub. L. 111–148, title I, §1563(b), (c)(16), formerly §1562(b), (c)(16), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 264, 269, 911.)
 
 #### References in Text
 
+Section 2701, referred to in subsecs. (a)(3) and (d)(15)(A), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
+
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (d)(4)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Part 6 of subtitle B of title I of the Act is classified generally to part 6 (§1161 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+
+Section 2702, referred to in subsec. (d)(9), is a reference to section 2702 of act July 1, 1944. Section 2702, which was classified to section 300gg–1 of this title, was amended by Pub. L. 111–148, title I, §1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (d) to (f) of section 300gg–4 of this title, effective for plan years beginning on or after Jan. 1, 2014. A new section 2702, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to section 300gg–1 of this title.
 
 #### Amendments
 
-2008—Subsec. (d)(15) to (19). Pub. L. 110–233 added pars. (15) to (19).
+<b>2010</b>—Subsec. (d)(20), (21). Pub. L. 111–148, §1563(b), formerly §1562(b), as renumbered by Pub. L. 111–148, §10107(b)(1), added pars. (20) and (21).
+
+Subsec. (e)(2). Pub. L. 111–148, §1563(c)(16)(A), formerly §1562(c)(16)(A), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “101” for “51”.
+
+Subsec. (e)(4). Pub. L. 111–148, §1563(c)(16)(B), formerly §1562(c)(16)(B), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “100” for “50” and “at least 1” for “at least 2” in two places.
+
+<b>2008</b>—Subsec. (d)(15) to (19). Pub. L. 110–233 added pars. (15) to (19).
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–233 applicable, with respect to group health plans and health insurance coverage offered in connection with group health plans, for plan years beginning after the date that is one year after May 21, 2008, and, with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market, after the date that is one year after May 21, 2008, see section 102(d)(2) of Pub. L. 110–233, set out as a note under section 300gg–1 of this title.
+Amendment by Pub. L. 110–233 applicable, with respect to group health plans and health insurance coverage offered in connection with group health plans, for plan years beginning after the date that is one year after May 21, 2008, and, with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market, after the date that is one year after May 21, 2008, see section 102(d)(2) of Pub. L. 110–233, set out as a note under section 300gg–21 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “term”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “term”.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be capitalized.</i>
 

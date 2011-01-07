@@ -62,7 +62,7 @@ Purpose.—The study shall—
 
 “(c)
 
-Participation.—In conducting the study, the Secretary of the Interior shall seek participation fromthe Governor of the State of Wyoming, the Teton County Commissioners, the Secretary of Agriculture, affected land owners, and other interested members of the public.
+Participation.—In conducting the study, the Secretary of the Interior shall seek participation from the Governor of the State of Wyoming, the Teton County Commissioners, the Secretary of Agriculture, affected land owners, and other interested members of the public.
 
 “(d)
 

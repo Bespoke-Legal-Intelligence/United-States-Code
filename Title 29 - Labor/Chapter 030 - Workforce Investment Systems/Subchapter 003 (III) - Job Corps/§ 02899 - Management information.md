@@ -16,7 +16,7 @@
 
 #### (3) Fiscal responsibility
 
-&emsp;Operators shall remain fiscally responsible and control costs, regardless of whether the funds made available for Job Corps centers areincrementally increased or decreased between fiscal years.
+&emsp;Operators shall remain fiscally responsible and control costs, regardless of whether the funds made available for Job Corps centers are incrementally increased or decreased between fiscal years.
 
 #### (b) Audit
 
@@ -98,7 +98,7 @@ The Secretary shall also collect, and submit in the report described in subsecti
 
 #### (e) Methods
 
-The Secretary may collect the information described in subsections (c) and (d) of this sectionusing methods described in section 2871(f)(2) of this title consistent with State law.
+The Secretary may collect the information described in subsections (c) and (d) of this section using methods described in section 2871(f)(2) of this title consistent with State law.
 
 #### (f) Performance assessments and improvements
 
@@ -142,7 +142,7 @@ Prior to the closure of any Job Corps center, the Secretary shall ensure—
 
 #### Amendments
 
-1998—Subsec. (c)(1)(G). Pub. L. 105–277, §101(f) \[title VIII, §401(6)(A)\], substituted “postsecondary” for “post-secondary”.
+<b>1998</b>—Subsec. (c)(1)(G). Pub. L. 105–277, §101(f) \[title VIII, §401(6)(A)\], substituted “postsecondary” for “post-secondary”.
 
 Subsec. (c)(3). Pub. L. 105–277, §101(f) \[title VIII, §401(6)(B)\], substituted “containing,” for “containing”.
 

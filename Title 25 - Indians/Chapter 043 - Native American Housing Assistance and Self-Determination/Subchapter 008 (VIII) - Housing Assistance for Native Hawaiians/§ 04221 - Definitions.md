@@ -32,7 +32,7 @@ In this subchapter:
 
 &emsp;The term “Hawaiian Home Lands” means lands that—
 
-&emsp;&emsp;(A) have the status as Hawaiian home lands under section 204 of the Hawaiian Homes Commission Act, 1920 (42 Stat. 110); or
+&emsp;&emsp;(A) have the status as Hawaiian home lands under section 204 of the HawaiianHomes Commission Act, 1920 (42 Stat. 110); or
 
 &emsp;&emsp;(B) are acquired pursuant to that Act.
 

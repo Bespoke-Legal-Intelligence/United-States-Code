@@ -120,7 +120,7 @@
 
 #### (4) Categorization of prisons
 
-&emsp;The report shall divide the prisons surveyed into three categories. One category shall be composed of all Federal and State prisons. The other two categories shall be defined by the Attorney General in order to compare similar institutions.
+&emsp;The report shall divide the prisons surveyed into three categories. One category shall be composed of all Federal and State prisons. Theother two categories shall be defined by the Attorney General in order to compare similar institutions.
 
 #### (d) Contracts and grants
 
@@ -138,7 +138,7 @@ There are authorized to be appropriated $15,000,000 for each of fiscal years 200
 
 #### Amendments
 
-2005—Subsec. (a)(5). Pub. L. 109–108, §113(a)(1), inserted “, except as authorized in paragraph (7)” before period at end.
+<b>2005</b>—Subsec. (a)(5). Pub. L. 109–108, §113(a)(1), inserted “, except as authorized in paragraph (7)” before period at end.
 
 Subsec. (a)(7). Pub. L. 109–108, §113(a)(2), added par. (7).
 

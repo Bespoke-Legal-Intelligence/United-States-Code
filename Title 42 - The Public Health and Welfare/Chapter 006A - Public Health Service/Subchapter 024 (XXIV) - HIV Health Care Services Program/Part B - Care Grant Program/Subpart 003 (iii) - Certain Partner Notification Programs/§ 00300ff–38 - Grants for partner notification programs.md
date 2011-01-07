@@ -36,7 +36,7 @@ For purposes of subsection (a) of this section, the laws or regulations of a Sta
 
 &emsp;(4) The State annually reports to the Director of the Centers for Disease Control and Prevention the number of individuals from whom the names of partners have been sought under the program under paragraph (1), the number of such individuals who provided the names of partners, and the number of partners so named who were notified under the program.
 
-&emsp;(5) The State cooperates with such Director in carrying out a national program of partnernotification, including the sharing of information between the public health officers of the States.
+&emsp;(5) The State cooperates with such Director in carrying out a national program of partner notification, including the sharing of information between the public health officers of the States.
 
 #### (c) Reporting system for cases of HIV/AIDS; preference in making grants
 
@@ -50,9 +50,9 @@ For the purpose of carrying out this section, there is authorized to be appropri
 
 #### Amendments
 
-2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+<b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 Subsecs. (b), (c). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” wherever appearing.
 

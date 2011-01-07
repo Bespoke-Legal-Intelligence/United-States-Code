@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) to reduce infant mortality and the incidence of preventable diseases and handicapping conditions among children, to reduce the need for inpatient and long-term care services, to increase the number of children (especially preschool children) appropriately immunized against disease and the number of low income children receiving health assessments and follow-up diagnostic and treatment services, and otherwise to promote the health of mothers and infants by providing prenatal, delivery, and postpartum care for low income, at-risk pregnant women, and to promote the health of children by providing preventive and primary care services for low income children;
 
-&emsp;&emsp;(C) to provide rehabilitation services for blind and disabled individuals under the age of 16 receiving benefits under subchapter XVI of this chapter, to the extent medical assistance for such services is not provided under subchapter XIX of this chapter; and
+&emsp;&emsp;(C) to provide rehabilitation services for blind and disabled individuals under the ageof 16 receiving benefits under subchapter XVI of this chapter, to the extent medical assistance for such services is not provided under subchapter XIX of this chapter; and
 
 &emsp;&emsp;(D) to provide and to promote family-centered, community-based, coordinated care (including care coordination services, as defined in subsection (b)(3) of this section) for children with special health care needs and to facilitate the development of community-based systems of services for such children and their families;
 
@@ -60,7 +60,7 @@
 
 &emsp;(ii) $4,000,000 for fiscal year 2008; and
 
-&emsp;(iii) $5,000,000 for fiscal year 2009.
+&emsp;(iii) $5,000,000 for each of fiscal years 2009 through 2012.
 
 (B) Funds appropriated or authorized to be appropriated under subparagraph (A) shall—
 
@@ -100,11 +100,11 @@
 
 (5) For purposes of this subsection, the term “State” means each of the 50 States and the District of Columbia.
 
-(Aug. 14, 1935, ch. 531, title V, §501, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818; amended Pub. L. 97–248, title I, §137(b)(1), (2), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–369, div. B, title III, §2372(a), July 18, 1984, 98 Stat. 1110; Pub. L. 99–272, title IX, §9527(a)–(c), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(a), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 100–203, title IV, §4118(p)(8), Dec. 22, 1987, 101 Stat. 1330–159; Pub. L. 101–239, title VI, §6501(a), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 103–432, title II, §201, Oct. 31, 1994, 108 Stat. 4453; Pub. L. 105–12, §9(d), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–554, §1(a)(6) \[title IX, §921(a)\], Dec. 21, 2000, 114 Stat. 2763,2763A–584; Pub. L. 109–171, title VI, §6064, Feb. 8, 2006, 120 Stat. 100.)
+(Aug. 14, 1935, ch. 531, title V, §501, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818; amended Pub. L. 97–248, title I, §137(b)(1), (2), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–369, div. B, title III, §2372(a), July 18, 1984, 98 Stat. 1110; Pub. L. 99–272, title IX, §9527(a)–(c), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(a), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 100–203, title IV, §4118(p)(8), Dec. 22, 1987, 101 Stat. 1330–159; Pub. L. 101–239, title VI, §6501(a), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 103–432, title II, §201, Oct. 31, 1994, 108 Stat. 4453; Pub. L. 105–12, §9(d), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–554, §1(a)(6) \[title IX, §921(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584; Pub. L. 109–171, title VI, §6064, Feb. 8, 2006, 120 Stat. 100; Pub. L. 111–148, title V, §5507(b), Mar. 23, 2010, 124 Stat. 668.)
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (a), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§14401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of this title and Tables.
 
@@ -126,21 +126,23 @@ Provisions similar to those comprising former section 701 were contained in sect
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–171 added subsec. (c).
+<b>2010</b>—Subsec. (c)(1)(A)(iii). Pub. L. 111–148 substituted “each of fiscal years 2009 through 2012” for “fiscal year 2009”.
 
-2000—Subsec. (a). Pub. L. 106–554 substituted “$850,000,000 for fiscal year 2001” for “$705,000,000 for fiscal year 1994” in introductory provisions.
+<b>2006</b>—Subsec. (c). Pub. L. 109–171 added subsec. (c).
 
-1997—Subsec. (a). Pub. L. 105–12 inserted concluding provisions.
+<b>2000</b>—Subsec. (a). Pub. L. 106–554 substituted “$850,000,000 for fiscal year 2001” for “$705,000,000 for fiscal year 1994” in introductory provisions.
 
-1994—Subsec. (a). Pub. L. 103–432 substituted “$705,000,000 for fiscal year 1994” for “$686,000,000 for fiscal year 1990” in introductory provisions.
+<b>1997</b>—Subsec. (a). Pub. L. 105–12 inserted concluding provisions.
 
-1989—Subsec. (a). Pub. L. 101–239, §6501(a)(1), amended subsec. (a) generally, substituting pars. (1) to (3) for former pars. (1) to (4) and concluding provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–432 substituted “$705,000,000 for fiscal year 1994” for “$686,000,000 for fiscal year 1990” in introductory provisions.
+
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §6501(a)(1), amended subsec. (a) generally, substituting pars. (1) to (3) for former pars. (1) to (4) and concluding provisions.
 
 Subsec. (b)(3), (4). Pub. L. 101–239, §6501(a)(2), added pars. (3) and (4).
 
-1987—Subsec. (b)(2). Pub. L. 100–203 struck out “nonform” after “below the”.
+<b>1987</b>—Subsec. (b)(2). Pub. L. 100–203 struck out “nonform” after “below the”.
 
-1986—Subsec. (a). Pub. L. 99–509 substituted “$553,000,000 for fiscal year 1987, $557,000,000 for fiscal year 1988, and $561,000,000 for fiscal year 1989” for “$478,000,000 for fiscal year 1984” in concluding provisions.
+<b>1986</b>—Subsec. (a). Pub. L. 99–509 substituted “$553,000,000 for fiscal year 1987, $557,000,000 for fiscal year 1988, and $561,000,000 for fiscal year 1989” for “$478,000,000 for fiscal year 1984” in concluding provisions.
 
 Pub. L. 99–272, §9527(b), substituted “children with special health care needs” for “crippled children” in concluding provisions.
 
@@ -148,9 +150,9 @@ Subsec. (a)(4). Pub. L. 99–272, §9527(a), substituted “children who are ‘
 
 Subsec. (b)(1)(A). Pub. L. 99–272, §9527(c), substituted “services for children with special health care needs” for “crippled children's services”.
 
-1984—Subsec. (a). Pub. L. 98–369 substituted “$478,000,000 for fiscal year 1984 and each fiscal year thereafter” for “$373,000,000 for fiscal year 1982 and for each fiscal year thereafter”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted “$478,000,000 for fiscal year 1984 and each fiscal year thereafter” for “$373,000,000 for fiscal year 1982 and for each fiscal year thereafter”.
 
-1982—Subsec. (b)(1)(D). Pub. L. 97–248, §137(b)(1), substituted “title VI” for “title IV”.
+<b>1982</b>—Subsec. (b)(1)(D). Pub. L. 97–248, §137(b)(1), substituted “title VI” for “title IV”.
 
 Subsec. (b)(2). Pub. L. 97–248, §137(b)(2), substituted “section 9902(2)” for “section 2971d”.
 
@@ -210,7 +212,7 @@ Section 2194 of Pub. L. 97–35 provided that:
 
 &emsp;“(i) the amount that may be made available for expenditures for the consolidated Federal programs for fiscal year 1982 and for projects and programs under section 502(a) of the Social Security Act \[section 702(a) of this title\] (as amended by this subtitle) may not exceed the amount provided for projects and programs under such section 502(a) for that fiscal year, and
 
-&emsp;“(ii) the amount that may be made available to a State (or entities in the State) for carrying out the consolidated State programs for fiscal year 1982 and for allotments to the State under section 502(b) of the Social Security Act \[section 702(b) of this title\] (as amended by this subtitle) may not exceed the amount which is allotted to the State for that fiscal year under such section (without regard to paragraphs (3) and (4) thereof).
+&emsp;“(ii) the amount that may be made available to a State (or entities in the State) for carrying out the consolidated State programs for fiscal year 1982 and for allotments to the State under section 502(b) of theSocial Security Act \[section 702(b) of this title\] (as amended by this subtitle) may not exceed the amount which is allotted to the State for that fiscal year under such section (without regard to paragraphs (3) and (4) thereof).
 
 “(C) For fiscal year 1982, the Secretary shall reduce the amount which would otherwise be available—
 

@@ -36,7 +36,7 @@
 
 (h) Liabilities of the former Post Office Department to the Employees’ Compensation Fund (appropriations for which were authorized by former section 2004, as in effect before the effective date of this subsection) shall be liabilities of the Postal Service payable out of the Fund.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 739; Pub. L. 94–421, §2(c), Sept. 24, 1976, 90 Stat. 1304; Pub. L. 97–35, title XVII, §1725, Aug. 13, 1981, 95 Stat. 760; Pub. L. 97–258, §3(<i>l</i>)(1), Sept. 13, 1982, 96 Stat.1066; Pub. L. 99–500, §101(m) \[title II, §201(b)\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–314, and Pub. L. 99–591, §101(m) \[title II, §201(b)\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–314; Pub. L. 100–690, title VI, §6252, Nov. 18, 1988, 102 Stat. 4362; Pub. L. 101–239, title IV, §4004(a), Dec. 19, 1989, 103 Stat. 2135; Pub. L. 102–393, title VI, §638(g), Oct. 6, 1992, 106 Stat. 1790; Pub. L. 105–33, title VII, §7003(a)(2)(B), (b), Aug. 5, 1997, 111 Stat. 663; Pub. L. 109–435, title IV, §401(b)(3), title VI, §603(c)(2), title X, §1008(c)(1), Dec. 20, 2006, 120 Stat. 3225, 3241, 3260.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 739; Pub. L. 94–421, §2(c), Sept. 24, 1976, 90 Stat. 1304; Pub. L. 97–35, title XVII, §1725, Aug. 13, 1981, 95 Stat. 760; Pub. L. 97–258, §3(<i>l</i>)(1), Sept. 13, 1982, 96 Stat. 1066; Pub. L. 99–500, §101(m) \[title II, §201(b)\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–314, and Pub. L. 99–591, §101(m) \[title II, §201(b)\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–314; Pub. L. 100–690, title VI, §6252, Nov. 18, 1988, 102 Stat. 4362; Pub. L. 101–239, title IV, §4004(a), Dec. 19, 1989, 103 Stat. 2135; Pub. L. 102–393, title VI, §638(g), Oct. 6, 1992, 106 Stat. 1790; Pub. L. 105–33, title VII, §7003(a)(2)(B), (b), Aug. 5, 1997, 111 Stat. 663; Pub. L. 109–435, title IV, §401(b)(3), title VI, §603(c)(2), title X, §1008(c)(1), Dec. 20, 2006, 120 Stat. 3225, 3241, 3260.)
 
 #### References in Text
 
@@ -54,35 +54,35 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–435, §401(b)(3)(A), substituted “title (other than any of the purposes, functions, or powers for which the Competitive Products Fund is available)” for “title”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–435, §401(b)(3)(A), substituted “title (other than any of the purposes, functions, or powers for which the Competitive Products Fund is available)” for “title”.
 
 Subsec. (b). Pub. L. 109–435, §401(b)(3)(B), substituted “Except as otherwise provided in section 2011, there” for “There”.
 
 Subsec. (b)(9). Pub. L. 109–435, §1008(c)(1), added par. (9).
 
-Subsec. (e)(1). Pub. L. 109–435, §603(c)(2), substituted “The Fund shall be available for the payment of (A) all expenses incurred by the Postal Service in carrying out its functions as provided by law, subject to the same limitation as set forth in the parenthetical matter under subsection (a); (B) all expenses of the Postal Regulatory Commission, subject to the availability of amounts appropriated under section 504(d); and (C) all expenses of the Office of Inspector General, subject to the availability of amounts appropriated under section 8G(f) of the Inspector General Act of 1978.” for “The Fund shall be available for the payment of all expenses incurred by the Postal Service in carrying out its functions as provided by law and, subject to the provisions of section 3604 of this title, all of the expenses of the Postal Rate Commission.”
+Subsec. (e)(1). Pub. L. 109–435, §603(c)(2), substituted “The Fund shall be available for the payment of (A) all expenses incurred by the Postal Service in carrying out its functions as provided by law, subject to the same limitation as set forth in the parenthetical matter under subsection (a); (B) all expenses of the Postal Regulatory Commission, subject to the availability of amounts appropriated under section 504(d); and (C) all expenses of the Office of Inspector General, subject to the availability of amounts appropriated under section 8G(f) of the Inspector General Act of 1978.” for “The Fund shall be available for the payment of all expenses incurred by the Postal Service in carrying out its functions as provided by law and, subject to the provisionsof section 3604 of this title, all of the expenses of the Postal Rate Commission.”
 
-1997—Subsec. (e)(2). Pub. L. 105–33, §7003(a)(2)(B), substituted “section 2401” for “sections 2401 and 2004” in two places.
+<b>1997</b>—Subsec. (e)(2). Pub. L. 105–33, §7003(a)(2)(B), substituted “section 2401” for “sections 2401 and 2004” in two places.
 
 Subsec. (h). Pub. L. 105–33, §7003(b), added subsec. (h).
 
-1992—Subsec. (b)(8). Pub. L. 102–393, §638(g)(1), added par. (8).
+<b>1992</b>—Subsec. (b)(8). Pub. L. 102–393, §638(g)(1), added par. (8).
 
 Subsec. (e)(1). Pub. L. 102–393, §638(g)(2), inserted after first sentence “The Postmaster General shall transfer from the Fund to the Secretary of the Treasury for deposit in the Department of the Treasury Forfeiture Fund amounts appropriate to reflect the degree of participation of Department of the Treasury law enforcement organizations (described in section 9703(p) of title 31) in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by the Postal Service.”
 
-1989—Subsec. (g). Pub. L. 101–239 added subsec. (g).
+<b>1989</b>—Subsec. (g). Pub. L. 101–239 added subsec. (g).
 
-1988—Subsec. (b)(7). Pub. L. 100–690 struck out “administrative” after “civil” and “under title 18” after “Service”.
+<b>1988</b>—Subsec. (b)(7). Pub. L. 100–690 struck out “administrative” after “civil” and “under title 18” after “Service”.
 
-1986—Subsec. (b)(7). Pub. L. 99–500 and Pub. L. 99–591, §101(m) \[title II, §201(b)(1)–(3)\], added par. (7).
+<b>1986</b>—Subsec. (b)(7). Pub. L. 99–500 and Pub. L. 99–591, §101(m) \[title II, §201(b)(1)–(3)\], added par. (7).
 
 Subsec. (e)(1). Pub. L. 99–500 and Pub. L. 99–591, §101(m) \[title II, §201(b)(4)\], substituted “as provided by law” for “under this title”.
 
-1982—Subsec. (e)(1). Pub. L. 97–258 substituted “subchapter II of chapter 15 of title 31” for “section 665 of title 31”.
+<b>1982</b>—Subsec. (e)(1). Pub. L. 97–258 substituted “subchapter II of chapter 15 of title 31” for “section 665 of title 31”.
 
-1981—Subsec. (e). Pub. L. 97–35 redesignated existing provisions as par. (1) and added par. (2).
+<b>1981</b>—Subsec. (e). Pub. L. 97–35 redesignated existing provisions as par. (1) and added par. (2).
 
-1976—Subsec. (f). Pub. L. 94–421 added subsec. (f).
+<b>1976</b>—Subsec. (f). Pub. L. 94–421 added subsec. (f).
 
 #### Effective Date of 2006 Amendment; Savings Provisions
 

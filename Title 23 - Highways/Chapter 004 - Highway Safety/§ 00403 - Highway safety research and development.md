@@ -50,7 +50,7 @@ Collaborative Research and Development.—
 
 &emsp;(1)
 
-In general.—For the purpose of encouraging innovative solutions to highway safety problems, stimulating voluntary improvements in highway safety, and stimulating the marketing of new highway safety-related technology by private industry, the Secretary is authorized to undertake, on a cost-shared basis, collaborative research and development with non-Federal entities, including State and local governments, colleges, and universities and corporations, partnerships, sole proprietorships, and trade associations that are incorporated or established under the laws of any State or the United States. This collaborative research may include crash data collection and analysis; driver and pedestrian behavior; and demonstrations of technology.
+In general.—For the purpose of encouraging innovative solutions to highway safety problems, stimulating voluntary improvements in highway safety, and stimulating the marketing of new highway safety-related technology by private industry, the Secretary is authorized to undertake, on a cost-shared basis, collaborative research and development with non-Federal entities, including State andlocal governments, colleges, and universities and corporations, partnerships, sole proprietorships, and trade associations that are incorporated or established under the laws of any State or the United States. This collaborative research may include crash data collection and analysis; driver and pedestrian behavior; and demonstrations of technology.
 
 &emsp;(2)
 
@@ -66,27 +66,27 @@ Applicability of stevenson-wydler technology innovation act.—The research, dev
 
 (g)
 
-International Cooperation.—The Administrator of the National Highway Traffic SafetyAdministration may participate and cooperate in international activities to enhance highway safety.
+International Cooperation.—The Administrator of the National Highway Traffic Safety Administration may participate and cooperate in international activities to enhance highway safety.
 
 (Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 93–87, title II, §§208(a), 220–222, 226(a), Aug. 13, 1973, 87 Stat. 286, 291, 292; Pub. L. 102–240, title II, §2003, Dec. 18, 1991, 105 Stat. 2071; Pub. L. 105–178, title II, §2002(a), (b)(1), June 9, 1998, 112 Stat. 325; Pub. L. 109–59, title II, §§2003(a), (b), 2013(e), Aug. 10, 2005, 119 Stat. 1522, 1540.)
 
 #### References in Text
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (f)(4), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (f)(4), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–59, §2003(a), reenacted heading without change and amended text of subsec. (a) generally, substituting provisions relating to authority of Secretary to use funds for highway safety research programs for former provisions which related to, in par. (1), general authority of Secretary, in par. (2), additional authority of Secretary, and, in par. (3), definition of “safety”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §2003(a), reenacted heading without change and amended text of subsec. (a) generally, substituting provisions relating to authority of Secretary to use funds for highway safety research programs for former provisions which related to, in par. (1), general authority of Secretary, in par. (2), additional authority of Secretary, and, in par. (3), definition of “safety”.
 
 Subsec. (b)(5), (6). Pub. L. 109–59, §2013(e), added pars. (5) and (6).
 
 Subsec. (g). Pub. L. 109–59, §2003(b), added subsec. (g).
 
-1998—Subsec. (a)(2)(A). Pub. L. 105–178, §2002(a), inserted “, including training in work zone safety management” after “personnel”.
+<b>1998</b>—Subsec. (a)(2)(A). Pub. L. 105–178, §2002(a), inserted “, including training in work zone safety management” after “personnel”.
 
 Subsec. (b)(3), (4). Pub. L. 105–178, §2002(b)(1), added pars. (3) and (4).
 
-1991—Subsec. (a). Pub. L. 102–240, §2003(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary is authorized to use funds appropriated to carry out this subsection to carry out safety research which he is authorized to conduct by subsection (a) of section 307 of this title. In addition, the Secretary may use the funds appropriated to carry out this section, either independently or in cooperation with other Federal departments or agencies, for making grants to or contracting with State or local agencies, institutions, and individuals for (1) training or education of highway safety personnel, (2) research fellowships in highway safety, (3) development of improved accident investigation procedures, (4) emergency service plans, (5) demonstration projects, and (6) related activities which the Secretary deems will promote the purposes of this section. The Secretary shall assure that no fees are charged for any meetings or services attendant thereto or other activities relating to training and education of highway safety personnel.”
+<b>1991</b>—Subsec. (a). Pub. L. 102–240, §2003(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary is authorized to use funds appropriated to carry out this subsection to carry out safety research which he is authorized to conduct by subsection (a) of section 307 of this title. In addition, the Secretary may use the funds appropriated to carry out this section, either independently or in cooperation with other Federal departments or agencies, for making grants to or contracting with State or local agencies, institutions, and individuals for (1) training or education of highway safety personnel, (2) research fellowships in highway safety, (3) development of improved accident investigation procedures, (4) emergency service plans, (5) demonstration projects, and (6) related activities which the Secretary deems will promote the purposes of this section. The Secretary shall assure that no fees are charged for any meetings or services attendant thereto or other activities relating to training and education of highway safety personnel.”
 
 Subsec. (b). Pub. L. 102–240, §2003(a), added subsec. (b) and struck out former subsec. (b) which read as follows: “In addition to the research authorized by subsection (a) of this section, the Secretary, in consultation with such other Government and private agencies as may be necessary, is authorized to carry out safety research on the following:
 
@@ -98,7 +98,7 @@ Subsec. (c). Pub. L. 102–240, §2003(c), substituted “subsections (a) and (b
 
 Subsec. (f). Pub. L. 102–240, §2003(b), added subsec. (f) and struck out former subsec. (f) which read as follows: “In addition to the research authorized by subsection (a) of this section, the Secretary shall carry out research, development, and demonstration projects to improve and evaluate the effectiveness of various types of driver education programs in reducing traffic accidents and deaths, injuries, and property damage resulting therefrom. The research, development, and demonstration projects authorized by this subsection may be carried out by the Secretary through grants and contracts with public and private agencies, institutions, and individuals. The Secretary shall report to the Congress by July 1, 1975, and each year thereafter during the continuance of the program, on the research, development, and demonstration projects authorized by this subsection, and shall include in such report an evaluation of the effectiveness of driver education programs in reducing traffic accidents and deaths, injuries, and property damage resulting therefrom.”
 
-1973—Subsec. (a). Pub. L. 93–87, §§208(a), 220, designated existing provisions as subsec. (a); substituted in first sentence “this subsection” for “this section”; substituted in second sentence “for making grants to or contracting with State or local agencies, institutions, and individuals for (1) training or education of highway safety personnel” for “for (1) grants to State or local agencies, institutions, and individuals for training or education of highway safety personnel” and “(6) related activities which the Secretary deems will promote the purposes of this section” for (6) related activities which are deemed by the Secretary to be necessary to carry out the purposes of this section”; and inserted requirement that the Secretary assure that no fees be charged for any meeting or services attendant thereto or other activities relating to training and education of highway safety personnel.
+<b>1973</b>—Subsec. (a). Pub. L. 93–87, §§208(a), 220, designated existing provisions as subsec. (a); substituted in first sentence “this subsection” for “this section”; substituted in second sentence “for making grants to or contracting with State or local agencies, institutions, and individuals for (1) training or education of highway safety personnel” for “for (1) grants to State or local agencies, institutions, and individuals for training or education of highway safety personnel” and “(6) related activities which the Secretary deems will promote the purposes of this section” for (6) related activities which are deemed by the Secretary to be necessary to carry out the purposes of this section”; and inserted requirement that the Secretary assure that no fees be charged for any meeting or services attendant thereto or other activities relating to training and education of highway safety personnel.
 
 Subsecs. (b), (c). Pub. L. 93–87, §208(a), added subsecs. (b) and (c).
 
@@ -122,7 +122,7 @@ Pub. L. 109–59, title II, §2003(d), Aug. 10, 2005, 119 Stat. 1523, provided t
 
 #### Drug-Impaired Driving Enforcement
 
-Pub. L. 109–59, title II, §2013, Aug. 10, 2005, 119 Stat. 1539, provided that:
+Pub. L. 109–59, title II, §2013, Aug. 10, 2005, 119 Stat. 1539, as amended by Pub. L. 111–147, title IV, §421(m), Mar. 18, 2010, 124 Stat. 86, provided that:
 
 “(a)
 
@@ -188,7 +188,7 @@ Research and Development.—\[Amended section 403(b) of this title.\]
 
 “(f)
 
-Funding.—Out of amounts made available to carry out section 403 of title 23, United States Code, for each of fiscal years 2006 through 2009, the Secretary \[of Transportation\] shall make available $1,200,000 for such fiscal year to carry out this section.”
+Funding.—Out of amounts made available to carry out section 403 of title 23, United States Code, for each of fiscal years 2006 through 2011, the Secretary \[of Transportation\] shall make available $1,200,000 for such fiscal year to carry out this section.”
 
 #### Safety Studies
 
@@ -268,7 +268,7 @@ Establishment.—The Secretary, acting through the National Highway Traffic Safe
 
 “(b)
 
-Advisory Committee.—The Secretary shall establish a citizens advisory committee that shall report to Congress annually on the progress of the implementation of subsection (a). Members of the committee shall include 1 member of each of the following: Mothers Against Drunk Driving; a narcotics control organization; American Medical Association; American BarAssociation; and such other organizations as the Secretary deems appropriate. The committee shall be subject to the provisions of the \[Federal\] Advisory Committee Act \[5 U.S.C. App.\] and shall terminate 2 years after the date of the enactment of this Act \[Dec. 18, 1991\].
+Advisory Committee.—The Secretary shall establish a citizens advisory committee that shall report to Congress annually on the progress of the implementation of subsection (a). Members of the committee shall include 1 member of each of the following: Mothers Against Drunk Driving; a narcotics control organization; American Medical Association; American Bar Association; and such other organizations as the Secretary deems appropriate. The committee shall be subject to the provisions of the \[Federal\] Advisory Committee Act \[5 U.S.C. App.\] and shall terminate 2 years after the date of the enactment of this Act \[Dec. 18, 1991\].
 
 “(c)
 
@@ -384,7 +384,7 @@ Pub. L. 99–570, title III, §3402, Oct. 27, 1986, 100 Stat. 3207–102, direct
 
 #### National Driver Register Study
 
-Pub. L. 95–599, title II, §204, Nov. 6, 1978, 92 Stat. 2729, directed Secretary of Transportation to make a full and complete investigation and study of the need for, and, if necessary, ways and means to establish, a national driver register to assist States in electronically exchanging information regarding motor vehicle driving records of certain individuals, with Secretary toissue a final report to Congress not later than one year after Nov. 6, 1978.
+Pub. L. 95–599, title II, §204, Nov. 6, 1978, 92 Stat. 2729, directed Secretary of Transportation to make a full and complete investigation and study of the need for, and, if necessary, ways and means to establish, a national driver register to assist States in electronically exchanging information regarding motor vehicle driving records of certain individuals, with Secretary to issue a final report to Congress not later than one year after Nov. 6, 1978.
 
 #### Detection and Prevention of Marijuana and Other Drug Use by Operators of Motor Vehicles
 

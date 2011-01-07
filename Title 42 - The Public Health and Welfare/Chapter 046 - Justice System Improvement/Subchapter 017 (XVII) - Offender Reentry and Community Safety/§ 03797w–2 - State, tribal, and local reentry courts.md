@@ -130,3 +130,5 @@ Each entity receiving a grant under this section shall submit to the Attorney Ge
 
 For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 17504 of this title.
 
+<i><sup>1</sup></i><i> So in original. Section 3797w(b) of this title does not contain a par. (19).</i>
+

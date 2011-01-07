@@ -64,9 +64,9 @@ In subsection (a), the words “prescribed under section 410 of this title” ar
 
 #### Amendments
 
-1966—Subsec. (c). Pub. L. 89–718 struck out “, United States Code,” after “title 10”.
+<b>1966</b>—Subsec. (c). Pub. L. 89–718 struck out “, United States Code,” after “title 10”.
 
-1964—Subsec. (c). Pub. L. 88–647, §202(4)(A), (B), among other changes, substituted provisions relating to a cadet or midshipman appointed under section 2107 of title 10, for provisions relating to a midshipman appointed under section 6904 of title 10, or a seaman recruit enlisted under section 6905 of title 10, and “educational institution” for “college or university”, in text, and “Cadets and midshipmen” for “Cadets, midshipmen, and naval officer candidates”, in section catchline.
+<b>1964</b>—Subsec. (c). Pub. L. 88–647, §202(4)(A), (B), among other changes, substituted provisions relating to a cadet or midshipman appointed under section 2107 of title 10, for provisions relating to a midshipman appointed under section 6904 of title 10, or a seaman recruit enlisted under section 6905 of title 10, and “educational institution” for “college or university”, in text, and “Cadets and midshipmen” for “Cadets, midshipmen, and naval officer candidates”, in section catchline.
 
 Subsec. (d). Pub. L. 88–647, §202(4)(C), struck out subsec. (d) which entitled a midshipman under section 6906 of title 10, while on flight training or duty, to the allowances of a midshipman at the United States Naval Academy.
 

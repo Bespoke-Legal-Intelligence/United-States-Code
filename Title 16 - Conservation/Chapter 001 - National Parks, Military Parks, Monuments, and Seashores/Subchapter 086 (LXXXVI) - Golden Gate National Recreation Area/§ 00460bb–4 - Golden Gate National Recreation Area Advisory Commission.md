@@ -32,9 +32,9 @@ The Commission shall cease to exist thirty years after October 27, 1972.
 
 #### Amendments
 
-1992—Subsec. (g). Pub. L. 102–525 substituted “thirty” for “twenty”.
+<b>1992</b>—Subsec. (g). Pub. L. 102–525 substituted “thirty” for “twenty”.
 
-1980—Subsec. (b). Pub. L. 96–607, §1001(6), substituted “eighteen” for “seventeen”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–607, §1001(6), substituted “eighteen” for “seventeen”.
 
 Pub. L. 96–344, §4(2), substituted “five” for “three” and inserted proviso that the terms of members appointed or reappointed subsequent to Jan. 1, 1979, be extended so as not to expire before June 1, 1985.
 
@@ -42,7 +42,7 @@ Subsec. (e). Pub. L. 96–607, §1001(7), substituted “Marin, San Mateo,” fo
 
 Subsec. (g). Pub. L. 96–344, §4(3), substituted “twenty” for “ten”.
 
-1978—Subsec. (b). Pub. L. 95–625 increased Commission membership from fifteen to seventeen.
+<b>1978</b>—Subsec. (b). Pub. L. 95–625 increased Commission membership from fifteen to seventeen.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a colon.</i>
 

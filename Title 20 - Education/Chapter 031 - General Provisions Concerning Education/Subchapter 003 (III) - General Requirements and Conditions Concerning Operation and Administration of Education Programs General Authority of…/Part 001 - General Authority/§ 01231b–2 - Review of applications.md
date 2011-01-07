@@ -26,7 +26,7 @@ Another prior section 432 of Pub. L. 90–247 was renumbered section 442, and wa
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–382, §243(1)(C), (D), inserted comma after “the hearing” in third sentence and substituted “guidelines governing such applicable program, it” for “guidelines, governing such applicable program it” in fourth sentence.
+<b>1994</b>—Subsec. (a). Pub. L. 103–382, §243(1)(C), (D), inserted comma after “the hearing” in third sentence and substituted “guidelines governing such applicable program, it” for “guidelines, governing such applicable program it” in fourth sentence.
 
 Pub. L. 103–382, §243(1)(A), (B), substituted “Secretary, any applicant” for “Commissioner, and in the case of the program provided for in title I of the Elementary and Secondary Education Act of 1965, any applicant”.
 
@@ -34,7 +34,7 @@ Subsec. (b). Pub. L. 103–382, §243(2), substituted “Secretary” for “Com
 
 Subsec. (d). Pub. L. 103–382, §243(3), substituted “Secretary under” for “Commissioner under” and “Secretary shall” for “Commissioner shall” and inserted before period at end “or issue such other orders as the Secretary may deem appropriate to achieve such compliance”.
 
-1978—Subsec. (a). Pub. L. 95–561 added cl. (3) relating to the ordering, in accordance with a final State audit resolution determination, the repayment of misspent or misapplied Federal funds, and redesignated former cl. (3) as (4).
+<b>1978</b>—Subsec. (a). Pub. L. 95–561 added cl. (3) relating to the ordering, in accordance with a final State audit resolution determination, the repayment of misspent or misapplied Federal funds, and redesignated former cl. (3) as (4).
 
 #### Effective Date of 1978 Amendment
 

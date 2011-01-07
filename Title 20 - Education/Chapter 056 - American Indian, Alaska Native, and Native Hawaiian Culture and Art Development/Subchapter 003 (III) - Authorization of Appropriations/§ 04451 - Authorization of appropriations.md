@@ -34,9 +34,9 @@ This chapter, referred to in subsec. (a)(5), was in the original “this Act” 
 
 #### Amendments
 
-1990—Subsec. (a)(4), (5). Pub. L. 101–644 added pars. (4) and (5).
+<b>1990</b>—Subsec. (a)(4), (5). Pub. L. 101–644 added pars. (4) and (5).
 
-1988—Subsec. (a). Pub. L. 100–297 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There are authorized to be appropriated for the purpose of carrying out the provisions of subchapter I of this chapter—
+<b>1988</b>—Subsec. (a). Pub. L. 100–297 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There are authorized to be appropriated for the purpose of carrying out the provisions of subchapter I of this chapter—
 
 &emsp;“(1) for fiscal year 1987, $4,000,000, and
 
@@ -45,4 +45,6 @@ This chapter, referred to in subsec. (a)(5), was in the original “this Act” 
 #### Effective Date of 1988 Amendment
 
 For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as a note under section 1071 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

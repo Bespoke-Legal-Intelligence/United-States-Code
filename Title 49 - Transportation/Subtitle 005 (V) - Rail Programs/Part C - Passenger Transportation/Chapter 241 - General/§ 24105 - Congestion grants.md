@@ -20,7 +20,7 @@ Federal Share.—The Federal share of the cost of a project financed under this 
 
 (d)
 
-Grant Conditions.—The Secretary of Transportation shall require each recipient of a grant under this section to comply with the grant requirements of section 24405 of this title.
+Grant Conditions.—The Secretary of Transportation shall require each recipient of agrant under this section to comply with the grant requirements of section 24405 of this title.
 
 (e)
 
@@ -39,4 +39,6 @@ Authorization of Appropriations.—There are authorized to be appropriated, from
 #### References in Text
 
 Section 301 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (e), is section 301 of Pub. L. 110–432, which enacted chapter 244 (§24401 et seq.) of this title and enacted provisions set out as a note under section 24405 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “on-time”.</i>
 

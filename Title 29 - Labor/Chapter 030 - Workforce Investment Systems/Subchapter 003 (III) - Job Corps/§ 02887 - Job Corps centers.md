@@ -16,7 +16,7 @@
 
 #### (A) Competitive basis
 
-&emsp;&emsp;Except as provided in subsections (c) and (d) of section 253 of title 41, the Secretary shall select on a competitive basis an entity to operate a Job Corps center and entities to provide activities described in this subchapter to the Job Corps center. In developing a solicitation for an operator or service provider, the Secretary shall consult with the Governor of the State in which the center is located, the industry council for the Job Corps center (if established), and the applicable local board regarding the contentsof such solicitation, including elements that will promote the consistency of the activities carried out through the center with the objectives set forth in the State plan or in a local plan.
+&emsp;&emsp;Except as provided in subsections (a) to (c) of section 3304 of title 41, the Secretary shall select on a competitive basis an entity to operate a Job Corps center and entities to provide activities described in this subchapter to the Job Corps center. In developing a solicitation for an operator or service provider, the Secretary shall consult with the Governor of the State in which the center is located, the industry council for the Job Corps center (if established), and the applicable local board regarding the contents of such solicitation, including elements that will promote the consistency of the activities carried out through the center with the objectives set forth in the State plan or in a local plan.
 
 #### (B) Recommendations and considerations
 
@@ -61,6 +61,10 @@ Job Corps centers may be residential or nonresidential in character, and shall b
 &emsp;In this subsection, the terms “Indian” and “Indian tribe”, have the meanings given such terms in subsections (d) and (e), respectively, of section 450b of title 25.
 
 (Pub. L. 105–220, title I, §147, Aug. 7, 1998, 112 Stat. 1010.)
+
+#### Codification
+
+In subsec. (a)(2)(A), “subsections (a) to (c) of section 3304 of title 41” substituted for “subsections (c) and (d) of section 303 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
 

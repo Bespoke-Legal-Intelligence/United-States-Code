@@ -46,7 +46,7 @@ The Director shall not use either permanently or temporarily any person charged 
 
 #### (f) Conflict of interest; penalties; rules and regulations; report to Congress
 
-No employee of the Office or any other Federal employee performing any function or duty under this chapter shall have a direct or indirect financial interest in underground or surface coal mining operations. Whoever knowingly violates the provisions of the above sentence shall, uponconviction, be punished by a fine of not more than $2,500, or by imprisonment for not more than one year, or both. The Director shall (1) within sixty days after August 3, 1977, publish regulations, in accordance with section 553 of title 5, to establish the methods by which the provisions of this subsection will be monitored and enforced, including appropriate provisions for the filing by such employees and the review of statements and supplements thereto concerning their financial interests which may be affected by this subsection, and (2) report to the Congress as part of the annual report (section 1296 of this title) on the actions taken and not taken during the preceding calendar year under this subsection.
+No employee of the Office or any other Federal employee performing any function or duty under this chapter shall have a direct or indirect financial interest in underground or surface coal mining operations. Whoever knowingly violates the provisions of the above sentence shall, upon conviction, be punished by a fine of not more than $2,500, or by imprisonment for not more than one year, or both. The Director shall (1) within sixty days after August 3, 1977, publish regulations, in accordance with section 553 of title 5, to establish the methods by which the provisions of this subsection will be monitored and enforced, including appropriate provisions for the filing by such employees and the review of statements and supplements thereto concerning their financial interests which may be affected by this subsection, and (2) report to the Congress as part of the annual report (section 1296 of this title) on the actions taken and not taken during the preceding calendar year under this subsection.
 
 #### (g) Petition for issuance, amendment, or repeal of rule; filing; hearing or investigation; notice of denial
 
@@ -66,9 +66,9 @@ The Federal Coal Mine Health and Safety Act of 1969, referred to in subsecs. (b)
 
 #### Amendments
 
-1980—Subsec. (e). Pub. L. 96–511 struck subsec. (e) which provided for consideration of Office of Surface Mining Reclamation and Enforcement as an independent Federal regulatory agency. See section 3502(10) of Title 44, Public Printing and Documents.
+<b>1980</b>—Subsec. (e). Pub. L. 96–511 struck subsec. (e) which provided for consideration of Office of Surface Mining Reclamation and Enforcement as an independent Federal regulatory agency. See section 3502(10) of Title 44, Public Printing and Documents.
 
-1978—Subsec. (b). Pub. L. 95–240 substituted “V” for “IV”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–240 substituted “V” for “IV”.
 
 #### Effective Date of 1980 Amendment
 
@@ -131,4 +131,6 @@ Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1002.
 Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1927.
 
 Pub. L. 101–121, title I, Oct. 23, 1989, 103 Stat. 712.
+
+<i><sup>1</sup></i><i> So in original. Probably should be section “5316”.</i>
 

@@ -100,7 +100,7 @@ The owner or operator of a vessel shall be liable in accordance with this sectio
 
 #### (i) Application of a registered pesticide product
 
-No person (including the United States or any State or Indian tribe) may recover under the authority of this section for any response costs or damages resulting from the application of a pesticide product registered under the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\]. Nothing in this paragraph shall affect or modify in any way the obligations or liability of any person under any other provision of State or Federal law, including common law, for damages, injury, or loss resulting from a release of any hazardous substance or for removal or remedial action or the costs of removal or remedial action of such hazardous substance.
+No person (including the United States or any State or Indian tribe) may recover under the authority of this section for any response costs or damages resulting from the application of a pesticide product registered under the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\]. Nothing in this paragraph shall affect or modify in any way the obligations or liability of any person under any other provision of State or Federal law, including common law, for damages, injury, or loss resulting froma release of any hazardous substance or for removal or remedial action or the costs of removal or remedial action of such hazardous substance.
 
 #### (j) Obligations or liability pursuant to federally permitted release
 
@@ -120,7 +120,7 @@ Recovery by any person (including the United States or any State or Indian tribe
 
 (4)(A) Not later than one year after December 11, 1980, the Secretary of the Treasury shall conduct a study and shall submit a report thereon to the Congress on the feasibility of establishing or qualifying an optional system of private insurance for postclosure financial responsibility for hazardous waste disposal facilities to which this subsection applies. Such study shall include a specification of adequate and realistic minimum standards to assure that any such privately placed insurance will carry out the purposes of this subsection in a reliable, enforceable, and practical manner. Such a study shall include an examination of the public and private incentives, programs, and actions necessary to make privately placed insurance a practical and effective option to the financing system for the Post-closure Liability Fund provided in subchapter II <sup>1</sup> of this chapter.
 
-(B) Not later than eighteen months after December 11, 1980, and after a public hearing, the President shall by rule determine whether or not it is feasible to establish or qualify an optional system of private insurance for postclosure financial responsibility for hazardous waste disposal facilities to which this subsection applies. If the President determines the establishment or qualification of such a system would be infeasible, he shall promptly publish an explanation of the reasons for such a determination. If the President determines the establishment or qualification of such a system would be feasible, he shall promptly publish notice of such determination. Not later than six months after an affirmative determination under the precedingsentence and after a public hearing, the President shall by rule promulgate adequate and realistic minimum standards which must be met by any such privately placed insurance, taking into account the purposes of this chapter and this subsection. Such rules shall also specify reasonably expeditious procedures by which privately placed insurance plans can qualify as meeting such minimum standards.
+(B) Not later than eighteen months after December 11, 1980, and after a public hearing, the President shall by rule determine whether or not it is feasible to establish or qualify an optional system of private insurance for postclosure financial responsibility for hazardous waste disposal facilities to which this subsection applies. If the President determines the establishment or qualification of such a system would be infeasible, he shall promptly publish an explanation of the reasons for such a determination. If the President determines the establishment or qualification of such a system would be feasible, he shall promptly publish notice of such determination. Not later than six months after an affirmative determination under the preceding sentence and after a public hearing, the President shall by rule promulgate adequate and realistic minimum standards which must be met by any such privately placed insurance, taking into account the purposes of this chapter and this subsection. Such rules shall also specify reasonably expeditious procedures by which privately placed insurance plans can qualify as meeting such minimum standards.
 
 (C) In the event any privately placed insurance plan qualifies under subparagraph (B), any person enrolled in, and complying with the terms of, such plan shall be excluded from the provisions of paragraphs (1), (2), and (3) of this subsection and exempt from the requirements to pay any tax or fee to the Post-closure Liability Fund under subchapter II <sup>1</sup> of this chapter.
 
@@ -184,13 +184,13 @@ Consideration of options.—In conducting the study under this paragraph, the Co
 
 &emsp;(F)
 
-Recommendations.—The Comptroller General shall consider options for funding any program under this section and shall, to the extent necessary, make recommendations to the appropriate committees of Congress foradditional authority to implement such program.
+Recommendations.—The Comptroller General shall consider options for funding any program under this section and shall, to the extent necessary, make recommendations to the appropriate committees of Congress for additional authority to implement such program.
 
 #### (<i>l</i>) Federal lien
 
 #### (1) In general
 
-&emsp;All costs and damages for which a person is liable to the United States under subsection (a) of this section (other than the owner or operator of a vessel under paragraph (1) of subsection (a) of this section) shall constitute a lien in favor of the United States upon all real property and rights to such property which—
+&emsp;All costs and damages for which a person is liable to the United States under subsection (a) of this section (other than the owner or operator of a vessel under paragraph (1) of subsection (a) of this section) shall constitute alien in favor of the United States upon all real property and rights to such property which—
 
 &emsp;&emsp;(A) belong to such person; and
 
@@ -352,7 +352,7 @@ All costs and damages for which the owner or operator of a vessel is liable unde
 
 #### (4) Nongovernmental third-party contribution actions
 
-&emsp;In the case of a contribution action, with respect to response costs at a facility on the National Priorities List, brought by a party,other than a Federal, State, or local government, under this chapter, the burden of proof shall be on the party bringing the action to demonstrate that the conditions described in paragraph (1)(A) and (B) of this subsection are not met.
+&emsp;In the case of a contribution action, with respect to response costs at a facility on the National Priorities List, brought by a party, other than a Federal, State, or local government, under this chapter, the burden of proof shall be on the party bringing the action to demonstrate that the conditions described in paragraph (1)(A) and (B) of this subsection are not met.
 
 #### (p) Municipal solid waste exemption
 
@@ -420,11 +420,11 @@ All costs and damages for which the owner or operator of a vessel is liable unde
 
 #### (6) Certain actions not permitted
 
-&emsp;No contribution action may be brought by a party, other than a Federal, State, or local government, under this chapter with respectto circumstances described in paragraph (1)(A).
+&emsp;No contribution action may be brought by a party, other than a Federal, State, or local government, under this chapter with respect to circumstances described in paragraph (1)(A).
 
 #### (7) Costs and fees
 
-&emsp;A nongovernmental entity that commences, after January 11, 2002, a contribution action under this chapter shall be liable to the defendant for all reasonable costs of defending the action, including all reasonable attorney's fees and expert witness fees, if the defendant is not liable for contribution based on an exemption under this subsection or subsection (<i>o</i>) of this section.
+&emsp;A nongovernmental entity that commences, after January 11, 2002, a contribution actionunder this chapter shall be liable to the defendant for all reasonable costs of defending the action, including all reasonable attorney's fees and expert witness fees, if the defendant is not liable for contribution based on an exemption under this subsection or subsection (<i>o</i>) of this section.
 
 #### (q) Contiguous properties
 
@@ -538,6 +538,8 @@ All costs and damages for which the owner or operator of a vessel is liable unde
 
 #### References in Text
 
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+
 Such amendments, referred to in the last sentence of subsec. (a), probably means the amendments made by Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613, known as the “Superfund Amendments and Reauthorization Act of 1986”. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 9601 of this title and Tables.
 
 Act of March 3, 1851 (46 U.S.C. 183ff), referred to in subsec. (h), is act Mar. 3, 1851, ch. 43, 9 Stat. 635, which was incorporated into the Revised Statutes as R.S. §§4282, 4283, 4284 to 4287 and 4289, which were classified to sections 182, 183, and 184 to 188 of the former Appendix to Title 46, Shipping, prior to being repealed and restated in chapter 305 of Title 46 by Pub. L. 109–304, §§6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding section 101 of Title 46.
@@ -556,19 +558,19 @@ The Small Business Act, referred to in subsec. (p)(1), is Pub. L. 85–536, §2(
 
 #### Amendments
 
-2002—Subsecs. (<i>o</i>), (p). Pub. L. 107–118, §102(a), added subsecs. (<i>o</i>) and (p).
+<b>2002</b>—Subsecs. (<i>o</i>), (p). Pub. L. 107–118, §102(a), added subsecs. (<i>o</i>) and (p).
 
 Subsec. (q). Pub. L. 107–118, §221, added subsec. (q).
 
 Subsec. (r). Pub. L. 107–118, §222(b), added subsec. (r).
 
-1996—Subsec. (c)(1)(C). Pub. L. 104–287 substituted “section 60101(a) of title 49” for “the Hazardous Liquid Pipeline Safety Act of 1979”.
+<b>1996</b>—Subsec. (c)(1)(C). Pub. L. 104–287 substituted “section 60101(a) of title 49” for “the Hazardous Liquid Pipeline Safety Act of 1979”.
 
 Subsec. (n). Pub. L. 104–208 added subsec. (n).
 
-1994—Subsec. (c)(1)(C). Pub. L. 103–429 substituted “hazardous liquid pipeline facility” for “pipeline”.
+<b>1994</b>—Subsec. (c)(1)(C). Pub. L. 103–429 substituted “hazardous liquid pipeline facility” for “pipeline”.
 
-1986—Subsec. (a). Pub. L. 99–514, in penultimate sentence, substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, in penultimate sentence, substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Pub. L. 99–499, §107(b), inserted concluding provisions relating to accrual and rate of interest on amounts recoverable under this section.
 

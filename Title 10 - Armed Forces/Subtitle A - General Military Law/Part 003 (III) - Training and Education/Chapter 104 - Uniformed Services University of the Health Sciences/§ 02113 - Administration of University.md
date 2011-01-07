@@ -48,7 +48,7 @@
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181, §954(a)(3)(A)(i), struck out after first sentence “To assist the Secretary in an advisory capacity, there is a Board of Regents for the University. The Board shall consist of—
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §954(a)(3)(A)(i), struck out after first sentence “To assist the Secretary in an advisory capacity, there is a Board of Regents for the University. The Board shall consist of—
 
 &emsp;“(1) nine persons outstanding in the fields of health and health education who shall be appointed from civilian life by the President, by and with the advice and consent of the Senate;
 
@@ -76,15 +76,15 @@ Subsec. (c)(1). Pub. L. 110–181, §1116(1), inserted “(after due considerati
 
 Pub. L. 110–181, §954(b)(1), substituted “President” for “Dean”.
 
-Subsec. (c)(4). Pub. L. 110–181, §1116(2), substituted “sections 5307 and 5373” for “section 5373” and insertedat end “In no event may the total amount of compensation paid to an employee under paragraph (1) in any year (including salary, allowances, differentials, bonuses, awards, and other similar cash payments) exceed the total amount of annual compensation (excluding expenses) specified in section 102 of title 3.”
+Subsec. (c)(4). Pub. L. 110–181, §1116(2), substituted “sections 5307 and 5373” for “section 5373” and inserted at end “In no event may the total amount of compensation paid to an employee under paragraph (1) in any year (including salary, allowances, differentials, bonuses, awards, and other similar cash payments) exceed the total amount of annual compensation (excluding expenses) specified in section 102 of title 3.”
 
 Subsecs. (d) to (j). Pub. L. 110–181, §954(a)(3)(A)(ii), (iii), redesignated subsecs. (d), (f), (g), (h), (i), and (j) as (b), (c), (d), (e), (f), and (g), respectively, and struck out former subsec. (e) which read as follows: “Members of the Board (other than ex officio members) while attending conferences or meetings or while otherwise performing their duties as members shall be entitled to receive compensation at a rate to be fixed by the Secretary, but not exceeding $100 per diem and shall also be entitled to receive an allowance for necessary travel expenses while so serving away from their place of residence.”
 
-2000—Subsec. (f). Pub. L. 106–398 designated penultimate sentence and last sentence of par. (1) as pars. (2) and (3), respectively, redesignated former par. (3) as (4), and struck out former par. (2) which read as follows: “The Secretary may exempt, at any time, a physician who is a member of the faculty from the restrictions in subsections (a), (b), and (c) of section 5532 of title 5, if the Secretary determines that such exemption is necessary to recruit or retain well-qualified physicians for the faculty of the University. An exemption granted under this paragraph shall terminate upon any break in employment with the University by a physician of three days or more. An exemption granted under this paragraph to a person shall apply to the retired pay of such person beginning with the first month after the month in which the exemption is granted. Not more than five exemptions may be in effect under this paragraph at any time.”
+<b>2000</b>—Subsec. (f). Pub. L. 106–398 designated penultimate sentence and last sentence of par. (1) as pars. (2) and (3), respectively, redesignated former par. (3) as (4), and struck out former par. (2) which read as follows: “The Secretary may exempt, at any time, a physician who is a member of the faculty from the restrictions in subsections (a), (b), and (c) of section 5532 of title 5, if the Secretary determines that such exemption is necessary to recruit or retain well-qualified physicians for the faculty of the University. An exemption granted under this paragraph shall terminate upon any break in employment with the University by a physician of three days or more. An exemption granted under this paragraph to a person shall apply to the retired pay of such person beginning with the first month after the month in which the exemption is granted. Not more than five exemptions may be in effect under this paragraph at any time.”
 
-1999—Subsec. (f)(3). Pub. L. 106–65 added par. (3).
+<b>1999</b>—Subsec. (f)(3). Pub. L. 106–65 added par. (3).
 
-1996—Pub. L. 104–106, §1072(c)(1), substituted “Administration of University” for “Board of Regents” as section catchline.
+<b>1996</b>—Pub. L. 104–106, §1072(c)(1), substituted “Administration of University” for “Board of Regents” as section catchline.
 
 Subsec. (a). Pub. L. 104–106, §1072(b)(2)(A), substituted “conducted by the Secretary of Defense” for “conducted by a Board of Regents (hereinafter in this chapter referred to as the ‘Board’)” and inserted after first sentence “To assist the Secretary in an advisory capacity, there is a Board of Regents for the University.”
 
@@ -100,7 +100,7 @@ Subsec. (h). Pub. L. 104–106, §1072(a), amended subsec. (h) generally. Prior 
 
 Subsecs. (i), (j). Pub. L. 104–106, §1072(b)(2)(F), substituted “Secretary” for “Board” wherever appearing.
 
-1990—Subsec. (j)(1). Pub. L. 101–510, §1322(a)(3)(A), struck out “subject to paragraph (2),” before “to make” in subpar. (B) and before “to enter” in subpars. (C) and (E).
+<b>1990</b>—Subsec. (j)(1). Pub. L. 101–510, §1322(a)(3)(A), struck out “subject to paragraph (2),” before “to make” in subpar. (B) and before “to enter” in subpars. (C) and (E).
 
 Subsec. (j)(2) to (5). Pub. L. 101–510, §1322(a)(3)(B), (C), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “The authority of the Board under clauses (B), (C), and (E) of paragraph (1) may be exercised only if—
 
@@ -108,19 +108,19 @@ Subsec. (j)(2) to (5). Pub. L. 101–510, §1322(a)(3)(B), (C), redesignated par
 
 &emsp;“(B) a period of fifteen days has elapsed following the date on which the notice is received by such committees.”
 
-1989—Subsec. (f)(2). Pub. L. 101–189, §726(a), substituted “five exemptions” for “two exemptions”.
+<b>1989</b>—Subsec. (f)(2). Pub. L. 101–189, §726(a), substituted “five exemptions” for “two exemptions”.
 
 Subsec. (j)(1)(A). Pub. L. 101–189, §726(b)(1), inserted “, accept grants from, and make grants to” after “contracts with” and substituted “or any other” for “or with any other”.
 
-1986—Subsec. (f). Pub. L. 99–661 designated existing provisions as par. (1) and added par. (2).
+<b>1986</b>—Subsec. (f). Pub. L. 99–661 designated existing provisions as par. (1) and added par. (2).
 
-1983—Subsec. (j). Pub. L. 98–132 inserted “Henry M. Jackson” before “Foundation for the Advancement of Military Medicine” wherever appearing.
+<b>1983</b>—Subsec. (j). Pub. L. 98–132 inserted “Henry M. Jackson” before “Foundation for the Advancement of Military Medicine” wherever appearing.
 
 Pub. L. 98–36 added subsec. (j).
 
-1980—Subsecs. (a) and (d). Pub. L. 96–513 inserted “in this chapter” after “hereinafter”.
+<b>1980</b>—Subsecs. (a) and (d). Pub. L. 96–513 inserted “in this chapter” after “hereinafter”.
 
-1978—Subsec. (b)(3). Pub. L. 95–589 added par. (3).
+<b>1978</b>—Subsec. (b)(3). Pub. L. 95–589 added par. (3).
 
 #### Effective Date of 1980 Amendment
 

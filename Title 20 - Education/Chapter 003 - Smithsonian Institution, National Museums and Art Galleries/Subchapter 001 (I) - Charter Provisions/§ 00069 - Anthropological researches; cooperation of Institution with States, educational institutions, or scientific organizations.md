@@ -6,5 +6,5 @@ The Secretary of the Smithsonian Institution is hereby authorized to cooperate w
 
 #### Amendments
 
-1949—Act Aug. 22, 1949, substituted “to continue independently or in cooperation anthropological” for “for continuing ethnological” and inserted “and the natives of lands under the jurisdiction or protection of the United States”.
+<b>1949</b>—Act Aug. 22, 1949, substituted “to continue independently or in cooperation anthropological” for “for continuing ethnological” and inserted “and the natives of lands under the jurisdiction or protection of the United States”.
 

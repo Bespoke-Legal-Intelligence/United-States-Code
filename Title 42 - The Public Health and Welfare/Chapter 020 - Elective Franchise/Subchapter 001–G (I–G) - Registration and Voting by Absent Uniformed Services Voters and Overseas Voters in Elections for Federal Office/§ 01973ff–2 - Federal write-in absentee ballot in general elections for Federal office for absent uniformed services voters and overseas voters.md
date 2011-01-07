@@ -58,7 +58,7 @@ The Federal write-in absentee ballot shall not be valid for use in a general, sp
 
 &emsp;(1) at the request of the State, is approved by the Presidential designee for use in place of the Federal write-in absentee ballot; and
 
-&emsp;(2) is made available to absent uniformed services voters and overseas voters at least 60 days before the deadline for receipt of the State ballot under State law.
+&emsp;(2) is made available to absent uniformed services voters and overseas voters at least 60days before the deadline for receipt of the State ballot under State law.
 
 #### (f) Prohibiting refusal to accept ballot for failure to meet certain requirements
 
@@ -78,11 +78,13 @@ A State is not required to permit use of the Federal write-in absentee ballot, i
 
 &emsp;(2) a State absentee ballot is required to be available to any voter described in section 1973ff–6(5)(B) or (C) of this title, as soon as the official list of candidates in the general, special, primary, or runoff election for Federal office is complete.
 
-(Pub. L. 99–410, title I, §103, Aug. 28, 1986, 100 Stat. 925; Pub. L. 108–375, div. A, title V, §566(c), (d), Oct. 28, 2004, 118 Stat. 1919; Pub. L. 111–84, div. A, title V, §§581(a)(1), (b), 582(b), Oct. 28, 2009, 123 Stat. 2326, 2327.)
+(Pub. L. 99–410, title I, §103, Aug. 28, 1986, 100 Stat. 925; Pub. L. 108–375, div. A, title V, §566(c), (d), Oct. 28, 2004, 118 Stat. 1919; Pub. L. 111–84, div. A, title V, §§581(a)(1), (b), 582(b), Oct. 28, 2009, 123 Stat. 2326, 2327; Pub. L. 111–383, div. A, title X, §1075(d)(3), Jan. 7, 2011, 124 Stat. 4372.)
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–84, §581(b), substituted “In general” for “In General” in subsec. (a) heading, designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
+<b>2011</b>—Subsec. (g). Pub. L. 111–383 amended Pub. L. 111–84, §581(a)(1)(C). See 2009 Amendment note below.
+
+<b>2009</b>—Subsec. (a). Pub. L. 111–84, §581(b), substituted “In general” for “In General” in subsec. (a) heading, designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
 
 Pub. L. 111–84, §581(a)(1)(A), substituted “general, special, primary, and runoff elections for Federal office” for “general elections for Federal office”.
 
@@ -90,11 +92,11 @@ Subsec. (e). Pub. L. 111–84, §581(a)(1)(B), substituted “a general, special
 
 Subsec. (f). Pub. L. 111–84, §582(b)(2), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (f)(1), (2). Pub. L. 111–84, §581(a)(1)(C), which directed substitution of “the general, special, primary, or runoff election for Federal office” for “the general election” each place appearing in subsec. (f), was executed by making the substitution in pars. (1) and (2) prior to the redesignation of subsec. (f) as (g) by Pub. L. 111–84, §582(b)(1), to reflect the probable intent of Congress. See Effective Date of 2009 Amendment note below.
-
 Subsec. (g). Pub. L. 111–84, §582(b)(1), redesignated subsec. (f) as (g).
 
-2004—Pub. L. 108–375, §566(d)(1), substituted “Federal write-in absentee ballot in general elections for Federal office for absent uniformed services voters and overseas voters” for “Federal write-in absentee ballot for overseas voters in general elections for Federal office” in section catchline.
+Pub. L. 111–84, §581(a)(1)(C), as amended by Pub. L. 111–383, substituted “the general, special, primary, or runoff election for Federal office” for “the general election” in pars. (1) and (2).
+
+<b>2004</b>—Pub. L. 108–375, §566(d)(1), substituted “Federal write-in absentee ballot in general elections for Federal office for absent uniformed services voters and overseas voters” for “Federal write-in absentee ballot for overseas voters in general elections for Federal office” in section catchline.
 
 Subsec. (a). Pub. L. 108–375, §566(c)(1), substituted “absent uniformed services voters and overseas voters” for “overseas voters”.
 
@@ -111,6 +113,10 @@ Subsec. (c)(1). Pub. L. 108–375, §566(c)(3), substituted “absent uniformed 
 Subsec. (d). Pub. L. 108–375, §566(c)(4), (d)(2), substituted “absent uniformed services voter or overseas voter” for “overseas voter” in heading and two places in text.
 
 Subsec. (e)(2). Pub. L. 108–375, §566(c)(5), substituted “absent uniformed services voters and overseas voters” for “overseas voters”.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–383, div. A, title X, §1075(d), Jan. 7, 2011, 124 Stat. 4372, provided that the amendment by section 1075(d)(3) is effective as of Oct. 28, 2009, and as if included in Pub. L. 111–84 as enacted.
 
 #### Effective Date of 2009 Amendment
 

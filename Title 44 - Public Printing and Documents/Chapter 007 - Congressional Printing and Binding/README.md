@@ -48,7 +48,7 @@
 
 #### Amendments
 
-1996—Pub. L. 104–186, title II, §223(4)(B), Aug. 20, 1996, 110 Stat. 1751, substituted “Senators” for “Members of Congress” in item 735.
+<b>1996</b>—Pub. L. 104–186, title II, §223(4)(B), Aug. 20, 1996, 110 Stat. 1751, substituted “Senators” for “Members of Congress” in item 735.
 
 #### Federal Records Management Provisions Without Effect on Chapter
 

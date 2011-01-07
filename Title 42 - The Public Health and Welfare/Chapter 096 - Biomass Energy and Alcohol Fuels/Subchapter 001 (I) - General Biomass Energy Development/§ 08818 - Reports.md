@@ -4,7 +4,7 @@
 
 #### (b) Comprehensive list of loans, grants, etc.
 
-Within 120 days after June 30, 1980, the Secretary of Energy and the Secretary of Agriculture shall submit to the Congress a comprehensive list of all the types of loans, grants, incentives, rebates, or any other such private, State, or Federal economic or financial benefits now in effect or proposed which can be or have been used for production of alcohol to be used as a motor fuel or petroleum substitute.
+Within 120 days after June 30, 1980, the Secretary of Energy and the Secretary of Agriculture shall submit to the Congress a comprehensive list of all the types of loans, grants, incentives, rebates, or any other such private, State, or Federal economic or financial benefits now in effect or proposed which can be or havebeen used for production of alcohol to be used as a motor fuel or petroleum substitute.
 
 #### (c) Annual reports; report evaluating overall impact and plan for termination of Office of Alcohol Fuels
 
@@ -20,7 +20,7 @@ Within 120 days after June 30, 1980, the Secretary of Energy and the Secretary o
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–386 struck out subsec. (a) which related to submission of quarterly reports to the President and Congress by Secretary of Agriculture and Secretary of Energy.
+<b>1986</b>—Subsec. (a). Pub. L. 99–386 struck out subsec. (a) which related to submission of quarterly reports to the President and Congress by Secretary of Agriculture and Secretary of Energy.
 
 #### Termination of Reporting Requirements
 

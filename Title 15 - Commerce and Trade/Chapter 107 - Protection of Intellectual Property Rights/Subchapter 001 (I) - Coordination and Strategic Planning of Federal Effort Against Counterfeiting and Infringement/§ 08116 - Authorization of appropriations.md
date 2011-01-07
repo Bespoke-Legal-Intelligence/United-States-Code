@@ -10,3 +10,5 @@ There are authorized to be appropriated for each fiscal year such sums as may be
 
 This subchapter, referred to in subsec. (a), was in the original “this title”, meaning title III of Pub. L. 110–403, Oct. 13, 2008, 122 Stat. 4264, which is classified principally to this subchapter. For complete classification of title III to the Code, see Tables.
 
+<i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
+

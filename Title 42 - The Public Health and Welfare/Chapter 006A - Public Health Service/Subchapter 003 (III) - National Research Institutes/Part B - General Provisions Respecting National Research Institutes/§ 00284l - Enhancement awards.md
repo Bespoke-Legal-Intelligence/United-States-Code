@@ -10,7 +10,7 @@
 
 #### (B) Use
 
-&emsp;&emsp;Grants under subparagraph (A) shall be used to support clinical investigators in the early phases of their independent careers by providing salary and such other support for a period of supervised study.
+&emsp;&emsp;Grants under subparagraph (A) shall be used to support clinical investigators in theearly phases of their independent careers by providing salary and such other support for a period of supervised study.
 
 #### (2) Applications
 
@@ -92,7 +92,7 @@
 
 #### Amendments
 
-2007—Subsec. (a)(3). Pub. L. 109–482, §103(b)(13)(A), struck out heading and text of par. (3). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.”
+<b>2007</b>—Subsec. (a)(3). Pub. L. 109–482, §103(b)(13)(A), struck out heading and text of par. (3). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.”
 
 Subsec. (b)(3). Pub. L. 109–482, §103(b)(13)(B), struck out heading and text of par. (3). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.”
 
@@ -102,5 +102,5 @@ Subsec. (d)(4). Pub. L. 109–482, §103(b)(13)(D), struck out heading and text 
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 orsubsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 

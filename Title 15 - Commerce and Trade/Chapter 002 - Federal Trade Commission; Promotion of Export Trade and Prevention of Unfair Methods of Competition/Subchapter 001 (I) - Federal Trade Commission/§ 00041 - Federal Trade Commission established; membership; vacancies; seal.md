@@ -8,7 +8,7 @@ The Commission shall have an official seal, which shall be judicially noticed.
 
 #### Amendments
 
-1938—Act Mar. 21, 1938, inserted proviso clause to third sentence.
+<b>1938</b>—Act Mar. 21, 1938, inserted proviso clause to third sentence.
 
 #### Transfer of Functions
 
@@ -48,7 +48,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (3) Personnel employed regularly and full time in the immediate offices of members of the Commission other than the Chairman shall not be affected by the provisions of this reorganization plan.
 
-(4) There are hereby reserved to the Commission its functions with respect to revising budget estimates and with respect to determining upon the distribution of appropriated funds according to major programs and purposes.
+(4) There are hereby reserved to the Commission its functions with respect to revising budget estimates and with respect to determining upon the distribution ofappropriated funds according to major programs and purposes.
 
 #### Sec. 2. Performance of Transferred Functions
 
@@ -64,7 +64,7 @@ The functions of the Commission with respect to choosing a Chairman from among t
 
 I transmit herewith Reorganization Plan No. 8 of 1950, prepared in accordance with the Reorganization Act of 1949 and providing for reorganizations in the Federal Trade Commission. My reasons for transmitting this plan are stated in any accompanying general message.
 
-After investigation I have found and hereby declare that each reorganization included in ReorganizationPlan No. 8 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
+After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 8 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
 
 The taking effect of the reorganizations included in this plan may not in itself result in substantial immediate savings. However, many benefits in improved operations are probable during the next years which will result in a reduction in expenditures as compared with those that would be otherwise necessary. An itemization of these reductions in advance of actual experience under this plan is not practicable.
 

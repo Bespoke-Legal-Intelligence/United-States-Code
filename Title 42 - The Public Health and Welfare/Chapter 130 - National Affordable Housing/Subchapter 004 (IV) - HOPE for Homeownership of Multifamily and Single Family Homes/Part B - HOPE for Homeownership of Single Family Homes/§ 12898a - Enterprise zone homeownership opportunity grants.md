@@ -108,7 +108,7 @@ For purposes of this section the following definitions shall apply:
 
 #### (4) Sales contracts
 
-&emsp;Sales contracts entered into under such program will contain provisions requiring repayment of any loan made under this section upon the sale or other transfer of the home involved, unless the Secretary approves a transfer of such home without repayment (in whichcase the second mortgage held by the Secretary on such home shall remain in force until such loan is fully repaid).
+&emsp;Sales contracts entered into under such program will contain provisions requiring repayment of any loan made under this section upon the sale or other transfer of the home involved, unless the Secretary approves a transfer of such home without repayment (in which case the second mortgage held by the Secretary on such home shall remain in force until such loan is fully repaid).
 
 #### (g) Program selection criteria
 
@@ -120,7 +120,7 @@ For purposes of this section the following definitions shall apply:
 
 &emsp;&emsp;(B) non-Federal public and private financial or other contributions (including tax abatements, waivers of fees related to development, waivers of construction, development, or zoning requirements, and direct financial contributions) will reduce the cost of home <sup>1</sup> constructed or rehabilitated under each program;
 
-&emsp;&emsp;(C) each program will produce the greatest number of units for the least amount of assistance provided under this section, taking into consideration the cost differences among different market areas; and
+&emsp;&emsp;(C) each program will produce the greatest number of units for the least amount of assistance provided under this section, takinginto consideration the cost differences among different market areas; and
 
 &emsp;&emsp;(D) each program provides for the involvement of local residents in the planning, and construction or rehabilitation, of homes.
 
@@ -145,4 +145,8 @@ Section was enacted as part of the Housing and Community Development Act of 1992
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “homes”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “this section.”</i>
 

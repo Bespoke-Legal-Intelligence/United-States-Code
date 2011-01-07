@@ -6,5 +6,5 @@ Whenever any person fraudulently claims or seeks to obtain an allowance of drawb
 
 #### Amendments
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

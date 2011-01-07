@@ -22,7 +22,7 @@ Section 4101 makes this chapter applicable to uninspected vessels, as defined in
 
 #### Amendments
 
-1988—Pub. L. 100–424 inserted “not subject to chapter 45 of this title” after “an uninspected vessel”.
+<b>1988</b>—Pub. L. 100–424 inserted “not subject to chapter 45 of this title” after “an uninspected vessel”.
 
 #### Effective Date
 

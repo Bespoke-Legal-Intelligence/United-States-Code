@@ -6,7 +6,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (b) Research and development; demonstration projects; education and training
 
-With respect to the prevention, treatment, control, and elimination of tuberculosis, the Secretary may, directly or through grants to public or nonprofit private entities, carry out the following:
+With respect to the prevention, treatment, control, and elimination of tuberculosis, the Secretary may, directly or through grants topublic or nonprofit private entities, carry out the following:
 
 &emsp;(1) Research, with priority given to research and development concerning latent tuberculosis infection, strains of tuberculosis resistant to drugs, and research concerning cases of tuberculosis that affect certain populations at risk for tuberculosis.
 
@@ -72,7 +72,7 @@ The Secretary may make a grant under subsection (a) or (b) of this section only 
 
 #### (2) Corresponding reduction in payments
 
-&emsp;With respect to a request described in paragraph (1), the Secretary shall reduce the amount of payments under the grant involved by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
+&emsp;With respect to a request described in paragraph (1), the Secretary shall reduce theamount of payments under the grant involved by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
 
 #### (f) Advisory Council
 
@@ -216,7 +216,7 @@ Section 256a of this title, referred to in subsec. (c), was repealed by Pub. L. 
 
 #### Amendments
 
-2008—Pub. L. 110–392, §101(1), substituted “National strategy for combating and eliminating tuberculosis” for “Preventive health services regarding tuberculosis” in section catchline.
+<b>2008</b>—Pub. L. 110–392, §101(1), substituted “National strategy for combating and eliminating tuberculosis” for “Preventive health services regarding tuberculosis” in section catchline.
 
 Subsec. (b). Pub. L. 110–392, §101(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to research, demonstration projects, education, and training for the purpose of prevention, control, and elimination of tuberculosis.
 
@@ -230,11 +230,11 @@ Subsec. (h). Pub. L. 110–392, §131, added subsec. (h) and struck out former s
 
 Pub. L. 110–392, §111(c)(1), redesignated subsec. (g) as (h).
 
-2003—Subsec. (c). Pub. L. 108–163 substituted “254b” for “254c, 254b(h)” before “, or”.
+<b>2003</b>—Subsec. (c). Pub. L. 108–163 substituted “254b” for “254c, 254b(h)” before “, or”.
 
-2002—Subsec. (c). Pub. L. 107–251 substituted “254b(h)” for “256”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–251 substituted “254b(h)” for “256”.
 
-1998—Subsec. (g)(1)(A). Pub. L. 105–392, §405(1)(A), substituted “2002” for “1998”.
+<b>1998</b>—Subsec. (g)(1)(A). Pub. L. 105–392, §405(1)(A), substituted “2002” for “1998”.
 
 Subsec. (g)(1)(B). Pub. L. 105–392, §405(1)(B), substituted “25 percent” for “$50,000,000”.
 

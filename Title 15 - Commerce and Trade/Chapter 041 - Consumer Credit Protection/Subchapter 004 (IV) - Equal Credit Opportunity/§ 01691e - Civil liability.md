@@ -58,23 +58,45 @@ Whenever an agency referred to in paragraph (1), (2), or (3) of section 1691c(a)
 
 > the agency shall notify the Secretary of Housing and Urban Development of the violation, and shall notify the applicant that the Secretary of Housing and Urban Development has been notified of the alleged violation and that remedies for the violation may be available under the Fair Housing Act.
 
-(Pub. L. 90–321, title VII, §706, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1524; amended Pub. L. 94–239, §6, Mar. 23, 1976, 90 Stat. 253; Pub. L. 102–242, title II, §223(a)–(c), Dec. 19, 1991, 105 Stat. 2306.)
+(Pub. L. 90–321, title VII, §706, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1524; amended Pub. L. 94–239, §6, Mar. 23, 1976, 90 Stat. 253; Pub. L. 102–242, title II, §223(a)–(c), Dec. 19, 1991, 105 Stat. 2306; Pub. L. 111–203, title X, §1085(1), (5)–(7), July 21, 2010, 124 Stat. 2083, 2085.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1085(1), (5)–(7), 1100H, July 21, 2010, 124 Stat. 2083, 2085, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
+
+<i>(1) by striking “Board” each place that term appears and inserting “Bureau”;</i>
+
+<i>(2) in subsection (e)—</i>
+
+<i>(A) in the subsection heading—</i>
+
+<i>(i) by striking “Board” each place that term appears and inserting “Bureau”; and</i>
+
+<i>(ii) by striking “Federal Reserve System” and inserting “Bureau of Consumer Financial Protection”; and</i>
+
+<i>(B) by striking “Federal Reserve System” and inserting “Bureau of Consumer Financial Protection”;</i>
+
+<i>(3) in subsection (f), by striking “two years from” each place that term appears and inserting “5 years after”; and</i>
+
+<i>(4) in subsection (g), by striking “(3)” and inserting “(9)”.</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
 Section 3612 of title 42, referred to in subsec. (i), which related to enforcement of the Fair Housing Act (42 U.S.C. 3601 et seq.) by private persons, was repealed by Pub. L. 100–430, §8(2), Sept. 13, 1988, 102 Stat. 1625. See section 3613 of Title 42, The Public Health and Welfare.
 
-The Fair Housing Act, referred to in subsec. (k), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+The Fair Housing Act, referred to in subsec. (k), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
 #### Amendments
 
-1991—Subsec. (g). Pub. L. 102–242, §223(a), inserted at end “Each agency referred to in paragraphs (1), (2), and (3) of section 1691c(a) of this title shall refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has engaged in a pattern or practice of discouraging or denying applications for credit in violation of section 1691(a) of this title. Each such agency may refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has violated section 1691(a) of this title.”
+<b>1991</b>—Subsec. (g). Pub. L. 102–242, §223(a), inserted at end “Each agency referred to in paragraphs (1), (2), and (3) of section 1691c(a) of this title shall refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has engaged in a pattern or practice of discouraging or denying applications for credit in violation of section 1691(a) of this title. Each such agency may refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has violated section 1691(a) of this title.”
 
 Subsec. (h). Pub. L. 102–242, §223(b), inserted “actual and punitive damages and” after “be appropriate, including”.
 
 Subsec. (k). Pub. L. 102–242, §223(c), added subsec. (k).
 
-1976—Subsec. (a). Pub. L. 94–239 substituted reference to member for reference to representative.
+<b>1976</b>—Subsec. (a). Pub. L. 94–239 substituted reference to member for reference to representative.
 
 Subsec. (b). Pub. L. 94–239 inserted provisions exempting government or governmental subdivision or agency from requirements of this subchapter, incorporated provisions contained in former subsec. (c) relating to recovery in class actions and, as incorporated, raised the total amount of recovery under a class action from $100,000 to $500,000.
 
@@ -87,6 +109,10 @@ Subsec. (e). Pub. L. 94–239 redesignated subsec. (f) as (e) and inserted refer
 Subsec. (f). Pub. L. 94–239 redesignated subsec. (g) as (f) and inserted provisions which substituted a two year limitation for one year limitation and provisions extending time in which to bring action under enumerated conditions. Former subsec. (f) redesignated (e) and amended.
 
 Subsecs. (g) to (j). Pub. L. 94–239 added subsecs. (g) to (j). Former subsec. (g) redesignated (f) and amended.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1976 Amendment
 

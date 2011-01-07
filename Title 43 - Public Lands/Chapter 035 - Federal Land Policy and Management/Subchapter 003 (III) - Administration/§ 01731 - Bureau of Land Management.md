@@ -26,8 +26,6 @@ This Act, referred to in subsecs. (a) and (b), is Pub. L. 94–579, Oct. 21, 197
 
 Reorganization Plan Numbered 3 of 1950, referred to in subsec. (b), is set out under section 1451 of this title.
 
-The provisions of title 5, governing appointments in the competitive service, referred to in subsec. (c), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 The General Schedule, referred to in subsec. (c), is set out under section 5332 of Title 5.
 
 #### Use of Appropriated Funds for Protection of Lands and Surveys of Federal Lands in Alaska

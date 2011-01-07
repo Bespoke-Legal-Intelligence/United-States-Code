@@ -20,7 +20,7 @@ The Administrator shall not be required to collect independently information des
 
 #### Amendments
 
-1976—Subsec. (d). Pub. L. 94–385 added subsec. (d).
+<b>1976</b>—Subsec. (d). Pub. L. 94–385 added subsec. (d).
 
 #### Transfer of Functions
 

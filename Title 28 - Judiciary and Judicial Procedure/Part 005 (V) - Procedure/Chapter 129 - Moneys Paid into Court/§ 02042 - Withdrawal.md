@@ -20,5 +20,5 @@ In U. S. Law Week, Nov. 7, 1939, Rep. Walter Chandler (Author of Chandler Act, B
 
 #### Amendments
 
-1982—Pub. L. 97–258 inserted references to section 2041 in two places.
+<b>1982</b>—Pub. L. 97–258 inserted references to section 2041 in two places.
 

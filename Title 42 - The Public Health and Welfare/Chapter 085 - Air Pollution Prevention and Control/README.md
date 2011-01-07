@@ -50,7 +50,7 @@
 
 #### Part C—Prevention of Significant Deterioration of Air Quality
 
-I74subpart i—clean air
+#### subpart i—clean air
 
 |  |  |
 | :--- | ---: |
@@ -78,7 +78,7 @@ I74subpart i—clean air
 
 #### Part D—Plan Requirements for Nonattainment Areas
 
-I74subpart 1—nonattainment areas in general
+#### subpart 1—nonattainment areas in general
 
 |  |  |
 | :--- | ---: |

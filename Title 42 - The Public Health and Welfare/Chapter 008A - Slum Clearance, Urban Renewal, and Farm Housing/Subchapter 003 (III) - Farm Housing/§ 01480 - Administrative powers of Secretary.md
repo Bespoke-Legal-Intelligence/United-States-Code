@@ -4,7 +4,7 @@ In carrying out the provisions of this subchapter, the Secretary shall have the 
 
 #### (a) Service and supply contracts
 
-&emsp;make contracts for services and supplies without regard to the provisions of section 5 of title 41, when the aggregate amount involved is less than $300;
+&emsp;make contracts for services and supplies without regard to the provisions of section 6101 of title 41, when the aggregate amount involved is less than $300;
 
 #### (b) Subordination, subrogation, and other agreements
 
@@ -34,7 +34,7 @@ In carrying out the provisions of this subchapter, the Secretary shall have the 
 
 #### (e) Purchase of pledged or mortgaged property at foreclosure or other sales; operation, sale or disposition of said property
 
-&emsp;bid for and purchase at any foreclosure or other sale or otherwise to acquire the property pledged or mortgaged to secure a loan or other indebtedness owing under this subchapter, to accept title to any property so purchased or acquired, to operate or lease such property for such period as may be necessary or advisable, to protect the interest of the United States therein, to repair and rehabilitate such property, and to sell or otherwise dispose of the property so purchased or acquired by such terms and for such considerations as the Secretary shall determine to be reasonable and to make loans as provided herein to provide adequate farm dwellings and buildings for the purchasers of such property; except that the Secretary may not sell or otherwise dispose of such property unless (1) the Secretary assures that such property will meet decent, safe, and sanitary standards, including cost-effective energy conservation standards prescribed under section 1479(a) of this title, (2) the recipient of the property is obligated, as a condition of the sale or other disposition of the property, to meet such standards with respect to the property before such property is occupied, or (3) such recipient is precluded, as a condition of the sale or other disposition of the property, from using the property for residential purposes and the authority of the Secretary under this paragraph includes the authority to transfer section 1472 inventory properties for use as rental or cooperative units under section 1485 of this title with mortgages containing repayment terms with up to fifty years, or for use as rental units under section 1484 of this title with mortgages containing repayment terms with up to 33 years, to private nonprofit organizations, public bodies, or for-profit entities, which have good records of providing low income housing under section 1485 of this title; such a transfer may be made even where rental assistance may be required so long as the authority to provide such assistance is available after taking into account the requirements of section 1490a(d)(1) of this title; where the Secretary determines the transfer will contribute to the provision of housing for very low-income persons and families, the transfer may be made at the lesser of the appraised value or the Farmers Home Administration's investment;
+&emsp;bid for and purchase at any foreclosure or other sale or otherwise to acquire the property pledged or mortgaged to secure a loan or other indebtedness owing under this subchapter, to accept title to any property so purchased or acquired, to operate or lease such property for such period as may be necessary or advisable, to protect the interest of the United States therein, to repair and rehabilitate such property, and to sell or otherwise dispose of the property so purchased or acquired by such terms and for such considerations as the Secretary shall determine to be reasonable and to make loans as provided herein to provide adequate farm dwellings and buildings for the purchasers of such property; except that the Secretary may not sell or otherwise dispose of such property unless (1) the Secretary assures that such property will meet decent, safe, and sanitary standards, including cost-effective energy conservation standards prescribed under section 1479(a) of this title, (2) the recipient of the property is obligated, as a condition of the sale or other disposition of the property, to meet such standards with respect to the property before such property is occupied, or (3) such recipient is precluded, as a condition of the sale or other disposition of the property, from using the property for residential purposes and the authority of the Secretary under this paragraph includes the authority to transfer section 1472 inventory properties for use as rental or cooperative units under section 1485 of this title with mortgages containing repayment terms with up to fifty years, or for use as rental units under section 1484 of this title with mortgages containing repayment terms with up to 33 years, to private nonprofit organizations, public bodies, or for-profit entities, which have good records of providing low income housing under section 1485 of this title; such a transfer may be made even where rental assistancemay be required so long as the authority to provide such assistance is available after taking into account the requirements of section 1490a(d)(1) of this title; where the Secretary determines the transfer will contribute to the provision of housing for very low-income persons and families, the transfer may be made at the lesser of the appraised value or the Farmers Home Administration's investment;
 
 #### (f) Processing of applications received prior to determination of nonrural status; assistance
 
@@ -62,13 +62,17 @@ In carrying out the provisions of this subchapter, the Secretary shall have the 
 
 (July 15, 1949, ch. 338, title V, §510, 63 Stat. 437; Pub. L. 94–375, §25(c), Aug. 3, 1976, 90 Stat. 1078; Pub. L. 95–557, title V, §503, Oct. 31, 1978, 92 Stat. 2112; Pub. L. 96–153, title V, §507, Dec. 21, 1979, 93 Stat. 1136; Pub. L. 96–399, title V, §§508, 510, Oct. 8, 1980, 94 Stat. 1670, 1671; Pub. L. 98–181, title V, §507, Nov. 30, 1983, 97 Stat. 1243; Pub. L. 98–479, title I, §105(c), Oct. 17, 1984, 98 Stat. 2227; Pub. L. 100–242, title III, §313, Feb. 5, 1988, 101 Stat. 1897; Pub. L. 100–628, title X, §1045, Nov. 7, 1988, 102 Stat. 3273; Pub. L. 101–625, title VII, §§710, 711, Nov. 28, 1990, 104 Stat. 4291.)
 
+#### Codification
+
+In subsec. (a), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes, as amended” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-1990—Subsec. (e)(3). Pub. L. 101–625, §710, inserted “, or for use as rental units under section 1484 of this title with mortgages containing repayment terms with up to 33 years,” after “fifty years” and substituted “, public bodies, or for-profit entities, which have good records of providing low income housing under section 1485 of this title” for “or public bodies”.
+<b>1990</b>—Subsec. (e)(3). Pub. L. 101–625, §710, inserted “, or for use as rental units under section 1484 of this title with mortgages containing repayment terms with up to 33 years,” after “fifty years” and substituted “, public bodies, or for-profit entities, which have good records of providing low income housing under section 1485 of this title” for “or public bodies”.
 
 Subsec. (g). Pub. L. 101–625, §711, inserted before semicolon at end “, except that rules issued under this subsection may not exclude from their coverage decisions made by the Secretary that are not based on objective standards contained in published regulations”.
 
-1988—Subsec. (c). Pub. L. 100–242 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “compromise claims and obligations arising out of sections 1472 to 1475 of this title and adjust and modify the terms of mortgages, leases, contracts, and agreements entered into as circumstances may require, including the release from personal liability, without payments of further consideration, of—
+<b>1988</b>—Subsec. (c). Pub. L. 100–242 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “compromise claims and obligations arising out of sections 1472 to 1475 of this title and adjust and modify the terms of mortgages, leases, contracts, and agreements entered into as circumstances may require, including the release from personal liability, without payments of further consideration, of—
 
 &emsp;“(1) borrowers who have transferred their farms to other approved applicants for loans who have agreed to assume the outstanding indebtedness to the Secretary under this subchapter; and
 
@@ -76,21 +80,21 @@ Subsec. (g). Pub. L. 101–625, §711, inserted before semicolon at end “, ex
 
 Subsec. (d). Pub. L. 100–628 inserted before semicolon at end “; except that—” and added pars. (1) and (2).
 
-1984—Subsec. (e). Pub. L. 98–479 substituted “; such” and “; where” for “. Such” and “. Where”, respectively.
+<b>1984</b>—Subsec. (e). Pub. L. 98–479 substituted “; such” and “; where” for “. Such” and “. Where”, respectively.
 
-1983—Subsec. (e). Pub. L. 98–181, §507(a), inserted provisions relating to the authority of the Secretary to transfer section 1472 inventory property to private nonprofit organizations or public bodies.
+<b>1983</b>—Subsec. (e). Pub. L. 98–181, §507(a), inserted provisions relating to the authority of the Secretary to transfer section 1472 inventory property to private nonprofit organizations or public bodies.
 
 Subsecs. (j), (k). Pub. L. 98–181, §507(b), added subsec. (j) and redesignated former subsec. (j) as (k).
 
-1980—Subsec. (e)(1). Pub. L. 96–399, §508, inserted provisions respecting cost-effective energy conservation standards prescribed under section 1479(a) of this title.
+<b>1980</b>—Subsec. (e)(1). Pub. L. 96–399, §508, inserted provisions respecting cost-effective energy conservation standards prescribed under section 1479(a) of this title.
 
 Subsec. (h). Pub. L. 96–399, §510, inserted provisions respecting subsequent loans to permit necessary dwelling repairs and rehabilitation.
 
-1979—Subsec. (e). Pub. L. 96–153 substituted “United States therein, to repair and rehabilitate such property, and to sell” for “United States therein and to sell”, and inserted provision that the Secretary may not sell or otherwise dispose of such property unless the conditions in cls. (1) to (3) are satisfied.
+<b>1979</b>—Subsec. (e). Pub. L. 96–153 substituted “United States therein, to repair and rehabilitate such property, and to sell” for “United States therein and to sell”, and inserted provision that the Secretary may not sell or otherwise dispose of such property unless the conditions in cls. (1) to (3) are satisfied.
 
-1978—Subsecs. (g) to (j). Pub. L. 95–557 added subsec. (g) and redesignated former subsecs. (g), (h), and (i) as (h), (i), and (j), respectively.
+<b>1978</b>—Subsecs. (g) to (j). Pub. L. 95–557 added subsec. (g) and redesignated former subsecs. (g), (h), and (i) as (h), (i), and (j), respectively.
 
-1976—Subsecs. (f) to (i). Pub. L. 94–375 added subsecs. (f) and (g) and redesignated former subsecs. (f) and (g) as (h) and (i), respectively.
+<b>1976</b>—Subsecs. (f) to (i). Pub. L. 94–375 added subsecs. (f) and (g) and redesignated former subsecs. (f) and (g) as (h) and (i), respectively.
 
 #### Termination of Reporting Requirements
 

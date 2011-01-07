@@ -6,7 +6,7 @@ The Institute shall have no power to issue any shares of stock or to declare or 
 
 #### (b) Nonprofit nature
 
-No part of the income or assets of the Institute shall inure to the benefit of any director, officer, employee, or any other individual except as salary or reasonable compensation for services.
+No part of the income or assets of the Institute shall inure to the benefit of any director,officer, employee, or any other individual except as salary or reasonable compensation for services.
 
 #### (c) Nonpolitical nature
 

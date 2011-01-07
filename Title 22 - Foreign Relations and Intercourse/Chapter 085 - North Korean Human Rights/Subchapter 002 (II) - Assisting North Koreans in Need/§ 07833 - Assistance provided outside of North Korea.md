@@ -20,11 +20,11 @@ Assistance provided under subsection (a) should be used to provide—
 
 #### (2) Availability
 
-&emsp;Amounts appropriated pursuant to the authorization of appropriations under paragraph (1) are authorized to remain available until expended.
+&emsp;Amounts appropriated pursuant to the authorization of appropriations under paragraph\(1) are authorized to remain available until expended.
 
 (Pub. L. 108–333, title II, §203, Oct. 18, 2004, 118 Stat. 1294; Pub. L. 110–346, §10, Oct. 7, 2008, 122 Stat. 3942.)
 
 #### Amendments
 
-2008—Subsec. (c)(1). Pub. L. 110–346 substituted “2012” for “2008”.
+<b>2008</b>—Subsec. (c)(1). Pub. L. 110–346 substituted “2012” for “2008”.
 

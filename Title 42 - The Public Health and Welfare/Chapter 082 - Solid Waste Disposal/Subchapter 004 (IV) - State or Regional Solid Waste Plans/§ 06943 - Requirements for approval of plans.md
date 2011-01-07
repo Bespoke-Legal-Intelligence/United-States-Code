@@ -70,11 +70,11 @@ Another section 5(b) of Pub. L. 96–463 amended section 6948 of this title.
 
 #### Amendments
 
-1984—Subsecs. (b), (c). Pub. L. 98–616, §502(h), redesignated the subsec. (b) entitled energy and materials conservation and recovery feasibility planning and assistance, as subsec. (c).
+<b>1984</b>—Subsecs. (b), (c). Pub. L. 98–616, §502(h), redesignated the subsec. (b) entitled energy and materials conservation and recovery feasibility planning and assistance, as subsec. (c).
 
 Subsec. (d). Pub. L. 98–616, §301(b), added subsec. (d).
 
-1980—Subsec. (a). Pub. L. 96–463, §5(b), and Pub. L. 96–482, §32(d)(2), designated existing provisions as subsec. (a).
+<b>1980</b>—Subsec. (a). Pub. L. 96–463, §5(b), and Pub. L. 96–482, §32(d)(2), designated existing provisions as subsec. (a).
 
 Subsec. (a)(2). Pub. L. 96–482, §18(a), substituted reference to sections 6944(b) and 6945(a) of this title for reference to section 6945(c) of this title.
 

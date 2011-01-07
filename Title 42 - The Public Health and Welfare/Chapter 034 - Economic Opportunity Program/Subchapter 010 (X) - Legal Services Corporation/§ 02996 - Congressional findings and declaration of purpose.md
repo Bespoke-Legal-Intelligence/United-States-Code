@@ -18,7 +18,7 @@ The Congress finds and declares that—
 
 #### Amendments
 
-1977—Par. (3). Pub. L. 95–222 inserted provision relating to assistance in improving opportunities for low-income persons consistent with this chapter.
+<b>1977</b>—Par. (3). Pub. L. 95–222 inserted provision relating to assistance in improving opportunities for low-income persons consistent with this chapter.
 
 #### Effective Date of 1977 Amendment
 

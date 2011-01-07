@@ -1572,7 +1572,7 @@ A prior section 211 of act July 14, 1955, as added Nov. 21, 1967, Pub. L. 90–1
 
 #### Amendments
 
-2007—Subsec. (c)(1). Pub. L. 110–140, §208, substituted “nonroad vehicle if, in the judgment of the Administrator, any fuel or fuel additive or” for “nonroad vehicle (A) if in the judgment of the Administrator” and “air pollution or water pollution (including any degradation in the quality of groundwater) that” for “air pollution which”.
+<b>2007</b>—Subsec. (c)(1). Pub. L. 110–140, §208, substituted “nonroad vehicle if, in the judgment of the Administrator, any fuel or fuel additive or” for “nonroad vehicle (A) if in the judgment of the Administrator” and “air pollution or water pollution (including any degradation in the quality of groundwater) that” for “air pollution which”.
 
 Subsec. (f)(4). Pub. L. 110–140, §251, amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Administrator, upon application of any manufacturer of any fuel or fuel additive, may waive the prohibitions established under paragraph (1) or (3) of this subsection or the limitation specified in paragraph (2) of this subsection, if he determines that the applicant has established that such fuel or fuel additive or a specified concentration thereof, and the emission products of such fuel or additive or specified concentration thereof, will not cause or contribute to a failure of any emission control device or system (over the useful lifeof any vehicle in which such device or system is used) to achieve compliance by the vehicle with the emission standards with respect to which it has been certified pursuant to section 7525 of this title. If the Administrator has not acted to grant or deny an application under this paragraph within one hundred and eighty days of receipt of such application, the waiver authorized by this paragraph shall be treated as granted.”
 
@@ -1608,7 +1608,7 @@ Subsec. (u). Pub. L. 110–140, §247, which directed amendment of this section 
 
 Subsec. (v). Pub. L. 110–140, §209, added subsec. (v).
 
-2005—Subsec. (b)(2). Pub. L. 109–58, §1505(1)(A), substituted “shall, on a regular basis,” for “may also” in introductory provisions.
+<b>2005</b>—Subsec. (b)(2). Pub. L. 109–58, §1505(1)(A), substituted “shall, on a regular basis,” for “may also” in introductory provisions.
 
 Subsec. (b)(2)(A). Pub. L. 109–58, §1505(1)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: “to conduct tests to determine potential public health effects of such fuel or additive (including, but not limited to, carcinogenic, teratogenic, or mutagenic effects), and”.
 
@@ -1648,7 +1648,7 @@ Pub. L. 109–58, §1501(a)(1), redesignated subsec. (<i>o</i>) as (r) relating 
 
 Subsec. (s). Pub. L. 109–58, §1513, added subsec. (s).
 
-1990—Subsec. (a). Pub. L. 101–549, §212, inserted “(including any fuel or fuel additive used exclusively in nonroad engines or nonroad vehicles)” after “fuel or fuel additive”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–549, §212, inserted “(including any fuel or fuel additive used exclusively in nonroad engines or nonroad vehicles)” after “fuel or fuel additive”.
 
 Subsecs. (b)(2)(B), (c)(1). Pub. L. 101–549, §212(b), (c), inserted reference to nonroad engine or nonroad vehicle.
 
@@ -1676,7 +1676,7 @@ Subsec. (n). Pub. L. 101–549, §220, added subsec. (n).
 
 Subsec. (<i>o</i>). Pub. L. 101–549, §221, added subsec. (<i>o</i>).
 
-1977—Subsec. (c)(1)(A). Pub. L. 95–95, §401(e), substituted “if in the judgment of the Administrator any emission product of such fuel or fuel additive causes, or contributes, to air pollution which may reasonably be anticipated to endanger” for “if any emission products of such fuel or fuel additive will endanger”.
+<b>1977</b>—Subsec. (c)(1)(A). Pub. L. 95–95, §401(e), substituted “if in the judgment of the Administrator any emission product of such fuel or fuel additive causes, or contributes, to air pollution which may reasonably be anticipated to endanger” for “if any emission products of such fuel or fuel additive will endanger”.
 
 Subsec. (d). Pub. L. 95–95, §222(b), inserted “or (f)” after “Any person who violates subsection (a)”.
 
@@ -1688,11 +1688,11 @@ Subsec. (f)(4). Pub. L. 95–190, §14(a)(74), inserted provision relating to ap
 
 Subsec. (g). Pub. L. 95–95, §223, added subsec. (g).
 
-1971—Subsec. (c)(3)(A). Pub. L. 92–157, §302(d), substituted “purpose of obtaining” for “purpose of”.
+<b>1971</b>—Subsec. (c)(3)(A). Pub. L. 92–157, §302(d), substituted “purpose of obtaining” for “purpose of”.
 
 Subsec. (d). Pub. L. 92–157, §302(e), substituted “subsection (b)” for “subsection (c)” where appearing the second time.
 
-1970—Subsec. (a). Pub. L. 91–604, §9(a), substituted “Administrator” for “Secretary” as the registering authority, inserted references to fuel additives, and substituted the selling, offering for sale, and introduction into commerce of fuel or fuel additives, for the delivery for introduction into interstate commerce or delivery to another person who can reasonably be expected to deliver fuel into interstate commerce.
+<b>1970</b>—Subsec. (a). Pub. L. 91–604, §9(a), substituted “Administrator” for “Secretary” as the registering authority, inserted references to fuel additives, and substituted the selling, offering for sale, and introduction into commerce of fuel or fuel additives, for the delivery for introduction into interstate commerce or delivery to another person who can reasonably be expected to deliver fuel into interstate commerce.
 
 Subsec. (b). Pub. L. 91–604, §9(a), designated existing provisions as pars. (1) and (3), added par. (2), and substituted “Administrator” for “Secretary” wherever appearing.
 

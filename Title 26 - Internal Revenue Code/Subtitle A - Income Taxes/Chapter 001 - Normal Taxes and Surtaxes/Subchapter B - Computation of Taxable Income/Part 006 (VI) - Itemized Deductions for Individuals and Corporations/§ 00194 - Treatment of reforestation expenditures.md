@@ -2,7 +2,7 @@
 
 #### (a) Allowance of deduction
 
-In the case of any qualified timber property with respect to which the taxpayer has made (in accordance with regulations prescribed by the Secretary) an election under this subsection, the taxpayer shall be entitled to a deduction with respect to the amortization of the amortizable basis of qualified timber property based on a period of 84 months. Such amortization deduction shall be an amount, with respect to each month of such period within the taxable year, equal to the amortizable basis at the end of such month divided by the number of months (including the month for which the deduction is computed) remaining in the period. Such amortizable basis at the end of the month shall be computed without regard to the amortization deduction for such month. The 84-month period shall begin on the first day of the first month of the second half of the taxable year in which the amortizable basis is acquired.
+In the case of any qualified timber property with respect to which the taxpayer has made (in accordance with regulations prescribed by the Secretary) an election under this subsection, the taxpayer shall be entitled to a deduction with respect to the amortization of the amortizable basis of qualified timber property based on a period of 84 months. Such amortization deduction shall be an amount, with respect to each month of such period within the taxable year, equal to the amortizable basis at the end of such month divided by the number of months (including the month for which the deduction is computed) remaining in the period. Such amortizable basis at the end of the month shall be computed without regard to the amortization deduction for such month. The 84-month period shall begin on thefirst day of the first month of the second half of the taxable year in which the amortizable basis is acquired.
 
 #### (b) Treatment as expenses
 
@@ -54,7 +54,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “reforestation expenditures” means direct costs incurred in connectionwith forestation or reforestation by planting or artificial or natural seeding, including costs—
+&emsp;&emsp;The term “reforestation expenditures” means direct costs incurred in connection with forestation or reforestation by planting or artificial or natural seeding, including costs—
 
 &emsp;&emsp;&emsp;(i) for the preparation of the site;
 
@@ -86,7 +86,7 @@ A prior section 194 was renumbered section 194A of this title.
 
 #### Amendments
 
-2005—Subsec. (b)(1)(B). Pub. L. 109–135, §403(i)(1)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The aggregate amount of reforestation expenditures which may be taken into account under subparagraph (A) with respect to each qualified timber property for any taxable year shall not exceed $10,000 ($5,000 in the case of a separate return by a married individual (as defined in section 7703)).”
+<b>2005</b>—Subsec. (b)(1)(B). Pub. L. 109–135, §403(i)(1)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The aggregate amount of reforestation expenditures which may be taken into account under subparagraph (A) with respect to each qualified timber property for any taxable year shall not exceed $10,000 ($5,000 in the case of a separate return by a married individual (as defined in section 7703)).”
 
 Subsec. (c)(4). Pub. L. 109–135, §403(i)(1)(B), reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
@@ -98,7 +98,7 @@ In general.—Except as provided in subparagraph (B), this section shall not app
 
 Amortization deduction allowed to estates.—The benefit of the deduction for amortization provided by subsection (a) shall be allowed to estates in the same manner as in the case of an individual. The allowable deduction shall be apportioned between the income beneficiary and the fiduciary under regulations prescribed by the Secretary. Any amount so apportioned to a beneficiary shall be taken into account for purposes of determining the amount allowable as a deduction under subsection (a) to such beneficiary.”
 
-2004—Pub. L. 108–357, §322(c)(4), substituted “Treatment” for “Amortization” in section catchline.
+<b>2004</b>—Pub. L. 108–357, §322(c)(4), substituted “Treatment” for “Amortization” in section catchline.
 
 Subsec. (b). Pub. L. 108–357, §322(a), substituted “Treatment as expenses” for “Limitations” in heading.
 
@@ -112,9 +112,9 @@ Subsec. (c)(2). Pub. L. 108–357, §322(b), inserted “which have not been tak
 
 Subsec. (c)(4), (5). Pub. L. 108–357, §322(c)(3), added pars. (4) and (5) and struck out former par. (4) which related to basis allocation if the amount of the amortizable basis acquired during the taxable year of all qualified timber property with respect to which the taxpayer had made an election under subsec. (a) exceeded the amount of the limitation under subsec. (b)(1).
 
-1986—Subsec. (b)(1). Pub. L. 99–514 substituted “section 7703” for “section 143”.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–514 substituted “section 7703” for “section 143”.
 
-1982—Subsec. (b)(2)(B). Pub. L. 97–354 substituted “Partnerships and S corporations” for “Partnerships” in heading, and inserted “A similar rule shall apply in the case of an S corporation and its shareholders.”
+<b>1982</b>—Subsec. (b)(2)(B). Pub. L. 97–354 substituted “Partnerships and S corporations” for “Partnerships” in heading, and inserted “A similar rule shall apply in the case of an S corporation and its shareholders.”
 
 #### Effective Date of 2005 Amendment
 

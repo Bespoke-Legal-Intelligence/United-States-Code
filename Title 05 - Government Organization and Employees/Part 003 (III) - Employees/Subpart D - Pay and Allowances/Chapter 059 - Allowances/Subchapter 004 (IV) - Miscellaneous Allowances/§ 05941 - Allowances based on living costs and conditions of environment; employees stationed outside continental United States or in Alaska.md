@@ -82,7 +82,7 @@ Subsecs. (b) to (d). Pub. L. 111–84, §1912(b)(2), (3), added subsecs. (b) and
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–84 effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2010, with transition and savings provisions, see sections 1914, 1915, and 1919(b) of Pub. L. 111–84, set out in a Non-Foreign Area Retirement Equity Assurance note under section 5304 of this title.
+Amendment by Pub. L. 111–84 effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2010, with transition and savings provisions, see sections 1914, 1915, and 1919(b) of Pub. L.111–84, set out in a Non-Foreign Area Retirement Equity Assurance note under section 5304 of this title.
 
 #### Prohibition of Reduction of Allowance; Study and Report on Adjusting Calculation of Geographic Factors
 
@@ -212,7 +212,7 @@ Payment of Non-Foreign Area Post Differentials and Cost-of-Living Allowances.
 
 Sec. 209.
 
-Persons Serving Under Contract. Any other provision of this Part notwithstanding, any person who would otherwise be eligible to receive a non-foreign area post differential or a non-foreign area cost-of-living allowance under this Part shall, if he is serving under a contract, be compensated according to the terms of such contract for the period thereof and shall, during such period, be ineligible to receive said differential and allowance.
+Persons Serving Under Contract. Any other provision of this Part notwithstanding, any person who would otherwise be eligible to receive a non-foreign area post differential or a non-foreign area cost-of-living allowance under this Part shall, if he isserving under a contract, be compensated according to the terms of such contract for the period thereof and shall, during such period, be ineligible to receive said differential and allowance.
 
 Sec. 210.
 
@@ -236,7 +236,7 @@ Temporary Regulations. During the period commencing with the date of this order 
 
 Sec. 601.
 
-Publication. This order, and the places designated, the rates fixed, and the regulations prescribedby the Secretary of State and the Office of Personnel Management pursuant to Parts I and II of this order, shall be published in the Federal Register.
+Publication. This order, and the places designated, the rates fixed, and the regulations prescribed by the Secretary of State and the Office of Personnel Management pursuant to Parts I and II of this order, shall be published in the Federal Register.
 
 #### Executive Order No. 12070
 

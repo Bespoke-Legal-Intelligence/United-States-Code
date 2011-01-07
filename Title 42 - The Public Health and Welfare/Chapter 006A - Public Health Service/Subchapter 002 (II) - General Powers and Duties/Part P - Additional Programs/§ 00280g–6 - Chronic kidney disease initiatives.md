@@ -32,7 +32,7 @@ There are authorized to be appropriated such sums as may be necessary for the pu
 
 #### Codification
 
-Another section 399R of act July 1, 1944, ch. 373, as added by Pub. L. 110–373, §2, Oct. 8, 2008, 122 Stat. 4047, is classified to section 280g–7 of this title.
+Another section 399R of act July 1, 1944, ch. 373, as added by Pub. L. 110–373, §2, Oct. 8, 2008, 122 Stat. 4047, was renumbered section 399S and is classified to section 280g–7 of this title.
 
-Another section 399R of act July 1, 1944, ch. 373, as added by Pub. L. 110–374, §3, Oct. 8, 2008, 122 Stat. 4051, is classified to section 280g–8 of this title.
+Another section 399R of act July 1, 1944, ch. 373, as added by Pub. L. 110–374, §3, Oct. 8, 2008, 122 Stat. 4051, was renumbered section 399T and is classified to section 280g–8 of this title.
 

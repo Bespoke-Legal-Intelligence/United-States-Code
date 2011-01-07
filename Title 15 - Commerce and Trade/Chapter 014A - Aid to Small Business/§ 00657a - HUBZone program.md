@@ -10,15 +10,15 @@ There is established within the Administration a program to be carried out by th
 
 &emsp;In this subsection—
 
-&emsp;&emsp;(A) the term “contracting officer” has the meaning given that term in section 423(f)(5) of title 41; and
+&emsp;&emsp;(A) the term “contracting officer” has the meaning given that term in section 2101(1) of title 41; and
 
-&emsp;&emsp;(B) the term “full and open competition” has the meaning given that term in section 403 of title 41.
+&emsp;&emsp;(B) the term “full and open competition” has the meaning given that term in section 107 of title 41.
 
 #### (2) Authority of contracting officer
 
-&emsp;Notwithstanding any other provision of law—
+#### (A) Sole source contracts
 
-&emsp;&emsp;(A) a contracting officer may award sole source contracts under this section to any qualified HUBZone small business concern, if—
+&emsp;&emsp;A contracting officer may award sole source contracts under this section to any qualified HUBZone small business concern, if—
 
 &emsp;&emsp;&emsp;(i) the qualified HUBZone small business concern is determined to be a responsible contractor with respect to performance of such contract opportunity, and the contracting officer does not have a reasonable expectation that 2 or more qualified HUBZone small business concerns will submit offers for the contracting opportunity;
 
@@ -28,11 +28,15 @@ There is established within the Administration a program to be carried out by th
 
 &emsp;&emsp;&emsp;&emsp;(II) $3,000,000, in the case of all other contract opportunities; and
 
-&emsp;&emsp;&emsp;(iii) in the estimation of the contracting officer, the contract award can be made at a fair and reasonable price;
+&emsp;&emsp;&emsp;(iii) in the estimation of the contracting officer, the contract award can be made at a fair and reasonable price.
 
-&emsp;&emsp;(B) a contract opportunity shall be awarded pursuant to this section on the basis of competition restricted to qualified HUBZone small business concerns if the contracting officer has a reasonable expectation that not less than 2 qualified HUBZone small business concerns will submit offers and that the award can be made at a fair market price; and
+#### (B) Restricted competition
 
-&emsp;&emsp;(C) not later than 5 days from the date the Administration is notified of a procurement officer's decision not to award a contract opportunity under this section to a qualified HUBZone small business concern, the Administrator may notify the contracting officer of the intent to appeal the contracting officer's decision, and within 15 days of such date the Administrator may file a written request for reconsideration of the contracting officer's decision with the Secretary of the department or agency head.
+&emsp;&emsp;A contract opportunity may be awarded pursuant to this section on the basis of competition restricted to qualified HUBZone small business concerns if the contracting officer has a reasonable expectation that not less than 2 qualified HUBZone small business concerns will submit offers and that the award can be made at a fair market price.
+
+#### (C) Appeals
+
+&emsp;&emsp;Not later than 5 days from the date the Administration is notified of a procurement officer's decision not to award a contract opportunity under this section to a qualified HUBZone small business concern, the Administrator may notify the contracting officer of the intent to appeal the contracting officer's decision, and within 15 days of such date the Administrator may file a written request for reconsideration of the contracting officer's decision with the Secretary of the department or agency head.
 
 #### (3) Price evaluation preference in full and open competitions
 
@@ -60,7 +64,7 @@ There is established within the Administration a program to be carried out by th
 
 #### (4) Relationship to other contracting preferences
 
-&emsp;A procurement may not be made from a source on the basis of a preference provided in paragraph (2) or (3), if the procurement would otherwise be made from a different source under section 4124 or 4125 of title 18 or the Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.).
+&emsp;A procurement may not be made from a source on the basis of a preference provided in paragraph (2) or (3), if the procurement would otherwise be made from a different source under section 4124 or 4125 of title 18 or chapter 85 of title 41.
 
 #### (c) Enforcement; penalties
 
@@ -92,11 +96,15 @@ There is established within the Administration a program to be carried out by th
 
 There is authorized to be appropriated to carry out the program established by this section $10,000,000 for each of fiscal years 2004 through 2006.
 
-(Pub. L. 85–536, §2\[31\], as added Pub. L. 105–135, title VI, §602(b)(1)(B), Dec. 2, 1997, 111 Stat. 2629; amended Pub. L. 106–554, §1(a)(9) \[title V, §503(b), title VI, §612(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–695, 2763A–699; Pub. L. 108–447, div. K, title I, §§153, 154, Dec. 8, 2004, 118 Stat. 3458.)
+(Pub. L. 85–536, §2\[31\], as added Pub. L. 105–135, title VI, §602(b)(1)(B), Dec. 2, 1997, 111 Stat. 2629; amended Pub. L. 106–554, §1(a)(9) \[title V, §503(b), title VI, §612(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–695, 2763A–699; Pub. L. 108–447, div. K, title I, §§153, 154, Dec. 8, 2004, 118 Stat. 3458; Pub. L. 111–240, title I, §1347(b)(1), (c), Sept. 27, 2010, 124 Stat. 2547.)
 
-#### References in Text
+#### Codification
 
-The Javits-Wagner-O'Day Act, referred to in subsec. (b)(4), is act June 25, 1938, ch. 697, 52 Stat. 1196, as amended, which is classified to sections 46 to 48c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
+In subsec. (b)(1)(A), “section 2101(1) of title 41” substituted for “section 27(f)(5) of the Office of Federal Procurement Policy Act (41 U.S.C. 423(f)(5))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (b)(1)(B), “section 107 of title 41” substituted for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)” on authority of Pub. L.111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (b)(4), “chapter 85 of title 41” substituted for “the Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
 
@@ -104,11 +112,23 @@ A prior section 2\[31\] of Pub. L. 85–536 was renumbered section 2\[44\] and i
 
 #### Amendments
 
-2004—Subsec. (b)(3)(C), (D). Pub. L. 108–447, §153, which directed amendment of par. (3) by redesignating subpar. (C) as (D) and adding a new subpar. (C) at the end, was executed by making the redesignation as directed but by adding the new subpar. (C) after subpar. (B) to reflect the probable intent of Congress.
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–240, §1347(c)(1), struck out introductory provisions which read as follows: “Notwithstanding any other provision of law—”.
+
+Subsec. (b)(2)(A). Pub. L. 111–240, §1347(c)(2)(A), inserted heading and substituted “A contracting” for “a contracting” in introductory provisions.
+
+Subsec. (b)(2)(A)(iii). Pub. L. 111–240, §1347(c)(2)(B), substituted period for semicolon at end.
+
+Subsec. (b)(2)(B). Pub. L. 111–240, §1347(c)(3), which directed amendment of subpar. (B) by inserting heading and substituting “A contract opportunity may” for “a contract opportunity shall”, and period for “; and”, was executed by inserting heading and substituting “A contract opportunity may” for “a contract opportunity may” and period for “; and”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 111–240, §1347(b)(1). See below.
+
+Pub. L. 111–240, §1347(b)(1), substituted “may” for “shall”.
+
+Subsec. (b)(2)(C). Pub. L. 111–240, §1347(c)(4), inserted heading and substituted “Not later” for “not later”.
+
+<b>2004</b>—Subsec. (b)(3)(C), (D). Pub. L. 108–447, §153, which directed amendment of par. (3) by redesignating subpar. (C) as (D) and adding a new subpar. (C) at the end, was executed by making the redesignation as directed but by adding the new subpar. (C) after subpar. (B) to reflect the probable intent of Congress.
 
 Subsec. (d). Pub. L. 108–447, §154, substituted “2004 through 2006” for “2001 through 2003”.
 
-2000—Subsec. (b)(3). Pub. L. 106–554, §1(a)(9) \[title VI, §612(a)\], designated existing provisions as subpar. (A), inserted heading, substituted “Subject to subparagraph (B), in any” for “In any”, and added subpars. (B) and (C).
+<b>2000</b>—Subsec. (b)(3). Pub. L. 106–554, §1(a)(9) \[title VI, §612(a)\], designated existing provisions as subpar. (A), inserted heading, substituted “Subject to subparagraph (B), in any” for “In any”, and added subpars. (B) and (C).
 
 Subsec. (d). Pub. L. 106–554, §1(a)(9) \[title V, §503(b)\], added subsec. (d).
 

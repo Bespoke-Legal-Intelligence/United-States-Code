@@ -16,7 +16,7 @@ Except as provided in section 1727(e) and section 1724(d)(4) of this title, all 
 
 #### (c) Federal criminal jurisdiction inapplicable in State of Maine under certain sections of title 18; effective date: publication in Federal Register
 
-The United States shall not have any criminal jurisdiction in the State of Maine under the provisions of sections 1152, 1153, 1154, 1155, 1156, 1160,1161, and 1165 of title 18. This provision shall not be effective until sixty days after the publication of notice in the Federal Register as required by section 1723(d) of this title.
+The United States shall not have any criminal jurisdiction in the State of Maine under the provisions of sections 1152, 1153, 1154, 1155, 1156, 1160, 1161, and 1165 of title 18. This provision shall not be effective until sixty days after the publication of notice in the Federal Register as required by section 1723(d) of this title.
 
 #### (d) Capacity to sue and be sued in State of Maine and Federal courts; section 1362 of title 28 applicable to civil actions; immunity from suits provided in Maine Implementing Act; assignment of quarterly income payments from settlement fund to judgment creditors for satisfaction of judgments
 
@@ -54,7 +54,7 @@ In subsec. (d)(2), “section 3727 of title 31” substituted for “section 347
 
 #### Amendments
 
-1983—Subsec. (i). Pub. L. 97–428 inserted provision that notwithstanding any other provision of law authorizing provision of special programs and services by United States to Indians because of their status as Indians, any member of Houlton Band of Maliseet Indians in or near town of Houlton, Maine, be eligible for such programs and services without regard to existence of a reservation or of residence of such member on or near a reservation.
+<b>1983</b>—Subsec. (i). Pub. L. 97–428 inserted provision that notwithstanding any other provision of law authorizing provision of special programs and services by United States to Indians because of their status as Indians, any member of Houlton Band of Maliseet Indians in or near town of Houlton, Maine, be eligible for such programs and services without regard to existence of a reservation or of residence of such member on or near a reservation.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “otherwise”.</i>
 

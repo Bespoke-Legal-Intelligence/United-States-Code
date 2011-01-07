@@ -36,7 +36,7 @@ Advances and reimbursements.—Whenever the Director procures information techno
 
 (d)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Fund for any fiscal year such sums as are required to supplement amounts deposited under subsection\(c) in order to conduct activities under subsection (a).
+Authorization of Appropriations.—There are authorized to be appropriated to the Fund for any fiscal year such sums as are required to supplement amounts deposited under subsection (c) in order to conduct activities under subsection (a).
 
 (e)
 
@@ -74,7 +74,7 @@ Annual Report.—
 
 &emsp;(1)
 
-In general.—The Director shall submit to the Congress an annual report on the operation of the Fund, including on the inventory, use, and acquisition of information technology resources from the Fund and the consistency of such acquisition with the plan prepared under subsection (b). The report shall set forth the amounts deposited into the Fund under subsection (c).
+In general.—The Director shall submit to the Congress an annual report on the operation of the Fund, including on the inventory, use, and acquisition of information technologyresources from the Fund and the consistency of such acquisition with the plan prepared under subsection (b). The report shall set forth the amounts deposited into the Fund under subsection (c).
 
 &emsp;(2)
 
@@ -122,11 +122,11 @@ Section 606 of Public Law 100–459, referred to in subsec. (h), is section 606 
 
 #### Amendments
 
-2005—Subsec. (e)(2)(B). Pub. L. 109–115 substituted “such contract is in accordance with the Director's authority in section 604(g) of 28 U.S.C.; and,” for “such contract is awarded on a fully competitive basis; and”.
+<b>2005</b>—Subsec. (e)(2)(B). Pub. L. 109–115 substituted “such contract is in accordance with the Director's authority in section 604(g) of 28 U.S.C.; and,” for “such contract is awarded on a fully competitive basis; and”.
 
-2002—Subsec. (f). Pub. L. 107–217 substituted “sections 501–505 of title 40” for “section 201 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481)”.
+<b>2002</b>—Subsec. (f). Pub. L. 107–217 substituted “sections 501–505 of title 40” for “section 201 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481)”.
 
-2000—Pub. L. 106–518, §101(1), substituted “technology resources” for “technology equipment” wherever appearing.
+<b>2000</b>—Pub. L. 106–518, §101(1), substituted “technology resources” for “technology equipment” wherever appearing.
 
 Subsec. (f). Pub. L. 106–518, §101(2), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “(f)
 
@@ -144,15 +144,15 @@ Subsec. (i). Pub. L. 106–518, §101(2), (4), redesignated subsec. (j) as (i) a
 
 Subsecs. (j), (k). Pub. L. 106–518, §101(2), redesignated subsecs. (j) and (k) as (i) and (j), respectively.
 
-1997—Subsec. (f). Pub. L. 105–85 substituted “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” for “the Information Technology Management Reform Act of 1996”.
+<b>1997</b>—Subsec. (f). Pub. L. 105–85 substituted “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” for “the Information Technology Management Reform Act of 1996”.
 
 Subsec. (<i>l</i>). Pub. L. 105–119 struck out subsec. (<i>l</i>) which read as follows:
 
 “(<i>l</i>)
 
-Termination of Authority.—The Fund, and the authorities conferred by this section, terminate on September 30, 1998. All unobligated amounts remaining in the Fund on that date shall be deposited into the fund established under section 1931 of this title to be used to reimburse other appropriations.”
+Termination of Authority.—The Fund, and the authorities conferred by this section, terminate on September 30, 1998. All unobligated amounts remaining inthe Fund on that date shall be deposited into the fund established under section 1931 of this title to be used to reimburse other appropriations.”
 
-1996—Pub. L. 104–106, §5602(b)(1), substituted “Information Technology Fund” for “Automation Fund” in section catchline.
+<b>1996</b>—Pub. L. 104–106, §5602(b)(1), substituted “Information Technology Fund” for “Automation Fund” in section catchline.
 
 Subsec. (a). Pub. L. 104–106, §5602(b)(3), substituted “information technology” for “automatic data processing” wherever appearing.
 
@@ -178,7 +178,7 @@ Definition.—For purposes of this section, the term ‘automatic data processin
 
 Subsec. (m). Pub. L. 104–106, §5602(a)(3), redesignated subsec. (m) as (<i>l</i>).
 
-1994—Subsec. (a). Pub. L. 103–429, §2(1), inserted “program activities included in the courts of appeals, district courts, and other judicial services account of” after “equipment for” and substituted “, support personnel in the courts and in the Administrative Office of the United States Courts, and other costs, for the effective management, coordination, operation, and use of automatic data processing equipment purchased by the Fund. In addition, all agencies of the judiciary may make deposits into the Fund to meet their automatic data processing needs in accordance with subsections (b) and (c)(2)” for “and other costs, for the effective management, coordination, operation, and use of automatic data processing equipment in the judicial branch”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–429, §2(1), inserted “program activities included in the courts of appeals, district courts, and other judicial services account of” after “equipment for” and substituted “, support personnel in the courts and in the Administrative Office of the United States Courts, and other costs, for the effective management, coordination, operation, and use of automatic data processing equipment purchased by the Fund. In addition, all agencies of the judiciary may make deposits into the Fund to meet their automatic data processing needs in accordance with subsections (b) and (c)(2)” for “and other costs, for the effective management, coordination, operation, and use of automatic data processing equipment in the judicial branch”.
 
 Subsec. (b)(1). Pub. L. 103–420, §2(2), substituted “activities funded under subsection (a) and shall include an annual estimate of any fees that may be collected under section 404 of the Judiciary Appropriations Act, 1991 (Public Law 101–515; 104 Stat. 2133)” for “judicial branch”.
 
@@ -192,7 +192,7 @@ Subsec. (h). Pub. L. 103–420, §2(6), amended subsec. (h) generally. Prior to 
 
 Annual Report.—The Director shall submit to the Congress an annual report on the operation of the Fund, including on the inventory, use, and acquisition of automatic data processing equipment from the Fund and the consistency of such acquisition with the plan prepared under subsection (b). The report shall set forth the amounts deposited into the Fund under subsection (c).”
 
-Subsec. (i). Pub. L. 103–420, §2(7), substituted “may transfer amounts up to $1,000,000 from the Fund into the account to which the funds were originally appropriated. Any amounts transferred from the Fund in excess of $1,000,000 in any fiscal year may only be transferred by following reprogramming procedures in compliance with section 606 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1989 (Public Law 100–459; 102 Stat. 2227)” for “and upon notification to the Committees on Appropriations of the House of Representatives and the Senate, may use amounts deposited into the Fund under subparagraph (c)(1)(B) for purposes other than those established in subsection (a) only by following reprogramming procedures in compliancewith provisions set forth in section 606 of Public Law 100–459.”
+Subsec. (i). Pub. L. 103–420, §2(7), substituted “may transfer amounts up to $1,000,000 from the Fund into the account to which the funds were originally appropriated. Any amounts transferred from the Fund in excess of $1,000,000 in any fiscal year may only be transferred by following reprogramming procedures in compliance with section 606 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1989 (Public Law 100–459; 102 Stat. 2227)” for “and upon notification to the Committees on Appropriations of the House of Representatives and the Senate, may use amounts deposited into the Fund under subparagraph (c)(1)(B) for purposes other than those established in subsection (a) only by following reprogramming procedures in compliance with provisions set forth in section 606 of Public Law 100–459.”
 
 Subsec. (j). Pub. L. 103–420, §2(8), substituted “not specified in statute by Congress” for “not specified by Congress” in second sentence.
 

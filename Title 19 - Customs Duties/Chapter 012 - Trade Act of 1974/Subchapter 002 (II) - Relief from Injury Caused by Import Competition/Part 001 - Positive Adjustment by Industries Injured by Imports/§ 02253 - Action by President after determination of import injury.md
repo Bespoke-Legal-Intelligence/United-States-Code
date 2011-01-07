@@ -162,7 +162,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (e)(
 
 #### Amendments
 
-1994—Subsec. (a)(2)(C). Pub. L. 103–465, §303(7), substituted “2252(a)” for “2251(b)”.
+<b>1994</b>—Subsec. (a)(2)(C). Pub. L. 103–465, §303(7), substituted “2252(a)” for “2251(b)”.
 
 Subsec. (a)(3)(E). Pub. L. 103–465, §302(a)(1), struck out “orderly marketing” before “agreements”.
 
@@ -194,7 +194,7 @@ Subsec. (f). Pub. L. 103–465, §302(a)(3), in heading, substituted “Certain�
 
 Subsec. (g)(2). Pub. L. 103–465, §302(a)(4), in first sentence, struck out “orderly marketing or other” before “international”, and in second sentence, substituted “agreement of the type described in subsection (a)(3)(E) of this section that is” for “orderly marketing agreement” and “covered by such agreement” for “covered by such agreements”.
 
-1988—Pub. L. 100–418, §1401(a), in amending section generally, substituted provisions relating to action by President after determination of import injury for provisions relating to import relief.
+<b>1988</b>—Pub. L. 100–418, §1401(a), in amending section generally, substituted provisions relating to action by President after determination of import injury for provisions relating to import relief.
 
 Subsec. (e)(6)(A)(i). Pub. L. 100–418, §1214(j)(2)(A), as amended by Pub. L. 100–647, §9001(a)(2)(B)(i), (ii), substituted “subheadings 9802.00.60 or 9802.00.80 of the Harmonized Tariff Schedule of the United States” for “item 806.30 or 807.00 of the Tariff Schedules of the United States”.
 
@@ -202,11 +202,11 @@ Subsec. (e)(6)(B). Pub. L. 100–647, §9001(a)(2)(A), substituted “(i) the ap
 
 Subsec. (e)(6)(B)(i). Pub. L. 100–418, §1214(j)(2)(B), as amended by Pub. L. 100–647, §9001(a)(2)(B)(i), (iii), substituted “subheading 9802.00.60 or subheading 9802.00.80 of the Harmonized Tariff Schedule of the United States” for “item 806.30 or item 807.00”.
 
-1984—Subsec. (c)(1). Pub. L. 98–573, §248(a)(1), substituted provision that the action recommended by the Commission shall take effect upon enactment of a joint resolution described in section 2192(a)(1)(A) of this title for provision that the action recommended by the Commission would take effect upon the adoption by both Houses of Congress, by an affirmative vote of a majority of the Members of each House present and voting under the procedures set forth in section 2192 of this title, of a concurrent resolution disapproving the action taken by the President or his determination not to provide import relief under section 2252(a)(1)(A) of this title.
+<b>1984</b>—Subsec. (c)(1). Pub. L. 98–573, §248(a)(1), substituted provision that the action recommended by the Commission shall take effect upon enactment of a joint resolution described in section 2192(a)(1)(A) of this title for provision that the action recommended by the Commission would take effect upon the adoption by both Houses of Congress, by an affirmative vote of a majority of the Members of each House present and voting under the procedures set forth in section 2192 of this title, of a concurrent resolution disapproving the action taken by the President or his determination not to provide import relief under section 2252(a)(1)(A) of this title.
 
 Subsec. (c)(2). Pub. L. 98–573, §248(a)(2), substituted “enactment of the joint resolution referred to in paragraph (1)” for “adoption of such resolution” and “section 2251(d)” for “section 2251(b)”.
 
-1979—Subsec. (a)(4). Pub. L. 96–39, §1106(d)(1), substituted “negotiate, conclude, and carry out” for “negotiate”.
+<b>1979</b>—Subsec. (a)(4). Pub. L. 96–39, §1106(d)(1), substituted “negotiate, conclude, and carry out” for “negotiate”.
 
 Subsec. (b)(1). Pub. L. 96–39, §1106(d)(2)(A), (B), substituted “On the day the President determines under section 2252 of this title to provide import relief, including announcement of his intention to negotiate an orderly marketing agreement” for “On the day on which the President proclaims import relief under this section or announces his intention to negotiate one or more orderly marketing agreements” and section “2251(d)(1)(A)” for “2251(b)(1)(A)” of this title.
 

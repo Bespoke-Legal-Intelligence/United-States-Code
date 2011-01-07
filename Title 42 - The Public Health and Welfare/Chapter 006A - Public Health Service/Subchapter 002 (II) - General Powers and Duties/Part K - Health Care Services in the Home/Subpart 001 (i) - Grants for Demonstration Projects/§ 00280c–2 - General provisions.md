@@ -46,5 +46,5 @@ A prior section 397 of act July 1, 1944, ch. 373, title III, formerly §399, as 
 
 #### Amendments
 
-1990—Subsec. (e). Pub. L. 101–557 substituted “there are” for “there is” and inserted before period at end “, $7,500,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 and 1993”.
+<b>1990</b>—Subsec. (e). Pub. L. 101–557 substituted “there are” for “there is” and inserted before period at end “, $7,500,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 and 1993”.
 

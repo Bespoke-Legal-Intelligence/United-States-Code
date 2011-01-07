@@ -18,7 +18,7 @@ The Federal Council on the Arts and Humanities (hereinafter in this chapter refe
 
 #### Amendments
 
-1985—Subsec. (b). Pub. L. 99–194 designated existing provisions as par. (1) and added par. (2).
+<b>1985</b>—Subsec. (b). Pub. L. 99–194 designated existing provisions as par. (1) and added par. (2).
 
 #### Effective Date
 

@@ -20,7 +20,7 @@ Pub. L. 86–610 provided that:
 
 “Whereas advances in combating and abating disease and in the positive promotion of human health can be stimulated by supporting and encouraging cooperation among scientists, research workers, and teachers on an international basis, with consequent benefit to the health of our people and of all peoples; and
 
-“Whereas there already exist tested means for international cooperation in matters relating to health, including the World Health Organization, the Pan American Health Organization, and the United Nations Children's Fund (UNICEF), with which the United States is identified and associated, and it is highly desirablethat the United States establish domestic machinery for the maximum mobilization of its health research resources, the more efficiently to cooperate with and support the research, research-training and research-planning endeavors of such international organizations: Therefore be it \* \* \*”.
+“Whereas there already exist tested means for international cooperation in matters relating to health, including the World Health Organization, the Pan American Health Organization, and the United Nations Children's Fund (UNICEF), with which the United States is identified and associated, and it is highly desirable that the United States establish domestic machinery for the maximum mobilization of its health research resources, the more efficiently to cooperate with and support the research, research-training and research-planning endeavors of such international organizations: Therefore be it \* \* \*”.
 
 #### Short Title
 

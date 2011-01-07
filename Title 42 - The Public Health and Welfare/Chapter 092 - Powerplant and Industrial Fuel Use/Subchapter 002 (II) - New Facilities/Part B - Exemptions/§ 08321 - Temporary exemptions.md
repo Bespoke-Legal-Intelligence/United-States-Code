@@ -6,7 +6,7 @@ After consideration of a petition (and comments thereon) for an exemption for a 
 
 &emsp;(1) it is likely that an adequate and reliable supply of coal or other alternate fuel of the quality necessary to conform with design and operational requirements for use as a primary energy source will not be available to such powerplant at a cost (taking into account associated facilities for the transportation and use of such fuel) which, based upon the best practicable estimates, does not substantially exceed the cost, as determined by rule by the Secretary, of the fuel that would be used as a primary energy source;
 
-&emsp;(2) one or more site limitations exist which would ot <sup>1</sup> permit the location or operation ofsuch a powerplant using coal or any other alternate fuel as a primary energy source; or
+&emsp;(2) one or more site limitations exist which would ot <sup>1</sup> permit the location or operation of such a powerplant using coal or any other alternate fuel as a primary energy source; or
 
 &emsp;(3) the prohibitions of section 8311 of this title could not be satisfied without violating applicable environmental requirements.
 
@@ -36,7 +36,7 @@ After consideration of a petition (and comments thereon) for an exemption for a 
 
 #### Amendments
 
-1987—Subsec. (a). Pub. L. 100–42, §1(c)(5)(A)–(D), substituted “from” for “or installation from one or more of” in introductory provisions, substituted “the fuel that would be used” for “using imported petroleum” and struck out “or installation” after “powerplant” in par. (1), struck out “or installation” after “powerplant” in par. (2), and struck out “or 8312” after “8311” in par. (3).
+<b>1987</b>—Subsec. (a). Pub. L. 100–42, §1(c)(5)(A)–(D), substituted “from” for “or installation from one or more of” in introductory provisions, substituted “the fuel that would be used” for “using imported petroleum” and struck out “or installation” after “powerplant” in par. (1), struck out “or installation” after “powerplant” in par. (2), and struck out “or 8312” after “8311” in par. (3).
 
 Subsec. (b). Pub. L. 100–42, §1(c)(5)(A), substituted “from” for “or installation from one or more of”.
 

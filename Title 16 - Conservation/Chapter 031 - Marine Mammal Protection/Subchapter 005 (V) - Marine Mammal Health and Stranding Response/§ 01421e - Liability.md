@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A person who is authorized to respond to a stranding pursuant to an agreement entered into under section 1382(c) of this title is deemedto be an employee of the government for purposes of chapter 171 of title 28, with respect to actions of the person that are—
+A person who is authorized to respond to a stranding pursuant to an agreement entered into under section 1382(c) of this title is deemed to be an employee of the government for purposes of chapter 171 of title 28, with respect to actions of the person that are—
 
 &emsp;(1) in accordance with the agreement; and
 
@@ -22,5 +22,5 @@ Subsection (a) of this section does not apply to actions of a person described i
 
 #### Amendments
 
-1994—Subsec. (a)(2)(A), (B). Pub. L. 103–238, §24(c)(3), (4), made technical amendment to references to section 1421c of this title to reflect renumbering of corresponding section of original act.
+<b>1994</b>—Subsec. (a)(2)(A), (B). Pub. L. 103–238, §24(c)(3), (4), made technical amendment to references to section 1421c of this title to reflect renumbering of corresponding section of original act.
 

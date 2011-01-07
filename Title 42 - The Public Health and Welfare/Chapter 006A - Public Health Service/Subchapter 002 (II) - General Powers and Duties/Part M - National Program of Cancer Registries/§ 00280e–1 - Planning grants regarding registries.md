@@ -4,7 +4,7 @@
 
 #### (1) States
 
-&emsp;The Secretary, acting through the Director of the Centers for Disease Control, may makegrants to States for the purpose of developing plans that meet the assurances required by the Secretary under section 280e(c)(2) of this title.
+&emsp;The Secretary, acting through the Director of the Centers for Disease Control, may make grants to States for the purpose of developing plans that meet the assurances required by the Secretary under section 280e(c)(2) of this title.
 
 #### (2) Other entities
 

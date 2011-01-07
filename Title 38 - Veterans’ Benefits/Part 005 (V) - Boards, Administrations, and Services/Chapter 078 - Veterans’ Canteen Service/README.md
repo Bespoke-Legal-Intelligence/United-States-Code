@@ -17,11 +17,11 @@
 
 #### Amendments
 
-1991—Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405, substituted “Secretary” for “Administrator” in item 7802.
+<b>1991</b>—Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405, substituted “Secretary” for “Administrator” in item 7802.
 
 Pub. L. 102–40, title IV, §402(a), (c)(1), May 7, 1991, 105 Stat. 238, 239, redesignated chapter 75 of this title as this chapter and renumbered items 4201 to 4210 as 7801 to 7810, respectively.
 
-1988—Pub. L. 100–322, title IV, §§412(b), 414(b)(2), May 20, 1988, 102 Stat. 548, 549, added items 4209 and 4210.
+<b>1988</b>—Pub. L. 100–322, title IV, §§412(b), 414(b)(2), May 20, 1988, 102 Stat. 548, 549, added items 4209 and 4210.
 
 
 ---

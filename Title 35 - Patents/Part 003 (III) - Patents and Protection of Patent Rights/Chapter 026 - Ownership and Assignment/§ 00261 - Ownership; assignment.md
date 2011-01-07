@@ -18,9 +18,9 @@ The first paragraph is new but is declaratory only. The second paragraph is the 
 
 #### Amendments
 
-1982—Pub. L. 97–247 inserted “, or apostille of an official designated by a foreign country which, by treaty or convention, accords like effect to apostilles of designated officials in the United States”.
+<b>1982</b>—Pub. L. 97–247 inserted “, or apostille of an official designated by a foreign country which, by treaty or convention, accords like effect to apostilles of designated officials in the United States”.
 
-1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
 #### Effective Date of 1982 Amendment
 

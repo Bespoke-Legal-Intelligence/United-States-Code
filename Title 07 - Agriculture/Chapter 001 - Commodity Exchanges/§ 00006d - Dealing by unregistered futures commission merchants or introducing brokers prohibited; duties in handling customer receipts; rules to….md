@@ -6,7 +6,7 @@ It shall be unlawful for any person to engage as futures commission merchant or 
 
 &emsp;(1) such person shall have registered, under this chapter, with the Commission as such futures commission merchant or introducing broker and such registration shall not have expired nor been suspended nor revoked; and
 
-&emsp;(2) such person shall, if a futures commission merchant, whether a member or nonmember of a contract market or derivatives transaction execution facility, treat and deal with all money, securities, and property received by such person to margin, guarantee, or secure the trades or contracts of any customer of such person, or accruing to such customer as the result of such trades or contracts, as belonging to such customer. Such money, securities, and property shall be separately accounted for and shall not be commingled with the funds of such commission merchant or be used to margin or guarantee the trades or contracts, or to secure or extend the credit, of any customer or person other than the one for whom the same are held: <i>Provided, however</i>, That such money, securities, and property ofthe customers of such futures commission merchant may, for convenience, be commingled and deposited in the same account or accounts with any bank or trust company or with the clearing house organization of such contract market or derivatives transaction execution facility, and that such share thereof as in the normal course of business shall be necessary to margin, guarantee, secure, transfer, adjust, or settle the contracts or trades of such customers, or resulting market positions, with the clearinghouse organization of such contract market or derivatives transaction execution facility or with any member of such contract market or derivatives transaction execution facility, may be withdrawn and applied to such purposes, including the payment of commissions, brokerage, interest, taxes, storage, and other charges, lawfully accruing in connection with such contracts and trades: <i>Provided further</i>, That in accordance with such terms and conditions as the Commission may prescribe by rule, regulation, or order, such money, securities, and property of the customers of such futures commission merchant may be commingled and deposited as provided in this section with any other money, securities, and property received by such futures commission merchant and required by the Commission to be separately accounted for and treated and dealt with as belonging to the customers of such futures commission merchant: <i>Provided further</i>, That such money may be invested in obligations of the United States, in general obligations of any State or of any political subdivision thereof, and in obligations fully guaranteed as to principal and interest by the United States, such investments to be made in accordance with such rules and regulations and subject to such conditions as the Commission may prescribe.
+&emsp;(2) such person shall, if a futures commission merchant, whether a member or nonmember of a contract market or derivatives transaction execution facility, treat and deal with all money, securities, and property received by such person to margin, guarantee, or secure the trades or contracts of any customer of such person, or accruing to such customer as the result of such trades or contracts, as belonging to such customer. Such money, securities, and property shall be separately accounted for and shall not be commingled with the funds of such commission merchant or be used to margin or guarantee the trades or contracts, or to secure or extend the credit, of any customer or person other than the one for whom the same are held: <i>Provided, however</i>, That such money, securities, and property of the customers of such futures commissionmerchant may, for convenience, be commingled and deposited in the same account or accounts with any bank or trust company or with the clearing house organization of such contract market or derivatives transaction execution facility, and that such share thereof as in the normal course of business shall be necessary to margin, guarantee, secure, transfer, adjust, or settle the contracts or trades of such customers, or resulting market positions, with the clearinghouse organization of such contract market or derivatives transaction execution facility or with any member of such contract market or derivatives transaction execution facility, may be withdrawn and applied to such purposes, including the payment of commissions, brokerage, interest, taxes, storage, and other charges, lawfully accruing in connection with such contracts and trades: <i>Provided further</i>, That in accordance with such terms and conditions as the Commission may prescribe by rule, regulation, or order, such money, securities, and property of the customers of such futures commission merchant may be commingled and deposited as provided in this section with any other money, securities, and property received by such futures commission merchant and required by the Commission to be separately accounted for and treated and dealt with as belonging to the customers of such futures commission merchant: <i>Provided further</i>, That such money may be invested in obligations of the United States, in general obligations of any State or of any political subdivision thereof, and in obligations fully guaranteed as to principal and interest by the United States, such investments to be made in accordance with such rules and regulations and subject to such conditions as the Commission may prescribe.
 
 #### (b) Duties of clearing agencies, depositories, and others in handling customer receipts
 
@@ -20,7 +20,85 @@ Consistent with this chapter, the Commission, in consultation with the Securitie
 
 &emsp;(2) similar provisions of this chapter and the rules and regulations thereunder involving security futures products.
 
-(Sept. 21, 1922, ch. 369, §4d, as added June 15, 1936, ch. 545, §5, 49 Stat. 1494; amended Pub. L. 90–258, §6, Feb. 19, 1968, 82 Stat. 27; Pub. L. 93–463, title I, §103(a), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 95–405, §4, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, §207, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(6), title II, §251(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–407, 2763A–443.)
+(Sept. 21, 1922, ch. 369, §4d, as added June 15, 1936, ch. 545, §5, 49 Stat. 1494; amended Pub. L. 90–258, §6, Feb. 19, 1968, 82 Stat. 27; Pub. L. 93–463, title I, §103(a), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 95–405, §4, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, §207, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(6), title II, §251(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–407, 2763A–443; Pub. L. 111–203, title VII, §§713(b), 724(a), 732, 749(a), July 21, 2010, 124 Stat. 1646, 1682, 1712, 1746.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title VII, §§713(b), 724(a), 732, 749(a), 754, July 21, 2010, 124 Stat. 1646, 1682, 1712, 1746, 1754, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)—</i>
+
+<i>(A) in the matter preceding paragraph (1), by striking “engage as” and inserting “be a”; and by striking “or introducing broker” and all that follows through “or derivatives transaction execution facility”;</i>
+
+<i>(B) in paragraph (1), by striking “or introducing broker”; and</i>
+
+<i>(C) in paragraph (2), by striking “if a futures commission merchant,”;</i>
+
+<i>(2) by redesignating subsection (c) as subsection (e);</i>
+
+<i>(3) by inserting after subsection (b) the following new subsections:</i>
+
+#### <i>“(c) Conflicts of interest</i>
+
+<i>“The Commission shall require that futures commission merchants and introducing brokers implement conflict-of-interest systems and procedures that—</i>
+
+&emsp;<i>“(1) establish structural and institutional safeguards to ensure that the activities of any person within the firm relating to research or analysis of the price or market for any commodity are separated by appropriate informational partitions within the firm from the review, pressure, or oversight of persons whose involvement in trading or clearing activities might potentially bias the judgment or supervision of the persons; and</i>
+
+&emsp;<i>“(2) address such other issues as the Commission determines to be appropriate.</i>
+
+#### <i>“(d) Designation of Chief Compliance Officer</i>
+
+<i>“Each futures commission merchant shall designate an individual to serve as its Chief Compliance Officer and perform such duties and responsibilities as shall be set forth in regulations to be</i><i>adopted by the Commission or rules to be adopted by a futures association registered under section 21 of this title.”; and</i>
+
+<i>(4) by adding at the end the following new subsections:</i>
+
+#### <i>(f) Swaps</i>
+
+#### <i>(1) Registration requirement</i>
+
+&emsp;<i>It shall be unlawful for any person to accept any money, securities, or property (or to extend any credit in lieu of money, securities, or property) from, for, or on behalf of a swaps customer to margin, guarantee, or secure a swap cleared by or through a derivatives clearing organization (including money, securities, or property accruing to the customer as the result of such a swap), unless the person shall have registered under this chapter with the Commission as a futures commission merchant, and the registration shall not have expired nor been suspended nor revoked.</i>
+
+#### <i>(2) Cleared swaps</i>
+
+#### <i>(A) Segregation required</i>
+
+&emsp;&emsp;<i>A futures commission merchant shall treat and deal with all money, securities, and property of any swaps customer received to margin, guarantee, or secure a swap cleared by or though a derivatives clearing organization (including money, securities, or property accruing to the swaps customer as the result of such a swap) as belonging to the swaps customer.</i>
+
+#### <i>(B) Commingling prohibited</i>
+
+&emsp;&emsp;<i>Money, securities, and property of a swaps customer described in subparagraph (A) shall be separately accounted for and shall not be commingled with the funds of the futures commission merchant or be used to margin, secure, or guarantee any trades or contracts of any swaps customer or person other than the person for whom the same are held.</i>
+
+#### <i>(3) Exceptions</i>
+
+#### <i>(A) Use of funds</i>
+
+#### <i>(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>Notwithstanding paragraph (2), money, securities, and property of swap customers of a futures commission merchant described in paragraph (2) may, for convenience, be commingled and deposited in the same account or accounts with any bank or trust company or with a derivatives clearing organization.</i>
+
+#### <i>(ii) Withdrawal</i>
+
+&emsp;&emsp;&emsp;<i>Notwithstanding paragraph (2), such share of the money, securities, and property described in clause (i) as in the normal course of business shall be necessary to margin, guarantee, secure, transfer, adjust, or settle a cleared swap with a derivatives clearing organization, or with any member of the derivatives clearing organization, may be withdrawn and applied to such purposes, including the payment of commissions, brokerage, interest, taxes, storage, and other charges, lawfully accruing in connection with the cleared swap.</i>
+
+#### <i>(B) Commission action</i>
+
+&emsp;&emsp;<i>Notwithstanding paragraph (2), in accordance with such terms and conditions as the Commission may prescribe by rule, regulation, or order, any money, securities, or property of the swaps customers of a futures commission merchant described in paragraph (2) may be commingled and deposited in customer accounts with any other money, securities, or property received by the futures commission merchant and required by the Commission to be separately accounted for and treated and dealt with as belonging to the swaps customer of the futures commission merchant.</i>
+
+#### <i>(4) Permitted investments</i>
+
+&emsp;<i>Money described in paragraph (2) may be invested in obligations of the United States, in general obligations of any State or of any political subdivision of a State, and in obligations fully guaranteed as to principal and interest by the United States, or in any other investment that the Commission may by rule or regulation prescribe, and such investments shall be made in accordance with such rules and regulations and subject to such conditions as the Commission may prescribe.</i>
+
+#### <i>(5) Commodity contract</i>
+
+&emsp;<i>A swap cleared by or through a derivatives clearing organization shall be considered to be a commodity contract as such term is defined in section 761 of title 11, with regard to all money, securities, and property of any swaps customer received by a futures commission merchant or a derivatives clearing organization to margin, guarantee, or secure the swap (including money, securities, or property accruing to the customer as the result of the swap).</i>
+
+#### <i>(6) Prohibition</i>
+
+&emsp;<i>It shall be unlawful for any person, including any derivatives clearing organization and any depository institution, that has received any money, securities, or property for deposit in a separate account or accounts as provided in paragraph (2) to hold, dispose of, or use any such money, securities, or property as belonging to the depositing futures commission merchant or any person other than the swaps customer of the futures commission merchant.</i>
+
+<i>(g) It shall be unlawful for any person to be an introducing broker unless such person shall have registered under this chapter with the Commission as an introducing broker and such registration shall not have expired nor been suspended nor revoked.</i>
+
+<i>(h) Notwithstanding subsection (a)(2) or the rules and regulations thereunder, and pursuant to an exemption granted by the Commission under section 6(c) of this title or pursuant to a rule or regulation, a futures commission merchant that is registered pursuant to section 6f(a)(1) of this title and also registered as a broker or dealer pursuant to section 78(o)(b)(1) of title 15 may, pursuant to a portfolio margining program approved by the Securities and Exchange Commission pursuant to section 78s(b) of title 15, hold in a portfolio margining account carried as a securities account subject to section 78(o)(c)(3) of title 15 and the rules and regulations thereunder, a contract for the purchase or sale of a commodity for future delivery or an option on such a contract, and any money, securities or other property received from a customer to margin, guarantee or secure such a contract, or accruing to a customer as the result of such a contract. The Commission shall consult with the Securities and Exchange</i><i>Commission to adopt rules to ensure that such transactions and accounts are subject to comparable requirements to the extent practical for similar products.</i>
 
 #### Amendments
 
@@ -39,6 +117,10 @@ Par. (2). Pub. L. 97–444, §207(3), inserted “if a futures commission mercha
 1974—Pub. L. 93–463 substituted “Commission” for “Secretary of Agriculture” in pars. (1) and (2).
 
 1968—Pub. L. 90–258 struck out from second proviso of first par. authorization for investment of customer funds in investment securities of the kind national banking associations may buy or in loans secured by negotiable warehouse receipts conveying or securing title to readily marketable commodities to the extent of the current loan value of such receipts and added second par., making it unlawful for any person, including a clearing agency of a contract market or any depository, to treat customer funds as belonging to any person other than the customer, respectively.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 #### Effective Date of 1983 Amendment
 

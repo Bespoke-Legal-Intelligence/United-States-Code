@@ -38,7 +38,7 @@ From the funds appropriated under section 7176 of this title for any fiscal year
 
 #### (3) State activities
 
-&emsp;A State educational agency may use not more than 3 percent of the amount madeavailable to the State under subsection (b) of this section for the following activities:
+&emsp;A State educational agency may use not more than 3 percent of the amount made available to the State under subsection (b) of this section for the following activities:
 
 &emsp;&emsp;(A) Monitoring and evaluation of programs and activities assisted under this part.
 

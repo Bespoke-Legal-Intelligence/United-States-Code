@@ -18,11 +18,11 @@ Method of Sale.—The Secretary shall use competitive procedures to sell ammunit
 
 (c)
 
-Eligible Purchasers.—To be eligible to purchase excess, obsolete, or unserviceable ammunition or ammunition components under thissection, the purchaser shall be a licensed manufacturer (as defined in section 921(a)(10) of title 18) that, as determined by the Secretary, has a capability to modify, reclaim, transport, and either store or sell the ammunition or ammunition components sought to be purchased.
+Eligible Purchasers.—To be eligible to purchase excess, obsolete, or unserviceable ammunition or ammunition components under this section, the purchaser shall be a licensed manufacturer (as defined in section 921(a)(10) of title 18) that, as determined by the Secretary, has a capability to modify, reclaim, transport, and either store or sell the ammunition or ammunition components sought to be purchased.
 
 (d)
 
-Hold Harmless Agreement.—The Secretary shall require a purchaser of ammunition or ammunition components under this section to agree to hold harmless and indemnify the United States from any claim for damages for death, injury, or other loss resulting from a use of the ammunition or ammunition components, except in a case of willful misconduct or gross negligence of a representative of the United States.
+Hold Harmless Agreement.—The Secretary shall require a purchaser of ammunition or ammunition components under this sectionto agree to hold harmless and indemnify the United States from any claim for damages for death, injury, or other loss resulting from a use of the ammunition or ammunition components, except in a case of willful misconduct or gross negligence of a representative of the United States.
 
 (e)
 
@@ -52,7 +52,7 @@ Definitions.—In this section:
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–364 substituted “921(a)(10)” for “921(10)”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–364 substituted “921(a)(10)” for “921(10)”.
 
 #### Review of Initial Sales
 

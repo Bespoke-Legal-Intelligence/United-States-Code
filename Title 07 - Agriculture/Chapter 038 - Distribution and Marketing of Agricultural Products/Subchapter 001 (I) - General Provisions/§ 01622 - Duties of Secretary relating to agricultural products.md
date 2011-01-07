@@ -70,7 +70,7 @@ Identification of honey.—
 
 &emsp;(A)
 
-In general.—The use of a label or advertising material on, or in conjunction with, packaged honey that bears any official certificate of quality, grade mark or statement, continuous inspection mark or statement, sampling mark or statement, or any combination of the certificates, marks, or statements of the Department of Agriculture is hereby prohibited under this Act unless there appears legibly and permanently in close proximity (such as on the same side(s) or surface(s)) to the certificate, mark, or statement, and in at least a comparable size, the 1 or more names of the 1 or more countries of origin of the lot or container of honey, preceded by the words “Product of” or other words of similar meaning.
+In general.—The use of a label or advertising material on, or in conjunction with, packaged honey that bears any official certificate of quality, grade mark or statement, continuous inspection mark or statement, sampling mark or statement, or any combination of the certificates, marks, or statements of the Department of Agriculture is hereby prohibited under this Act unless there appears legibly and permanently in close proximity (such as on the same side(s) or surface(s)) to the certificate, mark, or statement, and in at least a comparable size, the 1 or more names of the 1 or more countries of origin of the lotor container of honey, preceded by the words “Product of” or other words of similar meaning.
 
 &emsp;(B)
 
@@ -144,7 +144,7 @@ Subsec. (j). Pub. L. 98–443 struck out “the Civil Aeronautics Board” after
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Pub. L. 110–234, title X, §10402(b), May 22, 2008, 122 Stat. 1349, and Pub. L. 110–246, §4(a), title X, §10402(b), June 18, 2008, 122 Stat. 1664, 2111, provided that: “The amendments made by subsection (a) \[amending this section\] take effect on the date that is 1 year after the date of enactment of this Act \[June 18, 2008\].”
 
@@ -160,7 +160,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwiseprovided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 
 Section 304 of 1961 Reorg. Plan No. 7, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840, set out in the Appendix to Title 5, Government Organization and Employees, abolished Federal Maritime Board, including offices of members of Board. Functions of Board transferred either to Federal Maritime Commission or to Secretary of Commerce by sections 103 and 202 of 1961 Reorg. Plan No. 7.
 

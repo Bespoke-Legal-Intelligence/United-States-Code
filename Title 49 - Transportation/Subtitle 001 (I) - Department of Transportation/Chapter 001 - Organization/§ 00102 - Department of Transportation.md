@@ -102,11 +102,11 @@ In subsection (e), the words “The Secretary shall cause a . . . of office”
 
 #### Amendments
 
-2007—Subsecs. (g), (h). Pub. L. 110–140 added subsec. (g) and redesignated former subsec. (g) as (h).
+<b>2007</b>—Subsecs. (g), (h). Pub. L. 110–140 added subsec. (g) and redesignated former subsec. (g) as (h).
 
-2005—Subsecs. (f), (g). Pub. L. 109–59, which directed amendment of this section by adding subsec. (f) and redesignating former subsecs. (f) and (g) as (g) and (h), respectively, was executed by adding subsec. (f) and redesignating former subsec. (f) as (g), to reflect the probable intent of Congress. See 2002 Amendment note below.
+<b>2005</b>—Subsecs. (f), (g). Pub. L. 109–59, which directed amendment of this section by adding subsec. (f) and redesignating former subsecs. (f) and (g) as (g) and (h), respectively, was executed by adding subsec. (f) and redesignating former subsec. (f) as (g), to reflect the probable intent of Congress. See 2002 Amendment note below.
 
-2002—Subsec. (d). Pub. L. 107–295, §215(a)(2), added subsec. (d). Former subsec. (d) redesignated (g).
+<b>2002</b>—Subsec. (d). Pub. L. 107–295, §215(a)(2), added subsec. (d). Former subsec. (d) redesignated (g).
 
 Subsec. (e). Pub. L. 107–295, §215(a)(3), which directed the substitution of “Secretary, Deputy Secretary, and Under Secretary of Transportation for Policy” for “Secretary and the Deputy Secretary” each place it appears in last sentence, was executed by making substitution for “Secretary and the Deputy Secretary” before “are absent” and for “Secretary and Deputy Secretary” before “are vacant”, to reflect the probable intent of Congress.
 
@@ -114,9 +114,9 @@ Subsec. (g). Pub. L. 107–295, §215(c), struck out subsec. (g) which read as f
 
 Pub. L. 107–295, §215(a)(1), redesignated subsec. (d) as (g).
 
-1994—Subsecs. (e), (f). Pub. L. 103–272 redesignated subsec. (e), relating to judicial recognition of Department seal, as (f).
+<b>1994</b>—Subsecs. (e), (f). Pub. L. 103–272 redesignated subsec. (e), relating to judicial recognition of Department seal, as (f).
 
-1984—Subsecs. (d), (e). Pub. L. 98–557 added subsec. (d) and redesignated former subsec. (d), relating to Assistant Secretaries and General Counsel, as (e).
+<b>1984</b>—Subsecs. (d), (e). Pub. L. 98–557 added subsec. (d) and redesignated former subsec. (d), relating to Assistant Secretaries and General Counsel, as (e).
 
 #### Effective Date of 2007 Amendment
 
@@ -125,6 +125,10 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–295, title II, §215(c), Nov. 25, 2002, 116 Stat. 2102, provided that the amendment to this section made by section 215(c) is effective on the date that an individual is appointed to the position of Under Secretary of Transportation for Policy under subsection (d) of this section. On Mar. 19, 2003, the United States Senate confirmed the appointment of the first Under Secretary of Transportation for Policy.
+
+#### Deemed References to Chapters 509 and 511 of Title 51
+
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 
 #### Coordination
 
@@ -146,7 +150,7 @@ Pub. L. 105–178, title V, §5003, June 9, 1998, 112 Stat. 422, provided that:
 
 “(a)
 
-Notice of Reprogramming.—If any funds authorized for carrying out this title \[see Tables for classification\] or the amendments made by this title are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committee on Transportation and Infrastructure and the Committee on Science \[now Committee on Science and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate.
+Notice of Reprogramming.—If any funds authorized for carrying out this title \[see Tables for classification\] or the amendments made by this title are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committee on Transportation and Infrastructure and theCommittee on Science \[now Committee on Science and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 
 “(b)
 

@@ -46,7 +46,7 @@ In no event shall financial assistance be provided under this subchapter to an a
 
 (1) An applicant for financial assistance may be granted a loan of up to 100 percent of the costs of an abatement program or, if the Administrator determines the applicant is unable to undertake and complete an asbestos materials abatement program with a loan, such applicant may also receive a grant (alone or in combination with a loan) not to exceed 50 percent of the total costs of abatement, in the amount which the Administrator deems necessary.
 
-(2) In approving any grant, the Administrator shall state with particularity the reasons why the applicant is unable to undertake and complete the abatement program with loan funds.
+(2) In approving any grant, the Administrator shall state with particularity the reasons whythe applicant is unable to undertake and complete the abatement program with loan funds.
 
 #### (f) Loan agreement
 
@@ -96,11 +96,11 @@ Loans under this section shall be made pursuant to agreements which shall provid
 
 #### References in Text
 
-The Toxic Substances Control Act, referred to in subsecs. (d)(2) and (g)(2)(B), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended. Title II of the Act, as addedby Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2970, is classified generally to subchapter II (§2641 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
+The Toxic Substances Control Act, referred to in subsecs. (d)(2) and (g)(2)(B), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended. Title II of the Act, as added by Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2970, is classified generally to subchapter II (§2641 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
 #### Amendments
 
-1990—Pub. L. 101–637, §14(a)(5), made technical amendment to section catchline.
+<b>1990</b>—Pub. L. 101–637, §14(a)(5), made technical amendment to section catchline.
 
 Subsec. (a). Pub. L. 101–637, §14(b)(7)(A), inserted heading.
 
@@ -128,7 +128,7 @@ Subsec. (c)(3). Pub. L. 101–637, §6(c), substituted “shall consider the fin
 
 &emsp;“(B) the report, if any, of the Secretary of Education pursuant to section 4013(b)(5) of this title.”
 
-Subsec. (d). Pub. L. 101–637, §6(d), inserted heading and amended text generally. Prior to amendment, text read as follows: “In no event shall financial assistance be provided under this subchapter to an applicant if the Administrator determines that such applicant has resources adequate to support an appropriate asbestos materials abatement program. In making such a determination, the Administrator may consult with the Secretary of Education.”
+Subsec. (d). Pub. L. 101–637, §6(d), inserted heading and amended text generally. Prior to amendment, text read as follows: “In no event shall financial assistance be provided under this subchapter to an applicant if theAdministrator determines that such applicant has resources adequate to support an appropriate asbestos materials abatement program. In making such a determination, the Administrator may consult with the Secretary of Education.”
 
 Subsec. (e). Pub. L. 101–637, §14(b)(7)(D), inserted heading.
 
@@ -162,11 +162,11 @@ Subsec. (g)(3), (4). Pub. L. 101–637, §§6(f)(3), 14(c)(4), redesignated subp
 
 &emsp;“(ii) In the case of activities performed by laboratories, after the date which is 180 days after the date on which a laboratory accreditation program is completed under section 2646(d) of title 15.”
 
-1988—Subsec. (g)(4)(B)(i). Pub. L. 100–368, §6(b)(1), substituted reference to October 22, 1986, for reference to August 11, 1984.
+<b>1988</b>—Subsec. (g)(4)(B)(i). Pub. L. 100–368, §6(b)(1), substituted reference to October 22, 1986, for reference to August 11, 1984.
 
 Subsec. (g)(4)(B)(ii). Pub. L. 100–368, §6(b)(2), substituted “section 2646(d) of title 15” for “subsection (d)”.
 
-1986—Subsec. (g)(4). Pub. L. 99–519 added par. (4).
+<b>1986</b>—Subsec. (g)(4). Pub. L. 99–519 added par. (4).
 
 #### Financial Assistance To Carry Out Inspections for Asbestos-Containing Material
 

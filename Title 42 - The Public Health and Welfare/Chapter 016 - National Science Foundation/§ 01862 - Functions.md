@@ -48,15 +48,15 @@ In carrying out subsection (a)(4) of this section, the Foundation is authorized 
 
 #### Amendments
 
-2002—Subsec. (a)(8). Pub. L. 107–305 added par. (8).
+<b>2002</b>—Subsec. (a)(8). Pub. L. 107–305 added par. (8).
 
-1998—Subsec. (g). Pub. L. 105–207 struck out the subsec. (g) enacted by Pub. L. 102–588. See 1992 Amendment note below.
+<b>1998</b>—Subsec. (g). Pub. L. 105–207 struck out the subsec. (g) enacted by Pub. L. 102–588. See 1992 Amendment note below.
 
-1992—Subsec. (g). Pub. L. 102–476 and Pub. L. 102–588 amended section identically, adding subsec. (g).
+<b>1992</b>—Subsec. (g). Pub. L. 102–476 and Pub. L. 102–588 amended section identically, adding subsec. (g).
 
-1986—Subsec. (a)(6). Pub. L. 99–383 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “to maintain a current register of scientific and engineering personnel, and in other ways to provide a central clearinghouse for the collection, interpretation, and analysis of data on the availability of, and the current and projected need for, scientific and engineering resources in the United States, and to provide a source of information for policy formulation by other agencies of the Federal Government; and”.
+<b>1986</b>—Subsec. (a)(6). Pub. L. 99–383 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “to maintain a current register of scientific and engineering personnel, and in other ways to provide a central clearinghouse for the collection, interpretation, and analysis of data on the availability of, and the current and projected need for, scientific and engineering resources in the United States, and to provide a source of information for policy formulation by other agencies of the Federal Government; and”.
 
-1985—Subsec. (a)(1). Pub. L. 99–159, §110(a)(1), struck out “engineering,” after “biological,” and inserted provisions relating to research fundamental to the engineering process, engineering programs, and engineering activities.
+<b>1985</b>—Subsec. (a)(1). Pub. L. 99–159, §110(a)(1), struck out “engineering,” after “biological,” and inserted provisions relating to research fundamental to the engineering process, engineering programs, and engineering activities.
 
 Subsec. (a)(2). Pub. L. 99–159, §110(a)(2), substituted “for study and research in the sciences or in engineering” for “in the mathematical, physical, medical, biological, engineering, social, and other sciences”.
 
@@ -78,15 +78,15 @@ Subsec. (d). Pub. L. 99–159, §110(a)(10), substituted “research and educati
 
 Subsec. (e). Pub. L. 99–159, §110(11), inserted applicability to engineering.
 
-1977—Subsec. (e). Pub. L. 95–99 substituted “an objective” for “one of the objectives”.
+<b>1977</b>—Subsec. (e). Pub. L. 95–99 substituted “an objective” for “one of the objectives”.
 
-1976—Subsec. (f). Pub. L. 94–273 substituted “April” for “January”.
+<b>1976</b>—Subsec. (f). Pub. L. 94–273 substituted “April” for “January”.
 
-1972—Subsec. (a)(1). Pub. L. 92–372 inserted support of science education programs at all levels to the functions of the Foundation and substituted “scientific and educational activities” for “scientific activities”.
+<b>1972</b>—Subsec. (a)(1). Pub. L. 92–372 inserted support of science education programs at all levels to the functions of the Foundation and substituted “scientific and educational activities” for “scientific activities”.
 
 Subsec. (b). Pub. L. 92–484 inserted provisions authorizing the Foundation to initiate and support specific scientific activities in connection with matters relating to the effects of scientific applications upon society, and substituted provisions relating to the initiation or support pursuant to requests of activities by any other Federal department or agency, including the Office of Technology Assessment, for provisions relating to the initiation or support pursuant to requests of activities by the Secretary of State or Secretary of Defense.
 
-1968—Subsec. (a)(1). Pub. L. 90–407 redesignated par. (2) as (1) and added social sciences to the enumerated list of sciences. Former par. (1) redesignated subsec. (d).
+<b>1968</b>—Subsec. (a)(1). Pub. L. 90–407 redesignated par. (2) as (1) and added social sciences to the enumerated list of sciences. Former par. (1) redesignated subsec. (d).
 
 Subsec. (a)(2). Pub. L. 90–407 redesignated par. (4) as (2) and added social sciences to the enumerated list of sciences. Former par. (2) redesignated (1).
 
@@ -96,7 +96,7 @@ Subsec. (a)(4). Pub. L. 90–407 added par. (4). Former par. (4) redesignated su
 
 Subsec. (a)(5). Pub. L. 90–407 redesignated par. (6) as (5) and provided for the employment of consulting services, by grant or contract, to assist in the evaluation of the status and needs of the various sciences as evidenced by the programs and studies undertaken by agencies of the government, by individuals, and by public and private research groups, and provided for the consideration of the results of such evaluations in the correlation of the Foundation's programs with those undertaken by agencies of the government, as well as those undertaken by individuals and by public and private research groups. Former par. (5) redesignated (3).
 
-Subsec. (a)(6). Pub. L. 90–407 redesignated par. (8) as (6) and provided that the register of scientific and technical personnel shall be current, and authorized the Foundation to analyze and interpret the collected data on the availability of, and the current and projected need for, scientific and technical resources in the United States and to make such information availableto other agencies of the government for policy formulation. Former par. (6) redesignated (5).
+Subsec. (a)(6). Pub. L. 90–407 redesignated par. (8) as (6) and provided that the register of scientific and technical personnel shall be current, and authorized the Foundation to analyze and interpret the collected data on the availability of, and the current and projected need for, scientific and technical resources in the United States and to make such information available to other agencies of the government for policy formulation. Former par. (6) redesignated (5).
 
 Subsec. (a)(7). Pub. L. 90–407 added par. (7). Former par. (7), which provided for the establishment of such special commissions as the Board may from to time deem necessary for the purposes of this chapter, was struck out.
 
@@ -114,9 +114,9 @@ Subsec. (e). Pub. L. 90–407 redesignated former subsec. (b) as (e), substitute
 
 Subsec. (f). Pub. L. 90–407 redesignated former subsec. (c) as (f) and struck out provision requiring the report to include the minority views and recommendations if any, of members of the Board.
 
-1959—Subsec. (a)(2). Pub. L. 86–232 clarified the Foundation's authority to support programs to strengthen scientific research potential.
+<b>1959</b>—Subsec. (a)(2). Pub. L. 86–232 clarified the Foundation's authority to support programs to strengthen scientific research potential.
 
-1958—Subsec. (a)(9). Pub. L. 85–510 added par. (9).
+<b>1958</b>—Subsec. (a)(9). Pub. L. 85–510 added par. (9).
 
 #### Transfer of National Science Foundation Programs
 
@@ -170,7 +170,7 @@ Section 5 of Pub. L. 95–99 provided that:
 
 &emsp;“(5) new and existing programs using radio or television to increase public understanding of public policy issues with significant scientific and technical components; and
 
-&emsp;“(6) bona fide public interest groups to acquire necessary scientific and technical expertise relating tothe scientific and technical aspects of public policy issues and to enable such groups to bring together in appropriate forums experts whose research has been directed to the resolution of such issues.”
+&emsp;“(6) bona fide public interest groups to acquire necessary scientific and technical expertise relating to the scientific and technical aspects of public policy issues and to enable such groups to bring together in appropriate forums experts whose research has been directed to the resolution of such issues.”
 
 #### Establishment of “Science for Citizens Program” Conducted in Conjunction With “Public Understanding of Science Program”
 
@@ -236,7 +236,7 @@ Section 16 of Pub. L. 90–407 provided that: “Except as otherwise specificall
 
 #### Investigation of Need for Geophysical Institute in Territory of Hawaii
 
-Act Aug. 1, 1956, ch. 865, 70 Stat. 922, directed the National Science Foundation to conduct an investigation into the need for and the feasibility and usefulness of a geophysical institute located in the Territory \[now State\] of Hawaii. The Foundation was required to report the results of its investigations, together with its recommendations based thereon, to the Congress not later than 9 months after Aug. 1, 1956.
+Act Aug. 1, 1956, ch. 865, 70 Stat. 922, directed the National Science Foundation to conduct an investigation into the need for and the feasibility and usefulness of a geophysical institute located in the Territory \[now State\] of Hawaii. The Foundation was required to report the results of its investigations, together with itsrecommendations based thereon, to the Congress not later than 9 months after Aug. 1, 1956.
 
 #### Ex. Ord. No. 10521. Administration of Scientific Research
 

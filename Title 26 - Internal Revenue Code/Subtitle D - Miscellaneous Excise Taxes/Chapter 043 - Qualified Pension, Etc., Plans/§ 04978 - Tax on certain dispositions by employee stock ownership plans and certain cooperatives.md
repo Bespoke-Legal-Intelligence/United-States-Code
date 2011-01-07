@@ -94,9 +94,9 @@ For purposes of this section—
 
 #### Amendments
 
-2004—Subsec. (a)(2). Pub. L. 108–311 substituted “(60 percent” for “60 percent”.
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–311 substituted “(60 percent” for “60 percent”.
 
-1997—Subsec. (a). Pub. L. 105–34, §1530(c)(11)(A), inserted “or acquired any qualified employer securities in a qualified gratuitous transfer to which section 664(g) applied” after “section 1042 applied” in introductory provisions.
+<b>1997</b>—Subsec. (a). Pub. L. 105–34, §1530(c)(11)(A), inserted “or acquired any qualified employer securities in a qualified gratuitous transfer to which section 664(g) applied” after “section 1042 applied” in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 105–34, §1530(c)(11)(B), inserted before comma at end “60 percent of the total value of all employer securities as of such disposition in the case of any qualified employer securities acquired in a qualified gratuitous transfer to which section 664(g) applied)”.
 
@@ -108,7 +108,7 @@ Subsec. (c). Pub. L. 105–34, §1530(c)(13), substituted “written statement d
 
 Subsec. (e)(2). Pub. L. 105–34, §1530(c)(14), inserted before period at end “; except that such section shall be applied without regard to subparagraph (B) thereof for purposes of applying this section and section 4979A with respect to securities acquired in a qualified gratuitous transfer (as defined in section 664(g)(1))”.
 
-1996—Subsec. (b)(2). Pub. L. 104–188 added subpars. (A) and (B) and closing provisions and struck out former subpars. (A) to (D) and closing provisions which read as follows:
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–188 added subpars. (A) and (B) and closing provisions and struck out former subpars. (A) to (D) and closing provisions which read as follows:
 
 &emsp;“(A) first, from section 133 securities (as defined in section 4978B(e)(2)) acquired during the 3-year period ending on the date of such disposition, beginning with the securities first so acquired.
 
@@ -120,13 +120,13 @@ Subsec. (e)(2). Pub. L. 105–34, §1530(c)(14), inserted before period at end �
 
 > If subsection (d) or section 4978B(d) applies to a disposition, the disposition shall be treated as made from employer securities in the opposite order of the preceding sentence.”
 
-1989—Subsec. (b)(2). Pub. L. 101–239 substituted “determined as if such securities were disposed of—”, subpars. (A) to (D), and concluding provision for “(determined as if such securities were disposed of in the order described in section 4978A(e))”.
+<b>1989</b>—Subsec. (b)(2). Pub. L. 101–239 substituted “determined as if such securities were disposed of—”, subpars. (A) to (D), and concluding provision for “(determined as if such securities were disposed of in the order described in section 4978A(e))”.
 
-1988—Subsec. (d)(4). Pub. L. 100–647 added par. (4).
+<b>1988</b>—Subsec. (d)(4). Pub. L. 100–647 added par. (4).
 
-1987—Subsec. (b)(2). Pub. L. 100–203 substituted “(determined as if such securities were disposed of in the order described in section 4978A(e))” for “(determined as if such securities were disposed of before any other securities)”.
+<b>1987</b>—Subsec. (b)(2). Pub. L. 100–203 substituted “(determined as if such securities were disposed of in the order described in section 4978A(e))” for “(determined as if such securities were disposed of before any other securities)”.
 
-1986—Subsec. (a)(1). Pub. L. 99–514, §1854(e)(1), substituted “than” for “then”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1854(e)(1), substituted “than” for “then”.
 
 Subsec. (b)(1). Pub. L. 99–514, §1854(e)(2), substituted “subsection (a)” for “paragraph (1)”.
 

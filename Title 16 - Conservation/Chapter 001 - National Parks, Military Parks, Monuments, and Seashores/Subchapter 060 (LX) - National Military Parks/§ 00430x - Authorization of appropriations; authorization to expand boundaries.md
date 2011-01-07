@@ -10,7 +10,7 @@ Herein, referred to in text, means act June 26, 1935, ch. 315, 49 Stat. 423, whi
 
 #### Amendments
 
-1939—Act Aug. 9, 1939, inserted proviso.
+<b>1939</b>—Act Aug. 9, 1939, inserted proviso.
 
 #### Appropriation
 

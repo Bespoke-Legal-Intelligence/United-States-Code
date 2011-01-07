@@ -54,3 +54,5 @@ As used in this chapter—
 
 The Pacific Fishery Management Council, referred to in par. (4)(B)(i), was established by section 1852 of this title. Pub. L. 99–659 amended section 1811 of this title by substituting provisions relating to exclusive economic zones, for fishery conservation zones.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “described”.</i>
+

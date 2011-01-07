@@ -18,11 +18,11 @@
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–132 inserted “or conspires” after “attempts”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–132 inserted “or conspires” after “attempts”.
 
-1994—Subsec. (a). Pub. L. 103–322 inserted before period at end “and, if the death of any person results, shall be punished by death or life imprisonment”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 inserted before period at end “and, if the death of any person results, shall be punished by death or life imprisonment”.
 
-1988—Subsec. (c). Pub. L. 100–690 substituted “(c) As” for “(C) As”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–690 substituted “(c) As” for “(C) As”.
 
 #### Effective Date
 

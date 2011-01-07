@@ -18,9 +18,9 @@
 
 &emsp;(2) If the amount of such a grant is less than the amount of costs referred to in subparagraph (A) or (B) of paragraph (1), the State receiving the grant shall contribute the excess of such costs over the grant.
 
-&emsp;(3) If a State that has received such a grant to establish, expand, or improve a veterans’ cemetery ceases to own such cemetery, ceases to operate such cemetery as a veterans’ cemetery, or uses any part of the funds provided through such grant for a purpose other than that for which the grant was made, the United States shall be entitled to recover from such State the total of all grants made under this section to such State in connection with such cemetery.
+&emsp;(3) If a State that has received such a grant to establish, expand, or improve a veterans’ cemetery ceases to own such cemetery, ceases to operate such cemetery as a veterans’ cemetery, or uses any part of the funds providedthrough such grant for a purpose other than that for which the grant was made, the United States shall be entitled to recover from such State the total of all grants made under this section to such State in connection with such cemetery.
 
-(c)(1) In addition to the conditions specified in subsection (b) of this section, any grant to a State under this section to assist such State in establishing a veterans’ cemetery shall be made on the condition that such cemetery shall conform to such standards and guidelines relating to site selection, planning, and construction as the Secretary may by regulation prescribe. In prescribing regulations for the purposes of the preceding sentence, the Secretary shall takeinto account the standards and guidelines for site selection, planning, and construction that are applicable to cemeteries under the control of the National Cemetery Administration, including those provided in subsections (b), (c), and (d) of section 2404 of this title.
+(c)(1) In addition to the conditions specified in subsection (b) of this section, any grant to a State under this section to assist such State in establishing a veterans’ cemetery shall be made on the condition that such cemetery shall conform to such standards and guidelines relating to site selection, planning, and construction as the Secretary may by regulation prescribe. In prescribing regulations for the purposes of the preceding sentence, the Secretary shall take into account the standards and guidelines for site selection, planning, and construction that are applicable to cemeteries under the control of the National Cemetery Administration, including those provided in subsections (b), (c), and (d) of section 2404 of this title.
 
 (2) The Secretary may by regulation prescribe such additional terms and conditions for grants under this section as the Secretary considers appropriate.
 
@@ -50,7 +50,7 @@
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–157, §202(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Subject to subsection (b) of this section, the Secretary may make grants to any State to assist such State in establishing, expanding, or improving veterans’ cemeteries owned by such State. Any such grant may be made only upon submission of an application to the Secretary in such form and manner, and containing such information, as the Secretary may require.”
+<b>2007</b>—Subsec. (a). Pub. L. 110–157, §202(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Subject to subsection (b) of this section, the Secretary may make grants to any State to assist such State in establishing, expanding, or improving veterans’ cemeteries owned by such State. Any such grant may be made only upon submission of an application to the Secretary in such form and manner, and containing such information, as the Secretary may require.”
 
 Subsec. (b). Pub. L. 110–157, §202(b)(3)(A), substituted “A grant under this section for a purpose described in subsection (a)(1)(A)” for “Grants under this section” in introductory provisions and “such a grant” for “a grant under this section” wherever appearing.
 
@@ -60,15 +60,15 @@ Subsec. (e). Pub. L. 110–157, §202(b)(2), designated existing provisions as p
 
 Subsec. (f)(1). Pub. L. 110–157, §202(b)(3)(C), inserted “, or in operating and maintaining such cemeteries,” after “veterans’ cemeteries”.
 
-2006—Subsec. (f). Pub. L. 109–461 added subsec. (f).
+<b>2006</b>—Subsec. (f). Pub. L. 109–461 added subsec. (f).
 
-2003—Subsec. (a). Pub. L. 108–183, §503(a), struck out par. (1) designation before “Subject to” and struck out par. (2) which authorized amounts for fiscal years 1999 through 2004 for grants.
+<b>2003</b>—Subsec. (a). Pub. L. 108–183, §503(a), struck out par. (1) designation before “Subject to” and struck out par. (2) which authorized amounts for fiscal years 1999 through 2004 for grants.
 
 Subsec. (d)(1). Pub. L. 108–183, §503(c), struck out “on or after November 21, 1997,” after “grant made”.
 
 Subsec. (e). Pub. L. 108–183, §503(b), substituted “Amounts appropriated to carry out this section” for “Sums appropriated under subsection (a) of this section”.
 
-1998—Subsec. (a)(2). Pub. L. 105–368, §404(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There is authorized to be appropriated $5,000,000 for fiscal year 1980 and for each of the four succeeding fiscal years, and such sums as may be necessary for fiscal year 1985 and for each of the fourteen succeeding fiscal years, for the purpose of making grants under paragraph (1) of this subsection.”
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–368, §404(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There is authorized to be appropriated $5,000,000 for fiscal year 1980 and for each of the four succeeding fiscal years, and such sums as may be necessary for fiscal year 1985 and for each of the fourteen succeeding fiscal years, for the purpose of making grants under paragraph (1) of this subsection.”
 
 Subsec. (b)(1), (2). Pub. L. 105–368, §404(a)(1), amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
 
@@ -82,17 +82,17 @@ Subsec. (d)(1). Pub. L. 105–368, §1005(b)(5), substituted “November 21, 199
 
 Subsec. (e). Pub. L. 105–368, §401(b), substituted “shall remain available until expended” for “shall remain available until the end of the second fiscal year following the fiscal year for which they are appropriated” in first sentence.
 
-1997—Subsecs. (d), (e). Pub. L. 105–116 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1997</b>—Subsecs. (d), (e). Pub. L. 105–116 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1994—Subsec. (a)(2). Pub. L. 103–446 substituted “fourteen” for “nine”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–446 substituted “fourteen” for “nine”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1008 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1008 of this title as this section.
 
 Subsec. (c)(1). Pub. L. 102–83, §5(c)(1), substituted “2404” for “1004”.
 
-1989—Subsecs. (a)(1), (c). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Subsecs. (a)(1), (c). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1988—Subsec. (a)(2). Pub. L. 100–687 substituted “nine” for second reference to “four”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–687 substituted “nine” for second reference to “four”.
 
 Subsec. (b)(1). Pub. L. 100–322, §343(1)–(3), redesignated par. (2) as (1), substituted “percent” for “per centum”, and struck out former par. (1) which read as follows: “No State may receive grants under this section in any fiscal year in a total amount in excess of 20 per centum of the total amount appropriated for such grants for such fiscal year.”
 
@@ -100,7 +100,7 @@ Subsec. (b)(2). Pub. L. 100–322, §343(2)–(4), redesignated par. (3) as (2) 
 
 Subsec. (b)(3), (4). Pub. L. 100–322, §343(2), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-1984—Subsec. (a)(2). Pub. L. 98–223 inserted “, and such sums as may be necessary for fiscal year 1985 and for each of the four succeeding fiscal years,” after “fiscal years”.
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–223 inserted “, and such sums as may be necessary for fiscal year 1985 and for each of the four succeeding fiscal years,” after “fiscal years”.
 
 #### Effective Date of 1998 Amendment
 

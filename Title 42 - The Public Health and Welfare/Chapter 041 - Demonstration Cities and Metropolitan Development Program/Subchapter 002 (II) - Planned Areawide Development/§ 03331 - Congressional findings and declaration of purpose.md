@@ -14,7 +14,7 @@ It further finds that present requirements for areawide planning and programing 
 
 #### Amendments
 
-1968—Pub. L. 90–448 extended scope from metropolitan planning and programing to areawide planning and programing.
+<b>1968</b>—Pub. L. 90–448 extended scope from metropolitan planning and programing to areawide planning and programing.
 
 #### Short Title
 

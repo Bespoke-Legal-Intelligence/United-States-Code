@@ -106,7 +106,7 @@ In general.—No State or political subdivision thereof and no interstate agency
 
 &emsp;&emsp;&emsp;(i) transportation by the motor carrier from one State, including intermediate stops, to a destination in another State; or
 
-&emsp;&emsp;&emsp;(ii) transportation by the motor carrier from one State, including intermediatestops in another State, to a destination in the original State.
+&emsp;&emsp;&emsp;(ii) transportation by the motor carrier from one State, including intermediate stops in another State, to a destination in the original State.
 
 &emsp;(2)
 
@@ -134,13 +134,13 @@ Provisions similar to those in this section were contained in section 11501 of t
 
 #### Amendments
 
-2005—Subsec. (c)(2)(B). Pub. L. 109–59, §4206(a), inserted “intrastate” before “transportation”.
+<b>2005</b>—Subsec. (c)(2)(B). Pub. L. 109–59, §4206(a), inserted “intrastate” before “transportation”.
 
 Subsec. (c)(5). Pub. L. 109–59, §4105(a), added par. (5).
 
-2002—Subsec. (d). Pub. L. 107–298 added subsec. (d).
+<b>2002</b>—Subsec. (d). Pub. L. 107–298 added subsec. (d).
 
-1998—Subsec. (a). Pub. L. 105–178 reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “No State or political subdivision thereof and no interstate agency or other political agency of 2 or more States shall enact or enforce any law, rule, regulation, standard, or other provision having the force and effect of law relating to scheduling of interstate or intrastate transportation (including discontinuance or reduction in the level of service) provided by motor carrier of passengers subject to jurisdiction under subchapter I of chapter 135 of this title on an interstate route or relating to the implementation of any change in the rates for such transportation or for any charter transportation except to the extent that notice, not in excess of 30 days, of changes in schedules may be required. This subsection shall not apply to intrastate commuter bus operations.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–178 reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “No State or political subdivision thereof and no interstate agency or other political agency of 2 or more States shall enact or enforce any law, rule, regulation, standard, or other provision having the force and effect of law relating to scheduling of interstate or intrastate transportation (including discontinuance or reduction in the level of service) provided by motor carrier of passengers subject to jurisdiction under subchapter I of chapter 135 of this title on an interstate route or relating to the implementation of any change in the rates for such transportation or for any charter transportation except to the extent that notice, not in excess of 30 days, of changes in schedules may be required. This subsection shall not apply to intrastate commuter bus operations.”
 
 Subsec. (a)(1). Pub. L. 105–277 substituted “operations, or to intrastate bus transportation of any nature in the State of Hawaii” for “operations” in concluding provisions.
 

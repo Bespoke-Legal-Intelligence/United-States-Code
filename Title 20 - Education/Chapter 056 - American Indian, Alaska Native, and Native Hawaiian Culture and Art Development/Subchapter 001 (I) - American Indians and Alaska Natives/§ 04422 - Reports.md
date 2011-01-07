@@ -16,9 +16,9 @@ The President of the Institute shall submit an annual report to the Congress and
 
 #### Amendments
 
-1992—Subsec. (b). Pub. L. 102–325 redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “Prior to October 1, 1988, the Board shall submit a budget proposal to the Secretary of the Interior. The Secretary shall submit that proposal to the Congress.”
+<b>1992</b>—Subsec. (b). Pub. L. 102–325 redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “Prior to October 1, 1988, the Board shall submit a budget proposal to the Secretary of the Interior. The Secretary shall submit that proposal to the Congress.”
 
-1988—Subsec. (b)(1). Pub. L. 100–297, §5406(f)(1), substituted “Prior to October 1, 1988” for “During the 2-year period beginning on the date referred to in section 4421(f) of this title”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–297, §5406(f)(1), substituted “Prior to October 1, 1988” for “During the 2-year period beginning on the date referred to in section 4421(f) of this title”.
 
 Subsec. (b)(2). Pub. L. 100–297, §5406(f)(2), substituted “September 30, 1988” for “the period described in paragraph (1)”.
 

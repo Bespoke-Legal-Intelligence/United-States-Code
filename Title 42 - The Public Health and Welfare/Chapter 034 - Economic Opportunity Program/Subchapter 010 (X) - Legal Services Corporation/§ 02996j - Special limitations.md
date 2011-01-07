@@ -10,7 +10,7 @@ The Corporation shall prescribe procedures to insure that—
 
 #### Amendments
 
-1977—Par. (2). Pub. L. 95–222 inserted provisions relating to function and appointment of an independent hearing examiner, and the time for any hearings.
+<b>1977</b>—Par. (2). Pub. L. 95–222 inserted provisions relating to function and appointment of an independent hearing examiner, and the time for any hearings.
 
 #### Effective Date of 1977 Amendment
 

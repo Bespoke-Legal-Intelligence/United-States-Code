@@ -28,7 +28,7 @@ In this part:
 
 &emsp;The term “student with an intellectual disability” means a student—
 
-&emsp;&emsp;(A) with mental retardation or a cognitive impairment, characterized by significant limitations in—
+&emsp;&emsp;(A) with a cognitive impairment, characterized by significant limitations in—
 
 &emsp;&emsp;&emsp;(i) intellectual and cognitive functioning; and
 
@@ -36,11 +36,11 @@ In this part:
 
 &emsp;&emsp;(B) who is currently, or was formerly, eligible for a free appropriate public education under the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\].
 
-(Pub. L. 89–329, title VII, §760, as added Pub. L. 110–315, title VII, §709(2), Aug. 14, 2008, 122 Stat. 3361; amended Pub. L. 111–39, title VII, §701(4), July 1, 2009, 123 Stat. 1954.)
+(Pub. L. 89–329, title VII, §760, as added Pub. L. 110–315, title VII, §709(2), Aug. 14, 2008, 122 Stat. 3361; amended Pub. L. 111–39, title VII, §701(4), July 1, 2009, 123 Stat. 1954; Pub. L. 111–256, §2(a), Oct. 5, 2010, 124 Stat. 2643.)
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in par. (2)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in par. (2)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally tochapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Prior Provisions
 
@@ -48,9 +48,15 @@ A prior section 1140, Pub. L. 89–329, title VII, §761, as added Pub. L. 105�
 
 #### Amendments
 
-2009—Par. (1). Pub. L. 111–39 added par. (1) and struck out former par. (1) which contained provisions substantially similar to new subpars. (A) to (D), defining “comprehensive transition and postsecondary program for students with intellectual disabilities”.
+<b>2010</b>—Par. (2)(A). Pub. L. 111–256 struck out “mental retardation or” before “a cognitive impairment”.
+
+<b>2009</b>—Par. (1). Pub. L. 111–39 added par. (1) and struck out former par. (1) which contained provisions substantially similar to new subpars. (A) to (D), defining “comprehensive transition and postsecondary program for students with intellectual disabilities”.
 
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+
+#### Definitions
+
+For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of this title.
 

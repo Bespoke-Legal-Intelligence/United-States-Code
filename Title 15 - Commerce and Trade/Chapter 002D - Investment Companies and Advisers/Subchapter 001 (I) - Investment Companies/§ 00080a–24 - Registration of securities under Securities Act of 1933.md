@@ -60,13 +60,13 @@ In addition to any prospectus permitted or required by section 10(a) of the Secu
 
 #### References in Text
 
-The Securities Act of 1933, referred to in subsecs. (a), (c), and (e), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsecs. (a), (c), and (e), is act May 27, 1933, ch. 38, title I, 48 Stat.74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 For the effective date of this subchapter, referred to in subsec. (c), see section 80a–52 of this title.
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–290, §203(a), substituted “For” for “(3) For”, struck out “pursuant to this subsection or otherwise” before “shall be deemed the effective date of the registration statement”, and struck out pars. (1) and (2) which read as follows:
+<b>1996</b>—Subsec. (e). Pub. L. 104–290, §203(a), substituted “For” for “(3) For”, struck out “pursuant to this subsection or otherwise” before “shall be deemed the effective date of the registration statement”, and struck out pars. (1) and (2) which read as follows:
 
 “(1) A registration statement under the Securities Act of 1933 relating to a security issued by a face-amount certificate company or a redeemable security issued by an open-end management company or unit investment trust may be amended after its effective date so as to increase the securities specified therein as proposed to be offered. At the time of filing such amendment there shall be paid to the Commission a fee, calculated in the manner specified in section 6(b) of said Act, with respect to the additional securities therein proposed to be offered.
 
@@ -76,13 +76,13 @@ Subsec. (f). Pub. L. 104–290, §203(b), inserted heading and amended text gene
 
 Subsec. (g). Pub. L. 104–290, §204, added subsec. (g).
 
-1987—Subsec. (d). Pub. L. 100–181 struck out “, except a security sold or disposed of by the issuer or bona fide offered to the public prior to the effective date of this subchapter and with respect to a security so sold, disposed of, or offered, shall not apply to any new offering thereof on or after the effective date of this subchapter” at end of second sentence.
+<b>1987</b>—Subsec. (d). Pub. L. 100–181 struck out “, except a security sold or disposed of by the issuer or bona fide offered to the public prior to the effective date of this subchapter and with respect to a security so sold, disposed of, or offered, shall not apply to any new offering thereof on or after the effective date of this subchapter” at end of second sentence.
 
-1970—Subsec. (d). Pub. L. 91–547, §13(a), substituted “section 4(3) of the Securities Act of 1933” for “the third clause of section 4(1) of the Securities Act of 1933” and struck out the comma before “if any”.
+<b>1970</b>—Subsec. (d). Pub. L. 91–547, §13(a), substituted “section 4(3) of the Securities Act of 1933” for “the third clause of section 4(1) of the Securities Act of 1933” and struck out the comma before “if any”.
 
 Subsec. (f). Pub. L. 91–547, §13(b), added subsec. (f).
 
-1954—Subsec. (d). Act Aug. 10, 1954, §402, inserted provision making dealer's exemption contained in third clause of section 77d(1) of this title inapplicable to transactions in the securities of investment companies that are offered to the public on a continuous basis, subject to certain exceptions.
+<b>1954</b>—Subsec. (d). Act Aug. 10, 1954, §402, inserted provision making dealer's exemption contained in third clause of section 77d(1) of this title inapplicable to transactions in the securities of investment companies that are offered to the public on a continuous basis, subject to certain exceptions.
 
 Subsec. (e). Act Aug. 10, 1954, §403, added subsec. (e).
 

@@ -118,7 +118,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A qualified entity administering a demonstration program under this section mayprovide not more than $6,000 for each fiscal year in matching funds to the individual development account established by the qualified entity for an eligible participant.
+&emsp;&emsp;&emsp;A qualified entity administering a demonstration program under this section may provide not more than $6,000 for each fiscal year in matching funds to the individual development account established by the qualified entity for an eligible participant.
 
 #### (ii) Treatment of amount
 
@@ -180,7 +180,7 @@ In this section:
 
 #### (4) Approval
 
-&emsp;Not later than 1 year after the date of enactment of this section, in accordance with this section, the Secretary shall, on a competitive basis, approve such applications to conduct demonstration programs as the Secretary considers appropriate.
+&emsp;Not later than 1 year after the date of enactment of this section, in accordance with thissection, the Secretary shall, on a competitive basis, approve such applications to conduct demonstration programs as the Secretary considers appropriate.
 
 #### (5) Term of authority
 

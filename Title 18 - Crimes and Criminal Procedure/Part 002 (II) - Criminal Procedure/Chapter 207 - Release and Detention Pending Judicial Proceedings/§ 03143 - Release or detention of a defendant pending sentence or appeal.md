@@ -48,19 +48,19 @@ A prior section 3143, acts June 25, 1948, ch. 645, 62 Stat. 821; June 22, 1966, 
 
 #### Amendments
 
-1992—Subsec. (b)(1). Pub. L. 102–572 substituted “subparagraph (B)(iv) of this paragraph” for “paragraph (b)(2)(D)”.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–572 substituted “subparagraph (B)(iv) of this paragraph” for “paragraph (b)(2)(D)”.
 
-1990—Subsec. (a). Pub. L. 101–647, §902(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the judicial officer” for “The judicial officer”, and added par. (2).
+<b>1990</b>—Subsec. (a). Pub. L. 101–647, §902(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the judicial officer” for “The judicial officer”, and added par. (2).
 
 Subsec. (a)(1). Pub. L. 101–647, §1001(a), substituted “awaiting” for “waiting”.
 
 Subsec. (b). Pub. L. 101–647, §902(b), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the judicial officer” for “The judicial officer”, redesignated former pars. (1) and (2) as subpars. (A) and (B), redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (B), and added par. (2).
 
-1988—Subsec. (b). Pub. L. 100–690, §7091(2), inserted “, except that in the circumstance described in paragraph (b)(2)(D), the judicial officer shall order the detention terminated at the expiration of the likely reduced sentence” before period at end.
+<b>1988</b>—Subsec. (b). Pub. L. 100–690, §7091(2), inserted “, except that in the circumstance described in paragraph (b)(2)(D), the judicial officer shall order the detention terminated at the expiration of the likely reduced sentence” before period at end.
 
 Subsec. (b)(2). Pub. L. 100–690, §7091(1), added par. (2) and struck out former par. (2) which read as follows: “that the appeal is not for purpose of delay and raises a substantial question of law or fact likely to result in reversal, an order for a new trial, or a sentence that does not include a term of imprisonment.”
 
-1986—Subsec. (a). Pub. L. 99–646, §55(d)(1), (2), (4), substituted “under” for “pursuant to” and “such judicial officer” for “he” and struck out “the provisions of” after “in accordance with”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–646, §55(d)(1), (2), (4), substituted “under” for “pursuant to” and “such judicial officer” for “he” and struck out “the provisions of” after “in accordance with”.
 
 Subsec. (b). Pub. L. 99–646, §55(d)(1)–(4), in par. (1) substituted “under” for “pursuant to” and inserted “of this title” after “(c)”, and in concluding provision, substituted “such judicial officer” for “he”, struck out “the provisions of” after “in accordance with”, and inserted “of this title” after “(c)”.
 
@@ -72,7 +72,7 @@ Pub. L. 99–646, §55(a), (d)(2), (5), substituted “under section 3731” for
 
 Pub. L. 99–646, §51(b), provided that the amendment of subsec. (c) by section 223(f)(2) of Pub. L. 98–473 shall not take effect. See 1984 Amendment note below.
 
-1984—Subsec. (a). Pub. L. 98–473, §223(f)(1), inserted provisions relating to applicable guideline under section 994 of title 28.
+<b>1984</b>—Subsec. (a). Pub. L. 98–473, §223(f)(1), inserted provisions relating to applicable guideline under section 994 of title 28.
 
 Subsec. (c). Pub. L. 98–473, §223(f)(2), which would have added a final sentence requiring a judge to treat a defendant in a case in which an appeal had been taken by the United States pursuant to the provisions of section 3742 in accordance with the provisions of (1) subsection (a) if the person had been sentenced to a term of imprisonment; or (2) section 3142 if the person had not been sentenced to a term of imprisonment did not become effective pursuant to section 51(b) of Pub. L. 99–646. See 1986 Amendment note above.
 

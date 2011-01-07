@@ -68,7 +68,7 @@ Another section 831 of the Foreign Service Act of 1980 was enacted by Pub. L. 10
 
 #### Amendments
 
-1990—Subsec. (g). Pub. L. 101–246 added subsec. (g).
+<b>1990</b>—Subsec. (g). Pub. L. 101–246 added subsec. (g).
 
 #### Transfer of Functions
 

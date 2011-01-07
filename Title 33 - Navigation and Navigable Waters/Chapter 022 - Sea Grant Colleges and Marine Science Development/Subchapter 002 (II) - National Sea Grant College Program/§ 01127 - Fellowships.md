@@ -20,11 +20,11 @@ This subchapter, referred to in subsec. (a), was in the original “this Act” 
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–394, §8(1), substituted “Every 2 years,” for “Not later than 1 year after November 26, 2002, and every 2 years thereafter,”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–394, §8(1), substituted “Every 2 years,” for “Not later than 1 year after November 26, 2002, and every 2 years thereafter,”.
 
 Subsec. (c). Pub. L. 110–394, §8(2), added subsec. (c).
 
-2002—Subsec. (a). Pub. L. 107–299, §5(a), inserted at end “The Secretary shall strive to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection. Not later than 1 year after November 26, 2002, and every 2 years thereafter, the Secretary shall submit a report to the Congress describing the efforts by the Secretary to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection, and the results of such efforts.”
+<b>2002</b>—Subsec. (a). Pub. L. 107–299, §5(a), inserted at end “The Secretary shall strive to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection. Not later than 1 year after November 26, 2002, and every 2 years thereafter, the Secretary shall submit a report to the Congress describing the efforts by the Secretary to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection, and the results of such efforts.”
 
 Subsec. (c). Pub. L. 107–299, §5(b), struck out heading and text of subsec. (c). Text read as follows: “The Secretary shall establish and administer a program of postdoctoral fellowships to accelerate research in critical subject areas. The fellowship awards—
 
@@ -40,11 +40,11 @@ Subsec. (c). Pub. L. 107–299, §5(b), struck out heading and text of subsec. (
 
 &emsp;“(6) may be made to recipients of terminal professional degrees, as well as doctoral degree recipients.”
 
-1998—Pub. L. 105–160 substituted “Secretary” for “Under Secretary” in subsec. (a) in two places and in subsecs. (b) and (c).
+<b>1998</b>—Pub. L. 105–160 substituted “Secretary” for “Under Secretary” in subsec. (a) in two places and in subsecs. (b) and (c).
 
-1991—Subsec. (c)(5) to (7). Pub. L. 102–186 inserted “and” after semicolon at end of par. (5), redesignated par. (7) as (6), and struck out former par. (6) which read as follows: “may be made for any of the priority areas of research identified in the sea grant strategic research plan in effect under section 1125 of this title; and”.
+<b>1991</b>—Subsec. (c)(5) to (7). Pub. L. 102–186 inserted “and” after semicolon at end of par. (5), redesignatedpar. (7) as (6), and struck out former par. (6) which read as follows: “may be made for any of the priority areas of research identified in the sea grant strategic research plan in effect under section 1125 of this title; and”.
 
-1987—Subsec. (a). Pub. L. 100–220 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary shall support a sea grant fellowship program to provide educational and training assistance to qualified individuals at the undergraduate and graduate levels of education in fields related to ocean and coastal resources. Such fellowships shall be awarded pursuant to guidelines established by the Secretary. Except as provided in subsection (b) of this section, sea grant fellowships may only be awarded by sea grant colleges, sea grant regional consortia, institutions of higher education, and professional associations and institutes.”
+<b>1987</b>—Subsec. (a). Pub. L. 100–220 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary shall support a sea grant fellowship program to provide educational and training assistance to qualified individuals at the undergraduate and graduate levels of education in fields related to ocean and coastal resources. Such fellowships shall be awarded pursuant to guidelines established by the Secretary. Except as provided in subsection (b) of this section, sea grant fellowships may only be awarded by sea grant colleges, sea grant regional consortia, institutions of higher education, and professional associations and institutes.”
 
 Pub. L. 100–66, §3(1), substituted “Except as provided in subsection (b) of this section, sea” for “Sea”.
 

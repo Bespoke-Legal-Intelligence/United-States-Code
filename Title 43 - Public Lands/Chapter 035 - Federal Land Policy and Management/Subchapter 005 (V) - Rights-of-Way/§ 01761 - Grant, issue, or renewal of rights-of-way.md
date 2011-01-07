@@ -22,7 +22,7 @@ The Secretary, with respect to the public lands (including public lands, as defi
 
 (1) The Secretary concerned shall require, prior to granting, issuing, or renewing a right-of-way, that the applicant submit and disclose those plans, contracts, agreements, or other information reasonably related to the use, or intended use, of the right-of-way, including its effect on competition, which he deems necessary to a determination, in accordance with the provisions of this Act, as to whether a right-of-way shall be granted, issued, or renewed and the terms and conditions which should be included in the right-of-way.
 
-(2) If the applicant is a partnership, corporation, association, or other business entity, the Secretary concerned, prior to granting a right-to-way <sup>3</sup> pursuant to this subchapter, shall require the applicant to disclose the identity of the participants in the entity, when he deems it necessary to a determination, in accordance with the provisions of this subchapter, as to whether a right-of-way shall be granted, issued, or renewed and the terms and conditions which should be included in the right-of-way. Such disclosures shall include, where applicable: (A) the name and address of each partner; (B) the name and address of each shareholder owning 3 per centum or more of the shares, together with the number and percentage of any class of voting shares of the entity which such shareholder is authorized to vote; and (C) the name and address of each affiliate of the entity together with, in the case of an affiliate controlled by the entity, the number of shares and the percentage of any class of voting stock of that affiliate owned, directly or indirectly, by that entity, and, in the case of an affiliate which controls that entity, the number of shares and the percentage of any class of voting stock of that entity owned, directly or indirectly, by the affiliate.
+(2) If the applicant is a partnership, corporation, association, or other business entity, the Secretary concerned, prior to granting a right-to-way <sup>3</sup> pursuant to this subchapter, shall require the applicant to disclose the identity of the participants in the entity, when he deems it necessary to a determination, in accordance with the provisions of this subchapter, as to whether a right-of-way shall be granted, issued, or renewed and the terms and conditions which should be included in the right-of-way. Such disclosures shall include, where applicable: (A) the name and address of each partner; (B) the name and address of each shareholder owning 3 per centum or more of the shares, together with the number and percentage of any class of voting shares of the entity which such shareholder is authorized to vote; and (C) the name and address of each affiliate of the entity together with, in the case of an affiliate controlled by the entity, the number of shares and the percentage of any class of voting stock of that affiliate owned, directly or indirectly, by that entity, and, in the case of an affiliate which controls that entity, the number of shares and the percentage of anyclass of voting stock of that entity owned, directly or indirectly, by the affiliate.
 
 (3) The Secretary of Agriculture shall have the authority to administer all rights-of-way granted or issued under authority of previous Acts with respect to lands under the jurisdiction of the Secretary of Agriculture, including rights-of-way granted or issued pursuant to authority given to the Secretary of the Interior by such previous Acts.
 
@@ -68,19 +68,19 @@ With respect to any project or portion thereof that was licensed pursuant to, or
 
 #### References in Text
 
-The Federal Power Act, referred to in subsecs. (a)(4) and (d), is act June 20, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12\(§791a et seq.) of Title 16, Conservation. Part I of the Act is classified generally to subchapter I (§791a et seq.) of chapter 12 of Title 16. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
+The Federal Power Act, referred to in subsecs. (a)(4) and (d), is act June 20, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of Title 16, Conservation. Part I of the Act is classified generally to subchapter I (§791a et seq.) of chapter 12 of Title 16. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
 
 This Act, referred to in subsecs. (b)(1) and (c)(3)(C), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–486, §2401(1), inserted “(including public lands, as defined in section 1702(e) of this title, which are reserved from entry pursuant to section 24 of the Federal Power Act (16 U.S.C. 818))”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–486, §2401(1), inserted “(including public lands, as defined in section 1702(e) of this title, which are reserved from entry pursuant to section 24 of the Federal Power Act (16 U.S.C. 818))”.
 
 Subsec. (a)(4). Pub. L. 102–486, §2401(2), substituted “Federal Energy Regulatory Commission under the Federal Power Act, including part 1 thereof (41 Stat. 1063, 16 U.S.C. 791a–825r).” for “Federal Power Commission under the Federal Power Act of 1935 (49 Stat. 847; 16 U.S.C. 791)”. The substitution was made to reflect the probable intent of Congress, in the absence of closing quotations designating the provisions to be struck out.
 
 Subsec. (d). Pub. L. 102–486, §2401(3), added subsec. (d).
 
-1986—Subsec. (b)(3). Pub. L. 99–545, §1(c), added par. (3).
+<b>1986</b>—Subsec. (b)(3). Pub. L. 99–545, §1(c), added par. (3).
 
 Subsec. (c). Pub. L. 99–545, §1(b), added subsec. (c).
 

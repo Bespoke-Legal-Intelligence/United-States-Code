@@ -20,9 +20,9 @@ January 13, 1971, referred to in subsecs. (a) and (b), was in the original “th
 
 #### Amendments
 
-1976—Pub. L. 94–317 amended section generally, designating existing provisions as subsec. (a), striking out requirement of consultation with Secretary of Housing and Urban Development and provisions relating to prohibition of use of lead based paint in residential structures constructed or rehabilitated by Federal Government or with Federal assistance, and adding subsecs. (b) and (c).
+<b>1976</b>—Pub. L. 94–317 amended section generally, designating existing provisions as subsec. (a), striking out requirement of consultation with Secretary of Housing and Urban Development and provisions relating to prohibition of use of lead based paint in residential structures constructed or rehabilitated by Federal Government or with Federal assistance, and adding subsecs. (b) and (c).
 
-1973—Pub. L. 93–151 amended section generally, providing for consultation of the Secretaries, incorporating existing provisions as cl. (1), and adding cl. (2).
+<b>1973</b>—Pub. L. 93–151 amended section generally, providing for consultation of the Secretaries, incorporating existing provisions as cl. (1), and adding cl. (2).
 
 #### Change of Name
 

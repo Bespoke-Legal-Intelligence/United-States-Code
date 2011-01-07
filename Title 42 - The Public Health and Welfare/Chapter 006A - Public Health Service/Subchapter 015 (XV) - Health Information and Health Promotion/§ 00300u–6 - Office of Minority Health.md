@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is established an Office of Minority Health within the Office of Public Health and Science. There shall be in the Department of Health and Human Services a Deputy Assistant Secretary for Minority Health, who shall be the head of the Office of Minority Health. The Secretary, acting through such Deputy Assistant Secretary, shall carry out this section.
+There is established an Office of Minority Health. The Office of Minority Health as existing on March 23, 2010, shall be transferred to the Office of the Secretary in such manner that there is established in the Office of the Secretary, the Office of Minority Health, which shall be headed by the Deputy Assistant Secretary for Minority Health who shall report directly to the Secretary, and shall retain and strengthen authorities (as in existence on March 23, 2010) for the purpose of improving minority health and the quality of health care minorities receive, and eliminating racial and ethnic disparities. In carrying out this subsection, the Secretary, acting through the Deputy Assistant Secretary, shall award grants, contracts, enter into memoranda of understanding, cooperative, interagency, intra-agency and other agreements with public and nonprofit private entities, agencies, as well as Departmental and Cabinet agencies and organizations, and with organizations that are indigenous human resource providers in communities of color to assure improved health status of racial and ethnic minorities, and shall develop measures to evaluate the effectiveness of activities aimed at reducing health disparities and supporting the local community. Such measures shall evaluate community outreach activities, language services, workforce cultural competence, and other areas as determined by the Secretary.
 
 #### (b) Duties
 
@@ -98,7 +98,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (2) Process for making awards
 
-&emsp;The Deputy Assistant Secretary shall ensure that awards under paragraph (1) are made, tothe extent practical, only on a competitive basis, and that a grant is awarded for a proposal only if the proposal has been recommended for such an award through a process of peer review.
+&emsp;The Deputy Assistant Secretary shall ensure that awards under paragraph (1) are made, to the extent practical, only on a competitive basis, and that a grant is awarded for a proposal only if the proposal has been recommended for such an award through a process of peer review.
 
 #### (3) Evaluation and dissemination
 
@@ -122,13 +122,11 @@ For purposes of this section:
 
 &emsp;(2) The term “Hispanic” means individuals whose origin is Mexican, Puerto Rican, Cuban, Central or South American, or any other Spanish-speaking country.
 
-#### (h) Funding
+#### (h) Authorization of appropriations
 
-(1) <sup>2</sup>
+For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2011 through 2016.
 
-Authorization of appropriations.—For the purpose of carrying out this section, there are authorized to be appropriated $30,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.
-
-(July 1, 1944, ch. 373, title XVII, §1707, as added Pub. L. 101–527, §2, Nov. 6, 1990, 104 Stat. 2312; amended Pub. L. 101–557, title IV, §401(a)(1), Nov. 15, 1990, 104 Stat. 2770; Pub. L. 105–392, title II, §201(a), (c), Nov. 13, 1998, 112 Stat. 3582, 3585; Pub. L. 106–525, title IV, §403, title VI, §601, Nov. 22, 2000, 114 Stat. 2509, 2511.)
+(July 1, 1944, ch. 373, title XVII, §1707, as added Pub. L. 101–527, §2, Nov. 6, 1990, 104 Stat. 2312; amended Pub. L. 101–557, title IV, §401(a)(1), Nov. 15, 1990, 104 Stat. 2770; Pub. L. 105–392, title II, §201(a), (c), Nov. 13, 1998, 112 Stat. 3582, 3585; Pub. L. 106–525, title IV, §403, title VI, §601, Nov. 22, 2000, 114 Stat. 2509, 2511; Pub. L. 111–148, title X, §10334(a)(1), Mar. 23, 2010, 124 Stat. 971.)
 
 #### References in Text
 
@@ -144,7 +142,15 @@ A prior section 300u–6, act July 1, 1944, ch. 373, title XVII, §1707, as adde
 
 #### Amendments
 
-2000—Subsec. (b)(10). Pub. L. 106–525, §403(1), added par. (10).
+<b>2010</b>—Subsec. (a). Pub. L. 111–148, §10334(a)(1)(A), amended text of subsec. (a) generally. Prior to amendment, text read as follows: “There is established an Office of Minority Health within the Office of Public Health and Science. There shall be in the Department of Health and Human Services a Deputy Assistant Secretary for Minority Health, who shall be the head of the Office of Minority Health. The Secretary, acting through such Deputy Assistant Secretary, shall carry out this section.”
+
+Subsec. (h). Pub. L. 111–148, §10334(a)(1)(B), added subsec. (h) and struck out former subsec. (h). Prior to amendment, text of subsec. (h), which consisted only of a par. (1), read as follows:
+
+“(1)
+
+Authorization of appropriations.—For the purpose of carrying out this section, there are authorized to be appropriated $30,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.”
+
+<b>2000</b>—Subsec. (b)(10). Pub. L. 106–525, §403(1), added par. (10).
 
 Subsec. (c)(2). Pub. L. 106–525, §403(2), substituted “paragraphs (1) through (10)” for “paragraphs (1) through (9)”.
 
@@ -152,13 +158,13 @@ Subsec. (d)(1). Pub. L. 106–525, §403(3), amended heading and text of par. (1
 
 Subsec. (g)(1). Pub. L. 106–525, §601, substituted “Asian Americans;” for “Asian Americans and” and inserted “Native Hawaiians and other” before “Pacific Islanders;”.
 
-1998—Pub. L. 105–392, §201(c)(1), struck out “Establishment of” before “Office” in section catchline.
+<b>1998</b>—Pub. L. 105–392, §201(c)(1), struck out “Establishment of” before “Office” in section catchline.
 
 Subsec. (a). Pub. L. 105–392, §201(c)(2), substituted “Public Health and Science” for “the Assistant Secretary for Health”.
 
 Subsecs. (b) to (h). Pub. L. 105–392, §201(a), added subsecs. (b) to (h) and struck out former subsecs. (b) to (f), which related, respectively, to duties of Secretary, certain requirements regarding duties, grants and contracts regarding duties, reports, and funding.
 
-1990—Subsec. (b)(8). Pub. L. 101–557 added par. (8).
+<b>1990</b>—Subsec. (b)(8). Pub. L. 101–557 added par. (8).
 
 #### Change of Name
 
@@ -168,13 +174,21 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Effective Date of 1990 Amendment
 
-Section 401(a)(2) of Pub. L. 101–557 provided that: “The amendments made by paragraph (1) \[amendingthis section\] shall take effect on the date of the enactment of the Disadvantaged Minority Health Improvement Act of 1990 \[Nov. 6, 1990\].”
+Section 401(a)(2) of Pub. L. 101–557 provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of the Disadvantaged Minority Health Improvement Act of 1990 \[Nov. 6, 1990\].”
+
+#### Transfer of Functions
+
+Pub. L. 111–148, title X, §10334(a)(2), Mar. 23, 2010, 124 Stat. 971, provided that: “There are transferred to the Office of Minority Health in the office of the Secretary of Health and Human Services, all duties, responsibilities, authorities, accountabilities, functions, staff, funds, award mechanisms, and other entities under the authority of the Office of Minority Health of the Public Health Service as in effect on the date before the date of enactment of this Act \[Mar. 23, 2010\], which shall continue in effect according to the terms in effect on the date before such date of enactment, until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary, a court of competent jurisdiction, or by operation of law.”
 
 #### Termination of Advisory Committees
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+
+#### Reports
+
+Pub. L. 111–148, title X, §10334(a)(3), Mar. 23, 2010, 124 Stat. 972, provided that: “Not later than 1 year after the date of enactment of this section \[Mar. 23, 2010\], and biennially thereafter, the Secretary of Health and Human Services shall prepare and submit to the appropriate committees of Congress a report describing the activities carried out under section 1707 of the Public Health Service Act \[42 U.S.C. 300u–6\] (as amended by this subsection) during the period for which the report is being prepared. Not later than 1 year after the date of enactment of this section, and biennially thereafter, the heads of each of the agencies of the Department of Health and Human Services shall submit to the Deputy Assistant Secretary for Minority Health a report summarizing the minority health activities of each of the respective agencies.”
 
 #### Congressional Findings
 
@@ -209,6 +223,4 @@ Section 1(b) of Pub. L. 101–527 provided that: “The Congress finds that—
 &emsp;“(14) the Office of Minority Health, created in 1985 by the Secretary of Health and Human Services, should be authorized pursuant to statute and should receive increased funding to support efforts to improve the health of individuals from disadvantaged backgrounds, including minorities, including the implementation of the recommendations made by the Secretary's Task Force on Black and Minority Health.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

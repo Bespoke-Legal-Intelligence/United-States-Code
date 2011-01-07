@@ -8,7 +8,7 @@
 
 #### (2) Sanctions on other countries
 
-&emsp;The Congress further urges the President to take immediate steps to apply the sanctionsdescribed in section 1704(b)(1) of that Act \[22 U.S.C. 6003(b)(1)\] against countries assisting Cuba.
+&emsp;The Congress further urges the President to take immediate steps to apply the sanctions described in section 1704(b)(1) of that Act \[22 U.S.C. 6003(b)(1)\] against countries assisting Cuba.
 
 #### (b) Diplomatic efforts
 
@@ -34,7 +34,7 @@ The economic embargo of Cuba, as in effect on March 1, 1996, including all restr
 
 #### References in Text
 
-The Cuban Democracy Act of 1992, referred to in subsec. (a), is title XVII of div. A of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2575, which is classified principally to chapter 69 (§6001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6001 of this title and Tables.
+The Cuban Democracy Act of 1992, referred to in subsec. (a), is title XVII of div. A of Pub. L. 102–484, Oct.23, 1992, 106 Stat. 2575, which is classified principally to chapter 69 (§6001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6001 of this title and Tables.
 
 #### Codification
 

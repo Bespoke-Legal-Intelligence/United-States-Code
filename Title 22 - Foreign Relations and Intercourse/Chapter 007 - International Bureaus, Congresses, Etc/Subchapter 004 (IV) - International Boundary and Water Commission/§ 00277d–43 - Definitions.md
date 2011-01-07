@@ -8,7 +8,7 @@ In sections 277d–43 to 277d–46 of this title, the following definitions appl
 
 #### (2) Commission
 
-&emsp;The term “Commission” means the United States section of the International Boundaryand Water Commission, United States and Mexico.
+&emsp;The term “Commission” means the United States section of the International Boundary and Water Commission, United States and Mexico.
 
 #### (3) IWTP
 
@@ -44,5 +44,5 @@ Pub. L. 106–457, title VIII, §801, Nov. 7, 2000, 114 Stat. 1977, provided tha
 
 #### Purpose
 
-Pub. L. 106–457, title VIII, §802, Nov. 7, 2000, 114 Stat. 1977, provided that: “The purpose of this title \[see Short Title note above\] is to authorize the United States to take actions to address comprehensively the treatment of sewage emanating from the Tijuana River area, Mexico, that flows untreated or partially treated into the United States causing significant adverse public health and environmental impacts.”
+Pub. L. 106–457, title VIII, §802, Nov. 7, 2000, 114 Stat. 1977, provided that: “The purpose of this title \[see Short Title note above\] is to authorize the United States to take actions to address comprehensively the treatment of sewage emanating from the Tijuana River area, Mexico, that flows untreated or partially treatedinto the United States causing significant adverse public health and environmental impacts.”
 

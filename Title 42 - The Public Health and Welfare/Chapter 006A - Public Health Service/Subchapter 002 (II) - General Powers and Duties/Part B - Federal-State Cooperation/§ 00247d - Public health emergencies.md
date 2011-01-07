@@ -30,13 +30,13 @@ Funds appropriated under this section shall be used to supplement and not suppla
 
 #### (d) Data submittal and reporting deadlines
 
-In any case in which the Secretary determines that, wholly or partially as a result of a publichealth emergency that has been determined pursuant to subsection (a) of this section, individuals or public or private entities are unable to comply with deadlines for the submission to the Secretary of data or reports required under any law administered by the Secretary, the Secretary may, notwithstanding any other provision of law, grant such extensions of such deadlines as the circumstances reasonably require, and may waive, wholly or partially, any sanctions otherwise applicable to such failure to comply. Before or promptly after granting such an extension or waiver, the Secretary shall notify the Congress of such action and publish in the Federal Register a notice of the extension or waiver.
+In any case in which the Secretary determines that, wholly or partially as a result of a public health emergency that has been determined pursuant to subsection (a) of this section, individuals or public or private entities are unable to comply with deadlines for the submission to the Secretary of data or reports required under any law administered by the Secretary, the Secretary may, notwithstanding any other provision of law, grant such extensions of such deadlines as the circumstances reasonably require, and may waive, wholly or partially, any sanctions otherwise applicable to such failure to comply. Before or promptly after granting such an extension or waiver, the Secretary shall notify the Congress of such action and publish in the Federal Register a notice of the extension or waiver.
 
 (July 1, 1944, ch. 373, title III, §319, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2315; amended Pub. L. 107–188, title I, §§141, 144(a), 158, June 12, 2002, 116 Stat. 626, 630, 633.)
 
 #### Prior Provisions
 
-A prior section 247d, act July 1, 1944, ch. 373, title III, §319, as added Pub. L. 98–49, July 13, 1983, 97 Stat. 245; amended Pub. L. 100–607, title II, §256(a), Nov. 4, 1988, 102 Stat. 3110; Pub. L. 102–321, title I, §163(b)(2), July 10, 1992, 106 Stat. 376; Pub. L. 102–531, title III, §312(d)(2), Oct. 27, 1992, 106 Stat. 3504, authorized the Secretary to take appropriate action relating to public health emergencies, prior to repeal by Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2315.
+A prior section 247d, act July 1, 1944, ch. 373, title III, §319, as added Pub. L. 98–49, July 13, 1983, 97 Stat. 245; amended Pub. L. 100–607, title II, §256(a), Nov. 4, 1988,102 Stat. 3110; Pub. L. 102–321, title I, §163(b)(2), July 10, 1992, 106 Stat. 376; Pub. L. 102–531, title III, §312(d)(2), Oct. 27, 1992, 106 Stat. 3504, authorized the Secretary to take appropriate action relating to public health emergencies, prior to repeal by Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2315.
 
 Another prior section 247d, act July 1, 1944, ch. 373, title III, §319, formerly §310, as added Sept. 25, 1962, Pub. L. 87–692, 76 Stat. 592, and amended and renumbered, which related to migrant health centers, was renumbered section 329 of act July 1, 1944, by Pub. L. 95–626, title I, §102(a), Nov. 10, 1978, 92 Stat. 3551, and transferred to section 254b of this title, prior to being omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2.
 
@@ -46,7 +46,7 @@ Committee on Commerce of House of Representatives changed to Committee on Energy
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–188, §158, substituted “grants, providing awards for expenses, and” for “grants and” in concluding provisions.
+<b>2002</b>—Subsec. (a). Pub. L. 107–188, §158, substituted “grants, providing awards for expenses, and” for “grants and” in concluding provisions.
 
 Pub. L. 107–188, §144(a), inserted at end of concluding provisions “Any such determination of a public health emergency terminates upon the Secretary declaring that the emergency no longer exists, or upon the expiration of the 90-day period beginning on the date on which the determination is made by the Secretary, whichever occurs first. Determinations that terminate under the preceding sentence may be renewed by the Secretary (on the basis of the same or additional facts), and the preceding sentence applies to each such renewal. Not later than 48 hours after making a determination under this subsection of a public health emergency (including a renewal), the Secretary shall submit to the Congress written notification of the determination.”
 

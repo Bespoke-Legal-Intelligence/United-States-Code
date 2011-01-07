@@ -14,7 +14,7 @@ Cargo ships of three hundred gross tons and upward but less than one thousand si
 
 #### Amendments
 
-1965—Pub. L. 89–121 limited the opening provisions to cargo ships of 300 gross tons and upwards.
+<b>1965</b>—Pub. L. 89–121 limited the opening provisions to cargo ships of 300 gross tons and upwards.
 
 Subsec. (a). Pub. L. 89–121 required the radiotelephone station to be so located that it is sheltered to the greatest possible extent from noise which might impair the correct reception of messages and signals.
 

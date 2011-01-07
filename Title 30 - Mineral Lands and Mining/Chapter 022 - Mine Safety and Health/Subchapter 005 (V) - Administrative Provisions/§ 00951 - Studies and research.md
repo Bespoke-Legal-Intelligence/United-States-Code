@@ -34,7 +34,7 @@ Activities under this section in the field of coal or other mine health shall be
 
 #### (c) Contracting with and grants to public and private agencies; availability of information; exceptions
 
-In carrying out the provisions for research, demonstrations, experiments, studies, training, and education under this section and sections 861(b) and 952(a) of this title, the Secretary of the Interior and the Secretary of Health and Human Services in coordination with the Secretary may enter into contracts with, and make grants to, public and private agencies and organizations and individuals. No research, demonstrations, or experiments shall be carried out, contracted for, sponsored, cosponsored, or authorized under authority of this chapter, unless all information, uses, products, processes, patents, and other developments resulting from such research, demonstrations, or experiments will (with such exception and limitation, if any, as the Secretary of the Interior or the Secretary of Health and Human Services in coordination with the Secretary may find to be necessary in the public interest) be available to the general public.
+In carrying out the provisions for research, demonstrations, experiments, studies, training, and education under this section and sections 861(b) and 952(a) of this title, the Secretary of the Interior and the Secretary of Health and Human Services in coordination with the Secretary may enter into contracts with, and make grants to, public and private agencies and organizations and individuals. No research, demonstrations, or experiments shall be carried out,contracted for, sponsored, cosponsored, or authorized under authority of this chapter, unless all information, uses, products, processes, patents, and other developments resulting from such research, demonstrations, or experiments will (with such exception and limitation, if any, as the Secretary of the Interior or the Secretary of Health and Human Services in coordination with the Secretary may find to be necessary in the public interest) be available to the general public.
 
 #### (d) Prevention of diseases affecting persons working with mine products
 
@@ -62,7 +62,7 @@ The Occupational Safety and Health Act of 1970, referred to in subsec. (b), is P
 
 #### Amendments
 
-1977—Subsec. (a). Pub. L. 95–164, §303(a)(1), (2), (6), substituted “The Secretary of the Interior and” for “The Secretary and” in provisions preceding par. (1), inserted references to mines and mining other than coal mines and coal mining in pars. (1), (2), (3), (4), and (9), added par. (11), and redesignated former par. (11) as (12).
+<b>1977</b>—Subsec. (a). Pub. L. 95–164, §303(a)(1), (2), (6), substituted “The Secretary of the Interior and” for “The Secretary and” in provisions preceding par. (1), inserted references to mines and mining other than coal mines and coal mining in pars. (1), (2), (3), (4), and (9), added par. (11), and redesignated former par. (11) as (12).
 
 Subsec. (b). Pub. L. 95–164, §303(a)(1), (3), inserted references to mines other than coal mines, inserted “through the National Institute for Occupational Safety and Health established under the Occupational Safety and Health Act of 1970” after “Secretary of Health, Education, and Welfare”, and substituted “carried out by the Secretary of the Interior in coordination with the Secretary” for “carried out by the Secretary”.
 

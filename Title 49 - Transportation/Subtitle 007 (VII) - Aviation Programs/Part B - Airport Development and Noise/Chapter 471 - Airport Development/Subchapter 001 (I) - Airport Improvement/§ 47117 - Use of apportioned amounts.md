@@ -64,7 +64,7 @@ Discretionary Use of Apportionments.—
 
 &emsp;(1)
 
-In general.—Subject to paragraph (2), if the Secretary finds that all or part of an amount of an apportionment under section 47114 is not required during a fiscal year to fund a grant for which the apportionment may be used, the Secretary may use during such fiscal year the amount not so required to make grants for any purpose for which grants may be made under section 48103. The finding may be based on the notifications that the Secretary receives under section 47105(f) or on other information received from airport sponsors.
+In general.—Subject to paragraph (2), if the Secretary finds that all or part of an amount of an apportionment under section 47114 is not required during a fiscal year to fund a grant for which the apportionment may be used, the Secretary may use during such fiscal year the amount not so required to make grants for any purpose for which grants may be made under section 48103. The finding may be based on the notifications that theSecretary receives under section 47105(f) or on other information received from airport sponsors.
 
 &emsp;(2)
 
@@ -186,7 +186,7 @@ In subsection (e)(1), the words “The Secretary shall use . . . (A) . . . f
 
 In subsection (e)(2), the words “for each fiscal year” are omitted as surplus.
 
-In subsection (e)(3), the words “an amount required to be used for grants under paragraph (1) of this subsection cannot be used” are substituted for “he will not be able to distribute the amount of funds required to be distributed under paragraph (1), (2), (3), or (4) of this subsection” for consistency. The words “submitted in compliance with this chapter” are omitted as surplus. The words “cannot be used” are substituted for “will not be distributed” for consistency. The words “forwhich amounts are” are added for clarity and consistency in this chapter.
+In subsection (e)(3), the words “an amount required to be used for grants under paragraph (1) of this subsection cannot be used” are substituted for “he will not be able to distribute the amount of funds required to be distributed under paragraph (1), (2), (3), or (4) of this subsection” for consistency. The words “submitted in compliance with this chapter” are omitted as surplus. The words “cannot be used” are substituted for “will not be distributed” for consistency. The words “for which amounts are” are added for clarity and consistency in this chapter.
 
 Subsection (f) is substituted for 49 App.:2206(b)(5)(D) for clarity and consistency in the revised title.
 
@@ -226,13 +226,13 @@ The Clean Air Act, referred to in subsec. (e)(1)(A), is act July 14, 1955, ch. 3
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–176, §150, substituted “nonhub airport or any airport that is not a commercial service airport” for “primary airport that had less than .05 percent of the total boardings in the United States in the preceding calendar year”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–176, §150, substituted “nonhub airport or any airport that is not a commercial service airport” for “primary airport that had less than .05 percent of the total boardings in the United States in the preceding calendar year”.
 
 Subsec. (c)(2). Pub. L. 108–176, §149(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A sponsor of a primary airport may make an agreement with the Secretary of Transportation waiving any part of the amount apportioned for the airport under section 47114(c)(1) of this title if the Secretary makes the waived amount available for a grant for another public-use airport in the same State or geographical area as the primary airport.”
 
 Subsec. (e)(1)(A). Pub. L. 108–176, §151, substituted “At least 35 percent” for “At least 34 percent”, “section 47505(a)(2),” for “section 47505(a)(2) of this title and”, “, for noise mitigation projects approved in an environmental record of decision for an airport development project under this title, for compatible land use planning and projects carried out by State and local governments under section 47141, and for airport development described in section 47102(3)(F), 47102(3)(K), or 47102(3)(L) to comply with the Clean Air Act (42 U.S.C. 7401 et seq.).” for “of this title.”, and “35 percent requirement” for “34 percent requirement”.
 
-2000—Subsec. (e)(1)(A). Pub. L. 106–181, §104(e), substituted “34 percent” for “31 percent” in two places.
+<b>2000</b>—Subsec. (e)(1)(A). Pub. L. 106–181, §104(e), substituted “34 percent” for “31 percent” in two places.
 
 Subsec. (e)(1)(C). Pub. L. 106–181, §104(f), added subpar. (C).
 
@@ -254,17 +254,17 @@ Pub. L. 106–181, §104(g), redesignated subsec. (g) as (f) and struck out head
 
 Subsecs. (g), (h). Pub. L. 106–181, §104(g), redesignated subsecs. (g) and (h) as (f) and (g), respectively.
 
-1999—Subsec. (e)(1)(B). Pub. L. 106–31 struck out “for each of fiscal years 1997 and 1998” after “4 percent”.
+<b>1999</b>—Subsec. (e)(1)(B). Pub. L. 106–31 struck out “for each of fiscal years 1997 and 1998” after “4 percent”.
 
 Pub. L. 106–6 made amendment identical to that made by Pub. L. 105–102, §3(c)(2). See 1997 Amendment note below.
 
-1997—Subsec. (e)(1)(A). Pub. L. 105–102, §3(c)(1)(B), added Pub. L. 104–264, §123(d). See 1996 Amendment note below.
+<b>1997</b>—Subsec. (e)(1)(A). Pub. L. 105–102, §3(c)(1)(B), added Pub. L. 104–264, §123(d). See 1996 Amendment note below.
 
 Subsec. (e)(1)(B). Pub. L. 105–102, §3(c)(2), repealed Pub. L. 104–264, §124(d). See 1996 Amendment note below.
 
 Pub. L. 105–102, §3(c)(1)(A), amended Pub. L. 104–264, §123(b)(6). See 1996 Amendment note below.
 
-1996—Subsec. (b). Pub. L. 104–264, §123(a), inserted “or the 3 fiscal years immediately following that year in the case of a primary airport that had less than .05 percent of the total boardings in the United States in the preceding calendar year” before period at end of first sentence.
+<b>1996</b>—Subsec. (b). Pub. L. 104–264, §123(a), inserted “or the 3 fiscal years immediately following that year in the case of a primary airport that had less than .05 percent of the total boardings in the United States in the preceding calendar year” before period at end of first sentence.
 
 Subsec. (e)(1). Pub. L. 104–264, §123(b)(1), substituted “available to the discretionary fund under section 47115” for “made available under section 48103” in introductory provisions.
 
@@ -276,7 +276,7 @@ Pub. L. 104–264, §123(b)(2), (3), redesignated subpar. (B) as (A) and struck 
 
 Subsec. (e)(1)(B). Pub. L. 104–287, §5(82)(A), which directed the amendment of subpar. (B) by substituting “47504(c)” for “47504(c)(1)”, could not be executed because “47504(c)(1)” did not appear in text of subpar. (B) subsequent to amendment by Pub. L. 104–264. See below.
 
-Pub. L. 104–264, §124(d), which directed the amendment of subpar. (B) by substituting “1996, 1997, and1998” for “and 1996,”, was repealed by Pub. L. 105–102, §3(c)(2).
+Pub. L. 104–264, §124(d), which directed the amendment of subpar. (B) by substituting “1996, 1997, and 1998” for “and 1996,”, was repealed by Pub. L. 105–102, §3(c)(2).
 
 Pub. L. 104–264, §123(b)(6), as amended by Pub. L. 105–102, §3(c)(1)(A), substituted “at least 4 percent for each of fiscal years 1997 and 1998” for “at least 2.25 percent for the fiscal year ending September 30, 1993, and at least 2.5 percent for each of the fiscal years ending September 30, 1994, 1995, and 1996,”.
 
@@ -298,7 +298,7 @@ Subsec. (e)(2), (3). Pub. L. 104–264, §123(c), redesignated par. (3) as (2) a
 
 Subsec. (g)(1). Pub. L. 104–287, §5(82)(B), substituted “47105(f)” for “47105(e)”.
 
-1994—Subsec. (e)(1)(A). Pub. L. 103–429, §6(68)(A), substituted “5 percent” for “10 percent”.
+<b>1994</b>—Subsec. (e)(1)(A). Pub. L. 103–429, §6(68)(A), substituted “5 percent” for “10 percent”.
 
 Subsec. (e)(1)(C). Pub. L. 103–429, §6(68)(B), substituted “1.5 percent” for “2.5 percent” in introductory provisions.
 
@@ -327,6 +327,10 @@ Amendment by Pub. L. 105–102 effective as if included in the provisions of the
 Section 8(2) of Pub. L. 104–287, as amended by Pub. L. 105–102, §3(d)(2)(B), Nov. 20, 1997, 111 Stat. 2215, provided that: “The amendments made by section 5(81)(B), (82)(A), and (83)(A) \[amending this section and sections 47115 and 47118 of this title\] shall take effect on September 30, 1998.”
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
+#### Deemed References to Chapters 509 and 511 of Title 51
+
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

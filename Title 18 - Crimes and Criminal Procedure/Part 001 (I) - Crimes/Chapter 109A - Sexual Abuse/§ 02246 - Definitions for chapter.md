@@ -28,7 +28,7 @@ As used in this chapter—
 
 &emsp;(6) the term “State” means a State of the United States, the District of Columbia, and any commonwealth, possession, or territory of the United States.
 
-(Added Pub. L. 99–646, §87(b), Nov. 10, 1986, 100 Stat. 3622, §2245, and Pub. L. 99–654, §2, Nov. 14,1986, 100 Stat. 3662, §2245; renumbered §2246 and amended Pub. L. 103–322, title IV, §40502, title VI, §60010(a)(1), Sept. 13, 1994, 108 Stat. 1945, 1972; Pub. L. 105–314, title III, §301(c), Oct. 30, 1998, 112 Stat. 2979.)
+(Added Pub. L. 99–646, §87(b), Nov. 10, 1986, 100 Stat. 3622, §2245, and Pub. L. 99–654, §2, Nov. 14, 1986, 100 Stat. 3662, §2245; renumbered §2246 and amended Pub. L. 103–322, title IV, §40502, title VI, §60010(a)(1), Sept. 13, 1994, 108 Stat. 1945, 1972; Pub. L. 105–314, title III, §301(c), Oct. 30, 1998, 112 Stat. 2979.)
 
 #### Codification
 
@@ -36,9 +36,9 @@ Pub. L. 99–646 and Pub. L. 99–654 added identical sections.
 
 #### Amendments
 
-1998—Par. (6). Pub. L. 105–314 added par. (6).
+<b>1998</b>—Par. (6). Pub. L. 105–314 added par. (6).
 
-1994—Pub. L. 103–322, §60010(a)(1), renumbered section 2245 of this title as this section.
+<b>1994</b>—Pub. L. 103–322, §60010(a)(1), renumbered section 2245 of this title as this section.
 
 Par. (2)(D). Pub. L. 103–322, §40502, added subpar. (D).
 

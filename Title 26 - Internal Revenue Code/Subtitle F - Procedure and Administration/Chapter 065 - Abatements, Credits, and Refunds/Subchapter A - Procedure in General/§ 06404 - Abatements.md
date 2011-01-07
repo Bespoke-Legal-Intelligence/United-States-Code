@@ -78,7 +78,7 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 &emsp;&emsp;This paragraph shall be applied separately with respect to each item or adjustment.
 
-> &emsp;If, after the return for a taxable year is filed, the taxpayer provides to the Secretary 1 or more signed written documents showing that the taxpayer owes an additional amount of taxfor the taxable year, clause (i) shall be applied by substituting the date the last of the documents was provided for the date on which the return is filed.
+> &emsp;If, after the return for a taxable year is filed, the taxpayer provides to the Secretary 1 or more signed written documents showing that the taxpayer owes an additional amount of tax for the taxable year, clause (i) shall be applied by substituting the date the last of the documents was provided for the date on which the return is filed.
 
 #### (2) Exceptions
 
@@ -92,7 +92,7 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 &emsp;&emsp;(D) any interest, penalty, addition to tax, or additional amount with respect to any gross misstatement;
 
-&emsp;&emsp;(E) any interest, penalty, addition to tax, or additional amount with respect to any reportable transaction with respect to which the requirement of section 6664(d)(2)(A) is not met and any listed transaction (as defined in 6707A(c)); or
+&emsp;&emsp;(E) any interest, penalty, addition to tax, or additional amount with respect to any reportable transaction with respect to which the requirement of section 6664(d)(2)(A) <sup>1</sup> is not met and any listed transaction (as defined in 6707A(c)); or
 
 &emsp;&emsp;(F) any criminal penalty.
 
@@ -108,7 +108,7 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 #### (1) In general
 
-&emsp;The Tax Court shall have jurisdiction over any action brought by a taxpayer who meets the requirements referred to in section 7430(c)(4)(A)(ii) to determine whether the Secretary's failure to abate interest under this section was an abuse of discretion, and may order an abatement, if such action is brought within 180 days after the date of the mailing of the Secretary's final determination not to abate such interest.
+&emsp;The Tax Court shall have jurisdiction over any action brought by a taxpayer who meets the requirements referred to in section 7430(c)(4)(A)(ii) to determine whether the Secretary's failure to abate interest under thissection was an abuse of discretion, and may order an abatement, if such action is brought within 180 days after the date of the mailing of the Secretary's final determination not to abate such interest.
 
 #### (2) Special rules
 
@@ -134,13 +134,15 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 The date of the enactment of this subsection, referred to in subsec. (f)(3), is the date of enactment of Pub. L. 100–647, which was approved Nov. 10, 1988.
 
+Section 6664(d)(2)(A), referred to in subsec. (g)(2)(E), was redesignated as section 6664(d)(3)(A) by Pub. L. 111–152, title I, §1409(c)(2)(A), Mar. 30, 2010, 124 Stat. 1069.
+
 #### Amendments
 
-2007—Subsec. (g)(1)(A), (3)(A). Pub. L. 110–28 substituted “36-month period” for “18-month period”.
+<b>2007</b>—Subsec. (g)(1)(A), (3)(A). Pub. L. 110–28 substituted “36-month period” for “18-month period”.
 
-2005—Subsec. (g)(1). Pub. L. 109–135 inserted at end “If, after the return for a taxable year is filed, the taxpayer provides to the Secretary 1 or more signed written documents showing that the taxpayer owes an additional amount of tax for the taxable year, clause (i) shall be applied by substituting the date the last of the documents was provided for the date on which the return is filed.”
+<b>2005</b>—Subsec. (g)(1). Pub. L. 109–135 inserted at end “If, after the return for a taxable year is filed, the taxpayer provides to the Secretary 1 or more signed written documents showing that the taxpayer owes an additional amount of tax for the taxable year, clause (i) shall be applied by substituting the date the last of the documents was provided for the date on which the return is filed.”
 
-2004—Subsec. (g)(1)(A). Pub. L. 108–357, §903(a), substituted “18-month period” for “1-year period (18-month period in the case of taxable years beginning before January 1, 2004)” in introductory provisions.
+<b>2004</b>—Subsec. (g)(1)(A). Pub. L. 108–357, §903(a), substituted “18-month period” for “1-year period (18-month period in the case of taxable years beginning before January 1, 2004)” in introductory provisions.
 
 Subsec. (g)(2)(D). Pub. L. 108–357, §903(b), added subpar. (D). Former subpar. (D) redesignated (E).
 
@@ -152,9 +154,9 @@ Subsec. (g)(2)(F). Pub. L. 108–357, §903(c), redesignated subpar. (E) as (F).
 
 Subsec. (g)(3)(A). Pub. L. 108–357, §903(a), substituted “18-month period” for “1-year period (18-month period in the case of taxable years beginning before January 1, 2004)”.
 
-2002—Subsecs. (h), (i). Pub. L. 107–134 added subsec. (i), redesignated former subsec. (i) as (h), and struck out former subsec. (h), which had authorized abatement of interest on underpayments by taxpayers in Presidentially declared disaster areas and defined the term “Presidentially declared disaster area” for purposes of this provision.
+<b>2002</b>—Subsecs. (h), (i). Pub. L. 107–134 added subsec. (i), redesignated former subsec. (i) as (h), and struck out former subsec. (h), which had authorized abatement of interest on underpayments by taxpayers in Presidentially declared disaster areas and defined the term “Presidentially declared disaster area” for purposes of this provision.
 
-1998—Subsec. (g). Pub. L. 105–206, §3305(a), added subsec. (g). Former subsec. (g) redesignated (h).
+<b>1998</b>—Subsec. (g). Pub. L. 105–206, §3305(a), added subsec. (g). Former subsec. (g) redesignated (h).
 
 Subsec. (h). Pub. L. 105–206, §3309(a), added subsec. (h). Former subsec. (h) redesignated (i).
 
@@ -164,7 +166,7 @@ Subsec. (h)(2). Pub. L. 105–277 inserted “Robert T. Stafford” before “Di
 
 Subsec. (i). Pub. L. 105–206, §3309(a), redesignated subsec. (h) as (i).
 
-1996—Subsec. (e). Pub. L. 104–168, §301(b), substituted “Abatement of interest attributable to unreasonable errors” for “Assessments of interest attributable to errors” in heading.
+<b>1996</b>—Subsec. (e). Pub. L. 104–168, §301(b), substituted “Abatement of interest attributable to unreasonable errors” for “Assessments of interest attributable to errors” in heading.
 
 Subsec. (e)(1)(A), (B). Pub. L. 104–168, §301(a), inserted “unreasonable” before “error” and substituted “in performing a ministerial or managerial act” for “in performing a ministerial act”.
 
@@ -172,15 +174,15 @@ Subsec. (g). Pub. L. 104–168, §302(a), added subsec. (g).
 
 Subsec. (g)(1). Pub. L. 104–168, §701(c)(3), substituted “section 7430(c)(4)(A)(ii)” for “section 7430(c)(4)(A)(iii)”.
 
-1988—Subsec. (e)(1)(B). Pub. L. 100–647, §1015(n), inserted “error or” before “delay” and “erroneous or” before “dilatory”.
+<b>1988</b>—Subsec. (e)(1)(B). Pub. L. 100–647, §1015(n), inserted “error or” before “delay” and “erroneous or” before “dilatory”.
 
 Subsec. (f). Pub. L. 100–647, §6229(a), added subsec. (f).
 
-1986—Subsec. (e). Pub. L. 99–514 added subsec. (e).
+<b>1986</b>—Subsec. (e). Pub. L. 99–514 added subsec. (e).
 
-1980—Subsec. (d). Pub. L. 96–589 substituted “section 6213(g)(2)(A)” for “section 6213(f)(2)(A)”.
+<b>1980</b>—Subsec. (d). Pub. L. 96–589 substituted “section 6213(g)(2)(A)” for “section 6213(f)(2)(A)”.
 
-1976—Subsecs. (a), (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a), (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (d). Pub. L. 94–455, §1212(a), added subsec. (d).
 
@@ -301,4 +303,6 @@ Amendment by Pub. L. 96–589 effective on Oct. 1, 1979, but not applicable to p
 #### Effective Date of 1976 Amendment
 
 Section 1212(b) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to returns filed for taxable years ending after the date of enactment of this Act \[Oct. 4, 1976\].”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

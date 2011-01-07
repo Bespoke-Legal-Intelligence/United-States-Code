@@ -10,5 +10,5 @@ It shall be the duty of the Secretary and Sergeant at Arms of the Senate to caus
 
 #### Report on Sales Discontinued
 
-Par. 122 of act May 29, 1928, provided for the discontinuance of reports on waste paper, etc., as follows: “122. Reports by the Clerk and Doorkeeper of the House and the Secretary and Sergeant at Arms of the Senate of the sales of waste paper and useless documents and condemned furniture, and so forth.”
+Par. 122 of act May 29, 1928, provided for the discontinuance of reports on waste paper, etc., as follows:“122. Reports by the Clerk and Doorkeeper of the House and the Secretary and Sergeant at Arms of the Senate of the sales of waste paper and useless documents and condemned furniture, and so forth.”
 

@@ -44,11 +44,11 @@ Senior Contracting Officials.—Before a person may be assigned to a critical ac
 
 #### Amendments
 
-2001—Subsec. (c)(1). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+<b>2001</b>—Subsec. (c)(1). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
-1993—Subsec. (c)(1). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
+<b>1993</b>—Subsec. (c)(1). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 
-1992—Subsec. (b)(3). Pub. L. 102–484 struck out “or deputy program manager” after “program manager” in subpars. (A) and (B), struck out “and” at end of subpar.\(A), substituted semicolon for period at end of subpar. (B), and added subpars. (C) and (D).
+<b>1992</b>—Subsec. (b)(3). Pub. L. 102–484 struck out “or deputy program manager” after “program manager” in subpars. (A) and (B), struck out “and” at end of subpar. (A), substituted semicolon for period at end of subpar. (B), and added subpars. (C) and (D).
 
 #### Fulfillment Standards for Mandatory Training
 

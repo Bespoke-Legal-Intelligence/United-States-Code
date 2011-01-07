@@ -34,7 +34,7 @@ schedule a
 
 (16) the price at which it is proposed that the security shall be offered to the public or the method by which such price is computed and any variation therefrom at which any portion of such security is proposed to be offered to any persons or classes of persons, other than the underwriters, naming them or specifying the class. A variation in price may be proposed prior to the date of the public offering of the security, but the Commission shall immediately be notified of such variation;
 
-(17) all commissions or discounts paid or to be paid, directly or indirectly, by the issuer to the underwriters in respect of the sale of the security to be offered. Commissions shall include all cash, securities, contracts, or anything else ofvalue, paid, to be set aside, disposed of, or understandings with or for the benefit of any other persons in which any underwriter is interested, made, in connection with the sale of such security. A commission paid or to be paid in connection with the sale of such security by a person in which the issuer has an interest or which is controlled or directed by, or under common control with, the issuer shall be deemed to have been paid by the issuer. Where any such commission is paid the amount of such commission paid to each underwriter shall be stated;
+(17) all commissions or discounts paid or to be paid, directly or indirectly, by the issuer to the underwriters in respect of the sale of the security to be offered. Commissions shall include all cash, securities, contracts, or anything else of value, paid, to be set aside, disposed of, or understandings with or for the benefit of any other persons in which any underwriter is interested, made, in connection with the sale of such security. A commission paid or to be paid in connection with the sale of such security by a person in which the issuer has an interest or which is controlled or directed by, or under common control with, the issuer shall be deemed to have been paid by the issuer. Where any such commission is paid the amount of such commission paid to each underwriter shall be stated;
 
 (18) the amount or estimated amounts, itemized in reasonable detail, of expenses, other than commissions specified in paragraph (17) of this schedule, incurred or borne by or for the account of the issuer in connection with the sale of the security to be offered or properly chargeable thereto, including legal, engineering, certification, authentication, and other charges;
 
@@ -44,7 +44,7 @@ schedule a
 
 (21) the names and addresses of the vendors and the purchase price of any property, or good will, acquired or to be acquired, not in the ordinary course of business, which is to be defrayed in whole or in part from the proceeds of the security to be offered, the amount of any commission payable to any person in connection with such acquisition, and the name or names of such person or persons, together with any expense incurred or to be incurred in connection with such acquisition, including the cost of borrowing money to finance such acquisition;
 
-(22) full particulars of the nature and extent of the interest, if any, of every director, principal executive officer, and of every stockholder holding more than 10 per centum of any class of stock or more than 10 per centum in the aggregate of the stock of the issuer, in any property acquired, not in the ordinary course of business of the issuer, within two years preceding the filing of the registration statement or proposed to be acquired at such date;
+(22) full particulars of the nature and extent of the interest, if any, of every director, principalexecutive officer, and of every stockholder holding more than 10 per centum of any class of stock or more than 10 per centum in the aggregate of the stock of the issuer, in any property acquired, not in the ordinary course of business of the issuer, within two years preceding the filing of the registration statement or proposed to be acquired at such date;
 
 (23) the names and addresses of counsel who have passed on the legality of the issue;
 
@@ -102,9 +102,9 @@ schedule b
 
 #### Amendments
 
-1998—Schedule A, par. (28). Pub. L. 105–353 substituted “identical” for “identic”.
+<b>1998</b>—Schedule A, par. (28). Pub. L. 105–353 substituted “identical” for “identic”.
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2,eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

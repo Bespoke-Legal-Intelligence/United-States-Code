@@ -8,13 +8,13 @@
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–368 substituted “The Secretary shall” for “Within 180 days after the date of the enactment of this section, the Secretary shall take appropriate steps to”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–368 substituted “The Secretary shall” for “Within 180 days after the date of the enactment of this section, the Secretary shall take appropriate steps to”.
 
-1991—Pub. L. 102–83 renumbered section 1830 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1830 of this title as this section.
 
-1989—Subsec. (a). Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
+<b>1989</b>—Subsec. (a). Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
-1986—Subsec. (a). Pub. L. 99–576 substituted “The” for “With the concurrence of the Attorney General of the United States, the” in second sentence.
+<b>1986</b>—Subsec. (a). Pub. L. 99–576 substituted “The” for “With the concurrence of the Attorney General of the United States, the” in second sentence.
 
 #### Effective Date
 

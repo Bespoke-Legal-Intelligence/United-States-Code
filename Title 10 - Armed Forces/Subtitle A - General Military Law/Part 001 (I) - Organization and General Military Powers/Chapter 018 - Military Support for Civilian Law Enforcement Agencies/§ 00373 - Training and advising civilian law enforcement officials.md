@@ -10,9 +10,9 @@ The Secretary of Defense may, in accordance with other applicable law, make Depa
 
 #### Amendments
 
-1988—Pub. L. 100–456 amended section generally, substituting provisions authorizing Secretary of Defense, in accordance with applicable law, to make Defense Department personnel available for training, etc., for former subsecs. (a) to (c) authorizing Secretary of Defense to assign members of Army, Navy, Air Force, and Marine Corps, etc., for training, etc., briefing sessions by Attorney General, and other functions of Attorney General and Administrator of General Services.
+<b>1988</b>—Pub. L. 100–456 amended section generally, substituting provisions authorizing Secretary of Defense, in accordance with applicable law, to make Defense Department personnel available for training, etc., for former subsecs. (a) to (c) authorizing Secretary of Defense to assign members of Army, Navy, Air Force, and Marine Corps, etc., for training, etc., briefing sessions by Attorney General, and other functions of Attorney General and Administrator of General Services.
 
-1985—Pub. L. 99–145 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1985</b>—Pub. L. 99–145 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 #### Effective Date of 1985 Amendment
 

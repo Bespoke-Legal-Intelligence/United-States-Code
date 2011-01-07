@@ -6,5 +6,5 @@ Each share of the original or any subsequent issue of stock of a China Trade Act
 
 #### Amendments
 
-1925—Act Feb. 26, 1925, substituted “not less than par value” for “par value only”.
+<b>1925</b>—Act Feb. 26, 1925, substituted “not less than par value” for “par value only”.
 

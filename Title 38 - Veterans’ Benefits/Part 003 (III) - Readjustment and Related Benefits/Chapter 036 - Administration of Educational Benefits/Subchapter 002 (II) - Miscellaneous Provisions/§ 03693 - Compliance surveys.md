@@ -8,11 +8,11 @@
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 1793 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1793 of this title as this section.
 
-1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1988—Pub. L. 100–322 amended section generally. Prior to amendment, section read as follows: “The Administrator shall conduct an annual compliance survey of each institution offering one or more courses approved for the enrollment of eligible veterans or persons where at least 300 veterans or persons are enrolled under provisions of this title or where the course does not lead to a standard college degree. Such compliance survey shall assure that the institution and approved courses are in compliance with all applicable provisions of chapters 31, 34, 35, and 36 of this title. The Administrator shall assign at least one education compliance specialist to work on compliance surveys in any year for each 40 compliance surveys required to be made under this section.”
+<b>1988</b>—Pub. L. 100–322 amended section generally. Prior to amendment, section read as follows: “The Administrator shall conduct an annual compliance survey of each institution offering one or more courses approved for the enrollment of eligible veterans or persons where at least 300 veterans or persons are enrolled under provisions of this title or where the course does not lead to a standard college degree. Such compliance survey shall assure that the institution and approved courses are in compliance with all applicable provisions of chapters 31, 34, 35, and 36 of this title. The Administrator shall assign at least one education compliance specialist to work on compliance surveys in any year for each 40 compliance surveys required to be made under this section.”
 
 #### Effective Date
 

@@ -16,7 +16,7 @@ Within 180 days after December 16, 1974, the Administrator shall list in the Fed
 
 (B) Within 270 days of any amendment of a regulation under section 300h of this title revising or adding any requirement respecting State underground injection control programs, each State listed under subsection (a) of this section shall submit (in such form and manner as the Administrator may require) a notice to the Administrator containing a showing satisfactory to him that the State underground injection control program meets the revised or added requirement.
 
-(2) Within ninety days after the State's application under paragraph (1)(A) or notice under paragraph (1)(B) and after reasonable opportunity for presentation of views, the Administrator shall by rule either approve, disapprove, or approve in part and disapprove in part, the State's underground injection control program.
+(2) Within ninety days after the State's application under paragraph (1)(A) or notice underparagraph (1)(B) and after reasonable opportunity for presentation of views, the Administrator shall by rule either approve, disapprove, or approve in part and disapprove in part, the State's underground injection control program.
 
 (3) If the Administrator approves the State's program under paragraph (2), the State shall have primary enforcement responsibility for underground water sources until such time as the Administrator determines, by rule, that such State no longer meets the requirements of clause (i) or (ii) of paragraph (1)(A) of this subsection.
 
@@ -30,7 +30,7 @@ If the Administrator disapproves a State's program (or part thereof) under subse
 
 &emsp;(2) any underground injection for the secondary or tertiary recovery of oil or natural gas,
 
-> unless such requirements are essential to assure that underground sources of drinking water will not be endangered by such injection. Such program shall apply in such State to the extentthat a program adopted by such State which the Administrator determines meets such requirements is not in effect. Before promulgating any regulation under this section, the Administrator shall provide opportunity for public hearing respecting such regulation.
+> unless such requirements are essential to assure that underground sources of drinking water will not be endangered by such injection. Such program shall apply in such State to the extent that a program adopted by such State which the Administrator determines meets such requirements is not in effect. Before promulgating any regulation under this section, the Administrator shall provide opportunity for public hearing respecting such regulation.
 
 #### (d) “Applicable underground injection control program” defined
 
@@ -44,9 +44,9 @@ An Indian Tribe may assume primary enforcement responsibility for underground in
 
 #### Amendments
 
-1986—Subsec. (c)(1). Pub. L. 99–339, §201(a), inserted “or natural gas storage operations, or” after “production”.
+<b>1986</b>—Subsec. (c)(1). Pub. L. 99–339, §201(a), inserted “or natural gas storage operations, or” after “production”.
 
 Subsec. (e). Pub. L. 99–339, §302(c), added subsec. (e).
 
-1977—Subsec. (b)(1)(A). Pub. L. 95–190 inserted provisions relating to extension of date for submission of applications by any State.
+<b>1977</b>—Subsec. (b)(1)(A). Pub. L. 95–190 inserted provisions relating to extension of date for submission of applications by any State.
 

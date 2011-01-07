@@ -14,7 +14,7 @@
 
 &emsp;(6) Oversee, periodically review, and make recommendations to heads of agencies on the administrative structure of agencies with respect to their financial management activities.
 
-&emsp;(7) Develop and maintain qualification standards for agency Chief Financial Officers and for agency Deputy Chief Financial Officers appointed under sections 901 and 903, respectively (excluding any officer designated or appointed under section 901(c)).
+&emsp;(7) Develop and maintain qualification standards for agency Chief Financial Officersand for agency Deputy Chief Financial Officers appointed under sections 901 and 903, respectively (excluding any officer designated or appointed under section 901(c)).
 
 &emsp;(8) Provide advice to agency heads with respect to the selection of agency Chief Financial Officers and Deputy Chief Financial Officers (excluding any officer designated or appointed under section 901(c)).
 
@@ -84,13 +84,13 @@ A prior section 503 was renumbered section 505 of this title.
 
 #### Amendments
 
-2002—Subsec. (b)(5) to (10). Pub. L. 107–347 added par. (5) and redesignated former pars. (5) to (9) as (6) to (10), respectively.
+<b>2002</b>—Subsec. (b)(5) to (10). Pub. L. 107–347 added par. (5) and redesignated former pars. (5) to (9) as (6) to (10), respectively.
 
-1999—Subsec. (a)(7). Pub. L. 106–58, §638(g)(1), substituted “respectively (excluding any officer designated or appointed under section 901(c)).” for “respectively.”
+<b>1999</b>—Subsec. (a)(7). Pub. L. 106–58, §638(g)(1), substituted “respectively (excluding any officer designated or appointed under section 901(c)).” for “respectively.”
 
 Subsec. (a)(8). Pub. L. 106–58, §638(g)(2), substituted “Officers (excluding any officer designated or appointed under section 901(c)).” for “Officers.”
 
-1994—Subsec. (b)(9). Pub. L. 103–272 substituted “Perform” for “perform”.
+<b>1994</b>—Subsec. (b)(9). Pub. L. 103–272 substituted “Perform” for “perform”.
 
 #### Effective Date of 2002 Amendment
 

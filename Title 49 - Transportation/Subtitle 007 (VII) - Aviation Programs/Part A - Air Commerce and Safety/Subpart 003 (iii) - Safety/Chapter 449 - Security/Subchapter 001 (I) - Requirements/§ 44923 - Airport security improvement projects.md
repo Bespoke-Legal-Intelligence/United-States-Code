@@ -42,7 +42,7 @@ Notice to congress.—The Under Secretary shall transmit to the Committees on Ap
 
 &emsp;(5)
 
-Limitations.—A letter of intent issued under this subsection is not an obligation of the Government under section 1501 of title 31, and the letter is not deemed to be an administrative commitment for financing. An obligation or administrative commitment may be made only as amounts are provided in authorization and appropriations laws.
+Limitations.—A letter of intent issued under this subsection is not an obligation of the Government under section 1501 of title 31,and the letter is not deemed to be an administrative commitment for financing. An obligation or administrative commitment may be made only as amounts are provided in authorization and appropriations laws.
 
 &emsp;(6)
 
@@ -86,7 +86,7 @@ Discretionary grants.—Of the amount made available under paragraph (1) for a f
 
 (i)
 
-Leveraged Funding.—For purposes of this section, a grant under subsection (a) to an airport sponsor to service an obligation issued byor on behalf of that sponsor to fund a project described in subsection (a) shall be considered to be a grant for that project.
+Leveraged Funding.—For purposes of this section, a grant under subsection (a) to an airport sponsor to service an obligation issued by or on behalf of that sponsor to fund a project described in subsection (a) shall be considered to be a grant for that project.
 
 (j)
 
@@ -108,7 +108,7 @@ The date of enactment of this section, referred to in subsec. (e)(2), is the dat
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–53, §1604(a)(1), substituted “shall make” for “may make” in introductory provisions.
+<b>2007</b>—Subsec. (a). Pub. L. 110–53, §1604(a)(1), substituted “shall make” for “may make” in introductory provisions.
 
 Subsec. (d)(1). Pub. L. 110–53, §1604(a)(2), substituted “shall issue” for “may issue”.
 
@@ -122,7 +122,7 @@ Subsec. (i)(1). Pub. L. 110–53, §1603(a), substituted “2007, and $450,000,0
 
 Subsec. (j). Pub. L. 110–53, §1604(a)(5), redesignated subsec. (i) as (j).
 
-2004—Subsec. (i)(1). Pub. L. 108–458 substituted “$400,000,000 for each of fiscal years 2005, 2006, and 2007” for “$250,000,000 for each of fiscal years 2004 through 2007”.
+<b>2004</b>—Subsec. (i)(1). Pub. L. 108–458 substituted “$400,000,000 for each of fiscal years 2005, 2006, and 2007” for “$250,000,000 for each of fiscal years 2004 through 2007”.
 
 #### Effective Date
 
@@ -138,7 +138,7 @@ In general.—The Administrator of the Transportation Security Administration sh
 
 “(2)
 
-Airports that have incurred eligible costs.—The schedule shall include airports that have incurred eligible costs associated with development of partial or completed in-line baggage systems before the date of enactment of this Act \[Aug. 3, 2007\] in reasonable anticipation of receiving a grant under section 44923 of title 49, United States Code, in reimbursement of those costs but that have not received such a grant.
+Airports that have incurred eligible costs.—The schedule shall include airports that have incurred eligible costs associated with development of partial or completed in-line baggage systems before the date of enactment of this Act \[Aug. 3, 2007\] in reasonable anticipation of receiving a grant under section 44923 oftitle 49, United States Code, in reimbursement of those costs but that have not received such a grant.
 
 “(3)
 

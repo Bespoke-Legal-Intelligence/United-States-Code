@@ -58,7 +58,7 @@
 
 (e) The authority of the head of the procuring activity to make findings and to authorize the award and performance of contracts under subsections (c) and (d) of this section may not be delegated.
 
-(f)(1) Within such deadlines as the Comptroller General prescribes, upon request each Federal agency shall provide to an interested party any document relevant to a protested procurement action (including the report required by subsection (b)(2) of this section) that would not give that party a competitive advantage and that the party is otherwise authorized by law to receive.
+(f)(1) Within such deadlines as the Comptroller General prescribes, upon request each Federalagency shall provide to an interested party any document relevant to a protested procurement action (including the report required by subsection (b)(2) of this section) that would not give that party a competitive advantage and that the party is otherwise authorized by law to receive.
 
 (2)(A) The Comptroller General may issue protective orders which establish terms, conditions, and restrictions for the provision of any document to a party under paragraph (1), that prohibit or restrict the disclosure by the party of information described in subparagraph (B) that is contained in such a document.
 
@@ -72,13 +72,13 @@
 
 #### Amendments
 
-2004—Subsec. (g). Pub. L. 108–375 added subsec. (g).
+<b>2004</b>—Subsec. (g). Pub. L. 108–375 added subsec. (g).
 
-1996—Subsec. (b)(2)(A). Pub. L. 104–106, §5501(1), substituted “30 days” for “35 days”.
+<b>1996</b>—Subsec. (b)(2)(A). Pub. L. 104–106, §5501(1), substituted “30 days” for “35 days”.
 
 Subsec. (b)(3). Pub. L. 104–106, §4321(d)(2), substituted “3554(a)(4)” for “3554(a)(3)”.
 
-1994—Subsec. (b)(1). Pub. L. 103–355, §1402(a)(1)(A), substituted “one day after” for “one working day of”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–355, §1402(a)(1)(A), substituted “one day after” for “one working day of”.
 
 Subsec. (b)(2)(A). Pub. L. 103–355, §1402(a)(1)(B)(i), substituted “35 days after” for “25 working days from”.
 
@@ -108,17 +108,17 @@ Amendment by Pub. L. 108–375 applicable to protests filed under this subchapte
 
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by section 4321(d)(2) of Pub. L. 104–106, see section 4401 ofPub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by section 4321(d)(2) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2302 of Title 10, Armed Forces.
 
 Amendment by section 5501(1) of Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, div. E, title LVII, Feb. 10, 1996, 110 Stat. 702.
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of Title 10, Armed Forces.
 
 #### Effective Date
 
-Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under section 251 of Title 41, Public Contracts.
+Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under section 2302 of Title 10, Armed Forces.
 
 #### Construction of 2004 Amendment
 

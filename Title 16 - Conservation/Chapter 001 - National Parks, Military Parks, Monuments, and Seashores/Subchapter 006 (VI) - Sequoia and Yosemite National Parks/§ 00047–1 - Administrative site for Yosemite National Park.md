@@ -22,7 +22,7 @@ Until further action by the Congress, the lands acquired by or transferred to th
 
 #### (f) Availability of funds
 
-Funds now or hereafter appropriated or otherwise available for operating and capital programs in the areas administered by the NationalPark Service, including funds for acquisition of land and interests in land, are made available to acquire land, interests in land, and appurtenances thereto, within the administrative site, and to further the purpose of this section.
+Funds now or hereafter appropriated or otherwise available for operating and capital programs in the areas administered by the National Park Service, including funds for acquisition of land and interests in land, are made available to acquire land, interests in land, and appurtenances thereto, within the administrative site, and to further the purpose of this section.
 
 (Pub. L. 85–922, §§1–6, Sept. 2, 1958, 72 Stat. 1772.)
 

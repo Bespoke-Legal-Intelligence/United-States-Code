@@ -12,9 +12,9 @@ For the purposes of this subchapter—
 
 #### Amendments
 
-2002—Par. (1). Pub. L. 107–135 inserted “services under sections 1782 and 1783 of this title,” after “of this title),”.
+<b>2002</b>—Par. (1). Pub. L. 107–135 inserted “services under sections 1782 and 1783 of this title,” after “of this title),”.
 
-1996—Pub. L. 104–262 added pars. (1) and (2), redesignated par. (4) as (3), and struck out former pars. (1) to (3) which read as follows:
+<b>1996</b>—Pub. L. 104–262 added pars. (1) and (2), redesignated par. (4) as (3), and struck out former pars. (1) to (3) which read as follows:
 
 “(1) The term ‘research center’ means an institution (or part of an institution), the primary function of which is research, training of specialists, and demonstrations and which, in connection therewith, provides specialized, high quality diagnostic and treatment services for inpatients and outpatients.
 
@@ -22,9 +22,9 @@ For the purposes of this subchapter—
 
 “(3) The term ‘health-care resource’ includes hospital care, medical services, and rehabilitative services, as those terms are defined in paragraphs (5), (6), and (8), respectively, of section 1701 of this title, any other health-care service, and any health-care support or administrative resource.”
 
-1993—Pars. (3), (4). Pub. L. 103–210 added par. (3) and redesignated former par. (3) as (4).
+<b>1993</b>—Pars. (3), (4). Pub. L. 103–210 added par. (3) and redesignated former par. (3) as (4).
 
-1991—Pub. L. 102–40 renumbered section 5052 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5052 of this title as this section.
 
 Pub. L. 102–54 amended section as in effect immediately before the enactment of Pub. L. 102–40 by redesignating pars. (a), (b), and (c) as pars. (1), (2), and (3), respectively, and by realigning the margins.
 

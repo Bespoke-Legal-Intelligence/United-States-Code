@@ -130,7 +130,7 @@
 
 (iv) Any alien who benefits from this subparagraph may adjust status in accordance with subsections (a) and (c) of section 1255 of this title as an alien having an approved petition for classification under subparagraph (A)(iii), (A)(iv), (B)(ii), or (B)(iii).
 
-(v) For purposes of this paragraph, an individual who is not less than 21 years of age, who qualified to file a petition under subparagraph (A)(iv) or (B)(iii) as of the day before the date on which the individual attained 21 years of age, and who did not file such a petition before such day, shall be treated as having filed a petition under such subparagraph as of such day if a petition is filed for the status described in such subparagraph before the individual attains 25 years of age and the individual shows that the abuse was at least one central reason for the filing delay. Clauses (i) through (iv) of this subparagraph shall apply to an individual described in this clause in the same manner as an individual filing a petition under subparagraph (A)(iv) or (B)(iii).
+(v) For purposes of this paragraph, an individual who is not less than 21 years of age, who qualified to file a petition under subparagraph (A)(iv) or (B)(iii) as of the day before the date on which the individual attained 21 years of age, and who did not file such a petition before such day, shall be treated as having filed a petition under such subparagraph as of such day if a petition is filed for the status described in such subparagraph before the individual attains 25 years of age and the individual shows that the abuse was at least one central reason for the filing delay. Clauses (i) through (iv) of this subparagraph shall apply to an individual described in this clause in the same manner as an individualfiling a petition under subparagraph (A)(iv) or (B)(iii).
 
 (E) Any alien desiring to be classified under section 1153(b)(1)(A) of this title, or any person on behalf of such an alien, may file a petition with the Attorney General for such classification.
 
@@ -178,7 +178,7 @@ After an investigation of the facts in each case, and after consultation with th
 
 #### (c) Limitation on orphan petitions approved for a single petitioner; prohibition against approval in cases of marriages entered into in order to evade immigration laws; restriction on future entry of aliens involved with marriage fraud
 
-Notwithstanding the provisions of subsection (b) of this section no petition shall be approved if (1) the alien has previously been accorded, or has sought to be accorded, an immediate relative or preference status as the spouse of a citizen of the United States or the spouse of an alien lawfully admitted for permanent residence, by reason of a marriage determined by the Attorney General to have been entered into for the purpose of evading the immigration laws, or (2) the Attorney General has determined thatthe alien has attempted or conspired to enter into a marriage for the purpose of evading the immigration laws.
+Notwithstanding the provisions of subsection (b) of this section no petition shall be approved if (1) the alien has previously been accorded, orhas sought to be accorded, an immediate relative or preference status as the spouse of a citizen of the United States or the spouse of an alien lawfully admitted for permanent residence, by reason of a marriage determined by the Attorney General to have been entered into for the purpose of evading the immigration laws, or (2) the Attorney General has determined that the alien has attempted or conspired to enter into a marriage for the purpose of evading the immigration laws.
 
 #### (d) Recommendation of valid home-study
 
@@ -214,7 +214,7 @@ Nothing in this section shall be construed to entitle an immigrant, in behalf of
 
 &emsp;(ii) provide that the sponsor agrees (I) in the case of an alien under eighteen years of age, to assume legal custody for the alien after the alien's departure to the United States and until the alien becomes eighteen years of age, in accordance with the laws of the State where the alien and the sponsor will reside, and (II) to furnish, during the five-year period beginning on the date of the alien's acquiring the status of an alien lawfully admitted for permanent residence, or during the period beginning on the date of the alien's acquiring the status of an alien lawfully admitted for permanent residence and ending on the date on which the alien becomes twenty-one years of age, whichever period is longer, such financial support as is necessary to maintain the family in the United States of which the alien is a member at a level equal to at least 125 per centum of the current official poverty line (as established by the Director of the Office of Management and Budget, under section 9902(2) of title 42 and as revised by the Secretary of Health and Human Services under the second and third sentences of such section) for a family of the same size as the size of the alien's family.
 
-(B) A guarantee of legal custody and financial responsibility described in subparagraph (A) may be enforced with respect to an alien against his sponsor in a civil suit brought by the Attorney General in the United States district court for the district in which the sponsor resides, except that a sponsor or his estate shall not be liable under such a guarantee if the sponsor dies or is adjudicated a bankrupt under title 11.
+(B) A guarantee of legal custody and financial responsibility described in subparagraph (A)may be enforced with respect to an alien against his sponsor in a civil suit brought by the Attorney General in the United States district court for the district in which the sponsor resides, except that a sponsor or his estate shall not be liable under such a guarantee if the sponsor dies or is adjudicated a bankrupt under title 11.
 
 #### (g) Restriction on petitions based on marriages entered while in exclusion or deportation proceedings
 
@@ -286,6 +286,8 @@ A petition under subsection (a)(1)(D) of this section for an individual whose ap
 
 #### References in Text
 
+This chapter, referred to in subsec. (a)(1)(A)(iii)(II)(aa)(BB), (B)(ii)(II)(aa)(BB), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+
 The Child Status Protection Act, referred to in subsec. (a)(1)(D)(iii), is Pub. L. 107–208, Aug. 6, 2002, 116 Stat. 927, which amended this section and sections 1151, 1153, 1157, and 1158 of this title and enacted provisions set out as notes under sections 1101 and 1151 of this title. For complete classification of this Act to the Code, see Short Title of 2002 Amendments note set out under section 1101 of this title and Tables.
 
 The Intercountry Adoption Act of 2000, referred to in subsec. (d)(2), is Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, which is classified principally to chapter 143 (§14901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14901 of Title 42 and Tables.
@@ -336,9 +338,9 @@ Subsec. (a)(1)(A)(v). Pub. L. 106–386, §1503(b)(3), added cl. (v).
 
 Subsec. (a)(1)(A)(vi). Pub. L. 106–386, §1507(a)(1), added cl. (vi).
 
-Subsec. (a)(1)(B)(ii). Pub. L. 106–386, §1503(c)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “An alien who is the spouse of an alien lawfully admitted for permanent residence, who is a person of good moral character, who is eligible for classification under section 1153(a)(2)(A) of this title, and who has resided in the United States with the alien's legal permanent resident spouse may file a petition with the Attorney General under this subparagraph for classification of the alien (and any child of the alien if such a child has not been classified under clause (iii)) under such section if the alien demonstrates to the Attorney General that the conditions described in subclauses (I) and (II) of subparagraph (A)(iii) are met with respect to the alien.”
+Subsec. (a)(1)(B)(ii). Pub. L. 106–386, §1503(c)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii)read as follows: “An alien who is the spouse of an alien lawfully admitted for permanent residence, who is a person of good moral character, who is eligible for classification under section 1153(a)(2)(A) of this title, and who has resided in the United States with the alien's legal permanent resident spouse may file a petition with the Attorney General under this subparagraph for classification of the alien (and any child of the alien if such a child has not been classified under clause (iii)) under such section if the alien demonstrates to the Attorney General that the conditions described in subclauses (I) and (II) of subparagraph (A)(iii) are met with respect to the alien.”
 
-Subsec. (a)(1)(B)(iii). Pub. L. 106–386, §1503(c)(2), amended cl. (iii) generally. Prior to amendment, cl.\(iii) read as follows: “An alien who is the child of an alien lawfully admitted for permanent residence, who is a person of good moral character, who is eligible for classification under section 1153(a)(2)(A) of this title, and who has resided in the United States with the alien's permanent resident alien parent may file a petition with the Attorney General under this subparagraph for classification of the alien under such section if the alien demonstrates to the Attorney General that—
+Subsec. (a)(1)(B)(iii). Pub. L. 106–386, §1503(c)(2), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “An alien who is the child of an alien lawfully admitted for permanent residence, who is a person of good moral character, who is eligible for classification under section 1153(a)(2)(A) of this title, and who has resided in the United States with the alien's permanent resident alien parent may file a petition with the Attorney General under this subparagraph for classification of the alien under such section if the alien demonstrates to the Attorney General that—
 
 &emsp;“(I) the alien is residing in the United States and during the period of residence with the permanent resident parent the alien has been battered by or has been the subject of extreme cruelty perpetrated by the alien's permanent resident parent; and
 
@@ -486,7 +488,7 @@ For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 8
 
 #### Construction of 2009 Amendment
 
-Pub. L. 111–83, title V, §568(d)(2), Oct. 28, 2009, 123 Stat. 2187, provided that: “Nothing in the amendment made by paragraph (1) \[amending this section\] may be construed to limit or waive any ground of removal, basis for denial of petition or application, or other criteria for adjudicating petitions or applications as otherwise provided under the immigration laws of the United States other than ineligibility based solely on the lack of a qualifying family relationship as specifically provided by such amendment.”
+Pub. L. 111–83, title V, §568(d)(2), Oct. 28, 2009, 123 Stat. 2187, provided that: “Nothing in the amendment made by paragraph (1) \[amending this section\] may be construed to limit or waive any ground of removal, basis for denial of petition or application, or other criteria for adjudicating petitions or applications as otherwise provided under the immigration laws of theUnited States other than ineligibility based solely on the lack of a qualifying family relationship as specifically provided by such amendment.”
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
@@ -494,7 +496,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Alien Sheepherders
 
-Act Sept. 3, 1954, ch. 1254, §§1–3, 68 Stat. 1145, provided for the importation of skilled alien sheepherders uponapproval by the Attorney General, certification to the Secretary of State by the Attorney General of names and addresses of sheepherders whose applications for importation were approved, and issuance of not more than 385 special nonquota immigrant visas. Provisions of said act expired on Sept. 3, 1955, by terms of section 1 thereof.
+Act Sept. 3, 1954, ch. 1254, §§1–3, 68 Stat. 1145, provided for the importation of skilled alien sheepherders upon approval by the Attorney General, certification to the Secretary of State by the Attorney General of names and addresses of sheepherders whose applications for importation were approved, and issuance of not more than 385 special nonquota immigrant visas. Provisions of said act expired on Sept. 3, 1955, by terms of section 1 thereof.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(II)”.</i>
 

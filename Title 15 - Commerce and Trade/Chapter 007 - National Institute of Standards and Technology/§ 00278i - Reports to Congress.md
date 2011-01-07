@@ -20,7 +20,7 @@ Concurrent with the submission to the Congress of the President's annual budget 
 
 #### Amendments
 
-2007—Subsecs. (c), (d). Pub. L. 110–69 added subsecs. (c) and (d).
+<b>2007</b>—Subsecs. (c), (d). Pub. L. 110–69 added subsecs. (c) and (d).
 
 #### Change of Name
 

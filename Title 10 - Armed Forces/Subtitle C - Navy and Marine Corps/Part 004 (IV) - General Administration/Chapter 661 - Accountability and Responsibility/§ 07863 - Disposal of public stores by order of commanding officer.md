@@ -28,7 +28,7 @@ The words “disbursing official” are substituted for “disbursing officer”
 
 #### Amendments
 
-1996—Pub. L. 104–201 inserted “were” after “the stores” in first sentence.
+<b>1996</b>—Pub. L. 104–201 inserted “were” after “the stores” in first sentence.
 
 Pub. L. 104–106, §913(c)(3)(B)(i), substituted “Disposal of public stores” for “Disbursements” in section catchline.
 

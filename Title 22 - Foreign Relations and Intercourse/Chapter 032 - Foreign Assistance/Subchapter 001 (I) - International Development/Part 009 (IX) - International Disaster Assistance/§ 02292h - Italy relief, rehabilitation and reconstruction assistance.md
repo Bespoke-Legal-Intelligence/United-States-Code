@@ -16,9 +16,9 @@
 
 #### Amendments
 
-1980—Subsec. (d). Pub. L. 96–525 added subsec. (d).
+<b>1980</b>—Subsec. (d). Pub. L. 96–525 added subsec. (d).
 
-1977—Subsecs. (b), (c). Pub. L. 95–88 added subsec. (b) and redesignated subsec. (b) as (c).
+<b>1977</b>—Subsecs. (b), (c). Pub. L. 95–88 added subsec. (b) and redesignated subsec. (b) as (c).
 
 #### Delegation of Functions
 

@@ -12,9 +12,9 @@ Last seven words in the statute, “who shall have the powers hereinafter stated
 
 #### Amendments
 
-1996—Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+<b>1996</b>—Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
-1981—Pub. L. 97–4 substituted “four members” for “two members” in two places.
+<b>1981</b>—Pub. L. 97–4 substituted “four members” for “two members” in two places.
 
 #### Change of Name
 

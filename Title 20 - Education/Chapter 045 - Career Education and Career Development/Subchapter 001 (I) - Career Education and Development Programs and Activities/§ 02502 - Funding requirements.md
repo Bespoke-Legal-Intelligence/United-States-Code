@@ -26,7 +26,7 @@ Section 1226a of this title, referred to in subsec. (a), was in the original a r
 
 #### Amendments
 
-1977—Subsec. (b)(2). Pub. L. 95–207, §16(1), substituted “1 per centum” for “3 per centum” and struck out “the Commonwealth of Puerto Rico,” after “shall allot such amount among”.
+<b>1977</b>—Subsec. (b)(2). Pub. L. 95–207, §16(1), substituted “1 per centum” for “3 per centum” and struck out “the Commonwealth of Puerto Rico,” after “shall allot such amount among”.
 
 Subsec. (b)(3)(B). Pub. L. 95–207, §16(2), substituted “, the District of Columbia, and the Commonwealth of Puerto Rico” for “and the District of Columbia”.
 

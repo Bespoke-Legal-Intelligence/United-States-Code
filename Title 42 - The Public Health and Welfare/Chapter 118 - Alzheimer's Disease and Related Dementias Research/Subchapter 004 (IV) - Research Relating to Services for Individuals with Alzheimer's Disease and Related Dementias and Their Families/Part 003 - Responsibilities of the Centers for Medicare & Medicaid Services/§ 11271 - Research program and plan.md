@@ -26,7 +26,7 @@ In preparing and revising the plan required by subsection (b) of this section, t
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–173, §900(e)(5)(B)(i), substituted “Centers for Medicare \& Medicaid Services” for “National Health Care Financing Administration”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–173, §900(e)(5)(B)(i), substituted “Centers for Medicare \& Medicaid Services” for “National Health Care Financing Administration”.
 
 Subsec. (b)(1). Pub. L. 108–173, §900(e)(5)(B)(ii), substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration” in introductory provisions.
 

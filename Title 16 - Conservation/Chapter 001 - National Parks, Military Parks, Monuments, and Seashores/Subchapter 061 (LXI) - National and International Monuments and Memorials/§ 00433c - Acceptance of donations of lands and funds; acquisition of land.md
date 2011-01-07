@@ -10,7 +10,7 @@ After the said peace memorial has been established as provided in section 433a o
 
 #### Amendments
 
-1972—Pub. L. 92–568, §2, authorized acquisition of an additional four acres of land.
+<b>1972</b>—Pub. L. 92–568, §2, authorized acquisition of an additional four acres of land.
 
 #### Change of Name
 

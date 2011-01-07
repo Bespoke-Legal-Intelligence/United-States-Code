@@ -82,23 +82,23 @@ In subsection (g), the words “Under such regulations as may be prescribed by t
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–163, §1057(b)(4), substituted “State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands” for “State or Territory and Puerto Rico”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163, §1057(b)(4), substituted “State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands” for “State or Territory and Puerto Rico”.
 
 Subsec. (d). Pub. L. 109–163, §1057(b)(2), substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “State or Territory, Puerto Rico, and the District of Columbia”.
 
-1989—Subsec. (a). Pub. L. 101–189 substituted “The Governor of each State or Territory and Puerto Rico” for “The governor of each State and Territory, Puerto Rico, and the Canal Zone”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189 substituted “The Governor of each State or Territory and Puerto Rico” for “The governor of each State and Territory, Puerto Rico, and the Canal Zone”.
 
-1988—Subsec. (d). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
+<b>1988</b>—Subsec. (d). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
-1980—Subsec. (b). Pub. L. 96–513 redesignated pars. (2) and (3) as (1) and (2), respectively.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513 redesignated pars. (2) and (3) as (1) and (2), respectively.
 
-1977—Subsec. (d). Pub. L. 95–79, §804(b)(1), (2), redesignated subsec. (e) as (d). Former subsec. (d), which authorized inspections at least once a year by Inspectors General of the departments concerned, was struck out.
+<b>1977</b>—Subsec. (d). Pub. L. 95–79, §804(b)(1), (2), redesignated subsec. (e) as (d). Former subsec. (d), which authorized inspections at least once a year by Inspectors General of the departments concerned, was struck out.
 
 Subsec. (e). Pub. L. 95–79, §804(b)(2), (3), redesignated subsec. (f) as (e) and substituted “(d)” for “(e)”. Former subsec. (e) redesignated (d).
 
 Subsecs. (f), (g). Pub. L. 95–79, §804(b)(2), redesignated subsecs. (f) and (g) as (e) and (f), respectively.
 
-1972—Subsec. (b)(1). Pub. L. 92–310 repealed provisions which related to the bond required of property and fiscal officers.
+<b>1972</b>—Subsec. (b)(1). Pub. L. 92–310 repealed provisions which related to the bond required of property and fiscal officers.
 
 #### Effective Date of 1980 Amendment
 

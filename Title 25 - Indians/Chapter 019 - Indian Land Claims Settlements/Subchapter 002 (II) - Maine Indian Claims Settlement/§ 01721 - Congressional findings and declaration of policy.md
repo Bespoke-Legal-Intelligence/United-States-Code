@@ -98,7 +98,7 @@ Purpose.—It is the purpose of this Act to—
 
 &emsp;“(6) The term ‘laws of the State’ means the constitution, and all statutes, regulations, and common laws of the State of Maine and its political subdivisions and all subsequent amendments thereto or judicial interpretations thereof.
 
-&emsp;“(7) The term ‘Maine Implementing Act’ means the Act entitled ‘Act to Implement the Maine Indian Claims Settlement’ that was enacted by the State of Maine in chapter 732 of the Maine Public Laws of 1979, as amended by chapter 675 of the Maine Public Laws of 1981 and chapter 672 of the Maine Public Laws of 1985, and all subsequent amendments thereto.
+&emsp;“(7) The term ‘Maine Implementing Act’ means the Act entitled ‘Act to Implement the Maine IndianClaims Settlement’ that was enacted by the State of Maine in chapter 732 of the Maine Public Laws of 1979, as amended by chapter 675 of the Maine Public Laws of 1981 and chapter 672 of the Maine Public Laws of 1985, and all subsequent amendments thereto.
 
 &emsp;“(8) The term ‘Micmac Settlement Act’ means the Act entitled ‘Act to implement the Aroostook Band of Micmacs Settlement Act’ that was enacted by the State of Maine in chapter 148 of the Maine Public Laws of 1989, and all subsequent amendments thereto.
 
@@ -192,7 +192,7 @@ Acquisition.—(1) Lands and natural resources may be acquired by the Secretary 
 
 “(2)(A) No land or natural resources may be acquired by the Secretary for the Band until the Secretary files with the Secretary of State of the State of Maine a certified copy of the deed, contract, or other conveyance setting forth the location and boundaries of the land or natural resources to be acquired.
 
-“(B) For purposes of subparagraph (A), a filing with the Secretary of State of the State of Maine may be made by mail and, if such method of filing is used, shall be considered to be completed on the date on which the document is properly mailed to the Secretary of State of the State of Maine.
+“(B) For purposes of subparagraph (A), a filing with the Secretary of State of the State of Maine may bemade by mail and, if such method of filing is used, shall be considered to be completed on the date on which the document is properly mailed to the Secretary of State of the State of Maine.
 
 “(3) Notwithstanding the provisions of the first section of the Act of August 1, 1888 (40 U.S.C. 257) \[now 40 U.S.C. 3113\] and the first section of the Act of February 26, 1931 (40 U.S.C. 258a) \[now 40 U.S.C. 3114(a)–(d)\], the Secretary may acquire land or natural resources under this section from the ostensible owner of the land or natural resources only if the Secretary and the ostensible owner of the land or natural resources have agreed upon the identity of the land or natural resources to be sold and upon the purchase price and other terms of sale. Subject to the agreement required by the preceding sentence, the Secretary may institute condemnation proceedings in order to perfect title, satisfactory to the Attorney General of the United States, in the United States and condemn interests adverse to the ostensible owner.
 

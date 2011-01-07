@@ -10,5 +10,5 @@ It shall be unlawful for any registered management company to lend money or prop
 
 #### Amendments
 
-1987—Subsec. (b). Pub. L. 100–181 struck out “to the extension or renewal of any such loan made prior to March 15, 1940, or” after “shall not apply”.
+<b>1987</b>—Subsec. (b). Pub. L. 100–181 struck out “to the extension or renewal of any such loan made prior to March 15, 1940, or” after “shall not apply”.
 

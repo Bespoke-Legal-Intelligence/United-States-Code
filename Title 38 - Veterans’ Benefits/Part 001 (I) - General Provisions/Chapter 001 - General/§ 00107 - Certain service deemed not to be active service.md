@@ -6,7 +6,7 @@
 
 &emsp;(2) chapter 10 of title 37; and
 
-&emsp;(3) chapters 11, 13 (except section 1312(a)), 23, and 24 (to the extent provided for in section 2402(8)) of this title.
+&emsp;(3) chapters 11, 13 (except section 1312(a)), 23, and 24 (to the extent provided for in section 2402(a)(8)) of this title.
 
 > Except as provided in subsection (c) or (d), payments under such chapters shall be made at a rate of $0.50 for each dollar authorized, and where annual income is a factor in entitlement to benefits, the dollar limitations in the law specifying such annual income shall apply at a rate of $0.50 for each dollar. Any payments made before February 18, 1946, to any such member under such laws conferring rights, benefits, or privileges shall not be deemed to have been invalid by reason of the circumstance that such member's service was not service in the Armed Forces or any component thereof within the meaning of any such law.
 
@@ -14,7 +14,7 @@
 
 &emsp;(1) with respect to contracts of National Service Life Insurance entered into (A) before May 27, 1946, (B) under section 620 or 621 of the National Service Life Insurance Act of 1940, or (C) under section 1922 of this title; and
 
-&emsp;(2) chapters 11, 13 (except section 1312(a)), 23, and 24 (to the extent provided for in section 2402(8)) of this title.
+&emsp;(2) chapters 11, 13 (except section 1312(a)), 23, and 24 (to the extent provided for in section 2402(a)(8)) of this title.
 
 > Except as provided in subsection (c) or (d), payments under such chapters shall be made at a rate of $0.50 for each dollar authorized, and where annual income is a factor in entitlement to benefits, the dollar limitations in the law specifying such annual income shall apply at a rate of $0.50 for each dollar.
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(ii) if the individual's service had been deemed to be active military, naval, or air service, would have been paid pension under section 1521 of this title without denial or discontinuance by reason of section 1522 of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1111; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 89–641, §2(a), Oct. 11, 1966, 80 Stat. 885; Pub. L. 97–295, §4(4), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 99–576, title VII, §701(6), Oct. 28, 1986, 100 Stat. 3291; Pub. L. 102–83, §§4(a)(1), 5(c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 103–446, title V, §507(a), Nov. 2, 1994, 108 Stat. 4664; Pub. L. 106–377, §1(a)(1) \[title V, §501(a)(1)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–57; Pub. L. 106–419, title III, §§331(b), 332(a), Nov. 1, 2000, 114 Stat. 1856; Pub.L. 107–14, §8(a)(1), June 5, 2001, 115 Stat. 34; Pub. L. 107–330, title III, §308(g)(2), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–183, title II, §§211(a), 212(a), Dec. 16, 2003, 117 Stat. 2657.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1111; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 89–641, §2(a), Oct. 11, 1966, 80 Stat. 885; Pub. L. 97–295, §4(4), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 99–576, title VII, §701(6), Oct. 28, 1986, 100 Stat. 3291; Pub. L. 102–83, §§4(a)(1), 5(c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 103–446, title V, §507(a), Nov. 2, 1994, 108 Stat. 4664; Pub. L. 106–377, §1(a)(1) \[title V, §501(a)(1)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–57; Pub. L. 106–419, title III, §§331(b), 332(a), Nov. 1, 2000, 114 Stat. 1856; Pub. L. 107–14, §8(a)(1), June 5, 2001, 115 Stat. 34; Pub. L. 107–330, title III, §308(g)(2), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–183, title II, §§211(a), 212(a), Dec. 16, 2003, 117 Stat. 2657; Pub. L. 111–275, title V, §502(d)(1), Oct. 13, 2010, 124 Stat. 2882.)
 
 #### References in Text
 
@@ -46,7 +46,9 @@ The date of the enactment of the Veterans Benefits Act of 2003, referred to in s
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–183, §212(a)(2), inserted “or (d)” after “subsection (c)” in second sentence.
+<b>2010</b>—Subsecs. (a)(3), (b)(2). Pub. L. 111–275 substituted “section 2402(a)(8)” for “section 2402(8)”.
+
+<b>2003</b>—Subsec. (b). Pub. L. 108–183, §212(a)(2), inserted “or (d)” after “subsection (c)” in second sentence.
 
 Pub. L. 108–183, §211(a)(1), substituted “Except as provided in subsection (c), payments” for “Payments” in second sentence.
 
@@ -58,13 +60,13 @@ Subsec. (d)(1). Pub. L. 108–183, §212(a)(3), inserted “or (b), as otherwise
 
 Subsec. (d)(2). Pub. L. 108–183, §212(a)(4), inserted “or whose service is described in subsection (b) and who dies after the date of the enactment of the Veterans Benefits Act of 2003,” after “November 1, 2000,” in introductory provisions.
 
-2002—Subsec. (d)(2). Pub. L. 107–330 substituted “November 1, 2000,” for “the date of the enactment of this subsection” in introductory provisions.
+<b>2002</b>—Subsec. (d)(2). Pub. L. 107–330 substituted “November 1, 2000,” for “the date of the enactment of this subsection” in introductory provisions.
 
-2001—Subsec. (a). Pub. L. 107–14, §8(a)(1)(A), inserted “or (d)” after “subsection (c)” in concluding provisions.
+<b>2001</b>—Subsec. (a). Pub. L. 107–14, §8(a)(1)(A), inserted “or (d)” after “subsection (c)” in concluding provisions.
 
 Subsecs. (c), (d). Pub. L. 107–14, §8(a)(1)(B), (C), redesignated subsec. (c) relating to the inapplicability of the second sentence of subsec. (a) to an individual described in paragraph (2) as (d) and substituted “With respect to benefits under chapter 23 of this title, in” for “In” in par. (1).
 
-2000—Subsec. (a). Pub. L. 106–419, §332(a)(1), which directed substitution of “Subject to subsection (c), payments” for “Payments”, could not be executed because “Payments” did not appear subsequent to the amendment by Pub. L. 106–377, §1(a)(1) \[title V, §501(a)(1)(A)\]. See below.
+<b>2000</b>—Subsec. (a). Pub. L. 106–419, §332(a)(1), which directed substitution of “Subject to subsection (c), payments” for “Payments”, could not be executed because “Payments” did not appear subsequent to the amendment by Pub. L. 106–377, §1(a)(1) \[title V, §501(a)(1)(A)\]. See below.
 
 Pub. L. 106–377, §1(a)(1) \[title V, §501(a)(1)(A)\], substituted “Except as provided in subsection (c), payments” for “Payments” in concluding provisions.
 
@@ -74,21 +76,25 @@ Subsec. (c). Pub. L. 106–419, §332(a)(2), added subsec. (c) relating to the i
 
 Pub. L. 106–377, §1(a)(1) \[title V, §501(a)(1)(B)\], added subsec. (c) relating to the inapplicability of the second sentence of subsec. (a) to cases of benefits under subchapters II and IV of chapter 11 of this title paid to United States citizens or to permanent resident aliens.
 
-1994—Subsecs. (a), (b). Pub. L. 103–446 substituted “rate of” for “rate in pesos as is equivalent to” and for “rate in Philippine pesos as is equivalent to” in second sentence.
+<b>1994</b>—Subsecs. (a), (b). Pub. L. 103–446 substituted “rate of” for “rate in pesos as is equivalent to” and for “rate in Philippine pesos as is equivalent to” in second sentence.
 
-1991—Subsec. (a)(3). Pub. L. 102–83, §5(c)(1), substituted “1312(a)” for “412(a)”.
+<b>1991</b>—Subsec. (a)(3). Pub. L. 102–83, §5(c)(1), substituted “1312(a)” for “412(a)”.
 
 Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “1922” for “722” in par. (1)(C) and “1312(a)” for “412(a)” in par. (2).
 
 Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-1986—Subsec. (a). Pub. L. 99–576 substituted “that such member's” for “that his” in last sentence.
+<b>1986</b>—Subsec. (a). Pub. L. 99–576 substituted “that such member's” for “that his” in last sentence.
 
-1982—Subsec. (a)(2). Pub. L. 97–295 substituted “chapter 10 of title 37” for “the Missing Persons Act”.
+<b>1982</b>—Subsec. (a)(2). Pub. L. 97–295 substituted “chapter 10 of title 37” for “the Missing Persons Act”.
 
-1966—Pub. L. 89–641 increased the specified dollar/peso rate for payments from one peso for each dollar otherwise authorized to a rate in Philippine pesos equivalent to $0.50 for each dollar.
+<b>1966</b>—Pub. L. 89–641 increased the specified dollar/peso rate for payments from one peso for each dollar otherwise authorized to a rate in Philippine pesos equivalent to $0.50 for each dollar.
 
-1961—Pub. L. 87–268 substituted “section 412(a)” for “sections 412” wherever appearing.
+<b>1961</b>—Pub. L. 87–268 substituted “section 412(a)” for “sections 412” wherever appearing.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–275, title V, §502(e), Oct. 13, 2010, 124 Stat. 2883, provided that: “The amendments made by this section \[amending this section and sections 2301, 2306, and 2402 of this title and enacting provisions set out as notes under sections 101 and 2402 of this title\] shall apply with respect to the death, on or after the date of the enactment of this Act \[Oct. 13, 2010\], of the parent of a person described in paragraph (9)(B) of subsection (a) of section 2402 of title 38, United States Code, as added by subsection (b), who dies on or after October 7, 2001.”
 
 #### Effective Date of 2003 Amendment
 
@@ -154,7 +160,7 @@ In General.—There is in the general fund of the Treasury a fund to be known as
 
 &emsp;“(2)
 
-Availability of Funds.—Subject to the availability of appropriations for such purpose, amounts in the fund shall be available to the Secretary of Veterans Affairs without fiscal year limitation to make payments to eligible persons in accordance with this section.
+Availability of Funds.—Subject to the availability of appropriations for such purpose, amounts in the fund shall be available to the Secretary of Veterans Affairs without fiscal year limitation to makepayments to eligible persons in accordance with this section.
 
 “(c)
 

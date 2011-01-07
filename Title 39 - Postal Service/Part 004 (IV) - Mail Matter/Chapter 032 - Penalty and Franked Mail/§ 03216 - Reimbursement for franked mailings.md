@@ -26,31 +26,31 @@
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives” for “Clerk of the House” in pars. (1) and (2) and “House Oversight” for “House Administration” in two places in par. (2).
+<b>1996</b>—Subsec. (e). Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives” for “Clerk of the House” in pars. (1) and (2) and “House Oversight” for “House Administration” in two places in par. (2).
 
-1991—Subsec. (e)(2). Pub. L. 102–90 substituted “paragraph (1) of this subsection” for “subsection (1) of this section” in two places.
+<b>1991</b>—Subsec. (e)(2). Pub. L. 102–90 substituted “paragraph (1) of this subsection” for “subsection (1) of this section” in two places.
 
-1990—Pub. L. 101–520 made technical amendment to Pub. L. 101–163, §316(b). See 1989 Amendment note below.
+<b>1990</b>—Pub. L. 101–520 made technical amendment to Pub. L. 101–163, §316(b). See 1989 Amendment note below.
 
-1989—Subsec. (a). Pub. L. 101–163, §316(b), formerly §316(c), as renumbered by Pub. L. 101–520, which directed substitution of “by appropriations for the official mail costs of the Senate and the House of Representatives” for “by a lump sum appropriation to the legislative branch” was executed by making the substitution for “by a lump-sum appropriation to the legislative branch” to reflect the probable intent of Congress.
+<b>1989</b>—Subsec. (a). Pub. L. 101–163, §316(b), formerly §316(c), as renumbered by Pub. L. 101–520, which directed substitution of “by appropriations for the official mail costs of the Senate and the House of Representatives” for “by a lump sum appropriation to the legislative branch” was executed by making the substitution for “by a lump-sum appropriation to the legislative branch” to reflect the probable intent of Congress.
 
 Subsec. (e). Pub. L. 101–163, §317, added subsec. (e).
 
-1982—Subsec. (a)(1)(A). Pub. L. 97–263 inserted reference to Law Revision Counsel of House of Representatives.
+<b>1982</b>—Subsec. (a)(1)(A). Pub. L. 97–263 inserted reference to Law Revision Counsel of House of Representatives.
 
-1981—Subsec. (a)(1)(B). Pub. L. 97–69 substituted “survivors” for “surviving spouse”.
+<b>1981</b>—Subsec. (a)(1)(B). Pub. L. 97–69 substituted “survivors” for “surviving spouse”.
 
-1978—Subsec. (a)(1)(A). Pub. L. 95–521 inserted reference to Senate Legal Counsel.
+<b>1978</b>—Subsec. (a)(1)(A). Pub. L. 95–521 inserted reference to Senate Legal Counsel.
 
-1974—Subsec. (a). Pub. L. 93–255 struck out “, and the printed words ‘Postage paid by Congress’ ” at end of last sentence.
+<b>1974</b>—Subsec. (a). Pub. L. 93–255 struck out “, and the printed words ‘Postage paid by Congress’ ” at end of last sentence.
 
-1973—Subsec. (a). Pub. L. 93–191 incorporated existing text in provisions designated as par. (1)(A) and (B), substituted in subpar. (a) reference to elected officers of House of Representatives (other than a Member of House) for former references to Clerk of House of Representatives and Sergeant at Arms of House of Representatives, included in subpar. (A) reference to Legislative Counsel of Senate, added par. (2) and provision for the sender's signature, or facsimile thereof, and printed words “Postage paid by Congress” in upper right-hand corner on transmitted franked mail.
+<b>1973</b>—Subsec. (a). Pub. L. 93–191 incorporated existing text in provisions designated as par. (1)(A) and (B), substituted in subpar. (a) reference to elected officers of House of Representatives (other than a Member of House) for former references to Clerk of House of Representatives and Sergeant at Arms of House of Representatives, included in subpar. (A) reference to Legislative Counsel of Senate, added par. (2) and provision for the sender's signature, or facsimile thereof, and printed words “Postage paid by Congress” in upper right-hand corner on transmitted franked mail.
 
 Subsec. (b). Pub. L. 93–191 added subsec. (b). Former subsec. (b), which provided that the postage on mail matter sent through the mails under the franking privilege by former Presidents shall be paid by reimbursement of the postal revenues each fiscal year out of the general funds of the Treasury in an amount equivalent to the postage which would otherwise be payable on the mail matter, was struck out.
 
 Subsecs. (c), (d). Pub. L. 93–191 added subsecs. (c) and (d).
 
-1971—Subsec. (a). Pub. L. 92–51 inserted reference to Legislative Counsel of House of Representatives.
+<b>1971</b>—Subsec. (a). Pub. L. 92–51 inserted reference to Legislative Counsel of House of Representatives.
 
 #### Change of Name
 

@@ -12,7 +12,7 @@
 
 &emsp;(5) accept and utilize the services of voluntary and uncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
 
-&emsp;(6) enter into contracts, grants, or other arrangements, or modifications thereof, to carry out the provisions of this chapter, and such contracts or modifications thereof may, with the concurrence of two-thirds of the members of the Board, be entered into without performance or other bonds, and without regard to section 5 of title 41;
+&emsp;(6) enter into contracts, grants, or other arrangements, or modifications thereof, to carry out the provisions of this chapter, and such contracts or modifications thereof may, with the concurrence of two-thirds of the members of the Board, be entered into without performance or other bonds, and without regard to section 6101 of title 41;
 
 &emsp;(7) make advances, progress, and other payments which the Board deems necessary under this chapter without regard to the provisions of section 3324(a) and (b) of title 31;
 
@@ -35,6 +35,8 @@ The General Schedule, referred to in subsec. (a)(1), is set out under section 53
 Executive Level V, referred to in subsec. (a)(2), probably means level V of the Executive Schedule, which is set out in section 5316 of Title 5.
 
 #### Codification
+
+In subsec. (a)(6), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (a)(7), “section 3324(a) and (b) of title 31” substituted for reference to section 529 of title 31, United States Code, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 

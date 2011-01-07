@@ -18,7 +18,7 @@ For purposes of this section, the term “activity not engaged in for profit” 
 
 #### (d) Presumption
 
-If the gross income derived from an activity for 3 or more of the taxable years in the period of 5 consecutive taxable years which ends with the taxable year exceeds the deductions attributable to such activity (determined without regard to whether or not such activity is engaged in for profit), then, unless the Secretary establishes to the contrary, such activity shall be presumed for purposes of this chapter for such taxable year to be an activity engaged in for profit. In the case of an activity which consists in major part of the breeding, training, showing,or racing of horses, the preceding sentence shall be applied by substituting “2” for “3” and “7” for “5”.
+If the gross income derived from an activity for 3 or more of the taxable years in the period of 5 consecutive taxable years which ends with the taxable year exceeds the deductions attributable to such activity (determined without regard to whether or not such activity is engaged in for profit), then, unless the Secretary establishes to the contrary, such activity shall be presumed for purposes of this chapter for such taxable year to be an activity engaged in for profit. In the case of an activity which consists in major part of the breeding, training, showing, or racing of horses, the preceding sentence shall be applied by substituting “2” for “3” and “7” for “5”.
 
 #### (e) Special rule
 
@@ -42,17 +42,17 @@ If the gross income derived from an activity for 3 or more of the taxable years 
 
 #### Amendments
 
-1988—Subsec. (e)(2). Pub. L. 100–647 substituted “activity for 3 (or 2 if applicable)” for “activity for 2”.
+<b>1988</b>—Subsec. (e)(2). Pub. L. 100–647 substituted “activity for 3 (or 2 if applicable)” for “activity for 2”.
 
-1986—Subsec. (d). Pub. L. 99–514 substituted “3” for “2” before “or more” in first sentence and “ ‘2’ for ‘3’ and ‘7’ for ‘5’ ” for “the period of 7 consecutive taxable years for the period of 5 consecutive taxable years” in second sentence.
+<b>1986</b>—Subsec. (d). Pub. L. 99–514 substituted “3” for “2” before “or more” in first sentence and “ ‘2’ for ‘3’ and ‘7’ for ‘5’ ” for “the period of 7 consecutive taxable years for the period of 5 consecutive taxable years” in second sentence.
 
-1982—Subsec. (a). Pub. L. 97–354 substituted “an S corporation” for “an electing small business corporation (as defined in section 1371(b))”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–354 substituted “an S corporation” for “an electing small business corporation (as defined in section 1371(b))”.
 
-1976—Subsecs. (d), (e)(3). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (d), (e)(3). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (e)(4). Pub. L. 94–455, §214(a), added par. (4).
 
-1971—Subsec. (e). Pub. L. 92–178 added subsec. (e).
+<b>1971</b>—Subsec. (e). Pub. L. 92–178 added subsec. (e).
 
 #### Effective Date of 1988 Amendment
 

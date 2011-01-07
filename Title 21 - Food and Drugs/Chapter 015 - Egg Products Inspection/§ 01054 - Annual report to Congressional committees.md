@@ -2,7 +2,7 @@
 
 (a) <sup>1</sup> Not later than March 1 of each year following December 29, 1970, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a comprehensive and detailed written report with respect to—
 
-&emsp;(1) the processing, storage, handling, and distribution of eggs and egg products subject to the provisions of this chapter; the inspection of establishments operated in connection therewith; the effectiveness of the operation ofthe inspection, including the effectiveness of the operations of State egg inspection programs; and recommendations for legislation to improve such program; and
+&emsp;(1) the processing, storage, handling, and distribution of eggs and egg products subject to the provisions of this chapter; the inspection of establishments operated in connection therewith; the effectiveness of the operation of the inspection, including the effectiveness of the operations of State egg inspection programs; and recommendations for legislation to improve such program; and
 
 &emsp;(2) the administration of section 1046 of this title (relating to imports) during the immediately preceding calendar year, including but not limited to—
 
@@ -20,9 +20,13 @@
 
 (Pub. L. 91–597, §26, Dec. 29, 1970, 84 Stat. 1634; Pub. L. 103–437, §8(4), Nov. 2, 1994, 108 Stat. 4588.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (a)(1), (2)(A), (E), was in the original “this Act”, meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
+
 #### Amendments
 
-1994—Pub. L. 103–437 substituted “Agriculture, Nutrition, and Forestry” for “Agriculture and Forestry” in introductory provisions.
+<b>1994</b>—Pub. L. 103–437 substituted “Agriculture, Nutrition, and Forestry” for “Agriculture and Forestry” in introductory provisions.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
 

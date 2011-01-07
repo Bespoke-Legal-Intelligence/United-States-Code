@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 727 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 727 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1902, 1923, and 1925” for “702, 723, and 725”.
 

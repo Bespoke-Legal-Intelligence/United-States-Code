@@ -16,19 +16,19 @@ In case any person required under section 4251, 4261, or 4271 to collect any tax
 
 Any person making a refund of any payment on which tax imposed by section 4251, 4261, or 4271 has been collected may repay therewith the amount of tax collected on such payment.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 798; Pub. L. 85–475, §4(b)(4), June 30, 1958, 72 Stat. 260; Pub. L. 85–859, title I, §163(d)(1), Sept. 2, 1958, 72 Stat. 1311; Pub. L. 89–44, title VI, §601(b), June 21, 1965, 79 Stat. 153; Pub. L. 91–258, title II, §205(b)(2),May 21, 1970, 84 Stat. 241; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 798; Pub. L. 85–475, §4(b)(4), June 30, 1958, 72 Stat. 260; Pub. L. 85–859, title I, §163(d)(1), Sept. 2, 1958, 72 Stat. 1311; Pub. L. 89–44, title VI, §601(b), June 21, 1965, 79 Stat. 153; Pub. L. 91–258, title II, §205(b)(2), May 21, 1970, 84 Stat. 241; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 #### Amendments
 
-1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1970—Pub. L. 91–258 inserted reference to section 4271 in four places.
+<b>1970</b>—Pub. L. 91–258 inserted reference to section 4271 in four places.
 
-1965—Subsec. (a). Pub. L. 89–44, §601(b)(1), (2), substituted “section 4251 or 4261” for “sections 4231(1), 4231(2), 4231(3), 4241, 4245, 4261, or 4286” and struck out last sentence which referred to payment outside the United States of taxes imposed under pars. (1), (2) and (3) of section 4231.
+<b>1965</b>—Subsec. (a). Pub. L. 89–44, §601(b)(1), (2), substituted “section 4251 or 4261” for “sections 4231(1), 4231(2), 4231(3), 4241, 4245, 4261, or 4286” and struck out last sentence which referred to payment outside the United States of taxes imposed under pars. (1), (2) and (3) of section 4231.
 
 Subsecs. (b) to (d). Pub. L. 89–44, §601(b)(1), substituted “section 4251 or 4261” for “section 4231(1), 4231(2), 4231(3), 4241, 4245, 4261, or 4286” wherever appearing.
 
-1958—Subsec. (a). Pub. L. 85–859 provided that in the case of any payment outside the United States in respect of which tax is imposed under par. (1), (2), or (3) of section 4231 of this title, the person who paid for the admission or for the use of the box or seat shall be considered the person from whom the tax was collected.
+<b>1958</b>—Subsec. (a). Pub. L. 85–859 provided that in the case of any payment outside the United States in respect of which tax is imposed under par. (1), (2), or (3) of section 4231 of this title, the person who paid for the admission or for the use of the box or seat shall be considered the person from whom the tax was collected.
 
 Subsecs. (a) to (d). Pub. L. 85–475 struck out references to section 4271.
 

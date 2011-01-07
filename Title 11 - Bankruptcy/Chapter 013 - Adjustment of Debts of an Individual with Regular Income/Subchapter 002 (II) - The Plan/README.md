@@ -1,7 +1,5 @@
 ### SUBCHAPTER II—THE PLAN
 
-<i><sup>1</sup></i><i> So in original.</i>
-
 
 ---
 

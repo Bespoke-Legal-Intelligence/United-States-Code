@@ -10,5 +10,5 @@ Whenever possible, the Attorney General shall commit a juvenile to a foster home
 
 #### Amendments
 
-1994—Pub. L. 103–322 inserted “, whether pursuant to an adjudication of delinquency or conviction for an offense,” after “committed” in first par.
+<b>1994</b>—Pub. L. 103–322 inserted “, whether pursuant to an adjudication of delinquency or conviction for an offense,” after “committed” in first par.
 

@@ -14,7 +14,7 @@
 
 #### (B) 300 parts per million
 
-&emsp;&emsp;Except as provided by subparagraphs (C), (D), and (E), beginning on the date that is 1 year after August 14, 2008, the lead limit referred to in paragraph (1) is 300 parts per million total lead content by weight for any part of the product.
+&emsp;&emsp;Except as provided by subparagraphs (C), (D), and (E), beginning on the date that is 1year after August 14, 2008, the lead limit referred to in paragraph (1) is 300 parts per million total lead content by weight for any part of the product.
 
 #### (C) 100 parts per million
 
@@ -66,7 +66,7 @@
 
 #### (5) Periodic review
 
-&emsp;The Commission shall, based on the best available scientific and technical information, periodically review and revise the regulations promulgated pursuant to this subsection no less frequently than every 5 years after the first promulgation of a regulation under this subsection to make them more stringent and to require the lowest amount of lead the Commission determines is technologically feasible to achieve.
+&emsp;The Commission shall, based on the best available scientific and technical information,periodically review and revise the regulations promulgated pursuant to this subsection no less frequently than every 5 years after the first promulgation of a regulation under this subsection to make them more stringent and to require the lowest amount of lead the Commission determines is technologically feasible to achieve.
 
 #### (c) Application with ASTM F963
 
@@ -153,4 +153,6 @@ Section was enacted as part of the Consumer Product Safety Improvement Act of 20
 #### Definition
 
 For definition of “Commission” used in this section, see section 2(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
+
+<i><sup>1</sup></i><i> So in original. The word “to,” probably should not appear.</i>
 

@@ -14,5 +14,5 @@ A prior section 1138e, Pub. L. 89–329, title XI, §1146, as added Pub. L. 102�
 
 #### Amendments
 
-2008—Pub. L. 110–315 substituted “such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years” for “$30,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
+<b>2008</b>—Pub. L. 110–315 substituted “such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years” for “$30,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
 

@@ -44,7 +44,5 @@ Each Commissioner, except the Commissioner for Education Statistics, shall carry
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (a)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 Level IV of the Executive Schedule, referred to in subsecs. (a)(2)(A) and (b)(2), is set out in section 5315 of Title 5, Government Organization and Employees.
 

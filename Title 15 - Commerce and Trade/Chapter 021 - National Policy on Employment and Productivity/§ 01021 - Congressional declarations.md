@@ -56,7 +56,7 @@ The Full Employment and Balanced Growth Act of 1978, referred to in subsecs. (d)
 
 #### Amendments
 
-1978—Pub. L. 95–523 designated existing provisions as subsec. (a), inserted provisions relating to promotion of balanced growth, a balanced Federal budget, adequate productivity growth, proper attention to national priorities, improvement in trade balance, and reasonable price stability, and added subsecs. (b) to (j).
+<b>1978</b>—Pub. L. 95–523 designated existing provisions as subsec. (a), inserted provisions relating to promotion of balanced growth, a balanced Federal budget, adequate productivity growth, proper attention to national priorities, improvement in trade balance, and reasonable price stability, and added subsecs. (b) to (j).
 
 #### Short Title
 

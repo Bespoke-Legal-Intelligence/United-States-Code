@@ -4,7 +4,7 @@
 
 In carrying out a grant under this subchapter, the weed management entity and the Secretary shall—
 
-&emsp;(1) if the activities funded under the grant will take place on Federal land, consult with the heads of the Federal agencies having jurisdiction over the land; or
+&emsp;(1) if the activities funded under the grant will take place on Federal land, consult withthe heads of the Federal agencies having jurisdiction over the land; or
 
 &emsp;(2) obtain the written consent of the non-Federal landowner.
 

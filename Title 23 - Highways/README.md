@@ -1,5 +1,5 @@
 
-23 U.S.C.<br>United States Code, 2009 Edition<br>Title 23 - HIGHWAYS<br>From the U.S. Government Publishing Office, www.gpo.gov
+23 U.S.C.<br>United States Code, 2010 Edition<br>Title 23 - HIGHWAYS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 23—HIGHWAYS
 
@@ -23,11 +23,11 @@
 
 #### Amendments
 
-2005—Pub. L. 109–59, title I, §1602(e)(2), title V, 5201(a)(1), Aug. 10, 2005, 119 Stat. 1248, 1780, added items for chapters 5 and 6 and struck out item for former chapter 5 “Research and Technology”.
+<b>2005</b>—Pub. L. 109–59, title I, §1602(e)(2), title V, 5201(a)(1), Aug. 10, 2005, 119 Stat. 1248, 1780, added items for chapters 5 and 6 and struck out item for former chapter 5 “Research and Technology”.
 
-1998—Pub. L. 105–178, title V, §5101(1), June 9, 1998, 112 Stat. 422, added item for chapter 5.
+<b>1998</b>—Pub. L. 105–178, title V, §5101(1), June 9, 1998, 112 Stat. 422, added item for chapter 5.
 
-1966—Pub. L. 89–564, title I, §102(b)(3), Sept. 9, 1966, 80 Stat. 735, added item for chapter 4.
+<b>1966</b>—Pub. L. 89–564, title I, §102(b)(3), Sept. 9, 1966, 80 Stat. 735, added item for chapter 4.
 
 Table Showing Disposition of All Sections of Former Title 23
 
@@ -672,6 +672,8 @@ Section 4 of Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 921, provided that: “An
 Pub. L. 104–59, title III, §357(a), Nov. 28, 1995, 109 Stat. 625, provided that: “The Secretary \[of Transportation\] shall, by March 31, 1997, prepare and submit to Congress a draft legislative proposal of necessary technical and conforming amendments to title 23, United States Code, and related laws.”
 
 Pub. L. 102–240, title I, §1066, Dec. 18, 1991, 105 Stat. 2006, provided that the Secretary of Transportation was to have prepared, by Oct. 1, 1993, a proposed recodification of title 23, United States Code, and related laws for submission to Congress for consideration, prior to repeal by Pub. L. 104–59, title III, §357(b), Nov. 28, 1995, 109 Stat. 625.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to chapter heading.</i>
 
 
 ---

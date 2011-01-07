@@ -44,11 +44,11 @@ The Rules of the House of Representatives for the One Hundred Sixth Congress wer
 
 #### Amendments
 
-1976—Subsec. (h). Pub. L. 94–238 substituted “$17,250,000” for “$17,000,000”.
+<b>1976</b>—Subsec. (h). Pub. L. 94–238 substituted “$17,250,000” for “$17,000,000”.
 
-1975—Subsec. (h). Pub. L. 93–592 substituted “$17,000,000” for “$15,000,000”.
+<b>1975</b>—Subsec. (h). Pub. L. 93–592 substituted “$17,000,000” for “$15,000,000”.
 
-1973—Subsecs. (g), (h). Pub. L. 93–207 added subsec. (g) and redesignated former subsec. (g) as (h).
+<b>1973</b>—Subsecs. (g), (h). Pub. L. 93–207 added subsec. (g) and redesignated former subsec. (g) as (h).
 
 #### Change of Name
 

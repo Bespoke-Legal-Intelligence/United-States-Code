@@ -36,7 +36,7 @@
 
 (B) The aggregate amount granted under this subsection in any fiscal year may not exceed 10 percent of the total amount appropriated for purposes of this section for such year.
 
-(3) The Governor of a State receiving a grant under this subsection for developing a plan shall submit a copy of such plan to the Secretary of Agriculture as soon as practicable after it has been prepared.
+(3) The Governor of a State receiving a grant under this subsection for developing a plan shallsubmit a copy of such plan to the Secretary of Agriculture as soon as practicable after it has been prepared.
 
 #### (c) Land acquisition and development grants
 
@@ -94,7 +94,7 @@ For the purposes of this section—
 
 &emsp;(1) The term “coal or uranium development activities” means the production, processing, or transportation of coal or uranium.
 
-&emsp;(2) The term “site development” means necessary off-site improvements, such as the construction of sewer and water connections, construction of access roads, and appropriate site restoration, but does not include any portion of the construction of housing or public facilities.
+&emsp;(2) The term “site development” means necessary off-site improvements, such as the construction of sewer and water connections, construction of access roads, and appropriate siterestoration, but does not include any portion of the construction of housing or public facilities.
 
 #### (f) Reports
 
@@ -112,7 +112,7 @@ Any person regularly engaged in any coal or uranium development activity within 
 
 #### (g) Administration
 
-The Secretary of Agriculture shall carry out his responsibilities under this section throughthe Farmers Home Administration and such other agencies within the Department of Agriculture as he may determine appropriate.
+The Secretary of Agriculture shall carry out his responsibilities under this section through the Farmers Home Administration and such other agencies within the Department of Agriculture as he may determine appropriate.
 
 #### (h) Appropriations authorization
 

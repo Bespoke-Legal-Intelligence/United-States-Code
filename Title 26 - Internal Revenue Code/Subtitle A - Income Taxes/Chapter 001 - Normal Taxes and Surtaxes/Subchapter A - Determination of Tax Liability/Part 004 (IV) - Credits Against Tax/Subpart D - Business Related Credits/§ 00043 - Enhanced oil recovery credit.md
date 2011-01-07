@@ -86,7 +86,7 @@ For purposes of this section—
 
 #### (4) Special rule for certain gas displacement projects
 
-&emsp;For purposes of this section, immiscible non-hydrocarbon gas displacement shall be treated as a tertiary recovery method under section 193(b)(3).
+&emsp;For purposes of this section, immiscible non-hydrocarbon gas displacement shall be treatedas a tertiary recovery method under section 193(b)(3).
 
 #### (5) Alaska natural gas
 
@@ -142,7 +142,7 @@ Another prior section 43 was renumbered section 37 of this title.
 
 #### Amendments
 
-2005—Subsec. (b)(2). Pub. L. 109–58 substituted “section 45K(d)(2)(C)” for “section 29(d)(2)(C)”.
+<b>2005</b>—Subsec. (b)(2). Pub. L. 109–58 substituted “section 45K(d)(2)(C)” for “section 29(d)(2)(C)”.
 
 Subsec. (c)(5). Pub. L. 109–135 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of paragraph (1)(D)—
 
@@ -158,11 +158,11 @@ In general.—The term ‘Alaska natural gas’ means natural gas entering the A
 
 Natural gas.—The term ‘natural gas’ has the meaning given such term by section 613A(e)(2).”
 
-2004—Subsec. (c)(1)(D). Pub. L. 108–357, §707(a), added subpar. (D).
+<b>2004</b>—Subsec. (c)(1)(D). Pub. L. 108–357, §707(a), added subpar. (D).
 
 Subsec. (c)(5). Pub. L. 108–357, §707(b), added par. (5).
 
-2000—Subsec. (c)(1)(C). Pub. L. 106–554 inserted “(as defined in section 193(b))” after “expenses” and struck out “under section 193” after “allowable”.
+<b>2000</b>—Subsec. (c)(1)(C). Pub. L. 106–554 inserted “(as defined in section 193(b))” after “expenses” and struck out “under section 193” after “allowable”.
 
 #### Effective Date of 2005 Amendment
 
@@ -192,31 +192,33 @@ Special rule for significant expansion of projects.—For purposes of section 43
 
 Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following:
 
-2009—Internal Revenue Notice 2009–73.
+<b>2010</b>—Internal Revenue Notice 2010–72.
 
-2008—Internal Revenue Notice 2008–72.
+<b>2009</b>—Internal Revenue Notice 2009–73.
 
-2007—Internal Revenue Notice 2007–64.
+<b>2008</b>—Internal Revenue Notice 2008–72.
 
-2006—Internal Revenue Notice 2006–62.
+<b>2007</b>—Internal Revenue Notice 2007–64.
 
-2005—Internal Revenue Notice 2005–56.
+<b>2006</b>—Internal Revenue Notice 2006–62.
 
-2004—Internal Revenue Notice 2004–49.
+<b>2005</b>—Internal Revenue Notice 2005–56.
 
-2003—Internal Revenue Notice 2003–43.
+<b>2004</b>—Internal Revenue Notice 2004–49.
 
-2002—Internal Revenue Notice 2002–53.
+<b>2003</b>—Internal Revenue Notice 2003–43.
 
-2001—Internal Revenue Notice 2001–54.
+<b>2002</b>—Internal Revenue Notice 2002–53.
 
-2000—Internal Revenue Notice 2000–51.
+<b>2001</b>—Internal Revenue Notice 2001–54.
 
-1999—Internal Revenue Notice 99–45.
+<b>2000</b>—Internal Revenue Notice 2000–51.
 
-1998—Internal Revenue Notice 98–41.
+<b>1999</b>—Internal Revenue Notice 99–45.
 
-1997—Internal Revenue Notice 97–39.
+<b>1998</b>—Internal Revenue Notice 98–41.
 
-1996—Internal Revenue Notice 96–41.
+<b>1997</b>—Internal Revenue Notice 97–39.
+
+<b>1996</b>—Internal Revenue Notice 96–41.
 

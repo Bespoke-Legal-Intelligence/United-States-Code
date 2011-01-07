@@ -42,7 +42,7 @@ A corporation, trust, or association shall not be considered a real estate inves
 
 &emsp;&emsp;(F) income and gain derived from foreclosure property (as defined in subsection (e));
 
-&emsp;&emsp;(G) amounts (other than amounts the determination of which depends in whole or in part on the income or profits of any person) received or accrued as consideration for entering into agreements (i) to make loans secured by mortgages on real property or on interests in real property or (ii) to purchaseor lease real property (including interests in real property and interests in mortgages on real property);
+&emsp;&emsp;(G) amounts (other than amounts the determination of which depends in whole or in part on the income or profits of any person) received or accrued as consideration for entering into agreements (i) to make loans secured by mortgages on real property or on interests in real property or (ii) to purchase or lease real property (including interests in real property and interests in mortgages on real property);
 
 &emsp;&emsp;(H) gain from the sale or other disposition of a real estate asset which is not a prohibited transaction solely by reason of section 857(b)(6); and
 
@@ -274,7 +274,7 @@ Termination date.—For purposes of this subsection, the term “termination dat
 
 #### (4) Special rule for certain contingent rents
 
-&emsp;Where a real estate investment trust receives or accrues, with respect to real or personal property, any amount which would be excluded from the term “rents from real property” solely because the tenant of the real estate investment trust receives or accrues, directly or indirectly, from subtenants any amount the determination of which depends in whole or in part on the income or profits derived by any person from such property, only a proportionate part (determined pursuant to regulations prescribed by the Secretary) of the amount received or accrued by the real estate investment trust from that tenant will be excluded from the term “rents from real property”.
+&emsp;Where a real estate investment trust receives or accrues, with respect to real or personal property, any amount which would be excluded from the term “rents from real property” solely because the tenant of the real estate investment trust receives or accrues, directly or indirectly, from subtenants any amount the determination of which depends in whole or in part on the income or profits derived by any person from such property, onlya proportionate part (determined pursuant to regulations prescribed by the Secretary) of the amount received or accrued by the real estate investment trust from that tenant will be excluded from the term “rents from real property”.
 
 #### (5) Constructive ownership of stock
 
@@ -348,7 +348,7 @@ Termination date.—For purposes of this subsection, the term “termination dat
 
 #### (iii) Times for testing rent comparability
 
-&emsp;&emsp;&emsp;The substantial comparability requirement of clause (ii) shall be treated as met with respect to a lease to a taxable REIT subsidiary of the trust if such requirement is met under the terms of the lease—
+&emsp;&emsp;&emsp;The substantial comparability requirement of clause (ii) shall be treated as met with respect to a lease to a taxable REITsubsidiary of the trust if such requirement is met under the terms of the lease—
 
 &emsp;&emsp;&emsp;&emsp;(I) at the time such lease is entered into,
 
@@ -408,7 +408,7 @@ Termination date.—For purposes of this subsection, the term “termination dat
 
 &emsp;&emsp;For purposes of subparagraph (B)(iii)—
 
-&emsp;&emsp;&emsp;(i) a lease shall be treated as in effect on January 1, 1999, without regard to its renewal after such date, so long as such renewal is pursuant to the terms of such lease as in effect on whichever of the dates under subparagraph (B)(iii) is the latest, and
+&emsp;&emsp;&emsp;(i) a lease shall be treated as in effect on January 1, 1999, without regard to its renewal after such date, so long as such renewal is pursuant to the terms of suchlease as in effect on whichever of the dates under subparagraph (B)(iii) is the latest, and
 
 &emsp;&emsp;&emsp;(ii) a lease of a property entered into after whichever of the dates under subparagraph (B)(iii) is the latest shall be treated as in effect on such date if—
 
@@ -548,7 +548,7 @@ Termination date.—For purposes of this subsection, the term “termination dat
 
 #### (2) Revocation
 
-&emsp;An election under subsection (c)(1) made by a corporation, trust, or association may be revoked by it for any taxable year after the first taxable year for which the election is effective. A revocation under this paragraph shall be effective for the taxable year in which madeand for all succeeding taxable years. Such revocation must be made on or before the 90th day after the first day of the first taxable year for which the revocation is to be effective. Such revocation shall be made in such manner as the Secretary shall prescribe by regulations.
+&emsp;An election under subsection (c)(1) made by a corporation, trust, or association may be revoked by it for any taxable year after the first taxable year for which the election is effective. A revocation under this paragraph shall be effective for the taxable year in which made and for all succeeding taxable years. Such revocation must be made on or before the 90th day after the first day of the first taxable year for which the revocation is to be effective. Such revocation shall be made in such manner as the Secretary shall prescribe by regulations.
 
 #### (3) Election after termination or revocation
 
@@ -710,7 +710,7 @@ Termination date.—For purposes of this subsection, the term “termination dat
 
 &emsp;&emsp;&emsp;(i) which is in connection with an obligation which is held by the real estate investment trust and is secured by an interest in real property, and
 
-&emsp;&emsp;&emsp;(ii) which entitles the real estate investment trust to receive a specified portion of any gain realized on the sale or exchange of such real property (or of any gain whichwould be realized if the property were sold on a specified date) or appreciation in value as of any specified date.
+&emsp;&emsp;&emsp;(ii) which entitles the real estate investment trust to receive a specified portion of any gain realized on the sale or exchange of such real property (or of any gain which would be realized if the property were sold on a specified date) or appreciation in value as of any specified date.
 
 #### (B) Secured property
 
@@ -938,7 +938,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (c)(2)(I). Pub. L. 110–246, §15313(a), added subpar. (I).
+<b>2008</b>—Subsec. (c)(2)(I). Pub. L. 110–246, §15313(a), added subpar. (I).
 
 Subsec. (c)(4). Pub. L. 110–289, §3032(a), inserted “(including a discrepancy caused solely by the change in the foreign currency exchange rate used to value a foreign asset)” after “such requirements” in first sentence of concluding provisions.
 
@@ -966,17 +966,17 @@ Subsec. (<i>l</i>)(3). Pub. L. 110–289, §3061(c), inserted “or a health car
 
 Subsec. (n). Pub. L. 110–289, §3031(a), added subsec. (n).
 
-2007—Subsec. (d)(9)(D)(ii). Pub. L. 110–172, §9(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘lodging facility’ means a hotel, motel, or other establishment more than one-half of the dwelling units in which are used on a transient basis.”
+<b>2007</b>—Subsec. (d)(9)(D)(ii). Pub. L. 110–172, §9(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘lodging facility’ means a hotel, motel, or other establishment more than one-half of the dwelling units in which are used on a transient basis.”
 
 Subsec. (<i>l</i>)(2). Pub. L. 110–172, §11(a)(18), in concluding provisions, inserted last sentence and struck out former last sentence which read as follows: “The rule of section 856(c)(7) shall apply for purposes of subparagraph (B).”
 
-2005—Subsec. (c)(7). Pub. L. 109–135, §403(d)(1), reenacted heading without change and amended text generally. Prior to amendment, text consisted of subpars. (A) to (C) relating to rules of application for a corporation, trust, or association that fails to satisfy the requirements of paragraph (4) of this subsection.
+<b>2005</b>—Subsec. (c)(7). Pub. L. 109–135, §403(d)(1), reenacted heading without change and amended text generally. Prior to amendment, text consisted of subpars. (A) to (C) relating to rules of application for a corporation, trust, or association that fails to satisfy the requirements of paragraph (4) of this subsection.
 
 Subsec. (g)(5)(A). Pub. L. 109–135, §412(hh), substituted “paragraph (2), (3), or (4) of subsection (c)” for “subsection (c)(6) or (c)(7) of section 856”.
 
 Subsec. (m)(6). Pub. L. 109–135, §403(d)(2), added par. (6).
 
-2004—Subsec. (c)(5)(E). Pub. L. 108–357, §835(b)(4), struck out last sentence which read as follows: “The principles of the preceding provisions of this subparagraph shall apply to regular interests in a FASIT.”
+<b>2004</b>—Subsec. (c)(5)(E). Pub. L. 108–357, §835(b)(4), struck out last sentence which read as follows: “The principles of the preceding provisions of this subparagraph shall apply to regular interests in a FASIT.”
 
 Subsec. (c)(5)(G). Pub. L. 108–357, §243(d), reenacted heading without change and amended text of subpar. (G) generally. Prior to amendment, subpar. (G) provided that, except to the extent provided by regulations, payment to a real estate investment trust under an interest rate swap or cap agreement, option, futures contract, forward rate agreement, or any similar financial instrument, entered into by the trust in a transaction to reduce the interest rate risks with respect to any indebtedness incurred or to be incurred by the trust to acquire or carry real estate assets, and gain from the sale or other disposition of any such investment, would be treated as income qualifying under par. (2).
 
@@ -996,13 +996,13 @@ Subsec. (g)(5). Pub. L. 108–357, §243(f)(3)(B), added par. (5).
 
 Subsec. (m). Pub. L. 108–357, §243(a)(2), added subsec. (m).
 
-2000—Subsec. (c)(7). Pub. L. 106–554, §1(a)(7) \[title III, §319(9)\], substituted “paragraph (4)(B)(iii)(III)” for “paragraph (4)(B)(ii)(III)” in introductory provisions.
+<b>2000</b>—Subsec. (c)(7). Pub. L. 106–554, §1(a)(7) \[title III, §319(9)\], substituted “paragraph (4)(B)(iii)(III)” for “paragraph (4)(B)(ii)(III)” in introductory provisions.
 
 Subsec. (<i>l</i>)(4)(A). Pub. L. 106–554, §1(a)(7) \[title III, §319(10)\], substituted “subsection (d)(9)(D)(ii)” for “paragraph (9)(D)(ii)”.
 
-1999—Subsec. (c)(2)(D), (3)(C). Pub. L. 106–170, §532(c)(2)(H), (I), substituted “section 1221(a)(1)” for “section 1221(1)”.
+<b>1999</b>—Subsec. (c)(2)(D), (3)(C). Pub. L. 106–170, §532(c)(2)(H), (I), substituted “section 1221(a)(1)” for “section 1221(1)”.
 
-Subsec. (c)(4)(B). Pub. L. 106–170, §541(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “not more than 25 percent of the value of its total assets is represented by securities (other than those includible under subparagraph (A)) for purposes of this calculation limited in respect of any one issuer to an amount not greater in value than 5 percent of the value of the total assets of the trust and to notmore than 10 percent of the outstanding voting securities of such issuer.”
+Subsec. (c)(4)(B). Pub. L. 106–170, §541(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “not more than 25 percent of the value of its total assets is represented by securities (other than those includible under subparagraph (A)) for purposes of this calculation limited in respect of any one issuer to an amount not greater in value than 5 percent of the value of the total assets of the trust and to not more than 10 percent of the outstanding voting securities of such issuer.”
 
 Subsec. (c)(7). Pub. L. 106–170, §541(b), added par. (7).
 
@@ -1028,7 +1028,7 @@ Subsec. (j)(2)(B). Pub. L. 106–170, §532(c)(2)(K), substituted “section 122
 
 Subsec. (<i>l</i>). Pub. L. 106–170, §543(a), added subsec. (<i>l</i>).
 
-1997—Subsec. (a)(6). Pub. L. 105–34, §1251(b)(2), inserted “subject to the provisions of subsection (k),” before “which is not”.
+<b>1997</b>—Subsec. (a)(6). Pub. L. 105–34, §1251(b)(2), inserted “subject to the provisions of subsection (k),” before “which is not”.
 
 Subsec. (c)(3)(I). Pub. L. 105–34, §1255(a)(1), inserted “and” at end.
 
@@ -1088,13 +1088,13 @@ Subsec. (j)(5)(A)(ii). Pub. L. 105–34, §1261(b), inserted before period at en
 
 Subsec. (k). Pub. L. 105–34, §1251(b)(1), added subsec. (k).
 
-1996—Subsec. (a)(4). Pub. L. 104–188, §1704(t)(35), substituted “section 582(c)(2)” for “section 582(c)(5)”.
+<b>1996</b>—Subsec. (a)(4). Pub. L. 104–188, §1704(t)(35), substituted “section 582(c)(2)” for “section 582(c)(5)”.
 
 Subsec. (c)(6)(E). Pub. L. 104–188, §1621(b)(5), inserted at end “The principles of the preceding provisions of this subparagraph shall apply to regular interests in a FASIT.”
 
-1993—Subsec. (h)(3). Pub. L. 103–66 added par. (3).
+<b>1993</b>—Subsec. (h)(3). Pub. L. 103–66 added par. (3).
 
-1988—Subsec. (c)(6)(D). Pub. L. 100–647, §1006(t)(11), struck out subpar. (D), as added by Pub. L. 99–514, §671(b)(1), which read as follows: “A regular or residual interest in a REMIC shall be treated as an interest in real property, and any amount includible in gross income with respect to such an interest shall be treated as interest; except that, if less than 95 percent of the assets of such REMIC are interests in real property (determined as if the taxpayer held such assets), such interest shall be so treated only in the proportion which the assets of the REMIC consist of such interests.”
+<b>1988</b>—Subsec. (c)(6)(D). Pub. L. 100–647, §1006(t)(11), struck out subpar. (D), as added by Pub. L. 99–514, §671(b)(1), which read as follows: “A regular or residual interest in a REMIC shall be treated as an interest in real property, and any amount includible in gross income with respect to such an interest shall be treated as interest; except that, if less than 95 percent of the assets of such REMIC are interests in real property (determined as if the taxpayer held such assets), such interest shall be so treated only in the proportion which the assets of the REMIC consist of such interests.”
 
 Subsec. (c)(6)(D)(i)(I). Pub. L. 100–647, §1006(p)(1), substituted “debt instrument (within the meaning of section 1275(a)(1))” for “debt instrument”.
 
@@ -1116,7 +1116,7 @@ Subsec. (d)(6)(A). Pub. L. 100–647, §1006(q)(1), amended subpar. (A) generall
 
 Subsec. (f). Pub. L. 100–647, §1006(q)(2), amended subsec. (f) generally, making changes in content and structure.
 
-1986—Subsec. (a)(4). Pub. L. 99–514, §901(d)(4)(E), substituted “referred to in section 582(c)(5)” for “to which section 585, 586, or 593 applies”.
+<b>1986</b>—Subsec. (a)(4). Pub. L. 99–514, §901(d)(4)(E), substituted “referred to in section 582(c)(5)” for “to which section 585, 586, or 593 applies”.
 
 Subsec. (a)(6). Pub. L. 99–514, §661(a)(1), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “which would not be a personal holding company (as defined in section 542) if all of its adjusted ordinary gross income (as defined in section 543(b)(2)) constituted personal holding company income (as defined in section 543); and”.
 
@@ -1142,9 +1142,9 @@ Subsec. (i). Pub. L. 99–514, §662(a), added subsec. (i).
 
 Subsec. (j). Pub. L. 99–514, §662(c), added subsec. (j).
 
-1984—Subsec. (c)(4)(A). Pub. L. 98–369 substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+<b>1984</b>—Subsec. (c)(4)(A). Pub. L. 98–369 substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-1978—Subsec. (c)(2)(H). Pub. L. 95–600, §363(a)(1), added subpar. (H).
+<b>1978</b>—Subsec. (c)(2)(H). Pub. L. 95–600, §363(a)(1), added subpar. (H).
 
 Subsec. (c)(3)(D). Pub. L. 95–600, §701(t)(2), inserted “(other than gain from prohibited transactions)” after “on, and gain”.
 
@@ -1154,7 +1154,7 @@ Subsec. (c)(4)(B). Pub. L. 95–600, §363(a)(3), substituted “property in a t
 
 Subsec. (e)(3). Pub. L. 95–600, §363(c), substituted “the Secretary may grant one or more extensions of the grace period for such property” for “the Secretary may extend the grace period for such property” and “shall not extend the grace period beyond the date which is 6 years after the date such trust acquired such property” for “shall be for a period of not more than one year, and not more than two extensions shall be granted with respect to any property”.
 
-1976—Subsec. (a). Pub. L. 94–455, §§1603(a), 1604(f)(1), (2), in introductory provisions substituted “this title” for “this subtitle” and “a corporation, trust, or association” for “an unincorporated trust or an unincorporated association”, in par. (1) inserted “or directors” after “trustees”, and in par. (4) substituted reference to which is neither (A) a financial institution to which section 585, 586, or 593 applies, nor (B) an insurance company to which subchapter L applies for reference to which does not hold any property primarily for sale to customers in the ordinary course of its trade or business.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1603(a), 1604(f)(1), (2), in introductory provisions substituted “this title” for “this subtitle” and “a corporation, trust, or association” for “an unincorporated trust or an unincorporated association”, in par. (1) inserted “or directors” after “trustees”, and in par. (4) substituted reference to which is neither (A) a financial institution to which section 585, 586, or 593 applies, nor (B) an insurance company to which subchapter L applies for reference to which does not hold any property primarily for sale to customers in the ordinary course of its trade or business.
 
 Subsec. (c). Pub. L. 94–455, §1604(f)(3)(A), in introductory provision substituted “A corporation, trust, or association” for “A trust or association”.
 
@@ -1184,13 +1184,13 @@ Subsec. (f). Pub. L. 94–455, §1604(g), added subsec. (f).
 
 Subsec. (g). Pub. L. 94–455, §1604(k)(1), added subsec. (g).
 
-1975—Subsec. (a)(4). Pub. L. 93–625, §6(b), inserted “(other than foreclosure property, as defined in subsection (e))” after “property”.
+<b>1975</b>—Subsec. (a)(4). Pub. L. 93–625, §6(b), inserted “(other than foreclosure property, as defined in subsection (e))” after “property”.
 
 Subsec. (c)(2)(F), (3)(F). Pub. L. 93–625, §6(d)(1), added subpar. (F) to pars. (2) and (3).
 
 Subsec. (e). Pub. L. 93–625, §6(a), added subsec. (e).
 
-1964—Subsec. (a)(6). Pub. L. 88–272 substituted “adjusted ordinary gross income (as defined in section 543(b)(2))” for “gross income”.
+<b>1964</b>—Subsec. (a)(6). Pub. L. 88–272 substituted “adjusted ordinary gross income (as defined in section 543(b)(2))” for “gross income”.
 
 Subsec. (d). Pub. L. 88–554 inserted reference to subparagraph (C) of section 318(a)(3) of this title.
 
@@ -1252,7 +1252,7 @@ Pub. L. 108–357, title II, §243(g), Oct. 22, 2004, 118 Stat. 1445, as amended
 
 Subsections (a)
 
-and (b).—The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years beginning after December 31, 2000.
+and (b).—The amendments made by subsections (a) and (b) \[amending this section\] shallapply to taxable years beginning after December 31, 2000.
 
 “(2)
 
@@ -1360,7 +1360,7 @@ Section 13149(b) of Pub. L. 103–66 provided that: “The amendment made by thi
 
 #### Effective Date of 1988 Amendment
 
-Section 1006(p)(4)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Section 1006(p)(4)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amendingthis section\] shall apply to taxable years ending after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 Amendment by section 1006(p)(1), (3), (5), (q), (t)(11) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -1424,7 +1424,7 @@ Section 6(e) of Pub. L. 93–625, as amended by Pub. L. 99–514, §2, Oct. 22, 
 
 #### Effective Date of 1964 Amendments
 
-Amendment by Pub. L. 88–554 effective Aug. 31, 1964, except that for purposes of sections 302 and 304 of this title, such amendments shall not apply to distributions in payment for stock acquisitions or redemptions, if such acquisitions or redemptions occurred before Aug. 31, 1964, see section 4(c) of Pub. L. 88–554, set out as a note under section 318 of this title.
+Amendment by Pub. L. 88–554 effective Aug. 31, 1964, except that for purposes of sections 302 and 304 of thistitle, such amendments shall not apply to distributions in payment for stock acquisitions or redemptions, if such acquisitions or redemptions occurred before Aug. 31, 1964, see section 4(c) of Pub. L. 88–554, set out as a note under section 318 of this title.
 
 Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 225(<i>l</i>) of Pub. L. 88–272, set out as a note under section 316 of this title.
 
@@ -1438,7 +1438,7 @@ Pub. L. 106–170, title V, §547, Dec. 17, 1999, 113 Stat. 1947, provided that:
 
 #### Trust Not Disqualified in Certain Cases Where Income Tests Not Met
 
-Section 1608(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by section 1602 \[amending this section and section 857 of this title\] shall apply to taxable years of real estate investment trusts beginning after the date of the enactment of this Act \[Oct. 4,1976\]. In addition, the amendments made by section 1602 shall apply to a taxable year of a real estate investment trust beginning before the date of the enactment of this Act if, as the result of a determination (as defined in section 859(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) with respect to such trust occurring after the date of the enactment of this Act, such trust for such taxable years does not meet the requirements of section 856(c)(2) or section 856(c)(3), or of both such sections, of such Code as in effect for such taxable year. In any case, the amendment made by section 1602(a) requiring a schedule to be attached to the income tax return of certain real estate investment trusts shall apply only to taxable years of such trusts beginning after the date of the enactment of this Act. If the amendments made by section 1602 apply to a taxable year ending on or before the date of enactment of this Act, the reference to paragraph (2)(B) in section 857(b)(5) of such Code, as amended, shall be considered to be a reference to paragraph (2)(C) of section 857(b) of such Code, as in effect immediately before the enactment of this Act.”
+Section 1608(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by section 1602 \[amending this section and section 857 of this title\] shall apply to taxable years of real estate investment trusts beginning after the date of the enactment of this Act \[Oct. 4, 1976\]. In addition, the amendments made by section 1602 shall apply to a taxable year of a real estate investment trust beginning before the date of the enactment of this Act if, as the result of a determination (as defined in section 859(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) with respect to such trust occurring after the date of the enactment of this Act, such trust for such taxable years does not meet the requirements of section 856(c)(2) or section 856(c)(3), or of both such sections, of such Code as in effect for such taxable year. In any case, the amendment made by section 1602(a) requiring a schedule to be attached to the income tax return of certain real estate investment trusts shall apply only to taxable years of such trusts beginning after the date of the enactment of this Act. If the amendments made by section 1602 apply to a taxable year ending on or before the date of enactment of this Act, the reference to paragraph (2)(B) in section 857(b)(5) of such Code, as amended, shall be considered to be a reference to paragraph (2)(C) of section 857(b) of such Code, as in effect immediately before the enactment of this Act.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 

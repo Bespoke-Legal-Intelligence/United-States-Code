@@ -6,9 +6,9 @@ To finance the establishment, maintenance, and operation of the Service there is
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 4204 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4204 of this title as this section.
 
-1986—Pub. L. 99–576 struck out “, amounts heretofore appropriated to carry out Public Law 636, Seventy-ninth Congress,” before “and all income”.
+<b>1986</b>—Pub. L. 99–576 struck out “, amounts heretofore appropriated to carry out Public Law 636, Seventy-ninth Congress,” before “and all income”.
 
-1972—Pub. L. 92–310 struck out “and premiums on fidelity bonds of employees” in cl. (4).
+<b>1972</b>—Pub. L. 92–310 struck out “and premiums on fidelity bonds of employees” in cl. (4).
 

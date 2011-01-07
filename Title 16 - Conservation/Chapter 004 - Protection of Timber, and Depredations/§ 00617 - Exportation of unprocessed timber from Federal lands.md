@@ -20,5 +20,5 @@ In issuing rules and regulations pursuant to subsection (c) of this section, the
 
 #### Amendments
 
-1970—Subsec. (a). Pub. L. 91–609 extended date for application of limitation provision from 1971 to 1973 calendar year.
+<b>1970</b>—Subsec. (a). Pub. L. 91–609 extended date for application of limitation provision from 1971 to 1973 calendar year.
 

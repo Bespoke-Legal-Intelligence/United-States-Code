@@ -54,7 +54,7 @@ This Act, referred to in subsec. (f), is Pub. L. 95–238, Feb. 25, 1978, 92 Sta
 
 #### Amendments
 
-1994—Subsec. (f)(3). Pub. L. 103–437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology”.
+<b>1994</b>—Subsec. (f)(3). Pub. L. 103–437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology”.
 
 #### Change of Name
 

@@ -80,7 +80,7 @@ Pub. L. 106–159, title I, §106, Dec. 9, 1999, 113 Stat. 1756, provided that:
 
 “(a)
 
-Transfer of Assets and Personnel.—Except as otherwise provided in this Act \[see Tables for classification\] and the amendments made by this Act, those personnel, property, and records employed, used, held, available, or to be made available in connection with a function transferred to the Federal Motor Carrier Safety Administration by this Act shall be transferred to the Administration for use in connection with the functions transferred, and unexpended balances of appropriations, allocations, and other funds of the Office of Motor Carrier Safety (including any predecessor entity) shall also be transferred to the Administration.
+Transfer of Assets and Personnel.—Except as otherwise provided in this Act \[see Tables for classification\] and the amendments made by this Act, those personnel, property, and records employed, used, held, available, or to be made available in connection with afunction transferred to the Federal Motor Carrier Safety Administration by this Act shall be transferred to the Administration for use in connection with the functions transferred, and unexpended balances of appropriations, allocations, and other funds of the Office of Motor Carrier Safety (including any predecessor entity) shall also be transferred to the Administration.
 
 “(b)
 
@@ -114,7 +114,7 @@ Suits.—
 
 &emsp;“(1)
 
-In general.—This Act shall not affect suits commenced before the date of the enactment of thisAct \[Dec. 9, 1999\], except as provided in paragraphs (2) and (3). In all such suits, proceeding shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this Act had not been enacted.
+In general.—This Act shall not affect suits commenced before the date of the enactment of this Act \[Dec. 9, 1999\], except as provided in paragraphs (2) and (3). In all such suits, proceeding shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this Act had not been enacted.
 
 &emsp;“(2)
 

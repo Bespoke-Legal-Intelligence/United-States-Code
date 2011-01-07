@@ -24,7 +24,7 @@ The Secretary shall evaluate and report to the Congress on the activities of pro
 
 #### Amendments
 
-1998—Subsec. (e). Pub. L. 105–362 substituted “every 5 years” for “every two years”.
+<b>1998</b>—Subsec. (e). Pub. L. 105–362 substituted “every 5 years” for “every two years”.
 
 #### Termination of Reporting Requirements
 

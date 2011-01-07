@@ -94,37 +94,37 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Amendments
 
-2009—Subsec. (<i>l</i>). Pub. L. 111–117, which directed substitution in subsec. (<i>l</i>) of “GAVI Alliance” for “Vaccine Fund”, could not be executed because “Vaccine Fund” did not appear in text.
+<b>2009</b>—Subsec. (<i>l</i>). Pub. L. 111–117, which directed substitution in subsec. (<i>l</i>) of “GAVI Alliance” for “Vaccine Fund”, could not be executed because “Vaccine Fund” did not appear in text.
 
-2008—Subsec. (d). Pub. L. 110–293, §201(1), added subsec. (d).
+<b>2008</b>—Subsec. (d). Pub. L. 110–293, §201(1), added subsec. (d).
 
 Subsec. (k). Pub. L. 110–293, §201(2), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008” and “GAVI Fund” for “Vaccine Fund”.
 
 Subsecs. (<i>l</i>), (m). Pub. L. 110–293, §201(3), (4), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
 
-2003—Subsec. (k). Pub. L. 108–25, §203(a), substituted “such sums as may be necessary for each of the fiscal years 2004 through 2008” for “$50,000,000 for each of the fiscal years 2001 and 2002” and “Vaccine Fund” for “Global Alliance for Vaccines and Immunizations”.
+<b>2003</b>—Subsec. (k). Pub. L. 108–25, §203(a), substituted “such sums as may be necessary for each of the fiscal years 2004 through 2008” for “$50,000,000 for each of the fiscal years 2001 and 2002” and “Vaccine Fund” for “Global Alliance for Vaccines and Immunizations”.
 
 Subsec. (<i>l</i>). Pub. L. 108–25, §203(b), substituted “such sums as may be necessary for each of the fiscal years 2004 through 2008” for “$10,000,000 for each of the fiscal years 2001 and 2002”.
 
 Subsec. (m). Pub. L. 108–25, §203(c), added subsec. (m).
 
-2000—Subsecs. (k), (<i>l</i>). Pub. L. 106–264 added subsecs. (k) and (<i>l</i>).
+<b>2000</b>—Subsecs. (k), (<i>l</i>). Pub. L. 106–264 added subsecs. (k) and (<i>l</i>).
 
-1988—Subsec. (j). Pub. L. 100–690 added subsec. (j).
+<b>1988</b>—Subsec. (j). Pub. L. 100–690 added subsec. (j).
 
-1986—Subsec. (a)(1). Pub. L. 99–529 substituted “$236,084,000 for fiscal year 1987” for “$270,000,000 for fiscal year 1987”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–529 substituted “$236,084,000 for fiscal year 1987” for “$270,000,000 for fiscal year 1987”.
 
-1985—Subsec. (a)(1). Pub. L. 99–83 substituted provisions relating to amounts authorized, percentages, and covered programs for fiscal years 1986 and 1987, for provisions relating to amounts authorized, percentages, and covered programs for fiscal years 1982 and 1983.
+<b>1985</b>—Subsec. (a)(1). Pub. L. 99–83 substituted provisions relating to amounts authorized, percentages, and covered programs for fiscal years 1986 and 1987, for provisions relating to amounts authorized, percentages, and covered programs for fiscal years 1982 and 1983.
 
-1981—Subsec. (a)(1). Pub. L. 97–113 substituted appropriations of $218,600,000 for fiscal years 1982 and 1983 for appropriation of $233,350,000 for fiscal year 1981 and added cls. (A) to (E).
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–113 substituted appropriations of $218,600,000 for fiscal years 1982 and 1983 for appropriation of $233,350,000 for fiscal year 1981 and added cls. (A) to (E).
 
 Subsec. (a)(3). Pub. L. 97–113 struck out par. (3) which prohibited, for fiscal year 1979, funding of the United Nations Institute for Namibia unless the President found that the money would not be used for Southwest African Peoples Organization.
 
-1980—Subsec. (a)(1). Pub. L. 96–533 substituted appropriations authorization of $233,350,000 for fiscal year 1981 for prior authorization of $267,280,000 for fiscal year 1980, including $42,500,000 of this amount for voluntary contributions to the United Nations Relief and Works Agency for Palestine Refugees, increasable to $52,000,000 upon certification of the President to Congress that members of Organization of Petroleum Exporting Countries have made equivalent matching contributions.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–533 substituted appropriations authorization of $233,350,000 for fiscal year 1981 for prior authorization of $267,280,000 for fiscal year 1980, including $42,500,000 of this amount for voluntary contributions to the United Nations Relief and Works Agency for Palestine Refugees, increasable to $52,000,000 upon certification of the President to Congress that members of Organization of Petroleum Exporting Countries have made equivalent matching contributions.
 
-1979—Subsec. (a)(1). Pub. L. 96–53 substituted provisions authorizing appropriations of $267,280,000 for fiscal year 1980, for provisions authorizing appropriations of $285,450,000 for fiscal year 1979 and provisions respecting availability of funds for United Nations Trust Fund on South Africa, and the Namibia Institute, and availability of appropriations for fiscal year 1978.
+<b>1979</b>—Subsec. (a)(1). Pub. L. 96–53 substituted provisions authorizing appropriations of $267,280,000 for fiscal year 1980, for provisions authorizing appropriations of $285,450,000 for fiscal year 1979 and provisions respecting availability of funds for United Nations Trust Fund on South Africa, and the Namibia Institute, and availability of appropriations for fiscal year 1978.
 
-1978—Subsec. (a)(1). Pub. L. 95–424, §117(a), (b)(1), substituted “$285,450,000 for the fiscal year 1979 of which not to exceed $300,000 shall be available for contributions to the United Nations Trust Fund on South Africa” for “for the fiscal year 1977, $219,900,000 and for the fiscal year 1978, $252,000,000”; substituted “fiscal year 1978, not to exceed $52,000,000” for “fiscal year 1978, not to exceed $42,500,000”, and inserted provision relating to voluntary contributions to the United Nations Relief and Works Agency for Palestine Refugees.
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–424, §117(a), (b)(1), substituted “$285,450,000 for the fiscal year 1979 of which not to exceed $300,000 shall be available for contributions to the United Nations Trust Fund on South Africa” for “for the fiscal year 1977, $219,900,000 and for the fiscal year 1978, $252,000,000”; substituted “fiscal year 1978, not to exceed $52,000,000” for “fiscal year 1978, not to exceed $42,500,000”, and inserted provision relating to voluntary contributions to the United Nations Relief and Works Agency for Palestine Refugees.
 
 Subsec. (a)(3). Pub. L. 95–424, §117(c), added par. (3).
 
@@ -138,11 +138,11 @@ Subsec. (g). Pub. L. 95–424, §604, struck out subsec. (g) which related to av
 
 Subsec. (h). Pub. L. 95–424, §604, struck out subsec. (h) which related to prohibition of expenditures for the United Nations Educational, Scientific, and Cultural Organization.
 
-1977—Subsec. (a)(1). Pub. L. 95–88 struck out provisions which authorized appropriations of $127,822,000 for fiscal year 1974, $165,000,000 for fiscal year 1975, and $194,500,000 for fiscal year 1976, inserted provisions authorizing an appropriation of $252,000,000 for fiscal year 1978, and inserted requirement that, of the funds authorized to be appropriated under subsec. (a) for fiscal year 1978, not to exceed $42,500,000 be available for voluntary contributions to the United Nations Relief and Works Agency for Palestine Refugees.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–88 struck out provisions which authorized appropriations of $127,822,000 for fiscal year 1974, $165,000,000 for fiscal year 1975, and $194,500,000 for fiscal year 1976, inserted provisions authorizing an appropriation of $252,000,000 for fiscal year 1978, and inserted requirement that, of the funds authorized to be appropriated under subsec. (a) for fiscal year 1978, not to exceed $42,500,000 be available for voluntary contributions to the United Nations Relief and Works Agency for Palestine Refugees.
 
-1976—Subsec. (i). Pub. L. 94–329 added subsec. (i).
+<b>1976</b>—Subsec. (i). Pub. L. 94–329 added subsec. (i).
 
-1975—Subsec. (a)(1). Pub. L. 94–161, §313(a)(1)(A), (B), authorized appropriations of $194,500,000 and $219,900,000 for fiscal years 1976 and 1977, required maximum contribution of $250,000 to be made to the Namibia Institute, and designated existing provisions as par. (1).
+<b>1975</b>—Subsec. (a)(1). Pub. L. 94–161, §313(a)(1)(A), (B), authorized appropriations of $194,500,000 and $219,900,000 for fiscal years 1976 and 1977, required maximum contribution of $250,000 to be made to the Namibia Institute, and designated existing provisions as par. (1).
 
 Subsec. (a)(2). Pub. L. 94–161, §313(a)(1)(C), added par. (2).
 
@@ -152,11 +152,11 @@ Subsec. (b)(2). Pub. L. 94–161, §313(a)(3), authorized appropriations of $27,
 
 Subsec. (d). Pub. L. 94–161, §313(a)(4), substituted appropriations authorization of $20,000,000 for fiscal years 1976 and 1977, for prior appropriations authorization of $18,000,000 for fiscal years 1974 and 1975.
 
-1974—Subsec. (a). Pub. L. 93–559, §9(a)(1), increased appropriations authorization for fiscal year 1975 to $165,000,000 from $150,000,000.
+<b>1974</b>—Subsec. (a). Pub. L. 93–559, §9(a)(1), increased appropriations authorization for fiscal year 1975 to $165,000,000 from $150,000,000.
 
 Subsecs. (g), (h). Pub. L. 93–559, §9(a)(2), added subsecs. (g) and (h).
 
-1973—Subsec. (a). Pub. L. 93–189, §9(2), substituted “for the fiscal year 1974, $127,822,000 and for the fiscal year 1975, $150,000,000”, for “for the fiscal year 1972, $138,000,000 and for the fiscal year 1973, $138,000,000”.
+<b>1973</b>—Subsec. (a). Pub. L. 93–189, §9(2), substituted “for the fiscal year 1974, $127,822,000 and for the fiscal year 1975, $150,000,000”, for “for the fiscal year 1972, $138,000,000 and for the fiscal year 1973, $138,000,000”.
 
 Subsec. (b)(2). Pub. L. 93–189, §9(3), substituted “for use in the fiscal year 1974, $14,500,000, and for use in the fiscal year 1975, $14,500,000”, for “for use in the fiscal year 1972, $15,000,000, and for use in the fiscal year 1973, $15,000,000”.
 
@@ -164,7 +164,7 @@ Subsec. (d). Pub. L. 93–189, §9(4), substituted provisions directing that out
 
 Subsec. (e). Pub. L. 93–189, §9(5), substituted “$2,000,000 for the fiscal year 1974 and $2,000,000 for the fiscal year 1975”, for “$1,000,000 for the fiscal year 1972 and $1,000,000 for the fiscal year 1973”.
 
-1972—Subsec. (a). Pub. L. 92–226, §107(a), authorized appropriations of $138,000,000 for fiscal years 1972 and 1973, and struck out provisions for authorization of $122,620,000 for fiscal years 1970 and 1971.
+<b>1972</b>—Subsec. (a). Pub. L. 92–226, §107(a), authorized appropriations of $138,000,000 for fiscal years 1972 and 1973, and struck out provisions for authorization of $122,620,000 for fiscal years 1970 and 1971.
 
 Subsec. (b)(2). Pub. L. 92–226, §107(b), authorized appropriations of $15,000,000 for fiscal years 1972 and 1973, and struck out provision for authorization of $7,530,000 for fiscal years 1970 and 1971; and prohibited the President from exercising any special authority to transfer any amount appropriated under par. (2) to, and to consolidate such amount with, any funds made available under any other provision of this chapter.
 
@@ -172,29 +172,29 @@ Subsec. (e). Pub. L. 92–226, §107(c), authorized appropriations of $1,000,000
 
 Subsec. (f). Pub. L. 92–226, §107(d), added subsec. (f).
 
-1969—Subsec. (a). Pub. L. 91–175, §108(b), substituted “fiscal year 1970, $122,620,000, and for the fiscal year 1971, $122,620,000” for “fiscal year 1969, $135,000,000”.
+<b>1969</b>—Subsec. (a). Pub. L. 91–175, §108(b), substituted “fiscal year 1970, $122,620,000, and for the fiscal year 1971, $122,620,000” for “fiscal year 1969, $135,000,000”.
 
 Subsec. (b). Pub. L. 91–175, §108(c), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (e). Pub. L. 91–175, §108(d), added subsec. (e).
 
-1968—Subsec. (a). Pub. L. 90–554, §108(a), substituted authorization of $135,000,000 for fiscal year 1969, for authorization of $141,000,000 for fiscal year 1968.
+<b>1968</b>—Subsec. (a). Pub. L. 90–554, §108(a), substituted authorization of $135,000,000 for fiscal year 1969, for authorization of $141,000,000 for fiscal year 1968.
 
 Subsec. (d). Pub. L. 90–554, §108(b), added subsec. (d).
 
-1967—Subsec. (a). Pub. L. 90–137, §110(b)(1), substituted authorization of $141,000,000 for fiscal year 1968, for authorization of $140,433,000, for fiscal year 1967.
+<b>1967</b>—Subsec. (a). Pub. L. 90–137, §110(b)(1), substituted authorization of $141,000,000 for fiscal year 1968, for authorization of $140,433,000, for fiscal year 1967.
 
 Subsec. (b). Pub. L. 90–137, §110(b)(2), substituted appropriation authorization of $51,220,000 for fiscal year 1969, for Indus Basin Development for appropriations authorization of $1,000,000 for fiscal year 1967, for contributions to United Nations Children's Fund during calendar year 1967 and for exclusion of such contributions from computation of aggregate amount of United States contributions to the fund during calendar year 1967.
 
-1966—Subsec. (a). Pub. L. 89–583 designated existing provisions as subsec. (a) and (c), substituted in subsec. (a) “grants” for “use” and authorization of $140,433,000 for fiscal year 1967 for authorization of $144,755,000 for fiscal year 1966, and added subsec. (b).
+<b>1966</b>—Subsec. (a). Pub. L. 89–583 designated existing provisions as subsec. (a) and (c), substituted in subsec. (a) “grants” for “use” and authorization of $140,433,000 for fiscal year 1967 for authorization of $144,755,000 for fiscal year 1966, and added subsec. (b).
 
-1965—Pub. L. 89–171 substituted “1966” and “$144,755,000” for “1965” and “$134,272,400”, respectively.
+<b>1965</b>—Pub. L. 89–171 substituted “1966” and “$144,755,000” for “1965” and “$134,272,400”, respectively.
 
-1964—Pub. L. 88–633 substituted “1965” and “$134,272,400” for “1964” and “$136,050,000”, respectively, and prohibited contribution of funds for payment of costs of volunteer manpower programs.
+<b>1964</b>—Pub. L. 88–633 substituted “1965” and “$134,272,400” for “1964” and “$136,050,000”, respectively, and prohibited contribution of funds for payment of costs of volunteer manpower programs.
 
-1963—Pub. L. 88–205 substituted “1964” and “$136,050,000” for “1963” and “$148,900,000”, respectively.
+<b>1963</b>—Pub. L. 88–205 substituted “1964” and “$136,050,000” for “1963” and “$148,900,000”, respectively.
 
-1962—Pub. L. 87–565 substituted “1963” and “$148,900,000” for “1962” and “$153,500,000”, respectively.
+<b>1962</b>—Pub. L. 87–565 substituted “1963” and “$148,900,000” for “1962” and “$153,500,000”, respectively.
 
 #### Effective Date of 1985 Amendment
 

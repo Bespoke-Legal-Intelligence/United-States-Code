@@ -40,7 +40,7 @@ Subject to subsection (c) of this section, in order to assist eligible recipient
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–373, §203(a), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
+<b>2004</b>—Subsec. (b). Pub. L. 108–373, §203(a), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 
 “(1)
 

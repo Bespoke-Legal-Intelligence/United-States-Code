@@ -76,7 +76,11 @@ Mar. 16, 1950, ch. 62, §§4 (1st–7th sentences), 5, 64 Stat. 23, 24; Aug. 14,
 
 &nbsp;
 
-80303(c)D36:34 (4th sentence words after 1st comma).D&nbsp;
+80303(c)
+
+36:34 (4th sentence words after 1st comma).
+
+&nbsp;
 
 80303(d)
 

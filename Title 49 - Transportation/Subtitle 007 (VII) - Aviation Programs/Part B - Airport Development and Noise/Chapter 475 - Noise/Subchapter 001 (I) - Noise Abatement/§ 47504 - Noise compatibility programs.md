@@ -22,7 +22,7 @@ Submissions.—(1) An airport operator that submitted a noise exposure map and r
 
 (b)
 
-Approvals.—(1) The Secretary shall approve or disapprove a program submitted under subsection (a) of this section (except as the program is related to flight procedures referred to in subsection (a)(2)(D) of this section) not later than 180 days after receiving it. The Secretary shall approve the program (except as the program is related to flight procedures referred to in subsection (a)(2)(D)) if the program—
+Approvals.—(1) The Secretary shall approve or disapprove a program submitted under subsection (a) of this section (except as the program is related to flight procedures referred to in subsection (a)(2)(D) of this section) not later than 180 days after receiving it. The Secretaryshall approve the program (except as the program is related to flight procedures referred to in subsection (a)(2)(D)) if the program—
 
 &emsp;(A) does not place an unreasonable burden on interstate or foreign commerce;
 
@@ -56,7 +56,7 @@ Soundproofing and acquisition of certain residential buildings and properties.�
 
 &emsp;&emsp;(iii) if the Secretary determines that the proposed projects are compatible with the purposes of this chapter;
 
-&emsp;(B) to an airport operator and unit of local government referred to in paragraph (1)(A) or\(1)(B) of this subsection to soundproof residential buildings located on residential properties, and to acquire residential properties, at which noise levels are not compatible with normal operations of an airport—
+&emsp;(B) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to soundproof residential buildings located on residential properties, and to acquire residential properties, at which noise levels are not compatible with normal operations of an airport—
 
 &emsp;&emsp;(i) if the airport operator amended an existing local aircraft noise regulation during calendar year 1993 to increase the maximum permitted noise levels for scheduled air carrier aircraft as a direct result of implementation of revised aircraft noise departure procedures mandated for aircraft safety purposes by the Administrator of the Federal Aviation Administration for standardized application at airports served by scheduled air carriers;
 
@@ -144,7 +144,7 @@ In subsection (c)(1), before clause (A), the words “incur obligations to” an
 
 In subsection (c)(2), the words “in turn” are omitted as surplus.
 
-In subsection (c)(4), before clause (A), the words “All of” and “made under section 505 of that Act” are omitted as surplus. The word “except” is substituted for“unless” for clarity. In clause (1), the words “relating to United States share of project costs” are omitted as surplus. In clause (2), the words “the purposes of” are omitted as surplus.
+In subsection (c)(4), before clause (A), the words “All of” and “made under section 505 of that Act” are omitted as surplus. The word “except” is substituted for “unless” for clarity. In clause (1), the words “relating to United States share of project costs” are omitted as surplus. In clause (2), the words “the purposes of” are omitted as surplus.
 
 In subsection (d), the words “by the Secretary or the Administrator of the Federal Aviation Administration” are omitted as surplus.
 
@@ -158,13 +158,13 @@ Section 301(d)(4)(B) of the Airport and Airway Safety and Capacity Expansion Act
 
 #### Amendments
 
-2003—Subsec. (b)(4). Pub. L. 108–176, §189, added par. (4).
+<b>2003</b>—Subsec. (b)(4). Pub. L. 108–176, §189, added par. (4).
 
 Subsec. (c)(2)(C)–(E). Pub. L. 108–176, §306, realigned margins of subpars. (C) and (D) and added subpar. (E).
 
-2000—Subsec. (c)(6). Pub. L. 106–181 added par. (6).
+<b>2000</b>—Subsec. (c)(6). Pub. L. 106–181 added par. (6).
 
-1994—Subsec. (c)(1)(A). Pub. L. 103–429, §6(71)(A), inserted “and” after semicolon at end.
+<b>1994</b>—Subsec. (c)(1)(A). Pub. L. 103–429, §6(71)(A), inserted “and” after semicolon at end.
 
 Subsec. (c)(1)(B). Pub. L. 103–429, §6(71)(B), substituted a period for semicolon at end.
 

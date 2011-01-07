@@ -21,9 +21,9 @@ Thirty years later, the 1910 Act was amended by the Motorboat Act of 1940 (Publi
 
 #### Amendments
 
-1990—Pub. L. 101–595, title VI, §603(3)(B), Nov. 16, 1990, 104 Stat. 2993, struck out item 4104 “Regulations”.
+<b>1990</b>—Pub. L. 101–595, title VI, §603(3)(B), Nov. 16, 1990, 104 Stat. 2993, struck out item 4104 “Regulations”.
 
-1984—Pub. L. 98–364, title IV, §402(7)(B), July 17, 1984, 98 Stat. 446, inserted “GENERALLY” in chapter heading.
+<b>1984</b>—Pub. L. 98–364, title IV, §402(7)(B), July 17, 1984, 98 Stat. 446, inserted “GENERALLY” in chapter heading.
 
 
 ---

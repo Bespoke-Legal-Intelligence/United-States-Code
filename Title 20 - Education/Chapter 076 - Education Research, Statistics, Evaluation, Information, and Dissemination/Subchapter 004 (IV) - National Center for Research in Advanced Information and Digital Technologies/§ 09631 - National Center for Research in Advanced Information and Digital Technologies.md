@@ -60,7 +60,7 @@ The purpose of the Center shall be to support a comprehensive research and devel
 
 #### (5) Organization and operation
 
-&emsp;The Board shall incorporate and operate the Center in accordance with the laws governingtax exempt organizations in the District of Columbia.
+&emsp;The Board shall incorporate and operate the Center in accordance with the laws governing tax exempt organizations in the District of Columbia.
 
 #### (e) Director and staff
 
@@ -132,7 +132,7 @@ The purpose of the Center shall be to support a comprehensive research and devel
 
 &emsp;&emsp;&emsp;(i) a comprehensive and detailed report of the Center's operations, activities, financial condition, and accomplishments, and such recommendations as the Director determines appropriate;
 
-&emsp;&emsp;&emsp;(ii) evidence of coordination with the Department of Education, the National Science Foundation, Office of the Director of Defense Research and Engineering in the Department of Defense, and other related Federal agencies to carry out the operations and activities of the Center;
+&emsp;&emsp;&emsp;(ii) evidence of coordination with the Department of Education, the National Science Foundation, Office of the Assistant Secretary of Defense for Research and Engineering in the Department of Defense, and other related Federal agencies to carry out the operations and activities of the Center;
 
 &emsp;&emsp;&emsp;(iii) a comprehensive and detailed inventory of funds distributed from the Center during the fiscal year for which the report is being prepared; and
 
@@ -148,7 +148,7 @@ The purpose of the Center shall be to support a comprehensive research and devel
 
 #### (2) Testimony
 
-&emsp;The Director and principal officers of the Center shall testify before the authorizingcommittees and the Committees on Appropriations of the House of Representatives and the Senate, upon request of such committees, with respect to—
+&emsp;The Director and principal officers of the Center shall testify before the authorizing committees and the Committees on Appropriations of the House of Representatives and the Senate, upon request of such committees, with respect to—
 
 &emsp;&emsp;(A) any report required under paragraph (1)(A); and
 
@@ -178,7 +178,7 @@ For purposes of this section:
 
 &emsp;The term “Director” means the Director of the Center appointed under subsection (e)(1).
 
-(Pub. L. 110–315, title VIII, §802, Aug. 14, 2008, 122 Stat. 3446.)
+(Pub. L. 110–315, title VIII, §802, Aug. 14, 2008, 122 Stat. 3446; Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317.)
 
 #### References in Text
 
@@ -187,4 +187,8 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a), 
 #### Codification
 
 Section was enacted as part of the Higher Education Opportunity Act, and not as part of Pub. L. 107–279 which comprises this chapter.
+
+#### Change of Name
+
+“Assistant Secretary of Defense for Research and Engineering” substituted for “Director of Defense Research and Engineering” in subsec. (g)(1)(B)(ii) on authority of section 901(a) of Pub. L. 111–383, set out as a note under section 131 of Title 10, Armed Forces.
 

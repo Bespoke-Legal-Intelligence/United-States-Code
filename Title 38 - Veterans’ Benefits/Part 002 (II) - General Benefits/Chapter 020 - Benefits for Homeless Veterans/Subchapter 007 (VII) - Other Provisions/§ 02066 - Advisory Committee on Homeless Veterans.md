@@ -104,11 +104,11 @@ Termination.—The Committee shall cease to exist December 30, 2011.
 
 #### References in Text
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(3)(F), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Title II of the Act is classified generally to subchapter II (§11311 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(3)(F), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Title II of the Act is classified generally to subchapter II (§11311 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, seeShort Title note set out under section 11301 of Title 42 and Tables.
 
 #### Amendments
 
-2006—Subsec. (a)(3)(E) to (G). Pub. L. 109–461, §709(a), added subpars. (E) to (G).
+<b>2006</b>—Subsec. (a)(3)(E) to (G). Pub. L. 109–461, §709(a), added subpars. (E) to (G).
 
 Subsec. (d). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 

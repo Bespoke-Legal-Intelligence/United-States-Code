@@ -1,6 +1,6 @@
 ### §2514. Forfeiture of fraudulent claims
 
-A claim against the United States shall be forfeited to the United States by any person who corruptly practices or attempts to practice any fraud against the United States in the proof, statement, establishment, or allowance thereof.
+A claim against the United States shall be forfeited to the United States by any person whocorruptly practices or attempts to practice any fraud against the United States in the proof, statement, establishment, or allowance thereof.
 
 In such cases the United States Court of Federal Claims shall specifically find such fraud or attempt and render judgment of forfeiture.
 
@@ -20,9 +20,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
 #### Effective Date of 1992 Amendment
 

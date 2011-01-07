@@ -20,7 +20,7 @@ No grant may be made under this subchapter unless an application has been submit
 
 #### Amendments
 
-2000—Par. (3). Pub. L. 106–546 substituted “semiannual” for “, at regular intervals not exceeding 180 days,”.
+<b>2000</b>—Par. (3). Pub. L. 106–546 substituted “semiannual” for “, at regular intervals not exceeding 180 days,”.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

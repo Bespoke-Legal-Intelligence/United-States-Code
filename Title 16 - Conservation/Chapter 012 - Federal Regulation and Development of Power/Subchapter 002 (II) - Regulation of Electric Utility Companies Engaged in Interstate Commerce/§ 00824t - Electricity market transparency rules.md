@@ -12,7 +12,7 @@
 
 &emsp;(B) rely on entities other than the Commission to receive and make public the information, subject to the disclosure rules in subsection (b) of this section.
 
-(4) In carrying out this section, the Commission shall consider the degree of price transparency provided by existing price publishers and providers of trade processing services, and shall rely on such publishers and services to the maximum extent possible. The Commission may establish an electronic information system if it determines that existing price publications are not adequately providing price discovery or market transparency. Nothing in this section, however, shall affect any electronic information filing requirements in effect under this chapter as of August 8, 2005.
+(4) In carrying out this section, the Commission shall consider the degree of price transparency provided by existing price publishers and providers of trade processing services, and shall rely on such publishers and services to the maximum extent possible. The Commission may establish an electronic information system if it determines that existing price publications arenot adequately providing price discovery or market transparency. Nothing in this section, however, shall affect any electronic information filing requirements in effect under this chapter as of August 8, 2005.
 
 #### (b) Exemption of information from disclosure
 
@@ -44,5 +44,5 @@ This section shall not apply to a transaction for the purchase or sale of wholes
 
 #### References in Text
 
-The Commodity Exchange Act, referred to in subsec. (c)(2), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, asamended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in subsec. (c)(2), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 

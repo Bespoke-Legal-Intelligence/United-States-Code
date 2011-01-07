@@ -39,37 +39,37 @@
 
 #### Amendments
 
-2009—Pub. L. 111–84, div. A, title V, §528(b), Oct. 28, 2009, 123 Stat. 2290, added item 9362.
+<b>2009</b>—Pub. L. 111–84, div. A, title V, §528(b), Oct. 28, 2009, 123 Stat. 2290, added item 9362.
 
-2008—Pub. L. 110–417, \[div. A\], title V, §541(c)(2), Oct. 14, 2008, 122 Stat. 4456, added item 9345a.
+<b>2008</b>—Pub. L. 110–417, \[div. A\], title V, §541(c)(2), Oct. 14, 2008, 122 Stat. 4456, added item 9345a.
 
-2006—Pub. L. 109–364, div. A, title X, §1071(g)(2), Oct. 17, 2006, 120 Stat. 2402, made technical correction to directory language of Pub. L. 108–375, §544(c)(2). See 2004 Amendment note below.
+<b>2006</b>—Pub. L. 109–364, div. A, title X, §1071(g)(2), Oct. 17, 2006, 120 Stat. 2402, made technical correction to directory language of Pub. L. 108–375, §544(c)(2). See 2004 Amendment note below.
 
 Pub. L. 109–364, div. A, title V, §532(d)(3), Oct. 17, 2006, 120 Stat. 2206, added item 9361.
 
-2004—Pub. L. 108–375, div. A, title V, §545(c)(2), Oct. 28, 2004, 118 Stat. 1909, added item 9360.
+<b>2004</b>—Pub. L. 108–375, div. A, title V, §545(c)(2), Oct. 28, 2004, 118 Stat. 1909, added item 9360.
 
 Pub. L. 108–375, div. A, title V, §544(c)(2), Oct. 28, 2004, 118 Stat. 1907, as amended by Pub. L. 109–364, div. A, title X, §1071(g)(2), Oct. 17, 2006, 120 Stat. 2402, added item 9359.
 
-1999—Pub. L. 106–65, div. A, title V, §532(a)(4)(F), div. B, title XXVIII, §2871(c)(2), Oct. 5, 1999, 113 Stat. 604, 877, added items 9333a and 9356.
+<b>1999</b>—Pub. L. 106–65, div. A, title V, §532(a)(4)(F), div. B, title XXVIII, §2871(c)(2), Oct. 5, 1999, 113 Stat. 604, 877, added items 9333a and 9356.
 
-1998—Pub. L. 105–261, div. A, title X, §1063(c)(2), Oct. 17, 1998, 112 Stat. 2132, added item 9357.
+<b>1998</b>—Pub. L. 105–261, div. A, title X, §1063(c)(2), Oct. 17, 1998, 112 Stat. 2132, added item 9357.
 
-1997—Pub. L. 105–85, div. A, title V, §542(c)(2), Nov. 18, 1997, 111 Stat. 1743, added item 9345.
+<b>1997</b>—Pub. L. 105–85, div. A, title V, §542(c)(2), Nov. 18, 1997, 111 Stat. 1743, added item 9345.
 
-1996—Pub. L. 104–106, div. A, title V, §533(c)(2), Feb. 10, 1996, 110 Stat. 315, struck out item 9356 “Athletics program: athletic director; nonappropriated fund account”.
+<b>1996</b>—Pub. L. 104–106, div. A, title V, §533(c)(2), Feb. 10, 1996, 110 Stat. 315, struck out item 9356 “Athletics program: athletic director; nonappropriated fund account”.
 
-1994—Pub. L. 103–337, div. A, title V, §556(c)(2), Oct. 5, 1994, 108 Stat. 2775, added item 9356.
+<b>1994</b>—Pub. L. 103–337, div. A, title V, §556(c)(2), Oct. 5, 1994, 108 Stat. 2775, added item 9356.
 
-1993—Pub. L. 103–160, div. A, title V, §533(b)(2), Nov. 30, 1993, 107 Stat. 1658, added item 9338.
+<b>1993</b>—Pub. L. 103–160, div. A, title V, §533(b)(2), Nov. 30, 1993, 107 Stat. 1658, added item 9338.
 
-1989—Pub. L. 101–189, div. A, title V, §515(b)(2), Nov. 29, 1989, 103 Stat. 1441, substituted “director of admissions” for “registrar” in item 9336.
+<b>1989</b>—Pub. L. 101–189, div. A, title V, §515(b)(2), Nov. 29, 1989, 103 Stat. 1441, substituted “director of admissions” for “registrar” in item 9336.
 
-1983—Pub. L. 98–94, title X, §1004(c)(3), Sept. 24, 1983, 97 Stat. 660, substituted “Selection of persons from foreign countries” for “Selection of persons from Canada and American Republics” in item 9344, and struck out item 9345 “Selection of Filipinos”.
+<b>1983</b>—Pub. L. 98–94, title X, §1004(c)(3), Sept. 24, 1983, 97 Stat. 660, substituted “Selection of persons from foreign countries” for “Selection of persons from Canada and American Republics” in item 9344, and struck out item 9345 “Selection of Filipinos”.
 
-1981—Pub. L. 97–60, title II, §203(c)(2)(B), Oct. 14, 1981, 95 Stat. 1006, added item 9341a.
+<b>1981</b>—Pub. L. 97–60, title II, §203(c)(2)(B), Oct. 14, 1981, 95 Stat. 1006, added item 9341a.
 
-1958—Pub. L. 85–600, §1(23), Aug. 6, 1958, 72 Stat. 524, inserted “; registrar” in item 9336.
+<b>1958</b>—Pub. L. 85–600, §1(23), Aug. 6, 1958, 72 Stat. 524, inserted “; registrar” in item 9336.
 
 
 ---

@@ -144,17 +144,13 @@ The Director of the Congressional Research Service will submit to the Librarian 
 
 #### (i) Special report to Joint Committee on the Library
 
-The Director of the Congressional Research Service shall prepare and file with the Joint Committee on the Library at the beginning of each regular session of Congress a separate and special report covering, in summary and in detail, all phases of activity of the CongressionalResearch Service for the immediately preceding fiscal year.
+The Director of the Congressional Research Service shall prepare and file with the Joint Committee on the Library at the beginning of each regular session of Congress a separate and special report covering, in summary and in detail, all phases of activity of the Congressional Research Service for the immediately preceding fiscal year.
 
 #### (j) Authorization of appropriations
 
 There are hereby authorized to be appropriated to the Congressional Research Service each fiscal year such sums as may be necessary to carry on the work of the Service.
 
 (Aug. 2, 1946, ch. 753, title II, §203, 60 Stat. 836; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 91–510, title III, §321(a), Oct. 26, 1970, 84 Stat. 1181; Pub. L. 99–190, §133, Dec. 19, 1985, 99 Stat. 1322; Pub. L. 106–57, title II, §209(b), Sept. 29, 1999, 113 Stat. 424.)
-
-#### References in Text
-
-The civil service laws, referred to in subsec. (c)(3), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of that title.
 
 #### Amendments
 
@@ -184,7 +180,7 @@ Amendment by Pub. L. 106–57 applicable with respect to the first pay period wh
 
 #### Effective Date of 1970 Amendment
 
-Amendment of provisions, other than enactment of subsecs. (d)(2), (3) and (i) of this section, and enactment of subsecs. (d)(2), (3) and (i) by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, at the close of the first session of the Ninety-second Congress, and with respect to fiscal years beginning on or after July 1, 1970, respectively, see section 601(1), (3), and (4) ofPub. L. 91–510, set out as a note under section 72a of this title.
+Amendment of provisions, other than enactment of subsecs. (d)(2), (3) and (i) of this section, and enactment of subsecs. (d)(2), (3) and (i) by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, at the close of the first session of the Ninety-second Congress, and with respect to fiscal years beginning on or after July 1, 1970, respectively, see section 601(1), (3), and (4) of Pub. L. 91–510, set out as a note under section 72a of this title.
 
 #### Effective Date
 

@@ -52,15 +52,15 @@ The tax imposed by subsection (a) shall not apply to—
 
 #### Amendments
 
-1992—Subsec. (b)(1). Pub. L. 102–486 struck out “or the alternative tax energy preference deduction under section 56(h)” after “section 56(d))”.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–486 struck out “or the alternative tax energy preference deduction under section 56(h)” after “section 56(d))”.
 
-1990—Subsec. (b)(1). Pub. L. 101–508, §11531(b)(3), inserted before comma “or the alternative tax energy preference deduction under section 56(h)”.
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–508, §11531(b)(3), inserted before comma “or the alternative tax energy preference deduction under section 56(h)”.
 
 Subsec. (b)(2). Pub. L. 101–508, §11801(c)(2)(E), struck out “(and the last sentence of section 56(f)(2)(B))” after “section 164(a)(5)”.
 
 Subsec. (e)(1). Pub. L. 101–508, §11231(a)(1)(A), substituted “January 1, 1996” for “January 1, 1992”.
 
-1988—Subsec. (b)(2). Pub. L. 100–647, §2001(c)(3)(B), inserted “(and the last sentence of section 56(f)(2)(B))” before period at end.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–647, §2001(c)(3)(B), inserted “(and the last sentence of section 56(f)(2)(B))” before period at end.
 
 Subsecs. (c) to (e). Pub. L. 100–647, §2001(c)(1), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
@@ -82,5 +82,5 @@ Section applicable to taxable years beginning after Dec. 31, 1986, see section 5
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11801 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990,see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by section 11801 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

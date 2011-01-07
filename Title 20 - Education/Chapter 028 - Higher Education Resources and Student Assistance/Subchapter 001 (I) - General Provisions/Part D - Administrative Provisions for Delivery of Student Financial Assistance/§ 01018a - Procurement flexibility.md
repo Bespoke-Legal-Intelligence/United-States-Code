@@ -40,7 +40,7 @@ Except as provided in this section, the PBO shall abide by all applicable Federa
 
 #### (A) Publication of notice
 
-&emsp;&emsp;The contracting officer for the procurement shall publish a notice of the procurement in accordance with section 416 of title 41 and subsections (e), (f), and (g) of section 637 of title 15, except that the notice shall include only the following:
+&emsp;&emsp;The contracting officer for the procurement shall publish a notice of the procurement in accordance with section 1708 of title 41 and subsections (e), (f), and (g) of section 637 of title 15, except that the notice shall include only the following:
 
 &emsp;&emsp;&emsp;(i) A general description of the scope or purpose of the procurement that provides sufficient information on the scope or purpose for sources to make informed business decisions regarding whether to participate in the procurement.
 
@@ -62,7 +62,7 @@ Except as provided in this section, the PBO shall abide by all applicable Federa
 
 #### (A) In general
 
-&emsp;&emsp;The contracting officer shall conduct the second phase of the source selection process in accordance with sections 253a and 253b of title 41.
+&emsp;&emsp;The contracting officer shall conduct the second phase of the source selection process in accordance with sections 3306(a) to (e) and 3308, chapter 37, and section 4702 of title 41.
 
 #### (B) Eligible participants
 
@@ -90,7 +90,7 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 &emsp;In carrying out a procurement, the PBO may—
 
-&emsp;&emsp;(A) apply a shorter waiting period for the issuance of a solicitation after the publication of a notice under section 416 of title 41 than is required under subsection (a)(3)(A) of such section; and
+&emsp;&emsp;(A) apply a shorter waiting period for the issuance of a solicitation after the publication of a notice under section 1708 of title 41 than is required under subsection (a)(3)(A) of such section; and
 
 &emsp;&emsp;(B) notwithstanding subsection (a)(3) of such section, establish any deadline for the submission of bids or proposals that affords potential offerors a reasonable opportunity to respond to the solicitation.
 
@@ -158,11 +158,11 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 #### (C) Content of notice
 
-&emsp;&emsp;A notice published under subparagraph (A) with respect to a use of procedures described in paragraph (4) shall contain the information required under section 416(b) of title 41, other than paragraph (4) of such section, and shall invite the submission of any assertion that the use of the procedures for the procurement involved is not in the best interest of the Federal Government together with information supporting the assertion.
+&emsp;&emsp;A notice published under subparagraph (A) with respect to a use of procedures described in paragraph (4) shall contain the information required under section 1708(c) of title 41, other than paragraph (4) of such section, and shall invite the submission of any assertion that the use of the procedures for the procurement involved is not in the best interest of the Federal Government together with information supporting the assertion.
 
 #### (6) Documentation
 
-&emsp;The basis for an award of a contract under this subsection shall be documented. However, a justification pursuant to section 253(f) of title 41 or section 637(h) of title 15 is not required.
+&emsp;The basis for an award of a contract under this subsection shall be documented. However, a justification pursuant to section 3304(e) oftitle 41 or section 637(h) of title 15 is not required.
 
 #### (7) Simplified source-selection procedures
 
@@ -200,7 +200,7 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 #### (3) Compliance with OFPP guidance
 
-&emsp;The head of the PBO shall ensure that the procurements of the PBO under this sectionare carried out in a manner that is consistent with the guidance provided for the PBO under paragraph (2).
+&emsp;The head of the PBO shall ensure that the procurements of the PBO under this section are carried out in a manner that is consistent with the guidance provided for the PBO under paragraph (2).
 
 #### (j) Limitation on multiagency contracting
 
@@ -216,11 +216,11 @@ In this section:
 
 #### (1) Commercial item
 
-&emsp;The term “commercial item” has the meaning given the term in section 403(12) of title 41.
+&emsp;The term “commercial item” has the meaning given the term in section 103 of title 41.
 
 #### (2) Competitive procedures
 
-&emsp;The term “competitive procedures” has the meaning given the term in section 259(b) of title 41.
+&emsp;The term “competitive procedures” has the meaning given the term in section 152 of title 41.
 
 #### (3) Single-source basis
 
@@ -228,11 +228,11 @@ In this section:
 
 #### (4) Special rules for commercial items
 
-&emsp;The term “special rules for commercial items” means the regulations set forth in the Federal Acquisition Regulation pursuant to section 253(g)(1) of title 41 and section 427 of title 41.
+&emsp;The term “special rules for commercial items” means the regulations set forth in the Federal Acquisition Regulation pursuant to sections 1901 and 3305(a) of title 41.
 
 #### (5) Special simplified procedures
 
-&emsp;The term “special simplified procedures” means the procedures applicable to purchases of property and services for amounts not greater than the simplified acquisition threshold that are set forth in the Federal Acquisition Regulation pursuant to section 253(g)(1)(B) of title 41 and section 427(a)(1) of title 41.
+&emsp;The term “special simplified procedures” means the procedures applicable to purchases of property and services for amounts not greater than the simplified acquisition threshold that are set forth in the Federal Acquisition Regulation pursuant to sections 1901(a)(1) and 3305(a)(1) of title 41.
 
 (Pub. L. 89–329, title I, §142, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1611; amended Pub. L. 110–315, title I, §118, Aug. 14, 2008, 122 Stat. 3116.)
 
@@ -240,13 +240,33 @@ In this section:
 
 Section 4202(e) of the Clinger-Cohen Act of 1996, referred to in subsec. (e)(2), is section 4202(e) of Pub. L. 104–106, which is set out as a note under section 2304 of Title 10, Armed Forces.
 
+#### Codification
+
+In subsec. (d)(2)(A), “section 1708 of title 41” substituted for “section 18 of the Office of Federal Procurement Policy Act (41 U.S.C. 416)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (d)(3)(A), “sections 3306(a) to (e) and 3308, chapter 37, and section 4702 of title 41” substituted for “sections 303A and 303B of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253a and 253b)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (f)(1)(A), “section 1708 of title 41” substituted for “section 18 of the Office of Federal Procurement Policy Act (41 U.S.C. 416)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (g)(5)(C), “section 1708(c) of title 41” substituted for “section 18(b) of the Office of Federal Procurement Policy Act (41 U.S.C. 416(b))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (g)(6), “section 3304(e) of title 41” substituted for “section 303(f) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(f))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (<i>l</i>)(1), “section 103 of title 41” substituted for “section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (<i>l</i>)(2), “section 152 of title 41” substituted for “section 309(b) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 259(b))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (<i>l</i>)(4), “sections 1901 and 3305(a) of title 41” substituted for “section 303(g)(1) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)) and section 31 of the Office of Federal Procurement Policy Act (41 U.S.C. 427)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (<i>l</i>)(5), “sections 1901(a)(1) and 3305(a)(1) of title 41” substituted for “section 303(g)(1)(B) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)(A)) and section 31(a)(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 427(a)(1))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Prior Provisions
 
 A prior section 1018a, Pub. L. 89–329, title I, §142, as added Pub. L. 100–418, title VI, §6201, Aug. 23, 1988, 102 Stat. 1515, related to grants for literacy corps programs, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–315, §118(1)(A), struck out “for information systems supporting the programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42” after “enter into contracts” and “and” after semicolon.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–315, §118(1)(A), struck out “for information systems supporting the programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42” after “enter into contracts” and “and” after semicolon.
 
 Subsec. (b)(2), (3). Pub. L. 110–315, §118(1)(B), (C), substituted “; and” for period at end of par. (2) and added par. (3).
 

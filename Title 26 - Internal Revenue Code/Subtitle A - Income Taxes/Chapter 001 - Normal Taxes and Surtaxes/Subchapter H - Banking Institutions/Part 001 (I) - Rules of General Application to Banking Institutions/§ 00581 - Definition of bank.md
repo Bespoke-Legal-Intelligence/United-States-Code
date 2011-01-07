@@ -6,7 +6,7 @@ For purposes of sections 582 and 584, the term “bank” means a bank or trust 
 
 #### Amendments
 
-1976—Pub. L. 94–455 substituted “or of any State” for “of any State, or of any Territory” after “District of Columbia)” and struck out “Territorial” after “examination by State”.
+<b>1976</b>—Pub. L. 94–455 substituted “or of any State” for “of any State, or of any Territory” after “District of Columbia)” and struck out “Territorial” after “examination by State”.
 
-1962—Pub. L. 87–722 substituted “authority of the Comptroller of the Currency” for “section 11(k) of the Federal Reserve Act (38 Stat. 262; 12 U.S.C. 248(k))”.
+<b>1962</b>—Pub. L. 87–722 substituted “authority of the Comptroller of the Currency” for “section 11(k) of the Federal Reserve Act (38 Stat. 262; 12 U.S.C. 248(k))”.
 

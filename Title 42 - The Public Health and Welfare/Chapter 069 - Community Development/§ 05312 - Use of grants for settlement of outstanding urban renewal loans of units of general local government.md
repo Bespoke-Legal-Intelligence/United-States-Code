@@ -18,15 +18,17 @@ Upon application by any local public agency carrying out an urban renewal projec
 
 #### References in Text
 
-The Housing Act of 1949, referred to in subsecs. (a) and (b), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title I of the Housing Act of 1949 was classified generally to subchapter II (§1450 et seq.) of chapter 8A of this title, and was omitted from the Code pursuant to section 5316 of this title which terminated authority to make grants or loans under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+
+The Housing Act of 1949, referred to in subsecs. (a) and (b), is act July 15, 1949, ch. 338, 63 Stat. 413. Title I of the Housing Act of 1949 was classified generally to subchapter II (§1450 et seq.) of chapter 8A of this title, and was omitted from the Code pursuant to section 5316 of this title which terminated authority to make grants or loans under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
 
 #### Amendments
 
-1984—Subsec. (c). Pub. L. 98–479 struck out subsec. (c) which related to retention of program income and prerequisites.
+<b>1984</b>—Subsec. (c). Pub. L. 98–479 struck out subsec. (c) which related to retention of program income and prerequisites.
 
-1983—Subsec. (c). Pub. L. 98–181 added subsec. (c).
+<b>1983</b>—Subsec. (c). Pub. L. 98–181 added subsec. (c).
 
-1981—Subsec. (a). Pub. L. 97–35 substituted “5303” for “5303(a)”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted “5303” for “5303(a)”.
 
 #### Effective Date of 1983 Amendment
 

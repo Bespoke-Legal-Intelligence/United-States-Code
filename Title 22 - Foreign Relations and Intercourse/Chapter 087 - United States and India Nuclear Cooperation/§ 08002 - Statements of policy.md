@@ -10,7 +10,7 @@ The following shall be the policies of the United States:
 
 &emsp;(3) Act in a manner fully consistent with the Guidelines for Nuclear Transfers and the Guidelines for Transfers of Nuclear-Related Dual-Use Equipment, Materials, Software and Related Technology developed by the NSG, and decisions related to the those <sup>1</sup> guidelines, and the rules and practices regarding NSG decisionmaking.
 
-&emsp;(4) Strengthen the NSG guidelines and decisions concerning consultation by members regarding violations of supplier and recipient understandings by instituting the practice of a timely and coordinated response by NSG members to all such violations, including termination of nuclear transfers to an involved recipient, that discourages individual NSG members from continuing cooperation with such recipient until such time as a consensus regarding a coordinated response has been achieved.
+&emsp;(4) Strengthen the NSG guidelines and decisions concerning consultation by members regarding violations of supplier and recipientunderstandings by instituting the practice of a timely and coordinated response by NSG members to all such violations, including termination of nuclear transfers to an involved recipient, that discourages individual NSG members from continuing cooperation with such recipient until such time as a consensus regarding a coordinated response has been achieved.
 
 &emsp;(5) Given the special sensitivity of equipment and technologies related to the enrichment of uranium, the reprocessing of spent nuclear fuel, and the production of heavy water, work with members of the NSG, individually and collectively, to further restrict the transfers of such equipment and technologies, including to India.
 

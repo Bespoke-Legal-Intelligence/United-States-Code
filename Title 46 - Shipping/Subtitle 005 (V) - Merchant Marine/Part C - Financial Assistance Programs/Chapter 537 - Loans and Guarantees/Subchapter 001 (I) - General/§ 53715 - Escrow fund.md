@@ -14,7 +14,7 @@ In General.—If the proceeds of an obligation guaranteed under this chapter are
 
 (b)
 
-Security Involving Both Uncompleted and Delivered Vessels.—If the security for the guarantee of an obligation relates both to a vessel to be constructed, reconstructed, or reconditioned and to a delivered vessel, the principal amount of the obligation shall be prorated for purposes of subsection (a) under regulations prescribed by the Secretary or Administrator.
+Security Involving Both Uncompleted and Delivered Vessels.—If the security for theguarantee of an obligation relates both to a vessel to be constructed, reconstructed, or reconditioned and to a delivered vessel, the principal amount of the obligation shall be prorated for purposes of subsection (a) under regulations prescribed by the Secretary or Administrator.
 
 (c)
 
@@ -48,7 +48,7 @@ In general.—No disbursement shall be made under subsection (c) to any person u
 
 &emsp;(2)
 
-Documented proof of progress requirement.—The Secretary or Administrator shall, by regulation, establish a transparent, independent, and risk-based process for verifying and documenting the progress of projectsunder construction before disbursing guaranteed loan funds. At a minimum, the process shall require documented proof of progress in connection with the construction, reconstruction, or reconditioning of a vessel or vessels before disbursements are made from the escrow fund. The Secretary or Administrator may require that the obligor provide a certificate from an independent party certifying that the requisite progress in construction, reconstruction, or reconditioning has taken place.
+Documented proof of progress requirement.—The Secretary or Administrator shall, by regulation, establish a transparent, independent, and risk-based process for verifying and documenting the progress of projects under construction before disbursing guaranteed loan funds. At a minimum, the process shall require documented proof of progress in connection with the construction, reconstruction, or reconditioning of a vessel or vessels before disbursements are made from the escrow fund. The Secretary or Administrator may require that the obligor provide a certificate from an independent party certifying that the requisite progress in construction, reconstruction, or reconditioning has taken place.
 
 (e)
 
@@ -122,9 +122,9 @@ June 29, 1936, ch. 858, title XI, §1108, formerly §1111, as added Pub. L. 86�
 
 #### Amendments
 
-2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(H), (3). See 2006 Amendment note below.
+<b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(H), (3). See 2006 Amendment note below.
 
 Pub. L. 110–181, §3522(a)(10)(B), (11), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(H), (3), into this section by inserting “or Administrator” after “Secretary” wherever appearing and “or Administrator's” after “Secretary's” in subsec. (d)(1). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-2006—Pub. L. 109–163, §3507(a)(1)(H), (3), which directed the amendment of section 1279a of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–163, §3507(a)(1)(H), (3), which directed the amendment of section 1279a of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes and Historical and Revision notes above.
 

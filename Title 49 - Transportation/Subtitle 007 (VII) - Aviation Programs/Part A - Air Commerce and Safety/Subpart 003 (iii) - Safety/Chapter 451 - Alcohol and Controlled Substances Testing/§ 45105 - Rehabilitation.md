@@ -40,7 +40,7 @@ This amends 49:45105(a) to correct an error in the codification enacted by secti
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–429 substituted “section 45102(a)(1)” for “section 45102(a)(1)(A)” in second sentence.
+<b>1994</b>—Subsec. (a). Pub. L. 103–429 substituted “section 45102(a)(1)” for “section 45102(a)(1)(A)” in second sentence.
 
 #### Effective Date of 1994 Amendment
 

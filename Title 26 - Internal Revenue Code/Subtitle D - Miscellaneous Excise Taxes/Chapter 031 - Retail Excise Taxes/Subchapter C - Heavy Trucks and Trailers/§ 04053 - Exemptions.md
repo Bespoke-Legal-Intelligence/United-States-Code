@@ -84,11 +84,11 @@ For provisions of prior sections 4054 to 4058 of this title, see Prior Provision
 
 #### Amendments
 
-2008—Pars. (9), (10). Pub. L. 110–343 added pars. (9) and (10).
+<b>2008</b>—Pars. (9), (10). Pub. L. 110–343 added pars. (9) and (10).
 
-2004—Par. (8). Pub. L. 108–357 added par. (8).
+<b>2004</b>—Par. (8). Pub. L. 108–357 added par. (8).
 
-1984—Pub. L. 98–369 amended section generally, substituting provisions listing articles on which no tax under section 4051 shall be imposed for former provisions which stated that no tax be imposed under section 4051 on any article specified in subsection (a) of section 4063 and that the exemptions provided by section 4221(a) extended to the tax imposed by section 4051.
+<b>1984</b>—Pub. L. 98–369 amended section generally, substituting provisions listing articles on which no tax under section 4051 shall be imposed for former provisions which stated that no tax be imposed under section 4051 on any article specified in subsection (a) of section 4063 and that the exemptions provided by section 4221(a) extended to the tax imposed by section 4051.
 
 #### Effective Date of 2008 Amendment
 
@@ -96,7 +96,7 @@ Pub. L. 110–343, div. B, title II, §206(b), Oct. 3, 2008, 122 Stat. 3839, pro
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §851(a)(2), Oct. 22, 2004, 118 Stat. 1607, provided that: “The amendment made bythis subsection \[amending this section\] shall take effect on the day after the date of the enactment of this Act \[Oct. 22, 2004\].”
+Pub. L. 108–357, title VIII, §851(a)(2), Oct. 22, 2004, 118 Stat. 1607, provided that: “The amendment made by this subsection \[amending this section\] shall take effect on the day after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
 #### Effective Date of 1984 Amendment
 

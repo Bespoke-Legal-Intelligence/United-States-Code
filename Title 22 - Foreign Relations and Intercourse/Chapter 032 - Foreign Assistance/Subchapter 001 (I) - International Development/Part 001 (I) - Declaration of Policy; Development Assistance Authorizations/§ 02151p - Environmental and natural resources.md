@@ -32,15 +32,15 @@ Other sections 117 of Pub. L. 87–195, pt. I, were classified to section 2151<i
 
 #### Amendments
 
-1990—Subsec. (c)(1). Pub. L. 101–513 inserted “and part X of this subchapter” after “this part” wherever appearing.
+<b>1990</b>—Subsec. (c)(1). Pub. L. 101–513 inserted “and part X of this subchapter” after “this part” wherever appearing.
 
-1986—Subsec. (d). Pub. L. 99–529, §301(2), struck out subsec. (d) relating to loss of tropical forests in developing countries. See section 2151p–1 of this title.
+<b>1986</b>—Subsec. (d). Pub. L. 99–529, §301(2), struck out subsec. (d) relating to loss of tropical forests in developing countries. See section 2151p–1 of this title.
 
-1981—Pub. L. 97–113 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) and (b) which authorized President to furnish assistance under this subchapter for developing and strengthening capacity of less developed countries to protect and manage their environment and natural resources and directed President to take into consideration environmental consequences of development actions in carrying out this part.
+<b>1981</b>—Pub. L. 97–113 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) and (b) which authorized President to furnish assistance under this subchapter for developing and strengthening capacity of less developed countries to protect and manage their environment and natural resources and directed President to take into consideration environmental consequences of development actions in carrying out this part.
 
-1979—Subsec. (c). Pub. L. 96–53 repealed subsec. (c) which related to studies and report to Congress by the President on the identification of major environmental and natural resource problems.
+<b>1979</b>—Subsec. (c). Pub. L. 96–53 repealed subsec. (c) which related to studies and report to Congress by the President on the identification of major environmental and natural resource problems.
 
-1978—Pub. L. 95–424 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1978</b>—Pub. L. 95–424 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 #### Effective Date of 1979 Amendment
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Clean Water for the Americas Partnership
 

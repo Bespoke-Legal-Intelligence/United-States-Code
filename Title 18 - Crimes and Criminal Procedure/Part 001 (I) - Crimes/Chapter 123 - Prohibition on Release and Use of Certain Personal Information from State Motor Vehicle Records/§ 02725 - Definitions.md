@@ -20,5 +20,7 @@ Section 106(5) of Public Law 106–229, referred to in par. (5), is classified t
 
 #### Amendments
 
-2000—Pars. (4), (5). Pub. L. 106–346 added pars. (4) and (5).
+<b>2000</b>—Pars. (4), (5). Pub. L. 106–346 added pars. (4) and (5).
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

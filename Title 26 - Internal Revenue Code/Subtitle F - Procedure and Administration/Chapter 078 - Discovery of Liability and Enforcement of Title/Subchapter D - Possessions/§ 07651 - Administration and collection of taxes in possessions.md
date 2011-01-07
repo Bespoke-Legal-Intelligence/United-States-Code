@@ -38,17 +38,17 @@ Section 30 of the Organic Act of Guam, referred to in introductory provisions, i
 
 #### Amendments
 
-2007—Pars. (4), (5). Pub. L. 110–172 redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: “For purposes of this section, the term ‘possession of the United States’ includes the Canal Zone.”
+<b>2007</b>—Pars. (4), (5). Pub. L. 110–172 redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: “For purposes of this section, the term ‘possession of the United States’ includes the Canal Zone.”
 
-1986—Par. (5)(B). Pub. L. 99–514 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “For purposes of this title (other than section 881(b)(1) or subpart C of part III of subchapter N of chapter 1), section 28(a) of the Revised Organic Act of the Virgin Islands shall be effective as if such section had been enacted subsequent to the enactment of this title.”
+<b>1986</b>—Par. (5)(B). Pub. L. 99–514 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “For purposes of this title (other than section 881(b)(1) or subpart C of part III of subchapter N of chapter 1), section 28(a) of the Revised Organic Act of the Virgin Islands shall be effective as if such section had been enacted subsequent to the enactment of this title.”
 
-1984—Par. (5)(B). Pub. L. 98–369, §801(d)(9), inserted “or subpart C of part III of subchapter N of chapter 1”.
+<b>1984</b>—Par. (5)(B). Pub. L. 98–369, §801(d)(9), inserted “or subpart C of part III of subchapter N of chapter 1”.
 
 Pub. L. 98–369, §130(c), inserted “(other than section 881(b)(1))”.
 
-1976—Par. (2)(A). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Par. (2)(A). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1970—Pub. L. 91–513 struck out reference to exceptions provided for in sections 4705(b), 4735, and 4762 (relating to taxes on narcotic drugs and marihuana) in provisions preceding par. (1).
+<b>1970</b>—Pub. L. 91–513 struck out reference to exceptions provided for in sections 4705(b), 4735, and 4762 (relating to taxes on narcotic drugs and marihuana) in provisions preceding par. (1).
 
 #### Effective Date of 1986 Amendment
 

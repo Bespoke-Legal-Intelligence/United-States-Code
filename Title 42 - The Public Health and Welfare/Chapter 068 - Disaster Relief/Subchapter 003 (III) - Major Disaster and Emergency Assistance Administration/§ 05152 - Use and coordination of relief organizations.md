@@ -6,6 +6,10 @@
 
 (Pub. L. 93–288, title III, §309, formerly §312, May 22, 1974, 88 Stat. 150; renumbered §309, Pub. L. 100–707, title I, §105(f), Nov. 23, 1988, 102 Stat. 4691.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+
 #### Prior Provisions
 
 A prior section 309 of Pub. L. 93–288 was renumbered section 306 by Pub. L. 100–707 and is classified to section 5149 of this title.

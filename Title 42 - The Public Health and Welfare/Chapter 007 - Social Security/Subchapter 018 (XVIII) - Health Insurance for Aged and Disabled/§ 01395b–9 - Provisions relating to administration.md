@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;(iii) assistance to such individuals in presenting information under section 1395r(i)(4)(C) of this title (relating to income-related premium adjustment; <sup>1</sup> and
 
-&emsp;&emsp;(C) submit annual reports to Congress and the Secretary that describe the activities of the Office and that include such recommendations for improvement in the administration of this subchapter as the Ombudsman determines appropriate.
+&emsp;&emsp;(C) submit annual reports to Congress and the Secretary that describe the activities ofthe Office and that include such recommendations for improvement in the administration of this subchapter as the Ombudsman determines appropriate.
 
 > &emsp;The Ombudsman shall not serve as an advocate for any increases in payments or new coverage of services, but may identify issues and problems in payment or coverage policies.
 
@@ -92,7 +92,7 @@ Parts A, B, C, and D of this subchapter, referred to in text, are classified to 
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–173, §900(b), added subsec. (b).
+<b>2003</b>—Subsec. (b). Pub. L. 108–173, §900(b), added subsec. (b).
 
 Subsec. (c). Pub. L. 108–173, §923(a), added subsec. (c).
 

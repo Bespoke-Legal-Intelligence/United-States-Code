@@ -1,7 +1,5 @@
 ### SUBCHAPTER XVIII—CRIME FREE RURAL STATE GRANTS
 
-<i><sup>1</sup></i><i> So in original. Section 3797w(b) of this title does not contain a par. (19).</i>
-
 
 ---
 

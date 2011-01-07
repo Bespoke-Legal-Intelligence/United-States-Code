@@ -16,11 +16,11 @@
 
 &emsp;(3) alter the amount of the distribution to a creditor whose claim is provided for by the plan to the extent necessary to take account of any payment of such claim made other than under the plan.
 
-(f)(1) Sections 1121 through 1128 and the requirements of section 1129 apply to any modification under subsection (a).
+(f)(1) Sections 1121 through 1128 and the requirements of section 1129 apply to any modification under subsection (e).
 
 (2) The plan, as modified, shall become the plan only after there has been disclosure under section 1125 as the court may direct, notice and a hearing, and such modification is approved.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2635; Pub. L. 98–353, title III, §511, July 10, 1984, 98 Stat. 386; Pub. L. 109–8, title III, §321(e), Apr. 20, 2005, 119 Stat. 96.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2635; Pub. L. 98–353, title III, §511, July 10, 1984, 98 Stat. 386; Pub. L. 109–8, title III, §321(e), Apr. 20, 2005, 119 Stat. 96; Pub. L. 111–327, §2(a)(34), Dec. 22, 2010, 124 Stat. 3561.)
 
 #### Historical and Revision Notes
 
@@ -49,6 +49,8 @@ Subsection (c) requires the proponent of a modification to comply with the discl
 Subsection (d) simplifies modification procedure by deeming any creditor or equity security holder that has already accepted or rejected the plan to have accepted or rejected the modification, unless, within the time fixed by the court, the creditor or equity security holder changes this previous acceptance or rejection.
 
 #### Amendments
+
+2010—Subsec. (f)(1). Pub. L. 111–327 substituted “subsection (e)” for “subsection (a)”.
 
 2005—Subsecs. (e), (f). Pub. L. 109–8 added subsecs. (e) and (f).
 

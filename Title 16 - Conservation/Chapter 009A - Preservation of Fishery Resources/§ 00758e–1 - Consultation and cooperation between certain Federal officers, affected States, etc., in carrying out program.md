@@ -6,7 +6,7 @@ In carrying out the purposes of sections 758e to 758e–5 of this title, the Sec
 
 #### Amendments
 
-1978—Pub. L. 95–295 inserted provisions requiring consultation and cooperation with the Secretary of State, Commonwealth of the Northern Mariana Islands, and all appropriate member nations of a South Pacific regional fishery agency, if such an agency is formed.
+<b>1978</b>—Pub. L. 95–295 inserted provisions requiring consultation and cooperation with the Secretary of State, Commonwealth of the Northern Mariana Islands, and all appropriate member nations of a South Pacific regional fishery agency, if such an agency is formed.
 
 #### Termination of Trust Territory of the Pacific Islands
 

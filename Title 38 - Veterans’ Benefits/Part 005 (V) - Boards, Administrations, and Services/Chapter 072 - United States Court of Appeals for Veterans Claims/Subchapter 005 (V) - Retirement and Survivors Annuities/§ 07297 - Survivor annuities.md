@@ -30,7 +30,7 @@
 
 &emsp;(B) during which the judge was not receiving retired pay based on service as a judge or receiving any retirement salary as described in section 376(d)(1) of title 28.
 
-(e) If the service of a judge who makes an election under subsection (b) of this section terminates other than pursuant to the provisions of section 7296 of this title, or if any judge ceases to be married after making the election under subsection (b) of this section and revokes (in a writing filed as provided in subsection (b) of this section) such election, the amount credited to the judge's individual account (together with interest at 3 percent per year compounded on December 31 of each year to the date of the judge's relinquishment of office) shall be returned to the judge. For the purpose of this section, the service of a judge making an election under subsection (b) of this section shall be considered to have terminated pursuant to section 7296 of this title if—
+(e) If the service of a judge who makes an election under subsection (b) of this section terminates other than pursuant to the provisions of section 7296 of this title, or if any judge ceasesto be married after making the election under subsection (b) of this section and revokes (in a writing filed as provided in subsection (b) of this section) such election, the amount credited to the judge's individual account (together with interest at 3 percent per year compounded on December 31 of each year to the date of the judge's relinquishment of office) shall be returned to the judge. For the purpose of this section, the service of a judge making an election under subsection (b) of this section shall be considered to have terminated pursuant to section 7296 of this title if—
 
 &emsp;(1) the judge is not reappointed following expiration of the term for which appointed; and
 
@@ -38,7 +38,7 @@
 
 (f)(1) If a judge who makes an election under subsection (b) of this section dies after having rendered at least 18 months of civilian service (computed as prescribed in subsection (<i>l</i>) of this section), for the last 18 months of which the salary deductions provided for by subsection (c) of this section or the deposits required by subsection (d) of this section have actually been made (and not withdrawn) or the salary deductions required by the civil service retirement laws have actually been made (and not withdrawn)—
 
-&emsp;(A) if the judge is survived by a surviving spouse but not by a dependent child, thereshall be paid to the surviving spouse an annuity beginning with the day of the death of the judge, in an amount computed as provided in subsection (k) of this section; or
+&emsp;(A) if the judge is survived by a surviving spouse but not by a dependent child, there shall be paid to the surviving spouse an annuity beginning with the day of the death of the judge, in an amount computed as provided in subsection (k) of this section; or
 
 &emsp;(B) if the judge is survived by a surviving spouse and a dependent child or children, there shall be paid to the surviving spouse an immediate annuity in an amount computed as provided in subsection (k) of this section and there shall also be paid to or on behalf of each such child an immediate annuity equal to the lesser of—
 
@@ -130,13 +130,9 @@
 
 (Added Pub. L. 101–94, title I, §101(a), Aug. 16, 1989, 103 Stat. 620, §4097; renumbered §7297 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(e)(6), June 13, 1991, 105 Stat. 287; Pub. L. 102–82, §5(c)(2), Aug. 6, 1991, 105 Stat. 376; Pub. L. 102–198, §7(c)(4)(E), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 105–368, title V, §§503, 512(a)(1), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, §§1023, 1035(2), Nov. 30, 1999, 113 Stat. 1592, 1595.)
 
-#### References in Text
-
-The civil service retirement laws, referred to in subsecs. (d)(1), (f)(1), and (n), are classified generally to subchapter III (§8331 et seq.) of chapter 83 of Title 5, Government Organization and Employees.
-
 #### Amendments
 
-1999—Subsec. (a)(2). Pub. L. 106–117, §1035(2), substituted “a judge” for “the chief judge or an associate judge”.
+<b>1999</b>—Subsec. (a)(2). Pub. L. 106–117, §1035(2), substituted “a judge” for “the chief judge or an associate judge”.
 
 Pub. L. 106–117, §1023(e)(2)(A), inserted “who is in active service or who has retired under section 7296 of this title” after “Court”.
 
@@ -158,11 +154,11 @@ Subsec. (f)(1)(A). Pub. L. 106–117, §1023(f), struck out “or following the 
 
 Subsec. (f)(5). Pub. L. 106–117, §1023(e)(1)(B), added par. (5).
 
-1998—Subsec. (a)(1), (4). Pub. L. 105–368, §512(a)(1), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+<b>1998</b>—Subsec. (a)(1), (4). Pub. L. 105–368, §512(a)(1), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
 Subsec. (<i>o</i>). Pub. L. 105–368, §503, amended subsec. (<i>o</i>) generally. Prior to amendment, subsec. (<i>o</i>) read as follows: “Whenever the salaries of judges paid under section 7253(e) of this title are increased, each annuity payable from the retirement fund which is based, in whole or in part, upon a deceased judge having rendered some portion of that judge's final 18 months of service as a judge of the Court, shall also be increased. The amount of the increase in the annuity shall be determined by multiplying the amount of the annuity on the date on which the increase in salaries becomes effective by 3 percent for each full 5 percent by which those salaries were increased.”
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 4097 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 4097 of this title as this section.
 
 Subsec. (a)(3). Pub. L. 102–40, §402(d)(1), substituted “7253(e)” for “4053(e)” and “7296(c)” for “4096(c)”.
 

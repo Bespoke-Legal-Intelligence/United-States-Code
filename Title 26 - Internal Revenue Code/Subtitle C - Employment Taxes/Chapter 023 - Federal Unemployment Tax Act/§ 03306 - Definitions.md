@@ -34,7 +34,7 @@ For purposes of this chapter—
 
 For purposes of this chapter, the term “wages” means all remuneration for employment, including the cash value of all remuneration (including benefits) paid in any medium other than cash; except that such term shall not include—
 
-&emsp;(1) that part of the remuneration which, after remuneration (other than remuneration referred to in the succeeding paragraphs of this subsection) equal to $7,000 with respect to employment has been paid to an individual by an employer during any calendar year, is paid to such individual by such employer duringsuch calendar year. If an employer (hereinafter referred to as successor employer) during any calendar year acquires substantially all the property used in a trade or business of another employer (hereinafter referred to as a predecessor), or used in a separate unit of a trade or business of a predecessor, and immediately after the acquisition employs in his trade or business an individual who immediately prior to the acquisition was employed in the trade or business of such predecessor, then, for the purpose of determining whether the successor employer has paid remuneration (other than remuneration referred to in the succeeding paragraphs of this subsection) with respect to employment equal to $7,000 to such individual during such calendar year, any remuneration (other than remuneration referred to in the succeeding paragraphs of this subsection) with respect to employment paid (or considered under this paragraph as having been paid) to such individual by such predecessor during such calendar year and prior to such acquisition shall be considered as having been paid by such successor employer;
+&emsp;(1) that part of the remuneration which, after remuneration (other than remuneration referred to in the succeeding paragraphs of this subsection) equal to $7,000 with respect to employment has been paid to an individual by an employer during any calendar year, is paid to such individual by such employer during such calendar year. If an employer (hereinafter referred to as successor employer) during any calendar year acquires substantially all the property used in a trade or business of another employer (hereinafter referred to as a predecessor), or used in a separate unit of a trade or business of a predecessor, and immediately after the acquisition employs in his trade or business an individual who immediately prior to the acquisition was employed in the trade or business of such predecessor, then, for the purpose of determining whether the successor employer has paid remuneration (other than remuneration referred to in the succeeding paragraphs of this subsection) with respect to employment equal to $7,000 to such individual during such calendar year, any remuneration (other than remuneration referred to in the succeeding paragraphs of this subsection) with respect to employment paid (or considered under this paragraph as having been paid) to such individual by such predecessor during such calendar year and prior to such acquisition shall be considered as having been paid by such successor employer;
 
 &emsp;(2) the amount of any payment (including any amount paid by an employer for insurance or annuities, or into a fund, to provide for any such payment) made to, or on behalf of, an employee or any of his dependents under a plan or system established by an employer which makes provision for his employees generally (or for his employees generally and their dependents) or for a class or classes of his employees (or for a class or classes of his employees and their dependents), on account of—
 
@@ -174,7 +174,7 @@ For purposes of this chapter, the term “employment” means any service perfor
 
 &emsp;(15)(A) service performed by an individual under the age of 18 in the delivery or distribution of newspapers or shopping news, not including delivery or distribution to any point for subsequent delivery or distribution;
 
-&emsp;(B) service performed by an individual in, and at the time of, the sale of newspapers or magazines to ultimate consumers, under an arrangement under which the newspapers or magazines are to be sold by him at a fixed price, his compensation being based on the retention of the excess of such price over the amount at which the newspapers or magazines are charged to him, whether or not he is guaranteed a minimum amount of compensation for such service, or is entitled to be creditedwith the unsold newspapers or magazines turned back;
+&emsp;(B) service performed by an individual in, and at the time of, the sale of newspapers ormagazines to ultimate consumers, under an arrangement under which the newspapers or magazines are to be sold by him at a fixed price, his compensation being based on the retention of the excess of such price over the amount at which the newspapers or magazines are charged to him, whether or not he is guaranteed a minimum amount of compensation for such service, or is entitled to be credited with the unsold newspapers or magazines turned back;
 
 &emsp;(16) service performed in the employ of an international organization;
 
@@ -292,7 +292,7 @@ Notwithstanding the provisions of subsection (c)(6), service performed by office
 
 &emsp;&emsp;(A) if—
 
-&emsp;&emsp;&emsp;(i) such crew leader holds a valid certificate of registration under the Migrant and Seasonal Agricultural Worker Protection Act; or
+&emsp;&emsp;&emsp;(i) such crew leader holds a valid certificate of registration under the Migrant andSeasonal Agricultural Worker Protection Act; or
 
 &emsp;&emsp;&emsp;(ii) substantially all the members of such crew operate or maintain tractors, mechanized harvesting or crop-dusting equipment, or any other mechanized equipment, which is provided by such crew leader; and
 
@@ -374,13 +374,13 @@ For the purposes of this chapter, the term “self-employment assistance program
 
 &emsp;(1) individuals who meet the requirements described in paragraph (3) are eligible to receive an allowance in lieu of regular unemployment compensation under the State law for the purpose of assisting such individuals in establishing a business and becoming self-employed;
 
-&emsp;(2) the allowance payable to individuals pursuant to paragraph (1) is payable in the same amount, at the same interval, on the same terms, and subject to the same conditions, as regular unemployment compensation under the State law, except that—
+&emsp;(2) the allowance payable to individuals pursuant to paragraph (1) is payable in the same amount, at the same interval, on the sameterms, and subject to the same conditions, as regular unemployment compensation under the State law, except that—
 
 &emsp;&emsp;(A) State requirements relating to availability for work, active search for work, and refusal to accept work are not applicable to such individuals;
 
 &emsp;&emsp;(B) State requirements relating to disqualifying income are not applicable to income earned from self-employment by such individuals; and
 
-&emsp;&emsp;(C) such individuals are considered to be unemployed for the purposes of Federal andState laws applicable to unemployment compensation,
+&emsp;&emsp;(C) such individuals are considered to be unemployed for the purposes of Federal and State laws applicable to unemployment compensation,
 
 > &emsp;as long as such individuals meet the requirements applicable under this subsection;
 
@@ -418,33 +418,33 @@ Subchapter C of chapter 9 of the Internal Revenue Code of 1939, referred to in s
 
 Sections 214(c) and 101(a)(15)(H) of the Immigration and Nationality Act, referred to in subsec. (c)(1)(B), are classified to sections 1184(c) and 1101(a)(15)(H), respectively, of Title 8, Aliens and Nationality.
 
-Sections 303(g), 903(c)(2), (d)(4), and 904(a) of the Social Security Act, referred to in subsecs. (f)(2), (4) and\(t)(5), are classified to sections 503(g), 1103(c)(2), (d)(4), and 1104(a), respectively, of Title 42, The Public Health and Welfare.
+Sections 303(g), 903(c)(2), (d)(4), and 904(a) of the Social Security Act, referred to in subsecs. (f)(2), (4) and (t)(5), are classified to sections 503(g), 1103(c)(2), (d)(4), and 1104(a), respectively, of Title 42, The Public Health and Welfare.
 
 The Migrant and Seasonal Agricultural Worker Protection Act, referred to in subsec. (<i>o</i>)(1)(A)(i), is Pub. L. 97–470, Jan. 14, 1983, 96 Stat. 2584, as amended, which is classified generally to chapter 20 (§1801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 29 and Tables.
 
 #### Amendments
 
-2008—Subsec. (b)(20). Pub. L. 110–245 added par. (20).
+<b>2008</b>—Subsec. (b)(20). Pub. L. 110–245 added par. (20).
 
-2004—Subsec. (b)(13). Pub. L. 108–375 substituted “134(b)(4), or 134(b)(5)” for “or 134(b)(4)”.
+<b>2004</b>—Subsec. (b)(13). Pub. L. 108–375 substituted “134(b)(4), or 134(b)(5)” for “or 134(b)(4)”.
 
 Subsec. (b)(16). Pub. L. 108–357, §320(b)(3), inserted “108(f)(4),” after “74(c),”.
 
 Subsec. (b)(19). Pub. L. 108–357, §251(a)(3), added par. (19).
 
-2003—Subsec. (b)(13). Pub. L. 108–121 substituted “, 129, or 134(b)(4)” for “or 129”.
+<b>2003</b>—Subsec. (b)(13). Pub. L. 108–121 substituted “, 129, or 134(b)(4)” for “or 129”.
 
 Subsec. (b)(18). Pub. L. 108–173 added par. (18).
 
-2002—Subsec. (f)(2). Pub. L. 107–147 inserted “or 903(d)(4)” before “of the Social Security Act”.
+<b>2002</b>—Subsec. (f)(2). Pub. L. 107–147 inserted “or 903(d)(4)” before “of the Social Security Act”.
 
-2000—Subsec. (c)(7). Pub. L. 106–554, §1(a)(7) \[title I, §166(a)\], inserted “or in the employ of an Indian tribe,” after “service performed in the employ of a State, or any political subdivision thereof,” and “or Indian tribes” after “wholly owned by one or more States or political subdivisions”.
+<b>2000</b>—Subsec. (c)(7). Pub. L. 106–554, §1(a)(7) \[title I, §166(a)\], inserted “or in the employ of an Indian tribe,” after “service performed in the employ of a State, or any political subdivision thereof,” and “or Indian tribes” after “wholly owned by one or more States or political subdivisions”.
 
 Subsec. (u). Pub. L. 106–554, §1(a)(7) \[title I, §166(d)\], added subsec. (u).
 
-1997—Subsec. (c)(21). Pub. L. 105–33 added par. (21).
+<b>1997</b>—Subsec. (c)(21). Pub. L. 105–33 added par. (21).
 
-1996—Subsec. (b)(5)(H). Pub. L. 104–188, §1421(b)(8)(C), added subpar. (H).
+<b>1996</b>—Subsec. (b)(5)(H). Pub. L. 104–188, §1421(b)(8)(C), added subpar. (H).
 
 Subsec. (b)(17). Pub. L. 104–191 added par. (17).
 
@@ -452,23 +452,23 @@ Subsec. (c)(1)(B). Pub. L. 104–188, §1203(a), struck out “before January 1,
 
 Subsec. (k). Pub. L. 104–188, §1704(t)(10), inserted a period at end.
 
-1994—Subsec. (c)(19). Pub. L. 103–296 substituted “(J), (M), or (Q)” for “(J), or (M)” wherever appearing.
+<b>1994</b>—Subsec. (c)(19). Pub. L. 103–296 substituted “(J), (M), or (Q)” for “(J), or (M)” wherever appearing.
 
 Subsec. (f)(3) to (5). Pub. L. 103–465 added par. (3) and redesignated former pars. (3) and (4) as (4) and (5) relating to payment of short-time compensation, respectively.
 
-1993—Subsec. (f)(5). Pub. L. 103–182, §507(b)(2), added par. (5).
+<b>1993</b>—Subsec. (f)(5). Pub. L. 103–182, §507(b)(2), added par. (5).
 
 Subsec. (t). Pub. L. 103–182, §507(a), added subsec. (t).
 
-1992—Subsec. (c)(1)(B). Pub. L. 102–318, §303(a), substituted “1995” for “1993”.
+<b>1992</b>—Subsec. (c)(1)(B). Pub. L. 102–318, §303(a), substituted “1995” for “1993”.
 
 Subsec. (f)(4). Pub. L. 102–318, §401(a)(2), added par. (4).
 
 Subsec. (r)(1)(A). Pub. L. 102–318, §521(b)(35), substituted “402(e)(3)” for “402(a)(8)”.
 
-1989—Subsec. (t). Pub. L. 101–140 amended this section to read as if amendments by Pub. L. 100–647, §1011B(a)(22)(C), had not been enacted, see 1988 Amendment note below.
+<b>1989</b>—Subsec. (t). Pub. L. 101–140 amended this section to read as if amendments by Pub. L. 100–647, §1011B(a)(22)(C), had not been enacted, see 1988 Amendment note below.
 
-1988—Subsec. (b)(5)(G). Pub. L. 100–647, §1011B(a)(23)(A), inserted “if such payment would not be treated as wages without regard to such plan and it is reasonable to believe that (if section 125 applied for purposes of this section) section 125 would not treat any wages as constructively received” after “section 125)”.
+<b>1988</b>—Subsec. (b)(5)(G). Pub. L. 100–647, §1011B(a)(23)(A), inserted “if such payment would not be treated as wages without regard to such plan and it is reasonable to believe that (if section 125 applied for purposes of this section) section 125 would not treat any wages as constructively received” after “section 125)”.
 
 Subsec. (b)(9). Pub. L. 100–647, §1001(g)(4)(B)(ii), inserted “(determined without regard to section 274(n))” after “section 217”.
 
@@ -480,7 +480,7 @@ Subsec. (i). Pub. L. 100–647, §8016(a)(3)(B), substituted “paragraph (4) an
 
 Subsec. (t). Pub. L. 100–647, §1011B(a)(22)(C), added subsec. (t) relating to benefits provided under certain employee benefit plans.
 
-1986—Subsec. (b)(2)(A). Pub. L. 99–514, §1899A(44), substituted “workmen's compensation” for “workman's compensation”.
+<b>1986</b>—Subsec. (b)(2)(A). Pub. L. 99–514, §1899A(44), substituted “workmen's compensation” for “workman's compensation”.
 
 Subsec. (b)(5)(C). Pub. L. 99–514, §1108(g)(8), added subpar. (C) and struck out former subpar. (C) which read as follows: “under a simplified employee pension if, at the time of the payment, it is reasonable to believe that the employee will be entitled to a deduction under section 219(b)(2) for such payment,”.
 
@@ -500,7 +500,7 @@ Subsec. (i). Pub. L. 99–509 substituted “paragraph (3) and subparagraphs (B)
 
 Subsec. (<i>o</i>)(1)(A)(i). Pub. L. 99–514, §1884(3), substituted “Migrant and Seasonal Agricultural Worker Protection Act” for “Farm Labor Contractor Registration Act of 1963”.
 
-1984—Subsec. (b). Pub. L. 98–369, §531(d)(3)(A), in provisions preceding par. (1), inserted “(including benefits)”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369, §531(d)(3)(A), in provisions preceding par. (1), inserted “(including benefits)”.
 
 Subsec. (b)(5)(C) to (G). Pub. L. 98–369, §491(d)(37), struck out subpar. (C) which provided: “under or to a bond purchase plan which, at the time of such payment, is a qualified bond purchase plan described in section 405(a),” and redesignated subpars. (D) to (G) as (C) to (F), respectively.
 
@@ -510,11 +510,11 @@ Subsec. (r)(1)(B). Pub. L. 98–369, §2661(<i>o</i>)(4), substituted “section
 
 Subsec. (s). Pub. L. 98–369, §1073(a), added subsec. (s).
 
-1983—Subsec. (b). Pub. L. 98–21, §327(c)(4), added sentence at end providing that nothing in the regulations prescribed for purposes of chapter 24 (relating to income tax withholding) which provides an exclusion from “wages” as used in such chapter shall be construed to require a similar exclusion from “wages” in regulations prescribed for purposes of this chapter.
+<b>1983</b>—Subsec. (b). Pub. L. 98–21, §327(c)(4), added sentence at end providing that nothing in the regulations prescribed for purposes of chapter 24 (relating to income tax withholding) which provides an exclusion from “wages” as used in such chapter shall be construed to require a similar exclusion from “wages” in regulations prescribed for purposes of this chapter.
 
 Pub. L. 98–21, §324(b)(4)(B), added sentence at end providing that, except as otherwise provided in regulations prescribed by the Secretary, any third party which makes a payment included in wages solely by reason of parenthetical text contained in subpar. (A) of par. (2) shall be treated for purposes of this chapter and chapter 22 as the employer with respect to such wages.
 
-Subsec. (b)(2). Pub. L. 98–21, §324(b)(3)(A), (4)(A), struck out “(A) retirement or”, redesignated subpars. (B) to (D) as (A) to (C), respectively, and in subpar. (A), as so redesignated, substituted “sickness or accident disability (but, in the case of payments made to an employee or any of his dependents, this subparagraph shall exclude from the term ‘wages’ only payments which are received under a workman's compensation law)” for “sickness or accident disability”.
+Subsec. (b)(2). Pub. L. 98–21, §324(b)(3)(A), (4)(A), struck out “(A) retirement or”, redesignated subpars. (B) to (D) as (A) to (C), respectively, and in subpar. (A), as so redesignated, substituted “sickness or accidentdisability (but, in the case of payments made to an employee or any of his dependents, this subparagraph shall exclude from the term ‘wages’ only payments which are received under a workman's compensation law)” for “sickness or accident disability”.
 
 Subsec. (b)(3). Pub. L. 98–21, §324(b)(3)(B), struck out par. (3) which related to any payment made to an employee (including any amount paid by an employer for insurance or annuities, or into a fund, to provide for any such payment) on account of retirement.
 
@@ -534,7 +534,7 @@ Subsec. (c)(1)(B). Pub. L. 98–135, §202, substituted “1986” for “1984�
 
 Subsec. (r). Pub. L. 98–21, §324(b)(1), added subsec. (r).
 
-1982—Subsec. (b)(1). Pub. L. 97–248, §271(a), substituted “$7,000” for “$6,000” wherever appearing.
+<b>1982</b>—Subsec. (b)(1). Pub. L. 97–248, §271(a), substituted “$7,000” for “$6,000” wherever appearing.
 
 Subsec. (c)(1)(B). Pub. L. 97–248, §277, substituted “1984” for “1982”.
 
@@ -544,25 +544,25 @@ Subsec. (c)(20). Pub. L. 97–248, §276(b)(1), added par. (20).
 
 Subsec. (q). Pub. L. 97–248, §276(b)(2), added subsec. (q).
 
-1981—Subsec. (b)(13). Pub. L. 97–34, §124(e)(2)(A), substituted “section 127 or 129” for “section 127”.
+<b>1981</b>—Subsec. (b)(13). Pub. L. 97–34, §124(e)(2)(A), substituted “section 127 or 129” for “section 127”.
 
 Subsec. (c)(18), (19). Pub. L. 97–34, §822(a), added par. (18) and redesignated former par. (18) as (19).
 
-1980—Subsec. (b)(5)(D). Pub. L. 96–222 added subpar. (D).
+<b>1980</b>—Subsec. (b)(5)(D). Pub. L. 96–222 added subpar. (D).
 
 Subsec. (b)(6). Pub. L. 96–499 struck out “(or the corresponding section of prior law)” after “section 3101” in subpar. (A) and inserted “with respect to remuneration paid to an employee for domestic service in a private home of the employer or for agricultural labor” following subpar. (B).
 
-1979—Subsec. (c)(1)(A). Pub. L. 96–84, §4(b), substituted “including labor performed by an alien” for “not taking into account labor performed before January 1, 1980, by an alien” in parenthetical text of cls. (i) and (ii).
+<b>1979</b>—Subsec. (c)(1)(A). Pub. L. 96–84, §4(b), substituted “including labor performed by an alien” for “not taking into account labor performed before January 1, 1980, by an alien” in parenthetical text of cls. (i) and (ii).
 
 Subsec. (c)(1)(B). Pub. L. 96–84, §4(a), substituted “January 1, 1982” for “January 1, 1980”.
 
-1978—Subsec. (b)(12). Pub. L. 95–472 added par. (12).
+<b>1978</b>—Subsec. (b)(12). Pub. L. 95–472 added par. (12).
 
 Subsec. (b)(13). Pub. L. 95–600 added par. (13).
 
-1977—Subsec. (p). Pub. L. 95–216 added subsec. (p).
+<b>1977</b>—Subsec. (p). Pub. L. 95–216 added subsec. (p).
 
-1976—Subsec. (a). Pub. L. 94–566, §114(a), redesignated existing provisions, consisting of an introductory phrase and pars. (1) and (2), as par. (1), consisting of an introductory phrase and subpars. (A) and (B), inserted provisions following subpar. (B) as so redesignated, and added pars. (2), (3), and (4).
+<b>1976</b>—Subsec. (a). Pub. L. 94–566, §114(a), redesignated existing provisions, consisting of an introductory phrase and pars. (1) and (2), as par. (1), consisting of an introductory phrase and subpars. (A) and (B), inserted provisions following subpar. (B) as so redesignated, and added pars. (2), (3), and (4).
 
 Subsec. (b)(1). Pub. L. 94–566, §211(a), substituted “$6,000” for “$4,200” wherever appearing.
 
@@ -588,7 +588,7 @@ Subsec. (n). Pub. L. 94–455, §1903(a)(16)(D), struck out “on or after July 
 
 Subsec. (<i>o</i>). Pub. L. 94–566, §112(a), added subsec. (<i>o</i>).
 
-1970—Subsec. (a). Pub. L. 91–373, §101(a), expanded definition of “employer” by reducing from 4 to 1 the number of individuals which a person had to employ on each of some 20 days during the calendar year or the preceding calendar year in order to qualify as an employer and inserted provisions making a person an employer who paid wages of $1,500 or more during any calendar quarter in the calendar year or the preceding calendar year.
+<b>1970</b>—Subsec. (a). Pub. L. 91–373, §101(a), expanded definition of “employer” by reducing from 4 to 1 the number of individuals which a person had to employ on each of some 20 days during the calendar year or the preceding calendar year in order to qualify as an employer and inserted provisions making a person an employer who paid wages of $1,500 or more during any calendar quarter in the calendar year or the preceding calendar year.
 
 Subsec. (b)(1). Pub. L. 91–373, §302, substituted “$4,200” for “$3,000”.
 
@@ -602,21 +602,21 @@ Subsec. (j)(3). Pub. L. 91–373, §105(b), inserted definition of “American e
 
 Subsec. (k). Pub. L. 91–373, §103(a), substituted as definition of “agricultural labor” a simple reference to that term as defined, with a minor exception, in section 3121 of this title for a full definition of the term, the result of which, in view of the substance of section 3121, excluded from the definition of agricultural labor services performed in connection with the production or harvesting of maple sirup, maple sugar, or mushrooms, or the hatching of poultry unless performed on a farm, and provided a new series of tests to determine whether the handling, planting, drying, packing, packaging, processing, freezing, grading, storing, or delivering agricultural or horticultural commodities constitute agricultural labor.
 
-1969—Subsec. (a). Pub. L. 90–53 made status of employer depend also on employment during preceding taxable year.
+<b>1969</b>—Subsec. (a). Pub. L. 90–53 made status of employer depend also on employment during preceding taxable year.
 
-1968—Subsec. (b)(10). Pub. L. 90–248 added par. (10).
+<b>1968</b>—Subsec. (b)(10). Pub. L. 90–248 added par. (10).
 
-1964—Subsec. (b)(9). Pub. L. 88–650 added par. (9).
+<b>1964</b>—Subsec. (b)(9). Pub. L. 88–650 added par. (9).
 
-1962—Subsec. (b)(5). Pub. L. 87–792 substituted “is a plan described in section 403(a)” for “meets the requirements of section 401(a)(3), (4), (5), and (6)” in subpar. (B), and added subpar. (C).
+<b>1962</b>—Subsec. (b)(5). Pub. L. 87–792 substituted “is a plan described in section 403(a)” for “meets the requirements of section 401(a)(3), (4), (5), and (6)” in subpar. (B), and added subpar. (C).
 
-1961—Subsec. (c)(18). Pub. L. 87–256 added par. (18).
+<b>1961</b>—Subsec. (c)(18). Pub. L. 87–256 added par. (18).
 
-1960—Subsec. (c). Pub. L. 86–778, §532(a), included employment on or in connection with an American aircraft within cl. (B) of the opening provisions.
+<b>1960</b>—Subsec. (c). Pub. L. 86–778, §532(a), included employment on or in connection with an American aircraft within cl. (B) of the opening provisions.
 
 Subsec. (c)(4). Pub. L. 86–778, §532(b), excluded service performed on or in connection with an aircraft that is not an American aircraft.
 
-Subsec. (c)(6). Pub. L. 86–778, §531(c), substituted “wholly or partially owned” for “wholly owned” in cl. (A), and inserted “which specifically refers to such section (or the corresponding section of prior law) in granting such exemption” in cl. (B).
+Subsec. (c)(6). Pub. L. 86–778, §531(c), substituted “wholly or partially owned” for “wholly owned” in cl.\(A), and inserted “which specifically refers to such section (or the corresponding section of prior law) in granting such exemption” in cl. (B).
 
 Subsec. (c)(8). Pub. L. 86–778, §533, substituted “service performed in the employ of a religious, charitable, educational, or other organization described in section 501(c)(3) which is exempt from income tax under section 501(a)” for “service performed in the employ of a corporation, community chest, fund, or foundation, organized and operated exclusively for religious, charitable, scientific, testing for public safety, literary, or educational purposes, or for the prevention of cruelty to children or animals, no part of the net earnings of which inures to the benefit of any private shareholder or individual, and no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation.”
 
@@ -628,9 +628,9 @@ Pub. L. 86–624 struck out “Hawaii, and” before “the District of Columbia
 
 Subsec. (m). Pub. L. 86–778, §532(c), included aircraft in heading and defined “American aircraft”.
 
-1959—Subsec. (j). Pub. L. 86–70 struck out “Alaska,” before “Hawaii”.
+<b>1959</b>—Subsec. (j). Pub. L. 86–70 struck out “Alaska,” before “Hawaii”.
 
-1954—Subsec. (a). Act Sept. 1, 1954, changed definition of employer from “eight or more” to “4 or more”.
+<b>1954</b>—Subsec. (a). Act Sept. 1, 1954, changed definition of employer from “eight or more” to “4 or more”.
 
 Subsec. (<i>l</i>). Act Sept. 1, 1954, repealed subsec. (<i>l</i>) which related to certain employees of Bonneville Power Administrator.
 

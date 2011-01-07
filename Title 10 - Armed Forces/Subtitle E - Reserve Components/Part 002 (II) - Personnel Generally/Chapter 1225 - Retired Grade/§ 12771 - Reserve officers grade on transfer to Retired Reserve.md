@@ -24,7 +24,7 @@ Provisions similar to those in this section were contained in section 1374(b), (
 
 #### Amendments
 
-2009—Pub. L. 111–84 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2009</b>—Pub. L. 111–84 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Effective Date
 

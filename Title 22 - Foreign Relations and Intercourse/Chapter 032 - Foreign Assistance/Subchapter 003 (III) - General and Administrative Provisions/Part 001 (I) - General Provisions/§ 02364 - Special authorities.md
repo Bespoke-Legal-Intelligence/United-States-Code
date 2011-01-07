@@ -44,19 +44,19 @@ Part IV of subchapter I (§2241 et seq.) of this chapter has been repealed. Refe
 
 #### Amendments
 
-1993—Subsec. (a)(4)(C). Pub. L. 103–199 struck out “Communist or Communist-supported” after “victim of active”.
+<b>1993</b>—Subsec. (a)(4)(C). Pub. L. 103–199 struck out “Communist or Communist-supported” after “victim of active”.
 
-1989—Subsec. (c). Pub. L. 101–222 amended second sentence generally. Prior to amendment, second sentence read as follows: “The President shall promptly and fully inform the Speaker of the House of Representatives and the chairman and ranking minority member of the Committee on Foreign Relations of the Senate of each use of funds under this subsection.”
+<b>1989</b>—Subsec. (c). Pub. L. 101–222 amended second sentence generally. Prior to amendment, second sentence read as follows: “The President shall promptly and fully inform the Speaker of the House of Representatives and the chairman and ranking minority member of the Committee on Foreign Relations of the Senate of each use of funds under this subsection.”
 
-1985—Subsec. (a)(4). Pub. L. 99–83 designated existing provisions as subpar. (A), added cl. (i) and designations “(ii)” and “(iii)”, struck out fiscal year limitation for any one country, and added subpars. (B) and (C).
+<b>1985</b>—Subsec. (a)(4). Pub. L. 99–83 designated existing provisions as subpar. (A), added cl. (i) and designations “(ii)” and “(iii)”, struck out fiscal year limitation for any one country, and added subpars. (B) and (C).
 
-1980—Subsec. (a). Pub. L. 96–533, in revising subsec. (a), incorporated part of existing first sentence in provisions designated par. (1), inserted reference to Arms Export Control Act, struck out reference to Mutual Defense Assistance Control Act of 1951, required notification of the Speaker of the House and chairman of the Senate Committee on Foreign Relations, and substituted “security interests” for “security”; inserted pars. (2) and (3); incorporated part of existing first sentence, second sentence, and substance of third sentence in provisions designated par. (4) and inserted reference to the Arms Export Control Act; and designated fourth sentence as par. (5) and substituted therein “may not” for “shall not”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–533, in revising subsec. (a), incorporated part of existing first sentence in provisions designated par. (1), inserted reference to Arms Export Control Act, struck out reference to Mutual Defense Assistance Control Act of 1951, required notification of the Speaker of the House and chairman of the Senate Committee on Foreign Relations, and substituted “security interests” for “security”; inserted pars. (2) and (3); incorporated part of existing first sentence, second sentence, and substance of third sentence in provisions designated par. (4) and inserted reference to the Arms Export Control Act; and designated fourth sentence as par. (5) and substituted therein “may not” for “shall not”.
 
-1974—Subsec. (a). Pub. L. 93–559 provided that the authority of the section shall not be used to waive the limitations on transfers contained in section 2360(a) of this title.
+<b>1974</b>—Subsec. (a). Pub. L. 93–559 provided that the authority of the section shall not be used to waive the limitations on transfers contained in section 2360(a) of this title.
 
-1967—Subsec. (a). Pub. L. 90–137 substituted “506” for “510”, classified to the Code as section 2318 of this title.
+<b>1967</b>—Subsec. (a). Pub. L. 90–137 substituted “506” for “510”, classified to the Code as section 2318 of this title.
 
-1966—Subsec. (a). Pub. L. 89–583, §301(f), provided that the $50,000,000 limitation on allocation of funds to any country in any one fiscal year shall not apply to any country which is a victim of active Communist or Communist-supported aggression.
+<b>1966</b>—Subsec. (a). Pub. L. 89–583, §301(f), provided that the $50,000,000 limitation on allocation of funds to any country in any one fiscal year shall not apply to any country which is a victim of active Communist or Communist-supported aggression.
 
 Subsec. (c). Pub. L. 89–583, §301(g), inserted provision for reports to Congress of use of funds under this subsec.
 

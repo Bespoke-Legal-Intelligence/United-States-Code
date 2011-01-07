@@ -90,7 +90,7 @@ It is the sense of the Congress that, as previously stated in title V of the Men
 
 &emsp;&emsp;(ii) the areas of the program or facility where such person has received treatment, resided, or had access; and
 
-&emsp;&emsp;(iii) pursuant to the written authorization of such person, the records and information pertaining to such person's diagnosis, treatment, and related services described in paragraph (1)(I).
+&emsp;&emsp;(iii) pursuant to the written authorization of such person, the records and informationpertaining to such person's diagnosis, treatment, and related services described in paragraph (1)(I).
 
 &emsp;(D) Each program and facility should post a notice listing and describing, in language and terms appropriate to the ability of the persons to whom such notice is addressed to understand, the rights described in this section of all persons admitted to such program or facility. Each such notice should conform to the format and content for such notices, and should be posted in all appropriate locations.
 
@@ -108,5 +108,5 @@ The Mental Health Systems Act, referred to in introductory text, is Pub. L. 96�
 
 #### Amendments
 
-1991—Par. (1)(M)(iii). Pub. L. 102–173 substituted “individuals with mental illness” for “mentally ill individuals”.
+<b>1991</b>—Par. (1)(M)(iii). Pub. L. 102–173 substituted “individuals with mental illness” for “mentally ill individuals”.
 

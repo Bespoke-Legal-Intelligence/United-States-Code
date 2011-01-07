@@ -104,7 +104,7 @@ A State may establish a medicare rural hospital flexibility program described in
 
 #### (iv) Effect of failure to meet requirements
 
-&emsp;&emsp;&emsp;If a psychiatric or rehabilitation unit established under clause (i) does not meet the requirements described in such clause with respect to a cost reporting period, no payment may be made under this subchapter to the hospital for services furnished in such unit during such period. Payment to the hospital for services furnished in the unit may resume only afterthe hospital has demonstrated to the Secretary that the unit meets such requirements.
+&emsp;&emsp;&emsp;If a psychiatric or rehabilitation unit established under clause (i) does not meet the requirements described in such clause with respect to a cost reporting period, no payment may be made under this subchapter to the hospital for services furnished in such unit during such period. Payment to the hospital for services furnished in the unit may resume only after the hospital has demonstrated to the Secretary that the unit meets such requirements.
 
 #### (d) “Rural health network” defined
 
@@ -188,7 +188,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (A) Grants to hospitals
 
-&emsp;&emsp;The Secretary may award grants to hospitals that have submitted applications in accordance with subparagraph (C) to assist eligible small rural hospitals in meeting the costs of implementing data systems required to meet requirements established under the medicare program pursuant to amendments made by the Balanced Budget Act of 1997.
+&emsp;&emsp;The Secretary may award grants to hospitals that have submitted applications in accordance with subparagraph (C) to assist eligible small rural hospitals in meeting the costs of implementing data systems required to meet requirements established under the medicare program pursuant to amendments made by the Balanced Budget Act of 1997 and to assist such hospitals in participating in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary.
 
 #### (B) Eligible small rural hospital defined
 
@@ -200,7 +200,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (C) Application
 
-&emsp;&emsp;A hospital seeking a grant under this paragraph shall submit an application to theSecretary on or before such date and in such form and manner as the Secretary specifies.
+&emsp;&emsp;A hospital seeking a grant under this paragraph shall submit an application to the Secretary on or before such date and in such form and manner as the Secretary specifies.
 
 #### (D) Amount of grant
 
@@ -208,7 +208,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (E) Use of funds
 
-&emsp;&emsp;A hospital receiving a grant under this paragraph may use the funds for the purchase of computer software and hardware, the education and training of hospital staff on computer information systems, and to offset costs related to the implementation of prospective payment systems.
+&emsp;&emsp;A hospital receiving a grant under this paragraph may use the funds for the purchase of computer software and hardware, the education and training of hospital staff on computer information systems, to offset costs related to the implementation of prospective payment systems and to participate in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary.
 
 #### (F) Reports
 
@@ -328,7 +328,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (3) State authority to waive 35-mile rule
 
-&emsp;In the case of a facility that was designated as a critical access hospital before January 1, 2006, and was certified by the State as being a necessary provider of health care services to residents in the area under subsection\(c)(2)(B)(i)(II) of this section, as in effect before such date, the authority under such subsection with respect to any redesignation of such facility shall continue to apply notwithstanding the amendment made by section 405(h)(1) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.
+&emsp;In the case of a facility that was designated as a critical access hospital before January 1, 2006, and was certified by the State as being a necessary provider of health care services to residents in the area under subsection (c)(2)(B)(i)(II) of this section, as in effect before such date, the authority under such subsection with respect to any redesignation of such facility shall continue to apply notwithstanding the amendment made by section 405(h)(1) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.
 
 #### (i) Waiver of conflicting part A provisions
 
@@ -336,13 +336,15 @@ The Secretary is authorized to waive such provisions of this part and part E of 
 
 #### (j) Authorization of appropriations
 
-There are authorized to be appropriated from the Federal Hospital Insurance Trust Fund for making grants to all States under subsection (g) of this section, $25,000,000 in each of the fiscal years 1998 through 2002, for making grants to all States under paragraphs (1) and (2) of subsection (g) of this section, $35,000,000 in each of fiscal years 2005 through 2008, for making grants to all States under paragraphs (1) and (2) of subsection (g), $55,000,000 in each of fiscal years 2009 and 2010, and for making grants to all States under paragraph (6) of subsection (g), $50,000,000 in each of fiscal years 2009 and 2010, to remain available until expended.
+There are authorized to be appropriated from the Federal Hospital Insurance Trust Fund for making grants to all States under subsection (g) of this section, $25,000,000 in each of the fiscal years 1998 through 2002, for making grants to all States under paragraphs (1) and (2) of subsection (g) of this section, $35,000,000 in each of fiscal years 2005 through 2008, for making grants to all States under paragraphs (1) and (2) of subsection (g), $55,000,000 in each of fiscal years 2009 and 2010, for making grants to all States under paragraph (6) of subsection (g), $50,000,000 in each of fiscal years 2009 and 2010, to remain available until expended and for making grants to all States under subsection (g), such sums as may be necessary in each of fiscal years 2011 and 2012, to remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1820, as added Pub. L. 101–239, title VI, §6003(g)(1)(A), Dec. 19, 1989, 103 Stat. 2145; amended Pub. L. 101–508, title IV, §4008(d)(1)–(3), (m)(2)(B), Nov. 5, 1990, 104 Stat. 1388–44, 1388–45, 1388–53; Pub. L. 103–432, title I, §102(a)(1), (2), (b)(1)(A), (2), (c), (f), (h), Oct. 31, 1994, 108 Stat. 4401–4404; Pub. L. 105–33, title IV, §§4002(f)(1), 4201(a), Aug. 5, 1997, 111 Stat. 329, 369; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(a), title IV, §§401(b)(2), 403(a)(1), (b), (c), 409\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, 1501A–369, 1501A–370, 1501A–375; Pub. L. 108–173, title I, §101(e)(1), title IV, §405(e)(1), (2), (f), (g)(1), (h), Dec. 8, 2003, 117 Stat. 2150, 2267–2269; Pub. L. 110–275, title I, §121, July 15, 2008, 122 Stat. 2511.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1820, as added Pub. L. 101–239, title VI, §6003(g)(1)(A), Dec. 19, 1989, 103 Stat. 2145; amended Pub. L. 101–508, title IV, §4008(d)(1)–(3), (m)(2)(B), Nov. 5, 1990, 104 Stat. 1388–44, 1388–45, 1388–53; Pub. L. 103–432, title I, §102(a)(1), (2), (b)(1)(A), (2), (c), (f), (h), Oct. 31, 1994, 108 Stat. 4401–4404; Pub. L. 105–33, title IV, §§4002(f)(1), 4201(a), Aug. 5, 1997, 111 Stat. 329, 369; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(a), title IV, §§401(b)(2), 403(a)(1), (b), (c), 409\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, 1501A–369, 1501A–370, 1501A–375; Pub. L. 108–173, title I, §101(e)(1), title IV, §405(e)(1), (2), (f), (g)(1), (h), Dec. 8, 2003, 117 Stat. 2150, 2267–2269; Pub. L. 110–275, title I, §121, July 15, 2008, 122 Stat. 2511; Pub. L. 111–148, title III, §3129(a), (b), Mar. 23, 2010, 124 Stat. 426.)
 
 #### References in Text
 
 The Balanced Budget Act of 1997, referred to in subsec. (g)(3)(A), is Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251. For complete classification of this Act to the Code, see Tables.
+
+The Patient Protection and Affordable Care Act, referred to in subsec. (g)(3)(A), (E), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
 
 Section 405(h)(1) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec. (h)(3), is section 405(h)(1) of Pub. L. 108–173, which amended this section. See 2003 Amendment note below.
 
@@ -350,7 +352,13 @@ Part E of this subchapter, referred to in subsec. (i), is classified to section 
 
 #### Amendments
 
-2008—Subsec. (g)(1)(D). Pub. L. 110–275, §121(d), added subpar. (D).
+<b>2010</b>—Subsec. (g)(3)(A). Pub. L. 111–148, §3129(b)(1), inserted “and to assist such hospitals in participating in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary” before period at end.
+
+Subsec. (g)(3)(E). Pub. L. 111–148, §3129(b)(2), substituted “, to offset” for “, and to offset” and inserted “and to participate in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary” before period at end.
+
+Subsec. (j). Pub. L. 111–148, §3129(a), substituted “2010, for” for “2010, and for” and inserted “and for makinggrants to all States under subsection (g), such sums as may be necessary in each of fiscal years 2011 and 2012, to remain available until expended” before period at end.
+
+<b>2008</b>—Subsec. (g)(1)(D). Pub. L. 110–275, §121(d), added subpar. (D).
 
 Subsec. (g)(5). Pub. L. 110–275, §121(b)(2), which directed insertion of “and, of the total amount appropriated for grants under paragraphs (1), (2), and (6) for a fiscal year (beginning with fiscal year 2009)” after “2005)”, was executed by making the insertion after “2008)” to reflect the probable intent of Congress and the amendment by section 121(b)(1) of Pub. L. 110–275. See note below.
 
@@ -362,7 +370,7 @@ Subsec. (g)(7). Pub. L. 110–275, §121(e), added par. (7).
 
 Subsec. (j). Pub. L. 110–275, §121(c), substituted “2002, for” for “2002, and for” and inserted “, for making grants to all States under paragraphs (1) and (2) of subsection (g), $55,000,000 in each of fiscal years 2009 and 2010, and for making grants to all States under paragraph (6) of subsection (g), $50,000,000 in each of fiscal years 2009 and 2010, to remain available until expended” before period at end.
 
-2003—Subsec. (c)(2)(B)(i)(II). Pub. L. 108–173, §405(h)(1), inserted “before January 1, 2006,” after “is certified”.
+<b>2003</b>—Subsec. (c)(2)(B)(i)(II). Pub. L. 108–173, §405(h)(1), inserted “before January 1, 2006,” after “is certified”.
 
 Subsec. (c)(2)(B)(iii). Pub. L. 108–173, §405(e)(1), substituted “25” for “15 (or, in the case of a facility under an agreement described in subsection (f) of this section, 25)”.
 
@@ -380,7 +388,7 @@ Subsec. (i). Pub. L. 108–173, §101(e)(1), substituted “part E” for “par
 
 Subsec. (j). Pub. L. 108–173, §405(f)(1), inserted before period at end “, and for making grants to all States under paragraphs (1) and (2) of subsection (g) of this section, $35,000,000 in each of fiscal years 2005 through 2008”.
 
-1999—Subsec. (c)(2)(A). Pub. L. 106–113, §1000(a)(6) \[title IV, §403(c)(1)\], substituted “subparagraphs (B), (C), and (D)” for “subparagraph (B)”.
+<b>1999</b>—Subsec. (c)(2)(A). Pub. L. 106–113, §1000(a)(6) \[title IV, §403(c)(1)\], substituted “subparagraphs (B), (C), and (D)” for “subparagraph (B)”.
 
 Subsec. (c)(2)(B)(i). Pub. L. 106–113, §1000(a)(6) \[title IV, §403(b)\], substituted “hospital” for “nonprofit or public hospital”.
 
@@ -394,11 +402,11 @@ Subsec. (c)(2)(C), (D). Pub. L. 106–113, §1000(a)(6) \[title IV, §403(c)(2)\
 
 Subsec. (g)(3). Pub. L. 106–113, §1000(a)(6) \[title IV, §409\], added par. (3).
 
-1997—Pub. L. 105–33, §4201(a), amended section catchline and text generally, substituting provisions relating to medicare rural hospital flexibility program for provisions relating to essential access community hospital program.
+<b>1997</b>—Pub. L. 105–33, §4201(a), amended section catchline and text generally, substituting provisions relating to medicare rural hospital flexibility program for provisions relating to essential access community hospital program.
 
 Subsec. (j). Pub. L. 105–33, §4002(f)(1), substituted “part D” for “part C”.
 
-1994—Subsec. (c)(1). Pub. L. 103–432, §102(b)(2)(B)(i), substituted “paragraph (3) or subsection (k) of this section” for “paragraph (3)”.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–432, §102(b)(2)(B)(i), substituted “paragraph (3) or subsection (k) of this section” for “paragraph (3)”.
 
 Subsec. (e)(1). Pub. L. 103–432, §102(b)(1)(A)(i), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “is located in a rural area (as defined in section 1395ww(d)(2)(D) of this title);”.
 
@@ -426,7 +434,7 @@ Subsec. (<i>l</i>). Pub. L. 103–432, §102(h), substituted “1990 through 199
 
 Pub. L. 103–432, §102(b)(2)(A)(i), redesignated subsec. (k) as (<i>l</i>).
 
-1990—Subsec. (d)(1). Pub. L. 101–508, §4008(m)(2)(B)(i), struck out “demonstration” before “program”.
+<b>1990</b>—Subsec. (d)(1). Pub. L. 101–508, §4008(m)(2)(B)(i), struck out “demonstration” before “program”.
 
 Subsec. (f)(1)(A). Pub. L. 101–508, §4008(d)(3), inserted before semicolon at end “, or is located in a county whose geographic area is substantially larger than the average geographic area for urban counties in the United States and whose hospital service area is characteristic of service areas of hospitals located in rural areas”.
 
@@ -437,6 +445,10 @@ Subsec. (g)(1)(A)(ii). Pub. L. 101–508, §4008(m)(2)(B)(ii), substituted “re
 Subsec. (i)(2)(C). Pub. L. 101–508, §4008(d)(1), inserted at end “In designating facilities as rural primary care hospitals under this subparagraph, the Secretary shall give preference to facilities not meeting the requirements of clause (i) of subparagraph (A) that have entered into an agreement described in subsection (g)(2) of this section with a rural health network located in a State receiving a grant under subsection (a)(1) of this section.”
 
 Subsec. (j). Pub. L. 101–508, §4008(m)(2)(B)(iii), inserted “and part C of this subchapter” after “this part”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title III, §3129(c), Mar. 23, 2010, 124 Stat. 427, provided that: “The amendments made by this section \[amending this section\] shall apply to grants made on or after January 1, 2010.”
 
 #### Effective Date of 2003 Amendment
 
@@ -462,7 +474,7 @@ Section 4008(d)(4) of Pub. L. 101–508 provided that: “The amendments made by
 
 #### Demonstration Project on Community Health Integration Models in Certain Rural Counties
 
-Pub. L. 110–275, title I, §123, July 15, 2008, 122 Stat. 2514, provided that:
+Pub. L. 110–275, title I, §123, July 15, 2008, 122 Stat. 2514, as amended by Pub. L. 111–148, title III, §3126, Mar. 23, 2010, 124 Stat. 425, provided that:
 
 “(a)
 
@@ -472,7 +484,7 @@ In General.—The Secretary shall establish a demonstration project to allow eli
 
 Purpose.—The purpose of the demonstration project under this section is to—
 
-&emsp;“(1) explore ways to increase access to, and improve the adequacy of, payments for acute care, extendedcare, and other essential health care services provided under the Medicare and Medicaid programs in eligible counties; and
+&emsp;“(1) explore ways to increase access to, and improve the adequacy of, payments for acute care, extended care, and other essential health care services provided under the Medicare and Medicaid programs in eligible counties; and
 
 &emsp;“(2) evaluate regulatory challenges facing such providers and the communities they serve.
 
@@ -524,7 +536,7 @@ Limitation.—The Secretary shall select eligible entities located in not more t
 
 &emsp;“(3)
 
-Selection of eligible counties.—An eligible entity selected by the Secretary to participate in the demonstration project under this section shall select not more than 6 eligible counties in the State in which the entity is located in which to conduct the demonstration project.
+Selection of eligible counties.—An eligible entity selected by the Secretary to participate in the demonstration project under this section shall select eligible counties in the State in which the entity is located in which to conduct the demonstration project.
 
 &emsp;“(4)
 
@@ -539,8 +551,6 @@ Eligible county defined.—In this section, the term ‘eligible county’ means
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) Home health services.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) Hospice care.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) Rural health clinic services.
 
 &emsp;&emsp;&emsp;“(ii) As of the date of the enactment of this Act, the critical access hospital has an average daily inpatient census of 5 or less.
 
@@ -596,7 +606,7 @@ In general.—The Secretary shall provide for the transfer, in appropriate part 
 
 Budget neutrality.—In conducting the demonstration project under this section, the Secretary shall ensure that the aggregate payments made by the Secretary do not exceed the amount which the Secretary estimates would have been paid if the demonstration project under this section was not implemented.
 
-&emsp;“(2) HRSA.—There are authorized to be appropriated to the Office of Rural Health Policy of the Health Resources and Services Administration $800,000 for each of fiscal years 2010, 2011, and 2012 forthe purpose of carrying out the duties of such Office under the demonstration project under this section, to remain available for the duration of the demonstration project.
+&emsp;“(2) HRSA.—There are authorized to be appropriated to the Office of Rural Health Policy of the Health Resources and Services Administration $800,000 for each of fiscal years 2010, 2011, and 2012 for the purpose of carrying out the duties of such Office under the demonstration project under this section, to remain available for the duration of the demonstration project.
 
 “(h)
 
@@ -658,7 +668,7 @@ Other essential health care services.—The term ‘other essential health care 
 
 &emsp;&emsp;“(A) Ambulance services (as described in section 1861(s)(7) of the Social Security Act (42 U.S.C. 1395x(s)(7))).
 
-&emsp;&emsp;“(B) Rural health clinic services.
+&emsp;&emsp;“(B) Physicians’ services (as defined in section 1861(q) of the Social Security Act (42 U.S.C. 1395x(q))\[)\].
 
 &emsp;&emsp;“(C) Public health services (as defined by the Secretary).
 
@@ -666,11 +676,9 @@ Other essential health care services.—The term ‘other essential health care 
 
 &emsp;“(9)
 
-Rural health clinic services.—The term ‘rural health clinic services’ has the meaning given such term in section 1861(aa)(1) of such Act (42 U.S.C. 1395x(aa)(1)).
-
-&emsp;“(10)
-
 Secretary.—The term ‘Secretary’ means the Secretary of Health and Human Services.”
+
+\[Pub. L. 111–148, title III, §3126(b)(1), Mar. 23, 2010, 124 Stat. 426, which directed amendment of section 123 of Pub. L. 111–275, set out above, by striking out subsec. (d)(4)(B)(i)(3)(III), was executed by striking out subsec. (d)(4)(B)(i)(III) to reflect the probable intent of Congress.\]
 
 #### GAO Study on Certain Eligibility Requirements for Critical Access Hospitals
 

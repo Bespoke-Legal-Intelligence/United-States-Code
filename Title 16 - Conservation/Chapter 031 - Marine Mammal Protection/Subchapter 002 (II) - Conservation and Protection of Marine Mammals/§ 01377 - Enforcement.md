@@ -28,7 +28,7 @@ Any person authorized by the Secretary to enforce this subchapter may execute an
 
 (1) Whenever any cargo or marine mammal or marine mammal product is seized pursuant to this section, the Secretary shall expedite any proceedings commenced under section 1375(a) or (b) of this title. All marine mammal or marine mammal products or other cargo so seized shall be held by any person authorized by the Secretary pending disposition of such proceedings. The owner or consignee of any such marine mammal or marine mammal product or other cargo so seized shall, as soon as practicable following such seizure, be notified of that fact in accordance with regulations established by the Secretary.
 
-(2) The Secretary may, with respect to any proceeding under section 1375(a) or (b) of this title, in lieu of holding any marine mammal ormarine mammal product or other cargo, permit the person concerned to post bond or other surety satisfactory to the Secretary pending the disposition of such proceeding.
+(2) The Secretary may, with respect to any proceeding under section 1375(a) or (b) of this title, in lieu of holding any marine mammal or marine mammal product or other cargo, permit the person concerned to post bond or other surety satisfactory to the Secretary pending the disposition of such proceeding.
 
 (3)(A) Upon the assessment of a penalty pursuant to section 1375(a) of this title, all marine mammals and marine mammal products or other cargo seized in connection therewith may be proceeded against in any court of competent jurisdiction and forfeited to the Secretary for disposition by him in such manner as he deems appropriate.
 
@@ -44,7 +44,7 @@ Any person authorized by the Secretary to enforce this subchapter may execute an
 
 #### Amendments
 
-2007—Subsec. (d)(2). Pub. L. 109–479 substituted “vessel, other conveyance, or container” for “vessel or other conveyance”.
+<b>2007</b>—Subsec. (d)(2). Pub. L. 109–479 substituted “vessel, other conveyance, or container” for “vessel or other conveyance”.
 
 #### Change of Name
 

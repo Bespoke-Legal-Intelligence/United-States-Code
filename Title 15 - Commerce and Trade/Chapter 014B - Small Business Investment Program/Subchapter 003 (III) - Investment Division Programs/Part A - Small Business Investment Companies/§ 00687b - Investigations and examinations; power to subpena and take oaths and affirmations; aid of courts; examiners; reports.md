@@ -2,7 +2,7 @@
 
 #### (a) Investigation of violations
 
-The Administration may make such investigations as it deems necessary to determine whether a licensee or any other person has engaged or is about to engage in any acts or practices which constitute or will constitute a violation of any provision of this chapter, or of any rule or regulation under this chapter, or of any order issued under this chapter. The Administration shall permit any person to file with it a statement in writing, under oath or otherwise as the Administration shall determine, as to all the facts and circumstances concerning the matter to be investigated. For the purpose of any investigation, the Administration is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, and documents which are relevant to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States. In case of contumacy by, or refusal to obey a subpena issued to, any person, including a licensee, the Administration may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, and documents; and such court may issue an order requiring such person to appear before the Administration, there to produce records, if so ordered, or to give testimony touching the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district whereof such person is an inhabitant or wherever he may be found.
+The Administration may make such investigations as it deems necessary to determine whether a licensee or any other person has engaged or is about to engage in any acts or practices which constitute or will constitute a violation of any provision of this chapter, or of any rule or regulation under this chapter, or of any order issued under this chapter. The Administration shall permit any person to file with it a statement in writing, under oath or otherwise as the Administration shall determine, as to all the facts and circumstances concerning the matter to be investigated. For the purpose of any investigation, the Administration is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, and documents which are relevant to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States. In case of contumacy by, or refusal to obey a subpena issued to, any person, including a licensee, the Administration may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, and documents; and such court may issue an order requiring such person to appear before the Administration, there to produce records, if so ordered, or to give testimony touching the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in anysuch case may be served in the judicial district whereof such person is an inhabitant or wherever he may be found.
 
 #### (b) Examinations and reports
 
@@ -72,29 +72,29 @@ The Investment Company Act of 1940, referred to in subsec. (b), is title I of ac
 
 #### Amendments
 
-2000—Subsec. (c)(4). Pub. L. 106–554 substituted “1 year” for “five years”.
+<b>2000</b>—Subsec. (c)(4). Pub. L. 106–554 substituted “1 year” for “five years”.
 
-1997—Subsec. (b). Pub. L. 105–135 inserted after first sentence “Fees collected under this subsection shall be deposited in the account for salaries and expenses of the Administration, and are authorized to be appropriated solely to cover the costs of examinations and other program oversight activities.”
+<b>1997</b>—Subsec. (b). Pub. L. 105–135 inserted after first sentence “Fees collected under this subsection shall be deposited in the account for salaries and expenses of the Administration, and are authorized to be appropriated solely to cover the costs of examinations and other program oversight activities.”
 
-1996—Subsec. (b). Pub. L. 104–208, §208(f)(1), inserted “which may be conducted with the assistance of a private sector entity that has both the qualifications to conduct and expertise in conducting such examinations,” after “Investment Division of the Administration,” in first sentence.
+<b>1996</b>—Subsec. (b). Pub. L. 104–208, §208(f)(1), inserted “which may be conducted with the assistance of a private sector entity that has both the qualifications to conduct and expertise in conducting such examinations,” after “Investment Division of the Administration,” in first sentence.
 
 Subsec. (c)(4). Pub. L. 104–208, §208(h)(1)(C), struck out “not less than four years in the case of section 301(d) licensees and in all other cases,” after “small businesses for”.
 
-Subsec. (d). Pub. L. 104–208, §208(f)(2), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “Each small business investment company shall adopt written guidelines for determination of the value of investments made by such company. The board of directors of corporations and the general partners of partnerships shall have the sole responsibility for making a good faith determination of the fair market value of the investments made by such company. Determinations shall be made and reported to the Administration not less than semiannually or at more frequent intervals as the Administration determines appropriate: <i>Provided</i>, That any company which does not have outstanding financial assistance under the provisions of this subchapter shall be required to make such determinations and reports tothe Administration annually, unless the Administration, in its discretion, determines otherwise.”
+Subsec. (d). Pub. L. 104–208, §208(f)(2), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “Each small business investment company shall adopt written guidelines for determination of the value of investments made by such company. The board of directors of corporations and the general partners of partnerships shall have the sole responsibility for making a good faith determination of the fair market value of the investments made by such company. Determinations shall be made and reported to the Administration not less than semiannually or at more frequent intervals as the Administration determines appropriate: <i>Provided</i>, That any company which does not have outstanding financial assistance under the provisions of this subchapter shall be required to make such determinations and reports to the Administration annually, unless the Administration, in its discretion, determines otherwise.”
 
-1992—Subsec. (b). Pub. L. 102–366, §407(a), substituted “Investment Division of” for “Administration by examiners selected or approved by”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–366, §407(a), substituted “Investment Division of” for “Administration by examiners selected or approved by”.
 
 Subsec. (c)(5). Pub. L. 102–366, §408(b), inserted before semicolon at end “, if such restriction is applicable”.
 
 Subsec. (d). Pub. L. 102–366, §406(b), added subsec. (d).
 
-1988—Subsec. (b). Pub. L. 100–590 struck out second sentence, which read as follows: “Each such company shall be examined at least once each year, except that the Administrator may waive examination in the case of a company whose operations have been suspended by reason of the fact that the company is involved in litigation or is in receivership.”
+<b>1988</b>—Subsec. (b). Pub. L. 100–590 struck out second sentence, which read as follows: “Each such company shall be examined at least once each year, except that the Administrator may waive examination in the case of a company whose operations have been suspended by reason of the fact that the company is involved in litigation or is in receivership.”
 
 Subsec. (c). Pub. L. 100–590 added subsec. (c).
 
-1967—Subsec. (b). Pub. L. 90–104 required at least annual examination of small business investment companies but provided for waiver of examination of a company whose operations have been suspended because the company is involved in litigation or is in receivership.
+<b>1967</b>—Subsec. (b). Pub. L. 90–104 required at least annual examination of small business investment companies but provided for waiver of examination of a company whose operations have been suspended because the company is involved in litigation or is in receivership.
 
-1966—Pub. L. 89–779 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1966</b>—Pub. L. 89–779 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1997 Amendment
 

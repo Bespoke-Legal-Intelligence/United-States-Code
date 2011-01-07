@@ -102,19 +102,19 @@ Definitions.—In this section:
 
 #### Amendments
 
-2000—Subsec. (b)(5)(C). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(6)\], struck out “pursuant to subsection (i)(2) of such section” after “section 1076a of this title”.
+<b>2000</b>—Subsec. (b)(5)(C). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(6)\], struck out “pursuant to subsection (i)(2) of such section” after “section 1076a of this title”.
 
 Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title VII, §726(b)\], substituted “Required Terminations” for “Termination” in heading.
 
 Subsecs. (i), (j). Pub. L. 106–398, §1 \[\[div. A\], title VII, §726(a)\], added subsec. (i) and redesignated former subsec. (i) as (j).
 
-1999—Subsec. (d). Pub. L. 106–65 amended heading and text of subsec. (d) generally. Text read as follows: “The dental insurance plan established under subsection (a) shall provide benefits for basic dental care and treatment, including diagnostic services, preventative services, basic restorative services (including endodontics), surgical services, and emergency services.”
+<b>1999</b>—Subsec. (d). Pub. L. 106–65 amended heading and text of subsec. (d) generally. Text read as follows: “The dental insurance plan established under subsection (a) shall provide benefits for basic dental care and treatment, including diagnostic services, preventative services, basic restorative services (including endodontics), surgical services, and emergency services.”
 
-1998—Subsec. (b)(4), (5). Pub. L. 105–261, §702(a), added par. (4) and redesignated former par. (4) as (5).
+<b>1998</b>—Subsec. (b)(4), (5). Pub. L. 105–261, §702(a), added par. (4) and redesignated former par. (4) as (5).
 
 Subsec. (f)(3). Pub. L. 105–261, §702(b), substituted “(b)(5)” for “(b)(4)”.
 
-1997—Subsec. (a). Pub. L. 105–85, §734(a)(1), (b)(1), substituted “The Secretary of Defense, in consultation with the other administering Secretaries, shall establish a dental insurance plan for retirees of the uniformed services” for “The Secretary of Defense shall establish a dental insurance plan for military retirees”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–85, §734(a)(1), (b)(1), substituted “The Secretary of Defense, in consultation with the other administering Secretaries, shall establish a dental insurance plan for retirees of the uniformed services” for “The Secretary of Defense shall establish a dental insurance plan for military retirees”.
 
 Subsec. (b)(1). Pub. L. 105–85, §734(a)(2), substituted “uniformed services” for “Armed Forces”.
 

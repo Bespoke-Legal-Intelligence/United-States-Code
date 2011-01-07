@@ -62,7 +62,7 @@ Lead Agencies.—
 
 &emsp;(1)
 
-Federal lead agency.—The Department of Transportation shall be the Federal leadagency in the environmental review process for a project.
+Federal lead agency.—The Department of Transportation shall be the Federal lead agency in the environmental review process for a project.
 
 &emsp;(2)
 
@@ -130,7 +130,7 @@ Designations for categories of projects.—The Secretary may exercise the author
 
 Concurrent reviews.—Each Federal agency shall, to the maximum extent practicable—
 
-&emsp;&emsp;(A) carry out obligations of the Federal agency under other applicable law concurrently, and in conjunction, with the review required under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), unless doing so would impair the ability of the Federal agency to carry out those obligations; and
+&emsp;&emsp;(A) carry out obligations of the Federal agency under other applicable law concurrently, and in conjunction, with the review required under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), unless doing so would impair the ability of theFederal agency to carry out those obligations; and
 
 &emsp;&emsp;(B) formulate and implement administrative, policy, and procedural mechanisms to enable the agency to ensure completion of the environmental review process in a timely, coordinated, and environmentally responsible manner.
 
@@ -336,7 +336,7 @@ Limitations.—Nothing in this section shall preempt or interfere with—
 
 &emsp;&emsp;(A) any practice of seeking, considering, or responding to public comment; or
 
-&emsp;&emsp;(B) any power, jurisdiction, responsibility, or authority that a Federal, State, or localgovernment agency, metropolitan planning organization, Indian tribe, or project sponsor has with respect to carrying out a project or any other provisions of law applicable to projects, plans, or programs.
+&emsp;&emsp;(B) any power, jurisdiction, responsibility, or authority that a Federal, State, or local government agency, metropolitan planning organization, Indian tribe, or project sponsor has with respect to carrying out a project or any other provisions of law applicable to projects, plans, or programs.
 
 (<i>l</i>)
 

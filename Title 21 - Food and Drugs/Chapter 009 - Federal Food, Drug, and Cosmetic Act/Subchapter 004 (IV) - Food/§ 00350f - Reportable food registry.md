@@ -126,7 +126,7 @@ In this section:
 
 The data elements described in this subsection are the following:
 
-&emsp;(1) The registration numbers of the responsible party under section 350d(a)(3) of this title.
+&emsp;(1) The registration numbers of the responsible party under section 350d(a)(3) <sup>1</sup> of this title.
 
 &emsp;(2) The date on which an article of food was determined to be a reportable food.
 
@@ -148,7 +148,51 @@ The data elements described in this subsection are the following:
 
 &emsp;(11) The unique number described in subsection (d)(4).
 
-#### (f) Coordination of Federal, State, and local efforts
+#### (f) Critical information
+
+Except with respect to fruits and vegetables that are raw agricultural commodities, not more than 18 months after January 4, 2011, the Secretary may require a responsible party to submit to the Secretary consumer-oriented information regarding a reportable food, which shall include—
+
+&emsp;(1) a description of the article of food as provided in subsection (e)(3);
+
+&emsp;(2) as provided in subsection (e)(7), affected product identification codes, such as UPC, SKU, or lot or batch numbers sufficient for the consumer to identify the article of food;
+
+&emsp;(3) contact information for the responsible party as provided in subsection (e)(8); and
+
+&emsp;(4) any other information the Secretary determines is necessary to enable a consumer to accurately identify whether such consumer is in possession of the reportable food.
+
+#### (g) Grocery store notification
+
+#### (1) Action by Secretary
+
+&emsp;The Secretary shall—
+
+&emsp;&emsp;(A) prepare the critical information described under subsection (f) for a reportable food as a standardized one-page summary;
+
+&emsp;&emsp;(B) publish such one-page summary on the Internet website of the Food and Drug Administration in a format that can be easily printed by a grocery store for purposes of consumer notification.
+
+#### (2) Action by grocery store
+
+&emsp;A notification described under paragraph (1)(B) shall include the date and time such summary was posted on the Internet website of the Food and Drug Administration.
+
+#### (h) Consumer notification
+
+#### (1) In general
+
+&emsp;If a grocery store sold a reportable food that is the subject of the posting and such establishment is part of <sup>2</sup> chain of establishments with 15 or more physical locations, then such establishment shall, not later than 24 hours after a one page summary described in subsection (g) is published, prominently display such summary or the information from such summary via at least one of the methods identified under paragraph (2) and maintain the display for 14 days.
+
+#### (2) List of conspicuous locations
+
+&emsp;Not more than 1 year after January 4, 2011, the Secretary shall develop and publish a list of acceptable conspicuous locations and manners, from which grocery stores shall select at least one, for providing the notification required in paragraph (1). Such list shall include—
+
+&emsp;&emsp;(A) posting the notification at or near the register;
+
+&emsp;&emsp;(B) providing the location of the reportable food;
+
+&emsp;&emsp;(C) providing targeted recall information given to customers upon purchase of a food; and
+
+&emsp;&emsp;(D) other such prominent and conspicuous locations and manners utilized by grocery stores as of January 4, 2011, to provide notice of such recalls to consumers as considered appropriate by the Secretary.
+
+#### (i) Coordination of Federal, State, and local efforts
 
 #### (1) Department of Agriculture
 
@@ -166,31 +210,43 @@ The data elements described in this subsection are the following:
 
 &emsp;&emsp;(B) reduce duplicative regulatory efforts.
 
-#### (g) Maintenance and inspection of records
+#### (j) Maintenance and inspection of records
 
-The responsible party shall maintain records related to each report received, notification made, and report submitted to the Food and Drug Administration under this section for 2 years. A responsible party shall, at the request of the Secretary, permit inspection of such records as provided for section <sup>1</sup> 350c of this title.
+The responsible party shall maintain records related to each report received, notification made, and report submitted to the Food and Drug Administration under this section for 2 years. A responsible party shall, at the requestof the Secretary, permit inspection of such records as provided for section <sup>3</sup> 350c of this title.
 
-#### (h) Request for information
+#### (k) Request for information
 
-Except as provided by section 350d(a)(4) of this title, section 552 of title 5 shall apply to any request for information regarding a record in the Reportable Food Registry.
+Except as provided by section 350d(a)(4) <sup>1</sup> of this title, section 552 of title 5 shall apply to any request for information regarding a record in the Reportable Food Registry.
 
-#### (i) Safety report
+#### (<i>l</i>) Safety report
 
 A report or notification under subsection (d) shall be considered to be a safety report under section 379v of this title and may be accompanied by a statement, which shall be part of any report released for public disclosure, that denies that the report or the notification constitutes an admission that the product involved caused or contributed to a death, serious injury, or serious illness.
 
-#### (j) Admission
+#### (m) Admission
 
 A report or notification under this section shall not be considered an admission that the article of food involved is adulterated or caused or contributed to a death, serious injury, or serious illness.
 
-#### (k) Homeland Security notification
+#### (n) Homeland Security notification
 
 If, after receiving a report under subsection (d), the Secretary believes such food may have been deliberately adulterated, the Secretary shall immediately notify the Secretary of Homeland Security. The Secretary shall make relevant information from the Reportable Food Registry available to the Secretary of Homeland Security.
 
-(June 25, 1938, ch. 675, §417, as added Pub. L. 110–85, title X, §1005(b), Sept. 27, 2007, 121 Stat. 965.)
+(June 25, 1938, ch. 675, §417, as added Pub. L. 110–85, title X, §1005(b), Sept. 27, 2007, 121 Stat. 965; amended Pub. L. 111–353, title II, §211(a), Jan. 4, 2011, 124 Stat. 3951.)
+
+#### References in Text
+
+Section 350d(a)(3), (4) of this title, referred to in subsecs. (e)(1) and (k), was redesignated section 350d(a)(4), (5), respectively, of this title by Pub. L. 111–353, title I, §102(a)(2), Jan. 4, 2011, 124 Stat. 3887.
+
+#### Amendments
+
+<b>2011</b>—Subsecs. (f) to (n). Pub. L. 111–353 added subsecs. (f) to (h) and redesignated former subsecs. (f) to (k) as (i) to (n), respectively.
 
 #### Effective Date
 
-Pub. L. 110–85, title X, §1005(e), Sept. 27, 2007, 121 Stat. 969, provided that: “The requirements of section 417(d) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C.350f(d)\], as added by subsection (a) \[probably should be (b)\], shall become effective 1 year after the date of the enactment of this Act \[Sept. 27, 2007\].”
+Pub. L. 110–85, title X, §1005(e), Sept. 27, 2007, 121 Stat. 969, provided that: “The requirements of section 417(d) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350f(d)\], as added by subsection (a) \[probably should be (b)\], shall become effective 1 year after the date of the enactment of this Act \[Sept. 27, 2007\].”
+
+#### Construction of 2011 Amendment
+
+Nothing in amendment by Pub. L. 111–353 to be construed to apply to certain alcohol-related facilities, to alter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
 
 #### Findings
 
@@ -207,4 +263,10 @@ Pub. L. 110–85, title X, §1005(a), Sept. 27, 2007, 121 Stat. 964, provided th
 #### Guidance
 
 Pub. L. 110–85, title X, §1005(f), Sept. 27, 2007, 121 Stat. 969, provided that: “Not later than 9 months after the date of the enactment of this Act \[Sept. 27, 2007\], the Secretary \[of Health and Human Services\] shall issue a guidance to industry about submitting reports to the electronic portal established under section 417 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350f\] (as added by this section) and providing notifications to other persons in the supply chain of an article of food under such section 417.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by “a”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “in section”.</i>
 

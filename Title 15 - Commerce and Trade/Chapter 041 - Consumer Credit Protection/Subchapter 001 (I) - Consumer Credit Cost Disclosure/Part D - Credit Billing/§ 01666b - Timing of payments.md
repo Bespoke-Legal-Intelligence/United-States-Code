@@ -12,7 +12,7 @@ If an open end consumer credit plan provides a time period within which an oblig
 
 #### Amendments
 
-2009—Pub. L. 111–24 amended section generally, adding provisions relating to late payments and delivery of periodic statements, substituting provisions requiring a 21-day statement delivery period for provisions requiring a 14-day period before the imposition of additional finance charges, and striking provisions relating to excusable cause for creditor's failure to make timely mailing or delivery of periodic statements.
+<b>2009</b>—Pub. L. 111–24 amended section generally, adding provisions relating to late payments and delivery of periodic statements, substituting provisions requiring a 21-day statement delivery period for provisions requiring a 14-day period before the imposition of additional finance charges, and striking provisions relating to excusable cause for creditor's failure to make timely mailing or delivery of periodic statements.
 
 Subsec. (a). Pub. L. 111–93 inserted “a credit card account under” after “payment on”.
 

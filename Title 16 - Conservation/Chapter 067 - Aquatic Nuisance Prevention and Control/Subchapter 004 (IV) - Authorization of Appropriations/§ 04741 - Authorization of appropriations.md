@@ -64,7 +64,7 @@ There are authorized to be appropriated $2,500,000 to carry out section 4714 of 
 
 There are authorized to be appropriated to the Director $1,000,000 to carry out research on the prevention, monitoring, and control of aquatic nuisance species in Narragansett Bay, Rhode Island. The funds shall be made available for use by the Department of Environmental Management of the State of Rhode Island.
 
-(Pub. L. 101–646, title I, §1301, Nov. 29, 1990, 104 Stat. 4772; Pub. L. 102–186, §4(b)(2), Dec. 4, 1991,105 Stat. 1283; Pub. L. 104–332, §2(f), (h)(1), Oct. 26, 1996, 110 Stat. 4090, 4091.)
+(Pub. L. 101–646, title I, §1301, Nov. 29, 1990, 104 Stat. 4772; Pub. L. 102–186, §4(b)(2), Dec. 4, 1991, 105 Stat. 1283; Pub. L. 104–332, §2(f), (h)(1), Oct. 26, 1996, 110 Stat. 4090, 4091.)
 
 #### Codification
 
@@ -72,7 +72,7 @@ There are authorized to be appropriated to the Director $1,000,000 to carry out 
 
 #### Amendments
 
-1996—Pub. L. 104–332, §2(h)(1), made technical amendment to Pub. L. 101–646, §1301, which enacted this section.
+<b>1996</b>—Pub. L. 104–332, §2(h)(1), made technical amendment to Pub. L. 101–646, §1301, which enacted this section.
 
 Subsec. (a)(3). Pub. L. 104–332, §2(f)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “$1,000,000 for each of fiscal years 1993, 1994, and 1995 to the Secretary for implementation and enforcement of the regulations promulgated under section 4711 of this title.”
 
@@ -108,5 +108,7 @@ Subsec. (c). Pub. L. 104–332, §2(f)(3), added subsec. (c) and struck out head
 
 Subsecs. (e), (f). Pub. L. 104–332, §2(f)(4), added subsecs. (e) and (f).
 
-1991—Subsec. (b)(4)(A). Pub. L. 102–186 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “$3,375,000 to fund grants under section 1125 of title 33, and of this amount, $2,500,000 to fund grants in the Great Lakes region; and”.
+<b>1991</b>—Subsec. (b)(4)(A). Pub. L. 102–186 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “$3,375,000 to fund grants under section 1125 of title 33, and of this amount, $2,500,000 to fund grants in the Great Lakes region; and”.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

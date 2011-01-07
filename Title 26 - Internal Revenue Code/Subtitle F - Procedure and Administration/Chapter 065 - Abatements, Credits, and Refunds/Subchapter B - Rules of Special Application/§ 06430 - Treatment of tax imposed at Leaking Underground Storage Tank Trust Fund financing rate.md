@@ -16,7 +16,7 @@ A prior section 6430, added Pub. L. 97–448, title I, §106(a)(4)(A), Jan. 12, 
 
 #### Amendments
 
-2007—Pub. L. 110–172 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “No refunds, credits, or payments shall be made under this subchapter for any tax imposed at the Leaking Underground Storage Tank Trust Fund financing rate, except in the case of fuels destined for export.”
+<b>2007</b>—Pub. L. 110–172 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “No refunds, credits, or payments shall be made under this subchapter for any tax imposed at the Leaking Underground Storage Tank Trust Fund financing rate, except in the case of fuels destined for export.”
 
 #### Effective Date of 2007 Amendment
 

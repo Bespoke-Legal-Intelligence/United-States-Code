@@ -12,7 +12,7 @@ Prior sections 1513 to 1520 were renumbered sections 3113 to 3120 of this title,
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–233 inserted “section” after “prescribed by”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–233 inserted “section” after “prescribed by”.
 
 #### Effective Date
 

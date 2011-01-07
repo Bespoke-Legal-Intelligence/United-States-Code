@@ -2,13 +2,13 @@
 
 (a)
 
-Authority.—The Secretary of Defense, with the concurrence of the Secretary of State, may enter into a memorandum of understanding (or other formal agreement) with a foreign country or international organization to provide for the testing, on a reciprocal basis, of defense equipment (1) by the United States using test facilities of that country or organization, and (2) by that country or organization using test facilities of the United States.
+Authority.—The Secretary of Defense, with the concurrence of the Secretary of State, may enter into a memorandum of understanding\(or other formal agreement) with a foreign country or international organization to provide for the testing, on a reciprocal basis, of defense equipment (1) by the United States using test facilities of that country or organization, and (2) by that country or organization using test facilities of the United States.
 
 (b)
 
 Payment of Costs.—A memorandum or other agreement under subsection (a) shall provide that, when a party to the agreement uses a test facility of another party to the agreement, the party using the test facility is charged by the party providing the test facility in accordance with the following principles:
 
-&emsp;(1) The user party shall be charged the amount equal to the direct costs incurred bythe provider party in furnishing test and evaluation services by the providing party's officers, employees, or governmental agencies.
+&emsp;(1) The user party shall be charged the amount equal to the direct costs incurred by the provider party in furnishing test and evaluation services by the providing party's officers, employees, or governmental agencies.
 
 &emsp;(2) The user party may also be charged indirect costs relating to the use of the test facility, but only to the extent specified in the memorandum or other agreement.
 

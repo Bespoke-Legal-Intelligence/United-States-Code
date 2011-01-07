@@ -24,10 +24,6 @@ In addition to the authority otherwise provided under this section, the Assistan
 
 (Pub. L. 96–88, title II, §203, Oct. 17, 1979, 93 Stat. 673.)
 
-#### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (c)(2), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (b)(1) of this section relating to making an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 82 of House Document No. 103–7.

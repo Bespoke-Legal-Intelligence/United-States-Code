@@ -26,5 +26,5 @@ Public Law 101–301, referred to in subsec. (b), is Pub. L. 101–301, May 24, 
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–437 substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–437 substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
 

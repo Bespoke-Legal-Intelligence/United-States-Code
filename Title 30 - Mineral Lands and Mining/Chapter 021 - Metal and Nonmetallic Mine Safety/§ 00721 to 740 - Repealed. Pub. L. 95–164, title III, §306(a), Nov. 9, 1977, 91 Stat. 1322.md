@@ -1,6 +1,6 @@
 ### §§721 to 740. Repealed. Pub. L. 95–164, title III, §306(a), Nov. 9, 1977, 91 Stat. 1322
 
-This chapter, covering the operation of only metal and nonmetallic mines, is covered by section 801 et seq. of this title following the enactment of Pub. L. 95–164 which brought the operation of all coal and other mines under a single legislative canopy.
+This chapter, covering the operation of only metal and nonmetallic mines, is covered by section 801 et seq. of this title following the enactment of Pub. L. 95–164which brought the operation of all coal and other mines under a single legislative canopy.
 
 Section 721, Pub. L. 89–577, §2, Sept. 16, 1966, 80 Stat. 772, defined “commerce”, “mine”, “operator”, “Secretary”, and “Board”. See section 802 of this title.
 

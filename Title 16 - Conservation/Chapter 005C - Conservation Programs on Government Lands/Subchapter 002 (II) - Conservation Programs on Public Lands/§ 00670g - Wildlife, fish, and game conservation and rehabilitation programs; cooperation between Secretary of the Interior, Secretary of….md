@@ -6,13 +6,13 @@ The Secretary of the Interior and the Secretary of Agriculture shall each, in co
 
 #### (b) Implementation of programs
 
-The Secretary of the Interior shall implement the conservation and rehabilitation programsrequired under subsection (a) of this section on public land under his jurisdiction. The Secretary of the Interior shall adopt, modify, and implement the conservation and rehabilitation programs required under subsection (a) of this section on public land under the jurisdiction of the Chairman, but only with the prior written approval of the Atomic Energy Commission, and on public land under the jurisdiction of the Administrator, but only with the prior written approval of the Administrator. The Secretary of Agriculture shall implement such conservation and rehabilitation programs on public land under his jurisdiction.
+The Secretary of the Interior shall implement the conservation and rehabilitation programs required under subsection (a) of this section on public land under his jurisdiction. The Secretary of the Interior shall adopt, modify, and implement the conservation and rehabilitation programs required under subsection (a) of this section on public land under the jurisdiction of the Chairman, but only with the prior written approval of the Atomic Energy Commission, and on public land under the jurisdiction of the Administrator, but only with the prior written approval of the Administrator. The Secretary of Agriculture shall implement such conservation and rehabilitation programs on public land under his jurisdiction.
 
 (Pub. L. 86–797, title II, §201, as added Pub. L. 93–452, §2, Oct. 18, 1974, 88 Stat. 1369; amended Pub. L. 97–396, §3, Dec. 31, 1982, 96 Stat. 2005.)
 
 #### Amendments
 
-1982—Subsec. (a). Pub. L. 97–396 inserted “of fish, wildlife, and plants” after “species”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–396 inserted “of fish, wildlife, and plants” after “species”.
 
 #### Transfer of Functions
 

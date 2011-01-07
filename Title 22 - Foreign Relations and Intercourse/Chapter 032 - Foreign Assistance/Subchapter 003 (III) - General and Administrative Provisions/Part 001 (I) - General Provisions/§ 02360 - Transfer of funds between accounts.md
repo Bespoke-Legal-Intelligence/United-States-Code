@@ -20,23 +20,23 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–623 inserted “or for section 2763 of this title” after “subchapter I of this chapter” and struck out “other” after second reference to “funds made available for any”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–623 inserted “or for section 2763 of this title” after “subchapter I of this chapter” and struck out “other” after second reference to “funds made available for any”.
 
-1978—Subsec. (b). Pub. L. 95–384 struck out provisions authorizing transfer and consolidation of not to exceed $9,000,000 of the funds appropriated under section 2242 of this title with the funds appropriated under section 2397(a) of this title to be available solely for additional administrative expenses incurred in connection with programs in Vietnam.
+<b>1978</b>—Subsec. (b). Pub. L. 95–384 struck out provisions authorizing transfer and consolidation of not to exceed$9,000,000 of the funds appropriated under section 2242 of this title with the funds appropriated under section 2397(a) of this title to be available solely for additional administrative expenses incurred in connection with programs in Vietnam.
 
-1974—Subsec. (a). Pub. L. 93–559, §19(a)(1), inserted provisions excepting funds made available under part IIof subchapter II of this chapter from the designation of funds subject to consolidation.
+<b>1974</b>—Subsec. (a). Pub. L. 93–559, §19(a)(1), inserted provisions excepting funds made available under part II of subchapter II of this chapter from the designation of funds subject to consolidation.
 
 Subsec. (c). Pub. L. 93–559, §19(a)(2), added subsec. (c).
 
-1969—Subsec. (a). Pub. L. 91–175 inserted provision excepting funds made available pursuant to subpart IV of part II of subchapter I of this chapter form the designation of funds subject to consolidation.
+<b>1969</b>—Subsec. (a). Pub. L. 91–175 inserted provision excepting funds made available pursuant to subpart IV of part II of subchapter I of this chapter form the designation of funds subject to consolidation.
 
-1967—Subsec. (b). Pub. L. 90–137 increased limitation on funds available for transfer from $5,000,000 to $9,000,000.
+<b>1967</b>—Subsec. (b). Pub. L. 90–137 increased limitation on funds available for transfer from $5,000,000 to $9,000,000.
 
-1966—Subsec. (b). Pub. L. 89–583 substituted provisions authorizing transfer of $5,000,000 for administrative expenses for any fiscal year incurred in connection with programs in Vietnam for provisions authorizing transfer of $1,400,000 for administrative expenses for fiscal year 1966 incurred in connection with programs in the Republic of Vietnam.
+<b>1966</b>—Subsec. (b). Pub. L. 89–583 substituted provisions authorizing transfer of $5,000,000 for administrative expenses for any fiscal year incurred in connection with programs in Vietnam for provisions authorizing transfer of $1,400,000 for administrative expenses for fiscal year 1966 incurred in connection with programs in the Republic of Vietnam.
 
 Pub. L. 89–371 authorized transfer of $1,400,000 for administrative expenses for fiscal year 1966 incurred in connection with programs in the Republic of Vietnam.
 
-1962—Pub. L. 87–565 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1962</b>—Pub. L. 87–565 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1990 Amendment
 

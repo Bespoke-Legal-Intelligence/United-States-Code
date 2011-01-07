@@ -6,7 +6,7 @@ The Congress finds that the supply of the Nation's housing is not increasing rap
 
 #### (b) Additional Congressional findings
 
-The Congress further finds that policies designed to contribute to the achievement of thenational housing goal have not directed sufficient attention and resources to the preservation of existing housing and neighborhoods, that the deterioration and abandonment of housing for the Nation's lower income families has accelerated over the last decade, and that this acceleration has contributed to neighborhood disintegration and has partially negated the progress toward achieving the national housing goal which has been made primarily through new housing construction.
+The Congress further finds that policies designed to contribute to the achievement of the national housing goal have not directed sufficient attention and resources to the preservation of existing housing and neighborhoods, that the deterioration and abandonment of housing for the Nation's lower income families has accelerated over the last decade, and that this acceleration has contributed to neighborhood disintegration and has partially negated the progress toward achieving the national housing goal which has been made primarily through new housing construction.
 
 #### (c) Congressional declaration of purposes
 
@@ -24,5 +24,5 @@ Section was not enacted as part of the Housing Act of 1949 which comprises this 
 
 #### Amendments
 
-1974—Pub. L. 93–383 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1974</b>—Pub. L. 93–383 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 

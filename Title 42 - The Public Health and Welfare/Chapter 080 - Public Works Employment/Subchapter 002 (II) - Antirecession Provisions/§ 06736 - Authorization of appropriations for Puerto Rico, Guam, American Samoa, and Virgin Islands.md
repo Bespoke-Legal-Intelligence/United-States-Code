@@ -16,7 +16,7 @@ There is hereby authorized to be appropriated for each of the five succeeding ca
 
 &emsp;(B) The term “territorial population” means the most recent population for each territory as determined by the Bureau of Census.
 
-&emsp;(C) The provisions of sections 6723(c)(4), 6724, 6725, 6726,<sup>1</sup> 6727, 6728, 6729, 6730, 6731, 6732, and6733 <sup>1</sup> of this title shall apply to the funds authorized under this section.
+&emsp;(C) The provisions of sections 6723(c)(4), 6724, 6725, 6726,<sup>1</sup> 6727, 6728, 6729, 6730, 6731, 6732, and 6733 <sup>1</sup> of this title shall apply to the funds authorized under this section.
 
 #### (c) Payments to local governments
 
@@ -29,4 +29,6 @@ The governments of the territories are authorized to make payments to local gove
 Section 6726 of this title, referred to in subsec. (b)(3)(C), was repealed by Pub. L. 95–30, title VI, §603(i), May 23, 1977, 91 Stat. 166.
 
 Section 6733 of this title, referred to in subsec. (b)(3)(C), was repealed by Pub. L. 104–66, title I, §1131(b), Dec. 21, 1995, 109 Stat. 725.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -52,17 +52,17 @@ The Internal Revenue Code of 1939, referred to in subsec. (b)(3)(C), is act Feb.
 
 #### Amendments
 
-1980—Subsec. (d). Pub. L. 96–471 struck out subsec. (d) which provided that this section was not to apply to a change to which section 453 of this title, relating to change to installment method, applied.
+<b>1980</b>—Subsec. (d). Pub. L. 96–471 struck out subsec. (d) which provided that this section was not to apply to a change to which section 453 of this title, relating to change to installment method, applied.
 
-1976—Subsecs. (b)(1), (2). Pub. L. 94–455, §1901(a)(70)(B), struck out “, other than the amount of such adjustments to which paragraph (4) or (5) applies,” after “required by subsection (a)(2)”.
+<b>1976</b>—Subsecs. (b)(1), (2). Pub. L. 94–455, §1901(a)(70)(B), struck out “, other than the amount of such adjustments to which paragraph (4) or (5) applies,” after “required by subsection (a)(2)”.
 
 Subsec. (b)(4), (5), (6). Pub. L. 94–455, §1901(a)(70)(A), struck out par. (4) which related to special rule for pre-1954 general adjustments, par. (5) which related to special rule for pre-1954 adjustments in case of certain decedents, and par. (6) which related to the application of the special rule for pre-1954 general adjustments.
 
 Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1969—Subsec. (b)(3)(A). Pub. L. 91–172 substituted “loss carryback or carryover” for “loss carryover”.
+<b>1969</b>—Subsec. (b)(3)(A). Pub. L. 91–172 substituted “loss carryback or carryover” for “loss carryover”.
 
-1958—Subsec. (a)(2). Pub. L. 85–866, §29(a)(1), inserted “unless the adjustment is attributable to a change in the method of accounting initiated by the taxpayer”, after “does not apply”.
+<b>1958</b>—Subsec. (a)(2). Pub. L. 85–866, §29(a)(1), inserted “unless the adjustment is attributable to a change in the method of accounting initiated by the taxpayer”, after “does not apply”.
 
 Subsec. (b)(1). Pub. L. 85–866, §29(b)(1)–(3), inserted “, other than the amount of such adjustments to which paragraph (4) or (5) applies,” after “subsection (a)(2)” and substituted “the aggregate increase in the taxes” for “the aggregate of the taxes” and “which would result if one-third of such increase in taxable income” for “which would result if one-third of such increase”.
 

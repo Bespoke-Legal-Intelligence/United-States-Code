@@ -84,27 +84,27 @@ Any agreement between the Commissioner of Social Security and a State entered in
 
 #### (e) State standards; establishment; annual public review; annual certification; payments to individuals
 
-(1) Each State shall establish or designate one or more State or local authorities which shall establish, maintain, and insure the enforcement of standards for any category of institutions, foster homes, or group living arrangements in which (as determined by the State) a significant number of recipients of supplemental security income benefits is residing or is likely to reside. Such standards shall be appropriate to the needs of such recipients and the character of the facilities involved, and shall govern such matters as admission policies, safety, sanitation, and protection of civil rights.
+(1) Each State shall establish or designate one or more State or local authorities which shall establish, maintain, and insure the enforcementof standards for any category of institutions, foster homes, or group living arrangements in which (as determined by the State) a significant number of recipients of supplemental security income benefits is residing or is likely to reside. Such standards shall be appropriate to the needs of such recipients and the character of the facilities involved, and shall govern such matters as admission policies, safety, sanitation, and protection of civil rights.
 
 (2) Each State shall annually make available for public review a summary of the standards established pursuant to paragraph (1), and shall make available to any interested individual a copy of such standards, along with the procedures available in the State to insure the enforcement of such standards and a list of any waivers of such standards and any violations of such standards which have come to the attention of the authority responsible for their enforcement.
 
 (3) Each State shall certify annually to the Commissioner of Social Security that it is in compliance with the requirements of this subsection.
 
-(4) Payments made under this subchapter with respect to an individual shall be reduced by an amount equal to the amount of any supplementary payment (as described in subsection (a) of this section) or other payment made by a State (or political subdivision thereof) which is made for or on account of any medical or any other type of remedical care provided by an institution of the type described in paragraph (1) to such individual as a resident or an inpatient of such institution if such institution is not approved as meeting the standards described in such paragraph by the appropriate State or local authorities.
+(4) Payments made under this subchapter with respect to an individual shall be reduced by an amount equal to the amount of any supplementary payment (as described in subsection (a) of this section) or other payment made by a State (or political subdivision thereof) which is made for or on account of any medical or any other type of remedial care provided by an institution of the type described in paragraph (1) to such individual as a resident or an inpatient of such institution if such institution is not approved as meeting the standards described in such paragraph by the appropriate State or local authorities.
 
 (Aug. 14, 1935, ch. 531, title XVI, §1616, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1474; amended Pub. L. 93–233, §14, Dec. 31, 1973, 87 Stat. 965; Pub. L. 94–566, title V, §505(c), (d), Oct. 20, 1976, 90 Stat. 2687; Pub. L. 96–265, title II, §201(b)(1), June 9, 1980, 94 Stat. 446; Pub. L. 97–35, title XXIII, §2353(n), Aug. 13, 1981, 95 Stat. 873; Pub. L. 99–272, title XII, §12201(b), Apr. 7, 1986, 100 Stat. 290; Pub. L. 103–66, title XIII, §13731(a)(1), Aug. 10, 1993, 107 Stat. 660; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 105–33, title V, §5102(a)(1), (b)(1)(A), Aug. 5, 1997, 111 Stat. 595, 596; Pub. L. 105–78, title V, §516(a)(1), (b)(1)(A), Nov. 13, 1997, 111 Stat. 1517, 1518; Pub. L. 106–170, title IV, §410(a)(1), Dec. 17, 1999, 113 Stat. 1916.)
 
 #### References in Text
 
-The Cash Management Improvement Act of 1990, referred to in subsec. (d)(5)(B), is Pub. L. 101–453, Oct. 24, 1990, 104 Stat. 1058, as amended. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 6501 of Title 31, Money and Finance, and Tables.
+The Cash Management Improvement Act of 1990, referred to in subsec. (d)(5)(B), is Pub. L. 101–453, Oct. 24, 1990, 104 Stat. 1058. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 6501 of Title 31, Money and Finance, and Tables.
 
 #### Amendments
 
-1999—Subsec. (d)(1). Pub. L. 106–170, §410(a)(1)(A), substituted “in accordance with paragraph (5)” for “at such times and in such installments as may be agreed upon between the Commissioner of Social Security and such State”.
+<b>1999</b>—Subsec. (d)(1). Pub. L. 106–170, §410(a)(1)(A), substituted “in accordance with paragraph (5)” for “at such times and in such installments as may be agreed upon between the Commissioner of Social Security and such State”.
 
 Subsec. (d)(5). Pub. L. 106–170, §410(a)(1)(B), added par. (5).
 
-1997—Subsec. (d)(2)(B)(iii) to (x). Pub. L. 105–33, §5102(a)(1)(A), and Pub. L. 105–78, §516(a)(1)(A), amended subpar. (B) identically, striking out “and” at end of cl. (iii), adding cls. (iv) to (x) and striking out former cl. (iv) which read as follows: “for fiscal year 1997 and each succeeding fiscal year, $5.00, or such different rate as the Commissioner of Social Security determines is appropriate for the State.”
+<b>1997</b>—Subsec. (d)(2)(B)(iii) to (x). Pub. L. 105–33, §5102(a)(1)(A), and Pub. L. 105–78, §516(a)(1)(A), amended subpar. (B) identically, striking out “and” at end of cl. (iii), adding cls. (iv) to (x) and striking out former cl. (iv) which read as follows: “for fiscal year 1997 and each succeeding fiscal year, $5.00, or such different rate as the Commissioner of Social Security determines is appropriate for the State.”
 
 Subsec. (d)(2)(C). Pub. L. 105–33, §5102(a)(1)(B), and Pub. L. 105–78, §516(a)(1)(B), amended subpar. (C) identically, substituting “subparagraph (B)(x)(II)” for “subparagraph (B)(iv)”.
 
@@ -116,23 +116,23 @@ Subsec. (d)(4). Pub. L. 105–78, §516(b)(1)(A), amended par. (4) generally. Pr
 
 Pub. L. 105–33, §5102(b)(1)(A), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “All administration fees and additional services fees collected pursuant to this subsection shall be deposited in the general fund of the Treasury of the United States as miscellaneous receipts.”
 
-1994—Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary” wherever appearing and “the Commissioner conducts” for “he conducts” in subsec. (b)(2).
+<b>1994</b>—Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary” wherever appearing and “the Commissioner conducts” for “he conducts” in subsec. (b)(2).
 
-1993—Subsec. (d). Pub. L. 103–66 designated existing provisions as par. (1), inserted before period at end “, plus an administration fee assessed in accordance with paragraph (2) and any additional services fee charged in accordance with paragraph (3)”, and added pars. (2) to (4).
+<b>1993</b>—Subsec. (d). Pub. L. 103–66 designated existing provisions as par. (1), inserted before period at end “, plus an administration fee assessed in accordance with paragraph (2) and any additional services fee charged in accordance with paragraph (3)”, and added pars. (2) to (4).
 
-1986—Subsec. (b). Pub. L. 99–272 inserted provision at end relating to modification of the agreement at the option of the State to provide for supplementary payments on and after an effective date specified in the agreement.
+<b>1986</b>—Subsec. (b). Pub. L. 99–272 inserted provision at end relating to modification of the agreement at the option of the State to provide for supplementary payments on and after an effective date specified in the agreement.
 
-1981—Subsec. (e)(2). Pub. L. 97–35 struck out “, as a part of the services program planning procedures established pursuant to section 1397c of this title” after “available for public review”.
+<b>1981</b>—Subsec. (e)(2). Pub. L. 97–35 struck out “, as a part of the services program planning procedures established pursuant to section 1397c of this title” after “available for public review”.
 
-1980—Subsec. (c)(3). Pub. L. 96–265 added par. (3).
+<b>1980</b>—Subsec. (c)(3). Pub. L. 96–265 added par. (3).
 
-1976—Subsec. (e). Pub. L. 94–566, §505(d), added subsec. (e), effective Oct. 1, 1977. Pub. L. 94–566, §505(c), repealed former subsec. (e) which provided for reduction of supplemental security income payments to individuals provided institutional medical or other remedial care, State financed under Federal grants for medical assistance, effective Oct. 1, 1976. See Effective Date of 1976 Amendment note below.
+<b>1976</b>—Subsec. (e). Pub. L. 94–566, §505(d), added subsec. (e), effective Oct. 1, 1977. Pub. L. 94–566, §505(c), repealed former subsec. (e) which provided for reduction of supplemental security income payments to individuals provided institutional medical or other remedial care, State financed under Federal grants for medical assistance, effective Oct. 1, 1976. See Effective Date of 1976 Amendment note below.
 
-1973—Subsec. (e). Pub. L. 93–233 added subsec. (e).
+<b>1973</b>—Subsec. (e). Pub. L. 93–233 added subsec. (e).
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–170, title IV, §410(b), Dec. 17, 1999, 113 Stat. 1917, as amended by Pub. L. 106–554, §1(a)(1) \[title V, §515\], Dec. 21, 2000, 114 Stat. 2763, 2763A–72, provided that: “The amendments made by subsection (a) \[amending this section and provisions set out as a note under section 1382 of this title\] shall apply to payments and fees arising under an agreement between a State and the Commissioner of Social Security under section 1616 of the Social Security Act (42 U.S.C. 1382e) or under section 212 of Public Law 93-66 (42 U.S.C. 1382 note) with respect to monthly benefits paid to individuals under title XVI of the Social Security Act \[this subchapter\] for months after September 2001 (October 2001 in the case of a State with a fiscal year that coincides with the Federal fiscal year), without regard to whether the agreement has been modified to reflect such amendments or the Commissioner has promulgated regulations implementing such amendments.”
+Pub. L. 106–170, title IV, §410(b), Dec. 17, 1999, 113 Stat. 1917, as amended by Pub. L. 106–554, §1(a)(1) \[title V, §515\], Dec. 21, 2000, 114 Stat. 2763, 2763A–72, provided that: “The amendments made by subsection (a) \[amending this section and provisions set out as a note under section 1382 of this title\] shall apply to payments and fees arising under an agreement between a State and the Commissioner of Social Security under section1616 of the Social Security Act (42 U.S.C. 1382e) or under section 212 of Public Law 93-66 (42 U.S.C. 1382 note) with respect to monthly benefits paid to individuals under title XVI of the Social Security Act \[this subchapter\] for months after September 2001 (October 2001 in the case of a State with a fiscal year that coincides with the Federal fiscal year), without regard to whether the agreement has been modified to reflect such amendments or the Commissioner has promulgated regulations implementing such amendments.”
 
 #### Effective Date of 1994 Amendment
 
@@ -162,7 +162,7 @@ Section 301 of Pub. L. 92–603 provided that this section is effective Jan. 1, 
 
 #### Limitations on Authorization of Appropriations
 
-Section 516(b)(2) of Pub. L. 105–78 provided that: “From amounts credited pursuant to section 1616(d)(4)(B) of the Social Security Act \[subsec. (d)(4)(B) of this section\] and section 212(b)(3)(D)(ii) of Public Law 93–66 \[set out as a note under section 1382 of thistitle\] to the special fund established in the Treasury of the United States for State supplementary payment fees, there is authorized to be appropriated an amount not to exceed $35,000,000 for fiscal year 1998, and such sums as may be necessary for each fiscal year thereafter, for administrative expenses in carrying out the supplemental security income program under title XVI of the Social Security Act \[this subchapter\] and related laws.”
+Section 516(b)(2) of Pub. L. 105–78 provided that: “From amounts credited pursuant to section 1616(d)(4)(B) of the Social Security Act \[subsec. (d)(4)(B) of this section\] and section 212(b)(3)(D)(ii) of Public Law 93–66 \[set out as a note under section 1382 of this title\] to the special fund established in the Treasury of the United States for State supplementary payment fees, there is authorized to be appropriated an amount not to exceed $35,000,000 for fiscal year 1998, and such sums as may be necessary for each fiscal year thereafter, for administrative expenses in carrying out the supplemental security income program under title XVI of the Social Security Act \[this subchapter\] and related laws.”
 
 Section 5102(b)(2) of Pub. L. 105–33 provided that: “From amounts credited pursuant to section 1616(d)(4)(B) of the Social Security Act \[subsec. (d)(4)(B) of this section\] and section 212(b)(3)(D)(ii) of Public Law 93–66 \[set out as a note under section 1382 of this title\] to the special fund established in the Treasury of the United States for State supplementary payment fees, there is authorized to be appropriated an amount not to exceed $35,000,000 for fiscal year 1998, and such sums as may be necessary for each fiscal year thereafter.”
 

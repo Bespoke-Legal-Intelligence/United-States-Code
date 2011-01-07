@@ -16,7 +16,7 @@ The Secretary may prescribe regulations and shall collect all data necessary to 
 
 #### (e) Sale of nonexcess land acquired into excess status pursuant to involuntary process of law, etc.
 
-Any nonexcess land which is acquired into excess status pursuant to involuntary foreclosure or similar involuntary process of law, conveyance in satisfaction of a debt (including, but not limited to, a mortgage, real estate contract, or deed of trust), inheritance, or devise, may be sold at its fair market value without regard toany other provision of this subchapter or to section 423e of this title: <i>Provided</i>, That if the status of mortgaged land changes from nonexcess into excess after the mortgage is recorded and is subsequently acquired by the lender by involuntary foreclosure or similar involuntary process of law, by bona fide conveyance in satisfaction of the mortgage, such land may be sold at its fair market value.
+Any nonexcess land which is acquired into excess status pursuant to involuntary foreclosure or similar involuntary process of law, conveyance in satisfaction of a debt (including, but not limited to, a mortgage, real estate contract, or deed of trust), inheritance, or devise, may be sold at its fair market value without regard to any other provision of this subchapter or to section 423e of this title: <i>Provided</i>, That if the status of mortgaged land changes from nonexcess into excess after the mortgage is recorded and is subsequently acquired by the lender by involuntary foreclosure or similar involuntary process of law, by bona fide conveyance in satisfaction of the mortgage, such land may be sold at its fair market value.
 
 #### (f) Omitted
 
@@ -26,7 +26,7 @@ In addition to any other audit or compliance activities which may otherwise be u
 
 #### (h) Recordable contracts executed prior to October 12, 1982
 
-The provisions of section 390ee(c) of this title are and have been applicable to all recordable contracts executed prior to October 12, 1982, and any decision, rule, or regulation promulgated by the Department of the Interior to the contrary is hereby revoked: <i>Provided</i>, That notwithstanding the provisions of subsection (i) of this section, the Secretary shall not seek reimbursement for any amounts due under this subsection or section 390ee(c) of this title which was due prior to December 22, 1987.
+The provisions of section 390ee(c) of this title are and have been applicable to all recordablecontracts executed prior to October 12, 1982, and any decision, rule, or regulation promulgated by the Department of the Interior to the contrary is hereby revoked: <i>Provided</i>, That notwithstanding the provisions of subsection (i) of this section, the Secretary shall not seek reimbursement for any amounts due under this subsection or section 390ee(c) of this title which was due prior to December 22, 1987.
 
 #### (i) Collection of underpayment with interest for irrigation water
 
@@ -48,9 +48,9 @@ Section is comprised of section 224 of Pub. L. 97–293. Subsec. (d) of section 
 
 #### Amendments
 
-1995—Subsec. (g). Pub. L. 104–66 struck out at end “The Secretary shall submit an annual written report to the Senate Committee on Energy and Natural Resources and the House Committee on Natural Resources. Such report shall summarize the legal entities and individuals audited, the results of such audits, and the actions taken by the Secretary to correct any instances of noncompliance with the reclamation law.”
+<b>1995</b>—Subsec. (g). Pub. L. 104–66 struck out at end “The Secretary shall submit an annual written report to the Senate Committee on Energy and Natural Resources and the House Committee on Natural Resources. Such report shall summarize the legal entities and individuals audited, the results of such audits, and the actions taken by the Secretary to correct any instances of noncompliance with the reclamation law.”
 
-1994—Subsec. (g). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “House Committee on”.
+<b>1994</b>—Subsec. (g). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “House Committee on”.
 
-1987—Subsecs. (g) to (i). Pub. L. 100–203 added subsecs. (g) to (i).
+<b>1987</b>—Subsecs. (g) to (i). Pub. L. 100–203 added subsecs. (g) to (i).
 

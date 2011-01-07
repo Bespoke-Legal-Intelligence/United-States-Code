@@ -16,7 +16,7 @@
 
 &emsp;(F) The term “former beneficiary country” means a country that ceases to be designated as a beneficiary country under this chapter because the country has become a party to a free trade agreement with the United States.
 
-(2) If the President has designated any country as a beneficiary country for purposes of thischapter, he shall not terminate such designation (either by issuing a proclamation for that purpose or by issuing a proclamation which has the effect of terminating such designation) unless, at least sixty days before such termination, he has notified the House of Representatives and the Senate and has notified such country of his intention to terminate such designation, together with the considerations entering into such decision.
+(2) If the President has designated any country as a beneficiary country for purposes of this chapter, he shall not terminate such designation (either by issuing a proclamation for that purpose or by issuing a proclamation which has the effect of terminating such designation) unless, at least sixty days before such termination, he has notified the House of Representatives and the Senate and has notified such country of his intention to terminate such designation, together with the considerations entering into such decision.
 
 #### (b) Countries eligible for designation as beneficiary countries; conditions
 
@@ -190,7 +190,7 @@ In determining whether to designate any country a beneficiary country under this
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) to (c) and (f), was in the original “this title”, meaning title II of Pub.L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This chapter, referred to in subsecs. (a) to (c) and (f), was in the original “this title”, meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(1)(C), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
@@ -204,11 +204,11 @@ Subsec. (d) of this section amended general headnote 3(a) of the Tariff Schedule
 
 #### Amendments
 
-2005—Subsec. (a)(1)(F). Pub. L. 109–53, §§107(d), 402(a), temporarily added subpar. (F). See Effective and Termination Dates of 2005 Amendment note below.
+<b>2005</b>—Subsec. (a)(1)(F). Pub. L. 109–53, §§107(d), 402(a), temporarily added subpar. (F). See Effective and Termination Dates of 2005 Amendment note below.
 
 Subsec. (b). Pub. L. 109–53, §§107(d), 402(b), temporarily struck out “Costa Rica”, “Dominican Republic”, “El Salvador”, “Guatemala”, “Honduras”, and “Nicaragua” from list of countries eligible for designation as beneficiary country. See Effective and Termination Dates of 2005 Amendment notes below.
 
-2000—Subsec. (a)(1)(D), (E). Pub. L. 106–200, §211(e)(2), added subpars. (D) and (E).
+<b>2000</b>—Subsec. (a)(1)(D), (E). Pub. L. 106–200, §211(e)(2), added subpars. (D) and (E).
 
 Subsec. (e)(1). Pub. L. 106–200, § 211(b)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 
@@ -216,21 +216,21 @@ Subsec. (e)(3). Pub. L. 106–200, §211(b)(2), added par. (3).
 
 Subsec. (f). Pub. L. 106–200, §211(c)(1), inserted heading and amended text generally. Prior to amendment, text read as follows: “On or before October 1, 1993, and the close of each 3-year period thereafter, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (b) and (c) of this section.”
 
-1996—Subsec. (b)(7). Pub. L. 104–188 substituted “2467(4)” for “2462(a)(4)”.
+<b>1996</b>—Subsec. (b)(7). Pub. L. 104–188 substituted “2467(4)” for “2462(a)(4)”.
 
-1994—Subsec. (c)(4). Pub. L. 103–465 substituted “WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of section 3501 of this title)” for “General Agreement on Tariffs and Trade, as well as applicable trade agreements approved under section 2503(a) of this title”.
+<b>1994</b>—Subsec. (c)(4). Pub. L. 103–465 substituted “WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of section 3501 of this title)” for “General Agreement on Tariffs and Trade, as well as applicable trade agreements approved under section 2503(a) of this title”.
 
-1990—Subsec. (b). Pub. L. 101–382, §213(1)–(4), added par. (7) and in concluding provisions substituted “(5), and (7)” for “and (5)”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–382, §213(1)–(4), added par. (7) and in concluding provisions substituted “(5), and (7)” for “and (5)”.
 
 Subsec. (c)(8). Pub. L. 101–382, §213(5), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “the degree to which workers in such country are afforded reasonable workplace conditions and enjoy the right to organize and bargain collectively;”.
 
 Subsec. (f). Pub. L. 101–382, §214, added subsec. (f).
 
-1988—Subsec. (a)(1)(C). Pub. L. 100–418, §1214(q)(1), substituted “HTS” and “Harmonized Tariff Schedule of the United States” for “TSUS” and “Tariff Schedules of the United States”, respectively.
+<b>1988</b>—Subsec. (a)(1)(C). Pub. L. 100–418, §1214(q)(1), substituted “HTS” and “Harmonized Tariff Schedule of the United States” for “TSUS” and “Tariff Schedules of the United States”, respectively.
 
 Subsec. (e). Pub. L. 100–418, §1909(c), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The President shall, after complying with the requirements of subsection (a)(2) of this section, withdraw or suspend the designation of any country as a beneficiary country if, after such designation, he determines that as the result of changed circumstances such country would be barred from designation as a beneficiary country under subsection (b) of this section.”
 
-1986—Subsec. (b)(6), (7). Pub. L. 99–570 redesignated par. (7) as (6) and struck out former par. (6) which provided that the President shall not designate a country as a beneficiary country under this chapter if the country does not take adequate steps to cooperate with the United States to prevent narcotic drugs and other controlled substances produced, processed, or transported in the country from entering the United States unlawfully.
+<b>1986</b>—Subsec. (b)(6), (7). Pub. L. 99–570 redesignated par. (7) as (6) and struck out former par. (6) which provided that the President shall not designate a country as a beneficiary country under this chapter if the country does not take adequate steps to cooperate with the United States to prevent narcotic drugs and other controlled substances produced, processed, or transported in the country from entering the United States unlawfully.
 
 #### Effective and Termination Dates of 2005 Amendment
 

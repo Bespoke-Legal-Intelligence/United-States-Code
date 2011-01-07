@@ -10,7 +10,7 @@ Provisions similar to those comprising this section were contained in subsec. (c
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 4006 of this title as this section and substituted “7105” for “4005”.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4006 of this title as this section and substituted “7105” for “4005”.
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Department” for “Veterans’ Administration”.
 

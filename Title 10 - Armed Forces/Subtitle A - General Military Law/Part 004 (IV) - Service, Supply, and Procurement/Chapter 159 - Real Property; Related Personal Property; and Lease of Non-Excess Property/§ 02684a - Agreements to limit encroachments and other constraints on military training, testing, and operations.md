@@ -32,7 +32,7 @@ Acquisition and Acceptance of Property and Interests.—(1) An agreement with an
 
 &emsp;(B) the sharing by the United States and the entity or entities of the acquisition costs in accordance with paragraph (3).
 
-(2) Property or interests may not be acquired pursuant to the agreement unless the owner of the property or interests consents to the acquisition.
+(2) Property or interests may not be acquired pursuant to the agreement unless the owner ofthe property or interests consents to the acquisition.
 
 (3) An agreement with an eligible entity under this section may provide for the management of natural resources on real property in which the Secretary concerned acquires any right, title, or interest in accordance with this subsection and for the payment by the United States of all or a portion of the costs of such natural resource management if the Secretary concerned determines that there is a demonstrated need to preserve or restore habitat for the purpose described in subsection (a)(2).
 
@@ -80,7 +80,7 @@ Additional Terms and Conditions.—The Secretary concerned may require such addi
 
 (g)
 
-Annual Reports.—(1) Not later than March 1, 2007, and annually thereafter, the Secretary of Defense shall, in coordination with the Secretaries of the military departments and the Director of the Department of Defense Test Resource Management Center, submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the projects undertaken under agreements under this section.
+Annual Reports.—(1) Not later than March 1 each year, the Secretary of Defense shall, in coordination with the Secretaries of the military departments and the Director of the Department of Defense Test Resource Management Center, submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the projects undertaken under agreements under this section.
 
 (2) Each report under paragraph (1) shall include the following:
 
@@ -108,13 +108,15 @@ Definitions.—In this section:
 
 &emsp;(2) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Marianas, and the territories and possessions of the United States.
 
-(Added Pub. L. 107–314, div. B, title XXVIII, §2811(a), Dec. 2, 2002, 116 Stat. 2705; amended Pub. L. 109–163, div. B, title XXVIII, §2822, Jan. 6, 2006, 119 Stat. 3513; Pub. L. 109–364, div. B, title XXVIII, §2811(g), Oct. 17, 2006, 120 Stat. 2473; Pub. L. 110–181, div. B, title XXVIII, §2825, Jan. 28, 2008, 122 Stat. 545; Pub. L. 111–84, div. A, title X, §1073(a)(27), Oct. 28, 2009, 123 Stat. 2474.)
+(Added Pub. L. 107–314, div. B, title XXVIII, §2811(a), Dec. 2, 2002, 116 Stat. 2705; amended Pub. L. 109–163, div. B, title XXVIII, §2822, Jan. 6, 2006, 119 Stat. 3513; Pub. L. 109–364, div. B, title XXVIII, §2811(g), Oct. 17, 2006, 120 Stat. 2473; Pub. L. 110–181, div. B, title XXVIII, §2825, Jan. 28, 2008, 122 Stat. 545; Pub. L. 111–84, div. A, title X, §1073(a)(27), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, §1075(b)(43), Jan. 7, 2011, 124 Stat. 4371.)
 
 #### Amendments
 
-2009—Subsec. (g)(2). Pub. L. 111–84 substituted “the following” for “the following the following” in introductory provisions.
+<b>2011</b>—Subsec. (g)(1). Pub. L. 111–383 substituted “March 1 each year” for “March 1, 2007, and annually thereafter”.
 
-2008—Subsec. (d)(3), (4). Pub. L. 110–181, §2825(a), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
+<b>2009</b>—Subsec. (g)(2). Pub. L. 111–84 substituted “the following” for “the following the following” in introductory provisions.
+
+<b>2008</b>—Subsec. (d)(3), (4). Pub. L. 110–181, §2825(a), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
 
 Subsec. (d)(4)(C). Pub. L. 110–181, §2825(b)(2), substituted “equal to, at the discretion of the Secretary concerned—” and cls. (i) and (ii) for “equal to the fair market value of any property or interest to be transferred to the United States upon the request of the Secretary concerned under paragraph (4).”
 
@@ -122,7 +124,7 @@ Subsec. (d)(4)(D), (E). Pub. L. 110–181, §2825(b)(1), (3), added subpar. (D) 
 
 Subsec. (d)(5) to (7). Pub. L. 110–181, §2825(a)(1), redesignated pars. (4) to (6) as (5) to (7), respectively.
 
-2006—Subsec. (a). Pub. L. 109–163, §2822(a)(1), in introductory provisions, inserted “or entities” after “entity” and substituted “in the vicinity of, or ecologically related to, a military installation or military airspace” for “in the vicinity of a military installation”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163, §2822(a)(1), in introductory provisions, inserted “or entities” after “entity” and substituted “in the vicinity of, or ecologically related to, a military installation or military airspace” for “in the vicinity of a military installation”.
 
 Subsec. (d)(1). Pub. L. 109–163, §2822(a)(2)(A)(i), (b)(1)(A), inserted “or entities” after “eligible entity” and substituted “shall provide” for “may provide” in introductory provisions.
 

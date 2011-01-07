@@ -142,25 +142,25 @@ A prior section 404 of Pub. L. 93–415 amended section 3882 of this title, and 
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–240, §3(1), amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) to (H) relating to annual grants to Center.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–240, §3(1), amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) to (H) relating to annual grants to Center.
 
 Subsec. (b)(2). Pub. L. 110–240, §3(2), substituted “$40,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal years 2009 through 2013” for “$20,000,000 for each of the fiscal years 2004 through 2008”.
 
-2003—Subsec. (b)(1)(H). Pub. L. 108–21, §323, added subpar. (H).
+<b>2003</b>—Subsec. (b)(1)(H). Pub. L. 108–21, §323, added subpar. (H).
 
 Subsec. (b)(2). Pub. L. 108–96 substituted “2008” for “2005”.
 
 Pub. L. 108–21, §321(b), substituted “$20,000,000 for each of the fiscal years 2004 through 2005” for “$10,000,000 for each of fiscal years 2000, 2001, 2002, and 2003”.
 
-2002—Subsec. (a)(5)(E). Pub. L. 107–273 substituted “section 5714–11” for “section 5712a”.
+<b>2002</b>—Subsec. (a)(5)(E). Pub. L. 107–273 substituted “section 5714–11” for “section 5712a”.
 
-1999—Subsecs. (b) to (d). Pub. L. 106–71 added subsecs. (b) and (c), redesignated former subsec. (c) as (d), and struck out former subsec. (b) which related to the establishment of toll-free telephone line and national resource center and clearinghouse, conduct of national incidence studies, and use of school records and birth certificates.
+<b>1999</b>—Subsecs. (b) to (d). Pub. L. 106–71 added subsecs. (b) and (c), redesignated former subsec. (c) as (d), and struck out former subsec. (b) which related to the establishment of toll-free telephone line and national resource center and clearinghouse, conduct of national incidence studies, and use of school records and birth certificates.
 
-1989—Subsec. (a)(5)(C). Pub. L. 101–204, §1004(2)(A), substituted semicolon for comma at end.
+<b>1989</b>—Subsec. (a)(5)(C). Pub. L. 101–204, §1004(2)(A), substituted semicolon for comma at end.
 
 Subsec. (b)(2)(A). Pub. L. 101–204, §1004(2)(B), inserted “to” before “provide to State”.
 
-1988—Subsec. (a)(3). Pub. L. 100–690, §7285(a)(1), struck out “law enforcement” before “entities”.
+<b>1988</b>—Subsec. (a)(3). Pub. L. 100–690, §7285(a)(1), struck out “law enforcement” before “entities”.
 
 Subsec. (a)(4). Pub. L. 100–690, §7285(a)(2), inserted “and” at end.
 

@@ -26,7 +26,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (1) Period
 
-&emsp;Each contract under this section shall be for a term of at least 1 year, as determined by the Secretary, and may be made automatically renewable from term to term in the absence of notice by either party of intention to terminate at the end of the current term.
+&emsp;Each contract under this section shall be for a term of at least 1 year, as determined by theSecretary, and may be made automatically renewable from term to term in the absence of notice by either party of intention to terminate at the end of the current term.
 
 #### (2) Termination authority
 
@@ -66,9 +66,9 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;Each contract under this section shall provide that the Secretary, or any person or organization designated by the Secretary—
 
-&emsp;&emsp;(A) shall have the right to inspect or otherwise evaluate (i) the quality, appropriateness, and timeliness of services performed under the contract, and (ii) the facilities of the organization when there is reasonable evidence of some need for such inspection, and
+&emsp;&emsp;(A) shall have the right to timely inspect or otherwise evaluate (i) the quality, appropriateness, and timeliness of services performed under the contract, and (ii) the facilities of the organization when there is reasonable evidence of some need for such inspection, and
 
-&emsp;&emsp;(B) shall have the right to audit and inspect any books and records of the Medicare+Choice organization that pertain (i) to the ability of the organization to bear the risk of potential financial losses, or (ii) to services performed or determinations of amounts payable under the contract.
+&emsp;&emsp;(B) shall have the right to timely audit and inspect any books and records of the Medicare+Choice organization that pertain (i) to the ability of the organization to bear the risk of potential financial losses, or (ii) to services performed or determinations of amounts payable under the contract.
 
 #### (3) Enrollee notice at time of termination
 
@@ -92,13 +92,13 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;&emsp;&emsp;(III) any lending of money or other extension of credit between an organization and a party in interest.
 
-> &emsp;&emsp;The Secretary may require that information reported respecting an organization which controls, is controlled by, or is under common control with, another entity be in the form of a consolidated financial statement for the organization and such entity.
+> &emsp;&emsp;The Secretary may require that information reported respecting an organization whichcontrols, is controlled by, or is under common control with, another entity be in the form of a consolidated financial statement for the organization and such entity.
 
 #### (B) “Party in interest” defined
 
 &emsp;&emsp;For the purposes of this paragraph, the term “party in interest” means—
 
-&emsp;&emsp;&emsp;(i) any director, officer, partner, or employee responsible for management or administration of a Medicare+Choice organization, any person who is directly or indirectly the beneficial owner of more than 5 percent of the equity of the organization, any person who is the beneficial owner of a mortgage, deed of trust, note, or other interest secured by, and valuing more than 5 percent of the organization, and, in thecase of a Medicare+Choice organization organized as a nonprofit corporation, an incorporator or member of such corporation under applicable State corporation law;
+&emsp;&emsp;&emsp;(i) any director, officer, partner, or employee responsible for management or administration of a Medicare+Choice organization, any person who is directly or indirectly the beneficial owner of more than 5 percent of the equity of the organization, any person who is the beneficial owner of a mortgage, deed of trust, note, or other interest secured by, and valuing more than 5 percent of the organization, and, in the case of a Medicare+Choice organization organized as a nonprofit corporation, an incorporator or member of such corporation under applicable State corporation law;
 
 &emsp;&emsp;&emsp;(ii) any entity in which a person described in clause (i)—
 
@@ -188,6 +188,20 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;Under the written agreement referred to in subparagraph (A), a federally qualified health center must accept the payment amount referred to in such subparagraph plus the Federal payment provided for in section 1395<i>l</i>(a)(3)(B) of this title as payment in full for services covered by the agreement, except that such a health center may collect any amount of cost-sharing permitted under the contract under this section, so long as the amounts of any deductible, coinsurance, or copayment comply with the requirements under section 1395w–24(e) of this title.
 
+#### (4) Requirement for minimum medical loss ratio
+
+&emsp;If the Secretary determines for a contract year (beginning with 2014) that an MA plan has failed to have a medical loss ratio of at least .85—
+
+&emsp;&emsp;(A) the MA plan shall remit to the Secretary an amount equal to the product of—
+
+&emsp;&emsp;&emsp;(i) the total revenue of the MA plan under this part for the contract year; and
+
+&emsp;&emsp;&emsp;(ii) the difference between .85 and the medical loss ratio;
+
+&emsp;&emsp;(B) for 3 consecutive contract years, the Secretary shall not permit the enrollment of new enrollees under the plan for coverage during the second succeeding contract year; and
+
+&emsp;&emsp;(C) the Secretary shall terminate the plan contract if the plan fails to have such a medical loss ratio for 5 consecutive contract years.
+
 #### (f) Prompt payment by Medicare+Choice organization
 
 #### (1) Requirement
@@ -222,7 +236,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;(A) fails substantially to provide medically necessary items and services that are required (under law or under the contract) to be provided to an individual covered under the contract, if the failure has adversely affected (or has substantial likelihood of adversely affecting) the individual;
 
-&emsp;&emsp;(B) imposes premiums on individuals enrolled under this part in excess of the amount of the Medicare+Choice monthly basic and supplemental beneficiary premiums permitted under section 1395w–24 of this title;
+&emsp;&emsp;(B) imposes premiums on individuals enrolled under this part in excess of theamount of the Medicare+Choice monthly basic and supplemental beneficiary premiums permitted under section 1395w–24 of this title;
 
 &emsp;&emsp;(C) acts to expel or to refuse to re-enroll an individual in violation of the provisions of this part;
 
@@ -234,17 +248,25 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;&emsp;(ii) to an individual or to any other entity under this part;
 
-&emsp;&emsp;(F) fails to comply with the applicable requirements of section 1395w–22(j)(3) or 1395w–22(k)(2)(A)(ii) of this title; or
+&emsp;&emsp;(F) fails to comply with the applicable requirements of section 1395w–22(j)(3) or 1395w–22(k)(2)(A)(ii) of this title;
 
 &emsp;&emsp;(G) employs or contracts with any individual or entity that is excluded from participation under this subchapter under section 1320a–7 or 1320a–7a of this title for the provision of health care, utilization review, medical social work, or administrative services or employs or contracts with any entity for the provision (directly or indirectly) through such an excluded individual or entity of such services;
 
-> &emsp;the Secretary may provide, in addition to any other remedies authorized by law, for any of the remedies described in paragraph (2).
+&emsp;&emsp;(H) except as provided under subparagraph (C) or (D) of section 1395w–101(b)(1) of this title, enrolls an individual in any plan under this part without the prior consent of the individual or the designee of the individual;
+
+&emsp;&emsp;(I) transfers an individual enrolled under this part from one plan to another without the prior consent of the individual or the designee of the individual or solely for the purpose of earning a commission;
+
+&emsp;&emsp;(J) fails to comply with marketing restrictions described in subsections (h) and (j) of section 1395w–21 of this title or applicable implementing regulations or guidance; or
+
+&emsp;&emsp;(K) employs or contracts with any individual or entity who engages in the conduct described in subparagraphs (A) through (J) of this paragraph;
+
+> &emsp;the Secretary may provide, in addition to any other remedies authorized by law, for any of the remedies described in paragraph (2). The Secretary may provide, in addition to any other remedies authorized by law, for any of the remedies described in paragraph (2), if the Secretary determines that any employee or agent of such organization, or any provider or supplier who contracts with such organization, has engaged in any conduct described in subparagraphs (A) through (K) of this paragraph.
 
 #### (2) Remedies
 
 &emsp;The remedies described in this paragraph are—
 
-&emsp;&emsp;(A) civil money penalties of not more than $25,000 for each determination under paragraph (1) or, with respect to a determination under subparagraph (D) or (E)(i) of such paragraph, of not more than $100,000 for each such determination, plus, with respect to a determination under paragraph (1)(B), double the excess amount charged in violation of such paragraph (and the excess amount charged shall be deducted from the penalty and returned to the individual concerned), and plus, with respect to a determination under paragraph (1)(D), $15,000 for each individual not enrolled as a result of the practice involved,
+&emsp;&emsp;(A) civil money penalties of not more than $25,000 for each determination under paragraph (1) or, with respect to a determination under subparagraph (D) or (E)(i) of such paragraph, of not more than $100,000 for each such determination, except with respect to a determination under subparagraph (E),<sup>1</sup> an assessment of not more than the amount claimed by such plan or plan sponsor based upon the misrepresentation or falsified information involved, plus, with respect to a determination under paragraph (1)(B), double the excess amount charged in violation of such paragraph (and the excess amount charged shall be deducted from the penalty and returned to the individual concerned), and plus, with respect to a determination under paragraph (1)(D), $15,000 for each individual not enrolled as a result of the practice involved,
 
 &emsp;&emsp;(B) suspension of enrollment of individuals under this part after the date the Secretary notifies the organization of a determination under paragraph (1) and until the Secretary is satisfied that the basis for such determination has been corrected and is not likely to recur, or
 
@@ -290,7 +312,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;To facilitate the offering of MA plans by employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits to the entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such MA plans. Notwithstanding section 1395w–21(g) of this title, an MA plan described in the previous sentence may restrict the enrollment of individuals under this part to individuals who are beneficiaries and participants in such plan.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319; amended Pub. L. 106–113, div. B,§1000(a)(6) \[title V, §§513(a), (b)(1), 522(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, 1501A–387; Pub. L. 106–554, §1(a)(6) \[title VI, §§617(a), 623(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, 2763A–566; Pub. L. 108–173, title II, §§222(j), (k), (<i>l</i>)(3)(C), 237(c), title IX, §900(e)(1)(I), Dec. 8, 2003, 117 Stat. 2205, 2207, 2213, 2372; Pub. L. 110–275, title I, §§164(d)(2), 171(b), 172(a)(2), 173(b), July 15, 2008, 122 Stat. 2574, 2580, 2581.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§513(a), (b)(1), 522(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, 1501A–387; Pub. L. 106–554, §1(a)(6) \[title VI, §§617(a), 623(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, 2763A–566; Pub. L. 108–173, title II, §§222(j), (k), (<i>l</i>)(3)(C), 237(c), title IX, §900(e)(1)(I), Dec. 8, 2003, 117 Stat. 2205, 2207, 2213, 2372; Pub. L. 110–275, title I, §§164(d)(2), 171(b), 172(a)(2), 173(b), July 15, 2008, 122 Stat. 2574, 2580, 2581; Pub. L. 111–148, title VI, §6408(b), Mar. 23, 2010, 124 Stat. 771; Pub. L. 111–152, title I, §1103, Mar. 30, 2010, 124 Stat. 1047.)
 
 #### References in Text
 
@@ -300,7 +322,19 @@ Parts A and B of this subchapter, referred to in subsec. (e)(2)(E)(ii), are clas
 
 #### Amendments
 
-2008—Subsec. (d)(6). Pub. L. 110–275, §164(d)(2), added par. (6).
+<b>2010</b>—Subsec. (d)(2)(A). Pub. L. 111–148, §6408(b)(1)(A), inserted “timely” before “inspect”.
+
+Subsec. (d)(2)(B). Pub. L. 111–148, §6408(b)(1)(B), inserted “timely” before “audit and inspect”.
+
+Subsec. (e)(4). Pub. L. 111–152 added par. (4).
+
+Subsec. (g)(1). Pub. L. 111–148, §6408(b)(2)(C), inserted at end of concluding provisions “The Secretary may provide, in addition to any other remedies authorized by law, for any of the remedies described in paragraph (2), if the Secretary determines that any employee or agent of such organization, or any provider or supplier who contracts with such organization, has engaged in any conduct described in subparagraphs (A) through (K) of this paragraph.”
+
+Subsec. (g)(1)(H) to (K). Pub. L. 111–148, §6408(b)(2), added subpars. (H) to (K).
+
+Subsec. (g)(2)(A). Pub. L. 111–148, §6408(b)(3), inserted “except with respect to a determination under subparagraph (E), an assessment of not more than the amount claimed by such plan or plan sponsor based upon the misrepresentation or falsified information involved,” after “for each such determination,”.
+
+<b>2008</b>—Subsec. (d)(6). Pub. L. 110–275, §164(d)(2), added par. (6).
 
 Subsec. (f)(3). Pub. L. 110–275, §171(b), added par. (3).
 
@@ -308,7 +342,7 @@ Subsec. (f)(3)(B). Pub. L. 110–275, §172(a)(2), added subpar. (B).
 
 Subsec. (f)(3)(C). Pub. L. 110–275, §173(b), added subpar. (C).
 
-2003—Subsec. (d)(1). Pub. L. 108–173, §222(<i>l</i>)(3)(C), substituted “and costs, including allowable costs under section 1395w–27a(c) of this title” for “, costs, and computation of the adjusted community rate”.
+<b>2003</b>—Subsec. (d)(1). Pub. L. 108–173, §222(<i>l</i>)(3)(C), substituted “and costs, including allowable costs under section 1395w–27a(c) of this title” for “, costs, and computation of the adjusted community rate”.
 
 Subsec. (d)(4)(A)(ii). Pub. L. 108–173, §900(e)(1)(I), substituted “Secretary” for “Health Care Financing Administration”.
 
@@ -332,11 +366,11 @@ Subsec. (e)(3). Pub. L. 108–173, §237(c), added par. (3).
 
 Subsec. (i). Pub. L. 108–173, §222(j), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-2000—Subsec. (g)(3)(D). Pub. L. 106–554, §1(a)(6) \[title VI, §623(a)\], added subpar. (D).
+<b>2000</b>—Subsec. (g)(3)(D). Pub. L. 106–554, §1(a)(6) \[title VI, §623(a)\], added subpar. (D).
 
 Subsec. (i). Pub. L. 106–554, §1(a)(6) \[title VI, §617(a)\], added subsec. (i).
 
-1999—Subsec. (c)(4). Pub. L. 106–113, §1000(a)(6) \[title V, §513(b)(1)(B), (C)\], designated existing provisions as subpar. (A), inserted heading, realigned margins, and added subpar. (B).
+<b>1999</b>—Subsec. (c)(4). Pub. L. 106–113, §1000(a)(6) \[title V, §513(b)(1)(B), (C)\], designated existing provisions as subpar. (A), inserted heading, realigned margins, and added subpar. (B).
 
 Pub. L. 106–113, §1000(a)(6) \[title V, §513(a), (b)(1)(A)\], substituted “2-year period” for “5-year period” and “except as provided in subparagraph (B) and except in such other circumstances” for “except in circumstances”.
 
@@ -355,6 +389,10 @@ Subsec. (e)(2)(E). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(4)\], add
 #### Change of Name
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 6408(b)(1) of Pub. L. 111–148 effective Mar. 23, 2010, and amendment by section 6408(b)(2), (3) of Pub. L. 111–148 applicable to acts committed on or after Jan. 1, 2010, see section 6408(d) of Pub. L. 111–148, set out as a note under section 1320a–7 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -388,6 +426,10 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §522(b)\], Nov. 29, 1999, 11
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §513(b)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, provided that: “Nothing in the amendment made by paragraph (1)(C) \[amending this section\] shall be construed to affect the authority of the Secretary of Health and Human Services to provide for exceptions in addition to the exception provided in such amendment, including exceptions provided under Operational Policy Letter \#103 (OPL99.103).”
 
+#### Technical Correction to MA Private Fee-for-Service Plans
+
+Pub. L. 111–148, title III, §3207, Mar. 23, 2010, 124 Stat. 459, provided that: “For plan year 2011 and subsequent plan years, to the extent that the Secretary of Health and Human Services is applying the 2008 service area extension waiver policy (as modified in the April 11, 2008, Centers for Medicare \& Medicaid Services’ memorandum with the subject ‘2009 Employer Group Waiver-Modification of the 2008 Service Area Extension Waiver Granted to Certain MA Local Coordinated Care Plans’) to Medicare Advantage coordinated care plans, the Secretary shall extend the application of such waiver policy to employers who contract directly with the Secretary as a Medicare Advantage private fee-for-service plan under section 1857(i)(2) of the Social Security Act (42 U.S.C. 1395w–27(i)(2)) and that had enrollment as of October 1, 2009.”
+
 #### Study of Multi-Year Contracts
 
 Pub. L. 108–173, title I, §107(d), Dec. 8, 2003, 117 Stat. 2171, directed the Secretary of Health and Human Services to provide for a study on the feasibility and advisability of providing for contracting with PDP sponsors and MA organizations under this part and part D of this subchapter on a multi-year basis, and to submit to Congress a report on such study not later than Jan. 1, 2007.
@@ -395,4 +437,6 @@ Pub. L. 108–173, title I, §107(d), Dec. 8, 2003, 117 Stat. 2171, directed the
 #### Immediate Effective Date for Certain Requirements for Demonstrations
 
 Section 4002(g) of Pub. L. 105–33 provided that: “Section 1857(e)(2) of the Social Security Act \[subsec. (e)(2) of this section\] (requiring contribution to certain costs related to the enrollment process comparative materials) applies to demonstrations with respect to which enrollment is effected or coordinated under section 1851 of such Act \[section 1395w–21 of this title\].”
+
+<i><sup>1</sup></i><i> So in original. Probably means subpar. (E) of par. (1).</i>
 

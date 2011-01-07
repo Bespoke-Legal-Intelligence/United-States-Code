@@ -2,7 +2,7 @@
 
 #### (a) Use of grants
 
-Any amounts received from grants under this section may only be used to carry out a program to provide (or contract to provide) assistance to eligible persons who are homeless or in need of housing assistance to prevent homelessness, which may include the following activities:
+Any amounts received from grants under this section may only be used to carry out a programto provide (or contract to provide) assistance to eligible persons who are homeless or in need of housing assistance to prevent homelessness, which may include the following activities:
 
 #### (1) Short-term supported housing
 
@@ -84,7 +84,7 @@ Any amounts received from grants under this section may only be used to carry ou
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–550, §606(j)(11)(C)(i), substituted “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” in introductory provisions.
+<b>1992</b>—Subsec. (a). Pub. L. 102–550, §606(j)(11)(C)(i), substituted “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” in introductory provisions.
 
 Subsec. (a)(3). Pub. L. 102–550, §606(g)(1)(A), (j)(5), substituted “to eligible persons assisted under” for “to individuals assisted under” and inserted before period at end “(except that health services under this paragraph may only be provided to individuals with acquired immunodeficiency syndrome or related diseases), and providing technical assistance to eligible persons to provide assistance in gaining access to benefits and services for homeless individuals provided by the Federal Government and State and local governments”.
 

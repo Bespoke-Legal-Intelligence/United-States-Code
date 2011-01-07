@@ -42,7 +42,7 @@ Section 2052(10) of this title, referred to in par. (8), was redesignated sectio
 
 #### Amendments
 
-2008—Par. (8). Pub. L. 110–314 added par. (8).
+<b>2008</b>—Par. (8). Pub. L. 110–314 added par. (8).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

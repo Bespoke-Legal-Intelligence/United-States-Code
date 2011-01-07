@@ -2,7 +2,7 @@
 
 #### (a) Limitations period
 
-A grievance is forever barred under this subchapter unless it is filed with the Departmentnot later than two years after the occurrence giving rise to the grievance or, in the case of a grievance with respect to the grievant's rater or reviewer, one year after the date on which the grievant ceased to be subject to rating or review by that person, but in no case more than three years after the occurrence giving rise to the grievance. There shall be excluded from the computation of any such period any time during which, as determined by the Foreign Service Grievance Board, the grievant was unaware of the grounds for the grievance and could not have discovered such grounds through reasonable diligence.
+A grievance is forever barred under this subchapter unless it is filed with the Department not later than two years after the occurrence giving rise to the grievance or, in the case of a grievance with respect to the grievant's rater or reviewer, one year after the date on which the grievant ceased to be subject to rating or review by that person, but in no case more than three years after the occurrence giving rise to the grievance. There shall be excluded from the computation of any such period any time during which, as determined by the Foreign Service Grievance Board, the grievant was unaware of the grounds for the grievance and could not have discovered such grounds through reasonable diligence.
 
 #### (b) Failure of Department to resolve grievance; grievance filed with Foreign Service Grievance Board
 
@@ -22,13 +22,13 @@ If a grievance is not resolved under Department procedures (which have been nego
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–228 substituted “but in no case more than three years” for “but in no case less than two years”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–228 substituted “but in no case more than three years” for “but in no case less than two years”.
 
-1999—Subsec. (a). Pub. L. 106–113, §1000(a)(7) \[div. A, title III, §330(a)\], in first sentence, substituted “not later than two years after the occurrence giving rise to the grievance or, in the case of a grievance with respect to the grievant's rater or reviewer, one year after the date on which the grievant ceased to be subject to rating or review by that person, but in no case less than two years after the occurrence giving rise to the grievance.” for “within a period of 3 years after the occurrence or occurrences giving rise to the grievance or such shorter period as may be agreed to by the Department and the exclusive representative.”
+<b>1999</b>—Subsec. (a). Pub. L. 106–113, §1000(a)(7) \[div. A, title III, §330(a)\], in first sentence, substituted “not later than two years after the occurrence giving rise to the grievance or, in the case of a grievance with respect to the grievant's rater or reviewer, one year after the date on which the grievant ceased to be subject to rating or review by that person, but in no case less than two years after the occurrence giving rise to the grievance.” for “within a period of 3 years after the occurrence or occurrences giving rise to the grievance or such shorter period as may be agreed to by the Department and the exclusive representative.”
 
 Subsec. (c)(1). Pub. L. 106–113, §1000(a)(7) \[div. A, title III, §330(b)\], substituted “ ‘2 years’ ” for “ ‘3 years’ ”.
 
-1991—Subsec. (a). Pub. L. 102–138, §153(b)(1), inserted “under this subchapter” before “unless”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–138, §153(b)(1), inserted “under this subchapter” before “unless”.
 
 Subsec. (c). Pub. L. 102–138, §153(b)(2), added subsec. (c).
 

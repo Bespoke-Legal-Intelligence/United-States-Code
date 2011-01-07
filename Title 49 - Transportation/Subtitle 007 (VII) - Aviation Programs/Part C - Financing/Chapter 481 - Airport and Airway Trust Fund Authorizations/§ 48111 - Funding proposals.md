@@ -24,7 +24,7 @@ Funding proposal.—The term “funding proposal” means a proposal to provide 
 
 Rules of the Senate.—The provisions of this section are enacted—
 
-&emsp;(1) as an exercise of the rulemaking power of the Senate and as such they are deemed a partof the rules of the Senate and they supersede other rules only to the extent that they are inconsistent therewith; and
+&emsp;(1) as an exercise of the rulemaking power of the Senate and as such they are deemed a part of the rules of the Senate and they supersede other rules only to the extent that they are inconsistent therewith; and
 
 &emsp;(2) with full recognition of the constitutional right of the Senate to change the rules (so far as relating to the procedure of the Senate) at any time, in the same manner and to the same extent as in the case of any other rule of the Senate.
 

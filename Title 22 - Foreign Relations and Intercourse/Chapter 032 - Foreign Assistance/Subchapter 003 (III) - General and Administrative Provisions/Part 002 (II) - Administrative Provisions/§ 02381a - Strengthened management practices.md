@@ -12,7 +12,7 @@ To meet this need, the President shall establish a management system that includ
 
 #### Amendments
 
-1978—Subsec. (c). Pub. L. 95–424 struck out subsec. (c) relating to annual reports to Congress by the President evaluating the progress made toward implementation of this section.
+<b>1978</b>—Subsec. (c). Pub. L. 95–424 struck out subsec. (c) relating to annual reports to Congress by the President evaluating the progress made toward implementation of this section.
 
 #### Effective Date of 1978 Amendment
 

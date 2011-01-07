@@ -56,11 +56,11 @@ Consistent with sections 403 and 403–1 of this title, the Secretary of Defense
 
 The Secretary of Defense, in carrying out the functions described in this section, may use such elements of the Department of Defense as may be appropriate for the execution of those functions, in addition to, or in lieu of, the elements identified in this section.
 
-(July 26, 1947, ch. 343, title I, §105, as added Pub. L. 102–496, title VII, §706(a), Oct. 24, 1992, 106 Stat. 3194; amended Pub. L. 103–359, title V, §501(a)(2), Oct. 14, 1994, 108 Stat. 3428; Pub. L. 104–201, div. A, title XI, §1114(a), Sept. 23, 1996, 110 Stat. 2684; Pub. L. 104–293, title VIII, §808, Oct. 11, 1996, 110 Stat. 3481; Pub. L. 107–306, title VIII, §811(b)(1)(A), Nov. 27, 2002, 116 Stat. 2421; Pub. L. 108–136, div. A, title IX, §921(e)(2), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 108–177, title III, §361(a), Dec. 13, 2003, 117 Stat. 2625; Pub. L. 108–458, title I, §§1071(a)(1)(E), (F), (2)(A), 1072(a)(2), (3), 1074(b)(1)(B), Dec. 17, 2004, 118 Stat. 3689, 3690, 3692, 3694.)
+(July 26, 1947, ch. 343, title I, §105, as added Pub. L. 102–496, title VII, §706(a), Oct. 24, 1992, 106 Stat. 3194; amended Pub. L. 103–359, title V, §501(a)(2), Oct. 14, 1994, 108 Stat. 3428; Pub. L. 104–201, div. A, title XI, §1114(a), Sept. 23, 1996, 110 Stat. 2684; Pub. L. 104–293, title VIII, §808,Oct. 11, 1996, 110 Stat. 3481; Pub. L. 107–306, title VIII, §811(b)(1)(A), Nov. 27, 2002, 116 Stat. 2421; Pub. L. 108–136, div. A, title IX, §921(e)(2), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 108–177, title III, §361(a), Dec. 13, 2003, 117 Stat. 2625; Pub. L. 108–458, title I, §§1071(a)(1)(E), (F), (2)(A), 1072(a)(2), (3), 1074(b)(1)(B), Dec. 17, 2004, 118 Stat. 3689, 3690, 3692, 3694.)
 
 #### Amendments
 
-2004—Pub. L. 108–458, §1074(b)(1)(B)(ii), struck out “Foreign” before “Intelligence” in section catchline.
+<b>2004</b>—Pub. L. 108–458, §1074(b)(1)(B)(ii), struck out “Foreign” before “Intelligence” in section catchline.
 
 Subsec. (a). Pub. L. 108–458, §1072(a)(2), substituted “Consistent with sections 403 and 403–1 of this title, the Secretary” for “The Secretary” in introductory provisions.
 
@@ -76,21 +76,21 @@ Subsec. (b). Pub. L. 108–458, §1072(a)(3), substituted “403 and 403–1” 
 
 Subsec. (b)(6)(A). Pub. L. 108–458, §1071(a)(1)(F), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-2003—Subsec. (b)(2). Pub. L. 108–136, §921(e)(2), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–136, §921(e)(2), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 Subsec. (d). Pub. L. 108–177 struck out subsec. (d) which related to annual evaluations of performance and responsiveness of certain elements of the intelligence community.
 
 Subsec. (d)(3). Pub. L. 108–136, §921(e)(2), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-2002—Subsec. (d). Pub. L. 107–306 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The Director of Central Intelligence, in consultation with the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, shall submit each year to the Committee on Foreign Intelligence of the National Security Council and the appropriate congressional committees (as defined in section 404d(c) of this title) an evaluation of the performance and the responsiveness of the National Security Agency, the National Reconnaissance Office, and the National Imagery and Mapping Agency in meeting their national missions.”
+<b>2002</b>—Subsec. (d). Pub. L. 107–306 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The Director of Central Intelligence, in consultation with the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, shall submit each year to the Committee on Foreign Intelligence of the National Security Council and the appropriate congressional committees (as defined in section 404d(c) of this title) an evaluation of the performance and the responsiveness of the National Security Agency, the National Reconnaissance Office, and the National Imagery and Mapping Agency in meeting their national missions.”
 
-1996—Subsec. (a). Pub. L. 104–293, §808(1), inserted “, in consultation with the Director of Central Intelligence,” after “Secretary of Defense” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–293, §808(1), inserted “, in consultation with the Director of Central Intelligence,” after “Secretary of Defense” in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 104–201 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “through the Central Imagery Office (except as otherwise directed by the President or the National Security Council), with appropriate representation from the intelligence community, the continued operation of an effective unified organization within the Department of Defense for carrying out tasking of imagery collection, for the coordination of imagery processing and exploitation activities, and for ensuring the dissemination of imagery in a timely manner to authorized recipients;”.
 
 Subsec. (d). Pub. L. 104–293, §808(2), added subsec. (d).
 
-1994—Subsec. (b)(2). Pub. L. 103–359 substituted “the Central Imagery Office” for “a central imagery authority”.
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–359 substituted “the Central Imagery Office” for “a central imagery authority”.
 
 #### Effective Date of 2004 Amendment
 
@@ -134,7 +134,7 @@ Department of Defense Strategy for Open-Source Intelligence.—
 
 &emsp;“(1)
 
-Development of strategy.—The Secretary of Defense shall develop a strategy for the purpose of integrating open-source intelligence into the Defense intelligence process. The strategy shall be known as the ‘Defense Strategy for Open-Source Intelligence’. The strategy shall be incorporated within the larger Defense intelligence strategy.
+Development of strategy.—The Secretary of Defense shall develop a strategy for the purpose of integrating open-source intelligence into the Defense intelligence process. The strategy shall be known as the ‘Defense Strategy for Open-Source Intelligence’.The strategy shall be incorporated within the larger Defense intelligence strategy.
 
 &emsp;“(2)
 
@@ -166,7 +166,7 @@ Matters to Be Included.—The strategy under subsection (b) shall include the fo
 
 &emsp;&emsp;“(B) into service intelligence organizations.
 
-&emsp;“(8) A plan to incorporate and identify an open-source intelligence specialty into personnel systemsof the Department of Defense, including military personnel systems.
+&emsp;“(8) A plan to incorporate and identify an open-source intelligence specialty into personnel systems of the Department of Defense, including military personnel systems.
 
 &emsp;“(9) A plan for the use of intelligence personnel of the reserve components to augment and support the open-source intelligence mission.
 

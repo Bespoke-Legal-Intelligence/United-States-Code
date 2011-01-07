@@ -34,7 +34,7 @@
 
 (g) The Secretary concerned may, when he determines that there is an emergency and a sale would be in the best interests of the United States, provide for the public or private sale of motor vehicles and other bulky items of household and personal effects of a member described in subsection (b). Before a sale, and if practicable, a reasonable effort shall be made to determine the desires of the interested persons. The net proceeds received from the sale shall, under regulations prescribed by the Secretary concerned, be sent to the owner or other persons. If there are no such persons, or if they or their addresses are not known within one year from the date of sale, the net proceeds may be covered into the Treasury as miscellaneous receipts.
 
-(h) Claims for net proceeds that are covered into the Treasury under subsection (g) may be filed with the Secretary of Defense by the rightful owners, their heirs or next of kin, or their legal representatives at any time before the end of a 5-year period from the date the proceeds are covered into the Treasury. When a claim is filed, the Secretary of Defense shall allow or disallow it. A claim that is allowed shall be paid from the appropriation for refunding money erroneously received and covered. If a claim is not filed before the end of the 5-year period from the date the proceeds are covered into the Treasury, it isbarred from being acted on by the courts or the Secretary of Defense.
+(h) Claims for net proceeds that are covered into the Treasury under subsection (g) may be filed with the Secretary of Defense by the rightful owners, their heirs or next of kin, or their legal representatives at any time before the end of a 5-year period from the date the proceeds are covered into the Treasury. When a claim is filed, the Secretary of Defense shall allow or disallow it. A claim that is allowed shall be paid from the appropriation for refunding money erroneously received and covered. If a claim is not filed before the end of the 5-year period from the date the proceeds are covered into the Treasury, it is barred from being acted on by the courts or the Secretary of Defense.
 
 (i) If a motor vehicle of a member (or a dependent of the member) that is transported at the expense of the United States under this section does not arrive at the authorized destination of the vehicle by the designated delivery date, the Secretary concerned shall reimburse the dependent for expenses incurred after that date to rent a motor vehicle for the dependent's use. The amount reimbursed may not exceed $30 per day, and the rental period for which reimbursement may be provided expires after 7 days or on the date on which the delayed vehicle arrives at the authorized destination (whichever occurs first). In a case in which two motor vehicles of a member (or the dependent or dependents of a member) are transported at the expense of the United States, no reimbursement is payable under this subsection unless both motor vehicles do not arrive at the authorized destination of the vehicles by the designated delivery date.
 
@@ -124,37 +124,37 @@ In subsection (i), the words “the provisions of” are omitted as unnecessary.
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–314, §622(a), substituted “two privately owned motor vehicles” for “one privately owned motor vehicle” in introductory and concluding provisions.
+<b>2002</b>—Subsec. (a). Pub. L. 107–314, §622(a), substituted “two privately owned motor vehicles” for “one privately owned motor vehicle” in introductory and concluding provisions.
 
 Subsec. (i). Pub. L. 107–314, §622(b), inserted at end “In a case in which two motor vehicles of a member (or the dependent or dependents of a member) are transported at the expense of the United States, no reimbursement is payable under this subsection unless both motor vehicles do not arrive at the authorized destination of the vehicles by the designated delivery date.”
 
-1998—Subsecs. (i), (j). Pub. L. 105–261 added subsec. (i) and redesignated former subsec. (i) as (j).
+<b>1998</b>—Subsecs. (i), (j). Pub. L. 105–261 added subsec. (i) and redesignated former subsec. (i) as (j).
 
-1996—Subsec. (h). Pub. L. 104–316 substituted “Secretary of Defense” for “General Accounting Office” wherever appearing.
+<b>1996</b>—Subsec. (h). Pub. L. 104–316 substituted “Secretary of Defense” for “General Accounting Office” wherever appearing.
 
-1991—Subsec. (a). Pub. L. 102–25, §702(b)(2), struck out “of this subsection” after “clause (2) or (3)”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–25, §702(b)(2), struck out “of this subsection” after “clause (2) or (3)”.
 
 Subsecs. (c), (f) to (h). Pub. L. 102–25, §702(b)(1), struck out “of this section” after “subsection (b)” in subsecs. (c), (f), (g), and (h) and after “subsection (g)” in subsec. (h).
 
 Subsec. (i)(1). Pub. L. 102–190 substituted “6522, or 9712” for “4713, 6522, 9712, or 9713”.
 
-1974—Subsec. (b). Pub. L. 93–548, §3(1)(A), inserted “ill,” after “injured,”.
+<b>1974</b>—Subsec. (b). Pub. L. 93–548, §3(1)(A), inserted “ill,” after “injured,”.
 
 Subsec. (b)(3). Pub. L. 93–548, §3(1)(B), inserted “or ill” after “injured”.
 
 Subsec. (c). Pub. L. 93–548, §3(2), inserted “or ill” before “status”.
 
-1972—Pub. L. 92–477, §1(1), inserted “trailers; additional movements;” after “household and personal effects;” in section catchline.
+<b>1972</b>—Pub. L. 92–477, §1(1), inserted “trailers; additional movements;” after “household and personal effects;” in section catchline.
 
 Subsec. (a). Pub. L. 92–477, §1(2), authorized at Government expense without cost limitation and under prescribed regulations the transportation of house trailers or mobile dwellings, including a privately owned motor vehicle, in place of household and personal effects of members in a missing status.
 
 Subsec. (b). Pub. L. 92–477, §1(3), authorized additional movements of and transportation for dependents and household and personal effects, or dependents and house trailer or mobile dwelling of members in a missing status for more than one year.
 
-1968—Subsec. (b). Pub. L. 90–623 substituted “29” for “twenty-nine”.
+<b>1968</b>—Subsec. (b). Pub. L. 90–623 substituted “29” for “twenty-nine”.
 
 Pub. L. 90–236 inserted provision authorizing nontemporary storage of household and personal effects of a member who is officially reported as absent for a period of more than 29 days in a missing status.
 
-1967—Subsec. (a). Pub. L. 90–83 struck out “when it is located outside the United States, or in Alaska or Hawaii” after “shipped at United States expense”.
+<b>1967</b>—Subsec. (a). Pub. L. 90–83 struck out “when it is located outside the United States, or in Alaska or Hawaii” after “shipped at United States expense”.
 
 #### Effective Date of 2002 Amendment
 

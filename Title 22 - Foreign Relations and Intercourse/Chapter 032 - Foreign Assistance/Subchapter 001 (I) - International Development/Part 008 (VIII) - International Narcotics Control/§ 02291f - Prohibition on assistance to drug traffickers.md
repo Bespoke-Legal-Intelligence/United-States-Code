@@ -16,7 +16,7 @@ The President shall issue regulations specifying the steps to be taken in carryi
 
 Regulations issued pursuant to subsection (b) of this section shall be submitted to the Congress before they take effect.
 
-(Pub. L. 87–195, pt. I, §487, as added Pub. L. 100–690, title IV, §4503, Nov. 18, 1988, 102 Stat. 4285; amended Pub. L. 102–583, §6(b)(6), Nov. 2, 1992, 106 Stat. 4932; Pub. L. 103–447, title I, §101(e), Nov. 2, 1994, 108 Stat. 4692.)
+(Pub. L. 87–195, pt. I, §487, as added Pub. L. 100–690, title IV, §4503, Nov. 18, 1988, 102 Stat.4285; amended Pub. L. 102–583, §6(b)(6), Nov. 2, 1992, 106 Stat. 4932; Pub. L. 103–447, title I, §101(e), Nov. 2, 1994, 108 Stat. 4692.)
 
 #### References in Text
 
@@ -26,9 +26,9 @@ The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oc
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–447 inserted “to” after “relating”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–447 inserted “to” after “relating”.
 
-1992—Subsec. (a)(1). Pub. L. 102–583 struck out “(as defined in section 2291(i)(3) of this title)” after “controlled substances”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–583 struck out “(as defined in section 2291(i)(3) of this title)” after “controlled substances”.
 
 #### Delegation of Functions
 

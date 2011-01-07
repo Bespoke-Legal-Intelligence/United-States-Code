@@ -10,7 +10,7 @@
 
 #### Amendments
 
-2004—Pub. L. 108–375, div. A, title VI, §651(b)(1), Oct. 28, 2004, 118 Stat. 1971, added subchapter heading and items 2487 to 2489.
+<b>2004</b>—Pub. L. 108–375, div. A, title VI, §651(b)(1), Oct. 28, 2004, 118 Stat. 1971, added subchapter heading and items 2487 to 2489.
 
 
 ---

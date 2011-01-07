@@ -30,11 +30,11 @@ For purposes of this section—
 
 #### Amendments
 
-1996—Subsec. (b)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
 
 Subsec. (c)(1). Pub. L. 104–188 substituted “section 85(b)” for “section 85(c)”.
 
-1986—Subsec. (b). Pub. L. 99–514, in amending subsec. (b) generally, substituted references to persons required to make a return for former references to persons making a return and references to individuals whose names are required to be set forth for former references to individuals whose names are set forth, and struck out provision directing that no statement is required to be furnished to individuals if the aggregate amount of payments to such individual shown on the return is less than $10.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514, in amending subsec. (b) generally, substituted references to persons required to make a return for former references to persons making a return and references to individuals whose names are required to be set forth for former references to individuals whose names are set forth, and struck out provision directing that no statement is required to be furnished to individuals if the aggregate amount of payments to such individual shown on the return is less than $10.
 
 #### Effective Date of 1996 Amendment
 

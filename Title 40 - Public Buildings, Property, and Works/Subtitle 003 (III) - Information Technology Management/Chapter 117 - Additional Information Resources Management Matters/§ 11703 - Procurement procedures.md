@@ -26,5 +26,5 @@ A prior section 11703 was renumbered section 11702 of this title.
 
 #### Amendments
 
-2002—Pub. L. 107–314 renumbered section 11704 of this title as this section.
+<b>2002</b>—Pub. L. 107–314 renumbered section 11704 of this title as this section.
 

@@ -4,7 +4,7 @@
 
 #### (c) Activities not conforming to approved or promulgated plans
 
-(1) No department, agency, or instrumentality of the Federal Government shall engage in, support in any way or provide financial assistance for, license or permit, or approve, any activity which does not conform to an implementationplan after it has been approved or promulgated under section 7410 of this title. No metropolitan planning organization designated under section 134 of title 23, shall give its approval to any project, program, or plan which does not conform to an implementation plan approved or promulgated under section 7410 of this title. The assurance of conformity to such an implementation plan shall be an affirmative responsibility of the head of such department, agency, or instrumentality. Conformity to an implementation plan means—
+(1) No department, agency, or instrumentality of the Federal Government shall engage in, support in any way or provide financial assistance for, license or permit, or approve, any activity which does not conform to an implementation plan after it has been approved or promulgated under section 7410 of this title. No metropolitan planning organization designated under section 134 of title 23, shall give its approval to any project, program, or plan which does not conform to an implementation plan approved or promulgated under section 7410 of this title. The assurance of conformity to such an implementation plan shall be an affirmative responsibility of the head of such department, agency, or instrumentality. Conformity to an implementation plan means—
 
 &emsp;(A) conformity to an implementation plan's purpose of eliminating or reducing the severity and number of violations of the national ambient air quality standards and achieving expeditious attainment of such standards; and
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(ii) in carbon monoxide nonattainment areas, eliminate or reduce the severity and number of violations of the carbon monoxide standards in the area substantially affected by the project.
 
-> &emsp;With regard to subparagraph (B)(ii), such determination may be made as part of either the conformity determination for the transportation program or for the individual project taken as a whole during the environmental review phase of project development.
+> &emsp;With regard to subparagraph (B)(ii), such determination may be made as part of either theconformity determination for the transportation program or for the individual project taken as a whole during the environmental review phase of project development.
 
 (4)
 
@@ -120,7 +120,7 @@ In general.—Each conformity determination required under this section for a tr
 
 &emsp;(B)
 
-Regional emissions analysis.—The conformity determination shall be accompanied by a regional emissions analysis for the last year of the transportation plan and for any year shown to exceed emission budgets by a prior analysis, if such year extends beyond the applicable period as determined under subparagraph (A).
+Regional emissions analysis.—The conformity determination shall be accompanied by a regional emissions analysis for the last year of the transportation plan and for any year shown to exceed emission budgets by aprior analysis, if such year extends beyond the applicable period as determined under subparagraph (A).
 
 &emsp;(C)
 
@@ -192,7 +192,7 @@ Effect of adoption.—Adoption of a substitute control measure shall constitute 
 
 (9)
 
-Lapse of conformity.—If a conformity determination required under this subsection for atransportation plan under section 134(i) of title 23 or section 5303(i) of title 49 or a transportation improvement program under section 134(j) of such title 23 or under section 5303(j) of such title 49 is not made by the applicable deadline and such failure is not corrected by additional measures to either reduce motor vehicle emissions sufficient to demonstrate compliance with the requirements of this subsection within 12 months after such deadline or other measures sufficient to correct such failures, the transportation plan shall lapse.
+Lapse of conformity.—If a conformity determination required under this subsection for a transportation plan under section 134(i) of title 23 or section 5303(i) of title 49 or a transportation improvement program under section 134(j) of such title 23 or under section 5303(j) of such title 49 is not made by the applicable deadline and such failure is not corrected by additional measures to either reduce motor vehicle emissions sufficient to demonstrate compliance with the requirements of this subsection within 12 months after such deadline or other measures sufficient to correct such failures, the transportation plan shall lapse.
 
 (10)
 
@@ -218,7 +218,7 @@ In subsecs. (c)(2) and (d), “chapter 53 of title 49” substituted for “the 
 
 #### Amendments
 
-2005—Subsec. (c)(2)(E). Pub. L. 109–59, §6011(a), added subpar. (E).
+<b>2005</b>—Subsec. (c)(2)(E). Pub. L. 109–59, §6011(a), added subpar. (E).
 
 Subsec. (c)(4). Pub. L. 109–59, §6011(f)(1)–(3), inserted par. (4) and subpar. (A) headings, in first sentence substituted “The Administrator shall promulgate, and periodically update,” for “No later than one year after November 15, 1990, the Administrator shall promulgate”, designated second sentence as subpar. (B), inserted heading, substituted “The Administrator, with the concurrence of the Secretary of Transportation, shall promulgate, and periodically update,” for “No later than one year after November 15, 1990, the Administrator, with the concurrence of the Secretary of Transportation, shall promulgate”, designated third sentence as subpar. (C), inserted heading, substituted “A civil action” for “A suit”, and redesignated former subpars. (B) to (D) as (D) to (F), respectively.
 
@@ -228,17 +228,17 @@ Subsec. (c)(4)(E). Pub. L. 109–59, §6011(f)(4), added subpar. (E) and struck 
 
 Subsec. (c)(7) to (10). Pub. L. 109–59, §6011(c)–(e), added pars. (7) to (10).
 
-2000—Subsec. (c)(6). Pub. L. 106–377 added par. (6).
+<b>2000</b>—Subsec. (c)(6). Pub. L. 106–377 added par. (6).
 
-1996—Subsec. (c)(4)(D). Pub. L. 104–260 added subpar. (D).
+<b>1996</b>—Subsec. (c)(4)(D). Pub. L. 104–260 added subpar. (D).
 
-1995—Subsec. (c)(5). Pub. L. 104–59 added par. (5).
+<b>1995</b>—Subsec. (c)(5). Pub. L. 104–59 added par. (5).
 
-1990—Subsecs. (a), (b). Pub. L. 101–549, §110(4), struck out subsec. (a) which related to approval of projects or award of grants, and subsec. (b) which related to implementation of approved or promulgated plans.
+<b>1990</b>—Subsecs. (a), (b). Pub. L. 101–549, §110(4), struck out subsec. (a) which related to approval of projects or award of grants, and subsec. (b) which related to implementation of approved or promulgated plans.
 
 Subsec. (c). Pub. L. 101–549, §101(f), designated existing provisions as par. (1), struck out “(1)”, “(2)”, “(3)”, and “(4)” before “engage in”, “support in”, “license or”, and “approve, any”, respectively, substituted “conform to an implementation plan after it” for “conform to a plan after it”, “conform to an implementation plan approved” for “conform to a plan approved”, and “conformity to such an implementation plan shall” for “conformity to such a plan shall”, inserted “Conformity to an implementation plan means—” followed immediately by subpars. (A) and (B) and closing provisions relating to determination of conformity being based on recent estimates of emissions and the determination of such estimates, and added pars. (2) to (4).
 
-1977—Subsec. (a)(1). Pub. L. 95–190 inserted “national” before “primary”.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–190 inserted “national” before “primary”.
 
 #### Regulations
 

@@ -60,7 +60,7 @@ Definitions.—In this section—
 
 &emsp;(1) the term “biological agent” has the meaning given to that term in section 178(1);
 
-&emsp;(2) the term “dangerous weapon” means a weapon, device, instrument, material, or substance, animate or inanimate, that is used for, or is readily capable of, causing death or serious bodily injury, including a pocket knife with a blade of less than 21/2 inches in length and a box cutter;
+&emsp;(2) the term “dangerous weapon” means a weapon, device, instrument, material, or substance, animate or inanimate, that is used for, or is readily capable of, causing death or serious bodily injury, including a pocket knife with a blade of less than 2½ inches in length and a box cutter;
 
 &emsp;(3) the term “destructive device” has the meaning given to that term in section 921(a)(4);
 
@@ -98,7 +98,7 @@ A prior section 1992, acts June 25, 1948, ch. 645, 62 Stat. 794; Pub. L. 103–3
 
 #### Amendments
 
-2007—Subsec. (d)(7). Pub. L. 110–53 inserted “intercity bus transportation” after “includes”.
+<b>2007</b>—Subsec. (d)(7). Pub. L. 110–53 inserted “intercity bus transportation” after “includes”.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

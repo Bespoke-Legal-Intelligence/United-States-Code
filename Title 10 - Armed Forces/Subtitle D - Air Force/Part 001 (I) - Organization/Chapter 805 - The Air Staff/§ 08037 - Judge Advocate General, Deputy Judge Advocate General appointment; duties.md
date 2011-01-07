@@ -68,13 +68,13 @@ In subsection (c), the Act of June 23, 1874, ch. 458, §2 (words before semicolo
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181 substituted “The Judge Advocate General, while so serving, has the grade of lieutenant general.” for “The Judge Advocate General, while so serving, shall hold a grade not lower than major general.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–181 substituted “The Judge Advocate General, while so serving, has the grade of lieutenant general.” for “The Judge Advocate General, while so serving, shall hold a grade not lower than major general.”
 
-2006—Subsec. (a). Pub. L. 109–163, §508(c), substituted “The Judge Advocate General, while so serving, shall hold a grade not lower than major general.” for “An appointee who holds a lower regular grade shall be appointed in the regular grade of major general.”
+<b>2006</b>—Subsec. (a). Pub. L. 109–163, §508(c), substituted “The Judge Advocate General, while so serving, shall hold a grade not lower than major general.” for “An appointee who holds a lower regular grade shall be appointed in the regular grade of major general.”
 
 Subsec. (b). Pub. L. 109–163, §1057(a)(2), struck out “or Territory” after “a State”.
 
-2004—Subsec. (a). Pub. L. 108–375, §574(c)(1), struck out “, but may be sooner terminated or extended by the President” after “four years”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–375, §574(c)(1), struck out “, but may be sooner terminated or extended by the President” after “four years”.
 
 Subsec. (c). Pub. L. 108–375, §574(c)(2)(A), struck out “shall” after “General” in introductory provisions.
 
@@ -84,15 +84,15 @@ Subsec. (d)(1). Pub. L. 108–375, §574(c)(3), struck out “, but may be soon
 
 Subsec. (f). Pub. L. 108–375, §574(c)(4), added subsec. (f).
 
-1996—Subsec. (d)(1). Pub. L. 104–106 substituted “four years” for “two years” and “An officer appointed as Deputy Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.” for “An officer appointed as Deputy Judge Advocate General shall be appointed in a regular grade to be determined by the Secretary of Defense.”
+<b>1996</b>—Subsec. (d)(1). Pub. L. 104–106 substituted “four years” for “two years” and “An officer appointed as Deputy Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.” for “An officer appointed as Deputy Judge Advocate General shall be appointed in a regular grade to be determined by the Secretary of Defense.”
 
-1994—Subsec. (e). Pub. L. 103–337 added subsec. (e).
+<b>1994</b>—Subsec. (e). Pub. L. 103–337 added subsec. (e).
 
-1980—Pub. L. 96–343, §12(b)(1), substituted “General, Deputy Judge Advocate General:” for “General:” in section catchline.
+<b>1980</b>—Pub. L. 96–343, §12(b)(1), substituted “General, Deputy Judge Advocate General:” for “General:” in section catchline.
 
 Subsec. (d). Pub. L. 96–343, §12(a), added subsec. (d).
 
 #### Effective Date of 1996 Amendment
 
-Section 507(b) of Pub. L. 104–106 provided that: “The amendments made by subsection (a) \[amending this section\] apply to any appointment to the position of Deputy Judge Advocate General of the Air Force that is made after the date of the enactment of this Act \[Feb. 10, 1996\].”
+Section 507(b) of Pub. L. 104–106 provided that: “The amendments made by subsection (a) \[amending thissection\] apply to any appointment to the position of Deputy Judge Advocate General of the Air Force that is made after the date of the enactment of this Act \[Feb. 10, 1996\].”
 

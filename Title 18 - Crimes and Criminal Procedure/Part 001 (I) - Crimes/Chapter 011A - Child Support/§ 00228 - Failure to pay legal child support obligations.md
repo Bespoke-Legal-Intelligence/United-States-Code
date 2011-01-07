@@ -52,9 +52,9 @@ Definitions.—As used in this section—
 
 #### Amendments
 
-1998—Pub. L. 105–187 reenacted section catchline without change and amended text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to a description of the offense, punishment for an offense, restitution upon conviction of an offense, and definitions of terms used in this section.
+<b>1998</b>—Pub. L. 105–187 reenacted section catchline without change and amended text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to a description of the offense, punishment for an offense, restitution upon conviction of an offense, and definitions of terms used in this section.
 
-1996—Subsec. (d)(2). Pub. L. 104–294 inserted “commonwealth,” before “possession or territory of the United States”.
+<b>1996</b>—Subsec. (d)(2). Pub. L. 104–294 inserted “commonwealth,” before “possession or territory of the United States”.
 
 #### Short Title of 1998 Amendment
 

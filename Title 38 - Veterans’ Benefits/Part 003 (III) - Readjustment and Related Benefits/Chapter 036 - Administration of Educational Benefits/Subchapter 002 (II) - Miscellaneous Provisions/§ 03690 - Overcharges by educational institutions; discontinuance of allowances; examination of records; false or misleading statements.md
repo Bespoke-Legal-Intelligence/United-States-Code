@@ -8,7 +8,7 @@ Overcharges by Educational Institutions.—If the Secretary finds that an educat
 
 &emsp;(2) instituted, after October 24, 1972, a policy or practice with respect to the payment of tuition, fees, or other charges in the case of eligible veterans and the Secretary finds that the effect of such policy or practice substantially denies to veterans the benefits of the advance allowances under such section,
 
-> the Secretary may disapprove such educational institution for the enrollment of any eligible veteran or eligible person not already enrolledtherein under this chapter or chapter 31, 34, or 35 of this title.
+> the Secretary may disapprove such educational institution for the enrollment of any eligible veteran or eligible person not already enrolled therein under this chapter or chapter 31, 34, or 35 of this title.
 
 (b)
 
@@ -24,7 +24,7 @@ Discontinuance of Allowances.—(1) The Secretary may discontinue the educationa
 
 &emsp;(ii) such institution refuses to take corrective action or does not within 60 days after such notice (or within such longer period as the Secretary determines is reasonable and appropriate) take corrective action; and
 
-&emsp;(iii) the Secretary, not less than 30 days before taking action under such subparagraph, provides to each eligible veteran and eligible person already enrolled in such course written notice of the Secretary's intent to take such action (and the reasons therefor) unless such corrective action is taken within such 60 days (or within such longer period as the Secretary has determined is reasonable and appropriate), and of the date on which the Secretary intends to take action under such subparagraph.
+&emsp;(iii) the Secretary, not less than 30 days before taking action under such subparagraph, provides to each eligible veteran and eligible person already enrolled in such course written notice of the Secretary's intent to take suchaction (and the reasons therefor) unless such corrective action is taken within such 60 days (or within such longer period as the Secretary has determined is reasonable and appropriate), and of the date on which the Secretary intends to take action under such subparagraph.
 
 (c)
 
@@ -42,15 +42,15 @@ Provisions similar to those comprising subsec. (a) were contained in former sect
 
 #### Amendments
 
-2008—Subsec. (b)(3)(A). Pub. L. 110–252 inserted “33,” after “32,”.
+<b>2008</b>—Subsec. (b)(3)(A). Pub. L. 110–252 inserted “33,” after “32,”.
 
-2006—Pub. L. 109–233 revised style of subsec. headings.
+<b>2006</b>—Pub. L. 109–233 revised style of subsec. headings.
 
-1991—Pub. L. 102–83 renumbered section 1790 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1790 of this title as this section.
 
 Subsec. (b). Pub. L. 102–86 made technical amendment to directory language of Pub. L. 101–237, §423(b)(2). See 1989 Amendment note below.
 
-1989—Subsec. (a). Pub. L. 101–237, §423(a)(9)(A), (b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing and struck out “and prepayment” after “advance” in par. (2).
+<b>1989</b>—Subsec. (a). Pub. L. 101–237, §423(a)(9)(A), (b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing and struck out “and prepayment” after “advance” in par. (2).
 
 Subsec. (b). Pub. L. 101–237, §423(a)(9)(B), (C), (b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing, inserted “30,” before “32” in par. (3)(A), and in par. (3)(B) substituted “(B)” for “(B)(i)” and redesignated subcls. (I), (II), and (III) as cls. (i), (ii), and (iii), respectively.
 
@@ -58,7 +58,7 @@ Pub. L. 101–237, §423(b)(2), as amended by Pub. L. 102–86, substituted “S
 
 Subsecs. (c), (d). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
-1982—Subsec. (a). Pub. L. 97–295, §4(59)(A), substituted “after October 24, 1972” for “after the effective date of section 1780 of this title” in par. (2), and struck out the comma after “or 35” in provisions following par. (2).
+<b>1982</b>—Subsec. (a). Pub. L. 97–295, §4(59)(A), substituted “after October 24, 1972” for “after the effective date of section 1780 of this title” in par. (2), and struck out the comma after “or 35” in provisions following par. (2).
 
 Subsec. (b)(1). Pub. L. 97–295, §4(59)(B), inserted “of this title” after “provision of this chapter or chapter 34 or 35”.
 
@@ -66,11 +66,11 @@ Subsec. (b)(2). Pub. L. 97–306, §207(1), substituted “Except as provided in
 
 Subsec. (b)(3). Pub. L. 97–306, §207(2), added par. (3).
 
-1980—Subsec. (b)(2). Pub. L. 96–466 substituted “for” for “therefor”.
+<b>1980</b>—Subsec. (b)(2). Pub. L. 96–466 substituted “for” for “therefor”.
 
-1977—Subsec. (b). Pub. L. 95–202 designated existing provisions as par. (1) and added par. (2).
+<b>1977</b>—Subsec. (b). Pub. L. 95–202 designated existing provisions as par. (1) and added par. (2).
 
-1976—Subsec. (a). Pub. L. 94–502, §513(a)(19), substituted “the Administrator may disapprove” for “he may disapprove”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–502, §513(a)(19), substituted “the Administrator may disapprove” for “he may disapprove”.
 
 Subsec. (b). Pub. L. 94–502, §513(a)(19), substituted “if the Administrator finds” for “if he finds” in two places.
 

@@ -28,7 +28,7 @@ The Secretary's authority to provide decorations and medals at cost, or to autho
 
 #### Amendments
 
-2008—Pub. L. 110–181, §3523(b), repealed Pub. L. 109–163, §3510. See 2006 Amendment note below.
+<b>2008</b>—Pub. L. 110–181, §3523(b), repealed Pub. L. 109–163, §3510. See 2006 Amendment note below.
 
 Pub. L. 110–181, §3523(a)(5)(A), incorporated the substance of the amendment by Pub. L. 109–163, §3510, into this section by amending section catchline and text generally. Prior to amendment, text read as follows: “The Secretary of Transportation may—
 
@@ -38,5 +38,5 @@ Pub. L. 110–181, §3523(a)(5)(A), incorporated the substance of the amendment 
 
 > See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-2006—Pub. L. 109–163, §3510, which directed the amendment of section 2004(c) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3523(b). See 2008 Amendment notes and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–163, §3510, which directed the amendment of section 2004(c) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3523(b). See 2008 Amendment notes and Historical and Revision notes above.
 

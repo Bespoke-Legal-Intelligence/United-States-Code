@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established an International Broadcasting Bureau under the Board (hereafter in this chapter referred to as the “Bureau”), tocarry out all nonmilitary international broadcasting activities supported by the United States Government other than those described in sections 6207 and 6208 of this title.
+There is hereby established an International Broadcasting Bureau under the Board (hereafter in this chapter referred to as the “Bureau”), to carry out all nonmilitary international broadcasting activities supported by the United States Government other than those described in sections 6207 and 6208 of this title.
 
 #### (b) Selection of Director of Bureau
 
@@ -20,9 +20,9 @@ Level IV of the Executive Schedule, referred to in subsec. (b)(1), is set out in
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–277, §1323(k)(1), substituted “under the Board” for “within the United States Information Agency”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §1323(k)(1), substituted “under the Board” for “within the United States Information Agency”.
 
-Subsec. (b). Pub. L. 105–277, §1323(k)(2)–(4), redesignated par. (1) as entire subsec. (b), substituted “President, by and with the advice and consent of the Senate” for “Chairman of the Board, in consultation with the Director of the United States Information Agency and with the concurrence of a majority of the Board”, and struck out par. (2) which amended section 5315 of Title 5, Government Organization and Employees.
+Subsec. (b). Pub. L. 105–277, §1323(k)(2)–(4), redesignated par. (1) as entire subsec. (b), substituted “President, by and with the advice and consent of the Senate” for “Chairman of the Board, in consultation with the Director of the United States Information Agencyand with the concurrence of a majority of the Board”, and struck out par. (2) which amended section 5315 of Title 5, Government Organization and Employees.
 
 Subsec. (c). Pub. L. 105–277, §1323(k)(5), added subsec. (c).
 

@@ -18,9 +18,9 @@ In this chapter:
 
 #### Amendments
 
-1987—Pub. L. 100–26 substituted colon for dash at end of introductory provisions, inserted “The term” in each par., substituted periods for semicolons in pars. (1) to (4) and period for “; and” in par. (5).
+<b>1987</b>—Pub. L. 100–26 substituted colon for dash at end of introductory provisions, inserted “The term” in eachpar., substituted periods for semicolons in pars. (1) to (4) and period for “; and” in par. (5).
 
-1980—Pub. L. 96–513 in introductory text struck out “(a)” before “In”, in par. (2) struck out provisions relating to Naval Petroleum Reserve Numbered 4, and in par. (4) substituted “Energy” for “the Navy”.
+<b>1980</b>—Pub. L. 96–513 in introductory text struck out “(a)” before “In”, in par. (2) struck out provisions relating to Naval Petroleum Reserve Numbered 4, and in par. (4) substituted “Energy” for “the Navy”.
 
 #### Effective Date of 1980 Amendment
 
@@ -54,7 +54,7 @@ Production of hydrocarbon resources.—Notwithstanding any other provision of la
 
 &emsp;“(2)
 
-Disposal authority and surface use.—The Secretary of the Interior may make disposals of lands subject to transfer under subsection (a), or allow commercial or non-profit surface use of such lands, not to exceed 10 acres each, so long as the disposalsor surface uses do not materially interfere with the ultimate economic recovery of the hydrocarbon resources of such lands. All revenues received from the disposal of lands under this paragraph or from allowing the surface use of such lands shall be deposited in the Naval Petroleum Reserve Numbered 2 Lease Revenue Account established by section 332.
+Disposal authority and surface use.—The Secretary of the Interior may make disposals of lands subject to transfer under subsection (a), or allow commercial or non-profit surface use of such lands, not to exceed 10 acres each, so long as the disposals or surface uses do not materially interfere with the ultimate economic recovery of the hydrocarbon resources of such lands. All revenues received from the disposal of lands under this paragraph or from allowing the surface use of such lands shall be deposited in the Naval Petroleum Reserve Numbered 2 Lease Revenue Account established by section 332.
 
 “(d)
 
@@ -106,7 +106,7 @@ Distribution of Remaining Funds.—Section 35 of the Mineral Leasing Act (30 U.S
 
 “(a)
 
-Conveyance.—Effective on the date of the enactment of this Act \[Aug. 8, 2005\], there is conveyed to the City of Taft, California (in this section referred to as the ‘City’), all surface right, title, and interest of the United States in and to a parcel of real property consisting of approximately 220 acres located in the NE1/4, the NE1/4 of the NW1/4, and the N1/2 of the SE1/4 of the NW1/4 of section 18, township 32 south, range 24 east, Mount Diablo meridian, Kern County, California.
+Conveyance.—Effective on the date of the enactment of this Act \[Aug. 8, 2005\], there is conveyed to theCity of Taft, California (in this section referred to as the ‘City’), all surface right, title, and interest of the United States in and to a parcel of real property consisting of approximately 220 acres located in the NE1/4, the NE1/4 of the NW1/4, and the N1/2 of the SE1/4 of the NW1/4 of section 18, township 32 south, range 24 east, Mount Diablo meridian, Kern County, California.
 
 “(b)
 
@@ -196,7 +196,7 @@ Administration Pending Termination of Operations.—The Secretary of Energy shal
 
 “(b)
 
-Disposal Authorized.—After oil and gas operations are abandoned in Naval Petroleum Reserve Numbered 3, the Secretary of Energy may dispose of the reserve as provided in this subsection. Subject to section 3406, the Secretary shall carry out any such disposal of the reserve by sale or lease or by transfer to another Federal agency. Any sale or lease shall provide for the disposal of all right, title, and interest of the United States in the property to be conveyed and shall be conducted in accordance with competitive procedures consistent with commercial practices, as established by the Secretary.
+Disposal Authorized.—After oil and gas operations are abandoned in Naval Petroleum Reserve Numbered 3, the Secretary of Energy may dispose of the reserve as provided in this subsection. Subject to section 3406, the Secretary shall carry out any such disposal of the reserve by sale or lease or by transfer toanother Federal agency. Any sale or lease shall provide for the disposal of all right, title, and interest of the United States in the property to be conveyed and shall be conducted in accordance with competitive procedures consistent with commercial practices, as established by the Secretary.
 
 “(c)
 
@@ -248,7 +248,7 @@ Conditions on Conveyance.—(1) The conveyance under subsection (b) is subject t
 
 &emsp;“(A) the land shall not be subject to any Federal restriction on alienation; and
 
-&emsp;“(B) notwithstanding any provision to the contrary in the constitution, bylaws, or charter of the Tribe,the Act of May 11, 1938 (commonly known as the ‘Indian Mineral Leasing Act of 1938’) (25 U.S.C. 396a et seq.), the Indian Mineral Development Act of 1982 (25 U.S.C. 2101 et seq.), section 2103 of the Revised Statutes (25 U.S.C. 81), or section 2116 of the Revised Statutes (25 U.S.C. 177), or any other law, no purchase, grant, lease, or other conveyance of the land (or any interest in the land), and no exploration, development, or other agreement relating to the land that is authorized by resolution by the governing body of the Tribe, shall require approval by the Secretary of the Interior or any other Federal official.
+&emsp;“(B) notwithstanding any provision to the contrary in the constitution, bylaws, or charter of the Tribe, the Act of May 11, 1938 (commonly known as the ‘Indian Mineral Leasing Act of 1938’) (25 U.S.C. 396a et seq.), the Indian Mineral Development Act of 1982 (25 U.S.C. 2101 et seq.), section 2103 of the Revised Statutes (25 U.S.C. 81), or section 2116 of the Revised Statutes (25 U.S.C. 177), or any other law, no purchase, grant, lease, or other conveyance of the land (or any interest in the land), and no exploration, development, or other agreement relating to the land that is authorized by resolution by the governing body of the Tribe, shall require approval by the Secretary of the Interior or any other Federal official.
 
 “(4) The reservation of the easement under subsection (b)(2)(C) shall not affect the right of the Tribe to use and maintain access to the Green River through the use of the road within the easement, as depicted on the map.
 
@@ -314,7 +314,7 @@ Remedial Action at Moab Site.—(1)(A) The Secretary of Energy shall prepare a p
 
 “(B) The remediation plan required by subparagraph (A) shall be completed not later than one year after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[Oct. 30, 2000\], and the Secretary of Energy shall commence remedial action at the Moab site as soon as practicable after the completion of the plan.
 
-“(C) The license for the materials at the Moab site issued by the Nuclear Regulatory Commission shall terminate one year after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, unless the Secretary of Energy determines that the license may be terminated earlier. Until the license is terminated, the Trustee, subject to the availability of funds appropriated specifically for apurpose described in clauses (i) through (iii) or made available by the Trustee from the Moab Mill Reclamation Trust, may carry out—
+“(C) The license for the materials at the Moab site issued by the Nuclear Regulatory Commission shall terminate one year after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, unless the Secretary of Energy determines that the license may be terminated earlier. Until the license is terminated, the Trustee, subject to the availability of funds appropriated specifically for a purpose described in clauses (i) through (iii) or made available by the Trustee from the Moab Mill Reclamation Trust, may carry out—
 
 &emsp;“(i) interim measures to reduce or eliminate localized high ammonia concentrations in the Colorado River, identified by the United States Geological Survey in a report dated March 27, 2000;
 
@@ -360,7 +360,7 @@ Deposit of Receipts.—Notwithstanding any other law, all monies received by the
 
 “(c)
 
-Treatment of Royalties.—Any petroleum accruing to the United States as royalty from any lease of lands transferred under this title shall be delivered to the United States, or shall be paid for in money, as the Secretary of the Interior may elect.
+Treatment of Royalties.—Any petroleum accruing to the United States as royalty from any leaseof lands transferred under this title shall be delivered to the United States, or shall be paid for in money, as the Secretary of the Interior may elect.
 
 “(d)
 
@@ -468,13 +468,13 @@ Oversight.—The Comptroller General shall monitor the actions of the Secretary 
 
 “(k)
 
-Acquisition of Services.—The Secretary may enter into contracts for the acquisition of services required under this section under the authority of paragraph (7) of section 303(c) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)), except that the notification required under subparagraph (B) of such paragraph for each contract shall be submitted to Congress not less than 7 days before the award of the contract.
+Acquisition of Services.—The Secretary may enter into contracts for the acquisition of services required under this section under the authority of paragraph (7) of section 303(c) of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C. 253(c)) \[see 41 U.S.C. 3304(a)(7)\], except that the notification required under subparagraph (B) of such paragraph \[now 41 U.S.C. 3304(a)(7)(B)\] for each contract shall be submitted to Congress not less than 7 days before the award of the contract.
 
 #### “SEC. 3413. EFFECT OF SALE OF RESERVE.
 
 “(a)
 
-Effect on Existing Contracts.—(1) In the case of any contract, in effect on the effective date, for the purchase of production from any part of the United States’ share of Naval Petroleum Reserve Numbered 1, the sale of the interest of the United States in the reserve shall be subject to the contract for a period ofthree months after the closing date of the sale or until termination of the contract, whichever occurs first. The term of any contract entered into after the effective date for the purchase of the production shall not exceed the anticipated closing date for the sale of the reserve.
+Effect on Existing Contracts.—(1) In the case of any contract, in effect on the effective date, for the purchase of production from any part of the United States’ share of Naval Petroleum Reserve Numbered 1, the sale of the interest of the United States in the reserve shall be subject to the contract for a period of three months after the closing date of the sale or until termination of the contract, whichever occurs first. The term of any contract entered into after the effective date for the purchase of the production shall not exceed the anticipated closing date for the sale of the reserve.
 
 “(2) The Secretary shall exercise the termination procedures provided in the contract between the United States and Bechtel Petroleum Operation, Inc., Contract Number DE–ACO1–85FE60520 so that the contract terminates not later than the date of closing of the sale of Naval Petroleum Reserve Numbered 1 under section 3412.
 
@@ -520,7 +520,7 @@ Effect of Reconsideration Notice.—After the Secretary submits a notification u
 
 “(a)
 
-Reservation of Funds.—After the costs incurred in the conduct of the sale of Naval Petroleum Reserve Numbered 1 under section 3412 are deducted, nine percent of the remaining proceeds from the sale of the reserve shall be reserved in a contingent fund in the Treasury for payment to the State of California for the Teachers’ Retirement Fund of the State in the event that, and to the extent that, the claims of the State against the United States regarding production and proceeds of sale from Naval Petroleum Reserve Numbered 1 are—
+Reservation of Funds.—After the costs incurred in the conduct of the sale of Naval Petroleum Reserve Numbered 1 under section 3412 are deducted, nine percent of the remaining proceeds from the sale of the reserve shall be reserved in a contingent fund in the Treasury for payment to the State of California for the Teachers’ Retirement Fund of the State in the eventthat, and to the extent that, the claims of the State against the United States regarding production and proceeds of sale from Naval Petroleum Reserve Numbered 1 are—
 
 &emsp;“(1) settled by agreement with the United States under subsection (c); or
 

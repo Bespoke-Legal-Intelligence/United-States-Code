@@ -116,11 +116,11 @@ In subsection (a), the words “Subject to section 8202(a) of this title” are 
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–190 substituted “section 526” for “section 8202(a)”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–190 substituted “section 526” for “section 8202(a)”.
 
-1980—Subsecs. (a), (c). Pub. L. 96–513 substituted “active-duty list” for “active list” wherever appearing.
+<b>1980</b>—Subsecs. (a), (c). Pub. L. 96–513 substituted “active-duty list” for “active list” wherever appearing.
 
-1958—Subsec. (a). Pub. L. 85–861 inserted “Subject to section 8202(a) of this title,” before “the”, and struck out provisions which excluded the number of commissioned officers on the active list authorized by former subsec. (b) of this section and medical service officers.
+<b>1958</b>—Subsec. (a). Pub. L. 85–861 inserted “Subject to section 8202(a) of this title,” before “the”, and struck out provisions which excluded the number of commissioned officers on the active list authorized by former subsec. (b) of this section and medical service officers.
 
 Subsec. (b). Pub. L. 85–861 redesignated subsec. (d) as (b), and struck out former subsec. (b) which prescribed the authorized strength of general officers as medical, dental, and veterinary officers, and as chaplains.
 

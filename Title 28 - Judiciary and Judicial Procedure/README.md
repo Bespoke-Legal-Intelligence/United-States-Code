@@ -1,5 +1,5 @@
 
-28 U.S.C.<br>United States Code, 2009 Edition<br>Title 28 - JUDICIARY AND JUDICIAL PROCEDURE<br>From the U.S. Government Publishing Office, www.gpo.gov
+28 U.S.C.<br>United States Code, 2010 Edition<br>Title 28 - JUDICIARY AND JUDICIAL PROCEDURE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 28—JUDICIARY AND JUDICIAL PROCEDURE
 
@@ -18,7 +18,7 @@
 
 #### Amendments
 
-1966—Pub. L. 89–554, §4(a), Sept. 6, 1966, 80 Stat. 611, substituted “Department of Justice” for “United States Attorneys and Marshals” in item for part II.
+<b>1966</b>—Pub. L. 89–554, §4(a), Sept. 6, 1966, 80 Stat. 611, substituted “Department of Justice” for “United States Attorneys and Marshals” in item for part II.
 
 Table Showing Disposition of All Sections of Former Title 28
 
@@ -2428,7 +2428,7 @@ Rep. See Civ. Proc. R. 40.
 
 771
 
-Adm. R. 461/2 <sup>2</sup>
+Adm. R. 46½ <sup>2</sup>
 
 772
 

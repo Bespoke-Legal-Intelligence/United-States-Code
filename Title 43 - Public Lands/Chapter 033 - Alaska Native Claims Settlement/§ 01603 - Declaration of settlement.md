@@ -10,7 +10,7 @@ All aboriginal titles, if any, and claims of aboriginal title in Alaska based on
 
 #### (c) Aboriginal claim extinguishment where based on right, title, use, or occupancy of land or water areas; domestic statute or treaty relating to use and occupancy; or foreign laws; pending claims
 
-All claims against the United States, the State, and all other persons that are based on claims of aboriginal right, title, use, or occupancy of land or water areas in Alaska, or that are based on any statute or treaty of the United States relating to Native use and occupancy, orthat are based on the laws of any other nation, including any such claims that are pending before any Federal or state court or the Indian Claims Commission, are hereby extinguished.
+All claims against the United States, the State, and all other persons that are based on claims of aboriginal right, title, use, or occupancy of land or water areas in Alaska, or that are based on any statute or treaty of the United States relating to Native use and occupancy, or that are based on the laws of any other nation, including any such claims that are pending before any Federal or state court or the Indian Claims Commission, are hereby extinguished.
 
 (Pub. L. 92–203, §4, Dec. 18, 1971, 85 Stat. 689.)
 

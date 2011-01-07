@@ -20,9 +20,9 @@ This chapter, referred to in subsecs. (a) and (c), was in the original “this A
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–411 inserted “applicants for employment, and of” after “records of”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–411 inserted “applicants for employment, and of” after “records of”.
 
-1998—Subsec. (a). Pub. L. 105–276, §595(e)(10)(A), substituted “subsection (b) of this section” for “paragraph (2)”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–276, §595(e)(10)(A), substituted “subsection (b) of this section” for “paragraph (2)”.
 
 Subsec. (b). Pub. L. 105–276, §595(e)(10)(B), substituted “subsection (a) of this section” for “paragraph (1)”.
 

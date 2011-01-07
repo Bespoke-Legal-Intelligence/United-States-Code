@@ -10,7 +10,7 @@ Another section 4316 was renumbered section 4317 of this title.
 
 #### Amendments
 
-1996—Pub. L. 104–106 struck out “, including fees charged and amounts collected pursuant to subsections (b) and (c) of section 4308,” after “under this chapter”.
+<b>1996</b>—Pub. L. 104–106 struck out “, including fees charged and amounts collected pursuant to subsections (b) and (c) of section 4308,” after “under this chapter”.
 
 #### Effective Date of 1996 Amendment
 

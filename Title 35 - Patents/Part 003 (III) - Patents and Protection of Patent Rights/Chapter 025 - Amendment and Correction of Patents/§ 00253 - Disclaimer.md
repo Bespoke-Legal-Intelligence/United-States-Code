@@ -18,7 +18,7 @@ The second paragraph is new and provides for the disclaiming or dedication of an
 
 #### Amendments
 
-1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
 #### Effective Date of 1975 Amendment
 

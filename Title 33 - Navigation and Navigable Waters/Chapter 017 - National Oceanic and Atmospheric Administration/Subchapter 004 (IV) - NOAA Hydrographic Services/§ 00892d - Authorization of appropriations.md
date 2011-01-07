@@ -62,9 +62,9 @@ This subchapter, referred to in pars. (4) and (5), was in the original “this t
 
 #### Amendments
 
-2008—Pub. L. 110–386 amended section generally. Prior to amendment, section authorized appropriations for fiscal years 2003 through 2007.
+<b>2008</b>—Pub. L. 110–386 amended section generally. Prior to amendment, section authorized appropriations for fiscal years 2003 through 2007.
 
-2002—Pub. L. 107–372 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to the Administrator the following:
+<b>2002</b>—Pub. L. 107–372 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to the Administrator the following:
 
 &emsp;“(1) To carry out nautical mapping and charting functions under the Act of 1947 and sections 892a and 892b of this title, except for conducting hydrographic surveys, $33,000,000 for fiscal year 1999, $34,000,000 for fiscal year 2000, and $35,000,000 for fiscal year 2001.
 
@@ -74,7 +74,7 @@ This subchapter, referred to in pars. (4) and (5), was in the original “this t
 
 &emsp;“(4) To carry out tide and current measurement functions under the Act of 1947, $22,500,000 for each of fiscal years 1999 through 2001. Of these amounts $4,500,000 is authorized for each fiscal year to implement and operate a national quality control system for real-time tide and current and maintain the national tide network, and $7,000,000 is authorized for each fiscal year to design and install real-time tide and current data measurement systems under section 892a(b)(4) of this title.”
 
-1998—Pub. L. 105–383 amended section generally, substituting present provisions for substantially identical provisions.
+<b>1998</b>—Pub. L. 105–383 amended section generally, substituting present provisions for substantially identical provisions.
 
 #### Effective Date of 1998 Amendment
 

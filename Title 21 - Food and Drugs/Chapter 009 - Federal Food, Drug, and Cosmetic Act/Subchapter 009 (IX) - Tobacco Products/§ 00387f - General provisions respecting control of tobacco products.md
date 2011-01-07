@@ -44,7 +44,7 @@ Any information reported to or otherwise obtained by the Secretary or the Secret
 
 #### (B) Matchbooks
 
-&emsp;&emsp;For purposes of any regulations issued by the Secretary, matchbooks of conventional size containing not more than 20 paper matches, and which are customarily given away for free with the purchase of tobacco products, shall be considered as adult-written publications which shall be permitted to contain advertising. Notwithstanding the preceding sentence, if the Secretary finds that such treatment of matchbooks is not appropriate for the protection of the public health, the Secretary may determine by regulation that matchbooks shall not be considered adult-written publications.
+&emsp;&emsp;For purposes of any regulations issued by the Secretary, matchbooks of conventional size containing not more than 20 papermatches, and which are customarily given away for free with the purchase of tobacco products, shall be considered as adult-written publications which shall be permitted to contain advertising. Notwithstanding the preceding sentence, if the Secretary finds that such treatment of matchbooks is not appropriate for the protection of the public health, the Secretary may determine by regulation that matchbooks shall not be considered adult-written publications.
 
 #### (4) Remote sales
 

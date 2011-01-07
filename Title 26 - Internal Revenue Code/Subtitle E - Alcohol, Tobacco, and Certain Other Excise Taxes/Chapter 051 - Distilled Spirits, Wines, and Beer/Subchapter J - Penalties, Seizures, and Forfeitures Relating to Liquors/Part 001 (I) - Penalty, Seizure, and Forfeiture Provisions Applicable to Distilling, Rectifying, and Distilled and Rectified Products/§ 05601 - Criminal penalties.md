@@ -22,7 +22,7 @@ Any person who—
 
 #### (5) False, forged, or fraudulent bond
 
-&emsp;engages, or intends to engage, in the business of distiller, warehouseman, or processor of distilled spirits, and gives any false, forged, or fraudulent bond, under subchapter B; or
+&emsp;engages, or intends to engage, in the business of distiller, warehouseman, or processorof distilled spirits, and gives any false, forged, or fraudulent bond, under subchapter B; or
 
 #### (6) Distilling on prohibited premises
 
@@ -76,7 +76,7 @@ Any person who—
 
 #### (b) Presumptions
 
-Whenever on trial for violation of subsection (a)(4) the defendant is shown to have been at thesite or place where, and at the time when, the business of a distiller or processor was so engaged in or carried on, such presence of the defendant shall be deemed sufficient evidence to authorize conviction, unless the defendant explains such presence to the satisfaction of the jury (or of the court when tried without jury).
+Whenever on trial for violation of subsection (a)(4) the defendant is shown to have been at the site or place where, and at the time when, the business of a distiller or processor was so engaged in or carried on, such presence of the defendant shall be deemed sufficient evidence to authorize conviction, unless the defendant explains such presence to the satisfaction of the jury (or of the court when tried without jury).
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1398; amended Pub. L. 94–455, title XIX, §§1905(a)(22), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1820, 1834; Pub. L. 96–39, title VIII, §807(a)(52), July 26, 1979, 93 Stat. 288; Pub. L. 96–223, title II, §232(e)(2)(A), Apr. 2, 1980, 94 Stat. 280.)
 
@@ -108,9 +108,9 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 627, 64
 
 #### Amendments
 
-1980—Subsec. (a)(15). Pub. L. 96–223 added par. (15).
+<b>1980</b>—Subsec. (a)(15). Pub. L. 96–223 added par. (15).
 
-1979—Subsec. (a)(2). Pub. L. 96–39, §807(a)(52)(A), struck out “distiller or rectifier” in heading and substituted “processor” for “rectifier” and “section 5171(c)” for “section 5171(a)” in text.
+<b>1979</b>—Subsec. (a)(2). Pub. L. 96–39, §807(a)(52)(A), struck out “distiller or rectifier” in heading and substituted “processor” for “rectifier” and “section 5171(c)” for “section 5171(a)” in text.
 
 Subsec. (a)(3). Pub. L. 96–39, §807(a)(52)(B), substituted “warehouseman, or processor” for “bonded warehouseman, rectifier, or bottler”.
 
@@ -124,7 +124,7 @@ Subsec. (a)(11). Pub. L. 96–39, §807(a)(52)(E), substituted “or processing�
 
 Subsec. (b). Pub. L. 96–39, §807(a)(52)(F), substituted “processor” for “rectifier”.
 
-1976—Subsec. (a)(7). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a)(7). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (b). Pub. L. 94–455, §1905(a)(22), struck out par. (1) relating to presumptions in the matter of unregistered stills, par. (3) relating to presumptions in the matter of unlawful production, removal, or use of material fit for production of distilled spirits, and par. (4) relating to presumptions in the matter of unlawful production of distilled spirits, and struck out the number designation “(2)” and heading for former par. (2), leaving only the text for former par. (2) relating to presumptions in the matter of failure or refusal of distiller or rectifier to give bond.
 

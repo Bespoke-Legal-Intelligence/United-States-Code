@@ -6,5 +6,5 @@ Without prejudice to any other cause of disability, the permanent loss of the us
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 714 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 714 of this title as this section.
 

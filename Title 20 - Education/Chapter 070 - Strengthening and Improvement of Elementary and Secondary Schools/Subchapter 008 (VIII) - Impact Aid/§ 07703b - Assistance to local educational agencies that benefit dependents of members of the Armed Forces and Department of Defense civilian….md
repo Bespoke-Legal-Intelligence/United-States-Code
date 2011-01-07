@@ -48,7 +48,7 @@
 
 #### (B) Per-student rate
 
-&emsp;&emsp;For purposes of subparagraph (A)(i), the per-student rate for a fiscal year shall be equal to the dollar amount obtained by dividing—
+&emsp;&emsp;For purposes of subparagraph (A)(i), the per-student rate for a fiscal year shall beequal to the dollar amount obtained by dividing—
 
 &emsp;&emsp;&emsp;(i) the total amount of funds made available for that fiscal year to provide assistance under this subsection; by
 
@@ -114,7 +114,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-2009—Subsec. (b)(4). Pub. L. 111–84 substituted “September 30, 2012” for “September 30, 2010”.
+<b>2009</b>—Subsec. (b)(4). Pub. L. 111–84 substituted “September 30, 2012” for “September 30, 2010”.
 
 #### Plan and Authority To Assist Local Educational Agencies Experiencing Growth in Enrollment Due to Force Structure Changes, Relocation of Military Units, or Base Closures and Realignments
 

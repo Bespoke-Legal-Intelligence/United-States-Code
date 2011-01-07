@@ -146,15 +146,15 @@ In subsections (c) and (d), the words “other armed forces” are substituted f
 
 In subsection (d), the words “other than subsistence supplies” are inserted, since the sale of subsistence supplies is covered by subsection (c).
 
-In subsection (e), the words “a person who has been discharged” are substituted for the words “discharged officers and enlisted men”. The words “Navy or Marine Corps”, omitted from the 1952 Edition of the United States Code, are inserted to conform to the source statute. The words “may buy” are substituted for the words “shall be permitted to purchase”. The words “at the prices at which like property is sold” are substituted for the words “at the same price as charged”. The word “member” is substituted for the words “officers and enlisted men”. The words “while undergoing such care and treatment” are omitted as surplusage.
+In subsection (e), the words “a person who has been discharged” are substituted for the words “discharged officers and enlisted men”. The words “Navy \* \* \* or Marine Corps”, omitted from the 1952 Edition of the United States Code, are inserted to conform to the source statute. The words “may buy” are substituted for the words “shall \* \* \* be permitted to purchase”. The words “at the prices at which like property is sold” are substituted for the words “at the same price as charged”. The word “member” is substituted for the words “officers and enlisted men”. The words “while undergoing such care and treatment” are omitted as surplusage.
 
-In subsection (f), the words “person who has been discharged” are substituted for the words “former members who have been separated therefrom”. The words “at the prices at which like articles are sold to members” are inserted to conform to the last sentence of subsection (a) and subsection (e).
+In subsection (f), the words “person who has been discharged” are substituted for the words “former members \* \* \* who have been separated therefrom”. The words “at the prices at which like articles are sold to members” are inserted to conform to the last sentence of subsection (a) and subsection (e).
 
 In subsection (g), the words “regulations to be prescribed by the Secretary” are substituted for the words “Army Regulations”. The words “of the Government” are omitted as surplusage. 10:1253 (last 22 words of 1st sentence) is omitted as surplusage. The words “or to another executive department of the Government” are omitted as superseded by section 7 of the Act of May 21, 1920, ch. 194, as amended (31 U.S.C. 686). The provisions of 10:1253 relating to computation of costs are omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
 
 In subsection (h), the word “outside” is substituted for the words “beyond the continental limitations”. The words “or in Alaska” are omitted, since, under section 101(1) of this title, the words “United States” are defined to include only the States and the District of Columbia. The word “continental”, after the words “within the”, is omitted for the same reason. The last sentence is substituted for 10:1241 (proviso).
 
-In subsection (i), 10:1196 (last 30 words) is omitted as superseded by the Act of April 27, 1914, ch. 72 (last proviso under “Subsistence of the Army”), 38 Stat. 361. The words “So much of the” and “as may be necessary” are omitted as surplusage. The words “members on active duty, for the use of themselves and their families” are substituted for the words “officers for the use of themselves and their families, and to commanders of companies or other organizations, for the use of the enlisted men of their companies or organizations”, to conform to 10:1237 and 1238. Those sections provide the basic authority for procurement and sale of subsistence supplies to all members. This interpretation conforms to established administrative practice under those sections. The word “supplies” is substituted for the word “stores”.
+In subsection (i), 10:1196 (last 30 words) is omitted as superseded by the Act of April 27, 1914, ch. 72 (last proviso under “Subsistence of the Army”), 38 Stat. 361. The words “So much of the” and “as may be necessary” are omitted as surplusage. The words “members \* \* \* on active duty, for the use of themselves and their families” are substituted for the words “officers for the use of themselves and their families, and to commanders of companies or other organizations, for the use of the enlisted men of their companies or organizations”, to conform to 10:1237 and 1238. Those sections provide the basic authority for procurement and sale of subsistence supplies to all members. This interpretation conforms to established administrative practice under those sections. The word “supplies” is substituted for the word “stores”.
 
 #### 1962 Act
 
@@ -162,19 +162,19 @@ The change corrects an internal reference.
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–106, §375(b)(1)(A), substituted “The Secretary of the Army” for “The branch, office, or officer designated by the Secretary of the Army”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106, §375(b)(1)(A), substituted “The Secretary of the Army” for “The branch, office, or officer designated by the Secretary of the Army”.
 
 Subsecs. (b), (c). Pub. L. 104–106, §375(b)(1)(B), substituted “The Secretary” for “The branch, office, or officer designated by the Secretary”.
 
 Subsec. (f). Pub. L. 104–106, §375(b)(1)(C), inserted “or by commercial credit” before period at end.
 
-1989—Subsec. (d). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1989</b>—Subsec. (d). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1987—Subsecs. (b) to (i). Pub. L. 100–180 redesignated subsecs. (c) to (i) as subsecs. (b) to (h), respectively, and struck out former subsec. (b) which read as follows: “Subsistence supplies may be sold to members of the Army. The selling price of each article sold under this subsection is the invoice price of the last lot of that article that the officer making the sale received before the first day of the month in which the sale is made. Activities conducted under this subsection shall be consistent with section 2208 of this title.”
+<b>1987</b>—Subsecs. (b) to (i). Pub. L. 100–180 redesignated subsecs. (c) to (i) as subsecs. (b) to (h), respectively, and struck out former subsec. (b) which read as follows: “Subsistence supplies may be sold to members of the Army. The selling price of each article sold under this subsection is the invoice price of the last lot of that article that the officer making the sale received before the first day of the month in which the sale is made. Activities conducted under this subsection shall be consistent with section 2208 of this title.”
 
-1980—Subsec. (f). Pub. L. 96–513 struck out reference to section 3612 of this title.
+<b>1980</b>—Subsec. (f). Pub. L. 96–513 struck out reference to section 3612 of this title.
 
-1962—Subsecs. (a), (b). Pub. L. 87–651 substituted “section 2208 of this title” for “sections 172–172j of title 5”.
+<b>1962</b>—Subsecs. (a), (b). Pub. L. 87–651 substituted “section 2208 of this title” for “sections 172–172j of title 5”.
 
 #### Effective Date of 1980 Amendment
 
@@ -186,5 +186,5 @@ For transfer of functions of Public Health Service, see note set out under secti
 
 #### Prices Charged Personnel of Civilian Agencies in Germany
 
-Act June 20, 1956, ch. 414, title I, §101, 70 Stat. 300, provided in part: “When the Department of the Army, under the authority of the Act of March 3, 1911, as amended, furnishes subsistence supplies to personnel of civilian agencies of the United States Government serving in Germany, payment therefor by such personnel shall be made at the same rate as is paid by civilian personnel of the Department of the Army serving in Germany.” Similar provisions were contained in acts Oct. 6, 1949, ch. 621, title I, §101, 63 Stat. 713; Sept. 6, 1950, ch. 896, ch. XI, title III, §301, 64 Stat. 763; Nov. 1, 1951, ch. 664, ch. IX, §901, 65 Stat. 750; July 15, 1952, ch. 758, ch. XI, title II, 66 Stat. 652; Aug. 7, 1953, ch. 340, ch. X, 67 Stat. 433; Aug. 26, 1954, ch. 935, ch. XI, 68 Stat. 823; July 7, 1955, ch. 279, title I, §101, 69 Stat. 269.
+Act June 20, 1956, ch. 414, title I, §101, 70 Stat. 300, provided in part: “When the Department of the Army, under the authority of the Act of March 3, 1911, as amended, furnishes subsistence supplies to personnel of civilian agencies of the United States Government serving in Germany, payment therefor by such personnel shall be made at the same rate as is paid by civilian personnel of the Department of the Army serving in Germany.” Similar provisions were contained in acts Oct. 6, 1949, ch. 621, title I, §101, 63 Stat. 713; Sept. 6, 1950, ch. 896, ch. XI, title III, §301, 64 Stat. 763; Nov. 1, 1951, ch. 664, ch. IX, §901, 65 Stat. 750; July 15, 1952, ch.758, ch. XI, title II, 66 Stat. 652; Aug. 7, 1953, ch. 340, ch. X, 67 Stat. 433; Aug. 26, 1954, ch. 935, ch. XI, 68 Stat. 823; July 7, 1955, ch. 279, title I, §101, 69 Stat. 269.
 

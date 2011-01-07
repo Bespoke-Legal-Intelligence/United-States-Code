@@ -12,7 +12,7 @@ The Secretary of the Treasury and the Commission shall jointly prescribe regulat
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–314, §204(b)(4)(B), substituted “Commission” for “Secretary”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–314, §204(b)(4)(B), substituted “Commission” for “Secretary”.
 
 Subsec. (b). Pub. L. 110–314, §204(b)(4)(E), substituted “Commission” for “Secretary of Health, Education, and Welfare” in two places.
 

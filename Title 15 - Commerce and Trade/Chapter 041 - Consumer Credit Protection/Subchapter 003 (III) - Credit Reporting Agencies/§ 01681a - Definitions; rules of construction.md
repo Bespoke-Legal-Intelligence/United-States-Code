@@ -12,7 +12,7 @@ Consumer Report.—
 
 &emsp;(1)
 
-In general.—The term “consumer report” means any written, oral, or other communication of any information by a consumer reporting agency bearing on a consumer's credit worthiness,<sup>1</sup> credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living which is used or expected to be used or collected in whole or in part for the purpose of serving as a factor in establishing the consumer's eligibility for—
+In general.—The term “consumer report” means any written, oral, or other communication of any information by a consumer reporting agency bearing on a consumer's credit worthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living which is used or expected to be used or collected in whole or in part for the purpose of serving as a factor in establishing the consumer's eligibility for—
 
 &emsp;&emsp;(A) credit or insurance to be used primarily for personal, family, or household purposes;
 
@@ -50,7 +50,7 @@ Restriction on sharing of medical information.—Except for information or any c
 
 (e) The term “investigative consumer report” means a consumer report or portion thereof in which information on a consumer's character, general reputation, personal characteristics, or mode of living is obtained through personal interviews with neighbors, friends, or associates of the consumer reported on or with others with whom he is acquainted or who may have knowledge concerning any such items of information. However, such information shall not include specific factual information on a consumer's credit record obtained directly from a creditor of the consumer or from a consumer reporting agency when such information was obtained directly from a creditor of the consumer or from the consumer.
 
-(f) The term “consumer reporting agency” means any person which, for monetary fees,dues, or on a cooperative nonprofit basis, regularly engages in whole or in part in the practice of assembling or evaluating consumer credit information or other information on consumers for the purpose of furnishing consumer reports to third parties, and which uses any means or facility of interstate commerce for the purpose of preparing or furnishing consumer reports.
+(f) The term “consumer reporting agency” means any person which, for monetary fees, dues, or on a cooperative nonprofit basis, regularly engages in whole or in part in the practice of assembling or evaluating consumer credit information or other information on consumers for the purpose of furnishing consumer reports to third parties, and which uses any means or facility of interstate commerce for the purpose of preparing or furnishing consumer reports.
 
 (g) The term “file”, when used in connection with information on any consumer, means all of the information on that consumer recorded and retained by a consumer reporting agency regardless of how the information is stored.
 
@@ -66,7 +66,7 @@ Medical Information.—The term “medical information”—
 
 &emsp;&emsp;(B) the provision of health care to an individual; or
 
-&emsp;&emsp;(C) the payment for the provision of health care to an individual.<sup>2</sup>
+&emsp;&emsp;(C) the payment for the provision of health care to an individual.<sup>1</sup>
 
 &emsp;(2) does not include the age or gender of a consumer, demographic information about the consumer, including a consumer's residence address or e-mail address, or any other information about a consumer that does not relate to the physical, mental, or behavioral health or condition of a consumer, including the existence or value of any insurance policy.
 
@@ -114,7 +114,7 @@ Applicable findings, decisions, commentary, and orders.—For purposes of any de
 
 Firm Offer of Credit or Insurance.—The term “firm offer of credit or insurance” means any offer of credit or insurance to a consumer that will be honored if the consumer is determined, based on information in a consumer report on the consumer, to meet the specific criteria used to select the consumer for the offer, except that the offer may be further conditioned on one or more of the following:
 
-&emsp;(1) The consumer being determined, based on information in the consumer's application for the credit or insurance, to meet specific criteria bearing on credit worthiness <sup>3</sup> or insurability, as applicable, that are established—
+&emsp;(1) The consumer being determined, based on information in the consumer's application for the credit or insurance, to meet specific criteria bearing on credit worthiness or insurability, as applicable, that are established—
 
 &emsp;&emsp;(A) before selection of the consumer for the offer; and
 
@@ -122,9 +122,9 @@ Firm Offer of Credit or Insurance.—The term “firm offer of credit or insuran
 
 &emsp;(2) Verification—
 
-&emsp;&emsp;(A) that the consumer continues to meet the specific criteria used to select the consumer for the offer, by using information in a consumer report on the consumer, information in the consumer's application for the credit or insurance, or other information bearing on the credit worthiness <sup>3</sup> or insurability of the consumer; or
+&emsp;&emsp;(A) that the consumer continues to meet the specific criteria used to select the consumer for the offer, by using information in a consumer report on the consumer, information in the consumer's application for the credit or insurance, or other information bearing on the credit worthiness or insurability of the consumer; or
 
-&emsp;&emsp;(B) of the information in the consumer's application for the credit or insurance, to determine that the consumer meets the specific criteria bearing on credit worthiness <sup>3</sup> or insurability.
+&emsp;&emsp;(B) of the information in the consumer's application for the credit or insurance, to determine that the consumer meets the specific criteria bearing on credit worthiness or insurability.
 
 &emsp;(3) The consumer furnishing any collateral that is a requirement for the extension of the credit or insurance that was—
 
@@ -134,7 +134,7 @@ Firm Offer of Credit or Insurance.—The term “firm offer of credit or insuran
 
 (m)
 
-Credit or Insurance Transaction That Is Not Initiated by the Consumer.—The term “credit or insurance transaction that is not initiated by the consumer” does not include theuse of a consumer report by a person with which the consumer has an account or insurance policy, for purposes of—
+Credit or Insurance Transaction That Is Not Initiated by the Consumer.—The term “credit or insurance transaction that is not initiated by the consumer” does not include the use of a consumer report by a person with which the consumer has an account or insurance policy, for purposes of—
 
 &emsp;(1) reviewing the account or insurance policy; or
 
@@ -180,7 +180,7 @@ Excluded Communications.—A communication is described in this subsection if it
 
 (p)
 
-Consumer Reporting Agency That Compiles and Maintains Files on Consumers on a Nationwide Basis.—The term “consumer reporting agency that compiles and maintains files on consumers on a nationwide basis” means a consumer reporting agency that regularly engages in the practice of assembling or evaluating, and maintaining, for the purpose of furnishing consumer reports to third parties bearing on a consumer's credit worthiness,<sup>4</sup> credit standing, or credit capacity, each of the following regarding consumers residing nationwide:
+Consumer Reporting Agency That Compiles and Maintains Files on Consumers on a Nationwide Basis.—The term “consumer reporting agency that compiles and maintains files on consumers on a nationwide basis” means a consumer reporting agency that regularly engages in the practice of assembling or evaluating, and maintaining, for the purpose of furnishing consumer reports to third parties bearing on a consumer's credit worthiness, credit standing, or credit capacity, each of the following regarding consumers residing nationwide:
 
 &emsp;(1) Public record information.
 
@@ -302,7 +302,7 @@ Communications described in this subsection.—A communication is described in t
 
 &emsp;&emsp;&emsp;(ii) compliance with Federal, State, or local laws and regulations, the rules of a self-regulatory organization, or any preexisting written policies of the employer;
 
-&emsp;&emsp;(C) the communication is not made for the purpose of investigating a consumer's credit worthiness,<sup>5</sup> credit standing, or credit capacity; and
+&emsp;&emsp;(C) the communication is not made for the purpose of investigating a consumer's credit worthiness, credit standing, or credit capacity; and
 
 &emsp;&emsp;(D) the communication is not provided to any person except—
 
@@ -324,7 +324,25 @@ Subsequent disclosure.—After taking any adverse action based in whole or in pa
 
 Self-regulatory organization defined.—For purposes of this subsection, the term “self-regulatory organization” includes any self-regulatory organization (as defined in section 78c(a)(26) of this title), any entity established under title I of the Sarbanes-Oxley Act of 2002 \[15 U.S.C. 7211 et seq.\], any board of trade designated by the Commodity Futures Trading Commission, and any futures association registered with such Commission.
 
-(Pub. L. 90–321, title VI, §603, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128; amended Pub. L. 102–537, §2(b), Oct. 27, 1992, 106 Stat. 3531; Pub. L. 104–208, div. A, title II, §2402, Sept. 30, 1996, 110 Stat. 3009–426; Pub. L. 105–347, §6(1)–(3), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title I, §111, title II, §214(c)(1), title IV, §411(b), (c), title VI, §611, Dec. 4, 2003, 117 Stat. 1954, 1983, 2001, 2010.)
+(Pub. L. 90–321, title VI, §603, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128; amended Pub. L. 102–537, §2(b), Oct. 27, 1992, 106 Stat. 3531; Pub. L. 104–208, div. A, title II, §2402, Sept. 30, 1996, 110 Stat. 3009–426; Pub. L. 105–347, §6(1)–(3), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title I, §111, title II, §214(c)(1), title IV, §411(b), (c), title VI, §611, Dec. 4, 2003, 117 Stat. 1954, 1983, 2001, 2010; Pub. L. 111–203, title X, §1088(a)(1), (2)(A), (C), (3), July 21, 2010, 124 Stat. 2086, 2087.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1088(a)(1), (2)(A), (C), (3), 1100H, July 21, 2010, 124 Stat. 2086, 2087, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
+
+<i>(1) by striking “Federal Trade Commission” each place that term appears and inserting “Bureau”;</i>
+
+<i>(2) by striking “the Commission” each place that term appears and inserting “the Bureau”;</i>
+
+<i>(3) in subsection (k)(2), by striking “Board of Governors of the Federal Reserve System” and inserting “Bureau”;</i>
+
+<i>(4) by redesignating subsections (w) and (x) as (x) and (y), respectively; and</i>
+
+<i>(5) by inserting after subsection (v) the following new subsection:</i>
+
+<i>“(w) The term ‘Bureau’ means the Bureau of Consumer Financial Protection.”</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -332,7 +350,7 @@ The Sarbanes-Oxley Act of 2002, referred to in subsec. (x)(3), is Pub. L. 107–
 
 #### Amendments
 
-2003—Subsec. (d)(2). Pub. L. 108–159, §411(b)(1), substituted “Except as provided in paragraph (3), the term” for “The term” in introductory provisions.
+<b>2003</b>—Subsec. (d)(2). Pub. L. 108–159, §411(b)(1), substituted “Except as provided in paragraph (3), the term” for “The term” in introductory provisions.
 
 Subsec. (d)(2)(A). Pub. L. 108–159, §214(c)(1), inserted “subject to section 1681s–3 of this title,” after “(A)” in introductory provisions.
 
@@ -346,13 +364,13 @@ Subsecs. (q) to (w). Pub. L. 108–159, §111, added subsecs. (q) to (w).
 
 Subsec. (x). Pub. L. 108–159, §611(a), added subsec. (x).
 
-1998—Subsec. (d)(2)(A)(iii). Pub. L. 105–347, §6(1), struck out “any” before “communication of other”.
+<b>1998</b>—Subsec. (d)(2)(A)(iii). Pub. L. 105–347, §6(1), struck out “any” before “communication of other”.
 
 Subsec. (<i>o</i>)(1). Pub. L. 105–347, §6(2), substituted “(d)(2)(D)” for “(d)(2)(E)”.
 
 Subsec. (<i>o</i>)(4). Pub. L. 105–347, §6(3), substituted “and” for “or” at end.
 
-1996—Subsec. (d). Pub. L. 104–208, §2402(e), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, redesignated cls. (1) to (3) as subpars. (A) to (C), respectively, added par. (2), and struck out at end “The term does not include (A) any report containing information solely as to transactions or experiences between the consumer and the person making the report; (B) any authorization or approval of a specific extension of credit directly or indirectly by the issuer of a credit card or similar device; or (C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his decision with respect to such request, if the third party advises the consumer of the name and address of the person to whom the request was made and such person makes the disclosures to the consumer required under section 1681m of this title.”
+<b>1996</b>—Subsec. (d). Pub. L. 104–208, §2402(e), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, redesignated cls. (1) to (3) as subpars. (A) to (C), respectively, added par. (2), and struck out at end “The term does not include (A) any report containing information solely as to transactions or experiences between the consumer and the person making the report; (B) any authorization or approval of a specific extension of credit directly or indirectly by the issuer of a credit card or similar device; or (C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his decision with respect to such request, if the third party advises the consumer of the name and address of the person to whom the request was made and such person makes the disclosures to the consumer required under section 1681m of this title.”
 
 Subsec. (k). Pub. L. 104–208, §2402(a), added subsec. (k).
 
@@ -366,7 +384,11 @@ Subsec. (<i>o</i>). Pub. L. 104–208, §2402(f), added subsec. (<i>o</i>).
 
 Subsec. (p). Pub. L. 104–208, §2402(g), added subsec. (p).
 
-1992—Subsec. (j). Pub. L. 102–537 added subsec. (j).
+<b>1992</b>—Subsec. (j). Pub. L. 102–537 added subsec. (j).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2003 Amendment
 
@@ -402,13 +424,5 @@ Section 2(d) of Pub. L. 102–537 provided that: “The amendments made by this 
 
 Section 2421 of div. A of Pub. L. 104–208 provided that: “Nothing in this chapter \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208, see Short Title of 1996 Amendment note set out under section 1601 of this title\] or the amendments made by this chapter shall be considered to supersede or otherwise affect section 2721 of title 18, United States Code, with respect to motor vehicle records for surveys, marketing, or solicitations.”
 
-<i><sup>1</sup></i><i> So in original. Probably should be “creditworthiness,”.</i>
-
-<i><sup>2</sup></i><i> So in original. The period probably should be “; and”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “creditworthiness”.</i>
-
-<i><sup>4</sup></i><i> So in original. Probably should be “creditworthiness,”.</i>
-
-<i><sup>5</sup></i><i> So in original. Probably should be “creditworthiness,”.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be “; and”.</i>
 

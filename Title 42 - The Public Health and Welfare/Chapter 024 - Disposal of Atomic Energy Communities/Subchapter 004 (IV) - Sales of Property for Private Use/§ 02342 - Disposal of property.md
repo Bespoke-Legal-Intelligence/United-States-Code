@@ -22,7 +22,7 @@ Such property shall be disposed of on such terms and conditions, consistent with
 
 #### Amendments
 
-1962—Subsec. (a). Pub. L. 87–719 added cl. (3).
+<b>1962</b>—Subsec. (a). Pub. L. 87–719 added cl. (3).
 
 #### Transfer of Functions
 

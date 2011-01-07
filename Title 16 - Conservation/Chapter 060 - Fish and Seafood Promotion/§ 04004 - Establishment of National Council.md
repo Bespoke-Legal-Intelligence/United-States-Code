@@ -34,7 +34,7 @@ The National Council shall be comprised of regional representation from the Nort
 
 #### (e) Term of office
 
-Members of the National Council shall be appointed for a term of 4 years. A vacancy in the National Council shall not affect its ability to function. The Secretary shall appoint a new member within sixty days to fill a vacancy in an unexpired term. Any member may remain on the National Council beyond that member's term until a successor is appointed.
+Members of the National Council shall be appointed for a term of 4 years. A vacancy in theNational Council shall not affect its ability to function. The Secretary shall appoint a new member within sixty days to fill a vacancy in an unexpired term. Any member may remain on the National Council beyond that member's term until a successor is appointed.
 
 #### (f) Chairman
 
@@ -52,7 +52,7 @@ Members of the National Council shall serve without compensation, but shall be r
 
 #### Amendments
 
-1988—Subsec. (d)(1)(E). Pub. L. 100–350 which directed the substitution of “, at least one of whom is not a resident of the States of the Alaska, Pacific, Southeast, and Northeast regions” for “and who are not residents of the States of the Alaska, Pacific, Southeast, or Northeast regions” was executed by substituting that phrase for “and who are not residents of the states of the Alaska, Pacific, Southeast, or Northeast regions”.
+<b>1988</b>—Subsec. (d)(1)(E). Pub. L. 100–350 which directed the substitution of “, at least one of whom is not a resident of the States of the Alaska, Pacific, Southeast, and Northeast regions” for “and who are not residents of the States of the Alaska, Pacific, Southeast, or Northeast regions” was executed by substituting that phrase for “and who are not residents of the states of the Alaska, Pacific, Southeast, or Northeast regions”.
 
 #### Continuity of National Council Membership
 

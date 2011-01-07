@@ -188,11 +188,11 @@ This section shall not apply to—
 
 #### (V) Special rule for PBGC recipients
 
-&emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(B) with respect to a covered employee who (as of such qualifying event) has a nonforfeitable right to a benefit any portion of which is to be paid by the Pension Benefit Guaranty Corporation under title IV of the Employee Retirement Income Security Act of 1974, notwithstanding subclause (I) or (II), the date of the death of the covered employee, or in the case of the surviving spouse or dependent children of the covered employee, 24 months after the date of the death of the covered employee. The preceding sentence shall not require any period of coverage to extend beyond December 31, 2010.
+&emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(B) with respect to a covered employee who (as of such qualifying event) has a nonforfeitable right to a benefit any portion of which is to be paid by the Pension Benefit Guaranty Corporation under title IV of the Employee Retirement Income Security Act of 1974, notwithstanding subclause (I) or (II), the date of the death of the covered employee, or in the case of the surviving spouse or dependent children of the covered employee, 24 months after the date of the death of the covered employee. The preceding sentence shall not require any period of coverage to extend beyond February 12, 2011.
 
 #### (VI) Special rule for TAA-eligible individuals
 
-&emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(B) with respect to a covered employee who is (as of the date that the period of coverage would, but for this subclause or subclause (VII), otherwise terminate under subclause (I) or (II)) a TAA-eligible individual (as defined in paragraph (5)(C)(iv)(II)), the period of coverage shall not terminate by reason of subclause (I) or (II), as the case may be, before the later of the date specified in such subclause or the date on which such individual ceases to be such a TAA-eligible individual. The preceding sentence shall not require any period of coverage to extend beyond December 31, 2010.
+&emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(B) with respect to a covered employee who is (as of the date that the period of coverage would, but for this subclause or subclause (VII), otherwise terminate under subclause (I) or (II)) a TAA-eligible individual (as defined in paragraph (5)(C)(iv)(II)), the period of coverage shall not terminate by reason of subclause (I) or (II), as the case may be, before the later of the date specified in such subclause or the date on which such individual ceases to be such a TAA-eligible individual. The preceding sentence shall not require any period of coverage to extend beyond February 12, 2011.
 
 #### (VII) Medicare entitlement followed by qualifying event
 
@@ -334,7 +334,7 @@ This section shall not apply to—
 
 &emsp;&emsp;&emsp;&emsp;(II) ending on the first day of the 60-day election period described in clause (i),
 
-&emsp;&emsp;&nbsp;shall be disregarded for purposes of determining the 63-day periods referred to in section 9801(c)(2), section 701(c)(2) of the Employee Retirement Income Security Act of 1974, and section 2701(c)(2) of the Public Health Service Act.
+&emsp;&emsp;&nbsp;shall be disregarded for purposes of determining the 63-day periods referred to in section 9801(c)(2), section 701(c)(2) of the Employee Retirement Income Security Act of 1974, and section 2701(c)(2) <sup>1</sup> of the Public Health Service Act.
 
 #### (iv) Definitions
 
@@ -440,7 +440,7 @@ For purposes of this section—
 
 > &emsp;For purposes of applying subparagraph (B), the qualified beneficiary shall be treated as if he had elected the most favorable coverage in light of the expenses he incurred since the failure first occurred.
 
-(Added Pub. L. 100–647, title III, §3011(a), Nov. 10, 1988, 102 Stat. 3616; amended Pub. L. 101–239, title VI, §§6202(b)(3)(B), 6701(a)–(c), title VII, §§7862(c)(2)(B), (3)(C), (4)(B), (5)(A), 7891(d)(1)(B), (2)(A), Dec. 19, 1989, 103 Stat. 2233, 2294, 2295, 2432, 2433, 2446; Pub. L. 101–508, title XI, §11702(f), Nov. 5, 1990, 104 Stat. 1388–515; Pub. L. 103–66, title XIII, §13422(a), Aug. 10, 1993, 107 Stat. 566; Pub. L. 104–188, title I, §1704(g)(1)(A), (t)(21), Aug. 20, 1996, 110 Stat. 1880, 1888; Pub. L. 104–191, title III, §321(d)(1), title IV, §421(c), Aug. 21, 1996, 110 Stat. 2058, 2088; Pub. L. 107–210, div. A, title II, §203(e)(3), Aug. 6, 2002, 116 Stat. 971; Pub. L. 111–5, div. B, title I, §1899F(b), Feb. 17, 2009, 123 Stat. 429.)
+(Added Pub. L. 100–647, title III, §3011(a), Nov. 10, 1988, 102 Stat. 3616; amended Pub. L. 101–239, title VI, §§6202(b)(3)(B), 6701(a)–(c), title VII, §§7862(c)(2)(B), (3)(C), (4)(B), (5)(A), 7891(d)(1)(B), (2)(A), Dec. 19, 1989, 103 Stat. 2233, 2294, 2295, 2432, 2433, 2446; Pub. L. 101–508, title XI, §11702(f), Nov. 5, 1990, 104 Stat. 1388–515; Pub. L. 103–66, title XIII, §13422(a), Aug. 10, 1993, 107 Stat. 566; Pub. L. 104–188, title I, §1704(g)(1)(A), (t)(21), Aug. 20, 1996, 110 Stat. 1880, 1888; Pub. L. 104–191, title III, §321(d)(1), title IV, §421(c), Aug. 21, 1996, 110 Stat. 2058, 2088; Pub. L. 107–210, div. A, title II, §203(e)(3), Aug. 6, 2002, 116 Stat. 971; Pub. L. 111–5, div. B, title I, §1899F(b), Feb. 17, 2009, 123 Stat. 429; Pub. L. 111–344, title I, §116(b), Dec. 29, 2010, 124 Stat. 3616.)
 
 #### References in Text
 
@@ -450,11 +450,15 @@ The Social Security Act, referred to in subsec. (f)(2)(B)(i)(IV), (VII), (VIII),
 
 The Employee Retirement Income Security Act of 1974, referred to in subsecs. (f)(2)(B)(i)(V), (iv)(I), (5)(C)(iii), and (g)(3), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. Sections 3(16)(A) and 701(c)(2) of the Act are classified to sections 1002(16)(A) and 1181(c)(2), respectively, of Title 29. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-The Public Health Service Act, referred to in subsec. (f)(2)(B)(iv)(I), (5)(C)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of Title 42, The Public Health and Welfare. Section 2701(c)(2) of the Act is classified to section 300gg(c)(2) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (f)(2)(B)(iv)(I), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+
+Section 2701 of the Public Health Service Act, referred to in subsec. (f)(5)(C)(iii), was classified to section 300gg of Title 42, The Public Health and Welfare, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of Title 42. A new section 2701, related to fair health insurance premiums, was added and amended by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of Title 42.
 
 #### Amendments
 
-2009—Subsec. (f)(2)(B)(i)(V). Pub. L. 111–5, §1899F(b)(2), added subcl. (V). Former subcl. (V) redesignated (VII).
+<b>2010</b>—Subsec. (f)(2)(B)(i)(V), (VI). Pub. L. 111–344 substituted “February 12, 2011” for “December 31, 2010”.
+
+<b>2009</b>—Subsec. (f)(2)(B)(i)(V). Pub. L. 111–5, §1899F(b)(2), added subcl. (V). Former subcl. (V) redesignated (VII).
 
 Subsec. (f)(2)(B)(i)(VI). Pub. L. 111–5, §1899F(b)(2), added subcl. (VI). Former subcl. (VI) redesignated (VIII).
 
@@ -462,9 +466,9 @@ Pub. L. 111–5, §1899F(b)(1), designated concluding provisions as subcl. (VI) 
 
 Subsec. (f)(2)(B)(i)(VII), (VIII). Pub. L. 111–5, §1899F(b)(2), designated subcls. (V) and (VI) as (VII) and (VIII), respectively.
 
-2002—Subsec. (f)(5)(C). Pub. L. 107–210 added subpar. (C).
+<b>2002</b>—Subsec. (f)(5)(C). Pub. L. 107–210 added subpar. (C).
 
-1996—Subsec. (f)(2)(B)(i). Pub. L. 104–191, §421(c)(1)(A), in concluding provisions, substituted “at any time during the first 60 days of continuation coverage under this section” for “at the time of a qualifying event described in paragraph (3)(B)”, struck out “with respect to such event” after “(II) to 18 months”, and inserted “(with respect to all qualified beneficiaries)” after “29 months”.
+<b>1996</b>—Subsec. (f)(2)(B)(i). Pub. L. 104–191, §421(c)(1)(A), in concluding provisions, substituted “at any time during the first 60 days of continuation coverage under this section” for “at the time of a qualifying event described in paragraph (3)(B)”, struck out “with respect to such event” after “(II) to 18 months”, and inserted “(with respect to all qualified beneficiaries)” after “29 months”.
 
 Pub. L. 104–188, §1704(t)(21), made technical amendment to directory language of Pub. L. 101–239, §6701(a)(1). See 1989 Amendment note below.
 
@@ -480,11 +484,11 @@ Subsec. (g)(1)(A). Pub. L. 104–191, §421(c)(3), inserted at end “Such term 
 
 Subsec. (g)(2). Pub. L. 104–191, §321(d)(1), inserted at end “Such term shall not include any plan substantially all of the coverage under which is for qualified long-term care services (as defined in section 7702B(c)).”
 
-1993—Subsec. (f)(1). Pub. L. 103–66 inserted “the coverage of the costs of pediatric vaccines (as defined under section 2162 of the Public Health Service Act) is not reduced below the coverage provided by the plan as of May 1, 1993, and only if” after “only if”.
+<b>1993</b>—Subsec. (f)(1). Pub. L. 103–66 inserted “the coverage of the costs of pediatric vaccines (as defined under section 2162 of the Public Health Service Act) is not reduced below the coverage provided by the plan as of May 1, 1993, and only if” after “only if”.
 
-1990—Subsec. (d)(1). Pub. L. 101–508 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “any failure of a group health plan to meet the requirements of subsection (f) if all employers maintaining such plan normally employed fewer than 20 employees on a typical business day during the preceding calendar year,”.
+<b>1990</b>—Subsec. (d)(1). Pub. L. 101–508 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “any failure of a group health plan to meet the requirements of subsection (f) if all employers maintaining such plan normally employed fewer than 20 employees on a typical business day during the preceding calendar year,”.
 
-1989—Subsec. (f)(2)(B)(i). Pub. L. 101–239, §6701(a)(1), as amended by Pub. L. 104–188, §1704(t)(21), inserted at end “In the case of a qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in paragraph (3)(B), any reference in subclause (I) or (II) to 18 months with respect to such event is deemed a reference to 29 months, but only if the qualified beneficiary has provided notice of such determination under paragraph (6)(C) before the end of such 18 months.”
+<b>1989</b>—Subsec. (f)(2)(B)(i). Pub. L. 101–239, §6701(a)(1), as amended by Pub. L. 104–188, §1704(t)(21), inserted at end “In the case of a qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in paragraph (3)(B), any reference in subclause (I) or (II) to 18 months with respect to such event is deemed a reference to 29 months, but only if the qualified beneficiary has provided notice of such determination under paragraph (6)(C) before the end of such 18 months.”
 
 Subsec. (f)(2)(B)(i)(V). Pub. L. 101–239, §7862(c)(5)(A), added subcl. (V).
 
@@ -509,6 +513,10 @@ Subsec. (f)(7). Pub. L. 101–239, §7862(c)(2)(B), substituted “the performan
 Subsec. (f)(8). Pub. L. 101–239, §7891(d)(2)(A), added par. (8).
 
 Subsec. (g)(2). Pub. L. 101–239, §6202(b)(3)(B), substituted “section 5000(b)(1)” for “section 162(i)”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–344, title I, §116(d), Dec. 29, 2010, 124 Stat. 3616, provided that: “The amendments made by this section \[amending this section, section 1162 of Title 29, Labor, and section 300bb–2 of Title 42, The Public Health and Welfare\] shall apply to periods of coverage which would (without regard to the amendments made by this section) end on or after December 31, 2010.”
 
 #### Effective Date of 2009 Amendment
 

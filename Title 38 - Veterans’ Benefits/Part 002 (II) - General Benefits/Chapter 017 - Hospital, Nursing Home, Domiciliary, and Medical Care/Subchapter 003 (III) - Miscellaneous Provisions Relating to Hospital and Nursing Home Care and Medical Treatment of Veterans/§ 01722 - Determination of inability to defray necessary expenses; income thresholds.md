@@ -62,11 +62,11 @@ Prior section 1722, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1196, related to c
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–262, §101(d)(9)(A), substituted “section 1710(a)(2)(G)” for “section 1710(a)(1)(I)” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–262, §101(d)(9)(A), substituted “section 1710(a)(2)(G)” for “section 1710(a)(1)(I)” in introductory provisions.
 
 Subsec. (f)(3). Pub. L. 104–262, §101(d)(9)(B), struck out “or 1712(f)” before “of this title”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 622 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 622 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1710(a)(1)(I)” for “610(a)(1)(I)” in introductory provisions and “1521” for “521” in par. (2).
 
@@ -84,7 +84,7 @@ Subsec. (g). Pub. L. 102–83, §5(c)(1), substituted “1724(c)” for “624(c
 
 Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in par. (3).
 
-1990—Subsec. (a). Pub. L. 101–508, §8013(c)(1), designated par. (1) as entire subsec. (a), redesignated cls. (A) to (C) as pars. (1) to (3), respectively, substituted “amount set forth in subsection (b)” for “Category A threshold” in par. (3), and struck out former par. (2) which read as follows: “For the purposes of section 610(a)(2)(A) of this title, a veteran's income level is described in this paragraph if the veteran's attributable income is not greater than the Category B threshold.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §8013(c)(1), designated par. (1) as entire subsec. (a), redesignated cls. (A) to (C) as pars. (1) to (3), respectively, substituted “amount set forth in subsection (b)” for “Category A threshold” in par. (3), and struck out former par. (2) which read as follows: “For the purposes of section 610(a)(2)(A) of this title, a veteran's income level is described in this paragraph if the veteran's attributable income is not greater than the Category B threshold.”
 
 Subsec. (b). Pub. L. 101–508, §8013(c)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purposes of this section:
 
@@ -132,19 +132,19 @@ Subsec. (e)(2). Pub. L. 101–508, §8013(c)(5)(B), added par. (2) and struck ou
 
 &emsp;“(ii) the current projections of such veteran's income for the current year are that the veteran's income for such year will be substantially below such threshold.”
 
-1988—Subsec. (g). Pub. L. 100–322 substituted “section” for “sections 610(b)(2) and”.
+<b>1988</b>—Subsec. (g). Pub. L. 100–322 substituted “section” for “sections 610(b)(2) and”.
 
-1986—Pub. L. 99–272 amended section generally, revising and restating existing provisions as subsec. (g) and adding subsecs. (a) to (f).
+<b>1986</b>—Pub. L. 99–272 amended section generally, revising and restating existing provisions as subsec. (g) and adding subsecs. (a) to (f).
 
-1980—Pub. L. 96–330 substituted provisions relating to the facts that will be accepted as sufficient evidence of an individual's inability to defray necessary expenses for provisions relating to the use of statements under oath to establish the inability to defray necessary expenses.
+<b>1980</b>—Pub. L. 96–330 substituted provisions relating to the facts that will be accepted as sufficient evidence of an individual's inability to defray necessary expenses for provisions relating to the use of statements under oath to establish the inability to defray necessary expenses.
 
-1976—Subsec. (a). Pub. L. 94–581, §202(k), substituted “610(a)(1)(B)” for “610(a)(1)” and “632(a)(2)” for “632(b)”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–581, §202(k), substituted “610(a)(1)(B)” for “610(a)(1)” and “632(a)(2)” for “632(b)”.
 
 Subsec. (b). Pub. L. 94–581, §210(a)(9), substituted “such veteran's inability” for “his inability”.
 
-1970—Pub. L. 91–500 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1970</b>—Pub. L. 91–500 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1966—Pub. L. 89–612 inserted reference to section 632(b) of this title.
+<b>1966</b>—Pub. L. 89–612 inserted reference to section 632(b) of this title.
 
 #### Effective Date of 1990 Amendment
 

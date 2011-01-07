@@ -36,7 +36,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 #### (e) Required providers regarding certain services
 
-The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees that, in expending the grant to carry out activities authorized in subsection (c) of this section, the services described in paragraphs (1) through (7) of such subsection will be provided only through entities that are State or local health departments, grantees under section 254b, 254b, 256a, or 300 of this title,<sup>1</sup> or are other public or nonprofit private entities that provide health services to a significant number of low-income women.
+The Secretary may make a grant under subsection (a) of this section only if the applicantinvolved agrees that, in expending the grant to carry out activities authorized in subsection (c) of this section, the services described in paragraphs (1) through (7) of such subsection will be provided only through entities that are State or local health departments, grantees under section 254b, 254b, 256a, or 300 of this title,<sup>1</sup> or are other public or nonprofit private entities that provide health services to a significant number of low-income women.
 
 #### (f) Quality assurance regarding screening for diseases
 
@@ -106,7 +106,7 @@ With respect to activities for which a grant under subsection (a) of this sectio
 
 #### (m) Duration of grant
 
-The period during which payments are made to an entity from a grant under subsection (a) of this section may not exceed 3 years. The provision of such payments shall be subject to annual approval by the Secretary of the payments and subject to the availability of appropriations for the fiscal year involved to make the payments in such year. The preceding sentence may not be construed to establish a limitation on the number of grants under such subsection that may be made to an entity.
+The period during which payments are made to an entity from a grant under subsection (a) ofthis section may not exceed 3 years. The provision of such payments shall be subject to annual approval by the Secretary of the payments and subject to the availability of appropriations for the fiscal year involved to make the payments in such year. The preceding sentence may not be construed to establish a limitation on the number of grants under such subsection that may be made to an entity.
 
 #### (n) Technical assistance, and supplies and services in lieu of grant funds
 
@@ -156,7 +156,7 @@ For the purpose of carrying out this section, other than subsections (<i>o</i>) 
 
 &emsp;For the purpose of carrying out paragraph (1), there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1993 through 1998.
 
-(July 1, 1944, ch. 373, title III, §318A, as added Pub. L. 102–531, title III, §304, Oct. 27, 1992, 106Stat. 3490; amended Pub. L. 103–43, title XX, §2008(i)(1)(B)(ii), June 10, 1993, 107 Stat. 212; Pub. L. 103–183, title IV, §402, Dec. 14, 1993, 107 Stat. 2236; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 108–163, §2(m)(1), Dec. 6, 2003, 117 Stat. 2023.)
+(July 1, 1944, ch. 373, title III, §318A, as added Pub. L. 102–531, title III, §304, Oct. 27, 1992, 106 Stat. 3490; amended Pub. L. 103–43, title XX, §2008(i)(1)(B)(ii), June 10, 1993, 107 Stat. 212; Pub. L. 103–183, title IV, §402, Dec. 14, 1993, 107 Stat. 2236; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 108–163, §2(m)(1), Dec. 6, 2003, 117 Stat. 2023.)
 
 #### References in Text
 
@@ -166,11 +166,11 @@ Section 256a of this title, referred to in subsec. (e), was repealed by Pub. L. 
 
 #### Amendments
 
-2003—Subsec. (e). Pub. L. 108–163 substituted “254b” for “254c, 254b(h)” before “, 256a”.
+<b>2003</b>—Subsec. (e). Pub. L. 108–163 substituted “254b” for “254c, 254b(h)” before “, 256a”.
 
-2002—Subsec. (e). Pub. L. 107–251 substituted “254b(h)” for “256”.
+<b>2002</b>—Subsec. (e). Pub. L. 107–251 substituted “254b(h)” for “256”.
 
-1993—Pub. L. 103–43 made technical amendment to directory language of Pub. L. 102–531, §304, which enacted this section.
+<b>1993</b>—Pub. L. 103–43 made technical amendment to directory language of Pub. L. 102–531, §304, which enacted this section.
 
 Subsec. (<i>o</i>)(2). Pub. L. 103–183, §402(a), substituted “subsection (q)” for “subsection (s)”.
 

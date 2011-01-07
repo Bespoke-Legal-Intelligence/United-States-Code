@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1997—Pub. L. 105–85, §3524(b)(2), substituted “Air transportation” for “Travel and transportation” in section catchline.
+<b>1997</b>—Pub. L. 105–85, §3524(b)(2), substituted “Air transportation” for “Travel and transportation” in section catchline.
 
 Subsec. (a). Pub. L. 105–85, §3524(b)(1)(A), redesignated subsec. (d)(1) as subsec. (a) and substituted “subsection (b) of this section” for “paragraph (2)”.
 
@@ -16,7 +16,7 @@ Pub. L. 105–85, §3524(a)(1), struck out subsec. (a) which read as follows: �
 
 Subsec. (b). Pub. L. 105–85, §3524(b)(1)(B), redesignated subsec. (d)(2) as subsec. (b) and substituted “An official” for “Notwithstanding paragraph (1), an official” and “who is a citizen of the Republic of Panama” for “referred to in paragraph (1)”.
 
-Pub. L. 105–85, §3524(a)(1), struck out subsec. (b) which read as follows: “For an employee to whom section 3646 of this title applies, the Commission may pay travel and transportation expenses associated with vacation leave for the employee and the immediate family of the employee notwithstanding requirements regarding periods of service established by subchapter IIof chapter 57 of title 5 or the regulations promulgated thereunder.”
+Pub. L. 105–85, §3524(a)(1), struck out subsec. (b) which read as follows: “For an employee to whom section 3646 of this title applies, the Commission may pay travel and transportation expenses associated with vacation leave for the employee and the immediate family of the employee notwithstanding requirements regarding periods of service established by subchapter II of chapter 57 of title 5 or the regulations promulgated thereunder.”
 
 Subsec. (c). Pub. L. 105–85, §3524(a)(1), struck out subsec. (c) which read as follows: “For an employee to whom section 3646 of this title does not apply, the Commission may pay travel and transportation expenses associated with vacation leave for the employee and the immediate family of the employee notwithstanding requirements regarding a written agreement concerning the duration of a continuing service obligation established by subchapter II of chapter 57 of title 5 or the regulations promulgated thereunder.”
 
@@ -24,7 +24,7 @@ Subsec. (d)(1). Pub. L. 105–85, §3524(b)(1)(A), redesignated subsec. (d)(1) a
 
 Subsec. (d)(2). Pub. L. 105–85, §3524(b)(1)(B), redesignated subsec. (d)(2) as subsec. (b).
 
-1996—Pub. L. 104–201 struck out “expenses” after “transportation” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Commission may pay the expenses of vacation leave travel for an employee of the Commission to whom section 3646 of this title applies and for transportation of employee's family from the employee's post of duty in Panama to the place of the employee's actual residence at the time of appointment to the post of duty. The authorization of expenses under this section shall be in accordance with subchapter II of chapter 57 of title 5 and the regulations issued under that subchapter, except that the Commission may prescribe required periods of service notwithstanding section 5722 of title 5 and the regulations issued under subchapter II of chapter 57 of such title.”
+<b>1996</b>—Pub. L. 104–201 struck out “expenses” after “transportation” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Commission may pay the expenses of vacation leave travel for an employee of the Commission to whom section 3646 of this title applies and for transportation of employee's family from the employee's post of duty in Panama to the place of the employee's actual residence at the time of appointment to the post of duty. The authorization of expenses under this section shall be in accordance with subchapter II of chapter 57 of title 5 and the regulations issued under that subchapter, except that the Commission may prescribe required periods of service notwithstanding section 5722 of title 5 and the regulations issued under subchapter II of chapter 57 of such title.”
 
 #### Effective Date of 1997 Amendment
 

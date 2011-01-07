@@ -12,11 +12,11 @@
 
 #### Amendments
 
-2000—Pub. L. 106–398, §1 \[\[div. A\], title VI, §663(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–168, added item 12604.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title VI, §663(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–168, added item 12604.
 
-1999—Pub. L. 106–65, div. A, title VI, §652(a)(2), Oct. 5, 1999, 113 Stat. 665, added item 12605.
+<b>1999</b>—Pub. L. 106–65, div. A, title VI, §652(a)(2), Oct. 5, 1999, 113 Stat. 665, added item 12605.
 
-1998—Pub. L. 105–261, div. A, title VI, §635(b), Oct. 17, 1998, 112 Stat. 2045, added item 12603.
+<b>1998</b>—Pub. L. 105–261, div. A, title VI, §635(b), Oct. 17, 1998, 112 Stat. 2045, added item 12603.
 
 
 ---

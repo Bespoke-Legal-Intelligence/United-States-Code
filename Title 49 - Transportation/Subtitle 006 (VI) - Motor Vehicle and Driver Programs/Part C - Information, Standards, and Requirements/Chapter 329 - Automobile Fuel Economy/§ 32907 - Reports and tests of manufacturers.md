@@ -4,7 +4,7 @@
 
 Manufacturer Reports.—(1) A manufacturer shall report to the Secretary of Transportation on—
 
-&emsp;(A) whether the manufacturer will comply with an applicable average fuel economystandard under section 32902 of this title for the model year for which the report is made;
+&emsp;(A) whether the manufacturer will comply with an applicable average fuel economy standard under section 32902 of this title for the model year for which the report is made;
 
 &emsp;(B) the actions the manufacturer has taken or intends to take to comply with the standard; and
 

@@ -154,7 +154,7 @@ Transit enhancement.—The term “transit enhancement” means, with respect to
 
 &emsp;(16)
 
-Urban area.—The term “urban area” means an area that includes a municipality orother built-up place that the Secretary, after considering local patterns and trends of urban growth, decides is appropriate for a local public transportation system to serve individuals in the locality.
+Urban area.—The term “urban area” means an area that includes a municipality or other built-up place that the Secretary, after considering local patterns and trends of urban growth, decides is appropriate for a local public transportation system to serve individuals in the locality.
 
 &emsp;(17)
 
@@ -262,15 +262,15 @@ Subsection (b) applies to section 5307(d)(1)(D) of the revised title because of 
 
 #### References in Text
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (a)(1)(I), is Pub. L. 101–336, July 26, 1990,104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (a)(1)(I), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 Subsec. (b) of section 5334, referred to in subsec. (a)(3)(A), was redesignated subsec. (c) by Pub. L. 109–59, title III, §3023(3), Aug. 10, 2005, 119 Stat. 1626.
 
 #### Amendments
 
-2008—Subsec. (a)(10). Pub. L. 110–244 substituted “charter, sightseeing,” for “charter,”.
+<b>2008</b>—Subsec. (a)(10). Pub. L. 110–244 substituted “charter, sightseeing,” for “charter,”.
 
-2005—Subsec. (a). Pub. L. 109–59, §3004(a), substituted “Except as otherwise specifically provided, in this chapter” for “In this chapter” in introductory provisions.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §3004(a), substituted “Except as otherwise specifically provided, in this chapter” for “In this chapter” in introductory provisions.
 
 Subsec. (a)(1)(A), (F). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation”.
 
@@ -308,19 +308,19 @@ Subsec. (a)(17). Pub. L. 109–59, §3004(f), reenacted heading without change a
 
 Subsec. (b). Pub. L. 109–59, §3004(g), substituted “Individual With a Disability” for “Handicapped Individual” in heading and “individual with a disability” for “handicapped individual” in text.
 
-1998—Pub. L. 105–178, §3003(a), formerly §3003, as renumbered by Pub. L. 105–206, §9009(a)(1), amended section generally, revising and restating existing definitions and adding new pars. defining additional terms.
+<b>1998</b>—Pub. L. 105–178, §3003(a), formerly §3003, as renumbered by Pub. L. 105–206, §9009(a)(1), amended section generally, revising and restating existing definitions and adding new pars. defining additional terms.
 
 Subsec. (a)(1)(G)(i). Pub. L. 105–178, §3003(b), as added by Pub. L. 105–206, §9009(a)(2), substituted “daycare or” for “daycare and”.
 
-1997—Subsec. (a)(1)(B), (C). Pub. L. 105–102 made technical correction to directory language of Pub. L. 104–50, §333(a). See 1995 Amendment notes below.
+<b>1997</b>—Subsec. (a)(1)(B), (C). Pub. L. 105–102 made technical correction to directory language of Pub. L. 104–50, §333(a). See 1995 Amendment notes below.
 
-1996—Subsec. (a)(1). Pub. L. 104–287 made technical correction to directory language of Pub. L. 103–331, §335A. See 1994 Amendment note below.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–287 made technical correction to directory language of Pub. L. 103–331, §335A. See 1994 Amendment note below.
 
-1995—Subsec. (a)(1)(B). Pub. L. 104–50, §333(a)(1), as amended by Pub. L. 105–102, §3(a)(1), struck out “that extends the economic life of a bus for at least 5 years” after “rehabilitating a bus”.
+<b>1995</b>—Subsec. (a)(1)(B). Pub. L. 104–50, §333(a)(1), as amended by Pub. L. 105–102, §3(a)(1), struck out “that extends the economic life of a bus for at least 5 years” after “rehabilitating a bus”.
 
 Subsec. (a)(1)(C). Pub. L. 104–50, §333(a)(2), as amended by Pub. L. 105–102, §3(a)(2), struck out “that extends the economic life of a bus for at least 8 years” after “remanufacturing a bus”.
 
-1994—Subsec. (a)(1). Pub. L. 103–331, §335A, as amended by Pub. L. 104–287, inserted “payments for the capital portions of rail trackage rights agreements,” after “rights of way),”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–331, §335A, as amended by Pub. L. 104–287, inserted “payments for the capital portions of rail trackage rights agreements,” after “rights of way),”.
 
 #### Effective Date of 1998 Amendment
 

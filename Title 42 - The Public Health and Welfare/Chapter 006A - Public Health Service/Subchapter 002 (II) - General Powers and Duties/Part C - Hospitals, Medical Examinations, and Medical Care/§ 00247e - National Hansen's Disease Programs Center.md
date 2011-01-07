@@ -14,7 +14,7 @@ In addition to the Center referred to in subsection (a) of this section, the Sec
 
 #### (c) Agency designated by Secretary
 
-The Secretary shall carry out subsections (a) and (b) of this section acting through an agency of the Service. For purposes of the preceding sentence, the agency designated by the Secretary shall carry out both activities relating to the provision of health services and activities relating to the conduct of research.
+The Secretary shall carry out subsections (a) and (b) of this section acting through an agency of the Service. For purposes of the precedingsentence, the agency designated by the Secretary shall carry out both activities relating to the provision of health services and activities relating to the conduct of research.
 
 #### (d) Payments to Board of Health of Hawaii
 
@@ -32,25 +32,25 @@ Section was classified to section 255 of this title prior to its renumbering by 
 
 #### Amendments
 
-2002—Subsec. (a)(1). Pub. L. 107–220 substituted “National Hansen's Disease Programs Center” for “Gillis W. Long Hansen's Disease Center”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–220 substituted “National Hansen's Disease Programs Center” for “Gillis W. Long Hansen's Disease Center”.
 
-1997—Pub. L. 105–78 amended section catchline and text generally, substituting present provisions for former provisions which related to: in subsec. (a), care and treatment; and in subsec. (b), payments to Board of Health of Hawaii.
+<b>1997</b>—Pub. L. 105–78 amended section catchline and text generally, substituting present provisions for former provisions which related to: in subsec. (a), care and treatment; and in subsec. (b), payments to Board of Health of Hawaii.
 
-1985—Pub. L. 99–117 substituted “Hansen's disease program” for “Receipt, apprehension, detention, treatment, and release of lepers” in section catchline.
+<b>1985</b>—Pub. L. 99–117 substituted “Hansen's disease program” for “Receipt, apprehension, detention, treatment, and release of lepers” in section catchline.
 
 Subsec. (a). Pub. L. 99–117 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Service shall, in accordance with regulations, receive into any hospital of the Service suitable for his accommodation any person afflicted with leprosy who presents himself for care, detention, or treatment, or who may be apprehended under subsection (b) of this section or section 264 of this title, and any person afflicted with leprosy duly consigned to the care of the Service by the proper health authority of any State. The Surgeon General is authorized, upon the request of any health authority, to send for any person within the jurisdiction of such authority who is afflicted with leprosy and to convey such person to the appropriate hospital for detention and treatment. When the transportation of any such person is undertaken for the protection of the public health the expense of such removal shall be met from funds available for the maintenance of hospitals of the Service. Such funds shall also be available, subject to regulations, for transportation of recovered indigent leper patients to their homes, including subsistence allowance while traveling. When so provided in appropriations available for any fiscal year for the maintenance of hospitals of the Service, the Surgeon General is authorized and directed to make payments to the Board of Health of Hawaii for the care and treatment in its facilities of persons afflicted with leprosy at a per diem rate, determined from time to time by the Surgeon General, which shall, subject to the availability of appropriations, be approximately equal to the per diem operating cost per patient of such facilities, except that such per diem rate shall not be greater than the comparable per diem operating cost per patient at the National Leprosarium, Carville, Louisiana.”
 
-Subsec. (b). Pub. L. 99–117 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Surgeon General may provide by regulation forthe apprehension, detention, treatment, and release of persons being treated by the Service for leprosy.”
+Subsec. (b). Pub. L. 99–117 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Surgeon General may provide by regulation for the apprehension, detention, treatment, and release of persons being treated by the Service for leprosy.”
 
-1979—Subsec. (a). Pub. L. 96–32 substituted “apprehended under subsection (b) of this section or section 264 of this title” for “apprehended under section 256 or 264 of this title”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–32 substituted “apprehended under subsection (b) of this section or section 264 of this title” for “apprehended under section 256 or 264 of this title”.
 
-1978—Pub. L. 95–626 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1978</b>—Pub. L. 95–626 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1960—Pub. L. 86–624 struck out “, Territory, or the District of Columbia” after “proper health authority of any State”, and substituted “Board of Health of Hawaii” for “Board of Health of the Territory of Hawaii”.
+<b>1960</b>—Pub. L. 86–624 struck out “, Territory, or the District of Columbia” after “proper health authority of any State”, and substituted “Board of Health of Hawaii” for “Board of Health of the Territory of Hawaii”.
 
-1952—Act June 25, 1952, provided for payments to Hawaiian Board of Health for expenditures made by them in care and treatment of patients.
+<b>1952</b>—Act June 25, 1952, provided for payments to Hawaiian Board of Health for expenditures made by them in care and treatment of patients.
 
-1948—Act June 25, 1948, authorized payment of travel expenses of indigent leper patients.
+<b>1948</b>—Act June 25, 1948, authorized payment of travel expenses of indigent leper patients.
 
 #### Change of Name
 
@@ -108,7 +108,7 @@ Pub. L. 105–78, title II, §211(a)–(g), Nov. 13, 1997, 111 Stat. 1489, as am
 
 &emsp;&emsp;“(A) The State will offer the individual an employment position with the State, the position with the State will have duties similar to the duties the individual performed in his or her most recent position at the transferred property, and the position with the State will provide compensation and benefits that are similar to the compensation and benefits provided for such most recent position, subject to the concurrence of the Governor of the State.
 
-&emsp;&emsp;“(B) If the individual becomes an employee of the State pursuant to subparagraph (A), the State willmake payments in accordance with subsection (e)(2)(B) (relating to disability), as applicable with respect to the individual.
+&emsp;&emsp;“(B) If the individual becomes an employee of the State pursuant to subparagraph (A), the State will make payments in accordance with subsection (e)(2)(B) (relating to disability), as applicable with respect to the individual.
 
 &emsp;“(7) The Federal Government may, consistent with the intended uses by the State of the transferred property, carry out at such property activities regarding at-risk youth.
 
@@ -162,7 +162,7 @@ Pub. L. 105–78, title II, §211(a)–(g), Nov. 13, 1997, 111 Stat. 1489, as am
 
 &emsp;“(B) The choice by an eligible patient of the option under clause (i) of subparagraph (A) may at any time be revoked by the patient, and the patient may instead choose the option under clause (ii) of such subparagraph. The choice by an eligible patient of the option under such clause (ii) is irrevocable.
 
-&emsp;“(C) Payments under subparagraph (A)(ii) shall be made on a monthly basis, and shall be pro rated as applicable. In 1999 and each subsequent year, themonthly amount of such payments shall be increased by a percentage equal to any percentage increase taking effect under section 215(i) of the Social Security Act \[section 415(i) of this title\] (relating to a cost-of-living increase) for benefits under title II of such Act \[section 401 et seq. of this title\] (relating to Federal old-age, survivors, and disability insurance benefits). Any such percentage increase in monthly payments under subparagraph (A)(ii) shall take effect in the same month as the percentage increase under such section 215(i) takes effect.
+&emsp;“(C) Payments under subparagraph (A)(ii) shall be made on a monthly basis, and shall be pro rated as applicable. In 1999 and each subsequent year, the monthly amount of such payments shall be increased by a percentage equal to any percentage increase taking effect under section 215(i) of the Social Security Act \[section 415(i) of this title\] (relating to a cost-of-living increase) for benefits under title II of such Act \[section 401 et seq. of this title\] (relating to Federal old-age, survivors, and disability insurance benefits). Any such percentage increase in monthly payments under subparagraph (A)(ii) shall take effect in the same month as the percentage increase under such section 215(i) takes effect.
 
 &emsp;“(D) With respect to the provision of outpatient and inpatient medical care for Hansen's disease and related complications to an eligible patient:
 

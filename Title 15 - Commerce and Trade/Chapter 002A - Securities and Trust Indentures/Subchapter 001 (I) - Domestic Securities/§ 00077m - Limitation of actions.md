@@ -6,7 +6,7 @@ No action shall be maintained to enforce any liability created under section 77k
 
 #### Amendments
 
-1998—Pub. L. 105–353 substituted “77<i>l</i>(a)(2)” for “77<i>l</i>(2)” in two places and “77<i>l</i>(a)(1)” for “77<i>l</i>(1)” in two places.
+<b>1998</b>—Pub. L. 105–353 substituted “77<i>l</i>(a)(2)” for “77<i>l</i>(2)” in two places and “77<i>l</i>(a)(1)” for “77<i>l</i>(1)” in two places.
 
-1934—Act June 6, 1934, substituted “one year” for “two years”, “three years” for “ten years”, and inserted “or under section 77<i>l</i>(2) of this title more than three years after the sale”.
+<b>1934</b>—Act June 6, 1934, substituted “one year” for “two years”, “three years” for “ten years”, and inserted “or under section 77<i>l</i>(2) of this title more than three years after the sale”.
 

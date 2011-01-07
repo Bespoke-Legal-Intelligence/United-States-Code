@@ -16,9 +16,9 @@ A prior section 210 of Pub. L. 89–73 was renumbered section 209 and is classif
 
 #### Amendments
 
-1981—Subsec. (a). Pub. L. 97–115, §(2)(j), struck out “and section 1469a of title 48” after “chapter 52A of this chapter”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–115, §(2)(j), struck out “and section 1469a of title 48” after “chapter 52A of this chapter”.
 
-1978—Subsec. (a). Pub. L. 95–478, §102(h)(1), (2), designated existing provisions as subsec. (a) and provided for nonapplication of provisions relating to Congressional declaration of policy respecting “Insular Areas”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–478, §102(h)(1), (2), designated existing provisions as subsec. (a) and provided for nonapplication of provisions relating to Congressional declaration of policy respecting “Insular Areas”.
 
 Subsec. (b). Pub. L. 95–478, §102(h)(1), added subsec. (b).
 

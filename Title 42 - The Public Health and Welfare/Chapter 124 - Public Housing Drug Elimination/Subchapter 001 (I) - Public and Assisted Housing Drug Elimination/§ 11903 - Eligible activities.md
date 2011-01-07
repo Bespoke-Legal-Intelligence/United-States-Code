@@ -44,7 +44,7 @@ Section 1504 of title 21, referred to in subsec. (b)(1), was repealed by Pub. L.
 
 #### Amendments
 
-1998—Subsec. (a)(4)(A). Pub. L. 105–276, §586(d)(1)(A), substituted “drug-related or violent crime in and around” for “drug-related crime on or about”.
+<b>1998</b>—Subsec. (a)(4)(A). Pub. L. 105–276, §586(d)(1)(A), substituted “drug-related or violent crime in and around” for “drug-related crime on or about”.
 
 Subsec. (a)(7). Pub. L. 105–276, §586(d)(1)(C)(i), substituted “recipient of assistance under the Native American Housing Assistance and Self-Determination Act of 1996” for “tribally designated housing entity”.
 
@@ -56,11 +56,11 @@ Subsec. (b). Pub. L. 105–276, §586(d)(2)(A), substituted “drug-related crim
 
 Subsec. (b)(2). Pub. L. 105–276, §586(d)(2)(B), substituted “drug-related or violent activity in or around” for “drug-related activity at”.
 
-1996—Subsec. (a)(7). Pub. L. 104–330 inserted “or tribally designated housing entity” after “public housing agency” and struck out “public housing” after “nonprofit”.
+<b>1996</b>—Subsec. (a)(7). Pub. L. 104–330 inserted “or tribally designated housing entity” after “public housing agency” and struck out “public housing” after “nonprofit”.
 
-1992—Pub. L. 102–550 designated existing provisions as subsec. (a), inserted heading, inserted “where a public housing agency receives a grant,” in par. (7), and added subsec. (b).
+<b>1992</b>—Pub. L. 102–550 designated existing provisions as subsec. (a), inserted heading, inserted “where a public housing agency receives a grant,” in par. (7), and added subsec. (b).
 
-1990—Pub. L. 101–625 amended section generally. Prior to amendment, section read as follows: “A public housing agency may use a grant under this subchapter for—
+<b>1990</b>—Pub. L. 101–625 amended section generally. Prior to amendment, section read as follows: “A public housing agency may use a grant under this subchapter for—
 
 &emsp;“(1) the employment of security personnel in public housing projects;
 

@@ -50,5 +50,5 @@ In subsection (c) the word “prevent” is substituted for “restrict the disc
 
 #### Amendments
 
-2001—Subsec. (c). Pub. L. 107–71 substituted “screening employees” for “screening contract employees”.
+<b>2001</b>—Subsec. (c). Pub. L. 107–71 substituted “screening employees” for “screening contract employees”.
 

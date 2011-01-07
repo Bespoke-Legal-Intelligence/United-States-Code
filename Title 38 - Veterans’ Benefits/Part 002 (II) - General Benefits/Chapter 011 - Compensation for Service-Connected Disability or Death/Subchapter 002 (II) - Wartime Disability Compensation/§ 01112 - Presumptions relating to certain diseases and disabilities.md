@@ -122,7 +122,7 @@
 
 &emsp;&emsp;(iv) Service in a capacity which, if performed as an employee of the Department of Energy, would qualify the individual for inclusion as a member of the Special Exposure Cohort under section 3621(14) of the Energy Employees Occupational Illness Compensation Program Act of 2000 (42 U.S.C. 7384<i>l</i>(14)).
 
-(4) A radiation-exposed veteran who receives a payment under the provisions of the Radiation Exposure Compensation Act of 1990 (42 U.S.C. 2210 note) shall not be deprived, by reason of the receipt of that payment, of receipt of compensation to which that veteran is entitled by reason of paragraph (1), but there shall be deducted from payment of such compensation the amount of the payment under that Act.
+(4) A radiation-exposed veteran who receives a payment under the provisions of the RadiationExposure Compensation Act of 1990 (42 U.S.C. 2210 note) shall not be deprived, by reason of the receipt of that payment, of receipt of compensation to which that veteran is entitled by reason of paragraph (1), but there shall be deducted from payment of such compensation the amount of the payment under that Act.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1120, §312; Pub. L. 86–187, Aug. 25, 1959, 73 Stat. 418; Pub. L. 86–188, Aug. 25, 1959, 73 Stat. 418; Pub. L. 87–645, §3, Sept. 7, 1962, 76 Stat. 442; Pub. L. 91–376, §3(a), (b), Aug. 12, 1970, 84 Stat. 788, 789; Pub. L. 97–37, §4(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 98–223, title I, §§101(c), 111, Mar. 2, 1984, 98 Stat. 38, 40; Pub. L. 99–576, title I, §108(a), Oct. 28, 1986, 100 Stat. 3252; Pub. L. 100–321, §2(a), May 20, 1988, 102 Stat. 485; Pub. L. 100–322, title III, §312, May 20, 1988, 102 Stat. 534; renumbered §1112 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title I, §§104(a), 105, Aug. 14, 1991, 105 Stat. 415; Pub. L. 102–578, §2(a), Oct. 30, 1992, 106 Stat. 4774; Pub. L. 103–446, title V, §501(a), Nov. 2, 1994, 108 Stat. 4663; Pub. L. 106–117, title V, §503, Nov. 30, 1999, 113 Stat. 1575; Pub. L. 108–183, title II, §201, Dec. 16, 2003, 117 Stat. 2656; Pub. L. 108–454, title III, §§302(a), 306(a), (b), Dec. 10, 2004, 118 Stat. 3610, 3612; Pub. L. 109–233, title IV, §401, June 15, 2006, 120 Stat. 407; Pub. L. 110–389, title I, §106, Oct. 10, 2008, 122 Stat. 4149.)
 
@@ -132,17 +132,17 @@ The Radiation Exposure Compensation Act, referred to in subsec. (c)(4), is Pub. 
 
 #### Amendments
 
-2008—Subsec. (b)(2)(F). Pub. L. 110–389 added subpar. (F).
+<b>2008</b>—Subsec. (b)(2)(F). Pub. L. 110–389 added subpar. (F).
 
-2006—Subsec. (b)(3)(L), (M). Pub. L. 109–233 added subpars. (L) and (M).
+<b>2006</b>—Subsec. (b)(3)(L), (M). Pub. L. 109–233 added subpars. (L) and (M).
 
-2004—Subsec. (c)(2)(Q) to (U). Pub. L. 108–454, §306(a), added subpars. (Q) to (U).
+<b>2004</b>—Subsec. (c)(2)(Q) to (U). Pub. L. 108–454, §306(a), added subpars. (Q) to (U).
 
 Subsec. (c)(3)(B)(iv). Pub. L. 108–454, §306(b), added cl. (iv).
 
 Subsec. (c)(4). Pub. L. 108–454, §302(a), added par. (4).
 
-2003—Subsec. (b). Pub. L. 108–183 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purposes of section 1110 of this title and subject to the provisions of section 1113 of this title, in the case of a veteran who is a former prisoner of war and who was detained or interned for not less than thirty days, the disease of—
+<b>2003</b>—Subsec. (b). Pub. L. 108–183 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purposes of section 1110 of this title and subject to the provisions of section 1113 of this title, in the case of a veteran who is a former prisoner of war and who was detained or interned for not less than thirty days, the disease of—
 
 &emsp;“(1) avitaminosis,
 
@@ -176,17 +176,17 @@ Subsec. (c)(4). Pub. L. 108–454, §302(a), added par. (4).
 
 > which became manifest to a degree of 10 percent or more after active military, naval, or air service shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service.”
 
-1999—Subsec. (c)(2)(P). Pub. L. 106–117 added subpar. (P).
+<b>1999</b>—Subsec. (c)(2)(P). Pub. L. 106–117 added subpar. (P).
 
-1994—Subsec. (c)(3)(B)(i). Pub. L. 103–446 inserted before period at end “(without regard to whether the nation conducting the test was the United States or another nation)”.
+<b>1994</b>—Subsec. (c)(3)(B)(i). Pub. L. 103–446 inserted before period at end “(without regard to whether the nation conducting the test was the United States or another nation)”.
 
-1992—Subsec. (c)(1). Pub. L. 102–578, §2(a)(1), struck out “to a degree of 10 percent or more within the presumption period (as specified in paragraph (3) of this subsection)” after “radiation-exposed veteran”.
+<b>1992</b>—Subsec. (c)(1). Pub. L. 102–578, §2(a)(1), struck out “to a degree of 10 percent or more within the presumption period (as specified in paragraph (3) of this subsection)” after “radiation-exposed veteran”.
 
 Subsec. (c)(2)(N), (O). Pub. L. 102–578, §2(a)(2), added subpars. (N) and (O).
 
 Subsec. (c)(3), (4). Pub. L. 102–578, §2(a)(3), (4), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The presumption period for purposes of paragraph (1) of this subsection is the 40-year period beginning on the last date on which the veteran participated in a radiation-risk activity.”
 
-1991—Pub. L. 102–83, §5(a), renumbered section 312 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 312 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1110” for “310” and “1113” for “313” in introductory provisions.
 
@@ -204,31 +204,31 @@ Subsec. (c)(4)(A). Pub. L. 102–86, §105(2), amended subsec. (c)(4)(A) of this
 
 Subsec. (c)(4)(B)(iii). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1988—Subsec. (b)(13) to (15). Pub. L. 100–322 added pars. (13) to (15).
+<b>1988</b>—Subsec. (b)(13) to (15). Pub. L. 100–322 added pars. (13) to (15).
 
 Subsec. (c). Pub. L. 100–321 added subsec. (c).
 
-1986—Subsec. (b)(11), (12). Pub. L. 99–576 added pars. (11) and (12).
+<b>1986</b>—Subsec. (b)(11), (12). Pub. L. 99–576 added pars. (11) and (12).
 
-1984—Subsec. (a)(1) to (5). Pub. L. 98–223, §101(c), substituted “percent” for “per centum”.
+<b>1984</b>—Subsec. (a)(1) to (5). Pub. L. 98–223, §101(c), substituted “percent” for “per centum”.
 
 Subsec. (b). Pub. L. 98–223, §111, added par. (10).
 
 Pub. L. 98–223, §101(c), substituted “percent” for “per centum” in provision following par. (10).
 
-1981—Subsecs. (b), (c). Pub. L. 97–37, §4(a)(1), (2), redesignated subsec. (c) as (b) and generally revised structure so as to include anxiety states as a listed disease, and exclude the enumerated armed conflicts and resulting treatment incurred. Former subsec. (b), relating to treatment as a prisoner of war as deemed in violation of the Geneva Conventions of 1929 and 1949, was struck out.
+<b>1981</b>—Subsecs. (b), (c). Pub. L. 97–37, §4(a)(1), (2), redesignated subsec. (c) as (b) and generally revised structure so as to include anxiety states as a listed disease, and exclude the enumerated armed conflicts and resulting treatment incurred. Former subsec. (b), relating to treatment as a prisoner of war as deemed in violation of the Geneva Conventions of 1929 and 1949, was struck out.
 
-1970—Pub. L. 91–376 inserted reference to disabilities in section catchline, designated existing provisions as subsec. (a), and added subsecs. (b) and (c).
+<b>1970</b>—Pub. L. 91–376 inserted reference to disabilities in section catchline, designated existing provisions as subsec. (a), and added subsecs. (b) and (c).
 
-1962—Pub. L. 87–645 substituted “seven years” for “three years” in par. (4).
+<b>1962</b>—Pub. L. 87–645 substituted “seven years” for “three years” in par. (4).
 
-1959—Pub. L. 86–188 inserted par. (5).
+<b>1959</b>—Pub. L. 86–188 inserted par. (5).
 
 Pub. L. 86–187 substituted “three years” for “two years” in par. (4).
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–454, title III, §302(c), Dec. 10, 2004, 118 Stat. 3610, provided that: “Paragraph (4) of section 1112(c) of title 38, United States Code, as added by subsection (a), shall take effect with respect to compensation payments for months beginning after March 26, 2002. Subsection (c) of section 1310 of such title, as added by subsection (b), shall take effect with respect to dependency and indemnity compensation payments for months beginning after March 26, 2002.”
+Pub. L. 108–454, title III, §302(c), Dec. 10, 2004, 118 Stat. 3610, provided that: “Paragraph (4) of section1112(c) of title 38, United States Code, as added by subsection (a), shall take effect with respect to compensation payments for months beginning after March 26, 2002. Subsection (c) of section 1310 of such title, as added by subsection (b), shall take effect with respect to dependency and indemnity compensation payments for months beginning after March 26, 2002.”
 
 Pub. L. 108–454, title III, §306(c), Dec. 10, 2004, 118 Stat. 3612, provided that: “The amendments made by this section \[amending this section\] shall take effect as of March 26, 2002.”
 

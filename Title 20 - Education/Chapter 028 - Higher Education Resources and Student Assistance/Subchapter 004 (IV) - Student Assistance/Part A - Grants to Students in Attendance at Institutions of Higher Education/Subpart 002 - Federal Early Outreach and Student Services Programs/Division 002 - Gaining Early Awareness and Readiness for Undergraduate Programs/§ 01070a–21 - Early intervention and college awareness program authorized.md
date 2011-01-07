@@ -62,7 +62,7 @@ A prior section 1070a–21, Pub. L. 89–329, title IV, §404A, as added Pub. L.
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–315, §404(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary is authorized, in accordance with the requirements of this division, to establish a program that—
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §404(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary is authorized, in accordance with the requirements of this division, to establish a program that—
 
 &emsp;“(1) encourages eligible entities to provide or maintain a guarantee to eligible low-income students who obtain a secondary school diploma (or its recognized equivalent), of the financial assistance necessary to permit the students to attend an institution of higher education; and
 

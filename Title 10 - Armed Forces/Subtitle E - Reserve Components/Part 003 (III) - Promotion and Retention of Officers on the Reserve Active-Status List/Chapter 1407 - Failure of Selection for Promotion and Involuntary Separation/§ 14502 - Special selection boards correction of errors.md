@@ -20,7 +20,7 @@ Officers Considered But Not Selected; Material Error.—(1) In the case of an of
 
 (3) Such board shall consider the record of the officer or former officer as that record, if corrected, would have appeared to the selection board that considered the officer or former officer. That record shall be compared with a sampling of the records of those officers of the same grade and competitive category who were recommended for promotion and those officers of the same grade and competitive category who were not recommended for promotion by that board.
 
-(4) If a special selection board convened under paragraph (1) does not recommend for promotion an officer or former officer in the grade of lieutenant colonel or commander or below whose name was referred to it for consideration, the officer or former officer shall be considered to have failed of selection for promotion by the board which did consider the officer but incursno additional failure of selection for promotion from the action of the special selection board.
+(4) If a special selection board convened under paragraph (1) does not recommend for promotion an officer or former officer in the grade of lieutenant colonel or commander or below whose name was referred to it for consideration, the officer or former officer shall be considered to have failed of selection for promotion by the board which did consider the officer but incurs no additional failure of selection for promotion from the action of the special selection board.
 
 (c)
 
@@ -72,9 +72,9 @@ Provisions similar to those in this section were contained in section 5904 of th
 
 #### Amendments
 
-2006—Subsec. (b)(1)(A). Pub. L. 109–364 inserted “in a matter material to the decision of the board” after “contrary to law”.
+<b>2006</b>—Subsec. (b)(1)(A). Pub. L. 109–364 inserted “in a matter material to the decision of the board” after “contrary to law”.
 
-2001—Subsec. (a)(1). Pub. L. 107–107 inserted “or whose name was not placed on an all-fully-qualified-officers list under section 14308(b)(4) of this title because of administrative error,” after “because of administrative error,”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107 inserted “or whose name was not placed on an all-fully-qualified-officers list under section 14308(b)(4) of this title because of administrative error,” after “because of administrative error,”.
 
 #### Effective Date of 2006 Amendment
 

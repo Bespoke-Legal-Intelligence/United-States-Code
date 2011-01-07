@@ -42,7 +42,7 @@ Where the Secretary, after consultation with any local educational agency and wi
 
 &emsp;(B) If funds appropriated under section 7714(a) of this title are insufficient to pay the amount determined under subparagraph (A), the Secretary shall calculate the payment for each eligible local educational agency in accordance with subsection (h) of this section.
 
-&emsp;(C) Notwithstanding any other provision of this subsection, a local educational agencymay not be paid an amount under this section that, when added to the amount such agency receives under section 7703(b) of this title, exceeds the maximum amount that such agency is eligible to receive for such fiscal year under section 7703(b)(1)(C) of this title, or the maximum amount that such agency is eligible to receive for such fiscal year under this section, whichever is greater.
+&emsp;(C) Notwithstanding any other provision of this subsection, a local educational agency may not be paid an amount under this section that, when added to the amount such agency receives under section 7703(b) of this title, exceeds the maximum amount that such agency is eligible to receive for such fiscal year under section 7703(b)(1)(C) of this title, or the maximum amount that such agency is eligible to receive for such fiscal year under this section, whichever is greater.
 
 #### (2) Application of current levied real property tax rate
 
@@ -120,7 +120,7 @@ For any fiscal year for which the amount appropriated under section 7714(a) of t
 
 #### (B) Amount
 
-&emsp;&emsp;The amount of a payment under subparagraph (A) for a local educational agency shall be equal to 38 percent of the local educational agency's maximum entitlement amount under section 2 of the Act of September 30, 1950, for fiscal year 1994 (or if the local educational agency did not meet, or has not been determined pursuant to statute to meet, the eligibility requirements of section 2(a)(1)(C) of the Act of September 30, 1950 for fiscal year 1994, the local educational agency's maximum entitlement amount under such section 2 for the most recent fiscal year preceding 1994).
+&emsp;&emsp;The amount of a payment under subparagraph (A) for a local educational agency shall be equal to 38 percent of the local educational agency's maximum entitlement amount under section 2 of the Act of September 30, 1950, for fiscal year 1994 (or if the local educational agency did not meet, or has not been determined pursuant to statute to meet, the eligibility requirements of section 2(a)(1)(C) of the Act of September 30, 1950 for fiscal year 1994, the local educational agency's maximum entitlementamount under such section 2 for the most recent fiscal year preceding 1994).
 
 #### (C) Insufficient appropriations
 
@@ -152,7 +152,7 @@ For any fiscal year for which the amount appropriated under section 7714(a) of t
 
 &emsp;&emsp;(A) the Secretary shall make a payment to each local educational agency that received a foundation payment under paragraph (1) for the fiscal year involved in an amount that bears the same relation to 25 percent of the remainder as the amount the local educational agency received under paragraph (1) for the fiscal year involved bears to the amount all local educational agencies received under paragraph (1) for the fiscal year involved; and
 
-&emsp;&emsp;(B) the Secretary shall make a payment to each local educational agency that is eligible to receive a payment under this section for the fiscal year involved in an amount that bears the same relation to 75 percent of the remainder as a percentage share determined for the local educational agency (by dividing the maximum amount that the agency is eligible to receive under subsection (b) of this section by the total of the maximum amounts for all such agencies)bears to the percentage share determined (in the same manner) for all local educational agencies eligible to receive a payment under this section for the fiscal year involved, except that, for the purpose of calculating a local educational agency's maximum amount under subsection (b) of this section, data from the most current fiscal year shall be used.
+&emsp;&emsp;(B) the Secretary shall make a payment to each local educational agency that is eligible to receive a payment under this section for the fiscal year involved in an amount that bears the same relation to 75 percent of the remainder as a percentage share determined for the local educational agency (by dividing the maximum amount that the agency is eligible to receive under subsection (b) of this section by the total of the maximum amounts for all such agencies) bears to the percentage share determined (in the same manner) for all local educational agencies eligible to receive a payment under this section for the fiscal year involved, except that, for the purpose of calculating a local educational agency's maximum amount under subsection (b) of this section, data from the most current fiscal year shall be used.
 
 #### (i) Special payments
 
@@ -234,15 +234,15 @@ A prior section 8002 of Pub. L. 89–10 was renumbered section 9002 and was clas
 
 #### Amendments
 
-2004—Subsec. (m). Pub. L. 108–447 substituted “7 years” for “5 years” in pars. (1), (2)(B), and (3).
+<b>2004</b>—Subsec. (m). Pub. L. 108–447 substituted “7 years” for “5 years” in pars. (1), (2)(B), and (3).
 
-2002—Subsec. (h)(1)(A). Pub. L. 107–110, §801(a)(1), substituted “and that filed, or has been determined pursuant to statute to have filed a timely application, and met, or has been determined pursuant to statute to meet, the eligibility requirements of section 2(a)(1)(C) of the Act of September 30, 1950” for “and was eligible to receive a payment under section 2 of the Act of September 30, 1950”.
+<b>2002</b>—Subsec. (h)(1)(A). Pub. L. 107–110, §801(a)(1), substituted “and that filed, or has been determined pursuant to statute to have filed a timely application, and met, or has been determined pursuant to statute to meet, the eligibility requirements of section 2(a)(1)(C) of the Act of September 30, 1950” for “and was eligible to receive a payment under section 2 of the Act of September 30, 1950”.
 
 Subsec. (h)(1)(B). Pub. L. 107–110, §801(a)(2), substituted “(or if the local educational agency did not meet, or has not been determined pursuant to statute to meet, the eligibility requirements of section 2(a)(1)(C) of the Act of September 30, 1950 for fiscal year 1994” for “(or if the local educational agency was not eligible to receive a payment under such section 2 for fiscal year 1994”.
 
 Subsec. (h)(2)(A). Pub. L. 107–110, §801(b)(1), inserted before period at end “, or whose application under this section for fiscal year 1995 was determined pursuant to statute to be timely filed for purposes of payments for subsequent fiscal years”.
 
-Subsec. (h)(2)(B)(ii). Pub. L. 107–110, §801(b)(2), substituted “for each local educational agency described in subparagraph (A)” for “for each local educational agency that received a payment under this section for fiscal year 1995”.
+Subsec. (h)(2)(B)(ii). Pub. L. 107–110, §801(b)(2), substituted “for each local educational agency described in subparagraph (A)” for “for each local educationalagency that received a payment under this section for fiscal year 1995”.
 
 Subsec. (h)(4)(B). Pub. L. 107–110, §801(c), substituted “(by dividing the maximum amount that the agency is eligible to receive under subsection (b) of this section by the total of the maximum amounts for all such agencies)” for “(in the same manner as percentage shares are determined for local educational agencies under paragraph (2)(B)(ii))” and “, except that, for the purpose of calculating a local educational agency's maximum amount under subsection (b) of this section” for “, except that for the purpose of calculating a local educational agency's assessed value of the Federal property”.
 
@@ -250,7 +250,7 @@ Subsec. (j). Pub. L. 107–110, §801(d), struck out subsec. (j) which authorize
 
 Subsec. (n). Pub. L. 107–110, §801(e), added subsec. (n).
 
-2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803(a)\], substituted “2003” for “1999” in introductory provisions.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803(a)\], substituted “2003” for “1999” in introductory provisions.
 
 Subsec. (b)(1)(A)(i). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803(b)(1)\], designated existing provisions as subcl. (I), substituted “Subject to subclauses (II) and (III), the amount” for “The amount”, struck out “, except that such amount shall be reduced by the Secretary by an amount equal to the amount of revenue, if any, that such agency received during the previous fiscal year from activities conducted on such Federal property” after “in accordance with paragraph (2)”, and added subcls. (II) and (III).
 
@@ -274,15 +274,15 @@ Subsec. (<i>l</i>). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803(f)\
 
 Subsec. (m). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803(g)\], added subsec. (m).
 
-1999—Subsec. (f)(3) to (5). Pub. L. 106–113 added pars. (3) to (5).
+<b>1999</b>—Subsec. (f)(3) to (5). Pub. L. 106–113 added pars. (3) to (5).
 
-1998—Subsec. (f). Pub. L. 105–277 designated existing provisions as par. (1) and added par. (2).
+<b>1998</b>—Subsec. (f). Pub. L. 105–277 designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (k). Pub. L. 105–277 added subsec. (k).
 
-1997—Subsec. (h)(1)(C). Pub. L. 105–18, §60004, added subpar. (C).
+<b>1997</b>—Subsec. (h)(1)(C). Pub. L. 105–18, §60004, added subpar. (C).
 
-Subsec. (i). Pub. L. 105–18, §60006, amended heading and text of subsec. (i) generally. Prior to amendment,text read as follows: “Notwithstanding subsection (b)(1)(B) of this section, and for any fiscal year beginning with fiscal year 1997 for which the amount appropriated to carry out this section exceeds the amount so appropriated for fiscal year 1996, the Secretary shall first use such excess amount to increase the payment that would otherwise be made under this section to not more than 50 percent of the maximum amount determined under subsection (b) of this section for any local educational agency that—
+Subsec. (i). Pub. L. 105–18, §60006, amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: “Notwithstanding subsection (b)(1)(B) of this section, and for any fiscal year beginning with fiscal year 1997 for which the amount appropriated to carry out this section exceeds the amount so appropriated for fiscal year 1996, the Secretary shall first use such excess amount to increase the payment that would otherwise be made under this section to not more than 50 percent of the maximum amount determined under subsection (b) of this section for any local educational agency that—
 
 &emsp;“(1) received a payment under this section for fiscal year 1996;
 
@@ -294,7 +294,7 @@ Subsec. (i). Pub. L. 105–18, §60006, amended heading and text of subsec. (i) 
 
 Subsec. (j). Pub. L. 105–78 added subsec. (j).
 
-1996—Subsecs. (g), (h). Pub. L. 104–195, §1, added subsecs. (g) and (h).
+<b>1996</b>—Subsecs. (g), (h). Pub. L. 104–195, §1, added subsecs. (g) and (h).
 
 Subsec. (i). Pub. L. 104–195, §6, added subsec. (i).
 

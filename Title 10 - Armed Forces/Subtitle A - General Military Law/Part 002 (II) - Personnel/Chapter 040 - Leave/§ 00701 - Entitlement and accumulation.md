@@ -16,7 +16,7 @@
 
 (c) A member who retired after August 9, 1946, who is continued on, or is recalled to active duty, may have his leave which accumulated during his service before retirement carried over to his period of service after retirement.
 
-(d) Notwithstanding subsection (b), during the period beginning on October 1, 2008, through September 30, 2013, a member may accumulate up to 75 days of leave.
+(d) Notwithstanding subsection (b), during the period beginning on October 1, 2008, throughSeptember 30, 2013, a member may accumulate up to 75 days of leave.
 
 (e) Leave taken before discharge is considered to be active service.
 
@@ -56,7 +56,9 @@
 
 (2) Leave under paragraph (1) is in addition to other leave authorized under this section.
 
-(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 89–151, §3, Aug. 28, 1965, 79 Stat. 586; Pub. L. 90–245, §1, Jan. 2, 1968, 81 Stat. 782; Pub. L. 92–596, §1, Oct. 27, 1972, 86 Stat. 1317; Pub. L. 96–579, §10, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–81, §2(a), Nov. 20, 1981, 95 Stat. 1085; Pub. L. 98–94, title X, §1031(a), Sept. 24, 1983, 97 Stat. 671; Pub. L. 98–525, title XIV, §1405(18), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–661, div. A, title V, §506(a), Nov. 14, 1986, 100 Stat. 3864; Pub. L. 102–190, div. A, title VI, §638, Dec. 5, 1991, 105 Stat. 1384; Pub. L. 108–136, div. A, title V, §542(a), Nov. 24, 2003, 117 Stat. 1478; Pub. L. 109–163, div. A, title V, §593(a), title VI, §682, Jan. 6, 2006, 119 Stat. 3280, 3321; Pub. L. 110–181, div. A, title V, §551(a)–(c), Jan. 28, 2008, 122 Stat. 117; Pub. L. 110–417, \[div. A\], title V, §532(a), Oct. 14, 2008, 122 Stat. 4449; Pub. L. 111–84, div. A, title V, §504, Oct. 28, 2009, 123 Stat. 2277.)
+(k) A member of a reserve component who accumulates leave during a period of active service may carry over any leave so accumulated to the member's next period of active service, subject to the accumulation limits in subsections (b), (d), and (f), without regard to separation or release from active service if the separation or release is under honorable conditions. The taking of leave carried over under this subsection shall be subject to the provisions of this section.
+
+(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 89–151, §3, Aug. 28, 1965, 79 Stat. 586; Pub. L. 90–245, §1, Jan. 2, 1968, 81 Stat. 782; Pub. L. 92–596, §1, Oct. 27, 1972, 86 Stat. 1317; Pub. L. 96–579, §10, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–81, §2(a), Nov. 20, 1981, 95 Stat. 1085; Pub. L. 98–94, title X, §1031(a), Sept. 24, 1983, 97 Stat. 671; Pub. L. 98–525, title XIV, §1405(18), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–661, div. A, title V, §506(a), Nov. 14, 1986, 100 Stat. 3864; Pub. L. 102–190, div. A, title VI, §638, Dec. 5, 1991, 105 Stat. 1384; Pub. L. 108–136, div. A, title V, §542(a), Nov. 24, 2003, 117 Stat. 1478; Pub. L. 109–163, div. A, title V, §593(a), title VI, §682, Jan. 6, 2006, 119 Stat. 3280, 3321; Pub. L. 110–181, div. A, title V, §551(a)–(c), Jan. 28, 2008, 122 Stat. 117; Pub. L.110–417, \[div. A\], title V, §532(a), Oct. 14, 2008, 122 Stat. 4449; Pub. L. 111–84, div. A, title V, §504, Oct. 28, 2009, 123 Stat. 2277; Pub. L. 111–383, div. A, title V, §516(a), Jan. 7, 2011, 124 Stat. 4213.)
 
 Historical and Revision Notes
 
@@ -100,9 +102,11 @@ In subsection (e), the words “before or after August 9, 1946” and section 31
 
 #### Amendments
 
-2009—Subsec. (d). Pub. L. 111–84 substituted “September 30, 2013” for “December 31, 2010”.
+<b>2011</b>—Subsec. (k). Pub. L. 111–383 added subsec. (k).
 
-2008—Subsec. (b). Pub. L. 110–181, §551(a)(1), substituted “subsections (d), (f), and (g)” for “subsection (f) and subsection (g)”.
+<b>2009</b>—Subsec. (d). Pub. L. 111–84 substituted “September 30, 2013” for “December 31, 2010”.
+
+<b>2008</b>—Subsec. (b). Pub. L. 110–181, §551(a)(1), substituted “subsections (d), (f), and (g)” for “subsection (f) and subsection (g)”.
 
 Subsec. (d). Pub. L. 110–181, §551(a)(2), added subsec. (d).
 
@@ -120,7 +124,7 @@ Subsec. (g). Pub. L. 110–181, §551(c), substituted “limitations in subsecti
 
 Subsec. (j). Pub. L. 110–417 added subsec. (j).
 
-2006—Subsec. (f)(1)(B). Pub. L. 109–163, §682, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “This subsection applies to a member who serves on active duty for a continuous period of at least 120 days—
+<b>2006</b>—Subsec. (f)(1)(B). Pub. L. 109–163, §682, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “This subsection applies to a member who serves on active duty for a continuous period of at least 120 days—
 
 &emsp;“(i) in an area in which the member is entitled to special pay under section 310(a) of title 37; or
 
@@ -128,33 +132,33 @@ Subsec. (j). Pub. L. 110–417 added subsec. (j).
 
 Subsec. (i). Pub. L. 109–163, §593(a), added subsec. (i).
 
-2003—Subsec. (f)(1). Pub. L. 108–136 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Under uniform regulations to be prescribed by the Secretary concerned, and approved by the Secretary of Defense, a member who serves on active duty for a continuous period of at least 120 days in an area in which he is entitled to special pay under section 310(a) of title 37 or a member assigned to a deployable ship, mobile unit, or to other duty designated for the purpose of this section, may accumulate 90 days’ leave. Except as provided in paragraph (2), leave in excess of 60 days accumulated under this subsection is lost unless it is used by the member before the end of the third fiscal year after the fiscal year in which the service terminated.”
+<b>2003</b>—Subsec. (f)(1). Pub. L. 108–136 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Under uniform regulations to be prescribed by the Secretary concerned, and approved by the Secretary of Defense, a member who serves on active duty for a continuous period of at least 120 days in an area in which he is entitled to special pay under section 310(a) of title 37 or a member assigned to a deployable ship, mobile unit, or to other duty designated for the purpose of this section, may accumulate 90 days’ leave. Except as provided in paragraph (2), leave in excess of 60 days accumulated under this subsection is lost unless it is used by the member before the end of the third fiscal year after the fiscal year in which the service terminated.”
 
-1991—Subsec. (f). Pub. L. 102–190 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), leave” for “Leave” in last sentence, and added par. (2).
+<b>1991</b>—Subsec. (f). Pub. L. 102–190 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), leave” for “Leave” in last sentence, and added par. (2).
 
-1986—Subsec. (h). Pub. L. 99–661 added subsec. (h).
+<b>1986</b>—Subsec. (h). Pub. L. 99–661 added subsec. (h).
 
-1984—Subsec. (g). Pub. L. 98–525 substituted “60-day” for “sixty-day”, “90-day” for “ninety-day”, and “150” for “one hundred and fifty” in two places.
+<b>1984</b>—Subsec. (g). Pub. L. 98–525 substituted “60-day” for “sixty-day”, “90-day” for “ninety-day”, and “150” for “one hundred and fifty” in two places.
 
-1983—Subsec. (f). Pub. L. 98–94 substituted “the end of the third fiscal year” for “the end of the fiscal year”.
+<b>1983</b>—Subsec. (f). Pub. L. 98–94 substituted “the end of the third fiscal year” for “the end of the fiscal year”.
 
-1981—Subsec. (a)(2). Pub. L. 97–81, §2(a)(1), struck out “and” at end of par. (2).
+<b>1981</b>—Subsec. (a)(2). Pub. L. 97–81, §2(a)(1), struck out “and” at end of par. (2).
 
 Subsec. (a)(3). Pub. L. 97–81, §2(a)(2), substituted “; and” for a period at end of par. (3).
 
 Subsec. (a)(4). Pub. L. 97–81, §2(a)(3), added par. (4).
 
-1980—Subsec. (f). Pub. L. 96–579 authorized accumulation of leave for service as a member assigned to a deployable ship, mobile unit, or to other duty designated for the purpose of this section.
+<b>1980</b>—Subsec. (f). Pub. L. 96–579 authorized accumulation of leave for service as a member assigned to a deployable ship, mobile unit, or to other duty designated for the purpose of this section.
 
-1972—Subsec. (b). Pub. L. 92–596, §1(1), inserted reference to subsec. (g).
+<b>1972</b>—Subsec. (b). Pub. L. 92–596, §1(1), inserted reference to subsec. (g).
 
 Subsec. (g). Pub. L. 92–596, §1(2), added subsec. (g).
 
-1968—Subsec. (b). Pub. L. 90–245, §1(1), inserted reference to subsec. (f).
+<b>1968</b>—Subsec. (b). Pub. L. 90–245, §1(1), inserted reference to subsec. (f).
 
 Subsec. (f). Pub. L. 90–245, §1(2), added subsec. (f).
 
-1965—Subsec. (d). Pub. L. 89–151 repealed subsec. (d) which provided that accumulated leave did not survive the death of a member during active service.
+<b>1965</b>—Subsec. (d). Pub. L. 89–151 repealed subsec. (d) which provided that accumulated leave did not survive the death of a member during active service.
 
 #### Effective Date of 2008 Amendment
 

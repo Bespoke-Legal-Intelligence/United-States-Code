@@ -24,5 +24,5 @@ There is hereby authorized to be appropriated to carry out the purposes of this 
 
 #### Amendments
 
-1996—Pub. L. 104–271 substituted “under other Acts” for “to other Acts” in introductory provisions and added pars. (4) to (9).
+<b>1996</b>—Pub. L. 104–271 substituted “under other Acts” for “to other Acts” in introductory provisions and added pars. (4) to (9).
 

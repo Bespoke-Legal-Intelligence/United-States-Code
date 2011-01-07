@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-No United States supplier of defense articles or services sold or licensed under this chapter, nor any employee, agent, or subcontractor thereof, shall, with respect to the sale or export of any such defense article or defense service to a foreign country, make any incentive payments for the purpose of satisfying, in whole or in part, any offset agreement with that country.
+No United States supplier of defense articles or services sold or licensed under this chapter or exported pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title, nor any employee, agent, or subcontractor thereof, shall, with respect to the sale or export of any such defense article or defense service to a foreign country, make any incentive payments for the purpose of satisfying, in whole or in part, any offset agreement with that country.
 
 #### (b) Civil penalties
 
@@ -18,7 +18,7 @@ For purposes of this section—
 
 &emsp;(1) the term “offset agreement” means an agreement, arrangement, or understanding between a United States supplier of defense articles or defense services and a foreign country under which the supplier agrees to purchase or acquire, or to promote the purchase or acquisition by other United States persons of, goods or services produced, manufactured, grown, or extracted, in whole or in part, in that foreign country in consideration for the purchase by the foreign country of defense articles or defense services from the supplier;
 
-&emsp;(2) the term “incentive payments” means direct monetary compensation made by a United States supplier of defense articles or defense services or by any employee, agent or subcontractor thereof to any other United States person to induce or persuade that United States person to purchase or acquire goods orservices produced, manufactured, grown, or extracted, in whole or in part, in the foreign country which is purchasing those defense articles or services from the United States supplier; and
+&emsp;(2) the term “incentive payments” means direct monetary compensation made by a United States supplier of defense articles or defense services or by any employee, agent or subcontractor thereof to any other United States person to induce or persuade that United States person to purchase or acquire goods or services produced, manufactured, grown, or extracted, in whole or in part, in the foreign country which is purchasing those defense articles or services from the United States supplier; and
 
 &emsp;(3) the term “United States person” means—
 
@@ -30,15 +30,19 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) owned or controlled in fact by individuals described in subparagraph (A) or by an entity described in clause (i).
 
-(Pub. L. 90–629, ch. 3, §39A, as added Pub. L. 103–236, title VII, §733, Apr. 30, 1994, 108 Stat. 504; amended Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1246, title XIII, §1303\], Nov. 29, 1999, 113 Stat. 1536, 1501A–502, 1501A–511.)
+(Pub. L. 90–629, ch. 3, §39A, as added Pub. L. 103–236, title VII, §733, Apr. 30, 1994, 108 Stat. 504; amended Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1246, title XIII, §1303\], Nov. 29, 1999, 113 Stat. 1536, 1501A–502, 1501A–511; Pub. L. 111–266, title I, §103(d), Oct. 8, 2010, 124 Stat. 2799.)
 
 #### References in Text
+
+This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Export Administration Act of 1979, referred to in subsec. (c), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of Title 50, Appendix, and Tables.
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–113, §1000(a)(7) \[title XII, §1246(a)\], inserted “or licensed” after “sold” and “or export” after “sale”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–266 inserted “or exported pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title” after “under this chapter”.
+
+<b>1999</b>—Subsec. (a). Pub. L. 106–113, §1000(a)(7) \[title XII, §1246(a)\], inserted “or licensed” after “sold” and “or export” after “sale”.
 
 Subsec. (c). Pub. L. 106–113, §1000(a)(7) \[title XIII, §1303\], inserted “section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that” after “except that”.
 

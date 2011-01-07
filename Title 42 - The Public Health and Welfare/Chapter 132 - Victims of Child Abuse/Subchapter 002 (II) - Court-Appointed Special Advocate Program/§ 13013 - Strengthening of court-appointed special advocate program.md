@@ -48,7 +48,7 @@ State and local Court Appointed Special Advocate programs are authorized to requ
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–162, §112(c)(1), substituted “to initiate, sustain, and expand” for “to expand”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–162, §112(c)(1), substituted “to initiate, sustain, and expand” for “to expand”.
 
 Subsec. (b)(1). Pub. L. 109–162, §112(c)(2)(A), substituted “subsection (a) of this section—” for “subsection (a) of this section”, inserted subpar. (A) designation before “shall be”, and substituted “(B) may be” for “(2) may be” and “to initiate, sustain, and expand” for “to initiate or expand”.
 
@@ -56,7 +56,7 @@ Subsec. (b)(2). Pub. L. 109–162, §112(c)(2)(B), substituted “(1)(A)” for 
 
 Subsec. (d). Pub. L. 109–162, §112(c)(3), added subsec. (d).
 
-2002—Subsec. (c)(1). Pub. L. 107–273 substituted “sections 5673 and 5676 of this title” for “sections 5665a, 5673, and 5676 of this title”.
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–273 substituted “sections 5673 and 5676 of this title” for “sections 5665a, 5673, and 5676 of this title”.
 
 #### Effective Date of 2002 Amendment
 

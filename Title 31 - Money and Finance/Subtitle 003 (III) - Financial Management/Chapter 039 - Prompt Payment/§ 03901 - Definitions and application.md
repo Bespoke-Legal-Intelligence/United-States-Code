@@ -78,11 +78,11 @@ In subsection (b), the words “the authority of” are omitted as surplus.
 
 #### Amendments
 
-1998—Subsec. (c). Pub. L. 105–362 struck out “, except section 3906 of this title,” after “This chapter”.
+<b>1998</b>—Subsec. (c). Pub. L. 105–362 struck out “, except section 3906 of this title,” after “This chapter”.
 
 Subsec. (d). Pub. L. 105–277 added subsec. (d).
 
-1988—Subsec. (a)(4). Pub. L. 100–496, §2(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the head of an agency is deemed to receive an invoice on the later of the dates that—
+<b>1988</b>—Subsec. (a)(4). Pub. L. 100–496, §2(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the head of an agency is deemed to receive an invoice on the later of the dates that—
 
 &emsp;“(A) the designated payment office or finance center of the agency actually receives a proper invoice; or
 

@@ -14,11 +14,11 @@
 
 &emsp;(F) such other information as the Commission may require to determine whether the applicant is qualified for registration.
 
-(2) Each registration under this section shall expire on the 30th day of June of each year, orat such other time, not less than one year from the effective date thereof, as the Commission may by rule, regulation, or order prescribe, and shall be renewed upon application therefor subject to the same requirements as in the case of an original application.
+(2) Each registration under this section shall expire on the 30th day of June of each year, or at such other time, not less than one year from the effective date thereof, as the Commission may by rule, regulation, or order prescribe, and shall be renewed upon application therefor subject to the same requirements as in the case of an original application.
 
 (3)(A) Every commodity trading advisor and commodity pool operator registered under this chapter shall maintain books and records and file such reports in such form and manner as may be prescribed by the Commission. All such books and records shall be kept for a period of at least three years, or longer if the Commission so directs, and shall be open to inspection by any representative of the Commission or the Department of Justice. Upon the request of the Commission, a registered commodity trading advisor or commodity pool operator shall furnish the name and address of each client, subscriber, or participant, and submit samples or copies of all reports, letters, circulars, memorandums, publications, writings, or other literature or advice distributed to clients, subscribers, or participants, or prospective clients, subscribers, or participants.
 
-(B) Unless otherwise authorized by the Commission by rule or regulation, all commodity trading advisors and commodity pool operators shall make a full and complete disclosure to their subscribers, clients, or participants of all futures market positions taken or held by the individual principals of their organization.
+(B) Unless otherwise authorized by the Commission by rule or regulation, all commoditytrading advisors and commodity pool operators shall make a full and complete disclosure to their subscribers, clients, or participants of all futures market positions taken or held by the individual principals of their organization.
 
 (4) Every commodity pool operator shall regularly furnish statements of account to each participant in his operations. Such statements shall be in such form and manner as may be prescribed by the Commission and shall include complete information as to the current status of all trading accounts in which such participant has an interest.
 

@@ -54,7 +54,7 @@ Nothing in this section or section 1395ddd(g) <sup>1</sup> of this title shall 
 
 For purposes of this section, the term “medicare contractor” includes the following:
 
-&emsp;(1) A medicare administrative contractor with a contract under section 1395kk–1 of thistitle, including a fiscal intermediary with a contract under section 1395h of this title and a carrier with a contract under section 1395u of this title.
+&emsp;(1) A medicare administrative contractor with a contract under section 1395kk–1 of this title, including a fiscal intermediary with a contract under section 1395h of this title and a carrier with a contract under section 1395u of this title.
 
 &emsp;(2) An eligible entity with a contract under section 1395ddd of this title.
 
@@ -70,7 +70,7 @@ Another prior section 1395zz, act Aug. 14, 1935, ch. 531, title XVIII, §1889, f
 
 #### Amendments
 
-2003—Subsecs. (b), (c). Pub. L. 108–173, §921(d)(1), added subsecs. (b) and (c).
+<b>2003</b>—Subsecs. (b), (c). Pub. L. 108–173, §921(d)(1), added subsecs. (b) and (c).
 
 Subsec. (d). Pub. L. 108–173, §921(e)(1), added subsec. (d).
 

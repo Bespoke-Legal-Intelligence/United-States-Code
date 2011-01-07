@@ -19,7 +19,7 @@ Another prior subpart C, consisting of sections 5101 to 5106, related to manufac
 
 #### Amendments
 
-2005—Pub. L. 109–59, title XI, §11125(b)(4), Aug. 10, 2005, 119 Stat. 1954, added subpart heading and items 5121 to 5124.
+<b>2005</b>—Pub. L. 109–59, title XI, §11125(b)(4), Aug. 10, 2005, 119 Stat. 1954, added subpart heading and items 5121 to 5124.
 
 
 ---

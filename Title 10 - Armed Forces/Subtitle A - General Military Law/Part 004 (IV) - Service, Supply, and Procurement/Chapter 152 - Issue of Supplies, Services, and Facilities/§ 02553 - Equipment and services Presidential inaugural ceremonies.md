@@ -86,13 +86,13 @@ A prior section 2553 was renumbered section 2563 of this title.
 
 #### Amendments
 
-2000—Pub. L. 106–398 renumbered section 2543 of this title as this section.
+<b>2000</b>—Pub. L. 106–398 renumbered section 2543 of this title as this section.
 
-1998—Subsec. (e)(1). Pub. L. 105–225, §4(a)(2)(A), substituted “section 501 of title 36” for “subsection (b)(2) of the first section of the Presidential Inaugural Ceremonies Act (36 U.S.C. 721)”.
+<b>1998</b>—Subsec. (e)(1). Pub. L. 105–225, §4(a)(2)(A), substituted “section 501 of title 36” for “subsection (b)(2) of the first section of the Presidential Inaugural Ceremonies Act (36 U.S.C. 721)”.
 
 Subsec. (e)(2). Pub. L. 105–225, §4(a)(2)(B), substituted “section 507 of title 36” for “the proviso in section 9 of the Presidential Inaugural Ceremonies Act (36 U.S.C. 729)”.
 
-1996—Pub. L. 104–201 substituted “Equipment and services: Presidential inaugural ceremonies” for “Equipment: Inaugural Committee” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1996</b>—Pub. L. 104–201 substituted “Equipment and services: Presidential inaugural ceremonies” for “Equipment: Inaugural Committee” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) The Secretary of Defense, under such conditions as he may prescribe, may lend, to an Inaugural Committee established under the first section of the Presidential Inaugural Ceremonies Act (36 U.S.C. 721), hospital tents, smaller tents, camp appliances, hospital furniture, flags other than battle flags, flagpoles, litters, and ambulances and the services of their drivers, that can be spared without detriment to the public service.
 
@@ -104,7 +104,7 @@ Subsec. (e)(2). Pub. L. 105–225, §4(a)(2)(B), substituted “section 507 of t
 
 &emsp;“(2) defray any expense incurred for the delivery, return, rehabilitation, replacement, or operation of that property.”
 
-1980—Subsec. (a). Pub. L. 96–513 substituted “the first section of the Presidential Inaugural Ceremonies Act (36 U.S.C. 721)” for “section 721 of title 36”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “the first section of the Presidential Inaugural Ceremonies Act (36 U.S.C. 721)” for “section 721 of title 36”.
 
 #### Effective Date of 1980 Amendment
 

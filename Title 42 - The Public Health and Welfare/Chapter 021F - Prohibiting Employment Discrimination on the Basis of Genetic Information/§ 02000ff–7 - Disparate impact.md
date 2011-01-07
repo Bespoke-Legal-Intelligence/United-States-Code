@@ -28,7 +28,7 @@ On the date that is 6 years after May 21, 2008, there shall be established a com
 
 &emsp;&emsp;(G) 1 member shall be appointed by the Chairman of the Committee on Education and Labor of the House of Representatives; and
 
-&emsp;&emsp;(H) 1 member shall be appointed by the ranking minority member of the Committee on Education and Labor of the House of Representatives.
+&emsp;&emsp;(H) 1 member shall be appointed by the ranking minority member of the Committeeon Education and Labor of the House of Representatives.
 
 #### (2) Compensation and expenses
 
@@ -68,5 +68,5 @@ There are authorized to be appropriated to the Equal Employment Opportunity Comm
 
 #### References in Text
 
-This Act, referred to in subsecs. (a), (b), and (e), is Pub. L. 110–233, May 21, 2008, 122 Stat. 881, known as the Genetic Information Nondiscrimination Act of 2008, which enacted this chapter, sections 300gg–53 and1320d–9 of this title, and section 9834 of Title 26, Internal Revenue Code, amended sections 300gg–1, 300gg–21, 300gg–22, 300gg–61, 300gg–91, and 1395ss of this title, sections 9802 and 9832 of Title 26, and sections 216, 1132, 1182, and 1191b of Title 29, Labor, and enacted provisions set out as notes under sections 300gg–1, 1320d–9, 1395ss, and 2000ff of this title, section 9802 of Title 26, and sections 216 and 1132 of Title 29. For complete classification of such Act to the Code, see Short Title note set section 2000ff of this title and Tables.
+This Act, referred to in subsecs. (a), (b), and (e), is Pub. L. 110–233, May 21, 2008, 122 Stat. 881, known as the Genetic Information Nondiscrimination Act of 2008. For complete classification of this Act to the Code, see Short Title note set out under section 2000ff of this title and Tables.
 

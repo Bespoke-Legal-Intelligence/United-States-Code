@@ -42,7 +42,7 @@ The Board may obtain facilities, services, and supplies through the general admi
 
 #### Amendments
 
-1999—Subsec. (f). Pub. L. 106–113 added subsec. (f).
+<b>1999</b>—Subsec. (f). Pub. L. 106–113 added subsec. (f).
 
 #### Change of Name
 

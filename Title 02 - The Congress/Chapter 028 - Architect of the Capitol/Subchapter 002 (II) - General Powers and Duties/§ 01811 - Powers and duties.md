@@ -52,7 +52,7 @@ In general.—There is established in the Treasury a revolving fund for the Offi
 
 &emsp;“(2)
 
-Use of fund.—Amounts in the revolving fund established under paragraph (1) shall be available without fiscal year limitation to the Architect of theCapitol, subject to the Architect providing prior notice to the Committees on Appropriations of the House of Representatives and Senate—
+Use of fund.—Amounts in the revolving fund established under paragraph (1) shall be available without fiscal year limitation to the Architect of the Capitol, subject to the Architect providing prior notice to the Committees on Appropriations of the House of Representatives and Senate—
 
 &emsp;&emsp;“(A) to carry out the program established under this section;
 
@@ -66,5 +66,5 @@ Effective Date.—This section shall apply with respect to each of the fiscal ye
 
 #### Acquisition of Property by Architect of the Capitol
 
-Pub. L. 107–68, title I, §128, Nov. 12, 2001, 115 Stat. 579, provided that: “Notwithstanding any other provision of law and subject to the availability of appropriations, the Architect of the Capitol is authorized to secure, through multi-year rental, lease, or other appropriate agreement, the property located at 67 K Street, S.W., Washington, D.C., for use of Legislative Branch agencies, and to incur any necessary incidental expenses including maintenance, alterations, and repairs in connection therewith: <i>Provided</i>, That in connection with the property referred to under the preceding proviso, the Architect of the Capitol is authorized to expend funds appropriated to the Architect of the Capitol for the purpose of the operations and support of Legislative Branch agencies, including the United States Capitol Police, as may be required for that purpose.”
+Pub. L. 107–68, title I, §128, Nov. 12, 2001, 115 Stat. 579, provided that: “Notwithstanding any other provision of law and subject to the availability of appropriations, the Architect of the Capitol is authorized to secure, through multi-year rental, lease, or other appropriateagreement, the property located at 67 K Street, S.W., Washington, D.C., for use of Legislative Branch agencies, and to incur any necessary incidental expenses including maintenance, alterations, and repairs in connection therewith: <i>Provided</i>, That in connection with the property referred to under the preceding proviso, the Architect of the Capitol is authorized to expend funds appropriated to the Architect of the Capitol for the purpose of the operations and support of Legislative Branch agencies, including the United States Capitol Police, as may be required for that purpose.”
 

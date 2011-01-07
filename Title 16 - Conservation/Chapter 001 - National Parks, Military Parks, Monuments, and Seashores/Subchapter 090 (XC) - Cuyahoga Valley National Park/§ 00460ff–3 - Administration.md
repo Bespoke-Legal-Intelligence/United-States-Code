@@ -38,11 +38,11 @@ The Secretary may, on his own initiative, or at the request of any local governm
 
 #### Amendments
 
-2000—Pub. L. 106–291 substituted “park” for “recreation area” wherever appearing.
+<b>2000</b>—Pub. L. 106–291 substituted “park” for “recreation area” wherever appearing.
 
-1986—Subsec. (c). Pub. L. 99–658 designated existing provision as par. (1) and added par. (2).
+<b>1986</b>—Subsec. (c). Pub. L. 99–658 designated existing provision as par. (1) and added par. (2).
 
-1978—Subsec. (f). Pub. L. 95–625 inserted in introductory text “(or intergovernmental organization)” after “local government” in two places, and last sentence providing that assistance may include payments for technical aid.
+<b>1978</b>—Subsec. (f). Pub. L. 95–625 inserted in introductory text “(or intergovernmental organization)” after “local government” in two places, and last sentence providing that assistance may include payments for technical aid.
 
 #### Appropriations for Roads
 

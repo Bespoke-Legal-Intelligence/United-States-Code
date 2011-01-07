@@ -50,9 +50,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (c)(1)(B). Pub. L. 110–246, §4002(b)(1)(E), (2)(M), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
+<b>2008</b>—Subsec. (c)(1)(B). Pub. L. 110–246, §4002(b)(1)(E), (2)(M), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
 
-1996—Pub. L. 104–208 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
+<b>1996</b>—Pub. L. 104–208 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
 “Whoever falsely makes, forges, counterfeits, mutilates, or alters the seal of any department or agency of the United States; or
 
@@ -62,7 +62,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 “Shall be fined under this title or imprisoned not more than five years, or both.”
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
 #### Effective Date of 2008 Amendment
 

@@ -42,21 +42,23 @@
 
 &emsp;(4) information or guidelines relating to the needs of the armed force concerned for officers having particular skills, including guidelines or information relating to the need for either a minimum number or a maximum number of officers with particular skills within a competitive category;
 
-&emsp;(5) guidelines, based upon guidelines received by the Secretary from the Secretary of Defense under subsection (c), for the purpose of ensuring that the board gives appropriate consideration to the performance in joint duty assignments of officers who are serving, or have served, in such assignments; and
+&emsp;(5) guidelines, based upon guidelines received by the Secretary from the Secretary of Defense under subsection (c), for the purpose of ensuring that the board gives appropriate consideration to the performance of officers who are serving on, or have served on, the Joint Staff or are joint qualified officers; and
 
 &emsp;(6) such other information and guidelines as may be necessary to enable the board to properly perform its functions.
 
-(c) The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall furnish to the Secretaries of the military departments guidelines for the purpose of ensuring that each selection board convened under section 611(a) of this title gives appropriate consideration to the performance in joint duty assignments of officers who are serving, or have served, in such assignments.
+(c) The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall furnish to the Secretaries of the military departments guidelines for the purpose of ensuring that each selection board convened under section 611(a) of this title gives appropriate consideration to the performance of officers who are serving on, or have served on, the Joint Staff or are joint qualified officers.
 
 (d) Information or guidelines furnished to a selection board under subsection (b) may not be modified, withdrawn, or supplemented after the board submits the report to the Secretary of the military department concerned pursuant to section 617(a) of this title, except that, in the case of a report returned to a board pursuant to section 618(a)(2) of this title for further proceedings because of a determination by the Secretary of the military department concerned that the board acted contrary to law, regulation, or guidelines, the Secretary may modify, withdraw, or supplement such information or guidelines as part of a written explanation to the board as provided in that section.
 
 (e) The Secretary of each military department, under uniform regulations prescribed by the Secretary of Defense, shall include in guidelines furnished to a selection board convened under section 611(a) of this title that is considering officers in a health-professions competitive category for promotion to a grade below colonel or, in the case of the Navy, captain, a direction that the board give consideration to an officer's clinical proficiency and skill as a health professional to at least as great an extent as the board gives to the officer's administrative and management skills.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2852; amended Pub. L. 99–433, title IV, §402(b), Oct. 1, 1986, 100 Stat. 1030; Pub. L. 100–456, div. A, title V, §501(a), Sept. 29, 1988, 102 Stat. 1965; Pub. L. 101–189, div. A, title V, §519, Nov. 29, 1989, 103 Stat. 1444; Pub. L. 102–190, div. A, title V, §504(a)(1), Dec. 5, 1991, 105 Stat. 1355; Pub. L. 102–484, div. A, title X, §1052(7), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 109–163, div. A, title V, §506(a), Jan. 6, 2006, 119 Stat. 3227.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2852; amended Pub. L. 99–433, title IV, §402(b), Oct. 1, 1986, 100 Stat. 1030; Pub. L. 100–456, div. A, title V, §501(a), Sept. 29, 1988, 102 Stat. 1965; Pub. L. 101–189, div. A, title V, §519, Nov. 29, 1989, 103 Stat. 1444; Pub. L. 102–190, div. A, title V, §504(a)(1), Dec. 5, 1991, 105 Stat. 1355; Pub. L. 102–484, div. A, title X, §1052(7), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 109–163, div. A, title V, §506(a), Jan. 6, 2006, 119 Stat. 3227; Pub. L. 111–383, div. A, title V, §522(b), Jan. 7, 2011, 124 Stat. 4215.)
 
 #### Amendments
 
-2006—Subsec. (a)(3). Pub. L. 109–163, §506(a)(1)(B), added par. (3). Former par. (3) redesignated (4).
+<b>2011</b>—Subsecs. (b)(5), (c). Pub. L. 111–383 substituted “of officers who are serving on, or have served on, the Joint Staff or are joint qualified officers” for “in joint duty assignments of officers who are serving, or have served, in such assignments”.
+
+<b>2006</b>—Subsec. (a)(3). Pub. L. 109–163, §506(a)(1)(B), added par. (3). Former par. (3) redesignated (4).
 
 Subsec. (a)(4). Pub. L. 109–163, §506(a)(2)(A), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
@@ -76,19 +78,19 @@ Subsec. (a)(7). Pub. L. 109–163, §506(a)(1)(A), redesignated par. (6) as (7).
 
 Subsec. (a)(7)(A). Pub. L. 109–163, §506(a)(2)(D), inserted “or (3)” after “paragraph (2)(B)” in introductory provisions.
 
-1992—Subsec. (b)(5). Pub. L. 102–484, §1052(7)(A), substituted “subsection (c)” for “subsection (b)”.
+<b>1992</b>—Subsec. (b)(5). Pub. L. 102–484, §1052(7)(A), substituted “subsection (c)” for “subsection (b)”.
 
 Subsec. (d). Pub. L. 102–484, §1052(7)(B), substituted “subsection (b)” for “subsection (a)”.
 
-1991—Pub. L. 102–190 added subsec. (a) and redesignated former subsecs. (a) to (d) as (b) to (e), respectively.
+<b>1991</b>—Pub. L. 102–190 added subsec. (a) and redesignated former subsecs. (a) to (d) as (b) to (e), respectively.
 
-1989—Subsec. (d). Pub. L. 101–189 added subsec. (d).
+<b>1989</b>—Subsec. (d). Pub. L. 101–189 added subsec. (d).
 
-1988—Subsec. (a)(4). Pub. L. 100–456, §501(a)(1), added cl. (4) and struck out former cl. (4) which read as follows: “information relating to the needs of the armed force concerned for officers having particular skills;”.
+<b>1988</b>—Subsec. (a)(4). Pub. L. 100–456, §501(a)(1), added cl. (4) and struck out former cl. (4) which read as follows: “information relating to the needs of the armed force concerned for officers having particular skills;”.
 
 Subsec. (c). Pub. L. 100–456, §501(a)(2), added subsec. (c).
 
-1986—Pub. L. 99–433 designated existing provisions as subsec. (a), added par. (5), redesignated former par. (5) as (6), and added subsec. (b).
+<b>1986</b>—Pub. L. 99–433 designated existing provisions as subsec. (a), added par. (5), redesignated former par. (5) as (6), and added subsec. (b).
 
 #### Effective Date of 2006 Amendment
 

@@ -8,5 +8,5 @@
 
 #### Amendments
 
-1978—Subsec. (b). Pub. L. 95–625 substituted “$28,400,000” for “$20,400,000”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–625 substituted “$28,400,000” for “$20,400,000”.
 

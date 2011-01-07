@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Office
 
-There is established in the United States Capitol Police the Office of the Inspector General\(hereafter in this section referred to as the “Office”), headed by the Inspector General of the United States Capitol Police (hereafter in this section referred to as the “Inspector General”).
+There is established in the United States Capitol Police the Office of the Inspector General (hereafter in this section referred to as the “Office”), headed by the Inspector General of the United States Capitol Police (hereafter in this section referred to as the “Inspector General”).
 
 #### (b) Inspector General
 
@@ -102,7 +102,7 @@ This section shall be effective on August 2, 2005.
 
 The Inspector General Act of 1978, referred to in subsecs. (c)(1), (2) and (d)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The provisions of title 5 regarding appointments in the competitive service, referred to in subsec. (d)(2)(A), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 regarding appointments in the competitive service, referred to in subsec. (d)(2)(A),are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Codification
 

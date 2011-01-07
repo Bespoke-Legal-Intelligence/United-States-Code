@@ -106,9 +106,9 @@ May 28, 1948, ch. 352, §1, 62 Stat. 276.
 
 5:626n (clause 2, less words before semicolon).
 
-In subsection (a), the words “it is necessary he may provide assured and adequate transportation” are substituted for the words “requires assured and adequate transportation facilities he is authorized to provide such transportation”. The words “in the absence of adequate private or other facilities” are omitted as covered by subsection (b)(2). The words “subject, however, to the following provisions and conditions” are omitted, since the revised section states those conditions positively in the following subsections. The words “at reasonable rates of fare” are substituted for the first 23 words of clause 2 of 5:189c, 415d, and 626n. The words “under regulations to be prescribed by him” are substituted for the words “under such regulations as the Secretary of the Army \[Navy, Air Force\] shall prescribe” in clause 2, and the 17 words before the proviso of clause 3, of 5:189c, 415d, and 626n.
+In subsection (a), the words “it is necessary \* \* \* he may \* \* \* provide assured and adequate transportation” are substituted for the words “requires assured and adequate transportation facilities \* \* \* he is authorized \* \* \* to provide such transportation”. The words “in the absence of adequate private or other facilities” are omitted as covered by subsection (b)(2). The words “subject, however, to the following provisions and conditions” are omitted, since the revised section states those conditions positively in the following subsections. The words “at reasonable rates of fare” are substituted for the first 23 words of clause 2 of 5:189c, 415d, and 626n. The words “under regulations to be prescribed by him” are substituted for the words “under such regulations as the Secretary of the Army \[Navy, Air Force\] shall prescribe” in clause 2, and the 17 words before the proviso of clause 3, of 5:189c, 415d, and 626n.
 
-In subsection (b), the words “Transportation under subsection (a)” are substituted for the words “The authority granted in this section to the Secretary of the Army \[Navy, Air Force\]”. The words “may not be provided” are substituted for the words “shall be exercised”. The word “transportation” is substituted for the word “service”. The words “in each case”, “as the case may be, that existing private and”, and “by other means” are omitted as surplusage.
+In subsection (b), the words “Transportation \* \* \* under subsection (a)” are substituted for the words “The authority granted in this section to the Secretary of the Army \[Navy, Air Force\]”. The words “may not be provided” are substituted for the words “shall be exercised”. The word “transportation” is substituted for the word “service”. The words “in each case”, “as the case may be, that existing private and”, and “by other means” are omitted as surplusage.
 
 Subsection (b)(3) is substituted for the last 25 words of clause 4 of 5:189c, 415d, and 626n.
 
@@ -118,7 +118,7 @@ In subsection (d), the words “Treasury as” are substituted for the words “
 
 #### Amendments
 
-1987—Subsec. (a). Pub. L. 100–180, §318(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whenever the Secretary of a military department determines that it is necessary for the effective conduct of the affairs of that department, he may, at reasonable rates of fare under regulations to be prescribed by the Secretary of Defense, provide assured and adequate transportation by motor vehicle or water carrier—
+<b>1987</b>—Subsec. (a). Pub. L. 100–180, §318(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whenever the Secretary of a military department determines that it is necessary for the effective conduct of the affairs of that department, he may, at reasonable rates of fare under regulations to be prescribed by the Secretary of Defense, provide assured and adequate transportation by motor vehicle or water carrier—
 
 &emsp;“(1) among places on any military installation (including any subinstallation thereof) under the jurisdiction of that department; and
 
@@ -136,13 +136,13 @@ Subsec. (b)(3). Pub. L. 100–180, §318(b)(2), substituted par. (3) for former 
 
 Subsec. (b)(4). Pub. L. 100–180, §318(b)(3), (c)(3), redesignated former par. (2)(C) as par. (4) and substituted “subsection (a)” for “subsection (a)(1)”.
 
-1979—Pub. L. 96–125, §807(c)(1), inserted “and on military installations” after “places of employment” in section catchline.
+<b>1979</b>—Pub. L. 96–125, §807(c)(1), inserted “and on military installations” after “places of employment” in section catchline.
 
 Subsec. (a). Pub. L. 96–125, §807(a), substituted reference to Secretary of a military department and to the Secretary of Defense for references to Secretary concerned and inserted reference to any military installation (including any subinstallation thereof) under the jurisdiction of that department.
 
 Subsec. (b). Pub. L. 96–125, §807(b), designated existing provisions as par. (1) and cls. (1) to (3) as cls. (A) to (C), substituted “subsection (a)(2)” for “subsection (a)” and added par. (2).
 
-1978—Subsec. (a). Pub. L. 95–362, §1(1), substituted “concerned” for “of a military department” and “of his department” for “of that department”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–362, §1(1), substituted “concerned” for “of a military department” and “of his department” for “of that department”.
 
 Subsec. (b). Pub. L. 95–362, §1(2), struck out “of the military department” before “concerned”.
 

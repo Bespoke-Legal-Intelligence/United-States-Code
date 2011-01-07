@@ -6,11 +6,11 @@ The Virgin Islands consists of two judicial divisions; the Division of Saint Cro
 
 #### Amendments
 
-1989—Pub. L. 101–219 struck out provision that court for the Division of Saint Croix be held in Christiansted and for the Division of Saint Thomas and Saint John at Charlotte Amalie.
+<b>1989</b>—Pub. L. 101–219 struck out provision that court for the Division of Saint Croix be held in Christiansted and for the Division of Saint Thomas and Saint John at Charlotte Amalie.
 
-1984—Pub. L. 98–454 amended section generally, inserting provisions setting forth places for the holding of court of each judicial division and striking out provisions relating to the applicability of procedural rules and prosecutions by information and indictment, which are now covered under section 1614 of this title, and repealed section 336 of Pub. L. 95–598 which had amended this section.
+<b>1984</b>—Pub. L. 98–454 amended section generally, inserting provisions setting forth places for the holding of court of each judicial division and striking out provisions relating to the applicability of procedural rules and prosecutions by information and indictment, which are now covered under section 1614 of this title, and repealed section 336 of Pub. L. 95–598 which had amended this section.
 
-1978—Pub. L. 95–598 substituted “section 2075 of title 28 in cases under title 11” for “section 53 of title 11 in bankruptcy cases”.
+<b>1978</b>—Pub. L. 95–598 substituted “section 2075 of title 28 in cases under title 11” for “section 53 of title 11 in bankruptcy cases”.
 
 #### Effective Date of 1984 Amendment
 

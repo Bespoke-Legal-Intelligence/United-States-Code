@@ -50,7 +50,7 @@ Except as otherwise provided in this section—
 
 &emsp;&emsp;&emsp;(i) in the case of section 1250 property disposed of pursuant to a written contract which was, on July 24, 1969, and at all times thereafter, binding on the owner of the property, 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 20 full months;
 
-&emsp;&emsp;&emsp;(ii) in the case of section 1250 property with respect to which a mortgage is insured under section 221(d)(3) or 236 of the National Housing Act, or housing financed or assisted by direct loan or tax abatement under similar provisions of State or locallaws, and with respect to which the owner is subject to the restrictions described in section 1039(b)(1)(B) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990), 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 20 full months;
+&emsp;&emsp;&emsp;(ii) in the case of section 1250 property with respect to which a mortgage is insured under section 221(d)(3) or 236 of the National Housing Act, or housing financed or assisted by direct loan or tax abatement under similar provisions of State or local laws, and with respect to which the owner is subject to the restrictions described in section 1039(b)(1)(B) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990), 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 20 full months;
 
 &emsp;&emsp;&emsp;(iii) in the case of residential rental property (as defined in section 167(j)(2)(B)) other than that covered by clauses (i) and (ii), 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 100 full months;
 
@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### (4) Additional depreciation attributable to rehabilitation expenditures
 
-&emsp;The term “additional depreciation” also means, in the case of section 1250 property with respect to which a depreciation or amortization deduction for rehabilitation expenditures was allowed under section 167(k) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) or 191 (as in effect before its repeal by the Economic Recovery Tax Act of 1981), the depreciation or amortization adjustments allowed under such section to the extent attributable to such property, except that, in the case of such property held for more than one year after the rehabilitation expenditures so allowed were incurred, it means such adjustments only to the extent that they exceed theamount of the depreciation adjustments which would have resulted if such adjustments had been determined under the straight line method of adjustment without regard to the useful life permitted under section 167(k) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) or 191 (as in effect before its repeal by the Economic Recovery Tax Act of 1981).
+&emsp;The term “additional depreciation” also means, in the case of section 1250 property with respect to which a depreciation or amortization deduction for rehabilitation expenditures was allowed under section 167(k) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) or 191 (as in effect before its repeal by the Economic Recovery Tax Act of 1981), the depreciation or amortization adjustments allowed under such section to the extent attributable to such property, except that, in the case of such property held for more than one year after the rehabilitation expenditures so allowed were incurred, it means such adjustments only to the extent that they exceed the amount of the depreciation adjustments which would have resulted if such adjustments had been determined under the straight line method of adjustment without regard to the useful life permitted under section 167(k) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) or 191 (as in effect before its repeal by the Economic Recovery Tax Act of 1981).
 
 #### (5) Method of computing straight line adjustments
 
@@ -154,7 +154,7 @@ For purposes of this section, the term “section 1250 property” means any rea
 
 &emsp;&emsp;&emsp;(i) the amount of gain which would (but for this paragraph) be taken into account under subsection (a), over
 
-&emsp;&emsp;&emsp;(ii) the fair market value (or cost in the case of a transaction described in section 1033(a)(2)) of the section 1250 property acquired in the transaction.
+&emsp;&emsp;&emsp;(ii) the fair market value (or cost in the case of a transaction described in section1033(a)(2)) of the section 1250 property acquired in the transaction.
 
 #### (D) Basis of property acquired
 
@@ -222,7 +222,7 @@ For purposes of determining the applicable percentage under this section, the pr
 
 #### (2) Ordinary income attributable to an element
 
-&emsp;For purposes of paragraph (1), the amount taken into account for any element shall be the sum of a series of amounts determined for the periods set forth in subsection (a), with the amount for any such period being determined by multiplying—
+&emsp;For purposes of paragraph (1), the amount taken into account for any element shall bethe sum of a series of amounts determined for the periods set forth in subsection (a), with the amount for any such period being determined by multiplying—
 
 &emsp;&emsp;(A) the amount which bears the same ratio to the lower of the amounts specified in clause (i) or (ii) of subsection (a)(1)(A), in clause (i) or (ii) of subsection (a)(2)(A), or in clause (i) or (ii) of subsection (a)(3)(A), as the case may be, for the section 1250 property as the additional depreciation for such element attributable to such period bears to the sum of the additional depreciation for all elements attributable to such period, by
 
@@ -250,7 +250,7 @@ For purposes of determining the applicable percentage under this section, the pr
 
 &emsp;&emsp;&emsp;(i) 25 percent of the adjusted basis of the property,
 
-&emsp;&emsp;&emsp;(ii) 10 percent of the adjusted basis of the property, determined without regard tothe adjustments provided in paragraphs (2) and (3) of section 1016(a), or
+&emsp;&emsp;&emsp;(ii) 10 percent of the adjusted basis of the property, determined without regard to the adjustments provided in paragraphs (2) and (3) of section 1016(a), or
 
 &emsp;&emsp;&emsp;(iii) $5,000.
 
@@ -300,7 +300,7 @@ The Economic Recovery Tax Act of 1981, referred to in subsec. (b)(4), is Pub. L.
 
 #### Amendments
 
-2005—Subsec. (b)(3). Pub. L. 109–135, §402(h), struck out “or by section 179D” after “190, or 193)”.
+<b>2005</b>—Subsec. (b)(3). Pub. L. 109–135, §402(h), struck out “or by section 179D” after “190, or 193)”.
 
 Pub. L. 109–58, §1331(b)(3), inserted “or by section 179D” after “190, or 193)”.
 
@@ -308,25 +308,25 @@ Subsec. (d)(5) to (8). Pub. L. 109–135, §402(a)(7)(A), redesignated pars. (6)
 
 Subsec. (e)(2). Pub. L. 109–135, §402(a)(7)(B), substituted “or (3)” for “(3), or (5)”.
 
-1998—Subsec. (d)(4)(D). Pub. L. 105–206 substituted “section 1033(b)(2)” for “the last sentence of section 1033(b)” in introductory provisions.
+<b>1998</b>—Subsec. (d)(4)(D). Pub. L. 105–206 substituted “section 1033(b)(2)” for “the last sentence of section 1033(b)” in introductory provisions.
 
-1997—Subsec. (d)(7) to (10). Pub. L. 105–34, §312(d)(10)(A), redesignated pars. (9) and (10) as (7) and (8), respectively, and struck out heading and text of former par. (7). Text read as follows: “Subsection (a) shall not apply to a disposition of—
+<b>1997</b>—Subsec. (d)(7) to (10). Pub. L. 105–34, §312(d)(10)(A), redesignated pars. (9) and (10) as (7) and (8), respectively, and struck out heading and text of former par. (7). Text read as follows: “Subsection (a) shall not apply to a disposition of—
 
-&emsp;“(A) property to the extent used by the taxpayer as his principal residence (within the meaning of section1034, relating to rollover of gain on sale of principal residence), and
+&emsp;“(A) property to the extent used by the taxpayer as his principal residence (within the meaning of section 1034, relating to rollover of gain on sale of principal residence), and
 
 &emsp;“(B) property in respect of which the taxpayer meets the age and ownership requirements of section 121 (relating to one-time exclusion of gain from sale of principal residence by individual who has attained age 55) but only to the extent that he meets the use requirements of such section in respect of such property.”
 
 Subsec. (e)(3). Pub. L. 105–34, §312(d)(10)(B), struck out heading and text of par. (3). Text read as follows: “If the basis of property acquired in a transaction described in paragraph (7) of subsection (d) is determined by reference to the basis in the hands of the taxpayer of other property, then the holding period of the property acquired shall include the holding period of such other property.”
 
-1996—Subsec. (e)(4). Pub. L. 104–188 struck out par. (4) which read as follows:
+<b>1996</b>—Subsec. (e)(4). Pub. L. 104–188 struck out par. (4) which read as follows:
 
 “(4)
 
 Qualified low-income housing.—The holding period of any section 1250 property acquired which is described in subsection (d)(8)(E)(i) shall include the holding period of the corresponding element of section 1250 property disposed of.”
 
-1995—Subsec. (d)(5). Pub. L. 104–7 struck out “1071 and” before “1081 transactions” in heading and “section 1071 (relating to gain from sale or exchange to effectuate policies of FCC) or” before “section 1081” in text.
+<b>1995</b>—Subsec. (d)(5). Pub. L. 104–7 struck out “1071 and” before “1081 transactions” in heading and “section 1071 (relating to gain from sale or exchange to effectuate policies of FCC) or” before “section 1081” in text.
 
-1990—Subsec. (a)(1)(B)(i), (2)(B)(ii). Pub. L. 101–508, §11801(c)(15)(A), which directed the insertion of “(as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)” after “section 1039(b)(1)(B)” in pars. (1)(A)(i) and (2)(B)(ii) of subsec. (a), was executed to pars. (1)(B)(i) and (2)(B)(ii) to reflect the probable intent of Congress.
+<b>1990</b>—Subsec. (a)(1)(B)(i), (2)(B)(ii). Pub. L. 101–508, §11801(c)(15)(A), which directed the insertion of “(as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)” after “section 1039(b)(1)(B)” in pars. (1)(A)(i) and (2)(B)(ii) of subsec. (a), was executed to pars. (1)(B)(i) and (2)(B)(ii) to reflect the probable intent of Congress.
 
 Subsec. (a)(4), (5). Pub. L. 101–508, §11812(b)(11), added par. (4) and redesignated former par. (4) as (5).
 
@@ -340,29 +340,29 @@ Subsec. (d)(8). Pub. L. 101–508, §11801(c)(15)(B), struck out par. (8) which 
 
 Subsecs. (g) to (i). Pub. L. 101–508, §11801(c)(15)(C), redesignated subsecs. (h) and (i) as (g) and (h), respectively, and struck out former subsec. (g) which provided special rules for qualified low-income housing.
 
-1989—Subsec. (b)(5)(A). Pub. L. 101–239, §7831(b)(1), substituted “of property to which section 168 applies” for “of recovery property”.
+<b>1989</b>—Subsec. (b)(5)(A). Pub. L. 101–239, §7831(b)(1), substituted “of property to which section 168 applies” for “of recovery property”.
 
 Subsec. (b)(5)(B). Pub. L. 101–239, §7831(b)(2), substituted “to which section 168 does not apply” for “which is not recovery property”.
 
-1988—Subsec. (d)(11). Pub. L. 100–647 struck out par. (11) which related to section 1245 recovery property.
+<b>1988</b>—Subsec. (d)(11). Pub. L. 100–647 struck out par. (11) which related to section 1245 recovery property.
 
-1986—Subsec. (b)(3). Pub. L. 99–514 inserted “(as in effect before its repeal by the Tax Reform Act of 1986)” after “185”.
+<b>1986</b>—Subsec. (b)(3). Pub. L. 99–514 inserted “(as in effect before its repeal by the Tax Reform Act of 1986)” after “185”.
 
-1984—Subsec. (a)(4). Pub. L. 98–369 added par. (4).
+<b>1984</b>—Subsec. (a)(4). Pub. L. 98–369 added par. (4).
 
-1983—Subsec. (b)(1). Pub. L. 97–448, §102(a)(7)(B), struck out last sentence providing that, for purposes of defining “additional depreciation”, if a useful life (or salvage value) was used in determining the amount allowed as a deduction for any taxable year, such life (or value) was to be used in determining the depreciation adjustments which would have resulted for such year under the straight line method.
+<b>1983</b>—Subsec. (b)(1). Pub. L. 97–448, §102(a)(7)(B), struck out last sentence providing that, for purposes of defining “additional depreciation”, if a useful life (or salvage value) was used in determining the amount allowed as a deduction for any taxable year, such life (or value) was to be used in determining the depreciation adjustments which would have resulted for such year under the straight line method.
 
 Subsec. (b)(5). Pub. L. 97–448, §102(a)(7)(A), added par. (5).
 
-1981—Subsec. (b)(4). Pub. L. 97–34, §212(d)(2)(F), inserted “(as in effect before its repeal by the Economic Recovery Tax Act of 1981)” after “section 167(k) or 191” in two places.
+<b>1981</b>—Subsec. (b)(4). Pub. L. 97–34, §212(d)(2)(F), inserted “(as in effect before its repeal by the Economic Recovery Tax Act of 1981)” after “section 167(k) or 191” in two places.
 
 Subsec. (d)(11). Pub. L. 97–34, §204(e), added par. (11).
 
-1980—Subsec. (a)(1)(B). Pub. L. 96–222 inserted “which was allowed under section 167(k)” at end of last sentence.
+<b>1980</b>—Subsec. (a)(1)(B). Pub. L. 96–222 inserted “which was allowed under section 167(k)” at end of last sentence.
 
 Subsec. (b)(3). Pub. L. 96–223 inserted reference to section 193.
 
-1978—Subsec. (b)(3). Pub. L. 95–600, §701(f)(3)(C), struck out reference to section 191.
+<b>1978</b>—Subsec. (b)(3). Pub. L. 95–600, §701(f)(3)(C), struck out reference to section 191.
 
 Subsec. (b)(4). Pub. L. 95–600, §701(f)(3)(E), inserted reference to amortization deduction, amortization adjustments, and to section 191 in two places.
 
@@ -370,13 +370,13 @@ Subsec. (d)(7)(A). Pub. L. 95–600, §405(c)(4), substituted “relating to rol
 
 Subsec. (d)(7)(B). Pub. L. 95–600, §404(c)(7), inserted provisions relating to a one-time exclusion and principal residence and substituted “55” for “65”.
 
-1976—Subsec. (a). Pub. L. 94–455, §202(a), in revising text generally, made the following changes:
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §202(a), in revising text generally, made the following changes:
 
 (1) Added par. (1).
 
 (2) Redesignated as pars. (2) and (3) existing pars. (1) and (2).
 
-(3) Made the following changes in par. (2): inserted in heading “, and before January 1, 1976”; designated introductory text as subpar. “(A) In general”; inserted therein “and the amount determined under paragraph (1)(A)(ii) exceeds the amount determined under paragraph (1)(A)(i), then”; redesignated as cl. (i) existing subpar. (A); substituted therein “attributable to periods after December 31, 1969, and before January 1, 1976” for “(as defined in subsection (b)(1) or (4) attributable to periods after December 31, 1969”; substituted cl. (ii) and concluding text for subpar. (B) and concluding text which read:
+(3) Made the following changes in par. (2): inserted in heading “, and before January 1, 1976”; designated introductory text as subpar. “(A) In general”; inserted therein “and the amount determined under paragraph\(1)(A)(ii) exceeds the amount determined under paragraph (1)(A)(i), then”; redesignated as cl. (i) existing subpar. (A); substituted therein “attributable to periods after December 31, 1969, and before January 1, 1976” for “(as defined in subsection (b)(1) or (4) attributable to periods after December 31, 1969”; substituted cl. (ii) and concluding text for subpar. (B) and concluding text which read:
 
 “(B) the excess of—
 
@@ -420,13 +420,13 @@ Subsec. (g)(2). Pub. L. 94–455, §202(c)(2), substituted “shall be determine
 
 Subsec. (h). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1975—Subsec. (a)(1)(C)(ii). Pub. L. 93–625 substituted “January 1, 1976” for “January 1, 1975”.
+<b>1975</b>—Subsec. (a)(1)(C)(ii). Pub. L. 93–625 substituted “January 1, 1976” for “January 1, 1975”.
 
 Subsec. (d)(3), (9). Pub. L. 94–81, §2(b), inserted reference to par. (9) in par. (3), and added par. (9).
 
-1971—Subsec. (b)(3). Pub. L. 92–178 inserted reference to section 188.
+<b>1971</b>—Subsec. (b)(3). Pub. L. 92–178 inserted reference to section 188.
 
-1969—Subsec. (a). Pub. L. 91–172, §521(b), modified the recapture rules pertaining to residential housing by allowing a 1 percent per month reduction in the amount to be recaptured as ordinary income after the property has been held for 100 full months, with other real property remaining subject to full recapture, applied the existing recapture rules where the sale of property was subject to a binding contract in existence prior to July 25, 1969, provided that changes in the recapture rules are not to apply in federally assisted projects (such as programs under section 221(d)(3) or 236 of the National Housing Act) or to other publicly assisted housing programs under which the return to the investor is limited on a comparable basis, thereby rendering these projects subject to a recapture of the depreciation in full if the sale occurs in the first 12 months and for a phaseout of the recapture of the excess of accelerated over straight-line depreciation after 20 months, the recapture being reduced at the rate of 1 percent per month until 120 months after which no recapture applies, with such recapture rules to continue to apply only with respect to such property constructed, reconstructed, or acquired before Jan. 1, 1975, and applied new recapture rules to depreciation attributable to periods after Dec. 31, 1969.
+<b>1969</b>—Subsec. (a). Pub. L. 91–172, §521(b), modified the recapture rules pertaining to residential housing by allowing a 1 percent per month reduction in the amount to be recaptured as ordinary income after the property has been held for 100 full months, with other real property remaining subject to full recapture, applied the existing recapture rules where the sale of property was subject to a binding contract in existence prior to July 25, 1969, provided that changes in the recapture rules are not to apply in federally assisted projects (such as programs under section 221(d)(3) or 236 of the National Housing Act) or to other publicly assisted housing programs under which the return to the investor is limited on a comparable basis, thereby rendering these projects subject to a recapture of the depreciation in full if the sale occurs in the first 12 months and for a phaseout of the recapture of the excess of accelerated over straight-line depreciation after 20 months, the recapture being reduced at the rate of 1 percent per month until 120 months after which no recapture applies, with such recapture rules to continue to apply only with respect to such property constructed, reconstructed, or acquired before Jan. 1, 1975, and applied new recapture rules to depreciation attributable to periods after Dec. 31, 1969.
 
 Subsec. (b)(4). Pub. L. 91–172, §512(c), added par. (4).
 
@@ -444,7 +444,7 @@ Subsecs. (g) to (i). Pub. L. 91–172, §910(b)(3), added subsec. (g) and redesi
 
 #### Effective Date of 2005 Amendment
 
-Amendments by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which they relate, but amendment by section 402(a)(7) of Pub. L. 109–135 not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
+Amendments by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which they relate, but amendment by section 402(a)(7) of Pub. L. 109–135 not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
 
 Amendment by Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, see section 1331(d) of Pub. L. 109–58, set out as an Effective Date note under section 179D of this title.
 
@@ -470,7 +470,7 @@ Amendment by Pub. L. 101–239 effective as if included in the provision of the 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -548,5 +548,5 @@ Section 231(c) of Pub. L. 88–272 provided that: “The amendments made by this
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items ofincome, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

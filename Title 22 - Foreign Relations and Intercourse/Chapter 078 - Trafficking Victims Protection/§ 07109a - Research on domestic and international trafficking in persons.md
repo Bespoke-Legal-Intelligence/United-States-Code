@@ -26,7 +26,7 @@ The President, acting through the Council of Economic Advisors, the National Res
 
 &emsp;The database described in subsection (a)(5) shall be established by combining all applicable data collected by each Federal department and agency represented on the Interagency Task Force to Monitor and Combat Trafficking, consistent with the protection of sources and methods, and, to the maximum extent practicable, applicable data from relevant international organizations, to—
 
-&emsp;&emsp;(A) improve the coordination of the collection of data related to trafficking in personsby each agency of the United States Government that collects such data;
+&emsp;&emsp;(A) improve the coordination of the collection of data related to trafficking in persons by each agency of the United States Government that collects such data;
 
 &emsp;&emsp;(B) promote uniformity of such data collection and standards and systems related to such collection;
 
@@ -68,11 +68,11 @@ This chapter, referred to in subsec. (a), was in the original “this division�
 
 #### Amendments
 
-2008—Subsec. (a)(5). Pub. L. 110–457, §108(a)(1), amended par. (5) generally. Prior to amendment, text read as follows: “An effective mechanism for quantifying the number of victims of trafficking on a national, regional, and international basis.”
+<b>2008</b>—Subsec. (a)(5). Pub. L. 110–457, §108(a)(1), amended par. (5) generally. Prior to amendment, text read as follows: “An effective mechanism for quantifying the number of victims of trafficking on a national, regional, and international basis.”
 
 Subsec. (b). Pub. L. 110–457, §108(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “The research initiatives described in subsection (a)(4) of this section shall be carried out by the Human Smuggling and Trafficking Center (established pursuant to section 1777 of title 8).”
 
-2006—Pub. L. 109–164 designated existing provisions as subsec. (a), inserted subsec. heading, substituted “the Director of National Intelligence” for “the Director of Central Intelligence” in introductory provisions, inserted “, particularly HIV/AIDS” before period at end of par. (3), and added pars. (4) to (6) and subsecs. (b) and (c).
+<b>2006</b>—Pub. L. 109–164 designated existing provisions as subsec. (a), inserted subsec. heading, substituted “the Director of National Intelligence” for “the Director of Central Intelligence” in introductory provisions, inserted “, particularly HIV/AIDS” before period at end of par. (3), and added pars. (4) to (6) and subsecs. (b) and (c).
 
 #### Delegation of Functions
 

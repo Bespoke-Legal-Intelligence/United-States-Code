@@ -8,7 +8,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(B) the acquisition of such facts as are necessary to guide and direct the regulation of fishing by law, including the extent of the fish population, the drain on the fish supply from fishing and/or natural causes, the necessity of legal regulation of fishing, and the effects of any measures of regulation that are applied;
 
-&emsp;&emsp;(C) the formulation and adoption of plans of restocking waters with food and game fishes according to natural areas or districts to which such plans are applicable, together with the acquisition of such facts as are necessary to the formulation, execution, and testing the efficacy of such plans;
+&emsp;&emsp;(C) the formulation and adoption of plans of restocking waters with food and game fishes according to natural areas or districtsto which such plans are applicable, together with the acquisition of such facts as are necessary to the formulation, execution, and testing the efficacy of such plans;
 
 &emsp;&emsp;(D) the selection, restoration, rehabilitation, and improvement of areas of water or land adaptable as hatching, feeding, resting, or breeding places for fish, including acquisition by purchase, condemnation, lease, or gift of such areas or estates or interests therein as are suitable or capable of being made suitable therefor, and the construction thereon or therein of such works as may be necessary to make them available for such purposes, and such preliminary or incidental costs and expenses as may be incurred in and about such works; the term “State fish and game department” shall be construed to mean and include any department or division of department of another name, or commission, or official or officials, of a State empowered under its laws to exercise the functions ordinarily exercised by a State fish and game department;
 
@@ -20,11 +20,11 @@ For purposes of this chapter—
 
 #### Amendments
 
-1998—Pub. L. 105–178 inserted introductory provisions “For purposes of this chapter—”, designated existing provisions as par. (1), substituted “the term” for “For the purpose of this chapter the term”, redesignated subsecs. (a) to (d) as subpars. (A) to (D), respectively, of par. (1), substituted “department;” for “department.” at end of subpar. (D), realigned margins, and added pars. (2) and (3).
+<b>1998</b>—Pub. L. 105–178 inserted introductory provisions “For purposes of this chapter—”, designated existing provisions as par. (1), substituted “the term” for “For the purpose of this chapter the term”, redesignated subsecs. (a) to (d) as subpars. (A) to (D), respectively, of par. (1), substituted “department;” for “department.” at end of subpar. (D), realigned margins, and added pars. (2) and (3).
 
-1960—Subsec. (d). Pub. L. 86–624 struck out provisions which defined “State” as including the several States and the Territory of Hawaii.
+<b>1960</b>—Subsec. (d). Pub. L. 86–624 struck out provisions which defined “State” as including the several States and the Territory of Hawaii.
 
-1956—Act July 2, 1956, included definition of “State”.
+<b>1956</b>—Act July 2, 1956, included definition of “State”.
 
 #### Effective Date of 1956 Amendment
 

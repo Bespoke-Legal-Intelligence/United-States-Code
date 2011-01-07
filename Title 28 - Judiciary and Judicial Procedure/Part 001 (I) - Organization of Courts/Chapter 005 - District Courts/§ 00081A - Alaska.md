@@ -8,7 +8,7 @@ Alaska constitutes one judicial district.
 
 #### Amendments
 
-1959—Pub. L. 86–70 inserted “Ketchikan,”.
+<b>1959</b>—Pub. L. 86–70 inserted “Ketchikan,”.
 
 #### Effective Date of 1959 Amendment
 

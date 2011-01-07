@@ -80,9 +80,9 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f)(2),
 
 #### Amendments
 
-2003—Subsec. (f). Pub. L. 108–176 added subsec. (f).
+<b>2003</b>—Subsec. (f). Pub. L. 108–176 added subsec. (f).
 
-1996—Subsec. (e). Pub. L. 104–287 substituted “Committee on Science” for “Committee on Science, Space, and Technology”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–287 substituted “Committee on Science” for “Committee on Science, Space, and Technology”.
 
 #### Change of Name
 

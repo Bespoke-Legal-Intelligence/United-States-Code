@@ -32,7 +32,7 @@ Reduced damages.—If the court finds that—
 
 &emsp;&emsp;(B) such person fully cooperated with any Government investigation of such violation; and
 
-&emsp;&emsp;(C) at the time such person furnished the United States with the information about the violation, no criminal prosecution, civil action, or administrative action had commenced under this title with respect to suchviolation, and the person did not have actual knowledge of the existence of an investigation into such violation,
+&emsp;&emsp;(C) at the time such person furnished the United States with the information about the violation, no criminal prosecution, civil action, or administrative action had commenced under this title with respect to such violation, and the person did not have actual knowledge of the existence of an investigation into such violation,
 
 > &emsp;the court may assess not less than 2 times the amount of damages which the Government sustains because of the act of that person.
 
@@ -70,7 +70,7 @@ Definitions.—For purposes of this section—
 
 &emsp;&emsp;(B) does not include requests or demands for money or property that the Government has paid to an individual as compensation for Federal employment or as an income subsidy with no restrictions on that individual's use of the money or property;
 
-&emsp;(3) the term “obligation” means an established duty, whether or not fixed, arising from an express or implied contractual, grantor-grantee, or licensor-licensee relationship, from a fee-based or similar relationship, from statute or regulation, or from the retention of any overpayment; and
+&emsp;(3) the term “obligation” means an established duty, whether or not fixed, arising froman express or implied contractual, grantor-grantee, or licensor-licensee relationship, from a fee-based or similar relationship, from statute or regulation, or from the retention of any overpayment; and
 
 &emsp;(4) the term “material” means having a natural tendency to influence, or be capable of influencing, the payment or receipt of money or property.
 
@@ -106,7 +106,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (d), is classified gen
 
 #### Amendments
 
-2009—Subsecs. (a), (b). Pub. L. 111–21, §4(a)(1), (2), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to liability for certain acts and defined “knowing” and “knowingly”, respectively.
+<b>2009</b>—Subsecs. (a), (b). Pub. L. 111–21, §4(a)(1), (2), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to liability for certain acts and defined “knowing” and “knowingly”, respectively.
 
 Subsec. (c). Pub. L. 111–21, §4(a)(4), substituted “subsection (a)(2)” for “subparagraphs (A) through (C) of subsection (a)”.
 
@@ -114,9 +114,9 @@ Pub. L. 111–21, §4(a)(2), (3), redesignated subsec. (d) as (c) and struck out
 
 Subsecs. (d), (e). Pub. L. 111–21, §4(a)(3), redesignated subsecs. (d) and (e) as (c) and (d), respectively.
 
-1994—Subsec. (e). Pub. L. 103–272 substituted “1986” for “1954”.
+<b>1994</b>—Subsec. (e). Pub. L. 103–272 substituted “1986” for “1954”.
 
-1986—Subsec. (a). Pub. L. 99–562, §2(1), designated existing provisions as subsec. (a), inserted subsec. heading, and substituted “Any person who” for “A person not a member of an armed force of the United States is liable to the United States Government for a civil penalty of $2,000, an amount equal to 2 times the amount of damages the Government sustains because of the act of that person, and costs of the civil action, if the person” in introductory provisions.
+<b>1986</b>—Subsec. (a). Pub. L. 99–562, §2(1), designated existing provisions as subsec. (a), inserted subsec. heading, and substituted “Any person who” for “A person not a member of an armed force of the United States is liable to the United States Government for a civil penalty of $2,000, an amount equal to 2 times the amount of damages the Government sustains because of the act of that person, and costs of the civil action, if the person” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 99–562, §2(2), substituted “United States Government or a member of the Armed Forces of the United States” for “Government or a member of an armed force”.
 

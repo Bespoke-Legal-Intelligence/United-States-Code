@@ -10,5 +10,5 @@ Section was formerly classified to section 7271 of Title 42, The Public Health a
 
 #### Amendments
 
-2003—Pub. L. 108–136, §3141(j)(7)(C), inserted section catchline and struck out former catchline.
+<b>2003</b>—Pub. L. 108–136, §3141(j)(7)(C), inserted section catchline and struck out former catchline.
 

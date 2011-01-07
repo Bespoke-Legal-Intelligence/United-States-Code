@@ -20,17 +20,13 @@ The Secretary of the Treasury may provide by regulation or instruction for the a
 
 (June 17, 1930, ch. 497, title III, §322, as added Aug. 8, 1953, ch. 397, §14, 67 Stat. 516; amended Pub. L. 92–549, title I, §107, Oct. 25, 1972, 86 Stat. 1162; Pub. L. 98–573, title I, §§124(c), 127(b), Oct. 30, 1984, 98 Stat. 2959.)
 
-#### References in Text
-
-The customs laws, referred to in subsec. (a), are classified generally to this title.
-
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–573, §127(b), substituted “excepted” for “granted the customary exceptions”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–573, §127(b), substituted “excepted” for “granted the customary exceptions”.
 
 Pub. L. 98–573, §124(c), inserted “The authority delegated to the Secretary by this subsection shall not extend to communications satellites and components and parts thereof.”
 
-1972—Pub. L. 92–549, §107(a), inserted “United States-Mexico Boundary Treaty of 1970” in section catchline.
+<b>1972</b>—Pub. L. 92–549, §107(a), inserted “United States-Mexico Boundary Treaty of 1970” in section catchline.
 
 Subsec. (b)(4). Pub. L. 92–549, §107(b), added cl. (4).
 

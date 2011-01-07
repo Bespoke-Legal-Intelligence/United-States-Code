@@ -40,21 +40,21 @@ Notwithstanding any other provision of law, the Secretary of State may provide f
 
 #### Amendments
 
-2004—Subsec. (b)(4). Pub. L. 108–447 inserted “, or the limitation under section 3962(a)(3) of this title, whichever is higher” before period at end.
+<b>2004</b>—Subsec. (b)(4). Pub. L. 108–447 inserted “, or the limitation under section 3962(a)(3) of this title, whichever is higher” before period at end.
 
-2002—Subsec. (b)(3). Pub. L. 107–228 inserted second sentence and struck out former second sentence which read as follows: “Payments under this paragraph to a member of the Senior Foreign Service may not exceed $10,000 in any fiscal year, except that payments of up to $20,000 in any fiscal year may be made under this paragraph to up to 1 percent of the members of the Senior Foreign Service.”
+<b>2002</b>—Subsec. (b)(3). Pub. L. 107–228 inserted second sentence and struck out former second sentence which read as follows: “Payments under this paragraph to a member of the Senior Foreign Service may not exceed $10,000 in any fiscal year, except that payments of up to $20,000 in any fiscal year may be made under this paragraph to up to 1 percent of the members of the Senior Foreign Service.”
 
-1999—Subsec. (b)(1). Pub. L. 106–113 substituted “33” for “50”.
+<b>1999</b>—Subsec. (b)(1). Pub. L. 106–113 substituted “33” for “50”.
 
-1998—Subsec. (a). Pub. L. 105–277, §2311(a)(1), substituted “Subject to subsection (e) of this section, members” for “Members” in introductory provisions.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §2311(a)(1), substituted “Subject to subsection (e) of this section, members” for “Members” in introductory provisions.
 
-Subsec. (d). Pub. L. 105–292 inserted “Such service in the promotion of internationally recognized human rights, including the right to freedom of religion, shall serve as a basis for granting awards under this section.” after first sentence.
+Subsec. (d). Pub. L. 105–292 inserted “Such service in the promotion of internationally recognized humanrights, including the right to freedom of religion, shall serve as a basis for granting awards under this section.” after first sentence.
 
 Subsec. (e). Pub. L. 105–277, §2311(a)(2), added subsec. (e).
 
-1994—Subsec. (b)(4). Pub. L. 103–236 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The total amount of basic salary plus performance pay received in any fiscal year by any member of the Senior Foreign Service may not exceed the salary payable for level I of the Executive Schedule under section 5312 of title 5 as in effect at the end of that fiscal year. Any amount which is not paid to a member of the Senior Foreign Service during a fiscal year because of this limitation shall be paid to that individual in a lump sum at the beginning of the following fiscal year. Any amount paid under this authority during a fiscal year shall be taken into account for purposes of applying the limitation in the first sentence of this subparagraph with respect to such fiscal year.”
+<b>1994</b>—Subsec. (b)(4). Pub. L. 103–236 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The total amount of basic salary plus performance pay received in any fiscal year by any member of the Senior Foreign Service may not exceed the salary payable for level I of the Executive Schedule under section 5312 of title 5 as in effect at the end of that fiscal year. Any amount which is not paid to a member of the Senior Foreign Service during a fiscal year because of this limitation shall be paid to that individual in a lump sum at the beginning of the following fiscal year. Any amount paid under this authority during a fiscal year shall be taken into account for purposes of applying the limitation in the first sentence of this subparagraph with respect to such fiscal year.”
 
-1987—Subsec. (b)(4), (5). Pub. L. 100–204 inserted at end of par. (4) “Any amount which is not paid to a member of the Senior Foreign Service during a fiscal year because of this limitation shall be paid to that individual in a lump sum at the beginning of the following fiscal year. Any amount paid under this authority during a fiscal year shall be taken into account for purposes of applying the limitation in the first sentence of this subparagraph with respect to such fiscal year.” and added par. (5).
+<b>1987</b>—Subsec. (b)(4), (5). Pub. L. 100–204 inserted at end of par. (4) “Any amount which is not paid to a member of the Senior Foreign Service during a fiscal year because of this limitation shall be paid to that individual in a lump sum at the beginning of the following fiscal year. Any amount paid under this authority during a fiscal year shall be taken into account for purposes of applying the limitation in the first sentence of this subparagraph with respect to such fiscal year.” and added par. (5).
 
 #### Effective Date of 2002 Amendment
 

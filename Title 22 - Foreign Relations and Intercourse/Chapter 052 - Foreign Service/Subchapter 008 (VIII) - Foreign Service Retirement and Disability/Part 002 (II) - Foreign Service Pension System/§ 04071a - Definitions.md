@@ -30,7 +30,7 @@ As used in this part, unless otherwise specified—
 
 &emsp;&emsp;(B) the sum of—
 
-&emsp;&emsp;&emsp;(i) the actuarial present value of (I) deductions to be withheld from the futurebasic pay of participants pursuant to section 4071e of this title and (II) contributions for past civilian and military service;
+&emsp;&emsp;&emsp;(i) the actuarial present value of (I) deductions to be withheld from the future basic pay of participants pursuant to section 4071e of this title and (II) contributions for past civilian and military service;
 
 &emsp;&emsp;&emsp;(ii) the actuarial present value of future contributions to be made pursuant to section 4071f of this title;
 
@@ -54,9 +54,9 @@ The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 198
 
 #### Amendments
 
-1998—Par. (9). Pub. L. 105–382 added par. (9).
+<b>1998</b>—Par. (9). Pub. L. 105–382 added par. (9).
 
-1988—Pars. (3) to (8). Pub. L. 100–238 added par. (3) and redesignated former pars. (3) to (7) as (4) to (8), respectively.
+<b>1988</b>—Pars. (3) to (8). Pub. L. 100–238 added par. (3) and redesignated former pars. (3) to (7) as (4) to (8), respectively.
 
 #### Effective Date of 1998 Amendment
 

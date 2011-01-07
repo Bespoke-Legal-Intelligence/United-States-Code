@@ -94,7 +94,7 @@ For purposes of this section, the term “qualified benefit” means any benefit
 
 #### (2) Health benefits
 
-&emsp;For purposes of subparagraph (B) of subsection (b)(1), a cafeteria plan which provideshealth benefits shall not be treated as discriminatory if—
+&emsp;For purposes of subparagraph (B) of subsection (b)(1), a cafeteria plan which provides health benefits shall not be treated as discriminatory if—
 
 &emsp;&emsp;(A) contributions under the plan on behalf of each participant include an amount which—
 
@@ -134,19 +134,197 @@ For purposes of this section, the term “qualified benefit” means any benefit
 
 &emsp;&emsp;(B) such distribution is made during the period beginning on the date of such order or call and ending on the last date that reimbursements could otherwise be made under such arrangement for the plan year which includes the date of such order or call.
 
-#### (i) Cross reference
+#### (i) Limitation on health flexible spending arrangements
+
+For purposes of this section, if a benefit is provided under a cafeteria plan through employer contributions to a health flexible spending arrangement, such benefit shall not be treated as a qualified benefit unless the cafeteria plan provides that an employee may not elect for any taxable year to have salary reduction contributions in excess of $2,500 made to such arrangement.
+
+#### (j) Simple cafeteria plans for small businesses
+
+#### (1) In general
+
+&emsp;An eligible employer maintaining a simple cafeteria plan with respect to which the requirements of this subsection are met for any year shall be treated as meeting any applicable nondiscrimination requirement during such year.
+
+#### (2) Simple cafeteria plan
+
+&emsp;For purposes of this subsection, the term “simple cafeteria plan” means a cafeteria plan—
+
+&emsp;&emsp;(A) which is established and maintained by an eligible employer, and
+
+&emsp;&emsp;(B) with respect to which the contribution requirements of paragraph (3), and the eligibility and participation requirements of paragraph (4), are met.
+
+#### (3) Contribution requirements
+
+#### (A) In general
+
+&emsp;&emsp;The requirements of this paragraph are met if, under the plan the employer is required, without regard to whether a qualified employee makes any salary reduction contribution, to make a contribution to provide qualified benefits under the plan on behalf of each qualified employee in an amount equal to—
+
+&emsp;&emsp;&emsp;(i) a uniform percentage (not less than 2 percent) of the employee's compensation for the plan year, or
+
+&emsp;&emsp;&emsp;(ii) an amount which is not less than the lesser of—
+
+&emsp;&emsp;&emsp;&emsp;(I) 6 percent of the employee's compensation for the plan year, or
+
+&emsp;&emsp;&emsp;&emsp;(II) twice the amount of the salary reduction contributions of each qualified employee.
+
+#### (B) Matching contributions on behalf of highly compensated and key employees
+
+&emsp;&emsp;The requirements of subparagraph (A)(ii) shall not be treated as met if, under the plan, the rate of contributions with respect to any salary reduction contribution of a highly compensated or key employee at any rate of contribution is greater than that with respect to an employee who is not a highly compensated or key employee.
+
+#### (C) Additional contributions
+
+&emsp;&emsp;Subject to subparagraph (B), nothing in this paragraph shall be treated as prohibiting an employer from making contributions to provide qualified benefits under the plan in addition to contributions required under subparagraph (A).
+
+#### (D) Definitions
+
+&emsp;&emsp;For purposes of this paragraph—
+
+#### (i) Salary reduction contribution
+
+&emsp;&emsp;&emsp;The term “salary reduction contribution” means, with respect to a cafeteria plan, any amount which is contributed to the plan at the election of the employee and which is not includible in gross income by reason of this section.
+
+#### (ii) Qualified employee
+
+&emsp;&emsp;&emsp;The term “qualified employee” means, with respect to a cafeteria plan, any employee who is not a highly compensated or key employee and who is eligible to participate in the plan.
+
+#### (iii) Highly compensated employee
+
+&emsp;&emsp;&emsp;The term “highly compensated employee” has the meaning given such term by section 414(q).
+
+#### (iv) Key employee
+
+&emsp;&emsp;&emsp;The term “key employee” has the meaning given such term by section 416(i).
+
+#### (4) Minimum eligibility and participation requirements
+
+#### (A) In general
+
+&emsp;&emsp;The requirements of this paragraph shall be treated as met with respect to any year if, under the plan—
+
+&emsp;&emsp;&emsp;(i) all employees who had at least 1,000 hours of service for the preceding plan year are eligible to participate, and
+
+&emsp;&emsp;&emsp;(ii) each employee eligible to participate in the plan may, subject to terms and conditions applicable to all participants, elect any benefit available under the plan.
+
+#### (B) Certain employees may be excluded
+
+&emsp;&emsp;For purposes of subparagraph (A)(i), an employer may elect to exclude under the plan employees—
+
+&emsp;&emsp;&emsp;(i) who have not attained the age of 21 before the close of a plan year,
+
+&emsp;&emsp;&emsp;(ii) who have less than 1 year of service with the employer as of any day during the plan year,
+
+&emsp;&emsp;&emsp;(iii) who are covered under an agreement which the Secretary of Labor finds to be a collective bargaining agreement if there is evidence that the benefits covered under the cafeteria plan were the subject of good faith bargaining between employee representatives and the employer, or
+
+&emsp;&emsp;&emsp;(iv) who are described in section 410(b)(3)(C) (relating to nonresident aliens working outside the United States).
+
+> &emsp;&emsp;A plan may provide a shorter period of service or younger age for purposes of clause (i) or (ii).
+
+#### (5) Eligible employer
+
+&emsp;For purposes of this subsection—
+
+#### (A) In general
+
+&emsp;&emsp;The term “eligible employer” means, with respect to any year, any employer if such employer employed an average of 100 or fewer employees on business days during either of the 2 preceding years. For purposes of this subparagraph, a year may only be taken into account if the employer was in existence throughout the year.
+
+#### (B) Employers not in existence during preceding year
+
+&emsp;&emsp;If an employer was not in existence throughout the preceding year, the determination under subparagraph (A) shall be based on the average number of employees that it is reasonably expected such employer will employ on business days in the current year.
+
+#### (C) Growing employers retain treatment as small employer
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;If—
+
+&emsp;&emsp;&emsp;&emsp;(I) an employer was an eligible employer for any year (a “qualified year”), and
+
+&emsp;&emsp;&emsp;&emsp;(II) such employer establishes a simple cafeteria plan for its employees for such year,
+
+&emsp;&emsp;&nbsp;then, notwithstanding the fact the employer fails to meet the requirements of subparagraph (A) for any subsequent year, such employer shall be treated as an eligible employer for such subsequent year with respect to employees (whether or not employees during a qualified year) of anytrade or business which was covered by the plan during any qualified year.
+
+#### (ii) Exception
+
+&emsp;&emsp;&emsp;This subparagraph shall cease to apply if the employer employs an average of 200 or more employees on business days during any year preceding any such subsequent year.
+
+#### (D) Special rules
+
+#### (i) Predecessors
+
+&emsp;&emsp;&emsp;Any reference in this paragraph to an employer shall include a reference to any predecessor of such employer.
+
+#### (ii) Aggregation rules
+
+&emsp;&emsp;&emsp;All persons treated as a single employer under subsection (a) or (b) of section 52, or subsection (n) or (<i>o</i>) of section 414, shall be treated as one person.
+
+#### (6) Applicable nondiscrimination requirement
+
+&emsp;For purposes of this subsection, the term “applicable nondiscrimination requirement” means any requirement under subsection (b) of this section, section 79(d), section 105(h), or paragraph (2), (3), (4), or (8) of section 129(d).
+
+#### (7) Compensation
+
+&emsp;The term “compensation” has the meaning given such term by section 414(s).
+
+#### (k) Cross reference
 
 &emsp;&emsp;<b>For reporting and recordkeeping requirements, see section 6039D.</b>
 
-#### (j) Regulations
+#### (<i>l</i>) Regulations
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section.
 
-(Added Pub. L. 95–600, title I, §134(a), Nov. 6, 1978, 92 Stat. 2783; amended Pub. L. 96–222, title I, §101(a)(6)(A), Apr. 1, 1980, 94 Stat. 196; Pub. L. 96–605, title II, §§201(b)(2), 226(a), Dec. 28, 1980, 94 Stat. 3527, 3529; Pub. L. 96–613, §5(b)(2), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 98–369, div. A, title V, §531(b)(1)–(4)(A), July 18, 1984, 98 Stat. 881, 882; Pub. L. 98–611, §1(d)(3)(A), Oct. 31, 1984, 98 Stat. 3177; Pub. L. 98–612, §1(b)(3)(B), Oct. 31, 1984, 98 Stat. 3181; Pub. L. 99–514, title XI, §1151(d)(1), title XVIII, §1853(b)(1), Oct. 22, 1986, 100 Stat. 2504, 2870; Pub. L. 100–647, title I, §§1011B(a)(11)–(13), 1018(t)(6), title IV, §4002(b)(2), title VI, §6051(b), Nov. 10, 1988, 102 Stat. 3484, 3485, 3589, 3643, 3696; Pub. L. 101–140, title II, §203(a)(1), (3), (b)(2), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–239, title VII, §7814(b), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11801(c)(3), Nov. 5, 1990, 104 Stat. 1388–523; Pub. L. 104–191, title III, §§301(d), 321(c)(1), Aug. 21, 1996, 110 Stat. 2051, 2058; Pub. L. 108–173, title XII, §1201(i), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–311, title II, §207(11), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–172, §11(a)(12), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–245, title I, §114(a), June 17, 2008, 122 Stat. 1636.)
+(Added Pub. L. 95–600, title I, §134(a), Nov. 6, 1978, 92 Stat. 2783; amended Pub. L. 96–222, title I, §101(a)(6)(A), Apr. 1, 1980, 94 Stat. 196; Pub. L. 96–605, title II, §§201(b)(2), 226(a), Dec. 28, 1980, 94 Stat. 3527, 3529; Pub. L. 96–613, §5(b)(2), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 98–369, div. A, title V, §531(b)(1)–(4)(A), July 18, 1984, 98 Stat. 881, 882; Pub. L. 98–611, §1(d)(3)(A), Oct. 31, 1984, 98 Stat. 3177; Pub. L. 98–612, §1(b)(3)(B), Oct. 31, 1984, 98 Stat. 3181; Pub. L. 99–514, title XI, §1151(d)(1), title XVIII, §1853(b)(1), Oct. 22, 1986, 100 Stat. 2504, 2870; Pub. L. 100–647, title I, §§1011B(a)(11)–(13), 1018(t)(6), title IV, §4002(b)(2), title VI, §6051(b), Nov. 10, 1988, 102 Stat. 3484, 3485, 3589, 3643, 3696; Pub. L. 101–140, title II, §203(a)(1), (3), (b)(2), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–239, title VII, §7814(b), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11801(c)(3), Nov. 5, 1990, 104 Stat. 1388–523; Pub. L. 104–191, title III, §§301(d), 321(c)(1), Aug. 21, 1996, 110 Stat. 2051, 2058; Pub. L. 108–173, title XII, §1201(i), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–311, title II, §207(11), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–172, §11(a)(12), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–245, title I, §114(a), June 17, 2008, 122 Stat. 1636; Pub. L. 111–148, title I, §1515(a), (b), title IX, §§9005(a), 9022(a), title X, §10902(a), Mar. 23, 2010, 124 Stat. 258, 854, 874, 1016; Pub. L. 111–152, title I, §1403(b), Mar. 30, 2010, 124 Stat. 1063.)
+
+#### Amendment of Subsection (f)
+
+<i>Pub. L. 111–148, title I, §1515, Mar. 23, 2010, 124 Stat. 258, provided that, applicable to taxable years beginning after Dec. 31, 2013, subsection (f) of this section is amended as follows:</i>
+
+<i>(1) by striking “For purposes of this section, the term” and inserting “For purposes of this section—</i>
+
+#### <i>“(1) In general</i>
+
+&emsp;<i>“The term”;</i>
+
+<i>(2) by striking “Such term shall not include” and inserting the following:</i>
+
+#### <i>“(2) Long-term care insurance not qualified</i>
+
+&emsp;<i>“The term ‘qualified benefit’ shall not include”; and</i>
+
+<i>(3) by adding at the end the following new paragraph:</i>
+
+#### <i>(3) Certain exchange-participating qualified health plans not qualified</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>The term “qualified benefit” shall not include any qualified health plan (as defined in section 1301(a) of the Patient Protection and Affordable Care Act) offered through an Exchange established under section 1311 of such Act.</i>
+
+#### <i>(B) Exception for exchange-eligible employers</i>
+
+&emsp;&emsp;<i>Subparagraph (A) shall not apply with respect to any employee if such employee's employer is a qualified employer (as defined in section 1312(f)(2) of the Patient Protection and Affordable Care Act) offering the employee the opportunity to enroll through such an Exchange in a qualified health plan in a group market.</i>
+
+#### Amendment of Subsection (i)
+
+<i>Pub. L. 111–148, title X, §10902, Mar. 23, 2010, 124 Stat. 1016; Pub. L. 111–152, title I, §1403, Mar. 30, 2010, 124 Stat. 1063, provided that, applicable to taxable years beginning after Dec. 31, 2012, subsection (i) of this section is amended to read as follows:</i>
+
+#### <i>(i) Limitation on health flexible spending arrangements</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>For purposes of this section, if a benefit is provided under a cafeteria plan through employer contributions to a health flexible spending arrangement, such benefit shall not be treated as a qualified benefit unless the cafeteria plan provides that an employee may not elect for any taxable year to have salary reduction contributions in excess of $2,500 made to such arrangement.</i>
+
+#### <i>(2) Adjustment for inflation</i>
+
+&emsp;<i>In the case of any taxable year beginning after December 31, 2013, the dollar amount in paragraph (1) shall be increased by an amount equal to—</i>
+
+&emsp;&emsp;<i>(A) such amount, multiplied by</i>
+
+&emsp;&emsp;<i>(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins by substituting “calendar year 2012” for “calendar year 1992” in subparagraph (B) thereof.</i>
+
+> &emsp;<i>If any increase determined under this paragraph is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.</i>
 
 #### Codification
 
-Pub. L. 101–140, §203(a)(1), amended this section to read as if the amendments made by section 1151(d)(1) of Pub. L. 99–514 (amending this section generally) had not been enacted. Subsequent to amendment by Pub. L. 99–514, this section was amended by Pub. L. 100–647 and Pub. L. 101–239. See 1989 and 1988 Amendment notes below.
+Pub. L. 101–140, §203(a)(1), amended this section to read as if the amendments made by section 1151(d)(1) ofPub. L. 99–514 (amending this section generally) had not been enacted. Subsequent to amendment by Pub. L. 99–514, this section was amended by Pub. L. 100–647 and Pub. L. 101–239. See 1989 and 1988 Amendment notes below.
 
 #### Prior Provisions
 
@@ -154,21 +332,33 @@ A prior section 125 was renumbered section 140 of this title.
 
 #### Amendments
 
-2008—Subsecs. (h) to (j). Pub. L. 110–245 added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
+<b>2010</b>—Subsec. (i). Pub. L. 111–148, §9005(a)(2), added subsec. (i). Former subsec. (i) redesignated (j).
 
-2007—Subsec. (b)(2). Pub. L. 110–172 substituted “second sentence” for “last sentence”.
+Subsec. (j). Pub. L. 111–148, §9022(a), added subsec. (j). Former subsec. (j) redesignated (k).
 
-2004—Subsec. (e)(1)(D). Pub. L. 108–311 inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
+Pub. L. 111–148, §9005(a)(1), redesignated subsec. (j) as (k).
 
-2003—Subsec. (d)(2)(D). Pub. L. 108–173, which directed the amendment of section 125(d)(2) by adding subpar. (D), was executed to this section, which is section 125(d)(2) of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+Subsec. (k). Pub. L. 111–148, §9022(a), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (<i>l</i>).
 
-1996—Subsec. (f). Pub. L. 104–191, §321(c)(1), inserted at end “Such term shall not include any product whichis advertised, marketed, or offered as long-term care insurance.”
+Pub. L. 111–148, §9005(a)(1), redesignated subsec. (j) as (k).
+
+Subsec. (<i>l</i>). Pub. L. 111–148, §9022(a), redesignated subsec. (k) as (<i>l</i>).
+
+<b>2008</b>—Subsecs. (h) to (j). Pub. L. 110–245 added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
+
+<b>2007</b>—Subsec. (b)(2). Pub. L. 110–172 substituted “second sentence” for “last sentence”.
+
+<b>2004</b>—Subsec. (e)(1)(D). Pub. L. 108–311 inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
+
+<b>2003</b>—Subsec. (d)(2)(D). Pub. L. 108–173, which directed the amendment of section 125(d)(2) by adding subpar. (D), was executed to this section, which is section 125(d)(2) of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+
+<b>1996</b>—Subsec. (f). Pub. L. 104–191, §321(c)(1), inserted at end “Such term shall not include any product which is advertised, marketed, or offered as long-term care insurance.”
 
 Pub. L. 104–191, §301(d), inserted “106(b),” before “117”.
 
-1990—Subsec. (f). Pub. L. 101–508 substituted “section 117,” for “section 117, 124,”.
+<b>1990</b>—Subsec. (f). Pub. L. 101–508 substituted “section 117,” for “section 117, 124,”.
 
-1989—Pub. L. 101–140, §203(a)(1), amended section to read as if amendments by Pub. L. 99–514, §1151(d)(1), had not been enacted, see 1986 Amendment note below.
+<b>1989</b>—Pub. L. 101–140, §203(a)(1), amended section to read as if amendments by Pub. L. 99–514, §1151(d)(1), had not been enacted, see 1986 Amendment note below.
 
 Subsec. (d)(2). Pub. L. 101–140, §203(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘cafeteria plan’ does not include any plan which provides for deferred compensation. The preceding sentence shall not apply in the case of a profit-sharing or stock bonus plan which includes a qualified cash or deferred arrangement (as defined in section 401(k)(2)) to the extent of amounts which a covered employee may elect to have the employer pay as contributions to a trust under such plan on behalf of the employee.”
 
@@ -176,7 +366,7 @@ Subsec. (e)(2)(A). Pub. L. 101–239 substituted “includible only because” f
 
 Subsec. (g)(3)(A). Pub. L. 101–140, §203(a)(3), substituted “section 410(b)(2)(A)(i)” for “subparagraph (B) of section 410(b)(1)”.
 
-1988—Subsec. (a). Pub. L. 100–647, §1011B(a)(11)(A), amended subsec. (a) generally, see Codification note above. Prior to amendment, subsec. (a) read as follows: “In the case of a cafeteria plan—
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1011B(a)(11)(A), amended subsec. (a) generally, see Codification note above. Prior to amendment, subsec. (a) read as follows: “In the case of a cafeteria plan—
 
 &emsp;“(1) amounts shall not be included in gross income of a participant in such plan solely because, under the plan, the participant may choose among the benefits of the plan, and
 
@@ -206,19 +396,19 @@ Subsec. (e)(1). Pub. L. 100–647, §1011B(a)(13)(A), inserted “and without re
 
 Subsec. (e)(2)(A). Pub. L. 100–647, §4002(b)(2), inserted “or any insurance under a qualified group legal services plan the value of which is so includable only because it exceeds the limitation of section 120(a)” after “section 79”, see Codification note above.
 
-1986—Pub. L. 99–514, §1151(d)(1), amended section generally, revising and restating as subsecs. (a) to (g) provisions of former subsecs. (a) to (i) so as to coincide with the coming into effect of section 89 of this title.
+<b>1986</b>—Pub. L. 99–514, §1151(d)(1), amended section generally, revising and restating as subsecs. (a) to (g) provisions of former subsecs. (a) to (i) so as to coincide with the coming into effect of section 89 of this title.
 
 Subsecs. (c), (d)(1)(B). Pub. L. 99–514, §1853(b)(1)(A), substituted “qualified benefits” for “statutory nontaxable benefits” wherever appearing.
 
 Subsec. (f). Pub. L. 99–514, §1853(b)(1)(B), substituted “Qualified benefits defined” for “Statutory nontaxable benefits defined” in heading and amended text generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘statutory nontaxable benefit’ means any benefit which, with the application of subsection (a) is not includible in the gross income of the employee by reason of an express provision of this chapter (other than section 117, 124, 127, or 132). Such term includes any group term life insurance which is includible in gross income only because it exceeds the dollar limitation of section 79.”
 
-1984—Subsec. (b). Pub. L. 98–369, §531(b)(3), amended subsec. (b) generally, substituting “and key employees” for “where plan is discriminatory” in heading and “Highly compensated participants” for “In general” in par. (1) heading, adding par. (2), redesignating former par. (2) as (3), and inserting therein references to par. (2) and to taxable year of key employee.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369, §531(b)(3), amended subsec. (b) generally, substituting “and key employees” for “where plan is discriminatory” in heading and “Highly compensated participants” for “In general” in par. (1) heading, adding par. (2), redesignating former par. (2) as (3), and inserting therein references to par. (2) and to taxable year of key employee.
 
 Subsec. (c). Pub. L. 98–369, §531(b)(2)(B), inserted “statutory” before “nontaxable benefits” in two places.
 
 Subsec. (d)(1). Pub. L. 98–369, §531(b)(1), substituted “among 2 or more benefits consisting of cash and statutory nontaxable benefits” for “among two or more benefits” in cl. (B) and struck out “The benefits which may be chosen may be nontaxable benefits, or cash, property, or other taxable benefits.”
 
-Subsec. (f). Pub. L. 98–369, §531(b)(2)(A), amended subsec. (f) generally, inserting “Statutory” in heading and “statutory” before “nontaxable benefit” in text, providing that the benefit be excluded by reason of an express provision of this chapter (other than section 117, 124, 127, or 132), and extending the benefit to include group term life insurance.
+Subsec. (f). Pub. L. 98–369, §531(b)(2)(A), amended subsec. (f) generally, inserting “Statutory” in heading and“statutory” before “nontaxable benefit” in text, providing that the benefit be excluded by reason of an express provision of this chapter (other than section 117, 124, 127, or 132), and extending the benefit to include group term life insurance.
 
 Subsec. (h). Pub. L. 98–611 and Pub. L. 98–612, made identical amendments, substituting cross reference provision for reporting requirements provisions.
 
@@ -226,11 +416,21 @@ Pub. L. 98–369, §531(b)(4)(A), added subsec. (h) relating to reporting requir
 
 Subsec. (i). Pub. L. 98–369, §531(b)(4)(A), redesignated subsec. (h) as (i).
 
-1980—Subsec. (d)(2). Pub. L. 96–605, §226(a), inserted provision that the sentence excluding deferred compensation plans not apply in the case of a profit-sharing or stock bonus plan which includes a qualified cash or deferred arrangement, as defined in section 401(k)(2) to the extent of amounts which a covered employee may elect to have the employer pay as contributions to a trust under such plan on behalf of the employee.
+<b>1980</b>—Subsec. (d)(2). Pub. L. 96–605, §226(a), inserted provision that the sentence excluding deferred compensation plans not apply in the case of a profit-sharing or stock bonus plan which includes a qualified cash or deferred arrangement, as defined in section 401(k)(2) to the extent of amounts which a covered employee may elect to have the employer pay as contributions to a trust under such plan on behalf of the employee.
 
 Subsec. (g)(3)(B). Pub. L. 96–222 substituted “employment requirement” for “service requirement” in cls. (i) and (ii).
 
 Subsec. (g)(4). Pub. L. 96–613, §5(b)(2), and Pub. L. 96–605, §201(b)(2), made identical amendments by substituting “controlled groups, etc.” for “controlled groups” in heading, and by substituting “subsection (b), (c), or (m) of section 414” for “subsection (b) or (c) of section 414” in text.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title I, §1515(c), Mar. 23, 2010, 124 Stat. 258, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2013.”
+
+Pub. L. 111–148, title IX, §9005(b), Mar. 23, 2010, 124 Stat. 855, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2010.”
+
+Pub. L. 111–148, title IX, §9022(b), Mar. 23, 2010, 124 Stat. 876, provided that: “The amendments made by this section \[amending this section\] shall apply to years beginning after December 31, 2010.”
+
+Pub. L. 111–148, title X, §10902(b), Mar. 23, 2010, 124 Stat. 1016, as amended by Pub. L. 111–152, title I, §1403(a), Mar. 30, 2010, 124 Stat. 1063, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2012.”
 
 #### Effective Date of 2008 Amendment
 
@@ -238,7 +438,7 @@ Pub. L. 110–245, title I, §114(b), June 17, 2008, 122 Stat. 1636, provided th
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 ofPub. L. 108–311, set out as a note under section 2 of this title.
+Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
 
 #### Effective Date of 2003 Amendment
 
@@ -288,7 +488,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Section 134(c) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §101(a)(6)(B), Apr. 1, 1980, 94 Stat. 197, provided that: “The amendments made by this section \[enacting this section\] shall apply to plan years beginning after December 31, 1978.”
+Section 134(c) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §101(a)(6)(B), Apr. 1, 1980, 94 Stat. 197, provided that: “The amendments made by this section\[enacting this section\] shall apply to plan years beginning after December 31, 1978.”
 
 #### Savings Provision
 
@@ -310,7 +510,7 @@ Section 531(b)(5) of Pub. L. 98–369, as amended by Pub. L. 99–514, title XVI
 
 “(A)
 
-General transitional rule.—Any cafeteria plan in existence on February 10, 1984, which failed as of such date and continued to fail thereafter to satisfy the rules relating to section 125 under proposed Treasury regulations, and any benefit offered under such a cafeteria plan which failed as of such date and continued to fail thereafter to satisfy the rules of section 105, 106, 120, or 129 under proposed Treasury regulations, will not fail to be a cafeteria plan under section 125 or a nontaxable benefit under section 105, 106, 120, or 129 solely because of such failures. The preceding sentenceshall apply only with respect to cafeteria plans and benefits provided under cafeteria plans before the earlier of—
+General transitional rule.—Any cafeteria plan in existence on February 10, 1984, which failed as of such date and continued to fail thereafter to satisfy the rules relating to section 125 under proposed Treasury regulations, and any benefit offered under such a cafeteria plan which failed as of such date and continued to fail thereafter to satisfy the rules of section 105, 106, 120, or 129 under proposed Treasury regulations, will not fail to be a cafeteria plan under section 125 or a nontaxable benefit under section 105, 106, 120, or 129 solely because of such failures. The preceding sentence shall apply only with respect to cafeteria plans and benefits provided under cafeteria plans before the earlier of—
 
 &emsp;“(i) January 1, 1985, or
 

@@ -50,7 +50,7 @@ Payment From Operation and Maintenance Funds.—The monthly allowance payable to
 
 #### Amendments
 
-2003—Pub. L. 108–136, §541(b)(5)(A), substituted “High-deployment allowance: lengthy or numerous deployments; frequent mobilizations” for “Per diem allowance for lengthy or numerous deployments” in section catchline.
+<b>2003</b>—Pub. L. 108–136, §541(b)(5)(A), substituted “High-deployment allowance: lengthy or numerous deployments; frequent mobilizations” for “Per diem allowance for lengthy or numerous deployments” in section catchline.
 
 Subsec. (a). Pub. L. 108–136, §541(b)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of the military department concerned shall pay a high-deployment per diem allowance to a member of the armed forces under the Secretary's jurisdiction for each day on which the member (1) is deployed, and (2) has, as of that day, been deployed 401 or more days out of the preceding 730 days. The Secretary shall pay the allowance from appropriations available for operation and maintenance for the armed force in which the member serves.”
 
@@ -64,9 +64,9 @@ Subsec. (f). Pub. L. 108–136, §541(b)(4)(C), substituted “allowance” for 
 
 Subsecs. (g), (h). Pub. L. 108–136, §541(b)(3), added subsecs. (g) and (h).
 
-2001—Subsec. (a). Pub. L. 107–107 inserted at end “The Secretary shall pay the allowance from appropriations available for operation and maintenance for the armed force in which the member serves.”
+<b>2001</b>—Subsec. (a). Pub. L. 107–107 inserted at end “The Secretary shall pay the allowance from appropriations available for operation and maintenance for the armed force in which the member serves.”
 
-2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(b)(4)\], renumbered section 435 of this title as this section.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(b)(4)\], renumbered section 435 of this title as this section.
 
 Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title V, §574(c)(1)\], substituted “401 or more days out of the preceding 730 days” for “251 days or more out of the preceding 365 days”.
 

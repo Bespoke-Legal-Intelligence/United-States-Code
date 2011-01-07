@@ -40,9 +40,9 @@ Section 971d(d) of this title, referred to in subsec. (d), was amended generally
 
 #### Amendments
 
-1998—Subsec. (e). Pub. L. 105–384 made technical amendment to reference in original act which appears in text as reference to section 1858 of this title.
+<b>1998</b>—Subsec. (e). Pub. L. 105–384 made technical amendment to reference in original act which appears in text as reference to section 1858 of this title.
 
-1995—Subsec. (e). Pub. L. 104–43 amended subsec. (e) generally, substituting present provisions for provisions establishing civil penalties for violations of this section, providing for authority of Secretary to assess, remit, or mitigate any civil penalty, providing for notice and hearing prior to assessment, and providing for civil action upon failure to pay penalty.
+<b>1995</b>—Subsec. (e). Pub. L. 104–43 amended subsec. (e) generally, substituting present provisions for provisions establishing civil penalties for violations of this section, providing for authority of Secretary to assess, remit, or mitigate any civil penalty, providing for notice and hearing prior to assessment, and providing for civil action upon failure to pay penalty.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

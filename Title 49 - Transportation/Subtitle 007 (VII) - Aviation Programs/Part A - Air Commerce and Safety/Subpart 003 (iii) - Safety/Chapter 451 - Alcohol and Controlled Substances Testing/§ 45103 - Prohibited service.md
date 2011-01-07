@@ -48,5 +48,5 @@ In subsection (b), the words “Notwithstanding subsection (a) of this section�
 
 #### Amendments
 
-2001—Pub. L. 107–71 substituted “screening employee” for “screening contract employee” wherever appearing.
+<b>2001</b>—Pub. L. 107–71 substituted “screening employee” for “screening contract employee” wherever appearing.
 

@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1983—Pub. L. 97–473 designated existing provisions as par. (1) and added par. (2).
+<b>1983</b>—Pub. L. 97–473 designated existing provisions as par. (1) and added par. (2).
 
 #### Effective Date of 1983 Amendment
 

@@ -50,7 +50,7 @@ Appropriation for administrative expenses.—Each fiscal year, such amounts as m
 
 (f)
 
-Notification to Congress of Insufficiency.—If the Secretary of Transportation isunable to obtain the funds necessary to finance the increased ocean freight charges resulting from the requirements of subsections (a) and (b) and section 55314(a) of this title, the Secretary shall notify Congress within 10 working days of the discovery of the insufficiency.
+Notification to Congress of Insufficiency.—If the Secretary of Transportation is unable to obtain the funds necessary to finance the increased ocean freight charges resulting from the requirements of subsections (a) and (b) and section 55314(a) of this title, the Secretary shall notify Congress within 10 working days of the discovery of the insufficiency.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1647; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Y), June 18, 2008, 122 Stat. 1820, 1821.)
 
@@ -108,7 +108,7 @@ In subsection (f), the words “Notwithstanding the provisions of this section�
 
 #### Amendments
 
-2008—Subsec. (b)(2). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
 #### Effective Date of 2008 Amendment
 

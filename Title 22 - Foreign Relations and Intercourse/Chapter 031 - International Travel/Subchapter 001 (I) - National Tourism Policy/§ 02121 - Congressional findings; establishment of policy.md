@@ -52,11 +52,11 @@
 
 #### Amendments
 
-1992—Subsec. (b)(1). Pub. L. 102–372, §5(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “optimize the contribution of the tourism and recreation industries to economic prosperity, full employment, and the international balance of payments of the United States;”.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–372, §5(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “optimize the contribution of the tourism and recreation industries to economic prosperity, full employment, and the international balance of payments of the United States;”.
 
 Subsec. (b)(2) to (16). Pub. L. 102–372, §5(2), (3), added pars. (2) to (5) and redesignated former pars. (2) to (12) as (6) to (16), respectively.
 
-1981—Pub. L. 97–63 substituted provisions setting out a detailed 4-point recital of Congressional findings and establishing a 12-point national tourism policy for provisions setting out the former declaration of purpose of this chapter which was to strengthen the domestic and foreign commerce of the United States, and promote friendly understanding and appreciation of the United States by encouraging foreign residents to visit the United States and by facilitating international travel generally.
+<b>1981</b>—Pub. L. 97–63 substituted provisions setting out a detailed 4-point recital of Congressional findings and establishing a 12-point national tourism policy for provisions setting out the former declaration of purpose of this chapter which was to strengthen the domestic and foreign commerce of the United States, and promote friendly understanding and appreciation of the United States by encouraging foreign residents to visit the United States and by facilitating international travel generally.
 
 #### Effective Date of 1981 Amendment
 
@@ -68,7 +68,7 @@ Pub. L. 104–288, §1, Oct. 11, 1996, 110 Stat. 3402, provided that: “This Ac
 
 #### Short Title of 1992 Amendment
 
-Section 1(a) of Pub. L. 102–372 provided that: “This Act \[enacting sections 2123a to 2123d and 2124c of this title, amending this section and sections 2122, 2123, 2124 to 2124b, and 2126 of this title, repealing sections 2123aand 2123b of this title, and enacting provisions set out as notes under this section and sections 2122 and 2124 of this title\] may be cited as the ‘Tourism Policy and Export Promotion Act of 1992’.”
+Section 1(a) of Pub. L. 102–372 provided that: “This Act \[enacting sections 2123a to 2123d and 2124c of thistitle, amending this section and sections 2122, 2123, 2124 to 2124b, and 2126 of this title, repealing sections 2123a and 2123b of this title, and enacting provisions set out as notes under this section and sections 2122 and 2124 of this title\] may be cited as the ‘Tourism Policy and Export Promotion Act of 1992’.”
 
 #### Short Title of 1981 Amendment
 

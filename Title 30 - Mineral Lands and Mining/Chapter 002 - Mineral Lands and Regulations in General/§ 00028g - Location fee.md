@@ -18,17 +18,17 @@ Pub. L. 105–277, which directed the amendment of section 28g of title 30, Unit
 
 #### Amendments
 
-2009—Pub. L. 111–88 substituted “, to the extent provided in advance in Appropriations Acts,” for “and before September 30, 2008,”. See Codification note above.
+<b>2009</b>—Pub. L. 111–88 substituted “, to the extent provided in advance in Appropriations Acts,” for “and before September 30, 2008,”. See Codification note above.
 
 Pub. L. 111–8, which directed the removal of the modifications made by Pub. L. 110–161, was executed by inserting “and before September 30, 2008,” before “pursuant to”. See 2007 Amendment note below.
 
-2007—Pub. L. 110–161 struck out “and before September 30, 2008,” before “pursuant to”. See Codification note above.
+<b>2007</b>—Pub. L. 110–161 struck out “and before September 30, 2008,” before “pursuant to”. See Codification note above.
 
-2003—Pub. L. 108–108 substituted “2008” for “2003”. See Codification note above.
+<b>2003</b>—Pub. L. 108–108 substituted “2008” for “2003”. See Codification note above.
 
-2001—Pub. L. 107–63 substituted “2003” for “2001”. See Codification note above.
+<b>2001</b>—Pub. L. 107–63 substituted “2003” for “2001”. See Codification note above.
 
-1998—Pub. L. 105–277 substituted “2001” for “1998”. See Codification note above.
+<b>1998</b>—Pub. L. 105–277 substituted “2001” for “1998”. See Codification note above.
 
 #### Similar Provisions
 

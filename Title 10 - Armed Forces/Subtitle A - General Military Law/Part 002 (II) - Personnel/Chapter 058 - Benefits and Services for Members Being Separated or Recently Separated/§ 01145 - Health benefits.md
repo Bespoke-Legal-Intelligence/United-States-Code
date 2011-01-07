@@ -72,7 +72,7 @@ Conversion Health Policies.—(1) The Secretary of Defense shall inform each mem
 
 (c)
 
-Health Care For Certain Separated Members Not Otherwise Eligible.—(1) Consistent with the authority of the Secretary concerned to designate certain classes of persons as eligible to receive health care at a military medical facility, the Secretary concerned should consider authorizing, on an individual basis in cases of hardship, the provision of that care for a member who is separated from the armed forces, and is ineligible for transitional health care under subsection (a) or does not obtain aconversion health policy (or a dependent of the member).
+Health Care For Certain Separated Members Not Otherwise Eligible.—(1) Consistent with the authority of the Secretary concerned to designate certain classes of persons as eligible to receive health care at a military medical facility, the Secretary concerned should consider authorizing, on an individual basis in cases of hardship, the provision of that care for a member who is separated from the armed forces, and is ineligible for transitional health care under subsection (a) or does not obtain a conversion health policy (or a dependent of the member).
 
 (2) The Secretary concerned shall give special consideration to requests for such care in cases in which the condition for which treatment is required was incurred or aggravated by the member or the dependent before the date of the separation of the member, particularly if the condition is a result of the particular circumstances of the service of the member.
 
@@ -84,17 +84,17 @@ Definition.—In this section, the term “conversion health policy” means a h
 
 Coast Guard.—The Secretary of Homeland Security shall implement this section for the members of the Coast Guard and their dependents.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1555; amended Pub. L. 102–484, div. D, title XLIV, §4407(a), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(4), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(h), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title VII, §736(a), (b), Dec. 28, 2001, 115 Stat. 1172; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, §706(a), (b), Dec. 2, 2002, 116 Stat. 2585; Pub. L. 108–375, div. A, title VII, §706(a)(1), (3), (b), Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, §749, Jan. 6, 2006, 119 Stat. 3364; Pub. L. 110–181, div. A, title XVI, §1637, Jan. 28, 2008, 122 Stat. 464; Pub. L. 110–317, §4, Aug. 29, 2008, 122 Stat. 3528; Pub. L. 110–417, \[div. A\], title VII, §734(a), Oct. 14, 2008, 122 Stat. 4513; Pub. L. 111–84, div. A, title VII, §703, Oct. 28, 2009, 123 Stat. 2373.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1555; amended Pub. L. 102–484, div. D, title XLIV, §4407(a), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(4), Oct. 5, 1994, 108Stat. 2768; Pub. L. 105–261, div. A, title V, §561(h), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title VII, §736(a), (b), Dec. 28, 2001, 115 Stat. 1172; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, §706(a), (b), Dec. 2, 2002, 116 Stat. 2585; Pub. L. 108–375, div. A, title VII, §706(a)(1), (3), (b), Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, §749, Jan. 6, 2006, 119 Stat. 3364; Pub. L. 110–181, div. A, title XVI, §1637, Jan. 28, 2008, 122 Stat. 464; Pub. L. 110–317, §4, Aug. 29, 2008, 122 Stat. 3528; Pub. L. 110–417, \[div. A\], title VII, §734(a), Oct. 14, 2008, 122 Stat. 4513; Pub. L. 111–84, div. A, title VII, §703, Oct. 28, 2009, 123 Stat. 2373.)
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–84, §703(1)(A), substituted “paragraph (4)” for “paragraph (3)” in introductory provisions.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–84, §703(1)(A), substituted “paragraph (4)” for “paragraph (3)” in introductory provisions.
 
 Subsec. (a)(1)(A). Pub. L. 111–84, §703(1)(B), inserted “except as provided in paragraph (3),” before “medical and dental care”.
 
 Subsec. (a)(3) to (7). Pub. L. 111–84, §703(2)–(5), added par. (3), redesignated former pars. (3) to (6) as (4) to (7), respectively, in par. (4) substituted “paragraph (7)” for “paragraph (6)”, and in par. (6)(A) substituted “paragraph (5)” for “paragraph (4)”.
 
-2008—Subsec. (a)(2)(E). Pub. L. 110–317 added subpar. (E).
+<b>2008</b>—Subsec. (a)(2)(E). Pub. L. 110–317 added subpar. (E).
 
 Subsec. (a)(2)(F). Pub. L. 110–417 added subpar. (F).
 
@@ -102,9 +102,9 @@ Subsec. (a)(3). Pub. L. 110–181, §1637(1), substituted “Except as provided 
 
 Subsec. (a)(6). Pub. L. 110–181, §1637(2), added par. (6).
 
-2006—Subsec. (a)(5). Pub. L. 109–163 added par. (5).
+<b>2006</b>—Subsec. (a)(5). Pub. L. 109–163 added par. (5).
 
-2004—Subsec. (a)(1). Pub. L. 108–375, §706(a)(3), struck out “applicable” before “time period” in introductory provisions.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–375, §706(a)(3), struck out “applicable” before “time period” in introductory provisions.
 
 Subsec. (a)(3). Pub. L. 108–375, §706(a)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Transitional health care shall be available under subsection (a) for a specified time period beginning on the date on which the member is separated as follows:
 
@@ -114,13 +114,13 @@ Subsec. (a)(3). Pub. L. 108–375, §706(a)(1), amended par. (3) generally. Prio
 
 Subsec. (a)(4). Pub. L. 108–375, §706(b), added par. (4).
 
-2002—Subsec. (a)(1). Pub. L. 107–314, §706(a), amended Pub. L. 107–107, §736(a)(1). See 2001 Amendment note below.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–314, §706(a), amended Pub. L. 107–107, §736(a)(1). See 2001 Amendment note below.
 
 Subsec. (e). Pub. L. 107–314, §706(b), amended Pub. L. 107–107, §736(b)(2). See 2001 Amendment note below.
 
 Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2001—Subsec. (a)(1). Pub. L. 107–107, §736(a)(1), as amended by Pub. L. 107–314, §706(a), in introductory provisions, substituted “paragraph (3), a member of the armed forces who is separated from active duty as described in paragraph (2) (and the dependents of the member)” for “paragraph (2), a member of the armed forces who is involuntarily separated from active duty during the period beginning on October 1, 1990, and ending on December 31, 2001 (and the dependents of the member),”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107, §736(a)(1), as amended by Pub. L. 107–314, §706(a), in introductory provisions, substituted “paragraph (3), a member of the armed forces who is separated from active duty as described in paragraph (2) (and the dependents of the member)” for “paragraph (2), a member of the armed forces who is involuntarily separated from active duty during the period beginning on October 1, 1990, and ending on December 31, 2001 (and the dependents of the member),”.
 
 Subsec. (a)(2). Pub. L. 107–107, §736(a)(3), added par. (2). Former par. (2) redesignated (3).
 
@@ -130,17 +130,17 @@ Subsec. (c)(1). Pub. L. 107–107, §736(b)(1), struck out “during the period 
 
 Subsec. (e). Pub. L. 107–107, §736(b)(2), as amended by Pub. L. 107–314, §706(b), substituted “the members of the Coast Guard and their dependents” for “the Coast Guard” in second sentence and struck out first sentence which read as follows: “The provisions of this section shall apply to members of the Coast Guard (and their dependents) involuntarily separated from active duty during the period beginning on October 1, 1994, and ending on December 31, 2001.”
 
-2000—Subsecs. (a)(1), (c)(1), (e). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001”.
+<b>2000</b>—Subsecs. (a)(1), (c)(1), (e). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001”.
 
-1998—Subsecs. (a)(1), (c)(1). Pub. L. 105–261, §561(h)(1), substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
+<b>1998</b>—Subsecs. (a)(1), (c)(1). Pub. L. 105–261, §561(h)(1), substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
 
 Subsec. (e). Pub. L. 105–261, §561(h)(2), substituted “during the period beginning on October 1, 1994, and ending on September 30, 2001” for “during the five-year period beginning on October 1, 1994”.
 
-1994—Subsec. (e). Pub. L. 103–337 added subsec. (e).
+<b>1994</b>—Subsec. (e). Pub. L. 103–337 added subsec. (e).
 
-1993—Subsecs. (a)(1), (c)(1). Pub. L. 103–160 substituted “nine-year period” for “five-year period”.
+<b>1993</b>—Subsecs. (a)(1), (c)(1). Pub. L. 103–160 substituted “nine-year period” for “five-year period”.
 
-1992—Subsec. (b)(1). Pub. L. 102–484, §4407(a)(1), inserted at end “A conversion health policy offered under this paragraph shall provide coverage for not less than an 18-month period.”
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–484, §4407(a)(1), inserted at end “A conversion health policy offered under this paragraph shall provide coverage for not less than an 18-month period.”
 
 Subsec. (b)(2)(A). Pub. L. 102–484, §4407(a)(2), substituted “18-month period” for “one-year period”.
 
@@ -154,7 +154,7 @@ Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship 
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–314, div. A, title VII, §706(c), Dec. 2, 2002, 116 Stat. 2585, provided that: “The amendments made by this section \[amending this section\] shall take effectas of December 28, 2001, and as if included in the National Defense Authorization Act for Fiscal Year 2002 \[Pub. L. 107–107\] as enacted.”
+Pub. L. 107–314, div. A, title VII, §706(c), Dec. 2, 2002, 116 Stat. 2585, provided that: “The amendments made by this section \[amending this section\] shall take effect as of December 28, 2001, and as if included in the National Defense Authorization Act for Fiscal Year 2002 \[Pub. L. 107–107\] as enacted.”
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
@@ -168,7 +168,7 @@ For provisions relating to the application of the amendments by section 4407 of 
 
 #### Transitional Provision
 
-Section 4408(b) of Pub. L. 102–484 provided that: “The Secretary of Defense shall provide a period for the enrollment for health benefits coverage under this section \[enacting section 1078a of this title and provisions set out as notes under this section and section 1086a of this title\] by members and former members of the Armed Services for whom the availability of transitional health care under section 1145(a) of title 10, United States Code, expires before the October 1, 1994, implementation date of section 1078a of such title, as added by subsection (a).”
+Section 4408(b) of Pub. L. 102–484 provided that: “The Secretary of Defense shall provide a period for the enrollment for health benefits coverage under this section \[enacting section 1078a of this title and provisions set out as notes under this section and section 1086a of this title\] by members and former members of the Armed Services for whom the availability of transitional health care under section 1145(a) of title 10,United States Code, expires before the October 1, 1994, implementation date of section 1078a of such title, as added by subsection (a).”
 
 #### Termination of Applicability of Other Conversion Health Policies
 

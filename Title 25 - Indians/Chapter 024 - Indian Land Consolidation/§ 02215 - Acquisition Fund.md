@@ -28,7 +28,7 @@ The Secretary shall establish an Acquisition Fund to—
 
 #### Amendments
 
-2004—Subsec. (a)(2). Pub. L. 108–374, §6(a)(8)(A), added par. (2) and struck out former par. (2) which read as follows: “collect all revenues received from the lease, permit, or sale of resources from interests in trust or restricted lands transferred to Indian tribes by the Secretary under section 2212 of this title or paid by Indian landowners under section 2212(c) of this title.”
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–374, §6(a)(8)(A), added par. (2) and struck out former par. (2) which read as follows: “collect all revenues received from the lease, permit, or sale of resources from interests in trust or restricted lands transferred to Indian tribes by the Secretary under section 2212 of this title or paid by Indian landowners under section 2212(c) of this title.”
 
 Subsec. (b)(1). Pub. L. 108–374, §6(a)(8)(B)(i), substituted “All” for “Subject to paragraph (2), all” in introductory provisions and added subpar. (C).
 

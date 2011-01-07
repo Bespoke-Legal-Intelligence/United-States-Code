@@ -18,7 +18,7 @@ In order to minimize the burden caused by existing application and reporting pro
 
 #### Amendments
 
-1978—Pub. L. 95–348, §9(1), in introductory provision inserted “, notwithstanding any provision of law to the contrary,” after “Congress”.
+<b>1978</b>—Pub. L. 95–348, §9(1), in introductory provision inserted “, notwithstanding any provision of law to the contrary,” after “Congress”.
 
 Subsec. (a). Pub. L. 95–348, §9(2), substituted “Any” for “Notwithstanding any provision of law to the contrary, any”.
 

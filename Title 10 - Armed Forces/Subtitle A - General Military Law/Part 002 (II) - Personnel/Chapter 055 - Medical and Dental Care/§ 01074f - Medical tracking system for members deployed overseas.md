@@ -6,9 +6,19 @@ System Required.—The Secretary of Defense shall establish a system to assess t
 
 (b)
 
-Elements of System.—(1) The system described in subsection (a) shall include the use of predeployment medical examinations and postdeployment medical examinations (including an assessment of mental health and the drawing of blood samples) to accurately record the medical condition of members before their deployment and any changes in their medical condition during the course of their deployment. The postdeployment examination shall be conducted when the member is redeployed or otherwise leaves an area in which the system is in operation (or as soon as possible thereafter).
+Elements of System.—(1)(A) The system described in subsection (a) shall include the use of predeployment medical examinations and postdeployment medical examinations (including the assessment of mental health and the drawing of blood samples) and postdeployment health reassessments to—
 
-(2) The predeployment and postdeployment medical examination of a member of the armed forces required under paragraph (1) shall include the following:
+&emsp;(i) accurately record the health status of members before their deployment;
+
+&emsp;(ii) accurately record any changes in their health status during the course of their deployment; and
+
+&emsp;(iii) identify health concerns, including mental health concerns, that may become manifest several months following their deployment.
+
+(B) The postdeployment medical examination shall be conducted when the member is redeployed or otherwise leaves an area in which the system is in operation (or as soon as possible thereafter).
+
+(C) The postdeployment health reassessment shall be conducted at an appropriate time during the period beginning 90 days after the member is redeployed and ending 180 days after the member is redeployed.
+
+(2) The predeployment medical examination, postdeployment medical examination, and postdeployment health reassessment of a member of the armed forces required under paragraph (1) shall include the following:
 
 &emsp;(A) An assessment of the current treatment of the member and any use of psychotropic medications by the member for a mental health condition or disorder.
 
@@ -22,17 +32,17 @@ Elements of System.—(1) The system described in subsection (a) shall include t
 
 (c)
 
-Recordkeeping.—The results of all medical examinations conducted under the system, records of all health care services (including immunizations) received by members described in subsection (a) in anticipation of their deployment or during the course of their deployment, and records of events occurring in the deployment area that may affect the health of such members shall be retained and maintained in a centralized location to improve future access to the records.
+Recordkeeping.—The results of all medical examinations and reassessments conducted under the system, records of all health care services (including immunizations and the prescription and administration of psychotropic medications) received by members described in subsection (a) in anticipation of their deployment or during the course of their deployment, and records of events occurring in the deployment area that may affect the health of such members shall be retained and maintained in a centralized location to improve future access to the records.
 
 (d)
 
-Quality Assurance.—(1) The Secretary of Defense shall establish a quality assurance program to evaluate the success of the system in ensuring that members described in subsection (a) receive predeployment medical examinations and postdeployment medical examinations and that the recordkeeping requirements with respect to the system are met.
+Quality Assurance.—(1) The Secretary of Defense shall establish a quality assurance program to evaluate the success of the system in ensuring that members described in subsection (a) receive predeployment medical examinations, postdeployment medical examinations, and postdeployment health reassessments and that the recordkeeping requirements with respect to the system are met.
 
 (2) The quality assurance program established under paragraph (1) shall also include the following elements:
 
-&emsp;(A) The types of healthcare providers conducting postdeployment health assessments.
+&emsp;(A) The types of healthcare providers conducting postdeployment health assessments and reassessments.
 
-&emsp;(B) The training received by such providers applicable to the conduct of such assessments, including training on assessments and referrals relating to mental health.
+&emsp;(B) The training received by such providers applicable to the conduct of such assessments and reassessments, including training on assessments and referrals relating to mental health.
 
 &emsp;(C) The guidance available to such providers on how to apply the clinical practice guidelines developed under subsection (e)(1) in determining whether to make a referral for further evaluation of a member of the armed forces relating to mental health.
 
@@ -68,13 +78,25 @@ Minimum Standards for Deployment.—(1) The Secretary of Defense shall prescribe
 
 (3) The Secretary shall take appropriate actions to ensure the utilization of the standards prescribed under paragraph (1) in the making of determinations regarding the deployability of members of the armed forces to a combat operation or contingency operation.
 
-(Added Pub. L. 105–85, div. A, title VII, §765(a)(1), Nov. 18, 1997, 111 Stat. 1826; amended Pub. L. 109–364, div. A, title VII, §738(a)–(d), Oct. 17, 2006, 120 Stat. 2303; Pub. L. 110–181, div. A, title XVI, §1673(a)(1), (b), (c), Jan. 28, 2008, 122 Stat. 482, 483; Pub. L. 111–84, div. A, title X, §1073(a)(9), Oct. 28, 2009, 123 Stat. 2472.)
+(Added Pub. L. 105–85, div. A, title VII, §765(a)(1), Nov. 18, 1997, 111 Stat. 1826; amended Pub. L. 109–364, div. A, title VII, §738(a)–(d), Oct. 17, 2006, 120 Stat. 2303; Pub. L. 110–181, div. A, title XVI, §1673(a)(1), (b), (c), Jan. 28, 2008, 122 Stat. 482, 483; Pub. L. 111–84, div. A, title X, §1073(a)(9), Oct. 28,2009, 123 Stat. 2472; Pub. L. 111–383, div. A, title VII, §712, Jan. 7, 2011, 124 Stat. 4247.)
 
 #### Amendments
 
-2009—Subsec. (f)(3). Pub. L. 111–84 substituted “contingency” for “continency”.
+<b>2011</b>—Subsec. (b)(1). Pub. L. 111–383, §712(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The system described in subsection (a) shall include the use of predeployment medical examinations and postdeployment medical examinations (including an assessment of mental health and the drawing of blood samples) to accurately record the medical condition of members before their deployment and any changes in their medical condition during the course of their deployment. The postdeployment examination shall be conducted when the member is redeployed or otherwise leaves an area in which the system is in operation (or as soon as possible thereafter).”
 
-2008—Subsec. (b)(2)(C). Pub. L. 110–181, §1673(a)(1)(A), added subpar. (C).
+Subsec. (b)(2). Pub. L. 111–383, §712(b), substituted “medical examination, postdeployment medical examination, and postdeployment health reassessment” for “and postdeployment medical examination” in introductory provisions.
+
+Subsec. (c). Pub. L. 111–383, §712(c), inserted “and reassessments” after “medical examinations” and “and the prescription and administration of psychotropic medications” after “including immunizations”.
+
+Subsec. (d)(1). Pub. L. 111–383, §712(d)(1), substituted “, postdeployment medical examinations, and postdeployment health reassessments” for “and postdeployment medical examinations”.
+
+Subsec. (d)(2)(A). Pub. L. 111–383, §712(d)(2)(A), inserted “and reassessments” after “postdeployment health assessments”.
+
+Subsec. (d)(2)(B). Pub. L. 111–383, §712(d)(2)(B), inserted “and reassessments” after “such assessments”.
+
+<b>2009</b>—Subsec. (f)(3). Pub. L. 111–84 substituted “contingency” for “continency”.
+
+<b>2008</b>—Subsec. (b)(2)(C). Pub. L. 110–181, §1673(a)(1)(A), added subpar. (C).
 
 Subsec. (b)(3). Pub. L. 110–181, §1673(a)(1)(B), added par. (3).
 
@@ -84,13 +106,25 @@ Subsec. (f). Pub. L. 110–181, §1673(c)(1), struck out “Mental Health” aft
 
 Subsec. (f)(2)(B). Pub. L. 110–181, §1673(c)(2), substituted “, traumatic brain injury, or” for “or”.
 
-2006—Subsec. (b). Pub. L. 109–364, §738(a), designated existing provisions as par. (1) and added par. (2).
+<b>2006</b>—Subsec. (b). Pub. L. 109–364, §738(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (d). Pub. L. 109–364, §738(d), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (e). Pub. L. 109–364, §738(b), added subsec. (e).
 
 Subsec. (f). Pub. L. 109–364, §738(c), added subsec. (f).
+
+#### Comprehensive Policy on Consistent Neurological Cognitive Assessments of Members of the Armed Forces Before and After Deployment
+
+Pub. L. 111–383, div. A, title VII, §722, Jan. 7, 2011, 124 Stat. 4251, provided that:
+
+“(a)
+
+Comprehensive Policy Required.—Not later than January 31, 2011, the Secretary of Defense shall develop and implement a comprehensive policy on consistent neurological cognitive assessments of members of the Armed Forces before and after deployment.
+
+“(b)
+
+Updates.—The Secretary shall revise the policy required by subsection (a) on a periodic basis in accordance with experience and evolving best practice guidelines.”
 
 #### Mental Health Assessments for Members of the Armed Forces Deployed in Connection With a Contingency Operation
 

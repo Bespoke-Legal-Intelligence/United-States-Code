@@ -6,7 +6,7 @@ As used in this chapter—
 
 &emsp;(2) the term “foreign agent” means any officer, employee, proxy, servant, delegate, or representative of a foreign government;
 
-&emsp;(3) the term “trade secret” means all forms and types of financial, business, scientific,technical, economic, or engineering information, including patterns, plans, compilations, program devices, formulas, designs, prototypes, methods, techniques, processes, procedures, programs, or codes, whether tangible or intangible, and whether or how stored, compiled, or memorialized physically, electronically, graphically, photographically, or in writing if—
+&emsp;(3) the term “trade secret” means all forms and types of financial, business, scientific, technical, economic, or engineering information, including patterns, plans, compilations, program devices, formulas, designs, prototypes, methods, techniques, processes, procedures, programs, or codes, whether tangible or intangible, and whether or how stored, compiled, or memorialized physically, electronically, graphically, photographically, or in writing if—
 
 &emsp;&emsp;(A) the owner thereof has taken reasonable measures to keep such information secret; and
 

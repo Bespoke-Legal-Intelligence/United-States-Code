@@ -10,7 +10,7 @@ Where a wilderness boundary exists along a road, the wilderness boundary shall b
 
 #### (c) Access to non-Federal lands
 
-The Secretary shall provide reasonable access to private lands within the boundaries of the Wilderness Area, as provided in section 460nnn–22(d) <sup>1</sup> of this title.
+The Secretary shall provide reasonable access to private lands within the boundaries of theWilderness Area, as provided in section 460nnn–22(d) <sup>1</sup> of this title.
 
 #### (d) Grazing
 

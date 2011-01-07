@@ -108,7 +108,7 @@ Construction of Utility Infrastructure After Conveyance of a Utility System.—(
 
 (k)
 
-Limitation.—This section shall not apply to projects constructed or operated by the ArmyCorps of Engineers under its civil works authorities.
+Limitation.—This section shall not apply to projects constructed or operated by the Army Corps of Engineers under its civil works authorities.
 
 (Added Pub. L. 105–85, div. B, title XXVIII, §2812(a), Nov. 18, 1997, 111 Stat. 1992; amended Pub. L. 106–65, div. A, title X, §1067(1), div. B, title XXVIII, §2812, Oct. 5, 1999, 113 Stat. 774, 851; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(15), div. B, title XXVIII, §2813\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291, 1654A–418; Pub. L. 108–136, div. A, title X, §1031(a)(32), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 109–163, div. B, title XXVIII, §2823(a)–(d), Jan. 6, 2006, 119 Stat. 3514–3516; Pub. L. 110–417, div. B, title XXVIII, §2813, Oct. 14, 2008, 122 Stat. 4728; Pub. L. 111–84, div. B, title XXVIII, §2821, Oct. 28, 2009, 123 Stat. 2664.)
 
@@ -118,13 +118,13 @@ A prior section 2688, added Pub. L. 96–125, title VIII, §804(a)(1), Nov. 26, 
 
 #### Amendments
 
-2009—Subsec. (a)(2)(A)(ii). Pub. L. 111–84, §2821(a), substituted “system by 10 percent of the long-term cost for provision of those utility services in the agency tender; and” for “system; and”.
+<b>2009</b>—Subsec. (a)(2)(A)(ii). Pub. L. 111–84, §2821(a), substituted “system by 10 percent of the long-term cost for provision of those utility services in the agency tender; and” for “system; and”.
 
 Subsec. (a)(3). Pub. L. 111–84, §2821(b), added par. (3).
 
-2008—Subsecs. (j), (k). Pub. L. 110–417 added subsec. (j) and redesignated former subsec. (j) as (k).
+<b>2008</b>—Subsecs. (j), (k). Pub. L. 110–417 added subsec. (j) and redesignated former subsec. (j) as (k).
 
-2006—Subsec. (a). Pub. L. 109–163, §2823(a), designated existing provisions as par. (1) and added par. (2).
+<b>2006</b>—Subsec. (a). Pub. L. 109–163, §2823(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (c)(1). Pub. L. 109–163, §2823(b), substituted “may require” for “shall require” in introductory provisions.
 
@@ -152,7 +152,7 @@ Pub. L. 109–163, §2823(c)(1), redesignated subsec. (g) as (h). Former subsec.
 
 Subsecs. (i), (j). Pub. L. 109–163, §2823(c)(1), redesignated subsecs. (h) and (i) as (i) and (j), respectively.
 
-2003—Subsec. (e). Pub. L. 108–136 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Secretary concerned may not make a conveyance under subsection (a) until—
+<b>2003</b>—Subsec. (e). Pub. L. 108–136 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Secretary concerned may not make a conveyance under subsection (a) until—
 
 &emsp;“(1) the Secretary submits to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives an economic analysis (based upon accepted life-cycle costing procedures approved by the Secretary of Defense) demonstrating that—
 
@@ -162,13 +162,13 @@ Subsecs. (i), (j). Pub. L. 109–163, §2823(c)(1), redesignated subsecs. (h) an
 
 &emsp;“(2) a period of 21 days has elapsed after the date on which the economic analysis is received by the committees.”
 
-2000—Subsec. (b). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2813(a)\], designated existing provisions as par. (1) and added pars. (2) and (3).
+<b>2000</b>—Subsec. (b). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2813(a)\], designated existing provisions as par. (1) and added pars. (2) and (3).
 
 Subsec. (f). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2813(b)\], designated existing provisions as par. (1) and added par. (2).
 
 Subsecs. (h) to (j). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(15)\], redesignated subsecs. (i) and (j) as (h) and (i), respectively.
 
-1999—Subsec. (c)(3). Pub. L. 106–65, §2812(a), added par. (3).
+<b>1999</b>—Subsec. (c)(3). Pub. L. 106–65, §2812(a), added par. (3).
 
 Subsec. (e)(1). Pub. L. 106–65, §1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 

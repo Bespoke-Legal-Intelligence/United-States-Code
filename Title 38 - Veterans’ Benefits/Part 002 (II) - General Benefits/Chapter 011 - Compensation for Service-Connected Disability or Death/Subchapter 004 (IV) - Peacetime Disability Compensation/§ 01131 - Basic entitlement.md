@@ -6,15 +6,15 @@ For disability resulting from personal injury suffered or disease contracted in 
 
 #### Amendments
 
-1998—Pub. L. 105–178, which directed the substitution of “, abuse of alcohol or drugs, or use of tobacco products” for “or abuse of alcohol or drugs” before the period at end, was amended generally by Pub. L. 105–206, which provided that the amendments made by that section as originally enacted shall be treated for all purposes as not having been made. See Effective Date of 1998 Amendment note below.
+<b>1998</b>—Pub. L. 105–178, which directed the substitution of “, abuse of alcohol or drugs, or use of tobacco products” for “or abuse of alcohol or drugs” before the period at end, was amended generally by Pub. L. 105–206, which provided that the amendments made by that section as originally enacted shall be treated for all purposes as not having been made. See Effective Date of 1998 Amendment note below.
 
-1991—Pub. L. 102–83 renumbered section 331 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 331 of this title as this section.
 
-1990—Pub. L. 101–508 substituted “a result of the veteran's own willful misconduct or abuse of alcohol or drugs” for “the result of the veteran's own willful misconduct”.
+<b>1990</b>—Pub. L. 101–508 substituted “a result of the veteran's own willful misconduct or abuse of alcohol or drugs” for “the result of the veteran's own willful misconduct”.
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated asincluded in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1990 Amendment
 

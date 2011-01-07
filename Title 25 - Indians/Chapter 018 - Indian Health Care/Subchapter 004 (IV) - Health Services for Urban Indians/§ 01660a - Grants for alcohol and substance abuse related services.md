@@ -32,6 +32,10 @@ Any funds received by an urban Indian organization under this chapter for substa
 
 (Pub. L. 94–437, title V, §511, as added Pub. L. 102–573, title V, §502, Oct. 29, 1992, 106 Stat. 4569.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+
 #### Prior Provisions
 
 A prior section 511 of Pub. L. 94–437 was renumbered section 510 and is classified to section 1660 of this title.

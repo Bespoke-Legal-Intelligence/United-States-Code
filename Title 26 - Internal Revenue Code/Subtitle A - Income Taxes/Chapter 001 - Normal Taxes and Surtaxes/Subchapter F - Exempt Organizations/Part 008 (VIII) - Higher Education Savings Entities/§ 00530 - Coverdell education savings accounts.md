@@ -222,21 +222,21 @@ The date of the enactment of this section, referred to in subsec. (d)(4)(B)(iv),
 
 #### Amendments
 
-2008—Subsec. (d)(9). Pub. L. 110–245 added par. (9).
+<b>2008</b>—Subsec. (d)(9). Pub. L. 110–245 added par. (9).
 
-2005—Subsec. (b)(2)(A)(ii). Pub. L. 109–135, §412(ff)(2), substituted “paragraph (3)” for “paragraph (4)”.
+<b>2005</b>—Subsec. (b)(2)(A)(ii). Pub. L. 109–135, §412(ff)(2), substituted “paragraph (3)” for “paragraph (4)”.
 
 Subsec. (b)(3) to (5). Pub. L. 109–135, §412(ff)(1), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “The term ‘eligible educational institution’ has the meaning given such term by section 529(e)(5).”
 
-2004—Subsec. (d)(2)(C)(i). Pub. L. 108–311, §404(a), struck out “higher” after “qualified” in introductory provisions.
+<b>2004</b>—Subsec. (d)(2)(C)(i). Pub. L. 108–311, §404(a), struck out “higher” after “qualified” in introductory provisions.
 
 Subsec. (d)(4)(B)(iii). Pub. L. 108–311, §406(b), substituted “designated beneficiary” for “account holder”.
 
-2003—Subsec. (d)(4)(B)(iv), (v). Pub. L. 108–121 added cl. (iv) and redesignated former cl. (iv) as (v).
+<b>2003</b>—Subsec. (d)(4)(B)(iv), (v). Pub. L. 108–121 added cl. (iv) and redesignated former cl. (iv) as (v).
 
-2002—Subsec. (d)(4)(B)(iv). Pub. L. 107–147 substituted “by application of paragraph (2)(C)(i)(II)” for “because the taxpayer elected under paragraph (2)(C) to waive the application of paragraph (2)”.
+<b>2002</b>—Subsec. (d)(4)(B)(iv). Pub. L. 107–147 substituted “by application of paragraph (2)(C)(i)(II)” for “because the taxpayer elected under paragraph (2)(C) to waive the application of paragraph (2)”.
 
-2001—Pub. L. 107–22, §1(a)(5), amended section catchline generally, substituting “Coverdell education savings” for “Education individual retirement”.
+<b>2001</b>—Pub. L. 107–22, §1(a)(5), amended section catchline generally, substituting “Coverdell education savings” for “Education individual retirement”.
 
 Subsec. (a). Pub. L. 107–22, §1(a)(2), substituted “A Coverdell education savings account” for “An education individual retirement account” and “the Coverdell education savings account” for “the education individual retirement account”.
 
@@ -284,9 +284,9 @@ Subsec. (e). Pub. L. 107–22, §1(a)(4), substituted “Coverdell education sav
 
 Subsec. (h). Pub. L. 107–22, §1(a)(1), substituted “a Coverdell education savings account” for “an education individual retirement account”.
 
-2000—Subsec. (d)(4)(B)(iii). Pub. L. 106–554 substituted a comma for a semicolon before “or” at end.
+<b>2000</b>—Subsec. (d)(4)(B)(iii). Pub. L. 106–554 substituted a comma for a semicolon before “or” at end.
 
-1998—Subsec. (b)(1). Pub. L. 105–206, §6004(d)(1), inserted “an individual who is” before “the designated beneficiary” in introductory provisions.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–206, §6004(d)(1), inserted “an individual who is” before “the designated beneficiary” in introductory provisions.
 
 Subsec. (b)(1)(E). Pub. L. 105–206, §6004(d)(2)(A), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “Upon the death of the designated beneficiary, any balance to the credit of the beneficiary shall be distributed within 30 days after the date of death to the estate of such beneficiary.”
 
@@ -334,7 +334,7 @@ Amendment by section 401(a)(1), (b)–(g)(1), (2)(C) of Pub. L. 107–16 applica
 
 Amendment by section 402(a)(4)(A), (C) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 402(h) of Pub. L. 107–16, set out as an Effective Date of 2001 Amendment note under section 72 of this title.
 
-Amendment by section 401(a)(1), (b)–(g)(1), (2)(C) of Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by section 401(a)(1), (b)–(g)(1), (2)(C) of Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -343,4 +343,6 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 #### Effective Date
 
 Section applicable to taxable years beginning after Dec. 31, 1997, see section 213(f) of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under section 26 of this title.
+
+<i><sup>1</sup></i><i> So in original. The word “the” probably should not appear.</i>
 

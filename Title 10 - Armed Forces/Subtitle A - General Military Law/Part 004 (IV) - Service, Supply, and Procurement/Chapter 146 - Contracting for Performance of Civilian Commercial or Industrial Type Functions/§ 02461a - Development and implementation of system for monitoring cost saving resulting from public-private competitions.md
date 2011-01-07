@@ -6,7 +6,7 @@ System for Monitoring Performance.—(1) The Secretary of Defense shall monitor 
 
 (2) In carrying out paragraph (1), the Secretary shall—
 
-&emsp;(A) compare the cost of performing the function before the public-private competition to the cost of performing the function after the implementation of the results of the public-private competition; and
+&emsp;(A) compare the cost of performing the function before the public-private competition tothe cost of performing the function after the implementation of the results of the public-private competition; and
 
 &emsp;(B) identify any actual savings of the Department of Defense after the implementation of the results of the public-private competition and compare such savings to the estimated savings identified pursuant to section 2461(a)(1)(E) of this title for that public-private competition;
 
@@ -20,7 +20,7 @@ Consideration in Preparation of Future-Years Defense Program.—In preparing the
 
 #### Amendments
 
-2006—Pub. L. 109–163, §341(g)(2)(C), substituted “Development and implementation of system for monitoring cost saving resulting from public-private competitions” for “Development of system for monitoring cost savings resulting from workforce reductions” in section catchline.
+<b>2006</b>—Pub. L. 109–163, §341(g)(2)(C), substituted “Development and implementation of system for monitoring cost saving resulting from public-private competitions” for “Development of system for monitoring cost savings resulting from workforce reductions” in section catchline.
 
 Subsec. (a). Pub. L. 109–163, §341(d)(1), (2), redesignated subsec. (b) as (a) and struck out former subsec. (a) which defined “workforce review”.
 
@@ -36,7 +36,7 @@ Pub. L. 109–163, §341(d)(2), redesignated subsec. (e) as (b). Former subsec. 
 
 Subsecs. (c) to (e). Pub. L. 109–163, §341(d)(1), (2), redesignated subsec. (e) as (b) and struck out former subsecs. (c) and (d) which related to waiver for certain workforce reviews and annual report, respectively.
 
-2001—Subsec. (a)(2). Pub. L. 107–107, §1048(a)(21), substituted “efficiency” for “effeciency”.
+<b>2001</b>—Subsec. (a)(2). Pub. L. 107–107, §1048(a)(21), substituted “efficiency” for “effeciency”.
 
 Subsec. (b)(1). Pub. L. 107–107, §1048(c)(11), substituted “October 30, 2000,” for “the date of the enactment of this section,”.
 

@@ -76,7 +76,7 @@ In subsection (b), the last sentence is substituted for 10:875a (1st and 2d prov
 
 In subsection (c), the words “Subject to subsection (b)” are substituted for the words “in the proportions hereinbefore indicated”.
 
-In subsection (d), the words “If he considers it in the best interests of the United States” are substituted for the words “when in his opinion the interests of the Government are best served by such action”. The words “before, or at the time of” are substituted for the words “either on or prior thereto”.
+In subsection (d), the words “If he considers it in the best interests of the United States” are substituted for the words “when in his opinion the interests of the Government are best served by such action”. The words “before, or at the time of” are substituted for the words “either on \* \* \* or prior thereto”.
 
 In subsection (e), the words “member” and “his” are substituted for the words “officer or soldier”. The words “or implement” are omitted as surplusage.
 
@@ -92,9 +92,9 @@ The change \[in subsec. (f)\] reflects the opinion of the Assistant General Coun
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181 made technical correction to directory language of Pub. L. 109–364, §673(c)(1). See 2006 Amendment note below.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181 made technical correction to directory language of Pub. L. 109–364, §673(c)(1). See 2006 Amendment note below.
 
-2006—Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text read as follows: “If he considers it in the best interest of the United States, the Secretary may have remitted or cancelled any part of an enlisted member's indebtedness to the United States or any of its instrumentalities remaining unpaid before, or at the time of, that member's honorable discharge.”
+<b>2006</b>—Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text read as follows: “If he considers it in the best interest of the United States, the Secretary may have remitted or cancelled any part of an enlisted member's indebtedness to the United States or any of its instrumentalities remaining unpaid before, or at the time of, that member's honorable discharge.”
 
 Subsec. (a). Pub. L. 109–364, §673(e)(3), substituted “The Secretary of the Air Force” for “If the Secretary considers it to be in the best interest of the United States, the Secretary” and inserted before period at end “, but only if the Secretary considers such action to be in the best interest of the United States”.
 
@@ -108,11 +108,11 @@ Subsecs. (b) to (d). Pub. L. 109–364, §673(c)(2), redesignated subsecs. (c) a
 
 &emsp;“(3) if released from active status in a reserve component, during the one-year period beginning on the date of such release.”
 
-1980—Pub. L. 96–513 substituted “remission or cancellation of indebtedness of enlisted members” for “deductions from pay” in section catchline, and struck out designation “(d)” before “If he”.
+<b>1980</b>—Pub. L. 96–513 substituted “remission or cancellation of indebtedness of enlisted members” for “deductions from pay” in section catchline, and struck out designation “(d)” before “If he”.
 
-1962—Pub. L. 87–649 repealed subsecs. (a) to (c) and (e) to (g) which related to deductions from pay. See subsecs. (b) to (g) of section 1007 of Title 37, Pay and Allowances of the Uniformed Services.
+<b>1962</b>—Pub. L. 87–649 repealed subsecs. (a) to (c) and (e) to (g) which related to deductions from pay. See subsecs. (b) to (g) of section 1007 of Title 37, Pay and Allowances of the Uniformed Services.
 
-1958—Subsec. (b). Pub. L. 85–861, §33(a)(45)(A), substituted “his pay for that month” for “his basic pay for that month”.
+<b>1958</b>—Subsec. (b). Pub. L. 85–861, §33(a)(45)(A), substituted “his pay for that month” for “his basic pay for that month”.
 
 Subsec. (f). Pub. L. 85–861, §33(a)(45)(B), substituted “an officer” for “a commissioned officer” in two places.
 
@@ -122,7 +122,7 @@ Pub. L. 110–181, div. A, title X, §1063(c), Jan. 28, 2008, 122 Stat. 322, pro
 
 #### Termination Date of 2006 Amendment
 
-Pub. L. 109–163, div. A, title VI, §683(c)(3), Jan. 6, 2006, 119 Stat. 3324, which provided for termination of amendments by Pub. L. 109–163, §683(c), amending this section and the analysis to this chapter, on Dec. 31, 2007, and restoration of provisions as in effect on the day before Jan. 6, 2006, was repealed by Pub. L. 109–364, div. A, title VI, §673(c)(3), Oct. 17, 2006, 120 Stat. 2272.
+Pub. L. 109–163, div. A, title VI, §683(c)(3), Jan. 6, 2006, 119 Stat. 3324, which provided for termination ofamendments by Pub. L. 109–163, §683(c), amending this section and the analysis to this chapter, on Dec. 31, 2007, and restoration of provisions as in effect on the day before Jan. 6, 2006, was repealed by Pub. L. 109–364, div. A, title VI, §673(c)(3), Oct. 17, 2006, 120 Stat. 2272.
 
 #### Effective Date of 1980 Amendment
 

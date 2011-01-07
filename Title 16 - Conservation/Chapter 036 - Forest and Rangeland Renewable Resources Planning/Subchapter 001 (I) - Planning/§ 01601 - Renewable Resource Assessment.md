@@ -26,7 +26,7 @@ The Secretary shall report in the 1979 and subsequent Assessments on:
 
 &emsp;(2) the potential for increased utilization of forest and wood product wastes in the National Forest System and on other lands, and of urban wood wastes and wood product recycling, including recommendations to the Congress for actions which would lead to increased utilization of material now being wasted both in the forests and in manufactured products; and
 
-&emsp;(3) the milling and other wood fiber product fabrication facilities and their location in the United States, noting the public and private forested areas that supply such facilities, assessing the degree of utilization into product form of harvested trees by such facilities, and setting forth the technology appropriate to facilities to improve utilization either individually or in aggregate the units of harvested trees and to reduce wasted wood fibers. The Secretary shall set forth a program to encourage the adoption by these facilities of these technologies for improving wood fiber utilization.
+&emsp;(3) the milling and other wood fiber product fabrication facilities and their location in the United States, noting the public and private forested areas that supply such facilities, assessing the degree of utilization into product form of harvested trees by such facilities, and setting forth the technology appropriate to the facilities to improve utilization either individually or in aggregate units of harvested trees and to reduce wasted wood fibers. The Secretary shall set forth a program to encourage the adoption by these facilities of these technologies for improving wood fiber utilization.
 
 #### (d) <sup>3</sup> Public involvement; consultation with governmental departments and agencies
 
@@ -52,9 +52,9 @@ Subsec. (b) of this section amended section 581h of this title.
 
 #### Amendments
 
-1990—Subsec. (a)(5), (6). Pub. L. 101–624 added pars. (5) and (6).
+<b>1990</b>—Subsec. (a)(5), (6). Pub. L. 101–624 added pars. (5) and (6).
 
-1976—Subsecs. (c) to (e). Pub. L. 94–588, §§3, 4, added subsecs. (c) to (e).
+<b>1976</b>—Subsecs. (c) to (e). Pub. L. 94–588, §§3, 4, added subsecs. (c) to (e).
 
 #### Termination of Reporting Requirements
 

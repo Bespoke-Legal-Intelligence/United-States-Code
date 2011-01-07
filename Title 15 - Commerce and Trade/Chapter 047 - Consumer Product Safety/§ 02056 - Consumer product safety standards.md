@@ -24,7 +24,7 @@ The Commission may promulgate consumer product safety standards in accordance wi
 
 #### (c) Contribution of Commission to development cost
 
-If any person participates with the Commission in the development of a consumer product safety standard, the Commission may agree to contribute to the person's cost with respect to such participation, in any case in which the Commission determines that such contribution is likely to result in a more satisfactory standard than would be developed without such contribution, and that the person is financially responsible. Regulations of the Commission shall set forth the items of cost in which it may participate, and shall exclude any contribution to the acquisition of land or buildings. Payments under agreements entered into under this subsection may be made without regard to section 3324(a) and (b) of title 31.
+If any person participates with the Commission in the development of a consumer productsafety standard, the Commission may agree to contribute to the person's cost with respect to such participation, in any case in which the Commission determines that such contribution is likely to result in a more satisfactory standard than would be developed without such contribution, and that the person is financially responsible. Regulations of the Commission shall set forth the items of cost in which it may participate, and shall exclude any contribution to the acquisition of land or buildings. Payments under agreements entered into under this subsection may be made without regard to section 3324(a) and (b) of title 31.
 
 (Pub. L. 92–573, §7, Oct. 27, 1972, 86 Stat. 1212; Pub. L. 94–284, §§6, 7, 8(a), May 11, 1976, 90 Stat. 505, 506; Pub. L. 95–631, §§3, 4(a)–(c), 5, Nov. 10, 1978, 92 Stat. 3742–3744; Pub. L. 97–35, title XII, §1202, Aug. 13, 1981, 95 Stat. 703; Pub. L. 101–608, title I, §107(a), Nov. 16, 1990, 104 Stat. 3111.)
 
@@ -34,9 +34,9 @@ In subsec. (c), “section 3324(a) and (b) of title 31” substituted for “sec
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–608 designated existing provisions as par. (1) and added par. (2).
+<b>1990</b>—Subsec. (b). Pub. L. 101–608 designated existing provisions as par. (1) and added par. (2).
 
-1981—Subsec. (a). Pub. L. 97–35 amended subsec. (a) generally, and in the requirements for consumer product safety standards, struck out reference to composition, contents, design, construction, finish, or packaging of consumer products, and struck out provision that the requirements of the standards other than requirements relating to labeling, warnings, or instructions, shall, whenever, feasible, be expressed in terms of performance requirements.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 amended subsec. (a) generally, and in the requirements for consumer product safety standards, struck out reference to composition, contents, design, construction, finish, or packaging of consumer products, and struck out provision that the requirements of the standards other than requirements relating to labeling, warnings, or instructions, shall, whenever, feasible, be expressed in terms of performance requirements.
 
 Subsec. (b). Pub. L. 97–35 amended subsec. (b) generally, substituting provisions relating to the reliance by the Commission upon voluntary standards for provisions prescribing procedure for development of consumer product safety standards.
 
@@ -48,7 +48,7 @@ Subsec. (e). Pub. L. 97–35 struck out subsec. (e) which related to development
 
 Subsec. (f). Pub. L. 97–35 struck out subsec. (f) which provided for termination of rule-making proceedings and a statement relating to the reasons therefor.
 
-1978—Subsec. (b). Pub. L. 95–631, §3, designated existing provision as par. (1), and in par. (1) as so redesignated, redesignated pars. (1) to (4) as subpars. (A) and (D), in subpar. (D) as so redesignated, inserted provision including as a means of commencing a proceeding, a publication in the Federal Register of a statement that the Commission intends to develop the proposed consumer product safety standard, added subpar. (E), struck out provision that the period specified within which the offeror of an accepted offer develops the proposed standard be a period ending 150 days after the date the offer was accepted unless the Commission for good cause found, and included such finding in the notice that a different period was appropriate, and added par. (2).
+<b>1978</b>—Subsec. (b). Pub. L. 95–631, §3, designated existing provision as par. (1), and in par. (1) as so redesignated, redesignated pars. (1) to (4) as subpars. (A) and (D), in subpar. (D) as so redesignated, inserted provision including as a means of commencing a proceeding, a publication in the Federal Register of a statement that the Commission intends to develop the proposed consumer product safety standard, added subpar. (E), struck out provision that the period specified within which the offeror of an accepted offer develops the proposed standard be a period ending 150 days after the date the offer was accepted unless the Commission for good cause found, and included such finding in the notice that a different period was appropriate, and added par. (2).
 
 Subsec. (c). Pub. L. 95–631, §5, amended subsec. (c) generally, inserting provisions relating to subsec. (b)(1)(D) and striking out provisions for publication of a proposed consumer product safety rule, in lieu of acceptance of an offer under subsec. (d), where a standard had been issued or adopted by any Federal agency or by any other qualified agency, organization, or institution and the standard if promulgated under the chapter would eliminate or reduce the unreasonable risk of injury associated with the product.
 
@@ -62,7 +62,7 @@ Subsec. (e). Pub. L. 95–631, §(4)(b), amended provisions generally, and among
 
 Subsec. (f). Pub. L. 95–631, §4(c), amended provisions generally, and among other changes, reduced the period within which to publish a proposed consumer product safety standard to forty-five days from 150 days and required the publication in the Federal Register of the reasons for not publishing the proposed standard, including a statement indicative of the taking of other approaches such as a voluntary consumer safety standard adopted by persons to be subject to the proposed standard.
 
-1976—Subsec. (a). Pub. L. 94–284, §6, designated existing provision as par. (1), redesignated as subpars. (A) and (B) existing pars. (1) and (2), and added par. (2).
+<b>1976</b>—Subsec. (a). Pub. L. 94–284, §6, designated existing provision as par. (1), redesignated as subpars. (A) and (B) existing pars. (1) and (2), and added par. (2).
 
 Subsec. (b). Pub. L. 94–284, §7(a), substituted “date the offer is accepted” for “publication of notice” in provision following par. (4)(B).
 

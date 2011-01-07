@@ -2,7 +2,7 @@
 
 #### (a) Notice of medicare benefits
 
-The Secretary shall prepare (in consultation with groups representing the elderly and withhealth insurers) and provide for distribution of a notice containing—
+The Secretary shall prepare (in consultation with groups representing the elderly and with health insurers) and provide for distribution of a notice containing—
 
 &emsp;(1) a clear, simple explanation of the benefits available under this subchapter and the major categories of health care for which benefits are not available under this subchapter,
 
@@ -36,11 +36,11 @@ Parts A and B of this subchapter, referred to in subsec. (a), are classified to 
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–173 inserted at end “The Secretary shall provide, through the toll-free telephone number 1–800–MEDICARE, for a means by which individuals seeking information about, or assistance with, such programs who phone such toll-free number are transferred (without charge) to appropriate entities for the provision of such information or assistance. Such toll-free number shall be the toll-free number listed for general information and assistance in the annual notice under subsection (a) of this section instead of the listing of numbers of individual contractors.”
+<b>2003</b>—Subsec. (b). Pub. L. 108–173 inserted at end “The Secretary shall provide, through the toll-free telephone number 1–800–MEDICARE, for a means by which individuals seeking information about, or assistance with, such programs who phone such toll-free number are transferred (without charge) to appropriate entities for the provision of such information or assistance. Such toll-free number shall be the toll-free number listed for general information and assistance in the annual notice under subsection (a) of this section instead of the listing of numbers of individual contractors.”
 
-1997—Subsec. (c). Pub. L. 105–33 added subsec. (c).
+<b>1997</b>—Subsec. (c). Pub. L. 105–33 added subsec. (c).
 
-1994—Pub. L. 103–432 inserted “; medicare and medigap information” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
+<b>1994</b>—Pub. L. 103–432 inserted “; medicare and medigap information” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
 
 #### Effective Date of 1997 Amendment
 
@@ -72,11 +72,11 @@ For provisions relating to changes required to conform State regulatory programs
 
 #### Demonstration Projects
 
-Section 4361(b) of Pub. L. 101–508 provided that: “The Secretary of Health and Human Services is authorized to conduct demonstration projects in up to 5 States for the purpose of establishing statewide toll-free telephone numbers for providing information on medicare benefits, medicare supplemental policies available inthe State, and benefits under the State medicaid program.”
+Section 4361(b) of Pub. L. 101–508 provided that: “The Secretary of Health and Human Services is authorized to conduct demonstration projects in up to 5 States for the purpose of establishing statewide toll-free telephone numbers for providing information on medicare benefits, medicare supplemental policies available in the State, and benefits under the State medicaid program.”
 
 #### Notice of Changes Under Repeal of Medicare Catastrophic Coverage
 
-Pub. L. 101–234, title II, §203(c), Dec. 13, 1989, 103 Stat. 1984, provided that: “The Secretary of Health and Human Services shall provide, in the notice of medicare benefits provided under section 1804 of the Social Security Act \[this section\] for 1990, for a description of the changes in benefits under title XVIII of such Act \[this subchapter\] made by the amendments made by this Act \[see Tables for classification\].”
+Pub. L. 101–234, title II, §203(c), Dec. 13, 1989, 103 Stat. 1984, provided that: “The Secretary of Health and Human Services shall provide, in the notice of medicare benefits provided under section 1804 of the Social Security Act \[this section\] for 1990, for a description of the changes in benefits under title XVIII of such Act\[this subchapter\] made by the amendments made by this Act \[see Tables for classification\].”
 
 #### Benefits Counseling and Assistance Demonstration Project for Certain Medicare and Medicaid Beneficiaries
 

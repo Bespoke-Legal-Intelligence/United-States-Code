@@ -92,7 +92,7 @@ The Institute shall incorporate in any grant, cooperative agreement, or contract
 
 #### (e) Compliance monitoring and evaluation by Institute
 
-The Institute shall monitor and evaluate, or provide for independent evaluations of, programs supported in whole or in part under this chapter to ensure that the provisions of thischapter, the bylaws of the Institute, and the applicable rules, regulations, and guidelines promulgated pursuant to this chapter, are carried out.
+The Institute shall monitor and evaluate, or provide for independent evaluations of, programs supported in whole or in part under this chapter to ensure that the provisions of this chapter, the bylaws of the Institute, and the applicable rules, regulations, and guidelines promulgated pursuant to this chapter, are carried out.
 
 #### (f) Independent study of financial and technical assistance programs
 
@@ -100,9 +100,13 @@ The Institute shall provide for an independent study of the financial and techni
 
 (Pub. L. 98–620, title II, §206, Nov. 8, 1984, 98 Stat. 3340; Pub. L. 100–690, title VII, §7321(b)(3), (4), Nov. 18, 1988, 102 Stat. 4466, 4467; Pub. L. 100–702, title VI, §§603, 604, Nov. 19, 1988, 102 Stat. 4653; Pub. L. 102–528, §§2, 3(2), Oct. 27, 1992, 106 Stat. 3461, 3462; Pub. L. 102–572, title VIII, §§802, 803(b), Oct. 29, 1992, 106 Stat. 4515, 4516.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(1), (3), (4), (b)(4), (c)(15), (e), and (f), was in the original “this title”, meaning title II of Pub. L. 98–620, Nov. 8, 1984, 98 Stat. 3336, known as the State Justice Institute Act of 1984, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 10701 of this title and Tables.
+
 #### Amendments
 
-1992—Subsec. (b)(1). Pub. L. 102–572, §802(1), substituted “may award grants to or enter into cooperative agreements or contracts” for “shall give priority to grants, cooperative agreements, or contracts” in introductory provisions and substituted semicolon for comma in subpar. (A).
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–572, §802(1), substituted “may award grants to or enter into cooperative agreements or contracts” for “shall give priority to grants, cooperative agreements, or contracts” in introductory provisions and substituted semicolon for comma in subpar. (A).
 
 Subsec. (b)(2). Pub. L. 102–572, §802(2), inserted “to” after “award grants”.
 
@@ -130,7 +134,7 @@ Pub. L. 102–528, §2, redesignated par. (13) as (14).
 
 Subsec. (c)(15). Pub. L. 102–528, §3(2)(B), redesignated par. (14) as (15).
 
-1988—Subsec. (c)(3). Pub. L. 100–702, §603(1), inserted “judicial and” before “nonjudicial”.
+<b>1988</b>—Subsec. (c)(3). Pub. L. 100–702, §603(1), inserted “judicial and” before “nonjudicial”.
 
 Pub. L. 100–690, §7321(b)(3)(A), inserted “judicial and” before “nonjudicial”.
 

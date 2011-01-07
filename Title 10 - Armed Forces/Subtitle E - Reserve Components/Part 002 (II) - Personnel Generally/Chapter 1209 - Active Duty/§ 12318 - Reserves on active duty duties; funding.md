@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1994—Pub. L. 103–337, §1662(e)(2), renumbered section 686 of this title as this section.
+<b>1994</b>—Pub. L. 103–337, §1662(e)(2), renumbered section 686 of this title as this section.
 
 Pub. L. 103–337, §1675(c)(9), substituted “12302 or 12304” for “673 or 673b” in subsecs. (a) and (b) and “12310” for “678” in subsec. (b).
 

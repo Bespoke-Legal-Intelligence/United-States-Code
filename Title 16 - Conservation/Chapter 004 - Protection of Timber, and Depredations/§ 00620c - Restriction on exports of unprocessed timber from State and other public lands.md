@@ -22,7 +22,7 @@ Except as provided in subsection (g) of this section, the Secretary of Commerce 
 
 &emsp;&emsp;&emsp;(i) such unprocessed timber would be used in substitution for exported unprocessed timber originating from private lands in that State; or
 
-&emsp;&emsp;&emsp;(ii) such person has, during the preceding 24-month period, exported unprocessedtimber originating from private lands in that State.
+&emsp;&emsp;&emsp;(ii) such person has, during the preceding 24-month period, exported unprocessed timber originating from private lands in that State.
 
 #### (B) Exemption
 
@@ -48,7 +48,7 @@ Except as provided in subsection (g) of this section, the Secretary of Commerce 
 
 &emsp;&emsp;Subject to subparagraph (B), the Secretary of Commerce shall, as soon as possible after July 1, 1993—
 
-&emsp;&emsp;&emsp;(i) determine the species, grades, and geographic origin of unprocessed timber to be prohibited from export in each State that is subject to an order issued under subsection (a) of this section;
+&emsp;&emsp;&emsp;(i) determine the species, grades, and geographic origin of unprocessed timber tobe prohibited from export in each State that is subject to an order issued under subsection (a) of this section;
 
 &emsp;&emsp;&emsp;(ii) administer the prohibitions consistent with sections 620 to 620j of this title;
 
@@ -132,11 +132,11 @@ Nothing in sections 620 to 620j of this title shall be construed to limit the au
 
 #### Amendments
 
-1999—Subsec. (g). Pub. L. 106–36 substituted “Dispute Settlement Body of the World Trade Organization (as the term ‘World Trade Organization’ is defined in section 3501(8) of title 19)” for “Contracting Parties to the General Agreement on Tariffs and Trade”.
+<b>1999</b>—Subsec. (g). Pub. L. 106–36 substituted “Dispute Settlement Body of the World Trade Organization (as the term ‘World Trade Organization’ is defined in section 3501(8) of title 19)” for “Contracting Parties to the General Agreement on Tariffs and Trade”.
 
-1997—Subsec. (b)(2). Pub. L. 105–83 struck out “the following shall apply:” in introductory provisions, substituted “the Secretary” for “(A) The Secretary” and “as of November 14, 1997” for “during the period beginning on June 1, 1993, and ending on December 31, 1995”, and struck out subpar. (B) which read as follows: “For all periods on or after January 1, 1996, the Secretary of Commerce shall issue an order referred to in subsection (a) of this section not later than September 30, 1995. Such order shall prohibit the export of the lesser of 400,000,000 board feet or the annual sales volume in that State of unprocessed timber originating from public lands.”
+<b>1997</b>—Subsec. (b)(2). Pub. L. 105–83 struck out “the following shall apply:” in introductory provisions, substituted “the Secretary” for “(A) The Secretary” and “as of November 14, 1997” for “during the period beginning on June 1, 1993, and ending on December 31, 1995”, and struck out subpar. (B) which read as follows: “For all periods on or after January 1, 1996, the Secretary of Commerce shall issue an order referred to in subsection (a) of this section not later than September 30, 1995. Such order shall prohibit the export of the lesser of 400,000,000 board feet or the annual sales volume in that State of unprocessed timber originating from public lands.”
 
-1993—Subsec. (a). Pub. L. 103–45, §2(1), substituted “(g)” for “(e)” and “as provided” for “in the amounts specified”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–45, §2(1), substituted “(g)” for “(e)” and “as provided” for “in the amounts specified”.
 
 Subsec. (b)(1). Pub. L. 103–45, §2(2)(A), inserted “, notwithstanding any other provision of law,” after “prohibit” and substituted “, effective June 1, 1993” for “not later than 21 days after August 20, 1990”.
 
@@ -146,7 +146,7 @@ Subsec. (b)(2). Pub. L. 103–45, §2(2)(B), added subpar. (A) and struck out fo
 
 “(B) For the period beginning on January 1, 1992, and ending on December 31, 1993, the Secretary of Commerce shall, after notice and an opportunity for a hearing, issue an order referred to in subsection (a) of this section not later than September 30, 1991. Such order shall prohibit the export of at least 75 percent of such State's annual sales volume for this 2-year period.
 
-“(C) For the period beginning on January 1, 1994, and ending on December 31, 1995, the Secretary of Commerce shall, after notice and an opportunity for a hearing, issue an order referred to in subsection (a) of thissection not later than September 30, 1993. Such order shall prohibit the export of at least 75 percent of such State's annual sales volume for this 2-year period.”
+“(C) For the period beginning on January 1, 1994, and ending on December 31, 1995, the Secretary of Commerce shall, after notice and an opportunity for a hearing, issue an order referred to in subsection (a) of this section not later than September 30, 1993. Such order shall prohibit the export of at least 75 percent of such State's annual sales volume for this 2-year period.”
 
 Subsec. (b)(3), (4). Pub. L. 103–45, §2(2)(C), (D), added par. (3), redesignated former par. (3) as (4), and substituted “the Secretary of Commerce pursuant to sections 620 to 620j of this title and the effectiveness of State programs authorized under subsection (d) of this section” for “States pursuant to sections 620 to 620j of this title”.
 

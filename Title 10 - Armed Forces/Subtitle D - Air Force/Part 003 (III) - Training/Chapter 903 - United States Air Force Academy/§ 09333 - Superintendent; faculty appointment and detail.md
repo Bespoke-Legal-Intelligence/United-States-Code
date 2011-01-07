@@ -34,7 +34,7 @@ In subsection (b), the words “by and with the advice and consent of the Senate
 
 #### Amendments
 
-1989—Subsec. (c). Pub. L. 101–189 substituted “director of admissions” for “registrar”.
+<b>1989</b>—Subsec. (c). Pub. L. 101–189 substituted “director of admissions” for “registrar”.
 
-1958—Subsec. (c). Pub. L. 85–600 added subsec. (c).
+<b>1958</b>—Subsec. (c). Pub. L. 85–600 added subsec. (c).
 

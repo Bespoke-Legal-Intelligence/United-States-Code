@@ -6,11 +6,11 @@ The Secretary of Defense shall submit to Congress a report not later than March 
 
 #### Amendments
 
-1999—Pub. L. 106–65 amended section catchline and text generally. Prior to amendment, text read as follows: “The Secretary of Defense shall submit to the Congress a report not later than March 1 of each year concerning the operation of the educational assistance program established by this chapter during the preceding fiscal year. Each such report shall include the number of members of the Selected Reserve of the Ready Reserve of each armed force receiving, and the number entitled to receive, educational assistance under this chapter during the preceding fiscal year.”
+<b>1999</b>—Pub. L. 106–65 amended section catchline and text generally. Prior to amendment, text read as follows: “The Secretary of Defense shall submit to the Congress a report not later than March 1 of each year concerning the operation of the educational assistance program established by this chapter during the preceding fiscal year. Each such report shall include the number of members of the Selected Reserve of the Ready Reserve of each armed force receiving, and the number entitled to receive, educational assistance under this chapter during the preceding fiscal year.”
 
-1996—Pub. L. 104–106 substituted “March 1 of each year” for “December 15 of each year”.
+<b>1996</b>—Pub. L. 104–106 substituted “March 1 of each year” for “December 15 of each year”.
 
-1994—Pub. L. 103–337 renumbered section 2137 of this title as this section.
+<b>1994</b>—Pub. L. 103–337 renumbered section 2137 of this title as this section.
 
 #### Effective Date
 

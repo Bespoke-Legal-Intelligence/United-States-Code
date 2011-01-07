@@ -22,7 +22,7 @@ Except as otherwise provided by this section, the Secretary shall convey to NANA
 
 #### (d) Easement in and to transportation system lands
 
-(1) There is hereby granted to NANA an easement in and to the lands designated as “Transportation System Lands” on the map entitled “Modified Cape Krusenstern Land Exchange”, dated July 18, 1985, for use in the construction,operation, maintenance, expansion and reclamation of the transportation system. Use of the easement for such purposes shall be subject only to the terms and conditions governing the construction, operation, maintenance, expansion and reclamation of the transportation system, as set forth in Exhibit B to the Agreement.
+(1) There is hereby granted to NANA an easement in and to the lands designated as “Transportation System Lands” on the map entitled “Modified Cape Krusenstern Land Exchange”, dated July 18, 1985, for use in the construction, operation, maintenance, expansion and reclamation of the transportation system. Use of the easement for such purposes shall be subject only to the terms and conditions governing the construction, operation, maintenance, expansion and reclamation of the transportation system, as set forth in Exhibit B to the Agreement.
 
 (2) The easement granted pursuant to this section shall be for a term of 100 years. The easement shall terminate prior to the 100-year term:
 
@@ -52,7 +52,7 @@ NANA is hereby granted the right to use, develop and sell sand, gravel and relat
 
 (1) The construction, operation, maintenance, expansion and reclamation of any portion of the transportation system on any of the lands subject to the easement granted to NANA by this section shall be governed solely by the terms and conditions of the Agreement, including the procedural and substantive provisions of Exhibit B to the Agreement, as if the lands covered by the easement granted to NANA by this section had been conveyed to NANA pursuant to paragraph A(1) of the Agreement.
 
-(2) The Secretary of the Interior, acting through the National Park Service, shall monitor the construction, operation, maintenance, expansion and reclamation of the transportation system, as provided in the Agreement. Any complaint by any person or entity that any aspect of the construction, operation, maintenance, expansion or reclamation of the portion of the transportation system on the lands subject to the easement granted to NANA by this section is not in accordance with the terms and conditions specified in the Agreement shall be made to the Secretary in writing. The Secretary shall review any such complaint and shall provide to NANA or its successors or assigns and to the complainant a decision in writing on the complaint within 90 days of receipt thereof. If the Secretary determines that the activity made the subject of a complaint is not in accordance with the terms specified in the Agreement, and NANA or its successors or assigns disagrees with that determination, the dispute shall be resolved according to the procedures established in Exhibit B to the Agreement.
+(2) The Secretary of the Interior, acting through the National Park Service, shall monitor the construction, operation, maintenance, expansion and reclamation of the transportation system, as provided in the Agreement. Any complaint by any person or entity that any aspect of the construction, operation, maintenance, expansion or reclamation of the portion of the transportation system on the lands subject to the easement granted to NANA by this section is not in accordance with the terms and conditions specified in the Agreement shall be made to the Secretary in writing. The Secretary shall review any such complaint and shall provide to NANA or its successors or assigns and to the complainant a decision in writing on the complaint within 90 days of receipt thereof. If theSecretary determines that the activity made the subject of a complaint is not in accordance with the terms specified in the Agreement, and NANA or its successors or assigns disagrees with that determination, the dispute shall be resolved according to the procedures established in Exhibit B to the Agreement.
 
 #### (i) Use of construction materials from other sites
 
@@ -66,5 +66,5 @@ Notwithstanding paragraph D(23) of the Agreement, the Secretary shall not agree 
 
 #### Amendments
 
-1994—Subsec. (j). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House”.
+<b>1994</b>—Subsec. (j). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House”.
 

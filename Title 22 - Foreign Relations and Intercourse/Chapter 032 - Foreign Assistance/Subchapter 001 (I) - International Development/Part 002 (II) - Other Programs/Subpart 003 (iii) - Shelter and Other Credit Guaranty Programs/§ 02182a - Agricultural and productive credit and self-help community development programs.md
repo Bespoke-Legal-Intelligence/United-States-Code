@@ -22,7 +22,7 @@ Not to exceed $3,000,000 of the guaranty reserve established under section 2183(
 
 #### (f) Administrative and operating expenses; funds
 
-Funds held by the Overseas Private Investment Corporation pursuant to section 2196 of this title may be available for meeting necessary administrative and operating expenses for carrying out the provisions of this section through June 30, 1976.
+Funds held by the Overseas Private Investment Corporation pursuant to section 2196 ofthis title may be available for meeting necessary administrative and operating expenses for carrying out the provisions of this section through June 30, 1976.
 
 #### (g) Transfer of Overseas Private Investment Corporation's obligations and assets
 
@@ -54,27 +54,27 @@ Amendment by Pub. L. 98–473 is based on section 312 of H.R. 5119, Ninety-eight
 
 #### Amendments
 
-1985—Subsec. (h). Pub. L. 99–83 substituted “1988” for “1986”.
+<b>1985</b>—Subsec. (h). Pub. L. 99–83 substituted “1988” for “1986”.
 
-1984—Subsec. (a). Pub. L. 98–473 struck out “in Latin America,” after “economic development of less-developed countries” and “in not more than six Latin American countries” after “establish pilot programs”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–473 struck out “in Latin America,” after “economic development of less-developed countries” and “in not more than six Latin American countries” after “establish pilot programs”.
 
 Subsec. (b). Pub. L. 98–473 struck out “in not more than five Latin American countries” after “nonprofit development organizations”.
 
 Subsec. (h). Pub. L. 98–473 substituted “1986” for “1983”.
 
-1983—Subsec. (h). Pub. L. 97–438 substituted “1983” for “1982”.
+<b>1983</b>—Subsec. (h). Pub. L. 97–438 substituted “1983” for “1982”.
 
-1979—Subsec. (a). Pub. L. 96–53, §112(b)(1), substituted “six” for “five”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–53, §112(b)(1), substituted “six” for “five”.
 
 Subsec. (c). Pub. L. 96–53, §112(b)(2), substituted “$20,000,000” for “$15,000,000”.
 
 Subsec. (h). Pub. L. 96–53, §112(b)(3), substituted “through September 30, 1982” for “until September 30, 1979”.
 
-1978—Subsec. (h). Pub. L. 95–424, §115(b), substituted “September 30, 1979” for “September 30, 1978”.
+<b>1978</b>—Subsec. (h). Pub. L. 95–424, §115(b), substituted “September 30, 1979” for “September 30, 1978”.
 
 Subsec. (j). Pub. L. 95–424, §502(d)(1), struck out subsec. (j) relating to a Presidential report to Congress on the results of the program established under this section.
 
-1977—Subsec. (h). Pub. L. 95–88 substituted “September 30, 1978” for “December 31, 1977”.
+<b>1977</b>—Subsec. (h). Pub. L. 95–88 substituted “September 30, 1978” for “December 31, 1977”.
 
 #### Effective Date of 1985 Amendment
 

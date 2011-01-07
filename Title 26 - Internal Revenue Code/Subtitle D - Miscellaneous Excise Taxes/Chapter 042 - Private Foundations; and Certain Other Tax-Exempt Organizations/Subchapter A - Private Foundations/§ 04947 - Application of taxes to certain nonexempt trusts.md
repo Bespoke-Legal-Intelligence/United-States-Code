@@ -10,7 +10,7 @@
 
 &emsp;In the case of a trust which is not exempt from tax under section 501(a), not all of the unexpired interests in which are devoted to one or more of the purposes described in section 170(c)(2)(B), and which has amounts in trust for which a deduction was allowed under section 170, 545(b)(2), 642(c), 2055, 2106(a)(2), or 2522, section 507 (relating to termination of private foundation status), section 508(e) (relating to governing instruments) to the extent applicable to a trust described in this paragraph, section 4941 (relating to taxes on self-dealing), section 4943 (relating to taxes on excess business holdings) except as provided in subsection (b)(3), section 4944 (relating to investments which jeopardize charitable purpose) except as provided in subsection (b)(3), and section 4945 (relating to taxes on taxable expenditures) shall apply as if such trust were a private foundation. This paragraph shall not apply with respect to—
 
-&emsp;&emsp;(A) any amounts payable under the terms of such trust to income beneficiaries, unless a deduction was allowed under section 170(f)(2)(B), 642(c), 2055(e)(2)(B), or 2522(c)(2)(B),
+&emsp;&emsp;(A) any amounts payable under the terms of such trust to income beneficiaries, unless a deduction was allowed under section 170(f)(2)(B), 2055(e)(2)(B), or 2522(c)(2)(B),
 
 &emsp;&emsp;(B) any amounts in trust other than amounts for which a deduction was allowed under section 170, 545(b)(2), 642(c), 2055, 2106(a)(2), or 2522, if such other amounts are segregated from amounts for which no deduction was allowable, or
 
@@ -42,21 +42,31 @@
 
 &emsp;The provisions of section 507(a) shall not apply to a trust which is described in subsection (a)(2) by reason of a distribution of qualified employer securities (as defined in section 664(g)(4)) to an employee stock ownership plan (as defined in section 4975(e)(7)) in a qualified gratuitous transfer (as defined by section 664(g)).
 
-(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 517; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title XV, §1530(c)(9), Aug. 5, 1997, 111 Stat. 1079; Pub. L. 107–16, title V, §542(e)(4), June 7, 2001, 115 Stat. 85; Pub. L. 108–357, title IV, §413(c)(30), Oct. 22, 2004, 118 Stat. 1509.)
+(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 517; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title XV, §1530(c)(9), Aug. 5, 1997, 111 Stat. 1079; Pub. L. 107–16, title V, §542(e)(4), June 7, 2001, 115 Stat. 85; Pub. L. 108–357, title IV, §413(c)(30), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300.)
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 304 of Pub. L. 111–312, see Effective and Termination Dates of 2010 Amendment note below.</i>
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
 
-2004—Subsecs. (a)(1), (2), (b)(3). Pub. L. 108–357 struck out “556(b)(2),” after “545(b)(2),” wherever appearing.
+<b>2010</b>—Subsec. (a)(2)(A). Pub. L. 111–312, §§301(a), 304, temporarily amended subsec. (a)(2)(A) to read as if amendment by Pub. L. 107–16, §542(e)(4), had never been enacted. See 2001 Amendment note and Effective and Termination Dates of 2010 Amendment note below.
 
-2001—Subsec. (a)(2)(A). Pub. L. 107–16, §§542(e)(4), 901, temporarily inserted “642(c),” after “170(f)(2)(B),”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2004</b>—Subsecs. (a)(1), (2), (b)(3). Pub. L. 108–357 struck out “556(b)(2),” after “545(b)(2),” wherever appearing.
 
-1997—Subsec. (b)(4). Pub. L. 105–34 added par. (4).
+<b>2001</b>—Subsec. (a)(2)(A). Pub. L. 107–16, §§542(e)(4), 901, temporarily inserted “642(c),” after “170(f)(2)(B),”. See Effective and Termination Dates of 2001 Amendment note below.
 
-1976—Subsec. (b)(1). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1997</b>—Subsec. (b)(4). Pub. L. 105–34 added par. (4).
+
+<b>1976</b>—Subsec. (b)(1). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+#### Effective and Termination Dates of 2010 Amendment
+
+Amendment by Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31,2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as a note under section 121 of this title.
+
+Section 901 of Pub. L. 107–16 applicable to amendments by section 301(a) of Pub. L. 111–312, see section 304 of Pub. L. 111–312, set out as a note under section 121 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -66,7 +76,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 Amendment by Pub. L. 107–16 applicable to deductions for taxable years beginning after Dec. 31, 2009, see section 542(f)(3) of Pub. L. 107–16, set out as a note under section 121 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

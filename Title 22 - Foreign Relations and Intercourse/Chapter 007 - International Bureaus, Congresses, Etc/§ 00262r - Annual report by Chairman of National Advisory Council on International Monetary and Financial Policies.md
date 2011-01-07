@@ -86,11 +86,11 @@ Reorganization Plan No. 4 of 1965, referred to in subsec. (d), is set out in the
 
 #### Amendments
 
-1998—Subsec. (e). Pub. L. 105–277 added subsec. (e).
+<b>1998</b>—Subsec. (e). Pub. L. 105–277 added subsec. (e).
 
-1996—Subsec. (c)(2). Pub. L. 104–208 inserted “Bank for Economic Cooperation and Development in the Middle East and North Africa,” after “Inter-American Development Bank”.
+<b>1996</b>—Subsec. (c)(2). Pub. L. 104–208 inserted “Bank for Economic Cooperation and Development in the Middle East and North Africa,” after “Inter-American Development Bank”.
 
-1990—Subsec. (c)(2). Pub. L. 101–513 inserted “European Bank for Reconstruction and Development,” before “International Development Association,”.
+<b>1990</b>—Subsec. (c)(2). Pub. L. 101–513 inserted “European Bank for Reconstruction and Development,” before “International Development Association,”.
 
 #### Change of Name
 
@@ -114,7 +114,7 @@ Pub. L. 105–277, div. A, §101(d) \[title V, §583\], Oct. 21, 1998, 112 Stat.
 
 &emsp;“(6) such data and explanations concerning the effectiveness, operations, and policies of the international financial institutions, such recommendations concerning the international financial institutions, and such other data and material as the Chairman may deem appropriate.
 
-“(b) The requirements of Sections 1602(e), 1603(c), 1604(c), and 1701(b) of the International Financial Institutions Act, as amended (Public Law 95–118, 22 U.S.C. 262p–1, 262p–2, 262p–3 and 262(r) \[262r\]), Section 2018(c) of the International Narcotics Control Act of 1986, as amended (Public Law 99–570, 22 U.S.C. 2291 note), Section 407(c) of the Foreign Debt Reserving Act of 1989 (Public Law 101–240, 22 U.S.C. 2291 note), Section 14(c) of the Inter-American Development Bank Act, as amended (Public Law 86–147, 22 U.S.C. 283j–1(c)), and Section 1002 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 (Public Law 102–511) (22 U.S.C. 286<i>ll</i>(b)) shall no longer apply to the contents of such annual reports.”
+“(b) The requirements of Sections 1602(e), 1603(c), 1604(c), and 1701(b) of the International Financial Institutions Act, as amended (Public Law 95–118, 22 U.S.C. 262p–1, 262p–2, 262p–3 and 262(r) \[262r\]), Section 2018(c) of the International Narcotics Control Act of 1986, as amended (Public Law 99–570, 22 U.S.C. 2291 note), Section 407(c) of the Foreign Debt Reserving Act of 1989 (Public Law 101–240, 22 U.S.C. 2291 note), Section 14(c) of the Inter-American Development Bank Act, asamended (Public Law 86–147, 22 U.S.C. 283j–1(c)), and Section 1002 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 (Public Law 102–511) (22 U.S.C. 286<i>ll</i>(b)) shall no longer apply to the contents of such annual reports.”
 
 #### International Financial Institution Advisory Commission
 
@@ -198,7 +198,7 @@ Report.—On the termination of the Commission, the Commission shall submit to t
 
 &emsp;“(2) Changes to the charters, organizational structures, policies and programs of the international financial institutions (as defined in section 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\]).
 
-&emsp;“(3) Additional monitoring tools, global standards, or regulations for, among other things, global capital flows, bankruptcy standards, accounting standards,payment systems, and safety and soundness principles for financial institutions.
+&emsp;“(3) Additional monitoring tools, global standards, or regulations for, among other things, global capital flows, bankruptcy standards, accounting standards, payment systems, and safety and soundness principles for financial institutions.
 
 &emsp;“(4) Possible mergers or abolition of the international financial institutions (as defined in section 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\]), including changes to the manner in which such institutions coordinate their policy and program implementation and their roles and responsibilities.
 

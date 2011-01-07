@@ -16,3 +16,5 @@ For purposes of this part:
 
 (Pub. L. 110–413, §6, Oct. 14, 2008, 122 Stat. 4340.)
 
+<i><sup>1</sup></i><i> So in original. Probably should be “Procurement and”.</i>
+

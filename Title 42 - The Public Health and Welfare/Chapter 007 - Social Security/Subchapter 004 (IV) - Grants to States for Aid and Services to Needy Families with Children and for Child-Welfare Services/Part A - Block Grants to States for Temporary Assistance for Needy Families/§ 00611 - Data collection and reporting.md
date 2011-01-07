@@ -140,11 +140,85 @@ Not later than 6 months after the end of fiscal year 1997, and each fiscal year 
 
 &emsp;(4) the trends in employment and earnings of needy families with minor children living at home.
 
-(Aug. 14, 1935, ch. 531, title IV, §411, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2148; amended Pub. L. 105–33, title V, §§5001(e), 5507, 5514(c), Aug. 5, 1997, 111 Stat. 591, 616, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §804(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–284; Pub. L. 109–171, title VII, §7102(b)(2), Feb. 8, 2006, 120 Stat. 136; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+#### (c) Pre-reauthorization State-by-State reports on engagement in additional work activities and expenditures for other benefits and services
+
+#### (1) State reporting requirements
+
+#### (A) Reporting periods and deadlines
+
+&emsp;&emsp;Each eligible State shall submit to the Secretary the following reports:
+
+#### (i) March 2011 report
+
+&emsp;&emsp;&emsp;Not later than May 31, 2011, a report for the period that begins on March 1, 2011, and ends on March 31, 2011, that contains the information specified in subparagraphs (B) and (C).
+
+#### (ii) April-June, 2011 report
+
+&emsp;&emsp;&emsp;Not later than August 31, 2011, a report for the period that begins on April 1, 2011, and ends on June 30, 2011, that contains with respect to the 3 months that occur during that period—
+
+&emsp;&emsp;&emsp;&emsp;(I) the average monthly numbers for the information specified in subparagraph (B); and
+
+&emsp;&emsp;&emsp;&emsp;(II) the information specified in subparagraph (C).
+
+#### (B) Engagement in additional work activities
+
+&emsp;&emsp;(i) With respect to each work-eligible individual in a family receiving assistance during a reporting period specified in subparagraph (A), whether the individual engages in any activities directed toward attaining self-sufficiency during a month occurring in a reporting period, and if so, the specific activities—
+
+&emsp;&emsp;&emsp;(I) that do not qualify as a work activity under section 607(d) of this title but that are otherwise reasonably calculated to help the family move toward self-sufficiency; or
+
+&emsp;&emsp;&emsp;(II) that are of a type that would be counted toward the State participation rates under section 607 of this title but for the fact that—
+
+&emsp;&emsp;&emsp;&emsp;(aa) the work-eligible individual did not engage in sufficient hours of the activity;
+
+&emsp;&emsp;&emsp;&emsp;(bb) the work-eligible individual has reached the maximum time limit allowed for having participation in the activity counted toward the State's work participation rate; or
+
+&emsp;&emsp;&emsp;&emsp;(cc) the number of work-eligible individuals engaged in such activity exceeds a limitation under such section.
+
+&emsp;&emsp;(ii) Any other information that the Secretary determines appropriate with respect to the information required under clause (i), including if the individual has no hours of participation, the principal reason or reasons for such non-participation.
+
+#### (C) Expenditures on other benefits and services
+
+&emsp;&emsp;(i) Detailed, disaggregated information regarding the types of, and amounts of, expenditures made by the State during a reporting period specified in subparagraph (A) using—
+
+&emsp;&emsp;&emsp;(I) Federal funds provided under section 603 of this title that are (or will be) reported by the State on Form ACF–196 (or any successor form) under the category of other expenditures or the category of benefits or services provided in accordance with the authority provided under section 604(a)(2) of this title; or
+
+&emsp;&emsp;&emsp;(II) State funds expended to meet the requirements of section 609(a)(7) of this title and reported by the State in the category of other expenditures on Form ACF–196 (or any successor form).
+
+&emsp;&emsp;(ii) Any other information that the Secretary determines appropriate with respect to the information required under clause (i).
+
+#### (2) Publication of summary and analysis of engagement in additional activities
+
+&emsp;Concurrent with the submission of each report required under paragraph (1)(A), an eligible State shall publish on an Internet website maintained by the State agency responsible for administering the State program funded under this part (or such State-maintained website as the Secretary may approve)—
+
+&emsp;&emsp;(A) a summary of the information submitted in the report:
+
+&emsp;&emsp;(B) an analysis statement regarding the extent to which the information changes measures of total engagement in work activities from what was (or will be) reported by the State in the quarterly report submitted under subsection (a) for the comparable period; and
+
+&emsp;&emsp;(C) a narrative describing the most common activities contained in the report that are not countable toward the State participation rates under section 607 of this title.
+
+#### (3) Application of authority to use sampling
+
+&emsp;Subparagraph (B) of subsection (a)(1) shall apply to the reports required under paragraph (1) of this subsection in the same manner as subparagraph (B) of subsection (a)(1) applies to reports required under subparagraph (A) of subsection (a)(1).
+
+#### (4) Secretarial reports to Congress
+
+#### (A) March 2011 report
+
+&emsp;&emsp;Not later than June 30, 2011, the Secretary shall submit to Congress a report on the information submitted by eligible States for the March 2011 reporting period under paragraph (1)(A)(i). The report shall include a State-by-State summary and analysis of such information, identification of any States with missing or incomplete reports, and recommendations for such administrative or legislative changes as the Secretary determines are necessary to require eligible States to report the information on a recurring basis.
+
+#### (B) April-June, 2011 report
+
+&emsp;&emsp;Not later than September 30, 2011, the Secretary shall submit to Congress a report on the information submitted by eligible States for the April-June 2011 reporting period under paragraph (1)(A)(ii). The report shall include a State-by-State summary and analysis of such information, identification of any States with missing or incomplete reports, and recommendations for such administrative or legislative changes as the Secretary determines are necessary to require eligible States to report the information on a recurring basis <sup>2</sup>
+
+#### (5) Authority for expeditious implementation
+
+&emsp;The requirements of chapter 5 of title 5 (commonly referred to as the “Administrative Procedure Act”) or any other law relating to rulemaking or publication in the Federal Register shall not apply to the issuance of guidance or instructions by the Secretary with respect to the implementation of this subsection to the extent the Secretary determines that compliance with any such requirement would impede the expeditious implementation of this subsection.
+
+(Aug. 14, 1935, ch. 531, title IV, §411, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2148; amended Pub. L. 105–33, title V, §§5001(e), 5507, 5514(c), Aug. 5, 1997, 111 Stat. 591, 616, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §804(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–284; Pub. L. 109–171, title VII, §7102(b)(2), Feb. 8, 2006, 120 Stat. 136; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–291, title VIII, §812(a), Dec. 8, 2010, 124 Stat. 3160.)
 
 #### References in Text
 
-Section 301 of the Social Security Amendments of 1972, referred to in subsec. (a)(1)(A)(ii)(III), is section301 of Pub. L. 92–603, title III, Oct. 30, 1972, 86 Stat. 1465, which enacted sections 1381 to 1382e and 1383 to 1383c of this title.
+Section 301 of the Social Security Amendments of 1972, referred to in subsec. (a)(1)(A)(ii)(III), is section 301 of Pub. L. 92–603, title III, Oct. 30, 1972, 86 Stat. 1465, which enacted sections 1381 to 1382e and 1383 to 1383c of this title.
 
 #### Codification
 
@@ -156,17 +230,19 @@ A prior section 611, act Aug. 14, 1935, ch. 531, title IV, §411, as added Dec. 
 
 #### Amendments
 
-2008—Subsec. (a)(1)(A)(ix). Pub. L. 110–246, §4002(b)(1)(E), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
+<b>2010</b>—Subsec. (c). Pub. L. 111–291 added subsec. (c).
 
-2006—Subsec. (a)(1)(A). Pub. L. 109–171, §7102(b)(2)(A), inserted “or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)” before colon at end of introductory provisions.
+<b>2008</b>—Subsec. (a)(1)(A)(ix). Pub. L. 110–246, §4002(b)(1)(E), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
+
+<b>2006</b>—Subsec. (a)(1)(A). Pub. L. 109–171, §7102(b)(2)(A), inserted “or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)” before colon at end of introductory provisions.
 
 Subsec. (a)(1)(B)(ii). Pub. L. 109–171, §7102(b)(2)(B), inserted “and any other State programs funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)” after “this part”.
 
-1999—Subsec. (a)(1)(A). Pub. L. 106–113, §1000(a)(4) \[title VIII, §804(a)(1)\], in introductory provisions, inserted “(except for information relating to activities carried out under section 603(a)(5) of this title)” after “part”.
+<b>1999</b>—Subsec. (a)(1)(A). Pub. L. 106–113, §1000(a)(4) \[title VIII, §804(a)(1)\], in introductory provisions, inserted “(except for information relating to activities carried out under section 603(a)(5) of this title)” after “part”.
 
 Subsec. (a)(1)(A)(xviii). Pub. L. 106–113, §1000(a)(4) \[title VIII, §804(a)(2)\], struck out cl. (xviii) which related to families participating in a program operated with funds provided under section 603(a)(5) of this title.
 
-1997—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
+<b>1997</b>—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
 Subsec. (a)(1)(A)(ii). Pub. L. 105–33, §5507(1)(A)(i), added cl. (ii) and struck out former cl. (ii) which read as follows: “Whether a child receiving such assistance or an adult in the family is disabled.”
 
@@ -212,7 +288,9 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 
 #### Effective Date
 
-Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of this title.
 
 <i><sup>1</sup></i><i> So in original. The second parenthesis probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
 

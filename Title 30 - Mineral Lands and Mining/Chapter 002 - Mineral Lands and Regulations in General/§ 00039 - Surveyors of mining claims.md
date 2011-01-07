@@ -14,7 +14,7 @@ R.S. §2334 derived from act May 10, 1872, ch. 152, §12, 17 Stat. 95.
 
 #### Amendments
 
-1925—Act Mar. 3, 1925, affected words in first sentence of text, now reading “The United States supervisor of surveys,” and words in third sentence of text, now reading “money paid the register of the Land Office.” Such words formerly read “the surveyor-general of the United States,” and “and money paid the register and the receiver of the land-office.” Such act is treated more fully in note under section 29 of this title.
+<b>1925</b>—Act Mar. 3, 1925, affected words in first sentence of text, now reading “The United States supervisor of surveys,” and words in third sentence of text, now reading “money paid the register of the Land Office.” Such words formerly read “the surveyor-general of the United States,” and “and money paid the register and the receiver of the land-office.” Such act is treated more fully in note under section 29 of this title.
 
 #### Transfer of Functions
 

@@ -154,7 +154,7 @@ As used in this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may approve a private nonprofit organization or State agency to accredit facilities for purposes of subsection (d)(1)(A)(iv) of this section if the accreditation body meets the standards for accreditation established by the Secretary as described in subparagraph (B) and provides the assurances required by subparagraph (C).
+&emsp;&emsp;The Secretary may approve a private nonprofit organization or State agency to accredit facilities for purposes of subsection\(d)(1)(A)(iv) of this section if the accreditation body meets the standards for accreditation established by the Secretary as described in subparagraph (B) and provides the assurances required by subparagraph (C).
 
 #### (B) Standards
 
@@ -242,7 +242,7 @@ As used in this section:
 
 #### (B) Report
 
-&emsp;&emsp;The Secretary shall annually prepare and submit to the Committee on Labor and Human Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes the results of the evaluation conducted in accordance with subparagraph (A).
+&emsp;&emsp;The Secretary shall annually prepare and submit to the Committee on Labor and Human Resources of the Senate and the Committee on Energy and Commerce of theHouse of Representatives a report that describes the results of the evaluation conducted in accordance with subparagraph (A).
 
 #### (f) Quality standards
 
@@ -260,7 +260,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(II) be certified as qualified to perform radiological procedures by an organization described in paragraph (2)(A); and
 
-&emsp;&emsp;&emsp;(ii) during the 2-year period beginning October 1, 1994, meet training standardsfor personnel who perform mammography or meet experience requirements which shall at a minimum include 1 year of experience in the performance of mammography; and
+&emsp;&emsp;&emsp;(ii) during the 2-year period beginning October 1, 1994, meet training standards for personnel who perform mammography or meet experience requirements which shall at a minimum include 1 year of experience in the performance of mammography; and
 
 &emsp;&emsp;&emsp;(iii) upon the expiration of such 2-year period meet minimum training standards for personnel who perform mammograms;
 
@@ -686,7 +686,7 @@ Sections 263c to 263n, act July 1, 1944, ch. 373, title III, §§355–360F, as 
 
 #### Amendments
 
-2004—Subsec. (b)(1). Pub. L. 108–365, §2(1)(C), substituted “temporary renewal certificate, provisional certificate, or a limited provisional certificate” for “provisional certificate” in concluding provisions.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–365, §2(1)(C), substituted “temporary renewal certificate, provisionalcertificate, or a limited provisional certificate” for “provisional certificate” in concluding provisions.
 
 Subsec. (b)(1)(A). Pub. L. 108–365, §2(1)(A), inserted “or a temporary renewal certificate” after “certificate” in introductory provisions and substituted “paragraphs (1) or (2) of subsection (c)” for “subsection (c)(1)” in cl. (i).
 
@@ -700,7 +700,7 @@ Subsec. (n)(4). Pub. L. 108–365, §3(2), substituted “annually” for “bia
 
 Subsec. (r)(2). Pub. L. 108–365, §4, substituted “2007” for “2002” in subpars. (A) and (B).
 
-1998—Subsec. (a)(4). Pub. L. 105–248, §9(1), inserted “or local” after “State”.
+<b>1998</b>—Subsec. (a)(4). Pub. L. 105–248, §9(1), inserted “or local” after “State”.
 
 Subsec. (a)(8). Pub. L. 105–248, §4(b), added par. (8).
 
@@ -777,4 +777,6 @@ Pub. L. 103–183, title VII, §707, Dec. 14, 1993, 107 Stat. 2241, provided tha
 #### Study
 
 Section 3 of Pub. L. 102–539 directed Comptroller General of United States to conduct a study of the certification program authorized by this section to determine if the program has resulted in improvement of quality and accessibility of mammography services, and if the program has reduced the frequency of poor quality mammography and improved early detection of breast cancer, with Comptroller General, not later than 3 years from Oct. 27, 1992, submit to Congress an interim report of results of study and, not later than 5 years from such date to submit a final report.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

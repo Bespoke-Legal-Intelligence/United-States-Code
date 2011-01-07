@@ -18,11 +18,11 @@ The Secretary shall—
 
 &emsp;(3) ensure, for individuals otherwise eligible to receive unemployment compensation, the provision of reemployment services and other activities in which the individuals are required to participate to receive the compensation.
 
-(June 6, 1933, ch. 49, §3, 48 Stat. 114; Sept. 8, 1950, ch. 933, §1, 64 Stat. 822; Aug. 3, 1954, ch. 655, §6(a), 68 Stat. 665; Aug. 1, 1956, ch. 852, §17(a), 70 Stat. 910; Pub. L. 86–624, §21(a), July 12, 1960, 74 Stat. 417; Pub. L. 93–198, title II, §204(c), Dec. 24, 1973, 87 Stat. 783; Pub. L. 94–566, title V, §508(a), Oct. 20, 1976, 90 Stat. 2689; Pub. L. 97–300, title VI, §601(a), formerly title V, §501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, §601(a), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 99–198, title XV, §1535(b)(2), Dec. 23, 1985, 99 Stat. 1584; Pub. L. 104–193, title I, §110(m), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–220, title III, §§302(a), 310, Aug. 7, 1998, 112 Stat. 1080, 1086; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(Q), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV,§4002(b)(1)(A), (B), (2)(Q), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+(June 6, 1933, ch. 49, §3, 48 Stat. 114; Sept. 8, 1950, ch. 933, §1, 64 Stat. 822; Aug. 3, 1954, ch. 655, §6(a), 68 Stat. 665; Aug. 1, 1956, ch. 852, §17(a), 70 Stat. 910; Pub. L. 86–624, §21(a), July 12, 1960, 74 Stat. 417; Pub. L. 93–198, title II, §204(c), Dec. 24, 1973, 87 Stat. 783; Pub. L. 94–566, title V, §508(a), Oct. 20, 1976, 90 Stat. 2689; Pub. L. 97–300, title VI, §601(a), formerly title V, §501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, §601(a), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 99–198, title XV, §1535(b)(2), Dec. 23, 1985, 99 Stat. 1584; Pub. L. 104–193, title I, §110(m), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–220, title III, §§302(a), 310, Aug. 7, 1998, 112 Stat. 1080, 1086; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(Q), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(Q), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Social Security Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Part D of title IV of such Act is classified generally to part D (§651 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. PartA of title IV of the Social Security Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Part D of title IV of such Act is classified generally to part D (§651 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Food and Nutrition Act of 2008, referred to in subsec. (b), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
@@ -32,33 +32,33 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(Q), which directed amendment of the “Wagner-Peysner Act” by substituting “supplemental nutrition assistance program” for “food stamp program” wherever appearing and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” wherever appearing, was executed by making the substitutions in subsec. (b) of this section, which is section 3 of the Wagner-Peyser Act, to reflect the probable intent of Congress.
+<b>2008</b>—Subsec. (b). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(Q), which directed amendment of the “Wagner-Peysner Act” by substituting “supplemental nutrition assistance program” for “food stamp program” wherever appearing and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” wherever appearing, was executed by making the substitutions in subsec. (b) of this section, which is section 3 of the Wagner-Peyser Act, to reflect the probable intent of Congress.
 
-1998—Subsec. (a). Pub. L. 105–220, §302(a)(1), substituted “Secretary” for “United States Employment Service”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–220, §302(a)(1), substituted “Secretary” for “United States Employment Service”.
 
 Subsec. (b). Pub. L. 105–220, §310, substituted “Secretary” for “Secretary of Labor”.
 
 Subsec. (c). Pub. L. 105–220, §302(a)(2), added subsec. (c).
 
-1996—Subsec. (b). Pub. L. 104–193 substituted “State program funded under part A of title IV” for “State plan approved under part A of title IV”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–193 substituted “State program funded under part A of title IV” for “State plan approved under part A of title IV”.
 
-1985—Subsec. (b). Pub. L. 99–198 inserted reference to a State agency charged with the administration of the food stamp program in a State under the Food Stamp Act.
+<b>1985</b>—Subsec. (b). Pub. L. 99–198 inserted reference to a State agency charged with the administration of the food stamp program in a State under the Food Stamp Act.
 
-1982—Pub. L. 97–300, amended section generally, substituting provisions which set out functions of the Service and duties of the Secretary of Labor for provisions which had stated the purposes of the Service, including services to veterans and supplying of data for the administration of programs in aid of families with dependent children, and defined “State”.
+<b>1982</b>—Pub. L. 97–300, amended section generally, substituting provisions which set out functions of the Service and duties of the Secretary of Labor for provisions which had stated the purposes of the Service, including services to veterans and supplying of data for the administration of programs in aid of families with dependent children, and defined “State”.
 
-1976—Subsec. (a). Pub. L. 94–566 provided that the bureau has a further duty to assure that the employment offices in each State, upon request of a public agency administering or supervising the administration of a State plan approved under part A of title IV of the Social Security Act or of a public agency charged with any duty or responsibility under any program or activity authorized or required under part D of title IV of such Act, furnish to such agency making the request, from any data contained in the files of any such employment office, information with respect to any individual specified in the request as to whether such individual is receiving, has received, or has made application for, unemployment compensation, and the amount of any such compensation being received by such individual, the current (or most recent) home address of such individual, and whether such individual has refused an offer of employment and, if so, a description of the employment so offered and terms, conditions, and rate of pay therefor.
+<b>1976</b>—Subsec. (a). Pub. L. 94–566 provided that the bureau has a further duty to assure that the employment offices in each State, upon request of a public agency administering or supervising the administration of a State plan approved under part A of title IV of the Social Security Act or of a public agency charged with any duty or responsibility under any program or activity authorized or required under part D of title IV of such Act, furnish to such agency making the request, from any data contained in the files of any such employment office, information with respect to any individual specified in the request as to whether such individual is receiving, has received, or has made application for, unemployment compensation, and the amount of any such compensation being received by such individual, the current (or most recent) home address of such individual, and whether such individual has refused an offer of employment and, if so, a description of the employment so offered and terms, conditions, and rate of pay therefor.
 
-1973—Subsec. (a). Pub. L. 93–198, §204(c)(1), struck out function of maintaining a public employment service for the District of Columbia from the functions of the bureau.
+<b>1973</b>—Subsec. (a). Pub. L. 93–198, §204(c)(1), struck out function of maintaining a public employment service for the District of Columbia from the functions of the bureau.
 
 Subsec. (b). Pub. L. 93–198, §204(c)(2), included District of Columbia in definition of “State” or “States”.
 
-1960—Subsec. (b). Pub. L. 86–624 struck out “Hawaii, Alaska,” before “Puerto Rico”.
+<b>1960</b>—Subsec. (b). Pub. L. 86–624 struck out “Hawaii, Alaska,” before “Puerto Rico”.
 
-1956—Subsec. (b). Act Aug. 1, 1956, inserted “Guam” after “Puerto Rico”.
+<b>1956</b>—Subsec. (b). Act Aug. 1, 1956, inserted “Guam” after “Puerto Rico”.
 
-1954—Subsec. (a). Act Aug. 3, 1954, inserted provisions relating to employment counseling and placement services for handicapped persons.
+<b>1954</b>—Subsec. (a). Act Aug. 3, 1954, inserted provisions relating to employment counseling and placement services for handicapped persons.
 
-1950—Subsec. (b). Act Sept. 8, 1950, included Puerto Rico and Virgin Islands in definition of “State” or “States”.
+<b>1950</b>—Subsec. (b). Act Sept. 8, 1950, included Puerto Rico and Virgin Islands in definition of “State” or “States”.
 
 #### Effective Date of 2008 Amendment
 

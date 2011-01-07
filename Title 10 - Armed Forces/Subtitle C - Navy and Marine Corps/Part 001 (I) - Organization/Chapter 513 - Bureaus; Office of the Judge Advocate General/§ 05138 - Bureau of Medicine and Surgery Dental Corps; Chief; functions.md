@@ -14,7 +14,7 @@
 
 &emsp;(3) serve as the advisor for the Bureau on all matters relating directly to dentistry.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 286; Pub. L. 87–649, §14c(17), Sept. 7, 1962, 76 Stat. 501; Pub. L. 96–513, title III, §342, Dec. 12, 1980, 94 Stat. 2901; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 109–364, div. A, title V, §593(a)–(d)(1), Oct. 17, 2006, 120 Stat. 2234.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 286; Pub. L. 87–649, §14c(17), Sept. 7, 1962, 76 Stat. 501; Pub. L. 96–513, title III, §342, Dec. 12, 1980, 94 Stat. 2901; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov.8, 1985, 99 Stat. 628; Pub. L. 109–364, div. A, title V, §593(a)–(d)(1), Oct. 17, 2006, 120 Stat. 2234.)
 
 Historical and Revision Notes
 
@@ -38,13 +38,13 @@ Dec. 28, 1945, ch. 604, §3, 59 Stat. 666; Aug. 7, 1947, ch. 512, §427, 61 Stat
 
 #### Amendments
 
-2006—Pub. L. 109–364, §593(d)(1), substituted “Dental Corps” for “Dental Division” in section catchline.
+<b>2006</b>—Pub. L. 109–364, §593(d)(1), substituted “Dental Corps” for “Dental Division” in section catchline.
 
 Subsec. (a). Pub. L. 109–364, §593(a)(1), substituted “Chief of the Dental Corps” for “Chief of the Dental Division” and struck out first sentence which read as follows: “There is a Dental Division in the Bureau of Medicine and Surgery.”
 
 Subsec. (b). Pub. L. 109–364, §593(a)(2), substituted “Dental Corps” for “Dental Division”.
 
-Subsec. (c). Pub. L. 109–364, §593(c), substituted “shall be defined” for “shall be so defined” and “so that allsuch functions are” for “that all such functions will be”.
+Subsec. (c). Pub. L. 109–364, §593(c), substituted “shall be defined” for “shall be so defined” and “so that all such functions are” for “that all such functions will be”.
 
 Pub. L. 109–364, §593(a)(3), substituted “Dental Corps” for “Dental Division” in first sentence and “the Chief of the Dental Corps” for “that Division” in second sentence.
 
@@ -58,13 +58,13 @@ Subsec. (d). Pub. L. 109–364, §593(b), amended subsec. (d) generally. Prior t
 
 &emsp;“(4) serve as the advisory agency for the Bureau on all matters relating directly to dentistry.”
 
-1985—Subsec. (a). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
 
-1981—Subsec. (a). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
 
-1980—Subsec. (a). Pub. L. 96–513 substituted “not below the grade of commodore admiral” for “in the grade of rear admiral”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “not below the grade of commodore admiral” for “in the grade of rear admiral”.
 
-1962—Subsec. (b). Pub. L. 87–649 struck out “pay, allowances, and” after “entitled to the same”. See Title 37, Pay and Allowances of the Uniformed Services.
+<b>1962</b>—Subsec. (b). Pub. L. 87–649 struck out “pay, allowances, and” after “entitled to the same”. See Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1981 Amendment
 

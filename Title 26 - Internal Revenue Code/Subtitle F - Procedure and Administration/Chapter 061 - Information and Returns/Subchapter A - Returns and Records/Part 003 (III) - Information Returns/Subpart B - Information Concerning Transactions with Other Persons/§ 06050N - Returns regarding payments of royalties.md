@@ -28,7 +28,7 @@ Except to the extent otherwise provided in regulations, this section shall not a
 
 #### Amendments
 
-1996—Subsec. (b)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
 
 #### Effective Date of 1996 Amendment
 

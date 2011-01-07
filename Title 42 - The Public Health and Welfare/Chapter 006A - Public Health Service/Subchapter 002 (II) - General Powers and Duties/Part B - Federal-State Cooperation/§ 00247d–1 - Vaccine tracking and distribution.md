@@ -32,7 +32,7 @@ Section 264(c) of the Health Insurance Portability and Accountability Act of 199
 
 #### Amendments
 
-2006—Pub. L. 109–417 amended section catchline and text generally, substituting provisions relating to vaccine tracking and distribution for provisions relating to establishment of capacities to combat threats to public health.
+<b>2006</b>—Pub. L. 109–417 amended section catchline and text generally, substituting provisions relating to vaccine tracking and distribution for provisions relating to establishment of capacities to combat threats to public health.
 
-2002—Subsec. (a)(1). Pub. L. 107–188 substituted “five years” for “10 years”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–188 substituted “five years” for “10 years”.
 

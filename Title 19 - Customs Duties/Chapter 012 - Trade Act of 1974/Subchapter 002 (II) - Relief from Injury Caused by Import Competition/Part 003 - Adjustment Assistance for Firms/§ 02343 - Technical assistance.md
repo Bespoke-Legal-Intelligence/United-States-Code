@@ -26,11 +26,11 @@ The Secretary may provide a firm, on terms and conditions as the Secretary deter
 
 #### Amendments
 
-2009—Subsec. (a)(3). Pub. L. 111–5, §§1867(b), 1893, which directed the temporary substitution of “to a certified firm” for “of a certified firm”, could not be executed because “of a certified firm” did not appear. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Subsec. (a)(3). Pub. L. 111–5, §§1867(b), 1893, which directed the temporary substitution of “to a certified firm” for “of a certified firm”, could not be executed because “of a certified firm” did not appear. See Effective and Termination Dates of 2009 Amendment note below.
 
-1986—Subsec. (b)(2). Pub. L. 99–272 substituted “such cost for assistance described in paragraph (2) or (3) of subsection (a) of this section” for “such cost”.
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–272 substituted “such cost for assistance described in paragraph (2) or (3) of subsection (a) of this section” for “such cost”.
 
-1981—Subsec. (a). Pub. L. 97–35 amended subsec. (a) generally, incorporating provisions formerly contained in subsec. (b) and, in those provisions, substituted discretionary language for non-discretionary language relating to the assistance furnished and allowed the giving of assistance to firms in the preparation of their petitions for certification of eligibility under section 2341 of this title.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 amended subsec. (a) generally, incorporating provisions formerly contained in subsec. (b) and, in those provisions, substituted discretionary language for non-discretionary language relating to the assistance furnished and allowed the giving of assistance to firms in the preparation of their petitions for certification of eligibility under section 2341 of this title.
 
 Subsec. (b). Pub. L. 97–35 amended subsec. (b) generally, incorporating in pars. (1) and (2) provisions formerly contained in subsec. (c), inserted reference to grants to intermediary organizations (including Trade Adjustment Assistance Centers) in par. (1), and added par. (3). Provisions formerly contained in subsec. (b) were transferred to subsec. (a).
 
@@ -40,7 +40,7 @@ Subsec. (c). Pub. L. 97–35 struck out subsec. (c) and transferred the provisio
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -52,5 +52,5 @@ Section 2529 of Pub. L. 97–35 provided that:
 
 #### Termination Date
 
-Except as otherwise provided, technical assistance and grants may not be provided under this part after Dec. 31, 2010, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and grants may not be provided under this section after Feb. 12, 2011, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

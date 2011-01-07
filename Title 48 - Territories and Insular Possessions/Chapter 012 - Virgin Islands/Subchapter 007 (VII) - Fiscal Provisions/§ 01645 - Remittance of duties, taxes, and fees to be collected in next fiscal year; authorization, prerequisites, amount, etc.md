@@ -14,3 +14,5 @@ Section 1574d of this title, referred to in text, was repealed by Pub. L. 97–3
 
 Section was not enacted as part of the Revised Organic Act of the Virgin Islands which comprises this chapter.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

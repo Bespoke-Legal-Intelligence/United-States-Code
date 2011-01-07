@@ -14,7 +14,7 @@ When any agency of the United States Government provides services on an advance-
 
 #### (c) Excess property
 
-(1) Except as provided in subsection (d) of this section, no Government-owned excess property shall be made available under this section, section 2358 of this title, or otherwise in furtherance of the purposes of subchapter I of this chapter, unless, before the shipment of such property for use in a specified country (or transfer, if the property is already in such country), the agency administering such subchapter I has approved such shipment (or transfer) and made a written determination—
+(1) Except as provided in subsection (d) of this section, no Government-owned excess property shall be made available under this section, section 2358 of this title, or otherwise in furtherance of the purposes of subchapter I of thischapter, unless, before the shipment of such property for use in a specified country (or transfer, if the property is already in such country), the agency administering such subchapter I has approved such shipment (or transfer) and made a written determination—
 
 &emsp;(A) that there is a need for such property in the quantity requested and that such property is suitable for the purpose requested;
 
@@ -50,21 +50,21 @@ References to part I of subchapter I of this chapter are deemed to include a ref
 
 #### Amendments
 
-1985—Subsec. (c)(1). Pub. L. 99–93, §129(1)(A), (B), designated existing provisions of subsec. (c) as par. (1), redesignated existing pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, and in introductory provisions of par. (1) as so designated substituted “Except as provided in subsection (d) of this section, no” for “No”.
+<b>1985</b>—Subsec. (c)(1). Pub. L. 99–93, §129(1)(A), (B), designated existing provisions of subsec. (c) as par. (1), redesignated existing pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, and in introductory provisions of par. (1) as so designated substituted “Except as provided in subsection (d) of this section, no” for “No”.
 
 Subsec. (c)(2). Pub. L. 99–93, §129(1)(C), added par. (2).
 
 Subsec. (d). Pub. L. 99–93, §129(2), added subsec. (d).
 
-1979—Subsec. (a). Pub. L. 96–53 substituted “Agency for International Development” for “Advisory Committee on Voluntary Foreign Aid”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–53 substituted “Agency for International Development” for “Advisory Committee on Voluntary Foreign Aid”.
 
-1978—Subsecs. (b), (c). Pub. L. 95–424 added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>1978</b>—Subsecs. (b), (c). Pub. L. 95–424 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1977—Subsec. (a). Pub. L. 95–88 inserted “(including foreign voluntary nonprofit relief agencies so registered and approved when no United States voluntary nonprofit relief agency is available)” after “and voluntary nonprofit relief agencies registered with and approved by the Advisory Committee on Voluntary Foreign Aid” in provisions preceding par. (1).
+<b>1977</b>—Subsec. (a). Pub. L. 95–88 inserted “(including foreign voluntary nonprofit relief agencies so registered and approved when no United States voluntary nonprofit relief agency is available)” after “and voluntary nonprofit relief agencies registered with and approved by the Advisory Committee on Voluntary Foreign Aid” in provisions preceding par. (1).
 
-1975—Subsec. (a). Pub. L. 94–161 substituted “currently” for “current”, incorporated text following “Such advances or reimbursements” in provisions designated cl. (1) and added cl. (2).
+<b>1975</b>—Subsec. (a). Pub. L. 94–161 substituted “currently” for “current”, incorporated text following “Such advances or reimbursements” in provisions designated cl. (1) and added cl. (2).
 
-1968—Pub. L. 90–554 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1968</b>—Pub. L. 90–554 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1979 Amendment
 
@@ -84,7 +84,7 @@ Section 122(b) of Pub. L. 95–88 provided that: “For purposes of implementing
 
 #### Authority of Secretary of State
 
-Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L.103–236, set out as a note under section 2651a of this title.
+Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 
 #### Delegation of Functions
 

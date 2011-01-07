@@ -26,7 +26,7 @@ It is the sense of the Congress that each State should review and revise, if nec
 
 &emsp;&emsp;&emsp;(vi) any appropriate and available alternative treatments, services, and types of providers of mental health services.
 
-&emsp;&emsp;(D) The right not to receive a mode or course of treatment, established pursuant to the treatment plan, in the absence of such person's informed, voluntary, written consent to such mode or course of treatment, except treatment—
+&emsp;&emsp;(D) The right not to receive a mode or course of treatment, established pursuant tothe treatment plan, in the absence of such person's informed, voluntary, written consent to such mode or course of treatment, except treatment—
 
 &emsp;&emsp;&emsp;(i) during an emergency situation if such treatment is pursuant to or documented contemporaneously by the written order of a responsible mental health professional; or
 
@@ -74,7 +74,7 @@ It is the sense of the Congress that each State should review and revise, if nec
 
 &emsp;(B) Nothing in this section should—
 
-&emsp;&emsp;(i) obligate an individual mental health or health professional to administer treatmentcontrary to such professional's clinical judgment;
+&emsp;&emsp;(i) obligate an individual mental health or health professional to administer treatment contrary to such professional's clinical judgment;
 
 &emsp;&emsp;(ii) prevent any program or facility from discharging any person for whom the provision of appropriate treatment, consistent with the clinical judgment of the mental health professional primarily responsible for such person's treatment, is or has become impossible as a result of such person's refusal to consent to such treatment;
 

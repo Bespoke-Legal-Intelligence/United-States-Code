@@ -78,7 +78,7 @@ Access to the index established by this section is subject to cancellation if th
 
 #### Amendments
 
-2006—Subsec. (a)(1)(C). Pub. L. 109–162, §1002(1), struck out “DNA profiles from arrestees who have not been charged in an indictment or information with a crime, and” after “provided that”.
+<b>2006</b>—Subsec. (a)(1)(C). Pub. L. 109–162, §1002(1), struck out “DNA profiles from arrestees who have not been charged in an indictment or information with a crime, and” after “provided that”.
 
 Subsec. (d)(1)(A). Pub. L. 109–162, §1002(2), added subpar. (A) and struck out former subpar. (A), which read as follows: “The Director of the Federal Bureau of Investigation shall promptly expunge from the index described in subsection (a) of this section the DNA analysis of a person included in the index on the basis of a qualifying Federal offense or a qualifying District of Columbia offense (as determined under sections 14135a and 14135b of this title, respectively) if the Director receives, for each conviction of the person of a qualifying offense, a certified copy of a final court order establishing that such conviction has been overturned.”
 
@@ -86,7 +86,7 @@ Subsec. (d)(2)(A)(ii). Pub. L. 109–162, §1002(3), substituted “the responsi
 
 Subsec. (e). Pub. L. 109–162, §1002(4), struck out heading and text of subsec. (e). Prior to amendment, text related to authority for keyboard searches.
 
-2004—Subsec. (a)(1). Pub. L. 108–405, §203(a)(1), substituted “of—” for “of persons convicted of crimes;” and added subpars (A) to (C).
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–405, §203(a)(1), substituted “of—” for “of persons convicted of crimes;” and added subpars (A) to (C).
 
 Subsec. (b)(2). Pub. L. 108–405, §302, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “prepared by laboratories, and DNA analysts, that undergo semiannual external proficiency testing by a DNA proficiency testing program meeting the standards issued under section 14131 of this title; and”.
 
@@ -96,7 +96,7 @@ Pub. L. 108–405, §203(a)(2)(A), substituted “if—” for “if” and inse
 
 Subsec. (e). Pub. L. 108–405, §203(d), added subsec. (e).
 
-2000—Subsec. (b)(1). Pub. L. 106–546, §6(b)(1), inserted “(or the Secretary of Defense in accordance with section 1565 of title 10)” after “criminal justice agency”.
+<b>2000</b>—Subsec. (b)(1). Pub. L. 106–546, §6(b)(1), inserted “(or the Secretary of Defense in accordance with section 1565 of title 10)” after “criminal justice agency”.
 
 Subsec. (b)(2). Pub. L. 106–546, §6(b)(2), substituted “semiannual” for “, at regular intervals of not to exceed 180 days,”.
 
@@ -104,5 +104,5 @@ Subsec. (b)(3). Pub. L. 106–546, §6(b)(3), inserted “(or the Secretary of D
 
 Subsec. (d). Pub. L. 106–546, §6(b)(4), added subsec. (d).
 
-1999—Subsec. (a)(4). Pub. L. 106–113 added par. (4).
+<b>1999</b>—Subsec. (a)(4). Pub. L. 106–113 added par. (4).
 

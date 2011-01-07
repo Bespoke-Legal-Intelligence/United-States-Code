@@ -10,15 +10,15 @@ Upon receipt of a certification from the Commission under section 9005 for payme
 
 #### (c) Insufficient amounts in fund
 
-If at the time of a certification by the Commission under section 9005 for payment to theeligible candidates of a political party, the Secretary determines that the moneys in the fund are not, or may not be, sufficient to satisfy the full entitlements of the eligible candidates of all political parties, he shall withhold from such payment such amount as he determines to be necessary to assure that the eligible candidates of each political party will receive their pro rata share of their full entitlement. Amounts withheld by reason of the preceding sentence shall be paid when the Secretary determines that there are sufficient moneys in the fund to pay such amounts, or portions thereof, to all eligible candidates from whom amounts have been withheld, but, if there are not sufficient moneys in the fund to satisfy the full entitlement of the eligible candidates of all political parties, the amounts so withheld shall be paid in such manner that the eligible candidates of each political party receive their pro rata share of their full entitlement. In any case in which the Secretary determines that there are insufficient moneys in the fund to make payments under subsection (b), section 9008(b)(3), and section 9037(b), moneys shall not be made available from any other source for the purpose of making such payments.
+If at the time of a certification by the Commission under section 9005 for payment to the eligible candidates of a political party, the Secretary determines that the moneys in the fund are not, or may not be, sufficient to satisfy the full entitlements of the eligible candidates of all political parties, he shall withhold from such payment such amount as he determines to be necessary to assure that the eligible candidates of each political party will receive their pro rata share of their full entitlement. Amounts withheld by reason of the preceding sentence shall be paid when the Secretary determines that there are sufficient moneys in the fund to pay such amounts, or portions thereof, to all eligible candidates from whom amounts have been withheld, but, if there are not sufficient moneys in the fund to satisfy the full entitlement of the eligible candidates of all political parties, the amounts so withheld shall be paid in such manner that the eligible candidates of each political party receive their pro rata share of their full entitlement. In any case in which the Secretary determines that there are insufficient moneys in the fund to make payments under subsection (b), section 9008(b)(3), and section 9037(b), moneys shall not be made available from any other source for the purpose of making such payments.
 
 (Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 567; amended Pub. L. 93–53, §6(b), July 1, 1973, 87 Stat. 138; Pub. L. 93–443, title IV, §§403(a), 404(c)(8), Oct. 15, 1974, 88 Stat. 1291, 1292; Pub. L. 94–283, title III, §302, May 11, 1976, 90 Stat. 498; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), (B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 110–172, §11(a)(43), Dec. 29, 2007, 121 Stat. 2488.)
 
 #### Amendments
 
-2007—Pub. L. 110–172, which directed substitution of “Commission” for “Comptroller General” wherever appearing, could not be executed, because “Comptroller General” did not appear subsequent to amendment by Pub. L. 93–443, §404(c)(8). See 1974 Amendment note below.
+<b>2007</b>—Pub. L. 110–172, which directed substitution of “Commission” for “Comptroller General” wherever appearing, could not be executed, because “Comptroller General” did not appear subsequent to amendment by Pub. L. 93–443, §404(c)(8). See 1974 Amendment note below.
 
-1976—Subsecs. (a), (b). Pub. L. 94–455 substituted “Secretary of the Treasury” for “Secretary”.
+<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 substituted “Secretary of the Treasury” for “Secretary”.
 
 Pub. L. 94–283, §302(a), redesignated subsec. (c) as (b). Former subsec. (b), directing that moneys remaining in the fund after a Presidential election be transferred to the general fund of the Treasury, was struck out.
 
@@ -28,11 +28,11 @@ Pub. L. 94–283, §302(a), (b), redesignated subsec. (d) as (c) and inserted pr
 
 Subsec. (d). Pub. L. 94–283, §302(a), redesignated subsec. (d) as (c).
 
-1974—Subsec. (a). Pub. L. 93–443, §403(a), substituted “from time to time” for “as provided by Appropriation Acts” and appropriated moneys for the Campaign Fund for each fiscal year out of the general fund of the Treasury.
+<b>1974</b>—Subsec. (a). Pub. L. 93–443, §403(a), substituted “from time to time” for “as provided by Appropriation Acts” and appropriated moneys for the Campaign Fund for each fiscal year out of the general fund of the Treasury.
 
 Subsecs. (c), (d). Pub. L. 93–443, §404(c)(8), substituted “Commission” for “Comptroller General” wherever appearing.
 
-1973—Subsec. (a). Pub. L. 93–53 struck out second sentence requiring the Secretary to maintain in the fund (1) a separate account for the candidates of each major party, each minor party, and each new party for which a specific designation is made under section 6096 for payment into an account in the fund and (2) a general account for which no specific designation is made, and in the last sentences, substituted “transfer to the fund”, “Presidential”, and “to the fund by individuals under section 6096”, for “transfer to each account in the fund”, “presidential”, and “to such account by individuals under section 6096 for payment into such account of the fund”, respectively.
+<b>1973</b>—Subsec. (a). Pub. L. 93–53 struck out second sentence requiring the Secretary to maintain in the fund (1) a separate account for the candidates of each major party, each minor party, and each new party for which a specific designation is made under section 6096 for payment into an account in the fund and (2) a general account for which no specific designation is made, and in the last sentences, substituted “transfer to the fund”, “Presidential”, and “to the fund by individuals under section 6096”, for “transfer to each account in the fund”, “presidential”, and “to such account by individuals under section 6096 for payment into such account of the fund”, respectively.
 
 Subsec. (b). Pub. L. 93–53 substituted “Presidential” for “presidential”.
 

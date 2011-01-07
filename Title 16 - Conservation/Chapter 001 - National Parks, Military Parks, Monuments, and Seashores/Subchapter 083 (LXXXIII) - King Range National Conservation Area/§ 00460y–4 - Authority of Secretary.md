@@ -24,7 +24,7 @@ The Secretary is authorized—
 
 #### (4) Payment of fair market value for purchased lands; determination by independent appraisal
 
-&emsp;In the exercise of his authority to purchase lands under this subchapter to pay for any such purchased lands their fair market value, as determined by the Secretary, who may, in his discretion, base his determination on an independent appraisal obtained by him.
+&emsp;In the exercise of his authority to purchase lands under this subchapter to pay for anysuch purchased lands their fair market value, as determined by the Secretary, who may, in his discretion, base his determination on an independent appraisal obtained by him.
 
 #### (5) Identification of appropriate public uses of public lands and interests therein within Area; disposition of public lands within Area
 
@@ -50,5 +50,5 @@ The Secretary is authorized—
 
 #### Amendments
 
-1978—Par. (3)(B). Pub. L. 95–352 inserted provisions relating to deposit of receipts into Treasury.
+<b>1978</b>—Par. (3)(B). Pub. L. 95–352 inserted provisions relating to deposit of receipts into Treasury.
 

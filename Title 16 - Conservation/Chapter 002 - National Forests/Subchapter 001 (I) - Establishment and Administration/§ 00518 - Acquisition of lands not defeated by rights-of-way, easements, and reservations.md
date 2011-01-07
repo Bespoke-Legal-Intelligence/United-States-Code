@@ -6,11 +6,11 @@ Such acquisition by the United States shall in no case be defeated because of lo
 
 #### References in Text
 
-This Act, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, popularly known as the Weeks Law, which is classified to sections 480, 500,513 to 519, 521, 552, and 563 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 552 of this title and Tables.
+This Act, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, popularly known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 552 of this title and Tables.
 
 #### Amendments
 
-1976—Pub. L. 94–588 struck out “the National Forest Reservation Commission and” after “in the opinion of”.
+<b>1976</b>—Pub. L. 94–588 struck out “the National Forest Reservation Commission and” after “in the opinion of”.
 
-1913—Act Mar. 4, 1913, amended act Mar. 1, 1911, generally to provide that acquisition of lands under this section would not be defeated by rights of way, easements, and reservations retained by the owner from whom title is received.
+<b>1913</b>—Act Mar. 4, 1913, amended act Mar. 1, 1911, generally to provide that acquisition of lands under this section would not be defeated by rights of way, easements, and reservations retained by the owner from whom title is received.
 

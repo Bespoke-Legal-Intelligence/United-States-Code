@@ -6,15 +6,15 @@ The deduction of disability severance pay from disability compensation, to the e
 
 #### Amendments
 
-2008—Pub. L. 110–181, §1646(c), as added by Pub. L. 110–389, §103(a)(2), substituted “to the extent required by section 1212(d) of title 10” for “as required by section 1212(c) of title 10”.
+<b>2008</b>—Pub. L. 110–181, §1646(c), as added by Pub. L. 110–389, §103(a)(2), substituted “to the extent required by section 1212(d) of title 10” for “as required by section 1212(c) of title 10”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 361 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 361 of this title as this section.
 
 Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-1983—Pub. L. 98–160 struck out “United States Code,” after “title 10,”.
+<b>1983</b>—Pub. L. 98–160 struck out “United States Code,” after “title 10,”.
 
-1976—Pub. L. 94–433 substituted “such former member's” for “his”.
+<b>1976</b>—Pub. L. 94–433 substituted “such former member's” for “his”.
 
 #### Effective Date of 2008 Amendment
 

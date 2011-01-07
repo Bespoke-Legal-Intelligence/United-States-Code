@@ -38,23 +38,23 @@ In subsec. (c), “subchapter II of chapter 5, and chapter 7, of title 5” subs
 
 #### Amendments
 
-1996—Subsec. (b)(3). Pub. L. 104–104, §403(k)(1), struck out “of which any officer or director is an alien or” before “of which more”.
+<b>1996</b>—Subsec. (b)(3). Pub. L. 104–104, §403(k)(1), struck out “of which any officer or director is an alien or” before “of which more”.
 
 Subsec. (b)(4). Pub. L. 104–104, §403(k)(2), struck out “of which any officer or more than one-fourth of the directors are aliens, or” after “any other corporation”.
 
-1990—Subsec. (c). Pub. L. 101–396 substituted “multilateral or bilateral agreement, to which the United States and the alien's government are parties,” for “bilateral agreement between the United States and the alien's government”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–396 substituted “multilateral or bilateral agreement, to which the United States and the alien's government are parties,” for “bilateral agreement between the United States and the alien's government”.
 
-1983—Subsec. (e). Pub. L. 98–214 added subsec. (e).
+<b>1983</b>—Subsec. (e). Pub. L. 98–214 added subsec. (e).
 
-1974—Subsec. (a). Pub. L. 93–505 added subsec. (a). Former subsec. (a), which related to granting to or holding of required station licenses by aliens, was struck out.
+<b>1974</b>—Subsec. (a). Pub. L. 93–505 added subsec. (a). Former subsec. (a), which related to granting to or holding of required station licenses by aliens, was struck out.
 
 Subsecs. (b) to (d). Pub. L. 93–505 added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
-1971—Subsec. (a). Pub. L. 92–81 inserted provisions empowering the Commission to issue licenses to certain aliens admitted to the United States for permanent residence, provided that the Commission notify the appropriate agencies of the Government of applications received for license, and that such agencies furnish to the Commission information bearing on the request's compatibility with national security.
+<b>1971</b>—Subsec. (a). Pub. L. 92–81 inserted provisions empowering the Commission to issue licenses to certain aliens admitted to the United States for permanent residence, provided that the Commission notify the appropriate agencies of the Government of applications received for license, and that such agencies furnish to the Commission information bearing on the request's compatibility with national security.
 
-1964—Subsec. (a). Pub. L. 88–313 empowered the Commission to issue authorizations to permit an alien licensed by his government as an amateur radio operator to operate his station, licensed by his government, in the United States, its possessions, and Puerto Rico,provided there is a bilateral agreement between the United States and the alien's government giving similar rights to United States amateur radio operators, and provided that the Commission notify appropriate agencies of our Government of any applications for authorization, and that such agencies furnish to the Commission information bearing on the request's compatibility with our national security.
+<b>1964</b>—Subsec. (a). Pub. L. 88–313 empowered the Commission to issue authorizations to permit an alien licensed by his government as an amateur radio operator to operate his station, licensed by his government, in the United States, its possessions, and Puerto Rico,provided there is a bilateral agreement between the United States and the alien's government giving similar rights to United States amateur radio operators, and provided that the Commission notify appropriate agencies of our Government of any applications for authorization, and that such agencies furnish to the Commission information bearing on the request's compatibility with our national security.
 
-1958—Subsec. (a). Pub. L. 85–817 inserted paragraph authorizing the grant of licenses for radio stations on aircraft to aliens or representatives of aliens holding pilot certificates.
+<b>1958</b>—Subsec. (a). Pub. L. 85–817 inserted paragraph authorizing the grant of licenses for radio stations on aircraft to aliens or representatives of aliens holding pilot certificates.
 
-1952—Subsec. (b). Act July 16, 1952, provided that construction permits and station licenses cannot be transferred, assigned, or disposed of except upon a finding by the Commission that public interest, convenience, or necessity will be served thereby, and that such transfer application will be treated the same as if made under section 308 of this title.
+<b>1952</b>—Subsec. (b). Act July 16, 1952, provided that construction permits and station licenses cannot be transferred, assigned, or disposed of except upon a finding by the Commission that public interest, convenience, or necessity will be served thereby, and that such transfer application will be treated the same as if made under section 308 of this title.
 

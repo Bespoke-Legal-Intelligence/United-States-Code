@@ -338,27 +338,27 @@ The Tariff Act of 1930, referred to in subsec. (c)(5), is act June 17, 1930, ch.
 
 #### Amendments
 
-2007—Subsec. (a)(8). Pub. L. 110–138, §§107(c), 316, in first sentence, temporarily struck out “and” before “title III of the United States-Oman Free Trade Agreement Implementation Act” and inserted before period at end “, and title III of the United States-Peru Trade Promotion Agreement Implementation Act”. See Effective and Termination Dates of 2007 Amendment note below.
+<b>2007</b>—Subsec. (a)(8). Pub. L. 110–138, §§107(c), 316, in first sentence, temporarily struck out “and” before “title III of the United States-Oman Free Trade Agreement Implementation Act” and inserted before period at end “, and title III of the United States-Peru Trade Promotion Agreement Implementation Act”. See Effective and Termination Dates of 2007 Amendment note below.
 
-2006—Subsec. (a)(8). Pub. L. 109–283, §§107(c), 316, in first sentence, temporarily struck out “and” before “title III of the United States-Bahrain Free Trade Agreement Implementation Act” and inserted before period at end “, and title III of the United States-Oman Free Trade Agreement Implementation Act”. See Effective and Termination Dates of 2006 Amendment note below.
+<b>2006</b>—Subsec. (a)(8). Pub. L. 109–283, §§107(c), 316, in first sentence, temporarily struck out “and” before “title III of the United States-Bahrain Free Trade Agreement Implementation Act” and inserted before period at end “, and title III of the United States-Oman Free Trade Agreement Implementation Act”. See Effective and Termination Dates of 2006 Amendment note below.
 
 Pub. L. 109–169, §§106(c), 316, in first sentence, temporarily struck out “and” before “title III of the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act” and inserted before period at end “, and title III of the United States-Bahrain Free Trade Agreement Implementation Act”. See Effective and Termination Dates of 2006 Amendment note below.
 
-2005—Subsec. (a)(8). Pub. L. 109–53, §§107(d), 316, in first sentence, temporarily struck out “and” before “title III of the United States-Morocco Free Trade Agreement Implementation Act” and inserted before period at end “, and title III of the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act”. See Effective and Termination Dates of 2005 Amendment note below.
+<b>2005</b>—Subsec. (a)(8). Pub. L. 109–53, §§107(d), 316, in first sentence, temporarily struck out “and” before “title III of the United States-Morocco Free Trade Agreement Implementation Act” and inserted before period at end “, and title III of the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act”. See Effective and Termination Dates of 2005 Amendment note below.
 
-2004—Subsec. (a)(8). Pub. L. 108–302, §§107(c), 316, in first sentence, temporarily struck out “and” before “title III of the United States-Australia” and inserted before period at end “, and title III of the United States-Morocco Free Trade Agreement Implementation Act”. See Effective and Termination Dates of 2004 Amendments note below.
+<b>2004</b>—Subsec. (a)(8). Pub. L. 108–302, §§107(c), 316, in first sentence, temporarily struck out “and” before “title III of the United States-Australia” and inserted before period at end “, and title III of the United States-Morocco Free Trade Agreement Implementation Act”. See Effective and Termination Dates of 2004 Amendments note below.
 
 Pub. L. 108–286, §§106(c), 316, in first sentence, temporarily struck out “and” before “title III of the United States-Singapore” and inserted before period at end “, and title III of the United States-Australia Free Trade Agreement Implementation Act”. See Effective and Termination Dates of 2004 Amendments note below.
 
-2003—Subsec. (a)(8). Pub. L. 108–78, §§107(c), 316, in first sentence, temporarily struck out “and” before “title III of the United States-Chile” and inserted before period at end “, and title III of the United States-Singapore Free Trade Agreement Implementation Act”. See Effective and Termination Dates of 2003 Amendments note below.
+<b>2003</b>—Subsec. (a)(8). Pub. L. 108–78, §§107(c), 316, in first sentence, temporarily struck out “and” before “title III of the United States-Chile” and inserted before period at end “, and title III of the United States-Singapore Free Trade Agreement Implementation Act”. See Effective and Termination Dates of 2003 Amendments note below.
 
 Pub. L. 108–77, §§107(c), 316, in first sentence, temporarily struck out “and” before “title II” and insertedbefore period at end “, and title III of the United States-Chile Free Trade Agreement Implementation Act”. See Effective and Termination Dates of 2003 Amendments note below.
 
-2001—Subsec. (a)(8). Pub. L. 107–43, in first sentence, temporarily substituted “, part 1” for “and part 1” and inserted before period at end “, and title II of the United States-Jordan Free Trade Area Implementation Act”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (a)(8). Pub. L. 107–43, in first sentence, temporarily substituted “, part 1” for “and part 1” and inserted before period at end “, and title II of the United States-Jordan Free Trade Area Implementation Act”. See Effective and Termination Dates of 2001 Amendment note below.
 
-1996—Subsec. (d)(4)(A)(i). Pub. L. 104–295 made technical amendment to reference in original act which appears in text as reference to subsection (b) of this section.
+<b>1996</b>—Subsec. (d)(4)(A)(i). Pub. L. 104–295 made technical amendment to reference in original act which appears in text as reference to subsection (b) of this section.
 
-1994—Subsec. (a)(2)(B)(ii). Pub. L. 103–465, §303(1), struck out “, or at any time before the 150th day after the date of filing be amended to request,” after “request”.
+<b>1994</b>—Subsec. (a)(2)(B)(ii). Pub. L. 103–465, §303(1), struck out “, or at any time before the 150th day after the date of filing be amended to request,” after “request”.
 
 Subsec. (a)(8). Pub. L. 103–465, §301(a), inserted at end “The Commission may request that parties providing confidential business information furnish nonconfidential summaries thereof or, if such parties indicate that the information in the submission cannot be summarized, the reasons why a summary cannot be provided. If the Commission finds that a request for confidentiality is not warranted and if the party concerned is either unwilling to make the information public or to authorize its disclosure in generalized or summarized form, the Commission may disregard the submission.”
 
@@ -402,7 +402,7 @@ Subsec. (h)(3). Pub. L. 103–465, §301(f), added par. (3).
 
 Subsec. (i). Pub. L. 103–465, §301(b), added subsec. (i).
 
-1993—Subsec. (a)(8). Pub. L. 103–182, §317(b), added par. (8).
+<b>1993</b>—Subsec. (a)(8). Pub. L. 103–182, §317(b), added par. (8).
 
 Subsec. (d)(1)(A). Pub. L. 103–182, §315(1), inserted “or citrus product” after “agricultural product” wherever appearing.
 
@@ -410,7 +410,7 @@ Subsec. (d)(1)(C). Pub. L. 103–182, §315(2), in cl. (i) and provisions before
 
 Subsec. (d)(5). Pub. L. 103–182, §315(3), (4), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
-1988—Pub. L. 100–418, in amending section generally, substituted provisions relating to investigations, determinations and recommendations by Commission for provisions relating to Presidential action after investigations. See section 2253 of this title.
+<b>1988</b>—Pub. L. 100–418, in amending section generally, substituted provisions relating to investigations, determinations and recommendations by Commission for provisions relating to Presidential action after investigations. See section 2253 of this title.
 
 #### Effective and Termination Dates of 2007 Amendment
 

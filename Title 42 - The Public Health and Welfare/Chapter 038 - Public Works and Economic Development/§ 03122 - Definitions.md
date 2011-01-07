@@ -104,7 +104,7 @@ A prior section 3122, Pub. L. 91–524, title IX, §901, Nov. 30, 1970, 84 Stat.
 
 #### Amendments
 
-2004—Par. (4)(A). Pub. L. 108–373, §102(a), redesignated cls. (ii) to (vii) as (i) to (vi), respectively, inserted “, including a special purpose unit of a State or local government engaged in economic or infrastructure development activities,” after “State” in cl. (iv), and struck out cl. (i) which read as follows: “an area described in section 3161(a) of this title;”.
+<b>2004</b>—Par. (4)(A). Pub. L. 108–373, §102(a), redesignated cls. (ii) to (vii) as (i) to (vi), respectively, inserted “, including a special purpose unit of a State or local government engaged in economic or infrastructure development activities,” after “State” in cl. (iv), and struck out cl. (i) which read as follows: “an area described in section 3161(a) of this title;”.
 
 Pars. (8) to (12). Pub. L. 108–373, §102(b), added pars. (8) and (12) and redesignated former pars. (8) to (10) as (9) to (11), respectively.
 

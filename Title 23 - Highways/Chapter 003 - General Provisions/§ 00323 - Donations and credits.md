@@ -68,11 +68,11 @@ The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pu
 
 #### Amendments
 
-2005—Subsec. (c). Pub. L. 109–59, §1902(1), inserted “, or a local government from offering to donate funds, materials, or services performed by local government employees,” before “in connection with a project”.
+<b>2005</b>—Subsec. (c). Pub. L. 109–59, §1902(1), inserted “, or a local government from offering to donate funds, materials, or services performed by local government employees,” before “in connection with a project”.
 
 Subsec. (e). Pub. L. 109–59, §1902(2), struck out heading and text of subsec. (e). Text read as follows: “A contribution by a unit of local government of real property, funds, or material in connection with a project eligible for assistance under this title shall be credited against the State share of the project at the fair market value of the real property, funds, or material.”
 
-1998—Pub. L. 105–178, §1301(d)(1), substituted “Donations and credits” for “Donations” in section catchline.
+<b>1998</b>—Pub. L. 105–178, §1301(d)(1), substituted “Donations and credits” for “Donations” in section catchline.
 
 Subsec. (b). Pub. L. 105–178, §1301(b)(1), substituted “Acquired” for “Donated” in heading.
 
@@ -84,7 +84,7 @@ General rule.—Notwithstanding any provision of this title, the State matching 
 
 “(2)
 
-Establishment of fair market value.—The fair market value of the donated land shall be established as determined by the Secretary. Fair market value shall not include increases and decreases in the value of donated property caused by the project. For purposes of this subsection, the fair market value of donated land shall be established as of the date the donation becomes effective or when equitable title to the land vests in the State, whichever is earlier.”
+Establishment of fair market value.—The fair market value of the donated land shall be established as determined by the Secretary. Fair market value shall not include increases and decreases in the value of donated property caused by the project. For purposes of this subsection, the fair market value of donated landshall be established as of the date the donation becomes effective or when equitable title to the land vests in the State, whichever is earlier.”
 
 Subsec. (b)(3). Pub. L. 105–178, §1301(b)(3), substituted “agency of the Federal Government” for “agency of a Federal, State, or local government”.
 
@@ -94,9 +94,9 @@ Subsec. (c). Pub. L. 105–178, §1212(a)(2)(A)(i), substituted “State transpo
 
 Subsec. (e). Pub. L. 105–178, §1301(c), added subsec. (e).
 
-1995—Subsecs. (c), (d). Pub. L. 104–59 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1995</b>—Subsecs. (c), (d). Pub. L. 104–59 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1987—Pub. L. 100–17 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+<b>1987</b>—Pub. L. 100–17 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
-1975—Pub. L. 93–643 substituted “after he has been fully informed of his right to receive just compensation for the acquisition of his property” for “after he has been tendered the full amount of the estimated just compensation as established by an approved appraisal of the fair market value of the subject real property”.
+<b>1975</b>—Pub. L. 93–643 substituted “after he has been fully informed of his right to receive just compensation for the acquisition of his property” for “after he has been tendered the full amount of the estimated just compensation as established by an approved appraisal of the fair market value of the subject real property”.
 

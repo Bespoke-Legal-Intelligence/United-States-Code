@@ -64,7 +64,7 @@ The Advisory Committee shall—
 
 &emsp;&emsp;(F) medical, technical, or scientific professionals with special expertise in heritable disorders, or in providing screening, counseling, testing or specialty services for newborns and children at risk for heritable disorders;
 
-&emsp;&emsp;(G) individuals with expertise in ethics and infectious diseases who have worked andpublished material in the area of newborn screening;
+&emsp;&emsp;(G) individuals with expertise in ethics and infectious diseases who have worked and published material in the area of newborn screening;
 
 &emsp;&emsp;(H) members of the public having special expertise about or concern with heritable disorders; and
 
@@ -110,7 +110,7 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f), is
 
 #### Amendments
 
-2008—Subsec. (b)(3) to (5). Pub. L. 110–204, §4(1)(B), (C), added pars. (3) to (5). Former par. (3) redesignated (6).
+<b>2008</b>—Subsec. (b)(3) to (5). Pub. L. 110–204, §4(1)(B), (C), added pars. (3) to (5). Former par. (3) redesignated (6).
 
 Subsec. (b)(6). Pub. L. 110–204, §4(1)(A), (D), redesignated par. (3) as (6), substituted “, which may include recommendations, advice, or information dealing with—” for period at end, and added subpars. (A) to (K).
 

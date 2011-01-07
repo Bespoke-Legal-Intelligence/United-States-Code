@@ -74,11 +74,11 @@ Major united states investment management firm.—The term “major United State
 
 #### Prior Provisions
 
-A prior section 6975, added Pub. L. 103–337, div. A, title V, §556(b)(1), Oct. 5, 1994, 108 Stat. 2774, related to position of athletic director of Naval Academy and to administration of nonappropriated fund account for athletics program of Naval Academy, prior to repeal by Pub. L. 104–106, div. A, title V, §533(b), Feb. 10, 1996, 110 Stat. 315; Pub. L. 105–85, div. A, title X, §1073(d)(1)(C), Nov. 18, 1997, 111 Stat. 1905, effective Oct. 5, 1994.
+A prior section 6975, added Pub. L. 103–337, div. A, title V, §556(b)(1), Oct. 5, 1994, 108 Stat. 2774, related to position of athletic director of Naval Academy and to administration of nonappropriated fund account for athletics program of Naval Academy, prior to repeal byPub. L. 104–106, div. A, title V, §533(b), Feb. 10, 1996, 110 Stat. 315; Pub. L. 105–85, div. A, title X, §1073(d)(1)(C), Nov. 18, 1997, 111 Stat. 1905, effective Oct. 5, 1994.
 
 #### Amendments
 
-2003—Subsec. (c). Pub. L. 108–136 inserted before period at end “or, if earlier, the expiration of 14 days following the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title”.
+<b>2003</b>—Subsec. (c). Pub. L. 108–136 inserted before period at end “or, if earlier, the expiration of 14 days following the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title”.
 
-2000—Subsec. (e)(5). Pub. L. 106–398 inserted a closing parenthesis after “80b–2)” in introductory provisions.
+<b>2000</b>—Subsec. (e)(5). Pub. L. 106–398 inserted a closing parenthesis after “80b–2)” in introductory provisions.
 

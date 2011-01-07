@@ -18,5 +18,5 @@ Minor verbal changes were made.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” in second par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” in second par.
 

@@ -2,7 +2,7 @@
 
 #### (a) Gross income
 
-Except as provided in subsection (b), the gross income of any organization to which this partapplies shall be determined without any adjustment (as a reduction in gross receipts, an increase in cost of goods sold, or otherwise) by reason of any allocation or distribution to a patron out of the net earnings of such organization or by reason of any amount paid to a patron as a per-unit retain allocation (as defined in section 1388(f)).
+Except as provided in subsection (b), the gross income of any organization to which this part applies shall be determined without any adjustment (as a reduction in gross receipts, an increase in cost of goods sold, or otherwise) by reason of any allocation or distribution to a patron out of the net earnings of such organization or by reason of any amount paid to a patron as a per-unit retain allocation (as defined in section 1388(f)).
 
 #### (b) Patronage dividends and per-unit retain allocations
 
@@ -58,7 +58,7 @@ If any portion of the earnings from business done with or for patrons is includi
 
 &emsp;&emsp;&emsp;(i) the United States or such agency shall provide a loan to the organization with the products comprising the pool serving as collateral for such loan,
 
-&emsp;&emsp;&emsp;(ii) the organization shall use an amount equal to the proceeds of such loan to makeprice support advances to eligible producers (as determined by the United States or such agency), to defray costs of handling, processing, and storing such products, or to pay all or part of any administrative costs associated with the price support program,
+&emsp;&emsp;&emsp;(ii) the organization shall use an amount equal to the proceeds of such loan to make price support advances to eligible producers (as determined by the United States or such agency), to defray costs of handling, processing, and storing such products, or to pay all or part of any administrative costs associated with the price support program,
 
 &emsp;&emsp;&emsp;(iii) an amount equal to the net proceeds (as determined under such agreement) from the sale or exchange of the products in the pool shall be used to repay such loan until such loan is repaid in full (or all the products in the pool are disposed of), and
 
@@ -72,13 +72,13 @@ If any portion of the earnings from business done with or for patrons is includi
 
 #### Amendments
 
-1978—Subsec. (g). Pub. L. 95–345 added subsec. (g).
+<b>1978</b>—Subsec. (g). Pub. L. 95–345 added subsec. (g).
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1969—Subsec. (b)(3). Pub. L. 91–172 expanded the category of per-unit retain allocations that may not be taken into account in determining the taxable income of an organization, by including per-unit retain allocations paid for in money or other property (except nonqualified per-unit retain certificates as defined in section 1388(i) of this section).
+<b>1969</b>—Subsec. (b)(3). Pub. L. 91–172 expanded the category of per-unit retain allocations that may not be taken into account in determining the taxable income of an organization, by including per-unit retain allocations paid for in money or other property (except nonqualified per-unit retain certificates as defined in section 1388(i) of this section).
 
-1966—Subsec. (a). Pub. L. 89–809, §211(a)(1), inserted reference to amounts paid to patrons as a per-unit retain allocation as defined in section 1388(f).
+<b>1966</b>—Subsec. (a). Pub. L. 89–809, §211(a)(1), inserted reference to amounts paid to patrons as a per-unit retain allocation as defined in section 1388(f).
 
 Subsec. (b). Pub. L. 89–809, §211(a)(2), inserted “and per-unit retain allocations” in heading, added pars. (3) and (4), and, in text following par. (4), inserted provisions making existing text applicable only to amounts described in pars. (1) and (2) and inserted text covering the treatment of amounts described in pars. (3) and (4).
 

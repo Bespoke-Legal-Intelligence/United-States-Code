@@ -14,7 +14,7 @@ Covered Individuals.—An individual described in this subsection is any individ
 
 &emsp;&emsp;(A) physically relocates a distance of at least 500 miles in order to pursue a program of education for which the individual utilizes educational assistance under this chapter; or
 
-&emsp;&emsp;(B) travels by air to physically attend an institution of higher education for pursuit ofsuch a program of education because the individual cannot travel to such institution by automobile or other established form of transportation due to an absence of road or other infrastructure.
+&emsp;&emsp;(B) travels by air to physically attend an institution of higher learning for pursuit of such a program of education because the individual cannot travel to such institution by automobile or other established form of transportation due to an absence of road or other infrastructure.
 
 (c)
 
@@ -34,5 +34,9 @@ Single Payment of Assistance.—An individual is entitled to only one payment of
 
 No Charge Against Entitlement.—Any amount paid an individual under this section is in addition to any other educational assistance benefits provided the individual under this chapter.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2369.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2369; amended Pub. L. 111–275, title X, §1001(g)(6), Oct. 13, 2010, 124 Stat. 2896.)
+
+#### Amendments
+
+<b>2010</b>—Subsec. (b)(2)(B). Pub. L. 111–275 substituted “higher learning” for “higher education”.
 

@@ -44,7 +44,7 @@ Supportive Services.—The supportive services referred to in subsection (a) are
 
 &emsp;&emsp;&emsp;(vi) fiduciary and representative payee services;
 
-&emsp;&emsp;&emsp;(vii) legal services to assist the veteran family with issues that interfere with the family's ability to obtain or retain housing or supportive services;
+&emsp;&emsp;&emsp;(vii) legal services to assist the veteran family with issues that interfere with thefamily's ability to obtain or retain housing or supportive services;
 
 &emsp;&emsp;&emsp;(viii) child care;
 
@@ -102,7 +102,7 @@ Funding.—(1) From amounts appropriated to the Department for Medical Services,
 
 (2) Not more than $750,000 may be available under paragraph (1) in any fiscal year to provide technical assistance under subsection (d).
 
-(3) There is authorized to be appropriated $1,000,000 for each of the fiscal year 2009 through 2011 to carry out the provisions of subsection (d).
+(3) There is authorized to be appropriated $1,000,000 for each of the fiscal years 2009 through 2011 to carry out the provisions of subsection (d).
 
 (f)
 
@@ -136,7 +136,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(D) A tribally designated housing entity (as defined in section 4 of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103)).
 
-&emsp;(6)(A) Subject to subparagraphs (B) and (C), the term “very low-income veteran family” means a veteran family whose income does not exceed 50 percent of the median income for an area specified by the Secretary for purposes of this section, as determined by the Secretary in accordance with this paragraph.
+&emsp;(6)(A) Subject to subparagraphs (B) and (C), the term “very low-income veteran family” means a veteran family whose income does not exceed 50 percent of the median income for anarea specified by the Secretary for purposes of this section, as determined by the Secretary in accordance with this paragraph.
 
 &emsp;(B) The Secretary shall make appropriate adjustments to the income requirement under subparagraph (A) based on family size.
 
@@ -144,9 +144,17 @@ Definitions.—In this section:
 
 &emsp;(7) The term “veteran family” includes a veteran who is a single person and a family in which the head of household or the spouse of the head of household is a veteran.
 
-(Added Pub. L. 110–387, title VI, §604(b)(1), Oct. 10, 2008, 122 Stat. 4132.)
+(Added Pub. L. 110–387, title VI, §604(b)(1), Oct. 10, 2008, 122 Stat. 4132; amended Pub. L. 111–275, title X, §1001(e), Oct. 13, 2010, 124 Stat. 2896.)
+
+#### Amendments
+
+<b>2010</b>—Subsec. (e)(3). Pub. L. 111–275 substituted “fiscal years” for “fiscal year”.
 
 #### Purpose
 
 Pub. L. 110–387, title VI, §604(a), Oct. 10, 2008, 122 Stat. 4132, provided that: “The purpose of this section \[enacting this section\] is to facilitate the provision of supportive services for very low-income veteran families in permanent housing.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “subsections”.</i>
 

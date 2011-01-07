@@ -90,7 +90,7 @@
 
 &emsp;&emsp;&emsp;(iii) individuals with HIV/AIDS who do not know their HIV status;
 
-&emsp;&emsp;(C) establish priorities for the allocation of funds within the eligible area, including how best to meet each such priority and additional factors that a grantee should consider in allocating funds under a grant based on the—
+&emsp;&emsp;(C) establish priorities for the allocation of funds within the eligible area, including how best to meet each such priority and additional factors that a grantee should considerin allocating funds under a grant based on the—
 
 &emsp;&emsp;&emsp;(i) size and demographics of the population of individuals with HIV/AIDS (as determined under subparagraph (A)) and the needs of such population (as determined under subparagraph (B));
 
@@ -106,7 +106,7 @@
 
 &emsp;&emsp;(D) develop a comprehensive plan for the organization and delivery of health and support services described in section 300ff–14 of this title that—
 
-&emsp;&emsp;&emsp;(i) includes a strategy for identifying individuals who know their HIV status and are not receiving such services and for informing the individuals of and enabling the individuals to utilize the services, giving particular attention to eliminating disparities in access and services among affected subpopulations and historically underserved communities, and includingdiscrete goals, a timetable, and an appropriate allocation of funds;
+&emsp;&emsp;&emsp;(i) includes a strategy for identifying individuals who know their HIV status and are not receiving such services and for informing the individuals of and enabling the individuals to utilize the services, giving particular attention to eliminating disparities in access and services among affected subpopulations and historically underserved communities, and including discrete goals, a timetable, and an appropriate allocation of funds;
 
 &emsp;&emsp;&emsp;(ii) includes a strategy to coordinate the provision of such services with programs for HIV prevention (including outreach and early intervention) and for the prevention and treatment of substance abuse (including programs that provide comprehensive treatment services for such abuse);
 
@@ -204,7 +204,7 @@ A prior section 2602 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-2009—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
 Subsec. (b)(4)(A). Pub. L. 111–87, §6(a)(1), inserted “, as well as the size and demographics of the estimated population of individuals with HIV/AIDS who are unaware of their HIV status” before semicolon.
 
@@ -212,7 +212,7 @@ Subsec. (b)(4)(B)(iii). Pub. L. 111–87, §6(a)(2), added cl. (iii).
 
 Subsec. (b)(4)(D)(iv). Pub. L. 111–87, §6(a)(3), added cl. (iv).
 
-2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+<b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” wherever appearing.
 
@@ -220,7 +220,7 @@ Pub. L. 109–415, §107(b), substituted “this subpart” for “this part” 
 
 Subsec. (b)(2)(G). Pub. L. 109–415, §106(b), inserted “, members of a Federally recognized Indian tribe as represented in the population, individuals co-infected with hepatitis B or C” before “and historically underserved groups”.
 
-2000—Subsec. (b)(1). Pub. L. 106–345, §101(a)(1), substituted “demographics of the population of individuals with HIV disease in the eligible area involved,” for “demographics of the epidemic in the eligible area involved,”.
+<b>2000</b>—Subsec. (b)(1). Pub. L. 106–345, §101(a)(1), substituted “demographics of the population of individuals with HIV disease in the eligible area involved,” for “demographics of the epidemic in the eligible area involved,”.
 
 Subsec. (b)(2)(C). Pub. L. 106–345, §101(a)(2)(A), inserted before semicolon at end “, including providers of housing and homeless services”.
 
@@ -266,7 +266,7 @@ Subsec. (d). Pub. L. 106–345, §102(b), added subsec. (d).
 
 Subsec. (e). Pub. L. 106–345, §102(c), added subsec. (e).
 
-1996—Subsec. (b)(1). Pub. L. 104–146, §3(b)(1)(A)(ii), inserted at end “Nominations for membership on the council shall be identified through an open process and candidates shall be selected based on locally delineated and publicized criteria. Such criteria shall include a conflict-of-interest standard that is in accordance with paragraph (5).”
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–146, §3(b)(1)(A)(ii), inserted at end “Nominations for membership on the council shall be identified through an open process and candidates shall be selected based on locally delineated and publicized criteria. Such criteria shall include a conflict-of-interest standard that is in accordance with paragraph (5).”
 
 Pub. L. 104–146, §3(b)(1)(A)(i), substituted “reflect in its composition the demographics of the epidemic in the eligible area involved, with particular consideration given to disproportionately affected and historically underserved groups and subpopulations.” for “include representatives of—
 
@@ -312,7 +312,7 @@ Subsec. (b)(5), (6). Pub. L. 104–146, §3(b)(1)(F), added pars. (5) and (6).
 
 Subsec. (c). Pub. L. 104–146, §3(b)(1)(F), added subsec. (c).
 
-1992—Subsec. (a)(1). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

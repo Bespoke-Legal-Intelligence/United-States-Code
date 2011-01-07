@@ -10,19 +10,19 @@
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+<b>2002</b>—Subsec. (c). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-1999—Subsec. (c). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
+<b>1999</b>—Subsec. (c). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
 
-1994—Subsec. (a). Pub. L. 103–465, §532(c)(4)(A), substituted “subsections (a) through (d) of section 119” for “section 119”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–465, §532(c)(4)(A), substituted “subsections (a) through (d) of section 119” for “section 119”.
 
 Subsec. (b). Pub. L. 103–465, §532(c)(4)(B), substituted “section 119(a)” for “the first paragraph of section 119”.
 
-1984—Subsec. (c). Pub. L. 98–622 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–622 substituted “Patent and Trademark Office” for “Patent Office”.
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\]of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -22,5 +22,5 @@ The source law provided that leases of lands of the United States within the nav
 
 #### Amendments
 
-1976—Pub. L. 94–258 struck out “of the Navy” after “Secretary”.
+<b>1976</b>—Pub. L. 94–258 struck out “of the Navy” after “Secretary”.
 

@@ -12,9 +12,9 @@ For a procurement referred to in section 422 of this title that is carried out i
 
 In this section, the term “simplified acquisition threshold definitions” means the following:
 
-&emsp;(1) Section 403(11) of title 41.
+&emsp;(1) Section 134 of title 41.
 
-&emsp;(2) Section 259(d) of title 41.
+&emsp;(2) Section 153 of title 41.
 
 &emsp;(3) Section 2302(7) of title 10.
 
@@ -23,4 +23,10 @@ In this section, the term “simplified acquisition threshold definitions” mea
 For a procurement carried out pursuant to subsection (a) of this section, section 644(j) of title 15 shall be applied as if the maximum anticipated value identified therein is equal to the amounts referred to in subsection (a) of this section.
 
 (Pub. L. 107–296, title VIII, §853, Nov. 25, 2002, 116 Stat. 2235.)
+
+#### Codification
+
+In subsec. (b)(1), “Section 134 of title 41” substituted for “Section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (b)(2), “Section 153 of title 41” substituted for “Section 309(d) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 259(d))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

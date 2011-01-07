@@ -6,7 +6,7 @@ Effective July 1, 1961, the detached portion of the Hawaii National Park which l
 
 #### Amendments
 
-2000—Pub. L. 106–510 substituted “Haleakala�AE8 National Park” for “Haleakala National Park”.
+<b>2000</b>—Pub. L. 106–510 substituted “Haleakala�AE8 National Park” for “Haleakala National Park”.
 
 #### Change of Name
 

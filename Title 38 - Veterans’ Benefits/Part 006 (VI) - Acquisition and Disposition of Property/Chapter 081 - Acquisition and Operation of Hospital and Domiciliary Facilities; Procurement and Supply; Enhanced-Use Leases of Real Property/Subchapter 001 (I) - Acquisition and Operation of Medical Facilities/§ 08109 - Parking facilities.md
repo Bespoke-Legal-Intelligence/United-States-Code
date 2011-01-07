@@ -44,7 +44,7 @@
 
 (f) The Secretary may contract (by lease or otherwise) for the operation of parking facilities at medical facilities under such terms and conditions as the Secretary prescribes and may do so without regard to laws requiring full and open competition.
 
-(g) Subject to subsections (h) and (i) of this section, there are authorized to be appropriated such amounts as are necessary to finance (in whole or in part) the construction, alteration, and acquisition (including site acquisition) of parking facilities at medical facilities.
+(g) Subject to subsections (h) and (i) of this section, there are authorized to be appropriated such amounts as are necessary to finance (in whole or in part) the construction, alteration,and acquisition (including site acquisition) of parking facilities at medical facilities.
 
 (h)(1) Amounts appropriated pursuant to subsection (g) of this section and parking fees collected under subsection (c) of this section shall be administered as a revolving fund and shall be available without fiscal year limitation.
 
@@ -68,15 +68,15 @@ Provisions similar to those comprising this section were contained in former sec
 
 #### Amendments
 
-2004—Subsec. (j). Pub. L. 108–422 added subsec. (j).
+<b>2004</b>—Subsec. (j). Pub. L. 108–422 added subsec. (j).
 
-1998—Subsec. (i)(2). Pub. L. 105–368 substituted “$4,000,000” for “$3,000,000”.
+<b>1998</b>—Subsec. (i)(2). Pub. L. 105–368 substituted “$4,000,000” for “$3,000,000”.
 
-1996—Subsec. (h)(3)(B). Pub. L. 104–262 substituted “construction documents” for “working drawings”.
+<b>1996</b>—Subsec. (h)(3)(B). Pub. L. 104–262 substituted “construction documents” for “working drawings”.
 
-1993—Subsec. (i)(2). Pub. L. 103–79 substituted “$3,000,000” for “$2,000,000”.
+<b>1993</b>—Subsec. (i)(2). Pub. L. 103–79 substituted “$3,000,000” for “$2,000,000”.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 5009 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 5009 of this title as this section.
 
 Subsecs. (a) to (c). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -88,7 +88,7 @@ Subsecs. (d)(2), (e), (f). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “S
 
 Subsec. (i)(2). Pub. L. 102–40, §402(d)(1), substituted “8104(a)(2)” for “5004(a)(2)”.
 
-1986—Pub. L. 99–576 amended section generally, substituting “Parking facilities” for “Garages and parking facilities” in section catchline and substituting present provisions consisting of subsecs. (a) to (i) for former provisions consisting of subsecs. (a) to (c), and generally revising and expanding section to require VA to establish and collect reasonable parking fees at all facilities where a garage is constructed or acquired or altered at a cost of more than $500,000 (or leased for more than $100,000 per year), and allowing discretionary paid parking at all other facilities.
+<b>1986</b>—Pub. L. 99–576 amended section generally, substituting “Parking facilities” for “Garages and parking facilities” in section catchline and substituting present provisions consisting of subsecs. (a) to (i) for former provisions consisting of subsecs. (a) to (c), and generally revising and expanding section to require VA to establish and collect reasonable parking fees at all facilities where a garage is constructed or acquired or altered at a cost of more than $500,000 (or leased for more than $100,000 per year), and allowing discretionary paid parking at all other facilities.
 
 #### Effective Date of 1986 Amendment
 

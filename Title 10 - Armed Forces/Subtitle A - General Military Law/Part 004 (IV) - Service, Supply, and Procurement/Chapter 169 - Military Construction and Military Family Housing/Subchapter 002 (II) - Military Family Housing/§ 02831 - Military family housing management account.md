@@ -34,7 +34,7 @@ Reports on General Officers and Flag Officers Quarters.—(1) As part of the bud
 
 &emsp;(D) for each family housing unit identified under subparagraph (C), specifying any alternative and more efficient use to which the unit could be converted (which would include any costs necessary to convert the unit) and containing an explanation of the reasons why the unit is not being converted to the alternative use; and
 
-&emsp;(E) for each family housing unit identified under subparagraph (C) for which costs under subparagraph (A) or new construction costs are anticipated to exceed $100,000 in the next fiscal year, specifying any alternative use to which the unit could be converted (which would include any costs necessary to convert the unit) and an estimate of the costs to demolish and rebuild the unit to private sector standards.
+&emsp;(E) for each family housing unit identified under subparagraph (C) for which costs under subparagraph (A) or new construction costs are anticipated to exceed $100,000 in the next fiscal year, specifying any alternative use to which the unit could be converted (which would include any costs necessary to convertthe unit) and an estimate of the costs to demolish and rebuild the unit to private sector standards.
 
 (2) Not later than 120 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees a report specifying, for each family housing unit used as quarters for a general officer or flag officer at any time during that fiscal year, the total expenditures for operation and maintenance, utilities, lease, and repairs of the unit during that fiscal year.
 
@@ -58,7 +58,7 @@ Section 222(c) of the National Housing Act (12 U.S.C. 1715m(c)), referred to in 
 
 #### Amendments
 
-2006—Subsecs. (a) to (d). Pub. L. 109–364, §2805(b)(1)–(4), inserted subsec. headings.
+<b>2006</b>—Subsecs. (a) to (d). Pub. L. 109–364, §2805(b)(1)–(4), inserted subsec. headings.
 
 Subsec. (e). Pub. L. 109–364, §2805(b)(5), struck out “Cost of” before “General Officers” in heading.
 
@@ -68,9 +68,9 @@ Subsec. (e)(1)(C) to (E). Pub. L. 109–364, §2805(a)(1), (2)(B), (3), added su
 
 Subsec. (f)(2). Pub. L. 109–364, §1071(a)(26), substituted “environmental” for “enviromental”.
 
-2004—Subsecs. (e), (f). Pub. L. 108–375 added subsecs. (e) and (f).
+<b>2004</b>—Subsecs. (e), (f). Pub. L. 108–375 added subsecs. (e) and (f).
 
-2002—Subsec. (b)(3). Pub. L. 107–217 substituted “section 572(a) of title 40” for “section 204(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 485(b))”.
+<b>2002</b>—Subsec. (b)(3). Pub. L. 107–217 substituted “section 572(a) of title 40” for “section 204(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 485(b))”.
 
 #### Effective Date
 

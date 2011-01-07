@@ -24,5 +24,5 @@ The Social Security Act, referred to in par. (3), is act Aug. 14, 1935, ch. 531,
 
 #### Amendments
 
-2003—Par. (3). Pub. L. 108–11 substituted “19” for “17”.
+<b>2003</b>—Par. (3). Pub. L. 108–11 substituted “19” for “17”.
 

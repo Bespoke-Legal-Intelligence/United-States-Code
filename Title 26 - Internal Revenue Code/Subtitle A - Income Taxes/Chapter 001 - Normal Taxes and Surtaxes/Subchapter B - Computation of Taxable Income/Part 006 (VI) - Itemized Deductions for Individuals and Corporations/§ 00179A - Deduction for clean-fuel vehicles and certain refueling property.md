@@ -156,9 +156,9 @@ This section shall not apply to any property placed in service after December 31
 
 #### Amendments
 
-2005—Subsec. (f). Pub. L. 109–58 substituted “December 31, 2005” for “December 31, 2006”.
+<b>2005</b>—Subsec. (f). Pub. L. 109–58 substituted “December 31, 2005” for “December 31, 2006”.
 
-2004—Subsec. (b)(1)(B). Pub. L. 108–311 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In the case of any qualified clean-fuel vehicle property placed in service after December 31, 2003, the limit otherwise applicable under subparagraph (A) shall be reduced by—
+<b>2004</b>—Subsec. (b)(1)(B). Pub. L. 108–311 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In the case of any qualified clean-fuel vehicle property placed in service after December 31, 2003, the limit otherwise applicable under subparagraph (A) shall be reduced by—
 
 &emsp;“(i) 25 percent in the case of property placed in service in calendar year 2004,
 
@@ -166,7 +166,7 @@ This section shall not apply to any property placed in service after December 31
 
 &emsp;“(iii) 75 percent in the case of property placed in service in calendar year 2006.”
 
-2002—Subsec. (b)(1)(B). Pub. L. 107–147, §606(a)(1)(A), substituted “December 31, 2003,” for “December 31, 2001,” in introductory provisions.
+<b>2002</b>—Subsec. (b)(1)(B). Pub. L. 107–147, §606(a)(1)(A), substituted “December 31, 2003,” for “December 31, 2001,” in introductory provisions.
 
 Subsec. (b)(1)(B)(i). Pub. L. 107–147, §606(a)(1)(B), substituted “2004” for “2002”
 
@@ -176,7 +176,7 @@ Subsec. (b)(1)(B)(iii). Pub. L. 107–147, §606(a)(1)(B), substituted “2006�
 
 Subsec. (f). Pub. L. 107–147, §606(a)(2), substituted “December 31, 2006” for “December 31, 2004”.
 
-1996—Subsecs. (f), (g). Pub. L. 104–188 redesignated subsec. (g) as (f).
+<b>1996</b>—Subsecs. (f), (g). Pub. L. 104–188 redesignated subsec. (g) as (f).
 
 #### Effective Date of 2004 Amendment
 

@@ -32,7 +32,7 @@ The National Environmental Policy Act, referred to in text, probably means the N
 
 #### Amendments
 
-1988—Par. (2). Pub. L. 100–616 added par. (2) and concluding provisions and struck out former par. (2) and concluding provisions which read as follows:
+<b>1988</b>—Par. (2). Pub. L. 100–616 added par. (2) and concluding provisions and struck out former par. (2) and concluding provisions which read as follows:
 
 &emsp;“(2) the Secretary of the Interior may make available public lands administered by him for such purposes in accordance with other applicable provisions of law.
 

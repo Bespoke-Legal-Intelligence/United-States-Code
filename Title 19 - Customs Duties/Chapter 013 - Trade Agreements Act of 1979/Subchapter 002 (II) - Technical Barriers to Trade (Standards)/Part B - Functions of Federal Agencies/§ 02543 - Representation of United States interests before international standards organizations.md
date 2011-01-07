@@ -34,7 +34,7 @@ The Secretary concerned shall—
 
 #### (4) Action by organization member
 
-&emsp;If within the 90-day period after the date on which notification is received under paragraph (3) (or such shorter period as the Secretary concerned determines to be necessary in extraordinary circumstances), the organization member demonstrates to the Secretary concerned its willingness and ability to represent adequately United States interests before the private international standards organization, the Secretary concerned shall take no further action under this subsection.
+&emsp;If within the 90-day period after the date on which notification is received under paragraph (3) (or such shorter period as the Secretary concerned determines to be necessary in extraordinary circumstances), the organization member demonstrates to the Secretary concerned its willingness and ability to represent adequately United States interests before theprivate international standards organization, the Secretary concerned shall take no further action under this subsection.
 
 #### (5) Action by Secretary concerned
 
@@ -60,7 +60,7 @@ With respect to any international standards organization before which the intere
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–295 amended directory language of Pub. L. 103–182. See 1993 Amendment note below.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–295 amended directory language of Pub. L. 103–182. See 1993 Amendment note below.
 
-1993—Subsec. (a)(1). Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative”.
 

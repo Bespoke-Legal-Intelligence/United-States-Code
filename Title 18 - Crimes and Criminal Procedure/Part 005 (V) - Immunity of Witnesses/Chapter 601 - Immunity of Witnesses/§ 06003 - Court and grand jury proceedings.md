@@ -1,6 +1,6 @@
 ### §6003. Court and grand jury proceedings
 
-(a) In the case of any individual who has been or may be called to testify or provide other information at any proceeding before or ancillary to a court of the United States or a grand jury of the United States, the United States district court for the judicial district in which the proceeding is or may be held shall issue, in accordance with subsection (b) of this section, upon the request of the United States attorney for such district, an order requiring such individual to give testimony or provide other information which he refuses to give or provide on the basis of his privilege against self-incrimination, such order to become effective as provided in section 6002 of this title.
+(a) In the case of any individual who has been or may be called to testify or provide other information at any proceeding before or ancillary to a court of the United States or a grand jury of the United States, the United States district court for the judicial district in which the proceeding is or may be held shall issue, in accordance with subsection (b) of this section, upon the request of the United States attorney forsuch district, an order requiring such individual to give testimony or provide other information which he refuses to give or provide on the basis of his privilege against self-incrimination, such order to become effective as provided in section 6002 of this title.
 
 (b) A United States attorney may, with the approval of the Attorney General, the Deputy Attorney General, the Associate Attorney General, or any designated Assistant Attorney General or Deputy Assistant Attorney General, request an order under subsection (a) of this section when in his judgment—
 
@@ -12,7 +12,7 @@
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–322 substituted “title” for “part” before period at end.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “title” for “part” before period at end.
 
-1988—Subsec. (b). Pub. L. 100–690 inserted “, the Associate Attorney General” after “Deputy Attorney General”, and “or Deputy Assistant Attorney General” after “Assistant Attorney General”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–690 inserted “, the Associate Attorney General” after “Deputy Attorney General”, and “or Deputy Assistant Attorney General” after “Assistant Attorney General”.
 

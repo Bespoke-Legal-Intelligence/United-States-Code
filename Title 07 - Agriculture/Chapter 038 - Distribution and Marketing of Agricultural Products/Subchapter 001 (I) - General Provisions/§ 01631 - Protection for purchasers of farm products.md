@@ -66,7 +66,7 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) on the written request of the buyer, commission merchant, or selling agent, by paper copy of the list to the requestor;
 
-&emsp;&emsp;(F) the Secretary of State furnishes to those who are not registered pursuant to (2)(D) of this section <sup>1</sup> oral confirmation within 24 hours of any effective financing statement on request followed by written confirmation to any buyer of farm products buying from a debtor, or commission merchant or selling agent selling for a seller covered by such statement.
+&emsp;&emsp;(F) the Secretary of State furnishes to those who are not registered pursuant to (2)(D) of this section <sup>1</sup> oral confirmation within 24 hours of any effective financingstatement on request followed by written confirmation to any buyer of farm products buying from a debtor, or commission merchant or selling agent selling for a seller covered by such statement.
 
 &emsp;(3) The term “commission merchant” means any person engaged in the business of receiving any farm product for sale, on commission, or for or on behalf of another person.
 
@@ -82,7 +82,7 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the name and address of the person indebted to the secured party;
 
-&emsp;&emsp;&emsp;(iii) the social security number, or other approved unique identifier, of the debtor or, in the case of a debtor doing businessother than as an individual, the Internal Revenue Service taxpayer identification number, or other approved unique identifier, of such debtor; and
+&emsp;&emsp;&emsp;(iii) the social security number, or other approved unique identifier, of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number, or other approved unique identifier, of such debtor; and
 
 &emsp;&emsp;&emsp;(iv) a description of the farm products subject to the security interest created by the debtor, including the amount of such products where applicable, and the name of each county or parish in which the farm products are produced or located;
 

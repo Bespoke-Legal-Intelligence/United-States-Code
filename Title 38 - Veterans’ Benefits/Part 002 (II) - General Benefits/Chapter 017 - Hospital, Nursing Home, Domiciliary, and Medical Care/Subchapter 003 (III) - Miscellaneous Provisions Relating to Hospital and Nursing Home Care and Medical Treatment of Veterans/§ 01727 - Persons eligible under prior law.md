@@ -6,9 +6,9 @@ Persons who have a status which would, under the laws in effect on December 31, 
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 627 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 627 of this title as this section.
 
-1976—Pub. L. 94–581 substituted “1957” for “1958”.
+<b>1976</b>—Pub. L. 94–581 substituted “1957” for “1958”.
 
 #### Effective Date of 1976 Amendment
 

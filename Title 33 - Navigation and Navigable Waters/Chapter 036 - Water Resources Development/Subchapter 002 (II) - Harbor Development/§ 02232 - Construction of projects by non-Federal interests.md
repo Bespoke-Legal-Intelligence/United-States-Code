@@ -36,7 +36,7 @@ Any non-Federal interest which has requested and received from the Secretary pur
 
 #### (3) Monitoring
 
-&emsp;The Secretary shall regularly monitor and audit any project for a harbor or inland harbor constructed under this subsection by a non-Federal interest in order to ensure that such construction is in compliance with the plans approved by the Secretary, and that costs are reasonable. No reimbursement shall be made unless and until the Secretary has certified that the work for which reimbursement is requested has been performed in accordance with applicable permits and the approved plans.
+&emsp;The Secretary shall regularly monitor and audit any project for a harbor or inland harbor constructed under this subsection by a non-Federal interest in order to ensure that such construction is in compliance with the plans approved by the Secretary, and that costs arereasonable. No reimbursement shall be made unless and until the Secretary has certified that the work for which reimbursement is requested has been performed in accordance with applicable permits and the approved plans.
 
 #### (f) Operation and maintenance
 
@@ -62,7 +62,7 @@ This subchapter, referred to in subsec. (f)(1), was in the original “this titl
 
 #### Amendments
 
-1990—Subsec. (c). Pub. L. 101–640, §303(a), inserted after first sentence “The Secretary is further authorized to complete and transmit to the appropriate non-Federal interest any study for improvement to harbors or inland harbors of the United States that is initiated pursuant to section 577 of this title or, upon request of such non-Federal interest, to terminate such study and transmit such partially completed study to the non-Federal interest.”
+<b>1990</b>—Subsec. (c). Pub. L. 101–640, §303(a), inserted after first sentence “The Secretary is further authorized to complete and transmit to the appropriate non-Federal interest any study for improvement to harbors or inland harbors of the United States that is initiated pursuant to section 577 of this title or, upon request of such non-Federal interest, to terminate such study and transmit such partially completed study to the non-Federal interest.”
 
 Subsec. (e). Pub. L. 101–640, §303(b)(1), redesignated subsec. (e), relating to operation and maintenance, as (f).
 
@@ -78,7 +78,7 @@ Section 404 of Pub. L. 101–640 provided that:
 
 “(a)
 
-In General.—For purposes of demonstrating the safety benefits and economic efficiencies which wouldaccrue as a consequence of non-Federal management of harbor improvement projects, the Secretary shall enter into agreements with 2 non-Federal interests pursuant to which the non-Federal interests will undertake part or all of a harbor project authorized by law, by utilizing their own personnel or by procuring outside services, if the cost of doing so will not exceed the cost of the Secretary undertaking the project. If proposals for such agreements meet the criteria of section 204 of the Water Resources Development Act of 1986 \[33 U.S.C. 2232\], the agreements shall be entered into not later than 1 year after the date of the enactment of this Act \[Nov. 28, 1990\].
+In General.—For purposes of demonstrating the safety benefits and economic efficiencies which would accrue as a consequence of non-Federal management of harbor improvement projects, the Secretary shall enter into agreements with 2 non-Federal interests pursuant to which the non-Federal interests will undertake part or all of a harbor project authorized by law, by utilizing their own personnel or by procuring outside services, if the cost of doing so will not exceed the cost of the Secretary undertaking the project. If proposals for such agreements meet the criteria of section 204 of the Water Resources Development Act of 1986 \[33 U.S.C. 2232\], the agreements shall be entered into not later than 1 year after the date of the enactment of this Act \[Nov. 28, 1990\].
 
 “(b)
 

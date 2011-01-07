@@ -10,7 +10,7 @@ Term.—The term of a lease under subsection (a) may not exceed 10 years.
 
 (c)
 
-Lease to Public or Nonprofit Organizations.—(1) A lease under subsection (a) to any public or nonprofit organization may be made without regard to the provisions of section 3709 of the Revised Statutes (41 U.S.C. 5).
+Lease to Public or Nonprofit Organizations.—(1) A lease under subsection (a) to any public or nonprofit organization may be made without regard to the provisions of section 3709 of the Revised Statutes (41 U.S.C. 5).<sup>1</sup>
 
 (2) Notwithstanding section 1302 of title 40 or any other provision of law, a lease under subsection (a) to any public or nonprofit organization may provide for the maintenance, protection, or restoration of the leased property by the lessee, as a part or all of the consideration for the lease.
 
@@ -35,4 +35,10 @@ National Cemetery Administration Facilities Operation Fund.—(1) There is estab
 (4) Amounts in the Fund shall remain available until expended.
 
 (Added Pub. L. 108–454, title VI, §602(a), Dec. 10, 2004, 118 Stat. 3623.)
+
+#### References in Text
+
+Section 3709 of the Revised Statutes, referred to in subsec. (c)(1), was classified to section 5 of former Title 41, Public Contracts, and was repealed and restated in section 6101 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

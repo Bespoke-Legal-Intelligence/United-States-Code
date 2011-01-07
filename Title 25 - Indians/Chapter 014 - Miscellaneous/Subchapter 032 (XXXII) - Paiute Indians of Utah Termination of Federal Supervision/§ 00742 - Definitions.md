@@ -8,7 +8,7 @@ For the purposes of this subchapter—
 
 &emsp;(c) “Lands” means real property, interests therein, or improvements thereon, and includes water rights.
 
-&emsp;(d) “Individual Indian” means any individual Indian whose name appears on the finalroll prepared pursuant to section 743 of this title.
+&emsp;(d) “Individual Indian” means any individual Indian whose name appears on the final roll prepared pursuant to section 743 of this title.
 
 &emsp;(e) “Tribal property” means any real or personal property, including water rights, or any interest in real or personal property, that belongs to the tribe and either is held by the United States in trust for the tribe or is subject to a restriction against alienation imposed by the United States,
 

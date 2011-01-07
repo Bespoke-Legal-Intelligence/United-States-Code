@@ -16,11 +16,11 @@ Definition.—In this section, the term “Member of Congress” means—
 
 &emsp;(2) a Representative in, or a Delegate or Resident Commissioner to, Congress.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title V, §542(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–114;Pub. L. 108–136, div. A, title X, §1031(a)(11), Nov. 24, 2003, 117 Stat. 1597.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title V, §542(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–114; Pub. L. 108–136, div. A, title X, §1031(a)(11), Nov. 24, 2003, 117 Stat. 1597.)
 
 #### Amendments
 
-2003—Pub. L. 108–136, §1031(a)(11)(B), struck out “and recommendation” after “review” in section catchline.
+<b>2003</b>—Pub. L. 108–136, §1031(a)(11)(B), struck out “and recommendation” after “review” in section catchline.
 
 Subsec. (a). Pub. L. 108–136, §1031(a)(11)(A)(i), struck out “and the other determinations necessary to comply with subsection (b)” before period at end.
 

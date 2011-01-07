@@ -14,9 +14,9 @@ The Food for Peace Act, as amended, referred to in subsec. (a), is act July 10, 
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
-1974—Subsec. (b). Pub. L. 93–559 repealed subsec. (b) which provided for Presidential reports to Congress respecting sales and guaranties to less developed countries.
+<b>1974</b>—Subsec. (b). Pub. L. 93–559 repealed subsec. (b) which provided for Presidential reports to Congress respecting sales and guaranties to less developed countries.
 
 #### Effective Date of 2008 Amendment
 

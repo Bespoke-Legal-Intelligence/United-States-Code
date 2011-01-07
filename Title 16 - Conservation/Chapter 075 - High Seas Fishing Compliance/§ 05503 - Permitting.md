@@ -66,7 +66,7 @@ This chapter, referred to in subsec. (e)(2), was in the original “this Act”,
 
 #### Amendments
 
-1996—Subsec. (d)(1). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1855 of this title.
+<b>1996</b>—Subsec. (d)(1). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1855 of this title.
 
 #### Effective Date of 1996 Amendment
 

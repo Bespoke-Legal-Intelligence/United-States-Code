@@ -26,5 +26,5 @@
 
 #### Amendments
 
-2008—Pub. L. 110–457 amended section generally. Prior to amendment, section provided penalties for knowingly providing or obtaining forced labor.
+<b>2008</b>—Pub. L. 110–457 amended section generally. Prior to amendment, section provided penalties for knowingly providing or obtaining forced labor.
 

@@ -10,23 +10,23 @@ Amendment by Pub. L. 98–473 is based on section 311(a) of H.R. 5119, Ninety-ei
 
 #### Prior Provisions
 
-A prior section 221 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 429, as amended by Pub. L. 87–565, pt. I, §104(a), Aug. 1, 1962, 76 Stat. 256; Pub. L. 88–205, pt. I, §104(a), Dec. 16, 1963, 77 Stat. 381; Pub. L. 88–633, pt. I, §103(a), Oct. 7, 1964, 78 Stat. 1009; Pub. L. 89–171, pt. I, §104(a), (b), Sept. 6, 1965, 79 Stat. 654; Pub. L. 89–583, pt. I, §104(a), Sept. 19, 1966, 80 Stat. 798; Pub. L. 90–137, pt. I, §104(a), Nov. 14, 1967, 81 Stat. 450; Pub. L. 90–554, pt. I, §103, Oct. 8, 1968, 82 Stat. 960, related to general authority for foreign investment guaranties by the President, prior to the general reorganization of this subpart by Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 807.
+A prior section 221 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 429, as amended by Pub. L. 87–565, pt. I, §104(a), Aug. 1, 1962, 76 Stat. 256; Pub. L. 88–205, pt. I, §104(a), Dec. 16, 1963, 77 Stat. 381; Pub. L. 88–633, pt. I, §103(a), Oct. 7, 1964, 78 Stat. 1009; Pub. L. 89–171, pt. I,§104(a), (b), Sept. 6, 1965, 79 Stat. 654; Pub. L. 89–583, pt. I, §104(a), Sept. 19, 1966, 80 Stat. 798; Pub. L. 90–137, pt. I, §104(a), Nov. 14, 1967, 81 Stat. 450; Pub. L. 90–554, pt. I, §103, Oct. 8, 1968, 82 Stat. 960, related to general authority for foreign investment guaranties by the President, prior to the general reorganization of this subpart by Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 807.
 
 #### Amendments
 
-1984—Pub. L. 98–473 substituted “, including essential urban development services, is” for “requirements are” after “The Congress recognizes that shelter” and, in the remainder of the section substituted “shelter” for “housing” wherever appearing.
+<b>1984</b>—Pub. L. 98–473 substituted “, including essential urban development services, is” for “requirements are” after “The Congress recognizes that shelter” and, in the remainder of the section substituted “shelter” for “housing” wherever appearing.
 
-1978—Pub. L. 95–424 generally revised the statement of policy to clarify that in developing countries, financing, materials and labor for most housing must be obtained from local sources, while United States capital and technical expertise can increase the availability of housing and related services for low-income people by demonstrating financial viability of credit systems for low-cost housing.
+<b>1978</b>—Pub. L. 95–424 generally revised the statement of policy to clarify that in developing countries, financing, materials and labor for most housing must be obtained from local sources, while United States capital and technical expertise can increase the availability of housing and related services for low-income people by demonstrating financial viability of credit systems for low-cost housing.
 
-1977—Pub. L. 95–88 struck out provisions that the total face amount of guaranties issued under this section outstanding at any one time not exceed $430,000,000 and added section 2182(c) of this title to the enumeration of sections setting out the conditions under which guaranties shall be issued.
+<b>1977</b>—Pub. L. 95–88 struck out provisions that the total face amount of guaranties issued under this section outstanding at any one time not exceed $430,000,000 and added section 2182(c) of this title to the enumeration of sections setting out the conditions under which guaranties shall be issued.
 
-1975—Pub. L. 94–161 substituted “$430,000,000” for “$355,000,000”.
+<b>1975</b>—Pub. L. 94–161 substituted “$430,000,000” for “$355,000,000”.
 
-1974—Pub. L. 93–559 substituted “$355,000,000” for “$305,000,000”.
+<b>1974</b>—Pub. L. 93–559 substituted “$355,000,000” for “$305,000,000”.
 
-1973—Pub. L. 93–189 substituted “$305,000,000” for “$205,000,000”.
+<b>1973</b>—Pub. L. 93–189 substituted “$305,000,000” for “$205,000,000”.
 
-1972—Pub. L. 92–226 substituted “$205,000,000” for “$130,000,000”.
+<b>1972</b>—Pub. L. 92–226 substituted “$205,000,000” for “$130,000,000”.
 
 #### Effective Date of 1978 Amendment
 

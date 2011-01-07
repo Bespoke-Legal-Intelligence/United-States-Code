@@ -28,7 +28,7 @@ It is further the policy of Congress that the President, acting through the Secr
 
 #### (d) Administrator of Environmental Protection Agency to administer chapter
 
-Except as otherwise expressly provided in this chapter, the Administrator of the Environmental Protection Agency (hereinafter in thischapter called “Administrator”) shall administer this chapter.
+Except as otherwise expressly provided in this chapter, the Administrator of the Environmental Protection Agency (hereinafter in this chapter called “Administrator”) shall administer this chapter.
 
 #### (e) Public participation in development, revision, and enforcement of any regulation, etc.
 
@@ -46,9 +46,9 @@ It is the policy of Congress that the authority of each State to allocate quanti
 
 #### Amendments
 
-1987—Subsec. (a)(7). Pub. L. 100–4 added par. (7).
+<b>1987</b>—Subsec. (a)(7). Pub. L. 100–4 added par. (7).
 
-1977—Subsec. (b). Pub. L. 95–217, §26(b), inserted provisions expressing Congressional policy that the States manage the construction grant program under this chapter and implement the permit program under sections 1342 and 1344 of this title.
+<b>1977</b>—Subsec. (b). Pub. L. 95–217, §26(b), inserted provisions expressing Congressional policy that the States manage the construction grant program under this chapter and implement the permit program under sections 1342 and 1344 of this title.
 
 Subsec. (g). Pub. L. 95–217, §5(a), added subsec. (g).
 
@@ -68,7 +68,7 @@ Pub. L. 107–303, title II, §201, Nov. 27, 2002, 116 Stat. 2358, provided that
 
 #### Short Title of 2000 Amendments
 
-Pub. L. 106–457, title II, §201, Nov. 7, 2000, 114 Stat. 1967, provided that: “This title \[amending section 1267 of this title and enacting provisions set out as a note under section 1267 of this title\] may be cited as the ‘Chesapeake Bay Restoration Act of 2000’.”
+Pub. L. 106–457, title II, §201, Nov. 7, 2000, 114 Stat. 1967, provided that: “This title \[amending section 1267of this title and enacting provisions set out as a note under section 1267 of this title\] may be cited as the ‘Chesapeake Bay Restoration Act of 2000’.”
 
 Pub. L. 106–457, title IV, §401, Nov. 7, 2000, 114 Stat. 1973, provided that: “This title \[amending section 1269 of this title\] may be cited as the ‘Long Island Sound Restoration Act’.”
 
@@ -100,7 +100,7 @@ Section 1(a) of Pub. L. 100–4 provided that: “This Act \[enacting sections 1
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–117, §1, Dec. 29, 1981, 95 Stat. 1623, provided that: “This Act \[enacting sections 1298, 1299, and 1313aof this title, amending sections 1281 to 1285, 1287, 1291, 1292, 1296, 1311, and 1314 of this title, and enacting provisions set out as notes under sections 1311 and 1375 of this title\] may be cited as the ‘Municipal Wastewater Treatment Construction Grant Amendments of 1981’.”
+Pub. L. 97–117, §1, Dec. 29, 1981, 95 Stat. 1623, provided that: “This Act \[enacting sections 1298, 1299, and 1313a of this title, amending sections 1281 to 1285, 1287, 1291, 1292, 1296, 1311, and 1314 of this title, and enacting provisions set out as notes under sections 1311 and 1375 of this title\] may be cited as the ‘Municipal Wastewater Treatment Construction Grant Amendments of 1981’.”
 
 #### Short Title of 1977 Amendment
 
@@ -166,7 +166,7 @@ Advisory Committee.—(1) For the purpose of providing oversight of the Program 
 
 &emsp;“(A) three members representing agencies having authority under State law to regulate the shellfish industry, of whom one shall represent each of the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions;
 
-&emsp;“(B) three members representing persons engaged in the shellfish industry in the Atlantic, Pacific, andGulf of Mexico shellfish growing regions (who shall be appointed from among at least six recommendations by the industry members of the Interstate Shellfish Sanitation Conference Executive Board), of whom one shall represent the shellfish industry in each region;
+&emsp;“(B) three members representing persons engaged in the shellfish industry in the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions (who shall be appointed from among at least six recommendations by the industry members of the Interstate Shellfish Sanitation Conference Executive Board), of whom one shall represent the shellfish industry in each region;
 
 &emsp;“(C) three members, of whom one shall represent each of the following Federal agencies: the National Oceanic and Atmospheric Administration, the Environmental Protection Agency, and the Food and Drug Administration; and
 
@@ -270,7 +270,7 @@ For extension of contiguous zone of United States, see Proc. No. 7219, set out a
 
 #### Prevention, Control, and Abatement of Environmental Pollution at Federal Facilities
 
-Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under section 4321 of Title 42, The Public Health and Welfare, provides for the prevention, control, and abatement of environmental pollution at federal facilities.
+Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under section 4321 of Title 42, The PublicHealth and Welfare, provides for the prevention, control, and abatement of environmental pollution at federal facilities.
 
 #### Executive Order No. 11548
 

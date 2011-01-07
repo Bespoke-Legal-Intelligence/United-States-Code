@@ -44,9 +44,9 @@ In clause (3), the words “or retired Comptroller General” are omitted as exe
 
 #### Amendments
 
-2004—Par. (1)(C). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Par. (1)(C). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1988—Par. (1)(C). Pub. L. 100–426, §202(a), added subpar. (C).
+<b>1988</b>—Par. (1)(C). Pub. L. 100–426, §202(a), added subpar. (C).
 
 Par. (2)(A). Pub. L. 100–426, §202(b)(1), substituted “1 year” for “2 years”.
 

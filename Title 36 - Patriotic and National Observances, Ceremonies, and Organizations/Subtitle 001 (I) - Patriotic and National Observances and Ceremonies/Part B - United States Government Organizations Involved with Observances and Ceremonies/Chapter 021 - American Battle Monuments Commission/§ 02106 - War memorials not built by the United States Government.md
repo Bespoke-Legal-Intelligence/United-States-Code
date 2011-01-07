@@ -22,7 +22,7 @@ Arrangements for Repair or Long-Term Maintenance of Memorials.—In assuming res
 
 (d)
 
-Fund for Arrangements for Repair or Long-Term Maintenance of Memorials.—(1) There is a fund in the Treasury that is available to the Commission for expenses of repair and long-term maintenance of memorials for which the Commission has made arrangements under subsection (c) of this section. The fund consists of—
+Fund for Arrangements for Repair or Long-Term Maintenance of Memorials.—(1) There is a fund in the Treasury that is available to the Commission for expenses of repair and long-term maintenance of memorials for which the Commission has made arrangements undersubsection (c) of this section. The fund consists of—
 
 &emsp;(A) amounts deposited into, and interest and proceeds credited to, the fund under paragraph (2) of this subsection; and
 

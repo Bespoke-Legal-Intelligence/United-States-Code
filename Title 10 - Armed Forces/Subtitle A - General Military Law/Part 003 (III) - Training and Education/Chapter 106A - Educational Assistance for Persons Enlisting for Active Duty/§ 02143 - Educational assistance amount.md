@@ -12,5 +12,5 @@
 
 #### Amendments
 
-1987—Subsec. (c). Pub. L. 100–180 inserted “the term” after “In this section,”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–180 inserted “the term” after “In this section,”.
 

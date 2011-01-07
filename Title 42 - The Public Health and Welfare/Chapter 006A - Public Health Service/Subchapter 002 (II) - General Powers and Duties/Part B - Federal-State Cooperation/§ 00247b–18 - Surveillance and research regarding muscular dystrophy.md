@@ -40,7 +40,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### Amendments
 
-2008—Subsecs. (d) to (f). Pub. L. 110–361 added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
+<b>2008</b>—Subsecs. (d) to (f). Pub. L. 110–361 added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
 #### Findings
 
@@ -60,7 +60,7 @@ Pub. L. 107–84, §2, Dec. 18, 2001, 115 Stat. 823, provided that: “Congress 
 
 &emsp;“(7) Myotonic muscular dystrophy (also known as Steinert's disease and dystrophia myotonica) is the second most prominent form of muscular dystrophy and the type most commonly found in adults. Unlike any of the other muscular dystrophies, the muscle weakness is accompanied by myotonia (delayed relaxation of muscles after contraction) and by a variety of abnormalities in addition to those of muscle.
 
-&emsp;“(8) Facioscapulohumeral muscular dystrophy (referred to in this section as ‘FSHD’) is a neuromuscular disorder that is inherited genetically and has an estimated frequency of 1 in 20,000. FSHD, affecting between 15,000 to 40,000 persons, causes a progressive and sever \[sic\] loss of skeletal muscle gradually bringing weakness and reduced mobility. Many persons with FSHD become severely physically disabled and spend many decades in a wheelchair.
+&emsp;“(8) Facioscapulohumeral muscular dystrophy (referred to in this section as ‘FSHD’) is a neuromuscular disorder that is inherited genetically andhas an estimated frequency of 1 in 20,000. FSHD, affecting between 15,000 to 40,000 persons, causes a progressive and sever \[sic\] loss of skeletal muscle gradually bringing weakness and reduced mobility. Many persons with FSHD become severely physically disabled and spend many decades in a wheelchair.
 
 &emsp;“(9) FSHD is regarded as a novel genetic phenomenon resulting from a crossover of subtelomeric DNA and may be the only human disease caused by a deletion-mutation.
 

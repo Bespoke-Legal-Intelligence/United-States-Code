@@ -26,5 +26,5 @@ Section was enacted as part of the Food, Agriculture, Conservation, and Trade Ac
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–171 struck out “, not to exceed $20,000,000 annually,” after “Secretary of Agriculture may make grants”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–171 struck out “, not to exceed $20,000,000 annually,” after “Secretary of Agriculture may make grants”.
 

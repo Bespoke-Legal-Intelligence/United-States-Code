@@ -20,7 +20,7 @@ The Secretary of Transportation, the Chairman of the Surface Transportation Boar
 
 Such trails may be designated and suitably marked as parts of the nationwide system of trails by the States, their political subdivisions, or other appropriate administering agencies with the approval of the Secretary of the Interior.
 
-(Pub. L. 90–543, §8, Oct. 2, 1968, 82 Stat. 925; Pub. L. 95–625, title V, §551(22), Nov. 10, 1978, 92 Stat. 3516; Pub. L. 98–11, title II, §208, Mar. 28, 1983, 97 Stat. 48; Pub. L. 104–88, title III, §317(1), Dec. 29, 1995, 109 Stat. 949.)
+(Pub. L. 90–543, §8, Oct. 2, 1968, 82 Stat. 925; Pub. L. 95–625, title V, §551(22), Nov. 10, 1978, 92 Stat.3516; Pub. L. 98–11, title II, §208, Mar. 28, 1983, 97 Stat. 48; Pub. L. 104–88, title III, §317(1), Dec. 29, 1995, 109 Stat. 949.)
 
 #### References in Text
 
@@ -34,15 +34,15 @@ Section 701 of the Housing Act of 1954, referred to in subsec. (b), was classifi
 
 The Housing Act of 1961, referred to in subsec. (b), is Pub. L. 87–70, June 30, 1961, 75 Stat. 149, as amended. Title VII of the Housing Act of 1961 was classified generally to chapter 8C (§1500 et seq.) of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 5316 of Title 42 which terminated authority to make grants or loans under such title VII after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 12, Banks and Banking, and Tables.
 
-The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsec. (d), is Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, as amended. For complete classification of this Act to the Code, see Short Title noteset out under section 801 of Title 45, Railroads, and Tables.
+The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsec. (d), is Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 45, Railroads, and Tables.
 
 #### Amendments
 
-1995—Subsec. (d). Pub. L. 104–88 substituted “Chairman of the Surface Transportation Board” for “Chairman of the Interstate Commerce Commission” and “the Board” for “the Commission”.
+<b>1995</b>—Subsec. (d). Pub. L. 104–88 substituted “Chairman of the Surface Transportation Board” for “Chairman of the Interstate Commerce Commission” and “the Board” for “the Commission”.
 
-1983—Subsecs. (d), (e). Pub. L. 98–11, §208(2), added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1983</b>—Subsecs. (d), (e). Pub. L. 98–11, §208(2), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1978—Subsec. (a). Pub. L. 95–625 inserted “and historic” after “establishing park, forest, and other recreation” and “administered by States, and recreation”, and directed the Secretary to encourage States to consider in their plans and proposals the needs and opportunities for establishing historic trails.
+<b>1978</b>—Subsec. (a). Pub. L. 95–625 inserted “and historic” after “establishing park, forest, and other recreation” and “administered by States, and recreation”, and directed the Secretary to encourage States to consider in their plans and proposals the needs and opportunities for establishing historic trails.
 
 #### Effective Date of 1995 Amendment
 

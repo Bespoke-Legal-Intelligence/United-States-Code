@@ -90,13 +90,13 @@ For purposes of this section:
 
 #### Amendments
 
-2009—Subsec. (e)(1). Pub. L. 111–4 substituted “June 12, 2009” for “February 17, 2009”.
+<b>2009</b>—Subsec. (e)(1). Pub. L. 111–4 substituted “June 12, 2009” for “February 17, 2009”.
 
-2006—Subsec. (e)(1). Pub. L. 109–171, §3002(c)(1)(A), substituted “Channels 52 to 69” for “Channels 60 to 69” in heading and substituted in text “full-power television station licensee that” for “person who”, “698 and 806 megahertz” for “746 and 806 megahertz”, and “February 17, 2009” for “the date on which the digital television service transition period terminates, as determined by the Commission”.
+<b>2006</b>—Subsec. (e)(1). Pub. L. 109–171, §3002(c)(1)(A), substituted “Channels 52 to 69” for “Channels 60 to 69” in heading and substituted in text “full-power television station licensee that” for “person who”, “698 and 806 megahertz” for “746 and 806 megahertz”, and “February 17, 2009” for “the date on which the digital television service transition period terminates, as determined by the Commission”.
 
 Subsec. (e)(2). Pub. L. 109–171, §3002(c)(1)(B), substituted “698 megahertz” for “746 megahertz”.
 
-1999—Subsec. (b). Pub. L. 106–113, §1000(a)(5) \[title II, §213(a)(1)\], substituted “The Commission shall commence assignment of licenses for public safety services created pursuant to subsection (a) of this section no later than September 30, 1998.” for “The Commission shall—
+<b>1999</b>—Subsec. (b). Pub. L. 106–113, §1000(a)(5) \[title II, §213(a)(1)\], substituted “The Commission shall commence assignment of licenses for public safety services created pursuant to subsection (a) of this section no later than September 30, 1998.” for “The Commission shall—
 
 &emsp;“(1) commence assignment of the licenses for public safety services created pursuant to subsection (a) of this section no later than September 30, 1998; and”.
 
@@ -132,7 +132,7 @@ Revised Schedule for Competitive Bidding of Spectrum.—(1) \[Amended subsec. (b
 
 “(4)(A) To expedite the assignment by competitive bidding of the frequencies identified in section 337(a)(2) of the Communications Act of 1934 (47 U.S.C. 337(a)(2)), the rules governing such frequencies shall be effective immediately upon publication in the Federal Register without regard to sections 553(d), 801(a)(3), 804(2), and 806(a) of title 5, United States Code.
 
-“(B) Chapter 6 of title 5, United States Code, section 3 of the Small Business Act (15 U.S.C. 632), and sections 3507 and 3512 of title 44, United States Code, shall not apply to the rules and competitive bidding procedures governing the frequencies described in subparagraph (A).
+“(B) Chapter 6 of title 5, United States Code, section 3 of the Small Business Act (15 U.S.C. 632), and sections 3507 and 3512 of title 44, United States Code, shall not apply to the rules and competitive bidding proceduresgoverning the frequencies described in subparagraph (A).
 
 “(5) Notwithstanding section 309(b) of the Communications Act of 1934 (47 U.S.C. 309(b)), no application for an instrument of authorization for the frequencies described in paragraph (4) may be granted by the Federal Communications Commission earlier than 7 days following issuance of public notice by the Commission of the acceptance for filing of such application or of any substantial amendment thereto.
 

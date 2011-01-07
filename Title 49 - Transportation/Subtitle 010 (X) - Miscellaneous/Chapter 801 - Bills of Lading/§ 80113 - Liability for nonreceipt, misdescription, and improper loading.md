@@ -14,7 +14,7 @@ Nonliability of Carriers.—A common carrier issuing a bill of lading is not lia
 
 &emsp;&emsp;(A) describes the goods in terms of marks or labels, or in a statement about kind, quantity, or condition; or
 
-&emsp;&emsp;(B) is qualified by “contents or condition of contents of packages unknown”, “said tocontain”, “shipper's weight, load, and count”, or words of the same meaning; and
+&emsp;&emsp;(B) is qualified by “contents or condition of contents of packages unknown”, “said to contain”, “shipper's weight, load, and count”, or words of the same meaning; and
 
 &emsp;(3) to the extent the carrier does not know whether any part of the goods were received or conform to the description.
 

@@ -10,7 +10,7 @@ Appropriate federal official.—In this section, the term “appropriate Federal
 
 &emsp;&emsp;(A) the Attorney General of the United States; or
 
-&emsp;&emsp;(B) in any case in which the defendant is a Federal depository institution, a State depository institution, a depository institution holding company, a foreign bank, or a nondepository institution subsidiary of the foregoing (as such terms are defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)), the person who has the primary Federal regulatory or supervisory responsibility with respect to the defendant, if some or all of the matters alleged in the class action are subject to regulation or supervision by that person.
+&emsp;&emsp;(B) in any case in which the defendant is a Federal depository institution, a State depository institution, a depository institution holding company, a foreign bank, or a nondepository institution subsidiary of the foregoing (as such terms are defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)), the person who has the primaryFederal regulatory or supervisory responsibility with respect to the defendant, if some or all of the matters alleged in the class action are subject to regulation or supervision by that person.
 
 &emsp;(2)
 
@@ -50,7 +50,7 @@ Depository Institutions Notification.—
 
 &emsp;(1)
 
-Federal and other depository institutions.—In any case in which the defendant is a Federal depository institution, a depository institution holding company, a foreign bank,or a non-depository institution subsidiary of the foregoing, the notice requirements of this section are satisfied by serving the notice required under subsection (b) upon the person who has the primary Federal regulatory or supervisory responsibility with respect to the defendant, if some or all of the matters alleged in the class action are subject to regulation or supervision by that person.
+Federal and other depository institutions.—In any case in which the defendant is a Federal depository institution, a depository institution holding company, a foreign bank, or a non-depository institution subsidiary of the foregoing, the notice requirements of this section are satisfied by serving the notice required under subsection (b) upon the person who has the primary Federal regulatory or supervisory responsibility with respect to the defendant, if some or all of the matters alleged in the class action are subject to regulation or supervision by that person.
 
 &emsp;(2)
 

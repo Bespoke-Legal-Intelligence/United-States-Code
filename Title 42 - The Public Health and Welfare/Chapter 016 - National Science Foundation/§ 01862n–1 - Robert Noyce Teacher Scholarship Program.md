@@ -80,7 +80,7 @@
 
 &emsp;&emsp;(E) a description of the programs required under subparagraphs (A)(iii) and (B)(iii) of subsection (a)(3), including activities to assist new teachers in fulfilling the teachers’ service requirements under this section;
 
-&emsp;&emsp;(F) an identification of the applicant eligible entity's science, technology, engineering, and mathematics faculty and its education faculty (and such faculty of participating institutions of higher education ofthe consortium, if applicable) who will carry out the development and implementation of the program as required under subsection (a)(4); and
+&emsp;&emsp;(F) an identification of the applicant eligible entity's science, technology, engineering, and mathematics faculty and its education faculty (and such faculty of participating institutions of higher education of the consortium, if applicable) who will carry out the development and implementation of the program as required under subsection (a)(4); and
 
 &emsp;&emsp;(G) a description of the process the applicant will use to fulfill the requirements of subsection (f).
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;(A) the ability of the applicant (and the participating institutions of higher education of the consortium, if applicable) to effectively carry out the program;
 
-&emsp;&emsp;(B) the extent to which the applicant's science, technology, engineering, and mathematics faculty and its education faculty (and such faculty of participating institutions of higher education of the consortium, if applicable) have worked or will work collaboratively to design new or revised curricula that recognize the specialized pedagogy required to teach science, technology, engineering, and mathematics effectively in elementary schools and secondary schools;
+&emsp;&emsp;(B) the extent to which the applicant's science, technology, engineering, and mathematics faculty and its education faculty (and such faculty of participating institutions of higher education of the consortium, if applicable) have worked or will work collaboratively to design new or revised curricula that recognize the specialized pedagogyrequired to teach science, technology, engineering, and mathematics effectively in elementary schools and secondary schools;
 
 &emsp;&emsp;(C) the extent to which the applicant (and the participating institutions of higher education of the consortium, if applicable) is committed to making the program a central organizational focus;
 
@@ -232,7 +232,7 @@ In this section—
 
 &emsp;(3) the term “fellowship” means an award to an individual under section 1862n–1a of this title;
 
-&emsp;(4) the term “high need local educational agency” has the meaning given such term insection 201 of the Higher Education Act of 1965 (20 U.S.C. 1021);
+&emsp;(4) the term “high need local educational agency” has the meaning given such term in section 201 of the Higher Education Act of 1965 (20 U.S.C. 1021);
 
 &emsp;(5) the term “mathematics and science teacher” means a science, technology, engineering, or mathematics teacher at the elementary school or secondary school level;
 
@@ -248,7 +248,7 @@ In accordance with section 1870(f) of this title, the Director is authorized to 
 
 #### (k) Assessment of teacher service and retention
 
-Not later than 4 years after August 9, 2007, the Director shall transmit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Science and Technology of the House of Representatives a report on the effectiveness of the programs carried out under this section and section 1862n–1a of this title. The report shall include the proportion of individuals receiving scholarships, stipends, or fellowships under the program who—
+Not later than 4 years after August 9, 2007, the Director shall transmit to the Committee onHealth, Education, Labor, and Pensions of the Senate and the Committee on Science and Technology of the House of Representatives a report on the effectiveness of the programs carried out under this section and section 1862n–1a of this title. The report shall include the proportion of individuals receiving scholarships, stipends, or fellowships under the program who—
 
 &emsp;(1) fulfill the individuals’ service obligation required under this section or section 1862n–1a of this title;
 
@@ -274,7 +274,7 @@ Section was enacted as part of the National Science Foundation Authorization Act
 
 #### Amendments
 
-2007—Pub. L. 110–69 amended section generally, substituting provisions relating to the Robert Noyce Teacher Scholarship Program, consisting of subsecs. (a) to (<i>l</i>), for former provisions relating to the Robert Noyce Scholarship Program, consisting of subsecs. (a) to (i). See Codification note above.
+<b>2007</b>—Pub. L. 110–69 amended section generally, substituting provisions relating to the Robert Noyce Teacher Scholarship Program, consisting of subsecs. (a) to (<i>l</i>), for former provisions relating to the Robert Noyce Scholarship Program, consisting of subsecs. (a) to (i). See Codification note above.
 
 #### Definitions
 

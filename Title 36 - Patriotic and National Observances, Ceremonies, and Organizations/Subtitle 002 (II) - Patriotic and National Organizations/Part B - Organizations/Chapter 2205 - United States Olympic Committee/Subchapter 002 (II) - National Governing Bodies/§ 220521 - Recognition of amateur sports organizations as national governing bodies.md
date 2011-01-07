@@ -58,9 +58,9 @@ In subsection (c), the words “in accordance with subsection (a) of this sectio
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–284 substituted “subsection” for “subsections”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–284 substituted “subsection” for “subsections”.
 
-1998—Subsec. (a). Pub. L. 105–277, §142(<i>l</i>)(1), inserted first sentence and struck out former first sentence which read as follows: “For any sport that is included on the program of the Olympic Games or the Pan-American Games, the corporation may recognize as a national governing body an amateur sports organization that files an application and is eligible under section 220522 of this title.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §142(<i>l</i>)(1), inserted first sentence and struck out former first sentence which read as follows: “For any sport that is included on the program of the Olympic Games or the Pan-American Games, the corporation may recognize as a national governing body an amateur sports organization that files an application and is eligible under section 220522 of this title.”
 
 Pub. L. 105–277, §142(<i>l</i>)(2), substituted “approved, except as provided in section 220522(b) with respect to a paralympic sports organization.” for “approved.”
 

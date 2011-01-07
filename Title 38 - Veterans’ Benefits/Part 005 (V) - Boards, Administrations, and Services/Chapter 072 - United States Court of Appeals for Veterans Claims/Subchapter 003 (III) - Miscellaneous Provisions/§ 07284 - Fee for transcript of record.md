@@ -6,9 +6,9 @@ The Court of Appeals for Veterans Claims may fix a fee, not in excess of the fee
 
 #### Amendments
 
-1998—Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+<b>1998</b>—Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-1991—Pub. L. 102–40 renumbered section 4084 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4084 of this title as this section.
 
 #### Effective Date of 1998 Amendment
 

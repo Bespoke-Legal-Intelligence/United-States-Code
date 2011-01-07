@@ -20,7 +20,7 @@ In determining the eligibility of a household, an individual Native, or a descen
 
 > none of the following, received from a Native Corporation, shall be considered or taken into account as an asset or resource:
 
-&emsp;(A) cash (including cash dividends on stock received from a Native Corporation and onbonds received from a Native Corporation) to the extent that it does not, in the aggregate, exceed $2,000 per individual per annum;
+&emsp;(A) cash (including cash dividends on stock received from a Native Corporation and on bonds received from a Native Corporation) to the extent that it does not, in the aggregate, exceed $2,000 per individual per annum;
 
 &emsp;(B) stock (including stock issued or distributed by a Native Corporation as a dividend or distribution on stock) or bonds issued by a Native Corporation which bonds shall be subject to the protection of section 1606(h) of this title until voluntarily and expressly sold or pledged by the shareholder subsequent to the date of distribution;
 
@@ -62,7 +62,7 @@ Notwithstanding any other provision of law, Alaska Natives shall remain eligible
 
 For the purposes of implementation of the Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\], a Native Corporation and corporations, partnerships, joint ventures, trusts, or affiliates in which the Native Corporation owns not less than 25 per centum of the equity shall be within the class of entities excluded from the definition of “employer” by section 701(b)(1) of Public Law 88–352 (78 Stat. 253), as amended \[42 U.S.C. 2000e(b)(1)\], or successor statutes.
 
-(Pub. L. 92–203, §29, as added Pub. L. 94–204, §4, Jan. 2, 1976, 89 Stat. 1147; amended Pub. L. 100–241, §15, Feb. 3, 1988, 101 Stat. 1812; Pub. L. 102–415, §§10, 11, Oct. 14, 1992, 106 Stat. 2115; Pub. L. 105–333, §5, Oct. 31, 1998, 112 Stat. 3131; Pub. L. 107–117, div. B, §702, Jan. 10, 2002, 115 Stat. 2312; Pub. L. 107–206, title III, §3003, Aug. 2, 2002, 116 Stat. 924; Pub. L. 110–234, title IV, §4002(b)(1)(A), (C), (2)(GG), May 22, 2008, 122 Stat. 1095, 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (C), (2)(GG), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
+(Pub. L. 92–203, §29, as added Pub. L. 94–204, §4, Jan. 2, 1976, 89 Stat. 1147; amended Pub. L. 100–241, §15, Feb. 3, 1988, 101 Stat. 1812; Pub. L.102–415, §§10, 11, Oct. 14, 1992, 106 Stat. 2115; Pub. L. 105–333, §5, Oct. 31, 1998, 112 Stat. 3131; Pub. L. 107–117, div. B, §702, Jan. 10, 2002, 115 Stat. 2312; Pub. L. 107–206, title III, §3003, Aug. 2, 2002, 116 Stat. 924; Pub. L. 110–234, title IV, §4002(b)(1)(A), (C), (2)(GG), May 22, 2008, 122 Stat. 1095, 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (C), (2)(GG), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
 #### References in Text
 
@@ -78,33 +78,33 @@ The Civil Rights Act of 1964, referred to in subsec. (g), is Pub. L. 88–352, J
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Subsec. (f) amended section 1702(3), (4) of Title 30, Mineral Lands and Mining, and provided for effective date of such amendment.
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–246, §4002(b)(1)(C), (2)(GG), which directed substitution of “Food and Nutrition Act of 2008” for “Food Stamp Act”, was executed by making the substitution for “Food Stamp Act of 1964” to reflect the probable intent of Congress.
+<b>2008</b>—Subsec. (b). Pub. L. 110–246, §4002(b)(1)(C), (2)(GG), which directed substitution of “Food and Nutrition Act of 2008” for “Food Stamp Act”, was executed by making the substitution for “Food Stamp Act of 1964” to reflect the probable intent of Congress.
 
 Pub. L. 110–246, §4002(b)(1)(A), (2)(GG), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
 Subsec. (c)(1). Pub. L. 110–246, §4002(b)(1)(A), (2)(GG), which directed substitution of “supplemental nutrition assistance program” for “food stamp program”, was executed by making the substitution for “Food Stamp Program” to reflect the probable intent of Congress.
 
-2002—Subsec. (e)(4). Pub. L. 107–117 added par. (4).
+<b>2002</b>—Subsec. (e)(4). Pub. L. 107–117 added par. (4).
 
 Subsec. (e)(4)(B). Pub. L. 107–206, §3003(1), substituted “subsections (e)(1) or (e)(2)” for “subsection (e)(2)” and directed the substitution of “small or small disadvantaged business subcontracting goals under section 502 of P.L. 100–656, provided that where lower tier subcontractors exist, the entity shall designate the appropriate contractor or contractors to receive such credit” for “obligations under section 7 of P.L. 87–305”, which was executed by making the substitution for “obligations under section 7 of Public Law 87–305”, to reflect the probable intent of Congress.
 
 Subsec. (e)(4)(C). Pub. L. 107–206, §3003(2), substituted “subsection (e)(1) or (e)(2)” for “subsection (e)(2)”.
 
-1998—Subsec. (c)(3)(A). Pub. L. 105–333, §5(1), inserted “and on bonds received from a Native Corporation”.
+<b>1998</b>—Subsec. (c)(3)(A). Pub. L. 105–333, §5(1), inserted “and on bonds received from a Native Corporation”.
 
 Subsec. (c)(3)(B). Pub. L. 105–333, §5(2), inserted before semicolon at end “or bonds issued by a Native Corporation which bonds shall be subject to the protection of section 1606(h) of this title until voluntarily and expressly sold or pledged by the shareholder subsequent to the date of distribution”.
 
-1992—Subsec. (e)(1), (2). Pub. L. 102–415, §10, inserted “and economically disadvantaged” after “minority”.
+<b>1992</b>—Subsec. (e)(1), (2). Pub. L. 102–415, §10, inserted “and economically disadvantaged” after “minority”.
 
 Subsec. (g). Pub. L. 102–415, §11, substituted “of entities excluded from the definition of ‘employer’ by” for “defined in” and “section 701(b)(1)” for “section 701(b)”.
 
-1988—Subsecs. (c) to (g). Pub. L. 100–241 added subsecs. (c) to (g).
+<b>1988</b>—Subsecs. (c) to (g). Pub. L. 100–241 added subsecs. (c) to (g).
 
 #### Effective Date of 2008 Amendment
 

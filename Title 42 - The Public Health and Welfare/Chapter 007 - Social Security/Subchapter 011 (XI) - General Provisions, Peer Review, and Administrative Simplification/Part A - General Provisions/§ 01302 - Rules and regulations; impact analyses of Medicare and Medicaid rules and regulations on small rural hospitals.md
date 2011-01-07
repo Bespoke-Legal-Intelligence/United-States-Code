@@ -16,11 +16,11 @@ Part B of this subchapter, referred to in subsec. (b)(1), is classified to secti
 
 #### Amendments
 
-1987—Pub. L. 100–203 designated existing provision as subsec. (a) and added subsec. (b).
+<b>1987</b>—Pub. L. 100–203 designated existing provision as subsec. (a) and added subsec. (b).
 
-1984—Pub. L. 98–369, §2663(<i>l</i>)(2), substituted “Secretary of Health, Education, and Welfare” for “Federal Security Administrator” immediately prior to the substitution of “Health and Human Services” for “Health, Education, and Welfare” by Pub. L. 98–369, §2663(j)(2)(D)(i).
+<b>1984</b>—Pub. L. 98–369, §2663(<i>l</i>)(2), substituted “Secretary of Health, Education, and Welfare” for “Federal Security Administrator” immediately prior to the substitution of “Health and Human Services” for “Health, Education, and Welfare” by Pub. L. 98–369, §2663(j)(2)(D)(i).
 
-1950—Act Aug. 28, 1950, substituted “Federal Security Administrator” for “Social Security Board”.
+<b>1950</b>—Act Aug. 28, 1950, substituted “Federal Security Administrator” for “Social Security Board”.
 
 #### Effective Date of 1987 Amendment
 

@@ -78,7 +78,7 @@ The Secretary may maintain up to 39,200,000 acres in the conservation reserve at
 
 #### (B) Hardwood trees
 
-&emsp;&emsp;In the case of land that is devoted to hardwood trees under a contract entered into under this subpart prior to October 1, 1990, the Secretary may extend the contract for a term of not to exceed 5 years, as agreed to by the owner or operator of such land and the Secretary.
+&emsp;&emsp;In the case of land that is devoted to hardwood trees under a contract entered intounder this subpart prior to October 1, 1990, the Secretary may extend the contract for a term of not to exceed 5 years, as agreed to by the owner or operator of such land and the Secretary.
 
 #### (3) 1-year extension
 
@@ -140,7 +140,7 @@ A prior section 3831, Pub. L. 99–198, title XII, §1231, Dec. 23, 1985, 99 Sta
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §2101, substituted “2012 fiscal year” for “2007 calendar year” and inserted “and to address issues raised by State, regional, and national conservation initiatives” before period at end.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §2101, substituted “2012 fiscal year” for “2007 calendar year” and inserted “and to address issues raised by State, regional, and national conservation initiatives” before period at end.
 
 Subsec. (b)(1)(B). Pub. L. 110–246, §2102(1), substituted “the date of enactment of the Food, Conservation, and Energy Act of 2008” for “May 13, 2002” and substituted semicolon for period at end.
 
@@ -150,17 +150,17 @@ Subsec. (d). Pub. L. 110–246, §2103, substituted “2009 fiscal years” for 
 
 Subsec. (f)(1). Pub. L. 110–246, §2104, substituted “the Chesapeake Bay Region” for “the Chesapeake Bay Region (Pennsylvania, Maryland, and Virginia)”.
 
-Subsec. (g). Pub. L. 110–246, §2105, amended subsec. (g) generally. Prior to amendment, text read as follows: “For purposes of this subpart, alfalfa and other multi-year grasses and legumes in a rotation practice, approved by the Secretary, shall be considered agricultural commodities.”
+Subsec. (g). Pub. L. 110–246, §2105, amended subsec. (g) generally. Prior to amendment, text read as follows:“For purposes of this subpart, alfalfa and other multi-year grasses and legumes in a rotation practice, approved by the Secretary, shall be considered agricultural commodities.”
 
 Subsecs. (h) to (j). Pub. L. 110–246, §2106(a)(2), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) which related to pilot program for enrollment of wetland and buffer acreage in conservation reserve during 2002 through 2007 calendar years.
 
 Subsec. (k). Pub. L. 110–246, §2106(b)(1), renumbered subsec. (k) as section 3831a of this title.
 
-2007—Subsec. (k)(2). Pub. L. 110–28 substituted “The” for “During calendar year 2006, the”.
+<b>2007</b>—Subsec. (k)(2). Pub. L. 110–28 substituted “The” for “During calendar year 2006, the”.
 
-2006—Subsec. (k)(3)(G). Pub. L. 109–234 substituted “$504,100,000” for “$404,100,000”.
+<b>2006</b>—Subsec. (k)(3)(G). Pub. L. 109–234 substituted “$504,100,000” for “$404,100,000”.
 
-2005—Subsec. (k). Pub. L. 109–148 added subsec. (k).
+<b>2005</b>—Subsec. (k). Pub. L. 109–148 added subsec. (k).
 
 #### Effective Date of 2008 Amendment
 

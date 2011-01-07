@@ -40,6 +40,8 @@ Termination of CAFTA–DR Status.—During any period in which a country ceases 
 
 Termination of the Agreement.—On the date on which the Agreement ceases to be in force with respect to the United States, the provisions of this Act (other than this subsection) and the amendments made by this Act shall cease to have effect.”
 
+\[For definition of “CAFTA–DR country” as used in section 107(c) of Pub. L. 109–53, set out above, see section 4002 of this title.\]
+
 #### Short Title
 
 Pub. L. 109–53, §1(a), Aug. 2, 2005, 119 Stat. 462, provided that: “This Act \[enacting this chapter, amending sections 58c, 1508, 1514, 1520, 1592, 2252, 2518, 2702, and 2703 of this title, and enacting provisions set out as notes under this section and section 2702 of this title\] may be cited as the ‘Dominican Republic-Central America-United States Free Trade Agreement Implementation Act’.”

@@ -34,11 +34,11 @@ The words “(as defined in the Career Compensation Act of 1949, as amended)” 
 
 #### Amendments
 
-1991—Pub. L. 102–190 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1991</b>—Pub. L. 102–190 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1987—Pub. L. 100–26 substituted “privately owned” for “privately-owned”.
+<b>1987</b>—Pub. L. 100–26 substituted “privately owned” for “privately-owned”.
 
-1985—Pub. L. 99–145 inserted “plus parking fees” after “fixed rate a mile”.
+<b>1985</b>—Pub. L. 99–145 inserted “plus parking fees” after “fixed rate a mile”.
 
 #### Effective Date of 1985 Amendment
 

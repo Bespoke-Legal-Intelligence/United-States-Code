@@ -4,7 +4,3 @@ The Secretary shall perform the duties imposed upon the Secretary by this chapte
 
 (Aug. 14, 1935, ch. 531, title VII, §712, as added Pub. L. 103–296, title I, §108(a)(1), Aug. 15, 1994, 108 Stat. 1481.)
 
-#### References in Text
-
-The civil service laws, referred to in text, are classified generally to Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-

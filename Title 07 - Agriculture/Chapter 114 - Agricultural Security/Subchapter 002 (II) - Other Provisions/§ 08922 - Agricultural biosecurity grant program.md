@@ -36,7 +36,7 @@ The Secretary shall give preference in awarding grants based on the ability of a
 
 &emsp;&emsp;(A) costs associated with the acquisition of equipment and other capital costs relating to the expansion of food, agriculture, and veterinary medicine teaching programs in agricultural biosecurity;
 
-&emsp;&emsp;(B) capital costs associated with the expansion of academic programs that offerpostgraduate training for veterinarians or concurrent training for veterinary students in specific areas of specialization; or
+&emsp;&emsp;(B) capital costs associated with the expansion of academic programs that offer postgraduate training for veterinarians or concurrent training for veterinary students in specific areas of specialization; or
 
 &emsp;&emsp;(C) other capacity and infrastructure program costs that the Secretary considers appropriate.
 

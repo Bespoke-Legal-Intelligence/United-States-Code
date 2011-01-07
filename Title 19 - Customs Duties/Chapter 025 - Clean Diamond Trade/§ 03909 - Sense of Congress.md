@@ -6,7 +6,7 @@ It is the sense of the Congress that the Kimberley Process Certification Scheme,
 
 #### (b) Statistics and reporting
 
-It is the sense of the Congress that under Annex III to the Kimberley Process Certification Scheme, Participants recognized that reliable and comparable data on the international trade in rough diamonds are an essential tool for the effective implementation of the Kimberley Process Certification Scheme. Therefore, the executive branch should continue to—
+It is the sense of the Congress that under Annex III to the Kimberley Process Certification Scheme, Participants recognized that reliable and comparable data on the international trade in rough diamonds are an essential toolfor the effective implementation of the Kimberley Process Certification Scheme. Therefore, the executive branch should continue to—
 
 &emsp;(1) keep and publish statistics on imports and exports of rough diamonds under subheadings 7102.10.00, 7102.21, and 7102.31.00 of the Harmonized Tariff Schedule of the United States;
 

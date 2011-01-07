@@ -1,42 +1,28 @@
 ### §14301. Application
 
-(a) Except as otherwise provided in this section, this chapter applies to the following:
-
-&emsp;(1) a documented vessel.
-
-&emsp;(2) a vessel that is to be documented under chapter 121 of this title.
-
-&emsp;(3) a vessel engaged on a foreign voyage.
+(a) Except as otherwise provided in this section, this chapter applies to any vessel for which the application of an international agreement or other law of the United States to the vessel depends on the vessel's tonnage.
 
 (b) This chapter does not apply to the following:
 
-&emsp;(1) a vessel of war.
+&emsp;(1) a vessel of war, unless the government of the country to which the vessel belongs elects to measure the vessel under this chapter.
 
 &emsp;(2) a vessel of less than 24 meters (79 feet) overall in length.
 
-&emsp;(3) a vessel operating only on the Great Lakes, unless the owner requests.
+&emsp;(3) a vessel of United States or Canadian registry or nationality, or a vessel operated under the authority of the United States or Canada, and that is operating only on the Great Lakes, unless the owner requests.
 
-&emsp;(4) a vessel (except a vessel engaged on a foreign voyage) the keel of which was laid or that was at a similar stage of construction before January 1, 1986, unless—
-
-&emsp;&emsp;(A) the owner requests; or
-
-&emsp;&emsp;(B) the vessel undergoes a change that the Secretary finds substantially affects the vessel's gross tonnage.
-
-&emsp;(5) before July 19, 1994, an existing vessel unless—
+&emsp;(4) a vessel of United States registry or nationality, or one operated under the authority of the United States (except a vessel that engages on a foreign voyage) the keel of which was laid or that was at a similar stage of construction before January 1, 1986, unless—
 
 &emsp;&emsp;(A) the owner requests; or
 
 &emsp;&emsp;(B) the vessel undergoes a change that the Secretary finds substantially affects the vessel's gross tonnage.
 
-&emsp;(6) a barge (except a barge engaged on a foreign voyage) unless the owner requests.
+&emsp;(5) a barge of United States registry or nationality, or a barge operated under the authority of the United States (except a barge that engages on a foreign voyage) unless the owner requests.
 
-(c) A vessel made subject to this chapter at the request of the owner may be remeasured only as provided by this chapter.
+(c) An existing vessel that has not undergone a change that the Secretary finds substantially affects the vessel's gross tonnage (or a vessel to which IMO Resolutions A.494 (XII) of November 19, 1981, A.540 (XIII) of November 17, 1983, or A.541 (XIII) of November 17, 1983, apply) may retain its tonnages existing on July 18, 1994, for the application of relevant requirements under international agreements (except the Convention) and other laws of the United States. However, if the vessel undergoes a change substantially affecting its tonnage after July 18, 1994, the vessel shall be remeasured under this chapter.
 
-(d) After July 18, 1994, an existing vessel (except an existing vessel referred to in subsection (b)(5)(A) or (B) of this section) may retain its tonnages existing on July 18, 1994, for the application of relevant requirements under international agreements (except the Convention) and other laws of the United States. However, if the vessel undergoes a change substantially affecting its tonnage after July 18, 1994, the vessel shall be remeasured under this chapter.
+(d) This chapter does not affect an international agreement to which the United States Government is a party that is not in conflict with the Convention or the application of IMO Resolutions A.494 (XII) of November 19, 1981, A.540 (XIII) of November 17, 1983, and A.541 (XIII) of November 17, 1983.
 
-(e) This chapter does not affect an international agreement to which the United States Government is a party that is not in conflict with the Convention or the application of IMO Resolutions A.494 (XII) of November 19, 1981, A.540 (XIII) of November 17, 1983, and A.541 (XIII) of November 17, 1983.
-
-(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1920; Pub. L. 101–595, title III, §305, Nov. 16, 1990, 104 Stat. 2985.)
+(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1920; Pub. L. 101–595, title III, §305, Nov. 16, 1990, 104 Stat. 2985; Pub. L. 111–281, title III, §303(c), Oct. 15, 2010, 124 Stat. 2924.)
 
 #### Historical and Revision Notes
 
@@ -70,7 +56,37 @@ Section 14301(e) provides that this chapter does not affect any international ag
 
 #### Amendments
 
-1990—Subsec. (b)(6). Pub. L. 101–595 added par. (6).
+<b>2010</b>—Subsec. (a). Pub. L. 111–281, §303(c)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Except as otherwise provided in this section, this chapter applies to the following:
+
+&emsp;“(1) a documented vessel.
+
+&emsp;“(2) a vessel that is to be documented under chapter 121 of this title.
+
+&emsp;“(3) a vessel engaged on a foreign voyage.”
+
+Subsec. (b)(1). Pub. L. 111–281, §303(c)(2)(A), substituted “, unless the government of the country to which the vessel belongs elects to measure the vessel under this chapter.” for period at end.
+
+Subsec. (b)(3). Pub. L. 111–281, §303(c)(2)(B), inserted “of United States or Canadian registry or nationality, or a vessel operated under the authority of the United States or Canada, and that is” after “a vessel”.
+
+Subsec. (b)(4). Pub. L. 111–281, §303(c)(2)(C), substituted “a vessel of United States registry or nationality, or one operated under the authority of the United States (except a vessel that engages” for “a vessel (except a vessel engaged”.
+
+Subsec. (b)(5). Pub. L. 111–281, §303(c)(2)(F), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “a barge (except a barge engaged on a foreign voyage) unless the owner requests.”
+
+Pub. L. 111–281, §303(c)(2)(D), (E), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “before July 19, 1994, an existing vessel unless—
+
+&emsp;“(A) the owner requests; or
+
+&emsp;“(B) the vessel undergoes a change that the Secretary finds substantially affects the vessel's gross tonnage.”
+
+Subsec. (b)(6). Pub. L. 111–281, §303(c)(2)(E), redesignated par. (6) as (5). Former par. (5) struck out.
+
+Subsec. (c). Pub. L. 111–281, §303(c)(5), substituted “An existing vessel that has not undergone a change that the Secretary finds substantially affects the vessel's gross tonnage (or a vessel to which IMO Resolutions A.494 (XII) of November 19, 1981, A.540 (XIII) of November 17, 1983, or A.541 (XIII) of November 17, 1983, apply)” for “After July 18, 1994, an existing vessel (except an existing vessel referred to in subsection (b)(5)(A) or (B) of this section)”.
+
+Pub. L. 111–281, §303(c)(3), (4), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “A vessel made subject to this chapter at the request of the owner may be remeasured only as provided by this chapter.”
+
+Subsecs. (d), (e). Pub. L. 111–281, §303(c)(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+
+<b>1990</b>—Subsec. (b)(6). Pub. L. 101–595 added par. (6).
 
 #### Report to Congress
 
@@ -80,7 +96,7 @@ Pub. L. 99–509, title V, §5103(g), Oct. 21, 1986, 100 Stat. 1927, provided th
 
 &emsp;&emsp;“(A) a study of—
 
-&emsp;&emsp;&emsp;“(i) the impact of applying vessel tonnage determined under chapter 143 of title 46 (as enactedby section 5101 of this subtitle), United States Code, in laws of the United States that contain provisions based on tonnage, including an analysis of the number and types of vessels that would become subject to additional laws or more stringent requirements because of that application; and
+&emsp;&emsp;&emsp;“(i) the impact of applying vessel tonnage determined under chapter 143 of title 46 (as enacted by section 5101 of this subtitle), United States Code, in laws of the United States that contain provisions based on tonnage, including an analysis of the number and types of vessels that would become subject to additional laws or more stringent requirements because of that application; and
 
 &emsp;&emsp;&emsp;“(ii) the extent to which the tonnage thresholds in laws of the United States whose application is based on tonnage would have to be raised so that additional vessels would not become subject to those laws if their application is based on tonnage determined under chapter 143; and
 

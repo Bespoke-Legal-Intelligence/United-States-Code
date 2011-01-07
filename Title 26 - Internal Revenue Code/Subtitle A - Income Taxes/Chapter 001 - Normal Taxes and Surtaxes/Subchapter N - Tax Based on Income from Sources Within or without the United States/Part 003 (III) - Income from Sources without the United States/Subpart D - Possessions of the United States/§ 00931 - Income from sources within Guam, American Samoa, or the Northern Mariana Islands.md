@@ -30,15 +30,15 @@ Amounts paid for services performed as an employee of the United States (or any 
 
 #### Amendments
 
-2004—Subsec. (d). Pub. L. 108–357 amended heading and text of subsec. (d) generally, substituting provisions relating to employees of the United States for provisions consisting of pars. (1) to (3) relating to special rules concerning employees of the United States, determination of source of income, and determination of residency.
+<b>2004</b>—Subsec. (d). Pub. L. 108–357 amended heading and text of subsec. (d) generally, substituting provisions relating to employees of the United States for provisions consisting of pars. (1) to (3) relating to special rules concerning employees of the United States, determination of source of income, and determination of residency.
 
-1986—Pub. L. 99–514 amended section generally, substituting provisions relating to income from sources within Guam, American Samoa, or the Northern Mariana Islands, for former provisions relating to income from sources within possessions of the United States, which had declared in: subsec. (a), general rule as to gross income, including requirements relating to 3-year period and trade or business; subsec. (b), rule as to amounts received in United States; subsec. (c), definition of “possession of the United States”; subsec. (d), general rule allowing deductions only to extent connected with income from sources within United States, and specific exceptions to limitations of general rule; subsec. (e), deduction for personal exemption; subsec. (f), allowance of deductions and credits; subsec. (g), foreign tax credit; subsec. (h), provisions relating to employees of United States.
+<b>1986</b>—Pub. L. 99–514 amended section generally, substituting provisions relating to income from sources within Guam, American Samoa, or the Northern Mariana Islands, for former provisions relating to income from sources within possessions of the United States, which had declared in: subsec. (a), general rule as to gross income, including requirements relating to 3-year period and trade or business; subsec. (b), rule as to amounts received in United States; subsec. (c), definition of “possession of the United States”; subsec. (d), general rule allowing deductions only to extent connected with income from sources within United States, and specific exceptions to limitations of general rule; subsec. (e), deduction for personal exemption; subsec. (f), allowance of deductions and credits; subsec. (g), foreign tax credit; subsec. (h), provisions relating to employees of United States.
 
-1984—Subsec. (d)(2)(B). Pub. L. 98–369 substituted “for losses” for “, for losses of property not connected with the trade or business if arising from certain casualties or theft,”.
+<b>1984</b>—Subsec. (d)(2)(B). Pub. L. 98–369 substituted “for losses” for “, for losses of property not connected with the trade or business if arising from certain casualties or theft,”.
 
-1977—Subsec. (d)(3). Pub. L. 95–30 struck out par. (3) which made a cross reference to section 142(b)(2) for disallowance of the standard deduction.
+<b>1977</b>—Subsec. (d)(3). Pub. L. 95–30 struck out par. (3) which made a cross reference to section 142(b)(2) for disallowance of the standard deduction.
 
-1976—Subsec. (a). Pub. L. 94–455, §1051(c)(1), struck out all references to domestic corporations and made subsection applicable only to individual citizens.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1051(c)(1), struck out all references to domestic corporations and made subsection applicable only to individual citizens.
 
 Subsec. (c). Pub. L. 94–455, §1051(c)(2), substituted “Commonwealth of Puerto Rico, the Virgin Islands of the United States, or Guam” for “Virgin Islands of the United States, and such term when used with respect to citizens of the United States does not include Puerto Rico or Guam” after “does not include the”.
 
@@ -48,11 +48,11 @@ Subsec. (f). Pub. L. 94–455, §§1051(c)(3), 1906(b)(13)(A), substituted “A 
 
 Subsecs. (h), (i). Pub. L. 94–455, §1901(a)(117), redesignated subsec. (i) as (h). Former subsec. (h), relating to the status of a citizen of the United States who has been interned by the enemy, was struck out.
 
-1972—Subsec. (c). Pub. L. 92–606 substituted “Puerto Rico or Guam” for “Puerto Rico”.
+<b>1972</b>—Subsec. (c). Pub. L. 92–606 substituted “Puerto Rico or Guam” for “Puerto Rico”.
 
-1971—Subsec. (a). Pub. L. 92–178 provided for non-application of section in the case of a corporation for a taxable year for which it is a DISC or in which it owns at any time stock in a DISC or former DISC.
+<b>1971</b>—Subsec. (a). Pub. L. 92–178 provided for non-application of section in the case of a corporation for a taxable year for which it is a DISC or in which it owns at any time stock in a DISC or former DISC.
 
-1966—Subsec (d). Pub. L. 89–809 made applicable to United States citizens and domestic corporations engaged in trade or business in possessions, who qualify for the special tax treatment of income qualifying for the exclusion relating to income from United States possessions, provisions which allow deductions to nonresident aliens or foreign corporations engaged in trade or business in the United States by allowing deductions only where they are allocable to income effectively connected with the trade or business in the United States and by spelling out the exceptions allowing deductions whether or not connected with income from sources within the United States in the case of losses not connected with the trade or business but incurred in transactions entered into for profit, casualty losses, and charitable contributions.
+<b>1966</b>—Subsec (d). Pub. L. 89–809 made applicable to United States citizens and domestic corporations engaged in trade or business in possessions, who qualify for the special tax treatment of income qualifying for the exclusion relating to income from United States possessions, provisions which allow deductions to nonresident aliens or foreign corporations engaged in trade or business in the United States by allowing deductions only where they are allocable to income effectively connected with the trade or business in the United States and by spelling out the exceptions allowing deductions whether or not connected with income from sources within the United States in the case of losses not connected with the trade or business but incurred in transactions entered into for profit, casualty losses, and charitable contributions.
 
 #### Effective Date of 2004 Amendment
 
@@ -76,7 +76,7 @@ Special Rules for the Virgin Islands.—
 
 &emsp;“(1)
 
-In general.—The amendments made by section 1275(c) \[amending sections 28, 48, 338, 864, and 934 of this title and repealing section 934A of this title\] shall apply with respect to the Virgin Islands (and residents thereof and corporations created or organized therein) only if (and so long as) an implementing agreement is in effect between the United States and the Virgin Islands with respect to the establishment of rules under which the evasion or avoidance of United States income tax shall not be permitted or facilitated by such possession. Any such implementing agreement shall be executed on behalf of the United States by the Secretary of the Treasury, after consultation with the Secretary of the Interior.
+In general.—The amendments made by section 1275(c) \[amending sections 28, 48, 338, 864, and 934 of this title and repealing section 934A of this title\] shall apply with respect to the Virgin Islands (and residents thereof and corporations created or organized therein) only if (and so long as) an implementing agreement is in effect between the United States and the Virgin Islands with respect to the establishment of rules under which the evasion or avoidance ofUnited States income tax shall not be permitted or facilitated by such possession. Any such implementing agreement shall be executed on behalf of the United States by the Secretary of the Treasury, after consultation with the Secretary of the Interior.
 
 &emsp;“(2)
 

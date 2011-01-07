@@ -56,9 +56,9 @@ Aug. 9, 1955, ch. 654, §3(a), 69 Stat. 579.
 
 #### Amendments
 
-1968—Pub. L. 90–329 substituted “Army Medical Department” for “Army Medical Service”.
+<b>1968</b>—Pub. L. 90–329 substituted “Army Medical Department” for “Army Medical Service”.
 
-1958—Pub. L. 85–861 substituted “Army Medical Specialist Corps” for “Women's Medical Specialist Corps” in cl. (8).
+<b>1958</b>—Pub. L. 85–861 substituted “Army Medical Specialist Corps” for “Women's Medical Specialist Corps” in cl. (8).
 
 #### Augmentation of Army Medical Department by Detailing Reserve Officers of Public Health Service
 

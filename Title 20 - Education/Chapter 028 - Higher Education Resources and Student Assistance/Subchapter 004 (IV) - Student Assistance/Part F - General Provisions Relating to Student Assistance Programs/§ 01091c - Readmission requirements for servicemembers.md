@@ -40,7 +40,7 @@ A person who is a member of, applies to be a member of, performs, has performed,
 
 &emsp;&emsp;(A) that is required, beyond five years, to complete an initial period of obligated service;
 
-&emsp;&emsp;(B) during which such student was unable to obtain orders releasing such student from a period of service in the uniformed services before the expiration of such five-year period and such inability was through no fault of such student; or
+&emsp;&emsp;(B) during which such student was unable to obtain orders releasing such student from a period of service in the uniformed servicesbefore the expiration of such five-year period and such inability was through no fault of such student; or
 
 &emsp;&emsp;(C) performed by a member of the Armed Forces (including the National Guard and Reserves) who is—
 

@@ -12,7 +12,7 @@ The Director of the National Institute of Justice may award new grants, enter in
 
 #### (c) Obligation by Director of Bureau of Justice Statistics of pre-fiscal year 1980 appropriated funds for statistical projects or purposes of this chapter
 
-The Director of the Bureau of Justice Statistics may award new grants, enter into new contracts or cooperative agreements or otherwise obligate funds appropriated for fiscal years before 1980 for statistical projects to be expended in accordance with the provisions of this chapter, as in effect on the day before December 27, 1979, based upon applications received under thischapter before December 27, 1979, or for purposes consistent with provisions of this chapter.
+The Director of the Bureau of Justice Statistics may award new grants, enter into new contracts or cooperative agreements or otherwise obligate funds appropriated for fiscal years before 1980 for statistical projects to be expended in accordance with the provisions of this chapter, as in effect on the day before December 27, 1979, based upon applications received under this chapter before December 27, 1979, or for purposes consistent with provisions of this chapter.
 
 #### (d) Obligation by Administrator of Law Enforcement Assistance Administration of previously appropriated unused or reversionary funds or presently appropriated funds for continuation of projects or purposes of this chapter
 
@@ -24,7 +24,7 @@ The amendments made to this chapter by the Justice System Improvement Act of 197
 
 #### (f) Appropriated funds available for audit matters and continuing programs and projects
 
-Nothing in this chapter prevents the utilization of funds appropriated for purposes of this chapter for all activities necessary or appropriate for the review, audit, investigation, and judicial or administrative resolution of audit matters for those grants or contracts that were awarded under this chapter. The final disposition and dissemination of program and project accomplishments with respect to programs and projects approved in accordance with this chapter, as in effect before December 27, 1979, which continue in operation beyond December 27, 1979, may be carried out with funds appropriated for purposes of this chapter.
+Nothing in this chapter prevents the utilization of funds appropriated for purposes of thischapter for all activities necessary or appropriate for the review, audit, investigation, and judicial or administrative resolution of audit matters for those grants or contracts that were awarded under this chapter. The final disposition and dissemination of program and project accomplishments with respect to programs and projects approved in accordance with this chapter, as in effect before December 27, 1979, which continue in operation beyond December 27, 1979, may be carried out with funds appropriated for purposes of this chapter.
 
 #### (g) Transfer of personnel pursuant to performance-of-functions standard; determination of interim positions for Administrator and Deputy Administrators by Attorney General
 
@@ -56,7 +56,7 @@ Section 3744(c)(3) of this title, referred to in subsec. (j), is a reference to 
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–473, §609G(1), designated existing provisions as par. (1) and added par. (2).
+<b>1984</b>—Subsec. (a). Pub. L. 98–473, §609G(1), designated existing provisions as par. (1) and added par. (2).
 
 Subsecs. (j), (k). Pub. L. 98–473, §609G(2), (3), redesignated subsec. (k) as (j) and struck out former subsec. (j) relating to State planning agency meeting representation requirement as competent to carry out functions, powers, and duties of State criminal justice council.
 
@@ -71,4 +71,6 @@ Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistanc
 #### Law Enforcement Assistance Administration; Closeout of Operations and Transfer of Remaining Functions
 
 The operations of the Law Enforcement Assistance Administration were closed out by the Justice Department due to lack of appropriations, and the remaining programs and staff transferred to the Office of Justice Assistance, Research, and Statistics, effective Apr. 15, 1982, see Notice of Department of Justice, Office of Justice Assistance, Research, and Statistics, Apr. 19, 1982, 47 F.R. 16694.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

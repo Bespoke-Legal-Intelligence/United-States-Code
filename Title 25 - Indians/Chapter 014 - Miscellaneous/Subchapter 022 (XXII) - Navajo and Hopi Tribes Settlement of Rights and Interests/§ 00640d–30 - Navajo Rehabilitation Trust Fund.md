@@ -42,7 +42,7 @@ Another section 32 of Pub. L. 93–531 was enacted by Pub. L. 100–696, title I
 
 #### Amendments
 
-1989—Subsecs. (e) to (g). Pub. L. 101–121 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+<b>1989</b>—Subsecs. (e) to (g). Pub. L. 101–121 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “decision”.</i>
 

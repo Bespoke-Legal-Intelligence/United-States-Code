@@ -32,7 +32,7 @@ Each State program under this section shall provide for the implementation, at a
 
 #### (4) Technical assistance
 
-&emsp;The provision of technical and other assistance to local governments and the public for implementing the measures referred to in paragraph (3), which may include assistance in developing ordinances and regulations, technical guidance, and modeling to predict and assess the effectiveness of such measures, training, financial incentives, demonstration projects, and other innovations to protect coastal water quality and designated uses.
+&emsp;The provision of technical and other assistance to local governments and the public for implementing the measures referred to in paragraph (3), which may include assistance in developing ordinances and regulations, technical guidance, and modeling to predict and assess the effectiveness of such measures, training, financial incentives, demonstrationprojects, and other innovations to protect coastal water quality and designated uses.
 
 #### (5) Public participation
 
@@ -40,7 +40,7 @@ Each State program under this section shall provide for the implementation, at a
 
 #### (6) Administrative coordination
 
-&emsp;The establishment of mechanisms to improve coordination among State agencies and between State and local officials responsiblefor land use programs and permitting, water quality permitting and enforcement, habitat protection, and public health and safety, through the use of joint project review, memoranda of agreement, or other mechanisms.
+&emsp;The establishment of mechanisms to improve coordination among State agencies and between State and local officials responsible for land use programs and permitting, water quality permitting and enforcement, habitat protection, and public health and safety, through the use of joint project review, memoranda of agreement, or other mechanisms.
 
 #### (7) State coastal zone boundary modification
 
@@ -222,7 +222,7 @@ Section was enacted as part of the Coastal Zone Act Reauthorization Amendments o
 
 #### Amendments
 
-1992—Subsec. (i)(3). Pub. L. 102–587 struck out comma after “ ‘coastal waters’ ” and inserted “Zone” before “Management”.
+<b>1992</b>—Subsec. (i)(3). Pub. L. 102–587 struck out comma after “ ‘coastal waters’ ” and inserted “Zone” before “Management”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

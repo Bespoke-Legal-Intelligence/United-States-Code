@@ -10,5 +10,5 @@ Notwithstanding the provisions of section 1348 of title 31, appropriations for t
 
 #### Amendments
 
-1958—Pub. L. 85–464 inserted “and other lands administered by the Forest Service” after “forests”, and substituted “residences of employees” for “residences of seasonal employees”, and “such lands” for “the national forests” in two places.
+<b>1958</b>—Pub. L. 85–464 inserted “and other lands administered by the Forest Service” after “forests”, and substituted “residences of employees” for “residences of seasonal employees”, and “such lands” for “the national forests” in two places.
 

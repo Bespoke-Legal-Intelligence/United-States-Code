@@ -1,7 +1,5 @@
 subpart iii—general provisions
 
-<i><sup>1</sup></i><i> So in original. The words “is the collection of data in this paragraph” probably should not appear.</i>
-
 
 ---
 

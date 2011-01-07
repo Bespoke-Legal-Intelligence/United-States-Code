@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-For fiscal year 1998, and each fiscal year thereafter, the Secretary of the Senate is authorizedto make advance payments under a contract or other agreement to provide a service or deliver an article for the United States Government without regard to the provisions of section 3324 of title 31.
+For fiscal year 1998, and each fiscal year thereafter, the Secretary of the Senate is authorized to make advance payments under a contract or other agreement to provide a service or deliver an article for the United States Government without regard to the provisions of section 3324 of title 31.
 
 #### (b) Regulations
 

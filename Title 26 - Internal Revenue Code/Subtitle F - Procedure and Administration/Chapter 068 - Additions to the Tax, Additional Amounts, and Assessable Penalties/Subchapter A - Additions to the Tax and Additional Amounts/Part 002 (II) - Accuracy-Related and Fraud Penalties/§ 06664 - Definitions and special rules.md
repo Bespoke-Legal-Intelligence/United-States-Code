@@ -24,7 +24,11 @@ The penalties provided in this part shall apply only in cases where a return of 
 
 &emsp;No penalty shall be imposed under section 6662 or 6663 with respect to any portion of an underpayment if it is shown that there was a reasonable cause for such portion and that the taxpayer acted in good faith with respect to such portion.
 
-#### (2) Special rule for certain valuation overstatements
+#### (2) Exception
+
+&emsp;Paragraph (1) shall not apply to any portion of an underpayment which is attributable to one or more transactions described in section 6662(b)(6).
+
+#### (3) Special rule for certain valuation overstatements
 
 &emsp;In the case of any underpayment attributable to a substantial or gross valuation overstatement under chapter 1 with respect to charitable deduction property, paragraph (1) shall not apply. The preceding sentence shall not apply to a substantial valuation overstatement under chapter 1 if—
 
@@ -32,13 +36,13 @@ The penalties provided in this part shall apply only in cases where a return of 
 
 &emsp;&emsp;(B) in addition to obtaining such appraisal, the taxpayer made a good faith investigation of the value of the contributed property.
 
-#### (3) Definitions
+#### (4) Definitions
 
 &emsp;For purposes of this subsection—
 
 #### (A) Charitable deduction property
 
-&emsp;&emsp;The term “charitable deduction property” means any property contributed by the taxpayer in a contribution for which a deduction was claimed under section 170. For purposes of paragraph (2), such term shall not include any securities for which (as of the date of the contribution) market quotations are readily available on an established securities market.
+&emsp;&emsp;The term “charitable deduction property” means any property contributed by the taxpayer in a contribution for which a deduction was claimed under section 170. For purposes of paragraph (3), such term shall not include any securities for which (as of the date of the contribution) market quotations are readily available on an established securities market.
 
 #### (B) Qualified appraisal
 
@@ -54,7 +58,11 @@ The penalties provided in this part shall apply only in cases where a return of 
 
 &emsp;No penalty shall be imposed under section 6662A with respect to any portion of a reportable transaction understatement if it is shown that there was a reasonable cause for such portion and that the taxpayer acted in good faith with respect to such portion.
 
-#### (2) Special rules
+#### (2) Exception
+
+&emsp;Paragraph (1) shall not apply to any portion of a reportable transaction understatement which is attributable to one or more transactions described in section 6662(b)(6).
+
+#### (3) Special rules
 
 &emsp;Paragraph (1) shall not apply to any reportable transaction understatement unless—
 
@@ -66,9 +74,9 @@ The penalties provided in this part shall apply only in cases where a return of 
 
 > &emsp;A taxpayer failing to adequately disclose in accordance with section 6011 shall be treated as meeting the requirements of subparagraph (A) if the penalty for such failure was rescinded under section 6707A(d).
 
-#### (3) Rules relating to reasonable belief
+#### (4) Rules relating to reasonable belief
 
-&emsp;For purposes of paragraph (2)(C)—
+&emsp;For purposes of paragraph (3)(C)—
 
 #### (A) In general
 
@@ -112,15 +120,27 @@ The penalties provided in this part shall apply only in cases where a return of 
 
 &emsp;&emsp;&emsp;&emsp;(IV) fails to meet any other requirement as the Secretary may prescribe.
 
-(Added Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2398; amended Pub. L. 108–357, title VIII, §812(c), Oct. 22, 2004, 118 Stat. 1579; Pub. L. 109–280, title XII, §1219(a)(3), (c)(2), Aug. 17, 2006, 120 Stat. 1084, 1085.)
+(Added Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2398; amended Pub. L. 108–357, title VIII, §812(c), Oct. 22, 2004, 118 Stat. 1579; Pub. L. 109–280, title XII, §1219(a)(3), (c)(2), Aug. 17, 2006, 120 Stat. 1084, 1085; Pub. L. 111–152, title I, §1409(c), Mar. 30, 2010, 124 Stat. 1069.)
 
 #### Codification
+
+Section 1409(c) of Pub. L. 111–152, which directed the amendment of section 6664 without specifying the act to be amended, was executed to this section, which is section 6664 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2010 Amendment notes below.
 
 Section 1219(a)(3), (c)(2) of Pub. L. 109–280, which directed the amendment of section 6664 without specifying the act to be amended, was executed to this section, which is section 6664 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
 
-2006—Subsec. (c)(2). Pub. L. 109–280, §1219(a)(3), substituted “paragraph (1) shall not apply. The preceding sentence shall not apply to a substantial valuation overstatement under chapter 1 if—” for “paragraph (1) shall not apply unless—” in introductory provisions. See Codification note above.
+<b>2010</b>—Subsec. (c)(2) to (4). Pub. L. 111–152, §1409(c)(1)(A), (C), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. See Codification note above.
+
+Subsec. (c)(4)(A). Pub. L. 111–152, §1409(c)(1)(B), substituted “paragraph (3)” for “paragraph (2)”. See Codification note above.
+
+Subsec. (d)(2), (3). Pub. L. 111–152, §1409(c)(2)(A), (C), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4). See Codification note above.
+
+Subsec. (d)(4). Pub. L. 111–152, §1409(c)(2)(B), substituted “paragraph (3)(C)” for “paragraph (2)(C)” in introductory provisions. See Codification note above.
+
+Pub. L. 111–152, §1409(c)(2)(A), redesignated par. (3) as (4). See Codification note above.
+
+<b>2006</b>—Subsec. (c)(2). Pub. L. 109–280, §1219(a)(3), substituted “paragraph (1) shall not apply. The preceding sentence shall not apply to a substantial valuation overstatement under chapter 1 if—” for “paragraph (1) shall not apply unless—” in introductory provisions. See Codification note above.
 
 Subsec. (c)(3)(B), (C). Pub. L. 109–280, §1219(c)(2), amended subpars. (B) and (C) generally. Prior to amendment, subpars. (B) and (C) read as follows:
 
@@ -134,11 +154,17 @@ Qualified appraisal.—The term ‘qualified appraisal’ means any appraisal me
 
 > See Codification note above.
 
-2004—Subsec. (c). Pub. L. 108–357, §812(c)(2)(B), inserted “for underpayments” after “exception” in heading.
+<b>2004</b>—Subsec. (c). Pub. L. 108–357, §812(c)(2)(B), inserted “for underpayments” after “exception” in heading.
 
 Subsec. (c)(1). Pub. L. 108–357, §812(c)(2)(A), substituted “section 6662 or 6663” for “this part”.
 
 Subsec. (d). Pub. L. 108–357, §812(c)(1), added subsec. (d).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 1409(c)(1) of Pub. L. 111–152 applicable to underpayments attributable to transactions entered into after Mar. 30, 2010, see section 1409(e)(2) of Pub. L. 111–152, set out as a note under section 6662 of this title.
+
+Amendment by section 1409(c)(2) of Pub. L. 111–152 applicable to understatements attributable to transactions entered into after Mar. 30, 2010, see section 1409(e)(3) of Pub. L. 111–152, set out as a note under section 6662 of this title.
 
 #### Effective Date of 2006 Amendment
 

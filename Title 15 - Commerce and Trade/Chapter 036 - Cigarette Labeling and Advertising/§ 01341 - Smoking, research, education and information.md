@@ -22,7 +22,7 @@ The Secretary of Health and Human Services (hereinafter in this section referred
 
 &emsp;(A) members appointed by the Secretary from appropriate institutes and agencies of the Department, which may include the National Cancer Institute, the National Heart, Lung, and Blood Institute, the Eunice Kennedy Shriver National Institute of Child Health and Human Development, the National Institute on Drug Abuse, the Health Resources and Services Administration, and the Centers for Disease Control and Prevention;
 
-&emsp;(B) at least one member appointed from the Federal Trade Commission, the Department of Education, the Department of Labor, and any other Federal agency designated by the Secretary, the appointment of whom shall be made by the head of the entity from which the member is appointed; and
+&emsp;(B) at least one member appointed from the Federal Trade Commission, the Department of Education, the Department of Labor, and any other Federal agency designated by the Secretary, the appointment of whom shall bemade by the head of the entity from which the member is appointed; and
 
 &emsp;(C) five members appointed by the Secretary from physicians and scientists who represent private entities involved in informing the public about the health effects of smoking.
 
@@ -52,9 +52,11 @@ Section was enacted as part of the Comprehensive Smoking Education Act, and not 
 
 #### Amendments
 
-2007—Subsec. (b)(1)(A). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
+<b>2007</b>—Subsec. (b)(1)(A). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
 
-1992—Subsec. (b)(1)(A), Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsec. (b)(1)(A), Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
-1985—Subsec. (c). Pub. L. 99–92 substituted “1986” for “1985”.
+<b>1985</b>—Subsec. (c). Pub. L. 99–92 substituted “1986” for “1985”.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsistence,”.</i>
 

@@ -1,6 +1,6 @@
 ### §1532. Definitions
 
-For the purpose of this chapter—
+For the purposes of this chapter—
 
 &emsp;(1) The term “alternative courses of action” means all alternatives and thus is not limited to original project objectives and agency jurisdiction.
 
@@ -8,7 +8,7 @@ For the purpose of this chapter—
 
 &emsp;(3) The terms “conserve”, “conserving”, and “conservation” mean to use and the use of all methods and procedures which are necessary to bring any endangered species or threatened species to the point at which the measures provided pursuant to this chapter are no longer necessary. Such methods and procedures include, but are not limited to, all activities associated with scientific resources management such as research, census, law enforcement, habitat acquisition and maintenance, propagation, live trapping, and transplantation, and, in the extraordinary case where population pressures within a given ecosystem cannot be otherwise relieved, may include regulated taking.
 
-&emsp;(4) The term “Convention” means the Convention on International Trade in Endangered Species of Wild Fauna and Flora, signed on March 3, 1973, and the appendices thereto.
+&emsp;(4) The term “Convention” means the Convention on International Trade in EndangeredSpecies of Wild Fauna and Flora, signed on March 3, 1973, and the appendices thereto.
 
 &emsp;(5)(A) The term “critical habitat” for a threatened or endangered species means—
 
@@ -64,21 +64,19 @@ For the purpose of this chapter—
 
 #### References in Text
 
-The customs laws of the United States, referred to in par. (10), are classified generally to Title 19, Customs Duties.
-
 Reorganization Plan Numbered 4 of 1970, referred to in par. (15), is Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
-1988—Par. (13). Pub. L. 100–478, §1001(a), amended par. (13) generally. Prior to amendment, par. (13) read as follows: “The term ‘person’ means an individual, corporation, partnership, trust, association, or any other private entity, or any officer, employee, agent, department, or instrumentality of the Federal Government, of any State or political subdivision thereof, or of any foreign government.”
+<b>1988</b>—Par. (13). Pub. L. 100–478, §1001(a), amended par. (13) generally. Prior to amendment, par. (13) read as follows: “The term ‘person’ means an individual, corporation, partnership, trust, association, or any other private entity, or any officer, employee, agent, department, or instrumentality of the Federal Government, of any State or political subdivision thereof, or of any foreign government.”
 
 Par. (15). Pub. L. 100–478, §1001(b), inserted “also” before “means the Secretary of Agriculture”.
 
-1982—Par. (11). Pub. L. 97–304 struck out par. (11) which defined “irresolvable conflict” as, with respectto any action authorized, funded, or carried out by a Federal agency, a set of circumstances under which, after consultation as required in section 1536(a) of this title, completion of such action would violate section 1536(a)(2) of this title.
+<b>1982</b>—Par. (11). Pub. L. 97–304 struck out par. (11) which defined “irresolvable conflict” as, with respect to any action authorized, funded, or carried out by a Federal agency, a set of circumstances under which, after consultation as required in section 1536(a) of this title, completion of such action would violate section 1536(a)(2) of this title.
 
-1979—Par. (11). Pub. L. 96–159 substituted “action would violate section 1536(a)(2) of this title” for “action would (A) jeopardize the continued existence of an endangered or threatened species, or (B) result in the adverse modification or destruction of a critical habitat”.
+<b>1979</b>—Par. (11). Pub. L. 96–159 substituted “action would violate section 1536(a)(2) of this title” for “action would (A) jeopardize the continued existence of an endangered or threatened species, or (B) result in the adverse modification or destruction of a critical habitat”.
 
-1978—Pars. (1) to (4). Pub. L. 95–632, §2(1), (7), added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively. Former par. (4) redesignated (6).
+<b>1978</b>—Pars. (1) to (4). Pub. L. 95–632, §2(1), (7), added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively. Former par. (4) redesignated (6).
 
 Par. (5). Pub. L. 95–632, §2(2), (7), added par. (5). Former par. (5) redesignated (8).
 
@@ -100,7 +98,7 @@ Par. (18). Pub. L. 95–632, §2(6), (7), redesignated former par. (13) as (18) 
 
 Pars. (19) to (21). Pub. L. 95–632, §2(7), redesignated pars. (14) to (16) as (19) to (21), respectively.
 
-1976—Par. (1). Pub. L. 94–359 inserted “: <i>Provided, however</i>, That it does not include exhibition of commodities by museums or similar cultural or historical organizations.” after “facilitating such buying and selling”.
+<b>1976</b>—Par. (1). Pub. L. 94–359 inserted “: <i>Provided, however</i>, That it does not include exhibition of commodities by museums or similar cultural or historical organizations.” after “facilitating such buying and selling”.
 
 #### Termination of Trust Territory of the Pacific Islands
 

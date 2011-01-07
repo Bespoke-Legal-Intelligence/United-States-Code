@@ -6,7 +6,7 @@ From funds reserved under section 6362(b)(1)(D) of this title, the National Inst
 
 &emsp;(1) disseminate information on scientifically based reading research pertaining to children, youth, and adults;
 
-&emsp;(2) identify and disseminate information about schools, local educational agencies, and State educational agencies that have effectively developed and implemented classroom reading programs that meet the requirements of this subpart, including those State educational agencies, local educational agencies, and schools that have been identified as effective through the evaluation and peer review provisions of this subpart; and
+&emsp;(2) identify and disseminate information about schools, local educational agencies, and State educational agencies that have effectively developed and implemented classroom reading programs that meet the requirements of this subpart, including those State educational agencies, local educational agencies,and schools that have been identified as effective through the evaluation and peer review provisions of this subpart; and
 
 &emsp;(3) support the continued identification and dissemination of information on reading programs that contain the essential components of reading instruction as supported by scientifically based reading research, that can lead to improved reading outcomes for children, youth, and adults.
 
@@ -38,9 +38,9 @@ The Adult Education and Family Literacy Act, referred to in subsec. (b)(1), is t
 
 #### Prior Provisions
 
-A prior section 6367, Pub. L. 89–10, title I, §1207, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3582; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVI,§1604(k)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–332, related to applications for Even Start subgrants, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6381f of this title.
+A prior section 6367, Pub. L. 89–10, title I, §1207, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3582; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(k)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–332, related to applications for Even Start subgrants, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6381f of this title.
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute for Child Health and Human Development” in introductory provisions.
+<b>2007</b>—Subsec. (a). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute for Child Health and Human Development” in introductory provisions.
 

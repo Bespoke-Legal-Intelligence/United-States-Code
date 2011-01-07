@@ -40,7 +40,7 @@ The Secretary shall assure that adequate staff and administrative support is pro
 
 #### Amendments
 
-1993—Subsec. (c)(5). Pub. L. 103–171, §5(4)(A), substituted “agencies described in section 2991b(a) of this title that” for “individuals who”.
+<b>1993</b>—Subsec. (c)(5). Pub. L. 103–171, §5(4)(A), substituted “agencies described in section 2991b(a) of this title that” for “individuals who”.
 
 Subsec. (c)(6). Pub. L. 103–171, §5(4)(B), substituted “Native Americans,” for “such individuals”.
 

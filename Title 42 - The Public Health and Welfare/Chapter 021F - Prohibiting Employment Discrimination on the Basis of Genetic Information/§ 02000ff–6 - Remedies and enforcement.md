@@ -22,7 +22,7 @@
 
 #### (2) Costs and fees
 
-&emsp;The powers, remedies, and procedures provided in subsections (b) and (c) of section 1988of this title,<sup>1</sup> shall be powers, remedies, and procedures this chapter provides to the Commission, or any person, alleging such a practice.
+&emsp;The powers, remedies, and procedures provided in subsections (b) and (c) of section 1988 of this title,<sup>1</sup> shall be powers, remedies, and procedures this chapter provides to the Commission, or any person, alleging such a practice.
 
 #### (3) Damages
 

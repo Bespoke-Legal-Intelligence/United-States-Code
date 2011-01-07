@@ -340,7 +340,7 @@ The Drug Price Competition and Patent Term Restoration Act of 1984, referred to 
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–85, §§103(a)(1), 106(a), temporarily substituted “2008” for “2003” in introductory provisions. See Effective and Termination Dates of 2007 Amendment note below.
+<b>2007</b>—Subsec. (a). Pub. L. 110–85, §§103(a)(1), 106(a), temporarily substituted “2008” for “2003” in introductory provisions. See Effective and Termination Dates of 2007 Amendment note below.
 
 Subsec. (a)(1)(A). Pub. L. 110–85, §§103(g), 106(a), temporarily substituted “(c)(5)” for “(c)(4)” in cls. (i) and\(ii). See Effective and Termination Dates of 2007 Amendment note below.
 
@@ -390,7 +390,7 @@ Subsec. (g)(4). Pub. L. 110–85, §§103(e)(2), 106(a), temporarily reenacted h
 
 Subsec. (k). Pub. L. 110–85, §§103(f), 106(a), temporarily added subsec. (k). See Effective and Termination Dates of 2007 Amendment note below.
 
-2002—Subsec. (a). Pub. L. 107–188, §§504(a)(1), 509, temporarily substituted “fiscal year 2003” for “fiscal year1998” in introductory provisions. See Effective and Termination Dates of 2002 Amendment note below.
+<b>2002</b>—Subsec. (a). Pub. L. 107–188, §§504(a)(1), 509, temporarily substituted “fiscal year 2003” for “fiscal year1998” in introductory provisions. See Effective and Termination Dates of 2002 Amendment note below.
 
 Subsec. (a)(1)(A)(i). Pub. L. 107–188, §§504(a)(2)(A), 509, temporarily substituted “under subsection (c)(4)” for “in subsection (b)”. See Effective and Termination Dates of 2002 Amendment note below.
 
@@ -446,7 +446,7 @@ Subsec. (g)(3)(A) to (E). Pub. L. 107–188, §§504(f)(3), 509, temporarily add
 
 > See Effective and Termination Dates of 2002 Amendment note below.
 
-1997—Subsec. (a). Pub. L. 105–115, §§103(a)(1), 107, temporarily substituted “Beginning in fiscal year 1998” for “Beginning in fiscal year 1993” in introductory provisions. See Effective and Termination Dates of 1997 Amendment note below.
+<b>1997</b>—Subsec. (a). Pub. L. 105–115, §§103(a)(1), 107, temporarily substituted “Beginning in fiscal year 1998” for “Beginning in fiscal year 1993” in introductory provisions. See Effective and Termination Dates of 1997 Amendment note below.
 
 Subsec. (a)(1)(B). Pub. L. 105–115, §§103(a)(2)(A), 107, temporarily amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows:
 

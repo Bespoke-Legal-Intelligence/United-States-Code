@@ -6,7 +6,7 @@
 
 (b)(1) Except during a period of active hostilities involving the armed forces, the total amount of reimbursable credits that the United States may accrue under this subchapter (before the computation of offsetting balances) with other member countries of the North Atlantic Treaty Organization, subsidiary bodies of the North Atlantic Treaty Organization, or from the United Nations Organization or any regional international organization of which the United States is a member may not exceed $150,000,000 in any fiscal year.
 
-(2) Except during a period of active hostilities involving the armed forces, the total amount of reimbursable credits that the United States may accrue under this subchapter (before the computation of offsetting balances) with a country which is not a member of the North AtlanticTreaty Organization, but with which the United States has one or more acquisition or cross-servicing agreements may not exceed $75,000,000 in any fiscal year. Such limitation specified in this paragraph is in addition to the limitation specified in paragraph (1).
+(2) Except during a period of active hostilities involving the armed forces, the total amount of reimbursable credits that the United States may accrue under this subchapter (before the computation of offsetting balances) with a countrywhich is not a member of the North Atlantic Treaty Organization, but with which the United States has one or more acquisition or cross-servicing agreements may not exceed $75,000,000 in any fiscal year. Such limitation specified in this paragraph is in addition to the limitation specified in paragraph (1).
 
 (c) When the armed forces are involved in a contingency operation or in a non-combat operation (including an operation in support of the provision of humanitarian or foreign disaster assistance or in support of peacekeeping operations under chapter VI or VII of the Charter of the United Nations), the restrictions in subsections (a) and (b) are waived for the purposes and duration of that operation.
 
@@ -16,11 +16,11 @@
 
 #### Amendments
 
-2006—Subsec. (a)(1), (2). Pub. L. 109–364, §1221(a)(1), struck out “(other than petroleum, oils, and lubricants)” after “supplies”.
+<b>2006</b>—Subsec. (a)(1), (2). Pub. L. 109–364, §1221(a)(1), struck out “(other than petroleum, oils, and lubricants)” after “supplies”.
 
 Subsec. (d). Pub. L. 109–364, §1221(a)(2), added subsec. (d).
 
-1994—Subsec. (a)(1). Pub. L. 103–337, §1317(g)(1), substituted “Organization, subsidiary” for “Organization and subsidiary”, inserted “, or from the United Nations Organization or any regional international organization of which the United States is a member” after “Treaty Organization”, and substituted “$200,000,000” for “$150,000,000” and “$50,000,000” for “$25,000,000”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–337, §1317(g)(1), substituted “Organization, subsidiary” for “Organization and subsidiary”, inserted “, or from the United Nations Organization or any regional international organization of which the United States is a member” after “Treaty Organization”, and substituted “$200,000,000” for “$150,000,000” and “$50,000,000” for “$25,000,000”.
 
 Subsec. (a)(2). Pub. L. 103–337, §1317(g)(2), substituted “$60,000,000” for “$10,000,000” in two places and “$20,000,000” for “$2,500,000”.
 
@@ -30,9 +30,9 @@ Subsec. (b)(2). Pub. L. 103–337, §1317(g)(4), substituted “$75,000,000” f
 
 Subsec. (c). Pub. L. 103–337, §1317(g)(5), added subsec. (c).
 
-1993—Subsec. (b)(2). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–484, §1312(b)(4)(B). See 1992 Amendment note below.
+<b>1993</b>—Subsec. (b)(2). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–484, §1312(b)(4)(B). See 1992 Amendment note below.
 
-1992—Subsec. (a)(1). Pub. L. 102–484, §1312(b)(1), substituted “armed forces” for “North Atlantic Treaty Organization” and inserted “with other member countries of the North Atlantic Treaty Organization and subsidiary bodies of the North Atlantic Treaty Organization” after “(before the computation of offsetting balances)”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–484, §1312(b)(1), substituted “armed forces” for “North Atlantic Treaty Organization” and inserted “with other member countries of the North Atlantic Treaty Organization and subsidiary bodies of the North Atlantic Treaty Organization” after “(before the computation of offsetting balances)”.
 
 Subsec. (a)(2). Pub. L. 102–484, §1312(b)(2), substituted “involving the armed forces, the total amount of reimbursable liabilities that the United States may accrue under this subchapter (before the computation of offsetting balances) with” for “in the military region affecting” and struck out “the total amount of reimbursable liabilities that the United States may accrue under this subchapter (before the computation of offsetting balances) with such country” after “cross-servicing agreements,”.
 
@@ -42,15 +42,15 @@ Subsec. (b)(2). Pub. L. 102–484, §1312(b)(4)(A), substituted “involving the
 
 Pub. L. 102–484, §1312(b)(4)(B), as amended by Pub. L. 103–35, substituted “(before the computation of offsetting balances) with a country which is not a member of the North Atlantic Treaty Organization, but with which the United States has one or more acquisition or cross-servicing agreements” for “from such country (before computation of offsetting balances)”.
 
-1989—Pub. L. 101–189 substituted “this subchapter” for “this chapter” wherever appearing.
+<b>1989</b>—Pub. L. 101–189 substituted “this subchapter” for “this chapter” wherever appearing.
 
-1988—Subsec. (a)(1). Pub. L. 100–456 substituted “$150,000,000” for “$100,000,000”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–456 substituted “$150,000,000” for “$100,000,000”.
 
-1986—Subsec. (a). Pub. L. 99–661, §1104(d)(1), designated existing provisions as par. (1) and added par. (2).
+<b>1986</b>—Subsec. (a). Pub. L. 99–661, §1104(d)(1), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (b). Pub. L. 99–661, §1104(d)(2), designated existing provisions as par. (1) and added par. (2).
 
-1985—Pub. L. 99–145 renumbered section 2327 of this title as this section.
+<b>1985</b>—Pub. L. 99–145 renumbered section 2327 of this title as this section.
 
 #### Effective Date of 2006 Amendment
 

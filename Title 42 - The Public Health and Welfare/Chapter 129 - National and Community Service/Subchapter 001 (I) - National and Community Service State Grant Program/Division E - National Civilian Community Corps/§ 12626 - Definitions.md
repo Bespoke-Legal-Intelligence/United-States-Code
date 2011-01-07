@@ -64,7 +64,7 @@ Another prior section 165 of Pub. L. 101–610 was classified to section 12621 o
 
 #### Amendments
 
-2009—Pars. (2) to (4). Pub. L. 111–13, §1516(2)(A), (C), added pars. (2) to (4) and struck out former pars. (2) and (3) which read as follows:
+<b>2009</b>—Pars. (2) to (4). Pub. L. 111–13, §1516(2)(A), (C), added pars. (2) to (4) and struck out former pars. (2) and (3) which read as follows:
 
 “(2)
 
@@ -90,9 +90,9 @@ Par. (9). Pub. L. 111–13, §1516(2)(G), substituted “Service-learning” for
 
 Pub. L. 111–13, §1516(2)(A), (B), redesignated par. (8) as (9) and struck out former par. (9). Text read as follows: “The term ‘superintendent’, with respect to a Corps camp, means the head of the camp under section 12615(d) of this title.”
 
-1998—Par. (6). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
+<b>1998</b>—Par. (6). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
 
-1993—Par. (1). Pub. L. 103–82, §402(b)(2), substituted “Corporation” for “Commission on National and Community Service”.
+<b>1993</b>—Par. (1). Pub. L. 103–82, §402(b)(2), substituted “Corporation” for “Commission on National and Community Service”.
 
 Par. (2). Pub. L. 103–82, §104(e)(2)(H)(i), substituted “section 12615” for “section 12653d”.
 

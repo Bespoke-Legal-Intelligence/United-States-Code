@@ -24,7 +24,7 @@ Each fundraising solicitation by (or on behalf of) an organization to which this
 
 #### (B) Multiple organization rule
 
-&emsp;&emsp;The Secretary may treat any group of 2 or more organizations as 1 organization for purposes of subparagraph (A) where necessary or appropriate to prevent the avoidance ofthis section through the use of multiple organizations.
+&emsp;&emsp;The Secretary may treat any group of 2 or more organizations as 1 organization for purposes of subparagraph (A) where necessary or appropriate to prevent the avoidance of this section through the use of multiple organizations.
 
 #### (3) Special rule for certain fraternal organizations
 

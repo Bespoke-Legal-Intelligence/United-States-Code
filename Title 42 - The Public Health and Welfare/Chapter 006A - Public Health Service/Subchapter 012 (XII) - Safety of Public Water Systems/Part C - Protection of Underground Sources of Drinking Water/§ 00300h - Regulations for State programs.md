@@ -10,7 +10,7 @@
 
 (1) Regulations under subsection (a) of this section for State underground injection programs shall contain minimum requirements for effective programs to prevent underground injection which endangers drinking water sources within the meaning of subsection (d)(2) of this section. Such regulations shall require that a State program, in order to be approved under section 300h–1 of this title—
 
-&emsp;(A) shall prohibit, effective on the date on which the applicable underground injection control program takes effect, any underground injection in such State which is not authorizedby a permit issued by the State (except that the regulations may permit a State to authorize underground injection by rule);
+&emsp;(A) shall prohibit, effective on the date on which the applicable underground injection control program takes effect, any underground injection in such State which is not authorized by a permit issued by the State (except that the regulations may permit a State to authorize underground injection by rule);
 
 &emsp;(B) shall require (i) in the case of a program which provides for authorization of underground injection by permit, that the applicant for the permit to inject must satisfy the State that the underground injection will not endanger drinking water sources, and (ii) in the case of a program which provides for such an authorization by rule, that no rule may be promulgated which authorizes any underground injection which endangers drinking water sources;
 
@@ -46,7 +46,7 @@
 
 &emsp;(C) such temporary permits will be issued only with respect to injection wells in operation on the date on which such State's permit program approved under this part first takes effect and for which there was inadequate time to process its permit application; and
 
-&emsp;(D) the Administrator determines the temporary permits require the use of adequate safeguards established by rules adopted by him.
+&emsp;(D) the Administrator determines the temporary permits require the use of adequatesafeguards established by rules adopted by him.
 
 (2) The Administrator may, upon application of the Governor of a State which authorizes underground injection by means of permits, authorize such State to issue (without regard to subsection (b)(1)(B)(i) of this section), but after reasonable notice and hearing, one or more temporary permits each of which is applicable to a particular injection well and to the underground injection of a particular fluid and which may be effective until the expiration of four years after December 16, 1974, if the State finds, on the record of such hearing—
 
@@ -82,17 +82,17 @@ Section 300j–6(b) of this title, referred to in subsec. (b)(1)(D), was repeale
 
 #### Amendments
 
-2005—Subsec. (d)(1). Pub. L. 109–58 inserted heading and amended text of par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘underground injection’ means the subsurface emplacement of fluids by well injection. Such term does not include the underground injection of natural gas for purposes of storage.”
+<b>2005</b>—Subsec. (d)(1). Pub. L. 109–58 inserted heading and amended text of par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘underground injection’ means the subsurface emplacement of fluids by well injection. Such term does not include the underground injection of natural gas for purposes of storage.”
 
-1996—Subsec. (b)(3)(B)(i). Pub. L. 104–182 substituted “number of States” for “number or States”.
+<b>1996</b>—Subsec. (b)(3)(B)(i). Pub. L. 104–182 substituted “number of States” for “number or States”.
 
-1986—Subsec. (b)(2)(A). Pub. L. 99–339 inserted “or natural gas storage operations” after “production”.
+<b>1986</b>—Subsec. (b)(2)(A). Pub. L. 99–339 inserted “or natural gas storage operations” after “production”.
 
-1980—Subsec. (b)(1)(A). Pub. L. 96–502, §4(c), substituted “effective on the date on which the applicable underground injection control program takes effect” for “effective three years after December 16, 1974”.
+<b>1980</b>—Subsec. (b)(1)(A). Pub. L. 96–502, §4(c), substituted “effective on the date on which the applicable underground injection control program takes effect” for “effective three years after December 16, 1974”.
 
 Subsec. (d)(1). Pub. L. 96–502, §3, inserted provision that such term does not include the underground injection of natural gas for purposes of storage.
 
-1977—Subsec. (b)(3). Pub. L. 95–190 added par. (3).
+<b>1977</b>—Subsec. (b)(3). Pub. L. 95–190 added par. (3).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

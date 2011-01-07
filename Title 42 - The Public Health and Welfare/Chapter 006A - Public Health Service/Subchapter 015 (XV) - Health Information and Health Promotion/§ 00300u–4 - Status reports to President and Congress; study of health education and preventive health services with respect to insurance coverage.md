@@ -16,7 +16,7 @@
 
 #### Amendments
 
-1995—Subsec. (a). Pub. L. 104–66 substituted “biannually” for “annually” in introductory provisions.
+<b>1995</b>—Subsec. (a). Pub. L. 104–66 substituted “biannually” for “annually” in introductory provisions.
 
 #### Termination of Reporting Requirements
 

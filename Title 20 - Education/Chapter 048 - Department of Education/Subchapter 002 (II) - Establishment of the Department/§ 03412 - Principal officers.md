@@ -50,7 +50,7 @@ There shall be in the Department four additional officers who shall be appointed
 
 &emsp;(4) management and budget functions;
 
-&emsp;(5) planning, evaluation, and policy development functions, including development of policies to promote the efficient and coordinatedadministration of the Department and its programs and to encourage improvements in education; and
+&emsp;(5) planning, evaluation, and policy development functions, including development of policies to promote the efficient and coordinated administration of the Department and its programs and to encourage improvements in education; and
 
 &emsp;(6) functions related to encouraging and promoting the study of foreign languages and the study of cultures of other countries at the elementary, secondary, and postsecondary levels.
 
@@ -100,7 +100,7 @@ The Inspector General Act of 1978, referred to in subsec. (c), is Pub. L. 95–4
 
 #### Amendments
 
-2002—Subsec. (b)(4). Pub. L. 107–279 added par. (4) and struck out former par. (4) which read as follows: “There shall be in the Department an Assistant Secretary for Educational Research and Improvement who shall be—
+<b>2002</b>—Subsec. (b)(4). Pub. L. 107–279 added par. (4) and struck out former par. (4) which read as follows: “There shall be in the Department an Assistant Secretary for Educational Research and Improvement who shall be—
 
 &emsp;“(A) appointed by the President, by and with the consent of the Senate; and
 
@@ -114,21 +114,21 @@ The Inspector General Act of 1978, referred to in subsec. (c), is Pub. L. 95–4
 
 Subsec. (b)(3), (4). Pub. L. 107–110 redesignated par. (3), relating to Assistant Secretary for Educational Research and Improvement, as (4).
 
-1994—Subsec. (b)(1)(E) to (G). Pub. L. 103–227, §913(1), redesignated subpars. (F) and (G) as (E) and (F), respectively, and struck out former subpar. (E) which read as follows: “an Assistant Secretary for Educational Research and Improvement;”.
+<b>1994</b>—Subsec. (b)(1)(E) to (G). Pub. L. 103–227, §913(1), redesignated subpars. (F) and (G) as (E) and (F), respectively, and struck out former subpar. (E) which read as follows: “an Assistant Secretary for Educational Research and Improvement;”.
 
 Subsec. (b)(3). Pub. L. 103–382 added par. (3) relating to Special Assistant for Gender Equity.
 
 Pub. L. 103–227, §913(2), added par. (3) relating to Assistant Secretary for Educational Research and Improvement.
 
-1992—Subsec. (i). Pub. L. 102–325 added subsec. (i).
+<b>1992</b>—Subsec. (i). Pub. L. 102–325 added subsec. (i).
 
-1991—Subsecs. (d), (e). Pub. L. 102–103 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1991</b>—Subsecs. (d), (e). Pub. L. 102–103 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 Subsec. (h). Pub. L. 102–73 added subsec. (h).
 
-1990—Subsec. (a). Pub. L. 101–509 substituted “a Deputy Secretary” for “an Under Secretary” in first sentence of par. (1) and “Deputy Secretary” for “Under Secretary” wherever appearing elsewhere in pars. (1) and (2).
+<b>1990</b>—Subsec. (a). Pub. L. 101–509 substituted “a Deputy Secretary” for “an Under Secretary” in first sentence of par. (1) and “Deputy Secretary” for “Under Secretary” wherever appearing elsewhere in pars. (1) and (2).
 
-1985—Subsec. (e). Pub. L. 99–145 struck out subsec. (e) which provided for presence in the Department of Education of an Administrator of Education for Overseas Dependents.
+<b>1985</b>—Subsec. (e). Pub. L. 99–145 struck out subsec. (e) which provided for presence in the Department of Education of an Administrator of Education for Overseas Dependents.
 
 #### Effective Date of 2002 Amendment
 

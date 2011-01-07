@@ -6,7 +6,7 @@ The Secretary shall by regulations establish the rates and conditions under whic
 
 &emsp;(1) fees and mileage to persons who are summoned to appear before the Secretary, and
 
-&emsp;(2) reimbursement for such costs that are reasonably necessary which have been directly incurred in searching for, reproducing, or transporting books, papers, records, or other data required to be produced by summons.
+&emsp;(2) reimbursement for such costs that are reasonably necessary which have been directly incurred in searching for, reproducing, ortransporting books, papers, records, or other data required to be produced by summons.
 
 #### (b) Exceptions
 
@@ -24,19 +24,19 @@ This section applies with respect to any summons authorized under section 6420(e
 
 #### Amendments
 
-1988—Subsec. (c). Pub. L. 100–647, §1017(c)(12), made technical correction to language of Pub. L. 99–514, §1703(e)(2)(G), see 1986 Amendment note below.
+<b>1988</b>—Subsec. (c). Pub. L. 100–647, §1017(c)(12), made technical correction to language of Pub. L. 99–514, §1703(e)(2)(G), see 1986 Amendment note below.
 
 Pub. L. 100–647, §1017(c)(9), substituted “6421(g)(2)” for “6421(f)(2)”.
 
-1986—Subsec. (c). Pub. L. 99–514, as amended by Pub. L. 100–647, §1017(c)(12), substituted “6427(j)(2)” for “6427(i)(2)”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514, as amended by Pub. L. 100–647, §1017(c)(12), substituted “6427(j)(2)” for “6427(i)(2)”.
 
-1984—Subsec. (c). Pub. L. 98–369 substituted “6427(i)(2)” for “6427(h)(2)”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–369 substituted “6427(i)(2)” for “6427(h)(2)”.
 
-1983—Subsec. (c). Pub. L. 97–424 struck out “6424(d)(2),” after “6421(f)(2),”.
+<b>1983</b>—Subsec. (c). Pub. L. 97–424 struck out “6424(d)(2),” after “6421(f)(2),”.
 
-1980—Subsec. (c). Pub. L. 96–223 substituted “6427(h)(2)” for “6427(g)(2)”.
+<b>1980</b>—Subsec. (c). Pub. L. 96–223 substituted “6427(h)(2)” for “6427(g)(2)”.
 
-1978—Subsec. (c). Pub. L. 95–599 substituted “6427(g)(2)” for “6427(e)(2)”.
+<b>1978</b>—Subsec. (c). Pub. L. 95–599 substituted “6427(g)(2)” for “6427(e)(2)”.
 
 #### Effective Date of 1988 Amendment
 

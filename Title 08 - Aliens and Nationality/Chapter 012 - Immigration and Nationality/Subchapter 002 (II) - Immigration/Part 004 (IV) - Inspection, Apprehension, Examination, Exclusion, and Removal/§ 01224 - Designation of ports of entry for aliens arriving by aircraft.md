@@ -4,6 +4,10 @@ The Attorney General is authorized (1) by regulation to designate as ports of en
 
 (June 27, 1952, ch. 477, title II, ch. 4, §234, formerly §239, 66 Stat. 203; Pub. L. 101–649, title V, §543(a)(3), Nov. 29, 1990, 104 Stat. 5058; Pub. L. 102–232, title III, §306(c)(2), Dec. 12, 1991, 105 Stat. 1752; renumbered §234, Pub. L. 104–208, div. C, title III, §304(a)(1), Sept. 30, 1996, 110 Stat. 3009–587.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+
 #### Codification
 
 Section was formerly classified to section 1229 of this title prior to renumbering by Pub. L. 104–208.
@@ -20,7 +24,7 @@ A prior section 1224, act June 27, 1952, ch. 477, title II, ch. 4, §234, 66 Sta
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub.L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1990 Amendment
 

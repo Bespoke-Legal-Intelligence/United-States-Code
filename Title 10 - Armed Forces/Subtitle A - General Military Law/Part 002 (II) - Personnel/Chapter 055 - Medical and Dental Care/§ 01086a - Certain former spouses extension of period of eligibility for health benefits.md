@@ -38,9 +38,9 @@ Conversion Health Policy Defined.—In this section, the term “conversion heal
 
 #### Amendments
 
-1993—Subsec. (b)(1). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–484, §4407(b)(2). See 1992 Amendment note below.
+<b>1993</b>—Subsec. (b)(1). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–484, §4407(b)(2). See 1992 Amendment note below.
 
-1992—Subsec. (a). Pub. L. 102–484, §4407(b)(1), inserted at end “A conversion health policy offered under this subsection shall provide coverage for not less than a 24-month period.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–484, §4407(b)(1), inserted at end “A conversion health policy offered under this subsection shall provide coverage for not less than a 24-month period.”
 
 Subsec. (b)(1). Pub. L. 102–484, §4407(b)(2), as amended by Pub. L. 103–35, substituted “24-month period” for “one-year period” the second place appearing in the introductory provisions of par. (1).
 

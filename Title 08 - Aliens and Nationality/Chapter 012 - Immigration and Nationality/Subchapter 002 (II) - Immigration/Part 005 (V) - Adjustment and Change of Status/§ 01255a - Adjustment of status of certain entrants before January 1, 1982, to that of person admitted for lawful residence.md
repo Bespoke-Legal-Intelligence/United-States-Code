@@ -22,7 +22,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (A) In general
 
-&emsp;&emsp;The alien must establish that he entered the United States before January 1, 1982, and that he has resided continuously in the United States in an unlawful status since such date and through the date the application is filed under this subsection.
+&emsp;&emsp;The alien must establish that he entered the United States before January 1, 1982, andthat he has resided continuously in the United States in an unlawful status since such date and through the date the application is filed under this subsection.
 
 #### (B) Nonimmigrants
 
@@ -104,7 +104,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (iii) Relation to naturalization examination
 
-&emsp;&emsp;&emsp;In accordance with regulations of the Attorney General, an alien who has demonstrated under clause (i)(I) that the alien meets the requirements of section 1423(a) of this title may be considered to have satisfied the requirements of that section for purposes of becoming naturalized as a citizen of the United States under subchapter III of this chapter.
+&emsp;&emsp;&emsp;In accordance with regulations of the Attorney General, an alien who has demonstrated under clause (i)(I) that the alienmeets the requirements of section 1423(a) of this title may be considered to have satisfied the requirements of that section for purposes of becoming naturalized as a citizen of the United States under subchapter III of this chapter.
 
 #### (2) Termination of temporary residence
 
@@ -244,7 +244,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (iii) Special rule for determination of public charge
 
-&emsp;&emsp;&emsp;An alien is not ineligible for adjustment of status under this section due to being inadmissible under section 1182(a)(4) of this title if the alien demonstrates a history of employment in the United States evidencing self-support without receipt of public cash assistance.
+&emsp;&emsp;&emsp;An alien is not ineligible for adjustment of status under this section due to beinginadmissible under section 1182(a)(4) of this title if the alien demonstrates a history of employment in the United States evidencing self-support without receipt of public cash assistance.
 
 #### (C) Medical examination
 
@@ -450,7 +450,7 @@ The Social Security Act, referred to in subsec. (h)(1)(A), (2)(B), (3)(A)(ii), (
 
 Section 301 of the Social Security Amendments of 1972, referred to in subsec. (h)(4)(I), is section 301 of Pub. L. 92–603, title III, Oct. 30, 1972, 86 Stat. 1465, which enacted sections 1381 to 1382e and 1383 to 1383c of Title 42.
 
-The Food and Nutrition Act of 2008, referred to in subsec. (h)(1)(A)(iii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (h)(1)(A)(iii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51\(§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (h)(4)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
@@ -616,7 +616,7 @@ Section 301 of Pub. L. 101–649, as amended by Pub. L. 101–649, title VI, §6
 
 “(a)
 
-Temporary Stay of Removal and Work Authorization for Certain Eligible Immigrants.—The Attorney General shall provide that in the case of an alien who is an eligible immigrant (as defined in subsection (b)(1)) as of May 5, 1988 (in the case of a relationship to a legalized alien described in subsection\(b)(2)(B) or (b)(2)(C)) or as of December 1, 1988 (in the case of a relationship to a legalized alien described in subsection (b)(2)(A)), who has entered the United States before such date, who resided in the United States on such date, and who is not lawfully admitted for permanent residence, the alien—
+Temporary Stay of Removal and Work Authorization for Certain Eligible Immigrants.—The Attorney General shall provide that in the case of an alien who is an eligible immigrant (as defined in subsection (b)(1)) as of May 5, 1988 (in the case of a relationship to a legalized alien described in subsection (b)(2)(B) or (b)(2)(C)) or as of December 1, 1988 (in the case of a relationship to a legalized alien described in subsection (b)(2)(A)), who has entered the United States before such date, who resided in the United States on such date, and who is not lawfully admitted for permanent residence, the alien—
 
 &emsp;“(1) may not be removed or otherwise required to depart from the United States on a ground specified in paragraph (1)(A), (1)(B), (1)(C), (3)(A), of section 237(a) of the Immigration and Nationality Act \[8 U.S.C. 1227(a)\] (other than so much of section 237(a)(1)(A) of such Act as relates to a ground of inadmissibility described in paragraph (2) or (3) of section 212(a) of such Act \[8 U.S.C. 1182(a)\]), and
 
@@ -702,7 +702,7 @@ Similar provisions were contained in Pub. L. 100–202, §101(a) \[title IX, §�
 
 #### Procedures for Property Acquisition or Leasing
 
-Section 201(c)(1) of Pub. L. 99–603 provided that notwithstanding Federal Property and Administrative Services Act of 1949 \[chapters 1 to 11 of Title 40, Public Buildings, Property, and Works and title III of the Act of June 30, 1949 (41 U.S.C. 251 et seq.)\], the Attorney General was authorized for period of up to two years after effective date of legalization program, to expend from appropriation provided for administration and enforcement of this chapter, such amounts necessary for leasing or acquisition of property in fulfillment of section 201 of Pub. L. 99–603, which enacted this section and amended sections 602, 672, and 673 of Title 42, The Public Health and Welfare.
+Pub. L. 99–603, title II, §201(c)(1), Nov. 6, 1986, 100 Stat. 3403, provided that notwithstanding Federal Property and Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], the Attorney General was authorized for period of up to two years after effective date of legalization program, to expend from appropriation provided for administration and enforcement of this chapter, such amounts necessary for leasing or acquisition of property in fulfillment of section 201 of Pub. L. 99–603, which enacted this section and amended sections 602, 672, and 673 of Title 42, The Public Health and Welfare.
 
 #### Use of Retired Federal Employees
 

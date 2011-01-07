@@ -44,7 +44,7 @@ The foregoing subsections of this section shall not apply to—
 
 &emsp;(5) such other classes of persons as the Secretary may by regulation exempt from the application of this section upon a finding that registration by such classes of persons in accordance with this section is not necessary for the protection of the public health.
 
-> In this subsection, the term “wholesale distributor” means any person (other than the manufacturer or the initial importer) who distributes a device from the original place of manufacture tothe person who makes the final delivery or sale of the device to the ultimate consumer or user.
+> In this subsection, the term “wholesale distributor” means any person (other than the manufacturer or the initial importer) who distributes a device from the original place of manufacture to the person who makes the final delivery or sale of the device to the ultimate consumer or user.
 
 #### (h) Inspection of premises
 
@@ -54,7 +54,7 @@ Every establishment in any State registered with the Secretary pursuant to this 
 
 (1) Any establishment within any foreign country engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or device that is imported or offered for import into the United States shall, through electronic means in accordance with the criteria of the Secretary—
 
-&emsp;(A) upon first engaging in any such activity, immediately register with the Secretary the name and place of business of the establishment, the name of the United States agent for the establishment, the name of each importer of such drug or device in the United States that is known to the establishment, and the name of each person who imports or offers for import such drug or device to the United States for purposes of importation; and
+&emsp;(A) upon first engaging in any such activity, immediately register with the Secretary the name and place of business of the establishment, the name of the United States agent for the establishment, the name of each importer of such drug or device in the United States that is known to the establishment, and the name of each person who imports or offers forimport such drug or device to the United States for purposes of importation; and
 
 &emsp;(B) each establishment subject to the requirements of subparagraph (A) shall thereafter—
 
@@ -84,7 +84,7 @@ Every establishment in any State registered with the Secretary pursuant to this 
 
 (2) Each person who registers with the Secretary under this section shall report to the Secretary, with regard to drugs once during the month of June of each year and once during the month of December of each year, and with regard to devices once each year during the period beginning on October 1 and ending on December 31, the following information:
 
-&emsp;(A) A list of each drug or device introduced by the registrant for commercial distributionwhich has not been included in any list previously filed by him with the Secretary under this subparagraph or paragraph (1) of this subsection. A list under this subparagraph shall list a drug or device by its established name (as defined in section 352(e) of this title), and by any proprietary name it may have and shall be accompanied by the other information required by paragraph (1).
+&emsp;(A) A list of each drug or device introduced by the registrant for commercial distribution which has not been included in any list previously filed by him with the Secretary under this subparagraph or paragraph (1) of this subsection. A list under this subparagraph shall list a drug or device by its established name (as defined in section 352(e) of this title), and by any proprietary name it may have and shall be accompanied by the other information required by paragraph (1).
 
 &emsp;(B) If since the date the registrant last made a report under this paragraph (or if he has not made a report under this paragraph, since February 1, 1973) he has discontinued the manufacture, preparation, propagation, compounding, or processing for commercial distribution of a drug or device included in a list filed by him under subparagraph (A) or paragraph (1); notice of such discontinuance, the date of such discontinuance, and the identity (by established name (as defined in section 352(e) of this title) and by any proprietary name) of such drug or device.
 
@@ -144,7 +144,7 @@ The Secretary shall review the report required in subsection (k) of this section
 
 #### (p) Electronic registration
 
-Registrations and listings under this section (including the submission of updated information) shall be submitted to the Secretary byelectronic means unless the Secretary grants a request for waiver of such requirement because use of electronic means is not reasonable for the person requesting such waiver.
+Registrations and listings under this section (including the submission of updated information) shall be submitted to the Secretary by electronic means unless the Secretary grants a request for waiver of such requirement because use of electronic means is not reasonable for the person requesting such waiver.
 
 (June 25, 1938, ch. 675, §510, as added Pub. L. 87–781, title III, §302, Oct. 10, 1962, 76 Stat. 794; amended Pub. L. 89–74, §4, July 15, 1965, 79 Stat. 231; Pub. L. 91–513, title II, §701(e), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 92–387, §§3, 4(a)–(c), Aug. 16, 1972, 86 Stat. 560–562; Pub. L. 94–295, §4(a), May 28, 1976, 90 Stat. 579; Pub. L. 105–115, title I, §125(a)(2)(C), title II, §§206(a), 209(a), 213(b), title IV, §417, Nov. 21, 1997, 111 Stat. 2325, 2338, 2341, 2347, 2379; Pub. L. 107–188, title III, §321(a), June 12, 2002, 116 Stat. 675; Pub. L. 107–250, title II, §§201(e), 207, 211, title III, §302(b), Oct. 26, 2002, 116 Stat. 1609, 1613, 1614, 1616; Pub. L. 108–214, §2(c)(2), Apr. 1, 2004, 118 Stat. 576; Pub. L. 110–85, title II, §§222–224, title VIII, §801(b)(3)(C), Sept. 27, 2007, 121 Stat. 853, 921.)
 
@@ -154,9 +154,9 @@ The effective date of this subsection, referred to in subsec. (<i>o</i>)(2)(C), 
 
 #### Amendments
 
-2007—Subsec. (b). Pub. L. 110–85, §222(a), designated existing provisions as par. (1), struck out “or a device or devices” after “drug or drugs”, and added par. (2).
+<b>2007</b>—Subsec. (b). Pub. L. 110–85, §222(a), designated existing provisions as par. (1), struck out “or a device or devices” after “drug or drugs”, and added par. (2).
 
-Subsec. (i)(1). Pub. L. 110–85, §222(b), inserted text of par. (1) and struck out former text of par. (1) which related to registration requirement for foreign establishments engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or device to be imported or offered for import into the United States.
+Subsec. (i)(1). Pub. L. 110–85, §222(b), inserted text of par. (1) and struck out former text of par. (1) which related to registration requirement for foreign establishments engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or deviceto be imported or offered for import into the United States.
 
 Subsec. (j)(2). Pub. L. 110–85, §223, in introductory provisions, substituted “Each person who registers with the Secretary under this section shall report to the Secretary, with regard to drugs once during the month of June of each year and once during the month of December of each year, and with regard to devices once each year during the period beginning on October 1 and ending on December 31, the following information:” for “Each person who registers with the Secretary under this section shall report to the Secretary once during the month of June of each year and once during the month of December of each year the following information:”.
 
@@ -164,11 +164,11 @@ Subsec. (k). Pub. L. 110–85, §801(b)(3)(C), inserted concluding provisions.
 
 Subsec. (p). Pub. L. 110–85, §224, amended subsec. (p) generally. Prior to amendment, subsec. (p) read as follows: “Registrations under subsections (b), (c), (d), and (i) of this section (including the submission of updated information) shall be submitted to the Secretary by electronic means, upon a finding by the Secretary that the electronic receipt of such registrations is feasible, unless the Secretary grants a request for waiver of such requirement because use of electronic means is not reasonable for the person requesting such waiver.”
 
-2004—Subsec. (<i>o</i>)(1)(B), (2)(B). Pub. L. 108–214, §2(c)(2)(A), (B)(i), substituted “or adulterated” for “, adulterated”.
+<b>2004</b>—Subsec. (<i>o</i>)(1)(B), (2)(B). Pub. L. 108–214, §2(c)(2)(A), (B)(i), substituted “or adulterated” for “, adulterated”.
 
 Subsec. (<i>o</i>)(2)(E). Pub. L. 108–214, §2(c)(2)(B)(ii), substituted “semi-critical” for “semicritical”.
 
-2002—Subsec. (h). Pub. L. 107–250, §201(e), inserted “, or by persons accredited to conduct inspections under section 374(g) of this title,” after “duly designated by the Secretary”.
+<b>2002</b>—Subsec. (h). Pub. L. 107–250, §201(e), inserted “, or by persons accredited to conduct inspections under section 374(g) of this title,” after “duly designated by the Secretary”.
 
 Subsec. (i)(1). Pub. L. 107–188, §321(a)(1), substituted “On or before December 31 of each year, any establishment” for “Any establishment” and “shall, through electronic means in accordance with the criteria of the Secretary, register with the Secretary the name and place of business of the establishment, the name of the United States agent for the establishment, the name of each importer of such drug or device in the United States that is known to the establishment, and the name of each person who imports or offers for import such drug or device to the United States for purposes of importation” for “shall register with the Secretary the name and place of business of the establishment and the name of the United States agent for the establishment”.
 
@@ -180,7 +180,7 @@ Subsec. (<i>o</i>). Pub. L. 107–250, §302(b), added subsec. (<i>o</i>).
 
 Subsec. (p). Pub. L. 107–250, §207, added subsec. (p).
 
-1997—Subsec. (g). Pub. L. 105–115, §213(b)(3), inserted at end “In this subsection, the term ‘wholesale distributor’ means any person (other than the manufacturer or the initial importer) who distributes a device from the original place of manufacture to the person who makes the final delivery or sale of the device to the ultimate consumer or user.”
+<b>1997</b>—Subsec. (g). Pub. L. 105–115, §213(b)(3), inserted at end “In this subsection, the term ‘wholesale distributor’ means any person (other than the manufacturer or the initial importer) who distributes a device from the original place of manufacture to the person who makes the final delivery or sale of the device to the ultimate consumer or user.”
 
 Subsec. (g)(4), (5). Pub. L. 105–115, §213(b)(1), (2), added par. (4) and redesignated former par. (4) as (5).
 
@@ -194,7 +194,7 @@ Subsecs. (<i>l</i>), (m). Pub. L. 105–115, §206(a)(2), added subsecs. (<i>l</
 
 Subsec. (n). Pub. L. 105–115, §209(a), added subsec. (n).
 
-1976—Subsec. (a)(1). Pub. L. 94–295, §4(a)(2), substituted “drug package or device package” for “drug package”, “distribution of the drug or device” for “distribution of the drug”, and “ultimate consumer or user” for “ultimate consumer”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–295, §4(a)(2), substituted “drug package or device package” for “drug package”, “distribution of the drug or device” for “distribution of the drug”, and “ultimate consumer or user” for “ultimate consumer”.
 
 Subsecs. (b) to (d). Pub. L. 94–295, §4(a)(3), inserted “or a device or devices” after “drug or drugs”.
 
@@ -204,7 +204,7 @@ Subsec. (g)(1) to (3). Pub. L. 94–295, §4(a)(5), substituted “drugs or devi
 
 Subsec. (h). Pub. L. 94–295, §4(a)(6), inserted reference to establishments engaged in the manufacture, propagation, compounding, or processing of a drug or drugs or of a device or devices classified in class II or III.
 
-Subsec. (i). Pub. L. 94–295, §4(a)(7), inserted reference to devices and inserted requirement that regulationsrequire establishments to provide the information required by subsection (j) of this section in the case of a device or devices.
+Subsec. (i). Pub. L. 94–295, §4(a)(7), inserted reference to devices and inserted requirement that regulations require establishments to provide the information required by subsection (j) of this section in the case of a device or devices.
 
 Subsec. (j)(1). Pub. L. 94–295, §4(a)(8)(A), in introductory provisions substituted “a list of all drugs and a list of all devices and a brief statement of the basis for believing that each device included in the list is a device rather than a drug (with each drug and device in each list listed by its established name” for “a list of all drugs (by established name” and “drugs or devices filed” for “drugs filed”.
 
@@ -214,7 +214,7 @@ Subsec. (j)(1)(B). Pub. L. 94–295, §4(a)(8)(C), in introductory provisions su
 
 Subsec. (j)(1)(B)(i). Pub. L. 94–295, §4(a)(8)(D), substituted “which drug is subject to section 353(b)(1) of this title, or which device is a restricted device, a copy of all labeling for such drug or device, a representative sampling of advertisements for such drug or device, and, upon request made by the Secretary for good cause, a copy of all advertisements for a particular drug product or device, or” for “which is subject to section 353(b)(1) of this title, a copy of all labeling for such drug, a representative sampling of advertisements for such drug, and, upon request made by the Secretary for good cause, a copy of all advertisements for a particular drug product, or”.
 
-Subsec. (j)(1)(B)(ii). Pub. L. 94–295, §4(a)(8)(E), substituted “which drug is not subject to section 353(b)(1) of this title or which device is not a restricted device, the label and package insert for such drug or device and a representative sampling of any other labeling for such drug or device” for “which is not subject to section 353(b)(1) of this title, the label and package insert for such drug and a representative sampling of any other labeling for such drug”.
+Subsec. (j)(1)(B)(ii). Pub. L. 94–295, §4(a)(8)(E), substituted “which drug is not subject to section 353(b)(1) of this title or which device is not a restricted device,the label and package insert for such drug or device and a representative sampling of any other labeling for such drug or device” for “which is not subject to section 353(b)(1) of this title, the label and package insert for such drug and a representative sampling of any other labeling for such drug”.
 
 Subsec. (j)(1)(C). Pub. L. 94–295, §4(a)(8)(F), substituted “an applicable list” for “such list”.
 
@@ -224,7 +224,7 @@ Subsec. (j)(2). Pub. L. 94–295, §4(a)(8)(H), substituted “drug or device”
 
 Subsec. (k). Pub. L. 94–295, §4(a)(9), added subsec. (k).
 
-1972—Subsec. (e). Pub. L. 92–387, §4(a), inserted provision that the Secretary may assign a listing number to each drug or class of drugs listed under subsec. (j).
+<b>1972</b>—Subsec. (e). Pub. L. 92–387, §4(a), inserted provision that the Secretary may assign a listing number to each drug or class of drugs listed under subsec. (j).
 
 Subsec. (f). Pub. L. 92–387, §4(b), inserted exception that the list submitted under subsec. (j)(3) and information submitted under subsec. (j)(1), (2) shall be exempt from inspection unless the Secretary determines otherwise.
 
@@ -232,7 +232,7 @@ Subsec. (i). Pub. L. 92–387, §4(c), inserted provision that the regulations s
 
 Subsec. (j). Pub. L. 92–387, §3, added subsec. (j).
 
-1970—Subsec. (a). Pub. L. 91–513 struck out provisions defining the wholesaling, jobbing, or distributing of depressant or stimulant drugs.
+<b>1970</b>—Subsec. (a). Pub. L. 91–513 struck out provisions defining the wholesaling, jobbing, or distributing of depressant or stimulant drugs.
 
 Subsec. (b). Pub. L. 91–513 struck out provisions covering establishments engaged in the wholesaling, jobbing, or distributing of depressant or stimulant drugs and the inclusion of the fact of such activity in the annual registration.
 
@@ -240,7 +240,7 @@ Subsec. (c). Pub. L. 91–513 struck out provisions covering new registrations o
 
 Subsec. (d). Pub. L. 91–513 struck out number designation “(1)” preceding first sentence, struck out portion of such redesignated provisions covering the wholesaling, jobbing, or distributing of depressant or stimulant drugs, and struck out par. (2) covering the filing of supplemental registration whenever a person not previously engaged or involved with depressant or stimulant drugs goes into the manufacturing, preparation, or processing thereof.
 
-1965—Pub. L. 89–74, §4(e), included certain wholesalers in section catchline.
+<b>1965</b>—Pub. L. 89–74, §4(e), included certain wholesalers in section catchline.
 
 Subsec. (a)(2), (3). Pub. L. 89–74, §4(a), added par. (2) and redesignated former par. (2) as (3).
 
@@ -274,11 +274,11 @@ Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for any vi
 
 #### Congressional Declaration of Need for Registration and Inspection of Drug Establishments
 
-Section 301 of Pub. L. 87–781 provided that: “The Congress hereby finds and declares that in order to makeregulation of interstate commerce in drugs effective, it is necessary to provide for registration and inspection of all establishments in which drugs are manufactured, prepared, propagated, compounded, or processed; that the products of all such establishments are likely to enter the channels of interstate commerce and directly affect such commerce; and that the regulation of interstate commerce in drugs without provision for registration and inspection of establishments that may be engaged only in intrastate commerce in such drugs would discriminate against and depress interstate commerce in such drugs, and adversely burden, obstruct, and affect such interstate commerce.”
+Section 301 of Pub. L. 87–781 provided that: “The Congress hereby finds and declares that in order to make regulation of interstate commerce in drugs effective, it is necessary to provide for registration and inspection of all establishments in which drugs are manufactured, prepared, propagated, compounded, or processed; that the products of all such establishments are likely to enter the channels of interstate commerce and directly affect such commerce; and that the regulation of interstate commerce in drugs without provision for registration and inspection of establishments that may be engaged only in intrastate commerce in such drugs would discriminate against and depress interstate commerce in such drugs, and adversely burden, obstruct, and affect such interstate commerce.”
 
 #### Declaration of Policy of Drug Listing Act of 1972
 
-Section 2 of Pub. L. 92–387 provided that: “The Federal Government which is responsible for regulating drugs has no ready means of determining what drugs are actually being manufactured or packed by establishments registered under the Federal Food, Drug, and Cosmetic Act \[this chapter\] except by periodic inspection of such registered establishments. Knowledge of which particular drugs are being manufactured or packed by each registered establishment would substantially assist in the enforcement of Federal laws requiring that such drugs be pure, safe, effective, and properly labeled. Information on the discontinuance of a particular drug could serve to alleviate the burden of reviewing and implementing enforcement actions against drugs which, although commercially discontinued, remain active for regulatory purposes. Information on the type and number of different drugs being manufactured or packed by drug establishments could permit more effective and timely regulation by the agencies of the Federal Government responsible for regulating drugs, including identification of which drugs in interstate commerce are subject to section 505 or 507 \[section 355 or 357 of this title\], or to other provisions of the Federal Food, Drug, and Cosmetic Act.”
+Section 2 of Pub. L. 92–387 provided that: “The Federal Government which is responsible for regulating drugs has no ready means of determining what drugs are actually being manufactured or packed by establishments registered under the Federal Food, Drug, and Cosmetic Act \[this chapter\] except by periodic inspection of such registered establishments. Knowledge of which particular drugs are being manufactured or packed by each registered establishment would substantially assist in the enforcement of Federal laws requiring that such drugs be pure, safe, effective, and properly labeled. Information on the discontinuance of a particular drug could serve to alleviate the burden of reviewing and implementing enforcement actions against drugs which, although commercially discontinued, remain active for regulatory purposes. Information on the type and number of different drugs being manufactured or packed by drug establishments could permit more effective and timely regulation by the agencies of the Federal Government responsible for regulating drugs, including identification of which drugs in interstate commerce are subject to section 505or 507 \[section 355 or 357 of this title\], or to other provisions of the Federal Food, Drug, and Cosmetic Act.”
 
 #### Registration of Certain Persons Owning or Operating Drug Establishments Prior to Oct. 10, 1962
 

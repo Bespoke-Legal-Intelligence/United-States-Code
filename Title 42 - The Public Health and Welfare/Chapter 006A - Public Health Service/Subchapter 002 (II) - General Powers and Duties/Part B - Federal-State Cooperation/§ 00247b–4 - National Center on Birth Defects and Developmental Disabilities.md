@@ -34,7 +34,7 @@
 
 &emsp;&emsp;The programs and functions described in this subparagraph are all programs and functions that—
 
-&emsp;&emsp;&emsp;(i) relate to birth defects; folic acid; cerebral palsy; mental retardation; child development; newborn screening; autism; fragile X syndrome; fetal alcohol syndrome; pediatric genetic disorders; disability prevention; or other relevant diseases, disorders, or conditions as determined <sup>1</sup> the Secretary; and
+&emsp;&emsp;&emsp;(i) relate to birth defects; folic acid; cerebral palsy; intellectual disabilities; child development; newborn screening; autism; fragile X syndrome; fetal alcohol syndrome; pediatric genetic disorders; disability prevention; or other relevant diseases, disorders, or conditions as determined <sup>1</sup> the Secretary; and
 
 &emsp;&emsp;&emsp;(ii) were carried out through the National Center for Environmental Health as of the day before October 17, 2000.
 
@@ -60,7 +60,7 @@
 
 #### (c) Biennial report
 
-Not later than February 1 of fiscal year 1999 and of every second such year thereafter, the Secretary shall submit to the Committee onCommerce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate, a report that, with respect to the preceding 2 fiscal years—
+Not later than February 1 of fiscal year 1999 and of every second such year thereafter, the Secretary shall submit to the Committee on Commerce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate, a report that, with respect to the preceding 2 fiscal years—
 
 &emsp;(1) contains information regarding the incidence and prevalence of birth defects, developmental disabilities, and the health status of individuals with disabilities and the extent to which these conditions have contributed to the incidence and prevalence of infant mortality and affected quality of life;
 
@@ -88,15 +88,17 @@ Notwithstanding any other provision of law, the members of the advisory committe
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2003 through 2007.
 
-(July 1, 1944, ch. 373, title III, §317C, as added Pub. L. 102–531, title III, §306(a), Oct. 27, 1992, 106 Stat. 3494; amended Pub. L. 103–43, title XX, §2008(i)(1)(B)(iii), June 10, 1993, 107 Stat. 213; Pub. L. 105–168, §2, Apr. 21, 1998, 112 Stat. 43; Pub. L. 106–310, div. A, title VI, §611, Oct. 17, 2000, 114 Stat. 1119; Pub. L. 108–154, §2, Dec. 3, 2003, 117 Stat. 1933.)
+(July 1, 1944, ch. 373, title III, §317C, as added Pub. L. 102–531, title III, §306(a), Oct. 27, 1992, 106 Stat. 3494; amended Pub. L. 103–43, title XX, §2008(i)(1)(B)(iii), June 10, 1993, 107 Stat. 213; Pub. L. 105–168, §2, Apr. 21, 1998, 112 Stat. 43; Pub. L. 106–310, div. A, title VI, §611, Oct. 17, 2000, 114 Stat. 1119; Pub. L. 108–154, §2, Dec. 3, 2003, 117 Stat. 1933; Pub. L. 111–256, §2(f)(1), Oct. 5, 2010, 124 Stat. 2644.)
 
 #### Amendments
 
-2003—Subsec. (a)(2)(A). Pub. L. 108–154, §2(1)(A), substituted “, developmental disabilities, and disabilities and health” for “and developmental disabilities” and “subsection (c)(2)” for “subsection (d)(2)”.
+<b>2010</b>—Subsec. (a)(4)(B)(i). Pub. L. 111–256 substituted “intellectual disabilities;” for “mental retardation;”.
+
+<b>2003</b>—Subsec. (a)(2)(A). Pub. L. 108–154, §2(1)(A), substituted “, developmental disabilities, and disabilities and health” for “and developmental disabilities” and “subsection (c)(2)” for “subsection (d)(2)”.
 
 Subsec. (a)(2)(D), (E). Pub. L. 108–154, §2(1)(B)–(D), added subpars. (D) and (E).
 
-Subsecs. (b), (c). Pub. L. 108–154, §2(2),(4), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which related to additional provisions regarding collection of data.
+Subsecs. (b), (c). Pub. L. 108–154, §2(2),(4), redesignated subsecs. (c) and (d) as (b) and (c), respectively,and struck out former subsec. (b) which related to additional provisions regarding collection of data.
 
 Subsec. (d). Pub. L. 108–154, §2(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
@@ -110,15 +112,15 @@ Subsec. (e). Pub. L. 108–154, §2(5), added subsec. (e). Former subsec. (e) re
 
 Subsec. (f). Pub. L. 108–154, §2(6) substituted “such sums as may be necessary for each of fiscal years 2003 through 2007.” for “$30,000,000 for fiscal year 1999, $40,000,000 for fiscal year 2000, and such sums as may be necessary for each of the fiscal years 2001 and 2002.”
 
-2000—Pub. L. 106–310, §611(1), substituted “National Center on Birth Defects and Developmental Disabilities” for “Programs regarding birth defects” in section catchline.
+<b>2000</b>—Pub. L. 106–310, §611(1), substituted “National Center on Birth Defects and Developmental Disabilities” for “Programs regarding birth defects” in section catchline.
 
 Subsec. (a). Pub. L. 106–310, §611(2), added subsec. (a) and struck out heading and text of former subsec. (a) relating to Secretary's responsibility, acting through the Centers for Disease Control and Prevention, to carry out programs regarding birth defects.
 
 Subsec. (b)(1). Pub. L. 106–310, §611(3), substituted “subsection (a)(2)(A) of this section” for “subsection (a)(1) of this section” in introductory provisions.
 
-1998—Pub. L. 105–168 amended section generally, substituting present provisions for provisions which directed Secretary to encourage and assist States in collection and analysis of epidemiological data on birth defects and to establish and maintain National Information Clearinghouse on Birth Defects, required report not later than July 1, 1993, and biennially thereafter, and authorized appropriations for fiscal years 1993, 1994, and 1995.
+<b>1998</b>—Pub. L. 105–168 amended section generally, substituting present provisions for provisions which directed Secretary to encourage and assist States in collection and analysis of epidemiological data on birth defects and to establish and maintain National Information Clearinghouse on Birth Defects, required report not later than July 1, 1993, and biennially thereafter, and authorized appropriations for fiscal years 1993, 1994, and 1995.
 
-1993—Pub. L. 103–43 made technical amendment to directory language of Pub. L. 102–531, §306(a), which enacted this section.
+<b>1993</b>—Pub. L. 103–43 made technical amendment to directory language of Pub. L. 102–531, §306(a), which enacted this section.
 
 #### Change of Name
 
@@ -139,6 +141,10 @@ Pub. L. 105–168, §1(b), Apr. 21, 1998, 112 Stat. 43, provided that: “Congre
 &emsp;“(4) Birth defects can be caused by exposure to environmental hazards, adverse health conditions during pregnancy, or genetic mutations. Prevention efforts are slowed by lack of information about the number and causes of birth defects. Outbreaks of birth defects may go undetected because surveillance and research efforts are underdeveloped and poorly coordinated.
 
 &emsp;“(5) Public awareness strategies, such as programs using folic acid vitamin supplements to prevent spina bifida and alcohol avoidance programs to prevent Fetal Alcohol Syndrome, are essential to prevent the heartache and costs associated with birth defects.”
+
+#### Definitions
+
+For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of Title 20, Education.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by the word “by”.</i>
 

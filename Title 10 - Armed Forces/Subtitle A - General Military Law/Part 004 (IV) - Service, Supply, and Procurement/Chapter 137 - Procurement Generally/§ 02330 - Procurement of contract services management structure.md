@@ -66,7 +66,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) Issuance of a task order, delivery order, or military interdepartmental purchase request.
 
-&emsp;(2) The term “contract services” includes all services acquired from private sector entitiesby or for the Department of Defense, other than services relating to research and development or military construction.
+&emsp;(2) The term “contract services” includes all services acquired from private sector entities by or for the Department of Defense, other than services relating to research and development or military construction.
 
 (Added Pub. L. 107–107, div. A, title VIII, §801(b)(1), Dec. 28, 2001, 115 Stat. 1174; amended Pub. L. 107–314, div. A, title X, §1062(a)(8), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 109–163, div. A, title VIII, §812(a)(1), Jan. 6, 2006, 119 Stat. 3376.)
 
@@ -84,9 +84,65 @@ Another prior section 2330 was renumbered section 2349 of this title.
 
 #### Amendments
 
-2006—Pub. L. 109–163 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to requirement for management structure, contracting responsibilities of designated officials, and definitions.
+<b>2006</b>—Pub. L. 109–163 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to requirement for management structure, contracting responsibilities of designated officials, and definitions.
 
-2002—Subsec. (c). Pub. L. 107–314 inserted comma after “a task order”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–314 inserted comma after “a task order”.
+
+#### Requirements for the Acquisition of Services
+
+Pub. L. 111–383, div. A, title VIII, §863(a)–(h), Jan. 7, 2011, 124 Stat. 4293, 4294, provided that:
+
+“(a)
+
+Establishment of Requirements Processes for the Acquisition of Services.—The Secretary of Defense shall ensure that the military departments and Defense Agencies each establish a process for identifying, assessing, reviewing, and validating requirements for the acquisition of services.
+
+“(b)
+
+Operational Requirements.—With regard to requirements for the acquisition of services in support of combatant commands and military operations, the Secretary shall ensure—
+
+&emsp;“(1) that the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, and the Commandant of the Marine Corps implement and bear chief responsibility for carrying out, within the Armed Force concerned, the process established pursuant to subsection (a) for such Armed Force; and
+
+&emsp;“(2) that commanders of unified combatant commands and other officers identified or designated as joint qualified officers have an opportunity to participate in the process of each military department to provide input on joint requirements for the acquisition of services.
+
+“(c)
+
+Supporting Requirements.—With regard to requirements for the acquisition of services not covered by subsection (b), the Secretary shall ensure that the secretaries of the military departments and the heads of the Defense Agencies implement and bear chief responsibility for carrying out, within the military department or Defense Agency concerned, the process established pursuant to subsection (a) for such military department or Defense Agency.
+
+“(d)
+
+Implementation Plans Required.—The Secretary shall ensure that an implementation plan is developed for each process established pursuant to subsection (a) that addresses, at a minimum, the following:
+
+&emsp;“(1) The organization of such process.
+
+&emsp;“(2) The level of command responsibility required for identifying, assessing, reviewing, and validating requirements for the acquisition of services in accordance with the requirements of this section and the categories established under section 2330(a)(1)(C) of title 10, United States Code.
+
+&emsp;“(3) The composition of positions necessary to operate such process.
+
+&emsp;“(4) The training required for personnel engaged in such process.
+
+&emsp;“(5) The relationship between doctrine and such process.
+
+&emsp;“(6) Methods of obtaining input on joint requirements for the acquisition of services.
+
+&emsp;“(7) Procedures for coordinating with the acquisition process.
+
+&emsp;“(8) Considerations relating to opportunities for strategic sourcing.
+
+“(e)
+
+Matters Required in Implementation Plan.—Each plan required under subsection (d) shall provide for initial implementation of a process for identifying, assessing, reviewing, and validating requirements for the acquisition of services not later than one year after the date of the enactment of this Act \[Jan. 7, 2011\] and shall provide for full implementation of such process at the earliest date practicable.
+
+“(f)
+
+Consistency With Joint Guidance.—Whenever, at any time, guidance is issued by the Chairman of the Joint Chiefs of Staff relating to requirements for the acquisition of services in support of combatant commands and military operations, each process established pursuant to subsection (a) shall be revised in accordance with such joint guidance.
+
+“(g)
+
+Definition.—The term ‘requirements for the acquisition of services’ means objectives to be achieved through acquisitions primarily involving the procurement of services.
+
+“(h)
+
+Review of Supporting Requirements To Identify Savings.—The secretaries of the military departments and the heads of the Defense Agencies shall review and validate each requirement described in subsection (c) with an anticipated cost in excess of $10,000,000 with the objective of identifying unneeded or low priority requirements that can be reduced or eliminated, with the savings transferred to higher priority objectives. Savings identified and transferred to higher priority objectives through review and revalidation under this subsection shall count toward the savings objectives established in the June 4, 2010, guidance of the Secretary of Defense on improved operational efficiencies and the annual reduction in funding for service support contractors required by the August 16, 2010, guidance of the Secretary of Defense on efficiency initiatives. As provided by the Secretary, cost avoidance shall not count toward these objectives.”
 
 #### Procurement of Commercial Services
 
@@ -120,13 +176,13 @@ Time-and-Materials Contracts.—
 
 Commercial item acquisitions.—The regulations modified pursuant to subsection (a) shall ensure that procedures applicable to time-and-materials contracts and labor-hour contracts for commercial item acquisitions may be used only for the following:
 
-&emsp;&emsp;“(A) Services procured for support of a commercial item, as described in section 4(12)(E) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)(E)).
+&emsp;&emsp;“(A) Services procured for support of a commercial item, as described in section 4(12)(E) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 403(12)(E)) \[now 41 U.S.C. 103(5)\].
 
 &emsp;&emsp;“(B) Emergency repair services.
 
 &emsp;&emsp;“(C) Any other commercial services only to the extent that the head of the agency concerned approves a determination in writing by the contracting officer that—
 
-&emsp;&emsp;&emsp;“(i) the services to be acquired are commercial services as defined in section 4(12)(F) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)(F));
+&emsp;&emsp;&emsp;“(i) the services to be acquired are commercial services as defined in section 4(12)(F) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 403(12)(F)) \[now 41 U.S.C. 103(6)\];
 
 &emsp;&emsp;&emsp;“(ii) if the services to be acquired are subject to subsection (b), the offeror of the services has submitted sufficient information in accordance with that subsection;
 
@@ -140,7 +196,7 @@ Non-commercial item acquisitions.—Nothing in this subsection shall be construe
 
 #### Independent Management Reviews of Contracts for Services
 
-Pub. L. 110–181, div. A, title VIII, §808, Jan. 28, 2008, 122 Stat. 215, provided that:
+Pub. L. 110–181, div. A, title VIII, §808, Jan. 28, 2008, 122 Stat. 215, as amended by Pub. L. 111–383, div. A, title X, §1075(f)(3), Jan. 7, 2011, 124 Stat. 4376, provided that:
 
 “(a)
 
@@ -180,7 +236,7 @@ Elements.—The guidance and instructions issued pursuant to subsection (a) shal
 
 &emsp;“(6) procedures for developing and disseminating lessons learned from independent management reviews.
 
-“(c) \[d\]
+“(d)
 
 Reports.—
 
@@ -254,7 +310,7 @@ Comptroller General Review.—Not later than 90 days after the date on which the
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘senior procurement executive’ means the official designated as the senior procurement executive under section 16(3) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 414(3)).
+&emsp;“(1) The term ‘senior procurement executive’ means the official designated as the senior procurement executive under section 16(3) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 414(3)) \[see 41 U.S.C. 1702(c)\].
 
 &emsp;“(2) The term ‘performance-based’, with respect to a contract or a task order means that the contract or task order, respectively, includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.”
 

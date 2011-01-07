@@ -14,7 +14,7 @@
 
 #### (2) Eligibility
 
-&emsp;During fiscal years 1999, 2000, and 2001, the Secretary may enter into a voluntary, flexibleagreement with not more than 6 guaranty agencies that had 1 or more agreements with the Secretary under subsections (b) and (c) of section 1078 of this title as of the day before October 7, 1998. Beginning in fiscal year 2002, any guaranty agency or consortium thereof may enter into a voluntary flexible agreement with the Secretary.
+&emsp;During fiscal years 1999, 2000, and 2001, the Secretary may enter into a voluntary, flexible agreement with not more than 6 guaranty agencies that had 1 or more agreements with the Secretary under subsections (b) and (c) of section 1078 of this title as of the day before October 7, 1998. Beginning in fiscal year 2002, any guaranty agency or consortium thereof may enter into a voluntary flexible agreement with the Secretary.
 
 #### (3) Report required
 
@@ -92,7 +92,7 @@ An agreement between the Secretary and a guaranty agency under this section—
 
 &emsp;(3) shall provide for uniform lender participation with the guaranty agency under the terms of the agreement; and
 
-&emsp;(4) shall not prohibit or restrict borrowers from selecting a lender of the borrower's choosing, subject to the prohibitions and restrictions applicable to the selection under this chapter.
+&emsp;(4) shall not prohibit or restrict borrowers from selecting a lender of the borrower's choosing, subject to the prohibitions and restrictions applicable to the selection under this chapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (c) Public notice
 
@@ -138,8 +138,6 @@ At the expiration or early termination of an agreement under this section, the S
 
 Paragraph (2) of subsec. (a) of this section, referred to in subsecs. (a)(1) and (c)(3), was struck out by Pub. L. 109–171, §8014(f)(2), and par. (3) was redesignated (2). See 2006 Amendment note below.
 
-This chapter, referred to in subsec. (b)(4), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
-
 #### Prior Provisions
 
 A prior section 1078–1, Pub. L. 89–329, title IV, §428A, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1384; amended Pub. L. 100–50, §10(n), (<i>o</i>)(1), (p)(1), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 100–369, §§3–5(a), (b)(3), July 18, 1988, 102 Stat. 835, 836; Pub. L. 101–239, title II, §2003(a)(1), (b)(1), (c)(1), Dec. 19, 1989, 103 Stat. 2112, 2114; Pub. L. 101–508, title III, §3006(b), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–26, §2(c)(1), Apr. 9, 1991, 105 Stat. 123; Pub. L. 102–325, title IV, §417, July 23, 1992, 106 Stat. 529; Pub. L. 103–208, §2(c)(29)–(32), Dec. 20, 1993, 107 Stat. 2465, 2466, related to Federal supplemental loans for students, prior to repeal by Pub. L. 103–66, title IV, §4047(b), (d), Aug. 10, 1993, 107 Stat. 364, effective July 1, 1994.
@@ -148,13 +146,13 @@ Another prior section 1078–1, Pub. L. 89–329, title IV, §428A, as added Pub
 
 #### Amendments
 
-2008—Subsec. (a)(3). Pub. L. 110–315, §423, added par. (3).
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–315, §423, added par. (3).
 
 Subsec. (c)(2), (3). Pub. L. 110–315, §103(b)(5)(A), (B), substituted “members of the authorizing committees” for “Chairperson and the Ranking Minority Member of the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
 
 Subsec. (c)(5). Pub. L. 110–315, §103(b)(5)(C), substituted “members of the authorizing committees” for “Chairperson and the Ranking Minority Members of the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
 
-2006—Subsec. (a)(1)(B). Pub. L. 109–171, §8014(f)(1), struck out “unless the Secretary determines that such a waiver is consistent with the purposes of this section and is limited to activities of the guaranty agency within the State or States for which the guaranty agency serves as the designated guarantor” before “; or”.
+<b>2006</b>—Subsec. (a)(1)(B). Pub. L. 109–171, §8014(f)(1), struck out “unless the Secretary determines that such a waiver is consistent with the purposes of this section and is limited to activities of the guaranty agency within the State or States for which the guaranty agency serves as the designated guarantor” before “; or”.
 
 Subsec. (a)(1)(C). Pub. L. 109–171, §8014(b)(3), added subpar. (C).
 
@@ -164,7 +162,7 @@ Subsec. (a)(4). Pub. L. 109–171, §8014(f)(4), struck out par. (4), which requ
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub.L. 109–171, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective Date
 

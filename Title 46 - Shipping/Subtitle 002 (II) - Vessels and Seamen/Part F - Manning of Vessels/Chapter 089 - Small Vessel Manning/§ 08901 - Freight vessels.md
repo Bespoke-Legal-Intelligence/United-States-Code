@@ -18,5 +18,5 @@ Section 8901 requires that a freight vessel of less than 100 gross tons be opera
 
 #### Amendments
 
-1996—Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons”.
+<b>1996</b>—Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons”.
 

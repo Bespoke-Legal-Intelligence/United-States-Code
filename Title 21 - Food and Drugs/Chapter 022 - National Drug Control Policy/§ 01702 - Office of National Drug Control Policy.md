@@ -92,7 +92,7 @@ Section 1701(1) of this title, referred to in subsec. (b)(3)(C), was in the orig
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–469, §1120, inserted concluding provisions.
+<b>2006</b>—Subsec. (a). Pub. L. 109–469, §1120, inserted concluding provisions.
 
 Pub. L. 109–469, §102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to establishment of Office of National Drug Control Policy.
 

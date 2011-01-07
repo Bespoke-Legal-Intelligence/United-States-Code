@@ -60,15 +60,15 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(15), is P
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–378, §4(a)(1), substituted “by grant, agreement, or contract, shelter” for “directly or indirectly, shelter” and “and provide, by grant, agreement, or contract, services,” for “and services”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–378, §4(a)(1), substituted “by grant, agreement, or contract, shelter” for “directly or indirectly, shelter” and “and provide, by grant, agreement, or contract, services,” for “and services”.
 
 Subsec. (a)(2). Pub. L. 110–378, §4(a)(2), substituted “a continuous period not to exceed 540 days, or in exceptional circumstances 635 days, except that a youth in a program under this part who has not reached 18 years of age on the last day of the 635-day period may, in exceptional circumstances and if otherwise qualified for the program, remain in the program until the youth's 18th birthday;” for “a continuous period not to exceed 540 days, except that a youth in a program under this part who is under the age of 18 years on the last day of the 540-day period may, if otherwise qualified for the program, remain in the program until the earlier of the youth's 18th birthday or the 180th day after the end of the 540-day period;”.
 
 Subsec. (a)(16). Pub. L. 110–378, §4(a)(3)–(5), added par. (16).
 
-Subsec. (c). Pub. L. 110–378, §4(b), substituted “part—” for “part,”, inserted par. (1) designation before “theterm”, substituted “; and” for period at end, and added par. (2).
+Subsec. (c). Pub. L. 110–378, §4(b), substituted “part—” for “part,”, inserted par. (1) designation before “the term”, substituted “; and” for period at end, and added par. (2).
 
-2003—Subsec. (a)(1). Pub. L. 108–96, §107(a), inserted “including maternity group homes,” after “group homes,” and “parenting skills (as appropriate),” after “use of credit,”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–96, §107(a), inserted “including maternity group homes,” after “group homes,” and “parenting skills (as appropriate),” after “use of credit,”.
 
 Subsec. (a)(2). Pub. L. 108–96, §108, inserted “, except that a youth in a program under this part who is under the age of 18 years on the last day of the 540-day period may, if otherwise qualified for the program, remain in the program until the earlier of the youth's 18th birthday or the 180th day after the end of the 540-day period” after “days”.
 
@@ -78,13 +78,15 @@ Subsec. (a)(15). Pub. L. 108–96, §110, added par. (15).
 
 Subsec. (c). Pub. L. 108–96, §107(b), added subsec. (c).
 
-1999—Subsec. (a)(9). Pub. L. 106–71 inserted “, and the services provided to such youth by such project,” after “participate in such project”.
+<b>1999</b>—Subsec. (a)(9). Pub. L. 106–71 inserted “, and the services provided to such youth by such project,” after “participate in such project”.
 
-1992—Subsec. (a)(1). Pub. L. 102–586, §3(f)(1), inserted “which shall include money management, budgeting, consumer education, and use of credit” after “basic life skills”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–586, §3(f)(1), inserted “which shall include money management, budgeting, consumer education, and use of credit” after “basic life skills”.
 
 Subsec. (a)(13). Pub. L. 102–586, §3(f)(2), substituted “informed consent of the individual youth” for “consent of the individual youth and parent or legal guardian” and struck out “or a government agency involved in the disposition of criminal charges against youth” after “statistical records”.
 
 #### Effective Date
 
 Section effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as an Effective Date of 1988 Amendment note under section 5601 of this title.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

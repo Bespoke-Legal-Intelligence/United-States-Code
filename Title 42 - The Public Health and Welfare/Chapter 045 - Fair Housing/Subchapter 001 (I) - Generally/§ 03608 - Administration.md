@@ -70,7 +70,7 @@ The provisions of law and Executive orders to which subsection (e)(6) of this se
 
 &emsp;(12) any other provision of law which the Secretary specifies by publication in the Federal Register for the purpose of this subsection.
 
-(Pub. L. 90–284, title VIII, §808, Apr. 11, 1968, 82 Stat. 84; Pub. L. 95–251, §3, Mar. 27, 1978, 92 Stat. 184; Pub. L. 95–454, title VIII, §801(a)(3)(J), Oct. 13, 1978, 92 Stat. 1222; Pub. L. 100–430, §7, Sept. 13, 1988, 102 Stat. 1623.)
+(Pub. L. 90–284, title VIII, §808, Apr. 11, 1968, 82 Stat. 84; Pub. L. 95–251, §3, Mar. 27, 1978, 92 Stat. 184; Pub. L. 95–454, title VIII, §801(a)(3)(J), Oct.13, 1978, 92 Stat. 1222; Pub. L. 100–430, §7, Sept. 13, 1988, 102 Stat. 1623.)
 
 #### References in Text
 
@@ -102,7 +102,7 @@ The second sentence of subsec. (b) of this section has been omitted as it amende
 
 #### Amendments
 
-1988—Subsec. (d). Pub. L. 100–430, §7(a), inserted “(including any Federal agency having regulatory or supervisory authority over financial institutions)” after “urban development”.
+<b>1988</b>—Subsec. (d). Pub. L. 100–430, §7(a), inserted “(including any Federal agency having regulatory or supervisory authority over financial institutions)” after “urban development”.
 
 Subsec. (e)(2). Pub. L. 100–430, §7(b)(1)(A), inserted provisions relating to annual report to Congress.
 
@@ -110,7 +110,7 @@ Subsec. (e)(6). Pub. L. 100–430, §7(b)(1)(B)–(D), added par. (6).
 
 Subsec. (f). Pub. L. 100–430, §7(b)(2), added subsec. (f).
 
-1978—Subsec. (c). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners”.
+<b>1978</b>—Subsec. (c). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners”.
 
 Pub. L. 95–454 substituted “5372” for “5362”.
 
@@ -158,7 +158,7 @@ Sec. 2. <i>Responsibilities of Executive Agencies.</i>
 
 2–203. In carrying out the responsibilities in this order, the head of each executive agency shall take appropriate steps to require that all persons or other entities who are applicants for, or participants in, or who are supervised or regulated under, agency programs and activities relating to housing and urban development shall comply with this order.
 
-2–204. Upon receipt of a complaint alleging facts that may constitute a violation of the Act or upon receiptof information from a consumer compliance examination or other information suggesting a violation of the Act, each executive agency shall forward such facts or information to the Secretary of Housing and Urban Development for processing under the Act. Where such facts or information indicate a possible pattern or practice of discrimination in violation of the Act, they also shall be forwarded to the Attorney General. The authority of the Federal depository institution regulatory agencies to take appropriate action under their statutory authority remains unaffected.
+2–204. Upon receipt of a complaint alleging facts that may constitute a violation of the Act or upon receipt of information from a consumer compliance examination or other information suggesting a violation of the Act, each executive agency shall forward such facts or information to the Secretary of Housing and Urban Development for processing under the Act. Where such facts or information indicate a possible pattern or practice of discrimination in violation of the Act, they also shall be forwarded to the Attorney General. The authority of the Federal depository institution regulatory agencies to take appropriate action under their statutory authority remains unaffected.
 
 Sec. 3. <i>President's Fair Housing Council.</i>
 
@@ -210,7 +210,7 @@ Sec. 5. <i>Administrative Enforcement.</i>
 
 (a) cancellation or termination of agreements or contracts with such person, entity, or any State or local public agency;
 
-(b) refusal to extend any further aid under any program or activity administered by it and affected bythis order until it is satisfied that the affected person, entity, or State or local public agency will comply with the rules, regulations, and procedures issued or adopted pursuant to this order;
+(b) refusal to extend any further aid under any program or activity administered by it and affected by this order until it is satisfied that the affected person, entity, or State or local public agency will comply with the rules, regulations, and procedures issued or adopted pursuant to this order;
 
 (c) refusal to grant supervisory or regulatory approval to such person, entity, or State or local public agency under any program or activity administered by it that is affected by this order or revoke such approval if previously given; and
 
@@ -264,7 +264,7 @@ Racial and ethnic segregation, both in the private housing market and in public 
 
 The resulting decline in the very heart of too many of our metropolitan areas threatens all of us: the health of our dynamic regional economies—the very lifeblood of future national economic growth and higher living standards for all of us and all of our children—is placed at risk.
 
-We can do better. We can start by making sure that our own Federal policies and programs across all of our agencies support the fair housing and equal opportunity goals to which all Americans are committed. Ifall of our executive agencies affirmatively further fair housing in the design of their policies and administration of their programs relating to housing and urban development, a truly nondiscriminatory housing market will be closer to achievement.
+We can do better. We can start by making sure that our own Federal policies and programs across all of our agencies support the fair housing and equal opportunity goals to which all Americans are committed. If all of our executive agencies affirmatively further fair housing in the design of their policies and administration of their programs relating to housing and urban development, a truly nondiscriminatory housing market will be closer to achievement.
 
 By an Executive Order \[Ex. Ord. No. 12892, set out above\] (“the Order”) I am issuing today and this memorandum, I am addressing those needs. The Secretary of Housing and Urban Development and, where appropriate, the Attorney General—the officials with the primary responsibility for the enforcement of Federal fair housing laws—will take the lead in developing and coordinating measures to carry out the purposes of this Order.
 

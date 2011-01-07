@@ -120,7 +120,7 @@ Except as provided in section 8715 of this title, for purposes of the 2009 crop 
 
 #### (c) 2010 through 2012 crop years
 
-Except as provided in section 8715 of this title, for purposes of each of the 2010 through 2012 crop years, the loan rate for a marketing assistance loan under section 8731 of this title for a loan commodity shall be equal to the following:
+Except as provided in section 8715 of this title, for purposes of each of the 2010 through 2012 cropyears, the loan rate for a marketing assistance loan under section 8731 of this title for a loan commodity shall be equal to the following:
 
 &emsp;(1) In the case of wheat, $2.94 per bushel.
 

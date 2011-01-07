@@ -14,5 +14,5 @@ Section was amended by act Dec. 11, 1926, ch. 5, 44 Stat. 919. The amendment add
 
 #### Amendments
 
-1970—Pub. L. 91–393 inserted “or his designee” after “Attorney General”.
+<b>1970</b>—Pub. L. 91–393 inserted “or his designee” after “Attorney General”.
 

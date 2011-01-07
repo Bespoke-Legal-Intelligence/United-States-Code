@@ -48,27 +48,27 @@ The Secretary shall—
 
 #### (b) Authorization of appropriations
 
-For the purpose of carrying out this section and sections 300u–1 through 300u–4 of this title, there are authorized to be appropriated $10,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 through 2002.
+For the purpose of carrying out this section and sections 300u–1 through 300u–4 of this title, there are authorized to be appropriated$10,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 through 2002.
 
 #### (c) Application; submission and approval as prerequisite; form and content
 
-No grant may be made or contract entered into under this subchapter unless an application therefor has been submitted to and approved by the Secretary. Such an application shall be submitted in such form and manner and contain such information as the Secretary may prescribe. Contracts may be entered into under this subchapter without regard to section 3324(a) and (b) of title 31 and section 5 of title 41.
+No grant may be made or contract entered into under this subchapter unless an application therefor has been submitted to and approved by the Secretary. Such an application shall be submitted in such form and manner and contain such information as the Secretary may prescribe. Contracts may be entered into under this subchapter without regard to section 3324(a) and (b) of title 31 and section 6101 of title 41.
 
 (July 1, 1944, ch. 373, title XVII, §1701, as added Pub. L. 94–317, title I, §102, June 23, 1976, 90 Stat. 695; amended Pub. L. 96–32, §7(n), July 10, 1979, 93 Stat. 85; Pub. L. 96–76, title II, §209, Sept. 29, 1979, 93 Stat. 584; Pub. L. 98–551, §2(a), Oct. 30, 1984, 98 Stat. 2815; Pub. L. 100–607, title III, §312(a)(1), (b)(1), (c), Nov. 4, 1988, 102 Stat. 3113, 3114; Pub. L. 102–168, title I, §101, Nov. 26, 1991, 105 Stat. 1102; Pub. L. 102–531, title III, §311(b)(1), Oct. 27, 1992, 106 Stat. 3503; Pub. L. 105–392, title IV, §414, Nov. 13, 1998, 112 Stat. 3590.)
 
 #### Codification
 
-In subsec. (c), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes (31 U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c), “section 3324(a) and (b) of title 31 and section 6101 of title 41” substituted for “sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529; 41 U.S.C. 5)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–392 substituted “2002” for “1996”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–392 substituted “2002” for “1996”.
 
-1992—Subsec. (a)(11)(C). Pub. L. 102–531 substituted “preventive health services (which may include information concerning models and standards for insurance coverage of such services),” for “preventive health services,”.
+<b>1992</b>—Subsec. (a)(11)(C). Pub. L. 102–531 substituted “preventive health services (which may include information concerning models and standards for insurance coverage of such services),” for “preventive health services,”.
 
-1991—Subsec. (b). Pub. L. 102–168 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “To carry out sections 300u through 300u–4 of this title, there are authorized to be appropriated $9,000,000 for the fiscal year ending September 30, 1985, $9,500,000 for the fiscal year ending September 30, 1986, $10,000,000 for the fiscal year ending September 30, 1987, and $10,000,000 for each of the fiscal years 1989 through 1991.”
+<b>1991</b>—Subsec. (b). Pub. L. 102–168 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “To carry out sections 300u through 300u–4 of this title, there are authorized to be appropriated $9,000,000 for the fiscal year ending September 30, 1985, $9,500,000 for the fiscal year ending September 30, 1986, $10,000,000 for the fiscal year ending September 30, 1987, and $10,000,000 for each of the fiscal years 1989 through 1991.”
 
-1988—Subsec. (a). Pub. L. 100–607, §312(c)(2), in concluding provisions, struck out “The Secretary shall administer this subchapter in a manner consistent with the national health priorities set forth in section 300k–2 of this title.” before “The Secretary shall appoint”, and substituted “paragraph (11)” for “paragraph (10)”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–607, §312(c)(2), in concluding provisions, struck out “The Secretary shall administer this subchapter in a manner consistent with the national health priorities set forth in section 300k–2 of this title.” before “The Secretary shall appoint”, and substituted “paragraph (11)” for “paragraph (10)”.
 
 Subsec. (a)(7), (8). Pub. L. 100–607, §312(b)(1), added par. (7) and redesignated former par. (7) as (8). Former par. (8) redesignated (9).
 
@@ -80,11 +80,11 @@ Subsec. (a)(10), (11). Pub. L. 100–607, §312(b)(1)(A), redesignated pars. (9)
 
 Subsec. (b). Pub. L. 100–607, §312(a)(1), substituted “sections 300u through 300u–4 of this title” for “this subchapter”, struck out “and” after “September 30, 1986,”, and inserted “, and $10,000,000 for each of the fiscal years 1989 through 1991”.
 
-1984—Subsec. (a). Pub. L. 98–551, §2(a)(1), added par. (10), and in provisions following par. (10) struck out “and with health planning and resource development activities undertaken under subchapters XIII and XIV of this chapter” after “section 300k–2 of this title” and inserted provisions for appointment of a Director for Office of Disease Prevention and Health Promotion and cooperation in administration of this subchapter.
+<b>1984</b>—Subsec. (a). Pub. L. 98–551, §2(a)(1), added par. (10), and in provisions following par. (10) struck out “and with health planning and resource development activities undertaken under subchapters XIII and XIV of this chapter” after “section 300k–2 of this title” and inserted provisions for appointment of a Director for Office of Disease Prevention and Health Promotion and cooperation in administration of this subchapter.
 
 Subsec. (b). Pub. L. 98–551, §2(a)(2), substituted “To carry out this subchapter, there are authorized to be appropriated $9,000,000 for the fiscal year ending September 30, 1985, $9,500,000 for the fiscal year ending September 30, 1986, and $10,000,000 for the fiscal year ending September 30, 1987” for “For payments under grants and contracts under this subchapter (other than grants and contracts under sections 300u–6, 300u–7, and 300u–8 of this title) there are authorized to be appropriated $7,000,000 for the fiscal year ending September 30, 1977, $10,000,000 for the fiscal year ending September 30, 1978, $14,000,000 for the fiscal year ending September 30, 1979, $14,000,000 for the fiscal year ending September 30, 1980, $15,000,000 for the fiscal year ending September 30, 1981, and $16,000,000 for the fiscal year ending September 30, 1982.”
 
-1979—Subsec. (b). Pub. L. 96–76 inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1980, Sept. 30, 1981, and Sept. 30, 1982.
+<b>1979</b>—Subsec. (b). Pub. L. 96–76 inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1980, Sept. 30, 1981, and Sept. 30, 1982.
 
 Pub. L. 96–32 inserted “(other than grants and contracts under sections 300u–6, 300u–7, and 300u–8 of this title)” after “grants and contracts under this subchapter”.
 
@@ -98,65 +98,57 @@ Section 312(b)(2) of Pub. L. 100–607 required Secretary of Health and Human Se
 
 #### Executive Order No. 12345
 
-Ex. Ord. No. 12345, Feb. 2, 1982, 47 F.R. 5189, as amended by Ex. Ord. No. 12539, Dec. 3, 1985, 50 F.R. 49829; Ex. Ord. No. 12694, Oct. 11, 1989, 54 F.R. 42285; Ex. Ord. No. 12709, Apr. 4, 1990, 55 F.R. 13097; Ex. Ord. No. 13138, §8, Sept. 30, 1999, 64 F.R. 53881, which provided for the Secretary of Health and Human Services to develop and coordinate a national program for physical fitness and sports, continued the President's Council on Physical Fitness and Sports, and provided for termination of the Council on Dec. 31, 1982, was revoked by Ex. Ord. No. 13265, §5(c), June 6, 2002, 67 F.R. 39842, set out below.
+Ex. Ord. No. 12345, Feb. 2, 1982, 47 F.R. 5189, as amended by Ex. Ord. No. 12539, Dec. 3, 1985, 50 F.R. 49829; Ex. Ord. No. 12694, Oct. 11, 1989, 54 F.R. 42285; Ex. Ord. No. 12709, Apr. 4, 1990, 55 F.R. 13097; Ex. Ord. No. 13138, §8, Sept. 30, 1999, 64 F.R. 53881, which provided for the Secretary of Health and Human Services to develop and coordinate a national program for physical fitness and sports, continued the President's Council on Physical Fitness and Sports, and provided for termination of the Council on Dec. 31, 1982, was revoked by Ex. Ord. No. 13265, §5(c), June 6, 2002, 67 F.R. 39842, set out below, prior to amendment by Ex. Ord. No. 13545, June 22, 2010, 75 F.R. 37283.
 
-#### Ex. Ord. No. 13265. President's Council on Physical Fitness and Sports
+#### Ex. Ord. No. 13265. President's Council on Fitness, Sports, and Nutrition
 
-Ex. Ord. No. 13265, June 6, 2002, 67 F.R. 39841, provided:
+Ex. Ord. No. 13265, June 6, 2002, 67 F.R. 39841, as amended by Ex. Ord. No. 13545, June 22, 2010, 75 F.R. 37283, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and to expand the executive branch's program for physical fitness and sports and establish the President's Council on Physical Fitness and Sports (the “Council”), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and to expand the executive branch's program for physical fitness and sports and establish the President's Council on Physical Fitness and Sports \[probably should be “President's Council on Fitness, Sports, and Nutrition”\] (the “Council”), it is hereby ordered as follows:
 
-Section 1. <i>Purpose</i>. The Secretary of Health and Human Services (Secretary) shall, in carrying out his responsibilities for public health and human services, develop and coordinate a national program to enhance physical activity and sports participation. Through this program, the Secretary shall seek to:
+Section 1. <i>Purpose</i>. The Secretary of Health and Human Services (Secretary), in carrying out the Secretary's responsibilities for public health and human services, shall develop and coordinate a national program to enhance physical activity, fitness, sports participation, and good nutrition. Through this program, the Secretary shall, in consultation with the Secretaries of Agriculture and Education, seek to:
 
-(a) expand national interest in and awareness of the benefits of regular physical activity and active sports participation;
+(a) expand national interest in and awareness of the benefits of regular physical activity, fitness, sports participation, and good nutrition;
 
-(b) stimulate and enhance coordination of programs within and among the private and public sectors that promote participation in, and safe and easy access to, physical activity and sports;
+(b) stimulate and enhance coordination of programs within and among the private and public sectors that promote physical activity, fitness, sports participation, and good nutrition;
 
-(c) expand availability of quality information and guidance regarding physical activity and sports participation;
+(c) expand availability of quality information and guidance regarding physical activity, fitness, sports participation, and good nutrition; and
 
-(d) integrate physical activity into a broader health-promotion and disease-prevention effort through Federal agencies and the private sector; and
+(d) target all Americans, with particular emphasis on children and adolescents, as well as populations or communities in which specific risks or disparities in participation in, access to, or knowledge about the benefits of physical activity, fitness, sports participation, and good nutrition have been identified.
 
-(e) target all Americans, with particular emphasis on children and adolescents, as well as populations or communities in which specific risks or disparities in participation in, access to, or knowledge about the benefits of physical activity have been identified.
+In implementing this order, the Secretary shall be guided by the science-based Federal Dietary Guidelines for Americans and the Physical Activity Guidelines for Americans. Additionally, the Secretary shall undertake nutrition-related activities under this order in coordination with the Secretary of Agriculture.
 
-Sec. 2. <i>The President's Council on Physical Fitness and Sports.</i>
+Sec. 2. <i>The President's Council on Fitness, Sports, and Nutrition</i>. (a) There is hereby established the President's Council on Fitness, Sports, and Nutrition (Council).
 
-(a) There is hereby established the President's Council on Physical Fitness and Sports.
+(b) The Council shall be composed of up to 25 members appointed by the President. Members shall serve for a term of 2 years, shall be eligible for reappointment, and may continue to serve after the expiration of their terms until the appointment of a successor. The President may designate one or more members as Chair or Vice Chair.
 
-(b) The Council shall be composed of up to 20 members appointed by the President. The President may designate one or more members to be Chair or Vice Chair. Each member shall serve for a term of 2 years and may continue to serve after the expiration of that term until a successor is appointed.
+Sec. 3. <i>Functions of the Council</i>. (a) The Council shall advise the President, through the Secretary, concerning progress made in carrying out the provisions of this order and shall recommend to the President, through the Secretary, actions to accelerate progress.
 
-Sec. 3. <i>Functions of the Council.</i>
+(b) The Council shall advise the Secretary on ways to promote regular physical activity, fitness, sports participation, and good nutrition. Recommendations may address, but are not necessarily limited to, public awareness campaigns; Federal, State, and local physical activity; fitness, sports participation, and nutrition initiatives; and partnership opportunities between public- and private-sector health-promotion entities.
 
-(a) The Council shall advise the President, through the Secretary, concerning progress made in carrying out the provisions of this order and shall recommend to the President, through the Secretary, actions to accelerate progress.
+(c) The Council shall function as a liaison to relevant State, local, and private entities in order to advise the Secretary regarding opportunities to extend and improve physical activity, fitness, sports, and nutrition programs and services at the local, State, and national levels.
 
-(b) The Council shall advise the Secretary on ways to enhance opportunities for participation in physical fitness and sports. Recommendations may address, but are not necessarily limited to, public awareness campaigns, Federal, State, and local physical activity initiatives, and partnership opportunities between public- and private-sector health-promotion entities.
+(d) The Council shall monitor the need to enhance programs and educational and promotional materials sponsored, overseen, or disseminated by the Council, and shall advise the Secretary as necessary concerning such need.
 
-(c) The Council shall function as a liaison to relevant State, local, and private entities in order to advise the Secretary regarding opportunities to extend and improve physical activity programs and services at both the local and national levels.
+In performing its functions, the Council shall take into account the Federal Dietary Guidelines for Americans and the Physical Activity Guidelines for Americans.
 
-(d) The Council shall monitor the need for the enhancement of programs and educational and promotional materials sponsored, overseen, or disseminated by the Council, and shall advise the Secretary as necessary concerning such need.
+Sec. 4. <i>Administration</i>. (a) Each executive department and agency shall, to the extent permitted by law and subject to the availability of funds, furnish such information and assistance to the Secretary and the Council as they may request.
 
-Sec. 4. <i>Administration.</i>
-
-(a) Each Federal agency shall, to the extent permitted by law and subject to available funds, furnish such information and assistance to the Secretary and the Council as they may request.
-
-(b) The members of the Council shall serve without compensation for their work on the Council. Members of the Council may, however, receive travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government (5 U.S.C. 5701–5707).
+(b) The members of the Council shall serve without compensation for their work on the Council. Members of the Council may, however, receive travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Government service (5 U.S.C. 5701–5707).
 
 (c) To the extent permitted by law, the Secretary shall furnish the Council with necessary staff, supplies, facilities, and other administrative services. The expenses of the Council shall be paid from funds available to the Secretary.
 
 (d) The Secretary shall appoint an Executive Director of the Council who shall serve as a liaison to the Secretary and the White House on matters and activities pertaining to the Council.
 
-(e) The Council may establish subcommittees as appropriate to aid in its work. Such subcommittees shall meet on a voluntary basis and be defined by objectives established in coordination with and agreed upon by the Secretary and the President.
+(e) The Council, with the approval of the Secretary, may establish subcommittees as appropriate to aid in its work.
 
-(f) The seal prescribed by Executive Order 10830 of July 24, 1959, as amended, shall be the seal of the President's Council on Physical Fitness and Sports established by this order.
+(f) The seal prescribed by Executive Order 10830 of July 24, 1959, as amended, shall be modified to reflect the name of the Council as established by this order.
 
-Sec. 5. <i>General Provisions.</i>
+Sec. 5. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (Act), may apply to the administration of any portion of this order, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Secretary in accordance with the guidelines and procedures issued by the Administrator of General Services.
 
-(a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (Act), may apply to the Administration of any portion of this order, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Secretary in accordance with the guidelines and procedures issued by the Administrator of General Services.
+(b) The Council shall terminate 2 years from the date of this order, unless extended by the President.
 
-(b) In accordance with the Act, the Council shall terminate 2 years from the date of this order, unless extended by the President.
-
-(c) Executive Order 12345 of February 2, 1982, as amended, is revoked.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 #### Extension of Term of President's Council on Physical Fitness and Sports
 
@@ -180,7 +172,7 @@ Term of the President's Council on Physical Fitness and Sports extended until Se
 
 Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 2003, by Ex. Ord. No.13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
@@ -204,7 +196,7 @@ Section 1. <i>Policy</i>. This order is issued consistent with the following fin
 
 (c) Individuals of all ages, locations, and levels of personal fitness can benefit from some level of appropriate physical activity, dietary guidance, preventive health screening, and making healthy choices.
 
-(d) While personal fitness is an individual responsibility, the Federal Government may, within the authority and funds otherwise available, expand the opportunities for individuals to empower themselves to improve theirgeneral health. Such opportunities may include improving the flow of information about personal fitness, assisting in the utilization of that information, increasing the accessibility of resources for physical activity, and reducing barriers to achieving good personal fitness.
+(d) While personal fitness is an individual responsibility, the Federal Government may, within the authority and funds otherwise available, expand the opportunities for individuals to empower themselves to improve their general health. Such opportunities may include improving the flow of information about personal fitness, assisting in the utilization of that information, increasing the accessibility of resources for physical activity, and reducing barriers to achieving good personal fitness.
 
 Sec. 2. <i>Agency Responsibilities in Promoting Personal Fitness.</i>
 
@@ -304,7 +296,7 @@ Sec. 3. <i>Directives for Agencies</i>. Agencies shall perform the following fun
 
 (a) Health Information Technology.
 
-(1) For Federal Agencies. As each agency implements, acquires, or upgrades health information technology systems used for the direct exchange of health information between agencies and with non-Federal entities, it shall utilize, where available, health information technology systems and products that meet recognized interoperability standards.
+(1) For Federal Agencies. As each agency implements, acquires, or upgrades health information technologysystems used for the direct exchange of health information between agencies and with non-Federal entities, it shall utilize, where available, health information technology systems and products that meet recognized interoperability standards.
 
 (2) For Contracting Purposes. Each agency shall require in contracts or agreements with health care providers, health plans, or health insurance issuers that as each provider, plan, or issuer implements, acquires, or upgrades health information technology systems, it shall utilize, where available, health information technology systems and products that meet recognized interoperability standards.
 

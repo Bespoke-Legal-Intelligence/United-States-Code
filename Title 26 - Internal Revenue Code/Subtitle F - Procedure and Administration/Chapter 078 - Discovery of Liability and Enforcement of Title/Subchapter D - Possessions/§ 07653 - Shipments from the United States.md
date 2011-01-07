@@ -26,15 +26,15 @@ All provisions of law for the allowance of drawback of internal revenue tax on a
 
 #### References in Text
 
-Act of August 1, 1950, referred to in subsec. (d), is act Aug. 1, 1950, ch. 512, 64 Stat. 384, as amended, known asthe Organic Act of Guam, which is classified principally to chapter 8A (§1421 et seq.) of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 48 and Tables.
+Act of August 1, 1950, referred to in subsec. (d), is act Aug. 1, 1950, ch. 512, 64 Stat. 384, as amended, known as the Organic Act of Guam, which is classified principally to chapter 8A (§1421 et seq.) of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 48 and Tables.
 
 #### Amendments
 
-1976—Subsec. (d). Pub. L. 94–455 struck out “ch. 512, 64 Stat. 392, section 30” after “August 1, 1950”.
+<b>1976</b>—Subsec. (d). Pub. L. 94–455 struck out “ch. 512, 64 Stat. 392, section 30” after “August 1, 1950”.
 
-1960—Subsec. (d). Pub. L. 86–624 substituted “or its possessions” for “, its possessions or the Territory of Hawaii”.
+<b>1960</b>—Subsec. (d). Pub. L. 86–624 substituted “or its possessions” for “, its possessions or the Territory of Hawaii”.
 
-1959—Subsec. (d). Pub. L. 86–70 substituted “its possessions or the Territory of Hawaii” for “its Territories or possessions”.
+<b>1959</b>—Subsec. (d). Pub. L. 86–70 substituted “its possessions or the Territory of Hawaii” for “its Territories or possessions”.
 
 #### Effective Date of 1960 Amendment
 

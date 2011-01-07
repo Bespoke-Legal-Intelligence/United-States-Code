@@ -36,13 +36,13 @@ No benefits shall be payable to a widow, child, parent, brother, or sister under
 
 #### Amendments
 
-2002—Subsec. (a)(2)(D). Pub. L. 107–275 substituted “Secretary” for “Commissioner of Social Security”.
+<b>2002</b>—Subsec. (a)(2)(D). Pub. L. 107–275 substituted “Secretary” for “Commissioner of Social Security”.
 
-1994—Subsec. (a)(2)(D). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary”.
+<b>1994</b>—Subsec. (a)(2)(D). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary”.
 
-1978—Subsec. (e). Pub. L. 95–239 added cl. (3) relating to individuals entitled to benefits under par. (5) of section 921(c) of this title.
+<b>1978</b>—Subsec. (e). Pub. L. 95–239 added cl. (3) relating to individuals entitled to benefits under par. (5) of section 921(c) of this title.
 
-1972—Subsec. (a). Pub. L. 92–303, §§1(c)(6), 5(2), designated existing provisions as par. (1) and added pars. (2) and (3), and in par. (1) substituted “1973” for “1972” wherever appearing.
+<b>1972</b>—Subsec. (a). Pub. L. 92–303, §§1(c)(6), 5(2), designated existing provisions as par. (1) and added pars. (2) and (3), and in par. (1) substituted “1973” for “1972” wherever appearing.
 
 Subsec. (b). Pub. L. 92–303, §§5(1), (2), substituted “June 30, 1973” for “December 31, 1971” and “December 31, 1973” for “December 31, 1971”.
 

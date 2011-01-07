@@ -12,7 +12,7 @@ Subsection (a) of this section shall not apply to any group health plan for any 
 
 #### Amendments
 
-1989—Subsec. (b). Pub. L. 101–239 struck out at end “Under regulations, rules similar to the rules of subsections (a) and (b) of section 52 of title 26 (relating to employers under common control) shall apply for purposes of this subsection.”
+<b>1989</b>—Subsec. (b). Pub. L. 101–239 struck out at end “Under regulations, rules similar to the rules of subsections (a) and (b) of section 52 of title 26 (relating to employers under common control) shall apply for purposes of this subsection.”
 
 Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 

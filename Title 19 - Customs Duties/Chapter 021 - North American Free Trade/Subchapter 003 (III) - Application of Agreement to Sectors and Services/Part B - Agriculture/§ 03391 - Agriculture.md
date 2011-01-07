@@ -34,7 +34,7 @@ In implementing the tariff rate quotas set out in the United States Schedule to 
 
 &emsp;It is the sense of Congress that the United States should request consultations in the Working Group on Emergency Action, established in the Understanding Between the Parties to the North American Free Trade Agreement Concerning Chapter Eight—Emergency Action, if imports of peanuts exceed the in-quota quantity under a tariff rate quota set out in the United States Schedule to Annex 302.2 of the Agreement concerning whether—
 
-&emsp;&emsp;(A) the increased imports of peanuts constitute a substantial cause of, or contribute importantly to, serious injury, or threat of serious injury, to the domestic peanut industry; and
+&emsp;&emsp;(A) the increased imports of peanuts constitute a substantial cause of, or contributeimportantly to, serious injury, or threat of serious injury, to the domestic peanut industry; and
 
 &emsp;&emsp;(B) recourse under Chapter Eight of the Agreement or Article XIX of the General Agreement on Tariffs and Trade is appropriate.
 
@@ -70,7 +70,7 @@ In implementing the tariff rate quotas set out in the United States Schedule to 
 
 &emsp;The Secretary of Agriculture (referred to in this subsection as the “Secretary”) shall implement, in coordination with the Commissioner of Customs, a program requiring that end-use certificates be included in the documentation covering the entry into, or the withdrawal from a warehouse for consumption in, the customs territory of the United States—
 
-&emsp;&emsp;(A) of any wheat that is a product of any foreign country or instrumentality that requires, as of the effective date of this subsection, end-use certificates for imports of wheat that is a product of the United States\(referred to in this subsection as “United States-produced wheat”); and
+&emsp;&emsp;(A) of any wheat that is a product of any foreign country or instrumentality that requires, as of the effective date of this subsection, end-use certificates for imports of wheat that is a product of the United States (referred to in this subsection as “United States-produced wheat”); and
 
 &emsp;&emsp;(B) of any barley that is a product of any foreign country or instrumentality that requires, as of the effective date of this subsection, end-use certificates for imports of barley that is a product of the United States (referred to in this subsection as “United States-produced barley”).
 
@@ -114,7 +114,7 @@ In implementing the tariff rate quotas set out in the United States Schedule to 
 
 #### (1) In general
 
-&emsp;Subject to paragraph (3), if at any time the Secretary of Agriculture determines that the implementation of the Agreement has caused low-income migrant or seasonal farmworkers to lose income, the Secretary may make available grants, not to exceed $20,000,000 for any fiscal year, to public agencies or private organizations with tax-exempt status under section 501(c)(3) of title 26, that have experience in providing emergency services to low-income migrant or seasonal farmworkers. Emergency services to be provided with assistance received under this subsection may include such types of assistance as the Secretary determines to be necessary and appropriate.
+&emsp;Subject to paragraph (3), if at any time the Secretary of Agriculture determines that the implementation of the Agreement has caused low-income migrant or seasonal farmworkers to lose income, the Secretary may make available grants, not to exceed $20,000,000 for anyfiscal year, to public agencies or private organizations with tax-exempt status under section 501(c)(3) of title 26, that have experience in providing emergency services to low-income migrant or seasonal farmworkers. Emergency services to be provided with assistance received under this subsection may include such types of assistance as the Secretary determines to be necessary and appropriate.
 
 #### (2) “Low-income migrant or seasonal farmworker” defined
 
@@ -163,4 +163,6 @@ Section is comprised of section 321 of Pub. L. 103–182. Subsec. (a) of section
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

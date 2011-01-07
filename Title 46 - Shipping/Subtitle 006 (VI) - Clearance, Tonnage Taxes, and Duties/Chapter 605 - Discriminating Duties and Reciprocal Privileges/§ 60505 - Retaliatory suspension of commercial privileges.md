@@ -46,7 +46,7 @@ Historical and Revision Notes
 
 June 19, 1886, ch. 421, §17, 24 Stat. 82.
 
-In this section, the words “vessels of the United States” are used instead of both “vessels of the United States” and “American vessels” for consistency in the section. The words “vessels of a foreign country” and “vessels of that country” are substituted for “foreign country whose vessels”, “national vessels”, “vessels of such foreign country”, and similar references, for consistency. The words “ports and waters” and “ports or waters” are substituted for “ports”, “harbors, ports, or waters”, and “ports, harbors, or waters” for consistency.
+In this section, the words “vessels of the United States” are used instead of both “vessels of the United States” and “American vessels” for consistency in the section. The words “vessels of a foreign country” and “vessels of that country” are substituted for “foreign country whose vessels”, “national vessels”, “vessels of such foreign country”, and similar references, for consistency. The words “ports and waters” and “ports orwaters” are substituted for “ports”, “harbors, ports, or waters”, and “ports, harbors, or waters” for consistency.
 
 In subsection (a), before paragraph (1), the words “on receiving satisfactory information of the continuance of such discriminations against any vessels of the United States” are omitted as unnecessary. In paragraph (1), the words “given the same commercial privileges” are substitued for “placed on the same footing” for clarity and for consistency in the section.
 

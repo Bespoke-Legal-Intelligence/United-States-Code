@@ -14,5 +14,5 @@ The remaining provisions of said sections 98 and 349 of title 18, U.S.C., 1940 e
 
 #### Amendments
 
-1976—Pub. L. 94–467 inserted “except in sections 112, 878, 970, 1116, and 1201” after “title”.
+<b>1976</b>—Pub. L. 94–467 inserted “except in sections 112, 878, 970, 1116, and 1201” after “title”.
 

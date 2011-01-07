@@ -2,13 +2,15 @@
 
 (a)
 
-Responsible Officials.—Except as otherwise provided in this chapter, the Secretary of Defense shall administer this chapter for the armed forces under his jurisdiction, the Secretary of Homeland Security shall administer this chapter for the Coast Guard when the Coast Guard is not operating as a service in the Navy, and the Secretary of Health and Human Services shall administer this chapter for the National Oceanic and Atmospheric Administration and the Public Health Service. This chapter shall be administered consistent with the Assisted Suicide Funding Restriction Act of 1997 (42 U.S.C. 14401 et seq.).
+Responsible Officials.—(1) Except as otherwise provided in this chapter, the Secretary of Defense shall administer this chapter for the armed forces under his jurisdiction, the Secretary of Homeland Security shall administer this chapter for the Coast Guard when the Coast Guard is not operating as a service in the Navy, and the Secretary of Health and Human Services shall administer this chapter for the National Oceanic and Atmospheric Administration and the Public Health Service. This chapter shall be administered consistent with the Assisted Suicide Funding Restriction Act of 1997 (42 U.S.C. 14401 et seq.).
+
+(2) Except as otherwise provided in this chapter, the Secretary of Defense shall have responsibility for administering the TRICARE program and making any decision affecting such program.
 
 (b)
 
 Stability in Program of Benefits.—The Secretary of Defense shall, to the maximum extent practicable, provide a stable program of benefits under this chapter throughout each fiscal year. To achieve the stability in the case of managed care support contracts entered into under this chapter, the contracts shall be administered so as to implement all changes in benefits and administration on a quarterly basis. However, the Secretary of Defense may implement any such change prior to the next fiscal quarter if the Secretary determines that the change would significantly improve the provision of care to eligible beneficiaries under this chapter.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, §511(34)(A), (C), (35), (36), Dec. 12, 1980, 94 Stat. 2922, 2923; Pub. L. 98–557, §19(2), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 105–12, §9(h), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–65, div. A, title VII, §725, title X, §1066(a)(7), Oct. 5, 1999, 113 Stat. 698, 770; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, §511(34)(A), (C), (35), (36), Dec. 12, 1980, 94 Stat. 2922, 2923; Pub. L. 98–557, §19(2), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 105–12, §9(h), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–65, div. A, title VII, §725, title X, §1066(a)(7), Oct. 5, 1999, 113 Stat. 698, 770; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 111–383, div. A, title VII, §711, Jan. 7, 2011, 124 Stat. 4246.)
 
 Historical and Revision Notes
 
@@ -28,7 +30,7 @@ The words “armed forces under his jurisdiction” are substituted for the word
 
 #### References in Text
 
-The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (a), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42 and Tables.
+The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (a)(1), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -36,19 +38,21 @@ A prior section 1073, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to righ
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2011</b>—Subsec. (a). Pub. L. 111–383 designated existing provisions as par. (1) and added par. (2).
 
-1999—Pub. L. 106–65, §725, designated existing provisions, as amended by Pub. L. 106–65, §1066(a)(7), as subsec. (a), inserted heading, and added subsec. (b).
+<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+<b>1999</b>—Pub. L. 106–65, §725, designated existing provisions, as amended by Pub. L. 106–65, §1066(a)(7), as subsec. (a), inserted heading, and added subsec. (b).
 
 Pub. L. 106–65, §1066(a)(7), inserted “(42 U.S.C. 14401 et seq.)” after “Act of 1997”.
 
-1997—Pub. L. 105–12 inserted at end “This chapter shall be administered consistent with the Assisted Suicide Funding Restriction Act of 1997.”
+<b>1997</b>—Pub. L. 105–12 inserted at end “This chapter shall be administered consistent with the Assisted Suicide Funding Restriction Act of 1997.”
 
-1984—Pub. L. 98–557 inserted provisions which transferred authority to administer chapter for the Coast Guard when the Coast Guard is not operating as a service in the Navy from the Secretary of Health and Human Services to the Secretary of Transportation.
+<b>1984</b>—Pub. L. 98–557 inserted provisions which transferred authority to administer chapter for the Coast Guard when the Coast Guard is not operating as a service in the Navy from the Secretary of Health and Human Services to the Secretary of Transportation.
 
-1980—Pub. L. 96–513 substituted in section catchline “of this chapter” for “of sections 1071–1087 of this title”, and substituted in text “this chapter” for “sections 1071–1087 of this title”, “those sections”, and “them”, “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”, and “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+<b>1980</b>—Pub. L. 96–513 substituted in section catchline “of this chapter” for “of sections 1071–1087 of this title”, and substituted in text “this chapter” for “sections 1071–1087 of this title”, “those sections”, and “them”, “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”, and “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
-1966—Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
+<b>1966</b>—Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
 
 Pub. L. 89–614 substituted “1087” for “1085” in section catchline and text.
 
@@ -184,7 +188,7 @@ Ongoing review.—The Comptroller General shall, on an ongoing basis, review—
 
 &emsp;&emsp;“(A) the processes, procedures, and analysis used by the Department of Defense to determine the adequacy of the number of health care and mental health care providers—
 
-&emsp;&emsp;&emsp;“(i) that currently accept TRICARE Standard or TRICARE Extra beneficiaries as patients underTRICARE Standard in each TRICARE area as of the date of completion of the review; and
+&emsp;&emsp;&emsp;“(i) that currently accept TRICARE Standard or TRICARE Extra beneficiaries as patients under TRICARE Standard in each TRICARE area as of the date of completion of the review; and
 
 &emsp;&emsp;&emsp;“(ii) that would accept TRICARE Standard or TRICARE Extra beneficiaries as new patients under TRICARE Standard or TRICARE Extra, as applicable, within a reasonable time after the date of completion of the review; and
 
@@ -237,6 +241,8 @@ Definitions.—In this section:
 &emsp;“(7) The term ‘United States’ means the United States (as defined in section 101(a) of title 10, United States Code), its possessions (as defined in such section), and the Commonwealth of Puerto Rico.”
 
 #### Regulations To Establish Criteria for Licensed or Certified Mental Health Counselors Under TRICARE
+
+Pub. L. 111–383, div. A, title VII, §724, Jan. 7, 2011, 124 Stat. 4252, provided that: “Not later than June 20, 2011, the Secretary of Defense shall prescribe the regulations required by section 717 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. 1073 note).”
 
 Pub. L. 110–181, div. A, title VII, §717(a), Jan. 28, 2008, 122 Stat. 196, provided that: “The Secretary of Defense shall prescribe regulations to establish criteria that licensed or certified mental health counselors shall meet in order to be able to independently provide care to TRICARE beneficiaries and receive payment under the TRICARE program for such services. The criteria shall include requirements for education level, licensure, certification, and clinical experience as considered appropriate by the Secretary.”
 
@@ -398,7 +404,7 @@ Pub. L. 109–163, div. A, title VII, §716, Jan. 6, 2006, 119 Stat. 3345, provi
 
 “(a)
 
-Responsibilities of TRICARE Regional Office.—The responsibilities of each TRICARE Regional Office shall include the monitoring, oversight, and improvement of the TRICARE Standard option in the TRICARE region concerned, including—
+Responsibilities of TRICARE Regional Office.—The responsibilities of each TRICARE RegionalOffice shall include the monitoring, oversight, and improvement of the TRICARE Standard option in the TRICARE region concerned, including—
 
 &emsp;“(1) identifying health care providers who will participate in the TRICARE program and provide the TRICARE Standard option under that program;
 
@@ -636,7 +642,7 @@ Pub. L. 105–261, div. A, title VII, §703, Oct. 17, 1998, 112 Stat. 2057, prov
 
 “(a)
 
-Plan Required.—The Secretary of Defense shall submit to Congress a plan that would provide for a system-wide redesign of the military and contractor retailand mail-order pharmacy system of the Department of Defense by incorporating ‘best business practices’ of the private sector. The Secretary shall work with contractors of TRICARE retail pharmacy and national mail-order pharmacy programs to develop a plan for the redesign of the pharmacy system that—
+Plan Required.—The Secretary of Defense shall submit to Congress a plan that would provide for a system-wide redesign of the military and contractor retail and mail-order pharmacy system of the Department of Defense by incorporating ‘best business practices’ of the private sector. The Secretary shall work with contractors of TRICARE retail pharmacy and national mail-order pharmacy programs to develop a plan for the redesign of the pharmacy system that—
 
 &emsp;“(1) may include a plan for an incentive-based formulary for military medical treatment facilities and contractors of TRICARE retail pharmacies and the national mail-order pharmacy; and
 
@@ -832,7 +838,7 @@ Pub. L. 104–201, div. A, title VII, subtitle C, Sept. 23, 1996, 110 Stat. 2592
 
 &emsp;“(6) The term ‘enrollee’ means a covered beneficiary who enrolls with a designated provider.
 
-&emsp;“(7) The term ‘health care services’ means the health care services provided under the health plan known as the ‘TRICARE PRIME’ option under the TRICARE program.
+&emsp;“(7) The term ‘health care services’ means the health care services provided under the health planknown as the ‘TRICARE PRIME’ option under the TRICARE program.
 
 &emsp;“(8) The term ‘Secretary’ means the Secretary of Defense.
 
@@ -848,7 +854,7 @@ Inclusion in System.—The health care delivery system of the uniformed services
 
 Agreements to Provide Managed Health Care Services.—(1) After consultation with the other administering Secretaries, the Secretary of Defense shall negotiate and enter into an agreement with each designated provider under which the designated provider will provide health care services in or through managed care plans to covered beneficiaries who enroll with the designated provider.
 
-“(2) The agreement shall be entered into on a sole source basis. The Federal Acquisition Regulation, except for those requirements regarding competition, issued pursuant to section 25(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 421(c)) shall apply to the agreements as acquisitions of commercial items.
+“(2) The agreement shall be entered into on a sole source basis. The Federal Acquisition Regulation, except for those requirements regarding competition, issued pursuant to section 25(c) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 421(c)) \[now 41 U.S.C. 1303(a)\] shall apply to the agreements as acquisitions of commercial items.
 
 “(3) The implementation of an agreement is subject to availability of funds for such purpose.
 
@@ -1004,11 +1010,11 @@ Effective Date.—The amendments made by paragraphs (1), (2), and (3) of subsect
 
 #### Definition of TRICARE Program
 
-Pub. L. 104–106, div. A, title VII, §711, Feb. 10, 1996, 110 Stat. 374, provided that: “For purposes of this subtitle \[subtitle B (§§711–718) of title VII of div. A of Pub. L. 104–106, amending section 1097 of this title, enacting provisions set out as notes below, and amending provisions set out as a note below\], the term ‘TRICARE program’ means the managed health care program that is established by the Secretary of Defense under the authority of chapter 55 of title 10, United States Code, principally section 1097 of such title, and includes the competitive selection of contractors to financially underwrite the delivery of health care services under the Civilian Health and Medical Program of the Uniformed Services.”
+Pub. L. 104–106, div. A, title VII, §711, Feb. 10, 1996, 110 Stat. 374, provided that: “For purposes of this subtitle\[subtitle B (§§711–718) of title VII of div. A of Pub. L. 104–106, amending section 1097 of this title, enacting provisions set out as notes below, and amending provisions set out as a note below\], the term ‘TRICARE program’ means the managed health care program that is established by the Secretary of Defense under the authority of chapter 55 of title 10, United States Code, principally section 1097 of such title, and includes the competitive selection of contractors to financially underwrite the delivery of health care services under the Civilian Health and Medical Program of the Uniformed Services.”
 
 #### Training in Health Care Management and Administration for TRICARE Lead Agents
 
-Pub. L. 104–106, div. A, title VII, §715, Feb. 10, 1996, 110 Stat. 375, as amended by Pub. L. 106–398, §1 \[\[div. A\],title VII, §760(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–200, provided that:
+Pub. L. 104–106, div. A, title VII, §715, Feb. 10, 1996, 110 Stat. 375, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VII, §760(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–200, provided that:
 
 “(a)
 
@@ -1094,7 +1100,7 @@ Use of Model.—The Secretary of Defense shall prescribe and implement a health 
 
 “(b)
 
-Elements of Option.—The Secretary shall offer covered beneficiaries who enroll in the health benefit option required under subsection (a) reduced out-of-pocket costs and a benefit structure that is as uniformas possible throughout the United States. The Secretary shall allow enrollees to seek health care outside of the option, except that the Secretary may prescribe higher out-of-pocket costs than are provided under section 1079 or 1086 of title 10, United States Code, for enrollees who obtain health care outside of the option.
+Elements of Option.—The Secretary shall offer covered beneficiaries who enroll in the health benefit option required under subsection (a) reduced out-of-pocket costs and a benefit structure that is as uniform as possible throughout the United States. The Secretary shall allow enrollees to seek health care outside of the option, except that the Secretary may prescribe higher out-of-pocket costs than are provided under section 1079 or 1086 of title 10, United States Code, for enrollees who obtain health care outside of the option.
 
 “(c)
 
@@ -1138,7 +1144,7 @@ Exception.—The Secretary of Defense may waive the operation of the condition o
 
 “(c)
 
-Evaluation of Certification.—The Comptroller General of the United States and the Director of the Congressional Budget Office shall evaluate each certification made by the Secretary of Defense under subsection (a) that expansion of the CHAMPUS reform initiative to another location is the most efficient method of providing health care to covered beneficiaries in that location. They shall submit their findings to Congress if these findings differ substantially from the findings upon which the Secretary made the decision to expand the CHAMPUS reform initiative.
+Evaluation of Certification.—The Comptroller General of the United States and the Director of theCongressional Budget Office shall evaluate each certification made by the Secretary of Defense under subsection (a) that expansion of the CHAMPUS reform initiative to another location is the most efficient method of providing health care to covered beneficiaries in that location. They shall submit their findings to Congress if these findings differ substantially from the findings upon which the Secretary made the decision to expand the CHAMPUS reform initiative.
 
 “(d)
 

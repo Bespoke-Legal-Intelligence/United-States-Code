@@ -16,9 +16,9 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-1988—Pub. L. 100–625 inserted “or television” after “radio” in first sentence.
+<b>1988</b>—Pub. L. 100–625 inserted “or television” after “radio” in first sentence.
 
 #### Effective Date of 1988 Amendment
 

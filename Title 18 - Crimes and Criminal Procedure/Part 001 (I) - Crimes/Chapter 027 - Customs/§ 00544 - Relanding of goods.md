@@ -16,13 +16,13 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1996—Pub. L. 104–294 amended Pub. L. 103–322, §330004(18). See 1994 Amendment note below.
+<b>1996</b>—Pub. L. 104–294 amended Pub. L. 103–322, §330004(18). See 1994 Amendment note below.
 
-1994—Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” in first par.
+<b>1994</b>—Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” in first par.
 
 Pub. L. 103–322, §330004(18), as amended by Pub. L. 104–294, §604(b)(23), struck out “Philippine Islands,” before “Virgin Islands” in last par.
 
-1955—Act June 30, 1955, inserted reference to Johnston Island in last par.
+<b>1955</b>—Act June 30, 1955, inserted reference to Johnston Island in last par.
 
 #### Effective Date of 1996 Amendment
 

@@ -8,7 +8,3 @@ Without regard to the provisions of title 5 governing appointments in the compet
 
 (June 25, 1938, ch. 675, §1004, formerly §903, as added Pub. L. 101–635, title III, §301, Nov. 28, 1990, 104 Stat. 4584; renumbered §904, Pub. L. 103–43, title XX, §2006(1), June 10, 1993, 107 Stat. 209; renumbered §1004, Pub. L. 111–31, div. A, title I, §101(b)(2), June 22, 2009, 123 Stat. 1784.)
 
-#### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in text, are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-

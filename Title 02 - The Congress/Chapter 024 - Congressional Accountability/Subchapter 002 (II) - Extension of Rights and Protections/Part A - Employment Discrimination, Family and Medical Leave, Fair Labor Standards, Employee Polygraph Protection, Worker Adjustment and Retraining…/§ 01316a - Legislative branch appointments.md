@@ -16,13 +16,13 @@ The rights and protections established under section 2108, sections 3309 through
 
 #### (B) Procedure
 
-&emsp;The procedure for consideration of alleged violations of paragraph (2) shall be the same as apply under section 401 of the Congressional Accountability Act of 1995 \[2 U.S.C. 1401\] (and the provisions of law referred to therein) in the case of an alleged violation of part A of title II of such Act \[2 U.S.C. 1311 et seq.\].
+&emsp;The procedure for consideration of alleged violations of paragraph (2) shall be the sameas apply under section 401 of the Congressional Accountability Act of 1995 \[2 U.S.C. 1401\] (and the provisions of law referred to therein) in the case of an alleged violation of part A of title II of such Act \[2 U.S.C. 1311 et seq.\].
 
 #### (4) Regulations to implement section
 
 #### (A) In general
 
-&emsp;The Board shall, pursuant to section 304 of the Congressional Accountability Act of 1995\(2 U.S.C. 1384), issue regulations to implement this section.
+&emsp;The Board shall, pursuant to section 304 of the Congressional Accountability Act of 1995 (2 U.S.C. 1384), issue regulations to implement this section.
 
 #### (B) Agency regulations
 
@@ -50,7 +50,7 @@ Paragraphs (2) and (3) shall be effective as of the effective date of the regula
 
 #### References in Text
 
-The Congressional Accountability Act of 1995, referred to in par. (3)(B), is Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, as amended. Part A of title II of the Act enacted this part and amended section 6381 of Title 5, Government Organization and Employees, sections 203, 633a, 2611, and 2617 of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare. For complete classification of part A to the Code, see Tables.
+The Congressional Accountability Act of 1995, referred to in par. (3)(B), is Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3. Part A (§§201–207) of title II of the Act is classified principally to this part. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
 #### Codification
 

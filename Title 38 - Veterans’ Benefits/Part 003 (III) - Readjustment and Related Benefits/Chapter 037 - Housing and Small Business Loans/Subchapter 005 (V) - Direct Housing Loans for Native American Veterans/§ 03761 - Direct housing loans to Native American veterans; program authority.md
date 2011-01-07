@@ -8,7 +8,7 @@
 
 #### Amendments
 
-2006—Pub. L. 109–233, §103(f)(2), amended section catchline generally, substituting “Direct housing loans to Native American veterans; program authority” for “Pilot program”.
+<b>2006</b>—Pub. L. 109–233, §103(f)(2), amended section catchline generally, substituting “Direct housing loans to Native American veterans; program authority” for “Pilot program”.
 
 Subsec. (a). Pub. L. 109–233, §103(a)(1), struck out “establish and implement a pilot program under which the Secretary may” before “make direct housing loans” and substituted “shall make such loans” for “shall establish and implement the pilot program”.
 
@@ -16,11 +16,11 @@ Subsec. (b). Pub. L. 109–233, §103(a)(2), substituted “The” for “In car
 
 Subsec. (c). Pub. L. 109–233, §103(a)(3), struck out subsec. (c) which read as follows: “No loans may be made under this subchapter after December 31, 2008.”
 
-2004—Subsec. (c). Pub. L. 108–454 substituted “December 31, 2008” for “December 31, 2005”.
+<b>2004</b>—Subsec. (c). Pub. L. 108–454 substituted “December 31, 2008” for “December 31, 2005”.
 
-2001—Subsec. (c). Pub. L. 107–103 substituted “December 31, 2005” for “December 31, 2001”.
+<b>2001</b>—Subsec. (c). Pub. L. 107–103 substituted “December 31, 2005” for “December 31, 2001”.
 
-1997—Subsec. (c). Pub. L. 105–114 substituted “December 31, 2001” for “September 30, 1997”.
+<b>1997</b>—Subsec. (c). Pub. L. 105–114 substituted “December 31, 2001” for “September 30, 1997”.
 
 #### Consultation With Advisory Committee on Native-American Veterans
 
@@ -28,7 +28,7 @@ Pub. L. 102–547, §8(b), Oct. 28, 1992, 106 Stat. 3640, which required the Sec
 
 #### Annual Reports on Pilot Program
 
-Pub. L. 102–547, §8(d), Oct. 28, 1992, 106 Stat. 3640, directed Secretary of Veterans Affairs to transmit report relating to implementation of Native American veterans direct housing loan pilot program established under this subchapter to Committees on Veterans’ Affairs of Senate and House of Representatives not later than Feb. 1 of each of years 1994 through 1998, prior to repealby Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
+Pub. L. 102–547, §8(d), Oct. 28, 1992, 106 Stat. 3640, directed Secretary of Veterans Affairs to transmit report relating to implementation of Native American veterans direct housing loan pilot program established under this subchapter to Committees on Veterans’ Affairs of Senate and House of Representatives not later than Feb. 1 of each of years 1994 through 1998, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
 
 #### Authorization of Appropriations for Native American Veteran Housing Loans
 

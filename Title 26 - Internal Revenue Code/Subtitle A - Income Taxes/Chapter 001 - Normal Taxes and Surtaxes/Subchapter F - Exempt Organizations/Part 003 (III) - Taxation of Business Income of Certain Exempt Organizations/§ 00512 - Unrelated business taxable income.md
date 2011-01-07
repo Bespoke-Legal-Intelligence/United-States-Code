@@ -210,7 +210,7 @@ Qualifying specified payment.—The term “qualifying specified payment” mean
 
 &emsp;&emsp;&emsp;(iv)
 
-Termination.—This subparagraph shall not apply to payments received or accrued after December 31, 2009.
+Termination.—This subparagraph shall not apply to payments received or accrued after December 31, 2011.
 
 &emsp;&emsp;(F)
 
@@ -226,7 +226,7 @@ Related persons.—The Secretary shall prescribe such rules as may be necessary 
 
 &emsp;&emsp;(C) less than 10 percent of the net income of which for each taxable year is used for activities which are not related to the purpose constituting the basis for the religious order's exemption,
 
-> &emsp;there shall be excluded all gross income derived from such trade or business and all deductions directly connected with the carryingon of such trade or business, so long as it is established to the satisfaction of the Secretary that the rates or other charges for such services are competitive with rates or other charges charged for similar services by persons not exempt from taxation.
+> &emsp;there shall be excluded all gross income derived from such trade or business and all deductions directly connected with the carrying on of such trade or business, so long as it is established to the satisfaction of the Secretary that the rates or other charges for such services are competitive with rates or other charges charged for similar services by persons not exempt from taxation.
 
 &emsp;(16)(A) Notwithstanding paragraph (5)(B), there shall be excluded all gains or losses from the sale, exchange, or other disposition of any real property described in subparagraph (B) if—
 
@@ -234,7 +234,7 @@ Related persons.—The Secretary shall prescribe such rules as may be necessary 
 
 &emsp;&emsp;&emsp;(I) a financial institution described in section 581 or 591(a) which is in conservatorship or receivership, or
 
-&emsp;&emsp;&emsp;(II) the conservator or receiver of such an institution (or any government agency or corporation succeeding to the rights or interests of the conservator or receiver),
+&emsp;&emsp;&emsp;(II) the conservator or receiver of such an institution (or any government agencyor corporation succeeding to the rights or interests of the conservator or receiver),
 
 &emsp;&emsp;(ii) such property is designated by the organization within the 9-month period beginning on the date of its acquisition as property held for sale, except that not more than one-half (by value determined as of such date) of property acquired in a single transaction may be so designated,
 
@@ -368,7 +368,7 @@ Request for certification.—Any request by an eligible taxpayer for a certifica
 
 &emsp;&emsp;&emsp;(iii)
 
-Attachment to tax returns.—A copy of each of the requests for certification described in clause (ii) of subparagraph (C) and this subparagraph shall be included in the tax return of the eligible taxpayer (and, where applicable, of the qualifying partnership) for the taxable year during which the transfer occurs.
+Attachment to tax returns.—A copy of each of the requests for certification described in clause (ii) of subparagraph (C) and this subparagraph shall be included in the tax return of the eligibletaxpayer (and, where applicable, of the qualifying partnership) for the taxable year during which the transfer occurs.
 
 &emsp;&emsp;&emsp;(iv)
 
@@ -424,7 +424,7 @@ Qualifying partnership.—The term “qualifying partnership” means a partners
 
 &emsp;&emsp;&emsp;&emsp;(II) satisfies the requirements of subparagraphs (B)(i), (C), (D), and (E), if “qualified partnership” is substituted for “eligible taxpayer” each place it appears therein (except subparagraph (D)(iii)), and
 
-&emsp;&emsp;&emsp;&emsp;(III) is not an organization which would be prevented from constituting aneligible taxpayer by reason of subparagraph (B)(ii).
+&emsp;&emsp;&emsp;&emsp;(III) is not an organization which would be prevented from constituting an eligible taxpayer by reason of subparagraph (B)(ii).
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -532,7 +532,7 @@ Termination.—Except for purposes of determining the average eligible remediati
 
 &emsp;This subsection shall not apply to employer securities (within the meaning of section 409(<i>l</i>)) held by an employee stock ownership plan described in section 4975(e)(7).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 170; Pub. L. 85–367, §1(a), Apr. 7, 1958, 72 Stat. 80; Pub. L. 88–380, §1, July 17, 1964, 78 Stat. 333; Pub. L. 89–809, title I, §104(g), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, §121(b)(1), (2), Dec. 30, 1969, 83 Stat. 537, 538; Pub. L. 92–418, §1(b), Aug. 29, 1972, 86 Stat. 656; Pub. L. 94–396, §1(a), Sept. 3, 1976, 90 Stat. 1201; Pub. L. 94–455, title XIX, §§1901(b)(8)(F), 1906(b)(13)(A), 1951(b)(8)(A), Oct. 4, 1976, 90 Stat. 1794, 1834, 1839; Pub. L. 94–568, §1(b), Oct. 20, 1976, 90 Stat. 2697; Pub. L. 95–345, §2(a)(2), (b), Aug. 15, 1978, 92 Stat. 481; Pub. L. 97–448, title I, §102(m)(3), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title V, §511(b), July 18, 1984, 98 Stat. 860; Pub. L. 99–514, title XVIII, §1851(a)(10), Oct. 22, 1986, 100 Stat. 2861; Pub. L. 100–203, title X, §10213(a), Dec. 22, 1987, 101 Stat. 1330–406; Pub. L. 100–647, title I, §1018(t)(2)(B), Nov. 10, 1988, 102 Stat. 3587; Pub. L. 101–508, title XI, §11801(a)(23), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §§13145(a), 13147(a), 13148(a), (b), Aug. 10, 1993, 107 Stat. 443, 444; Pub. L. 104–188, title I, §§1115(a), 1316(c), 1603(a), Aug. 20, 1996, 110 Stat. 1761, 1786, 1835; Pub. L. 105–34, title III, §312(d)(5), title X, §1041(a), title XV, §1523(a), title XVI, §1601(c)(4)(A), (D), Aug. 5, 1997, 111 Stat. 840, 938, 1070, 1087; Pub. L. 105–206, title VI, §§6010(j)(1), (2), 6023(8), July 22, 1998, 112 Stat. 815, 825; Pub. L. 108–357, title II, §233(d), title III, §319(c), title VII, §702(a), Oct. 22, 2004, 118 Stat. 1434, 1472, 1540; Pub. L. 109–135, title IV, §412(dd), (ee)(1), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title XII, §1205(a), Aug. 17, 2006, 120 Stat. 1066; Pub. L. 110–343, div. C, title III, §306(a), Oct. 3, 2008, 122 Stat. 3868.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 170; Pub. L. 85–367, §1(a), Apr. 7, 1958, 72 Stat. 80; Pub. L. 88–380, §1, July 17, 1964, 78 Stat. 333; Pub. L. 89–809, title I, §104(g), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, §121(b)(1), (2), Dec. 30, 1969, 83 Stat. 537, 538; Pub. L. 92–418, §1(b), Aug. 29, 1972, 86 Stat. 656; Pub. L. 94–396, §1(a), Sept. 3, 1976, 90 Stat. 1201; Pub. L. 94–455, title XIX, §§1901(b)(8)(F), 1906(b)(13)(A), 1951(b)(8)(A), Oct. 4, 1976, 90 Stat. 1794, 1834, 1839; Pub. L. 94–568, §1(b), Oct. 20, 1976, 90 Stat. 2697; Pub. L. 95–345, §2(a)(2), (b), Aug. 15, 1978, 92 Stat. 481; Pub. L. 97–448, title I, §102(m)(3), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title V, §511(b), July 18, 1984, 98 Stat. 860; Pub. L. 99–514, title XVIII, §1851(a)(10), Oct. 22, 1986, 100 Stat. 2861; Pub. L. 100–203, title X, §10213(a), Dec. 22, 1987, 101 Stat. 1330–406; Pub. L. 100–647, title I, §1018(t)(2)(B), Nov. 10, 1988, 102 Stat. 3587; Pub. L. 101–508, title XI, §11801(a)(23), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §§13145(a), 13147(a), 13148(a), (b), Aug. 10, 1993, 107 Stat. 443, 444; Pub. L. 104–188, title I, §§1115(a), 1316(c), 1603(a), Aug. 20, 1996, 110 Stat. 1761, 1786, 1835; Pub. L. 105–34, title III, §312(d)(5), title X, §1041(a), title XV, §1523(a), title XVI, §1601(c)(4)(A), (D), Aug. 5, 1997, 111 Stat. 840, 938, 1070, 1087; Pub. L. 105–206, title VI, §§6010(j)(1), (2), 6023(8), July 22, 1998, 112 Stat. 815, 825; Pub. L. 108–357, title II, §233(d), title III, §319(c), title VII, §702(a), Oct. 22, 2004, 118 Stat. 1434, 1472, 1540; Pub. L. 109–135, title IV, §412(dd), (ee)(1), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title XII, §1205(a), Aug. 17, 2006, 120 Stat. 1066; Pub. L. 110–343, div. C, title III, §306(a), Oct. 3, 2008, 122 Stat. 3868; Pub. L. 111–312, title VII, §747(a), Dec. 17, 2010, 124 Stat. 3320.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -552,27 +552,29 @@ The date of the enactment of this paragraph, referred to in subsec. (b)(19)(C)(i
 
 #### Amendments
 
-2008—Subsec. (b)(13)(E)(iv). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2007”.
+<b>2010</b>—Subsec. (b)(13)(E)(iv). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
 
-2006—Subsec. (b)(13)(E), (F). Pub. L. 109–280, which directed the amendment of section 512(b)(13) by adding subpar. (E) and redesignating former subpar. (E) as (F), without specifying the act to be amended, was executed by making the amendments to this section, which is section 512 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+<b>2008</b>—Subsec. (b)(13)(E)(iv). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2007”.
 
-2005—Subsec. (b)(1). Pub. L. 109–135, §412(dd), substituted “subsection (a)(5)” for “section 512(a)(5)”.
+<b>2006</b>—Subsec. (b)(13)(E), (F). Pub. L. 109–280, which directed the amendment of section 512(b)(13) by adding subpar. (E) and redesignating former subpar. (E) as (F), without specifying the act to be amended, was executed by making the amendments to this section, which is section 512 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–135, §412(dd), substituted “subsection (a)(5)” for “section 512(a)(5)”.
 
 Subsec. (b)(18), (19). Pub. L. 109–135, §412(ee)(1), redesignated par. (18), relating to treatment of gain or loss on sale or exchange of certain brownfield sites, as (19).
 
-2004—Subsec. (b)(18). Pub. L. 108–357, §702(a), added par. (18) relating to treatment of gain or loss on sale or exchange of certain brownfield sites.
+<b>2004</b>—Subsec. (b)(18). Pub. L. 108–357, §702(a), added par. (18) relating to treatment of gain or loss on sale or exchange of certain brownfield sites.
 
 Pub. L. 108–357, §319(c), added par. (18) relating to treatment of mutual or cooperative electric companies.
 
 Subsec. (e)(1). Pub. L. 108–357, §233(d), inserted “1361(c)(2)(A)(vi) or” before “1361(c)(6)” in introductory provisions.
 
-1998—Subsec. (b)(13)(A). Pub. L. 105–206, §6010(j)(1), inserted “or accrues” after “receives” in first sentence.
+<b>1998</b>—Subsec. (b)(13)(A). Pub. L. 105–206, §6010(j)(1), inserted “or accrues” after “receives” in first sentence.
 
 Subsec. (b)(13)(B)(i)(I). Pub. L. 105–206, §6010(j)(2), struck out “(as defined in section 513A(a)(5)(A))” after “exempt purposes”.
 
 Subsec. (b)(17)(B)(ii)(II). Pub. L. 105–206, §6023(8), substituted “rule” for “Rule” in subcl. heading.
 
-1997—Subsec. (a)(3)(D). Pub. L. 105–34, §312(d)(5), inserted “(as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997)” after “1034”.
+<b>1997</b>—Subsec. (a)(3)(D). Pub. L. 105–34, §312(d)(5), inserted “(as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997)” after “1034”.
 
 Subsec. (b)(13). Pub. L. 105–34, §1041(a), amended par. (13) generally. Prior to amendment, par. (13) related to inclusion in gross income of controlling organization of amounts of interest, annuities, royalties, and rents derived from a controlled organization.
 
@@ -582,13 +584,13 @@ Subsec. (e)(2). Pub. L. 105–34, §1601(c)(4)(A), substituted “as defined in 
 
 Subsec. (e)(3). Pub. L. 105–34, §1523(a), added par. (3).
 
-1996—Subsec. (b)(17). Pub. L. 104–188, §1603(a), added par. (17).
+<b>1996</b>—Subsec. (b)(17). Pub. L. 104–188, §1603(a), added par. (17).
 
 Subsec. (d). Pub. L. 104–188, §1115(a), added subsec. (d).
 
 Subsec. (e). Pub. L. 104–188, §1316(c), added subsec. (e).
 
-1993—Subsec. (b)(1). Pub. L. 103–66, §13148(a), inserted “amounts received or accrued as consideration for entering into agreements to make loans,” before “and annuities”.
+<b>1993</b>—Subsec. (b)(1). Pub. L. 103–66, §13148(a), inserted “amounts received or accrued as consideration for entering into agreements to make loans,” before “and annuities”.
 
 Subsec. (b)(5). Pub. L. 103–66, §13148(b), in second sentence, substituted “all gains or losses recognized, in connection with the organization's investment activities, from” for “all gains on”, struck out “, written by the organization in connection with its investment activities,” after “termination of options”, and inserted before period at end “or real property and all gains or losses from the forfeiture of good-faith deposits (that are consistent with established business practice) for the purchase, sale, or lease of real property in connection with the organization's investment activities”.
 
@@ -600,19 +602,19 @@ Subsec. (c)(2), (3). Pub. L. 103–66, §13145(a), redesignated par. (3) as (2),
 
 &emsp;“(B) such organization's share of the partnership deductions shall be allowed in computing unrelated business taxable income.”
 
-1990—Subsec. (b)(14). Pub. L. 101–508 struck out par. (14) which read as follows: “Except as provided in paragraph (4), in the case of a church, or convention or association of churches, for taxable years beginning before January 1, 1976, there shall be excluded all gross income derived from a trade or business and all deductions directly connected with the carrying on of such trade or business if such trade or business was carried on by such organization or its predecessor before May 27, 1969.”
+<b>1990</b>—Subsec. (b)(14). Pub. L. 101–508 struck out par. (14) which read as follows: “Except as provided in paragraph (4), in the case of a church, or convention or association of churches, for taxable years beginning before January 1, 1976, there shall be excluded all gross income derived from a trade or business and all deductions directly connected with the carrying on of such trade or business if such trade or business was carried on by such organization or its predecessor before May 27, 1969.”
 
-1988—Subsec. (a)(3)(E)(ii)(II). Pub. L. 100–647 substituted “subclause (I)” for “subclause (II)” and a period for comma at end.
+<b>1988</b>—Subsec. (a)(3)(E)(ii)(II). Pub. L. 100–647 substituted “subclause (I)” for “subclause (II)” and a period for comma at end.
 
-1987—Subsec. (c). Pub. L. 100–203 substituted “for partnerships” for “applicable to partnerships” in heading and amended text generally. Prior to amendment, text read as follows: “If a trade or business regularly carried on by a partnership of which an organization is a member is an unrelated trade or business with respect to such organization, such organization in computing its unrelated business taxable income shall, subject to the exceptions, additions, and limitations contained in subsection (b), include its share (whether or not distributed) of the gross income of the partnership from such unrelated trade or business and its share of the partnership deductions directly connected with such gross income. If the taxable year of the organization is different from that of the partnership, the amounts to be so included or deducted in computing the unrelated business taxable income shall be based upon the income and deductions of the partnership for any taxable year of the partnership ending within or with the taxable year of the organization.”
+<b>1987</b>—Subsec. (c). Pub. L. 100–203 substituted “for partnerships” for “applicable to partnerships” in heading and amended text generally. Prior to amendment, text read as follows: “If a trade or business regularly carried on by a partnership of which an organization is a member is an unrelated trade or business with respect to such organization, such organization in computing its unrelated business taxable income shall, subject to the exceptions, additions, and limitations contained in subsection (b), include its share (whether or not distributed) of the gross income of the partnership from such unrelated trade or business and its share of the partnership deductions directly connected with such gross income. If the taxable year of the organization is different from that of the partnership, the amounts to be so included or deducted in computing the unrelated business taxable income shall be based upon the income and deductions of the partnership for any taxable year of the partnership ending within or with the taxable year of the organization.”
 
-1986—Subsec. (a)(3)(E)(i). Pub. L. 99–514, §1851(a)(10)(A), substituted “determined under section 419A (without regard to subsection (f)(6) thereof)” for “determined under section 419A(c)”.
+<b>1986</b>—Subsec. (a)(3)(E)(i). Pub. L. 99–514, §1851(a)(10)(A), substituted “determined under section 419A (without regard to subsection (f)(6) thereof)” for “determined under section 419A(c)”.
 
 Subsec. (a)(3)(E)(ii). Pub. L. 99–514, §1851(a)(10)(B), (C), redesignated cl. (iii) as (ii), in subcl. I substituted “an existing reserve” for “a existing reserve”, and substituted new subcl. (II) for former subcl. (II) which read as follows: “For purposes of subclause (I), the term ‘existing reserve or post-retirement medical or life insurance benefit’ means the amount of assets set aside as of the close of the last plan year ending before the date of the enactment of the Tax Reform Act of 1984 for purposes of post-retirement medical benefits or life insurance benefits to be provided to covered employees.” Former cl. (ii), which provided that no set aside for assets used in the provision of benefits described in cl. (ii) of subpar. (B), could be taken into account, was struck out.
 
 Subsec. (a)(3)(E)(iii), (iv). Pub. L. 99–514, §1851(a)(10)(B), (D), redesignated former cl. (iv) as (iii) and substituted “subparagraph shall not” for “paragraph shall not”. Former cl. (iii) redesignated (ii).
 
-1984—Subsec. (a)(3). Pub. L. 98–369, §511(b)(1)(A), substituted “paragraph (7), (9), (17), or (20) of section 501(c)” for “section 501(c)(7) or (9)” wherever appearing in heading and in text.
+<b>1984</b>—Subsec. (a)(3). Pub. L. 98–369, §511(b)(1)(A), substituted “paragraph (7), (9), (17), or (20) of section 501(c)” for “section 501(c)(7) or (9)” wherever appearing in heading and in text.
 
 Subsec. (a)(3)(B)(ii). Pub. L. 98–369, §511(b)(1)(B), substituted “paragraph (9), (17), or (20) of section 501(c)” for “section 501(c)(9)”.
 
@@ -620,13 +622,13 @@ Subsec. (a)(3)(C), (D). Pub. L. 98–369, §511(b)(1)(A), substituted in subpars
 
 Subsec. (a)(3)(E). Pub. L. 98–369, §511(b)(2), added subpar. (E).
 
-1983—Subsec. (b)(10). Pub. L. 97–448 substituted “10 percent” for “5 percent”.
+<b>1983</b>—Subsec. (b)(10). Pub. L. 97–448 substituted “10 percent” for “5 percent”.
 
-1978—Subsec. (a)(5). Pub. L. 95–345, §2(b), added par. (5).
+<b>1978</b>—Subsec. (a)(5). Pub. L. 95–345, §2(b), added par. (5).
 
 Subsec. (b)(1). Pub. L. 95–345, §2(a)(2), inserted provision relating to payments with respect to securities loans.
 
-1976—Subsec. (a)(3)(A). Pub. L. 94–568 provided that for purposes of the general rule, the deductions provided by sections 243, 244, and 245 (relating to dividends received by corporations) shall be treated as not directly connected with the production of gross income.
+<b>1976</b>—Subsec. (a)(3)(A). Pub. L. 94–568 provided that for purposes of the general rule, the deductions provided by sections 243, 244, and 245 (relating to dividends received by corporations) shall be treated as not directly connected with the production of gross income.
 
 Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -638,9 +640,9 @@ Subsec. (b)(15). Pub. L. 94–455, §§1901(b)(8)(F), 1906(b)(13)(A), 1951(b)(8)
 
 Subsec. (b)(16), (17). Pub. L. 94–455, §1951(b)(8)(A), redesignated pars. (16) and (17) as (14) and (15), respectively.
 
-1972—Subsec. (a)(4). Pub. L. 92–418 added par. (4).
+<b>1972</b>—Subsec. (a)(4). Pub. L. 92–418 added par. (4).
 
-1969—Subsec. (a). Pub. L. 91–172, §121(b)(1), designated existing provisions as pars. (1) and (2)(B) and added pars. (2)(A) and (3).
+<b>1969</b>—Subsec. (a). Pub. L. 91–172, §121(b)(1), designated existing provisions as pars. (1) and (2)(B) and added pars. (2)(A) and (3).
 
 Subsec. (b). Pub. L. 91–172, §121(b)(2)(D), substituted “Modifications” for “Exceptions, additions, and limitations”, in heading, and, in text preceding par. (1) substituted “The modifications referred to in subsection (a)” for “The exceptions, additions, and limitations applicable in determining unrelated business taxable income”.
 
@@ -656,11 +658,15 @@ Subsec. (b)(12). Pub. L. 91–172, §121(b)(2)(B), made the allowance of the spe
 
 Subsec. (b)(15) to (17). Pub. L. 91–172, §121(b)(2)(C), added pars. (15) to (17).
 
-1966—Subsec. (a). Pub. L. 89–809 substituted “, the unrelated business taxable income shall be its unrelated business taxable income which is effectively connected with the conduct of a trade or business within the United States” for “, the unrelated business taxable income shall be its unrelated business taxable income derived from sources within the United States determined under subchapter N (sec. 861 and following), relating to tax based on income from sources within or without the United States”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–809 substituted “, the unrelated business taxable income shall be its unrelated business taxable income which is effectively connected with the conduct of a trade or business within the United States” for “, the unrelated business taxable income shall be its unrelated business taxable income derived from sources within the United States determined under subchapter N (sec. 861 and following), relating to tax based on income from sources within or without the United States”.
 
-1964—Subsec. (b)(14). Pub. L. 88–380 added par. (14).
+<b>1964</b>—Subsec. (b)(14). Pub. L. 88–380 added par. (14).
 
-1958—Subsec. (b)(13). Pub. L. 85–367 added par. (13).
+<b>1958</b>—Subsec. (b)(13). Pub. L. 85–367 added par. (13).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title VII, §747(b), Dec. 17, 2010, 124 Stat. 3320, provided that: “The amendment made by this section \[amending this section\] shall apply to payments received or accrued after December 31, 2009.”
 
 #### Effective Date of 2008 Amendment
 
@@ -700,7 +706,7 @@ Binding contracts.—The amendments made by this section shall not apply to any 
 
 Section 1523(b) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
 
-Amendment by section 1601(c)(4)(A), (D) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by section 1601(c)(4)(A), (D) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -1,6 +1,6 @@
 ### §1321. Eligibility requirements for transfer of funds; reimbursement by State; application; certification; limitation
 
-(a)(1) Advances shall be made to the States from the Federal unemployment account in theUnemployment Trust Fund as provided in this section, and shall be repayable, with interest to the extent provided in section 1322(b) of this title, in the manner provided in sections 1101(d)(1), 1103(b)(2), and 1322 of this title. An advance to a State for the payment of compensation in any 3-month period may be made if—
+(a)(1) Advances shall be made to the States from the Federal unemployment account in the Unemployment Trust Fund as provided in this section, and shall be repayable, with interest to the extent provided in section 1322(b) of this title, in the manner provided in sections 1101(d)(1), 1103(b)(2), and 1322 of this title. An advance to a State for the payment of compensation in any 3-month period may be made if—
 
 &emsp;(A) the Governor of the State applies therefor no earlier than the first day of the month preceding the first month of such 3-month period, and
 
@@ -28,25 +28,25 @@
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1981—Subsec. (a)(1). Pub. L. 97–35 substituted “with interest to the extent provided in section 1322(b) of this title” for “without interest”.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–35 substituted “with interest to the extent provided in section 1322(b) of this title” for “without interest”.
 
-1976—Subsec. (a)(1). Pub. L. 94–566, §213(a), substituted “any 3-month period” for “any month” in provisions preceding subpar. (A), “the month preceding the first month of such 3-month period” for “the preceding month” in subpar. (A), and “each month of such 3-month period” for “such month” in subpar. (B).
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–566, §213(a), substituted “any 3-month period” for “any month” in provisions preceding subpar. (A), “the month preceding the first month of such 3-month period” for “the preceding month” in subpar. (A), and “each month of such 3-month period” for “such month” in subpar. (B).
 
 Subsec. (a)(2). Pub. L. 94–566, §213(b), substituted “any 3-month period” for “any month” in provisions preceding subpar. (A) and following subpar. (B), and “each month of such 3-month period” for “such month” in subpar. (A) and provisions following subpar. (B).
 
 Subsec. (b). Pub. L. 94–566, §213(c), provided that the transfer of amounts by the Secretary of the Treasury from the Federal unemployment account to the account of the States in the Unemployment Trust Fund be made in monthly installments and that the amount of any monthly installment so transferred not exceed the amount estimated by the State to be required for the payment of compensation for the month with respect to which the installment is made.
 
-1960—Subsec. (a). Pub. L. 86–778 amended subsec. (a) generally, substituting provisions relating to advances on a monthly basis upon application of the Governor and the furnishing of an estimate of amount of requisite advance and determination and certification by the Secretary of Labor of the requisite amount limited to a sum which is available in the Federal unemployment account for advances for the month for former provisions relating to advances on a quarterly basis upon application of the Governor for a specified amount not to exceed the highest total compensation paid out under the unemployment compensation law of the State during any one of the four calendar quarters preceding the quarter in which the application is made, where the balance in the unemployment fund of the State in the Unemployment Trust Fund at the close of Sept. 30, 1953, or the last day in any ensuing calendar quarter is less than the total compensation paid out under the unemployment compensation law of the State during the twelve-month period at the close of such day; incorporating former provisions of subsec. (b), relating to repayment of advances, in par. (1), inserting provision for repayment under section 1103(b)(2) of this title, and provisions formerly designated as cl. (A) and (B) in par. (3)(A) and (C); and adding par. (3)(B).
+<b>1960</b>—Subsec. (a). Pub. L. 86–778 amended subsec. (a) generally, substituting provisions relating to advances on a monthly basis upon application of the Governor and the furnishing of an estimate of amount of requisite advance and determination and certification by the Secretary of Labor of the requisite amount limited to a sum which is available in the Federal unemployment account for advances for the month for former provisions relating to advances on a quarterly basis upon application of the Governor for a specified amount not to exceed the highest total compensation paid out under the unemployment compensation law of the State during any one of the four calendar quarters preceding the quarter in which the application is made, where the balance in the unemployment fund of the State in the Unemployment Trust Fund at the close of Sept. 30, 1953, or the last day in any ensuing calendar quarter is less than the total compensation paid out under the unemployment compensation law of the State during the twelve-month period at the close of such day; incorporating former provisions of subsec. (b), relating to repayment of advances, in par. (1), inserting provision for repayment under section 1103(b)(2) of this title, and provisions formerly designated as cl. (A) and (B) in par. (3)(A) and (C); and adding par. (3)(B).
 
 Subsec. (b). Pub. L. 86–778 amended subsec. (b) generally, striking out provision for repayment of advances which is now incorporated in subsec. (a)(1) in the reference to repayment under sections 1101(d)(1) and 1322 of this title.
 
-1954—Act Aug. 5, 1954, amended section generally to provide that: (1) the first condition of eligibility for an advance is that the balance in the State unemployment fund at the close of a calendar quarter be less than the total of cash payments made by the State to individuals during the 12-month period which ends with such quarter; (2) the Governor of the State must apply for anadvance during the quarter following the quarter specified in paragraph (1) of this section; and (3) the total amount certified for any one application may not exceed the amount paid out by the State for cash benefits in that particular quarter.
+<b>1954</b>—Act Aug. 5, 1954, amended section generally to provide that: (1) the first condition of eligibility for an advance is that the balance in the State unemployment fund at the close of a calendar quarter be less than the total of cash payments made by the State to individuals during the 12-month period which ends with such quarter; (2) the Governor of the State must apply for an advance during the quarter following the quarter specified in paragraph (1) of this section; and (3) the total amount certified for any one application may not exceed the amount paid out by the State for cash benefits in that particular quarter.
 
-1950—Subsec. (a). Act Aug. 28, 1950, substituted “January 1, 1952” for “January 1, 1950”.
+<b>1950</b>—Subsec. (a). Act Aug. 28, 1950, substituted “January 1, 1952” for “January 1, 1950”.
 
-1947—Subsec. (a). Act Aug. 6, 1947, substituted “June 30, 1947” for “June 30, 1945” and “January 1, 1950” for “July 1, 1947”.
+<b>1947</b>—Subsec. (a). Act Aug. 6, 1947, substituted “June 30, 1947” for “June 30, 1945” and “January 1, 1950” for “July 1, 1947”.
 
 #### Effective Date of 1976 Amendment
 
@@ -64,7 +64,7 @@ Section 4 of act Aug. 6, 1947, provided that: “Section 603 of the War Mobiliza
 
 Pub. L. 86–778, title V, §522(b), Sept. 13, 1960, 74 Stat. 979, provided that:
 
-“(1) No amount shall be transferred on or after the date of the enactment of this Act \[Sept. 13, 1960\] from the Federal unemployment account to the account of any State in the Unemployment Trust Fund pursuant to any application made under section 1201(a) of the Social Security Act \[subsec. (a) of this section\] as in effect before such date; except that, if—
+“(1) No amount shall be transferred on or after the date of the enactment of this Act \[Sept. 13, 1960\] fromthe Federal unemployment account to the account of any State in the Unemployment Trust Fund pursuant to any application made under section 1201(a) of the Social Security Act \[subsec. (a) of this section\] as in effect before such date; except that, if—
 
 &emsp;“(A) some but not all of an amount certified by the Secretary of Labor to the Secretary of the Treasury for transfer to the account of any State was transferred to such account before such date, and
 

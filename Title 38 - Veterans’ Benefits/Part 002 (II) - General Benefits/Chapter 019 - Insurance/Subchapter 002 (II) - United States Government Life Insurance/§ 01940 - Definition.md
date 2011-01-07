@@ -6,5 +6,5 @@ For the purposes of this subchapter, the term “insurance” means United State
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 740 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 740 of this title as this section.
 

@@ -10,7 +10,7 @@ Consultation and negotiation.—In developing and making changes to the personne
 
 &emsp;(2)
 
-Mediation.—If the Administrator does not reach an agreement under paragraph (1) with the exclusive bargaining representatives, the services of the Federal Mediation and Conciliation Service shall be used to attempt to reach such agreement. If the services of the Federal Mediation and Conciliation Service do not lead to an agreement, the Administrator's proposed change to the personnel management system shall not take effect until 60 days have elapsed after the Administrator has transmitted the proposed change, along with the objections of the exclusive bargaining representatives to the change, and the reasons for such objections, to Congress. The 60-day period shall not include any period during which Congress has adjourned sine die.
+Mediation.—If the Administrator does not reach an agreement under paragraph (1) with the exclusive bargaining representatives,the services of the Federal Mediation and Conciliation Service shall be used to attempt to reach such agreement. If the services of the Federal Mediation and Conciliation Service do not lead to an agreement, the Administrator's proposed change to the personnel management system shall not take effect until 60 days have elapsed after the Administrator has transmitted the proposed change, along with the objections of the exclusive bargaining representatives to the change, and the reasons for such objections, to Congress. The 60-day period shall not include any period during which Congress has adjourned sine die.
 
 &emsp;(3)
 
@@ -82,7 +82,7 @@ Right To Contest Adverse Personnel Actions.—An employee of the Federal Aviatio
 
 (i)
 
-Election of Forum.—Where a major adverse personnel action may be contested through more than one of the indicated forums (such as the contractual grievance procedure, the Federal Aviation Administration's internal process, or that of the Merit Systems Protection Board), an employee must elect the forum through which the matter will be contested. Nothing in this section is intended to allow an employee to contest an action through more than one forum unless otherwise allowed by law.
+Election of Forum.—Where a major adverse personnel action may be contested through more than one of the indicated forums (such as the contractual grievance procedure, the Federal Aviation Administration's internal process, or that of the Merit Systems Protection Board), an employee must elect the forumthrough which the matter will be contested. Nothing in this section is intended to allow an employee to contest an action through more than one forum unless otherwise allowed by law.
 
 (j)
 
@@ -98,7 +98,7 @@ The effective date of the Air Traffic Management System Performance Improvement 
 
 #### Amendments
 
-2000—Subsec. (a)(2). Pub. L. 106–181, §308(a), inserted at end “The 60-day period shall not include any period during which Congress has adjourned sine die.”
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–181, §308(a), inserted at end “The 60-day period shall not include any period during which Congress has adjourned sine die.”
 
 Subsec. (g). Pub. L. 106–181, §307(a), added subsec. (g).
 
@@ -113,4 +113,8 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 Section effective on date that is 30 days after Oct. 9, 1996, see section 203 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
 
 Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
+
+#### Deemed References to Chapters 509 and 511 of Title 51
+
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 

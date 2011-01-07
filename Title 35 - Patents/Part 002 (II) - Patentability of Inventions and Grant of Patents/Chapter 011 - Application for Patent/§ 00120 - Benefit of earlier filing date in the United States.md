@@ -10,11 +10,11 @@ This section represents present law not expressed in the statute, except for the
 
 #### Amendments
 
-1999—Pub. L. 106–113 inserted at end “No application shall be entitled to the benefit of an earlier filed application under this section unless an amendment containing the specific reference to the earlier filed application is submitted at such time during the pendency of the application as required by the Director. The Director may consider the failure to submit such an amendment within that time period as a waiver of any benefit under this section. The Director may establish procedures, including the payment of a surcharge, to accept an unintentionally delayed submission of an amendment under this section.”
+<b>1999</b>—Pub. L. 106–113 inserted at end “No application shall be entitled to the benefit of an earlier filed application under this section unless an amendment containing the specific reference to the earlier filed application is submitted at such time during the pendency of the application as required by the Director. The Director may consider the failure to submit such an amendment within that time period as a waiver of any benefit under this section. The Director may establish procedures, including the payment of a surcharge, to accept an unintentionally delayed submission of an amendment under this section.”
 
-1984—Pub. L. 98–622 substituted “which is filed by an inventor or inventors named in the previously filed application” for “by the same inventor”.
+<b>1984</b>—Pub. L. 98–622 substituted “which is filed by an inventor or inventors named in the previously filed application” for “by the same inventor”.
 
-1975—Pub. L. 94–131 inserted “, or as provided by section 363 of this title,” after “filed in the United States”.
+<b>1975</b>—Pub. L. 94–131 inserted “, or as provided by section 363 of this title,” after “filed in the United States”.
 
 #### Effective Date of 1999 Amendment
 

@@ -26,7 +26,12 @@
 | :--- | ---: |
 | [1509\.](Subchapter%20002%20%28II%29%20-%20Access%20of%20Foreign%20Representatives%20and%20Creditors%20to%20the%20Court/%C2%A7%2001509%20-%20Right%20of%20direct%20access.md) | Right of direct access. |
 | [1510\.](Subchapter%20002%20%28II%29%20-%20Access%20of%20Foreign%20Representatives%20and%20Creditors%20to%20the%20Court/%C2%A7%2001510%20-%20Limited%20jurisdiction.md) | Limited jurisdiction. |
-| [1511\.](Subchapter%20002%20%28II%29%20-%20Access%20of%20Foreign%20Representatives%20and%20Creditors%20to%20the%20Court/%C2%A7%2001511%20-%20Commencement%20of%20case%20under%20section%20301%20or%20303.md) | Commencement of case under section 301 or 303. |
+| [1511\.](Subchapter%20002%20%28II%29%20-%20Access%20of%20Foreign%20Representatives%20and%20Creditors%20to%20the%20Court/%C2%A7%2001511%20-%20Commencement%20of%20case%20under%20section%20301%2C%20302%2C%20or%20303.md) | Commencement of case under section 301 or 303.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [1512\.](Subchapter%20002%20%28II%29%20-%20Access%20of%20Foreign%20Representatives%20and%20Creditors%20to%20the%20Court/%C2%A7%2001512%20-%20Participation%20of%20a%20foreign%20representative%20in%20a%20case%20under%20this%20title.md) | Participation of a foreign representative in a case under this title. |
 | [1513\.](Subchapter%20002%20%28II%29%20-%20Access%20of%20Foreign%20Representatives%20and%20Creditors%20to%20the%20Court/%C2%A7%2001513%20-%20Access%20of%20foreign%20creditors%20to%20a%20case%20under%20this%20title.md) | Access of foreign creditors to a case under this title. |
 | [1514\.](Subchapter%20002%20%28II%29%20-%20Access%20of%20Foreign%20Representatives%20and%20Creditors%20to%20the%20Court/%C2%A7%2001514%20-%20Notification%20to%20foreign%20creditors%20concerning%20a%20case%20under%20this%20title.md) | Notification to foreign creditors concerning a case under this title. |
@@ -75,6 +80,8 @@
 #### Prior Provisions
 
 A prior chapter 15, consisting of sections 1501 to 151326, related to a pilot program for a United States trustee system, prior to repeal by Pub. L. 99–554, title II, §231, Oct. 27, 1986, 100 Stat. 3103.
+
+<i><sup>1</sup></i><i> So in original. Section catchline amended by Pub. L. 111–327 without corresponding amendment of chapter analysis.</i>
 
 
 ---

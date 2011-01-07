@@ -26,13 +26,13 @@
 
 #### Amendments
 
-1994—Subsec. (a)(2). Pub. L. 103–252, §311(c)(7)(A), struck out semicolon after “used” and inserted semicolon after “subchapter”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–252, §311(c)(7)(A), struck out semicolon after “used” and inserted semicolon after “subchapter”.
 
 Subsec. (a)(5). Pub. L. 103–252, §311(c)(7)(B), substituted “disabled or include young children” for “handicapped”.
 
-1986—Subsec. (b). Pub. L. 99–425 inserted provisions relating to report describing for prior fiscal year the manner of carrying out requirements of clauses of section 8624 of this title and impact of State programs on recipient and eligible households.
+<b>1986</b>—Subsec. (b). Pub. L. 99–425 inserted provisions relating to report describing for prior fiscal year the manner of carrying out requirements of clauses of section 8624 of this title and impact of State programs on recipient and eligible households.
 
-1984—Subsec. (a). Pub. L. 98–558, §607(c), inserted at end “Nothing in this subsection may be construed to require the Secretary to collect data which has been collected and made available to the Secretary by any other agency of the Federal Government.”
+<b>1984</b>—Subsec. (a). Pub. L. 98–558, §607(c), inserted at end “Nothing in this subsection may be construed to require the Secretary to collect data which has been collected and made available to the Secretary by any other agency of the Federal Government.”
 
 Subsec. (a)(2). Pub. L. 98–558, §607(a), inserted “amount,” before “cost” and inserted at end “for households eligible for assistance under this subchapter”.
 

@@ -116,7 +116,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the requirements of subparagraph (B), an unaccompanied alien childmay not be placed with a person or entity unless the Secretary of Health and Human Services makes a determination that the proposed custodian is capable of providing for the child's physical and mental well-being. Such determination shall, at a minimum, include verification of the custodian's identity and relationship to the child, if any, as well as an independent finding that the individual has not engaged in any activity that would indicate a potential risk to the child.
+&emsp;&emsp;Subject to the requirements of subparagraph (B), an unaccompanied alien child may not be placed with a person or entity unless the Secretary of Health and Human Services makes a determination that the proposed custodian is capable of providing for the child's physical and mental well-being. Such determination shall, at a minimum, include verification of the custodian's identity and relationship to the child, if any, as well as an independent finding that the individual has not engaged in any activity that would indicate a potential risk to the child.
 
 #### (B) Home studies
 
@@ -128,7 +128,7 @@
 
 #### (4) Legal orientation presentations
 
-&emsp;The Secretary of Health and Human Services shall cooperate with the Executive Office for Immigration Review to ensure that custodians receive legal orientation presentations provided through the Legal Orientation Program administered by the Executive Office for Immigration Review. At a minimum, such presentations shall address the custodian's responsibility to attempt to ensure the child's appearance at all immigration proceedings and to protect the child from mistreatment, exploitation, and trafficking.
+&emsp;The Secretary of Health and Human Services shall cooperate with the Executive Officefor Immigration Review to ensure that custodians receive legal orientation presentations provided through the Legal Orientation Program administered by the Executive Office for Immigration Review. At a minimum, such presentations shall address the custodian's responsibility to attempt to ensure the child's appearance at all immigration proceedings and to protect the child from mistreatment, exploitation, and trafficking.
 
 #### (5) Access to counsel
 
@@ -160,7 +160,7 @@
 
 #### (B) State reimbursement
 
-&emsp;&emsp;Subject to the availability of appropriations, if State foster care funds are expended on behalf of a child who is not described in subparagraph (A) and has been granted special immigrant status under section 101(a)(27)(J) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(J)), the Federal Government shall reimburse the State inwhich the child resides for such expenditures by the State.
+&emsp;&emsp;Subject to the availability of appropriations, if State foster care funds are expended on behalf of a child who is not described in subparagraph (A) and has been granted special immigrant status under section 101(a)(27)(J) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(J)), the Federal Government shall reimburse the State in which the child resides for such expenditures by the State.
 
 #### (5) State courts acting in loco parentis
 

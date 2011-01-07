@@ -62,7 +62,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (d), are set out in
 
 #### Amendments
 
-1987—Subsec. (a). Pub. L. 100–4, §314(c), inserted “and section 1319(g)(6) of this title” after “subsection (b) of this section” in introductory text.
+<b>1987</b>—Subsec. (a). Pub. L. 100–4, §314(c), inserted “and section 1319(g)(6) of this title” after “subsection (b) of this section” in introductory text.
 
 Subsec. (c)(3). Pub. L. 100–4, §504, added par. (3).
 

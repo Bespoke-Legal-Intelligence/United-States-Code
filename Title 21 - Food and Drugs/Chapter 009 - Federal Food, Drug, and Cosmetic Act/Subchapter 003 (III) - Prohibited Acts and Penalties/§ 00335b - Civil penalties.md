@@ -56,7 +56,7 @@ Any person that is the subject of an adverse decision under subsection (b)(1)(A)
 
 #### (d) Recovery of penalties
 
-The Attorney General may recover any civil penalty (plus interest at the currently prevailing rates from the date the penalty became final) assessed under subsection (b)(1)(A) of this section in an action brought in the name of the United States. The amount of such penalty may be deducted, when the penalty has become final, from any sums then or later owing by theUnited States to the person against whom the penalty has been assessed. In an action brought under this subsection, the validity, amount, and appropriateness of the penalty shall not be subject to judicial review.
+The Attorney General may recover any civil penalty (plus interest at the currently prevailing rates from the date the penalty became final) assessed under subsection (b)(1)(A) of this section in an action brought in the name of the United States. The amount of such penalty may be deducted, when the penalty has become final, from any sums then or later owing by the United States to the person against whom the penalty has been assessed. In an action brought under this subsection, the validity, amount, and appropriateness of the penalty shall not be subject to judicial review.
 
 #### (e) Informants
 
@@ -76,7 +76,7 @@ A prior section 307 of act June 25, 1938, was renumbered section 310 and is clas
 
 #### Amendments
 
-1993—Subsec. (b)(3)(A). Pub. L. 103–80 made technical amendment to reference to May 13, 1992, to reflect correction of corresponding provision of original act.
+<b>1993</b>—Subsec. (b)(3)(A). Pub. L. 103–80 made technical amendment to reference to May 13, 1992, to reflect correction of corresponding provision of original act.
 
 #### Construction
 

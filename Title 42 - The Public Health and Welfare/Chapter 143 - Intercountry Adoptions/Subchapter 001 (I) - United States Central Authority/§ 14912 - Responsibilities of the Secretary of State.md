@@ -64,6 +64,8 @@ The Secretary may—
 
 Subchapter II of this chapter, referred to in subsec. (c), was in the original “title II”, meaning title II of Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 830, which enacted subchapter II of this chapter and amended section 622 of this title. For complete classification of title II to the Code, see Tables.
 
+This chapter, referred to in subsec. (f)(2), was in the original “this Act”, meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, known as the Intercountry Adoption Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 14901 of this title and Tables.
+
 #### Effective Date
 
 Section effective Oct. 6, 2000, with transition rule, see section 505(a)(1), (b) of Pub. L. 106–279, set out as an Effective Dates; Transition Rule note under section 14901 of this title.

@@ -46,9 +46,9 @@ Under this chapter, referred to in subsec. (g)(2), was in the original “under 
 
 #### Amendments
 
-2000—Subsec. (h). Pub. L. 106–377 added subsec. (h).
+<b>2000</b>—Subsec. (h). Pub. L. 106–377 added subsec. (h).
 
-1992—Subsec. (c). Pub. L. 102–550, §606(j)(4), (11)(A), substituted “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” and “services for such eligible persons” for “services for such individuals”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–550, §606(j)(4), (11)(A), substituted “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” and “services for such eligible persons” for “services for such individuals”.
 
 Subsec. (d). Pub. L. 102–550, §606(f)(1), added subsec. (d) and struck out former subsec. (d) which read as follows: “
 

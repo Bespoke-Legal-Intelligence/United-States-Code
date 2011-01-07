@@ -6,7 +6,7 @@ The recreation area shall be administered by the Secretary in accordance with th
 
 #### (b) Hunting and fishing; fish stocking
 
-The Secretary shall permit hunting, trapping and fishing on lands and waters within the recreation area in accordance with applicable Federal and State laws. The Secretary may, after consultation with the State of West Virginia Department of Natural Resources, designate zones where, and establish periods when, such activities will not be permitted for reasons of public safety, administration, fish and wildlife habitat or public use and enjoyment subject to such terms and conditions as he deems necessary in the furtherance of this Act. The Secretary shall permit the State of West Virginia to undertake or continue fish stocking activities carried out by the State in consultation with the Secretary on waters within the boundaries of the recreation area. Nothing in this Act shall be construed as affecting the jurisdiction or responsibilities of the State of West Virginia with respect to fish and wildlife <sup>1</sup>
+The Secretary shall permit hunting, trapping and fishing on lands and waters within the recreation area in accordance with applicable Federal and State laws. The Secretary may,after consultation with the State of West Virginia Department of Natural Resources, designate zones where, and establish periods when, such activities will not be permitted for reasons of public safety, administration, fish and wildlife habitat or public use and enjoyment subject to such terms and conditions as he deems necessary in the furtherance of this Act. The Secretary shall permit the State of West Virginia to undertake or continue fish stocking activities carried out by the State in consultation with the Secretary on waters within the boundaries of the recreation area. Nothing in this Act shall be construed as affecting the jurisdiction or responsibilities of the State of West Virginia with respect to fish and wildlife <sup>1</sup>
 
 #### (c) Cooperative agreements with State
 
@@ -32,7 +32,7 @@ The provisions of section 1278(a) of this title,<sup>2</sup> shall apply to the 
 
 #### (4) Access to river
 
-&emsp;(A) In order to facilitate public safety, use, and enjoyment of the recreation area, and to protect, to the maximum extent feasible, the scenic and natural resources of the area, the Secretary is authorized and directed to acquire such lands or interests in lands and to take such actions as are necessary to provide access by noncommercial entities on the northside of the Gauley River at the area known as Woods Ferry utilizing existing roads and rights-of-way. Such actions by the Secretary shall include the construction of parking and related facilities in the vicinity of Woods Ferry for noncommercial use on lands acquired pursuant to paragraph (3) or on lands acquired with the consent of the owner thereof within the boundaries of the recreation area.
+&emsp;(A) In order to facilitate public safety, use, and enjoyment of the recreation area, and to protect, to the maximum extent feasible, the scenic and natural resources of the area, the Secretary is authorized and directed to acquire such lands or interests in lands and to take such actions as are necessary to provide access by noncommercial entities on the north side of the Gauley River at the area known as Woods Ferry utilizing existing roads and rights-of-way. Such actions by the Secretary shall include the construction of parking and related facilities in the vicinity of Woods Ferry for noncommercial use on lands acquired pursuant to paragraph (3) or on lands acquired with the consent of the owner thereof within the boundaries of the recreation area.
 
 &emsp;(B) If necessary, in the discretion of the Secretary, in order to minimize environmental impacts, including visual impacts, within portions of the recreation area immediately adjacent to the river, the Secretary may, by contract or otherwise, provide transportation services for noncommercial visitors, at reasonable cost, between such parking facilities and the river.
 
@@ -50,7 +50,7 @@ This Act, referred to in subsecs. (a) and (b), is Pub. L. 100–534, Oct. 26, 19
 
 #### Amendments
 
-1996—Subsec. (e)(4). Pub. L. 104–333 added par. (4).
+<b>1996</b>—Subsec. (e)(4). Pub. L. 104–333 added par. (4).
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

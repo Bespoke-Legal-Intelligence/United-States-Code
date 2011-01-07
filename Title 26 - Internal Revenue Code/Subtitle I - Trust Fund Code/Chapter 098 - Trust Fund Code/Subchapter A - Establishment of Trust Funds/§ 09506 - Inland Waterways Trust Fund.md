@@ -18,7 +18,7 @@ There are hereby appropriated to the Inland Waterways Trust Fund amounts equival
 
 &emsp;Not more than 1/2 of the cost of any construction to which section 102(a) of the Water Resources Development Act of 1986 applies (as in effect on the date of the enactment of this section) may be paid from the Inland Waterways Trust Fund.
 
-(Added Pub. L. 99–662, title XIV, §1405(a), Nov. 17, 1986, 100 Stat. 4271; amended Pub. L. 99–499, title V, §521(b)(3), Oct. 17, 1986, 100 Stat. 1778;Pub. L. 100–647, title I, §1018(u)(18), Nov. 10, 1988, 102 Stat. 3591.)
+(Added Pub. L. 99–662, title XIV, §1405(a), Nov. 17, 1986, 100 Stat. 4271; amended Pub. L. 99–499, title V, §521(b)(3), Oct. 17, 1986, 100 Stat. 1778; Pub. L. 100–647, title I, §1018(u)(18), Nov. 10, 1988, 102 Stat. 3591.)
 
 #### References in Text
 
@@ -28,9 +28,9 @@ Section 102(a) of the Water Resources Development Act of 1986 (as in effect on t
 
 #### Amendments
 
-1988—Subsec. (b). Pub. L. 100–647 made technical corrections to directory language of Pub. L. 99–499, §521(b)(3), see 1986 Amendment note below.
+<b>1988</b>—Subsec. (b). Pub. L. 100–647 made technical corrections to directory language of Pub. L. 99–499, §521(b)(3), see 1986 Amendment note below.
 
-1986—Subsec. (b). Pub. L. 99–499, as amended by Pub. L. 100–647, §1018(u)(18), inserted at end “The preceding sentence shall apply only to so much of such taxes as are attributable to the Inland Waterways Trust Fund financing rate under section 4042(b).”
+<b>1986</b>—Subsec. (b). Pub. L. 99–499, as amended by Pub. L. 100–647, §1018(u)(18), inserted at end “The preceding sentence shall apply only to so much of such taxes as are attributable to the Inland Waterways Trust Fund financing rate under section 4042(b).”
 
 #### Effective Date of 1988 Amendment
 
@@ -46,7 +46,7 @@ Section 1405(d) of Pub. L. 99–662 provided that:
 
 “(1)
 
-In general.—The amendments made by this section \[enacting this section and repealing sections 1801 and 1802 of Title 33, Navigation and Navigable Waters\] shall take effect on January 1, 1987.
+In general.—The amendments made by this section \[enacting this section and repealing sections 1801and 1802 of Title 33, Navigation and Navigable Waters\] shall take effect on January 1, 1987.
 
 “(2)
 

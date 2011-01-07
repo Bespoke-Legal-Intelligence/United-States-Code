@@ -1,6 +1,6 @@
 ### §518. Conduct and argument of cases
 
-(a) Except when the Attorney General in a particular case directs otherwise, the Attorney General and the Solicitor General shall conduct and argue suits and appeals in the Supreme Court and suits in the United States Court of Federal Claims or in the United States Court of Appeals for the Federal Circuit and in the Court of International Trade in which the United States is interested.
+(a) Except when the Attorney General in a particular case directs otherwise, the AttorneyGeneral and the Solicitor General shall conduct and argue suits and appeals in the Supreme Court and suits in the United States Court of Federal Claims or in the United States Court of Appeals for the Federal Circuit and in the Court of International Trade in which the United States is interested.
 
 (b) When the Attorney General considers it in the interests of the United States, he may personally conduct and argue any case in a court of the United States in which the United States is interested, or he may direct the Solicitor General or any officer of the Department of Justice to do so.
 
@@ -24,11 +24,11 @@ The words “and writs of error” are omitted on authority of the Act of Jan. 3
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Subsec. (a). Pub. L. 97–164 substituted “United States Claims Court or in the United States Court of Appeals for the Federal Circuit” for “Court of Claims”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–164 substituted “United States Claims Court or in the United States Court of Appeals for the Federal Circuit” for “Court of Claims”.
 
-1980—Subsec. (a). Pub. L. 96–417 required the Attorney General and the Solicitor General to conduct and argue suits in the Court of International Trade.
+<b>1980</b>—Subsec. (a). Pub. L. 96–417 required the Attorney General and the Solicitor General to conduct and argue suits in the Court of International Trade.
 
 #### Effective Date of 1992 Amendment
 

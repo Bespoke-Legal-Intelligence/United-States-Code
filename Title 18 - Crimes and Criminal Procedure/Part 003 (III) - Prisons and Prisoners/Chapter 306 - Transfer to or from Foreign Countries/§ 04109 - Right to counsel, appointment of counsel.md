@@ -14,11 +14,11 @@
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–647 substituted “section 3006A of this title” for “the Criminal Justice Act (18 U.S.C. 3006A)” in par. (1) and for “the Criminal Justice Act (18 U.S.C. 3006(a))” in par. (2).
+<b>1990</b>—Subsec. (a). Pub. L. 101–647 substituted “section 3006A of this title” for “the Criminal Justice Act (18 U.S.C. 3006A)” in par. (1) and for “the Criminal Justice Act (18 U.S.C. 3006(a))” in par. (2).
 
-1988—Pub. L. 100–690 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1988</b>—Pub. L. 100–690 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
-1982—Par. (2). Pub. L. 97–258 substituted “section 3324(a) and (b) of title 31” for “section 3648 of the Revised Statutes as amended (31 U.S.C. 529)”.
+<b>1982</b>—Par. (2). Pub. L. 97–258 substituted “section 3324(a) and (b) of title 31” for “section 3648 of the Revised Statutes as amended (31 U.S.C. 529)”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section 3006A of this title;”. See 1990 Amendment note below.</i>
 

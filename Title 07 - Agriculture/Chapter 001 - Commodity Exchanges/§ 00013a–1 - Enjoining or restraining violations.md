@@ -40,7 +40,23 @@ Where the Commission elects to bring the action, it shall inform the Attorney Ge
 
 The Commission shall provide the Securities and Exchange Commission with notice of the commencement of any proceeding and a copy of any order entered by the Commission against any futures commission merchant or introducing broker registered pursuant to section 6f(a)(2) of this title, any floor broker or floor trader exempt from registration pursuant to section 6f(a)(3) of this title, any associated person exempt from registration pursuant to section 6k(6) of this title, or any board of trade designated as a contract market pursuant to section 7b–1 of this title.
 
-(Sept. 21, 1922, ch. 369, §6c, as added Pub. L. 93–463, title II, §211, Oct. 23, 1974, 88 Stat. 1402; amended Pub. L. 97–444, title II, §220, Jan. 11,1983, 96 Stat. 2308; Pub. L. 99–641, title I, §104, Nov. 10, 1986, 100 Stat. 3557; Pub. L. 102–546, title II, §221, Oct. 28, 1992, 106 Stat. 3614; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(15), title II, §253(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–409, 2763A–449; Pub. L. 110–234, title XIII, §13103(c), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, §4(a), title XIII, §13103(c), June 18, 2008, 122 Stat. 1664, 2196.)
+(Sept. 21, 1922, ch. 369, §6c, as added Pub. L. 93–463, title II, §211, Oct. 23, 1974, 88 Stat. 1402; amended Pub. L. 97–444, title II, §220, Jan. 11, 1983, 96 Stat. 2308; Pub. L. 99–641, title I, §104, Nov. 10, 1986, 100 Stat. 3557; Pub. L. 102–546, title II, §221, Oct. 28, 1992, 106 Stat. 3614; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(15), title II, §253(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–409, 2763A–449; Pub. L. 110–234, title XIII, §13103(c), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, §4(a), title XIII, §13103(c), June 18, 2008, 122 Stat. 1664, 2196; Pub. L. 111–203, title VII, §§741(b)(5), 744, July 21, 2010, 124 Stat. 1731, 1735.)
+
+#### Amendment of Subsections (a) and (d)
+
+<i>Pub. L. 111–203, title VII, §§741(b)(5), 744, 754, July 21, 2010, 124 Stat. 1731, 1735, 1754, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, this section is amended as follows:</i>
+
+<i>(1) in subsection (a), in the matter preceding the proviso, by inserting “or any swap” after “commodity for future delivery”; and</i>
+
+<i>(2) in subsection (d), by adding at the end the following new paragraph:</i>
+
+<i>(3)</i>
+
+<i>Equitable remedies</i>.—<i>In any action brought under this section, the Commission may seek, and the court may impose, on a proper showing, on any person found in the action to have committed any violation, equitable remedies including—</i>
+
+&emsp;<i>(A) restitution to persons who have sustained losses proximately caused by such violation (in the amount of such losses); and</i>
+
+&emsp;<i>(B) disgorgement of gains received in connection with such violation.</i>
 
 #### Codification
 
@@ -59,6 +75,10 @@ Subsec. (h). Pub. L. 106–554, §1(a)(5) \[title II, §253(c)\], added subsec. 
 1986—Pub. L. 99–641 inserted “, and other than an order appointing a temporary receiver to administer such restraining order and to perform such other duties as the court may consider appropriate”.
 
 1983—Pub. L. 97–444 inserted “(other than a restraining order which prohibits any person from destroying, altering or disposing of, or refusing to permit authorized representatives of the Commission to inspect, when and as requested, any books and records or other documents or which prohibits any person from withdrawing, transferring, removing, dissipating, or disposing of any funds, assets, or other property)” after “<i>Provided</i>, That no restraining order”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 #### Effective Date of 2008 Amendment
 

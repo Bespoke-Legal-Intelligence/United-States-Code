@@ -6,11 +6,11 @@ Applicability.—This section applies to registered nurses appointed under this 
 
 (b)
 
-36/40 Work Schedule.—(1)(A) Subject to paragraph (2), if the Secretary determines it to be necessary in order to obtain or retain the services of registered nurses at any Department health-care facility, the Secretary may provide, in the case of nurses employed at such facility, that such nurses who work three regularly scheduled 12-hour tours of duty within a work week shall be considered for all purposes to have worked a full 40-hour basic work week.
+72/80 Work Schedule.—(1)(A) Subject to paragraph (2), if the Secretary determines it to be necessary in order to obtain or retain the services of registered nurses at any Department health-care facility, the Secretary may provide, in the case of nurses employed at such facility, that such nurses who work six regularly scheduled 12-hour tours of duty within a 14-day period shall be considered for all purposes to have worked a full 80-hour pay period.
 
 (B) A nurse who works under the authority in subparagraph (A) shall be considered a 0.90 full-time equivalent employee in computing full-time equivalent employees for the purposes of determining compliance with personnel ceilings.
 
-(2)(A) Basic and additional pay for a nurse who is considered under paragraph (1) to have worked a full 40-hour basic work week shall be subject to subparagraphs (B) and (C).
+(2)(A) Basic and additional pay for a nurse who is considered under paragraph (1) to have worked a full 80-hour pay period shall be subject to subparagraphs (B) and (C).
 
 (B) The hourly rate of basic pay for a nurse covered by this paragraph for service performed as part of a regularly scheduled 36-hour tour of duty within the work week shall be derived by dividing the nurse's annual rate of basic pay by 1,872.
 
@@ -26,7 +26,7 @@ Applicability.—This section applies to registered nurses appointed under this 
 
 (D) The Secretary may provide a nurse to whom this subsection applies with additional pay under section 7453 of this title for any period included in a regularly scheduled 12-hour tour of duty.
 
-(3) A nurse who works a work schedule described in this subsection who is absent on approved sick leave or annual leave during a regularly scheduled 12-hour tour of duty shall be charged for such leave at a rate of ten hours of leave for every nine hours of absence.
+(3) A nurse who works a work schedule described in this subsection who is absent on approved sick leave or annual leave during a scheduled 12-hour tour of duty shall be charged for such leave at a rate of ten hours of leave for every nine hours of absence.
 
 (c)
 
@@ -50,5 +50,15 @@ Notification of Modification of Benefits.—The Secretary shall provide each emp
 
 Regulations.—The Secretary shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 108–445, §4(a)(1), Dec. 3, 2004, 118 Stat. 2643.)
+(Added Pub. L. 108–445, §4(a)(1), Dec. 3, 2004, 118 Stat. 2643; amended Pub. L. 111–163, title VI, §602(c), May 5, 2010, 124 Stat. 1173.)
+
+#### Amendments
+
+<b>2010</b>—Subsec. (b). Pub. L. 111–163, §602(c)(2)(A), substituted “72/80” for “36/40” in heading.
+
+Subsec. (b)(1)(A). Pub. L. 111–163, §602(c)(1), substituted “six regularly scheduled 12-hour tours of duty within a 14-day period shall be considered for all purposes to have worked a full 80-hour pay period.” for “three regularly scheduled 12-hour tours of duty within a work week shall be considered for all purposes to have worked a full 40-hour basic work week.”
+
+Subsec. (b)(2)(A). Pub. L. 111–163, §602(c)(2)(B), substituted “80-hour pay period” for “40-hour basic work week”.
+
+Subsec. (b)(3). Pub. L. 111–163, §602(c)(2)(C), struck out “regularly” before “scheduled 12-hour tour”.
 

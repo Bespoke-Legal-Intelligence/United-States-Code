@@ -54,7 +54,7 @@ Feb. 3, 1978, Pub. L. 95–224, §3, 92 Stat. 4.
 
 41:502(1).
 
-Clause (3) restates the source provisions because of the definition of “executive agency” in section 102 of the revised title. The words “a county, municipality, city, town, township” are omitted as being included in “a unit of government in a State”.
+Clause (3) restates the source provisions because of the definition of “executive agency” in section 102 ofthe revised title. The words “a county, municipality, city, town, township” are omitted as being included in “a unit of government in a State”.
 
 In clause (5), the words “the Commonwealth of Puerto Rico” are omitted as being included in “territory or possession of the United States” and as unnecessary because of 48:734. The words “duties and powers” are substituted for “functions” for consistency in the revised title and with other titles of the United States Code.
 

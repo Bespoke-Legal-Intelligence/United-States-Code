@@ -64,13 +64,13 @@ Each activity of the Secretary under this section that is in compliance with the
 
 #### References in Text
 
-Subsection (b)(1), referred to in subsec. (a), probably means subsec. (b)(1) of section 10132 of this title, whichrelates to nomination of repository sites for radioactive waste and submission of environmental assessments for those sites.
+Subsection (b)(1), referred to in subsec. (a), probably means subsec. (b)(1) of section 10132 of this title, which relates to nomination of repository sites for radioactive waste and submission of environmental assessments for those sites.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
 #### Amendments
 
-1987—Subsec. (a). Pub. L. 100–202 and Pub. L. 100–203, §5011(e)(2), which contained identical amendments directing that “at the Yucca Mountain site” be substituted for “beginning” and all that follows through “geological media”, were executed by substituting “at the Yucca Mountain site” for “beginning with the candidate sites that have been approved under section 10132 of this title and are located in various geologic media” as the probable intent of Congress.
+<b>1987</b>—Subsec. (a). Pub. L. 100–202 and Pub. L. 100–203, §5011(e)(2), which contained identical amendments directing that “at the Yucca Mountain site” be substituted for “beginning” and all that follows through “geological media”, were executed by substituting “at the Yucca Mountain site” for “beginning with the candidate sites that have been approved under section 10132 of this title and are located in various geologic media” as the probable intent of Congress.
 
 Pub. L. 100–202 and Pub. L. 100–203, §5011(e)(1), amended subsec. (a) identically, substituting “State of Nevada” for “State involved or the governing body of the affected Indian tribe involved”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary; manner of acquisition; procedure for lands partly within designated area
 
-The Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer funds, transfer from any Federal agency, or exchange lands and interests therein for the purposes of this subchapter. When an individual tract of land is only partly within the area designated, the Secretary may acquire the entire tract by any of the above methods to avoid the payment of severance costs. Land so acquired outside the designated area may be exchanged by the Secretary for non-Federal lands within such area, and any portion of the land not utilized for such exchanges may be disposed of in accordance with the provisions of the Federal Property and Administrative Services Act of 1949.
+The Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer funds, transfer from any Federal agency, or exchange lands and interests therein for the purposes of this subchapter. When an individual tract of land is only partly within the area designated, the Secretary may acquire the entire tract by any of the above methods to avoid the payment of severance costs. Land so acquired outside the designated area may be exchanged by the Secretary for non-Federal lands within such area, and any portion of the land not utilized for such exchanges may be disposed of in accordance with the provisions of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 #### (b) Sale offers; hardship from delay; time and manner of purchase
 
@@ -10,7 +10,7 @@ In exercising his authority to acquire property under this subchapter, the Secre
 
 #### (c) State donations; transfer from Federal agency to administrative jurisdiction of Secretary
 
-Any property or interests therein, owned by the State of Michigan or any political subdivisions thereof, may be acquired only by donation. Notwithstanding any other provision of law, any property owned by the United States on October 21, 1970, located within such area may, with the concurrence of the agency having custody thereof, be transferred without consideration to the administrative jurisdiction of the Secretary for use by him in carrying out the provisions of this subchapter.
+Any property or interests therein, owned by the State of Michigan or any political subdivisions thereof, may be acquired only by donation. Notwithstanding any other provision of law, any property owned by the United States on October 21, 1970, located within such area may, with the concurrence of the agency having custody thereof, be transferred without consideration to theadministrative jurisdiction of the Secretary for use by him in carrying out the provisions of this subchapter.
 
 #### (d) Initiation of condemnation proceedings subsequent to failure of Secretary to negotiate for purchase of property; certificate of compliance with negotiation procedure
 
@@ -22,9 +22,9 @@ Nothing in this subchapter shall be construed to prohibit the use of condemnatio
 
 (Pub. L. 91–479, §8, Oct. 21, 1970, 84 Stat. 1077.)
 
-#### References in Text
+#### Codification
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+In subsec. (a), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (63 Stat. 377), as amended (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Sleeping Bear Dunes National Lakeshore
 

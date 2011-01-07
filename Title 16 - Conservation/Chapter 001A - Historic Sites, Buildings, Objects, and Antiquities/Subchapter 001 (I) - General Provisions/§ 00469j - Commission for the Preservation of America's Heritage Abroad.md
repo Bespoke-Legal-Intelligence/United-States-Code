@@ -68,13 +68,11 @@ The Commission shall transmit an annual report to the President and to each Hous
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (g)(2), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 The General Schedule, referred to in subsec. (g)(2), is set out under section 5332 of Title 5.
 
 #### Amendments
 
-1998—Subsec. (e). Pub. L. 105–277 substituted “six” for “three”.
+<b>1998</b>—Subsec. (e). Pub. L. 105–277 substituted “six” for “three”.
 
 #### Effective Date
 

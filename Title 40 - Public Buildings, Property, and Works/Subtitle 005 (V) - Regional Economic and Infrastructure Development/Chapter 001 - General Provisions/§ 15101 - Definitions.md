@@ -70,3 +70,5 @@ Pub. L. 110–234, title XIV, §14217(d), May 22, 2008, 122 Stat. 1482, and Pub.
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
+<i><sup>1</sup></i><i> So in original. Probably means chapter 4 of this subtitle.</i>
+

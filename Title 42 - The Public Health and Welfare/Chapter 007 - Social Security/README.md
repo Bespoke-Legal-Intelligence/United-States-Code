@@ -105,7 +105,7 @@
 
 #### Part B—Child and Family Services
 
-I74subpart 1—child welfare services
+#### subpart 1—child welfare services
 
 |  |  |
 | :--- | ---: |
@@ -191,7 +191,7 @@ I74subpart 1—child welfare services
 | [673\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000673%20-%20Adoption%20and%20guardianship%20assistance%20program.md) | Adoption and guardianship assistance program. |
 | [673a.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000673a%20-%20Interstate%20compacts.md) | Interstate compacts. |
 | [673b.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000673b%20-%20Adoption%20incentive%20payments.md) | Adoption incentive payments. |
-| [673c.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000673c%20-%20Timely%20interstate%20home%20study%20incentive%20payments.md) | Timely interstate home study incentive payments. |
+| [673c.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000673c%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93239%2C%20%C2%A74%28c%29%2C%20July%203%2C%202006%2C%20120%20Stat.%20512.md) | Timely interstate home study incentive payments. |
 | [674\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000674%20-%20Payments%20to%20States.md) | Payments to States. |
 | [675\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000675%20-%20Definitions.md) | Definitions. |
 | [676\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000676%20-%20Administration.md) | Administration. |
@@ -229,7 +229,10 @@ I74subpart 1—child welfare services
 | [708\.](Subchapter%20005%20%28V%29%20-%20Maternal%20and%20Child%20Health%20Services%20Block%20Grant/%C2%A7%2000708%20-%20Nondiscrimination%20provisions.md) | Nondiscrimination provisions. |
 | [709\.](Subchapter%20005%20%28V%29%20-%20Maternal%20and%20Child%20Health%20Services%20Block%20Grant/%C2%A7%2000709%20-%20Administration%20of%20Federal%20and%20State%20programs.md) | Administration of Federal and State programs. |
 | [710\.](Subchapter%20005%20%28V%29%20-%20Maternal%20and%20Child%20Health%20Services%20Block%20Grant/%C2%A7%2000710%20-%20Separate%20program%20for%20abstinence%20education.md) | Separate program for abstinence education. |
-| 711 to 731. | Omitted or Repealed. |
+| [711\.](Subchapter%20005%20%28V%29%20-%20Maternal%20and%20Child%20Health%20Services%20Block%20Grant/%C2%A7%2000711%20-%20Maternal%2C%20infant%2C%20and%20early%20childhood%20home%20visiting%20programs.md) | Maternal, infant, and early childhood home visiting programs. |
+| [712\.](Subchapter%20005%20%28V%29%20-%20Maternal%20and%20Child%20Health%20Services%20Block%20Grant/%C2%A7%2000712%20-%20Services%20to%20individuals%20with%20a%20postpartum%20condition%20and%20their%20families.md) | Services to individuals with a postpartum condition and their families. |
+| [713\.](Subchapter%20005%20%28V%29%20-%20Maternal%20and%20Child%20Health%20Services%20Block%20Grant/%C2%A7%2000713%20-%20Personal%20responsibility%20education.md) | Personal responsibility education. |
+| 714 to 731. | Omitted or Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -260,6 +263,7 @@ I74subpart 1—child welfare services
 | [911\.](Subchapter%20007%20%28VII%29%20-%20Administration/%C2%A7%2000911%20-%20Budgetary%20treatment%20of%20trust%20fund%20operations.md) | Budgetary treatment of trust fund operations. |
 | [912\.](Subchapter%20007%20%28VII%29%20-%20Administration/%C2%A7%2000912%20-%20Office%20of%20Rural%20Health%20Policy.md) | Office of Rural Health Policy. |
 | [913\.](Subchapter%20007%20%28VII%29%20-%20Administration/%C2%A7%2000913%20-%20Duties%20and%20authority%20of%20Secretary.md) | Duties and authority of Secretary. |
+| [914\.](Subchapter%20007%20%28VII%29%20-%20Administration/%C2%A7%2000914%20-%20Office%20of%20Women%27s%20Health.md) | Office of Women's Health. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -340,6 +344,8 @@ I74subpart 1—child welfare services
 | [1314\.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001314%20-%20Public%20advisory%20groups.md) | Public advisory groups. |
 | [1314a.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001314a%20-%20Measurement%20and%20reporting%20of%20welfare%20receipt.md) | Measurement and reporting of welfare receipt. |
 | [1315\.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001315%20-%20Demonstration%20projects.md) | Demonstration projects. |
+| [1315a.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001315a%20-%20Center%20for%20Medicare%20and%20Medicaid%20Innovation.md) | Center for Medicare and Medicaid Innovation. |
+| [1315b.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001315b%20-%20Providing%20Federal%20coverage%20and%20payment%20coordination%20for%20dual%20eligible%20beneficiaries.md) | Providing Federal coverage and payment coordination for dual eligible beneficiaries. |
 | [1316\.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001316%20-%20Administrative%20and%20judicial%20review%20of%20public%20assistance%20determinations.md) | Administrative and judicial review of public assistance determinations. |
 | [1317\.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001317%20-%20Appointment%20of%20the%20Administrator%20and%20Chief%20Actuary%20of%20the%20Centers%20for%20Medicare%20%26%20Medicaid%20Services.md) | Appointment of the Administrator and Chief Actuary of the Centers for Medicare \& Medicaid Services. |
 | [1318\.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001318%20-%20Alternative%20Federal%20payment%20with%20respect%20to%20public%20assistance%20expenditures.md) | Alternative Federal payment with respect to public assistance expenditures. |
@@ -363,6 +369,12 @@ I74subpart 1—child welfare services
 | 1320a–7e. | Health care fraud and abuse data collection program. |
 | 1320a–7f. | Coordination of medicare and medicaid surety bond provisions. |
 | 1320a–7g. | Funds to reduce medicaid fraud and abuse. |
+| 1320a–7h. | Transparency reports and reporting of physician ownership or investment interests. |
+| 1320a–7i. | Reporting of information relating to drug samples. |
+| 1320a–7j. | Accountability requirements for facilities. |
+| 1320a–7k. | Medicare and Medicaid program integrity provisions. |
+| 1320a–7<i>l.</i> | Nationwide program for national and State background checks on direct patient access employees of long-term care facilities and providers. |
+| 1320a–7m. | Use of predictive modeling and other analytics technologies to identify and prevent waste, fraud, and abuse in the Medicare fee-for-service program. |
 | 1320a–8. | Civil monetary penalties and assessments for subchapters II, VIII and XVI. |
 | 1320a–8a. | Administrative procedure for imposing penalties for false or misleading statements. |
 | 1320a–8b. | Attempts to interfere with administration of this chapter. |
@@ -379,6 +391,7 @@ I74subpart 1—child welfare services
 | 1320b–8. | Hospital protocols for organ procurement and standards for organ procurement agencies. |
 | 1320b–9. | Improved access to, and delivery of, health care for Indians under subchapters XIX and XXI. |
 | 1320b–9a. | Child health quality measures. |
+| 1320b–9b. | Adult health quality measures. |
 | 1320b–10. | Prohibitions relating to references to Social Security or Medicare. |
 | 1320b–11. | Blood Donor Locator Service. |
 | 1320b–12. | Research on outcomes of health care services and procedures. |
@@ -392,8 +405,9 @@ I74subpart 1—child welfare services
 | 1320b–20. | Work incentives outreach program. |
 | 1320b–21. | State grants for work incentives assistance to disabled beneficiaries. |
 | 1320b–22. | Grants to develop and establish State infrastructures to support working individuals with disabilities. |
-| 1320b–23. | Repealed. |
+| 1320b–23. | Pharmacy benefit managers transparency requirements. |
 | 1320b–24. | Consultation with Tribal Technical Advisory Group. |
+| 1320b–25. | Reporting to law enforcement of crimes occurring in federally funded long-term care facilities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -432,6 +446,16 @@ I74subpart 1—child welfare services
 | 1320d–7. | Effect on State law. |
 | 1320d–8. | Processing payment transactions by financial institutions. |
 | 1320d–9. | Application of HIPAA regulations to genetic information. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part D—Comparative Clinical Effectiveness Research
+
+|  |  |
+| :--- | ---: |
+| [1320e.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20D%20-%20Comparative%20Clinical%20Effectiveness%20Research/%C2%A7%2001320e%20-%20Comparative%20clinical%20effectiveness%20research.md) | Comparative clinical effectiveness research. |
+| 1320e–1. | Limitations on certain uses of comparative clinical effectiveness research. |
+| 1320e–2. | Trust Fund transfers to Patient-Centered Outcomes Research Trust Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -564,6 +588,7 @@ I74subpart 1—child welfare services
 | 1395i–2. | Hospital insurance benefits for uninsured elderly individuals not otherwise eligible. |
 | 1395i–2a. | Hospital insurance benefits for disabled individuals who have exhausted other entitlement. |
 | 1395i–3. | Requirements for, and assuring quality of care in, skilled nursing facilities. |
+| 1395i–3a. | Protecting residents of long-term care facilities. |
 | 1395i–4. | Medicare rural hospital flexibility program. |
 | 1395i–5. | Conditions for coverage of religious nonmedical health care institutional services. |
 
@@ -594,6 +619,7 @@ I74subpart 1—child welfare services
 | 1395w–3a. | Use of average sales price payment methodology. |
 | 1395w–3b. | Competitive acquisition of outpatient drugs and biologicals. |
 | 1395w–4. | Payment for physicians’ services. |
+| 1395w–5. | Public reporting of performance information. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -610,13 +636,13 @@ I74subpart 1—child welfare services
 | 1395w–27. | Contracts with Medicare+Choice organizations. |
 | 1395w–27a. | Special rules for MA regional plans. |
 | 1395w–28. | Definitions; miscellaneous provisions. |
-| 1395w–29. | Comparative cost adjustment (CCA) program. |
+| 1395w–29. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Part D—Voluntary Prescription Drug Benefit Program
 
-I74subpart 1—part d eligible individuals and prescription drug benefits
+#### subpart 1—part d eligible individuals and prescription drug benefits
 
 |  |  |
 | :--- | ---: |
@@ -635,6 +661,7 @@ I74subpart 1—part d eligible individuals and prescription drug benefits
 | 1396w–112. | Requirements for and contracts with prescription drug plan (PDP) sponsors. |
 | 1395w–113. | Premiums; late enrollment penalty. |
 | 1395w–114. | Premium and cost-sharing subsidies for low-income individuals. |
+| 1395w–114a. | Medicare coverage gap discount program. |
 | 1395w–115. | Subsidies for part D eligible individuals for qualified prescription drug coverage. |
 | 1395w–116. | Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund. |
 
@@ -665,6 +692,8 @@ I74subpart 1—part d eligible individuals and prescription drug benefits
 | :--- | ---: |
 | 1395w–151. | Definitions; treatment of references to provisions in part C. |
 | 1395w–152. | Miscellaneous provisions. |
+| 1395w–153. | Condition for coverage of drugs under this part. |
+| 1395w–154. | Improved Medicare prescription drug plan and MA–PD plan complaint system. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -681,6 +710,8 @@ I74subpart 1—part d eligible individuals and prescription drug benefits
 | 1395cc–1. | Demonstration of application of physician volume increases to group practices. |
 | 1395cc–2. | Provisions for administration of demonstration program. |
 | 1395cc–3. | Health care quality demonstration program. |
+| 1395cc–4. | National pilot program on payment bundling. |
+| 1395cc–5. | Independence at home medical practice demonstration program. |
 | [1395dd.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395dd%20-%20Examination%20and%20treatment%20for%20emergency%20medical%20conditions%20and%20women%20in%20labor.md) | Examination and treatment for emergency medical conditions and women in labor. |
 | [1395ee.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ee%20-%20Practicing%20Physicians%20Advisory%20Council%3B%20Council%20for%20Technology%20and%20Innovation.md) | Practicing Physicians Advisory Council; Council for Technology and Innovation. |
 | [1395ff.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ff%20-%20Determinations%3B%20appeals.md) | Determinations; appeals. |
@@ -697,6 +728,7 @@ I74subpart 1—part d eligible individuals and prescription drug benefits
 | [1395pp.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395pp%20-%20Limitation%20on%20liability%20where%20claims%20are%20disallowed.md) | Limitation on liability where claims are disallowed. |
 | [1395qq.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395qq%20-%20Indian%20Health%20Service%20Facilities.md) | Indian Health Service Facilities. |
 | [1395rr.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395rr%20-%20End%20stage%20renal%20disease%20program.md) | End stage renal disease program. |
+| 1395rr–1. | Medicare coverage for individuals exposed to environmental health hazards. |
 | [1395ss.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ss%20-%20Certification%20of%20medicare%20supplemental%20health%20insurance%20policies.md) | Certification of medicare supplemental health insurance policies. |
 | 1395ss–1. | Clarification. |
 | [1395tt.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395tt%20-%20Hospital%20providers%20of%20extended%20care%20services.md) | Hospital providers of extended care services. |
@@ -707,6 +739,7 @@ I74subpart 1—part d eligible individuals and prescription drug benefits
 | [1395yy.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395yy%20-%20Payment%20to%20skilled%20nursing%20facilities%20for%20routine%20service%20costs.md) | Payment to skilled nursing facilities for routine service costs. |
 | [1395zz.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395zz%20-%20Provider%20education%20and%20technical%20assistance.md) | Provider education and technical assistance. |
 | [1395aaa.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395aaa%20-%20Contract%20with%20a%20consensus-based%20entity%20regarding%20performance%20measurement.md) | Contract with a consensus-based entity regarding performance measurement. |
+| 1395aaa–1. | Quality and efficiency measurement. |
 | [1395bbb.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395bbb%20-%20Conditions%20of%20participation%20for%20home%20health%20agencies%3B%20home%20health%20quality.md) | Conditions of participation for home health agencies; home health quality. |
 | [1395ccc.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ccc%20-%20Offset%20of%20payments%20to%20individuals%20to%20collect%20past-due%20obligations%20arising%20from%20breach%20of%20scholarship%20and%20loan%20contract.md) | Offset of payments to individuals to collect past-due obligations arising from breach of scholarship and loan contract. |
 | [1395ddd.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ddd%20-%20Medicare%20Integrity%20Program.md) | Medicare Integrity Program. |
@@ -715,6 +748,9 @@ I74subpart 1—part d eligible individuals and prescription drug benefits
 | [1395ggg.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ggg%20-%20Omitted.md) | Omitted. |
 | [1395hhh.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395hhh%20-%20Health%20care%20infrastructure%20improvement%20program.md) | Health care infrastructure improvement program. |
 | [1395iii.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395iii%20-%20Medicare%20Improvement%20Fund.md) | Medicare Improvement Fund. |
+| [1395jjj.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395jjj%20-%20Shared%20savings%20program.md) | Shared savings program. |
+| [1395kkk.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395kkk%20-%20Independent%20Payment%20Advisory%20Board.md) | Independent Payment Advisory Board. |
+| 1395kkk–1. | GAO study and report on determination and implementation of payment and coverage policies under the Medicare program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -726,6 +762,7 @@ I74subpart 1—part d eligible individuals and prescription drug benefits
 | 1396–1. | Appropriations. |
 | [1396a.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396a%20-%20State%20plans%20for%20medical%20assistance.md) | State plans for medical assistance. |
 | [1396b.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396b%20-%20Payment%20to%20States.md) | Payment to States. |
+| 1396b–1. | Payment adjustment for health care-acquired conditions. |
 | [1396c.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396c%20-%20Operation%20of%20State%20plans.md) | Operation of State plans. |
 | [1396d.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396d%20-%20Definitions.md) | Definitions. |
 | [1396e.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396e%20-%20Enrollment%20of%20individuals%20under%20group%20health%20plans.md) | Enrollment of individuals under group health plans. |
@@ -748,6 +785,7 @@ I74subpart 1—part d eligible individuals and prescription drug benefits
 | 1396r–1. | Presumptive eligibility for pregnant women. |
 | 1396r–1a. | Presumptive eligibility for children. |
 | 1396r–1b. | Presumptive eligibility for certain breast or cervical cancer patients. |
+| 1396r–1c. | Presumptive eligibility for family planning services. |
 | 1396r–2. | Information concerning sanctions taken by State licensing authorities against health care practitioners and providers. |
 | 1396r–3. | Correction and reduction plans for intermediate care facilities for mentally retarded. |
 | 1396r–4. | Adjustment in payment for inpatient hospital services furnished by disproportionate share hospitals. |
@@ -770,20 +808,70 @@ I74subpart 1—part d eligible individuals and prescription drug benefits
 | [1396w.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396w%20-%20Asset%20verification%20through%20access%20to%20information%20held%20by%20financial%20institutions.md) | Asset verification through access to information held by financial institutions. |
 | 1396w–1. | Medicaid Improvement Fund. |
 | 1396w–2. | Authorization to receive relevant information. |
+| 1396w–3. | Enrollment simplification and coordination with State health insurance exchanges. |
+| 1396w–4. | State option to provide coordinated care through a health home for individuals with chronic conditions. |
+| 1396w–5. | Addressing health care disparities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER XX—BLOCK GRANTS TO STATES FOR SOCIAL SERVICES
+#### SUBCHAPTER XX—BLOCK GRANTS TO STATES FOR SOCIAL SERVICES AND ELDER JUSTICE
+
+#### Division A—Block Grants to States for Social Services
 
 |  |  |
 | :--- | ---: |
-| [1397\.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397%20-%20Purposes%3B%20authorization%20of%20appropriations.md) | Purposes; authorization of appropriations. |
-| [1397a.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397a%20-%20Payments%20to%20States.md) | Payments to States. |
-| [1397b.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397b%20-%20Allotments.md) | Allotments. |
-| [1397c.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397c%20-%20State%20reporting%20requirements.md) | State reporting requirements. |
-| [1397d.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397d%20-%20Limitation%20on%20use%20of%20grants%3B%20waiver.md) | Limitation on use of grants; waiver. |
-| [1397e.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397e%20-%20Administrative%20and%20fiscal%20accountability.md) | Administrative and fiscal accountability. |
-| [1397f.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397f%20-%20Additional%20grants.md) | Additional grants. |
+| [1397\.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397%20-%20Purposes%20of%20division%3B%20authorization%20of%20appropriations.md) | Purposes of division; authorization of appropriations. |
+| [1397a.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397a%20-%20Payments%20to%20States.md) | Payments to States. |
+| [1397b.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397b%20-%20Allotments.md) | Allotments. |
+| [1397c.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397c%20-%20State%20reporting%20requirements.md) | State reporting requirements. |
+| [1397d.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397d%20-%20Limitation%20on%20use%20of%20grants%3B%20waiver.md) | Limitation on use of grants; waiver. |
+| [1397e.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397e%20-%20Administrative%20and%20fiscal%20accountability.md) | Administrative and fiscal accountability. |
+| [1397f.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397f%20-%20Additional%20grants.md) | Additional grants. |
+| [1397g.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397g%20-%20Demonstration%20projects%20to%20address%20health%20professions%20workforce%20needs.md) | Demonstration projects to address health professions workforce needs. |
+| [1397h.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397h%20-%20Program%20for%20early%20detection%20of%20certain%20medical%20conditions%20related%20to%20environmental%20health%20hazards.md) | Program for early detection of certain medical conditions related to environmental health hazards. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Division B—Elder Justice
+
+|  |  |
+| :--- | ---: |
+| [1397j.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/Division%20B%20-%20Elder%20Justice/%C2%A7%2001397j%20-%20Definitions.md) | Definitions. |
+| 1397j–1. | General provisions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part I—National Coordination of Elder Justice Activities and Research
+
+#### subpart a—elder justice coordinating council and advisory board on elder abuse, neglect, and exploitation
+
+|  |  |
+| :--- | ---: |
+| [1397k.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/Division%20B%20-%20Elder%20Justice/Part%20001%20%28I%29%20-%20National%20Coordination%20of%20Elder%20Justice%20Activities%20and%20Research/Subpart%20a%20-%20Elder%20Justice%20Coordinating%20Council%20and%20Advisory%20Board%20on%20Elder%20Abuse%2C%20Neglect%2C%20and%20Exploitation/%C2%A7%2001397k%20-%20Elder%20Justice%20Coordinating%20Council.md) | Elder Justice Coordinating Council. |
+| 1397k–1. | Advisory Board on Elder Abuse, Neglect, and Exploitation. |
+| 1397k–2. | Research protections. |
+| 1397k–3. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart b—elder abuse, neglect, and exploitation forensic centers
+
+|  |  |
+| :--- | ---: |
+| 1397<i>l.</i> | Establishment and support of elder abuse, neglect, and exploitation forensic centers. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part II—Programs To Promote Elder Justice
+
+|  |  |
+| :--- | ---: |
+| [1397m.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/Division%20B%20-%20Elder%20Justice/Part%20002%20%28II%29%20-%20Programs%20to%20Promote%20Elder%20Justice/%C2%A7%2001397m%20-%20Enhancement%20of%20long-term%20care.md) | Enhancement of long-term care. |
+| 1397m–1. | Adult protective services functions and grant programs. |
+| 1397m–2. | Long-term care ombudsman program grants and training. |
+| 1397m–3. | Provision of information regarding, and evaluations of, elder justice programs. |
+| 1397m–4. | Report. |
+| 1397m–5. | Rule of construction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -831,5 +919,5 @@ I74subpart 1—part d eligible individuals and prescription drug benefits
 - [Subchapter 017 (XVII) - Grants for Planning Comprehensive Action to Combat Mental Retardation](Subchapter%20017%20%28XVII%29%20-%20Grants%20for%20Planning%20Comprehensive%20Action%20to%20Combat%20Mental%20Retardation/README.md)
 - [Subchapter 018 (XVIII) - Health Insurance for Aged and Disabled](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/README.md)
 - [Subchapter 019 (XIX) - Grants to States for Medical Assistance Programs](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/README.md)
-- [Subchapter 020 (XX) - Block Grants to States for Social Services](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/README.md)
+- [Subchapter 020 (XX) - Block Grants to States for Social Services and Elder Justice](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/README.md)
 - [Subchapter 021 (XXI) - State Children's Health Insurance Program](Subchapter%20021%20%28XXI%29%20-%20State%20Children%27s%20Health%20Insurance%20Program/README.md)

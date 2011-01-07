@@ -20,7 +20,7 @@ May 15, 1952, ch. 289, §2, 66 Stat. 72; July 9, 1952, ch. 600, 66 Stat. 479.
 
 #### Amendments
 
-1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 #### Expenditures; Inmate Telephone System
 

@@ -14,27 +14,27 @@ The Mutual Security Act of 1954, referred to in subsec. (b), is act Aug. 26, 195
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–424 struck out subsec. (a) which authorized appropriations for necessary administrative expenses of the agency primarily responsible for administering subchapter I of this chapter.
+<b>1978</b>—Subsec. (a). Pub. L. 95–424 struck out subsec. (a) which authorized appropriations for necessary administrative expenses of the agency primarily responsible for administering subchapter I of this chapter.
 
-1973—Subsec. (a). Pub. L. 93–189 substituted “for each of the fiscal years 1974 and 1975, $45,000,000”, for “for the fiscal year 1972, $50,000,000, and for the fiscal year 1973, $50,000,000”.
+<b>1973</b>—Subsec. (a). Pub. L. 93–189 substituted “for each of the fiscal years 1974 and 1975, $45,000,000”, for “for the fiscal year 1972, $50,000,000, and for the fiscal year 1973, $50,000,000”.
 
-1972—Subsec. (a). Pub. L. 92–226 authorized appropriations of $50,000,000 for fiscal years 1972 and 1973, and struck out appropriation authorization of $51,125,000 for fiscal years 1970 and 1971.
+<b>1972</b>—Subsec. (a). Pub. L. 92–226 authorized appropriations of $50,000,000 for fiscal years 1972 and 1973, and struck out appropriation authorization of $51,125,000 for fiscal years 1970 and 1971.
 
-1969—Subsec. (a). Pub. L. 91–175 substituted “fiscal year 1970, $51,125,000, and for the fiscal year 1971, $51,125,000” for “fiscal year 1969, $53,000,000”.
+<b>1969</b>—Subsec. (a). Pub. L. 91–175 substituted “fiscal year 1970, $51,125,000, and for the fiscal year 1971, $51,125,000” for “fiscal year 1969, $53,000,000”.
 
-1968—Subsec. (a). Pub. L. 90–554 substituted “1969” and “$53,000,000” for “1968” and “$55,814,000”, respectively, and required a reduction in number of personnel, particularly administrative personnel, to keep within reduced funds for fiscal year 1969, excepting therefrom auditing or training activities.
+<b>1968</b>—Subsec. (a). Pub. L. 90–554 substituted “1969” and “$53,000,000” for “1968” and “$55,814,000”, respectively, and required a reduction in number of personnel, particularly administrative personnel, to keep within reduced funds for fiscal year 1969, excepting therefrom auditing or training activities.
 
-1967—Subsec. (a). Pub. L. 90–137 substituted “1968” and “$55,814,000” for “1967” and “$55,813,500”, respectively.
+<b>1967</b>—Subsec. (a). Pub. L. 90–137 substituted “1968” and “$55,814,000” for “1967” and “$55,813,500”, respectively.
 
-1966—Subsec. (a). Pub. L. 89–583 substituted “1967” and “$55,813,500” for “1966” and “54,240,000,” respectively.
+<b>1966</b>—Subsec. (a). Pub. L. 89–583 substituted “1967” and “$55,813,500” for “1966” and “54,240,000,” respectively.
 
-1965—Subsec. (a). Pub. L. 89–171 substituted “1966” and “$54,200,000” for “1965” and “$52,500,000”, respectively.
+<b>1965</b>—Subsec. (a). Pub. L. 89–171 substituted “1966” and “$54,200,000” for “1965” and “$52,500,000”, respectively.
 
-1964—Subsec. (a). Pub. L. 88–633 substituted “1965” and “$52,500,000” for “1964” and “$54,000,000”, respectively.
+<b>1964</b>—Subsec. (a). Pub. L. 88–633 substituted “1965” and “$52,500,000” for “1964” and “$54,000,000”, respectively.
 
-1963—Subsec. (a). Pub. L. 88–205 substituted “1964” and “$54,000,000” for “1963” and “$53,000,000”, respectively.
+<b>1963</b>—Subsec. (a). Pub. L. 88–205 substituted “1964” and “$54,000,000” for “1963” and “$53,000,000”, respectively.
 
-1962—Subsec. (a). Pub. L. 87–565, §302(h)(1), substituted “1963” and “$53,000,000” for “1962” and “$50,000,000”, respectively.
+<b>1962</b>—Subsec. (a). Pub. L. 87–565, §302(h)(1), substituted “1963” and “$53,000,000” for “1962” and “$50,000,000”, respectively.
 
 Subsec. (b). Pub. L. 87–565, §302(h)(2), struck out “to the Secretary of State” after “authorized to be appropriated.”
 

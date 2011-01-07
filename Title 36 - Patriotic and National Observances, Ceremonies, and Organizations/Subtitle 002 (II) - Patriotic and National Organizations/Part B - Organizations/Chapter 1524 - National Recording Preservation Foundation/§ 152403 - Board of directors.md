@@ -48,5 +48,5 @@ The date of the enactment of this chapter, referred to in subsec. (b), is the da
 
 #### Amendments
 
-2008—Subsec. (b)(4). Pub. L. 110–336 struck out at end “An individual may not serve more than two consecutive terms.”
+<b>2008</b>—Subsec. (b)(4). Pub. L. 110–336 struck out at end “An individual may not serve more than two consecutive terms.”
 

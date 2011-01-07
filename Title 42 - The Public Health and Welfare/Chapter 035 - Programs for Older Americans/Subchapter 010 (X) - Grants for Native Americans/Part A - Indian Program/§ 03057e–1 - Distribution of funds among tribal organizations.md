@@ -30,9 +30,9 @@ If the funds appropriated to carry out this part in a fiscal year subsequent to 
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–365 added subsec. (c).
+<b>2006</b>—Subsec. (c). Pub. L. 109–365 added subsec. (c).
 
-1993—Subsec. (b). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” in pars. (1) and (2).
+<b>1993</b>—Subsec. (b). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” in pars. (1) and (2).
 
 #### Effective Date of 2006 Amendment
 

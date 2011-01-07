@@ -12,7 +12,7 @@ In accordance with regulations of the President, commissioned officers of the Re
 
 For purposes of this section the term “accumulated annual leave” means unused accrued annual leave carried forward from one leave year into a succeeding leave year, and the term “accrued annual leave” means the annual leave accruing to an officer during one leave year.
 
-(July 1, 1944, ch. 373, title II, §219, as added Aug. 9, 1950, ch. 654, §2, 64 Stat. 426; amended Pub. L. 87–649, §14b, Sept. 7, 1962, 76 Stat. 499; Pub. L. 96–76, title III, §311, Sept. 29, 1979, 93 Stat. 586.)
+(July 1, 1944, ch. 373, title II, §219, as added Aug. 9, 1950, ch. 654, §2, 64 Stat. 426; amended Pub. L.87–649, §14b, Sept. 7, 1962, 76 Stat. 499; Pub. L. 96–76, title III, §311, Sept. 29, 1979, 93 Stat. 586.)
 
 #### Partial Repeal of Subsection (d)
 
@@ -20,9 +20,9 @@ For purposes of this section the term “accumulated annual leave” means unuse
 
 #### Amendments
 
-1979—Subsec. (c). Pub. L. 96–76, repealed subsec. (c) which set forth limitations on granting of annual leave under subsec. (a) of this section.
+<b>1979</b>—Subsec. (c). Pub. L. 96–76, repealed subsec. (c) which set forth limitations on granting of annual leave under subsec. (a) of this section.
 
-1962—Subsec. (b). Pub. L. 87–649 repealed subsec. (b) which required forfeiture of all pay and allowances of an officer absent without leave. See section 503 of Title 37, Pay and Allowances of the Uniformed Services.
+<b>1962</b>—Subsec. (b). Pub. L. 87–649 repealed subsec. (b) which required forfeiture of all pay and allowances of an officer absent without leave. See section 503 of Title 37, Pay and Allowances of the Uniformed Services.
 
 Subsec. (c). Pub. L. 87–649 repealed last sentence which authorized a lump-sum payment for unused accumulated and accrued annual leave on date of separation, retirement, or release from active duty. See section 501 of Title 37, Pay and Allowances of the Uniformed Services.
 
@@ -52,5 +52,5 @@ Section 4 of act Aug. 9, 1950, provided for the availability of funds for paymen
 
 #### Leave Regulations
 
-Section 5 of act Aug. 9, 1950, provided that: “Except insofar as the provisions of this Act \[enacting this section, amending section 210 of this title, and enacting provisions set out as notes under this section and section 210 of this title\] are inconsistent therewith, leave regulations adopted prior to the enactment of this Act \[Aug. 9, 1950\], pursuant to the Public Health Service Act \[this chapter\], shall remain in effect until repealed, amended, or superseded.”
+Act Aug. 9, 1950, ch. 654, §5, 64 Stat. 427, provided that: “Except insofar as the provisions of this Act \[enacting this section, amending section 210 of this title, and enacting provisions set out as notes under this section and section 210 of this title\] are inconsistent therewith, leave regulations adopted prior to the enactment of this Act \[Aug. 9, 1950\], pursuant to the Public Health Service Act \[this chapter\], shall remain in effect until repealed, amended, or superseded.”
 

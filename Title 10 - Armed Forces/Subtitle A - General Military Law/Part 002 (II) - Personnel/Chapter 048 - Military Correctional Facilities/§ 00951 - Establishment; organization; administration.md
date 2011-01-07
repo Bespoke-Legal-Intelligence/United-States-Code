@@ -18,7 +18,7 @@
 
 #### Amendments
 
-1980—Subsec. (d). Pub. L. 96–513 substituted “at such facilities” for “as such facilities”.
+<b>1980</b>—Subsec. (d). Pub. L. 96–513 substituted “at such facilities” for “as such facilities”.
 
 #### Effective Date of 1980
 

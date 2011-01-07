@@ -46,9 +46,9 @@ A prior section 4316 was renumbered section 7616 of this title.
 
 #### Amendments
 
-2000—Subsec. (e). Pub. L. 106–419 added subsec. (e).
+<b>2000</b>—Subsec. (e). Pub. L. 106–419 added subsec. (e).
 
-1996—Subsec. (d). Pub. L. 104–275 inserted at end “No employer may require any such person to use vacation, annual, or similar leave during such period of service.”
+<b>1996</b>—Subsec. (d). Pub. L. 104–275 inserted at end “No employer may require any such person to use vacation, annual, or similar leave during such period of service.”
 
 #### Effective Date of 2000 Amendment
 

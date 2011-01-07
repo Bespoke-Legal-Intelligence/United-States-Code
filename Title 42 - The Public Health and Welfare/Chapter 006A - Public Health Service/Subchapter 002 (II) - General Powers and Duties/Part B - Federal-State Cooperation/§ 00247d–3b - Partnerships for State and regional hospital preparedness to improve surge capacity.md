@@ -74,7 +74,7 @@ An eligible entity shall, to the extent practicable, ensure that activities carr
 
 #### (2) Rule of construction
 
-&emsp;Nothing in this section shall be construed to prohibit the use of awards under this section to pay salary and related expenses of public health and other professionals employed by State, local, or tribal agencies who are carrying out activities supported by such awards (regardless of whether the primary assignment of such personnel is to carry out such activities).
+&emsp;Nothing in this section shall be construed to prohibit the use of awards under this section to pay salary and related expenses of public health and other professionals employed by State, local, or tribal agencies who are carrying out activities supported by such awards (regardless of whether the primary assignmentof such personnel is to carry out such activities).
 
 #### (i) Performance and accountability
 
@@ -104,7 +104,7 @@ The requirements of section 247d–3a(g), (j), and (k) of this title shall apply
 
 #### Amendments
 
-2007—Subsec. (j)(3)(B). Pub. L. 110–85 substituted “section 247d–3a(i)” for “section 247d–3a(h)”.
+<b>2007</b>—Subsec. (j)(3)(B). Pub. L. 110–85 substituted “section 247d–3a(i)” for “section 247d–3a(h)”.
 
-2006—Pub. L. 109–417 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (i) relating to partnerships for community and hospital preparedness.
+<b>2006</b>—Pub. L. 109–417 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (i) relating to partnerships for community and hospital preparedness.
 

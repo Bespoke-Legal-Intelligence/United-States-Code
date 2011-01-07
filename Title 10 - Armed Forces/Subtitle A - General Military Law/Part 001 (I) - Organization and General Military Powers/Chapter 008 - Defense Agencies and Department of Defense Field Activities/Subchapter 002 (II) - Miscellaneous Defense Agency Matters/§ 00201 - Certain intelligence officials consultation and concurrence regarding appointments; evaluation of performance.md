@@ -36,9 +36,9 @@ A prior section 201 was renumbered section 202 of this title and subsequently re
 
 #### Amendments
 
-2009—Subsecs. (a), (b)(1), (c)(1). Pub. L. 111–84 repealed Pub. L. 110–417, §932(a)(3)–(5). See 2008 Amendment notes below.
+<b>2009</b>—Subsecs. (a), (b)(1), (c)(1). Pub. L. 111–84 repealed Pub. L. 110–417, §932(a)(3)–(5). See 2008 Amendment notes below.
 
-2008—Subsec. (a). Pub. L. 110–181, §931(a)(4), and Pub. L. 110–417, §932(a)(3), amended subsec. (a) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, §932(a)(3), was repealed by Pub. L. 111–84.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §931(a)(4), and Pub. L. 110–417, §932(a)(3), amended subsec. (a) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, §932(a)(3), was repealed by Pub. L. 111–84.
 
 Subsec. (b)(1). Pub. L. 110–417, §932(a)(4), which directed substitution of “Director of National Intelligence” for “Director of Central Intelligence”, could not be executed because of the intervening amendment by Pub. L. 110–181, §931(c)(2)(A), and was repealed by Pub. L. 111–84.
 
@@ -48,9 +48,9 @@ Subsec. (c)(1). Pub. L. 110–181, §931(c)(2)(B), substituted “National Intel
 
 Pub. L. 110–181, §931(a)(5), and Pub. L. 110–417, §932(a)(5), amended par. (1) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, §932(a)(5), was repealed by Pub. L. 111–84.
 
-2003—Subsecs. (b)(2)(C), (c)(2)(C). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2003</b>—Subsecs. (b)(2)(C), (c)(2)(C). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-1996—Pub. L. 104–201 substituted “Certain intelligence officials: consultation and concurrence regarding appointments; evaluation of performance” for “Consultation regarding appointment of certain intelligence officials” in section catchline and amended text generally. Prior to amendment, text read as follows: “Before submitting a recommendation to the President regarding the appointment of an individual to the position of Director of the Defense Intelligence Agency or Director of the National Security Agency, the Secretary of Defense shall consult with the Director of Central Intelligence regarding the recommendation.”
+<b>1996</b>—Pub. L. 104–201 substituted “Certain intelligence officials: consultation and concurrence regarding appointments; evaluation of performance” for “Consultation regarding appointment of certain intelligence officials” in section catchline and amended text generally. Prior to amendment, text read as follows: “Before submitting a recommendation to the President regarding the appointment of an individual to the position of Director of the Defense Intelligence Agency or Director of the National Security Agency, the Secretary of Defense shall consult with the Director of Central Intelligence regarding the recommendation.”
 
 #### Effective Date of 2009 Amendment
 

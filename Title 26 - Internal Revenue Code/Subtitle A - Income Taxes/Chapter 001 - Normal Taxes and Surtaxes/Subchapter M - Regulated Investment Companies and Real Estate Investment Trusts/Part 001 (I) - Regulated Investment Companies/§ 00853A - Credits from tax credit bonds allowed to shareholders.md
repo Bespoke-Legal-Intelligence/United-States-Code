@@ -28,7 +28,7 @@ If the election provided in subsection (a) is in effect for any taxable year—
 
 &emsp;&emsp;(B) be allowed the shareholder's proportionate share of such credits against the tax imposed by this chapter.
 
-#### (c) Notice to shareholders
+#### (c) Statements to shareholders
 
 For purposes of subsection (b)(3), the shareholder's proportionate share of—
 
@@ -36,11 +36,11 @@ For purposes of subsection (b)(3), the shareholder's proportionate share of—
 
 &emsp;(2) gross income in respect of such credits,
 
-> shall not exceed the amounts so designated by the regulated investment company in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year.
+> shall not exceed the amounts so reported by the regulated investment company in a written statement furnished to such shareholder.
 
-#### (d) Manner of making election and notifying shareholders
+#### (d) Manner of making election
 
-The election provided in subsection (a) and the notice to shareholders required by subsection (c) shall be made in such manner as the Secretary may prescribe.
+The election provided in subsection (a) shall be made in such manner as the Secretary may prescribe.
 
 #### (e) Definitions and special rules
 
@@ -74,7 +74,17 @@ The election provided in subsection (a) and the notice to shareholders required 
 
 The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this section, including methods for determining a shareholder's proportionate share of credits.
 
-(Added Pub. L. 111–5, div. B, title I, §1541(a), Feb. 17, 2009, 123 Stat. 360.)
+(Added Pub. L. 111–5, div. B, title I, §1541(a), Feb. 17, 2009, 123 Stat. 360; amended Pub. L. 111–325, title III, §301(d), Dec. 22, 2010, 124 Stat. 3544.)
+
+#### Amendments
+
+<b>2010</b>—Subsec. (c). Pub. L. 111–325, §301(d)(1), substituted “Statements” for “Notice” in heading and “so reported by the regulated investment company in a written statement furnished to such shareholder” for “so designated by the regulated investment company in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year” in concluding provisions.
+
+Subsec. (d). Pub. L. 111–325, §301(d)(2), struck out “and notifying shareholders” after “election” in heading and “and the notice to shareholders required by subsection (c)” after “subsection (a)” in text.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–325 applicable to taxable years beginning after Dec. 22, 2010, see section 301(h) of Pub. L. 111–325, set out as a note under section 852 of this title.
 
 #### Effective Date
 

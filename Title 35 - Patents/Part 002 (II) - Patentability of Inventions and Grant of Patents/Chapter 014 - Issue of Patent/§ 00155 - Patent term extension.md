@@ -12,9 +12,9 @@ Date of enactment of this section, referred to in text, means date of enactment 
 
 #### Amendments
 
-2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
+<b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
 
-1999—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted “Director shall promptly” for “Commissioner shall promptly”.
+<b>1999</b>—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted “Director shall promptly” for “Commissioner shall promptly”.
 
 Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(6)\], substituted “notify the Director” for “notify the Commissioner of Patents and Trademarks”.
 

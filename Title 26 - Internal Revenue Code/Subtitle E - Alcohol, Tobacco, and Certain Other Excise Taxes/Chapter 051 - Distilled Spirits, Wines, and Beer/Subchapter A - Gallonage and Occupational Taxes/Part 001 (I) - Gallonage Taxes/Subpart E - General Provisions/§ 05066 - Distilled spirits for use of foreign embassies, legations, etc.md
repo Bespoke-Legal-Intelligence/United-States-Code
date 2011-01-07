@@ -38,15 +38,15 @@ A prior section 5066 was renumbered 5067 of this title.
 
 #### Amendments
 
-1984—Subsec. (a)(2). Pub. L. 98–369 substituted “marked” for “stamped or restamped, and marked,”.
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–369 substituted “marked” for “stamped or restamped, and marked,”.
 
-1979—Subsec. (a)(1). Pub. L. 96–39, §807(a)(11)(A), substituted “bottled distilled spirits” for “distilled spirits bottled in bond for export under the provisions of section 5233, or bottled distilled spirits returned to bonded premises under section 5215(b),”.
+<b>1979</b>—Subsec. (a)(1). Pub. L. 96–39, §807(a)(11)(A), substituted “bottled distilled spirits” for “distilled spirits bottled in bond for export under the provisions of section 5233, or bottled distilled spirits returned to bonded premises under section 5215(b),”.
 
 Subsec. (b). Pub. L. 96–39, §807(a)(11)(B), struck out “or domestic distilled spirits transferred to customs bonded warehouses under section 5521(d)(2)” after “the provisions of subsection (a)”.
 
-1977—Subsec. (a)(1). Pub. L. 95–176 substituted par. (1) heading “Bottled distilled spirits withdrawn from bonded premises” for “Distilled spirits bottled in bond for export” and authorized withdrawal of bottled distilled spirits returned to bonded premises under section 5215(b) as provided in section 5214(a)(4).
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–176 substituted par. (1) heading “Bottled distilled spirits withdrawn from bonded premises” for “Distilled spirits bottled in bond for export” and authorized withdrawal of bottled distilled spirits returned to bonded premises under section 5215(b) as provided in section 5214(a)(4).
 
-1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 1984 Amendment
 
@@ -58,7 +58,7 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–176 effective on first day of first calendar month beginning more than 90 days after Nov. 14, 1977, see section 7 of Pub. L. 95–176, set out as a note under section 5003 of this title.
+Amendment by Pub. L. 95–176 effective on first day of first calendar month beginning more than 90 days afterNov. 14, 1977, see section 7 of Pub. L. 95–176, set out as a note under section 5003 of this title.
 
 #### Effective Date
 

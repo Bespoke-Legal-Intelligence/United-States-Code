@@ -6,7 +6,7 @@ The Secretary shall, during 1964, appoint an Advisory Council on Public Welfare 
 
 #### (b) Membership and representation of interests on initial Council
 
-The Council shall be appointed by the Secretary without regard to the provisions of title 5 governing appointments in the competitive service and shall consist of twelve persons who shall, to the extent possible, be representatives of employers and employees in equal numbers, representatives of State or Federal agencies concerned with the administration or financing of the public assistance and child welfare services programs, representatives of nonprofit private organizations concerned with social welfare programs, other persons with special knowledge, experience, or qualifications with respect to such programs, and members of the public.
+The Council shall be appointed by the Secretary without regard to the provisions of title 5 governing appointments in the competitive service and shall consist of twelve persons who shall, to the extent possible, be representatives of employers and employees in equal numbers, representatives of State or Federal agencies concerned with the administration or financing of the public assistance and child welfare services programs, representatives of nonprofit private organizations concerned with social welfare programs, other persons with special knowledge,experience, or qualifications with respect to such programs, and members of the public.
 
 #### (c) Technical and other assistance for initial Council; availability of data
 
@@ -40,23 +40,19 @@ Members of the Council or of any advisory committee appointed under this section
 
 (Aug. 14, 1935, ch. 531, title XI, §1114, as added Pub. L. 87–543, title I, §121, July 25, 1962, 76 Stat. 190; amended Pub. L. 90–248, title IV, §403(e), Jan. 2, 1968, 81 Stat. 932; Pub. L. 98–369, div. B, title VI, §2663(e)(4), (j)(2)(D)(iv), July 18, 1984, 98 Stat. 1168, 1170; Pub. L. 106–554, §1(a)(6) \[title V, §522(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–546; Pub. L. 108–173, title IX, §948(a)(1)(A), Dec. 8, 2003, 117 Stat. 2425.)
 
-#### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in subsecs. (b) and (f), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 #### Amendments
 
-2003—Subsec. (i). Pub. L. 108–173 redesignated and transferred subsec. (i) of this section to subsec. (j) of section 1395y of this title.
+<b>2003</b>—Subsec. (i). Pub. L. 108–173 redesignated and transferred subsec. (i) of this section to subsec. (j) of section 1395y of this title.
 
-2000—Subsec. (i). Pub. L. 106–554 added subsec. (i).
+<b>2000</b>—Subsec. (i). Pub. L. 106–554 added subsec. (i).
 
-1984—Subsec. (c). Pub. L. 98–369, §2663(j)(2)(D)(iv), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–369, §2663(j)(2)(D)(iv), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
 Subsec. (g). Pub. L. 98–369, §2663(e)(4)(A), made technical correction of typographical error resulting in no change in text.
 
 Subsec. (h)(1). Pub. L. 98–369, §2663(e)(4)(B), substituted “sections 203, 205, and 209 of title 18” for “sections 281, 283, and 1914 of title 18 and section 190 of the Revised Statutes (5 U.S.C. 99)”.
 
-1968—Subsecs. (b), (f). Pub. L. 90–248, §403(e)(1), (2), substituted “provisions of title 5, governing appointments in the competitive service” for “civil-service laws”.
+<b>1968</b>—Subsecs. (b), (f). Pub. L. 90–248, §403(e)(1), (2), substituted “provisions of title 5, governing appointments in the competitive service” for “civil-service laws”.
 
 Subsec. (g). Pub. L. 90–248, §403(e)(3), substituted “section 5703 of title 5” for “section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 73b–2)”.
 
@@ -78,7 +74,7 @@ Pub. L. 106–554, §1(a)(6) \[title V, §522(d)\], Dec. 21, 2000, 114 Stat. 276
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting anyright, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Termination of Advisory Committees
 

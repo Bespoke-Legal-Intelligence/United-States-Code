@@ -128,11 +128,11 @@ Sections 205(a)(3)(A) or (B) and 206(b)(7) of the National Driver Register Act o
 
 #### Amendments
 
-1996—Subsec. (e)(3). Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “1,600 gross tons”.
+<b>1996</b>—Subsec. (e)(3). Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “1,600 gross tons”.
 
-1990—Subsecs. (g) to (i). Pub. L. 101–380 added subsecs. (g) to (i).
+<b>1990</b>—Subsecs. (g) to (i). Pub. L. 101–380 added subsecs. (g) to (i).
 
-1984—Subsec. (e)(3). Pub. L. 98–557 inserted exemption for pilots on a vessel of less than 1,600 gross tons.
+<b>1984</b>—Subsec. (e)(3). Pub. L. 98–557 inserted exemption for pilots on a vessel of less than 1,600 gross tons.
 
 #### Effective Date of 1990 Amendment
 

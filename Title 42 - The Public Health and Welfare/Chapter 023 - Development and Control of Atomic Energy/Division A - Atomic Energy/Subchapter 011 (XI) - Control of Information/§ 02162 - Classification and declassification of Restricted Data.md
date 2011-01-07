@@ -28,15 +28,15 @@ Section 102(d) of the National Security Act of 1947, as amended, referred to in 
 
 #### Amendments
 
-1994—Subsec. (d). Pub. L. 103–337, §3155(c)(2), substituted “subsection (b) or (d) of section 2164 of this title” for “section 2164(b) of this title”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–337, §3155(c)(2), substituted “subsection (b) or (d) of section 2164 of this title” for “section 2164(b) of this title”.
 
 Subsec. (f). Pub. L. 103–337, §3155(c)(3), struck out subsec. (f) which read as follows: “Notwithstanding any other law, the President may publicly release Restricted Data regarding the nuclear weapons stockpile of the United States if the United States and member states of the Commonwealth of Independent States reach reciprocal agreement on the release of such data.”
 
-1992—Subsec. (f). Pub. L. 102–484 added subsec. (f).
+<b>1992</b>—Subsec. (f). Pub. L. 102–484 added subsec. (f).
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in theDirector's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Review of Certain Documents Before Declassification and Release
 

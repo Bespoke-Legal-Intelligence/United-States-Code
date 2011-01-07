@@ -524,7 +524,7 @@ This chapter, referred to in subsecs. (f)(2)(D)(i)(II) and (h)(4), was in the or
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–293, §301(a)(1), inserted “Central Asia, Eastern Europe, Latin America” after “Caribbean,”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–293, §301(a)(1), inserted “Central Asia, Eastern Europe, Latin America” after “Caribbean,”.
 
 Subsec. (b). Pub. L. 110–293, §301(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “It is a major objective of the foreign assistance program of the United States to provide assistance for the prevention, treatment, and control of HIV/AIDS. The United States and other developed countries should provide assistance to countries in sub-Saharan Africa, the Caribbean, and other countries and areas to control this crisis through HIV/AIDS prevention, treatment, monitoring, and related activities, particularly activities focused on women and youth, including strategies to protect women and prevent mother-to-child transmission of the HIV infection.”
 

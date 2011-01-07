@@ -70,5 +70,5 @@ Section 502(b) of the Covenant To Establish a Commonwealth of the Northern Maria
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–181 inserted “or” after semicolon at end of par. (2), redesignated par. (4) as (3), and struck out former par. (3) which read as follows: “Canton Island until the President declares by proclamation that the coastwise laws apply to Canton Island; or”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–181 inserted “or” after semicolon at end of par. (2), redesignated par. (4) as (3), and struck out former par. (3) which read as follows: “Canton Island until the President declares by proclamation that the coastwise laws apply to Canton Island; or”.
 

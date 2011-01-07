@@ -36,7 +36,7 @@ Within one hundred and twenty days from December 30, 1970, the balance of the fu
 
 #### (2) General assessment authority
 
-&emsp;SIPC shall, by bylaw, impose upon its members such assessments as, after consultation with self-regulatory organizations, SIPC maydeem necessary and appropriate to establish and maintain the fund and to repay any borrowings by SIPC. Any assessments so made shall be in conformity with contractual obligations made by SIPC in connection with any borrowing incurred by SIPC. Subject to paragraph (3) and subsection (d)(1)(A) of this section, any such assessment upon the members, or any one or more classes thereof, may, in whole or in part, be based upon or measured by (A) the amount of their gross revenues from the securities business, or (B) all or any of the following factors: the amount or composition of their gross revenues from the securities business, the number or dollar volume of transactions effected by them, the number of customer accounts maintained by them or the amounts of cash and securities in such accounts, their net capital, the nature of their activities (whether in the securities business or otherwise) and the consequent risks, or other relevant factors.
+&emsp;SIPC shall, by bylaw, impose upon its members such assessments as, after consultation with self-regulatory organizations, SIPC may deem necessary and appropriate to establish and maintain the fund and to repay any borrowings by SIPC. Any assessments so made shall be in conformity with contractual obligations made by SIPC in connection with any borrowing incurred by SIPC. Subject to paragraph (3) and subsection (d)(1)(A) of this section, any such assessment upon the members, or any one or more classes thereof, may, in whole or in part, be based upon or measured by (A) the amount of their gross revenues from the securities business, or (B) all or any of the following factors: the amount or composition of their gross revenues from the securities business, the number or dollar volume of transactions effected by them, the number of customer accounts maintained by them or the amounts of cash and securities in such accounts, their net capital, the nature of their activities (whether in the securities business or otherwise) and the consequent risks, or other relevant factors.
 
 #### (3) Limitations
 
@@ -52,7 +52,7 @@ Within one hundred and twenty days from December 30, 1970, the balance of the fu
 
 #### (1) Assessments
 
-#### (A) 1/2 of 1 percent assessment
+#### (A) ½ of 1 percent assessment
 
 &emsp;&emsp;Subject to subsection (c)(3) of this section, SIPC shall impose upon each of its members an assessment at a rate of not less than one-half of 1 per centum per annum of the gross revenues from the securities business of such member—
 
@@ -62,7 +62,7 @@ Within one hundred and twenty days from December 30, 1970, the balance of the fu
 
 &emsp;&emsp;&emsp;(iii) whenever the balance of the fund (exclusive of confirmed lines of credit) is below $100,000,000 (or such other amount as the Commission may determine in the public interest).
 
-#### (B) 1/4 of 1 percent assessment
+#### (B) ¼ of 1 percent assessment
 
 &emsp;&emsp;During any period during which—
 
@@ -74,7 +74,7 @@ Within one hundred and twenty days from December 30, 1970, the balance of the fu
 
 #### (C) Minimum assessment
 
-&emsp;&emsp;The minimum assessment imposed upon each member of SIPC shall be $25 per annum through the year ending December 31, 1979, and thereafter shall be the amount from time to time set by SIPC bylaw, but in no event shall the minimum assessment be greater than $150 per annum.
+&emsp;&emsp;The minimum assessment imposed upon each member of SIPC shall be $25 per annum through the year ending December 31, 1979, and thereafter shall be the amount from time to time set by SIPC bylaw, but in no event shall the minimum assessment be greater than 0.02 percent of the gross revenues from the securities business of such member of SIPC.
 
 #### (2) Lines of credit
 
@@ -94,7 +94,7 @@ Within one hundred and twenty days from December 30, 1970, the balance of the fu
 
 #### (2) Overpayments
 
-&emsp;To the extent that any payment by a member exceeds the maximum rate permitted by subsection (c) of this section, the excess shall be recoverable only against future paymentsby such member, except as otherwise provided by SIPC bylaw.
+&emsp;To the extent that any payment by a member exceeds the maximum rate permitted by subsection (c) of this section, the excess shall be recoverable only against future payments by such member, except as otherwise provided by SIPC bylaw.
 
 #### (3) Underpayments
 
@@ -106,17 +106,17 @@ SIPC shall have the power to borrow moneys and to evidence such borrowed moneys 
 
 #### (g) SEC loans to SIPC
 
-In the event that the fund is or may reasonably appear to be insufficient for the purposes of this chapter, the Commission is authorized to make loans to SIPC. At the time of application for, and as a condition to, any such loan, SIPC shall file with the Commission a statement with respect to the anticipated use of the proceeds of the loan. If the Commission determines that such loan is necessary for the protection of customers of brokers or dealers and the maintenance of confidence in the United States securities markets and the SIPC has submitted a plan which provides as reasonable an assurance of prompt repayment as may be feasible under the circumstances, then the Commission shall so certify to the Secretary of the Treasury, and issue notes or other obligations to the Secretary of the Treasury pursuant to subsection (h) of this section. If the Commission determines that the amount or time for payment of the assessments pursuant to such plan would not satisfactorily provide for the repayment of such loan, it may, by rules and regulations, impose upon the purchasers of equity securities in transactions on national securities exchanges and in the over-the-counter markets a transaction fee in such amount as at any time or from time to time it may determine to be appropriate, but not exceeding one-fiftieth of 1 per centum of the purchase price of the securities. No such fee shall be imposed on a transaction (as defined by rules or regulations of the Commission) of less than $5,000. For the purposes of the next preceding sentence, (1) the fee shall be based upon the total dollar amount of each purchase; (2) the fee shall not apply to any purchase on a national securities exchange or in an over-the-counter market by or for the account of a broker or dealer registered under section 78<i>o</i>(b) of this title unless such purchase is for an investment account of such broker or dealer (and for this purpose any transfer from a trading account to an investment account shall be deemed a purchase at fair market value); and (3) the Commission may, by rule, exempt any transaction in the over-the-counter markets or on any national securities exchange where necessary to provide for the assessment of fees on purchasers in transactions in such markets and exchanges on a comparable basis. Such fee shall be collected by the broker or dealer effecting the transaction for or with the purchaser, or by such other person as provided by the Commission by rule, and shall be paid to SIPC in the same manner as assessments imposed pursuant to subsection (c) of this section but without regard to the limits on such assessments, or in such other manner as the Commission may by rule provide.
+In the event that the fund is or may reasonably appear to be insufficient for the purposes of this chapter, the Commission is authorized to make loans to SIPC. At the time of application for, and as a condition to, any such loan, SIPC shall file with the Commission a statement with respect to the anticipated use of the proceeds of the loan. If the Commission determines that such loan is necessary for the protection of customers of brokers or dealers and the maintenance of confidence in the United States securities markets and the SIPC has submitted a plan which provides as reasonable an assurance of prompt repayment as may be feasible under the circumstances, then the Commission shall so certify to the Secretary of the Treasury, and issue notes or other obligations to the Secretary of the Treasury pursuant to subsection (h) of this section. If the Commission determines thatthe amount or time for payment of the assessments pursuant to such plan would not satisfactorily provide for the repayment of such loan, it may, by rules and regulations, impose upon the purchasers of equity securities in transactions on national securities exchanges and in the over-the-counter markets a transaction fee in such amount as at any time or from time to time it may determine to be appropriate, but not exceeding one-fiftieth of 1 per centum of the purchase price of the securities. No such fee shall be imposed on a transaction (as defined by rules or regulations of the Commission) of less than $5,000. For the purposes of the next preceding sentence, (1) the fee shall be based upon the total dollar amount of each purchase; (2) the fee shall not apply to any purchase on a national securities exchange or in an over-the-counter market by or for the account of a broker or dealer registered under section 78<i>o</i>(b) of this title unless such purchase is for an investment account of such broker or dealer (and for this purpose any transfer from a trading account to an investment account shall be deemed a purchase at fair market value); and (3) the Commission may, by rule, exempt any transaction in the over-the-counter markets or on any national securities exchange where necessary to provide for the assessment of fees on purchasers in transactions in such markets and exchanges on a comparable basis. Such fee shall be collected by the broker or dealer effecting the transaction for or with the purchaser, or by such other person as provided by the Commission by rule, and shall be paid to SIPC in the same manner as assessments imposed pursuant to subsection (c) of this section but without regard to the limits on such assessments, or in such other manner as the Commission may by rule provide.
 
 #### (h) SEC notes issued to Treasury
 
-To enable the Commission to make loans under subsection (g) of this section, the Commission is authorized to issue to the Secretary of the Treasury notes or other obligations in an aggregate amount of not to exceed $1,000,000,000, in such forms and denominations, bearing such maturities, and subject to such terms and conditions, as may be prescribed by the Secretary ofthe Treasury. Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of the notes or other obligations. The Secretary of the Treasury may reduce the interest rate if he determines such reduction to be in the national interest. The Secretary of the Treasury is authorized and directed to purchase any notes and other obligations issued hereunder and for that purpose he is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under that chapter are extended to include any purchase of such notes and obligations. The Secretary of the Treasury may at any time sell any of the notes or other obligations acquired by him under this subsection. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes or other obligations shall be treated as public debt transactions of the United States.
+To enable the Commission to make loans under subsection (g) of this section, the Commission is authorized to issue to the Secretary of the Treasury notes or other obligations in an aggregate amount of not to exceed $2,500,000,000, in such forms and denominations, bearing such maturities, and subject to such terms and conditions, as may be prescribed by the Secretary of the Treasury. Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of the notes or other obligations. The Secretary of the Treasury may reduce the interest rate if he determines such reduction to be in the national interest. The Secretary of the Treasury is authorized and directed to purchase any notes and other obligations issued hereunder and for that purpose he is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under that chapter are extended to include any purchase of such notes and obligations. The Secretary of the Treasury may at any time sell any of the notes or other obligations acquired by him under this subsection. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes or other obligations shall be treated as public debt transactions of the United States.
 
 #### (i) Consolidated group
 
 Except as otherwise provided by SIPC bylaw, gross revenues from the securities business of a member of SIPC shall be computed on a consolidated basis for such member and all its subsidiaries (other than the foreign subsidiaries of such member), and the operations of a member of SIPC shall include those of any business to which such member has succeeded.
 
-(Pub. L. 91–598, §4, Dec. 30, 1970, 84 Stat. 1639; Pub. L. 95–283, §6, May 21, 1978, 92 Stat. 253.)
+(Pub. L. 91–598, §4, Dec. 30, 1970, 84 Stat. 1639; Pub. L. 95–283, §6, May 21, 1978, 92 Stat. 253; Pub. L. 111–203, title IX, §§929C, 929V(a), July 21, 2010, 124 Stat. 1852, 1868.)
 
 #### References in Text
 
@@ -128,7 +128,11 @@ In subsec. (h), “chapter 31 of title 31” and “that chapter” substituted 
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–283, §6(a), in par. (2) substituted “Except as otherwise provided in this section, the” for “The”, in par. (2)(C) inserted provisions for inapplicability to other lines of credit, and added par. (4).
+<b>2010</b>—Subsec. (d)(1)(C). Pub. L. 111–203, §929V(a), substituted “0.02 percent of the gross revenues from the securities business of such member of SIPC” for “$150 per annum”.
+
+Subsec. (h). Pub. L. 111–203, §929C, substituted “$2,500,000,000” for “$1,000,000,000” in first sentence.
+
+<b>1978</b>—Subsec. (a). Pub. L. 95–283, §6(a), in par. (2) substituted “Except as otherwise provided in this section, the” for “The”, in par. (2)(C) inserted provisions for inapplicability to other lines of credit, and added par. (4).
 
 Subsec. (c). Pub. L. 95–283, §6(b), in par. (2) struck out “or rule” after “bylaw”, and in par. (3) struck out reference to section 78ccc(f) of this title in introductory text and “or rule” after “bylaw” in subpar. (B).
 
@@ -140,5 +144,9 @@ Subsec. (f). Pub. L. 95–283, §6(e), struck out “examining authority as” b
 
 Subsec. (g). Pub. L. 95–283, §6(f), redesignated cls. (A) to (C) as (1) to (3), respectively, and, as so redesignated, in cl. (2) struck out applicability to a member of a national securities exchange and in cl. (3) substituted provisions relating to exemptions by rule of transactions in the over-the-counter market or on any national securities exchange, for provisions relating to exemptions by rules and regulations of transactions in the over-the-counter market, and inserted provisions authorizing the collection of fees by such other persons as designated by the Commission by rule for such purpose, and provisions relating to limits on manner of payment of fees.
 
-Subsec. (i). Pub. L. 95–283, §6(g), substituted “Consolidated group” for “ ‘Gross revenues’ defined” in heading, redesignated par. (2) as entire section and, as so redesignated, substituted provisions relating to computations by a member, for provisions relating to computations by a broker or dealer. Pars. (1) and (3), which generally defined term “gross revenues” and authorized the SIPC to define all other terms used in this subsec., respectively, were struck out.
+Subsec. (i). Pub. L. 95–283, §6(g), substituted “Consolidated group” for “ ‘Gross revenues’ defined” in heading,redesignated par. (2) as entire section and, as so redesignated, substituted provisions relating to computations by a member, for provisions relating to computations by a broker or dealer. Pars. (1) and (3), which generally defined term “gross revenues” and authorized the SIPC to define all other terms used in this subsec., respectively, were struck out.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 

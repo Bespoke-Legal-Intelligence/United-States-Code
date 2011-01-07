@@ -36,9 +36,7 @@ The provisions of this section shall not be construed to authorize or require an
 
 #### References in Text
 
-The Anti-Smuggling Act, referred to in subsec. (a), is act Aug. 5, 1935, ch. 438, 49 Stat. 517, as amended, which is classified principally to chapter 5 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see section 1711 of this title and Tables.
-
-The navigation laws, referred to in subsec. (b), are classified generally to Title 33, Navigation and Navigable Waters.
+The Anti-Smuggling Act, referred to in subsec. (a), is act Aug. 5, 1935, ch. 438, 49 Stat. 517, which is classified principally to chapter 5 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see section 1711 of this title and Tables.
 
 For definition of officer of the customs used in text, see section 1401 of this title.
 
@@ -50,11 +48,11 @@ Prior provisions dealing with the subject matter of this section were contained 
 
 #### Amendments
 
-1954—Subsec. (d). Act Sept. 1, 1954, provided a penalty against the owner, operator or person in charge, as well as the master, of a vessel failing to come to a required stop and struck out provisions relating to the duty of the customs officers to pursue such vessels.
+<b>1954</b>—Subsec. (d). Act Sept. 1, 1954, provided a penalty against the owner, operator or person in charge, as well as the master, of a vessel failing to come to a required stop and struck out provisions relating to the duty of the customs officers to pursue such vessels.
 
-1935—Act Aug. 5, 1935, amended section generally among which changes it subdivided the section into subsecs. (a) to (h), inclusive.
+<b>1935</b>—Act Aug. 5, 1935, amended section generally among which changes it subdivided the section into subsecs. (a) to (h), inclusive.
 
 #### Transfer of Functions
 
-Word “Treasury” was substituted for “Commerce” in subsection (b) upon authority of Reorg. Plan No. 3 of 1946. See note set out under section 1613 of this title.
+Word “Treasury” was substituted for “Commerce” in subsec. (b) upon authority of Reorg. Plan No. 3 of 1946. See note set out under section 1613 of this title.
 

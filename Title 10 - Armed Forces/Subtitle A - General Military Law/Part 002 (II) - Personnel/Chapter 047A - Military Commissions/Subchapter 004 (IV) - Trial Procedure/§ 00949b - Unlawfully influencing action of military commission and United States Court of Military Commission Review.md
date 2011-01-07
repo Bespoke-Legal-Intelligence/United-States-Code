@@ -2,7 +2,7 @@
 
 (a)
 
-Military Commissions.—(1) No authority convening a military commission under this chapter may censure, reprimand, or admonish the military commission, or any member, military judge, or counsel thereof, with respect to the findings or sentence adjudged by the military commission, or with respect to any other exercises of its or their functions in the conduct of the proceedings.
+Military Commissions.—(1) No authority convening a military commission under thischapter may censure, reprimand, or admonish the military commission, or any member, military judge, or counsel thereof, with respect to the findings or sentence adjudged by the military commission, or with respect to any other exercises of its or their functions in the conduct of the proceedings.
 
 (2) No person may attempt to coerce or, by any unauthorized means, influence—
 
@@ -46,7 +46,7 @@ United States Court of Military Commission Review.—(1) No person may attempt t
 
 (c)
 
-Prohibition on Consideration of Actions on Commission in Evaluation of Fitness.—In the preparation of an effectiveness, fitness, or efficiency report or any other report or document used in whole or in part for the purpose of determining whether a commissioned officer of the armed forces is qualified to be advanced in grade, or in determining the assignment or transfer of any such officer or whether any suchofficer should be retained on active duty, no person may—
+Prohibition on Consideration of Actions on Commission in Evaluation of Fitness.—In the preparation of an effectiveness, fitness, or efficiency report or any other report or document used in whole or in part for the purpose of determining whether a commissioned officer of the armed forces is qualified to be advanced in grade, or in determining the assignment or transfer of any such officer or whether any such officer should be retained on active duty, no person may—
 
 &emsp;(1) consider or evaluate the performance of duty of any member of a military commission under this chapter; or
 

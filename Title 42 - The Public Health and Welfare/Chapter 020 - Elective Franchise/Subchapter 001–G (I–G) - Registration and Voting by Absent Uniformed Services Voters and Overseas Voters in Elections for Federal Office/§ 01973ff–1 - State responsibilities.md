@@ -80,7 +80,7 @@ With respect to each absent uniformed services voter and each overseas voter who
 
 #### (4) Availability and maintenance of online repository of State contact information
 
-&emsp;The Federal Voting Assistance Program of the Department of Defense shall maintain andmake available to the public an online repository of State contact information with respect to elections for Federal office, including the single State office designated under subsection (b) and the means of electronic communication designated under paragraph (1), to be used by absent uniformed services voters and overseas voters as a resource to send voter registration applications and absentee ballot applications to the appropriate jurisdiction in the State.
+&emsp;The Federal Voting Assistance Program of the Department of Defense shall maintain and make available to the public an online repository of State contact information with respect to elections for Federal office, including the single State office designated under subsection (b) and the means of electronic communication designated under paragraph (1), to be used by absent uniformed services voters and overseas voters as a resource to send voter registration applications and absentee ballot applications to the appropriate jurisdiction in the State.
 
 #### (5) Transmission if no preference indicated
 
@@ -94,7 +94,7 @@ With respect to each absent uniformed services voter and each overseas voter who
 
 #### (B) Privacy protections
 
-&emsp;&emsp;To the extent practicable, the procedures established under subsection (a)(6) shall ensure that the privacy of the identity and other personal data of an absent uniformed services voter or overseas voter who requests or is sent a voter registration application or absentee ballot application under such subsection is protected throughout the process of making such request or being sent such application.
+&emsp;&emsp;To the extent practicable, the procedures established under subsection (a)(6) shall ensure that the privacy of the identity and other personal data of an absent uniformed services voter or overseas voter who requests or is sent a voter registration application or absentee ballot application under such subsection is protected throughout the processof making such request or being sent such application.
 
 #### (f) Transmission of blank absentee ballots by mail and electronically
 
@@ -144,7 +144,7 @@ With respect to each absent uniformed services voter and each overseas voter who
 
 &emsp;After consulting with the Attorney General, the Presidential designee shall approve a waiver request under paragraph (1) if the Presidential designee determines each of the following requirements are met:
 
-&emsp;&emsp;(A) The comprehensive plan under subparagraph (D) of such paragraph provides absent uniformed services voters and overseasvoters sufficient time to receive absentee ballots they have requested and submit marked absentee ballots to the appropriate State election official in time to have that ballot counted in the election for Federal office.
+&emsp;&emsp;(A) The comprehensive plan under subparagraph (D) of such paragraph provides absent uniformed services voters and overseas voters sufficient time to receive absentee ballots they have requested and submit marked absentee ballots to the appropriate State election official in time to have that ballot counted in the election for Federal office.
 
 &emsp;&emsp;(B) One or more of the following issues creates an undue hardship for the State:
 
@@ -196,7 +196,7 @@ Pub. L. 111–84, §§577(a)(1), 578(a)(1), 579(a)(1), (b), 580(c), and 584(b), 
 
 #### Amendments
 
-2009—Subsec. (a)(6). Pub. L. 111–84, §577(a)(1), added par. (6).
+<b>2009</b>—Subsec. (a)(6). Pub. L. 111–84, §577(a)(1), added par. (6).
 
 Subsec. (a)(7). Pub. L. 111–84, §578(a)(1), added par. (7).
 
@@ -218,9 +218,9 @@ Subsec. (h). Pub. L. 111–84, §580(d), added subsec. (h).
 
 Subsec. (i). Pub. L. 111–84, §582(a), added subsec. (i).
 
-2004—Subsec. (a)(3). Pub. L. 108–375 substituted “absent uniformed services voters and overseas voters” for “overseas voters”.
+<b>2004</b>—Subsec. (a)(3). Pub. L. 108–375 substituted “absent uniformed services voters and overseas voters” for “overseas voters”.
 
-2002—Pub. L. 107–252, §702, designated existing provisions as subsec. (a) and added subsec. (b).
+<b>2002</b>—Pub. L. 107–252, §702, designated existing provisions as subsec. (a) and added subsec. (b).
 
 Subsec. (a)(5). Pub. L. 107–252, §705(b)(2), added par. (5).
 
@@ -228,7 +228,7 @@ Subsec. (c). Pub. L. 107–252, §703(a), added subsec. (c).
 
 Subsec. (d). Pub. L. 107–252, §707, added subsec. (d).
 
-2001—Par. (2). Pub. L. 107–107, §1606(a)(1)(A), struck out “general, special, primary, or runoff” before “election for Federal office” and “and” after semicolon at end and inserted “and absentee ballot application” after “voter registration application”.
+<b>2001</b>—Par. (2). Pub. L. 107–107, §1606(a)(1)(A), struck out “general, special, primary, or runoff” before “election for Federal office” and “and” after semicolon at end and inserted “and absentee ballot application” after “voter registration application”.
 
 Par. (4). Pub. L. 107–107, §1606(a)(1)(B), (C), added par. (4).
 
@@ -248,7 +248,7 @@ Amendment by section 584(b) of Pub. L. 111–84 applicable with respect to the r
 
 #### Clarification Regarding Delegation of State Responsibilities to Local Jurisdictions
 
-Pub. L. 111–84, div. A, title V, §576, Oct. 28, 2009, 123 Stat. 2319, provided that: “Nothing in the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.) may be construed to prohibit a State from delegating its responsibilities in carrying out the requirements of such Act, including any requirements imposed as a result of the provisions of and amendments made by this Act \[probably means subtitle H (§§575–589) of title V of div. A of Pub. L. 111–84, see Short Title of 2009 Amendment note set out under section 1971 of this title\], to jurisdictions in the State.”
+Pub. L. 111–84, div. A, title V, §576, Oct. 28, 2009, 123 Stat. 2319, provided that: “Nothing in the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.) may be construed to prohibit a State from delegating its responsibilities in carrying out the requirements of such Act, including any requirements imposed as a result of the provisions of and amendments made by this Act \[probably means subtitle H (§§575–589) of title V of div. A of Pub. L. 111–84, seeShort Title of 2009 Amendment note set out under section 1971 of this title\], to jurisdictions in the State.”
 
 #### Development of Standardized Format for Reports
 

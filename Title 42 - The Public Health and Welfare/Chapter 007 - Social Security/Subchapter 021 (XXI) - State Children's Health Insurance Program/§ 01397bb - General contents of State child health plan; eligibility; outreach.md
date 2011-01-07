@@ -38,9 +38,11 @@ A State child health plan shall include a description, consistent with the requi
 
 &emsp;&emsp;&emsp;(ii) may not deny eligibility based on a child having a preexisting medical condition;
 
-&emsp;&emsp;&emsp;(iii) may not apply a waiting period (including a waiting period to carry out paragraph (3)(C)) in the case of a targeted low-income pregnant woman provided pregnancy-related assistance under section 1397<i>ll</i> of this title; and
+&emsp;&emsp;&emsp;(iii) may not apply a waiting period (including a waiting period to carry out paragraph (3)(C)) in the case of a targeted low-income pregnant woman provided pregnancy-related assistance under section 1397<i>ll</i> of this title;
 
-&emsp;&emsp;&emsp;(iv) at State option, may not apply a waiting period in the case of a child provided dental-only supplemental coverage under section 1397jj(b)(5) of this title.
+&emsp;&emsp;&emsp;(iv) at State option, may not apply a waiting period in the case of a child provided dental-only supplemental coverage under section 1397jj(b)(5) of this title; and
+
+&emsp;&emsp;&emsp;(v) shall, beginning January 1, 2014, use modified adjusted gross income and household income (as defined in section 36B(d)(2) of the Internal Revenue Code of 1986) to determine eligibility for child health assistance under the State child health plan or under any waiver of such plan and for anyother purpose applicable under the plan or waiver for which a determination of income is required, including with respect to the imposition of premiums and cost-sharing, consistent with section 1396a(e)(14) of this title.
 
 #### (2) Methodology
 
@@ -50,13 +52,13 @@ A State child health plan shall include a description, consistent with the requi
 
 &emsp;The plan shall include a description of procedures to be used to ensure—
 
-&emsp;&emsp;(A) through both intake and followup screening, that only targeted low-incomechildren are furnished child health assistance under the State child health plan;
+&emsp;&emsp;(A) through both intake and followup screening, that only targeted low-income children are furnished child health assistance under the State child health plan;
 
 &emsp;&emsp;(B) that children found through the screening to be eligible for medical assistance under the State medicaid plan under subchapter XIX of this chapter are enrolled for such assistance under such plan;
 
 &emsp;&emsp;(C) that the insurance provided under the State child health plan does not substitute for coverage under group health plans;
 
-&emsp;&emsp;(D) the provision of child health assistance to targeted low-income children in the State who are Indians (as defined in section 1603(c) of title 25); and
+&emsp;&emsp;(D) the provision of child health assistance to targeted low-income children in the State who are Indians (as defined in section 1603(c) <sup>1</sup> of title 25); and
 
 &emsp;&emsp;(E) coordination with other public and private programs providing creditable coverage for low-income children.
 
@@ -90,11 +92,21 @@ A State child health plan shall include a description of the procedures to be us
 
 &emsp;In the case of a State that provides for premium assistance subsidies under the State child health plan in accordance with paragraph (2)(B), (3), or (10) of section 1397ee(c) of this title, or a waiver approved under section 1315 of this title, outreach, education, and enrollment assistance for families of children likely to be eligible for such subsidies, to inform such families of the availability of, and to assist them in enrolling their children in, such subsidies, and for employers likely to provide coverage that is eligible for such subsidies, including the specific, significant resources the State intends to apply to educate employers about the availability of premium assistance subsidies under the State child health plan.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2102, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 552; amended Pub. L. 111–3, title I, §111(b)(2), title II, §§201(b)(2)(B)(i), 212, title III, §302(a), title V, §501(a)(2), (b)(2), Feb. 4, 2009, 123 Stat. 28, 39, 55, 63, 85, 86.)
+(Aug. 14, 1935, ch. 531, title XXI, §2102, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 552; amended Pub. L. 111–3, title I, §111(b)(2), title II, §§201(b)(2)(B)(i), 212, title III, §302(a), title V, §501(a)(2), (b)(2), Feb. 4, 2009, 123 Stat. 28, 39, 55, 63, 85, 86; Pub. L. 111–148, title II, §2101(d)(1), Mar. 23, 2010, 124 Stat. 287; Pub. L. 111–152, title I, §1004(b)(2)(A), Mar. 30, 2010, 124 Stat. 1034.)
+
+#### References in Text
+
+The Internal Revenue Code of 1986, referred to in subsec. (b)(1)(B)(v), is classified generally to Title 26, Internal Revenue Code.
+
+Section 1603(c) of title 25, referred to in subsec. (b)(3)(D), was redesignated section 1603(13) of title 25 by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.
 
 #### Amendments
 
-2009—Subsec. (a)(7)(B). Pub. L. 111–3, §501(a)(2), inserted “and services described in section 1397cc(c)(5) of this title” after “emergency services”.
+<b>2010</b>—Subsec. (b)(1)(B)(v). Pub. L. 111–152 substituted “modified adjusted gross income” for “modified gross income”.
+
+Pub. L. 111–148 added cl. (v).
+
+<b>2009</b>—Subsec. (a)(7)(B). Pub. L. 111–3, §501(a)(2), inserted “and services described in section 1397cc(c)(5) of this title” after “emergency services”.
 
 Subsec. (b)(1)(B)(iii), (iv). Pub. L. 111–3, §§111(b)(2), 501(b)(2), added cls. (iii) and (iv).
 
@@ -109,4 +121,6 @@ Subsec. (c)(3). Pub. L. 111–3, §302(a), added par. (3).
 Amendment by sections 111(b)(2), 201(b)(2)(B)(i), 212, 302(a), and 501(b)(2) of Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of this title.
 
 Pub. L. 111–3, title V, §501(a)(3), Feb. 4, 2009, 123 Stat. 85, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and section 1397cc of this title\] shall apply to coverage of items and services furnished on or after October 1, 2009.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

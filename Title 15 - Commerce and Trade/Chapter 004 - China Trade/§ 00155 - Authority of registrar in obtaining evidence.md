@@ -18,7 +18,7 @@ For the efficient administration of the functions vested in the registrar by thi
 
 #### Amendments
 
-1970—Subsec. (c). Pub. L. 91–452 struck out subsec. (c) which granted immunity from prosecution for any natural person testifying in obedience to a subpoena.
+<b>1970</b>—Subsec. (c). Pub. L. 91–452 struck out subsec. (c) which granted immunity from prosecution for any natural person testifying in obedience to a subpoena.
 
 #### Effective Date of 1970 Amendment
 

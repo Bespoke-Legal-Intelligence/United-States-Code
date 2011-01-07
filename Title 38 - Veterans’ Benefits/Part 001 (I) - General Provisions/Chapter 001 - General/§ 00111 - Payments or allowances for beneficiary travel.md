@@ -1,8 +1,8 @@
 ### §111. Payments or allowances for beneficiary travel
 
-(a) Under regulations prescribed by the President pursuant to the provisions of this section, the Secretary may pay the actual necessary expense of travel (including lodging and subsistence), or in lieu thereof an allowance based upon mileage traveled, of any person to or from a Department facility or other place in connection with vocational rehabilitation, counseling required by the Secretary pursuant to chapter 34 or 35 of this title, or for the purpose of examination, treatment, or care. In addition to the mileage allowance authorized by this section, there may be allowed reimbursement for the actual cost of ferry fares, and bridge, road, and tunnel tolls.
+(a) Under regulations prescribed by the President pursuant to the provisions of this section, the Secretary may pay the actual necessary expense of travel (including lodging and subsistence), or in lieu thereof an allowance based upon mileage (at a rate of 41.5 cents per mile), of any person to or from a Department facility or other place in connection with vocational rehabilitation, counseling required by the Secretary pursuant to chapter 34 or 35 of this title, or for the purpose of examination, treatment, or care. Actual necessary expense of travel includes the reasonable costs of airfare if travel by air is the only practical way to reach a Department facility. In addition to the mileage allowance authorized by this section, there may be allowed reimbursement for the actual cost of ferry fares, and bridge, road, and tunnel tolls.
 
-(b)(1) Except as provided in subsection (c) of this section and notwithstanding subsection (g)(2)(A) of this section or any other provision of law, if, with respect to any fiscal year, the Secretary exercises the authority under this section to make any payments, the Secretary shall make the payments provided for in this section to or for the following persons for travel during such fiscal year for examination, treatment, or care for which the person is eligible:
+(b)(1) Except as provided in subsection (c) of this section and notwithstanding subsection (g)(2)(A) <sup>1</sup> of this section or any other provision of law, if, with respect to any fiscal year, the Secretary exercises the authority under this section to make any payments, the Secretary shall make the payments provided for in this section to or for the following persons for travel during such fiscal year for examination, treatment, or care for which the person is eligible:
 
 &emsp;(A) A veteran or other person whose travel is in connection with treatment or care for a service-connected disability.
 
@@ -10,7 +10,7 @@
 
 &emsp;(C) A veteran receiving pension under section 1521 of this title.
 
-&emsp;(D) A veteran (i) whose annual income (as determined under section 1503 of this title) does not exceed the maximum annual rate of pension which would be payable to such veteran if such veteran were eligible for pension under section 1521 of this title, or (ii) who is determined, under regulations prescribed by the Secretary, to be unable to defray the expenses of the travel for which payment under this section is claimed.
+&emsp;(D) A veteran (i) who is not traveling by air and whose annual income (as determined under section 1503 of this title) does not exceed the maximum annual rate of pension which would be payable to such veteran if such veteran were eligible for pension under section 1521 of this title, or (ii) who is determined, under regulations prescribed by the Secretary, to be unable to defray the expenses of the travel for which payment under this section is claimed.
 
 &emsp;(E) Subject to paragraph (3) of this subsection, a veteran or other person whose travel to or from a Department facility is medically required to be performed by a special mode of travel and who is determined under such regulations to be unable to defray the expenses of the travel for which payment under this section is claimed.
 
@@ -22,9 +22,11 @@
 
 (B) In the case of travel by a person to or from a Department facility by special mode of travel, the Secretary may provide payment under this section to the provider of the transportation by special mode before determining the eligibility of such person for such payment if the Secretary determines that providing such payment is in the best interest of furnishing care and services. Such a payment shall be made subject to subsequently recovering from such person the amount of the payment if such person is determined to have been ineligible for payment for such travel.
 
+(4) In determining for purposes of subsection (a) whether travel by air is the only practical way for a veteran to reach a Department facility, the Secretary shall consider the medical condition of the veteran and any other impediments to the use of ground transportation by the veteran.
+
 (c)(1) Except as otherwise provided in this subsection, the Secretary, in making a payment under this section to or for a person described in subparagraph (A), (B), (C), or (D) of subsection (b)(1) of this section for travel for examination, treatment, or care, shall deduct from the amount otherwise payable an amount equal to $3 for each one-way trip.
 
-(2) In the case of a person who is determined by the Secretary to be a person who is required to make six or more one-way trips for needed examination, treatment, or care during the remainder of the calendar month in which the determination is made or during any subsequent calendar month during the one-year period following the last day of the month in which the determination is made, the amount deducted by the Secretary pursuant to paragraph (1) of this subsection from payments for trips made to or from such facility during any such month shall not exceed $18.
+(2) In the case of a person who is determined by the Secretary to be a person who is required to make six or more one-way trips for needed examination, treatment, or care during the remainder of the calendar month in which the determination is made or during any subsequent calendar month during the one-year period following the last day of the month in which thedetermination is made, the amount deducted by the Secretary pursuant to paragraph (1) of this subsection from payments for trips made to or from such facility during any such month shall not exceed $18.
 
 (3) No deduction shall be made pursuant to paragraph (1) of this subsection in the case of a person whose travel to or from a Department facility is performed by a special mode of travel for which payment under this section is authorized under subsection (b)(3) of this section.
 
@@ -38,29 +40,53 @@
 
 &emsp;(3) The expense of hiring an automobile or ambulance, or the fee authorized for the services of a nonemployee attendant.
 
-(e) When any person entitled to mileage under this section requires an attendant (other than an employee of the Department) in order to perform such travel, the attendant may be allowed expenses of travel upon the same basis as such person.
+(e)(1) Except as provided in paragraph (2), when any person entitled to mileage under this section requires an attendant (other than an employee of the Department) in order to perform such travel, the attendant may be allowed expenses of travel upon the same basis as such person.
+
+(2)(A) Without regard to whether an eligible veteran entitled to mileage under this section for travel to a Department facility for the purpose of medical examination, treatment, or care requires an attendant in order to perform such travel, an attendant of such veteran described in subparagraph (B) may be allowed expenses of travel (including lodging and subsistence) upon the same basis as such veteran during—
+
+&emsp;(i) the period of time in which such veteran is traveling to and from a Department facility for the purpose of medical examination, treatment, or care; and
+
+&emsp;(ii) the duration of the medical examination, treatment, or care episode for such veteran.
+
+(B) An attendant of a veteran described in this subparagraph is a provider of personal care services for such veteran who is approved under paragraph (6) of section 1720G(a) of this title or designated under paragraph (7) of such section 1720G(a).
+
+(C) The Secretary may prescribe regulations to carry out this paragraph. Such regulations may include provisions—
+
+&emsp;(i) to limit the number of attendants that may receive expenses of travel under this paragraph for a single medical examination, treatment, or care episode of an eligible veteran; and
+
+&emsp;(ii) to require such attendants to use certain travel services.
+
+(D) In this subsection, the term “eligible veteran” has the meaning given that term in section 1720G(a)(2) of this title.
 
 (f) The Secretary may provide for the purchase of printed reduced-fare requests for use by veterans and their authorized attendants when traveling at their own expense to or from any Department facility.
 
-(g)(1) Subject to paragraph (3), in determining the amount of allowances or reimbursement to be paid under this section, the Secretary shall use the mileage reimbursement rate for the use of privately owned vehicles by Government employees on official business (when a Government vehicle is available), as prescribed by the Administrator of General Services under section 5707(b) of title 5.
+(g)(1) Beginning one year after the date of the enactment of the Caregivers and Veterans Omnibus Health Services Act of 2010, the Secretary may adjust the mileage rate described in subsection (a) to be equal to the mileage reimbursement rate for the use of privately owned vehicles by Government employees on official business (when a Government vehicle is available), as prescribed by the Administrator of General Services under section 5707(b) of title 5.
 
-(2) In no event shall payment be provided under this section—
-
-&emsp;(A) unless the person claiming reimbursement has been determined, pursuant to regulations which the Secretary shall prescribe, to be unable to defray the expenses of such travel (except with respect to a person receiving benefits for or in connection with a service-connected disability under this title, a veteran receiving or eligible to receive pension under section 1521 of this title, or a person whose annual income, determined in accordance with section 1503 of this title, does not exceed the maximum annual rate of pension which would be payable to such person if such person were eligible for pension under section 1521 of this title);
-
-&emsp;(B) to reimburse for the cost of travel by privately owned vehicle in any amount in excess of the cost of such travel by public transportation unless (i) public transportation is not reasonably accessible or would be medically inadvisable, or (ii) the cost of such travel is not greater than the cost of public transportation; and
-
-&emsp;(C) in excess of the actual expense incurred by such person as certified in writing by such person.
-
-(3) Subject to the availability of appropriations, the Secretary may modify the amount of allowances or reimbursement to be paid under this section using a mileage reimbursement rate in excess of that prescribed under paragraph (1).
+(2) If an adjustment in the mileage rate under paragraph (1) results in a lower mileage rate than the mileage rate otherwise specified in subsection (a), the Secretary shall, not later than 60 days before the date of the implementation of the mileage rate as so adjusted, submit to Congress a written report setting forth the adjustment in the mileage rate under this subsection, together with a justification for the decision to make the adjustment in the mileage rate under this subsection.
 
 (h) The Secretary, in consultation and coordination with the Secretary of Transportation and appropriate representatives of veterans’ service organizations, shall take all appropriate steps to facilitate the establishment and maintenance of a program under which such organizations, or individuals who are volunteering their services to the Department, would take responsibility for the transportation, without reimbursement from the Department, to Department facilities of veterans (primarily those residing in areas which are geographically accessible to such facilities) who seek services or benefits from the Department under chapter 17 or other provisions of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1113; Pub. L. 86–590, July 5, 1960, 74 Stat. 329; Pub. L. 89–358, §4(g), Mar. 3, 1966, 80 Stat. 24; Pub. L. 89–455, June 18, 1966, 80 Stat. 208; Pub. L. 94–581, title I, §101, Oct. 21, 1976, 90 Stat. 2842; Pub. L. 96–151, title II, §201(a), Dec. 20, 1979, 93 Stat. 1093; Pub. L. 97–295, §4(5), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–322, title I, §108(a), (b)(1), (c)–(e)(1), May 20, 1988, 102 Stat. 496–498; Pub. L. 102–83, §§4(a)(3), (4), (6), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, §1201(e)(1), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 110–387, title IV, §401(a)(1), (b), Oct. 10, 2008, 122 Stat. 4122.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1113; Pub. L. 86–590, July 5, 1960, 74 Stat. 329; Pub. L. 89–358, §4(g), Mar. 3, 1966, 80 Stat. 24; Pub. L. 89–455, June 18, 1966, 80 Stat. 208; Pub. L. 94–581, title I, §101, Oct. 21, 1976, 90 Stat. 2842; Pub. L. 96–151, title II, §201(a), Dec. 20, 1979, 93 Stat. 1093; Pub. L. 97–295, §4(5), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–322, title I, §108(a), (b)(1), (c)–(e)(1), May 20, 1988, 102 Stat. 496–498; Pub. L. 102–83, §§4(a)(3), (4), (6), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, §1201(e)(1), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 110–387, title IV, §401(a)(1), (b), Oct. 10, 2008, 122 Stat. 4122; Pub. L. 111–163, title I, §104, title III, §305(a)–(d), May 5, 2010, 124 Stat. 1140, 1151, 1152.)
+
+#### References in Text
+
+Subsection (g)(2) of this section, referred to in subsec. (b)(1), was amended generally by section 305(a)(2) of Pub. L. 111–163 and, as so amended, no longer contains subpars.
+
+The date of the enactment of the Caregivers and Veterans Omnibus Health Services Act of 2010, referred to in subsec. (g)(1), is the date of enactment of Pub. L. 111–163, which was approved May 5, 2010.
 
 #### Amendments
 
-2008—Subsec. (c)(2). Pub. L. 110–387, §401(a)(1)(B), struck out “, except as provided in paragraph (5) of this subsection,” after “shall not”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–163, §305(a)(1), (b), substituted “(at a rate of 41.5 cents per mile),” for “traveled,” and inserted before last sentence “Actual necessary expense of travel includes the reasonable costsof airfare if travel by air is the only practical way to reach a Department facility.”
+
+Subsec. (b)(1)(D)(i). Pub. L. 111–163, §305(c), inserted “who is not traveling by air and” before “whose annual”.
+
+Subsec. (b)(4). Pub. L. 111–163, §305(d), added par. (4).
+
+Subsec. (e). Pub. L. 111–163, §104, designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), when” for “When”, and added par. (2).
+
+Subsec. (g). Pub. L. 111–163, §305(a)(2), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to use of mileage reimbursement rate for use of privately owned vehicles by Government employees on official business to determine amount of allowances or reimbursement to be paid under this section and limitations.
+
+<b>2008</b>—Subsec. (c)(2). Pub. L. 110–387, §401(a)(1)(B), struck out “, except as provided in paragraph (5) of this subsection,” after “shall not”.
 
 Subsec. (c)(5). Pub. L. 110–387, §401(a)(1)(A), struck out par. (5) which read as follows: “Whenever the Secretary increases or decreases the rates of allowances or reimbursement to be paid under this section, the Secretary shall, effective on the date on which such increase or decrease takes effect, adjust proportionately the dollar amounts specified in paragraphs (1) and (2) of this subsection as such amounts may have been increased or decreased pursuant to this paragraph before such date.”
 
@@ -70,9 +96,9 @@ Subsec. (g)(3). Pub. L. 110–387, §401(b)(2), (3), added par. (3) and struck o
 
 Subsec. (g)(4). Pub. L. 110–387, §401(b)(2), struck out par. (4) which read as follows: “Before determining rates or adjusting amounts under this section and not later than sixty days after any alteration in the rates described in paragraph (3)(C) of this subsection, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report containing the rates and amounts the Secretary proposes to establish or continue with a full justification therefor in terms of each of the limitations and factors set forth in this section.”
 
-1994—Subsec. (b)(3)(B). Pub. L. 103–446 substituted “a Department facility” for “the Department facility”.
+<b>1994</b>—Subsec. (b)(3)(B). Pub. L. 103–446 substituted “a Department facility” for “the Department facility”.
 
-1991—Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+<b>1991</b>—Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
 Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
@@ -110,7 +136,7 @@ Subsec. (h). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” fo
 
 Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-1988—Pub. L. 100–322, §108(e)(1), substituted “Payments or allowances for beneficiary travel” for “Travel expenses” in section catchline.
+<b>1988</b>—Pub. L. 100–322, §108(e)(1), substituted “Payments or allowances for beneficiary travel” for “Travel expenses” in section catchline.
 
 Subsecs. (b), (c). Pub. L. 100–322, §108(a)(2), added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated (d) and (e), respectively.
 
@@ -122,19 +148,19 @@ Subsec. (g). Pub. L. 100–322, §108(a)(1), (c), redesignated subsec. (e) as (g
 
 Subsec. (h). Pub. L. 100–322, §108(b)(1), added subsec. (h).
 
-1982—Subsec. (e)(4). Pub. L. 97–295 substituted “and” for “, and not later than sixty days after the effective date of this subsection, and thereafter” after “under this section”.
+<b>1982</b>—Subsec. (e)(4). Pub. L. 97–295 substituted “and” for “, and not later than sixty days after the effective date of this subsection, and thereafter” after “under this section”.
 
-1979—Subsec. (e)(2)(A). Pub. L. 96–151 substituted provisions respecting determinations pursuant to regulations prescribed by the Administrator, subject to applicable exceptions, for provisions respecting determinations based on annual declarations and certifications by persons claiming reimbursements, subject to applicable exceptions.
+<b>1979</b>—Subsec. (e)(2)(A). Pub. L. 96–151 substituted provisions respecting determinations pursuant to regulations prescribed by the Administrator, subject to applicable exceptions, for provisions respecting determinations based on annual declarations and certifications by persons claiming reimbursements, subject to applicable exceptions.
 
-1976—Subsec. (a). Pub. L. 94–581, §101(1), inserted “pursuant to the provisions of this section” after “President”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–581, §101(1), inserted “pursuant to the provisions of this section” after “President”.
 
 Subsec. (e). Pub. L. 94–581, §101(2), added subsec. (e).
 
-1966—Subsec. (a). Pub. L. 89–358 substituted reference to chapter 34 for 33.
+<b>1966</b>—Subsec. (a). Pub. L. 89–358 substituted reference to chapter 34 for 33.
 
 Subsec. (b). Pub. L. 89–455 authorized the prepayment of actual local travel expenses and the expense of hiring an automobile or ambulance, or the fee authorized for the services of a nonemployee attendant.
 
-1960—Subsec. (a). Pub. L. 86–590 allowed reimbursement for actual cost of ferry fares, and bridge, road, and tunnel tolls.
+<b>1960</b>—Subsec. (a). Pub. L. 86–590 allowed reimbursement for actual cost of ferry fares, and bridge, road, and tunnel tolls.
 
 #### Effective Date of 2008 Amendment
 
@@ -155,6 +181,14 @@ Section 211 of Pub. L. 94–581 provided that: “Except as otherwise provided i
 #### Transition Provision for 1988 Amendment
 
 Section 108(f) of Pub. L. 100–322 provided that: “In determining for the purposes of subsection (b)(1) of section 111 of title 38, United States Code, as amended by subsection (a), whether during fiscal year 1988 the Administrator has exercised the authority under that section to make payments there shall be disregarded any exercise of authority under that section before the date of the enactment of this Act \[May 20, 1988\].”
+
+#### Construction of 2010 Amendment
+
+Pub. L. 111–163, title III, §305(e), May 5, 2010, 124 Stat. 1152, provided that: “The amendments made by subsections (b) and (d) of this section \[amending this section\] may not be construed as expanding or otherwise modifying eligibility for payments or allowances for beneficiary travel under section 111 of title 38, United States Code, as in effect on the day before the date of the enactment of this Act \[May 5, 2010\].”
+
+#### Clarification of Relation to Public Transportation in Veterans Health Administration Handbook
+
+Pub. L. 111–163, title III, §305(f), May 5, 2010, 124 Stat. 1152, provided that: “Not later than 30 days after the date of the enactment of this Act \[May 5, 2010\], the Secretary of Veterans Affairs shall revise the Veterans Health Administration Handbook to clarify that an allowance for travel based on mileage paid under section 111(a) of title 38, United States Code, may exceed the cost of such travel by public transportation regardless of medical necessity.”
 
 #### Reinstatement of Amount of Deduction Specified by Statute
 
@@ -186,7 +220,7 @@ Section 1. The Administrator of Veterans’ Affairs may authorize or approve the
 
 Sec. 2. The Administrator of Veterans’ Affairs may authorize or approve in lieu of actual necessary expenses of travel, including lodging and subsistence, payment of an allowance, in such amount per mile as the Administrator shall from time to time fix pursuant to 38 U.S.C. 111 as affected by this order, to any claimant or beneficiary of the Veterans’ Administration traveling to or from a Veterans’ Administration facility, or other place, in connection with vocational rehabilitation or counseling, or for the purpose of examination, treatment, or care. In addition to such mileage allowance, the Administrator may allow reimbursement for the actual cost of ferry fares, and bridge, road, and tunnel tolls. In his discretion, the Administrator may authorize or approve such payment and such reimbursement to the person who or the organization which has actually paid the expenses of such travel, including lodging and subsistence.
 
-Sec. 3. Whenever a claimant or beneficiary requires an attendant other than an employee of the Veterans’ Administration for the performance of travel specified in Section 1 and 2 hereof, the travel expenses of such attendant may be allowed in the same manner and to the same extent that travel expenses are allowed to such claimant or beneficiary.
+Sec. 3. Whenever a claimant or beneficiary requires an attendant other than an employee of the Veterans’ Administration for the performance of travel specifiedin Section 1 and 2 hereof, the travel expenses of such attendant may be allowed in the same manner and to the same extent that travel expenses are allowed to such claimant or beneficiary.
 
 Sec. 4. Payment of the following expenses or allowances in connection with vocational rehabilitation, counseling, or upon termination of examination, treatment, or care, may be made before the completion of travel:
 
@@ -199,4 +233,6 @@ c. The expense of hiring an automobile or ambulance, or the fee authorized for s
 Sec. 5. The Administrator of Veterans’ Affairs may prescribe such rules and regulations not inconsistent herewith as may be necessary to effectuate the provisions of this order.
 
 Sec. 6. Executive Order No. 11142 of February 12, 1964, is hereby superseded.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

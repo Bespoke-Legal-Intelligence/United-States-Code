@@ -12,7 +12,7 @@ Act of April 16, 1934, referred to in text, is act Apr. 16, 1934, ch. 147, 48 St
 
 #### Amendments
 
-1982—Pub. L. 97–375 struck out provisions relating to annual reporting requirements of Secretary to Congressional committees respecting educational assistance program conducted pursuant to this section.
+<b>1982</b>—Pub. L. 97–375 struck out provisions relating to annual reporting requirements of Secretary to Congressional committees respecting educational assistance program conducted pursuant to this section.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

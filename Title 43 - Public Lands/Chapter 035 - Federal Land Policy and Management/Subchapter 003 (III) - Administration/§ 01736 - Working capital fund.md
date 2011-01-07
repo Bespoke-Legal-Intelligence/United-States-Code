@@ -2,7 +2,7 @@
 
 #### (a) Establishment; availability of fund
 
-There is hereby established a working capital fund for the management of the public lands. This fund shall be available without fiscal year limitation for expenses necessary for furnishing, in accordance with the Federal Property and Administrative Services Act of 1949 <sup>1</sup> (63 Stat. 377, as amended), and regulations promulgated thereunder, supplies and equipment services in support of Bureau programs, including but not limited to, the purchase or construction of storage facilities, equipment yards, and related improvements and the purchase, lease, or rent of motor vehicles, aircraft, heavy equipment, and fire control and other resource management equipment within the limitations set forth in appropriations made to the Secretary for the Bureau.
+There is hereby established a working capital fund for the management of the public lands. This fund shall be available without fiscal yearlimitation for expenses necessary for furnishing, in accordance with chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, and regulations promulgated thereunder, supplies and equipment services in support of Bureau programs, including but not limited to, the purchase or construction of storage facilities, equipment yards, and related improvements and the purchase, lease, or rent of motor vehicles, aircraft, heavy equipment, and fire control and other resource management equipment within the limitations set forth in appropriations made to the Secretary for the Bureau.
 
 #### (b) Initial funding; subsequent transfers
 
@@ -18,9 +18,7 @@ There is hereby authorized to be appropriated a sum not to exceed $3,000,000 as 
 
 (Pub. L. 94–579, title III, §306, Oct. 21, 1976, 90 Stat. 2766.)
 
-#### References in Text
+#### Codification
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+In subsec. (a), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (63 Stat. 377, as amended)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

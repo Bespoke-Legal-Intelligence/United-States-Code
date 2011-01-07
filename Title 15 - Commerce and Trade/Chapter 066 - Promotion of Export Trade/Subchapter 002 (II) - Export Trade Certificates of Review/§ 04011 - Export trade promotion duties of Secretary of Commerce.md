@@ -10,7 +10,7 @@ Section 312 of Pub. L. 97–290 provided that:
 
 “(a) Except as provided in subsection (b), this title \[enacting this subchapter\] shall take effect on the date of the enactment of this Act \[Oct. 8, 1982\].
 
-“(b) Section 302 and section 303 \[enacting sections 4012 and 4013 of this title\] shall take effect 90 days after the effective date of the rules and regulations first promulgated under section 310 \[enacting section 4020 of this title\].”
+“(b) Section 302 and section 303 \[enacting sections 4012 and 4013 of this title\] shall take effect 90 days afterthe effective date of the rules and regulations first promulgated under section 310 \[enacting section 4020 of this title\].”
 
 #### Report on Export Trading Companies
 
@@ -18,5 +18,5 @@ Pub. L. 100–418, title II, §2311, Aug. 23, 1988, 102 Stat. 1346, directed Sec
 
 #### Federal Coal Export Commission
 
-Pub. L. 99–83, title XIII, §1304, Aug. 8, 1985, 99 Stat. 282, provided for establishment, membership, etc., ofFederal Coal Export Commission, required Commission to convene at least four times a year for consultation on activities leading to increased cooperation among entities involved in United States coal exports, with goal of expanding the United States share of international market, specified activities of Commission, including examination of potential for small- and medium-sized companies to enter export coal trade through exporting trading companies, directed Commission to report its finding and recommendations to President and Congress within two years after its first meeting, and terminated Commission upon submission of its report.
+Pub. L. 99–83, title XIII, §1304, Aug. 8, 1985, 99 Stat. 282, provided for establishment, membership, etc., of Federal Coal Export Commission, required Commission to convene at least four times a year for consultation on activities leading to increased cooperation among entities involved in United States coal exports, with goal of expanding the United States share of international market, specified activities of Commission, including examination of potential for small- and medium-sized companies to enter export coal trade through exporting trading companies, directed Commission to report its finding and recommendations to President and Congress within two years after its first meeting, and terminated Commission upon submission of its report.
 

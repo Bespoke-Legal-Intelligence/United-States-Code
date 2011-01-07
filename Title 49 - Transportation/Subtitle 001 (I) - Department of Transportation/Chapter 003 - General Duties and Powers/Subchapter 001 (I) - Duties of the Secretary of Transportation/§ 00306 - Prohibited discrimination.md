@@ -2,7 +2,7 @@
 
 (a) In this section, “financial assistance” includes obligation guarantees.
 
-(b) A person in the United States may not be excluded from participating in, be denied the benefits of, or be subject to discrimination under, a project, program, or activity because of race, color, national origin, or sex when any part of the project, program, or activity is financed through financial assistance under section 332 or 333 or chapter 221 or 249 of this title, section 211 or 216 of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 721, 726), or titleV of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 821 et seq.).
+(b) A person in the United States may not be excluded from participating in, be denied the benefits of, or be subject to discrimination under, a project, program, or activity because of race, color, national origin, or sex when any part of the project, program, or activity is financed through financial assistance under section 332 or 333 or chapter 221 or 249 of this title, section 211 or 216 of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 721, 726), or title V of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 821 et seq.).
 
 (c) When the Secretary of Transportation decides that a person receiving financial assistance under a law referred to in subsection (b) of this section has not complied with that subsection, a Federal civil rights law, or an order or regulation issued under a Federal civil rights law, the Secretary shall notify the person of the decision and require the person to take necessary action to ensure compliance with that subsection.
 
@@ -70,7 +70,7 @@ The Civil Rights Act of 1964, referred to in subsec. (d)(3), is Pub. L. 88–352
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–272 substituted “section 332 or 333 or chapter 221 or 249 of this title, section 211 or 216 of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 721, 726), or title V of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 821 et seq.)” for “section 332 or 333 of this title, section 211 or 216 of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 721, 726), title V or VII of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 821 et seq., 851 et seq.), or section 4(i) or 5 of the Department of Transportation Act (49 U.S.C. 1653(i), 1654)”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–272 substituted “section 332 or 333 or chapter 221 or 249 of this title, section 211 or 216 of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 721, 726), or title V of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 821 et seq.)” for “section 332 or 333 of this title, section 211 or 216 of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 721, 726), title V or VII of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 821 et seq., 851 et seq.), or section 4(i) or 5 of the Department of Transportation Act (49 U.S.C. 1653(i), 1654)”.
 
-1984—Subsec. (b). Pub. L. 98–216 substituted “section 332 or 333 of this title” for “section 332 of this title” and “49 App. U.S.C.” for “49 U.S.C.”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–216 substituted “section 332 or 333 of this title” for “section 332 of this title” and “49 App. U.S.C.” for “49 U.S.C.”.
 

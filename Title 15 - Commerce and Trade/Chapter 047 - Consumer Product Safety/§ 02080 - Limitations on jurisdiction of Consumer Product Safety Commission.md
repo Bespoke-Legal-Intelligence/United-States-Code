@@ -44,7 +44,7 @@ The Occupational Safety and Health Act of 1970, referred to in subsec. (a), is P
 
 The Atomic Energy Act of 1954, referred to in subsec. (b), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
-The Clean Air Act, referred to in subsec. (a), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (a), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42. For complete classification of this Act to the Code,see Short Title note set out under section 7401 of Title 42 and Tables.
 
 The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subpart 3 of part F of title III of the Public Health Service Act, which was classified to subpart 3 (§263b et seq.) of part F of subchapter II of chapter 6A of Title 42, was redesignated as subchapter C of chapter V of act June 25, 1938, ch. 675, the Federal Food, Drug, and Cosmetic Act, by Pub. L. 101–629, §19(a)(4), Nov. 28, 1990, 104 Stat. 4530, and was transferred to part C (21 U.S.C. 360hh et seq.) of subchapter V of chapter 9 of Title 21, Food and Drugs. Section 355 of the Public Health Service Act, which was classified to section 263c of Title 42, was renumbered as section 531 of act June 25, 1938, ch. 675, by Pub. L. 101–629, §19(a)(3), (4), 104 Stat. 4530, and transferred to section 360hh of Title 21. For complete classification of the Public Health Service Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
@@ -52,9 +52,9 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(2)(D), is Pub. L.
 
 #### Amendments
 
-1983—Subsec. (b)(1). Pub. L. 97–414 struck out introductory text “an advance notice of proposed rulemaking for” after “issue”, inserted in subpar. (A) “an advance notice of proposed rulemaking for” before “a consumer” and in subpar. (B) “a notice of proposed rulemaking for” before “a rule”, and substituted in subpar. (C) “an advance notice of proposed rulemaking for regulations” for “a regulation”.
+<b>1983</b>—Subsec. (b)(1). Pub. L. 97–414 struck out introductory text “an advance notice of proposed rulemaking for” after “issue”, inserted in subpar. (A) “an advance notice of proposed rulemaking for” before “a consumer” and in subpar. (B) “a notice of proposed rulemaking for” before “a rule”, and substituted in subpar. (C) “an advance notice of proposed rulemaking for regulations” for “a regulation”.
 
-1981—Pub. L. 97–35 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1981</b>—Pub. L. 97–35 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 #### Effective Date of 1981 Amendment
 

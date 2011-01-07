@@ -1,6 +1,6 @@
 ### §1113. Limitation of actions
 
-No action may be commenced under this subchapter with respect to a fiduciary's breach of any responsibility, duty, or obligation under this part, or with respect to a violation of this part, after the earlier of—
+No action may be commenced under this subchapter with respect to a fiduciary's breach of any responsibility, duty, or obligation underthis part, or with respect to a violation of this part, after the earlier of—
 
 &emsp;(1) six years after (A) the date of the last action which constituted a part of the breach or violation, or (B) in the case of an omission the latest date on which the fiduciary could have cured the breach or violation, or
 
@@ -12,11 +12,11 @@ No action may be commenced under this subchapter with respect to a fiduciary's b
 
 #### Amendments
 
-1989—Pub. L. 101–239, §7894(e)(5), struck out “(a)” before “No action”.
+<b>1989</b>—Pub. L. 101–239, §7894(e)(5), struck out “(a)” before “No action”.
 
 Par. (2). Pub. L. 101–239, §7881(j)(4), struck out comma after “violation”.
 
-1987—Subsec. (a)(2). Pub. L. 100–203 struck out “(A)” after “date” and struck out “or (B) on which a report from which he could reasonably be expected to have obtained knowledge of such breach or violation was filed with the Secretary under this subchapter”.
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–203 struck out “(A)” after “date” and struck out “or (B) on which a report from which he could reasonably be expected to have obtained knowledge of such breach or violation was filed with the Secretary under this subchapter”.
 
 #### Effective Date of 1989 Amendment
 

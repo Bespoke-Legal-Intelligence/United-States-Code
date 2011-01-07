@@ -26,5 +26,5 @@ An amount equal to not more than 5 per centum of the total amount appropriated e
 
 #### Amendments
 
-1968—Subsec. (a). Pub. L. 90–422 authorized appropriation of $6,600,000 for fiscal year ending June 30, 1969, $10,000,000 for fiscal year ending June 30, 1970, and $10,000,000 for fiscal year ending June 30, 1971.
+<b>1968</b>—Subsec. (a). Pub. L. 90–422 authorized appropriation of $6,600,000 for fiscal year ending June 30, 1969, $10,000,000 for fiscal year ending June 30, 1970, and $10,000,000 for fiscal year ending June 30, 1971.
 

@@ -92,9 +92,9 @@ The Trademark Act of 1946, referred to in subsec. (c), is act July 5, 1946, ch. 
 
 #### Amendments
 
-2006—Subsec. (d)(3)(A). Pub. L. 109–284 substituted “subsection” for “subsections”.
+<b>2006</b>—Subsec. (d)(3)(A). Pub. L. 109–284 substituted “subsection” for “subsections”.
 
-1998—Subsec. (a)(2). Pub. L. 105–277, §142(g)(1), substituted “rings, the symbol of the International Paralympic Committee, consisting of 3 TaiGeuks, or the symbol of the Pan-American Sports Organization, consisting of a torch surrounded by concentric rings;” for “rings;”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–277, §142(g)(1), substituted “rings, the symbol of the International Paralympic Committee, consisting of 3 TaiGeuks, or the symbol of the Pan-American Sports Organization, consisting of a torch surrounded by concentric rings;” for “rings;”.
 
 Subsec. (a)(4). Pub. L. 105–277, §142(g)(2), inserted “ ‘Paralympic’, ‘Paralympiad’, ‘Pan-American’, ‘America Espirito Sport Fraternite’,” before “or any combination”.
 

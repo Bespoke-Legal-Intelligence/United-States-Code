@@ -58,7 +58,7 @@ Any displaced person eligible for payments under subsection (a) of this section 
 
 #### Amendments
 
-1987—Subsec. (a). Pub. L. 100–17, §405(a)(1), inserted introductory provisions and struck out former introductory provisions which read as follows: “Whenever the acquisition of real property for a program or project undertaken by a Federal agency in any State will result in the displacement of any person on or after January 2, 1971, the head of such agency shall make a payment to any displaced person, upon proper application as approved by such agency head, for—”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–17, §405(a)(1), inserted introductory provisions and struck out former introductory provisions which read as follows: “Whenever the acquisition of real property for a program or project undertaken by a Federal agency in any State will result in the displacement of any person on or after January 2, 1971, the head of such agency shall make a payment to any displaced person, upon proper application as approved by such agency head, for—”.
 
 Subsec. (a)(4). Pub. L. 100–17, §405(a)(2)–(4), added par. (4).
 

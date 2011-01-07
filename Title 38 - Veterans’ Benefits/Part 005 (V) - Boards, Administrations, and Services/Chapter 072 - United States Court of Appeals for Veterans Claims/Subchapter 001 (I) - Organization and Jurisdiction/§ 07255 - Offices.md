@@ -6,11 +6,11 @@ The principal office of the Court of Appeals for Veterans Claims shall be in the
 
 #### Amendments
 
-2004—Pub. L. 108–454 substituted “Washington, D.C., metropolitan area” for “District of Columbia”.
+<b>2004</b>—Pub. L. 108–454 substituted “Washington, D.C., metropolitan area” for “District of Columbia”.
 
-1998—Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+<b>1998</b>—Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-1991—Pub. L. 102–40 renumbered section 4055 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4055 of this title as this section.
 
 #### Effective Date of 1998 Amendment
 

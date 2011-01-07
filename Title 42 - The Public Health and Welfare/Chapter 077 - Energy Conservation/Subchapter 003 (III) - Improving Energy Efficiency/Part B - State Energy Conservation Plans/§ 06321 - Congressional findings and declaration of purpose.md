@@ -14,7 +14,7 @@
 
 #### Amendments
 
-1978—Subsec. (b). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration.
+<b>1978</b>—Subsec. (b). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration.
 
 #### Report on Coordination of Energy Conservation Programs
 

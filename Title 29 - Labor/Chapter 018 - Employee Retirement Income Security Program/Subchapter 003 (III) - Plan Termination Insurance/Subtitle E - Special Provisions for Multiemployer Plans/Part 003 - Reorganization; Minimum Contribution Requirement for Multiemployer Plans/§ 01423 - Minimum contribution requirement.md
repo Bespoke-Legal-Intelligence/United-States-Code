@@ -6,7 +6,7 @@
 
 &emsp;(A) the plan shall continue to maintain its funding standard account while it is in reorganization, and
 
-&emsp;(B) the plan's accumulated funding deficiency under section 1084(a) of this title forsuch plan year shall be equal to the excess (if any) of—
+&emsp;(B) the plan's accumulated funding deficiency under section 1084(a) of this title for such plan year shall be equal to the excess (if any) of—
 
 &emsp;&emsp;(i) the sum of the minimum contribution requirement for such plan year (taking into account any overburden credit under section 1424(a) of this title) plus the plan's accumulated funding deficiency for the preceding plan year (determined under this section if the plan was in reorganization during such year or under section 1084(a) of this title if the plan was not in reorganization), over
 
@@ -130,7 +130,7 @@ In determining the minimum contribution requirement with respect to a plan for a
 
 For purposes of making any determination under this part, the requirements of section 1084(c)(3) of this title shall apply.
 
-(Pub. L. 93–406, title IV, §4243, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1252; amended Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 109–280, title I, §107(b)(6)–(9), Aug. 17, 2006, 120 Stat. 820.)
+(Pub. L. 93–406, title IV, §4243, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1252; amended Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 109–280, title I, §108(b)(6)–(9), formerly §107(b)(6)–(9), Aug. 17, 2006, 120 Stat. 820, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297.)
 
 #### References in Text
 
@@ -138,19 +138,19 @@ Section 412, referred to in subsecs. (d)(1) and (e), was amended generally by Pu
 
 #### Amendments
 
-2006—Subsec. (a)(1)(B). Pub. L. 109–280, §107(b)(6), substituted “1084(a)” for “1082(a)” in introductory provisions and cl. (i).
+<b>2006</b>—Subsec. (a)(1)(B). Pub. L. 109–280, §108(b)(6), formerly §107(b)(6), as renumbered by Pub. L. 111–192, substituted “1084(a)” for “1082(a)” in introductory provisions and cl. (i).
 
-Subsec. (f)(1). Pub. L. 109–280, §107(b)(7), substituted “1082(c)” for “1083(a)”.
+Subsec. (f)(1). Pub. L. 109–280, §108(b)(7), formerly §107(b)(7), as renumbered by Pub. L. 111–192, substituted “1082(c)” for “1083(a)”.
 
-Subsec. (f)(2). Pub. L. 109–280, §107(b)(8), substituted “1082(c)(3)” for “1083(c)”.
+Subsec. (f)(2). Pub. L. 109–280, §108(b)(8), formerly §107(b)(8), as renumbered by Pub. L. 111–192, substituted “1082(c)(3)” for “1083(c)”.
 
-Subsec. (g). Pub. L. 109–280, §107(b)(9), substituted “1084(c)(3)” for “1082(c)(3)”.
+Subsec. (g). Pub. L. 109–280, §108(b)(9), formerly §107(b)(9), as renumbered by Pub. L. 111–192, substituted “1084(c)(3)” for “1082(c)(3)”.
 
-1989—Subsecs. (d)(1)(B), (e). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1989</b>—Subsecs. (d)(1)(B), (e). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–280 applicable to plan years beginning after 2007, see section 107(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
+Amendment by Pub. L. 109–280 applicable to plan years beginning after 2007, see section 108(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -158,7 +158,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280,set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

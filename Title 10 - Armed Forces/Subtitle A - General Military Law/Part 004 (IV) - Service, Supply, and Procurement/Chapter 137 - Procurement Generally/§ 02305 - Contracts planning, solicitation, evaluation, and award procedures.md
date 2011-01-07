@@ -26,7 +26,7 @@
 
 &emsp;(A) a statement of—
 
-&emsp;&emsp;(i) all significant factors and significant subfactors which the head of the agency reasonably expects to consider in evaluating sealed bids (including price) or competitive proposals (including cost or price, cost-related or price-related factors and subfactors,and noncost-related or nonprice-related factors and subfactors); and
+&emsp;&emsp;(i) all significant factors and significant subfactors which the head of the agency reasonably expects to consider in evaluating sealed bids (including price) or competitive proposals (including cost or price, cost-related or price-related factors and subfactors, and noncost-related or nonprice-related factors and subfactors); and
 
 &emsp;&emsp;(ii) the relative importance assigned to each of those factors and subfactors; and
 
@@ -74,7 +74,7 @@
 
 (4)(A) The head of an agency shall evaluate competitive proposals in accordance with paragraph (1) and may award a contract—
 
-&emsp;(i) after discussions with the offerors, provided that written or oral discussions have been conducted with all responsible offerors who submit proposals within the competitive range; or
+&emsp;(i) after discussions with the offerors, provided that written or oral discussions have been conducted with all responsible offerorswho submit proposals within the competitive range; or
 
 &emsp;(ii) based on the proposals received, without discussions with the offerors (other than discussions conducted for the purpose of minor clarification) provided that the solicitation included a statement that proposals are intended to be evaluated, and award made, without discussions, unless discussions are determined to be necessary.
 
@@ -186,7 +186,7 @@ Prohibition on Release of Contractor Proposals.—(1) Except as provided in para
 
 (3) In this subsection, the term “proposal” means any proposal, including a technical, management, or cost proposal, submitted by a contractor in response to the requirements of a solicitation for a competitive proposal.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Pub. L. 85–861, §1(44), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 90–268, §3, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, div. B, title VII, §2723(b), July 18, 1984, 98 Stat. 1191; Pub. L. 98–525, title XII, §1213(a), Oct. 19, 1984, 98 Stat. 2591; Pub. L. 99–145, title XIII, §1303(a)(14), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–500, §101(c) \[title X, §924(a), (b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §924(a), (b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title III, §313(b), title IX, formerly title IV, §924(a), (b), Nov. 14, 1986, 100 Stat. 3853, 3932, 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, §806, Sept. 29, 1988, 102 Stat. 2010; Pub. L. 101–189, div. A, title VIII, §853(f), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 101–510, div. A, title VIII, §802(a)–(d), Nov. 5, 1990, 104 Stat. 1588, 1589; Pub. L. 103–160, div. A, title XI, §1182(a)(5), Nov. 30, 1993, 107 Stat. 1771; Pub. L. 103–355, title I, §§1011–1016, title IV, §4401(b), Oct. 13, 1994, 108Stat. 3254–3257, 3347; Pub. L. 104–106, div. D, title XLI, §§4103(a), 4104(a), title XLII, §4202(a)(2), div. E, title LVI, §5601(a), Feb. 10, 1996, 110 Stat. 643, 644, 653, 699; Pub. L. 104–201, div. A, title VIII, §821(a), title X, §1074(a)(11), (b)(4)(A), Sept. 23, 1996, 110 Stat. 2609, 2659, 2660; Pub. L. 106–65, div. A, title VIII, §821, Oct. 5, 1999, 113 Stat. 714.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Pub. L. 85–861, §1(44), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 90–268, §3, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, div. B, title VII, §2723(b), July 18, 1984, 98 Stat. 1191; Pub. L. 98–525, title XII, §1213(a), Oct. 19, 1984, 98 Stat. 2591; Pub. L. 99–145, title XIII, §1303(a)(14), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–500, §101(c) \[title X, §924(a), (b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §924(a), (b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title III, §313(b), title IX, formerly title IV, §924(a), (b), Nov. 14, 1986, 100 Stat. 3853, 3932, 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, §806, Sept. 29, 1988, 102 Stat. 2010; Pub. L. 101–189, div. A, title VIII, §853(f), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 101–510, div. A, title VIII, §802(a)–(d), Nov. 5, 1990, 104 Stat. 1588, 1589; Pub. L. 103–160, div. A, title XI, §1182(a)(5), Nov. 30, 1993, 107 Stat. 1771; Pub. L. 103–355, title I, §§1011–1016, title IV, §4401(b), Oct. 13, 1994, 108 Stat. 3254–3257, 3347; Pub. L. 104–106, div. D, title XLI, §§4103(a), 4104(a), title XLII, §4202(a)(2), div. E, title LVI, §5601(a), Feb. 10, 1996, 110 Stat. 643, 644, 653, 699; Pub. L. 104–201, div. A, title VIII, §821(a), title X, §1074(a)(11), (b)(4)(A), Sept. 23, 1996, 110 Stat. 2609, 2659, 2660; Pub. L. 106–65, div. A, title VIII, §821, Oct. 5, 1999, 113 Stat. 714.)
 
 Historical and Revision Notes<br>1956
 
@@ -240,9 +240,9 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-1999—Subsec. (g)(1). Pub. L. 106–65 substituted “an agency named in section 2303 of this title” for “the Department of Defense”.
+<b>1999</b>—Subsec. (g)(1). Pub. L. 106–65 substituted “an agency named in section 2303 of this title” for “the Department of Defense”.
 
-1996—Subsec. (a)(2). Pub. L. 104–106, §4202(a)(2), inserted “a procurement for commercial items using special simplified procedures or” after “(other than for”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–106, §4202(a)(2), inserted “a procurement for commercial items using special simplified procedures or” after “(other than for”.
 
 Subsec. (b)(4)(B). Pub. L. 104–106, §4103(a)(3), added subpar. (B). Former subpar. (B) redesignated (C).
 
@@ -270,7 +270,7 @@ Subsec. (e)(3). Pub. L. 104–106, §5601(a), as amended by Pub. L. 104–201, �
 
 Subsec. (g). Pub. L. 104–201, §821(a), added subsec. (g).
 
-1994—Subsec. (a)(2). Pub. L. 103–355, §4401(b), substituted “a purchase for an amount not greater than the simplified acquisition threshold)” for “small purchases)” in introductory provisions.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–355, §4401(b), substituted “a purchase for an amount not greater than the simplified acquisition threshold)” for “small purchases)” in introductory provisions.
 
 Subsec. (a)(2)(A)(i). Pub. L. 103–355, §1011(a)(1), substituted “and significant subfactors” for “(and significant subfactors)” and “cost-related or price-related factors and subfactors, and noncost-related or nonprice-related factors and subfactors” for “cost- or price-related factors, and noncost- or nonprice-related factors”.
 
@@ -278,7 +278,7 @@ Subsec. (a)(2)(A)(ii). Pub. L. 103–355, §1011(a)(2), substituted “and subfa
 
 Subsec. (a)(2)(B)(ii)(I). Pub. L. 103–355, §1011(a)(3), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “a statement that the proposals are intended to be evaluated with, and award made after, discussions with the offerors, or a statement that the proposals are intended to be evaluated, and award made, without discussions with the offerors (other than discussions conducted for the purpose of minor clarification), unless discussions are determined to be necessary; and”.
 
-Subsec. (a)(3). Pub. L. 103–355, §1011(b), added par. (3) and struck out former par. (3), which read as follows: “In prescribing the evaluation factors to be included in each solicitation for competitive proposals, the head of an agency shall clearly establish the relative importance assigned to the evaluation factors and subfactors, including the quality of the product or services to be provided (including technical capability, management capability, and prior experience of the offeror).”
+Subsec. (a)(3). Pub. L. 103–355, §1011(b), added par. (3) and struck out former par. (3), which read as follows: “In prescribing the evaluation factors to be included ineach solicitation for competitive proposals, the head of an agency shall clearly establish the relative importance assigned to the evaluation factors and subfactors, including the quality of the product or services to be provided (including technical capability, management capability, and prior experience of the offeror).”
 
 Subsec. (a)(4). Pub. L. 103–355, §1011(b), added par. (4).
 
@@ -294,9 +294,9 @@ Subsec. (e). Pub. L. 103–355, §1015, added subsec. (e).
 
 Subsec. (f). Pub. L. 103–355, §1016, added subsec. (f).
 
-1993—Subsec. (b)(4)(A). Pub. L. 103–160 realigned margins of cls. (i) and (ii).
+<b>1993</b>—Subsec. (b)(4)(A). Pub. L. 103–160 realigned margins of cls. (i) and (ii).
 
-1990—Subsec. (a)(2)(A)(i). Pub. L. 101–510, §802(a)(1), inserted “(and significant subfactors)” after “significant factors” and substituted “(including cost or price, cost- or price-related factors, and noncost- or nonprice-related factors)” for “(including cost or price)”.
+<b>1990</b>—Subsec. (a)(2)(A)(i). Pub. L. 101–510, §802(a)(1), inserted “(and significant subfactors)” after “significant factors” and substituted “(including cost or price, cost- or price-related factors, and noncost- or nonprice-related factors)” for “(including cost or price)”.
 
 Subsec. (a)(2)(A)(ii). Pub. L. 101–510, §802(a)(2), inserted “(and subfactors)” after “those factors”.
 
@@ -320,9 +320,9 @@ Subsec. (b)(4)(B) to (E). Pub. L. 101–510, §802(d)(3)(B)–(D), redesignated 
 
 “(C) In the case of award of a contract under subparagraph (A)(ii), the head of the agency shall award the contract based on the proposals received (and as clarified, if necessary, in discussions conducted for the purpose of minor clarification).”
 
-1989—Subsec. (b)(4)(D). Pub. L. 101–189 inserted “cost or” after “considering only”.
+<b>1989</b>—Subsec. (b)(4)(D). Pub. L. 101–189 inserted “cost or” after “considering only”.
 
-1988—Subsec. (d)(1)(B). Pub. L. 100–456, §806(b), substituted “Proposals referred to in the first sentence of subparagraph (A) are” for “The proposals that the head of an agency is to consider requiring in a solicitation for the award of a development contract are”.
+<b>1988</b>—Subsec. (d)(1)(B). Pub. L. 100–456, §806(b), substituted “Proposals referred to in the first sentence of subparagraph (A) are” for “The proposals that the head of an agency is to consider requiring in a solicitation for the award of a development contract are”.
 
 Subsec. (d)(2)(B). Pub. L. 100–456, §806(b), substituted “Proposals referred to in the first sentence of subparagraph (A) are” for “The proposals that the head of an agency is to consider requiring in a solicitation for the award of a production contract are”.
 
@@ -330,31 +330,31 @@ Subsec. (d)(3). Pub. L. 100–456, §806(a)(2), inserted provision that objectiv
 
 Subsec. (d)(4). Pub. L. 100–456, §806(a)(1), added par. (4).
 
-1986—Subsec. (a). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§924(a)\], Pub. L. 99–661, §924(a), amended subsec. (a) identically, in par. (2)(A)(i) striking out “(including price)” after “factors” and inserting “(including price)” and “(including cost and price)” and adding par. (3).
+<b>1986</b>—Subsec. (a). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§924(a)\], Pub. L. 99–661, §924(a), amended subsec. (a) identically, in par. (2)(A)(i) striking out “(including price)” after “factors” and inserting “(including price)” and “(including cost and price)” and adding par. (3).
 
 Subsec. (b)(4)(B). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§924(b)\], Pub. L. 99–661, §924(b), amended subpar. (B) identically, inserting “cost or”.
 
 Subsec. (b)(4)(E). Pub. L. 99–661, §313(b), added subpar. (E).
 
-1985—Subsec. (b)(5). Pub. L. 99–145 aligned the margin of par. (5).
+<b>1985</b>—Subsec. (b)(5). Pub. L. 99–145 aligned the margin of par. (5).
 
-1984—Subsecs. (c), (d). Pub. L. 98–525 added subsecs. (c) and (d).
+<b>1984</b>—Subsecs. (c), (d). Pub. L. 98–525 added subsecs. (c) and (d).
 
 Catchline, subsecs. (a) to (d). Pub. L. 98–369 substituted “Contracts: planning, solicitation, evaluation, and award procedures” for “Formal advertisements for bids; time; opening; award; rejection” and completely revised the text to substitute a program using solicitation requirements covering military procurement for former provisions which had used the approach of utilizing formal advertisements, struck out former provisions which had directed that, except in cases where the Secretary of Defense had determined that military requirements necessitated the specification of container size, no advertisement or invitation to bid for the carriage of government property in other than government-owned cargo containers could specify carriage of such property in cargo containers of any stated length, height, or width, and carried forward into new subsecs. (a)(1)(A)(iii), (B)(i), and (b)(2) and (5) the content of former section.
 
-1968—Subsec. (a). Pub. L. 90–268 inserted provision that, except in cases where the Secretary of Defense determines that military requirements necessitate such specification, no advertisement or invitation to bid for the carriage of Government property in other than Government-owned cargo containers shall specify carriage of such property in cargo containers of any stated length, height, or width.
+<b>1968</b>—Subsec. (a). Pub. L. 90–268 inserted provision that, except in cases where the Secretary of Defense determines that military requirements necessitate such specification, no advertisement or invitation to bid for the carriage of Government property in other than Government-owned cargo containers shall specify carriage of such property in cargo containers of any stated length, height, or width.
 
-1958—Subsecs. (b) to (d). Pub. L. 85–861 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+<b>1958</b>—Subsecs. (b) to (d). Pub. L. 85–861 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by sections 4103(a), 4104(a), and 4202(a)(2) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by sections 4103(a), 4104(a), and 4202(a)(2) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2302 of this title.
 
 Amendment by section 5601(a) of Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 702.
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -372,7 +372,7 @@ Section 101(c) \[title X, §924(c)\] of Pub. L. 99–500 and Pub. L. 99–591, a
 
 Section 1213(b) of Pub. L. 98–525 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect at the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 19, 1984\].”
 
-Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as a note under section 251 of Title 41, Public Contracts.
+Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as a note under section 2302 of this title.
 
 #### Guidance on Use of Tiered Evaluations of Offers for Contracts and Task Orders Under Contracts
 
@@ -380,7 +380,7 @@ Pub. L. 109–163, div. A, title VIII, §816, Jan. 6, 2006, 119 Stat. 3382, prov
 
 “(a)
 
-Guidance Required.—The Secretary of Defense shall prescribe guidance for the military departmentsand the Defense Agencies on the use of tiered evaluations of offers for contracts and for task or delivery orders under contracts.
+Guidance Required.—The Secretary of Defense shall prescribe guidance for the military departments and the Defense Agencies on the use of tiered evaluations of offers for contracts and for task or delivery orders under contracts.
 
 “(b)
 

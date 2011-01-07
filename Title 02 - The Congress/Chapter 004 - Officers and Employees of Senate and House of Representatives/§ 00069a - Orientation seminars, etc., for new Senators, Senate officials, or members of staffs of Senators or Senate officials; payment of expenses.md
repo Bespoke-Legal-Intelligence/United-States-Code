@@ -28,7 +28,7 @@ A prior section 69a, Pub. L. 95–94, title I, §105, Aug. 5, 1977, 91 Stat. 661
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–161, div. H, title I, §6(b), Dec. 26, 2007, 121 Stat. 2222, provided that: “The amendment made by this section \[amending this section\] shall apply withrespect to fiscal year 2008 and each fiscal year thereafter.”
+Pub. L. 110–161, div. H, title I, §6(b), Dec. 26, 2007, 121 Stat. 2222, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to fiscal year 2008 and each fiscal year thereafter.”
 
 #### Effective Date of 1987 Amendment
 

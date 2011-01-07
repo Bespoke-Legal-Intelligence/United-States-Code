@@ -338,7 +338,7 @@ The date of enactment of the Federal Public Transportation Act of 2005, referred
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–244, §201(<i>l</i>)(1)(A), in introductory provisions, substituted “Of the amount apportioned under subsection (i)(2) to carry out section 5307—” for “Of the amount apportioned under subsection (i)(2)—”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–244, §201(<i>l</i>)(1)(A), in introductory provisions, substituted “Of the amount apportioned under subsection (i)(2) to carry out section 5307—” for “Of the amount apportioned under subsection (i)(2)—”.
 
 Subsec. (a)(2). Pub. L. 110–244, §201(<i>l</i>)(2), amended Pub. L. 109–59, §3034(d)(2). See 2005 Amendment note below.
 
@@ -348,7 +348,7 @@ Subsec. (d)(1). Pub. L. 110–244, §201(<i>l</i>)(1)(B), substituted “subsect
 
 Subsec. (k). Pub. L. 110–244, §201(<i>l</i>)(1)(C), redesignated subsec. (c) relating to study on incentives in formula programs as (k).
 
-2005—Subsec. (a). Pub. L. 109–59, §3034(d)(1), which directed amendment of subsec. (a) by substituting “to carry out section 5307” for “of this title”, could not be executed because of prior amendment by Pub. L. 109–59, §3034(a)(4). See below.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §3034(d)(1), which directed amendment of subsec. (a) by substituting “to carry out section 5307” for “of this title”, could not be executed because of prior amendment by Pub. L. 109–59, §3034(a)(4). See below.
 
 Pub. L. 109–59, §3034(a)(4), substituted “Of the amount apportioned under subsection (i)(2)” for “Of the amount made available or appropriated under section 5338(a) of this title” in introductory provisions.
 
@@ -378,7 +378,7 @@ Subsec. (k). Pub. L. 109–59, §3034(a)(1), struck out heading and text of subs
 
 &emsp;“(2) an amount equal to 50 percent of the amount that the State in which the area is located would have received if the area had been an area other than an urbanized area.”
 
-1998—Pub. L. 105–178, §3027(a), substituted “formula grants” for “block grants” in section catchline.
+<b>1998</b>—Pub. L. 105–178, §3027(a), substituted “formula grants” for “block grants” in section catchline.
 
 Subsec. (a). Pub. L. 105–178, §3029(b)(10), substituted “5338(a) of this title” for “5338(f) of this title” in introductory provisions.
 
@@ -386,7 +386,7 @@ Subsec. (d). Pub. L. 105–178, §3027(b), amended subsec. (d) generally, substi
 
 Subsec. (e)(1). Pub. L. 105–178, §3029(b)(11), substituted “subsections (a) and (h)(2) of section 5338” for “section 5338(f)”.
 
-1996—Subsec. (b)(2)(A), (B). Pub. L. 104–287, §5(19)(A), inserted at end “An urbanized area with a population of at least 750,000 in which commuter rail transportation is provided shall receive at least .75 percent of the total amount apportioned under this subparagraph.”
+<b>1996</b>—Subsec. (b)(2)(A), (B). Pub. L. 104–287, §5(19)(A), inserted at end “An urbanized area with a population of at least 750,000 in which commuter rail transportation is provided shall receive at least .75 percent of the total amount apportioned under this subparagraph.”
 
 Subsec. (b)(2)(C) to (E). Pub. L. 104–287, §5(19)(B), (C), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: “An urbanized area with a population of at least 750,000 in which commuter rail transportation is provided shall receive at least .75 percent of the total amount apportioned under this subsection.”
 

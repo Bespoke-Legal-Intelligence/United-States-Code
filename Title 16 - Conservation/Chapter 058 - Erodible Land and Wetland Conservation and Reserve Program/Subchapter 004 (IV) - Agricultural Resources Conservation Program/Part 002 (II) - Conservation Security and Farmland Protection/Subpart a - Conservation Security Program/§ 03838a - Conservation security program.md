@@ -16,7 +16,7 @@ The Secretary shall establish and, for each of fiscal years 2003 through 2011, c
 
 #### (2) Eligible land
 
-&emsp;Except as provided in paragraph (3), private agricultural land (including cropland, grassland, prairie land, improved pasture land, and rangeland), land under the jurisdiction of an Indian tribe (as defined by the Secretary), andforested land that is an incidental part of an agricultural operation shall be eligible for enrollment in the conservation security program.
+&emsp;Except as provided in paragraph (3), private agricultural land (including cropland, grassland, prairie land, improved pasture land, and rangeland), land under the jurisdiction of an Indian tribe (as defined by the Secretary), and forested land that is an incidental part of an agricultural operation shall be eligible for enrollment in the conservation security program.
 
 #### (3) Exclusions
 
@@ -288,11 +288,11 @@ A prior section 3838a, Pub. L. 99–198, title XII, §1238A, as added Pub. L. 10
 
 #### Amendments
 
-2008—Subsec. (b)(3)(C). Pub. L. 110–246, §2301(c), substituted “subpart D” for “subpart C”.
+<b>2008</b>—Subsec. (b)(3)(C). Pub. L. 110–246, §2301(c), substituted “subpart D” for “subpart C”.
 
 Subsec. (g). Pub. L. 110–246, §2301(b), added subsec. (g).
 
-2006—Subsec. (a). Pub. L. 109–171 substituted “2011” for “2007”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–171 substituted “2011” for “2007”.
 
 #### Effective Date of 2008 Amendment
 

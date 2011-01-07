@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment and Contents.—The Secretary of Transportation shall establish as soon as practicable and maintain a National Driver Register to assist chief driver licensing officials of participating States in exchanging information about the motor vehicle driving records of individuals. The Register shall contain an index of the information reported to the Secretary under section 30304 of this title. The Register shall enable the Secretary (electronically or,until all States can participate electronically, by United States mail)—
+Establishment and Contents.—The Secretary of Transportation shall establish as soon as practicable and maintain a National Driver Register to assist chief driver licensing officials of participating States in exchanging information about the motor vehicle driving records of individuals. The Register shall contain an index of the information reported to the Secretary under section 30304 of this title. The Register shall enable the Secretary (electronically or, until all States can participate electronically, by United States mail)—
 
 &emsp;(1) to receive information submitted under section 30304 of this title by the chief driver licensing official of a State of record;
 
@@ -90,7 +90,7 @@ Act of July 14, 1960, referred to in subsec. (c)(1), (2)(A), is set out below.
 
 #### Amendments
 
-1998—Subsec. (e). Pub. L. 105–178 added subsec. (e).
+<b>1998</b>—Subsec. (e). Pub. L. 105–178 added subsec. (e).
 
 #### Register of Revocations of Motor Vehicle Operator's Licenses
 

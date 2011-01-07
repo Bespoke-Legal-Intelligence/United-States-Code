@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(C) under a decision of a board of contract appeals; or
 
-&emsp;&emsp;(D) in excess of an amount payable from the appropriations of an agency for a meritorious claim under section 2733 or 2734 of title 10, section 715 of title 32, or section 203 of the National Aeronautics and Space Act of 1958 (42 U.S.C. 2473).
+&emsp;&emsp;(D) in excess of an amount payable from the appropriations of an agency for a meritorious claim under section 2733 or 2734 of title 10, section 715 of title 32, or section 20113 of title 51.
 
 (b)(1) Interest may be paid from the appropriation made by this section—
 
@@ -22,7 +22,7 @@
 
 &emsp;(B) on a judgment of the Court of Appeals for the Federal Circuit or the United States Court of Federal Claims under section 2516(b) of title 28, only from the date of filing of the transcript of the judgment with the Secretary of the Treasury through the day before the date of the mandate of affirmance.
 
-(2) Interest payable under this subsection in a proceeding reviewed by the Supreme Court is not allowed after the end of the term in which the judgment is affirmed.
+(2) Interest payable under this subsection in a proceeding reviewed by the Supreme Court isnot allowed after the end of the term in which the judgment is affirmed.
 
 (c)(1) A judgment or compromise settlement against the Government shall be paid under this section and sections 2414, 2517, and 2518 <sup>1</sup> of title 28 when the judgment or settlement arises out of an express or implied contract made by—
 
@@ -38,7 +38,7 @@
 
 (2) The Exchange making the contract shall reimburse the Government for the amount paid by the Government.
 
-(Pub. L. 97–258, §§1, 2(m)(2), Sept. 13, 1982, 96 Stat. 917, 1062; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–316, title II, §202(m), Oct. 19, 1996, 110 Stat. 3843.)
+(Pub. L. 97–258, §§1, 2(m)(2), Sept. 13, 1982, 96 Stat. 917, 1062; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–316, title II, §202(m), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 111–314, §4(b), Dec. 18, 2010, 124 Stat. 3440.)
 
 Historical and Revision Notes
 
@@ -78,11 +78,13 @@ Section 2518 of title 28, referred to in subsec. (c)(1), was repealed by Pub. L.
 
 #### Amendments
 
-1996—Subsecs. (a)(2), (b)(1)(A), (B). Pub. L. 104–316 substituted “Secretary of the Treasury” for “Comptroller General”.
+<b>2010</b>—Subsec. (a)(3)(D). Pub. L. 111–314 substituted “section 20113 of title 51” for “section 203 of the National Aeronautics and Space Act of 1958 (42 U.S.C. 2473)”.
 
-1992—Subsec. (b)(1)(B). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1996</b>—Subsecs. (a)(2), (b)(1)(A), (B). Pub. L. 104–316 substituted “Secretary of the Treasury” for “Comptroller General”.
 
-1982—Subsec. (b)(1)(A). Pub. L. 97–258, §2(m)(2)(A), struck out “under section 2411(b) of title 28” after “district court”.
+<b>1992</b>—Subsec. (b)(1)(B). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+
+<b>1982</b>—Subsec. (b)(1)(A). Pub. L. 97–258, §2(m)(2)(A), struck out “under section 2411(b) of title 28” after “district court”.
 
 Subsec. (b)(1)(B). Pub. L. 97–258, §2(m)(2)(B), substituted “Court of Appeals for the Federal Circuit or the United States Claims Court” for “Court of Claims”.
 

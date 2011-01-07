@@ -6,7 +6,7 @@ The Board shall appoint the president of the Institute and such other officers a
 
 #### (b) Authorization of activities
 
-Subject to the provisions of section 4604(h)(3) of this title, the Board shall authorize the president and any other officials or employees it designates to receive and disburse public moneys, obtain and make grants, enter into contracts,establish and collect fees, and undertake all other activities necessary for the efficient and proper functioning of the Institute.
+Subject to the provisions of section 4604(h)(3) of this title, the Board shall authorize the president and any other officials or employees it designates to receive and disburse public moneys, obtain and make grants, enter into contracts, establish and collect fees, and undertake all other activities necessary for the efficient and proper functioning of the Institute.
 
 #### (c) Appointment, compensation and status of personnel
 
@@ -46,11 +46,11 @@ The provisions of title 5 relating to classification and General Schedule pay ra
 
 #### Amendments
 
-1998—Subsec. (d)(2). Pub. L. 105–277, which directed the amendment of par. (2) by striking out “, Director of the Arms Control and Disarmament Agency”, was executed by striking out “, the Director of the Arms Control and Disarmament Agency” after “Secretary of Defense”, to reflect the probable intent of Congress.
+<b>1998</b>—Subsec. (d)(2). Pub. L. 105–277, which directed the amendment of par. (2) by striking out “, Director of the Arms Control and Disarmament Agency”, was executed by striking out “, the Director of the Arms Control and Disarmament Agency” after “Secretary of Defense”, to reflect the probable intent of Congress.
 
-1990—Subsec. (b). Pub. L. 101–520 substituted “4604(h)(3)” for “4604(g)(3)”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–520 substituted “4604(h)(3)” for “4604(g)(3)”.
 
-1988—Subsec. (f)(2). Pub. L. 100–569 struck out first sentence which read as follows: “No Federal funds shall be used to pay for private fringe benefit programs.”
+<b>1988</b>—Subsec. (f)(2). Pub. L. 100–569 struck out first sentence which read as follows: “No Federal funds shall be used to pay for private fringe benefit programs.”
 
 #### Change of Name
 

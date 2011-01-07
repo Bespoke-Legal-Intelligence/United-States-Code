@@ -56,15 +56,15 @@ Provisions similar to those in this section were contained in section 4108(a), (
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–262, §347(a), redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which read as follows: “Assume responsibility for the medical care of any patient other than a patient admitted for treatment at a Department facility, except in those cases where the person, upon request and with the approval of the Under Secretary for Health, assumes such responsibilities to assist communities or medical practice groups to meet medical needs which would not otherwise be available for a period not to exceed 180 calendar days, which may be extended by the Under Secretary for Health for additional periods not to exceed 180 calendar days each.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–262, §347(a), redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which read as follows: “Assume responsibility for the medical care of any patient other than a patient admitted for treatment at a Department facility, except in those cases where the person, upon request and with the approval of the Under Secretary for Health, assumes such responsibilities to assist communities or medical practice groups to meet medical needs which would not otherwise be available for a period not to exceed 180 calendar days, which may be extended by the Under Secretary for Health for additional periods not to exceed 180 calendar days each.”
 
 Subsec. (c). Pub. L. 104–262, §347(b), substituted “subsection (b)(5)” for “subsection (b)(6)” in introductory provisions.
 
-1992—Subsec. (b)(1). Pub. L. 102–405, §302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” in two places.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–405, §302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” in two places.
 
 Subsec. (f). Pub. L. 102–405, §203, added subsec. (f).
 
-1991—Subsec. (e). Pub. L. 102–40, §401(b)(3)(A), added subsec. (e).
+<b>1991</b>—Subsec. (e). Pub. L. 102–40, §401(b)(3)(A), added subsec. (e).
 
 #### Establishment of Leave Bank Program
 

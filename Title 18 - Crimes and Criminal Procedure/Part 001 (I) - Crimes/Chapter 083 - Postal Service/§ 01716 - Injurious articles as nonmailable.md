@@ -20,7 +20,7 @@
 
 &emsp;(3) to supply or procurement officers or employees of any State, or any political subdivision of a State or Territory, ordering, procuring, or purchasing such knives in connection with the activities of such government; and
 
-&emsp;(4) to manufacturers of such knives or bona fide dealers therein in connection with any shipment made pursuant to an order from any person designated in paragraphs (1), (2), and (3).
+&emsp;(4) to manufacturers of such knives or bona fide dealers therein in connection with anyshipment made pursuant to an order from any person designated in paragraphs (1), (2), and (3).
 
 > The Postal Service may require, as a condition of conveying any such knife in the mails, that any person proposing to mail such knife explain in writing to the satisfaction of the Postal Service that the mailing of such knife will not be in violation of this section.
 
@@ -38,7 +38,7 @@
 
 (k) For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 781; May 8, 1952, ch. 246, 66 Stat. 67; June 29, 1955, ch. 224, 69 Stat.191; Pub. L. 85–268, Sept. 2, 1957, 71 Stat. 594; Pub. L. 85–623, §5, Aug. 12, 1958, 72 Stat. 562; Pub. L. 91–375, §6(j)(25), Aug. 12, 1970, 84 Stat. 779; Pub. L. 92–191, §1, Dec. 15, 1971, 85 Stat. 647; Pub. L. 99–570, title X, §10003, Oct. 27, 1986, 100 Stat. 3207–167; Pub. L. 103–322, title VI, §60003(a)(7), title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 1969, 2147; Pub. L. 104–294, title VI, §607(g), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 107–273, div. B, title IV, §4002(b)(2), (6), Nov. 2, 2002, 116 Stat. 1807; Pub. L. 109–435, title X, §1008(d), Dec. 20, 2006, 120 Stat. 3261.)
+(June 25, 1948, ch. 645, 62 Stat. 781; May 8, 1952, ch. 246, 66 Stat. 67; June 29, 1955, ch. 224, 69 Stat. 191; Pub. L. 85–268, Sept. 2, 1957, 71 Stat. 594; Pub. L. 85–623, §5, Aug. 12, 1958, 72 Stat. 562; Pub. L. 91–375, §6(j)(25), Aug. 12, 1970, 84 Stat. 779; Pub. L. 92–191, §1, Dec. 15, 1971, 85 Stat. 647; Pub. L. 99–570, title X, §10003, Oct. 27, 1986, 100 Stat. 3207–167; Pub. L. 103–322, title VI, §60003(a)(7), title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 1969, 2147; Pub. L. 104–294, title VI, §607(g), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 107–273, div. B, title IV, §4002(b)(2), (6), Nov. 2, 2002, 116 Stat. 1807; Pub. L. 109–435, title X, §1008(d), Dec. 20, 2006, 120 Stat. 3261.)
 
 #### Historical and Revision Notes
 
@@ -52,31 +52,31 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–435 inserted “hazardous materials,” after “explosives,”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–435 inserted “hazardous materials,” after “explosives,”.
 
-2002—Subsec. (g)(3). Pub. L. 107–273, §4002(b)(2), made technical correction to directory language of Pub. L. 104–294, §607(g)(2). See 1996 Amendment note below.
+<b>2002</b>—Subsec. (g)(3). Pub. L. 107–273, §4002(b)(2), made technical correction to directory language of Pub. L. 104–294, §607(g)(2). See 1996 Amendment note below.
 
 Subsec. (j). Pub. L. 107–273, §4002(b)(6), designated first, second, and third undesignated pars. after subsec. (i) as pars. (1) to (3), respectively, of subsec. (j) and, in par. (2), substituted “under this title” for “not more than $10,000”. Former subsec. (j) redesignated (k).
 
 Subsec. (k). Pub. L. 107–273, §4002(b)(6)(D), redesignated subsec. (j) as (k).
 
-1996—Subsec. (g)(2). Pub. L. 104–294, §607(g)(1), substituted “State” for “State, Territory, or the District of Columbia”.
+<b>1996</b>—Subsec. (g)(2). Pub. L. 104–294, §607(g)(1), substituted “State” for “State, Territory, or the District of Columbia”.
 
 Subsec. (g)(3). Pub. L. 104–294, §607(g)(2), as amended by Pub. L. 107–273, §4002(b)(2), substituted “any State, or any political subdivision of a State” for “the municipal government of the District of Columbia or of the government of any State or Territory, or any county, city, or other political subdivision of a State”.
 
 Subsec. (j). Pub. L. 104–294, §607(g)(3), added subsec. (j) at end.
 
-1994—Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” in first undesignated par. after subsec. (i).
+<b>1994</b>—Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” in first undesignated par. after subsec. (i).
 
 Pub. L. 103–322, §60003(a)(7), in last par., struck out before period at end “, if the jury shall in its discretion so direct, or, in the case of a plea of guilty, or a plea of not guilty where the defendant has waived a trial by jury, if the court in its discretion, shall so order”.
 
-1986—Subsec. (i). Pub. L. 99–570 added subsec. (i).
+<b>1986</b>—Subsec. (i). Pub. L. 99–570 added subsec. (i).
 
-1971—Subsecs. (a) to (g). Pub. L. 92–191 designated existing seven paragraphs preceding the penal provisions as subsecs. (a) to (g), respectively.
+<b>1971</b>—Subsecs. (a) to (g). Pub. L. 92–191 designated existing seven paragraphs preceding the penal provisions as subsecs. (a) to (g), respectively.
 
 Subsec. (h). Pub. L. 92–191 added subsec. (h).
 
-1970—First par. Pub. L. 91–375, §6(j)(25)(B)(ii), substituted “officer or employee of the Postal Service” for “letter carrier”.
+<b>1970</b>—First par. Pub. L. 91–375, §6(j)(25)(B)(ii), substituted “officer or employee of the Postal Service” for “letter carrier”.
 
 Second par. Pub. L. 91–375, §6(j)(25)(A), substituted “Postal Service” and “it shall prescribe” for “Postmaster General” and “he shall prescribe”.
 
@@ -90,13 +90,13 @@ Seventh par. Pub. L. 91–375, §6(j)(25)(B)(i), (iii), substituted “Postal Se
 
 Eighth to tenth pars. Pub. L. 91–375, §6(j)(25)(B)(i), substituted “Postal Service” for “Postmaster General”.
 
-1958—Pub. L. 85–623 inserted paragraph prohibiting mailing of switchblade knives except in connection with Armed Forces or other Government orders.
+<b>1958</b>—Pub. L. 85–623 inserted paragraph prohibiting mailing of switchblade knives except in connection with Armed Forces or other Government orders.
 
-1957—Pub. L. 85–268 reduced penalty from two to one year for mailing nonmailable articles; increased penalty from ten to twenty years for mailing nonmailable matter with intent to kill or injure another or injure the mails or other property but where death does not result; and provided death penalty or life imprisonment for mailing nonmailable matter resulting in death.
+<b>1957</b>—Pub. L. 85–268 reduced penalty from two to one year for mailing nonmailable articles; increased penalty from ten to twenty years for mailing nonmailable matter with intent to kill or injure another or injure the mails or other property but where death does not result; and provided death penalty or life imprisonment for mailing nonmailable matter resulting in death.
 
-1955—Act June 29, 1955, inserted paragraph to permit the transportation in the mails of live scorpions for certain purposes.
+<b>1955</b>—Act June 29, 1955, inserted paragraph to permit the transportation in the mails of live scorpions for certain purposes.
 
-1952—Act May 8, 1952, inserted fourth paragraph to extend the Postmaster General's authority as it relates to the transmission of poisonous drugs through the mails for scientific purposes.
+<b>1952</b>—Act May 8, 1952, inserted fourth paragraph to extend the Postmaster General's authority as it relates to the transmission of poisonous drugs through the mails for scientific purposes.
 
 #### Effective Date of 2002 Amendment
 

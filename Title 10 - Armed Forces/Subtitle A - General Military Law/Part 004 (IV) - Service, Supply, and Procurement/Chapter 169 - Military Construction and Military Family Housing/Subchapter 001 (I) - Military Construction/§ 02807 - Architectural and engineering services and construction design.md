@@ -12,21 +12,21 @@
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–136, §1031(a)(37)(A), substituted “$1,000,000” for “$500,000”, struck out “not less than 21 days” after “of such services”, and inserted last sentence.
+<b>2003</b>—Subsec. (b). Pub. L. 108–136, §1031(a)(37)(A), substituted “$1,000,000” for “$500,000”, struck out “not less than 21 days” after “of such services”, and inserted last sentence.
 
-Subsec. (c)(2). Pub. L. 108–136, §1031(a)(37)(B), inserted before period at end “or, if over sooner, a period of 14 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title”.
+Subsec. (c)(2). Pub. L. 108–136, §1031(a)(37)(B), inserted before period at end “or, if over sooner, a period of 14 days has elapsed from the date on which a copy of thereport is provided in an electronic medium pursuant to section 480 of this title”.
 
-1998—Subsec. (b). Pub. L. 105–261, §2801(a), substituted “$500,000” for “$300,000”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–261, §2801(a), substituted “$500,000” for “$300,000”.
 
 Subsec. (d). Pub. L. 105–261, §2801(b), substituted “architectural and engineering services and construction design” for “study, planning, design, architectural, and engineering services”.
 
-1991—Subsec. (c)(2). Pub. L. 102–190 substituted “after” for “after either” and struck out before period at end “or after each such committee has indicated approval of the increased level of activity”.
+<b>1991</b>—Subsec. (c)(2). Pub. L. 102–190 substituted “after” for “after either” and struck out before period at end “or after each such committee has indicated approval of the increased level of activity”.
 
-1986—Subsec. (b). Pub. L. 99–661, §2702(b), substituted “$300,000” for “the maximum amount specified by law for the purposes of this section”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–661, §2702(b), substituted “$300,000” for “the maximum amount specified by law for the purposes of this section”.
 
 Subsec. (d). Pub. L. 99–661, §2712(a), added subsec. (d).
 
-1983—Subsec. (a). Pub. L. 98–115 substituted “Within amounts appropriated for military construction and military family housing” for “Within amounts appropriated for such purposes” and inserted “, family housing projects, and projects undertaken in connection with the authority provided under section 2854 of this title that are” after “in connection with military construction projects”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–115 substituted “Within amounts appropriated for military construction and military family housing” for “Within amounts appropriated for such purposes” and inserted “, family housing projects, and projects undertaken in connection with the authority provided under section 2854 of this title that are” after “in connection with military construction projects”.
 
 #### Effective Date of 1986 Amendment
 

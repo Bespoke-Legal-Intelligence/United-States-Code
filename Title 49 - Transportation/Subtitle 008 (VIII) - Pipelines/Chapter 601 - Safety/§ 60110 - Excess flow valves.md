@@ -86,9 +86,9 @@ In subsection (b), before clause (1), the words “on when” are substituted fo
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–355 substituted “circumstances, if any, under which an operator” for “circumstances under which an operator” in introductory provisions.
+<b>2002</b>—Subsec. (b). Pub. L. 107–355 substituted “circumstances, if any, under which an operator” for “circumstances under which an operator” in introductory provisions.
 
-1996—Subsec. (b). Pub. L. 104–304, §20(j), substituted “standards” for “regulations” in introductory provisions.
+<b>1996</b>—Subsec. (b). Pub. L. 104–304, §20(j), substituted “standards” for “regulations” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 104–304, §8(1), which directed the insertion of “, if any,” after “circumstances” in the first sentence of subsection (b)(1), could not be executed because the word “circumstances” did not appear in subsec. (b)(1).
 

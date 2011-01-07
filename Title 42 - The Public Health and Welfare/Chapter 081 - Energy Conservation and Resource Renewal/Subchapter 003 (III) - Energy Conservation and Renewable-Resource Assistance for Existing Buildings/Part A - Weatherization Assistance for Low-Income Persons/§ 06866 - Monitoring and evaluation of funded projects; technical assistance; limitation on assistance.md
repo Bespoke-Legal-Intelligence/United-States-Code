@@ -6,7 +6,7 @@ The Secretary, in coordination with the Director, shall monitor and evaluate the
 
 #### Amendments
 
-2009—Pub. L. 111–5 substituted “up to 20 percent” for “10 percent”.
+<b>2009</b>—Pub. L. 111–5 substituted “up to 20 percent” for “10 percent”.
 
-1980—Pub. L. 96–294 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1980</b>—Pub. L. 96–294 substituted “Secretary” for “Administrator” wherever appearing.
 

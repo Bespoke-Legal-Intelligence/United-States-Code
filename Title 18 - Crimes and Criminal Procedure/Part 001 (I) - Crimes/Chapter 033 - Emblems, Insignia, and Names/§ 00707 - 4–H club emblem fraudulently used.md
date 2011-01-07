@@ -30,5 +30,5 @@ The date of enactment of this title, referred to in text, means June 25, 1948.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250” in third par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250” in third par.
 

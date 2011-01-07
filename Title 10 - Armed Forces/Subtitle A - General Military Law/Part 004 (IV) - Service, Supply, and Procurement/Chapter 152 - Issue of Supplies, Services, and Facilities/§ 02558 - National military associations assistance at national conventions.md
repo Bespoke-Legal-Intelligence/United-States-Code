@@ -40,7 +40,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 #### Amendments
 
-2000—Pub. L. 106–398 renumbered section 2548 of this title as this section.
+<b>2000</b>—Pub. L. 106–398 renumbered section 2548 of this title as this section.
 
 #### Effective Date
 

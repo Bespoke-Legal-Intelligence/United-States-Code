@@ -6,7 +6,7 @@ Any unclaimed personal property as described in section 8502 of this title of ve
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 5205 of this title as this section and substituted “8502” for “5202”.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5205 of this title as this section and substituted “8502” for “5202”.
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Department” for “Veterans’ Administration”.
 

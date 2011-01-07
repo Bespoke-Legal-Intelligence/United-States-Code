@@ -10,7 +10,7 @@ The Secretary is authorized to prescribe regulations providing for the crediting
 
 #### (c) Offset of past-due support against overpayments
 
-The amount of any overpayment to be refunded to the person making the overpayment shall be reduced by the amount of any past-due support (as defined in section 464(c) of the Social Security Act) owed by that person of which the Secretary has been notified by a State in accordance with section 464 of of <sup>2</sup> such Act. The Secretary shall remit the amount by which the overpayment is so reduced to the State collecting such support and notify the person making the overpayment that so much of the overpayment as was necessary to satisfy his obligation for past-due support has been paid to the State. The Secretary shall apply a reduction under this subsection first to an amount certified by the State as past due support under section 464 of the Social Security Act before any other reductions allowed by law. This subsection shall be applied to an overpayment prior to its being credited to a person's future liability for an internal revenue tax.
+The amount of any overpayment to be refunded to the person making the overpayment shall be reduced by the amount of any past-duesupport (as defined in section 464(c) of the Social Security Act) owed by that person of which the Secretary has been notified by a State in accordance with section 464 of of <sup>2</sup> such Act. The Secretary shall remit the amount by which the overpayment is so reduced to the State collecting such support and notify the person making the overpayment that so much of the overpayment as was necessary to satisfy his obligation for past-due support has been paid to the State. The Secretary shall apply a reduction under this subsection first to an amount certified by the State as past due support under section 464 of the Social Security Act before any other reductions allowed by law. This subsection shall be applied to an overpayment prior to its being credited to a person's future liability for an internal revenue tax.
 
 #### (d) Collection of debts owed to Federal agencies
 
@@ -126,7 +126,7 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 &emsp;Any State receiving notice from the Secretary that an erroneous payment has been made to such State under paragraph (1) shall pay promptly to the Secretary, in accordance with such regulations as the Secretary may prescribe, an amount equal to the amount of such erroneous payment (without regard to whether any other amounts payable to such State under such paragraph have been paid to such State).
 
-#### (f) Collection of unemployment compensation debts resulting from fraud
+#### (f) Collection of unemployment compensation debts
 
 #### (1) In general
 
@@ -156,33 +156,29 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 > &emsp;If the Secretary receives notice from a State or States of more than one debt subject to paragraph (1) or subsection (e) that is owed by a person to such State or States, any overpayment by such person shall be applied against such debts in the order in which such debts accrued.
 
-#### (3) Offset permitted only against residents of State seeking offset
-
-&emsp;Paragraph (1) shall apply to an overpayment by any person for a taxable year only if the address shown on the Federal return for such taxable year of the overpayment is an address within the State seeking the offset.
-
-#### (4) Notice; consideration of evidence
+#### (3) Notice; consideration of evidence
 
 &emsp;No State may take action under this subsection until such State—
 
-&emsp;&emsp;(A) notifies by certified mail with return receipt the person owing the covered unemployment compensation debt that the State proposes to take action pursuant to this section;
+&emsp;&emsp;(A) notifies the person owing the covered unemployment compensation debt that the State proposes to take action pursuant to this section;
 
-&emsp;&emsp;(B) provides such person at least 60 days to present evidence that all or part of such liability is not legally enforceable or due to fraud;
+&emsp;&emsp;(B) provides such person at least 60 days to present evidence that all or part of such liability is not legally enforceable or is not a covered unemployment compensation debt;
 
-&emsp;&emsp;(C) considers any evidence presented by such person and determines that an amount of such debt is legally enforceable and due to fraud; and
+&emsp;&emsp;(C) considers any evidence presented by such person and determines that an amount of such debt is legally enforceable and is a covered unemployment compensation debt; and
 
 &emsp;&emsp;(D) satisfies such other conditions as the Secretary may prescribe to ensure that the determination made under subparagraph (C) is valid and that the State has made reasonable efforts to obtain payment of such covered unemployment compensation debt.
 
-#### (5) Covered unemployment compensation debt
+#### (4) Covered unemployment compensation debt
 
 &emsp;For purposes of this subsection, the term “covered unemployment compensation debt” means—
 
-&emsp;&emsp;(A) a past-due debt for erroneous payment of unemployment compensation due to fraud which has become final under the law of a State certified by the Secretary of Labor pursuant to section 3304 and which remains uncollected for not more than 10 years;
+&emsp;&emsp;(A) a past-due debt for erroneous payment of unemployment compensation due to fraud or the person's failure to report earnings which has become final under the law of a State certified by the Secretary of Labor pursuant to section 3304 and which remains uncollected;
 
-&emsp;&emsp;(B) contributions due to the unemployment fund of a State for which the State has determined the person to be liable due to fraud and which remain uncollected for not more than 10 years; and
+&emsp;&emsp;(B) contributions due to the unemployment fund of a State for which the State has determined the person to be liable and which remain uncollected; and
 
 &emsp;&emsp;(C) any penalties and interest assessed on such debt.
 
-#### (6) Regulations
+#### (5) Regulations
 
 #### (A) In general
 
@@ -196,13 +192,9 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 &emsp;&emsp;The regulations may include a requirement that States submit notices of covered unemployment compensation debt to the Secretary via the Secretary of Labor in accordance with procedures established by the Secretary of Labor. Such procedures may require States to pay a fee to the Secretary of Labor to reimburse the Secretary of Labor for the costs of applying this subsection. Any such fee shall be established in consultation with the Secretary of the Treasury. Any fee paid to the Secretary of Labor may be deducted from amounts collected and shall be used to reimburse the appropriation account which bore all or part of the cost of applying this subsection.
 
-#### (7) Erroneous payment to State
+#### (6) Erroneous payment to State
 
 &emsp;Any State receiving notice from the Secretary that an erroneous payment has been made to such State under paragraph (1) shall pay promptly to the Secretary, in accordance with such regulations as the Secretary may prescribe, an amount equal to the amount of such erroneous payment (without regard to whether any other amounts payable to such State under such paragraph have been paid to such State).
-
-#### (8) Termination
-
-&emsp;This section shall not apply to refunds payable after the date which is 10 years after the date of the enactment of this subsection.
 
 #### (g) Review of reductions
 
@@ -228,17 +220,35 @@ Notwithstanding any other provision of law, in the case of an insolvent corporat
 
 In the case of a disallowance of a claim for refund, the Secretary shall provide the taxpayer with an explanation for such disallowance.
 
-(Aug. 6, 1954, ch. 736, 68A Stat. 791; Pub. L. 94–455, title XIX, §1906(b)(13) (A), (K), Oct. 4, 1976, 90 Stat. 1834, 1835; Pub. L. 97–35, title XXIII, §2331(c), Aug. 13, 1981, 95 Stat. 861; Pub. L. 98–369, div. B, title VI, §2653(b)(1), (2), July 18, 1984, 98 Stat. 1154, 1155; Pub. L. 98–378, §21(e), Aug. 16, 1984, 98 Stat. 1325; Pub. L. 100–647, title VI, §6276, Nov. 10, 1988, 102 Stat. 3753; Pub. L. 101–508, title V, §5129(c), Nov. 5, 1990, 104 Stat. 1388–288; Pub. L. 103–296, title I, §108(h)(7), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 104–134, title III, §31001(u)(2), Apr. 26, 1996, 110 Stat. 1321–375; Pub. L. 104–193, title I, §110(<i>l</i>)(7), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–206, title III, §§3505(a), 3711(a), (c), July 22, 1998, 112 Stat. 771, 779, 781; Pub. L. 109–171, title VII, §7301(d), Feb. 8, 2006, 120 Stat. 144; Pub. L. 110–328, §3(a), (d), Sept. 30, 2008, 122 Stat. 3570, 3573.)
+(Aug. 6, 1954, ch. 736, 68A Stat. 791; Pub. L. 94–455, title XIX, §1906(b)(13) (A), (K), Oct. 4, 1976, 90 Stat. 1834, 1835; Pub. L. 97–35, title XXIII, §2331(c), Aug. 13, 1981, 95 Stat. 861; Pub. L. 98–369, div. B, title VI, §2653(b)(1), (2), July 18, 1984, 98 Stat. 1154, 1155; Pub. L. 98–378, §21(e), Aug. 16, 1984, 98 Stat. 1325; Pub. L. 100–647, title VI, §6276, Nov. 10, 1988, 102 Stat. 3753; Pub. L. 101–508, title V, §5129(c), Nov. 5, 1990, 104 Stat. 1388–288; Pub. L. 103–296, title I, §108(h)(7), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 104–134, title III, §31001(u)(2), Apr. 26, 1996, 110 Stat. 1321–375; Pub. L. 104–193, title I, §110(<i>l</i>)(7), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–206, title III, §§3505(a), 3711(a), (c), July 22, 1998, 112 Stat. 771, 779, 781; Pub. L. 109–171, title VII, §7301(d), Feb. 8, 2006, 120 Stat. 144; Pub. L. 110–328, §3(a), (d), Sept. 30, 2008, 122 Stat. 3570, 3573; Pub. L. 111–291, title VIII, §801(a), Dec. 8, 2010, 124 Stat. 3157; Pub. L. 111–312, title V, §503(a), Dec. 17, 2010, 124 Stat. 3308.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (c), (d)(2), (3)(D), and (g), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 204, 464, and 471(a)(17) of the Act are classified to sections 404, 664, and 671(a)(17) of Title 42. Section 402 of the Act, whichwas classified to section 602 of Title 42, was repealed and a new section 402 enacted by Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112. As so enacted section 402 does not contain a subsec. (a)(26). For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
-
-The date of the enactment of this subsection, referred to in subsec. (f)(8), is the date of enactment of Pub. L. 110–328, which was approved Sept. 30, 2008.
+The Social Security Act, referred to in subsecs. (c), (d)(2), (3)(D), and (g), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 204, 464, and 471(a)(17) of the Act are classified to sections 404, 664, and 671(a)(17) of Title 42. Section 402 of the Act, which was classified to section 602 of Title 42, was repealed and a new section 402 enacted by Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112. As so enacted section 402 does not contain a subsec. (a)(26). For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–328, §3(d)(1), substituted “(c), (d), (e), and (f)” for “(c), (d), and (e),”.
+<b>2010</b>—Subsec. (f). Pub. L. 111–291, §801(a)(1), struck out “resulting from fraud” after “debts” in heading.
+
+Subsec. (f)(3). Pub. L. 111–291, §801(a)(2), redesignated par. (4) as (3) and struck out former par. (3). Prior to amendment, text of par. (3) read as follows: “Paragraph (1) shall apply to an overpayment by any person for a taxable year only if the address shown on the Federal return for such taxable year of the overpayment is an address within the State seeking the offset.”
+
+Subsec. (f)(3)(A). Pub. L. 111–291, §801(a)(3)(A), struck out “by certified mail with return receipt” after “notifies”.
+
+Subsec. (f)(3)(B). Pub. L. 111–291, §801(a)(3)(B), substituted “is not a covered unemployment compensation debt” for “due to fraud”.
+
+Subsec. (f)(3)(C). Pub. L. 111–312 substituted “is a covered unemployment compensation debt” for “is not a covered unemployment compensation debt”.
+
+Pub. L. 111–291, §801(a)(3)(C), substituted “is not a covered unemployment compensation debt” for “due to fraud”.
+
+Subsec. (f)(4). Pub. L. 111–291, §801(a)(2), redesignated par. (5) as (4). Former par. (4) redesignated (3).
+
+Subsec. (f)(4)(A). Pub. L. 111–291, §801(a)(4)(A), inserted “or the person's failure to report earnings” after “due to fraud” and struck out “for not more than 10 years” after “remains uncollected”.
+
+Subsec. (f)(4)(B). Pub. L. 111–291, §801(a)(4)(B), struck out “due to fraud” after “to be liable” and “for not more than 10 years” after “remain uncollected”.
+
+Subsec. (f)(5) to (8). Pub. L. 111–291, §801(a)(2), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out par. (8). Prior to amendment, text of par. (8) read as follows: “This section shall not apply to refunds payable after the date which is 10 years after the date of the enactment of this subsection.”
+
+<b>2008</b>—Subsec. (a). Pub. L. 110–328, §3(d)(1), substituted “(c), (d), (e), and (f)” for “(c), (d), and (e),”.
 
 Subsec. (d)(2). Pub. L. 110–328, §3(d)(2), substituted “and before such overpayment is reduced pursuant to subsections (e) and (f)” for “and before such overpayment is reduced pursuant to subsection (e)”.
 
@@ -254,9 +264,9 @@ Subsec. (i). Pub. L. 110–328, §3(a), (d)(5), redesignated subsec. (h) as (i) 
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 110–328, §3(a), redesignated subsecs. (i) to (k) as (j) to (<i>l</i>), respectively.
 
-2006—Subsec. (c). Pub. L. 109–171 substituted “of such Act.” for “the Social Security Act.” in first sentence and “The Secretary shall apply a reduction under this subsection first to an amount certified by the State as past due support under section 464 of the Social Security Act before any other reductions allowed by law.” for “A reduction under this subsection shall be applied first to satisfy any past-due support which has been assigned to the State under section 402(a)(26) or 471(a)(17) of the Social Security Act, and shall be applied to satisfy any other past-due support after any other reductions allowed by law (but before a credit against future liability for an internal revenue tax) have been made.” in third sentence.
+<b>2006</b>—Subsec. (c). Pub. L. 109–171 substituted “of such Act.” for “the Social Security Act.” in first sentence and “The Secretary shall apply a reduction under this subsection first to an amount certified by the State as past due support under section 464 of the Social Security Act before any other reductions allowed by law.” for “A reduction under this subsection shall be applied first to satisfy any past-due support which has been assigned to the State under section 402(a)(26) or 471(a)(17) of the Social Security Act, and shall be applied to satisfy any other past-due support after any other reductions allowed by law (but before a credit against future liability for an internal revenue tax) have been made.” in third sentence.
 
-1998—Subsec. (a). Pub. L. 105–206, §3711(c)(1), substituted “(c), (d), and (e)” for “(c) and (d)”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–206, §3711(c)(1), substituted “(c), (d), and (e)” for “(c) and (d)”.
 
 Subsec. (d)(2). Pub. L. 105–206, §3711(c)(2), substituted “and before such overpayment is reduced pursuant to subsection (e) and before such overpayment” for “and before such overpayment”.
 
@@ -276,9 +286,9 @@ Pub. L. 105–206, §3505(a), added subsec. (j).
 
 Subsec. (k). Pub. L. 105–206, §3711(a), redesignated subsec. (j) as (k).
 
-1997—Subsecs. (a), (e) to (j). Pub. L. 105–33 repealed Pub. L. 104–193, §110(<i>l</i>)(7). See 1996 Amendment notes below.
+<b>1997</b>—Subsecs. (a), (e) to (j). Pub. L. 105–33 repealed Pub. L. 104–193, §110(<i>l</i>)(7). See 1996 Amendment notes below.
 
-1996—Subsec. (a). Pub. L. 104–193, §110(<i>l</i>)(7)(A), which directed substitution of “(c), (d), and (e)” for “(c) and (d)”, was repealed by Pub. L. 105–33.
+<b>1996</b>—Subsec. (a). Pub. L. 104–193, §110(<i>l</i>)(7)(A), which directed substitution of “(c), (d), and (e)” for “(c) and (d)”, was repealed by Pub. L. 105–33.
 
 Subsec. (e). Pub. L. 104–193, §110(<i>l</i>)(7)(C), which directed amendment by adding subsec. (e), reading as follows: “
 
@@ -290,17 +300,17 @@ Pub. L. 104–134 amended subsec. (f) generally. Prior to amendment, subsec. (f)
 
 Subsecs. (g) to (j). Pub. L. 104–193, §110(<i>l</i>)(7)(B), which directed amendment by redesignating subsecs. (f) to (i) as (g) to (j), respectively, was repealed by Pub. L. 105–33.
 
-1994—Subsecs. (d)(3)(C), (e). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” wherever appearing.
+<b>1994</b>—Subsecs. (d)(3)(C), (e). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” wherever appearing.
 
-1990—Subsec. (d)(1). Pub. L. 101–508, §5129(c)(1)(A), struck out “any OASDI overpayment and” after “(other than”.
+<b>1990</b>—Subsec. (d)(1). Pub. L. 101–508, §5129(c)(1)(A), struck out “any OASDI overpayment and” after “(other than”.
 
 Subsec. (d)(3). Pub. L. 101–508, §5129(c)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “For purposes of this subsection the term ‘OASDI overpayment’ means any overpayment of benefits made to an individual under title II of the Social Security Act.”
 
 Subsec. (e). Pub. L. 101–508, §5129(c)(2), inserted before period at end “or any such action against the Secretary of Health and Human Services which is otherwise available with respect to recoveries of overpayments of benefits under section 204 of the Social Security Act”.
 
-1988—Subsec. (i). Pub. L. 100–647 added subsec. (i).
+<b>1988</b>—Subsec. (i). Pub. L. 100–647 added subsec. (i).
 
-1984—Subsec. (a). Pub. L. 98–369, §2653(b)(2), substituted “subsections (c) and (d)” for “subsection (c)”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §2653(b)(2), substituted “subsections (c) and (d)” for “subsection (c)”.
 
 Subsec. (c). Pub. L. 98–378, §21(e)(1), substituted “collecting such support” for “to which such support has been assigned” and inserted provision that a reduction under this subsection shall be applied first to satisfy any past-due support which has been assigned to the State under section 402(a)(26) or 471(a)(17) of the Social Security Act, and shall be applied to satisfy any other past-due support after any other reductions allowed by law (but before a credit against future liability for an internal revenue tax) have been made.
 
@@ -312,11 +322,17 @@ Pub. L. 98–369, §2653(b)(1), added subsec. (g).
 
 Subsec. (h). Pub. L. 98–378, §21(e)(2), redesignated former subsec. (g) as (h).
 
-1981—Subsec. (a). Pub. L. 97–35, §2331(c)(1), inserted reference to subsec. (c) of this section.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2331(c)(1), inserted reference to subsec. (c) of this section.
 
 Subsec. (c). Pub. L. 97–35, §2331(c)(2), added subsec. (c).
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title V, §503(b), Dec. 17, 2010, 124 Stat. 3308, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in section 801 of the Claims Resolution Act of 2010 \[Pub. L. 111–291\].”
+
+Pub. L. 111–291, title VIII, §801(b), Dec. 8, 2010, 124 Stat. 3157, provided that: “The amendments made by this section \[amending this section\] shall apply to refunds payable under section 6402 of the Internal Revenue Code of 1986 on or after the date of the enactment of this Act \[Dec. 8, 2010\].”
 
 #### Effective Date of 2008 Amendment
 

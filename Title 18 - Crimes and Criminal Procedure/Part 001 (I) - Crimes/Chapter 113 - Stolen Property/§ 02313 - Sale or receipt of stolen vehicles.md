@@ -22,11 +22,11 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–177 substituted “motor vehicle, vessel, or aircraft” for “motor vehicle or aircraft”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–177 substituted “motor vehicle, vessel, or aircraft” for “motor vehicle or aircraft”.
 
-1992—Subsec. (a). Pub. L. 102–519 substituted “fined under this title or imprisoned not more than 10 years” for “fined not more than $5,000 or imprisoned not more than five years”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–519 substituted “fined under this title or imprisoned not more than 10 years” for “fined not more than $5,000 or imprisoned not more than five years”.
 
-1990—Pub. L. 101–647 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1990</b>—Pub. L. 101–647 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1984—Pub. L. 98–547 inserted “possesses,” after “receives,” and substituted “which has crossed a State or United States boundary after being stolen,” for “moving as, or which is a part of, or which constitutes interstate or foreign commerce,”.
+<b>1984</b>—Pub. L. 98–547 inserted “possesses,” after “receives,” and substituted “which has crossed a State or United States boundary after being stolen,” for “moving as, or which is a part of, or which constitutes interstate or foreign commerce,”.
 

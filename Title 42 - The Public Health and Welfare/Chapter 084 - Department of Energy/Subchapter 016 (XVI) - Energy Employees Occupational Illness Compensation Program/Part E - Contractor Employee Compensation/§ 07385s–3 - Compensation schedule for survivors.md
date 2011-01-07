@@ -10,7 +10,7 @@ The amount of contractor employee compensation under this part for the survivor 
 
 &emsp;&emsp;(A) the employee would have been entitled to compensation under section 7385s–4 of this title for a covered illness; and
 
-&emsp;&emsp;(B) it is at least as likely as not that exposure to a toxic substance at a Department of Energy facility was a significant factor in aggravating, contributing to, or causing the death of such employee.
+&emsp;&emsp;(B) it is at least as likely as not that exposure to a toxic substance at a Department ofEnergy facility was a significant factor in aggravating, contributing to, or causing the death of such employee.
 
 #### (2) Category two
 

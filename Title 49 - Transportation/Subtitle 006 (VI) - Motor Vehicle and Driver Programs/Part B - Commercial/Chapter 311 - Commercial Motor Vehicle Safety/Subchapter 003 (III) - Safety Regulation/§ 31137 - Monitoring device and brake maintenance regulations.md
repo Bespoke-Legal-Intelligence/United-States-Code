@@ -6,7 +6,7 @@ Use of Monitoring Devices.—If the Secretary of Transportation prescribes a reg
 
 (b)
 
-Brakes and Brake Systems Maintenance Regulations.—Not later than December 31, 1990,the Secretary shall prescribe regulations on improved standards or methods to ensure that brakes and brake systems of commercial motor vehicles are maintained properly and inspected by appropriate employees. At a minimum, the regulations shall establish minimum training requirements and qualifications for employees responsible for maintaining and inspecting the brakes and brake systems.
+Brakes and Brake Systems Maintenance Regulations.—Not later than December 31, 1990, the Secretary shall prescribe regulations on improved standards or methods to ensure that brakes and brake systems of commercial motor vehicles are maintained properly and inspected by appropriate employees. At a minimum, the regulations shall establish minimum training requirements and qualifications for employees responsible for maintaining and inspecting the brakes and brake systems.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1004.)
 

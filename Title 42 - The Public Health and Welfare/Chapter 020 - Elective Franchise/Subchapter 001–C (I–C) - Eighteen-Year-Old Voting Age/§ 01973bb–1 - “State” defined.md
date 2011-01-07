@@ -6,5 +6,5 @@ As used in this subchapter, the term “State” includes the District of Columb
 
 #### Amendments
 
-1975—Pub. L. 94–73 substituted definition of State for provisions prohibiting denial of right to vote because of age.
+<b>1975</b>—Pub. L. 94–73 substituted definition of State for provisions prohibiting denial of right to vote because of age.
 

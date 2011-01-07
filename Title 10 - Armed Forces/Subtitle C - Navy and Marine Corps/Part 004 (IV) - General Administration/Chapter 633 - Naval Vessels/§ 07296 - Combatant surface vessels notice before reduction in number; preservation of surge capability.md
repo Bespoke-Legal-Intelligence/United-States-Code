@@ -40,7 +40,7 @@ A prior section 7296, act Aug. 10, 1956, ch. 1041, 70A Stat. 449, related to ava
 
 #### Amendments
 
-2003—Subsec. (a)(3). Pub. L. 108–136, §1011(b)(1), redesignated par. (3) as subsec. (b).
+<b>2003</b>—Subsec. (a)(3). Pub. L. 108–136, §1011(b)(1), redesignated par. (3) as subsec. (b).
 
 Subsec. (b). Pub. L. 108–136, §1011(a), (b)(1), (2), redesignated par. (3) of subsec. (a) as subsec. (b), inserted heading and substituted “subsection (a)(1)(A)” for “paragraph (1)(A)” in introductory provisions, redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and struck out heading and text of former subsec. (b). Text read as follows: “Whenever the number of combatant surface vessels is less than 116, the Secretary of the Navy shall maintain on the Naval Vessel Register a sufficient number of combatant surface vessels to enable the Navy to regain a force of combatant surface vessels numbering not less than 116 within 120 days after the date of any decision by the President to increase the number of combatant surface vessels.”
 

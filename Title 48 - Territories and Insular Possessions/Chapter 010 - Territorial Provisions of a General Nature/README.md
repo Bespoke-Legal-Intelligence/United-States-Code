@@ -28,43 +28,65 @@
 
 The source of most sections of this chapter is the Revised Statutes enacted in 1873 and other early statutes. The Revised Statutes can no longer apply to contiguous territory because no such territory now exists. As to noncontiguous territory, Guam, Puerto Rico, and the Virgin Islands each has its own organic act, providing a complete system of government, legislative, executive, and judicial. The Canal Zone has its own code of laws. The independence of the Philippine Islands was recognized by Proc. No. 2695, eff. July 4, 1946, set out as a note under section 1394 of Title 22, Foreign Relations and Intercourse. The other possessions, such as Samoa, are covered by special provisions set out elsewhere in this title.
 
-#### Ex. Ord. No. 13299. Interagency Group on Insular Areas
+#### Executive Order No. 13299
 
-Ex. Ord. No. 13299, May 12, 2003, 68 F.R. 25477, provided:
+Ex. Ord. No. 13299, May 12, 2003, 68 F.R. 25477, which established the Interagency Group on Insular Areas, was superseded by Ex. Ord. No. 13537, §4(d), Apr. 14, 2010, 75 F.R. 20238, set out below.
+
+#### Ex. Ord. No. 13537. Interagency Group on Insular Areas
+
+Ex. Ord. No. 13537, Apr. 14, 2010, 75 F.R. 20237, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Interagency Group on Insular Areas</i>. (a) There is established, within the Department of the Interior for administrative purposes, the Interagency Group on Insular Areas (IGIA). The group shall consist exclusively of:
+Section 1. <i>Interagency Group on Insular Areas.</i>
 
-(i) the heads of the executive departments; and
+(a) There is established, within the Department of the Interior for administrative purposes, the Interagency Group on Insular Areas (IGIA) to address policies concerning Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands (Insular Areas).
 
-(ii) the heads of such agencies as the Secretary of the Interior may designate.
+(b) The IGIA shall consist of:
 
-(b) The Secretary of the Interior, or the Secretary's designee under section 1(c) of this order, shall convene and preside at the meetings of the IGIA, determine its agenda, direct its work and, as appropriate to deal with particular subject matters, establish and direct subgroups of the IGIA that shall consist exclusively of members of the IGIA.
+(i) the heads of the executive departments, as defined in 5 U.S.C. 101;
 
-(c) A member of the IGIA may designate, to perform the IGIA or IGIA subgroup functions of the member, any person who is a part of the member's department or agency (agency) and who is either an officer of the United States appointed by the President or a member of the Senior Executive Service.
+(ii) the heads of such other executive agencies as the Co-Chairs of the IGIA may designate; and (iii) the Deputy Assistant to the President and Director of Intergovernmental Affairs.
+
+(c) The Secretary of the Interior and the Deputy Assistant to the President and Director of Intergovernmental Affairs shall serve as Co-Chairs of the IGIA, convene and preside at its meetings, direct its work, and establish such subgroups of the IGIA as they deem appropriate, consisting exclusively of members of the IGIA.
+
+(d) Members of the IGIA may designate a senior department or agency official who is a full-time officer or employee of the Federal Government to perform their IGIA functions.
 
 Sec. 2. <i>Functions of the IGIA</i>. The IGIA shall:
 
-(a) provide advice on establishment or implementation of policies concerning American Samoa, Guam, the United States Virgin Islands, and the Commonwealth of Northern Mariana Islands (Insular Areas) to:
+(a) advise the President on establishment or implementation of policies concerning the Insular Areas;
 
-(i) the President, through the Office of Intergovernmental Affairs in the White House Office, in written reports, at least once each year; and
+(b) solicit information and advice concerning the Insular Areas from the Governors of, and other elected officials in, the Insular Areas (including through at least one meeting each year with any Governors of the Insular Areas who may wish to attend) in a manner that seeks their individual advice and does not involve collective judgment, or consensus advice or deliberation;
 
-(ii) the Secretary of the Interior;
+(c) solicit information and advice concerning the Insular Areas, as the IGIA determines appropriate, from representatives of entities or other individuals in a manner that seeks their individual advice and does not involve collective judgment, or consensus advice or deliberation;
 
-(b) obtain information and advice concerning Insular Areas from governors and other elected officials in the Insular Areas (including through a meeting at least once each year with such governors of the Insular Areas who may wish to attend) in a manner that seeks their individual advice and does not involve collective judgment or consensus advice or deliberation;
+(d) solicit information from executive departments or agencies for purposes of carrying out its mission; and
 
-(c) obtain information and advice concerning Insular Areas, as the IGIA determines appropriate, from representatives of entities or other individuals in a manner that seeks their individual advice and does not involve collective judgment or consensus advice or deliberation; and
+(e) at the request of the head of any executive department or agency who is a member of the IGIA, with the approval of the Co-Chairs, promptly review and provide advice on a policy or policy implementation action affecting the Insular Areas proposed by that department or agency.
 
-(d) at the request of the head of any agency who is a member of the IGIA, unless the Secretary of the Interior declines the request, promptly review and provide advice on a policy or policy implementation action affecting one of the Insular Areas proposed by that agency.
+Sec. 3. <i>Recommendations</i>. The IGIA shall:
 
-Sec. 3. <i>General Provisions</i>. (a) The Secretary of the Interior may, as the Secretary determines appropriate, make recommendations to the President, or to the heads of agencies, regarding policy or policy implementation actions of the Federal Government affecting the Insular Areas.
+(a) submit annually to the President a report containing recommendations regarding the establishment or implementation of policies concerning the Insular Areas; and
 
-(b) Nothing in this order shall be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals.
+(b) provide to the President, from time to time, as appropriate, recommendations concerning proposed or existing Federal programs and policies affecting the Insular Areas.
 
-Sec. 4. <i>Judicial Review</i>. This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its departments, agencies, instrumentalities or entities, its officers or employees, or any other person.
+Sec. 4. <i>General Provisions.</i>
 
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(a) The heads of executive departments and agencies shall assist and provide information to the IGIA, consistent with applicable law, as may be necessary to carry out the functions of the IGIA. Each executive department and agency shall bear its own expenses of participating in the IGIA.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) authority granted by law to an executive department, agency, or the head thereof, or the status of that department or agency within the Federal Government; or
+
+(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This order shall supersede Executive Order 13299 of May 8, 2003.
+
+(e) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ---

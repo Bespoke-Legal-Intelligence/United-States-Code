@@ -36,11 +36,11 @@ Pub. L. 106–534, §2, Nov. 22, 2000, 114 Stat. 2555, provided that: “Congres
 
 &emsp;“(3) The elderly are often targeted and retargeted in a range of fraudulent schemes.
 
-&emsp;“(4) The TRIAD program, originally sponsored by the National Sheriffs’ Association, International Association of Chiefs of Police, and the American Association of Retired Persons unites sheriffs, policechiefs, senior volunteers, elder care providers, families, and seniors to reduce the criminal victimization of the elderly.
+&emsp;“(4) The TRIAD program, originally sponsored by the National Sheriffs’ Association, International Association of Chiefs of Police, and the American Association of Retired Persons unites sheriffs, police chiefs, senior volunteers, elder care providers, families, and seniors to reduce the criminal victimization of the elderly.
 
 &emsp;“(5) Congress should continue to support TRIAD and similar community partnerships that improve the safety and quality of life for millions of senior citizens.
 
-&emsp;“(6) There are few other community-based efforts that forge partnerships to coordinate criminal justice and social service resources to improve the safety and security of the elderly.
+&emsp;“(6) There are few other community-based efforts that forge partnerships to coordinate criminal justiceand social service resources to improve the safety and security of the elderly.
 
 &emsp;“(7) According to the National Consumers League, telemarketing fraud costs consumers nearly $40,000,000,000 each year.
 

@@ -14,7 +14,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1996—Pub. L. 104–106 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
+<b>1996</b>—Pub. L. 104–106 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
 “(a) The President is authorized, subject to the provisions of this part, to prescribe and from time to time change—
 

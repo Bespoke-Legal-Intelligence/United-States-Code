@@ -18,7 +18,7 @@ A member of the advisory committee for one lake may also be a member of the advi
 
 #### (c) Compensation
 
-The members of the advisory committee shall receive no compensation from the Government of the United States for their services as such members. Not more than ten members of all the committees, designated by the committees and approved by the United States Section, may be paid by the Government of the United States for transportation expenses and per diem incidentto attendance at the annual meeting of the Commission or of the United States Section.
+The members of the advisory committee shall receive no compensation from the Government of the United States for their services as such members. Not more than ten members of all the committees, designated by the committees and approved by the United States Section, may be paid by the Government of the United States for transportation expenses and per diem incident to attendance at the annual meeting of the Commission or of the United States Section.
 
 #### (d) Meetings
 
@@ -28,7 +28,7 @@ The members of the advisory committee for each lake shall be invited to attend a
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–228, which directed the substitution of “ten” for “five” and “the annual” for “each” in subsec. (c) of section 4 of the Great Lakes Fisheries Act of 1956, was executed by making the substitutions in subsec. (c) of this section, which is section 4 of the Great Lakes Fishery Act of 1956, to reflect the probable intent of Congress.
+<b>2002</b>—Subsec. (c). Pub. L. 107–228, which directed the substitution of “ten” for “five” and “the annual” for “each” in subsec. (c) of section 4 of the Great Lakes Fisheries Act of 1956, was executed by making the substitutions in subsec. (c) of this section, which is section 4 of the Great Lakes Fishery Act of 1956, to reflect the probable intent of Congress.
 
 #### Termination of Advisory Committees
 

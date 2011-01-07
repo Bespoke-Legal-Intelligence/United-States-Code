@@ -48,3 +48,7 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f), is
 
 Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
+#### Transfer of Functions
+
+President's Council of Advisors on Science and Technology to serve as the advisory panel identified in this section and to be known as the National Nanotechnology Advisory Panel when performing the functions of such advisory committee, see section 2(a)(iv) of Ex. Ord. No. 13539, set out as a note under section 6601 of Title 42, The Public Health and Welfare.
+

@@ -6,13 +6,13 @@ Except as provided in subsection (b), for each fiscal year for which an eligible
 
 #### (b) Exception
 
-If the amount made available from Federal sources for the administration of programs under this chapter for a fiscal year (referred to in this section as the “determination year”) is less than the amount made available from Federal sources for the administration of programs under this chapter for the preceding fiscal year, then the amount the eligible agency is required to provide from non-Federal sources for costs the eligible agency incurs for the administration of programs under this chapter for the determination year under subsection (a) shall bear the same ratio to the amount the eligible agency provided from non-Federal sources for such costs for the preceding fiscal year, as the amount made available from Federal sources for the administration of programs under this chapter for the determination year bears to the amount made available from Federal sources for the administration of programs under this chapter for the preceding fiscal year.
+If the amount made available from Federal sources for the administration of programs under this chapter for a fiscal year (referred to in this section as the “determination year”) is less than the amount made available from Federal sources for the administration of programs under this chapter for the preceding fiscal year, then the amount the eligible agency is requiredto provide from non-Federal sources for costs the eligible agency incurs for the administration of programs under this chapter for the determination year under subsection (a) shall bear the same ratio to the amount the eligible agency provided from non-Federal sources for such costs for the preceding fiscal year, as the amount made available from Federal sources for the administration of programs under this chapter for the determination year bears to the amount made available from Federal sources for the administration of programs under this chapter for the preceding fiscal year.
 
 (Pub. L. 88–210, title III, §323, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 745.)
 
 #### Prior Provisions
 
-A prior section 2413, Pub. L. 88–210, title III, §323, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3124,related to State administrative costs, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2413, Pub. L. 88–210, title III, §323, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3124, related to State administrative costs, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2413, Pub. L. 88–210, title IV, §413, as added Pub. L. 101–392, title IV, §406(a), Sept. 25, 1990, 104 Stat. 813, authorized establishment of demonstration centers for training of dislocated workers, prior to the general amendment of this chapter by Pub. L. 105–332.
 

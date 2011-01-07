@@ -40,9 +40,11 @@ In order to qualify for assistance under this subchapter, the development compan
 
 &emsp;&emsp;(I) reduction of energy consumption by at least 10 percent,
 
-&emsp;&emsp;(J) increased use of sustainable design, including designs that reduce the use of greenhouse gas emitting fossil fuels, or low-impact design to produce buildings that reduce the use of non-renewable resources and minimize environmental impact, or
+&emsp;&emsp;(J) increased use of sustainable design, including designs that reduce the use of greenhouse gas emitting fossil fuels, or low-impact design to produce buildings that reduce the use of non-renewable resources and minimize environmental impact,
 
-&emsp;&emsp;(K) plant, equipment and process upgrades of renewable energy sources such as thesmall-scale production of energy for individual buildings or communities consumption, commonly known as micropower, or renewable fuels producers including biodiesel and ethanol producers.
+&emsp;&emsp;(K) plant, equipment and process upgrades of renewable energy sources such as the small-scale production of energy for individual buildings or communities consumption, commonly known as micropower, or renewable fuels producers including biodiesel and ethanol producers, or
+
+&emsp;&emsp;(L) reduction of rates of unemployment in labor surplus areas, as such areas are determined by the Secretary of Labor.
 
 > &emsp;In subparagraphs (J) and (K), terms have the meanings given those terms under the Leadership in Energy and Environmental Design (LEED) standard for green building certification, as determined by the Administrator.
 
@@ -66,7 +68,7 @@ In order to qualify for assistance under this subchapter, the development compan
 
 &emsp;(B) all of the production facilities of which are located in the United States.
 
-(Pub. L. 85–699, title V, §501, Aug. 21, 1958, 72 Stat. 696; Pub. L. 100–590, title I, §115(a), (b)(1), Nov. 3, 1988, 102 Stat. 2997; Pub. L. 101–574, title II, §214(a), (b), Nov. 15, 1990, 104 Stat. 2821; Pub. L. 106–50, title IV, §405, Aug. 17, 1999, 113 Stat. 246; Pub. L. 106–554, §1(a)(9) \[title III, §302\], Dec. 21, 2000, 114 Stat. 2763, 2763A–684; Pub. L. 108–447, div. K, title I, §105, Dec. 8, 2004, 118 Stat. 3444; Pub. L. 110–140, title XII, §1204(a), Dec. 19, 2007, 121 Stat. 1772; Pub. L. 111–5, div. A, title V, §504(b), Feb. 17, 2009, 123 Stat. 156.)
+(Pub. L. 85–699, title V, §501, Aug. 21, 1958, 72 Stat. 696; Pub. L. 100–590, title I, §115(a), (b)(1), Nov. 3, 1988, 102 Stat. 2997; Pub. L. 101–574, title II, §214(a), (b), Nov. 15, 1990, 104 Stat. 2821; Pub. L. 106–50, title IV, §405, Aug. 17, 1999, 113 Stat. 246; Pub. L. 106–554, §1(a)(9) \[title III, §302\], Dec. 21, 2000, 114 Stat. 2763, 2763A–684; Pub. L. 108–447, div. K, title I, §105, Dec. 8, 2004, 118 Stat. 3444; Pub. L. 110–140, title XII, §1204(a), Dec. 19, 2007, 121 Stat. 1772; Pub. L. 111–5, div. A, title V, §504(b), Feb. 17, 2009, 123 Stat. 156; Pub. L. 111–240, title I, §1132, Sept. 27, 2010, 124 Stat. 2514.)
 
 #### References in Text
 
@@ -74,23 +76,25 @@ For definition of “this chapter”, referred to in subsec. (b), see References
 
 #### Amendments
 
-2009—Subsec. (e)(1), (2). Pub. L. 111–5, which directed amendment of section 501(e)(1), (2) of the Small Business Investment Act by substituting “$65,000” for “$50,000”, was executed by making the substitution in subsec. (e)(1), (2) of this section, which is section 501 of the Small Business Investment Act of 1958, to reflect the probable intent of Congress.
+<b>2010</b>—Subsec. (d)(3)(L). Pub. L. 111–240 added subpar. (L).
 
-2007—Subsec. (d)(3). Pub. L. 110–140, §1204(a)(4), inserted the following concluding provisions: “In subparagraphs (J) and (K), terms have the meanings given those terms under the Leadership in Energy and Environmental Design (LEED) standard for green building certification, as determined by the Administrator.”
+<b>2009</b>—Subsec. (e)(1), (2). Pub. L. 111–5, which directed amendment of section 501(e)(1), (2) of the Small Business Investment Act by substituting “$65,000” for “$50,000”, was executed by making the substitution in subsec. (e)(1), (2) of this section, which is section 501 of the Small Business Investment Act of 1958, to reflect the probable intent of Congress.
+
+<b>2007</b>—Subsec. (d)(3). Pub. L. 110–140, §1204(a)(4), inserted the following concluding provisions: “In subparagraphs (J) and (K), terms have the meanings given those terms under the Leadership in Energy and Environmental Design (LEED) standard for green building certification, as determined by the Administrator.”
 
 Subsec. (d)(3)(I) to (K). Pub. L. 110–140, §1204(a)(1)–(3), added subpars. (I) to (K).
 
-2004—Subsec. (e). Pub. L. 108–447 added subsec. (e).
+<b>2004</b>—Subsec. (e). Pub. L. 108–447 added subsec. (e).
 
-2000—Subsec. (d)(3)(C). Pub. L. 106–554 inserted “or women-owned business development” before comma at end.
+<b>2000</b>—Subsec. (d)(3)(C). Pub. L. 106–554 inserted “or women-owned business development” before comma at end.
 
-1999—Subsec. (d)(3)(E)–(H). Pub. L. 106–50 added subpar. (E) and redesignated former subpars. (E) to (G) as (F) to (H), respectively.
+<b>1999</b>—Subsec. (d)(3)(E)–(H). Pub. L. 106–50 added subpar. (E) and redesignated former subpars. (E) to (G) as (F) to (H), respectively.
 
-1990—Subsec. (a). Pub. L. 101–574, §214(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Congress hereby finds and declares that the purpose of this subchapter is to foster economic development in both urban and rural areas by providing long term financing for small business concerns through the development company program authorized by this subchapter. In order to carry out this objective, the Administration is hereby directed to place greater emphasis on the needs of rural areas and the promotion of the development company program in such areas, and is further directed to develop a plan for greater outreach of procurement and export trade seminars in such areas. As used in this subchapter, the term ‘rural areas’ means those localities with populations of less than 20,000.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–574, §214(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Congress hereby finds and declares that the purpose of this subchapter is to foster economic development in both urban and rural areas by providing long term financing for small business concerns through the development company program authorized by this subchapter. In order to carry out this objective, the Administration is hereby directed to place greater emphasis on the needs of rural areas and the promotion of the development company program in such areas, and is further directed to develop a plan for greater outreach of procurement and export trade seminars in such areas. As used in this subchapter, the term ‘rural areas’ means those localities with populations of less than 20,000.”
 
 Subsec. (d). Pub. L. 101–574, §214(b), added subsec. (d).
 
-1988—Pub. L. 100–590 inserted “State development companies” as section catchline, added subsec. (a), and redesignated former subsecs. (a) and (b) as (b) and (c), respectively.
+<b>1988</b>—Pub. L. 100–590 inserted “State development companies” as section catchline, added subsec. (a), and redesignated former subsecs. (a) and (b) as (b) and (c), respectively.
 
 #### Effective Date of 2007 Amendment
 
@@ -114,7 +118,7 @@ Selection of Development Companies.—
 
 &emsp;“(1)
 
-In general.—Not later than 90 days after the date of the enactment of this Act \[Sept. 30, 1996\], the Administrator shall establish a pilot program under which certain development companies authorized to make loans and issue debentures under title V of theSmall Business Investment Act of 1958 \[15 U.S.C. 695 et seq.\] are selected by the Administrator in accordance with this subsection to carry out loan liquidations.
+In general.—Not later than 90 days after the date of the enactment of this Act \[Sept. 30, 1996\], the Administrator shall establish a pilot program under which certain development companies authorized to make loans and issue debentures under title V of the Small Business Investment Act of 1958 \[15 U.S.C. 695 et seq.\] are selected by the Administrator in accordance with this subsection to carry out loan liquidations.
 
 &emsp;“(2)
 

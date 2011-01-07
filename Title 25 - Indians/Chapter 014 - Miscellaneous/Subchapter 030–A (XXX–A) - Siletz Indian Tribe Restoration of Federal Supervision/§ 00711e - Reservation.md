@@ -10,7 +10,7 @@ Inasmuch as the reservation of the tribe has been terminated, the Secretary shal
 
 #### (c) Notification and consultation
 
-To assure that legitimate State and local interests are not prejudiced by the creation of areservation for the tribe, the Secretary, in developing a plan under subsection (b) of this section for the establishment of a reservation, shall notify and consult with all appropriate officials of the State of Oregon, all appropriate local governmental officials in the State of Oregon and any other interested parties. Such consultation shall include the following subjects:
+To assure that legitimate State and local interests are not prejudiced by the creation of a reservation for the tribe, the Secretary, in developing a plan under subsection (b) of this section for the establishment of a reservation, shall notify and consult with all appropriate officials of the State of Oregon, all appropriate local governmental officials in the State of Oregon and any other interested parties. Such consultation shall include the following subjects:
 
 &emsp;(1) the size and location of the reservation;
 
@@ -30,7 +30,7 @@ Any plan developed under this section for the establishment of a reservation for
 
 &emsp;(1) any real property transferred by the tribe or members of the tribe to the Secretary shall be taken in the name of the United States in trust for the benefit of the tribe and shall be the reservation for the tribe;
 
-&emsp;(2) the establishment of such a reservation will not grant or restore to the tribe or any member of the tribe any hunting, fishing, or trapping right of any nature, including any indirect or procedural right or advantage, on such reservation;
+&emsp;(2) the establishment of such a reservation will not grant or restore to the tribe or any member of the tribe any hunting, fishing, ortrapping right of any nature, including any indirect or procedural right or advantage, on such reservation;
 
 &emsp;(3) the Secretary shall not accept any real property in trust for the benefit of the tribe or its members unless such real property is located within Lincoln County, State of Oregon;
 

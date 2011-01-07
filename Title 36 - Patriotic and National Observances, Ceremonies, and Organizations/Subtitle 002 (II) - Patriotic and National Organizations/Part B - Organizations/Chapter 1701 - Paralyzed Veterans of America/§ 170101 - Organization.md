@@ -20,7 +20,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-170101(a)D36:1151.DAug. 11, 1971, Pub. L. 92–93, §§1, 2, 4 (related to perpetual succession), 85 Stat. 317.
+170101(a)
+
+36:1151.
+
+Aug. 11, 1971, Pub. L. 92–93, §§1, 2, 4 (related to perpetual succession), 85 Stat. 317.
 
 &nbsp;
 

@@ -62,7 +62,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 &emsp;&emsp;&emsp;(ii) the transferee or qualified substitute receives a notice (as described in subsection (d)) from a transferor's agent, transferee's agent, or qualified substitute that such affidavit or statement is false, or
 
-&emsp;&emsp;(B) if the Secretary by regulations requires the transferee or qualified substituteto furnish a copy of such affidavit or statement to the Secretary and the transferee or qualified substitute fails to furnish a copy of such affidavit or statement to the Secretary at such time and in such manner as required by such regulations.
+&emsp;&emsp;(B) if the Secretary by regulations requires the transferee or qualified substitute to furnish a copy of such affidavit or statement to the Secretary and the transferee or qualified substitute fails to furnish a copy of such affidavit or statement to the Secretary at such time and in such manner as required by such regulations.
 
 #### (8) Applicable wash sales transactions
 
@@ -254,7 +254,7 @@ For purposes of this section—
 
 #### Amendments
 
-2008—Subsec. (b)(7). Pub. L. 110–289, §3024(c)(1), amended par. (7) generally. Prior to amendment, par. (7) related to special rules for paragraphs (2) and (3).
+<b>2008</b>—Subsec. (b)(7). Pub. L. 110–289, §3024(c)(1), amended par. (7) generally. Prior to amendment, par. (7) related to special rules for paragraphs (2) and (3).
 
 Subsec. (b)(9). Pub. L. 110–289, §3024(a), added par. (9).
 
@@ -266,21 +266,21 @@ Subsec. (d)(2). Pub. L. 110–289, §3024(c)(2)(B), amended par. (2) generally. 
 
 Subsec. (f)(6). Pub. L. 110–289, §3024(b), added par. (6).
 
-2006—Subsec. (b)(8). Pub. L. 109–222, §506(b), added par. (8).
+<b>2006</b>—Subsec. (b)(8). Pub. L. 109–222, §506(b), added par. (8).
 
 Subsec. (e)(6), (7). Pub. L. 109–222, §505(b), added par. (6) and redesignated former par. (6) as (7).
 
-2003—Subsec. (e)(1). Pub. L. 108–27, §§301(a)(2)(C), 303, temporarily substituted “15 percent” for “20 percent”. See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (e)(1). Pub. L. 108–27, §§301(a)(2)(C), 303, temporarily substituted “15 percent” for “20 percent”. See Effective and Termination Dates of 2003 Amendment note below.
 
-1997—Subsec. (e)(1). Pub. L. 105–34 substituted “20 percent” for “28 percent” in introductory provisions.
+<b>1997</b>—Subsec. (e)(1). Pub. L. 105–34 substituted “20 percent” for “28 percent” in introductory provisions.
 
-1996—Subsec. (e)(3). Pub. L. 104–188 inserted at end “Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation.”
+<b>1996</b>—Subsec. (e)(3). Pub. L. 104–188 inserted at end “Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation.”
 
-1993—Subsec. (e)(1), (2). Pub. L. 103–66 substituted “35 percent” for “34 percent”.
+<b>1993</b>—Subsec. (e)(1), (2). Pub. L. 103–66 substituted “35 percent” for “34 percent”.
 
-1988—Subsec. (e)(1). Pub. L. 100–647 inserted “(or, to the extent provided in regulations, 28 percent)” after “to 34 percent”.
+<b>1988</b>—Subsec. (e)(1). Pub. L. 100–647 inserted “(or, to the extent provided in regulations, 28 percent)” after “to 34 percent”.
 
-1986—Subsec. (b)(3). Pub. L. 99–514, §1810(f)(2), amended par. (3) generally, substituting “interests in corporation not United States real property interests” for “it is not a United States real property holding corporation” in heading, striking out the comma before “if the domestic corporation” in introductory provisions, inserting subpar. (A) designation and adding subpar. (B).
+<b>1986</b>—Subsec. (b)(3). Pub. L. 99–514, §1810(f)(2), amended par. (3) generally, substituting “interests in corporation not United States real property interests” for “it is not a United States real property holding corporation” in heading, striking out the comma before “if the domestic corporation” in introductory provisions, inserting subpar. (A) designation and adding subpar. (B).
 
 Subsec. (d)(1)(A). Pub. L. 99–514, §1810(f)(3)(B), substituted “paragraph (2)” for “paragraph (2)(A)”.
 
@@ -322,7 +322,7 @@ Amendment by section 506(b) of Pub. L. 109–222 applicable to taxable years beg
 
 Amendment by Pub. L. 108–27 applicable to amounts paid after May 28, 2003, see section 301(d)(2) of Pub. L. 108–27, set out as a note under section 1 of this title.
 
-Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
+Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

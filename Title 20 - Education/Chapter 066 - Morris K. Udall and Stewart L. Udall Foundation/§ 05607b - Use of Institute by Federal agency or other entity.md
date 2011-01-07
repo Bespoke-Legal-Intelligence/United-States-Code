@@ -62,7 +62,7 @@ A Federal agency may use the Foundation and the Institute to provide assessment,
 
 #### (2) Other mandated mechanisms or avenues
 
-&emsp;A dispute or conflict involving agencies or instrumentalities of the Federal Government\(including branches or divisions of a single agency or instrumentality) for which Congress by law has mandated another dispute resolution mechanism or avenue to address or resolve shall not be submitted to the Foundation or Institute.
+&emsp;A dispute or conflict involving agencies or instrumentalities of the Federal Government (including branches or divisions of a single agency or instrumentality) for which Congress by law has mandated another dispute resolution mechanism or avenue to address or resolve shall not be submitted to the Foundation or Institute.
 
 #### (e) Non-Federal entities
 
@@ -88,9 +88,9 @@ A prior section 11 of Pub. L. 102–259 was renumbered section 13 and is classif
 
 #### Amendments
 
-2009—Subsec. (f). Pub. L. 111–90 added subsec. (f).
+<b>2009</b>—Subsec. (f). Pub. L. 111–90 added subsec. (f).
 
-1998—Pub. L. 105–277, §101(h) \[title V, §517(a)(1)\], inserted “or other entity” after “Federal agency” in section catchline.
+<b>1998</b>—Pub. L. 105–277, §101(h) \[title V, §517(a)(1)\], inserted “or other entity” after “Federal agency” in section catchline.
 
 Subsec. (e). Pub. L. 105–277, §101(h) \[title V, §517(a)(2)\], added subsec. (e).
 

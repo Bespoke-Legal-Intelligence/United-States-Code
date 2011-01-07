@@ -6,7 +6,7 @@ The Secretary of Health and Human Services (hereinafter in this subchapter refer
 
 #### Amendments
 
-1984—Pub. L. 98–473 substituted “Health and Human Services” for “Health, Education, and Welfare” and “issue such rules as the Secretary” for “prescribe such rules as he”.
+<b>1984</b>—Pub. L. 98–473 substituted “Health and Human Services” for “Health, Education, and Welfare” and “issue such rules as the Secretary” for “prescribe such rules as he”.
 
 #### Effective Date of 1984 Amendment
 

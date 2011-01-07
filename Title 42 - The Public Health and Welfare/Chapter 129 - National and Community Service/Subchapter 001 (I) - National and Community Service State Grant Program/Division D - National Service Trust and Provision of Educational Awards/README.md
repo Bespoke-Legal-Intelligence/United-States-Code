@@ -6,7 +6,7 @@ Subtitle D of title I of Pub. L. 101–610, comprising this division, was former
 
 #### Amendments
 
-2009—Pub. L. 111–13, title I, §1401(a), Apr. 21, 2009, 123 Stat. 1512, amended div. heading generally.
+<b>2009</b>—Pub. L. 111–13, title I, §1401(a), Apr. 21, 2009, 123 Stat. 1512, amended div. heading generally.
 
 
 ---

@@ -38,7 +38,7 @@ The Secretary or his designee shall, from time to time, consult with the members
 
 #### Amendments
 
-1982—Subsec. (a). Pub. L. 97–232 substituted “twenty” for “ten”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–232 substituted “twenty” for “ten”.
 
-1980—Subsec. (b). Pub. L. 96–344 substituted in provision preceding par. (1) “fifteen” for “eleven” and in par. (5) “seven” for “three”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–344 substituted in provision preceding par. (1) “fifteen” for “eleven” and in par. (5) “seven” for “three”.
 

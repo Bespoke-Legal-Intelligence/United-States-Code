@@ -40,21 +40,19 @@ Executive Order No. 12333, referred to in subsec. (c)(1)(D), is Ex. Ord. No. 123
 
 Section 11332 of title 40, referred to in subsec. (d), was repealed by Pub. L. 107–296, title X, §1005(a)(1), Nov. 25, 2002, 116 Stat. 2272, and Pub. L. 107–347, title III, §305(a), Dec. 17, 2002, 116 Stat. 2960.
 
-The civil rights laws, referred to in subsec. (e), are classified generally to chapter 21 (§1981 et seq.) of Title 42, The Public Health and Welfare.
-
 #### Prior Provisions
 
 A prior section 3518, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2824, related to the effect on existing laws and regulations prior to the general amendment of this chapter by Pub. L. 104–13.
 
 #### Amendments
 
-2002—Subsec. (d). Pub. L. 107–217 substituted “sections 11331 and 11332 of title 40” for “section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441) and the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
+<b>2002</b>—Subsec. (d). Pub. L. 107–217 substituted “sections 11331 and 11332 of title 40” for “section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441) and the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
 
-2000—Pub. L. 106–398 substituted “subchapter” for “chapter” wherever appearing.
+<b>2000</b>—Pub. L. 106–398 substituted “subchapter” for “chapter” wherever appearing.
 
-1997—Subsec. (d). Pub. L. 105–85 substituted “Clinger-Cohen Act of 1996 (40 U.S.C. 1441)” for “Information Technology Management Reform Act of 1996”.
+<b>1997</b>—Subsec. (d). Pub. L. 105–85 substituted “Clinger-Cohen Act of 1996 (40 U.S.C. 1441)” for “Information Technology Management Reform Act of 1996”.
 
-1996—Subsec. (d). Pub. L. 104–106 substituted “section 5131 of the Information Technology Management Reform Act of 1996 and the Computer Security Act of 1987 (40 U.S.C. 759 note) on the Secretary of Commerce or” for “Public Law 89–306 on the Administrator of the General Services Administration, the Secretary of Commerce, or”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–106 substituted “section 5131 of the Information Technology Management Reform Act of 1996 and the Computer Security Act of 1987 (40 U.S.C. 759 note) on the Secretary of Commerce or” for “Public Law 89–306 on the Administrator of the General Services Administration, the Secretary of Commerce, or”.
 
 #### Effective Date of 2000 Amendment
 

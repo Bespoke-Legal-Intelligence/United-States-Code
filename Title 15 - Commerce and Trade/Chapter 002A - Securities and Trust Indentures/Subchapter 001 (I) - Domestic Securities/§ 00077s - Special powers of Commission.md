@@ -8,7 +8,7 @@ The Commission shall have authority from time to time to make, amend, and rescin
 
 #### (1) In general
 
-&emsp;In carrying out its authority under subsection (a) of this section and under section 78m(b) of this title, the Commission may recognize, as “generally accepted” for purposes of the securities laws, any accounting principles established by a standard setting body—
+&emsp;In carrying out its authority under subsection (a) of this section and under section 13(b) of the Securities Exchange Act of 1934 \[15 U.S.C. 78m(b)\], the Commission may recognize, as “generally accepted” for purposes of the securities laws, any accounting principles established by a standard setting body—
 
 &emsp;&emsp;(A) that—
 
@@ -22,7 +22,7 @@ The Commission shall have authority from time to time to make, amend, and rescin
 
 &emsp;&emsp;&emsp;(v) considers, in adopting accounting principles, the need to keep standards current in order to reflect changes in the business environment, the extent to which international convergence on high quality accounting standards is necessary or appropriate in the public interest and for the protection of investors; and
 
-&emsp;&emsp;(B) that the Commission determines has the capacity to assist the Commission in fulfilling the requirements of subsection (a) of this section and section 78m(b) of this title, because, at a minimum, the standard setting body is capable of improving the accuracy and effectiveness of financial reporting and the protection of investors under the securities laws.
+&emsp;&emsp;(B) that the Commission determines has the capacity to assist the Commission in fulfilling the requirements of subsection (a) of this section and section 13(b) of the Securities Exchange Act of 1934 \[15 U.S.C. 78m(b)\], because, at a minimum, the standard setting body is capable of improving the accuracy and effectiveness of financial reporting and the protection of investors under the securities laws.
 
 #### (2) Annual report
 
@@ -46,7 +46,7 @@ For the purpose of all investigations which, in the opinion of the Commission, a
 
 &emsp;(D) a substantial reduction in costs and paperwork to diminish the burdens of raising investment capital (particularly by small business) and to diminish the costs of the administration of the Government programs involved.
 
-(3) The purpose of this subsection is to engender cooperation between the Commission, any such association of State securities officials, and other duly constituted securities associations in the following areas:
+(3) The purpose of this subsection is to engender cooperation between the Commission, anysuch association of State securities officials, and other duly constituted securities associations in the following areas:
 
 &emsp;(A) the sharing of information regarding the registration or exemption of securities issues applied for in the various States;
 
@@ -58,7 +58,7 @@ For the purpose of all investigations which, in the opinion of the Commission, a
 
 (5) For fiscal year 1982, and for each of the three succeeding fiscal years, there are authorized to be appropriated such amounts as may be necessary and appropriate to carry out the policies, provisions, and purposes of this subsection. Any sums so appropriated shall remain available until expended.
 
-(6) Notwithstanding any other provision of law, neither the Commission nor any other person shall be required to establish any procedures not specifically required by the securities laws, as that term is defined in section 78c(a)(47) of this title, or by chapter 5 of title 5, in connection with cooperation, coordination, or consultation with—
+(6) Notwithstanding any other provision of law, neither the Commission nor any other person shall be required to establish any procedures not specifically required by the securities laws, as that term is defined in section 3(a)(47) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(47)\], or by chapter 5 of title 5, in connection with cooperation, coordination, or consultation with—
 
 &emsp;(A) any association referred to in paragraph (1) or (3) or any conference or meeting referred to in paragraph (4), while such association, conference, or meeting is carrying out activities in furtherance of the provisions of this subsection; or
 
@@ -66,19 +66,89 @@ For the purpose of all investigations which, in the opinion of the Commission, a
 
 > As used in this paragraph, the terms “association”, “conference”, “meeting”, “forum”, “agency”, “organization”, and “group” include any committee, subgroup, or representative of such entities.
 
-(May 27, 1933, ch. 38, title I, §19, 48 Stat. 85; June 6, 1934, ch. 404, title II, §209, 48 Stat. 908; Pub. L. 94–210, title III, §308(a)(2), Feb. 5, 1976, 90 Stat. 57; Pub. L. 96–477, title V, §505, Oct. 21, 1980, 94 Stat. 2292; Pub. L. 100–181, title II, §207, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 107–204, title I, §108(a), July 30, 2002, 116 Stat. 768.)
+#### (e) Evaluation of rules or programs
+
+For the purpose of evaluating any rule or program of the Commission issued or carried out under any provision of the securities laws, as defined in section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c), and the purposes of considering, proposing, adopting, or engaging in any such rule or program or developing new rules or programs, the Commission may—
+
+&emsp;(1) gather information from and communicate with investors or other members of the public;
+
+&emsp;(2) engage in such temporary investor testing programs as the Commission determines are in the public interest or would protect investors; and
+
+&emsp;(3) consult with academics and consultants, as necessary to carry out this subsection.
+
+#### (f) Rule of construction
+
+For purposes of the Paperwork Reduction Act (44 U.S.C. 3501 et seq.), any action taken under subsection (e) shall not be construed to be a collection of information.
+
+#### (g) Funding for the GASB
+
+#### (1) In general
+
+&emsp;The Commission may, subject to the limitations imposed by section 15B of the Securities Exchange Act of 1934 (15 U.S.C. 78<i>o</i>–4), require a national securities association registered under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] to establish—
+
+&emsp;&emsp;(A) a reasonable annual accounting support fee to adequately fund the annual budget of the Governmental Accounting Standards Board (referred to in this subsection as the “GASB”); and
+
+&emsp;&emsp;(B) rules and procedures, in consultation with the principal organizations representing State governors, legislators, local elected officials, and State and local finance officers, to provide for the equitable allocation, assessment, and collection of the accounting support fee established under subparagraph (A) from the members of the association, and the remittance of all such accounting support fees to the Financial Accounting Foundation.
+
+#### (2) Annual budget
+
+&emsp;For purposes of this subsection, the annual budget of the GASB is the annual budget reviewed and approved according to the internal procedures of the Financial Accounting Foundation.
+
+#### (3) Use of funds
+
+&emsp;Any fees or funds collected under this subsection shall be used to support the efforts of the GASB to establish standards of financial accounting and reporting recognized as generally accepted accounting principles applicable to State and local governments of the United States.
+
+#### (4) Limitation on fee
+
+&emsp;The annual accounting support fees collected under this subsection for a fiscal year shall not exceed the recoverable annual budgeted expenses of the GASB (which may include operating expenses, capital, and accrued items).
+
+#### (5) Rules of construction
+
+#### (A) Fees not public monies
+
+&emsp;&emsp;Accounting support fees collected under this subsection and other receipts of the GASB shall not be considered public monies of the United States.
+
+#### (B) Limitation on authority of the Commission
+
+&emsp;&emsp;Nothing in this subsection shall be construed to—
+
+&emsp;&emsp;&emsp;(i) provide the Commission or any national securities association direct or indirect oversight of the budget or technical agenda of the GASB; or
+
+&emsp;&emsp;&emsp;(ii) affect the setting of generally accepted accounting principles by the GASB.
+
+#### (C) Noninterference with States
+
+&emsp;&emsp;Nothing in this subsection shall be construed to impair or limit the authority of a State or local government to establish accounting and financial reporting standards.
+
+(May 27, 1933, ch. 38, title I, §19, 48 Stat. 85; June 6, 1934, ch. 404, title II, §209, 48 Stat. 908; Pub. L. 94–210, title III, §308(a)(2), Feb. 5, 1976, 90 Stat. 57; Pub. L. 96–477, title V, §505, Oct. 21, 1980, 94 Stat. 2292; Pub. L. 100–181, title II, §207, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 107–204, title I, §108(a), July 30, 2002, 116 Stat. 768; Pub. L. 111–203, title IX, §§912, 978(a), 985(a)(3), July 21, 2010, 124 Stat. 1824, 1924, 1933.)
+
+#### References in Text
+
+The Paperwork Reduction Act, referred to in subsec. (f), probably means chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents. See Short Title note set out under section 3501 of Title 44.
+
+The Securities Exchange Act of 1934, referred to in subsec. (g)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 #### Amendments
 
-2002—Subsecs. (b) to (d). Pub. L. 107–204 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+<b>2010</b>—Subsec. (d)(6)(A). Pub. L. 111–203, §985(a)(3), which directed substitution of “in paragraph (1) or (3)” for “in paragraph (1) of (3)”, could not be executed because the phrase “in paragraph (1) of (3)” did not appear.
 
-1987—Subsec. (c)(6). Pub. L. 100–181 added par. (6).
+Subsecs. (e), (f). Pub. L. 111–203, §912, added subsecs. (e) and (f).
 
-1980—Subsec. (c). Pub. L. 96–477 added subsec. (c).
+Subsec. (g). Pub. L. 111–203, §978(a), added subsec. (g).
 
-1976—Subsec. (a). Pub. L. 94–210 struck out provisions relating to rules and regulations applicable to any common carrier subject to the provisions of section 20 of title 49.
+<b>2002</b>—Subsecs. (b) to (d). Pub. L. 107–204 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-1934—Subsec. (a). Act June 6, 1934, inserted “technical” in first sentence and inserted last sentence.
+<b>1987</b>—Subsec. (c)(6). Pub. L. 100–181 added par. (6).
+
+<b>1980</b>—Subsec. (c). Pub. L. 96–477 added subsec. (c).
+
+<b>1976</b>—Subsec. (a). Pub. L. 94–210 struck out provisions relating to rules and regulations applicable to any common carrier subject to the provisions of section 20 of title 49.
+
+<b>1934</b>—Subsec. (a). Act June 6, 1934, inserted “technical” in first sentence and inserted last sentence.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date of 1980 Amendment
 

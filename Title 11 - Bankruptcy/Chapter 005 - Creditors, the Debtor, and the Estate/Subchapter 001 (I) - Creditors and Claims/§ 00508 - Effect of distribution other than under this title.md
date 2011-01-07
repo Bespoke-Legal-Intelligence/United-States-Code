@@ -8,7 +8,7 @@ If a creditor of a partnership debtor receives, from a general partner that is n
 
 I74legislative statements
 
-Section 508(b) of the House amendment is new and provides an identical rule with respect to a creditor ofa partnership who receives payment from a partner, to that of a creditor of a debtor who receives a payment in a foreign proceeding involving the debtor.
+Section 508(b) of the House amendment is new and provides an identical rule with respect to a creditor of a partnership who receives payment from a partner, to that of a creditor of a debtor who receives a payment in a foreign proceeding involving the debtor.
 
 #### senate report no. 95–989
 

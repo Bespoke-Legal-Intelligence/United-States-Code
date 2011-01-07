@@ -124,9 +124,9 @@ The Tax Reform Act of 1986, referred to in subsec. (c)(6)(A)(i), is Pub. L. 99�
 
 #### Amendments
 
-2004—Subsec. (c)(7), (8). Pub. L. 108–357 added par. (7) and redesignated former par. (7) as (8).
+<b>2004</b>—Subsec. (c)(7), (8). Pub. L. 108–357 added par. (7) and redesignated former par. (7) as (8).
 
-1997—Subsec. (b). Pub. L. 105–34, §1113(a)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) relating to deemed taxes increased in case of certain 2nd and 3rd tier foreign corporations.
+<b>1997</b>—Subsec. (b). Pub. L. 105–34, §1113(a)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) relating to deemed taxes increased in case of certain 2nd and 3rd tier foreign corporations.
 
 Subsec. (c)(2)(B). Pub. L. 105–34, §1163(a), substituted “attributable to” for “deemed paid with respect to”.
 
@@ -136,29 +136,29 @@ Pub. L. 105–34, §1113(a)(2)(D), struck out “ownership” after “on which 
 
 Subsec. (c)(3)(B). Pub. L. 105–34, §1113(a)(2)(A), inserted “or” at end of cl. (i), added cl. (ii), and struck out former cls. (ii) and (iii) which read as follows:
 
-“(ii) the requirements of subsection (b)(3)(A) are met with respect to such foreign corporation and 10 percentor more of the voting stock of such foreign corporation is owned by another foreign corporation described in clause (i), or
+“(ii) the requirements of subsection (b)(3)(A) are met with respect to such foreign corporation and 10 percent or more of the voting stock of such foreign corporation is owned by another foreign corporation described in clause (i), or
 
 “(iii) the requirements of subsection (b)(3)(B) are met with respect to such foreign corporation and 10 percent or more of the voting stock of such foreign corporation is owned by another foreign corporation described in clause (ii).”
 
 Subsec. (c)(4)(B). Pub. L. 105–34, §1113(a)(2)(B), substituted “sixth tier foreign corporation” for “3rd foreign corporation”.
 
-1988—Subsec. (c)(1). Pub. L. 100–647, §1012(b)(2), substituted “sections 964(a) and 986” for “sections 964 and 986”.
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–647, §1012(b)(2), substituted “sections 964(a) and 986” for “sections 964 and 986”.
 
 Subsec. (c)(7). Pub. L. 100–647, §1012(b)(1), substituted “section 960” for “secton 960” and “this section and section 960” for second reference to “this section”.
 
-1986—Pub. L. 99–514 amended section generally, substituting “Deemed paid credit where domestic corporation owns 10 percent or more of voting stock of foreign corporation” for “Credit for corporate stockholder in foreign corporation” as section catchline and substituting present provisions generally relating to post-1986 earnings and taxes for former provisions which had provided in subsec. (a) for a general rule with respect to treatment of taxes paid by foreign corporations, in subsec. (b) for treatment of taxes by a foreign subsidiary of first and second foreign corporations, in subsec. (c) for rules defining accumulated profits and determining accounting periods, and in subsec. (d) for cross references.
+<b>1986</b>—Pub. L. 99–514 amended section generally, substituting “Deemed paid credit where domestic corporation owns 10 percent or more of voting stock of foreign corporation” for “Credit for corporate stockholder in foreign corporation” as section catchline and substituting present provisions generally relating to post-1986 earnings and taxes for former provisions which had provided in subsec. (a) for a general rule with respect to treatment of taxes paid by foreign corporations, in subsec. (b) for treatment of taxes by a foreign subsidiary of first and second foreign corporations, in subsec. (c) for rules defining accumulated profits and determining accounting periods, and in subsec. (d) for cross references.
 
-1976—Pub. L. 94–455, §1033(a), struck out provisions by which dividends from less developed country corporations are not grossed-up by the amount of foreign taxes paid on the underlying income and the deemed-paid foreign tax credits attributable to those dividends are reduced proportionately, struck out subsec. (d) which defined less developed country corporations, and redesignated subsec. (e) as (d).
+<b>1976</b>—Pub. L. 94–455, §1033(a), struck out provisions by which dividends from less developed country corporations are not grossed-up by the amount of foreign taxes paid on the underlying income and the deemed-paid foreign tax credits attributable to those dividends are reduced proportionately, struck out subsec. (d) which defined less developed country corporations, and redesignated subsec. (e) as (d).
 
-1975—Subsec. (d). Pub. L. 94–12 substituted “paragraph (3) or (4)”, “paragraph (3)”, “paragraph (3)(A)”, and “paragraph (3)(B)” for “section 955(c)(1) or (2)”, “section 955(c)(1)”, “section 955(c)(1)(A)”, and “section 955(c)(1)(B)”, respectively, in existing provisions and added pars. (3), (4), and (5) and provisions following par. (5).
+<b>1975</b>—Subsec. (d). Pub. L. 94–12 substituted “paragraph (3) or (4)”, “paragraph (3)”, “paragraph (3)(A)”, and “paragraph (3)(B)” for “section 955(c)(1) or (2)”, “section 955(c)(1)”, “section 955(c)(1)(A)”, and “section 955(c)(1)(B)”, respectively, in existing provisions and added pars. (3), (4), and (5) and provisions following par. (5).
 
-1971—Subsec. (b). Pub. L. 91–684, §1, substituted “Foreign subsidiary of first and second foreign corporation” for “Foreign subsidiary of foreign corporation” in heading, designated existing provisions as par. (1) and inserted terminology denominating corporations involved as first foreign corporation and second foreign corporation, and reduced the ownership percentage requirement in voting stock from 50 percent to 10 percent between the first and second foreign corporations, and added pars. (2) and (3).
+<b>1971</b>—Subsec. (b). Pub. L. 91–684, §1, substituted “Foreign subsidiary of first and second foreign corporation” for “Foreign subsidiary of foreign corporation” in heading, designated existing provisions as par. (1) and inserted terminology denominating corporations involved as first foreign corporation and second foreign corporation, and reduced the ownership percentage requirement in voting stock from 50 percent to 10 percent between the first and second foreign corporations, and added pars. (2) and (3).
 
 Subsec. (c)(1)(A). Pub. L. 91–684, §2(1), substituted “(b)(1)(A), and (b)(2)(A)” for “and (b)(1)”.
 
 Subsec. (c)(1)(B). Pub. L. 91–684, §2(2), substituted “(b)(1)(B), and (b)(2)(B)” for “and (b)(2)”.
 
-1962—Subsec. (a). Pub. L. 87–834 limited provisions which required a domestic corporation owning at least 10 per cent of the voting stock of a foreign corporation from which it receives dividends in any taxable year to be deemed to have paid the same proportion of any income, war profits, or excess profits taxes paid or deemed to be paid by such foreign corporation to any foreign country or to any possession of the United States which the amount of such dividends bears to the amount of accumulated profits to those cases where a foreign corporation paid such dividends out of accumulated profits of a year for which such foreign corporation is a less developed country corporation, and inserted provisions requiring, in the case of a domestic corporation which owns at least 10 percent of the voting stock of a foreign corporation from which it receives dividends in a taxable year, to the extent such dividends are paid by such foreign corporation out of accumulated profits of a year for which such foreign corporation is not a less developed country corporation, to be deemed to have paid the same proportion of any income, war profits, or excess profits taxes paid or deemed to be paid by such foreign corporation to any foreign country or to any possession of the United States on or with respect to such accumulated profits, which the amount of such dividends (determined without regard to section 78) bears to the amount of such accumulated profits in excess of such income, war profits, and excess profits taxes (other than those deemed paid).
+<b>1962</b>—Subsec. (a). Pub. L. 87–834 limited provisions which required a domestic corporation owning at least 10 per cent of the voting stock of a foreign corporation from which it receives dividends in any taxable year to be deemed to have paid the same proportion of any income, war profits, or excess profits taxes paid or deemed to be paid by such foreign corporation to any foreign country or to any possession of the United States which the amount of such dividends bears to the amount of accumulated profits to those cases where a foreign corporation paid such dividends out of accumulated profits of a year for which such foreign corporation is a less developed country corporation, and inserted provisions requiring, in the case of a domestic corporation which owns at least 10 percent of the voting stock of a foreign corporation from which it receives dividends in a taxable year, to the extent such dividends are paid by such foreign corporation out of accumulated profits of a year for which such foreign corporation is not a less developed country corporation, to be deemed to have paid the same proportion of any income, war profits, or excess profits taxes paid or deemed to be paid by such foreign corporation to any foreign country or to any possession of the United States on or with respect to such accumulated profits, which the amount of such dividends (determined without regard to section 78) bears to the amount of such accumulated profits in excess of such income, war profits, and excess profits taxes (other than those deemed paid).
 
 Subsec. (b). Pub. L. 87–834 substituted “from which such dividends were paid which—
 
@@ -174,7 +174,7 @@ Subsec. (d). Pub. L. 87–834 substituted provisions defining “less developed 
 
 Subsec. (e). Pub. L. 87–834 designated existing provisions as par. (3) and added pars. (1) and (2).
 
-1960—Subsec. (e). Pub. L. 86–780 added subsec. (e).
+<b>1960</b>—Subsec. (e). Pub. L. 86–780 added subsec. (e).
 
 #### Effective Date of 2004 Amendment
 
@@ -196,7 +196,7 @@ Section 1163(c) of Pub. L. 105–34 provided that: “The amendments made by thi
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to whichsuch amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

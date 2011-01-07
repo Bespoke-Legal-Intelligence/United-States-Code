@@ -36,7 +36,7 @@ Sexual Harassment Defined.—In this section, the term “sexual harassment” m
 
 &emsp;&emsp;&emsp;(i) submission to such conduct is made either explicitly or implicitly a term or condition of a person's job, pay, or career;
 
-&emsp;&emsp;&emsp;(ii) submission to or rejection of such conduct by a person is used as a basis forcareer or employment decisions affecting that person; or
+&emsp;&emsp;&emsp;(ii) submission to or rejection of such conduct by a person is used as a basis for career or employment decisions affecting that person; or
 
 &emsp;&emsp;&emsp;(iii) such conduct has the purpose or effect of unreasonably interfering with an individual's work performance or creates an intimidating, hostile, or offensive working environment; and
 
@@ -56,7 +56,529 @@ Prior sections 1571 to 1577, Pub. L. 89–690, §1, Oct. 15, 1966, 80 Stat. 1016
 
 Pub. L. 107–311, §1, Dec. 2, 2002, 116 Stat. 2455, provided that: “This Act \[enacting section 1561a of this title\] may be cited as the ‘Armed Forces Domestic Security Act’.”
 
+#### Improved Sexual Assault Prevention and Response in the Armed Forces
+
+Pub. L. 111–383, div. A, title XVI, Jan. 7, 2011, 124 Stat. 4429, provided that:
+
+#### “SEC. 1601. DEFINITION OF DEPARTMENT OF DEFENSE SEXUAL ASSAULT PREVENTION AND RESPONSE PROGRAM AND OTHER DEFINITIONS.
+
+“(a)
+
+Sexual Assault Prevention and Response Program Defined.—In this title, the term ‘sexual assault prevention and response program’ refers to Department of Defense policies and programs, including policies and programs of a specific military department or Armed Force, that, as modified as required by this title—
+
+&emsp;“(1) are intended to reduce the number of sexual assaults involving members of the Armed Forces, whether members are the victim, alleged assailant, or both; and
+
+&emsp;“(2) improve the response of the Department of Defense, the military departments, and the Armed Forces to reports of sexual assaults involving members of the Armed Forces, whether members are the victim, alleged assailant, or both, and to reports of sexual assaults when a covered beneficiary under chapter 55 of title 10, United States Code, is the victim.
+
+“(b)
+
+Other Definitions.—In this title:
+
+&emsp;“(1) The term ‘Armed Forces’ means the Army, Navy, Air Force, and Marine Corps.
+
+&emsp;“(2) The terms ‘covered beneficiary’ and ‘dependent’ have the meanings given those terms in section 1072 of title 10, United States Code.
+
+&emsp;“(3) The term ‘department’ has the meaning given that term in section 101(a)(6) of title 10, United States Code.
+
+&emsp;“(4) The term ‘military installation’ has the meaning given that term by the Secretary concerned.
+
+&emsp;“(5) The term ‘Secretary concerned’ means—
+
+&emsp;&emsp;“(A) the Secretary of the Army, with respect to matters concerning the Army;
+
+&emsp;&emsp;“(B) the Secretary of the Navy, with respect to matters concerning the Navy and the Marine Corps; and
+
+&emsp;&emsp;“(C) the Secretary of the Air Force, with respect to matters concerning the Air Force.
+
+&emsp;“(6) The term ‘sexual assault’ has the definition developed for that term by the Secretary of Defense pursuant to subsection (a)(3) of section 577 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 10 U.S.C. 113 note) \[now set out below\], subject to such modifications as the Secretary considers appropriate.
+
+#### “SEC. 1602. COMPREHENSIVE DEPARTMENT OF DEFENSE POLICY ON SEXUAL ASSAULT PREVENTION AND RESPONSE PROGRAM.
+
+“(a)
+
+Comprehensive Policy Required.—Not later than March 30, 2012, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a revised comprehensive policy for the Department of Defense sexual assault prevention and response program that—
+
+&emsp;“(1) builds upon the comprehensive sexual assault prevention and response policy developed under subsections (a) and (b) of section 577 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 10 U.S.C. 113 note) \[now set out below\];
+
+&emsp;“(2) incorporates into the sexual assault prevention and response program the new requirements identified by this title; and
+
+&emsp;“(3) ensures that the policies and procedures of the military departments regarding sexual assault prevention and response are consistent with the revised comprehensive policy.
+
+“(b)
+
+Consideration of Task Force Findings, Recommendations, and Practices.—In developing the comprehensive policy required by subsection (a), the Secretary of Defense shall take into account the findings and recommendations found in the report of the Defense Task Force on Sexual Assault in the Military Services issued in December 2009.
+
+“(c)
+
+Sexual Assault Prevention and Response Evaluation Plan.—
+
+&emsp;“(1)
+
+Plan required.—The Secretary of Defense shall develop and implement an evaluation plan for assessing the effectiveness of the comprehensive policy prepared under subsection (a) in achieving its intended outcomes at the department and individual Armed Force levels.
+
+&emsp;“(2)
+
+Role of service secretaries.—As a component of the evaluation plan, the Secretary of each military department shall assess the adequacy of measures undertaken at military installations and by units of the Armed Forces under the jurisdiction of the Secretary to ensure the safest and most secure living and working environments with regard to preventing sexual assault.
+
+“(d)
+
+Progress Report.—Not later than October 1, 2011, the Secretary of Defense shall submit to the congressional defense committees a report—
+
+&emsp;“(1) describing the process by which the comprehensive policy required by subsection (a) is being revised;
+
+&emsp;“(2) describing the extent to which revisions of the comprehensive policy and the evaluation plan required by subsection (c) have already been implemented; and
+
+&emsp;“(3) containing a determination by the Secretary regarding whether the Secretary will be able to comply with the revision deadline specified in subsection (a).
+
+“(e)
+
+Consistency of Terminology, Position Descriptions, Program Standards, and Organizational Structures.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Defense shall require the use of consistent terminology, position descriptions, minimum program standards, and organizational structures throughout the Armed Forces in implementing the sexual assault prevention and response program.
+
+&emsp;“(2)
+
+Minimum standards.—The Secretary of Defense shall establish minimum standards for—
+
+&emsp;&emsp;“(A) the training, qualifications, and status of Sexual Assault Response Coordinators and Sexual Assault Victim Advocates for the Armed Forces; and
+
+&emsp;&emsp;“(B) the curricula to be used to provide sexual assault prevention and response training and education for members of the Armed Forces and civilian employees of the department to strengthen individual knowledge, skills, and capacity to prevent and respond to sexual assault.
+
+&emsp;“(3)
+
+Recognizing operational differences.—In complying with this subsection, the Secretary of Defense shall take into account the responsibilities of the Secretary concerned and operational needs of the Armed Force involved.
+
+#### “Subtitle A—Organizational Structure and Application of Sexual Assault Prevention and Response Program Elements
+
+#### “SEC. 1611. SEXUAL ASSAULT PREVENTION AND RESPONSE OFFICE.
+
+“(a)
+
+Appointment of Director.—There shall be a Director of the Sexual Assault Prevention and Response Office. During the development and implementation of the comprehensive policy for the Department of Defense sexual assault prevention and response program, the Director shall operate under the oversight of the Advisory Working Group of the Deputy Secretary of Defense.
+
+“(b)
+
+Duties of Director.—The Director of the Sexual Assault Prevention and Response Office shall—
+
+&emsp;“(1) oversee implementation of the comprehensive policy for the Department of Defense sexual assault prevention and response program;
+
+&emsp;“(2) serve as the single point of authority, accountability, and oversight for the sexual assault prevention and response program; and
+
+&emsp;“(3) provide oversight to ensure that the military departments comply with the sexual assault prevention and response program.
+
+“(c)
+
+Role of Inspectors General.—
+
+&emsp;“(1)
+
+In general.—The Inspector General of the Department of Defense, the Inspector General of the Army, the Naval Inspector General, and the Inspector General of the Air Force shall treat the sexual assault prevention and response program as an item of special interest when conducting inspections of organizations and activities with responsibilities regarding the prevention and response to sexual assault.
+
+&emsp;“(2)
+
+Composition of investigation teams.—The Inspector General inspection teams shall include at least one member with expertise and knowledge of sexual assault prevention and response policies related to a specific Armed Force.
+
+“(d)
+
+Staff.—
+
+&emsp;“(1)
+
+Assignment.—Not later than 18 months after the date of the enactment of this Act \[Jan. 7, 2011\], an officer from each of the Armed Forces in the grade ofO–4 or above shall be assigned to the Sexual Assault Prevention and Response Office for a minimum tour length of at least 18 months.
+
+&emsp;“(2)
+
+Higher grade.—Notwithstanding paragraph (1), of the four officers assigned to the Sexual Assault Prevention and Response Office under this subsection at any time, one officer shall be in the grade of O–6 or above.
+
+#### “SEC. 1612. OVERSIGHT AND EVALUATION STANDARDS.
+
+“(a)
+
+Issuance of Standards.—The Secretary of Defense shall issue standards to assess and evaluate the effectiveness of the sexual assault prevention and response program of each Armed Force in reducing the number of sexual assaults involving members of the Armed Forces and in improving the response of the department to reports of sexual assaults involving members of the Armed Forces, whether members of the Armed Forces are the victim, alleged assailant, or both.
+
+“(b)
+
+Sexual Assault Prevention Evaluation Plan.—The Secretary of Defense shall use the sexual assault prevention and response evaluation plan developed under section 1602(c) to ensure that the Armed Forces implement and comply with assessment and evaluation standards issued under subsection (a).
+
+#### “SEC. 1613. REPORT AND PLAN FOR COMPLETION OF ACQUISITION OF CENTRALIZED DEPARTMENT OF DEFENSE SEXUAL ASSAULT DATABASE.
+
+“(a)
+
+Report and Plan Required.—Not later than April 1, 2011, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report—
+
+&emsp;“(1) describing the status of development and implementation of the centralized Department of Defense sexual assault database required by section 563 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 122 Stat. 4470; 10 U.S.C. 113 note) \[now set out below\];
+
+&emsp;“(2) containing a revised implementation plan under subsection (c) of such section for completing implementation of the database; and
+
+&emsp;“(3) indicating the date by which the database will be operational.
+
+“(b)
+
+Content of Implementation Plan.—The plan referred to in subsection (a)(2) shall address acquisition best practices associated with successfully acquiring and deploying information technology systems related to the centralized sexual assault database, such as economically justifying the proposed system solution and effectively developing and managing requirements.
+
+#### “SEC. 1614. RESTRICTED REPORTING OF SEXUAL ASSAULTS.
+
+“The Secretary of Defense shall clarify the limitations on the ability of a member of the Armed Forces to make a restricted report regarding the occurrence of a sexual assault and the circumstances under which information contained in a restricted report may no longer be confidential.
+
+#### “Subtitle B—Improved and Expanded Availability of Services
+
+#### “SEC. 1621. IMPROVED PROTOCOLS FOR PROVIDING MEDICAL CARE FOR VICTIMS OF SEXUAL ASSAULT.
+
+“The Secretary of Defense shall establish comprehensive and consistent protocols for providing and documenting medical care to a member of the Armed Forces or covered beneficiary who is a victim of a sexual assault, including protocols with respect to the appropriate screening, prevention, and mitigation of diseases. In establishing the protocols, the Secretary shall take into consideration the gender of the victim.
+
+#### “SEC. 1622. SEXUAL ASSAULT VICTIMS ACCESS TO VICTIM ADVOCATE SERVICES.
+
+“(a)
+
+Availability of Victim Advocate Services.—
+
+&emsp;“(1)
+
+Availability.—A member of the Armed Forces or a dependent, as described in paragraph (2), who is the victim of a sexual assault is entitled to assistance provided by a qualified Sexual Assault Victim Advocate.
+
+&emsp;“(2)
+
+Covered dependents.—The assistance described in paragraph (1) is available to a dependent of a member of the Armed Forces who is the victim of a sexual assault and who resides on or in the vicinity of a military installation. The Secretary concerned shall define the term “vicinity” for purposes of this paragraph.
+
+“(b)
+
+Notice of Availability of Assistance; Opt Out.—The member or dependent shall be informed of the availability of assistance under subsection (a) as soon as the member or dependent seeks assistance from a Sexual Assault Response Coordinator. The victim shall also be informed that the services of a Sexual Assault Response Coordinator and Sexual Assault Victim Advocate are optional and that these services may be declined, in whole or in part, at any time.
+
+“(c)
+
+Nature of Reporting Immaterial.—In the case of a member of the Armed Forces, Victim Advocate services are available regardless of whether the member elects unrestricted or restricted (confidential) reporting of the sexual assault.
+
+#### “Subtitle C—Reporting Requirements
+
+#### “SEC. 1631. ANNUAL REPORT REGARDING SEXUAL ASSAULTS INVOLVING MEMBERS OF THE ARMED FORCES AND IMPROVEMENT TO SEXUAL ASSAULT PREVENTION AND RESPONSE PROGRAM.
+
+“(a)
+
+Annual Reports on Sexual Assaults.—Not later than March 1, 2012, and each March 1 thereafter through March 1, 2017, the Secretary of each military department shall submit to the Secretary of Defense a report on the sexual assaults involving members of the Armed Forces under the jurisdiction of that Secretary during the preceding year. In the case of the Secretary of the Navy, separate reports shall be prepared for the Navy and for the Marine Corps.
+
+“(b)
+
+Contents.—The report of a Secretary of a military department for an Armed Force under subsection (a) shall contain the following:
+
+&emsp;“(1) The number of sexual assaults committed against members of the Armed Force that were reported to military officials during the year covered by the report, and the number of the cases so reported that were substantiated.
+
+&emsp;“(2) The number of sexual assaults committed by members of the Armed Force that were reported to military officials during the year covered by the report, and the number of the cases so reported that were substantiated. The information required by this paragraph may not be combined with the information required by paragraph (1).
+
+&emsp;“(3) A synopsis of each such substantiated case, organized by offense, and, for each such case, the action taken in the case, including the type of disciplinary or administrative sanction imposed, if any, including courts-martial sentences, non-judicial punishments administered by commanding officers pursuant to section 815 of title 10, United States Code (article 15 of the Uniform Code of Military Justice), and administrative separations.
+
+&emsp;“(4) The policies, procedures, and processes implemented by the Secretary concerned during the year covered by the report in response to incidents of sexual assault involving members of the Armed Force concerned.
+
+&emsp;“(5) The number of substantiated sexual assault cases in which the victim is a deployed member of the Armed Forces and the assailant is a foreign national, and the policies, procedures, and processes implemented by the Secretary concerned to monitor the investigative processes and disposition of such cases and any actions taken to eliminate any gaps in investigating and adjudicating such cases.
+
+&emsp;“(6) A description of the implementation of the accessibility plan implemented pursuant to section 596(b) of such Act \[probably means section 596(b) of the National Defense Authorization Act for Fiscal Year 2006, Pub. L. 109–163, set out below\], including a description of the steps taken during that year to ensure that trained personnel, appropriate supplies, and transportation resources are accessible to deployed units in order to provide an appropriate and timely response in any case of reported sexual assault in a deployed unit, location, or environment.
+
+“(c)
+
+Consistent Definition of Substantiated.—Not later than December 31, 2011, the Secretary of Defense shall establish a consistent definition of ‘substantiated’ for purposes of paragraphs (1), (2), (3), and (5) of subsection (b) and provide synopses for those cases for the preparation of reports under this section.
+
+“(d)
+
+Submission to Congress.—Not later than April 30 of each year in which the Secretary of Defense receives reports under subsection (a), the Secretary of Defense shall forward the reports to the Committees on Armed Services of the Senate and House of Representatives, together with—
+
+&emsp;“(1) the results of assessments conducted under the evaluation plan required by section 1602(c); and
+
+&emsp;“(2) such assessments on the reports as the Secretary of Defense considers appropriate.
+
+“(e)
+
+Repeal of Superseded Reporting Requirement.—
+
+&emsp;“(1) \[Amended section 577 of Pub. L. 108–375, set out below.\]
+
+&emsp;“(2)
+
+Submission of 2010 report.—The reports required by subsection (f) of section 577 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 10 U.S.C. 113 note) \[now set out below\] covering calendar year 2010 are still required to be submitted to the Secretary of Defense and the Committees on Armed Services of the Senate and House of Representatives pursuant to the terms of such subsection, as in effect before the date of the enactment of this Act \[Jan. 7, 2011\].
+
+#### “SEC. 1632. ADDITIONAL REPORTS.
+
+“(a)
+
+Extension of Sexual Assault Prevention and Response Services to Additional Persons.—The Secretary of Defense shall evaluate the feasibility of extending department sexual assault prevention and response services to Department of Defense civilian employees and employees of defense contractors who—
+
+&emsp;“(1) are victims of a sexual assault; and
+
+&emsp;“(2) work on or in the vicinity of a military installation or with members of the Armed Forces.
+
+“(b)
+
+Extension of Sexual Assault Prevention and Response Program to Reserve Components.—The Secretary of Defense shall evaluate the application of the sexual assault prevention and response program to members of the reserve components, including, at a minimum, the following:
+
+&emsp;“(1) The ability of members of the reserve components to access the services available under the sexual assault prevention and response program, including policies and programs of a specific military department or Armed Force.
+
+&emsp;“(2) The quality of training provided to Sexual Assault Response Coordinators and Sexual Assault Victim Advocates in the reserve components.
+
+&emsp;“(3) The degree to which the services available for regular and reserve members under the sexual assault prevention and response program are integrated.
+
+&emsp;“(4) Such recommendations as the Secretary of Defense considers appropriate on how to improve the services available for reserve members under the sexual assault prevention and response program and their access to the services.
+
+“(c)
+
+Copy of Record of Court-martial to Victim of Sexual Assault.—The Secretary of Defense shall evaluate the feasibility of requiring that a copy of the prepared record of the proceedings of a general or special court-martial involving a sexual assault be given to the victim in cases in which the victim testified during the proceedings.
+
+“(d)
+
+Access to Legal Assistance.—The Secretary of Defense shall evaluate the feasibility of authorizing members of the Armed Forces who are victims of a sexual assault and dependents of members who are victims of a sexual assault to receive legal assistance provided by a military legal assistance counsel certified as competent to provide legal assistance related to responding to sexual assault.
+
+“(e)
+
+Use of Forensic Medical Examiners.—The Secretary of Defense shall evaluate the feasibility of utilizing, when sexual assaults involving members of the Armed Forces occur in a military environment where civilian resources are limited or unavailable, forensic medical examiners who are specially trained regarding the collection and preservation of evidence in cases involving sexual assault.
+
+“(f)
+
+Submission of Results.—The Secretary of Defense shall submit the results of the evaluations required by this section to the Committees on Armed Services of the Senate and House of Representatives.”
+
+#### Defense Incident-Based Reporting System and Defense Sexual Assault Incident Database
+
+Pub. L. 111–84, div. A, title V, §598, Oct. 28, 2009, 123 Stat. 2345, provided that: “Not later than 120 days after the date of the enactment of this Act \[Oct. 28, 2009\], and every six months thereafter, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report detailing the progress of the Secretary with respect to the completion of the following:
+
+&emsp;“(1) The Defense Incident-Based Reporting System.
+
+&emsp;“(2) The Defense Sexual Assault Incident Database.”
+
+Pub. L. 110–417, \[div. A\], title V, §563(a)–(d), Oct. 14, 2008, 122 Stat. 4470, 4471, provided that:
+
+“(a)
+
+Database Required.—The Secretary of Defense shall implement a centralized, case-level database for the collection, in a manner consistent with Department of Defense regulations for restricted reporting, and maintenance of information regarding sexual assaults involving a member of the Armed Forces, including information, if available, about the nature of the assault, the victim, the offender, and the outcome of any legal proceedings in connection with the assault.
+
+“(b)
+
+Availability of Database.—The database required by subsection (a) shall be available to personnel of the Sexual Assault Prevention and Response Office of the Department of Defense.
+
+“(c)
+
+Implementation.—
+
+&emsp;“(1)
+
+Plan for implementation.—Not later than 90 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan to provide for the implementation of the database required by subsection (a).
+
+&emsp;“(2)
+
+Relation to defense incident-based reporting system.—Not later than 180 days after the date of enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing—
+
+&emsp;&emsp;“(A) a description of the current status of the Defense Incident-Based Reporting System; and
+
+&emsp;&emsp;“(B) an explanation of how the Defense Incident-Based Reporting System will relate to the database required by subsection (a).
+
+&emsp;“(3)
+
+Completion.—Not later than 15 months after the date of enactment of this Act, the Secretary shall complete implementation of the database required by subsection (a).
+
+“(d)
+
+Reports.—The database required by subsection (a) shall be used to develop and implement congressional reports, as required by—
+
+&emsp;“(1) section 577(f) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375) \[set out below\];
+
+&emsp;“(2) section 596(c) of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163) \[amending Pub. L. 108–375, §577, set out below\];
+
+&emsp;“(3) section 532 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364) \[enacting sections 4361, 6980, and 9361 of this title and provisions set out as a note under section 4361 of this title and repealing provisions set out as a note under section 4331 of this title\]; and
+
+&emsp;“(4) sections 4361, 6980, and 9361 of title 10, United States Code.”
+
+#### Improvement to Department of Defense Capacity To Respond to Sexual Assault Affecting Members of the Armed Forces
+
+Pub. L. 109–163, div. A, title V, §596(a), (b), Jan. 6, 2006, 119 Stat. 3282, provided that:
+
+“(a)
+
+Plan for System to Track Cases in Which Care or Prosecution Hindered by Lack of Availability.—
+
+&emsp;“(1)
+
+Plan required.—The Secretary of Defense shall develop and implement a system to track cases under the jurisdiction of the Department of Defense in which care to a victim of rape or sexual assault, or the investigation or prosecution of an alleged perpetrator of rape or sexual assault, is hindered by the lack of availability of a rape kit or other needed supplies or by the lack of timely access to appropriate laboratory testing resources.
+
+&emsp;“(2)
+
+Submittal to congressional committees.—The Secretary shall submit the plan developed under paragraph (1) to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives not later than 120 days after the date of the enactment of this Act \[Jan. 6, 2006\].
+
+“(b)
+
+Accessibility Plan for Deployed Units.—
+
+&emsp;“(1)
+
+Plan required.—The Secretary of Defense shall develop and implement a plan for ensuring accessibility and availability of supplies, trained personnel, and transportation resources for responding to sexual assaults occurring in deployed units. The plan shall include the following:
+
+&emsp;&emsp;“(A) A plan for the training of personnel who are considered to be ‘first responders’ to sexual assaults (including criminal investigators, medical personnel responsible for rape kit evidence collection, and victims advocates), such training to include current techniques on the processing of evidence, including rape kits, and on conducting investigations.
+
+&emsp;&emsp;“(B) A plan for ensuring the availability at military hospitals of supplies needed for the treatment of victims of sexual assault who present at a military hospital, including rape kits, equipment for processing rape kits, and supplies for testing and treatment for sexually transmitted infections and diseases, including HIV, and for testing for pregnancy.
+
+&emsp;“(2)
+
+Submittal to congressional committees.—The Secretary shall submit the plan developed under paragraph (1) to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives not later than 120 days after the date of the enactment of this Act \[Jan. 6, 2006\].”
+
+#### Department of Defense Policy and Procedures on Prevention and Response to Sexual Assaults Involving Members of the Armed Forces
+
+Pub. L. 111–84, div. A, title V, §567(c), Oct. 28, 2009, 123 Stat. 2314, provided that:
+
+“(1)
+
+Requirement for data collection.—
+
+&emsp;“(A)
+
+In general.—Pursuant to regulations prescribed by the Secretary of Defense, information shall be collected on—
+
+&emsp;&emsp;“(i) whether a military protective order was issued that involved either the victim or alleged perpetrator of a sexual assault; and
+
+&emsp;&emsp;“(ii) whether military protective orders involving members of the Armed Forces were violated in the course of substantiated incidents of sexual assaults against members of the Armed Forces.
+
+&emsp;“(B)
+
+Submission of data.—The data required to be collected under this subsection shall be included in the annual report submitted to Congress on sexual assaults involving members of the Armed Forces.
+
+“(2)
+
+Information to members.—Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report explaining the measures being taken to ensure that, when a military protective order has been issued, the member of the Armed Forces who is protected by the order is informed, in a timely manner, of the member's option to request transfer from the command to which the member is assigned.”
+
+Pub. L. 108–375, div. A, title V, §577, Oct. 28, 2004, 118 Stat. 1926, as amended by Pub. L. 109–163, div. A, title V, §596(c), Jan. 6, 2006, 119 Stat. 3283; Pub. L. 109–364, div. A, title V, §583, Oct. 17, 2006, 120 Stat. 2230; Pub. L. 110–417, \[div. A\], title V, §563(e), Oct. 14, 2008, 122 Stat. 4471; Pub. L. 111–383, div. A, title X, §1075(i)(1), title XVI, §1631(e)(1), Jan. 7, 2011, 124 Stat. 4377, 4435, provided that:
+
+“(a)
+
+Comprehensive Policy on Prevention and Response to Sexual Assaults.—(1) Not later than January 1, 2005, the Secretary of Defense shall develop a comprehensive policy for the Department of Defense on the prevention of and response to sexual assaults involving members of the Armed Forces.
+
+“(2) The policy shall be based on the recommendations of the Department of Defense Task Force on Care for Victims of Sexual Assaults and on such other matters as the Secretary considers appropriate.
+
+“(3) Before developing the comprehensive policy required by paragraph (1), the Secretary of Defense shall develop a definition of sexual assault. The definition so developed shall be used in the comprehensive policy under paragraph (1) and otherwise within the Department of Defense and Coast Guard in matters involving members of the Armed Forces. The definition shall be uniform for all the Armed Forces and shall be developed in consultation with the Secretaries of the military departments and the Secretary of Homeland Security with respect to the Coast Guard.
+
+“(b)
+
+Elements of Comprehensive Policy.—The comprehensive policy developed under subsection (a) shall, at a minimum, address the following matters:
+
+&emsp;“(1) Prevention measures.
+
+&emsp;“(2) Education and training on prevention and response.
+
+&emsp;“(3) Investigation of complaints by command and law enforcement personnel.
+
+&emsp;“(4) Medical treatment of victims.
+
+&emsp;“(5) Confidential reporting of incidents.
+
+&emsp;“(6) Victim advocacy and intervention.
+
+&emsp;“(7) Oversight by commanders of administrative and disciplinary actions in response to substantiated incidents of sexual assault.
+
+&emsp;“(8) Disposition of victims of sexual assault, including review by appropriate authority of administrative separation actions involving victims of sexual assault.
+
+&emsp;“(9) Disposition of members of the Armed Forces accused of sexual assault.
+
+&emsp;“(10) Liaison and collaboration with civilian agencies on the provision of services to victims of sexual assault.
+
+&emsp;“(11) Uniform collection of data on the incidence of sexual assaults and on disciplinary actions taken in substantiated cases of sexual assault.
+
+&emsp;“(12) Implementation of clear, consistent, and streamlined sexual assault terminology for use throughout the Department of Defense.
+
+“(c)
+
+Report on Improvement of Capability To Respond to Sexual Assaults.—Not later than March 1, 2005, the Secretary of Defense shall submit to Congress a proposal for such legislation as the Secretary considers necessary to enhance the capability of the Department of Defense to address matters relating to sexual assaults involving members of the Armed Forces.
+
+“(d)
+
+Application of Comprehensive Policy To Military Departments.—The Secretary of Defense shallensure that, to the maximum extent practicable, the policy developed under subsection (a) is implemented uniformly by the military departments.
+
+“(e)
+
+Policies and Procedures of Military Departments.—(1) Not later than March 1, 2005, the Secretaries of the military departments shall prescribe regulations, or modify current regulations, on the policies and procedures of the military departments on the prevention of and response to sexual assaults involving members of the Armed Forces in order—
+
+&emsp;“(A) to conform such policies and procedures to the policy developed under subsection (a); and
+
+&emsp;“(B) to ensure that such policies and procedures include the elements specified in paragraph (2).
+
+“(2) The elements specified in this paragraph are as follows:
+
+&emsp;“(A) A program to promote awareness of the incidence of sexual assaults involving members of the Armed Forces.
+
+&emsp;“(B) A program to provide victim advocacy and intervention for members of the Armed Force concerned who are victims of sexual assault, which program shall make available, at home stations and in deployed locations, trained advocates who are readily available to intervene on behalf of such victims.
+
+&emsp;“(C) Procedures for members of the Armed Force concerned to follow in the case of an incident of sexual assault involving a member of such Armed Force, including—
+
+&emsp;&emsp;“(i) specification of the person or persons to whom the alleged offense should be reported;
+
+&emsp;&emsp;“(ii) specification of any other person whom the victim should contact;
+
+&emsp;&emsp;“(iii) procedures for the preservation of evidence; and
+
+&emsp;&emsp;“(iv) procedures for confidential reporting and for contacting victim advocates.
+
+&emsp;“(D) Procedures for disciplinary action in cases of sexual assault by members of the Armed Force concerned.
+
+&emsp;“(E) Other sanctions authorized to be imposed in substantiated cases of sexual assault, whether forcible or nonforcible, by members of the Armed Force concerned.
+
+&emsp;“(F) Training on the policies and procedures for all members of the Armed Force concerned, including specific training for members of the Armed Force concerned who process allegations of sexual assault against members of such Armed Force.
+
+&emsp;“(G) Any other matters that the Secretary of Defense considers appropriate.”
+
 #### Reports
 
 Pub. L. 105–85, div. A, title V, §591(b), Nov. 18, 1997, 111 Stat. 1762, required each officer receiving a complaint forwarded in accordance with subsec. (b) of this section during 1997 and 1998 to submit to the Secretary of the military department concerned a report on all such complaints and the investigations of such complaints not later than Jan. 1 of each of 1998 and 1999, required each Secretary receiving a report for a year to submit to the Secretary of Defense a report on all reports received not later than Mar. 1 of each of 1998 and 1999, and required the Secretary of Defense to transmit to Congress all reports received for the year together with the Secretary's assessment of each report not later than Apr. 1 following receipt of a report for a year.
+
+#### Department of Defense Policies and Procedures on Discrimination and Sexual Harassment
+
+Pub. L. 103–337, div. A, title V, §532, Oct. 5, 1994, 108 Stat. 2759, provided that:
+
+“(a)
+
+Report of Task Force.—(1) The Department of Defense Task Force on Discrimination and Sexual Harassment, constituted by the Secretary of Defense on March 15, 1994, shall transmit a report of its findings and recommendations to the Secretary of Defense not later than October 1, 1994.
+
+“(2) The Secretary shall transmit to Congress the report of the task force not later than October 10, 1994.
+
+“(b)
+
+Secretarial Review.—Not later than 45 days after receiving the report under subsection (a), the Secretary shall—
+
+&emsp;“(1) review the recommendations for action contained in the report;
+
+&emsp;“(2) determine which recommendations the Secretary approves for implementation and which recommendations the Secretary disapproves; and
+
+&emsp;“(3) submit to Congress a report that—
+
+&emsp;&emsp;“(A) identifies the approved recommendations and the disapproved recommendations; and
+
+&emsp;&emsp;“(B) explains the reasons for each such approval and disapproval.
+
+“(c)
+
+Comprehensive DOD Policy.—(1) Based on the approved recommendations of the task force and such other factors as the Secretary considers appropriate, the Secretary shall develop a comprehensive Department of Defense policy for processing complaints of sexual harassment and discrimination involving members of the Armed Forces under the jurisdiction of the Secretary.
+
+“(2) The Secretary shall issue policy guidance for the implementation of the comprehensive policy and shall require the Secretaries of the military departments to prescribe regulations to implement that policy not later than March 1, 1995.
+
+“(3) The Secretary shall ensure that the policy is implemented uniformly by the military departments insofar as practicable.
+
+“(4) Not later than March 31, 1995, the Secretary of Defense shall submit to Congress a proposal for any legislation necessary to enhance the capability of the Department of Defense to address the issues of unlawful discrimination and sexual harassment.
+
+“(d)
+
+Military Department Policies.—(1) The Secretary of the Navy and the Secretary of the Air Force shall review and revise the regulations of the Department of the Navy and the Department of the Air Force, respectively, relating to equal opportunity policy and procedures in that Department for the making of, and responding to, complaints of unlawful discrimination and sexual harassment in order to ensure that those regulations are substantially equivalent to the regulations of the Department of the Army on such matters.
+
+“(2) In revising regulations pursuant to paragraph (1), the Secretary of the Navy and the Secretary of the Air Force may make such additions and modifications as the Secretary of Defense determines appropriate to strengthen those regulations beyond the substantial equivalent of the Army regulations in accordance with—
+
+&emsp;“(A) the approved recommendations of the Department of Defense Task Force on Discrimination and Sexual Harassment; and
+
+&emsp;“(B) the experience of the Army, Navy, Air Force, and Marine Corps regarding equal opportunity cases.
+
+“(3) The Secretary of the Army shall review the regulations of the Department of the Army relating to equal opportunity policy and complaint procedures and revise the regulations as the Secretary of Defense considers appropriate to strengthen the regulations in accordance with the recommendations and experience described in subparagraphs (A) and (B) of paragraph (2).
+
+“(e)
+
+Report of Advisory Board.—(1) The Secretary of Defense shall direct the Advisory Board on the Investigative Capability of the Department of Defense, established by the Secretary of Defense in November 1993, to include in its report to the Secretary (scheduled to be transmitted to the Secretary during December 1994)—
+
+&emsp;“(A) the recommendations of the Advisory Board as to whether the current Department of Defense organizational structure is adequate to oversee all investigative matters related to unlawful discrimination, sexual harassment, and other misconduct related to the gender of the victim; and
+
+&emsp;“(B) recommendations as to whether additional data collection and reporting procedures are needed to enhance the ability of the Department of Defense to respond to unlawful discrimination, sexual harassment, and other misconduct related to the gender of the victim.
+
+“(2) The Secretary shall transmit to Congress the report of the Advisory Board not later than 15 days after receiving the report.
+
+“(f)
+
+Performance Evaluation Standards for Members of the Armed Forces.—The Secretary of Defense shall ensure that Department of Defense regulations governing consideration of equal opportunity matters in evaluations of the performance of members of the Armed Forces include provisions requiring as a factor in such evaluations consideration of a member's commitment to elimination of unlawful discrimination or of sexual harassment in the Armed Forces.”
 

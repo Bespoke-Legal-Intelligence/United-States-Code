@@ -6,7 +6,7 @@ The Attorney General shall make a payment to each State which is eligible under 
 
 #### (b) Authorization of appropriations
 
-Notwithstanding any other provision of this part, there are authorized to be appropriated tocarry out this section from amounts authorized under section 13708 of this title, an amount which when added to amounts appropriated to carry out section 1252(j) <sup>1</sup> of title 8 for fiscal year 1996 equals $500,000,000 and for each of the fiscal years 1997 through 2000 does not exceed $650,000,000.
+Notwithstanding any other provision of this part, there are authorized to be appropriated to carry out this section from amounts authorized under section 13708 of this title, an amount which when added to amounts appropriated to carry out section 1252(j) <sup>1</sup> of title 8 for fiscal year 1996 equals $500,000,000 and for each of the fiscal years 1997 through 2000 does not exceed $650,000,000.
 
 #### (c) Administration
 

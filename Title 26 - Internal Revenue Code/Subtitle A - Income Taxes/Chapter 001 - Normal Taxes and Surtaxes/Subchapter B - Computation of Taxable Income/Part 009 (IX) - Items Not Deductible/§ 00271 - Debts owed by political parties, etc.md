@@ -36,7 +36,7 @@ In the case of a taxpayer who uses an accrual method of accounting, subsection (
 
 #### Amendments
 
-1976—Subsec. (c). Pub. L. 94–455 added subsec. (c).
+<b>1976</b>—Subsec. (c). Pub. L. 94–455 added subsec. (c).
 
 #### Effective Date of 1976 Amendment
 

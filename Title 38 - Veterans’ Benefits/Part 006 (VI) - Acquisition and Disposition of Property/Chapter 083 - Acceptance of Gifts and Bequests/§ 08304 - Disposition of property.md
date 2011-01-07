@@ -6,9 +6,9 @@ If the Secretary receives any property other than moneys as contemplated by this
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 5104 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5104 of this title as this section.
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Secretary's” for “Administrator's” wherever appearing.
 
-1986—Pub. L. 99–576 substituted “the Administrator” for “he” in two places, and “the Administrator's” for “his” in two places.
+<b>1986</b>—Pub. L. 99–576 substituted “the Administrator” for “he” in two places, and “the Administrator's” for “his” in two places.
 

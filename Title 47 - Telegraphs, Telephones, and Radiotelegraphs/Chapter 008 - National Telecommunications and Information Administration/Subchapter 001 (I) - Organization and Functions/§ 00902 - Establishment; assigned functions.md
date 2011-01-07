@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(iv) make recommendations to the President and others as appropriate, with respect to steps necessary to ensure the availability and appropriate utilization of the communications satellite system for general governmental purposes in consonance with section 201(a)(6) of the Communications Satellite Act of 1962 (47 U.S.C. 721(a)(6)); <sup>1</sup>
 
-&emsp;&emsp;&emsp;(v) help attain coordinated and efficient use of the electromagnetic spectrum andthe technical compatibility of the communications satellite system with existing communications facilities both in the United States and abroad;
+&emsp;&emsp;&emsp;(v) help attain coordinated and efficient use of the electromagnetic spectrum and the technical compatibility of the communications satellite system with existing communications facilities both in the United States and abroad;
 
 &emsp;&emsp;&emsp;(vi) assist in the preparation of Presidential action documents for consideration by the President as may be appropriate under section 201(a) of the Communications Satellite Act of 1962 (47 U.S.C. 721(a)), make necessary recommendations to the President in connection therewith, and keep the President informed with respect to the carrying out of the Communications Satellite Act of 1962 \[47 U.S.C. 701 et seq.\]; and
 
@@ -114,7 +114,7 @@ Executive Order 11556, referred to in subsec. (b)(2)(S), which was formerly set 
 
 #### Amendments
 
-2002—Subsec. (b)(3)(C). Pub. L. 107–317 added subpar. (C).
+<b>2002</b>—Subsec. (b)(3)(C). Pub. L. 107–317 added subpar. (C).
 
 #### Pilot Program for Digital and Wireless Networks for Online Educational Programs of Study
 

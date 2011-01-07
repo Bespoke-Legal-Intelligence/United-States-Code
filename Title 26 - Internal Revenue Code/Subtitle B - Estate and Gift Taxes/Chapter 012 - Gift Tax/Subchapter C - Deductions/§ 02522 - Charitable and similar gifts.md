@@ -6,7 +6,7 @@ In computing taxable gifts for the calendar year, there shall be allowed as a de
 
 &emsp;(1) the United States, any State, or any political subdivision thereof, or the District of Columbia, for exclusively public purposes;
 
-&emsp;(2) a corporation, or trust, or community chest, fund, or foundation, organized and operated exclusively for religious, charitable, scientific, literary, or educational purposes, or to foster national or international amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment), including the encouragement of art and the prevention of cruelty to children or animals, no part of the net earnings of which inures to the benefit of any private shareholder or individual, which is not disqualified for tax exemption under section501(c)(3) by reason of attempting to influence legislation, and which does not participate in, or intervene in (including the publishing or distributing of statements), any political campaign on behalf of (or in opposition to) any candidate for public office;
+&emsp;(2) a corporation, or trust, or community chest, fund, or foundation, organized and operated exclusively for religious, charitable, scientific, literary, or educational purposes, or to foster national or international amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment), including the encouragement of art and the prevention of cruelty to children or animals, no part of the net earnings of which inures to the benefit of any private shareholder or individual, which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation, and which does not participate in, or intervene in (including the publishing or distributing of statements), any political campaign on behalf of (or in opposition to) any candidate for public office;
 
 &emsp;(3) a fraternal society, order, or association, operating under the lodge system, but only if such gifts are to be used exclusively for religious, charitable, scientific, literary, or educational purposes, including the encouragement of art and the prevention of cruelty to children or animals;
 
@@ -60,7 +60,7 @@ In the case of a nonresident not a citizen of the United States, there shall be 
 
 &emsp;&emsp;&emsp;(ii) a type III supporting organization (as defined in section 4943(f)(5)(A)) which is not a functionally integrated type III supporting organization (as defined in section 4943(f)(5)(B)), and
 
-&emsp;&emsp;(B) the taxpayer obtains a contemporaneous written acknowledgment (determinedunder rules similar to the rules of section 170(f)(8)(C)) from the sponsoring organization (as so defined) of such donor advised fund that such organization has exclusive legal control over the assets contributed.
+&emsp;&emsp;(B) the taxpayer obtains a contemporaneous written acknowledgment (determined under rules similar to the rules of section 170(f)(8)(C)) from the sponsoring organization (as so defined) of such donor advised fund that such organization has exclusive legal control over the assets contributed.
 
 #### (d) Special rule for irrevocable transfers of easements in real property
 
@@ -124,7 +124,7 @@ Sections 1218(c) and 1234(c) of Pub. L. 109–280, which directed the amendment 
 
 #### Amendments
 
-2007—Subsec. (e)(1)(A). Pub. L. 110–172, §11(a)(16)(A), in introductory provisions, substituted “all interests in the property are” for “all interest in the property is”.
+<b>2007</b>—Subsec. (e)(1)(A). Pub. L. 110–172, §11(a)(16)(A), in introductory provisions, substituted “all interests in the property are” for “all interest in the property is”.
 
 Subsec. (e)(2). Pub. L. 110–172, §3(d)(2)(A), (B), redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “In the case of any additional contribution, the fair market value of such contribution shall be determined by using the lesser of—
 
@@ -148,29 +148,29 @@ Additional contribution.—The term ‘additional contribution’ means any gift
 
 Initial fractional contribution.—The term ‘initial fractional contribution’ means, with respect to any donor, the first gift of an undivided portion of the donor's entire interest in any tangible personal property for which a deduction is allowed under subsection (a) or (b).”
 
-2006—Subsec. (c)(5). Pub. L. 109–280, §1234(c), added par. (5). See Codification note above.
+<b>2006</b>—Subsec. (c)(5). Pub. L. 109–280, §1234(c), added par. (5). See Codification note above.
 
 Subsecs. (e), (f). Pub. L. 109–280, §1218(c), added subsec. (e) and redesignated former subsec. (e) as (f). See Codification note above.
 
-1987—Subsecs. (a)(2), (b)(2), (3). Pub. L. 100–203 inserted “(or in opposition to)” after “on behalf of”.
+<b>1987</b>—Subsecs. (a)(2), (b)(2), (3). Pub. L. 100–203 inserted “(or in opposition to)” after “on behalf of”.
 
-1986—Subsecs. (d), (e). Pub. L. 99–514 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1986</b>—Subsecs. (d), (e). Pub. L. 99–514 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1984—Subsec. (c)(4). Pub. L. 98–369, §1022(c), added par. (4).
+<b>1984</b>—Subsec. (c)(4). Pub. L. 98–369, §1022(c), added par. (4).
 
 Subsec. (d). Pub. L. 98–369, §1032(b)(3), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
-1983—Subsec. (d). Pub. L. 97–473 designated existing provisions as par. (1), substituted “bequests” for “gifts” second time appearing in par. (1) as so designated, and added par. (2).
+<b>1983</b>—Subsec. (d). Pub. L. 97–473 designated existing provisions as par. (1), substituted “bequests” for “gifts” second time appearing in par. (1) as so designated, and added par. (2).
 
-1982—Subsec. (a). Pub. L. 97–248 inserted provision that rules similar to rules of section 501(j) apply for purposes of par. (2).
+<b>1982</b>—Subsec. (a). Pub. L. 97–248 inserted provision that rules similar to rules of section 501(j) apply for purposes of par. (2).
 
-1981—Subsec. (a). Pub. L. 97–34, §442(c), substituted “year” for “quarter” in two places in provision preceding par. (1).
+<b>1981</b>—Subsec. (a). Pub. L. 97–34, §442(c), substituted “year” for “quarter” in two places in provision preceding par. (1).
 
 Subsec. (b). Pub. L. 97–34, §442(c), substituted “year” for “quarter” in provision preceding par. (1).
 
 Subsec. (c)(3). Pub. L. 97–34, §423(b), added par. (3).
 
-1976—Subsec. (a)(1). Pub. L. 94–455, §1902(a)(12)(D), struck out “Territory” after “any State”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–455, §1902(a)(12)(D), struck out “Territory” after “any State”.
 
 Subsec. (a)(2). Pub. L. 94–455, §§1307(d)(1)(B)(iv), 1313(b)(3), substituted “which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation” for “no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation” after “shareholder or individual” and inserted “or to foster national or international amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment)” after “or educational purposes”.
 
@@ -182,13 +182,13 @@ Subsec. (c)(2). Pub. L. 94–455, §2124(e)(3), substituted “(other than an in
 
 Subsec. (d). Pub. L. 94–455, §1902(a)(11), substituted subsec. (d) for former subsec. (d), pars. (1) through (10), which dealt with cross references to specific exemptions and rules of construction for gifts to the United States and its instrumentalities.
 
-1970—Pub. L. 91–614 substituted “quarter” for “year” in three places.
+<b>1970</b>—Pub. L. 91–614 substituted “quarter” for “year” in three places.
 
-1969—Subsecs. (a)(2), (b)(2), (3). Pub. L. 91–172, §201(d)(4)(C), (D), inserted non-participation and non-intervention in political campaigns as an additional qualification.
+<b>1969</b>—Subsecs. (a)(2), (b)(2), (3). Pub. L. 91–172, §201(d)(4)(C), (D), inserted non-participation and non-intervention in political campaigns as an additional qualification.
 
 Subsec. (c). Pub. L. 91–172, §201(d)(3), substituted substantive provisions for simple reference to sections 503 and 681 in which such substantive provisions were formerly set out.
 
-1958—Subsec. (c). Pub. L. 85–866 substituted “503” for “504”.
+<b>1958</b>—Subsec. (c). Pub. L. 85–866 substituted “503” for “504”.
 
 #### Effective Date of 2007 Amendment
 
@@ -202,7 +202,7 @@ Amendment by section 1234(c) of Pub. L. 109–280 applicable to contributions ma
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable with respect to activities after Dec. 22, 1987, see section 10711(c) of Pub. L. 100–203, set out as a note under section 170 of this title.
+Amendment by Pub. L. 100–203 applicable with respect to activities after Dec. 22, 1987, see section10711(c) of Pub. L. 100–203, set out as a note under section 170 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -238,7 +238,7 @@ Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 3
 
 #### Effective Date of 1969 Amendment
 
-Amendment by section 201(d)(3) of Pub. L. 91–172 applicable to gifts made after Dec. 31, 1969, except thatthe amendment of par. (2) of subsec. (c) applicable to gifts made after July 31, 1969, see section 201(g)(4)(D) of Pub. L. 91–172, set out as a note under section 170 of this title.
+Amendment by section 201(d)(3) of Pub. L. 91–172 applicable to gifts made after Dec. 31, 1969, except that the amendment of par. (2) of subsec. (c) applicable to gifts made after July 31, 1969, see section 201(g)(4)(D) of Pub. L. 91–172, set out as a note under section 170 of this title.
 
 Amendment by section 201(d)(4)(C), (D) of Pub. L. 91–172 applicable to gifts and transfers made after Dec. 31, 1969, see section 201(g)(4)(E) of Pub. L. 91–172, set out as a note under section 170 of this title.
 

@@ -24,5 +24,5 @@ Research and Development Program.—If the Administrator of the Federal Aviation
 
 #### Amendments
 
-1996—Subsec. (d). Pub. L. 104–287 substituted “August 23, 1994” for “the date of the enactment of this section”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–287 substituted “August 23, 1994” for “the date of the enactment of this section”.
 

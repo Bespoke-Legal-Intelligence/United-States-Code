@@ -24,11 +24,11 @@ The Congress finds that—
 
 #### Amendments
 
-1994—Par. (2). Pub. L. 103–238, §3(1), inserted “essential habitats, including” after “made to protect”.
+<b>1994</b>—Par. (2). Pub. L. 103–238, §3(1), inserted “essential habitats, including” after “made to protect”.
 
 Par. (5). Pub. L. 103–238, §3(2), inserted “and their habitats” before “is therefore necessary” in concluding provisions.
 
-1981—Par. (6). Pub. L. 97–58 substituted “carrying capacity” for “optimum carrying capacity”.
+<b>1981</b>—Par. (6). Pub. L. 97–58 substituted “carrying capacity” for “optimum carrying capacity”.
 
 #### Effective Date
 
@@ -40,7 +40,7 @@ Pub. L. 109–479, title IX, §901, Jan. 12, 2007, 120 Stat. 3660, provided that
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–555, §1, Dec. 21, 2000, 114 Stat. 2765, provided that: “This Act \[enacting section 1421f–1 of thistitle, amending sections 1362, 1421g, 1421h, 1433, 1434, 5101 to 5103, 5106, 5107a to 5108, and 5156 of this title, enacting provisions set out as notes under this section and sections 917a, 1433, 5101, and 5107 of this title, and amending provisions set out as a note under section 1855 of this title\] may be cited as the ‘Striped Bass Conservation, Atlantic Coastal Fisheries Management, and Marine Mammal Rescue Assistance Act of 2000’.”
+Pub. L. 106–555, §1, Dec. 21, 2000, 114 Stat. 2765, provided that: “This Act \[enacting section 1421f–1 of this title, amending sections 1362, 1421g, 1421h, 1433, 1434, 5101 to 5103, 5106, 5107a to 5108, and 5156 of this title, enacting provisions set out as notes under this section and sections 917a, 1433, 5101, and 5107 of this title, and amending provisions set out as a note under section 1855 of this title\] may be cited as the ‘Striped Bass Conservation, Atlantic Coastal Fisheries Management, and Marine Mammal Rescue Assistance Act of 2000’.”
 
 Pub. L. 106–555, title II, §201, Dec. 21, 2000, 114 Stat. 2767, provided that: “This title \[enacting section 1421f–1 of this title, amending sections 1362, 1421g, 1421h, 1433, and 1434 of this title, enacting provisions set out as notes under sections 917a and 1433 of this title, and amending provisions set out as a note under section 1855 of this title\] may be cited as the ‘Marine Mammal Rescue Assistance Act of 2000’.”
 
@@ -110,7 +110,7 @@ Section 14 of Pub. L. 103–238 provided that: “Nothing in this Act \[see Shor
 
 #### Study on Effects of Dolphin Feeding
 
-Pub. L. 102–567, title III, §306, Oct. 29, 1992, 106 Stat. 4284, directed Secretary of Commerce to conduct a study in the eastern Gulf of Mexico on the effects of feeding of noncaptive dolphins by human beings, such study to be designed to detect any behavior or diet modification resulting from this feeding and to identify the effects, if any, of these modifications on the healthand well-being of the dolphins, directed Secretary to consult with National Academy of Sciences and Marine Mammal Commission in design and conduct of the study, and directed Secretary, within 18 months after Oct. 29, 1992, to submit to Congress a report on results of the study.
+Pub. L. 102–567, title III, §306, Oct. 29, 1992, 106 Stat. 4284, directed Secretary of Commerce to conduct a study in the eastern Gulf of Mexico on the effects of feeding of noncaptive dolphins by human beings, such study to be designed to detect any behavior or diet modification resulting from this feeding and to identify the effects, if any, of these modifications on the health and well-being of the dolphins, directed Secretary to consult with National Academy of Sciences and Marine Mammal Commission in design and conduct of the study, and directed Secretary, within 18 months after Oct. 29, 1992, to submit to Congress a report on results of the study.
 
 #### Study on Mortality of Atlantic Dolphin
 

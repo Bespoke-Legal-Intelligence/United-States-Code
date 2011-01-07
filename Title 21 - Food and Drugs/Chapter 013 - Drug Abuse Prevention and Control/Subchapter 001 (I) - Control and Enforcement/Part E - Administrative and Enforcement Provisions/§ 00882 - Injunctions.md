@@ -66,11 +66,11 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–425 added subsec. (c).
+<b>2008</b>—Subsec. (c). Pub. L. 110–425 added subsec. (c).
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–425 effective 180 days after Oct. 15, 2008, except as otherwise provided, see section3(j) of Pub. L. 110–425, set out as a note under section 802 of this title.
+Amendment by Pub. L. 110–425 effective 180 days after Oct. 15, 2008, except as otherwise provided, see section 3(j) of Pub. L. 110–425, set out as a note under section 802 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Rules”.</i>
 

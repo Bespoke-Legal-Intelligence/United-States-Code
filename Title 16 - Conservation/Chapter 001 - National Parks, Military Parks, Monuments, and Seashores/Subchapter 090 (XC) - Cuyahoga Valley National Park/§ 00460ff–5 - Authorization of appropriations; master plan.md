@@ -6,7 +6,7 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 #### (b) Development of plan; consultation with State; transmittal to Congressional committees; contents
 
-For the development of the park, including improvements of properties acquired for purposes of this subchapter, there is authorized to be appropriated not more than $13,000,000. Within one year from the date of establishment ofthe park pursuant to this subchapter, the Secretary shall, after consulting with the Governor of the State of Ohio, develop and transmit to the Committees on Interior and Insular Affairs of the United States Congress a final master plan for the development of the park consistent with the objectives of this subchapter, indicating:
+For the development of the park, including improvements of properties acquired for purposes of this subchapter, there is authorized to be appropriated not more than $13,000,000. Within one year from the date of establishment of the park pursuant to this subchapter, the Secretary shall, after consulting with the Governor of the State of Ohio, develop and transmit to the Committees on Interior and Insular Affairs of the United States Congress a final master plan for the development of the park consistent with the objectives of this subchapter, indicating:
 
 &emsp;(1) the facilities needed to accommodate the health, safety, and recreation needs of the visiting public;
 
@@ -18,7 +18,7 @@ For the development of the park, including improvements of properties acquired f
 
 There are hereby authorized to be appropriated not more than $500,000 for fiscal year 1986, $1,000,000 for fiscal year 1987, $1,500,000 for fiscal year 1988, and $1,750,000 for fiscal year 1989, to carry out the provisions of section 460ff–3(c)(2) of this title. Any amounts authorized to be appropriated for any fiscal year under this subsection which are not appropriated for that fiscal year shall remain available for appropriation in succeeding fiscal years.
 
-(Pub. L. 93–555, §5, formerly §6, Dec. 27, 1974, 88 Stat. 1788; Pub. L. 94–578, title III, §323(b), Oct. 21, 1976, 90 Stat. 2742; Pub. L. 95–625, title III, §315(b), (c), Nov. 10, 1978, 92 Stat. 3483; Pub. L. 99–658, title I, §104(j)(2), Nov. 14, 1986, 100 Stat. 3678; renumbered §5 and amended Pub. L. 106–291, title I, §149(c)(2), (d), Oct. 11, 2000, 114 Stat. 956.)
+(Pub. L. 93–555, §5, formerly §6, Dec. 27, 1974, 88 Stat. 1788; Pub. L. 94–578, title III, §323(b), Oct. 21, 1976, 90 Stat. 2742; Pub. L. 95–625, title III,§315(b), (c), Nov. 10, 1978, 92 Stat. 3483; Pub. L. 99–658, title I, §104(j)(2), Nov. 14, 1986, 100 Stat. 3678; renumbered §5 and amended Pub. L. 106–291, title I, §149(c)(2), (d), Oct. 11, 2000, 114 Stat. 956.)
 
 #### Prior Provisions
 
@@ -26,15 +26,15 @@ A prior section 5 of Pub. L. 93–555 was classified to section 460ff–4 of thi
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–291, §149(c)(2), substituted “park” for “recreation area” wherever appearing in introductory provisions.
+<b>2000</b>—Subsec. (b). Pub. L. 106–291, §149(c)(2), substituted “park” for “recreation area” wherever appearing in introductory provisions.
 
-1986—Subsec. (c). Pub. L. 99–658 added subsec. (c).
+<b>1986</b>—Subsec. (c). Pub. L. 99–658 added subsec. (c).
 
-1978—Subsec. (a). Pub. L. 95–625, §315(b), increased appropriations authorization to $70,100,000 from $41,100,000.
+<b>1978</b>—Subsec. (a). Pub. L. 95–625, §315(b), increased appropriations authorization to $70,100,000 from $41,100,000.
 
 Subsec. (b). Pub. L. 95–625, §315(c), substituted “For the development of the recreation area, including improvements of properties acquired for purposes of this subchapter, there is authorized to be appropriated not more than $13,000,000” for “For the development of essential public facilities there are authorized to be appropriated not more than $500,000”.
 
-1976—Subsec. (a). Pub. L. 94–578 substituted “$41,100,000” for “$34,500,000”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–578 substituted “$41,100,000” for “$34,500,000”.
 
 #### Change of Name
 

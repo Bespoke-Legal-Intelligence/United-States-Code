@@ -118,7 +118,7 @@ Section 101(d)(1)(B), (D), (e)(1), and (f)(1) of the National Science Foundation
 
 #### Amendments
 
-2004—Subsec. (a)(8). Pub. L. 108–360, §104(a)(1), added par. (8).
+<b>2004</b>—Subsec. (a)(8). Pub. L. 108–360, §104(a)(1), added par. (8).
 
 Subsec. (b). Pub. L. 108–360, §104(a)(2)–(5), designated existing provisions as par. (1) and substituted “paragraph” for “subsection” in last sentence, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, and added par. (2).
 
@@ -126,7 +126,7 @@ Subsec. (c). Pub. L. 108–360, §104(a)(6), (7), designated existing provisions
 
 Subsec. (d). Pub. L. 108–360, §104(a)(8), (9), designated existing provisions as par. (1) and added par. (2).
 
-2000—Subsec. (a)(7). Pub. L. 106–503, §202(a), struck out “and” after “1998,” and substituted “1999; $19,861,000 for the fiscal year ending September 30, 2001, of which $450,000 is for National Earthquake Hazard Reduction Program-eligible efforts of an established multi-state consortium to reduce the unacceptable threat of earthquake damages in the New Madrid seismic region through efforts to enhance preparedness, response, recovery, and mitigation; $20,705,000 for the fiscal year ending September 30, 2002; and $21,585,000 for the fiscal year ending September 30, 2003.” for “1999.”
+<b>2000</b>—Subsec. (a)(7). Pub. L. 106–503, §202(a), struck out “and” after “1998,” and substituted “1999; $19,861,000 for the fiscal year ending September 30, 2001, of which $450,000 is for National Earthquake Hazard Reduction Program-eligible efforts of an established multi-state consortium to reduce the unacceptable threat of earthquake damages in the New Madrid seismic region through efforts to enhance preparedness, response, recovery, and mitigation; $20,705,000 for the fiscal year ending September 30, 2002; and $21,585,000 for the fiscal year ending September 30, 2003.” for “1999.”
 
 Subsec. (b). Pub. L. 106–503, §202(b)(1), in introductory provisions, inserted after “operated by the Agency.” “There are authorized to be appropriated to the Secretary of the Interior for purposes of carrying out, through the Director of the United States Geological Survey, the responsibilities that may be assigned to the Director under this chapter $48,360,000 for fiscal year 2001, of which $3,500,000 is for the Global Seismic Network and $100,000 is for the Scientific Earthquake Studies Advisory Committee established under section 7709 of this title; $50,415,000 for fiscal year 2002, of which $3,600,000 is for the Global Seismic Network and $100,000 is for the Scientific Earthquake Studies Advisory Committee; and $52,558,000 for fiscal year 2003, of which $3,700,000 is for the Global Seismic Network and $100,000 is for the Scientific Earthquake Studies Advisory Committee.”
 
@@ -138,7 +138,7 @@ Subsec. (d). Pub. L. 106–503, §202(e), struck out “and” after “1998,”
 
 Subsecs. (e), (f). Pub. L. 106–503, §203, struck out subsecs. (e) and (f), which related, respectively, to funds for certain required adjustments and availability of funds.
 
-1997—Subsec. (a)(7). Pub. L. 105–47, §1(1), struck out “and” after “1995,” and inserted before period at end “, $20,900,000 for the fiscal year ending September 30, 1998, and $21,500,000 for the fiscal year ending September 30, 1999”.
+<b>1997</b>—Subsec. (a)(7). Pub. L. 105–47, §1(1), struck out “and” after “1995,” and inserted before period at end “, $20,900,000 for the fiscal year ending September 30, 1998, and $21,500,000 for the fiscal year ending September 30, 1999”.
 
 Subsec. (b). Pub. L. 105–47, §1(2), substituted “$50,676,000 for the fiscal year ending September 30, 1996; $52,565,000 for the fiscal year ending September 30, 1998, of which $3,800,000 shall be used for the Global Seismic Network operated by the Agency; and $54,052,000 for the fiscal year ending September 30, 1999, of which $3,800,000 shall be used for the Global Seismic Network operated by the Agency. Of the amounts authorized to be appropriated under this subsection, at least—
 
@@ -152,7 +152,7 @@ Subsec. (c). Pub. L. 105–47, §1(3), struck out “and” after “September 3
 
 Subsec. (d). Pub. L. 105–47, §1(4), struck out “and” after “September 30, 1995,” and inserted before period at end “, $2,000,000 for the fiscal year ending September 30, 1998, and $2,060,000 for the fiscal year ending September 30, 1999”.
 
-1994—Subsec. (a)(7). Pub. L. 103–374, §1(1), inserted “of the Agency” after “to the Director”, struck out “and” after “September 30, 1992,”, and inserted before periodat end “, $25,000,000 for the fiscal year ending September 30, 1995, and $25,750,000 for the fiscal year ending September 30, 1996” after “September 30, 1993”.
+<b>1994</b>—Subsec. (a)(7). Pub. L. 103–374, §1(1), inserted “of the Agency” after “to the Director”, struck out “and” after “September 30, 1992,”, and inserted before periodat end “, $25,000,000 for the fiscal year ending September 30, 1995, and $25,750,000 for the fiscal year ending September 30, 1996” after “September 30, 1993”.
 
 Subsec. (b). Pub. L. 103–374, §1(2), struck out “and” after “September 30, 1992;” and inserted before period at end “; $49,200,000 for the fiscal year ending September 30, 1995; and $50,676,000 for the fiscal year ending September 30, 1996”.
 
@@ -160,7 +160,7 @@ Subsec. (c). Pub. L. 103–374, §1(3), inserted at end “There are authorized 
 
 Subsec. (d). Pub. L. 103–374, §1(4), inserted at end “There are authorized to be appropriated, out of funds otherwise authorized to be appropriated to the National Institute of Standards and Technology, $1,900,000 for the fiscal year ending September 30, 1995, and $1,957,000 for the fiscal year ending September 30, 1996.”
 
-1990—Subsec. (a)(7). Pub. L. 101–614, §12(1), substituted “carry out this chapter” for “carry out the provisions of sections 7704 and 7705 of this title”, substituted “$8,798,000” for “and $5,798,000”, and inserted before period at end “, $14,750,000 for the fiscal year ending September 30, 1991, $19,000,000 for the fiscal year ending September 30, 1992, and $22,000,000 for the fiscal year ending September 30, 1993”.
+<b>1990</b>—Subsec. (a)(7). Pub. L. 101–614, §12(1), substituted “carry out this chapter” for “carry out the provisions of sections 7704 and 7705 of this title”, substituted “$8,798,000” for “and $5,798,000”, and inserted before period at end “, $14,750,000 for the fiscal year ending September 30, 1991, $19,000,000 for the fiscal year ending September 30, 1992, and $22,000,000 for the fiscal year ending September 30, 1993”.
 
 Subsec. (b). Pub. L. 101–614, §12(2), substituted “$55,283,000” for “and $43,283,000” and inserted before period at end “, of which $8,000,000 shall be for earthquake investigations under section 7705e of this title; $50,000,000 for the fiscal year ending September 30, 1991; $54,500,000 for the fiscal year ending September 30, 1992; and $62,500,000 for the fiscal year ending September 30, 1993”.
 
@@ -170,7 +170,7 @@ Subsec. (d). Pub. L. 101–614, §12(4), substituted “National Institute of St
 
 Subsec. (f). Pub. L. 101–614, §12(5), added subsec. (f).
 
-1988—Subsec. (a)(2)(G). Pub. L. 100–418 substituted “Institute” for “Bureau”.
+<b>1988</b>—Subsec. (a)(2)(G). Pub. L. 100–418 substituted “Institute” for “Bureau”.
 
 Subsec. (a)(7). Pub. L. 100–252, §1(a), added par. (7).
 
@@ -180,7 +180,7 @@ Subsec. (c). Pub. L. 100–252, §1(c), struck out “and” after “1986;” a
 
 Subsec. (d). Pub. L. 100–252, §1(d), struck out “and” after “1986;” and inserted “; $525,000 for the fiscal year ending September 30, 1988; $525,000 for the fiscal year ending September 30, 1989; and $525,000 for the fiscal year ending September 30, 1990”.
 
-1985—Subsec. (a)(6). Pub. L. 99–105, §1, added par. (6).
+<b>1985</b>—Subsec. (a)(6). Pub. L. 99–105, §1, added par. (6).
 
 Subsec. (b). Pub. L. 99–105, §2, substituted a semicolon for “, and” after “1984” and inserted “$35,578,000 for the fiscal year ending September 30, 1986; and $37,179,000 for the fiscal year ending September 30, 1987”.
 
@@ -188,7 +188,7 @@ Subsec. (c). Pub. L. 99–105, §3, struck out “and” after “1984;” and i
 
 Subsec. (d). Pub. L. 99–105, §4, struck out “and” after “1984;” and inserted “$499,000 for the fiscal year ending September 30, 1986; and $521,000 for the fiscal year ending September 30, 1987”.
 
-1984—Subsec. (a). Pub. L. 98–241, §101(a), added par. (5).
+<b>1984</b>—Subsec. (a). Pub. L. 98–241, §101(a), added par. (5).
 
 Subsec. (b). Pub. L. 98–241, §101(b), struck out “and” after “1982;” and inserted “; $35,524,000 for the fiscal year ending September 30, 1984, and $37,300,200 for the fiscal year ending September 30, 1985”.
 
@@ -198,19 +198,19 @@ Subsec. (d). Pub. L. 98–241, §101(d), struck out “and” after “1982;” 
 
 Subsec. (e). Pub. L. 98–241, §101(e), substituted “1982,” for “1982 and” and inserted “September 30, 1984, and September 30, 1985,”.
 
-1983—Subsec. (a)(4). Pub. L. 97–464, §101(a), added par. (4).
+<b>1983</b>—Subsec. (a)(4). Pub. L. 97–464, §101(a), added par. (4).
 
 Subsecs. (b) to (d). Pub. L. 97–464, §101(b)–(d), inserted authorization for fiscal year ending Sept. 30, 1983.
 
 Subsec. (e). Pub. L. 97–464, §101(e), substituted “each of the fiscal years ending September 30, 1982 and September 30, 1983” for “the fiscal year ending September 30, 1982”.
 
-1981—Subsec. (a)(3). Pub. L. 97–80, §101(a), added par. (3).
+<b>1981</b>—Subsec. (a)(3). Pub. L. 97–80, §101(a), added par. (3).
 
 Subsecs. (b) to (d). Pub. L. 97–80, §101(b)–(d), inserted authorization for fiscal year ending Sept. 30, 1982.
 
 Subsec. (e). Pub. L. 97–80, §101(e), added subsec. (e).
 
-1980—Subsec. (a). Pub. L. 96–472, §103(a), designated existing provisions as par. (1) and added par. (2).
+<b>1980</b>—Subsec. (a). Pub. L. 96–472, §103(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsecs. (b), (c). Pub. L. 96–472, §103(b), (c), inserted authorization for fiscal year ending Sept. 30, 1981.
 

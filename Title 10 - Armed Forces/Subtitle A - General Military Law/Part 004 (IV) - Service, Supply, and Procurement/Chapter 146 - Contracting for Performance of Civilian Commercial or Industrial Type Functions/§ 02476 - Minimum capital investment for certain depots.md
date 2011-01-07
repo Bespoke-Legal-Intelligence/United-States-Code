@@ -20,11 +20,11 @@ Annual Report.—(1) Not later than 45 days after the date on which the Presiden
 
 &emsp;(A) A specification of any statutory, regulatory, or operational impediments to achieving the requirement under subsection (a) with respect to each military department.
 
-&emsp;(B) A description of the benchmarks for capital investment established for each covereddepot and military department and the relationship of the benchmarks to applicable performance measurement methods used in the private sector.
+&emsp;(B) A description of the benchmarks for capital investment established for each covered depot and military department and the relationship of the benchmarks to applicable performance measurement methods used in the private sector.
 
 &emsp;(C) If the requirement under subsection (a) is not met for a military department for the fiscal year covered by the report, a statement of the reasons why the requirement was not met and a plan of actions for meeting the requirement for the fiscal year beginning in the year in which such report is submitted.
 
-&emsp;(D) Separate consideration and reporting of Navy Depots <sup>1</sup> and Marine Corps depots.
+&emsp;(D) Separate consideration and reporting of Navy depots and Marine Corps depots.
 
 (e)
 
@@ -80,11 +80,13 @@ Covered Depot.—In this section, the term “covered depot” means any of the 
 
 &emsp;&emsp;(C) Oklahoma City Air Logistics Center, Oklahoma.
 
-(Added Pub. L. 109–364, div. A, title III, §332(a), Oct. 17, 2006, 120 Stat. 2149; amended Pub. L. 110–417, \[div. A\], title III, §327, Oct. 14, 2008, 122 Stat. 4418.)
+(Added Pub. L. 109–364, div. A, title III, §332(a), Oct. 17, 2006, 120 Stat. 2149; amended Pub. L. 110–417, \[div. A\], title III, §327, Oct. 14, 2008, 122 Stat. 4418; Pub. L. 111–383, div. A, title X, §1075(b)(36), Jan. 7, 2011, 124 Stat. 4371.)
 
 #### Amendments
 
-2008—Subsec. (d)(2)(D). Pub. L. 110–417, §327(b)(1), added subpar. (D).
+<b>2011</b>—Subsec. (d)(2)(D). Pub. L. 111–383 substituted “Navy depots” for “Navy Depots”.
+
+<b>2008</b>—Subsec. (d)(2)(D). Pub. L. 110–417, §327(b)(1), added subpar. (D).
 
 Subsec. (e)(1)(F) to (H). Pub. L. 110–417, §327(a), added subpars. (F) to (H).
 

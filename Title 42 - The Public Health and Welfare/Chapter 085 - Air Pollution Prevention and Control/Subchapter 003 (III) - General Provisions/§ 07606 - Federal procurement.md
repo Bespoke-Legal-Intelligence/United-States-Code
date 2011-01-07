@@ -32,7 +32,7 @@ Another prior section 306 of act July 14, 1955, ch. 360, title III, formerly §1
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–549 substituted “section 7413(c)” for “section 7413(c)(1)” and inserted sentences at end relating to convictions arising under section 7413(c)(2) of this title and extension of prohibition to other facilities owned by convicted persons.
+<b>1990</b>—Subsec. (a). Pub. L. 101–549 substituted “section 7413(c)” for “section 7413(c)(1)” and inserted sentences at end relating to convictions arising under section 7413(c)(2) of this title and extension of prohibition to other facilities owned by convicted persons.
 
 #### Federal Acquisition Regulation: Contractor Certification or Contract Clause for Acquisition of Commercial Items
 

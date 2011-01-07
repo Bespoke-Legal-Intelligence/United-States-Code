@@ -24,7 +24,7 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–555 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery” wherever appearing.
+<b>2000</b>—Subsec. (b). Pub. L. 106–555 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery” wherever appearing.
 
-1996—Subsec. (b)(1)(A). Pub. L. 104–297 substituted “compatible with” for “necessary to support”.
+<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–297 substituted “compatible with” for “necessary to support”.
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) the benefits of economies of scale and the efficiency of proposed projects; and
 
-&emsp;&emsp;(D) the likelihood that the results of the projects will be useful to policymakers andstakeholders in addressing employment and training problems.
+&emsp;&emsp;(D) the likelihood that the results of the projects will be useful to policymakers and stakeholders in addressing employment and training problems.
 
 #### (b) Demonstration and pilot projects
 
@@ -96,7 +96,7 @@
 
 #### (ii) Report
 
-&emsp;&emsp;&emsp;The Secretary shall prepare and submit to Congress a report containing the resultsof the study, including recommendations for improved formulas.
+&emsp;&emsp;&emsp;The Secretary shall prepare and submit to Congress a report containing the results of the study, including recommendations for improved formulas.
 
 #### (3) Multistate projects
 
@@ -190,7 +190,7 @@ Of the amount made available pursuant to section 2862(a)(2)(A) of this title for
 
 &emsp;&emsp;Under the program established under paragraph (1), the Secretary, acting through the Bureau of Labor Statistics, where appropriate, shall collect and analyze labor market data to track workforce trends resulting from energy-related initiatives carried out under this subsection. Activities carried out under this paragraph shall include—
 
-&emsp;&emsp;&emsp;(i) tracking and documentation of academic and occupational competencies as well as future skill needs with respect to renewable energy and energy efficiency technology;
+&emsp;&emsp;&emsp;(i) tracking and documentation of academic and occupational competencies as well as future skill needs with respect torenewable energy and energy efficiency technology;
 
 &emsp;&emsp;&emsp;(ii) tracking and documentation of occupational information and workforce training data with respect to renewable energy and energy efficiency technology;
 
@@ -254,7 +254,7 @@ Of the amount made available pursuant to section 2862(a)(2)(A) of this title for
 
 #### (ii) Partnerships
 
-&emsp;&emsp;&emsp;A State shall use amounts awarded under a grant under this subparagraph to award competitive grants to eligible State Energy Sector Partnerships to enable such Partnerships to coordinate with existing apprenticeship and labor management training programs and implement training programs that lead to the economic self-sufficiency of trainees.
+&emsp;&emsp;&emsp;A State shall use amounts awarded under a grant under this subparagraph to award competitive grants to eligible StateEnergy Sector Partnerships to enable such Partnerships to coordinate with existing apprenticeship and labor management training programs and implement training programs that lead to the economic self-sufficiency of trainees.
 
 #### (iii) Eligibility
 
@@ -394,7 +394,7 @@ Of the amount made available pursuant to section 2862(a)(2)(A) of this title for
 
 #### (B) Evaluation
 
-&emsp;&emsp;Not later than 3 years after December 19, 2007, the Secretary shall transmit to the Senate Committee on Energy and Natural Resources, the Senate Committee on Health, Education, Labor, and Pensions, the House Committee on Education and Labor, and the House Committee on Energy and Commerce an assessment of such program and an evaluation of the activities carried out by entities receiving funding from such program.
+&emsp;&emsp;Not later than 3 years after December 19, 2007, the Secretary shall transmit to the Senate Committee on Energy and Natural Resources, the Senate Committee on Health, Education, Labor, and Pensions, the House Committee on Education and Labor, and theHouse Committee on Energy and Commerce an assessment of such program and an evaluation of the activities carried out by entities receiving funding from such program.
 
 #### (7) Definition
 
@@ -404,7 +404,7 @@ Of the amount made available pursuant to section 2862(a)(2)(A) of this title for
 
 &emsp;There is authorized to be appropriated to carry out this subsection, $125,000,000 for each fiscal year, of which—
 
-&emsp;&emsp;(A) not to exceed 20 percent of the amount appropriated in each such fiscal year shall be made available for, and shall be equally divided between, national labor market research and information under paragraph (2)(A) and State labor market information and labor exchange research under paragraph (2)(C), and not more than 2 percent of such amount shall be for the evaluation and report required under paragraph (4);<sup>1</sup>
+&emsp;&emsp;(A) not to exceed 20 percent of the amount appropriated in each such fiscal year shall be made available for, and shall be equally divided between, national labor market research and information under paragraph (2)(A) and State labor market information and labor exchange research under paragraph (2)(C), and not more than 2 percent of such amount shall be for the evaluation and report required under paragraph (4); <sup>1</sup>
 
 &emsp;&emsp;(B) 20 percent shall be dedicated to Pathways Out of Poverty Demonstration Programs under paragraph (2)(E); and
 
@@ -420,9 +420,9 @@ This Act, referred to in subsec. (e)(4)(B), is Pub. L. 105–220, Aug. 7, 1998, 
 
 #### Amendments
 
-2007—Subsec. (e). Pub. L. 110–140 added subsec. (e).
+<b>2007</b>—Subsec. (e). Pub. L. 110–140 added subsec. (e).
 
-1998—Subsec. (b)(2)(A). Pub. L. 105–277, which directed the amendment of subsec. (b)(2) of this section by substituting “in accordance with generally applicable Federal requirements.” for “ ‘only on a competitive’ and all that follows through the period”, was executed to subsec. (b)(2)(A) by making the substitution for “only on a competitive basis, except that a noncompetitive award may be made in the case of a project that is funded jointly with other public or private sector entities that provide a portion of the funding for the project.”, to reflect the probable intent of Congress.
+<b>1998</b>—Subsec. (b)(2)(A). Pub. L. 105–277, which directed the amendment of subsec. (b)(2) of this section by substituting “in accordance with generally applicable Federal requirements.” for “ ‘only on a competitive’ and all that follows through the period”, was executed to subsec. (b)(2)(A) by making the substitution for “only on a competitive basis, except that a noncompetitive award may be made in the case of a project that is funded jointly with other public or private sector entities that provide a portion of the funding for the project.”, to reflect the probable intent of Congress.
 
 #### Effective Date of 2007 Amendment
 

@@ -58,11 +58,11 @@ The Export-Import Bank Act of 1945, referred to in subsecs. (a) and (d)(1), is a
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
-1989—Pub. L. 101–222 amended section generally, in subsec. (a) substituting provisions prohibiting assistance if Secretary of State determines country has repeatedly supported terrorism, for provisions prohibiting assistance if President determines country grants sanctuary to terrorists or otherwise supports terrorism; redesignating subsec. (b) as (d) and inserting provisions prohibiting justification of waiver of assistance under specified Acts and provisions describing contents of report on proposed waiver; adding subsecs. (b) and (c); and striking out subsec. (c) which related to imposition of sanction by other countries.
+<b>1989</b>—Pub. L. 101–222 amended section generally, in subsec. (a) substituting provisions prohibiting assistance if Secretary of State determines country has repeatedly supported terrorism, for provisions prohibiting assistance if President determines country grants sanctuary to terrorists or otherwise supports terrorism; redesignating subsec. (b) as (d) and inserting provisions prohibiting justification of waiver of assistance under specified Acts and provisions describing contents of report on proposed waiver; adding subsecs. (b) and (c); and striking out subsec. (c) which related to imposition of sanction by other countries.
 
-1985—Subsec. (a). Pub. L. 99–190 inserted reference to the Export-Import Bank Act of 1945.
+<b>1985</b>—Subsec. (a). Pub. L. 99–190 inserted reference to the Export-Import Bank Act of 1945.
 
 Pub. L. 99–83 amended subsec. (a) generally, substituting provisions relating to covered programs and Presidential determinations respecting termination of assistance, for provisions relating to termination of assistance to countries granting sanctuary to international terrorists and period of ineligibility.
 

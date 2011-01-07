@@ -42,11 +42,11 @@ Except as otherwise provided in regulations, this section shall apply only with 
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–188 substituted “section 132(h)” for “section 132(i)(2)” in closing provisions.
+<b>1996</b>—Subsec. (c). Pub. L. 104–188 substituted “section 132(h)” for “section 132(i)(2)” in closing provisions.
 
-1993—Subsec. (c). Pub. L. 103–66 substituted “section 132(i)(2)” for “section 132(g)(2)” in closing provisions.
+<b>1993</b>—Subsec. (c). Pub. L. 103–66 substituted “section 132(i)(2)” for “section 132(g)(2)” in closing provisions.
 
-1986—Subsec. (c)(2). Pub. L. 99–514, §1853(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “as of January 1, 1984, substantially all of the employees of the employer were entitled to employee discounts or services provided by the employer in 1 line of business,”.
+<b>1986</b>—Subsec. (c)(2). Pub. L. 99–514, §1853(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “as of January 1, 1984, substantially all of the employees of the employer were entitled to employee discounts or services provided by the employer in 1 line of business,”.
 
 Subsec. (f). Pub. L. 99–514, §1853(c)(2), added subsec. (f).
 

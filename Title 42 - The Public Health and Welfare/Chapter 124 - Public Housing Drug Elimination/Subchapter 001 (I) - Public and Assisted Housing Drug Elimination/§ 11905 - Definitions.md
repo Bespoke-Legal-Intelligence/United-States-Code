@@ -42,17 +42,17 @@ Section 4(12) of the Native American Housing Assistance and Self Determination A
 
 #### Amendments
 
-1999—Par. (4)(D). Pub. L. 106–74, §227(a), as added by Pub. L. 106–113, struck out subpar. (D) which read asfollows: “the Native American Housing Assistance and Self-Determination Act.”
+<b>1999</b>—Par. (4)(D). Pub. L. 106–74, §227(a), as added by Pub. L. 106–113, struck out subpar. (D) which read as follows: “the Native American Housing Assistance and Self-Determination Act.”
 
-1998—Par. (5). Pub. L. 105–276, §586(f), added par. (5) and struck out heading and text of former par. (5). Text read as follows: “The term ‘tribally designated housing entity’ has the meaning given such term in section 4 of the Native American Housing Assistance and Self-Determination Act of 1996.”
+<b>1998</b>—Par. (5). Pub. L. 105–276, §586(f), added par. (5) and struck out heading and text of former par. (5). Text read as follows: “The term ‘tribally designated housing entity’ has the meaning given such term in section 4 of the Native American Housing Assistance and Self-Determination Act of 1996.”
 
 Par. (6). Pub. L. 105–276, §220(4), added par. (6).
 
-1996—Par. (4)(D). Pub. L. 104–330, §704(4)(A), added subpar. (D).
+<b>1996</b>—Par. (4)(D). Pub. L. 104–330, §704(4)(A), added subpar. (D).
 
 Par. (5). Pub. L. 104–330, §704(4)(B), added par. (5).
 
-1990—Pub. L. 101–625 amended section generally, adding provisions defining “Federally assisted low-income housing”.
+<b>1990</b>—Pub. L. 101–625 amended section generally, adding provisions defining “Federally assisted low-income housing”.
 
 #### Effective Date of 1999 Amendment
 

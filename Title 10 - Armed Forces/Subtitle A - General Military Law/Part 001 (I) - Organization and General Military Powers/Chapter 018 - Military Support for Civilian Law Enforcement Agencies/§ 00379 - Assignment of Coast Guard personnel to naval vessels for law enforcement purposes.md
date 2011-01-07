@@ -16,9 +16,9 @@
 
 #### Amendments
 
-2002—Subsecs. (a), (b)(1), (c). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsecs. (a), (b)(1), (c). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1988—Pub. L. 100–456 amended section generally, substituting “every appropriate surface naval vessel” for “appropriate surface naval vessels” in subsec. (a), substituting “section 374(b)(4)(A)” for “section 374(a)(1)” in subsec. (c), and inserting “(as defined in section 374(b)(4)(B) of this title)” in subsec. (d).
+<b>1988</b>—Pub. L. 100–456 amended section generally, substituting “every appropriate surface naval vessel” for “appropriate surface naval vessels” in subsec. (a), substituting “section 374(b)(4)(A)” for “section 374(a)(1)” in subsec. (c), and inserting “(as defined in section 374(b)(4)(B) of this title)” in subsec. (d).
 
 #### Effective Date of 2002 Amendment
 

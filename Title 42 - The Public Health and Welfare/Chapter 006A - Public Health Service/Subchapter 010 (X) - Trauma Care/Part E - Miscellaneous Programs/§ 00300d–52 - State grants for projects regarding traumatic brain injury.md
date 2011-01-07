@@ -74,7 +74,7 @@ A State or American Indian consortium that received a grant under this section p
 
 #### (A) In general
 
-&emsp;&emsp;State or American Indian consortium services and supports provided under a grantunder this section shall reflect the best practices in the field of traumatic brain injury, shall be in compliance with title II of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12131 et seq.\], and shall be supported by quality assurance measures as well as state-of-the-art health care and integrated community supports, regardless of the severity of injury.
+&emsp;&emsp;State or American Indian consortium services and supports provided under a grant under this section shall reflect the best practices in the field of traumatic brain injury, shall be in compliance with title II of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12131 et seq.\], and shall be supported by quality assurance measures as well as state-of-the-art health care and integrated community supports, regardless of the severity of injury.
 
 #### (B) Demonstration by State agency
 
@@ -92,7 +92,7 @@ A State or American Indian consortium that received a grant under this section p
 
 &emsp;&emsp;(D) develop best practices in areas such as family or consumer support, return to work, housing or supportive living personal assistance services, assistive technology and devices, behavioral health services, substance abuse services, and traumatic brain injury treatment and rehabilitation;
 
-&emsp;&emsp;(E) tailor existing State or American Indian consortium systems to provide accommodations to the needs of individuals with brain injury (including systems administered by the State or American Indian consortium departments responsible for health, mental health, labor/employment, education, mental retardation/developmental disorders, transportation, and correctional systems);
+&emsp;&emsp;(E) tailor existing State or American Indian consortium systems to provide accommodations to the needs of individuals with brain injury (including systems administered by the State or American Indian consortium departments responsible for health, mental health, labor/employment, education, intellectual disabilities or developmental disorders, transportation, and correctional systems);
 
 &emsp;&emsp;(F) improve data sets coordinated across systems and other needs identified by a State or American Indian consortium plan supported by its advisory council; and
 
@@ -118,7 +118,7 @@ For purposes of this section:
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005, and such sums as may be necessary for each of the fiscal years 2009 through 2012.
 
-(July 1, 1944, ch. 373, title XII, §1252, as added Pub. L. 104–166, §3, July 29, 1996, 110 Stat. 1446; amended Pub. L. 106–310, div. A, title XIII, §1304, Oct. 17, 2000, 114 Stat. 1139; Pub. L. 110–23, §14, May 3, 2007, 121 Stat. 99; Pub. L. 110–206, §6(a), Apr. 28, 2008, 122 Stat. 716.)
+(July 1, 1944, ch. 373, title XII, §1252, as added Pub. L. 104–166, §3, July 29, 1996, 110 Stat. 1446; amended Pub. L. 106–310, div. A, title XIII, §1304, Oct. 17, 2000, 114 Stat. 1139; Pub. L. 110–23, §14, May 3, 2007, 121 Stat. 99; Pub. L. 110–206, §6(a), Apr. 28, 2008, 122 Stat. 716; Pub. L. 111–256, §2(f)(6), Oct. 5, 2010, 124 Stat. 2644.)
 
 #### References in Text
 
@@ -126,7 +126,9 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (f)(2)(A), i
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–206, §6(a)(1), substituted “may make grants to States and American Indian consortia” for “may make grants to States” and “rehabilitation and other services” for “health and other services”.
+<b>2010</b>—Subsec. (f)(3)(E). Pub. L. 111–256 substituted “intellectual disabilities or developmental disorders,” for “mental retardation/developmental disorders,”.
+
+<b>2008</b>—Subsec. (a). Pub. L. 110–206, §6(a)(1), substituted “may make grants to States and American Indian consortia” for “may make grants to States” and “rehabilitation and other services” for “health and other services”.
 
 Subsec. (b)(1). Pub. L. 110–206, §6(a)(2)(A), substituted “State or American Indian consortium” for “State” wherever appearing.
 
@@ -142,15 +144,15 @@ Subsec. (f). Pub. L. 110–206, §6(a)(5)(A), (B), inserted “and American Indi
 
 Subsec. (f)(1)(A)(ii). Pub. L. 110–206, §6(a)(5)(C), substituted “children, youth, and adults” for “children and other individuals”.
 
-Subsec. (h). Pub. L. 110–206, §6(a)(6), substituted “Not less than biennially, the Secretary” for “Not later than 2 years after July 29, 1996, the Secretary” and “Energy and Commerce of the House of Representatives, and to the Committee on Health, Education, Labor, and Pensions” for “Commerce of the House of Representatives,and to the Committee on Labor and Human Resources” and inserted “and section 300d–53 of this title” after “programs established under this section,”.
+Subsec. (h). Pub. L. 110–206, §6(a)(6), substituted “Not less than biennially, the Secretary” for “Not later than 2 years after July 29, 1996, the Secretary” and “Energy and Commerce of the House of Representatives, and to the Committee on Health, Education, Labor, and Pensions” for “Commerce of the House of Representatives, and to the Committee on Labor and Human Resources” and inserted “and section 300d–53 of this title” after “programs established under this section,”.
 
 Subsec. (i). Pub. L. 110–206, §6(a)(7), amended subsec. (i) generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘traumatic brain injury’ means an acquired injury to the brain. Such term does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to trauma. The Secretary may revise the definition of such term as the Secretary determines necessary, after consultation with States and other appropriate public or nonprofit private entities.”
 
 Subsec. (j). Pub. L. 110–206, §6(a)(8), inserted “, and such sums as may be necessary for each of the fiscal years 2009 through 2012” before period at end.
 
-2007—Pub. L. 110–23, which directed amendment of section by striking “demonstration” in section catchline, could not be executed because the word “demonstration” did not appear after amendment by Pub. L. 106–310, §1304(1). See 2000 Amendment note below.
+<b>2007</b>—Pub. L. 110–23, which directed amendment of section by striking “demonstration” in section catchline, could not be executed because the word “demonstration” did not appear after amendment by Pub. L. 106–310, §1304(1). See 2000 Amendment note below.
 
-2000—Pub. L. 106–310, §1304(1), struck out “demonstration” before “projects” in section catchline.
+<b>2000</b>—Pub. L. 106–310, §1304(1), struck out “demonstration” before “projects” in section catchline.
 
 Subsec. (a). Pub. L. 106–310, §1304(2), struck out “demonstration” before “projects”.
 
@@ -173,4 +175,8 @@ Subsec. (i). Pub. L. 106–310, §1304(5), (8), redesignated subsec. (g) as (i),
 Subsec. (j). Pub. L. 106–310, §1304(9), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For the purpose of carrying out this section, there is authorized to be appropriated $5,000,000 for each of the fiscal years 1997 through 1999.”
 
 Pub. L. 106–310, §1304(5), redesignated subsec. (h) as (j).
+
+#### Definitions
+
+For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of Title 20, Education.
 

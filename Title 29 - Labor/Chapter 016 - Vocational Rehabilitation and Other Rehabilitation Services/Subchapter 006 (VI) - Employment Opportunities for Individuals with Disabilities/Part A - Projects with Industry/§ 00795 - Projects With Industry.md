@@ -78,7 +78,7 @@ Payments under this section with respect to any project may not exceed 80 per ce
 
 (B) Grants under this section shall be awarded on a competitive basis. To be eligible to receive such a grant, a prospective grant recipient shall submit an application to the Commissioner at such time, in such manner, and containing such information as the Commissioner may require.
 
-(2) The Commissioner shall, to the extent practicable, ensure an equitable distribution of payments made under this section among the States. To the extent funds are available, the Commissioner shall award grants under this section to new projects that will serve individualswith disabilities in States, portions of States, Indian tribes, or tribal organizations, that are currently unserved or underserved by projects.
+(2) The Commissioner shall, to the extent practicable, ensure an equitable distribution of payments made under this section among the States. To the extent funds are available, the Commissioner shall award grants under this section to new projects that will serve individuals with disabilities in States, portions of States, Indian tribes, or tribal organizations, that are currently unserved or underserved by projects.
 
 #### (f) Indicators for compliance with evaluation standards; annual reports; onsite compliance reviews; analysis included in reports to Congress
 

@@ -32,7 +32,7 @@ For purposes of this chapter—
 
 &emsp;(5) The term “Secretary” means the Secretary of the Interior.
 
-&emsp;(6) The term “System” means John H. Chafee Coastal Barrier Resources System established by section 3503(a) of this title.
+&emsp;(6) The term “System” means the John H. Chafee Coastal Barrier Resources System established by section 3503(a) of this title.
 
 &emsp;(7) The term “System unit” means any undeveloped coastal barrier, or combination of closely-related undeveloped coastal barriers, included within the John H. Chafee Coastal Barrier Resources System established by section 3503 of this title.
 
@@ -40,13 +40,13 @@ For purposes of this chapter—
 
 #### Amendments
 
-2000—Par. (2). Pub. L. 106–514, §4(a)(1), substituted “means the Committee on Resources” for “refers to the Committee on Merchant Marine and Fisheries”.
+<b>2000</b>—Par. (2). Pub. L. 106–514, §4(a)(1), substituted “means the Committee on Resources” for “refers to the Committee on Merchant Marine and Fisheries”.
 
 Par. (3). Pub. L. 106–514, §4(a)(2), substituted “Such” for “Effective October 1, 1983, such” in concluding provisions.
 
-1999—Pars. (6), (7). Pub. L. 106–167 substituted “John H. Chafee Coastal Barrier Resources System” for “Coastal Barrier Resources System”.
+<b>1999</b>—Pars. (6), (7). Pub. L. 106–167 substituted “John H. Chafee Coastal Barrier Resources System” for “Coastal Barrier Resources System”.
 
-1990—Par. (1). Pub. L. 101–591, §2(c), in concluding provisions, struck out cl. (i) designation, inserted a period after “processes”, and struck out at end “, and (ii) are not included within the boundaries of an area established under Federal, State, or local law, or held by a qualified organization as defined in section 170(h)(3) of title 26, primarily for wildlife refuge, sanctuary, recreational, or natural resource conservation purposes.”
+<b>1990</b>—Par. (1). Pub. L. 101–591, §2(c), in concluding provisions, struck out cl. (i) designation, inserted a period after “processes”, and struck out at end “, and (ii) are not included within the boundaries of an area established under Federal, State, or local law, or held by a qualified organization as defined in section 170(h)(3) of title 26, primarily for wildlife refuge, sanctuary, recreational, or natural resource conservation purposes.”
 
 Par. (1)(A). Pub. L. 101–591, §2(a), redesignated cls. (ii) and (iii) as (i) and (ii), respectively, and struck out former cl. (i) which read as follows: “consists of unconsolidated sedimentary materials,”.
 
@@ -56,15 +56,15 @@ Par. (6). Pub. L. 101–591, §2(b)(1), amended par. (6) generally. Prior to ame
 
 &emsp;“(B) the maps prepared under section 3503(b) of this title and any modification to those maps under that section.”
 
-1988—Pars. (4) to (7). Pub. L. 100–707 added pars. (4) and (6) and redesignated former pars. (4) and (5) as (5) and (7), respectively.
+<b>1988</b>—Pars. (4) to (7). Pub. L. 100–707 added pars. (4) and (6) and redesignated former pars. (4) and (5) as (5) and (7), respectively.
 
-1986—Par. (1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Par. (1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Par. (3). Pub. L. 99–272 struck out subpar. (A) relating to general revenue-sharing grants made under section 6702 of title 31, and redesignated subpars. (B) to (E) as (A) to (D), respectively.
 
 #### Change of Name
 
-Committee on Resources of House of Representatives changed to Committee on Natural Resources of Houseof Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1986 Amendment
 

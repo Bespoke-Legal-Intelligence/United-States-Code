@@ -114,7 +114,7 @@ The Secretary of the Treasury shall from time to time pay to each State for dist
 
 &emsp;(G) provides such other information as the Secretary determines under regulation is necessary.
 
-(2)(A) The Secretary shall through the separate organizational unit established pursuant tosubsection (a) of this section, on a continuing basis, review, assess, and inspect the planning, design, and operation of, management information systems referred to in section 654(16) of this title, with a view to determining whether, and to what extent, such systems meet and continue to meet requirements imposed under paragraph (1) and the conditions specified under section 654(16) of this title.
+(2)(A) The Secretary shall through the separate organizational unit established pursuant to subsection (a) of this section, on a continuing basis, review, assess, and inspect the planning, design, and operation of, management information systems referred to in section 654(16) of this title, with a view to determining whether, and to what extent, such systems meet and continue to meet requirements imposed under paragraph (1) and the conditions specified under section 654(16) of this title.
 
 (B) If the Secretary finds with respect to any statewide management information system referred to in section 654(16) of this title that there is a failure substantially to comply with criteria, requirements, and other undertakings, prescribed by the advance automated data processing planning document theretofore approved by the Secretary with respect to such system, then the Secretary shall suspend his approval of such document until there is no longer any such failure of such system to comply with such criteria, requirements, and other undertakings so prescribed.
 
@@ -164,7 +164,7 @@ The Secretary shall issue regulations to require that State agencies administeri
 
 &emsp;(B) for a State with a paternity establishment percentage of not less than 75 percent but less than 90 percent for such fiscal year, the paternity establishment percentage of the State for the immediately preceding fiscal year plus 2 percentage points;
 
-&emsp;(C) for a State with a paternity establishment percentage of not less than 50 percent but less than 75 percent for such fiscal year, the paternity establishment percentage of theState for the immediately preceding fiscal year plus 3 percentage points;
+&emsp;(C) for a State with a paternity establishment percentage of not less than 50 percentbut less than 75 percent for such fiscal year, the paternity establishment percentage of the State for the immediately preceding fiscal year plus 3 percentage points;
 
 &emsp;(D) for a State with a paternity establishment percentage of not less than 45 percent but less than 50 percent for such fiscal year, the paternity establishment percentage of the State for the immediately preceding fiscal year plus 4 percentage points;
 
@@ -212,7 +212,7 @@ The standards required by subsection (a)(1) of this section shall include standa
 
 #### (j) Training of Federal and State staff, research and demonstration programs, and special projects of regional or national significance
 
-Out of any money in the Treasury of the United States not otherwise appropriated, there is hereby appropriated to the Secretary for each fiscal year an amount equal to 1 percent of the total amount paid to the Federal Government pursuant to a plan approved under this part during the immediately preceding fiscal year (as determined on the basis of the most recent reliable data available to the Secretary as of the end of the third calendar quarter following the end of such preceding fiscal year) or the amount appropriated under this paragraph <sup>1</sup> for fiscal year 2002, whichever is greater, which shall be available for use by the Secretary, either directly or through grants, contracts, or interagency agreements, for—
+Out of any money in the Treasury of the United States not otherwise appropriated, there is hereby appropriated to the Secretary for each fiscal year an amount equal to 1 percent of the total amount paid to the Federal Government pursuant to a plan approved under this part during the immediately preceding fiscal year (as determined on the basis of the most recent reliabledata available to the Secretary as of the end of the third calendar quarter following the end of such preceding fiscal year) or the amount appropriated under this paragraph <sup>1</sup> for fiscal year 2002, whichever is greater, which shall be available for use by the Secretary, either directly or through grants, contracts, or interagency agreements, for—
 
 &emsp;(1) information dissemination and technical assistance to States, training of State and Federal staff, staffing studies, and related activities needed to improve programs under this part (including technical assistance concerning State automated systems required by this part); and
 
@@ -256,7 +256,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (b), is classified gen
 
 #### Amendments
 
-2006—Subsec. (f). Pub. L. 109–171, §7307(a)(2)(A)(i), (b), (c), substituted “enforce medical support included as part of a child support order” for “include medical support as part of any child support order and enforce medical support”, inserted after first sentence “A State agency administering the program under this part may enforce medical support against a custodial parent if health care coverage is available to the custodial parent at a reasonable cost, notwithstanding any other provision of this part.”, and inserted at end “For purposes of this part, the term ‘medical support’ mayinclude health care coverage, such as coverage under a health insurance plan (including payment of costs of premiums, co-payments, and deductibles) and payment for medical expenses incurred on behalf of a child.”
+<b>2006</b>—Subsec. (f). Pub. L. 109–171, §7307(a)(2)(A)(i), (b), (c), substituted “enforce medical support included as part of a child support order” for “include medical support as part of any child support order and enforce medical support”, inserted after first sentence “A State agency administering the program under this part may enforce medical support against a custodialparent if health care coverage is available to the custodial parent at a reasonable cost, notwithstanding any other provision of this part.”, and inserted at end “For purposes of this part, the term ‘medical support’ may include health care coverage, such as coverage under a health insurance plan (including payment of costs of premiums, co-payments, and deductibles) and payment for medical expenses incurred on behalf of a child.”
 
 Subsec. (j). Pub. L. 109–171, §7304, inserted “or the amount appropriated under this paragraph for fiscal year 2002, whichever is greater” before “, which shall be available” in introductory provisions.
 
@@ -264,9 +264,9 @@ Subsec. (k)(1). Pub. L. 109–171, §7303(a), substituted “$2,500” for “$5
 
 Subsec. (<i>l</i>). Pub. L. 109–171, §7306(a), added subsec. (<i>l</i>) relating to comparisons with insurance information.
 
-1999—Subsec. (a)(7). Pub. L. 106–169 substituted “social security” for “Social Security”.
+<b>1999</b>—Subsec. (a)(7). Pub. L. 106–169 substituted “social security” for “Social Security”.
 
-1998—Subsec. (a)(10)(H) to (J). Pub. L. 105–200, §407(b), inserted “and” at end of subpar. (H), redesignated subpar. (J) as (I), and struck out former subpar. (I) which read as follows: “the amount of administrative costs which are expended in each functional category of expenditures, including establishment of paternity; and”.
+<b>1998</b>—Subsec. (a)(10)(H) to (J). Pub. L. 105–200, §407(b), inserted “and” at end of subpar. (H), redesignated subpar. (J) as (I), and struck out former subpar. (I) which read as follows: “the amount of administrative costs which are expended in each functional category of expenditures, including establishment of paternity; and”.
 
 Subsec. (d)(3). Pub. L. 105–200, §102(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary may waive any requirement of paragraph (1) or any condition specified under section 654(16) of this title with respect to a State if—
 
@@ -282,7 +282,7 @@ Subsec. (g). Pub. L. 105–200, §201(e)(1)(A), amended Pub. L. 104–193, §341
 
 Subsec. (<i>l</i>). Pub. L. 105–200, §406(b), added subsec. (<i>l</i>).
 
-1997—Subsec. (d)(3)(A). Pub. L. 105–33, §5513(a)(1)(A), substituted “section 609(a)(8) of this title, to achieve the paternity establishment percentages (as defined under subsection (g)(2) of this section) and other performance measures that may be established by the Secretary, and to submit data under section 654(15)(B) of this title that is complete and reliable, and to substantially comply with the requirements of this part; and” for “section 603(h) of this title, to be in substantial compliance with other requirements of this part; and”.
+<b>1997</b>—Subsec. (d)(3)(A). Pub. L. 105–33, §5513(a)(1)(A), substituted “section 609(a)(8) of this title, to achieve the paternity establishment percentages (as defined under subsection (g)(2) of this section) and other performance measures that may be established by the Secretary, and to submit data under section 654(15)(B) of this title that is complete and reliable, and to substantially comply with the requirements of this part; and” for “section 603(h) of this title, to be in substantial compliance with other requirements of this part; and”.
 
 Subsec. (g)(1). Pub. L. 105–33, §5513(a)(1)(B), substituted “section 609(a)(8)” for “section 603(h)” in introductory provisions.
 
@@ -294,7 +294,7 @@ Subsec. (j). Pub. L. 105–33, §5556(c), amended Pub. L. 104–208, §101(e) \[
 
 Pub. L. 105–33, §5541(a), substituted “which shall be available for use by the Secretary, either directly or through grants, contracts, or interagency agreements,” for “to cover costs incurred by the Secretary” in introductory provisions.
 
-1996—Subsec. (a)(1). Pub. L. 104–193, §395(d)(1)(B), substituted “noncustodial” for “absent” in two places.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–193, §395(d)(1)(B), substituted “noncustodial” for “absent” in two places.
 
 Subsec. (a)(4). Pub. L. 104–193, §342(b), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “evaluate the implementation of State programs established pursuant to such plan, conduct such audits of State programs established under the plan approved under this part as may be necessary to assure their conformity with the requirements of this part, and, not less often than once every three years (or not less often than annually in the case of any State to which a reduction is being applied under section 603(h)(1) of this title, or which is operating under a corrective action plan in accordance with section 603(h)(2) of this title), conduct a complete audit of the programs established under such plan in each State and determine for the purposes of the penalty provision of section 603(h) of this title whether the actual operation of such programs in each State conforms to the requirements of this part;”.
 
@@ -320,7 +320,7 @@ Subsec. (a)(10)(C)(i), (ii). Pub. L. 104–193, §346(a)(2)(B), struck out “,�
 
 Subsec. (a)(10)(C)(iii). Pub. L. 104–193, §346(a)(2)(C), substituted “in which support was collected during the fiscal year” for “described in clause (i) in which support was collected during such fiscal year, and the total amount of such collections”.
 
-Subsec. (a)(10)(C)(iv) to (vii). Pub. L. 104–193, §346(a)(2)(D), (E), added cls. (iv) to (vi), redesignated former cl. (v) as (vii), and struck out former cl. (iv) which read as follows: “the number of cases described in clause (ii) in which support was collected during such fiscal year, and the total amount of such collections; and”.
+Subsec. (a)(10)(C)(iv) to (vii). Pub. L. 104–193, §346(a)(2)(D), (E), added cls. (iv) to (vi), redesignated former cl. (v) as (vii), and struck out former cl. (iv) which read as follows: “the number of cases described in clause (ii) in which support was collected duringsuch fiscal year, and the total amount of such collections; and”.
 
 Subsec. (a)(10)(E). Pub. L. 104–193, §395(d)(1)(B), substituted “noncustodial” for “absent”.
 
@@ -376,9 +376,9 @@ Pub. L. 104–193, §345(a), added subsec. (j).
 
 Subsec. (k). Pub. L. 104–193, §370(a)(1), added subsec. (k).
 
-1995—Subsecs. (d)(1)(B), (2)(A), (B), (e). Pub. L. 104–35 substituted “in section 654(16)” for “in section 655(a)(1)(B)”.
+<b>1995</b>—Subsecs. (d)(1)(B), (2)(A), (B), (e). Pub. L. 104–35 substituted “in section 654(16)” for “in section 655(a)(1)(B)”.
 
-1994—Subsec. (g)(2)(A). Pub. L. 103–432, §213(5), in closing provisions, substituted “born out of wedlock” for “who were born out of wedlock during the immediately preceding fiscal year”, substituted “the preceding fiscal year” for “such preceding fiscal year” in two places, and struck out “or E” after “under this part”.
+<b>1994</b>—Subsec. (g)(2)(A). Pub. L. 103–432, §213(5), in closing provisions, substituted “born out of wedlock” for “who were born out of wedlock during the immediately preceding fiscal year”, substituted “the preceding fiscal year” for “such preceding fiscal year” in two places, and struck out “or E” after “under this part”.
 
 Subsec. (g)(2)(A)(i). Pub. L. 103–432, §213(1), struck out “during the fiscal year” after “wedlock”.
 
@@ -388,7 +388,7 @@ Subsec. (g)(2)(A)(ii)(II). Pub. L. 103–432, §213(3), substituted “in the fi
 
 Subsec. (g)(2)(A)(iii). Pub. L. 103–432, §213(4), struck out “during the fiscal year” after “acknowledged”.
 
-1993—Subsec. (g)(1). Pub. L. 103–66, §13721(a)(1)(A)–(C), substituted “1994” for “1991” and inserted “is based on reliable data and (rounded to the nearest whole percentage point)” before “equals”.
+<b>1993</b>—Subsec. (g)(1). Pub. L. 103–66, §13721(a)(1)(A)–(C), substituted “1994” for “1991” and inserted “is based on reliable data and (rounded to the nearest whole percentage point)” before “equals”.
 
 Subsec. (g)(1)(A) to (E). Pub. L. 103–66, §13721(a)(1)(D), added subpars. (A) to (E) and struck out former subpars. (A) to (C) which read as follows:
 
@@ -400,13 +400,13 @@ Subsec. (g)(1)(A) to (E). Pub. L. 103–66, §13721(a)(1)(D), added subpars. (A)
 
 Subsec. (g)(2). Pub. L. 103–66, §13721(a)(2)(C), (D), in concluding provisions, inserted “unless paternity is established for such child” after “the death of a parent” and “or any child with respect to whom the State agency administering the plan under part E of this subchapter determines (as provided in section 654(4)(B) of this title) that it is against the best interests of such child to do so” after “cooperate under section 602(a)(26) of this title”.
 
-Subsec. (g)(2)(A). Pub. L. 103–66, §13721(a)(2)(A), in cl. (i), inserted before comma “during the fiscal year”, in cl. (ii)(I), substituted “part A or E of this subchapter as of the end of the” for “part A of this subchapter (or under all such plans) for such”, in cl. (ii)(II), substituted “this part or E as of the end of the” for “this part (or under all such plans) for the”, in cl. (iii), inserted before comma “or acknowledged during the fiscal year”, and in concluding provisions, substituted “children who were born out of wedlock during the immediately preceding fiscal year and” for “children who have been born out of wedlock and”, “aid was being paid” for “aid is being paid”, “part A or E of this subchapter as of the end of such preceding fiscal” for “part A of this subchapter (or under all such plans) for such fiscal”, “services were being” for “services are being”, and “this part or E as of the end of such preceding fiscal” for “this part (or under all such plans) for the fiscal”.
+Subsec. (g)(2)(A). Pub. L. 103–66, §13721(a)(2)(A), in cl. (i), inserted before comma “during the fiscal year”, in cl. (ii)(I), substituted “part A or E of this subchapter as of the end of the” for “part A of this subchapter (orunder all such plans) for such”, in cl. (ii)(II), substituted “this part or E as of the end of the” for “this part (or under all such plans) for the”, in cl. (iii), inserted before comma “or acknowledged during the fiscal year”, and in concluding provisions, substituted “children who were born out of wedlock during the immediately preceding fiscal year and” for “children who have been born out of wedlock and”, “aid was being paid” for “aid is being paid”, “part A or E of this subchapter as of the end of such preceding fiscal” for “part A of this subchapter (or under all such plans) for such fiscal”, “services were being” for “services are being”, and “this part or E as of the end of such preceding fiscal” for “this part (or under all such plans) for the fiscal”.
 
 Subsec. (g)(2)(B). Pub. L. 103–66, §13721(a)(2)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “the applicable number of percentage points means, with respect to a fiscal year (beginning with the fiscal year 1991), 3 percentage points multiplied by the number of fiscal years after the fiscal year 1989 and before the beginning of such fiscal year.”
 
-1989—Subsec. (d)(2)(B). Pub. L. 101–239 substituted “automated data” for “automatic data”.
+<b>1989</b>—Subsec. (d)(2)(B). Pub. L. 101–239 substituted “automated data” for “automatic data”.
 
-1988—Subsec. (d)(1). Pub. L. 100–485, §123(b)(1), substituted “Except as provided in paragraph (3), the” for “The”.
+<b>1988</b>—Subsec. (d)(1). Pub. L. 100–485, §123(b)(1), substituted “Except as provided in paragraph (3), the” for “The”.
 
 Pub. L. 100–485, §123(d), substituted “automated” for “automatic”.
 
@@ -418,15 +418,15 @@ Subsec. (h). Pub. L. 100–485, §121(a), added subsec. (h).
 
 Subsec. (i). Pub. L. 100–485, §122(a), added subsec. (i).
 
-1987—Subsec. (c). Pub. L. 100–203 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+<b>1987</b>—Subsec. (c). Pub. L. 100–203 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
 “(1) There is hereby established in the Treasury a revolving fund which shall be available to the Secretary without fiscal year limitation, to enable him to pay to the States for distribution in accordance with the provisions of section 657 of this title such amounts as may be collected and paid (subject to paragraph (2)) into such fund under section 6305 of the Internal Revenue Code of 1986.
 
 “(2) There is hereby appropriated to the fund, out of any moneys in the Treasury not otherwise appropriated, amounts equal to the amounts collected under section 6305 the Internal Revenue Code of 1986, reduced by the amounts credited or refunded as overpayments of the amounts so collected. The amounts appropriated by the preceding sentence shall be transferred at least quarterly from the general fund of the Treasury to the fund on the basis of estimates made by the Secretary of the Treasury. Proper adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.”
 
-1986—Subsecs. (b), (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing.
+<b>1986</b>—Subsecs. (b), (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing.
 
-1984—Subsec. (a). Pub. L. 98–369, §2663(j)(2)(B)(viii), substituted “Health and Human Services” for “Health, Education, and Welfare” in provisions preceding par. (1).
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §2663(j)(2)(B)(viii), substituted “Health and Human Services” for “Health, Education, and Welfare” in provisions preceding par. (1).
 
 Subsec. (a)(4). Pub. L. 98–378, §9(a)(1), substituted “not less often than once every three years (or not less often than annually in the case of any State to which a reduction is being applied under section 603(h)(1) of this title, or which is operating under a corrective action plan in accordance with section 603(h)(2) of this title)” for “not less often than annually”.
 
@@ -440,9 +440,9 @@ Subsecs. (d)(1)(B), (2)(A), (B), (e). Pub. L. 98–378, §4(b), substituted “6
 
 Subsec. (f). Pub. L. 98–378, §16, added subsec. (f).
 
-1982—Subsec. (b). Pub. L. 97–248 substituted provisions that the Secretary shall, upon the request of a State having in effect a State plan approved under this part, certify to the Secretary of the Treasury for collection pursuant to the provisions of section 6305 of the Internal Revenue Code of 1954 the amount of any child support obligation (including any support obligation with respect to the parent who is living with the child and receiving aid under the State plan approved under part A of this subchapter) which is assigned to such State or is undertaken to be collected by such State pursuant to section 654(6) of this title for provisions that the Secretary would, upon the request of any State having in effect a State plan approved under this part, certify the amount of any child support obligation assigned to such State, including any support obligation with respect to the parent who is living with the child and receiving aid under the State plan approved under part A of this subchapter (or undertaken to be collected by such State pursuant to section 654(6) of this title) to the Secretary of the Treasury for collection pursuant to the provisions of section 6305 of the Internal Revenue Code of 1954.
+<b>1982</b>—Subsec. (b). Pub. L. 97–248 substituted provisions that the Secretary shall, upon the request of a State having in effect a State plan approved under this part, certify to the Secretary of the Treasury for collection pursuant to the provisions of section 6305 of the Internal Revenue Code of 1954 the amount of any child support obligation (including any support obligation with respect to the parent who is living with the child and receiving aid under the State plan approved under part A of this subchapter) which is assigned to such State or is undertaken to be collected by such State pursuant to section 654(6) of this title for provisions that the Secretary would, upon the request of any State having in effect a State plan approved under this part, certify the amount of any child support obligation assigned to such State, including any support obligation with respect to the parent who is living with the child and receiving aid under the State plan approved under part A of this subchapter (or undertaken to be collected by such State pursuant to section 654(6) of this title) to the Secretary of the Treasury for collection pursuant to the provisions of section 6305 of the Internal Revenue Code of 1954.
 
-1981—Subsec. (a)(1). Pub. L. 97–35, §2332(b)(1)(A), inserted “and support for the spouse (or former spouse) with whom the absent parent's child is living”.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–35, §2332(b)(1)(A), inserted “and support for the spouse (or former spouse) with whom the absent parent's child is living”.
 
 Subsec. (a)(7). Pub. L. 97–35, §2332(b)(1)(B), substituted “child and spousal support” for “child support”.
 
@@ -450,19 +450,19 @@ Subsec. (a)(10)(C). Pub. L. 97–35, §2332(b)(1)(C), inserted “(with separate
 
 Subsec. (b). Pub. L. 97–35, §2332(b)(2), inserted “, including any support obligation with respect to the parent who is living with the child and receiving aid under the State plan approved under part A of this subchapter,” and provision that all reimbursements be credited to the appropriation accounts which bore all or part of the costs involved in making the collections and substituting “court or administrative order” for “court order” and “reimburse the Secretary of the Treasury” for “reimburse the United States”.
 
-1980—Subsec. (a)(10). Pub. L. 96–272 inserted provisions following subpar. (H) setting out certain required information to be contained in reports under subpar. (A).
+<b>1980</b>—Subsec. (a)(10). Pub. L. 96–272 inserted provisions following subpar. (H) setting out certain required information to be contained in reports under subpar. (A).
 
 Subsec. (b). Pub. L. 96–265, §402(a), inserted “(or undertaken to be collected by such State pursuant to section 654(6) of this title)” after “assigned to such State”.
 
 Subsecs. (d), (e). Pub. L. 96–265, §405(c), (d), added subsecs. (d) and (e).
 
-1977—Subsec. (a)(10). Pub. L. 95–30 substituted “not later than three months after the end of each fiscal year, beginning with the year 1977, submit to the Congress a full and complete report on all activities undertaken pursuant to the provisions of this part, which report shall include, but not be limited to, the following” for “not later than June 30 of each year beginning after December 31, 1975, submit to the Congress a report on all activities undertaken pursuant to the provisions of this part”, substituted a colon for a period at end of provisions thus substituted, and added subpars. (A) to (H).
+<b>1977</b>—Subsec. (a)(10). Pub. L. 95–30 substituted “not later than three months after the end of each fiscal year, beginning with the year 1977, submit to the Congress a full and complete report on all activities undertaken pursuant to the provisions of this part, which report shall include, but not be limited to, the following” for “not later than June 30 of each year beginning after December 31, 1975, submit to the Congress a report on all activities undertaken pursuant to the provisions of this part”, substituted a colon for a period at end of provisions thus substituted, and added subpars. (A) to (H).
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–171, title VII, §7303(c), Feb. 8, 2006, 120 Stat. 145, provided that: “The amendments made by this section \[amending this section and section 654 of this title\] shall take effect on October 1, 2006.”
+Pub. L. 109–171, title VII, §7303(c), Feb. 8, 2006, 120 Stat. 145, provided that: “The amendments made bythis section \[amending this section and section 654 of this title\] shall take effect on October 1, 2006.”
 
-Amendment by sections 7304, 7306(a) and 7307(a)(2)(A)(i), (b), (c), of Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided,see section 7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
+Amendment by sections 7304, 7306(a) and 7307(a)(2)(A)(i), (b), (c), of Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section 7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
 
 #### Effective Date of 1999 Amendment
 

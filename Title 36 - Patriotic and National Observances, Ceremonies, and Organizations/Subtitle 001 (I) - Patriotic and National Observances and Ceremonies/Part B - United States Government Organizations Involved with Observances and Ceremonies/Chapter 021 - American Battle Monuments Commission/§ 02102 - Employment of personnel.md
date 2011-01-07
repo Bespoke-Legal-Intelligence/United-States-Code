@@ -76,7 +76,7 @@ This amends section 2102(b) of title 36 to clarify the language.
 
 #### Amendments
 
-1999—Subsec. (a)(1). Pub. L. 106–117 struck out “, United States Code” after “title 5”.
+<b>1999</b>—Subsec. (a)(1). Pub. L. 106–117 struck out “, United States Code” after “title 5”.
 
-1998—Subsec. (b). Pub. L. 105–354 substituted “personnel made available to the Commission” for “designated personnel”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–354 substituted “personnel made available to the Commission” for “designated personnel”.
 

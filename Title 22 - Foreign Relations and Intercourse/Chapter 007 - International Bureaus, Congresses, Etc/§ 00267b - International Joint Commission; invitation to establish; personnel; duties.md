@@ -14,7 +14,7 @@ The International Joint Commission was organized in 1911 pursuant to article VII
 
 #### Water Resources Planning
 
-Jurisdiction, powers, or prerogatives of the International Joint Commission, United States and Canada,unaffected by Water Resources Planning Act, see section 1962–1 of Title 42, The Public Health and Welfare.
+Jurisdiction, powers, or prerogatives of the International Joint Commission, United States and Canada, unaffected by Water Resources Planning Act, see section 1962–1 of Title 42, The Public Health and Welfare.
 
 #### Passamaquoddy Tidal Power Project
 

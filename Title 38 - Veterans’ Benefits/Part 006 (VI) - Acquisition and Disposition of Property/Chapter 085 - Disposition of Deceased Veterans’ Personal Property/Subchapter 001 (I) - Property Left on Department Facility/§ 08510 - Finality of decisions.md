@@ -6,7 +6,7 @@ Decisions by the Secretary under this subchapter shall not be reviewable adminis
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 5210 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5210 of this title as this section.
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 

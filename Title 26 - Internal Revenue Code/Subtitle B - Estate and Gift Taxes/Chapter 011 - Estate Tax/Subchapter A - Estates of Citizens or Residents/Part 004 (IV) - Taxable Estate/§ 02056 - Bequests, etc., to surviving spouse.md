@@ -22,7 +22,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 #### (2) Interest in unidentified assets
 
-&emsp;Where the assets (included in the decedent's gross estate) out of which, or the proceeds of which, an interest passing to the surviving spouse may be satisfied include a particular asset or assets with respect to which no deduction would be allowed if such asset or assets passed from the decedent to such spouse, then the value of such interest passing to such spouse shall, for purposes of subsection (a), be reduced by the aggregate value of such particular assets.
+&emsp;Where the assets (included in the decedent's gross estate) out of which, or the proceeds of which, an interest passing to the surviving spouse may be satisfied include a particular asset or assets with respect to which no deduction would be allowed if such asset or assets passed from the decedent to such spouse, thenthe value of such interest passing to such spouse shall, for purposes of subsection (a), be reduced by the aggregate value of such particular assets.
 
 #### (3) Interest of spouse conditional on survival for limited period
 
@@ -52,7 +52,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 #### (6) Life insurance or annuity payments with power of appointment in surviving spouse
 
-&emsp;In the case of an interest in property passing from the decedent consisting of proceeds under a life insurance, endowment, or annuity contract, if under the terms of the contract such proceeds are payable in installments or are held by the insurer subject to an agreement to pay interest thereon (whether the proceeds, on the termination of any interest payments, are payable in a lump sum or in annual or more frequent installments), and such installment or interest payments are payable annually or at more frequent intervals, commencing not later than 13 months after the decedent's death, and all amounts, or a specific portion of all such amounts, payable during the life of the surviving spouse are payable only to suchspouse, and such spouse has the power to appoint all amounts, or such specific portion, payable under such contract (exercisable in favor of such surviving spouse, or of the estate of such surviving spouse, or in favor of either, whether or not in each case the power is exercisable in favor of others), with no power in any other person to appoint such amounts to any person other than the surviving spouse—
+&emsp;In the case of an interest in property passing from the decedent consisting of proceeds under a life insurance, endowment, or annuity contract, if under the terms of the contract such proceeds are payable in installments or are held by the insurer subject to an agreement to pay interest thereon (whether the proceeds, on the termination of any interest payments, are payable in a lump sum or in annual or more frequent installments), and such installment or interest payments are payable annually or at more frequent intervals, commencing not later than 13 months after the decedent's death, and all amounts, or a specific portion of all such amounts, payable during the life of the surviving spouse are payable only to such spouse, and such spouse has the power to appoint all amounts, or such specific portion, payable under such contract (exercisable in favor of such surviving spouse, or of the estate of such surviving spouse, or in favor of either, whether or not in each case the power is exercisable in favor of others), with no power in any other person to appoint such amounts to any person other than the surviving spouse—
 
 &emsp;&emsp;(A) such amounts shall, for purposes of subsection (a), be considered as passing to the surviving spouse, and
 
@@ -224,11 +224,11 @@ For purposes of this section, an interest in property shall be considered as pas
 
 &emsp;&emsp;If a judicial proceeding described in subparagraph (A)(ii) is commenced with respect to any trust, the period for assessing any deficiency of tax attributable to any failure of such trust to be a qualified domestic trust shall not expire before the date 1 year after the date on which the Secretary is notified that the trust has been changed pursuant to such judicial proceeding or that such proceeding has been terminated.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 392; Pub. L. 89–621, §1(a), Oct. 4, 1966, 80 Stat. 872; Pub. L. 94–455, title XIX, §1902(a)(12)(A), title XX, §§2002(a), 2009(b)(4)(D), (E), Oct. 4, 1976, 90 Stat. 1805, 1854, 1894; Pub. L. 95–600, title VII, §702(g)(1), (2), Nov. 6, 1978, 92 Stat. 2930; Pub. L.97–34, title IV, §403(a)(1), (d)(1), Aug. 13, 1981, 95 Stat. 301, 302; Pub. L. 97–448, title I, §104(a)(2)(A), (8), Jan. 12, 1983, 96 Stat. 2380, 2381; Pub. L. 98–369, div. A, title X, §1027(a), July 18, 1984, 98 Stat. 1031; Pub. L. 100–647, title V, §5033(a)(1), title VI, §6152(a), Nov. 10, 1988, 102 Stat. 3670, 3725; Pub. L. 101–239, title VII, §7815(d)(4)(A), (5), (6), (8), 7816(q), Dec. 19, 1989, 103 Stat. 2415, 2416, 2423; Pub. L. 101–508, title XI, §§11701(<i>l</i>)(1), 11702(g)(5), Nov. 5, 1990, 104 Stat. 1388–513, 1388–516; Pub. L. 102–486, title XIX, §1941(a), Oct. 24, 1992, 106 Stat. 3036; Pub. L. 105–34, title XIII, §1311(a), title XV, §1530(c)(8), Aug. 5, 1997, 111 Stat. 1044, 1078.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 392; Pub. L. 89–621, §1(a), Oct. 4, 1966, 80 Stat. 872; Pub. L. 94–455, title XIX, §1902(a)(12)(A), title XX, §§2002(a), 2009(b)(4)(D), (E), Oct. 4, 1976, 90 Stat. 1805, 1854, 1894; Pub. L. 95–600, title VII, §702(g)(1), (2), Nov. 6, 1978, 92 Stat. 2930; Pub. L. 97–34, title IV, §403(a)(1), (d)(1), Aug. 13, 1981, 95 Stat. 301, 302; Pub. L. 97–448, title I, §104(a)(2)(A), (8), Jan. 12, 1983, 96 Stat. 2380, 2381; Pub. L. 98–369, div. A, title X, §1027(a), July 18, 1984, 98 Stat. 1031; Pub. L. 100–647, title V, §5033(a)(1), title VI, §6152(a), Nov. 10, 1988, 102 Stat. 3670, 3725; Pub. L. 101–239, title VII, §7815(d)(4)(A), (5), (6), (8), 7816(q), Dec. 19, 1989, 103 Stat. 2415, 2416, 2423; Pub. L. 101–508, title XI, §§11701(<i>l</i>)(1), 11702(g)(5), Nov. 5, 1990, 104 Stat. 1388–513, 1388–516; Pub. L. 102–486, title XIX, §1941(a), Oct. 24, 1992, 106 Stat. 3036; Pub. L. 105–34, title XIII, §1311(a), title XV, §1530(c)(8), Aug. 5, 1997, 111 Stat. 1044, 1078.)
 
 #### Amendments
 
-1997—Subsec. (b)(7)(C). Pub. L. 105–34, §1311(a), inserted “(or, in the case of an interest in an annuity arising under the community property laws of a State, included in the gross estate of the decedent under section 2033)” after “section 2039”.
+<b>1997</b>—Subsec. (b)(7)(C). Pub. L. 105–34, §1311(a), inserted “(or, in the case of an interest in an annuity arising under the community property laws of a State, included in the gross estate of the decedent under section 2033)” after “section 2039”.
 
 Subsec. (b)(8). Pub. L. 105–34, §1530(c)(8), amended par. (8) generally. Prior to amendment, par. (8) read as follows:
 
@@ -252,13 +252,13 @@ Noncharitable beneficiary.—The term ‘noncharitable beneficiary’ means any 
 
 Qualified charitable remainder trust.—The term ‘qualified charitable remainder trust’ means a charitable remainder annuity trust or charitable remainder unitrust (described in section 664).”
 
-1992—Subsec. (b)(10). Pub. L. 102–486 added par. (10).
+<b>1992</b>—Subsec. (b)(10). Pub. L. 102–486 added par. (10).
 
-1990—Subsec. (d)(3). Pub. L. 101–508, §11702(g)(5), substituted “section 2056A(b)(7)” for “section 2056A(b)(6)”.
+<b>1990</b>—Subsec. (d)(3). Pub. L. 101–508, §11702(g)(5), substituted “section 2056A(b)(7)” for “section 2056A(b)(6)”.
 
 Subsec. (d)(4), (5). Pub. L. 101–508, §11701(<i>l</i>)(1), redesignated par. (4) relating to reformations permitted as par. (5).
 
-1989—Subsec. (b)(7)(C). Pub. L. 101–239, §7816(q), inserted “included in the gross estate of the decedent under section 2039” after “an annuity”.
+<b>1989</b>—Subsec. (b)(7)(C). Pub. L. 101–239, §7816(q), inserted “included in the gross estate of the decedent under section 2039” after “an annuity”.
 
 Subsec. (d)(2)(B). Pub. L. 101–239, §7815(d)(4)(A), substituted “Special rule” for “Property passing outside of probate estate” in heading and amended text generally. Prior to amendment, text read as follows: “If any property passes from the decedent to the surviving spouse of the decedent outside of the decedent's probate estate, for purposes of subparagraph (A), such property shall be treated as passing to such spouse in a qualified domestic trust if such property is transferred to such a trust before the day on which the return of the tax imposed by section 2001 is made.”
 
@@ -268,25 +268,25 @@ Subsec. (d)(4). Pub. L. 101–239, §7815(d)(8), added par. (4) relating to refo
 
 Pub. L. 101–239, §7815(d)(5), added par. (4) relating to special rule where resident spouse becomes citizen.
 
-1988—Subsec. (b)(7)(C). Pub. L. 100–647, §6152(a), added subpar. (C).
+<b>1988</b>—Subsec. (b)(7)(C). Pub. L. 100–647, §6152(a), added subpar. (C).
 
 Subsec. (d). Pub. L. 100–647, §5033(a)(1), added subsec. (d).
 
-1984—Subsec. (b)(7)(B)(ii)(I). Pub. L. 98–369 inserted “, or has a usufruct interest for life in the property”.
+<b>1984</b>—Subsec. (b)(7)(B)(ii)(I). Pub. L. 98–369 inserted “, or has a usufruct interest for life in the property”.
 
-1983—Subsec. (b)(7)(B)(ii). Pub. L. 97–448, §104(a)(8), inserted provision that an annuity shall be treated in a manner similar to an income interest in property (regardless of whether the property from which the annuity is payable can be separately identified).
+<b>1983</b>—Subsec. (b)(7)(B)(ii). Pub. L. 97–448, §104(a)(8), inserted provision that an annuity shall be treated in a manner similar to an income interest in property (regardless of whether the property from which the annuity is payable can be separately identified).
 
 Subsec. (b)(9). Pub. L. 97–448, §104(a)(2)(A), added par. (9).
 
-1981—Subsec. (a). Pub. L. 97–34, §403(a)(1)(B), substituted “subsection (b)” for “subsections (b) and (c)”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–34, §403(a)(1)(B), substituted “subsection (b)” for “subsections (b) and (c)”.
 
 Subsec. (b)(7), (8). Pub. L. 97–34, §403(d)(1), added pars. (7) and (8).
 
 Subsecs. (c), (d). Pub. L. 97–34, §403(a)(1)(A), redesignated subsec. (d) as (c) and struck out former subsec. (c) relating to limitation on aggregate of deductions.
 
-1978—Subsec. (c)(1)(B). Pub. L. 95–600 inserted in cl. (ii) “required to be included in a gift tax return” after “with respect to any gift” and inserted following cl. (ii) “For purposes of this subparagraph, a gift which is includible in the gross estate of the donor by reason of section 2035 shall not be taken into account”.
+<b>1978</b>—Subsec. (c)(1)(B). Pub. L. 95–600 inserted in cl. (ii) “required to be included in a gift tax return” after “with respect to any gift” and inserted following cl. (ii) “For purposes of this subparagraph, a gift which is includible in the gross estate of the donor by reason of section 2035 shall not be taken into account”.
 
-1976—Subsec. (a). Pub. L. 94–455, §2009(b)(4)(E), substituted “subsections (b) and (c)” for “subsections (b), (c), and (d)”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §2009(b)(4)(E), substituted “subsections (b) and (c)” for “subsections (b), (c), and (d)”.
 
 Subsec. (c)(1). Pub. L. 94–455, §2002(a), designated existing provisions as subpar. (A), substituted provisions that the aggregate amount of the deductions allowed under this section (computed without regard to this subsection) shall not exceed the greater of $250,000 or 50 percent of the value of the adjusted gross estate as defined in par. (2) for provisions that the aggregate amount of the deductions allowed under this section (computed without regard to this subsection) shall not exceed 50 percent of the value of the adjusted gross estate as defined in par. (2), and added subpars. (B) and (C).
 
@@ -294,7 +294,7 @@ Subsec. (c)(2)(B). Pub. L. 94–455, §1902(a)(12)(A), struck out “Territory,�
 
 Subsecs. (d), (e). Pub. L. 94–455, §2009(b)(4)(D), redesignated subsec. (e) as (d). Former subsec. (d), which related to disclaimers by the surviving spouse or by other persons, was struck out.
 
-1966—Subsec. (d)(2). Pub. L. 89–621 provided that if the disclaimer is made by the person before the date prescribed for the filing of the estate tax return and if the person does not accept the interest before making the disclaimer, the interest shall, for purposes of this section, be considered as passing from the decedent to the surviving spouse.
+<b>1966</b>—Subsec. (d)(2). Pub. L. 89–621 provided that if the disclaimer is made by the person before the date prescribed for the filing of the estate tax return and if the person does not accept the interest before making the disclaimer, the interest shall, for purposes of this section, be considered as passing from the decedent to the surviving spouse.
 
 #### Effective Date of 1997 Amendment
 
@@ -320,7 +320,7 @@ Exception.—The amendment made by subsection (a) shall not apply to any interes
 
 &emsp;&emsp;“(i) the decedent dies on or before the date 3 years after such date of enactment, or
 
-&emsp;&emsp;“(ii) the decedent was, on such date of enactment, under a mental disability to change the dispositionof his property and did not regain his competence to dispose of such property before the date of his death.
+&emsp;&emsp;“(ii) the decedent was, on such date of enactment, under a mental disability to change the disposition of his property and did not regain his competence to dispose of such property before the date of his death.
 
 > &emsp;The preceding sentence shall not apply if such will (or revocable trust) is amended at any time after such date of enactment in any respect which will increase the amount of the interest which so passes or alters the terms of the transfer by which the interest so passes.
 
@@ -356,7 +356,7 @@ In general.—Except as otherwise provided in this subsection—
 
 “(2)
 
-Not to apply to extent inconsistent with prior return.—In the case of any estate or gift tax return filed before the date of the enactment of this Act \[Nov. 10, 1988\], the amendments made by this section \[amending this section and section 2523 of this title\] shall not apply to the extent such amendments would be inconsistent with the treatment of the annuity on such return unless the executor or donor (as the case may be) otherwise elects under this paragraph before the day 2 years after the date of the enactment of this Act.
+Not to apply to extent inconsistent with prior return.—In the case of any estate or gift tax returnfiled before the date of the enactment of this Act \[Nov. 10, 1988\], the amendments made by this section \[amending this section and section 2523 of this title\] shall not apply to the extent such amendments would be inconsistent with the treatment of the annuity on such return unless the executor or donor (as the case may be) otherwise elects under this paragraph before the day 2 years after the date of the enactment of this Act.
 
 “(3)
 
@@ -428,5 +428,5 @@ Section 7815(d)(14) of Pub. L. 101–239 provided that: “In the case of the es
 
 #### Disclaimer of Interest Arising From Estates of Persons Dying Before Oct. 4, 1966, Having Estate Tax Return Filing Date On or After Jan. 1, 1965
 
-Section 1(c) of Pub. L. 89–621 provided that in the case of a decedent dying before Oct. 4, 1966, for which the date prescribed for filing estate tax return was on or after Jan. 1, 1965, and as a result of a disclaimer, the surviving spouse became entitled to receive such interest, then such interest was to be considered as having passed from the decedent to the surviving spouse under certain conditions, with a limit on the amount of deductions allowed.
+Section 1(c) of Pub. L. 89–621 provided that in the case of a decedent dying before Oct. 4, 1966, for which thedate prescribed for filing estate tax return was on or after Jan. 1, 1965, and as a result of a disclaimer, the surviving spouse became entitled to receive such interest, then such interest was to be considered as having passed from the decedent to the surviving spouse under certain conditions, with a limit on the amount of deductions allowed.
 

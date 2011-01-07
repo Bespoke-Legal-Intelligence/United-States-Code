@@ -16,7 +16,7 @@ There are authorized to be appropriated to carry out this section not more than 
 
 #### Amendments
 
-1996—Pub. L. 104–182, §501(f)(11), made technical amendment to section catchline and subsec. (a) designation.
+<b>1996</b>—Pub. L. 104–182, §501(f)(11), made technical amendment to section catchline and subsec. (a) designation.
 
 Subsec. (b). Pub. L. 104–182, §501(d), substituted “by the State” for “as by the State”.
 

@@ -30,5 +30,5 @@ The Secretary may not make payments to a State under section 300d–11(a) of thi
 
 #### Amendments
 
-2007—Pub. L. 110–23 amended section generally. Prior to amendment, section related to requirement of submission to Secretary of trauma plan and certain information for fiscal year 1991 and subsequent fiscal years.
+<b>2007</b>—Pub. L. 110–23 amended section generally. Prior to amendment, section related to requirement of submission to Secretary of trauma plan and certain information for fiscal year 1991 and subsequent fiscal years.
 

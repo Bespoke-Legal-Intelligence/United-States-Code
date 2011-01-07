@@ -58,7 +58,7 @@ In subsection (c), 10:1409 (words after 3d semicolon) is omitted as executed. Th
 
 #### Amendments
 
-1960—Subsec. (b). Pub. L. 86–582, §1(1)(A), substituted “Except as provided in subsection (d), no” for “No.”
+<b>1960</b>—Subsec. (b). Pub. L. 86–582, §1(1)(A), substituted “Except as provided in subsection (d), no” for “No.”
 
 Subsec. (d). Pub. L. 86–582, §1(1)(B), added subsec. (d).
 

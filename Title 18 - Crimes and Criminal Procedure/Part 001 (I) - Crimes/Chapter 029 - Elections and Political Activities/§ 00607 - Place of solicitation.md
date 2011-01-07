@@ -32,13 +32,13 @@ Section 302(e) of the Federal Election Campaign Act of 1971, referred to in subs
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–155, §302(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “It shall be unlawful for any person to solicitor receive any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 in any room or building occupied in the discharge of official duties by any person mentioned in section 603, or in any navy yard, fort, or arsenal. Any person who violates this section shall be fined under this title or imprisoned not more than three years, or both.”
+<b>2002</b>—Subsec. (a). Pub. L. 107–155, §302(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “It shall be unlawful for any person to solicit or receive any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 in any room or building occupied in the discharge of official duties by any person mentioned in section 603, or in any navy yard, fort, or arsenal. Any person who violates this section shall be fined under this title or imprisoned not more than three years, or both.”
 
 Subsec. (b). Pub. L. 107–155, §302(2), inserted “or Executive Office of the President” after “Congress”.
 
-1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-1980—Pub. L. 96–187 substituted provisions relating to the place of solicitation for provisions relating to the making of political contributions.
+<b>1980</b>—Pub. L. 96–187 substituted provisions relating to the place of solicitation for provisions relating to the making of political contributions.
 
 #### Effective Date of 2002 Amendment
 

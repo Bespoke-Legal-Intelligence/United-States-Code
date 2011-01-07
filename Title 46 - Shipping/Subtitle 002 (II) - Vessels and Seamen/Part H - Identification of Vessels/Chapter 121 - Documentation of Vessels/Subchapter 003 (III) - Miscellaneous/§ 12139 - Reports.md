@@ -50,9 +50,9 @@ In subsection (b)(1), the word “Secretary” is substituted for “Secretary o
 
 #### Amendments
 
-2008—Pub. L. 110–181, §3525(b), repealed Pub. L. 109–241, §308. See 2006 Amendment note below.
+<b>2008</b>—Pub. L. 110–181, §3525(b), repealed Pub. L. 109–241, §308. See 2006 Amendment note below.
 
-Subsec. (a). Pub. L. 110–181, §3525(a)(2), incorporated the substance of the amendment by Pub. L. 109–241, §308, into this section by substituting “charterers, and mortgagees” for “and charterers”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Subsec. (a). Pub. L. 110–181, §3525(a)(2), incorporated the substance of the amendment by Pub. L. 109–241, §308, into this section by substituting “charterers, and mortgagees” for “and charterers”. See 2006 Amendmentnote below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-2006—Pub. L. 109–241, §308, which directed the amendment of former section 12120 of this title from which subsec. (a) of this section was derived, was repealed by Pub. L. 110–181, §3525(b). See 2008 Amendment note for subsec. (a) and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–241, §308, which directed the amendment of former section 12120 of this title from which subsec. (a) of this section was derived, was repealed by Pub. L. 110–181, §3525(b). See 2008 Amendment note for subsec. (a) and Historical and Revision notes above.
 

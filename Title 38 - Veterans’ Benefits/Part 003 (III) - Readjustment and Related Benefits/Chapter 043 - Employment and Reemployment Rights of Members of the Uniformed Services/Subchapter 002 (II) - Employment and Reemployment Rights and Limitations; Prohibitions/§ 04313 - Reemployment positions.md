@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(B) if not employed under subparagraph (A), in a position which is the nearest approximation to a position referred to in subparagraph (A) in terms of seniority, status, and pay consistent with circumstances of such person's case.
 
-&emsp;(4) In the case of a person who (A) is not qualified to be employed in (i) the position of employment in which the person would have been employed if the continuous employment of such person with the employer had not been interrupted by such service, or (ii) in the position of employment in which such person was employed on the date of the commencement of the service in the uniformed services for any reason (other than disability incurred in, or aggravated during, service in the uniformed services), and (B) cannot become qualified with reasonable efforts by the employer, in any other position which is the nearest approximation to a position referred to first in clause (A)(i) and then in clause (A)(ii) which such person is qualified to perform, with full seniority.
+&emsp;(4) In the case of a person who (A) is not qualified to be employed in (i) the position of employment in which the person would have been employed if the continuous employment of such person with the employer had not been interrupted by such service, or (ii) in the position of employment in which such person was employed on the date of the commencement of the service in the uniformed services for any reason (other than disability incurred in, or aggravated during, service in the uniformed services), and (B) cannot become qualifiedwith reasonable efforts by the employer, in any other position which is the nearest approximation to a position referred to first in clause (A)(i) and then in clause (A)(ii) which such person is qualified to perform, with full seniority.
 
 (b)(1) If two or more persons are entitled to reemployment under section 4312 in the same position of employment and more than one of them has reported for such reemployment, the person who left the position first shall have the prior right to reemployment in that position.
 
@@ -38,7 +38,7 @@ A prior section 4313 was renumbered section 7613 of this title.
 
 #### Amendments
 
-1996—Subsec. (a)(4). Pub. L. 104–275 substituted “uniformed services” for “uniform services” in cl. (A)(ii) and “which is the nearest approximation to a position referred to first in clause (A)(i) and then in clause (A)(ii) which” for “of lesser status and pay which” in cl. (B).
+<b>1996</b>—Subsec. (a)(4). Pub. L. 104–275 substituted “uniformed services” for “uniform services” in cl. (A)(ii) and “which is the nearest approximation to a position referred to first in clause (A)(i) and then in clause (A)(ii) which” for “of lesser status and pay which” in cl. (B).
 
 #### Effective Date of 1996 Amendment
 

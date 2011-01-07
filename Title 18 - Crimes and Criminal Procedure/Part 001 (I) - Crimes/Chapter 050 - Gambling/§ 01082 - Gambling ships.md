@@ -6,7 +6,7 @@
 
 &emsp;(2) in pursuance of the operation of any gambling establishment on any gambling ship, to conduct or deal any gambling game, or to conduct or operate any gambling device, or to induce, entice, solicit, or permit any person to bet or play at any such establishment,
 
-> if such gambling ship is on the high seas, or is an American vessel or otherwise under or within the jurisdiction of the United States, and is not within the jurisdiction of any State.
+> if such gambling ship is on the high seas, or is an American vessel or otherwise under or withinthe jurisdiction of the United States, and is not within the jurisdiction of any State.
 
 (b) Whoever violates the provisions of subsection (a) of this section shall be fined under this title or imprisoned not more than two years, or both.
 
@@ -16,5 +16,5 @@
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 

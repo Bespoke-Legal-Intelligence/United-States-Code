@@ -1,6 +1,6 @@
 ### §§1791 to 1791h. Repealed. Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059
 
-Section 1791, Pub. L. 97–300, title V, §501, as added Pub. L. 100–628, title VII, §712(a)(3), Nov. 7, 1988, 102 Stat. 3248; amended Pub. L. 102–367, title V, §501, Sept. 7, 1992, 106 Stat. 1096; Pub. L. 104–193, title I, §110(n)(14), Aug. 22, 1996, 110 Stat. 2174, stated purpose of jobs for employable dependent individuals incentive bonus program.
+Section 1791, Pub. L. 97–300, title V, §501, as added Pub. L. 100–628, title VII, §712(a)(3), Nov. 7, 1988, 102 Stat. 3248; amended Pub. L. 102–367, title V, §501, Sept. 7, 1992, 106 Stat. 1096; Pub. L. 104–193, title I, §110(n)(14),Aug. 22, 1996, 110 Stat. 2174, stated purpose of jobs for employable dependent individuals incentive bonus program.
 
 A prior section 501 of Pub. L. 97–300, which enacted sections 49e, 49f, 49<i>l</i>, and 49<i>l</i>–1 of this title, amended sections 49 to 49b, 49d, and 49g to 49j of this title, and enacted provisions set out as a note under section 49 of this title, was renumbered section 601 of Pub. L. 97–300.
 

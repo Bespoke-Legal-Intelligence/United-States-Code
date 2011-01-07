@@ -34,7 +34,7 @@
 
 &emsp;(B) upon receipt by such person of a Federal contract, grant, loan, or cooperative agreement or of a commitment providing for the United States to insure or guarantee a loan, unless such person previously filed a declaration with respect to such contract, grant, loan, cooperative agreement or commitment pursuant to clause (A); and
 
-&emsp;(C) at the end of each calendar quarter in which there occurs any event that materiallyaffects the accuracy of the information contained in any declaration previously filed by such person in connection with such Federal contract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
+&emsp;(C) at the end of each calendar quarter in which there occurs any event that materially affects the accuracy of the information contained in any declaration previously filed by such person in connection with such Federalcontract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
 
 (5) Any person who requests or receives from a person referred to in paragraph (1) of this subsection a subcontract under a Federal contract, a subgrant or contract under a Federal grant, a contract or subcontract to carry out any purpose for which a particular Federal loan is made, or a contract under a Federal cooperative agreement shall be required to file with the person referred to in such paragraph a written declaration referred to in clause (A) of such paragraph.
 
@@ -140,13 +140,13 @@ Another section 1352 was renumbered section 1353 of this title.
 
 #### Amendments
 
-1996—Subsec. (b)(2). Pub. L. 104–106, §4301(a)(2), which directed amendment of par. (2) by inserting “and” after the semicolon at the end of subpar. (A) and by striking out subpar. (C), was not executed because subsec. (b)(2) did not contain a subpar. (C) subsequent to amendment by Pub. L. 104–65, §10(a)(1). See 1995 Amendment note below.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–106, §4301(a)(2), which directed amendment of par. (2) by inserting “and” after the semicolon at the end of subpar. (A) and by striking out subpar. (C), was not executed because subsec. (b)(2) did not contain a subpar. (C) subsequent to amendment by Pub. L. 104–65, §10(a)(1). See 1995 Amendment note below.
 
 Subsec. (b)(6)(A). Pub. L. 104–106, §1064(c)(1), which directed insertion of “(other than the Secretary of Defense and Secretary of a military department)” after “The head of each agency”, could not be executed because subsec. (b)(6) did not contain a subpar. (A) subsequent to amendment by Pub. L. 104–65, §10(a)(3). See 1995 Amendment note below.
 
 Subsec. (d)(1). Pub. L. 104–106, §1064(c)(2), which directed the insertion of “(other than in the case of the Department of Defense or a military department)” after “paragraph (3) of this subsection”, could not be executed because subsec. (d)(1) did not contain phrase “paragraph (3) of this subsection” subsequent to amendment by Pub. L. 104–65, §10(b). See 1995 Amendment note below.
 
-1995—Subsec. (b)(2). Pub. L. 104–65, §10(a)(1), added subpars. (A) and (B) and struck out former subpars. (A) to (C) which read as follows:
+<b>1995</b>—Subsec. (b)(2). Pub. L. 104–65, §10(a)(1), added subpars. (A) and (B) and struck out former subpars. (A) to (C) which read as follows:
 
 “(A) a statement setting forth whether such person—
 
@@ -182,17 +182,17 @@ Subsec. (b)(6), (7). Pub. L. 104–65, §10(a)(3), redesignated par. (7) as (6),
 
 Subsecs. (d) to (h). Pub. L. 104–65, §10(b), and Pub. L. 104–66, §3001(b), amended section identically, redesignating subsecs. (e) to (h) as (d) to (g), respectively, and striking out former subsec. (d) which directed the Inspector General or official of each agency to submit annual reports to Congress on the compliance of each agency with the requirements imposed by this section.
 
-1994—Subsec. (c). Pub. L. 103–272, §4(f)(1)(F)(i), substituted “(c)(1) Any person” for “(C)(1) Any person”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–272, §4(f)(1)(F)(i), substituted “(c)(1) Any person” for “(C)(1) Any person”.
 
 Subsec. (e)(1)(C). Pub. L. 103–272, §4(f)(1)(F)(ii), substituted “appropriated” for “appropirated” and inserted period at end.
 
 Subsec. (h)(7). Pub. L. 103–272, §4(f)(1)(F)(iii), inserted periods after “agency” and “guaranty”.
 
-1990—Subsec. (e)(2)(C). Pub. L. 101–512 inserted “or the single family maximum mortgage limit for affected programs, whichever is greater,” after “$150,000,”.
+<b>1990</b>—Subsec. (e)(2)(C). Pub. L. 101–512 inserted “or the single family maximum mortgage limit for affected programs, whichever is greater,” after “$150,000,”.
 
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2302 of Title 10, Armed Forces.
 
 #### Effective Date of 1995 Amendment
 

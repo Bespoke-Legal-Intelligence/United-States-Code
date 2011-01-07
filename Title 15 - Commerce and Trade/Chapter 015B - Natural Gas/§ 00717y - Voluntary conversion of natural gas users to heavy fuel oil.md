@@ -54,7 +54,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the price under such contract for natural gas, subject to such contract, delivered during such period.
 
-> &emsp;For purposes of subparagraph (A), the reasonable costs directly associated with the use ofheavy petroleum fuel oil as a fuel shall include an allowance for the amortization, over the remaining useful life, of the undepreciated value of depreciable assets located on the premises containing such facility, which assets were directly associated with the use of natural gas and are not usable in connection with the use of such heavy petroleum fuel oil.
+> &emsp;For purposes of subparagraph (A), the reasonable costs directly associated with the use of heavy petroleum fuel oil as a fuel shall include an allowance for the amortization, over the remaining useful life, of the undepreciated value of depreciable assets located on the premises containing such facility, which assets were directly associated with the use of natural gas and are not usable in connection with the use of such heavy petroleum fuel oil.
 
 &emsp;(3) The term “just compensation”, when used with respect to any intrastate pipeline which would have transported or distributed natural gas with respect to which contractual interests are transferred pursuant to the rule required under subsection (a)(1) of this section, means an amount equal to any loss of revenue, during the remaining period of the contract with respect to which contractual interests are transferred pursuant to the rule required under subsection (a)(1) of this section, to the extent such loss—
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 (3) Nothing in this section shall exempt from the jurisdiction of the Commission under the Natural Gas Act \[15 U.S.C. 717 et seq.\] any transportation in interstate commerce of natural gas, any sale in interstate commerce for resale of natural gas, or any person engaged in such transportation or such sale to the extent such transportation, sale, or person is subject to the jurisdiction of the Commission under such Act without regard to the transfer of contractual interests pursuant to the rule required under subsection (a)(1) of this section.
 
-(4) Nothing in this section shall exempt any person from any obligation to obtain a certificate of public convenience and necessity for the sale in interstate commerce for resale or the transportation in interstate commerce of natural gas with respect to which contractual interests are transferred pursuant to the rule required under subsection (a)(1) of this section.
+(4) Nothing in this section shall exempt any person from any obligation to obtain a certificate of public convenience and necessity for thesale in interstate commerce for resale or the transportation in interstate commerce of natural gas with respect to which contractual interests are transferred pursuant to the rule required under subsection (a)(1) of this section.
 
 #### (g) Volume limitation
 

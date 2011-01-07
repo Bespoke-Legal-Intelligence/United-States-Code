@@ -44,7 +44,7 @@ In General.—This Act \[enacting this chapter\] shall take effect 90 days after
 
 “(b)
 
-Application.—This Act applies to any claim for harm caused by an act or omission of a volunteer wherethat claim is filed on or after the effective date of this Act but only if the harm that is the subject of the claim or the conduct that caused such harm occurred after such effective date.”
+Application.—This Act applies to any claim for harm caused by an act or omission of a volunteer where that claim is filed on or after the effective date of this Act but only if the harm that is the subject of the claim or the conduct that caused such harm occurred after such effective date.”
 
 #### Short Title
 

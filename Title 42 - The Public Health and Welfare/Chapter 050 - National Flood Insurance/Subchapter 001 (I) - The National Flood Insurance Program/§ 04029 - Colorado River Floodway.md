@@ -10,7 +10,7 @@ No new flood insurance coverage may be provided under this chapter on or after a
 
 #### (c) Establishment of temporary boundaries
 
-The Secretary of the Interior may by rule after notice and comment pursuant to section 553 of title 5 establish temporary Floodwayboundaries to be in effect until the maps required by section 1600c(b)(2) <sup>1</sup> of title 43 are filed, for the purpose of enforcing subsections (b) and (d) of this section.
+The Secretary of the Interior may by rule after notice and comment pursuant to section 553 of title 5 establish temporary Floodway boundaries to be in effect until the maps required by section 1600c(b)(2) <sup>1</sup> of title 43 are filed, for the purpose of enforcing subsections (b) and (d) of this section.
 
 #### (d) Loans by federally supervised, approved, regulated, or insured financial institutions
 
@@ -28,9 +28,9 @@ This chapter, referred to in subsec. (b), was in the original a reference to “
 
 #### Amendments
 
-1994—Subsec. (d). Pub. L. 103–325 substituted “regulated lending institution or Federal agency lender” for “federally supervised, approved, regulated or insured financial institution”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–325 substituted “regulated lending institution or Federal agency lender” for “federally supervised, approved, regulated or insured financial institution”.
 
-1988—Pub. L. 100–242 inserted section catchline.
+<b>1988</b>—Pub. L. 100–242 inserted section catchline.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

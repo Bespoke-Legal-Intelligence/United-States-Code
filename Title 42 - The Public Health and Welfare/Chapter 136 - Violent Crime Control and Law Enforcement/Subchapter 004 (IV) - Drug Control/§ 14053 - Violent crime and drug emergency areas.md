@@ -28,7 +28,7 @@ The President shall not limit declarations made under this section to highly pop
 
 #### (e) Requirements
 
-As part of a request for a declaration under this section, and as a prerequisite to Federalviolent crime or drug emergency assistance under this section, the chief executive officer of a State or local government shall—
+As part of a request for a declaration under this section, and as a prerequisite to Federal violent crime or drug emergency assistance under this section, the chief executive officer of a State or local government shall—
 
 &emsp;(1) take appropriate action under State or local law and furnish information on the nature and amount of State and local resources that have been or will be committed to alleviating the major violent crime- or drug-related emergency;
 
@@ -44,7 +44,7 @@ The Attorney General shall review a request submitted pursuant to this section, 
 
 The President may—
 
-&emsp;(1) direct any Federal agency, with or without reimbursement, to utilize its authorities and the resources granted to it under Federal law (including personnel, equipment, supplies, facilities, financial assistance, and managerial, technical, and advisory services) in support of State and local assistance efforts; and
+&emsp;(1) direct any Federal agency, with or without reimbursement, to utilize its authorities and the resources granted to it under Federallaw (including personnel, equipment, supplies, facilities, financial assistance, and managerial, technical, and advisory services) in support of State and local assistance efforts; and
 
 &emsp;(2) provide technical and advisory assistance, including communications support and law enforcement-related intelligence information.
 

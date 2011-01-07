@@ -60,7 +60,7 @@ A professional corps program described in section 12572(c)(1)(D) of this title t
 
 &emsp;&emsp;(A) make child care available for children of each full-time participant who needs child care in order to participate in a national service program carried out or supported by the recipient using the assistance; or
 
-&emsp;&emsp;(B) provide a child care allowance to each full-time participant in a national service program who needs such assistance in order to participate in the program.
+&emsp;&emsp;(B) provide a child care allowance to each full-time participant in a national serviceprogram who needs such assistance in order to participate in the program.
 
 #### (2) Guidelines
 
@@ -84,7 +84,7 @@ A prior section 140 of Pub. L. 101–610 was set out as a note under section 125
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–13, §1315(1)(A), substituted “paragraphs (2) and (3)” for “paragraph (3)”.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–13, §1315(1)(A), substituted “paragraphs (2) and (3)” for “paragraph (3)”.
 
 Subsec. (a)(2), (3). Pub. L. 111–13, §1315(1)(B)–(D), added par. (3), redesignated former par. (3) as (2), and struck out former par. (2). Text of former par. (2) read as follows: “The amount of the annual living allowance provided under paragraph (1) that may be paid using assistance provided under section 12571 of this title and using any other Federal funds shall not exceed 85 percent of the total average annual provided to VISTA volunteers under section 4955 of this title.”
 

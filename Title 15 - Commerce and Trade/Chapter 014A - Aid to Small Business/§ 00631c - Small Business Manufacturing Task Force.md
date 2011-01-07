@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Administrator of the Small Business Administration (referred to in this subtitle <sup>1</sup> as the “Administrator”) shall establish a Small Business Manufacturing Task Force (referred to inthis section as the “Task Force”) to address the concerns of small manufacturers.
+The Administrator of the Small Business Administration (referred to in this subtitle <sup>1</sup> as the “Administrator”) shall establish a Small Business Manufacturing Task Force (referred to in this section as the “Task Force”) to address the concerns of small manufacturers.
 
 #### (b) Chair
 

@@ -20,7 +20,7 @@ Section 7935, Pub. L. 89–10, title IX, §9305, as added Pub. L. 103–382, tit
 
 Section 7936, Pub. L. 89–10, title IX, §9306, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3808, related to Alaska Native student enrichment programs.
 
-Section 7937, Pub. L. 89–10, title IX, §9307, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3809, set forth administrative provisions. See section 7545 of this title.
+Section 7937, Pub. L. 89–10, title IX, §9307, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3809,set forth administrative provisions. See section 7545 of this title.
 
 Section 7938, Pub. L. 89–10, title IX, §9308, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3809, defined terms. See section 7546 of this title.
 

@@ -6,7 +6,7 @@ For purposes of this chapter:
 
 &emsp;(2) The term “affected Indian tribe” means any Indian tribe—
 
-&emsp;&emsp;(A) within whose reservation boundaries a monitored retrievable storage facility, test and evaluation facility, or a repository forhigh-level radioactive waste or spent fuel is proposed to be located;
+&emsp;&emsp;(A) within whose reservation boundaries a monitored retrievable storage facility, test and evaluation facility, or a repository for high-level radioactive waste or spent fuel is proposed to be located;
 
 &emsp;&emsp;(B) whose federally defined possessory or usage rights to other lands outside of the reservation's boundaries arising out of congressionally ratified treaties may be substantially and adversely affected by the locating of such a facility: <i>Provided</i>, That the Secretary of the Interior finds, upon the petition of the appropriate governmental officials of the tribe, that such effects are both substantial and adverse to the tribe; <sup>1</sup>
 
@@ -76,7 +76,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(A) siting research activities with respect to a test and evaluation facility at a candidate site; and
 
-&emsp;&emsp;(B) activities, whether in the laboratory or in the field, undertaken to establish the geologic condition and the ranges of the parameters of a candidate site relevant to the location of a repository, including borings, surface excavations, excavations of exploratoryshafts, limited subsurface lateral excavations and borings, and in situ testing needed to evaluate the suitability of a candidate site for the location of a repository, but not including preliminary borings and geophysical testing needed to assess whether site characterization should be undertaken.
+&emsp;&emsp;(B) activities, whether in the laboratory or in the field, undertaken to establish the geologic condition and the ranges of the parameters of a candidate site relevant to the location of a repository, including borings, surface excavations, excavations of exploratory shafts, limited subsurface lateral excavations and borings, and in situ testing needed to evaluate the suitability of a candidate site for the location of a repository, but not including preliminary borings and geophysical testing needed to assess whether site characterization should be undertaken.
 
 &emsp;(22) The term “siting research” means activities, including borings, surface excavations, shaft excavations, subsurface lateral excavations and borings, and in situ testing, to determine the suitability of a site for a test and evaluation facility.
 
@@ -116,11 +116,11 @@ Section 10156(c) of this title, referred to in par. (26), was in the original a 
 
 #### Amendments
 
-1987—Pars. (30) to (34). Pub. L. 100–202 and Pub. L. 100–203 amended section identically adding pars. (30) to (34).
+<b>1987</b>—Pars. (30) to (34). Pub. L. 100–202 and Pub. L. 100–203 amended section identically adding pars. (30) to (34).
 
 #### Short Title of 1987 Amendment
 
-Section 101(d) \[title III\] of Pub. L. 100–202 and section 5001 of title V of Pub. L. 100–203 provided that: “This subtitle \[subtitle A (§§5001–5065) of title V, enacting sections 10162, 10163, 10164, 10165, 10166, 10167, 10168, 10169, 10172, 10172a, 10173, 10173a, 10173b, 10173c, 10174, 10174a, 10175, 10204, 10241, 10242, 10243, 10244, 10245, 10246, 10247, 10248, 10249, 10250, 10251, 10261, 10262, 10263, 10264, 10265, 10266, 10267, 10268, 10269, and 10270 of this title, amending this section and sections 10132, 10133, 10134, 10136, 10137, and 10138 of this title and enacting provisions set out as a note under section 5841 of this title\] may be cited as the ‘Nuclear Waste Policy Amendments Act of 1987’.”
+Section 101(d) \[title III\] of Pub. L. 100–202 and section 5001 of title V of Pub. L. 100–203 provided that: “Thissubtitle \[subtitle A (§§5001–5065) of title V, enacting sections 10162, 10163, 10164, 10165, 10166, 10167, 10168, 10169, 10172, 10172a, 10173, 10173a, 10173b, 10173c, 10174, 10174a, 10175, 10204, 10241, 10242, 10243, 10244, 10245, 10246, 10247, 10248, 10249, 10250, 10251, 10261, 10262, 10263, 10264, 10265, 10266, 10267, 10268, 10269, and 10270 of this title, amending this section and sections 10132, 10133, 10134, 10136, 10137, and 10138 of this title and enacting provisions set out as a note under section 5841 of this title\] may be cited as the ‘Nuclear Waste Policy Amendments Act of 1987’.”
 
 #### Short Title
 
@@ -136,7 +136,7 @@ Pub. L. 102–486, title VIII, §803, Oct. 24, 1992, 106 Stat. 2923, provided th
 
 “(a)
 
-Preparation and Submission of Report.—The Secretary of Energy, in consultation with the Nuclear Regulatory Commission and the Environmental Protection Agency, shall prepare and submit to the Congress a report on whether current programs and plans for management of nuclear waste as mandated by the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101 et seq.) are adequate for management of any additional volumes or categories of nuclear waste that might be generated by any new nuclear power plants that might be constructed and licensed after the date of the enactment of this Act \[Oct. 24, 1992\]. The Secretary shall prepare the report for submission to the President and the Congress within 1 year after the date of the enactment of this Act. The report shall examine any new relevant issues related to management of spent nuclear fuel and high-level radioactive waste that might be raised bythe addition of new nuclear-generated electric capacity, including anticipated increased volumes of spent nuclear fuel or high-level radioactive waste, any need for additional interim storage capacity prior to final disposal, transportation of additional volumes of waste, and any need for additional repositories for deep geologic disposal.
+Preparation and Submission of Report.—The Secretary of Energy, in consultation with the Nuclear Regulatory Commission and the Environmental Protection Agency, shall prepare and submit to the Congress a report on whether current programs and plans for management of nuclear waste as mandated by the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101 et seq.) are adequate for management of any additional volumes or categories of nuclear waste that might be generated by any new nuclear power plants that might be constructed and licensed after the date of the enactment of this Act \[Oct. 24, 1992\]. The Secretary shall prepare the report for submission to the President and the Congress within 1 year after the date of the enactment of this Act. The report shall examine any new relevant issues related to management of spent nuclear fuel and high-level radioactive waste that might be raised by the addition of new nuclear-generated electric capacity, including anticipated increased volumes of spent nuclear fuel or high-level radioactive waste, any need for additional interim storage capacity prior to final disposal, transportation of additional volumes of waste, and any need for additional repositories for deep geologic disposal.
 
 “(b)
 

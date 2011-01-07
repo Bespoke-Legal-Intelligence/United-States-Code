@@ -52,11 +52,11 @@ For purposes of this part—
 
 #### Amendments
 
-1996—Par. (1). Pub. L. 104–191, §321(d)(2), inserted at end “Such term shall not include any plan substantially all of the coverage under which is for qualified long-term care services (as defined in section 7702B(c) of title 26).”
+<b>1996</b>—Par. (1). Pub. L. 104–191, §321(d)(2), inserted at end “Such term shall not include any plan substantially all of the coverage under which is for qualified long-term care services (as defined in section 7702B(c) of title 26).”
 
-Par. (3)(A). Pub. L. 104–191, §421(b)(3), inserted at end “Such term shall also include a child who is born to or placed for adoption with the covered employee during the period of continuation coverage under this part.”
+Par. (3)(A). Pub. L. 104–191, §421(b)(3), inserted at end “Such term shall also include a child who is born to orplaced for adoption with the covered employee during the period of continuation coverage under this part.”
 
-1989—Pub. L. 101–239, §7891(d)(2)(B)(i)(I), inserted “and special rules” after “Definitions” in section catchline.
+<b>1989</b>—Pub. L. 101–239, §7891(d)(2)(B)(i)(I), inserted “and special rules” after “Definitions” in section catchline.
 
 Par. (1). Pub. L. 101–239, §7862(c)(6)(A), repealed Pub. L. 100–647, §3011(b)(6), see 1988 Amendment note below.
 
@@ -66,7 +66,7 @@ Par. (2). Pub. L. 101–239, §7862(c)(2)(A), substituted “the performance of 
 
 Par. (5). Pub. L. 101–239, §7891(d)(2)(B)(i)(II), added par. (5).
 
-1988—Par. (1). Pub. L. 100–647, §3011(b)(6), which directed amendment of par. (1) by substituting “section 162(i)(2) of title 26” for “section 162(i)(3) of title 26”, was repealed by Pub. L. 101–239, §7862(c)(6)(A).
+<b>1988</b>—Par. (1). Pub. L. 100–647, §3011(b)(6), which directed amendment of par. (1) by substituting “section 162(i)(2) of title 26” for “section 162(i)(3) of title 26”, was repealed by Pub. L. 101–239, §7862(c)(6)(A).
 
 Pub. L. 99–514, §1895(d)(8), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘group health plan’ means an employee welfare benefit plan that is a group health plan (within the meaning of section 162(i)(3) of title 26).”
 
@@ -88,7 +88,7 @@ Section 7862(c)(6)(B) of Pub. L. 101–239 provided that: “Subparagraph (A) \[
 
 Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
-Amendment by section 7891(d)(2)(B)(i) of Pub. L. 101–239 applicable with respect to plan years beginningon or after Jan. 1, 1990, see section 7891(d)(2)(C) of Pub. L. 101–239, set out as a note under section 4980B of Title 26, Internal Revenue Code.
+Amendment by section 7891(d)(2)(B)(i) of Pub. L. 101–239 applicable with respect to plan years beginning on or after Jan. 1, 1990, see section 7891(d)(2)(C) of Pub. L. 101–239, set out as a note under section 4980B of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1988 Amendment
 

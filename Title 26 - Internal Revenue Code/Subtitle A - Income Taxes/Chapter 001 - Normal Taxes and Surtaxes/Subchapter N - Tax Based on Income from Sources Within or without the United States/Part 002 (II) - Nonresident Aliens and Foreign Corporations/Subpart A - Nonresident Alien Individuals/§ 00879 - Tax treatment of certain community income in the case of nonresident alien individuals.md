@@ -36,13 +36,13 @@ For purposes of this section—
 
 #### Amendments
 
-1986—Subsec. (c)(3). Pub. L. 99–514 substituted “section 7703(a)” for “section 143(a)”.
+<b>1986</b>—Subsec. (c)(3). Pub. L. 99–514 substituted “section 7703(a)” for “section 143(a)”.
 
-1984—Pub. L. 98–369, §139(b)(1), substituted “nonresident alien individuals” for “a resident or citizen of the United States who is married to a nonresident alien individual” in section catchline.
+<b>1984</b>—Pub. L. 98–369, §139(b)(1), substituted “nonresident alien individuals” for “a resident or citizen of the United States who is married to a nonresident alien individual” in section catchline.
 
 Subsec. (a). Pub. L. 98–369, §139(a), substituted in provision preceding par. (1) “married couple 1 or both of whom are nonresident alien individuals” for “citizen or resident of the United States who is married to a nonresident alien individual”.
 
-1981—Subsec. (a)(1). Pub. L. 97–34 substituted “section 911(d)(2)” for “section 911(b)”.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–34 substituted “section 911(d)(2)” for “section 911(b)”.
 
 #### Effective Date of 1986 Amendment
 

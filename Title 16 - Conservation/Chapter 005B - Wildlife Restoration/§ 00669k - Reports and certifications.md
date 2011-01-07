@@ -28,7 +28,7 @@ Not later than 60 days after the end of each fiscal year, the Secretary of the I
 
 &emsp;(2) the amounts apportioned to States for the fiscal year under section 4(a)(2) of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669c(a)(2)) and section 4(d)(2)(A) of the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777c(d)(2)(A)); <sup>1</sup>
 
-&emsp;(3) the results of the audits performed under section 9(d) of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669h(d) <sup>2</sup> and section9(d) of the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777h(d));
+&emsp;(3) the results of the audits performed under section 9(d) of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669h(d) <sup>2</sup> and section 9(d) of the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777h(d));
 
 &emsp;(4) that all amounts used for the fiscal year under section 4(a)(1) of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669c(a)(1)) and section 4(d)(1) of the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777c(d)(1)) <sup>1</sup> were necessary for expenses for administration incurred in implementation of those Acts;
 
@@ -54,7 +54,7 @@ The Secretary of the Interior shall not delegate the responsibility for making a
 
 #### References in Text
 
-This title, referred to in subsec. (a), is title I of Pub. L. 106–408, Nov. 1, 2000, 114 Stat. 1762, known as the Wildlife and Sport Fish Restoration Programs Improvement Act of 2000. For complete classification of title I to the Code, see Short Title of 2000 Amendment note set out under section 669 of this title and Tables.
+This title, referred to in subsec. (a), is title I of Pub. L. 106–408, Nov. 1, 2000, 114 Stat. 1762, known as theWildlife and Sport Fish Restoration Programs Improvement Act of 2000. For complete classification of title I to the Code, see Short Title of 2000 Amendment note set out under section 669 of this title and Tables.
 
 The Pittman-Robertson Wildlife Restoration Act, referred to in subsecs. (c)(4) to (6) and (d)(1), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, as amended, also known as the Federal Aid in Wildlife Restoration Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
 
@@ -67,4 +67,8 @@ Section was enacted as part of the Fish and Wildlife Programs Improvement and Na
 #### Change of Name
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a second closing parenthesis.</i>
 

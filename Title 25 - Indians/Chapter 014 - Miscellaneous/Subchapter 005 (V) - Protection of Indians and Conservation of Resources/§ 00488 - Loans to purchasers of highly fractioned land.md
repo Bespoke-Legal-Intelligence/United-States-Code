@@ -32,7 +32,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §5501, inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2008</b>—Pub. L. 110–246, §5501, inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Effective Date of 2008 Amendment
 

@@ -114,7 +114,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 3 years after the date of submission of the strategy under subsection (c)(1), and every 3 years thereafter, the President shall transmit to the appropriate congressional committees a report on the implementation of this section for the prior 3-year period.
+&emsp;Not later than 3 years after the date of submission of the strategy under subsection (c)(1), and every 3 years thereafter, the Presidentshall transmit to the appropriate congressional committees a report on the implementation of this section for the prior 3-year period.
 
 #### (2) Matters to be included
 
@@ -128,7 +128,7 @@
 
 &emsp;&emsp;(D) The results of programs, projects, and activities carried out under this section.
 
-&emsp;&emsp;(E) A description of priorities for promoting the diffusion and adoption of clean andefficient energy technologies and strategies in developing countries, taking into account economic and security interests of the United States and opportunities for the export of technology of the United States.
+&emsp;&emsp;(E) A description of priorities for promoting the diffusion and adoption of clean and efficient energy technologies and strategies in developing countries, taking into account economic and security interests of the United States and opportunities for the export of technology of the United States.
 
 &emsp;&emsp;(F) Recommendations to the heads of appropriate Federal departments and agencies on methods to streamline Federal programs and policies to improve the role of such Federal departments and agencies in the development, demonstration, and deployment of clean and efficient energy technologies on an international basis.
 

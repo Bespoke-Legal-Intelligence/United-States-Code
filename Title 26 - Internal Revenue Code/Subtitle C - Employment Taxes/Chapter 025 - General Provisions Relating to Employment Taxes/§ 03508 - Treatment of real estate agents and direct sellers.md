@@ -46,7 +46,7 @@ For purposes of this section—
 
 #### Amendments
 
-1996—Subsec. (b)(2)(A). Pub. L. 104–188 added cl. (iii).
+<b>1996</b>—Subsec. (b)(2)(A). Pub. L. 104–188 added cl. (iii).
 
 #### Effective Date of 1996 Amendment
 

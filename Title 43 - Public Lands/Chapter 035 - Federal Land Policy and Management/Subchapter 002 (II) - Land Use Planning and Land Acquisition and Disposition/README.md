@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—LAND USE PLANNING AND LAND ACQUISITION AND DISPOSITION
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by closing quotation marks.</i>
-
 
 ---
 

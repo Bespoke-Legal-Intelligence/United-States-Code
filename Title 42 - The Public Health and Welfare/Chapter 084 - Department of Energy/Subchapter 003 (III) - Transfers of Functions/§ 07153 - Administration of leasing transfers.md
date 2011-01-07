@@ -22,7 +22,7 @@ Section 7152(b) of this title, referred to in subsecs. (a) and (b), was repealed
 
 #### Amendments
 
-1981—Subsec. (c). Pub. L. 97–100 struck out subsec. (c) which afforded the Secretary of Energy the opportunity to disapprove any terms and conditions on which the Secretary of the Interior proposed to issue a Federal lease.
+<b>1981</b>—Subsec. (c). Pub. L. 97–100 struck out subsec. (c) which afforded the Secretary of Energy the opportunity to disapprove any terms and conditions on which the Secretary of the Interior proposed to issue a Federal lease.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

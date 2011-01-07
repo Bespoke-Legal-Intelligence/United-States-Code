@@ -48,7 +48,7 @@ The Council shall conduct its first meeting not later than 6 months after Octobe
 
 #### (f) Closed meetings
 
-Where necessary to prevent the public disclosure of non-public information which may be presented by a Council member, the Council may hold, at the discretion of the Chairman, aclosed meeting which may exclude any individual who is not an officer or employee of the United States.
+Where necessary to prevent the public disclosure of non-public information which may be presented by a Council member, the Council may hold, at the discretion of the Chairman, a closed meeting which may exclude any individual who is not an officer or employee of the United States.
 
 #### (g) Annual report
 
@@ -56,7 +56,7 @@ The Council shall submit an annual report for the preceding fiscal year to the P
 
 &emsp;(1) a comprehensive and detailed report of the activities and accomplishments of the Council;
 
-&emsp;(2) the results of Council efforts to coordinate the policies and programs of member's agencies that have a significant effect on international travel and tourism, recreation, and national heritage resources, including progress toward resolving interagency conflicts and development of cooperative program activity;
+&emsp;(2) the results of Council efforts to coordinate the policies and programs of member's agencies that have a significant effect on international travel and tourism, recreation, and national heritage resources, includingprogress toward resolving interagency conflicts and development of cooperative program activity;
 
 &emsp;(3) an analysis of problems referred to the Council by State and local governments, the tourism industry, the United States National Tourism Organization, the Secretary of Commerce, along with a detailed summary of any action taken or anticipated to resolve such problems; and
 

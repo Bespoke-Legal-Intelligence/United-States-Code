@@ -10,7 +10,7 @@ Whoever willfully secretes, mutilates, obliterates, or destroys—
 
 The Administrator of General Services, by regulation, may authorize the destruction of such records upon such terms and conditions as he deems appropriate, including the requirement for the making and retaining of photographs or microphotographs, which shall have the same force and effect as the originals thereof.
 
-The definitions of terms in section 103 of Title 41 shall apply to similar terms used in this section.
+The definitions of terms in section 103 <sup>1</sup> of Title 41 shall apply to similar terms used in this section.
 
 (June 25, 1948, ch. 645, 62 Stat. 704; Oct. 31, 1951, ch. 655, §20(a), 65 Stat. 717; Pub. L. 103–322, title XXXIII, §§330004(17), 330016(2)(F), Sept. 13, 1994, 108 Stat. 2142, 2148.)
 
@@ -26,9 +26,15 @@ The last paragraph was added to obviate any possibility of doubt as to meaning o
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
+#### References in Text
+
+Section 103 of Title 41, referred to in text, probably means section 3 of act July 1, 1944, ch. 358, 58 Stat. 650, which was classified to section 103 of former Title 41, Public Contracts, prior to repeal by Pub. L. 111–350, §7(b), Jan. 4, 2011, 124 Stat. 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+
 #### Amendments
 
-1994—Pub. L. 103–322, in concluding provisions of first par., struck out “or (3) five years after 12 o'clock noon of December 31, 1946,” after “of such war contract,” and substituted “shall be fined under this title” for “shall, if a corporation, be fined not more than $50,000, and, if a natural person, be fined not more than $10,000”.
+<b>1994</b>—Pub. L. 103–322, in concluding provisions of first par., struck out “or (3) five years after 12 o'clock noon of December 31, 1946,” after “of such war contract,” and substituted “shall be fined under this title” for “shall, if a corporation, be fined not more than $50,000, and, if a natural person, be fined not more than $10,000”.
 
-1951—Act Oct. 31, 1951, substituted “12 o'clock noon of December 31, 1946” for “the termination of hostilities in the present war as proclaimed by the President or by a concurrent resolution of the two Houses of Congress”, and, in penultimate paragraph, substituted “Administrator of General Services” for “Director of Contract Settlement”.
+<b>1951</b>—Act Oct. 31, 1951, substituted “12 o'clock noon of December 31, 1946” for “the termination of hostilities in the present war as proclaimed by the President or by a concurrent resolution of the two Houses of Congress”, and, in penultimate paragraph, substituted “Administrator of General Services” for “Director of Contract Settlement”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

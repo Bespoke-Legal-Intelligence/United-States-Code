@@ -22,21 +22,25 @@ The Assistant Attorney General shall submit an annual report to the President an
 
 (Pub. L. 90–351, title I, §102, as added Pub. L. 98–473, title II, §603(a), Oct. 12, 1984, 98 Stat. 2078; amended Pub. L. 107–296, title II, §236, Nov. 25, 2002, 116 Stat. 2162; Pub. L. 109–162, title XI, §1152, Jan. 5, 2006, 119 Stat. 3113.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (a)(6), was in the original “this title”, meaning title I of Pub. L. 90–351, as added by Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1167, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+
 #### Prior Provisions
 
 A prior section 3712, Pub. L. 90–351, title I, §102, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1170, described duties and functions of Administrator of Law Enforcement Assistance Administration, prior to the general amendment of this subchapter by Pub. L. 98–473.
 
 #### Amendments
 
-2006—Subsec. (a)(5). Pub. L. 109–162, §1152(a), inserted “the Office for Victims of Crime,” after “the Bureau of Justice Statistics,”.
+<b>2006</b>—Subsec. (a)(5). Pub. L. 109–162, §1152(a), inserted “the Office for Victims of Crime,” after “the Bureau of Justice Statistics,”.
 
 Subsec. (a)(6). Pub. L. 109–162, §1152(b), inserted “, including placing special conditions on all grants, and determining priority purposes for formula grants” before period at end.
 
-2002—Subsec. (a)(5). Pub. L. 107–296 inserted “coordinate and” before “provide”.
+<b>2002</b>—Subsec. (a)(5). Pub. L. 107–296 inserted “coordinate and” before “provide”.
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date
 

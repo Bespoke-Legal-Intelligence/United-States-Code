@@ -36,7 +36,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;(C) improved programs of training in environmental science and land-use planning;
 
-&emsp;(5) vigorously promote a commitment of these institutions to increase the proportion of their programs supporting environmentally beneficial projects and project components, such as technical assistance for environmental ministries and institutions, resource rehabilitation projects and project components, protection of indigenous peoples, and appropriate light capital technology projects. Other examples of such projects include small scale mixed farming and multiple cropping, agroforestry, programs to promote kitchen gardens, watershed management and rehabilitation, high yield wood lots, integrated pest management systems, dune stabilization programs, programs to improve energy efficiency, energy efficient technologies such as small scale hydro projects, rural solar energy systems, and rural and mobile telecommunications systems, and improved efficiency and management of irrigation systems.<sup>1</sup>
+&emsp;(5) vigorously promote a commitment of these institutions to increase the proportion of their programs supporting environmentally beneficial projects and project components, such as technical assistance for environmental ministries and institutions, resource rehabilitation projects and project components, protection of indigenous peoples, and appropriate light capital technology projects. Other examples of such projects include small scale mixedfarming and multiple cropping, agroforestry, programs to promote kitchen gardens, watershed management and rehabilitation, high yield wood lots, integrated pest management systems, dune stabilization programs, programs to improve energy efficiency, energy efficient technologies such as small scale hydro projects, rural solar energy systems, and rural and mobile telecommunications systems, and improved efficiency and management of irrigation systems.<sup>1</sup>
 
 &emsp;(6) place an increased emphasis on upgrading the efficient use of energy and other resources by borrower nations. Such efforts shall include, but not be limited to—
 
@@ -44,7 +44,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;(B) conducting an analysis of the comparative costs of any new energy generating facilities with the cost of increasing the energy efficiency in the project service area;
 
-&emsp;(7) seek a commitment of these institutions to fund projects to protect and preserve crucial wetland systems and to avoid expenditures for projects designed to convert major wetland systems. Development proposals which may affect these areas should be thesubject of detailed impact assessments so as to avoid detrimental impacts to fisheries, wildlife and other important resources;
+&emsp;(7) seek a commitment of these institutions to fund projects to protect and preserve crucial wetland systems and to avoid expenditures for projects designed to convert major wetland systems. Development proposals which may affect these areas should be the subject of detailed impact assessments so as to avoid detrimental impacts to fisheries, wildlife and other important resources;
 
 &emsp;(8) vigorously promote the establishment within the Economic Development Institute of the World Bank of a component which provides training in environmental and natural resource planning and program development;
 
@@ -78,7 +78,7 @@ The Administrator of the Agency for International Development in conjunction wit
 
 &emsp;(1) instruct overseas missions of the Agency for International Development and embassies of the United States to analyze the impacts of Multilateral Development Bank projects proposed to be undertaken in the host country well in advance of a project's approval by the relevant institution. Such reviews shall address the economic viability of the project; adverse impacts on the environment, natural resources, and indigenous peoples; and recommendations as to measures, including alternatives, that could eliminate or mitigate adverse impacts. If not classified under the national security system of classification, such information shall be made available to the public;
 
-&emsp;(2) in preparation of reviews required by subsection (g)(1), compile a list of categories of projects likely to have adverse impacts on the environment, natural resources, or indigenous peoples. The list shall be developed in consultation with interested members of the public and made available to the Committee on Appropriations by December 31, 1986 and semiannually thereafter; and
+&emsp;(2) in preparation of reviews required by subsection (g)(1), compile a list of categories ofprojects likely to have adverse impacts on the environment, natural resources, or indigenous peoples. The list shall be developed in consultation with interested members of the public and made available to the Committee on Appropriations by December 31, 1986 and semiannually thereafter; and
 
 &emsp;(3) study the feasibility of creating a cooperative “early warning system” for projects of concern with other interested donors.
 

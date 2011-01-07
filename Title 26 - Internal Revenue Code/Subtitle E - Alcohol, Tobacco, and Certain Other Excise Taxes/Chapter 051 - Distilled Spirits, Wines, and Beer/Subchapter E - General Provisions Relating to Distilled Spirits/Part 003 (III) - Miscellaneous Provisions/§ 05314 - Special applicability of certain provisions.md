@@ -66,7 +66,7 @@ Provisions similar to those comprising subsec. (a)(2) of this section were conta
 
 #### Amendments
 
-1976—Subsec. (a)(2). Pub. L. 94–455, §1905(a)(18), substituted “section 5001(a)(10)” for “section 5001(a)(4)”.
+<b>1976</b>—Subsec. (a)(2). Pub. L. 94–455, §1905(a)(18), substituted “section 5001(a)(10)” for “section 5001(a)(4)”.
 
 Subsec. (b)(2), (3). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 

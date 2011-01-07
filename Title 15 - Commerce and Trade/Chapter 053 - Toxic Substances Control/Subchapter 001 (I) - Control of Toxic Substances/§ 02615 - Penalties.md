@@ -28,5 +28,5 @@ Any person who knowingly or willfully violates any provision of section 2614 or 
 
 #### Amendments
 
-1992—Subsecs. (a)(1), (2)(A), (b). Pub. L. 102–550 substituted “section 2614 or 2689 of this title” for “section 2614 of this title” wherever appearing.
+<b>1992</b>—Subsecs. (a)(1), (2)(A), (b). Pub. L. 102–550 substituted “section 2614 or 2689 of this title” for “section 2614 of this title” wherever appearing.
 

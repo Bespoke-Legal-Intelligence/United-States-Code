@@ -44,9 +44,9 @@ The provisions of this section shall apply by reason of action taken under subch
 
 #### Amendments
 
-2000—Subsec. (a)(1). Pub. L. 106–286 inserted “, or under part 2 of subchapter IV of this chapter” after “subchapter III of this chapter”.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–286 inserted “, or under part 2 of subchapter IV of this chapter” after “subchapter III of this chapter”.
 
-1988—Subsec. (a). Pub. L. 100–418, §1104(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whenever any action has been taken under section 2253 of this title to increase or impose any duty or other import restriction, the President—
+<b>1988</b>—Subsec. (a). Pub. L. 100–418, §1104(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whenever any action has been taken under section 2253 of this title to increase or impose any duty or other import restriction, the President—
 
 &emsp;“(1) may enter into trade agreements with foreign countries or instrumentalities for the purpose of granting new concessions as compensation in order to maintain the general level of reciprocal and mutually advantageous concessions; and
 

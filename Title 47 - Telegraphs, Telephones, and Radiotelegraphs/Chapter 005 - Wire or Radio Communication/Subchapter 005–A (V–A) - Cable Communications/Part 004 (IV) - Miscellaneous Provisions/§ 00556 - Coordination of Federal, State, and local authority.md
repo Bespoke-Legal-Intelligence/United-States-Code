@@ -20,7 +20,7 @@ For purposes of this section, the term “State” has the meaning given such te
 
 #### Amendments
 
-1996—Subsec. (d). Pub. L. 104–104 substituted “section 153” for “section 153(v)”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–104 substituted “section 153” for “section 153(v)”.
 
 #### Effective Date
 

@@ -22,7 +22,7 @@ Covered Members.—A member of the uniformed services covered by this section is
 
 (d)
 
-Authorized Travel and Transportation.—(1) The transportation authorized by subsection (a) for a qualified non-medical attendant for a member is round-trip transportation between the home of the attendant and the location at which the member is receiving treatment and may include transportation, while accompanying the member, to any other location to which the member is subsequently transferred for further treatment. A designated non-medical attendant under this section may not also be a designated individual for travel and transportation allowances <sup>1</sup> section 411h(a) of this title.
+Authorized Travel and Transportation.—(1) The transportation authorized by subsection (a) for a qualified non-medical attendant for a member is round-trip transportation between the home of the attendant and the location at which the member is receiving treatment and may include transportation, while accompanying the member, to any other location to which the member is subsequently transferred for further treatment. A designated non-medical attendant under this section may not also be a designated individual for travel and transportation allowances under section 411h(a) of this title.
 
 (2) The transportation authorized by subsection (a) includes any travel necessary to obtain treatment for the member at the location to which the member is permanently assigned.
 
@@ -40,11 +40,13 @@ Authorized Travel and Transportation.—(1) The transportation authorized by sub
 
 (6) Reimbursement payable under this subsection may not exceed the cost of Government-procured commercial round-trip air travel.
 
-(Added Pub. L. 111–84, div. A, title VI, §633(a)(1), Oct. 28, 2009, 123 Stat. 2362.)
+(Added Pub. L. 111–84, div. A, title VI, §633(a)(1), Oct. 28, 2009, 123 Stat. 2362; amended Pub. L. 111–383, div. A, title X, §1075(c)(4), Jan. 7, 2011, 124 Stat. 4372.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (d)(1). Pub. L. 111–383 substituted “allowances under section” for “allowances section”.
 
 #### Effective Date
 
 Pub. L. 111–84, div. A, title VI, §633(b), Oct. 28, 2009, 123 Stat. 2363, provided that: “No reimbursement may be provided under section 411k of title 37, United States Code, as added by subsection (a), for travel and transportation costs incurred before the date of the enactment of this Act \[Oct. 28, 2009\].”
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “under”.</i>
 

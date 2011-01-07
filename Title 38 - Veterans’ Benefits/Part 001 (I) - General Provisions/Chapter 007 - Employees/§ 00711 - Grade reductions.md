@@ -28,7 +28,7 @@ Prior sections 712 to 729, 740 to 763, 765 to 779, 781 to 788, and 801 to 806 we
 
 #### Amendments
 
-1996—Subsec. (d). Pub. L. 104–316 inserted “, upon request of either of such Committees,” after “the Comptroller General shall” in first sentence.
+<b>1996</b>—Subsec. (d). Pub. L. 104–316 inserted “, upon request of either of such Committees,” after “the Comptroller General shall” in first sentence.
 
-1994—Subsec. (d). Pub. L. 103–446 substituted “committees” for “Committees”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–446 substituted “committees” for “Committees”.
 

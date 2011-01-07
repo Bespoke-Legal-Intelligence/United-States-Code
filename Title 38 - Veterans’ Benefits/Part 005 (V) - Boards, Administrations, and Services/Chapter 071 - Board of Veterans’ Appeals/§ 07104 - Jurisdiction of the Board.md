@@ -24,13 +24,13 @@
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–275 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “After reaching a decision in a case, the Board shall promptly mail a copy of its written decision to the claimant and the claimant's authorized representative (if any) at the last known address of the claimant and at the last known address of such representative (if any).”
+<b>1996</b>—Subsec. (e). Pub. L. 104–275 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “After reaching a decision in a case, the Board shall promptly mail a copy of its written decision to the claimant and the claimant's authorized representative (if any) at the last known address of the claimant and at the last known address of such representative (if any).”
 
-1994—Subsec. (a). Pub. L. 103–271, §8, substituted “511(a)” for “211(a)”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–271, §8, substituted “511(a)” for “211(a)”.
 
 Pub. L. 103–271, §7(b)(1), struck out after second sentence “The Board shall decide any such appeal only after affording the claimant an opportunity for a hearing.”
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 4004 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 4004 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
@@ -44,7 +44,7 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-1988—Subsec. (a). Pub. L. 100–687, §101(b), as amended by Pub. L. 102–54, substituted “All questions in a matter which under section 211(a) of this title is subject to decision by the Administrator” for “All questions on claims involving benefits under the laws administered by the Veterans’ Administration”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–687, §101(b), as amended by Pub. L. 102–54, substituted “All questions in a matter which under section 211(a) of this title is subject to decision by the Administrator” for “All questions on claims involving benefits under the laws administered by the Veterans’ Administration”.
 
 Pub. L. 100–687, §203(a), inserted at end “The Board shall decide any such appeal only after affording the claimant an opportunity for a hearing. Decisions of the Board shall be based on the entire record in the proceeding and upon consideration of all evidence and material of record and applicable provisions of law and regulation.”
 
@@ -52,7 +52,7 @@ Subsec. (b). Pub. L. 100–687, §204, amended subsec. (b) generally. Prior to a
 
 Subsecs. (d), (e). Pub. L. 100–687, §205, added subsecs. (d) and (e) and struck out former subsec. (d) which read as follows: “The decisions of the Board shall be in writing and shall contain findings of fact and conclusions of law separately stated.”
 
-1961—Subsec. (d). Pub. L. 87–97 added subsec. (d).
+<b>1961</b>—Subsec. (d). Pub. L. 87–97 added subsec. (d).
 
 #### Effective Date of 1991 Amendment
 

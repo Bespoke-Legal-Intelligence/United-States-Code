@@ -32,17 +32,17 @@ Section 230(e)(2) of the Communications Act of 1934, referred to in text, was re
 
 #### Amendments
 
-1996—Pub. L. 104–104, §507(a)(1), inserted “or interactive computer service (as defined in section 230(e)(2) of the Communications Act of 1934)” after “carrier” in first par.
+<b>1996</b>—Pub. L. 104–104, §507(a)(1), inserted “or interactive computer service (as defined in section 230(e)(2) of the Communications Act of 1934)” after “carrier” in first par.
 
 Pub. L. 104–104, §507(a)(2), in second par., inserted “or receives,” after “takes”, “or interactive computer service (as defined in section 230(e)(2) of the Communications Act of 1934)” after “common carrier”, and “or importation” after “carriage”.
 
-1994—Pub. L. 103–322, in last par., substituted “fined under this title” for “fined not more than $5,000” after “Shall be” and for “fined not more than $10,000” after “and shall be”.
+<b>1994</b>—Pub. L. 103–322, in last par., substituted “fined under this title” for “fined not more than $5,000” after “Shall be” and for “fined not more than $10,000” after “and shall be”.
 
-1971—Pub. L. 91–662 struck out “preventing conception, or” before “producing abortion”.
+<b>1971</b>—Pub. L. 91–662 struck out “preventing conception, or” before “producing abortion”.
 
-1958—Pub. L. 85–796 substituted “uses” for “deposits with” in opening par., “carriage of which” for “depositing of which for carriage” in penultimate par., and inserted penalty provisions for subsequent offenses in last par.
+<b>1958</b>—Pub. L. 85–796 substituted “uses” for “deposits with” in opening par., “carriage of which” for “depositing of which for carriage” in penultimate par., and inserted penalty provisions for subsequent offenses in last par.
 
-1950—Act May 27, 1950, brought within scope of section the importation or transportation of any obscene, lewd, lascivious, or filthy phonograph recording, electrical transcription, or other article or think capable of producing sound.
+<b>1950</b>—Act May 27, 1950, brought within scope of section the importation or transportation of any obscene, lewd, lascivious, or filthy phonograph recording, electrical transcription, or other article or think capable of producing sound.
 
 #### Effective Date of 1971 Amendment
 

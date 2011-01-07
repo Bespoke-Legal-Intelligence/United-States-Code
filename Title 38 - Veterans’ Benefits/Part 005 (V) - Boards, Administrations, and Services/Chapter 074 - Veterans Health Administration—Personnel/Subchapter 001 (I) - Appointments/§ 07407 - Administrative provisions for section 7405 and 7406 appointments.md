@@ -30,5 +30,5 @@ Provisions similar to those in this section were contained in section 4114(c)–
 
 #### Amendments
 
-1992—Subsecs. (a), (b)(1). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+<b>1992</b>—Subsecs. (a), (b)(1). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 

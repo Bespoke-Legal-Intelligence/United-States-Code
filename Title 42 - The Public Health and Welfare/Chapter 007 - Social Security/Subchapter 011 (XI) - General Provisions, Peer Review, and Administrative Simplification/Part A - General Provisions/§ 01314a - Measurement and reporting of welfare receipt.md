@@ -52,7 +52,7 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 #### (3) Vacancies
 
-&emsp;Any vacancy occurring in the membership of the Board shall be filled in the same manneras the original appointment for the position being vacated. The vacancy shall not affect the power of the remaining members to execute the duties of the Board.
+&emsp;Any vacancy occurring in the membership of the Board shall be filled in the same manner as the original appointment for the position being vacated. The vacancy shall not affect the power of the remaining members to execute the duties of the Board.
 
 #### (4) Duties
 
@@ -138,15 +138,15 @@ Section was enacted as part of the Social Security Act Amendments of 1994, and n
 
 #### Amendments
 
-2008—Subsec. (d)(2). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(X), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+<b>2008</b>—Subsec. (d)(2). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(X), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-1998—Subsec. (b)(3)(D). Pub. L. 105–200, §410(h)(1), struck out “Energy and” before “Commerce”.
+<b>1998</b>—Subsec. (b)(3)(D). Pub. L. 105–200, §410(h)(1), struck out “Energy and” before “Commerce”.
 
 Subsec. (d)(4). Pub. L. 105–200, §410(h)(2), substituted “subsection (b)(3) of this section” for “subsection (b)(3)(C) of this section”.
 
 #### Change of Name
 
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce ofHouse of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

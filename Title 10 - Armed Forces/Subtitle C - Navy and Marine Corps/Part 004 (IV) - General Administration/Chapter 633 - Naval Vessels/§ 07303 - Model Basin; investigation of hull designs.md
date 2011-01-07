@@ -24,5 +24,5 @@ In subsection (a) the authority to purchase a site and construct the model basin
 
 #### Amendments
 
-1966—Subsec. (a). Pub. L. 89–718 substituted “An officer or agency of the Department of the Navy designated by the Secretary of the Navy” for “The Bureau of Ships”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted “An officer or agency of the Department of the Navy designated by the Secretary of the Navy” for “The Bureau of Ships”.
 

@@ -30,7 +30,7 @@
 
 (d) The Secretary may not award a baccalaureate, masters, or doctorate degree to an enlisted member based upon instruction received at the Postgraduate School under subsection (a)(2)(C).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 437; Pub. L. 96–513, title V, §513(23), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 105–85, div. A, title V, §551(a), (b)(1), Nov. 18, 1997, 111 Stat. 1747; Pub. L. 105–261, div. A, title X, §1069(a)(6), Oct. 17, 1998, 112 Stat. 2136; Pub. L. 107–296, title XVII, §1704(b)(5), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §532, Nov. 24, 2003, 117 Stat. 1472; Pub. L.109–163, div. A, title V, §526(a), (b), Jan. 6, 2006, 119 Stat. 3245, 3246; Pub. L. 109–364, div. A, title V, §543(a)–(c), Oct. 17, 2006, 120 Stat. 2213.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 437; Pub. L. 96–513, title V, §513(23), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 105–85, div. A, title V, §551(a), (b)(1), Nov. 18, 1997, 111 Stat. 1747; Pub. L. 105–261, div. A, title X, §1069(a)(6), Oct. 17, 1998, 112 Stat. 2136; Pub. L. 107–296, title XVII, §1704(b)(5), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §532, Nov. 24, 2003, 117 Stat. 1472; Pub. L. 109–163, div. A, title V, §526(a), (b), Jan. 6, 2006, 119 Stat. 3245, 3246; Pub. L. 109–364, div. A, title V, §543(a)–(c), Oct. 17, 2006, 120 Stat. 2213.)
 
 Historical and Revision Notes
 
@@ -54,7 +54,7 @@ In subsection (c) the words “rules and” are omitted. The words “who are of
 
 #### Amendments
 
-2006—Subsec. (a)(2)(C). Pub. L. 109–364, §543(a), substituted “armed forces” for “Navy or Marine Corps”.
+<b>2006</b>—Subsec. (a)(2)(C). Pub. L. 109–364, §543(a), substituted “armed forces” for “Navy or Marine Corps”.
 
 Pub. L. 109–163, §526(a)(1)(B), added subpar. (C). Former subpar.(C) redesignated (D).
 
@@ -70,17 +70,17 @@ Pub. L. 109–163, §526(a)(2), substituted “subsection (a)(2)(D)” for “su
 
 Subsec. (d). Pub. L. 109–163, §526(b), added subsec. (d).
 
-2003—Subsec. (a)(2). Pub. L. 108–136, §532(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary may permit an enlisted member of the armed forces who is assigned to the Naval Postgraduate School or to a nearby command to receive instruction at the Naval Postgraduate School. Admission of enlisted members for instruction under this paragraph shall be on a space-available basis.”
+<b>2003</b>—Subsec. (a)(2). Pub. L. 108–136, §532(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary may permit an enlisted member of the armed forces who is assigned to the Naval Postgraduate School or to a nearby command to receive instruction at the Naval Postgraduate School. Admission of enlisted members for instruction under this paragraph shall be on a space-available basis.”
 
 Subsec. (b). Pub. L. 108–136, §532(b), designated first sentence as par. (1) and substituted “Except as provided under paragraph (3), the Department” for “The Department” and “members” for “officers”, designated second sentence as par. (2) and inserted “under subsection (a)(2)(C)” after “permitted” and “on a space-available basis” after “instruction at the Postgraduate School” and struck out “(taking into consideration the admission of enlisted members on a space-available basis)” before period at end, and added par. (3).
 
-2002—Subsec. (a)(1). Pub. L. 107–296, §1704(b)(5)(A), substituted “Secretary of the Army, the Secretary of the Air Force, and the Secretary of Homeland Security” for “Secretaries of the Army, Air Force, and Transportation”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–296, §1704(b)(5)(A), substituted “Secretary of the Army, the Secretary of the Air Force, and the Secretary of Homeland Security” for “Secretaries of the Army, Air Force, and Transportation”.
 
 Subsec. (b). Pub. L. 107–296, §1704(b)(5), substituted “Department of Homeland Security” for “Department of Transportation” and “Secretary of the Army, the Secretary of the Air Force, and the Secretary of Homeland Security” for “Secretaries of the Army, Air Force, and Transportation”.
 
-1998—Subsec. (c). Pub. L. 105–261 struck out “the” after “are subject to”.
+<b>1998</b>—Subsec. (c). Pub. L. 105–261 struck out “the” after “are subject to”.
 
-1997—Pub. L. 105–85, §551(b)(1), substituted “Officers of the other armed forces; enlisted members:” for “Officers of Army, Air Force, and Coast Guard:” in section catchline.
+<b>1997</b>—Pub. L. 105–85, §551(b)(1), substituted “Officers of the other armed forces; enlisted members:” for “Officers of Army, Air Force, and Coast Guard:” in section catchline.
 
 Subsec. (a). Pub. L. 105–85, §551(a)(1), designated existing provisions as par. (1) and added par. (2).
 
@@ -88,7 +88,7 @@ Subsec. (b). Pub. L. 105–85, §551(a)(2), substituted “officers detailed” 
 
 Subsec. (c). Pub. L. 105–85, §551(a)(3), substituted “members” for “officers” in two places and “such regulations, as determined appropriate by the Secretary of the Navy,” for “same regulations”.
 
-1980—Subsec. (a). Pub. L. 96–513, §513(23), substituted references to Transportation Department and Secretary for references to Treasury Department and Secretary, respectively.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513, §513(23), substituted references to Transportation Department and Secretary for references to Treasury Department and Secretary, respectively.
 
 Subsec. (b). Pub. L. 96–513, §513(23)(A), substituted reference to Transportation Secretary for reference to Treasury Secretary.
 

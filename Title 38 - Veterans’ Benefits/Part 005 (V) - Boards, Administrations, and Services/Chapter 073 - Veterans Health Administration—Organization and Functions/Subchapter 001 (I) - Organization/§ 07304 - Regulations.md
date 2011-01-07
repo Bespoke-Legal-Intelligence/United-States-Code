@@ -1,6 +1,6 @@
 ### §7304. Regulations
 
-(a) Unless specifically otherwise provided, the Under Secretary for Health shall prescribe allregulations necessary to the administration of the Veterans Health Administration, including regulations relating to—
+(a) Unless specifically otherwise provided, the Under Secretary for Health shall prescribe all regulations necessary to the administration of the Veterans Health Administration, including regulations relating to—
 
 &emsp;(1) travel, transportation of household goods and effects, and deductions from pay for quarters and subsistence; and
 
@@ -12,5 +12,5 @@
 
 #### Amendments
 
-1992—Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in subsecs. (a) and (b).
+<b>1992</b>—Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in subsecs. (a) and (b).
 

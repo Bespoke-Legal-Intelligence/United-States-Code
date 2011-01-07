@@ -30,11 +30,11 @@ This chapter, referred to in subsecs. (b) and (c), was in the original “this A
 
 #### Amendments
 
-1981—Subsec. (b). Pub. L. 97–113 substituted provision authorizing the President to exercise functions vested in him under this chapter through the Director of the Peace Corps and the Director of the Peace Corps to promulgate rules and regulations as deemed appropriate for provision authorizing the President to exercise functions vested in him under this chapter through such agency or officer of the United States Government as he directs and the head of such agency or such officer to promulgate rules and regulations as deemed appropriate.
+<b>1981</b>—Subsec. (b). Pub. L. 97–113 substituted provision authorizing the President to exercise functions vested in him under this chapter through the Director of the Peace Corps and the Director of the Peace Corps to promulgate rules and regulations as deemed appropriate for provision authorizing the President to exercise functions vested in him under this chapter through such agency or officer of the United States Government as he directs and the head of such agency or such officer to promulgate rules and regulations as deemed appropriate.
 
-1970—Subsec. (c). Pub. L. 91–352 added par. (4).
+<b>1970</b>—Subsec. (c). Pub. L. 91–352 added par. (4).
 
-1964—Subsec. (a). Pub. L. 88–426 repealed provisions which prescribed the compensation of the Director and Deputy Director. See sections 5314 and 5315 of Title 5, Government Organization and Employees.
+<b>1964</b>—Subsec. (a). Pub. L. 88–426 repealed provisions which prescribed the compensation of the Director and Deputy Director. See sections 5314 and 5315 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1964 Amendment
 

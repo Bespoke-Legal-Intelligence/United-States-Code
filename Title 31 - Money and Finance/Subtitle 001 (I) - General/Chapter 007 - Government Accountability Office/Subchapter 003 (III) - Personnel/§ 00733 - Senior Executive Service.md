@@ -64,13 +64,13 @@ In subsection (d), the words “Employees in . . . the personnel system establ
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–323 struck out “(d),” after “731(c),”.
+<b>2008</b>—Subsec. (c). Pub. L. 110–323 struck out “(d),” after “731(c),”.
 
-2004—Subsec. (a)(3)(B). Pub. L. 108–271 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “adjusted at the same time and to the same extent as rates in the Senior Executive Service under section 5382 of title 5 are adjusted;”.
+<b>2004</b>—Subsec. (a)(3)(B). Pub. L. 108–271 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “adjusted at the same time and to the same extent as rates in the Senior Executive Service under section 5382 of title 5 are adjusted;”.
 
-2000—Subsec. (a)(7), (8). Pub. L. 106–303 added par. (7) and redesignated former par. (7) as (8).
+<b>2000</b>—Subsec. (a)(7), (8). Pub. L. 106–303 added par. (7) and redesignated former par. (7) as (8).
 
-1984—Subsec. (c). Pub. L. 98–326 inserted “(e)(1),” after “(d),”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–326 inserted “(e)(1),” after “(d),”.
 
 #### Change of Name
 

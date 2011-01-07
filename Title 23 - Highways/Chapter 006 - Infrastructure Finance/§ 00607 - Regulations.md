@@ -6,7 +6,7 @@ The Secretary may issue such regulations as the Secretary determines appropriate
 
 #### Amendments
 
-2005—Pub. L. 109–59, §1602(d), renumbered section 187 of this title as this section.
+<b>2005</b>—Pub. L. 109–59, §1602(d), renumbered section 187 of this title as this section.
 
 Pub. L. 109–59, §1602(b)(5), substituted “this chapter” for “this subchapter”.
 

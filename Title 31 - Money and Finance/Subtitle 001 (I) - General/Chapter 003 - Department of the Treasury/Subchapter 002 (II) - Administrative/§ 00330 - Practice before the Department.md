@@ -62,15 +62,15 @@ In subsection (b), the word “proceeding” is substituted for “hearing” be
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–280 struck out “with respect to whom a penalty has been assessed under section 6701(a) of the Internal Revenue Code of 1986” after “any appraiser” in introductory provisions.
+<b>2006</b>—Subsec. (c). Pub. L. 109–280 struck out “with respect to whom a penalty has been assessed under section 6701(a) of the Internal Revenue Code of 1986” after “any appraiser” in introductory provisions.
 
-2004—Subsec. (b). Pub. L. 108–357, §822(a)(1), inserted “, or censure,” after “Department” in introductory provisions and inserted at end “The Secretary may impose a monetary penalty on any representative described in the preceding sentence. If the representative was acting on behalf of an employer or any firm or other entity in connection with the conduct giving rise to such penalty, the Secretary may impose a monetary penalty on such employer, firm, or entity if it knew, or reasonably should have known, of such conduct. Such penalty shall not exceed the gross income derived (or to be derived) from the conduct giving rise to the penalty and may be in addition to, or in lieu of, any suspension, disbarment, or censure of the representative.”
+<b>2004</b>—Subsec. (b). Pub. L. 108–357, §822(a)(1), inserted “, or censure,” after “Department” in introductory provisions and inserted at end “The Secretary may impose a monetary penalty on any representative described in the preceding sentence. If the representative was acting on behalf of an employer or any firm or other entity in connection with the conduct giving rise to such penalty, the Secretary may impose a monetary penalty on such employer, firm, or entity if it knew, or reasonably should have known, of such conduct. Such penalty shall not exceed the gross income derived (or to be derived) from the conduct giving rise to the penalty and may be in addition to, or in lieu of, any suspension, disbarment, or censure of the representative.”
 
 Subsec. (d). Pub. L. 108–357, §822(b), added subsec. (d).
 
-1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1984—Subsec. (c). Pub. L. 98–369 added subsec. (c).
+<b>1984</b>—Subsec. (c). Pub. L. 98–369 added subsec. (c).
 
 #### Effective Date of 2006 Amendment
 

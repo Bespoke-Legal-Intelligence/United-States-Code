@@ -2,15 +2,11 @@
 
 #### (a) Chief Information Officer
 
-To assist the Director of National Intelligence in carrying out the responsibilities of the Director under this Act and other applicable provisions of law, there shall be within the Office of the Director of National Intelligence a Chief Information Officer who shall be appointed by the President, by and with the advice and consent of the Senate.
+To assist the Director of National Intelligence in carrying out the responsibilities of the Director under this Act and other applicable provisions of law, there shall be within the Office of the Director of National Intelligence a Chief Information Officer of the Intelligence Community who shall be appointed by the President.
 
-#### (b) Chief Information Officer of intelligence community
+#### (b) Duties and responsibilities
 
-The Chief Information Officer shall serve as the chief information officer of the intelligence community.
-
-#### (c) Duties and responsibilities
-
-Subject to the direction of the Director of National Intelligence, the Chief Information Officer shall—
+Subject to the direction of the Director of National Intelligence, the Chief Information Officer of the Intelligence Community shall—
 
 &emsp;(1) manage activities relating to the information technology infrastructure and enterprise architecture requirements of the intelligence community;
 
@@ -20,15 +16,21 @@ Subject to the direction of the Director of National Intelligence, the Chief Inf
 
 &emsp;(4) ensure that all expenditures for information technology and research and development activities are consistent with the intelligence community enterprise architecture and the strategy of the Director for such architecture.
 
-#### (d) Prohibition on simultaneous service as other chief information officer
+#### (c) Prohibition on simultaneous service as other chief information officer
 
-An individual serving in the position of Chief Information Officer may not, while so serving, serve as the chief information officer of any other department or agency, or component thereof, of the United States Government.
+An individual serving in the position of Chief Information Officer of the Intelligence Community may not, while so serving, serve as the chief information officer of any other department or agency, or component thereof, of the United States Government.
 
-(July 26, 1947, ch. 343, title I, §103G, as added Pub. L. 108–487, title III, §303(a)(1), Dec. 23, 2004, 118 Stat. 3944.)
+(July 26, 1947, ch. 343, title I, §103G, as added Pub. L. 108–487, title III, §303(a)(1), Dec. 23, 2004, 118 Stat. 3944; amended Pub. L. 111–259, title IV, §404, Oct. 7, 2010, 124 Stat. 2709.)
 
 #### References in Text
 
 This Act, referred to in subsec. (a), means act July 26, 1947, ch. 343, 61 Stat. 495, as amended, known as the National Security Act of 1947. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–259, §404(1), inserted “of the Intelligence Community” after “Chief InformationOfficer” and substituted “President.” for “President, by and with the advice and consent of the Senate.”
+
+Subsecs. (b) to (d). Pub. L. 111–259, §404(2)–(4), redesignated subsecs. (c) and (d) as (b) and (c), respectively, inserted “of the Intelligence Community” after “Chief Information Officer” in two places, and struck out former subsec. (b). Text of former subsec. (b) read as follows: “The Chief Information Officer shall serve as the chief information officer of the intelligence community.”
 
 #### Effective Date
 

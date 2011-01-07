@@ -26,7 +26,7 @@ In general.—It shall be a defense to an action for infringement under section 
 
 &emsp;(2)
 
-Exhaustion of right.—The sale or other disposition of a useful end product producedby a patented method, by a person entitled to assert a defense under this section with respect to that useful end result shall exhaust the patent owner's rights under the patent to the extent such rights would have been exhausted had such sale or other disposition been made by the patent owner.
+Exhaustion of right.—The sale or other disposition of a useful end product produced by a patented method, by a person entitled to assert a defense under this section with respect to that useful end result shall exhaust the patent owner's rights under the patent to the extent such rights would have been exhausted had such sale or other disposition been made by the patent owner.
 
 &emsp;(3)
 

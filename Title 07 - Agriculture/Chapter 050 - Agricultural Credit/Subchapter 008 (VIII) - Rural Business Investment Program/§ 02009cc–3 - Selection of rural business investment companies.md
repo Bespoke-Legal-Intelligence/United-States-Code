@@ -12,7 +12,7 @@ A company shall be eligible to apply to participate, as a rural business investm
 
 #### (b) Application
 
-To participate, as a rural business investment company, in the program established under this subchapter, a company meeting the eligibility requirements of subsection (a) of this section shall submit an application to the Secretary that includes—
+To participate, as a rural business investment company, in the program established under thissubchapter, a company meeting the eligibility requirements of subsection (a) of this section shall submit an application to the Secretary that includes—
 
 &emsp;(1) a business plan describing how the company intends to make successful developmental venture capital investments in identified rural areas;
 

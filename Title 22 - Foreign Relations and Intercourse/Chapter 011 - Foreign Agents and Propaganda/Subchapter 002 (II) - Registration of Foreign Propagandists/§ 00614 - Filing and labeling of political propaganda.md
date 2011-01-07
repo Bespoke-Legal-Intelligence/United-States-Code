@@ -2,7 +2,7 @@
 
 #### (a) Copies to Attorney General; statement as to places, times, and extent of transmission
 
-Every person within the United States who is an agent of a foreign principal and required to register under the provisions of this subchapter and who transmits or causes to be transmitted in the United States mails or by any means or instrumentality of interstate or foreign commerce any informational materials for or in theinterests of such foreign principal (i) in the form of prints, or (ii) in any other form which is reasonably adapted to being, or which he believes will be, or which he intends to be, disseminated or circulated among two or more persons shall, not later than forty-eight hours after the beginning of the transmittal thereof, file with the Attorney General two copies thereof.
+Every person within the United States who is an agent of a foreign principal and required to register under the provisions of this subchapter and who transmits or causes to be transmitted in the United States mails or by any means or instrumentality of interstate or foreign commerce any informational materials for or in the interests of such foreign principal (i) in the form of prints, or (ii) in any other form which is reasonably adapted to being, or which he believes will be, or which he intends to be, disseminated or circulated among two or more persons shall, not later than forty-eight hours after the beginning of the transmittal thereof, file with the Attorney General two copies thereof.
 
 #### (b) Identification statement
 
@@ -38,7 +38,7 @@ Prior to general amendment of act June 8, 1938, by act Apr. 29, 1942, section re
 
 #### Amendments
 
-1995—Subsec. (a). Pub. L. 104–65, §9(4)(B), which directed striking out “and a statement, duly signed by or on behalf of such an agent, setting forth full information as to the places, times, and extent of such transmittal” after “Attorney General two copies thereof”, was executed by striking out such language, which read in part “on behalf of such agent”, to reflect the probable intent of Congress.
+<b>1995</b>—Subsec. (a). Pub. L. 104–65, §9(4)(B), which directed striking out “and a statement, duly signed by or on behalf of such an agent, setting forth full information as to the places, times, and extent of such transmittal” after “Attorney General two copies thereof”, was executed by striking out such language, which read in part “on behalf of such agent”, to reflect the probable intent of Congress.
 
 Pub. L. 104–65, §9(4)(A), substituted “informational materials” for “political propaganda”.
 
@@ -46,7 +46,7 @@ Subsec. (b). Pub. L. 104–65, §9(5), substituted “informational materials fo
 
 Subsec. (c). Pub. L. 104–65, §9(6), substituted “informational materials” for “political propaganda”.
 
-1966—Subsec. (a). Pub. L. 89–486, §4(1), inserted “for or in the interests of such foreign principal” after “political propaganda” and substituted “file with the Attorney General two copies thereof” for “sent to the Librarian of Congress two copies thereof and file with the Attorney General one copy thereof”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–486, §4(1), inserted “for or in the interests of such foreign principal” after “political propaganda” and substituted “file with the Attorney General two copies thereof” for “sent to the Librarian of Congress two copies thereof and file with the Attorney General one copy thereof”.
 
 Subsec. (b). Pub. L. 89–486, §4(2), inserted “for or in the interests of such foreign principal” after “political propaganda”, where first appearing, and “the relationship or connection between the person transmitting the political propaganda or causing it to be transmitted and such propaganda;” after “setting forth” and substituted “such foreign principal” for each of his foreign principals”.
 
@@ -54,9 +54,9 @@ Subsec. (c). Pub. L. 89–486, §4(3), substituted “filed with the Attorney Ge
 
 Subsecs. (e), (f). Pub. L. 89–486, §4(4), added subsecs. (e) and (f).
 
-1942—Act Apr. 29, 1942, amended section generally.
+<b>1942</b>—Act Apr. 29, 1942, amended section generally.
 
-1939—Act Aug. 7, 1939, amended section generally.
+<b>1939</b>—Act Aug. 7, 1939, amended section generally.
 
 #### Effective Date of 1995 Amendment
 

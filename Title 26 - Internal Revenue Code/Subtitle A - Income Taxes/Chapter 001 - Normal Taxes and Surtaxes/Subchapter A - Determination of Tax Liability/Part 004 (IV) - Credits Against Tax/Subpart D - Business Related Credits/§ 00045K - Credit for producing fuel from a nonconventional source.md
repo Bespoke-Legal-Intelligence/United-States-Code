@@ -236,13 +236,13 @@ The date of the enactment of this clause, and such date of enactment, referred t
 
 #### Amendments
 
-2008—Subsec. (g)(2)(E). Pub. L. 110–343 added subpar. (E).
+<b>2008</b>—Subsec. (g)(2)(E). Pub. L. 110–343 added subpar. (E).
 
-2006—Subsec. (g)(1). Pub. L. 109–432, §211(b), inserted “(other than from petroleum based products)” after “producing coke or coke gas” in introductory provisions.
+<b>2006</b>—Subsec. (g)(1). Pub. L. 109–432, §211(b), inserted “(other than from petroleum based products)” after “producing coke or coke gas” in introductory provisions.
 
 Subsec. (g)(2)(D). Pub. L. 109–432, §211(a), added subpar. (D).
 
-2005—Pub. L. 109–58, §1322(a)(1), renumbered section 29 of this title as this section.
+<b>2005</b>—Pub. L. 109–58, §1322(a)(1), renumbered section 29 of this title as this section.
 
 Subsec. (a). Pub. L. 109–135, §402(g), struck out “if the taxpayer elects to have this section apply,” after “For purposes of section 38,” in introductory provisions.
 
@@ -272,13 +272,13 @@ Subsec. (h). Pub. L. 109–58, §1322(b)(1)(B), redesignated subsec. (h) as (g).
 
 Pub. L. 109–58, §1321(a), added subsec. (h).
 
-1996—Subsec. (b)(6)(A). Pub. L. 104–188, §1205(d)(3), substituted “section 27” for “sections 27 and 28”.
+<b>1996</b>—Subsec. (b)(6)(A). Pub. L. 104–188, §1205(d)(3), substituted “section 27” for “sections 27 and 28”.
 
 Subsec. (g)(1)(A). Pub. L. 104–188, §1207(a), substituted “July 1, 1998” for “January 1, 1997” and “January 1, 1997” for “January 1, 1996”.
 
-1992—Subsec. (g). Pub. L. 102–486 added subsec. (g).
+<b>1992</b>—Subsec. (g). Pub. L. 102–486 added subsec. (g).
 
-1990—Subsec. (b)(3)(A)(i)(III). Pub. L. 101–508, §11813(b)(1)(A), substituted “section 48(a)(4)(C)” for “section 48(<i>l</i>)(11)(C)”.
+<b>1990</b>—Subsec. (b)(3)(A)(i)(III). Pub. L. 101–508, §11813(b)(1)(A), substituted “section 48(a)(4)(C)” for “section 48(<i>l</i>)(11)(C)”.
 
 Subsec. (b)(4). Pub. L. 101–508, §11813(b)(1)(B), substituted “section 49(b) or 50(a)” for “section 47” in two places.
 
@@ -324,19 +324,19 @@ Subsec. (d)(5), (6). Pub. L. 101–508, §11816(b)(3), (4), redesignated par. (6
 
 Subsec. (d)(7) to (9). Pub. L. 101–508, §11816(b)(3), redesignated pars. (7) to (9) as (6) to (8), respectively.
 
-Subsec. (f). Pub. L. 101–508, §11816(b)(5), amended subsec. (f) generally, redesignating former par. (1) as subsec. (f), making minor changes in phraseology, substituting par. (2) for former par. (1)(B) which read asfollows: “which are sold after December 31, 1979, and before January 1, 2003.”, and striking out former par. (2) which related to special rules applicable to qualified processed wood and solid agricultural byproduct steam.
+Subsec. (f). Pub. L. 101–508, §11816(b)(5), amended subsec. (f) generally, redesignating former par. (1) as subsec. (f), making minor changes in phraseology, substituting par. (2) for former par. (1)(B) which read as follows: “which are sold after December 31, 1979, and before January 1, 2003.”, and striking out former par. (2) which related to special rules applicable to qualified processed wood and solid agricultural byproduct steam.
 
 Subsec. (f)(1)(A)(i), (ii). Pub. L. 101–508, §11501(a)(1), substituted “1993” for “1991”.
 
 Subsec. (f)(1)(B). Pub. L. 101–508, §11501(a)(2), substituted “2003” for “2001”.
 
-1988—Subsec. (f)(1)(A)(i), (ii). Pub. L. 100–647 substituted “1991” for “1990”.
+<b>1988</b>—Subsec. (f)(1)(A)(i), (ii). Pub. L. 100–647 substituted “1991” for “1990”.
 
-1986—Subsec. (b)(5). Pub. L. 99–514, §701(c)(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The credit allowed by subsection (a) for a taxable year shall not exceed the taxpayer's tax liability for the taxable year (as defined in section 26(b)), reduced by the sum of the credits allowable under subpart A and sections 27 and 28.”
+<b>1986</b>—Subsec. (b)(5). Pub. L. 99–514, §701(c)(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The credit allowed by subsection (a) for a taxable year shall not exceed the taxpayer's tax liability for the taxable year (as defined in section 26(b)), reduced by the sum of the credits allowable under subpart A and sections 27 and 28.”
 
 Subsec. (d)(8). Pub. L. 99–514, §1879(c)(1), inserted provision directing that a corporation which is a member of an affiliated group of corporations filing a consolidated return shall be treated as selling qualified fuels to an unrelated person if such fuels are sold to such person by another member of such group.
 
-1984—Pub. L. 98–369, §471(c), renumbered section 44D of this title as this section.
+<b>1984</b>—Pub. L. 98–369, §471(c), renumbered section 44D of this title as this section.
 
 Subsec. (b)(1)(A). Pub. L. 98–369, §722(d)(1), substituted “in which the sale occurs” for “in which the taxable year begins”.
 
@@ -346,11 +346,11 @@ Subsec. (b)(5). Pub. L. 98–369, §612(e)(1), substituted “section 26(b)” f
 
 Pub. L. 98–369, §474(h), amended par. (5) generally, substituting “shall not exceed the taxpayer's tax liability for the taxable year (as defined in section 25(b)), reduced by the sum of the credits allowable under subpart A and sections 27 and 28” for “shall not exceed the tax imposed by this chapter for such taxable year, reduced by the sum of the credits allowable under a section of this subpart having a lower number or letter designation than this section, other than the credits allowable by sections 31, 39, and 43. For purposes of the preceding sentence, the term ‘tax imposed by this chapter’ shall not include any tax treated as not imposed by this chapter under the last sentence of section 53(a)”.
 
-1983—Subsec. (f)(1)(B), (2)(A)(i). Pub. L. 97–448 substituted “December 31, 1979” for “December 3, 1979”.
+<b>1983</b>—Subsec. (f)(1)(B), (2)(A)(i). Pub. L. 97–448 substituted “December 31, 1979” for “December 3, 1979”.
 
-1982—Subsec. (d)(9). Pub. L. 97–354 substituted “Pass-thru in the case of estates and trusts” for “Pass-through in the case of subchapter S corporations, etc.” in par. heading, and substituted provisions relating to the applicability of rules similar to rules of subsec. (d) of section 52 for provisions relating to the applicability of rules similar to rules of subsecs. (d) and (e) of section 52.
+<b>1982</b>—Subsec. (d)(9). Pub. L. 97–354 substituted “Pass-thru in the case of estates and trusts” for “Pass-through in the case of subchapter S corporations, etc.” in par. heading, and substituted provisions relating to the applicability of rules similar to rules of subsec. (d) of section 52 for provisions relating to the applicability of rules similar to rules of subsecs. (d) and (e) of section 52.
 
-1981—Subsec. (e). Pub. L. 97–34 substituted provisions respecting application with the Natural Gas Policy Act of 1978 for prior provision reading “If the taxpayer makes an election under section 107(d) of the Natural Gas Policy Act of 1978 to have subsections (a) and (b) of section 107 of that Act, and subtitle B of title I of that Act, apply with respect to gas described in subsection (c)(1)(B)(i) produced from any well on a property, then the credit allowable by subsection (a) shall not be allowed with respect to any gas produced on that property.”
+<b>1981</b>—Subsec. (e). Pub. L. 97–34 substituted provisions respecting application with the Natural Gas Policy Act of 1978 for prior provision reading “If the taxpayer makes an election under section 107(d) of the Natural Gas Policy Act of 1978 to have subsections (a) and (b) of section 107 of that Act, and subtitle B of title I of that Act, apply with respect to gas described in subsection (c)(1)(B)(i) produced from any well on a property, then the credit allowable by subsection (a) shall not be allowed with respect to any gas produced on that property.”
 
 #### Effective Date of 2008 Amendment
 
@@ -362,7 +362,7 @@ Pub. L. 109–432, div. A, title II, §211(c), Dec. 20, 2006, 120 Stat. 2948, pr
 
 #### Effective Date of 2005 Amendments
 
-Amendment by section 402(g) of Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
+Amendment by section 402(g) of Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
 
 Pub. L. 109–58, title XIII, §1321(b), Aug. 8, 2005, 119 Stat. 1011, provided that: “The amendment made by this section \[amending this section\] shall apply to fuel produced and sold after December 31, 2005, in taxable years ending after such date.”
 
@@ -410,7 +410,7 @@ Section 11821(a) of Pub. L. 101–508 provided that: “Except as otherwise prov
 
 Amendment by section 701(c)(3) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
 
-Section 1879(c)(2) of Pub. L. 99–514 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall take effect as if included in the amendments made by section 231 of Public Law 96–223 \[see Effective Date note below\].”
+Section 1879(c)(2) of Pub. L. 99–514 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 231 of Public Law 96–223 \[see Effective Date note below\].”
 
 #### Effective Date of 1984 Amendment
 
@@ -464,9 +464,13 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following:
 
-2008—Internal Revenue Notice 2009–32.
+<b>2010</b>—Internal Revenue Notice 2011–30.
 
-2007—Internal Revenue Notice 2008–44.
+<b>2009</b>—Internal Revenue Notice 2010–31.
 
-2006—Internal Revenue Notice 2007–38.
+<b>2008</b>—Internal Revenue Notice 2009–32.
+
+<b>2007</b>—Internal Revenue Notice 2008–44.
+
+<b>2006</b>—Internal Revenue Notice 2007–38.
 

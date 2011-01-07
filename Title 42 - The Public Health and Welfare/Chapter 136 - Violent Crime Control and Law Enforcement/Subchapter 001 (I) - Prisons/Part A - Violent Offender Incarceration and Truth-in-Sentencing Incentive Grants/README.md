@@ -1,7 +1,5 @@
 Part A—Violent Offender Incarceration and Truth-in-Sentencing Incentive Grants
 
-<i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
-
 
 ---
 

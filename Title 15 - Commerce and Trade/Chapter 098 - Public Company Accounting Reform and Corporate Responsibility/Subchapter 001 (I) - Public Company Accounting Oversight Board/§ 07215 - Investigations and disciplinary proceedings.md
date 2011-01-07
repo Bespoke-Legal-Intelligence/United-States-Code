@@ -42,7 +42,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (A) Coordination
 
-&emsp;&emsp;The Board shall notify the Commission of any pending Board investigation involving a potential violation of the securities laws,and thereafter coordinate its work with the work of the Commission's Division of Enforcement, as necessary to protect an ongoing Commission investigation.
+&emsp;&emsp;The Board shall notify the Commission of any pending Board investigation involving a potential violation of the securities laws, and thereafter coordinate its work with the work of the Commission's Division of Enforcement, as necessary to protect an ongoing Commission investigation.
 
 #### (B) Referral
 
@@ -50,9 +50,11 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 &emsp;&emsp;&emsp;(i) to the Commission;
 
-&emsp;&emsp;&emsp;(ii) to any other Federal functional regulator (as defined in section 6809 of this title), in the case of an investigation that concerns an audit report for an institution that is subject to the jurisdiction of such regulator; and
+&emsp;&emsp;&emsp;(ii) to a self-regulatory organization, in the case of an investigation that concerns an audit report for a broker or dealer that is under the jurisdiction of such self-regulatory organization;
 
-&emsp;&emsp;&emsp;(iii) at the direction of the Commission, to—
+&emsp;&emsp;&emsp;(iii) to any other Federal functional regulator (as defined in section 6809 of this title), in the case of an investigation that concerns an audit report for an institution that is subject to the jurisdiction of such regulator; and
+
+&emsp;&emsp;&emsp;(iv) at the direction of the Commission, to—
 
 &emsp;&emsp;&emsp;&emsp;(I) the Attorney General of the United States;
 
@@ -64,7 +66,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (A) Confidentiality
 
-&emsp;&emsp;Except as provided in subparagraph (B), all documents and information prepared or received by or specifically for the Board, and deliberations of the Board and its employees and agents, in connection with an inspection under section 7214 of this title or with an investigation under this section, shall be confidential and privileged as an evidentiary matter (and shall not be subject to civil discovery or other legal process) in any proceeding in any Federal or State court or administrative agency, and shall be exempt from disclosure, in the hands of an agency or establishment of the Federal Government, under the Freedom of Information Act (5 U.S.C. 552a),<sup>1</sup> or otherwise, unless and until presented in connection with a public proceeding or released in accordance with subsection (c) of this section.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), all documents and information prepared or received by or specifically for the Board, and deliberations of the Board and its employees and agents, in connection with an inspection under section 7214 of this title or with an investigation under this section, shall be confidential and privileged as an evidentiary matter (and shall not be subject to civil discovery or other legal process) in any proceeding in any Federal or State court or administrative agency, and shall be exempt from disclosure, in the hands of an agency or establishment of the Federal Government, under the Freedom of Information Act (5 U.S.C. 552a),<sup>1</sup> or otherwise, unless and until presented in connection with a public proceeding or released in accordance with subsection (c) of this section.
 
 #### (B) Availability to Government agencies
 
@@ -78,11 +80,29 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 &emsp;&emsp;&emsp;&emsp;(II) the appropriate Federal functional regulator (as defined in section 6809 of this title), other than the Commission, and the Director of the Federal Housing Finance Agency, with respect to an audit report for an institution subject to the jurisdiction of such regulator;
 
-&emsp;&emsp;&emsp;&emsp;(III) State attorneys general in connection with any criminal investigation; and
+&emsp;&emsp;&emsp;&emsp;(III) State attorneys general in connection with any criminal investigation;
 
-&emsp;&emsp;&emsp;&emsp;(IV) any appropriate State regulatory authority,
+&emsp;&emsp;&emsp;&emsp;(IV) any appropriate State regulatory authority; and
+
+&emsp;&emsp;&emsp;&emsp;(V) a self-regulatory organization, with respect to an audit report for a broker or dealer that is under the jurisdiction of such self-regulatory organization,
 
 > &emsp;&emsp;each of which shall maintain such information as confidential and privileged.
+
+#### (C) Availability to foreign oversight authorities
+
+&emsp;&emsp;Without the loss of its status as confidential and privileged in the hands of the Board, all information referred to in subparagraph (A) that relates to a public accounting firm that a foreign government has empowered a foreign auditor oversight authority to inspect or otherwise enforce laws with respect to, may, at the discretion of the Board, be made available to the foreign auditor oversight authority, if—
+
+&emsp;&emsp;&emsp;(i) the Board finds that it is necessary to accomplish the purposes of this Act or to protect investors;
+
+&emsp;&emsp;&emsp;(ii) the foreign auditor oversight authority provides—
+
+&emsp;&emsp;&emsp;&emsp;(I) such assurances of confidentiality as the Board may request;
+
+&emsp;&emsp;&emsp;&emsp;(II) a description of the applicable information systems and controls of the foreign auditor oversight authority; and
+
+&emsp;&emsp;&emsp;&emsp;(III) a description of the laws and regulations of the foreign government of the foreign auditor oversight authority that are relevant to information access; and
+
+&emsp;&emsp;&emsp;(iii) the Board determines that it is appropriate to share such information.
 
 #### (6) Immunity
 
@@ -102,7 +122,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (2) Public hearings
 
-&emsp;Hearings under this section shall not be public, unless otherwise ordered by the Board for good cause shown, with the consent of the parties to such hearing.
+&emsp;Hearings under this section shall not be public, unless otherwise ordered by the Board forgood cause shown, with the consent of the parties to such hearing.
 
 #### (3) Supporting statement
 
@@ -148,7 +168,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (A) In general
 
-&emsp;&emsp;The Board may impose sanctions under this section on a registered accounting firm or upon the supervisory personnel of such firm, if the Board finds that—
+&emsp;&emsp;The Board may impose sanctions under this section on a registered accounting firm or upon any person who is, or at the time of the alleged failure reasonably to supervise was, a supervisory person of such firm, if the Board finds that—
 
 &emsp;&emsp;&emsp;(i) the firm has failed reasonably to supervise an associated person, either as required by the rules of the Board relating to auditing or quality control standards, or otherwise, with a view to preventing violations of this Act, the rules of the Board, the provisions of the securities laws relating to the preparation and issuance of audit reports and the obligations and liabilities of accountants with respect thereto, including the rules of the Commission under this Act, or professional standards; and
 
@@ -156,7 +176,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (B) Rule of construction
 
-&emsp;&emsp;No associated person of a registered public accounting firm shall be deemed to have failed reasonably to supervise any other person for purposes of subparagraph (A), if—
+&emsp;&emsp;No current or former supervisory person of a registered public accounting firm shall be deemed to have failed reasonably to supervise any associated person for purposes of subparagraph (A), if—
 
 &emsp;&emsp;&emsp;(i) there have been established in and for that firm procedures, and a system for applying such procedures, that comply with applicable rules of the Board and that would reasonably be expected to prevent and detect any such violation by such associated person; and
 
@@ -168,9 +188,9 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 &emsp;&emsp;It shall be unlawful for any person that is suspended or barred from being associated with a registered public accounting firm under this subsection willfully to become or remain associated with any registered public accounting firm, or for any registered public accounting firm that knew, or, in the exercise of reasonable care should have known, of the suspension or bar, to permit such an association, without the consent of the Board or the Commission.
 
-#### (B) Association with an issuer
+#### (B) Association with an issuer, broker, or dealer
 
-&emsp;&emsp;It shall be unlawful for any person that is suspended or barred from being associated with an issuer under this subsection willfully to become or remain associated with any issuer in an accountancy or a financial management capacity, and for any issuer that knew, or in the exercise of reasonable care should have known, of such suspension or bar, to permit such an association, without the consent of the Board or the Commission.
+&emsp;&emsp;It shall be unlawful for any person that is suspended or barred from being associated with a registered public accounting firm under this subsection willfully to become or remain associated with any issuer, broker, or dealer in an accountancy or a financial management capacity, and for any issuer, broker, or dealer that knew, or in the exercise of reasonable care should have known, of such suspension or bar, to permit such anassociation, without the consent of the Board or the Commission.
 
 #### (d) Reporting of sanctions
 
@@ -202,19 +222,37 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (2) Expedited procedures
 
-&emsp;The Commission shall establish for appropriate cases an expedited procedure for consideration and determination of the question of the duration of a stay pending review of anydisciplinary action of the Board under this subsection.
+&emsp;The Commission shall establish for appropriate cases an expedited procedure for consideration and determination of the question of the duration of a stay pending review of any disciplinary action of the Board under this subsection.
 
-(Pub. L. 107–204, title I, §105, July 30, 2002, 116 Stat. 759; Pub. L. 110–289, div. A, title I, §1161(h), July 30, 2008, 122 Stat. 2781.)
+(Pub. L. 107–204, title I, §105, July 30, 2002, 116 Stat. 759; Pub. L. 110–289, div. A, title I, §1161(h), July 30, 2008, 122 Stat. 2781; Pub. L. 111–203, title IX, §§929F(h), 981(b), (c), 982(f), (i), (j), July 21, 2010, 124 Stat. 1855, 1926, 1927, 1929–1931.)
 
 #### References in Text
 
-This Act, referred to in subsecs. (b)(1), (5)(B)(ii), (6) and (c)(3)(B), (4), (6)(A), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (b)(1), (5)(B)(ii), (C)(i), (6) and (c)(3)(B), (4), (6)(A), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
 
 The Freedom of Information Act, referred to in subsec. (b)(5)(A), is section 552 of Title 5, Government Organization and Employees. Section 552a of Title 5 is commonly known as the “Privacy Act”.
 
 #### Amendments
 
-2008—Subsec. (b)(5)(B)(ii)(II). Pub. L. 110–289 inserted “and the Director of the Federal Housing Finance Agency,” after “Commission,”.
+<b>2010</b>—Subsec. (b)(4)(B)(ii) to (iv). Pub. L. 111–203, §982(i), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
+
+Subsec. (b)(5)(A). Pub. L. 111–203, §981(c), substituted “subparagraphs (B) and (C)” for “subparagraph (B)”.
+
+Subsec. (b)(5)(B)(ii)(V). Pub. L. 111–203, §982(j), added subcl. (V).
+
+Subsec. (b)(5)(C). Pub. L. 111–203, §981(b), added subpar. (C).
+
+Subsec. (c)(6)(A). Pub. L. 111–203, §929F(h)(1), substituted “any person who is, or at the time of the alleged failure reasonably to supervise was, a supervisory person” for “the supervisory personnel” in introductory provisions.
+
+Subsec. (c)(6)(B). Pub. L. 111–203, §929F(h)(2), in introductory provisions, substituted “No current or former supervisory person” for “No associated person” and “any associated person” for “any other person”.
+
+Subsec. (c)(7)(B). Pub. L. 111–203, §982(f), in heading, inserted “, broker, or dealer” after “issuer” and, in text, substituted “a registered public accounting firm under this subsection” for “an issuer under this subsection” and “any issuer, broker, or dealer” for “any issuer” in two places.
+
+<b>2008</b>—Subsec. (b)(5)(B)(ii)(II). Pub. L. 110–289 inserted “and the Director of the Federal Housing Finance Agency,” after “Commission,”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

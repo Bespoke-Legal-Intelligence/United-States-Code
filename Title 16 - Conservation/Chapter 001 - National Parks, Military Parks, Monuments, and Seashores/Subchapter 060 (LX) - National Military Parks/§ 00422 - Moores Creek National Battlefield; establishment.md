@@ -8,7 +8,7 @@ First tract: Beginning at a stone at the run of Moores Creek, on the east bank o
 
 Second tract: Beginning at a sweet gum on the eastern edge of Moores Creek, running thence south forty-four degrees east two poles to a stake; thence south fifty-one degrees east four poles five links to a stake; thence south thirty-nine degrees west thirteen poles twenty-seven links to a stake; thence north fifty-one degrees west nine poles thirty-one links to a stake in the edge of Moores Creek; thence northerly with the creek to the beginning, containing eight acres more or less.
 
-Third tract: Beginning at a cypress on the edge of the run of Moores Creek about twenty feet from the west end of the old entrenchments and running thence in a line parallel to and ten feet distance from the outside or east edge of the old line of entrenchments in all the variouscourses of the same to a stake ten feet distant on the east side of the north end of said entrenchments; thence a direct line to the run of said Moores Creek; thence down said creek to the beginning, containing two acres, be the same more or less (the intention is to include all lands now known and designated as Moores Creek battlefield and now so recognized as such and owned by the State of North Carolina), together with all the privileges and appurtenances thereunto belonging.
+Third tract: Beginning at a cypress on the edge of the run of Moores Creek about twenty feet from the west end of the old entrenchments and running thence in a line parallel to and ten feet distance <sup>1</sup> from the outside or east edge of the old line of entrenchments in all the various courses of the same to a stake ten feet distant on the east side of the north end of said entrenchments; thence a direct line to the run of said Moores Creek; thence down said creek to the beginning, containing two acres, be the same more or less (the intention is to include all lands now known and designated as Moores Creek battlefield and now so recognized as such and owned by the State of North Carolina), together with all the privileges and appurtenances thereunto belonging.
 
 The aforesaid tracts of land containing in the aggregate thirty acres, more or less, and being the property of the State of North Carolina, and the area thus inclosed shall be known as the Moores Creek National Battlefield.
 
@@ -17,4 +17,6 @@ The aforesaid tracts of land containing in the aggregate thirty acres, more or l
 #### Change of Name
 
 In the first undesignated par., “battlefield” substituted for “military park” and in last undesignated par., “Battlefield” substituted for “Military Park” on authority of Pub. L. 96–344, §12, Sept. 8, 1980, 94 Stat. 1136, which redesignated Moores Creek National Military Park as Moores Creek National Battlefield.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “distant”.</i>
 

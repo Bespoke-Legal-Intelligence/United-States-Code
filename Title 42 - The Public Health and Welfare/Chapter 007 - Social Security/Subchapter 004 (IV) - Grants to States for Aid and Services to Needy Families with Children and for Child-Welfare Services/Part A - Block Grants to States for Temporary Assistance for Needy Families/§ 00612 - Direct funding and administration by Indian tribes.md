@@ -22,7 +22,7 @@
 
 #### (II) Disagreement with determination
 
-&emsp;&emsp;&emsp;&emsp;If an Indian tribe or tribal organization disagrees with State submitted data described under subclause (I), the Indian tribe or tribal organization may submit to the Secretary such additional information as may be relevant to making the determination under clause (i) and the Secretary may consider such information before making such determination.
+&emsp;&emsp;&emsp;&emsp;If an Indian tribe or tribal organization disagrees with State submitted data described under subclause (I), the Indiantribe or tribal organization may submit to the Secretary such additional information as may be relevant to making the determination under clause (i) and the Secretary may consider such information before making such determination.
 
 #### (2) Grants for Indian tribes that received jobs funds
 
@@ -88,7 +88,7 @@
 
 &emsp;&emsp;(D) provides that a family receiving assistance under the plan may not receive duplicative assistance from other State or tribal programs funded under this part;
 
-&emsp;&emsp;(E) identifies the employment opportunities in or near the service area or areas of the Indian tribe and the manner in which the Indian tribe will cooperate and participate in enhancing such opportunities for recipients of assistance under the plan consistent with any applicable State standards; and
+&emsp;&emsp;(E) identifies the employment opportunities in or near the service area or areas ofthe Indian tribe and the manner in which the Indian tribe will cooperate and participate in enhancing such opportunities for recipients of assistance under the plan consistent with any applicable State standards; and
 
 &emsp;&emsp;(F) applies the fiscal accountability provisions of section 5(f)(1) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450c(f)(1)), relating to the submission of a single-agency audit report required by chapter 75 of title 31.
 
@@ -162,13 +162,13 @@ A prior section 612, act Aug. 14, 1935, ch. 531, title IV, §412, as added June 
 
 #### Amendments
 
-2003—Subsec. (a)(1)(A), (2)(A). Pub. L. 108–40 substituted “2002, and 2003” for “and 2002”.
+<b>2003</b>—Subsec. (a)(1)(A), (2)(A). Pub. L. 108–40 substituted “2002, and 2003” for “and 2002”.
 
-2000—Subsec. (a)(3)(A). Pub. L. 106–554 substituted “603(a)(5)(H)” for “603(a)(5)(I)”.
+<b>2000</b>—Subsec. (a)(3)(A). Pub. L. 106–554 substituted “603(a)(5)(H)” for “603(a)(5)(I)”.
 
-1999—Subsec. (a)(3)(C)(ii). Pub. L. 106–113 substituted “clause (viii)” for “clause (vii)”.
+<b>1999</b>—Subsec. (a)(3)(C)(ii). Pub. L. 106–113 substituted “clause (viii)” for “clause (vii)”.
 
-1997—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
+<b>1997</b>—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
 Subsec. (a)(1)(A). Pub. L. 105–33, §5508(a), inserted “which shall be reduced for a fiscal year, on a pro rata basis for each quarter, in the case of a tribal family assistance plan approved during a fiscal year for which the plan is to be in effect,” before “and shall”.
 

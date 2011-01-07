@@ -22,9 +22,9 @@ The words “members of the Coast Guard” are substituted for the words “offi
 
 #### Amendments
 
-2002—Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+<b>2002</b>—Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-1968—Pub. L. 90–623 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+<b>1968</b>—Pub. L. 90–623 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
 #### Effective Date of 2002 Amendment
 

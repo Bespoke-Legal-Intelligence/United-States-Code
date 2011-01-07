@@ -14,9 +14,9 @@ Section constitutes subsec. (d) of section 28 of act July 22, 1954. Subsecs. (a)
 
 #### Amendments
 
-1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1954—Act Sept. 1, 1954, subjected the Virgin Islands to the general provision for importations from insular possessions contained in section 1301a of Title 19, Customs Duties.
+<b>1954</b>—Act Sept. 1, 1954, subjected the Virgin Islands to the general provision for importations from insular possessions contained in section 1301a of Title 19, Customs Duties.
 
 #### Effective Date of 1954 Amendment
 

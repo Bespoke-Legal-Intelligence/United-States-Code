@@ -34,7 +34,7 @@ Except as exempted pursuant to subsection (c) of this section, no person shall a
 
 &emsp;(B) end on the thirtieth day after the date of such receipt (or in the case of a cash tender offer, the fifteenth day), or on such later date as may be set under subsection (e)(2) or (g)(2) of this section.
 
-(2) The Federal Trade Commission and the Assistant Attorney General may, in individual cases, terminate the waiting period specified in paragraph (1) and allow any person to proceed with any acquisition subject to this section, and promptly shall cause to be published in the Federal Register a notice that neither intends to take any action within such period with respect to such acquisition.
+(2) The Federal Trade Commission and the Assistant Attorney General may, in individualcases, terminate the waiting period specified in paragraph (1) and allow any person to proceed with any acquisition subject to this section, and promptly shall cause to be published in the Federal Register a notice that neither intends to take any action within such period with respect to such acquisition.
 
 (3) As used in this section—
 
@@ -150,7 +150,7 @@ If the end of any period of time provided in this section falls on a Saturday, S
 
 The antitrust laws, referred to in subsecs. (c), (d), are defined in section 12 of this title.
 
-This Act, referred to in subsec. (i)(1), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, known as theClayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
+This Act, referred to in subsec. (i)(1), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
 
 The Federal Trade Commission Act, referred to in subsec. (i)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
@@ -164,7 +164,7 @@ Subsection (j), which required the Federal Trade Commission, with the concurrenc
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–553, §1(a)(2) \[title VI, §630(a)\], amended subsec. (a) generally, reenacting introductory provisions, par. (1), and concluding provisions without change, adding par. (2), and striking out former pars. (2) and (3) which read as follows:
+<b>2000</b>—Subsec. (a). Pub. L. 106–553, §1(a)(2) \[title VI, §630(a)\], amended subsec. (a) generally, reenacting introductory provisions, par. (1), and concluding provisions without change, adding par. (2), and striking out former pars. (2) and (3) which read as follows:
 
 “(2)(A) any voting securities or assets of a person engaged in manufacturing which has annual net sales or total assets of $10,000,000 or more are being acquired by any person which has total assets or annual net sales of $100,000,000 or more;
 
@@ -184,15 +184,15 @@ Subsec. (e)(2). Pub. L. 106–553, §1(a)(2) \[title VI, §630(d)(1)\], substitu
 
 Subsec. (k). Pub. L. 106–553, §1(a)(2) \[title VI, §630(d)(2)\], added subsec. (k).
 
-1999—Subsec. (c)(7). Pub. L. 106–102, §133(c)(1), inserted before semicolon at end “, except that a portion of a transaction is not exempt under this paragraph if such portion of the transaction (A) is subject to section 1843(k) of title 12; and (B) does not require agency approval under section 1842 of title 12”.
+<b>1999</b>—Subsec. (c)(7). Pub. L. 106–102, §133(c)(1), inserted before semicolon at end “, except that a portion of a transaction is not exempt under this paragraph if such portion of the transaction (A) is subject to section 1843(k) of title 12; and (B) does not require agency approval under section 1842 of title 12”.
 
 Subsec. (c)(8). Pub. L. 106–102, §133(c)(2), inserted before semicolon at end “, except that a portion of a transaction is not exempt under this paragraph if such portion of the transaction (A) is subject to section 1843(k) of title 12; and (B) does not require agency approval under section 1843 of title 12”.
 
-1989—Subsec. (c)(7). Pub. L. 101–73, §1214(1), inserted reference to section 1467a(e) of title 12.
+<b>1989</b>—Subsec. (c)(7). Pub. L. 101–73, §1214(1), inserted reference to section 1467a(e) of title 12.
 
 Subsec. (c)(8). Pub. L. 101–73, §1214(2), struck out reference to section 1726 or 1730a(e) of title 12.
 
-1984—Subsec. (f)(2). Pub. L. 98–620 struck out designation “(A)” before “upon the filing”, and struck out subpar. (B) which had provided that if the Federal Trade Commission or the Assistant Attorney General certified that he or it believed that the public interest required relief pendente lite pursuant to this subsection, the motion for a preliminary injunction had to be set down for hearing by the district judge so designated at the earliest practicable time, would take precedence over all matters except older matters of the same character and trials pursuant to section 3161 of title 18, and had to be in every way expedited.
+<b>1984</b>—Subsec. (f)(2). Pub. L. 98–620 struck out designation “(A)” before “upon the filing”, and struck out subpar. (B) which had provided that if the Federal Trade Commission or the Assistant Attorney General certified that he or it believed that the public interest required relief pendente lite pursuant to this subsection, the motion for a preliminary injunction had to be set down for hearing by the district judge so designated at the earliest practicable time, would take precedence over all matters except older matters of the same character and trials pursuant to section 3161 of title 18, and had to be in every way expedited.
 
 #### Effective Date of 2000 Amendment
 
@@ -208,7 +208,7 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 #### Effective Date
 
-Section 202 of Pub. L. 94–435 provided that: “The amendment made by section 201 of this Act \[enacting this section\] shall take effect 150 days after the date of enactment of this Act \[Sept. 30, 1976\], except that subsection (d) of section 7A of the Clayton Act \[subsec. (d) of this section\] (as added by section 201 of this Act) shall take effect on the date of enactment of this Act.”
+Section 202 of Pub. L. 94–435 provided that: “The amendment made by section 201 of this Act \[enacting this section\] shall take effect 150 days after the date of enactment of this Act \[Sept. 30, 1976\], except that subsection (d) of section 7A of the Clayton Act \[subsec. (d)of this section\] (as added by section 201 of this Act) shall take effect on the date of enactment of this Act.”
 
 #### Assessment and Collection of Filing Fees
 
@@ -218,7 +218,7 @@ Pub. L. 101–162, title VI, §605, Nov. 21, 1989, 103 Stat. 1031, as amended by
 
 “(b) The filing fees referred to in subsection (a) are—
 
-&emsp;“(1) $45,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is less than $100,000,000 (as adjusted and published for each fiscal year beginning after September 30, 2004, in the same manner as provided insection 8(a)(5) of the Clayton Act (15 U.S.C. 19(a)(5)) to reflect the percentage change in the gross national product for such fiscal year compared to the gross national product for the year ending September 30, 2003);
+&emsp;“(1) $45,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is less than $100,000,000 (as adjusted and published for each fiscal year beginning after September 30, 2004, in the same manner as provided in section 8(a)(5) of the Clayton Act (15 U.S.C. 19(a)(5)) to reflect the percentage change in the gross national product for such fiscal year compared to the gross national product for the year ending September 30, 2003);
 
 &emsp;“(2) $125,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is not less than $100,000,000 (as so adjusted and published) but less than $500,000,000 (as so adjusted and published); and
 

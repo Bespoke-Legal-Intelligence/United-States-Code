@@ -74,7 +74,7 @@ Any State program or activity to protect the integrity of the electoral process 
 
 (1) A State shall not remove the name of a registrant from the official list of eligible voters in elections for Federal office on the ground that the registrant has changed residence unless the registrant—
 
-&emsp;(A) confirms in writing that the registrant has changed residence to a place outside theregistrar's jurisdiction in which the registrant is registered; or
+&emsp;(A) confirms in writing that the registrant has changed residence to a place outside the registrar's jurisdiction in which the registrant is registered; or
 
 &emsp;(B)(i) has failed to respond to a notice described in paragraph (2); and
 
@@ -144,7 +144,7 @@ For the purposes of this section, the term “registrar's jurisdiction” means�
 
 &emsp;(1) an incorporated city, town, borough, or other form of municipality;
 
-&emsp;(2) if voter registration is maintained by a county, parish, or other unit of government that governs a larger geographic area than a municipality, the geographic area governed by that unit of government; or
+&emsp;(2) if voter registration is maintained by a county, parish, or other unit of government that governs a larger geographic area than amunicipality, the geographic area governed by that unit of government; or
 
 &emsp;(3) if voter registration is maintained on a consolidated basis for more than one municipality or other unit of government by an office that performs all of the functions of a voting registrar, the geographic area of the consolidated municipalities or other geographic units.
 
@@ -160,7 +160,7 @@ Section is comprised of section 8 of Pub. L. 103–31. Subsec. (h) of section 8 
 
 #### Amendments
 
-2002—Subsec. (b)(2). Pub. L. 107–252 inserted before period at end “, except that nothing in this paragraph may be construed to prohibit a State from using the procedures described in subsections (c) and (d) of this section to remove an individual from the official list of eligible voters if the individual—
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–252 inserted before period at end “, except that nothing in this paragraph may be construed to prohibit a State from using the procedures described in subsections (c) and (d) of this section to remove an individual from the official list of eligible voters if the individual—
 
 &emsp;“(A) has not either notified the applicable registrar (in person or in writing) or responded during the period described in subparagraph (B) to the notice sent by the applicable registrar; and then
 

@@ -18,7 +18,7 @@ Within one hundred and eighty days after December 11, 1980, the President shall,
 
 &emsp;(7) means of assuring that remedial action measures are cost-effective over the period of potential exposure to the hazardous substances or contaminated materials;
 
-&emsp;(8)(A) criteria for determining priorities among releases or threatened releases throughout the United States for the purpose of taking remedial action and, to the extent practicable taking into account the potential urgency of such action, for the purpose of taking removal action. Criteria and priorities under this paragraph shall be based upon relative risk or danger to public health or welfare or the environment, in the judgment of the President, taking into account to the extent possible the population at risk, the hazard potential of the hazardous substances at such facilities, the potential for contamination of drinking water supplies, the potential for direct human contact, the potential for destruction of sensitive ecosystems, the damageto natural resources which may affect the human food chain and which is associated with any release or threatened release, the contamination or potential contamination of the ambient air which is associated with the release or threatened release, State preparedness to assume State costs and responsibilities, and other appropriate factors;
+&emsp;(8)(A) criteria for determining priorities among releases or threatened releases throughout the United States for the purpose of taking remedial action and, to the extent practicable taking into account the potential urgency of such action, for the purpose of taking removal action. Criteria and priorities under this paragraph shall be based upon relative risk or danger to public health or welfare or the environment, in the judgment of the President, taking into account to the extent possible the population at risk, the hazard potential of the hazardous substances at such facilities, the potential for contamination of drinking water supplies, the potential for direct human contact, the potential for destruction of sensitive ecosystems, the damage to natural resources which may affect the human food chain and which is associated with any release or threatened release, the contamination or potential contamination of the ambient air which is associated with the release or threatened release, State preparedness to assume State costs and responsibilities, and other appropriate factors;
 
 &emsp;(B) based upon the criteria set forth in subparagraph (A) of this paragraph, the President shall list as part of the plan national priorities among the known releases or threatened releases throughout the United States and shall revise the list no less often than annually. Within one year after December 11, 1980, and annually thereafter, each State shall establish and submit for consideration by the President priorities for remedial action among known releases and potential releases in that State based upon the criteria set forth in subparagraph (A) of this paragraph. In assembling or revising the national list, the President shall consider any priorities established by the States. To the extent practicable, the highest priority facilities shall be designated individually and shall be referred to as the “top priority among known response targets”, and, to the extent practicable, shall include among the one hundred highest priority facilities one such facility from each State which shall be the facility designated by the State as presenting the greatest danger to public health or welfare or the environment among the known facilities in such State. A State shall be allowed to designate its highest priority facility only once. Other priority facilities or incidents may be listed singly or grouped for response priority purposes;
 
@@ -108,7 +108,7 @@ In awarding contracts under this chapter, the President shall consider the avail
 
 #### (3) Cleanup agreements
 
-&emsp;With respect to an eligible response site under paragraph (1)(B), if, after the last day of the 1-year period beginning on the date on which the President proposes to list the eligible response site on the National PrioritiesList, an agreement described in paragraph (1)(B) has not been reached, the President may defer the listing of the eligible response site on the National Priorities List for an additional period of not to exceed 180 days if the President determines deferring the listing would be appropriate based on—
+&emsp;With respect to an eligible response site under paragraph (1)(B), if, after the last day of the 1-year period beginning on the date on which the President proposes to list the eligible response site on the National Priorities List, an agreement described in paragraph (1)(B) has not been reached, the President may defer the listing of the eligible response site on the National Priorities List for an additional period of not to exceed 180 days if the President determines deferring the listing would be appropriate based on—
 
 &emsp;&emsp;(A) the complexity of the site;
 
@@ -130,15 +130,17 @@ In awarding contracts under this chapter, the President shall consider the avail
 
 #### References in Text
 
+This chapter, referred to in subsecs. (a), (b), (c)(4), (f), and (g)(4), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+
 Section 1321(c)(2) of title 33, referred to in subsec. (a), was amended generally by Pub. L. 101–380, title IV, §4201(a), Aug. 18, 1990, 104 Stat. 523. Prior to general amendment, subsec. (c)(2) related to preparation of a National Contingency Plan. Provisions relating to a National Contingency Plan are contained in section 1321(d) of Title 33, Navigation and Navigable Waters.
 
 Such amendments and the amendments made by the Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (b), are the amendments made by Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 9601 of this title and Tables.
 
 #### Amendments
 
-2002—Subsec. (h). Pub. L. 107–118 added subsec. (h).
+<b>2002</b>—Subsec. (h). Pub. L. 107–118 added subsec. (h).
 
-1986—Subsec. (a). Pub. L. 99–499, §105(a)(1), designated existing provisions as subsec. (a) and added heading.
+<b>1986</b>—Subsec. (a). Pub. L. 99–499, §105(a)(1), designated existing provisions as subsec. (a) and added heading.
 
 Subsec. (a)(8)(A). Pub. L. 99–499, §105(a)(2), inserted “the damage to natural resources which may affect the human food chain and which is associated with any release or threatened release, the contamination or potential contamination of the ambient air which is associated with the release or threatened release,” after “ecosystems,”.
 

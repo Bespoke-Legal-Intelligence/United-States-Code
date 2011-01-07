@@ -16,5 +16,5 @@ The Secretary may make minor revisions of the park and preservation district bou
 
 #### Amendments
 
-2008—Subsec. (a)(3). Pub. L. 110–229 added par. (3).
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–229 added par. (3).
 

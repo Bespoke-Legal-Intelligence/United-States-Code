@@ -70,7 +70,9 @@
 
 &emsp;(G) a position designated under section 1607(a) of title 10 as an Intelligence Senior Level position; or
 
-&emsp;(H) a position in the Library of Congress the compensation for which is set at a rate equal to the annual rate of basic pay payable for positions at level III of the Executive Schedule under section 5314.
+&emsp;(H) <sup>1</sup> a position in the Library of Congress the compensation for which is set at a rate equal to the annual rate of basic pay payable for positions at level III of the Executive Schedule under section 5314.
+
+&emsp;(H) <sup>1</sup> a position in the United States Secret Service Uniformed Division at the rank of Deputy Chief, Assistant Chief, or Chief.
 
 (2) For purposes of applying any limitation on accumulation under this section with respect to any annual leave described in paragraph (1)—
 
@@ -78,7 +80,7 @@
 
 &emsp;(B) “45 days” in subsection (b) shall be deemed to read “90 days”.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 519; Pub. L. 93–181, §3, Dec. 14, 1973, 87 Stat. 705; Pub. L. 95–454, title IV, §410, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1173, 1224; Pub. L. 96–54, §2(a)(39), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–465, title II, §2312(b), Oct. 17, 1980, 94 Stat. 2166; Pub. L. 97–89, title VIII, §802, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 100–325, §2(k), May 30, 1988, 102 Stat. 582; Pub. L. 102–378, §2(53), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–484, div. D, title XLIV, §4434, Oct. 23, 1992, 106 Stat. 2722; Pub. L. 103–337, div. A, title III, §341(c), div. B, title XXVIII, §2816(a), Oct. 5, 1994, 108 Stat. 2720, 3056; Pub. L. 103–356, title II, §201(a), Oct. 13, 1994, 108 Stat. 3411; Pub. L. 105–261, div. A, title XI, §1105, Oct. 17, 1998, 112 Stat. 2142; Pub. L. 106–65, div. A, title XI, §1103(a), Oct. 5, 1999, 113 Stat. 776; Pub. L. 110–181, div. A, title XI, §1112, Jan. 28, 2008, 122 Stat. 360; Pub. L. 111–68, div. A, title I, §1404(1)–(3), Oct. 1, 2009, 123 Stat. 2038.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 519; Pub. L. 93–181, §3, Dec. 14, 1973, 87 Stat. 705; Pub. L. 95–454, title IV, §410, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1173, 1224; Pub. L. 96–54, §2(a)(39), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–465, title II, §2312(b), Oct. 17, 1980, 94 Stat. 2166; Pub. L. 97–89, title VIII, §802, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 100–325, §2(k), May 30, 1988, 102 Stat. 582; Pub. L. 102–378, §2(53), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–484, div. D, title XLIV, §4434, Oct. 23, 1992, 106 Stat. 2722; Pub. L. 103–337, div. A, title III, §341(c), div. B, title XXVIII, §2816(a), Oct. 5, 1994, 108 Stat. 2720, 3056; Pub. L. 103–356, title II, §201(a), Oct. 13, 1994, 108 Stat. 3411; Pub. L. 105–261, div. A, title XI, §1105, Oct. 17, 1998, 112 Stat. 2142; Pub. L. 106–65, div. A, title XI, §1103(a), Oct. 5, 1999, 113 Stat. 776; Pub. L. 110–181, div. A, title XI, §1112, Jan. 28, 2008, 122 Stat. 360; Pub. L. 111–68, div. A, title I, §1404(1)–(3), Oct. 1, 2009, 123 Stat. 2038; Pub. L. 111–282, §2(b), Oct. 15, 2010, 124 Stat. 3038.)
 
 Historical and Revision Notes
 
@@ -134,6 +136,12 @@ Section 112(c)(2) of the Internal Revenue Code of 1986, referred to in subsec. (
 
 #### Amendments
 
+2010—Subsec. (f)(1)(F). Pub. L. 111–282, §2(b)(1), which directed amendment of subpar. (F) by striking “or” after the semicolon, could not be executed because the word “or” did not appear.
+
+Subsec. (f)(1)(G). Pub. L. 111–282, §2(b)(2), which directed substitution of “; or” for the period, could not be executed because there was no period.
+
+Subsec. (f)(1)(H). Pub. L. 111–282, §2(b)(3), added subpar. (H) relating to a position in the United States Secret Service Uniformed Division.
+
 2009—Subsec. (f)(1)(H). Pub. L. 111–68 added subpar. (H).
 
 2008—Subsec. (f)(1). Pub. L. 110–181 substituted “in—” for “in a position in—” in introductory provisions, inserted “a position in” before “the” in subpars. (A) to (E), struck out “or” at end of subpar. (D), substituted semicolon for period at end of subpar. (E), and added subpars. (F) and (G).
@@ -144,7 +152,7 @@ Section 112(c)(2) of the Internal Revenue Code of 1986, referred to in subsec. (
 
 1994—Subsec. (d)(3). Pub. L. 103–337, §2816(a), designated existing provisions as subpar. (A), substituted “closure of, and any realignment with respect to,” for “closure of”, and added subpar. (B).
 
-Pub. L. 103–337, §341(c), substituted “the closure of an installation of the Department of Defense pursuant to the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) during any period, and the closure of any other installation” for “the closure of an installation”.
+Pub. L. 103–337, §341(c), substituted “the closure of an installation of the Department of Defense pursuant tothe Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) during any period, and the closure of any other installation” for “the closure of an installation”.
 
 Subsec. (f). Pub. L. 103–356 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Annual leave accrued shall not be subject to the limitation on accumulation otherwise imposed by this section if such leave is accrued by an individual while serving in a position in—
 
@@ -183,6 +191,10 @@ Subsec. (f). Pub. L. 95–454, §410(2), added subsec. (f).
 1973—Subsec. (a). Pub. L. 93–181, §3(1), substituted “subsections (b), (d), and (e) of this section” for “subsection (b) of this section”.
 
 Subsecs. (d), (e). Pub. L. 93–181, §3(2), added subsecs. (d) and (e).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–282 effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as a note under section 5102 of this title.
 
 #### Effective Date of 2009 Amendment
 
@@ -236,11 +248,13 @@ Payment of Restored Annual Leave.—(1) On or after September 23, 1996, all empl
 
 #### Use of Excess Leave
 
-Section 201(b) of Pub. L. 103–356 provided that: “Notwithstanding the amendment made by subsection (a) \[amending this section\], in the case of an employee who, on the effective date of subsection (a) \[see Effective Date of 1994 Amendments note above\], is subject to subsection (f) of section 6304 of title 5, United States Code, and who has to such employee's credit annual leave in excess of the maximum accumulation otherwise permitted by subsection (a) or (b) of section 6304 (determined applying the amendment made by subsection (a)), such excess annual leave shall remain to the credit of the employee and be subject to reduction, in the same manner as provided in subsection (c) of section 6304.”
+Section 201(b) of Pub. L. 103–356 provided that: “Notwithstanding the amendment made by subsection (a) \[amending this section\], in the case of an employeewho, on the effective date of subsection (a) \[see Effective Date of 1994 Amendments note above\], is subject to subsection (f) of section 6304 of title 5, United States Code, and who has to such employee's credit annual leave in excess of the maximum accumulation otherwise permitted by subsection (a) or (b) of section 6304 (determined applying the amendment made by subsection (a)), such excess annual leave shall remain to the credit of the employee and be subject to reduction, in the same manner as provided in subsection (c) of section 6304.”
 
 #### Lump-Sum Payment for Accrued Annual Leave to Former Employees
 
-Section 5 of Pub. L. 93–181 provided that where former employees (other than former employees of Post Office Department or United States Postal Service) had accrued annual leave after June 30, 1960, but had not been on the rolls on Dec. 14, 1973, and where annual leave thus accrued had been lost because of administrative error, such accrued annual leave was subject to credit and liquidation by lump-sum payment but only if a claim therefor was filed within three years after Dec. 14, 1973, with agency by which the employees had beenemployed when lump-sum payment provision of section 5551 of this title had last become applicable to them.
+Section 5 of Pub. L. 93–181 provided that where former employees (other than former employees of Post Office Department or United States Postal Service) had accrued annual leave after June 30, 1960, but had not been on the rolls on Dec. 14, 1973, and where annual leave thus accrued had been lost because of administrative error, such accrued annual leave was subject to credit and liquidation by lump-sum payment but only if a claim therefor was filed within three years after Dec. 14, 1973, with agency by which the employees had been employed when lump-sum payment provision of section 5551 of this title had last become applicable to them.
 
 Section 6 of Pub. L. 93–181 provided that where former employees of Post Office Department or United States Postal Service with prior civilian service with Post Office Department or other Federal agency had accrued annual leave after June 30, 1960, and before July 1, 1971, but had not on the rolls on Dec. 14, 1973, and where annual leave thus accrued had been lost because of administrative error, such accrued annual leave was subject to credit and liquidation by lump-sum payment, but only if a claim therefor was filed within three years after Dec. 14, 1973, with Postal Service, at salary rate in effect on date these employees had been employed when lump-sum payment provision of section 5551 of this title or comparable provisions of regulations of Postal Service had last become applicable to them. With respect to present employees of Postal Service who had prior Federal civilian service with Post Office Department or other Federal agency, annual leave which had accrued after June 30, 1960, and before July 1, 1971, but, because of administrative error had been lost, was subject to credit and liquidation by lump-sum payment only if a claim therefor was filed within three years of Dec. 14, 1973, with Postal Service, at salary rate in effect on Dec. 14, 1973.
+
+<i><sup>1</sup></i><i> So in original. Two subpars. (H) have been enacted.</i>
 

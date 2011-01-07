@@ -6,7 +6,7 @@ The Commission may authorize any of its employees, or employees of any contracto
 
 #### Amendments
 
-1961—Pub. L. 87–206 inserted reference to subsection (c) of section 2165 of this title.
+<b>1961</b>—Pub. L. 87–206 inserted reference to subsection (c) of section 2165 of this title.
 
-1956—Act Aug. 6, 1956, inserted “or any other person authorized access to Restricted Data by the Commission under section 2165(b) of this title”.
+<b>1956</b>—Act Aug. 6, 1956, inserted “or any other person authorized access to Restricted Data by the Commission under section 2165(b) of this title”.
 

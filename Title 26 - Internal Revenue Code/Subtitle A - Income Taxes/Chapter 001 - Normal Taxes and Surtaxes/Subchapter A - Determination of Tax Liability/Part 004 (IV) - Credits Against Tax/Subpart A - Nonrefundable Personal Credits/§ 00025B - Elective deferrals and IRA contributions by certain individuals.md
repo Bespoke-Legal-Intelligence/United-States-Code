@@ -76,7 +76,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The qualified retirement savings contributions determined under paragraph (1) shall be reduced (but not below zero) by the aggregate distributions received by the individual during the testing period from any entity of a type to which contributions under paragraph (1) may be made. The preceding sentence shall not apply to the portion of any distribution which is not includible in gross income by reason of a trustee-to-trustee transfer or a rollover distribution.
+&emsp;&emsp;The qualified retirement savings contributions determined under paragraph (1) shallbe reduced (but not below zero) by the aggregate distributions received by the individual during the testing period from any entity of a type to which contributions under paragraph (1) may be made. The preceding sentence shall not apply to the portion of any distribution which is not includible in gross income by reason of a trustee-to-trustee transfer or a rollover distribution.
 
 #### (B) Testing period
 
@@ -114,9 +114,9 @@ In the case of a taxable year to which section 26(a)(2) does not apply, the cred
 
 &emsp;(1) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-&emsp;(2) the sum of the credits allowable under this subpart (other than this section and sections 23, 25A(i), 25D, 30, 30B, and 30D) and section 27 for the taxable year.
+&emsp;(2) the sum of the credits allowable under this subpart (other than this section and sections 25A(i), 25D, 30, 30B, and 30D) and section 27 for the taxable year.
 
-(Added and amended Pub. L. 107–16, title VI, §618(a), (b)(1), June 7, 2001, 115 Stat. 106, 108; Pub. L. 107–147, title IV, §§411(m), 417(1), Mar. 9, 2002, 116 Stat. 48, 56; Pub. L. 108–311, title II, §207(4), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 109–135, title IV, §402(i)(3)(D), Dec. 21, 2005, 119 Stat. 2614; Pub. L. 109–280, title VIII, §§812, 833(a), Aug. 17, 2006, 120 Stat. 997, 1003; Pub. L. 110–343, div. B, title I, §106(e)(2)(C), title II, §205(d)(1)(C), Oct. 3, 2008, 122 Stat. 3817, 3838; Pub. L. 111–5, div. B, title I, §§1004(b)(4), 1142(b)(1)(C), 1144(b)(1)(C), Feb. 17, 2009, 123 Stat. 314, 330, 332.)
+(Added and amended Pub. L. 107–16, title VI, §618(a), (b)(1), June 7, 2001, 115 Stat. 106, 108; Pub. L. 107–147, title IV, §§411(m), 417(1), Mar. 9, 2002, 116 Stat. 48, 56; Pub. L. 108–311, title II, §207(4), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 109–135, title IV, §402(i)(3)(D), Dec. 21, 2005, 119 Stat. 2614; Pub. L. 109–280, title VIII, §§812, 833(a), Aug. 17, 2006, 120 Stat. 997, 1003; Pub. L. 110–343, div. B, title I, §106(e)(2)(C), title II, §205(d)(1)(C), Oct. 3, 2008, 122 Stat. 3817, 3838; Pub. L. 111–5, div. B, title I, §§1004(b)(4), 1142(b)(1)(C), 1144(b)(1)(C), Feb. 17, 2009, 123 Stat. 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(D), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -124,29 +124,33 @@ In the case of a taxable year to which section 26(a)(2) does not apply, the cred
 
 #### Amendment of Section
 
+<i>For termination of amendment by section 10909(c) of Pub. L. 111–148, see Effective and Termination Dates of 2010 Amendment note below.</i>
+
 <i>For termination of amendment by section 402(i)(3)(H) of Pub. L. 109–135, see Effective and Termination Dates of 2005 Amendment note below.</i>
 
 #### Amendments
 
-2009—Subsec. (g)(2). Pub. L. 111–5, §1144(b)(1)(C), inserted “30B,” after “30,”.
+<b>2010</b>—Subsec. (g)(2). Pub. L. 111–148, §10909(b)(2)(D), (c), as amended by Pub. L. 111–312, temporarily struck out “23,” before “25A(i),”. See Effective and Termination Dates of 2010 Amendment note below.
+
+<b>2009</b>—Subsec. (g)(2). Pub. L. 111–5, §1144(b)(1)(C), inserted “30B,” after “30,”.
 
 Pub. L. 111–5, §1142(b)(1)(C), inserted “30,” after “25D,”.
 
 Pub. L. 111–5, §1004(b)(4), inserted “25A(i),” after “23,”.
 
-2008—Subsec. (g)(2). Pub. L. 110–343, §205(d)(1)(C), substituted “, 25D, and 30D” for “and 25D”.
+<b>2008</b>—Subsec. (g)(2). Pub. L. 110–343, §205(d)(1)(C), substituted “, 25D, and 30D” for “and 25D”.
 
 Pub. L. 110–343, §106(e)(2)(C), substituted “sections 23 and 25D” for “section 23”.
 
-2006—Subsec. (b). Pub. L. 109–280, §833(a), reenacted heading without change and amended text of subsec. (b) generally, substituting provisions consisting of introductory provisions and pars. (1) to (3) for former provisions consisting of introductory provisions and a table of applicable percentages for amounts of adjusted gross income for a joint return, a head of household, and all other cases.
+<b>2006</b>—Subsec. (b). Pub. L. 109–280, §833(a), reenacted heading without change and amended text of subsec. (b) generally, substituting provisions consisting of introductory provisions and pars. (1) to (3) for former provisions consisting of introductory provisions and a table of applicable percentages for amounts of adjusted gross income for a joint return, a head of household, and all other cases.
 
 Subsec. (h). Pub. L. 109–280, §812, struck out heading and text of subsec. (h). Text read as follows: “This section shall not apply to taxable years beginning after December 31, 2006.”
 
-2005—Subsec. (g). Pub. L. 109–135, §402(i)(3)(D), (H), temporarily substituted “In the case of a taxable year to which section 26(a)(2) does not apply, the credit” for “The credit” in introductory provisions. See Effective and Termination Dates of 2005 Amendment note below.
+<b>2005</b>—Subsec. (g). Pub. L. 109–135, §402(i)(3)(D), (H), temporarily substituted “In the case of a taxable year to which section 26(a)(2) does not apply, the credit” for “The credit” in introductory provisions. See Effective and Termination Dates of 2005 Amendment note below.
 
-2004—Subsec. (c)(2)(B). Pub. L. 108–311 substituted “152(f)(2)” for “151(c)(4)”.
+<b>2004</b>—Subsec. (c)(2)(B). Pub. L. 108–311 substituted “152(f)(2)” for “151(c)(4)”.
 
-2002—Subsec. (d)(2)(A). Pub. L. 107–147, §411(m), reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: “The qualified retirement savings contributions determined under paragraph (1) shall be reduced (but not below zero) by the sum of—
+<b>2002</b>—Subsec. (d)(2)(A). Pub. L. 107–147, §411(m), reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: “The qualified retirement savings contributions determined under paragraph (1) shall be reduced (but not below zero) by the sum of—
 
 &emsp;“(i) any distribution from a qualified retirement plan (as defined in section 4974(c)), or from an eligible deferred compensation plan (as defined in section 457(b)), received by the individual during the testing period which is includible in gross income, and
 
@@ -154,11 +158,17 @@ Subsec. (h). Pub. L. 109–280, §812, struck out heading and text of subsec. (h
 
 Subsecs. (g), (h). Pub. L. 107–147, §417(1), redesignated subsec. (g), relating to termination, as (h).
 
-2001—Subsec. (g). Pub. L. 107–16, §618(b)(1), added subsec. (g) relating to limitation based on amount of tax.
+<b>2001</b>—Subsec. (g). Pub. L. 107–16, §618(b)(1), added subsec. (g) relating to limitation based on amount of tax.
+
+#### Effective and Termination Dates of 2010 Amendment
+
+Amendment by Pub. L. 111–148 terminated applicable to taxable years beginning after Dec. 31, 2011, and section is amended to read as if such amendment had never been enacted, see section 10909(c) of Pub. L. 111–148, set out as a note under section 1 of this title.
+
+Amendment by Pub. L. 111–148 applicable to taxable years beginning after Dec. 31, 2009, see section 10909(d) of Pub. L. 111–148, set out as a note under section 1 of this title.
 
 #### Effective Date of 2009 Amendment
 
-Amendment by section 1004(b)(4) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008,see section 1004(d) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
+Amendment by section 1004(b)(4) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1004(d) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
 
 Amendment by section 1142(b)(1)(C) of Pub. L. 111–5 applicable to vehicles acquired after Feb. 17, 2009, see section 1142(c) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
 
@@ -166,7 +176,7 @@ Amendment by section 1144(b)(1)(C) of Pub. L. 111–5 applicable to taxable year
 
 #### Effective Date of 2008 Amendment
 
-Amendment by section 106(e)(2)(C) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2007, see section 106(f)(1) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 23 of this title.
+Amendment by section 106(e)(2)(C) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2007, see section 106(f)(1) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 36C of this title.
 
 Amendment by section 205(d)(1)(C) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2008, see section 205(e) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 24 of this title.
 
@@ -176,9 +186,9 @@ Pub. L. 109–280, title VIII, §833(d), Aug. 17, 2006, 120 Stat. 1004, provided
 
 #### Effective and Termination Dates of 2005 Amendment
 
-Amendment by section 402(i)(3)(D) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title.
+Amendment by section 402(i)(3)(D) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 36C of this title.
 
-Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates and applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates and applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 36C of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -190,9 +200,9 @@ Pub. L. 107–147, title IV, §411(x), Mar. 9, 2002, 116 Stat. 53, provided that
 
 #### Effective Date
 
-Amendment by section 618(b)(1) of Pub. L. 107–16 inapplicable to taxable years beginning during 2004 or 2005, see section 312(b)(2) of Pub. L. 108–311, set out as an Effective and Termination Dates of 2001 Amendment note under section 23 of this title.
+Amendment by section 618(b)(1) of Pub. L. 107–16 inapplicable to taxable years beginning during 2004 or 2005, see section 312(b)(2) of Pub. L. 108–311, set out as an Effective and Termination Dates of 2001 Amendment note under section 36C of this title.
 
-Amendment by section 618(b)(1) of Pub. L. 107–16 inapplicable to taxable years beginning during 2002 and 2003, see section 601(b)(2) of Pub. L. 107–147, set out as an Effective and Termination Dates of 2001 Amendment note under section 23 of this title.
+Amendment by section 618(b)(1) of Pub. L. 107–16 inapplicable to taxable years beginning during 2002 and 2003, see section 601(b)(2) of Pub. L. 107–147, set out as an Effective and Termination Dates of 2001 Amendment note under section 36C of this title.
 
 Amendment by section 618(b)(1) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 618(d) of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 24 of this title.
 

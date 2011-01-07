@@ -80,7 +80,7 @@ In general.—An amendment under clause (i) may provide that Settlement Common S
 
 Conditions.—A condition referred to in subclause (I) is a condition that—
 
-&emsp;&emsp;&emsp;(aa) the stock described in that subclause shall be deemed to be canceled on the death of the Native to whom the stock is issued, and no compensation for the cancellation shall be paid to the estate of the deceased Native or any person holding the stock;
+&emsp;&emsp;&emsp;(aa) the stock described in that subclause shall be deemed to be canceled onthe death of the Native to whom the stock is issued, and no compensation for the cancellation shall be paid to the estate of the deceased Native or any person holding the stock;
 
 &emsp;&emsp;&emsp;(bb) the stock shall carry limited or no voting rights; and
 
@@ -296,7 +296,7 @@ Conditions.—A condition referred to in subclause (I) is a condition that—
 
 &emsp;&emsp;&emsp;(II) for the purposes of subsection (m) of this section, shares of stock registered on the books of the Cook Inlet Regional Corporation in the names of nonresidents of villages;
 
-&emsp;&emsp;(ii) any amount of funds that would be distributable with respect to non-village sharesor non-voting securities pursuant to subsection (j) or (m) of this section shall be distributed by Cook Inlet Regional Corporation to itself; and
+&emsp;&emsp;(ii) any amount of funds that would be distributable with respect to non-village shares or non-voting securities pursuant to subsection (j) or (m) of this section shall be distributed by Cook Inlet Regional Corporation to itself; and
 
 &emsp;&emsp;(iii) village shares that are purchased pursuant to this paragraph shall be considered to be—
 
@@ -328,7 +328,7 @@ Conditions.—A condition referred to in subclause (I) is a condition that—
 
 (1)(A) Except as provided by subparagraph (B), 70 percent of all revenues received by each Regional Corporation from the timber resources and subsurface estate patented to it pursuant to this chapter shall be divided annually by the Regional Corporation among all twelve Regional Corporations organized pursuant to this section according to the number of Natives enrolled in each region pursuant to section 1604 of this title. The provisions of this subsection shall not apply to the thirteenth Regional Corporation if organized pursuant to subsection (c) hereof.
 
-(B) In the case of the sale, disposition, or other use of common varieties of sand, gravel, stone, pumice, peat, clay, or cinder resources made during a fiscal year ending after October 31, 1998, the revenues received by a Regional Corporation shall not be subject to division under subparagraph (A). Nothing in this subparagraph is intended to or shall be construed to alter the ownership of such sand, gravel, stone, pumice, peat, clay, or cinder resources.
+(B) In the case of the sale, disposition, or other use of common varieties of sand, gravel, stone, pumice, peat, clay, or cinder resources made during a fiscal year ending after October 31, 1998, the revenues received by a RegionalCorporation shall not be subject to division under subparagraph (A). Nothing in this subparagraph is intended to or shall be construed to alter the ownership of such sand, gravel, stone, pumice, peat, clay, or cinder resources.
 
 (2) For purposes of this subsection, the term “revenues” does not include any benefit received or realized for the use of losses incurred or credits earned by a Regional Corporation.
 
@@ -366,31 +366,31 @@ Two or more Regional Corporations may contract with the same business management
 
 #### (r) Benefits for shareholders or immediate families
 
-The authority of a Native Corporation to provide benefits to its shareholders who are Natives or descendants of Natives or to its shareholders’ immediate family members who are Natives or descendants of Natives to promote the health, education, or welfare of such shareholders or family members is expressly authorized and confirmed. Eligibility for such benefits need not be based on share ownership in the Native Corporation and such benefits may be provided on a basis other than pro rata based on share ownership.
+The authority of a Native Corporation to provide benefits to its shareholders who are Natives or descendants of Natives or to its shareholders’immediate family members who are Natives or descendants of Natives to promote the health, education, or welfare of such shareholders or family members is expressly authorized and confirmed. Eligibility for such benefits need not be based on share ownership in the Native Corporation and such benefits may be provided on a basis other than pro rata based on share ownership.
 
 (Pub. L. 92–203, §7, Dec. 18, 1971, 85 Stat. 691; Pub. L. 96–487, title XIV, §1401(a), (c), Dec. 2, 1980, 94 Stat. 2491, 2492; Pub. L. 100–241, §§4, 5, 12(a), Feb. 3, 1988, 101 Stat. 1790, 1792, 1810; Pub. L. 102–415, §§4, 8, Oct. 14, 1992, 106 Stat. 2113, 2114; Pub. L. 104–10, §1(a), May 18, 1995, 109 Stat. 155; Pub. L. 104–42, title I, §109(a), Nov. 2, 1995, 109 Stat. 357; Pub. L. 105–333, §§8, 12, Oct. 31, 1998, 112 Stat. 3134, 3135; Pub. L. 106–194, §2, May 2, 2000, 114 Stat. 242; Pub. L. 110–453, title II, §206, Dec. 2, 2008, 122 Stat. 5030.)
 
 #### Amendments
 
-2008—Subsec. (g)(1)(B)(iii). Pub. L. 110–453 added cl. (iii) and struck out former cl. (iii) which read as follows: “The amendment authorized by clause (i) may provide that Settlement Common Stock issued to a Native pursuant to such amendment (or stock issued in exchange for such Settlement Common Stock pursuant to subsection (h)(3) of this section or section 1629c(d) of this title) shall be deemed canceled upon the death of such Native. No compensation for this cancellation shall be paid to the estate of the deceased Native or to any person holding the stock.”
+<b>2008</b>—Subsec. (g)(1)(B)(iii). Pub. L. 110–453 added cl. (iii) and struck out former cl. (iii) which read as follows: “The amendment authorized by clause (i) may provide that Settlement Common Stock issued to a Native pursuant to such amendment (or stock issued in exchange for such Settlement Common Stock pursuant to subsection (h)(3) of this section or section 1629c(d) of this title) shall be deemed canceled upon the death of such Native. No compensation for this cancellation shall be paid to the estate of the deceased Native or to any person holding the stock.”
 
-2000—Subsec. (h)(1)(C)(iii). Pub. L. 106–194 inserted before period at end “, notwithstanding an adoption, relinquishment, or termination of parental rights that may have altered or severed the legal relationship between the gift donor and recipient”.
+<b>2000</b>—Subsec. (h)(1)(C)(iii). Pub. L. 106–194 inserted before period at end “, notwithstanding an adoption, relinquishment, or termination of parental rights that may have altered or severed the legal relationship between the gift donor and recipient”.
 
-1998—Subsec. (i)(1). Pub. L. 105–333, §8(1), substituted “(A) Except as provided by subparagraph (B), 70 percent” for “Seventy per centum”.
+<b>1998</b>—Subsec. (i)(1). Pub. L. 105–333, §8(1), substituted “(A) Except as provided by subparagraph (B), 70 percent” for “Seventy per centum”.
 
 Pub. L. 105–333, §8(2), which directed the addition of subpar. (B) at the end of subsec. (i), was executed by adding subpar. (B) at the end of par. (1) of subsec. (i) to reflect the probable intent of Congress.
 
 Subsec. (r). Pub. L. 105–333, §12, added subsec. (r).
 
-1995—Subsec. (h)(4). Pub. L. 104–10 added par. (4).
+<b>1995</b>—Subsec. (h)(4). Pub. L. 104–10 added par. (4).
 
 Subsec. (i). Pub. L. 104–42 designated existing provisions as par. (1) and added par. (2).
 
-1992—Subsec. (g)(1)(B)(i)(I). Pub. L. 102–415, §8, inserted at end “and, at the further option of the Corporation, descendants of Natives born after December 18, 1971,”.
+<b>1992</b>—Subsec. (g)(1)(B)(i)(I). Pub. L. 102–415, §8, inserted at end “and, at the further option of the Corporation, descendants of Natives born after December 18, 1971,”.
 
 Subsec. (h)(1)(C)(iii). Pub. L. 102–415, §4, substituted “nephew, or (if the holder has reached the age of majority as defined by the laws of the State of Alaska) brother or sister” for “or nephew”.
 
-1988—Subsec. (g). Pub. L. 100–241, §4, amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The Regional Corporation shall be authorized to issue such number of shares of common stock, divided into such classes of shares as may be specified in the articles of incorporation to reflect the provisions of this chapter, as may be needed to issue one hundred shares of stock to each Native enrolled in the region pursuant to section 1604 of this title.”
+<b>1988</b>—Subsec. (g). Pub. L. 100–241, §4, amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The Regional Corporation shall be authorized to issue such number of shares of common stock, divided into such classes of shares as may be specified in the articles of incorporation to reflect the provisions of this chapter, as may be needed to issue one hundred shares of stock to each Native enrolled in the region pursuant to section 1604 of this title.”
 
 Subsec. (h)(1), (2). Pub. L. 100–241, §5, amended pars. (1) and (2) generally, changing structure of each from a single unlettered paragraph to one consisting of subpars. (A) to (C).
 
@@ -398,7 +398,7 @@ Subsec. (h)(3). Pub. L. 100–241, §5, amended par. (3) generally, revising and
 
 Subsec. (<i>o</i>). Pub. L. 100–241, §12(a), struck out “, to the Secretary of the Interior and to the Committees on Interior and Insular Affairs of the Senate and the House of Representatives” after “to each stockholder” in last sentence.
 
-1980—Subsec. (h)(1). Pub. L. 96–487, §1401(c), inserted “or by stockholder who is a member of a professional organization, association, or board which limits the ability of that stockholder to practice his profession because of holding stock issued under this chapter” after “divorce or child support”. Section 1401(c) of Pub. L. 96–487 directed that section 1696(h)(1) of this title be amended, however, since no section 1696 of this title has been enacted, amendment was executed to subsec. (h)(1) of this section to reflect the probable intent of Congress.
+<b>1980</b>—Subsec. (h)(1). Pub. L. 96–487, §1401(c), inserted “or by stockholder who is a member of a professional organization, association, or board which limits the ability of that stockholder to practice his profession because of holding stock issued under this chapter” after “divorce or child support”. Section 1401(c) of Pub. L. 96–487 directed that section 1696(h)(1) of this title be amended, however, since no section 1696 of this title has been enacted, amendment was executed to subsec. (h)(1) of this section to reflect the probable intent of Congress.
 
 Subsec. (h)(3). Pub. L. 96–487, §1401(a), substituted provisions that provided on Dec. 18, 1991, all stock previously issued be deemed canceled, and shares of stock of the appropriate class be issued to each shareholder share for share subject only to such restrictions as provided by the articles of incorporation, or agreement between the corporation and individual, specified restrictions which may be included by amendment in the articles of incorporation, and provided voting requirements for amendment of the articles of incorporation for approval of restrictions and the grant of voting rights to stockholders who were previously denied such rights for provision that provided on Jan. 1 of the twenty-first year after the year in which this chapter was enacted, all stock previously issued be deemed canceled and the shares of stock of the appropriate class issued without restrictions required by this chapter to each stockholder share for share.
 

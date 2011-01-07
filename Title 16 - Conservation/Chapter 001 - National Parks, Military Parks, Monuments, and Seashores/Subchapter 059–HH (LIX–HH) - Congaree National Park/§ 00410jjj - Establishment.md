@@ -6,7 +6,7 @@ In order to preserve and protect for the education, inspiration, and enjoyment o
 
 #### (b) Additional land
 
-In addition to the lands described in subsection (a), the park shall consist of the additional lands within the boundary as generally depicted on the map entitled “Citizens Boundary Proposal for Congaree Swamp National Monument”, numbered 178–80,009A, dated July 1988, which shall be on file and available for public inspection in the offices of the National ParkService, Department of the Interior. The map may be revised as provided in subsection (a).
+In addition to the lands described in subsection (a), the park shall consist of the additional lands within the boundary as generally depicted on the map entitled “Citizens Boundary Proposal for Congaree Swamp National Monument”, numbered 178–80,009A, dated July 1988, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The map may be revised as provided in subsection (a).
 
 #### (c) Acquisition of additional land
 
@@ -54,7 +54,7 @@ Hereinafter, referred to in subsec. (a), means Pub. L. 94–545, which is classi
 
 #### Amendments
 
-2004—Subsec. (c)(6). Pub. L. 108–199, §139(a), added par. (6) and struck out former par. (6) which read: “Nothing in this section—
+<b>2004</b>—Subsec. (c)(6). Pub. L. 108–199, §139(a), added par. (6) and struck out former par. (6) which read: “Nothing in this section—
 
 &emsp;“(A) affects the use of private land adjacent to the park;
 
@@ -62,11 +62,11 @@ Hereinafter, referred to in subsec. (a), means Pub. L. 94–545, which is classi
 
 &emsp;“(C) negatively affects the economic development of the areas surrounding the park.”
 
-2003—Subsec. (b). Pub. L. 108–108, §148(1), struck out last sentence which read “The total acreage of the monument including lands described in subsection (a) and this subsection shall not exceed 22,200 acres.”
+<b>2003</b>—Subsec. (b). Pub. L. 108–108, §148(1), struck out last sentence which read “The total acreage of the monument including lands described in subsection (a) and this subsection shall not exceed 22,200 acres.”
 
 Subsecs. (c), (d). Pub. L. 108–108, §148(2), added subsecs. (c) and (d).
 
-1988—Pub. L. 100–524 designated existing provisions as subsec. (a), struck out “, but the total area may not exceed fifteen thousand, two hundred acres” after “Federal Register”, and added subsec. (b).
+<b>1988</b>—Pub. L. 100–524 designated existing provisions as subsec. (a), struck out “, but the total area may not exceed fifteen thousand, two hundred acres” after “Federal Register”, and added subsec. (b).
 
 #### Change of Name
 

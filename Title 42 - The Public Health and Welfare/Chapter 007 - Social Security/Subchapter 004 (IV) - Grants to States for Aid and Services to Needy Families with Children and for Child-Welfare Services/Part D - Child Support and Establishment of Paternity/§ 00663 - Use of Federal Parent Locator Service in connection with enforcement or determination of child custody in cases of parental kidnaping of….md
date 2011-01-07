@@ -52,7 +52,7 @@ The Secretary shall enter into an agreement with the Attorney General of the Uni
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–33, §5534(b)(1)(A), (5), in introductory provisions, substituted “every State” for “any State which is able and willing to do so,” and “each State” for “such State” and struck out “noncustodial” before “parent”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §5534(b)(1)(A), (5), in introductory provisions, substituted “every State” for “any State which is able and willing to do so,” and “each State” for “such State” and struck out “noncustodial” before “parent”.
 
 Subsec. (a)(2). Pub. L. 105–33, §5534(b)(1)(B), inserted “or visitation” after “custody”.
 
@@ -68,17 +68,17 @@ Subsec. (d)(2)(A), (B). Pub. L. 105–33, §5534(b)(3)(B), inserted “or visita
 
 Subsec. (f)(2). Pub. L. 105–33, §5534(b)(4), inserted “or visitation” after “custody”.
 
-1996—Subsec. (a). Pub. L. 104–193, §§316(e)(1), 395(d)(1)(G), inserted “Federal” before “Parent Locator Service” and substituted “noncustodial parent” for “absent parent”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–193, §§316(e)(1), 395(d)(1)(G), inserted “Federal” before “Parent Locator Service” and substituted “noncustodial parent” for “absent parent”.
 
 Subsecs. (b), (c). Pub. L. 104–193, §395(d)(1)(G), substituted “noncustodial parent” for “absent parent”.
 
 Subsecs. (e), (f). Pub. L. 104–193, §316(e)(1), inserted “Federal” before “Parent Locator Service” wherever appearing.
 
-1994—Subsec. (c). Pub. L. 103–432, §214(b), substituted “subsection (a), (b), (e), or (f) of this section” for “subsection (a), (b), or (e) of this section”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–432, §214(b), substituted “subsection (a), (b), (e), or (f) of this section” for “subsection (a), (b), or (e) of this section”.
 
 Subsec. (f). Pub. L. 103–432, §214(a), added subsec. (f).
 
-1988—Subsec. (b). Pub. L. 100–300, §11(1), substituted “under subsection (a) of this section” for “under this section”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–300, §11(1), substituted “under subsection (a) of this section” for “under this section”.
 
 Subsec. (c). Pub. L. 100–300, §11(2), substituted “under subsection (a), (b), or (e) of this section” for “under this section”.
 

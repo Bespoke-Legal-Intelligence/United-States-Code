@@ -50,7 +50,7 @@ In selecting among applicants for grants under subsection (a), the Secretary sha
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–378, §5(1)(A), substituted “priority” for “special consideration” in introductory provisions.
+<b>2008</b>—Subsec. (b). Pub. L. 110–378, §5(1)(A), substituted “priority” for “special consideration” in introductory provisions.
 
 Subsec. (b)(8). Pub. L. 110–378, §5(1)(B), substituted “to quality health” for “to health” and “behavioral health care” for “mental health care” and struck out “and” at end.
 
@@ -60,9 +60,9 @@ Subsec. (b)(10). Pub. L. 110–378, §5(1)(D), added par. (10).
 
 Subsec. (c). Pub. L. 110–378, §5(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “In selecting among applicants for grants under subsection (a) of this section, the Secretary shall give priority to applicants who have experience working with runaway youth or homeless youth.”
 
-2003—Subsec. (a). Pub. L. 108–96 inserted “regarding activities under this subchapter” after “service projects”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–96 inserted “regarding activities under this subchapter” after “service projects”.
 
-1999—Pub. L. 106–71, §3(h)(1), inserted “evaluation,” after “research,” in section catchline.
+<b>1999</b>—Pub. L. 106–71, §3(h)(1), inserted “evaluation,” after “research,” in section catchline.
 
 Subsec. (a). Pub. L. 106–71, §3(h)(2), inserted “evaluation,” after “research,”.
 

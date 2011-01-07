@@ -2,11 +2,11 @@
 
 #### (a) Assistance of Secretary of the Interior
 
-The Secretary of the Interior shall encourage and assist the States to consider, in formulating and carrying out their comprehensive statewide outdoor recreation plans and proposals for financing assistance for State and local projects submitted pursuant to the Land and Water Conservation Fund Act of 1965 (78 Stat. 897) \[16 U.S.C. 460<i>l</i>–4 et seq.\], needs and opportunities for establishing State and local wild, scenic and recreational areas.
+The Secretary of the Interior shall encourage and assist the States to consider, in formulating and carrying out their comprehensive statewide outdoor recreation plans and proposals for financing assistance for State and local projects submitted pursuant to the Land and Water Conservation Fund Act of 1965 (78 Stat. 897) \[16 U.S.C. 460<i>l</i>–4 et seq.\], needs and opportunities for establishing State and local wild, scenic and recreational river areas.
 
 #### (b) Assistance of Secretaries of the Interior, Agriculture, or other Federal agency heads; use of Federal facilities, equipment, etc.; conditions on permits or other authorizations
 
-(1) The Secretary of the Interior, the Secretary of Agriculture, or the head of any other Federal agency, shall assist, advise, and cooperate with States or their political subdivisions, landowners, private organizations, or individuals to plan, protect, and manage river resources. Such assistance, advice, and cooperation may be through written agreements or otherwise. This authority applies within or outside a federally administered area and applies to rivers which are components of the National Wild and Scenic Rivers System and to other rivers. Any agreement under this subsection may include provisions for limited financial or other assistance to encourage participation in the acquisition, protection, and management of river resources.
+(1) The Secretary of the Interior, the Secretary of Agriculture, or the head of any other Federal agency, shall assist, advise, and cooperate with States or their political subdivisions, landowners, private organizations, or individuals to plan, protect, and manage river resources. Such assistance, advice, and cooperation may be through written agreements or otherwise. This authority applies within or outside a federally administered area and applies to rivers which are components of the National Wild and Scenic Rivers System and to other rivers. Any agreement under this subsection mayinclude provisions for limited financial or other assistance to encourage participation in the acquisition, protection, and management of river resources.
 
 (2) Wherever appropriate in furtherance of this chapter, the Secretary of Agriculture and the Secretary of the Interior are authorized and encouraged to utilize the following:
 
@@ -22,15 +22,15 @@ The Secretary of the Interior shall encourage and assist the States to consider,
 
 #### References in Text
 
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a), is Pub. L. 88–578, Sept. 3, 1964,78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
+The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
 
-The Volunteers in the Parks Act of 1969, referred to in subsec. (b)(2)(A), is Pub. L. 91–357, July 29, 1970, 84 Stat. 472, as amended, which is classified generally to subchapter II (§18g et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 18g of this title and Tables.
+The Volunteers in the Parks Act of 1969, referred to in subsec. (b)(2)(A), is Pub. L. 91–357, July 29, 1970, 84 Stat. 472, which is classified generally to subchapter II (§18g et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 18g of this title and Tables.
 
-The Volunteers in the Forest Act of 1972, referred to in subsec. (b)(2)(A), probably means the Volunteers in the National Forests Act of 1972, Pub. L. 92–300, May 18, 1972, 86 Stat. 147, as amended, which is classified generally to section 558a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 558a of this title and Tables.
+The Volunteers in the Forest Act of 1972, referred to in subsec. (b)(2)(A), probably means the Volunteers in the National Forests Act of 1972, Pub. L. 92–300, May 18, 1972, 86 Stat. 147, which is classified generally to section 558a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 558a of this title and Tables.
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–590 struck out provisions relating to provision of technical assistance and advice to and cooperation with States, etc., in establishment of areas.
+<b>1986</b>—Subsec. (a). Pub. L. 99–590 struck out provisions relating to provision of technical assistance and advice to and cooperation with States, etc., in establishment of areas.
 
 Subsec. (b). Pub. L. 99–590 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretaries of Agriculture and of Health and Human Services shall likewise, in accordance with the authority vested in them assist, advise, and cooperate with State and local agencies and private interests with respect to establishing such wild, scenic and recreational river areas.”
 

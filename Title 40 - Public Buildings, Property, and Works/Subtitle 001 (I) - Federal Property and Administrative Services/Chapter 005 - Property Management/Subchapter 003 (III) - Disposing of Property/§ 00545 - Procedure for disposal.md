@@ -110,9 +110,9 @@ Listing in report.—A report of the Administrator under section 126 of this tit
 
 (f)
 
-Applicability of Other Law.—Section 3709 of the Revised Statutes (41 U.S.C. 5) does not apply to a disposal or contract for disposal made under this section.
+Applicability of Other Law.—Section 6101(b)–(d) of title 41 does not apply to a disposal or contract for disposal made under this section.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1087.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1087; Pub. L. 111–350, §5(<i>l</i>)(10), Jan. 4, 2011, 124 Stat. 3852.)
 
 Historical and Revision Notes
 
@@ -131,4 +131,8 @@ Historical and Revision Notes
 June 30, 1949, ch. 288, title II, §203(e), 63 Stat. 386; July 12, 1952, ch. 703, §1(i), 66 Stat. 593; Aug. 8, 1953, ch. 399, 67 Stat. 521; July 14, 1954, ch. 481, 68 Stat. 474; Aug. 3, 1956, ch. 942, 70 Stat. 1020; Pub. L. 85–486, July 2, 1958, 72 Stat. 288; Pub. L. 100–612, §§3, 4, Nov. 5, 1988, 102 Stat. 3180.
 
 In subsection (e)(3), the words “A report” are substituted for “the annual report” for consistency in the revised title. See the revision note under section 126 of this title.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (f). Pub. L. 111–350 substituted “Section 6101(b)–(d) of title 41” for “Section 3709 of the Revised Statutes (41 U.S.C. 5)”.
 

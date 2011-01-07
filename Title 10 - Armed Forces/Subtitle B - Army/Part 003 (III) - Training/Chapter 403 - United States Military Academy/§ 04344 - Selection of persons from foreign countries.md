@@ -8,7 +8,7 @@
 
 (b)(1) A person receiving instruction under this section is entitled to the pay, allowances, and emoluments of a cadet appointed from the United States, and from the same appropriations.
 
-(2) Each foreign country from which a cadet is permitted to receive instruction at the Academy under this section shall reimburse the UnitedStates for the cost of providing such instruction, including the cost of pay, allowances, and emoluments provided under paragraph (1). The Secretary of the Army shall prescribe the rates for reimbursement under this paragraph, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a cadet appointed from the United States.
+(2) Each foreign country from which a cadet is permitted to receive instruction at the Academy under this section shall reimburse the United States for the cost of providing such instruction, including the cost of pay, allowances, and emoluments provided under paragraph (1). The Secretary of the Army shall prescribe the rates for reimbursement under this paragraph, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a cadet appointed from the United States.
 
 (3) The Secretary of Defense may waive, in whole or in part, the requirement for reimbursement of the cost of instruction for a cadet under paragraph (2). In the case of a partial waiver, the Secretary shall establish the amount waived.
 
@@ -58,21 +58,21 @@ In subsection (d), the words “and 1101” are omitted, since section 1321 of t
 
 #### Amendments
 
-2001—Subsec. (a)(1). Pub. L. 107–107, §533(a)(1), substituted “60” for “40”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107, §533(a)(1), substituted “60” for “40”.
 
 Subsec. (b)(2). Pub. L. 107–107, §533(a)(2)(A), struck out “unless a written waiver of reimbursement is granted by the Secretary of Defense” before period at end of first sentence.
 
 Subsec. (b)(3). Pub. L. 107–107, §533(a)(2)(B), added par. (3) and struck out former par. (3) which read as follows: “The amount of reimbursement waived under paragraph (2) may not exceed 50 percent of the per-person reimbursement amount otherwise required to be paid by a foreign country under such paragraph, except in the case of not more than 20 persons receiving instruction at the Academy under this section at any one time.”
 
-2000—Subsec. (a)(3). Pub. L. 106–398 added par. (3).
+<b>2000</b>—Subsec. (a)(3). Pub. L. 106–398 added par. (3).
 
-1999—Subsec. (b)(3). Pub. L. 106–65 substituted “50 percent” for “35 percent” and “20 persons” for “five persons”.
+<b>1999</b>—Subsec. (b)(3). Pub. L. 106–65 substituted “50 percent” for “35 percent” and “20 persons” for “five persons”.
 
-1997—Subsec. (b)(2). Pub. L. 105–85, §543(a)(1), inserted before period at end “, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a cadet appointed from the United States”.
+<b>1997</b>—Subsec. (b)(2). Pub. L. 105–85, §543(a)(1), inserted before period at end “, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a cadet appointed from the United States”.
 
 Subsec. (b)(3). Pub. L. 105–85, §543(a)(2), added par. (3).
 
-1983—Pub. L. 98–94 substituted “persons from foreign countries” for “persons from Canada and American Republics” in section catchline.
+<b>1983</b>—Pub. L. 98–94 substituted “persons from foreign countries” for “persons from Canada and American Republics” in section catchline.
 
 Subsec. (a)(1). Pub. L. 98–94 substituted “The Secretary of the Army may permit not more than 40 persons at any one time from foreign countries to receive instruction at the Academy” for “Upon designation by the President, the Secretary of the Army may permit not more than 20 persons at any one time from Canada and the American Republics, other than the United States, to receive instruction at the Academy” as the first sentence of existing subsec. (a), redesignated that first sentence as par. (1), and in par. (1) as so redesignated inserted second sentence providing that such persons shall be in addition to the authorized strength of the Corps of the Cadets of the Academy under section 4342 of this title.
 
@@ -82,7 +82,7 @@ Subsec. (b)(1). Pub. L. 98–94 redesignated first sentence of existing subsec. 
 
 Subsec. (b)(2). Pub. L. 98–94 substituted “Each foreign country from which a cadet is permitted to receive instruction at the Academy under this section shall reimburse the United States for the cost of providing such instruction, including the cost of pay, allowances, and emoluments provided under paragraph (1) unless a written waiver of reimbursement is granted by the Secretary of Defense” for “However, the mileage allowance payable to that person for travel to the Academy for initial admission is not limited to mileage for travel within the United States” as second sentence of existing subsec. (b), redesignated that second sentence as par. (2) and inserted second sentence providing that the Secretary of the Army shall prescribe the rates for reimbursement under this paragraph.
 
-Subsec. (c)(1). Pub. L. 98–94 redesignated first sentence of existing subsec. (c) as par. (1) and inserted second sentence providing that the Secretary may prescribe regulations with respect to access to classified information by a person receiving instruction underthis section that differ from the regulations that apply to a cadet at the Academy appointed from the United States.
+Subsec. (c)(1). Pub. L. 98–94 redesignated first sentence of existing subsec. (c) as par. (1) and inserted second sentence providing that the Secretary may prescribe regulations with respect to access to classified information by a person receiving instruction under this section that differ from the regulations that apply to a cadet at the Academy appointed from the United States.
 
 Subsec. (c)(2). Pub. L. 98–94 redesignated second sentence of existing subsec. (c) as par. (2) and substituted “appointment in an armed force of the United States” for “appointment in the United States Army”.
 
@@ -110,7 +110,7 @@ Section 543(d) of Pub. L. 105–85 provided that: “The amendments made by this
 
 Section 1004(d) of Pub. L. 98–94 provided that:
 
-“Sections 4344(b)(2), 6957(b)(2), and 9344(b)(2) of title 10, United States Code, as added by this section, do not apply to the cost of providing instruction to a person who, before the effective date of this section, entered the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy under section 4344, 4345, 6957, 9344, or 9345 of such title, as in effect on the day before such date. Any such person shall be counted against the maximum of 40 persons who may attend the Academy concerned at any time under any of those sections.
+“Sections 4344(b)(2), 6957(b)(2), and 9344(b)(2) of title 10, United States Code, as added by this section, do not apply to the cost of providing instruction to a person who, before the effective date of this section, entered the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy under section 4344, 4345, 6957, 9344, or 9345 of suchtitle, as in effect on the day before such date. Any such person shall be counted against the maximum of 40 persons who may attend the Academy concerned at any time under any of those sections.
 
 “The amendments made by subsections (a), (b), and (c) \[amending this section and sections 6957 and 9344 of this title and repealing sections 4345 and 9345 of this title\] shall take effect one year after the date of the enactment of this Act \[Sept. 24, 1983\] and shall apply to each person entering the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy after that effective date.”
 

@@ -10,7 +10,7 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;(1) training law enforcement officers, judges, other court personnel, and prosecutors to more effectively identify and respond to violent crimes against women, including the crimes of sexual assault, domestic violence, and dating violence;
 
-&emsp;(2) developing, training, or expanding units of law enforcement officers, judges, othercourt personnel, and prosecutors specifically targeting violent crimes against women, including the crimes of sexual assault and domestic violence;
+&emsp;(2) developing, training, or expanding units of law enforcement officers, judges, other court personnel, and prosecutors specifically targeting violent crimes against women, including the crimes of sexual assault and domestic violence;
 
 &emsp;(3) developing and implementing more effective police, court, and prosecution policies, protocols, orders, and services specifically devoted to preventing, identifying, and responding to violent crimes against women, including the crimes of sexual assault and domestic violence;
 
@@ -22,7 +22,7 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;(7) developing, enlarging, or strengthening programs addressing the needs and circumstances of Indian tribes in dealing with violent crimes against women, including the crimes of sexual assault and domestic violence;
 
-&emsp;(8) supporting formal and informal statewide, multidisciplinary efforts, to the extent not supported by State funds, to coordinate the response of State law enforcement agencies, prosecutors, courts, victim services agencies, and other State agencies and departments, to violent crimes against women, including the crimes of sexual assault, domestic violence, and dating violence;
+&emsp;(8) supporting formal and informal statewide, multidisciplinary efforts, to the extentnot supported by State funds, to coordinate the response of State law enforcement agencies, prosecutors, courts, victim services agencies, and other State agencies and departments, to violent crimes against women, including the crimes of sexual assault, domestic violence, and dating violence;
 
 &emsp;(9) training of sexual assault forensic medical personnel examiners in the collection and preservation of evidence, analysis, prevention, and providing expert testimony and treatment of trauma related to sexual assault;
 
@@ -50,7 +50,7 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;&emsp;(C) the development of such protocols in collaboration with State, tribal, territorial and local victim service providers and domestic violence coalitions.
 
-> &emsp;Any law enforcement, State, tribal, territorial, or local government agency receiving funding under the Crystal Judson Domestic Violence Protocol Program under paragraph (14) shall on an annual basis, receive additional training on the topic of incidents of domestic violence committed by law enforcement personnel from domestic violence and sexual assault nonprofit organizations and, after a period of 2 years, provide a report of the adopted protocol to the Department ofJustice, including a summary of progress in implementing such protocol.
+> &emsp;Any law enforcement, State, tribal, territorial, or local government agency receiving funding under the Crystal Judson Domestic Violence Protocol Program under paragraph (14) shall on an annual basis, receive additional training on the topic of incidents of domestic violence committed by law enforcement personnel from domestic violence and sexual assault nonprofit organizations and, after a period of 2 years, provide a report of the adopted protocol to the Department of Justice, including a summary of progress in implementing such protocol.
 
 #### (c) State coalition grants
 
@@ -62,7 +62,7 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;The Attorney General shall award grants to—
 
-&emsp;&emsp;(A) each State domestic violence coalition, as determined by the Secretary of Health and Human Services through the Family Violence Prevention and Services Act (42 U.S.C. 10410 et seq.); and
+&emsp;&emsp;(A) each State domestic violence coalition, as determined by the Secretary of Health and Human Services under section 10411 of this title; and
 
 &emsp;&emsp;(B) each State sexual assault coalition, as determined by the Center for Injury Prevention and Control of the Centers for Disease Control and Prevention under the Public Health Service Act (42 U.S.C. 280b et seq.).
 
@@ -94,11 +94,9 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;Receipt of an award under this subsection by tribal domestic violence and sexual assault coalitions shall not preclude the coalition from receiving additional grants under this chapter to carry out the purposes described in subsection (b) of this section.
 
-(Pub. L. 90–351, title I, §2001, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1910; amended Pub. L. 106–386, div. B, title I, §§1102(a)(1), 1103(b)(1), 1109(b), title II, §1209(c), title V, §1512(a), Oct. 28, 2000, 114 Stat. 1494, 1495, 1503, 1509, 1533; Pub. L. 108–405, title III, §310(a), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, §101(b), Jan. 5, 2006, 119 Stat. 2972.)
+(Pub. L. 90–351, title I, §2001, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1910; amended Pub. L. 106–386, div. B, title I, §§1102(a)(1), 1103(b)(1), 1109(b), title II, §1209(c), title V, §1512(a), Oct. 28, 2000, 114 Stat. 1494, 1495, 1503, 1509, 1533; Pub. L. 108–405, title III, §310(a), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, §101(b), Jan. 5, 2006, 119 Stat. 2972; Pub. L. 111–320, title II, §202(c), Dec. 20, 2010, 124 Stat. 3509.)
 
 #### References in Text
-
-The Family Violence Prevention and Services Act, referred to in subsec. (c)(2)(A), is title III of Pub. L. 98–457, Oct. 9, 1984, 98 Stat. 1757, as amended, which is classified generally to chapter 110 (§10401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10401 of this title and Tables.
 
 The Public Health Service Act, referred to in subsec. (c)(2)(B), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
@@ -110,11 +108,13 @@ A prior section 2001 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–162 added pars. (12) to (14).
+<b>2010</b>—Subsec. (c)(2)(A). Pub. L. 111–320 substituted “under section 10411 of this title” for “through the Family Violence Prevention and Services Act (42 U.S.C. 10410 et seq.)”.
 
-2004—Subsec. (d). Pub. L. 108–405 added subsec. (d).
+<b>2006</b>—Subsec. (b). Pub. L. 109–162 added pars. (12) to (14).
 
-2000—Subsec. (a). Pub. L. 106–386, §1102(a)(1)(A), substituted “State and local courts (including juvenile courts), Indian tribal governments, tribal courts,” for “Indian tribal governments,”.
+<b>2004</b>—Subsec. (d). Pub. L. 108–405 added subsec. (d).
+
+<b>2000</b>—Subsec. (a). Pub. L. 106–386, §1102(a)(1)(A), substituted “State and local courts (including juvenile courts), Indian tribal governments, tribal courts,” for “Indian tribal governments,”.
 
 Subsec. (b)(1). Pub. L. 106–386, §§1102(a)(1)(B)(i), 1109(b)(1), inserted “, judges, other court personnel,” after “law enforcement officers” and substituted “sexual assault, domestic violence, and dating violence” for “sexual assault and domestic violence”.
 

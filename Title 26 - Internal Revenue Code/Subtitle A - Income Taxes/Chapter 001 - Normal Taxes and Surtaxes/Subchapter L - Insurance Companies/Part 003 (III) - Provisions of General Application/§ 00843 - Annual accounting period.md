@@ -6,7 +6,7 @@ For purposes of this subtitle, the annual accounting period for each insurance c
 
 #### Amendments
 
-1976—Pub. L. 94–455 inserted provision permitting an insurance company which joins in the filing of a consolidated return to adopt the taxable year of the common parent corporation even though such year is not a calendar year.
+<b>1976</b>—Pub. L. 94–455 inserted provision permitting an insurance company which joins in the filing of a consolidated return to adopt the taxable year of the common parent corporation even though such year is not a calendar year.
 
 #### Effective Date of 1976 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Violations; relief recoverable
 
-A purchaser or lessee may bring an action at law or in equity against a developer or agent if the sale or lease was made in violation of section 1703(a) of this title. In a suit authorized by this subsection, the court may order damages, specific performance, or such other relief as the court deems fair, just, and equitable. In determining such relief the court may take into account, but not be limited to, the following factors: the contract price of the lot or leasehold;the amount the purchaser or lessee actually paid; the cost of any improvements to the lot; the fair market value of the lot or leasehold at the time relief is determined; and the fair market value of the lot or leasehold at the time such lot was purchased or leased.
+A purchaser or lessee may bring an action at law or in equity against a developer or agent if the sale or lease was made in violation of section 1703(a) of this title. In a suit authorized by this subsection, the court may order damages, specific performance, or such other relief as the court deems fair, just, and equitable. In determining such relief the court may take into account, but not be limited to, the following factors: the contract price of the lot or leasehold; the amount the purchaser or lessee actually paid; the cost of any improvements to the lot; the fair market value of the lot or leasehold at the time relief is determined; and the fair market value of the lot or leasehold at the time such lot was purchased or leased.
 
 #### (b) Enforcement of rights by purchaser or lessee
 
@@ -20,7 +20,7 @@ Every person who becomes liable to make any payment under this section may recov
 
 #### Amendments
 
-1979—Subsec. (a). Pub. L. 96–153 substituted provisions relating to violations of section 1703(a) of this title and scope of relief authorized in suits brought against such violations, for provisions relating to suits for untrue statements or omissions to state material fact in statement of record.
+<b>1979</b>—Subsec. (a). Pub. L. 96–153 substituted provisions relating to violations of section 1703(a) of thistitle and scope of relief authorized in suits brought against such violations, for provisions relating to suits for untrue statements or omissions to state material fact in statement of record.
 
 Subsec. (b). Pub. L. 96–153 substituted provisions relating to enforcement of rights by the purchaser or lessee against the seller or lessor, for provisions relating to suits by the purchaser against the developer or agent.
 

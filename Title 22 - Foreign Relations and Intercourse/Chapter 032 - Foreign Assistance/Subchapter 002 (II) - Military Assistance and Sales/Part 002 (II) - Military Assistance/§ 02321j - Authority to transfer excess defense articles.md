@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The President is authorized to transfer excess defense articles under this section to countriesfor which receipt of such articles was justified pursuant to the annual congressional presentation documents for military assistance programs, or for programs under part VIII of subchapter I of this chapter, submitted under section 2394 of this title, or for which receipt of such articles was separately justified to the Congress, for the fiscal year in which the transfer is authorized.
+The President is authorized to transfer excess defense articles under this section to countries for which receipt of such articles was justified pursuant to the annual congressional presentation documents for military assistance programs, or for programs under part VIII of subchapter I of this chapter, submitted under section 2394 of this title, or for which receipt of such articles was separately justified to the Congress, for the fiscal year in which the transfer is authorized.
 
 #### (b) Limitations on transfers
 
@@ -58,7 +58,7 @@ Section 2392(d) of this title shall not apply with respect to transfers of exces
 
 #### (1) In general
 
-&emsp;The President may not transfer excess defense articles that are significant military equipment (as defined in section 47(9) of the Arms Export Control Act \[22 U.S.C. 2794(9)\]) or excess defense articles valued (in terms of original acquisition cost) at $7,000,000 or more, under this section or under the Arms Export Control Act (22 U.S.C. 2751 et seq.) until 30 days after the date on which the President has provided notice of the proposed transfer to the congressional committees specified in section 2394–1(a) of this title in accordance with procedures applicable to reprogramming notifications under that section.
+&emsp;The President may not transfer excess defense articles that are significant military equipment (as defined in section 47(9) of the Arms Export Control Act \[22 U.S.C. 2794(9)\]) or excess defense articles valued (in terms of original acquisition cost) at $7,000,000 or more, under this section or under the Arms Export Control Act (22 U.S.C. 2751 et seq.) until 30 days after the date on which the President has provided notice of the proposed transfer to the congressional committees specified in section2394–1(a) of this title in accordance with procedures applicable to reprogramming notifications under that section.
 
 #### (2) Contents
 
@@ -68,7 +68,7 @@ Section 2392(d) of this title shall not apply with respect to transfers of exces
 
 &emsp;&emsp;(B) an assessment of the impact of the transfer on the military readiness of the United States;
 
-&emsp;&emsp;(C) an assessment of the impact of the transfer on the national technology and industrial base and, particularly, the impact on opportunities of entities in the national technology and industrial base to sell new orused equipment to the countries to which such articles are to be transferred; and
+&emsp;&emsp;(C) an assessment of the impact of the transfer on the national technology and industrial base and, particularly, the impact on opportunities of entities in the national technology and industrial base to sell new or used equipment to the countries to which such articles are to be transferred; and
 
 &emsp;&emsp;(D) a statement describing the current value of such article and the value of such article at acquisition.
 
@@ -104,25 +104,25 @@ A prior section 2321j, Pub. L. 87–195, pt. II, §516, as added Pub. L. 94–32
 
 #### Amendments
 
-2002—Subsec. (c)(2). Pub. L. 107–228 substituted “, to major non-NATO allies on such southern and southeastern flank, and to the Philippines” for “and to major non-NATO allies on such southern and southeastern flank”.
+<b>2002</b>—Subsec. (c)(2). Pub. L. 107–228 substituted “, to major non-NATO allies on such southern and southeastern flank, and to the Philippines” for “and to major non-NATO allies on such southern and southeastern flank”.
 
-2000—Subsec. (e)(2)(C). Pub. L. 106–280 substituted “50,000” for “25,000”.
+<b>2000</b>—Subsec. (e)(2)(C). Pub. L. 106–280 substituted “50,000” for “25,000”.
 
-1999—Subsec. (b)(2). Pub. L. 106–113, §1000(a)(7) \[title XII, §1211(b)\], inserted “and thereafter for the four-period beginning on October 1, 2000,” after “October 1, 1996,”.
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–113, §1000(a)(7) \[title XII, §1211(b)\], inserted “and thereafter for the four-period beginning on October 1, 2000,” after “October 1, 1996,”.
 
 Subsec. (g)(1). Pub. L. 106–113, §1000(a)(7) \[title XII, §1213\], substituted “$425,000,000” for “$350,000,000”.
 
-1996—Pub. L. 104–164 amended section generally, expanding geographic scope of President's authority to transfer excess defense articles, including Coast Guard property and permitting waiver of Department of Defense reimbursement, to any country for military assistance programs or international narcotics control, so long as such transfer is preferable to sale and is consistent within congressionally documented Eastern Mediterranean policy requirements, meets certain terms of transfer requirements including preference for NATO and non-NATO allies on southern flank, complies with advance notification to Congress for certain excess defense articles, and is within aggregate annual limitations of $350,000,000 in value, for provisions which authorized President to transfer excess defense articles to predominantly NATO countries on southern flank for purpose of modernization of their defense capabilities.
+<b>1996</b>—Pub. L. 104–164 amended section generally, expanding geographic scope of President's authority to transfer excess defense articles, including Coast Guard property and permitting waiver of Department of Defense reimbursement, to any country for military assistance programs or international narcotics control, so long as such transfer is preferable to sale and is consistent within congressionally documented Eastern Mediterranean policy requirements, meets certain terms of transfer requirements including preference for NATO and non-NATO allies on southern flank, complies with advance notification to Congress for certain excess defense articles, and is within aggregate annual limitations of $350,000,000 in value, for provisions which authorized President to transfer excess defense articles to predominantly NATO countries on southern flank for purpose of modernization of their defense capabilities.
 
 Subsec. (g). Pub. L. 104–106 added subsec. (g) which prohibited certain transfers of vessels on a grant basis.
 
-1994—Subsec. (b)(4). Pub. L. 103–236 added par. (4).
+<b>1994</b>—Subsec. (b)(4). Pub. L. 103–236 added par. (4).
 
-1993—Subsec. (a). Pub. L. 103–160, §1182(c)(2), made technical amendment to Pub. L. 102–484, §1313(2). See 1992 Amendment note below.
+<b>1993</b>—Subsec. (a). Pub. L. 103–160, §1182(c)(2), made technical amendment to Pub. L. 102–484, §1313(2). See 1992 Amendment note below.
 
 Subsec. (a)(3). Pub. L. 103–160, §1421, inserted “or fiscal year 1992” after “fiscal year 1991”.
 
-1992—Subsec. (a). Pub. L. 102–484, §1313(4), which directed the amendment of subsec. (a) by striking “and those countries which received Foreign Military Financing (FMF) assistance in fiscal year 1990 and which, as of October 1, 1990, contributed armed forces to deter Iraqi aggression in the Arabian Gulf,”, could not be executed because that language did not appear subsequent to amendment by Pub. L. 102–391. See below.
+<b>1992</b>—Subsec. (a). Pub. L. 102–484, §1313(4), which directed the amendment of subsec. (a) by striking “and those countries which received Foreign Military Financing (FMF) assistance in fiscal year 1990 and which, as of October 1, 1990, contributed armed forces to deter Iraqi aggression in the Arabian Gulf,”, could not be executed because that language did not appear subsequent to amendment by Pub. L. 102–391. See below.
 
 Pub. L. 102–484, §1313(3), inserted “and (3) to those countries which, as of October 1, 1990, contributed armed forces to deter Iraqi aggression in the Arabian Gulf, and which either received Foreign Military Financing (FMF) assistance in fiscal year 1990 or are in the Near East Region and received Foreign Military Financing (FMF) assistance in fiscal year 1991,” after “southeastern flank of NATO which are eligible for United States security assistance,”.
 
@@ -132,15 +132,15 @@ Pub. L. 102–484, §1313(1), inserted “(1)” after “may transfer”.
 
 Pub. L. 102–391 repealed the amendment by Pub. L. 101–513. See 1990 Amendment note below.
 
-1991—Subsec. (a). Pub. L. 102–190, §1049(a)(1), struck out “during the fiscal years 1987 through 1991,” before “the President may transfer”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–190, §1049(a)(1), struck out “during the fiscal years 1987 through 1991,” before “the President may transfer”.
 
 Subsec. (f). Pub. L. 102–190, §1049(a)(2), added subsec. (f).
 
-1990—Subsec. (a). Pub. L. 101–513, which directed amendment of subsec. (a) by inserting “and those countries which received Foreign Military Financing (FMF) assistance in fiscal year 1990 and which, as of October 1, 1990, contributed armed forces to deter Iraqi aggression in the Arabian Gulf,” after the second occurrence of the words “United States security assistance,”, was repealed by Pub. L. 102–391. See 1992 Amendment note above.
+<b>1990</b>—Subsec. (a). Pub. L. 101–513, which directed amendment of subsec. (a) by inserting “and those countries which received Foreign Military Financing (FMF) assistance in fiscal year 1990 and which, as of October 1, 1990, contributed armed forces to deter Iraqi aggression in the Arabian Gulf,” after the second occurrence of the words “United States security assistance,”, was repealed by Pub. L. 102–391. See 1992 Amendment note above.
 
-1989—Subsec. (a). Pub. L. 101–189 substituted “during the fiscal years 1987 through 1991” for “during the fiscal years 1987, 1988, and 1989” and inserted at end “Transfers to recipient countries under this subsection shall be consistent with the policy framework for the Eastern Mediterranean region established in section 2373 of this title.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–189 substituted “during the fiscal years 1987 through 1991” for “during the fiscal years 1987, 1988, and 1989” and inserted at end “Transfers to recipient countries under this subsection shall be consistent with the policy framework for the Eastern Mediterranean region established in section 2373 of this title.”
 
-1987—Subsec. (a). Pub. L. 100–202, §101(b) \[title VIII, §8143(a), (b), (c)(1)\], in first sentence substituted “, 1988, and 1989,” for “and 1988”, inserted “, and to major non-NATO allies on the southern and southeastern flank of NATO which are eligible for United States security assistance,” after “military structure”, and inserted “excess” before “defense articles”, and in second sentence inserted “excess defense” before “articles”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–202, §101(b) \[title VIII, §8143(a), (b), (c)(1)\], in first sentence substituted “, 1988, and 1989,” for “and 1988”, inserted “, and to major non-NATO allies on the southern and southeastern flank of NATO which are eligible for United States security assistance,” after “military structure”, and inserted “excess” before “defense articles”, and in second sentence inserted “excess defense” before “articles”.
 
 Subsec. (b). Pub. L. 100–202, §101(b) \[title VIII, §8143(c)(2)\], in introductory text, inserted “excess” before “defense articles”.
 
@@ -242,7 +242,7 @@ Maintenance of Military Balance in Eastern Mediterranean.—
 
 &emsp;“(1)
 
-United states policy.—The Congress intends that excess defense articles be made available underthis section consistent with the United States policy, established by section 841 of the International Cooperation Act of 1989 \[probably means section 841 of H.R. 2655, 101st Congress, which was not enacted\], of maintaining the military balance in the Eastern Mediterranean.
+United states policy.—The Congress intends that excess defense articles be made available under this section consistent with the United States policy, established by section 841 of the International Cooperation Act of 1989 \[probably means section 841 of H.R. 2655, 101st Congress, which was not enacted\], of maintaining the military balance in the Eastern Mediterranean.
 
 &emsp;“(2)
 

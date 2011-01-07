@@ -4,7 +4,7 @@
 
 A State, Indian tribal government, or unit of local government, shall not be entitled to funds under this subchapter unless the State, Indian tribal government, or unit of local government—
 
-&emsp;(1) certifies that its laws, policies, and practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence offense, or in connection with the filing, issuance, registration, or service of a protection order, or a petition for a protection order, to protect a victim of domestic violence, stalking, or sexual assault, that the victim bear the costs associated with the filing of criminal charges against the offender, or the costs associated with the filing, issuance, registration, or service of a warrant, protection order, petition for a protection order, or witness subpoena, whether issued inside or outside the State, tribal, or local jurisdiction; or
+&emsp;(1) certifies that its laws, policies, and practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence offense, or in connection withthe filing, issuance, registration, or service of a protection order, or a petition for a protection order, to protect a victim of domestic violence, stalking, or sexual assault, that the victim bear the costs associated with the filing of criminal charges against the offender, or the costs associated with the filing, issuance, registration, or service of a warrant, protection order, petition for a protection order, or witness subpoena, whether issued inside or outside the State, tribal, or local jurisdiction; or
 
 &emsp;(2) gives the Attorney General assurances that its laws, policies and practices will be in compliance with the requirements of paragraph (1) within the later of—
 
@@ -24,7 +24,7 @@ In this section, the term “protection order” has the meaning given the term 
 
 #### Amendments
 
-2000—Pub. L. 106–386, §1101(b)(1)(A), in section catchline, substituted “Costs” for “Filing costs” and inserted “and protection orders” after “charges”.
+<b>2000</b>—Pub. L. 106–386, §1101(b)(1)(A), in section catchline, substituted “Costs” for “Filing costs” and inserted “and protection orders” after “charges”.
 
 Subsec. (a)(1). Pub. L. 106–386, §1101(b)(1)(B)(i), added par. (1) and struck out former par. (1) which read as follows: “certifies that its laws, policies, and practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence offense, that the abused bear the costs associated with the filing of criminal charges against the domestic violence offender, or the costs associated with the issuance or service of a warrant, protection order, or witness subpoena; or”.
 

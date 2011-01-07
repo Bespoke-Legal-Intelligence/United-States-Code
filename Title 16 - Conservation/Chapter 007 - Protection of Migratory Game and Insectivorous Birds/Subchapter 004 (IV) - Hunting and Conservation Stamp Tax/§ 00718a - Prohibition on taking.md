@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), no individual who has attained the age of 16 years shall take any migratory waterfowl unless, at the time of the taking, the individual carries on the person of the individual a valid Migratory Bird Hunting and Conservation Stamp, validated by the signature of the individual written in ink across the face of the stampprior to the time of the taking by the individual of the waterfowl.
+&emsp;Except as provided in paragraph (2), no individual who has attained the age of 16 years shall take any migratory waterfowl unless, at the time of the taking, the individual carries on the person of the individual a valid Migratory Bird Hunting and Conservation Stamp, validated by the signature of the individual written in ink across the face of the stamp prior to the time of the taking by the individual of the waterfowl.
 
 #### (2) Exception
 
@@ -32,13 +32,13 @@ Nothing in this section requires any individual to affix the Migratory Bird Hunt
 
 #### Amendments
 
-2006—Pub. L. 109–266 amended section generally. Prior to amendment, section related to hunting and conservation stamp for taking migratory waterfowl.
+<b>2006</b>—Pub. L. 109–266 amended section generally. Prior to amendment, section related to hunting and conservation stamp for taking migratory waterfowl.
 
-1976—Pub. L. 94–215 substituted “hunting and conservation stamp” for “hunting stamp” in first sentence.
+<b>1976</b>—Pub. L. 94–215 substituted “hunting and conservation stamp” for “hunting stamp” in first sentence.
 
-1956—Act July 30, 1956, substituted “no person who has attained the age of sixteen years”, for “no person over sixteen years of age”.
+<b>1956</b>—Act July 30, 1956, substituted “no person who has attained the age of sixteen years”, for “no person over sixteen years of age”.
 
-1935—Act June 15, 1935, substituted “validated by his signature written by himself in ink across the face of the stamp prior to his taking such birds” for “issued to him in the manner hereinafter provided,” and struck out provisions which authorized the Secretary of Agriculture to adopt and promulgate regulations for the protection of private property in the injury of crops.
+<b>1935</b>—Act June 15, 1935, substituted “validated by his signature written by himself in ink across the face of the stamp prior to his taking such birds” for “issued to him in the manner hereinafter provided,” and struck out provisions which authorized the Secretary of Agriculture to adopt and promulgate regulations for the protection of private property in the injury of crops.
 
 #### Transfer of Functions
 

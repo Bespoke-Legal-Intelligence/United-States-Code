@@ -12,7 +12,7 @@ On or before the first day of October in each year after the passage of sections
 
 #### (1) In general
 
-&emsp;The balance of any annual funds provided under sections 361a to 361i of this title to a State agricultural experiment station for a fiscal year that remains unexpended at the end of the fiscal year may be carried over for use during the following fiscal year.
+&emsp;The balance of any annual funds provided under sections 361a to 361i of this title to aState agricultural experiment station for a fiscal year that remains unexpended at the end of the fiscal year may be carried over for use during the following fiscal year.
 
 #### (2) Failure to expend full allotment
 

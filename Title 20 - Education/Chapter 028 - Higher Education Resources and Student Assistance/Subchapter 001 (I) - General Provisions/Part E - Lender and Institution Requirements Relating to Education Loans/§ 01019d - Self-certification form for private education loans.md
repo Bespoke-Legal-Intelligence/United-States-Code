@@ -36,7 +36,7 @@ Nothing in this section shall be construed to create a private right of action a
 
 #### Amendments
 
-2009—Subsec. (a)(4). Pub. L. 111–39 added par. (4) and struck out former par. (4) which read as follows: “include a place to provide information on—
+<b>2009</b>—Subsec. (a)(4). Pub. L. 111–39 added par. (4) and struck out former par. (4) which read as follows: “include a place to provide information on—
 
 &emsp;“(A) the applicant's cost of attendance at the institution of higher education, as determined by the institution under Part E of subchapter IV;
 
@@ -50,5 +50,5 @@ Nothing in this section shall be construed to create a private right of action a
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14,2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

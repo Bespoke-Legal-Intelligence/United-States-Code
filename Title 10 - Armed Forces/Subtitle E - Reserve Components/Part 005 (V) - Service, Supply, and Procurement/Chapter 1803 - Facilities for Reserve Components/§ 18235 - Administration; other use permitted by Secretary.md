@@ -40,11 +40,11 @@ In subsection (b), the words “United States” are substituted for the words �
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
+<b>1999</b>—Subsec. (a). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 
-1996—Subsec. (a). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
 
-1994—Pub. L. 103–337, §1664(b)(2), renumbered section 2235 of this title as this section.
+<b>1994</b>—Pub. L. 103–337, §1664(b)(2), renumbered section 2235 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 103–337, §1664(b)(7), substituted “18233” for “2233(a)(1)”.
 

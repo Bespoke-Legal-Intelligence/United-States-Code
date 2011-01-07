@@ -38,7 +38,7 @@ Section 6103(f) shall apply with respect to any return, payment, or registration
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (d). Pub. L. 94–455, §1202(h)(6), substituted “6103(f)” for “6103(d)”.
 

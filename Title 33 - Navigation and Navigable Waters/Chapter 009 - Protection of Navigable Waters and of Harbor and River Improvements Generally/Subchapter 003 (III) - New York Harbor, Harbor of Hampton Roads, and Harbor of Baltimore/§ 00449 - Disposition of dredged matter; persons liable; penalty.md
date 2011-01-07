@@ -14,7 +14,7 @@ Section was enacted as part of section 4 of act June 29, 1888, which enacted sec
 
 #### Amendments
 
-1958—Pub. L. 85–802 substituted “any harbor subject to this subchapter” for “the harbor of New York, or the waters adjacent or tributary thereto” and “the waters of that harbor” for “the waters of the harbor of New York”.
+<b>1958</b>—Pub. L. 85–802 substituted “any harbor subject to this subchapter” for “the harbor of New York, or the waters adjacent or tributary thereto” and “the waters of that harbor” for “the waters of the harbor of New York”.
 
 #### Effective Date of 1958 Amendment
 

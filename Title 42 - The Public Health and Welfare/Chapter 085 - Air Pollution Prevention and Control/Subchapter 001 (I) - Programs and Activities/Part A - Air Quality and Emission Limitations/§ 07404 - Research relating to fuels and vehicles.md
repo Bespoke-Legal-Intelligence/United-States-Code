@@ -16,7 +16,7 @@ The Administrator shall give special emphasis to research and development into n
 
 &emsp;&emsp;(E) producing synthetic or new fuels which, when used, result in decreased atmospheric emissions.<sup>1</sup>
 
-&emsp;(2) provide for Federal grants to public or nonprofit agencies, institutions, and organizations and to individuals, and contracts with public or private agencies, institutions, or persons, for payment of (A) part of the cost of acquiring, constructing, or otherwise securing for research and development purposes, new or improved devices or methods having industrywide application of preventing or controlling discharges into the air of various types of pollutants; (B) part of the cost of programs to develop low emission alternatives to the present internal combustion engine; (C) the cost to purchase vehicles and vehicle engines, or portions thereof, for research, development, and testing purposes; and (D) carrying out the other provisions of this section, without regard to section 3324(a) and (b) of title 31 and section 5 of title 41: <i>Provided</i>, That research or demonstration contracts awarded pursuant to this subsection (including contracts for construction) may be made in accordance with, and subject to the limitations provided with respect to research contracts of the military departments in, section 2353 of title 10, except that the determination, approval, and certification required thereby shall be made by the Administrator; <i>Provided further</i>, That no grant may be made under this paragraph in excess of $1,500,000;
+&emsp;(2) provide for Federal grants to public or nonprofit agencies, institutions, and organizations and to individuals, and contracts with public or private agencies, institutions, or persons, for payment of (A) part of the cost of acquiring, constructing, or otherwise securing for research and development purposes, new or improved devices or methods having industrywide application of preventing or controlling discharges into the air of various types of pollutants; (B) part of the cost of programs to develop low emission alternatives to the present internal combustion engine; (C) the cost to purchase vehicles and vehicle engines, or portions thereof, for research, development, and testing purposes; and (D) carrying out the other provisions of this section, without regard to section 3324(a) and (b) of title 31 and section 6101 of title 41: <i>Provided</i>, That research or demonstration contracts awarded pursuant to this subsection (including contracts for construction) may be made in accordance with, and subject to the limitations provided with respect to research contracts of the military departments in, section 2353 of title 10, except that the determination, approval, and certification required thereby shall be made by the Administrator; <i>Provided further</i>, That no grant may be made under this paragraph in excess of $1,500,000;
 
 &emsp;(3) determine, by laboratory and pilot plant testing, the results of air pollution research and studies in order to develop new or improved processes and plant designs to the point where they can be demonstrated on a large and practical scale;
 
@@ -46,7 +46,7 @@ The Administrator shall conduct a research program to identify, characterize, an
 
 #### Codification
 
-In subsec. (a)(2), “section 3324(a) and (b) of title 31” substituted for reference to section 3648 of the Revised Statutes (31 U.S.C. 529) on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a)(2)(D), “section 3324(a) and (b) of title 31 and section 6101 of title 41” substituted for “sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529; 41 U.S.C. 5)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was formerly classified to section 1857b–1 of this title.
 
@@ -56,15 +56,15 @@ A prior section 104 of act July 14, 1955, was renumbered section 105 by Pub. L. 
 
 #### Amendments
 
-1990—Subsecs. (a)(1), (b)(1). Pub. L. 101–549, §901(d)(1), substituted “cost-effective” for “low-cost”.
+<b>1990</b>—Subsecs. (a)(1), (b)(1). Pub. L. 101–549, §901(d)(1), substituted “cost-effective” for “low-cost”.
 
 Subsec. (c). Pub. L. 101–549, §901(d)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For the purposes of this section there are authorized to be appropriated $75,000,000 for the fiscal year ending June 30, 1971, $125,000,000 for the fiscal year ending June 30, 1972, $150,000,000 for the fiscal year ending June 30, 1973, and $150,000,000 for the fiscal year ending June 30, 1974, and $150,000,000 for the fiscal year ending June 30, 1975. Amounts appropriated pursuant to this subsection shall remain available until expended.”
 
-1974—Subsec. (c). Pub. L. 93–319 authorized appropriation of $150,000,000 for fiscal year ending June 30, 1975.
+<b>1974</b>—Subsec. (c). Pub. L. 93–319 authorized appropriation of $150,000,000 for fiscal year ending June 30, 1975.
 
-1973—Subsec. (c). Pub. L. 93–15 authorized appropriation of $150,000,000 for fiscal year ending June 30, 1974.
+<b>1973</b>—Subsec. (c). Pub. L. 93–15 authorized appropriation of $150,000,000 for fiscal year ending June 30, 1974.
 
-1970—Subsec. (a). Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary”.
 
 Subsec. (a)(1). Pub. L. 91–604, §2(b), inserted provisions authorizing research programs directed toward development of techniques for improving the efficiency of fuels combustion so as to decrease atmospheric emissions, and producing synthetic or new fuels which result in decreased atmospheric emissions.
 
@@ -74,7 +74,7 @@ Subsec. (b). Pub. L. 91–604, §15(c)(2), substituted “Administrator” for �
 
 Subsec. (c). Pub. L. 91–604, §13(a), substituted provisions authorizing appropriations for fiscal years ending June 30, 1971, 1972, and 1973, for provisions authorizing appropriations for fiscal years ending June 30, 1968 and 1969.
 
-1969—Subsec. (c). Pub. L. 91–137 authorized appropriation of $45,000,000 for fiscal year ending June 30, 1970.
+<b>1969</b>—Subsec. (c). Pub. L. 91–137 authorized appropriation of $45,000,000 for fiscal year ending June 30, 1970.
 
 #### Hydrogen Fuel Cell Vehicle Study and Test Program
 

@@ -44,7 +44,7 @@ In providing grants under subsection (a) of this section, the Secretary shall ex
 
 #### (e) Quentin N. Burdick American Indians Into Nursing Program
 
-The Secretary shall provide one of the grants authorized under subsection (a) of this section to establish and maintain a program at the University of North Dakota to be known as the “Quentin N. Burdick American Indians Into Nursing Program”. Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick Indian Health Programs established under section 1616g(b) of this title and the Quentin N. Burdick American Indians Into Psychology Program established under section 1621p(b) of this title.
+The Secretary shall provide one of the grants authorized under subsection (a) of this section to establish and maintain a program at the University of North Dakota to be known as the “Quentin N. Burdick American Indians IntoNursing Program”. Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick Indian Health Programs established under section 1616g(b) of this title and the Quentin N. Burdick American Indians Into Psychology Program established under section 1621p(b) of this title.
 
 #### (f) Service obligation
 
@@ -74,7 +74,7 @@ The Indian Self-Determination Act, referred to in subsec. (f)(B), is title I of 
 
 #### Amendments
 
-1992—Subsec. (a)(2). Pub. L. 102–573, §114(a), inserted “and tribally controlled postsecondary vocational institutions (as defined in section 2397h(2) of title 20)” after “community colleges”.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–573, §114(a), inserted “and tribally controlled postsecondary vocational institutions (as defined in section 2397h(2) of title 20)” after “community colleges”.
 
 Subsecs. (e), (f). Pub. L. 102–573, §104(b), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
 

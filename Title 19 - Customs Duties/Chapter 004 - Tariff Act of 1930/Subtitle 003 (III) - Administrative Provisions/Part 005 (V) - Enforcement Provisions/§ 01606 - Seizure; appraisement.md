@@ -4,10 +4,6 @@ The appropriate customs officer shall determine the domestic value, at the time 
 
 (June 17, 1930, ch. 497, title IV, §606, 46 Stat. 754; Pub. L. 91–271, title III, §301(dd), June 2, 1970, 84 Stat. 291; Pub. L. 98–473, title II, §321, Oct. 12, 1984, 98 Stat. 2056; Pub. L. 98–573, title II, §213(a)(3), Oct. 30, 1984, 98 Stat. 2984.)
 
-#### References in Text
-
-The customs laws, referred to in text, are classified generally to this title.
-
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §606, 42 Stat. 985. That section was superseded by section 606 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
@@ -16,9 +12,9 @@ Prior provisions for appraisement of property seized under the customs laws, or 
 
 #### Amendments
 
-1984—Pub. L. 98–573 and Pub. L. 98–473 inserted reference to aircraft.
+<b>1984</b>—Pub. L. 98–573 and Pub. L. 98–473 inserted reference to aircraft.
 
-1970—Pub. L. 91–271 substituted “appropriate customs officer shall” for “collector shall require the appraiser to”.
+<b>1970</b>—Pub. L. 91–271 substituted “appropriate customs officer shall” for “collector shall require the appraiser to”.
 
 #### Effective Date of 1984 Amendment
 

@@ -20,5 +20,5 @@ The United States hereby approves and confirms the releases and waivers required
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–109 substituted “This subchapter” for “The subchapter” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–109 substituted “This subchapter” for “The subchapter” in introductory provisions.
 

@@ -4,19 +4,15 @@ Any officer of the customs service designated by the Secretary of the Treasury f
 
 (Mar. 4, 1923, ch. 251, §2, 42 Stat. 1453; Jan. 13, 1925, ch. 76, 43 Stat. 748; May 28, 1926, ch. 411, §1, 44 Stat. 669; June 17, 1930, ch. 497, title IV, §§518, 649, 46 Stat. 737, 762; June 25, 1948, ch. 646, §39, 62 Stat. 992; Pub. L. 91–271, title III, §303, June 2, 1970, 84 Stat. 292.)
 
-#### References in Text
-
-The civil service laws, referred to in text, are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Amendments
 
-1970—Pub. L. 91–271 struck out provisions authorizing Secretary of the Treasury to appoint, prescribe designations and duties, and fix compensation of deputies and other customs officers, laborers, and other employees.
+<b>1970</b>—Pub. L. 91–271 struck out provisions authorizing Secretary of the Treasury to appoint, prescribe designations and duties, and fix compensation of deputies and other customs officers, laborers, and other employees.
 
-1948—Act June 25, 1948, struck out fourth sentence relating to appointment and compensation of clerks of Customs Court.
+<b>1948</b>—Act June 25, 1948, struck out fourth sentence relating to appointment and compensation of clerks of Customs Court.
 
-1930—Act June 17, 1930, §518, authorized Secretary of the Treasury to appoint and fix compensation of clerks of Customs Court.
+<b>1930</b>—Act June 17, 1930, §518, authorized Secretary of the Treasury to appoint and fix compensation of clerks of Customs Court.
 
-1926—Act May 28, 1926, substituted “United States Customs Court” for “Board of General Appraisers”.
+<b>1926</b>—Act May 28, 1926, substituted “United States Customs Court” for “Board of General Appraisers”.
 
 Act June 17, 1930, §649, substituted “Treasury attache�AE1s” for “Customs attache�AE1s”.
 
@@ -30,7 +26,7 @@ Section 38 of act June 25, 1948, provided that the amendment made by that act is
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Departmentof Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than December 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out as a note under section 1 of this title.
 

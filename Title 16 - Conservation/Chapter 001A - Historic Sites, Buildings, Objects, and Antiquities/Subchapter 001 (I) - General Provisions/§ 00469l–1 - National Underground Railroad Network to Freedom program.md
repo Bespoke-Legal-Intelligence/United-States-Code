@@ -32,7 +32,7 @@ To achieve the purposes of sections 469<i>l</i> to 469<i>l</i>–3 of this title
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–229 struck out subsec. (d) which authorized appropriations for sections 469<i>l</i> to 469<i>l</i>–2 of this title.
+<b>2008</b>—Subsec. (d). Pub. L. 110–229 struck out subsec. (d) which authorized appropriations for sections 469<i>l</i> to 469<i>l</i>–2 of this title.
 
 #### Effective Date of 2008 Amendment
 

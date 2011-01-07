@@ -40,7 +40,7 @@ In clause (1)(A), the words “citizens of the United States” are substituted 
 
 #### Amendments
 
-2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1090(b)(1)(A)\], substituted “as follows:” for “to—” in introductory provisions.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1090(b)(1)(A)\], substituted “as follows:” for “to—” in introductory provisions.
 
 Par. (1). Pub. L. 106–398, §1 \[\[div. A\], title X, §1090(b)(1)(B), (C)\], inserted “To” before “provide” in introductory provisions and substituted a period for the semicolon at the end of subpar. (B).
 

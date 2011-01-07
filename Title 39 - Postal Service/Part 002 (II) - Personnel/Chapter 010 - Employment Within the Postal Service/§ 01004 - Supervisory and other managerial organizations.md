@@ -46,7 +46,7 @@
 
 (f)(1) If, notwithstanding the mutual efforts required by subsection (e) of this section, the supervisors’ organization believes that the decision of the Postal Service is not in accordance with the provisions of this title, the organization may, within 10 days following its receipt of such decision, request the Federal Mediation and Conciliation Service to convene a factfinding panel (hereinafter referred to as the “panel”) concerning such matter.
 
-(2) Within 15 days after receiving a request under paragraph (1) of this subsection, the Federal Mediation and Conciliation Service shall provide a list of 7 individuals recognized as experts in supervisory and managerial pay policies. Each party shall designate one individual from the list to serve on the panel. If, within 10 days after the list is provided, either of the parties has not designated an individual from the list, the Director of the Federal Mediation and Conciliation Service shall make the designation. The first two individuals designated from the list shall meet within 5 days and shall designate a third individual from the list. The third individual shall chair the panel. If the two individuals designated from the list are unable to designate a third individual within 5 days after their first meeting, the Director shall designate the third individual.
+(2) Within 15 days after receiving a request under paragraph (1) of this subsection, the Federal Mediation and Conciliation Service shall provide a list of 7 individuals recognized as experts in supervisory and managerial pay policies. Each party shall designate one individualfrom the list to serve on the panel. If, within 10 days after the list is provided, either of the parties has not designated an individual from the list, the Director of the Federal Mediation and Conciliation Service shall make the designation. The first two individuals designated from the list shall meet within 5 days and shall designate a third individual from the list. The third individual shall chair the panel. If the two individuals designated from the list are unable to designate a third individual within 5 days after their first meeting, the Director shall designate the third individual.
 
 (3)(A) The panel shall recommend standards for pay policies and schedules and fringe benefit programs affecting the members of the supervisors’ organization for the period covered by the collective bargaining agreement specified in subsection (e)(1) of this section. The standards shall be consistent with the policies of this title, including sections 1003(a) and 1004(a) of this title.
 
@@ -68,7 +68,7 @@
 
 (i) For purposes of this section—
 
-&emsp;(1) “supervisors’ organization” means the organization recognized by the Postal Serviceunder subsection (b) of this section as representing a majority of supervisors;
+&emsp;(1) “supervisors’ organization” means the organization recognized by the Postal Service under subsection (b) of this section as representing a majority of supervisors;
 
 &emsp;(2) “members of the supervisors’ organization” means employees of the Postal Service who are recognized under an agreement between the Postal Service and the supervisors’ organization as represented by such organization;
 
@@ -90,7 +90,7 @@ The date of the enactment of this subsection, referred to in subsec. (g), is the
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–86, §2(a)(2), which directed substitution of “supervisors or postmasters)” for “supervisors)” in second sentence, was executed by making the substitution the second time “supervisors)” appears in the sentence to reflect the probable intent of Congress.
+<b>2003</b>—Subsec. (b). Pub. L. 108–86, §2(a)(2), which directed substitution of “supervisors or postmasters)” for “supervisors)” in second sentence, was executed by making the substitution the second time “supervisors)” appears in the sentence to reflect the probable intent of Congress.
 
 Pub. L. 108–86, §2(a)(1), inserted “that an organization (other than an organization representing supervisors) represents at least 20 percent of postmasters,” after “majority of supervisors,”.
 
@@ -98,7 +98,7 @@ Subsec. (h). Pub. L. 108–86, §2(b)(2), added subsec. (h). Former subsec. (h) 
 
 Subsec. (i). Pub. L. 108–86, §2(b)(1), (c), redesignated subsec. (h) as (i) and added pars. (3) to (5).
 
-1980—Subsecs. (c) to (h). Pub. L. 96–326 added subsecs. (c) to (h).
+<b>1980</b>—Subsecs. (c) to (h). Pub. L. 96–326 added subsecs. (c) to (h).
 
 #### Effective Date of 2003 Amendment
 

@@ -10,7 +10,7 @@ The Welfare and Pension Plans Disclosure Act, referred to in text, is Pub. L. 85
 
 #### Amendments
 
-2006—Pub. L. 109–280 substituted “$100,000” for “$10,000” and “10 years” for “one year”.
+<b>2006</b>—Pub. L. 109–280 substituted “$100,000” for “$10,000” and “10 years” for “one year”.
 
 #### Effective Date of 2006 Amendment
 

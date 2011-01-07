@@ -6,11 +6,11 @@ The Director of the Agency for Healthcare Research and Quality shall conduct, or
 
 #### (b) Research subjects
 
-The Director of the Agency for Healthcare Research and Quality shall ensure that researchconducted under subsection (a) of this section shall include research—
+The Director of the Agency for Healthcare Research and Quality shall ensure that research conducted under subsection (a) of this section shall include research—
 
 &emsp;(1) concerning improving the organization, delivery, and financing of services for individuals with Alzheimer's disease and related dementias and for their families, including research on—
 
-&emsp;&emsp;(A) the design, staffing, and operation of special care units for the individuals in institutional settings, as well as individuals in institutional settings,<sup>1</sup> as well as individuals in home care, day care, and respite care; and
+&emsp;&emsp;(A) the design, staffing, and operation of special care units for the individuals in institutional settings, as well as individuals ininstitutional settings,<sup>1</sup> as well as individuals in home care, day care, and respite care; and
 
 &emsp;&emsp;(B) the exploration and enhancement of services such as home care, day care, and respite care, that provide alternatives to institutional care;
 
@@ -30,7 +30,7 @@ A prior section 11261, Pub. L. 99–660, title IX, §934, formerly §947, Nov. 1
 
 #### Amendments
 
-1999—Subsecs. (a), (b). Pub. L. 106–129 substituted “Director of the Agency for Healthcare Research and Quality” for “Administrator of the Agency for Health Care Policy and Research”.
+<b>1999</b>—Subsecs. (a), (b). Pub. L. 106–129 substituted “Director of the Agency for Healthcare Research and Quality” for “Administrator of the Agency for Health Care Policy and Research”.
 
 <i><sup>1</sup></i><i> So in original. The words “as well as individuals in institutional settings,” probably should not appear.</i>
 

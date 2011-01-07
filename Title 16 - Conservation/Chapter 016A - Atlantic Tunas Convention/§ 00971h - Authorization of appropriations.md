@@ -26,23 +26,23 @@ Section 971i(b)(2)(H) of this title, referred to in subsec. (b)(2), was in the o
 
 #### Amendments
 
-2007—Pub. L. 109–479 amended section generally, substituting provisions authorizing appropriations for fiscal years 2007 to 2013 for provisions authorizing appropriations for fiscal years 2003 to 2006.
+<b>2007</b>—Pub. L. 109–479 amended section generally, substituting provisions authorizing appropriations for fiscal years 2007 to 2013 for provisions authorizing appropriations for fiscal years 2003 to 2006.
 
-2002—Pub. L. 107–372 amended section generally, substituting provisions authorizing appropriations for fiscal years 2003 to 2006 for provisions authorizing appropriations for fiscal years 1995 to 2001.
+<b>2002</b>—Pub. L. 107–372 amended section generally, substituting provisions authorizing appropriations for fiscal years 2003 to 2006 for provisions authorizing appropriations for fiscal years 1995 to 2001.
 
-1998—Par. (4). Pub. L. 105–384 substituted “For each of fiscal years 1998, 1999, 2000, and 2001,” for “For fiscal year 1998,”.
+<b>1998</b>—Par. (4). Pub. L. 105–384 substituted “For each of fiscal years 1998, 1999, 2000, and 2001,” for “For fiscal year 1998,”.
 
-1995—Pub. L. 104–43 amended section generally, substituting provisions authorizing appropriations for fiscal years 1995 to 1998 for provisions authorizing appropriations for fiscal years 1989 to 1993.
+<b>1995</b>—Pub. L. 104–43 amended section generally, substituting provisions authorizing appropriations for fiscal years 1995 to 1998 for provisions authorizing appropriations for fiscal years 1989 to 1993.
 
-1990—Pub. L. 101–627 amended section generally, substituting provisions authorizing appropriations for fiscal years 1989 to 1993 for provisions authorizing appropriations for fiscal years 1986 to 1989 and striking out provisions relating to use of sums for travel expenses.
+<b>1990</b>—Pub. L. 101–627 amended section generally, substituting provisions authorizing appropriations for fiscal years 1989 to 1993 for provisions authorizing appropriations for fiscal years 1986 to 1989 and striking out provisions relating to use of sums for travel expenses.
 
-1986—Pub. L. 99–659 substituted authorization of appropriations for fiscal years 1986 through 1989 for former authorization of appropriations for fiscal year 1976, the period beginning July 1, 1976, and ending Sept. 30, 1976, and fiscal years 1977 through 1986.
+<b>1986</b>—Pub. L. 99–659 substituted authorization of appropriations for fiscal years 1986 through 1989 for former authorization of appropriations for fiscal year 1976, the period beginning July 1, 1976, and ending Sept. 30, 1976, and fiscal years 1977 through 1986.
 
-1983—Pub. L. 98–44 authorized appropriations for fiscal years 1984 through 1986.
+<b>1983</b>—Pub. L. 98–44 authorized appropriations for fiscal years 1984 through 1986.
 
-1980—Pub. L. 96–339 authorized appropriations for fiscal years 1981 through 1983.
+<b>1980</b>—Pub. L. 96–339 authorized appropriations for fiscal years 1981 through 1983.
 
-1977—Pub. L. 95–33 authorized appropriations for fiscal years 1978 through 1980.
+<b>1977</b>—Pub. L. 95–33 authorized appropriations for fiscal years 1978 through 1980.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

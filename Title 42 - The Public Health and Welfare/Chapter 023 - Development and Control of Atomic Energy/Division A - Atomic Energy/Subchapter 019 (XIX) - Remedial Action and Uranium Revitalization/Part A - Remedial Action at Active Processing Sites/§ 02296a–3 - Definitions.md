@@ -34,3 +34,5 @@ The Uranium Mill Tailings Radiation Control Act of 1978, referred to in par. (3)
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+

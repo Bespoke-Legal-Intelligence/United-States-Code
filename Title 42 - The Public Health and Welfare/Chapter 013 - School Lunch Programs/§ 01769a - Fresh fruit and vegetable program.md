@@ -40,7 +40,7 @@ A school participating in the program shall make free fresh fruits and vegetable
 
 &emsp;&emsp;(D) solicit applications from interested schools that include—
 
-&emsp;&emsp;&emsp;(i) information pertaining to the percentage of students enrolled in the school submitting the application who are eligible for free or reduced price school lunches under this chapter;
+&emsp;&emsp;&emsp;(i) information pertaining to the percentage of students enrolled in the schoolsubmitting the application who are eligible for free or reduced price school lunches under this chapter;
 
 &emsp;&emsp;&emsp;(ii) a certification of support for participation in the program signed by the school food manager, the school principal, and the district superintendent (or equivalent positions, as determined by the school);
 
@@ -84,7 +84,7 @@ To the maximum extent practicable, each State agency shall ensure that in making
 
 #### (1) In general
 
-&emsp;The Secretary shall conduct an evaluation of the program, including a determination asto whether children experienced, as a result of participating in the program—
+&emsp;The Secretary shall conduct an evaluation of the program, including a determination as to whether children experienced, as a result of participating in the program—
 
 &emsp;&emsp;(A) increased consumption of fruits and vegetables;
 
@@ -126,7 +126,7 @@ To the maximum extent practicable, each State agency shall ensure that in making
 
 #### (5) Authorization of appropriations
 
-&emsp;In addition to any other amounts made available to carry out this section, there are authorized to be appropriated such sums as are necessary to expand the program established under this section.
+&emsp;In addition to any other amounts made available to carry out this section, there areauthorized to be appropriated such sums as are necessary to expand the program established under this section.
 
 #### (6) Administrative costs
 

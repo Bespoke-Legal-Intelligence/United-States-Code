@@ -6,7 +6,7 @@ The Secretary may make grants to States, and in consultation with State health a
 
 #### (b) Application
 
-No grant may be made under subsection (a) of this section unless an application therefor has been submitted to, and approved by, the Secretary. Such an application shall be in such form and be submitted in such manner as the Secretary shall by regulation prescribe and shall provide—
+No grant may be made under subsection (a) of this section unless an application therefor hasbeen submitted to, and approved by, the Secretary. Such an application shall be in such form and be submitted in such manner as the Secretary shall by regulation prescribe and shall provide—
 
 &emsp;(1) a complete description of the type and extent of the program for which the applicant is seeking a grant under subsection (a) of this section;
 
@@ -34,7 +34,7 @@ No grant may be made under subsection (a) of this section unless an application 
 
 &emsp;(C) the applicant will comply with the assurances provided with the application.
 
-(2) The Secretary shall review annually the activities undertaken by each recipient of a grantunder subsection (a) of this section to determine if the program assisted by such grant is operating effectively to achieve its stated purposes and if the recipient is in compliance with the assurances provided the Secretary when applying for such grant.
+(2) The Secretary shall review annually the activities undertaken by each recipient of a grant under subsection (a) of this section to determine if the program assisted by such grant is operating effectively to achieve its stated purposes and if the recipient is in compliance with the assurances provided the Secretary when applying for such grant.
 
 #### (d) Amount of grant; payment
 
@@ -72,9 +72,9 @@ The Secretary may provide technical assistance to States, State health authoriti
 
 #### (j) Authorization of appropriations
 
-(1) Except for grants for immunization programs the authorization of appropriations for which are established in paragraph (2), for grants under subsections (a) and (k)(1) of this section for preventive health service programs to immunize without charge children, adolescents, and adults against vaccine-preventable diseases, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1998 through 2005. Not more than 10 percent of the total amount appropriated under the preceding sentence for any fiscal year shall be available for grants under subsection (k)(1) of this section for such fiscal year.
+(1) Except for grants for immunization programs the authorization of appropriations for which are established in paragraph (2), for grants under subsections (a) and (k)(1) of this section for preventive health service programs to immunize without charge children, adolescents, and adults against vaccine-preventable diseases, there are authorized to be appropriated such sums as may be necessary. Not more than 10 percent of the total amount appropriated under the preceding sentence for any fiscal year shall be available for grants under subsection (k)(1) of this section for such fiscal year.
 
-(2) For grants under subsection (a) of this section for preventive health service programs for the provision without charge of immunizations with vaccines approved for use, and recommended for routine use, after October 1, 1997, there are authorized to be appropriated such sums as may be necessary.
+(2) For grants under subsection (a) of this section for preventive health service programs for the provision without charge of immunizations with vaccines approved for use, and recommended for routine use, there are authorized to be appropriated such sums as may be necessary.
 
 #### (k) Additional grants to States, political subdivisions, and other public and nonprofit private entities
 
@@ -102,7 +102,65 @@ The Secretary may provide technical assistance to States, State health authoriti
 
 (4) Subsections (d), (e), and (f) of this section shall apply to grants under this subsection in the same manner as such subsections apply to grants under subsection (a) of this section.
 
-(July 1, 1944, ch. 373, title III, §317, as added Pub. L. 87–868, §2, Oct. 23, 1962, 76 Stat. 1155; amended Pub. L. 89–109, §2, Aug. 5, 1965, 79 Stat. 435; Pub. L. 91–464, §2, Oct. 16, 1970, 84 Stat. 988; Pub. L. 92–449, title I, §101, Sept. 30, 1972, 86 Stat. 748; Pub. L. 93–354, §4, July 23, 1974, 88 Stat. 376; Pub. L. 94–63, title VI, §601, July 29, 1975, 89 Stat. 346; Pub. L. 94–317, title II, §202(a), June 23, 1976, 90 Stat. 700; Pub. L. 94–380, §2, Aug. 12, 1976, 90 Stat. 1113; Pub. L. 95–626, title II, §§202, 204(b)(2), Nov. 10, 1978, 92 Stat. 3574, 3583; Pub. L. 96–32, §6(i), July 10, 1979, 93 Stat. 83; Pub. L. 97–35, title IX, §928, Aug. 13, 1981, 95 Stat. 569; Pub. L. 98–555, §2, Oct. 30, 1984, 98 Stat. 2854; Pub. L. 99–117, §11(c), Oct. 7, 1985, 99 Stat. 495; Pub. L. 100–177, title I, §§110(a), 111, Dec. 1, 1987, 101 Stat. 990, 991; Pub. L. 101–368, §2, Aug. 15, 1990, 104 Stat. 446; Pub. L. 101–502, §2(a), Nov. 3, 1990, 104 Stat. 1285; Pub. L. 103–183, title III, §301(b), Dec. 14, 1993, 107 Stat. 2235; Pub. L. 105–392, title III, §303, Nov. 13, 1998, 112 Stat. 3586; Pub. L. 106–310, div. A, title XVII, §1711, Oct. 17, 2000, 114 Stat. 1152.)
+#### (<i>l</i>) Authority to purchase recommended vaccines for adults
+
+#### (1) In general
+
+&emsp;The Secretary may negotiate and enter into contracts with manufacturers of vaccines for the purchase and delivery of vaccines for adults as provided for under subsection (e).
+
+#### (2) State purchase
+
+&emsp;A State may obtain additional quantities of such adult vaccines (subject to amounts specified to the Secretary by the State in advance of negotiations) through the purchase of vaccines from manufacturers at the applicable price negotiated by the Secretary under this subsection.
+
+#### (m) Demonstration program to improve immunization coverage
+
+#### (1) In general
+
+&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall establish a demonstration program to award grants to States to improve the provision of recommended immunizations for children, adolescents, and adults through the use of evidence-based, population-based interventions for high-risk populations.
+
+#### (2) State plan
+
+&emsp;To be eligible for a grant under paragraph (1), a State shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a State plan that describes the interventions to be implemented under the grant and how such interventions match with local needs and capabilities, as determined through consultation with local authorities.
+
+#### (3) Use of funds
+
+&emsp;Funds received under a grant under this subsection shall be used to implement interventions that are recommended by the Task Force on Community Preventive Services (as established by the Secretary, acting through the Director of the Centers for Disease Control and Prevention) or other evidence-based interventions, including—
+
+&emsp;&emsp;(A) providing immunization reminders or recalls for target populations of clients, patients, and consumers;
+
+&emsp;&emsp;(B) educating targeted populations and health care providers concerning immunizations in combination with one or more other interventions;
+
+&emsp;&emsp;(C) reducing out-of-pocket costs for families for vaccines and their administration;
+
+&emsp;&emsp;(D) carrying out immunization-promoting strategies for participants or clients of public programs, including assessments of immunization status, referrals to health care providers, education, provision of on-site immunizations, or incentives for immunization;
+
+&emsp;&emsp;(E) providing for home visits that promote immunization through education, assessments of need, referrals, provision of immunizations, or other services;
+
+&emsp;&emsp;(F) providing reminders or recalls for immunization providers;
+
+&emsp;&emsp;(G) conducting assessments of, and providing feedback to, immunization providers;
+
+&emsp;&emsp;(H) any combination of one or more interventions described in this paragraph; or
+
+&emsp;&emsp;(I) immunization information systems to allow all States to have electronic databases for immunization records.
+
+#### (4) Consideration
+
+&emsp;In awarding grants under this subsection, the Secretary shall consider any reviews or recommendations of the Task Force on Community Preventive Services.
+
+#### (5) Evaluation
+
+&emsp;Not later than 3 years after the date on which a State receives a grant under this subsection, the State shall submit to the Secretary an evaluation of progress made toward improving immunization coverage rates among high-risk populations within the State.
+
+#### (6) Report to Congress
+
+&emsp;Not later than 4 years after March 23, 2010,<sup>1</sup> the Secretary shall submit to Congress a report concerning the effectiveness of the demonstration program established under this subsection together with recommendations on whether to continue and expand such program.
+
+#### (7) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to carry out this subsection, such sums as may be necessary for each of fiscal years 2010 through 2014.
+
+(July 1, 1944, ch. 373, title III, §317, as added Pub. L. 87–868, §2, Oct. 23, 1962, 76 Stat. 1155; amended Pub. L. 89–109, §2, Aug. 5, 1965, 79 Stat. 435; Pub. L. 91–464, §2, Oct. 16, 1970, 84 Stat. 988; Pub. L. 92–449, title I, §101, Sept. 30, 1972, 86 Stat. 748; Pub. L. 93–354, §4, July 23, 1974, 88 Stat. 376; Pub. L. 94–63, title VI, §601, July 29, 1975, 89 Stat. 346; Pub. L. 94–317, title II, §202(a), June 23, 1976, 90 Stat. 700; Pub. L. 94–380, §2, Aug. 12, 1976, 90 Stat. 1113; Pub. L. 95–626, title II, §§202, 204(b)(2), Nov. 10, 1978, 92 Stat. 3574, 3583; Pub. L. 96–32, §6(i), July 10, 1979, 93 Stat. 83; Pub. L. 97–35, title IX, §928, Aug. 13, 1981, 95 Stat. 569; Pub. L. 98–555, §2, Oct. 30, 1984, 98 Stat. 2854; Pub. L. 99–117, §11(c), Oct. 7, 1985, 99 Stat. 495; Pub. L. 100–177, title I, §§110(a), 111, Dec. 1, 1987, 101 Stat. 990, 991; Pub. L. 101–368, §2, Aug. 15, 1990, 104 Stat. 446; Pub. L. 101–502, §2(a), Nov. 3, 1990, 104 Stat. 1285; Pub. L. 103–183, title III, §301(b), Dec. 14, 1993, 107 Stat. 2235; Pub. L. 105–392, title III, §303, Nov. 13, 1998, 112 Stat. 3586; Pub. L. 106–310, div. A, title XVII, §1711, Oct. 17, 2000, 114 Stat. 1152; Pub. L. 111–148, title IV, §4204(a)–(c), Mar. 23, 2010, 124 Stat. 571, 572.)
 
 #### References in Text
 
@@ -110,17 +168,25 @@ Section 300m–3 of this title, referred to in subsec. (b)(3), was repealed by P
 
 Section 247 of this title, referred to in subsec. (b)(3), was repealed by Pub. L. 99–117, §12(b), Oct. 7, 1985, 99 Stat. 495.
 
+March 23, 2010, referred to in subsec. (m)(6), was in the original “the date of enactment of the Affordable Health Choices Act”, and was translated as meaning the date of enactment of the Patient Protection and Affordable Care Act, Pub. L. 111–148, to reflect the probable intent of Congress. No act named the “Affordable Health Choices Act” has been enacted.
+
 #### Amendments
 
-2000—Subsec. (j)(1). Pub. L. 106–310 substituted “1998 through 2005” for “1998 through 2002” in first sentence.
+<b>2010</b>—Subsec. (j)(1). Pub. L. 111–148, §4204(c)(1), struck out “for each of the fiscal years 1998 through 2005” after “necessary”.
 
-1998—Subsec. (j)(1). Pub. L. 105–392, §303(1), substituted “children, adolescents, and adults against vaccine-preventable diseases, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1998 through 2002.” for “individuals against vaccine-preventable diseases, there are authorized to be appropriated $205,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1995.”
+Subsec. (j)(2). Pub. L. 111–148, §4204(c)(2), struck out “after October 1, 1997,” after “routine use,”.
+
+Subsecs. (<i>l</i>), (m). Pub. L. 111–148, §4204(a), (b), added subsecs. (<i>l</i>) and (m).
+
+<b>2000</b>—Subsec. (j)(1). Pub. L. 106–310 substituted “1998 through 2005” for “1998 through 2002” in first sentence.
+
+<b>1998</b>—Subsec. (j)(1). Pub. L. 105–392, §303(1), substituted “children, adolescents, and adults against vaccine-preventable diseases, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1998 through 2002.” for “individuals against vaccine-preventable diseases, there are authorized to be appropriated $205,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1995.”
 
 Subsec. (j)(2). Pub. L. 105–392, §303(2), substituted “1997” for “1990”.
 
-1993—Subsec. (j). Pub. L. 103–183, §301(b)(1), redesignated subpars. (A) and (B) of par. (1) as pars. (1) and (2), respectively, substituted “established in paragraph (2)” for “established in subparagraph (B)” in par. (1), and struck out former par. (2), which read as follows: “For grants under subsection (a) of this section for preventive health service programs for the prevention, control, and elimination of tuberculosis, and for grants under subsection (k)(2) of this section, there are authorized to be appropriated $24,000,000 for fiscal year 1988, $31,000,000 for fiscal year 1989, $36,000,000 for fiscal year 1990, $36,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1995. Not more than 10 percent of the total amount appropriated under the preceding sentence for any fiscal year shall be available for grants under subsection (k)(2) of this section for such fiscal year.”
+<b>1993</b>—Subsec. (j). Pub. L. 103–183, §301(b)(1), redesignated subpars. (A) and (B) of par. (1) as pars. (1) and (2), respectively, substituted “established in paragraph (2)” for “established in subparagraph (B)” in par. (1), and struck out former par. (2), which read as follows: “For grants under subsection (a) of this section for preventive health service programs for the prevention, control, and elimination of tuberculosis, and for grants under subsection (k)(2) of this section, there are authorized to be appropriated $24,000,000 for fiscal year 1988, $31,000,000 for fiscal year 1989, $36,000,000 for fiscal year 1990, $36,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1995. Not more than 10 percent of the total amount appropriated under the preceding sentence for any fiscal year shall be available for grants under subsection (k)(2) of this section for such fiscal year.”
 
-Subsec. (k)(2). Pub. L. 103–183, §301(b)(2)(A), (B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The Secretary may make grants to States, political subdivisions of States, and other public and nonprofit private entities for—
+Subsec. (k)(2). Pub. L. 103–183, §301(b)(2)(A), (B), redesignated par. (3) as (2) and struck out former par. (2)which read as follows: “The Secretary may make grants to States, political subdivisions of States, and other public and nonprofit private entities for—
 
 &emsp;“(A) research into the prevention, control, and elimination of tuberculosis, especially research concerning strains of tuberculosis resistant to drugs and research concerning cases of tuberculosis that affect certain populations;
 
@@ -136,7 +202,7 @@ Subsec. (k)(4), (5). Pub. L. 103–183, §301(b)(2)(B), (C), redesignated par. (
 
 Subsec. (<i>l</i>). Pub. L. 103–183, §301(b)(3), struck out subsec. (<i>l</i>) which related to establishment and function of Advisory Council for the Elimination of Tuberculosis.
 
-1990—Subsec. (j)(1)(A). Pub. L. 101–502, §2(a)(1), substituted provisions authorizing appropriations for fiscal years 1991 through 1995 for provisions authorizing appropriations for fiscal years 1988 through 1990.
+<b>1990</b>—Subsec. (j)(1)(A). Pub. L. 101–502, §2(a)(1), substituted provisions authorizing appropriations for fiscal years 1991 through 1995 for provisions authorizing appropriations for fiscal years 1988 through 1990.
 
 Subsec. (j)(1)(B). Pub. L. 101–502, §2(a)(2), substituted Oct. 1, 1990, for Dec. 1, 1987, and provisions authorizing appropriations as may be necessary for provisions authorizing appropriations for fiscal years 1988 to 1990.
 
@@ -150,35 +216,35 @@ Subsec. (k)(2)(A) to (D). Pub. L. 101–368, §2(a)(2), substituted “preventio
 
 Subsec. (<i>l</i>). Pub. L. 101–368, §2(b), added subsec. (<i>l</i>).
 
-1987—Subsec. (j). Pub. L. 100–177, §§110(a), 111(a), amended subsec. (j) generally, substituting provisions authorizing appropriations for fiscal years 1988 to 1990 for grants under subsecs. (a) and (k) of this section for former provisions authorizing appropriations for fiscal years 1982 to 1987 for grants under subsec. (a) of this section.
+<b>1987</b>—Subsec. (j). Pub. L. 100–177, §§110(a), 111(a), amended subsec. (j) generally, substituting provisions authorizing appropriations for fiscal years 1988 to 1990 for grants under subsecs. (a) and (k) of this section for former provisions authorizing appropriations for fiscal years 1982 to 1987 for grants under subsec. (a) of this section.
 
 Subsec. (k). Pub. L. 100–177, §111(b), added subsec. (k).
 
-1985—Subsec. (j). Pub. L. 99–117 amended directory language of Pub. L. 97–35, §928(b), to correct a technical error. See 1981 Amendment note below.
+<b>1985</b>—Subsec. (j). Pub. L. 99–117 amended directory language of Pub. L. 97–35, §928(b), to correct a technical error. See 1981 Amendment note below.
 
-1984—Subsec. (j)(1). Pub. L. 98–555, §2(a), substituted “immunize individuals against vaccine-preventable diseases” for “immunize children against immunizable diseases” and inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, 1986, and 1987.
+<b>1984</b>—Subsec. (j)(1). Pub. L. 98–555, §2(a), substituted “immunize individuals against vaccine-preventable diseases” for “immunize children against immunizable diseases” and inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, 1986, and 1987.
 
 Subsec. (j)(2). Pub. L. 98–555, §2(b), inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, 1986, and 1987.
 
-1981—Subsec. (a). Pub. L. 97–35, §928(a), struck out par. (1) which related to grants to State health authorities, and redesignated par. (2) as entire section and, as so redesignated, struck out reference to former par. (1).
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §928(a), struck out par. (1) which related to grants to State health authorities, and redesignated par. (2) as entire section and, as so redesignated, struck out reference to former par. (1).
 
 Subsec. (j). Pub. L. 97–35, §928(b), as amended by Pub. L. 99–117, substituted provisions authorizing appropriations for fiscal years ending Sept. 30, 1982, 1983, and 1984, for provisions setting forth appropriations through fiscal year ending Sept. 30, 1981, and provisions setting forth limitations, conditions, etc., for appropriations.
 
-1979—Subsec. (j)(4), (5). Pub. L. 96–32 added par. (4), redesignated former par. (4) as (5) and, in par. (5) as so redesignated, substituted “paragraph (1), (2), (3), or (4)” for “paragraph (1), (2), or (3)”.
+<b>1979</b>—Subsec. (j)(4), (5). Pub. L. 96–32 added par. (4), redesignated former par. (4) as (5) and, in par. (5) as so redesignated, substituted “paragraph (1), (2), (3), or (4)” for “paragraph (1), (2), or (3)”.
 
-1978—Pub. L. 95–626, §202, amended section generally, substituting provisions relating to project grants for preventive health services for provisions relating to grants for disease control programs.
+<b>1978</b>—Pub. L. 95–626, §202, amended section generally, substituting provisions relating to project grants for preventive health services for provisions relating to grants for disease control programs.
 
 Subsec. (g)(2). Pub. L. 95–626, §204(b)(2), struck out “Except as provided in section 247c of this title,” before “No funds appropriated under any provision of this chapter”.
 
-1976—Pub. L. 94–317 amended section generally to include many non-communicable diseases as well as expanding coverage of communicable diseases, increased appropriations for grants, widened scope of Secretary's authority to make grants and enter into contracts to include nonprofit private entities, and required a report from the Secretary on the effectiveness of all Federal and other public and private activities in controlling the diseases covered under this section.
+<b>1976</b>—Pub. L. 94–317 amended section generally to include many non-communicable diseases as well as expanding coverage of communicable diseases, increased appropriations for grants, widened scope of Secretary's authority to make grants and enter into contracts to include nonprofit private entities, and required a report from the Secretary on the effectiveness of all Federal and other public and private activities in controlling the diseases covered under this section.
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 94–380 added subsecs. (j) to (<i>l</i>).
 
-1975—Subsec. (d)(3). Pub. L. 94–63, §601(b), inserted authorization of appropriation for fiscal year 1976.
+<b>1975</b>—Subsec. (d)(3). Pub. L. 94–63, §601(b), inserted authorization of appropriation for fiscal year 1976.
 
 Subsec. (h)(1). Pub. L. 94–63, §601(a), inserted reference to diseases borne by rodents.
 
-1974—Subsec. (a). Pub. L. 93–354, §4(1)–(3), substituted “communicable and other disease control” for “communicable disease control”, “communicable and other diseases” for “communicable diseases”, and “communicable and other disease control program” for “communicable disease program”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–354, §4(1)–(3), substituted “communicable and other disease control” for “communicable disease control”, “communicable and other diseases” for “communicable diseases”, and “communicable and other disease control program” for “communicable disease program”.
 
 Subsec. (b)(2)(C). Pub. L. 93–354, §4(1), (4), substituted “communicable or other disease” for “communicable disease” in cl. (i) and “communicable and other disease control” for “communicable disease control” in cl. (ii).
 
@@ -188,11 +254,11 @@ Subsec. (h)(1). Pub. L. 93–354, §4(1), (5), substituted “communicable and o
 
 Subsec. (i). Pub. L. 93–354, §4(1), substituted “communicable and other disease control” for “communicable disease control”.
 
-1972—Subsec. (a). Pub. L. 92–449 substituted provision for grants by the Secretary in consultation with the State health authority to agencies and political subdivisions of States, for former provision for grants by the Secretary with the approval of the State health authority to political subdivisions or instrumentalities of States, incorporated existing provisions in provision designated as cl. (1), inserting “, in the area served by the applicant for the grant,”, substituted a cl. (2) reading “design of the applicant's communicable disease program to determine its effectiveness”, for former provision reading “levels of performance in preventing and controlling such diseases”, struck out appropriations authorization of $75,000,000 and $90,000,000 for fiscal years ending June 30, 1971, and 1972, now covered for subsequent years in subsec. (d), and struck out provision for use of grants to meet cost of studies to determine the control needs of communities and the means of best meeting such needs, now covered in subsec. (h)(1) of this section.
+<b>1972</b>—Subsec. (a). Pub. L. 92–449 substituted provision for grants by the Secretary in consultation with the State health authority to agencies and political subdivisions of States, for former provision for grants by the Secretary with the approval of the State health authority to political subdivisions or instrumentalities of States, incorporated existing provisions in provision designated as cl. (1), inserting “, in the area served by the applicant for the grant,”, substituted a cl. (2) reading “design of the applicant's communicable disease program to determine its effectiveness”, for former provision reading “levels of performance in preventing and controlling such diseases”, struck out appropriations authorization of $75,000,000 and $90,000,000 for fiscal years ending June 30, 1971, and 1972, now covered for subsequent years in subsec. (d), and struck out provision for use of grants to meet cost of studies to determine the control needs of communities and the means of best meeting such needs, now covered in subsec. (h)(1) of this section.
 
 Subsec. (b). Pub. L. 92–449 substituted provisions of par. (1) respecting applications for grants, submission, approval, form, and content of applications; par. (2) respecting application requirements; and par. (3) incorporating former subsec. (g) provisions respecting consent of individuals for former definitions provision now incorporated in subsec. (h) of this section.
 
-Subsec. (c). Pub. L. 92–449 designated existing provisions as par. (1) and among minor punctuation changes inserted “under grants” after “Payments”; and redesignated former subsec. (d) as par. (2), inserted “of the Government” after “officer or employee”, substituted “in detailing the personnel” for “personal services”, and struck out provision that reduced amount shall, for purposes of subsec. (c), be deemed to have been paid to the agency.
+Subsec. (c). Pub. L. 92–449 designated existing provisions as par. (1) and among minor punctuation changesinserted “under grants” after “Payments”; and redesignated former subsec. (d) as par. (2), inserted “of the Government” after “officer or employee”, substituted “in detailing the personnel” for “personal services”, and struck out provision that reduced amount shall, for purposes of subsec. (c), be deemed to have been paid to the agency.
 
 Subsec. (d). Pub. L. 92–449 substituted provisions respecting authorization of appropriations and limitation on use of funds for provisions respecting grant reduction.
 
@@ -206,7 +272,7 @@ Subsec. (h). Pub. L. 92–449 redesignated former subsec. (b) as (h), substitute
 
 Subsec. (i). Pub. L. 92–449 redesignated former subsec. (e) as (i), inserted reference to agency of a State, and substituted “under provisions of Federal law (other than this chapter)” for “under other provisions of this chapter or other Federal law”.
 
-1970—Subsec. (a). Pub. L. 91–464 authorized appropriation of $75,000,000 for fiscal year ending June 30, 1971, and $90,000,000 for fiscal year ending June 30, 1972, and made award of grants dependent upon extent of communicable disease and success of programs and permitted use of grants for meeting cost of programs and studies to control communicable diseases and struck out reference to purchase of vaccines and use of grants for salaries and expenses of personnel and to authority of the Surgeon General.
+<b>1970</b>—Subsec. (a). Pub. L. 91–464 authorized appropriation of $75,000,000 for fiscal year ending June 30, 1971, and $90,000,000 for fiscal year ending June 30, 1972, and made award of grants dependent upon extent of communicable disease and success of programs and permitted use of grants for meeting cost of programs and studies to control communicable diseases and struck out reference to purchase of vaccines and use of grants for salaries and expenses of personnel and to authority of the Surgeon General.
 
 Subsec. (b). Pub. L. 91–464 substituted definitions of “communicable disease control program” and “State” for definition of “immunization program”.
 
@@ -218,7 +284,7 @@ Subsec. (e). Pub. L. 91–464 struck out reference to title V of the Social Secu
 
 Subsecs. (f), (g). Pub. L. 91–464 added subsecs. (f) and (g).
 
-1965—Subsec. (a). Pub. L. 89–109, §2(a), (b), (d)(1), inserted “and each of the next three fiscal years”, substituted “any fiscal year ending prior to July 1, 1968” for “the fiscal years ending June 30, 1963, and June 30, 1964”, “tetanus, and measles” for “and tetanus”, “of preschool age” for “under the age of five years”, and “immunization” for “intensive community vaccination”, and permitted grants to be used to pay costs in connection with immunization of other infectious diseases.
+<b>1965</b>—Subsec. (a). Pub. L. 89–109, §2(a), (b), (d)(1), inserted “and each of the next three fiscal years”, substituted “any fiscal year ending prior to July 1, 1968” for “the fiscal years ending June 30, 1963, and June 30, 1964”, “tetanus, and measles” for “and tetanus”, “of preschool age” for “under the age of five years”, and “immunization” for “intensive community vaccination”, and permitted grants to be used to pay costs in connection with immunization of other infectious diseases.
 
 Subsec. (b). Pub. L. 89–109, §2(c), (d)(1), substituted “against the diseases referred to in subsection (a) of this section” for “against poliomyelitis, diphtheria, whooping cough, and tetanus”, “of preschool age” for “who are under the age of five years” and “immunization” for “intensive community vaccination” in two places.
 
@@ -238,11 +304,15 @@ Section 608 of title VI of Pub. L. 94–63 provided that: “Except as may other
 
 #### Effective Date of 1972 Amendment
 
-Section 102 of Pub. L. 92–449 provided that: “The amendment made by section 101 of this title \[amending this section\] shall apply to grants made under section 317 of the Public Health Service Act \[this section\] after June 30, 1972, except that subsection (d) of such section as amended by section 101 \[subsec. (d) of this section\] shall take effect on the date of enactment of this Act \[Sept. 30, 1972\].”
+Pub. L. 92–449, title I, §102, Sept. 30, 1972, 86 Stat. 750, provided that: “The amendment made by section 101 of this title \[amending this section\] shall apply to grants made under section 317 of the Public Health Service Act \[this section\] after June 30, 1972, except that subsection (d) of such section as amended by section 101 \[subsec. (d) of this section\] shall take effect on the date of enactment of this Act \[Sept. 30, 1972\].”
+
+#### Rule of Construction Regarding Access to Immunizations
+
+Pub. L. 111–148, title IV, §4204(d), Mar. 23, 2010, 124 Stat. 572, provided that: “Nothing in this section \[amending this section\] (including the amendments made by this section), or any other provision of this Act \[see Tables for classification\] (including any amendments made by this Act) shall be construed to decrease children's access to immunizations.”
 
 #### Assistance of Administrator of Veterans’ Affairs in Administration of National Swine Flu Immunization Program of 1976; Claims for Damages
 
-Pub. L. 94–420, §3, Sept. 23, 1976, 90 Stat. 1301, provided that, in order to assist Secretary of Health, Education, and Welfare in carrying out National Swine Flu Immunization Program of 1976 pursuant to 42 U.S.C. 247b(j), as added by Pub. L. 94–380, Administrator of Veterans’ Affairs, in accordance with 42 U.S.C. 2476(j), could authorize administration of vaccine, procured under such program and provided by Secretary at no cost to Veterans’ Administration, to eligible veterans (voluntarily requesting such vaccine) in connection with provision of care for a disability under chapter 17 of title 38, in any health care facility under jurisdiction of Administrator, and provided for consideration and processing of claims and suits for damages for personal injury or death, in connection with administration of vaccine.
+Pub. L. 94–420, §3, Sept. 23, 1976, 90 Stat. 1301, provided that, in order to assist Secretary of Health, Education, and Welfare in carrying out National Swine Flu Immunization Program of 1976 pursuant to 42 U.S.C. 247b(j), as added by Pub. L. 94–380, Administrator of Veterans’Affairs, in accordance with 42 U.S.C. 247b(j), could authorize administration of vaccine, procured under such program and provided by Secretary at no cost to Veterans’ Administration, to eligible veterans (voluntarily requesting such vaccine) in connection with provision of care for a disability under chapter 17 of title 38, in any health care facility under jurisdiction of Administrator, and provided for consideration and processing of claims and suits for damages for personal injury or death, in connection with administration of vaccine.
 
 #### Study by Secretary of Scope and Extent of Liability Arising Out of Immunization Program; Alternative Protective Approaches; Report to Congress
 

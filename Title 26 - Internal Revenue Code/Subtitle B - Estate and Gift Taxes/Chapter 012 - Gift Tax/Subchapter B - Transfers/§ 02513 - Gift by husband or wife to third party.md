@@ -36,11 +36,11 @@ Revocation of a consent previously signified shall be made in such manner as in 
 
 If the consent required by subsection (a)(2) is signified with respect to a gift made in any calendar year, the liability with respect to the entire tax imposed by this chapter of each spouse for such year shall be joint and several.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 406; Pub. L. 91–614, title I, §102(b)(2), Dec. 31, 1970, 84 Stat. 1840; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title IV, §442(b)(2), Aug. 13, 1981, 95 Stat. 322.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 406; Pub. L. 91–614, title I, §102(b)(2), Dec. 31, 1970, 84 Stat.1840; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title IV, §442(b)(2), Aug. 13, 1981, 95 Stat. 322.)
 
 #### Amendments
 
-1981—Subsec. (a)(1), (2). Pub. L. 97–34, §442(b)(2)(A), substituted “calendar year” for “calendar quarter”.
+<b>1981</b>—Subsec. (a)(1), (2). Pub. L. 97–34, §442(b)(2)(A), substituted “calendar year” for “calendar quarter”.
 
 Subsec. (b)(2). Pub. L. 97–34, §442(b)(2)(B)–(D), in introductory text, substituted “calendar year” for “calendar quarter”, in subpar. (A), substituted “The consent” for “the consent”, “15th day of April following the close of such year” for “15th day of the second month following the close of such calendar quarter”, and “such year” for “such calendar quarter” in two other places, and in subpar. (B) substituted “The consent” and “such year” for “the consent” and “such calendar quarter”.
 
@@ -48,9 +48,9 @@ Subsec. (c). Pub. L. 97–34, §442(b)(2)(E), in provision preceding par. (1) su
 
 Subsec. (d). Pub. L. 97–34, §442(b)(2)(F), substituted “any calendar year” and “such year” for “any calendar quarter” and “such calendar quarter”.
 
-1976—Subsecs. (b)(1), (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (b)(1), (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1970—Subsecs. (a), (b)(2). Pub. L. 91–614, §102(b)(2)(A), substituted “calendar quarter” for “calendar year”.
+<b>1970</b>—Subsecs. (a), (b)(2). Pub. L. 91–614, §102(b)(2)(A), substituted “calendar quarter” for “calendar year”.
 
 Subsec. (b)(2)(A). Pub. L. 91–614, §102(b)(2)(B), substituted “the 15th day of the second month” for “the 15th day of April” and substituted “such calendar quarter” for “such year”.
 
@@ -68,5 +68,5 @@ Amendment by Pub. L. 97–34 applicable with respect to gifts made after Dec. 31
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) ofPub. L. 91–614, set out as a note under section 2501 of this title.
+Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title.
 

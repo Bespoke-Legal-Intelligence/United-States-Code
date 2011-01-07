@@ -6,5 +6,5 @@ The annual reports to the Congress under section 262a of this title, shall be su
 
 #### Amendments
 
-1998—Pub. L. 105–362 struck out subsec. (a) designation and struck out subsec. (b) which related to President's semiannual reports to Congress concerning voluntary contributions by United States Government to international organizations.
+<b>1998</b>—Pub. L. 105–362 struck out subsec. (a) designation and struck out subsec. (b) which related to President's semiannual reports to Congress concerning voluntary contributions by United States Government to international organizations.
 

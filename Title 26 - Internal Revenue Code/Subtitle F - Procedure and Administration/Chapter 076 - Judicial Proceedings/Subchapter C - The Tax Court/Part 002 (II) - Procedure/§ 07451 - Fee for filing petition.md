@@ -6,15 +6,15 @@ The tax court is authorized to impose a fee in an amount not in excess of $60 to
 
 #### Amendments
 
-2006—Pub. L. 109–280 struck out “for the redetermination of a deficiency or for a declaratory judgment under part IV of this subchapter or under section 7428 or for judicial review under section 6226 or section 6228(a)” after “petition”.
+<b>2006</b>—Pub. L. 109–280 struck out “for the redetermination of a deficiency or for a declaratory judgment under part IV of this subchapter or under section 7428 or for judicial review under section 6226 or section 6228(a)” after “petition”.
 
-1982—Pub. L. 97–248 inserted provision relating to judicial review under section 6226 or section 6228(a).
+<b>1982</b>—Pub. L. 97–248 inserted provision relating to judicial review under section 6226 or section 6228(a).
 
-1981—Pub. L. 97–34 increased limitation on amount of fee to $60 from $10.
+<b>1981</b>—Pub. L. 97–34 increased limitation on amount of fee to $60 from $10.
 
-1976—Pub. L. 94–455 inserted “or under section 7428” after “part IV of this subchapter”.
+<b>1976</b>—Pub. L. 94–455 inserted “or under section 7428” after “part IV of this subchapter”.
 
-1974—Pub. L. 93–406 inserted reference to a declaratory judgment under part IV of this subchapter.
+<b>1974</b>—Pub. L. 93–406 inserted reference to a declaratory judgment under part IV of this subchapter.
 
 #### Effective Date of 2006 Amendment
 

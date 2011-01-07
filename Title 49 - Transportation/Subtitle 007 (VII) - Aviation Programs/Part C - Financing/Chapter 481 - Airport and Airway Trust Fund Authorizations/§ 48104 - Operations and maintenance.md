@@ -64,11 +64,11 @@ This makes a clarifying amendment to the catchline for 49:48104(b).
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–181, §106(d)(1), struck out “Except as provided in this section,” before “the balance of the money” in introductory provisions.
+<b>2000</b>—Subsec. (a). Pub. L. 106–181, §106(d)(1), struck out “Except as provided in this section,” before “the balance of the money” in introductory provisions.
 
 Subsecs. (b), (c). Pub. L. 106–181, §106(d)(2), struck out heading and text of subsecs. (b) and (c), which set out funding limitations for fiscal year 1993 and fiscal years 1994 to 1998, respectively.
 
-1996—Pub. L. 104–264, §103(d)(1), substituted “Operations and maintenance” for “Certain direct costs and joint air navigation services” in section catchline.
+<b>1996</b>—Pub. L. 104–264, §103(d)(1), substituted “Operations and maintenance” for “Certain direct costs and joint air navigation services” in section catchline.
 
 Subsec. (b). Pub. L. 104–287 substituted “
 
@@ -80,7 +80,7 @@ Subsec. (c). Pub. L. 104–264, §103(b)(1), (2), substituted “1998” for “
 
 Subsec. (c)(2)(A). Pub. L. 104–264, §103(b)(3), substituted “72.5 percent” for “70 percent”.
 
-1994—Subsec. (b). Pub. L. 103–305, §102(b)(1), (2), inserted “
+<b>1994</b>—Subsec. (b). Pub. L. 103–305, §102(b)(1), (2), inserted “
 
 for Fiscal Years 1993” in heading and substituted “fiscal year 1993” for “each of the fiscal years ending September 30, 1993–1995,” in introductory provisions.
 

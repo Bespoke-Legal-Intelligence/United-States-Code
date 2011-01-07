@@ -38,37 +38,37 @@ The date of the enactment of this paragraph, referred to in subsec. (c)(2)(B), i
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–357, §411(a)(3)(B), substituted “the reference in section 1441(c)(10)” for “and the reference in section 1441(c)(10)” and inserted before period at end “, and the references in section 1441(c)(12) to sections 871(a) and 871(k) shall be treated as referring to sections 881(a) and 881(e) (except that for purposes of applying subparagraph (A) of section 1441(c)(12), as so modified, clause (ii) of section 881(e)(1)(B) shall not apply to any dividend unless the regulated investment company knows that such dividend is a dividend referred to in such clause)”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–357, §411(a)(3)(B), substituted “the reference in section 1441(c)(10)” for “and the reference in section 1441(c)(10)” and inserted before period at end “, and the references in section 1441(c)(12) to sections 871(a) and 871(k) shall be treated as referring to sections 881(a) and 881(e) (except that for purposes of applying subparagraph (A) of section 1441(c)(12), as so modified, clause (ii) of section 881(e)(1)(B) shall not apply to any dividend unless the regulated investment company knows that such dividend is a dividend referred to in such clause)”.
 
 Subsec. (c). Pub. L. 108–357, §420(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-1993—Subsec. (a). Pub. L. 103–66 substituted “871(h)(3) or (4)” for “871(h)(3)” and “881(c)(3) or (4)” for “881(c)(3)”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–66 substituted “871(h)(3) or (4)” for “871(h)(3)” and “881(c)(3) or (4)” for “881(c)(3)”.
 
-1988—Subsec. (a). Pub. L. 100–647 struck out “and” after “to section 881(a)(3),” and inserted before period at end “, and the reference in section 1441(c)(10) to section 871(i)(2) shall be treated as referring to section 881(d)”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647 struck out “and” after “to section 881(a)(3),” and inserted before period at end “, and the reference in section 1441(c)(10) to section 871(i)(2) shall be treated as referring to section 881(d)”.
 
-1986—Subsec. (a). Pub. L. 99–514, §1810(d)(3)(E), substituted “871(h)” for “871(h)(2)”, “881(c)” for “881(c)(2)”, and “1441(c)(9)” for “1449(c)(9)”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1810(d)(3)(E), substituted “871(h)” for “871(h)(2)”, “881(c)” for “881(c)(2)”, and “1441(c)(9)” for “1449(c)(9)”.
 
 Subsec. (c). Pub. L. 99–514, §1273(b)(2)(B), amended subsec. (c) generally, substituting reference to “certain possessions corporations” for reference to “certain Guam and Virgin Islands corporations” in heading, and in text extending “foreign corporation” exception so as to not include corporation created or organized in Guam, American Samoa, Northern Mariana Islands, or the Virgin Islands, and striking out par. (2) which declared that par. (1) not apply to tax imposed in Guam, and par. (3) which referred to sections 934 and 943a for tax imposed in Virgin Islands.
 
-1984—Subsec. (a). Pub. L. 98–369, §474(r)(29)(I), struck out “or section 1451” after “provided in section 1441” and struck out “; except that, in the case of interest described in section 1451 (relating to tax-free covenant bonds), the deduction and withholding shall be at the rate specified therein” after “a tax equal to 30 percent thereof”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §474(r)(29)(I), struck out “or section 1451” after “provided in section 1441” and struck out “; except that, in the case of interest described in section 1451 (relating to tax-free covenant bonds), the deduction and withholding shall be at the rate specified therein” after “a tax equal to 30 percent thereof”.
 
-Pub. L. 98–369, §127(e)(2), struck out “and” after “section 881(a)(4),” and inserted “, and the references in section 1449(c)(9) to sections 871(h)(2) and 871(h)(3) shallbe treated as referring to sections 881(c)(2) and 881(c)(3)”.
+Pub. L. 98–369, §127(e)(2), struck out “and” after “section 881(a)(4),” and inserted “, and the references in section 1449(c)(9) to sections 871(h)(2) and 871(h)(3) shall be treated as referring to sections 881(c)(2) and 881(c)(3)”.
 
 Subsec. (c). Pub. L. 98–369, §130(b), substituted provision relating to exception for certain Guam and Virgin Islands corporations for provision relating to exception for Guam corporations.
 
-1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” in two places.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” in two places.
 
-1972—Subsec. (c). Pub. L. 92–606 added subsec. (c).
+<b>1972</b>—Subsec. (c). Pub. L. 92–606 added subsec. (c).
 
-1971—Subsec. (a). Pub. L. 92–178 provided that reference in section 1441(c)(8) to section 871(a)(1)(C) shall be treated as referring to section 881(a)(3).
+<b>1971</b>—Subsec. (a). Pub. L. 92–178 provided that reference in section 1441(c)(8) to section 871(a)(1)(C) shall be treated as referring to section 881(a)(3).
 
-1966—Pub. L. 89–809 limited the withholding of tax at the 30 percent rate to items of fixed or determinable United States source income not effectively connected with the conduct of a trade or business in the United States and authorized the granting of an exemption from the withholding requirement in the case of a foreign corporation engaged in trade or business within the United States if the Secretary or his delegate determines that the withholding imposes an undue administrative burden and that the collection of the tax will not be jeopardized by the exemption.
+<b>1966</b>—Pub. L. 89–809 limited the withholding of tax at the 30 percent rate to items of fixed or determinable United States source income not effectively connected with the conduct of a trade or business in the United States and authorized the granting of an exemption from the withholding requirement in the case of a foreign corporation engaged in trade or business within the United States if the Secretary or his delegate determines that the withholding imposes an undue administrative burden and that the collection of the tax will not be jeopardized by the exemption.
 
 #### Effective Date of 2004 Amendment
 
 Amendment by section 411(a)(3)(B) of Pub. L. 108–357 applicable to dividends with respect to taxable years of regulated investment companies beginning after Dec. 31, 2004, see section 411(d)(1) of Pub. L. 108–357, set out as a note under section 871 of this title.
 
-Amendment by section 420(b) of Pub. L. 108–357 applicable to dividends paid after Oct. 22, 2004, see section 420(d) of Pub. L. 108–357, set out as a note under section 881 of this title.
+Amendment by section 420(b) of Pub. L. 108–357 applicable to dividends paid after Oct. 22, 2004, see section420(d) of Pub. L. 108–357, set out as a note under section 881 of this title.
 
 #### Effective Date of 1993 Amendment
 

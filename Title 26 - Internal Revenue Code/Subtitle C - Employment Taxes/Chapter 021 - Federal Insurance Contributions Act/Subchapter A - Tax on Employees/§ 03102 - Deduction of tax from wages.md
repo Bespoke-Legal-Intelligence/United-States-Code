@@ -2,7 +2,7 @@
 
 #### (a) Requirement
 
-The tax imposed by section 3101 shall be collected by the employer of the taxpayer, by deducting the amount of the tax from the wages as and when paid. An employer who in any calendar year pays to an employee cash remuneration to which paragraph (7)(B) of section 3121(a) is applicable may deduct an amount equivalent to such tax from any such payment of remuneration, even though at the time of payment the total amount of such remuneration paid to the employee by the employer in the calendar year is less than the applicable dollar threshold (as defined in section 3121(x)) for such year; and an employer who in any calendar year pays to an employee cash remuneration to which paragraph (7)(C) or (10) of section 3121(a) is applicable may deduct an amount equivalent to such tax from any such payment of remuneration, even though at the time of payment the total amount of such remuneration paid to the employee by the employer in the calendar year is less than $100; and an employer who in any calendar year pays to an employee cash remuneration to which paragraph (8)(B) of section 3121(a) is applicable may deduct an amount equivalent to such tax from any such payment of remuneration, even though at the time of payment the total amount of such remuneration paid to the employee by the employer in the calendar year is less than $150; and an employer who is furnished by an employee a written statement of tips (received in a calendar month) pursuant to section 6053(a) to which paragraph (12)(B) of section 3121(a) is applicable may deduct an amount equivalent to such tax with respect to such tips from any wages of the employee (exclusive of tips) under his control, even though at the time such statement is furnished the total amount of the tips included in statements furnished to the employer as having been received by the employee in such calendar month in the course of his employment by such employer is less than $20.
+The tax imposed by section 3101 shall be collected by the employer of the taxpayer, by deducting the amount of the tax from the wages as and when paid. An employer who in any calendar year pays to an employee cash remuneration to which paragraph (7)(B) of section 3121(a) is applicable may deduct an amount equivalent to such tax from any such payment of remuneration, even though at the time of payment the total amount of such remuneration paid to the employee by the employer in the calendar year is less than the applicable dollar threshold (as defined in section 3121(x)) for such year; and an employer who in any calendar year pays to an employee cash remuneration to which paragraph (7)(C) or (10) of section 3121(a) is applicable maydeduct an amount equivalent to such tax from any such payment of remuneration, even though at the time of payment the total amount of such remuneration paid to the employee by the employer in the calendar year is less than $100; and an employer who in any calendar year pays to an employee cash remuneration to which paragraph (8)(B) of section 3121(a) is applicable may deduct an amount equivalent to such tax from any such payment of remuneration, even though at the time of payment the total amount of such remuneration paid to the employee by the employer in the calendar year is less than $150; and an employer who is furnished by an employee a written statement of tips (received in a calendar month) pursuant to section 6053(a) to which paragraph (12)(B) of section 3121(a) is applicable may deduct an amount equivalent to such tax with respect to such tips from any wages of the employee (exclusive of tips) under his control, even though at the time such statement is furnished the total amount of the tips included in statements furnished to the employer as having been received by the employee in such calendar month in the course of his employment by such employer is less than $20.
 
 #### (b) Indemnification of employer
 
@@ -62,19 +62,37 @@ In the case of any payments of wages for service performed in the employ of an i
 
 &emsp;(3) the tax imposed by section 3101 on such payments shall be paid by the employee.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 415; Sept. 1, 1954, ch. 1206, title II, §205A, 68 Stat. 1093; Aug. 1, 1956, ch. 836, title II, §201(h)(3), 70 Stat. 841; Pub. L. 89–97, title III, §313(c)(1), (2), July 30, 1965, 79 Stat. 382, 383; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–216, title III, §355(a), (b), Dec. 20, 1977, 91 Stat. 1555; Pub. L. 101–508, title V, §5124(a), Nov. 5, 1990, 104 Stat. 1388–284; Pub. L. 103–296, title III, §319(a)(3), Aug. 15, 1994, 108 Stat. 1534; Pub. L. 103–387, §2(a)(1)(D), Oct. 22, 1994, 108 Stat. 4072; Pub. L. 108–203, title IV, §424(b), Mar. 2, 2004, 118 Stat. 536.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 415; Sept. 1, 1954, ch. 1206, title II, §205A, 68 Stat. 1093; Aug. 1, 1956, ch. 836, title II, §201(h)(3), 70 Stat. 841; Pub. L. 89–97, title III, §313(c)(1), (2), July 30, 1965, 79 Stat. 382, 383; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–216, title III, §355(a), (b), Dec. 20, 1977, 91 Stat. 1555; Pub. L. 101–508, title V, §5124(a), Nov. 5, 1990, 104 Stat. 1388–284; Pub. L. 103–296, title III,§319(a)(3), Aug. 15, 1994, 108 Stat. 1534; Pub. L. 103–387, §2(a)(1)(D), Oct. 22, 1994, 108 Stat. 4072; Pub. L. 108–203, title IV, §424(b), Mar. 2, 2004, 118 Stat. 536; Pub. L. 111–148, title IX, §9015(a)(2), Mar. 23, 2010, 124 Stat. 871.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–148, title IX, §9015(a)(2), (c), Mar. 23, 2010, 124 Stat. 871, 872, provided that, applicable with respect to remuneration received, and taxable years beginning, after Dec. 31, 2012, this section is amended by adding at the end the following new subsection:</i>
+
+#### <i>(f) Special rules for additional tax</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>In the case of any tax imposed by section 3101(b)(2), subsection (a) shall only apply to the extent to which the taxpayer receives wages from the employer in excess of $200,000, and the employer may disregard the amount of wages received by such taxpayer's spouse.</i>
+
+#### <i>(2) Collection of amounts not withheld</i>
+
+&emsp;<i>To the extent that the amount of any tax imposed by section 3101(b)(2) is not collected by the employer, such tax shall be paid by the employee.</i>
+
+#### <i>(3) Tax paid by recipient</i>
+
+&emsp;<i>If an employer, in violation of this chapter, fails to deduct and withhold the tax imposed by section 3101(b)(2) and thereafter the tax is paid by the employee, the tax so required to be deducted and withheld shall not be collected from the employer, but this paragraph shall in no case relieve the employer from liability for any penalties or additions to tax otherwise applicable in respect of such failure to deduct and withhold.</i>
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–203 struck out “and the employee has not performed agricultural labor for the employer on 20 days or more in the calendar year for cash remuneration computed on a time basis” after “less than $150”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–203 struck out “and the employee has not performed agricultural labor for the employer on 20 days or more in the calendar year for cash remuneration computed on a time basis” after “less than $150”.
 
-1994—Subsec. (a). Pub. L. 103–387 in second sentence substituted “An employer who in any calendar year” for “An employer who in any calendar quarter” and “remuneration paid to the employee by the employer in the calendar year is less than the applicable dollar threshold (as defined in section 3121(x)) for such year” for “remuneration paid to the employee by the employer in the calendar quarter is less than $50”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–387 in second sentence substituted “An employer who in any calendar year” for “An employer who in any calendar quarter” and “remuneration paid to the employee by the employer in the calendar year is less than the applicable dollar threshold (as defined in section 3121(x)) for such year” for “remuneration paid to the employee by the employer in the calendar quarter is less than $50”.
 
 Subsec. (e). Pub. L. 103–296 added subsec. (e).
 
-1990—Subsec. (d). Pub. L. 101–508 added subsec. (d).
+<b>1990</b>—Subsec. (d). Pub. L. 101–508 added subsec. (d).
 
-1977—Subsec. (a). Pub. L. 95–216, §355(a), substituted “cash remuneration to which paragraph (7)(B) of section 3121(a) is applicable” for “cash remuneration to which paragraph (7)(B) or (C) or (10) of section 3121(a) is applicable” and inserted “and an employer who in any calendar year pays to an employee cash remuneration to which paragraph (7)(C) or (10) of section 3121(a) is applicable may deduct an amount equivalent to such tax from any such payment of remuneration, even though at the time of payment the total amount of such remuneration paid to the employee by the employer in the calendar year is less than $100;”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–216, §355(a), substituted “cash remuneration to which paragraph (7)(B) of section 3121(a) is applicable” for “cash remuneration to which paragraph (7)(B) or (C) or (10) of section 3121(a) is applicable” and inserted “and an employer who in any calendar year pays to an employee cash remuneration to which paragraph (7)(C) or (10) of section 3121(a) is applicable may deduct an amount equivalent to such tax from any such payment of remuneration, even though at the time of payment the total amount of such remuneration paid to the employee by the employer in the calendar year is less than $100;”.
 
 Subsec. (c)(1), (2). Pub. L. 95–216, §355(b)(1), substituted “year” for “quarter” wherever appearing.
 
@@ -82,15 +100,19 @@ Subsec. (c)(3)(A). Pub. L. 95–216, §355(b)(2)(A), substituted “in any calen
 
 Subsec. (c)(3)(B), (C). Pub. L. 95–216, §355(b)(2)(B), substituted “year” for “quarter” wherever appearing.
 
-1976—Subsec. (c)(3). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (c)(3). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1965—Subsec. (a). Pub. L. 89–97, §313(c)(2), inserted provisions at end of second sentence allowing a deduction from any wages of an employee of an amount equivalent to the tax on tips when an employer is furnished with a written statement of tips received by an employee.
+<b>1965</b>—Subsec. (a). Pub. L. 89–97, §313(c)(2), inserted provisions at end of second sentence allowing a deduction from any wages of an employee of an amount equivalent to the tax on tips when an employer is furnished with a written statement of tips received by an employee.
 
 Subsec. (c). Pub. L. 89–97, §313(c)(1), added subsec. (c).
 
-1956—Subsec. (a). Act Aug. 1, 1956, substituted “$150 and the employee has not performed agricultural labor for the employer on 20 days or more in the calendar year for cash remuneration computed on a time basis” for “$100”.
+<b>1956</b>—Subsec. (a). Act Aug. 1, 1956, substituted “$150 and the employee has not performed agricultural labor for the employer on 20 days or more in the calendar year for cash remuneration computed on a time basis” for “$100”.
 
-1954—Subsec. (a). Act Sept. 1, 1954, inserted last sentence permitting in certain instances an employer to deduct employee tax even though payment to employee is less than $50 for calendar quarter or $100 for calendar year.
+<b>1954</b>—Subsec. (a). Act Sept. 1, 1954, inserted last sentence permitting in certain instances an employer to deduct employee tax even though payment to employee is less than $50 for calendar quarter or $100 for calendar year.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–148 applicable with respect to remuneration received, and taxable years beginning, after Dec. 31, 2012, see section 9015(c) of Pub. L. 111–148, set out as a note under section 164 of this title.
 
 #### Effective Date of 1994 Amendments
 

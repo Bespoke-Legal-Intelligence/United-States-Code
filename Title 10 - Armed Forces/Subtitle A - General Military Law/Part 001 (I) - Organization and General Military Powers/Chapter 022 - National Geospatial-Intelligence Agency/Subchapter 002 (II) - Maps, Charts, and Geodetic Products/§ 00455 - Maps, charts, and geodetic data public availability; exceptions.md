@@ -20,21 +20,21 @@
 
 &emsp;(B) in the case of qualified United States contractors (including contractors that are small business concerns) who need such products for use in the performance of contracts with the United States.
 
-(Added Pub. L. 102–88, title V, §502(a)(1), Aug. 14, 1991, 105 Stat. 435, §2796; amended Pub. L. 103–359, title V, §502, Oct. 14, 1994, 108 Stat. 3430; renumbered §455 and amended Pub. L. 104–201, div. A, title XI, §1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 105–85, div. A, title IX, §933(a), (b)(1), Nov. 18, 1997, 111 Stat. 1866; Pub. L. 106–398, §1 \[\[div. A\], title X, §1074\], Oct. 30, 2000,114 Stat. 1654, 1654A–280; Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568.)
+(Added Pub. L. 102–88, title V, §502(a)(1), Aug. 14, 1991, 105 Stat. 435, §2796; amended Pub. L.103–359, title V, §502, Oct. 14, 1994, 108 Stat. 3430; renumbered §455 and amended Pub. L. 104–201, div. A, title XI, §1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 105–85, div. A, title IX, §933(a), (b)(1), Nov. 18, 1997, 111 Stat. 1866; Pub. L. 106–398, §1 \[\[div. A\], title X, §1074\], Oct. 30, 2000, 114 Stat. 1654, 1654A–280; Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568.)
 
 #### Amendments
 
-2003—Subsecs. (a), (b)(1)(C). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2003</b>—Subsecs. (a), (b)(1)(C). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-2000—Subsec. (b)(1)(C). Pub. L. 106–398 substituted “, reveal military operational or contingency plans, or reveal, jeopardize, or compromise military or intelligence capabilities” for “or reveal military operational or contingency plans”.
+<b>2000</b>—Subsec. (b)(1)(C). Pub. L. 106–398 substituted “, reveal military operational or contingency plans, or reveal, jeopardize, or compromise military or intelligence capabilities” for “or reveal military operational or contingency plans”.
 
-1997—Subsec. (b)(1)(B). Pub. L. 105–85, §933(a), inserted “, or capabilities,” after “methods”.
+<b>1997</b>—Subsec. (b)(1)(B). Pub. L. 105–85, §933(a), inserted “, or capabilities,” after “methods”.
 
 Subsec. (b)(2). Pub. L. 105–85, §933(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In this subsection, the term ‘geodetic product’ means any map, chart, geodetic data, or related product.”
 
-1996—Pub. L. 104–201 renumbered section 2796 of this title as this section and substituted “National Imagery and Mapping Agency” for “Defense Mapping Agency” in subsecs. (a) and (b)(1)(C).
+<b>1996</b>—Pub. L. 104–201 renumbered section 2796 of this title as this section and substituted “National Imagery and Mapping Agency” for “Defense Mapping Agency” in subsecs. (a) and (b)(1)(C).
 
-1994—Subsec. (b)(1)(C). Pub. L. 103–359 inserted “jeopardize or interfere with ongoing military or intelligence operations or” after “disclosed,”.
+<b>1994</b>—Subsec. (b)(1)(C). Pub. L. 103–359 inserted “jeopardize or interfere with ongoing military or intelligence operations or” after “disclosed,”.
 
 #### Effective Date of 1996 Amendment
 

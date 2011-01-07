@@ -16,5 +16,5 @@ All mining and mineral activities and commercial water power development within 
 
 #### Amendments
 
-1983—Subsec. (b). Pub. L. 97–405 inserted provision directing the President to advise the Senate and House of Representatives no later than June 1, 1983, of his recommendation with respect to the suitability or nonsuitability as wilderness of any area within the park.
+<b>1983</b>—Subsec. (b). Pub. L. 97–405 inserted provision directing the President to advise the Senate and House of Representatives no later than June 1, 1983, of his recommendation with respect to the suitability or nonsuitability as wilderness of any area within the park.
 

@@ -24,7 +24,7 @@ A prior section 31h, Pub. L. 102–285, §9, May 18, 1992, 106 Stat. 171; Pub. L
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–11, §11001(i)(1), added subsec. (a) and struck out former subsec. (a) which appropriated funds to carry out sections 31a to 31h of this title for fiscal years 1999 to 2005.
+<b>2009</b>—Subsec. (a). Pub. L. 111–11, §11001(i)(1), added subsec. (a) and struck out former subsec. (a) which appropriated funds to carry out sections 31a to 31h of this title for fiscal years 1999 to 2005.
 
 Subsec. (b). Pub. L. 111–11, §11001(i)(2)(A), substituted “2005” for “2000” in introductory provisions.
 

@@ -28,7 +28,7 @@ Exemptions.—On application of a manufacturer, the Secretary shall exempt the m
 
 (e)
 
-Hearings About Meeting Notification Requirements.—On the motion of the Secretary or on petition of any interested person, the Secretary may conduct a hearing to decide whether the manufacturer has reasonably met the notification requirements under this section. Any interested person may make written and oral presentations of information, views, and argumentson whether the manufacturer has reasonably met the notification requirements. If the Secretary decides that the manufacturer has not reasonably met the notification requirements, the Secretary shall order the manufacturer to take specified action to meet those requirements and may take any other action authorized under this chapter.
+Hearings About Meeting Notification Requirements.—On the motion of the Secretary or on petition of any interested person, the Secretary may conduct a hearing to decide whether the manufacturer has reasonably met the notification requirements under this section. Any interested person may make written and oral presentations of information, views, and arguments on whether the manufacturer has reasonably met the notification requirements. If the Secretary decides that the manufacturer has not reasonably met the notification requirements, the Secretary shall order the manufacturer to take specified action to meet those requirements and may take any other action authorized under this chapter.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 950; Pub. L. 106–346, §101(a) \[title III, §364\], Oct. 23, 2000, 114 Stat. 1356, 1356A–37; Pub. L. 106–414, §2, Nov. 1, 2000, 114 Stat. 1800.)
 
@@ -108,7 +108,7 @@ In subsection (e), the words “(including a manufacturer)” are omitted as sur
 
 #### Amendments
 
-2000—Pub. L. 106–346, §101(a) \[title III, §364\], which directed amendment of this section in subsecs. (a), (b)(1), and (c), by inserting “, original equipment,” before “or replacement equipment” wherever appearing, and in subsec. (c), by redesignating pars. (1) and (2) as subpars. (A) and (B), respectively, and realigning margins, by substituting “(1)
+<b>2000</b>—Pub. L. 106–346, §101(a) \[title III, §364\], which directed amendment of this section in subsecs. (a), (b)(1), and (c), by inserting “, original equipment,” before “or replacement equipment” wherever appearing, and in subsec. (c), by redesignating pars. (1) and (2) as subpars. (A) and (B), respectively, and realigning margins, by substituting “(1)
 
 In general.—A manufacturer” for “A manufacturer”, and by adding a new par (2) relating to duty of manufacturers, was repealed by Pub. L. 106–414, §2. See Construction of 2000 Amendment note below.
 

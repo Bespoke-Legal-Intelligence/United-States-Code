@@ -10,7 +10,7 @@ Definitions.—In this section—
 
 (b)
 
-Preference.—Subject to subsections (c) and (d) of this section, the Administrator of the Federal Aviation Administration may make, with a domestic firm, a contract related to a grant made under section 44511, 44512, or 44513 ofthis title that, under competitive procedures, would be made with a foreign firm, if—
+Preference.—Subject to subsections (c) and (d) of this section, the Administrator of the Federal Aviation Administration may make, with a domestic firm, a contract related to a grant made under section 44511, 44512, or 44513 of this title that, under competitive procedures, would be made with a foreign firm, if—
 
 &emsp;(1) the Administrator decides, and the Secretary of Commerce and the United States Trade Representative concur, that the public interest requires making the contract with the domestic firm, considering United States international obligations and trade relations;
 
@@ -92,7 +92,7 @@ Subsection (e)(3) is substituted for “the number of contracts covered under th
 
 #### Amendments
 
-1999—Subsecs. (c)(2), (e)(2). Pub. L. 106–36 substituted “multilateral trade agreements (as defined in section 3501(4) of title 19)” for “General Agreement on Tariffs and Trade”.
+<b>1999</b>—Subsecs. (c)(2), (e)(2). Pub. L. 106–36 substituted “multilateral trade agreements (as defined in section 3501(4) of title 19)” for “General Agreement on Tariffs and Trade”.
 
-1996—Pub. L. 104–287 renumbered section 49103 of this title as this section.
+<b>1996</b>—Pub. L. 104–287 renumbered section 49103 of this title as this section.
 

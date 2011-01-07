@@ -250,7 +250,7 @@ Section 3 of the Alternative Motor Fuels Act of 1988, referred to in subsec. (c)
 
 #### Amendments
 
-2007—Subsec. (a)(3). Pub. L. 110–140, §103(a)(1), added par. (3) and struck out former par. (3) which read as follows: “except as provided in section 32908 of this title, ‘automobile’ means a 4-wheeled vehicle that is propelled by fuel, or by alternative fuel, manufactured primarily for use on public streets, roads, and highways (except a vehicle operated only on a rail line), and rated at—
+<b>2007</b>—Subsec. (a)(3). Pub. L. 110–140, §103(a)(1), added par. (3) and struck out former par. (3) which read as follows: “except as provided in section 32908 of this title, ‘automobile’ means a 4-wheeled vehicle that is propelled by fuel, or by alternative fuel, manufactured primarily for use on public streets, roads, and highways (except a vehicle operated only on a rail line), and rated at—
 
 &emsp;“(A) not more than 6,000 pounds gross vehicle weight; or
 

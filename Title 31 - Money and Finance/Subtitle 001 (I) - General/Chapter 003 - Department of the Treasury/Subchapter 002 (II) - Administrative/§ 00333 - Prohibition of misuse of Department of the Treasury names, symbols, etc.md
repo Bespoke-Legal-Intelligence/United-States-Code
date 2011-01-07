@@ -60,7 +60,7 @@ In general.—If any person knowingly violates subsection (a), such person shall
 
 &emsp;(2)
 
-Time limitations.—No person may be prosecuted, tried, or punished under paragraph\(1) for any violation of subsection (a) unless the indictment is found or the information instituted during the 3-year period beginning on the date of the violation.
+Time limitations.—No person may be prosecuted, tried, or punished under paragraph (1) for any violation of subsection (a) unless the indictment is found or the information instituted during the 3-year period beginning on the date of the violation.
 
 &emsp;(3)
 

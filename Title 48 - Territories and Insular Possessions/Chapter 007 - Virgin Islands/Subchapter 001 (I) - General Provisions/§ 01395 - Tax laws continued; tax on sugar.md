@@ -6,15 +6,13 @@ Until Congress shall otherwise provide all laws now imposing taxes in the said W
 
 #### References in Text
 
-The customs laws, referred to in text, are classified generally to Title 19, Customs Duties.
-
 Section 1391 of this title, referred to in text, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 643.
 
 #### Amendments
 
-1932—Act June 24, 1932, inserted provisos permitting local levy of internal revenue taxes, prohibiting discrimination against imports, and directing customs and postal services to assist in collecting taxes.
+<b>1932</b>—Act June 24, 1932, inserted provisos permitting local levy of internal revenue taxes, prohibiting discrimination against imports, and directing customs and postal services to assist in collecting taxes.
 
-1927—Act Feb. 25, 1927, reduced export duty on sugar from $8 to $6 per ton.
+<b>1927</b>—Act Feb. 25, 1927, reduced export duty on sugar from $8 to $6 per ton.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

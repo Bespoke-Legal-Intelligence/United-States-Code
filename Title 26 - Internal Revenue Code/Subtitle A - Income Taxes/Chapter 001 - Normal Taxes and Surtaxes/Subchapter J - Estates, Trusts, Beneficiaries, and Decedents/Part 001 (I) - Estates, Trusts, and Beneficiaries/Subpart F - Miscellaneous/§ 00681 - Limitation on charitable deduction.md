@@ -12,15 +12,15 @@ In computing the deduction allowable under section 642(c) to a trust, no amount 
 
 #### Amendments
 
-1969—Subsec. (a). Pub. L. 91–172, §121(d)(2)(B), substituted reference to certain property acquired with borrowed funds for reference to certain leases.
+<b>1969</b>—Subsec. (a). Pub. L. 91–172, §121(d)(2)(B), substituted reference to certain property acquired with borrowed funds for reference to certain leases.
 
-Subsec. (b). Pub. L. 91–172, §101(j)(18), (19), redesignated subsec. (d) as (b) and substituted “sections 518(d) and 4948(c)(4)” for “section 503(e)”. Former subsec. (b), dealing generally with the operation of trusts, was struck out.
+Subsec. (b). Pub. L. 91–172, §101(j)(18), (19), redesignated subsec. (d) as (b) and substituted “sections 518(d)and 4948(c)(4)” for “section 503(e)”. Former subsec. (b), dealing generally with the operation of trusts, was struck out.
 
 Subsec. (c). Pub. L. 91–172, §101(j)(18), struck out subsec. (c) dealing with accumulated income.
 
 Subsec. (d). Pub. L. 91–172, §101(j)(19), redesignated subsec. (d) as (b).
 
-1968—Subsec. (c). Pub. L. 90–630 inserted provision that par. (1) does not apply to income attributable to property transferred to a trust before January 1, 1951, by the creator thereof if the trust was irrevocable on such date and if the income is required to be accumulated pursuant to the mandatory terms of the instrument creating the trust.
+<b>1968</b>—Subsec. (c). Pub. L. 90–630 inserted provision that par. (1) does not apply to income attributable to property transferred to a trust before January 1, 1951, by the creator thereof if the trust was irrevocable on such date and if the income is required to be accumulated pursuant to the mandatory terms of the instrument creating the trust.
 
 #### Effective Date of 1969 Amendment
 

@@ -12,9 +12,9 @@ No gain or loss shall be recognized to a corporation on the receipt of money or 
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–554 inserted “, or with respect to a securities futures contract (as defined in section 1234B),” after “an option” in second sentence.
+<b>2000</b>—Subsec. (a). Pub. L. 106–554 inserted “, or with respect to a securities futures contract (as defined in section 1234B),” after “an option” in second sentence.
 
-1984—Subsec. (a). Pub. L. 98–369 inserted provision that no gain or loss shall be recognized by a corporation with respect to any lapse or acquisition of an option to buy or sell its stock (including treasury stock).
+<b>1984</b>—Subsec. (a). Pub. L. 98–369 inserted provision that no gain or loss shall be recognized by a corporation with respect to any lapse or acquisition of an option to buy or sell its stock (including treasury stock).
 
 #### Effective Date of 2000 Amendment
 

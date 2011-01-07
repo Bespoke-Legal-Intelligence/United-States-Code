@@ -10,45 +10,45 @@
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–183 substituted “$788” for “$670” and substituted “$247” for “$210” in two places.
+<b>2003</b>—Subsec. (a). Pub. L. 108–183 substituted “$788” for “$670” and substituted “$247” for “$210” in two places.
 
-2001—Subsec. (a). Pub. L. 107–103, §109(b)(2), substituted “the eligible person shall be entitled to receive” for “the parent or guardian shall be entitled to receive on behalf of such person” and “upon election by the eligible person” for “upon election by the parent or guardian of the eligible person”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–103, §109(b)(2), substituted “the eligible person shall be entitled to receive” for “the parent or guardian shall be entitled to receive on behalf of such person” and “upon election by the eligible person” for “upon election by the parent or guardian of the eligible person”.
 
 Pub. L. 107–103, §102(c), substituted “$670” for “$588” and substituted “$210” for “$184” in two places.
 
-2000—Subsec. (a). Pub. L. 106–419 substituted “$588” for “$485”, “$184” for “$152” in two places, and “such increased amount of allowance that is equal to one-thirtieth of the full-time basic monthly rate of special training allowance” for “$16.16 that the special training allowance paid exceeds the basic monthly allowance”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–419 substituted “$588” for “$485”, “$184” for “$152” in two places, and “such increased amount of allowance that is equal to one-thirtieth of the full-time basic monthly rate of special training allowance” for “$16.16 that the special training allowance paid exceeds the basic monthly allowance”.
 
-1998—Subsec. (a). Pub. L. 105–178, §8210(c), as added by Pub. L. 105–206, §9014(b), substituted “$485” for “$404” and “$16.16” for “$13.46” and substituted “$152” for “$127” in two places.
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §8210(c), as added by Pub. L. 105–206, §9014(b), substituted “$485” for “$404” and “$16.16” for “$13.46” and substituted “$152” for “$127” in two places.
 
-1991—Pub. L. 102–83 renumbered section 1742 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1742 of this title as this section.
 
-1989—Subsec. (a). Pub. L. 101–237, §403(a)(10), substituted “$404” for “$376”, “$127” for “$119” in two places, and “$13.46” for “$12.58”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–237, §403(a)(10), substituted “$404” for “$376”, “$127” for “$119” in two places, and “$13.46” for “$12.58”.
 
 Subsec. (c). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator”.
 
-1984—Subsec. (a). Pub. L. 98–543 substituted “$376” for “$342”, “$119” for “$108” in two places, and “$12.58” for “$11.44”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–543 substituted “$376” for “$342”, “$119” for “$108” in two places, and “$12.58” for “$11.44”.
 
-1980—Subsec. (a). Pub. L. 96–466, §212(2), substituted “$342” for “$327”, “$108” for “$103” in two places, and “$11.44” for “$10.92”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–466, §212(2), substituted “$342” for “$327”, “$108” for “$103” in two places, and “$11.44” for “$10.92”.
 
 Pub. L. 96–466, §202(2), substituted “$327” for “$311”, “$103” for “$98” in two places, and “$10.92” for “$10.40”.
 
-1977—Subsec. (a). Pub. L. 95–202 substituted “$311” for “$292”, “$98” for “$92” in two places, and “$10.40” for “$9.76”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–202 substituted “$311” for “$292”, “$98” for “$92” in two places, and “$10.40” for “$9.76”.
 
-1976—Subsec. (a). Pub. L. 94–502 substituted “$292” for “$270”, “$92” for “$85” in two places, and “$9.76” for “$9.02”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–502 substituted “$292” for “$270”, “$92” for “$85” in two places, and “$9.76” for “$9.02”.
 
-1975—Subsec. (a). Pub. L. 93–602 substituted “$270”, “$85”, “$85”, and “$9.02” for “$260”, “$82”, “$82”, and “$8.69” respectively.
+<b>1975</b>—Subsec. (a). Pub. L. 93–602 substituted “$270”, “$85”, “$85”, and “$9.02” for “$260”, “$82”, “$82”, and “$8.69” respectively.
 
-1974—Subsec. (a). Pub. L. 93–508 substituted “behalf of such person”, “$260”, “$82”, “$82”, and “$8.69” for “his behalf a”, “$220”, “$69”, “$69”, and “$7.35” respectively.
+<b>1974</b>—Subsec. (a). Pub. L. 93–508 substituted “behalf of such person”, “$260”, “$82”, “$82”, and “$8.69” for “his behalf a”, “$220”, “$69”, “$69”, and “$7.35” respectively.
 
-1972—Subsec. (a). Pub. L. 92–540 substituted “$220” for “$175”, “$69” for “$55”, and “$7.35” for “$6.80”, respectively.
+<b>1972</b>—Subsec. (a). Pub. L. 92–540 substituted “$220” for “$175”, “$69” for “$55”, and “$7.35” for “$6.80”, respectively.
 
-1970—Subsec. (a). Pub. L. 91–219 substituted “$175” for “$130”, “$55” for “$41”, and “$6.80” for “$4.25” respectively.
+<b>1970</b>—Subsec. (a). Pub. L. 91–219 substituted “$175” for “$130”, “$55” for “$41”, and “$6.80” for “$4.25” respectively.
 
-1965—Subsec. (a). Pub. L. 89–222 substituted “$130”, “$41”, “$41” and “$4.25” for “$110”, “$35”, “$35” and “$3.60”, respectively.
+<b>1965</b>—Subsec. (a). Pub. L. 89–222 substituted “$130”, “$41”, “$41” and “$4.25” for “$110”, “$35”, “$35” and “$3.60”, respectively.
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–183 effective July 1, 2004, and applicable with respect to educational assistance allowances payable under this chapter and section 3687(b)(2) of this title for months beginning on or after that date, see section 302(e) of Pub. L. 108–183, set out as a note under section 3532 of this title.
+Amendment by Pub. L. 108–183 effective July 1, 2004, and applicable with respect to educational assistanceallowances payable under this chapter and section 3687(b)(2) of this title for months beginning on or after that date, see section 302(e) of Pub. L. 108–183, set out as a note under section 3532 of this title.
 
 #### Effective Date of 2001 Amendment
 

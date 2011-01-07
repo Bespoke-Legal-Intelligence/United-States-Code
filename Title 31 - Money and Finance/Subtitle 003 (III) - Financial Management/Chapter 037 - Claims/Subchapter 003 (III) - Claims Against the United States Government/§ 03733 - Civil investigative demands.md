@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Issuance and service.—Whenever the Attorney General, or a designee (for purposes of this section), has reason to believe that anyperson may be in possession, custody, or control of any documentary material or information relevant to a false claims law investigation, the Attorney General, or a designee, may, before commencing a civil proceeding under section 3730(a) or other false claims law, or making an election under section 3730(b), issue in writing and cause to be served upon such person, a civil investigative demand requiring such person—
+Issuance and service.—Whenever the Attorney General, or a designee (for purposes of this section), has reason to believe that any person may be in possession, custody, or control of any documentary material or information relevant to a false claims law investigation, the Attorney General, or a designee, may, before commencing a civil proceeding under section 3730(a) or other false claims law, or making an election under section 3730(b),issue in writing and cause to be served upon such person, a civil investigative demand requiring such person—
 
 &emsp;&emsp;(A) to produce such documentary material for inspection and copying,
 
@@ -146,7 +146,7 @@ Oral Examinations.—
 
 &emsp;(1)
 
-Procedures.—The examination of any person pursuant to a civil investigative demand for oral testimony served under this section shall be taken before an officer authorized to administer oaths and affirmations by the laws of the United States or of the place where the examination is held. The officer before whom the testimony is to be taken shall put the witness on oath or affirmation and shall, personally or by someone acting under the direction of the officer and in the officer's presence, record the testimony of the witness. The testimony shall be taken stenographically and shall be transcribed. When the testimony is fully transcribed, the officer before whom the testimony is taken shall promptly transmit a copy of the transcript of the testimony to the custodian. This subsection shall not preclude the taking of testimony by any means authorized by, and in a manner consistent with, the Federal Rules of Civil Procedure.
+Procedures.—The examination of any person pursuant to a civil investigative demand for oral testimony served under this section shall be taken before an officer authorized to administer oaths and affirmations by the laws of the United States or of the place where the examination is held. The officer before whom the testimony is to be taken shall put the witness on oath or affirmation and shall, personally or by someone acting under the direction of the officer and in the officer'spresence, record the testimony of the witness. The testimony shall be taken stenographically and shall be transcribed. When the testimony is fully transcribed, the officer before whom the testimony is taken shall promptly transmit a copy of the transcript of the testimony to the custodian. This subsection shall not preclude the taking of testimony by any means authorized by, and in a manner consistent with, the Federal Rules of Civil Procedure.
 
 &emsp;(2)
 
@@ -190,7 +190,7 @@ Designation.—The Attorney General shall designate a false claims law investiga
 
 Responsibility for materials; disclosure.—(A) A false claims law investigator who receives any documentary material, answers to interrogatories, or transcripts of oral testimony under this section shall transmit them to the custodian. The custodian shall take physical possession of such material, answers, or transcripts and shall be responsible for the use made of them and for the return of documentary material under paragraph (4).
 
-&emsp;(B) The custodian may cause the preparation of such copies of such documentary material,answers to interrogatories, or transcripts of oral testimony as may be required for official use by any false claims law investigator, or other officer or employee of the Department of Justice. Such material, answers, and transcripts may be used by any such authorized false claims law investigator or other officer or employee in connection with the taking of oral testimony under this section.
+&emsp;(B) The custodian may cause the preparation of such copies of such documentary material, answers to interrogatories, or transcripts of oral testimony as may be required for official use by any false claims law investigator, or other officer or employee of the Department of Justice. Such material, answers, and transcripts may be used by any such authorized false claims law investigator or other officeror employee in connection with the taking of oral testimony under this section.
 
 &emsp;(C) Except as otherwise provided in this subsection, no documentary material, answers to interrogatories, or transcripts of oral testimony, or copies thereof, while in the possession of the custodian, shall be available for examination by any individual other than a false claims law investigator or other officer or employee of the Department of Justice authorized under subparagraph (B). The prohibition in the preceding sentence on the availability of material, answers, or transcripts shall not apply if consent is given by the person who produced such material, answers, or transcripts, or, in the case of any product of discovery produced pursuant to an express demand for such material, consent is given by the person from whom the discovery was obtained. Nothing in this subparagraph is intended to prevent disclosure to the Congress, including any committee or subcommittee of the Congress, or to any other agency of the United States for use by such agency in furtherance of its statutory responsibilities.
 
@@ -234,7 +234,7 @@ Petition for enforcement.—Whenever any person fails to comply with any civil i
 
 &emsp;(2)
 
-Petition to modify or set aside demand.—(A) Any person who has received a civil investigative demand issued under subsection (a) may file, in the district court of the United States for the judicial district within which such person resides, is found, or transacts business, and serve upon the false claims law investigator identified in such demand a petition for an order of the court to modify or set aside such demand. In the caseof a petition addressed to an express demand for any product of discovery, a petition to modify or set aside such demand may be brought only in the district court of the United States for the judicial district in which the proceeding in which such discovery was obtained is or was last pending. Any petition under this subparagraph must be filed—
+Petition to modify or set aside demand.—(A) Any person who has received a civil investigative demand issued under subsection (a) may file, in the district court of the United States for the judicial district within which such person resides, is found, or transacts business, and serve upon the false claims law investigator identified in such demand a petition for an order of the court to modify or set aside such demand. In the case of a petition addressed to an express demand for any product of discovery, a petition to modify or set aside such demand may be brought only in the district court of the United States for the judicial district in which the proceeding in which such discovery wasobtained is or was last pending. Any petition under this subparagraph must be filed—
 
 &emsp;&emsp;(i) within 20 days after the date of service of the civil investigative demand, or at any time before the return date specified in the demand, whichever date is earlier, or
 
@@ -284,7 +284,7 @@ Definitions.—For purposes of this section—
 
 &emsp;(4) the term “person” means any natural person, partnership, corporation, association, or other legal entity, including any State or political subdivision of a State;
 
-&emsp;(5) the term “documentary material” includes the original or any copy of any book, record, report, memorandum, paper, communication, tabulation, chart, or other document, or data compilations stored in or accessible through computer or other information retrieval systems, together with instructionsand all other materials necessary to use or interpret such data compilations, and any product of discovery;
+&emsp;(5) the term “documentary material” includes the original or any copy of any book, record, report, memorandum, paper, communication, tabulation, chart, or other document, or data compilations stored in or accessible through computer or other information retrieval systems, together with instructions and all other materials necessary to use or interpret such data compilations, and any product of discovery;
 
 &emsp;(6) the term “custodian” means the custodian, or any deputy custodian, designated by the Attorney General under subsection (i)(1);
 
@@ -308,7 +308,7 @@ The date of enactment of this section, referred to in subsec. (<i>l</i>)(1)(B), 
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–21, §4(c)(1)(A), in introductory provisions, inserted “, or a designee (for purposes of this section),” after “Whenever the Attorney General” and substituted “the Attorney General, or a designee, may, before commencing a civil proceeding under section 3730(a) or other false claims law, or making an election under section 3730(b),” for “the Attorney General may, before commencing a civil proceeding under section 3730 or other false claims law,” and, in concluding provisions, substituted “may delegate” for “may not delegate” and inserted at end “Any information obtained by the Attorney General or a designee of the Attorney General under this section may be shared with any qui tam relator if the Attorney General or designee determine it is necessary as part of any false claims act investigation.”
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–21, §4(c)(1)(A), in introductory provisions, inserted “, or a designee (for purposes of this section),” after “Whenever the Attorney General” and substituted “the Attorney General, or a designee, may, before commencing a civil proceeding under section 3730(a) or other false claims law, or making an election under section 3730(b),” for “the Attorney General may, before commencing a civil proceeding under section 3730 or other false claims law,” and, in concluding provisions, substituted “may delegate” for “may not delegate” and inserted at end “Any information obtained by the Attorney General or a designee of the Attorney General under this section may be shared with any qui tam relator if the Attorney General or designee determine it is necessary as part of any false claims act investigation.”
 
 Subsec. (a)(2)(G). Pub. L. 111–21, §4(c)(1)(B), struck out at end “The Attorney General may not, notwithstanding section 510 of title 28, authorize the performance, by any other officer, employee, or agency, of any function vested in the Attorney General under this subparagraph.”
 
@@ -321,4 +321,6 @@ Subsec. (<i>l</i>)(8). Pub. L. 111–21, §4(c)(3), added par. (8).
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–21 effective May 20, 2009, and applicable to conduct on or after May 20, 2009, except that this section, as amended by Pub. L. 111–21, applicable to cases pending on May 20, 2009, see section 4(f) of Pub. L. 111–21, set out as a note under section 3729 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “law”.</i>
 

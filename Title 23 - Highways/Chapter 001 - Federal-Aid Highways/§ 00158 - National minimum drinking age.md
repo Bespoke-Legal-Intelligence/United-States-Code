@@ -36,7 +36,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (c), is set out in Tit
 
 #### Amendments
 
-1998—Subsec. (a)(1). Pub. L. 105–178, §1103(<i>l</i>)(2)(A)(i)–(iii), redesignated par. (2) as (1), substituted “In general” for “After the first year” in heading and “104(b)(3), and 104(b)(4)” for “104(b)(2), 104(b)(5), and 104(b)(6)” in text, and struck out former par. (1) which read as follows:
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–178, §1103(<i>l</i>)(2)(A)(i)–(iii), redesignated par. (2) as (1), substituted “In general” for “After the first year” in heading and “104(b)(3), and 104(b)(4)” for “104(b)(2), 104(b)(5), and 104(b)(6)” in text, and struck out former par. (1) which read as follows:
 
 “(1)
 
@@ -46,7 +46,7 @@ Subsec. (a)(2), (3). Pub. L. 105–178, §1103(<i>l</i>)(2)(A)(ii), (iv), redesi
 
 Subsec. (b). Pub. L. 105–178, §1103(<i>l</i>)(2)(B), added subsec. (b) and struck out heading and text of former subsec. (b) which related to period of availability for apportionment to State of funds withheld by the Secretary pending State enactment of federally-prescribed minimum drinking age.
 
-1986—Subsec. (a). Pub. L. 99–272, §4104(d)(1), added subsection heading.
+<b>1986</b>—Subsec. (a). Pub. L. 99–272, §4104(d)(1), added subsection heading.
 
 Subsec. (a)(1). Pub. L. 99–272, §4104(d)(2)–(4), added paragraph heading, aligned margins, and inserted “first” before “fiscal year beginning”.
 
@@ -54,7 +54,7 @@ Subsec. (a)(2). Pub. L. 99–272, §4104(a), (d)(3), (5), added paragraph headin
 
 Subsec. (a)(3). Pub. L. 99–272, §4104(b), added par. (3).
 
-Subsec. (b). Pub. L. 99–272, §4104(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary shall promptly apportion to a State any funds which have been withheld from apportionment under subsection (a) of this section in fiscal year if in any succeeding fiscal year such State makes unlawful the purchase or public possession of any alcoholic beverage by a person who is less than twenty-one years of age.”
+Subsec. (b). Pub. L. 99–272, §4104(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read asfollows: “The Secretary shall promptly apportion to a State any funds which have been withheld from apportionment under subsection (a) of this section in fiscal year if in any succeeding fiscal year such State makes unlawful the purchase or public possession of any alcoholic beverage by a person who is less than twenty-one years of age.”
 
 Subsec. (c). Pub. L. 99–272, §4104(d)(6), added subsection heading.
 

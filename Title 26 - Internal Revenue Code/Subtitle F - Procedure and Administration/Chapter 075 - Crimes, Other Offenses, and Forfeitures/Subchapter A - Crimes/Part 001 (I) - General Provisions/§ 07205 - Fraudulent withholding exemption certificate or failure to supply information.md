@@ -6,13 +6,13 @@ Any individual required to supply information to his employer under section 3402
 
 #### (b) Backup withholding on interest and dividends
 
-If any individual willfully makes a false certification under paragraph (1) or (2)(C) of section 3406(d), then such individual shall, in addition to any other penalty provided by law, upon conviction thereof, be fined not more than $1,000, or imprisoned not more than 1 year, or both.
+If any individual willfully makes a false certification under paragraph (1) or (2)(C) of section 3406(d), then such individual shall, in addition toany other penalty provided by law, upon conviction thereof, be fined not more than $1,000, or imprisoned not more than 1 year, or both.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 852; Pub. L. 89–368, title I, §101(e)(5), Mar. 15, 1966, 80 Stat. 62; Pub. L. 97–34, title VII, §721(b), Aug. 13, 1981, 95 Stat. 341; Pub. L. 97–248, title III, §§306(b), 308(a), Sept. 3, 1982, 96 Stat. 588, 591; Pub. L. 98–67, title I, §§102(a), 107(b), Aug. 5, 1983, 97 Stat. 369, 382; Pub. L. 98–369, div. A, title I, §159(a), July 18, 1984, 98 Stat. 696; Pub. L. 101–239, title VII, §7711(b)(2), Dec. 19, 1989, 103 Stat. 2393.)
 
 #### Amendments
 
-1989—Subsec. (b). Pub. L. 101–239 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If any individual willfully makes—
+<b>1989</b>—Subsec. (b). Pub. L. 101–239 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If any individual willfully makes—
 
 &emsp;“(1) any false certification or affirmation on any statement required by a payor in order to meet the due diligence requirements of section 6676(b), or
 
@@ -20,11 +20,11 @@ If any individual willfully makes a false certification under paragraph (1) or (
 
 > then such individual shall, in addition to any other penalty provided by law, upon conviction thereof, be fined not more than $1,000, or imprisoned not more than 1 year, or both.”
 
-1984—Pub. L. 98–369 in subsecs. (a) and (b) substituted “in addition to” for “in lieu of” and struck out reference to penalty under section 6682 after “penalty provided by law”.
+<b>1984</b>—Pub. L. 98–369 in subsecs. (a) and (b) substituted “in addition to” for “in lieu of” and struck out reference to penalty under section 6682 after “penalty provided by law”.
 
-1983—Pub. L. 98–67 designated existing provisions as subsec. (a), added subsec. (b), and repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
+<b>1983</b>—Pub. L. 98–67 designated existing provisions as subsec. (a), added subsec. (b), and repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
-1982—Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, this section is amended by designating the existing provisions as subsec. (a) with a heading of “Withholding on wages”, and by adding a new subsec. (b). Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted. Subsec. (b), referred to above, read as follows:
+<b>1982</b>—Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, this section is amended by designating the existing provisions as subsec. (a) with a heading of “Withholding on wages”, and by adding a new subsec. (b). Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted. Subsec. (b), referred to above, read as follows:
 
 #### &nbsp;<b>“(b) Withholding of interest and dividends</b>
 
@@ -36,9 +36,9 @@ If any individual willfully makes a false certification under paragraph (1) or (
 
 > &emsp;shall, in lieu of any penalty otherwise provided, upon conviction thereof, be fined not more than $500, or imprisoned not more than 1 year, or both.”
 
-1981—Pub. L. 97–34 substituted “$1,000” for “$500”.
+<b>1981</b>—Pub. L. 97–34 substituted “$1,000” for “$500”.
 
-1966—Pub. L. 89–368 substituted “section 3402” and “any other penalty provided by law (except the penalty provided by section 6682)” for “section 3402(f)” and “any penalty otherwise provided” respectively.
+<b>1966</b>—Pub. L. 89–368 substituted “section 3402” and “any other penalty provided by law (except the penalty provided by section 6682)” for “section 3402(f)” and “any penalty otherwise provided” respectively.
 
 #### Effective Date of 1989 Amendment
 

@@ -20,7 +20,7 @@ The minimum level of an allowance for subsistence required under section 4955(b)
 
 #### (c) Limitation
 
-No part of the funds appropriated to carry out part A of subchapter I may be used to provide volunteers or assistance to any program or project authorized under part C of subchapter I, or under subchapter II, unless the program orproject meets the antipoverty criteria of part A of subchapter I.
+No part of the funds appropriated to carry out part A of subchapter I may be used to provide volunteers or assistance to any program or project authorized under part C of subchapter I, or under subchapter II, unless the program or project meets the antipoverty criteria of part A of subchapter I.
 
 #### (d) Availability
 
@@ -30,7 +30,7 @@ Amounts appropriated for part A of subchapter I shall remain available for oblig
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–13, §2161(a)(1), added pars. (1) and (2), redesignated par. (5) as (3), and struck out former pars. (1) to (4), which read as follows:
+<b>2009</b>—Subsec. (a). Pub. L. 111–13, §2161(a)(1), added pars. (1) and (2), redesignated par. (5) as (3), and struck out former pars. (1) to (4), which read as follows:
 
 “(1)
 
@@ -60,11 +60,11 @@ Volunteer service years.—Of the amounts appropriated under this section for pa
 
 Plan.—If the Director determines that funds appropriated to carry out part A, B, or C of subchapter I of this chapter are insufficient to provide for the years of volunteer service required by paragraph (1), the Director shall submit a plan to the relevant authorizing and appropriations committees of Congress that will detail what is necessary to fully meet this requirement.”
 
-1993—Pub. L. 103–82 amended section generally, substituting provisions authorizing appropriations for parts A, B, and C of subchapter I of this chapter for fiscal years 1994 through 1996 for provisions authorizing appropriations for such parts for fiscal years 1987 through 1993.
+<b>1993</b>—Pub. L. 103–82 amended section generally, substituting provisions authorizing appropriations for parts A, B, and C of subchapter I of this chapter for fiscal years 1994 through 1996 for provisions authorizing appropriations for such parts for fiscal years 1987 through 1993.
 
-1991—Subsec. (c). Pub. L. 102–73 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added pars. (2) and (3).
+<b>1991</b>—Subsec. (c). Pub. L. 102–73 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added pars. (2) and (3).
 
-1989—Subsec. (a)(1). Pub. L. 101–204, §801(a), inserted provision authorizing appropriations for fiscal years 1990 through 1993.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–204, §801(a), inserted provision authorizing appropriations for fiscal years 1990 through 1993.
 
 Subsec. (a)(2). Pub. L. 101–204, §801(b)(1), inserted provision authorizing appropriations for fiscal years 1990 through 1993.
 
@@ -80,11 +80,11 @@ Subsec. (d)(1)(D) to (G). Pub. L. 101–204, §801(e), added subpars. (D) to (G)
 
 Subsec. (d)(4). Pub. L. 101–204, §802, added par. (4).
 
-1988—Subsec. (c). Pub. L. 100–690, §3402(1), inserted “(other than section 4994(b) of this title)” after “of this chapter” and inserted provisions at end relating to additional authorization of appropriations for support of drug abuse prevention in fiscal years 1989 through 1991.
+<b>1988</b>—Subsec. (c). Pub. L. 100–690, §3402(1), inserted “(other than section 4994(b) of this title)” after “of this chapter” and inserted provisions at end relating to additional authorization of appropriations for support of drug abuse prevention in fiscal years 1989 through 1991.
 
 Subsec. (d)(1). Pub. L. 100–690, §3402(2), substituted “subchapter I of this chapter (other than section 4994(b) of this title)” for “subchapter I of this chapter”.
 
-1986—Subsecs. (a), (b). Pub. L. 99–551 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
+<b>1986</b>—Subsecs. (a), (b). Pub. L. 99–551 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
 “(a) There is authorized to be appropriated to carry out part A of subchapter I of this chapter $17,000,000 for fiscal year 1984, $20,000,000 for fiscal year 1985, and $25,000,000 for fiscal year 1986.
 
@@ -102,15 +102,15 @@ Subsec. (d)(1). Pub. L. 99–551 added par. (1) and struck out former par. (1) w
 
 &emsp;“(C) 2,400 years of volunteer service in fiscal year 1986.”
 
-1984—Pub. L. 98–288 designated existing provisions as subsec. (a), substituted “There is authorized to be appropriated to carry out part A of subchapter I of this chapter $17,000,000 for fiscal year 1984, $20,000,000 for fiscal year 1985, and $25,000,000 for fiscal year 1986” for “There is authorized to be appropriated to carry out subchapter I of this chapter $25,763,000 for fiscal year 1982 and $15,391,000 for fiscal year 1983. Of the amounts appropriated under this section, not less than $16,000,000 shall first be available for carrying out part A of subchapter I of this chapter for fiscal year 1982, and not less than $8,000,000 shall first be available forcarrying out part A of subchapter I of this chapter for fiscal year 1983”, and added subsecs. (b) to (e).
+<b>1984</b>—Pub. L. 98–288 designated existing provisions as subsec. (a), substituted “There is authorized to be appropriated to carry out part A of subchapter I of this chapter $17,000,000 for fiscal year 1984, $20,000,000 for fiscal year 1985, and $25,000,000 for fiscal year 1986” for “There is authorized to be appropriated to carry out subchapter I of this chapter $25,763,000 for fiscal year 1982 and $15,391,000 for fiscal year 1983. Of the amounts appropriated under this section, not less than $16,000,000 shall first be available for carrying out part A of subchapter I of this chapter for fiscal year 1982, and not less than $8,000,000 shall first be available for carrying out part A of subchapter I of this chapter for fiscal year 1983”, and added subsecs. (b) to (e).
 
-1981—Pub. L. 97–35 substituted provisions relating to authorization and availability of funds for fiscal years 1982 and 1983, for provisions relating to authorization and availability of funds for fiscal year ending June 30, 1974, through fiscal year ending Sept. 30, 1981.
+<b>1981</b>—Pub. L. 97–35 substituted provisions relating to authorization and availability of funds for fiscal years 1982 and 1983, for provisions relating to authorization and availability of funds for fiscal year ending June 30, 1974, through fiscal year ending Sept. 30, 1981.
 
-1979—Subsec. (a). Pub. L. 96–143, §15(a), inserted “September 30, 1979, September 30, 1980, and September 30, 1981,” after “September 30, 1978,” and substituted “this section for the purpose of carrying out subchapter I of this chapter” for “this subchapter”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–143, §15(a), inserted “September 30, 1979, September 30, 1980, and September 30, 1981,” after “September 30, 1978,” and substituted “this section for the purpose of carrying out subchapter I of this chapter” for “this subchapter”.
 
 Subsec. (c). Pub. L. 96–143, §15(b), added subsec. (c).
 
-1976—Subsec. (a). Pub. L. 94–293 inserted “September 30, 1977, and September 30, 1978,” after “June 30, 1976”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–293 inserted “September 30, 1977, and September 30, 1978,” after “June 30, 1976”.
 
 #### Effective Date of 2009 Amendment
 

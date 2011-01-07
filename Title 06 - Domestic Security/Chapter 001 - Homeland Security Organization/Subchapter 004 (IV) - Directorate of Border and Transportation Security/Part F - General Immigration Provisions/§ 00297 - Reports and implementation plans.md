@@ -16,7 +16,7 @@ The Secretary, not later than 120 days after the effective date of this chapter,
 
 #### (2) Contents
 
-&emsp;The implementation plan should include details concerning the separation of the Bureau of Citizenship and Immigration Services andthe Bureau of Border Security, including the following:
+&emsp;The implementation plan should include details concerning the separation of the Bureau of Citizenship and Immigration Services and the Bureau of Border Security, including the following:
 
 &emsp;&emsp;(A) Organizational structure, including the field structure.
 
@@ -42,7 +42,7 @@ The Secretary, not later than 120 days after the effective date of this chapter,
 
 &emsp;&emsp;(A) A determination of whether the transfers of functions made by parts D and E of this subchapter have been completed, and if a transfer of functions has not taken place, identifying the reasons why the transfer has not taken place.
 
-&emsp;&emsp;(B) If the transfers of functions made by parts D and E of this subchapter have been completed, an identification of any issues that have arisen due to the completed transfers.
+&emsp;&emsp;(B) If the transfers of functions made by parts D and E of this subchapter have beencompleted, an identification of any issues that have arisen due to the completed transfers.
 
 &emsp;&emsp;(C) An identification of any issues that may arise due to any future transfer of functions.
 
@@ -73,6 +73,8 @@ The Secretary, not later than 120 days after the effective date of this chapter,
 #### References in Text
 
 The effective date of this chapter, referred to in subsecs. (a), (b), and (c)(1), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
+
+This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 The Immigration and Nationality Act, referred to in subsec. (c)(2)(F), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 

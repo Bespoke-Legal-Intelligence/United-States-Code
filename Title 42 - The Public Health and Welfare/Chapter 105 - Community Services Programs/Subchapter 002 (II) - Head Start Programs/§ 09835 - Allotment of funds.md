@@ -54,9 +54,9 @@
 
 &emsp;&emsp;(I) for each of fiscal years 2008, 2009, and 2010—
 
-&emsp;&emsp;&emsp;(aa) subject to subparagraph (B), provide 5 percent of that amount for Indian Head Start programs (including Early Head Start programs), and 5 percent of that amount for migrant and seasonal Head Start programs, to increase enrollment in the programs involved; and
+&emsp;&emsp;&emsp;(aa) subject to subparagraph (B), provide 5 percent of that amount for Indian HeadStart programs (including Early Head Start programs), and 5 percent of that amount for migrant and seasonal Head Start programs, to increase enrollment in the programs involved; and
 
-&emsp;&emsp;&emsp;(bb) use 90 percent of that amount to provide, for each Head Start agency (including each Early Head Start agency)funded as described in clause (i)(I), the same percentage (but not less than 50 percent) of the cost of living increase described in clause (i); and
+&emsp;&emsp;&emsp;(bb) use 90 percent of that amount to provide, for each Head Start agency (including each Early Head Start agency) funded as described in clause (i)(I), the same percentage (but not less than 50 percent) of the cost of living increase described in clause (i); and
 
 &emsp;&emsp;(II) for fiscal year 2011 and each subsequent fiscal year—
 
@@ -110,7 +110,7 @@
 
 &emsp;(i) use 0.2 percent for Head Start programs funded under clause (iv) or (v) of paragraph (2)(B) (other than Early Head Start programs);
 
-&emsp;(ii) for any fiscal year after the last fiscal year for which Indian Head Start programs receive funds under the special expansion provisions, use 3 percent for Head Start programs funded under paragraph (2)(B)(ii) (other than Early Head Start programs), except that the Secretary may increase that percentage if the Secretary determines that the results of the study conducted under section 9844(k) of thistitle indicate that the percentage should be increased;
+&emsp;(ii) for any fiscal year after the last fiscal year for which Indian Head Start programs receive funds under the special expansion provisions, use 3 percent for Head Start programs funded under paragraph (2)(B)(ii) (other than Early Head Start programs), except that the Secretary may increase that percentage if the Secretary determines that the results of the study conducted under section 9844(k) of this title indicate that the percentage should be increased;
 
 &emsp;(iii) for any fiscal year after the last fiscal year for which migrant or seasonal Head Start programs receive funds under the special expansion provisions, use 4.5 percent for Head Start programs funded under paragraph (2)(B)(iii) (other than Early Head Start programs), except that the Secretary may increase that percentage if the Secretary determines that the results of the study conducted under section 9844(<i>l</i>) of this title indicate that the percentage should be increased; and
 
@@ -220,7 +220,7 @@ The Secretary shall adopt appropriate administrative measures to assure that the
 
 #### (f) Guidelines for local service delivery models
 
-(1) Not later than 1 year after December 12, 2007, the Secretary shall establish procedures to enable Head Start agencies to develop locally designed or specialized service delivery models to address local community needs, including models that leverage the capacity and capabilities of the delivery system of early childhood education and development services or programs.
+(1) Not later than 1 year after December 12, 2007, the Secretary shall establish procedures to enable Head Start agencies to develop locally designed or specialized service delivery models to address local community needs, including models that leverage the capacity and capabilities of the delivery system of early childhoodeducation and development services or programs.
 
 (2) In establishing the procedures the Secretary shall establish procedures to provide for—
 
@@ -276,7 +276,7 @@ Financial assistance provided under this subchapter may be used by each Head Sta
 
 #### (i) Vehicle safety regulations
 
-The Secretary shall issue regulations establishing requirements for the safety features, and the safe operation, of vehicles used by Head Start agencies to transport children participating in Head Start programs. The regulations shall also establish requirements to ensure the appropriate supervision of, and appropriate background checks for, individuals with whom the agencies contract to transport those children.
+The Secretary shall issue regulations establishing requirements for the safety features, and the safe operation, of vehicles used by HeadStart agencies to transport children participating in Head Start programs. The regulations shall also establish requirements to ensure the appropriate supervision of, and appropriate background checks for, individuals with whom the agencies contract to transport those children.
 
 #### (j) Compensation of staff
 
@@ -332,7 +332,7 @@ Nothing in this subchapter shall be construed to require a State to establish a 
 
 All curricula funded under this subchapter shall be based on scientifically valid research, and be age and developmentally appropriate. The curricula shall reflect all areas of child development and learning and be aligned with the Head Start Child Outcomes Framework. Parents shall have the opportunity to examine any such curricula or instructional materials funded under this subchapter.
 
-(Pub. L. 97–35, title VI, §640, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §103, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 99–425, title I, §102,Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–476, title IX, §901(d), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–501, title I, §§104(a), 105, 123(b), Nov. 3, 1990, 104 Stat. 1224, 1228, 1237; Pub. L. 102–119, §26(g), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–401, §2(a)–(d), (k)(1), Oct. 7, 1992, 106 Stat. 1956, 1958; Pub. L. 103–252, title I, §105, May 18, 1994, 108 Stat. 626; Pub. L. 104–193, title I, §110(t), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–285, title I, §106(a)–(d), Oct. 27, 1998, 112 Stat. 2705–2711; Pub. L. 108–446, title III, §305(<i>l</i>)(1), (2), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 110–134, §6, Dec. 12, 2007, 121 Stat. 1367.)
+(Pub. L. 97–35, title VI, §640, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §103, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 99–425, title I, §102, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–476, title IX, §901(d), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–501, title I, §§104(a), 105, 123(b), Nov. 3, 1990, 104 Stat. 1224, 1228, 1237; Pub. L. 102–119, §26(g), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–401, §2(a)–(d), (k)(1), Oct. 7, 1992, 106 Stat. 1956, 1958; Pub. L. 103–252, title I, §105, May 18, 1994, 108 Stat. 626; Pub. L. 104–193, title I, §110(t), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–285, title I, §106(a)–(d), Oct. 27, 1998, 112 Stat. 2705–2711; Pub. L. 108–446, title III, §305(<i>l</i>)(1), (2), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 110–134, §6, Dec. 12, 2007, 121 Stat. 1367.)
 
 #### References in Text
 
@@ -344,7 +344,7 @@ This subchapter, referred to in subsec. (j), was in the original “this Act” 
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–134, §6(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to distribution of appropriations, allotment requirements, and priorities for Head Start funds.
+<b>2007</b>—Subsec. (a). Pub. L. 110–134, §6(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to distribution of appropriations, allotment requirements, and priorities for Head Start funds.
 
 Subsec. (d). Pub. L. 110–134, §6(b), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary shall establish policies and procedures designed to assure that for fiscal year 1999 and thereafter no less than 10 percent of the total number of enrollment opportunities in Head Start programs in each State shall be available for children with disabilities and that services shall be provided to meet their special needs. Such policies and procedures shall require Head Start agencies to coordinate programmatic efforts with efforts to implement part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C. 1431–1444, 1419).”
 
@@ -386,11 +386,11 @@ Subsec. (<i>l</i>)(3), (4). Pub. L. 110–134, §6(f)(3), added pars. (3) and (4
 
 Subsecs. (m) to (<i>o</i>). Pub. L. 110–134, §6(g), added subsecs. (m) to (<i>o</i>).
 
-2004—Subsec. (a)(5)(C)(iv). Pub. L. 108–446, §305(<i>l</i>)(1), substituted “1431–1444” for “1431–1445”.
+<b>2004</b>—Subsec. (a)(5)(C)(iv). Pub. L. 108–446, §305(<i>l</i>)(1), substituted “1431–1444” for “1431–1445”.
 
 Subsec. (d). Pub. L. 108–446, §305(<i>l</i>)(2), substituted “U.S.C.” for “U.S.C” and “1431–1444” for “1431–1445”.
 
-1998—Subsec. (a)(2). Pub. L. 105–285, §106(a)(1)(F), inserted at end of concluding provisions “No Freely Associated State may receive financial assistance under this subchapter after fiscal year 2002.”
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–285, §106(a)(1)(F), inserted at end of concluding provisions “No Freely Associated State may receive financial assistance under this subchapter after fiscal year 2002.”
 
 Subsec. (a)(2)(A). Pub. L. 105–285, §106(a)(1)(A), substituted “Head Start programs, services for children with disabilities, and migrant and seasonal Head Start programs” for “and migrant Head Start programs and services for handicapped children”, “Head Start programs and by migrant and seasonal” for “and migrant” before “Head Start programs” in two places, and “1998” for “1994”.
 
@@ -470,9 +470,9 @@ Subsec. (g)(4). Pub. L. 105–285, §106(c)(2), added par. (4).
 
 Subsec. (<i>l</i>). Pub. L. 105–285, §106(d), designated existing provisions as par. (1), substituted “migrant and seasonal Head Start programs” for “migrant Head Start programs” in two places and “migrant and seasonal farmworker families” for “migrant families”, and added pars. (2) and (3).
 
-1996—Subsec. (a)(4)(B)(i). Pub. L. 104–193 substituted “State program of assistance funded” for “program of aid to families with dependent children under a State plan approved”.
+<b>1996</b>—Subsec. (a)(4)(B)(i). Pub. L. 104–193 substituted “State program of assistance funded” for “program of aid to families with dependent children under a State plan approved”.
 
-1994—Subsec. (a)(1). Pub. L. 103–252, §105(b)(1), substituted “through (4), and subject to paragraphs (5) and (6)” for “through (5)”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–252, §105(b)(1), substituted “through (4), and subject to paragraphs (5) and (6)” for “through (5)”.
 
 Subsec. (a)(2)(A). Pub. L. 103–252, §105(b)(2)(A), substituted “1994” for “1990”.
 
@@ -510,11 +510,11 @@ Subsec. (a)(7). Pub. L. 103–252, §105(b)(4), redesignated par. (6) as (7).
 
 Subsec. (g). Pub. L. 103–252, §105(c), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Subsec. (h). Pub. L. 103–252, §105(d), substituted “Financial assistance provided under this subchapter maybe used by each Head Start program to” for “Each Head Start program may”.
+Subsec. (h). Pub. L. 103–252, §105(d), substituted “Financial assistance provided under this subchapter may be used by each Head Start program to” for “Each Head Start program may”.
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 103–252, §105(e), added subsecs. (j) to (<i>l</i>).
 
-1992—Subsec. (a)(2)(A). Pub. L. 102–401, §2(k)(1)(A)(i)(I), inserted “children” after “handicapped”.
+<b>1992</b>—Subsec. (a)(2)(A). Pub. L. 102–401, §2(k)(1)(A)(i)(I), inserted “children” after “handicapped”.
 
 Subsec. (a)(2)(B). Pub. L. 102–401, §2(k)(1)(A)(i)(II), substituted “Commonwealth of” for “Commonwealth of,”.
 
@@ -538,9 +538,9 @@ Subsec. (g). Pub. L. 102–401, §2(k)(1)(B), substituted “Price Index For All
 
 Subsec. (i). Pub. L. 102–401, §2(d), added subsec. (i).
 
-1991—Subsec. (d). Pub. L. 102–119 substituted “section 1401(a)(1) of title 20” for “paragraph (1) of section 1401 of title 20”. The references to section 1401 of title 20 include the substitution of “Individuals with Disabilities Education Act” for “Education of the Handicapped Act” in the original.
+<b>1991</b>—Subsec. (d). Pub. L. 102–119 substituted “section 1401(a)(1) of title 20” for “paragraph (1) of section 1401 of title 20”. The references to section 1401 of title 20 include the substitution of “Individuals with Disabilities Education Act” for “Education of the Handicapped Act” in the original.
 
-1990—Subsec. (a)(1). Pub. L. 101–501, §104(a)(1), substituted “through (5)” for “and (3)”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–501, §104(a)(1), substituted “through (5)” for “and (3)”.
 
 Subsec. (a)(2). Pub. L. 101–501, §104(a)(2)(D), (E), struck out before last sentence “The minimum reservation contained in clause (C) of this paragraph shall not apply in any fiscal year in which the appropriation for the program authorized by this subchapter is less than the amount appropriated for fiscal year 1984.” and inserted “or paragraph (3)” after “under this paragraph” in last sentence.
 
@@ -564,9 +564,9 @@ Subsecs. (f), (g). Pub. L. 101–501, §105(2), added subsecs. (f) and (g).
 
 Subsec. (h). Pub. L. 101–501, §123(b), added subsec. (h).
 
-1986—Subsec. (a)(2)(A). Pub. L. 99–425, in amending cl. (A) generally, designated existing subcl. (i) as all of cl. (A), substituted “1987” for “1982” and “1985” for “1981”, and struck out subcl. (ii) relating to cost-of-living adjustments.
+<b>1986</b>—Subsec. (a)(2)(A). Pub. L. 99–425, in amending cl. (A) generally, designated existing subcl. (i) as all of cl. (A), substituted “1987” for “1982” and “1985” for “1981”, and struck out subcl. (ii) relating to cost-of-living adjustments.
 
-1984—Subsec. (a)(2). Pub. L. 98–558 inserted “as described in section 9843 of this title, in an amount for each fiscal year which is not less than the amount expended for training and technical assistance activities under this clause for fiscal year 1982” in cl. (C), and inserted at end “The minimum reservation contained in clause (C) of this paragraph shall not apply in any fiscal year in which the appropriation for the program authorized by this subchapter is less than the amount appropriated for fiscal year 1984. No funds reserved under this paragraph may be combined with funds appropriated under any other Act if the purpose of combining funds is to make a single discretionary grant or a single discretionary payment, unless such funds appropriated under this subchapter are separately identified in such grant or payment and are used for the purposes of this subchapter.”
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–558 inserted “as described in section 9843 of this title, in an amount for each fiscal year which is not less than the amount expended for training and technical assistance activities under this clause for fiscal year 1982” in cl. (C), and inserted at end “The minimum reservation contained in clause (C) of this paragraph shall not apply in any fiscal year in which the appropriation for the program authorized by this subchapter is less than the amount appropriated for fiscal year 1984. No funds reserved under this paragraph may be combined with funds appropriated under any other Act if the purpose of combining funds is to make a single discretionary grant or a single discretionary payment, unless such funds appropriated under this subchapter are separately identified in such grant or payment and are used for the purposes of this subchapter.”
 
 #### Change of Name
 
@@ -578,7 +578,7 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as a note under section 9832 of this title.
+Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section127 of Pub. L. 103–252, set out as a note under section 9832 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -592,7 +592,7 @@ Effective Dates.—(1) Except as provided in paragraph (2) and subsection (b), t
 
 “(b)
 
-Application of Amendments.—The amendments made by this Act, other than the amendment made bysection 2(e)(1), shall not apply with respect to fiscal years beginning before October 1, 1992.”
+Application of Amendments.—The amendments made by this Act, other than the amendment made by section 2(e)(1), shall not apply with respect to fiscal years beginning before October 1, 1992.”
 
 #### Effective Date of 1990 Amendments
 

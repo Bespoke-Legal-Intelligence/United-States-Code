@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “specified policy acquisition expenses” means, with respect to any taxable year, so much of the general deductions for such taxable year as does not exceed the sum of—
+&emsp;The term “specified policy acquisition expenses” means, with respect to any taxableyear, so much of the general deductions for such taxable year as does not exceed the sum of—
 
 &emsp;&emsp;(A) 1.75 percent of the net premiums for such taxable year on specified insurance contracts which are annuity contracts,
 
@@ -176,17 +176,17 @@ In the case of any taxable year which includes September 30, 1990, the amount ta
 
 #### Amendments
 
-2006—Subsec. (e)(6). Pub. L. 109–280 added par. (6).
+<b>2006</b>—Subsec. (e)(6). Pub. L. 109–280 added par. (6).
 
-2003—Subsec. (e)(1)(B)(v). Pub. L. 108–173 added cl. (v).
+<b>2003</b>—Subsec. (e)(1)(B)(v). Pub. L. 108–173 added cl. (v).
 
-2000—Subsec. (e)(1)(B)(iv). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(10)\], substituted “an Archer MSA” for “a Archer MSA”.
+<b>2000</b>—Subsec. (e)(1)(B)(iv). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(10)\], substituted “an Archer MSA” for “a Archer MSA”.
 
 Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(5)\], substituted “Archer MSA” for “medical savings account”.
 
-1996—Subsec. (e)(1)(B)(iv). Pub. L. 104–191 added cl. (iv).
+<b>1996</b>—Subsec. (e)(1)(B)(iv). Pub. L. 104–191 added cl. (iv).
 
-1993—Subsec. (g). Pub. L. 103–66 substituted “this section or section 197” for “this section”.
+<b>1993</b>—Subsec. (g). Pub. L. 103–66 substituted “this section or section 197” for “this section”.
 
 #### Effective Date of 2006 Amendment
 

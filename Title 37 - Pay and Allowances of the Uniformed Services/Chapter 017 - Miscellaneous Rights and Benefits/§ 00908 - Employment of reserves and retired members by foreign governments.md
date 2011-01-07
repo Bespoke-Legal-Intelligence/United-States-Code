@@ -40,11 +40,11 @@ The text of section 509(c) of the Act of August 17, 1977, is omitted as unnecess
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–337 substituted “1060” for “1058”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–337 substituted “1060” for “1058”.
 
-1993—Pub. L. 103–160 inserted headings in subsecs. (a) and (b) and added subsec. (c).
+<b>1993</b>—Pub. L. 103–160 inserted headings in subsecs. (a) and (b) and added subsec. (c).
 
-1991—Subsec. (a). Pub. L. 102–25 struck out “of this section” after “subsection (b)”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–25 struck out “of this section” after “subsection (b)”.
 
 Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 

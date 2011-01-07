@@ -22,7 +22,7 @@ If, in connection with the performance of services, property is transferred to a
 
 #### (2) Election
 
-&emsp;An election under paragraph (1) with respect to any transfer of property shall be made in such manner as the Secretary prescribes and shall be made not later than 30 days after the date of such transfer. Such election may not be revoked except with the consent of the Secretary.
+&emsp;An election under paragraph (1) with respect to any transfer of property shall be made insuch manner as the Secretary prescribes and shall be made not later than 30 days after the date of such transfer. Such election may not be revoked except with the consent of the Secretary.
 
 #### (c) Special rules
 
@@ -106,9 +106,9 @@ Section 16(b) of the Securities Exchange Act of 1934, referred to in subsec. (c)
 
 #### Amendments
 
-2004—Subsec. (c)(4). Pub. L. 108–357 added par. (4).
+<b>2004</b>—Subsec. (c)(4). Pub. L. 108–357 added par. (4).
 
-1990—Subsec. (i). Pub. L. 101–508 struck out subsec. (i) “Transition rules” which read as follows: “This section shall apply to property transferred after June 30, 1969, except that this section shall not apply to property transferred—
+<b>1990</b>—Subsec. (i). Pub. L. 101–508 struck out subsec. (i) “Transition rules” which read as follows: “This section shall apply to property transferred after June 30, 1969, except that this section shall not apply to property transferred—
 
 &emsp;“(1) pursuant to a binding written contract entered into before April 22, 1969,
 
@@ -120,15 +120,15 @@ Section 16(b) of the Securities Exchange Act of 1934, referred to in subsec. (c)
 
 &emsp;“(5) in exchange for (or pursuant to the exercise of a conversion privilege contained in) property transferred before July 1, 1969, or for property to which this section does not apply (by reason of paragraphs (1), (2), (3), or (4)), if section 354, 355, 356, or 1036 (or so much of section 1031 as relates to section 1036) applies, or if gain or loss is not otherwise required to be recognized upon the exercise of such conversion privilege, and if the property received in such exchange is subject to restrictions and conditions substantially similar to those to which the property given in such exchange was subject.”
 
-1986—Subsec. (e)(5). Pub. L. 99–514 struck out “the cost of” before “group-life insurance”.
+<b>1986</b>—Subsec. (e)(5). Pub. L. 99–514 struck out “the cost of” before “group-life insurance”.
 
-1984—Subsec. (e)(5). Pub. L. 98–369 added par. (5).
+<b>1984</b>—Subsec. (e)(5). Pub. L. 98–369 added par. (5).
 
-1983—Subsec. (c)(3). Pub. L. 97–448 substituted “Securities Exchange Act of 1934” for “Securities and Exchange Act of 1934” in heading and text.
+<b>1983</b>—Subsec. (c)(3). Pub. L. 97–448 substituted “Securities Exchange Act of 1934” for “Securities and Exchange Act of 1934” in heading and text.
 
-1981—Subsec. (c)(3). Pub. L. 97–34 added par. (3).
+<b>1981</b>—Subsec. (c)(3). Pub. L. 97–34 added par. (3).
 
-1976—Subsec. (b)(2). Pub. L. 94–455, §1901(a)(15), struck out “(or, if later, 30 days after the date of the enactment of the Tax Reform Act of 1969)” after “after the date of such transfer”, and §1906(b)(13)(A), “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (b)(2). Pub. L. 94–455, §1901(a)(15), struck out “(or, if later, 30 days after the date of the enactment of the Tax Reform Act of 1969)” after “after the date of such transfer”, and §1906(b)(13)(A), “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (d)(1), (2)(B). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -146,7 +146,7 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981,Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 

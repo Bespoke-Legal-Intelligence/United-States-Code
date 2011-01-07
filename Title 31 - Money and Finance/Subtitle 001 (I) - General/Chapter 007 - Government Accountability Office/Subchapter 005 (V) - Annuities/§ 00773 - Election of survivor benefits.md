@@ -56,9 +56,9 @@ In subsection (c), the words “be construed to” and “eligible therefore” 
 
 #### Amendments
 
-2004—Subsec. (b)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
 
-1988—Subsec. (b)(1). Pub. L. 100–426, §204(1), inserted “5 percent of the” before “annuity”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–426, §204(1), inserted “5 percent of the” before “annuity”.
 
 Subsec. (b)(2)(C). Pub. L. 100–426, §204(2), substituted “3 percent” for “4.5 percent”.
 

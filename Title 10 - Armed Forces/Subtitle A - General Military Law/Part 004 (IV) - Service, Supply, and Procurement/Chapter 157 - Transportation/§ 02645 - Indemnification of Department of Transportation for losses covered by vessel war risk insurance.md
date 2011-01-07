@@ -58,15 +58,15 @@ The date of the enactment of this section, referred to in subsec. (f), is the da
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–304, §17(a)(4)(A), substituted “section 53909(b) of title 46” for “the second sentence of section 1208(a) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1288(a))”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–304, §17(a)(4)(A), substituted “section 53909(b) of title 46” for “the second sentence of section 1208(a) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1288(a))”.
 
 Subsec. (h)(1). Pub. L. 109–304, §17(a)(4)(B), substituted “chapter 539 of title 46” for “title XII of the Merchant Marine Act, 1936 (46 U.S.C. App. 1281 et seq.),”.
 
 Subsec. (h)(2). Pub. L. 109–304, §17(a)(4)(C), substituted “section 53909(a) of title 46” for “the first sentence of section 1208(a) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1288(a))”.
 
-2003—Subsec. (d). Pub. L. 108–136, §1031(a)(26)(A), substituted “Congress” for “Congress—”, struck out par. (1) designation before “notification”, substituted a period for “; and” after “date of the loss”, and struck out par. (2) which read as follows: “semiannual reports thereafter updating the information submitted under paragraph (1) and showing with respect to losses arising from such incident the total amount expended to cover such losses, the source of such funds, pending litigation, and estimated total cost to the Government.”
+<b>2003</b>—Subsec. (d). Pub. L. 108–136, §1031(a)(26)(A), substituted “Congress” for “Congress—”, struck out par. (1) designation before “notification”, substituted a period for “; and” after “date of the loss”, and struck out par. (2) which read as follows: “semiannual reports thereafter updating the information submitted under paragraph (1) and showing with respect to losses arising from such incident the total amount expended to cover such losses, the source of such funds, pending litigation, and estimated total cost to the Government.”
 
 Subsec. (g). Pub. L. 108–136, §1031(a)(26)(B), struck out heading and text of subsec. (g). Text read as follows: “Not later than March 1 of each year, the Secretary of Defense shall submit to Congress a report setting forth the current amount of the contingent outstanding liability of the United States under the vessel war risk insurance program under title XII of the Merchant Marine Act, 1936 (46 U.S.C. App. 1281 et seq.).”
 
-1997—Subsec. (a)(1)(B). Pub. L. 105–85 struck out “on which” after “after the date on which”.
+<b>1997</b>—Subsec. (a)(1)(B). Pub. L. 105–85 struck out “on which” after “after the date on which”.
 

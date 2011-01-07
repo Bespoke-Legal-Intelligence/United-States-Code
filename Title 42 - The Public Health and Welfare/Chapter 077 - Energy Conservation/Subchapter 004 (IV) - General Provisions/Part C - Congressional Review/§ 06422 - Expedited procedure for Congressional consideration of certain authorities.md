@@ -2,7 +2,7 @@
 
 #### (a) Contingency plan identification number; transmittal of plan to Congress
 
-Any contingency plan transmitted to the Congress pursuant to section 6261(a)(1) <sup>1</sup> of this title shall bear an identification number and shall be transmitted to both Houses of Congress on thesame day and to each House while it is in session.
+Any contingency plan transmitted to the Congress pursuant to section 6261(a)(1) <sup>1</sup> of this title shall bear an identification number and shall be transmitted to both Houses of Congress on the same day and to each House while it is in session.
 
 #### (b) Necessity of Congressional resolution within certain period for plan to be considered approved
 
@@ -44,7 +44,7 @@ For the purpose of subsection (b) of this section—
 
 (C) If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution with respect to the same contingency plan.
 
-(5)(A) When the committee has reported, or has been discharged from further consideration of, a resolution, it shall be at any time thereafter in order (even though a previous motion tothe same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion shall be highly privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
+(5)(A) When the committee has reported, or has been discharged from further consideration of, a resolution, it shall be at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion shall be highly privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
 
 (B) Debate on the resolution referred to in subparagraph (A) of this paragraph shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing such resolution. A motion further to limit debate shall not be debatable. Except to the extent provided in paragraph (7)(B), an amendment to, or motion to recommit the resolution shall not be in order, and it shall not be in order to move to reconsider the vote by which such resolution was agreed to or disagreed to.
 
@@ -90,9 +90,9 @@ Section 6261 of this title, referred to in subsecs. (a), (b)(1), (2)(A), and (d)
 
 #### Amendments
 
-1998—Subsec. (d)(5)(A). Pub. L. 105–388 substituted “motion” for “notion” after “amendment to the”.
+<b>1998</b>—Subsec. (d)(5)(A). Pub. L. 105–388 substituted “motion” for “notion” after “amendment to the”.
 
-1979—Subsec. (b). Pub. L. 96–102, §§103(b)(2)(A), 105(b)(6), designated existing provisions as par. (1) and substituted “No such energy conservation contingency plan” for “No such contingency plan”, “section 6261(b)” for “section 6261(a)(2)”, and “subsection (d)(2)(A)” for “subsection (d)(2)”, and added par. (2).
+<b>1979</b>—Subsec. (b). Pub. L. 96–102, §§103(b)(2)(A), 105(b)(6), designated existing provisions as par. (1) and substituted “No such energy conservation contingency plan” for “No such contingency plan”, “section 6261(b)” for “section 6261(a)(2)”, and “subsection (d)(2)(A)” for “subsection (d)(2)”, and added par. (2).
 
 Subsec. (c)(2). Pub. L. 96–102, §103(b)(2)(B), substituted “calendar-day period involved” for “60-calendar-day period”.
 
@@ -109,4 +109,6 @@ Subsec. (d)(7). Pub. L. 96–102, §103(b)(2)(G), added par. (7).
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–102 effective Nov. 5, 1979, see section 302 of Pub. L. 96–102, set out as an Effective Date note under section 8501 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

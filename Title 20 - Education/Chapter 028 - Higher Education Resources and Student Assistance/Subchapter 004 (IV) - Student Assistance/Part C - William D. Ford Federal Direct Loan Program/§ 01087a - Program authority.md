@@ -22,13 +22,13 @@ A prior section 1087a, Pub. L. 89–329, title IV, §451, as added Pub. L. 90–
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–227, in first sentence, inserted “(1)” before “to make loans” and “; and (2) for purchasing loans under section 1087i–1 of this title” before period at end and, in second sentence, substituted “Loans made under this part shall” for “Such loans shall”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–227, in first sentence, inserted “(1)” before “to make loans” and “; and (2) for purchasing loans under section 1087i–1 of this title” before period at end and, in second sentence, substituted “Loans made under this part shall” for “Such loans shall”.
 
-1994—Pub. L. 103–382 designated existing provisions as subsec. (a), added heading, and added subsec. (b).
+<b>1994</b>—Pub. L. 103–382 designated existing provisions as subsec. (a), added heading, and added subsec. (b).
 
-1993—Pub. L. 103–66 amended section generally, substituting provisions relating to program authority for former provisions relating to program and payment authority.
+<b>1993</b>—Pub. L. 103–66 amended section generally, substituting provisions relating to program authority for former provisions relating to program and payment authority.
 
-1992—Pub. L. 102–325 amended section generally, substituting provisions relating to program and payment authority for Federal direct loan demonstration program for former provisions relating to statement of purpose of income contingent direct loan demonstration project.
+<b>1992</b>—Pub. L. 102–325 amended section generally, substituting provisions relating to program and payment authority for Federal direct loan demonstration program for former provisions relating to statement of purpose of income contingent direct loan demonstration project.
 
 #### Effective Date of 1992 Amendment
 

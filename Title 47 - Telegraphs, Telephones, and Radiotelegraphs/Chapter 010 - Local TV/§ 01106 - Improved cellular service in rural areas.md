@@ -84,7 +84,7 @@ For the purposes of this section, the following definitions shall apply:
 
 #### References in Text
 
-This chapter, referred to subsec. (c), was in the original “this Act”, and was translated as reading “this title”. See References in Text note set out under section 1101 of this title.
+This chapter, referred to subsec. (c), was in the original “this Act”, and was translated as reading “thistitle”. See References in Text note set out under section 1101 of this title.
 
 <i><sup>1</sup></i><i> So in original. No closing parenthesis was enacted.</i>
 

@@ -58,7 +58,7 @@ Beginning in fiscal year 2009, the Secretary may not award a cooperative agreeme
 
 #### (e) Coordination with local response capabilities
 
-An entity shall, to the extent practicable, ensure that activities carried out under an award under subsection (a) are coordinated with activities of relevant Metropolitan Medical Response Systems, local public health departments, the Cities Readiness Initiative, and local emergency plans.
+An entity shall, to the extent practicable, ensure that activities carried out under an awardunder subsection (a) are coordinated with activities of relevant Metropolitan Medical Response Systems, local public health departments, the Cities Readiness Initiative, and local emergency plans.
 
 #### (f) Consultation with Homeland Security
 
@@ -194,7 +194,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (C) Requirement for State matching funds
 
-&emsp;&emsp;Beginning in fiscal year 2009, in the case of any State or consortium of two or more States, the Secretary may not award a cooperative agreement under this section unless the State or consortium of States agree that, with respect to the amount of the cooperative agreement awarded by the Secretary, the State or consortium of States will make available (directly or through donations from public or private entities) non-Federal contributions in an amount equal to—
+&emsp;&emsp;Beginning in fiscal year 2009, in the case of any State or consortium of two or moreStates, the Secretary may not award a cooperative agreement under this section unless the State or consortium of States agree that, with respect to the amount of the cooperative agreement awarded by the Secretary, the State or consortium of States will make available (directly or through donations from public or private entities) non-Federal contributions in an amount equal to—
 
 &emsp;&emsp;&emsp;(i) for the first fiscal year of the cooperative agreement, not less than 5 percent of such costs ($1 for each $20 of Federal funds provided in the cooperative agreement); and
 
@@ -248,7 +248,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (A) In general
 
-&emsp;&emsp;For fiscal year 2007, the Secretary may, before making awards pursuant to paragraph (3) for such year, reserve from the amount appropriated under paragraph (1) for the year an amount determined necessary by the Secretary to make awards under subsection (a) of this section to political subdivisions that have a substantial number of residents, have a substantial local infrastructure for responding to public health emergencies, and face a high degree of risk from bioterrorist attacks or other public health emergencies. Not more than three political subdivisions may receive awards pursuant to this subparagraph.
+&emsp;&emsp;For fiscal year 2007, the Secretary may, before making awards pursuant to paragraph (3) for such year, reserve from the amount appropriated under paragraph (1) for the year an amount determined necessary by the Secretary to make awards under subsection (a) of this section to political subdivisions that have a substantial number of residents, have a substantial local infrastructure for responding to public health emergencies, and face a high degree of risk from bioterrorist attacks or other public healthemergencies. Not more than three political subdivisions may receive awards pursuant to this subparagraph.
 
 #### (B) Coordination with Statewide plans
 
@@ -352,7 +352,7 @@ December 19, 2006, referred to in subsec. (g)(2)(B), was in the original “the 
 
 #### Amendments
 
-2006—Pub. L. 109–417, §201(1), substituted “Improving State and local public health security” for “Grants to improve State, local, and hospital preparedness for and response to bioterrorism and other public health emergencies” in section catchline.
+<b>2006</b>—Pub. L. 109–417, §201(1), substituted “Improving State and local public health security” for “Grants to improve State, local, and hospital preparedness for and response to bioterrorism and other public health emergencies” in section catchline.
 
 Subsecs. (a) to (h). Pub. L. 109–417, §201(2), added subsecs. (a) to (h) and struck out former subsecs. (a) to (h) which related to grants to improve State, local, and hospital preparedness for and response to bioterrorism and other public health emergencies.
 

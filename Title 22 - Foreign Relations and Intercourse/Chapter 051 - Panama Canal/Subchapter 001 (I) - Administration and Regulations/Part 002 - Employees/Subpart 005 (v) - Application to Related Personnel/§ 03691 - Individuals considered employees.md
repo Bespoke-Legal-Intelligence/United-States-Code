@@ -26,3 +26,5 @@ This Act, referred to in subsec. (b), is Pub. L. 96–70, Sept. 27, 1979, 93 Sta
 
 Section 1261(c) of Pub. L. 96–70 provided that: “The provisions of this section \[enacting this section\] shall take effect on the date of the enactment of this Act \[Sept. 27, 1979\].”
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

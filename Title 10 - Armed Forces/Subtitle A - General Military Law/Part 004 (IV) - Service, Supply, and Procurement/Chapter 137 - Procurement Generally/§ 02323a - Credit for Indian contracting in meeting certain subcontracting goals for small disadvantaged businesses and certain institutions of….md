@@ -48,7 +48,7 @@ Definitions.—In this section:
 
 &emsp;(4) The term “tribally owned corporation” means a corporation owned entirely by an Indian tribe.
 
-(Added Pub. L. 102–484, div. A, title VIII, §801(g)(1), Oct. 23, 1992, 106 Stat. 2445; amendedPub. L. 104–201, div. A, title X, §1074(a)(13), Sept. 23, 1996, 110 Stat. 2659.)
+(Added Pub. L. 102–484, div. A, title VIII, §801(g)(1), Oct. 23, 1992, 106 Stat. 2445; amended Pub. L. 104–201, div. A, title X, §1074(a)(13), Sept. 23, 1996, 110 Stat. 2659.)
 
 #### Codification
 
@@ -56,5 +56,5 @@ Section, as added by Pub. L. 102–484, consists of text of Pub. L. 101–189, d
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–201, which directed amendment of subsec. (a) by substituting “section 2323 of this title” for “section 1207 of the National Defense Authorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)”, could not be executed because the language “section 1207 of the National Defense Authorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)” did not appear. See Codification note above.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, which directed amendment of subsec. (a) by substituting “section 2323 of this title” for “section 1207 of the National Defense Authorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)”, could not be executed because the language “section 1207 of the National Defense Authorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)” did not appear. See Codification note above.
 

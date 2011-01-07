@@ -18,9 +18,9 @@ Minor changes in phraseology were made.
 
 #### Amendments
 
-2009—Pub. L. 111–16 inserted “, excluding intermediate weekends and holidays,” after “commencement of trial”.
+<b>2009</b>—Pub. L. 111–16 inserted “, excluding intermediate weekends and holidays,” after “commencement of trial”.
 
-1994—Pub. L. 103–322 inserted before period at end “, except that such list of the veniremen and witnesses need not be furnished if the court finds by a preponderance of the evidence that providing the list may jeopardize the life or safety of any person”.
+<b>1994</b>—Pub. L. 103–322 inserted before period at end “, except that such list of the veniremen and witnesses need not be furnished if the court finds by a preponderance of the evidence that providing the list may jeopardize the life or safety of any person”.
 
 #### Effective Date of 2009 Amendment
 

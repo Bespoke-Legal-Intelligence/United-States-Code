@@ -82,23 +82,53 @@ For purposes of this section, the term “lead free”—
 
 #### (1) In general
 
-&emsp;The Administrator shall provide accurate and timely technical information and assistance to qualified third-party certifiers in the development of voluntary standards and testing protocols for the leaching of lead from newplumbing fittings and fixtures that are intended by the manufacturer to dispense water for human ingestion.
+&emsp;The Administrator shall provide accurate and timely technical information and assistance to qualified third-party certifiers in the development of voluntary standards and testing protocols for the leaching of lead from new plumbing fittings and fixtures that are intended by the manufacturer to dispense water for human ingestion.
 
 #### (2) Standards
 
 #### (A) In general
 
-&emsp;&emsp;If a voluntary standard for the leaching of lead is not established by the date that is 1 year after August 6, 1996, the Administrator shall, not later than 2 years after August 6, 1996, promulgate regulations setting a health-effects-based performance standard establishing maximum leaching levels from new plumbing fittings and fixtures that are intended by the manufacturer to dispense water for human ingestion. The standard shall become effective on the date that is 5 years after the date of promulgation of the standard.
+&emsp;&emsp;If a voluntary standard for the leaching of lead is not established by the date that is 1 year after August 6, 1996, the Administrator shall, not later than 2 years after August 6, 1996, promulgate regulations setting a health-effects-based performance standard establishing maximum leaching levels from new plumbing fittings and fixtures that are intended by the manufacturer to dispense water for human ingestion. The standardshall become effective on the date that is 5 years after the date of promulgation of the standard.
 
 #### (B) Alternative requirement
 
 &emsp;&emsp;If regulations are required to be promulgated under subparagraph (A) and have not been promulgated by the date that is 5 years after August 6, 1996, no person may import, manufacture, process, or distribute in commerce a new plumbing fitting or fixture, intended by the manufacturer to dispense water for human ingestion, that contains more than 4 percent lead by dry weight.
 
-(July 1, 1944, ch. 373, title XIV, §1417, as added Pub. L. 99–339, title I, §109(a), June 19, 1986, 100 Stat. 651; amended Pub. L. 104–182, title I, §118, title V, §501(f)(1), Aug. 6, 1996, 110 Stat. 1645, 1691.)
+(July 1, 1944, ch. 373, title XIV, §1417, as added Pub. L. 99–339, title I, §109(a), June 19, 1986, 100 Stat. 651; amended Pub. L. 104–182, title I, §118, title V, §501(f)(1), Aug. 6, 1996, 110 Stat. 1645, 1691; Pub. L. 111–380, §2(a), Jan. 4, 2011, 124 Stat. 4131.)
+
+#### Amendment of Subsections (a) and (d)
+
+<i>Pub. L. 111–380, §2, Jan. 4, 2011, 124 Stat. 4131, provided that, applicable beginning on the day that is 36 months after Jan. 4, 2011, this section is amended as follows:</i>
+
+<i>(1) by adding at the end of subsection (a) the following:</i>
+
+#### <i>“(4) Exemptions</i>
+
+&emsp;<i>“The prohibitions in paragraphs (1) and (3) shall not apply to—</i>
+
+&emsp;&emsp;<i>“(A) pipes, pipe fittings, plumbing fittings, or fixtures, including backflow preventers, that are used exclusively for nonpotable services such as manufacturing, industrial processing, irrigation, outdoor watering, or any other uses where the water is not anticipated to be used for human consumption; or</i>
+
+&emsp;&emsp;<i>“(B) toilets, bidets, urinals, fill valves, flushometer valves, tub fillers, shower valves, service saddles, or water distribution main gate valves that are 2 inches in diameter or larger.”; and</i>
+
+<i>(2) by amending subsection (d) to read as follows:</i>
+
+#### <i>(d) Definition of lead free</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>For the purposes of this section, the term “lead free” means—</i>
+
+&emsp;&emsp;<i>(A) not containing more than 0.2 percent lead when used with respect to solder and flux; and</i>
+
+&emsp;&emsp;<i>(B) not more than a weighted average of 0.25 percent lead when used with respect to the wetted surfaces of pipes, pipe fittings, plumbing fittings, and fixtures.</i>
+
+#### <i>(2) Calculation</i>
+
+&emsp;<i>The weighted average lead content of a pipe, pipe fitting, plumbing fitting, or fixture shall be calculated by using the following formula: For each wetted component, the percentage of lead in the component shall be multiplied by the ratio of the wetted surface area of that component to the total wetted surface area of the entire product to arrive at the weighted percentage of lead of the component. The weighted percentage of lead of each wetted component shall be added together, and the sum of these weighted percentages shall constitute the weighted average lead content of the product. The lead content of the material used to produce wetted components shall be used to determine compliance with paragraph (1)(B). For lead content of materials that are provided as a range, the maximum content of the range shall be used.</i>
 
 #### Amendments
 
-1996—Pub. L. 104–182, §501(f)(1), made technical amendment to section catchline and subsec. (a) designation.
+<b>1996</b>—Pub. L. 104–182, §501(f)(1), made technical amendment to section catchline and subsec. (a) designation.
 
 Subsec. (a)(1). Pub. L. 104–182, §118(1), substituted “Prohibitions” for “Prohibition” in heading and amended text generally. Prior to amendment, text read as follows: “Any pipe, solder, or flux, which is used after June 19, 1986, in the installation or repair of—
 
@@ -115,6 +145,10 @@ Subsec. (a)(3). Pub. L. 104–182, §118(3), added par. (3).
 Subsec. (d)(3). Pub. L. 104–182, §118(4), added par. (3).
 
 Subsec. (e). Pub. L. 104–182, §118(5), added subsec. (e).
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–380, §2(b), Jan. 4, 2011, 124 Stat. 4132, provided that: “The provisions of subsections (a)(4) and (d) of section 1417 of the Safe Drinking Water Act \[42 U.S.C. 300g–6(a)(4), (d)\], as added by this section, apply beginning on the day that is 36 months after the date of the enactment of this Act \[Jan. 4, 2011\].”
 
 #### Notification to States
 

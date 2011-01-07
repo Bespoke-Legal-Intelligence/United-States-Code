@@ -5,9 +5,5 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 16631 - Fiscal year 2007](%C2%A7%2016631%20-%20Fiscal%20year%202007.md)
-- [&sect; 16632 - Fiscal year 2008](%C2%A7%2016632%20-%20Fiscal%20year%202008.md)
-- [&sect; 16633 - ISS research](%C2%A7%2016633%20-%20ISS%20research.md)
-- [&sect; 16634 - Test facilities](%C2%A7%2016634%20-%20Test%20facilities.md)
-- [&sect; 16635 - Official representation fund](%C2%A7%2016635%20-%20Official%20representation%20fund.md)
-- [&sect; 16636 - ISS cost cap](%C2%A7%2016636%20-%20ISS%20cost%20cap.md)
+- [&sect; 16631 to 16634 - Repealed. Pub. L. 111&#8211;314, &sect;6, Dec. 18, 2010, 124 Stat. 3444](%C2%A7%2016631%20to%2016634%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93314%2C%20%C2%A76%2C%20Dec.%2018%2C%202010%2C%20124%20Stat.%203444.md)
+- [&sect; 16635, 16636 - Omitted](%C2%A7%2016635%2C%2016636%20-%20Omitted.md)

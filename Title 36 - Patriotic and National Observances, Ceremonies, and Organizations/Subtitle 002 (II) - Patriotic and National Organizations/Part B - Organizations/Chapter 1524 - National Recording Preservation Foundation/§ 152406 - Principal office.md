@@ -6,5 +6,5 @@ The principal office of the corporation shall be in the District of Columbia or 
 
 #### Amendments
 
-2008—Pub. L. 110–336 substituted “District of Columbia or another place as determined by the Board of Directors” for “District of Columbia”.
+<b>2008</b>—Pub. L. 110–336 substituted “District of Columbia or another place as determined by the Board of Directors” for “District of Columbia”.
 

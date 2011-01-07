@@ -58,9 +58,11 @@ The Secretary of Defense shall transmit to Congress an annual report on the fina
 
 &emsp;(C) shall permit the Chief Operating Officer to revoke the lease at any time, unless the Chief Operating Officer determines that the omission of such a provision will promote the purpose and financial stability of the Retirement Home or be in the public interest;
 
-&emsp;(D) shall provide for the payment (in cash or in kind) by the lessee of consideration in an amount that is not less than the fair market value of the lease interest, as determined by the Chief Operating Officer; and
+&emsp;(D) shall provide for the payment (in cash or in kind) by the lessee of consideration in an amount that is not less than the fair market value of the lease interest, as determined by the Chief Operating Officer;
 
-&emsp;(E) may provide, notwithstanding section 1302 of title 40 or any other provision of law, for the alteration, repair, or improvement, by the lessee, of the property leased as the payment of part or all of the consideration for the lease.
+&emsp;(E) may provide, notwithstanding section 1302 of title 40 or any other provision of law, for the alteration, repair, or improvement, by the lessee, of the property leased as the payment of part or all of the consideration for the lease; and
+
+&emsp;(F) may not provide for a leaseback by the Retirement Home with an annual payment in excess of $100,000, or otherwise commit the Retirement Home or the Department of Defense to annual payments in excess of such amount.
 
 (3) In addition to any in-kind consideration accepted under subparagraph (D) or (E) of paragraph (2), in-kind consideration accepted with respect to a lease under this subsection may include the following:
 
@@ -94,7 +96,7 @@ The Secretary of Defense shall transmit to Congress an annual report on the fina
 
 (8) The interest of a lessee of property leased under this subsection may be taxed by State or local governments. A lease under this subsection shall provide that, if and to the extent that the leased property is later made taxable by State or local governments under an Act of Congress, the lease shall be renegotiated.
 
-(Pub. L. 101–510, div. A, title XV, §1511, Nov. 5, 1990, 104 Stat. 1723; Pub. L. 103–160, div. A, title III, §366(a), Nov. 30, 1993, 107 Stat. 1630; Pub. L. 107–107, div. A, title XIV, §1403, Dec. 28, 2001, 115 Stat. 1258; Pub. L. 110–181, div. A, title XIV, §1422(a), (b), Jan. 28, 2008, 122 Stat. 420; Pub. L. 111–84, div. B, title XXVIII, §2823, Oct. 28, 2009, 123 Stat. 2666.)
+(Pub. L. 101–510, div. A, title XV, §1511, Nov. 5, 1990, 104 Stat. 1723; Pub. L. 103–160, div. A, title III, §366(a), Nov. 30, 1993, 107 Stat. 1630; Pub. L. 107–107, div. A, title XIV, §1403, Dec. 28, 2001, 115 Stat. 1258; Pub. L. 110–181, div. A, title XIV, §1422(a), (b), Jan. 28, 2008, 122 Stat. 420; Pub. L. 111–84, div. B, title XXVIII, §2823, Oct. 28, 2009, 123 Stat. 2666; Pub. L. 111–383, div. B, title XXVIII, §2813(b), Jan. 7, 2011, 124 Stat. 4463.)
 
 #### References in Text
 
@@ -102,21 +104,23 @@ This chapter, referred to in subsec. (f), was in the original “this title”, 
 
 #### Amendments
 
-2009—Subsec. (e)(2). Pub. L. 111–84, §2823(a), inserted at end “If the purchase price to acquire fee title to real property for inclusion in the Retirement Home is more than $750,000, the Secretary may acquire the real property only if the acquisition is specifically authorized by law.”
+<b>2011</b>—Subsec. (i)(2)(F). Pub. L. 111–383 added subpar. (F).
+
+<b>2009</b>—Subsec. (e)(2). Pub. L. 111–84, §2823(a), inserted at end “If the purchase price to acquire fee title to real property for inclusion in the Retirement Home is more than $750,000, the Secretary may acquire the real property only if the acquisition is specifically authorized by law.”
 
 Subsec. (e)(3). Pub. L. 111–84, §2823(b)(1), added par. (3) and struck out former par. (3) which read as follows: “The Secretary of Defense may dispose of any property of the Retirement Home, by sale, lease, or otherwise, that the Secretary determines is excess to the needs of the Retirement Home. The proceeds from such a disposal of property shall be deposited in the Armed Forces Retirement Home Trust Fund. No such disposal of real property shall be effective earlier than 120 days after the date on which the Secretary transmits a notification of the proposed disposal to the Committees on Armed Services of the Senate and the House of Representatives.”
 
 Subsec. (i). Pub. L. 111–84, §2823(b)(2), added subsec. (i).
 
-2008—Subsec. (d)(3). Pub. L. 110–181, §1422(a)(1), added par. (3).
+<b>2008</b>—Subsec. (d)(3). Pub. L. 110–181, §1422(a)(1), added par. (3).
 
 Subsec. (g). Pub. L. 110–181, §1422(b), amended subsec. (g) generally. Prior to amendment, text read as follows: “The Chief Operating Officer shall endeavor to secure for each facility of the Retirement Home accreditation by a nationally recognized civilian accrediting organization, such as the Continuing Care Accreditation Commission and the Joint Commission for Accreditation of Health Organizations.”
 
 Subsec. (h). Pub. L. 110–181, §1422(a)(2), inserted at end “The annual report shall include an assessment of all aspects of each facility of the Retirement Home, including the quality of care at the facility.”
 
-2001—Pub. L. 107–107 reenacted section catchline without change and amended text generally, substituting present provisions for provisions relating to inclusion of existing homes in the Armed Forces Retirement Home in subsec. (a), the purpose of the Retirement Home in subsec. (b), its operation in subsec. (c), its property and facilities in subsec. (d), the requirement that the Secretary of Defense make available certain support services for the Home in subsec. (e), and its accreditation in subsec. (f).
+<b>2001</b>—Pub. L. 107–107 reenacted section catchline without change and amended text generally, substituting present provisions for provisions relating to inclusion of existing homes in the Armed Forces Retirement Home in subsec. (a), the purpose of the Retirement Home in subsec. (b), its operation in subsec. (c), its property and facilities in subsec. (d), the requirement that the Secretary of Defense make available certain support services for the Home in subsec. (e), and its accreditation in subsec. (f).
 
-1993—Subsecs. (e), (f). Pub. L. 103–160 added subsec. (e) and redesignated former subsec. (e) as (f).
+<b>1993</b>—Subsecs. (e), (f). Pub. L. 103–160 added subsec. (e) and redesignated former subsec. (e) as (f).
 
 #### Effective Date
 

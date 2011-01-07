@@ -24,11 +24,11 @@ A prior section 5215, act Aug. 16, 1954, ch. 736, 68A Stat. 640, related to exem
 
 #### Amendments
 
-1984—Subsec. (c). Pub. L. 98–369 substituted “reclosing” for “restamping” in heading and text.
+<b>1984</b>—Subsec. (c). Pub. L. 98–369 substituted “reclosing” for “restamping” in heading and text.
 
-1979—Pub. L. 96–39 amended section generally thereby authorizing the return of distilled spirits to the bonded premises of the distilled spirits plant for certain enumerated purposes except mere storage.
+<b>1979</b>—Pub. L. 96–39 amended section generally thereby authorizing the return of distilled spirits to the bonded premises of the distilled spirits plant for certain enumerated purposes except mere storage.
 
-1977—Subsec. (a). Pub. L. 95–176 reenacted existing provisions but struck out last sentence relating to applicability of chapter to distilled spirits returned to bonded premises, which was covered in subsec. (d).
+<b>1977</b>—Subsec. (a). Pub. L. 95–176 reenacted existing provisions but struck out last sentence relating to applicability of chapter to distilled spirits returned to bonded premises, which was covered in subsec. (d).
 
 Subsecs. (b), (c). Pub. L. 95–176 added subsecs. (b) and (c) and redesignated former subsec. (b) as (e).
 
@@ -36,13 +36,13 @@ Subsec. (d). Pub. L. 95–176 redesignated last sentence of former subsec. (a) a
 
 Subsec. (e). Pub. L. 95–176 redesignated former subsec. (b) as par. (1) and added par. (2).
 
-1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1971—Subsec. (a). Pub. L. 91–659, §2(c)(1), struck out requirements that withdrawn distilled spirits be returned when found unsuitable, in bulk containers, before processing and before removal from the original container and permitted return of withdrawn distilled spirits other than products to which any alcoholic ingredients other than such distilled spirits have been added and made additional authorization under section 5234(a)(1)(B) for mingling returned distilled spirits.
+<b>1971</b>—Subsec. (a). Pub. L. 91–659, §2(c)(1), struck out requirements that withdrawn distilled spirits be returned when found unsuitable, in bulk containers, before processing and before removal from the original container and permitted return of withdrawn distilled spirits other than products to which any alcoholic ingredients other than such distilled spirits have been added and made additional authorization under section 5234(a)(1)(B) for mingling returned distilled spirits.
 
-Subsec. (b). Pub. L. 91–659, §2(c)(2), (3), repealed subsec. (b) which provided for definition of “original container in which such distilled spirits were withdrawn from bonded premises” in the case of distilled spirits withdrawn by pipeline. Former subsec. (c) redesignated (b).
+Subsec. (b). Pub. L. 91–659, §2(c)(2), (3), repealed subsec. (b) which provided for definition of “original container in which such distilled spirits were withdrawn from bonded premises” in the case of distilled spiritswithdrawn by pipeline. Former subsec. (c) redesignated (b).
 
-1965—Subsec. (a). Pub. L. 89–44 inserted reference to destruction to redistillation, denaturation, and mingling in second sentence on list of options which might be used in disposing of returned distilled spirits.
+<b>1965</b>—Subsec. (a). Pub. L. 89–44 inserted reference to destruction to redistillation, denaturation, and mingling in second sentence on list of options which might be used in disposing of returned distilled spirits.
 
 #### Effective Date of 1984 Amendment
 

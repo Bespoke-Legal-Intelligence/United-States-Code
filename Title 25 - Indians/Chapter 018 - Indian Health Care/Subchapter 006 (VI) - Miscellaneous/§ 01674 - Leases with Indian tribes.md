@@ -14,9 +14,13 @@
 
 (Pub. L. 94–437, title VIII, §804, formerly title VII, §704, Sept. 30, 1976, 90 Stat. 1414; Pub. L. 96–537, §8(a), Dec. 17, 1980, 94 Stat. 3179; Pub. L. 100–713, title VII, §701, Nov. 23, 1988, 102 Stat. 4826; renumbered title VIII, §804, Pub. L. 102–573, title VII, §701(a), (b), Oct. 29, 1992, 106 Stat. 4572.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+
 #### Amendments
 
-1988—Pub. L. 100–713 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1988</b>—Pub. L. 100–713 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1980—Pub. L. 96–537 inserted provision that property leased by the Secretary from an Indian tribe may be reconstructed or renovated by the Secretary pursuant to an agreement with such Indian tribe.
+<b>1980</b>—Pub. L. 96–537 inserted provision that property leased by the Secretary from an Indian tribe may be reconstructed or renovated by the Secretary pursuant to an agreement with such Indian tribe.
 

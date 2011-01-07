@@ -24,5 +24,13 @@ Notwithstanding the provisions of subsection (a) of this section, a person may d
 
 For the purpose of subsection (b) of this section, a card, code, or other means of access is validated when it may be used to initiate an electronic fund transfer.
 
-(Pub. L. 90–321, title IX, §911, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3736.)
+(Pub. L. 90–321, title IX, §911, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3736; amended Pub. L. 111–203, title X, §1084(1), July 21, 2010, 124 Stat. 2081.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1084(1), 1100H, July 21, 2010, 124 Stat. 2081, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 

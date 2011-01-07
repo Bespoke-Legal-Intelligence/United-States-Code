@@ -56,8 +56,6 @@ Sections 2470 and 2491(c) of the Internal Revenue Code, referred to in subsec. (
 
 Section 3500 of the Internal Revenue Code, referred to in subsec. (a)(3)(E), (8)(A), is reference to section 3500 of the Internal Revenue Code of 1939, which was repealed by section 7851 of the Internal Revenue Code of 1954, Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095. See section 4501 of Title 26, Internal Revenue Code.
 
-The customs laws, referred to in subsec. (a)(3)(D) and (8)(B), are classified generally to Title 19, Customs Duties.
-
 #### Admission of Alaska and Hawaii to Statehood
 
 Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding section 491 of Title 48.

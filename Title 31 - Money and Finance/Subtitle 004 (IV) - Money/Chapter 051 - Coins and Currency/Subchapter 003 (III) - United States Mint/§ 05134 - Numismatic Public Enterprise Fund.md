@@ -22,7 +22,7 @@ Numismatic operations and programs.—The term “numismatic operations and prog
 
 &emsp;&emsp;(A) means the activities concerning, and assets utilized in, the production, administration, sale, and management of numismatic items and the Numismatic Public Enterprise Fund; and
 
-&emsp;&emsp;(B) includes capital, personnel salaries, functions relating to operations, marketing,distribution, promotion, advertising, and official reception and representation, the acquisition or replacement of equipment, and the renovation or modernization of facilities (other than the construction or acquisition of new buildings).
+&emsp;&emsp;(B) includes capital, personnel salaries, functions relating to operations, marketing, distribution, promotion, advertising, and official reception and representation, the acquisition or replacement of equipment, and the renovation or modernization of facilities (other than the construction or acquisition of new buildings).
 
 &emsp;(5)
 
@@ -42,7 +42,7 @@ Payment of expenses.—Any expense incurred by the Secretary for numismatic oper
 
 &emsp;(2)
 
-Deposit of receipts.—All receipts from numismatic operations and programs shall be deposited into the Fund, including amounts attributable to any surcharge imposed with respect to the sale of any numismatic item.
+Deposit of receipts.—All receipts from numismatic operations and programs shall bedeposited into the Fund, including amounts attributable to any surcharge imposed with respect to the sale of any numismatic item.
 
 &emsp;(3)
 
@@ -162,7 +162,7 @@ Contents of annual report.—The annual report required under subparagraph (A) f
 
 &emsp;&emsp;&emsp;(v) a summary of the corrective actions taken with respect to material weaknesses relating to numismatic operations and programs identified in the reports prepared under section 3512(c);
 
-&emsp;&emsp;&emsp;(vi) any other information the Secretary considers appropriate to fully inform the Congress concerning the financial management of the Fund; and
+&emsp;&emsp;&emsp;(vi) any other information the Secretary considers appropriate to fully inform theCongress concerning the financial management of the Fund; and
 
 &emsp;&emsp;&emsp;(vii) a statement of the total amount of excess funds transferred to the Treasury.
 
@@ -244,7 +244,7 @@ Use of surcharges for audits.—Any designated recipient organization that recei
 
 &emsp;&emsp;(F)
 
-Waiver of paragraph.—The Secretary of the Treasury may waive the application of any subparagraph of this paragraph to any designated recipient organization for any fiscal year after taking into account the amount of surcharges that such organization received or expended during such year.
+Waiver of paragraph.—The Secretary of the Treasury may waive the application of any subparagraph of this paragraph to any designated recipient organization forany fiscal year after taking into account the amount of surcharges that such organization received or expended during such year.
 
 &emsp;&emsp;(G)
 
@@ -304,7 +304,7 @@ The date of enactment of the Treasury, Postal Service, and General Government Ap
 
 #### Amendments
 
-2003—Subsec. (c)(4), (5). Pub. L. 108–15, §103(d)(2), redesignated par. (5) as (4) and struck out heading andtext of former par. (4). Text read as follows: “For purposes of paragraph (1), any expense incurred by the Secretary in connection with the Citizens Commemorative Coin Advisory Committee established under section 5135 shall be treated as an expense incurred for numismatic operations and programs which is an ordinary and reasonable incident of the numismatic business.”
+<b>2003</b>—Subsec. (c)(4), (5). Pub. L. 108–15, §103(d)(2), redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: “For purposes of paragraph (1), any expense incurred by the Secretary in connection with the Citizens Commemorative Coin Advisory Committee established under section 5135 shall be treated as an expense incurred for numismatic operations and programs which is an ordinary and reasonable incident of the numismatic business.”
 
 Subsec. (f)(1). Pub. L. 108–15, §201(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, no amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall be paid from the fund to any designated recipient organization unless—
 
@@ -312,11 +312,11 @@ Subsec. (f)(1). Pub. L. 108–15, §201(a), amended heading and text of par. (1)
 
 &emsp;“(B) the designated recipient organization submits an audited financial statement that demonstrates to the satisfaction of the Secretary of the Treasury that, with respect to all projects or purposes for which the proceeds of such surcharge may be used, the organization has raised funds from private sources for such projects and purposes in an amount that is equal to or greater than the maximum amount the organization may receive from the proceeds of such surcharge.”
 
-2000—Subsec. (e)(2). Pub. L. 106–445, §3(1), substituted “contain” for “reflect” in introductory provisions.
+<b>2000</b>—Subsec. (e)(2). Pub. L. 106–445, §3(1), substituted “contain” for “reflect” in introductory provisions.
 
 Subsec. (e)(2)(E). Pub. L. 106–445, §3(2)–(4), added subpar. (E).
 
-1996—Subsec. (c)(2). Pub. L. 104–208, §101(f) \[title V, §529(b)(1)\], inserted “, including amounts attributable to any surcharge imposed with respect to the sale of any numismatic item” before period at end.
+<b>1996</b>—Subsec. (c)(2). Pub. L. 104–208, §101(f) \[title V, §529(b)(1)\], inserted “, including amounts attributable to any surcharge imposed with respect to the sale of any numismatic item” before period at end.
 
 Subsec. (f). Pub. L. 104–208, §101(f) \[title V, §529(b)(2)\], added subsec. (f).
 

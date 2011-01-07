@@ -32,11 +32,11 @@ Section was enacted as part of Flood Disaster Protection Act of 1973, and not as
 
 #### Amendments
 
-1984—Subsec. (e). Pub. L. 98–479 struck out quotation marks before “$250,000”.
+<b>1984</b>—Subsec. (e). Pub. L. 98–479 struck out quotation marks before “$250,000”.
 
-1983—Subsecs. (a) to (c), (e). Pub. L. 98–181 substituted “Director” for “Secretary” and “Director's” for “Secretary's” wherever appearing.
+<b>1983</b>—Subsecs. (a) to (c), (e). Pub. L. 98–181 substituted “Director” for “Secretary” and “Director's” for “Secretary's” wherever appearing.
 
-1977—Subsec. (e). Pub. L. 95–128 added subsec. (e).
+<b>1977</b>—Subsec. (e). Pub. L. 95–128 added subsec. (e).
 
 #### Transfer of Functions
 

@@ -34,9 +34,9 @@ For purposes of this section, the terms “inspect”, “return”, and “retu
 
 #### Amendments
 
-2006—Subsec. (a)(2). Pub. L. 109–280, which directed insertion of “or under section 6104(c)” after “7213(a)(2)” in subsec. (a)(2) of section 7213A, without specifying the act to be amended, was executed by making the insertion in subsec. (a)(2) of this section, which is section 7213A of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–280, which directed insertion of “or under section 6104(c)” after “7213(a)(2)” in subsec. (a)(2) of section 7213A, without specifying the act to be amended, was executed by making the insertion in subsec. (a)(2) of this section, which is section 7213A of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
-2002—Subsec. (a)(1)(B). Pub. L. 107–210 substituted “subsection (<i>l</i>)(18) or (n) of section 6103” for “section 6103(n)”.
+<b>2002</b>—Subsec. (a)(1)(B). Pub. L. 107–210 substituted “subsection (<i>l</i>)(18) or (n) of section 6103” for “section 6103(n)”.
 
 #### Effective Date of 2006 Amendment
 

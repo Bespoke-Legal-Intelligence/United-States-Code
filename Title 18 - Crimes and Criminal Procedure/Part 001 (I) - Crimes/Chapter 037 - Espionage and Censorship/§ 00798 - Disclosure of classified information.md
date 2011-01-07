@@ -22,7 +22,7 @@ The term “foreign government” includes in its meaning any person or persons 
 
 The term “communication intelligence” means all procedures and methods used in the interception of communications and the obtaining of information from such communications by other than the intended recipients;
 
-The term “unauthorized person” means any person who, or agency which, is not authorized to receive information of the categories set forth in subsection (a) of this section, by thePresident, or by the head of a department or agency of the United States Government which is expressly designated by the President to engage in communication intelligence activities for the United States.
+The term “unauthorized person” means any person who, or agency which, is not authorized to receive information of the categories set forth in subsection (a) of this section, by the President, or by the head of a department or agency of the United States Government which is expressly designated by the President to engage in communication intelligence activities for the United States.
 
 (c) Nothing in this section shall prohibit the furnishing, upon lawful demand, of information to any regularly constituted committee of the Senate or House of Representatives of the United States of America, or joint committee thereof.
 
@@ -56,9 +56,9 @@ Another section 798 was renumbered section 798A of this title.
 
 #### Amendments
 
-1996—Subsec. (d)(5). Pub. L. 104–294 struck out “the Trust Territory of the Pacific Islands,” after “Puerto Rico,”.
+<b>1996</b>—Subsec. (d)(5). Pub. L. 104–294 struck out “the Trust Territory of the Pacific Islands,” after “Puerto Rico,”.
 
-1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in concluding provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in concluding provisions.
 
 Subsec. (d). Pub. L. 103–359 added subsec. (d).
 

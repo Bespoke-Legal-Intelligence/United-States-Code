@@ -8,7 +8,7 @@ Notice to Convening Authority of Findings and Sentence.—The findings and sente
 
 Submittal of Matters by Accused to Convening Authority.—(1) The accused may submit to the convening authority matters for consideration by the convening authority with respect to the findings and the sentence of the military commission under this chapter.
 
-(2)(A) Except as provided in subparagraph (B), a submittal under paragraph (1) shall be made in writing within 20 days after the accused hasbeen give <sup>1</sup> an authenticated record of trial under section 949<i>o</i>(c) of this title.
+(2)(A) Except as provided in subparagraph (B), a submittal under paragraph (1) shall be made in writing within 20 days after the accused has been give <sup>1</sup> an authenticated record of trial under section 949<i>o</i>(c) of this title.
 
 (B) If the accused shows that additional time is required for the accused to make a submittal under paragraph (1), the convening authority may, for good cause, extend the applicable period under subparagraph (A) for not more than an additional 20 days.
 

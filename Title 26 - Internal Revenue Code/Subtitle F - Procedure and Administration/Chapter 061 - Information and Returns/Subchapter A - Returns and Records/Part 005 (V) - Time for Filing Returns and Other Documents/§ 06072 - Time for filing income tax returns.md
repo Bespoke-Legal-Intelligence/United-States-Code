@@ -18,7 +18,7 @@ In the case of an income tax return of—
 
 &emsp;(1) an exempt cooperative association described in section 1381(a)(1), or
 
-&emsp;(2) an organization described in section 1381(a)(2) which is under an obligation to paypatronage dividends (as defined in section 1388(a)) in an amount equal to at least 50 percent of its net earnings from business done with or for its patrons, or which paid patronage dividends in such an amount out of the net earnings from business done with or for patrons during the most recent taxable year for which it had such net earnings,
+&emsp;(2) an organization described in section 1381(a)(2) which is under an obligation to pay patronage dividends (as defined in section 1388(a)) in an amount equal to at least 50 percent of its net earnings from business done with or for its patrons, or which paid patronage dividends in such an amount out of the net earnings from business done with or for patrons during the most recent taxable year for which it had such net earnings,
 
 > a return made on the basis of a calendar year shall be filed on or before the 15th day of September following the close of the calendar year, and a return made on the basis of a fiscal year shall be filed on or before the 15th day of the 9th month following the close of the fiscal year.
 
@@ -34,19 +34,19 @@ The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in
 
 #### Amendments
 
-2007—Subsec. (c). Pub. L. 110–172 substituted “a former FSC (as defined in section 922 as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)” for “a FSC or former FSC”.
+<b>2007</b>—Subsec. (c). Pub. L. 110–172 substituted “a former FSC (as defined in section 922 as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)” for “a FSC or former FSC”.
 
-1984—Subsec. (c). Pub. L. 98–369 inserted “or a FSC or former FSC” after “United States”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–369 inserted “or a FSC or former FSC” after “United States”.
 
-1978—Subsec. (e). Pub. L. 95–628 added subsec. (e).
+<b>1978</b>—Subsec. (e). Pub. L. 95–628 added subsec. (e).
 
-1976—Subsec. (e). Pub. L. 94–455, §1053(d)(3), struck out subsec. (e) which related to income tax due dates postponed in the case of China Trade Act corporations.
+<b>1976</b>—Subsec. (e). Pub. L. 94–455, §1053(d)(3), struck out subsec. (e) which related to income tax due dates postponed in the case of China Trade Act corporations.
 
 Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1971—Subsec. (b). Pub. L. 92–178 required returns of a DISC to be filed on or before the fifteenth day of the ninth month following the close of the taxable year.
+<b>1971</b>—Subsec. (b). Pub. L. 92–178 required returns of a DISC to be filed on or before the fifteenth day of the ninth month following the close of the taxable year.
 
-1962—Subsec. (d). Pub. L. 87–834 substituted provisions relating to returns by an exempt cooperative association described in section 1381(a)(1), or by an organization described in section 1381(a)(2) which is under an obligation to pay patronage dividends in an amount equal to at least 50 percent of its net earnings from business done with or for its patrons, or which paid patronage dividends in such an amount out of the net earnings from business done with or for patrons during the most recent taxable year for which it had such net earnings for provisions which related to returns of exempt cooperative associations taxable under the provisions of section 522.
+<b>1962</b>—Subsec. (d). Pub. L. 87–834 substituted provisions relating to returns by an exempt cooperative association described in section 1381(a)(1), or by an organization described in section 1381(a)(2) which is under an obligation to pay patronage dividends in an amount equal to at least 50 percent of its net earnings from business done with or for its patrons, or which paid patronage dividends in such an amount out of the net earnings from business done with or for patrons during the most recent taxable year for which it had such net earnings for provisions which related to returns of exempt cooperative associations taxable under the provisions of section 522.
 
 #### Effective Date of 1984 Amendment
 
@@ -70,5 +70,5 @@ Amendment by Pub. L. 87–834 applicable to taxable years of organizations descr
 
 #### Filing of Income Tax Returns for 1958 by Life Insurance Companies
 
-Pub. L. 86–69, §3(i), June 25, 1959, 73 Stat. 140, required every life insurance company subject to the tax imposed by section 802(a) of this title to make a return after June 25, 1959, and on or before Sept. 15, 1959, which return was to constitute the return for such taxable year for all purposes of this title, and no return filed pursuant to section 801 et seq. of this title, relating to life insurance companies, on or before June 25, 1959, was to be considered for any such purposes as a return for such taxable year.
+Pub. L. 86–69, §3(i), June 25, 1959, 73 Stat. 140, required every life insurance company subject to the tax imposed by section 802(a) of this title to make a return after June 25, 1959, and on or before Sept. 15, 1959, whichreturn was to constitute the return for such taxable year for all purposes of this title, and no return filed pursuant to section 801 et seq. of this title, relating to life insurance companies, on or before June 25, 1959, was to be considered for any such purposes as a return for such taxable year.
 

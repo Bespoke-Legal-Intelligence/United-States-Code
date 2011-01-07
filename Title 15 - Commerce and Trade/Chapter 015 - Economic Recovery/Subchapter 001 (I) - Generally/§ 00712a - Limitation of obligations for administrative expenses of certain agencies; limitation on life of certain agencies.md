@@ -8,9 +8,9 @@
 
 #### Amendments
 
-1989—Subsec. (b). Pub. L. 101–73 struck out “1. Federal Home Loan Bank Board; 2. Home Owners’ Loan Corporation;” and “11. Federal Savings and Loan Insurance Corporation;”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–73 struck out “1. Federal Home Loan Bank Board; 2. Home Owners’ Loan Corporation;” and “11. Federal Savings and Loan Insurance Corporation;”.
 
-1961—Subsec. (b). Pub. L. 87–353 struck out item 4. Federal Farm Mortgage Corporation and redesignated former items 5 to 13 as 4 to 12, respectively.
+<b>1961</b>—Subsec. (b). Pub. L. 87–353 struck out item 4. Federal Farm Mortgage Corporation and redesignated former items 5 to 13 as 4 to 12, respectively.
 
 #### Transfers of Functions and Changes in Names
 
@@ -20,7 +20,7 @@ Federal Housing Administration consolidated into National Housing Agency during 
 
 Federal Surplus Commodities Corporation, which was included in Surplus Marketing Administration by Reorg. Plan No. III of 1940, §5, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232, consolidated into Agricultural Marketing Administration by Ex. Ord. No. 9069, Feb. 23, 1942. Agricultural Marketing Administration consolidated into Food Distribution Administration of Department of Agriculture by Ex. Ord. No. 9280, Dec. 5, 1942. Food Distribution Administration consolidated into War Food Administration in Department of Agriculture by Ex. Ord. No. 9322, Mar. 26, 1943, 8 F.R. 3807, as amended by Ex. Ord. No. 9334, Apr. 19, 1943, 8 F.R. 5423. War Food Administration terminated and functions transferred to Secretary of Agriculture by Ex. Ord. No. 9577, June 29, 1945, 10 F.R. 8087. Functions of Surplus Marketing Administration transferred to Secretary of Agriculture by Reorg. Plan No. 3 of 1946, §501, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097.
 
-Export-Import Bank of Washington was set out as one of several agencies for which Federal Loan Administrator should supervise administration and be responsible for coordination of functions and activities by Reorg. Plan No. I of 1939, §402, eff. July 1, 1939, 4 F.R. 2730, 53 Stat. 1429, set out in the Appendix to Title 5, Government Organization and Employees. Bank terminated by act July 31, 1945, ch. 341, §10, 59 Stat. 529, and a new Export-Import Bank of Washington was created by such act, which is set out as chapter 6A (§635 et seq.) of Title 12, Banks and Banking. “Export-Import Bank of Washington” changed to “Export-Import Bank of the United States” to conform to such change in name in Act July 31, 1945, provided for in section 1(a) of Pub. L. 90–267, Mar. 13, 1968, 82 Stat. 47.
+Export-Import Bank of Washington was set out as one of several agencies for which Federal Loan Administrator should supervise administration and be responsible for coordination of functions and activities by Reorg. Plan No. I of 1939, §402, eff. July 1, 1939, 4 F.R. 2730, 53 Stat. 1429, set out in the Appendix to Title 5, Government Organization and Employees. Bank terminated by act July 31, 1945, ch. 341, §10, 59 Stat. 529, and a new Export-Import Bank of Washington was createdby such act, which is set out as chapter 6A (§635 et seq.) of Title 12, Banks and Banking. “Export-Import Bank of Washington” changed to “Export-Import Bank of the United States” to conform to such change in name in Act July 31, 1945, provided for in section 1(a) of Pub. L. 90–267, Mar. 13, 1968, 82 Stat. 47.
 
 Second Export-Import Bank of Washington, D.C. was established under Ex. Ord. No. 6638, Mar. 9, 1934. Its commitments were transferred to Export-Import Bank of Washington (see above) and it was abolished by Ex. Ord. No. 7365, May 7, 1936, 1 F.R. 372.
 

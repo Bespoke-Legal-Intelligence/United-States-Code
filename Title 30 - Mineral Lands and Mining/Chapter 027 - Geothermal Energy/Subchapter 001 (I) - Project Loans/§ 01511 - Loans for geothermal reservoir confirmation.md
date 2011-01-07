@@ -14,7 +14,7 @@ Subject to subsection (c) of this section and to section 1513(b) of this title, 
 
 &emsp;(3) a sale of energy or geothermal energy resources from the reservoir is made for an unreasonably low price;
 
-> except that no such imputation of revenue shall be made during the three-year period immediately following such reservoir confirmation. In the event of failure to begin production of revenue (or, where no sale of energy or geothermal energy resources is made, to begin production ofenergy for commercial use) within five years after the date of such reservoir confirmation, the Secretary may take action to recover the value, not to exceed the amount of the unpaid balance of the loan plus any accrued interest thereon, of any assets of the project in question, including resource rights.
+> except that no such imputation of revenue shall be made during the three-year period immediately following such reservoir confirmation. In the event of failure to begin production of revenue (or, where no sale of energy or geothermal energy resources is made, to begin production of energy for commercial use) within five years after the date of such reservoir confirmation, the Secretary may take action to recover the value, not to exceed the amount of the unpaid balance of the loan plus any accrued interest thereon, of any assets of the project in question, including resource rights.
 
 #### (c) Cancellation of unpaid balance and accrued interest
 

@@ -26,9 +26,9 @@ In subsec. (a), “section 10101 of title 36” substituted for “the Act entit
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–408 substituted “the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate” for “Congress” and inserted at end “The report shall include a detailed statement of the recipient, amount, and purpose of each grant made by the Foundation in the fiscal year.”
+<b>2000</b>—Subsec. (b). Pub. L. 106–408 substituted “the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate” for “Congress” and inserted at end “The report shall include a detailed statement of the recipient, amount, and purpose of each grant made by the Foundation in the fiscal year.”
 
-1988—Subsec. (b). Pub. L. 100–240 inserted “; and a description of all acquisition and disposal of real property that is subject to section 3703(e) of this title” before period at end.
+<b>1988</b>—Subsec. (b). Pub. L. 100–240 inserted “; and a description of all acquisition and disposal of real property that is subject to section 3703(e) of this title” before period at end.
 
 #### Change of Name
 

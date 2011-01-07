@@ -30,7 +30,7 @@ Authorized Absence Defined.—In this section, the term “authorized absence”
 
 #### Amendments
 
-2006—Pub. L. 109–163, §651(b)(1), substituted “Travel and transportation allowances: payment of lodging expenses at temporary duty location during authorized absence of member” for “Travel and transportation allowances: lodging expenses at temporary duty location for members on authorized leave” in section catchline.
+<b>2006</b>—Pub. L. 109–163, §651(b)(1), substituted “Travel and transportation allowances: payment of lodging expenses at temporary duty location during authorized absence of member” for “Travel and transportation allowances: lodging expenses at temporary duty location for members on authorized leave” in section catchline.
 
 Subsec. (a). Pub. L. 109–163, §651(a)(1), substituted “during an authorized absence of the member from the temporary duty location” for “while the member is in an authorized leave status”.
 

@@ -198,7 +198,7 @@ Section was enacted as part of the Water Resources Development Act of 1999, and 
 
 #### Amendments
 
-2007—Subsec. (e)(23). Pub. L. 110–114, §5005(a)(1), struck out “and” at end.
+<b>2007</b>—Subsec. (e)(23). Pub. L. 110–114, §5005(a)(1), struck out “and” at end.
 
 Subsec. (e)(29) to (33). Pub. L. 110–114, §5005(a), added pars. (29) to (33).
 
@@ -210,7 +210,7 @@ Subsec. (i)(1). Pub. L. 110–114, §5005(b), substituted “section $20,000,000
 
 &emsp;“(C) $50,000,000 for each of fiscal years 2003 through 2005”.
 
-2000—Subsec. (e)(24) to (28). Pub. L. 106–541 added pars. (24) to (28).
+<b>2000</b>—Subsec. (e)(24) to (28). Pub. L. 106–541 added pars. (24) to (28).
 
 #### Transfer of Functions
 

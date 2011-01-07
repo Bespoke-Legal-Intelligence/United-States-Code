@@ -48,7 +48,7 @@
 
 &emsp;(B) if the Federal agency does not make such payment, promptly report to the Comptroller General the reasons for the failure to follow the Comptroller General's recommendation.
 
-(4) If the Comptroller General recommends under paragraph (1) that a Federal agency pay costs to an interested party, the Federal agency and the interested party shall attempt to reach an agreement on the amount of the costs to be paid. If the Federal agency and the interestedparty are unable to agree on the amount to be paid, the Comptroller General may, upon the request of the interested party, recommend to the Federal agency the amount of the costs that the Federal agency should pay.
+(4) If the Comptroller General recommends under paragraph (1) that a Federal agency pay costs to an interested party, the Federal agency and the interested party shall attempt to reach an agreement on the amount of the costs to be paid. If the Federal agency and the interested party are unable to agree on the amount to be paid, the Comptroller General may, upon the request of the interested party, recommend to the Federal agency the amount of the costs that the Federal agency should pay.
 
 (d) Each decision of the Comptroller General under this subchapter shall be signed by the Comptroller General or a designee for that purpose. A copy of the decision shall be made available to the interested parties, the head of the procuring activity responsible for the solicitation, proposed award, or award of the contract, and the senior procurement executive of the Federal agency involved.
 
@@ -68,7 +68,7 @@
 
 (2) Not later than January 31 of each year, the Comptroller General shall transmit to the Congress a report containing a summary of each instance in which a Federal agency did not fully implement a recommendation of the Comptroller General under subsection (b) or (c) during the preceding year. The report shall also describe each instance in which a final decision in a protest was not rendered within 100 days after the date the protest is submitted to the Comptroller General.
 
-(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1201; amended Pub. L. 100–463, title VIII, §8139, Oct. 1, 1988, 102 Stat. 2270–47; Pub. L. 103–355, title I, §1403(a)–(b)(3), Oct. 13, 1994, 108 Stat. 3289, 3290; Pub. L. 104–106, div. D, title XLIII, §4321(d)(3), div. E, title LV, §5501(2), Feb. 10, 1996, 110 Stat. 674, 698; Pub. L. 111–84, div. A, title III, §327(c), Oct. 28, 2009, 123 Stat. 2255.)
+(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1201; amended Pub. L. 100–463, title VIII, §8139, Oct. 1, 1988, 102 Stat. 2270–47; Pub. L. 103–355, title I, §1403(a)–(b)(3), Oct. 13, 1994, 108 Stat. 3289, 3290; Pub. L. 104–106, div. D, title XLIII, §4321(d)(3), div. E, title LV,§5501(2), Feb. 10, 1996, 110 Stat. 674, 698; Pub. L. 111–84, div. A, title III, §327(c), Oct. 28, 2009, 123 Stat. 2255.)
 
 #### References in Text
 
@@ -76,9 +76,9 @@ Section 3(a) of the Small Business Act, referred to in subsec. (c)(2), is classi
 
 #### Amendments
 
-2009—Subsec. (b)(1)(C) to (H). Pub. L. 111–84 added subpar. (C), redesignated former subpars. (C) to (G) as (D) to (H), respectively, and substituted “, (E), and (F)” for “, and (E)” in subpar. (G).
+<b>2009</b>—Subsec. (b)(1)(C) to (H). Pub. L. 111–84 added subpar. (C), redesignated former subpars. (C) to (G) as (D) to (H), respectively, and substituted “, (E), and (F)” for “, and (E)” in subpar. (G).
 
-1996—Subsec. (a)(1). Pub. L. 104–106, §5501(2)(A), substituted “100 days” for “125 days”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–106, §5501(2)(A), substituted “100 days” for “125 days”.
 
 Subsec. (b)(2). Pub. L. 104–106, §4321(d)(3), substituted “section 3553(d)(3)(C)(i)(I)” for “section 3553(d)(2)(A)(i)”.
 
@@ -86,7 +86,7 @@ Subsec. (e)(1). Pub. L. 104–106, §5501(2)(B)(i), substituted “Government Re
 
 Subsec. (e)(2). Pub. L. 104–106, §5501(2)(B)(ii), substituted “100 days” for “125 days”.
 
-1994—Subsec. (a)(1). Pub. L. 103–355, §1403(a)(1), substituted “125 days after” for “90 working days from”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–355, §1403(a)(1), substituted “125 days after” for “90 working days from”.
 
 Subsec. (a)(2). Pub. L. 103–355, §1403(a)(2), substituted “65 days after” for “45 calendar days from”.
 
@@ -110,7 +110,7 @@ Subsec. (e). Pub. L. 103–355, §1403(b)(3), amended subsec. (e) generally. Pri
 
 “(2) Not later than January 31 of each year, the Comptroller General shall transmit to Congress a report describing each instance in which a Federal agency did not fully implement the Comptroller General's recommendations during the preceding fiscal year.”
 
-1988—Subsec. (a)(1). Pub. L. 100–463 struck out “unless the Comptroller General determines and states in writing the reasons that the specific circumstances of the protest require a longer period” after “submitted to the Comptroller General” before period at end.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–463 struck out “unless the Comptroller General determines and states in writing the reasons that the specific circumstances of the protest require a longer period” after “submitted to the Comptroller General” before period at end.
 
 #### Change of Name
 
@@ -120,21 +120,21 @@ Committee on Government Reform and Oversight of House of Representatives changed
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–84 applicable to any protest or civil action that relates to a public-private competition conducted after Oct. 28, 2009, under Office of Management and Budget Circular A–76, or any successor circular, and to a decision made after Oct. 28, 2009, to convert a function performed by Federal employees to private sector performance without a competition under Office of Management and Budget Circular A–76,see section 327(d) of Pub. L. 111–84, set out as a note under section 3551 of this title.
+Amendment by Pub. L. 111–84 applicable to any protest or civil action that relates to a public-private competition conducted after Oct. 28, 2009, under Office of Management and Budget Circular A–76, or any successor circular, and to a decision made after Oct. 28, 2009, to convert a function performed by Federal employees to private sector performance without a competition under Office of Management and Budget Circular A–76, see section 327(d) of Pub. L. 111–84, set out as a note under section 3551 of this title.
 
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by section 4321(d)(3) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by section 4321(d)(3) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2302 of Title 10, Armed Forces.
 
 Amendment by section 5501(2) of Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, div. E, title LVII, Feb. 10, 1996, 110 Stat. 702.
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of Title 10, Armed Forces.
 
 #### Effective Date
 
-Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under section 251 of Title 41, Public Contracts.
+Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under section 2302 of Title 10, Armed Forces.
 
 #### Prompt Payment of Costs Under Prior Law
 

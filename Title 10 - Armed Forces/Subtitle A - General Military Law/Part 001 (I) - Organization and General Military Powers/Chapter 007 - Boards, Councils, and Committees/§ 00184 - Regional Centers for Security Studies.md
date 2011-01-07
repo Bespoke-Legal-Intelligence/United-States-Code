@@ -54,7 +54,7 @@ Payment of Costs.—(1) Participation in activities of a Regional Center shall b
 
 (5) Funds available for the payment of personnel expenses under the Latin American cooperation authority set forth in section 1050 of this title are also available for the costs of the operation of the Center for Hemispheric Defense Studies.
 
-(6) Funds available to carry out this section, including funds accepted under paragraph (4) and funds available under paragraph (5), shall be available, to the extent provided in appropriations Acts, for programs and activities under this section that begin in a fiscal year and end in the following fiscal year.
+(6) Funds available to carry out this section, including funds accepted under paragraph (4) and funds available under paragraph (5), shall beavailable, to the extent provided in appropriations Acts, for programs and activities under this section that begin in a fiscal year and end in the following fiscal year.
 
 (g)
 
@@ -62,7 +62,7 @@ Support to Other Agencies.—The Director of a Regional Center may enter into ag
 
 (h)
 
-Annual Report.—Not later than February 1 of each year, the Secretary of Defense shallsubmit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the operation of the Regional Centers for security studies during the preceding fiscal year. The annual report shall include, for each Regional Center, the following information:
+Annual Report.—Not later than February 1 of each year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the operation of the Regional Centers for security studies during the preceding fiscal year. The annual report shall include, for each Regional Center, the following information:
 
 &emsp;(1) The status and objectives of the center.
 
@@ -76,11 +76,11 @@ Annual Report.—Not later than February 1 of each year, the Secretary of Defens
 
 #### Amendments
 
-2009—Subsec. (b)(3). Pub. L. 111–84 substituted “October 17, 2006” for “the date of the enactment of this section”.
+<b>2009</b>—Subsec. (b)(3). Pub. L. 111–84 substituted “October 17, 2006” for “the date of the enactment of this section”.
 
-2008—Subsec. (f)(6). Pub. L. 110–417 added par. (6).
+<b>2008</b>—Subsec. (f)(6). Pub. L. 110–417 added par. (6).
 
-2006—Pub. L. 109–364 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to notification to Congress of the establishment of new regional centers, annual report on the operation of such centers, and definition of “regional center for security studies”.
+<b>2006</b>—Pub. L. 109–364 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to notification to Congress of the establishment of new regional centers, annual report on the operation of such centers, and definition of “regional center for security studies”.
 
 Subsec. (b)(4). Pub. L. 109–163 substituted “under section 2611 of this title.” for “under any of the following provisions of law:
 
@@ -90,9 +90,9 @@ Subsec. (b)(4). Pub. L. 109–163 substituted “under section 2611 of this titl
 
 &emsp;“(C) Section 1065 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2653; 10 U.S.C. 113 note).”
 
-2003—Subsec. (b)(4). Pub. L. 108–136 struck out “foreign” before “gifts”.
+<b>2003</b>—Subsec. (b)(4). Pub. L. 108–136 struck out “foreign” before “gifts”.
 
-2001—Subsec. (a). Pub. L. 107–107 substituted “October 30, 2000,” for “the date of the enactment of this section,” in introductory provisions.
+<b>2001</b>—Subsec. (a). Pub. L. 107–107 substituted “October 30, 2000,” for “the date of the enactment of this section,” in introductory provisions.
 
 #### Effective Date of 2008 Amendment
 
@@ -100,11 +100,11 @@ Pub. L. 110–417, \[div. A\], title IX, §941(a)(2), Oct. 14, 2008, 122 Stat. 4
 
 #### Temporary Waiver of Reimbursement of Costs of Activities for Nongovernmental Personnel
 
-Pub. L. 110–417, \[div. A\], title IX, §941(b), Oct. 14, 2008, 122 Stat. 4577, provided that:
+Pub. L. 110–417, \[div. A\], title IX, §941(b), Oct. 14, 2008, 122 Stat. 4577, as amended by Pub. L. 111–383, div. A, title IX, §941, Jan. 7, 2011, 124 Stat. 4340, provided that:
 
 “(1)
 
-Authority for temporary waiver.—In fiscal years 2009 and 2010, the Secretary of Defense may, with the concurrence of the Secretary of State, waive reimbursement otherwise required under subsection (f) of section 184 of title 10, United States Code, of the costs of activities of Regional Centers under such section for personnel of nongovernmental and international organizations who participate in activities of the Regional Centers that enhance cooperation of nongovernmental organizations and international organizations with United States forces if the Secretary of Defense determines that attendance of such personnel without reimbursement is in the national security interests of the United States.
+Authority for temporary waiver.—In fiscal years 2009 through 2012, the Secretary of Defense may, with the concurrence of the Secretary of State, waive reimbursement otherwise required under subsection (f) of section 184 of title 10, United States Code, of the costs of activities of Regional Centers under such section for personnel of nongovernmental and international organizations who participate in activities of the Regional Centers that enhance cooperation of nongovernmental organizations and international organizations with United States forces if the Secretary of Defense determines that attendance of such personnel without reimbursement is in the national security interests of the United States.
 
 “(2)
 
@@ -112,5 +112,5 @@ Limitation.—The amount of reimbursement that may be waived under paragraph (1)
 
 “(3)
 
-Annual report.—The Secretary of Defense shall include in the annual report under section 184(h) of title 10, United States Code, in 2010 and 2011 information on the attendance of personnel of nongovernmental and international organizations in activities of the Regional Centers during the preceding fiscal year for which a waiver of reimbursement was made under paragraph (1), including information on the costs incurred by the United States for the participation of personnel of each nongovernmental or international organization that so attended.”
+Annual report.—The Secretary of Defense shall include in the annual report under section 184(h) of title 10, United States Code, in each year through 2013 information on the attendance of personnel of nongovernmental and international organizations in activities of the Regional Centers during the preceding fiscal year for which a waiver of reimbursement was made under paragraph (1), including information on the costs incurred by the United States for the participation of personnel of each nongovernmental or international organization that so attended.”
 

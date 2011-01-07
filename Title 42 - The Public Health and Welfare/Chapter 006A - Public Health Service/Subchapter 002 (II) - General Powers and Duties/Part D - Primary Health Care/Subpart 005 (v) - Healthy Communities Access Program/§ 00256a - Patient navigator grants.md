@@ -42,11 +42,7 @@ The Secretary shall require each recipient of a grant under this section to use 
 
 #### (3) Limitations on grant period
 
-&emsp;In carrying out this section, the Secretary—
-
-&emsp;&emsp;(A) shall ensure that the total period of a grant does not exceed 4 years; and
-
-&emsp;&emsp;(B) may not authorize any grant period ending after September 30, 2010.
+&emsp;In carrying out this section, the Secretary shall ensure that the total period of a grant does not exceed 4 years.
 
 #### (e) Application
 
@@ -57,6 +53,10 @@ The Secretary shall require each recipient of a grant under this section to use 
 #### (2) Contents
 
 &emsp;At a minimum, the Secretary shall require each such application to outline how the eligible entity will establish baseline measures and benchmarks that meet the Secretary's requirements to evaluate program outcomes.
+
+#### (3) Minimum core proficiencies
+
+&emsp;The Secretary shall not award a grant to an entity under this section unless such entity provides assurances that patient navigators recruited, assigned, trained, or employed using grant funds meet minimum core proficiencies, as defined by the entity that submits the application, that are tailored for the main focus or intervention of the navigator involved.
 
 #### (f) Uniform baseline measures
 
@@ -114,17 +114,31 @@ In this section:
 
 #### (1) In general
 
-&emsp;To carry out this section, there are authorized to be appropriated $2,000,000 for fiscal year 2006, $5,000,000 for fiscal year 2007, $8,000,000 for fiscal year 2008, $6,500,000 for fiscal year 2009, and $3,500,000 for fiscal year 2010.
+&emsp;To carry out this section, there are authorized to be appropriated $2,000,000 for fiscal year 2006, $5,000,000 for fiscal year 2007, $8,000,000 for fiscal year 2008, $6,500,000 for fiscal year 2009, $3,500,000 for fiscal year 2010, and such sums as may be necessary for each of fiscal years 2011 through 2015.
 
 #### (2) Availability
 
-&emsp;The amounts appropriated pursuant to paragraph (1) shall remain available for obligation through the end of fiscal year 2010.
+&emsp;The amounts appropriated pursuant to paragraph (1) shall remain available for obligation through the end of fiscal year 2015.
 
-(July 1, 1944, ch. 373, title III, §340A, as added Pub. L. 109–18, §2, June 29, 2005, 119 Stat. 340.)
+(July 1, 1944, ch. 373, title III, §340A, as added Pub. L. 109–18, §2, June 29, 2005, 119 Stat. 340; amended Pub. L. 111–148, title III, §3510, Mar. 23, 2010, 124 Stat. 537.)
 
 #### Prior Provisions
 
-A prior section 256a, act July 1, 1944, ch. 373, title III, §340A, as added Nov. 6, 1990, Pub. L. 101–527, §3, 104 Stat. 2314; amended Oct. 27, 1992, Pub. L. 102–531, title III, §309(d), 106 Stat. 3502, related to health services for residents of public housing, prior to repeal by Pub. L. 104–299, §§4(a)(3), 5, Oct. 11, 1996, 110 Stat. 3645, effective Oct. 1, 1996.
+A prior section 256a, act July 1, 1944, ch. 373, title III, §340A, as added Nov. 6, 1990, Pub. L. 101–527, §3, 104 Stat.2314; amended Oct. 27, 1992, Pub. L. 102–531, title III, §309(d), 106 Stat. 3502, related to health services for residents of public housing, prior to repeal by Pub. L. 104–299, §§4(a)(3), 5, Oct. 11, 1996, 110 Stat. 3645, effective Oct. 1, 1996.
 
 Another prior section 256a, act July 1, 1944, ch. 373, title III, §340A, as added Nov. 10, 1978, Pub. L. 95–626, title I, §106(a), 92 Stat. 3560, related to technical assistance demonstration grants and contracts, prior to repeal by Pub. L. 100–77, title VI, §601, July 22, 1987, 101 Stat. 511.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (d)(3). Pub. L. 111–148, §3510(1), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “In carrying out this section, the Secretary—
+
+&emsp;“(A) shall ensure that the total period of a grant does not exceed 4 years; and
+
+&emsp;“(B) may not authorize any grant period ending after September 30, 2010.”
+
+Subsec. (e)(3). Pub. L. 111–148, §3510(2), added par. (3).
+
+Subsec. (m)(1). Pub. L. 111–148, §3510(3)(A), substituted “$3,500,000 for fiscal year 2010, and such sums as may be necessary for each of fiscal years 2011 through 2015” for “and $3,500,000 for fiscal year 2010”.
+
+Subsec. (m)(2). Pub. L. 111–148, §3510(3)(B), substituted “2015” for “2010”.
 

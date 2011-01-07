@@ -1,6 +1,6 @@
 ### §640c–2. Effect on other laws
 
-(a) Except as specifically provided by law, eligibility for assistance under sections 640a to 640c–3 of this title shall not, by itself, preclude the eligibility of Dine�AE1 College to receive Federal financial assistance under any program authorized under the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] or any other applicable program for the benefit of institutions of higher education, community colleges, or postsecondary educational institutions.
+(a) Except as specifically provided by law, eligibility for assistance under sections 640a to 640c–3 of this title shall not, by itself, preclude the eligibility of Dine�AE1 College to receive Federal financial assistance under any program authorized under the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.\] or any other applicable program for the benefit of institutions of higher education, community colleges, or postsecondary educational institutions.
 
 (b) Notwithstanding any other provision of law, funds provided under sections 640a to 640c–3 of this title to Dine�AE1 College may be treated as non-Federal, private funds of the College for purposes of any provision of Federal law which requires that non-Federal or private funds of the College be used in a project or for a specific purpose.
 
@@ -8,7 +8,7 @@
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Codification
 
@@ -16,11 +16,11 @@ Section was not enacted as part of act Apr. 19, 1950, ch. 92, 64 Stat. 44, which
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–315, §946(e)(1), substituted “Dine�AE1 College” for “the Navajo Community College”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §946(e)(1), substituted “Dine�AE1 College” for “the Navajo Community College”.
 
 Subsec. (b). Pub. L. 110–315 substituted “Dine�AE1 College” for “the Navajo Community College” and “College be used” for “college be used”.
 
-1988—Pub. L. 100–297 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1988</b>—Pub. L. 100–297 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1988 Amendment
 

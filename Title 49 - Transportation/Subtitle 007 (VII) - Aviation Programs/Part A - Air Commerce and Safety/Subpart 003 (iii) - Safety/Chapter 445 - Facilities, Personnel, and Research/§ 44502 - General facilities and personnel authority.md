@@ -36,7 +36,7 @@ Improvements on leased properties.—The Administrator may make improvements to 
 
 (b)
 
-Certification of Necessity.—Except for Government money expended under this part or for a military purpose, Government money may be expended to acquire, establish, construct, operate, repair, alter, or maintain an air navigation facility only if the Administrator of the Federal Aviation Administration certifies in writing that the facility is reasonably necessary for use in air commerce or for the national defense. An interested person may apply for a certificate for a facility to be acquired, established,constructed, operated, repaired, altered, or maintained by or for the person.
+Certification of Necessity.—Except for Government money expended under this part or for a military purpose, Government money may be expended to acquire, establish, construct, operate, repair, alter, or maintain an air navigation facility only if the Administrator of the Federal Aviation Administration certifies in writing that the facility is reasonably necessary for use in air commerce or for the national defense. An interested person may apply for a certificate for a facility to be acquired, established, constructed, operated, repaired, altered, or maintained by or for the person.
 
 (c)
 
@@ -48,7 +48,7 @@ Ensuring Conformity With Plans and Policies.—(1) To ensure conformity with pla
 
 Public Use and Emergency Assistance.—(1) The head of a department, agency, or instrumentality of the Government having jurisdiction over an air navigation facility owned or operated by the Government may provide, under regulations the head of the department, agency, or instrumentality prescribes, for public use of the facility.
 
-(2) The head of a department, agency, or instrumentality of the Government having jurisdiction over an airport or emergency landing field owned or operated by the Government may provide, under regulations the head of the department, agency, or instrumentality prescribes, for assistance, and the sale of fuel, oil, equipment, and supplies, to an aircraft, but only when necessary, because of an emergency, to allow the aircraft to continue to the nearest airport operated by private enterprise. The head of the department, agency, or instrumentality shall provide for the assistance and sale at the prevailing local fair market value as determined by the head of the department, agency, or instrumentality. An amount that the head decides is equal to the cost of the assistance provided and the fuel, oil, equipment, and supplies sold shall be credited to the appropriation from which the cost was paid. The balance shall be credited to miscellaneous receipts.
+(2) The head of a department, agency, or instrumentality of the Government having jurisdiction over an airport or emergency landing field owned or operated by the Government may provide, under regulations the head of the department, agency, or instrumentality prescribes, for assistance, and the sale of fuel, oil, equipment, and supplies, to an aircraft, but only when necessary, because of an emergency, to allow the aircraft to continue to the nearest airport operated by private enterprise. The head of the department, agency, or instrumentality shall provide for the assistance and sale at the prevailing local fair market value as determined by the head of the department, agency, or instrumentality. An amount that the head decidesis equal to the cost of the assistance provided and the fuel, oil, equipment, and supplies sold shall be credited to the appropriation from which the cost was paid. The balance shall be credited to miscellaneous receipts.
 
 (e)
 
@@ -182,11 +182,11 @@ This strikes 49:44502(e) and redesignates 49:44502(f) as 49:44502(e) because of 
 
 #### Amendments
 
-2000—Subsec. (a)(4)(B). Pub. L. 106–181, §153, substituted “each of fiscal years 2000 through 2002” for “each of fiscal years 1995 and 1996” and inserted “under new or existing contracts” after “including acquisition”.
+<b>2000</b>—Subsec. (a)(4)(B). Pub. L. 106–181, §153, substituted “each of fiscal years 2000 through 2002” for “each of fiscal years 1995 and 1996” and inserted “under new or existing contracts” after “including acquisition”.
 
 Subsec. (a)(5). Pub. L. 106–181, §712, added par. (5).
 
-1996—Subsec. (c)(1). Pub. L. 104–287, §5(75)(A), substituted “To ensure” for “To ensure that”.
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–287, §5(75)(A), substituted “To ensure” for “To ensure that”.
 
 Subsecs. (e), (f). Pub. L. 104–287, §5(75)(B), redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows:
 
@@ -194,7 +194,7 @@ Subsecs. (e), (f). Pub. L. 104–287, §5(75)(B), redesignated subsec. (f) as (e
 
 Consent of Congress.—Congress consents to a State making an agreement, not in conflict with a law of the United States, with another State to develop or operate an airport facility.”
 
-1994—Subsec. (a)(4). Pub. L. 103–305 added par. (4).
+<b>1994</b>—Subsec. (a)(4). Pub. L. 103–305 added par. (4).
 
 Subsec. (b). Pub. L. 103–429 inserted “Government” before “money may be expended”.
 
@@ -282,7 +282,7 @@ Pub. L. 103–331, title III, §317, Sept. 30, 1994, 108 Stat. 2491, repealed by
 
 #### Cost Savings Associated With Purchase
 
-Section 120(b) of Pub. L. 103–305 provided that: “Notwithstanding other provisions of law or regulations to the contrary, the Administrator \[of the Federal Aviation Administration\] shall establish, within 120 days after the date of the enactment of this Act \[Aug. 23, 1994\], a process through which airport sponsors may take advantage of cost savings associated with the purchase and installation of instrument landing systems, along with associated equipment, under existing or future Federal Aviation Administration contracts. The process established by the Administrator may provide for the direct reimbursement (including administrative costs) of the Administrator by an airport sponsor using grants funds under subchapter I of chapter 471 of subtitle VII of title 49, United States Code, relating to airport improvement, for the ordering of such equipment and installation or for the direct ordering of such equipment and installation by an airport sponsor, using such grant funds, from the suppliers with which the Administrator has contracted.”
+Section 120(b) of Pub. L. 103–305 provided that: “Notwithstanding other provisions of law or regulations tothe contrary, the Administrator \[of the Federal Aviation Administration\] shall establish, within 120 days after the date of the enactment of this Act \[Aug. 23, 1994\], a process through which airport sponsors may take advantage of cost savings associated with the purchase and installation of instrument landing systems, along with associated equipment, under existing or future Federal Aviation Administration contracts. The process established by the Administrator may provide for the direct reimbursement (including administrative costs) of the Administrator by an airport sponsor using grants funds under subchapter I of chapter 471 of subtitle VII of title 49, United States Code, relating to airport improvement, for the ordering of such equipment and installation or for the direct ordering of such equipment and installation by an airport sponsor, using such grant funds, from the suppliers with which the Administrator has contracted.”
 
 #### Grandfather Provision for FAA Demonstration Project
 

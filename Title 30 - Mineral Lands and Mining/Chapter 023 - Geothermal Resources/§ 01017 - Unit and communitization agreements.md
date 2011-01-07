@@ -28,7 +28,7 @@
 
 The Secretary may—
 
-&emsp;(1) provide that geothermal leases issued under this chapter shall contain a provisionrequiring the lessee to operate under a unit agreement; and
+&emsp;(1) provide that geothermal leases issued under this chapter shall contain a provision requiring the lessee to operate under a unit agreement; and
 
 &emsp;(2) prescribe the unit agreement under which the lessee shall operate, which shall adequately protect the rights of all parties in interest, including the United States.
 
@@ -42,7 +42,7 @@ Any land that is subject to a unit agreement approved or prescribed by the Secre
 
 #### (e) Pooling of certain land
 
-If separate tracts of land cannot be independently developed and operated to use geothermal resources pursuant to any section of this chapter—
+If separate tracts of land cannot be independently developed and operated to use geothermalresources pursuant to any section of this chapter—
 
 &emsp;(1) the land, or a portion of the land, may be pooled with other land, whether or not owned by the United States, for purposes of development and operation under a communitization agreement providing for an apportionment of production or royalties among the separate tracts of land comprising the production unit, if the pooling is determined by the Secretary to be in the public interest; and
 
@@ -88,7 +88,7 @@ The Secretary shall coordinate unitization and pooling activities with appropria
 
 #### Amendments
 
-2005—Pub. L. 109–58 inserted section catchline and amended text generally. Prior to amendment, text related to cooperative or unit plan of development or operation of geothermal pool, field, or like area, public interest, determination and certification, regulations, protection of parties in interest, authority respecting rate of prospecting, development, and production, five year review, and leases excepted from control for purposes of State acreage limitation.
+<b>2005</b>—Pub. L. 109–58 inserted section catchline and amended text generally. Prior to amendment, text related to cooperative or unit plan of development or operation of geothermal pool, field, or like area, public interest, determination and certification, regulations, protection of parties in interest, authority respecting rate of prospecting, development, and production, five year review, and leases excepted from control for purposes of State acreage limitation.
 
-1988—Pub. L. 100–443, §4, inserted provisions relating to five year review of plans and elimination of leases from plans.
+<b>1988</b>—Pub. L. 100–443, §4, inserted provisions relating to five year review of plans and elimination of leases from plans.
 

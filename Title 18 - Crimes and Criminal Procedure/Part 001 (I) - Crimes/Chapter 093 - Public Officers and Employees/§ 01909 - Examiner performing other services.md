@@ -18,7 +18,7 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not more than $5,000”.
 
 Pub. L. 103–322, §330004(12), inserted “or” before “farm credit examiner” and struck out “or an examiner of National Agricultural Credit Corporations,” before “performs any other service”.
 

@@ -22,11 +22,11 @@
 
 #### Amendments
 
-2006—Subsec. (c)(6). Pub. L. 109–364 substituted “Advisor to” for “Advisor for”.
+<b>2006</b>—Subsec. (c)(6). Pub. L. 109–364 substituted “Advisor to” for “Advisor for”.
 
 Pub. L. 109–163 added par. (6).
 
-1996—Pub. L. 104–201, §603(b)(1), substituted “Pay of senior enlisted members during terminal leave and while hospitalized” for “Pay of the senior noncommissioned officer of an armed force during terminal leave” in section catchline.
+<b>1996</b>—Pub. L. 104–201, §603(b)(1), substituted “Pay of senior enlisted members during terminal leave and while hospitalized” for “Pay of the senior noncommissioned officer of an armed force during terminal leave” in section catchline.
 
 Subsecs. (b), (c). Pub. L. 104–201, §603(a), added subsec. (b) and redesignated former subsec. (b) as (c).
 

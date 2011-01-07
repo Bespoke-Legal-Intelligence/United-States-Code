@@ -12,9 +12,9 @@ Provisions similar to this section were contained in section 1816(a), (b) of thi
 
 #### Amendments
 
-2004—Pub. L. 108–458 designated existing provisions as subsec. (a), struck out “, 2122,” after “2077”, and added subsec. (b).
+<b>2004</b>—Pub. L. 108–458 designated existing provisions as subsec. (a), struck out “, 2122,” after “2077”, and added subsec. (b).
 
-1969—Pub. L. 91–161 increased maximum term of imprisonment from five years to ten years for willful violation, or attempted violation of enumerated sections, and struck out applicability of death penalty for violation of same offenses committed with intent to injure the United States, or secure an advantage to any foreign nation.
+<b>1969</b>—Pub. L. 91–161 increased maximum term of imprisonment from five years to ten years for willful violation, or attempted violation of enumerated sections, and struck out applicability of death penalty for violation of same offenses committed with intent to injure the United States, or secure an advantage to any foreign nation.
 
 #### Effective Date of 1969 Amendment
 

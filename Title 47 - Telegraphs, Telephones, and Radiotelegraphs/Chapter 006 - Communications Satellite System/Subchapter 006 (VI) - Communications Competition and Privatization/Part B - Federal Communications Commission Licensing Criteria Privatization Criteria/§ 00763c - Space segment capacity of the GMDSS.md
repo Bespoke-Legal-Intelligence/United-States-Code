@@ -6,5 +6,5 @@ The United States shall preserve the space segment capacity of the GMDSS. This s
 
 #### Amendments
 
-2005—Pub. L. 109–34 amended section catchline and text generally, substituting provisions relating to space segment capacity of the GMDSS for provisions relating to specific criteria for Inmarsat privatization.
+<b>2005</b>—Pub. L. 109–34 amended section catchline and text generally, substituting provisions relating to space segment capacity of the GMDSS for provisions relating to specific criteria for Inmarsat privatization.
 

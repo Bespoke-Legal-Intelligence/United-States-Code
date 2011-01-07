@@ -20,9 +20,9 @@ Section was previously classified to section 212 of former Title 49, Transportat
 
 #### Amendments
 
-1958—Subsecs. (b), (c). Pub. L. 85–726, §1402(a), substituted “Administrator of the Federal Aviation Agency” for “Civil Aeronautics Authority”.
+<b>1958</b>—Subsecs. (b), (c). Pub. L. 85–726, §1402(a), substituted “Administrator of the Federal Aviation Agency” for “Civil Aeronautics Authority”.
 
-1938—Subsecs. (b), (c). Act June 23, 1938, substituted “Civil Aeronautics Authority” for “Secretary of Commerce”.
+<b>1938</b>—Subsecs. (b), (c). Act June 23, 1938, substituted “Civil Aeronautics Authority” for “Secretary of Commerce”.
 
 #### Change of Name
 

@@ -74,7 +74,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 &emsp;(ii) not less than 10 percent be provided to applicants who are mental health professionals (other than applicants described in clause (i)).
 
-(B) The requirements specified in clause (i) or clause (ii) of subparagraph (A) shall not apply ifthe Secretary does not receive the number of applications from the individuals described in clause (i) or clause (ii), respectively, necessary to meet such requirements.
+(B) The requirements specified in clause (i) or clause (ii) of subparagraph (A) shall not apply if the Secretary does not receive the number of applications from the individuals described in clause (i) or clause (ii), respectively, necessary to meet such requirements.
 
 #### (e) Approval
 
@@ -212,7 +212,7 @@ The Secretary, in assigning individuals to serve in Indian health programs pursu
 
 (1) Any obligation of an individual under the Loan Repayment Program for service or payment of damages shall be canceled upon the death of the individual.
 
-(2) The Secretary shall by regulation provide for the partial or total waiver or suspension ofany obligation of service or payment by an individual under the Loan Repayment Program whenever compliance by the individual is impossible or would involve extreme hardship to the individual and if enforcement of such obligation with respect to any individual would be unconscionable.
+(2) The Secretary shall by regulation provide for the partial or total waiver or suspension of any obligation of service or payment by an individual under the Loan Repayment Program whenever compliance by the individual is impossible or would involve extreme hardship to the individual and if enforcement of such obligation with respect to any individual would be unconscionable.
 
 (3) The Secretary may waive, in whole or in part, the rights of the United States to recover amounts under this section in any case of extreme hardship or other good cause shown, as determined by the Secretary.
 
@@ -238,7 +238,7 @@ The Secretary shall submit to the President, for inclusion in each report requir
 
 &emsp;(8) the measures the Secretary plans to take to fill the health professional positions maintained by the Service or by tribes or tribal or Indian organizations for which recruitment or retention is difficult.
 
-(Pub. L. 94–437, title I, §108, as added Pub. L. 100–713, title I, §108, Nov. 23, 1988, 102 Stat. 4789; amended Pub. L. 102–573, title I, §§106(a)–(g)(1), (h), (i), 117(b)(3), title IX, §902(2)(C), (D), Oct. 29, 1992, 106 Stat. 4535–4537, 4544, 4591.)
+(Pub. L. 94–437, title I, §108, as added Pub. L. 100–713, title I, §108, Nov. 23, 1988, 102 Stat. 4789;amended Pub. L. 102–573, title I, §§106(a)–(g)(1), (h), (i), 117(b)(3), title IX, §902(2)(C), (D), Oct. 29, 1992, 106 Stat. 4535–4537, 4544, 4591.)
 
 #### References in Text
 
@@ -250,7 +250,7 @@ Section 254d(i)(4) of title 42, referred to in subsec. (a)(2)(B), was redesignat
 
 #### Amendments
 
-1992—Subsec. (a)(1). Pub. L. 102–573, §106(a)(1), substituted “health professionals” for “physicians, dentists, nurses, nurse practitioners, physician assistants, clinical and counseling psychologists, graduates of schools of public health, graduates of schools of social work, and other health professionals”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–573, §106(a)(1), substituted “health professionals” for “physicians, dentists, nurses, nurse practitioners, physician assistants, clinical and counseling psychologists, graduates of schools of public health, graduates of schools of social work, and other health professionals”.
 
 Subsec. (b)(1)(A)(i). Pub. L. 102–573, §106(a)(2)(A)(i), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “as a full-time student in the final year of a course of study or program in an accredited institution, as determined by the Secretary, within any State; or”.
 
@@ -276,7 +276,7 @@ Subsec. (e)(2)(A). Pub. L. 102–573, §106(d), inserted “, including extensi
 
 Subsec. (g)(1). Pub. L. 102–573, §106(e), in introductory provisions, substituted “loans received by the individual regarding the undergraduate or graduate education of the individual (or both), which loans were made for” for “loans received by the individual for”.
 
-Subsec. (g)(2)(A). Pub. L. 102–573, §106(f), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Except as provided in subparagraph (B) and paragraph (3), for each year of obligated service for which an individual contracts to serve under subsection (f) of this section, the Secretary may pay up to$25,000 on behalf of the individual for loans described in paragraph (1).”
+Subsec. (g)(2)(A). Pub. L. 102–573, §106(f), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Except as provided in subparagraph (B) and paragraph (3), for each year of obligated service for which an individual contracts to serve under subsection (f) of this section, the Secretary may pay up to $25,000 on behalf of the individual for loans described in paragraph (1).”
 
 Subsec. (g)(3). Pub. L. 102–573, §106(g)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In addition to payments made under paragraph (2), in any case in which payments on behalf of an individual under the Loan Repayment Program result in an increase in Federal, State, or local income tax liability for such individual, the Secretary may, on the request of such individual, make payments to such individual in a reasonable amount, as determined by the Secretary, to reimburse such individual for all or part of the increased tax liability of the individual.”
 

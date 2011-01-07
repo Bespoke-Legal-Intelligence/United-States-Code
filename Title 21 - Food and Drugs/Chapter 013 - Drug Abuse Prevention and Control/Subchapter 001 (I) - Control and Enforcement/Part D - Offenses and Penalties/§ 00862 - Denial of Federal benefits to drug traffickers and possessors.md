@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(iv) any combination of clause (i), (ii), or (iii); and
 
-&emsp;(B) upon a second or subsequent conviction for such an offense be ineligible for all Federal benefits for up to 5 years after such conviction as determined by the court. The court shall continue to have the discretion in subparagraph (A) above. In imposing penalties and conditions under subparagraph (A), the court may require that the completion of the conditions imposed by clause (ii) or (iii) be a requirement for the reinstatement of benefits under clause (i).
+&emsp;(B) upon a second or subsequent conviction for such an offense be ineligible for all Federalbenefits for up to 5 years after such conviction as determined by the court. The court shall continue to have the discretion in subparagraph (A) above. In imposing penalties and conditions under subparagraph (A), the court may require that the completion of the conditions imposed by clause (ii) or (iii) be a requirement for the reinstatement of benefits under clause (i).
 
 (2) The penalties and conditions which may be imposed under this subsection shall be waived in the case of a person who, if there is a reasonable body of evidence to substantiate such declaration, declares himself to be an addict and submits himself to a long-term treatment program for addiction, or is deemed to be rehabilitated pursuant to rules established by the Secretary of Health and Human Services.
 
@@ -50,7 +50,7 @@ As used in this section—
 
 &emsp;&emsp;(B) does not include any retirement, welfare, Social Security, health, disability, veterans benefit, public housing, or other similar benefit, or any other benefit for which payments or services are required for eligibility; and
 
-&emsp;(2) the term “veterans benefit” means all benefits provided to veterans, their families,or survivors by virtue of the service of a veteran in the Armed Forces of the United States.
+&emsp;(2) the term “veterans benefit” means all benefits provided to veterans, their families, or survivors by virtue of the service of a veteran in the Armed Forces of the United States.
 
 #### (e) Inapplicability of this section to Government witnesses
 
@@ -86,7 +86,7 @@ Section was classified to section 853a of this title prior to renumbering by Pub
 
 #### Amendments
 
-1990—Pub. L. 101–647, §1002(d)(1), renumbered section 853a of this title as this section.
+<b>1990</b>—Pub. L. 101–647, §1002(d)(1), renumbered section 853a of this title as this section.
 
 Subsec. (a)(1). Pub. L. 101–647, §1002(d)(2), struck out “(as such terms are defined for purposes of the Controlled Substances Act)” after “controlled substances” in introductory provisions.
 

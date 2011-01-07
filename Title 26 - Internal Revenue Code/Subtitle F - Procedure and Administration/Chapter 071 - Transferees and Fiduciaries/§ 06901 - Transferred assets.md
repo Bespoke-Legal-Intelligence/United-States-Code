@@ -2,7 +2,7 @@
 
 #### (a) Method of collection
 
-The amounts of the following liabilities shall, except as hereinafter in this section provided, beassessed, paid, and collected in the same manner and subject to the same provisions and limitations as in the case of the taxes with respect to which the liabilities were incurred:
+The amounts of the following liabilities shall, except as hereinafter in this section provided, be assessed, paid, and collected in the same manner and subject to the same provisions and limitations as in the case of the taxes with respect to which the liabilities were incurred:
 
 #### (1) Income, estate, and gift taxes
 
@@ -36,7 +36,7 @@ The period of limitations for assessment of any such liability of a transferee o
 
 #### (1) Initial transferee
 
-&emsp;In the case of the liability of an initial transferee, within 1 year after the expiration of the period of limitation for assessment against the transferor;
+&emsp;In the case of the liability of an initial transferee, within 1 year after the expirationof the period of limitation for assessment against the transferor;
 
 #### (2) Transferee of transferee
 
@@ -68,7 +68,7 @@ The running of the period of limitations upon the assessment of the liability of
 
 #### (g) Address for notice of liability
 
-In the absence of notice to the Secretary under section 6903 of the existence of a fiduciary relationship, any notice of liability enforceable under this section required to be mailed to such person, shall, if mailed to the person subject tothe liability at his last known address, be sufficient for purposes of this title, even if such person is deceased, or is under a legal disability, or, in the case of a corporation, has terminated its existence.
+In the absence of notice to the Secretary under section 6903 of the existence of a fiduciary relationship, any notice of liability enforceable under this section required to be mailed to such person, shall, if mailed to the person subject to the liability at his last known address, be sufficient for purposes of this title, even if such person is deceased, or is under a legal disability, or, in the case of a corporation, has terminated its existence.
 
 #### (h) Definition of transferee
 
@@ -82,9 +82,9 @@ As used in this section, the term “transferee” includes donee, heir, legatee
 
 #### Amendments
 
-1982—Subsec. (a)(1)(B). Pub. L. 97–258 substituted “section 3713(b) of title 31, United States Code” for “section 3467 of the Revised Statutes (31 U.S.C. 192)”.
+<b>1982</b>—Subsec. (a)(1)(B). Pub. L. 97–258 substituted “section 3713(b) of title 31, United States Code” for “section 3467 of the Revised Statutes (31 U.S.C. 192)”.
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

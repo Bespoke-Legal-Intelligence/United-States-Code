@@ -1,0 +1,68 @@
+### §4376. Self-insured health plans
+
+#### (a) Imposition of fee
+
+In the case of any applicable self-insured health plan for each plan year ending after September 30, 2012, there is hereby imposed a fee equal to $2 ($1 in the case of plan years ending during fiscal year 2013) multiplied by the average number of lives covered under the plan.
+
+#### (b) Liability for fee
+
+#### (1) In general
+
+&emsp;The fee imposed by subsection (a) shall be paid by the plan sponsor.
+
+#### (2) Plan sponsor
+
+&emsp;For purposes of paragraph (1) the term “plan sponsor” means—
+
+&emsp;&emsp;(A) the employer in the case of a plan established or maintained by a single employer,
+
+&emsp;&emsp;(B) the employee organization in the case of a plan established or maintained by an employee organization,
+
+&emsp;&emsp;(C) in the case of—
+
+&emsp;&emsp;&emsp;(i) a plan established or maintained by 2 or more employers or jointly by 1 or more employers and 1 or more employee organizations,
+
+&emsp;&emsp;&emsp;(ii) a multiple employer welfare arrangement, or
+
+&emsp;&emsp;&emsp;(iii) a voluntary employees’ beneficiary association described in section 501(c)(9), the association, committee, joint board of trustees, or other similar group of representatives of the parties who establish or maintain the plan, or
+
+&emsp;&emsp;(D) the cooperative or association described in subsection (c)(2)(F) in the case of a plan established or maintained by such a cooperative or association.
+
+#### (c) Applicable self-insured health plan
+
+For purposes of this section, the term “applicable self-insured health plan” means any plan for providing accident or health coverage if—
+
+&emsp;(1) any portion of such coverage is provided other than through an insurance policy, and
+
+&emsp;(2) such plan is established or maintained—
+
+&emsp;&emsp;(A) by 1 or more employers for the benefit of their employees or former employees,
+
+&emsp;&emsp;(B) by 1 or more employee organizations for the benefit of their members or former members,
+
+&emsp;&emsp;(C) jointly by 1 or more employers and 1 or more employee organizations for the benefit of employees or former employees,
+
+&emsp;&emsp;(D) by a voluntary employees’ beneficiary association described in section 501(c)(9),
+
+&emsp;&emsp;(E) by any organization described in section 501(c)(6), or
+
+&emsp;&emsp;(F) in the case of a plan not described in the preceding subparagraphs, by a multiple employer welfare arrangement (as defined in section 3(40) of Employee Retirement Income Security Act of 1974), a rural electric cooperative (as defined in section 3(40)(B)(iv) of such Act), or a rural telephone cooperative association (as defined in section 3(40)(B)(v) of such Act).
+
+#### (d) Adjustments for increases in health care spending
+
+In the case of any plan year ending in any fiscal year beginning after September 30, 2014, thedollar amount in effect under subsection (a) for such plan year shall be equal to the sum of such dollar amount for plan years ending in the previous fiscal year (determined after the application of this subsection), plus an amount equal to the product of—
+
+&emsp;(1) such dollar amount for plan years ending in the previous fiscal year, multiplied by
+
+&emsp;(2) the percentage increase in the projected per capita amount of National Health Expenditures, as most recently published by the Secretary before the beginning of the fiscal year.
+
+#### (e) Termination
+
+This section shall not apply to plan years ending after September 30, 2019.
+
+(Added Pub. L. 111–148, title VI, §6301(e)(2)(A), Mar. 23, 2010, 124 Stat. 744.)
+
+#### References in Text
+
+Section 3(40) of Employee Retirement Income Security Act of 1974, referred to in subsec. (c)(2)(F), is classified to section 1002(40) of Title 29, Labor.
+

@@ -34,9 +34,9 @@ If—
 
 In any case to which subsection (a) or (b) applies the Secretary is authorized—
 
-&emsp;(1) to allow as a deduction, credit, or allowance any part of any amount disallowed bysuch subsection, if he determines that such allowance will not result in the evasion or avoidance of Federal income tax for which the acquisition was made; or
+&emsp;(1) to allow as a deduction, credit, or allowance any part of any amount disallowed by such subsection, if he determines that such allowance will not result in the evasion or avoidance of Federal income tax for which the acquisition was made; or
 
-&emsp;(2) to distribute, apportion, or allocate gross income, and distribute, apportion, or allocate the deductions, credits, or allowances the benefit of which was sought to be secured, between or among the corporations, or properties, or parts thereof, involved, and to allow such deductions, credits, or allowances so distributed, apportioned, or allocated, but to give effect to such allowance only to such extent as he determines will not result in the evasion or avoidance of Federal income tax for which the acquisition was made; or
+&emsp;(2) to distribute, apportion, or allocate gross income, and distribute, apportion, or allocate the deductions, credits, or allowances the benefit of which was sought to be secured, between or among the corporations, or properties, or parts thereof, involved, and to allow such deductions, credits, or allowances so distributed, apportioned, or allocated, but to give effect to such allowance only to such extent as he determines will not result in the evasion oravoidance of Federal income tax for which the acquisition was made; or
 
 &emsp;(3) to exercise his powers in part under paragraph (1) and in part under paragraph (2).
 
@@ -44,13 +44,13 @@ In any case to which subsection (a) or (b) applies the Secretary is authorized�
 
 #### Amendments
 
-1984—Subsecs. (b), (c). Pub. L. 98–369 added subsec. (b), redesignated former subsec. (b) as (c) and inserted reference to subsec. (b).
+<b>1984</b>—Subsecs. (b), (c). Pub. L. 98–369 added subsec. (b), redesignated former subsec. (b) as (c) and inserted reference to subsec. (b).
 
-1976—Subsecs. (a), (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (c). Pub. L. 94–455, §1901(a)(38), struck out subsec. (c) relating to presumptions in the case of disproportionate purchase price.
 
-1964—Subsec. (a). Pub. L. 88–272 substituted “the Secretary or his delegate may disallow such deduction, credit, or other allowance” for “such deduction, credit or other allowance shall not be allowed”.
+<b>1964</b>—Subsec. (a). Pub. L. 88–272 substituted “the Secretary or his delegate may disallow such deduction, credit, or other allowance” for “such deduction, credit or other allowance shall not be allowed”.
 
 #### Effective Date of 1984 Amendment
 

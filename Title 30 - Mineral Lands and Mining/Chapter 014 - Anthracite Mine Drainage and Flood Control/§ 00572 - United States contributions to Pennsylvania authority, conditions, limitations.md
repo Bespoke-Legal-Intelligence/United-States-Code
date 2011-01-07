@@ -12,7 +12,7 @@ The total amount of contributions by the Secretary of the Interior under the aut
 
 #### (c) Limitation on use of contribution
 
-The amounts contributed by the Secretary of the Interior under the authority of this chapterand the equally matched amounts contributed by the Commonwealth shall not be used for operating and maintaining projects constructed pursuant to this chapter or for the purchase of culm, rock, or spoil banks;
+The amounts contributed by the Secretary of the Interior under the authority of this chapter and the equally matched amounts contributed by the Commonwealth shall not be used for operating and maintaining projects constructed pursuant to this chapter or for the purchase of culm, rock, or spoil banks;
 
 #### (d) Commonwealth responsible for installation and operation of projects
 
@@ -30,7 +30,7 @@ Projects for the sealing of abandoned coal mines or the filling of voids in aban
 
 #### Amendments
 
-1962—Pub. L. 87–818, §1(2), authorized the Secretary of the Interior, in the preamble clause, to seal abandoned coal mines and to fill voids in abandoned coal mines, in those instances where such work is in the interest of the public health or safety.
+<b>1962</b>—Pub. L. 87–818, §1(2), authorized the Secretary of the Interior, in the preamble clause, to seal abandoned coal mines and to fill voids in abandoned coal mines, in those instances where such work is in the interest of the public health or safety.
 
 Subsec. (b). Pub. L. 87–818, §1(3), reserved $1,500,000 of the unexpended balance remaining as of July 31, 1962, for the control and drainage of water.
 

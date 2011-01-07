@@ -10,7 +10,7 @@ The section is supplied for convenience and clarification and is based on sectio
 
 #### Improvement of Intelligence Capabilities; Directorate of Intelligence; Intelligence Career Service
 
-Pub. L. 108–458, title II, §§2001–2003, Dec. 17, 2004, 118 Stat. 3700, 3702, provided that:
+Pub. L. 108–458, title II, §§2001–2003, Dec. 17, 2004, 118 Stat. 3700, 3702, as amended by Pub. L. 111–259, title VIII, §806(b)(1), Oct. 7, 2010, 124 Stat. 2748, provided that:
 
 #### “SEC. 2001. IMPROVEMENT OF INTELLIGENCE CAPABILITIES OF THE FEDERAL BUREAU OF INVESTIGATION.
 
@@ -28,7 +28,7 @@ Improvement of Intelligence Capabilities.—The Director of the Federal Bureau o
 
 “(c)
 
-National Intelligence Workforce.—(1) In developing and maintaining a national intelligence workforce under subsection (b), the Director of the Federal Bureau of Investigation shall, \[sic\] develop and maintain a specialized and integrated national intelligence workforce consisting of agents, analysts, linguists, and surveillance specialists who are recruited, trained, and rewarded in a manner which ensures the existence within the Federal Bureau of Investigation an institutional culture with substantial expertise in, and commitment to, the intelligence mission of the Bureau.
+National Intelligence Workforce.—(1) In developing and maintaining a national intelligence workforce under subsection (b), the Director of the Federal Bureau of Investigation shall develop and maintain a specialized and integrated national intelligence workforce consisting of agents, analysts, linguists, and surveillance specialists who are recruited, trained, and rewarded in a manner which ensures the existence within the Federal Bureau of Investigation of an institutional culture with substantial expertise in, and commitment to, the intelligence mission of the Bureau.
 
 “(2) Each agent employed by the Bureau after the date of the enactment of this Act \[Dec. 17, 2004\] shall receive basic training in both criminal justice matters and national intelligence matters.
 
@@ -60,11 +60,11 @@ Field Office Matters.—(1) In improving the intelligence capabilities of the Fe
 
 Discharge of Improvements.—(1) The Director of the Federal Bureau of Investigation shall carry out subsections (b) through (d) through the head of the Directorate of Intelligence of the Federal Bureau of Investigation.
 
-“(2) The Director of the Federal Bureau of Investigation shall carry out subsections (b) through (d) under the joint guidance of the Attorney General and the National Intelligence Director in a manner consistent with section 112(e) \[Pub. L. 108–458 does not contain a section 112(e)\].
+“(2) The Director of the Federal Bureau of Investigation shall carry out subsections (b) through (d) under the joint guidance of the Attorney General and the Director of National Intelligence in a manner consistent with applicable law.
 
 “(f)
 
-Budget Matters.—The Director of the Federal Bureau of Investigation shall, \[sic\] establish a budget structure of the Federal Bureau of Investigation to reflect the four principal missions of the Bureau as follows:
+Budget Matters.—The Director of the Federal Bureau of Investigation shall establish a budget structure of the Federal Bureau of Investigation to reflect the four principal missions of the Bureau as follows:
 
 &emsp;“(1) Intelligence.
 
@@ -88,7 +88,7 @@ Reports.—(1) Not later than 180 days after the date of the enactment of this A
 
 “(a)
 
-Directorate of Intelligence of Federal Bureau of Investigation.—The element of the FederalBureau of Investigation known as of the date of the enactment of this Act \[Dec. 17, 2004\] as the Office of Intelligence is hereby redesignated as the Directorate of Intelligence of the Federal Bureau of Investigation.
+Directorate of Intelligence of Federal Bureau of Investigation.—The element of the Federal Bureau of Investigation known as of the date of the enactment of this Act \[Dec. 17, 2004\] as the Office of Intelligence is hereby redesignated as the Directorate of Intelligence of the Federal Bureau of Investigation.
 
 “(b)
 

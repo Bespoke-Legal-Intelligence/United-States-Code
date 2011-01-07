@@ -10,7 +10,7 @@
 
 &emsp;(A) a review of activities under sections 717(b)–(d) and 731(e)(2) of this title, including recommendations under section 717(c) of this title;
 
-&emsp;(B) information on carrying out duties and powers of the Comptroller General under clauses (A) and (C) of this paragraph, subsections (g) and (h) <sup>1</sup> of this section, and sections 717, 731(e)(2), 734, 1112, and 1113 of this title; and
+&emsp;(B) information on carrying out duties and powers of the Comptroller General underclauses (A) and (C) of this paragraph, subsections (g) and (h) <sup>1</sup> of this section, and sections 717, 731(e)(2), 734, 1112, and 1113 of this title; and
 
 &emsp;(C) the name of each officer and employee of the Government Accountability Office assigned or detailed to a committee of Congress, the committee to which the officer or employee is assigned or detailed, the length of the period of assignment or detail, a statement on whether the assignment or detail is finished or continuing, and compensation paid out of appropriations available to the Comptroller General for the period of the assignment or detail that has been completed.
 
@@ -184,11 +184,11 @@ Subsections (g) and (h) of this section, referred to in subsec. (b)(1)(B), were 
 
 #### Amendments
 
-2004—Subsec. (b)(1)(C), (3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b)(1)(C), (3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1997—Subsec. (b)(3). Pub. L. 105–85 added par. (3).
+<b>1997</b>—Subsec. (b)(3). Pub. L. 105–85 added par. (3).
 
-1996—Subsecs. (d) to (i). Pub. L. 104–316 redesignated subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsec. (d) which read as follows: “The Comptroller General shall report each year to the Committees on Finance and Governmental Affairs of the Senate, the Committees on Ways and Means and Government Operations of the House of Representatives, and the Joint Committee on Taxation. Each report shall include—
+<b>1996</b>—Subsecs. (d) to (i). Pub. L. 104–316 redesignated subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsec. (d) which read as follows: “The Comptroller General shall report each year to the Committees on Finance and Governmental Affairs of the Senate, the Committees on Ways and Means and Government Operations of the House of Representatives, and the Joint Committee on Taxation. Each report shall include—
 
 &emsp;“(1) procedures and requirements the Comptroller General, the Commissioner of Internal Revenue, and the Director of the Bureau of Alcohol, Tobacco, and Firearms, prescribe to protect the confidentiality of returns and return information made available to the Comptroller General under section 713(b)(1) of this title;
 
@@ -204,7 +204,7 @@ Committee on Government Operations of House of Representatives treated as referr
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsecs. (a) and (g)(2) (1st sentence) of this section are listed on pages 9 and 7, respectively), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed inHouse Document No. 103–7 (in which certain reporting requirements under subsecs. (a) and (g)(2) (1st sentence) of this section are listed on pages 9 and 7, respectively), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
 
 #### Reporting Requirements
 
@@ -272,7 +272,7 @@ Annual Reports.—The Comptroller General shall include in each report submitted
 
 &emsp;&emsp;&emsp;“(ii) whether a disproportionate number or percentage of preference eligibles were in fact released pursuant to reductions in force under such amendment; and
 
-&emsp;&emsp;&emsp;“(iii) to the extent that either of the foregoing is answered in the affirmative, the reasons for thedisproportionate impact involved (particularly, whether such amendment caused or contributed to the disproportionate impact involved); and
+&emsp;&emsp;&emsp;“(iii) to the extent that either of the foregoing is answered in the affirmative, the reasons for the disproportionate impact involved (particularly, whether such amendment caused or contributed to the disproportionate impact involved); and
 
 &emsp;“(2) recommendations for any legislation which the Comptroller General considers appropriate with respect to any of those sections.
 

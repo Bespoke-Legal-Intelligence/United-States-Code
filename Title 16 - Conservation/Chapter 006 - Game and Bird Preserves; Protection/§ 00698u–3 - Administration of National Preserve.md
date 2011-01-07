@@ -36,7 +36,7 @@ The Preserve shall be a unit of the National Park System for all purposes, inclu
 
 #### (2) Donations
 
-&emsp;The Secretary may accept, retain, and expend donations of funds, property (other than real property), or services from individuals, foundations, corporations, or public entities for the purposes of providing programs, services, facilities, or technical assistance that further the purposes of sections 698u to 698u–7 of this title.
+&emsp;The Secretary may accept, retain, and expend donations of funds, property (other thanreal property), or services from individuals, foundations, corporations, or public entities for the purposes of providing programs, services, facilities, or technical assistance that further the purposes of sections 698u to 698u–7 of this title.
 
 #### (g) General management plan
 
@@ -72,7 +72,7 @@ The Preserve shall be a unit of the National Park System for all purposes, inclu
 
 &emsp;&emsp;(G) Provisions requiring the Secretary to honor each valid existing oil and gas lease for lands within the boundaries of the Preserve (as described in section 698u–2(b) of this title) that is in effect on November 12, 1996.
 
-&emsp;&emsp;(H) Provisions requiring the Secretary to offer to enter into an agreement with eachindividual who, as of November 12, 1996, holds rights for cattle grazing within the boundaries of the Preserve (as described in section 698u–2(b) of this title).
+&emsp;&emsp;(H) Provisions requiring the Secretary to offer to enter into an agreement with each individual who, as of November 12, 1996, holds rights for cattle grazing within the boundaries of the Preserve (as described in section 698u–2(b) of this title).
 
 #### (4) Hunting and fishing
 
@@ -90,7 +90,7 @@ The Federal Tort Claims Act, referred to in subsec. (d)(1), is title IV of act A
 
 #### Amendments
 
-2000—Subsec. (d)(1). Pub. L. 106–176, §122(3)(A), made technical amendment to reference in original act which appears in text as reference to sections 698u to 698u–7 of this title.
+<b>2000</b>—Subsec. (d)(1). Pub. L. 106–176, §122(3)(A), made technical amendment to reference in original act which appears in text as reference to sections 698u to 698u–7 of this title.
 
 Subsec. (g)(3)(A). Pub. L. 106–176, §122(3)(B), substituted “the tallgrass prairie” for “the tall grass prairie”.
 

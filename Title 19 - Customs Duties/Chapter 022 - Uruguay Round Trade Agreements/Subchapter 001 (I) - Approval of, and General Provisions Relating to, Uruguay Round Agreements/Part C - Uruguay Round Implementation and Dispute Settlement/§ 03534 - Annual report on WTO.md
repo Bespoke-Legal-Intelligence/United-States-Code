@@ -12,7 +12,7 @@ Not later than March 1 of each year beginning in 1996, the Trade Representative 
 
 &emsp;(5) each report issued by a panel or the Appellate Body in a dispute settlement proceeding regarding Federal or State law, and any efforts by the Trade Representative to provide for implementation of the recommendations contained in a report that is adverse to the United States;
 
-&emsp;(6) each proceeding before a panel or the Appellate Body that was initiated during that fiscal year regarding Federal or State law, the status of the proceeding, and the matter at issue;
+&emsp;(6) each proceeding before a panel or the Appellate Body that was initiated during that fiscal year regarding Federal or State law, thestatus of the proceeding, and the matter at issue;
 
 &emsp;(7) the status of consultations with any State whose law was the subject of a report adverse to the United States that was issued by a panel or the Appellate Body; and
 

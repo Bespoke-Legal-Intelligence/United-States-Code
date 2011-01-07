@@ -24,7 +24,7 @@ In General.—Each State rail plan shall, at a minimum, contain the following:
 
 &emsp;(10) A performance evaluation of passenger rail services operating in the State, including possible improvements in those services, and a description of strategies to achieve those improvements.
 
-&emsp;(11) A compilation of studies and reports on high-speed rail corridor development withinthe State not included in a previous plan under this subchapter,<sup>1</sup> and a plan for funding any recommended development of such corridors in the State.
+&emsp;(11) A compilation of studies and reports on high-speed rail corridor development within the State not included in a previous plan under this subchapter,<sup>1</sup> and a plan for funding any recommended development of such corridors in the State.
 
 &emsp;(12) A statement that the State is in compliance with the requirements of section 22102.
 

@@ -6,5 +6,5 @@ The head of any Federal agency is authorized to consult with and provide technic
 
 #### Amendments
 
-1983—Pub. L. 98–129 amended section generally, substituting provisions authorizing Federal agency consultation with and technical assistance to the Secretary or the Commission, which were previously contained in section 1158 of this title, for provisions defining terms. See section 1151 of this title.
+<b>1983</b>—Pub. L. 98–129 amended section generally, substituting provisions authorizing Federal agency consultation with and technical assistance to the Secretary or the Commission, which were previously contained in section 1158 of this title, for provisions defining terms. See section 1151 of this title.
 

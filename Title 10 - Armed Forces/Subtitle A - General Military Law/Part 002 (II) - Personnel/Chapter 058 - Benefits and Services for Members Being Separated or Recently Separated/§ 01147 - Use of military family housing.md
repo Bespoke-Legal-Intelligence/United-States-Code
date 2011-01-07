@@ -14,15 +14,15 @@ Rental Charges.—The Secretary concerned, pursuant to such regulations, shall r
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001” in pars. (1) and (2).
+<b>2000</b>—Subsec. (a). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001” in pars. (1) and (2).
 
-1998—Subsec. (a)(1). Pub. L. 105–261, §561(j)(1), substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–261, §561(j)(1), substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
 
 Subsec. (a)(2). Pub. L. 105–261, §561(j)(2), substituted “during the period beginning on October 1, 1994, and ending on September 30, 2001” for “during the five-year period beginning on October 1, 1994”.
 
-1994—Subsec. (a). Pub. L. 103–337 designated existing provisions as par. (1) and added par. (2).
+<b>1994</b>—Subsec. (a). Pub. L. 103–337 designated existing provisions as par. (1) and added par. (2).
 
-1993—Subsec. (a). Pub. L. 103–160 substituted “nine-year period” for “five-year period”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–160 substituted “nine-year period” for “five-year period”.
 
 #### Effective Date of 1994 Amendment
 

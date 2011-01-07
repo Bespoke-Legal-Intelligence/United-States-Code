@@ -14,7 +14,7 @@ For purposes of this part, the term “determination” means—
 
 &emsp;&emsp;(B) as to items with respect to which the claim was disallowed, in whole or in part, or as to items applied by the Secretary in reduction of the refund or credit, on expiration of the time for instituting suit with respect thereto (unless suit is instituted before the expiration of such time); or
 
-&emsp;(4) under regulations prescribed by the Secretary, an agreement for purposes of this part, signed by the Secretary and by any person, relating to the liability of such person (or the person for whom he acts) in respect of a tax under this subtitle for any taxable period.
+&emsp;(4) under regulations prescribed by the Secretary, an agreement for purposes of this part, signed by the Secretary and by any person, relating to the liability of such person (or theperson for whom he acts) in respect of a tax under this subtitle for any taxable period.
 
 #### (b) Taxpayer
 
@@ -42,5 +42,5 @@ For purposes of this part, the term “related taxpayer” means a taxpayer who,
 
 #### Amendments
 
-1976—Subsec. (a)(3), (4). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (a)(3), (4). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 

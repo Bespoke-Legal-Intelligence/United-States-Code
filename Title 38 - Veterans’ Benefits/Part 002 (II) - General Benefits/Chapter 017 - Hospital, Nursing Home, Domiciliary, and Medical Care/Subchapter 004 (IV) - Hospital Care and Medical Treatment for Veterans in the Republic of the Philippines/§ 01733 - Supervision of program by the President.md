@@ -12,9 +12,9 @@ Another prior section 1733, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1198, as a
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 633 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 633 of this title as this section.
 
-1976—Pub. L. 94–581 substituted “the President” for “he” and struck out “his” before “authority”.
+<b>1976</b>—Pub. L. 94–581 substituted “the President” for “he” and struck out “his” before “authority”.
 
 #### Effective Date of 1976 Amendment
 

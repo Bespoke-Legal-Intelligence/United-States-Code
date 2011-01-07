@@ -58,7 +58,7 @@ Inspector General Investigation of Underlying Allegations.—Upon receiving an a
 
 Reports on Investigations.—(1) After completion of an investigation under subsection (c) or (d) or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(3)(E), the Inspector General conducting the investigation shall submit a report on the results of the investigation to the Secretary of Defense (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and shall transmit a copy of the report on the results of the investigation to the member of the armed forces who made the allegation investigated. The report shall be transmitted to the Secretary, and the copy of the report shall be transmitted to the member, not later than 30 days after the completion of the investigation or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(3)(E).
 
-(2) In the copy of the report transmitted to the member, the Inspector General shall ensure the maximum disclosure of information possible, with the exception of information that is not required to be disclosed under section 552 of title 5. However, the copy need not include summaries of interviews conducted, nor any document acquired, during the course of the investigation. Such items shall be transmitted to the member, if the member requests the items, with the copy of the report or after the transmittal to the member of the copy of the report, regardless of whether the request for those items ismade before or after the copy of the report is transmitted to the member.
+(2) In the copy of the report transmitted to the member, the Inspector General shall ensure the maximum disclosure of information possible, with the exception of information that is not required to be disclosed under section 552 of title 5. However, the copy need not include summaries of interviews conducted, nor any document acquired, during the course of the investigation. Such items shall be transmitted to the member, if the member requests the items, with the copy of the report or after the transmittal to the member of the copy of the report, regardless of whether the request for those items is made before or after the copy of the report is transmitted to the member.
 
 (3) If, in the course of an investigation of an allegation under this section, the Inspector General determines that it is not possible to submit the report required by paragraph (1) within 180 days after the date of receipt of the allegation being investigated, the Inspector General shall provide to the Secretary of Defense (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and to the member making the allegation a notice—
 
@@ -122,7 +122,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term “unlawful discrimination” means discrimination on the basis of race, color, religion, sex, or national origin.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 98–525, title XIV, §1405(19)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 100–456, div. A, title VIII, §846(a)(1), Sept. 29, 1988, 102 Stat. 2027; Pub. L. 101–225, title II, §202, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 103–337, div. A, title V, §531(a)–(g)(1), Oct. 5, 1994, 108 Stat. 2756–2758; Pub. L. 105–261, div. A,title IX, §933, Oct. 17, 1998, 112 Stat. 2107; Pub. L. 106–398, §1 \[\[div. A\], title IX, §903\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §591(a), Oct. 28, 2004, 118 Stat. 1933; Pub. L. 110–181, div. A, title X, §1063(a)(8), Jan. 28, 2008, 122 Stat. 322.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 98–525, title XIV, §1405(19)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 100–456, div. A, title VIII, §846(a)(1), Sept. 29, 1988, 102 Stat. 2027; Pub. L. 101–225, title II, §202, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 103–337, div. A, title V, §531(a)–(g)(1), Oct. 5, 1994, 108 Stat. 2756–2758; Pub. L. 105–261, div. A, title IX, §933, Oct. 17, 1998, 112 Stat. 2107; Pub. L. 106–398, §1 \[\[div. A\], title IX, §903\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §591(a), Oct. 28, 2004, 118 Stat. 1933; Pub. L. 110–181, div. A, title X, §1063(a)(8), Jan. 28, 2008, 122 Stat. 322.)
 
 Historical and Revision Notes
 
@@ -146,13 +146,13 @@ The Inspector General Act of 1978, referred to in subsec. (b)(1)(B)(ii), is Pub.
 
 #### Amendments
 
-2008—Subsec. (b)(2). Pub. L. 110–181 inserted “unfavorable” before “action and the withholding”.
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–181 inserted “unfavorable” before “action and the withholding”.
 
-2004—Subsec. (b)(1)(B)(iv), (v). Pub. L. 108–375 added cls. (iv) and (v) and struck out former cl. (iv) which read as follows: “any other person or organization (including any person or organization in the chain of command) designated pursuant to regulations or other established administrative procedures for such communications.”
+<b>2004</b>—Subsec. (b)(1)(B)(iv), (v). Pub. L. 108–375 added cls. (iv) and (v) and struck out former cl. (iv) which read as follows: “any other person or organization (including any person or organization in the chain of command) designated pursuant to regulations or other established administrative procedures for such communications.”
 
-2002—Subsecs. (c)(5), (e)(1), (3), (h), (i)(2)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsecs. (c)(5), (e)(1), (3), (h), (i)(2)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2000—Subsec. (c)(3)(A). Pub. L. 106–398, §1 \[\[div. A\], title IX, §903(a)\], inserted “, in accordance with regulations prescribed under subsection (h),” after “shall expeditiously determine”.
+<b>2000</b>—Subsec. (c)(3)(A). Pub. L. 106–398, §1 \[\[div. A\], title IX, §903(a)\], inserted “, in accordance with regulations prescribed under subsection (h),” after “shall expeditiously determine”.
 
 Subsec. (i)(2). Pub. L. 106–398, §1 \[\[div. A\], title IX, §903(b)(1)\], inserted “any of” after “means” in introductory provisions.
 
@@ -168,7 +168,7 @@ Subsec. (i)(2)(C) to (G). Pub. L. 106–398, §1 \[\[div. A\], title IX, §903(b
 
 “(G) An officer of the armed forces assigned or detailed under regulations of the Secretary concerned to serve as an Inspector General at any command level in one of the armed forces.”
 
-1998—Subsec. (b)(1)(B)(ii). Pub. L. 105–261, §933(f)(2), substituted “subsection (i)) or any other Inspector General appointed under the Inspector General Act of 1978” for “subsection (j))”.
+<b>1998</b>—Subsec. (b)(1)(B)(ii). Pub. L. 105–261, §933(f)(2), substituted “subsection (i)) or any other Inspector General appointed under the Inspector General Act of 1978” for “subsection (j))”.
 
 Subsec. (c)(1). Pub. L. 105–261, §933(a)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “If a member of the armed forces submits to the Inspector General of the Department of Defense (or the Inspector General of the Department of Transportation, in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) an allegation that a personnel action prohibited by subsection (b) has been taken (or threatened) against the member with respect to a communication described in paragraph (2), the Inspector General shall expeditiously investigate the allegation. If, in the case of an allegation submitted to the Inspector General of the Department of Defense, the Inspector General delegates the conduct of the investigation of the allegation to the inspector general of one of the armed forces, the Inspector General of the Department of Defense shall ensure that the inspector general conducting the investigation is outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.”
 
@@ -194,7 +194,7 @@ Subsec. (j). Pub. L. 105–261, §933(f)(1), redesignated subsec. (j) as (i).
 
 Subsec. (j)(2). Pub. L. 105–261, §933(e), substituted “means the following:” for “means—” in introductory provisions, added subpars. (A) to (F), redesignated former subpar. (B) as (G) and substituted “An officer” for “an officer” in that subpar., and struck out former subpar. (A) which read as follows: “an Inspector General appointed under the Inspector General Act of 1978; and”.
 
-1994—Pub. L. 103–337, §531(g)(1), substituted “Protected communications” for “Communicating with a Member of Congress or Inspector General” in section catchline.
+<b>1994</b>—Pub. L. 103–337, §531(g)(1), substituted “Protected communications” for “Communicating with a Member of Congress or Inspector General” in section catchline.
 
 Subsec. (b). Pub. L. 103–337, §531(a), inserted “(1)” before “No person may take”, substituted “or preparing—” for “or preparing a communication to a Member of Congress or an Inspector General that (under subsection (a)) may not be restricted.”, added subpars. (A) and (B), inserted “(2)” before “Any action prohibited”, and substituted “paragraph (1)” for “the preceding sentence”.
 
@@ -234,7 +234,7 @@ Subsecs. (h), (i). Pub. L. 103–337, §531(c)(1), redesignated subsecs. (f) and
 
 Subsec. (j). Pub. L. 103–337, §531(c)(1), (e), redesignated subsec. (h) as (j) and added par. (3).
 
-1989—Subsec. (c)(1). Pub. L. 101–225, §202(1), inserted “when the Coast Guard is not operating as a service in the Navy” after “Coast Guard”.
+<b>1989</b>—Subsec. (c)(1). Pub. L. 101–225, §202(1), inserted “when the Coast Guard is not operating as a service in the Navy” after “Coast Guard”.
 
 Subsec. (c)(5). Pub. L. 101–225, §202(2), inserted “(or to the Secretary of Transportation in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “Secretary of Defense”.
 
@@ -242,9 +242,9 @@ Subsec. (c)(6). Pub. L. 101–225, §202(3), inserted “(or to the Secretary of
 
 Subsec. (e). Pub. L. 101–225, §202(4), inserted “(except for a member or former member of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “armed forces”.
 
-1988—Pub. L. 100–456 substituted “Communicating with a Member of Congress or Inspector General; prohibition of retaliatory personnel actions” for “Communicating with a Member of Congress” in section catchline, and amended text generally. Prior to amendment, text read as follows: “No person may restrict any member of an armed force in communicating with a Member of Congress, unless the communication is unlawful or violates a regulation necessary to the security of the United States.”
+<b>1988</b>—Pub. L. 100–456 substituted “Communicating with a Member of Congress or Inspector General; prohibition of retaliatory personnel actions” for “Communicating with a Member of Congress” in section catchline, and amended text generally. Prior to amendment, text read as follows: “No person may restrict any member of an armed force in communicating with a Member of Congress, unless the communication is unlawful or violates a regulation necessary to the security of the United States.”
 
-1984—Pub. L. 98–525 substituted “Member” for “member” in section catchline and text.
+<b>1984</b>—Pub. L. 98–525 substituted “Member” for “member” in section catchline and text.
 
 #### Effective Date of 2004 Amendment
 
@@ -252,7 +252,7 @@ Pub. L. 108–375, div. A, title V, §591(b), Oct. 28, 2004, 118 Stat. 1933, pro
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1988 Amendment
 

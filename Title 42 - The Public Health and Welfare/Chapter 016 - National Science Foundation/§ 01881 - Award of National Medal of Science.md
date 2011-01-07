@@ -14,7 +14,7 @@ An individual may not be awarded the medal unless at the time such award is made
 
 &emsp;(1) is a citizen or other national of the United States; or
 
-&emsp;(2) is an alien lawfully admitted to the United States for permanent residence who (A) has filed an application for petition for naturalization in the manner prescribed by section1445(b) of title 8 and (B) is not permanently ineligible to become a citizen of the United States.
+&emsp;(2) is an alien lawfully admitted to the United States for permanent residence who (A) has filed an application for petition for naturalization in the manner prescribed by section 1445(b) of title 8 and (B) is not permanently ineligible to become a citizen of the United States.
 
 #### (d) Ceremonies
 
@@ -28,7 +28,7 @@ Section was not enacted as part of the National Science Foundation Act of 1950 w
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–516 inserted applicability to behavioral and social sciences.
+<b>1980</b>—Subsec. (a). Pub. L. 96–516 inserted applicability to behavioral and social sciences.
 
 #### Ex. Ord. No. 11287. Award and Presentation of National Medal of Science
 

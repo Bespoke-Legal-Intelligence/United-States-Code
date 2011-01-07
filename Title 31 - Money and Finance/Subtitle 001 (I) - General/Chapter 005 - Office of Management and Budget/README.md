@@ -25,11 +25,11 @@
 
 #### Amendments
 
-2002—Pub. L. 107–347, title I, §102(c)(2), Dec. 17, 2002, 116 Stat. 2910, added item 507.
+<b>2002</b>—Pub. L. 107–347, title I, §102(c)(2), Dec. 17, 2002, 116 Stat. 2910, added item 507.
 
-1990—Pub. L. 101–576, title II, §203(c), Nov. 15, 1990, 104 Stat. 2841, added items 503 and 504 and redesignated former items 503 and 504 as 505 and 506, respectively.
+<b>1990</b>—Pub. L. 101–576, title II, §203(c), Nov. 15, 1990, 104 Stat. 2841, added items 503 and 504 and redesignated former items 503 and 504 as 505 and 506, respectively.
 
-1983—Pub. L. 97–452, §1(1)(B), Jan. 12, 1983, 96 Stat. 2467, added item 504.
+<b>1983</b>—Pub. L. 97–452, §1(1)(B), Jan. 12, 1983, 96 Stat. 2467, added item 504.
 
 
 ---

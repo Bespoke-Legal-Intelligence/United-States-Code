@@ -62,9 +62,9 @@ In subsection (c)(1), the words “State or political subdivision of a State” 
 
 #### Amendments
 
-2004—Subsec. (b)(1). Pub. L. 108–458, §4027(c)(1), substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–458, §4027(c)(1), substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
 Subsec. (c)(2). Pub. L. 108–458, §4027(c)(2), substituted “Secretary of Homeland Security” for “Under Secretary of Transportation for Security”.
 
-2001—Subsec. (c)(2). Pub. L. 107–71 inserted “or the Under Secretary of Transportation for Security” after “Federal Aviation Administration”.
+<b>2001</b>—Subsec. (c)(2). Pub. L. 107–71 inserted “or the Under Secretary of Transportation for Security” after “Federal Aviation Administration”.
 

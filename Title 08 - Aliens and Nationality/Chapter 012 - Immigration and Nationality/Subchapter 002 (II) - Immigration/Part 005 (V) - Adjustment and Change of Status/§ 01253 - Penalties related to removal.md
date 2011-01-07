@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Any alien against whom a final order of removal is outstanding by reason of being amember of any of the classes described in section 1227(a) of this title, who—
+&emsp;Any alien against whom a final order of removal is outstanding by reason of being a member of any of the classes described in section 1227(a) of this title, who—
 
 &emsp;&emsp;(A) willfully fails or refuses to depart from the United States within a period of 90 days from the date of the final order of removal under administrative processes, or if judicial review is had, then from the date of the final order of the court,
 
@@ -22,7 +22,7 @@
 
 #### (3) Suspension
 
-&emsp;The court may for good cause suspend the sentence of an alien under this subsection and order the alien's release under such conditions as the court may prescribe. In determining whether good cause has been shown to justify releasing the alien, the court shall take into account such factors as—
+&emsp;The court may for good cause suspend the sentence of an alien under this subsection andorder the alien's release under such conditions as the court may prescribe. In determining whether good cause has been shown to justify releasing the alien, the court shall take into account such factors as—
 
 &emsp;&emsp;(A) the age, health, and period of detention of the alien;
 

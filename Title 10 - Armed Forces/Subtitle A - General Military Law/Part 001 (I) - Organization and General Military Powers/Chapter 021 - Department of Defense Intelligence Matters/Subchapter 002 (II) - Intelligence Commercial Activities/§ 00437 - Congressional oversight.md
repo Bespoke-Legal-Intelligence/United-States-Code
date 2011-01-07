@@ -28,13 +28,13 @@ The National Security Act of 1947, referred to in subsec. (b), is act July 26, 1
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–375 inserted “(50 U.S.C. 415b)” after “National Security Act of 1947”.
+<b>2004</b>—Subsec. (c). Pub. L. 108–375 inserted “(50 U.S.C. 415b)” after “National Security Act of 1947”.
 
-2003—Subsec. (b). Pub. L. 108–136, §1031(a)(7)(A), struck out at end “The Secretary shall promptly notify the appropriate committees of Congress whenever a corporation, partnership, or other legal entity is established pursuant to this subchapter.”
+<b>2003</b>—Subsec. (b). Pub. L. 108–136, §1031(a)(7)(A), struck out at end “The Secretary shall promptly notify the appropriate committees of Congress whenever a corporation, partnership, or other legal entity is established pursuant to this subchapter.”
 
 Subsec. (c). Pub. L. 108–136, §1031(a)(7)(B), substituted “report) the following:” for “report)—” in introductory provisions, “A” for “a” in pars. (1) to (3), a period for the semicolon at end of par. (1) and for “; and” at end of par. (2), and added par. (4).
 
-2002—Subsec. (c). Pub. L. 107–306, §811(b)(4)(A)(i), in introductory provisions, substituted “Not later each year than the date provided in section 507 of the National Security Act of 1947, the Secretary shall submit to the congressional intelligence committees (as defined in section 3 of that Act (50 U.S.C. 401a))” for “Not later than January 15 of each year, the Secretary shall submit to the appropriate committees of Congress”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–306, §811(b)(4)(A)(i), in introductory provisions, substituted “Not later each year than the date provided in section 507 of the National Security Act of 1947, the Secretary shall submit to the congressional intelligence committees (as defined in section 3 of that Act (50 U.S.C. 401a))” for “Not later than January 15 of each year, the Secretary shall submit to the appropriate committees of Congress”.
 
 Subsec. (d). Pub. L. 107–306, §811(b)(4)(A)(ii), struck out heading and text of subsec. (d). Text read as follows: “In this section, the term ‘intelligence committees’ means the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.”
 

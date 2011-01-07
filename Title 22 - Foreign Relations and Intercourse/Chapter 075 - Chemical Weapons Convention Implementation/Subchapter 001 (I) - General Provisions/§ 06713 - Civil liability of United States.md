@@ -208,3 +208,5 @@ The Foreign Assistance Act of 1961, referred to in subsec. (e)(3)(B)(vi), is Pub
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “losses”.</i>
+

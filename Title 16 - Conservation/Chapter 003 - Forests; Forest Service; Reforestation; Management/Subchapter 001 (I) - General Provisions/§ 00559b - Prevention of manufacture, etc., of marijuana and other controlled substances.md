@@ -20,7 +20,7 @@ Sections 559b to 559f of this title, referred to in text, was in the original �
 
 #### Short Title
 
-Section 15001 of title XV of Pub. L. 99–570 provided that: “This title \[enacting this section and sections 559c to 559f of this title and amending section 841 of Title 21, Food and Drugs\] may be cited as the ‘National Forest System Drug Control Act of 1986’.”
+Section 15001 of title XV of Pub. L. 99–570 provided that: “This title \[enacting this section and sections559c to 559f of this title and amending section 841 of Title 21, Food and Drugs\] may be cited as the ‘National Forest System Drug Control Act of 1986’.”
 
 #### National Forest System, National Park System, and Bureau of Land Management Public Lands Safety; Findings
 

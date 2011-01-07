@@ -54,15 +54,15 @@ In subsection (d), the words “To carry out this section” are added for clari
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–33, §11717(b), substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §11717(b), substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
 
 Subsec. (b). Pub. L. 105–33, §11244(b), substituted “and (other than the audit reports of the District of Columbia Courts) the Mayor” for “and the Mayor”.
 
-1991—Subsec. (e). Pub. L. 102–102 added subsec. (e).
+<b>1991</b>—Subsec. (e). Pub. L. 102–102 added subsec. (e).
 
 #### Change of Name
 
-Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, bySenate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 #### Effective Date of 1997 Amendment
 

@@ -68,7 +68,7 @@
 
 #### (d) Abatement of penalty where taxpayer's liability not understated
 
-If at any time there is a final administrative determination or a final judicial decision thatthere was no understatement of liability in the case of any return or claim for refund with respect to which a penalty under subsection (a) or (b) has been assessed, such assessment shall be abated, and if any portion of such penalty has been paid the amount so paid shall be refunded to the person who made such payment as an overpayment of tax without regard to any period of limitations which, but for this subsection, would apply to the making of such refund.
+If at any time there is a final administrative determination or a final judicial decision that there was no understatement of liability in the case of any return or claim for refund with respect to which a penalty under subsection (a) or (b) has been assessed, such assessment shall be abated, and if any portion of such penalty has been paid the amount so paid shall be refunded to the person who made such payment as an overpayment of tax without regard to any period of limitations which, but for this subsection, would apply to the making of such refund.
 
 #### (e) Understatement of liability defined
 
@@ -86,9 +86,9 @@ Another section 6694, relating to failure to file information with respect to ca
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–343 amended subsec. (a) generally. Prior to amendment, subsec. (a) provided penalty for understatement due to unreasonable positions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–343 amended subsec. (a) generally. Prior to amendment, subsec. (a) provided penalty for understatement due to unreasonable positions.
 
-2007—Pub. L. 110–28, §8246(a)(2)(F)(i)(I), substituted “tax return preparer” for “income tax return preparer” in section catchline.
+<b>2007</b>—Pub. L. 110–28, §8246(a)(2)(F)(i)(I), substituted “tax return preparer” for “income tax return preparer” in section catchline.
 
 Subsec. (a). Pub. L. 110–28, §8246(b), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “If—
 
@@ -116,7 +116,7 @@ Subsec. (e). Pub. L. 110–28, §8246(a)(2)(F)(i)(IV), substituted “this title
 
 Subsec. (f). Pub. L. 110–28, §8246(a)(2)(F)(i)(V), substituted “tax return preparer” for “income tax return preparer”.
 
-1989—Subsec. (a). Pub. L. 101–239, §7732(a), substituted “Understatements due to unrealistic positions” for “Negligent or intentional disregard of rules and regulations” in heading and amended text generally. Prior to amendment, text read as follows: “If any part of any understatement of liability with respect to any return or claim for refund is due to the negligent or intentional disregard of rules and regulations by any person who is an income tax return preparer with respect to such return or claim, such person shall pay a penalty of $100 with respect to such return or claim.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7732(a), substituted “Understatements due to unrealistic positions” for “Negligent or intentional disregard of rules and regulations” in heading and amended text generally. Prior to amendment, text read as follows: “If any part of any understatement of liability with respect to any return or claim for refund is due to the negligent or intentional disregard of rules and regulations by any person who is an income tax return preparer with respect to such return or claim, such person shall pay a penalty of $100 with respect to such return or claim.”
 
 Subsec. (b). Pub. L. 101–239, §7732(a), substituted “Willful or reckless conduct” for “Willful understatement of liability” in heading and amended text generally. Prior to amendment, text read as follows: “If any part of any understatement of liability with respect to any return or claim for refund is due to a willful attempt in any manner to understate the liability for a tax by a person who is an income tax return preparer with respect to such return or claim, such person shall pay a penalty of $500 with respect to such return or claim. With respect to any return or claim, the amount of the penalty payable by any person by reason of this subsection shall be reduced by the amount of the penalty paid by such person by reason of subsection (a).”
 
@@ -132,7 +132,7 @@ Pub. L. 110–343, div. C, title V, §506(b), Oct. 3, 2008, 122 Stat. 3880, prov
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–28 applicable to returns prepared after May 25, 2007, see section 8246(c) of Pub. L. 110–28, set out as a note under section 6060 of this title.
+Amendment by Pub. L. 110–28 applicable to returns prepared after May 25, 2007, see section 8246(c) of Pub.L. 110–28, set out as a note under section 6060 of this title.
 
 #### Effective Date of 1989 Amendment
 

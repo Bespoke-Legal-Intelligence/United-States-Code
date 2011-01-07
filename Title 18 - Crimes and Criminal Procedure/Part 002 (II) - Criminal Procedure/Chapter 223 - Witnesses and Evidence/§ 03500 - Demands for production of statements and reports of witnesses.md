@@ -20,7 +20,7 @@
 
 #### Amendments
 
-1970—Subsec. (a). Pub. L. 91–452, §102(a), struck out “to an agent of the Government” after “(other than the defendant)”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–452, §102(a), struck out “to an agent of the Government” after “(other than the defendant)”.
 
 Subsec. (d). Pub. L. 91–452, §102(b), substituted “subsection” for “paragraph”.
 

@@ -46,11 +46,11 @@ Under regulations prescribed by the Secretary, the amount of any patronage divid
 
 #### Amendments
 
-1976—Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (c)(2)(C). Pub. L. 94–455, §1901(b)(3)(I), substituted “ordinary income” for “gain from the sale or exchange of property which is not a capital asset”.
 
-1966—Subsec. (a)(3). Pub. L. 89–809, §211(b)(1), added par. (3).
+<b>1966</b>—Subsec. (a)(3). Pub. L. 89–809, §211(b)(1), added par. (3).
 
 Subsec. (c). Pub. L. 89–809, §211(b)(2)–(4), inserted “and certain nonqualified per-unit retain certificates” in heading, inserted provisions to par. (1) for the application of the subsection to any nonqualified per-unit retain certificates which were paid as per-unit retain allocations, and inserted references to per-unit retain certificates in par. (2).
 

@@ -10,13 +10,13 @@ Act May 4, 1906, ch. 2081, §2, 34 Stat. 169.
 
 #### Amendments
 
-1999—Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
+<b>1999</b>—Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
 
-1988—Pub. L. 100–667 inserted “or registrant's” after “applicant's” and substituted “may apply” for “may file an application”, “goods or services on or in connection with which he or she is using or has a bona fide intention to use the mark in commerce:” for “goods and services upon or in connection with which he is actually using the mark:”, and “<i>Provided</i>, That if the Commissioner by regulation permits the filing of an application for the registration of a mark for goods or services which fall” for “<i>Provided</i>, That when such goods or services fall”.
+<b>1988</b>—Pub. L. 100–667 inserted “or registrant's” after “applicant's” and substituted “may apply” for “may file an application”, “goods or services on or in connection with which he or she is using or has a bona fide intention to use the mark in commerce:” for “goods and services upon or in connection with which he is actually using the mark:”, and “<i>Provided</i>, That if the Commissioner by regulation permits the filing of an application for the registration of a mark for goods or services which fall” for “<i>Provided</i>, That when such goods or services fall”.
 
-1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
-1962—Pub. L. 87–772, among other changes, substituted “may” for “shall”.
+<b>1962</b>—Pub. L. 87–772, among other changes, substituted “may” for “shall”.
 
 #### Effective Date of 1999 Amendment
 

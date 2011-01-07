@@ -54,7 +54,7 @@ July 23, 1965, Pub. L. 89–81, §104, 79 Stat. 255.
 
 June 4, 1963, Pub. L. 88–36, §2, 77 Stat. 54; July 23, 1965, Pub. L. 89–81, §209, 79 Stat. 257; restated June 24, 1967, Pub. L. 90–29, §3, 81 Stat. 77.
 
-In subsection (a)(1), the words “With the approval of the President” are applied to 31:733(words after semicolon) because of 31:822b. The words “at home orabroad” in 31:733(words after semicolon) and 734 are omitted as surplus. The words “terms and” are omitted as included in “conditions”. The text of 31:733(proviso) is omitted as superseded by the Bretton Woods Agreement Act (22 U.S.C. 286 et seq.) and sections 6 and 9 of the Act of October 19, 1976 (Pub. L. 94–564, 90 Stat. 2661), repealing 31:449 that provided for parity of the dollar on terms of gold and special drawing rights. The text of 31:734(1st sentence words after semicolon) is omitted as surplus.
+In subsection (a)(1), the words “With the approval of the President” are applied to 31:733(words after semicolon) because of 31:822b. The words “at home or abroad” in 31:733(words after semicolon) and 734 are omitted as surplus. The words “terms and” are omitted as included in “conditions”. The text of 31:733(proviso) is omitted as superseded by the Bretton Woods Agreement Act (22 U.S.C. 286 et seq.) and sections 6 and 9 of the Act of October 19, 1976 (Pub. L. 94–564, 90 Stat. 2661), repealing 31:449 that provided for parity of the dollar on terms of gold and special drawing rights. The text of 31:734(1st sentence words after semicolon) is omitted as surplus.
 
 In subsection (b)(1), the words “coinage metal fund” are substituted for “bullion fund” in 31:335 as being more precise and because of section 5111 of the revised title. The words “after July 23, 1965” in 31:394 are omitted as executed. The words “to procure bullion for coinage” and 31:335(2d–last sentences) are omitted as obsolete because the Secretary of the Treasury has authority to mint coins containing silver only under section 5112(e) of the revised title and the Secretary holds sufficient silver to mint those coins. See Sen. Rept. No. 91–1084 (1970).
 
@@ -66,11 +66,11 @@ The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (b
 
 #### Amendments
 
-2002—Subsec. (b)(2). Pub. L. 107–201 inserted after second sentence “At such time as the silver stockpile is depleted, the Secretary shall obtain silver as described in paragraph (1) to mint coins authorized under section 5112(e). If it is not economically feasible to obtain such silver, the Secretary may obtain silver for coins authorized under section 5112(e) from other available sources. The Secretary shall not pay more than the average world price for silver under any circumstances. As used in this paragraph, the term ‘average world price’ means the price determined by a widely recognized commodity exchange at the time the silver is obtained by the Secretary.”
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–201 inserted after second sentence “At such time as the silver stockpile is depleted, the Secretary shall obtain silver as described in paragraph (1) to mint coins authorized under section 5112(e). If it is not economically feasible to obtain such silver, the Secretary may obtain silver for coins authorized under section 5112(e) from other available sources. The Secretary shall not pay more than the average world price for silver under any circumstances. As used in this paragraph, the term ‘average world price’ means the price determined by a widely recognized commodity exchange at the time the silver is obtained by the Secretary.”
 
-1988—Subsec. (a)(2). Pub. L. 100–274 amended last sentence generally, substituting “shall be deposited by the Secretary in the general fund of the Treasury and shall be used for the sole purpose of reducing the national debt” for “shall be deposited in the general fund of the Treasury”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–274 amended last sentence generally, substituting “shall be deposited by the Secretary in the general fund of the Treasury and shall be used for the sole purpose of reducing the national debt” for “shall be deposited in the general fund of the Treasury”.
 
-1985—Subsec. (a)(3). Pub. L. 99–185 added par. (3).
+<b>1985</b>—Subsec. (a)(3). Pub. L. 99–185 added par. (3).
 
 Subsec. (b)(1). Pub. L. 99–61, §203(1), (2), substituted “The Secretary may buy silver” for “The Secretary shall buy silver”, and struck out provision directing that the Secretary pay $1.25 a fine troy ounce for silver.
 

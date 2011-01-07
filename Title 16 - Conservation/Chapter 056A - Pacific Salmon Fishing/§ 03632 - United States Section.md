@@ -74,7 +74,7 @@ Panel members described in subsections (c)(2), (c)(3), (d)(2), and (e)(2) of thi
 
 (7) In any matter where the Fraser River Panel is unable to act because the United States Fraser River Panel members have been unable to reach a decision in accordance with paragraph (3) of this subsection, and upon a determination by the Chairman of the United States Section that an action of the Panel is required, the United States Section shall act for the United States Panel members in the Fraser River Panel.
 
-(8) In any matter where the Secretary of State determines that the United States is in jeopardy of not fulfilling its international obligations under the Treaty, the Secretary of State shall socertify to the United States Section. Such certification shall include the reasons for such determination and shall specify the date by which a decision by the United States Section is desired. If the United States Section has not reached a decision by the date specified, the Secretary of State, after consultation with the Secretary and the Secretary of the Interior, shall report on the matter to the President.
+(8) In any matter where the Secretary of State determines that the United States is in jeopardy of not fulfilling its international obligations under the Treaty, the Secretary of State shall so certify to the United States Section. Such certification shall include the reasons for such determination and shall specify the date by which a decision by the United States Section is desired. If the United States Section has not reached a decision by the date specified, the Secretary of State, after consultation with the Secretary and the Secretary of the Interior, shall report on the matter to the President.
 
 #### (i) Consultation
 
@@ -88,7 +88,7 @@ The Federal Advisory Committee Act, referred to in subsec. (i), is Pub. L. 92–
 
 #### Amendments
 
-2000—Subsec. (f). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(5)(A)\], added subsec. (f). Former subsec. (f) redesignated (g).
+<b>2000</b>—Subsec. (f). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(5)(A)\], added subsec. (f). Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(5)(B), (C)\], redesignated subsec. (f) as (g) and substituted “For the northern, southern, and Fraser River panels, the appointing authorities” for “The appointing authorities”. Former subsec. (g) redesignated (h).
 
@@ -98,7 +98,7 @@ Subsec. (h)(3). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(5)(D)\]
 
 Subsec. (i). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(5)(B)\], redesignated subsec. (h) as (i).
 
-1999—Subsec. (g)(1). Pub. L. 99–5, §16(c)(1), formerly Pub. L. 106–113, §1000(a)(1) \[title II, §623(c)(1)\], as renumbered by Pub. L. 109–479, §302(d)(1), substituted “Except as provided in paragraph (2), the” for “The”.
+<b>1999</b>—Subsec. (g)(1). Pub. L. 99–5, §16(c)(1), formerly Pub. L. 106–113, §1000(a)(1) \[title II, §623(c)(1)\], as renumbered by Pub. L. 109–479, §302(d)(1), substituted “Except as provided in paragraph (2), the” for “The”.
 
 Subsec. (g)(2) to (8). Pub. L. 99–5, §16(c)(2), (3), formerly Pub. L. 106–113, §1000(a)(1) \[title II, §623(c)(2), (3)\], as renumbered by Pub. L. 109–479, §302(d)(1), added par. (2) and redesignated former pars. (2) to (7) as (3) to (8), respectively.
 

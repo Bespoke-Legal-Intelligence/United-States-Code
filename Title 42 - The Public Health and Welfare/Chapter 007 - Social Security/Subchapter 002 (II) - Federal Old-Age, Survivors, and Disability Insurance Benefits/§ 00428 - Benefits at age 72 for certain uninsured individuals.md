@@ -92,23 +92,23 @@ Part A of subchapter IV of this chapter, referred to in subsec. (d)(1), is class
 
 Section 211 of Pub. L. 93–66, referred to in subsec. (d), is set out as a note under section 1382 of this title.
 
-Section 228e(<i>l</i>) of title 45, referred to in subsec. (h)(1), is a reference to section 5(<i>l</i>) of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. The Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, andis classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Section 228e of title 45 is covered by section 231e of Title 45.
+Section 228e(<i>l</i>) of title 45, referred to in subsec. (h)(1), is a reference to section 5(<i>l</i>) of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. The Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Section 228e of title 45 is covered by section 231e of Title 45.
 
 #### Amendments
 
-1996—Subsec. (d)(1). Pub. L. 104–193 inserted “under a State program funded under” before “part A of subchapter IV of this chapter”.
+<b>1996</b>—Subsec. (d)(1). Pub. L. 104–193 inserted “under a State program funded under” before “part A of subchapter IV of this chapter”.
 
-1994—Subsecs. (c)(5), (8), (d), (g). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+<b>1994</b>—Subsecs. (c)(5), (8), (d), (g). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
-1991—Subsec. (h)(2). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Subsec. (h)(2). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Veterans’ Administration”.
 
-1990—Subsec. (a)(2). Pub. L. 101–508 substituted “(B)(i) attained such age after 1967 and before 1972, and (ii)” for “(B)”.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–508 substituted “(B)(i) attained such age after 1967 and before 1972, and (ii)” for “(B)”.
 
-1984—Subsec. (c)(4)(C). Pub. L. 98–369, §2662(e), amended directory language of Pub. L. 98–21, §305(d)(2). See 1983 Amendment note below.
+<b>1984</b>—Subsec. (c)(4)(C). Pub. L. 98–369, §2662(e), amended directory language of Pub. L. 98–21, §305(d)(2). See 1983 Amendment note below.
 
 Subsec. (g). Pub. L. 98–369, §2663(j)(3)(A)(iv), struck out “of Health, Education, and Welfare” after “Secretary”.
 
-1983—Subsec. (a). Pub. L. 98–21, §305(d)(1), substituted “he or she” for “he” wherever appearing.
+<b>1983</b>—Subsec. (a). Pub. L. 98–21, §305(d)(1), substituted “he or she” for “he” wherever appearing.
 
 Subsec. (b). Pub. L. 98–21, §305(a), substituted “The” for “(1) Except as provided in paragraph (2), the” and struck out par. (2), which had provided that if both husband and wife were entitled or would have been entitled upon application to benefits under this section for any month, the amount of the husband's benefit for such month would be the larger of $64.40 or the amount most recently established in lieu thereof under section 415(i) of this title, and the amount of the wife's benefit for such month the larger of $32.20 or the amount most recently established in lieu thereof under section 415(i) of this title.
 
@@ -120,13 +120,13 @@ Subsec. (c)(3). Pub. L. 98–21, §305(c), amended par. (3) generally, substitut
 
 Subsec. (c)(4)(C). Pub. L. 98–21, §305(d)(2), as amended by Pub. L. 98–369, §2662(e), substituted “his or her” for “his” wherever appearing.
 
-1973—Subsec. (b). Pub. L. 93–233, §2(b)(1), substituted “the larger of $64.40 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$58.00” in pars. (1) and (2) and “the larger of $32.20 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$29.00” in par. (2).
+<b>1973</b>—Subsec. (b). Pub. L. 93–233, §2(b)(1), substituted “the larger of $64.40 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$58.00” in pars. (1) and (2) and “the larger of $32.20 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$29.00” in par. (2).
 
 Subsec. (c). Pub. L. 93–233, §2(b)(1), substituted “the larger of $64.40 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$58.00” in par. (3), subpar. (A) and “the larger of $32.20 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$29.00” in par. (2) and par. (3) subpar. (B).
 
 Subsec. (d). Pub. L. 93–233, §18(c) provided for elimination of benefits at age 72 for uninsured individuals receiving supplemental security income benefits.
 
-1972—Subsec. (b)(1). Pub. L. 92–336, §201(g)(2)(A), substituted “$58.00” for “$48.30”.
+<b>1972</b>—Subsec. (b)(1). Pub. L. 92–336, §201(g)(2)(A), substituted “$58.00” for “$48.30”.
 
 Subsec. (b)(2). Pub. L. 92–336, §201(g)(2)(B), substituted “$58.00” for “$48.30” and “$29.00” for “$24.20”.
 
@@ -136,7 +136,7 @@ Subsec. (c)(3)(A). Pub. L. 92–336, §201(g)(2)(D), substituted “$58.00” fo
 
 Subsec. (c)(3)(B). Pub. L. 92–336, §201(g)(2)(E), substituted “$29.00” for “$24.20”.
 
-1971—Subsec. (b)(1). Pub. L. 92–5, §202(b)(1), substituted “$48.30” for “$46”.
+<b>1971</b>—Subsec. (b)(1). Pub. L. 92–5, §202(b)(1), substituted “$48.30” for “$46”.
 
 Subsec. (b)(2). Pub. L. 92–5, §202(b)(2), substituted “$48.30” for “$46” and “$24.20” for “$23”.
 
@@ -146,7 +146,7 @@ Subsec. (c)(3)(A). Pub. L. 92–5, §202(b)(4), substituted “$48.30” for “
 
 Subsec. (c)(3)(B). Pub. L. 92–5, §202(b)(5), substituted “$24.20” for “$23”.
 
-1969—Subsec. (b)(1). Pub. L. 91–172, §1003(b)(1), substituted “$46” for “$40”.
+<b>1969</b>—Subsec. (b)(1). Pub. L. 91–172, §1003(b)(1), substituted “$46” for “$40”.
 
 Subsec. (b)(2). Pub. L. 91–172, §1003(b)(2), substituted “$46” for “$40” and “$23” for “$20”.
 
@@ -156,7 +156,7 @@ Subsec. (c)(3)(A). Pub. L. 91–172, §1003(b)(4), substituted “$46” for “
 
 Subsec. (c)(3)(B). Pub. L. 91–172, §1003(b)(5), substituted “$23” for “$20”.
 
-1968—Subsec. (b)(1). Pub. L. 90–248, §102(b)(1), substituted “$40” for “$35”.
+<b>1968</b>—Subsec. (b)(1). Pub. L. 90–248, §102(b)(1), substituted “$40” for “$35”.
 
 Subsec. (b)(2). Pub. L. 90–248, §102(b)(2), substituted “$40” for “$35” and “$20” for $17.50”.
 
@@ -184,7 +184,7 @@ Section 5114(b) of Pub. L. 101–508 provided that: “The amendment made by sub
 
 Amendment by section 2662(e) of Pub. L. 98–369 effective as though included in the enactment of the Social Security Amendments of 1983, Pub. L. 98–21, see section 2664(a) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
-Amendment by section 2663(j)(3)(A)(iv) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of lawinvolved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by section 2663(j)(3)(A)(iv) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Effective Date of 1983 Amendment
 

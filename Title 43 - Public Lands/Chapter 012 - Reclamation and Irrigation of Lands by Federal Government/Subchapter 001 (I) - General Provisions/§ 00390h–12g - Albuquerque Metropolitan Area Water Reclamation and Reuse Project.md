@@ -20,7 +20,7 @@ Section 506 of Pub. L. 105–62, which directed the amendment of “section 1621
 
 #### Amendments
 
-1997—Pub. L. 105–62, §506(1), which directed the substitution of “project” for “study” in section catchline, was executed by substituting “Project” for “Study” to reflect the probable intent of Congress.
+<b>1997</b>—Pub. L. 105–62, §506(1), which directed the substitution of “project” for “study” in section catchline, was executed by substituting “Project” for “Study” to reflect the probable intent of Congress.
 
 Subsec. (a). Pub. L. 105–62, §506(2), (3), inserted “planning, design, and construction of the” after “to participate in the” and “and nonpotable surface water” after “impaired ground water”.
 

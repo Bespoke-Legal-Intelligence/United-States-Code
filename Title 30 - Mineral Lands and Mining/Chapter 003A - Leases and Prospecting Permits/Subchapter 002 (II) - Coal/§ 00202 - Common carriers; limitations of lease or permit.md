@@ -12,7 +12,7 @@ Section is comprised of subsec. (c) of section 2 of act Feb. 25, 1920, as amende
 
 #### Amendments
 
-1948—Act June 3, 1948, reenacted this section without change except to make it subsec. (c) of section 2 of act Feb. 25, 1920.
+<b>1948</b>—Act June 3, 1948, reenacted this section without change except to make it subsec. (c) of section 2 of act Feb. 25, 1920.
 
-1944—Act June 13, 1944, inserted “more than ten thousand two hundred and forty acres in the aggregate nor” before “more than one permit”, substituted “railroad lines served or to be served from such coal deposits” for “railroad line within the State in which such property is situated,”, and prohibited a railroad from holding a permit or lease for lands in any State in which it did not operate main or branch lines.
+<b>1944</b>—Act June 13, 1944, inserted “more than ten thousand two hundred and forty acres in the aggregate nor” before “more than one permit”, substituted “railroad lines served or to be served from such coal deposits” for “railroad line within the State in which such property is situated,”, and prohibited a railroad from holding a permit or lease for lands in any State in which it did not operate main or branch lines.
 

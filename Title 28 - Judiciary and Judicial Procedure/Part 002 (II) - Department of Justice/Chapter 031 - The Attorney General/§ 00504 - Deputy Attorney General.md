@@ -26,13 +26,13 @@ The words “may appoint” are substituted for “is authorized to appoint”. 
 
 #### Prior Provisions
 
-A prior section 504, acts June 25, 1948, ch. 646, 62 Stat. 909; Mar. 18, 1959, Pub. L. 86–3, §11(b), 73 Stat. 9, related to tenure and oath of office of United States attorneys, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in sections 541 and 544 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 504, acts June 25, 1948, ch. 646, 62 Stat. 909; Mar. 18, 1959, Pub. L. 86–3, §11(b), 73 Stat. 9, relatedto tenure and oath of office of United States attorneys, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in sections 541 and 544 of this title by section 4(c) of Pub. L. 89–554.
 
 #### Amendments
 
-2002—Pub. L. 107–273 repealed Pub. L. 107–77, §612(c). See 2001 Amendment note below.
+<b>2002</b>—Pub. L. 107–273 repealed Pub. L. 107–77, §612(c). See 2001 Amendment note below.
 
-2001—Pub. L. 107–77, §612(c), which directed amendment of section catchline by substituting “Attorneys” for “Attorney” and amendment of text by inserting “and a Deputy Attorney General for Combating Domestic Terrorism” after “General”, was repealed by Pub. L. 107–273.
+<b>2001</b>—Pub. L. 107–77, §612(c), which directed amendment of section catchline by substituting “Attorneys” for “Attorney” and amendment of text by inserting “and a Deputy Attorney General for Combating Domestic Terrorism” after “General”, was repealed by Pub. L. 107–273.
 
 #### Position Relating to Combating Domestic Terrorism
 

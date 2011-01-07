@@ -24,7 +24,7 @@ Not later than December 31, 2009, the Federal Trade Commission, in consultation 
 
 &emsp;(1) the effectiveness of do-not-call outreach and enforcement efforts with regard to senior citizens and immigrant communities;
 
-&emsp;(2) the impact of the exceptions to the do-not-call registry on businesses and consumers, including an analysis of the effectiveness ofthe registry and consumer perceptions of the registry's effectiveness; and
+&emsp;(2) the impact of the exceptions to the do-not-call registry on businesses and consumers, including an analysis of the effectiveness of the registry and consumer perceptions of the registry's effectiveness; and
 
 &emsp;(3) the impact of abandoned calls made by predictive dialing devices on do-not-call enforcement.
 
@@ -32,5 +32,5 @@ Not later than December 31, 2009, the Federal Trade Commission, in consultation 
 
 #### Amendments
 
-2008—Pub. L. 110–188 amended section generally. Prior to amendment, section related to reports on regulatory coordination between Federal Trade Commission and Federal Communications Commission and reports on “do-not-call” registry for fiscal years 2003 through 2007.
+<b>2008</b>—Pub. L. 110–188 amended section generally. Prior to amendment, section related to reports on regulatory coordination between Federal Trade Commission and Federal Communications Commission and reports on “do-not-call” registry for fiscal years 2003 through 2007.
 

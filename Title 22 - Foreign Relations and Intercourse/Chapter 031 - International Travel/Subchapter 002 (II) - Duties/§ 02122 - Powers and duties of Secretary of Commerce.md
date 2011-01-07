@@ -24,9 +24,9 @@ The United States National Tourism Organization Act of 1996, referred to in text
 
 #### Amendments
 
-1996—Pub. L. 104–288 amended section generally to narrow tourism-related duties of Secretary of Commerce, in view of creation of United States National Tourism Organization, with Secretary to focus on critical promotion functions which, in determination of Secretary, are not being carried out by new Organization or other private sector or State entities.
+<b>1996</b>—Pub. L. 104–288 amended section generally to narrow tourism-related duties of Secretary of Commerce, in view of creation of United States National Tourism Organization, with Secretary to focus on critical promotion functions which, in determination of Secretary, are not being carried out by new Organization or other private sector or State entities.
 
-1992—Par. (2). Pub. L. 102–372, §6(3), added par. (2). Former par. (2) redesignated (3).
+<b>1992</b>—Par. (2). Pub. L. 102–372, §6(3), added par. (2). Former par. (2) redesignated (3).
 
 Par. (3). Pub. L. 102–372, §6(a)(1), (2), redesignated former par. (2) as (3) and substituted “receptive, linguistic, informational, currency exchange, meal, and package tour services required by the international market” for “tourist facilities, low cost unit tours, and other arrangements within the United States for meeting the requirements of foreign visitors”. Former par. (3) redesignated (4).
 
@@ -36,9 +36,9 @@ Par. (7). Pub. L. 102–372, §6(1), (4), redesignated former par. (6) as (7) an
 
 Par. (8). Pub. L. 102–372, §6(5), added par. (8).
 
-1981—Pub. L. 97–63, §3(b), substituted “In order to carry out the national tourism policy established by section 2121(b) of this title” for “In order to carry out the purpose of this chapter”.
+<b>1981</b>—Pub. L. 97–63, §3(b), substituted “In order to carry out the national tourism policy established by section 2121(b) of this title” for “In order to carry out the purpose of this chapter”.
 
-1975—Par. (6). Pub. L. 93–623 added par. (6).
+<b>1975</b>—Par. (6). Pub. L. 93–623 added par. (6).
 
 #### Effective Date of 1981 Amendment
 

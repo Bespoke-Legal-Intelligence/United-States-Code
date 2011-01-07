@@ -8,7 +8,7 @@
 
 > shall be entitled to the appointment of one or more attorneys and the furnishing of such other services in accordance with subsections (b) through (f).
 
-(2) In any post conviction proceeding under section 2254 or 2255 of title 28, United States Code, seeking to vacate or set aside a death sentence, any defendant who is or becomes financially unable to obtain adequate representation or investigative, expert, or other reasonablynecessary services shall be entitled to the appointment of one or more attorneys and the furnishing of such other services in accordance with subsections (b) through (f).
+(2) In any post conviction proceeding under section 2254 or 2255 of title 28, United States Code, seeking to vacate or set aside a death sentence, any defendant who is or becomes financially unable to obtain adequate representation or investigative, expert, or other reasonably necessary services shall be entitled to the appointment of one or more attorneys and the furnishing of such other services in accordance with subsections (b) through (f).
 
 (b) If the appointment is made before judgment, at least one attorney so appointed must have been admitted to practice in the court in which the prosecution is to be tried for not less than five years, and must have had not less than three years experience in the actual trial of felony prosecutions in that court.
 
@@ -30,5 +30,13 @@
 
 #### Amendments
 
-2008—Subsec. (g)(2). Pub. L. 110–406 inserted “or senior” after “active” in second sentence.
+<b>2008</b>—Subsec. (g)(2). Pub. L. 110–406 inserted “or senior” after “active” in second sentence.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “this”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “5303”.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be “subsection”.</i>
 

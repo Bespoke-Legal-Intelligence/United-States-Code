@@ -38,7 +38,7 @@ As used in this chapter—
 
 &emsp;&emsp;&emsp;(i) the paid-in capital and paid-in surplus of a corporate licensee, the contributed capital of the partners of a partnership licensee, or the equity investment of the members of a limited liability company licensee; and
 
-&emsp;&emsp;&emsp;(ii) unfunded binding commitments, from investors that meet criteria established by the Administrator, to contribute capital to the licensee: <i>Provided</i>, That such unfunded commitments may be counted asprivate capital for purposes of approval by the Administrator of any request for leverage, but leverage shall not be funded based on such commitments; and
+&emsp;&emsp;&emsp;(ii) unfunded binding commitments, from investors that meet criteria established by the Administrator, to contribute capital to the licensee: <i>Provided</i>, That such unfunded commitments may be counted as private capital for purposes of approval by the Administrator of any request for leverage, but leverage shall not be funded based on such commitments; and
 
 &emsp;&emsp;(B) does not include any—
 
@@ -126,13 +126,13 @@ Section 661a of title 2, referred to in par. (18)(E), was in the original “sec
 
 #### Amendments
 
-2007—Pars. (18), (19). Pub. L. 110–140 added pars. (18) and (19).
+<b>2007</b>—Pars. (18), (19). Pub. L. 110–140 added pars. (18) and (19).
 
-2000—Par. (5)(A)(i). Pub. L. 106–554, §1(a)(9) \[title IV, §402(a)\], inserted before semicolon at end “regardless of the allocation of control during the investment period under any investment agreement between the business concern and the entity making the investment”.
+<b>2000</b>—Par. (5)(A)(i). Pub. L. 106–554, §1(a)(9) \[title IV, §402(a)\], inserted before semicolon at end “regardless of the allocation of control during the investment period under any investment agreement between the business concern and the entity making the investment”.
 
 Par. (17). Pub. L. 106–554, §1(a)(9) \[title IV, §402(b)\], added par. (17).
 
-1999—Par. (5). Pub. L. 106–9, §2(c)(1), designated existing provisions after “for purposes of this chapter” as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpar. (B).
+<b>1999</b>—Par. (5). Pub. L. 106–9, §2(c)(1), designated existing provisions after “for purposes of this chapter” as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpar. (B).
 
 Par. (12)(A)(ii). Pub. L. 106–9, §2(c)(2), inserted before “; or”: “except that, for purposes of this clause, if the business concern is not required by law to pay Federal income taxes at the enterprise level, but is required to pass income through to the shareholders, partners, beneficiaries, or other equitable owners of the business concern, the net income of the business concern shall be determined by allowing a deduction in an amount equal to the sum of—
 
@@ -140,9 +140,9 @@ Par. (12)(A)(ii). Pub. L. 106–9, §2(c)(2), inserted before “; or”: “ex
 
 &emsp;“(II) the net income (so determined) less any deduction for State (and local) income taxes calculated under subclause (I), multiplied by the marginal Federal income tax rate that would have applied if the business concern were a corporation”.
 
-1997—Par. (9)(B)(iii). Pub. L. 105–135 added subcl. (I) and redesignated former subcls. (I) and (II) as (II) and (III), respectively.
+<b>1997</b>—Par. (9)(B)(iii). Pub. L. 105–135 added subcl. (I) and redesignated former subcls. (I) and (II) as (II) and (III), respectively.
 
-1996—Par. (5). Pub. L. 104–208, §208(a)(1), inserted before semicolon at end “, except that, for purposes of this chapter, an investment by a venture capital firm, investment company (including a small business investment company) employee welfare benefit plan or pension plan, or trust, foundation, or endowment that is exempt from Federal income taxation—
+<b>1996</b>—Par. (5). Pub. L. 104–208, §208(a)(1), inserted before semicolon at end “, except that, for purposes of this chapter, an investment by a venture capital firm, investment company (including a small business investment company) employee welfare benefit plan or pension plan, or trust, foundation, or endowment that is exempt from Federal income taxation—
 
 &emsp;“(A) shall not cause a business concern to be deemed not independently owned and operated;
 
@@ -150,23 +150,23 @@ Par. (12)(A)(ii). Pub. L. 106–9, §2(c)(2), inserted before “; or”: “ex
 
 &emsp;“(C) shall be disregarded in determining whether a small business concern is a smaller enterprise”.
 
-Par. (9). Pub. L. 104–208, §208(a)(2), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “notwithstanding any other provision of law, the term ‘private capital’ means the private paid-in capital and paid-in surplus of a corporate licensee, or the private partnership capital of an unincorporate licensee, inclusive of (A) any funds invested in the licensee by a public or private pension fund, (B) any funds invested in the licensee by State or local government entities, to the extent that such investment does not exceed 33 percent of a licensee's total private capital and otherwise meets criteria established by the Administration, and (C) unfunded commitments from institutional investors that meet criteria established by the Administration, but it excludes any funds which are borrowed by the licensee from any source or which are obtained or derived, directly or indirectly, from any Federal source, including the Administration: <i>Provided</i>, That no unfunded commitment from an institutional investor may be used for the purpose of meeting the minimum amount of private capital required by this chapter or as the basis for the Administration to issue obligations to provide financing; and”.
+Par. (9). Pub. L. 104–208, §208(a)(2), amended par. (9) generally. Prior to amendment, par. (9) read as follows:“notwithstanding any other provision of law, the term ‘private capital’ means the private paid-in capital and paid-in surplus of a corporate licensee, or the private partnership capital of an unincorporate licensee, inclusive of (A) any funds invested in the licensee by a public or private pension fund, (B) any funds invested in the licensee by State or local government entities, to the extent that such investment does not exceed 33 percent of a licensee's total private capital and otherwise meets criteria established by the Administration, and (C) unfunded commitments from institutional investors that meet criteria established by the Administration, but it excludes any funds which are borrowed by the licensee from any source or which are obtained or derived, directly or indirectly, from any Federal source, including the Administration: <i>Provided</i>, That no unfunded commitment from an institutional investor may be used for the purpose of meeting the minimum amount of private capital required by this chapter or as the basis for the Administration to issue obligations to provide financing; and”.
 
 Pars. (10) to (16). Pub. L. 104–208, §208(a)(3), added pars. (10) to (16) and struck out former par. (10) which read as follows: “the term ‘leverage’ includes debentures purchased or guaranteed by the Administration, participating securities purchased or guaranteed by the Administration, or preferred securities issued by companies licensed under section 681(d) of this title and which have been purchased by the Administration.”
 
-1992—Pars. (9), (10). Pub. L. 102–366 added pars. (9) and (10).
+<b>1992</b>—Pars. (9), (10). Pub. L. 102–366 added pars. (9) and (10).
 
-1976—Par. (8). Pub. L. 94–305 added par. (8).
+<b>1976</b>—Par. (8). Pub. L. 94–305 added par. (8).
 
-1972—Par. (3). Pub. L. 92–595 substituted “section 681” for “section 681(c)”.
+<b>1972</b>—Par. (3). Pub. L. 92–595 substituted “section 681” for “section 681(c)”.
 
 Par. (7). Pub. L. 92–595 substituted “section 681” for “section 681(c)”.
 
-1961—Par. (3). Pub. L. 87–341, §2(1), inserted “licensee” and substituted “company approved by the Administration to operate under the provisions of this chapter and issued a license as provided in section 681(c) of this title” for “small business investment company organized as provided in subchapter III of this chapter, including (except for purposes of sections 681 and 687(f) of this title) a State-chartered investment company which has obtained the approval of the Administrator to operate under the provisions of this chapter as provided in section 688 of this title and a company converted into a small business investment company under section 691 of this title”.
+<b>1961</b>—Par. (3). Pub. L. 87–341, §2(1), inserted “licensee” and substituted “company approved by the Administration to operate under the provisions of this chapter and issued a license as provided in section 681(c) of this title” for “small business investment company organized as provided in subchapter III of this chapter, including (except for purposes of sections 681 and 687(f) of this title) a State-chartered investment company which has obtained the approval of the Administrator to operate under the provisions of this chapter as provided in section 688 of this title and a company converted into a small business investment company under section 691 of this title”.
 
 Par. (7). Pub. L. 87–341, §2(2), added par. (7).
 
-1960—Par. (4). Pub. L. 86–502 substituted definition of “State” for definition of “United States”.
+<b>1960</b>—Par. (4). Pub. L. 86–502 substituted definition of “State” for definition of “United States”.
 
 #### Effective Date of 2007 Amendment
 
@@ -179,4 +179,6 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 #### Effect of Small Business Equity Enhancement Act of 1992 on Securities Laws
 
 Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or to otherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

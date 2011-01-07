@@ -2,7 +2,7 @@
 
 #### (a) Confidentiality of certain types of information; issuance of regulations and orders; considerations for exercise of Commission's authority; disclosure of routes and quantities of shipment; civil penalties; withholding of information from Congressional committees
 
-In addition to any other authority or requirement regarding protection from disclosure of information, and subject to subsection (b)(3) of section 552 of title 5, the Commission shall prescribe such regulations, after notice and opportunity for public comment, or issue such orders, as necessary to prohibit the unauthorized disclosure of safeguards information which specifically identifies a licensee's or applicant's detailed—
+In addition to any other authority or requirement regarding protection from disclosure of information, and subject to subsection (b)(3) ofsection 552 of title 5, the Commission shall prescribe such regulations, after notice and opportunity for public comment, or issue such orders, as necessary to prohibit the unauthorized disclosure of safeguards information which specifically identifies a licensee's or applicant's detailed—
 
 &emsp;(1) control and accounting procedures or security measures (including security plans, procedures, and equipment) for the physical protection of special nuclear material, by whomever possessed, whether in transit or at fixed sites, in quantities determined by the Commission to be significant to the public health and safety or the common defense and security;
 

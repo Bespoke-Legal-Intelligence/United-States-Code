@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(A)(i) reviewing, in accordance with procedural guidelines adopted by the Executive Office of the United States Trustee (which guidelines shall be applied uniformly by the United States trustee except when circumstances warrant different treatment), applications filed for compensation and reimbursement under section 330 of title 11; and
 
-&emsp;&emsp;(ii) filing with the court comments with respect to such application and, if the United States Trustee considers it to be appropriate, objections to such application.<sup>1</sup>
+&emsp;&emsp;(ii) filing with the court comments with respect to such application and, if the United States Trustee considers it to be appropriate, objections to such application;
 
 &emsp;&emsp;(B) monitoring plans and disclosure statements filed in cases under chapter 11 of title 11 and filing with the court, in connection with hearings under sections 1125 and 1128 of such title, comments with respect to such plans and disclosure statements;
 
@@ -50,13 +50,13 @@
 
 &emsp;&emsp;(B) if determined to be appropriate and advisable, visit the appropriate business premises of the debtor, ascertain the state of the debtor's books and records, and verify that the debtor has filed its tax returns; and
 
-&emsp;&emsp;(C) review and monitor diligently the debtor's activities, to identify as promptly as possible whether the debtor will be unable to confirm a plan; and
+&emsp;&emsp;(C) review and monitor diligently the debtor's activities, to determine as promptly as possible whether the debtor will be unable to confirm a plan; and
 
-&emsp;(8) in any case in which the United States trustee finds material grounds for any relief under section 1112 of title 11, the United States trustee shall apply promptly after making that finding to the court for relief.
+&emsp;(8) in any case in which the United States trustee finds material grounds for any relief under section 1112 of title 11, apply promptly after making that finding to the court for relief.
 
 (b) If the number of cases under chapter 12 or 13 of title 11 commenced in a particular region so warrants, the United States trustee for such region may, subject to the approval of the Attorney General, appoint one or more individuals to serve as standing trustee, or designate one or more assistant United States trustees to serve in cases under such chapter. The United States trustee for such region shall supervise any such individual appointed as standing trustee in the performance of the duties of standing trustee.
 
-(c) Each United States trustee shall be under the general supervision of the Attorney General,who shall provide general coordination and assistance to the United States trustees.
+(c) Each United States trustee shall be under the general supervision of the Attorney General, who shall provide general coordination and assistance to the United States trustees.
 
 (d)(1) The Attorney General shall prescribe by rule qualifications for membership on the panels established by United States trustees under paragraph (a)(1) of this section, and qualifications for appointment under subsection (b) of this section to serve as standing trustee in cases under chapter 12 or 13 of title 11. The Attorney General may not require that an individual be an attorney in order to qualify for appointment under subsection (b) of this section to serve as standing trustee in cases under chapter 12 or 13 of title 11.
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;(i) such individual's actual compensation for such cases, as adjusted under subparagraph (A) of paragraph (1); plus
 
-&emsp;&emsp;(ii) the actual, necessary expenses incurred by such individual as standing trustee in such cases. Subject to the approval of the Attorney General, any or all of the interest earned from the deposit of payments under plans by such individual may be utilized to pay actual, necessary expenses without regard to the percentage limitation contained in subparagraph (d)(1)(B) of this section.
+&emsp;&emsp;(ii) the actual, necessary expenses incurred by such individual as standing trustee in such cases. Subject to the approval of the Attorney General, any or all of the interestearned from the deposit of payments under plans by such individual may be utilized to pay actual, necessary expenses without regard to the percentage limitation contained in subparagraph (d)(1)(B) of this section.
 
 (3) After first exhausting all available administrative remedies, an individual appointed under subsection (b) may obtain judicial review of final agency action to deny a claim of actual, necessary expenses under this subsection by commencing an action in the district court of the United States for the district where the individual resides. The decision of the agency shall be affirmed by the district court unless it is unreasonable and without cause based upon the administrative record before the agency.
 
@@ -106,7 +106,7 @@
 
 &emsp;(ii) if advisable, take appropriate action, including but not limited to commencing an adversary proceeding to revoke the debtor's discharge pursuant to section 727(d) of title 11.
 
-(Added Pub. L. 95–598, title II, §224(a), Nov. 6, 1978, 92 Stat. 2663; amended Pub. L. 99–554, title I, §113, Oct. 27, 1986, 100 Stat. 3091; Pub. L. 101–509, title V, §529 \[title I, §110(a)\], Nov. 5, 1990, 104 Stat. 1427, 1452; Pub. L. 103–394, title II, §224(a), title V, §502, Oct. 22, 1994, 108 Stat. 4130, 4147; Pub. L. 109–8, title IV, §439, title VI, §603(b), title VIII, §802(c)(3), title XII, §1231, Apr. 20, 2005, 119 Stat. 113, 122, 146, 201.)
+(Added Pub. L. 95–598, title II, §224(a), Nov. 6, 1978, 92 Stat. 2663; amended Pub. L. 99–554, title I, §113, Oct. 27, 1986, 100 Stat. 3091; Pub. L. 101–509, title V, §529 \[title I, §110(a)\], Nov. 5, 1990, 104 Stat. 1427, 1452; Pub. L. 103–394, title II, §224(a), title V, §502, Oct. 22, 1994, 108 Stat. 4130, 4147; Pub. L. 109–8, title IV, §439, title VI, §603(b), title VIII, §802(c)(3), title XII, §1231, Apr. 20, 2005, 119 Stat. 113, 122, 146, 201; Pub. L. 111–327, §2(c)(3), Dec. 22, 2010, 124 Stat. 3563.)
 
 #### References in Text
 
@@ -116,11 +116,17 @@ Level V of the Executive Schedule, referred to in subsec. (e)(1)(A)(i), is set o
 
 #### Codification
 
-Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of this section and the deletion of any references to United States Trustees in this title at a prospective date, was repealed by section 307(b) of Pub. L. 99–554. See note set out preceding section 581 of this title.
+Section 408(c) of Pub. L. 95–598, which provided for the repeal of this section and the deletion of any references to United States Trustees in this title at a prospective date, was repealed by section 307(b) of Pub. L. 99–554. See note set out preceding section 581 of this title.
 
 #### Amendments
 
-2005—Subsec. (a)(3). Pub. L. 109–8, §802(c)(3), substituted “13, or 15” for “or 13” in introductory provisions.
+<b>2010</b>—Subsec. (a)(3)(A)(ii). Pub. L. 111–327, §2(c)(3)(A), substituted semicolon for period at end.
+
+Subsec. (a)(7)(C). Pub. L. 111–327, §2(c)(3)(B), substituted “determine” for “identify”.
+
+Subsec. (a)(8). Pub. L. 111–327, §2(c)(3)(C), struck out “the United States trustee shall” before “apply promptly”.
+
+<b>2005</b>—Subsec. (a)(3). Pub. L. 109–8, §802(c)(3), substituted “13, or 15” for “or 13” in introductory provisions.
 
 Subsec. (a)(3)(H), (I). Pub. L. 109–8, §439(1), added subpar. (H) and redesignated former subpar. (H) as (I).
 
@@ -134,11 +140,11 @@ Subsec. (e)(3), (4). Pub. L. 109–8, §1231(b), added pars. (3) and (4).
 
 Subsec. (f). Pub. L. 109–8, §603(b)(2), added subsec. (f).
 
-1994—Subsec. (a)(3). Pub. L. 103–394 inserted “12,” after “11,” in introductory provisions and amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “monitoring applications for compensation and reimbursement filed under section 330 of title 11 and, whenever the United States trustee deems it to be appropriate, filing with the court comments with respect to any of such applications;”.
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–394 inserted “12,” after “11,” in introductory provisions and amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “monitoring applications for compensation and reimbursement filed under section 330 of title 11 and, whenever the United States trustee deems it to be appropriate, filing with the court comments with respect to any of such applications;”.
 
-1990—Subsec. (e)(1)(A). Pub. L. 101–509 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a maximum annual compensation for such individual, not to exceed the annual rate of basic pay in effect for step 1 of grade GS–16 of the General Schedule prescribed under section 5332 of title 5; and”.
+<b>1990</b>—Subsec. (e)(1)(A). Pub. L. 101–509 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a maximum annual compensation for such individual, not to exceed the annual rate of basic pay in effect for step 1 of grade GS–16 of the General Schedule prescribed under section 5332 of title 5; and”.
 
-1986—Subsec. (a). Pub. L. 99–554, §113(a)(1), substituted “the region for which such United States trustee is appointed” for “his district” in introductory text.
+<b>1986</b>—Subsec. (a). Pub. L. 99–554, §113(a)(1), substituted “the region for which such United States trustee is appointed” for “his district” in introductory text.
 
 Subsec. (a)(3). Pub. L. 99–554, §113(a)(2), substituted “title 11 by, whenever the United States trustee considers it to be appropriate—” for “title 11;” and added subpars. (A) to (H).
 
@@ -207,6 +213,4 @@ Procedures.—Those procedures required by paragraph (1) shall—
 #### Application to All Standing Trustees
 
 Section 529 \[title I, §110(b)\] of Pub. L. 101–509 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any trustee to whom the provisions of section 302(d)(3) of the Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986 (Public Law 99–54 \[Pub. L. 99–554\]; 100 Stat. 3121) \[set out in an Effective Date of 1986 Amendment note under section 581 of this title\] apply.”
-
-<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

@@ -12,7 +12,7 @@ The Secretary shall—
 
 #### (b) Consultation with State and local officials required
 
-To assure that legitimate State and local interests are not prejudiced by the proposed economic self-sufficiency plan, the Secretary shall notify and consult with the appropriate officials of the State and all appropriate local governmental officials in the State. The Secretary shall provide complete information on the proposed plan to such officials, including the restrictions on such proposed plan imposed by subsection (c) of this section. During any consultation by the Secretary under this subsection, the Secretary shall provide such information as the Secretary may possess, and shall request comments and additional information on the extent of any State or local service to the tribe.
+To assure that legitimate State and local interests are not prejudiced by the proposed economic self-sufficiency plan, the Secretary shall notify and consult with the appropriate officialsof the State and all appropriate local governmental officials in the State. The Secretary shall provide complete information on the proposed plan to such officials, including the restrictions on such proposed plan imposed by subsection (c) of this section. During any consultation by the Secretary under this subsection, the Secretary shall provide such information as the Secretary may possess, and shall request comments and additional information on the extent of any State or local service to the tribe.
 
 #### (c) Restrictions to be contained in plan
 

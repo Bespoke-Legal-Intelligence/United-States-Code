@@ -22,7 +22,7 @@ The Administrator is authorized to establish a United States Microfinance Loan F
 
 #### (3) Congressional notification procedures
 
-&emsp;During each of the fiscal years 2005 through 2009, funds may not be made available from the Facility until 15 days after notification ofthe proposed availability of the funds has been provided to the congressional committees specified in section 2394–1 of this title in accordance with the procedures applicable to reprogramming notifications under that section.
+&emsp;During each of the fiscal years 2005 through 2009, funds may not be made available from the Facility until 15 days after notification of the proposed availability of the funds has been provided to the congressional committees specified in section 2394–1 of this title in accordance with the procedures applicable to reprogramming notifications under that section.
 
 #### (c) General provisions
 
@@ -88,7 +88,7 @@ A prior section 2213, Pub. L. 87–195, pt. I, §253, as added Pub. L. 87–565,
 
 #### Amendments
 
-2004—Subsec. (b)(3). Pub. L. 108—484, §5(c)(2)(A), substituted “2005 through 2009” for “2001 and 2002”.
+<b>2004</b>—Subsec. (b)(3). Pub. L. 108—484, §5(c)(2)(A), substituted “2005 through 2009” for “2001 and 2002”.
 
 Subsec.(d)(1). Pub. L. 108—484, §5(c)(2)(B), substituted “for each of the fiscal years 2005 through 2009, such sums as may be necessary” for “for the fiscal year 2001, up to $5,000,000”.
 

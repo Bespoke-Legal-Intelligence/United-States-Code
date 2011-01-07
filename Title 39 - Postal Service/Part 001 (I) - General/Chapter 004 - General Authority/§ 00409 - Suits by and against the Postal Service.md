@@ -108,7 +108,7 @@ The date of enactment of this subsection, referred to in subsec. (e)(3), is the 
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–435, §404(b), substituted “Except as otherwise provided in this title,” for “Except as provided in section 3628 of this title,”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–435, §404(b), substituted “Except as otherwise provided in this title,” for “Except as provided in section 3628 of this title,”.
 
 Subsecs. (d) to (h). Pub. L. 109–435, §404(a), added subsecs. (d) to (h) and struck out former subsecs. (d) and (e), which read as follows:
 
@@ -116,7 +116,7 @@ Subsecs. (d) to (h). Pub. L. 109–435, §404(a), added subsecs. (d) to (h) and 
 
 “(e) A judgment against the Government of the United States arising out of activities of the Postal Service shall be paid by the Postal Service out of any funds available to the Postal Service.”
 
-1982—Subsec. (e). Pub. L. 97–258 added subsec. (e).
+<b>1982</b>—Subsec. (e). Pub. L. 97–258 added subsec. (e).
 
 #### Effective Date
 

@@ -14,7 +14,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;Subparagraph (A) does not apply to requirements relating to the sale, distribution, possession, information reporting to the State, exposure to, access to, the advertising and promotion of, or use of, tobacco products by individuals of any age, or relating to fire safety standards for tobacco products. Information disclosed to a State under subparagraph (A) that is exempt from disclosure under section 552(b)(4) of title 5 shall be treated as a trade secret and confidential information by the State.
+&emsp;&emsp;Subparagraph (A) does not apply to requirements relating to the sale, distribution,possession, information reporting to the State, exposure to, access to, the advertising and promotion of, or use of, tobacco products by individuals of any age, or relating to fire safety standards for tobacco products. Information disclosed to a State under subparagraph (A) that is exempt from disclosure under section 552(b)(4) of title 5 shall be treated as a trade secret and confidential information by the State.
 
 #### (b) Rule of construction regarding product liability
 

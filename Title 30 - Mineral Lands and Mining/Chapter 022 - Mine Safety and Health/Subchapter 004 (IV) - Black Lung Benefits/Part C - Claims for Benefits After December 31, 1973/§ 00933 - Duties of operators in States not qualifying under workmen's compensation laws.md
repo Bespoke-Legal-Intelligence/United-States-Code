@@ -30,9 +30,9 @@ No policy or contract of insurance issued by a carrier to comply with the requir
 
 #### Amendments
 
-1978—Subsec. (d). Pub. L. 95–239 added subsec. (d).
+<b>1978</b>—Subsec. (d). Pub. L. 95–239 added subsec. (d).
 
-1972—Subsec. (a). Pub. L. 92–303 substituted “a coal mine” for “an underground coal mine”.
+<b>1972</b>—Subsec. (a). Pub. L. 92–303 substituted “a coal mine” for “an underground coal mine”.
 
 #### Effective Date of 1978 Amendment
 

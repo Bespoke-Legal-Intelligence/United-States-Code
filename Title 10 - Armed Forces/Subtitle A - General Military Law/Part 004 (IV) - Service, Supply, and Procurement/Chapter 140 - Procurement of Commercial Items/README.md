@@ -12,9 +12,9 @@
 
 #### Amendments
 
-2006—Pub. L. 109–163, div. A, title VIII, §803(a)(2), Jan. 6, 2006, 119 Stat. 3371, added item 2379.
+<b>2006</b>—Pub. L. 109–163, div. A, title VIII, §803(a)(2), Jan. 6, 2006, 119 Stat. 3371, added item 2379.
 
-1997—Pub. L. 105–85, div. A, title III, §350(b), Nov. 18, 1997, 111 Stat. 1692, added item 2378.
+<b>1997</b>—Pub. L. 105–85, div. A, title III, §350(b), Nov. 18, 1997, 111 Stat. 1692, added item 2378.
 
 
 ---

@@ -6,7 +6,7 @@ Destruction or Removal of Property To Prevent Seizure.—Whoever, before, during
 
 (b)
 
-Impairment of In Rem Jurisdiction.—Whoever, knowing that property is subject to the in rem jurisdiction of a United States court for purposes of civil forfeiture under Federal law, knowingly and without authority from that court, destroys, damages, wastes, disposes of,transfers, or otherwise takes any action, or knowingly attempts to destroy, damage, waste, dispose of, transfer, or otherwise take any action, for the purpose of impairing or defeating the court's continuing in rem jurisdiction over the property, shall be fined under this title or imprisoned not more than 5 years, or both.
+Impairment of In Rem Jurisdiction.—Whoever, knowing that property is subject to the in rem jurisdiction of a United States court for purposes of civil forfeiture under Federal law, knowingly and without authority from that court, destroys, damages, wastes, disposes of, transfers, or otherwise takes any action, or knowingly attempts to destroy, damage, waste, dispose of, transfer, or otherwise take any action, for the purpose of impairing or defeating the court's continuing in rem jurisdiction over the property, shall be fined under this title or imprisoned not more than 5 years, or both.
 
 (c)
 
@@ -14,7 +14,7 @@ Notice of Search or Execution of Seizure Warrant or Warrant of Arrest In Rem.—
 
 (d)
 
-Notice of Certain Electronic Surveillance.—Whoever, having knowledge that a Federal investigative or law enforcement officer has been authorized or has applied for authorization under chapter 119 to intercept a wire, oral, or electronic communication, in order to obstruct, impede, or prevent such interception, gives notice or attempts to give notice of the possible interception to any person shall be fined under this title or imprisoned not more than five years, or both.
+Notice of Certain Electronic Surveillance.—Whoever, having knowledge that a Federal investigative or law enforcement officer has been authorized or has applied for authorization under chapter 119 to intercept a wire, oral, or electronic communication, in order to obstruct,impede, or prevent such interception, gives notice or attempts to give notice of the possible interception to any person shall be fined under this title or imprisoned not more than five years, or both.
 
 (e)
 
@@ -38,17 +38,17 @@ The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (e), i
 
 #### Amendments
 
-2000—Pub. L. 106–185 added subsecs. (a) to (c), redesignated first and second pars. of former subsec. (c) as subsecs. (d) and (e), respectively, inserted subsec. (e) heading, and struck out former subsecs. (a) and (b) which related to physical interference with search and notice of search, respectively.
+<b>2000</b>—Pub. L. 106–185 added subsecs. (a) to (c), redesignated first and second pars. of former subsec. (c) as subsecs. (d) and (e), respectively, inserted subsec. (e) heading, and struck out former subsecs. (a) and (b) which related to physical interference with search and notice of search, respectively.
 
-1994—Subsecs. (a), (b). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+<b>1994</b>—Subsecs. (a), (b). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-1988—Subsec. (c). Pub. L. 100–690 inserted “of 1978” after “Surveillance Act”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–690 inserted “of 1978” after “Surveillance Act”.
 
-1986—Pub. L. 99–646 directed the designation of first and second pars. as subsecs. (a) and (b), respectively, which had been previously so designated by Pub. L. 99–508, and substituted “imprisoned not” for “imprisoned” in subsec. (a).
+<b>1986</b>—Pub. L. 99–646 directed the designation of first and second pars. as subsecs. (a) and (b), respectively, which had been previously so designated by Pub. L. 99–508, and substituted “imprisoned not” for “imprisoned” in subsec. (a).
 
 Pub. L. 99–508 designated first and second pars. as subsecs. (a) and (b), respectively, and inserted headings, and added subsec. (c).
 
-1984—Pub. L. 98–473, §1103(a), substituted provisions raising the maximum fine from $2,000 to $10,000 and raising the maximum term of imprisonment from two years to five years.
+<b>1984</b>—Pub. L. 98–473, §1103(a), substituted provisions raising the maximum fine from $2,000 to $10,000 and raising the maximum term of imprisonment from two years to five years.
 
 Pub. L. 98–473, §1103(b), inserted paragraph relating to the penalties for warning the subject of a search.
 

@@ -48,7 +48,7 @@ Covered Budget Activity Defined.—In this section, the term “covered budget a
 
 &emsp;&emsp;(E) Maintenance of Real Property.
 
-&emsp;(3) The Ship Operations budget activity groups (known as “subactivities”) within theOperating Forces budget activity of the annual Operation and Maintenance, Navy, appropriation that are designated as follows:
+&emsp;(3) The Ship Operations budget activity groups (known as “subactivities”) within the Operating Forces budget activity of the annual Operation and Maintenance, Navy, appropriation that are designated as follows:
 
 &emsp;&emsp;(A) Mission and Other Ship Operations.
 
@@ -94,11 +94,11 @@ Covered Budget Activity Defined.—In this section, the term “covered budget a
 
 #### Amendments
 
-2000—Subsec. (c)(2). Pub. L. 106–398, §1 \[\[div. A\], title III, §372(b)\], inserted before period “, including identification of the sources from which funds were transferred into that activity and identification of the recipients of the funds transferred out of that activity”.
+<b>2000</b>—Subsec. (c)(2). Pub. L. 106–398, §1 \[\[div. A\], title III, §372(b)\], inserted before period “, including identification of the sources from which funds were transferred into that activity and identification of the recipients of the funds transferred out of that activity”.
 
 Subsec. (d)(5)(G), (H). Pub. L. 106–398, §1 \[\[div. A\], title III, §372(c)\], added subpars. (G) and (H).
 
 Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title III, §372(a)\], struck out heading and text of subsec. (e). Text read as follows: “The requirements specified in subsections (a) and (b) shall terminate upon the submission of the annual report under subsection (a) covering fiscal year 2000.”
 
-1999—Subsec. (a). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 

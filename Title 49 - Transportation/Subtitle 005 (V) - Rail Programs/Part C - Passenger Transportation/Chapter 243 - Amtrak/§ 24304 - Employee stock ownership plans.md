@@ -96,7 +96,7 @@ Subsection (g) is substituted for 45:544(e)(1) to eliminate unnecessary words.
 
 #### Amendments
 
-1997—Pub. L. 105–134 amended section catchline and text generally, substituting provisions relating to employee stock ownership plans for provisions relating to capitalization of Amtrak.
+<b>1997</b>—Pub. L. 105–134 amended section catchline and text generally, substituting provisions relating to employee stock ownership plans for provisions relating to capitalization of Amtrak.
 
 #### Amtrak Stock
 

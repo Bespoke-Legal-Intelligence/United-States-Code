@@ -68,7 +68,7 @@ A prior section 606 of Pub. L. 89–329 was classified to section 1125 of this t
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–315, §606(1)(D), (E), designated existing provisions as par. (1), inserted heading, and added par. (2).
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §606(1)(D), (E), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Pub. L. 110–315, §606(1)(A)–(C), substituted “or partnerships between such institutions and other such institutions, libraries, or nonprofit educational organizations” for “or consortia of such institutions or libraries” and “electronic technologies” for “new electronic technologies” and inserted “from foreign sources” after “disseminate information”.
 

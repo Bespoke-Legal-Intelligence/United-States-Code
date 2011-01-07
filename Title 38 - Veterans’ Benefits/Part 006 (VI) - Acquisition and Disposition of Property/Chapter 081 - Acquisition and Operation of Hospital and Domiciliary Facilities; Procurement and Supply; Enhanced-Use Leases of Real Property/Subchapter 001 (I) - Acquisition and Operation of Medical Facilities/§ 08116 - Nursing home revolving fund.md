@@ -20,7 +20,7 @@ Section 8122(a)(2) of this title, referred to in subsec. (a)(1), was amended gen
 
 #### Amendments
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 5016 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 5016 of this title as this section.
 
 Pub. L. 102–40, §402(d)(1), substituted “8122(a)(2)(C)” for “5022(a)(2)(C)” in subsec. (a)(1) and “8104(a)(2)” for “5004(a)(2)” in subsec. (b)(2).
 

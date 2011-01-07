@@ -14,5 +14,5 @@ Another prior section 795<i>l</i>, Pub. L. 93–112, title VI, §633, as added P
 
 #### Amendments
 
-1998—Pub. L. 105–277 made technical amendment to section designation and catchline in original.
+<b>1998</b>—Pub. L. 105–277 made technical amendment to section designation and catchline in original.
 

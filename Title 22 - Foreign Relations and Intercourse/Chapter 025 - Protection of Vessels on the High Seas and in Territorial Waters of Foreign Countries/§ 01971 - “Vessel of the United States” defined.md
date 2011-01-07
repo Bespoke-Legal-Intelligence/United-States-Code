@@ -10,11 +10,11 @@ Section 1802(8) of title 16, referred to in text, which defined “fishery conse
 
 #### Amendments
 
-1996—Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1802(8) of title 16.
+<b>1996</b>—Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1802(8) of title 16.
 
-1980—Pub. L. 96–561 made technical amendment to reference in original act which appears in text as reference to section 1802(8) of title 16.
+<b>1980</b>—Pub. L. 96–561 made technical amendment to reference in original act which appears in text as reference to section 1802(8) of title 16.
 
-1978—Pub. L. 95–541 provided that the documentation or certification of a vessel of the United States not be affected if at any time during the voyage for the purpose of fishing beyond the fishery conservation zone, the vessel is commanded by other than a citizen of the United States.
+<b>1978</b>—Pub. L. 95–541 provided that the documentation or certification of a vessel of the United States not be affected if at any time during the voyage for the purpose of fishing beyond the fishery conservation zone, the vessel is commanded by other than a citizen of the United States.
 
 #### Effective Date of 1996 Amendment
 

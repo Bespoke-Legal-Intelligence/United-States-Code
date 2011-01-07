@@ -32,5 +32,5 @@ A prior section 701 of Pub. L. 89–136 was classified to section 3211 of this t
 
 #### Amendments
 
-2004—Pub. L. 108–373 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this chapter $397,969,000 for fiscal year 1999, $368,000,000 for fiscal year 2000, $335,000,000 for fiscal year 2001, $335,000,000 for fiscal year 2002, and $335,000,000 for fiscal year 2003, to remain available until expended.”
+<b>2004</b>—Pub. L. 108–373 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this chapter $397,969,000 for fiscal year 1999, $368,000,000 for fiscal year 2000, $335,000,000 for fiscal year 2001, $335,000,000 for fiscal year 2002, and $335,000,000 for fiscal year 2003, to remain available until expended.”
 

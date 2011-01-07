@@ -250,7 +250,7 @@ Subsecs. (h) and (j) of this section amended section 1715n(a)(8) and repealed se
 
 #### Amendments
 
-2009—Pub. L. 111–5, §1001(b), inserted “and certain property owned by members of the Armed Forces, Department of Defense and United States Coast Guard civilian employees, and surviving spouses” after “ordered to be closed” in section catchline.
+<b>2009</b>—Pub. L. 111–5, §1001(b), inserted “and certain property owned by members of the Armed Forces, Department of Defense and United States Coast Guard civilian employees, and surviving spouses” after “ordered to be closed” in section catchline.
 
 Subsec. (a). Pub. L. 111–5, §1001(a)(1), designated existing provisions as par. (1), inserted par. heading, substituted “if—” for “if he determines” in introductory provisions, inserted “(A) the Secretary determines—”, redesignated former pars. (1) to (3) as cls. (i) to (iii), respectively, of subpar. (A) and realigned margins, and added subpar. (B) and pars. (2) and (3).
 
@@ -274,11 +274,11 @@ Subsec. (<i>o</i>)(4). Pub. L. 111–5, §1001(a)(8)(C), struck out par. (4) whi
 
 Subsec. (p). Pub. L. 111–5, §1001(a)(9), added subsec. (p).
 
-1994—Subsec. (c). Pub. L. 103–337 inserted after first sentence “The Secretary may also pay a person who elects to receive a cash payment under clause (1) of the preceding sentence an amount that the Secretary determines appropriate to reimburse the person for the costs incurred by the person in the sale of the property if the Secretary determines that such payment will benefit the person and is in the best interest of the Federal Government.”
+<b>1994</b>—Subsec. (c). Pub. L. 103–337 inserted after first sentence “The Secretary may also pay a person who elects to receive a cash payment under clause (1) of the preceding sentence an amount that the Secretary determines appropriate to reimburse the person for the costs incurred by the person in the sale of the property if the Secretary determines that such payment will benefit the person and is in the best interest of the Federal Government.”
 
-1992—Subsec. (a)(1). Pub. L. 102–484 substituted “member of the Armed Forces of the United States” for “serviceman”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–484 substituted “member of the Armed Forces of the United States” for “serviceman”.
 
-1991—Subsec. (a)(1). Pub. L. 102–190, §2823(b)(1)(A), which directed the substitution of “member of the Armed Forces of the United States” for “servicemen” could not be executed because the word “servicemen” did not appear. See 1992 Amendment note above.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–190, §2823(b)(1)(A), which directed the substitution of “member of the Armed Forces of the United States” for “servicemen” could not be executed because the word “servicemen” did not appear. See 1992 Amendment note above.
 
 Subsec. (a)(2). Pub. L. 102–190, §2823(b)(1)(B), inserted before semicolon “or, in the case of a member of the Armed Forces not assigned to that base or installation at the time of public announcement of such closing, will prevent any reassignment of such member to the base or installation”.
 
@@ -292,7 +292,7 @@ Subsec. (b). Pub. L. 102–190, §2823(a), (b)(2), (3), substituted pars. (1) to
 
 Subsec. (<i>l</i>). Pub. L. 102–190, §2823(b)(4), substituted “subsection (b)(5)” for “the second proviso of subsection (b)”.
 
-1990—Subsec. (a)(1). Pub. L. 101–510, §331(1), inserted “, a nonappropriated fund instrumentality employee employed at a nonappropriated fund instrumentality operated in connection with such base or installation,” after “limitation)”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–510, §331(1), inserted “, a nonappropriated fund instrumentality employee employed at a nonappropriated fund instrumentality operated in connection with such base or installation,” after “limitation)”.
 
 Subsec. (b)(1). Pub. L. 101–510, §331(2), inserted at end “or employed by a nonappropriated fund instrumentality operated in connection with such base or installation,”.
 
@@ -300,21 +300,21 @@ Subsec. (k). Pub. L. 101–510, §331(3), substituted “(n), and (<i>o</i>)” 
 
 Subsec. (<i>o</i>). Pub. L. 101–510, §331(4), added subsec. (<i>o</i>).
 
-1988—Subsec. (k). Pub. L. 100–448, §11(1), substituted “(c), and (n)” for “and (c)”.
+<b>1988</b>—Subsec. (k). Pub. L. 100–448, §11(1), substituted “(c), and (n)” for “and (c)”.
 
 Subsec. (n). Pub. L. 100–448, §11(2), added subsec. (n).
 
-1973—Subsec. (m). Pub. L. 93–166 added subsec. (m).
+<b>1973</b>—Subsec. (m). Pub. L. 93–166 added subsec. (m).
 
-1972—Subsec. (d). Pub. L. 92–545 inserted “, except in connection with compensation for property located on a base or installation pursuant to subsection (j) of this section” to provision prohibiting acquisition of properties in foreign countries under this section.
+<b>1972</b>—Subsec. (d). Pub. L. 92–545 inserted “, except in connection with compensation for property located on a base or installation pursuant to subsection (j) of this section” to provision prohibiting acquisition of properties in foreign countries under this section.
 
 Subsec. (<i>l</i>). Pub. L. 92–545 added subsec. (<i>l</i>).
 
-1970—Subsec. (a)(3). Pub. L. 91–511 inserted “or if as the result of such action and other similar action in the same area,” after “part,”.
+<b>1970</b>—Subsec. (a)(3). Pub. L. 91–511 inserted “or if as the result of such action and other similar action in the same area,” after “part,”.
 
 Subsec. (k). Pub. L. 91–511 added subsec. (k).
 
-1969—Subsec. (c). Pub. L. 91–142, §602(a), struck out “and prior to the one hundred and twentieth day after November 3, 1966,” after “installation” in third sentence.
+<b>1969</b>—Subsec. (c). Pub. L. 91–142, §602(a), struck out “and prior to the one hundred and twentieth day after November 3, 1966,” after “installation” in third sentence.
 
 Subsec. (d). Pub. L. 91–142, §602(b), excluded acquisition of foreign properties under this section.
 
@@ -325,4 +325,8 @@ Section 612 of Pub. L. 91–511 provided that the amendment made by that section
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+<i><sup>1</sup></i><i> So in original. The second dash probably should not appear.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

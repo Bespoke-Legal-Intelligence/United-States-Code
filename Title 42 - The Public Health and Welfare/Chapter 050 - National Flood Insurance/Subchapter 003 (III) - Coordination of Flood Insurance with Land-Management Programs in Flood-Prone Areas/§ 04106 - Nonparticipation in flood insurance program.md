@@ -16,15 +16,15 @@ Section was enacted as part of Flood Disaster Protection Act of 1973, and not as
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–325 substituted “Federal entity for lending regulation shall by regulation require the regulated lending institutions described in such section, and each Federal agency lender shall issue regulations requiring the Federal agency lender,” for “Federal instrumentality described in such section shall by regulation require the institutions”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–325 substituted “Federal entity for lending regulation shall by regulation require the regulated lending institutions described in such section, and each Federal agency lender shall issue regulations requiring the Federal agency lender,” for “Federal instrumentality described in such section shall by regulation require the institutions”.
 
-1983—Subsec. (a). Pub. L. 98–181 substituted “Director” for “Secretary”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–181 substituted “Director” for “Secretary”.
 
-1977—Subsec. (b). Pub. L. 95–128 substituted provisions respecting notification of purchaser or lessee of property in flood hazards area of availability of Federal disaster relief assistance in the event of a flood disaster for prior provisions relating to: Federal regulations against loans by financial institutions, unaffected pre-March 1, 1976, residences, small business concerns, improvements under $5,000 and nonresidential farm improvement.
+<b>1977</b>—Subsec. (b). Pub. L. 95–128 substituted provisions respecting notification of purchaser or lessee of property in flood hazards area of availability of Federal disaster relief assistance in the event of a flood disaster for prior provisions relating to: Federal regulations against loans by financial institutions, unaffected pre-March 1, 1976, residences, small business concerns, improvements under $5,000 and nonresidential farm improvement.
 
-1976—Subsec. (b). Pub. L. 94–375 incorporated provision regarding any loan made prior to March 1, 1976, to finance the acquisition of a previously occupied residential dwelling into cl. (1) as so designated, added remainder of cl. (1), and cls. (2) to (4).
+<b>1976</b>—Subsec. (b). Pub. L. 94–375 incorporated provision regarding any loan made prior to March 1, 1976, to finance the acquisition of a previously occupied residential dwelling into cl. (1) as so designated, added remainder of cl. (1), and cls. (2) to (4).
 
-1975—Subsec. (b). Pub. L. 94–198 substituted “March 1, 1976” for “January 1, 1976”.
+<b>1975</b>—Subsec. (b). Pub. L. 94–198 substituted “March 1, 1976” for “January 1, 1976”.
 
 Pub. L. 94–50 inserted provision excepting from the prohibition of this section any loan made prior to January 1, 1976, to finance the acquisition of a previously occupied residential dwelling.
 

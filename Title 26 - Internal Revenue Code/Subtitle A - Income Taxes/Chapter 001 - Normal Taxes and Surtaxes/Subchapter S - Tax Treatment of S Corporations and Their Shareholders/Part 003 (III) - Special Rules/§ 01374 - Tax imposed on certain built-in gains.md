@@ -70,7 +70,7 @@ For purposes of this section—
 
 #### (B) Carryover
 
-&emsp;&emsp;If, for any taxable year, the amount referred to in clause (i) of subparagraph (A) exceeds the amount referred to in clause (ii) ofsubparagraph (A), such excess shall be treated as a recognized built-in gain in the succeeding taxable year. The preceding sentence shall apply only in the case of a corporation treated as an S corporation by reason of an election made on or after March 31, 1988.
+&emsp;&emsp;If, for any taxable year, the amount referred to in clause (i) of subparagraph (A) exceeds the amount referred to in clause (ii) of subparagraph (A), such excess shall be treated as a recognized built-in gain in the succeeding taxable year. The preceding sentence shall apply only in the case of a corporation treated as an S corporation by reason of an election made on or after March 31, 1988.
 
 #### (3) Recognized built-in gain
 
@@ -124,9 +124,15 @@ For purposes of this section—
 
 &emsp;&emsp;The term “recognition period” means the 10-year period beginning with the 1st day of the 1st taxable year for which the corporation was an S corporation.
 
-#### (B) Special rule for 2009 and 2010
+#### (B) Special rules for 2009, 2010, and 2011
 
-&emsp;&emsp;In the case of any taxable year beginning in 2009 or 2010, no tax shall be imposed on the net recognized built-in gain of an S corporation if the 7th taxable year in the recognition period preceded such taxable year. The preceding sentence shall be applied separately with respect to any asset to which paragraph (8) applies.
+&emsp;&emsp;No tax shall be imposed on the net recognized built-in gain of an S corporation—
+
+&emsp;&emsp;&emsp;(i) in the case of any taxable year beginning in 2009 or 2010, if the 7th taxable year in the recognition period preceded such taxable year, or
+
+&emsp;&emsp;&emsp;(ii) in the case of any taxable year beginning in 2011, if the 5th year in the recognition period preceded such taxable year.
+
+> &emsp;&emsp;The preceding sentence shall be applied separately with respect to any asset to which paragraph (8) applies.
 
 #### (C) Special rule for distributions to shareholders
 
@@ -168,7 +174,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section including regulations providing for the appropriate treatment of successor corporations.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1683; amended Pub. L. 97–448, title III, §305(d)(3), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title I, §102(d)(1), title IV, §474(r)(27), title VII, §721(u), July 18, 1984, 98 Stat. 623, 844, 971; Pub. L. 99–514, title VI, §632(a), Oct. 22, 1986, 100 Stat. 2275; Pub. L. 100–647, title I, §1006(f)(1)–(5)(A), Nov. 10, 1988, 102 Stat. 3403, 3404; Pub. L. 101–239, title VII, §7811(c)(4), (5)(B), (8), Dec. 19, 1989, 103 Stat. 2407, 2408; Pub. L. 105–34, title XVI, §1601(f)(5)(B), Aug. 5, 1997, 111 Stat. 1091; Pub. L. 111–5, div. B, title I, §1251(a), Feb. 17, 2009, 123 Stat. 342.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1683; amended Pub. L. 97–448, title III, §305(d)(3), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title I, §102(d)(1), title IV, §474(r)(27), title VII, §721(u), July 18, 1984, 98 Stat. 623, 844, 971; Pub. L. 99–514, title VI, §632(a), Oct. 22, 1986, 100 Stat. 2275; Pub. L. 100–647, title I, §1006(f)(1)–(5)(A), Nov. 10, 1988, 102 Stat. 3403, 3404; Pub. L. 101–239, title VII, §7811(c)(4), (5)(B), (8), Dec. 19, 1989, 103 Stat. 2407, 2408; Pub. L. 105–34, title XVI, §1601(f)(5)(B), Aug. 5, 1997, 111 Stat. 1091; Pub. L. 111–5, div. B, title I, §1251(a), Feb. 17, 2009, 123 Stat. 342; Pub. L. 111–240, title II, §2014(a), Sept. 27, 2010, 124 Stat. 2556.)
 
 #### Prior Provisions
 
@@ -176,11 +182,13 @@ A prior section 1374, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 7
 
 #### Amendments
 
-2009—Subsec. (d)(7). Pub. L. 111–5 amended par. (7) generally. Prior to amendment, text read as follows: “The term ‘recognition period’ means the 10-year period beginning with the 1st day of the 1st taxable year for which the corporation was an S corporation. For purposes of applying this section to any amount includible in income by reason of section 593(e), the preceding sentence shall be applied without regard to the phrase ‘10-year’.”
+<b>2010</b>—Subsec. (d)(7)(B). Pub. L. 111–240 amended subpar. (B) generally. Prior to amendment, text read as follows: “In the case of any taxable year beginning in 2009 or 2010, no tax shall be imposed on the net recognized built-in gain of an S corporation if the 7th taxable year in the recognition period preceded such taxable year. The preceding sentence shall be applied separately with respect to any asset to which paragraph (8) applies.”
 
-1997—Subsec. (d)(7). Pub. L. 105–34 inserted at end “For purposes of applying this section to any amount includible in income by reason of section 593(e), the preceding sentence shall be applied without regard to the phrase ‘10-year’.”
+<b>2009</b>—Subsec. (d)(7). Pub. L. 111–5 amended par. (7) generally. Prior to amendment, text read as follows: “The term ‘recognition period’ means the 10-year period beginning with the 1st day of the 1st taxable year for which the corporation was an S corporation. For purposes of applying this section to any amount includible in income by reason of section 593(e), the preceding sentence shall be applied without regard to the phrase ‘10-year’.”
 
-1989—Subsec. (b)(3)(B). Pub. L. 101–239, §7811(c)(8), inserted at end “A similar rule shall apply in the case of the minimum tax credit under section 53 to the extent attributable to taxable years for which the corporation was a C corporation.”
+<b>1997</b>—Subsec. (d)(7). Pub. L. 105–34 inserted at end “For purposes of applying this section to any amount includible in income by reason of section 593(e), the preceding sentence shall be applied without regard to the phrase ‘10-year’.”
+
+<b>1989</b>—Subsec. (b)(3)(B). Pub. L. 101–239, §7811(c)(8), inserted at end “A similar rule shall apply in the case of the minimum tax credit under section 53 to the extent attributable to taxable years for which the corporation was a C corporation.”
 
 Subsec. (d)(2)(A)(i). Pub. L. 101–239, §7811(c)(4), struck out “(except as provided in subsection (b)(2))” after “taxable year if”.
 
@@ -188,7 +196,7 @@ Subsec. (d)(5)(B). Pub. L. 101–239, §7811(c)(5)(B)(i), inserted “(determine
 
 Subsec. (d)(5)(C). Pub. L. 101–239, §7811(c)(5)(B)(ii), substituted “which would be treated as recognized built-in gains or losses under this paragraph if such amounts were properly taken into account (or allowable as a deduction) during the recognition period” for “treated as recognized built-in gains or losses under this paragraph”.
 
-1988—Subsec. (a). Pub. L. 100–647, §1006(f)(1), inserted “net” before “recognized”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1006(f)(1), inserted “net” before “recognized”.
 
 Subsec. (b)(1). Pub. L. 100–647, §1006(f)(2), added par. (1) and struck out former par. (1) which read as follows: “The tax imposed by subsection (a) shall be a tax computed by applying the highest rate of tax specified in section 11(b) to the lesser of—
 
@@ -206,15 +214,19 @@ Subsec. (d)(2) to (9). Pub. L. 100–647, §1006(f)(5)(A), added pars. (2) to (9
 
 Subsec. (e). Pub. L. 100–647, §1006(f)(5)(A), added subsec. (e).
 
-1986—Pub. L. 99–514 amended section generally, substituting provisions imposing tax on certain built-in gains for provisions imposing tax on certain capital gains which had declared in: subsec. (a), general rule for capital gains tax on S corporations; subsec. (b), amount of tax; subsec. (c), general rule as to exceptions from subsec. (a) in par. (1), exception as to new corporations in par. (2), provisions relating to property with substituted basis in par. (3), and treatment of certain gains of options and commodities dealers in par. (4); and subsec. (d), determination of taxable income of corporation.
+<b>1986</b>—Pub. L. 99–514 amended section generally, substituting provisions imposing tax on certain built-in gains for provisions imposing tax on certain capital gains which had declared in: subsec. (a), general rule for capital gains tax on S corporations; subsec. (b), amount of tax; subsec. (c), general rule as to exceptions from subsec. (a) in par. (1), exception as to new corporations in par. (2), provisions relating to property with substituted basis in par. (3), and treatment of certain gains of options and commodities dealers in par. (4); and subsec. (d), determination of taxable income of corporation.
 
-1984—Subsec. (b). Pub. L. 98–369, §474(r)(27), substituted “section 34” for “section 39” in provisions following par. (2).
+<b>1984</b>—Subsec. (b). Pub. L. 98–369, §474(r)(27), substituted “section 34” for “section 39” in provisions following par. (2).
 
 Subsec. (c)(2). Pub. L. 98–369, §721(u), struck out “(and any predecessor corporation)” before “has been in existence” in subpar. (A), and inserted provision that to the extent provided in regulations, an S corporation and any predecessor corporation shall be treated as 1 corporation for purposes of this paragraph and paragraph (1).
 
 Subsec. (c)(4). Pub. L. 98–369, §102(d)(1), added par. (4).
 
-1983—Subsec. (d). Pub. L. 97–448 substituted “this section” for “subsections (a)(2) and (b)(2)”.
+<b>1983</b>—Subsec. (d). Pub. L. 97–448 substituted “this section” for “subsections (a)(2) and (b)(2)”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–240, title II, §2014(b), Sept. 27, 2010, 124 Stat. 2556, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2010.”
 
 #### Effective Date of 2009 Amendment
 
@@ -222,11 +234,11 @@ Pub. L. 111–5, div. B, title I, §1251(b), Feb. 17, 2009, 123 Stat. 342, provi
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

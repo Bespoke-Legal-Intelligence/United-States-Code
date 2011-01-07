@@ -24,7 +24,7 @@
 
 &emsp;(1) the court may determine that the plan itself provides adequate information and that a separate disclosure statement is not necessary;
 
-&emsp;(2) the court may approve a disclosure statement submitted on standard forms approvedby the court or adopted under section 2075 of title 28; and
+&emsp;(2) the court may approve a disclosure statement submitted on standard forms approved by the court or adopted under section 2075 of title 28; and
 
 &emsp;(3)(A) the court may conditionally approve a disclosure statement subject to final approval after notice and a hearing;
 
@@ -40,7 +40,7 @@
 
 I74legislative statements
 
-Section 1125 of the House amendment is derived from section 1125 of the House bill and Senate amendment except with respect to section 1125(f) of the Senate amendment. It will not be necessary for the court to consider the report of the examiner prior to approval of a disclosure statement. The investigation of the examiner is to proceed on an independent basis from the procedure of the reorganization under chapter 11. In order to ensure that the examiner's report will be expeditious and fair, the examiner is precluded from serving as a trustee in the case or from representing a trustee if a trustee is appointed, whether the case remains in chapter 11 or is converted to chapter 7 or 13.
+Section 1125 of the House amendment is derived from section 1125 of the House bill and Senate amendmentexcept with respect to section 1125(f) of the Senate amendment. It will not be necessary for the court to consider the report of the examiner prior to approval of a disclosure statement. The investigation of the examiner is to proceed on an independent basis from the procedure of the reorganization under chapter 11. In order to ensure that the examiner's report will be expeditious and fair, the examiner is precluded from serving as a trustee in the case or from representing a trustee if a trustee is appointed, whether the case remains in chapter 11 or is converted to chapter 7 or 13.
 
 #### senate report no. 95–989
 
@@ -66,7 +66,7 @@ Subsection (e) exonerates any person who, in good faith and in compliance with t
 
 In the nonpublic case, the court, when approving the disclosure statement, has before it the texts of the plan, a proposed disclosure document, and such other information the plan proponents and other interested parties may present at the hearing. In the final analysis the exoneration which subsection (e) grants must depend on the good faith of the plan proponents and of those who participate in the preparation of the disclosure statement and in the solicitation. Subsection (e) does not affect civil or criminal liability for defects and inadequacies that are beyond the limits of the exoneration that good faith provides.
 
-Section 1125 applies to public companies as well, subject to the qualifications of subsection (f). In case of apublic company no solicitations of acceptance is permitted unless authorized by the court upon or after approval of the plan pursuant to section 1128(c). In addition to the documents specified in subsection (b), subsection (f) requires transmission of the opinion and order of the court approving the plan and, if filed, the advisory report of the Securities and Exchange Commission or a summary thereof prepared by the Commission.
+Section 1125 applies to public companies as well, subject to the qualifications of subsection (f). In case of a public company no solicitations of acceptance is permitted unless authorized by the court upon or after approval of the plan pursuant to section 1128(c). In addition to the documents specified in subsection (b), subsection (f) requires transmission of the opinion and order of the court approving the plan and, if filed, the advisory report of the Securities and Exchange Commission or a summary thereof prepared by the Commission.
 
 #### house report no. 95–595
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 ofPub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 

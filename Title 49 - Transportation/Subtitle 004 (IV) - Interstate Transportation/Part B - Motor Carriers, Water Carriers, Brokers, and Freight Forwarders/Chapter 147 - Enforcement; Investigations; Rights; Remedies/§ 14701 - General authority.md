@@ -10,7 +10,7 @@ Complaints.—A person, including a governmental authority, may file with the Se
 
 (c)
 
-Deadline.—A formal investigative proceeding begun by the Secretary or Board under subsection (a) of this section is dismissed automatically unless it is concluded with administrativefinality by the end of the 3d year after the date on which it was begun.
+Deadline.—A formal investigative proceeding begun by the Secretary or Board under subsection (a) of this section is dismissed automatically unless it is concluded with administrative finality by the end of the 3d year after the date on which it was begun.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 904.)
 

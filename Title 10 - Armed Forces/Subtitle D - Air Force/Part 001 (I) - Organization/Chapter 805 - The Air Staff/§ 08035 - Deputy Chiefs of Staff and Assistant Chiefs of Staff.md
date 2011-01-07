@@ -12,7 +12,7 @@ A prior section 8035 was renumbered section 8034 of this title.
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–181 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The number of Deputy Chiefs of Staff and Assistant Chiefs of Staff shall be prescribed by the Secretary, except that—
+<b>2008</b>—Subsec. (b). Pub. L. 110–181 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The number of Deputy Chiefs of Staff and Assistant Chiefs of Staff shall be prescribed by the Secretary, except that—
 
 &emsp;“(1) there may not be more than five Deputy Chiefs of Staff; and
 

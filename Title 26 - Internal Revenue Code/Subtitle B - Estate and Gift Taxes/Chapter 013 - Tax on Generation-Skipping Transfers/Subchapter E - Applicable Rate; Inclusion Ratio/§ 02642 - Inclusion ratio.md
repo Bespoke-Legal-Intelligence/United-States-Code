@@ -230,7 +230,7 @@ Except as provided in regulations—
 
 #### (5) Coordination with subsection (d)
 
-&emsp;Under regulations, appropriate adjustments shall be made in the application of subsection\(d) to take into account the provisions of this subsection.
+&emsp;Under regulations, appropriate adjustments shall be made in the application of subsection (d) to take into account the provisions of this subsection.
 
 #### (g) Relief provisions
 
@@ -262,9 +262,9 @@ Except as provided in regulations—
 
 #### Amendments
 
-2001—Subsec. (a)(3). Pub. L. 107–16, §§562(a), 901, temporarily added par. (3). See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (a)(3). Pub. L. 107–16, §§562(a), 901, temporarily added par. (3). See Effective and Termination Dates of 2001 Amendment note below.
 
-Subsec. (b)(1). Pub. L. 107–16, §§563(a), 901, temporarily reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “If the allocation of the GST exemption to any property is made on a gift tax return filed on or before the date prescribed by section 6075(b) or is deemed to be made under section 2632(b)(1)—
+Subsec. (b)(1). Pub. L. 107–16, §§563(a), 901, temporarily reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “If the allocation of the GST exemption to any property is made on a gift tax return filedon or before the date prescribed by section 6075(b) or is deemed to be made under section 2632(b)(1)—
 
 &emsp;“(A) the value of such property for purposes of subsection (a) shall be its value for purposes of chapter 12, and
 
@@ -276,7 +276,7 @@ Subsec. (b)(2)(A). Pub. L. 107–16, §§563(b), 901, temporarily reenacted head
 
 Subsec. (g). Pub. L. 107–16, §§564(a), 901, temporarily added subsec. (g). See Effective and Termination Dates of 2001 Amendment note below.
 
-1990—Subsec. (b)(3). Pub. L. 101–508, §11704(a)(36), amended Pub. L. 100–647, §1014(g)(4)(F)(ii). See 1988 Amendment note below.
+<b>1990</b>—Subsec. (b)(3). Pub. L. 101–508, §11704(a)(36), amended Pub. L. 100–647, §1014(g)(4)(F)(ii). See 1988 Amendment note below.
 
 Subsec. (c)(2). Pub. L. 101–508, §11703(c)(2), inserted at end: “Rules similar to the rules of section 2652(c)(3) shall apply for purposes of subparagraph (A).”
 
@@ -284,9 +284,9 @@ Subsec. (c)(2)(B). Pub. L. 101–508, §11703(c)(1), substituted “the trust do
 
 Subsec. (d)(2)(B)(i)(I). Pub. L. 101–508, §11704(a)(17), substituted “State” for “state”.
 
-1989—Subsec. (b)(1), (3). Pub. L. 101–239 substituted “a gift tax return filed on or before the date prescribed by section 6075(b)” for “a timely filed gift tax return required by section 6019” in introductory provisions.
+<b>1989</b>—Subsec. (b)(1), (3). Pub. L. 101–239 substituted “a gift tax return filed on or before the date prescribed by section 6075(b)” for “a timely filed gift tax return required by section 6019” in introductory provisions.
 
-1988—Subsec. (a)(2). Pub. L. 100–647, §1014(g)(4)(B), struck out at end “Except as provided in paragraphs (3) and (4) of subsection (b), the value determined under subparagraph (B)(i) shall be of the property as of the time of the transfer to the trust (or the direct skip).”
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–647, §1014(g)(4)(B), struck out at end “Except as provided in paragraphs (3) and (4) of subsection (b), the value determined under subparagraph (B)(i) shall be of the property as of the time of the transfer to the trust (or the direct skip).”
 
 Subsec. (b). Pub. L. 100–647, §1014(g)(4)(D), inserted “Except as provided in subsection (f)—” as introductory provision.
 
@@ -348,7 +348,7 @@ Relief from late elections.—Section 2642(g)(1) of the Internal Revenue Code of
 
 Substantial compliance.—Section 2642(g)(2) of such Code (as so added) shall apply to transfers subject to chapter 11 or 12 of the Internal Revenue Code of 1986 made after December 31, 2000. No implication is intended with respect to the availability of relief from late elections or the application of a rule of substantial compliance on or before such date.”
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1990 Amendment
 

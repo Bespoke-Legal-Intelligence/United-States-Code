@@ -38,7 +38,7 @@ A prior section 344 of Pub. L. 89–329 was classified to section 1069 of this t
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–315, §314(c)(1), substituted “$1,100,000,000” for “$375,000,000” in introductory provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §314(c)(1), substituted “$1,100,000,000” for “$375,000,000” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 110–315, §314(c)(2), substituted “$733,333,333” for “$250,000,000”.
 

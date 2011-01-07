@@ -18,7 +18,7 @@ In making grants under subsection (a) of this section, the Secretary shall take 
 
 &emsp;(3) Whether the entity demonstrates, in the application for the program, support and participation of State and local governments and research institutions in the conduct of the program.
 
-&emsp;(4) Whether the entity is proximate to, and collaborates with, or is, an academic medicalcenter that has the capacity to serve an uninsured or underserved population, and is equipped to educate medical personnel.
+&emsp;(4) Whether the entity is proximate to, and collaborates with, or is, an academic medical center that has the capacity to serve an uninsured or underserved population, and is equipped to educate medical personnel.
 
 &emsp;(5) Such other factors as the Secretary determines to be appropriate.
 
@@ -42,7 +42,7 @@ There is authorized to be appropriated to carry out this section $6,000,000 for 
 
 #### Amendments
 
-2004—Subsec. (f). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading.
+<b>2004</b>—Subsec. (f). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading.
 
 #### Change of Name
 

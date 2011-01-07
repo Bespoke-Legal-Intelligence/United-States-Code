@@ -6,7 +6,7 @@ For purposes of this subpart:
 
 &emsp;&emsp;(A) approval of a new drug submitted under section 355(b) of this title, or
 
-&emsp;&emsp;(B) licensure of a biological product under section 262 of title 42.
+&emsp;&emsp;(B) licensure of a biological product under subsection (a) or (k) of section 262 of title 42.
 
 > &emsp;Such term does not include a supplement to such an application, does not include an application with respect to whole blood or a blood component for transfusion, does not include an application with respect to a bovine blood product for topical application licensed before September 1, 1992, an allergenic extract product, or an in vitro diagnostic biologic product licensed under section 262 of title 42, does not include an application with respect to a large volume parenteral drug product approved before September 1, 1992, does not include an application for a licensure of a biological product for further manufacturing use only, and does not include an application or supplement submitted by a State or Federal Government entity for a drug that is not distributed commercially. Such term does include an application for licensure, as described in subparagraph (B), of a large volume biological product intended for single dose injection for intravenous use or infusion.
 
@@ -72,7 +72,7 @@ For purposes of this subpart:
 
 &emsp;&emsp;(B) a third party controls, or has power to control, both of the business entities.
 
-(June 25, 1938, ch. 675, §735, as added Pub. L. 102–571, title I, §103, Oct. 29, 1992, 106 Stat. 4491; amended Pub. L. 105–115, title I, §§102, 125(b)(2)(M), Nov. 21, 1997, 111 Stat. 2298, 2326; Pub. L. 107–188, title V, §503, June 12, 2002, 116 Stat. 688; Pub. L. 110–85, title I, §102, Sept. 27, 2007, 121 Stat. 825.)
+(June 25, 1938, ch. 675, §735, as added Pub. L. 102–571, title I, §103, Oct. 29, 1992, 106 Stat. 4491; amended Pub. L. 105–115, title I, §§102, 125(b)(2)(M), Nov. 21, 1997, 111 Stat. 2298, 2326; Pub. L. 107–188, title V, §503, June 12, 2002, 116 Stat. 688; Pub. L. 110–85, title I, §102, Sept. 27, 2007, 121 Stat. 825; Pub. L. 111–148, title VII, §7002(f)(3)(A), Mar. 23, 2010, 124 Stat. 818.)
 
 #### Amendment of Section
 
@@ -88,7 +88,9 @@ For purposes of this subpart:
 
 #### Amendments
 
-2007—Pub. L. 110–85, §§102(1), 106(a), in introductory provisions, temporarily substituted “For purposes of this subpart” for “For purposes of this part”. See Effective and Termination Dates of 2007 Amendment note below.
+<b>2010</b>—Par. (1)(B). Pub. L. 111–148 substituted “subsection (a) or (k) of section 262 of title 42” for “section 262 of title 42”.
+
+<b>2007</b>—Pub. L. 110–85, §§102(1), 106(a), in introductory provisions, temporarily substituted “For purposes of this subpart” for “For purposes of this part”. See Effective and Termination Dates of 2007 Amendment note below.
 
 Par. (1). Pub. L. 110–85, §§102(2)(D), 106(a), temporarily substituted “subparagraph (B)” for “subparagraph (C)” in concluding provisions. See Effective and Termination Dates of 2007 Amendment note below.
 
@@ -112,7 +114,7 @@ Par. (8). Pub. L. 110–85, §§102(6), 106(a), temporarily substituted “Octob
 
 Pars. (9) to (11). Pub. L. 110–85, §§102(7), (8), 106(a), temporarily added pars. (9) and (10) and redesignated former par. (9) as (11). See Effective and Termination Dates of 2007 Amendment note below.
 
-2002—Par. (1). Pub. L. 107–188, §§503(1), 509, temporarily substituted “licensure, as described in subparagraph (C)” for “licensure, as described in subparagraph (D)” in concluding provisions. See Effective and Termination Dates of 2002 Amendment note below.
+<b>2002</b>—Par. (1). Pub. L. 107–188, §§503(1), 509, temporarily substituted “licensure, as described in subparagraph (C)” for “licensure, as described in subparagraph (D)” in concluding provisions. See Effective and Termination Dates of 2002 Amendment note below.
 
 Par. (3). Pub. L. 107–188, §§503(2)(D), 509, which directed the temporary amendment of concluding provisions of par. (3) by striking “section 262 of title 42” and all that follows through “biological product” and inserting “section 262 of title 42. Such term does not include a biological product”, was executed by striking language ending with “biological product” the first time appearing, thereby making the substitution for “section 262 of title 42, does not include a large volume parenteral drug product approved before September 1, 1992, does not include a biological product”, to reflect the probable intent of Congress. See Effective and Termination Dates of 2002 Amendment note below.
 
@@ -122,7 +124,7 @@ Par. (6)(F). Pub. L. 107–188, §§503(3), 509, temporarily added subpar. (F). 
 
 Par. (8). Pub. L. 107–188, §§503(4), 509, temporarily struck out designations of subpars. (A) and (B) and text of subpar. (B) and concluding provisions, substituting definition of “adjustment factor” as the Consumer Price Index for definition of Index as the lower of the Consumer Price Index or the total of discretionary budget authority provided for programs in the domestic category for the immediately preceding fiscal year divided by such budget authority for fiscal year 1997. See Effective and Termination Dates of 2002 Amendment note below.
 
-1997—Par. (1). Pub. L. 105–115, §§102(1), 107, in closing provisions, temporarily struck out “and” before “does not include an application” and substituted “September 1, 1992, does not include an application for a licensure of a biological product for further manufacturing use only, and does not include an application or supplement submitted by a State or Federal Government entity for a drug that is not distributed commercially. Such term does include an application for licensure, as described in subparagraph (D), of a large volume biological product intended for single dose injection for intravenous use or infusion” for “September 1, 1992” before period at end. See Effective and Termination Dates of 1997 Amendment note below.
+<b>1997</b>—Par. (1). Pub. L. 105–115, §§102(1), 107, in closing provisions, temporarily struck out “and” before “does not include an application” and substituted “September 1, 1992, does not include an application for a licensure of a biological product for further manufacturing use only, and does not include an application or supplement submitted by a State or Federal Government entity for a drug that is not distributed commercially. Such term does include an application for licensure, as described in subparagraph (D), of a large volume biological product intended for single dose injection for intravenous use or infusion” for “September 1, 1992” before period at end. See Effective and Termination Dates of 1997 Amendment note below.
 
 Par. (1)(B) to (D). Pub. L. 105–115, §125(b)(2)(M), inserted “or” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “initial certification or initial approval of an antibiotic drug under section 357 of this title, or”.
 
@@ -166,7 +168,7 @@ Pub. L. 105–115, title I, §107, Nov. 21, 1997, 111 Stat. 2305, provided that:
 
 #### Termination Date
 
-Pub. L. 102–571, title I, §105, Oct. 29, 1992, 106 Stat. 4498, provided that: “The amendments made by section103 \[enacting this subpart\] shall not be in effect after October 1, 1997 and section 104 \[enacting provisions set out as a note below\] shall not be in effect after 120 days after such date.”
+Pub. L. 102–571, title I, §105, Oct. 29, 1992, 106 Stat. 4498, provided that: “The amendments made by section 103 \[enacting this subpart\] shall not be in effect after October 1, 1997 and section 104 \[enacting provisions set out as a note below\] shall not be in effect after 120 days after such date.”
 
 #### Savings Provision
 

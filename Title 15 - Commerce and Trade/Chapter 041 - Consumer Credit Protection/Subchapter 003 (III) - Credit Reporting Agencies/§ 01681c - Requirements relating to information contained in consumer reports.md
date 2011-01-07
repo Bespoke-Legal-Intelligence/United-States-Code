@@ -62,7 +62,7 @@ If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) o
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, no person that accepts credit cards or debit cards for the transaction of businessshall print more than the last 5 digits of the card number or the expiration date upon any receipt provided to the cardholder at the point of the sale or transaction.
+&emsp;Except as otherwise provided in this subsection, no person that accepts credit cards or debit cards for the transaction of business shall print more than the last 5 digits of thecard number or the expiration date upon any receipt provided to the cardholder at the point of the sale or transaction.
 
 #### (2) Limitation
 
@@ -96,7 +96,17 @@ If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) o
 
 &emsp;&emsp;&emsp;(ii) if the user establishes a continuing relationship with the consumer, and the user regularly and in the ordinary course of business furnishes information to the consumer reporting agency from which the notice of discrepancy pertaining to the consumer was obtained, to reconcile the address of the consumer with the consumer reporting agency by furnishing such address to such consumer reporting agency as part of information regularly furnished by the user for the period in which the relationship is established.
 
-(Pub. L. 90–321, title VI, §605, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 95–598, title III, §312(b), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 104–208, div. A, title II, §2406(a)–(e)(1), Sept. 30, 1996, 110 Stat. 3009–434, 3009–435; Pub. L. 105–347, §5, Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title I, §113, title II, §212(d), title III, §315, title IV, §412(b), (c), title VIII, §811(c)(1), (2)(A), Dec. 4, 2003, 117 Stat. 1959, 1977, 1996, 2002, 2011.)
+(Pub. L. 90–321, title VI, §605, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 95–598, title III, §312(b), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 104–208, div. A, title II, §2406(a)–(e)(1), Sept. 30, 1996, 110 Stat. 3009–434, 3009–435; Pub. L. 105–347, §5, Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title I, §113, title II, §212(d), title III, §315, title IV, §412(b), (c), title VIII, §811(c)(1), (2)(A), Dec. 4, 2003, 117 Stat. 1959, 1977, 1996, 2002, 2011; Pub. L. 111–203, title X, §1088(a)(2)(D), (5), July 21, 2010, 124 Stat. 2087.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1088(a)(2)(D), (5), 1100H, July 21, 2010, 124 Stat. 2087, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
+
+<i>(1) by striking “The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly” each place that term appears and inserting “The Bureau shall”; and</i>
+
+<i>(2) in subsection (h)(2)(A), by striking “with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title” and inserting “, in consultation with the Federal banking agencies, the National Credit Union Administration, and the Federal Trade Commission,”.</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -104,7 +114,7 @@ The Bankruptcy Act, referred to in subsec. (a)(1), was act July 1, 1898, ch. 541
 
 #### Amendments
 
-2003—Subsec. (a)(1). Pub. L. 108–159, §811(c)(1), substituted “(1) Cases” for “(1) cases”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–159, §811(c)(1), substituted “(1) Cases” for “(1) cases”.
 
 Subsec. (a)(2). Pub. L. 108–159, §811(c)(2)(A), made technical correction to directory language of Pub. L. 105–347, §5(1). See 1998 Amendment note below.
 
@@ -118,11 +128,11 @@ Subsec. (g). Pub. L. 108–159, §113, added subsec. (g).
 
 Subsec. (h). Pub. L. 108–159, §315, added subsec. (h).
 
-1998—Subsec. (a)(2). Pub. L. 105–347, §5(1), as amended by Pub. L. 108–159, §811(c)(2)(A), substituted “Civil suits, civil judgments, and records of arrest that” for “Suits and judgments which”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–347, §5(1), as amended by Pub. L. 108–159, §811(c)(2)(A), substituted “Civil suits, civil judgments, and records of arrest that” for “Suits and judgments which”.
 
 Subsec. (a)(5), (6). Pub. L. 105–347, §5(2)–(4), redesignated par. (6) as (5), inserted “, other than records of convictions of crimes” after “of information”, and struck out former par. (5) which read as follows: “Records of arrest, indictment, or conviction of crime which, from date of disposition, release, or parole, antedate the report by more than seven years.”
 
-1996—Pub. L. 104–208, §2406(e)(1), amended section catchline.
+<b>1996</b>—Pub. L. 104–208, §2406(e)(1), amended section catchline.
 
 Subsec. (a). Pub. L. 104–208, §2406(a)(1), inserted heading.
 
@@ -134,7 +144,11 @@ Subsec. (d). Pub. L. 104–208, §2406(c), added subsec. (d).
 
 Subsecs. (e), (f). Pub. L. 104–208, §2406(d), added subsecs. (e) and (f).
 
-1978—Subsec. (a)(1). Pub. L. 95–598 substituted “cases under title 11 or under the Bankruptcy Act that, from the date of entry of the order for relief or the date of adjudication, as the case may be, antedate the report by more than 10 years” for “Bankruptcies which, from date of adjudication of the most recent bankruptcy, antedate the report by more than fourteen years”.
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–598 substituted “cases under title 11 or under the Bankruptcy Act that, from the date of entry of the order for relief or the date of adjudication, as the case may be, antedate the report by more than 10 years” for “Bankruptcies which, from date of adjudication of the most recent bankruptcy, antedate the report by more than fourteen years”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2003 Amendment
 

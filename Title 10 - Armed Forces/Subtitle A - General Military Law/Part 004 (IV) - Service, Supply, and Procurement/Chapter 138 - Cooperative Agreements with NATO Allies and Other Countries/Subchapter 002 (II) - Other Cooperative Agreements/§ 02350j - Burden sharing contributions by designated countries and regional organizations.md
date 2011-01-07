@@ -6,7 +6,7 @@ Authority To Accept Contributions.—The Secretary of Defense, after consultatio
 
 (b)
 
-Accounting.—Contributions accepted under subsection (a) which are not related to security assistance may be accepted, managed,and expended in dollars or in the currency of the host nation (or, in the case of a contribution from a regional organization, in the currency in which the contribution was provided). Any such contribution shall be placed in an account established for such purpose and shall remain available until expended for the purposes specified in subsection (c). The Secretary of Defense shall establish a separate account for such purpose for each country or regional organization from which such contributions are accepted under subsection (a).
+Accounting.—Contributions accepted under subsection (a) which are not related to security assistance may be accepted, managed, and expended in dollars or in the currency of the host nation (or, in the case of a contribution from a regional organization, in the currency in which the contribution was provided). Any such contribution shall be placed in an account established for such purpose and shall remain available until expended for the purposes specified in subsection (c). The Secretary of Defense shall establish a separate account for such purpose for each country or regional organization from which such contributions are accepted under subsection (a).
 
 (c)
 
@@ -66,7 +66,7 @@ Section, as added by Pub. L. 103–160, consists of text of Pub. L. 102–190, d
 
 #### Amendments
 
-2003—Subsec. (e)(1). Pub. L. 108–136, §1043(b)(12)(A), substituted “congressional defense committees” for “congressional committees specified in subsection (g)” in introductory provisions.
+<b>2003</b>—Subsec. (e)(1). Pub. L. 108–136, §1043(b)(12)(A), substituted “congressional defense committees” for “congressional committees specified in subsection (g)” in introductory provisions.
 
 Subsec. (e)(2). Pub. L. 108–136, §1031(a)(18), inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of that report is provided in an electronic medium pursuant to section 480 of this title”.
 
@@ -74,13 +74,13 @@ Subsec. (e)(3)(B). Pub. L. 108–136, §1043(b)(12)(A), substituted “congressi
 
 Subsec. (g). Pub. L. 108–136, §1043(b)(12)(B), struck out subsec. (g) which listed the congressional committees referred to in subsec. (e).
 
-1999—Subsec. (e)(3). Pub. L. 106–65, §2801(a), added par. (3).
+<b>1999</b>—Subsec. (e)(3). Pub. L. 106–65, §2801(a), added par. (3).
 
 Subsec. (g). Pub. L. 106–65, §2801(b), substituted “subsection (e)” for “subsection (e)(1)” in introductory provisions.
 
 Subsec. (g)(2). Pub. L. 106–65, §1067(1), substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1996—Subsec. (b). Pub. L. 104–106, §1331(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “
+<b>1996</b>—Subsec. (b). Pub. L. 104–106, §1331(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “
 
 Credit to Appropriations.—Contributions accepted in a fiscal year under subsection (a) shall be credited to appropriations of the Department of Defense that are available for that fiscal year for the purposes for which the contributions are made. The contributions so credited shall be—
 
@@ -94,7 +94,7 @@ Subsec. (e)(1). Pub. L. 104–106, §1331(c)(1), substituted “to the congressi
 
 Subsec. (g). Pub. L. 104–106, §1331(c)(2), added subsec. (g).
 
-1994—Subsec. (a). Pub. L. 103–337, §1070(a)(10)(A), inserted a comma after second reference to “Secretary of State”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §1070(a)(10)(A), inserted a comma after second reference to “Secretary of State”.
 
 Subsec. (f). Pub. L. 103–337, §1070(a)(10)(B), struck out “the” before “Congress” in introductory provisions.
 

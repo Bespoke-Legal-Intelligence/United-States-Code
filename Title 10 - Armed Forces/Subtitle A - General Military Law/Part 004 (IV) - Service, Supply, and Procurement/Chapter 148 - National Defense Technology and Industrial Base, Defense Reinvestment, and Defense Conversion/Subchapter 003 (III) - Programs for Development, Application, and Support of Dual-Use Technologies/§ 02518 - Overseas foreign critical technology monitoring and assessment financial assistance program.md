@@ -16,5 +16,5 @@ A prior section 2518 was renumbered section 2522 of this title and subsequently 
 
 #### Amendments
 
-1992—Pub. L. 102–484 renumbered section 2526 of this title as this section.
+<b>1992</b>—Pub. L. 102–484 renumbered section 2526 of this title as this section.
 

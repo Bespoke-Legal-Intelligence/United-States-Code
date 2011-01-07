@@ -18,13 +18,13 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1982—Par. (1). Pub. L. 97–387 substituted “not less than $125” for “not to exceed $125”.
+<b>1982</b>—Par. (1). Pub. L. 97–387 substituted “not less than $125” for “not to exceed $125”.
 
-1970—Pub. L. 91–352 struck out provisions extending health care under cl. (3) to a married volunteer's child if born during the volunteer's service.
+<b>1970</b>—Pub. L. 91–352 struck out provisions extending health care under cl. (3) to a married volunteer's child if born during the volunteer's service.
 
-1965—Pub. L. 89–134 extended the health care provisions of cl. (3) to a married volunteer's child if born during the volunteer's service.
+<b>1965</b>—Pub. L. 89–134 extended the health care provisions of cl. (3) to a married volunteer's child if born during the volunteer's service.
 
-1963—Pub. L. 88–200 substituted “a readjustment allowance” for “termination payments” in cl. (1).
+<b>1963</b>—Pub. L. 88–200 substituted “a readjustment allowance” for “termination payments” in cl. (1).
 
 #### Effective Date of 1982 Amendment
 

@@ -6,5 +6,5 @@ Any organization desiring to avail itself of the benefits provided in this subch
 
 #### Amendments
 
-1986—Pub. L. 99–546 substituted “$5,000” for “$1,000”.
+<b>1986</b>—Pub. L. 99–546 substituted “$5,000” for “$1,000”.
 

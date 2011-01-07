@@ -14,9 +14,9 @@ Revolving funds.—The Secretary may make grants to nonprofit housing agencies t
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–550 designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+<b>1992</b>—Subsec. (a). Pub. L. 102–550 designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
-1980—Subsec. (a). Pub. L. 96–399 inserted reference to Indian tribes.
+<b>1980</b>—Subsec. (a). Pub. L. 96–399 inserted reference to Indian tribes.
 
-1974—Subsec. (a). Pub. L. 93–383 provided for applicability to public agencies and substituted “any section of this subchapter or under any other law which provides financial assistance for housing low- and moderate-income families” for “section 1715z or 1715z–1 of title 12 or section 1490a of this title”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–383 provided for applicability to public agencies and substituted “any section of this subchapter or under any other law which provides financial assistance for housing low- and moderate-income families” for “section 1715z or 1715z–1 of title 12 or section 1490a of this title”.
 

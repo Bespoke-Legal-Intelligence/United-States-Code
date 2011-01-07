@@ -40,7 +40,7 @@ Hazards.—In carrying out paragraph (1), a State may, at its discretion—
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–178, §1401(1), inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, realigned margins, substituted “motorists, bicyclists, and pedestrians” for “motorists and pedestrians”, and added par. (2).
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §1401(1), inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, realigned margins, substituted “motorists, bicyclists, and pedestrians” for “motorists and pedestrians”, and added par. (2).
 
 Subsec. (b). Pub. L. 105–178, §1401(2), substituted “safety improvement project, including a project described in subsection (a)” for “highway safety improvement project”.
 
@@ -56,17 +56,17 @@ Subsec. (e). Pub. L. 105–178, §1401(4), struck out “apportioned to the Stat
 
 Subsecs. (f), (g). Pub. L. 105–178, §1401(5), substituted “safety improvement projects” for “highway safety improvement projects” wherever appearing.
 
-1995—Subsec. (g). Pub. L. 104–59 substituted “Committee on Transportation and Infrastructure” for “Committee on Public Works and Transportation”.
+<b>1995</b>—Subsec. (g). Pub. L. 104–59 substituted “Committee on Transportation and Infrastructure” for “Committee on Public Works and Transportation”.
 
-1987—Subsec. (g). Pub. L. 100–17 substituted “the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives” for “the Congress”.
+<b>1987</b>—Subsec. (g). Pub. L. 100–17 substituted “the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives” for “the Congress”.
 
-1983—Subsec. (c). Pub. L. 97–424 substituted provision that funds authorized to carry out this section shall be available for expenditure on any public road (other than a highway on the Interstate System), for provision that funds authorized to carry out this section would be available solely for expenditure for projects on any Federal-aid system (other than the Interstate System) except in the Virgin Islands, Guam, and American Samoa.
+<b>1983</b>—Subsec. (c). Pub. L. 97–424 substituted provision that funds authorized to carry out this section shall be available for expenditure on any public road (other than a highway on the Interstate System), for provision that funds authorized to carry out this section would be available solely for expenditure for projects on any Federal-aid system (other than the Interstate System) except in the Virgin Islands, Guam, and American Samoa.
 
-1982—Subsec. (g). Pub. L. 97–375 inserted “(including but not limited to any projects for pavement marking)” after “implementing the hazard elimination program”.
+<b>1982</b>—Subsec. (g). Pub. L. 97–375 inserted “(including but not limited to any projects for pavement marking)” after “implementing the hazard elimination program”.
 
-1979—Subsec. (g). Pub. L. 96–106 substituted “December 30” for “September 30” and “April 1” for “January 1”.
+<b>1979</b>—Subsec. (g). Pub. L. 96–106 substituted “December 30” for “September 30” and “April 1” for “January 1”.
 
-1978—Subsec. (a). Pub. L. 95–599 substituted “public roads” for “highways” and inserted provisions relating to identification of hazardous sections and elements.
+<b>1978</b>—Subsec. (a). Pub. L. 95–599 substituted “public roads” for “highways” and inserted provisions relating to identification of hazardous sections and elements.
 
 Subsec. (b). Pub. L. 95–599 substituted provisions relating to approval of highway safety improvement projects by the Secretary for provisions authorizing appropriations for fiscal years ending June 30, 1974 through June 30, 1976.
 
@@ -78,7 +78,7 @@ Subsec. (e). Pub. L. 95–599 substituted provisions relating to apportionment o
 
 Subsecs. (f) to (h). Pub. L. 95–599 added subsecs. (f) and (g) and redesignated former subsec. (f) as (h).
 
-1976—Subsec. (f). Pub. L. 94–280 added subsec. (f).
+<b>1976</b>—Subsec. (f). Pub. L. 94–280 added subsec. (f).
 
 #### Termination of Reporting Requirements
 

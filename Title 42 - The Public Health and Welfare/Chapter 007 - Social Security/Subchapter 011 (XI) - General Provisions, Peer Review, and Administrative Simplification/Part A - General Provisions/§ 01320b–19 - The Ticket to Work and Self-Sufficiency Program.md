@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, under which a disabled beneficiary may use a ticket towork and self-sufficiency issued by the Commissioner in accordance with this section to obtain employment services, vocational rehabilitation services, or other support services from an employment network which is of the beneficiary's choice and which is willing to provide such services to such beneficiary.
+The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, under which a disabled beneficiary may use a ticket to work and self-sufficiency issued by the Commissioner in accordance with this section to obtain employment services, vocational rehabilitation services, or other support services from an employment network which is of the beneficiary's choice and which is willing to provide such services to such beneficiary.
 
 #### (b) Ticket system
 
@@ -84,7 +84,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (7) Dispute resolution
 
-&emsp;The Commissioner shall provide for a mechanism for resolving disputes between beneficiaries and employment networks, between program managers and employment networks, and between program managers and providers of services. The Commissioner shall afford a party to such a dispute a reasonable opportunity for a full and fair review of the matter in dispute.
+&emsp;The Commissioner shall provide for a mechanism for resolving disputes between beneficiaries and employment networks, betweenprogram managers and employment networks, and between program managers and providers of services. The Commissioner shall afford a party to such a dispute a reasonable opportunity for a full and fair review of the matter in dispute.
 
 #### (e) Program managers
 
@@ -232,7 +232,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (B) Outcome payment period
 
-&emsp;&emsp;The term “outcome payment period” means, in connection with any individualwho had assigned a ticket to work and self-sufficiency to an employment network under the Program, a period—
+&emsp;&emsp;The term “outcome payment period” means, in connection with any individual who had assigned a ticket to work and self-sufficiency to an employment network under the Program, a period—
 
 &emsp;&emsp;&emsp;(i) beginning with the first month, ending after the date on which such ticket was assigned to the employment network, for which benefits (described in paragraphs (3) and (4) of subsection (k) of this section) are not payable to such individual by reason of engagement in substantial gainful activity or by reason of earnings from work activity; and
 
@@ -246,7 +246,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (B) Number and amounts of milestone payments
 
-&emsp;&emsp;The Commissioner shall periodically review the number and amounts of milestone payments established by the Commissioner pursuant to this section to determine whether they provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, taking into account information provided to the Commissioner by program managers, the Ticket to Work and Work Incentives Advisory Panel established by section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, and other reliable sources. The Commissioner may from time to time alter the number and amounts of milestone payments initially established by the Commissioner pursuant to this section to the extent that the Commissioner determines that such an alteration would allow an adequate incentive for employment networks to assist beneficiaries to enter the workforce. Such alteration shall be based on information provided to the Commissioner by program managers, the Ticket to Work and Work Incentives Advisory Panel established by section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, or other reliable sources.
+&emsp;&emsp;The Commissioner shall periodically review the number and amounts of milestone payments established by the Commissioner pursuant to this section to determine whether they provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, taking into account information provided to the Commissioner by program managers, the Ticket to Work and Work Incentives Advisory Panel established by section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, and other reliable sources. The Commissioner may from time to time alter thenumber and amounts of milestone payments initially established by the Commissioner pursuant to this section to the extent that the Commissioner determines that such an alteration would allow an adequate incentive for employment networks to assist beneficiaries to enter the workforce. Such alteration shall be based on information provided to the Commissioner by program managers, the Ticket to Work and Work Incentives Advisory Panel established by section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, or other reliable sources.
 
 #### (C) Report on the adequacy of incentives
 
@@ -310,7 +310,7 @@ In this section:
 
 Not later than 1 year after December 17, 1999, the Commissioner shall prescribe such regulations as are necessary to carry out the provisions of this section.
 
-(Aug. 14, 1935, ch. 531, title XI, §1148, as added Pub. L. 106–170, title I, §101(a), Dec. 17, 1999, 113 Stat. 1863; amended Pub. L. 108–203, title IV, §405(a), Mar. 2, 2004, 118 Stat. 526.)
+(Aug. 14, 1935, ch. 531, title XI, §1148, as added Pub. L. 106–170, title I, §101(a), Dec. 17, 1999, 113Stat. 1863; amended Pub. L. 108–203, title IV, §405(a), Mar. 2, 2004, 118 Stat. 526.)
 
 #### References in Text
 
@@ -324,7 +324,7 @@ Section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999
 
 #### Amendments
 
-2004—Subsec. (g)(1). Pub. L. 108–203 inserted concluding provisions.
+<b>2004</b>—Subsec. (g)(1). Pub. L. 108–203 inserted concluding provisions.
 
 #### Effective Date of 2004 Amendment
 

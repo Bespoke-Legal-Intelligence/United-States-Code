@@ -60,17 +60,17 @@ The Harmonized Tariff Schedule of the United States, referred to in subsecs. (c)
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–432, §401(f)(2)(A), struck out at end “This subsection and section 5754 shall not apply to any person who relands or receives tobacco products in the quantity allowed entry free of tax and duty under chapter 98 of the Harmonized Tariff Schedule of the United States, and such person may voluntarily relinquish to the Secretary at the time of entry any excess of such quantity without incurring the penalty under this subsection. No quantity of tobacco products other than the quantity referred to in the preceding sentence may be relanded or received as a personal use quantity.”
+<b>2006</b>—Subsec. (c). Pub. L. 109–432, §401(f)(2)(A), struck out at end “This subsection and section 5754 shall not apply to any person who relands or receives tobacco products in the quantity allowed entry free of tax and duty under chapter 98 of the Harmonized Tariff Schedule of the United States, and such person may voluntarily relinquish to the Secretary at the time of entry any excess of such quantity without incurring the penalty under this subsection. No quantity of tobacco products other than the quantity referred to in the preceding sentence may be relanded or received as a personal use quantity.”
 
 Subsecs. (d) to (f). Pub. L. 109–432, §401(f)(1), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
-2000—Subsec. (c). Pub. L. 106–554 inserted at end “This subsection and section 5754 shall not apply to any person who relands or receives tobacco products in the quantity allowed entry free of tax and duty under chapter 98 of the Harmonized Tariff Schedule of the United States, and such person may voluntarily relinquish to the Secretary at the time of entry any excess of such quantity without incurring the penalty under this subsection. No quantity of tobacco products other than the quantity referred to in the preceding sentence may be relanded or received as a personal use quantity.”
+<b>2000</b>—Subsec. (c). Pub. L. 106–554 inserted at end “This subsection and section 5754 shall not apply to any person who relands or receives tobacco products in the quantity allowed entry free of tax and duty under chapter 98 of the Harmonized Tariff Schedule of the United States, and such person may voluntarily relinquish to the Secretary at the time of entry any excess of such quantity without incurring the penalty under this subsection. No quantity of tobacco products other than the quantity referred to in the preceding sentence may be relanded or received as a personal use quantity.”
 
 Pub. L. 106–476, §4003(a), inserted at end “This subsection and section 5754 shall not apply to any person who relands or receives tobacco products in the quantity allowed entry free of tax and duty under subchapter IV of chapter 98 of the Harmonized Tariff Schedule of the United States. No quantity of tobacco products other than the quantity referred to in the preceding sentence may be relanded or received as a personal use quantity.”
 
 Pub. L. 106–476, §4002(c), which directed amendment of the last sentence of subsec. (c) by substituting “the jurisdiction of the United States shall be forfeited to the United States and destroyed. All vessels, vehicles, and aircraft used in such relanding or in removing such products, papers, and tubes from the place where relanded, shall be forfeited to the United States.” for “the jurisdiction of the United States” and all that followed through the end period, was executed by making the substitution for “the jurisdiction of the United States, and all vessels, vehicles, and aircraft used in such relanding or in removing such products, papers, and tubes from the place where relanded, shall be forfeited to the United States.” in the second sentence of subsec. (c) to reflect the probable intent of Congress and the intervening retroactive amendments by Pub. L. 106–476, §4003(a), and Pub. L. 106–554. See above.
 
-1997—Subsec. (a). Pub. L. 105–33, §9302(h)(1)(C), substituted “subsection (b) or (c)” for “subsection (b)”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §9302(h)(1)(C), substituted “subsection (b) or (c)” for “subsection (b)”.
 
 Subsec. (c). Pub. L. 105–33, §9302(h)(1)(B), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -80,19 +80,19 @@ Pub. L. 105–33, §9302(h)(1)(B), redesignated subsec. (c) as (d). Former subse
 
 Subsec. (e). Pub. L. 105–33, §9302(h)(1)(B), redesignated subsec. (d) as (e).
 
-1989—Subsec. (a). Pub. L. 101–239, §7721(c)(4), inserted “or part II of subchapter A of chapter 68” after “or 6653”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7721(c)(4), inserted “or part II of subchapter A of chapter 68” after “or 6653”.
 
 Subsec. (c). Pub. L. 101–239, §7721(c)(5), substituted “6665” for “6662” in heading and “6665(a)” for “6662(a)” in text.
 
-1984—Subsec. (c). Pub. L. 98–369 substituted “section 6662” for “section 6660” in heading and “section 6662(a)” for “section 6660(a)” in text.
+<b>1984</b>—Subsec. (c). Pub. L. 98–369 substituted “section 6662” for “section 6660” in heading and “section 6662(a)” for “section 6660(a)” in text.
 
-1983—Subsec. (c). Pub. L. 97–448 substituted “section 6660” for “section 6659” in heading, and substituted “section 6660(a)” for “section 6659(a)” in text.
+<b>1983</b>—Subsec. (c). Pub. L. 97–448 substituted “section 6660” for “section 6659” in heading, and substituted “section 6660(a)” for “section 6659(a)” in text.
 
-1981—Subsec. (c). Pub. L. 97–34, §724(b)(5), added subsec. (c). Former subsec. (c), which related to applicability of section 6656 to failure to make deposit of taxes imposed under subchapter A on the prescribed date and imposition of penalty, was struck out.
+<b>1981</b>—Subsec. (c). Pub. L. 97–34, §724(b)(5), added subsec. (c). Former subsec. (c), which related to applicability of section 6656 to failure to make deposit of taxes imposed under subchapter A on the prescribed date and imposition of penalty, was struck out.
 
 Subsec. (d). Pub. L. 97–34, §§722(a)(3), 724(b)(5), added subsec. (d). Former subsec. (d), which related to applicability of section 6660 and penalties imposed by subsections (b) and (c) to be assessed, collected, and paid in the manner as taxes provided in section 6660(a), was struck out. See subsec. (c).
 
-1958—Subsec. (a). Pub. L. 85–859 struck out reference to section 6652 of this title.
+<b>1958</b>—Subsec. (a). Pub. L. 85–859 struck out reference to section 6652 of this title.
 
 Subsec. (b). Pub. L. 85–859 substituted provisions relating to failure to pay tax for provisions which made persons willfully failing to pay a tax liable, in addition to any other penalty provided in this title, to a penalty of the amount of the tax evaded, or not paid.
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 105–33 applicable to articles removed, as defined in sect
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 applicable to returns the due date for which (determined without regard toextensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as a note under section 461 of this title.
+Amendment by Pub. L. 101–239 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as a note under section 461 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by section 722(a)(3) of Pub. L. 97–34 applicable to returns filed after Dec. 31, 1981, see section 722(a)(4) of Pub. L. 97–34, set out as a note under section 5684 of this title.
+Amendment by section 722(a)(3) of Pub. L. 97–34 applicable to returns filed after Dec. 31, 1981, see section722(a)(4) of Pub. L. 97–34, set out as a note under section 5684 of this title.
 
 Amendment by section 724(b)(5) of Pub. L. 97–34 applicable to returns filed after Aug. 13, 1981, see section 724(c) of Pub. L. 97–34, set out as a note under section 6656 of this title.
 

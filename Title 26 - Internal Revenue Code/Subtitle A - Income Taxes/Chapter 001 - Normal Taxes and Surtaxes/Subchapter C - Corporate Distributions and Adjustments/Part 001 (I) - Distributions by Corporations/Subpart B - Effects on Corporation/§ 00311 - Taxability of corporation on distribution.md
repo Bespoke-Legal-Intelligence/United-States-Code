@@ -32,17 +32,17 @@ Except as provided in subsection (b), no gain or loss shall be recognized to a c
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–647, §1018(d)(5)(E), substituted “distribution (not in complete liquidation) with respect to its stock” for “distribution, with respect to its stock,”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1018(d)(5)(E), substituted “distribution (not in complete liquidation) with respect to its stock” for “distribution, with respect to its stock,”.
 
 Subsec. (b)(2). Pub. L. 100–647, §1006(e)(21)(B), substituted “liabilities” for “liabilities in excess of basis” in heading.
 
 Subsec. (b)(3). Pub. L. 100–647, §1006(e)(8)(B), added par. (3).
 
-1986—Pub. L. 99–514 amended section generally, substituting provisions relating to distributions of appreciated property for provisions relating to LIFO inventory, liability in excess of basis, and appreciated property used to redeem stock.
+<b>1986</b>—Pub. L. 99–514 amended section generally, substituting provisions relating to distributions of appreciated property for provisions relating to LIFO inventory, liability in excess of basis, and appreciated property used to redeem stock.
 
-1984—Subsec. (d). Pub. L. 98–369, §54(a)(3), substituted “Distributions of appreciated property” for “Appreciated property used to redeem stock” in heading.
+<b>1984</b>—Subsec. (d). Pub. L. 98–369, §54(a)(3), substituted “Distributions of appreciated property” for “Appreciated property used to redeem stock” in heading.
 
-Subsec. (d)(1). Pub. L. 98–369, §54(a)(1), substituted “This subsection shall be applied after the applicationsof subsections (b) and (c)” for “Subsections (b) and (c) shall not apply to any distribution to which this subsection applies” in provisions following subpar. (B).
+Subsec. (d)(1). Pub. L. 98–369, §54(a)(1), substituted “This subsection shall be applied after the applications of subsections (b) and (c)” for “Subsections (b) and (c) shall not apply to any distribution to which this subsection applies” in provisions following subpar. (B).
 
 Subsec. (d)(1)(A). Pub. L. 98–369, §54(a)(1), struck out “of part or all of his stock in such corporation” before “and”.
 
@@ -54,7 +54,7 @@ Subsec. (e)(1)(C). Pub. L. 98–369, §712(j), added subpar. (C).
 
 Subsec. (e)(3). Pub. L. 98–369, §54(a)(2)(C), added par. (3).
 
-1982—Subsec. (d)(2)(A). Pub. L. 97–248, §223(a)(1), substituted reference to a distribution to a corporate shareholder if the basis of the property distributed is determined under section 301(d)(2) for reference to a distribution in complete redemption of all of the stock of a shareholder who, at all times within the 12-month period ending on the date of such distribution owned at least 10 percent in value of the outstanding stock of the distributing corporation, but only if the redemption qualified under section 302(b)(3) (determined without the application of section 302(c)(2)(A)(ii)).
+<b>1982</b>—Subsec. (d)(2)(A). Pub. L. 97–248, §223(a)(1), substituted reference to a distribution to a corporate shareholder if the basis of the property distributed is determined under section 301(d)(2) for reference to a distribution in complete redemption of all of the stock of a shareholder who, at all times within the 12-month period ending on the date of such distribution owned at least 10 percent in value of the outstanding stock of the distributing corporation, but only if the redemption qualified under section 302(b)(3) (determined without the application of section 302(c)(2)(A)(ii)).
 
 Subsec. (d)(2)(B). Pub. L. 97–248, §223(a)(1), substituted reference to a distribution to which section 302(b)(4) applies and which is made with respect to qualified stock for reference to a distribution of stock or an obligation of a corporation, which was engaged in at least one trade or business, which had not received property constituting a substantial part of its assets from the distributing corporation, in a transaction to which section 351 applied or as a contribution to capital, within the 5-year period ending on the date of the distribution, and at least 50 percent in value of the outstanding stock of which was owned by the distributing corporation at any time within the 9-year period ending one year before the date of the distribution.
 
@@ -64,15 +64,15 @@ Subsec. (d)(2)(G). Pub. L. 97–248, §223(a)(3), struck out subpar. (G) which p
 
 Subsec. (e). Pub. L. 97–248, §223(a)(2), added subsec. (e).
 
-1980—Subsec. (a). Pub. L. 96–471 substituted “section 453B” for “Section 453(d)”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–471 substituted “section 453B” for “Section 453(d)”.
 
-1978—Subsec. (d)(2)(G), (H). Pub. L. 95–600 redesignated subpar. (H) as (G).
+<b>1978</b>—Subsec. (d)(2)(G), (H). Pub. L. 95–600 redesignated subpar. (H) as (G).
 
-1976—Subsec. (d)(1)(B). Pub. L. 94–455, §1901(a) (42)(A), substituted “then a gain shall be recognized” for “then again shall be recognized”.
+<b>1976</b>—Subsec. (d)(1)(B). Pub. L. 94–455, §1901(a) (42)(A), substituted “then a gain shall be recognized” for “then again shall be recognized”.
 
 Subsec. (d)(2). Pub. L. 94–452 and Pub. L. 94–455 §1901(a)(42)(B)(i), (C), struck out subpar. (C) relating to certain distributions before Dec. 1, 1974, struck out “26 Stat. 209;” before “15 U.S.C. 1–7)” and “38 Stat. 730;” before “15 U.S.C. 12–27)” in subpar. (D), added subpar. (H), and redesignated subpars. (D) to (G), as so amended, as subpars. (C) to (F), respectively.
 
-1969—Subsec. (a). Pub. L. 91–172, §905(b)(1), inserted reference to subsec. (d).
+<b>1969</b>—Subsec. (a). Pub. L. 91–172, §905(b)(1), inserted reference to subsec. (d).
 
 Subsec. (d). Pub. L. 91–172, §905(a), added subsec. (d).
 
@@ -122,7 +122,7 @@ Special rule for certain distributions before january 1, 1988.—
 
 &emsp;&emsp;“(i)
 
-In general.—In the case of a transaction to which this subparagraph applies, subparagraph (A) shall be applied by substituting ‘1988’ for ‘1985’ and the amendments made by subtitle D of title VI of the Tax Reform Act of 1986 \[sections 631 to 634 of Pub. L. 99–514, enacting sections 336 and 337 of this title, amending this section and sections 26, 312, 332, 334, 338, 341, 346, 367, 453, 453B, 467, 852, 897, 1056, 1248,1255, 1276, 1363, 1366, 1374, and 1375 of this title, repealing sections 333, 336, and 337 of this title, and enacting provisions set out as a note under section 301 of this title\] shall not apply.
+In general.—In the case of a transaction to which this subparagraph applies, subparagraph (A) shall be applied by substituting ‘1988’ for ‘1985’ and the amendments made by subtitle D of title VI of the Tax Reform Act of 1986 \[sections 631 to 634 of Pub. L. 99–514, enacting sections 336 and 337 of this title, amending this section and sections 26, 312, 332, 334, 338, 341, 346, 367, 453, 453B, 467, 852, 897, 1056, 1248, 1255, 1276, 1363, 1366, 1374, and 1375 of this title, repealing sections 333, 336, and 337 of this title, and enacting provisions set out as a note under section 301 of this title\] shall not apply.
 
 &emsp;&emsp;“(ii)
 

@@ -16,7 +16,7 @@ Any reference in this joint resolution to the “Compact” shall be treated as 
 
 &emsp;(A) to all actions of the Government of the United States under the Compact including, but not limited to, actions taken pursuant to sections 431, 432, 441, or 442;
 
-&emsp;(B) to any amendment, change, or termination in any agreement that may be concluded at any time between the Government of the United States and the Government of Palau regarding friendship, cooperation andmutual security concluded pursuant to sections 321 and 323 of the Compact referred to in section 462(h);
+&emsp;(B) to any amendment, change, or termination in any agreement that may be concluded at any time between the Government of the United States and the Government of Palau regarding friendship, cooperation and mutual security concluded pursuant to sections 321 and 323 of the Compact referred to in section 462(h);
 
 &emsp;(C) to any amendment, change, or termination of the agreements concluded pursuant to Compact sections 175 and 221(a)(4), the terms of which are incorporated by reference into the Compact; and
 
@@ -114,7 +114,9 @@ Section 201 of Pub. L. 99–658 provided that: “Compact of Free Association is
 
 #### “COMPACT OF FREE ASSOCIATION
 
-I74“preambleI74“the government of the united states of america and the government of palau
+#### “preamble
+
+#### “the government of the united states of america and the government of palau
 
 “Affirming that their Governments and the relationship between their Governments are founded upon respect for human rights and fundamental freedoms for all, and
 
@@ -260,7 +262,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 “(b) Persons designated by the sending Government may serve in the capacity of its resident representatives with the consent of the receiving Government. Such designated persons shall be immune from civil and criminal process relating to words spoken or written and all acts performed by them in their official capacity and falling within their functions as such representatives, except insofar as such immunity may be expressly waived by the sending Government. While serving in a resident representative capacity, such designated persons shall not be liable to arrest or detention pending trial, except in the case of a grave crime and pursuant to a decision by a competent judicial authority, and such persons shall enjoy immunity from seizure of personal property, immigration restrictions, and laws relating to alien registration, fingerprinting, and the registration of foreign agents.
 
-“(c) The sending Governments and their respective assets, income and other property shall be exempt from all direct taxes, except those direct taxes representing payment for specific goods and services, and shall be exempt from all customs duties and restrictions on the import or export of articles required for the official functions and personal use of their representatives and representative offices.
+“(c) The sending Governments and their respective assets, income and other property shall be exempt fromall direct taxes, except those direct taxes representing payment for specific goods and services, and shall be exempt from all customs duties and restrictions on the import or export of articles required for the official functions and personal use of their representatives and representative offices.
 
 “(d) Persons designated by the sending Government to serve in the capacity of its resident representatives shall enjoy the same taxation exemptions as are set forth in Article 34 of the Vienna Convention on Diplomatic Relations.
 
@@ -288,7 +290,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 &emsp;“(2) shall develop, prior to conducting any activity included within the category described in this Section, appropriate mechanisms, including regulations or other standards and procedures, to regulate such activity in Palau in a manner appropriate to the special governmental relationship set forth in this Compact. The Government of the United States shall provide the Government of Palau with the opportunity to comment formally during the development of such mechanisms.
 
-“(b) The Government of Palau shall develop standards and procedures to protect the environment of Palau. As a reciprocal obligation to the undertakings of the Government of the United States under this Article, the Government of Palau, taking into account the particular environment of Palau, shall develop standards for environmental protection substantivelysimilar to those required of the Government of the United States by Section 163(a)(1) prior to conducting activities in Palau substantively equivalent to activities conducted there by the Government of the United States and, as a further reciprocal obligation, shall enforce those standards.
+“(b) The Government of Palau shall develop standards and procedures to protect the environment of Palau. As a reciprocal obligation to the undertakings of the Government of the United States under this Article, the Government of Palau, taking into account the particular environment of Palau, shall develop standards for environmental protection substantively similar to those required of the Government of the United States by Section 163(a)(1) prior to conducting activities in Palau substantively equivalent to activities conducted there by the Government of the United States and, as a further reciprocal obligation, shall enforce those standards.
 
 “(c) Section 163(a), including any standard or procedure applicable thereunder, and Section 163(b) may be modified or superseded in whole or in part by agreement of the Government of the United States and the Government of Palau.
 
@@ -342,7 +344,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 177
 
-“(a) Federal agencies of the Government of the United States which provide services and related programs in Palau are authorized to settle and pay tortclaims arising in Palau from the activities of such agencies or from the acts or omissions of the employees of such agencies. Except as provided in Section 177(b), the provisions of 28 U.S.C. 2672 and 31 U.S.C. 1304 shall apply exclusively to such administrative settlements and payments.
+“(a) Federal agencies of the Government of the United States which provide services and related programs in Palau are authorized to settle and pay tort claims arising in Palau from the activities of such agencies or from the acts or omissions of the employees of such agencies. Except as provided in Section 177(b), the provisions of 28 U.S.C. 2672 and 31 U.S.C. 1304 shall apply exclusively to such administrative settlements and payments.
 
 “(b) Claims under Section 177(a) which cannot be settled under Section 177(a) shall be disposed of exclusively in accordance with Article II of Title Four. Arbitration awards rendered pursuant to this subsection shall be paid out of funds under 31 U.S.C. 1304.
 
@@ -382,7 +384,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 “(e) The sum of $666,800 as a contribution to the commencement of activities pursuant to Section 211(d)(1).
 
-“(f) The sum of $66 million on the effective date of this Compact, and the sum of $4 million concurrently with the grant assistance to be made available during the third year after the effective date of this Compact, to create a fund to be invested by the Government of Palau in issues of bonds, notes or other redeemable instruments of the Government of the United States or other qualified instruments which may be identified by mutual agreement of the Government of the United States and the Government of Palau. Investment of the fund in qualified instruments of United States nationality, and the distribution of sums derived from such investment to the Government of Palau, shall not be subject to any form of taxation by the United States or its political subdivisions. The Government of the United States and the Government of Palau shall set forth in a separate agreement, which shall come into effect simultaneously with this Compact, provisions for the investment, management and review of the fund so as to allow for an agreed minimum annual distribution from its accrued principal and interest commencing upon the effective date of this Compact for fifty years. The objective of this sum is to produce an average annual distribution of $15 million commencing on the fifteenth anniversary of this Compact for thirty-five years. Any excess or variance from the agreed minimum annual distributions which may be produced from these sums shall accrue to or be absorbed by the Government of Palau unless otherwise mutually agreed in accordance with the provisions of the separate agreement referred to in this paragraph. The annual distributions produced from these sums are not subject to Sections 215 and 236.
+“(f) The sum of $66 million on the effective date of this Compact, and the sum of $4 million concurrently with the grant assistance to be made available during the third year after the effective date of this Compact, to create a fund to be invested by the Government of Palau in issues of bonds, notes or other redeemable instruments of the Government of the United States or other qualified instruments which may be identified by mutual agreement of the Government of the UnitedStates and the Government of Palau. Investment of the fund in qualified instruments of United States nationality, and the distribution of sums derived from such investment to the Government of Palau, shall not be subject to any form of taxation by the United States or its political subdivisions. The Government of the United States and the Government of Palau shall set forth in a separate agreement, which shall come into effect simultaneously with this Compact, provisions for the investment, management and review of the fund so as to allow for an agreed minimum annual distribution from its accrued principal and interest commencing upon the effective date of this Compact for fifty years. The objective of this sum is to produce an average annual distribution of $15 million commencing on the fifteenth anniversary of this Compact for thirty-five years. Any excess or variance from the agreed minimum annual distributions which may be produced from these sums shall accrue to or be absorbed by the Government of Palau unless otherwise mutually agreed in accordance with the provisions of the separate agreement referred to in this paragraph. The annual distributions produced from these sums are not subject to Sections 215 and 236.
 
 #### “Section 212
 
@@ -468,7 +470,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 “(a) Funds held in trust by the High Commissioner of the Trust Territory of the Pacific Islands, in his official capacity, as of the effective date of this Compact shall remain available as trust funds to their designated beneficiaries. The Government of the United States, in consultation with the Government of Palau, shall appoint a new trustee who shall exercise the functions formerly exercised by the High Commissioner of the Trust Territory of the Pacific Islands.
 
-“(b) To provide for the continuity of administration, and to assure the Governments \[sic\] of Palau that thepurposes of the laws of the United States are carried out and that the funds of any other trust fund in which the High Commissioner of the Trust Territory of the Pacific Islands has authority of a statutory or customary nature shall remain available as trust funds to their designated beneficiaries, the Government of the United States agrees to assume the authority formerly vested in the High Commissioner of the Trust Territory of the Pacific Islands.
+“(b) To provide for the continuity of administration, and to assure the Governments \[sic\] of Palau that the purposes of the laws of the United States are carried out and that the funds of any other trust fund in which the High Commissioner of the Trust Territory of the Pacific Islands has authority of a statutory or customary nature shall remain available as trust funds to their designated beneficiaries, the Government of the United States agrees to assume the authority formerly vested in the High Commissioner of the Trust Territory of the Pacific Islands.
 
 #### “Section 236
 
@@ -512,7 +514,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 251
 
-“The currency of the United States is the official circulating legal tender of Palau. Should the Government of Palau act to institute another currency, the terms of an appropriate currency transitional period shall be as agreed with the Government of the United States.
+“The currency of the United States is the official circulating legal tender of Palau. Should the Governmentof Palau act to institute another currency, the terms of an appropriate currency transitional period shall be as agreed with the Government of the United States.
 
 #### “Section 252
 
@@ -536,7 +538,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 “(a) For purposes of section 936 of the Internal Revenue Code of 1954 Palau shall be treated as if it was a possession of the United States.
 
-“(b) Subsection (a) of this Section shall not apply to Palau for any period after December 31, 1986, during which there is not in effect between Palau and the United States an exchange of information agreement ofthe kind described in section 274(h)(6)(C) (other than clause (ii) thereof) of the Internal Revenue Code of 1954.
+“(b) Subsection (a) of this Section shall not apply to Palau for any period after December 31, 1986, during which there is not in effect between Palau and the United States an exchange of information agreement of the kind described in section 274(h)(6)(C) (other than clause (ii) thereof) of the Internal Revenue Code of 1954.
 
 “(c) If the tax incentives extended to Palau under subsection (a) of this Section are, at any time during which the Compact is in effect, reduced, the United States Secretary of the Treasury shall negotiate an agreement with the Government of Palau under which, when such agreement is approved by law, Palau will be provided with benefits substantially equivalent to such reduction in benefits. If within the 1-year period after the date of the enactment of the Act making the reduction in benefits, an agreement negotiated under the preceding sentence is not approved by law, the matter shall be submitted to the Arbitration Board established pursuant to Section 424. For purposes of Article V of this Title, the Secretary of the Treasury or his delegate shall be the member of such Board representing the Government of the United States. Any decision of such Board in the matter when approved by law shall be binding on the United States, except that such decision rendered is binding only as to whether the United States has provided the substantially equivalent benefits referred to in this subsection.
 
@@ -826,7 +828,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 471
 
-“(a) The Government of the United States and the Government of Palau agree that they have full authority under their respective constitutions to enter into this Compact and its related agreements and to fulfill all of their respective responsibilities in accordance with the terms of this Compact and its related agreements. The Governments pledge that they are so committed.
+“(a) The Government of the United States and the Government of Palau agree that they have full authority under their respective constitutions to enter into this Compact and its related agreements and to fulfillall of their respective responsibilities in accordance with the terms of this Compact and its related agreements. The Governments pledge that they are so committed.
 
 “(b) The Government of the United States and the Government of Palau shall take all necessary steps, of a general or particular character, to ensure, not later than the effective date of this Compact, that their laws, regulations and administrative procedures are such as to effect the commitments referred to in Section 471(a).
 
@@ -840,13 +842,25 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “done at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, this \_\_\_\_\_\_ day
 
-I74“of \_\_\_\_, one thousand nine hundred eighty-fiveI74“for the governmentI74“ofI74“the united states of america
+#### “of \_\_\_\_, one thousand nine hundred eighty-five
+
+#### “for the government
+
+#### “of
+
+#### “the united states of america
 
 #### “\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### “done at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, this \_\_\_\_\_\_ day
 
-I74“of \_\_\_\_, one thousand nine hundred eighty-fiveI74“for the governmentI74“ofI74“the republic of palau
+#### “of \_\_\_\_, one thousand nine hundred eighty-five
+
+#### “for the government
+
+#### “of
+
+#### “the republic of palau
 
 #### “\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_”.
 
@@ -856,7 +870,7 @@ I74“of \_\_\_\_, one thousand nine hundred eighty-fiveI74“for the government
 
 Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, provided:
 
-Since July 18, 1947, the United States has administered the United Nations Trust Territory of the PacificIslands (“Trust Territory”), which has included the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, and Palau.
+Since July 18, 1947, the United States has administered the United Nations Trust Territory of the Pacific Islands (“Trust Territory”), which has included the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, and Palau.
 
 On November 3, 1986, a Covenant between the United States and the Northern Mariana Islands \[48 U.S.C. 1801 note\] came into force. This Covenant established the Commonwealth of the Northern Mariana Islands as a self-governing Commonwealth in political union with and under the sovereignty of the United States.
 
@@ -874,7 +888,7 @@ As of this day, September 27, 1994, the United States has fulfilled its obligati
 
 NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America, by the authority vested in me by the Constitution and laws of the United States, including sections 101 and 102 of the Joint Resolution to approve the “Compact of Free Association” between the United States and the Government of Palau, and for other purposes, approved on November 14, 1986 (Public Law 99–658) \[48 U.S.C. 1931, 1932\], and section 101 of the Joint Resolution to authorize entry into force of the Compact of Free Association between the United States and the Government of Palau, and for other purposes, approved on December 12, 1989 (Public Law 101–219) \[48 U.S.C. 1951\], and pursuant to section 1002 of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America \[48 U.S.C. 1801 note\], and consistent with sections 101 and 102 of the Joint Resolution to approve the “Compact of Free Association” and for other purposes, approved on January 14, 1986 (Public Law 99–239) \[48 U.S.C. 1901, 1902\], do hereby find, declare, and proclaim as follows:
 
-Section 1. I determine that the Trusteeship Agreement for the Pacific Islands will be no longer in effect with respect to the Republic of Palau as of October 1, 1994, at one minute past one o'clock p.m. local time in Palau. This constitutes the determination referred to in section 1002 of the Covenant with the Northern Mariana Islands (Public Law 94–241).
+Section 1. I determine that the Trusteeship Agreement for the Pacific Islands will be no longer in effect with respect to the Republic of Palau as of October 1,1994, at one minute past one o'clock p.m. local time in Palau. This constitutes the determination referred to in section 1002 of the Covenant with the Northern Mariana Islands (Public Law 94–241).
 
 Sec. 2. The Compact of Free Association with the Republic of Palau will be in full force and effect as of October 1, 1994, at one minute past one o'clock p.m. local time in Palau.
 

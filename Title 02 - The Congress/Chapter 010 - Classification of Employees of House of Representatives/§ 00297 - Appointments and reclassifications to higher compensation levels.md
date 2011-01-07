@@ -1,6 +1,6 @@
 ### §297. Appointments and reclassifications to higher compensation levels
 
-(a) Each employee in a compensation level of the House Employees Schedule (HS), who is appointed to a position in a higher compensation level of such schedule, or whose position is placed in a higher compensation level of such schedule pursuant to a reclassification of such position, shall be paid compensation in such higher compensation level, in accordance with the following provisions, whichever is first applicable in the following numerical order of precedence:
+(a) Each employee in a compensation level of the House Employees Schedule (HS), who is appointed to a position in a higher compensation level of such schedule, or whose position isplaced in a higher compensation level of such schedule pursuant to a reclassification of such position, shall be paid compensation in such higher compensation level, in accordance with the following provisions, whichever is first applicable in the following numerical order of precedence:
 
 &emsp;(1) at the rate of the lowest step for which the rate of compensation equals the rate of compensation for that step, in the compensation level from which he is appointed, which is two steps above the step in such level which he had attained immediately prior to such appointment;
 

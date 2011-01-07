@@ -24,19 +24,19 @@ Inapplicability of OMB Circular A–76.—Office of Management and Budget Circul
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–136, §333(1), substituted “Except as provided in subsection (c), subsection” for “Subsection”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–136, §333(1), substituted “Except as provided in subsection (c), subsection” for “Subsection”.
 
 Subsecs. (c), (d). Pub. L. 108–136, §333(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1999—Subsec. (b). Pub. L. 106–65 inserted “(including the cost of labor and materials)” after “$3,000,000”.
+<b>1999</b>—Subsec. (b). Pub. L. 106–65 inserted “(including the cost of labor and materials)” after “$3,000,000”.
 
-1997—Pub. L. 105–85, §363, repealed Pub. L. 104–106, §311(f)(1). See 1996 Amendment note below.
+<b>1997</b>—Pub. L. 105–85, §363, repealed Pub. L. 104–106, §311(f)(1). See 1996 Amendment note below.
 
 Subsecs. (a), (b). Pub. L. 105–85, §355(b), substituted “maintenance and repair” for “maintenance or repair”.
 
-1996—Pub. L. 104–106, §311(f)(1), which directed repeal of this section, was repealed by Pub. L. 105–85, §363.
+<b>1996</b>—Pub. L. 104–106, §311(f)(1), which directed repeal of this section, was repealed by Pub. L. 105–85, §363.
 
-1994—Pub. L. 103–337 amended section generally. Prior to amendment, section read as follows:
+<b>1994</b>—Pub. L. 103–337 amended section generally. Prior to amendment, section read as follows:
 
 “(a)
 
@@ -46,7 +46,7 @@ Requirement for Competition.—The Secretary of Defense or the Secretary of a mi
 
 Inapplicability of OMB Circular A–76.—The use of Office of Management and Budget Circular A–76 shall not apply to a performance change under subsection (a).”
 
-1993—Pub. L. 103–160, §346, amended section, as amended by Pub. L. 103–160, §1182(a)(7), (h), by designating existing provisions as subsec. (a), inserting heading, striking out “threshold” before “value”, substituting “to performance by a contractor unless the Secretary uses competitive procedures for the selection of the contractor to perform such workload” for “unless the Secretary uses competitive procedures to make the change”, and adding subsec. (b).
+<b>1993</b>—Pub. L. 103–160, §346, amended section, as amended by Pub. L. 103–160, §1182(a)(7), (h), by designating existing provisions as subsec. (a), inserting heading, striking out “threshold” before “value”, substituting “to performance by a contractor unless the Secretary uses competitive procedures for the selection of the contractor to perform such workload” for “unless the Secretary uses competitive procedures to make the change”, and adding subsec. (b).
 
 Pub. L. 103–160, §1182(a)(7), struck out “, prior to any such change,” after “Department of Defense unless”.
 

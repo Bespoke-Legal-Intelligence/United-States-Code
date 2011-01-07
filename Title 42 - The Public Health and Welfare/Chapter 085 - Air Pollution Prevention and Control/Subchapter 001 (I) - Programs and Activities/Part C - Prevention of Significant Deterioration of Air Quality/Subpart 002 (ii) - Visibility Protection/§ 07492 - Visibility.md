@@ -16,7 +16,7 @@
 
 #### (b) Impacts of other provisions
 
-Within 24 months after November 15, 1990, the Administrator shall conduct an assessment of the progress and improvements in visibility in class I areas that are likely to result from the implementation of the provisions of the Clean Air Act Amendments of 1990 other than the provisions of this section. Every 5 years thereafter the Administrator shall conduct an assessment of actual progress and improvement in visibility in class I areas. The Administrator shall prepare a written report on each assessment and transmit copies of these reports to the appropriate committees of Congress.
+Within 24 months after November 15, 1990, the Administrator shall conduct an assessment of the progress and improvements in visibility in class I areas that are likely to result from the implementation of the provisions of the Clean Air Act Amendments of 1990 other than the provisions of this section. Every 5 years thereafterthe Administrator shall conduct an assessment of actual progress and improvement in visibility in class I areas. The Administrator shall prepare a written report on each assessment and transmit copies of these reports to the appropriate committees of Congress.
 
 #### (c) Establishment of visibility transport regions and commissions
 
@@ -74,7 +74,11 @@ The Administrator pursuant to subsection (c)(1) of this section shall, within 12
 
 #### References in Text
 
-The Clean Air Act Amendments of 1990, referred to in subsec. (b), probably means Pub. L. 101–549, Nov. 15,1990, 104 Stat. 2399. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The Clean Air Act Amendments of 1990, referred to in subsec. (b), probably means Pub. L. 101–549, Nov. 15, 1990, 104 Stat. 2399. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (c)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> So in original. Words “subsection (b) of this section” probably should be “paragraph (2)”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -28,7 +28,3 @@ The Secretary may—
 
 (Pub. L. 101–185, §6, Nov. 28, 1989, 103 Stat. 1339.)
 
-#### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (c)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-

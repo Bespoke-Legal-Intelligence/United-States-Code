@@ -6,7 +6,7 @@ There shall not be considered as a day of unemployment, or as a day of sickness,
 
 &emsp;(i) any of the seventy-five days beginning with the first day of any registration period with respect to which the Board finds that he knowingly made or aided in making or caused to be made any false or fraudulent statement or claim for the purpose of causing benefits to be paid;
 
-&emsp;(ii) any day in any period with respect to which the Board finds that he is receiving or will have received annuity payments under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\], or insurance benefits under title II of the Social Security Act \[42 U.S.C. 401 et seq.\], or unemployment, maternity, or sickness benefits under an unemployment, maternity, or sickness compensation law other than this chapter, or any other social-insurance payments under any law: <i>Provided</i>, That if an employee receives or is held entitled to receive any such payments, other than unemployment, maternity, or sickness payments, with respect to any period which include days of unemployment or sickness in a registration period, after benefits under this chapter for such registration period will have been paid, the amount by which such benefits under this chapter will have been increased by including such days as days of unemployment or as days of sickness shall be recoverable by the Board: <i>Provided further</i>, That, if that part of any such payment or payments, other than unemployment, maternity, or sickness payments, which is apportionable to such days of unemployment or days of sickness is less in amount than the benefits under this chapter which, but for this paragraph, would be payable and not recoverable with respect to such days of unemployment or days of sickness, the preceding provisions of this paragraph shall not apply but such benefits under this chapter for such days of unemployment or days of sickness shall be diminished or recoverable in the amount of such part of such other payment or payments;
+&emsp;(ii) any day in any period with respect to which the Board finds that he is receiving or will have received annuity payments under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\], or insurance benefits under title II of the Social Security Act \[42 U.S.C. 401 et seq.\], or unemployment, maternity, or sickness benefits under an unemployment, maternity, or sickness compensation law other than this chapter, or any other social-insurance payments under any law: <i>Provided</i>, That if an employee receives or is held entitled to receive any such payments, other than unemployment, maternity, or sickness payments, with respect to any period which include days of unemployment or sickness in a registration period, after benefits under this chapter for such registration period will have been paid, the amount by which such benefits under this chapter will have been increased by including such days as days of unemployment or as days of sickness shall be recoverable by the Board: <i>Provided further</i>, That, if that part of any such payment or payments, other than unemployment, maternity, or sickness payments, whichis apportionable to such days of unemployment or days of sickness is less in amount than the benefits under this chapter which, but for this paragraph, would be payable and not recoverable with respect to such days of unemployment or days of sickness, the preceding provisions of this paragraph shall not apply but such benefits under this chapter for such days of unemployment or days of sickness shall be diminished or recoverable in the amount of such part of such other payment or payments;
 
 &emsp;(iii) if he is paid a separation allowance, any of the days in the period beginning with the day following his separation from service and continuing for that number of consecutive fourteen-day periods which is equal, or most nearly equal, to the amount of the separation allowance divided (i) by ten times his last daily rate of compensation prior to his separation if he normally works five days a week, (ii) by twelve times such rate if he normally works six days a week, and (iii) by fourteen times such rate if he normally works seven days a week; <sup>1</sup>
 
@@ -38,7 +38,7 @@ No work shall be deemed suitable for the purposes of subsection (a–2)(ii) of t
 
 &emsp;(iii) as a condition of being employed he would be required to join a company union or to resign from or refrain from joining any bona fide labor organization;
 
-&emsp;(iv) acceptance of the work would require him to engage in activities in violation of lawor which, by reason of their being in violation of reasonable requirements of the constitution, bylaws, or similar regulations of a bona fide labor organization of which he is a member, would subject him to expulsion from such labor organization; or
+&emsp;(iv) acceptance of the work would require him to engage in activities in violation of law or which, by reason of their being in violation of reasonable requirements of the constitution, bylaws, or similar regulations of a bona fide labor organization of which he is a member, would subject him to expulsion from such labor organization; or
 
 &emsp;(v) acceptance of the work would subject him to loss of substantial seniority rights under any collective bargaining agreement between a railway labor organization, organized in accordance with the provisions of the Railway Labor Act \[45 U.S.C. 151 et seq.\], and any other employer.
 
@@ -64,31 +64,31 @@ The Railway Labor Act, referred to in subsecs. (a–2)(iii) and (c)(v), is act M
 
 #### Amendments
 
-1988—Subsec. (a–2)(i)(A). Pub. L. 100–647 inserted “and before 1989 or, if any part of such compensation is paid in a calendar year after 1988, not less than an amount that is equal to 2.5 times the monthly compensation base for months in such calendar year, as computed under section 351(i) of this title” after “such period”.
+<b>1988</b>—Subsec. (a–2)(i)(A). Pub. L. 100–647 inserted “and before 1989 or, if any part of such compensation is paid in a calendar year after 1988, not less than an amount that is equal to 2.5 times the monthly compensation base for months in such calendar year, as computed under section 351(i) of this title” after “such period”.
 
-1983—Subsec. (a–2)(i)(A). Pub. L. 98–76 substituted “$1,500” for “$1,000”.
+<b>1983</b>—Subsec. (a–2)(i)(A). Pub. L. 98–76 substituted “$1,500” for “$1,000”.
 
-1974—Subsec. (a–1)(ii). Pub. L. 93–445 substituted “annuity payments under the Railroad Retirement Act of 1974” for “annuity payments or pensions under the Railroad Retirement Act of 1935 or the Railroad Retirement Act of 1937”.
+<b>1974</b>—Subsec. (a–1)(ii). Pub. L. 93–445 substituted “annuity payments under the Railroad Retirement Act of 1974” for “annuity payments or pensions under the Railroad Retirement Act of 1935 or the Railroad Retirement Act of 1937”.
 
-1968—Subsec. (a–1)(iii). Pub. L. 90–257, §204(a), added cl. (iii).
+<b>1968</b>—Subsec. (a–1)(iii). Pub. L. 90–257, §204(a), added cl. (iii).
 
 Subsec. (a–2)(i)(A). Pub. L. 90–257, §204(b), substituted “$1,000” for “$750”.
 
-1963—Subsec. (a–2)(i). Pub. L. 88–133 substituted cl. (i) providing in subd. (A) that an employee who voluntarily leaves his work shall not be considered as having days of unemployment for a period beginning with the day he so leaves and continuing until he has been paid compensation of not less than $750 with respect to time after the beginning of such period and subd. (B) that if the Board finds that the employee left work voluntarily with good cause, such disqualification shall not apply, except that in such case the employee would not be considered as having days of unemployment with respect to any day in a registration period if such period includes a day which is in a period for which he could receive benefits under an unemployment law other than this chapter and he so certifies, for former cl. (i) providing that an employee who leaves work voluntarily is not considered as having days of unemployment with respect to any of the first 30 days after he so leaves if the Board finds that he left work voluntarily without good cause.
+<b>1963</b>—Subsec. (a–2)(i). Pub. L. 88–133 substituted cl. (i) providing in subd. (A) that an employee who voluntarily leaves his work shall not be considered as having days of unemployment for a period beginning with the day he so leaves and continuing until he has been paid compensation of not less than $750 with respect to time after the beginning of such period and subd. (B) that if the Board finds that the employee left work voluntarily with good cause, such disqualification shall not apply, except that in such case the employee would not be considered as having days of unemployment with respect to any day in a registration period if such period includes a day which is in a period for which he could receive benefits under an unemployment law other than this chapter and he so certifies, for former cl. (i) providing that an employee who leaves work voluntarily is not considered as having days of unemployment with respect to any of the first 30 days after he so leaves if the Board finds that he left work voluntarily without good cause.
 
-1959—Subsec. (a–2)(iv). Pub. L. 86–28 struck out cl. (iv) which prevented Sundays and holidays from being considered as days of unemployment unless they were preceded and succeeded by a day of unemployment.
+<b>1959</b>—Subsec. (a–2)(iv). Pub. L. 86–28 struck out cl. (iv) which prevented Sundays and holidays from being considered as days of unemployment unless they were preceded and succeeded by a day of unemployment.
 
-1958—Subsec. (a–1)(ii). Pub. L. 85–927 substituted “other than this chapter or any other social-insurance payments under any law” for “of any State of the United States other than this chapter, or any other social-insurance payments under a law of any State or of the United States”.
+<b>1958</b>—Subsec. (a–1)(ii). Pub. L. 85–927 substituted “other than this chapter or any other social-insurance payments under any law” for “of any State of the United States other than this chapter, or any other social-insurance payments under a law of any State or of the United States”.
 
-1951—Subsec. (a–1). Act Oct. 30, 1951, struck out cls. (iii) and (iv) which excepted from consideration as a day of unemployment or as a day of sickness, any days in any registration period in which the employee had certain specified earnings.
+<b>1951</b>—Subsec. (a–1). Act Oct. 30, 1951, struck out cls. (iii) and (iv) which excepted from consideration as a day of unemployment or as a day of sickness, any days in any registration period in which the employee had certain specified earnings.
 
-1946—Subsec. (a–1). Act July 31, 1946, §309(a), (b), designated provisions of former subsec. (a) which apply both to days of unemployment and to days of sickness as subsec. (a–1) and changed cl. (ii) to include sickness and maternity benefits.
+<b>1946</b>—Subsec. (a–1). Act July 31, 1946, §309(a), (b), designated provisions of former subsec. (a) which apply both to days of unemployment and to days of sickness as subsec. (a–1) and changed cl. (ii) to include sickness and maternity benefits.
 
 Subsec. (a–2). Act July 31, 1946, §309(c), designated provisions of former subsec. (a) which apply only to days of unemployment as subsec. (a–2).
 
 Subsecs. (b) to (e). Act July 31, 1946, §310, changed references to subsec. (a) of this section to refer to subsec. (a–2).
 
-1940—Subsec. (a)(ii). Act Oct. 10, 1940, §14, inserted provisions relating to employee's failure to comply with instructions of the Board.
+<b>1940</b>—Subsec. (a)(ii). Act Oct. 10, 1940, §14, inserted provisions relating to employee's failure to comply with instructions of the Board.
 
 Subsec. (a)(iv). Act Oct. 10, 1940, §15, substituted “registration period” for “half-month”.
 
@@ -98,7 +98,7 @@ Subsec. (a)(vi). Act Oct. 10, 1940, §17, substituted provisions relating to ear
 
 Subsec. (a)(vii), (viii). Act Oct. 10, 1940, §18, added cls. (vii) and (viii).
 
-1939—Subsec. (a). Act June 20, 1939, generally revised criteria for determining what shall not be considered as a day of unemployment with respect to any employee.
+<b>1939</b>—Subsec. (a). Act June 20, 1939, generally revised criteria for determining what shall not be considered as a day of unemployment with respect to any employee.
 
 Subsec. (b). Act June 20, 1939, substituted provisions setting forth criteria for determining nonapplicability of disqualification provided in subsec. (a)(iii) of this section, for provisions setting forth criteria for determining nonapplicability of disqualification provided in subsec. (a)(v) of this section.
 

@@ -154,7 +154,7 @@ For purposes of this section—
 
 &emsp;&emsp;Except as provided in subparagraph (B), the term “top-heavy plan” means, with respect to any plan year—
 
-&emsp;&emsp;&emsp;(i) any defined benefit plan if, as of the determination date, the present value of the cumulative accrued benefits under the plan for key employees exceeds 60 percent of the present value of the cumulative accrued benefits under the plan for all employees, and
+&emsp;&emsp;&emsp;(i) any defined benefit plan if, as of the determination date, the present value of the cumulative accrued benefits under the plan for key employees exceeds 60 percentof the present value of the cumulative accrued benefits under the plan for all employees, and
 
 &emsp;&emsp;&emsp;(ii) any defined contribution plan if, as of the determination date, the aggregate of the accounts of key employees under the plan exceeds 60 percent of the aggregate of the accounts of all employees under such plan.
 
@@ -178,7 +178,7 @@ For purposes of this section—
 
 #### (ii) Permissive aggregation
 
-&emsp;&emsp;&emsp;The employer may treat any plan not required to be included in an aggregation group under clause (i) as being part of such group if such group would continue to meet the requirements of sections 401(a)(4)and 410 with such plan being taken into account.
+&emsp;&emsp;&emsp;The employer may treat any plan not required to be included in an aggregation group under clause (i) as being part of such group if such group would continue to meet the requirements of sections 401(a)(4) and 410 with such plan being taken into account.
 
 #### (B) Top-heavy group
 
@@ -338,7 +338,7 @@ For purposes of this section—
 
 &emsp;&emsp;In the case of a simplified employee pension, at the election of the employer, paragraphs (1)(A)(ii) and (2)(B) of subsection (g) shall be applied by taking into account aggregate employer contributions in lieu of the aggregate of the accounts of employees.
 
-(Added Pub. L. 97–248, title II, §240(a), Sept. 3, 1982, 96 Stat. 514; amended Pub. L. 98–369, div. A, title V, §524(a)(1), (b)(1), (c)(1), title VII, §713(f)(1), (4), (5)(A), (6), July 18, 1984, 98 Stat. 872, 958–960; Pub. L. 99–514, title XI, §§1106(d)(3)(A), (B), 1118(a), title XVIII, §1852(d), Oct. 22, 1986, 100 Stat. 2424, 2463, 2867; Pub. L. 100–647, title I, §1011(d)(8), (i)(4)(B), (j)(3)(A), Nov. 10, 1988, 102 Stat. 3460, 3467, 3468; Pub. L. 104–188, title I, §§1421(b)(7), 1431(c)(1)(B), (C), 1452(c)(7), Aug. 20, 1996, 110 Stat. 1797, 1803, 1816; Pub. L. 107–16, title VI, §613(a)–(e), June 7, 2001, 115 Stat. 100–102; Pub. L. 107–147, title IV, §411(k), Mar. 9, 2002, 116 Stat. 47; Pub. L. 108–311, title IV, §408(a)(16), Oct. 4, 2004, 118 Stat. 1192; Pub. L. 109–280, title IX, §902(c), Aug. 17, 2006, 120 Stat. 1036.)
+(Added Pub. L. 97–248, title II, §240(a), Sept. 3, 1982, 96 Stat. 514; amended Pub. L. 98–369, div. A,title V, §524(a)(1), (b)(1), (c)(1), title VII, §713(f)(1), (4), (5)(A), (6), July 18, 1984, 98 Stat. 872, 958–960; Pub. L. 99–514, title XI, §§1106(d)(3)(A), (B), 1118(a), title XVIII, §1852(d), Oct. 22, 1986, 100 Stat. 2424, 2463, 2867; Pub. L. 100–647, title I, §1011(d)(8), (i)(4)(B), (j)(3)(A), Nov. 10, 1988, 102 Stat. 3460, 3467, 3468; Pub. L. 104–188, title I, §§1421(b)(7), 1431(c)(1)(B), (C), 1452(c)(7), Aug. 20, 1996, 110 Stat. 1797, 1803, 1816; Pub. L. 107–16, title VI, §613(a)–(e), June 7, 2001, 115 Stat. 100–102; Pub. L. 107–147, title IV, §411(k), Mar. 9, 2002, 116 Stat. 47; Pub. L. 108–311, title IV, §408(a)(16), Oct. 4, 2004, 118 Stat. 1192; Pub. L. 109–280, title IX, §902(c), Aug. 17, 2006, 120 Stat. 1036.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -348,21 +348,21 @@ For purposes of this section—
 
 The Federal Insurance Contributions Act, referred to in subsec. (e), is act Aug. 16, 1954, ch. 736, §§3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, as amended, which is classified generally to chapter 21 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see section 3128 of this title and Tables.
 
-The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally tosubchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
-2006—Subsec. (g)(4)(H)(i). Pub. L. 109–280, §902(c)(1), inserted “or 401(k)(13)” after “401(k)(12)”.
+<b>2006</b>—Subsec. (g)(4)(H)(i). Pub. L. 109–280, §902(c)(1), inserted “or 401(k)(13)” after “401(k)(12)”.
 
 Subsec. (g)(4)(H)(ii). Pub. L. 109–280, §902(c)(2), inserted “or 401(m)(12)” after “401(m)(11)”.
 
-2004—Subsec. (i)(1)(A). Pub. L. 108–311 substituted “In the case of plan years” for “in the case of plan years” in concluding provisions.
+<b>2004</b>—Subsec. (i)(1)(A). Pub. L. 108–311 substituted “In the case of plan years” for “in the case of plan years” in concluding provisions.
 
-2002—Subsec. (c)(1)(C)(iii). Pub. L. 107–147, §411(k)(1), substituted “Exception for plan under which no key employee (or former key employee) benefits for plan year” for “Exception for frozen plan” in heading.
+<b>2002</b>—Subsec. (c)(1)(C)(iii). Pub. L. 107–147, §411(k)(1), substituted “Exception for plan under which no key employee (or former key employee) benefits for plan year” for “Exception for frozen plan” in heading.
 
 Subsec. (g)(3)(B). Pub. L. 107–147, §411(k)(2), substituted “severance from employment” for “separation from service”.
 
-2001—Subsec. (c)(1)(C)(i). Pub. L. 107–16, §613(e)(A), substituted “clause (ii) or (iii)” for “clause (ii)”.
+<b>2001</b>—Subsec. (c)(1)(C)(i). Pub. L. 107–16, §613(e)(A), substituted “clause (ii) or (iii)” for “clause (ii)”.
 
 Subsec. (c)(1)(C)(iii). Pub. L. 107–16, §613(e)(B), added cl. (iii).
 
@@ -390,7 +390,7 @@ Subsec. (i)(1)(A)(ii)–(iv). Pub. L. 107–16, §613(a)(1)(C), redesignated cls
 
 Subsec. (i)(1)(B)(iii). Pub. L. 107–16, §613(a)(2), struck out “and subparagraph (A)(ii)” after “this subparagraph” in introductory provisions.
 
-1996—Subsec. (g)(4)(G). Pub. L. 104–188, §1421(b)(7), added subpar. (G).
+<b>1996</b>—Subsec. (g)(4)(G). Pub. L. 104–188, §1421(b)(7), added subpar. (G).
 
 Subsec. (h). Pub. L. 104–188, §1452(c)(7), struck out subsec. (h) which related to adjustments in section 415 limits for top-heavy plans.
 
@@ -398,13 +398,13 @@ Subsec. (i)(1)(A). Pub. L. 104–188, §1431(c)(1)(C), substituted “section 41
 
 Subsec. (i)(1)(D). Pub. L. 104–188, §1431(c)(1)(B), substituted “section 414(q)(4)” for “section 414(q)(7)”.
 
-1988—Subsec. (i)(1)(A). Pub. L. 100–647, §1011(i)(4)(B), inserted at end “For purposes of determining the number of officers taken into account under clause (i), employees described in section 414(q)(8) shall be excluded.”
+<b>1988</b>—Subsec. (i)(1)(A). Pub. L. 100–647, §1011(i)(4)(B), inserted at end “For purposes of determining the number of officers taken into account under clause (i), employees described in section 414(q)(8) shall be excluded.”
 
 Subsec. (i)(1)(A)(i). Pub. L. 100–647, §1011(d)(8), substituted “50” for “150” and “415(b)(1)(A)” for “415(c)(1)(A)”.
 
 Subsec. (i)(1)(D). Pub. L. 100–647, §1011(j)(3)(A), added subpar. (D).
 
-1986—Subsec. (a)(3). Pub. L. 99–514, §1106(d)(3)(A), struck out par. (3) which read as follows: “the limitation on compensation requirement of subsection (d).”
+<b>1986</b>—Subsec. (a)(3). Pub. L. 99–514, §1106(d)(3)(A), struck out par. (3) which read as follows: “the limitation on compensation requirement of subsection (d).”
 
 Subsec. (c)(2)(B)(ii), (iii). Pub. L. 99–514, §1106(d)(3)(B)(ii), redesignated cl. (iii) as (ii) and struck out former cl. (ii) which read as follows: “
 
@@ -418,7 +418,7 @@ Subsec. (g)(4)(F). Pub. L. 99–514, §1118(a), added subpar. (F).
 
 Subsec. (i)(1)(A). Pub. L. 99–514, §1852(d)(1), inserted at end “Such term shall not include any officer or employee of an entity referred to in section 414(d) (relating to governmental plans).”
 
-1984—Subsec. (c)(2)(C). Pub. L. 98–369, §524(c)(1), struck out subpar. (C) which provided that for purposes of this paragraph, any employer contribution attributable to a salary reduction or similar arrangement shall not be taken into account.
+<b>1984</b>—Subsec. (c)(2)(C). Pub. L. 98–369, §524(c)(1), struck out subpar. (C) which provided that for purposes of this paragraph, any employer contribution attributable to a salary reduction or similar arrangement shall not be taken into account.
 
 Subsec. (d)(2). Pub. L. 98–369, §713(f)(5)(A), inserted “at the same time and”.
 
@@ -500,5 +500,5 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

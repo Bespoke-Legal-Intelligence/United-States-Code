@@ -10,9 +10,9 @@ Section 1417 of the Alaska National Interest Lands Conservation Act, referred to
 
 #### Amendments
 
-2000—Pub. L. 106–554 and Pub. L. 106–562 amended text identically, substituting “on such property” for “on such Islands”.
+<b>2000</b>—Pub. L. 106–554 and Pub. L. 106–562 amended text identically, substituting “on such property” for “on such Islands”.
 
-1983—Pub. L. 98–129 substituted provisions enumerating the steps to be followed by the Secretary of Commerce in administering the fur seal rookeries and the Federal real and personal property on the Pribilof Islands for provisions which had provided that: “The Pribilof Islands shall continue to be administered as a special reservation by the Secretary of Commerce for the purposes of conserving, managing, and protecting the North Pacific fur seals and other wildlife, and for other purposes.”
+<b>1983</b>—Pub. L. 98–129 substituted provisions enumerating the steps to be followed by the Secretary of Commerce in administering the fur seal rookeries and the Federal real and personal property on the Pribilof Islands for provisions which had provided that: “The Pribilof Islands shall continue to be administered as a special reservation by the Secretary of Commerce for the purposes of conserving, managing, and protecting the North Pacific fur seals and other wildlife, and for other purposes.”
 
 #### Purpose
 
@@ -68,7 +68,7 @@ In general.—Subject to paragraph (2), there are terminated all obligations of 
 
 Application.—Paragraph (1) shall apply on and after the date on which the Secretary of Commerce certifies that—
 
-&emsp;&emsp;“(A) the State of Alaska has provided written confirmation that no further corrective action is required at the sites and operable units covered by the Pribilof Islands Environmental RestorationAgreement between the National Oceanic and Atmospheric Administration and the State of Alaska, signed January 26, 1996, with the exception of postremedial measures, such as monitoring and operation and maintenance activities;
+&emsp;&emsp;“(A) the State of Alaska has provided written confirmation that no further corrective action is required at the sites and operable units covered by the Pribilof Islands Environmental Restoration Agreement between the National Oceanic and Atmospheric Administration and the State of Alaska, signed January 26, 1996, with the exception of postremedial measures, such as monitoring and operation and maintenance activities;
 
 &emsp;&emsp;“(B) the cleanup required under section 3(a) of Public Law 104–91 (16 U.S.C. 1165 note) is complete;
 

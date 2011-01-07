@@ -32,7 +32,7 @@
 
 #### (2) Period for which information is to be furnished, etc.
 
-&emsp;The information required under paragraph (1) shall be furnished for the annual accounting period of the foreign business entity ending with or within the United States person's taxable year. The information so required shall be furnished at such time and in such manner as the Secretary shall prescribe.
+&emsp;The information required under paragraph (1) shall be furnished for the annual accounting period of the foreign business entity ending with or within the United States person'staxable year. The information so required shall be furnished at such time and in such manner as the Secretary shall prescribe.
 
 #### (3) Limitation
 
@@ -146,13 +146,13 @@ A prior section 6038 was renumbered section 6040 of this title.
 
 #### Amendments
 
-1998—Subsec. (a)(2). Pub. L. 105–206, §6011(f)(1), struck out “by regulations” before “prescribe”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–206, §6011(f)(1), struck out “by regulations” before “prescribe”.
 
 Subsec. (a)(3). Pub. L. 105–206, §6011(f)(2), substituted “the Secretary has prescribed the furnishing of such information on or before the first day of such annual accounting period.” for “such information was required to be furnished under regulations in effect on the first day of such annual accounting period.”
 
 Subsec. (e)(4). Pub. L. 105–206, §6011(f)(3), substituted “such foreign business entity” for “such corporation” in two places.
 
-1997—Pub. L. 105–34, §1142(a), inserted “reporting” after “Information” and “and partnerships” after “corporations” in section catchline.
+<b>1997</b>—Pub. L. 105–34, §1142(a), inserted “reporting” after “Information” and “and partnerships” after “corporations” in section catchline.
 
 Subsec. (a). Pub. L. 105–34, §1142(a), reenacted heading without change.
 
@@ -172,7 +172,7 @@ Subsec. (d). Pub. L. 105–34, §1142(e)(1)(D), substituted “foreign business 
 
 Subsec. (e). Pub. L. 105–34, §1142(b), added pars. (1) and (3), redesignated former pars. (1) and (2) as (2) and (4), respectively, inserted “of corporation” after “Control” in par. (2) heading, and substituted “foreign business entity” for “foreign corporation” in two places in par. (4).
 
-1996—Subsec. (a)(1)(E), (F). Pub. L. 104–188, §1704(f)(5)(A), substituted period for “, and” at end of subpar. (E) and struck out subpar. (F) which read as follows: “such information as the Secretary may require for purposes of carrying out the provisions of section 453C.”
+<b>1996</b>—Subsec. (a)(1)(E), (F). Pub. L. 104–188, §1704(f)(5)(A), substituted period for “, and” at end of subpar. (E) and struck out subpar. (F) which read as follows: “such information as the Secretary may require for purposes of carrying out the provisions of section 453C.”
 
 Subsec. (e). Pub. L. 104–188, §1704(t)(40), redesignated subsec. (e), relating to cross references, as (f).
 
@@ -180,19 +180,19 @@ Subsec. (e)(2). Pub. L. 104–188, §1704(t)(46), made technical amendment to di
 
 Subsec. (f). Pub. L. 104–188, §1704(t)(40), redesignated subsec. (e), relating to cross references, as (f).
 
-1990—Subsec. (e)(2). Pub. L. 101–508, as amended by Pub. L. 104–188, §1704(t)(46), in subsec. (e) relating to definitions, inserted at end of par. (2) “In the case of a specified foreign corporation (as defined in section 898), the taxable year of such corporation shall be treated as its annual accounting period.”
+<b>1990</b>—Subsec. (e)(2). Pub. L. 101–508, as amended by Pub. L. 104–188, §1704(t)(46), in subsec. (e) relating to definitions, inserted at end of par. (2) “In the case of a specified foreign corporation (as defined in section 898), the taxable year of such corporation shall be treated as its annual accounting period.”
 
-1989—Subsec. (a)(1). Pub. L. 101–239, §7712(a)(2), inserted before period at end “or which the Secretary determines to be appropriate to carry out the provisions of this title.”
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–239, §7712(a)(2), inserted before period at end “or which the Secretary determines to be appropriate to carry out the provisions of this title.”
 
 Subsec. (a)(4). Pub. L. 101–239, §7712(a)(1), added par. (4).
 
-1986—Subsec. (a)(1)(B). Pub. L. 99–514, §1202(c)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the accumulated profits (as defined in section 902(c)) of such foreign corporation, including the items of income (whether or not included in gross income under chapter 1), deductions (whether or not allowed in computing taxable income under chapter 1), and any other items taken into account in computing such accumulated profits;”.
+<b>1986</b>—Subsec. (a)(1)(B). Pub. L. 99–514, §1202(c)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the accumulated profits (as defined in section 902(c)) of such foreign corporation, including the items of income (whether or not included in gross income under chapter 1), deductions (whether or not allowed in computing taxable income under chapter 1), and any other items taken into account in computing such accumulated profits;”.
 
 Subsec. (a)(1)(F). Pub. L. 99–514, §1245(b)(5), added subpar. (F).
 
 Subsec. (c)(4)(C). Pub. L. 99–514, §1202(c)(2), substituted “post-1986 undistributed earnings” for “accumulated profits in excess of income, war profits, and excess profits taxes”.
 
-1982—Subsec. (a)(1). Pub. L. 97–248, §338(c)(2), substituted “subsection (e)(1)” for “subsection (d)(1)”.
+<b>1982</b>—Subsec. (a)(1). Pub. L. 97–248, §338(c)(2), substituted “subsection (e)(1)” for “subsection (d)(1)”.
 
 Subsec. (b). Pub. L. 97–248, §338(a), added subsec. (b). Former subsec. (b) redesignated (c).
 
@@ -200,15 +200,15 @@ Subsec. (c). Pub. L. 97–248, §338(a), (b), (c)(1), (3), redesignated former s
 
 Subsecs. (d), (e). Pub. L. 97–248, §338(a), redesignated former subsec. (c) as (d). Former subsec. (d), relating to definitions, redesignated (e).
 
-1976—Subsecs. (a), (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (b)(1). Pub. L. 94–455, §1031(b)(5), substituted in subpar. (A) “section 904(c)” for “section 904(d)”.
 
 Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1964—Subsec. (d)(1). Pub. L. 88–554 substituted “subparagraphs (A), (B), and (C) of section 318(a)(3)” for “the second sentence of subparagraphs (A) and (B), and clause (ii) of subparagraph (C), of section 318(a)(2)” insubpar. (A), and deleted “clause (i) of” after “in applying” in subpar. (B).
+<b>1964</b>—Subsec. (d)(1). Pub. L. 88–554 substituted “subparagraphs (A), (B), and (C) of section 318(a)(3)” for “the second sentence of subparagraphs (A) and (B), and clause (ii) of subparagraph (C), of section 318(a)(2)” in subpar. (A), and deleted “clause (i) of” after “in applying” in subpar. (B).
 
-1962—Subsec. (a)(1). Pub. L. 87–834, among other changes, substituted in introductory provisions “Every United States person shall furnish” for “A domestic corporation shall furnish”, in subpar. (D)(i) “such person” for “any foreign corporation controlled by the domestic corporation”, in subpar. (D)(ii) “any other corporation which such person controls” for “any foreign subsidiary of a foreign corporation controlled by the domestic corporation”, in subpar. (D)(iii) “any United States person owning, at the time the transaction takes place, 10 percent or more of the value of any class of stock outstanding of such foreign corporation” for “the domestic corporation or any shareholder of the domestic corporation owning at the time the transaction takes place 10 percent or more of the value of any class of stock outstanding of the domestic corporation”, and in subpar. (E) “each United States person who is a shareholder” for “each citizen or resident of the United States and each domestic corporation who is a shareholder”, and struck out provisions throughout the subsection which related to foreign subsidiaries.
+<b>1962</b>—Subsec. (a)(1). Pub. L. 87–834, among other changes, substituted in introductory provisions “Every United States person shall furnish” for “A domestic corporation shall furnish”, in subpar. (D)(i) “such person” for “any foreign corporation controlled by the domestic corporation”, in subpar. (D)(ii) “any other corporation which such person controls” for “any foreign subsidiary of a foreign corporation controlled by the domestic corporation”, in subpar. (D)(iii) “any United States person owning, at the time the transaction takes place, 10 percent or more of the value of any class of stock outstanding of such foreign corporation” for “the domestic corporation or any shareholder of the domestic corporation owning at the time the transaction takes place 10 percent or more of the value of any class of stock outstanding of the domestic corporation”, and in subpar. (E) “each United States person who is a shareholder” for “each citizen or resident of the United States and each domestic corporation who is a shareholder”, and struck out provisions throughout the subsection which related to foreign subsidiaries.
 
 Subsec. (a)(2). Pub. L. 87–834 substituted provisions requiring the information to be furnished for the annual accounting period ending with or within the United States person's taxable year for provisions which required such information to be furnished for the annual accounting period ending with or within the domestic corporation's taxable year, and struck out provisions which related to the furnishing of information in the case of foreign subsidiaries.
 

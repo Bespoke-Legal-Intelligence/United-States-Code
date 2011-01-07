@@ -2,7 +2,7 @@
 
 The Secretary of the Navy is authorized to place the vessels of the United States Fish and Wildlife Service on the same footing with the Navy Department as those of the National Ocean Survey.
 
-(May 31, 1880, ch. 113, 21 Stat. 151; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53Stat. 1433; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Aug. 8, 1956, ch. 1036, §3, 70 Stat. 1120.)
+(May 31, 1880, ch. 113, 21 Stat. 151; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Aug. 8, 1956, ch. 1036, §3, 70 Stat. 1120.)
 
 #### Change of Name
 

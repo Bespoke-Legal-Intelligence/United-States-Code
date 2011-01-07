@@ -32,7 +32,35 @@ In addition to the tax imposed by the preceding subsection, there shall be impos
 
 During any period in which there is in effect an agreement entered into pursuant to section 233 of the Social Security Act with any foreign country, the self-employment income of an individual shall be exempt from the taxes imposed by this section to the extent that such self-employment income is subject under such agreement exclusively to the laws applicable to the social security system of such foreign country.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 353; Sept. 1, 1954, ch. 1206, title II, §208(a), 68 Stat. 1093; Aug. 1, 1956, ch. 836, title II, §202(a), 70 Stat. 845; Pub. L. 85–840, title IV, §401(a), Aug. 28, 1958, 72 Stat. 1041; Pub. L. 87–64, title II, §201(a), June 30, 1961, 75 Stat. 140; Pub. L. 89–97, title I, §111(c)(4), title III, §321(a), July 30, 1965, 79 Stat. 342, 394; Pub. L. 90–248, title I, §109(a)(1), (b)(1), Jan. 2, 1968, 81 Stat. 835, 836; Pub. L. 92–336, title II, §204 (a)(1), (b)(1), July 1, 1972, 86 Stat. 420, 421; Pub. L. 92–603, title I, §135(a)(1), (b)(1), Oct. 30, 1972, 86 Stat. 1362, 1363; Pub. L. 93–233, §6(b)(1), Dec. 31, 1973, 87 Stat. 955; Pub. L. 94–455, title XIX, §1901(a)(154), Oct. 4, 1976, 90 Stat. 1789; Pub. L. 95–216, title I, §101(a)(3), (b)(3), title III, §317(b)(1), Dec. 20, 1977, 91 Stat. 1511, 1512, 1539; Pub. L. 98–21, title I, §124(a), (b), Apr. 20, 1983, 97 Stat. 89; Pub. L. 101–508, title XI, §11801(a)(36), (c)(16), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527; Pub. L. 108–203, title IV, §415, Mar. 2, 2004, 118 Stat. 530.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 353; Sept. 1, 1954, ch. 1206, title II, §208(a), 68 Stat. 1093; Aug. 1, 1956, ch. 836, title II, §202(a), 70 Stat. 845; Pub. L. 85–840, title IV, §401(a), Aug. 28, 1958, 72 Stat. 1041; Pub. L. 87–64, title II, §201(a), June 30, 1961, 75 Stat. 140; Pub. L. 89–97, title I, §111(c)(4), title III, §321(a), July 30, 1965, 79 Stat. 342, 394; Pub. L. 90–248, title I, §109(a)(1), (b)(1), Jan. 2, 1968, 81 Stat. 835, 836; Pub. L. 92–336, title II, §204 (a)(1), (b)(1), July 1, 1972, 86 Stat. 420, 421; Pub. L. 92–603, title I, §135(a)(1), (b)(1), Oct. 30, 1972, 86 Stat. 1362, 1363; Pub. L. 93–233, §6(b)(1), Dec. 31, 1973, 87 Stat. 955; Pub. L. 94–455, title XIX, §1901(a)(154), Oct. 4, 1976, 90 Stat. 1789; Pub. L. 95–216, title I, §101(a)(3), (b)(3), title III, §317(b)(1), Dec. 20, 1977, 91 Stat. 1511, 1512, 1539; Pub. L. 98–21, title I, §124(a), (b), Apr. 20, 1983, 97 Stat. 89; Pub. L. 101–508, title XI, §11801(a)(36), (c)(16), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527; Pub. L. 108–203, title IV, §415, Mar. 2, 2004, 118 Stat. 530; Pub. L. 111–148, title IX, §9015(b)(1), title X, §10906(b), Mar. 23, 2010, 124 Stat. 871, 1020; Pub. L. 111–152, title I, §1402(b)(1)(B), Mar. 30, 2010, 124 Stat. 1063.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 111–152, title I, §1402(b)(1)(B), (3), Mar. 30, 2010, 124 Stat. 1063, provided that, applicable with respect to remuneration received, and taxable years beginning after, Dec. 31, 2012, subsection (b)(2) of this section, as added and amended by sections 9015 and 10906 of Pub. L. 111–148, is amended:</i>
+
+<i>(1) in subparagraph (A), by striking “and” at the end of clause (i), redesignating clause (ii) as (iii), and adding after clause (i) the following new clause:</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) in the case of a married taxpayer (as defined in section 7703) filing a separate return, 1/2 of the dollar amount determined under clause (i), and”; and</i>
+
+<i>(2) in subparagraph (B), by striking “under clauses (i) and (ii)” and inserting “under clause (i), (ii), or (iii) (whichever is applicable)”.</i>
+
+<i>Pub. L. 111–148, title X, §10906(b), (c), Mar. 23, 2010, 124 Stat. 1020, provided that, applicable with respect to remuneration received, and taxable years beginning, after Dec. 31, 2012, subsection (b)(2)(A) of this section, as added by section 9015(b)(1) of Pub. L. 111–148, is amended by striking “0.5 percent” and inserting “0.9 percent”.</i>
+
+<i>Pub. L. 111–148, title IX, §9015(b)(1), (c), Mar. 23, 2010, 124 Stat. 871, 872, provided that, applicable with respect to remuneration received, and taxable years beginning, after Dec. 31, 2012, subsection (b) of this section is amended by inserting “(1) In general” before “In addition” and adding at the end a paragraph (2), to read as follows:</i>
+
+#### <i>(2) Additional tax</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>In addition to the tax imposed by paragraph (1) and the preceding subsection, there is hereby imposed on every taxpayer (other than a corporation, estate, or trust) for each taxable year beginning after December 31, 2012, a tax equal to 0.5 percent of the self-employment income for such taxable year which is in excess of—</i>
+
+&emsp;&emsp;&emsp;<i>(i) in the case of a joint return, $250,000, and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) in any other case, $200,000.</i>
+
+#### <i>(B) Coordination with FICA</i>
+
+&emsp;&emsp;<i>The amounts under clauses (i) and (ii) of subparagraph (A) shall be reduced (but not below zero) by the amount of wages taken into account in determining the tax imposed under section 3121(b)(2) with respect to the taxpayer.</i>
 
 #### References in Text
 
@@ -40,27 +68,27 @@ Section 233 of the Social Security Act, referred to in subsec. (c), is classifie
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–203 substituted “exclusively to the laws applicable to” for “to taxes or contributions for similar purposes under”.
+<b>2004</b>—Subsec. (c). Pub. L. 108–203 substituted “exclusively to the laws applicable to” for “to taxes or contributions for similar purposes under”.
 
-1990—Subsecs. (c), (d). Pub. L. 101–508 redesignated subsec. (d) as (c) and struck out former subsec. (c) which provided a credit against self-employment taxes imposed by this section.
+<b>1990</b>—Subsecs. (c), (d). Pub. L. 101–508 redesignated subsec. (d) as (c) and struck out former subsec. (c) which provided a credit against self-employment taxes imposed by this section.
 
-1983—Subsec. (a). Pub. L. 98–21, §124(a), amended subsec. (a) generally, substituting a table for former pars. (1) to (7) which had imposed a tax on the self-employment income of every individual (1) in the case of any taxable year beginning before Jan. 1, 1978, to be equal to 7.0 percent of the amount of the self-employment income for such taxable year; (2) in the case of any taxable year beginning after Dec. 31, 1977, and before Jan. 1, 1979, to be equal to 7.10 percent of the amount of the self-employment income for such taxable year; (3) in the case of any taxable year beginning after Dec. 31, 1978, and before Jan. 1, 1981, to be equal to 7.05 percent of the amount of the self-employment income for such taxable year; (4) in the case of any taxable year beginning after Dec. 31, 1980, and before Jan. 1, 1982, to be equal to 8.00 percent of the amount of the self-employment income for such taxable year; (5) in the case of any taxable year beginning after Dec. 31, 1981, and before Jan. 1, 1985, to be equal to 8.05 percent of the amount of the self-employment income for such taxable year; (6) in the case of any taxable year beginning after Dec. 31, 1984, and before Jan. 1, 1990, to be equal to 8.55 percent of the amount of the self-employment income for such taxable year; and (7) in the case of any taxable year beginning after Dec. 31, 1989, to be equal to 9.30 percent of the amount of the self-employment income for such taxable year.
+<b>1983</b>—Subsec. (a). Pub. L. 98–21, §124(a), amended subsec. (a) generally, substituting a table for former pars. (1) to (7) which had imposed a tax on the self-employment income of every individual (1) in the case of any taxable year beginning before Jan. 1, 1978, to be equal to 7.0 percent of the amount of the self-employment income for such taxable year; (2) in the case of any taxable year beginning after Dec. 31, 1977, and before Jan. 1, 1979, to be equal to 7.10 percent of the amount of the self-employment income for such taxable year; (3) in the case of any taxable year beginning after Dec. 31, 1978, and before Jan. 1, 1981, to be equal to 7.05 percent of the amount of the self-employment income for such taxable year; (4) in the case of any taxable year beginning after Dec. 31, 1980, and before Jan. 1, 1982, to be equal to 8.00 percent of the amount of the self-employment income for such taxable year; (5) in the case of any taxable year beginning after Dec. 31, 1981, and before Jan. 1, 1985, to be equal to 8.05 percent of the amount of the self-employment income for such taxable year; (6) in the case of any taxable year beginning after Dec. 31, 1984, and before Jan. 1, 1990, to be equal to 8.55 percent of the amount of the self-employment income for such taxable year; and (7) in the case of any taxable year beginning after Dec. 31, 1989, to be equal to 9.30 percent of the amount of the self-employment income for such taxable year.
 
 Subsec. (b). Pub. L. 98–21, §124(a), amended subsec. (b) generally, substituting a table for former pars. (1) to (6) which had imposed a tax on the self-employment income of every individual (1) in the case of any taxable year beginning after Dec. 31, 1973, and before Jan. 1, 1978, to be equal to 0.90 percent of the amount of the self-employment income for such taxable year; (2) in the case of any taxable year beginning after Dec. 31, 1977, and before Jan. 1, 1979, to be equal to 1.00 percent of the amount of the self-employment income for such taxable year; (3) in the case of any taxable year beginning after Dec. 31, 1978, and before Jan. 1, 1981, to be equal to 1.05 percent of the amount of the self-employment income for such taxable year; (4) in the case of any taxable year beginning after Dec. 31, 1980, and before Jan. 1, 1985, to be equal to 1.30 percent of the amount of the self-employment income for such taxable year; (5) in the case of any taxable year beginning after Dec. 31, 1984, and before Jan. 1, 1986, to be equal to 1.35 percent of the amount of the self-employment income for such taxable year; and (6) in the case of any taxable year beginning after Dec. 31, 1985, to be equal to 1.45 percent of the amount of the self-employment income for such taxable year.
 
 Subsecs. (c), (d). Pub. L. 98–21, §124(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1977—Subsec. (a). Pub. L. 95–216, §101(a)(3), substituted provisions calling for a graduated increase in the tax from 7.0 percent for taxable years beginning before Jan. 1, 1978, to 9.30 percent for taxable years beginning after Dec. 31, 1989, for provisions under which the tax had been set at 7.0 percent without any increase in the rate in future years.
+<b>1977</b>—Subsec. (a). Pub. L. 95–216, §101(a)(3), substituted provisions calling for a graduated increase in the tax from 7.0 percent for taxable years beginning before Jan. 1, 1978, to 9.30 percent for taxable years beginning after Dec. 31, 1989, for provisions under which the tax had been set at 7.0 percent without any increase in the rate in future years.
 
 Subsec. (b). Pub. L. 95–216, §101(b)(3), substituted “after December 31, 1977, and before January 1, 1979” for “after December 31, 1977, and before January 1, 1981” and “1.00 percent” for “1.10 percent” in par. (2), substituted “after December 31, 1978, and before January 1, 1981” for “after December 31, 1980, and before January 1, 1986” and “1.05 percent” for “1.35 percent” in par. (3), substituted “after December 31, 1980, and before January 1, 1985” for “after December 31, 1985” and “1.30 percent” for “1.50 percent” in par. (4), and added pars. (5) and (6).
 
 Subsec. (c). Pub. L. 95–216, §317(b)(1), added subsec. (c).
 
-1976—Subsec. (a). Pub. L. 94–455, §1901(a)(154)(A), among other changes, substituted provisions relating to a uniform tax rate of 7 percent on self-employment income of every individual for provisions relating to varied tax rate of 5.8 percent of the amount of self-employment income for any taxable year beginning after Dec. 31, 1967, and before Jan. 1, 1969, 6.3 percent for any taxable year beginning after Dec. 31, 1968, and before Jan. 1, 1971, 6.9 percent for any taxable year beginning after Dec. 31, 1970, and before Jan. 1, 1973, and 7.0 percent for any taxable year beginning after Dec. 31, 1972.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1901(a)(154)(A), among other changes, substituted provisions relating to a uniform tax rate of 7 percent on self-employment income of every individual for provisions relating to varied tax rate of 5.8 percent of the amount of self-employment income for any taxable year beginning after Dec. 31, 1967, and before Jan. 1, 1969, 6.3 percent for any taxable year beginning after Dec. 31, 1968, and before Jan. 1, 1971, 6.9 percent for any taxable year beginning after Dec. 31, 1970, and before Jan. 1, 1973, and 7.0 percent for any taxable year beginning after Dec. 31, 1972.
 
 Subsec. (b). Pub. L. 94–455, §1901(a)(154)(B), redesignated pars. (3) to (6) as (1) to (4). Former pars. (1) and (2), which related to a 6 percent tax rate on self-employment income for any taxable year beginning after Dec. 31, 1967, and before Jan. 1, 1974, and 1 percent tax rate on self-employment income for any taxable year beginning after Dec. 31, 1972, and before Jan. 1, 1974, were struck out.
 
-1973—Subsec. (b)(2). Pub. L. 93–233 substituted “1974” for “1978”.
+<b>1973</b>—Subsec. (b)(2). Pub. L. 93–233 substituted “1974” for “1978”.
 
 Subsec. (b)(3). Pub. L. 93–233 substituted “1973” and “1978” for “1977” and “1981” and decreased the rate of tax from 1.25 percent to 0.90 percent.
 
@@ -70,7 +98,7 @@ Subsec. (b)(5). Pub. L. 93–233 substituted “beginning after December 31, 198
 
 Subsec. (b)(6). Pub. L. 93–233 added par. (6).
 
-1972—Subsec. (a)(3). Pub. L. 92–603, §135(a)(1)(A), substituted “1973” for “1978”.
+<b>1972</b>—Subsec. (a)(3). Pub. L. 92–603, §135(a)(1)(A), substituted “1973” for “1978”.
 
 Subsec. (a)(4). Pub. L. 92–603, §135(a)(1)(B), substituted provisions that in the case of taxable years beginning after Dec. 31, 1972, the tax shall be equal to 7.0 percent of the amount of the self-employment income for such taxable year, for provisions that in the case of taxable years beginning after Dec. 31, 1977, and before Jan. 1, 2011, the tax shall be equal to 6.7 percent of the amount of the self-employment income for such taxable year.
 
@@ -88,21 +116,29 @@ Subsec. (b)(5). Pub. L. 92–603, §135(b)(1), substituted “1985” for “199
 
 Subsec. (b)(2) to (5). Pub. L. 92–336, §204(b)(1), substituted “1978” for “1976” and “0.9” for “0.65” in subsec. (b)(2), “1977” for “1975”, “1986” for “1980” and “1.0” for “0.70” in par. (3), “1985” for “1979”, “1993” for “1987” and “1.1” for “0.80” in par. (4), and “1992” for “1986” and “1.2” for “0.90” in par. (5).
 
-1968—Subsecs. (a)(1) to (4). Pub. L. 90–248, §109(a)(1), substituted “December 31, 1967” and “January 1, 1969” for “December 31, 1965” and “January 1, 1967” in par. (1), “December 31, 1968”, “January 1, 1971” and “6.3” for “December 31, 1966”, “January 1, 1969”, and “5.9” in par. (2), and “December 31, 1970” and “6.9” for “December 31, 1968” and “6.6” in par. (3), and reenacted par. (4) without change.
+<b>1968</b>—Subsecs. (a)(1) to (4). Pub. L. 90–248, §109(a)(1), substituted “December 31, 1967” and “January 1, 1969” for “December 31, 1965” and “January 1, 1967” in par.\(1), “December 31, 1968”, “January 1, 1971” and “6.3” for “December 31, 1966”, “January 1, 1969”, and “5.9” in par. (2), and “December 31, 1970” and “6.9” for “December 31, 1968” and “6.6” in par. (3), and reenacted par. (4) without change.
 
-Subsec. (b)(1) to (5). Pub. L. 90–248, §109(b)(1), struck out par. (1) provision for rate of 0.35 percent of amount of self-employment income for any taxable year beginning after Dec. 31, 1965, and before Jan. 1, 1967, redesignated former pars. (2) to (6) as (1) to (5), substituted“December 31, 1967” for “December 31, 1966” in such par. (1) and increased the rate by 0.10 percent to 0.60, 0.65, 0.70, 0.80, and 0.90 in pars. (1) to (5), respectively.
+Subsec. (b)(1) to (5). Pub. L. 90–248, §109(b)(1), struck out par. (1) provision for rate of 0.35 percent of amount of self-employment income for any taxable year beginning after Dec. 31, 1965, and before Jan. 1, 1967, redesignated former pars. (2) to (6) as (1) to (5), substituted “December 31, 1967” for “December 31, 1966” in such par. (1) and increased the rate by 0.10 percent to 0.60, 0.65, 0.70, 0.80, and 0.90 in pars. (1) to (5), respectively.
 
-1965—Pub. L. 89–97, §321(a), divided the total tax imposed under the entire section for each taxable year upon the self-employment income for such taxable year into two separate taxes by dividing the section into subsecs. (a) and (b), with subsec. (a) reflecting the tax for old-age, survivors, and disability insurance and subsec. (b) reflecting a separate tax for hospital insurance; reduced from 6.2 percent to 6.15 percent the rate of total tax imposed under the entire section for taxable years beginning after Dec. 31, 1965, and before Jan. 1, 1967 (resulting from a tax of 5.8 percent under subsec. (a) and 0.35 percent under subsec. (b)), increased from 6.2 percent to 6.4 percent the rate for taxable years beginning after Dec. 31, 1966, and before Jan. 1, 1968 (resulting from a tax of 5.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), reduced from 6.9 percent to 6.4 percent the rate for taxable years beginning after Dec. 31, 1967, and before Jan. 1, 1969 (resulting from a tax of 5.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), increased from 6.9 percent to 7.1 percent the rate for taxable years beginning after Dec. 31, 1968, and before Jan. 1, 1973 (resulting from a tax of 6.6 percent under subsec. (a) and 0.50 percent under subsec. (b)), from 6.9 percent to 7.55 percent the rate for taxable years beginning after Dec. 31, 1972, and before Jan. 1, 1976 (resulting from a tax of 7.0 percent under subsec. (a) and 0.55 percent under subsec. (b)), from 6.9 percent to 7.60 percent the rate for taxable years beginning after Dec. 31, 1975, and before Jan. 1, 1980 (resulting from a tax of 7.0 percent under subsec. (a) and 0.60 percent under subsec. (b)), from 6.9 percent to 7.70 percent the rate for taxable years beginning after Dec. 31, 1979, and before Jan. 1, 1987 (resulting from a tax of 7.0 percent under subsec. (a) and 0.70 percent under subsec. (b)), and from 6.9 percent to 7.80 percent the rate for taxable years beginning after Dec. 31, 1986 (resulting from a tax of 7.0 percent under subsec. (a) and 0.80 percent under subsec. (b)), and provided that the exclusion of employee representatives by section 1402(c)(3) should not apply for purposes of the tax imposed by subsec. (b).
+<b>1965</b>—Pub. L. 89–97, §321(a), divided the total tax imposed under the entire section for each taxable year upon the self-employment income for such taxable year into two separate taxes by dividing the section into subsecs. (a) and (b), with subsec. (a) reflecting the tax for old-age, survivors, and disability insurance and subsec. (b) reflecting a separate tax for hospital insurance; reduced from 6.2 percent to 6.15 percent the rate of total tax imposed under the entire section for taxable years beginning after Dec. 31, 1965, and before Jan. 1, 1967 (resulting from a tax of 5.8 percent under subsec. (a) and 0.35 percent under subsec. (b)), increased from 6.2 percent to 6.4 percent the rate for taxable years beginning after Dec. 31, 1966, and before Jan. 1, 1968 (resulting from a tax of 5.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), reduced from 6.9 percent to 6.4 percent the rate for taxable years beginning after Dec. 31, 1967, and before Jan. 1, 1969 (resulting from a tax of 5.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), increased from 6.9 percent to 7.1 percent the rate for taxable years beginning after Dec. 31, 1968, and before Jan. 1, 1973 (resulting from a tax of 6.6 percent under subsec. (a) and 0.50 percent under subsec. (b)), from 6.9 percent to 7.55 percent the rate for taxable years beginning after Dec. 31, 1972, and before Jan. 1, 1976 (resulting from a tax of 7.0 percent under subsec. (a) and 0.55 percent under subsec. (b)), from 6.9 percent to 7.60 percent the rate for taxable years beginning after Dec. 31, 1975, and before Jan. 1, 1980 (resulting from a tax of 7.0 percent under subsec. (a) and 0.60 percent under subsec. (b)), from 6.9 percent to 7.70 percent the rate for taxable years beginning after Dec. 31, 1979, and before Jan. 1, 1987 (resulting from a tax of 7.0 percent under subsec. (a) and 0.70 percent under subsec. (b)), and from 6.9 percent to 7.80 percent the rate for taxable years beginning after Dec. 31, 1986 (resulting from a tax of 7.0 percent under subsec. (a) and 0.80 percent under subsec. (b)), and provided that the exclusion of employee representatives by section 1402(c)(3) should not apply for purposes of the tax imposed by subsec. (b).
 
 Subsec. (b). Pub. L. 89–97, §111(c)(4), struck out provision that for purposes of the tax imposed by this subsection, the exclusion of employee representatives by section 1402(c)(3) shall not apply.
 
-1961—Pub. L. 87–64 increased the rate of tax for taxable years beginning after Dec. 31, 1961, and before Jan. 1, 1963, from 41/2 to 4.7 percent, taxable years beginning after Dec. 31, 1962, and before Jan. 1, 1966, from 51/4 to 5.4 percent, taxable years beginning after Dec. 31, 1965, and before Jan. 1, 1968, from 6 to 6.2 percent, taxable year beginning after Dec. 31, 1967, and before Jan. 1, 1969, from 6 to 6.9 percent, and taxable years beginning after Dec. 31, 1968, from 63/4 to 6.9 percent.
+<b>1961</b>—Pub. L. 87–64 increased the rate of tax for taxable years beginning after Dec. 31, 1961, and before Jan. 1, 1963, from 41/2 to 4.7 percent, taxable years beginning after Dec. 31, 1962, and before Jan. 1, 1966, from 51/4 to 5.4 percent, taxable years beginning after Dec. 31, 1965, and before Jan. 1, 1968, from 6 to 6.2 percent, taxable year beginning after Dec. 31, 1967, and before Jan. 1, 1969, from 6 to 6.9 percent, and taxable years beginning after Dec. 31, 1968, from 63/4 to 6.9 percent.
 
-1958—Pub. L. 85–840 increased the rate of tax by substituting provisions imposing a tax of 33/4 percent for taxable years beginning after Dec. 31, 1958, 41/2 percent for years beginning after Dec. 31, 1959, 51/4 percent for years beginning after Dec. 31, 1962, 6 percent for years beginning after Dec. 31, 1965, and 63/4 percent for years beginning after Dec. 31, 1968, for provisions which imposed a tax of 33/8 percent for taxable years beginning after Dec. 31, 1956, 41/8 percent for years beginning after Dec. 31, 1959, 47/8 percent for years beginning after Dec. 31, 1964, 55/8 percent for years beginning after Dec. 31, 1969, and 63/8 percent for years beginning after Dec. 31, 1974.
+<b>1958</b>—Pub. L. 85–840 increased the rate of tax by substituting provisions imposing a tax of 33/4 percent for taxable years beginning after Dec. 31, 1958, 41/2 percent for years beginning after Dec. 31, 1959, 51/4 percent for years beginning after Dec. 31, 1962, 6 percent for years beginning after Dec. 31, 1965, and 63/4 percent for years beginning after Dec. 31, 1968, for provisions which imposed a tax of 33/8 percent for taxable years beginning after Dec. 31, 1956, 41/8 percent for years beginning after Dec. 31, 1959, 47/8 percent for years beginning after Dec. 31, 1964, 55/8 percent for years beginning after Dec. 31, 1969, and 63/8 percent for years beginning after Dec. 31, 1974.
 
-1956—Act Aug. 1, 1956, increased the rate of tax for all taxable years beginning after Dec. 31, 1956, by three-eighths percent.
+<b>1956</b>—Act Aug. 1, 1956, increased the rate of tax for all taxable years beginning after Dec. 31, 1956, by three-eighths percent.
 
-1954—Act Sept. 1, 1954, increased the 47/8 percent rate of tax on self-employment income for taxable years beginning after Dec. 31, 1969, to 51/4 percent for taxable years beginning after Dec. 31, 1969, and before Jan. 1, 1975, and 6 percent for taxable years beginning after Dec. 31, 1974.
+<b>1954</b>—Act Sept. 1, 1954, increased the 47/8 percent rate of tax on self-employment income for taxable years beginning after Dec. 31, 1969, to 51/4 percent for taxable years beginning after Dec. 31, 1969, and before Jan. 1, 1975, and 6 percent for taxable years beginning after Dec. 31, 1974.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–152, title I, §1402(b)(3), Mar. 30, 2010, 124 Stat. 1063, provided that: “The amendments made by this subsection \[amending this section and sections 3101 and 6654 of this title\] shall apply with respect to remuneration received, and taxable years beginning after, December 31, 2012.”
+
+Amendment by section 9015(b)(1) of Pub. L. 111–148 applicable with respect to remuneration received, and taxable years beginning, after Dec. 31, 2012, see section 9015(c) of Pub. L. 111–148, set out as a note under section 164 of this title.
+
+Pub. L. 111–148, title X, §10906(c), Mar. 23, 2010, 124 Stat. 1020, provided that: “The amendments made by this section \[amending this section and section 3101 of this title\] shall apply with respect to remuneration received, and taxable years beginning, after December 31, 2012.”
 
 #### Effective Date of 1983 Amendment
 
@@ -142,7 +178,7 @@ Section 109(c) of Pub. L. 90–248 provided that: “The amendments made by subs
 
 Amendment by section 111(c)(4) of Pub. L. 89–97 applicable to calendar year 1966 or to any subsequent calendar year but only if by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act \[section 3201 et seq. of this title\] provides for a maximum amount of monthly compensation taxable under such Act during all months of such calendar year equal to one-twelfth of maximum wages which Federal Insurance Contributions Act \[section 3101 et seq. of this title\] provides may be counted for such calendar year, see section 111(e) of Pub. L. 89–97, set out as an Effective Date note under section 1395i–1 of Title 42, The Public Health and Welfare.
 
-Section 321(d) of Pub. L. 89–97 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1965. The amendmentsmade by subsections (b) and (c) \[amending sections 3101 and 3111 of this title\] shall apply only with respect to remuneration paid after December 31, 1965.”
+Section 321(d) of Pub. L. 89–97 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1965. The amendments made by subsections (b) and (c) \[amending sections 3101 and 3111 of this title\] shall apply only with respect to remuneration paid after December 31, 1965.”
 
 #### Effective Date of 1961 Amendment
 
@@ -160,11 +196,63 @@ Section 202(d) of act Aug. 1, 1956, provided that: “The amendment made by subs
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
+#### Temporary Employee Payroll Tax Cut
+
+Pub. L. 111–312, title VI, §601, Dec. 17, 2010, 124 Stat. 3309, provided that:
+
+“(a)
+
+In General.—Notwithstanding any other provision of law—
+
+&emsp;“(1) with respect to any taxable year which begins in the payroll tax holiday period, the rate of tax under section 1401(a) of the Internal Revenue Code of 1986 shall be 10.40 percent, and
+
+&emsp;“(2) with respect to remuneration received during the payroll tax holiday period, the rate of tax under 3101(a) of such Code shall be 4.2 percent (including for purposes of determining the applicable percentage under sections 3201(a) and 3211(a)(1) \[probably means 3211(a)\] of such Code).
+
+“(b)
+
+Coordination With Deductions for Employment Taxes.—
+
+&emsp;“(1)
+
+Deduction in computing net earnings from self-employment.—For purposes of applying section 1402(a)(12) of the Internal Revenue Code of 1986, the rate of tax imposed by subsection 1401(a) of such Code shall be determined without regard to the reduction in such rate under this section.
+
+&emsp;“(2)
+
+Individual deduction.—In the case of the taxes imposed by section 1401 of such Code for any taxable year which begins in the payroll tax holiday period, the deduction under section 164(f) with respect to such taxes shall be equal to the sum of—
+
+&emsp;&emsp;“(A) 59.6 percent of the portion of such taxes attributable to the tax imposed by section 1401(a) (determined after the application of this section), plus
+
+&emsp;&emsp;“(B) one-half of the portion of such taxes attributable to the tax imposed by section 1401(b).
+
+“(c)
+
+Payroll Tax Holiday Period.—The term ‘payroll tax holiday period’ means calendar year 2011.
+
+“(d)
+
+Employer Notification.—The Secretary of the Treasury shall notify employers of the payroll tax holiday period in any manner the Secretary deems appropriate.
+
+“(e)
+
+Transfers of Funds.—
+
+&emsp;“(1)
+
+Transfers to federal old-age and survivors insurance trust fund.—There are hereby appropriated to the Federal Old-Age and Survivors Trust Fund and the Federal Disability Insurance Trust Fund established under section 201 of the Social Security Act (42 U.S.C. 401) amounts equal to the reduction in revenues to the Treasury by reason of the application of subsection (a). Amounts appropriated by the preceding sentence shall be transferred from the general fund at such times and in such manner as to replicate to the extent possible the transfers which would have occurred to such Trust Fund had such amendments not been enacted.
+
+&emsp;“(2)
+
+Transfers to social security equivalent benefit account.—There are hereby appropriated to the Social Security Equivalent Benefit Account established under section 15A(a) of the Railroad Retirement Act of 1974 (45 U.S.C. 231n–1(a)) amounts equal to the reduction in revenues to the Treasury by reason of the application of subsection (a)(2). Amounts appropriated by the preceding sentence shall be transferred from the general fund at such times and in such manner as to replicate to the extent possible the transfers which would have occurred to such Account had such amendments not been enacted.
+
+&emsp;“(3)
+
+Coordination with other federal laws.—For purposes of applying any provision of Federal law other than the provisions of the Internal Revenue Code of 1986, the rate of tax in effect under section 3101(a) of such Code shall be determined without regard to the reduction in such rate under this section.”
+
 #### Land Diverted Under 1983 Payment-in-Kind Program
 
 Land diverted from production of agricultural commodities under a 1983 payment-in-kind program to be treated, for purposes of this chapter, as used during the 1983 crop year by qualified taxpayers in the active conduct of the trade or business of farming, with qualified taxpayers who materially participate in the diversion and devotion to conservation uses under a 1983 payment-in-kind program to be treated as materially participating in the operation of such land during the 1983 crop year, see section 3 of Pub. L. 98–4, set out as a note under section 61 of this title.
 
 #### Deduction by or Credit Against Individual Income Tax for Taxes Paid Into Foreign Social Security System Pursuant to International Agreement
 
-Section 317(b)(4) of Pub. L. 95–216 provided that: “Notwithstanding any other provision of law, taxes paid by any individual to any foreign country with respect to any period of employment or self-employment which is covered under the social security system of such foreign country in accordance with the terms of an agreement entered into pursuant to section 233 of the Social Security Act \[section 433 of Title 42, The Public Health and Welfare\] shall not, under the income tax laws of the United States, be deductible by, or creditable against the income tax of, any such individual.”
+Section 317(b)(4) of Pub. L. 95–216 provided that: “Notwithstanding any other provision of law, taxes paid byany individual to any foreign country with respect to any period of employment or self-employment which is covered under the social security system of such foreign country in accordance with the terms of an agreement entered into pursuant to section 233 of the Social Security Act \[section 433 of Title 42, The Public Health and Welfare\] shall not, under the income tax laws of the United States, be deductible by, or creditable against the income tax of, any such individual.”
 

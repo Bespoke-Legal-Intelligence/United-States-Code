@@ -16,7 +16,7 @@ Any agreement under this subpart may require any officer or employee of the Stat
 
 #### Amendments
 
-1981—Subsec. (a). Pub. L. 97–35 struck out provisions relating to payment to the State by the Secretary of the Treasury from the Adjustment Assistance Trust Fund prior to audit or settlement by the General Accounting Office.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 struck out provisions relating to payment to the State by the Secretary of the Treasury from the Adjustment Assistance Trust Fund prior to audit or settlement by the General Accounting Office.
 
 Subsec. (b). Pub. L. 97–35 struck out provisions relating to crediting money returned to the Secretary of the Treasury to the Adjustment Assistance Trust Fund.
 
@@ -26,5 +26,5 @@ Amendment by Pub. L. 97–35 effective Aug. 1981, with transition provisions app
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be providedunder this part after Dec. 31, 2010, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

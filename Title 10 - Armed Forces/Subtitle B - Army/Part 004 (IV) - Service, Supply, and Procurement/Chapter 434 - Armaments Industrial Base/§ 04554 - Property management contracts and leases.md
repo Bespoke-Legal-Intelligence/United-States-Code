@@ -38,7 +38,7 @@ Consideration for Use.—(1) To the extent provided in a contract entered into u
 
 #### Amendments
 
-2006—Subsec. (b)(2)(D). Pub. L. 109–163 added subpar. (D).
+<b>2006</b>—Subsec. (b)(2)(D). Pub. L. 109–163 added subpar. (D).
 
 #### Implementation Report
 

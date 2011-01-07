@@ -124,15 +124,15 @@ A prior section 1933 of act July 1, 1944, was classified to section 300y–23 of
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–310 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Each State's allotment for fiscal year 2000 for programs under this subpart shall be equal to such State's allotment for such programs for fiscal year 1999, except that, if the amount appropriated in fiscal year 2000 is less than the amount appropriated in fiscal year 1999, then the amount of a State's allotment under section 300x–21 of this title shall be equal to the amount that the State received under section 300x–21 of this title in fiscal year 1999 decreased by the percentage by which the amount appropriated for fiscal year 2000 is less than the amount appropriated for such section for fiscal year 1999.”
+<b>2000</b>—Subsec. (b). Pub. L. 106–310 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Each State's allotment for fiscal year 2000 for programs under this subpart shall be equal to such State's allotment for such programs for fiscal year 1999, except that, if the amount appropriated in fiscal year 2000 is less than the amount appropriated in fiscal year 1999, then the amount of a State's allotment under section 300x–21 of this title shall be equal to the amount that the State received under section 300x–21 of this title in fiscal year 1999 decreased by the percentage by which the amount appropriated for fiscal year 2000 is less than the amount appropriated for such section for fiscal year 1999.”
 
-1999—Subsec. (b). Pub. L. 106–113 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “For each of the fiscal years 1993 and 1994, the amount of the allotment required in section 300x–21 of this title for a State for the fiscal year involved shall be the greater of—
+<b>1999</b>—Subsec. (b). Pub. L. 106–113 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “For each of the fiscal years 1993 and 1994, the amount of the allotment required in section 300x–21 of this title for a State for the fiscal year involved shall be the greater of—
 
 &emsp;“(1) the amount determined under subsection (a) of this section for the State for the fiscal year; and
 
 &emsp;“(2) an amount equal to 79.4 percent of the amount received by the State from allotments made pursuant to this part for fiscal year 1992 (including reallotments under section 205(a) of the ADAMHA Reorganization Act).”
 
-1998—Subsec. (b). Pub. L. 105–277, temporarily amended subsec. (b) to read as follows: “(b)
+<b>1998</b>—Subsec. (b). Pub. L. 105–277, temporarily amended subsec. (b) to read as follows: “(b)
 
 Minimum allotments for States.—
 
@@ -156,7 +156,7 @@ Exception.—In applying subparagraph (A), the Secretary shall ensure that no St
 
 > See Effective and Termination Dates of 1998 Amendment note below.
 
-1992—Subsec. (c)(2)(C). Pub. L. 102–352 added subpar. (C).
+<b>1992</b>—Subsec. (c)(2)(C). Pub. L. 102–352 added subpar. (C).
 
 #### Effective and Termination Dates of 1998 Amendment
 

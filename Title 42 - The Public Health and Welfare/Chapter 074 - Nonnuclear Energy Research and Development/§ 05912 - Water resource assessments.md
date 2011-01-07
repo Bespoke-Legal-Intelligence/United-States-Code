@@ -2,7 +2,7 @@
 
 #### (a) Assessments by Water Resources Council of water resource requirements and water supply availability for nonnuclear energy technologies; preparation requirements
 
-The Water Resources Council shall undertake assessments of water resource requirements and water supply availability for any nonnuclear energy technology and any probable combinations of technologies which are the subject of Federal research and development efforts authorized by this chapter, and the commercial development of which could have significant impacts on water resources. In the preparation of its assessment, the Council shall—
+The Water Resources Council shall undertake assessments of water resource requirements andwater supply availability for any nonnuclear energy technology and any probable combinations of technologies which are the subject of Federal research and development efforts authorized by this chapter, and the commercial development of which could have significant impacts on water resources. In the preparation of its assessment, the Council shall—
 
 &emsp;(1) utilize to the maximum extent practicable data on water supply and demand available in the files of member agencies of the Council;
 
@@ -42,9 +42,9 @@ The Secretary shall, upon enactment of this subsection, be a member of the Counc
 
 #### Amendments
 
-2005—Subsecs. (b) to (d), (f). Pub. L. 109–58 substituted “Secretary” for “Administrator”.
+<b>2005</b>—Subsecs. (b) to (d), (f). Pub. L. 109–58 substituted “Secretary” for “Administrator”.
 
-1977—Subsec. (a). Pub. L. 95–39, §110(1), substituted “The Water Resources Council” for “At the request of the Administrator, the Water Resources Council”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–39, §110(1), substituted “The Water Resources Council” for “At the request of the Administrator, the Water Resources Council”.
 
 Subsec. (b). Pub. L. 95–39, §110(2), substituted “the Administrator shall, as a precondition of Federal assistance to that project, request the Water Resources Council to prepare an assessment of water requirements and availability for such project” for “the Administrator shall, as a precondition of Federal assistance to that project, prepare or have prepared an assessment of the availability of adequate water resources”.
 

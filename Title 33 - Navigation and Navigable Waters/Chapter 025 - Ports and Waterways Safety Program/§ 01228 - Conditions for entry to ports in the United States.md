@@ -22,11 +22,11 @@ No vessel, subject to the provisions of chapter 37 of title 46, shall operate in
 
 The Secretary may allow provisional entry of a vessel not in compliance with subsection (a) of this section, if the owner or operator of such vessel proves, to the satisfaction of the Secretary, that such vessel is not unsafe or a threat to the marine environment, and if such entry is necessary for the safety of the vessel or persons aboard. In addition, paragraphs (1), (2), (3), and (4) of subsection (a) of this section shall not apply if the owner or operator of such vessel proves, to the satisfaction of the Secretary, that such vessel is no longer unsafe or a threat to the marine environment, and is no longer in violation of any applicable law, treaty, regulation or condition, as appropriate. Clauses (5) and (6) of subsection (a) of this section shall become applicable eighteen months after October 17, 1978.
 
-(Pub. L. 92–340, §9, as added Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1476; amended Pub. L.101–380, title IV, §4106(c), Aug. 18, 1990, 104 Stat. 514.)
+(Pub. L. 92–340, §9, as added Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1476; amended Pub. L. 101–380, title IV, §4106(c), Aug. 18, 1990, 104 Stat. 514.)
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–380, §4106(c)(1), substituted “chapter 37 of title 46” for “section 4417a of the Revised Statutes, as amended” in provisions preceding par. (1) and in par. (2) and substituted “section 9101 of title 46” for “section 4417a(11) of the Revised Statutes, as amended” in par. (5).
+<b>1990</b>—Subsec. (a). Pub. L. 101–380, §4106(c)(1), substituted “chapter 37 of title 46” for “section 4417a of the Revised Statutes, as amended” in provisions preceding par. (1) and in par. (2) and substituted “section 9101 of title 46” for “section 4417a(11) of the Revised Statutes, as amended” in par. (5).
 
 #### Effective Date of 1990 Amendment
 

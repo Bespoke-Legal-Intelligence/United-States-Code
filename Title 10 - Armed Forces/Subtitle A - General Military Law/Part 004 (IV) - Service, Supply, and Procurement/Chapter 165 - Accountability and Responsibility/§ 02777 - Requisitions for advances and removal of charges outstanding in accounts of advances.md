@@ -62,7 +62,7 @@ In subsection (c), the words “in any way” and “of the United States” are
 
 #### Amendments
 
-1996—Subsec. (b)(2)(B). Pub. L. 104–316 struck out “to the Comptroller General” after “head of the department”.
+<b>1996</b>—Subsec. (b)(2)(B). Pub. L. 104–316 struck out “to the Comptroller General” after “head of the department”.
 
-1984—Subsec. (c). Pub. L. 98–525 struck out “of this section” after “Subsection (b)”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–525 struck out “of this section” after “Subsection (b)”.
 

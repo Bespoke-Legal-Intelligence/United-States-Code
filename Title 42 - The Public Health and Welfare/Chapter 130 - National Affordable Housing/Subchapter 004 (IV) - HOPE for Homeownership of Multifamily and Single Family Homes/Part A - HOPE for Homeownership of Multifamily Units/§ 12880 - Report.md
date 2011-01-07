@@ -16,5 +16,5 @@ The Secretary shall no later than December 31, 1995, submit to the Congress a re
 
 #### Amendments
 
-1995—Pub. L. 104–66 in section catchline substituted “Report” for “Annual report”, and in introductory provisions substituted “The Secretary shall no later than December 31, 1995,” for “The Secretary shall annually”.
+<b>1995</b>—Pub. L. 104–66 in section catchline substituted “Report” for “Annual report”, and in introductory provisions substituted “The Secretary shall no later than December 31, 1995,” for “The Secretary shall annually”.
 

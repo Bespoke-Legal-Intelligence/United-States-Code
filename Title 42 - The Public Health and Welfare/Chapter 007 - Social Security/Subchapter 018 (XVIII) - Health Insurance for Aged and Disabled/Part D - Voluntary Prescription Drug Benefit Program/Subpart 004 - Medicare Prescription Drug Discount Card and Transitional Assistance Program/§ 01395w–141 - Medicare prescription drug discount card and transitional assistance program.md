@@ -224,7 +224,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall provide for activities under this subsection to broadly disseminate information to discount card eligible individuals (and prospective eligible individuals) regarding—
+&emsp;&emsp;The Secretary shall provide for activities under this subsection to broadly disseminateinformation to discount card eligible individuals (and prospective eligible individuals) regarding—
 
 &emsp;&emsp;&emsp;(i) enrollment in endorsed discount card programs; and
 
@@ -238,7 +238,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) includes educational materials on the variability of discounts on prices of covered discount card drugs under an endorsed program.
 
-> &emsp;&emsp;The dissemination of information under clause (i) shall, to the extent practicable, becoordinated with the dissemination of educational information on other medicare options.
+> &emsp;&emsp;The dissemination of information under clause (i) shall, to the extent practicable, be coordinated with the dissemination of educational information on other medicare options.
 
 #### (C) Special rule for initial enrollment date under the program
 
@@ -294,7 +294,7 @@ For purposes of this section:
 
 #### (B) Ensuring pharmacy access
 
-&emsp;&emsp;Each prescription drug card sponsor offering an endorsed discount card program shall secure the participation in its network of a sufficient number of pharmacies that dispense (other than solely by mail order) drugs directly to enrollees to ensure convenient access to covered discount card drugs at negotiated prices (consistent with rules established by the Secretary). The Secretary shall establish convenient access rules under this clause that are no less favorable to enrollees than the standards for convenient access to pharmacies included in the statement of work of solicitation (\#MDA906–03–R–0002) of the Department of Defense under the TRICARE Retail Pharmacy (TRRx) as of March 13, 2003.
+&emsp;&emsp;Each prescription drug card sponsor offering an endorsed discount card program shall secure the participation in its network of a sufficient number of pharmacies that dispense (other than solely by mail order) drugs directly to enrollees to ensure convenient access to covered discount card drugs at negotiated prices (consistent with rules established by the Secretary). The Secretary shallestablish convenient access rules under this clause that are no less favorable to enrollees than the standards for convenient access to pharmacies included in the statement of work of solicitation (\#MDA906–03–R–0002) of the Department of Defense under the TRICARE Retail Pharmacy (TRRx) as of March 13, 2003.
 
 #### (C) Prohibition on charges for required services
 
@@ -426,7 +426,7 @@ For purposes of this section:
 
 #### (C) Accounting for available balances in cases of changes in program enrollment
 
-&emsp;&emsp;In the case of a transitional assistance eligible individual who changes the endorsed discount card program in which the individual is enrolled under this section, the Secretary shall provide a process under which the Secretary provides to the sponsor of the endorsed program in which the individual enrolls information concerning the balance of amounts available on behalf of the individual under this paragraph.
+&emsp;&emsp;In the case of a transitional assistance eligible individual who changes the endorsed discount card program in which the individual is enrolled under this section, the Secretary shall provide a process under which the Secretary provides to the sponsor of the endorsed program in which the individual enrolls information concerning the balanceof amounts available on behalf of the individual under this paragraph.
 
 #### (D) Limitation on use of funds
 
@@ -444,7 +444,7 @@ For purposes of this section:
 
 #### (A) Waiver permitted by pharmacy
 
-&emsp;&emsp;Nothing in this section shall be construed as precluding a pharmacy from reducing orwaiving the application of coinsurance imposed under paragraph (1)(B) in accordance with section 1320a–7b(b)(3)(G) of this title.
+&emsp;&emsp;Nothing in this section shall be construed as precluding a pharmacy from reducing or waiving the application of coinsurance imposed under paragraph (1)(B) in accordance with section 1320a–7b(b)(3)(G) of this title.
 
 #### (B) Optional payment of coinsurance by State
 
@@ -502,7 +502,7 @@ For purposes of this section:
 
 #### (B) Administrative qualifications
 
-&emsp;&emsp;Each endorsed discount card program shall be operated directly, or through arrangements with an affiliated organization (or organizations), by one or more entities that have demonstrated experience and expertise in operating such a program or a similar program and that meets such business stability and integrity requirements as the Secretary may specify.
+&emsp;&emsp;Each endorsed discount card program shall be operated directly, or through arrangements with an affiliated organization (or organizations), by one or more entities that have demonstrated experience and expertise in operating such a program or a similarprogram and that meets such business stability and integrity requirements as the Secretary may specify.
 
 #### (C) Accounting for transitional assistance
 
@@ -630,7 +630,7 @@ For purposes of this section:
 
 &emsp;&emsp;The plan described in this subparagraph is a plan that—
 
-&emsp;&emsp;&emsp;(i) provides transitional assistance with respect to the provision of covered discount card drugs to some or all individuals who are entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, who reside in the State, and who have income below 135 percent of the poverty line; and
+&emsp;&emsp;&emsp;(i) provides transitional assistance with respect to the provision of covered discount card drugs to some or all individualswho are entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, who reside in the State, and who have income below 135 percent of the poverty line; and
 
 &emsp;&emsp;&emsp;(ii) assures that amounts received by the State under this paragraph are used only for such assistance.
 
@@ -644,7 +644,7 @@ For purposes of this section:
 
 #### (D) Continued availability of funds
 
-&emsp;&emsp;Amounts made available to a State under this paragraph which are not used under this paragraph shall be added to the amountavailable to that State for purposes of carrying out section 1396u–5(e) of this title.
+&emsp;&emsp;Amounts made available to a State under this paragraph which are not used under this paragraph shall be added to the amount available to that State for purposes of carrying out section 1396u–5(e) of this title.
 
 #### (k) Funding
 
@@ -721,4 +721,6 @@ Pub. L. 108–173, title I, §105(c), Dec. 8, 2003, 117 Stat. 2166, provided tha
 &emsp;“(4)(A) There shall be no judicial review of a determination not to endorse, or enter into a contract, with a prescription drug card sponsor under section 1860D–31 of the Social Security Act.
 
 &emsp;“(B) In the case of any order issued to enjoin any provision of section 1860D–31 of the Social Security Act (or of \[sic\] any provision of this section \[amending sections 1395r, 1395t, and 1396r–8 of this title and sections 6103 and 7213 of Title 26, Internal Revenue Code\]), such order shall not affect any other provision of such section (or of this section) and all such provisions shall be treated as severable.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

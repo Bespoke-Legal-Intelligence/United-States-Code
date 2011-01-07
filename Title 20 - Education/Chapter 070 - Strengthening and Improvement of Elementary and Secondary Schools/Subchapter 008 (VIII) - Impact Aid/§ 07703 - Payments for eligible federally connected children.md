@@ -74,7 +74,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of computing the amount of payment for a local educational agency for children identified under paragraph (1), the Secretary shall consider children residing in housing initially acquired or constructed under the former section 2828(g) of title 10 (commonly known as the “Build to Lease” program), as added by section 801 of the Military Construction Authorization Act, 1984, to be children described under paragraph (1)(B) if the property described is within the fenced security perimeter of the military facility upon which such housing is situated.
+&emsp;&emsp;For purposes of computing the amount of payment for a local educational agency forchildren identified under paragraph (1), the Secretary shall consider children residing in housing initially acquired or constructed under the former section 2828(g) of title 10 (commonly known as the “Build to Lease” program), as added by section 801 of the Military Construction Authorization Act, 1984, to be children described under paragraph (1)(B) if the property described is within the fenced security perimeter of the military facility upon which such housing is situated.
 
 #### (B) Additional requirements
 
@@ -122,7 +122,7 @@
 
 #### (F) Increase in local contribution rate due to unusual geographic factors
 
-&emsp;&emsp;If the current expenditures in those local educational agencies which the Secretary has determined to be generally comparable to the local educational agency for which a computation is made under subparagraph (C) are not reasonably comparable because of unusual geographical factors which affect the current expenditures necessary to maintain, in such agency, a level of education equivalent to that maintained in such other agencies, then the Secretary shall increase the local contribution rate for such agency under subparagraph (C)(iii) by such an amount which the Secretary determines will compensate such agency for the increase in current expenditures necessitated by such unusual geographical factors. The amount of any such supplementary payment may not exceed the per-pupil share (computed with regard to all children in average daily attendance), as determined by the Secretary, of the increased current expenditures necessitated by such unusual geographic factors.
+&emsp;&emsp;If the current expenditures in those local educational agencies which the Secretary has determined to be generally comparable to the local educational agency for which a computation is made under subparagraph (C) are not reasonably comparable because of unusual geographical factors which affect the current expenditures necessary to maintain, in such agency, a level of education equivalent to that maintained in such other agencies, then the Secretary shall increase the local contribution rate for such agency under subparagraph (C)(iii) by such an amount which the Secretary determines will compensate such agency for the increase in current expenditures necessitated by such unusual geographical factors. The amount ofany such supplementary payment may not exceed the per-pupil share (computed with regard to all children in average daily attendance), as determined by the Secretary, of the increased current expenditures necessitated by such unusual geographic factors.
 
 &emsp;&emsp;(G) Beginning with fiscal year 2002, for the purpose of calculating a payment under this paragraph for a local educational agency whose local contribution rate was computed under subparagraph (C)(iii) for the previous year, the Secretary shall use a local contribution rate that is not less than 95 percent of the rate that the LEA received for the preceding year.
 
@@ -198,7 +198,7 @@
 
 #### (D) Maximum amount for regular heavily impacted local educational agencies
 
-&emsp;&emsp;(i) Except as provided in subparagraph (E), the maximum amount that a heavily impacted local educational agency is eligibleto receive under this paragraph for any fiscal year is the sum of the total weighted student units, as computed under subsection (a)(2) of this section and subject to clause (ii), multiplied by the greater of—
+&emsp;&emsp;(i) Except as provided in subparagraph (E), the maximum amount that a heavily impacted local educational agency is eligible to receive under this paragraph for any fiscal year is the sum of the total weighted student units, as computed under subsection (a)(2) of this section and subject to clause (ii), multiplied by the greater of—
 
 &emsp;&emsp;&emsp;(I) four-fifths of the average per-pupil expenditure of the State in which the local educational agency is located for the third fiscal year preceding the fiscal year for which the determination is made; or
 
@@ -246,7 +246,7 @@
 
 #### (iii) Conversion of military housing units to private housing described
 
-&emsp;&emsp;&emsp;For purposes of clause (i), “conversion of military housing units to private housing”means the conversion of military housing units to private housing units pursuant to subchapter IV of chapter 169 of title 10 or pursuant to any other related provision of law.
+&emsp;&emsp;&emsp;For purposes of clause (i), “conversion of military housing units to private housing” means the conversion of military housing units to private housing units pursuant to subchapter IV of chapter 169 of title 10 or pursuant to any other related provision of law.
 
 #### (3) Payments with respect to fiscal years in which insufficient funds are appropriated
 
@@ -298,7 +298,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In computing the amount of a basic support payment under this subsection for a fiscal year for a local educational agency described in subparagraph (B), the Secretaryshall meet the additional requirements described in subparagraph (C).
+&emsp;&emsp;In computing the amount of a basic support payment under this subsection for a fiscal year for a local educational agency described in subparagraph (B), the Secretary shall meet the additional requirements described in subparagraph (C).
 
 #### (B) Local educational agency described
 
@@ -322,7 +322,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsections (b)(1)(D), (b)(2), and paragraph (2), all calculations under this section shall be based on data for each local educational agency from not later than the fiscal year preceding the fiscal year for which the agency is making application for payment.
+&emsp;Except as provided in subsections (b)(1)(D), (b)(2), and paragraph (2), all calculations under this section shall be based on data for each local educational agency from not later thanthe fiscal year preceding the fiscal year for which the agency is making application for payment.
 
 #### (2) Exception
 
@@ -368,7 +368,7 @@
 
 #### (f) Other funds
 
-Notwithstanding any other provision of law, a local educational agency receiving funds underthis section may also receive funds under section 386 of the National Defense Authorization Act for Fiscal Year 1993 or such section's successor authority.
+Notwithstanding any other provision of law, a local educational agency receiving funds under this section may also receive funds under section 386 of the National Defense Authorization Act for Fiscal Year 1993 or such section's successor authority.
 
 #### (g) Maintenance of effort
 
@@ -382,7 +382,7 @@ Section 2828(g) of title 10 (commonly known as the “Build to Lease” program)
 
 Act of September 30, 1950, referred to in subsec. (b)(1)(C)(iii), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13 (§236 et seq.) of this title, prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (d), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (d), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classifiedgenerally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 Section 386 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (f), is section 386 of Pub. L. 102–484, which is set out as a note below.
 
@@ -394,9 +394,9 @@ A prior section 8003 of Pub. L. 89–10 was renumbered section 9003 and was clas
 
 #### Amendments
 
-2009—Subsec. (a)(2)(C)(i). Pub. L. 111–84 substituted “5,000” for “6,500”.
+<b>2009</b>—Subsec. (a)(2)(C)(i). Pub. L. 111–84 substituted “5,000” for “6,500”.
 
-2003—Subsec. (b)(2)(H)(i), (ii). Pub. L. 108–136 added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+<b>2003</b>—Subsec. (b)(2)(H)(i), (ii). Pub. L. 108–136 added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
 “(i)
 
@@ -406,7 +406,7 @@ Eligibility.—For any fiscal year beginning with fiscal year 2003, a heavily im
 
 Amount of payment.—The amount of a payment to a heavily impacted local educational agency for a fiscal year by reason of the application of clause (i), and calculated in accordance with subparagraph (D) or (E) (as the case may be), shall be based on the number of children in average daily attendance in the schools of such agency for the fiscal year.”
 
-2002—Subsec. (b)(1)(G). Pub. L. 107–206, §802, added subpar. (G).
+<b>2002</b>—Subsec. (b)(1)(G). Pub. L. 107–206, §802, added subpar. (G).
 
 Subsec. (b)(2)(C)(i). Pub. L. 107–110, §802(a)(1)(A), inserted “(or if the agency is a qualified local educational agency as described in clause (iv))” after “Federal military installation” in introductory provisions.
 
@@ -422,7 +422,7 @@ Subsec. (b)(2)(H). Pub. L. 107–314 added subpar. (H).
 
 Subsec. (b)(3)(B)(iv). Pub. L. 107–20 inserted “or less than the average per-pupil expenditure of all the States” after “of the State in which the agency is located”.
 
-2000—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1806(c)(1)\], substituted “subsection (b) or (d)” for “subsection (b), (d), or (f)” in introductory provisions.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1806(c)(1)\], substituted “subsection (b) or (d)” for “subsection (b), (d), or (f)” in introductory provisions.
 
 Subsec. (a)(2)(D). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1804(a)(1)(B)\], substituted “subparagraph (D) of paragraph (1) by a factor of .20” for “subparagraphs (D) and (E) of paragraph (1) by a factor of .10”.
 
@@ -468,7 +468,7 @@ Subsec. (b)(5). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1807\], adde
 
 Subsec. (c)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1806(c)(3)\], substituted “subsections (b)(1)(D), (b)(2), and paragraph (2)” for “paragraph (2) and subsection (f) of this section”.
 
-Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1804(a)(3)\], amended heading and text of subsec. (e) generally. Prior to amendment, subsec. (e) required the Secretary to pay local education agencies under subsec. (b) of this section certain minimum amounts for fiscal years 1995 to 1999.
+Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1804(a)(3)\], amended heading and text of subsec. (e) generally. Prior to amendment, subsec. (e) required theSecretary to pay local education agencies under subsec. (b) of this section certain minimum amounts for fiscal years 1995 to 1999.
 
 Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §§1806(c)(4), 1808(b)(1)\], redesignated subsec. (h) as (f) and struck out heading and text of former subsec. (f) which required the Secretary to provide additional assistance to meet special circumstances relating to the provision of education in local educational agencies eligible to receive assistance under this section.
 
@@ -480,11 +480,11 @@ Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1806(c)(5)\], substituted �
 
 Subsec. (i). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1808(b)(1)\], redesignated subsec. (i) as (g).
 
-1997—Subsec. (f)(2)(A)(ii)(I). Pub. L. 105–78, which directed the amendment of section 8003(f)(2)(ii)(I) of the Elementary and Secondary Education Act of 1965 by substituting “25 percent of the total student enrollment of such agency. For purposes of this subclause, all students described in subsection (a)(1) of this section are used to determine eligibility, regardless of whether or not a local educational agency receives funds for these children from subsection (b) of this section;” for “35 percent” and all that follows through the semicolon, was executed by making the substitution for “35 percent of the total student enrollment of such agency;” in subsection (f)(2)(A)(ii)(I) of this section, to reflect the probable intent of Congress.
+<b>1997</b>—Subsec. (f)(2)(A)(ii)(I). Pub. L. 105–78, which directed the amendment of section 8003(f)(2)(ii)(I) of the Elementary and Secondary Education Act of 1965 by substituting “25 percent of the total student enrollment of such agency. For purposes of this subclause, all students described in subsection (a)(1) of this section are used to determine eligibility, regardless of whether or not a local educational agency receives funds for these children from subsection (b) of this section;” for “35 percent” and all that follows through the semicolon, was executed by making the substitution for “35 percent of the total student enrollment of such agency;” in subsection (f)(2)(A)(ii)(I) of this section, to reflect the probable intent of Congress.
 
 Subsec. (f)(4). Pub. L. 105–18 struck out hyphen after “Secretary” in introductory provisions, redesignated subpar. (A) as entire par. (4), inserted “expenditure,” after “revenue,”, substituted period for semicolon after “assistance under this subsection”, and struck out subpar. (B) which read as follows: “shall derive the per pupil expenditure amount for the fiscal year for which the local educational agency is applying for assistance under this subsection for the local educational agency's comparable school districts by increasing or decreasing the per pupil expenditure data for the second fiscal year preceding the fiscal year for which the determination is made by the same percentage increase or decrease reflected between the per pupil expenditure data for the fourth fiscal year preceding the fiscal year for which the determination is made and the per pupil expenditure data for such second year.”
 
-1996—Subsec. (a)(3). Pub. L. 104–201 substituted “1,000 or such number equals or exceeds 10 percent” for “2,000 and such number equals or exceeds 15 percent”.
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–201 substituted “1,000 or such number equals or exceeds 10 percent” for “2,000 and such number equals or exceeds 15 percent”.
 
 Subsec. (a)(4). Pub. L. 104–195, §3(a), added par. (4).
 
@@ -534,7 +534,7 @@ Pub. L. 108–136, div. A, title V, §537(b), Nov. 24, 2003, 117 Stat. 1475, pro
 
 Pub. L. 107–279, title IV, §406(b), Nov. 5, 2002, 116 Stat. 1987, provided that: “The amendment made by section 406(a) \[amending this section\] shall be effective on September 30, 2001, and shall apply with respect to fiscal year 2001, and all subsequent fiscal years.”
 
-Amendment by Pub. L. 107–110 effective Jan. 8, 2002, and effective with respect to appropriations for use under this subchapter for fiscal year 2002, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, and effective with respect to appropriations for useunder this subchapter for fiscal year 2002, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### Effective Date of 2000 Amendment
 

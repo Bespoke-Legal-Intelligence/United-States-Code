@@ -1,20 +1,24 @@
 ### §2318. Advocates for competition
 
-(a)(1) In addition to the advocates for competition established or designated pursuant to section 20(a) of the Office of Federal Procurement Policy Act (41 U.S.C. 418(a)), the Secretary of Defense shall designate an officer or employee of the Defense Logistics Agency to serve as the advocate for competition of the agency.
+(a)(1) In addition to the advocates for competition established or designated pursuant to section 1705(a) of title 41, the Secretary of Defense shall designate an officer or employee of the Defense Logistics Agency to serve as the advocate for competition of the agency.
 
-(2) The advocate for competition of the Defense Logistics Agency shall carry out the responsibilities and functions provided for in sections 20(b) and 20(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 418(b), (c)).
+(2) The advocate for competition of the Defense Logistics Agency shall carry out the responsibilities and functions provided for in section 1705(b) and (c) of title 41.
 
 (b) Each advocate for competition of an agency named in section 2303(a) of this title shall be a general or flag officer if a member of the armed forces or a grade GS–16 or above under the General Schedule (or in a comparable or higher position under another schedule), if a civilian employee and shall be designated to serve for a minimum of two years.
 
-(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2593; amended Pub. L. 100–26, §7(d)(4), Apr. 21, 1987, 101 Stat. 281; Pub. L. 102–25, title VII, §701(f)(1), Apr. 6, 1991, 105 Stat. 115; Pub. L. 103–355, title I, §1031, Oct. 13, 1994, 108 Stat. 3260.)
+(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2593; amended Pub. L. 100–26, §7(d)(4), Apr. 21, 1987, 101 Stat. 281; Pub. L. 102–25, title VII, §701(f)(1), Apr. 6, 1991, 105 Stat. 115; Pub. L. 103–355, title I, §1031, Oct. 13, 1994, 108 Stat. 3260; Pub. L. 111–350, §5(b)(17), Jan. 4, 2011, 124 Stat. 3843.)
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–355 struck out subsec. (c) which read as follows: “Each advocate for competition of an agency of the Department of Defense shall transmit to the Secretary of Defense a report describing his activities during the preceding year. The report of each advocate for competition shall be included in the annual report of the Secretary of Defense required by section 23 of the Office of Federal Procurement Policy Act (41 U.S.C. 419), in the form in which it was submitted to the Secretary.”
+<b>2011</b>—Subsec. (a)(1). Pub. L. 111–350, §5(b)(17)(A), substituted “section 1705(a) of title 41” for “section 20(a) of the Office of Federal Procurement Policy Act (41 U.S.C. 418(a))”.
 
-1991—Subsec. (c). Pub. L. 102–25 substituted “section 23” for “section 21”.
+Subsec. (a)(2). Pub. L. 111–350, §5(b)(17)(B), substituted “section 1705(b) and (c) of title 41” for “sections 20(b) and 20(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 418(b), (c))”.
 
-1987—Subsec. (a)(1). Pub. L. 100–26, §7(d)(4)(A), inserted “(41 U.S.C. 418(a))” after “Policy Act”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–355 struck out subsec. (c) which read as follows: “Each advocate for competition of an agency of the Department of Defense shall transmit to the Secretary of Defense a report describing his activities during the preceding year. The report of each advocate for competition shall be included in the annual report of the Secretary of Defense required by section 23 of the Office of Federal Procurement Policy Act (41 U.S.C. 419), in the form in which it was submitted to the Secretary.”
+
+<b>1991</b>—Subsec. (c). Pub. L. 102–25 substituted “section 23” for “section 21”.
+
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–26, §7(d)(4)(A), inserted “(41 U.S.C. 418(a))” after “Policy Act”.
 
 Subsec. (a)(2). Pub. L. 100–26, §7(d)(4)(B), inserted “(41 U.S.C. 418(b), (c))” after “Policy Act”.
 

@@ -36,11 +36,11 @@ Whoever knowingly makes any false statement, representation, or certification in
 
 #### (g) Violation by miners of safety standards relating to smoking
 
-Any miner who willfully violates the mandatory safety standards relating to smoking or the carrying of smoking materials, matches, orlighters shall be subject to a civil penalty assessed by the Commission, which penalty shall not be more than $250 for each occurrence of such violation.
+Any miner who willfully violates the mandatory safety standards relating to smoking or the carrying of smoking materials, matches, or lighters shall be subject to a civil penalty assessed by the Commission, which penalty shall not be more than $250 for each occurrence of such violation.
 
 #### (h) Equipment falsely represented as complying with statute, specification, or regulations
 
-Whoever knowingly distributes, sells, offers for sale, introduces, or delivers in commerce any equipment for use in a coal or other mine, including, but not limited to, components and accessories of such equipment, which is represented as complying with the provisions of this chapter, or with any specification or regulation of the Secretary applicable to such equipment, and which does not so comply, shall, upon conviction, be subject to the same fine and imprisonment that may be imposed upon a person under subsection (f) of this section.
+Whoever knowingly distributes, sells, offers for sale, introduces, or delivers in commerce anyequipment for use in a coal or other mine, including, but not limited to, components and accessories of such equipment, which is represented as complying with the provisions of this chapter, or with any specification or regulation of the Secretary applicable to such equipment, and which does not so comply, shall, upon conviction, be subject to the same fine and imprisonment that may be imposed upon a person under subsection (f) of this section.
 
 #### (i) Authority to assess civil penalties
 
@@ -66,7 +66,7 @@ This chapter, referred to in subsecs. (a)(1), (c) to (f), and (h) to (j), was in
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–280, §1301(2), substituted “(1) The operator” for “(1)(1) The operator” in par. (1), substituted “subsection (a)(1)” for “paragraph (1)” in par. (2), relating to criminal penalties, and redesignated that par. as subsec. (d).
+<b>2006</b>—Subsec. (a). Pub. L. 109–280, §1301(2), substituted “(1) The operator” for “(1)(1) The operator” in par. (1), substituted “subsection (a)(1)” for “paragraph (1)” in par. (2), relating to criminal penalties, and redesignated that par. as subsec. (d).
 
 Pub. L. 109–236, §8(a)(1), inserted “(1)” after subsec. heading, added par. (2), relating to criminal penalties, and added pars. (3) and (4).
 
@@ -80,11 +80,11 @@ Subsec. (d). Pub. L. 109–280, §1301(2)(B)(ii), redesignated subsec. (a)(2), r
 
 Pub. L. 109–280, §1301(1), struck out subsec. (d) which read as follows: “Any operator who willfully violates a mandatory health or safety standard, or knowingly violates or fails or refuses to comply with any order issued under section 814 of this title and section 817 of this title, or any order incorporated in a final decision issued under this subchapter, except an order incorporated in a decision under subsection (a) of this section or section 815(c) of this title, shall, upon conviction, be punished by a fine of not more than $25,000, or by imprisonment for not more than one year, or by both, except that if the conviction is for a violation committed after the first conviction of such operator under this chapter, punishment shall be by a fine of not more than $50,000, or by imprisonment for not more than five years, or both.”
 
-1990—Subsec. (a). Pub. L. 101–508, §3102(1), substituted “$50,000” for “$10,000”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §3102(1), substituted “$50,000” for “$10,000”.
 
 Subsec. (b). Pub. L. 101–508, §3102(2), substituted “$5,000” for “1,000”.
 
-1977—Pub. L. 95–164 substituted provisions setting the civil and criminal penalties with regard to violations of this chapter for provisions relating to claims of idled miners, which provisions, as revised, were transferred to section 821 of this title.
+<b>1977</b>—Pub. L. 95–164 substituted provisions setting the civil and criminal penalties with regard to violations of this chapter for provisions relating to claims of idled miners, which provisions, as revised, were transferred to section 821 of this title.
 
 #### Effective Date of 1977 Amendment
 

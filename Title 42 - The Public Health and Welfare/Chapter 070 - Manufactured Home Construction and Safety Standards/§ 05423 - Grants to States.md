@@ -24,5 +24,5 @@ The Federal share for each State grant under subsection (a) of this section may 
 
 #### Amendments
 
-1980—Subsec. (a)(1). Pub. L. 96–399 substituted “manufactured home” for “mobile home”.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–399 substituted “manufactured home” for “mobile home”.
 

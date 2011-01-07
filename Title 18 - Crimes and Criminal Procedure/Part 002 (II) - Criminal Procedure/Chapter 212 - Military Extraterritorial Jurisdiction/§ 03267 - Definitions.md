@@ -50,5 +50,5 @@ As used in this chapter:
 
 #### Amendments
 
-2004—Par. (1)(A). Pub. L. 108–375 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “employed as a civilian employee of the Department of Defense (including a nonappropriated fund instrumentality of the Department), as a Department of Defense contractor (including a subcontractor at any tier), or as an employee of a Department of Defense contractor (including a subcontractor at any tier);”.
+<b>2004</b>—Par. (1)(A). Pub. L. 108–375 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “employed as a civilian employee of the Department of Defense (including a nonappropriated fund instrumentality of the Department), as a Department of Defense contractor (including a subcontractor at any tier), or as an employee of a Department of Defense contractor (including a subcontractor at any tier);”.
 

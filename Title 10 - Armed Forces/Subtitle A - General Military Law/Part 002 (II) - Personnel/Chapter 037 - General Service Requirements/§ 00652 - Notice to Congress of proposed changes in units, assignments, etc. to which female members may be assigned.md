@@ -2,7 +2,7 @@
 
 (a)
 
-Rule for Ground Combat Personnel Policy.—(1) If the Secretary of Defense proposes to make any change described in paragraph (2)(A) or (2)(B) to the ground combat exclusion policy or proposes to make a change described in paragraph (2)(C), the Secretary shall, before any such change is implemented, submit to Congress a report providing notice of the proposed change. Such a change may then be implemented only after the end of a period of 30 days of continuous session of Congress (excluding any day on which either House of Congress is not in session) following the date on which the report is received.
+Rule for Ground Combat Personnel Policy.—(1) If the Secretary of Defense proposes tomake any change described in paragraph (2)(A) or (2)(B) to the ground combat exclusion policy or proposes to make a change described in paragraph (2)(C), the Secretary shall, before any such change is implemented, submit to Congress a report providing notice of the proposed change. Such a change may then be implemented only after the end of a period of 30 days of continuous session of Congress (excluding any day on which either House of Congress is not in session) following the date on which the report is received.
 
 (2) A change referred to in paragraph (1) is a change that—
 
@@ -50,5 +50,5 @@ The Military Selective Service Act, referred to in subsec. (a)(3)(B), is act Jun
 
 A prior section 652, added Pub. L. 95–485, title IV, §405(d)(1), Oct. 20, 1978, 92 Stat. 1616, related to Ready Reserve requirement of notification of change of status, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§1661(a)(3)(A), 1691, Oct. 5, 1994, 108 Stat. 2980, 3026, effective Dec. 1, 1994. See section 10205 of this title.
 
-Provisions similar to those in this section were contained in Pub. L. 103–160, div. A, title V, §542, Nov. 30,1993, 107 Stat. 1659, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 109–163, §541(c).
+Provisions similar to those in this section were contained in Pub. L. 103–160, div. A, title V, §542, Nov. 30, 1993, 107 Stat. 1659, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 109–163, §541(c).
 

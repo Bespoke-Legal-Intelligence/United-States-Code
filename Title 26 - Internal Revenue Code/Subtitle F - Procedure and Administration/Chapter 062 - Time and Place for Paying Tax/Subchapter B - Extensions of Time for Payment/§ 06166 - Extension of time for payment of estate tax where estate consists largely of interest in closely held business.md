@@ -16,7 +16,7 @@
 
 #### (3) Date for payment of installments
 
-&emsp;If an election is made under paragraph (1), the first installment shall be paid on or before the date selected by the executor which is not more than 5 years after the date prescribed by section 6151(a) for payment of the tax, and each succeeding installment shall be paid on or before the date which is 1 year after the date prescribed by this paragraph for payment of the preceding installment.
+&emsp;If an election is made under paragraph (1), the first installment shall be paid on or beforethe date selected by the executor which is not more than 5 years after the date prescribed by section 6151(a) for payment of the tax, and each succeeding installment shall be paid on or before the date which is 1 year after the date prescribed by this paragraph for payment of the preceding installment.
 
 #### (b) Definitions and special rules
 
@@ -104,7 +104,7 @@
 
 #### (i) Holding company stock treated as business company stock
 
-&emsp;&emsp;&emsp;For purposes of this section, the portion of the stock of any holding company which represents direct ownership (or indirect ownership through 1 or more other holding companies) by such company in a business company shall be deemed to be stock in such business company.
+&emsp;&emsp;&emsp;For purposes of this section, the portion of the stock of any holding company which represents direct ownership (or indirectownership through 1 or more other holding companies) by such company in a business company shall be deemed to be stock in such business company.
 
 #### (ii) 5-year deferral for principal not to apply
 
@@ -398,7 +398,7 @@ A prior section 6166 was renumbered section 6166A of this title and later repeal
 
 #### Amendments
 
-2001—Subsec. (b)(1)(B)(ii), (C)(ii). Pub. L. 107–16, §§571(a), 901, temporarily substituted “45” for “15”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (b)(1)(B)(ii), (C)(ii). Pub. L. 107–16, §§571(a), 901, temporarily substituted “45” for “15”. See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (b)(8)(B). Pub. L. 107–16, §§573(a), 901, temporarily reenacted heading without change and amended text of subpar. (B) generally. Prior to amendment, text read as follows: “No stock shall be taken into account for purposes of applying this paragraph unless it is non-readily-tradable stock (within the meaning of paragraph (7)(B)).” See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -406,21 +406,21 @@ Subsec. (b)(9)(B)(iii)(I). Pub. L. 107–16, §§571(a), 901, temporarily substi
 
 Subsec. (b)(10). Pub. L. 107–16, §§572(a), 901, temporarily added par. (10). See Effective and Termination Dates of 2001 Amendment note below.
 
-2000—Subsec. (k)(5). Pub. L. 106–554 substituted “2035(c)(2)” for “2035(d)(4)”.
+<b>2000</b>—Subsec. (k)(5). Pub. L. 106–554 substituted “2035(c)(2)” for “2035(d)(4)”.
 
-1998—Subsec. (b)(7)(A)(iii). Pub. L. 105–206, §6007(c)(1), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “section 6601(j) (relating to 2-percent rate of interest) shall not apply.”
+<b>1998</b>—Subsec. (b)(7)(A)(iii). Pub. L. 105–206, §6007(c)(1), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “section 6601(j) (relating to 2-percent rate of interest) shall not apply.”
 
 Subsec. (b)(8)(A)(iii). Pub. L. 105–206, §6007(c)(2), reenacted heading without change and amended text of cl. (iii) generally. Prior to amendment, text read as follows: “Section 6601(j) (relating to 2-percent rate of interest) shall not apply.”
 
-1997—Subsec. (b)(7)(A)(iii). Pub. L. 105–34 substituted “2-percent” for “4-percent”.
+<b>1997</b>—Subsec. (b)(7)(A)(iii). Pub. L. 105–34 substituted “2-percent” for “4-percent”.
 
 Subsec. (b)(8)(A)(iii). Pub. L. 105–34 substituted “2-percent” for “4-percent” in heading and text.
 
-1996—Subsec. (k)(6). Pub. L. 104–188 struck out par. (6) which provided cross reference to former section 2210(c) of this title authorizing payment of certain portion of estate tax in installments under provisions of this section.
+<b>1996</b>—Subsec. (k)(6). Pub. L. 104–188 struck out par. (6) which provided cross reference to former section 2210(c) of this title authorizing payment of certain portion of estate tax in installments under provisions of this section.
 
-1986—Subsecs. (i) to (k). Pub. L. 99–514 added subsec. (i) and redesignated former subsecs. (i) and (j) as (j) and (k), respectively.
+<b>1986</b>—Subsecs. (i) to (k). Pub. L. 99–514 added subsec. (i) and redesignated former subsecs. (i) and (j) as (j) and (k), respectively.
 
-1984—Subsec. (b)(8). Pub. L. 98–369, §1021(a), added par. (8).
+<b>1984</b>—Subsec. (b)(8). Pub. L. 98–369, §1021(a), added par. (8).
 
 Subsec. (b)(9). Pub. L. 98–369, §1021(b), added par. (9).
 
@@ -430,7 +430,7 @@ Subsec. (g)(2)(C). Pub. L. 98–369, §1021(d), added subpar. (C).
 
 Subsec. (j)(6). Pub. L. 98–369, §544(b)(4), added par. (6).
 
-1983—Subsec. (b)(3). Pub. L. 97–448, §104(c)(1), substituted “35-percent requirement” for “65-percent requirement”.
+<b>1983</b>—Subsec. (b)(3). Pub. L. 97–448, §104(c)(1), substituted “35-percent requirement” for “65-percent requirement”.
 
 Subsec. (g)(1)(B)(i). Pub. L. 97–448, §104(c)(2), substituted “the redemption of such stock, and the withdrawal of money or other property distributed in such redemption, shall not be treated as a distribution or withdrawal for purposes of subparagraph (A), and” for “subparagraph (A)(i) does not apply with respect to the stock redeemed; and for purposes of such subparagraph the interest in the closely held business shall be considered to be such interest reduced by the value of the stock redeemed, and”.
 
@@ -438,7 +438,7 @@ Subsec. (g)(1)(B)(ii). Pub. L. 97–448, §104(c)(2), substituted “for purpose
 
 Subsec. (j)(5). Pub. L. 97–448, §104(d)(1)(B), added par. (5).
 
-1981—Pub. L. 97–34, §422(e)(5)(B), substituted “Extension of time” for “Alternate extension of time” in section catchline.
+<b>1981</b>—Pub. L. 97–34, §422(e)(5)(B), substituted “Extension of time” for “Alternate extension of time” in section catchline.
 
 Subsec. (a). Pub. L. 97–34, §422(a)(1), (e)(5)(A), substituted in par. (1) “35 percent” for “65 percent” and struck out par. (4) which provided that no election be made under this section by the executor of the estate of any decedent if an election under section 6166A applies with respect to the estate of such decedent.
 
@@ -450,7 +450,7 @@ Subsec. (g)(1)(D). Pub. L. 97–34, §422(c)(3), inserted provision for applicat
 
 Subsec. (g)(3). Pub. L. 97–34, §422(c)(2), substituted as heading “Failure to make payment of principal or interest” for “Failure to pay installment”, designated existing provisions as subpar. (A), and in subpar. (A) as so designated, substituted “Except as provided in subparagraph (B), if any payment of principal or interest” for “If any installment” and “extension of time” for “extension of time for the payment of such installment”, and added subpar. (B).
 
-1978—Subsec. (b)(2)(D). Pub. L. 95–600, §512(a), added subpar. (D).
+<b>1978</b>—Subsec. (b)(2)(D). Pub. L. 95–600, §512(a), added subpar. (D).
 
 Subsec. (b)(7). Pub. L. 95–600, §512(b), added par. (7).
 
@@ -462,7 +462,7 @@ Pub. L. 107–16, title V, §572(b), June 7, 2001, 115 Stat. 93, provided that: 
 
 Pub. L. 107–16, title V, §573(b), June 7, 2001, 115 Stat. 93, provided that: “The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after December 31, 2001.”
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -502,7 +502,7 @@ In general.—At the election of the executor, if—
 
 &emsp;“(B)
 
-Effect of election.—Any executor who elects the application of this paragraph shall be treated as having made the election under paragraph (8) of section 6166(b) of such Code.”
+Effect of election.—Any executor who elects the application of this paragraph shall be treated ashaving made the election under paragraph (8) of section 6166(b) of such Code.”
 
 #### Effective Date of 1983 Amendment
 

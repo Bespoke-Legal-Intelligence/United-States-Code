@@ -18,7 +18,7 @@
 
 (8) The Commissioner and the Secretary of Health and Human Services (in this subchapter referred to as the “Secretary”) shall consult, on an ongoing basis, to ensure—
 
-&emsp;(A) the coordination of the programs administered by the Commissioner, as described insection 901 of this title, with the programs administered by the Secretary under subchapters XVIII and XIX of this chapter; and
+&emsp;(A) the coordination of the programs administered by the Commissioner, as described in section 901 of this title, with the programs administered by the Secretary under subchapters XVIII and XIX of this chapter; and
 
 &emsp;(B) that adequate information concerning benefits under such subchapters XVIII and XIX of this chapter is available to the public.
 
@@ -56,15 +56,15 @@ Section 3(a) of the Inspector General Act of 1978, referred to in subsec. (e), i
 
 #### Amendments
 
-1996—Subsecs. (c) to (e). Pub. L. 104–121 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+<b>1996</b>—Subsecs. (c) to (e). Pub. L. 104–121 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-1994—Pub. L. 103–296 amended section generally. Prior to amendment, section read as follows: “The Secretary shall perform the duties imposed upon him by this chapter and shall also have the duty of studying and making recommendations as to the most effective methods of providing economic security through social insurance, and as to legislation and matters of administrative policy concerning old-age pensions, unemployment compensation, accident compensation, and related subjects.”
+<b>1994</b>—Pub. L. 103–296 amended section generally. Prior to amendment, section read as follows: “The Secretary shall perform the duties imposed upon him by this chapter and shall also have the duty of studying and making recommendations as to the most effective methods of providing economic security through social insurance, and as to legislation and matters of administrative policy concerning old-age pensions, unemployment compensation, accident compensation, and related subjects.”
 
-1984—Pub. L. 98–369, §2663(<i>l</i>)(1), substituted “Secretary” for “Administrator”.
+<b>1984</b>—Pub. L. 98–369, §2663(<i>l</i>)(1), substituted “Secretary” for “Administrator”.
 
 Pub. L. 98–369, §2663(j)(2)(C)(i), which directed the substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed because “Health, Education, and Welfare” did not appear in text.
 
-1950—Act Aug. 28, 1950, substituted “Administrator” for “Board” and “him” for “it”.
+<b>1950</b>—Act Aug. 28, 1950, substituted “Administrator” for “Board” and “him” for “it”.
 
 #### Effective Date of 1996 Amendment
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date,see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Issuance by Commissioner of Social Security of Receipts To Acknowledge Submission of Reports of Changes in Work or Earnings Status of Disabled Beneficiaries
 

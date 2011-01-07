@@ -34,11 +34,11 @@ In subsection (b) the words “There is authorized to be appropriated” are omi
 
 #### Amendments
 
-1980—Subsec. (a)(1). Pub. L. 96–513 substituted a period for the semicolon at the end.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–513 substituted a period for the semicolon at the end.
 
-1979—Pub. L. 96–137 struck out provisions relating to the naval petroleum reserves special account.
+<b>1979</b>—Pub. L. 96–137 struck out provisions relating to the naval petroleum reserves special account.
 
-1976—Pub. L. 94–258 substituted “Naval petroleum reserves special account” for “Expenditures: appropriations chargeable” in section catchline.
+<b>1976</b>—Pub. L. 94–258 substituted “Naval petroleum reserves special account” for “Expenditures: appropriations chargeable” in section catchline.
 
 Subsec. (a). Pub. L. 94–258 substituted provisions establishing a special account on the books of the Treasury Department to be designated as the “naval petroleum reserves special account”, and authorizing to be credited proceeds resulting from the sale or exchange of the United States share of petroleum, refined petroleum products, appropriation funds, royalties, or other revenue from the operation of the reserves, for provisions authorizing the expenditure of funds from available appropriations for expenses incurred in the administration of the reserves.
 
@@ -46,7 +46,7 @@ Subsec. (b). Pub. L. 94–258 substituted provisions which made funds in the nav
 
 Subsecs. (c), (d). Pub. L. 94–258 added subsecs. (c) and (d).
 
-1962—Subsec. (a). Pub. L. 87–796 substituted “with respect to the naval petroleum and oil shale reserves shall be paid from appropriations made available for the purposes specified in this chapter” for “in exploring, prospecting, conserving, developing, using and operating lands owned or controlled by the United States in the naval petroleum reserves, and in producing petroleum, and the share of the United States of expenses incurred under any contract entered into under this chapter, shall be paid from appropriations made available for those purposes”.
+<b>1962</b>—Subsec. (a). Pub. L. 87–796 substituted “with respect to the naval petroleum and oil shale reserves shall be paid from appropriations made available for the purposes specified in this chapter” for “in exploring, prospecting, conserving, developing, using and operating lands owned or controlled by the United States in the naval petroleum reserves, and in producing petroleum, and the share of the United States of expenses incurred under any contract entered into under this chapter, shall be paid from appropriations made available for those purposes”.
 
 #### Effective Date of 1980 Amendment
 

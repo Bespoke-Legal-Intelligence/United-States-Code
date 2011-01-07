@@ -64,7 +64,7 @@ In the section, the words “officer or” are added for consistency in the revi
 
 In subsection (a), before clause (1), the words “decide” and “(where appropriate)” are omitted as surplus. In clause (6), the words “relations program” are substituted for “system” for consistency. In clause (8), the words “most appropriately” are omitted as surplus.
 
-In subsection (b), the words “delegate . . . to act” are substituted for “designate . . . to take any action which the Board is authorized to take” for consistencyand to eliminate unnecessary words. The words “individual” and “reopened and” are omitted as surplus.
+In subsection (b), the words “delegate . . . to act” are substituted for “designate . . . to take any action which the Board is authorized to take” for consistency and to eliminate unnecessary words. The words “individual” and “reopened and” are omitted as surplus.
 
 In subsection (c), the words “reopen and” are omitted as surplus.
 
@@ -76,13 +76,13 @@ Section 312(e)(2) of the Architect of the Capitol Human Resources Act, referred 
 
 #### Amendments
 
-1995—Subsec. (b). Pub. L. 104–53, §213(2), added subsec. (b). Former subsec. (b) redesignated (c).
+<b>1995</b>—Subsec. (b). Pub. L. 104–53, §213(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 104–53, §213(1), (3), redesignated subsec. (b) as (c) and in second sentence substituted “under subsection (d)” for “under subsection (c)”. Former subsec. (c) redesignated (d).
 
 Subsecs. (d), (e). Pub. L. 104–53, §213(1), redesignated subsecs. (c) and (d) as (d) and (e), respectively.
 
-1994—Subsec. (a)(9). Pub. L. 103–283 added par. (9). See Application of Provisions Amended by Pub. L. 103–283 note below.
+<b>1994</b>—Subsec. (a)(9). Pub. L. 103–283 added par. (9). See Application of Provisions Amended by Pub. L. 103–283 note below.
 
 #### Change of Name
 

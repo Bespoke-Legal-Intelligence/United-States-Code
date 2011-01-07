@@ -2,7 +2,7 @@
 
 (a)
 
-Cooperative Arrangements Authorized.—A working-capital funded Army industrial facility may enter into a contract or other cooperative arrangement with a non-Army entity to carry out with the non-Army entity a military or commercial project described in subsection (b), subject to the conditions prescribed in subsection (c). This authority may be used to enter into not more than eight contracts or cooperative agreements in addition to the contracts and cooperative agreements in place as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181).
+Cooperative Arrangements Authorized.—A working-capital funded Army industrial facility may enter into a contract or other cooperative arrangement with a non-Army entity to carry out with the non-Army entity a military or commercial project described in subsection (b), subject to the conditions prescribed in subsection (c). This authority may be used toenter into not more than eight contracts or cooperative agreements in addition to the contracts and cooperative agreements in place as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181).
 
 (b)
 
@@ -72,7 +72,7 @@ Approval Authority.—The authority of an Army industrial facility to enter into
 
 (g)
 
-Commercial Sales.—Except in the case of work performed for the Department of Defense, for a contract of the Department of Defense, for foreign military sales, or for authorized foreign direct commercial sales (defense articles or defense services sold to a foreign government or international organization under export controls), a sale of articles or services may be made under this section only if the approval authority described in subsection (f) determines that the articles or services are not available from acommercial source located in the United States in the required quantity or quality, or within the time required.
+Commercial Sales.—Except in the case of work performed for the Department of Defense, for a contract of the Department of Defense, for foreign military sales, or for authorized foreign direct commercial sales (defense articles or defense services sold to a foreign government or international organization under export controls), a sale of articles or services may be made under this section only if the approval authority described in subsection (f) determines that the articles or services are not available from a commercial source located in the United States in the required quantity or quality, or within the time required.
 
 (h)
 
@@ -124,13 +124,13 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–84 inserted “in addition to the contracts and cooperative agreements in place as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181)” after “not more than eight contracts or cooperative agreements”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–84 inserted “in addition to the contracts and cooperative agreements in place as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181)” after “not more than eight contracts or cooperative agreements”.
 
-2008—Subsec. (a). Pub. L. 110–181, §328(a)(1), inserted at end “This authority may be used to enter into not more than eight contracts or cooperative agreements.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §328(a)(1), inserted at end “This authority may be used to enter into not more than eight contracts or cooperative agreements.”
 
 Subsec. (k). Pub. L. 110–181, §328(a)(2), substituted “2014” for “2009”.
 
-2006—Subsec. (d). Pub. L. 109–364 substituted “Arrangement” for “Arangement” in heading.
+<b>2006</b>—Subsec. (d). Pub. L. 109–364 substituted “Arrangement” for “Arangement” in heading.
 
 Pub. L. 109–163, §321(b)(1), substituted “subsection (f)” for “subsection (e)” in introductory provisions.
 

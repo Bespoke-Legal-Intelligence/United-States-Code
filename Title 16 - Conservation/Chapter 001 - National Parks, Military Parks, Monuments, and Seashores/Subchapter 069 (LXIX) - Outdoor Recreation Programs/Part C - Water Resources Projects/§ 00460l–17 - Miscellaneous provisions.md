@@ -46,5 +46,5 @@ Subsec. (b) of this section amended section 662(d) of this title.
 
 #### Amendments
 
-1976—Subsec. (d). Pub. L. 94–576 authorized recreational and other public uses at dams and reservoirs consistent with promotion of navigation, flood control, and generation of electrical energy.
+<b>1976</b>—Subsec. (d). Pub. L. 94–576 authorized recreational and other public uses at dams and reservoirs consistent with promotion of navigation, flood control, and generation of electrical energy.
 

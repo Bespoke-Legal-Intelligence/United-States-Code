@@ -26,7 +26,7 @@ To implement the policy enunciated in subsection (a) of this section, the Congre
 
 &emsp;(3) It is further an appropriate Federal function to support scientific and technological efforts which are expected to provide results beneficial to the public but which the private sector may be unwilling or unable to support.
 
-&emsp;(4) Scientific and technological activities which may be properly supported exclusively by the Federal Government should be distinguished from those in which interests areshared with State and local governments and the private sector. Among these entities, cooperative relationships should be established which encourage the appropriate sharing of science and technology decisionmaking, funding support, and program planning and execution.
+&emsp;(4) Scientific and technological activities which may be properly supported exclusively by the Federal Government should be distinguished from those in which interests are shared with State and local governments and the private sector. Among these entities, cooperative relationships should be established which encourage the appropriate sharing of science and technology decisionmaking, funding support, and program planning and execution.
 
 &emsp;(5) The Federal Government should support and utilize engineering and its various disciplines and make maximum use of the engineering community, whenever appropriate, as an essential element in the Federal policymaking process.
 
@@ -40,7 +40,7 @@ The Congress declares that, in order to expedite and facilitate the implementati
 
 &emsp;(2) Explicit criteria, including cost-benefit principles where practicable, should be developed to identify the kinds of applied research and technology programs that are appropriate for Federal funding support and to determine the extent of such support. Particular attention should be given to scientific and technological problems and opportunities offering promise of social advantage that are so long range, geographically widespread, or economically diffused that the Federal Government constitutes the appropriate source for undertaking their support.
 
-&emsp;(3) Federal promotion of science and technology should emphasize quality of research, recognize the singular importance of stability in scientific and technological institutions, and for urgent tasks, seek to assure timeliness of results. With particular reference to Federal support for basic research, funds should be allocated to encourage education in needed disciplines, to provide a base of scientific knowledge from which future essential technological development can be launched, and to add to the cultural heritage of the Nation.
+&emsp;(3) Federal promotion of science and technology should emphasize quality of research, recognize the singular importance of stability in scientific and technological institutions,and for urgent tasks, seek to assure timeliness of results. With particular reference to Federal support for basic research, funds should be allocated to encourage education in needed disciplines, to provide a base of scientific knowledge from which future essential technological development can be launched, and to add to the cultural heritage of the Nation.
 
 &emsp;(4) Federal patent policies should be developed, based on uniform principles, which have as their objective the preservation of incentives for technological innovation and the application of procedures which will continue to assure the full use of beneficial technology to serve the public.
 

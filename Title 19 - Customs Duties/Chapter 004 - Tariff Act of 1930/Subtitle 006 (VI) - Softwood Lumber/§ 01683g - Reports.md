@@ -30,5 +30,7 @@ The Comptroller General of the United States shall submit the following reports 
 
 #### References in Text
 
-For the effective date of this subtitle, referred to in subsec. (a), see section 3301(b) of Pub. L. 110–246, set out as an Effective Date note under section 1683 of this title.
+For the effective date of this subtitle, referred to in subsec. (a), see section 3301(b) of Pub. L. 110–246, set outas an Effective Date note under section 1683 of this title.
+
+<i><sup>1</sup></i><i> So in original. Comma probably should not appear.</i>
 

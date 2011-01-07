@@ -16,7 +16,7 @@ Funds for Protective Devices.—
 
 &emsp;(1)
 
-In general.—Before making an apportionment under section 104(b)(5) for a fiscal year, the Secretary shall set aside, from amounts made available to carry out the highway safety improvement program under section 148 for such fiscal year, at least $220,000,000 for the elimination of hazards and the installation of protective devices at railway-highway crossings. At least 1/2 of the funds authorized for and expended under this section shall be available for the installation of protective devices at railway-highway crossings. Sums authorized to be appropriated to carry out this section shall be available for obligation in the same manner as funds apportioned under section 104(b)(1) of this title.
+In general.—Before making an apportionment under section 104(b)(5) for a fiscal year, the Secretary shall set aside, from amounts made available to carry out the highway safety improvement program under section 148 for such fiscal year, at least $220,000,000 for the elimination of hazards and the installation of protective devices at railway-highway crossings. At least ½ of the funds authorized for and expended under this section shall be available for the installation of protective devices at railway-highway crossings. Sums authorized to be appropriated to carry out this section shall be available for obligation in the same manner as funds apportioned under section 104(b)(1) of this title.
 
 &emsp;(2)
 
@@ -68,7 +68,7 @@ Amount of state payment.—The amount of the incentive payment payable to a loca
 
 &emsp;(4)
 
-Use of state payments.—A local government receiving an incentive payment from a State under paragraph (1) shall use the amount of the incentive payment for transportation safety improvements.
+Use of state payments.—A local government receiving an incentive payment from aState under paragraph (1) shall use the amount of the incentive payment for transportation safety improvements.
 
 (j)
 
@@ -114,11 +114,11 @@ The date of enactment of the Rail Safety Improvement Act of 2008, referred to in
 
 #### Amendments
 
-2008—Subsec. (e)(2). Pub. L. 110–244, §101(<i>l</i>), substituted “highway safety improvement program purposes” for “purposes under this subsection”.
+<b>2008</b>—Subsec. (e)(2). Pub. L. 110–244, §101(<i>l</i>), substituted “highway safety improvement program purposes” for “purposes under this subsection”.
 
 Subsec. (<i>l</i>). Pub. L. 110–432 added subsec. (<i>l</i>).
 
-2005—Subsec. (e). Pub. L. 109–59, §1401(c)(1), formerly §1401(d)(1), as renumbered by Pub. L. 110–244, §101(s)(1), designated existing provisions as par. (1), inserted after par. designation “
+<b>2005</b>—Subsec. (e). Pub. L. 109–59, §1401(c)(1), formerly §1401(d)(1), as renumbered by Pub. L. 110–244, §101(s)(1), designated existing provisions as par. (1), inserted after par. designation “
 
 In general.—Before making an apportionment under section 104(b)(5) for a fiscal year, the Secretary shall set aside, from amounts made available to carry out the highway safety improvement program under section 148 for such fiscal year, at least $220,000,000 for the elimination of hazards and the installation of protective devices at railway-highway crossings.”, and added par. (2).
 
@@ -128,17 +128,17 @@ Subsec. (g). Pub. L. 109–59, §1401(c)(3), formerly §1401(d)(3), as renumbere
 
 Subsec. (k). Pub. L. 109–59, §1401(c)(4), formerly §1401(d)(4), as renumbered by Pub. L. 110–244, §101(s)(1), added subsec. (k).
 
-1998—Subsec. (a). Pub. L. 105–178, §1111(d), substituted “Subject to section 120” for “Except as provided in subsection (d) of section 120 of this title” in first sentence and “subject to section 120” for “except as provided in subsection (d) of section 120 of this title” in second sentence.
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §1111(d), substituted “Subject to section 120” for “Except as provided in subsection (d) of section 120 of this title” in first sentence and “subject to section 120” for “except as provided in subsection (d) of section 120 of this title” in second sentence.
 
 Subsec. (c). Pub. L. 105–178, §1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
 
 Subsec. (j). Pub. L. 105–178, §1202(d), added subsec. (j).
 
-1996—Subsec. (i). Pub. L. 104–205 added subsec. (i).
+<b>1996</b>—Subsec. (i). Pub. L. 104–205 added subsec. (i).
 
-1995—Subsec. (g). Pub. L. 104–59 substituted “Committee on Transportation and Infrastructure” for “Committee on Public Works and Transportation” in third sentence.
+<b>1995</b>—Subsec. (g). Pub. L. 104–59 substituted “Committee on Transportation and Infrastructure” for “Committee on Public Works and Transportation” in third sentence.
 
-1987—Subsecs. (d) to (h). Pub. L. 100–17 added subsecs. (d) to (h).
+<b>1987</b>—Subsecs. (d) to (h). Pub. L. 100–17 added subsecs. (d) to (h).
 
 #### Federal Share of Costs for Construction To Eliminate Hazards
 
@@ -154,7 +154,7 @@ Safety Enforcement.—
 
 &emsp;“(1)
 
-Cooperation between federal and state agencies.—The National Highway Traffic Safety Administration and the Office of Motor Carriers within the Federal Highway Administration shall cooperate and work, on a continuing basis, with the National Association of Governors’ Highway Safety Representatives, the Commercial Vehicle Safety Alliance, and Operation Lifesaver, Inc., to improve compliancewith and enforcement of laws and regulations pertaining to railroad-highway grade crossings.
+Cooperation between federal and state agencies.—The National Highway Traffic Safety Administration and the Office of Motor Carriers within the Federal Highway Administration shall cooperate and work, on a continuing basis, with the National Association of Governors’ Highway Safety Representatives, the Commercial Vehicle Safety Alliance, and Operation Lifesaver, Inc., to improve compliance with and enforcement of laws and regulations pertaining to railroad-highway grade crossings.
 
 &emsp;“(2)
 
@@ -224,7 +224,7 @@ Pub. L. 93–87, title I, §163, Aug. 13, 1973, 87 Stat. 280, as amended by Pub.
 
 “(c) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out demonstration projects in Brownsville, Texas, and Matamoros, Mexico, for the relocation of railroad lines from the central area of the cities in conformance with the methodology developed under proposals submitted to the Secretary by the Brownsville Navigation District, providing for the construction of an international bridge and for the elimination of a substantial number of existing railway-road conflict points within the cities.
 
-“(d) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out ademonstration project in East Saint Louis, Illinois, for the relocation of rail lines between Thirteenth and Forty-third Streets, in accordance with methodology approved by the Secretary. The Secretary of Transportation shall carry out a demonstration project for the relocation of rail lines in the vicinity of Carbondale, Illinois.
+“(d) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out a demonstration project in East Saint Louis, Illinois, for the relocation of rail lines between Thirteenth and Forty-third Streets, in accordance with methodology approved by the Secretary. The Secretary of Transportation shall carry out a demonstration project for the relocation of rail lines in the vicinity of Carbondale, Illinois.
 
 “(e) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out a demonstration project in New Albany, Indiana, for the elimination of the existing rail loop and relocation of rail lines to a location between Vincennes Street and East Eighth Street, in accordance with methodology approved by the Secretary.
 
@@ -258,7 +258,7 @@ Pub. L. 94–387, title I, §101, Aug. 14, 1976, 90 Stat. 1176, provided in part
 
 #### Railroad-Highway Crossings
 
-Pub. L. 93–87, title II, §203, Aug. 13, 1973, 87 Stat. 283, as amended by Pub. L. 94–280, title II, §203, May 5, 1976, 90 Stat. 452; Pub. L. 95–599, title II, §203, Nov. 6, 1978, 92 Stat. 2728; Pub. L. 96–470, title II, §209(d), Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–327, §5(b), Oct. 15, 1982, 96 Stat. 1612; Pub. L. 97–424, title II, §205, Jan. 6, 1983, 96 Stat. 2139, which directed each State to conduct a survey of all highways to identify those railway crossings requiring separation, relocation, or protective devices and to establish and implement a schedule of projects for such purpose, which at a minimum was to provide for signs at all crossings, authorized appropriations for elimination of hazards of railway-highway crossings, provided for State apportionments and for the Federal share of the costs of projects, required each State to annually report to the Secretary of Transportation and the Secretary of Transportation to annually report to Congress on progress in implementing railroad-highway crossings program, and authorized use of matching funds with local governments for improvement of railroad crossings, was repealed by Pub. L. 100–17, title I, §121(b), Apr. 2, 1987, 101 Stat. 160.
+Pub. L. 93–87, title II, §203, Aug. 13, 1973, 87 Stat. 283, as amended by Pub. L. 94–280, title II, §203, May 5, 1976, 90 Stat. 452; Pub. L. 95–599, title II, §203, Nov. 6, 1978, 92 Stat. 2728; Pub. L. 96–470, title II, §209(d), Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–327, §5(b), Oct. 15, 1982, 96 Stat. 1612; Pub. L. 97–424, title II, §205, Jan. 6, 1983, 96 Stat. 2139, which directed each State to conduct a survey of all highways to identify those railway crossings requiring separation, relocation, or protective devices and to establish and implement a schedule of projects for such purpose, which at a minimum was to provide for signs at all crossings, authorized appropriations for elimination of hazards of railway-highway crossings, provided for State apportionments and for the Federalshare of the costs of projects, required each State to annually report to the Secretary of Transportation and the Secretary of Transportation to annually report to Congress on progress in implementing railroad-highway crossings program, and authorized use of matching funds with local governments for improvement of railroad crossings, was repealed by Pub. L. 100–17, title I, §121(b), Apr. 2, 1987, 101 Stat. 160.
 
 Highway authorizations provisions of section 104(a) (1) and (2) of Pub. L. 93–87, referred to in section 203(d) of Pub. L. 93–87 provided that:
 
@@ -266,7 +266,7 @@ Highway authorizations provisions of section 104(a) (1) and (2) of Pub. L. 93–
 
 “(1) For the Federal-aid primary system in rural areas, out of the Highway Trust Fund, $680,000,000 for the fiscal year ending June 30, 1974, $700,000,000 for the fiscal year ending June 30, 1975, and $700,000,000 for the fiscal year ending June 30, 1976. For the Federal-aid secondary system in rural areas, out of Highway Trust Fund, $390,000,000 for the fiscal year ending June 30, 1974, $400,000,000 for the fiscal year ending June 30, 1975, and $400,000,000 for the fiscal year ending June 30, 1976.
 
-“(2) For the Federal-aid urban system, out of the Highway Trust Fund, $780,000,000 for the fiscal yearending June 30, 1974, $800,000,000 for the fiscal year ending June 30, 1975, and $800,000,000 for the fiscal year ending June 30, 1976. For the extensions of the Federal-aid primary and secondary systems in urban areas, out of the Highway Trust Fund $290,000,000 for the fiscal year ending June 30, 1974, $300,000,000 for the fiscal year ending June 30, 1975, and $300,000,000 for the fiscal year ending June 30, 1976.”
+“(2) For the Federal-aid urban system, out of the Highway Trust Fund, $780,000,000 for the fiscal year ending June 30, 1974, $800,000,000 for the fiscal year ending June 30, 1975, and $800,000,000 for the fiscal year ending June 30, 1976. For the extensions of the Federal-aid primary and secondary systems in urban areas, out of the Highway Trust Fund $290,000,000 for the fiscal year ending June 30, 1974, $300,000,000 for the fiscal year ending June 30, 1975, and $300,000,000 for the fiscal year ending June 30, 1976.”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

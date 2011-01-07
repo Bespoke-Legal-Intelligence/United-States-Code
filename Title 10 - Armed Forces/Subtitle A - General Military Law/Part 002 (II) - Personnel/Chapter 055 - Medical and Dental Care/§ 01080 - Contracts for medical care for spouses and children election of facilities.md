@@ -38,19 +38,19 @@ A prior section 1080, act Aug. 10, 1956, ch. 1041, 70A Stat. 85, related to styl
 
 #### Amendments
 
-1999—Subsec. (b). Pub. L. 106–65 inserted at end “Notwithstanding any other provision of law, with respect to obstetrics and gynecological care for beneficiaries not enrolled in a managed care plan offered pursuant to any contract or agreement under this chapter, a nonavailability-of-health-care statement shall be required for receipt of health care services related to outpatient prenatal, outpatient or inpatient delivery, and outpatient post-partum care subsequent to the visit which confirms the pregnancy.”
+<b>1999</b>—Subsec. (b). Pub. L. 106–65 inserted at end “Notwithstanding any other provision of law, with respect to obstetrics and gynecological care for beneficiaries not enrolled in a managed care plan offered pursuant to any contract or agreement under this chapter, a nonavailability-of-health-care statement shall be required for receipt of health care services related to outpatient prenatal, outpatient or inpatient delivery, and outpatient post-partum care subsequent to the visit which confirms the pregnancy.”
 
-1996—Subsec. (a). Pub. L. 104–201, §734(a)(1), inserted “inpatient” before “medical care” in first sentence.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, §734(a)(1), inserted “inpatient” before “medical care” in first sentence.
 
 Subsec. (b). Pub. L. 104–201, §734(c), substituted “Nonavailability-of-Health-Care Statements” for “Nonavailability of Health Care Statements” in heading and “nonavailability-of-health-care statement” for “nonavailability of health care statement” in text.
 
 Subsec. (c). Pub. L. 104–201, §734(b)(1), added subsec. (c).
 
-1993—Pub. L. 103–160 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>1993</b>—Pub. L. 103–160 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1984—Pub. L. 98–557 substituted reference to administering Secretaries for reference to Secretary of Health and Human Services.
+<b>1984</b>—Pub. L. 98–557 substituted reference to administering Secretaries for reference to Secretary of Health and Human Services.
 
-1980—Pub. L. 96–513 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+<b>1980</b>—Pub. L. 96–513 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
 #### Effective Date of 1980 Amendment
 

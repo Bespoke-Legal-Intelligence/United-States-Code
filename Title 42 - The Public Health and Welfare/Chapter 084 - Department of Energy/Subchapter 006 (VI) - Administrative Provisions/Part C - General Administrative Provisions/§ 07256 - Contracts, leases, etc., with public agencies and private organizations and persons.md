@@ -74,17 +74,19 @@ To the extent provided in advance in appropriations Acts, the Secretary may reta
 
 &emsp;(ii) whether additional safeguards are necessary to carry out the authorities.
 
-(9) The authority of the Secretary under this subsection may be delegated only to an officerof the Department who is appointed by the President by and with the advice and consent of the Senate.
+(9) The authority of the Secretary under this subsection may be delegated only to an officer of the Department who is appointed by the President by and with the advice and consent of the Senate.
 
-(10) Notwithstanding any other provision of law, the authority to enter into transactions under paragraph (1) shall terminate on September 30, 2010.
+(10) Notwithstanding any other provision of law, the authority to enter into transactions under paragraph (1) shall terminate on September 30, 2015.
 
-(Pub. L. 95–91, title VI, §646, Aug. 4, 1977, 91 Stat. 599; Pub. L. 103–160, div. C, title XXXI, §3154, Nov. 30, 1993, 107 Stat. 1952; Pub. L. 109–58, title X, §1007, Aug. 8, 2005, 119 Stat. 932.)
+(Pub. L. 95–91, title VI, §646, Aug. 4, 1977, 91 Stat. 599; Pub. L. 103–160, div. C, title XXXI, §3154, Nov. 30, 1993, 107 Stat. 1952; Pub. L. 109–58, title X, §1007, Aug. 8, 2005, 119 Stat. 932; Pub. L. 111–383, div. C, title XXXI, §3118, Jan. 7, 2011, 124 Stat. 4514.)
 
 #### Amendments
 
-2005—Subsec. (g). Pub. L. 109–58 added subsec. (g).
+<b>2011</b>—Subsec. (g)(10). Pub. L. 111–383 substituted “September 30, 2015” for “September 30, 2010”.
 
-1993—Subsecs. (c) to (f). Pub. L. 103–160 added subsecs. (c) to (f).
+<b>2005</b>—Subsec. (g). Pub. L. 109–58 added subsec. (g).
+
+<b>1993</b>—Subsecs. (c) to (f). Pub. L. 103–160 added subsecs. (c) to (f).
 
 #### Small Business Contracting
 
@@ -116,7 +118,7 @@ Goal.—Except as provided in subsection (c), a goal of 5 percent of the amount 
 
 &emsp;“(1) small business concerns, including mass media and advertising firms, owned and controlled by socially and economically disadvantaged individuals (as such term is used in section 8(d) of the Small Business Act (15 U.S.C. 637(d)) and regulations issued under that section), the majority of the earnings of which directly accrue to such individuals;
 
-&emsp;“(2) historically Black colleges and universities, including any nonprofit research institution that was an integral part of such a college or university before November 14, 1986; and
+&emsp;“(2) historically Black colleges and universities, including any nonprofit research institution that wasan integral part of such a college or university before November 14, 1986; and
 
 &emsp;“(3) minority institutions (as defined in section 1046(3) of the Higher Education Act of 1965 (20 U.S.C. 1135d-5(3))), which, for the purposes of this section, shall include Hispanic-serving institutions (as defined in section 316(b)(1) of such Act (20 U.S.C. 1059c(b)(1))).
 

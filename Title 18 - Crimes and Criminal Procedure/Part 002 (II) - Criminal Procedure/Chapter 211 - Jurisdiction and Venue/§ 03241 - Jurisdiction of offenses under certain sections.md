@@ -20,9 +20,9 @@ Definition of United States in section 39 of title 18, U.S.C., 1940 ed., is inco
 
 #### Amendments
 
-2002—Pub. L. 107–273 struck out “United States District Court for the Canal Zone and the” after “The”.
+<b>2002</b>—Pub. L. 107–273 struck out “United States District Court for the Canal Zone and the” after “The”.
 
-1958—Pub. L. 85–508 struck out provisions which related to the District Court for the Territory of Alaska. See section 81A of Title 28, Judiciary and Judicial Procedure, which establishes a United States District Court for the State of Alaska.
+<b>1958</b>—Pub. L. 85–508 struck out provisions which related to the District Court for the Territory of Alaska. See section 81A of Title 28, Judiciary and Judicial Procedure, which establishes a United States District Court for the State of Alaska.
 
 #### Effective Date of 1958 Amendment
 

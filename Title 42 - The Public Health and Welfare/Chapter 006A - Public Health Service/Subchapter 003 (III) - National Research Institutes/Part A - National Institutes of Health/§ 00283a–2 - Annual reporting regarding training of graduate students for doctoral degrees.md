@@ -20,7 +20,7 @@ A prior section 403C of act July 1, 1944, was renumbered section 403D and is cla
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–85, §1104(5)(A), substituted “graduate students supported by the National Institutes of Health” for “each degree-granting program” in introductory provisions.
+<b>2007</b>—Subsec. (a). Pub. L. 110–85, §1104(5)(A), substituted “graduate students supported by the National Institutes of Health” for “each degree-granting program” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 110–85, §1104(5)(B), inserted “such” after “percentage of”.
 

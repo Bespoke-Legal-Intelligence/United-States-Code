@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There is established within the Office a Community Capacity Development Office, headed by a Director appointed by the Attorney General. In carrying out the functions of the Office, the Director shall be subject to the authority, direction, and control of the Attorney General. Such authority, direction, and control may be delegated only to the Assistant Attorney General, without redelegation.
+&emsp;There is established within the Office a Community Capacity Development Office, headedby a Director appointed by the Attorney General. In carrying out the functions of the Office, the Director shall be subject to the authority, direction, and control of the Attorney General. Such authority, direction, and control may be delegated only to the Assistant Attorney General, without redelegation.
 
 #### (2) Purpose
 
@@ -54,7 +54,7 @@ January 5, 2006, referred to in subsec. (a)(3), was in the original “the date 
 
 #### Amendments
 
-2006—Subsecs. (a)(2), (e). Pub. L. 109–217 substituted “section 3712a(b)” for “section 3712d(b)”.
+<b>2006</b>—Subsecs. (a)(2), (e). Pub. L. 109–217 substituted “section 3712a(b)” for “section 3712d(b)”.
 
 #### Effective Date
 

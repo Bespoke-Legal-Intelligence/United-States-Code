@@ -18,13 +18,13 @@ Prior section 3118 was renumbered section 5318 of this title.
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–275 substituted “3106(f)” for “3106(e)”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–275 substituted “3106(f)” for “3106(e)”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1518 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1518 of this title as this section.
 
 Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “3106(e)” for “1506(e)”.
 
-1989—Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
 #### Effective Date
 

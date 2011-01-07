@@ -64,7 +64,7 @@ A State or Indian tribal government may use Federal grant funds under this subch
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–162 added subsec. (c).
+<b>2006</b>—Subsec. (c). Pub. L. 109–162 added subsec. (c).
 
 Subsec. (d). Pub. L. 109–271 designated existing provisions as par. (1), inserted par. heading, struck out “Nothing” before “in this section”, and added par. (2).
 

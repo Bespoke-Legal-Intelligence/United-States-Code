@@ -49,17 +49,17 @@
 
 #### Amendments
 
-2008—Pub. L. 110–389, title II, §214(b), title VII, §702(b), title VIII, §809(b), Oct. 10, 2008, 122 Stat. 4154, 4183, 4190, added items 521A, 532, and 546.
+<b>2008</b>—Pub. L. 110–389, title II, §214(b), title VII, §702(b), title VIII, §809(b), Oct. 10, 2008, 122 Stat. 4154, 4183, 4190, added items 521A, 532, and 546.
 
-1998—Pub. L. 105–368, title IX, §906(b), title X, §1001(a)(2), Nov. 11, 1998, 112 Stat. 3362, 3363, added items 530 and 531.
+<b>1998</b>—Pub. L. 105–368, title IX, §906(b), title X, §1001(a)(2), Nov. 11, 1998, 112 Stat. 3362, 3363, added items 530 and 531.
 
-1997—Pub. L. 105–114, title I, §101(a)(2), Nov. 21, 1997, 111 Stat. 2279, added item 516.
+<b>1997</b>—Pub. L. 105–114, title I, §101(a)(2), Nov. 21, 1997, 111 Stat. 2279, added item 516.
 
-1996—Pub. L. 104–262, title III, §333(a)(2), Oct. 9, 1996, 110 Stat. 3200, added item 545.
+<b>1996</b>—Pub. L. 104–262, title III, §333(a)(2), Oct. 9, 1996, 110 Stat. 3200, added item 545.
 
-1994—Pub. L. 103–446, title V, §510(b), Nov. 2, 1994, 108 Stat. 4670, added item 544.
+<b>1994</b>—Pub. L. 103–446, title V, §510(b), Nov. 2, 1994, 108 Stat. 4670, added item 544.
 
-1992—Pub. L. 102–405, title I, §105(b)(2), Oct. 9, 1992, 106 Stat. 1976, added item 543.
+<b>1992</b>—Pub. L. 102–405, title I, §105(b)(2), Oct. 9, 1992, 106 Stat. 1976, added item 543.
 
 
 ---

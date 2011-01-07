@@ -38,7 +38,7 @@ The pilot of any aircraft arriving in the United States or the Virgin Islands fr
 
 #### (d) Presentation of documentation
 
-The master, person in charge of a vehicle, or aircraft pilot shall present, or transmit pursuant to an electronic data interchange system, to the Customs Service such information, data, documents, papers, or manifests as the Secretary may by regulation prescribe.
+The master, person in charge of a vehicle, or aircraft pilot shall present, or transmit pursuant to an electronic data interchange system, to the Customs Service such information, data,documents, papers, or manifests as the Secretary may by regulation prescribe.
 
 #### (e) Prohibition on departures and discharge
 
@@ -60,9 +60,9 @@ R.S. §2772, relative to report and entry by the master of every vessel, bound t
 
 #### Amendments
 
-2000—Subsec. (a)(1)(C). Pub. L. 106–476 struck out “bonded merchandise, or” before “foreign merchandise”.
+<b>2000</b>—Subsec. (a)(1)(C). Pub. L. 106–476 struck out “bonded merchandise, or” before “foreign merchandise”.
 
-1993—Subsec. (a)(1)(D). Pub. L. 103–182, §652(1), added subpar. (D).
+<b>1993</b>—Subsec. (a)(1)(D). Pub. L. 103–182, §652(1), added subpar. (D).
 
 Subsec. (d). Pub. L. 103–182, §652(2), substituted “present, or transmit pursuant to an electronic data interchange system, to the Customs Service such information, data,” for “present to customs officers such”.
 
@@ -74,7 +74,7 @@ Subsec. (e). Pub. L. 103–182, §652(3), amended subsec. (e) generally. Prior t
 
 > only in accordance with regulations prescribed by the Secretary.”
 
-1986—Pub. L. 99–570 amended section generally. Prior to amendment, section read as follows: “Within twenty-four hours after the arrival of any vessel from a foreign port or place, or of a foreign vessel from a domestic port, or of a vessel of the United States carrying bonded merchandise, or foreign merchandise for which entry has not been made, at any port or place within the United States at which such vessel shall come to, the master shall, unless otherwise provided by law, report the arrival of the vessel at the nearest customhouse, under such regulations as the Commissioner of Customs may prescribe.”
+<b>1986</b>—Pub. L. 99–570 amended section generally. Prior to amendment, section read as follows: “Within twenty-four hours after the arrival of any vessel from a foreign port or place, or of a foreign vessel from a domestic port, or of a vessel of the United States carrying bonded merchandise, or foreign merchandise for which entry has not been made, at any port or place within the United States at which such vessel shall come to, the master shall, unless otherwise provided by law, report the arrival of the vessel at the nearest customhouse, under such regulations as the Commissioner of Customs may prescribe.”
 
 #### Effective Date of 2000 Amendment
 

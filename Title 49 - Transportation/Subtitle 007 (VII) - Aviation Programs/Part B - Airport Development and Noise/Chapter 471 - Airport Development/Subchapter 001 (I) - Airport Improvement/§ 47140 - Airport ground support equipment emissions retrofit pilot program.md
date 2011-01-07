@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Transportation shall carry out a pilot program at not more than 10 commercial service airports under which the sponsors of such airports may use an amount made available under section 48103 to retrofit existing eligible airport ground support equipment that burns conventional fuels to achieve lower emissions utilizing emission control technologies certified or verified by the Environmental Protection Agency.
+In General.—The Secretary of Transportation shall carry out a pilot program at not more than 10 commercial service airports under which the sponsors of such airports may use anamount made available under section 48103 to retrofit existing eligible airport ground support equipment that burns conventional fuels to achieve lower emissions utilizing emission control technologies certified or verified by the Environmental Protection Agency.
 
 (b)
 
@@ -10,7 +10,7 @@ Location in Air Quality Nonattainment or Maintenance Areas.—A commercial servi
 
 (c)
 
-Selection Criteria.—In selecting from among applicants for participation in the pilot program, the Secretary shall give priority consideration to applicants that will achieve the greatest air quality benefits measured by theamount of emissions reduced per dollar of funds expended under the pilot program.
+Selection Criteria.—In selecting from among applicants for participation in the pilot program, the Secretary shall give priority consideration to applicants that will achieve the greatest air quality benefits measured by the amount of emissions reduced per dollar of funds expended under the pilot program.
 
 (d)
 

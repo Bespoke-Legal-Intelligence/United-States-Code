@@ -22,7 +22,7 @@
 
 (2) The cooperative educational program that is to be maintained under paragraph (1) shall be modeled on and shall have essentially the same features of the program operated on November 28, 1990, pursuant to chapter 308 of the Federal Personnel Manual of the Office of Personnel Management.
 
-(3) Under the cooperative agreement program that is to be maintained under paragraph (1), the Secretary shall pay all costs for tuition, books, and fees of an Indian or Alaska Native student who—
+(3) Under the cooperative agreement program that is to be maintained under paragraph (1), theSecretary shall pay all costs for tuition, books, and fees of an Indian or Alaska Native student who—
 
 &emsp;(A) is enrolled in a course of study at an education institution with which the Secretary has entered into a cooperative agreement, and
 
@@ -59,8 +59,6 @@ The Secretary shall administer the programs described in this section until a su
 (Pub. L. 101–630, title III, §314, Nov. 28, 1990, 104 Stat. 4540.)
 
 #### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (a), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 The Indian Self-Determination Act, referred to in subsec. (c)(2)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 

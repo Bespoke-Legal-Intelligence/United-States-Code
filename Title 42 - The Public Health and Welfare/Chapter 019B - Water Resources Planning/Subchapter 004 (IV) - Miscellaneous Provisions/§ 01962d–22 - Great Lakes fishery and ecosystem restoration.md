@@ -34,7 +34,7 @@ In this section, the following definitions apply:
 
 #### (4) Great Lakes State
 
-&emsp;The term “Great Lakes State” means each of the States of Illinois, Indiana, Michigan, Minnesota, Ohio, Pennsylvania, New York, and Wisconsin.
+&emsp;The term “Great Lakes State” means each of the States of Illinois, Indiana, Michigan,Minnesota, Ohio, Pennsylvania, New York, and Wisconsin.
 
 #### (c) Great Lakes fishery and ecosystem restoration
 
@@ -136,7 +136,7 @@ Section was enacted as part of the Water Resources Development Act of 2000, and 
 
 #### Amendments
 
-2007—Subsec. (c)(2) to (4). Pub. L. 110–114, §5011(a), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “paragraph (3)” for “paragraph (2)” in subpar. (A) of par. (4).
+<b>2007</b>—Subsec. (c)(2) to (4). Pub. L. 110–114, §5011(a), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “paragraph (3)” for “paragraph (2)” in subpar. (A) of par. (4).
 
 Subsec. (f)(2). Pub. L. 110–114, §5011(b)(1), substituted “Except for reconnaissance studies, the Federal share” for “The Federal share” and “(3) or (4)” for “(2) or (3)”.
 

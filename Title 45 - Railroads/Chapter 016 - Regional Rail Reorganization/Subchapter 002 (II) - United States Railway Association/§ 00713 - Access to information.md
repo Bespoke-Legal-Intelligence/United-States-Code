@@ -6,9 +6,9 @@ The Corporation shall make available to the Association such information as the 
 
 #### Amendments
 
-1981—Pub. L. 97–35 substituted provisions relating to the Corporation making available to the Association all necessary information for provisions set out as subsecs. (a) to (d) respecting planning and other information availability, and enforcement procedures.
+<b>1981</b>—Pub. L. 97–35 substituted provisions relating to the Corporation making available to the Association all necessary information for provisions set out as subsecs. (a) to (d) respecting planning and other information availability, and enforcement procedures.
 
-1976—Subsec. (a). Pub. L. 94–210 struck out provisions prohibiting requests for information under this subsection after effective date of the final system plan.
+<b>1976</b>—Subsec. (a). Pub. L. 94–210 struck out provisions prohibiting requests for information under this subsection after effective date of the final system plan.
 
 #### Effective Date of 1981 Amendment
 

@@ -12,5 +12,5 @@ Notwithstanding any other provision of this part, each tribe, authority, organiz
 
 #### Prior Provisions
 
-A prior section 6893, Pub. L. 89–10, title III, §3203, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3655, set forth purpose of the Star Schools Program, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 7255a of this title.
+A prior section 6893, Pub. L. 89–10, title III, §3203, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3655, set forth purpose of the Star Schools Program,prior to the general amendment of this subchapter by Pub. L. 107–110. See section 7255a of this title.
 

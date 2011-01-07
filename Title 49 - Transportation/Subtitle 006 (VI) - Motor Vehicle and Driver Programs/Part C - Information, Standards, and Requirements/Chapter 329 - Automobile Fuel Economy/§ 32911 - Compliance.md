@@ -58,5 +58,5 @@ This makes a conforming amendment necessary because of the restatement of 15:201
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–429 substituted “, 32917(b), and 32918” for “, and 32917(b)”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–429 substituted “, 32917(b), and 32918” for “, and 32917(b)”.
 

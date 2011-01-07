@@ -46,7 +46,7 @@
 
 (f) For purposes of sections 1212, 1213, 1214, 1215, 1216, 1221, 1222, 2302, and 7701, employees appointed under chapter 73 or 74 of title 38 shall be employees.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–486, §4, Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–375, §6(c)(4), Aug. 12, 1970, 84 Stat. 775; Pub. L. 92–392, §2, Aug. 19, 1972, 86 Stat. 573; Pub. L. 95–454, title VII, §703(c)(2), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1217, 1224; Pub. L. 96–54, §2(a)(5), (6), Aug. 14, 1979, 93 Stat. 381; Pub. L. 99–335, title II, §207(a), June 6, 1986, 100 Stat. 594; Pub. L. 99–638, §2(b)(1), Nov. 10, 1986, 100 Stat. 3536; Pub. L. 101–508, title VII, §7202(b), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–3, title II, §201(b), Feb. 5, 1993, 107 Stat. 23; Pub. L. 103–424, §7, Oct. 29, 1994, 108 Stat. 4364; Pub. L. 104–201, div. A, title III, §370(b), Sept. 23, 1996, 110 Stat. 2499; Pub. L. 105–85, div. B, title XXVIII, §2871(c)(2), Nov. 18, 1997, 111 Stat. 2015; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–486, §4, Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–375, §6(c)(4), Aug. 12, 1970, 84 Stat. 775; Pub. L. 92–392, §2, Aug. 19, 1972, 86 Stat. 573; Pub. L. 95–454, title VII, §703(c)(2), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1217, 1224; Pub. L. 96–54, §2(a)(5), (6), Aug. 14, 1979, 93 Stat. 381; Pub. L. 99–335, title II, §207(a), June 6, 1986, 100 Stat. 594; Pub. L. 99–638, §2(b)(1), Nov. 10, 1986, 100 Stat. 3536; Pub. L. 101–508, title VII, §7202(b), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–3, title II, §201(b), Feb. 5, 1993, 107 Stat. 23; Pub. L. 103–424,§7, Oct. 29, 1994, 108 Stat. 4364; Pub. L. 104–201, div. A, title III, §370(b), Sept. 23, 1996, 110 Stat. 2499; Pub. L. 105–85, div. B, title XXVIII, §2871(c)(2), Nov. 18, 1997, 111 Stat. 2015; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
 Historical and Revision Notes
 
@@ -208,7 +208,7 @@ Section 7202(n) of Pub. L. 101–508, as amended by Pub. L. 102–378, §5(a)(2)
 
 “(4) If an individual makes an election under section 8347(q)(2) or 8461(n)(2) of title 5, United States Code, to remain covered by a retirement system established for employees described in section 2105(c) of such title, any Government agency thereafter employing such individual shall, in lieu of any deductions or contributions for which it would otherwise be responsible with respect to such individual under chapter 83 or 84 of such title, make such deductions from pay and such contributions as would be required (under the retirement system for nonappropriated fund employees involved) if it were a nonappropriated fund instrumentality. Any such deductions and contributions shall be remitted to the Department of Defense or the Coast Guard, as applicable, for transmission to the appropriate retirement system.”
 
-\[Amendment by Pub. L. 102–378 to section 7202(n) of Pub. L. 101–508, set out above, effective Nov. 5, 1990, seesection 9(b)(6) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under section 6303 of this title.\]
+\[Amendment by Pub. L. 102–378 to section 7202(n) of Pub. L. 101–508, set out above, effective Nov. 5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under section 6303 of this title.\]
 
 #### Prohibition of Decrease in Basic Pay Rate of Employees of Nonappropriated Fund Instrumentalities
 

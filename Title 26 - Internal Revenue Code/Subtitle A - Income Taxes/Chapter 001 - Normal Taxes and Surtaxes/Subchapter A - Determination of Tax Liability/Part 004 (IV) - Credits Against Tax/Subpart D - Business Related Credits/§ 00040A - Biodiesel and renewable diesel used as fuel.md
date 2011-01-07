@@ -166,7 +166,7 @@ For purposes of this section—
 
 #### (3) Partnership, S corporation, and other pass-thru entities
 
-&emsp;In the case of a partnership, trust, S corporation, or other pass-thru entity, the limitations contained in subsection (b)(4)(C) andparagraph (1) shall be applied at the entity level and at the partner or similar level.
+&emsp;In the case of a partnership, trust, S corporation, or other pass-thru entity, the limitations contained in subsection (b)(4)(C) and paragraph (1) shall be applied at the entity level and at the partner or similar level.
 
 #### (4) Allocation
 
@@ -246,9 +246,9 @@ For purposes of this title—
 
 #### (g) Termination
 
-This section shall not apply to any sale or use after December 31, 2009.
+This section shall not apply to any sale or use after December 31, 2011.
 
-(Added Pub. L. 108–357, title III, §302(a), Oct. 22, 2004, 118 Stat. 1463; amended Pub. L. 109–58, title XIII, §§1344(a), 1345(a)–(d), 1346(a), (b)(1), Aug. 8,2005, 119 Stat. 1052–1055; Pub. L. 109–135, title IV, §412(h), Dec. 21, 2005, 119 Stat. 2637; Pub. L. 110–234, title XV, §15321(f), May 22, 2008, 122 Stat. 1514; Pub. L. 110–246, §4(a), title XV, §15321(f), June 18, 2008, 122 Stat. 1664, 2276; Pub. L. 110–343, div. B, title II, §§202(a), (b)(1), (b)(3)–(f), 203(b), Oct. 3, 2008, 122 Stat. 3832, 3833.)
+(Added Pub. L. 108–357, title III, §302(a), Oct. 22, 2004, 118 Stat. 1463; amended Pub. L. 109–58, title XIII, §§1344(a), 1345(a)–(d), 1346(a), (b)(1), Aug. 8, 2005, 119 Stat. 1052–1055; Pub. L. 109–135, title IV, §412(h), Dec. 21, 2005, 119 Stat. 2637; Pub. L. 110–234, title XV, §15321(f), May 22, 2008, 122 Stat. 1514; Pub. L. 110–246, §4(a), title XV, §15321(f), June 18, 2008, 122 Stat. 1664, 2276; Pub. L. 110–343, div. B, title II, §§202(a), (b)(1), (b)(3)–(f), 203(b), Oct. 3, 2008, 122 Stat. 3832, 3833; Pub. L. 111–312, title VII, §701(a), Dec. 17, 2010, 124 Stat. 3310.)
 
 #### Codification
 
@@ -256,7 +256,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b)(1)(A), (2)(A). Pub. L. 110–343, §202(b)(1), substituted “$1.00” for “50 cents”.
+<b>2010</b>—Subsec. (g). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
+
+<b>2008</b>—Subsec. (b)(1)(A), (2)(A). Pub. L. 110–343, §202(b)(1), substituted “$1.00” for “50 cents”.
 
 Subsec. (b)(3) to (5). Pub. L. 110–343, §202(b)(3)(A), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out heading and text of former par. (3). Text read as follows: “In the case of any biodiesel which is agri-biodiesel, paragraphs (1)(A) and (2)(A) shall be applied by substituting ‘$1.00’ for ‘50 cents’.”
 
@@ -292,7 +294,7 @@ Subsec. (f)(4). Pub. L. 110–343, §202(e), added par. (4).
 
 Subsec. (g). Pub. L. 110–343, §202(a), substituted “December 31, 2009” for “December 31, 2008”.
 
-2005—Pub. L. 109–58, §1346(b)(1), inserted “and renewable diesel” after “Biodiesel” in section catchline.
+<b>2005</b>—Pub. L. 109–58, §1346(b)(1), inserted “and renewable diesel” after “Biodiesel” in section catchline.
 
 Subsec. (a). Pub. L. 109–58, §1345(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “For purposes of section 38, the biodiesel fuels credit determined under this section for the taxable year is an amount equal to the sum of—
 
@@ -319,6 +321,10 @@ Subsec. (f). Pub. L. 109–58, §1346(a), added subsec. (f). Former subsec. (f) 
 Pub. L. 109–58, §1345(c), redesignated subsec. (e) as (f).
 
 Subsec. (g). Pub. L. 109–58, §1346(a), redesignated subsec. (f) as (g).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title VII, §701(d), Dec. 17, 2010, 124 Stat. 3310, provided that: “The amendments made by this section \[amending this section and sections 6426 and 6427 of this title\] shall apply to fuel sold or used after December 31, 2009.”
 
 #### Effective Date of 2008 Amendment
 

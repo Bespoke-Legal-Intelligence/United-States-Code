@@ -12,7 +12,7 @@ If a partnership return is filed for any taxable year but it is determined that 
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–188 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If for any taxable year—
+<b>1996</b>—Subsec. (b). Pub. L. 104–188 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If for any taxable year—
 
 &emsp;“(1) an entity files a return as an S corporation but it is determined that the entity was not an S corporation for such year, or
 
@@ -26,5 +26,5 @@ Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 
 
 #### Effective Date
 
-Section effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub.L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 31 of this title.
+Section effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 31 of this title.
 

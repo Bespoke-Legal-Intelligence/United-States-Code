@@ -6,7 +6,7 @@ Subject to subsection (b), no import relief may be provided under this part afte
 
 #### (b) Exception
 
-If an article for which relief is provided under this part is an article for which the period fortariff elimination, set out in the Schedule of the United States to Annex 3.3 of the Agreement, is greater than 10 years, no relief under this part may be provided for that article after the date on which that period ends.
+If an article for which relief is provided under this part is an article for which the period for tariff elimination, set out in the Schedule of the United States to Annex 3.3 of the Agreement, is greater than 10 years, no relief under this part may be provided for that article after the date on which that period ends.
 
 (Pub. L. 109–53, title III, §314, Aug. 2, 2005, 119 Stat. 492.)
 

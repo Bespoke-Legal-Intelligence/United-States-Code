@@ -42,5 +42,5 @@ In subsection (b)(1) and (2), the words “a description of” are added for cla
 
 #### Amendments
 
-2005—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to investigations of safety hazards and security risks for provisions relating to investigation of safety hazards.
+<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to investigations of safety hazards and security risks for provisions relating to investigation of safety hazards.
 

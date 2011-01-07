@@ -12,37 +12,37 @@ Assistance provided under this section shall be used primarily to expand and str
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–513 struck out par. (1) designation and par. (2) which authorized use of appropriations to finance education and training for victims of apartheid, for scholarships for students pursuing secondary school education in South Africa, and to provide in-service teacher training programs in South Africa.
+<b>1990</b>—Subsec. (b). Pub. L. 101–513 struck out par. (1) designation and par. (2) which authorized use of appropriations to finance education and training for victims of apartheid, for scholarships for students pursuing secondary school education in South Africa, and to provide in-service teacher training programs in South Africa.
 
-1986—Subsec. (b). Pub. L. 99–440, §201(a), designated existing provisions as par. (1) and added par. (2).
+<b>1986</b>—Subsec. (b). Pub. L. 99–440, §201(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (b)(2)(C)(i). Pub. L. 99–631 substituted “in-service” for “inservice”.
 
-1985—Subsec. (a). Pub. L. 99–83, §306, substituted “for the purposes of this section, in addition to funds otherwise available for such purposes, $180,000,000 for fiscal year 1986 and $180,000,000 for fiscal year 1987” for “for purposes of this section, in addition to funds otherwise available for such purposes, $103,600,000 for the fiscal year 1982 and $103,600,000 for the fiscal year 1983”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–83, §306, substituted “for the purposes of this section, in addition to funds otherwise available for such purposes, $180,000,000 for fiscal year 1986 and $180,000,000 for fiscal year 1987” for “for purposes of this section, in addition to funds otherwise available for such purposes, $103,600,000 for the fiscal year 1982 and $103,600,000 for the fiscal year 1983”.
 
 Pub. L. 99–83, §1211(a)(1), struck out provisions relating to scholarships for South African students for fiscal years 1982 and 1983.
 
-1981—Subsec. (a). Pub. L. 97–113 substituted appropriations authorizations of $103,600,000 for fiscal years 1982 and 1983 for such authorization of $101,000,000 for fiscal year 1981 and inserted provision for financing of South African scholarships for education in the United States.
+<b>1981</b>—Subsec. (a). Pub. L. 97–113 substituted appropriations authorizations of $103,600,000 for fiscal years 1982 and 1983 for such authorization of $101,000,000 for fiscal year 1981 and inserted provision for financing of South African scholarships for education in the United States.
 
-1980—Subsec. (a). Pub. L. 96–533 substituted appropriations authorization of $101,000,000 for fiscal year 1981 for such authorization of $105,000,000 for fiscal year 1980.
+<b>1980</b>—Subsec. (a). Pub. L. 96–533 substituted appropriations authorization of $101,000,000 for fiscal year 1981 for such authorization of $105,000,000 for fiscal year 1980.
 
-1979—Subsec. (a). Pub. L. 96–53, §103(a), substituted provisions authorizing appropriations of $105,000,000 for fiscal year 1980, for provisions authorizing appropriations of $109,036,000 for fiscal year 1979.
+<b>1979</b>—Subsec. (a). Pub. L. 96–53, §103(a), substituted provisions authorizing appropriations of $105,000,000 for fiscal year 1980, for provisions authorizing appropriations of $109,036,000 for fiscal year 1979.
 
 Subsec. (b). Pub. L. 96–53, §103(b), inserted provisions relating to assistance for advanced education and training.
 
 Subsec. (c). Pub. L. 96–53, §122, struck out subsec. (c) which authorized availability of appropriations for fiscal years 1977, and 1978 for educational assistance for southern Africa.
 
-1978—Subsec. (a). Pub. L. 95–424 substituted “$109,036,000 for the fiscal year 1979, which amount is” for “$101,800,000 for the fiscal year 1977 and $84,900,000 for the fiscal year 1978, which amounts are”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–424 substituted “$109,036,000 for the fiscal year 1979, which amount is” for “$101,800,000 for the fiscal year 1977 and $84,900,000 for the fiscal year 1978, which amounts are”.
 
-1977—Subsec. (a). Pub. L. 95–88, §104(a), struck out provisions authorizing appropriations of $90,000,000 for fiscal year 1974, $92,000,000 for fiscal year 1975, and $89,200,000 for fiscal year 1976, and inserted provisions authorizing an appropriation of $84,900,000 for fiscal year 1978.
+<b>1977</b>—Subsec. (a). Pub. L. 95–88, §104(a), struck out provisions authorizing appropriations of $90,000,000 for fiscal year 1974, $92,000,000 for fiscal year 1975, and $89,200,000 for fiscal year 1976, and inserted provisions authorizing an appropriation of $84,900,000 for fiscal year 1978.
 
 Subsec. (c). Pub. L. 95–88, §104(b), inserted “for the fiscal year 1977, and not less than $1,647,000 shall be available for the fiscal year 1978,” after “shall be available”.
 
-1975—Subsec. (a). Pub. L. 94–161, §305(a)(1), (2), designated existing provisions as subsec. (a) and authorized appropriation of $89,200,000 and $101,800,000 for fiscal years 1976 and 1977, respectively.
+<b>1975</b>—Subsec. (a). Pub. L. 94–161, §305(a)(1), (2), designated existing provisions as subsec. (a) and authorized appropriation of $89,200,000 and $101,800,000 for fiscal years 1976 and 1977, respectively.
 
 Subsecs. (b), (c), Pub. L. 94–161, §305(a)(3), added subsecs. (b) and (c).
 
-1974—Pub. L. 93–559 increased appropriations authorization for fiscal year 1975 to $92,000,000 from $90,000,000.
+<b>1974</b>—Pub. L. 93–559 increased appropriations authorization for fiscal year 1975 to $92,000,000 from $90,000,000.
 
 #### Effective Date of 1986 Amendment
 

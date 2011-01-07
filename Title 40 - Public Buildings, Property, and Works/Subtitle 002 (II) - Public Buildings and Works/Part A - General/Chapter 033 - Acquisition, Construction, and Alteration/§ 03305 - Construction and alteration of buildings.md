@@ -6,11 +6,11 @@ Construction.—
 
 &emsp;(1)
 
-Replacement of existing buildings.—When the Administrator of General Services considers it to be in the best interest of the Federal Government to construct a new public building to take the place of an existing public building, the Administrator may demolish the existing building and use the site on which it is located for the site of the proposed public building. If the Administrator believes that it is more advantageous to construct the public building on a different site in the same city, the Administrator may exchange the building and site, or the site, for another site, or may sell the building and site in accordance with subtitle I of this title and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.).
+Replacement of existing buildings.—When the Administrator of General Services considers it to be in the best interest of the Federal Government to construct a new public building to take the place of an existing public building, the Administrator may demolish the existing building and use the site on which it is located for the site of the proposed public building. If the Administrator believes that it is more advantageous to construct the public building on a different site in the same city, the Administrator may exchange the building and site, or the site, for another site, or may sell the building and site in accordance with subtitle I of this title and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 &emsp;(2)
 
-Sale or exchange of sites.—When the Administrator decides that a site acquired for the construction of a public building is not suitable for that purpose, the Administrator may exchange the site for another site, or may sell it in accordance with subtitle I of this title and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.).
+Sale or exchange of sites.—When the Administrator decides that a site acquired for the construction of a public building is not suitable for that purpose, the Administrator may exchange the site for another site, or may sell it in accordance with subtitle I of this title and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 &emsp;(3)
 
@@ -44,7 +44,7 @@ Dollar amount adjustment.—The Administrator annually may adjust the dollar amo
 
 Construction or Alteration by Contract.—The Administrator may carry out any construction or alteration authorized by this chapter by contract if the Administrator considers it to be most advantageous to the Government.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1159.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1159; Pub. L. 111–350, §5(<i>l</i>)(16), Jan. 4, 2011, 124 Stat. 3852.)
 
 Historical and Revision Notes
 
@@ -86,7 +86,7 @@ In subsection (a)(1) and (2), the words “and title III of the Federal Property
 
 In subsection (b)(2)(B), the words “Transportation and Infrastructure” are substituted for “Public Works and Transportation” in section 7(f) of the Public Buildings Act of 1959 (Public Law 86–249, 73 Stat. 480) because of section 1(a)(9) of the Act of June 3, 1995 (Public Law 104–14, 2:21 note prec.).
 
-#### References in Text
+#### Amendments
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a)(1) and (2), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
+<b>2011</b>—Subsec. (a)(1), (2). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710,and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
 

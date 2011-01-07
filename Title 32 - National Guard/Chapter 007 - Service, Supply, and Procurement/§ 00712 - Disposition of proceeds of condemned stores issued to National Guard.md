@@ -28,7 +28,7 @@ The introductory clause is substituted for the words “shall be covered into th
 
 #### Amendments
 
-2006—Par. (1). Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, or the District of Columbia”.
+<b>2006</b>—Par. (1). Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, or the District of Columbia”.
 
-1988—Par. (1). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
+<b>1988</b>—Par. (1). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 

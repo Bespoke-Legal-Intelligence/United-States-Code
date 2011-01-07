@@ -10,13 +10,13 @@ The Office shall have a Board of Directors. The Board shall consist of 5 individ
 
 #### (c) Chair
 
-The Chair shall be appointed from members of the Board jointly by the Speaker of the House of Representatives, the Majority Leader of the Senate, and the Minority Leaders of the House of Representatives and the Senate.
+The Chair shall be appointed from members of the Board jointly by the Speaker of the House ofRepresentatives, the Majority Leader of the Senate, and the Minority Leaders of the House of Representatives and the Senate.
 
 #### (d) Board of Directors qualifications
 
 #### (1) Specific qualifications
 
-&emsp;Selection and appointment of members of the Board shall be without regard to politicalaffiliation and solely on the basis of fitness to perform the duties of the Office. Members of the Board shall have training or experience in the application of the rights, protections, and remedies under one or more of the laws made applicable under section 1302 of this title.
+&emsp;Selection and appointment of members of the Board shall be without regard to political affiliation and solely on the basis of fitness to perform the duties of the Office. Members of the Board shall have training or experience in the application of the rights, protections, and remedies under one or more of the laws made applicable under section 1302 of this title.
 
 #### (2) Disqualifications for appointments
 
@@ -98,7 +98,7 @@ The Office shall—
 
 &emsp;(2) in carrying out the program under paragraph (1), distribute the telephone number and address of the Office, procedures for action under subchapter IV of this chapter, and any other information appropriate for distribution, distribute such information to employing offices in a manner suitable for posting, provide such information to new employees of employing offices, distribute such information to the residences of covered employees, and conduct seminars and other activities designed to educate employing offices and covered employees; and
 
-&emsp;(3) compile and publish statistics on the use of the Office by covered employees, includingthe number and type of contacts made with the Office, on the reason for such contacts, on the number of covered employees who initiated proceedings with the Office under this chapter and the result of such proceedings, and on the number of covered employees who filed a complaint, the basis for the complaint, and the action taken on the complaint.
+&emsp;(3) compile and publish statistics on the use of the Office by covered employees, including the number and type of contacts made with the Office, on the reason for such contacts, on the number of covered employees who initiated proceedings with the Office under this chapter and the result of such proceedings, and on the number of covered employees who filed a complaint, the basis for the complaint, and the action taken on the complaint.
 
 #### (i) Congressional oversight
 

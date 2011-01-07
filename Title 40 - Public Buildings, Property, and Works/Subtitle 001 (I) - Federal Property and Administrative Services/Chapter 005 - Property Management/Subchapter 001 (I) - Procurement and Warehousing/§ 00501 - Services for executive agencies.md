@@ -8,7 +8,7 @@ Authority of Administrator of General Services.—
 
 In general.—The Administrator of General Services shall take action under this subchapter for an executive agency—
 
-&emsp;&emsp;(A) to the extent that the Administrator of General Services determines that the action is advantageous to the Federal Governmentin terms of economy, efficiency, or service; and
+&emsp;&emsp;(A) to the extent that the Administrator of General Services determines that the action is advantageous to the Federal Government in terms of economy, efficiency, or service; and
 
 &emsp;&emsp;(B) with due regard to the program activities of the agency.
 
@@ -42,7 +42,7 @@ In general.—The Administrator of General Services shall prescribe policies and
 
 &emsp;&emsp;(B)
 
-Controlling regulation.—Policies and methods prescribed by the Administrator of General Services under this paragraph are subject to regulations prescribed by the Administrator for Federal Procurement Policy under the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.).
+Controlling regulation.—Policies and methods prescribed by the Administrator of General Services under this paragraph are subject to regulations prescribed by the Administrator for Federal Procurement Policy under division B (except sections 1704 and 2303) of subtitle I of title 41.
 
 (c)
 
@@ -56,7 +56,7 @@ Representation.—For transportation and other public utility services used by e
 
 Facilities.—The Administrator of General Services shall operate, for executive agencies, warehouses, supply centers, repair shops, fuel yards, and other similar facilities. After consultation with the executive agencies affected, the Administrator of General Services shall consolidate, take over, or arrange for executive agencies to operate the facilities.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1079.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1079; Pub. L. 111–350, §5(<i>l</i>)(6), Jan. 4, 2011, 124 Stat. 3851.)
 
 Historical and Revision Notes
 
@@ -90,7 +90,7 @@ In subsection (a)(2), the words “from time to time” are omitted as unnecessa
 
 In subsection (b)(2)(B), the words “subject to regulations” are substituted for “subject to regulations and regulations” in section 201(a)(1) of the Federal Property and Administrative Services Act of 1949 to correct an error resulting from an inconsistency between section 8(d)(1) and section 9(a)(2) of the Office of Federal Procurement Policy Act Amendments of 1983 (Public Law 98–191, 97 Stat. 1331).
 
-#### References in Text
+#### Amendments
 
-The Office of Federal Procurement Policy Act, referred to in subsec. (b)(2)(B), is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, as amended, which is classified principally to chapter 7 (§401 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 41 and Tables.
+<b>2011</b>—Subsec. (b)(2)(B). Pub. L. 111–350 substituted “division B (except sections 1704 and 2303) of subtitle I of title 41” for “the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)”.
 

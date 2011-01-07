@@ -6,7 +6,7 @@
 
 (2) If the article or poultry is condemned it shall, after entry of the decree, (A) be distributed in accordance with paragraph (5), or (B) be disposed of by destruction or sale as the court may direct and the proceeds, if sold, less the court costs and fees, and storage and other proper expenses, shall be paid into the Treasury of the United States, but the article or poultry shall not be sold contrary to the provisions of this chapter, or the laws of the jurisdiction in which it is sold: <i>Provided</i>, That upon the execution and delivery of a good and sufficient bond conditioned that the article or poultry shall not be sold or otherwise disposed of contrary to the provisions of this chapter, or the laws of the jurisdiction in which disposal is made, the court may direct that such article or poultry be delivered to the owner thereof subject to such supervision by authorized representatives of the Secretary as is necessary to insure compliance with the applicable laws.
 
-(3) When a decree of condemnation is entered against the article or poultry and it is released under bond, or destroyed, court costs and fees, and storage and other proper expenses shall be awarded against the person, if any, intervening as claimant of the article or poultry.
+(3) When a decree of condemnation is entered against the article or poultry and it is released under bond, or destroyed, court costs and fees, and storage and other proper expenses shall beawarded against the person, if any, intervening as claimant of the article or poultry.
 
 (4) The proceedings in such libel cases shall conform, as nearly as may be, to the proceedings in admiralty, except that either party may demand trial by jury of any issue of fact joined in any case, and all such proceedings shall be at the suit of and in the name of the United States.
 
@@ -38,5 +38,5 @@ The provisions of this section shall in no way derogate from authority for conde
 
 #### Amendments
 
-1989—Subsec. (a). Pub. L. 101–205 designated first sentence as par. (1) and redesignated cls. (1) to (3) as cls. (A) to (C), respectively, designated second sentence as par. (2) and inserted “(A) be distributed in accordance with paragraph (5), or (B)” after “entry of the decree,”, designated third and fourth sentences as pars. (3) and (4), respectively, and added par. (5).
+<b>1989</b>—Subsec. (a). Pub. L. 101–205 designated first sentence as par. (1) and redesignated cls. (1) to (3) as cls. (A) to (C), respectively, designated second sentence as par. (2) and inserted “(A) be distributed in accordance with paragraph (5), or (B)” after “entry of the decree,”, designated third and fourth sentences as pars. (3) and (4), respectively, and added par. (5).
 

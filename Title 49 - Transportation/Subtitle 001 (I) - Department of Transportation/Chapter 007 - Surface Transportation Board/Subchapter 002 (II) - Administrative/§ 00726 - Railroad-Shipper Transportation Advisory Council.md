@@ -38,7 +38,7 @@ Election and Duties of Officers.—The Council Chairman and Vice Chairman and ot
 
 (d)
 
-Expenses.—(1) The members of the Council shall receive no compensation for their servicesas such, but upon request by the Council Chairman, based on a showing of significant economic burden, the Secretary of Transportation or the Chairman of the Board, to the extent provided in advance in appropriation Acts, may provide reasonable and necessary travel expenses for such individual Council members from Department or Board funding sources in order to foster balanced representation on the Council.
+Expenses.—(1) The members of the Council shall receive no compensation for their services as such, but upon request by the Council Chairman, based on a showing of significant economic burden, the Secretary of Transportation or the Chairman of the Board, to the extent provided in advance in appropriation Acts, may provide reasonable and necessary travel expenses for such individual Council members from Department or Board funding sources in order to foster balanced representation on the Council.
 
 (2) Upon request by the Council Chairman, the Secretary or Chairman of the Board, to the extent provided in advance in appropriations Acts, may pay the reasonable and necessary expenses incurred by the Council in connection with the coordination of Council activities, announcement and reporting of meetings, and preparation of such Council documents as are required or permitted by this section.
 
@@ -66,7 +66,7 @@ Functions and Duties; Annual Report.—(1) The Council shall advise the Secretar
 
 (3) The Council shall endeavor to develop within the private sector mechanisms to prevent, or identify and effectively address, obstacles to the most effective and efficient transportation system practicable.
 
-(4) The Council shall prepare an annual report concerning its activities and the results of Council efforts to resolve industry issues, and propose whatever regulatory or legislative relief it considers appropriate. The Council shall include in the annual report such recommendations as it considers appropriate with respect to the performance of the Secretary and Chairman under this chapter, and with respect to the operation and effectiveness of meetings and industry developments relating to the Council's efforts, and such other information as it considers appropriate. Such annual reports shall be reviewed by the Secretary and Chairman, and shall include the Secretary's and Chairman's views or comments relating to—
+(4) The Council shall prepare an annual report concerning its activities and the results of Council efforts to resolve industry issues, andpropose whatever regulatory or legislative relief it considers appropriate. The Council shall include in the annual report such recommendations as it considers appropriate with respect to the performance of the Secretary and Chairman under this chapter, and with respect to the operation and effectiveness of meetings and industry developments relating to the Council's efforts, and such other information as it considers appropriate. Such annual reports shall be reviewed by the Secretary and Chairman, and shall include the Secretary's and Chairman's views or comments relating to—
 
 &emsp;(A) the accuracy of information therein;
 
@@ -84,5 +84,5 @@ The Federal Advisory Committee Act, referred to in subsec. (a)(4), is Pub. L. 92
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–287 substituted “December 29, 1995” for “the date of enactment of the ICC Termination Act of 1995” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–287 substituted “December 29, 1995” for “the date of enactment of the ICC Termination Act of 1995” in introductory provisions.
 

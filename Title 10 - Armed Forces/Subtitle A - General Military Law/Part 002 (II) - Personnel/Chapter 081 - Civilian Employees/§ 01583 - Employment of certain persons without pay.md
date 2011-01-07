@@ -24,7 +24,7 @@ Jan. 6, 1951, ch. 1213, subch. VII, §704, 64 Stat. 1235.
 
 #### Amendments
 
-1982—Pub. L. 97–295 substituted “pay” for “compensation” in section catchline and text.
+<b>1982</b>—Pub. L. 97–295 substituted “pay” for “compensation” in section catchline and text.
 
-1966—Pub. L. 89–718 struck out designation “(a)” at beginning of section and repealed subsec. (b) which authorized the Secretary, by regulation, to exempt persons employed under provisions formerly designated subsec. (a) from former sections 281, 283, 284, 434, and 1914 of title 18 and former section 99 of title 5.
+<b>1966</b>—Pub. L. 89–718 struck out designation “(a)” at beginning of section and repealed subsec. (b) which authorized the Secretary, by regulation, to exempt persons employed under provisions formerly designated subsec. (a) from former sections 281, 283, 284, 434, and 1914 of title 18 and former section 99 of title 5.
 

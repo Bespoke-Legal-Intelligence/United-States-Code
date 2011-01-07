@@ -14,7 +14,7 @@ As used in this subchapter—
 
 #### Amendments
 
-2002—Pars. (1) to (3). Pub. L. 107–110 substituted “7801” for “8801”.
+<b>2002</b>—Pars. (1) to (3). Pub. L. 107–110 substituted “7801” for “8801”.
 
 #### Effective Date of 2002 Amendment
 

@@ -34,7 +34,7 @@ Method of Contribution.—Contributions may be accepted in any of the following 
 
 #### Amendments
 
-2002—Subsec. (d). Pub. L. 107–314 struck out heading and text of subsec. (d). Text read as follows: “Not later than 30 days after the end of each fiscal year, the Secretary shall submit to Congress a report specifying—
+<b>2002</b>—Subsec. (d). Pub. L. 107–314 struck out heading and text of subsec. (d). Text read as follows: “Not later than 30 days after the end of each fiscal year, the Secretary shall submit to Congress a report specifying—
 
 &emsp;“(1) the amount of the contributions accepted by the Secretary during the preceding fiscal year under subsection (a) and the purposes for which the contributions were made; and
 

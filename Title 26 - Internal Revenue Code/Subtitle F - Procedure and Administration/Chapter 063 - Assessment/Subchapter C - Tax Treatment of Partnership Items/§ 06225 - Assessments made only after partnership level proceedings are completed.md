@@ -20,7 +20,7 @@ If no proceeding under section 6226 is begun with respect to any final partnersh
 
 #### Amendments
 
-1997—Pub. L. 105–34 substituted “the proper court, including the Tax Court. The Tax Court shall have no jurisdiction to enjoin any action or proceeding under this subsection unless a timely petition for a readjustment of the partnership items for the taxable year has been filed and then only in respect of the adjustments that are the subject of such petition.” for “the proper court.”
+<b>1997</b>—Pub. L. 105–34 substituted “the proper court, including the Tax Court. The Tax Court shall have no jurisdiction to enjoin any action or proceeding under this subsection unless a timely petition for a readjustment of the partnership items for the taxable year has been filed and then only in respect of the adjustments that are the subject of such petition.” for “the proper court.”
 
 #### Effective Date of 1997 Amendment
 

@@ -18,7 +18,7 @@
 
 (1) No grant may be made under this section unless an application has been submitted to and approved by the Secretary, after consultation with the Task Force. The Secretary may not approve an application unless the application—
 
-&emsp;(A) contains a description of the methods to be used by the local educational agency, or inthe case of an application by the State educational agency the methods to be used by the local educational agencies receiving grants from the State, to determine whether hazardous concentrations of asbestos fibers or materials emitting such fibers exist in school buildings under the jurisdiction of such agency;
+&emsp;(A) contains a description of the methods to be used by the local educational agency, or in the case of an application by the State educational agency the methods to be used by the local educational agencies receiving grants from the State, to determine whether hazardous concentrations of asbestos fibers or materials emitting such fibers exist in school buildings under the jurisdiction of such agency;
 
 &emsp;(B) contains an estimate of the total cost of the detection program, including such detailed descriptions of the costs of each component of the program as the Secretary may require;
 

@@ -14,19 +14,21 @@
 
 &emsp;(1) during the period beginning on October 1, 1992, and ending on September 30, 2005; or
 
-&emsp;(2) after December 31, 2010.
+&emsp;(2) after December 31, 2011.
 
-(Added Pub. L. 98–94, title X, §1011(a), Sept. 24, 1983, 97 Stat. 663; amended Pub. L. 99–145, title VI, §646(a)(1), title XIII, §1303(b)(3), Nov. 8, 1985, 99 Stat. 654, 740; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, §618(d), Oct. 28, 2004, 118 Stat. 1950; Pub. L. 109–163, div. A, title VI, §§621(c), 687(b)(17), Jan. 6, 2006, 119 Stat. 3294, 3330; Pub. L. 109–364, div. A, title VI, §611(d), title X, §1071(c)(3), Oct. 17, 2006, 120 Stat. 2247, 2400; Pub. L. 110–181, div. A, title VI, §611(d), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §611(d), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §611(4), Oct. 28, 2009, 123 Stat. 2352.)
+(Added Pub. L. 98–94, title X, §1011(a), Sept. 24, 1983, 97 Stat. 663; amended Pub. L. 99–145, title VI, §646(a)(1), title XIII, §1303(b)(3), Nov. 8, 1985, 99 Stat. 654, 740; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, §618(d), Oct. 28, 2004, 118 Stat. 1950; Pub. L. 109–163, div. A, title VI, §§621(c), 687(b)(17), Jan. 6, 2006, 119 Stat. 3294, 3330; Pub. L. 109–364, div. A, title VI, §611(d), title X, §1071(c)(3), Oct. 17, 2006, 120 Stat. 2247, 2400; Pub. L. 110–181, div. A, title VI, §611(d), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §611(d), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §611(4), Oct. 28, 2009, 123 Stat. 2352; Pub. L. 111–383, div. A, title VI, §611(4), Jan. 7, 2011, 124 Stat. 4236.)
 
 #### Amendments
 
-2009—Subsec. (f)(2). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+<b>2011</b>—Subsec. (f)(2). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
-2008—Subsec. (f)(2). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+<b>2009</b>—Subsec. (f)(2). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+
+<b>2008</b>—Subsec. (f)(2). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
 
 Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
 
-2006—Subsec. (d). Pub. L. 109–163, §687(b)(17)(A), added subsec. (d) and struck out former subsec. (d) which read as follows: “A person who receives a bonus payment under this section and who fails during the period for which the bonus was paid to serve satisfactorily in the element of the Ready Reserve with respect to which the bonus was paid shall refund to the United States an amount which bears the same ratio to the amount of the bonus paid to such person as the period which such person failed to serve satisfactorily bears to the total period for which the bonus was paid.”
+<b>2006</b>—Subsec. (d). Pub. L. 109–163, §687(b)(17)(A), added subsec. (d) and struck out former subsec. (d) which read as follows: “A person who receives a bonus payment under this section and who fails during the period for which the bonus was paid to serve satisfactorily in the element of the Ready Reserve with respect to which thebonus was paid shall refund to the United States an amount which bears the same ratio to the amount of the bonus paid to such person as the period which such person failed to serve satisfactorily bears to the total period for which the bonus was paid.”
 
 Subsec. (e). Pub. L. 109–163, §687(b)(17)(B), (C), redesignated subsec. (g) as (e) and struck out former subsec. (e) which read as follows: “An obligation to reimburse the United States imposed under subsection (d) is, for all purposes, a debt owed to the United States.”
 
@@ -42,17 +44,17 @@ Subsec. (h). Pub. L. 109–163, §687(b)(17)(C), redesignated subsec. (h) as (f)
 
 Pub. L. 109–163, §621(c), substituted “an enlistment—” for “an enlistment after September 30, 1992” and added pars. (1) and (2).
 
-2004—Subsec. (b). Pub. L. 108–375 substituted “$3,000” for “$1,000” and inserted last sentence.
+<b>2004</b>—Subsec. (b). Pub. L. 108–375 substituted “$3,000” for “$1,000” and inserted last sentence.
 
-2002—Subsec. (g). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (g). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1991—Pub. L. 102–25 struck out “of this section” wherever appearing in subsecs. (a), (b), (e), and (f).
+<b>1991</b>—Pub. L. 102–25 struck out “of this section” wherever appearing in subsecs. (a), (b), (e), and (f).
 
-1989—Subsec. (h). Pub. L. 101–189 substituted “September 30, 1992” for “September 30, 1990”.
+<b>1989</b>—Subsec. (h). Pub. L. 101–189 substituted “September 30, 1992” for “September 30, 1990”.
 
-1987—Subsec. (h). Pub. L. 100–180 substituted “September 30, 1990” for “September 30, 1987”.
+<b>1987</b>—Subsec. (h). Pub. L. 100–180 substituted “September 30, 1990” for “September 30, 1987”.
 
-1985—Subsec. (f). Pub. L. 99–145, §1303(b)(3), substituted “September 24, 1983” for “the date of the enactment of the Department of Defense Authorization Act, 1984”.
+<b>1985</b>—Subsec. (f). Pub. L. 99–145, §1303(b)(3), substituted “September 24, 1983” for “the date of the enactment of the Department of Defense Authorization Act, 1984”.
 
 Subsec. (h). Pub. L. 99–145, §646(a)(1), substituted “September 30, 1987” for “September 30, 1985”.
 

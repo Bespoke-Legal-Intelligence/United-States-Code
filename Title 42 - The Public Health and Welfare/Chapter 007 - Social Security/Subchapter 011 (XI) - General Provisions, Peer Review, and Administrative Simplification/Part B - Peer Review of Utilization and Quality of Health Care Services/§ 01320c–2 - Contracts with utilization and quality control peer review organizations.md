@@ -14,7 +14,7 @@
 
 #### (b) Organizations entitled to contract with Secretary
 
-(1) The Secretary shall enter into a contract with a utilization and quality control peer review organization for each area established under subsection (a) of this section if a qualified organization is available in such area and such organization and the Secretary have negotiated a proposed contract which the Secretary determines will be carried out by such organization in a manner consistent with the efficient and effective administration of this part. If more than one such qualified organization meets the requirements of the preceding sentence, priority shall be given to any such organization which is described in section 1320c–1(1)(A) of this title.
+(1) The Secretary shall enter into a contract with a utilization and quality control peer review organization for each area established under subsection (a) of this section if a qualified organization is available in such area and such organization and the Secretary have negotiated a proposed contract which the Secretary determines will be carried out by such organizationin a manner consistent with the efficient and effective administration of this part. If more than one such qualified organization meets the requirements of the preceding sentence, priority shall be given to any such organization which is described in section 1320c–1(1)(A) of this title.
 
 (2)(A) Prior to November 15, 1984, the Secretary shall not enter into a contract under this part with any entity which is, or is affiliated with (through management, ownership, or common control), an entity (other than a self-insured employer) which directly or indirectly makes payments to any practitioner or provider whose health care services are reviewed by such entity or would be reviewed by such entity if it entered into a contract with the Secretary under this part. For purposes of this paragraph, an entity shall not be considered to be affiliated with another entity which makes payments (directly or indirectly) to any practitioner or provider, by reason of management, ownership, or common control, if the management, ownership, or common control consists only of members of the governing board being affiliated (through management, ownership, or common control) with a health maintenance organization or competitive medical plan which is an “eligible organization” as defined in section 1395mm(b) of this title.
 
@@ -78,7 +78,7 @@ The Secretary shall provide that fiscal intermediaries furnish to peer review or
 
 (1) The Secretary shall publish in the Federal Register any new policy or procedure adopted by the Secretary that affects substantially the performance of contract obligations under this section not less than 30 days before the date on which such policy or procedure is to take effect. This paragraph shall not apply to the extent it is inconsistent with a statutory deadline.
 
-(2) The Secretary shall publish in the Federal Register the general criteria and standards usedfor evaluating the efficient and effective performance of contract obligations under this section and shall provide opportunity for public comment with respect to such criteria and standards.
+(2) The Secretary shall publish in the Federal Register the general criteria and standards used for evaluating the efficient and effective performance of contract obligations under this section and shall provide opportunity for public comment with respect to such criteria and standards.
 
 (3) The Secretary shall regularly furnish each peer review organization with a contract under this section with a report that documents the performance of the organization in relation to the performance of other such organizations.
 
@@ -100,11 +100,11 @@ The Secretary shall provide that fiscal intermediaries furnish to peer review or
 
 #### Prior Provisions
 
-A prior section 1320c–2, act Aug. 14, 1935, ch. 531, title XI, §1153, as added Oct. 30, 1972, Pub. L. 92–603, title II, §249F(b), 86 Stat. 1432, related to review pending designation of a Professional Standards Review Organization in a given area, prior to the general revision of this part by Pub. L. 97–248.
+A prior section 1320c–2, act Aug. 14, 1935, ch. 531, title XI, §1153, as added Oct. 30, 1972, Pub. L. 92–603, title II,§249F(b), 86 Stat. 1432, related to review pending designation of a Professional Standards Review Organization in a given area, prior to the general revision of this part by Pub. L. 97–248.
 
 #### Amendments
 
-1987—Subsec. (c). Pub. L. 100–203, §4094(d)(1), inserted after and below par. (8) the following: “In evaluating the performance of utilization and quality control peer review organizations under contracts under this part, the Secretary shall place emphasis on the performance of such organizations in educating providers and practitioners (particularly those in rural areas) concerning the review process and criteria being applied by the organization.”
+<b>1987</b>—Subsec. (c). Pub. L. 100–203, §4094(d)(1), inserted after and below par. (8) the following: “In evaluating the performance of utilization and quality control peer review organizations under contracts under this part, the Secretary shall place emphasis on the performance of such organizations in educating providers and practitioners (particularly those in rural areas) concerning the review process and criteria being applied by the organization.”
 
 Subsec. (c)(3). Pub. L. 100–203, §4091(a)(2)(A), substituted “three” for “two” and “triennial” for “biennial”.
 
@@ -114,7 +114,7 @@ Subsec. (h). Pub. L. 100–203, §4091(b)(1), added subsec. (h).
 
 Subsec. (i). Pub. L. 100–203, §4092(a), added subsec. (i).
 
-1986—Subsec. (b)(2)(A). Pub. L. 99–272, §9404(a), substituted “consists only of members of the governing board” for “consists only of one individual member of the governing board”.
+<b>1986</b>—Subsec. (b)(2)(A). Pub. L. 99–272, §9404(a), substituted “consists only of members of the governing board” for “consists only of one individual member of the governing board”.
 
 Subsec. (c)(8). Pub. L. 99–272, §9402(b), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “reimbursement shall be made to the organization in accordance with the terms of the contract.”
 
@@ -122,7 +122,7 @@ Subsec. (d)(4). Pub. L. 99–272, §9406(a), added par. (4).
 
 Subsec. (g). Pub. L. 99–509 added subsec. (g).
 
-1984—Subsec. (b)(2)(A). Pub. L. 98–369, §2347(c)(1), substituted “Prior to November 15, 1984” for “During the first twelve months in which the Secretary is entering into contracts under this section”.
+<b>1984</b>—Subsec. (b)(2)(A). Pub. L. 98–369, §2347(c)(1), substituted “Prior to November 15, 1984” for “During the first twelve months in which the Secretary is entering into contracts under this section”.
 
 Pub. L. 98–369, §2334(b), inserted “(other than a self-insured employer)” and provision that for purposes of this paragraph an entity shall not be considered to be affiliated with another entity which makes payments (directly or indirectly) to any practitioner or provider, by reason of management, ownership, or common control, if the management, ownership, or common control consists only of one individual member of the governing board being affiliated (through management, ownership, or common control) with a health maintenance organization or competitive medical plan which is an “eligible organization” as defined in section 1395mm(b) of this title.
 
@@ -132,7 +132,7 @@ Subsec. (b)(2)(C). Pub. L. 98–369, §2347(c)(3), struck out subpar. (C) which 
 
 Subsec. (b)(3). Pub. L. 98–369, §2334(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
-1983—Subsec. (b)(2)(C). Pub. L. 98–21 added subpar. (C).
+<b>1983</b>—Subsec. (b)(2)(C). Pub. L. 98–21 added subpar. (C).
 
 Subsec. (d). Pub. L. 97–448 substituted reference to “subsection (c)(6)(B)” for “subsection (c)(5)(B)” and “subsection (c)(5)(C)” in pars. (1) and (2), respectively.
 
@@ -148,7 +148,7 @@ Section 4094(d)(2) of Pub. L. 100–203 provided that: “The amendment made by 
 
 #### Effective Date of 1986 Amendments
 
-Section 9352(c)(1) of Pub. L. 99–509 provided that: “The Secretary of Health and Human Services shall implement the amendment made by subsection (a) \[amending this section and section 1395h of this title\]not later than 6 months after the date of the enactment of this Act \[Oct. 21, 1986\].”
+Section 9352(c)(1) of Pub. L. 99–509 provided that: “The Secretary of Health and Human Services shall implement the amendment made by subsection (a) \[amending this section and section 1395h of this title\] not later than 6 months after the date of the enactment of this Act \[Oct. 21, 1986\].”
 
 Section 9402(c)(2) of Pub. L. 99–272 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to contracts entered into or renewed on or after the date of the enactment of this Act \[Apr. 7, 1986\].”
 
@@ -178,7 +178,7 @@ Section 4091(a)(1) of Pub. L. 100–203, as amended by Pub. L. 100–360, title 
 
 “(A)
 
-In general.—In order to permit the Secretary of Health and Human Services an adequate time to complete contract renewal negotiations with utilization and quality control peer review organizations under part B of title XI of the Social Security Act \[this part\] and to provide for a staggered period of contract expiration dates, notwithstanding section 1153(c) of such Act \[subsec. (c) of this section\], the Secretary may provide for extensions of existing contracts, but the total of such extensions may not exceed 24 months for any contract.
+In general.—In order to permit the Secretary of Health and Human Services an adequate time to complete contract renewal negotiations with utilization and quality control peer review organizations underpart B of title XI of the Social Security Act \[this part\] and to provide for a staggered period of contract expiration dates, notwithstanding section 1153(c) of such Act \[subsec. (c) of this section\], the Secretary may provide for extensions of existing contracts, but the total of such extensions may not exceed 24 months for any contract.
 
 “(B)
 

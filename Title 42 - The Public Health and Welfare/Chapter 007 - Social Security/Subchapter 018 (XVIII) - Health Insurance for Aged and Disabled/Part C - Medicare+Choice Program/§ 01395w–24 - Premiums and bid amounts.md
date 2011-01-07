@@ -94,6 +94,16 @@
 
 &emsp;&emsp;The Secretary shall not review, approve, or disapprove the amounts submitted under paragraph (3) or, in the case of an MA private fee-for-service plan, subparagraphs (A)(ii) and (B) of paragraph (4).
 
+#### (C) Rejection of bids
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Nothing in this section shall be construed as requiring the Secretary to accept any or every bid submitted by an MA organization under this subsection.
+
+#### (ii) Authority to deny bids that propose significant increases in cost sharing or decreases in benefits
+
+&emsp;&emsp;&emsp;The Secretary may deny a bid submitted by an MA organization for an MA plan if it proposes significant increases in cost sharing or decreases in benefits offered under the plan.
+
 #### (6) Submission of bid amounts by MA organizations beginning in 2006
 
 #### (A) Information to be submitted
@@ -152,11 +162,11 @@
 
 #### (i) Requirement
 
-&emsp;&emsp;&emsp;The MA plan shall provide to the enrollee a monthly rebate equal to 75 percent of the average per capita savings (if any) described in paragraph (3)(C) or (4)(C), as applicable to the plan and year involved.
+&emsp;&emsp;&emsp;The MA plan shall provide to the enrollee a monthly rebate equal to 75 percent (or the applicable rebate percentage specified in clause (iii) in the case of plan years beginning on or after January 1, 2012) of the average per capita savings (if any) described in paragraph (3)(C) or (4)(C), as applicable to the plan and year involved.
 
-#### (ii) Form of rebate
+#### (ii) Form of rebate for plan years before 2012
 
-&emsp;&emsp;&emsp;A rebate required under this subparagraph shall be provided through the application of the amount of the rebate toward one or more of the following:
+&emsp;&emsp;&emsp;For plan years before 2012, a rebate required under this subparagraph shall be provided through the application of the amount of the rebate toward one or more of the following:
 
 #### (I) Provision of supplemental health care benefits and payment for premium for supplemental benefits
 
@@ -170,11 +180,47 @@
 
 &emsp;&emsp;&emsp;&emsp;Crediting toward the premium imposed under part B of this subchapter (determined without regard to the application of subsections (b), (h), and (i) of section 1395r of this title).
 
-#### (iii) Disclosure relating to rebates
+#### (iii) Applicable rebate percentage
+
+&emsp;&emsp;&emsp;The applicable rebate percentage specified in this clause for a plan for a year, based on the system under section 1395w–23(<i>o</i>)(4)(A), is the sum of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the product of the old phase-in proportion for the year under clause (iv) and 75 percent; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the product of the new phase-in proportion for the year under clause (iv) and the final applicable rebate percentage under clause (v).
+
+#### (iv) Old and new phase-in proportions
+
+&emsp;&emsp;&emsp;For purposes of clause (iv)—
+
+&emsp;&emsp;&emsp;&emsp;(I) for 2012, the old phase-in proportion is 2/3 and the new phase-in proportion is 1/3;
+
+&emsp;&emsp;&emsp;&emsp;(II) for 2013, the old phase-in proportion is 1/3 and the new phase-in proportion is 2/3; and
+
+&emsp;&emsp;&emsp;&emsp;(III) for 2014 and any subsequent year, the old phase-in proportion is 0 and the new phase-in proportion is 1.
+
+#### (v) Final applicable rebate percentage
+
+&emsp;&emsp;&emsp;Subject to clause (vi), the final applicable rebate percentage under this clause is—
+
+&emsp;&emsp;&emsp;&emsp;(I) in the case of a plan with a quality rating under such system of at least 4.5 stars, 70 percent;
+
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a plan with a quality rating under such system of at least 3.5 stars and less than 4.5 stars, 65 percent; and
+
+&emsp;&emsp;&emsp;&emsp;(III) in the case of a plan with a quality rating under such system of less than 3.5 stars, 50 percent.
+
+#### (vi) Treatment of low enrollment and new plans
+
+&emsp;&emsp;&emsp;For purposes of clause (v)—
+
+&emsp;&emsp;&emsp;&emsp;(I) for 2012, in the case of a plan described in subclause (I) of subsection (<i>o</i>)(3)(A)(ii),<sup>1</sup> the plan shall be treated as having a rating of 4.5 stars; and
+
+&emsp;&emsp;&emsp;&emsp;(II) for 2012 or a subsequent year, in the case of a new MA plan (as defined under subclause (III) of subsection (<i>o</i>)(3)(A)(iii) <sup>2</sup>) that is treated as a qualifying plan pursuant to subclause (I) of such subsection, the plan shall be treated as having a rating of 3.5 stars.
+
+#### (vii) Disclosure relating to rebates
 
 &emsp;&emsp;&emsp;The plan shall disclose to the Secretary information on the form and amount of the rebate provided under this subparagraph or the actuarial value in the case of supplemental health care benefits.
 
-#### (iv) Application of part B premium reduction
+#### (viii) Application of part B premium reduction
 
 &emsp;&emsp;&emsp;Insofar as an MA organization elects to provide a rebate under this subparagraph under a plan as a credit toward the part B premium under clause (ii)(III), the Secretary shall apply such credit to reduce the premium under section 1395r of this title of each enrollee in such plan as provided in section 1395s(i) of this title.
 
@@ -196,7 +242,13 @@
 
 #### (C) MA monthly supplemental beneficiary premium
 
-&emsp;&emsp;The term “MA monthly supplemental beneficiary premium” means, with respect to an MA plan, the portion of the aggregate monthly bid amount submitted under clause (i) of subsection (a)(6)(A) of this section for the year that is attributable under clause (ii)(III) of such subsection to the provision of supplemental health care benefits, less the amount of rebate credited toward such portion under subsection (b)(1)(C)(ii)(I) of this section.
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term “MA monthly supplemental beneficiary premium” means, with respect to an MA plan, the portion of the aggregate monthly bid amount submitted under clause (i) of subsection (a)(6)(A) of this section for the year that is attributable under clause (ii)(III) of such subsection to the provision of supplemental health care benefits, less the amount of rebate credited toward such portion under subsection (b)(1)(C)(ii)(I) of this section.
+
+#### (ii) Application of MA monthly supplementary beneficiary premium
+
+&emsp;&emsp;&emsp;For plan years beginning on or after January 1, 2012, any MA monthly supplementary beneficiary premium charged to an individual enrolled in an MA plan shall be used for the purposes, and in the priority order, described in subclauses (I) through (III) of paragraph (1)(C)(iii).<sup>3</sup>
 
 #### (D) Medicare+Choice monthly MSA premium
 
@@ -214,7 +266,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (iii), the Secretary shall determine, at the same time rates are promulgated under section 1395w–23(b)(1) of this title (beginning with 2006) for each State, the average of the risk adjustment factors to be applied under section 1395w–23(a)(1)(C) of this title to payment for enrollees in that State for MA local plans.
+&emsp;&emsp;&emsp;Subject to clause (iii), the Secretary shall determine, at the same time ratesare promulgated under section 1395w–23(b)(1) of this title (beginning with 2006) for each State, the average of the risk adjustment factors to be applied under section 1395w–23(a)(1)(C) of this title to payment for enrollees in that State for MA local plans.
 
 #### (ii) Treatment of States for first year in which local plan offered
 
@@ -286,7 +338,7 @@ Except as permitted under section 1395w–27(i) of this title, the MA monthly bi
 
 #### (2) Beneficiary's option of payment through withholding from social security payment or use of electronic funds transfer mechanism
 
-&emsp;In accordance with regulations, an MA organization shall permit each enrollee, at the enrollee's option, to make payment of premiums (if any) under this part to the organization through—
+&emsp;In accordance with regulations, an MA organization shall permit each enrollee, at the enrollee's option, to make payment of premiums\(if any) under this part to the organization through—
 
 &emsp;&emsp;(A) withholding from benefit payments in the manner provided under section 1395s of this title with respect to monthly premiums under section 1395r of this title;
 
@@ -294,7 +346,7 @@ Except as permitted under section 1395w–27(i) of this title, the MA monthly bi
 
 &emsp;&emsp;(C) such other means as the Secretary may specify, including payment by an employer or under employment-based retiree health coverage (as defined in section 1395w–132(c)(1) of this title) on behalf of an employee or former employee (or dependent).
 
-> &emsp;All premium payments that are withheld under subparagraph (A) shall be credited to the appropriate Trust Fund (or Account thereof), as specified by the Secretary, under thissubchapter and shall be paid to the MA organization involved. No charge may be imposed under an MA plan with respect to the election of the payment option described in subparagraph (A). The Secretary shall consult with the Commissioner of Social Security and the Secretary of the Treasury regarding methods for allocating premiums withheld under subparagraph (A) among the appropriate Trust Funds and Account.
+> &emsp;All premium payments that are withheld under subparagraph (A) shall be credited to the appropriate Trust Fund (or Account thereof), as specified by the Secretary, under this subchapter and shall be paid to the MA organization involved. No charge may be imposed under an MA plan with respect to the election of the payment option described in subparagraph (A). The Secretary shall consult with the Commissioner of Social Security and the Secretary of the Treasury regarding methods for allocating premiums withheld under subparagraph (A) among the appropriate Trust Funds and Account.
 
 #### (3) Information necessary for collection
 
@@ -346,7 +398,7 @@ Except as permitted under section 1395w–27(i) of this title, the MA monthly bi
 
 #### (A) In general
 
-&emsp;&emsp;For years before 2006, each Medicare+Choice organization (in relation to a Medicare+Choice plan, other than an MSA plan, it offers) shall provide that if there is an excess amount (as defined in subparagraph (B)) for the plan for a contract year, subject to the succeeding provisions of this subsection, the organization shall provide to individuals such additional benefits (as the organization may specify) in a value which the Secretary determines is at least equal to the adjusted excess amount (as defined in subparagraph (C)).
+&emsp;&emsp;For years before 2006, each Medicare+Choice organization (in relation to a Medicare+Choice plan, other than an MSAplan, it offers) shall provide that if there is an excess amount (as defined in subparagraph (B)) for the plan for a contract year, subject to the succeeding provisions of this subsection, the organization shall provide to individuals such additional benefits (as the organization may specify) in a value which the Secretary determines is at least equal to the adjusted excess amount (as defined in subparagraph (C)).
 
 #### (B) Excess amount
 
@@ -354,7 +406,7 @@ Except as permitted under section 1395w–27(i) of this title, the MA monthly bi
 
 &emsp;&emsp;&emsp;(i) the average of the capitation payments made to the organization under section 1395w–23 of this title for the plan at the beginning of contract year, exceeds
 
-&emsp;&emsp;&emsp;(ii) the actuarial value of the required benefits described in section 1395w–22(a)(1)(A) of this title under theplan for individuals under this part, as determined based upon an adjusted community rate described in paragraph (3) (as reduced for the actuarial value of the coinsurance, copayments, and deductibles under parts A and B of this subchapter).
+&emsp;&emsp;&emsp;(ii) the actuarial value of the required benefits described in section 1395w–22(a)(1)(A) of this title under the plan for individuals under this part, as determined based upon an adjusted community rate described in paragraph (3) (as reduced for the actuarial value of the coinsurance, copayments, and deductibles under parts A and B of this subchapter).
 
 #### (C) Adjusted excess amount
 
@@ -398,7 +450,7 @@ Except as permitted under section 1395w–27(i) of this title, the MA monthly bi
 
 #### (4) Determination based on insufficient data
 
-&emsp;For purposes of this subsection, if the Secretary finds that there is insufficient enrollment experience to determine an average of the capitation payments to be made under this part at the beginning of a contract period or to determine (in the case of a newly operated provider-sponsored organization or other new organization) the adjusted community rate for the organization, the Secretary may determine such an average based on the enrollment experience of other contracts entered into under this part and may determine such a rate using data in the general commercial marketplace.
+&emsp;For purposes of this subsection, if the Secretary finds that there is insufficient enrollment experience to determine an average of the capitation payments to be made under this part at the beginning of a contract period or to determine (in the case of a newly operated provider-sponsored organization or other new organization) the adjusted community rate for the organization, the Secretary may determine such an average based on the enrollmentexperience of other contracts entered into under this part and may determine such a rate using data in the general commercial marketplace.
 
 #### (g) Prohibition of State imposition of premium taxes
 
@@ -408,17 +460,79 @@ No State may impose a premium tax or similar tax with respect to payments to Med
 
 The Secretary shall permit a Medicare+Choice organization to elect to apply the provisions of this section uniformly to separate segments of a service area (rather than uniformly to an entire service area) as long as such segments are composed of one or more Medicare+Choice payment areas.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1854, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111Stat. 308; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(C), title V, §§515(a), 516(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(1), 622(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–557, 2763A–566; Pub. L. 107–188, title V, §532(b)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title II, §§222(a)(1), (b), (c), (g), 232(b), title IX, §900(e)(1)(H), Dec. 8, 2003, 117 Stat. 2193, 2196, 2199, 2203, 2208, 2371.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1854, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 308; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(C), title V, §§515(a), 516(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(1), 622(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–557, 2763A–566; Pub. L. 107–188, title V, §532(b)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title II, §§222(a)(1), (b), (c), (g), 232(b), title IX, §900(e)(1)(H), Dec. 8, 2003, 117 Stat. 2193, 2196, 2199, 2203, 2208, 2371; Pub. L. 111–148, title III, §§3201(a)(2)(B), (c)–(d)(2), (e)(2)(A)(v), 3202(b)(1), (3), 3209(a), Mar. 23, 2010, 124 Stat. 444, 447, 454, 455, 460; Pub. L. 111–152, title I, §1102(a), (d), Mar. 30, 2010, 124 Stat. 1040, 1045.)
 
 #### References in Text
 
 Part D of this subchapter, referred to in subsec. (a)(6)(B)(iii), is classified to section 1395w–101 et seq. of this title.
 
-Parts A and B of this subchapter, referred to in subsecs. (b)(1)(C)(ii)(III), (iv), (e)(1)(B), (4)(B), and (f)(1)(B)(ii), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
+Parts A and B of this subchapter, referred to in subsecs. (b)(1)(C)(ii)(III), (viii), (e)(1)(B), (4)(B), and (f)(1)(B)(ii), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
+
+Cl. (iii) of par. (1)(C), referred to in subsec. (b)(2)(C)(ii), was struck out and a new cl. (iii) was added by Pub. L. 111–152, §1102(d)(2). See 2010 Amendment note below. As so amended, par. (1)(C)(iii) no longer relates to purposes of rebates and no longer contains a subcl. (III).
 
 #### Amendments
 
-2003—Pub. L. 108–173, §222(g)(1)(A), substituted “Premiums and bid amounts” for “Premiums” in section catchline.
+<b>2010</b>—Subsec. (a)(5)(C). Pub. L. 111–148, §3209(a), added subpar. (C).
+
+Subsec. (a)(6)(A). Pub. L. 111–148, §3201(d)(1), which directed insertion of “Information to be submitted under this paragraph shall be certified by a qualified member of the American Academy of Actuaries and shall meet actuarial guidelines and rules established by the Secretary under subparagraph (B)(v).” at end of concluding provisions, was repealed by Pub. L. 111–152, §1102(a). See Effective Date of 2010 Amendment note below.
+
+Subsec. (a)(6)(B)(i). Pub. L. 111–148, §3201(d)(2)(A), which directed substitution of “(iii), (iv), and (v)” for “(iii) and (iv)”, was repealed by Pub. L. 111–152, §1102(a). See Effective Date of 2010 Amendment note below.
+
+Subsec. (a)(6)(B)(v). Pub. L. 111–148, §3201(d)(2)(B), which directed addition of cl. (v), was repealed by Pub. L. 111–152, §1102(a). As enacted, text read as follows:
+
+“(I)
+
+In general.—In order to establish fair MA competitive benchmarks under section 1395w–23(j)(1)(A)(i) of this title, the Secretary, acting through the Chief Actuary of the Centers for Medicare \& Medicaid Services (in this clause referred to as the ‘Chief Actuary’), shall establish—
+
+&emsp;“(aa) actuarial guidelines for the submission of bid information under this paragraph; and
+
+&emsp;“(bb) bidding rules that are appropriate to ensure accurate bids and fair competition among MA plans.
+
+“(II)
+
+Denial of bid amounts.—The Secretary shall deny monthly bid amounts submitted under subparagraph (A) that do not meet the actuarial guidelines and rules established under subclause (I).
+
+“(III)
+
+Refusal to accept certain bids due to misrepresentations and failures to adequately meet requirements.—In the case where the Secretary determines that information submitted by an MA organization under subparagraph (A) contains consistent misrepresentations and failures to adequately meet requirements of the organization, the Secretary may refuse to accept any additional such bid amounts from the organization for the plan year and the Chief Actuary shall, if the Chief Actuary determines that the actuaries of the organization were complicit in those misrepresentations and failures, report those actuaries to the Actuarial Board for Counseling and Discipline.”
+
+> See Effective Date of 2010 Amendment note below.
+
+Subsec. (b)(1)(C)(i). Pub. L. 111–152, §1102(d)(1), inserted “(or the applicable rebate percentage specified in clause (iii) in the case of plan years beginning on or after January 1, 2012)” after “75 percent”.
+
+Pub. L. 111–148, §3201(c), which directed insertion of “(or 100 percent in the case of plan years beginning on or after January 1, 2014)” after “75 percent”, was repealed by Pub. L. 111–152, §1102(a). See Effective Date of 2010 Amendment note below.
+
+Subsec. (b)(1)(C)(ii). Pub. L. 111–148, §3202(b)(1)(A), substituted “rebate for plan years before 2012” for “rebate” in heading and “For plan years before 2012, a rebate” for “A rebate” in introductory provisions.
+
+Subsec. (b)(1)(C)(iii). Pub. L. 111–152, §1102(d)(2), added cl. (iii) and struck out former cl. (iii). Prior to amendment, text read as follows: “For plan years beginning on or after January 1, 2012, a rebate required under this subparagraph may not be used for the purpose described in clause (ii)(III) and shall be provided through the application of the amount of the rebate in the following priority order:
+
+&emsp;“(I) First, to use the most significant share to meaningfully reduce cost-sharing otherwise applicable for benefits under the original medicare fee-for-service program under parts A and B and for qualified prescription drug coverage under part D, including the reduction of any deductibles, copayments, and maximum limitations on out-of-pocket expenses otherwise applicable. Any reduction of maximum limitations on out-of-pocket expenses under the preceding sentence shall apply to all benefits under the original medicare fee-for-service program option. The Secretary may provide guidance on meaningfully reducing cost-sharing under this subclause, except that such guidance may not require a particular amount of cost-sharing or reduction in cost-sharing.
+
+&emsp;“(II) Second, to use the next most significant share to meaningfully provide coverage of preventive and wellness health care benefits (as defined by the Secretary) which are not benefits under the original medicare fee-for-service program, such as smoking cessation, a free flu shot, and an annual physical examination.
+
+&emsp;“(III) Third, to use the remaining share to meaningfully provide coverage of other health care benefits which are not benefits under the original medicare fee-for-service program, such as eye examinations and dental coverage, and are not benefits described in subclause (II).”
+
+Pub. L. 111–148, §3202(b)(1)(C), added cl. (iii).
+
+Subsec. (b)(1)(C)(iv). Pub. L. 111–152, §1102(d)(2), added cl. (iv). Former cl. (iv) redesignated (vii).
+
+Pub. L. 111–148, §3202(b)(1)(B), redesignated cl. (iii) as (iv).
+
+Subsec. (b)(1)(C)(v). Pub. L. 111–152, §1102(d)(2), added cl. (v). Former cl. (v) redesignated (viii).
+
+Pub. L. 111–148, §3202(b)(1)(B), redesignated cl. (iv) as (v).
+
+Subsec. (b)(1)(C)(vi) to (viii). Pub. L. 111–152, §1102(d)(2), added cl. (vi) and redesignated cls. (iv) and (v) as (vii) and (viii), respectively.
+
+Subsec. (b)(2)(C). Pub. L. 111–148, §3202(b)(3), designated existing text as cl. (i), inserted cl. (i) heading, and added cl. (ii).
+
+Subsec. (b)(3)(B)(i). Pub. L. 111–148, §3201(a)(2)(B)(i), which directed substitution of “1395w–23(j)(1)(A)” for “1395w–23(j)(1)”, was repealed by Pub. L. 111–152, §1102(a). See Effective Date of 2010 Amendment note below.
+
+Subsec. (b)(4)(B)(i). Pub. L. 111–148, §3201(a)(2)(B)(ii), which directed substitution of “1395w–23(j)(1)(B)” for “1395w–23(j)(2)”, was repealed by Pub. L. 111–152, §1102(a). See Effective Date of 2010 Amendment note below.
+
+Subsec. (h). Pub. L. 111–148, §3201(e)(2)(A)(v), which directed repeal of subsec. (h), was repealed by Pub. L. 111–152, §1102(a). See Effective Date of 2010 Amendment note below.
+
+<b>2003</b>—Pub. L. 108–173, §222(g)(1)(A), substituted “Premiums and bid amounts” for “Premiums” in section catchline.
 
 Subsec. (a). Pub. L. 108–173, §222(g)(1)(B), inserted “, bid amounts,” after “premiums” in heading.
 
@@ -472,13 +586,13 @@ Subsec. (f)(1)(A). Pub. L. 108–173, §222(g)(5)(B), substituted “For years b
 
 Subsec. (g). Pub. L. 108–173, §232(b), inserted “or premiums paid to such organizations under this part” after “section 1395w–23 of this title”.
 
-2002—Subsec. (a)(1). Pub. L. 107–188 substituted “Not later than the second Monday in September of 2002, 2003, and 2004 (or July 1 of each other year)” for “Not later than July 1 of each year” in introductory provisions.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–188 substituted “Not later than the second Monday in September of 2002, 2003, and 2004 (or July 1 of each other year)” for “Not later than July 1 of each year” in introductory provisions.
 
-2000—Subsec. (a)(5)(A). Pub. L. 106–554, §1(a)(6) \[title VI, §622(a)\], substituted “values so submitted” for “value so submitted” and inserted at end “The Chief Actuary of the Health Care Financing Administration shall review the actuarial assumptions and data used by the Medicare+Choice organization with respect to such rates, amounts, and values so submitted to determine the appropriateness of such assumptions and data.”
+<b>2000</b>—Subsec. (a)(5)(A). Pub. L. 106–554, §1(a)(6) \[title VI, §622(a)\], substituted “values so submitted” for “value so submitted” and inserted at end “The Chief Actuary of the Health Care Financing Administration shall review the actuarial assumptions and data used by the Medicare+Choice organization with respect to such rates, amounts, and values so submitted to determine the appropriateness of such assumptions and data.”
 
 Subsec. (f)(1)(E), (F). Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(1)\], added subpar. (E) and redesignated former subpar. (E) as (F).
 
-1999—Subsec. (a)(1). Pub. L. 106–113, §1000(a)(6) \[title V, §516(a)\], substituted “July 1” for “May 1” in introductory provisions.
+<b>1999</b>—Subsec. (a)(1). Pub. L. 106–113, §1000(a)(6) \[title V, §516(a)\], substituted “July 1” for “May 1” in introductory provisions.
 
 Pub. L. 106–113, §1000(a)(6) \[title V, §515(a)(1)\], inserted “(or segment of such an area if permitted under subsection (h) of this section)” after “service area” in introductory provisions.
 
@@ -499,6 +613,14 @@ Subsec. (h). Pub. L. 106–113, §1000(a)(6) \[title V, §515(a)(2)\], added sub
 #### Change of Name
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+
+#### Effective Date of 2010 Amendment
+
+Repeal of sections 3201 and 3203 of Pub. L. 111–148 and the amendments made by such sections, effective as if included in the enactment of Pub. L. 111–148, see section 1102(a) of Pub. L. 111–152, set out as a note under section 1395w–21 of this title.
+
+Pub. L. 111–148, title III, §3201(d)(3), Mar. 23, 2010, 124 Stat. 445, which provided that amendments by section 3201(d) of Pub. L. 111–148 (amending this section) would apply to bid amounts submitted on or after Jan. 1, 2012, was repealed by Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040.
+
+Pub. L. 111–148, title III, §3209(c), Mar. 23, 2010, 124 Stat. 460, provided that: “The amendments made by this section \[amending this section and section 1395w–111 of this title\] shall apply to bids submitted for contract years beginning on or after January 1, 2011.”
 
 #### Effective Date of 2003 Amendment
 
@@ -523,4 +645,10 @@ Amendment by section 1000(a)(6) \[title III, §321(k)(6)(C)\] of Pub. L. 106–1
 Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §515(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–384, provided that: “The amendments made by this section \[amending this section\] apply to contract years beginning on or after January 1, 2001.”
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §516(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–384, provided that: “The amendment made by subsection (a) \[amending this section\] applies to information submitted by Medicare+Choice organizations for years beginning with 1999.”
+
+<i><sup>1</sup></i><i> So in original. Probably means subclause (I) of section 1395w–23(o)(3)(A)(ii) of this title.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably means subclause (II) of section 1395w–23(o)(3)(A)(iii) of this title.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

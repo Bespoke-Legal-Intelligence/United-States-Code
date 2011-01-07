@@ -110,7 +110,7 @@ In subsection (f), the words “Not later than 6 months after December 30, 1987,
 
 #### Amendments
 
-2000—Subsec. (g). Pub. L. 106–181 added subsec. (g).
+<b>2000</b>—Subsec. (g). Pub. L. 106–181 added subsec. (g).
 
 #### Effective Date of 2000 Amendment
 

@@ -12,7 +12,7 @@
 
 (e)(1) The Secretary shall provide, directly or by contract, for the conduct of special driver training courses at every hospital and, where appropriate, at regional offices and other medical facilities, of the Department to instruct such eligible person to operate the type of automobile or other conveyance such person wishes to obtain with assistance under this chapter, and may make such courses available to any veteran, eligible for care under chapter 17 of this title or member of the Armed Forces, who is determined by the Secretary to need the special training provided in such courses even though such veteran or member is not eligible for the assistance provided under this chapter.
 
-(2) The Secretary is authorized to obtain insurance on automobiles and other conveyancesused in conducting the special driver training courses provided under this subsection and to obtain, at Government expense, personal liability and property damage insurance for all persons taking such courses without regard to whether such persons are taking the course on an in-patient or out-patient basis.
+(2) The Secretary is authorized to obtain insurance on automobiles and other conveyances used in conducting the special driver training courses provided under this subsection and to obtain, at Government expense, personal liability and property damage insurance for all persons taking such courses without regard to whether such persons are taking the course on an in-patient or out-patient basis.
 
 (3) Notwithstanding any other provision of law, the Secretary may obtain, by purchase, lease, gift, or otherwise, any automobile, motor vehicle, or other conveyance deemed necessary to carry out the purposes of this subsection, and may sell, assign, transfer, or convey any such automobile, vehicle, or conveyance to which the Department obtains title for such price and upon such terms as the Secretary deems appropriate; and any proceeds received from any such disposition shall be credited to the applicable Department appropriation.
 
@@ -24,9 +24,9 @@ Provisions similar to those comprising this section were contained in former sec
 
 #### Amendments
 
-1999—Subsec. (e)(2). Pub. L. 106–117 struck out “(not owned by the Government)” after “automobiles and other conveyances”.
+<b>1999</b>—Subsec. (e)(2). Pub. L. 106–117 struck out “(not owned by the Government)” after “automobiles and other conveyances”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1903 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1903 of this title as this section.
 
 Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “3902” for “1902”.
 
@@ -44,15 +44,15 @@ Subsec. (e)(3). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary”
 
 Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
-1984—Subsec. (c). Pub. L. 98–543 designated existing provisions as par. (1), substituted “two automobiles or other conveyances at any one time or (except as provided in paragraph (2) of this subsection) during any four-year period” for “one automobile or other conveyance at any one time”, and added par. (2).
+<b>1984</b>—Subsec. (c). Pub. L. 98–543 designated existing provisions as par. (1), substituted “two automobiles or other conveyances at any one time or (except as provided in paragraph (2) of this subsection) during any four-year period” for “one automobile or other conveyance at any one time”, and added par. (2).
 
-1981—Subsec. (b). Pub. L. 97–66 substituted “the Administrator shall prescribe” for “he shall prescribe” and “such person's” for “his” in two places.
+<b>1981</b>—Subsec. (b). Pub. L. 97–66 substituted “the Administrator shall prescribe” for “he shall prescribe” and “such person's” for “his” in two places.
 
-1976—Subsec. (e)(1). Pub. L. 94–581, §108(1), substituted “any veteran, eligible for care under chapter 17 of this title or member of the Armed Forces, who is determined” for “any veteran or member of the Armed Forces, eligible for care under chapter 17 of this title, who is determined”.
+<b>1976</b>—Subsec. (e)(1). Pub. L. 94–581, §108(1), substituted “any veteran, eligible for care under chapter 17 of this title or member of the Armed Forces, who is determined” for “any veteran or member of the Armed Forces, eligible for care under chapter 17 of this title, who is determined”.
 
 Subsec. (e)(3). Pub. L. 94–581, §108(2), added par. (3).
 
-1974—Pub. L. 93–538, §4(b), substituted “Limitations on assistance; special training courses” for “Limitations on assistance” in section catchline.
+<b>1974</b>—Pub. L. 93–538, §4(b), substituted “Limitations on assistance; special training courses” for “Limitations on assistance” in section catchline.
 
 Subsec. (e). Pub. L. 93–538, §4(a), added subsec. (e).
 

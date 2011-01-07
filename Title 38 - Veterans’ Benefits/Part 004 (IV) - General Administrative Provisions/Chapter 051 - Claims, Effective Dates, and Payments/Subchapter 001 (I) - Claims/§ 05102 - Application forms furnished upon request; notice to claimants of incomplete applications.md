@@ -10,7 +10,7 @@ Incomplete Applications.—If a claimant's application for a benefit under the l
 
 (c)
 
-Time Limitation.—(1) If information that a claimant and the claimant's representative, if any, are notified under subsection (b) is necessary to complete an application is not received by the Secretary within one year from the date such notice is sent, no benefit may bepaid or furnished by reason of the claimant's application.
+Time Limitation.—(1) If information that a claimant and the claimant's representative, if any, are notified under subsection (b) is necessary to complete an application is not received by the Secretary within one year from the date such notice is sent, no benefit may be paid or furnished by reason of the claimant's application.
 
 (2) This subsection shall not apply to any application or claim for Government life insurance benefits.
 
@@ -24,7 +24,7 @@ Another prior section 5102 was renumbered section 8302 of this title.
 
 #### Amendments
 
-2003—Subsec. (c). Pub. L. 108–183 added subsec. (c).
+<b>2003</b>—Subsec. (c). Pub. L. 108–183 added subsec. (c).
 
 #### Effective Date of 2003 Amendment
 

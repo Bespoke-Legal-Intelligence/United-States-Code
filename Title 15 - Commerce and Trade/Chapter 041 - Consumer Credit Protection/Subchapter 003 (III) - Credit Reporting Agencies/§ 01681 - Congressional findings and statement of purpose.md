@@ -6,7 +6,7 @@ The Congress makes the following findings:
 
 (1) The banking system is dependent upon fair and accurate credit reporting. Inaccurate credit reports directly impair the efficiency of the banking system, and unfair credit reporting methods undermine the public confidence which is essential to the continued functioning of the banking system.
 
-(2) An elaborate mechanism has been developed for investigating and evaluating the credit worthiness,<sup>1</sup> credit standing, credit capacity, character, and general reputation of consumers.
+(2) An elaborate mechanism has been developed for investigating and evaluating the credit worthiness, credit standing, credit capacity, character, and general reputation of consumers.
 
 (3) Consumer reporting agencies have assumed a vital role in assembling and evaluating consumer credit and other information on consumers.
 
@@ -30,7 +30,7 @@ Pub. L. 108–159, §3, Dec. 4, 2003, 117 Stat. 1953, provided that: “Except a
 
 #### Effective Date
 
-Section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §602, Oct. 26, 1970, 84 Stat. 1136, providedthat: “Title VI \[enacting this subchapter\] takes effect upon the expiration of one hundred and eighty days following the date of its enactment \[Oct. 26, 1970\].”
+Section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §602, Oct. 26, 1970, 84 Stat. 1136, provided that: “Title VI \[enacting this subchapter\] takes effect upon the expiration of one hundred and eighty days following the date of its enactment \[Oct. 26, 1970\].”
 
 #### Short Title
 
@@ -155,6 +155,4 @@ Pub. L. 108–159, §2, Dec. 4, 2003, 117 Stat. 1953, provided that: “As used 
 &emsp;“(3) the terms ‘consumer’, ‘consumer report’, ‘consumer reporting agency’, ‘creditor’, ‘Federal banking agencies’, and ‘financial institution’ have the same meanings as in section 603 of the Fair Credit Reporting Act \[15 U.S.C. 1681a\], as amended by this Act; and
 
 &emsp;“(4) the term ‘affiliates’ means persons that are related by common ownership or affiliated by corporate control.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be “creditworthiness,”.</i>
 

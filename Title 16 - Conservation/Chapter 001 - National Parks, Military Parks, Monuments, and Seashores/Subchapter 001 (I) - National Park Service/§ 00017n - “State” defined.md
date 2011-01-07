@@ -6,7 +6,7 @@ As used in sections 17k and 17<i>l</i> of this title the term “State” shall 
 
 #### Amendments
 
-1956—Act Aug. 1, 1956, inserted “Guam” after “Puerto Rico”.
+<b>1956</b>—Act Aug. 1, 1956, inserted “Guam” after “Puerto Rico”.
 
 #### Admission of Alaska and Hawaii to Statehood
 

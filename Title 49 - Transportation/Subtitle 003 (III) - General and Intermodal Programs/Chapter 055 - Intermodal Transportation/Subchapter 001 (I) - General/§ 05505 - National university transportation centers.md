@@ -48,13 +48,13 @@ Grants.—The Secretary shall make a grant under this section to each eligible n
 
 #### Amendments
 
-2005—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to national university transportation centers for provisions relating to university transportation research.
+<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to national university transportation centers for provisions relating to university transportation research.
 
-1998—Subsec. (g)(2). Pub. L. 105–178, §5110(d)(1), as added by Pub. L. 105–206, substituted “section 508 of title 23, United States Code,” for “section 5506,”.
+<b>1998</b>—Subsec. (g)(2). Pub. L. 105–178, §5110(d)(1), as added by Pub. L. 105–206, substituted “section 508 of title 23, United States Code,” for “section 5506,”.
 
 Subsec. (i). Pub. L. 105–178, §5110(d)(2), as added by Pub. L. 105–206, inserted “Subject to section 5338(e):” before par. (1) and substituted “institutions or groups of institutions” for “institutions” wherever appearing.
 
-Subsec. (j)(4)(B). Pub. L. 105–178, §5110(d)(3), as added by Pub. L. 105–206, substituted “on behalf of a consortium which may also include West Virginia University Institute of Technology, the College of West Virginia, and Bluefield State College” for “on behalf of a consortium of West Virginia colleges and universities”.
+Subsec. (j)(4)(B). Pub. L. 105–178, §5110(d)(3), as added by Pub. L. 105–206, substituted “on behalf of a consortium which may also include West Virginia University Institute of Technology, the College of West Virginia,and Bluefield State College” for “on behalf of a consortium of West Virginia colleges and universities”.
 
 #### Effective Date of 1998 Amendment
 

@@ -18,7 +18,7 @@ In carrying out inspections under this chapter, in developing standards and regu
 
 &emsp;&emsp;(F) facilitating the acceptance of the quality, durability, safety, and affordability of manufactured housing within the Department; and
 
-&emsp;&emsp;(G) the administration and enforcement of the installation standards authorized by section 5404 of this title in States in which the Secretary is required to implement an installation program after the expiration of the 5-year period set forth in section 5404(c)(2)(B) of this title, and the administration and enforcement of a dispute resolution program described in section 5422(c)(12) of this title in States in which the Secretary is required to implement such a program after the expiration of the 5-year period set forth in section 5422(g)(2) of this title; and
+&emsp;&emsp;(G) the administration and enforcement of the installation standards authorized by section 5404 of this title in States in which the Secretary is required to implement an installation program after the expiration of the 5-year period set forth in section 5404(c)(2)(B) of this title, and the administration and enforcement of a dispute resolution program described in section 5422(c)(12) of this title in States in which the Secretary isrequired to implement such a program after the expiration of the 5-year period set forth in section 5422(g)(2) of this title; and
 
 &emsp;(2) subject to subsection (e) of this section, use amounts from any fee collected under paragraph (1) of this subsection to pay expenses referred to in that paragraph, which shall be exempt and separate from any limitations on the Department regarding full-time equivalent positions and travel.
 
@@ -60,11 +60,11 @@ For the effective date of the Manufactured Housing Improvement Act of 2000, refe
 
 #### Amendments
 
-2000—Pub. L. 106–569 amended section catchline and text generally. Prior to amendment, text read as follows: “In carrying out the inspections required under this chapter, the Secretary may establish and impose on manufactured home manufacturers, distributors, and dealers such reasonable fees as may be necessary to offset the expenses incurred by him in conducting such inspections, and the Secretary may use any fees so collected to pay expenses incurred in connection with such inspections, except that this section shall not apply in any State which has in effect a State plan under section 5422 of this title.”
+<b>2000</b>—Pub. L. 106–569 amended section catchline and text generally. Prior to amendment, text read as follows: “In carrying out the inspections required under this chapter, the Secretary may establish and impose on manufactured home manufacturers, distributors, and dealers such reasonable fees as may be necessary to offset the expenses incurred by him in conducting such inspections, and the Secretary may use any fees so collected to pay expenses incurred in connection with such inspections, except that this section shall not apply in any State which has in effect a State plan under section 5422 of this title.”
 
-1980—Pub. L. 96–399 substituted “manufactured home” for “mobile home”.
+<b>1980</b>—Pub. L. 96–399 substituted “manufactured home” for “mobile home”.
 
-1979—Pub. L. 96–153 substituted “conducting such inspections, and the Secretary may use any fees so collected to pay expenses incurred in connection with such inspections, except” for “conducting such inspections, except”.
+<b>1979</b>—Pub. L. 96–153 substituted “conducting such inspections, and the Secretary may use any fees so collected to pay expenses incurred in connection with such inspections, except” for “conducting such inspections, except”.
 
 #### Effective Date of 2000 Amendment
 

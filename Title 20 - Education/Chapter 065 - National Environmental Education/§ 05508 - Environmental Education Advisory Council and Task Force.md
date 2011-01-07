@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established a National Environmental Education Advisory Council and aFederal Task Force on Environmental Education.
+There is hereby established a National Environmental Education Advisory Council and a Federal Task Force on Environmental Education.
 
 #### (b) Advisory Council; duties; members; terms of office; compensation; termination
 
@@ -60,7 +60,7 @@ There is hereby established a National Environmental Education Advisory Council 
 
 &emsp;(D) identify personnel skills, education, and training needed to respond to current and anticipated environmental problems and make recommendations for actions to assure sufficient educational and training opportunities in these professions; and
 
-&emsp;(E) describe and assess the extent and quality of environmental education programs available to senior Americans and make recommendations thereon; describe the various Federal agency programs to further senior environmental education; and evaluate and make recommendations as to how such educational apparatuses could best be coordinated with nonprofit senior organizations across theNation, and environmental education institutions and organizations now in existence.
+&emsp;(E) describe and assess the extent and quality of environmental education programs available to senior Americans and make recommendations thereon; describe the various Federal agency programs to further senior environmental education; and evaluate and make recommendations as to how such educational apparatuses could best be coordinated with nonprofit senior organizations across the Nation, and environmental education institutions and organizations now in existence.
 
 (2) The Federal Task Force on Environmental Education shall review and comment on a draft of the report to Congress.
 

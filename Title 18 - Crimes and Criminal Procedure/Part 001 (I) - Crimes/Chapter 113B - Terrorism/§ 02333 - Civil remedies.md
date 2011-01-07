@@ -16,7 +16,7 @@ Estoppel Under Foreign Law.—A final judgment or decree rendered in favor of an
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–429 substituted “section 46314, 46502, 46505, or 46506 of title 49” for “section 902(i), (k), (<i>l</i>), (n), or (r) of the Federal Aviation Act of 1958 (49 U.S.C. App. 1472(i), (k), (<i>l</i>), (n), or (r))”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–429 substituted “section 46314, 46502, 46505, or 46506 of title 49” for “section 902(i), (k), (<i>l</i>), (n), or (r) of the Federal Aviation Act of 1958 (49 U.S.C. App. 1472(i), (k), (<i>l</i>), (n), or (r))”.
 
 #### Effective Date
 

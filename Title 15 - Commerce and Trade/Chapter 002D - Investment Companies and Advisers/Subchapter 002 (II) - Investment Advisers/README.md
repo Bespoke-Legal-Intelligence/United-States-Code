@@ -28,6 +28,8 @@
 - [&sect; 00080b&#8211;17 - Penalties](%C2%A7%2000080b%E2%80%9317%20-%20Penalties.md)
 - [&sect; 00080b&#8211;18 - Hiring and leasing authority of Commission](%C2%A7%2000080b%E2%80%9318%20-%20Hiring%20and%20leasing%20authority%20of%20Commission.md)
 - [&sect; 00080b&#8211;18a - State regulation of investment advisers](%C2%A7%2000080b%E2%80%9318a%20-%20State%20regulation%20of%20investment%20advisers.md)
+- [&sect; 00080b&#8211;18b - Custody of client accounts](%C2%A7%2000080b%E2%80%9318b%20-%20Custody%20of%20client%20accounts.md)
+- [&sect; 00080b&#8211;18c - Rule of construction relating to the Commodities Exchange Act](%C2%A7%2000080b%E2%80%9318c%20-%20Rule%20of%20construction%20relating%20to%20the%20Commodities%20Exchange%20Act.md)
 - [&sect; 00080b&#8211;19 - Separability](%C2%A7%2000080b%E2%80%9319%20-%20Separability.md)
 - [&sect; 00080b&#8211;20 - Short title](%C2%A7%2000080b%E2%80%9320%20-%20Short%20title.md)
 - [&sect; 00080b&#8211;21 - Effective date](%C2%A7%2000080b%E2%80%9321%20-%20Effective%20date.md)

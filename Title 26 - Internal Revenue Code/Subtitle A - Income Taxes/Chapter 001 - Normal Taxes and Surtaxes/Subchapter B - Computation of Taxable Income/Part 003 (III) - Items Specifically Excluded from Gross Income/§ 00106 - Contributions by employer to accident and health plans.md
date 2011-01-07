@@ -8,7 +8,7 @@ Except as otherwise provided in this section, gross income of an employee does n
 
 #### (1) In general
 
-&emsp;In the case of an employee who is an eligible individual, amounts contributed by such employee's employer to any Archer MSA of such employee shall be treated as employer-provided coverage for medical expenses under an accident or health plan to the extent such amounts do not exceed the limitation under section 220(b)(1) (determined without regard to this subsection) which is applicable to such employee for such taxable year.
+&emsp;In the case of an employee who is an eligible individual, amounts contributed by such employee's employer to any Archer MSA of such employee shall be treated as employer-provided coverage for medical expenses under an accident or health plan to the extent such amounts do not exceed the limitation undersection 220(b)(1) (determined without regard to this subsection) which is applicable to such employee for such taxable year.
 
 #### (2) No constructive receipt
 
@@ -72,7 +72,7 @@ Except as otherwise provided in this section, gross income of an employee does n
 
 #### (2) Qualified HSA distribution
 
-&emsp;The term “qualified HSA distribution” means a distribution from a health flexiblespending arrangement or health reimbursement arrangement to the extent that such distribution—
+&emsp;The term “qualified HSA distribution” means a distribution from a health flexible spending arrangement or health reimbursement arrangement to the extent that such distribution—
 
 &emsp;&emsp;(A) does not exceed the lesser of the balance in such arrangement on September 21, 2006, or as of the date of such distribution, and
 
@@ -128,7 +128,11 @@ Except as otherwise provided in this section, gross income of an employee does n
 
 &emsp;&emsp;&emsp;In the case of a qualified HSA distribution to any employee, the failure to offer such distribution to any eligible individual covered under a high deductible health plan of the employer shall (notwithstanding section 4980G(d)) be treated for purposes of section 4980G as a failure to meet the requirements of section 4980G(b).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 32; Pub. L. 99–272, title X, §10001(b), Apr. 7, 1986, 100 Stat. 223; Pub. L. 99–514, title XI, §§1114(b)(1), 1151(j)(2), Oct. 22, 1986, 100 Stat. 2450, 2508; Pub. L. 100–647, title I, §1018(t)(7)(A), title III, §3011(b)(1), Nov. 10, 1988, 102 Stat. 3589, 3624; Pub. L. 101–239, title VII, §7862(c)(1)(A), Dec. 19, 1989, 103 Stat. 2432; Pub. L. 104–191, title III, §§301(c)(1), 321(c)(2), Aug. 21, 1996, 110 Stat. 2048, 2058; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(2), (b)(2)(A), (6), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 108–173, title XII, §1201(d)(1), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 109–432, div. A, title III, §302(a), Dec. 20, 2006, 120 Stat. 2948.)
+#### (f) Reimbursements for medicine restricted to prescribed drugs and insulin
+
+For purposes of this section and section 105, reimbursement for expenses incurred for a medicine or a drug shall be treated as a reimbursement for medical expenses only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 32; Pub. L. 99–272, title X, §10001(b), Apr. 7, 1986, 100 Stat. 223; Pub. L. 99–514, title XI, §§1114(b)(1), 1151(j)(2), Oct. 22, 1986, 100 Stat. 2450, 2508; Pub. L. 100–647, title I, §1018(t)(7)(A), title III, §3011(b)(1), Nov. 10, 1988, 102 Stat. 3589, 3624; Pub. L. 101–239, title VII, §7862(c)(1)(A), Dec. 19, 1989, 103 Stat. 2432; Pub. L. 104–191, title III, §§301(c)(1), 321(c)(2), Aug. 21, 1996, 110 Stat. 2048, 2058; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(2), (b)(2)(A), (6), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 108–173, title XII, §1201(d)(1), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 109–432, div. A, title III, §302(a), Dec. 20, 2006, 120 Stat. 2948; Pub. L. 111–148, title IX, §9003(c), Mar. 23, 2010, 124 Stat. 854.)
 
 #### References in Text
 
@@ -136,11 +140,13 @@ COBRA, referred to in the heading for subsec. (b)(5), probably means the Consoli
 
 #### Amendments
 
-2006—Subsec. (e). Pub. L. 109–432 added subsec. (e).
+<b>2010</b>—Subsec. (f). Pub. L. 111–148 added subsec. (f).
 
-2003—Subsec. (d). Pub. L. 108–173 added subsec. (d).
+<b>2006</b>—Subsec. (e). Pub. L. 109–432 added subsec. (e).
 
-2000—Subsec. (b). Pub. L. 106–554 §1(a)(7) \[title II, §202(b)(6)\], substituted “Archer MSAs” for “medical savings accounts” in heading.
+<b>2003</b>—Subsec. (d). Pub. L. 108–173 added subsec. (d).
+
+<b>2000</b>—Subsec. (b). Pub. L. 106–554 §1(a)(7) \[title II, §202(b)(6)\], substituted “Archer MSAs” for “medical savings accounts” in heading.
 
 Subsec. (b)(1). Pub. L. 106–554 §1(a)(7) \[title II, §202(a)(2)\], substituted “Archer MSA” for “medical savings account”.
 
@@ -154,21 +160,25 @@ Subsec. (b)(6). Pub. L. 106–554 §1(a)(7) \[title II, §202(a)(2)\], substitut
 
 Subsec. (b)(7). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(2)(A)\], substituted “Archer MSAs” for “medical savings accounts”.
 
-1996—Pub. L. 104–191, §301(c)(1), amended text generally. Prior to amendment, text read as follows: “Gross income of an employee does not include employer-provided coverage under an accident or health plan.”
+<b>1996</b>—Pub. L. 104–191, §301(c)(1), amended text generally. Prior to amendment, text read as follows: “Gross income of an employee does not include employer-provided coverage under an accident or health plan.”
 
 Subsec. (c). Pub. L. 104–191, §321(c)(2), added subsec. (c).
 
-1989—Subsec. (b)(2). Pub. L. 101–239 amended subsec. (b)(2) as it existed prior to general amendment by Pub. L. 100–647 by striking out the last sentence which read as follows: “Under regulations, rules similar to the rules of subsections (a) and (b) of section 52 (relating to employers under common control) shall apply for purposes of subparagraph (A).” See Effective Date of 1989 Amendment note below.
+<b>1989</b>—Subsec. (b)(2). Pub. L. 101–239 amended subsec. (b)(2) as it existed prior to general amendment by Pub. L. 100–647 by striking out the last sentence which read as follows: “Under regulations, rules similar to the rules of subsections (a) and (b) of section 52 (relating to employers under common control) shall apply for purposes of subparagraph (A).” See Effective Date of 1989 Amendment note below.
 
-1988—Pub. L. 100–647, §3011(b)(1), amended section generally, substituting a single undesignated par. for former subsec. (a) providing that gross income does not include employer-provided coverage under an accident or health plan and subsec. (b) providing for an exception for highly compensated individuals where a plan fails to provide certain continuation coverage.
+<b>1988</b>—Pub. L. 100–647, §3011(b)(1), amended section generally, substituting a single undesignated par. for former subsec. (a) providing that gross income does not include employer-provided coverage under an accident or health plan and subsec. (b) providing for an exception for highly compensated individuals where a plan fails to provide certain continuation coverage.
 
 Subsec. (b)(1). Pub. L. 100–647, §1018(t)(7)(A), substituted “any employer-provided coverage” for “any amount contributed by an employer” and “under a group” for “to a group”.
 
-1986—Pub. L. 99–272 designated existing provisions as subsec. (a) and added subsec. (a) heading and subsec. (b).
+<b>1986</b>—Pub. L. 99–272 designated existing provisions as subsec. (a) and added subsec. (a) heading and subsec. (b).
 
 Subsec. (a). Pub. L. 99–514, §1151(j)(2), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Gross income does not include contributions by the employer to accident or health plans for compensation (through insurance or otherwise) to his employees for personal injuries or sickness.”
 
 Subsec. (b)(1). Pub. L. 99–514, §1114(b)(1), substituted “highly compensated employee (within the meaning of section 414(q))” for “highly compensated individual (within the meaning of section 105(h)(5))”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title IX, §9003(d)(2), Mar. 23, 2010, 124 Stat. 854, provided that: “The amendment made by subsection (c) \[amending this section\] shall apply to expenses incurred with respect to taxable years beginning after December 31, 2010.”
 
 #### Effective Date of 2006 Amendment
 
@@ -176,7 +186,7 @@ Pub. L. 109–432, div. A, title III, §302(c)(1), Dec. 20, 2006, 120 Stat. 2949
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as a note under section 62 of this title.
+Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) ofPub. L. 108–173, set out as a note under section 62 of this title.
 
 #### Effective Date of 1996 Amendment
 

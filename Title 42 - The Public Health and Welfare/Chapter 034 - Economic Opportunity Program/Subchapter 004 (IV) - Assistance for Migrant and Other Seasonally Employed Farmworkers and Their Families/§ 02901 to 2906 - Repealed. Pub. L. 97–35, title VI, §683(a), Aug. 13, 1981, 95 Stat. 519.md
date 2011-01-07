@@ -22,7 +22,7 @@ A prior section 2904, Pub. L. 88–452, title IV, §404, Aug. 20, 1964, 78 Stat.
 
 Section 2905, Pub. L. 88–452, title IV, §405, as added Pub. L. 95–568, §9, Nov. 2, 1978, 92 Stat. 2430, set forth special responsibilities of the Director.
 
-A prior section 2905, Pub. L. 88–452, title IV, §403, formerly §405, Aug. 20, 1964, 78 Stat. 526; renumbered §403 and amended Pub. L. 89–794, title IV, §§401, 406, Nov. 8, 1966, 80 Stat. 1465, set forth terms and conditions of any loans made pursuant to former section 2902 of this title, prior to repeal by Pub. L. 93–386, §2(b), Aug. 23, 1974, 88 Stat. 745.
+A prior section 2905, Pub. L. 88–452, title IV, §403, formerly §405, Aug. 20, 1964, 78 Stat. 526; renumbered §403 and amended Pub. L. 89–794, title IV, §§401, 406, Nov. 8, 1966, 80 Stat. 1465, set forth terms and conditions of any loans made pursuant to former section 2902 of this title,prior to repeal by Pub. L. 93–386, §2(b), Aug. 23, 1974, 88 Stat. 745.
 
 Section 2906, Pub. L. 88–452, title IV, §406, as added Pub. L. 95–568, §9, Nov. 2, 1978, 92 Stat. 2430, related to authorization of appropriations.
 

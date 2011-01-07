@@ -20,7 +20,7 @@ In the budget justification materials submitted to Congress in support of each b
 
 #### Amendments
 
-2006—Pub. L. 109–364 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>2006</b>—Pub. L. 109–364 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 #### Effective Date
 

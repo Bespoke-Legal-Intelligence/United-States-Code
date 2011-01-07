@@ -108,7 +108,7 @@ Section was formerly classified to section 7274s of Title 42, The Public Health 
 
 #### Amendments
 
-2009—Subsec. (c). Pub. L. 111–84, §3114(a)(2)(B), added subsec. (c). Former subsec. (c) redesignated (d).
+<b>2009</b>—Subsec. (c). Pub. L. 111–84, §3114(a)(2)(B), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 111–84, §3114(a)(2)(A), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
@@ -136,7 +136,7 @@ Subsec. (i)(1). Pub. L. 111–84, §3114(d)(4)(A), substituted “subsection (e)
 
 Subsec. (i)(2). Pub. L. 111–84, §3114(d)(4)(B), substituted “subsection (f)” for “subsection (e)”.
 
-2003—Subsec. (d)(3)(B). Pub. L. 108–136, §3141(e)(6)(D), substituted “section 2532 of this title” for “section 3137 of the National Defense Authorization Act for Fiscal Year 1996 (42 U.S.C. 2121 note)”.
+<b>2003</b>—Subsec. (d)(3)(B). Pub. L. 108–136, §3141(e)(6)(D), substituted “section 2532 of this title” for “section 3137 of the National Defense Authorization Act for Fiscal Year 1996 (42 U.S.C. 2121 note)”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -14,11 +14,11 @@
 
 #### Amendments
 
-1997—Subsec. (b). Pub. L. 105–33 inserted “with return receipt requested” after “certified mail”.
+<b>1997</b>—Subsec. (b). Pub. L. 105–33 inserted “with return receipt requested” after “certified mail”.
 
-1992—Subsecs. (a), (b). Pub. L. 102–547 made technical correction to directory language of Pub. L. 102–54, §5. See 1991 Amendment note below.
+<b>1992</b>—Subsecs. (a), (b). Pub. L. 102–547 made technical correction to directory language of Pub. L. 102–54, §5. See 1991 Amendment note below.
 
-1991—Pub. L. 102–40 renumbered section 3102 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 3102 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in four places.
 
@@ -36,21 +36,21 @@ Pub. L. 102–54, §5(2), as amended by Pub. L. 102–547, substituted “101, 1
 
 Subsec. (c). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary's” for “Administrator's”.
 
-1989—Subsec. (b). Pub. L. 101–237, §311(1), substituted “shall, except as provided in subsection (c) of this section,” for “may”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–237, §311(1), substituted “shall, except as provided in subsection (c) of this section,” for “may”.
 
 Subsec. (c). Pub. L. 101–237, §311(2), substituted “The recovery of any payment or the collection of any indebtedness (or any interest thereon) may not be waived under this section” for “The Administrator may not exercise the Administrator's authority under subsection (a) or (b) of this section to waive recovery of any payment or the collection of any indebtedness (or any interest thereon)” and substituted “or bad faith” for “, material fault, or lack of good faith”.
 
-1986—Subsec. (b). Pub. L. 99–576, §701(69)(A), substituted “the veteran's” for “his” before “spouse”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–576, §701(69)(A), substituted “the veteran's” for “his” before “spouse”.
 
 Subsec. (c). Pub. L. 99–576, §701(69)(B), substituted “the Administrator's” for “his” in two places.
 
-1982—Subsec. (a). Pub. L. 97–306 substituted “180 days” for “two years”, and inserted condition relating to such longer period as the Administrator determines is reasonable in cases demonstrated to involve actual failure of notification to payee.
+<b>1982</b>—Subsec. (a). Pub. L. 97–306 substituted “180 days” for “two years”, and inserted condition relating to such longer period as the Administrator determines is reasonable in cases demonstrated to involve actual failure of notification to payee.
 
-1980—Subsec. (a). Pub. L. 96–466, §605(c)(3)(A), inserted “(or any interest thereon)” after “overpayments”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–466, §605(c)(3)(A), inserted “(or any interest thereon)” after “overpayments”.
 
 Subsec. (c). Pub. L. 96–466, §605(c)(3)(B), inserted “(or any interest thereon)” after “indebtedness” in two places.
 
-1972—Pub. L. 92–328 substituted “claims by the United States” for “overpayments” in section catchline, struck out “(except servicemen's indemnity)” after “any benefits” in subsec. (a), struck out provisions relating to recovery of benefits from any person without fault on his part, and inserted provisions relating to an application for relief made within two years from the date of notification of the indebtedness by the Administrator to the payee, added subsecs. (b) and (c), redesignated former subsec. (b) as (d), and inserted reference to subsec. (b), and redesignated former subsec. (c) as (e).
+<b>1972</b>—Pub. L. 92–328 substituted “claims by the United States” for “overpayments” in section catchline, struck out “(except servicemen's indemnity)” after “any benefits” in subsec. (a), struck out provisions relating to recovery of benefits from any person without fault on his part, and inserted provisions relating to an application for relief made within two years from the date of notification of the indebtedness by the Administrator to the payee, added subsecs. (b) and (c), redesignated former subsec. (b) as (d), and inserted reference to subsec. (b), and redesignated former subsec. (c) as (e).
 
 #### Effective Date of 1997 Amendment
 

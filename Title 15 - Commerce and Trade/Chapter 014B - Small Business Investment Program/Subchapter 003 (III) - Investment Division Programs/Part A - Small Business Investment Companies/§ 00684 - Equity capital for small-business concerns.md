@@ -22,13 +22,13 @@ Equity capital provided to incorporated small business concerns under this secti
 
 #### Amendments
 
-1972—Subsec. (a). Pub. L. 92–595 extended the function of small business investment companies to provide a source of equity capital to unincorporated business concerns.
+<b>1972</b>—Subsec. (a). Pub. L. 92–595 extended the function of small business investment companies to provide a source of equity capital to unincorporated business concerns.
 
-1967—Subsec. (c). Pub. L. 90–104 repealed subsec. (c) which authorized purchase of stock of investment companies by small-business concerns in an amount equal to 5 per centum of capital provided.
+<b>1967</b>—Subsec. (c). Pub. L. 90–104 repealed subsec. (c) which authorized purchase of stock of investment companies by small-business concerns in an amount equal to 5 per centum of capital provided.
 
-1961—Subsec. (d). Pub. L. 87–341 added subsec. (d).
+<b>1961</b>—Subsec. (d). Pub. L. 87–341 added subsec. (d).
 
-1960—Subsec. (a). Pub. L. 86–502 struck out “primary” before “function”, and substituted “a source of equity capital for incorporated small-business concerns, in such manner and under such terms as the small business investment company may fix in accordance with the regulations of the Administration” for “a source of needed equity capital for small-business concerns in the manner and subject to the conditions described in this section”.
+<b>1960</b>—Subsec. (a). Pub. L. 86–502 struck out “primary” before “function”, and substituted “a source of equity capital for incorporated small-business concerns, in such manner and under such terms as the small business investment company may fix in accordance with the regulations of the Administration” for “a source of needed equity capital for small-business concerns in the manner and subject to the conditions described in this section”.
 
 Subsec. (b). Pub. L. 86–502 redesignated subsec. (c) as (b), and repealed former subsec. (b) which required capital to be secured only through the purchase of debenture bonds.
 

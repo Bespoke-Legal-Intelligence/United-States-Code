@@ -20,11 +20,11 @@ Section 7413(d) of this title, referred to in text, was amended generally by Pub
 
 #### Amendments
 
-1990—Pub. L. 101–549 amended penultimate sentence generally. Prior to amendment, penultimate sentenceread as follows: “Such regulations shall be promulgated after notice and opportunity for public hearing and not later than 6 months after August 7, 1977.”
+<b>1990</b>—Pub. L. 101–549 amended penultimate sentence generally. Prior to amendment, penultimate sentence read as follows: “Such regulations shall be promulgated after notice and opportunity for public hearing and not later than 6 months after August 7, 1977.”
 
 #### Effective Date
 
-Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, setout as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

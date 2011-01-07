@@ -18,7 +18,7 @@ No political test or political qualification shall be used in selecting, appoint
 
 #### (e) Employee status; applicability of administrative and cost standards of Office of Management and Budget
 
-Officers and employees of the corporation shall not be considered officers or employees of the United States, and the corporation shall not be considered a department, agency, or instrumentality of the Federal Government. The corporation shall be subject to administrative and cost standards issued by the Office of Management and Budget similar to standards applicable to non-profit grantees and educational institutions.
+Officers and employees of the corporation shall not be considered officers or employees of the United States, and the corporation shall not be considered a department, agency, or instrumentality of the Federal Government. The corporation shall be subject to administrative andcost standards issued by the Office of Management and Budget similar to standards applicable to non-profit grantees and educational institutions.
 
 (Pub. L. 95–557, title VI, §605, Oct. 31, 1978, 92 Stat. 2116; Pub. L. 108–199, div. G, title III,\[(1), (2)\], Jan. 23, 2004, 118 Stat. 413; Pub. L. 111–117, div. A, title III, Dec. 16, 2009, 123 Stat. 3108.)
 
@@ -28,9 +28,9 @@ Levels II and IV of the Executive Schedule, referred to in subsec. (a), are set 
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–117 inserted “, except that the board-appointed officers may be paid salary at a rate not to exceed level II of the Executive Schedule” before period at end of first sentence.
+<b>2009</b>—Subsec. (a). Pub. L. 111–117 inserted “, except that the board-appointed officers may be paid salary at a rate not to exceed level II of the Executive Schedule” before period at end of first sentence.
 
-2004—Subsec. (a). Pub. L. 108–199, title III, \[(2)\], added second sentence.
+<b>2004</b>—Subsec. (a). Pub. L. 108–199, title III, \[(2)\], added second sentence.
 
 Pub. L. 108–199, title III, \[(1)\], which directed the substitution of “salary” for “compensation”, was executed by making the substitution both places that “compensation” appeared to reflect the probable intent of Congress.
 

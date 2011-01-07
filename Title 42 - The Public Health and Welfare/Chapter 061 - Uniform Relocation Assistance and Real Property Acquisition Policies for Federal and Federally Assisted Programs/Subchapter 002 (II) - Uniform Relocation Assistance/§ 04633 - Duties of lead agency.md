@@ -32,13 +32,17 @@ The regulations and procedures issued pursuant to this section shall apply to th
 
 (Pub. L. 91–646, title II, §213, Jan. 2, 1971, 84 Stat. 1900; Pub. L. 100–17, title IV, §412, Apr. 2, 1987, 101 Stat. 254; Pub. L. 102–240, title I, §1055, Dec. 18, 1991, 105 Stat. 2002; Pub. L. 105–117, §2, Nov. 21, 1997, 111 Stat. 2385.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(1), (4) to (6) and (b)(1), was in the original “this Act”, meaning Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, known as the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
+
 #### Amendments
 
-1997—Subsec. (a)(2) to (6). Pub. L. 105–117 added pars. (2) and (3) and redesignated former pars. (2) to (4) as (4) to (6), respectively.
+<b>1997</b>—Subsec. (a)(2) to (6). Pub. L. 105–117 added pars. (2) and (3) and redesignated former pars. (2) to (4) as (4) to (6), respectively.
 
-1991—Subsec. (c). Pub. L. 102–240 inserted “and the Rural Electrification Administration” after “Tennessee Valley Authority”.
+<b>1991</b>—Subsec. (c). Pub. L. 102–240 inserted “and the Rural Electrification Administration” after “Tennessee Valley Authority”.
 
-1987—Pub. L. 100–17 in amending section generally, substituted “Duties of lead agency” for “Regulations and procedures” in section catchline.
+<b>1987</b>—Pub. L. 100–17 in amending section generally, substituted “Duties of lead agency” for “Regulations and procedures” in section catchline.
 
 Subsec. (a). Pub. L. 100–17 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “In order to promote uniform and effective administration of relocation assistance and land acquisition of State or local housing agencies, or other agencies having programs or projects by Federal agencies or programs or projects by State agencies receiving Federal financial assistance, the heads of Federal agencies shall consult together on the establishment of regulations and procedures for the implementation of such programs.”
 
@@ -58,7 +62,7 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–17 effective Apr. 2, 1987, to the extent such amendment prescribes authority to develop, publish, and issue regulations, and otherwise to take effect on effective date provided in such regulations but not later than 2 years after Apr. 2, 1987, see section 418 of Pub. L. 100–17, set out as a note under section 4601 of this title.
+Amendment by Pub. L. 100–17 effective Apr. 2, 1987, to the extent such amendment prescribes authority to develop, publish, and issue regulations, and otherwise totake effect on effective date provided in such regulations but not later than 2 years after Apr. 2, 1987, see section 418 of Pub. L. 100–17, set out as a note under section 4601 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

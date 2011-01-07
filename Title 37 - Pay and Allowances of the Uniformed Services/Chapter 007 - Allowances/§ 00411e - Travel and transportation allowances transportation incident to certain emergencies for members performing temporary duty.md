@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–456 substituted “incident to a personal emergency of the member” for “incident to the serious illness or injury or the death of a dependent of the member”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–456 substituted “incident to a personal emergency of the member” for “incident to the serious illness or injury or the death of a dependent of the member”.
 
 #### Effective Date of 1988 Amendment
 

@@ -132,7 +132,7 @@ This amends 49:60112(d) to clarify the restatement of 49 App.:1679b(b)(1) and 20
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–355, §8(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “After notice and an opportunity for a hearing, the Secretary of Transportation may decide a pipeline facility is hazardous if the Secretary decides the facility is—
+<b>2002</b>—Subsec. (a). Pub. L. 107–355, §8(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “After notice and an opportunity for a hearing, the Secretary of Transportation may decide a pipeline facility is hazardous if the Secretary decides the facility is—
 
 &emsp;“(1) hazardous to life, property, or the environment; or
 
@@ -142,7 +142,7 @@ Subsec. (d). Pub. L. 107–355, §10(b), designated existing provisions as par. 
 
 Pub. L. 107–355, §8(a)(2), substituted “is or would be hazardous” for “is hazardous”.
 
-1994—Subsec. (d). Pub. L. 103–429 inserted before period at end “, including suspended or restricted use of the facility, physical inspection, testing, repair, replacement, or other appropriate action”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–429 inserted before period at end “, including suspended or restricted use of the facility, physical inspection, testing, repair, replacement, or other appropriate action”.
 
 #### Effective Date of 1994 Amendment
 

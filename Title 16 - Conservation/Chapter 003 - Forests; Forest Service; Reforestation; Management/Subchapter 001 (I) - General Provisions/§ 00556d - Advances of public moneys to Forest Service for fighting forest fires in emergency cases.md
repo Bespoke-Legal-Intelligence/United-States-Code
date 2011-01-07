@@ -12,7 +12,7 @@ Section was formerly classified to section 534 of Title 31 prior to the general 
 
 #### Amendments
 
-1972—Pub. L. 92–310 struck out provisions which required chiefs of field parties to give bonds.
+<b>1972</b>—Pub. L. 92–310 struck out provisions which required chiefs of field parties to give bonds.
 
 #### Transfer of Functions
 

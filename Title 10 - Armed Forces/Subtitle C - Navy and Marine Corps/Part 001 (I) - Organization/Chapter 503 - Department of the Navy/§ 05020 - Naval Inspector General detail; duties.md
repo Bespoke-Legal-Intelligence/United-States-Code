@@ -42,13 +42,13 @@ The Inspector General Act of 1978, referred to in subsec. (c), is Pub. L. 95–4
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–433, §511(c)(5)(A), substituted “Office of the Secretary of Navy” for “Office of the Chief of Naval Operations”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–433, §511(c)(5)(A), substituted “Office of the Secretary of Navy” for “Office of the Chief of Naval Operations”.
 
 Subsec. (c). Pub. L. 99–433, §511(c)(5)(B), (C), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 99–433, §511(c)(5)(B), redesignated former subsec. (c) as (d) and substituted “Secretary of the Navy” for “Chief of Naval Operations”.
 
-1980—Subsec. (a). Pub. L. 96–513, §503(7)(A), substituted “active-duty list” for “active list”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513, §503(7)(A), substituted “active-duty list” for “active list”.
 
 Subsec. (d). Pub. L. 96–513, §503(7)(B), struck out subsec. (d) which authorized the President to designate the Naval Inspector General as an officer who performs special or unusual duty or duty of great importance and responsibility under section 5231 of this title.
 

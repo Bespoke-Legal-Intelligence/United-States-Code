@@ -6,7 +6,7 @@ The charters of any cooperative association organized pursuant to section 504 of
 
 #### Amendments
 
-1948—Act June 25, 1948, struck out provisions relating to procedure for removal. See sections 1441 to 1450 of Title 28, Judiciary and Judicial Procedure.
+<b>1948</b>—Act June 25, 1948, struck out provisions relating to procedure for removal. See sections 1441 to 1450 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1948 Amendment
 

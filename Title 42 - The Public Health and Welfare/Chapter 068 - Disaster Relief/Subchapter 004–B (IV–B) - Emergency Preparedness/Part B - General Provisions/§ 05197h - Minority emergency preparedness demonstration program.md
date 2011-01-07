@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director shall establish a minority emergency preparedness demonstration program to research and promote the capacity of minority communities to provide data, information, and awareness education by providing grants to or executing contracts or cooperative agreements with eligible nonprofit organizations to establish and conduct such programs.
+The Administrator shall establish a minority emergency preparedness demonstration program to research and promote the capacity of minority communities to provide data, information, and awareness education by providing grants to or executing contracts or cooperative agreements with eligible nonprofit organizations to establish and conduct such programs.
 
 #### (b) Activities supported
 
@@ -30,21 +30,27 @@ A recipient of a grant, contract, or cooperative agreement awarded under this se
 
 #### (e) Application and review procedure
 
-To be eligible to receive a grant, contract, or cooperative agreement under this section, an organization must submit an application to the Director at such time, in such manner, and accompanied by such information as the Director may reasonably require. The Director shall establish a procedure by which to accept such applications.
+To be eligible to receive a grant, contract, or cooperative agreement under this section, an organization must submit an application to the Administrator at such time, in such manner, and accompanied by such information as the Administrator may reasonably require. The Administrator shall establish a procedure by which to accept such applications.
 
 #### (f) Authorization of appropriation
 
 There is authorized to be appropriated to carry out this section $1,500,000 for fiscal year 2002 and such funds as may be necessary for fiscal years 2003 through 2007. Such sums shall remain available until expended.
 
-(Pub. L. 93–288, title VI, §629, as added Pub. L. 107–73, title IV, §431, Nov. 26, 2001, 115 Stat. 697.)
+(Pub. L. 93–288, title VI, §629, as added Pub. L. 107–73, title IV, §431, Nov. 26, 2001, 115 Stat. 697; amended Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
 
 #### References in Text
 
 Subparagraph (A), (B), or (C) of section 1063b(e)(1) of title 20, referred to in subsec. (d)(4), was in the original “subparagraph (A), (B), or (C) of section 326 of that Act (20 U.S.C. 1063b(e)(1)(A), (B), or (C))”, which was translated as reading “subparagraph (A), (B), or (C) of section 326(e)(1) of that Act (20 U.S.C. 1063b(e)(1)(A), (B), or (C))” to reflect the probable intent of Congress.
+
+#### Amendments
+
+<b>2011</b>—Pub. L. 111–351 substituted “Administrator” for “Director” wherever appearing.
 
 #### Transfer of Functions
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,7 +10,7 @@ The Secretary may waive the provisions of subsection (a) of this section if the 
 
 #### (c) Information
 
-Notwithstanding any other provision of law, each State workers compensation authorityshall, upon request of the Secretary, provide to the Secretary on a quarterly basis information concerning workers compensation benefits received by any covered DOE contractor employee entitled to compensation or benefits under this part, which shall include the name, Social Security number, and nature and amount of workers compensation benefits for each such employee for which the request was made.
+Notwithstanding any other provision of law, each State workers compensation authority shall, upon request of the Secretary, provide to the Secretary on a quarterly basis information concerning workers compensation benefits received by any covered DOE contractor employee entitled to compensation or benefits under this part, which shall include the name, Social Security number, and nature and amount of workers compensation benefits for each such employee for which the request was made.
 
 (Pub. L. 106–398, §1 \[div. C, title XXXVI, §3682\], as added Pub. L. 108–375, div. C, title XXXI, §3161, Oct. 28, 2004, 118 Stat. 2184.)
 

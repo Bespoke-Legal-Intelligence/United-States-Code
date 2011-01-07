@@ -22,7 +22,7 @@ Preservation of Right To Seek Other Employment.—Any termination of employment 
 
 (e)
 
-Limitation on Delegation.—The authority of the Secretary of Defense under this section may be delegated only to the Deputy Secretaryof Defense, the head of an intelligence component of the Department of Defense (with respect to employees of that component), or the Secretary of a military department (with respect to employees of that department). An action to terminate employment of such an employee by any such official may be appealed to the Secretary of Defense.
+Limitation on Delegation.—The authority of the Secretary of Defense under this section may be delegated only to the Deputy Secretary of Defense, the head of an intelligence component of the Department of Defense (with respect to employees of that component), or the Secretary of a military department (with respect to employees of that department). An action to terminate employment of such an employee by any such official may be appealed to the Secretary of Defense.
 
 (Added Pub. L. 104–201, div. A, title XVI, §1632(b), Sept. 23, 1996, 110 Stat. 2748.)
 

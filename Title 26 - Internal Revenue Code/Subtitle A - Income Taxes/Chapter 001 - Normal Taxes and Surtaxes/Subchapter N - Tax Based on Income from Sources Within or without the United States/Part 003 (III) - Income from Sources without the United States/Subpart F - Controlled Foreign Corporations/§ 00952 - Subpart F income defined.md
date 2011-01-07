@@ -132,15 +132,15 @@ The Foreign Corrupt Practices Act of 1977, referred to in subsec. (a), is title 
 
 #### Amendments
 
-2007—Subsec. (b). Pub. L. 110–172 struck out second sentence which read as follows: “For purposes of the preceding sentence, income described in paragraph (2) or (3) of section 921(d) shall be treated as derived from sources within the United States.”
+<b>2007</b>—Subsec. (b). Pub. L. 110–172 struck out second sentence which read as follows: “For purposes of the preceding sentence, income described in paragraph (2) or (3) of section 921(d) shall be treated as derived from sources within the United States.”
 
-2005—Subsec. (c)(1)(B)(ii). Pub. L. 109–135 substituted “subclause (II) or (III) of clause (iii)” for “clause (iii)(III) or (IV)” and “clause (iii)(I)” for “clause (iii)(II)” in concluding provisions.
+<b>2005</b>—Subsec. (c)(1)(B)(ii). Pub. L. 109–135 substituted “subclause (II) or (III) of clause (iii)” for “clause (iii)(III) or (IV)” and “clause (iii)(I)” for “clause (iii)(II)” in concluding provisions.
 
-2004—Subsec. (c)(1)(B)(iii). Pub. L. 108–357 redesignated subcls. (II) to (VI) as (I) to (V), respectively, and struck out former subcl. (I) which read as follows: “foreign base company shipping income,”.
+<b>2004</b>—Subsec. (c)(1)(B)(iii). Pub. L. 108–357 redesignated subcls. (II) to (VI) as (I) to (V), respectively, and struck out former subcl. (I) which read as follows: “foreign base company shipping income,”.
 
-1997—Subsec. (b). Pub. L. 105–34 inserted at end “For purposes of this subsection, any exemption (or reduction) with respect to the tax imposed by section 884 shall not be taken into account.”
+<b>1997</b>—Subsec. (b). Pub. L. 105–34 inserted at end “For purposes of this subsection, any exemption (or reduction) with respect to the tax imposed by section 884 shall not be taken into account.”
 
-1988—Subsec. (c)(1)(B)(ii). Pub. L. 100–647, §1012(i)(24), inserted at end “In determining the deficit attributable to qualified activities described in clause (iii)(III) or (IV), deficits in earnings and profits (to the extent not previously taken into account under this section) for taxable years beginning after 1962 and before 1987 also shall be taken into account. In the case of the qualified activity described in clause (iii)(II), the rule of the preceding sentence shall apply, except that ‘1982’ shall be substituted for ‘1962’.”
+<b>1988</b>—Subsec. (c)(1)(B)(ii). Pub. L. 100–647, §1012(i)(24), inserted at end “In determining the deficit attributable to qualified activities described in clause (iii)(III) or (IV), deficits in earnings and profits (to the extent not previously taken into account under this section) for taxable years beginning after 1962 and before 1987 also shall be taken into account. In the case of the qualified activity described in clause (iii)(II), the rule of the preceding sentence shall apply, except that ‘1982’ shall be substituted for ‘1962’.”
 
 Subsec. (c)(1)(B)(iii)(III) to (VI). Pub. L. 100–647, §1012(i)(22), (23), added subcls. (III) and (IV), redesignated former subcl. (III) as (V) and substituted “insurance income or foreign personal holding company income,” for “insurance income”, and redesignated former subcl. (IV) as (VI).
 
@@ -150,7 +150,7 @@ Subsec. (c)(1)(C). Pub. L. 100–647, §1012(i)(25)(A), added subpar. (C).
 
 Subsec. (c)(3). Pub. L. 100–647, §1012(i)(16), added par. (3).
 
-1986—Subsec. (a). Pub. L. 99–509, §8041(b)(1), added par. (5) and last sentence.
+<b>1986</b>—Subsec. (a). Pub. L. 99–509, §8041(b)(1), added par. (5) and last sentence.
 
 Subsec. (a)(1). Pub. L. 99–514, §1221(b)(3)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the income derived from the insurance of United States risks (as determined under section 953), and”.
 
@@ -178,15 +178,15 @@ Pub. L. 99–514, §1221(f), struck out subsec. (d), special rule in case of ind
 
 > then the earnings and profits for the taxable year of each such foreign corporation which is a controlled foreign corporation shall, with respect to such United States shareholder, be properly reduced to take into account any deficit described in paragraph (2) in such manner as the Secretary shall prescribe by regulations.”
 
-1982—Subsec. (a). Pub. L. 97–248 inserted provision that the payments referred to in par. (4) are payments which would be unlawful under the Foreign Corrupt Practices Act of 1977 if the payor were a United States person.
+<b>1982</b>—Subsec. (a). Pub. L. 97–248 inserted provision that the payments referred to in par. (4) are payments which would be unlawful under the Foreign Corrupt Practices Act of 1977 if the payor were a United States person.
 
-1976—Subsec. (a)(3). Pub. L. 94–455, §1062(a), added par. (3).
+<b>1976</b>—Subsec. (a)(3). Pub. L. 94–455, §1062(a), added par. (3).
 
 Subsec. (a)(4). Pub. L. 94–455, §1065(a)(1), added par. (4).
 
 Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1966—Subsec. (b). Pub. L. 89–809 substituted “In the case of a controlled foreign corporation, subpart F income does not include any item of income from sources within the United States which is effectively connected with the conduct by such corporation of a trade or business within the United States unless such item is exempt from taxation (or is subject to a reduced rate of tax) pursuant to a treaty obligation of the United States” for “Subpart F income does not include any item includible in gross income under this chapter (other than this subpart) as income derived from sources within the United States of a foreign corporation engaged in trade or business in the United States”.
+<b>1966</b>—Subsec. (b). Pub. L. 89–809 substituted “In the case of a controlled foreign corporation, subpart F income does not include any item of income from sources within the United States which is effectively connected with the conduct by such corporation of a trade or business within the United States unless such item is exempt from taxation (or is subject to a reduced rate of tax) pursuant to a treaty obligation of the United States” for “Subpart F income does not include any item includible in gross income under this chapter (other than this subpart) as income derived from sources within the United States of a foreign corporation engaged in trade or business in the United States”.
 
 #### Effective Date of 2004 Amendment
 

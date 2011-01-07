@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—For a default under a guaranteed obligation or related agreement, the Secretary or Administrator may take any action against the obligor or another liable party that the Secretary or Administrator considers necessary to protect the interests of the United States Government. A civil action may be brought in the name of the United States or theobligee. The obligee shall make available to the Government all records and evidence necessary to prosecute the action.
+In General.—For a default under a guaranteed obligation or related agreement, the Secretary or Administrator may take any action against the obligor or another liable party that the Secretary or Administrator considers necessary to protect the interests of the United States Government. A civil action may be brought in the name of the United States or the obligee. The obligee shall make available to the Government all records and evidence necessary to prosecute the action.
 
 (b)
 
@@ -42,9 +42,9 @@ In subsection (a), the words “may take any action” are substituted for “sh
 
 #### Amendments
 
-2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(F). See 2006 Amendment note below.
+<b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(F). See 2006 Amendment note below.
 
 Pub. L. 110–181, §3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(F), into this section by inserting “or Administrator” after “Secretary” wherever appearing. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-2006—Pub. L. 109–163, §3507(a)(1)(F), which directed the amendment of section 1275(e) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–163, §3507(a)(1)(F), which directed the amendment of section 1275(e) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes and Historical and Revision notes above.
 

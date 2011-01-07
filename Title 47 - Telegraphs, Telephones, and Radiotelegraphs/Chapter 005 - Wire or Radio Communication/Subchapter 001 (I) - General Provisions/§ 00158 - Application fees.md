@@ -1702,7 +1702,7 @@ Parts II and III of title III of the Communications Act, referred to in subsec. 
 
 #### Amendments
 
-1994—Subsec. (d)(2). Pub. L. 103–414, §303(a)(3), substituted “payment of an” for “payment of a”.
+<b>1994</b>—Subsec. (d)(2). Pub. L. 103–414, §303(a)(3), substituted “payment of an” for “payment of a”.
 
 Subsec. (g). Pub. L. 103–414, §303(a)(4), substituted “Additional Application Fee” for “Additional Charge” in item 7.f. under heading “
 
@@ -1712,7 +1712,7 @@ Pub. L. 103–414, §302, added item 1.d. under heading “
 
 common carrier services” in Schedule of Application Fees.
 
-1993—Pub. L. 103–66, §6003(a)(2)(A), substituted “Application fees” for “Charges” as section catchline.
+<b>1993</b>—Pub. L. 103–66, §6003(a)(2)(A), substituted “Application fees” for “Charges” as section catchline.
 
 Subsecs. (a) to (e). Pub. L. 103–66, §6003(a)(2)(B)–(D), substituted “application fees” for “charges” and “Schedule of Application Fees” for “Schedule of Charges” wherever appearing, and substituted “application fee” for “charge” in subsec. (c).
 
@@ -1732,13 +1732,13 @@ miscellaneous application fees” for “
 
 miscellaneous charges” in last subheading, and “application fee” for “charge” in two places in text of schedule, to reflect probable intent of Congress.
 
-1992—Subsec. (g). Pub. L. 102–538 in Schedule of Charges added twenty-second category, relating to Low-Earth Orbit Satellite Systems, under heading “
+<b>1992</b>—Subsec. (g). Pub. L. 102–538 in Schedule of Charges added twenty-second category, relating to Low-Earth Orbit Satellite Systems, under heading “
 
 common carrier services”, and substituted “75.00” for “360.00” in item 3.c., relating to inspection of vessels under the Great Lakes Agreement, under heading “
 
 miscellaneous charges”.
 
-1989—Subsec. (a). Pub. L. 101–239, §3001(b)(1), struck out at end “The Schedule of Charges established under this subsection shall be implemented not later than 360 days after April 7, 1986.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §3001(b)(1), struck out at end “The Schedule of Charges established under this subsection shall be implemented not later than 360 days after April 7, 1986.”
 
 Subsec. (b)(1). Pub. L. 101–239, §3001(b)(2), substituted “October 1, 1991” for “April 1, 1987”.
 
@@ -1746,7 +1746,7 @@ Subsec. (d)(1). Pub. L. 101–239, §3001(b)(3), substituted “(A) to governmen
 
 Subsec. (g). Pub. L. 101–239, §3001(a), added subsec. (g).
 
-1988—Subsec. (b)(1). Pub. L. 100–594 substituted “two years after April 1, 1987,” for “two years after April 7, 1986,”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–594 substituted “two years after April 1, 1987,” for “two years after April 7, 1986,”.
 
 #### Effective Date of 1989 Amendment
 

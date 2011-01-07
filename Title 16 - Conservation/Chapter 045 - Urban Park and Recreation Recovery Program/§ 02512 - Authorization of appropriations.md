@@ -22,9 +22,9 @@ In subsec. (a), “section 2505 of this title” was in the original “section 
 
 #### Amendments
 
-1994—Pub. L. 103–322 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>1994</b>—Pub. L. 103–322 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1984—Pub. L. 98–454 substituted “section” for “subsection” after “For the authorizations made in this”.
+<b>1984</b>—Pub. L. 98–454 substituted “section” for “subsection” after “For the authorizations made in this”.
 
 #### “Secretary” Defined
 

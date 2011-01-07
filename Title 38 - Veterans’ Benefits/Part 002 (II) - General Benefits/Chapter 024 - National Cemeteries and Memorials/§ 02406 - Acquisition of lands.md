@@ -6,11 +6,11 @@ As additional lands are needed for national cemeteries, they may be acquired by 
 
 #### Amendments
 
-2004—Pub. L. 108—454 inserted “exchange,” after “agencies,”.
+<b>2004</b>—Pub. L. 108—454 inserted “exchange,” after “agencies,”.
 
-1991—Pub. L. 102–83 renumbered section 1006 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1006 of this title as this section.
 
-1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1986—Pub. L. 99–576 substituted “the Administrator” for “he”.
+<b>1986</b>—Pub. L. 99–576 substituted “the Administrator” for “he”.
 

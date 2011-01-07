@@ -54,7 +54,7 @@ Mar. 3, 1903, ch. 1010, 32 Stat. 1198 (last 43 words of 1st proviso).
 
 In subsection (a) the words “privilege, or advantage to which he shall legally be entitled” are omitted as surplusage, since they are covered by the word “right”. The definition in this subsection is made applicable throughout the chapter to cover §6965 of this title, since the reference in that section to hazing was also derived from the act which is the source for this subsection.
 
-In subsection (b) the words “prescribe regulations to prevent hazing” are substituted for the words “make such rules as will effectually prevent the practice of hazing”.
+In subsection (b) the words “prescribe regulations \* \* \* to prevent hazing” are substituted for the words “make such rules \* \* \* as will effectually prevent the practice of hazing”.
 
 In subsection (c) the words “dealt with” are substituted for the words “proceeded against, dealt with, and punished”. The word “regulations” is substituted for the word “rules” for uniformity and the words “and breaches” are omitted as surplusage. The words “except by sentence of a court-martial” are substituted for the words “except under the provisions of section three of this Act” because §3 of the source statute provided for a Naval Academy court-martial with special provisions for handling cases involving hazing. The enactment of the Uniform Code of Military Justice made midshipmen at the Naval Academy subject to the same military law which applies generally to the naval service, thereby superseding the special type of court-martial for midshipmen. A court-martial under the Uniform Code of Military Justice has the power to sentence anyone convicted by it to dismissal if authorized by the Table of Maximum Punishments.
 
@@ -62,7 +62,7 @@ In subsections (d) and (e) all that part of the source text preceding the provis
 
 #### Amendments
 
-1989—Subsec. (a). Pub. L. 101–189 inserted “, the term” after “In this chapter”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189 inserted “, the term” after “In this chapter”.
 
-1985—Subsec. (e). Pub. L. 99–145 substituted “persons” for “men”.
+<b>1985</b>—Subsec. (e). Pub. L. 99–145 substituted “persons” for “men”.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The privilege of grazing domestic livestock on lands within the park shall continue to be exercised at no more than the current level, subject to applicable laws and National Park Service regulations.
+The privilege of grazing domestic livestock on lands within the park shall continue to be exercised at no more than the current level, subjectto applicable laws and National Park Service regulations.
 
 #### (b) Sale of property
 

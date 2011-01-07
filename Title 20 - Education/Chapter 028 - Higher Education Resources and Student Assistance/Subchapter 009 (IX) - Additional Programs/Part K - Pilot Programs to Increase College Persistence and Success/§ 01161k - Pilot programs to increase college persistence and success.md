@@ -152,7 +152,7 @@ From the amounts appropriated under subsection (i), the Secretary is authorized 
 
 &emsp;&emsp;(B) Work-study jobs with private employers in the students’ fields of study.
 
-&emsp;&emsp;(C) Learning communities that ensure that students participating in the program are clustered together for at least two courses beginning in the first semester after enrolling and have other opportunities to create and maintain bonds that allow themto provide academic and social support to each other.
+&emsp;&emsp;(C) Learning communities that ensure that students participating in the program are clustered together for at least two courses beginning in the first semester after enrolling and have other opportunities to create and maintain bonds that allow them to provide academic and social support to each other.
 
 &emsp;&emsp;(D) Curricular redesign, which may include such innovations as blended or accelerated remediation classes that help student success grant recipients to attain college-level reading, writing, or math skills (or a combination thereof) more rapidly than traditional remediation formats allow, and intensive skills refresher classes, offered prior to each semester, to help students who have tested into remedial coursework to reach entry level assessment scores for the postsecondary programs they wish to enter.
 
@@ -220,7 +220,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### Amendments
 
-2009—Subsec. (d)(5). Pub. L. 111–39, §801(5)(A), inserted “the” before “grant”.
+<b>2009</b>—Subsec. (d)(5). Pub. L. 111–39, §801(5)(A), inserted “the” before “grant”.
 
 Subsec. (f)(2). Pub. L. 111–39, §801(5)(B), substituted “section” for “subpart” in two places.
 

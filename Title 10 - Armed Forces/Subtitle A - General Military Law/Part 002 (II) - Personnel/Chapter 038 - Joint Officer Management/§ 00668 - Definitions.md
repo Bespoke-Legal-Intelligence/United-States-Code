@@ -2,7 +2,7 @@
 
 (a)
 
-Joint Matters.—(1) In this chapter, the term “joint matters” means matters related to the achievement of unified action by multiple military forces in operations conducted across domains such as land, sea, or air, in space, or in the information environment, including matters relating to—
+Joint Matters.—(1) In this chapter, the term “joint matters” means matters related to the achievement of unified action by integrated military forces in operations conducted across domains such as land, sea, or air, in space, or in the information environment, including matters relating to—
 
 &emsp;(A) national military strategy;
 
@@ -10,17 +10,21 @@ Joint Matters.—(1) In this chapter, the term “joint matters” means matters
 
 &emsp;(C) command and control of operations under unified command;
 
-&emsp;(D) national security planning with other departments and agencies of the United States; and
+&emsp;(D) national security planning with other departments and agencies of the United States; or
 
 &emsp;(E) combined operations with military forces of allied nations.
 
-(2) In the context of joint matters, the term “multiple military forces” refers to forces that involve participants from the armed forces and one or more of the following:
+(2) In the context of joint matters, the term “integrated military forces” refers to military forces that are involved in the planning or execution (or both) of operations involving participants from—
 
-&emsp;(A) Other departments and agencies of the United States.
+&emsp;(A) more than one military department; or
 
-&emsp;(B) The military forces or agencies of other countries.
+&emsp;(B) a military department and one or more of the following:
 
-&emsp;(C) Non-governmental persons or entities.
+&emsp;&emsp;(i) Other departments and agencies of the United States.
+
+&emsp;&emsp;(ii) The military forces or agencies of other countries.
+
+&emsp;&emsp;(iii) Non-governmental persons or entities.
 
 (b)
 
@@ -46,11 +50,23 @@ Critical Occupational Specialty.—(1) In this chapter, the term “critical occ
 
 (2) At a minimum, the Secretary of Defense shall designate as a critical occupational specialty under paragraph (1) any military occupational specialty within a combat arms (or the equivalent) that is experiencing a severe shortage of trained officers in that specialty, as determined by the Secretary.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1029; amended Pub. L. 100–180, div. A, title XIII, §§1302(c)(1), 1303(b), Dec. 4, 1987, 101 Stat. 1170, 1172; Pub. L. 100–456, div. A, title V, §519(b), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 108–375, div. A, title V, §534(a), (b), Oct. 28, 2004, 118 Stat. 1901; Pub. L. 109–364, div. A, title V, §519(a)–(c), Oct. 17, 2006, 120 Stat. 2190, 2191.)
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1029; amended Pub. L. 100–180, div. A, title XIII, §§1302(c)(1), 1303(b), Dec. 4, 1987, 101 Stat. 1170, 1172; Pub. L. 100–456, div. A, title V, §519(b), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 108–375, div. A, title V, §534(a), (b), Oct. 28, 2004, 118 Stat. 1901; Pub. L. 109–364, div. A, title V, §519(a)–(c), Oct. 17, 2006, 120 Stat. 2190, 2191; Pub. L. 111–383, div. A, title V, §521, Jan. 7, 2011, 124 Stat. 4214.)
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–364, §519(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “In this chapter, the term ‘joint matters’ means matters relating to the integrated employment of land, sea, and air forces, including matters relating to—
+<b>2011</b>—Subsec. (a)(1). Pub. L. 111–383, §521(1)(A), substituted “integrated” for “multiple” in introductory provisions.
+
+Subsec. (a)(1)(D). Pub. L. 111–383, §521(1)(B), substituted “or” for “and”.
+
+Subsec. (a)(2). Pub. L. 111–383, §521(2), added par. (2) and struck out former par. (2), which read as follows: “In the context of joint matters, the term ‘multiple military forces’ refers to forces that involve participants from the armed forces and one or more of the following:
+
+&emsp;“(A) Other departments and agencies of the United States.
+
+&emsp;“(B) The military forces or agencies of other countries.
+
+&emsp;“(C) Non-governmental persons or entities.”
+
+<b>2006</b>—Subsec. (a). Pub. L. 109–364, §519(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “In this chapter, the term ‘joint matters’ means matters relating to the integrated employment of land, sea, and air forces, including matters relating to—
 
 &emsp;“(1) national military strategy;
 
@@ -62,13 +78,13 @@ Subsec. (b)(1). Pub. L. 109–364, §519(b), substituted provisions limiting the
 
 Subsec. (d). Pub. L. 109–364, §519(c), added subsec. (d).
 
-2004—Subsec. (b)(2). Pub. L. 108–375, §534(a), substituted “a joint duty assignment list” for “a list” in introductory provisions.
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–375, §534(a), substituted “a joint duty assignment list” for “a list” in introductory provisions.
 
 Subsec. (c). Pub. L. 108–375, §534(b), struck out “within the same organization” before “without a break”.
 
-1988—Subsecs. (c), (f). Pub. L. 100–456 redesignated subsec. (f) as (c).
+<b>1988</b>—Subsecs. (c), (f). Pub. L. 100–456 redesignated subsec. (f) as (c).
 
-1987—Subsec. (b)(2). Pub. L. 100–180, §1302(c)(1), inserted “and, of those positions, those that are positions held by general or flag officers and the number of such positions” in subpars. (A) and (B).
+<b>1987</b>—Subsec. (b)(2). Pub. L. 100–180, §1302(c)(1), inserted “and, of those positions, those that are positions held by general or flag officers and the number of such positions” in subpars. (A) and (B).
 
 Subsec. (f). Pub. L. 100–180, §1303(b), added subsec. (f).
 

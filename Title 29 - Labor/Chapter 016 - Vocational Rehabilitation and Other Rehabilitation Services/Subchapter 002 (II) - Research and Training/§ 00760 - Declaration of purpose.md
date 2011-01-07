@@ -36,5 +36,5 @@ A prior section 760, Pub. L. 93–112, title II, §200, Sept. 26, 1973, 87 Stat.
 
 #### Amendments
 
-1998—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, §405, which enacted this section.
+<b>1998</b>—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, §405, which enacted this section.
 

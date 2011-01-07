@@ -66,7 +66,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) ownership of stock in a corporation shall be determined in accordance with the rules provided under subsections (d) and (e) of section 1563 (without regard to section 1563(e)(3)(C)), and
 
-&emsp;&emsp;(B) the interest of an employee in a trade or business which is not incorporated shallbe determined in accordance with regulations prescribed by the Secretary, which shall be based on principles similar to the principles which apply in the case of subparagraph (A).
+&emsp;&emsp;(B) the interest of an employee in a trade or business which is not incorporated shall be determined in accordance with regulations prescribed by the Secretary, which shall be based on principles similar to the principles which apply in the case of subparagraph (A).
 
 #### (7) Time of notice to Secretary
 
@@ -88,13 +88,13 @@ A prior section 120, act Aug. 16, 1954, ch. 736, 68A Stat. 39, related to statut
 
 #### Amendments
 
-2004—Subsec. (d)(4). Pub. L. 108–311 inserted “(determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof)” after “section 152”.
+<b>2004</b>—Subsec. (d)(4). Pub. L. 108–311 inserted “(determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof)” after “section 152”.
 
-1991—Subsec. (e). Pub. L. 102–227 substituted “June 30, 1992” for “December 31, 1991”.
+<b>1991</b>—Subsec. (e). Pub. L. 102–227 substituted “June 30, 1992” for “December 31, 1991”.
 
-1990—Subsec. (e). Pub. L. 101–508 substituted “December 31, 1991” for “September 30, 1990”.
+<b>1990</b>—Subsec. (e). Pub. L. 101–508 substituted “December 31, 1991” for “September 30, 1990”.
 
-1989—Subsec. (b). Pub. L. 101–140, §203(a)(1), amended subsec. (b) to read as if amendments by Pub. L. 99–514, §1151(c)(3), had not been enacted, see 1986 Amendment note below.
+<b>1989</b>—Subsec. (b). Pub. L. 101–140, §203(a)(1), amended subsec. (b) to read as if amendments by Pub. L. 99–514, §1151(c)(3), had not been enacted, see 1986 Amendment note below.
 
 Subsec. (c)(2). Pub. L. 101–140, §203(a)(2), amended par. (2) to read as if amendments by Pub. L. 100–647, §1011B(a)(31)(B), had not been enacted, see 1988 Amendment note below.
 
@@ -102,13 +102,13 @@ Pub. L. 101–140, §203(a)(1), amended par. (2) to read as if amendments by Pub
 
 Subsec. (e). Pub. L. 101–239 substituted “taxable years beginning after September 30, 1990” for “taxable years ending after December 31, 1988”.
 
-1988—Subsec. (a). Pub. L. 100–647, §4002(b)(1), inserted at end “No exclusion shall be allowed under this section with respect to an individual for any taxable year to the extent that the value of insurance (whether through an insurer or self-insurance) against legal costs incurred by the individual (or his spouse or dependents) provided under a qualified group legal services plan exceeds $70.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §4002(b)(1), inserted at end “No exclusion shall be allowed under this section with respect to an individual for any taxable year to the extent that the value of insurance (whether through an insurer or self-insurance) against legal costs incurred by the individual (or his spouse or dependents) provided under a qualified group legal services plan exceeds $70.”
 
 Subsec. (c)(2). Pub. L. 100–647, §1011B(a)(31)(B), substituted “there shall” for “there may” and “who are” for “who may be”.
 
 Subsec. (e). Pub. L. 100–647, §4002(a), substituted “1988” for “1987”.
 
-1986—Subsec. (b). Pub. L. 99–514, §1151(c)(3), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For purposes of this section, a qualified group legal services plan is a separate written plan of an employer for the exclusive benefit of his employees or their spouses or dependents to provide such employees, spouses, or dependents with specified benefits consisting of personal legal services through prepayment of, or provision in advance for, legal fees in whole or in part by the employer, if the plan meets the requirements of subsection (c).”
+<b>1986</b>—Subsec. (b). Pub. L. 99–514, §1151(c)(3), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For purposes of this section, a qualified group legal services plan is a separate written plan of an employer for the exclusive benefit of his employees or their spouses or dependents to provide such employees, spouses, or dependents with specified benefits consisting of personal legal services through prepayment of, or provision in advance for, legal fees in whole or in part by the employer, if the plan meets the requirements of subsection (c).”
 
 Subsec. (c)(1). Pub. L. 99–514, §1114(b)(3)(A), substituted “highly compensated employees (within the meaning of section 414(q))” for “officers, shareholders, self-employed individuals, or highly compensated”.
 
@@ -118,13 +118,13 @@ Subsec. (d)(1). Pub. L. 99–514, §1114(b)(3)(B), struck out reference to self-
 
 Subsec. (e). Pub. L. 99–514, §1162(b), substituted “December 31, 1987” for “December 31, 1985”.
 
-1984—Subsec. (e). Pub. L. 98–612, §1(a), substituted “December 31, 1985” for “December 31, 1984”.
+<b>1984</b>—Subsec. (e). Pub. L. 98–612, §1(a), substituted “December 31, 1985” for “December 31, 1984”.
 
 Subsec. (f). Pub. L. 98–612, §1(b)(3)(A), added subsec. (f).
 
-1983—Subsec. (e). Pub. L. 97–448 substituted “This section and section 501(c)(20) shall not apply” for “This section shall not apply”.
+<b>1983</b>—Subsec. (e). Pub. L. 97–448 substituted “This section and section 501(c)(20) shall not apply” for “This section shall not apply”.
 
-1981—Subsec. (e). Pub. L. 97–34 added subsec. (e).
+<b>1981</b>—Subsec. (e). Pub. L. 97–34 added subsec. (e).
 
 #### Effective Date of 2004 Amendment
 

@@ -124,7 +124,7 @@ In applying this subchapter to a partner in a partnership—
 
 #### (1) In general
 
-&emsp;For purposes of this subchapter, an electing corporation shall be treated as continuing to use a qualifying vessel in the United States foreign trade during any period of temporary use in the United States domestic trade if the electing corporation gives timely notice to the Secretary stating—
+&emsp;For purposes of this subchapter, an electing corporation shall be treated as continuing to use a qualifying vessel in the United Statesforeign trade during any period of temporary use in the United States domestic trade if the electing corporation gives timely notice to the Secretary stating—
 
 &emsp;&emsp;(A) that it temporarily operates or has operated in the United States domestic trade a qualifying vessel which had been used in the United States foreign trade, and
 
@@ -150,7 +150,7 @@ In applying this subchapter to a partner in a partnership—
 
 #### (1) In general
 
-&emsp;If the electing corporation elects (at such time and in such manner as the Secretary mayrequire) to apply this subsection for any taxable year to any qualifying vessel which is used in qualified zone domestic trade during the taxable year—
+&emsp;If the electing corporation elects (at such time and in such manner as the Secretary may require) to apply this subsection for any taxable year to any qualifying vessel which is used in qualified zone domestic trade during the taxable year—
 
 &emsp;&emsp;(A) solely for purposes of subsection (a)(4), such use shall be treated as use in United States foreign trade (and not as use in United States domestic trade), and
 
@@ -208,13 +208,13 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-2006—Subsec. (a)(4). Pub. L. 109–432, §413(a), substituted “6,000” for “10,000 (6,000, in the case of taxable years beginning after December 31, 2005, and ending before January 1, 2011)”.
+<b>2006</b>—Subsec. (a)(4). Pub. L. 109–432, §413(a), substituted “6,000” for “10,000 (6,000, in the case of taxable years beginning after December 31, 2005, and ending before January 1, 2011)”.
 
 Pub. L. 109–222 inserted “(6,000, in the case of taxable years beginning after December 31, 2005, and ending before January 1, 2011)” after “10,000”.
 
 Subsecs. (g), (h). Pub. L. 109–432, §415(a), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-2005—Subsec. (a)(8). Pub. L. 109–135, §403(g)(1)(B), struck out heading and text of par. (8). Text read as follows: “The term ‘charter’ includes an operating agreement.”
+<b>2005</b>—Subsec. (a)(8). Pub. L. 109–135, §403(g)(1)(B), struck out heading and text of par. (8). Text read as follows: “The term ‘charter’ includes an operating agreement.”
 
 Subsec. (b)(1). Pub. L. 109–135, §403(g)(1)(C), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in paragraph (2), a person is treated as operating any vessel during any period if such vessel is—
 
@@ -240,7 +240,7 @@ Pub. L. 109–222, title II, §205(b), May 17, 2006, 120 Stat. 350, provided tha
 
 #### Effective Date of 2005 Amendment
 
-Amendments by Pub. L. 109–135 effective as if included in the provisions of the American Jobs CreationAct of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+Amendments by Pub. L. 109–135 effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

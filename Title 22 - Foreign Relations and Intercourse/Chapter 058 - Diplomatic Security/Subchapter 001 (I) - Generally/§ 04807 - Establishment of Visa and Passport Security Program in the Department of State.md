@@ -24,7 +24,7 @@ There is established, within the Bureau of Diplomatic Security of the Department
 
 &emsp;&emsp;(B) require the development of a strategic training course under the Antiterrorism Assistance Training (ATA) program of the Department of State (or any successor or related program) under chapter 8 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2349aa et seq.) (or other relevant provisions of law) to train participants in the identification of fraudulent documents and the forensic detection of such documents which may be used to obtain unlawful entry into the United States; and
 
-&emsp;&emsp;(C) determine the benefits and costs of providing technical assistance to foreign governments to ensure the security of passports, visas, and related documents and to investigate, arrest, and prosecute individuals who facilitate travel by the creation of false passports and visas, documents to obtain such passports and visas, and other types of travel documents.
+&emsp;&emsp;(C) determine the benefits and costs of providing technical assistance to foreign governments to ensure the security of passports, visas, and related documents and to investigate, arrest, and prosecute individuals who facilitate travel by the creation offalse passports and visas, documents to obtain such passports and visas, and other types of travel documents.
 
 #### (c) Program
 
@@ -77,4 +77,6 @@ The Foreign Assistance Act of 1961, referred to in subsec. (b)(2)(B), is Pub. L.
 #### Codification
 
 Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the 9/11 Commission Implementation Act of 2004, and not as part of the Diplomatic Security Act which comprises this chapter.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

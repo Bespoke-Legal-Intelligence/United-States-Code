@@ -36,7 +36,7 @@ A prior section 2075, Pub. L. 101–513, title II, Nov. 5, 1990, 104 Stat. 1984,
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–29, §1(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “This section may be cited as the ‘North/South Center Act of 1991’.”
+<b>1999</b>—Subsec. (a). Pub. L. 106–29, §1(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “This section may be cited as the ‘North/South Center Act of 1991’.”
 
 Subsec. (c). Pub. L. 106–29, §1(2)(A), amended subsec. heading generally. Prior to amendment, heading read as follows: “North/South Center”.
 
@@ -59,4 +59,6 @@ Short Title.—Any reference in any other provision of law to the North/South Ce
 #### Transfer of Functions
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

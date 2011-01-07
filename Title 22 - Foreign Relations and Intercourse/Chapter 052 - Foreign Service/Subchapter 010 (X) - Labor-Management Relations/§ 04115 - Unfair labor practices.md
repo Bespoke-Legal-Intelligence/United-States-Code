@@ -72,7 +72,7 @@ Issues which can properly be raised under an appeals procedure may not be raised
 
 #### Amendments
 
-1991—Subsec. (d). Pub. L. 102–138 substituted “section 4139(a)(2)” for “section 4139(b)”.
+<b>1991</b>—Subsec. (d). Pub. L. 102–138 substituted “section 4139(a)(2)” for “section 4139(b)”.
 
 #### Effective Date of 1991 Amendment
 

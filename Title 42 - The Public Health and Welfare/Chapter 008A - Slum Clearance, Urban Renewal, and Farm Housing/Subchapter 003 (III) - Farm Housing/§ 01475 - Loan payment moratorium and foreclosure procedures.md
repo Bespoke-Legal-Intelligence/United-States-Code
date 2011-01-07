@@ -12,5 +12,5 @@ In foreclosing on any mortgage held by the Secretary under this subchapter, the 
 
 #### Amendments
 
-1990—Pub. L. 101–625 amended section catchline generally, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
+<b>1990</b>—Pub. L. 101–625 amended section catchline generally, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 

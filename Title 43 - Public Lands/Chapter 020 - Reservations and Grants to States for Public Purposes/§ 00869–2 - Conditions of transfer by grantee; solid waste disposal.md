@@ -18,11 +18,11 @@ Title to lands conveyed by the Government under sections 869 to 869–4 of this 
 
 (6) A conveyance under this subsection shall be subject to the following conditions:
 
-&emsp;(A) Except as otherwise provided in subparagraphs (B) and (D) of this paragraph, the document of conveyance shall provide that the lands conveyed under this subsection shall revert to the United States, unless substantially all of the lands have been used, on or before the date five years after the date of conveyance, for the purpose or purposes specified inthe application, or for other use or uses authorized under subsection (a) of this section with the consent of the Secretary.
+&emsp;(A) Except as otherwise provided in subparagraphs (B) and (D) of this paragraph, the document of conveyance shall provide that the lands conveyed under this subsection shall revert to the United States, unless substantially all of the lands have been used, on or before the date five years after the date of conveyance, for the purpose or purposes specified in the application, or for other use or uses authorized under subsection (a) of this section with the consent of the Secretary.
 
 &emsp;(B) In the event that at any time after such conveyance any portion of such lands has not been used for the purpose or purposes specified in the application, and the party to whom such lands were conveyed by the Secretary shall transfer ownership of such unused portion to any other party, the party to whom such lands were conveyed by the Secretary shall be liable to pay the Secretary, on behalf of the United States, the fair market value of such transferred portion as of the date of such transfer, including the value of any improvements thereon. Subject to appropriations, all amounts received by the Secretary under this subparagraph shall be retained by the Secretary and used for the management of public lands and shall remain available until expended.
 
-&emsp;(C) Pricing for conveyances of land under this subsection shall be in accordance with the provisions of section 869–1 of this title, except that no compensation shall be required for the inclusion of only the limited reverter specified in this paragraph.
+&emsp;(C) Pricing for conveyances of land under this subsection shall be in accordance with the provisions of section 869–1 of this title, exceptthat no compensation shall be required for the inclusion of only the limited reverter specified in this paragraph.
 
 &emsp;(D) Each patent issued under this subsection shall specify that no portion of the lands covered by such patent shall under any circumstances revert to the United States if such portion has been used for solid waste disposal or for any other purpose that the Secretary finds may result in the disposal, placement, or release of any hazardous substance.
 
@@ -46,9 +46,9 @@ Prior provisions on the subject of reverter were formerly contained in section 8
 
 #### Amendments
 
-1988—Pub. L. 100–648 designated existing provision as subsec. (a) and added subsecs. (b) and (c).
+<b>1988</b>—Pub. L. 100–648 designated existing provision as subsec. (a) and added subsecs. (b) and (c).
 
-1959—Pub. L. 86–292 struck out sentence which provided that this section should cease to be in effect as to any lands patented under sections 869 to 869–4 of this title twenty-five years after the issuance of patent for such lands.
+<b>1959</b>—Pub. L. 86–292 struck out sentence which provided that this section should cease to be in effect as to any lands patented under sections 869 to 869–4 of this title twenty-five years after the issuance of patent for such lands.
 
 #### Savings Provisions
 

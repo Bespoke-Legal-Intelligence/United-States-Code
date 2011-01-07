@@ -6,7 +6,7 @@ The Commissioner of Indian Affairs shall have the custody of said seal, and shal
 
 #### Amendments
 
-1972—Pub. L. 92–310 struck out provisions which required the receiving clerk to give a bond in the sum of $1,000.
+<b>1972</b>—Pub. L. 92–310 struck out provisions which required the receiving clerk to give a bond in the sum of $1,000.
 
 #### Transfer of Functions
 

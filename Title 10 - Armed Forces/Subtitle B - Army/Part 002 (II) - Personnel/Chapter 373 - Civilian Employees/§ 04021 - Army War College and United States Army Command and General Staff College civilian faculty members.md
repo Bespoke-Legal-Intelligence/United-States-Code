@@ -22,5 +22,5 @@ A prior section 4021, act Aug. 10, 1956, ch. 1041, 70A Stat. 233, related to app
 
 #### Amendments
 
-2001—Subsec. (c)(1). Pub. L. 107–107 substituted “November 29, 1989” for “the date of the enactment of this section”.
+<b>2001</b>—Subsec. (c)(1). Pub. L. 107–107 substituted “November 29, 1989” for “the date of the enactment of this section”.
 

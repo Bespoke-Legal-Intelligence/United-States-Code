@@ -86,9 +86,9 @@ In approving applications made under section 254f of this title for the assignme
 
 #### Amendments
 
-2003—Subsec. (c)(4). Pub. L. 108–163 substituted “30 days from such notification” for “30 days”.
+<b>2003</b>—Subsec. (c)(4). Pub. L. 108–163 substituted “30 days from such notification” for “30 days”.
 
-2002—Subsec. (a)(1)(A). Pub. L. 107–251, §304(1), struck out “, as determined in accordance with subsection (b) of this section” after “such shortage”.
+<b>2002</b>—Subsec. (a)(1)(A). Pub. L. 107–251, §304(1), struck out “, as determined in accordance with subsection (b) of this section” after “such shortage”.
 
 Subsec. (b). Pub. L. 107–251, §304(2), (7), redesignated subsec. (c) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “In making a determination under subsection (a)(1)(A) of this section of the health professional shortage areas with the greatest such shortages, the Secretary may consider only the following factors:
 
@@ -120,7 +120,7 @@ Subsec. (d)(3). Pub. L. 107–251, §304(4)(D), added par. (3) and struck out he
 
 “(A) Not later than 30 days after the preparation of each list under paragraph (1), the Secretary shall notify entities specified for purposes of subparagraph (A) of such paragraph of the fact that the entities have been provided an authorization to receive assignments of Corps members in the event that Corps members are available for the assignments.
 
-“(B) In the case of individuals with respect to whom a period of obligated service under the Scholarship Program will begin during the period under subsection (f) of this section for which a list under paragraph (1) is prepared, the Secretary shall, not later than 30 days after the preparation of each such list, provide to such individuals the names of each of the entities specified for purposes of paragraph (1)(B)(i) that is appropriate to the medical specialty of the individuals.”
+“(B) In the case of individuals with respect to whom a period of obligated service under the Scholarship Program will begin during the period under subsection (f) of this section for which a list under paragraph (1) isprepared, the Secretary shall, not later than 30 days after the preparation of each such list, provide to such individuals the names of each of the entities specified for purposes of paragraph (1)(B)(i) that is appropriate to the medical specialty of the individuals.”
 
 Pub. L. 107–251, §304(4)(A), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
@@ -134,7 +134,7 @@ Pub. L. 107–251, §304(5), added subsec. (e) and struck out heading and text o
 
 Subsec. (f). Pub. L. 107–251, §304(6), struck out heading and text of subsec. (f), which related to applicable period regarding priorities in assignment of Corps members.
 
-1990—Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing in subsecs. (a) to (c)(1), (d)(1), and (e)(3).
+<b>1990</b>—Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing in subsecs. (a) to (c)(1), (d)(1), and (e)(3).
 
 #### Effective Date of 2003 Amendment
 

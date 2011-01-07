@@ -100,17 +100,17 @@ June 30, 1954, ch. 432, title VII, §731, 68 Stat. 356.
 
 #### Amendments
 
-2001—Subsec. (b)(3). Pub. L. 107–107 struck out “a reserve component of” before “an armed force”.
+<b>2001</b>—Subsec. (b)(3). Pub. L. 107–107 struck out “a reserve component of” before “an armed force”.
 
-1996—Subsec. (b)(6)(A)(ii). Pub. L. 104–106 substituted “a duration” for “not less than six weeks’ duration”.
+<b>1996</b>—Subsec. (b)(6)(A)(ii). Pub. L. 104–106 substituted “a duration” for “not less than six weeks’ duration”.
 
-1984—Subsec. (a). Pub. L. 98–525, §543(a)(1), struck out “, who have at least two academic years remaining at such educational institution” after “in the program”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–525, §543(a)(1), struck out “, who have at least two academic years remaining at such educational institution” after “in the program”.
 
 Subsec. (b)(6). Pub. L. 98–525, §543(a)(2), inserted initial word “either”, redesignated existing subpars. (A) and (B) as cls. (i) and (ii) of subpar. (A), and added subpar. (B).
 
 Subsec. (b)(7). Pub. L. 98–525, §1401(h), added par. (7).
 
-1983—Subsec. (a). Pub. L. 98–94 substituted “who have at least two academic years” for “who have two academic years”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–94 substituted “who have at least two academic years” for “who have two academic years”.
 
 #### Effective Date of 1984 Amendment
 

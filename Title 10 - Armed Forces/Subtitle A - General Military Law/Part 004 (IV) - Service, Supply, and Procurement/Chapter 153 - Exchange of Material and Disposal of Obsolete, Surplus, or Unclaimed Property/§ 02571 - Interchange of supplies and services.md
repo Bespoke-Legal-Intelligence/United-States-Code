@@ -50,17 +50,17 @@ Act
 
 June 15, 1955, ch. 142, 69 Stat. 134.
 
-In subsection (a), the first 12 words are substituted for 14:640 (last 20 words). The words “may be transferred” are substituted for the words “The interchange . . . is authorized”, since the words “without compensation” authorize a simple one-way transfer, while the word “interchange” normally means a mutual exchange. The words “military stores . . . and equipment of every character” are omitted as covered by the word “supplies” as defined in section 101(26) of this title. The words “armed force” are substituted for the enumeration of the armed forces.
+In subsection (a), the first 12 words are substituted for 14:640 (last 20 words). The words “may be transferred” are substituted for the words “The interchange. . . is authorized”, since the words “without compensation” authorize a simple one-way transfer, while the word “interchange” normally means a mutual exchange. The words “military stores . . . and equipment of every character” are omitted as covered by the word “supplies” as defined in section 101(26) of this title. The words “armed force” are substituted for the enumeration of the armed forces.
 
 #### Amendments
 
-2006—Pub. L. 109–364, §2825(d)(1)(A), substituted “supplies” for “property” in section catchline.
+<b>2006</b>—Pub. L. 109–364, §2825(d)(1)(A), substituted “supplies” for “property” in section catchline.
 
 Subsec. (a). Pub. L. 109–364, §2825(c)(1), struck out “and real estate” after “supplies”.
 
-1985—Subsec. (d). Pub. L. 99–167 added subsec. (d).
+<b>1985</b>—Subsec. (d). Pub. L. 99–167 added subsec. (d).
 
-1958—Pub. L. 85–861, §1(49)(A), substituted “property” for “supplies” in section catchline.
+<b>1958</b>—Pub. L. 85–861, §1(49)(A), substituted “property” for “supplies” in section catchline.
 
 Subsecs. (a) to (c). Pub. L. 85–861, §1(49)(B), (C), added subsec. (a) and redesignated former subsecs. (a) and (b) as (b) and (c), respectively.
 

@@ -70,7 +70,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §2403, amended section generally. Prior to amendment, section related to establishment of a grassland reserve program, enrollment of a maximum of 2,000,000 acres of restored or improved grassland, rangeland, and pastureland, methods of enrollment, limitation on use of easements and rental agreements, and determination by Secretary of eligibility of land.
+<b>2008</b>—Pub. L. 110–246, §2403, amended section generally. Prior to amendment, section related to establishment of a grassland reserve program, enrollment of a maximum of 2,000,000 acres of restored or improved grassland, rangeland, and pastureland, methods of enrollment, limitation on use of easements and rental agreements, and determination by Secretary of eligibility of land.
 
 #### Effective Date of 2008 Amendment
 

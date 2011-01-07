@@ -4,7 +4,3 @@ The quitclaim or relinquishment of all right, title, and interest by the State t
 
 (Aug. 13, 1954, ch. 727, §4, 68 Stat. 703.)
 
-#### References in Text
-
-The public-land laws, referred to in text, are classified generally to this title.
-

@@ -26,9 +26,9 @@ In this chapter:
 
 #### Amendments
 
-2003—Par. (5). Pub. L. 108–136 added par. (5).
+<b>2003</b>—Par. (5). Pub. L. 108–136 added par. (5).
 
-1997—Par. (4). Pub. L. 105–85 inserted “and” at end of subpar. (A), substituted “geodetic data, and related products.” for “and geodetic data; and” in subpar. (B), and struck out subpar. (C) which read as follows: “geodetic products, as defined in section 455(c) of this title.”
+<b>1997</b>—Par. (4). Pub. L. 105–85 inserted “and” at end of subpar. (A), substituted “geodetic data, and related products.” for “and geodetic data; and” in subpar. (B), and struck out subpar. (C) which read as follows: “geodetic products, as defined in section 455(c) of this title.”
 
 #### Effective Date
 

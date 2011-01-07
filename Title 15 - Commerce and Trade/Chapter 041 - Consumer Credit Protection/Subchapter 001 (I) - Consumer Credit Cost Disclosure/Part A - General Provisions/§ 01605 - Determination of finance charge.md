@@ -32,7 +32,7 @@ Charges or premiums for insurance, written in connection with any consumer credi
 
 If any of the following items is itemized and disclosed in accordance with the regulations of the Board in connection with any transaction, then the creditor need not include that item in the computation of the finance charge with respect to that transaction:
 
-&emsp;(1) Fees and charges prescribed by law which actually are or will be paid to public officialsfor determining the existence of or for perfecting or releasing or satisfying any security related to the credit transaction.
+&emsp;(1) Fees and charges prescribed by law which actually are or will be paid to public officials for determining the existence of or for perfecting or releasing or satisfying any security related to the credit transaction.
 
 &emsp;(2) The premium payable for any insurance in lieu of perfecting any security interest otherwise required by the creditor in connection with the transaction, if the premium does not exceed the fees and charges described in paragraph (1) which would otherwise be payable.
 
@@ -76,11 +76,15 @@ In connection with credit transactions not under an open end credit plan that ar
 
 > &emsp;&emsp;if the amount disclosed as the finance charge does not vary from the actual finance charge by more than an amount equal to one percent of the total amount of credit extended.
 
-(Pub. L. 90–321, title I, §106, May 29, 1968, 82 Stat. 148; Pub. L. 96–221, title VI §606, Mar. 31, 1980, 94 Stat. 170; Pub. L. 104–29, §§2(a), (b)(1), (c)–(e), 3(a), Sept. 30, 1995, 109 Stat. 271, 272.)
+(Pub. L. 90–321, title I, §106, May 29, 1968, 82 Stat. 148; Pub. L. 96–221, title VI §606, Mar. 31, 1980, 94 Stat. 170; Pub. L. 104–29, §§2(a), (b)(1), (c)–(e), 3(a), Sept. 30, 1995, 109 Stat. 271, 272; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-1995—Subsec. (a). Pub. L. 104–29, §2(a), in introductory provisions inserted after second sentence “The finance charge shall not include fees and amounts imposed by third party closing agents (including settlement agents, attorneys, and escrow and title companies) if the creditor does not require the imposition of the charges or the services provided and does not retain the charges.”
+<b>1995</b>—Subsec. (a). Pub. L. 104–29, §2(a), in introductory provisions inserted after second sentence “The finance charge shall not include fees and amounts imposed by third party closing agents (including settlement agents, attorneys, and escrow and title companies) if the creditor does not require the imposition of the charges or the services provided and does not retain the charges.”
 
 Subsec. (a)(6). Pub. L. 104–29, §2(b)(1), added par. (6).
 
@@ -92,9 +96,13 @@ Subsec. (e)(5). Pub. L. 104–29, §2(e), inserted before period “, including
 
 Subsec. (f). Pub. L. 104–29, §3(a), added subsec. (f).
 
-1980—Subsec. (a). Pub. L. 96–221, §606(a), inserted provisions excluding charges of a type payable in comparable cash transactions and indicated that pars. (1) to (5) are examples of charges.
+<b>1980</b>—Subsec. (a). Pub. L. 96–221, §606(a), inserted provisions excluding charges of a type payable in comparable cash transactions and indicated that pars. (1) to (5) are examples of charges.
 
 Subsec. (d). Pub. L. 96–221, §606(b), struck out pars. (3) and (4) setting forth applicability to taxes and any other type of charge, respectively.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1995 Amendment
 

@@ -6,7 +6,7 @@ If in its judgment training is not adequately provided for under grant-in-aid or
 
 #### (b) Application; time of making; information; terms and conditions; waiver; development costs
 
-An application for a grant from a State or general local government shall be made at suchtime or times, and shall contain such information, as the Office may prescribe. The Office may make a grant under subsection (a) of this section, only if the application therefor meets requirements established by this subsection unless any requirement is specifically waived by the Office. Such grant to a State, or to a general local government under subsection (c) of this section, may cover the costs of developing the program covered by the application. The program covered by the application shall—
+An application for a grant from a State or general local government shall be made at such time or times, and shall contain such information, as the Office may prescribe. The Office may make a grant under subsection (a) of this section, only if the application therefor meets requirements established by this subsection unless any requirement is specifically waived by the Office. Such grant to a State, or to a general local government under subsection (c) of this section, may cover the costs of developing the program covered by the application. The program covered by the application shall—
 
 &emsp;(1) provide for designation, by the Governor or chief executive authority, of the State office that will have primary authority and responsibility for the development and administration of the program at the State level;
 
@@ -35,6 +35,8 @@ An application to be submitted to the Office under subsection (c) of this sectio
 (Pub. L. 91–648, title III, §303, Jan. 5, 1971, 84 Stat. 1917; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
 
 #### References in Text
+
+This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning Pub. L. 91–648, Jan.5, 1971, 84 Stat. 1909, known as the Intergovernmental Personnel Act of 1970, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of this title and Tables.
 
 For effective date of the grant provisions of this chapter, referred to in subsecs. (a) and (c), as being 180 days after Jan. 5, 1971, see section 4772 of this title.
 

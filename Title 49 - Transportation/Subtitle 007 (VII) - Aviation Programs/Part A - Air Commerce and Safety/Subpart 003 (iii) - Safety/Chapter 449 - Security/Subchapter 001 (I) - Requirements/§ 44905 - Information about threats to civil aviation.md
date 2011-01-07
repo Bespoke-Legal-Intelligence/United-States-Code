@@ -44,7 +44,7 @@ Limitation on Notice to Selective Travelers.—Notice of a threat to civil aviat
 
 (f)
 
-Restricting Access to Information.—In cooperation with the departments, agencies, and instrumentalities of the Government that collect, receive, and analyze intelligence information related to aviation security, the Under Secretary shall develop procedures to minimize the number of individuals who have access to information about threats. However, a restriction on access to that information may be imposed only if the restriction does not diminish the ability of the Government to carry out its duties and powers related to aviation security effectively, including providing notice to the public and flight and cabin crews under this section.
+Restricting Access to Information.—In cooperation with the departments, agencies, andinstrumentalities of the Government that collect, receive, and analyze intelligence information related to aviation security, the Under Secretary shall develop procedures to minimize the number of individuals who have access to information about threats. However, a restriction on access to that information may be imposed only if the restriction does not diminish the ability of the Government to carry out its duties and powers related to aviation security effectively, including providing notice to the public and flight and cabin crews under this section.
 
 (g)
 
@@ -108,7 +108,7 @@ In subsection (f), the words “departments, agencies, and instrumentalities of 
 
 #### Amendments
 
-2001—Subsec. (b). Pub. L. 107–71, §101(f)(7), (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
+<b>2001</b>—Subsec. (b). Pub. L. 107–71, §101(f)(7), (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
 
 Subsecs. (c)(2)(E), (G), (d), (f). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator”.
 

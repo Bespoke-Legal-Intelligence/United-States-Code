@@ -66,15 +66,15 @@ Except as otherwise provided in regulations, for purposes of—
 
 #### Amendments
 
-2007—Subsecs. (f), (g). Pub. L. 110–28 added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>2007</b>—Subsecs. (f), (g). Pub. L. 110–28 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1986—Subsec. (e). Pub. L. 99–514 substituted “Distributions of partnership interests” for “Distributions” in heading, substituted “Except as otherwise provided in regulations, for purposes of” for “For purposes of” in introductory provision, and “any distribution of an interest in a partnership” for “any distribution” in closing provisions.
+<b>1986</b>—Subsec. (e). Pub. L. 99–514 substituted “Distributions of partnership interests” for “Distributions” in heading, substituted “Except as otherwise provided in regulations, for purposes of” for “For purposes of” in introductory provision, and “any distribution of an interest in a partnership” for “any distribution” in closing provisions.
 
-1984—Subsecs. (e), (f). Pub. L. 98–369 added subsec. (e) and redesignated former subsec. (e) as (f).
+<b>1984</b>—Subsecs. (e), (f). Pub. L. 98–369 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1980—Subsec. (a)(3). Pub. L. 96–222 added par. (3).
+<b>1980</b>—Subsec. (a)(3). Pub. L. 96–222 added par. (3).
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (e). Pub. L. 94–455, §213(c)(3)(B), added subsec. (e).
 

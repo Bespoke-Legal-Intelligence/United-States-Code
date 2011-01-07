@@ -206,7 +206,7 @@
 
 #### (5) Consultation
 
-&emsp;Each organization carrying out a program receiving assistance under this subsectionshall consult with appropriate agencies that serve or assist individuals with disabilities, and the parents, family members, guardians, advocates, or authorized representatives of the individuals, located in the jurisdiction served by the program.
+&emsp;Each organization carrying out a program receiving assistance under this subsection shall consult with appropriate agencies that serve or assist individuals with disabilities, and the parents, family members, guardians, advocates, or authorized representatives of the individuals, located in the jurisdiction served by the program.
 
 #### (6) Coordination
 
@@ -262,7 +262,7 @@ A prior section 303 of Pub. L. 93–112 was classified to section 772 of this ti
 
 #### Amendments
 
-2004—Subsec. (c)(4)(A)(ii). Pub. L. 108–446, §305(h)(6), substituted “section 1471” for “section 1482(a)”.
+<b>2004</b>—Subsec. (c)(4)(A)(ii). Pub. L. 108–446, §305(h)(6), substituted “section 1471” for “section 1482(a)”.
 
 Subsec. (c)(6). Pub. L. 108–446, §305(h)(5), substituted “section 1471” for “section 1482(a)”.
 

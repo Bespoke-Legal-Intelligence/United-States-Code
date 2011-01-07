@@ -12,7 +12,7 @@ Such Board shall be composed of at least nine members, one of whom shall be desi
 
 (1) The Administrator, at the time any proposed criteria document, standard, limitation, or regulation under the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Resource Conservation and Recovery Act of 1976 \[42 U.S.C. 6901 et seq.\], the Noise Control Act \[42 U.S.C. 4901 et seq.\], the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\], or the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\], or under any other authority of the Administrator, is provided to any other Federal agency for formal review and comment, shall make available to the Board such proposed criteria document, standard, limitation, or regulation, together with relevant scientific and technical information in the possession of the Environmental Protection Agency on which the proposed action is based.
 
-(2) The Board may make available to the Administrator, within the time specified by the Administrator, its advice and comments on the adequacy of the scientific and technical basis of the proposed criteria document, standard, limitation, or regulation, together with any pertinent information in the Board's possession.
+(2) The Board may make available to the Administrator, within the time specified by the Administrator, its advice and comments on theadequacy of the scientific and technical basis of the proposed criteria document, standard, limitation, or regulation, together with any pertinent information in the Board's possession.
 
 #### (d) Utilization of technical and scientific capabilities of Federal agencies and national environmental laboratories for determining adequacy of scientific and technical basis of proposed criteria document, etc.
 
@@ -40,7 +40,7 @@ The Clean Air Act, referred to in subsec. (c)(1), is act July 14, 1955, ch. 360,
 
 The Federal Water Pollution Control Act, referred to in subsec. (c)(1), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Resource Conservation and Recovery Act of 1976, referred to in subsec. (c)(1), is Pub. L. 94–580, Oct. 21, 1976, 90 Stat. 2796, as amended, which is classified generally to chapter 82 (§6901 et seq.) of this title. Forcomplete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 6901 of this title and Tables.
+The Resource Conservation and Recovery Act of 1976, referred to in subsec. (c)(1), is Pub. L. 94–580, Oct. 21, 1976, 90 Stat. 2796, as amended, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 6901 of this title and Tables.
 
 The Noise Control Act, referred to in subsec. (c)(1), probably means the Noise Control Act of 1972, Pub. L. 92–574, Oct. 27, 1972, 86 Stat. 1234, as amended, which is classified principally to chapter 65 (§4901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4901 of this title and Tables.
 
@@ -54,19 +54,19 @@ Section was enacted as part of the Environmental Research, Development, and Demo
 
 #### Amendments
 
-1995—Subsecs. (c) to (i). Pub. L. 104–66 redesignated subsecs. (e) to (i) as (c) to (g), respectively, and struck out former subsec. (c) which read as follows: “In addition to providing scientific advice when requested by the Administrator under subsection (a) of this section, the Board shall review and comment on the Administration's five-year plan for environmental research, development, and demonstration provided for by section 4361 of this title and on each annual revision thereof. Such review and comment shall be transmitted to the Congress by the Administrator, together with his comments thereon, at the time of the transmission to the Congress of the annual revision involved.”
+<b>1995</b>—Subsecs. (c) to (i). Pub. L. 104–66 redesignated subsecs. (e) to (i) as (c) to (g), respectively, and struck out former subsec. (c) which read as follows: “In addition to providing scientific advice when requested by the Administrator under subsection (a) of this section, the Board shall review and comment on the Administration's five-year plan for environmental research, development, and demonstration provided for by section 4361 of this title and on each annual revision thereof. Such review and comment shall be transmitted to the Congress by the Administrator, together with his comments thereon, at the time of the transmission to the Congress of the annual revision involved.”
 
-1994—Subsec. (a). Pub. L. 103–437, §15(<i>o</i>)(1), substituted “Committee on Science, Space, and Technology, on Energy and Commerce, or on” for “Committees on Science and Technology, Interstate and Foreign Commerce, or”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–437, §15(<i>o</i>)(1), substituted “Committee on Science, Space, and Technology, on Energy and Commerce, or on” for “Committees on Science and Technology, Interstate and Foreign Commerce, or”.
 
 Subsec. (d). Pub. L. 103–437, §15(<i>o</i>)(2), struck out subsec. (d) which related to review and report to Administrator, President, and Congress on health effects research.
 
-1980—Subsec. (a). Pub. L. 96–569 inserted provisions relating to requests by the enumerated Congressional committees.
+<b>1980</b>—Subsec. (a). Pub. L. 96–569 inserted provisions relating to requests by the enumerated Congressional committees.
 
 #### Change of Name
 
 Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives byHouse Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
 

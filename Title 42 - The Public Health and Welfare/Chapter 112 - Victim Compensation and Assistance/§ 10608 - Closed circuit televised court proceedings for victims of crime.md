@@ -62,3 +62,5 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (a), are set out
 
 This section was enacted as part of the Justice for Victims of Terrorism Act of 1996, and also as part of the Antiterrorism and Effective Death Penalty Act of 1996, and not as part of the Victims of Crime Act of 1984 which comprises this chapter.
 
+<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
+

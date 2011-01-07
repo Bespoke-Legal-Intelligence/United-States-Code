@@ -10,13 +10,13 @@ Sections 4495 to 4498 of title 26, referred to in text, were in the original “
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–283, June 28, 1980, 94 Stat. 553, as amended, known as the Deep Seabed Hard Mineral Resources Act, which is classified principally to this chapter (§1401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
 
-The customs or tariff laws of the United States, referred to in text, are classified generally to Title 19, Customs Duties.
-
 #### Codification
 
 Section was enacted as part of title IV of Pub. L. 96–283, and not as part of title III of Pub. L. 96–283 which comprises this subchapter.
 
 #### Amendments
 
-1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

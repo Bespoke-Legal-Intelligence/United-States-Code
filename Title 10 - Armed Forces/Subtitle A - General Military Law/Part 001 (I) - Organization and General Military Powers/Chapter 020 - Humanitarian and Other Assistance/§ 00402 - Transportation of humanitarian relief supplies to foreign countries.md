@@ -36,7 +36,7 @@ A prior section 402 was renumbered section 401(b) of this title.
 
 #### Amendments
 
-2003—Subsec. (b)(1)(C). Pub. L. 108–136, §312(b)(1), inserted “or entity” after “people”.
+<b>2003</b>—Subsec. (b)(1)(C). Pub. L. 108–136, §312(b)(1), inserted “or entity” after “people”.
 
 Subsec. (b)(1)(E). Pub. L. 108–136, §312(b)(2), inserted “or use” after “distribution”.
 
@@ -44,11 +44,11 @@ Subsec. (b)(3). Pub. L. 108–136, §312(b)(3), substituted “entity requesting
 
 Subsecs. (d), (e). Pub. L. 108–136, §312(a), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1999—Subsec. (d). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsec. (d). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-1996—Subsec. (d). Pub. L. 104–106 substituted “Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations” for “Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and Foreign Affairs”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–106 substituted “Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations” for “Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and Foreign Affairs”.
 
-1990—Subsec. (d). Pub. L. 101–510 substituted “Not later than July 31 each year” for “At the end of each six-month period” and “the 12-month period ending on the preceding June 30” for “such six-month period”.
+<b>1990</b>—Subsec. (d). Pub. L. 101–510 substituted “Not later than July 31 each year” for “At the end of each six-month period” and “the 12-month period ending on the preceding June 30” for “such six-month period”.
 
 #### Change of Name
 

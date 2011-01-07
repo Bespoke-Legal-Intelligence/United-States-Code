@@ -12,11 +12,9 @@
 
 #### Amendments
 
-2006—Pub. L. 109–364, div. A, title X, §1071(a)(18), Oct. 17, 2006, 120 Stat. 2399, inserted period at end of item 2481.
+<b>2006</b>—Pub. L. 109–364, div. A, title X, §1071(a)(18), Oct. 17, 2006, 120 Stat. 2399, inserted period at end of item 2481.
 
-2004—Pub. L. 108–375, div. A, title VI, §651(a)(3), Oct. 28, 2004, 118 Stat. 1964, added subchapter heading and items 2481 to 2485.
-
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+<b>2004</b>—Pub. L. 108–375, div. A, title VI, §651(a)(3), Oct. 28, 2004, 118 Stat. 1964, added subchapter heading and items 2481 to 2485.
 
 
 ---

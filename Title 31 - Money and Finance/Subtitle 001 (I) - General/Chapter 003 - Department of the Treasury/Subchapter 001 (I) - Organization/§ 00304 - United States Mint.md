@@ -36,7 +36,7 @@ In subsection (b)(2), the words “The Director shall carry out duties and power
 
 #### Amendments
 
-1992—Pub. L. 102–390, §225(b)(2), substituted “United States Mint” for “Bureau of the Mint” in section catchline.
+<b>1992</b>—Pub. L. 102–390, §225(b)(2), substituted “United States Mint” for “Bureau of the Mint” in section catchline.
 
 Subsec. (a). Pub. L. 102–390, §225(a), substituted “United States Mint” for “Bureau of the Mint”.
 

@@ -30,7 +30,7 @@ A primary nonferrous smelter order under this section may be issued to a primary
 
 #### (c) Second orders
 
-(1) A second order issued to a smelter under this section shall set forth compliance schedules containing increments of progress which require compliance with the requirement postponed as expeditiously as practicable. The increments of progress shall be limited to requiring compliance with subsection (d) of this section and, in the case of a second order, to procuring, installing, and operating the necessary means of emission limitation as expeditiously as practicable after the Administrator determines such means have been adequately demonstrated to be reasonably available within the meaning of subsection (b)(3) of this section.
+(1) A second order issued to a smelter under this section shall set forth compliance schedules containing increments of progress which require compliance with the requirement postponed as expeditiously as practicable. The increments of progress shall be limited to requiring compliance with subsection (d) of this section and, in the case of a second order, to procuring, installing, and operating the necessary means of emission limitation as expeditiously as practicable after the Administrator determines such meanshave been adequately demonstrated to be reasonably available within the meaning of subsection (b)(3) of this section.
 
 (2) Not in excess of two primary nonferrous smelter orders may be issued under this section to any primary nonferrous smelter. The first such order issued to a smelter shall not result in the postponement of the requirement with respect to which such order is issued beyond January 1, 1983. The second such order shall not result in the postponement of such requirement beyond January 1, 1988.
 
@@ -76,7 +76,7 @@ If the Administrator determines that a smelter to which an order is issued under
 
 #### References in Text
 
-Section 7413(d) of this title, referred to in subsec. (a)(2)(A), was amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, no longer relates to final compliance orders.
+Section 7413(d) of this title, referred to in subsec. (a)(2)(A), was amended generally by Pub. L. 101–549,title VII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, no longer relates to final compliance orders.
 
 #### Prior Provisions
 
@@ -84,7 +84,7 @@ A prior section 119 of act July 14, 1955, ch. 360, title I, as added June 22, 19
 
 #### Amendments
 
-1977—Subsec. (a)(3). Pub. L. 95–190, §14(a)(25), added par. (3).
+<b>1977</b>—Subsec. (a)(3). Pub. L. 95–190, §14(a)(25), added par. (3).
 
 Subsec. (d)(3). Pub. L. 95–190, §14(a)(26), substituted “7621” for “7619”.
 

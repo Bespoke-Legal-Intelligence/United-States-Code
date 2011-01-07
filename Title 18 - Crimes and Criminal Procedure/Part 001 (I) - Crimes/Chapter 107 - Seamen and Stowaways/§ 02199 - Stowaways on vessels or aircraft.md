@@ -14,7 +14,7 @@ Whoever, with intent to obtain a ride or transportation, boards or enters any ai
 
 The word “aircraft” as used in this section includes any contrivance for navigation or flight in the air.
 
-(June 25, 1948, ch. 645, 62 Stat. 802; Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat.3498; Pub. L. 109–177, title III, §308, Mar. 9, 2006, 120 Stat. 241.)
+(June 25, 1948, ch. 645, 62 Stat. 802; Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 109–177, title III, §308, Mar. 9, 2006, 120 Stat. 241.)
 
 #### Historical and Revision Notes
 
@@ -34,7 +34,7 @@ Sections 471 and 474 of title 18, U.S.C., 1940 ed., were omitted as obviously un
 
 #### Amendments
 
-2006—Pub. L. 109–177 added pars. (1) to (3) and struck out former fourth undesignated par. which read as follows: “Shall be fined under this title or imprisoned not more than one year, or both.”
+<b>2006</b>—Pub. L. 109–177 added pars. (1) to (3) and struck out former fourth undesignated par. which read as follows: “Shall be fined under this title or imprisoned not more than one year, or both.”
 
-1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000” in fourth undesignated par.
+<b>1996</b>—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000” in fourth undesignated par.
 

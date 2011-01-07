@@ -24,7 +24,7 @@ Subsection (b) of this section shall not apply to any authority exercised under 
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–272, §4(h)(1), added subsec. (a) and struck out former subsec. (a) which related to reports to Congress by Federal agencies, feasibility of additional savings in energy consumption, and administration of laws permitting inefficient use of energy.
+<b>1994</b>—Subsec. (a). Pub. L. 103–272, §4(h)(1), added subsec. (a) and struck out former subsec. (a) which related to reports to Congress by Federal agencies, feasibility of additional savings in energy consumption, and administration of laws permitting inefficient use of energy.
 
 Subsec. (b). Pub. L. 103–272, §4(h)(2), substituted “subsection (a)” for “subsection (a)(1)”.
 

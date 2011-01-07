@@ -18,7 +18,7 @@ Rule 41(f), referred to in text, was redesignated 41(g) by 1972 amendment eff. O
 
 #### Amendments
 
-1968—Pub. L. 90–578 substituted “Magistrates” for “Commissioners”.
+<b>1968</b>—Pub. L. 90–578 substituted “Magistrates” for “Commissioners”.
 
 #### Change of Name
 

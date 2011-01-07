@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-In general.—Except as otherwise provided in this chapter, the provisions specified in section 3034(a)(1) shall apply to the provision of educational assistance under this chapter.
+In general.—Except as otherwise provided in this chapter, the provisions specified in sections 3034(a)(1) and 3680(c) shall apply to the provision of educational assistance under this chapter.
 
 &emsp;(2)
 
@@ -38,7 +38,7 @@ Description of information.—The information described in this paragraph is inf
 
 &emsp;(3)
 
-To whom provided.—The Secretary of Veterans Affairs shall furnish the informationand forms described in paragraph (2), and other educational materials on educational assistance under this chapter, to educational institutions, training establishments, military education personnel, and such other persons and entities as the Secretary considers appropriate.
+To whom provided.—The Secretary of Veterans Affairs shall furnish the information and forms described in paragraph (2), andother educational materials on educational assistance under this chapter, to educational institutions, training establishments, military education personnel, and such other persons and entities as the Secretary considers appropriate.
 
 (c)
 
@@ -52,5 +52,9 @@ In general.—The Secretary shall prescribe regulations for the administration o
 
 Uniformity.—Any regulations prescribed by the Secretary of Defense for purposes of this chapter shall apply uniformly across the Armed Forces.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2374.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2374; amended Pub. L. 111–377, title I, §112(c), Jan. 4, 2011, 124 Stat. 4122.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 111–377 substituted “sections 3034(a)(1) and 3680(c)” for “section 3034(a)(1)”.
 

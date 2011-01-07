@@ -8,7 +8,7 @@
 
 &emsp;(3) acquire, collect, classify, and preserve any information which would assist in the location of any missing person (including an unemancipated person as defined by the laws of the place of residence of such person) and provide confirmation as to any entry for such a person to the parent, legal guardian, or next of kin of that person (and the Attorney General may acquire, collect, classify, and preserve such information from such parent, guardian, or next of kin); and
 
-&emsp;(4) exchange such records and information with, and for the official use of, authorized officials of the Federal Government, including the United States Sentencing Commission, the States, cities, and penal and other institutions.
+&emsp;(4) exchange such records and information with, and for the official use of, authorized officials of the Federal Government, including the United States Sentencing Commission, the States, including State sentencing commissions, Indian tribes, cities, and penal and other institutions.
 
 (b) The exchange of records and information authorized by subsection (a)(4) of this section is subject to cancellation if dissemination is made outside the receiving departments or related agencies.
 
@@ -16,7 +16,11 @@
 
 (d)
 
-Indian Law Enforcement Agencies.—The Attorney General shall permit Indian law enforcement agencies, in cases of domestic violence, dating violence, sexual assault, and stalking, to enter information into Federal criminal information databases and to obtain information from the databases.
+Indian Law Enforcement Agencies.—The Attorney General shall permit tribal and Bureau of Indian Affairs law enforcement agencies—
+
+&emsp;(1) to access and enter information into Federal criminal information databases; and
+
+&emsp;(2) to obtain information from the databases.
 
 (e) For purposes of this section, the term “other institutions” includes—
 
@@ -24,9 +28,9 @@ Indian Law Enforcement Agencies.—The Attorney General shall permit Indian law 
 
 &emsp;(2) police departments of private colleges or universities which perform the administration of criminal justice and have arrest powers pursuant to a State statute, which allocate a substantial part of their annual budget to the administration of criminal justice, and which meet training requirements established by law or ordinance for law enforcement officers.
 
-(f)(1) Information from national crime information databases consisting of identificationrecords, criminal history records, protection orders, and wanted person records may be disseminated to civil or criminal courts for use in domestic violence or stalking cases. Nothing in this subsection shall be construed to permit access to such records for any other purpose.
+(f)(1) Information from national crime information databases consisting of identification records, criminal history records, protection orders, and wanted person records may be disseminated to civil or criminal courts for use in domestic violence or stalking cases. Nothing in this subsection shall be construed to permit access to such records for any other purpose.
 
-(2) Federal and State criminal justice agencies authorized to enter information into criminal information databases may include—
+(2) Federal, tribal, and State criminal justice agencies authorized to enter information into criminal information databases may include—
 
 &emsp;(A) arrests, convictions, and arrest warrants for stalking or domestic violence or for violations of protection orders for the protection of parties from stalking or domestic violence; and
 
@@ -42,7 +46,7 @@ Indian Law Enforcement Agencies.—The Attorney General shall permit Indian law 
 
 &emsp;&emsp;(ii) any support, child custody or visitation provisions, orders, remedies, or relief issued as part of a protection order, restraining order, or stay away injunction pursuant to State, tribal, territorial, or local law authorizing the issuance of protection orders, restraining orders, or injunctions for the protection of victims of domestic violence, dating violence, sexual assault, or stalking.
 
-(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616; amended Pub. L. 97–292, §§2, 3(a), Oct. 12, 1982, 96 Stat. 1259; Pub. L. 100–690, title VII, §7333, Nov. 18, 1988, 102 Stat. 4469; Pub. L. 103–322, title IV, §40601(a), Sept. 13, 1994, 108 Stat. 1950; Pub. L. 107–273, div. A, title II, §204(c), div. B, title IV, §4003(b)(4), div. C, title I, §11004, Nov. 2, 2002, 116 Stat. 1776, 1811, 1816; Pub. L. 109–162, title I, §118, title IX, §905(a), Jan. 5, 2006, 119 Stat. 2989, 3079; Pub. L. 109–248, title I, §153(i), July 27, 2006, 120 Stat. 611.)
+(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616; amended Pub. L. 97–292, §§2, 3(a), Oct. 12, 1982, 96 Stat. 1259; Pub. L. 100–690, title VII, §7333, Nov. 18, 1988, 102 Stat. 4469; Pub. L. 103–322, title IV, §40601(a), Sept. 13, 1994, 108 Stat. 1950; Pub. L. 107–273, div. A, title II, §204(c), div. B, title IV, §4003(b)(4), div. C, title I, §11004, Nov. 2, 2002, 116 Stat. 1776, 1811, 1816; Pub. L. 109–162, title I, §118, title IX, §905(a), Jan. 5, 2006, 119 Stat. 2989, 3079; Pub. L. 109–248, title I, §153(i), July 27, 2006, 120 Stat. 611; Pub. L. 111–211, title II, §233(a), July 29, 2010, 124 Stat. 2279; Pub. L. 111–369, §2, Jan. 4, 2011, 124 Stat. 4068.)
 
 Historical and Revision Notes
 
@@ -70,7 +74,17 @@ In subsection (c), the authority to appoint officials for the cited purposes is 
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–162, §905(a)(2), added subsec. (d). Former subsec. (d) redesignated (e).
+<b>2011</b>—Subsec. (a)(4). Pub. L. 111–369 inserted “, including State sentencing commissions” after “, the States”.
+
+<b>2010</b>—Subsec. (a)(4). Pub. L. 111–211, §233(a)(1), inserted “Indian tribes,” after “the States,”.
+
+Subsec. (d). Pub. L. 111–211, §233(a)(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Attorney General shall permit Indian law enforcement agencies, in cases of domestic violence, dating violence, sexual assault, and stalking, to enter information into Federal criminal information databases and to obtain information from the databases.”
+
+Subsec. (e). Pub. L. 111–211, §233(a)(3), which directed redesignation of “the second subsection (e)” as (f), could not be executed because only one subsec. (e) appeared subsequent to amendment by Pub. L. 109–248. See 2006 Amendment note below.
+
+Subsec. (f)(2). Pub. L. 111–211, §233(a)(4), which directed amendment of par. (2) of subsec. (f) as redesignated by Pub. L. 111–211 by inserting “, tribal,” after “Federal” in introductory provisions, was executed by making the insertion in par. (2) of subsec. (f) as redesignated by Pub. L. 109–248, to reflect the probable intent of Congress.
+
+<b>2006</b>—Subsec. (d). Pub. L. 109–162, §905(a)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 109–248 redesignated subsec. (e), relating to information from national crime information databases, as (f).
 
@@ -80,15 +94,15 @@ Subsec. (e)(3)(B). Pub. L. 109–162, §118, added subpar. (B) and struck out fo
 
 Subsec. (f). Pub. L. 109–248 redesignated subsec. (e), relating to information from national crime information databases, as (f).
 
-2002—Subsec. (a)(3). Pub. L. 107–273, §§204(c) and 4003(b)(4), amended par. (3) identically, inserting “and” at end.
+<b>2002</b>—Subsec. (a)(3). Pub. L. 107–273, §§204(c) and 4003(b)(4), amended par. (3) identically, inserting “and” at end.
 
 Subsec. (a)(4). Pub. L. 107–273, §11004, added par. (4) and struck out former par. (4) which read as follows: “exchange such records and information with, and for the official use of, authorized officials of the Federal Government, the States, cities, and penal and other institutions.”
 
-1994—Subsec. (e). Pub. L. 103–322 added subsec. (e).
+<b>1994</b>—Subsec. (e). Pub. L. 103–322 added subsec. (e).
 
-1988—Subsec. (d). Pub. L. 100–690 added subsec. (d).
+<b>1988</b>—Subsec. (d). Pub. L. 100–690 added subsec. (d).
 
-1982—Pub. L. 97–292, §3(a), inserted “and information” after “identification records” in section catchline.
+<b>1982</b>—Pub. L. 97–292, §3(a), inserted “and information” after “identification records” in section catchline.
 
 Subsec. (a). Pub. L. 97–292, §2(a), added pars. (2) and (3), redesignated former par. (2) as (4), and substituted “exchange such records and information” for “exchange these records” in par. (4).
 
@@ -96,7 +110,23 @@ Subsec. (b). Pub. L. 97–292, §2(b), substituted “exchange of records and in
 
 #### Regulations
 
-Pub. L. 103–322, title IV, §40601(b), Sept. 13, 1994, 108 Stat. 1951, provided that: “The Attorney General may make rules to carry out the subsection added to section 534 of title 28, United States Code, by subsection (a), after consultation with the officials charged with managing the National Crime Information Center and the Criminal Justice Information Services Advisory Policy Board.”
+Pub. L. 103–322, title IV, §40601(b), Sept. 13, 1994, 108 Stat. 1951, provided that: “The Attorney General may make rules to carry out the subsection added to section 534 of title 28, United States Code, by subsection (a), after consultation with the officials charged with managing the National Crime Information Center and theCriminal Justice Information Services Advisory Policy Board.”
+
+#### Access to National Crime Information Databases
+
+Pub. L. 111–211, title II, §233(b), July 29, 2010, 124 Stat. 2279, provided that:
+
+“(1)
+
+In general.—The Attorney General shall ensure that tribal law enforcement officials that meet applicable Federal or State requirements be permitted access to national crime information databases.
+
+“(2)
+
+Sanctions.—For purpose of sanctions for noncompliance with requirements of, or misuse of, national crime information databases and information obtained from those databases, a tribal law enforcement agency or official shall be treated as Federal law enforcement agency or official.
+
+“(3) NCIC.—Each tribal justice official serving an Indian tribe with criminal jurisdiction over Indian country shall be considered to be an authorized law enforcement official for purposes of access to the National Crime Information Center of the Federal Bureau of Investigation.”
+
+\[For definitions of “Indian tribe” and “Indian country” used in section 233(b) of Pub. L. 111–211, set out above, see section 203(a) of Pub. L. 111–211, set out as a note under section 2801 of Title 25, Indians.\]
 
 #### Additional Reporting on Crime
 
@@ -150,7 +180,7 @@ Authorization of appropriations.—There is authorized to be appropriated to car
 
 #### National Gang Intelligence Center
 
-Pub. L. 109–162, title XI, §1107, Jan. 5, 2006, 119 Stat. 3093, provided that:
+Pub. L. 109–162, title XI, §1107, Jan. 5, 2006, 119 Stat. 3093, as amended by Pub. L. 111–211, title II, §251(a), July 29, 2010, 124 Stat. 2297, provided that:
 
 “(a)
 
@@ -170,25 +200,27 @@ Establishment.—The Attorney General shall establish a National Gang Intelligen
 
 &emsp;“(7) the Department of Housing and Urban Development;
 
-&emsp;“(8) State and local law enforcement;
+&emsp;“(8) the Office of Justice Services of the Bureau of Indian Affairs;
 
-&emsp;“(9) Federal, State, and local prosecutors;
+&emsp;“(9) tribal, State, and local law enforcement;
 
-&emsp;“(10) Federal, State, and local probation and parole offices;
+&emsp;“(10) Federal, tribal, State, and local prosecutors;
 
-&emsp;“(11) Federal, State, and local prisons and jails; and
+&emsp;“(11) Federal, tribal, State, and local probation and parole offices;
 
-&emsp;“(12) any other entity as appropriate.
+&emsp;“(12) Federal, tribal, State, and local prisons and jails; and
+
+&emsp;“(13) any other entity as appropriate.
 
 “(b)
 
 Information.—The Center established under subsection (a) shall make available the information referred to in subsection (a) to—
 
-&emsp;“(1) Federal, State, and local law enforcement agencies;
+&emsp;“(1) Federal, tribal, State, and local law enforcement agencies;
 
-&emsp;“(2) Federal, State, and local corrections agencies and penal institutions;
+&emsp;“(2) Federal, tribal, State, and local corrections agencies and penal institutions;
 
-&emsp;“(3) Federal, State, and local prosecutorial agencies; and
+&emsp;“(3) Federal, tribal, State, and local prosecutorial agencies; and
 
 &emsp;“(4) any other entity as appropriate.
 
@@ -374,7 +406,7 @@ Pub. L. 105–277, div. A, §101(b) \[title I, §124\], Oct. 21, 1998, 112 Stat.
 
 “(a)(1) A nursing facility or home health care agency may submit a request to the Attorney General to conduct a search and exchange of records described in subsection (b) regarding an applicant for employment if the employment position is involved in direct patient care.
 
-“(2) A nursing facility or home health care agency requesting a search and exchange of records under this section shall submit to the Attorney General through the appropriate State agency or agency designated by the Attorney General a copy of an employment applicant's fingerprints, a statement signed by the applicant authorizing the nursing facility or home health care agency to request the search and exchange of records,and any other identification information not more than 7 days (excluding Saturdays, Sundays, and legal public holidays under section 6103(a) of title 5, United States Code) after acquiring the fingerprints, signed statement, and information.
+“(2) A nursing facility or home health care agency requesting a search and exchange of records under this section shall submit to the Attorney General through the appropriate State agency or agency designated by the Attorney General a copy of an employment applicant's fingerprints, a statement signed by the applicant authorizing the nursing facility or home health care agency to request the search and exchange of records, and any other identification information not more than 7 days (excluding Saturdays, Sundays, and legal public holidays under section 6103(a) of title 5, United States Code) after acquiring the fingerprints, signed statement, and information.
 
 “(b) Pursuant to any submission that complies with the requirements of subsection (a), the Attorney General shall search the records of the Criminal Justice Information Services Division of the Federal Bureau of Investigation for any criminal history records corresponding to the fingerprints or other identification information submitted. The Attorney General shall provide any corresponding information resulting from the search to the appropriate State agency or agency designated by the Attorney General to receive such information.
 
@@ -438,7 +470,7 @@ Pub. L. 101–647, title VI, subtitle B, Nov. 29, 1990, 104 Stat. 4823, provided
 
 #### “SEC. 614. REPORT.
 
-“By February 1 of each fiscal year for which funds for NCIC 2000 are requested, the Director of the Federal Bureau of Investigation shall submit a report to the Committees on the Judiciary of the Senate and House of Representatives that details the progress that has been made in implementing NCIC 2000 and a complete justification for the funds requested in the following fiscal year for NCIC 2000.”
+“By February 1 of each fiscal year for which funds for NCIC 2000 are requested, the Director of the Federal Bureau of Investigation shall submit a report to theCommittees on the Judiciary of the Senate and House of Representatives that details the progress that has been made in implementing NCIC 2000 and a complete justification for the funds requested in the following fiscal year for NCIC 2000.”
 
 #### FBI Fees To Process Fingerprint Identification Records and Name Checks
 
@@ -446,7 +478,7 @@ Pub. L. 101–515, title II, Nov. 5, 1990, 104 Stat. 2112, as amended by section
 
 #### Hate Crime Statistics
 
-Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, as amended by Pub. L. 103–322, title XXXII, §320926, Sept. 13, 1994,108 Stat. 2131; Pub. L. 104–155, §7, July 3, 1996, 110 Stat. 1394; Pub. L. 111–84, div. E, §4708, Oct. 28, 2009, 123 Stat. 2841, provided: “That (a) this Act may be cited as the ‘Hate Crime Statistics Act’.
+Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, as amended by Pub. L. 103–322, title XXXII, §320926, Sept. 13, 1994, 108 Stat. 2131; Pub. L. 104–155, §7, July 3, 1996, 110 Stat. 1394; Pub. L. 111–84, div. E, §4708, Oct. 28, 2009, 123 Stat. 2841, provided: “That (a) this Act may be cited as the ‘Hate Crime Statistics Act’.
 
 “(b)(1) Under the authority of section 534 of title 28, United States Code, the Attorney General shall acquire data, for each calendar year, about crimes that manifest evidence of prejudice based on race, gender and gender identity, religion, disability, sexual orientation, or ethnicity, including where appropriate the crimes of murder, non-negligent manslaughter; forcible rape; aggravated assault, simple assault, intimidation; arson; and destruction, damage or vandalism of property.
 
@@ -534,7 +566,7 @@ National Crime Survey.—The Director of the Bureau of Justice Statistics, throu
 
 “(c)
 
-Authorization of Appropriations.—There are authorized to be appropriated in fiscal years 1989, 1990, 1991, and 1992, such sums as are necessary to carry out the purposes of this section.”
+Authorization of Appropriations.—There are authorized to be appropriated in fiscal years 1989, 1990,1991, and 1992, such sums as are necessary to carry out the purposes of this section.”
 
 #### Parimutuel Licensing Simplification
 
@@ -560,5 +592,5 @@ Definition.—As used in this section, the term ‘State’ means a State of the
 
 #### Funds for Exchange of Identification Records
 
-Pub. L. 92–544, title II, §201, Oct. 25, 1972, 86 Stat. 1115, provided that: “The funds provided for Salaries and Expenses, Federal Bureau of Investigation, may be usedhereafter, in addition to those uses authorized thereunder, for the exchange of identification records with officials or federally chartered or insured banking institutions to promote or maintain the security of those institutions, and, if authorized by State statute and approved by the Attorney General, to officials of State and local governments for purposes of employment and licensing, any such exchange to be made only for the official use of any such official and subject to the same restriction with respect to dissemination as that provided for under the aforementioned appropriation.”
+Pub. L. 92–544, title II, §201, Oct. 25, 1972, 86 Stat. 1115, provided that: “The funds provided for Salaries and Expenses, Federal Bureau of Investigation, may be used hereafter, in addition to those uses authorized thereunder, for the exchange of identification records with officials or federally chartered or insured banking institutions to promote or maintain the security of those institutions, and, if authorized by State statute and approved by the Attorney General, to officials of State and local governments for purposes of employment and licensing, any such exchange to be made only for the official use of any such official and subject to the same restriction with respect to dissemination as that provided for under the aforementioned appropriation.”
 

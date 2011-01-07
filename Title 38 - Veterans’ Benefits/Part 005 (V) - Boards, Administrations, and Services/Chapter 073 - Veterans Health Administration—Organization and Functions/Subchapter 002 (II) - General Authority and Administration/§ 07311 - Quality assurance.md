@@ -16,6 +16,8 @@
 
 (3) If, based upon an evaluation under paragraph (1)(A), the Under Secretary for Health determines that there is a deviation referred to in that paragraph, the Under Secretary for Health shall explain the deviation in the report submitted under subsection (f).<sup>1</sup>
 
+(4) As part of the quality-assurance program, the Under Secretary for Health shall establish mechanisms through which employees of Veterans Health Administration facilities may submit reports, on a confidential basis, on matters relating to quality of care in Veterans Health Administration facilities to the quality management officers of such facilities under section 7311A(c) of this title. The mechanisms shall provide for the prompt and thorough review of any reports so submitted by the receiving officials.
+
 (c)(1) The Under Secretary for Health shall—
 
 &emsp;(A) determine the prevailing national mortality and morbidity standards for each type of surgical procedure performed by the Administration; and
@@ -52,7 +54,7 @@
 
 (2) The Inspector General of the Department shall allocate sufficient resources (including sufficient personnel with the necessary skills and qualifications) to enable the Inspector General to monitor the quality-assurance program.
 
-(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 214; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(5), Nov. 2, 1994, 108 Stat. 4687.)
+(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 214; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(5), Nov. 2, 1994, 108 Stat. 4687; Pub. L. 111–163, title V, §505(b), May 5, 2010, 124 Stat. 1159.)
 
 #### References in Text
 
@@ -60,7 +62,9 @@ Subsection (f), referred to in subsecs. (b)(3) and (d), was repealed by Pub. L. 
 
 #### Amendments
 
-1994—Subsecs. (f), (g). Pub. L. 103–446 struck out subsecs. (f) and (g) which read as follows:
+<b>2010</b>—Subsec. (b)(4). Pub. L. 111–163 added par. (4).
+
+<b>1994</b>—Subsecs. (f), (g). Pub. L. 103–446 struck out subsecs. (f) and (g) which read as follows:
 
 “(f)(1) Not later than February 1, 1991, the Under Secretary for Health shall submit to the Secretary a report on the experience through the end of the preceding fiscal year under the quality-assurance program carried out under this section.
 
@@ -74,7 +78,7 @@ Subsection (f), referred to in subsecs. (b)(3) and (d), was repealed by Pub. L. 
 
 “(2) A report submitted under paragraph (1) shall not be considered to be a record or document as described in section 5705(a) of this title.”
 
-1992—Subsecs. (a) to (d), (f). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
+<b>1992</b>—Subsecs. (a) to (d), (f). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
 
 #### Comprehensive Policy on Pain Management
 
@@ -166,7 +170,7 @@ Report.—Within the 180-day period beginning on the date on which the Secretary
 
 “(c)
 
-Definition.—As used in this section, the term ‘medical facility laboratories’ means facilities for the biological, micro-biological, serological, chemical, immunohematological, hematological, biophysical, cytological, pathological, or other physical examination of materials derived from the human body for the purpose of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings.”
+Definition.—As used in this section, the term ‘medical facility laboratories’ means facilities for thebiological, micro-biological, serological, chemical, immunohematological, hematological, biophysical, cytological, pathological, or other physical examination of materials derived from the human body for the purpose of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

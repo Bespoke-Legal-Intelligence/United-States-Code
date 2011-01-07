@@ -4,7 +4,11 @@ The Director shall take necessary steps to coordinate volunteer programs authori
 
 (Pub. L. 93–113, title IV, §410, Oct. 1, 1973, 87 Stat. 410; Pub. L. 96–143, §10, Dec. 13, 1979, 93 Stat. 1078.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+
 #### Amendments
 
-1979—Pub. L. 96–143 inserted provisions requiring the Director in consultation with the Director of the Office of Personnel Management and the Secretaries of Labor, Commerce, and the Treasury and officials of other appropriate departments and agencies to take steps to encourage employers to review the consideration they give volunteer service in the information requested on their standard application forms.
+<b>1979</b>—Pub. L. 96–143 inserted provisions requiring the Director in consultation with the Director of the Office of Personnel Management and the Secretaries of Labor, Commerce, and the Treasury and officials of other appropriate departments and agencies to take steps to encourage employers to review the consideration they give volunteer service in the information requested on their standard application forms.
 

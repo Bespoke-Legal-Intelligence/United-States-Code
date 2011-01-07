@@ -46,13 +46,13 @@ This chapter, referred to in subsec. (h), was in the original “this Act”, an
 
 #### Amendments
 
-1996—Subsec. (g). Pub. L. 104–294 amended directory language of Pub. L. 103–322, §230207. See 1994 Amendment note below.
+<b>1996</b>—Subsec. (g). Pub. L. 104–294 amended directory language of Pub. L. 103–322, §230207. See 1994 Amendment note below.
 
-1994—Subsec. (g). Pub. L. 103–322, §230207, as amended by Pub. L. 104–294, substituted “and on June 30 every two years thereafter” for “and on December 31 every 2 years thereafter”.
+<b>1994</b>—Subsec. (g). Pub. L. 103–322, §230207, as amended by Pub. L. 104–294, substituted “and on June 30 every two years thereafter” for “and on December 31 every 2 years thereafter”.
 
 Subsec. (h). Pub. L. 103–322, §230206, added subsec. (h).
 
-1988—Subsec. (a). Pub. L. 100–690, §7123(b)(10), substituted “Director” for “Attorney General” in two places and “under this chapter” for “under this chapter and may delegate to any officer or employee of the Department of Justice any such function as the Attorney General deems appropriate”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–690, §7123(b)(10), substituted “Director” for “Attorney General” in two places and “under this chapter” for “under this chapter and may delegate to any officer or employee of the Department of Justice any such function as the Attorney General deems appropriate”.
 
 Subsec. (b). Pub. L. 100–690, §7123(b)(11), substituted “Director” for “Attorney General”.
 
@@ -62,7 +62,7 @@ Subsec. (f). Pub. L. 100–690, §7123(b)(13), substituted “Director” for �
 
 Subsec. (g). Pub. L. 100–690, §7123(b)(14), substituted “Director” for “Attorney General” in two places and “on December 31, 1990, and on December 31 every 2 years thereafter” for “no later than December 31, 1987”.
 
-1986—Subsecs. (g), (h). Pub. L. 99–646 redesignated subsec. (h) as (g) and substituted “1402”, which was translated as “section 10601 of this title” for “1302”, which had been editorially translated as “section 10601 of this title”, thereby requiring no change in text.
+<b>1986</b>—Subsecs. (g), (h). Pub. L. 99–646 redesignated subsec. (h) as (g) and substituted “1402”, which was translated as “section 10601 of this title” for “1302”, which had been editorially translated as “section 10601 of this title”, thereby requiring no change in text.
 
 #### Effective Date of 1996 Amendment
 

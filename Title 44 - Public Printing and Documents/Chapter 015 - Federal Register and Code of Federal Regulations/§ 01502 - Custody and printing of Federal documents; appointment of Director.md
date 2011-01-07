@@ -1,6 +1,6 @@
 ### §1502. Custody and printing of Federal documents; appointment of Director
 
-The Archivist of the United States, acting through the Office of the Federal Register, is charged with the custody and, together with the Public Printer, with the prompt and uniform printing and distribution of the documents required or authorized to be published by section 1505 of this title. There shall be at the head of the Office a director, appointed by, and who shall act under the general direction of, the Archivist of the United States in carrying out this chapter and the regulations prescribed under it.
+The Archivist of the United States, acting through the Office of the Federal Register, is charged with the custody and, together with the Public Printer, with the prompt and uniform printing and distribution of the documents required or authorized to be published by section 1505 of this title. There shall be at the head of the Office a director, appointed by, and whoshall act under the general direction of, the Archivist of the United States in carrying out this chapter and the regulations prescribed under it.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1273; Pub. L. 98–497, title I, §107(b)(3), Oct. 19, 1984, 98 Stat. 2287.)
 
@@ -10,7 +10,7 @@ Based on 44 U.S. Code, 1964 ed., §301 (July 26, 1935, ch. 417, §1, 49 Stat. 50
 
 #### Amendments
 
-1984—Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services” wherever appearing.
+<b>1984</b>—Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services” wherever appearing.
 
 #### Effective Date of 1984 Amendment
 

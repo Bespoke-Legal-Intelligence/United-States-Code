@@ -1,6 +1,6 @@
 ### §1037. Counsel before foreign judicial tribunals and administrative agencies; court costs and bail
 
-(a) Under regulations to be prescribed by him, the Secretary concerned may employ counsel, and pay counsel fees, court costs, bail, and other expenses incident to the representation, before the judicial tribunals and administrative agencies of any foreign nation, of persons subject to the Uniform Code of Military Justice and of persons not subject to the Uniform Code of Military Justice who are employed by or accompanying the armed forces in an area outside the United States and the territories and possessions of theUnited States, the Northern Mariana Islands, and the Commonwealth of Puerto Rico. So far as practicable, these regulations shall be uniform for all armed forces.
+(a) Under regulations to be prescribed by him, the Secretary concerned may employ counsel, and pay counsel fees, court costs, bail, and other expenses incident to the representation, before the judicial tribunals and administrative agencies of any foreign nation, of persons subject to the Uniform Code of Military Justice and of persons not subject to the Uniform Code of Military Justice who are employed by or accompanying the armed forces in an area outside the United States and the territories and possessions of the United States, the Northern Mariana Islands, and the Commonwealth of Puerto Rico. So far as practicable, these regulations shall be uniform for all armed forces.
 
 (b) The person on whose behalf a payment is made under this section is not liable to reimburse the United States for that payment, unless he is responsible for forfeiture of bail provided under subsection (a).
 
@@ -44,11 +44,11 @@ The Uniform Code of Military Justice, referred to in subsec. (a), is classified 
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–296 substituted “Department of Homeland Security” for “Department of Transportation”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted “Department of Homeland Security” for “Department of Transportation”.
 
-1985—Subsec. (a). Pub. L. 99–145 provided for payment of expenses for legal representation of civilians overseas.
+<b>1985</b>—Subsec. (a). Pub. L. 99–145 provided for payment of expenses for legal representation of civilians overseas.
 
-1980—Subsec. (c). Pub. L. 96–513 substituted “Department of Transportation” for “Department of the Treasury”.
+<b>1980</b>—Subsec. (c). Pub. L. 96–513 substituted “Department of Transportation” for “Department of the Treasury”.
 
 #### Effective Date of 2002 Amendment
 

@@ -6,7 +6,7 @@ Every investment adviser subject to section 80b–4 of this title shall establis
 
 #### References in Text
 
-The Securities Exchange Act of 1934, referred to in text, is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in text, is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 #### Effective Date
 

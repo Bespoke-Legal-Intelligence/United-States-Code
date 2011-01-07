@@ -4,7 +4,7 @@
 
 Tuition Reimbursement and Training.—(1) The Secretary of Defense shall provide for tuition reimbursement and training (including a full-time course of study leading to a degree) for acquisition personnel in the Department of Defense.
 
-(2) For civilian personnel, the reimbursement and training shall be provided under section4107(b) of title 5 for the purposes described in that section. For purposes of such section 4107(b), there is deemed to be, until September 30, 2010, a shortage of qualified personnel to serve in acquisition positions in the Department of Defense.
+(2) For civilian personnel, the reimbursement and training shall be provided under section 4107(b) of title 5 for the purposes described in that section. For purposes of such section 4107(b), there is deemed to be, until September 30, 2010, a shortage of qualified personnel to serve in acquisition positions in the Department of Defense.
 
 (3) In the case of members of the armed forces, the limitation in section 2007(a) of this title shall not apply to tuition reimbursement and training provided for under this subsection.
 
@@ -16,11 +16,11 @@ Repayment of Student Loans.—The Secretary of Defense may repay all or part of 
 
 #### Amendments
 
-2000—Subsec. (a)(2). Pub. L. 106–398 substituted “September 30, 2010” for “September 30, 2001”.
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–398 substituted “September 30, 2010” for “September 30, 2001”.
 
-1999—Subsec. (a). Pub. L. 106–65 amended heading and text of subsec. (a) generally. Text read as follows: “The Secretary of Defense shall provide for tuition reimbursement and training (including a full-time course of study leading to a degree) under section 4107(b) of title 5 for acquisition personnel in the Department of Defense for the purposes described in that section. For purposes of such section 4107(b), there is deemed to be, until September 30, 2001, a shortage of qualified personnel to serve in acquisition positions in the Department of Defense.”
+<b>1999</b>—Subsec. (a). Pub. L. 106–65 amended heading and text of subsec. (a) generally. Text read as follows: “The Secretary of Defense shall provide for tuition reimbursement and training (including a full-time course of study leading to a degree) under section 4107(b) of title 5 for acquisition personnel in the Department of Defense for the purposes described in that section. For purposes of such section 4107(b), there is deemed to be, until September 30, 2001, a shortage of qualified personnel to serve in acquisition positions in the Department of Defense.”
 
-1996—Subsec. (a). Pub. L. 104–106 substituted “section 4107(b)” for “section 4107(d)” in two places.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106 substituted “section 4107(b)” for “section 4107(d)” in two places.
 
 #### Effective Date of 1999 Amendment
 

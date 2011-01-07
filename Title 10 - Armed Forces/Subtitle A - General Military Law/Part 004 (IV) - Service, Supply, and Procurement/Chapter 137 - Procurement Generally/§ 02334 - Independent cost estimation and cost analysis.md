@@ -44,7 +44,7 @@ Participation, Concurrence, and Approval in Cost Estimation.—The Director of C
 
 &emsp;(1) participate in the discussion of any discrepancies between an independent cost estimate and the cost estimate of a military department or Defense Agency for a major defense acquisition program or major automated information system program of the Department of Defense;
 
-&emsp;(2) comment on deficiencies in the methodology or execution of any cost estimate or cost analysis developed by a military department or Defense Agency for a major defense acquisition program or major automated information system program;
+&emsp;(2) comment on deficiencies in the methodology or execution of any cost estimate or costanalysis developed by a military department or Defense Agency for a major defense acquisition program or major automated information system program;
 
 &emsp;(3) concur in the choice of a cost estimate within the baseline description or any other cost estimate (including the confidence level for any such cost estimate) for use at any event specified in subsection (a)(6); and
 
@@ -54,15 +54,41 @@ Participation, Concurrence, and Approval in Cost Estimation.—The Director of C
 
 Disclosure of Confidence Levels for Baseline Estimates of Major Defense Acquisition Programs.—The Director of Cost Assessment and Program Evaluation, and the Secretary of the military department concerned or the head of the Defense Agency concerned (as applicable), shall each—
 
-&emsp;(1) disclose in accordance with paragraph (2) the confidence level used in establishing a cost estimate for a major defense acquisition program or major automated information system program, the rationale for selecting such confidence level, and, if such confidence level is less than 80 percent, the justification for selecting a confidence level of less than 80 percent; and
+&emsp;(1) disclose in accordance with paragraph (3) the confidence level used in establishing a cost estimate for a major defense acquisition program or major automated information system program and the rationale for selecting such confidence level;
 
-&emsp;(2) include the disclosure required by paragraph (1)—
+&emsp;(2) ensure that such confidence level provides a high degree of confidence that the program can be completed without the need for significant adjustment to program budgets; and
+
+&emsp;(3) include the disclosure required by paragraph (1)—
 
 &emsp;&emsp;(A) in any decision documentation approving a cost estimate within the baseline description or any other cost estimate for use at any event specified in subsection (a)(6); and
 
 &emsp;&emsp;(B) in the next Selected Acquisition Report pursuant to section 2432 of this title in the case of a major defense acquisition program, or the next quarterly report pursuant to section 2445c of this title in the case of a major automated information system program.
 
 (e)
+
+Estimates for Program Baseline and Analyses and Targets for Contract Negotiation Purposes.—(1) The policies, procedures, and guidance issued by the Director of Cost Assessment and Program Evaluation in accordance with the requirements of subsection (a) shall provide that—
+
+&emsp;(A) cost estimates developed for baseline descriptions and other program purposes conducted pursuant to subsection (a)(6) are not to be used for the purpose of contract negotiations or the obligation of funds; and
+
+&emsp;(B) cost analyses and targets developed for the purpose of contract negotiations and the obligation of funds are based on the Government's reasonable expectation of successful contractor performance in accordance with the contractor's proposal and previous experience.
+
+(2) The Program Manager and contracting officer for each major defense acquisition program and major automated information system program shall ensure that cost analyses and targets developed for the purpose of contract negotiations and the obligation of funds are carried out in accordance with the requirements of paragraph (1) and the policies, procedures, and guidance issued by the Director of Cost Assessment and Program Evaluation.
+
+(3) Funds that are made available for a major defense acquisition program or major automated information system program in accordance with a cost estimate conducted pursuant to subsection (a)(6), but are excess to a cost analysis or target developed pursuant to paragraph (2), shall remain available for obligation in accordance with the terms of applicable authorization and appropriations Acts.
+
+(4) Funds described in paragraph (3)—
+
+&emsp;(A) may be used—
+
+&emsp;&emsp;(i) to cover any increased program costs identified by a revised cost analysis or target developed pursuant to paragraph (2);
+
+&emsp;&emsp;(ii) to acquire additional end items in accordance with the requirements of section 2308 of this title; or
+
+&emsp;&emsp;(iii) to cover the cost of risk reduction and process improvements; and
+
+&emsp;(B) may be reprogrammed, in accordance with established procedures, only if determined to be excess to program needs on the basis of a cost estimate developed with the concurrence of the Director of Cost Assessment and Program Evaluation.
+
+(f)
 
 Annual Report on Cost Assessment Activities.—(1) The Director of Cost Assessment and Program Evaluation shall prepare an annual report summarizing the cost estimation and cost analysis activities of the Department of Defense during the previous year and assessing the progress of the Department in improving the accuracy of its cost estimates and analyses. Each report shall include, for the year covered by such report, an assessment of—
 
@@ -82,9 +108,17 @@ Annual Report on Cost Assessment Activities.—(1) The Director of Cost Assessme
 
 (4) The Secretary of Defense may comment on any report of the Director to the congressional defense committees under this subsection.
 
-(f)
+(g)
 
 Staff.—The Secretary of Defense shall ensure that the Director of Cost Assessment and Program Evaluation has sufficient professional staff of military and civilian personnel to enable the Director to carry out the duties and responsibilities of the Director under this section.
 
-(Added Pub. L. 111–23, title I, §101(b)(1), May 22, 2009, 123 Stat. 1706.)
+(Added Pub. L. 111–23, title I, §101(b)(1), May 22, 2009, 123 Stat. 1706; amended Pub. L. 111–383, div. A, title VIII, §811, Jan. 7, 2011, 124 Stat. 4263.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (d)(1). Pub. L. 111–383, §811(1)(A), substituted “paragraph (3)” for “paragraph (2)” and “and the rationale for selecting such confidence level;” for “, the rationale for selecting such confidence level, and, if such confidence level is less than 80 percent, the justification for selecting a confidence level of less than 80 percent; and”.
+
+Subsec. (d)(2), (3). Pub. L. 111–383, §811(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
+
+Subsecs. (e) to (g). Pub. L. 111–383, §811(2), (3), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 

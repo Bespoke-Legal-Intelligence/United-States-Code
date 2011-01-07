@@ -32,5 +32,5 @@ Certifying Official Defined.—In this section, the term “certifying official�
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–163 inserted “by” after “incorrect payment made”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 inserted “by” after “incorrect payment made”.
 

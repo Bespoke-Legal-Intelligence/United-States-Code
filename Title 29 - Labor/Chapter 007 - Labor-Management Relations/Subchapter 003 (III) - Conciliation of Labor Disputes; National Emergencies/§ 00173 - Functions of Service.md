@@ -24,7 +24,7 @@ The Service is authorized and directed to encourage and support the establishmen
 
 The Service may make its services available to Federal agencies to aid in the resolution of disputes under the provisions of subchapter IV of chapter 5 of title 5. Functions performed by the Service may include assisting parties to disputes related to administrative programs, training persons in skills and procedures employed in alternative means of dispute resolution, and furnishing officers and employees of the Service to act as neutrals. Only officers and employees who are qualified in accordance with section 573 of title 5 may be assigned to act as neutrals. The Service shall consult with the agency designated by, or the interagency committee designated or established by, the President under section 573 of title 5 in maintaining rosters of neutrals and arbitrators, and to adopt such procedures and rules as are necessary to carry out the services authorized in this subsection.
 
-(June 23, 1947, ch. 120, title II, §203, 61 Stat. 153; Pub. L. 95–524, §6(c)(1), Oct. 27, 1978, 92 Stat. 2020; Pub. L. 101–552, §7, Nov. 15, 1990, 104 Stat. 2746; Pub. L. 102–354, §5(b)(5), Aug. 26, 1992, 106 Stat.946; Pub. L. 104–320, §4(c), Oct. 19, 1996, 110 Stat. 3871.)
+(June 23, 1947, ch. 120, title II, §203, 61 Stat. 153; Pub. L. 95–524, §6(c)(1), Oct. 27, 1978, 92 Stat. 2020; Pub. L. 101–552, §7, Nov. 15, 1990, 104 Stat. 2746; Pub. L. 102–354, §5(b)(5), Aug. 26, 1992, 106 Stat. 946; Pub. L. 104–320, §4(c), Oct. 19, 1996, 110 Stat. 3871.)
 
 #### References in Text
 
@@ -32,13 +32,13 @@ This chapter, referred to in subsec. (c), was in the original “this Act” mea
 
 #### Amendments
 
-1996—Subsec. (f). Pub. L. 104–320 substituted “the agency designated by, or the interagency committee designated or established by, the President under section 573 of title 5” for “the Administrative Conference of the United States and other agencies”.
+<b>1996</b>—Subsec. (f). Pub. L. 104–320 substituted “the agency designated by, or the interagency committeedesignated or established by, the President under section 573 of title 5” for “the Administrative Conference of the United States and other agencies”.
 
-1992—Subsec. (f). Pub. L. 102–354 substituted “section 573” for “section 583”.
+<b>1992</b>—Subsec. (f). Pub. L. 102–354 substituted “section 573” for “section 583”.
 
-1990—Subsec. (f). Pub. L. 101–552 added subsec. (f).
+<b>1990</b>—Subsec. (f). Pub. L. 101–552 added subsec. (f).
 
-1978—Subsec. (e). Pub. L. 95–524 added subsec. (e).
+<b>1978</b>—Subsec. (e). Pub. L. 95–524 added subsec. (e).
 
 #### Applicability to Collective Bargaining Agreements
 

@@ -16,13 +16,13 @@ Until such sale, the Secretary may lease such real estate owned as aforesaid on 
 
 In cases where real estate has or may become the property of the United States by conveyance or otherwise, in payment of or as security for a debt arising under the laws relating to internal revenue, and such debt shall have been paid, together with the interest thereon, at the rate of 1 percent per month, to the United States, within 2 years from the date of the acquisition of such real estate, it shall be lawful for the Secretary to release by deed or otherwise convey such real estate to the debtor from whom it was taken, or to his heirs or other legal representatives.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 896; Pub. L. 89–719, title I, §111(b), Nov. 2, 1966, 80 Stat. 1145;Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 896; Pub. L. 89–719, title I, §111(b), Nov. 2, 1966, 80 Stat. 1145; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 #### Amendments
 
-1976—Subsecs. (a) to (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a) to (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1966—Subsec. (a). Pub. L. 89–719 inserted reference to real estate which has been redeemed by the United States.
+<b>1966</b>—Subsec. (a). Pub. L. 89–719 inserted reference to real estate which has been redeemed by the United States.
 
 #### Effective Date of 1966 Amendment
 

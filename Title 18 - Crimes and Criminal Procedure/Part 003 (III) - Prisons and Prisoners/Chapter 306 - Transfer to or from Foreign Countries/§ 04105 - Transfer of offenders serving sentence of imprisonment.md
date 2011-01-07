@@ -16,7 +16,7 @@
 
 #### Amendments
 
-1984—Subsec. (c)(1). Pub. L. 98–473 substituted “toward service of sentence for satisfactory behavior” for“for good time”, “3624(b)” for “4161”, and “3624(a)” for “4164”.
+<b>1984</b>—Subsec. (c)(1). Pub. L. 98–473 substituted “toward service of sentence for satisfactory behavior” for “for good time”, “3624(b)” for “4161”, and “3624(a)” for “4164”.
 
 Subsec. (c)(2). Pub. L. 98–473 substituted “3624(b)” for “4161”.
 

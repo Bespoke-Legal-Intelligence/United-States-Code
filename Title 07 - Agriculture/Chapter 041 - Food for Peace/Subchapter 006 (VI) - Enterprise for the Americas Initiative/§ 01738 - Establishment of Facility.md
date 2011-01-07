@@ -38,7 +38,7 @@ Sec. 2. <i>Functions to be Performed by the Secretary of State</i>. (a) The Secr
 
 (b) The Secretary of State shall consult, as appropriate, with the Secretary of the Treasury and the Administrator of USAID, in the performance of functions under the provisions listed in subsection 2(a) of this order.
 
-(c) The Secretary of State shall consult, as appropriate, in the performance of functions under section 607 of the ATDA Act, with the Secretary of Agriculture, the Secretary of Commerce, the Administrator of the Environmental Protection Agency, the Chairman of the Council on Environmental Quality, and the heads of such other executive departments and agencies as the Secretary of State determines appropriate.
+(c) The Secretary of State shall consult, as appropriate, in the performance of functions under section607 of the ATDA Act, with the Secretary of Agriculture, the Secretary of Commerce, the Administrator of the Environmental Protection Agency, the Chairman of the Council on Environmental Quality, and the heads of such other executive departments and agencies as the Secretary of State determines appropriate.
 
 (d) The Secretary of State is hereby designated to receive advice or supplemental views on the President's behalf consistent with the following provisions of law:
 
@@ -78,7 +78,7 @@ Sec. 5. <i>Guidance for the Performance of Functions</i>. In performing function
 
 (a) shall ensure that all actions taken by them are consistent with the President's constitutional authority to (i) conduct the foreign affairs of the United States, including the commencement, conduct, and termination of negotiations with foreign countries and international organizations, (ii) withhold information the disclosure of which could impair the foreign relations, the national security, the deliberative processes of the Executive, or the performance of the Executive's constitutional duties, (iii) recommend for congressional consideration such measures as the President may judge necessary or expedient, and (iv) supervise the unitary executive branch;
 
-(b) may further assign functions assigned by this order to officers of any department or agency withinthe executive branch to the extent permitted by law except as provided in subsection 4(c) of this order and such further assignment shall be published in the Federal Register; and
+(b) may further assign functions assigned by this order to officers of any department or agency within the executive branch to the extent permitted by law except as provided in subsection 4(c) of this order and such further assignment shall be published in the Federal Register; and
 
 (c) shall consult the Attorney General as appropriate in implementing this section.
 

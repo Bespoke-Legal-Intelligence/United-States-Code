@@ -126,7 +126,7 @@ In subsection (f)(2)(A), the word “first” is omitted as unnecessary.
 
 #### Amendments
 
-2007—Subsec. (b)(7). Pub. L. 110–140, §323(a), added par. (7).
+<b>2007</b>—Subsec. (b)(7). Pub. L. 110–140, §323(a), added par. (7).
 
 Subsecs. (f) to (h). Pub. L. 110–140, §323(b), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 

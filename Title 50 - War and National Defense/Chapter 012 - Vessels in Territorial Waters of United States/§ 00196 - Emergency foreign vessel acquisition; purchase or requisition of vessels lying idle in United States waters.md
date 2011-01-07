@@ -10,9 +10,9 @@ In text, “chapter 563 of title 46” substituted for “section 902 of the Mer
 
 #### Amendments
 
-1981—Pub. L. 97–31 substituted references to Secretary of Transportation for references to Secretary of Commerce wherever appearing.
+<b>1981</b>—Pub. L. 97–31 substituted references to Secretary of Transportation for references to Secretary of Commerce wherever appearing.
 
-1979—Pub. L. 96–70 struck out “, including the Canal Zone,” after “jurisdiction of the United States”.
+<b>1979</b>—Pub. L. 96–70 struck out “, including the Canal Zone,” after “jurisdiction of the United States”.
 
 #### Effective Date of 1979 Amendment
 

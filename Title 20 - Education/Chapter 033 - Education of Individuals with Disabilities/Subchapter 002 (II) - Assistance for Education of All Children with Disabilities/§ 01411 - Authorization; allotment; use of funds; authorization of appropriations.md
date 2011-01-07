@@ -64,11 +64,11 @@
 
 #### (1) In general
 
-&emsp;The Secretary may reserve not more than 1/2 of 1 percent of the amounts appropriated under this subchapter for each fiscal year to provide technical assistance activities authorized under section 1416(i) of this title.
+&emsp;The Secretary may reserve not more than ½ of 1 percent of the amounts appropriated under this subchapter for each fiscal year to provide technical assistance activities authorized under section 1416(i) of this title.
 
 #### (2) Maximum amount
 
-&emsp;The maximum amount the Secretary may reserve under paragraph (1) for any fiscal year is $25,000,000, cumulatively adjusted by the rate of inflation as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor.
+&emsp;The maximum amount the Secretary may reserve under paragraph (1) for any fiscal yearis $25,000,000, cumulatively adjusted by the rate of inflation as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor.
 
 #### (d) Allocations to States
 
@@ -98,7 +98,7 @@
 
 #### (ii) Data
 
-&emsp;&emsp;&emsp;For the purpose of making grants under this paragraph, the Secretary shall use themost recent population data, including data on children living in poverty, that are available and satisfactory to the Secretary.
+&emsp;&emsp;&emsp;For the purpose of making grants under this paragraph, the Secretary shall use the most recent population data, including data on children living in poverty, that are available and satisfactory to the Secretary.
 
 #### (B) Limitations
 
@@ -188,7 +188,7 @@
 
 #### (C) Certification
 
-&emsp;&emsp;Prior to expenditure of funds under this paragraph, the State shall certify to theSecretary that the arrangements to establish responsibility for services pursuant to section 1412(a)(12)(A) of this title are current.
+&emsp;&emsp;Prior to expenditure of funds under this paragraph, the State shall certify to the Secretary that the arrangements to establish responsibility for services pursuant to section 1412(a)(12)(A) of this title are current.
 
 #### (D) Subchapter III
 
@@ -220,7 +220,7 @@
 
 &emsp;&emsp;&emsp;(i) For monitoring, enforcement, and complaint investigation.
 
-&emsp;&emsp;&emsp;(ii) To establish and implement the mediation process required by section 1415(e) of this title, including providing for the cost of mediators and support personnel.
+&emsp;&emsp;&emsp;(ii) To establish and implement the mediation process required by section 1415(e)of this title, including providing for the cost of mediators and support personnel.
 
 #### (C) Authorized activities
 
@@ -356,7 +356,7 @@
 
 #### (6) Special rule for increased funds
 
-&emsp;A State may use funds the State reserves under paragraph (1)(A) as a result of inflationary increases under paragraph (1)(B) to carry out activities authorized under clause (i), (iii), (vii), or (viii) of paragraph (2)(C).
+&emsp;A State may use funds the State reserves under paragraph (1)(A) as a result of inflationary increases under paragraph (1)(B) to carryout activities authorized under clause (i), (iii), (vii), or (viii) of paragraph (2)(C).
 
 #### (7) Flexibility in using funds for subchapter III
 
@@ -422,7 +422,7 @@ In this section:
 
 #### (B) Calculation of number of children
 
-&emsp;&emsp;In the case of Indian students aged 3 to 5, inclusive, who are enrolled in programs affiliated with the Bureau of Indian Affairs (referred to in this subsection as the “BIA”) schools and that are required by the States in which such schools are located to attain or maintain State accreditation, and which schools have such accreditation prior to October 7, 1991, the school shall be allowed to count those children for the purpose of distribution of the funds provided under this paragraph to the Secretary of the Interior. The Secretary of the Interior shall be responsible for meeting all of the requirements of this subchapter for those children, in accordance with paragraph (2).
+&emsp;&emsp;In the case of Indian students aged 3 to 5, inclusive, who are enrolled in programs affiliated with the Bureau of Indian Affairs (referred to in this subsection as the “BIA”) schools and that are required by the Statesin which such schools are located to attain or maintain State accreditation, and which schools have such accreditation prior to October 7, 1991, the school shall be allowed to count those children for the purpose of distribution of the funds provided under this paragraph to the Secretary of the Interior. The Secretary of the Interior shall be responsible for meeting all of the requirements of this subchapter for those children, in accordance with paragraph (2).
 
 #### (C) Additional requirement
 
@@ -532,7 +532,7 @@ The Social Security Act, referred to in subsec. (e)(3)(H), is act Aug. 14, 1935,
 
 #### Prior Provisions
 
-A prior section 1411, Pub. L. 91–230, title VI, §611, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 49, related to authorization, allotment, use of funds, and authorization of appropriations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1411, Pub. L. 91–230, title VI, §611, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 49, related to authorization, allotment, use of funds,and authorization of appropriations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1411, Pub. L. 91–230, title VI, §611, Apr. 13, 1970, 84 Stat. 178; Pub. L. 93–380, title VI, §614(a), (e)(1), (2), Aug. 21, 1974, 88 Stat. 580, 582; Pub. L. 94–142, §§2(a)(1)–(3), 5(a), (c), Nov. 29, 1975, 89 Stat. 773, 776, 794; Pub. L. 95–561, title XIII, §1341(a), Nov. 1, 1978, 92 Stat. 2364; Pub. L. 96–270, §13, June 14, 1980, 94 Stat. 498; Pub. L. 98–199, §§3(b), 15, Dec. 2, 1983, 97 Stat. 1358, 1374; Pub. L. 99–159, title VI, §601, Nov. 22, 1985, 99 Stat. 904; Pub. L. 99–362, §2, July 9, 1986, 100 Stat. 769; Pub. L. 99–457, title II, §201(b), title IV, §§403, 404, Oct. 8, 1986, 100 Stat. 1158, 1173; Pub. L. 100–630, title I, §102(a), Nov. 7, 1988, 102 Stat. 3290; Pub. L. 101–476, title II, §201, title IX, §901(b)(25)–(32), Oct. 30, 1990, 104 Stat. 1111, 1143; Pub. L. 102–73, title VIII, §802(d)(2), (3), July 25, 1991, 105 Stat. 361; Pub. L. 102–119, §§4, 25(a)(4), (19), (b), Oct. 7, 1991, 105 Stat. 587, 606, 607; Pub. L. 103–382, title III, §311, Oct. 20, 1994, 108 Stat. 3931, related to entitlements and allocations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 

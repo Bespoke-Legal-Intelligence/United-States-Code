@@ -1,6 +1,6 @@
 ### §281b. Acquisition of lands; restrictions; tribal-owned lands
 
-The Secretary of the Interior may acquire by donation or with donated funds such lands, or interests therein, and other property which in his judgment will further the purpose of this subchapter and he may purchase with appropriated funds land, or interests therein, required for the administration of the Nez Perce National Historical Park. Lands or interests therein owned by a State or political subdivision of a State may be acquired under this section only by donation or exchange. In the case of sites designated as components of the Nez Perce National Historical Park after November 1, 1991, the Secretary may not acquire privately owned land or interests in land without the consent of the owner unless the Secretary finds that—
+The Secretary of the Interior may acquire by donation or with donated funds such lands, or interests therein, and other property which in his judgment will further the purpose of this subchapter and he may purchase with appropriated funds land, or interests therein, required for the administration of the Nez Perce NationalHistorical Park. Lands or interests therein owned by a State or political subdivision of a State may be acquired under this section only by donation or exchange. In the case of sites designated as components of the Nez Perce National Historical Park after November 1, 1991, the Secretary may not acquire privately owned land or interests in land without the consent of the owner unless the Secretary finds that—
 
 &emsp;(1) the nature of land use has changed significantly or that the landowner has demonstrated intent to change the land use significantly from the condition which existed on October 30, 1992;
 
@@ -18,5 +18,5 @@ The Secretary of the Interior may acquire by donation or with donated funds such
 
 #### Amendments
 
-1992—Pub. L. 102–576 substituted provisions relating to acquisition of lands or interest therein owned by State or political subdivision of State and provisions relating to acquisition of sites designated as components of park after Nov. 1, 1991, for proviso in first sentence limiting amount of land which may be purchased in fee to 1,500 acres and amount of scenic easements which may be purchased to 1,500 acres.
+<b>1992</b>—Pub. L. 102–576 substituted provisions relating to acquisition of lands or interest therein owned by State or political subdivision of State and provisions relating to acquisition of sites designated as components of park after Nov. 1, 1991, for proviso in first sentence limiting amount of land which may be purchased in fee to 1,500 acres and amount of scenic easements which may be purchased to 1,500 acres.
 

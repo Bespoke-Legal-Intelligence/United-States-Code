@@ -8,7 +8,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (1) In-region services
 
-&emsp;A Bell operating company, or any affiliate of that Bell operating company, may provide interLATA services originating in any of its in-region States (as defined in subsection (i) of this section) if the Commission approves the application of such company for such State under subsection (d)(3) of this section.
+&emsp;A Bell operating company, or any affiliate of that Bell operating company, may provide interLATA services originating in any of itsin-region States (as defined in subsection (i) of this section) if the Commission approves the application of such company for such State under subsection (d)(3) of this section.
 
 #### (2) Out-of-region services
 
@@ -30,7 +30,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (A) Presence of a facilities-based competitor
 
-&emsp;&emsp;A Bell operating company meets the requirements of this subparagraph if it has entered into one or more binding agreements that have been approved under section 252 of this title specifying the terms and conditions under which the Bell operating company is providing access and interconnection to its network facilities for the network facilities of one or more unaffiliated competing providers of telephone exchange service (as defined in section 153(47)(A) of this title, but excluding exchange access) to residential and business subscribers. For the purpose of this subparagraph, such telephone exchange service may be offered by such competing providers either exclusively over their own telephone exchange service facilities or predominantly over their own telephone exchange service facilities in combination with the resale of the telecommunications services of another carrier. For the purpose of this subparagraph, services provided pursuant to subpart K of part 22 of the Commission's regulations (47 C.F.R. 22.901 et seq.) shall not be considered to be telephone exchange services.
+&emsp;&emsp;A Bell operating company meets the requirements of this subparagraph if it has entered into one or more binding agreements that have been approved under section 252 of this title specifying the terms and conditions under which the Bell operating company is providing access and interconnection to its network facilities for the network facilities of one or more unaffiliated competing providers of telephone exchange service (as defined in section 153(47)(A) <sup>1</sup> of this title, but excluding exchange access) to residential and business subscribers. For the purpose of this subparagraph, such telephone exchange service may be offered by such competing providers either exclusively over their own telephone exchange service facilities or predominantly over their own telephone exchange service facilities in combination with the resale of the telecommunications services of another carrier. For the purpose of this subparagraph, services provided pursuant to subpart K of part 22 of the Commission's regulations (47 C.F.R. 22.901 et seq.) shall not be considered to be telephone exchange services.
 
 #### (B) Failure to request access
 
@@ -44,7 +44,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 &emsp;&emsp;&emsp;(i)(I) such company is providing access and interconnection pursuant to one or more agreements described in paragraph (1)(A), or
 
-&emsp;&emsp;&emsp;(II) such company is generally offering access and interconnection pursuant to astatement described in paragraph (1)(B), and
+&emsp;&emsp;&emsp;(II) such company is generally offering access and interconnection pursuant to a statement described in paragraph (1)(B), and
 
 &emsp;&emsp;&emsp;(ii) such access and interconnection meets the requirements of subparagraph (B) of this paragraph.
 
@@ -110,7 +110,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 &emsp;&emsp;&emsp;(i) with respect to access and interconnection provided pursuant to subsection (c)(1)(A) of this section, has fully implemented the competitive checklist in subsection (c)(2)(B) of this section; or
 
-&emsp;&emsp;&emsp;(ii) with respect to access and interconnection generally offered pursuant to a statement under subsection (c)(1)(B) of this section, such statement offers all ofthe items included in the competitive checklist in subsection (c)(2)(B) of this section;
+&emsp;&emsp;&emsp;(ii) with respect to access and interconnection generally offered pursuant to a statement under subsection (c)(1)(B) of this section, such statement offers all of the items included in the competitive checklist in subsection (c)(2)(B) of this section;
 
 &emsp;&emsp;(B) the requested authorization will be carried out in accordance with the requirements of section 272 of this title; and
 
@@ -178,7 +178,7 @@ For purposes of this section, the term “incidental interLATA services” means
 
 &emsp;(3) of commercial mobile services in accordance with section 332(c) of this title and with the regulations prescribed by the Commission pursuant to paragraph (8) of such section;
 
-&emsp;(4) of a service that permits a customer that is located in one LATA to retrieve stored information from, or file information for storagein, information storage facilities of such company that are located in another LATA;
+&emsp;(4) of a service that permits a customer that is located in one LATA to retrieve stored information from, or file information for storage in, information storage facilities of such company that are located in another LATA;
 
 &emsp;(5) of signaling information used in connection with the provision of telephone exchange services or exchange access by a local exchange carrier; or
 
@@ -217,6 +217,8 @@ For purposes of this section, a Bell operating company application to provide 80
 (June 19, 1934, ch. 652, title II, §271, as added Pub. L. 104–104, title I, §151(a), Feb. 8, 1996, 110 Stat. 86.)
 
 #### References in Text
+
+Section 153 of this title, referred to in subsec. (c)(1)(A), was subsequently amended and no longer contains a par. (47)(A). However, the term “telephone exchange service” is defined elsewhere in that section.
 
 Section 254(h)(5) of this title, referred to in subsec. (g)(2), was redesignated section 254(h)(7) of this title by Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–343.
 

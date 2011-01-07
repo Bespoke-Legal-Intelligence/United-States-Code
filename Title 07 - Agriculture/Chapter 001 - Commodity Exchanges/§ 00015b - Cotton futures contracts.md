@@ -78,11 +78,11 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (F) Provisions for tender in full, notice of delivery date, and certificate of grade
 
-&emsp;&emsp;Provide that all tenders of cotton under such contract shall be the full number of bales involved therein, except that such variations of the number of bales may be permitted as is necessary to bring the total weight of the cotton tendered within the provisions of the contract as to weight; that, on the fifth business day prior to delivery, the person making the tender shall give to the person receiving the same written notice of the date of delivery, and that, on or prior to the date so fixed for delivery, and in advance of final settlement of the contract, the person making the tender shall furnish to the person receiving the same a written notice or certificate stating the grade of each individual bale to be delivered and, by means of marks or numbers, identifying each bale with its grade.
+&emsp;&emsp;Provide that all tenders of cotton under such contract shall be the full number of bales involved therein, except that such variations of the number of bales may be permitted as is necessary to bring the total weight of the cotton tendered within the provisions of the contract as to weight; that, on the fifth business day prior to delivery, the person making the tender shall give to the person receiving the same written notice of the date of delivery, and that, on or prior to the date so fixed for delivery, and in advance of final settlement of the contract, the person making the tender shall furnish to the person receiving the same a written notice or certificate stating the grade ofeach individual bale to be delivered and, by means of marks or numbers, identifying each bale with its grade.
 
 #### (G) Provision for tender and settlement in accordance with Government classification
 
-&emsp;&emsp;Provide that all tenders of cotton and settlements therefor under such contract shall be in accordance with the classification thereof made under the regulations of the Secretary by such officer or officers of the Government as shall be designated for the purpose, and the costs of such classification shall be fixed, assessed, collected, and paid as provided in such regulations and shall be credited to the account referred to in section 55 of this title. The Secretary may provide by regulation conditions under which cotton samples submitted or used in the performance of services authorized by this act shall become the property of the United States and may be sold and the proceeds credited to the foregoing account: <i>Provided</i>, That such cotton samples shall not be subject to the provisions of the Federal Property and Administrative Services Act of 1949.<sup>1</sup> The Secretary is authorized to prescribe regulations for carrying out the purposes of this subparagraph and the certificates of the officers of the Government as to the classification of any cotton for the purposes of this subparagraph shall be accepted in the courts of the United States in all suits between the parties to such contract, or their privies, as prima facie evidence of the true classification of the cotton involved.
+&emsp;&emsp;Provide that all tenders of cotton and settlements therefor under such contract shall be in accordance with the classification thereof made under the regulations of the Secretary by such officer or officers of the Government as shall be designated for the purpose, and the costs of such classification shall be fixed, assessed, collected, and paid as provided in such regulations and shall be credited to the account referred to in section 55 of this title. The Secretary may provide by regulation conditions under which cotton samples submitted or used in the performance of services authorized by this act shall become the property of the United States and may be sold and the proceeds credited to the foregoing account: <i>Provided</i>, That such cotton samples shall not be subject to the provisions of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41. The Secretary is authorized to prescribe regulations for carrying out the purposes of this subparagraph and the certificates of the officers of the Government as to the classification of any cotton for the purposes of this subparagraph shall be accepted in the courts of the United States in all suits between the parties to such contract, or their privies, as prima facie evidence of the true classification of the cotton involved.
 
 #### (2) Incorporation of conditions in contracts
 
@@ -90,7 +90,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (3) Delivery allowances
 
-&emsp;For the purpose of this subsection, the differences above or below the contract price which the receiver shall pay for cotton of grades above or below the basic <sup>2</sup> grade in the settlement of a contract of sale for the future delivery of cotton shall be determined by the actual commercial differences in value thereof upon the sixth business day prior to the day fixed, in accordance with paragraph (1)(F), for the delivery of cotton on the contract, established by the sale of spot cotton in the spot markets of not less than five places designated for the purpose from time to time by the Secretary, as such values were established by the sales of spot cotton, in such designated five or more markets. For purposes of this paragraph, such values in the such spot markets shall be based upon the standards for grades of cotton established by the Secretary. Whenever the value of one grade is to be determined from the sale or sales of spot cotton of another grade or grades, such value shall be fixed in accordance with rules and regulations which shall be prescribed for the purpose by the Secretary.
+&emsp;For the purpose of this subsection, the differences above or below the contract price which the receiver shall pay for cotton of grades above or below the basic <sup>1</sup> grade in the settlement of a contract of sale for the future delivery of cotton shall be determined by the actual commercial differences in value thereof upon the sixth business day prior to the day fixed, in accordance with paragraph (1)(F), for the delivery of cotton on the contract, established by the sale of spot cotton in the spot markets of not less than five places designated for the purpose from time to time by the Secretary, as such values were established by the sales of spot cotton, in such designated five or more markets. For purposes of this paragraph, such values in the such spot markets shall be based upon the standards for grades of cotton established by the Secretary. Whenever the value of one grade is to be determined from the sale or sales of spot cotton of another grade or grades, such value shall be fixed in accordance with rules and regulations which shall be prescribed for the purpose by the Secretary.
 
 #### (g) Tendered grade contracts
 
@@ -108,7 +108,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (2) Incorporation of conditions in contract
 
-&emsp;Contracts made in compliance with this subsection shall be known as “subsection (g) Contracts”. The provisions of this subsection shallbe deemed fully incorporated into any such contract if there be written or printed thereon, or on the memorandum evidencing the same, at or prior to the time the same is signed, the phrase “Subject to United States Cotton Futures Act, subsection (g)”.
+&emsp;Contracts made in compliance with this subsection shall be known as “subsection (g) Contracts”. The provisions of this subsection shall be deemed fully incorporated into any such contract if there be written or printed thereon, or on the memorandum evidencing the same, at or prior to the time the same is signed, the phrase “Subject to United States Cotton Futures Act, subsection (g)”.
 
 #### (3) Application of subsection
 
@@ -126,7 +126,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (B) Specification of grade, price, dates of sale and delivery
 
-&emsp;&emsp;Specify the grade, type, sample, or description of the cotton involved in the contract, the price per pound at which such cotton is contracted to be bought or sold, the date of the purchase or sale, and the time when shipment or delivery of such cotton is to be made.
+&emsp;&emsp;Specify the grade, type, sample, or description of the cotton involved in the contract, the price per pound at which such cotton iscontracted to be bought or sold, the date of the purchase or sale, and the time when shipment or delivery of such cotton is to be made.
 
 #### (C) Prohibition of delivery of other than specified grade
 
@@ -158,7 +158,7 @@ Any person who knowingly violates any regulation made in pursuance of this secti
 
 #### (<i>l</i>) Applicability to contracts prior to effective date
 
-The provisions of this section shall not apply to any cotton futures contract entered into prior to the effective date of this section or to any act or failure to act by any person prior to such effective date and all such prior contracts, acts or failure to act shall continue to be governed by the applicable provisions of the Internal Revenue Code of 1954 <sup>1</sup> as in effect prior to the enactment of this section. All designations of bona fide spot markets and all rules and regulations issued by the Secretary pursuant to the applicable provisions of the Internal Revenue Code of 1954 <sup>1</sup> which were in effect on the effective date of this section, shall remain fully effective as designations and regulations under this section until superseded, amended, or terminated by the Secretary.
+The provisions of this section shall not apply to any cotton futures contract entered into prior to the effective date of this section or to any act or failure to act by any person prior to such effective date and all such prior contracts, acts or failure to act shall continue to be governed by the applicable provisions of the Internal Revenue Code of 1954 <sup>2</sup> as in effect prior to the enactment of this section. All designations of bona fide spot markets and all rules and regulations issued by the Secretary pursuant to the applicable provisions of the Internal Revenue Code of 1954 <sup>2</sup> which were in effect on the effective date of this section, shall remain fully effective as designations and regulations under this section until superseded, amended, or terminated by the Secretary.
 
 #### (m) Authorization
 
@@ -168,11 +168,9 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### References in Text
 
-The Commodity Exchange Act, referred to in subsec. (c)(1), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of this title. For complete classification of this Act to the Code, see section 1 of this title and Tables.
+The Commodity Exchange Act, referred to in subsec. (c)(1), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of this title. For complete classification of this Act to the Code, see section 1 of this title and Tables.
 
-The United States Cotton Standards Act, as amended, referred to in subsec. (c)(5), is act Mar. 4, 1923, ch. 288, 42 Stat. 1517, as amended, which is classified generally to chapter 2 (§51 et seq.) of this title. For complete classification of this Act to the Code, see section 51 of this title and Tables.
-
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (f)(1)(G), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except fortitle III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+The United States Cotton Standards Act, referred to in subsec. (c)(5), is act Mar. 4, 1923, ch. 288, 42 Stat. 1517, which is classified generally to chapter 2 (§51 et seq.) of this title. For complete classification of this Act to the Code, see section 51 of this title and Tables.
 
 The Internal Revenue Code of 1954, referred to in subsec. (<i>l</i>), was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, and is classified to Title 26, Internal Revenue Code.
 
@@ -181,6 +179,8 @@ The Internal Revenue Code of 1954, referred to in subsec. (<i>l</i>), was redesi
 Section was enacted as part of the Tax Reform Act of 1976, and not as part of the Commodity Exchange Act which comprises this chapter.
 
 This section, referred to in subsec. (c)(1), was in the original a reference to this “Act”, meaning the United States Cotton Futures Act, which comprises this section.
+
+In subsec. (f)(1)(G), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
@@ -198,7 +198,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 156(e) of Pub. 
 
 Section 1952(<i>o</i>) of Pub. L. 94–455 provided that: “The provisions of this section \[enacting this section, amending section 6808 of Title 26, Internal Revenue Code, and repealing sections 7233 and 7263, subchapter D of chapter 39, and subchapter E of chapter 76 of Title 26\] shall take effect on the 90th day after the date of enactment of this Act \[Oct. 4, 1976\].”
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “basis”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “basis”.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

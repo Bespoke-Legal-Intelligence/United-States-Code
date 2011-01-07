@@ -6,5 +6,5 @@ After October 27, 1986, no lease may be issued for the purpose of providing hous
 
 #### Amendments
 
-1994—Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 

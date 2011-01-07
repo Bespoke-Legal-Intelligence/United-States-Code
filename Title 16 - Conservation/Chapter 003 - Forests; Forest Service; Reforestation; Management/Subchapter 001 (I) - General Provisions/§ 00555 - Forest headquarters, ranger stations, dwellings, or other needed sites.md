@@ -6,7 +6,7 @@ Where no suitable Government land is available for national forest headquarters,
 
 #### Amendments
 
-1958—Pub. L. 85–464 substituted “$50,000” for “$25,000”.
+<b>1958</b>—Pub. L. 85–464 substituted “$50,000” for “$25,000”.
 
-1950—Act Apr. 24, 1950, applied section to dwellings or other needed sites and inserted provisos.
+<b>1950</b>—Act Apr. 24, 1950, applied section to dwellings or other needed sites and inserted provisos.
 

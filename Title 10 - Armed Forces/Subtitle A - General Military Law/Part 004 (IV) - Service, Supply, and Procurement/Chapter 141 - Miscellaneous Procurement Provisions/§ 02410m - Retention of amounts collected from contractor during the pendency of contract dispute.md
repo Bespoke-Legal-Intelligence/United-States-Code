@@ -2,11 +2,11 @@
 
 (a)
 
-Retention of Funds.—Notwithstanding sections 1552(a) and 3302(b) of title 31, any amount, including interest, collected from a contractor as a result of a claim made by a military department or Defense Agency under the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.), shall remain available in accordance with this section to pay—
+Retention of Funds.—Notwithstanding sections 1552(a) and 3302(b) of title 31, anyamount, including interest, collected from a contractor as a result of a claim made by a military department or Defense Agency under chapter 71 of title 41, shall remain available in accordance with this section to pay—
 
 &emsp;(1) any settlement of the claim by the parties;
 
-&emsp;(2) any judgment rendered in the contractor's favor on an appeal of the decision on that claim to the Armed Services Board of Contract Appeals under section 7 of such Act (41 U.S.C. 606); or
+&emsp;(2) any judgment rendered in the contractor's favor on an appeal of the decision on that claim to the Armed Services Board of Contract Appeals under section 7104(a) of title 41; or
 
 &emsp;(3) any judgment rendered in the contractor's favor in an action on that claim in a court of the United States.
 
@@ -14,7 +14,7 @@ Retention of Funds.—Notwithstanding sections 1552(a) and 3302(b) of title 31, 
 
 Period of Availability.—(1) The period of availability of an amount under subsection (a), in connection with a claim—
 
-&emsp;(A) expires 180 days after the expiration of the period for bringing an action on that claim in the United States Court of Federal Claims under section 10(a) of the Contract Disputes Act of 1978 (41 U.S.C. 609(a)) if, within that 180-day period—
+&emsp;(A) expires 180 days after the expiration of the period for bringing an action on that claim in the United States Court of Federal Claims under section 7104(b) of title 41 if, within that 180-day period—
 
 &emsp;&emsp;(i) no appeal on the claim is commenced at the Armed Services Board of Contract Appeals under section 7 of such Act; and
 
@@ -24,7 +24,7 @@ Period of Availability.—(1) The period of availability of an amount under subs
 
 &emsp;&emsp;(i) in the case of a settlement of the claim, 180 days after the date of the settlement; or
 
-&emsp;&emsp;(ii) in the case of a judgment rendered on the claim in an appeal to the Armed Services Board of Contract Appeals under section 7 of the Contract Disputes Act of 1978 or an action in a court of the United States, 180 days after the date on which the judgment becomes final and not appealable.
+&emsp;&emsp;(ii) in the case of a judgment rendered on the claim in an appeal to the Armed Services Board of Contract Appeals under section 7 <sup>1</sup> of the Contract Disputes Act of 1978 or an action in a court of the United States, 180 days after the date on which the judgment becomes final and not appealable.
 
 (2) While available under this section, an amount may be obligated or expended only for a purpose described in subsection (a).
 
@@ -42,15 +42,21 @@ Annual Report.—Not later than 60 days after the end of each fiscal year, the U
 
 &emsp;(4) The total amount returned to the Treasury under this section during that fiscal year.
 
-(Added Pub. L. 105–85, div. A, title VIII, §831(a), Nov. 18, 1997, 111 Stat. 1841; amended Pub. L. 108–136, div. A, title X, §1031(a)(21), Nov. 24, 2003, 117 Stat. 1598.)
+(Added Pub. L. 105–85, div. A, title VIII, §831(a), Nov. 18, 1997, 111 Stat. 1841; amended Pub. L. 108–136, div. A, title X, §1031(a)(21), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 111–350, §5(b)(32), Jan. 4, 2011, 124 Stat. 3845.)
 
 #### References in Text
 
-The Contract Disputes Act of 1978, referred to in subsec. (a), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code see Short Title note set out under section 601 of Title 41 and Tables.
+Section 7 of the Contract Disputes Act of 1978, referred to in subsec. (b)(1)(B)(ii), means section 7 of Pub. L. 95–563, which was classified to section 606 of former Title 41, Public Contracts, and was repealed and restated as section 7104(a) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 #### Amendments
 
-2003—Subsec. (c). Pub. L. 108–136, §1031(a)(21)(A), substituted “Annual Report” for “Reporting Requirement” in heading and “Not later than 60 days after the end of each fiscal year” for “Each year” in introductory provisions.
+<b>2011</b>—Subsec. (a). Pub. L. 111–350, §5(b)(32)(A), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)” in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 111–350, §5(b)(32)(B), substituted “section 7104(a) of title 41” for “section 7 of such Act (41 U.S.C. 606)”.
+
+Subsec. (b)(1)(A). Pub. L. 111–350, §5(b)(32)(C), substituted “section 7104(b) of title 41” for “section 10(a) of the Contract Disputes Act of 1978 (41 U.S.C. 609(a))” in introductory provisions.
+
+<b>2003</b>—Subsec. (c). Pub. L. 108–136, §1031(a)(21)(A), substituted “Annual Report” for “Reporting Requirement” in heading and “Not later than 60 days after the end of each fiscal year” for “Each year” in introductory provisions.
 
 Subsec. (c)(1). Pub. L. 108–136, §1031(a)(21)(B), inserted “at the end of such fiscal year” before period at end.
 
@@ -59,4 +65,6 @@ Subsec. (c)(2). Pub. L. 108–136, §1031(a)(21)(C), substituted “under this s
 Subsec. (c)(3). Pub. L. 108–136, §1031(a)(21)(D), substituted “under this section during that fiscal year” for “in such preceding year”.
 
 Subsec. (c)(4). Pub. L. 108–136, §1031(a)(21)(E), substituted “under this section during that fiscal year” for “in such preceding year”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

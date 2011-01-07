@@ -20,11 +20,11 @@ Each chief of mission to a foreign country shall have as a principal duty the pr
 
 #### Amendments
 
-2002—Subsecs. (a)(1), (2), (b). Pub. L. 107–228 inserted “Voice of America correspondents on official assignment and” after “except for”.
+<b>2002</b>—Subsecs. (a)(1), (2), (b). Pub. L. 107–228 inserted “Voice of America correspondents on official assignment and” after “except for”.
 
-1987—Subsec. (a). Pub. L. 100–204, §136(1), (2), inserted “executive branch” after “Government” in par. (1) and after second reference to “Government” in par. (2).
+<b>1987</b>—Subsec. (a). Pub. L. 100–204, §136(1), (2), inserted “executive branch” after “Government” in par. (1) and after second reference to “Government” in par. (2).
 
 Subsec. (b). Pub. L. 100–204, §136(3), inserted “executive branch” after “Any”.
 
-1982—Subsec. (c). Pub. L. 97–241 added subsec. (c).
+<b>1982</b>—Subsec. (c). Pub. L. 97–241 added subsec. (c).
 

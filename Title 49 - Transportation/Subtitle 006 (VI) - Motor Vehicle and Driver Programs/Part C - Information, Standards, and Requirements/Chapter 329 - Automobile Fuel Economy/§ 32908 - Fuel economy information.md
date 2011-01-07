@@ -100,7 +100,7 @@ Program.—The Secretary of Transportation, in consultation with the Secretary o
 
 &emsp;&emsp;&emsp;(iii) a permanent and prominent display that an automobile is capable of operating on an alternative fuel; and
 
-&emsp;&emsp;(B) to include in the owner's manual for vehicles capable of operating on alternative fuels information that describes that capability and the benefits of using alternative fuels, including the renewable nature and environmental benefits of using alternative fuels.
+&emsp;&emsp;(B) to include in the owner's manual for vehicles capable of operating on alternative fuels information that describes that capability and the benefits of using alternativefuels, including the renewable nature and environmental benefits of using alternative fuels.
 
 &emsp;(2)
 
@@ -204,7 +204,7 @@ In subsection (b)(3)(D), the words “Secretary of Energy” are substituted for
 
 In subsection (c)(1), before clause (A), the words “compile and” are omitted as surplus.
 
-In subsection (c)(3), the words “not later than July 31, 1976” are omitted as executed. The words “make the booklet available to prospective buyers” are substituted for “make available to prospective purchasers information compiled by the EPA Administrator under paragraph (1)” to eliminate unnecessary words.
+In subsection (c)(3), the words “not later than July 31, 1976” are omitted as executed. The words “make thebooklet available to prospective buyers” are substituted for “make available to prospective purchasers information compiled by the EPA Administrator under paragraph (1)” to eliminate unnecessary words.
 
 In subsection (d), the words “which is required to be made”, “an express or implied”, and “that such fuel economy will be achieved, or that such cost will not be exceeded, under conditions of actual use” are omitted as surplus.
 
@@ -216,7 +216,7 @@ This amends 49:32908(b)(1) to clarify the restatement of 15:2006(a)(1) by sectio
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in subsec. (e)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717,as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
+The Federal Trade Commission Act, referred to in subsec. (e)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
 The date of the enactment of the Ten-in-Ten Fuel Economy Act, referred to in subsec. (g)(1)(A)(i), (4), is the date of enactment of subtitle A (§§101–113) of title I of Pub. L. 110–140, which was approved Dec. 19, 2007.
 
@@ -224,9 +224,9 @@ Subsection (h) of section 32905 of this title, referred to in subsec. (g)(3), wa
 
 #### Amendments
 
-2007—Subsec. (g). Pub. L. 110–140 added subsec. (g).
+<b>2007</b>—Subsec. (g). Pub. L. 110–140 added subsec. (g).
 
-1994—Subsec. (b)(1). Pub. L. 103–429 inserted “on the automobile” after “maintain the label” in introductory provisions.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–429 inserted “on the automobile” after “maintain the label” in introductory provisions.
 
 #### Effective Date of 2007 Amendment
 

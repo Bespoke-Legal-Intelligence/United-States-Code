@@ -48,7 +48,7 @@ No amendment to an implementing bill or approval resolution shall be in order in
 
 #### (f) Floor consideration in the House
 
-(1) A motion in the House of Representatives to proceed to the consideration of an implementing bill or approval resolution shall be highly privileged and not debatable. An amendment to the motion shall not be in order, nor shall it be in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
+(1) A motion in the House of Representatives to proceed to the consideration of an implementing bill or approval resolution shall be highly privileged and not debatable. An amendment to the motion shall not be in order, nor shall it be in order to move to reconsider thevote by which the motion is agreed to or disagreed to.
 
 (2) Debate in the House of Representatives on an implementing bill or approval resolution shall be limited to not more than 20 hours, which shall be divided equally between those favoring and those opposing the bill or resolution. A motion further to limit debate shall not be debatable. It shall not be in order to move to recommit an implementing bill or approval resolution or to move to reconsider the vote by which an implementing bill or approval resolution is agreed to or disagreed to.
 
@@ -72,21 +72,21 @@ No amendment to an implementing bill or approval resolution shall be in order in
 
 #### Amendments
 
-2002—Subsec. (b)(1). Pub. L. 107–210, §2110(a)(1)(A), substituted “section 3572 of this title, or section 3805(a)(1) of this title” for “section 2903(a)(1) of this title, or section 3572 of this title” in introductory provisions.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–210, §2110(a)(1)(A), substituted “section 3572 of this title, or section 3805(a)(1) of this title” for “section 2903(a)(1) of this title, or section 3572 of this title” in introductory provisions.
 
 Subsec. (c)(1). Pub. L. 107–210, §2110(a)(1)(B), substituted “, section 3572 of this title, or section 3805(a)(1) of this title” for “or section 3572 of this title”.
 
-1994—Subsec. (b)(1). Pub. L. 103–465, §282(c)(4)(A), in introductory provisions, inserted “, or with respect to an extension described in section 3572(c)(3) of this title,” after “trade agreements” and substituted “, section 2903(a)(1) of this title, or section 3572 of this title” for “or section 2903(a)(1) of this title”, and in subpars. (A) and (C), inserted “or such extension” after “agreements” wherever appearing.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–465, §282(c)(4)(A), in introductory provisions, inserted “, or with respect to an extension described in section 3572(c)(3) of this title,” after “trade agreements” and substituted “, section 2903(a)(1) of this title, or section 3572 of this title” for “or section 2903(a)(1) of this title”, and in subpars. (A) and (C), inserted “or such extension” after “agreements” wherever appearing.
 
 Subsec. (c)(1). Pub. L. 103–465, §282(c)(4)(B), inserted “or section 3572 of this title” after “section 2112 of this title” and “or extension” after “agreement” wherever appearing.
 
-1990—Subsec. (b)(2). Pub. L. 101–382, §132(b)(2)(A), (B), inserted “or resolution” after “revenue bill” and “, or approval resolution,” after “implementing bill”.
+<b>1990</b>—Subsec. (b)(2). Pub. L. 101–382, §132(b)(2)(A), (B), inserted “or resolution” after “revenue bill” and “, or approval resolution,” after “implementing bill”.
 
 Subsec. (b)(3). Pub. L. 101–382, §132(b)(2)(C), substituted “joint” for “concurrent”.
 
 Subsec. (e)(2). Pub. L. 101–382, §132(b)(2)(D), (E), substituted “revenue bill or resolution” for “revenue bill” in three places and “such bill or resolution” for “such bill” in five places.
 
-1988—Subsec. (b)(1). Pub. L. 100–418 inserted reference to section 2903(a)(1) of this title.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–418 inserted reference to section 2903(a)(1) of this title.
 
 #### Effective Date of 1994 Amendment
 

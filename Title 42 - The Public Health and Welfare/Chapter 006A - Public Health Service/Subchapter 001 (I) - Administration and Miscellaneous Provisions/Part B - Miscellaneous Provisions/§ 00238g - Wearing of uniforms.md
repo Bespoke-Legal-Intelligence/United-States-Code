@@ -10,7 +10,7 @@ Section was formerly classified to section 300aaa–7 of this title prior to ren
 
 #### Amendments
 
-1948—Act June 25, 1948, struck out penal provisions. See section 702 of Title 18, Crimes and Criminal Procedure.
+<b>1948</b>—Act June 25, 1948, struck out penal provisions. See section 702 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 1948 Amendment
 
@@ -18,7 +18,7 @@ Amendment effective Sept. 1, 1948, see section 20 of act June 25, 1948.
 
 #### Transfer of Functions
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat.1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Delegation of Functions
 

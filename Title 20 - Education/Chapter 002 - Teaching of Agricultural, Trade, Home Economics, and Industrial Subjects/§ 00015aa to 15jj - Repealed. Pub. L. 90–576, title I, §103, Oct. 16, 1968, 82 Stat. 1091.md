@@ -2,7 +2,7 @@
 
 Section 15aa, act Aug. 1, 1946, ch. 725, title II, §201, as added Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 925; amended Apr. 24, 1961, Pub. L. 87–22, §2, 75 Stat. 44; Dec. 18, 1963, Pub. L. 88–210, §11(a)(1), 77 Stat. 411, authorized an appropriation for grants to States with State plans for practical nurse training.
 
-Section 15bb, act Aug. 1, 1946, ch. 725, title II, §202, as added Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 926; amended Apr. 24, 1961, Pub. L. 87–22, §3, 75 Stat. 44; Dec. 18, 1963, Pub. L. 88–210, §11(a)(2), 77 Stat. 411, provided for grants to States for practical nurse training.
+Section 15bb, act Aug. 1, 1946, ch. 725, title II, §202, as added Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 926; amended Apr. 24, 1961, Pub. L. 87–22, §3, 75 Stat. 44; Dec.18, 1963, Pub. L. 88–210, §11(a)(2), 77 Stat. 411, provided for grants to States for practical nurse training.
 
 Section 15cc, act Aug. 1, 1946, ch. 725, title II, §203, as added Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 926; amended Apr. 24, 1961, Pub. L. 87–22, §4, 75 Stat. 44, set out requirements for State plans under sections 15aa to 15jj of this title.
 

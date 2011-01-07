@@ -10,7 +10,7 @@ The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oc
 
 #### Amendments
 
-1997—Pub. L. 105–28 struck out subsec. (a) designation and struck out subsec. (b) which read as follows: “Section 776 of title 15 shall be applicable to advisory committees chartered by the Secretary, or transferred to the Secretary or the Department under this chapter, except that where an advisory committee advises the Secretary on matters pertaining to research and development, the Secretary may determine that such meeting shall be closed because it involves research and development matters and comes within the exemption of section 552b(c)(4) of title 5.”
+<b>1997</b>—Pub. L. 105–28 struck out subsec. (a) designation and struck out subsec. (b) which read as follows: “Section 776 of title 15 shall be applicable to advisory committees chartered by the Secretary, or transferred to the Secretary or the Department under this chapter, except that where an advisory committee advises the Secretary on matters pertaining to research and development, the Secretary may determine that such meeting shall be closed because it involves research and development matters and comes within the exemption of section 552b(c)(4) of title 5.”
 
 #### Termination of Advisory Committees
 

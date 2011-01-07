@@ -22,7 +22,7 @@ The words “naval service” are substituted for the words “public service”
 
 #### Amendments
 
-2006—Pub. L. 109–304 substituted “chapter 515 of title 46” for “section 1304 of the Merchant Marine Act, 1936 (46 U.S.C. App. 1295c),”.
+<b>2006</b>—Pub. L. 109–304 substituted “chapter 515 of title 46” for “section 1304 of the Merchant Marine Act, 1936 (46 U.S.C. App. 1295c),”.
 
-1985—Pub. L. 99–145 substituted “section 1304 of the Merchant Marine Act, 1936 (46 U.S.C. App. 1295c)” for “the Act of March 4, 1911, ch. 265, 36 Stat. 1353, as amended”.
+<b>1985</b>—Pub. L. 99–145 substituted “section 1304 of the Merchant Marine Act, 1936 (46 U.S.C. App. 1295c)” for “the Act of March 4, 1911, ch. 265, 36 Stat. 1353, as amended”.
 

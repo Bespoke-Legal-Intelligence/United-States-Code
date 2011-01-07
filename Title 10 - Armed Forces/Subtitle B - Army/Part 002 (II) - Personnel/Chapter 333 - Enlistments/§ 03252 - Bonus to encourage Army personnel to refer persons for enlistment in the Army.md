@@ -6,7 +6,7 @@ Authority To Pay Bonus.—
 
 &emsp;(1)
 
-Authority.—The Secretary of the Army may pay a bonus under this section to an individual referred to in paragraph (2) who refers to an Army recruiter a person who has notpreviously served in an armed force and who, after such referral, enlists in the regular component of the Army or in the Army National Guard or Army Reserve.
+Authority.—The Secretary of the Army may pay a bonus under this section to an individual referred to in paragraph (2) who refers to an Army recruiter a person who has not previously served in an armed force and who, after such referral, enlists in the regular component of the Army or in the Army National Guard or Army Reserve.
 
 &emsp;(2)
 
@@ -68,9 +68,9 @@ Coordination With Receipt of Retired Pay.—A bonus paid under this section to a
 
 (h)
 
-Duration of Authority.—A bonus may not be paid under subsection (a) with respect to any referral that occurs after December 31, 2010.
+Duration of Authority.—A bonus may not be paid under subsection (a) with respect to any referral that occurs after December 31, 2011.
 
-(Added Pub. L. 110–181, div. A, title VI, §671(a)(1), Jan. 28, 2008, 122 Stat. 181; amended Pub. L. 110–417, \[div. A\], title VI, §615(b), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §616(2), Oct. 28, 2009, 123 Stat. 2354.)
+(Added Pub. L. 110–181, div. A, title VI, §671(a)(1), Jan. 28, 2008, 122 Stat. 181; amended Pub. L. 110–417, \[div. A\], title VI, §615(b), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §616(2), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §616(2), Jan. 7, 2011, 124 Stat. 4238.)
 
 #### Prior Provisions
 
@@ -78,7 +78,9 @@ A prior section 3252, act Aug. 10, 1956, ch. 1041, 70A Stat. 177, provided that 
 
 #### Amendments
 
-2009—Subsec. (h). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+<b>2011</b>—Subsec. (h). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
-2008—Subsec. (h). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+<b>2009</b>—Subsec. (h). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+
+<b>2008</b>—Subsec. (h). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
 

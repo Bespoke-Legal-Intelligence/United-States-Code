@@ -1,0 +1,64 @@
+### §254b–2. Community health centers and the National Health Service Corps Fund
+
+#### (a) Purpose
+
+It is the purpose of this section to establish a Community Health Center Fund (referred to in this section as the “CHC Fund”), to be administered through the Office of the Secretary of the Department of Health and Human Services toprovide for expanded and sustained national investment in community health centers under section 254b of this title and the National Health Service Corps.
+
+#### (b) Funding
+
+There is authorized to be appropriated, and there is appropriated, out of any monies in the Treasury not otherwise appropriated, to the CHC Fund—
+
+&emsp;(1) to be transferred to the Secretary of Health and Human Services to provide enhanced funding for the community health center program under section 254b of this title—
+
+&emsp;&emsp;(A) $1,000,000,000 for fiscal year 2011;
+
+&emsp;&emsp;(B) $1,200,000,000 for fiscal year 2012;
+
+&emsp;&emsp;(C) $1,500,000,000 for fiscal year 2013;
+
+&emsp;&emsp;(D) $2,200,000,000 for fiscal year 2014; and
+
+&emsp;&emsp;(E) $3,600,000,000 for fiscal year 2015; and
+
+&emsp;(2) to be transferred to the Secretary of Health and Human Services to provide enhanced funding for the National Health Service Corps—
+
+&emsp;&emsp;(A) $290,000,000 for fiscal year 2011;
+
+&emsp;&emsp;(B) $295,000,000 for fiscal year 2012;
+
+&emsp;&emsp;(C) $300,000,000 for fiscal year 2013;
+
+&emsp;&emsp;(D) $305,000,000 for fiscal year 2014; and
+
+&emsp;&emsp;(E) $310,000,000 for fiscal year 2015.
+
+#### (c) Construction
+
+There is authorized to be appropriated, and there is appropriated, out of any monies in the Treasury not otherwise appropriated, $1,500,000,000 to be available for fiscal years 2011 through 2015 to be used by the Secretary of Health and Human Services for the construction and renovation of community health centers.
+
+#### (d) Use of fund
+
+The Secretary of Health and Human Services shall transfer amounts in the CHC Fund to accounts within the Department of Health and Human Services to increase funding, over the fiscal year 2008 level, for community health centers and the National Health Service Corps.
+
+#### (e) Availability
+
+Amounts appropriated under subsections (b) and (c) shall remain available until expended.
+
+(Pub. L. 111–148, title X, §10503, Mar. 23, 2010, 124 Stat. 1004; Pub. L. 111–152, title II, §2303, Mar. 30, 2010, 124 Stat. 1083.)
+
+#### Codification
+
+Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (b)(1)(A). Pub. L. 111–152, §2303(1), substituted “1,000,000,000” for “700,000,000”.
+
+Subsec. (b)(1)(B). Pub. L. 111–152, §2303(2), substituted “1,200,000,000” for “800,000,000”.
+
+Subsec. (b)(1)(C). Pub. L. 111–152, §2303(3), substituted “1,500,000,000” for “1,000,000,000”.
+
+Subsec. (b)(1)(D). Pub. L. 111–152, §2303(4), substituted “2,200,000,000” for “1,600,000,000”.
+
+Subsec. (b)(1)(E). Pub. L. 111–152, §2303(5), substituted “3,600,000,000” for “2,900,000,000”.
+

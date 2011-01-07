@@ -34,27 +34,27 @@ Section 31 of the Trademark Act of 1946, referred to in subsec. (c), is classifi
 
 #### Amendments
 
-2002—Subsecs. (a), (b). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
+<b>2002</b>—Subsecs. (a), (b). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
 
-1999—Subsecs. (a), (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
+<b>1999</b>—Subsecs. (a), (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
 
-Subsec. (c). Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing and, in secondsentence, substituted “All fees available” for “Fees available” and “shall be used” for “may be used”.
+Subsec. (c). Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing and, in second sentence, substituted “All fees available” for “Fees available” and “shall be used” for “may be used”.
 
 Subsec. (d). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], substituted “Director” for “Commissioner”.
 
-1998—Subsec. (c). Pub. L. 105–358 substituted first sentence for former first sentence which read as follows: “Revenues from fees shall be available to the Commissioner to carry out, to the extent provided in appropriation Acts, the activities of the Patent and Trademark Office.”
+<b>1998</b>—Subsec. (c). Pub. L. 105–358 substituted first sentence for former first sentence which read as follows: “Revenues from fees shall be available to the Commissioner to carry out, to the extent provided in appropriation Acts, the activities of the Patent and Trademark Office.”
 
-1991—Subsec. (c). Pub. L. 102–204, §5(e), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Revenues from fees will be available to the Commissioner of Patents to carry out, to the extent provided for in appropriation Acts, the activities of the Patent and Trademark Office. Fees available to the Commissioner under section 31 of the Trademark Act of 1946, as amended (15 U.S.C. 1113), shall be used exclusively for the processing of trademark registrations and for other services and materials related to trademarks.”
+<b>1991</b>—Subsec. (c). Pub. L. 102–204, §5(e), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Revenues from fees will be available to the Commissioner of Patents to carry out, to the extent provided for in appropriation Acts, the activities of the Patent and Trademark Office. Fees available to the Commissioner under section 31 of the Trademark Act of 1946, as amended (15 U.S.C. 1113), shall be used exclusively for the processing of trademark registrations and for other services and materials related to trademarks.”
 
 Subsec. (e). Pub. L. 102–204, §4, added subsec. (e).
 
-1982—Subsec. (b). Pub. L. 97–258 struck out “, the provisions of section 725e of title 31, United States Code, notwithstanding” after “United States”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–258 struck out “, the provisions of section 725e of title 31, United States Code, notwithstanding” after “United States”.
 
 Subsec. (c). Pub. L. 97–247 inserted provision that fees available to the Commissioner under section 31 of the Trademark Act of 1946, as amended (15 U.S.C. 1113), be used exclusively for the processing of trademark registrations and for other services and materials related to trademarks.
 
-1980—Pub. L. 96–517 designated existing provision relating to payment of patent fees as subsec. (a) and struck out provision that, except as provided in sections 361(b) and 376(b) of this title, the Commissioner deposit fees paid in the Treasury of the United States in such manner as directed by the Secretary of the Treasury, designated existing provision relating to return of excess amounts paid as subsec. (d), and added subsecs. (b) and (c).
+<b>1980</b>—Pub. L. 96–517 designated existing provision relating to payment of patent fees as subsec. (a) and struck out provision that, except as provided in sections 361(b) and 376(b) of this title, the Commissioner deposit fees paid in the Treasury of the United States in such manner as directed by the Secretary of the Treasury, designated existing provision relating to return of excess amounts paid as subsec. (d), and added subsecs. (b) and (c).
 
-1975—Pub. L. 94–131 inserted “, except as provided in sections 361(b) and 376(b) of this title,”.
+<b>1975</b>—Pub. L. 94–131 inserted “, except as provided in sections 361(b) and 376(b) of this title,”.
 
 #### Effective Date of 1999 Amendment
 

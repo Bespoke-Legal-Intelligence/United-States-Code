@@ -8,7 +8,7 @@
 
 (3) For purposes of this section—
 
-&emsp;(A) the term “implementing bill” means a bill introduced in either House of Congress with respect to one or more contracts or amendments to contracts submitted to the House of Representatives and the Senate under this section and which contains—
+&emsp;(A) the term “implementing bill” means a bill introduced in either House of Congress with respect to one or more contracts oramendments to contracts submitted to the House of Representatives and the Senate under this section and which contains—
 
 &emsp;&emsp;(i) a provision approving such contracts or amendments, or both; and
 
@@ -77,4 +77,6 @@ Subsections (e) through (h) of this section are enacted by the Congress—
 (4) A motion in the Senate to further limit debate is not debatable. A motion to recommit an implementing bill is not in order.
 
 (Pub. L. 94–163, title I, §174, as added Pub. L. 101–383, §6(a)(4), Sept. 15, 1990, 104 Stat. 731.)
+
+<i><sup>1</sup></i><i> So in original. The word “the” probably should not appear.</i>
 

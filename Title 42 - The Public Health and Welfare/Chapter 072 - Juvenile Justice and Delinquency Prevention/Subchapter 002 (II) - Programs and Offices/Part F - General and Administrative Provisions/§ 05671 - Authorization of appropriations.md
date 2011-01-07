@@ -28,11 +28,11 @@ No funds appropriated to carry out the purposes of this subchapter may be used f
 
 #### Amendments
 
-2002—Subsecs. (a) to (c). Pub. L. 107–273, §12213(2), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which related, respectively, to amounts and availability of appropriations for fiscal years 1993 to 1996, percentages available for specific programs, and administrative and supervisory board membership requirements for State agencies.
+<b>2002</b>—Subsecs. (a) to (c). Pub. L. 107–273, §12213(2), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which related, respectively, to amounts and availability of appropriations for fiscal years 1993 to 1996, percentages available for specific programs, and administrative and supervisory board membership requirements for State agencies.
 
 Subsec. (e). Pub. L. 107–273, §12213(1), struck out subsec. (e) which read as follows: “Of such sums as are appropriated to carry out section 5665(a)(6) of this title, not less than 20 percent shall be reserved by the Administrator for each of fiscal years 1993, 1994, 1995, and 1996, for not less than 2 programs that have not received funds under subpart II of part C of this subchapter prior to October 1, 1992, which shall be selected through the application and approval process set forth in section 5665a of this title.”
 
-1992—Subsec. (a). Pub. L. 102–586, §2(j)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+<b>1992</b>—Subsec. (a). Pub. L. 102–586, §2(j)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
 “(1) To carry out the purposes of this subchapter (other than part D) there are authorized to be appropriated such sums as may be necessary for fiscal years 1989, 1990, 1991, and 1992. Funds appropriated for any fiscal year may remain available for obligation until expended.
 
@@ -42,15 +42,15 @@ Subsec. (e). Pub. L. 107–273, §12213(1), struck out subsec. (e) which read as
 
 Subsec. (e). Pub. L. 102–586, §2(j)(2), added subsec. (e).
 
-1989—Subsec. (a). Pub. L. 101–204, §1001(e)(1), amended directory language of Pub. L. 100–690, §7265(a)(4), see 1988 Amendment note below.
+<b>1989</b>—Subsec. (a). Pub. L. 101–204, §1001(e)(1), amended directory language of Pub. L. 100–690, §7265(a)(4), see 1988 Amendment note below.
 
 Subsec. (a)(1). Pub. L. 101–204, §1002, substituted “are authorized” for “is authorized”.
 
-1988—Subsec. (a). Pub. L. 100–690, §7265(a), as amended by Pub. L. 101–204, §1001(e)(1), designated existing provisions as par. (1), inserted “(other than part D)” after “this subchapter”, struck out “1985, 1986, 1987, and 1988” after “fiscal years”, inserted “1989, 1990, 1991, and 1992”, and added par. (2).
+<b>1988</b>—Subsec. (a). Pub. L. 100–690, §7265(a), as amended by Pub. L. 101–204, §1001(e)(1), designated existing provisions as par. (1), inserted “(other than part D)” after “this subchapter”, struck out “1985, 1986, 1987, and 1988” after “fiscal years”, inserted “1989, 1990, 1991, and 1992”, and added par. (2).
 
 Subsec. (b). Pub. L. 100–690, §7265(b), inserted “(other than part D)” after “this subchapter” in introductory provisions and substituted “5 percent” for “7.5 percent” in par. (1), “70 percent” for “81.5 percent” in par. (2), and “25 percent” for “11 percent” in par. (3).
 
-1984—Subsec. (a). Pub. L. 98–473, amended subsec. (a) generally, substituting provisions relating to authorization of appropriations for fiscal years 1985 to 1988 for former provisions which authorized appropriations for fiscal years 1981 to 1984.
+<b>1984</b>—Subsec. (a). Pub. L. 98–473, amended subsec. (a) generally, substituting provisions relating to authorization of appropriations for fiscal years 1985 to 1988 for former provisions which authorized appropriations for fiscal years 1981 to 1984.
 
 Subsec. (b). Pub. L. 98–473, amended subsec. (b) generally, substituting provisions which set forth specific percentages of appropriations for parts A, B and C for former provisions which also set forth appropriation percentages for juvenile delinquency programs.
 
@@ -62,13 +62,13 @@ Subsec. (c). Pub. L. 98–473, amended subsec. (c) generally. Prior to amendment
 
 Subsec. (d). Pub. L. 98–473, in amending section generally, added subsec. (d).
 
-1980—Subsec. (a). Pub. L. 96–509, §2(a), substituted provisions authorizing appropriations of $200,000,000 for each of fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, for provisions that had authorized appropriations of $150,000,000 for fiscal year ending Sept. 30, 1978, $175,000,000 for fiscal year ending Sept. 30, 1979, and $200,000,000 for fiscal year ending Sept. 30, 1980.
+<b>1980</b>—Subsec. (a). Pub. L. 96–509, §2(a), substituted provisions authorizing appropriations of $200,000,000 for each of fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, for provisions that had authorized appropriations of $150,000,000 for fiscal year ending Sept. 30, 1978, $175,000,000 for fiscal year ending Sept. 30, 1979, and $200,000,000 for fiscal year ending Sept. 30, 1980.
 
 Subsec. (c). Pub. L. 96–509, §15, added subsec. (c).
 
-1977—Subsec. (a). Pub. L. 95–115 substituted provisions setting forth authorization of appropriations for fiscal year ending Sept. 30, 1978, through fiscal year ending Sept. 30, 1980, and authorization of availability of funds until expended, for provisions setting forth authorization of appropriations for fiscal year ending June 30, 1975, through fiscal year ending Sept. 30, 1977.
+<b>1977</b>—Subsec. (a). Pub. L. 95–115 substituted provisions setting forth authorization of appropriations for fiscal year ending Sept. 30, 1978, through fiscal year ending Sept. 30, 1980, and authorization of availability of funds until expended, for provisions setting forth authorization of appropriations for fiscal year ending June 30, 1975, through fiscal year ending Sept. 30, 1977.
 
-1976—Subsec. (a). Pub. L. 94–273 substituted “September 30, 1977” for “June 30, 1977”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–273 substituted “September 30, 1977” for “June 30, 1977”.
 
 Subsec. (b). Pub. L. 94–503 substituted “subsection (a) of this section” for “this section” and “the appropriation for the Law Enforcement Assistance Administration, each fiscal year, at least 19.15 percent of the total appropriations for the Administration, for juvenile delinquency programs” for “other Law Enforcement Assistance Administration appropriations other than the appropriations for administration, at least the same level of financial assistance for juvenile delinquency programs assisted by the Law Enforcement Assistance Administration during fiscal year 1972”.
 

@@ -62,9 +62,9 @@ In subsection (d), the words “Not later than” are substituted for “On or b
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–316 struck out “and the Comptroller General” after “Secretary”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–316 struck out “and the Comptroller General” after “Secretary”.
 
-1995—Subsec. (c). Pub. L. 104–88, §308(f)(4), substituted “Surface Transportation Board” for “Interstate Commerce Commission” and “The Board” for “The Commission”.
+<b>1995</b>—Subsec. (c). Pub. L. 104–88, §308(f)(4), substituted “Surface Transportation Board” for “Interstate Commerce Commission” and “The Board” for “The Commission”.
 
 Subsec. (d). Pub. L. 104–88, §308(f)(5), substituted “part A of subtitle IV” for “subchapter I of chapter 105”.
 

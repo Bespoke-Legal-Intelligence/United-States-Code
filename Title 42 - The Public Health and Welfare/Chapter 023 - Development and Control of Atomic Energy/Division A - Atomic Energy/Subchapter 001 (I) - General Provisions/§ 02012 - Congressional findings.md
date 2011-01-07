@@ -2,7 +2,7 @@
 
 The Congress of the United States makes the following findings concerning the development, use, and control of atomic energy:
 
-(a) The development, utilization, and control of atomic energy for military and for all other purposes are vital to the common defense and security.
+(a) The development, utilization, and control of atomic energy for military and for all otherpurposes are vital to the common defense and security.
 
 (b) Repealed. Pub. L. 88–489, §1, Aug. 26, 1964, 78 Stat. 602.
 
@@ -28,11 +28,11 @@ Provisions similar to those comprising this section were contained in section 1 
 
 #### Amendments
 
-1964—Subsec. (b). Pub. L. 88–489, §1, struck out subsec. (b) which found that use of United States property by others must be regulated in national interest and in order to provide for common defense and security and to protect health and safety of public.
+<b>1964</b>—Subsec. (b). Pub. L. 88–489, §1, struck out subsec. (b) which found that use of United States property by others must be regulated in national interest and in order to provide for common defense and security and to protect health and safety of public.
 
 Subsec. (h). Pub. L. 88–489, §2, struck out subsec. (h) which found it essential to common defense and security that title to all special nuclear material be in United States while such special nuclear material is within United States.
 
-1957—Subsec. (i). Pub. L. 85–256 added subsec. (i).
+<b>1957</b>—Subsec. (i). Pub. L. 85–256 added subsec. (i).
 
 #### Control and Regulation Powers of United States and of Atomic Energy Commission Unaffected by Private Ownership of Special Nuclear Materials
 

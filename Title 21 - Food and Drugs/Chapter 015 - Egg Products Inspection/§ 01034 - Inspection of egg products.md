@@ -34,9 +34,13 @@ The Secretary shall cause such other inspections to be made of the business prem
 
 (Pub. L. 91–597, §5, Dec. 29, 1970, 84 Stat. 1624; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–237, title X, §1012(b), Dec. 13, 1991, 105 Stat. 1899.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (d), was in the original “this Act”, meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
+
 #### Amendments
 
-1991—Subsec. (e). Pub. L. 102–237 added subsec. (e).
+<b>1991</b>—Subsec. (e). Pub. L. 102–237 added subsec. (e).
 
 #### Change of Name
 

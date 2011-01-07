@@ -2,7 +2,7 @@
 
 #### (a) Establishment; appointment of Director; statistical and epidemiological activities
 
-There is established in the Department of Health and Human Services the National Centerfor Health Statistics (hereinafter in this section referred to as the “Center”) which shall be under the direction of a Director who shall be appointed by the Secretary. The Secretary, acting through the Center, shall conduct and support statistical and epidemiological activities for the purpose of improving the effectiveness, efficiency, and quality of health services in the United States.
+There is established in the Department of Health and Human Services the National Center for Health Statistics (hereinafter in this section referred to as the “Center”) which shall be under the direction of a Director who shall be appointed by the Secretary. The Secretary, acting through the Center, shall conduct and support statistical and epidemiological activities for the purpose of improving the effectiveness, efficiency, and quality of health services in the United States.
 
 #### (b) Duties
 
@@ -58,7 +58,7 @@ For the purpose of producing comparable and uniform health information and stati
 
 #### (f) Federal-State cooperation
 
-To assist in carrying out this section, the Secretary, acting through the Center, shall cooperate and consult with the Departments of Commerce and Labor and any other interested Federal departments or agencies and with State and local health departments and agencies. For such purpose he shall utilize insofar as possible the services or facilities of any agency of the Federal Government and, without regard to section 5 of title 41, of any appropriate State or other public agency, and may, without regard to such section, utilize the services or facilities of any private agency, organization, group, or individual, in accordance with written agreements between the head of such agency, organization, or group and the Secretary or between such individual and the Secretary. Payment, if any, for such services or facilities shall be made in such amounts as may be provided in such agreement.
+To assist in carrying out this section, the Secretary, acting through the Center, shall cooperate and consult with the Departments of Commerce and Labor and any other interested Federal departments or agencies and with State and local health departments and agencies. For such purpose he shall utilize insofar as possible the services or facilities of any agency of the Federal Government and, without regard to section 6101 of title 41, of any appropriate State or other public agency, and may, without regard to such section, utilize the services or facilities of any private agency, organization, group, or individual, in accordance with written agreements between the head of such agency, organization, or group and the Secretary or between such individual and the Secretary. Payment, if any, for such services or facilities shall be made in such amounts as may be provided in such agreement.
 
 #### (g) Collection of health data; data collection forms
 
@@ -66,7 +66,7 @@ To secure uniformity in the registration and collection of mortality, morbidity,
 
 #### (h) Registration area records
 
-(1) There shall be an annual collection of data from the records of births, deaths, marriages, and divorces in registration areas. The data shall be obtained only from and restricted to such records of the States and municipalities which the Secretary, in his discretion, determines possess records affording satisfactory data in necessary detail and form. The Secretary shall encourage States and registration areas to obtain detailed data on ethnic and racial populations, including subpopulations of Hispanics, Asian Americans, and Pacific Islanders with significant representation in the State or registration area. Each State or registration area shall be paid by the Secretary the Federal share of its reasonable costs (as determined by the Secretary) for collecting and transcribing (at the request of the Secretary and by whatever method authorized by him) its records for such data.
+(1) There shall be an annual collection of data from the records of births, deaths, marriages, and divorces in registration areas. The data shall be obtained only from and restricted to such records of the States and municipalities which the Secretary, in his discretion, determines possess records affording satisfactory data in necessary detail and form. The Secretary shall encourage States and registrationareas to obtain detailed data on ethnic and racial populations, including subpopulations of Hispanics, Asian Americans, and Pacific Islanders with significant representation in the State or registration area. Each State or registration area shall be paid by the Secretary the Federal share of its reasonable costs (as determined by the Secretary) for collecting and transcribing (at the request of the Secretary and by whatever method authorized by him) its records for such data.
 
 (2) There shall be an annual collection of data from a statistically valid sample concerning the general health, illness, and disability status of the civilian noninstitutionalized population. Specific topics to be addressed under this paragraph, on an annual or periodic basis, shall include the incidence of illness and accidental injuries, prevalence of chronic diseases and impairments, disability, physician visits, hospitalizations, and the relationship between demographic and socioeconomic characteristics and health characteristics.
 
@@ -164,7 +164,7 @@ In carrying out this section, the Secretary, acting through the Center, shall co
 
 (4)(A) Subject to subparagraph (B), the Secretary, acting through the Center, shall collect data on Hispanics and major Hispanic subpopulation groups and American Indians, and for developing special area population studies on major Asian American and Pacific Islander populations.
 
-(B) The provisions of subparagraph (A) shall be effective with respect to a fiscal year only to the extent that funds are appropriated pursuant to paragraph (3) of subsection (n) of this section, and only if the amounts appropriated for such fiscal year pursuant to each of paragraphs (1)and (2) of subsection (n) of this section equal or exceed the amounts so appropriated for fiscal year 1997.
+(B) The provisions of subparagraph (A) shall be effective with respect to a fiscal year only to the extent that funds are appropriated pursuant to paragraph (3) of subsection (n) of this section, and only if the amounts appropriated for such fiscal year pursuant to each of paragraphs (1) and (2) of subsection (n) of this section equal or exceed the amounts so appropriated for fiscal year 1997.
 
 #### (n) Authorization of appropriations
 
@@ -182,6 +182,10 @@ Section 3509 of title 44, referred to in subsec. (j)(4), (5), which required sub
 
 The Social Security Act, referred to in subsec. (k)(5)(A)(viii), (D), (7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part C of title XI of the Act is classified generally to part C (§1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
+#### Codification
+
+In subsec. (f), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Prior Provisions
 
 Provisions similar to those comprising subsec. (g) of this section were contained in section 313 of act July 1, 1944, ch. 373, title III, 58 Stat. 693; Oct. 30, 1970, Pub. L. 91–516, title II, §282, 84 Stat. 1308 (formerly classified to section 245 of this title), prior to repeal by Pub. L. 93–353, §102(a).
@@ -190,7 +194,7 @@ Provisions similar to those comprising subsec. (h) of this section were containe
 
 #### Amendments
 
-1998—Subsec. (m)(4). Pub. L. 105–392, §201(b)(1), added par. (4).
+<b>1998</b>—Subsec. (m)(4). Pub. L. 105–392, §201(b)(1), added par. (4).
 
 Subsec. (n)(1). Pub. L. 105–340, §201(1), and Pub. L. 105–392, §201(b)(2), amended par. (1) identically, substituting “2003” for “1998”.
 
@@ -200,7 +204,7 @@ Pub. L. 105–340, §201(2), substituted “2003” for “1998”.
 
 Subsec. (n)(3). Pub. L. 105–392, §201(b)(3)(B), added par. (3).
 
-1996—Subsec. (k)(1). Pub. L. 104–191, §263(1), substituted “18” for “16”.
+<b>1996</b>—Subsec. (k)(1). Pub. L. 104–191, §263(1), substituted “18” for “16”.
 
 Subsec. (k)(2). Pub. L. 104–191, §263(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The members of the Committee shall be appointed by the Secretary from among persons who have distinguished themselves in the fields of health statistics, health planning, epidemiology, and the provision of health services. Members of the Committee shall be appointed for terms of 4 years.”
 
@@ -214,7 +218,7 @@ Subsec. (k)(6). Pub. L. 104–191, §263(3), redesignated par. (5) as (6).
 
 Subsec. (k)(7). Pub. L. 104–191, §263(5), added par. (7).
 
-1993—Subsec. (c). Pub. L. 103–183, §501(a)(1), substituted “Committee on Labor and Human Resources” for “Committee on Human Resources”.
+<b>1993</b>—Subsec. (c). Pub. L. 103–183, §501(a)(1), substituted “Committee on Labor and Human Resources” for “Committee on Human Resources”.
 
 Subsec. (g). Pub. L. 103–183, §501(a)(2), substituted “data” for “data which shall be published as a part of the health reports published by the Secretary”.
 
@@ -228,19 +232,19 @@ Subsec. (m). Pub. L. 103–183, §501(a)(5)(B), redesignated subsec. (n) as (m).
 
 Subsecs. (n), (<i>o</i>). Pub. L. 103–183, §501(a)(5)(B), (D), (d), redesignated subsec. (<i>o</i>) as (n), in par. (1) substituted “(<i>l</i>)” for “(m)” and “1998” for “1993”, and in par. (2) substituted “(m)” for “(n)”, struck out “and” after “1992,”, inserted “, and $10,000,000 for each of the fiscal years 1994 through 1998”, and substituted “(m)(2)” for “(n)(2)”. Former subsec. (n) redesignated (m).
 
-1991—Subsec. (k)(4)(C). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Subsec. (k)(4)(C). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1990—Subsec. (h). Pub. L. 101–527, §7(a), designated existing text as par. (1), inserted after second sentence“The Secretary shall encourage States and registration areas to obtain detailed data on ethnic and racial populations, including subpopulations of Hispanics, Asian Americans, and Pacific Islanders with significant representation in the State or registration area.”, and added par. (2).
+<b>1990</b>—Subsec. (h). Pub. L. 101–527, §7(a), designated existing text as par. (1), inserted after second sentence “The Secretary shall encourage States and registration areas to obtain detailed data on ethnic and racial populations, including subpopulations of Hispanics, Asian Americans, and Pacific Islanders with significant representation in the State or registration area.”, and added par. (2).
 
 Subsecs. (m) to (<i>o</i>). Pub. L. 101–527, §7(b)(1), (c), added subsecs. (m) and (n) and redesignated former subsec. (m) as (<i>o</i>) and amended it generally. Prior to amendment, subsec. (<i>o</i>) read as follows: “For health statistical and epidemiological activities undertaken or supported under this section, there are authorized to be appropriated $55,000,000 for fiscal year 1988 and such sums as may be necessary for each of the fiscal years 1989 and 1990.”
 
-1989—Subsec. (a). Pub. L. 101–239, §6103(e)(2)(A), inserted at end “The Secretary, acting through the Center, shall conduct and support statistical and epidemiological activities for the purpose of improving the effectiveness, efficiency, and quality of health services in the United States.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §6103(e)(2)(A), inserted at end “The Secretary, acting through the Center, shall conduct and support statistical and epidemiological activities for the purpose of improving the effectiveness, efficiency, and quality of health services in the United States.”
 
 Subsec. (b). Pub. L. 101–239, §6103(e)(2)(B), substituted “subsection (a) of this section” for “section 242b(a) of this title”.
 
 Subsec. (m). Pub. L. 101–239, §6103(e)(2)(C), added subsec. (m).
 
-1987—Subsec. (a). Pub. L. 100–177, §104, struck out “and supervised by the Assistant Secretary for Health (or such other officer of the Department as may be designated by the Secretary as the principal adviser to him for health programs)”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–177, §104, struck out “and supervised by the Assistant Secretary for Health (or such other officer of the Department as may be designated by the Secretary as the principal adviser to him for health programs)”.
 
 Subsec. (k)(1). Pub. L. 100–177, §105(a)(1), substituted “16 members” for “fifteen members”.
 
@@ -256,11 +260,11 @@ Subsec. (k)(2)(B). Pub. L. 100–177, §105(a)(3), added subpar. (B) and struck 
 
 > as designated by the Secretary at the time of appointment. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. A member may serve after the expiration of his term until his successor has taken office.”
 
-1983—Subsec. (<i>l</i>)(2)(D). Pub. L. 97–414 redesignated subpar. (E) as (D) and struck out former subpar. (D) which provided that the Center would serve as a clearinghouse for statistics and information with respect to which guidelines had been established under subpar. (A).
+<b>1983</b>—Subsec. (<i>l</i>)(2)(D). Pub. L. 97–414 redesignated subpar. (E) as (D) and struck out former subpar. (D) which provided that the Center would serve as a clearinghouse for statistics and information with respect to which guidelines had been established under subpar. (A).
 
 Subsec. (<i>l</i>)(2)(E) to (G). Pub. L. 97–414 redesignated subpars. (F) and (G) as (E) and (F), respectively. Former subpar. (E) redesignated (D).
 
-1981—Subsec. (a). Pub. L. 97–35, §920(d)(1), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §920(d)(1), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
 Subsec. (c). Pub. L. 97–35, §920(d)(2), substituted “Energy and” for “Interstate and Foreign”.
 
@@ -270,7 +274,7 @@ Subsecs. (j), (k)(4)(C), (D). Pub. L. 97–35, §920(d)(1), substituted “Healt
 
 Subsec. (<i>l</i>)(2). Pub. L. 97–35, §920(b), (c), (d)(1), in subpar. (A) inserted reference to Office of Federal Statistical Policy and Standards, in subpar. (B)(v) substituted “Health and Human Services” for “Health, Education, and Welfare”, and in subpar. (D) struck out provisions relating to assistance to executive departments.
 
-1978—Subsec. (b). Pub. L. 95–623, §5(a), struck out “may” after “through the Center,”, substituted in pars. (1) and (2) “shall collect” and “shall undertake” for “collect” and “undertake”, respectively, and added pars. (3) and (4) and provision for availability of certain appropriated funds from par. (4) payments until expended.
+<b>1978</b>—Subsec. (b). Pub. L. 95–623, §5(a), struck out “may” after “through the Center,”, substituted in pars. (1) and (2) “shall collect” and “shall undertake” for “collect” and “undertake”, respectively, and added pars. (3) and (4) and provision for availability of certain appropriated funds from par. (4) payments until expended.
 
 Subsec. (c). Pub. L. 95–623, §5(b), substituted “statistical and epidemiological compilations” for “statistical compilations” in two places and “Committee on Human Resources” for “Committee on Labor and Public Welfare” of the Senate.
 

@@ -16,21 +16,23 @@
 
 &emsp;(2) The term “suspend” means to disqualify, pursuant to established administrative procedures, from Government contracting and subcontracting for a temporary period of time because a concern or individual is suspected of engaging in criminal, fraudulent, or seriously improper conduct.
 
-(d) The Secretary of Defense shall prescribe in regulations a requirement that each contractor under contract with the Department of Defense shall require each contractor to whom it awards a contract (in this section referred to as a subcontractor) to disclose to the contractor whether the subcontractor is or is not, as of the time of the award of the subcontract, debarred or suspended by the Federal Government from Government contracting or subcontracting. The requirement shall apply to any subcontractor whose subcontract is in an amount greater than the simplified acquisition threshold (as defined in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))). The requirement shall not apply in the case of a subcontract for the acquisition of commercial items (as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))).
+(d) The Secretary of Defense shall prescribe in regulations a requirement that each contractor under contract with the Department of Defense shall require each contractor to whom it awards a contract (in this section referred to as a subcontractor) to disclose to the contractor whether the subcontractor is or is not, as of the time of the award of the subcontract, debarred or suspended by the Federal Government from Government contracting or subcontracting. The requirement shall apply to any subcontractor whose subcontract is in an amount greater than the simplified acquisition threshold (as defined in section 134 of title 41). The requirement shall not apply in the case of a subcontract for the acquisition of commercial items (as defined in section 103 of title 41).
 
-(Added Pub. L. 97–86, title IX, §914(a), Dec. 1, 1981, 95 Stat. 1124; amended Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–510, div. A, title VIII, §813, Nov. 5, 1990, 104 Stat. 1596; Pub. L. 102–190, div. A, title X, §1061(a)(11), Dec. 5, 1991, 105 Stat. 1473; Pub. L. 103–355, title IV, §4102(e), title VIII, §8105(c), Oct. 13, 1994, 108 Stat. 3340, 3392.)
+(Added Pub. L. 97–86, title IX, §914(a), Dec. 1, 1981, 95 Stat. 1124; amended Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–510, div. A, title VIII, §813, Nov. 5, 1990, 104 Stat. 1596; Pub. L. 102–190, div. A, title X, §1061(a)(11), Dec. 5, 1991, 105 Stat. 1473; Pub. L. 103–355, title IV, §4102(e), title VIII, §8105(c), Oct. 13, 1994, 108 Stat. 3340, 3392; Pub. L. 111–350, §5(b)(24), Jan. 4, 2011, 124 Stat. 3844.)
 
 #### Amendments
 
-1994—Subsec. (d). Pub. L. 103–355 substituted “greater than the simplified acquisition threshold (as defined insection 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))).” for “above the small purchase amount established in section 2304(g) of this title.” in second sentence and inserted at end “The requirement shall not apply in the case of a subcontract for the acquisition of commercial items (as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))).”
+<b>2011</b>—Subsec. (d). Pub. L. 111–350 substituted “section 134 of title 41)” for “section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)))” and “section 103 of title 41)” for “section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)))”.
 
-1991—Subsec. (d). Pub. L. 102–190 substituted “Federal Government” for “Federal government”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–355 substituted “greater than the simplified acquisition threshold (as defined in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))).” for “above the small purchase amount established in section 2304(g) of this title.” in second sentence and inserted at end “The requirement shall not apply in the case of a subcontract for the acquisition of commercial items (as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))).”
 
-1990—Subsec. (d). Pub. L. 101–510 added subsec. (d).
+<b>1991</b>—Subsec. (d). Pub. L. 102–190 substituted “Federal Government” for “Federal government”.
 
-1987—Subsec. (c). Pub. L. 100–180 inserted “The term” after each par. designation and revised first word in quotes in each par. to make initial letter of such word lowercase.
+<b>1990</b>—Subsec. (d). Pub. L. 101–510 added subsec. (d).
+
+<b>1987</b>—Subsec. (c). Pub. L. 100–180 inserted “The term” after each par. designation and revised first word in quotes in each par. to make initial letter of such word lowercase.
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
 

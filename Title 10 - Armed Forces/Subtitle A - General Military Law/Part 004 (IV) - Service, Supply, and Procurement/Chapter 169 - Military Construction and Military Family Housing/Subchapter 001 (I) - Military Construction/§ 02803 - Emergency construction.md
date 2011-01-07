@@ -12,15 +12,15 @@
 
 #### Amendments
 
-2006—Subsec. (c)(1). Pub. L. 109–364 substituted “$50,000,000” for “$45,000,000”.
+<b>2006</b>—Subsec. (c)(1). Pub. L. 109–364 substituted “$50,000,000” for “$45,000,000”.
 
-2003—Subsec. (b). Pub. L. 108–136, §1031(a)(34), inserted before period at end “or, if earlier, the end of the seven-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–136, §1031(a)(34), inserted before period at end “or, if earlier, the end of the seven-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
 
 Subsec. (c)(1). Pub. L. 108–136, §2802, substituted “$45,000,000” for “$30,000,000”.
 
-1992—Subsec. (b). Pub. L. 102–484 made technical amendment to directory language of Pub. L. 102–190, §2870(2). See 1991 Amendment note below.
+<b>1992</b>—Subsec. (b). Pub. L. 102–484 made technical amendment to directory language of Pub. L. 102–190, §2870(2). See 1991 Amendment note below.
 
-1991—Subsec. (a). Pub. L. 102–190, §2803, substituted “or to the protection of health, safety, or the quality of the environment, and” for “, and” in cl. (1) and inserted “or the protection of health, safety, or environmental quality, as the case may be” before period at end of cl. (2).
+<b>1991</b>—Subsec. (a). Pub. L. 102–190, §2803, substituted “or to the protection of health, safety, or the quality of the environment, and” for “, and” in cl. (1) and inserted “or the protection of health, safety, or environmental quality, as the case may be” before period at end of cl. (2).
 
 Subsec. (b). Pub. L. 102–190, §2870(2), as amended by Pub. L. 102–484, struck out “, or after each such committee has approved the project, if the committee approves the project before the end of that period” after “by such committees”.
 

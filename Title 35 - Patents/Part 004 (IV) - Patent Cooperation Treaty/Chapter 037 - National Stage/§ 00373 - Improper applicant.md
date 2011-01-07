@@ -6,9 +6,9 @@ An international application designating the United States, shall not be accepte
 
 #### Amendments
 
-1994—Pub. L. 103–465 substituted “subsections (a) through (d) of section 119” for “section 119”.
+<b>1994</b>—Pub. L. 103–465 substituted “subsections (a) through (d) of section 119” for “section 119”.
 
-1984—Pub. L. 98–622 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1984</b>—Pub. L. 98–622 substituted “Patent and Trademark Office” for “Patent Office”.
 
 #### Effective Date of 1994 Amendment
 

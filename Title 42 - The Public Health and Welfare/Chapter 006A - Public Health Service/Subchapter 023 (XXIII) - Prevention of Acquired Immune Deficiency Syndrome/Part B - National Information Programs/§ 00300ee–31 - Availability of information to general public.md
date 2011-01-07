@@ -18,13 +18,13 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (c) Toll-free telephone communications
 
-The Secretary shall provide for the establishment and maintenance of toll-free telephone communications to provide information to, and respond to queries from, the public concerning acquired immune deficiency syndrome. Such communications shall be available on a 24-hour basis.
+The Secretary shall provide for the establishment and maintenance of toll-free telephonecommunications to provide information to, and respond to queries from, the public concerning acquired immune deficiency syndrome. Such communications shall be available on a 24-hour basis.
 
 (July 1, 1944, ch. 373, title XXV, formerly title XV, §2521, as added Pub. L. 100–607, title II, §221, Nov. 4, 1988, 102 Stat. 3102; renumbered title XXV, Pub. L. 101–93, §5(e)(1), Aug. 16, 1989, 103 Stat. 612; amended Pub. L. 102–531, title III, §312(d)(22), Oct. 27, 1992, 106 Stat. 3505.)
 
 #### Amendments
 
-1992—Subsecs. (a), (b)(1). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsecs. (a), (b)(1). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -18,7 +18,7 @@ When authorized by treaty, agreement or foreign law, merchandise which is subjec
 
 #### (e) Stationing of foreign customs and agriculture inspection officers in the United States
 
-The Secretary of State, in coordination with the Secretary and the Secretary of Agriculture, may enter into agreements with any foreigncountry authorizing the stationing in the United States of customs and agriculture inspection officials of that country (if similar privileges are extended by that country to United States officials) for the purpose of ensuring that persons and merchandise going directly to that country from the United States, or that have gone directly from that country to the United States, comply with the customs and other laws of that country governing the importation or exportation of merchandise. Any foreign customs or agriculture inspection official stationed in the United States under this subsection may exercise such functions, perform such duties, and enjoy such privileges and immunities as United States officials may be authorized to perform or are afforded in that foreign country by treaty, agreement, or law.
+The Secretary of State, in coordination with the Secretary and the Secretary of Agriculture, may enter into agreements with any foreign country authorizing the stationing in the United States of customs and agriculture inspection officials of that country (if similar privileges are extended by that country to United States officials) for the purpose of ensuring that persons and merchandise going directly to that country from the United States, or that have gone directly from that country to the United States, comply with the customs and other laws of that country governing the importation or exportation of merchandise. Any foreign customs or agriculture inspection official stationed in the United States under this subsection may exercise such functions, perform such duties, and enjoy such privileges and immunities as United States officials may be authorized to perform or are afforded in that foreign country by treaty, agreement, or law.
 
 #### (f) Application of certain laws
 
@@ -88,11 +88,11 @@ Any person designated to perform the duties of an officer of the Customs Service
 
 #### Amendments
 
-2006—Subsec. (e). Pub. L. 109–280 substituted “ensuring” for “insuring”.
+<b>2006</b>—Subsec. (e). Pub. L. 109–280 substituted “ensuring” for “insuring”.
 
 Subsec. (h). Pub. L. 109–347 added subsec. (h).
 
-2004—Pub. L. 108–429, §1561(c), repealed Pub. L. 108–7, §127(c). See 2003 Amendment notes below.
+<b>2004</b>—Pub. L. 108–429, §1561(c), repealed Pub. L. 108–7, §127(c). See 2003 Amendment notes below.
 
 Subsec. (a). Pub. L. 108–429, §1561(b)(1), inserted “, or subsequent to their exit from,” after “prior to their arrival in”.
 
@@ -102,7 +102,7 @@ Subsec. (e). Pub. L. 108–429, §1561(b)(3), amended heading and text of subsec
 
 Subsec. (g). Pub. L. 108–429, §1561(b)(4), added subsec. (g).
 
-2003—Subsec. (a). Pub. L. 108–7, §127(c)(1), which directed insertion of “, or subsequent to their exit from,” after “prior to their arrival in” in section 1629 of title 19, was repealed by Pub. L. 108–429, §1561(c).
+<b>2003</b>—Subsec. (a). Pub. L. 108–7, §127(c)(1), which directed insertion of “, or subsequent to their exit from,” after “prior to their arrival in” in section 1629 of title 19, was repealed by Pub. L. 108–429, §1561(c).
 
 Subsec. (c). Pub. L. 108–7, §127(c)(2), which directed insertion of “or exportation” after “relating to the importation” and “or exit” after “port of entry” in section 1629 of title 19, was repealed by Pub. L. 108–429, §1561(c).
 
@@ -156,5 +156,5 @@ Elements of the program.—Using the authority granted by this section and under
 
 #### Creation of Integrated Border Inspection Areas
 
-Pub. L. 108–7, div. J, title I, §127(a), Feb. 20, 2003, 117 Stat. 440, which related to the creation of integrated border inspection areas on either side of the United States–Canada border, was repealed by Pub. L. 108–429, title I, §1561(c), Dec. 3, 2004, 118 Stat. 2582.
+Pub. L. 108–7, div. J, title I, §127(a), Feb. 20, 2003, 117 Stat. 440, which related to the creation of integratedborder inspection areas on either side of the United States–Canada border, was repealed by Pub. L. 108–429, title I, §1561(c), Dec. 3, 2004, 118 Stat. 2582.
 

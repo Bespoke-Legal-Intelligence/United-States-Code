@@ -50,7 +50,7 @@ Limitations.—(1) Funds may not be provided under this section for a fiscal yea
 
 (2) An activity may not be conducted under this section with a foreign country unless the Secretary of State approves the conduct of such activity in that foreign country.
 
-(3) Funds may not be provided under this section for a fiscal year for any country that is noteligible in that fiscal year for assistance under chapter 5 of part II of the Foreign Assistance Act of 1961.
+(3) Funds may not be provided under this section for a fiscal year for any country that is not eligible in that fiscal year for assistance under chapter 5 of part II of the Foreign Assistance Act of 1961.
 
 (4) Except for those activities specifically authorized under subsection (c), funds may not be used under this section for the provision of defense articles or defense services to any country or for assistance under chapter 5 of part II of the Foreign Assistance Act of 1961.
 
@@ -78,11 +78,11 @@ The Foreign Assistance Act of 1961, referred to in subsec. (e)(3), (4), is Pub. 
 
 #### Amendments
 
-2008—Subsec. (c)(9). Pub. L. 110–181 added par. (9).
+<b>2008</b>—Subsec. (c)(9). Pub. L. 110–181 added par. (9).
 
 Subsec. (e)(5). Pub. L. 110–417 added par. (5).
 
-2004—Subsec. (f). Pub. L. 108–375 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+<b>2004</b>—Subsec. (f). Pub. L. 108–375 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
 “(1) A member of a reserve component referred to in paragraph (2) shall not be counted for purposes of the following personnel strength limitations:
 
@@ -94,7 +94,7 @@ Subsec. (e)(5). Pub. L. 110–417 added par. (5).
 
 “(2) A member of a reserve component referred to in paragraph (1) is any member on active duty under an order to active duty for 180 days or more who is engaged in activities authorized under this section.”
 
-1996—Subsecs. (f), (g). Pub. L. 104–106 added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>1996</b>—Subsecs. (f), (g). Pub. L. 104–106 added subsec. (f) and redesignated former subsec. (f) as (g).
 
 #### Effective Date of 2008 Amendment
 
@@ -156,7 +156,7 @@ Report.—
 
 &emsp;“(1)
 
-In general.—Not later than 90 days after the end of the fiscal year in which the authority in subsection (a) has been exercised, the Secretary of Defense shall submit to the appropriate congressionalcommittees a report on the use of the authority through the end of such fiscal year.
+In general.—Not later than 90 days after the end of the fiscal year in which the authority in subsection (a) has been exercised, the Secretary of Defense shall submit to the appropriate congressional committees a report on the use of the authority through the end of such fiscal year.
 
 &emsp;“(2)
 

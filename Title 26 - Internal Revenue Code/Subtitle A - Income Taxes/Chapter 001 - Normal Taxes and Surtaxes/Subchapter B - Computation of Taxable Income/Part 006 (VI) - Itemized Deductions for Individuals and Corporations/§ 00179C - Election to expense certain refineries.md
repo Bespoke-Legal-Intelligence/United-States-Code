@@ -104,7 +104,7 @@ The Clean Air Act, referred to in subsec. (c)(3), is act July 14, 1955, ch. 360,
 
 #### Amendments
 
-2008—Subsec. (c)(1)(B). Pub. L. 110–343, §209(a)(1), substituted “January 1, 2014” for “January 1, 2012”.
+<b>2008</b>—Subsec. (c)(1)(B). Pub. L. 110–343, §209(a)(1), substituted “January 1, 2014” for “January 1, 2012”.
 
 Subsec. (c)(1)(F). Pub. L. 110–343, §209(a)(2), substituted “January 1, 2010” for “January 1, 2008” wherever appearing.
 

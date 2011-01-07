@@ -160,7 +160,7 @@ The objectives of the geologic mapping program shall include—
 
 #### Amendments
 
-2009—Subsec. (b)(1)(A). Pub. L. 111–11, §11001(c)(1), substituted “not later than 1 year after March 30, 2009;” for “not later than 1 year after December 9, 1999;”.
+<b>2009</b>—Subsec. (b)(1)(A). Pub. L. 111–11, §11001(c)(1), substituted “not later than 1 year after March 30, 2009;” for “not later than 1 year after December 9, 1999;”.
 
 Subsec. (b)(1)(B). Pub. L. 111–11, §11001(c)(2), substituted “not later than 1 year after March 30, 2009, in accordance” for “not later than 1 year after December 9, 1999, in accordance”.
 
@@ -170,7 +170,7 @@ Subsec. (c)(2). Pub. L. 111–11, §11001(d), struck out “geophysical-map data
 
 Subsec. (d)(1)(B)(ii)(III). Pub. L. 111–11, §11001(e), added subcl. (III).
 
-1999—Subsec. (b)(1). Pub. L. 106–148, §4(1)(A), substituted “national priorities and standards for” for “priorities” in first sentence.
+<b>1999</b>—Subsec. (b)(1). Pub. L. 106–148, §4(1)(A), substituted “national priorities and standards for” for “priorities” in first sentence.
 
 Subsec. (b)(1)(A). Pub. L. 106–148, §4(1)(B), substituted “develop a 5-year strategic plan for the geologic mapping program” for “develop a geologic mapping program implementation plan” and “not later than 1 year after December 9, 1999” for “within 300 days after August 5, 1997”.
 
@@ -186,7 +186,7 @@ Subsec. (b)(1)(C)(iii). Pub. L. 106–148, §4(1)(D)(iv), substituted “affect�
 
 Subsec. (d). Pub. L. 106–148, §4(2), added subsec. (d) and struck out former subsec. (d) which set out the Federal, support, State, and education components of the geological mapping program.
 
-1997—Subsec. (a). Pub. L. 105–36, §3(b)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There is established in the United States Geological Survey a National Cooperative Geologic Mapping Program. The geologic mapping program shall be developed in consultation with the advisory committee and shall be designed and administered to achieve the objectives set forth in subsection (c) of this section.”
+<b>1997</b>—Subsec. (a). Pub. L. 105–36, §3(b)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There is established in the United States Geological Survey a National Cooperative Geologic Mapping Program. The geologic mapping program shall be developed in consultation with the advisory committee and shall be designed and administered to achieve the objectives set forth in subsection (c) of this section.”
 
 Subsec. (b). Pub. L. 105–36, §3(b)(2)(A), (D), substituted “the Survey” for “USGS” in heading and realigned text margins.
 
@@ -228,7 +228,7 @@ Subsec. (d)(4). Pub. L. 105–36, §3(b)(4)(D), added par. (4) and struck out fo
 
 > Investigations conducted under the geologic mapping education component shall be integrated with the other mapping components of the geologic mapping program, and shall respond to priorities identified for those components.”
 
-1994—Subsec. (b)(1)(A), (C). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House”.
+<b>1994</b>—Subsec. (b)(1)(A), (C). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House”.
 
 #### Change of Name
 

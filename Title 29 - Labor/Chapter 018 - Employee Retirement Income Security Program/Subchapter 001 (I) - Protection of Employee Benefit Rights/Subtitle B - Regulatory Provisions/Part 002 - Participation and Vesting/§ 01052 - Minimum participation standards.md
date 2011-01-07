@@ -14,7 +14,7 @@
 
 (3)(A) For purposes of this section, the term “year of service” means a 12-month period during which the employee has not less than 1,000 hours of service. For purposes of this paragraph, computation of any 12-month period shall be made with reference to the date on which the employee's employment commenced, except that, in accordance with regulations prescribed by the Secretary, such computation may be made by reference to the first day of a plan year in the case of an employee who does not complete 1,000 hours of service during the 12-month period beginning on the date his employment commenced.
 
-(B) In the case of any seasonal industry where the customary period of employment is lessthan 1,000 hours during a calendar year, the term “year of service” shall be such period as may be determined under regulations prescribed by the Secretary.
+(B) In the case of any seasonal industry where the customary period of employment is less than 1,000 hours during a calendar year, the term “year of service” shall be such period as may be determined under regulations prescribed by the Secretary.
 
 (C) For purposes of this section, the term “hour of service” means a time of service determined under regulations prescribed by the Secretary.
 
@@ -34,7 +34,7 @@
 
 (3) In computing an employee's period of service for purposes of subsection (a)(1) of this section in the case of any participant who has any 1-year break in service (as defined in section 1053(b)(3)(A) of this title), service before such break shall not be required to be taken into account under the plan until he has completed a year of service (as defined in subsection (a)(3) of this section) after his return.
 
-(4)(A) For purposes of paragraph (1), in the case of a nonvested participant, years of service with the employer or employers maintaining the plan before any period of consecutive 1-year breaks in service shall not be required to be taken into account in computing the period of service if the number of consecutive 1-year breaks in service within such period equals or exceeds the greater of—
+(4)(A) For purposes of paragraph (1), in the case of a nonvested participant, years of service with the employer or employers maintaining the plan before any period of consecutive 1-yearbreaks in service shall not be required to be taken into account in computing the period of service if the number of consecutive 1-year breaks in service within such period equals or exceeds the greater of—
 
 &emsp;(i) 5, or
 
@@ -82,7 +82,7 @@
 
 #### Amendments
 
-1989—Subsec. (a)(1)(B)(i). Pub. L. 101–239, §7861(a)(2), made technical correction to directory language of Pub. L. 99–514. See 1986 Amendment note below.
+<b>1989</b>—Subsec. (a)(1)(B)(i). Pub. L. 101–239, §7861(a)(2), made technical correction to directory language of Pub. L. 99–514. See 1986 Amendment note below.
 
 Subsec. (a)(1)(B)(ii). Pub. L. 101–239, §7894(c)(2)(A), substituted “educational organization” for “educational institution”.
 
@@ -92,7 +92,7 @@ Subsec. (a)(2). Pub. L. 101–239, §7892(a), struck out comma after “specifie
 
 Subsec. (b)(2). Pub. L. 101–239, §7894(c)(2)(B), substituted “a plan” for “the plan”.
 
-1986—Subsec. (a)(1)(B)(i). Pub. L. 99–514, as amended by Pub. L. 101–239, §7861(a)(2), substituted “2 years of service” for “3 years of service” in two places.
+<b>1986</b>—Subsec. (a)(1)(B)(i). Pub. L. 99–514, as amended by Pub. L. 101–239, §7861(a)(2), substituted “2 years of service” for “3 years of service” in two places.
 
 Subsec. (a)(2). Pub. L. 99–509 substituted a period for “unless—
 
@@ -104,7 +104,7 @@ Subsec. (a)(2). Pub. L. 99–509 substituted a period for “unless—
 
 &emsp;“(B) such employees begin employment with the employer after they have attained a specified age which is not more than 5 years before the normal retirement age under the plan.”
 
-1984—Subsec. (a)(1). Pub. L. 98–397, §102(a), substituted “21” for “25” in subpar. (A)(i) and “ ‘26’ for ‘21’ ” for “ ‘30’ for ‘25’ ” in subpar. (B)(ii).
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–397, §102(a), substituted “21” for “25” in subpar. (A)(i) and “ ‘26’ for ‘21’ ” for “ ‘30’ for ‘25’ ” in subpar. (B)(ii).
 
 Subsec. (b)(4). Pub. L. 98–397, §102(d)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “In the case of an employee who does not have any nonforfeitable right to an accrued benefit derived from employer contributions, years of service with the employer or employers maintaining the plan before a break in service shall not be required to be taken into account in computing the period of service for purposes of subsection (a)(1) of this section if the number of consecutive 1-year breaks in service equals or exceeds the aggregate number of such years of service before such break. Such aggregate number of years of service before such break shall be deemed not to include any years of service not required to be taken into account under this paragraph by reason of any prior break in service.”
 

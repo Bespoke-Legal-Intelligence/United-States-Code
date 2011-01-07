@@ -84,7 +84,7 @@ The Committee shall—
 
 #### (A) Establishment
 
-&emsp;&emsp;The agenda for a meeting of the Committee shall be established by the Chairpersonand shall be submitted to the members of the Committee upon notification of the meeting.
+&emsp;&emsp;The agenda for a meeting of the Committee shall be established by the Chairperson and shall be submitted to the members of the Committee upon notification of the meeting.
 
 #### (B) Opportunity for public comment
 
@@ -144,7 +144,7 @@ A prior section 1011c, Pub. L. 89–329, title I, §124, as added Pub. L. 102–
 
 #### Amendments
 
-2008—Pub. L. 110–315 amended section generally, revising provisions relating to the National Advisory Committee on Institutional Quality and Integrity and extending its termination date from Sept. 30, 2004, to September 30, 2014.
+<b>2008</b>—Pub. L. 110–315 amended section generally, revising provisions relating to the National Advisory Committee on Institutional Quality and Integrity and extending its termination date from Sept. 30, 2004, to September 30, 2014.
 
 #### Effective Date of 2008 Amendment
 

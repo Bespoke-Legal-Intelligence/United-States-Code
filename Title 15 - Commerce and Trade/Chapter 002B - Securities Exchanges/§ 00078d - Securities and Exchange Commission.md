@@ -34,35 +34,231 @@ Notwithstanding any other provision of law, whenever any fee is required to be p
 
 Notwithstanding any other provision of law, the Commission may accept payment and reimbursement, in cash or in kind, from a foreign securities authority, or made on behalf of such authority, for necessary expenses incurred by the Commission, its members, and employees in carrying out any investigation pursuant to section 78u(a)(2) of this title or in providing any other assistance to a foreign securities authority. Any payment or reimbursement accepted shall be considered a reimbursement to the appropriated funds of the Commission.
 
-(June 6, 1934, ch. 404, title I, §4, 48 Stat. 885; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 86–619, §3, July 12, 1960, 74 Stat. 408; Pub. L. 86–771, Sept. 13, 1960, 74 Stat. 913; Pub. L. 88–426, title III, §305(20), Aug. 14, 1964, 78 Stat. 425; Pub. L. 98–38, §1, June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §307, Dec. 4, 1987, 101 Stat. 1254; Pub. L. 101–550, title I, §103, title II, §207, Nov. 15, 1990, 104 Stat. 2713, 2721; Pub. L. 104–290, title IV, §406, Oct. 11, 1996, 110 Stat. 3444; Pub. L. 105–353, title II, §203, Nov. 3, 1998, 112 Stat. 3234; Pub. L. 107–123, §8(d)(2), Jan. 16, 2002, 115 Stat. 2399.)
+#### (g) Office of the Investor Advocate
+
+#### (1) Office established
+
+&emsp;There is established within the Commission the Office of the Investor Advocate (in this subsection referred to as the “Office”).
+
+#### (2) Investor Advocate
+
+#### (A) In general
+
+&emsp;&emsp;The head of the Office shall be the Investor Advocate, who shall—
+
+&emsp;&emsp;&emsp;(i) report directly to the Chairman; and
+
+&emsp;&emsp;&emsp;(ii) be appointed by the Chairman, in consultation with the Commission, from among individuals having experience in advocating for the interests of investors in securities and investor protection issues, from the perspective of investors.
+
+#### (B) Compensation
+
+&emsp;&emsp;The annual rate of pay for the Investor Advocate shall be equal to the highest rate of annual pay for other senior executives who report to the Chairman of the Commission.
+
+#### (C) Limitation on service
+
+&emsp;&emsp;An individual who serves as the Investor Advocate may not be employed by the Commission—
+
+&emsp;&emsp;&emsp;(i) during the 2-year period ending on the date of appointment as Investor Advocate; or
+
+&emsp;&emsp;&emsp;(ii) during the 5-year period beginning on the date on which the person ceases to serve as the Investor Advocate.
+
+#### (3) Staff of Office
+
+&emsp;The Investor Advocate, after consultation with the Chairman of the Commission, may retain or employ independent counsel, research staff, and service staff, as the Investor Advocate deems necessary to carry out the functions, powers, and duties of the Office.
+
+#### (4) Functions of the Investor Advocate
+
+&emsp;The Investor Advocate shall—
+
+&emsp;&emsp;(A) assist retail investors in resolving significant problems such investors may have with the Commission or with self-regulatory organizations;
+
+&emsp;&emsp;(B) identify areas in which investors would benefit from changes in the regulations of the Commission or the rules of self-regulatory organizations;
+
+&emsp;&emsp;(C) identify problems that investors have with financial service providers and investment products;
+
+&emsp;&emsp;(D) analyze the potential impact on investors of—
+
+&emsp;&emsp;&emsp;(i) proposed regulations of the Commission; and
+
+&emsp;&emsp;&emsp;(ii) proposed rules of self-regulatory organizations registered under this chapter; and
+
+&emsp;&emsp;(E) to the extent practicable, propose to the Commission changes in the regulations or orders of the Commission and to Congress any legislative, administrative, or personnel changes that may be appropriate to mitigate problems identified under this paragraph and to promote the interests of investors.
+
+#### (5) Access to documents
+
+&emsp;The Commission shall ensure that the Investor Advocate has full access to the documents of the Commission and any self-regulatory organization, as necessary to carry out the functions of the Office.
+
+#### (6) Annual reports
+
+#### (A) Report on objectives
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not later than June 30 of each year after 2010, the Investor Advocate shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the objectives of the Investor Advocate for the following fiscal year.
+
+#### (ii) Contents
+
+&emsp;&emsp;&emsp;Each report required under clause (i) shall contain full and substantive analysis and explanation.
+
+#### (B) Report on activities
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not later than December 31 of each year after 2010, the Investor Advocate shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the activities of the Investor Advocate during the immediately preceding fiscal year.
+
+#### (ii) Contents
+
+&emsp;&emsp;&emsp;Each report required under clause (i) shall include—
+
+&emsp;&emsp;&emsp;&emsp;(I) appropriate statistical information and full and substantive analysis;
+
+&emsp;&emsp;&emsp;&emsp;(II) information on steps that the Investor Advocate has taken during the reporting period to improve investor services and the responsiveness of the Commission and self-regulatory organizations to investor concerns;
+
+&emsp;&emsp;&emsp;&emsp;(III) a summary of the most serious problems encountered by investors during the reporting period;
+
+&emsp;&emsp;&emsp;&emsp;(IV) an inventory of the items described in subclause (III) that includes—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) identification of any action taken by the Commission or the self-regulatory organization and the result of such action;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the length of time that each item has remained on such inventory; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) for items on which no action has been taken, the reasons for inaction, and an identification of any official who is responsible for such action;
+
+&emsp;&emsp;&emsp;&emsp;(V) recommendations for such administrative and legislative actions as may be appropriate to resolve problems encountered by investors; and
+
+&emsp;&emsp;&emsp;&emsp;(VI) any other information, as determined appropriate by the Investor Advocate.
+
+#### (iii) Independence
+
+&emsp;&emsp;&emsp;Each report required under this paragraph shall be provided directly to the Committees listed in clause (i) without any prior review or comment from the Commission, any commissioner, any other officer or employee of the Commission, or the Office of Management and Budget.
+
+#### (iv) Confidentiality
+
+&emsp;&emsp;&emsp;No report required under clause (i) may contain confidential information.
+
+#### (7) Regulations
+
+&emsp;The Commission shall, by regulation, establish procedures requiring a formal response to all recommendations submitted to the Commission by the Investor Advocate, not later than 3 months after the date of such submission.
+
+#### (8) Ombudsman
+
+#### (A) Appointment
+
+&emsp;&emsp;Not later than 180 days after the date on which the first Investor Advocate is appointed under paragraph (2)(A)(i),<sup>2</sup> the Investor Advocate shall appoint an Ombudsman, who shall report directly to the Investor Advocate.
+
+#### (B) Duties
+
+&emsp;&emsp;The Ombudsman appointed under subparagraph (A) shall—
+
+&emsp;&emsp;&emsp;(i) act as a liaison between the Commission and any retail investor in resolving problems that retail investors may have with the Commission or with self-regulatory organizations;
+
+&emsp;&emsp;&emsp;(ii) review and make recommendations regarding policies and procedures to encourage persons to present questions to the Investor Advocate regarding compliance with the securities laws; and
+
+&emsp;&emsp;&emsp;(iii) establish safeguards to maintain the confidentiality of communications between the persons described in clause (ii) and the Ombudsman.
+
+#### (C) Limitation
+
+&emsp;&emsp;In carrying out the duties of the Ombudsman under subparagraph (B), the Ombudsman shall utilize personnel of the Commission to the extent practicable. Nothing in this paragraph shall be construed as replacing, altering, or diminishing the activities of any ombudsman or similar office of any other agency.
+
+#### (D) Report
+
+&emsp;&emsp;The Ombudsman shall submit a semiannual report to the Investor Advocate that describes the activities and evaluates the effectiveness of the Ombudsman during the preceding year. The Investor Advocate shall include the reports required under this section in the reports required to be submitted by the Inspector Advocate under paragraph (6).
+
+#### (h) Examiners
+
+#### (1) Division of Trading and Markets
+
+&emsp;The Division of Trading and Markets of the Commission, or any successor organizational unit, shall have a staff of examiners who shall—
+
+&emsp;&emsp;(A) perform compliance inspections and examinations of entities under the jurisdiction of that Division; and
+
+&emsp;&emsp;(B) report to the Director of that Division.
+
+#### (2) Division of Investment Management
+
+&emsp;The Division of Investment Management of the Commission, or any successor organizational unit, shall have a staff of examiners who shall—
+
+&emsp;&emsp;(A) perform compliance inspections and examinations of entities under the jurisdiction of that Division; and
+
+&emsp;&emsp;(B) report to the Director of that Division.
+
+(June 6, 1934, ch. 404, title I, §4, 48 Stat. 885; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 86–619, §3, July 12, 1960, 74 Stat. 408; Pub. L. 86–771, Sept. 13, 1960, 74 Stat. 913; Pub. L. 88–426, title III, §305(20), Aug. 14, 1964, 78 Stat. 425; Pub. L. 98–38, §1, June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §307, Dec. 4, 1987, 101 Stat. 1254; Pub. L. 101–550, title I, §103, title II, §207, Nov. 15, 1990, 104 Stat. 2713, 2721; Pub. L. 104–290, title IV, §406, Oct. 11, 1996, 110 Stat. 3444; Pub. L. 105–353, title II, §203, Nov. 3, 1998, 112 Stat. 3234; Pub. L. 107–123, §8(d)(2), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 111–203, title IX, §§915, 919D, 965, 991(e)(1), July 21, 2010, 124 Stat. 1830, 1840, 1911, 1954.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title IX, §991(e), July 21, 2010, 124 Stat. 1954, provided that, effective Oct. 1, 2011, this section is amended by adding at the end the following:</i>
+
+#### <i>(i) Securities and Exchange Commission Reserve Fund</i>
+
+#### <i>(1) Reserve Fund established</i>
+
+&emsp;<i>There is established in the Treasury of the United States a separate fund, to be known as the “Securities and Exchange Commission Reserve Fund” (referred to in this subsection as the “Reserve Fund”).</i>
+
+#### <i>(2) Reserve Fund amounts</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>Except as provided in subparagraph (B), any registration fees collected by the Commission under section 77f(b) of this title or section 80a–24(f) of this title shall be deposited into the Reserve Fund.</i>
+
+#### <i>(B) Limitations</i>
+
+&emsp;&emsp;<i>For any 1 fiscal year—</i>
+
+&emsp;&emsp;&emsp;<i>(i) the amount deposited in the Fund may not exceed $50,000,000; and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) the balance in the Fund may not exceed $100,000,000.</i>
+
+#### <i>(C) Excess fees</i>
+
+&emsp;&emsp;<i>Any amounts in excess of the limitations described in subparagraph (B) that the Commission collects from registration fees under section 77f(b) of this title or section 80a–24(f) of this title shall be deposited in the General Fund of the Treasury of the United States and shall not be available for obligation by the Commission.</i>
+
+#### <i>(3) Use of amounts in Reserve Fund</i>
+
+&emsp;<i>The Commission may obligate amounts in the Reserve Fund, not to exceed a total of $100,000,000 in any 1 fiscal year, as the Commission determines is necessary to carry out the functions of the Commission. Any amounts in the reserve fund shall remain available until expended. Not later than 10 days after the date on which the Commission obligates amounts under this paragraph, the Commission shall notify Congress of the date, amount, and purpose of the obligation.</i>
+
+#### <i>(4) Rule of construction</i>
+
+&emsp;<i>Amounts collected and deposited in the Reserve Fund shall not be construed to be Government funds or appropriated monies and shall not be subject to apportionment for the purpose of chapter 15 of title 31 or under any other authority.</i>
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this title” and “this Act”, respectively. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a) and (g)(4)(D)(ii), was in the original “this title”. See References in Text note set out under section 78a of this title.
 
 #### Amendments
 
-2002—Subsec. (b)(1), (2). Pub. L. 107–123 added pars. (1) and (2) and struck out former pars. (1) and (2), which authorized the Commission to appoint and compensate officers, attorneys, examiners, and other experts as needed, and to select, appoint, and compensate professional economists.
+<b>2010</b>—Subsec. (g). Pub. L. 111–203, §915, added subsec. (g).
 
-1998—Subsec. (b)(2), (3). Pub. L. 105–353 added par. (2) and redesignated former par. (2) as (3).
+Subsec. (g)(8). Pub. L. 111–203, §919D, added par. (8).
 
-1996—Subsec. (e). Pub. L. 104–290 inserted before period at end “and the Commission may also specify the time that such fee shall be determined and paid relative to the filing of any statement or document with the Commission”.
+Subsec. (h). Pub. L. 111–203, §965, added subsec. (h).
 
-1990—Subsec. (b). Pub. L. 101–550, §103, inserted heading, designated existing provision as par. (1) and inserted heading, and added par. (2).
+<b>2002</b>—Subsec. (b)(1), (2). Pub. L. 107–123 added pars. (1) and (2) and struck out former pars. (1) and (2), which authorized the Commission to appoint and compensate officers, attorneys, examiners, and other experts asneeded, and to select, appoint, and compensate professional economists.
+
+<b>1998</b>—Subsec. (b)(2), (3). Pub. L. 105–353 added par. (2) and redesignated former par. (2) as (3).
+
+<b>1996</b>—Subsec. (e). Pub. L. 104–290 inserted before period at end “and the Commission may also specify the time that such fee shall be determined and paid relative to the filing of any statement or document with the Commission”.
+
+<b>1990</b>—Subsec. (b). Pub. L. 101–550, §103, inserted heading, designated existing provision as par. (1) and inserted heading, and added par. (2).
 
 Subsec. (f). Pub. L. 101–550, §207, added subsec. (f).
 
-1987—Subsec. (e). Pub. L. 100–181 added subsec. (e).
+<b>1987</b>—Subsec. (e). Pub. L. 100–181 added subsec. (e).
 
-1983—Subsecs. (c), (d). Pub. L. 98–38 added subsecs. (c) and (d).
+<b>1983</b>—Subsecs. (c), (d). Pub. L. 98–38 added subsecs. (c) and (d).
 
-1964—Subsec. (a). Pub. L. 88–426 repealed provisions which prescribed the compensation of the Chairman and the Commissioners.
+<b>1964</b>—Subsec. (a). Pub. L. 88–426 repealed provisions which prescribed the compensation of the Chairman and the Commissioners.
 
-1960—Subsec. (a). Pub. L. 86–771 authorized the chairman to receive an additional $500 a year.
+<b>1960</b>—Subsec. (a). Pub. L. 86–771 authorized the chairman to receive an additional $500 a year.
 
 Pub. L. 86–619 increased the salary of each commissioner from $15,000 to $20,000 a year, and provided for continuation in office of a commissioner upon termination of his term until a successor is appointed and has qualified, not beyond expiration of next session of Congress subsequent to the expiration of said fixed term of office.
 
-1949—Subsec. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+<b>1949</b>—Subsec. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by sections 915, 919D, and 965 of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
+Pub. L. 111–203, title IX, §991(e)(2), July 21, 2010, 124 Stat. 1955, provided that: “The amendment made by this subsection \[amending this section\] shall take effect on October 1, 2011.”
 
 #### Effective Date of 2002 Amendment
 
@@ -80,9 +276,9 @@ Act Oct. 28, 1949, ch. 782, set out in the credit of this section, was repealed 
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out below.
 
-#### Compensation of Chairman and Commissioners
+#### Pay Authority for Employment of Experts and Consultants
 
-Compensation of Chairman and Commissioners, see sections 5314 and 5315 of Title 5, Government Organization and Employees.
+Pub. L. 111–203, title IX, §929G(c), July 21, 2010, 124 Stat. 1856, provided that: “The \[Securities and Exchange\] Commission may set the rate of pay for experts and consultants appointed under the authority of section 3109 of title 5, United States Code, in the same manner in which it sets the rate of pay for employees of the Commission.”
 
 #### <b>1950 REORGANIZATION PLAN NO. 10</b>
 
@@ -125,4 +321,6 @@ The taking effect of the reorganizations included in this plan may not in itself
 Harry S. Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Notwithstanding”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “(2)(A)(ii),”.</i>
 

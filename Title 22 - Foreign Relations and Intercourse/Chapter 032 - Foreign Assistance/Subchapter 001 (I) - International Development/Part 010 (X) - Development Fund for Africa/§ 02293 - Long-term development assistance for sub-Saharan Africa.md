@@ -102,7 +102,7 @@ The critical sectoral priorities for long-term development, as described in subs
 
 #### (2) Health
 
-&emsp;Improving health conditions, with special emphasis on meeting the health needs ofmothers and children (including displaced children) through the establishment of primary health care systems that give priority to preventive health and that will be ultimately self-sustaining. In addition, providing training and training facilities, in sub-Saharan Africa, for doctors and other health care providers, notwithstanding any provision of law that restricts assistance to foreign countries.
+&emsp;Improving health conditions, with special emphasis on meeting the health needs of mothers and children (including displaced children) through the establishment of primary health care systems that give priority to preventive health and that will be ultimately self-sustaining. In addition, providing training and training facilities, in sub-Saharan Africa, for doctors and other health care providers, notwithstanding any provision of law that restricts assistance to foreign countries.
 
 #### (3) Voluntary family planning services
 
@@ -182,11 +182,11 @@ The Comprehensive Anti/Apartheid Act of 1986, referred to in subsec. (n)(4), pro
 
 #### Prior Provisions
 
-A prior section 2293, Pub. L. 87–195, pt. I, §496, as added Pub. L. 93–559, §53, Dec. 30, 1974, 88 Stat. 1818; amended Pub. L. 94–161, title III, §314, Dec. 20, 1975, 89 Stat. 866, related to economic assistance, etc., to Portugal and Portuguese colonies in Africa gaining independence, prior to repeal by Pub. L. 99–83, title XII, §1211(a)(4), Aug. 8, 1985, 99 Stat. 279, effective Oct. 1, 1985.
+A prior section 2293, Pub. L. 87–195, pt. I, §496, as added Pub. L. 93–559, §53, Dec. 30, 1974, 88 Stat. 1818;amended Pub. L. 94–161, title III, §314, Dec. 20, 1975, 89 Stat. 866, related to economic assistance, etc., to Portugal and Portuguese colonies in Africa gaining independence, prior to repeal by Pub. L. 99–83, title XII, §1211(a)(4), Aug. 8, 1985, 99 Stat. 279, effective Oct. 1, 1985.
 
 #### Amendments
 
-2000—Subsec. (h)(3). Pub. L. 106–200, §127(c)(1)(B), added par. (3). Former par. (3) redesignated (4).
+<b>2000</b>—Subsec. (h)(3). Pub. L. 106–200, §127(c)(1)(B), added par. (3). Former par. (3) redesignated (4).
 
 Subsec. (h)(4). Pub. L. 106–200, §127(c)(1)(A), (2), redesignated par. (3) as (4) and substituted “paragraphs (1), (2), and (3)” for “paragraphs (1) and (2)” in first sentence.
 
@@ -258,7 +258,7 @@ Sense of the Congress.—It is the sense of the Congress that, if there is an in
 
 “(a)
 
-Bilateral Assistance.—In providing microenterprise assistance for sub-Saharan Africa, the Administrator of the United States Agency for International Development shall, to the extent practicable, use credit and microcredit assistance to improve the capacity and efficiency of agriculture production in sub-Saharan Africa of small-scale farmers and small rural entrepreneurs. In providing assistance, the Administrator should use the applied research and technical assistance capabilities of United States land-grant universities.
+Bilateral Assistance.—In providing microenterprise assistance for sub-Saharan Africa, the Administrator of the United States Agency for International Development shall, to the extent practicable, use credit and microcredit assistance to improve the capacity and efficiency of agriculture production insub-Saharan Africa of small-scale farmers and small rural entrepreneurs. In providing assistance, the Administrator should use the applied research and technical assistance capabilities of United States land-grant universities.
 
 “(b)
 
@@ -338,7 +338,7 @@ Sense of the Congress.—It is the sense of the Congress that—
 
 “(a)
 
-Development of Plan.—The Administrator of the United States Agency for International Development, in consultation with the Secretary of Agriculture and appropriate Department of Agriculture agencies, especially the Cooperative State, Research, Education and Extension Service (CSREES), shall develop a comprehensive plan to coordinate and build on the research and extension activities of United States land-grant universities, international agricultural research centers, and national agricultural research and extension centers in sub-Saharan Africa.
+Development of Plan.—The Administrator of the United States Agency for International Development, in consultation with the Secretary of Agriculture and appropriate Department of Agriculture agencies, especially the National Institute of Food and Agriculture, shall develop a comprehensive plan to coordinate and build on the research and extension activities of United States land-grant universities, international agricultural research centers, and national agricultural research and extension centers in sub-Saharan Africa.
 
 “(b)
 
@@ -349,8 +349,6 @@ Additional Requirements.—Such plan shall seek to ensure that—
 &emsp;“(2) sustainable agricultural methods of farming will be considered together with new technologies in increasing agricultural productivity in sub-Saharan Africa; and
 
 &emsp;“(3) research and extension efforts will focus on sustainable agricultural practices and will be adapted to widely varying climates within sub-Saharan Africa.”
-
-\[Pub. L. 110–234, title VII, §7511(c), May 22, 2008, 122 Stat. 1271, and Pub. L. 110–246, §4(a), title VII, §7511(c), June 18, 2008, 122 Stat. 1664, 2028, 2032, provided that, effective Oct. 1, 2009, section 105(a) of Pub. L. 105–385, set out above, is amended by substituting “the National Institute of Food and Agriculture” for “the Cooperative State, Research, Education and Extension Service (CSREES)”.\]
 
 #### Reports to Congress
 

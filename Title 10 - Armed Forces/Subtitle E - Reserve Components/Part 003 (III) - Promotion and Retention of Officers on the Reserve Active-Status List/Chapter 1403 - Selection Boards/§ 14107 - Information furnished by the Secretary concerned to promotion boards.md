@@ -18,7 +18,7 @@ Integrity of the Promotion Selection Board Process.—(1) The Secretary of Defen
 
 (4) Information provided to a promotion board in accordance with paragraphs (2) and (3) shall be made available to all members of the board and shall be made a part of the record of the board. Communication of such information shall be in a written form or in the form of an audio or video recording. If a communication is in the form of an audio or video recording, a written transcription of the recording shall also be made a part of the record of the promotion board.
 
-(5) Paragraphs (2), (3), and (4) do not apply to the furnishing of appropriate administrative processing information to the promotion board by an administrative staff designated to assistthe board, but only to the extent that oral communications are necessary to facilitate the work of the board.
+(5) Paragraphs (2), (3), and (4) do not apply to the furnishing of appropriate administrative processing information to the promotion board by an administrative staff designated to assist the board, but only to the extent that oral communications are necessary to facilitate the work of the board.
 
 (6) Information furnished to a promotion board that is described in subparagraph (B), (C), or (D) of paragraph (2), or in paragraph (3), may not be furnished to a later promotion board unless—
 
@@ -64,7 +64,7 @@ Provisions similar to those in subsec. (b) of this section were contained in sec
 
 #### Amendments
 
-2006—Subsec. (a)(3). Pub. L. 109–163, §506(b)(1)(B), added par. (3). Former par. (3) redesignated (4).
+<b>2006</b>—Subsec. (a)(3). Pub. L. 109–163, §506(b)(1)(B), added par. (3). Former par. (3) redesignated (4).
 
 Subsec. (a)(4). Pub. L. 109–163, §506(b)(1)(A), (2)(A), redesignated par. (3) as (4) and substituted “paragraphs (2) and (3)” for “paragraph (2)”. Former par. (4) redesignated (5).
 

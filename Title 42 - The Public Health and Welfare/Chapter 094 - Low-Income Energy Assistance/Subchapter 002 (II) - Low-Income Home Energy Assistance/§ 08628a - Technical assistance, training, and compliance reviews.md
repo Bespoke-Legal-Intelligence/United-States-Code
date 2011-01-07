@@ -1,6 +1,6 @@
 ### §8628a. Technical assistance, training, and compliance reviews
 
-(a) Of the amounts appropriated under section 8621(b) of this title for any fiscal year, not more than $300,000 of such amounts may be reserved by the Secretary—
+(a) Of the amounts appropriated under section 8621(b) of this title for any fiscal year, not morethan $300,000 of such amounts may be reserved by the Secretary—
 
 &emsp;(1) to—
 
@@ -14,7 +14,7 @@
 
 (b) No provision of this section shall be construed to prevent the Secretary from making a grant pursuant to subsection (a) of this section to one or more private nonprofit organizations that apply jointly with a business concern to receive such grant.
 
-(Pub. L. 97–35, title XXVI, §2609A, as added Pub. L. 99–425, title V, §505(a), Sept. 30, 1986, 100 Stat. 975; amended Pub. L. 103–252, title III, §311(a)(3),May 18, 1994, 108 Stat. 661; Pub. L. 105–285, title III, §309, Oct. 27, 1998, 112 Stat. 2759.)
+(Pub. L. 97–35, title XXVI, §2609A, as added Pub. L. 99–425, title V, §505(a), Sept. 30, 1986, 100 Stat. 975; amended Pub. L. 103–252, title III, §311(a)(3), May 18, 1994, 108 Stat. 661; Pub. L. 105–285, title III, §309, Oct. 27, 1998, 112 Stat. 2759.)
 
 #### References in Text
 
@@ -22,11 +22,11 @@ This subchapter, the first and second time appearing in subsec. (a)(1), was in t
 
 #### Amendments
 
-1998—Pub. L. 105–285, §309(b), substituted “Technical assistance, training, and compliance reviews” for “Technical assistance and training” as section catchline.
+<b>1998</b>—Pub. L. 105–285, §309(b), substituted “Technical assistance, training, and compliance reviews” for “Technical assistance and training” as section catchline.
 
 Subsec. (a). Pub. L. 105–285, §309(a), substituted “$300,000” for “$250,000” in introductory provisions, designated existing provisions as par. (1) and inserted “to—”, redesignated former par. (1) as subpar. (A), realigned margin, and substituted “make grants” for “to make grants”, redesignated former par. (2) as subpar. (B), realigned margin, substituted “enter into” for “to enter into” and inserted “or interagency agreements” after “cooperative arrangements” and “(including Federal agencies)” after “public agencies”, realigned margin of concluding provisions and substituted “; or” for period at end, and added par. (2).
 
-1994—Subsec. (a). Pub. L. 103–252 substituted “$250,000” for “$500,000” in introductory provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–252 substituted “$250,000” for “$500,000” in introductory provisions.
 
 #### Effective Date of 1994 Amendment
 

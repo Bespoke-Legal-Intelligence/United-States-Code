@@ -14,7 +14,7 @@ Financial Assistance.—(1) Under the program under this section, the Secretary 
 
 &emsp;(C) enters into a service agreement with the Secretary of Defense as described in subsection (c).
 
-(2) The amount of the financial assistance provided under a scholarship or fellowship awarded to a person under this subsection shall be the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost of books, laboratory expenses, equipment expenses, and expenses of room and board.
+(2) The amount of the financial assistance provided under a scholarship or fellowship awardedto a person under this subsection shall be the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost of books, laboratory expenses, equipment expenses, and expenses of room and board.
 
 (3) Financial assistance provided under a scholarship or fellowship awarded under this section may be paid directly to the recipient of such scholarship or fellowship or to an administering entity for disbursement of the funds.
 
@@ -72,11 +72,11 @@ Institution of Higher Education Defined.—In this section, the term “institut
 
 #### Codification
 
-Section, as added by Pub. L. 109–163, consists of text of Pub. L. 108–375, div. A, title XI, §1105, Oct. 28, 2004, 118 Stat. 2074; Pub. L. 109–163, div. A, title X, §1056(d), title XI, §1104(a)–(c), Jan. 6, 2006, 119 Stat. 3440, 3448, 3449, which was formerly set out as a note under section 2192 of this title, and was repealed by Pub. L. 109–163, div. A, title XI, §1104(e)(1), Jan. 6, 2006, 119 Stat. 3450.
+Section, as added by Pub. L. 109–163, consists of text of Pub. L. 108–375, div. A, title XI, §1105, Oct. 28, 2004, 118 Stat. 2074; Pub. L. 109–163, div. A, title X, §1056(d), title XI, §1104(a)–(c), Jan. 6, 2006, 119 Stat. 3440, 3448, 3449; Pub. L. 111–383, div. A, title X, §1075(h)(5), Jan. 7, 2011, 124 Stat. 4377, which was formerly set out as a note under section 2192 of this title, and was repealedby Pub. L. 109–163, div. A, title XI, §1104(e)(1), Jan. 6, 2006, 119 Stat. 3450.
 
 #### Amendments
 
-2009—Subsec. (c)(2). Pub. L. 111–84, §1102(b), substituted “The” for “Except as provided in subsection (d), the” in second sentence.
+<b>2009</b>—Subsec. (c)(2). Pub. L. 111–84, §1102(b), substituted “The” for “Except as provided in subsection (d), the” in second sentence.
 
 Subsec. (d). Pub. L. 111–84, §1102(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) provided that, under certain circumstances, the Secretary of Defense could appoint or retain a SMART program participant as an interim employee and separate such participant from employment if no appropriate permanent position was available at the end of the interim period and that the period of interim service would count towards the participant's obligated service requirements.
 
@@ -84,7 +84,7 @@ Subsec. (f). Pub. L. 111–84, §1102(c), struck out “The program under this s
 
 Subsecs. (g), (h). Pub. L. 111–84, §1102(d)(1), redesignated subsec. (h) as (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “Not later than February 1, 2007, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives, the Committee on Governmental Affairs of the Senate, and the Committee on Government Reform of the House of Representatives a plan for expanding and improving the national defense science and engineering workforce educational assistance program carried out under this section as appropriate to improve recruitment and retention to meet the requirements of the Department of Defense for its science and engineering workforce on a short-term basis and on a long-term basis.”
 
-2008—Subsec. (e)(4). Pub. L. 110–417, §1061(a)(5)(A), substituted “title 11” for “title 11, United States Code,”.
+<b>2008</b>—Subsec. (e)(4). Pub. L. 110–417, §1061(a)(5)(A), substituted “title 11” for “title 11, United States Code,”.
 
 Subsec. (f). Pub. L. 110–417, §1061(a)(5)(B), substituted “this title” for “title 10, United States Code”.
 

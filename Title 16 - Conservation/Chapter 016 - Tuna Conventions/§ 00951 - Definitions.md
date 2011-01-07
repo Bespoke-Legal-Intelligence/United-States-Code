@@ -20,7 +20,7 @@ For definition of Canal Zone, referred to in subsec. (e), see section 3602(b) of
 
 #### Amendments
 
-1962—Subsec. (e). Pub. L. 87–814 substituted definition of “United States” for definition of “enforcement agency”.
+<b>1962</b>—Subsec. (e). Pub. L. 87–814 substituted definition of “United States” for definition of “enforcement agency”.
 
 #### Effective Date
 

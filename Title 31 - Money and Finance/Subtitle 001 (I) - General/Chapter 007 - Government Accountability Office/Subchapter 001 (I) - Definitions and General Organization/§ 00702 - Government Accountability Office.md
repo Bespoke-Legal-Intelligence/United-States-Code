@@ -56,15 +56,15 @@ Jan. 2, 1975, Pub. L. 93–604, §501(a), 88 Stat. 1962.
 
 In subsection (a), the words “instrumentality of the United States Government” are substituted for “establishment of the Government” for consistency. The words “created . . . to be” and 31:41(2d, 3d sentences) are omitted as executed.
 
-Subsection (b) is substituted for 31:41(1st sentence last 14 words) and 42(a)(1st sentence words before comma) to eliminate unnecessary words and for consistency. The word “Deputy” is substituted for “Assistant” because of section 101 of the Act of July 9, 1971 (Pub. L. 92–51, 85 Stat. 143). The text of 31:1154(d)(1st sentence) and 1155(a) is omitted as unnecessary becausethe Comptroller General, as the head of the Office, has the authority to establish constituent parts of the Office to carry out duties and powers unless otherwise specified by law.
+Subsection (b) is substituted for 31:41(1st sentence last 14 words) and 42(a)(1st sentence words before comma) to eliminate unnecessary words and for consistency. The word “Deputy” is substituted for “Assistant” because of section 101 of the Act of July 9, 1971 (Pub. L. 92–51, 85 Stat. 143). The text of 31:1154(d)(1st sentence) and 1155(a) is omitted as unnecessary because the Comptroller General, as the head of the Office, has the authority to establish constituent parts of the Office to carry out duties and powers unless otherwise specified by law.
 
 In subsection (c), the words “Administrator of General Services” are substituted for “the head of any Federal agency which exercises authority over such building” for clarity. The words “of the United States” are omitted as surplus.
 
 #### Amendments
 
-2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline and subsec. (a).
+<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline and subsec. (a).
 
-1988—Subsecs. (c), (d). Pub. L. 100–545 redesignated subsec. (d) as (c) and struck out former subsec. (c) which directed Administrator of General Services to provide Comptroller General with space in General Accounting Office Building.
+<b>1988</b>—Subsecs. (c), (d). Pub. L. 100–545 redesignated subsec. (d) as (c) and struck out former subsec. (c) which directed Administrator of General Services to provide Comptroller General with space in General Accounting Office Building.
 
 #### Change of Name
 
@@ -112,7 +112,7 @@ Effect on personnel.—Personnel transferred under this section shall not be sep
 
 “(c)
 
-References.—With respect to any function or authority transferred under this Act and exercised on or after the effective date of that transfer, reference in any Federal law to the Comptroller General or to any officer or employee of the General Accounting Office \[now Government Accountability Office\] is deemed to refer to the Federal officer or agency to which the function or authority is transferred under this Act.
+References.—With respect to any function or authority transferred under this Act and exercised on or after the effective date of that transfer, reference inany Federal law to the Comptroller General or to any officer or employee of the General Accounting Office \[now Government Accountability Office\] is deemed to refer to the Federal officer or agency to which the function or authority is transferred under this Act.
 
 “(d)
 
@@ -182,11 +182,11 @@ Qualifications.—Each member shall have not less than 5 years experience in pub
 
 &emsp;“(3)
 
-Pay.—Subject to any provision of law relating to pay applicable to the Office of General Counsel ofthe Government Accountability Office, the Comptroller General shall establish and adjust the annual rate of basic pay of members of the Board.
+Pay.—Subject to any provision of law relating to pay applicable to the Office of General Counsel of the Government Accountability Office, the Comptroller General shall establish and adjust the annual rate of basic pay of members of the Board.
 
 “(d)
 
-Provisions Applicable to Appeals.—The Contract Disputes Act of 1978 (Public Law 95–563, 41 U.S.C. 601 et seq.), as amended, shall apply to appeals to the Board, except that section 4 \[41 U.S.C. 603\], subsections 8(a), (b), and (c) \[41 U.S.C. 607(a)–(c)\], and subsection 10(a) \[41 U.S.C. 609(a)\] shall not apply to such appeals and the amount of any claim referenced in subsection 6(c) \[41 U.S.C. 605(c)\] shall be $50,000. The Comptroller General shall prescribe regulations for procedures for appeals to the Board that are consistent with procedures under the Contract Disputes Act of 1978.
+Provisions Applicable to Appeals.—The Contract Disputes Act of 1978 (Public Law 95–563, \[former\] 41 U.S.C. 601 et seq. \[see 41 U.S.C. 7101 et seq.\]), as amended, shall apply to appeals to the Board, except that section 4 \[now 41 U.S.C. 7102(d)\], subsections 8(a), (b), and (c) \[now 41 U.S.C. 7105(a), (c), (d), (e)(1)(C)\], and subsection 10(a) \[now 41 U.S.C. 7104(b)\] shall not apply to such appeals and the amount of any claim referenced in subsection 6(c) \[now 41 U.S.C. 7103(b), (f)\] shall be $50,000. The Comptroller General shall prescribe regulations for procedures for appeals to the Board that are consistent with procedures under the Contract Disputes Act of 1978.
 
 “(e)
 

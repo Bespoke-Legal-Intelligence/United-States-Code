@@ -54,7 +54,7 @@ The Commission may, on its own motion, after compliance with the requirements of
 
 #### Amendments
 
-1980—Subsec. (a)(1). Pub. L. 96–294 added applicability to geothermal power producers.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–294 added applicability to geothermal power producers.
 
 #### Study and Report to Congressional Committees on Application of Provisions Relating to Cogeneration, Small Power Production, and Interconnection Authority to Hydroelectric Power Facilities
 

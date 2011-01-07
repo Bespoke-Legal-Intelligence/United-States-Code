@@ -20,13 +20,17 @@ A prior section 221 was renumbered section 226 of this title.
 
 #### Amendments
 
-1992—Pub. L. 102–484 renumbered section 114a of this title as this section, amended section catchline generally, and substituted “future-years” for “multiyear” wherever appearing in text.
+<b>1992</b>—Pub. L. 102–484 renumbered section 114a of this title as this section, amended section catchline generally, and substituted “future-years” for “multiyear” wherever appearing in text.
 
-1990—Pub. L. 101–510, §1402(a)(3)(A), which directed amendment of section catchline by substituting “Multiyear” for “Five-year”, was executed by substituting “Multiyear” for “Five-Year” as the probable intent of Congress.
+<b>1990</b>—Pub. L. 101–510, §1402(a)(3)(A), which directed amendment of section catchline by substituting “Multiyear” for “Five-year”, was executed by substituting “Multiyear” for “Five-Year” as the probable intent of Congress.
 
 Subsec. (a). Pub. L. 101–510, §1402(a)(1), (2), substituted “a multiyear” for “the current five-year” and inserted at end “Any such multiyear defense program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years.”
 
 Subsecs. (b)(2)(A), (c). Pub. L. 101–510, §1402(a)(2)(A), substituted “multiyear” for “five-year”.
+
+#### Separate Program Elements Required for Research and Development of Joint Light Tactical Vehicle
+
+Pub. L. 111–383, div. A, title II, §213, Jan. 7, 2011, 124 Stat. 4163, provided that: “In the budget materials submitted to the President by the Secretary of Defense in connection with the submission to Congress, pursuant to section 1105 of title 31, United States Code, of the budget for fiscal year 2012, and each subsequent fiscal year, the Secretary shall ensure that within each research, development, test, and evaluation account of the Army and the Navy a separate, dedicated program element is assigned to the Joint Light Tactical Vehicle.”
 
 #### Separate Procurement Line Item for Body Armor
 
@@ -86,7 +90,7 @@ Pub. L. 110–417, \[div. A\], title I, §111, Oct. 14, 2008, 122 Stat. 4373, pr
 
 #### Separate Procurement and Research, Development, Test, and Evaluation Line Items and Program Elements for Sky Warrior Unmanned Aerial Systems Project
 
-Pub. L. 110–417, \[div. A\], title II, §214, Oct. 14, 2008, 122 Stat. 4386, provided that: “Effective for fiscal year 2010 and for each fiscal year thereafter, the Secretary of Defense shall ensure that, in the annual budget submission of the Department of Defense to the President, within both the account for procurement and the account for research, development, test, and evaluation, a separate, dedicated line item and program element is designated for the Sky Warrior Unmanned Aerial Systems project, to the extent such accounts include funding for such project.”
+Pub. L. 110–417, \[div. A\], title II, §214, Oct. 14, 2008, 122 Stat. 4386, provided that: “Effective for fiscal year 2010 and for each fiscal year thereafter, the Secretary of Defense shall ensure that, in the annual budget submission of the Department of Defense to the President, within both the account for procurement and the account for research, development, test, and evaluation, a separate, dedicated line item and program element isdesignated for the Sky Warrior Unmanned Aerial Systems project, to the extent such accounts include funding for such project.”
 
 #### Display of Annual Budget Requirements for Air Sovereignty Alert Mission
 
@@ -138,7 +142,7 @@ Pub. L. 110–181, div. A, title VII, §718, Jan. 28, 2008, 122 Stat. 197, provi
 
 “(a)
 
-Report.—If the President submits to Congress the budget for a fiscal year under section 1105 of title31, United States Code, and the aggregate amount included in that budget for the Department of Defense for health care for such fiscal year is less than the aggregate amount provided by Congress for the Department for health care for the preceding fiscal year, and, in the case of the Department, the total allocation from the Defense Health Program to any military department is less than the total of such allocation in the preceding fiscal year, the President shall submit to Congress a report on—
+Report.—If the President submits to Congress the budget for a fiscal year under section 1105 of title 31, United States Code, and the aggregate amount included in that budget for the Department of Defense for health care for such fiscal year is less than the aggregate amount provided by Congress for the Department for health care for the preceding fiscal year, and, in the case of the Department, the total allocation from the Defense Health Program to any military department is less than the total of such allocation in the preceding fiscal year, the President shall submit to Congress a report on—
 
 &emsp;“(1) the reasons for the determination that inclusion of a lesser aggregate amount or allocation to any military department is in the national interest; and
 
@@ -224,7 +228,7 @@ Program Elements Specified.—Effective for the budget of the President submitte
 
 “(b)
 
-Early Commencement of Display in Budget Justification Materials.—As part of the budget justification materials submitted to Congress in supportof the Department of Defense budget for fiscal year 2007, as submitted with the budget of the President under such section 1105(a), the Secretary of the Army shall set forth the budget justification material for the systems development and demonstration projects of the Armored Systems Modernization program identified in subsection (a) as if the projects were already separate program elements.
+Early Commencement of Display in Budget Justification Materials.—As part of the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2007, as submitted with the budget of the President under such section 1105(a), the Secretary of the Army shall set forth the budget justification material for the systems development and demonstration projects of the Armored Systems Modernization program identified in subsection (a) as if the projects were already separate program elements.
 
 “(c)
 
@@ -314,7 +318,7 @@ Pub. L. 107–64, §131, Nov. 5, 2001, 115 Stat. 482.
 
 #### Budget Justification Documents for Costs of Armed Forces’ Participation in Contingency Operations
 
-Pub. L. 107–248, title VIII, §8132, Oct. 23, 2002, 116 Stat. 1568, provided that: “The budget of the President for fiscal year 2004 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include separate budget justification documents for costs of United States Armed Forces’ participation in contingency operations for the Military Personnel accounts, the Overseas Contingency Operations Transfer Fund, the Operation and Maintenance accounts, and the Procurement accounts: <i>Provided</i>, That these budget justification documents shall include a description of the funding requested for each anticipated contingency operation, for each military service, to include active duty and Guard and Reserve components, and for each appropriation account: <i>Provided further</i>, That these documents shall include estimated costs for each element of expense or object class, a reconciliation of increases and decreases for ongoing contingency operations, and programmaticdata including, but not limited to troop strength for each active duty and Guard and Reserve component, and estimates of the major weapons systems deployed in support of each contingency: <i>Provided further</i>, That these documents shall include budget exhibits OP–5 and OP–32, as defined in the Department of Defense Financial Management Regulation, for the Overseas Contingency Operations Transfer Fund for fiscal years 2002 and 2003.”
+Pub. L. 107–248, title VIII, §8132, Oct. 23, 2002, 116 Stat. 1568, provided that: “The budget of the President for fiscal year 2004 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include separate budget justification documents for costs of United States Armed Forces’ participation in contingency operations for the Military Personnel accounts, the Overseas Contingency Operations Transfer Fund, the Operation and Maintenance accounts, and the Procurement accounts: <i>Provided</i>, That these budget justification documents shall include a description of the funding requested for each anticipated contingency operation, for each military service, to include active duty and Guard and Reserve components, and for each appropriation account: <i>Provided further</i>, That these documents shall include estimated costs for each element of expense or object class, a reconciliation of increases and decreases for ongoing contingency operations, and programmatic data including, but not limited to troop strength for each active duty and Guard and Reserve component, and estimates of the major weapons systems deployed in support of each contingency: <i>Provided further</i>, That these documents shall include budget exhibits OP–5 and OP–32, as defined in the Department of Defense Financial Management Regulation, for the Overseas Contingency Operations Transfer Fund for fiscal years 2002 and 2003.”
 
 Similar provisions were contained in the following appropriation acts:
 
@@ -402,7 +406,7 @@ Pub. L. 102–396, title IX, §9132, Oct. 6, 1992, 106 Stat. 1936.
 
 #### Submission of Multiyear Defense Program
 
-Section 1402(b) of Pub. L. 101–510 provided for limitations on obligation by Secretary of Defense of fiscal year 1991 advance procurement funds if, as of end of 90-day period beginning on date on which President'sbudget for fiscal year 1992 was submitted to Congress, the Secretary had not submitted to Congress fiscal year 1992 multiyear defense program.
+Section 1402(b) of Pub. L. 101–510 provided for limitations on obligation by Secretary of Defense of fiscal year 1991 advance procurement funds if, as of end of 90-day period beginning on date on which President's budget for fiscal year 1992 was submitted to Congress, the Secretary had not submitted to Congress fiscal year 1992 multiyear defense program.
 
 #### Mission Oriented Presentation of Department of Defense Matters in Budget
 

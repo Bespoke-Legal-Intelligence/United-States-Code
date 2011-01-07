@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall make grants to States to support public health activities in States and localities where data suggests that atleast 5 percent of preschool-age children have an elevated blood lead level through—
+&emsp;The Secretary shall make grants to States to support public health activities in States and localities where data suggests that at least 5 percent of preschool-age children have an elevated blood lead level through—
 
 &emsp;&emsp;(A) effective, ongoing outreach and community education targeted to families most likely to be at risk for lead poisoning;
 

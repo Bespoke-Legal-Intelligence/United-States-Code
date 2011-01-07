@@ -24,6 +24,10 @@
 | [6618\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006618%20-%20Major%20science%20and%20technology%20proposals.md) | Major science and technology proposals. |
 | [6619\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006619%20-%20National%20coordination%20of%20research%20infrastructure.md) | National coordination of research infrastructure. |
 | [6620\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006620%20-%20Release%20of%20scientific%20research%20results.md) | Release of scientific research results. |
+| [6621\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006621%20-%20Coordination%20of%20Federal%20STEM%20education.md) | Coordination of Federal STEM education. |
+| [6622\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006622%20-%20Coordination%20of%20advanced%20manufacturing%20research%20and%20development.md) | Coordination of advanced manufacturing research and development. |
+| [6623\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006623%20-%20Interagency%20public%20access%20committee.md) | Interagency public access committee. |
+| [6624\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006624%20-%20Federal%20scientific%20collections.md) | Federal scientific collections. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

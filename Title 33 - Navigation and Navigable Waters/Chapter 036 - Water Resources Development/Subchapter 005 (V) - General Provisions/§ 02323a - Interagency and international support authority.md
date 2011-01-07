@@ -24,13 +24,13 @@ Section was enacted as part of the Water Resources Development Act of 1996, and 
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–114, §2030(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary may engage in activities in support of other Federal agencies or international organizations to address problems of national significance to the United States.”
+<b>2007</b>—Subsec. (a). Pub. L. 110–114, §2030(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary may engage in activities in support of other Federal agencies or international organizations to address problems of national significance to the United States.”
 
 Subsec. (b). Pub. L. 110–114, §2030(2), substituted “Department of State” for “Secretary of State”.
 
 Subsec. (d). Pub. L. 110–114, §2030(3), substituted “$1,000,000 for fiscal year 2008” for “$250,000 for fiscal year 2001” and “, international organizations, or foreign governments” for “or international organizations”.
 
-2000—Subsec. (d). Pub. L. 106–541 substituted “There is authorized to be appropriated to carry out this section $250,000 for fiscal year 2001 and each fiscal year thereafter.” for “There is authorized to be appropriated $1,000,000 to carry out this section.” and inserted “out” after “carry” in second sentence.
+<b>2000</b>—Subsec. (d). Pub. L. 106–541 substituted “There is authorized to be appropriated to carry out this section $250,000 for fiscal year 2001 and each fiscal year thereafter.” for “There is authorized to be appropriated $1,000,000 to carry out this section.” and inserted “out” after “carry” in second sentence.
 
 #### National Recreation Reservation Service
 

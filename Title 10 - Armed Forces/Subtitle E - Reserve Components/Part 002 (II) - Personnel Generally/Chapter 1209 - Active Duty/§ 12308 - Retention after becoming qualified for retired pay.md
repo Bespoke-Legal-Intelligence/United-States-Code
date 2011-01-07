@@ -24,7 +24,7 @@ The words “active duty, or in service, in a reserve component other than that 
 
 #### Amendments
 
-1994—Pub. L. 103–337, §1675(c)(6), substituted “1223” for “67” and “12732(b)” for “1332(b)”.
+<b>1994</b>—Pub. L. 103–337, §1675(c)(6), substituted “1223” for “67” and “12732(b)” for “1332(b)”.
 
 Pub. L. 103–337, §1662(e)(2), renumbered section 676 of this title as this section.
 

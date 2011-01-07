@@ -76,7 +76,11 @@ For purposes of this part:
 
 &emsp;The term “standard setting organization” means a standard setting organization accredited by the American National Standards Institute, including the National Council for Prescription Drug Programs, that develops standards for information transactions, data elements, or any other standard that is necessary to, or will facilitate, the implementation of this part.
 
-(Aug. 14, 1935, ch. 531, title XI, §1171, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2021; amended Pub. L. 107–105, §4, Dec. 27, 2001, 115 Stat. 1007; Pub. L. 111–5, div. A, title XIII, §13102, Feb. 17, 2009, 123 Stat. 242.)
+#### (9) Operating rules
+
+&emsp;The term “operating rules” means the necessary business rules and guidelines for the electronic exchange of information that are not defined by a standard or its implementation specifications as adopted for purposes of this part.
+
+(Aug. 14, 1935, ch. 531, title XI, §1171, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2021; amended Pub. L. 107–105, §4, Dec. 27, 2001, 115 Stat. 1007; Pub. L. 111–5, div. A, title XIII, §13102, Feb. 17, 2009, 123 Stat. 242; Pub. L. 111–148, title I, §1104(b)(1), Mar. 23, 2010, 124 Stat. 146.)
 
 #### References in Text
 
@@ -88,13 +92,19 @@ A prior section 1171 of act Aug. 14, 1935, was classified to section 1320c–20 
 
 #### Amendments
 
-2009—Par. (5)(D). Pub. L. 111–5 substituted “C, or D” for “or C”.
+<b>2010</b>—Par. (9). Pub. L. 111–148 added par. (9).
 
-2001—Par. (5)(D). Pub. L. 107–105 substituted “Parts A, B, or C” for “Part A or part B”.
+<b>2009</b>—Par. (5)(D). Pub. L. 111–5 substituted “C, or D” for “or C”.
+
+<b>2001</b>—Par. (5)(D). Pub. L. 107–105 substituted “Parts A, B, or C” for “Part A or part B”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title I, §1105, Mar. 23, 2010, 124 Stat. 154, provided that: “This subtitle \[subtitle B (§§1101–1105) of title I of Pub. L. 111–148, enacting subchapter I of chapter 157 of this title, amending this section and sections 1320d–2 and 1395y of this title, enacting provisions set out as a note under section 1320d–2 of this title, and amending provisions set out as a note under this section\] shall take effect on the date of enactment of this Act \[Mar. 23, 2010\].”
 
 #### Purpose
 
-Section 261 of title II of Pub. L. 104–191 provided that: “It is the purpose of this subtitle \[subtitle F (§§261–264) of title II of Pub. L. 104–191, enacting this part, amending sections 242k and 1395cc of this title, and enacting provisions set out as a note under section 1320d–2 of this title\] to improve the Medicare program under title XVIII of the Social Security Act \[subchapter XVIII of this chapter\], the medicaid program under title XIX of such Act \[subchapter XIX of this chapter\], and the efficiency and effectiveness of the health care system, by encouraging the development of a health information system through the establishment of standards and requirements for the electronic transmission of certain health information.”
+Pub. L. 104–191, title II, §261, Aug. 21, 1996, 110 Stat. 2021, as amended by Pub. L. 111–148, title I, §1104(a), Mar. 23, 2010, 124 Stat. 146, provided that: “It is the purpose of this subtitle \[subtitle F (§§261–264) of title II of Pub. L. 104–191, enacting this part, amending sections 242k and 1395cc of this title, and enacting provisions set out as a note under section 1320d–2 of this title\] to improve the Medicare program under title XVIII of the Social Security Act \[subchapter XVIII of this chapter\], the medicaid program under title XIX of such Act \[subchapter XIX of this chapter\], and the efficiency and effectiveness of the health care system, by encouraging the development of a health information system through the establishment of uniform standards and requirements for the electronic transmission of certain health information and to reduce the clerical burden on patients, health care providers, and health plans.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Part”.</i>
 

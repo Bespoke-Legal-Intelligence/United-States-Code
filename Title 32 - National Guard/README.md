@@ -1,5 +1,5 @@
 
-32 U.S.C.<br>United States Code, 2009 Edition<br>Title 32 - NATIONAL GUARD<br>From the U.S. Government Publishing Office, www.gpo.gov
+32 U.S.C.<br>United States Code, 2010 Edition<br>Title 32 - NATIONAL GUARD<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 32—NATIONAL GUARD
 
@@ -17,7 +17,7 @@
 
 #### Amendments
 
-2004—Pub. L. 108–375, div. A, title V, §512(a)(2), Oct. 28, 2004, 118 Stat. 1880, added item for chapter 9.
+<b>2004</b>—Pub. L. 108–375, div. A, title V, §512(a)(2), Oct. 28, 2004, 118 Stat. 1880, added item for chapter 9.
 
 Table Showing Disposition of All Sections of Former Title 32
 

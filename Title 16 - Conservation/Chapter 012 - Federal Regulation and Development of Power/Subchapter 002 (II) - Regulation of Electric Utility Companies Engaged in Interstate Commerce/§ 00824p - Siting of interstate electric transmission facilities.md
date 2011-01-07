@@ -12,7 +12,7 @@
 
 &emsp;(A) the economic vitality and development of the corridor, or the end markets served by the corridor, may be constrained by lack of adequate or reasonably priced electricity;
 
-&emsp;(B)(i) economic growth in the corridor, or the end markets served by the corridor, may be jeopardized by reliance on limited sources of energy; and
+&emsp;(B)(i) economic growth in the corridor, or the end markets served by the corridor, maybe jeopardized by reliance on limited sources of energy; and
 
 &emsp;(ii) a diversification of supply is warranted;
 
@@ -154,7 +154,7 @@ Nothing in this section precludes any person from constructing or modifying any 
 
 &emsp;(ii) with appropriate authority to manage the right-of-way for reliability and environmental protection.
 
-(B) On the expiration of the authorization (including an authorization issued before August 8, 2005), the authorization shall be reviewed for renewal taking fully into account reliance on such electricity infrastructure, recognizing the importance of the authorization for public health, safety, and economic welfare and as a legitimate use of Federal land.
+(B) On the expiration of the authorization (including an authorization issued before August 8,2005), the authorization shall be reviewed for renewal taking fully into account reliance on such electricity infrastructure, recognizing the importance of the authorization for public health, safety, and economic welfare and as a legitimate use of Federal land.
 
 (9) In exercising the responsibilities under this section, the Secretary shall consult regularly with—
 
@@ -192,7 +192,7 @@ This section shall not apply within the area referred to in section 824k(k)(2)(A
 
 #### References in Text
 
-The National Forest Management Act of 1976, referred to in subsec. (h)(6)(D)(i), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of thistitle, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
+The National Forest Management Act of 1976, referred to in subsec. (h)(6)(D)(i), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
 
 The Endangered Species Act of 1973, referred to in subsec. (h)(6)(D)(ii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 

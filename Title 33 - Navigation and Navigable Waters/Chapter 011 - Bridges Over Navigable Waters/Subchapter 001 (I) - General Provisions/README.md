@@ -9,6 +9,7 @@
 - [&sect; 00492 - Bridge as post route; limitation as to charges against Government; telegraph and telephone lines](%C2%A7%2000492%20-%20Bridge%20as%20post%20route%3B%20limitation%20as%20to%20charges%20against%20Government%3B%20telegraph%20and%20telephone%20lines.md)
 - [&sect; 00493 - Use of railroad bridges by other railroad companies](%C2%A7%2000493%20-%20Use%20of%20railroad%20bridges%20by%20other%20railroad%20companies.md)
 - [&sect; 00494 - Obstruction of navigation; alterations and removals; lights and signals; draws](%C2%A7%2000494%20-%20Obstruction%20of%20navigation%3B%20alterations%20and%20removals%3B%20lights%20and%20signals%3B%20draws.md)
+- [&sect; 00494a - Study of bridges over navigable waters](%C2%A7%2000494a%20-%20Study%20of%20bridges%20over%20navigable%20waters.md)
 - [&sect; 00495 - Violations of orders respecting bridges and accessory works](%C2%A7%2000495%20-%20Violations%20of%20orders%20respecting%20bridges%20and%20accessory%20works.md)
 - [&sect; 00496 - Time for commencement and completion of bridge](%C2%A7%2000496%20-%20Time%20for%20commencement%20and%20completion%20of%20bridge.md)
 - [&sect; 00497 - &#8220;Persons&#8221; defined](%C2%A7%2000497%20-%20%E2%80%9CPersons%E2%80%9D%20defined.md)

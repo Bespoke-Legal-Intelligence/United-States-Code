@@ -122,7 +122,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(iv) providing clean energy-related services designed to meet the needs of rural communities;
 
-&emsp;&emsp;&emsp;(v) working with schools and youth programs to educate students and youthabout ways to reduce home energy use and improve the environment, including conducting service-learning projects to provide such education;
+&emsp;&emsp;&emsp;(v) working with schools and youth programs to educate students and youth about ways to reduce home energy use and improve the environment, including conducting service-learning projects to provide such education;
 
 &emsp;&emsp;&emsp;(vi) assisting in the development of local recycling programs;
 
@@ -136,7 +136,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;&emsp;(I) undertakes meaningful service projects with visible public benefits, including projects involving urban renewal, sustaining natural resources, or improving human services;
 
-&emsp;&emsp;&emsp;&emsp;(II) includes as participants youths and young adults who are age 16 through 25, including out-of-school youth and other disadvantaged youth (such as youth who are aging out of foster care, youth who have limited English proficiency, homeless youth, and youth who are individuals with disabilities), who are age 16 through 25; and
+&emsp;&emsp;&emsp;&emsp;(II) includes as participants youths and young adults who are age 16 through 25,including out-of-school youth and other disadvantaged youth (such as youth who are aging out of foster care, youth who have limited English proficiency, homeless youth, and youth who are individuals with disabilities), who are age 16 through 25; and
 
 &emsp;&emsp;&emsp;&emsp;(III) provides those participants who are youth and young adults with—
 
@@ -180,7 +180,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(iii) assisting veterans in developing their educational opportunities (including opportunities for professional certification, licensure, or credentials), coordinating activities with and assisting State and local agencies administering veterans education benefits, and coordinating activities with and assisting entities administering veterans programs with internships and fellowships that could lead to employment in the private and public sectors;
 
-&emsp;&emsp;&emsp;(iv) promoting efforts within a community to serve the needs of veterans andmembers of the Armed Forces who are on active duty, including helping veterans file benefits claims and assisting Federal agencies in providing services to veterans, and sending care packages to Members of the Armed Forces who are deployed;
+&emsp;&emsp;&emsp;(iv) promoting efforts within a community to serve the needs of veterans and members of the Armed Forces who are on active duty, including helping veterans file benefits claims and assisting Federal agencies in providing services to veterans, and sending care packages to Members of the Armed Forces who are deployed;
 
 &emsp;&emsp;&emsp;(v) assisting veterans in developing mentoring relationships with economically disadvantaged students;
 
@@ -204,7 +204,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(vi) the number of economically disadvantaged students engaged in mentoring relationships with veterans;
 
-&emsp;&emsp;&emsp;(vii) the number of projects designed to meet identifiable public needs of veterans, especially veterans with disabilities, veterans who are unemployed, older veterans, and veterans in rural communities;
+&emsp;&emsp;&emsp;(vii) the number of projects designed to meet identifiable public needs of veterans,especially veterans with disabilities, veterans who are unemployed, older veterans, and veterans in rural communities;
 
 &emsp;&emsp;&emsp;(viii) any additional indicator that relates to education or skill attainment that assists in providing veterans with the skills to address identifiable public needs, or that relates to improving the lives of veterans, of members of the Armed Forces on active duty, and of families of the veterans and the members on active duty, and that the Corporation, in consultation (as appropriate) with the Secretary of Veterans Affairs, establishes; or
 
@@ -388,7 +388,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 #### (2) Consultation
 
-&emsp;In establishing qualification criteria under paragraph (1), the Corporation shall consult with organizations and individuals with extensive experience in developing and administering effective national service programs or regarding the delivery of veteran services, andother human, educational, environmental, or public safety services, to communities or persons.
+&emsp;In establishing qualification criteria under paragraph (1), the Corporation shall consult with organizations and individuals with extensive experience in developing and administering effective national service programs or regarding the delivery of veteran services, and other human, educational, environmental, or public safety services, to communities or persons.
 
 #### (3) Application to subgrants
 
@@ -506,7 +506,7 @@ A prior section 122 of Pub. L. 101–610 was renumbered section 199B, and is cla
 
 #### Amendments
 
-2009—Pub. L. 111–13 substituted “National” for “Types of national” in section catchline and amended text generally. Prior to amendment, section enumerated eligible types of national service programs, set forth qualification criteria to determine eligibility, and required establishment of priorities regarding national service programs.
+<b>2009</b>—Pub. L. 111–13 substituted “National” for “Types of national” in section catchline and amended text generally. Prior to amendment, section enumerated eligible types of national service programs, set forth qualification criteria to determine eligibility, and required establishment of priorities regarding national service programs.
 
 #### Effective Date of 2009 Amendment
 

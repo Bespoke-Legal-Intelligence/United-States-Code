@@ -98,9 +98,9 @@ Section 3 of the Small Business Act, referred to in subsec. (h), is classified t
 
 #### Amendments
 
-2006—Pub. L. 109–435 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to temporary changes in rates and classes.
+<b>2006</b>—Pub. L. 109–435 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to temporary changes in rates and classes.
 
-1976—Subsec. (a). Pub. L. 94–421 added subsec. (a). Former subsec. (a) redesignated (e) and amended.
+<b>1976</b>—Subsec. (a). Pub. L. 94–421 added subsec. (a). Former subsec. (a) redesignated (e) and amended.
 
 Subsec. (b). Pub. L. 94–421 added subsec. (b). Former subsec. (b) redesignated (f).
 

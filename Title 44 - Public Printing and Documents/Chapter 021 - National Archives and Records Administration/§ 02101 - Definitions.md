@@ -18,9 +18,9 @@ Based on 44 U.S. Code, 1964 ed., §397(j) (June 30, 1949, ch. 288, title V, §50
 
 #### Amendments
 
-1986—Par. (1). Pub. L. 99–323 inserted “, and may include research facilities and museum facilities in accordance with this chapter” after “or personal life”.
+<b>1986</b>—Par. (1). Pub. L. 99–323 inserted “, and may include research facilities and museum facilities in accordance with this chapter” after “or personal life”.
 
-1984—Pub. L. 98–497 substituted “this chapter” for “sections 2103–2113 of this title”, designated two existing paragraphs as pars. (1) and (2), respectively, and added pars. (3) and (4).
+<b>1984</b>—Pub. L. 98–497 substituted “this chapter” for “sections 2103–2113 of this title”, designated two existing paragraphs as pars. (1) and (2), respectively, and added pars. (3) and (4).
 
 #### Effective Date of 1984 Amendment
 

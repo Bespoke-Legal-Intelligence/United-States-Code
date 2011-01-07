@@ -44,7 +44,11 @@ Not later than March 1, 1989, March 1, 1991, and March 1, 1993, respectively, th
 
 On receipt of each report required to be submitted pursuant to subsection (d) of this section, and after consultation with the Secretary of the Treasury, the Committee on Banking, Finance and Urban Affairs of the House of Representatives shall forward such report to the Committee on Appropriations of the House of Representatives with an assessment by the Committee on Banking, Finance and Urban Affairs describing the effect on the international debt situation of funding the subscription of the United States to the shares of capital stock of the International Bank for Reconstruction and Development due for payment by the United States in the then next fiscal year.
 
-(Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36.)
+(Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 111–203, title IX, §939(f), July 21, 2010, 124 Stat. 1886.)
+
+#### Amendment of Subsection (a)(6)
+
+<i>Pub. L. 111–203, title IX, §939(f), (g), July 21, 2010, 124 Stat. 1886, 1887, provided that, effective 2 years after July 21, 2010, subsection (a)(6) of this section is amended by striking “credit rating” and inserting “credit-worthiness”.</i>
 
 #### Codification
 
@@ -55,6 +59,10 @@ Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, kno
 #### Change of Name
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 2 years after July 21, 2010, see section 939(g) of Pub. L. 111–203, set out as a note under section 24a of Title 12, Banks and Banking.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

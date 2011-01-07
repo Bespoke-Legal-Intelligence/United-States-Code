@@ -6,7 +6,7 @@
 
 &emsp;(1) where the contractor or subcontractor is a foreign government or agency thereof or is precluded by the laws of the country involved from making its books, documents, papers, or records available for examination; and
 
-&emsp;(2) where the agency head determines, after taking into account the price and availabilityof the property or services from United States sources, that the public interest would be best served by the omission of the clause.
+&emsp;(2) where the agency head determines, after taking into account the price and availability of the property or services from United States sources, that the public interest would be best served by the omission of the clause.
 
 > If the clause is omitted based on a determination under clause (2), a written report shall be furnished to the Congress.
 
@@ -14,7 +14,7 @@
 
 #### Amendments
 
-1966—Subsec. (b). Pub. L. 89–607 provided for exemption of certain contracts with foreign contractors from the requirement for an examination-of-records clause, such determination to be reported to Congress.
+<b>1966</b>—Subsec. (b). Pub. L. 89–607 provided for exemption of certain contracts with foreign contractors from the requirement for an examination-of-records clause, such determination to be reported to Congress.
 
 #### Exemption of Functions
 

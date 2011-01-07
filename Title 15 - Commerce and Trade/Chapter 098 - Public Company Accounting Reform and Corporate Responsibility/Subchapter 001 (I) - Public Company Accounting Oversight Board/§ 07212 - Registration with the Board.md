@@ -2,7 +2,7 @@
 
 #### (a) Mandatory registration
 
-Beginning 180 days after the date of the determination of the Commission under section 7211(d) of this title, it shall be unlawful for any person that is not a registered public accounting firm to prepare or issue, or to participate in the preparation or issuance of, any audit report with respect to any issuer.
+It shall be unlawful for any person that is not a registered public accounting firm to prepare or issue, or to participate in the preparation or issuance of, any audit report with respect to any issuer, broker, or dealer.
 
 #### (b) Applications for registration
 
@@ -14,9 +14,9 @@ Beginning 180 days after the date of the determination of the Commission under s
 
 &emsp;Each public accounting firm shall submit, as part of its application for registration, in such detail as the Board shall specify—
 
-&emsp;&emsp;(A) the names of all issuers for which the firm prepared or issued audit reports during the immediately preceding calendar year, and for which the firm expects to prepare or issue audit reports during the current calendar year;
+&emsp;&emsp;(A) the names of all issuers, brokers, and dealers for which the firm prepared or issued audit reports during the immediately preceding calendar year, and for which the firm expects to prepare or issue audit reports during the current calendar year;
 
-&emsp;&emsp;(B) the annual fees received by the firm from each such issuer for audit services, other accounting services, and non-audit services, respectively;
+&emsp;&emsp;(B) the annual fees received by the firm from each such issuer, broker, or dealer for audit services, other accounting services, and non-audit services, respectively;
 
 &emsp;&emsp;(C) such other current financial information for the most recently completed fiscal year of the firm as the Board may reasonably request;
 
@@ -26,7 +26,7 @@ Beginning 180 days after the date of the determination of the Commission under s
 
 &emsp;&emsp;(F) information relating to criminal, civil, or administrative actions or disciplinary proceedings pending against the firm or any associated person of the firm in connection with any audit report;
 
-&emsp;&emsp;(G) copies of any periodic or annual disclosure filed by an issuer with the Commission during the immediately preceding calendar year which discloses accounting disagreements between such issuer and the firm in connection with an audit report furnished or prepared by the firm for such issuer; and
+&emsp;&emsp;(G) copies of any periodic or annual disclosure filed by an issuer, broker, or dealer with the Commission during the immediately preceding calendar year which discloses accounting disagreements between such issuer, broker, or dealer and the firm in connection with an audit report furnished or prepared by the firm for such issuer, broker, or dealer; and
 
 &emsp;&emsp;(H) such other information as the rules of the Board or the Commission shall specify as necessary or appropriate in the public interest or for the protection of investors.
 
@@ -42,7 +42,7 @@ Beginning 180 days after the date of the determination of the Commission under s
 
 #### (1) Timing
 
-&emsp;The Board shall approve a completed application for registration not later than 45 days after the date of receipt of the application, in accordance with the rules of the Board, unless the Board, prior to such date, issues a written notice of disapproval to, or requests more information from, the prospective registrant.
+&emsp;The Board shall approve a completed application for registration not later than 45 days after the date of receipt of the application, inaccordance with the rules of the Board, unless the Board, prior to such date, issues a written notice of disapproval to, or requests more information from, the prospective registrant.
 
 #### (2) Treatment
 
@@ -60,5 +60,17 @@ Registration applications and annual reports required by this subsection, or suc
 
 The Board shall assess and collect a registration fee and an annual fee from each registered public accounting firm, in amounts that are sufficient to recover the costs of processing and reviewing applications and annual reports.
 
-(Pub. L. 107–204, title I, §102, July 30, 2002, 116 Stat. 753.)
+(Pub. L. 107–204, title I, §102, July 30, 2002, 116 Stat. 753; Pub. L. 111–203, title IX, §982(c), July 21, 2010, 124 Stat. 1928.)
+
+#### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §982(c)(1), substituted “It” for “Beginning 180 days after the date of the determination of the Commission under section 7211(d) of this title, it”.
+
+Subsec. (b)(2)(A). Pub. L. 111–203, §982(c)(2)(A), substituted “issuers, brokers, and dealers” for “issuers”.
+
+Subsec. (b)(2)(B), (G). Pub. L. 111–203, §982(c)(2)(B), substituted “issuer, broker, or dealer” for “issuer” wherever appearing.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 

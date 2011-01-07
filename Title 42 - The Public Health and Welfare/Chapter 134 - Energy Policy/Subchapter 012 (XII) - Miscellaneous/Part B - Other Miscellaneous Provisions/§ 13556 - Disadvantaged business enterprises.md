@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-To the extent practicable, the head of each agency shall provide that the obligation of not less than 10 percent of the total combined amounts obligated for contracts and subcontracts by each agency under this Act and amendments made by this Act pursuant to competitive procedures within the meaning of either the Federal Property and Administrative Services Act of 1949 <sup>1</sup> (41 U.S.C. 251 et seq.), or chapter 137 of title 10, shall be expended either with—
+To the extent practicable, the head of each agency shall provide that the obligation of not less than 10 percent of the total combined amounts obligated for contracts and subcontracts by each agency under this Act and amendments made by this Act pursuant to competitive procedures within the meaning of either division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, or chapter 137 of title 10, shall be expended either with—
 
 &emsp;(1) small business concerns controlled by socially and economically disadvantaged individuals or women;
 
@@ -26,19 +26,19 @@ For purposes of this section, the following definitions shall apply:
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, known as the Energy PolicyAct of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables.
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+#### Codification
+
+In subsec. (a), “division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-1997—Subsec. (a)(4). Pub. L. 105–135, §604(g)(1), added par. (4).
+<b>1997</b>—Subsec. (a)(4). Pub. L. 105–135, §604(g)(1), added par. (4).
 
 Subsec. (b)(3). Pub. L. 105–135, §604(g)(2), added par. (3).
 
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under section 631 of Title 15, Commerce and Trade.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

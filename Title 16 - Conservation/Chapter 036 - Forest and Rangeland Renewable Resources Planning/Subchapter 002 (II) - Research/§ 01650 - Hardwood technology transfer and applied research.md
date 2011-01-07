@@ -46,3 +46,5 @@ Pub. L. 105–277, div. A, §101(e) \[title III, §343\], Oct. 21, 1998, 112 Sta
 
 “(f) There are hereby authorized to be appropriated such sums as necessary to carry out the provisions of this section.”
 
+<i><sup>1</sup></i><i> So in original.</i>
+

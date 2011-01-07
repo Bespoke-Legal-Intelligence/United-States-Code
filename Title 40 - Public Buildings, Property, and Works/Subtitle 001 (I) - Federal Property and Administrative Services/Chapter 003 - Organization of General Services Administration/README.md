@@ -39,9 +39,13 @@
 
 #### Amendments
 
-2006—Pub. L. 109–313, §§2(a)(2), 3(h)(3), Oct. 6, 2006, 120 Stat. 1734, 1736, substituted “Federal Acquisition Service” for “Functions” in item 303 and “Acquisition Services Fund” for “General Supply Fund” in item 321 and struck out item 322 “Information Technology Fund”.
+<b>2006</b>—Pub. L. 109–313, §§2(a)(2), 3(h)(3), Oct. 6, 2006, 120 Stat. 1734, 1736, substituted “Federal Acquisition Service” for “Functions” in item 303 and “Acquisition Services Fund” for “General Supply Fund” in item 321 and struck out item 322 “Information Technology Fund”.
 
-2002—Pub. L. 107–347, title I, §102(a)(2), Dec. 17, 2002, 116 Stat. 2910, added item 305.
+<b>2002</b>—Pub. L. 107–347, title I, §102(a)(2), Dec. 17, 2002, 116 Stat. 2910, added item 305.
+
+<i><sup>1</sup></i><i> Another chapter 3 is set out in subtitle V of this title.</i>
+
+<i><sup>2</sup></i><i> Section repealed by Pub. L. 111–8 without corresponding amendment of chapter analysis.</i>
 
 
 ---

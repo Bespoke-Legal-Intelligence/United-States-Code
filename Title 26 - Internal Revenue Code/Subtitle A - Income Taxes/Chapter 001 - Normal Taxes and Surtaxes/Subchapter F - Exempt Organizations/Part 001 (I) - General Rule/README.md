@@ -12,13 +12,13 @@
 
 #### Amendments
 
-1987—Pub. L. 100–203, title X, §10711(b)(2)(B), Dec. 22, 1987, 101 Stat. 1330–464, substituted “substantial lobbying or because of political activities” for “substantial lobbying” in item 504.
+<b>1987</b>—Pub. L. 100–203, title X, §10711(b)(2)(B), Dec. 22, 1987, 101 Stat. 1330–464, substituted “substantial lobbying or because of political activities” for “substantial lobbying” in item 504.
 
-1984—Pub. L. 98–369, div. A, title V, §513(b), July 18, 1984, 98 Stat. 865, added item 505.
+<b>1984</b>—Pub. L. 98–369, div. A, title V, §513(b), July 18, 1984, 98 Stat. 865, added item 505.
 
-1976—Pub. L. 94–455, title XIII, §1307(d)(3)(B), Oct. 4, 1976, 90 Stat. 1728, added item 504.
+<b>1976</b>—Pub. L. 94–455, title XIII, §1307(d)(3)(B), Oct. 4, 1976, 90 Stat. 1728, added item 504.
 
-1969—Pub. L. 91–172, title I, §101(j)(61), Dec. 30, 1969, 83 Stat. 532, struck out item 504 “Denial of exemption”.
+<b>1969</b>—Pub. L. 91–172, title I, §101(j)(61), Dec. 30, 1969, 83 Stat. 532, struck out item 504 “Denial of exemption”.
 
 
 ---

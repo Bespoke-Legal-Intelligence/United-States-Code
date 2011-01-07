@@ -1,6 +1,6 @@
 ### §102. Definitions
 
-The following definitions apply in chapters 1 through 7 of this title and in title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.):
+The following definitions apply in chapters 1 through 7 of this title and in division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41:
 
 &emsp;(1)
 
@@ -70,7 +70,7 @@ Property.—The term “property” means any interest in property except—
 
 Surplus property.—The term “surplus property” means excess property that the Administrator determines is not required to meet the needs or responsibilities of all federal agencies.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1063.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1063; Pub. L. 111–350, §5(<i>l</i>)(2), Jan. 4, 2011, 124 Stat. 3850.)
 
 Historical and Revision Notes
 
@@ -92,11 +92,7 @@ In this section, the words “and in title III of the Federal Property and Admin
 
 In clause (6), the words “the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, Palau” are substituted for “the Trust Territory of the Pacific Islands” because of the termination of the Trust Territory of the Pacific Islands. See 48:1681 note prec.
 
-#### References in Text
+#### Amendments
 
-The Federal Property and Administrative Services Act of 1949, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
-
-The public land mining and mineral leasing laws, referred to in par. (9)(A)(iii), are classified generally to Title 30, Mineral Lands and Mining.
-
-The public land laws, referred to in par. (9)(A)(iv), are classified generally to Title 43, Public Lands.
+<b>2011</b>—Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” in introductory provisions.
 

@@ -10,7 +10,7 @@ All other functions of the Commission, the Chairman and members of the Commissio
 
 #### (c) Functions of Atomic Energy Commission transferred to Administrator
 
-There are hereby transferred to and vested in the Administrator all functions of the Atomic Energy Commission, the Chairman and members of the Commission, and the officers and components of the Commission, except as otherwise provided in this chapter.
+There are hereby transferred to and vested in the Administrator all functions of the AtomicEnergy Commission, the Chairman and members of the Commission, and the officers and components of the Commission, except as otherwise provided in this chapter.
 
 #### (d) Transfer of General Advisory Committee, Patent Compensation Board, and Divisions of Military Application and Naval Reactors to Administration
 
@@ -278,7 +278,7 @@ Section 189 \[42 U.S.C. 2239\] (“Hearings and Judicial Review”).
 
 Chapter 17 \[(sections 201–207) 42 U.S.C. 2251–2257\] (“Joint Committee on Atomic Energy”).
 
-Chapter 18 \[(sections 221–234) 42 U.S.C. 2271–2282\] (“Enforcement”); except for Section 234 \[42 U.S.C. 2282\]\(“Civil Monetary Penalties for Violation of Licensing Requirements”) which is applicable only to NSLC.
+Chapter 18 \[(sections 221–234) 42 U.S.C. 2271–2282\] (“Enforcement”); except for Section 234 \[42 U.S.C. 2282\] (“Civil Monetary Penalties for Violation of Licensing Requirements”) which is applicable only to NSLC.
 
 Section 241 \[42 U.S.C. 2015\] (“Transfer of Property”).
 
@@ -292,7 +292,7 @@ Section 281 \[42 U.S.C. 2011 note\] (“Separability”) and Section 291 \[42 U.
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior tothe expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

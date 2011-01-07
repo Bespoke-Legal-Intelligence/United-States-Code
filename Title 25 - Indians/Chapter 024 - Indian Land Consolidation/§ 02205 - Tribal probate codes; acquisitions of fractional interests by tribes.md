@@ -100,7 +100,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the owner of an interest in trust or restricted land devises an interest in such land to a non-Indian under section 2206(b)(2)(A)(ii) of this title, the Indian tribe that exercises jurisdiction over the parcel of land involved may acquire such interest by paying to the Secretary the fair market value of such interest, as determined by the Secretary on the date of the decedent's death.
+&emsp;&emsp;If the owner of an interest in trust or restricted land devises an interest in such land to a non-Indian under section 2206(b)(2)(A)(ii)of this title, the Indian tribe that exercises jurisdiction over the parcel of land involved may acquire such interest by paying to the Secretary the fair market value of such interest, as determined by the Secretary on the date of the decedent's death.
 
 #### (B) Transfer
 
@@ -166,7 +166,7 @@
 
 &emsp;The Secretary by regulation may provide for the use of findings of fact and conclusions of law, as rendered by a tribal justice system, as proposed findings of fact and conclusions of law in the adjudication of probate proceedings by the Department of the Interior.
 
-(Pub. L. 97–459, title II, §206, as added Pub. L. 106–462, title I, §103(3), Nov. 7, 2000, 114 Stat. 1993;amended Pub. L. 108–374, §6(a)(3), Oct. 27, 2004, 118 Stat. 1799; Pub. L. 109–157, §3, Dec. 30, 2005, 119 Stat. 2950.)
+(Pub. L. 97–459, title II, §206, as added Pub. L. 106–462, title I, §103(3), Nov. 7, 2000, 114 Stat. 1993; amended Pub. L. 108–374, §6(a)(3), Oct. 27, 2004, 118 Stat. 1799; Pub. L. 109–157, §3, Dec. 30, 2005, 119 Stat. 2950.)
 
 #### References in Text
 
@@ -180,13 +180,13 @@ A prior section 2205, Pub. L. 97–459, title II, §206, Jan. 12, 1983, 96 Stat.
 
 #### Amendments
 
-2005—Subsec. (b)(3)(A). Pub. L. 109–157, §3(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “the date specified in section 2206(g)(5) of this title; or”.
+<b>2005</b>—Subsec. (b)(3)(A). Pub. L. 109–157, §3(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “the date specified in section 2206(g)(5) of this title; or”.
 
 Subsec. (c)(1)(A). Pub. L. 109–157, §3(2)(A), substituted “section 2206(b)(2)(A)(ii)” for “section 2206(a)(6)(A)”.
 
 Subsec. (c)(2)(A)(i)(II)(bb). Pub. L. 109–157, §3(2)(B), inserted “in writing” after “agrees”.
 
-2004—Subsec. (a)(3). Pub. L. 108–374, §6(a)(3)(A), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The Secretary shall not approve a tribal probate code if such code prevents an Indian person from inheriting an interest in an allotment that was originally allotted to his or her lineal ancestor.”
+<b>2004</b>—Subsec. (a)(3). Pub. L. 108–374, §6(a)(3)(A), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The Secretary shall not approve a tribal probate code if such code prevents an Indian person from inheriting an interest in an allotment that was originally allotted to his or her lineal ancestor.”
 
 Subsec. (c)(1). Pub. L. 108–374, §6(a)(3)(B)(i)(I), (III), substituted “Authority” for “In general” in heading, designated existing provisions as subpar. (A), inserted heading, and struck out at end “The Secretary shall transfer such payment to the devisee.”, and added subpar. (B).
 

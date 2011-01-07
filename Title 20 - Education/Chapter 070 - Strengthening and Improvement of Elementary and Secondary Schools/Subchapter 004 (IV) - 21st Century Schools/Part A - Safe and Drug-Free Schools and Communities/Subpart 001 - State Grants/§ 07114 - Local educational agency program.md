@@ -4,7 +4,7 @@
 
 #### (1) Funds to local educational agencies
 
-&emsp;A State shall provide the amount made available to the State under this subpart, less the amounts reserved under section 7112 of this title to local educational agencies fordrug and violence prevention and education programs and activities as follows:
+&emsp;A State shall provide the amount made available to the State under this subpart, less the amounts reserved under section 7112 of this title to local educational agencies for drug and violence prevention and education programs and activities as follows:
 
 &emsp;&emsp;(A) 60 percent of such amount based on the relative amount such agencies received under part A of subchapter I of this chapter for the preceding fiscal year.
 
@@ -78,7 +78,7 @@ An application submitted by a local educational agency under this section shall 
 
 &emsp;&emsp;(C) how such agency will assess and publicly report progress toward attaining its performance measures;
 
-&emsp;&emsp;(D) the drug and violence prevention activity or program to be funded, including how the activity or program will meet the principles of effectiveness described in section7115(a) of this title, and the means of evaluating such activity or program; and
+&emsp;&emsp;(D) the drug and violence prevention activity or program to be funded, including how the activity or program will meet the principles of effectiveness described in section 7115(a) of this title, and the means of evaluating such activity or program; and
 
 &emsp;&emsp;(E) how the services will be targeted to schools and students with the greatest need;
 
@@ -164,5 +164,5 @@ An application submitted by a local educational agency under this section shall 
 
 #### Prior Provisions
 
-A prior section 7114, Pub. L. 89–10, title IV, §4114, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3679, related to governor's programs, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 7114, Pub. L. 89–10, title IV, §4114, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3679, related to governor's programs, prior to the general amendment of this subchapter by Pub. L. 107–110.
 

@@ -32,7 +32,7 @@ Another prior section 3023, Pub. L. 89–73, title III, §303, July 14, 1965, 79
 
 #### Amendments
 
-2006—Subsecs. (a)(1), (b)(1), (2), (d). Pub. L. 109–365, §303(1), substituted “years 2007, 2008, 2009, 2010, and 2011” for “year 2001, and such sums as may be necessary for each of the 4 succeeding fiscal years”.
+<b>2006</b>—Subsecs. (a)(1), (b)(1), (2), (d). Pub. L. 109–365, §303(1), substituted “years 2007, 2008, 2009, 2010, and 2011” for “year 2001, and such sums as may be necessary for each of the 4 succeeding fiscal years”.
 
 Subsec. (e)(1). Pub. L. 109–365, §303(2)(A), substituted “$160,000,000 for fiscal year 2007” for “$125,000,000 for fiscal year 2001 if the aggregate amount appropriated under subsection (a)(1) of this section (relating to part B of this subchapter, supportive services), paragraphs (1) (relating to subpart I of part C of this subchapter,congregate nutrition services) and (2) (relating to subpart II of part C of this subchapter, home delivered nutrition services) of subsection (b) of this section, and (d) (relating to part D of this subchapter, disease prevention and health promotion services) of this section for fiscal year 2001 is not less than the aggregate amount appropriated under subsection (a)(1) of this section, paragraphs (1) and (2) of subsection (b) of this section, and subsection (d) of this section for fiscal year 2000”.
 
@@ -44,7 +44,7 @@ Subsec. (e)(3). Pub. L. 109–365, §303(2)(C), substituted “may” for “sha
 
 &emsp;“(B) 1 percent”.
 
-2000—Subsec. (a)(1). Pub. L. 106–501, §302(1), added par. (1) and struck out former par. (1) which read as follows: “There are authorized to be appropriated $461,376,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, for the purpose of making grants under part B of this subchapter (relating to supportive services and senior centers).”
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–501, §302(1), added par. (1) and struck out former par. (1) which read as follows: “There are authorized to be appropriated $461,376,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, for the purpose of making grants under part B of this subchapter (relating to supportive services and senior centers).”
 
 Subsec. (b). Pub. L. 106–501, §302(2), added subsec. (b) and struck out former subsec. (b) which read as follows:
 
@@ -56,7 +56,7 @@ Subsec. (b). Pub. L. 106–501, §302(2), added subsec. (b) and struck out forme
 
 Subsecs. (d) to (g). Pub. L. 106–501, §302(3), added subsecs. (d) and (e) and struck out former subsecs. (d) to (g) which authorized appropriations for fiscal years 1992 to 1995 to carry out parts D to G of this subchapter.
 
-1992—Subsec. (a)(1). Pub. L. 102–375, §708(c)(3), struck out “for purposes other than outreach activities and application assistance under section 3027(a)(31) of this title” after “senior centers)”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–375, §708(c)(3), struck out “for purposes other than outreach activities and application assistance under section 3027(a)(31) of this title” after “senior centers)”.
 
 Pub. L. 102–375, §303(a)(1), substituted “$461,376,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995” for “$379,575,000 for the fiscal year 1988, $398,554,000 for the fiscal year 1989, $418,481,000 for the fiscal year 1990, and $439,406,000 for the fiscal year 1991”.
 
@@ -84,7 +84,7 @@ Subsec. (g). Pub. L. 102–375, §303(f), amended subsec. (g) generally. Prior t
 
 Subsec. (h). Pub. L. 102–375, §303(g), struck out subsec. (h) which read as follows: “No funds may be appropriated under subsection (a)(2), (a)(3), (e), (f), or (g) of this section for a fiscal year unless the aggregate amount appropriated for such fiscal year to carry out this subchapter (other than sections 3026(a)(6)(P), 3027(a)(12), and 3030a of this title, and parts E, F, and G of this subchapter), subchapter IV of this chapter (other than sections 3035f and 3035g of this title), subchapter IX of this chapter, and subchapter X of this chapter exceeds 105 percent of the aggregate amount appropriated for the preceding fiscal year to carry out such subchapters.”
 
-1987—Subsec. (a). Pub. L. 100–175, §§129(c)(1), 155(b), designated existing provisions as par. (1), inserted “for purposes other than outreach activities and application assistance under section 3027(a)(31) of this title”, and added pars. (2) and (3).
+<b>1987</b>—Subsec. (a). Pub. L. 100–175, §§129(c)(1), 155(b), designated existing provisions as par. (1), inserted “for purposes other than outreach activities and application assistance under section 3027(a)(31) of this title”, and added pars. (2) and (3).
 
 Pub. L. 100–175, §122(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There are authorized to be appropriated $350,300,000 for fiscal year 1984, $325,700,000 for fiscal year 1985, $343,600,000 for fiscal year 1986, and $361,500,000 for fiscal year 1987, for the purpose of making grants under part B of this subchapter (relating to supportive services and senior centers).”
 
@@ -104,7 +104,7 @@ Subsec. (g). Pub. L. 100–175, §144(b), added subsec. (g).
 
 Subsec. (h). Pub. L. 100–175, §145, added subsec. (h).
 
-1984—Subsec. (a). Pub. L. 98–459, §303(a), struck out provisions authorizing appropriations of $300,000,000 for fiscal year 1979, $360,000,000 for fiscal year 1980, $480,000,000 for fiscal year 1981, $306,000,000 for fiscal year 1982, and $327,400,000 for fiscal year 1983, and inserted provisions authorizing appropriations of $325,700,000 for fiscal year 1985, $343,600,000 for fiscal year 1986, and $361,500,000 for fiscal year 1987.
+<b>1984</b>—Subsec. (a). Pub. L. 98–459, §303(a), struck out provisions authorizing appropriations of $300,000,000 for fiscal year 1979, $360,000,000 for fiscal year 1980, $480,000,000 for fiscal year 1981, $306,000,000 for fiscal year 1982, and $327,400,000 for fiscal year 1983, and inserted provisions authorizing appropriations of $325,700,000 for fiscal year 1985, $343,600,000 for fiscal year 1986, and $361,500,000 for fiscal year 1987.
 
 Subsec. (b)(1). Pub. L. 98–459, §303(b)(1), struck out provisions authorizing appropriations of $350,000,000 for fiscal year 1979, $375,000,000 for fiscal year 1980, $400,000,000 for fiscal year 1981, $319,100,000 for fiscal year 1982, and $341,400,000 for fiscal year 1983, and inserted provisions authorizing appropriations of $360,800,000 for fiscal year 1985, $376,500,000 for fiscal year 1986, and $395,000,000 for fiscal year 1987.
 
@@ -112,7 +112,7 @@ Subsec. (b)(2). Pub. L. 98–459, §303(b)(2), struck out provisions authorizing
 
 Subsec. (c)(2). Pub. L. 98–459, §303(c), substituted “legal assistance” for “legal services”.
 
-1981—Subsec. (a). Pub. L. 97–115, §3(c)(1), inserted provisions authorizing appropriations of $306,000,000 for fiscal year 1982, $327,400,000 for fiscal year 1983, and $350,300,000 for fiscal year 1984, and substituted “(relating to supportive services and senior centers)” for “(relating to social services)”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–115, §3(c)(1), inserted provisions authorizing appropriations of $306,000,000 for fiscal year 1982, $327,400,000 for fiscal year 1983, and $350,300,000 for fiscal year 1984, and substituted “(relating to supportive services and senior centers)” for “(relating to social services)”.
 
 Subsec. (b)(1). Pub. L. 97–115, §3(c)(2), inserted provisions authorizing appropriations of $319,100,000 for fiscal year 1982, $341,400,000 for fiscal year 1983, and $365,300,000 for fiscal year 1984.
 

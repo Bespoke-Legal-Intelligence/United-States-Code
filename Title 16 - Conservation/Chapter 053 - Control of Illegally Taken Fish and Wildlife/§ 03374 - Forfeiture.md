@@ -24,8 +24,6 @@ Civil forfeitures under this section shall be governed by the provisions of chap
 
 This chapter, referred to in subsecs. (a)(2) and (b), was in the original “this Act”, meaning Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
 
-The customs laws, referred to in subsec. (b), are classified generally to Title 19, Customs Duties.
-
 Rule 41 of the Federal Rules of Criminal Procedure, referred to in subsec. (b), is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 #### Codification
@@ -34,7 +32,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–246, §8204(d), added subsec. (d).
+<b>2008</b>—Subsec. (d). Pub. L. 110–246, §8204(d), added subsec. (d).
 
 #### Effective Date of 2008 Amendment
 

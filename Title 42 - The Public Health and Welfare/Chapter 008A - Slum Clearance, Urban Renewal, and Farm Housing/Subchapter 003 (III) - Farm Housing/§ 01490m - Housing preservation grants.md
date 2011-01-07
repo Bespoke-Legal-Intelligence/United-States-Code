@@ -2,7 +2,7 @@
 
 #### (a) Statement of purposes
 
-The purpose of this section is to authorize the Secretary to make grants to eligible grantees including private nonprofit organizations, Indian tribes, general units of local government, counties, States, and consortia of other eligible grantees, in order to—
+The purpose of this section is to authorize the Secretary to make grants to eligible grantees including private nonprofit organizations, Indian tribes, general units of local government,counties, States, and consortia of other eligible grantees, in order to—
 
 &emsp;(1) rehabilitate or replace single family housing in rural areas which is owned by low- and very low-income persons and families, and
 
@@ -16,7 +16,7 @@ Preservation programs assisted under this section shall—
 
 &emsp;(1) be used to provide loans or grants to owners of single family housing in order to cover the cost of repairs and improvements;
 
-&emsp;(2) be used to provide loans or grants, not to exceed $15,000 per unit, to owners of singlefamily housing to replace existing housing if repair or rehabilitation of the housing is determined by the Secretary not to be practicable and the owner of the housing is unable to afford a loan under section 1472 of this title for replacement housing;
+&emsp;(2) be used to provide loans or grants, not to exceed $15,000 per unit, to owners of single family housing to replace existing housing if repair or rehabilitation of the housing is determined by the Secretary not to be practicable and the owner of the housing is unable to afford a loan under section 1472 of this title for replacement housing;
 
 &emsp;(3) be used to provide interest reduction payment;
 
@@ -136,7 +136,7 @@ Public Law 90–284, referred to in subsec. (e)(1)(C), is Pub. L. 90–284, Apr.
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–276 substituted “tenant-based assistance as provided under section 1437f of this title” for “assistance payments as provided by section 1437f(<i>o</i>) of this title” in concluding provisions.
+<b>1998</b>—Subsec. (a). Pub. L. 105–276 substituted “tenant-based assistance as provided under section 1437f of this title” for “assistance payments as provided by section 1437f(<i>o</i>) of this title” in concluding provisions.
 
 Subsec. (j). Pub. L. 105–362 struck out subsec. (j) which read as follows: “Not later than 180 days after the close of each fiscal year in which assistance under this section is furnished, the Secretary shall submit to the Congress a report which shall contain—
 
@@ -146,7 +146,7 @@ Subsec. (j). Pub. L. 105–362 struck out subsec. (j) which read as follows: “
 
 > The Secretary shall require grantees under this section to submit to him such reports, and other information as may be necessary in order for the Secretary to make the report required by this subsection.”
 
-1992—Subsec. (a). Pub. L. 102–550, §§706(1), 711(1)(B), in concluding provisions, inserted reference to section 1490r of this title and “or replaced” after “rehabilitated”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–550, §§706(1), 711(1)(B), in concluding provisions, inserted reference to section 1490r of this title and “or replaced” after “rehabilitated”.
 
 Subsec. (a)(1), (2). Pub. L. 102–550, §711(1)(A), inserted “or replace” after “rehabilitate”.
 
@@ -174,11 +174,11 @@ Subsec. (d)(4). Pub. L. 102–550, §711(4)(C), inserted “, or replacement,�
 
 Subsec. (d)(5). Pub. L. 102–550, §711(4)(D), added par. (5).
 
-1990—Subsec. (c)(1). Pub. L. 101–625, §717(a), inserted at end “Funds obligated, but subsequently unspent and deobligated, may remain available, to the extent provided in appropriations Acts, for use as housing preservation grants in ensuing fiscal years.”
+<b>1990</b>—Subsec. (c)(1). Pub. L. 101–625, §717(a), inserted at end “Funds obligated, but subsequently unspent and deobligated, may remain available, to the extent provided in appropriations Acts, for use as housing preservation grants in ensuing fiscal years.”
 
 Subsec. (g). Pub. L. 101–625, §717(b), substituted last sentence for “Any amounts which became available as a result of actions under this subsection shall be reallocated in the year in which they become available to such grantee or grantees as the Secretary may determine.”
 
-1988—Subsec. (e)(1)(B)(iii). Pub. L. 100–242, §316(g)(1), inserted “to” before “refuse”.
+<b>1988</b>—Subsec. (e)(1)(B)(iii). Pub. L. 100–242, §316(g)(1), inserted “to” before “refuse”.
 
 Subsec. (g). Pub. L. 100–242, §316(g)(2), substituted “low income families or persons and very low-income families or persons” for “persons of low income and very low-income”.
 

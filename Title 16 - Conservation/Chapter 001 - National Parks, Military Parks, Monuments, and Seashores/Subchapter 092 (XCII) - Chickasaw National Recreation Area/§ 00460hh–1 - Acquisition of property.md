@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary; manner of acquisition
 
-The Secretary may acquire land or interests in lands within the boundaries of the recreation area by donation, purchase with donated or appropriated funds, or exchange. When any tract of land is only partly within such boundaries, the Secretary may acquire all or any portion of the land outside of such boundaries in order to minimize the payment of severance costs. Land so acquired outside of the boundaries may be exchanged by the Secretary for non-Federal lands within the boundaries, and any land so acquired and not utilized for exchange shall be reported to the General Services Administration for disposal under the Federal Property and Administrative Services Act of 1949 <sup>1</sup> (63 Stat. 377), as amended. Any Federal property located within the boundaries of the recreation area may be transferred without consideration to the administrative jurisdiction of the Secretary for the purposes of the recreation area. Lands within the boundaries of the recreation area owned by the State of Oklahoma, or any political subdivision thereof, may be acquired only by donation: <i>Provided</i>, That the Secretary may also acquire lands by exchange with the city of Sulphur, utilizing therefor only such lands as may be excluded from the recreation area which were formerly within the Platt National Park.
+The Secretary may acquire land or interests in lands within the boundaries of the recreationarea by donation, purchase with donated or appropriated funds, or exchange. When any tract of land is only partly within such boundaries, the Secretary may acquire all or any portion of the land outside of such boundaries in order to minimize the payment of severance costs. Land so acquired outside of the boundaries may be exchanged by the Secretary for non-Federal lands within the boundaries, and any land so acquired and not utilized for exchange shall be reported to the General Services Administration for disposal under chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41. Any Federal property located within the boundaries of the recreation area may be transferred without consideration to the administrative jurisdiction of the Secretary for the purposes of the recreation area. Lands within the boundaries of the recreation area owned by the State of Oklahoma, or any political subdivision thereof, may be acquired only by donation: <i>Provided</i>, That the Secretary may also acquire lands by exchange with the city of Sulphur, utilizing therefor only such lands as may be excluded from the recreation area which were formerly within the Platt National Park.
 
 #### (b) Acquisition of improved residential property; retention by owners of right of use and occupancy for noncommercial residential purposes; terms; payment of fair market value
 
@@ -18,9 +18,7 @@ The Secretary may terminate a right to use and occupancy retained pursuant to th
 
 (Pub. L. 94–235, §2, Mar. 17, 1976, 90 Stat. 235.)
 
-#### References in Text
+#### Codification
 
-The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+In subsec. (a), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (63 Stat. 377), as amended” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

@@ -6,9 +6,9 @@ There is hereby authorized to be appropriated not more than $23,000,000 for the 
 
 #### Amendments
 
-1980—Pub. L. 96–585 inserted provision authorizing $500,000 appropriation for development.
+<b>1980</b>—Pub. L. 96–585 inserted provision authorizing $500,000 appropriation for development.
 
-1978—Pub. L. 95–625 substituted “$23,000,000” for “$18,000,000”.
+<b>1978</b>—Pub. L. 95–625 substituted “$23,000,000” for “$18,000,000”.
 
-1976—Pub. L. 94–578 substituted “$18,000,000” for “$16,000,000”.
+<b>1976</b>—Pub. L. 94–578 substituted “$18,000,000” for “$16,000,000”.
 

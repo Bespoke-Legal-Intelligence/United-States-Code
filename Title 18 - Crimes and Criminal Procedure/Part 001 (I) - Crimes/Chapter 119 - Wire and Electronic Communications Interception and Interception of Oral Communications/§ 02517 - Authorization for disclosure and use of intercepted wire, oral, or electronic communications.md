@@ -20,13 +20,13 @@
 
 #### Amendments
 
-2002—Pars. (7), (8). Pub. L. 107–296 added pars. (7) and (8).
+<b>2002</b>—Pars. (7), (8). Pub. L. 107–296 added pars. (7) and (8).
 
-2001—Par. (6). Pub. L. 107–56 added par. (6).
+<b>2001</b>—Par. (6). Pub. L. 107–56 added par. (6).
 
-1986—Pub. L. 99–508 substituted “wire, oral, or electronic” for “wire or oral” in section catchline and wherever appearing in text.
+<b>1986</b>—Pub. L. 99–508 substituted “wire, oral, or electronic” for “wire or oral” in section catchline and wherever appearing in text.
 
-1970—Par. (3). Pub. L. 91–452 substituted “proceeding held under the authority of the United States or of any State or political subdivision thereof” for “criminal proceeding in any court of the United States or of any State or in any Federal or State grand jury proceeding”.
+<b>1970</b>—Par. (3). Pub. L. 91–452 substituted “proceeding held under the authority of the United States or of any State or political subdivision thereof” for “criminal proceeding in any court of the United States or of any State or in any Federal or State grand jury proceeding”.
 
 #### Change of Name
 
@@ -34,7 +34,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 1986 Amendment
 

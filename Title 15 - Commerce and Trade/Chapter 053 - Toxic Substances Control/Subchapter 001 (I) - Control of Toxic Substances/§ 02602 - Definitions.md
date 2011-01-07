@@ -66,7 +66,7 @@ As used in this chapter:
 
 &emsp;&emsp;(iii) such other requirements as are necessary to provide such assurance.
 
-(13) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Canal Zone, American Samoa,the Northern Mariana Islands, or any other territory or possession of the United States.
+(13) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Canal Zone, American Samoa, the Northern Mariana Islands, or any other territory or possession of the United States.
 
 (14) The term “United States”, when used in the geographic sense, means all of the States.
 
@@ -84,9 +84,9 @@ For definition of Canal Zone, Governor of the Canal Zone, and Panama Canal Compa
 
 #### Amendments
 
-1988—Par. (7). Pub. L. 100–418 substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 of the Tariff Schedules of the United States”.
+<b>1988</b>—Par. (7). Pub. L. 100–418 substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 of the Tariff Schedules of the United States”.
 
-1986—Par. (2)(B)(v). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Par. (2)(B)(v). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 #### Effective Date of 1988 Amendment
 

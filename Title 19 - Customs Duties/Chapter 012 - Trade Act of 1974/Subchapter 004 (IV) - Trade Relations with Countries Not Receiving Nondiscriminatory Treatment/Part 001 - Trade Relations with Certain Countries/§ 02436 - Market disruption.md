@@ -70,9 +70,9 @@ Section 1401 of such Act of 1988, referred to in subsec. (b)(2), is section 1401
 
 #### Amendments
 
-1999—Subsec. (e)(2)(B), (C). Pub. L. 106–36 realigned margins.
+<b>1999</b>—Subsec. (e)(2)(B), (C). Pub. L. 106–36 realigned margins.
 
-1988—Subsec. (a)(1). Pub. L. 100–418, §1411(b)(1), substituted “section 2252(a)” for “section 2251(a)(1)”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–418, §1411(b)(1), substituted “section 2252(a)” for “section 2251(a)(1)”.
 
 Subsec. (a)(2). Pub. L. 100–418, §1411(b)(2), substituted “subsections (a)(3), (b)(4), and (c)(4) of section 2252” for “subsections (a)(2), (b)(3), and (c) of section 2251”.
 

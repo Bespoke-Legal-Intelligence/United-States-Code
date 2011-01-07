@@ -10,7 +10,7 @@ The Commission is authorized and directed to prevent any person from violating t
 
 #### (c) Rules and regulations by Federal Trade Commission
 
-The Commission is authorized and directed to make such rules and regulations, including the establishment of generic names of manufactured fibers, under and in pursuance of the terms of this subchapter as may be necessary and proper for administration and enforcement.
+The Commission is authorized and directed to make such rules and regulations, including the establishment of generic names of manufactured fibers, under and in pursuance of the terms ofthis subchapter as may be necessary and proper for administration and enforcement.
 
 #### (d) Inspection, analyses, tests, etc.
 

@@ -170,11 +170,11 @@ The release forms required under this section are intended to provide informatio
 
 #### (3) Determinations
 
-&emsp;The Administrator shall make the following determinations with respect to a proposedmodification before making a modification under paragraph (1):
+&emsp;The Administrator shall make the following determinations with respect to a proposed modification before making a modification under paragraph (1):
 
 &emsp;&emsp;(A) The extent to which information relating to the proposed modification provided on the toxic chemical release forms has been used by the Administrator or other agencies of the Federal Government, States, local governments, health professionals, and the public.
 
-&emsp;&emsp;(B) The extent to which the information is (i) readily available to potential users from other sources, such as State reporting programs, and (ii) provided to the Administrator under another Federal law or through a State program.
+&emsp;&emsp;(B) The extent to which the information is (i) readily available to potential users fromother sources, such as State reporting programs, and (ii) provided to the Administrator under another Federal law or through a State program.
 
 &emsp;&emsp;(C) The extent to which the modification would impose additional and unreasonable burdens on facilities subject to the reporting requirements under this section.
 
@@ -234,7 +234,7 @@ Not later than June 30, 1991, the Comptroller General, in consultation with the 
 
 &emsp;(A) The Administrator shall acquire available mass balance information from States which currently conduct (or during the 5 years after October 17, 1986 initiate) a mass balance-oriented annual quantity toxic chemical release program. If information from such States provides an inadequate representation of industry classes and categories to carry out the purposes of the study, the Administrator also may acquire mass balance information necessary for the study from a representative number of facilities in other States.
 
-&emsp;(B) Any information acquired under this section shall be available to the public, exceptthat upon a showing satisfactory to the Administrator by any person that the information (or a particular part thereof) to which the Administrator or any officer, employee, or representative has access under this section if made public would divulge information entitled to protection under section 1905 of title 18, such information or part shall be considered confidential in accordance with the purposes of that section, except that such information or part may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this section.
+&emsp;(B) Any information acquired under this section shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that the information (or a particular part thereof) to which the Administrator or any officer, employee, or representative has access under this section if made public would divulge information entitled to protection under section 1905 of title 18, such information or part shall be considered confidential in accordance with the purposesof that section, except that such information or part may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this section.
 
 &emsp;(C) The Administrator may promulgate regulations prescribing procedures for collecting mass balance information under this paragraph.
 
@@ -269,4 +269,6 @@ This directive is for the internal management of the executive branch and does n
 The Director of the Office of Management and Budget is authorized and directed to publish this Memorandum in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> So in original. Probably should be “calendar”.</i>
 

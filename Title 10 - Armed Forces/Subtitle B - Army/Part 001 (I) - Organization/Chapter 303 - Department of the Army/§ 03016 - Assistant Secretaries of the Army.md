@@ -24,9 +24,9 @@ A prior section 3016 was renumbered section 3018 of this title.
 
 #### Amendments
 
-2008—Subsec. (b)(5). Pub. L. 110–181 added par. (5).
+<b>2008</b>—Subsec. (b)(5). Pub. L. 110–181 added par. (5).
 
-1988—Subsec. (b)(4). Pub. L. 100–456 added par. (4).
+<b>1988</b>—Subsec. (b)(4). Pub. L. 100–456 added par. (4).
 
 #### Effective Date of 1988 Amendment
 

@@ -88,7 +88,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 #### (C) For timber manufacturing facilities located in States other than Idaho
 
-&emsp;&emsp;Except as provided in subparagraph (D), in making the determination referred to in subparagraph (A), the Secretary concerned shall consider the private timber export andthe Federal timber sourcing patterns for the applicant's timber manufacturing facilities, as well as the Federal timber sourcing patterns for the timber manufacturing facilities of other persons in the same local vicinity of the applicant, and the relative similarity of such Federal timber sourcing patterns. Private timber sourcing patterns shall not be a factor in such determinations in States other than Idaho.
+&emsp;&emsp;Except as provided in subparagraph (D), in making the determination referred to in subparagraph (A), the Secretary concerned shall consider the private timber export and the Federal timber sourcing patterns for the applicant's timber manufacturing facilities, as well as the Federal timber sourcing patterns for the timber manufacturing facilities of other persons in the same local vicinity of the applicant, and the relative similarity of such Federal timber sourcing patterns. Private timber sourcing patterns shall not be a factor in such determinations in States other than Idaho.
 
 #### (D) Area not included
 
@@ -172,11 +172,11 @@ Nothing in this section restricts or authorizes any restriction on the domestic 
 
 #### References in Text
 
-August 20, 1990, referred to in subsec. (a)(2)(B), was in the original “the effective date of this title”, which is the date of enactment of title IV of Pub. L. 101–382, approved Aug. 20, 1990, except as otherwise provided in sections 620 to 620j of this title, see section 494 of Pub. L. 101–382, set out as an Effective Date note under section 620 of this title.
+August 20, 1990, referred to in subsec. (a)(2)(B), was in the original “the effective date of this title”, which isthe date of enactment of title IV of Pub. L. 101–382, approved Aug. 20, 1990, except as otherwise provided in sections 620 to 620j of this title, see section 494 of Pub. L. 101–382, set out as an Effective Date note under section 620 of this title.
 
 #### Amendments
 
-1997—Subsec. (a)(1). Pub. L. 105–83, §602(a)(1)(A), inserted “paragraph (3) and” after “Except as provided in”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–83, §602(a)(1)(A), inserted “paragraph (3) and” after “Except as provided in”.
 
 Subsec. (a)(3). Pub. L. 105–83, §602(a)(1)(B), added par. (3).
 

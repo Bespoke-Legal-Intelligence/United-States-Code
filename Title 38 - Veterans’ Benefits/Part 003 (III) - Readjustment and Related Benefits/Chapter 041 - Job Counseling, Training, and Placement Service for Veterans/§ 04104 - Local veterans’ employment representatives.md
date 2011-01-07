@@ -40,11 +40,11 @@ Provisions similar to those comprising this section were contained in former sec
 
 #### Amendments
 
-2006—Subsecs. (d), (e). Pub. L. 109–461 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>2006</b>—Subsecs. (d), (e). Pub. L. 109–461 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-2002—Pub. L. 107–288 amended text generally, substituting subsecs. (a) to (d) for former subsecs. (a) to (c) relating to appointment, functions, and reporting requirements of local veterans’ employment representatives.
+<b>2002</b>—Pub. L. 107–288 amended text generally, substituting subsecs. (a) to (d) for former subsecs. (a) to (c) relating to appointment, functions, and reporting requirements of local veterans’ employment representatives.
 
-2001—Subsec. (a)(1). Pub. L. 107–14, §8(a)(10)(A)(i), substituted “For any fiscal year,” for “Beginning with fiscal year 1988,” in introductory provisions.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–14, §8(a)(10)(A)(i), substituted “For any fiscal year,” for “Beginning with fiscal year 1988,” in introductory provisions.
 
 Subsec. (a)(1)(B). Pub. L. 107–14, §8(a)(10)(A)(ii), substituted “subparagraph (A)” for “clause (A)”.
 
@@ -66,7 +66,7 @@ Pub. L. 107–14, §8(a)(10)(C)(ii), capitalized the first letter of the first w
 
 Subsec. (b)(13). Pub. L. 107–95, §9(b)(3), added par. (13).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 2004 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 2004 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 102–83, §5(c)(1), substituted “4102A(b)(5)(A)(ii)” for “2002A(b)(5)(A)(ii)” in introductory provisions.
 
@@ -80,15 +80,15 @@ Subsec. (b)(10). Pub. L. 102–83, §5(c)(1), substituted “1712A” for “612
 
 Subsec. (d). Pub. L. 102–16, §10(a)(8)(D), struck out subsec. (d) which read as follows: “Local veterans’ employment representatives shall be assigned, in accordance with this section, by the administrative head of the employment service in each State after consultation with the Director for Veterans’ Employment and Training.”
 
-1989—Subsec. (b)(7). Pub. L. 101–237 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1989</b>—Subsec. (b)(7). Pub. L. 101–237 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1988—Pub. L. 100–323 substituted “Local veterans’ employment representatives” for “Employees of local offices” as section catchline and amended section generally. Prior to amendment, section read as follows: “Except as may be determined by the Secretary of Labor based on a demonstrated lack of need for such services, there shall be assigned by the administrative head of the employment service in each State one or more employees, preferably eligible veterans or eligible persons, on the staffs of local employment service offices, whose services shall be fully devoted to discharging the duties prescribed for the veterans’ employment representative and such representative's assistants.”
+<b>1988</b>—Pub. L. 100–323 substituted “Local veterans’ employment representatives” for “Employees of local offices” as section catchline and amended section generally. Prior to amendment, section read as follows: “Except as may be determined by the Secretary of Labor based on a demonstrated lack of need for such services, there shall be assigned by the administrative head of the employment service in each State one or more employees, preferably eligible veterans or eligible persons, on the staffs of local employment service offices, whose services shall be fully devoted to discharging the duties prescribed for the veterans’ employment representative and such representative's assistants.”
 
-1976—Pub. L. 94–502 substituted “eligible veterans or eligible persons” for “eligible veterans” and “such representative's” for “his”.
+<b>1976</b>—Pub. L. 94–502 substituted “eligible veterans or eligible persons” for “eligible veterans” and “such representative's” for “his”.
 
-1972—Pub. L. 92–540 substituted provisions relating to the assignment of employees of local offices for provisions relating to the cooperation of other Federal agencies. See section 2005 of this title.
+<b>1972</b>—Pub. L. 92–540 substituted provisions relating to the assignment of employees of local offices for provisions relating to the cooperation of other Federal agencies. See section 2005 of this title.
 
-1966—Pub. L. 89–358 inserted “or of service after January 31, 1955” after “veterans of any war”.
+<b>1966</b>—Pub. L. 89–358 inserted “or of service after January 31, 1955” after “veterans of any war”.
 
 #### Effective Date of 2006 Amendment
 

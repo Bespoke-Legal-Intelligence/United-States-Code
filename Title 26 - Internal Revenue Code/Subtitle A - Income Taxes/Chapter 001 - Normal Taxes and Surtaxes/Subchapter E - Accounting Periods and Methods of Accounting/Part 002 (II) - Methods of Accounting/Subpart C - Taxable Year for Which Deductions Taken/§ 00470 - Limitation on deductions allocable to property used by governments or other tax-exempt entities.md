@@ -216,7 +216,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-2007—Subsec. (c)(2). Pub. L. 110–172, §7(c)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘tax-exempt use property’ has the meaning given to such term by section 168(h), except that such section shall be applied—
+<b>2007</b>—Subsec. (c)(2). Pub. L. 110–172, §7(c)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘tax-exempt use property’ has the meaning given to such term by section 168(h), except that such section shall be applied—
 
 &emsp;“(A) without regard to paragraphs (1)(C) and (3) thereof, and
 
@@ -271,4 +271,6 @@ Exchanges and conversion of tax-exempt use property.—Section 470(e)(4) of the 
 &emsp;“(4)
 
 Intangibles and indian tribal governments.—The amendments made subsections (b)(2), (b)(3), and (e) of section 847 \[amending sections 167, 168, and 197 of this title\], and the treatment of property described in clauses (ii) and (iii) of section 470(c)(2)(B) of the Internal Revenue Code of 1986 (as added by section 848) as tangible property, shall apply to leases entered into after October 3, 2004.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph (A)(ii)”.</i>
 

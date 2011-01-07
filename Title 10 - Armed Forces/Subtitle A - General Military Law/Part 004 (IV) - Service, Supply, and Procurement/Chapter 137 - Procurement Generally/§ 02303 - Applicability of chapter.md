@@ -1,6 +1,6 @@
 ### §2303. Applicability of chapter
 
-(a) This chapter applies to the procurement by any of the following agencies, for its use orotherwise, of all property (other than land) and all services for which payment is to be made from appropriated funds:
+(a) This chapter applies to the procurement by any of the following agencies, for its use or otherwise, of all property (other than land) and all services for which payment is to be made from appropriated funds:
 
 &emsp;(1) The Department of Defense.
 
@@ -46,17 +46,17 @@ In subsection (b), the introductory clause is substituted for the word “suppli
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–369, §2722(b)(1)(A), (B), substituted in provisions preceding cl. (1) “procurement” for “purchase, and contract to purchase,” and “(other than land) and all services” for “named in subsection (b), and all services,”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §2722(b)(1)(A), (B), substituted in provisions preceding cl. (1) “procurement” for “purchase, and contract to purchase,” and “(other than land) and all services” for “named in subsection (b), and all services,”.
 
 Subsec. (a)(1) to (6). Pub. L. 98–369, §2722(b)(1)(C), (D), added cl. (1) and redesignated existing cls. (1) to (5) as (2) to (6), respectively.
 
 Subsecs. (b), (c). Pub. L. 98–369, §2722(b)(2), (3), redesignated subsec. (c) as (b). Former subsec. (b), which had provided that this chapter did not cover land but did cover public works, buildings, facilities, vessels, floating equipment, aircraft, parts, accessories, equipment, and machine tools, was struck out.
 
-1958—Subsec. (a)(5). Pub. L. 85–568 substituted “The National Aeronautics and Space Administration” for “The National Advisory Committee for Aeronautics”.
+<b>1958</b>—Subsec. (a)(5). Pub. L. 85–568 substituted “The National Aeronautics and Space Administration” for “The National Advisory Committee for Aeronautics”.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as a note under section 251 of Title 41, Public Contracts.
+Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as a note under section 2302 of this title.
 
 #### Effective Date of 1958 Amendment
 

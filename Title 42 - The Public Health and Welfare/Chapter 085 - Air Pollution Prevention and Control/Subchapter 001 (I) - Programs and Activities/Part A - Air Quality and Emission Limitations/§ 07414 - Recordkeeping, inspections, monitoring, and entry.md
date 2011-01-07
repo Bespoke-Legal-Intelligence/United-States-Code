@@ -24,9 +24,9 @@ For the purpose (i) of developing or assisting in the development of any impleme
 
 &emsp;&emsp;(A) shall have a right of entry to, upon, or through any premises of such person or in which any records required to be maintained under paragraph (1) of this section are located, and
 
-&emsp;&emsp;(B) may at reasonable times have access to and copy any records, inspect any monitoring equipment or method required under paragraph (1), and sample any emissionswhich such person is required to sample under paragraph (1).<sup>3</sup>
+&emsp;&emsp;(B) may at reasonable times have access to and copy any records, inspect any monitoring equipment or method required under paragraph (1), and sample any emissions which such person is required to sample under paragraph (1).<sup>3</sup>
 
-&emsp;(3) The <sup>4</sup> Administrator shall in the case of any person which is the owner or operator of a major stationary source, and may, in the case of any other person, require enhanced monitoring and submission of compliance certifications. Compliance certifications shall include (A) identification of the applicable requirement that is the basis of the certification, (B) the method used for determining the compliance status of the source, (C) the compliance status, (D) whether compliance is continuous or intermittent, (E) such other facts as the Administrator may require. Compliance certifications and monitoring data shall be subject to subsection (c) of this section. Submission of a compliance certification shall in no way limit the Administrator's authorities to investigate or otherwise implement this chapter. The Administrator shall promulgate rules to provide guidance and to implement this paragraph within 2 years after November 15, 1990.
+&emsp;(3) The <sup>4</sup> Administrator shall in the case of any person which is the owner or operator of a major stationary source, and may, in the case of any other person, require enhanced monitoring and submission of compliance certifications. Compliance certifications shall include (A) identification of the applicable requirement that is the basis of the certification, (B) the method used for determining the compliance status of the source, (C) the compliance status, (D) whether compliance iscontinuous or intermittent, (E) such other facts as the Administrator may require. Compliance certifications and monitoring data shall be subject to subsection (c) of this section. Submission of a compliance certification shall in no way limit the Administrator's authorities to investigate or otherwise implement this chapter. The Administrator shall promulgate rules to provide guidance and to implement this paragraph within 2 years after November 15, 1990.
 
 #### (b) State enforcement
 
@@ -56,7 +56,7 @@ Section was formerly classified to section 1857c–9 of this title.
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–549, §702(a)(1), which directed that “or” be struck out in first sentence immediately before “any emission standard under section 7412 of this title,” could not be executed because of the prior amendment by Pub. L. 101–549, §302(c), see below.
+<b>1990</b>—Subsec. (a). Pub. L. 101–549, §702(a)(1), which directed that “or” be struck out in first sentence immediately before “any emission standard under section 7412 of this title,” could not be executed because of the prior amendment by Pub. L. 101–549, §302(c), see below.
 
 Pub. L. 101–549, §702(a)(2), inserted “or any regulation under section 7429 of this title (relating to solid waste combustion),” before “(ii) of determining”.
 
@@ -66,7 +66,7 @@ Subsec. (a)(1). Pub. L. 101–549, §702(a)(3), amended par. (1) generally. Prio
 
 Subsec. (a)(3). Pub. L. 101–549, §702(b), added par. (3).
 
-1977—Subsec. (a). Pub. L. 95–190, §14(a)(22), inserted reference to subchapter II of this chapter and “new” before “motor” in two places.
+<b>1977</b>—Subsec. (a). Pub. L. 95–190, §14(a)(22), inserted reference to subchapter II of this chapter and “new” before “motor” in two places.
 
 Pub. L. 95–95, §305(d), substituted “carrying out any provision of this chapter (except with respect to a manufacturer of motor vehicles or motor vehicle engines)” for “carrying out sections 119 or 303” in cl. (iii) preceding par. (1), substituted “any person subject to any requirement of this chapter (other than a manufacturer subject to the provisions of sections 7525(c) or 7542 of this title)” for “the owner or operator of any emission source” in par. (1), substituted “any premises of such person” for “any premises in which an emission source is located” in subpar. (A) of par. (2), and substituted “emissions which such person is required to sample” for “emissions which the owner or operator of such source is required to sample” in subpar. (B) of subpar. (2).
 
@@ -76,7 +76,7 @@ Subsec. (b)(1). Pub. L. 95–95, §109(d)(3), struck out “(except with respect
 
 Subsec. (d). Pub. L. 95–95, §113, added subsec. (d).
 
-1974—Subsec. (a). Pub. L. 93–319 inserted reference to section 119.
+<b>1974</b>—Subsec. (a). Pub. L. 93–319 inserted reference to section 119.
 
 #### Effective Date of 1977 Amendment
 

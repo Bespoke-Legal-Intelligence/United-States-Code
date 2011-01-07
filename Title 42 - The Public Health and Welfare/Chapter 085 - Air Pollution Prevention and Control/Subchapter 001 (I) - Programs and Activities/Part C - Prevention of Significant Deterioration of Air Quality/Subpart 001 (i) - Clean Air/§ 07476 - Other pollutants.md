@@ -2,11 +2,11 @@
 
 #### (a) Hydrocarbons, carbon monoxide, petrochemical oxidants, and nitrogen oxides
 
-In the case of the pollutants hydrocarbons, carbon monoxide, photochemical oxidants, and nitrogen oxides, the Administrator shall conduct a study and not later than two years after August 7, 1977, promulgate regulations to prevent the significant deterioration of air qualitywhich would result from the emissions of such pollutants. In the case of pollutants for which national ambient air quality standards are promulgated after August 7, 1977, he shall promulgate such regulations not more than 2 years after the date of promulgation of such standards.
+In the case of the pollutants hydrocarbons, carbon monoxide, photochemical oxidants, and nitrogen oxides, the Administrator shall conduct a study and not later than two years after August 7, 1977, promulgate regulations to prevent the significant deterioration of air quality which would result from the emissions of such pollutants. In the case of pollutants for which national ambient air quality standards are promulgated after August 7, 1977, he shall promulgate such regulations not more than 2 years after the date of promulgation of such standards.
 
 #### (b) Effective date of regulations
 
-Regulations referred to in subsection (a) of this section shall become effective one year after the date of promulgation. Within 21 months after such date of promulgation such plan revision shall be submitted to the Administrator who shall approve or disapprove the plan within 25 months after such date or <sup>1</sup> promulgation in the same manner as required under section 7410 of this title.
+Regulations referred to in subsection (a) of this section shall become effective one yearafter the date of promulgation. Within 21 months after such date of promulgation such plan revision shall be submitted to the Administrator who shall approve or disapprove the plan within 25 months after such date or <sup>1</sup> promulgation in the same manner as required under section 7410 of this title.
 
 #### (c) Contents of regulations
 
@@ -28,7 +28,7 @@ The Administrator is authorized to substitute, for the maximum allowable increas
 
 #### Amendments
 
-1990—Subsec. (f). Pub. L. 101–549 added subsec. (f).
+<b>1990</b>—Subsec. (f). Pub. L. 101–549 added subsec. (f).
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
 

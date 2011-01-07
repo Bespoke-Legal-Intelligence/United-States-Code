@@ -15,7 +15,7 @@
 | [2410\.](%C2%A7%2002410%20-%20Jurisdiction%20of%20district%20courts.md) | Jurisdiction of district courts. |
 | [2411\.](%C2%A7%2002411%20-%20Federal%20agency%20cooperation.md) | Federal agency cooperation. |
 | [2412\.](%C2%A7%2002412%20-%20Relationship%20to%20existing%20treaties.md) | Relationship to existing treaties. |
-| [2413\.](%C2%A7%2002413%20-%20Savings%20provision.md) | Savings provision. |
+| [2413\.](%C2%A7%2002413%20-%20Saving%20provisions.md) | Saving provisions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -37,4 +37,4 @@
 - [&sect; 02410 - Jurisdiction of district courts](%C2%A7%2002410%20-%20Jurisdiction%20of%20district%20courts.md)
 - [&sect; 02411 - Federal agency cooperation](%C2%A7%2002411%20-%20Federal%20agency%20cooperation.md)
 - [&sect; 02412 - Relationship to existing treaties](%C2%A7%2002412%20-%20Relationship%20to%20existing%20treaties.md)
-- [&sect; 02413 - Savings provision](%C2%A7%2002413%20-%20Savings%20provision.md)
+- [&sect; 02413 - Saving provisions](%C2%A7%2002413%20-%20Saving%20provisions.md)

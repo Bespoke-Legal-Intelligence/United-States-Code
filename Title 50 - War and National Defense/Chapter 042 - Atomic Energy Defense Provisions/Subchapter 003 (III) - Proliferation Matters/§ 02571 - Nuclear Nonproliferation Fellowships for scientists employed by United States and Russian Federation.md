@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) From amounts made available to carry out this section, the Administrator for Nuclear Security may carry out a program under which the Administrator awards, to scientists employed at nonproliferation research laboratories of the Russian Federation and the United States, international exchange fellowships, to be known as Nuclear Nonproliferation Fellowships, in the nuclear nonproliferation sciences.
+(1) From amounts made available to carry out this section, the Administrator for Nuclear Security may carry out a program under which the Administrator awards, to scientists employed at nonproliferation research laboratories of the Russian Federation and the United States,international exchange fellowships, to be known as Nuclear Nonproliferation Fellowships, in the nuclear nonproliferation sciences.
 
 (2) The purpose of the program shall be to provide opportunities for advancement in the nuclear nonproliferation sciences to scientists who, as demonstrated by their academic or professional achievements, show particular promise of making significant contributions in those sciences.
 

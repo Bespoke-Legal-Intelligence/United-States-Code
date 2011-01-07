@@ -16,7 +16,7 @@ The Congress finds that—
 
 &emsp;(7) the Corporation's viability and sound performance allow it to be sold to the American public for a substantial sum through a public offering;
 
-&emsp;(8) a public offering of the Corporation's stock will preserve competitive rail service in the region, provide a reasonable return to the Government, and protect employment;
+&emsp;(8) a public offering of the Corporation's stock will preserve competitive rail service inthe region, provide a reasonable return to the Government, and protect employment;
 
 &emsp;(9) the Corporation's employees contributed significantly to the turnaround in the Corporation's financial performance and they should share in the Corporation's success through a settlement of their claims for reimbursement for wages below industry standard, and a share in the common equity of the Corporation;
 

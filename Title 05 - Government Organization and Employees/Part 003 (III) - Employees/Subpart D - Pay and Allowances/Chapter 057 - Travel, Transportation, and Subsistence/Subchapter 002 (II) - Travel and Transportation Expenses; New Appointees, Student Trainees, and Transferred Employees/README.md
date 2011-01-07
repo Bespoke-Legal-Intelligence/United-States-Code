@@ -12,6 +12,7 @@
 - [&sect; 05724a - Relocation expenses of employees transferred or reemployed](%C2%A7%2005724a%20-%20Relocation%20expenses%20of%20employees%20transferred%20or%20reemployed.md)
 - [&sect; 05724b - Taxes on reimbursements for travel, transportation, and relocation expenses of employees transferred](%C2%A7%2005724b%20-%20Taxes%20on%20reimbursements%20for%20travel%2C%20transportation%2C%20and%20relocation%20expenses%20of%20employees%20transferred.md)
 - [&sect; 05724c - Relocation services](%C2%A7%2005724c%20-%20Relocation%20services.md)
+- [&sect; 05724d - Transportation and moving expenses for immediate family of certain deceased Federal employees](%C2%A7%2005724d%20-%20Transportation%20and%20moving%20expenses%20for%20immediate%20family%20of%20certain%20deceased%20Federal%20employees.md)
 - [&sect; 05725 - Transportation expenses; employees assigned to danger areas](%C2%A7%2005725%20-%20Transportation%20expenses%3B%20employees%20assigned%20to%20danger%20areas.md)
 - [&sect; 05726 - Storage expenses; household goods and personal effects](%C2%A7%2005726%20-%20Storage%20expenses%3B%20household%20goods%20and%20personal%20effects.md)
 - [&sect; 05727 - Transportation of motor vehicles](%C2%A7%2005727%20-%20Transportation%20of%20motor%20vehicles.md)

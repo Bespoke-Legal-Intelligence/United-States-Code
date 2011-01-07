@@ -48,7 +48,7 @@ The Secretary shall, in accordance with the provisions of this section, make pay
 
 #### (A) Agencies with immigrant children and youth
 
-&emsp;&emsp;At least 1/2 of the funds reserved under this paragraph shall be made available to eligible local educational agencies (as described in subsection (b)(2) of this section) within the State with the highest numbers and percentages of immigrant children and youth.
+&emsp;&emsp;At least ½ of the funds reserved under this paragraph shall be made available to eligible local educational agencies (as described in subsection (b)(2) of this section) within the State with the highest numbers and percentages of immigrant children and youth.
 
 #### (B) Agencies with a sudden influx of children and youth
 

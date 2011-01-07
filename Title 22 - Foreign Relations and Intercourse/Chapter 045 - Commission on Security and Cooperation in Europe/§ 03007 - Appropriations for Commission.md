@@ -26,15 +26,15 @@ Foreign travel for official purposes by Commission members and staff may be auth
 
 #### Amendments
 
-1985—Subsec. (a). Pub. L. 99–7, §3, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There is authorized to be appropriated to the Commission for each fiscal year and to remain available until expended $550,000 to assist in meeting the expenses of the Commission for the purpose of carrying out the provisions of this chapter, such appropriation to be disbursed on voucher to be approved by the Chairman of the Commission.”
+<b>1985</b>—Subsec. (a). Pub. L. 99–7, §3, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There is authorized to be appropriated to the Commission for each fiscal year and to remain available until expended $550,000 to assist in meeting the expenses of the Commission for the purpose of carrying out the provisions of this chapter, such appropriation to be disbursed on voucher to be approved by the Chairman of the Commission.”
 
 Subsec. (d). Pub. L. 99–7, §4, added subsec. (d).
 
-1979—Subsec. (c). Pub. L. 96–60 added subsec. (c).
+<b>1979</b>—Subsec. (c). Pub. L. 96–60 added subsec. (c).
 
-1978—Subsec. (a). Pub. L. 95–426 substituted “$550,000” for “$350,000”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–426 substituted “$550,000” for “$350,000”.
 
-1976—Pub. L. 94–534 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1976</b>—Pub. L. 94–534 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1985 Amendment
 

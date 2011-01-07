@@ -10,7 +10,7 @@ Section 1301a of title 19, referred to in text, was repealed by Pub. L. 87–456
 
 #### Amendments
 
-1954—Act Sept. 1, 1954, subjected Guam to the general provision for importations from insular possessions contained in section 1301a of title 19.
+<b>1954</b>—Act Sept. 1, 1954, subjected Guam to the general provision for importations from insular possessions contained in section 1301a of title 19.
 
 #### Effective Date of 1954 Amendment
 

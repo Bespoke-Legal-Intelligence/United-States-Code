@@ -28,7 +28,7 @@ If any employer fails to deduct and withhold any tax under chapter 24 or subchap
 
 #### (c) Section not to apply in cases of intentional disregard
 
-This section shall not apply to the determination of the employer's liability for tax under chapter 24 or subchapter A of chapter 21 if such liability is due to the employer's intentional disregard of the requirement to deduct and withhold such tax.
+This section shall not apply to the determination of the employer's liability for tax underchapter 24 or subchapter A of chapter 21 if such liability is due to the employer's intentional disregard of the requirement to deduct and withhold such tax.
 
 #### (d) Special rules
 
@@ -60,9 +60,9 @@ For purposes of this section—
 
 #### Amendments
 
-1990—Subsec. (d)(3). Pub. L. 101–508 substituted “subsection (d)(3)” for “subsection (d)(4)”.
+<b>1990</b>—Subsec. (d)(3). Pub. L. 101–508 substituted “subsection (d)(3)” for “subsection (d)(4)”.
 
-1988—Subsec. (d)(3). Pub. L. 100–647 substituted “subsection (d)(4)” for “subsection (d)(3)”.
+<b>1988</b>—Subsec. (d)(3). Pub. L. 100–647 substituted “subsection (d)(4)” for “subsection (d)(3)”.
 
 #### Effective Date of 1990 Amendment
 

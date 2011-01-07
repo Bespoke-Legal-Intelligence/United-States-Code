@@ -228,7 +228,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 #### (2) Periods; amounts
 
-&emsp;The eligible entity shall make such subgrants for periods of not less than 3 and notmore than 5 years, and may renew the subgrants for such periods, in amounts of not less than $100,000 per year.
+&emsp;The eligible entity shall make such subgrants for periods of not less than 3 and not more than 5 years, and may renew the subgrants for such periods, in amounts of not less than $100,000 per year.
 
 #### (3) Applications
 
@@ -244,7 +244,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 &emsp;&emsp;&emsp;(i) use of evidence produced by prior rigorous evaluations of program effectiveness including, where available, well-implemented randomized controlled trials; or
 
-&emsp;&emsp;&emsp;(ii) a well-articulated plan to conduct, or partner with a research organization to conduct, rigorous evaluations to assess the effectiveness of initiatives addressing national or local challenges;
+&emsp;&emsp;&emsp;(ii) a well-articulated plan to conduct, or partner with a research organization toconduct, rigorous evaluations to assess the effectiveness of initiatives addressing national or local challenges;
 
 &emsp;&emsp;(E) a description of how the community organization uses data to analyze and improve its initiatives;
 
@@ -290,7 +290,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The entity carrying out this subsection shall collect data and conduct or supportresearch with respect to the eligible entities and community organizations receiving grants under subsections (d) and (<i>l</i>), and the initiatives supported by such eligible entities and community organizations, to determine the success of the program carried out under this section in replicating, expanding, and supporting initiatives, including—
+&emsp;&emsp;&emsp;The entity carrying out this subsection shall collect data and conduct or support research with respect to the eligible entities and community organizations receiving grants under subsections (d) and (<i>l</i>), and the initiatives supported by such eligible entities and community organizations, to determine the success of the program carried out under this section in replicating, expanding, and supporting initiatives, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) the success of the initiatives in improving measurable outcomes; and
 

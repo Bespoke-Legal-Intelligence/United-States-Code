@@ -20,5 +20,5 @@ Section 7705 allows officials designated to investigate or preside at hearings o
 
 #### Amendments
 
-1985—Subsec. (a). Pub. L. 99–36 substituted “certificates of registry, and merchant mariners’ documents” for “certificates, and documents”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–36 substituted “certificates of registry, and merchant mariners’ documents” for “certificates, and documents”.
 

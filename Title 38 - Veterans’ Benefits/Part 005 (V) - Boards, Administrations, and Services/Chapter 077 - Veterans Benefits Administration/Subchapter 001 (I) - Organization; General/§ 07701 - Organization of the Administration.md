@@ -8,5 +8,5 @@
 
 #### Amendments
 
-1992—Subsec. (b). Pub. L. 102–405 substituted “Under Secretary for Benefits” for “Chief Benefits Director” and inserted at end “The Under Secretary for Benefits may be referred to as the Chief Benefits Director.”
+<b>1992</b>—Subsec. (b). Pub. L. 102–405 substituted “Under Secretary for Benefits” for “Chief Benefits Director” and inserted at end “The Under Secretary for Benefits may be referred to as the Chief Benefits Director.”
 

@@ -34,7 +34,7 @@ Notice and Wait Requirements.—The Secretary concerned may not enter into an ag
 
 Inapplicability of Certain Property Disposal Laws.—The following provisions of law do not apply to the conveyance of a family housing facility under this section:
 
-&emsp;(1) Subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.).
+&emsp;(1) Subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 &emsp;(2) Title V of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411 et seq.).
 
@@ -58,19 +58,19 @@ Description of Property.—The exact acreage and legal description of any family
 
 Additional Terms and Conditions.—The Secretary concerned may require such additional terms and conditions in connection with the conveyance of family housing facilities under this section as the Secretary considers appropriate to protect the interests of the United States.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2818(a)(1), Feb. 10, 1996, 110 Stat. 553; amended Pub. L. 107–107, div. A, title X, §1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, §3(b)(21), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–136, div. A, title X, §1031(a)(46), Nov. 24, 2003, 117 Stat. 1602.)
+(Added Pub. L. 104–106, div. B, title XXVIII, §2818(a)(1), Feb. 10, 1996, 110 Stat. 553; amended Pub. L. 107–107, div. A, title X, §1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, §3(b)(21),Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–136, div. A, title X, §1031(a)(46), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 111–350, §5(b)(49), Jan. 4, 2011, 124 Stat. 3846.)
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
-
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (d)(2), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Title V of the Act is classified generally to subchapter V (§11411 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (d)(2), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title V of the Act is classified generally to subchapter V (§11411 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 #### Amendments
 
-2003—Subsec. (c)(2). Pub. L. 108–136 struck out “calendar” after “21” and inserted before period at end “or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the justification is provided in an electronic medium pursuant to section 480 of this title”.
+<b>2011</b>—Subsec. (d)(1). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
 
-2002—Subsec. (d)(1). Pub. L. 107–217 substituted “Subtitle I of title 40 and title III of the” for “The” and “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
+<b>2003</b>—Subsec. (c)(2). Pub. L. 108–136 struck out “calendar” after “21” and inserted before period at end “or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the justification is provided in an electronic medium pursuant to section 480 of this title”.
 
-2001—Subsec. (d)(2). Pub. L. 107–107 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
+<b>2002</b>—Subsec. (d)(1). Pub. L. 107–217 substituted “Subtitle I of title 40 and title III of the” for “The” and “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
+
+<b>2001</b>—Subsec. (d)(2). Pub. L. 107–107 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 

@@ -24,9 +24,9 @@ Using Other Government Facilities and Services.—To carry out this chapter and 
 
 (d)
 
-Advertising Not Required.—Section 3709 of the Revised Statutes (41 U.S.C. 5) does not apply to a lease or contract made by the Secretary of Transportation or Commerce under this chapter.
+Advertising Not Required.—Section 6101(b) to (d) of title 41 does not apply to a lease or contract made by the Secretary of Transportation or Commerce under this chapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1282.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1282; Pub. L. 111–350, §5(<i>o</i>)(9), Jan. 4, 2011, 124 Stat. 3854.)
 
 Historical and Revision Notes
 
@@ -80,9 +80,13 @@ In this section, the title “Secretary of Commerce” is substituted for “Chi
 
 In subsection (a), before clause (1), the words “do and perform, by contract or otherwise, all acts and things necessary or incident to” and “pursuant to this chapter or any other provision of law” are omitted as surplus. In clause (1), the words “from time to time” and “by construction, installation, reengineering, relocation, or otherwise” are omitted as surplus. The text of 49 App.:1159(a)(2) is omitted as surplus because of 49:322(a). In clause (2), the words “under such conditions as he may deem proper” and “space or” are omitted as surplus. The words “for not more than 20 years” are substituted for “and for such periods as may be desirable (not to exceed twenty years)” to eliminate unnecessary words. The words “for purposes essential or appropriate to their consolidation, operation, protection, and administration under this chapter” are omitted as surplus. In clause (3), the words “the sale of fuel, oil, equipment, food and supplies, hotel accommodations, and other” and “necessary or desirable for the operation and administration of such properties” are omitted as surplus. In clause (4), the word “reasonable” is substituted for “just and reasonable” for consistency in the revised title and with other titles of the United States Code. The words “(including but not limited to landing fees and fees for the use of communication services)” are omitted as surplus. In clause (5), the words “by purchase or otherwise, real or personal” and “which he may consider necessary for the purposes of this section” are omitted as surplus.
 
-In subsection (b), the words “including handling charges” are omitted as surplus. The words “facilities and services sold or provided” are substituted for “ofthe fuel, oil, equipment, food, supplies, services, shelter, or other assistance or services sold or furnished” for consistency and to eliminate unnecessary words. The words “under subsection (a)(3) and (4) of this section” are added for clarity. The words “if any” are omitted as surplus. The words “deposited in the Treasury as” are substituted for “credited to” for clarity and consistency in the revised title and with other titles of the Code.
+In subsection (b), the words “including handling charges” are omitted as surplus. The words “facilities and services sold or provided” are substituted for “of the fuel, oil, equipment, food, supplies, services, shelter, or other assistance or services sold or furnished” for consistency and to eliminate unnecessary words. The words “under subsection (a)(3) and (4) of this section” are added for clarity. The words “if any” are omitted as surplus. The words “deposited in the Treasury as” are substituted for “credited to” for clarity and consistency in the revised title and with other titles of the Code.
 
 In subsection (c), the words “use personnel and facilities of the United States Government most advantageously and without unnecessary duplication” are substituted for “to the end that personnel and facilities of existing United States Government agencies shall be utilized to the fullest possible advantage and not be unnecessarily duplicated” to eliminate unnecessary words. The word “request” is substituted for “arrange for” for clarity. The words “department, agency, or instrumentality of the Government” are substituted for “other United States Government agencies” for consistency in the revised title and with other titles of the Code. The words “on a reimbursable basis” are substituted for “and to reimburse any such agency for such service out of funds appropriated to the Department of Transportation or the Department of Commerce, as the case may be” to eliminate unnecessary words.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (d). Pub. L. 111–350 substituted “Section 6101(b) to (d) of title 41” for “Section 3709 of the Revised Statutes (41 U.S.C. 5)”.
 
 #### Annette Island Airport, Alaska; Renewal of Lease
 

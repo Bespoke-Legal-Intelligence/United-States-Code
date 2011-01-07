@@ -46,5 +46,5 @@ In subsection (c), the words “Investments in obligations of depositaries maint
 
 #### Amendments
 
-2008—Pub. L. 110–351 amended section generally. Prior to amendment, section related to investment of operating cash.
+<b>2008</b>—Pub. L. 110–351 amended section generally. Prior to amendment, section related to investment of operating cash.
 

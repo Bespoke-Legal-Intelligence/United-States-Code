@@ -1,6 +1,6 @@
 ### §1040. Transportation of dependent patients
 
-(a) Except as provided in subsection (b), if a dependent accompanying a member of the uniformed services who is stationed outside the United States or in Alaska or Hawaii and who is on active duty for a period of more than 30 days requires medical attention which is not available in the locality, transportation of the dependents at the expense of the United States is authorized to the nearest appropriate medical facility in which adequate medical care is available. On his recovery or when it is administratively determined that the patient should be removed from the medical facility involved, the dependent may be transported at the expense of the United States to the duty station of themember or to such other place determined to be appropriate under the circumstances. If a dependent is unable to travel unattended, round-trip transportation and travel expenses may be furnished necessary attendants. In addition to transportation of a dependent at the expense of the United States authorized under this subsection, reasonable travel expenses incurred in connection with the transportation of the dependent may be paid at the expense of the United States. Travel expenses authorized by this section may include reimbursement for necessary local travel in the vicinity of the medical facility involved. The transportation and travel expenses authorized by this section may be paid in advance.
+(a) Except as provided in subsection (b), if a dependent accompanying a member of the uniformed services who is stationed outside the United States or in Alaska or Hawaii and who is on active duty for a period of more than 30 days requires medical attention which is not available in the locality, transportation of the dependents at the expense of the United States is authorized to the nearest appropriate medical facility in which adequate medical care is available. On his recovery or when it is administratively determined that the patient should be removed from the medical facility involved, the dependent may be transported at the expense of the United States to the duty station of the member or to such other place determined to be appropriate under the circumstances. If a dependent is unable to travel unattended, round-trip transportation and travel expenses may be furnished necessary attendants. In addition to transportation of a dependent at the expense of the United States authorized under this subsection, reasonable travel expenses incurred in connection with the transportation of the dependent may be paid at the expense of the United States. Travel expenses authorized by this section may include reimbursement for necessary local travel in the vicinity of the medical facility involved. The transportation and travel expenses authorized by this section may be paid in advance.
 
 (b) This section does not authorize transportation and travel expenses for a dependent for elective surgery which is determined to be not medically indicated by a medical authority designated under joint regulations to be prescribed under this section.
 
@@ -18,17 +18,17 @@ Another section 1040, related to free postage from combat zones, was added by Pu
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–661 substituted “In addition to transportation of a dependent at the expense of the United States authorized under this subsection, reasonable travel expenses incurred in connection with the transportation of the dependent may be paid at the expense of the United States. Travel expenses authorized by this section may include reimbursement for necessary local travel in the vicinity of the medical facility involved. The transportation and travel expenses authorized by this section may be paid in advance” for “, and such expenses may be paid in advance”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–661 substituted “In addition to transportation of a dependent at the expense of the United States authorized under this subsection, reasonable travel expenses incurred in connection with the transportation of the dependent may be paid at the expense of the United States. Travel expenses authorized by this section may include reimbursement for necessary local travel in the vicinity of the medical facility involved. The transportation and travel expenses authorized by this section may be paid in advance” for “, and such expenses may be paid in advance”.
 
 Subsec. (c). Pub. L. 99–348 substituted “In this section, the term ‘dependent’ has the meaning given that term in” for “ ‘Dependent’ and ‘uniformed services’ in this section have the meanings of those terms as defined in”.
 
-1984—Subsec. (a). Pub. L. 98–525, §1405(21), substituted “30” for “thirty”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–525, §1405(21), substituted “30” for “thirty”.
 
 Pub. L. 98–525, §611, made provisions of section applicable to a dependent accompanying a member of the uniformed services stationed in Alaska or Hawaii.
 
-1983—Subsec. (a). Pub. L. 98–94 inserted “, and such expenses may be paid in advance” after “attendants”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–94 inserted “, and such expenses may be paid in advance” after “attendants”.
 
-1980—Subsec. (d). Pub. L. 96–513 substituted “Secretary of Transportation” and “Secretary of Health and Human Services” for “Secretary of the Treasury” and “Secretary of Health, Education, and Welfare”, respectively.
+<b>1980</b>—Subsec. (d). Pub. L. 96–513 substituted “Secretary of Transportation” and “Secretary of Health and Human Services” for “Secretary of the Treasury” and “Secretary of Health, Education, and Welfare”, respectively.
 
 #### Effective Date of 1986 Amendment
 

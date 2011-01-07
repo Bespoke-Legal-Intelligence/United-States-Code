@@ -64,7 +64,7 @@ The Project shall have exclusive authority with respect to the establishment or 
 
 #### Amendments
 
-1978—Subsec. (b)(1). Pub. L. 95–238, §502(1)–(3), in subpar. (E) substituted “Assistant Administrator of the Energy Research and Development Administration for Solar, Geothermal, and Advanced Energy Systems;” for “General Manager of the Atomic Energy Commission; and”, and added subpars. (G) to (I).
+<b>1978</b>—Subsec. (b)(1). Pub. L. 95–238, §502(1)–(3), in subpar. (E) substituted “Assistant Administrator of the Energy Research and Development Administration forSolar, Geothermal, and Advanced Energy Systems;” for “General Manager of the Atomic Energy Commission; and”, and added subpars. (G) to (I).
 
 Subsec. (b)(2). Pub. L. 95–238, §502(4), substituted “the Assistant Administrator of the Energy Research and Development Administration for Solar, Geothermal, and Advanced Energy Systems” for “one member of the Project”.
 

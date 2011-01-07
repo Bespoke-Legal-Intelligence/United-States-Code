@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Any assets transferred to a health benefits account in a qualified transfer (and any income allocable thereto) shall be used only to pay qualified current retiree health liabilities (other than liabilities of key employees not taken into account under subsection (e)(1)(D)) for the taxable year of the transfer (whether directly or through reimbursement). In the case of a qualified futuretransfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred may also be used to pay liabilities described in subsection (f)(2)(C).
+&emsp;&emsp;Any assets transferred to a health benefits account in a qualified transfer (and any income allocable thereto) shall be used only to pay qualified current retiree health liabilities (other than liabilities of key employees not taken into account under subsection (e)(1)(D)) for the taxable year of the transfer (whether directly or through reimbursement). In the case of a qualified future transfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred may also be used to pay liabilities described in subsection (f)(2)(C).
 
 #### (B) Amounts not used to pay for health benefits
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary to prevent an employer who significantly reduces retiree health coverage during the cost maintenance period from being treated as satisfying the minimum cost requirement of this subsection.
+&emsp;&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary to prevent anemployer who significantly reduces retiree health coverage during the cost maintenance period from being treated as satisfying the minimum cost requirement of this subsection.
 
 #### (ii) Insignificant cost reductions permitted
 
@@ -312,7 +312,7 @@ For purposes of this section—
 
 #### (iii) Collectively bargained employer cost
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “collectively bargained employer cost” means the average cost per covered individual of providing collectively bargained retiree health benefits as determined in accordance with the applicablecollective bargaining agreement. Such agreement may provide for an appropriate reduction in the collectively bargained employer cost to take into account any portion of the collectively bargained retiree health benefits that is provided or financed by a government program or other source.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “collectively bargained employer cost” means the average cost per covered individual of providing collectively bargained retiree health benefits as determined in accordance with the applicable collective bargaining agreement. Such agreement may provide for an appropriate reduction in the collectively bargained employer cost to take into account any portion of the collectively bargained retiree health benefits that is provided or financed by a government program or other source.
 
 #### (E) Special rules for collectively bargained transfers
 
@@ -398,17 +398,17 @@ Subsection (c)(3) as in effect before the amendments made by section 535 of the 
 
 #### Amendments
 
-2008—Subsec. (c)(1)(A). Pub. L. 110–458, §108(i)(1), inserted last sentence “In the case of a qualified future transfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred may also be used to pay liabilities described in subsection (f)(2)(C).”
+<b>2008</b>—Subsec. (c)(1)(A). Pub. L. 110–458, §108(i)(1), inserted last sentence “In the case of a qualified future transfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred may also be used to pay liabilities described in subsection (f)(2)(C).”
 
 Subsec. (f)(2)(D)(i)(I). Pub. L. 110–458, §108(i)(2), struck out “such” after “average amount of”.
 
-2007—Subsec. (c)(3)(A). Pub. L. 110–28, §6613(a), substituted “transfer or, in the case of a transfer which involves a plan maintained by an employer described in subsection (f)(2)(E)(i)(III), if the plan meets the requirements of subsection (f)(2)(D)(i)(II).” for “transfer.”
+<b>2007</b>—Subsec. (c)(3)(A). Pub. L. 110–28, §6613(a), substituted “transfer or, in the case of a transfer which involves a plan maintained by an employer described in subsection (f)(2)(E)(i)(III), if the plan meets the requirements of subsection (f)(2)(D)(i)(II).” for “transfer.”
 
 Subsec. (e)(2)(B). Pub. L. 110–28, §6612(b), substituted “funding target” for “funding shortfall”.
 
 Subsec. (f)(2)(E)(i)(III). Pub. L. 110–28, §6612(a), substituted “subsection (c)(3)(E)(ii)(II)” for “subsection (c)(2)(E)(ii)(II)”.
 
-2006—Subsec. (a). Pub. L. 109–280, §842(a)(1), struck out “(other than a multiemployer plan)” after “defined benefit plan” in introductory provisions.
+<b>2006</b>—Subsec. (a). Pub. L. 109–280, §842(a)(1), struck out “(other than a multiemployer plan)” after “defined benefit plan” in introductory provisions.
 
 Subsec. (e)(2). Pub. L. 109–280, §114(d)(1), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘excess pension assets’ means the excess (if any) of—
 
@@ -432,11 +432,11 @@ Subsec. (e)(5). Pub. L. 109–280, §842(a)(2), added par. (5).
 
 Subsec. (f). Pub. L. 109–280, §841(a), added subsec. (f).
 
-2004—Subsec. (b)(5). Pub. L. 108–218 substituted “2013” for “2005”.
+<b>2004</b>—Subsec. (b)(5). Pub. L. 108–218 substituted “2013” for “2005”.
 
 Subsec. (c)(3)(E). Pub. L. 108–357 designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
-1999—Subsec. (b)(1)(C)(iii). Pub. L. 106–170, §535(b)(2)(A), substituted “cost” for “benefits”.
+<b>1999</b>—Subsec. (b)(1)(C)(iii). Pub. L. 106–170, §535(b)(2)(A), substituted “cost” for “benefits”.
 
 Subsec. (b)(5). Pub. L. 106–170, §535(a)(1), substituted “made after December 31, 2005” for “in any taxable year beginning after December 31, 2000”.
 
@@ -444,11 +444,11 @@ Subsec. (c)(3). Pub. L. 106–170, §535(b)(1), amended heading and text of par.
 
 Subsec. (e)(1)(D). Pub. L. 106–170, §535(b)(2)(B), substituted “or in calculating applicable employer cost under subsection (c)(3)(B)” for “and shall not be subject to the minimum benefit requirements of subsection (c)(3)”.
 
-1996—Pub. L. 104–188, §1704(a), provided that, except as otherwise expressly provided, whenever in title XII of Pub. L. 101–508 an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986. Section 12011(a) of title XII of Pub. L. 101–508 directed the amendment of part I of subchapter D of chapter 1 by adding this subpart, including this section, without specifying that amendment was to the Internal Revenue Code of 1986.
+<b>1996</b>—Pub. L. 104–188, §1704(a), provided that, except as otherwise expressly provided, whenever in title XII of Pub. L. 101–508 an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986. Section 12011(a) of title XII of Pub. L. 101–508 directed the amendment of part I of subchapter D of chapter 1 by adding this subpart, including this section, without specifying that amendment was to the Internal Revenue Code of 1986.
 
 Subsec. (e)(1)(C). Pub. L. 104–188, §1704(t)(32), substituted “means” for “mean”.
 
-1994—Subsec. (b)(1)(C)(iii). Pub. L. 103–465, §731(c)(1), substituted “benefits” for “cost”.
+<b>1994</b>—Subsec. (b)(1)(C)(iii). Pub. L. 103–465, §731(c)(1), substituted “benefits” for “cost”.
 
 Subsec. (b)(5). Pub. L. 103–465, §731(a), substituted “2000” for “1995”.
 
@@ -518,5 +518,7 @@ Waiver of estimated tax penalties.—No addition to tax shall be made under sect
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “416(i)(1))”.</i>
 

@@ -60,7 +60,7 @@ In the case of an electing group, subsections (c)(1) and (d)(3) shall be applied
 
 #### Amendments
 
-2005—Subsec. (c)(2). Pub. L. 109–135, §403(g)(3)(B), inserted concluding provisions.
+<b>2005</b>—Subsec. (c)(2). Pub. L. 109–135, §403(g)(3)(B), inserted concluding provisions.
 
 Subsec. (c)(3). Pub. L. 109–135, §403(g)(3)(A), struck out heading and text of par. (3). Text read as follows:
 
@@ -74,5 +74,5 @@ Nonelecting corporations.—In the case of a corporation (other than an electing
 
 #### Effective Date of 2005 Amendment
 
-Amendments by Pub. L. 109–135 effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+Amendments by Pub. L. 109–135 effective as if included in the provisions of the American Jobs CreationAct of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 

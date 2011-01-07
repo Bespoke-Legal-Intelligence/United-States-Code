@@ -18,15 +18,15 @@ Another prior section 5131, act Aug. 16, 1954, ch. 736, 68A Stat. 622, related t
 
 #### Amendments
 
-2005—Pub. L. 109–59, §11125(b)(11), renumbered section 5116 of this title as this section and transferred section to this subpart so as to appear after subpart analysis.
+<b>2005</b>—Pub. L. 109–59, §11125(b)(11), renumbered section 5116 of this title as this section and transferred section to this subpart so as to appear after subpart analysis.
 
 Subsec. (a). Pub. L. 109–59, §11125(b)(11), inserted “(as defined in section 5121(c))” after “dealer”.
 
-1984—Subsec. (b). Pub. L. 98–369 substituted “reference” for “references” in heading, struck out former par. (1) which provided a cross reference to section 5205(a)(1) of this title regarding stamps for immediate containers, and struck out designation “(2)” preceding provisions relating to containers of distilled spirits.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369 substituted “reference” for “references” in heading, struck out former par. (1) which provided a cross reference to section 5205(a)(1) of this title regarding stamps for immediate containers, and struck out designation “(2)” preceding provisions relating to containers of distilled spirits.
 
-1979—Subsec. (b)(1). Pub. L. 96–39 substituted “section 5205(a)(1)” for “section 5205(a)(2)”.
+<b>1979</b>—Subsec. (b)(1). Pub. L. 96–39 substituted “section 5205(a)(1)” for “section 5205(a)(2)”.
 
-1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 2005 Amendment
 

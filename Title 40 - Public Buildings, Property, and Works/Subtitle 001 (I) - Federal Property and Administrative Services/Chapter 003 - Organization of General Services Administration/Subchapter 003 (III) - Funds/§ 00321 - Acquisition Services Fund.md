@@ -200,7 +200,7 @@ In subsection (f)(2), the words “on and after June 5, 1981” are omitted as o
 
 #### Amendments
 
-2006—Pub. L. 109–313, §3(h)(2), substituted “Acquisition Services Fund” for “General Supply Fund” in section catchline.
+<b>2006</b>—Pub. L. 109–313, §3(h)(2), substituted “Acquisition Services Fund” for “General Supply Fund” in section catchline.
 
 Subsecs. (a), (b). Pub. L. 109–313, §3(d), amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) related to the existence and composition, respectively, of the General Supply Fund.
 

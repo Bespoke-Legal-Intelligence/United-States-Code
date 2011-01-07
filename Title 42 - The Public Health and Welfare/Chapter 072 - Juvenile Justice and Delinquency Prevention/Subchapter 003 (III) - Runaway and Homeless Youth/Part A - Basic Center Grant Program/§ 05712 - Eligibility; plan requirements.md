@@ -32,7 +32,7 @@ In order to qualify for assistance under section 5711(a) of this title, an appli
 
 &emsp;(7) shall keep adequate statistical records profiling the youth and family members whom it serves (including youth who are not referred to out-of-home shelter services), except that records maintained on individual runaway and homeless youth shall not be disclosed without the consent of the individual youth and parent or legal guardian to anyone other than another agency compiling statistical records or a government agency involved in the disposition of criminal charges against an individual runaway and homeless youth, and reports or other documents based on such statistical records shall not disclose the identity of individual runaway and homeless youth;
 
-&emsp;(8) shall submit annual reports to the Secretary detailing how the center has been able to meet the goals of its plans and reporting the statistical summaries required by paragraph (7);
+&emsp;(8) shall submit annual reports to the Secretary detailing how the center has been ableto meet the goals of its plans and reporting the statistical summaries required by paragraph (7);
 
 &emsp;(9) shall demonstrate its ability to operate under accounting procedures and fiscal control devices as required by the Secretary;
 
@@ -72,7 +72,7 @@ To be eligible to use assistance under section 5711(a) of this title to provide 
 
 &emsp;(1) provide counseling and information to youth and the families (including unrelated individuals in the family households) of such youth, including services relating to basic life skills, interpersonal skill building, educational advancement, job attainment skills, mental and physical health care, parenting skills, financial planning, and referral to sources of other needed services;
 
-&emsp;(2) provide directly, or through an arrangement made by the applicant, 24-hour service to respond to family crises (including immediateaccess to temporary shelter for runaway and homeless youth, and youth at risk of separation from the family);
+&emsp;(2) provide directly, or through an arrangement made by the applicant, 24-hour service to respond to family crises (including immediate access to temporary shelter for runaway and homeless youth, and youth at risk of separation from the family);
 
 &emsp;(3) establish, in partnership with the families of runaway and homeless youth, and youth at risk of separation from the family, objectives and measures of success to be achieved as a result of receiving home-based services;
 
@@ -106,21 +106,21 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(4)(B), is
 
 #### Amendments
 
-2008—Subsec. (b)(13). Pub. L. 110–378 added par. (13).
+<b>2008</b>—Subsec. (b)(13). Pub. L. 110–378 added par. (13).
 
-2003—Subsec. (a). Pub. L. 108–96, §105, substituted “services to youth” for “services to juveniles” and “homeless youth” for “homeless juveniles”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–96, §105, substituted “services to youth” for “services to juveniles” and “homeless youth” for “homeless juveniles”.
 
 Subsec. (b)(2)(A). Pub. L. 108–96, §106, inserted “, except where the applicant assures that the State where the center or locally controlled facility is located has a State or local law or regulation that requires a higher maximum to comply with licensure requirements for child and youth serving facilities” after “youth”.
 
-Subsec. (b)(4)(B). Pub. L. 108–96, §109, substituted “McKinney-Vento school district liaisons, designated under section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(g)(1)(J)(ii)), to assure that runaway and homeless youth are provided information about the educational services available to such youth under subtitle B of title VII of that Act;” for “personnel of the schools to which runaway and homeless youth will return, to assist such youth to stay current with the curricula of those schools;”.
+Subsec. (b)(4)(B). Pub. L. 108–96, §109, substituted “McKinney-Vento school district liaisons, designated under section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(g)(1)(J)(ii)), to assure that runaway and homeless youth are provided information about the educational services available to such youth under subtitle B of title VII of that Act;” for “personnel of the schools to which runaway andhomeless youth will return, to assist such youth to stay current with the curricula of those schools;”.
 
-1999—Subsec. (b)(8). Pub. L. 106–71, §3(c)(1)(A), substituted “paragraph (7)” for “paragraph (6)”.
+<b>1999</b>—Subsec. (b)(8). Pub. L. 106–71, §3(c)(1)(A), substituted “paragraph (7)” for “paragraph (6)”.
 
 Subsec. (b)(12). Pub. L. 106–71, §3(c)(1)(B)–(D), added par. (12).
 
 Subsecs. (c) to (e). Pub. L. 106–71, §3(c)(2), added heading and text of subsecs. (c) to (e) and struck out former subsecs. (c) and (d) which related to street-based service projects and home-based service projects, respectively, but which specified more detailed lists of services applicants were to provide in order to qualify for assistance.
 
-1992—Subsec. (a). Pub. L. 102–586, §3(c)(1), substituted “project (including a host family home) that provides” for “facility providing”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–586, §3(c)(1), substituted “project (including a host family home) that provides” for “facility providing”.
 
 Subsec. (b)(2). Pub. L. 102–586, §3(c)(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “shall have a maximum capacity of no more than twenty children, with a ratio of staff to children of sufficient proportion to assure adequate supervision and treatment;”.
 
@@ -138,7 +138,7 @@ Subsec. (b)(8) to (11). Pub. L. 102–586, §3(c)(2)(F), redesignated pars. (7) 
 
 Subsecs. (c), (d). Pub. L. 102–586, §3(c)(2)(H), added subsecs. (c) and (d).
 
-1988—Subsec. (a). Pub. L. 100–690, §7271(c)(1), (2), substituted “section 5711(a) of this title” for “this part” and “runaway and homeless youth center” for “runaway center”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–690, §7271(c)(1), (2), substituted “section 5711(a) of this title” for “this part” and “runaway and homeless youth center” for “runaway center”.
 
 Subsec. (b). Pub. L. 100–690, §7271(c)(1), (3)(A), substituted “section 5711(a) of this title” for “this part” and “including assurances that the applicant” for “meeting the following requirements and including the following information. Each center” in introductory provisions.
 
@@ -148,11 +148,11 @@ Subsec. (b)(3). Pub. L. 100–690, §7271(c)(3)(C), substituted “runaway and h
 
 Subsec. (b)(4). Pub. L. 100–690, §7271(c)(3)(D), substituted “runaway and homeless youth” for “runaway youths”.
 
-Subsec. (b)(5). Pub. L. 100–690, §7271(c)(3)(C), (E), substituted “runaway and homeless youth” for “runawayyouth” and substituted “runaway and homeless youth center” for “runaway center” in two places.
+Subsec. (b)(5). Pub. L. 100–690, §7271(c)(3)(C), (E), substituted “runaway and homeless youth” for “runaway youth” and substituted “runaway and homeless youth center” for “runaway center” in two places.
 
 Subsec. (b)(6). Pub. L. 100–690, §7271(c)(3)(D), (E), substituted “individual runaway and homeless youth” for “individual runaway youths” in two places and “against an individual runaway and homeless youth” for “against an individual runaway youth”.
 
-1984—Subsec. (b)(2). Pub. L. 98–473, §652(1), substituted “proportion” for “portion”.
+<b>1984</b>—Subsec. (b)(2). Pub. L. 98–473, §652(1), substituted “proportion” for “portion”.
 
 Subsec. (b)(3). Pub. L. 98–473, §652(2), struck out “(if such action is required by State law)” before “and assuring”.
 
@@ -162,11 +162,11 @@ Subsec. (b)(5). Pub. L. 98–473, §652(4), substituted “families” for “pa
 
 Subsec. (b)(6). Pub. L. 98–473, §652(5), substituted “family members” for “parents”.
 
-1980—Subsec. (a). Pub. L. 96–509, §18(d)(1), substituted “center” for “house” and inserted “or to other homeless juveniles” after “parents or guardians”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–509, §18(d)(1), substituted “center” for “house” and inserted “or to other homeless juveniles” after “parents or guardians”.
 
 Subsec. (b). Pub. L. 96–509, §18(d)(2), substituted “center” for “house” wherever appearing, and in par. (4) inserted reference to social service personnel and welfare personnel.
 
-1977—Subsec. (b)(5), (6). Pub. L. 95–115 substituted “aftercare services” for “aftercase services” in par. (5), and “the consent of the individual youth and parent or legal guardian” for “parental consent” in par. (6).
+<b>1977</b>—Subsec. (b)(5), (6). Pub. L. 95–115 substituted “aftercare services” for “aftercase services” in par. (5), and “the consent of the individual youth and parent or legal guardian” for “parental consent” in par. (6).
 
 #### Effective Date of 1988 Amendment
 

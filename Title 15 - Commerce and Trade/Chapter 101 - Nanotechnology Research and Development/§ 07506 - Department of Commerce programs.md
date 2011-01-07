@@ -16,7 +16,7 @@ The Secretary of Commerce or his designee, in consultation with the National Nan
 
 #### Change of Name
 
-The Manufacturing Extension Partnership Program, referred to in subsec. (a), redesignated the Hollings Manufacturing Partnership Program by title II of div. B of Pub. L. 108–447, set out as a note under section 278k of this title.
+The Manufacturing Extension Partnership Program, referred to in subsec. (a), redesignated the Hollings Manufacturing Partnership Program by a provision of title II of div. B of Pub. L. 108–447, formerly set out as a note under section 278k of this title.
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

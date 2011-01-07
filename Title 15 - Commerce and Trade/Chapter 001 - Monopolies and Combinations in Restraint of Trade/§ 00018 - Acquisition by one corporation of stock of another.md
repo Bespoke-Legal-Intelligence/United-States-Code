@@ -20,15 +20,15 @@ Section 79j of this title, referred to in text, was repealed by Pub. L. 109–58
 
 #### Amendments
 
-1996—Pub. L. 104–104, in sixth par., struck out “Federal Communications Commission,” after “Secretary of Transportation,”.
+<b>1996</b>—Pub. L. 104–104, in sixth par., struck out “Federal Communications Commission,” after “Secretary of Transportation,”.
 
-1995—Pub. L. 104–88, in sixth par., substituted “Surface Transportation Board” for “Interstate Commerce Commission” and inserted “, Board,” after “vesting such power in such Commission”.
+<b>1995</b>—Pub. L. 104–88, in sixth par., substituted “Surface Transportation Board” for “Interstate Commerce Commission” and inserted “, Board,” after “vesting such power in such Commission”.
 
-1984—Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board” and “Commission or Secretary” for “Commission, Secretary, or Board” in sixth par.
+<b>1984</b>—Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board” and “Commission or Secretary” for “Commission, Secretary, or Board” in sixth par.
 
-1980—Pub. L. 96–349, substituted “person” for “corporation” wherever appearing in first and second pars.; substituted “persons” for “corporations” in second par. and first sentence of third par.; and inserted “or in any activity affecting commerce” after “commerce” wherever appearing in first, second, and third pars.
+<b>1980</b>—Pub. L. 96–349, substituted “person” for “corporation” wherever appearing in first and second pars.; substituted “persons” for “corporations” in second par. and first sentence of third par.; and inserted “or in any activity affecting commerce” after “commerce” wherever appearing in first, second, and third pars.
 
-1950—Act Dec. 29, 1950, amended section generally so as to prohibit the acquisition of the whole or any part of the assets of another corporation when the effect of the acquisition may substantially lessen competition or tend to create a monopoly.
+<b>1950</b>—Act Dec. 29, 1950, amended section generally so as to prohibit the acquisition of the whole or any part of the assets of another corporation when the effect of the acquisition may substantially lessen competition or tend to create a monopoly.
 
 #### Effective Date of 1995 Amendment
 
@@ -48,7 +48,7 @@ Federal Power Commission terminated and functions, personnel, property, funds, e
 
 Executive and administrative functions of Maritime Commission transferred to Chairman of Maritime Commission by Reorg. Plan No. 6 of 1949, eff. Aug. 19, 1949, 14 F.R. 5228, 63 Stat. 1069, which was repealed by Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710, and was formerly set out in the Appendix to Title 5, Government Organization and Employees.
 
-United States Maritime Commission abolished by Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, which was superseded in part by Reorg. Plan No. 7 of 1961, §305, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840, repealed in part by Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710, and remains only partiallyset out in the Appendix to Title 5. Reorg. Plan No. 21 of 1950 transferred part of Commission's functions and part of functions of its Chairman, to Federal Maritime Board and Chairman thereof, such Board having been created by that Plan as an agency within Department of Commerce with an independent status in some respects, and transferred remainder of such Commission's functions and functions of its Chairman to Secretary of Commerce, with power vested in Secretary to authorize their performance by Maritime Administrator (the head of Maritime Administration, which likewise established by the Plan in Department of Commerce) with provision that Chairman of Federal Maritime Board should, ex officio, be such Administrator.
+United States Maritime Commission abolished by Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, which was superseded in part by Reorg. Plan No. 7 of 1961, §305, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840, repealed in part by Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710, and remains only partially set out in the Appendix to Title 5. Reorg. Plan No. 21 of 1950 transferred part of Commission's functions and part of functions of its Chairman, to Federal Maritime Board and Chairman thereof, such Board having been created by that Plan as an agency within Department of Commerce with an independent status in some respects, and transferred remainder of such Commission's functions and functions of its Chairman to Secretary of Commerce, with power vested in Secretary to authorize their performance by Maritime Administrator (the head of Maritime Administration, which likewise established by the Plan in Department of Commerce) with provision that Chairman of Federal Maritime Board should, ex officio, be such Administrator.
 
 Section 304 of Reorg. Plan No. 7 of 1961, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840, set out in the Appendix to Title 5, abolished Federal Maritime Board, including offices of members of Board. Functions of Board transferred either to Federal Maritime Commission, by section 103 of Reorg. Plan No. 7 of 1961, which was repealed by Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710 and formerly set out in the Appendix to Title 5, or to Secretary of Commerce, by section 202 of Reorg. Plan No. 7 of 1961, set out in the Appendix to Title 5.
 

@@ -22,11 +22,11 @@ The word “regulations” is added for consistency. The word “persons” is o
 
 #### Amendments
 
-2002—Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1990—Pub. L. 101–510 inserted “, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy,” after “Secretary of Defense”.
+<b>1990</b>—Pub. L. 101–510 inserted “, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy,” after “Secretary of Defense”.
 
-1983—Pub. L. 98–94 struck out “(a)” before “The Secretary of Defense”.
+<b>1983</b>—Pub. L. 98–94 struck out “(a)” before “The Secretary of Defense”.
 
 #### Effective Date of 2002 Amendment
 

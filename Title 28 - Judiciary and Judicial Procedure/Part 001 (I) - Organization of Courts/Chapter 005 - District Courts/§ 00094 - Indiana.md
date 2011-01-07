@@ -22,7 +22,7 @@ Indiana is divided into two judicial districts to be known as the Northern and S
 
 (b) The Southern District comprises four divisions.
 
-&emsp;&emsp;(1) The Indianapolis Division comprises the counties of Bartholomew, Boone, Brown, Clinton, Decatur, Delaware, Fayette, Fountain, Franklin, Hamilton, Hancock, Hendricks, Henry, Howard, Johnson, Madison, Marion, Monroe, Montgomery, Morgan, Randolph, Rush, Shelby, Tipton, Union, and Wayne.
+&emsp;&emsp;(1) The Indianapolis Division comprises the counties of Bartholomew, Boone, Brown, Clinton, Decatur, Delaware, Fayette, Fountain, Franklin, Hamilton, Hancock, Hendricks, Henry, Howard, Johnson, Madison, Marion, Monroe, Montgomery,Morgan, Randolph, Rush, Shelby, Tipton, Union, and Wayne.
 
 &emsp;&emsp;Court for the Indianapolis Division shall be held at Indianapolis and Richmond.
 
@@ -34,7 +34,7 @@ Indiana is divided into two judicial districts to be known as the Northern and S
 
 &emsp;&emsp;Court for the Evansville Division shall be held at Evansville.
 
-&emsp;&emsp;(4) The New Albany Division comprises the counties of Clark, Crawford, Dearborn,Floyd, Harrison, Jackson, Jefferson, Jennings, Lawrence, Ohio, Orange, Ripley, Scott, Switzerland, and Washington.
+&emsp;&emsp;(4) The New Albany Division comprises the counties of Clark, Crawford, Dearborn, Floyd, Harrison, Jackson, Jefferson, Jennings, Lawrence, Ohio, Orange, Ripley, Scott, Switzerland, and Washington.
 
 &emsp;&emsp;Court for the New Albany Division shall be held at New Albany.
 
@@ -62,7 +62,7 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1970—Subsec. (b)(1). Pub. L. 91–272 provided for holding court at Richmond.
+<b>1970</b>—Subsec. (b)(1). Pub. L. 91–272 provided for holding court at Richmond.
 
-1954—Subsec. (a)(3). Act Feb. 10, 1954, provided for holding court at Lafayette.
+<b>1954</b>—Subsec. (a)(3). Act Feb. 10, 1954, provided for holding court at Lafayette.
 

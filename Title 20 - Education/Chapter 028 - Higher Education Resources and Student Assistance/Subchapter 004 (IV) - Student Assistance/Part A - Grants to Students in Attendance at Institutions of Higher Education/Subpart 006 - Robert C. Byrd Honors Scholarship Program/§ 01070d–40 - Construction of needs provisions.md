@@ -1,12 +1,8 @@
 ### §1070d–40. Construction of needs provisions
 
-Except as provided in section 1087kk of this title, nothing in this subpart, or any other Act, shall be construed to permit the receipt of a scholarship under this subpart to be counted for any needs test in connection with the awarding of any grant or the making of any loan under this chapter or any other provision of Federal law relating to educational assistance.
+Except as provided in section 1087kk of this title, nothing in this subpart, or any other Act, shall be construed to permit the receipt of a scholarship under this subpart to be counted for any needs test in connection with the awarding of any grant or the making of any loan under this chapter and part C of subchapter I of chapter 34 of title 42 or any other provision of Federal law relating to educational assistance.
 
 (Pub. L. 89–329, title IV, §419J, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1345; amended Pub. L. 102–325, title IV, §406(f), July 23, 1992, 106 Stat. 509.)
-
-#### References in Text
-
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 
@@ -14,5 +10,5 @@ A prior section 1070d–40, Pub. L. 89–329, title IV, §419J, as added Pub. L.
 
 #### Amendments
 
-1992—Pub. L. 102–325 substituted “Except as provided in section 1087kk of this title, nothing” for “Nothing”.
+<b>1992</b>—Pub. L. 102–325 substituted “Except as provided in section 1087kk of this title, nothing” for “Nothing”.
 

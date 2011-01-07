@@ -4,7 +4,7 @@
 
 Confinement.—(1) Except as provided in this section, a rail carrier, express carrier, or common carrier (except by air or water), a receiver, trustee, or lessee of one of those carriers, or an owner or master of a vessel transporting animals from a place in a State, the District of Columbia, or a territory or possession of the United States through or to a place in another State, the District of Columbia, or a territory or possession, may not confine animals in a vehicle or vessel for more than 28 consecutive hours without unloading the animals for feeding, water, and rest.
 
-(2) Sheep may be confined for an additional 8 consecutive hours without being unloaded when the 28-hour period of confinement ends at night. Animals may be confined for—
+(2) Sheep may be confined for an additional 8 consecutive hours without being unloaded whenthe 28-hour period of confinement ends at night. Animals may be confined for—
 
 &emsp;(A) more than 28 hours when the animals cannot be unloaded because of accidental or unavoidable causes that could not have been anticipated or avoided when being careful; and
 
@@ -18,7 +18,7 @@ Unloading, Feeding, Watering, and Rest.—Animals being transported shall be unl
 
 &emsp;(1) shall feed and water the animals at the reasonable expense of the owner or person having custody, except that the owner or shipper may provide food;
 
-&emsp;(2) has a lien on the animals for providing food, care, and custody that may be collectedat the destination in the same way that a transportation charge is collected; and
+&emsp;(2) has a lien on the animals for providing food, care, and custody that may be collected at the destination in the same way that a transportation charge is collected; and
 
 &emsp;(3) is not liable for detaining the animals for a reasonable period to comply with subsection (a) of this section.
 

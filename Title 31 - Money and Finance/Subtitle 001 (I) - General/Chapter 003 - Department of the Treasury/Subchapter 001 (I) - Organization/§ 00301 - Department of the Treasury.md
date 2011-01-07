@@ -158,21 +158,25 @@ The provisions of title 5 governing appointment in the competitive service, refe
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–343 substituted “10” for “9”.
+<b>2008</b>—Subsec. (e). Pub. L. 110–343 substituted “10” for “9”.
 
-2007—Subsec. (e). Pub. L. 110–49 substituted “9 Assistant” for “8 Assistant”.
+<b>2007</b>—Subsec. (e). Pub. L. 110–49 substituted “9 Assistant” for “8 Assistant”.
 
-2003—Subsec. (e). Pub. L. 108–177 substituted “8” for “7”.
+<b>2003</b>—Subsec. (e). Pub. L. 108–177 substituted “8” for “7”.
 
-1994—Subsec. (d). Pub. L. 103–211 inserted “an Under Secretary for Enforcement,” after “2 Under Secretaries,”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–211 inserted “an Under Secretary for Enforcement,” after “2 Under Secretaries,”.
 
-1985—Subsec. (d). Pub. L. 99–190 substituted “2 Under Secretaries” for “an Under Secretary, an Under Secretary for Monetary Affairs” and “The President may designate one Under Secretary as Counselor” for “When appointing the Under Secretary, the President may designate the Under Secretary as Counselor”.
+<b>1985</b>—Subsec. (d). Pub. L. 99–190 substituted “2 Under Secretaries” for “an Under Secretary, an Under Secretary for Monetary Affairs” and “The President may designate one Under Secretary as Counselor” for “When appointing the Under Secretary, the President may designate the Under Secretary as Counselor”.
 
-1984—Subsec. (e). Pub. L. 98–594 substituted “7” for “5”.
+<b>1984</b>—Subsec. (e). Pub. L. 98–594 substituted “7” for “5”.
 
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 110–49 applicable after the end of the 90-day period beginning on July 26, 2007, see section 12 of Pub. L. 110–49, set out as a note under section 5315 of Title 5, Government Organization and Employees.
+
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–203, title V, §501, July 21, 2010, 124 Stat. 1580, provided that: “This subtitle \[subtitle A (§§501, 502) of title V of Pub. L. 111–203, enacting sections 313 and 314 of this title, amending section 321 of this title, and renumbering former sections 312 and 313 of this title as sections 315 and 312, respectively\] may be cited as the ‘Federal Insurance Office Act of 2010’.”
 
 #### Order of Succession
 

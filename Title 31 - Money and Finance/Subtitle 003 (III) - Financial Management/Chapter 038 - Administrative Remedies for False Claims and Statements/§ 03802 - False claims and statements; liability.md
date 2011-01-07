@@ -16,7 +16,7 @@
 
 &emsp;(D) is for payment for the provision of property or services which the person has not provided as claimed,
 
-> shall be subject to, in addition to any other remedy that may be prescribed by law, a civil penalty of not more than $5,000 for each such claim. Except as provided in paragraph (3) of this subsection, such person shall also be subject to an assessment, in lieu of damages sustained by the United States because of such claim, of not more than twice the amount of such claim, or the portion of such claim, which is determined under this chapter to be in violation of the preceding sentence.
+> shall be subject to, in addition to any other remedy that may be prescribed by law, a civil penalty of not more than $5,000 for each such claim. Except as provided in paragraph (3) of this subsection, such person shall also be subject to an assessment, in lieu of damages sustained by theUnited States because of such claim, of not more than twice the amount of such claim, or the portion of such claim, which is determined under this chapter to be in violation of the preceding sentence.
 
 (2) Any person who makes, presents, or submits, or causes to be made, presented, or submitted, a written statement that—
 

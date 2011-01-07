@@ -22,5 +22,5 @@ Provisions similar to this section were contained in section 1118 of this title 
 
 #### Amendments
 
-1981—Pub. L. 97–35 substituted “Health and Human Services” for “Health, Education, and Welfare”.
+<b>1981</b>—Pub. L. 97–35 substituted “Health and Human Services” for “Health, Education, and Welfare”.
 

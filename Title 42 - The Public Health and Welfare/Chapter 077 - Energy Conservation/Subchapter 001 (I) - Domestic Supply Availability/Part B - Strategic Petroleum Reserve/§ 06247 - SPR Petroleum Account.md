@@ -18,7 +18,7 @@ Amounts in the Account may be obligated by the Secretary of Energy for the acqui
 
 #### (c) Provision and deposit of funds
 
-The Secretary of the Treasury shall provide and deposit into the Account such sums as maybe necessary to meet obligations of the Secretary of Energy under subsection (b) of this section.
+The Secretary of the Treasury shall provide and deposit into the Account such sums as may be necessary to meet obligations of the Secretary of Energy under subsection (b) of this section.
 
 #### (d) Off-budgeting procedures
 
@@ -36,7 +36,7 @@ Public Law 93–344, as amended, referred to in subsec. (d)(2), is Pub. L. 93–
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–469, §103(19)(A)(i), substituted “for test sales of petroleum products from the Reserve, and for the drawdown, sale,” for “and the drawdown” in introductory provisions.
+<b>2000</b>—Subsec. (b). Pub. L. 106–469, §103(19)(A)(i), substituted “for test sales of petroleum products from the Reserve, and for the drawdown, sale,” for “and the drawdown” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 106–469, §103(19)(A)(ii), struck out par. (1) which read as follows: “in the case of fiscal year 1982, in an aggregate amount, not to exceed $3,900,000,000, as may be provided in advance in appropriation Acts;”.
 
@@ -48,17 +48,17 @@ Subsec. (e). Pub. L. 106–469, §103(19)(B), struck out subsec. (e) which read 
 
 “(2) In any fiscal year, amounts in the Account may not be obligated for expenses relating to interim storage facilities in excess of 10 percent of the total amounts in the Account obligated in such fiscal year. If the amount obligated in any fiscal year for interim storage expenses is less than the amount of the 10-percent limit under the preceding sentence for that fiscal year, then the amount of the 10-percent limit applicable in the following fiscal year shall be increased by the amount by which the limit exceeded the amount obligated for such expenses.”
 
-1992—Subsec. (d). Pub. L. 102–486 substituted “under subsection (g)” for “subsection (g)”.
+<b>1992</b>—Subsec. (d). Pub. L. 102–486 substituted “under subsection (g)” for “subsection (g)”.
 
-1990—Subsec. (b)(3). Pub. L. 101–383, §5(b)(1), inserted before period at end “, or from the sale of petroleum products under section 6240(f) of this title”.
+<b>1990</b>—Subsec. (b)(3). Pub. L. 101–383, §5(b)(1), inserted before period at end “, or from the sale of petroleum products under section 6240(f) of this title”.
 
 Subsec. (d). Pub. L. 101–383, §5(b)(2), inserted “, and from the sale of petroleum products under section 6240(f) of this title” after “subsection (g) of such section”.
 
-1985—Subsec. (b)(3). Pub. L. 99–58, §103(b)(3), inserted “, including a drawdown and distribution carried out under subsection (g) of such section” after “section 6241 of this title”.
+<b>1985</b>—Subsec. (b)(3). Pub. L. 99–58, §103(b)(3), inserted “, including a drawdown and distribution carried out under subsection (g) of such section” after “section 6241 of this title”.
 
 Subsec. (d). Pub. L. 99–58, §103(b)(4), inserted “, including a drawdown and distribution carried out subsection (g) of such section” after “section 6241 of this title” in provisions preceding par. (1).
 
-1982—Subsec. (e). Pub. L. 97–229 added subsec. (e).
+<b>1982</b>—Subsec. (e). Pub. L. 97–229 added subsec. (e).
 
 #### Effective Date
 

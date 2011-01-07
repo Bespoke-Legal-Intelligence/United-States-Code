@@ -14,3 +14,7 @@ This Act, referred to in text, is Pub. L. 110–199, Apr. 9, 2008, 122 Stat. 657
 
 Section 113, referred to in par. (1), means section 113 of Pub. L. 110–199, which enacted sections 3797u–1, 3797u–2, and 17501 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 17501 of this title and Tables.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “a competitive grant”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+

@@ -62,9 +62,9 @@ A prior section 13 of Pub. L. 95–313 was renumbered section 16 and is classifi
 
 #### Amendments
 
-2008—Subsec. (d)(1). Pub. L. 110–246, §8004, substituted “the Federated States of Micronesia, the Republic of the Marshall Islands, the Republic of Palau,” for “the Trust Territory of the Pacific Islands,”.
+<b>2008</b>—Subsec. (d)(1). Pub. L. 110–246, §8004, substituted “the Federated States of Micronesia, the Republic of the Marshall Islands, the Republic of Palau,” for “the Trust Territory of the Pacific Islands,”.
 
-1990—Subsec. (g). Pub. L. 101–624, §1224(3), made technical amendment to reference to section 2111 of this title to reflect renumbering of corresponding section of original act.
+<b>1990</b>—Subsec. (g). Pub. L. 101–624, §1224(3), made technical amendment to reference to section 2111 of this title to reflect renumbering of corresponding section of original act.
 
 Subsec. (h). Pub. L. 101–513, which directed amendment of section 12 of Pub. L. 95–313 by adding a new subsec. (h), was executed to this section to reflect the probable intent of Congress.
 

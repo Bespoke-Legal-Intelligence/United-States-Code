@@ -2,7 +2,7 @@
 
 (a)(1) Except as provided in this chapter, the Secretary of the Treasury shall deposit in the Treasury as miscellaneous receipts amounts the Secretary receives from the operations of the United States Mint. Expenditures made from appropriated funds which are subsequently determined to be properly chargeable to the Numismatic Public Enterprise Fund established by section 5134 shall be reimbursed by such Fund to the appropriation. The Secretary shall annually sell to the public, directly and by mail, sets of uncirculated and proof coins minted under paragraphs (1) through (6) of section 5112(a) of this title, and shall solicit such sales through the use of the customer list of the United States Mint. Except with respect to amounts deposited in the Numismatic Public Enterprise Fund in accordance with section 5134, the Secretary may not use amounts the Secretary receives from profits on minting coins or from charges on gold or silver bullion under section 5122 to pay officers and employees.
 
-(2)(A) In addition to the coins described in paragraph (1), the Secretary shall sell annuallyto the public directly and by mail, sets of proof coins minted under paragraphs (1) through (6) of section 5112(a).
+(2)(A) In addition to the coins described in paragraph (1), the Secretary shall sell annually to the public directly and by mail, sets of proof coins minted under paragraphs (1) through (6) of section 5112(a).
 
 (B) Notwithstanding any other provision of law, for purposes of this paragraph—
 
@@ -16,7 +16,7 @@
 
 &emsp;(ii) legal tender, as provided in section 5103.
 
-(D) The Secretary shall obtain silver for coins minted under this paragraph by purchase from stockpiles established under the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98 et seq.). At such time as the silver stockpile is depleted, the Secretary shall obtain silver for such coins by purchase of silver mined from natural deposits in the United States or in a territory or possession of the United States not more than 1 year following the month in which the ore from which it is derived was mined. The Secretary shall pay not more than the average world price for such silver. The Secretary may issue such regulations as may be necessary to carry out this subparagraph.
+(D) The Secretary shall obtain silver for coins minted under this paragraph by purchase from stockpiles established under the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98 et seq.). At such time as the silver stockpile is depleted, the Secretary shall obtain silver for such coins by purchase of silver mined from natural deposits in the United States or in a territory or possession of the United States not more than 1 year following the month in which the ore from which it is derived was mined. The Secretary shall pay not more than the average world price for such silver. The Secretary mayissue such regulations as may be necessary to carry out this subparagraph.
 
 (3) Not more than $54,208,000 may be appropriated to the Secretary for the fiscal year ending on September 30, 1993, to pay costs of the mints. Not more than $965,000 of amounts appropriated pursuant to the preceding sentence shall remain available until expended for research and development.
 
@@ -94,13 +94,13 @@ This is necessary because the language was restated by section 382(h)(1) of the 
 
 #### References in Text
 
-The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a)(2)(D), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, §2, July30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
+The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a)(2)(D), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, §2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
 #### Amendments
 
-2000—Subsec. (a)(2)(B)(i). Pub. L. 106–445 substituted “paragraphs (2)” for “paragraphs (1)”.
+<b>2000</b>—Subsec. (a)(2)(B)(i). Pub. L. 106–445 substituted “paragraphs (2)” for “paragraphs (1)”.
 
-1992—Subsec. (a)(1). Pub. L. 102–390, §225(b)(3), substituted “United States Mint” for “Bureau of the Mint” in two places.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–390, §225(b)(3), substituted “United States Mint” for “Bureau of the Mint” in two places.
 
 Pub. L. 102–390, §221(c)(1)(A), amended second sentence generally. Prior to amendment, second sentence read as follows: “However, amounts from numismatic items shall be reimbursed to the current appropriation used to pay the cost of preparing and selling the items.”
 
@@ -110,19 +110,19 @@ Subsec. (a)(3) to (5). Pub. L. 102–390, §211, which directed the substitution
 
 Subsec. (c). Pub. L. 102–390, §225(b)(4), substituted “United States Mint” for “Bureau”.
 
-1990—Subsec. (a)(2) to (5). Pub. L. 101–585 added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and substituted “(3)” for “(2)” in par. (4).
+<b>1990</b>—Subsec. (a)(2) to (5). Pub. L. 101–585 added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and substituted “(3)” for “(2)” in par. (4).
 
-1988—Subsec. (a)(2) to (4). Pub. L. 100–274, §1, added pars. (2) to (4) and struck out former par. (2) which read as follows: “Not more than $50,165,000 may be appropriated to the Secretary for the fiscal year ending September 30, 1983, to pay costs of the mints and assay offices.”
+<b>1988</b>—Subsec. (a)(2) to (4). Pub. L. 100–274, §1, added pars. (2) to (4) and struck out former par. (2) which read as follows: “Not more than $50,165,000 may be appropriated to the Secretary for the fiscal year ending September 30, 1983, to pay costs of the mints and assay offices.”
 
 Subsec. (b). Pub. L. 100–274, §2(c)(3), struck out “and assay offices” after “amounts appropriated for the mints” in last sentence.
 
-1985—Subsec. (a)(1). Pub. L. 99–185 inserted “paragraphs (1) through (6) of” before “section 5112(a) of this title”.
+<b>1985</b>—Subsec. (a)(1). Pub. L. 99–185 inserted “paragraphs (1) through (6) of” before “section 5112(a) of this title”.
 
 Pub. L. 99–61 inserted “minted under section 5112(a) of this title” after “proof coins”.
 
-1984—Subsec. (a)(1). Pub. L. 98–216 struck out provision requiring the Secretary to pay the costs of the mints and assay offices not provided for in this subsection out of appropriations.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–216 struck out provision requiring the Secretary to pay the costs of the mints and assay offices not provided for in this subsection out of appropriations.
 
-1983—Subsec. (a)(1). Pub. L. 98–151 inserted provisions relating to authority of Secretary to sell sets of uncirculated and proof coins and solicitation of such sales through the customer lists of the Bureau of the Mint.
+<b>1983</b>—Subsec. (a)(1). Pub. L. 98–151 inserted provisions relating to authority of Secretary to sell sets of uncirculated and proof coins and solicitation of such sales through the customer lists of the Bureau of the Mint.
 
 Subsec. (a)(2). Pub. L. 97–452 substituted “$50,165,000” for “$54,706,000”, and “1983” for “1982”.
 

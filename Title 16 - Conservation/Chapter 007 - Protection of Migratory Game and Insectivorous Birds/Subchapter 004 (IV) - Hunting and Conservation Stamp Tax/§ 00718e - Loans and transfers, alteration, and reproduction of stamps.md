@@ -6,7 +6,7 @@ No person to whom has been sold a Migratory Bird Hunting and Conservation Stamp,
 
 #### (b) Alteration
 
-Except as provided in clauses (i) and (ii) of section 504(<i>l</i>)(D) <sup>1</sup> of title 18, no person shall alter, mutilate, imitate, or counterfeit any stamp authorized by this subchapter, or imitate or counterfeit any die, plate, or engraving therefor, ormake, print, or knowingly use, sell, or have in his possession any such counterfeit, die, plate, or engraving.
+Except as provided in clauses (i) and (ii) of section 504(<i>l</i>)(D) <sup>1</sup> of title 18, no person shall alter, mutilate, imitate, or counterfeit any stamp authorized by this subchapter, or imitate or counterfeit any die, plate, or engraving therefor, or make, print, or knowingly use, sell, or have in his possession any such counterfeit, die, plate, or engraving.
 
 #### (c) Reproduction
 
@@ -22,7 +22,7 @@ Notwithstanding the provisions of subsection (b) of this section, or the prohibi
 
 #### Amendments
 
-2006—Pub. L. 109–266, §10(f)(1), inserted section catchline.
+<b>2006</b>—Pub. L. 109–266, §10(f)(1), inserted section catchline.
 
 Subsec. (a). Pub. L. 109–266, §10(f)(1), inserted heading and substituted “Migratory Bird Hunting and Conservation Stamp” for “migratory-bird hunting stamp” in text.
 
@@ -32,13 +32,13 @@ Subsec. (c). Pub. L. 109–266, §10(f)(3)(C)(ii), which directed substitution o
 
 Pub. L. 109–266, §10(f)(3)(A), (B), (C)(i), inserted heading, substituted “Secretary may” for “Secretary of the Interior may” in introductory provisions, and substituted “Secretary” for “Secretary of the Interior” and “Migratory Bird Hunting and Conservation Stamps” for “migratory bird hunting stamps” in concluding provisions.
 
-1988—Subsec. (c). Pub. L. 100–653 inserted “, after deducting expenses for marketing,” after “paid”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–653 inserted “, after deducting expenses for marketing,” after “paid”.
 
-1984—Subsec. (b). Pub. L. 98–369, §1077(b)(3), substituted “Except as provided in clauses (i) and (ii) of section 504(1)(D) of title 18, no person” for “No person”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369, §1077(b)(3), substituted “Except as provided in clauses (i) and (ii) of section 504(1)(D) of title 18, no person” for “No person”.
 
 Subsec. (c). Pub. L. 98–369, §1077(a), added subsec. (c).
 
-1935—Act June 15, 1935, amended section generally.
+<b>1935</b>—Act June 15, 1935, amended section generally.
 
 #### Effective Date of 1984 Amendment
 

@@ -50,7 +50,7 @@ Proposed Regulations of Administrator of Environmental Protection Agency.—The 
 
 Consultation and Reports.—(1) If the Administrator of the Environmental Protection Agency believes that the action of the Administrator of the Federal Aviation Administration under subsection (c)(1)(B) or (2) of this section does not protect the public health and welfare from aircraft noise or sonic boom, consistent with the considerations in subsection (b) of this section, the Administrator of the Environmental Protection Agency shall consult with the Administrator of the Federal Aviation Administration and may request a report on the advisability of prescribing the regulation as originally proposed. The request, including a detailed statement of the information on which the request is based, shall be published in the Federal Register.
 
-(2) The Administrator of the Federal Aviation Administration shall report to the Administrator of the Environmental Protection Agency within the time, if any, specified in the request.However, the time specified must be at least 90 days after the date of the request. The report shall—
+(2) The Administrator of the Federal Aviation Administration shall report to the Administrator of the Environmental Protection Agency within the time, if any, specified in the request. However, the time specified must be at least 90 days after the date of the request. The report shall—
 
 &emsp;(A) be accompanied by a detailed statement of the findings of the Administrator of the Federal Aviation Administration and the reasons for the findings;
 
@@ -62,7 +62,7 @@ Consultation and Reports.—(1) If the Administrator of the Environmental Protec
 
 (e)
 
-Supplemental Reports.—The Administrator of the Environmental Protection Agency may request the Administrator of the Federal Aviation Administration to file a supplemental report if the report under subsection (d) of this section indicates that the proposed regulations under subsection (c) of this section, for which a statement under section 102(2)(C) of the Act (42 U.S.C. 4332(2)(C)) is not required, should not be prescribed. The supplemental report shall be published in the Federal Register within the time the Administrator of the Environmental Protection Agency specifies. However, the time specified must be at least 90 days after the date of the request. The supplemental report shall contain a comparison of the environmental effects, including those that cannot be avoided, of the action of the Administrator of the Federal Aviation Administration and the proposed regulations of the Administrator of the Environmental Protection Agency.
+Supplemental Reports.—The Administrator of the Environmental Protection Agency may request the Administrator of the Federal Aviation Administration to file a supplemental report if the report under subsection (d) of this section indicates that the proposed regulations under subsection (c) of this section, for which a statement under section 102(2)(C) of the Act (42 U.S.C. 4332(2)(C)) is not required, should not beprescribed. The supplemental report shall be published in the Federal Register within the time the Administrator of the Environmental Protection Agency specifies. However, the time specified must be at least 90 days after the date of the request. The supplemental report shall contain a comparison of the environmental effects, including those that cannot be avoided, of the action of the Administrator of the Federal Aviation Administration and the proposed regulations of the Administrator of the Environmental Protection Agency.
 
 (f)
 
@@ -132,7 +132,7 @@ In subsection (f), the words “under any provision of this chapter” and “th
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–264, which in directing the general amendment of par. (1) inserted an additional subsec. (a) designation and heading identical to the existing subsec. heading as well as restating the text of par. (1), was executed by restating the text onlyto reflect the probable intent of Congress. Prior to amendment, par. (1) read as follows: “To relieve and protect the public health and welfare from aircraft noise and sonic boom, the Administrator of the Federal Aviation Administration shall prescribe—
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–264, which in directing the general amendment of par. (1) inserted an additional subsec. (a) designation and heading identical to the existing subsec. heading as well as restating the text of par. (1), was executed by restating the text only to reflect the probable intent of Congress. Prior to amendment, par. (1) read as follows: “To relieve and protect the public health and welfare from aircraft noise and sonic boom, the Administrator of the Federal Aviation Administration shall prescribe—
 
 &emsp;“(A) standards to measure aircraft noise and sonic boom; and
 

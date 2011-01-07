@@ -22,13 +22,13 @@
 
 &emsp;(3) shall be made under the same conditions as apply to payments authorized by section 413 of the Foreign Service Act of 1980 (22 U.S.C. 3973).
 
-(Added Pub. L. 96–450, title IV, §403(b)(1), Oct. 14, 1980, 94 Stat. 1979; amended Pub. L. 97–22, §11(a)(6), July 10, 1981, 95 Stat. 138; Pub. L. 98–94, title XII, §1268(9), Sept. 24, 1983, 97 Stat. 706;Pub. L. 99–145, title XIII, §1303(a)(12), Nov. 8, 1985, 99 Stat. 739.)
+(Added Pub. L. 96–450, title IV, §403(b)(1), Oct. 14, 1980, 94 Stat. 1979; amended Pub. L. 97–22, §11(a)(6), July 10, 1981, 95 Stat. 138; Pub. L. 98–94, title XII, §1268(9), Sept. 24, 1983, 97 Stat. 706; Pub. L. 99–145, title XIII, §1303(a)(12), Nov. 8, 1985, 99 Stat. 739.)
 
 #### Amendments
 
-1985—Subsec. (a). Pub. L. 99–145 substituted “armed forces” for “Armed Forces”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted “armed forces” for “Armed Forces”.
 
-1983—Subsec. (a)(2). Pub. L. 98–94 substituted “October 14, 1980” for “the date of the enactment of this section”.
+<b>1983</b>—Subsec. (a)(2). Pub. L. 98–94 substituted “October 14, 1980” for “the date of the enactment of this section”.
 
-1981—Subsec. (b)(3). Pub. L. 97–22 substituted “section 413 of the Foreign Service Act of 1980 (22 U.S.C. 3973)” for “section 14 of the Act of August 1, 1956 (22 U.S.C. 2679a)”.
+<b>1981</b>—Subsec. (b)(3). Pub. L. 97–22 substituted “section 413 of the Foreign Service Act of 1980 (22 U.S.C. 3973)” for “section 14 of the Act of August 1, 1956 (22 U.S.C. 2679a)”.
 

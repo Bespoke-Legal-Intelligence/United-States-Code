@@ -16,6 +16,34 @@ Reporting of Information for the Database.—The Secretary shall require that th
 
 (Added Pub. L. 106–65, div. A, title V, §594(a), Oct. 5, 1999, 113 Stat. 643.)
 
+#### Improvements to Department of Defense Domestic Violence Programs
+
+Pub. L. 111–383, div. A, title V, §543, Jan. 7, 2011, 124 Stat. 4218, provided that:
+
+“(a)
+
+Implementation of Outstanding Comptroller General Recommendations.—Consistent with the recommendations contained in the report of the Comptroller General of the United States titled ‘Status of Implementation of GAO's 2006 Recommendations on the Department of Defense's Domestic Violence Program’ (GAO–10–577R), the Secretary of Defense shall complete, not later than one year after the date of enactment of this Act \[Jan. 7, 2011\], implementation of actions to address the following recommendations:
+
+&emsp;“(1)
+
+Defense incident-based reporting system.—The Secretary of Defense shall develop a comprehensive management plan to address deficiencies in the data captured in the Defense Incident-Based Reporting System to ensure the system can provide an accurate count of domestic violence incidents, and any consequent disciplinary action, that are reported throughout the Department of Defense.
+
+&emsp;“(2)
+
+Adequate personnel.—The Secretary of Defense shall develop a plan to ensure that adequate personnel are available to implement recommendations made by the Defense Task Force on Domestic Violence.
+
+&emsp;“(3)
+
+Domestic violence training data for chaplains.—The Secretary of Defense shall develop a plan to collect domestic violence training data for chaplains.
+
+&emsp;“(4)
+
+Oversight framework.—The Secretary of Defense shall develop an oversight framework for Department of Defense domestic violence programs, to include oversight of implementation of recommendations made by the Defense Task Force on Domestic Violence, including budgeting, communication initiatives, and policy compliance.
+
+“(b)
+
+Implementation Report.—The Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an implementation report within 90 days of the completion of actions outlined in subsection (a).”
+
 #### Comptroller General Review and Report
 
 Pub. L. 108–136, div. A, title V, §575, Nov. 24, 2003, 117 Stat. 1486, provided that:
@@ -34,7 +62,7 @@ Report.—The Comptroller General shall submit to the Committee on Armed Service
 
 #### Defense Task Force on Domestic Violence
 
-Pub. L. 106–65, div. A, title V, §591, Oct. 5, 1999, 113 Stat. 639, as amended by Pub. L. 107–107, div. A, title V, §575, Dec. 28, 2001, 115 Stat. 1123, directed the Secretary of Defense to establish a Department of Defense Task Force on Domestic Violence; required the task force tosubmit to the Secretary of Defense a long-term, strategic plan to address matters relating to domestic violence within the military more effectively, to review the victims’ safety program under Pub. L. 106–65, §592, set out below, and other matters relating to acts of domestic violence involving members of the Armed Forces, and to submit to the Secretary an annual report on its activities and activities of the military departments; directed the Secretary to submit the report and the Secretary's evaluation of the report to committees of Congress; and provided for the termination of the task force on Apr. 24, 2003.
+Pub. L. 106–65, div. A, title V, §591, Oct. 5, 1999, 113 Stat. 639, as amended by Pub. L. 107–107, div. A, title V, §575, Dec. 28, 2001, 115 Stat. 1123, directed the Secretary of Defense to establish a Department of Defense Task Force on Domestic Violence; required the task force to submit to the Secretary of Defense a long-term, strategic plan to address matters relating to domestic violence within the military more effectively, to review the victims’ safety program under Pub. L. 106–65, §592,set out below, and other matters relating to acts of domestic violence involving members of the Armed Forces, and to submit to the Secretary an annual report on its activities and activities of the military departments; directed the Secretary to submit the report and the Secretary's evaluation of the report to committees of Congress; and provided for the termination of the task force on Apr. 24, 2003.
 
 #### Incentive Program for Improving Responses to Domestic Violence Involving Members of the Armed Forces and Military Family Members
 

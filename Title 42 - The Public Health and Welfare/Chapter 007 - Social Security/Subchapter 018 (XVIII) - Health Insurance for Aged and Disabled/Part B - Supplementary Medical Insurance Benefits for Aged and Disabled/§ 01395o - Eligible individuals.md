@@ -16,7 +16,7 @@ Part A of this subchapter, referred to in par. (1), is classified to section 139
 
 #### Amendments
 
-1972—Pub. L. 92–603 designed former par. (2)(B) as par. (1), former par. (1) as introductory clause in par. (2), and former pars. (2)(A)(i) and (ii) as pars. (2)(A) and (B), and struck out “(A)” after “(2)”.
+<b>1972</b>—Pub. L. 92–603 designed former par. (2)(B) as par. (1), former par. (1) as introductory clause in par. (2), and former pars. (2)(A)(i) and (ii) as pars. (2)(A) and (B), and struck out “(A)” after “(2)”.
 
 #### Persons Convicted of Subversive Activities
 

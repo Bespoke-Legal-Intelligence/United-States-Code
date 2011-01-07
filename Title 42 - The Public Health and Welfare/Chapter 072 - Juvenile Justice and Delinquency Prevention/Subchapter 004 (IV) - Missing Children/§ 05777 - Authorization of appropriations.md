@@ -12,25 +12,25 @@ The Administrator may use not more than 5 percent of the amount appropriated for
 
 #### Prior Provisions
 
-A prior section 408 of Pub. L. 93–415 was renumbered section 409 and was classified to section 5778 of this title prior to repeal by Pub. L. 104–235.
+A prior section 407 of Pub. L. 93–415 was classified to section 5776a prior to repeal by Pub. L. 110–240, §5(1), June 3, 2008, 122 Stat. 1564.
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–240, §4, which directed substitution of “2008 through 2013” for “2007 through 2008”, was executed by making the substitution for “2004 through 2008”, to reflect the probable intent of Congress.
+<b>2008</b>—Subsec. (a). Pub. L. 110–240, §4, which directed substitution of “2008 through 2013” for “2007 through 2008”, was executed by making the substitution for “2004 through 2008”, to reflect the probable intent of Congress.
 
-2003—Subsec. (a). Pub. L. 108–96 substituted “2008” for “2005.”
+<b>2003</b>—Subsec. (a). Pub. L. 108–96 substituted “2008” for “2005.”
 
 Pub. L. 108–21 substituted “fiscal years 2004 through 2005.” for “fiscal years 2000 through 2003”.
 
-1999—Subsec. (a). Pub. L. 106–71 substituted “2000 through 2003” for “1997 through 2001”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–71 substituted “2000 through 2003” for “1997 through 2001”.
 
-1996—Pub. L. 104–235 designated existing provisions as subsec. (a), inserted heading, substituted “1997 through 2001” for “1993, 1994, 1995, and 1996”, and added subsec. (b).
+<b>1996</b>—Pub. L. 104–235 designated existing provisions as subsec. (a), inserted heading, substituted “1997 through 2001” for “1993, 1994, 1995, and 1996”, and added subsec. (b).
 
-1992—Pub. L. 102–586 substituted “fiscal years 1993, 1994, 1995, and 1996” for “fiscal years 1989, 1990, 1991, and 1992”.
+<b>1992</b>—Pub. L. 102–586 substituted “fiscal years 1993, 1994, 1995, and 1996” for “fiscal years 1989, 1990, 1991, and 1992”.
 
-1989—Pub. L. 101–204 amended directory language of Pub. L. 100–690, §7289(3), see 1988 Amendment note below.
+<b>1989</b>—Pub. L. 101–204 amended directory language of Pub. L. 100–690, §7289(3), see 1988 Amendment note below.
 
-1988—Pub. L. 100–690, §7289, as amended by Pub. L. 101–204, struck out “$10,000,000 for fiscal year 1985, and” after “appropriated” and “1986, 1987, and 1988” after “fiscal years” and inserted “1989, 1990, 1991, and 1992”.
+<b>1988</b>—Pub. L. 100–690, §7289, as amended by Pub. L. 101–204, struck out “$10,000,000 for fiscal year 1985, and” after “appropriated” and “1986, 1987, and 1988” after “fiscal years” and inserted “1989, 1990, 1991, and 1992”.
 
 #### Effective Date of 1988 Amendment
 

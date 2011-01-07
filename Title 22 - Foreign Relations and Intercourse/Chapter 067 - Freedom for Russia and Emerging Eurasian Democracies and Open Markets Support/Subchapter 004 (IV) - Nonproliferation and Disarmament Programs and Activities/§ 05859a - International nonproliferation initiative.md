@@ -42,7 +42,7 @@ Activities for which assistance may be provided under this section are activitie
 
 (4)(A) In the event of a significant unforeseen development related to the activities of the United Nations Special Commission on Iraq (or any successor organization) for which the Secretary of Defense determines that financial assistance under this section is required at a level which would result in the total amount of assistance provided under this section during the then-current fiscal year exceeding the amount of any limitation provided by law on the total amount of such assistance for that fiscal year, the Secretary of Defense may provide such assistance with respect to that fiscal year notwithstanding that limitation. Funds for such purpose may be derived from any funds available to the Department of Defense for that fiscal year.
 
-(B) Financial assistance may be provided under subparagraph (A) only after the Secretaryof Defense provides notice in writing to the committees of Congress named in subsection (e)(2) of this section of the significant unforeseen development and of the Secretary's intent to provide assistance in excess of the limitation for that fiscal year. However, if the Secretary determines in any case that under the specific circumstances of that case advance notice is not possible, such notice shall be provided as soon as possible and not later than 15 days after the date on which the assistance is provided. Any notice under this subparagraph shall include a description of the development, the amount of assistance provided or to be provided, and the source of the funds for that assistance.
+(B) Financial assistance may be provided under subparagraph (A) only after the Secretary of Defense provides notice in writing to the committees of Congress named in subsection (e)(2) of this section of the significant unforeseen development and of the Secretary's intent to provide assistance in excess of the limitation for that fiscal year. However, if the Secretary determines in any case that under the specific circumstances of that case advance notice is not possible, such notice shall be provided as soon as possible and not later than 15 days after the date on which the assistance is provided. Any notice under this subparagraph shall include a description of the development, the amount of assistance provided or to be provided, and the source of the funds for that assistance.
 
 #### (e) Quarterly report
 
@@ -72,13 +72,13 @@ Section was enacted as part of the Weapons of Mass Destruction Control Act of 19
 
 #### Amendments
 
-2002—Subsec. (f). Pub. L. 107–314 substituted “2003” for “2002”.
+<b>2002</b>—Subsec. (f). Pub. L. 107–314 substituted “2003” for “2002”.
 
-2001—Subsec. (f). Pub. L. 107–107 substituted “2002” for “2001”.
+<b>2001</b>—Subsec. (f). Pub. L. 107–107 substituted “2002” for “2001”.
 
-2000—Subsec. (f). Pub. L. 106–398 substituted “2001” for “2000”.
+<b>2000</b>—Subsec. (f). Pub. L. 106–398 substituted “2001” for “2000”.
 
-1999—Subsec. (b)(2). Pub. L. 106–65, §1505(c)(1), inserted “(or any successor organization)” after “United Nations Special Commission on Iraq”.
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–65, §1505(c)(1), inserted “(or any successor organization)” after “United Nations Special Commission on Iraq”.
 
 Subsec. (d)(4)(A). Pub. L. 106–65, §1505(c)(2)(A), in first sentence, inserted “(or any successor organization)” after “United Nations Special Commission on Iraq” and substituted “the amount of any limitation provided by law on the total amount of such assistance for that fiscal year, the Secretary of Defense may provide such assistance with respect to that fiscal year notwithstanding that limitation.” for “the amount specified with respect to that year under paragraph (3), the Secretary of Defense may provide such assistance notwithstanding the limitation with respect to that fiscal year under paragraph (3).”
 
@@ -88,13 +88,13 @@ Subsec. (e)(2)(B). Pub. L. 106–65, §1067(8), substituted “Committee on Arme
 
 Subsec. (f). Pub. L. 106–65, §1505(b), substituted “2000” for “1999”.
 
-1998—Subsec. (f). Pub. L. 105–261 substituted “1999” for “1998”.
+<b>1998</b>—Subsec. (f). Pub. L. 105–261 substituted “1999” for “1998”.
 
-1997—Subsec. (d)(3). Pub. L. 105–85, §1308(1), struck out “or” after “fiscal year 1996,” and inserted “, or $15,000,000 for fiscal year 1998” before period at end.
+<b>1997</b>—Subsec. (d)(3). Pub. L. 105–85, §1308(1), struck out “or” after “fiscal year 1996,” and inserted “, or $15,000,000 for fiscal year 1998” before period at end.
 
 Subsec. (f). Pub. L. 105–85, §1308(2), substituted “1998” for “1997”.
 
-1996—Subsec. (a). Pub. L. 104–106, §1403(a)(1), struck out “during fiscal years 1994 and 1995” before “the Secretary of Defense”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106, §1403(a)(1), struck out “during fiscal years 1994 and 1995” before “the Secretary of Defense”.
 
 Subsec. (b)(2). Pub. L. 104–106, §1403(b)(1), substituted “the Department of Defense” for “the On-Site Inspection Agency”.
 
@@ -116,7 +116,7 @@ Subsec. (f). Pub. L. 104–201, §1301(a)(2), substituted “1997” for “1996
 
 Pub. L. 104–106, §1403(a)(3), added subsec. (f).
 
-1994—Subsec. (a). Pub. L. 103–337, §1501(a)(1), substituted “fiscal years 1994 and 1995” for “fiscal year 1994”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §1501(a)(1), substituted “fiscal years 1994 and 1995” for “fiscal year 1994”.
 
 Subsec. (b)(1). Pub. L. 103–337, §1501(b)(1), substituted “international organizations” for “the International Atomic Energy Agency (IAEA)”, struck out “nuclear” after “safeguards against”, and substituted “effective verification” for “aggressive verification” and “international agreements on nonproliferation” for “the Treaty on the Non-Proliferation of Nuclear Weapons, done on July 1, 1968”.
 
@@ -130,7 +130,7 @@ Subsec. (e)(1). Pub. L. 103–337, §1501(a), substituted “fiscal years 1994 a
 
 Subsec. (e)(2). Pub. L. 103–337, §1070(c)(1), which directed amendment of subsec. (e)(2) by striking out “and under subsection (d)(4) of this section” effective as of Oct. 23, 1992, and as if included in the National Defense Authorization Act for Fiscal Year 1993 (Pub. L. 102–484), as enacted, was executed to subsec. (e)(2) as amended by Pub. L. 103–160, §1182(c)(5), to reflect the probable intent of Congress. See 1993 Amendment note below.
 
-1993—Subsecs. (a), (d)(1). Pub. L. 103–160, §1602(a), substituted “fiscal year 1994” for “fiscal year 1993”.
+<b>1993</b>—Subsecs. (a), (d)(1). Pub. L. 103–160, §1602(a), substituted “fiscal year 1994” for “fiscal year 1993”.
 
 Subsec. (d)(3). Pub. L. 103–160, §1602(b)(2), struck out at end “Of such amount, not more than $20,000,000 may be used for the activities of the On-Site Inspection Agency in support of the United Nations Special Commission on Iraq.”
 

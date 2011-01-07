@@ -10,7 +10,7 @@
 
 #### (A) United States country of origin
 
-&emsp;&emsp;A retailer of a covered commodity that is beef, lamb, pork, chicken, or goat meat may designate the covered commodity as exclusively having a United States country of origin only if the covered commodity is derived from an animal that was—
+&emsp;&emsp;A retailer of a covered commodity that is beef, lamb, pork, chicken, or goat meat maydesignate the covered commodity as exclusively having a United States country of origin only if the covered commodity is derived from an animal that was—
 
 &emsp;&emsp;&emsp;(i) exclusively born, raised, and slaughtered in the United States;
 
@@ -78,7 +78,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A retailer of a covered commodity that is a perishable agricultural commodity, ginseng, peanut, pecan, or macadamia nut maydesignate the covered commodity as having a United States country of origin only if the covered commodity is exclusively produced in the United States.
+&emsp;&emsp;A retailer of a covered commodity that is a perishable agricultural commodity, ginseng, peanut, pecan, or macadamia nut may designate the covered commodity as having a United States country of origin only if the covered commodity is exclusively produced in the United States.
 
 #### (B) State, region, locality of the United States
 
@@ -102,7 +102,7 @@ Subsection (a) of this section shall not apply to a covered commodity if the cov
 
 #### (2) Labeled commodities
 
-&emsp;If the covered commodity is already individually labeled for retail sale regarding country of origin, the retailer shall not be required to provide any additional information to comply with this section.
+&emsp;If the covered commodity is already individually labeled for retail sale regarding countryof origin, the retailer shall not be required to provide any additional information to comply with this section.
 
 #### (d) Audit verification system
 
@@ -160,7 +160,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2008—Subsec. (a)(2) to (4). Pub. L. 110–246, §11002(2)(A), added pars. (2) to (4) and struck out former pars. (2) and (3) which related to designation of United States as country of origin for beef, lamb, pork, fish, perishable agricultural commodities, and peanuts, and requirement that notice of country of origin for fish shall distinguish between wild and farm-raised fish.
 
-Subsec. (d). Pub. L. 110–246, §11002(2)(B), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Secretary may require that any person that prepares, stores, handles, or distributes a covered commodity for retail sale maintain a verifiable recordkeeping audit trail that will permitthe Secretary to verify compliance with this subchapter (including the regulations promulgated under section 1638c(b) of this title).”
+Subsec. (d). Pub. L. 110–246, §11002(2)(B), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Secretary may require that any person that prepares, stores, handles, or distributes a covered commodity for retail sale maintain a verifiable recordkeeping audit trail that will permit the Secretary to verify compliance with this subchapter (including the regulations promulgated under section 1638c(b) of this title).”
 
 2002—Subsec. (a)(2)(D). Pub. L. 107–206 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “in the case of wild fish, is—
 

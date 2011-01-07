@@ -6,7 +6,7 @@
 
 &emsp;(2) Precise measurements, calibrations, and standards help United States industry and manufacturing concerns compete strongly in world markets.
 
-&emsp;(3) Improvements in manufacturing and product technology depend on fundamental scientific and engineering research to develop (A) the precise and accurate measurement methods and measurement standards needed to improve quality and reliability, and (B) new technological processes by which such improved methods may be used in practice to improve manufacturing and to assist industry totransfer important laboratory discoveries into commercial products.
+&emsp;(3) Improvements in manufacturing and product technology depend on fundamental scientific and engineering research to develop (A) the precise and accurate measurement methods and measurement standards needed to improve quality and reliability, and (B) new technological processes by which such improved methods may be used in practice to improve manufacturing and to assist industry to transfer important laboratory discoveries into commercial products.
 
 &emsp;(4) Scientific progress, public safety, and product compatibility and standardization also depend on the development of precise measurement methods, standards, and related basic technologies.
 
@@ -34,13 +34,21 @@ This chapter, referred to in subsec. (b), was in the original “this Act” mea
 
 #### Amendments
 
-1988—Pub. L. 100–418 amended section generally. Prior to amendment, section read as follows: “The Office of Standard Weights and Measures shall be known as the National Bureau of Standards.”
+<b>1988</b>—Pub. L. 100–418 amended section generally. Prior to amendment, section read as follows: “The Office of Standard Weights and Measures shall be known as the National Bureau of Standards.”
 
 #### Change of Name; National Bureau of Standards Redesignated National Institute of Standards and Technology
 
 Section 5115(c) of Pub. L. 100–418 provided that: “References in any other Federal law to the National Bureau of Standards shall be deemed to refer to the National Institute of Standards and Technology.”
 
 Act Mar. 4, 1913, ch. 141, §1, 37 Stat. 736, created the Department of Labor and renamed the Department of Commerce and Labor as the Department of Commerce.
+
+#### Short Title of 2011 Amendment
+
+Pub. L. 111–358, title VII, §701, Jan. 4, 2011, 124 Stat. 4041, provided that: “This title \[amending section 278k of this title and enacting provisions set out as a note under section 278k of this title\] may be cited as the ‘NIST Grants for Energy Efficiency, New Job Opportunities, and Business Solutions Act of 2010’ or the ‘NIST GREEN JOBS Act of 2010’.”
+
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–240, title IV, §4221, Sept. 27, 2010, 124 Stat. 2596, provided that: “This part \[part I (§§4221–4228) of subtitle B of title IV of Pub. L. 111–240, amending section 278k of this title and enacting provisions set out as a note under section 278n of this title\] may be cited as the ‘Export Promotion Act of 2010’.”
 
 #### Short Title of 1998 Amendment
 

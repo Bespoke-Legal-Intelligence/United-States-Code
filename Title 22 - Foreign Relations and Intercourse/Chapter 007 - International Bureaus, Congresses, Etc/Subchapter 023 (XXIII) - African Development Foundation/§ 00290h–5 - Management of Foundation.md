@@ -32,7 +32,7 @@ A majority of the Board shall constitute a quorum.
 
 #### Amendments
 
-1989—Subsec. (a)(1). Pub. L. 101–167 inserted at end “Members of the Board shall be appointed so that no more than four members of the Board are members of any one political party.”
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–167 inserted at end “Members of the Board shall be appointed so that no more than four members of the Board are members of any one political party.”
 
 #### Effective Date of 1989 Amendment
 

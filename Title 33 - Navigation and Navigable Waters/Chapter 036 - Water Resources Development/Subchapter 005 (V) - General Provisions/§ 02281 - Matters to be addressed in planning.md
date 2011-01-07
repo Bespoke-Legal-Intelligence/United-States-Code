@@ -16,11 +16,11 @@ For all feasibility reports for water resources projects completed after Decembe
 
 #### Amendments
 
-2007—Pub. L. 110–114 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2007</b>—Pub. L. 110–114 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1996—Pub. L. 104–303 inserted “and information regarding potential loss of human life that may be associated with flooding and coastal storm events,” after “unquantifiable,”.
+<b>1996</b>—Pub. L. 104–303 inserted “and information regarding potential loss of human life that may be associated with flooding and coastal storm events,” after “unquantifiable,”.
 
-1990—Pub. L. 101–640 inserted “(including preservation and enhancement of the environment)” after “environment”.
+<b>1990</b>—Pub. L. 101–640 inserted “(including preservation and enhancement of the environment)” after “environment”.
 
 #### Rural Project Evaluation and Selection Criteria
 

@@ -66,7 +66,7 @@ References in any other Federal law, Executive order, rule, regulation, or deleg
 
 This section shall be effective on August 2, 2005.
 
-(Pub. L. 109–55, title I, §1307, Aug. 2, 2005, 119 Stat. 583; Pub. L. 110–161, div. H, title I, §1004(d)(3), Dec. 26, 2007, 121 Stat. 2234; Pub. L. 110–178, §4(c), Jan. 7, 2008, 121 Stat. 2552.)
+(Pub. L. 109–55, title I, §1307, Aug. 2, 2005, 119 Stat. 583; Pub. L. 110–161, div. H, title I, §1004(d)(3), Dec. 26, 2007, 121 Stat. 2234; Pub. L. 110–178, §4(c), Jan. 7, 2008, 121 Stat. 2552; Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
 
 #### References in Text
 
@@ -74,15 +74,17 @@ The Inspector General Act of 1978, referred to in subsec. (d)(1), is Pub. L. 95�
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–178 made amendment identical to that made by Pub. L. 110–161, inserting “, except that nothing in this paragraph may be construed to authorize the Inspector General to audit or investigate any operations or activities of the United States Capitol Police” before semicolon at end. See 2007 Amendment note below.
+2010—Subsec. (b)(1). Pub. L. 111–145 repealed Pub. L. 110–161, §1004(d)(3). See 2007 Amendment note below.
 
-2007—Subsec. (b)(1). Pub. L. 110–161 made amendment identical to that made by Pub. L. 110–178, inserting “, except that nothing in this paragraph may be construed to authorize the Inspector General to audit or investigate any operations or activities of the United States Capitol Police” before semicolon at end. See 2008 Amendment note above.
+2008—Subsec. (b)(1). Pub. L. 110–178 inserted “, except that nothing in this paragraph may be construed to authorize the Inspector General to audit or investigate any operations or activities of the United States Capitol Police” before semicolon at end.
+
+2007—Subsec. (b)(1). Pub. L. 110–161, §1004(d)(3), which made amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
+
+#### Effective Date of 2010 Amendment
+
+Repeal of section 1004 of Pub. L. 110–161 by Pub. L. 111–145 effective as if included in the enactment of Pub. L. 110–161 and provisions amended by section 1004 of Pub. L. 110–161 to be restored as if such section had not been enacted, and repeal to have no effect on the enactment or implementation of any provision of Pub. L. 110–178, see section 6(d) of Pub. L. 111–145, set out as a note under section 1901 of this title.
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–178 effective Oct. 1, 2009, see section 4(d) of Pub. L. 110–178, set out as an Effective Date of Repeal note under section 167 of this title.
-
-#### Effective Date of 2007 Amendment
-
-Amendment by Pub. L. 110–161 effective Oct. 1, 2009, see section 1004(d)(4) of title I of div. H of Pub. L. 110–161, set out as an Effective Date of Repeal note under section 167 of this title.
+Amendment by Pub. L. 110–178 effective Oct. 1, 2009, see section 4(d) of Pub. L. 110–178, set out as an Effective Date of Repeal note under former section 167 of this title.
 

@@ -30,7 +30,7 @@ There is hereby established as an independent entity in the executive branch the
 
 &emsp;(A) appoint and fix the compensation of such staff and personnel as the Commissioner deems necessary in accordance with the provisions of title 5 governing appointments in the competitive service, but at rates not in excess of a position classified above a GS–15 of the General Schedule under section 5108 of such title; and
 
-&emsp;(B) procure temporary and intermittent services to the same extent as is authorized bysection 3109 of title 5, but at rates not to exceed $200 a day for individuals.
+&emsp;(B) procure temporary and intermittent services to the same extent as is authorized by section 3109 of title 5, but at rates not to exceed $200 a day for individuals.
 
 (2) The authority of the Commissioner to enter into contracts for the provision of legal services for the Commissioner or for the Office of Navajo and Hopi Indian Relocation shall be subject to the availability of funds provided for such purpose by appropriations Acts.
 
@@ -56,11 +56,9 @@ The Navajo and Hopi Indian Relocation Amendments of 1988, referred to in subsec.
 
 Public Law 99–190, referred to in subsec. (c)(2), is Pub. L. 99–190, Dec. 19, 1985, 99 Stat. 1185. The provisions of Pub. L. 99–190 (99 Stat. 1236) relating to the relocation of members of the Navajo Tribe are not classified to the Code. For complete classification of Pub. L. 99–190 to the Code, see Tables.
 
-The provisions of title 5 governing appointments in the competitive service, referred to in the subsec. (d)(1)(A), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 #### Amendments
 
-1991—Subsec. (b)(2). Pub. L. 102–180, §3(a), inserted at end “The Commissioner serving at the end of a term shall continue to serve until his or her successor has been confirmed in accordance with paragraph (1) of this subsection.”
+<b>1991</b>—Subsec. (b)(2). Pub. L. 102–180, §3(a), inserted at end “The Commissioner serving at the end of a term shall continue to serve until his or her successor has been confirmed in accordance with paragraph (1) of this subsection.”
 
 Subsec. (b)(3). Pub. L. 102–180, §3(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Commissioner shall be a full time employee of the United States and shall be paid at the rate of GS–18 of the General Schedule under section 5332 of title 5.”
 
@@ -70,9 +68,9 @@ Subsec. (d)(1). Pub. L. 102–180, §3(c), amended par. (1) generally. Prior to 
 
 &emsp;“(B) procure temporary and intermittent services to the same extent as is authorized by section 3109 of title 5, but at rates not to exceed $200 a day for individuals.”
 
-1988—Pub. L. 100–666 amended section generally, substituting subsecs. (a) to (f) relating to the Office of Navajo and Hopi Indian Relocation, for former subsecs. (a) to (j) which related to the Navajo and Hopi Relocation Commission.
+<b>1988</b>—Pub. L. 100–666 amended section generally, substituting subsecs. (a) to (f) relating to the Office of Navajo and Hopi Indian Relocation, for former subsecs. (a) to (j) which related to the Navajo and Hopi Relocation Commission.
 
-1980—Subsec. (g)(1). Pub. L. 96–305, §5(1), inserted “an independent legal counsel,” after “an Executive Director,”.
+<b>1980</b>—Subsec. (g)(1). Pub. L. 96–305, §5(1), inserted “an independent legal counsel,” after “an Executive Director,”.
 
 Subsec. (h). Pub. L. 96–305, §5(2), substituted provision authorizing Commission to provide for its own administrative, fiscal, and housekeeping services for provision authorizing Department of the Interior, on a nonreimbursable basis, to furnish necessary administrative and housekeeping services for Commission.
 

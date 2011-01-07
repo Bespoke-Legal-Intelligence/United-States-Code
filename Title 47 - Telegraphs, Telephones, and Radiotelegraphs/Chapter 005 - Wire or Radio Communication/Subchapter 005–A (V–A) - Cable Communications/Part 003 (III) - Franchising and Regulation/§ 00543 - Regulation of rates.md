@@ -42,7 +42,7 @@
 
 #### (6) Exercise of jurisdiction by Commission
 
-&emsp;If the Commission disapproves a franchising authority's certification under paragraph (4), or revokes such authority's jurisdiction under paragraph (5), the Commission shall exercise the franchising authority's regulatory jurisdiction under paragraph (2)(A) until the franchising authority has qualified to exercise that jurisdiction by filing a new certification that meets the requirements of paragraph (3). Such new certification shall be effective upon approval by the Commission. The Commission shall act to approve or disapprove any such new certification within 90 days after the date it is filed.
+&emsp;If the Commission disapproves a franchising authority's certification under paragraph (4), or revokes such authority's jurisdiction under paragraph (5), the Commission shall exercise the franchising authority's regulatory jurisdiction under paragraph (2)(A) until the franchising authority has qualified to exercise that jurisdiction by filing a new certification that meets the requirements of paragraph (3).Such new certification shall be effective upon approval by the Commission. The Commission shall act to approve or disapprove any such new certification within 90 days after the date it is filed.
 
 #### (7) Aggregation of equipment costs
 
@@ -168,7 +168,7 @@
 
 &emsp;&emsp;(C) the history of the rates for cable programming services of the system, including the relationship of such rates to changes in general consumer prices;
 
-&emsp;&emsp;(D) the rates, as a whole, for all the cable programming, cable equipment, and cable services provided by the system, other than programming provided on a per channel or per program basis;
+&emsp;&emsp;(D) the rates, as a whole, for all the cable programming, cable equipment, and cable services provided by the system, other thanprogramming provided on a per channel or per program basis;
 
 &emsp;&emsp;(E) capital and operating costs of the cable system, including the quality and costs of the customer service provided by the cable system; and
 
@@ -184,7 +184,7 @@
 
 #### (d) Uniform rate structure required
 
-A cable operator shall have a rate structure, for the provision of cable service, that is uniform throughout the geographic area in which cable service is provided over its cable system. This subsection does not apply to (1) a cable operator with respect to the provision of cable service over its cable system in any geographic area in which the video programming services offered by the operator in that area are subject to effective competition, or (2) any video programming offered on a per channel or per program basis. Bulk discounts to multiple dwelling units shall not be subject to this subsection, except that a cable operator of a cable system that is not subject to effective competition may notcharge predatory prices to a multiple dwelling unit. Upon a prima facie showing by a complainant that there are reasonable grounds to believe that the discounted price is predatory, the cable system shall have the burden of showing that its discounted price is not predatory.
+A cable operator shall have a rate structure, for the provision of cable service, that is uniform throughout the geographic area in which cable service is provided over its cable system. This subsection does not apply to (1) a cable operator with respect to the provision of cable service over its cable system in any geographic area in which the video programming services offered by the operator in that area are subject to effective competition, or (2) any video programming offered on a per channel or per program basis. Bulk discounts to multiple dwelling units shall not be subject to this subsection, except that a cable operator of a cable system that is not subject to effective competition may not charge predatory prices to a multiple dwelling unit. Upon a prima facie showing by a complainant that there are reasonable grounds to believe that the discounted price is predatory, the cable system shall have the burden of showing that its discounted price is not predatory.
 
 #### (e) Discrimination; services for the hearing impaired
 
@@ -234,7 +234,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(i) served by at least two unaffiliated multichannel video programming distributors each of which offers comparable video programming to at least 50 percent of the households in the franchise area; and
 
-&emsp;&emsp;&emsp;(ii) the number of households subscribing to programming services offered by multichannel video programming distributors other than the largest multichannel video programming distributor exceeds 15 percent of the households in the franchise area;
+&emsp;&emsp;&emsp;(ii) the number of households subscribing to programming services offered by multichannel video programming distributorsother than the largest multichannel video programming distributor exceeds 15 percent of the households in the franchise area;
 
 &emsp;&emsp;(C) a multichannel video programming distributor operated by the franchising authority for that franchise area offers video programming to at least 50 percent of the households in that franchise area; or
 
@@ -266,7 +266,7 @@ Notwithstanding any other provision of this section or of section 532 of this ti
 
 #### Amendments
 
-1996—Subsec. (a)(7). Pub. L. 104–104, §301(j), added par. (7).
+<b>1996</b>—Subsec. (a)(7). Pub. L. 104–104, §301(j), added par. (7).
 
 Subsec. (c)(1)(B). Pub. L. 104–104, §301(b)(1)(A), substituted “franchising authority (in accordance with paragraph (3))” for “subscriber, franchising authority, or other relevant State or local government entity”.
 
@@ -282,7 +282,7 @@ Subsec. (m). Pub. L. 104–104, §301(c), added subsec. (m).
 
 Subsec. (n). Pub. L. 104–104, §301(k)(1), added subsec. (n).
 
-1992—Pub. L. 102–385 amended section generally, substituting present provisions for former provisions which related in subsec. (a) to limitation on regulatory power of Federal agencies, States, or franchising authorities, in subsec. (b) to promulgation, scope, content, periodic review, and amendment of regulations, in subsec. (c) to regulation by franchising authority during initial 2-year period, in subsec. (d) to automatic granting of rate increase requests upon agency inaction within 180-day period, in subsec. (e) to additional increases in rates and to reduction by amount of increase under franchise provisions, in subsec. (f) to nondiscrimination and facilitation of reception by hearing-impaired individuals, in subsec. (g) to continued effectiveness of limitation or the preemption of regulation under prior State law, and in subsec. (h) to reports and recommendations to Congress.
+<b>1992</b>—Pub. L. 102–385 amended section generally, substituting present provisions for former provisions which related in subsec. (a) to limitation on regulatory power of Federal agencies, States, or franchising authorities, in subsec. (b) to promulgation, scope, content, periodic review, and amendment of regulations, in subsec. (c) to regulation by franchising authority during initial 2-year period, in subsec. (d) to automatic granting of rate increase requests upon agency inaction within 180-day period, in subsec. (e) to additional increases in rates and to reduction by amount of increase under franchise provisions, in subsec. (f) to nondiscrimination and facilitation of reception by hearing-impaired individuals, in subsec. (g) to continued effectiveness of limitation or the preemption of regulation under prior State law, and in subsec. (h) to reports and recommendations to Congress.
 
 #### Effective Date of 1996 Amendment
 

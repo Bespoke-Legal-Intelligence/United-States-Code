@@ -20,7 +20,7 @@ For purposes of this section, the term “United States” means the 50 States a
 
 #### (1) In general
 
-&emsp;The amount of any allotment to a State for a fiscal year under the preceding provisions of this section which the State certifies to the Secretary will not be required for carrying out the State plan developed as provided in section 622 of this title shall be available for reallotment from time to time, on such dates as the Secretary may fix, to other States which the Secretary determines—
+&emsp;The amount of any allotment to a State for a fiscal year under the preceding provisions ofthis section which the State certifies to the Secretary will not be required for carrying out the State plan developed as provided in section 622 of this title shall be available for reallotment from time to time, on such dates as the Secretary may fix, to other States which the Secretary determines—
 
 &emsp;&emsp;(A) need sums in excess of the amounts allotted to such other States under the preceding provisions of this section, in carrying out their State plans so developed; and
 
@@ -52,7 +52,7 @@ A prior section 623, act Aug. 14, 1935, ch. 531, title IV, §423, as added Pub. 
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–288, §11(a)(1)(B), substituted “The Secretary” for “He”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–288, §11(a)(1)(B), substituted “The Secretary” for “He”.
 
 Pub. L. 109–288, §6(d)(1), inserted heading and substituted “section 625” for “section 620”.
 
@@ -66,9 +66,9 @@ Subsec. (d). Pub. L. 109–288, §6(d)(4), inserted heading and substituted “5
 
 Subsec. (e). Pub. L. 109–288, §6(d)(5), added subsec. (e).
 
-1987—Subsec. (b). Pub. L. 100–203 substituted “Guam, and American Samoa” for “and Guam”.
+<b>1987</b>—Subsec. (b). Pub. L. 100–203 substituted “Guam, and American Samoa” for “and Guam”.
 
-1980—Pub. L. 96–272 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
+<b>1980</b>—Pub. L. 96–272 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
 
 #### Effective Date of 2006 Amendment
 

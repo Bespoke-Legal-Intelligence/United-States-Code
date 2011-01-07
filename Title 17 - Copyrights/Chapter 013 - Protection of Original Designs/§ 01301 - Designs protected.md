@@ -42,7 +42,7 @@ Definitions.—For the purpose of this chapter, the following terms have the fol
 
 #### Amendments
 
-2008—Subsec. (a)(2). Pub. L. 110–434, §1(b), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The design of a vessel hull, including a plug or mold, is subject to protection under this chapter, notwithstanding section 1302(4).”
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–434, §1(b), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The design of a vessel hull, including a plug or mold, is subject to protection under this chapter, notwithstanding section 1302(4).”
 
 Subsec. (a)(3). Pub. L. 110–434, §1(c), added par. (3).
 
@@ -52,7 +52,7 @@ Subsec. (b)(4). Pub. L. 110–434, §1(d)(2), added par. (4) and struck out form
 
 Subsec. (b)(7). Pub. L. 110–434, §1(d)(3), added par. (7).
 
-1999—Subsec. (b)(3). Pub. L. 106–113 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A ‘vessel’ is a craft, especially one larger than a rowboat, designed to navigate on water, but does not include any such craft that exceeds 200 feet in length.”
+<b>1999</b>—Subsec. (b)(3). Pub. L. 106–113 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A ‘vessel’ is a craft, especially one larger than a rowboat, designed to navigate on water, but does not include any such craft that exceeds 200 feet in length.”
 
 #### Effective Date
 

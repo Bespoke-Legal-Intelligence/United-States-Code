@@ -6,7 +6,7 @@ In order to promote the establishment and maintenance of a national system of pu
 
 #### Amendments
 
-1982—Pub. L. 97–300 substituted “the United States Employment Service shall be established and maintained within the Department of Labor” for “there is created in the Department of Labor a bureau to be known as the United States Employment Service”.
+<b>1982</b>—Pub. L. 97–300 substituted “the United States Employment Service shall be established and maintained within the Department of Labor” for “there is created in the Department of Labor a bureau to be known as the United States Employment Service”.
 
 #### Effective Date of 1982 Amendment
 
@@ -20,7 +20,7 @@ Act June 6, 1933, ch. 49, §16, formerly §15, as added by Pub. L. 97–300, tit
 
 Functions, powers, and duties of Secretary of Labor under this chapter, insofar as relates to prescription of personnel standards on a merit basis, transferred to Office of Personnel Management, see section 4728(a)(2)(A) of Title 42, The Public Health and Welfare.
 
-Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department were, with exception of functions vested by Administrative Procedure Act (see sections551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by such Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
+Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department were, with exception of functions vested by Administrative Procedure Act (see sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by such Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
 
 United States Employment Service transferred to Department of Labor, functions of Federal Security Administrator with respect to employment services, and Bureau of Employment Security transferred to Secretary of Labor by Reorg. Plan No. 2 of 1949, §1, eff. Aug. 20, 1949, 14 F.R. 5225, 63 Stat. 1065, set out in the Appendix to Title 5.
 

@@ -46,7 +46,7 @@ Subsec. (c)(2). Pub. L. 97–437, §1(2), added par. (2).
 
 #### Effective Date of 2002 Amendments
 
-Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
+Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, setout as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 

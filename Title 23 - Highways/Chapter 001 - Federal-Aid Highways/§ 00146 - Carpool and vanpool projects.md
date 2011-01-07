@@ -12,7 +12,7 @@ A prior section 146, Pub. L. 93–87, title I, §125(a), Aug. 13, 1973, 87 Stat.
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–178 substituted “sections 104(b)(1) and 104(b)(3)” for “sections 104(b)(1), 104(b)(2), and 104(b)(6)”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–178 substituted “sections 104(b)(1) and 104(b)(3)” for “sections 104(b)(1), 104(b)(2), and 104(b)(6)”.
 
 #### Use of High Occupancy Lanes
 

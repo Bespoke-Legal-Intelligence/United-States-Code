@@ -24,7 +24,7 @@ On or after November 13, 1998, a concessioner that constructs a capital improvem
 
 (1) A concessioner which has obtained a possessory interest as defined pursuant to Public Law 89–249 (commonly known as the National Park Service Concessions Policy Act; 16 U.S.C. 20 et seq.), as in effect on the day before November 13, 1998, under the terms of a concessions contract entered into before November 13, 1998, shall, upon the expiration or termination of such contract, be entitled to receive compensation for such possessory interest improvements in the amount and manner as described by such concessions contract. Where such a possessory interest is not described in the existing contract, compensation of possessory interest shall be determined in accordance with the laws in effect on the day before November 13, 1998.
 
-(2) In the event such prior concessioner is awarded a new concessions contract after the effective date of this subchapter replacing an existing concessions contract, the existing concessioner shall, instead of directly receiving such possessory interest compensation, have a leasehold surrender interest in its existing possessory interest improvements under the terms of the new contract and shall carry over as the initial value of such leasehold surrender interest (instead of construction cost) an amount equal to the value of the existing possessory interest as of the termination date of the previous contract. In the event of a dispute between the concessioner and the Secretary as to the value of such possessory interest, the matter shall be resolved through binding arbitration.
+(2) In the event such prior concessioner is awarded a new concessions contract after the effective date of this subchapter replacing an existing concessions contract, the existing concessioner shall, instead of directly receiving such possessory interest compensation, have a leasehold surrender interest in its existing possessory interest improvements under the terms of the new contract and shall carry over as the initial value of such leasehold surrender interest (instead of construction cost) an amount equal to the value of the existing possessory interest asof the termination date of the previous contract. In the event of a dispute between the concessioner and the Secretary as to the value of such possessory interest, the matter shall be resolved through binding arbitration.
 
 (3) In the event that a new concessioner is awarded a concessions contract and is required to pay a prior concessioner for possessory interest in prior improvements, the new concessioner shall have a leasehold surrender interest in such prior improvements and the initial value in such leasehold surrender interest (instead of construction cost), shall be an amount equal to the value of the existing possessory interest as of the termination date of the previous contract.
 
@@ -59,8 +59,6 @@ Not later than 7 years after November 13, 1998, the Secretary shall submit a rep
 (Pub. L. 105–391, title IV, §405, Nov. 13, 1998, 112 Stat. 3508.)
 
 #### References in Text
-
-The Federal income tax laws, referred to in subsec. (a)(4), are classified generally to Title 26, Internal Revenue Code.
 
 The National Park Service Concessions Policy Act, referred to in subsec. (b)(1), is Pub. L. 89–249, Oct. 9, 1965, 79 Stat. 969, which was classified generally to subchapter IV (§20 et seq.) of chapter 1 of this title prior to repeal by Pub. L. 105–391, title IV, §415(a), Nov. 13, 1998, 112 Stat. 3515.
 

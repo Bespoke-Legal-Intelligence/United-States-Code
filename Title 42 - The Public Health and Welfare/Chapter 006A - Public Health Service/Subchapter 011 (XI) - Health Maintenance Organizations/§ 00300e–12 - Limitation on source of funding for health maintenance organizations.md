@@ -18,11 +18,11 @@ The reference to section 254b of this title the first place appearing in text wa
 
 #### Amendments
 
-2003—Pub. L. 108–163 substituted “254b and 254b” for “254b, 254c, and 254b(h)” in introductory provisions.
+<b>2003</b>—Pub. L. 108–163 substituted “254b and 254b” for “254b, 254c, and 254b(h)” in introductory provisions.
 
-2002—Pub. L. 107–251 substituted “254b(h)” for “256” in introductory provisions.
+<b>2002</b>—Pub. L. 107–251 substituted “254b(h)” for “256” in introductory provisions.
 
-1978—Pub. L. 95–626 inserted “(except as provided in sections 254b, 254c, and 256 of this title)” after “under any provision of this chapter” in provisions preceding par. (1).
+<b>1978</b>—Pub. L. 95–626 inserted “(except as provided in sections 254b, 254c, and 256 of this title)” after “under any provision of this chapter” in provisions preceding par. (1).
 
 Par. (4). Pub. L. 95–559 inserted “or in meeting the costs of such organizations in acquiring or constructing ambulatory health care facilities” after “or entities”.
 

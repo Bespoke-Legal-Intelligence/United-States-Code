@@ -1,6 +1,12 @@
 ### §1934. “Indian” defined for certain purposes
 
-For the purposes of sections 1932 and 1933 of this title, the term “Indian” shall include persons defined in section 1603(c) of this title.
+For the purposes of sections 1932 and 1933 of this title, the term “Indian” shall include persons defined in section 1603(c) <sup>1</sup> of this title.
 
 (Pub. L. 95–608, title II, §204, Nov. 8, 1978, 92 Stat. 3077.)
+
+#### References in Text
+
+Section 1603(c) of this title, referred to in text, was redesignated section 1603(13) of this title by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

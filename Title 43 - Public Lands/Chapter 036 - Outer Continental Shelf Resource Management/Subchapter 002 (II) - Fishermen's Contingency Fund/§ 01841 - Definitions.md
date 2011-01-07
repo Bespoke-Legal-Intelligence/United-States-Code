@@ -24,9 +24,9 @@ As used in this subchapter, the term—
 
 &emsp;(3) “commercial fisherman” means any citizen of the United States who owns, operates, or derives income from being employed on a commercial fishing vessel;
 
-&emsp;(4) “commercial fishing vessel” means any vessel, boat, ship, or other craft which is (A) documented under the laws of the UnitedStates or, if under five net tons, registered under the laws of any State, and (B) used for, equipped to be used for, or of a type which is normally used for commercial purposes for the catching, taking, or harvesting of fish or the aiding or assisting of any activity related to the catching, taking, or harvesting of fish, including, but not limited to, preparation, supply, storage, refrigeration, transportation, or processing;
+&emsp;(4) “commercial fishing vessel” means any vessel, boat, ship, or other craft which is (A) documented under the laws of the United States or, if under five net tons, registered under the laws of any State, and (B) used for, equipped to be used for, or of a type which is normally used for commercial purposes for the catching, taking, or harvesting of fish or the aiding or assisting of any activity related to the catching, taking, or harvesting of fish, including, but not limited to, preparation, supply, storage, refrigeration, transportation, or processing;
 
-&emsp;(5) “fish” means finfish, mollusks, crustaceans, and all other forms of marine animal and plant life other than marine mammals, birds, and highly migratory species;
+&emsp;(5) “fish” means finfish, mollusks, crustaceans, and all other forms of marine animaland plant life other than marine mammals, birds, and highly migratory species;
 
 &emsp;(6) “fishing gear” means (A) any commercial fishing vessel, and (B) any equipment of such vessel, whether or not attached to such a vessel;
 
@@ -38,7 +38,7 @@ As used in this subchapter, the term—
 
 #### Amendments
 
-1982—Pub. L. 97–212 added par. (1), redesignated former pars. (1) to (7) as (2) to (8), respectively, and struck out “at sea” after “the aiding or assisting” in par. (4)(B) as redesignated.
+<b>1982</b>—Pub. L. 97–212 added par. (1), redesignated former pars. (1) to (7) as (2) to (8), respectively, and struck out “at sea” after “the aiding or assisting” in par. (4)(B) as redesignated.
 
 #### Effective Date of 1982 Amendment
 

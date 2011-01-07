@@ -10,7 +10,7 @@
 
 (3)(A) Prior to notifying the Secretary of the Treasury under paragraph (1) or (2) that an individual owes past-due support, the State shall send notice to such individual that a withholding will be made from any refund otherwise payable to such individual. The notice shall also (i) instruct the individual owing the past-due support of the steps which may be taken to contest the State's determination that past-due support is owed or the amount of the past-due support, and (ii) provide information, as may be prescribed by the Secretary of Health and Human Services by regulation in consultation with the Secretary of the Treasury, with respect to procedures to be followed, in the case of a joint return, to protect the share of the refund which may be payable to another person.
 
-(B) If the Secretary of the Treasury determines that an amount should be withheld under paragraph (1) or (2), and that the refund from which it should be withheld is based upon a joint return, the Secretary of the Treasury shall notify the State that the withholding is being made from a refund based upon a joint return, and shall furnish to the State the names and addresses of each taxpayer filing such joint return. In the case of a withholding under paragraph (2), the State may delay distribution of the amount withheld until the State has been notified by the Secretary of the Treasury that the other person filing the joint return has received his or her proper share of the refund, but such delay may not exceed six months.
+(B) If the Secretary of the Treasury determines that an amount should be withheld underparagraph (1) or (2), and that the refund from which it should be withheld is based upon a joint return, the Secretary of the Treasury shall notify the State that the withholding is being made from a refund based upon a joint return, and shall furnish to the State the names and addresses of each taxpayer filing such joint return. In the case of a withholding under paragraph (2), the State may delay distribution of the amount withheld until the State has been notified by the Secretary of the Treasury that the other person filing the joint return has received his or her proper share of the refund, but such delay may not exceed six months.
 
 (C) If the other person filing the joint return with the named individual owing the past-due support takes appropriate action to secure his or her proper share of a refund from which a withholding was made under paragraph (1) or (2), the Secretary of the Treasury shall pay such share to such other person. The Secretary of the Treasury shall deduct the amount of such payment from amounts subsequently payable to the State agency to which the amount originally withheld from such refund was paid.
 
@@ -38,33 +38,33 @@ The Internal Revenue Code of 1986, referred to in subsec. (a)(2)(B), is classifi
 
 #### Amendments
 
-2006—Subsec. (a)(2)(A). Pub. L. 109–171, §7301(f)(1)(A), struck out “(as that term is defined for purposes of this paragraph under subsection (c) of this section)” after “owes past-due support”.
+<b>2006</b>—Subsec. (a)(2)(A). Pub. L. 109–171, §7301(f)(1)(A), struck out “(as that term is defined for purposes of this paragraph under subsection (c) of this section)” after “owes past-due support”.
 
 Subsec. (c). Pub. L. 109–171, §7301(f)(1)(B), substituted “In this part” for “(1) Except as provided in paragraph (2), as used in this part”, inserted “(whether or not a minor)” after “a child” in two places, and struck out pars. (2) and (3) defining “past-due support” and “qualified child”, respectively.
 
-1997—Subsec. (a)(1). Pub. L. 105–33, §5513(a)(4), substituted “section 608(a)(3)” for “section 602(a)(26)”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–33, §5513(a)(4), substituted “section 608(a)(3)” for “section 602(a)(26)”.
 
 Subsec. (a)(2)(A). Pub. L. 105–33, §5531(b), substituted “section 654(4)(A)(ii)” for “section 654(6)” in first sentence.
 
 Pub. L. 105–33, §5532(i)(1), inserted “in accordance with section 657 of this title” after “owed” in penultimate sentence.
 
-1996—Subsec. (a)(1). Pub. L. 104–134, §31001(v)(2)(1), inserted at end “This subsection may be executed by the disbursing official of the Department of the Treasury.”
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–134, §31001(v)(2)(1), inserted at end “This subsection may be executed by the disbursing official of the Department of the Treasury.”
 
 Pub. L. 104–193 substituted “section 657” for “section 657(b)(4) or (d)(3)”.
 
-Subsec. (a)(2)(A). Pub. L. 104–134, §31001(v)(2)(2), inserted at end “This subsection may be executed by the Secretary of the Department of the Treasury or his designee.”
+Subsec. (a)(2)(A). Pub. L. 104–134, §31001(v)(2)(2), inserted at end “This subsection may be executed by theSecretary of the Department of the Treasury or his designee.”
 
-1990—Subsec. (a)(2)(B). Pub. L. 101–508, §5011(a), struck out “, and before January 1, 1991” after “1985”.
+<b>1990</b>—Subsec. (a)(2)(B). Pub. L. 101–508, §5011(a), struck out “, and before January 1, 1991” after “1985”.
 
 Subsec. (c)(2). Pub. L. 101–508, §5011(b)(1), substituted “qualified child (or a qualified child and the parent with whom the child is living if the same support order includes support for the child and the parent)” for “minor child”.
 
 Subsec. (c)(3). Pub. L. 101–508, §5011(b)(2), added par. (3).
 
-1986—Subsec. (a)(2)(B). Pub. L. 99–514, §2, substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (a)(2)(B). Pub. L. 99–514, §2, substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 Subsec. (b)(2)(A). Pub. L. 99–514, §1883(b)(8), substituted “threshold” for “threshhold”.
 
-1984—Subsec. (a). Pub. L. 98–378, §21(a), (b)(1), designated existing provisions as par. (1), substituted “shall concurrently send notice to such individual that the withholding has been made (including in or with such notice a notification to any other person who may have filed a joint return with such individual of the steps which such other person may take in order to secure his or her proper share of the refund), and shall pay” for “and pay”, and added pars. (2) and (3).
+<b>1984</b>—Subsec. (a). Pub. L. 98–378, §21(a), (b)(1), designated existing provisions as par. (1), substituted “shall concurrently send notice to such individual that the withholding has been made (including in or with such notice a notification to any other person who may have filed a joint return with such individual of the steps which such other person may take in order to secure his or her proper share of the refund), and shall pay” for “and pay”, and added pars. (2) and (3).
 
 Pub. L. 98–378, §11(d), inserted “or section 671(a)(17)” and substituted “section 657(b)(4) or (d)(3)” for “section 657(b)(3)”.
 

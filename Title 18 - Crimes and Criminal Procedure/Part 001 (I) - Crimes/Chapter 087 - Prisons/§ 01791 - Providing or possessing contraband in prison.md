@@ -20,9 +20,9 @@ Punishment.—The punishment for an offense under this section is a fine under t
 
 &emsp;(3) imprisonment for not more than 5 years, or both, if the object is specified in subsection (d)(1)(B) of this section;
 
-&emsp;(4) imprisonment for not more than one year, or both, if the object is specified in subsection (d)(1)(D) or (d)(1)(E) of this section; and
+&emsp;(4) imprisonment for not more than one year, or both, if the object is specified in subsection (d)(1)(D), (d)(1)(E), or (d)(1)(F) of this section; and
 
-&emsp;(5) imprisonment for not more than 6 months, or both, if the object is specified in subsection (d)(1)(F) of this section.
+&emsp;(5) imprisonment for not more than 6 months, or both, if the object is specified in subsection (d)(1)(G) of this section.
 
 (c)
 
@@ -42,9 +42,11 @@ Definitions.—As used in this section—
 
 &emsp;&emsp;(D) a controlled substance (other than a controlled substance referred to in subparagraph (A), (B), or (C) of this subsection) or an alcoholic beverage;
 
-&emsp;&emsp;(E) any United States or foreign currency; and
+&emsp;&emsp;(E) any United States or foreign currency;
 
-&emsp;&emsp;(F) any other object that threatens the order, discipline, or security of a prison, or the life, health, or safety of an individual;
+&emsp;&emsp;(F) a phone or other device used by a user of commercial mobile service (as defined in section 332(d) of the Communications Act of 1934 (47 U.S.C. 332(d))) in connection with such service; and
+
+&emsp;&emsp;(G) any other object that threatens the order, discipline, or security of a prison, or the life, health, or safety of an individual;
 
 &emsp;(2) the terms “ammunition”, “firearm”, and “destructive device” have, respectively, the meanings given those terms in section 921 of this title;
 
@@ -52,7 +54,7 @@ Definitions.—As used in this section—
 
 &emsp;(4) the term “prison” means a Federal correctional, detention, or penal facility or any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General.
 
-(June 25, 1948, ch. 645, 62 Stat. 786; Pub. L. 98–473, title II, §1109(a), Oct. 12, 1984, 98 Stat. 2147; Pub. L. 99–646, §52(a), Nov. 10, 1986, 100 Stat. 3606; Pub. L. 100–690, title VI, §6468(a), (b), Nov. 18, 1988, 102 Stat. 4376; Pub. L. 103–322, title IX, §90101, title XXXIII, §330003(a), Sept. 13, 1994,108 Stat. 1986, 2140; Pub. L. 104–294, title VI, §601(m), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 109–162, title XI, §1178, Jan. 5, 2006, 119 Stat. 3126.)
+(June 25, 1948, ch. 645, 62 Stat. 786; Pub. L. 98–473, title II, §1109(a), Oct. 12, 1984, 98 Stat. 2147; Pub. L. 99–646, §52(a), Nov. 10, 1986, 100 Stat. 3606; Pub. L. 100–690, title VI, §6468(a), (b), Nov. 18, 1988, 102 Stat. 4376; Pub. L. 103–322, title IX, §90101, title XXXIII, §330003(a), Sept. 13, 1994,108 Stat. 1986, 2140; Pub. L. 104–294, title VI, §601(m), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 109–162, title XI, §1178, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 111–225, §2, Aug. 10, 2010, 124 Stat. 2387.)
 
 #### Historical and Revision Notes
 
@@ -72,11 +74,17 @@ Schedules I, II, and III, referred to in subsec. (d)(1)(A), (B), probably mean s
 
 #### Amendments
 
-2006—Subsec. (d)(4). Pub. L. 109–162 inserted “or any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “penal facility”.
+<b>2010</b>—Subsec. (b)(4). Pub. L. 111–225, §2(1)(A), substituted “, (d)(1)(E), or (d)(1)(F)” for “or (d)(1)(E)”.
 
-1996—Subsec. (c). Pub. L. 104–294 inserted heading.
+Subsec. (b)(5). Pub. L. 111–225, §2(1)(B), substituted “(d)(1)(G)” for “(d)(1)(F)”.
 
-1994—Subsec. (b)(2) to (5). Pub. L. 103–322, §§90101(6), 330003(a), amended subsec. (b) identically, substituting “(d)” for “(c)” wherever appearing in pars. (2) to (5).
+Subsec. (d)(1)(F), (G). Pub. L. 111–225, §2(2), added subpar. (F) and redesignated former subpar. (F) as (G).
+
+<b>2006</b>—Subsec. (d)(4). Pub. L. 109–162 inserted “or any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “penal facility”.
+
+<b>1996</b>—Subsec. (c). Pub. L. 104–294 inserted heading.
+
+<b>1994</b>—Subsec. (b)(2) to (5). Pub. L. 103–322, §§90101(6), 330003(a), amended subsec. (b) identically, substituting “(d)” for “(c)” wherever appearing in pars. (2) to (5).
 
 Subsec. (c). Pub. L. 103–322, §90101(1), inserted at beginning “Any punishment imposed under subsection (b) for a violation of this section involving a controlled substance shall be consecutive to any other sentence imposed by any court for an offense involving such a controlled substance.”
 
@@ -88,11 +96,11 @@ Subsec. (d)(1)(C). Pub. L. 103–322, §90101(4), inserted “methamphetamine, i
 
 Subsec. (d)(1)(D). Pub. L. 103–322, §90101(5), inserted “(A), (B), or” before “(C)”.
 
-1988—Subsec. (b). Pub. L. 100–690, §6468(a), added par. (1), redesignated former pars. (1) to (4) as (2) to (5), respectively, and struck out “or (c)(1)(C)” after “subsection (c)(1)(B)” in par. (3) as redesignated.
+<b>1988</b>—Subsec. (b). Pub. L. 100–690, §6468(a), added par. (1), redesignated former pars. (1) to (4) as (2) to (5), respectively, and struck out “or (c)(1)(C)” after “subsection (c)(1)(B)” in par. (3) as redesignated.
 
 Subsecs. (c), (d). Pub. L. 100–690, §6468(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1986—Pub. L. 99–646 amended section generally. Prior to amendment, section read as follows:
+<b>1986</b>—Pub. L. 99–646 amended section generally. Prior to amendment, section read as follows:
 
 “(a)
 
@@ -130,7 +138,7 @@ Grading.—An offense described in this section is punishable by—
 
 Definitions.—As used in this section, ‘firearm’ and ‘destructive device’ have the meaning given those terms, respectively, in 18 U.S.C. 921(a)(3) and (4).”
 
-1984—Pub. L. 98–473 substituted provisions relating to providing or possessing contraband in prison, grading of offenses and definitions of “firearm” and “destructive device” for former provisions relating to traffic in contraband articles.
+<b>1984</b>—Pub. L. 98–473 substituted provisions relating to providing or possessing contraband in prison, grading of offenses and definitions of “firearm” and “destructive device” for former provisions relating to traffic in contraband articles.
 
 #### Effective Date of 1986 Amendment
 

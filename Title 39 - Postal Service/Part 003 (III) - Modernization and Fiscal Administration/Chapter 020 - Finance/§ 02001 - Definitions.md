@@ -14,7 +14,7 @@ Competitive products fund.—The term “Competitive Products Fund” means the 
 
 #### Amendments
 
-2006—Pars. (2), (3). Pub. L. 109–435 added par. (2) and redesignated former par. (2) as (3).
+<b>2006</b>—Pars. (2), (3). Pub. L. 109–435 added par. (2) and redesignated former par. (2) as (3).
 
 #### Effective Date
 

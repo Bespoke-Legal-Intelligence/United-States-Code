@@ -26,7 +26,7 @@ Unless otherwise directed pursuant to the governing instrument by specific refer
 
 #### Amendments
 
-1986—Pub. L. 99–514 amended section generally, substituting tax liability provisions consisting of language placing liability, under different circumstances, on the transferee, the trustee, or the transferor, the source of the tax, and a cross reference to section 2661 for former provisions which covered the question of liability for tax with language covering the trustee and the distributee, the limitation on personal liability of the trustee who relied on certain information furnished by the Secretary, the limitation on personal liability of distributee, and the lien on property transferred until the tax was paid in full or became unenforceable by reason of lapse of time.
+<b>1986</b>—Pub. L. 99–514 amended section generally, substituting tax liability provisions consisting of language placing liability, under different circumstances, on the transferee, the trustee, or the transferor, the source of the tax, and a cross reference to section 2661 for former provisions which covered the question of liability for tax with language covering the trustee and the distributee, the limitation on personal liability of the trustee who relied on certain information furnished by the Secretary, the limitation on personal liability of distributee, and the lien on property transferred until the tax was paid in full or became unenforceable by reason of lapse of time.
 
 #### Effective Date of 1986 Amendment
 

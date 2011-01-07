@@ -30,7 +30,7 @@ Section 41b, act June 2, 1920, ch. 219, §13, as added Nov. 8, 1965, Pub. L. 89�
 
 Section 41c, act June 2, 1920, ch. 219, §14, as added Nov. 8, 1965, Pub. L. 89–333, §3, 79 Stat. 1288, related to waiver in the case of locally financed activity of requirement that plan be statewide.
 
-Sections 31 to 41c, referred to above, and sections 42–1 to 42b of this title, were known as the Vocational Rehabilitation Act. Section 500(a) of Pub. L. 93–112, which repealed that Act, also provided that references to such Vocational Rehabilitation Act in any other provision of law would, ninety days after Sept. 26, 1973, be deemedto be references to the Rehabilitation Act of 1973, which is classified generally to chapter 15 (§701 et seq.) of this title.
+Sections 31 to 41c, referred to above, and sections 42–1 to 42b of this title, were known as the Vocational Rehabilitation Act. Section 500(a) of Pub. L. 93–112, which repealed that Act, also provided that references to such Vocational Rehabilitation Act in any other provision of law would, ninety days after Sept. 26, 1973, be deemed to be references to the Rehabilitation Act of 1973, which is classified generally to chapter 15 (§701 et seq.) of this title.
 
 On enactment of the Rehabilitation Act of 1973, such former provisions were covered by various new sections of this title as follows:
 
@@ -148,9 +148,9 @@ Act Aug. 3, 1954, ch. 655, §7, 68 Stat. 665, required the Secretary of Health, 
 
 #### State Compliance With Chapter
 
-Act July 6, 1943, ch. 190, §3(b), 57 Stat. 380, authorized particular States which were unable to comply withthe preconditions of act June 2, 1920, ch. 219, 41 Stat. 735, on July 6, 1943, to secure the benefits of such act, for a period of sixty days after their particular State legislatures meet for the first time after such date.
+Act July 6, 1943, ch. 190, §3(b), 57 Stat. 380, authorized particular States which were unable to comply with the preconditions of act June 2, 1920, ch. 219, 41 Stat. 735, on July 6, 1943, to secure the benefits of such act, for a period of sixty days after their particular State legislatures meet for the first time after such date.
 
 #### Appropriations for Vocational Rehabilitation
 
-Act June 26, 1940, ch. 428, 54 Stat. 583, making appropriations for the fiscal year ending June 30, 1941, made certain appropriations for cooperative vocational rehabilitation, and expenses connected therewith, with provisions for apportionment to the States to be computed in accordance with act June 2, 1920, ch. 219, 41 Stat. 735, and other acts.
+Act June 26, 1940, ch. 428, 54 Stat. 583, making appropriations for the fiscal year ending June 30, 1941, madecertain appropriations for cooperative vocational rehabilitation, and expenses connected therewith, with provisions for apportionment to the States to be computed in accordance with act June 2, 1920, ch. 219, 41 Stat. 735, and other acts.
 

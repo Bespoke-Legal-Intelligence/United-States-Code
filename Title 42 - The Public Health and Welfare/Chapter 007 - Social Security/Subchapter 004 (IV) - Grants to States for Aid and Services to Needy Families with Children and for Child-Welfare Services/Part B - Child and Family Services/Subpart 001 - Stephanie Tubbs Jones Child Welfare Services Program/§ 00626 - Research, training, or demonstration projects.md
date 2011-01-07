@@ -38,7 +38,7 @@ The Secretary may approve an application for a grant to a public or nonprofit in
 
 &emsp;&emsp;(B) permit an individual who is employed in the field of child welfare services to apply for a traineeship with a stipend if the traineeship furthers the progress of the individual toward the completion of degree requirements; and
 
-&emsp;&emsp;(C) develop and implement a system that, for the 3-year period that begins on the date any recipient completes a child welfare services program of study, tracks the employment record of the recipient, for the purpose of determining the percentage of recipients who secure employment in the field of child welfare services and remain employed in the field.
+&emsp;&emsp;(C) develop and implement a system that, for the 3-year period that begins on the dateany recipient completes a child welfare services program of study, tracks the employment record of the recipient, for the purpose of determining the percentage of recipients who secure employment in the field of child welfare services and remain employed in the field.
 
 (Aug. 14, 1935, ch. 531, title IV, §426, as added Pub. L. 90–248, title II, §240(c), Jan. 2, 1968, 81 Stat. 915; amended Pub. L. 100–203, title IX, §9137, Dec. 22, 1987, 101 Stat. 1330–319; Pub. L. 103–432, title II, §205(b), Oct. 31, 1994, 108 Stat. 4457; Pub. L. 109–288, §§6(f)(2), 11(b), Sept. 28, 2006, 120 Stat. 1247, 1255.)
 
@@ -52,15 +52,15 @@ Section 628a of this title, which was transferred and redesignated as subsec. (c
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–288, §11(b), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to appropriations for demonstration projects for development of alternate care arrangements for infants not requiring hospitalization.
+<b>2006</b>—Subsec. (b). Pub. L. 109–288, §11(b), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to appropriations for demonstration projects for development of alternate care arrangements for infants not requiring hospitalization.
 
 Subsec. (c). Pub. L. 109–288, §6(f)(2), amended section as amended by Pub. L. 109–288, §11(b), by transferring section 628a of this title and redesignating it as subsec. (c) of this section. See Codification note above.
 
 Pub. L. 109–288, §11(b), redesignated subsec. (c) as (b).
 
-1994—Subsec. (a)(1)(C). Pub. L. 103–432 inserted “described in section 628a of this title” after “including traineeships”.
+<b>1994</b>—Subsec. (a)(1)(C). Pub. L. 103–432 inserted “described in section 628a of this title” after “including traineeships”.
 
-1987—Subsecs. (b), (c). Pub. L. 100–203 added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>1987</b>—Subsecs. (b), (c). Pub. L. 100–203 added subsec. (b) and redesignated former subsec. (b) as (c).
 
 #### Effective Date of 2006 Amendment
 

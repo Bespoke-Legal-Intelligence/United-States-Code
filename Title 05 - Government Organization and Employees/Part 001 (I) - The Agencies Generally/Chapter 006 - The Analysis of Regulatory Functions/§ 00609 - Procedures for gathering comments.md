@@ -28,7 +28,7 @@
 
 (c) An agency may in its discretion apply subsection (b) to rules that the agency intends to certify under subsection 605(b), but the agency believes may have a greater than de minimis impact on a substantial number of small entities.
 
-(d) For purposes of this section, the term “covered agency” means the Environmental Protection Agency and the Occupational Safety and Health Administration of the Department of Labor.
+(d) For purposes of this section, the term “covered agency” means the EnvironmentalProtection Agency and the Occupational Safety and Health Administration of the Department of Labor.
 
 (e) The Chief Counsel for Advocacy, in consultation with the individuals identified in subsection (b)(2), and with the Administrator of the Office of Information and Regulatory Affairs within the Office of Management and Budget, may waive the requirements of subsections (b)(3), (b)(4), and (b)(5) by including in the rulemaking record a written finding, with reasons therefor, that those requirements would not advance the effective participation of small entities in the rulemaking process. For purposes of this subsection, the factors to be considered in making such a finding are as follows:
 
@@ -38,7 +38,19 @@
 
 &emsp;(3) Whether the requirements of subsection (b) would provide the individuals identified in subsection (b)(2) with a competitive advantage relative to other small entities.
 
-(Added Pub. L. 96–354, §3(a), Sept. 19, 1980, 94 Stat. 1168; amended Pub. L. 104–121, title II, §244(a), Mar. 29, 1996, 110 Stat. 867.)
+(Added Pub. L. 96–354, §3(a), Sept. 19, 1980, 94 Stat. 1168; amended Pub. L. 104–121, title II, §244(a), Mar. 29, 1996, 110 Stat. 867; Pub. L. 111–203, title X, §1100G(a), July 21, 2010, 124 Stat. 2112.)
+
+#### Amendment of Subsection (d)
+
+<i>Pub. L. 111–203, title X, §§1100G(a), 1100H, July 21, 2010, 124 Stat. 2112, 2113, provided that, effective on the designated transfer date, subsection (d) of this section is amended by striking “means the” and all that follows and inserting the following: “means—</i>
+
+&emsp;<i>“(1) the Environmental Protection Agency;</i>
+
+&emsp;<i>“(2) the Consumer Financial Protection Bureau of the Federal Reserve System; and</i>
+
+&emsp;<i>“(3) the Occupational Safety and Health Administration of the Department of Labor.”.</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
@@ -47,6 +59,10 @@
 Pub. L. 104–121, §244(a)(1), which directed insertion of “the reasonable use of” before “techniques,” in introductory provisions, was executed by making the insertion in text which did not contain a comma after the word “techniques” to reflect the probable intent of Congress.
 
 Subsecs. (b) to (e). Pub. L. 104–121, §244(a)(4), added subsecs. (b) to (e).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of this title.
 
 #### Effective Date of 1996 Amendment
 

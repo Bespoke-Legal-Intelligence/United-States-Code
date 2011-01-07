@@ -6,8 +6,6 @@ Subpart E—Treatment of Transfers to Retiree Health Accounts
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. The period probably should be preceded by an additional closing parenthesis.</i>
-
 
 ---
 

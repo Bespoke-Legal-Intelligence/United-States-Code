@@ -24,7 +24,7 @@ To appoint a bank or trust company with its home office in the State of Arizona 
 
 #### (f) Entering business ventures as shareholder, or as limited partner with corporation, firm or person operating within park
 
-To enter into any business venture as a shareholder of a corporation issuing nonassessable stock, or as a limited partner with any corporation, firm or person operating within said Hopi Industrial Park.
+To enter into any business venture as a shareholder of a corporation issuing nonassessablestock, or as a limited partner with any corporation, firm or person operating within said Hopi Industrial Park.
 
 #### (g) Lease of lands and improvements thereon
 

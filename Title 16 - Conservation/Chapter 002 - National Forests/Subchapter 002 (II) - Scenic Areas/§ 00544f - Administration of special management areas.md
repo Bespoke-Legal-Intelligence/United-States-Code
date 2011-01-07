@@ -36,9 +36,9 @@ Within three years after November 17, 1986, the Secretary shall develop land use
 
 #### (h) <sup>3</sup> Adoption of special management area land use ordinances
 
-(1) Within sixty days of receipt of the management plan, each county shall submit to the Commission a letter stating that it proposes to adopt a land use ordinance consistent with the management plan. If any county fails to submit a letter as provided in this subsection, or fails toadopt a land use ordinance as provided in this section, the Commission shall carry out the requirements of subsection (<i>l</i>) of this section.
+(1) Within sixty days of receipt of the management plan, each county shall submit to the Commission a letter stating that it proposes to adopt a land use ordinance consistent with the management plan. If any county fails to submit a letter as provided in this subsection, or fails to adopt a land use ordinance as provided in this section, the Commission shall carry out the requirements of subsection (<i>l</i>) of this section.
 
-(2) Within two hundred seventy days of receipt of the management plan, each county shall adopt a special management area land use ordinance consistent with the management plan, and thereafter may adopt an amendment, revision or variance to a land use ordinance at any time. Each county upon adoption of a special management area land use ordinance shall promptly submit the adopted ordinance to the Commission.
+(2) Within two hundred seventy days of receipt of the management plan, each county shalladopt a special management area land use ordinance consistent with the management plan, and thereafter may adopt an amendment, revision or variance to a land use ordinance at any time. Each county upon adoption of a special management area land use ordinance shall promptly submit the adopted ordinance to the Commission.
 
 #### (i) Review by Commission
 
@@ -74,7 +74,7 @@ Upon receipt of notification of nonconcurrence by the Secretary, the Commission 
 
 &emsp;(A) revise and resubmit the land use ordinance to the Secretary; or
 
-&emsp;(B) by a vote of two-thirds of its membership, including a majority of the members appointed from each State, reject the suggested modifications of the Secretary and adopt aland use ordinance consistent with the provisions of this section and the purposes of sections 544 to 544p of this title.
+&emsp;(B) by a vote of two-thirds of its membership, including a majority of the members appointed from each State, reject the suggested modifications of the Secretary and adopt a land use ordinance consistent with the provisions of this section and the purposes of sections 544 to 544p of this title.
 
 #### (m) Subsequent compliance
 
@@ -96,17 +96,9 @@ If the Secretary does not concur in any land use ordinance approved or adopted b
 
 (Pub. L. 99–663, §8, Nov. 17, 1986, 100 Stat. 4283; Pub. L. 106–291, title III, §346(b), Oct. 11, 2000, 114 Stat. 999.)
 
-#### References in Text
-
-The public land laws, referred to in subsec. (b), are classified generally to Title 43, Public Lands.
-
-The mining laws of the United States and the laws pertaining to mineral leasing, referred to in subsec. (b), are classified generally to Title 30, Mineral Lands and Mining.
-
-Laws pertaining to geothermal leasing, referred to in subsec. (b), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
-
 #### Amendments
 
-2000—Subsec. (<i>o</i>). Pub. L. 106–291 designated existing provisions as par. (1), inserted par. heading, substituted “section 544g(e) of this title.” for “the Uniform Appraisal Standards for Federal Land Acquisitions (Interagency Land Acquisition Conference, 1973).” in first sentence, and added par. (2).
+<b>2000</b>—Subsec. (<i>o</i>). Pub. L. 106–291 designated existing provisions as par. (1), inserted par. heading, substituted “section 544g(e) of this title.” for “the Uniform Appraisal Standards for Federal Land Acquisitions (Interagency Land Acquisition Conference, 1973).” in first sentence, and added par. (2).
 
 #### Administration, Operation, and Maintenance of Pierce National Wildlife Refuge and Little White Salmon National Fish Hatchery
 

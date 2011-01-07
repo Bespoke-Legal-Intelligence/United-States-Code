@@ -38,15 +38,15 @@ If the taxpayer establishes to the satisfaction of the Secretary that—
 
 #### Amendments
 
-1986—Pub. L. 99–514, §1121(a)(1), amended section generally, substituting provisions imposing an excise tax on certain accumulations in qualified retirement plans for provisions imposing an excise tax on certain accumulations in individual retirement accounts and annuities.
+<b>1986</b>—Pub. L. 99–514, §1121(a)(1), amended section generally, substituting provisions imposing an excise tax on certain accumulations in qualified retirement plans for provisions imposing an excise tax on certain accumulations in individual retirement accounts and annuities.
 
 Subsec. (a). Pub. L. 99–514, §1852(a)(7)(B), substituted “section 408(a)(6) or 408(b)(3)” for “section 408(a)(6) or (7), or 408(b)(3) or (4)”.
 
 Subsec. (b). Pub. L. 99–514, §1852(a)(7)(C), substituted “section 408(a)(6) or 408(b)(3)” for “section 408(a)(6) or (7) or 408(b)(3) or (4)”.
 
-1978—Subsec. (c). Pub. L. 95–600 added subsec. (c).
+<b>1978</b>—Subsec. (c). Pub. L. 95–600 added subsec. (c).
 
-1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 1986 Amendment
 

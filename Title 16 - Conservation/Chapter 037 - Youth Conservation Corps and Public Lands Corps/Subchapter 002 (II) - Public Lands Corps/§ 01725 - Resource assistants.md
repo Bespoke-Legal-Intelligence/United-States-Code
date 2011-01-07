@@ -10,15 +10,9 @@ Whenever one or more existing nonprofit organizations can provide, in the judgme
 
 (Pub. L. 91–378, title II, §206, as added Pub. L. 103–82, title I, §105(6), Sept. 21, 1993, 107 Stat. 852; amended Pub. L. 109–154, §2(g)(3), Dec. 30, 2005, 119 Stat. 2893.)
 
-#### References in Text
-
-The civil service laws, referred to in subsec. (a), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
-The classification laws, referred to in subsec. (a), are classified to chapter 51 (§5101 et seq.) and subchapter III (§5331 et seq.) of chapter 53 of Title 5.
-
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–154, §2(g)(3)(A), substituted “Secretary is” for “Secretary of the Interior and the Secretary of Agriculture are each”, “the Secretary to carry out” for “such Secretary to carry out”, “Secretary may” for “Secretaries may”, and “Secretary shall” for “Secretaries shall”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–154, §2(g)(3)(A), substituted “Secretary is” for “Secretary of the Interior and the Secretary of Agriculture are each”, “the Secretary to carry out” for “such Secretary to carry out”, “Secretary may” for “Secretaries may”, and “Secretary shall” for “Secretaries shall”.
 
 Subsec. (b). Pub. L. 109–154, §2(g)(3)(B), substituted “the Secretary, appropriate” for “Secretary of the Interior or the Secretary of Agriculture, appropriate”.
 

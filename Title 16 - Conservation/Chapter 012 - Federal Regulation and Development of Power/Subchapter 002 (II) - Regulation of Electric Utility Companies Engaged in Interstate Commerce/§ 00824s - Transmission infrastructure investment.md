@@ -12,7 +12,7 @@ The rule shall—
 
 &emsp;(2) provide a return on equity that attracts new investment in transmission facilities (including related transmission technologies);
 
-&emsp;(3) encourage deployment of transmission technologies and other measures to increasethe capacity and efficiency of existing transmission facilities and improve the operation of the facilities; and
+&emsp;(3) encourage deployment of transmission technologies and other measures to increase the capacity and efficiency of existing transmission facilities and improve the operation of the facilities; and
 
 &emsp;(4) allow recovery of—
 

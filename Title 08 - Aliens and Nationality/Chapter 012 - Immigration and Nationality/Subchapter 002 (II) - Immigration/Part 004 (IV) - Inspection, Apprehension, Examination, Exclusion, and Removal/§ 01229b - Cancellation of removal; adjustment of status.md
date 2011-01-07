@@ -58,7 +58,7 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 #### (3) Recordation of date
 
-&emsp;With respect to aliens who the Attorney General adjusts to the status of an alien lawfully admitted for permanent residence under paragraph (1) or (2), the Attorney General shall record the alien's lawful admission forpermanent residence as of the date of the Attorney General's cancellation of removal under paragraph (1) or (2).
+&emsp;With respect to aliens who the Attorney General adjusts to the status of an alien lawfully admitted for permanent residence under paragraph (1) or (2), the Attorney General shall record the alien's lawful admission for permanent residence as of the date of the Attorney General's cancellation of removal under paragraph (1) or (2).
 
 #### (4) Children of battered aliens and parents of battered alien children
 
@@ -190,7 +190,7 @@ Section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act o
 
 2008—Subsec. (b)(6). Pub. L. 110–457 added par. (6).
 
-2006—Subsec. (b)(1)(C). Pub. L. 109–162, §813(c)(1)(A), substituted “, subject to paragraph (5)” for “(except in a case described in section 1227(a)(7) of this title wherethe Attorney General exercises discretion to grant a waiver)”.
+2006—Subsec. (b)(1)(C). Pub. L. 109–162, §813(c)(1)(A), substituted “, subject to paragraph (5)” for “(except in a case described in section 1227(a)(7) of this title where the Attorney General exercises discretion to grant a waiver)”.
 
 Subsec. (b)(2)(A)(iv). Pub. L. 109–162, §813(c)(1)(B), substituted “, subject to paragraph (5)” for “(except in a case described in section 1227(a)(7) of this title where the Attorney General exercises discretion to grant a waiver)”.
 

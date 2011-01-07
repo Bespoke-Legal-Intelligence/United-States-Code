@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—PROCUREMENT AND WAREHOUSING
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Federal Citizen Services Fund”.</i>
-
-<i><sup>2</sup></i><i> So in original. See 2009 Amendment notes below.</i>
-
 
 ---
 

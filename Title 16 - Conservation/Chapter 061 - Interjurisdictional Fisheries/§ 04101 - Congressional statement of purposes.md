@@ -12,11 +12,11 @@ The purposes of this chapter are—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 99–659, Nov. 14, 1986, 100 Stat. 3731, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 99–659, Nov. 14,1986, 100 Stat. 3731, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
-2002—Par. (3). Pub. L. 107–372 added par. (3).
+<b>2002</b>—Par. (3). Pub. L. 107–372 added par. (3).
 
 #### Effective Date
 

@@ -1,7 +1,5 @@
 ### SUBCHAPTER II—PREVENTION OF UNINTENTIONAL INTRODUCTIONS OF NONINDIGENOUS AQUATIC SPECIES
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Canadian”.</i>
-
 
 ---
 

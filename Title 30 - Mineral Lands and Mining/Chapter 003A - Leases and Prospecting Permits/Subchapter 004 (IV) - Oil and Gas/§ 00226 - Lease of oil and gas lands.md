@@ -12,7 +12,7 @@ All lands subject to disposition under this chapter which are known or believed 
 
 (2)(A)(i) If the lands to be leased are within a special tar sand area, they shall be leased to the highest responsible qualified bidder by competitive bidding under general regulations in units of not more than 5,760 acres, which shall be as nearly compact as possible, upon the payment by the lessee of such bonus as may be accepted by the Secretary.
 
-(ii) Royalty shall be 121/2 per centum in amount or value of production removed or sold from the lease, subject to subsection (k)(1)(c) <sup>1</sup> of this section.
+(ii) Royalty shall be 12½ per centum in amount or value of production removed or sold from the lease, subject to subsection (k)(1)(c) <sup>1</sup> of this section.
 
 (iii) The Secretary may lease such additional lands in special tar sand areas as may be required in support of any operations necessary for the recovery of tar sands.
 
@@ -86,11 +86,11 @@ If, during the primary term or any extended term of any lease issued under this 
 
 #### (<i>l</i>) Exchange of leases; conditions
 
-The Secretary of the Interior shall, upon timely application therefor, issue a new lease in exchange for any lease issued for a term of twenty years, or any renewal thereof, or any lease issued prior to August 8, 1946, in exchange for a twenty-year lease, such new lease to be for a primary term of five years and so long thereafter as oil or gas is produced in paying quantities and at a royalty rate of not less than 121/2 per centum in amount or value of the production removed or sold from such leases, except that the royalty rate shall be 121/2 per centum in amount or value of the production removed or sold from said leases as to (1) such leases, or such parts of the lands subject thereto and the deposits underlying the same, as are not believed to be within the productive limits of any producing oil or gas deposit, as such productive limits are found by the Secretary to have existed on August 8, 1946; and (2) any production on a lease from an oil or gas deposit which was discovered after May 27, 1941, by a well or wells drilledwithin the boundaries of the lease, and which is determined by the Secretary to be a new deposit; and (3) any production on or allocated to a lease pursuant to an approved cooperative or unit plan of development or operation from an oil or gas deposit which was discovered after May 27, 1941, on land committed to such plan, and which is determined by the Secretary to be a new deposit, where such lease, or a lease for which it is exchanged, was included in such plan at the time of discovery or was included in a duly executed and filed application for the approval of such plan at the time of discovery.
+The Secretary of the Interior shall, upon timely application therefor, issue a new lease in exchange for any lease issued for a term of twenty years, or any renewal thereof, or any lease issued prior to August 8, 1946, in exchange for a twenty-year lease, such new lease to be for a primary term of five years and so long thereafter as oil or gas is produced in paying quantities and at a royalty rate of not less than 12½ per centum in amount or value of the production removed or sold from such leases, except that the royalty rate shall be 12½ per centum in amount or value of the production removed or sold from said leases as to (1) such leases, or such parts of the lands subject thereto and the deposits underlying the same, as are not believed to be within the productive limits of any producing oil or gas deposit, as such productive limits are found by the Secretary to have existed on August 8, 1946; and (2) any production on a lease from an oil or gas deposit which was discovered after May 27, 1941, by a well or wells drilled within the boundaries of the lease, and which is determined by the Secretary to be a new deposit; and (3) any production on or allocated to a lease pursuant to an approved cooperative or unit plan of development or operation from an oil or gas deposit which was discovered after May 27, 1941, on land committed to such plan, and which is determined by the Secretary to be a new deposit, where such lease, or a lease for which it is exchanged, was included in such plan at the time of discovery or was included in a duly executed and filed application for the approval of such plan at the time of discovery.
 
 #### (m) Cooperative or unit plan; authority of Secretary of the Interior to alter or modify; communitization or drilling agreements; term of lease, conditions; Secretary to approve operating, drilling or development contracts, and subsurface storage
 
-For the purpose of more properly conserving the natural resources of any oil or gas pool, field, or like area, or any part thereof (whether or not any part of said oil or gas pool, field, or like area, is then subject to any cooperative or unit plan of development or operation), lessees thereof and their representatives may unite with each other, or jointly or separately with others, in collectively adopting and operating under a cooperative or unit plan of development or operation of such pool, field, or like area, or any part thereof, whenever determined and certified by the Secretary of the Interior to be necessary or advisable in the public interest. The Secretary is thereunto authorized, in his discretion, with the consent of the holders of leases involved, to establish, alter, change, or revoke drilling, producing, rental, minimum royalty, and royalty requirements of such leases and to make such regulations with reference to such leases, with like consent on the part of the lessees, in connection with the institution and operation of any such cooperative or unit plan as he may deem necessary or proper to secure the proper protection of the public interest. The Secretary may provide that oil and gas leases hereafter issued under this chapter shall contain a provision requiring the lessee to operate under such a reasonable cooperative or unit plan, and he may prescribe such a plan under which such lessee shall operate, which shall adequately protect the rights of all parties in interest, including the United States.
+For the purpose of more properly conserving the natural resources of any oil or gas pool, field, or like area, or any part thereof (whether or not any part of said oil or gas pool, field, or like area, is then subject to any cooperative or unit plan of development or operation), lessees thereof and their representatives may unite with each other, or jointly or separately with others, in collectively adopting and operating under a cooperative or unit plan of development or operation of such pool, field, or like area, orany part thereof, whenever determined and certified by the Secretary of the Interior to be necessary or advisable in the public interest. The Secretary is thereunto authorized, in his discretion, with the consent of the holders of leases involved, to establish, alter, change, or revoke drilling, producing, rental, minimum royalty, and royalty requirements of such leases and to make such regulations with reference to such leases, with like consent on the part of the lessees, in connection with the institution and operation of any such cooperative or unit plan as he may deem necessary or proper to secure the proper protection of the public interest. The Secretary may provide that oil and gas leases hereafter issued under this chapter shall contain a provision requiring the lessee to operate under such a reasonable cooperative or unit plan, and he may prescribe such a plan under which such lessee shall operate, which shall adequately protect the rights of all parties in interest, including the United States.
 
 Any plan authorized by the preceding paragraph which includes lands owned by the United States may, in the discretion of the Secretary, contain a provision whereby authority is vested in the Secretary of the Interior, or any such person, committee, or State or Federal officer or agency as may be designated in the plan, to alter or modify from time to time the rate of prospecting and development and the quantity and rate of production under such plan. All leases operated under any such plan approved or prescribed by the Secretary shall be excepted in determining holdings or control under the provisions of any section of this chapter.
 
@@ -108,7 +108,7 @@ The Secretary of the Interior, to avoid waste or to promote conservation of natu
 
 (B) The Secretary shall issue final regulations to implement this section within six months of November 16, 1981. If any oil and gas lease eligible for conversion under this section would otherwise expire after November 16, 1981, and before six months following the issuance of implementing regulations, the lessee may preserve his conversion right under such lease for a period ending six months after the issuance of implementing regulations by filing with the Secretary, before the expiration of the lease, a notice of intent to file an application for conversion. Upon submission of a complete plan of operations in substantial compliance with the regulations promulgated by the Secretary for the filing of such plans, the Secretary shall suspend the running of the term of any oil and gas lease proposed for conversion until the plan is finally approved or disapproved. The Secretary shall act upon a proposed plan of operations within fifteen months of its submittal.
 
-(C) When an existing oil and gas lease is converted to a combined hydrocarbon lease, the royalty shall be that provided for in the original oil and gas lease and for a converted mining claim, 121/2 per centum in amount or value of production removed or sold from the lease.
+(C) When an existing oil and gas lease is converted to a combined hydrocarbon lease, the royalty shall be that provided for in the original oil and gas lease and for a converted mining claim, 12½ per centum in amount or value of production removed or sold from the lease.
 
 (2) Except as provided in this section, nothing in the Combined Hydrocarbon Leasing Act of 1981 shall be construed to diminish or increase the rights of any lessee under any oil and gas lease issued prior to November 16, 1981.
 
@@ -168,7 +168,7 @@ The Secretary of the Interior, to avoid waste or to promote conservation of natu
 
 #### (A) In general
 
-&emsp;&emsp;If the Secretary provides notice under paragraph (2)(B), the applicant shall have a period of 2 years from the date of receipt of the notice in which to complete all requirements specified by the Secretary, including providing information needed for compliance with the National Environmental Policy Act of 1969.
+&emsp;&emsp;If the Secretary provides notice under paragraph (2)(B), the applicant shall have aperiod of 2 years from the date of receipt of the notice in which to complete all requirements specified by the Secretary, including providing information needed for compliance with the National Environmental Policy Act of 1969.
 
 #### (B) Issuance of decision on permit
 
@@ -192,7 +192,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (p)(2)(A),
 
 #### Amendments
 
-2005—Subsec. (b)(1)(B). Pub. L. 109–58, §350(b), inserted “, subject to paragraph (2)(B),” after “Thereafter, the Secretary”.
+<b>2005</b>—Subsec. (b)(1)(B). Pub. L. 109–58, §350(b), inserted “, subject to paragraph (2)(B),” after “Thereafter, the Secretary”.
 
 Subsec. (b)(2). Pub. L. 109–58, §350(a), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
 
@@ -200,11 +200,11 @@ Subsec. (b)(2)(A). Pub. L. 109–58, §369(j)(1), designated first sentence as c
 
 Subsec. (p). Pub. L. 109–58, §366, added subsec. (p).
 
-1995—Subsec. (j). Pub. L. 104–66 struck out at end “The Secretary shall report to Congress at the beginning of each regular session all such agreements entered into during the previous year which involve unleased Government lands.”
+<b>1995</b>—Subsec. (j). Pub. L. 104–66 struck out at end “The Secretary shall report to Congress at the beginning of each regular session all such agreements entered into during the previous year which involve unleased Government lands.”
 
-1994—Subsec. (b)(1)(B). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the United States House”.
+<b>1994</b>—Subsec. (b)(1)(B). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the United States House”.
 
-1992—Subsec. (b)(1)(A). Pub. L. 102–486, §2507(a)(1), substituted “under paragraphs (2) and (3)” for “under paragraph (2)”.
+<b>1992</b>—Subsec. (b)(1)(A). Pub. L. 102–486, §2507(a)(1), substituted “under paragraphs (2) and (3)” for “under paragraph (2)”.
 
 Subsec. (b)(3). Pub. L. 102–486, §2507(a)(2), added par. (3).
 
@@ -212,15 +212,15 @@ Subsec. (e). Pub. L. 102–486, §2509, substituted “Competitive and noncompet
 
 Subsec. (<i>o</i>). Pub. L. 102–486, §2508(a), added subsec. (<i>o</i>).
 
-1987—Subsec. (b)(1). Pub. L. 100–203, §5102(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “If the lands to be leased are within any known geological structure of a producing oil or gas field, they shall be leased to the highest responsible qualified bidder by competitive bidding under general regulations in units of not more than six hundred and forty acres, which shall be as nearly compact in form as possible, upon the payment by the lessee of such bonus as may be accepted by the Secretary and of such royalty as may be fixed in the lease, which shall be not less than 121/2 per centum in amount or value of the production removed or sold from the lease.”
+<b>1987</b>—Subsec. (b)(1). Pub. L. 100–203, §5102(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “If the lands to be leased are within any known geological structure of a producing oil or gas field, they shall be leased to the highest responsible qualified bidder by competitive bidding under general regulations in units of not more than six hundred and forty acres, which shall be as nearly compact in form as possible, upon the payment by the lessee of such bonus as may be accepted by the Secretary and of such royalty as may be fixed in the lease, which shall be not less than 12½ per centum in amount or value of the production removed or sold from the lease.”
 
-Subsec. (c). Pub. L. 100–203, §5102(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read asfollows: “If the lands to be leased are not subject to leasing under subsection (b) of this section, the person first making application for the lease who is qualified to hold a lease under this chapter shall be entitled to a lease of such lands without competitive bidding. Such leases shall be conditioned upon the payment by the lessee of a royalty of 121/2 per centum in amount or value of the production removed or sold from the lease.”
+Subsec. (c). Pub. L. 100–203, §5102(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If the lands to be leased are not subject to leasing under subsection (b) of this section, the person first making application for the lease who is qualified to hold a lease under this chapter shall be entitled to a lease of such lands without competitive bidding. Such leases shall be conditioned upon the payment by the lessee of a royalty of 12½ per centum in amount or value of the production removed or sold from the lease.”
 
 Subsec. (d). Pub. L. 100–203, §5102(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “All leases issued under this section shall be conditioned upon payment by the lessee of a rental of not less than 50 cents per acre for each year of the lease. Each year's lease rental shall be paid in advance. A minimum royalty of $1 per acre in lieu of rental shall be payable at the expiration of each lease year beginning on or after a discovery of oil or gas in paying quantities on the lands leased.”
 
 Subsecs. (f) to (n). Pub. L. 100–203, §5102(d)(1), added subsecs. (f) to (h) and redesignated former subsecs. (f) to (k) as (i) to (n), respectively.
 
-1981—Subsec. (b). Pub. L. 97–78, §1(6)(a), designated existing provisions as par. (1) and added par. (2).
+<b>1981</b>—Subsec. (b). Pub. L. 97–78, §1(6)(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (c). Pub. L. 97–78, §1(6)(b), substituted “subject to leasing under subsection (b) of this section” for “within any known geological structure of a producing oil or gas field”.
 
@@ -228,23 +228,23 @@ Subsec. (e). Pub. L. 97–78, §1(6)(c), inserted proviso that competitive lease
 
 Subsec. (k). Pub. L. 97–78, §1(8), added subsec. (k).
 
-1960—Pub. L. 86–705 generally amended this section and sections 226d and 226e of this title, combining all three sections and subdividing provisions into subsections (a) to (j) of this section. Among other changes were: substitution of a fixed 10-year term for a renewable 5-year term for noncompetitive leases, the addition of subsec. (h) provisions with respect to the running of time against a lease during a contest of the claim, an increase in the minimum yearly rentals from 25 to 50 cents an acre, and striking out provisions that permitted a waiver of second-year and third-year rentals in certain situations.
+<b>1960</b>—Pub. L. 86–705 generally amended this section and sections 226d and 226e of this title, combining all three sections and subdividing provisions into subsections (a) to (j) of this section. Among other changes were: substitution of a fixed 10-year term for a renewable 5-year term for noncompetitive leases, the addition of subsec. (h) provisions with respect to the running of time against a lease during a contest of the claim, an increase in the minimum yearly rentals from 25 to 50 cents an acre, and striking out provisions that permitted a waiver of second-year and third-year rentals in certain situations.
 
 Pub. L. 86–507 authorized notice of withdrawal to be given by certified mail.
 
-1954—Act July 29, 1954, in second par., provided, that no lease shall terminate for nonproduction (1) if reworking or drilling operations are begun within 60 days after cessation of production, (2) if cessation of production is by order or with consent of the Secretary of the Interior, or (3) unless the lessee is given a reasonable time of at least 60 days to place a well, capable of producing paying quantities of oil or gas, on a producing status.
+<b>1954</b>—Act July 29, 1954, in second par., provided, that no lease shall terminate for nonproduction (1) if reworking or drilling operations are begun within 60 days after cessation of production, (2) if cessation of production is by order or with consent of the Secretary of the Interior, or (3) unless the lessee is given a reasonable time of at least 60 days to place a well, capable of producing paying quantities of oil or gas, on a producing status.
 
 Act July 29, 1954, in third par., made sure that if a lessee seasonably applies for an extension of the initial five-year term of the lease he will be given such extension for either 5 years or 2 years, depending on whether or not the land is in a producing structure.
 
 Act July 29, 1954, in fifth par., provided that the primary term of a lease which is effected by an agreement under which the United States received compensatory royalty remains in full force and effect for 1 year following discontinuance of compensatory royalty payments.
 
-1946—Act Aug. 8, 1946, principally substituted, with respect to the leasing of lands not within a known geological structure of a producing oil or gas field, a royalty rate of 121/2 per cent without further provision as to lease terms or quality of production; substituted a minimum royalty of $1 per acre per annum after discovery for the advance rental of not less than 25 cents per acre per annum required prior to discovery; provided that all leases shall be for a primary term of 5 years which shall continue thereafter for so long as oil or gas is produced in paying quantities, and that leases, with certain exceptions, shall be subject to one renewal for 5 years, and, if not subject to renewal, shall extend for an additional 2 years if diligent operations are in progress at the lease expiration date.
+<b>1946</b>—Act Aug. 8, 1946, principally substituted, with respect to the leasing of lands not within a known geological structure of a producing oil or gas field, a royalty rate of 12½ per cent without further provision as to lease terms or quality of production; substituted a minimum royalty of $1 per acre per annum after discovery for the advance rental of not less than 25 cents per acre per annum required prior to discovery; provided that all leases shall be for a primary term of 5 years which shall continue thereafter for so long as oil or gas is produced in paying quantities, and that leases, with certain exceptions, shall be subject to one renewal for 5 years, and, if not subject to renewal, shall extend for an additional 2 years if diligent operations are in progress at the lease expiration date.
 
-1935—Act Aug. 21, 1935, amended section generally.
+<b>1935</b>—Act Aug. 21, 1935, amended section generally.
 
-1931—Act Mar. 4, 1931, amended section generally.
+<b>1931</b>—Act Mar. 4, 1931, amended section generally.
 
-1930—Act July 3, 1930, amended section generally.
+<b>1930</b>—Act July 3, 1930, amended section generally.
 
 #### Effective Date of 1992 Amendment
 
@@ -284,7 +284,7 @@ Functions of Secretary of the Interior, referred to in subsec. (j), to promulgat
 
 Section 5106 of Pub. L. 100–203 provided that:
 
-“(a) Notwithstanding any other provision of this subtitle \[subtitle B (§§5101–5113) of title V of Pub. L. 100–203, see Short Title of 1987 Amendment note set out under section 181 of this title\] and except as provided in subsection (b) of this section, all noncompetitive oil and gas lease applications and offers and competitive oil and gas bids pending on the date of enactment of this subtitle \[Dec. 22, 1987\] shall be processed, and leases shall be issued under the provisions of the Act of February 25, 1920 \[this chapter\], as in effect before its amendment by this subtitle, except where the issuanceof any such lease would not be lawful under such provisions or other applicable law.
+“(a) Notwithstanding any other provision of this subtitle \[subtitle B (§§5101–5113) of title V of Pub. L. 100–203, see Short Title of 1987 Amendment note set out under section 181 of this title\] and except as provided in subsection (b) of this section, all noncompetitive oil and gas lease applications and offers and competitive oil and gas bids pending on the date of enactment of this subtitle \[Dec. 22, 1987\] shall be processed, and leases shall be issued under the provisions of the Act of February 25, 1920 \[this chapter\], as in effect before its amendment by this subtitle, except where the issuance of any such lease would not be lawful under such provisions or other applicable law.
 
 “(b) No noncompetitive lease applications or offers pending on the date of enactment of this subtitle for lands within the Shawnee National Forest, Illinois; the Ouachita National Forest, Arkansas; Fort Chaffee, Arkansas; or Eglin Air Force Base, Florida; shall be processed until these lands are posted for competitive bidding in accordance with section 5102 of this subtitle \[amending this section and section 188 of this title\]. If any such tract does not receive a bid equal to or greater than the national minimum acceptable bid from a responsible qualified bidder then the noncompetitive applications or offers pending for such a tract shall be reinstated and noncompetitive leases issued under the Act of February 25, 1920, as in effect before its amendment by this subtitle, except where the issuance of any such lease would not be lawful under such provisions or other applicable law. If competitive leases are issued for any such tract, then the pending noncompetitive application or offer shall be rejected.
 
@@ -292,7 +292,7 @@ Section 5106 of Pub. L. 100–203 provided that:
 
 #### Report to Congress
 
-Section 5110 of Pub. L. 100–203 provided that: “The Secretary shall submit annually for 5 years after enactment of this subtitle \[Dec. 22, 1987\] to the Congress a report containing appropriate information to facilitate congressional monitoring of this subtitle \[subtitle B (§§5101–5113) of title V of Pub. L. 100–203, see Short Title of 1987 Amendment note set out under section 181 of this title\]. Such report shall include, but not be limited to—
+Section 5110 of Pub. L. 100–203 provided that: “The Secretary shall submit annually for 5 years after enactment of this subtitle \[Dec. 22, 1987\] to the Congress a report containing appropriate information to facilitate congressional monitoring of this subtitle \[subtitle B\(§§5101–5113) of title V of Pub. L. 100–203, see Short Title of 1987 Amendment note set out under section 181 of this title\]. Such report shall include, but not be limited to—
 
 &emsp;“(1) the number of acres leased, and the number of leases issued, competitively and noncompetitively;
 

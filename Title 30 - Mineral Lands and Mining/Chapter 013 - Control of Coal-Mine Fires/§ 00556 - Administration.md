@@ -8,7 +8,7 @@ In carrying out the provisions of section 553 of this title the Secretary of the
 
 #### (b) Employment of equipment
 
-&emsp;to hire, with or without personal services, work animals and animal-drawn and motor-propelled vehicles and equipment, at rates to be approved by the Secretary of the Interior and without regard to the provisions of section 5 of title 41;
+&emsp;to hire, with or without personal services, work animals and animal-drawn and motor-propelled vehicles and equipment, at rates to be approved by the Secretary of the Interior and without regard to the provisions of section 6101 of title 41;
 
 #### (c) Contractual authority
 
@@ -28,11 +28,9 @@ In carrying out the provisions of section 553 of this title the Secretary of the
 
 (Aug. 31, 1954, ch. 1156, §6, 68 Stat. 1010.)
 
-#### References in Text
-
-The civil service laws, referred to in subsec. (a), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Codification
 
 In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+
+In subsec. (b), “section 6101 of title 41” substituted for “section 3709, Revised Statutes (41 U.S.C., sec. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

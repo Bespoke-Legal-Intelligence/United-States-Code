@@ -38,9 +38,9 @@ If—
 
 #### Amendments
 
-1996—Pub. L. 104–188 substituted “Liquidating, etc., transactions” for “Liquidating; etc., transactions” in section catchline.
+<b>1996</b>—Pub. L. 104–188 substituted “Liquidating, etc., transactions” for “Liquidating; etc., transactions” in section catchline.
 
-1989—Pub. L. 101–239, §7208(b)(3)(B), substituted “Liquidating; etc., transactions” for “Returns regarding liquidation, dissolution, termination, or contraction” in section catchline.
+<b>1989</b>—Pub. L. 101–239, §7208(b)(3)(B), substituted “Liquidating; etc., transactions” for “Returns regarding liquidation, dissolution, termination, or contraction” in section catchline.
 
 Subsec. (a). Pub. L. 101–239, §7208(b)(3)(A), substituted “Corporate liquidating, etc., transactions” for “Corporations” in heading.
 
@@ -48,11 +48,11 @@ Subsecs. (c), (d). Pub. L. 101–239, §7208(b)(1), added subsecs. (c) and (d) a
 
 Cross Reference.—For provisions relating to penalties for failure to file a return required by subsection (b), see section 6652(c).”
 
-1986—Subsec. (c). Pub. L. 99–514 substituted “section 6652(c)” for “section 6652(d)”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “section 6652(c)” for “section 6652(d)”.
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1969—Pub. L. 91–172 inserted references to termination and contraction in section catchline, designated existing provisions as subsec. (a), and added subsecs. (b) and (c).
+<b>1969</b>—Pub. L. 91–172 inserted references to termination and contraction in section catchline, designated existing provisions as subsec. (a), and added subsecs. (b) and (c).
 
 #### Effective Date of 1989 Amendment
 

@@ -14,15 +14,17 @@ Subsection (b), referred to in text, was repealed by Pub. L. 109–482, title I,
 
 #### Amendments
 
-2007—Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
+<b>2007</b>—Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
 
-Pub. L. 109–482 struck out subsec. (a) designation before “From the sums” and subsecs. (b) and (c) which related to annual report on data relating to applications for grants and contracts for research on sudden infant death syndrome and annual estimate of amounts requested for such research.
+Pub. L. 109–482 struck out subsec. (a) designation before “From the sums” and subsecs. (b) and (c) which related to annual report on data relating to applicationsfor grants and contracts for research on sudden infant death syndrome and annual estimate of amounts requested for such research.
 
-1994—Subsecs. (b)(1), (c). Pub. L. 103–437 substituted “Energy and Commerce” for “Interstate and Foreign Commerce”.
+<b>1994</b>—Subsecs. (b)(1), (c). Pub. L. 103–437 substituted “Energy and Commerce” for “Interstate and Foreign Commerce”.
 
-1985—Subsec. (a). Pub. L. 99–158 struck out “under section 289d of this title” before “, the Secretary”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–158 struck out “under section 289d of this title” before “, the Secretary”.
 
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

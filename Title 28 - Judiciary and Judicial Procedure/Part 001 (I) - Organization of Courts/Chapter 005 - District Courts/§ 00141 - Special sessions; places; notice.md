@@ -46,9 +46,9 @@ Changes of phraseology were made.
 
 #### Amendments
 
-2006—Subsec. (b)(5). Pub. L. 109–162 added par. (5).
+<b>2006</b>—Subsec. (b)(5). Pub. L. 109–162 added par. (5).
 
-2005—Pub. L. 109–63 designated first and second undesignated pars. as pars. (1) and (2), respectively, of subsec. (a) and added subsec. (b).
+<b>2005</b>—Pub. L. 109–63 designated first and second undesignated pars. as pars. (1) and (2), respectively, of subsec. (a) and added subsec. (b).
 
-1963—Pub. L. 88–139 substituted “sessions” for “terms” and “session” for “term” wherever appearing in text and section catchline, and struck out “pursuant to rules approved by the judicial council of the circuit” after “court orders” in text.
+<b>1963</b>—Pub. L. 88–139 substituted “sessions” for “terms” and “session” for “term” wherever appearing in text and section catchline, and struck out “pursuant to rules approved by the judicial council of the circuit” after “court orders” in text.
 

@@ -32,7 +32,7 @@ The President should encourage the governments of countries that conduct trade w
 
 #### (3) Applicability of section
 
-&emsp;This section, and any sanctions imposed pursuant to this section, shall cease to apply at such time as the President makes and reports to the Congress a determination under section 6007(a) of this title.
+&emsp;This section, and any sanctions imposed pursuant to this section, shall cease to apply atsuch time as the President makes and reports to the Congress a determination under section 6007(a) of this title.
 
 (Pub. L. 102–484, div. A, title XVII, §1704, Oct. 23, 1992, 106 Stat. 2576; Pub. L. 104–114, title I, §102(f), Mar. 12, 1996, 110 Stat. 793.)
 
@@ -48,5 +48,5 @@ The Arms Export Control Act, referred to in subsec. (b)(1)(A), is Pub. L. 90–6
 
 #### Amendments
 
-1996—Subsec. (b)(2). Pub. L. 104–114, §102(f), added subpar. (B), redesignated former subpar. (B) as (C), and inserted concluding provisions “As used in this paragraph, the term ‘agency or instrumentality of the Government of Cuba’ means an agency or instrumentality of a foreign state as defined in section 1603(b) of title 28, with each reference in such section to ‘a foreign state’ deemed to be a reference to ‘Cuba’.”
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–114, §102(f), added subpar. (B), redesignated former subpar. (B) as (C), and inserted concluding provisions “As used in this paragraph, the term ‘agency or instrumentality of the Government of Cuba’ means an agency or instrumentality of a foreign state as defined in section 1603(b) of title 28, with each reference in such section to ‘a foreign state’ deemed to be a reference to ‘Cuba’.”
 

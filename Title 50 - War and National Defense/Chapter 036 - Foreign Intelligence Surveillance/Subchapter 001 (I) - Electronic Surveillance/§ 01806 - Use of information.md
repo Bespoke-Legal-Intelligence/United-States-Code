@@ -10,7 +10,7 @@ No information acquired pursuant to this subchapter shall be disclosed for law e
 
 #### (c) Notification by United States
 
-Whenever the Government intends to enter into evidence or otherwise use or disclose in anytrial, hearing, or other proceeding in or before any court, department, officer, agency, regulatory body, or other authority of the United States, against an aggrieved person, any information obtained or derived from an electronic surveillance of that aggrieved person pursuant to the authority of this subchapter, the Government shall, prior to the trial, hearing, or other proceeding or at a reasonable time prior to an effort to so disclose or so use that information or submit it in evidence, notify the aggrieved person and the court or other authority in which the information is to be disclosed or used that the Government intends to so disclose or so use such information.
+Whenever the Government intends to enter into evidence or otherwise use or disclose in any trial, hearing, or other proceeding in or before any court, department, officer, agency, regulatory body, or other authority of the United States, against an aggrieved person, any information obtained or derived from an electronic surveillance of that aggrieved person pursuant to the authority of this subchapter, the Government shall, prior to the trial, hearing, or other proceeding or at a reasonable time prior to an effort to so disclose or so use that information or submit it in evidence, notify the aggrieved person and the court or other authority in which the information is to be disclosed or used that the Government intends to so disclose or so use such information.
 
 #### (d) Notification by States or political subdivisions
 
@@ -28,7 +28,7 @@ Any person against whom evidence obtained or derived from an electronic surveill
 
 #### (f) In camera and ex parte review by district court
 
-Whenever a court or other authority is notified pursuant to subsection (c) or (d) of this section, or whenever a motion is made pursuant to subsection (e) of this section, or whenever any motion or request is made by an aggrieved person pursuant to any other statute or rule of the United States or any State before any court or other authority of the United States or any State to discover or obtain applications or orders or other materials relating to electronic surveillance or to discover, obtain, or suppress evidence or information obtained or derived from electronic surveillance under this chapter, the United States district court or, where the motion is made before another authority, the United States district court in the same district as the authority, shall, notwithstanding any other law, if the Attorney General files an affidavit under oath that disclosure or an adversary hearing would harm the national security of the United States, review in camera and ex parte the application, order, and such other materials relating to the surveillance as may be necessary to determine whether the surveillance of the aggrieved person was lawfully authorized and conducted. In making this determination, the court may disclose to the aggrieved person, under appropriate security procedures and protective orders, portions of the application, order, or other materials relating to the surveillance only where such disclosure is necessary to make an accurate determination of the legality of the surveillance.
+Whenever a court or other authority is notified pursuant to subsection (c) or (d) of this section, or whenever a motion is made pursuant to subsection (e) of this section, or whenever any motion or request is made by an aggrieved person pursuant to any other statute or rule of the United States or any State before any court or other authority of the United States or any State to discover or obtain applications or orders or other materials relating to electronic surveillance or to discover, obtain, or suppress evidence or information obtained or derived from electronic surveillance under this chapter, the United States district court or, where the motion is made before another authority, the United States district court in the same district as the authority, shall, notwithstanding any other law, if the Attorney General files an affidavit under oath that disclosure or an adversary hearing would harm the national security of the United States, review in camera and ex parte the application, order, and such other materials relating to the surveillance as may be necessaryto determine whether the surveillance of the aggrieved person was lawfully authorized and conducted. In making this determination, the court may disclose to the aggrieved person, under appropriate security procedures and protective orders, portions of the application, order, or other materials relating to the surveillance only where such disclosure is necessary to make an accurate determination of the legality of the surveillance.
 
 #### (g) Suppression of evidence; denial of motion
 
@@ -44,7 +44,7 @@ In circumstances involving the unintentional acquisition by an electronic, mecha
 
 #### (j) Notification of emergency employment of electronic surveillance; contents; postponement, suspension or elimination
 
-If an emergency employment of electronic surveillance is authorized under section 1805(e) of this title and a subsequent order approving the surveillance is not obtained, the judge shall cause to be served on any United States personnamed in the application and on such other United States persons subject to electronic surveillance as the judge may determine in his discretion it is in the interest of justice to serve, notice of—
+If an emergency employment of electronic surveillance is authorized under section 1805(e) of this title and a subsequent order approving the surveillance is not obtained, the judge shall cause to be served on any United States person named in the application and on such other United States persons subject to electronic surveillance as the judge may determine in his discretion it is in the interest of justice to serve, notice of—
 
 &emsp;(1) the fact of the application;
 
@@ -76,17 +76,17 @@ Section 1804(a)(7)(B) of this title, referred to in subsec. (k)(2), was redesign
 
 #### Amendments
 
-2008—Subsec. (i). Pub. L. 110–261, §106, substituted “communication” for “radio communication”.
+<b>2008</b>—Subsec. (i). Pub. L. 110–261, §106, substituted “communication” for “radio communication”.
 
 Subsec. (k)(1)(B). Pub. L. 110–261, §110(b)(1), substituted “sabotage, international terrorism, or the international proliferation of weapons of mass destruction” for “sabotage or international terrorism”.
 
-2002—Subsec. (k)(1). Pub. L. 107–296, in introductory provisions, inserted “or law enforcement personnel of a State or political subdivision of a State (including the chief executive officer of that State or political subdivision who has the authority to appoint or direct the chief law enforcement officer of that State or political subdivision)” after “law enforcement officers”.
+<b>2002</b>—Subsec. (k)(1). Pub. L. 107–296, in introductory provisions, inserted “or law enforcement personnel of a State or political subdivision of a State (including the chief executive officer of that State or political subdivision who has the authority to appoint or direct the chief law enforcement officer of that State or political subdivision)” after “law enforcement officers”.
 
-2001—Subsec. (k). Pub. L. 107–56 added subsec. (k).
+<b>2001</b>—Subsec. (k). Pub. L. 107–56 added subsec. (k).
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, see section 402 of Pub. L. 110–261, set out as an Effective Date of 2008 Amendment note under section 1801 of this title.
+Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in section 404 of Pub. L. 110–261, setout as a Transition Procedures note under section 1801 of this title, see section 402 of Pub. L. 110–261, set out as an Effective Date of 2008 Amendment note under section 1801 of this title.
 
 #### Effective Date of 2002 Amendment
 

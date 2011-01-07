@@ -6,7 +6,7 @@ There are authorized to be appropriated for grants under this subchapter such su
 
 #### Amendments
 
-2008—Pub. L. 110–411 substituted “2009 through 2013” for “1998 through 2007”.
+<b>2008</b>—Pub. L. 110–411 substituted “2009 through 2013” for “1998 through 2007”.
 
-2002—Pub. L. 107–292 substituted “1998 through 2007” for “1998, 1999, 2000, and 2001”.
+<b>2002</b>—Pub. L. 107–292 substituted “1998 through 2007” for “1998, 1999, 2000, and 2001”.
 

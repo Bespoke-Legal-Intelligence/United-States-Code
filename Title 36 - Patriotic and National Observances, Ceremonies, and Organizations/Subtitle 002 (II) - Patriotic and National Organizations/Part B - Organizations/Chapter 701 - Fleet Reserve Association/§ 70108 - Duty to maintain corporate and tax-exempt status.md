@@ -36,5 +36,5 @@ In subsection (a), the words “organized and” and “the State of” are omit
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–398 substituted “Pennsylvania” for “Delaware”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398 substituted “Pennsylvania” for “Delaware”.
 

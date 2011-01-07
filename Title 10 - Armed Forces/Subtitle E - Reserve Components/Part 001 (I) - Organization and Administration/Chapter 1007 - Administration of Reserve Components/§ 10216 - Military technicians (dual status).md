@@ -38,7 +38,7 @@ In General.—(1) For purposes of this section and any other provision of law, a
 
 (b)
 
-Priority for Management of Military Technicians (Dual Status).—(1) As a basis for making the annual request to Congress pursuant to section 115(c) <sup>1</sup> of this title for authorization of end strengths for military technicians (dual status) of the Army and Air Force reserve components, the Secretary of Defense shall give priority to supporting authorizations for military technicians (dual status) in the following high-priority units and organizations:
+Priority for Management of Military Technicians (Dual Status).—(1) As a basis for making the annual request to Congress pursuant to section 115(d) of this title for authorization of end strengths for military technicians (dual status) of the Army and Air Force reserve components, the Secretary of Defense shall give priority to supporting authorizations for military technicians (dual status) in the following high-priority units and organizations:
 
 &emsp;(A) Units of the Selected Reserve that are scheduled to deploy no later than 90 days after mobilization.
 
@@ -52,7 +52,7 @@ Priority for Management of Military Technicians (Dual Status).—(1) As a basis 
 
 (c)
 
-Information Required To Be Submitted With Annual End Strength Authorization Request.—(1) The Secretary of Defense shall include as part of the budget justification documents submitted to Congress with the budget of the Department of Defense for any fiscal year the following information with respect to the end strengths for military technicians (dual status) requested in that budget pursuant to section 115(c) <sup>1</sup> of this title, shown separately for each of the Army and Air Force reserve components:
+Information Required To Be Submitted With Annual End Strength Authorization Request.—(1) The Secretary of Defense shall include as part of the budget justification documents submitted to Congress with the budget of the Department of Defense for any fiscal year the following information with respect to the end strengths for military technicians (dual status) requested in that budget pursuant to section 115(d) of this title, shown separately for each of the Army and Air Force reserve components:
 
 &emsp;(A) The number of military technicians (dual status) in the high priority units and organizations specified in subsection (b)(1).
 
@@ -62,7 +62,7 @@ Information Required To Be Submitted With Annual End Strength Authorization Requ
 
 &emsp;(D) The number of technicians other than military technicians (dual status) in other than high priority units and organizations specified in subsection (b)(1).
 
-(2)(A) If the budget submitted to Congress for any fiscal year requests authorization for that fiscal year under section 115(c) <sup>1</sup> of this title of a military technician (dual status) end strength for a reserve component of the Army or Air Force in a number that constitutes a reduction from the end strength minimum established by law for that reserve component for the fiscal year during which the budget is submitted, the Secretary of Defense shall submit to the congressional defense committees with that budget a justification providing the basis for that requested reduction in technician end strength.
+(2)(A) If the budget submitted to Congress for any fiscal year requests authorization for that fiscal year under section 115(d) of this title of a military technician (dual status) end strength for a reserve component of the Army or Air Force in a number that constitutes a reduction from the end strength minimum established by law for that reserve component for the fiscal year during which the budget is submitted, the Secretary of Defense shall submit to the congressional defense committees with that budget a justification providing the basis for that requested reduction in technician end strength.
 
 (B) Any justification submitted under subparagraph (A) shall clearly delineate the specific force structure reductions forming the basis for such requested technician reduction (and the numbers related to those reductions).
 
@@ -76,11 +76,13 @@ Unit Membership Requirement.—(1) Unless specifically exempted by law, each ind
 
 (2) Paragraph (1) does not apply to a military technician (dual status) who is employed by the Army Reserve in an area other than Army Reserve troop program units.
 
+(3) Paragraph (1) does not apply to a military technician (dual status) who is employed by the Air Force Reserve in an area other than the Air Force Reserve unit program, except that not more than 50 of such technicians may be assigned outside of the unit program at the same time.
+
 (e)
 
 Dual Status Requirement.—(1) Funds appropriated for the Department of Defense may not (except as provided in paragraph (2)) be used for compensation as a military technician of any individual hired as a military technician (dual status) after February 10, 1996, who is no longer a member of the Selected Reserve.
 
-(2) Except as otherwise provided by law, the Secretary concerned may pay compensation described in paragraph (1) to an individual described in that paragraph who is no longer a member of the Selected Reserve for a period up to 12 months following the individual's loss of membership in the Selected Reserve if the Secretary determines that such loss of membership was not due to the failure of that individual to meet military standards.
+(2) Except as otherwise provided by law, the Secretary concerned may pay compensation described in paragraph (1) to an individual described in that paragraph who is no longer a member of the Selected Reserve for a period up to 12 months following the individual's loss of membership in the Selected Reserve if the Secretary determines that such loss of membershipwas not due to the failure of that individual to meet military standards.
 
 (f)
 
@@ -98,27 +100,27 @@ Retention of Military Technicians Who Lose Dual Status Due to Combat-Related Dis
 
 (3) Persons retained under the authority of this subsection do not count against the limitations of section 10217(c) of this title.
 
-(Added Pub. L. 104–106, div. A, title V, §513(c)(1), Feb. 10, 1996, 110 Stat. 306; amended Pub. L. 104–201, div. A, title IV, §413(b), (c), title XII, §1214, Sept. 23, 1996, 110 Stat. 2507, 2508, 2695; Pub. L. 105–85, div. A, title V, §522(a), (b), (f)–(h)(1), Nov. 18, 1997, 111 Stat. 1734–1736; Pub. L. 106–65, div. A, title V, §521, Oct. 5, 1999, 113 Stat. 595; Pub. L. 108–136, div. A, title IV, §403(c), Nov. 24, 2003, 117 Stat. 1452; Pub. L. 109–163, div. A, title V, §513(a), Jan. 6, 2006, 119 Stat. 3232; Pub. L. 109–364, div. A, title V, §525(b), Oct. 17, 2006, 120 Stat. 2194; Pub. L. 110–181, div. A, title V, §511, Jan. 28, 2008, 122 Stat. 98; Pub. L. 110–417, \[div. A\], title V, §511, Oct. 14, 2008, 122 Stat. 4439.)
-
-#### References in Text
-
-Section 115(c) of this title, referred to in subsecs. (b)(1) and (c)(1), (2)(A), was redesignated section 115(d) of this title by Pub. L. 108–375, div. A, title IV, §416(a)(3), Oct. 28, 2004, 118 Stat. 1866.
+(Added Pub. L. 104–106, div. A, title V, §513(c)(1), Feb. 10, 1996, 110 Stat. 306; amended Pub. L. 104–201, div. A, title IV, §413(b), (c), title XII, §1214, Sept. 23, 1996, 110 Stat. 2507, 2508, 2695; Pub. L. 105–85, div. A, title V, §522(a), (b), (f)–(h)(1), Nov. 18, 1997, 111 Stat. 1734–1736; Pub. L. 106–65, div. A, title V, §521, Oct. 5, 1999, 113 Stat. 595; Pub. L. 108–136, div. A, title IV, §403(c), Nov. 24, 2003, 117 Stat. 1452; Pub. L. 109–163, div. A, title V, §513(a), Jan. 6, 2006, 119 Stat. 3232; Pub. L. 109–364, div. A, title V, §525(b), Oct. 17, 2006, 120 Stat. 2194; Pub. L. 110–181, div. A, title V, §511, Jan. 28, 2008, 122 Stat. 98; Pub. L. 110–417, \[div. A\], title V, §511, Oct. 14, 2008, 122 Stat. 4439; Pub. L. 111–383, div. A, title V, §512, title X, §1075(b)(52), Jan. 7, 2011, 124 Stat. 4210, 4372.)
 
 #### Amendments
 
-2008—Subsec. (f). Pub. L. 110–417 inserted “and the Secretary of the Air Force” after “Secretary of the Army”.
+<b>2011</b>—Subsecs. (b)(1), (c)(1), (2)(A). Pub. L. 111–383, §1075(b)(52), substituted “section 115(d)” for “section 115(c)”.
+
+Subsec. (d)(3). Pub. L. 111–383, §512, added par. (3).
+
+<b>2008</b>—Subsec. (f). Pub. L. 110–417 inserted “and the Secretary of the Air Force” after “Secretary of the Army”.
 
 Subsec. (g). Pub. L. 110–181 added subsec. (g).
 
-2006—Subsec. (a)(1)(C). Pub. L. 109–364, §525(b)(1), substituted “organizing, administering, instructing, or” for “administration and”.
+<b>2006</b>—Subsec. (a)(1)(C). Pub. L. 109–364, §525(b)(1), substituted “organizing, administering, instructing, or” for “administration and”.
 
 Subsec. (a)(3). Pub. L. 109–364, §525(b)(2), added par. (3).
 
 Subsec. (f). Pub. L. 109–163 added subsec. (f).
 
-2003—Subsecs. (b)(1), (c)(1), (2)(A). Pub. L. 108–136 substituted “section 115(c)” for “115(g)”.
+<b>2003</b>—Subsecs. (b)(1), (c)(1), (2)(A). Pub. L. 108–136 substituted “section 115(c)” for “115(g)”.
 
-1999—Subsec. (a)(1)(A). Pub. L. 106–65, §521(a)(1), substituted “section 709(b)” for “section 709”.
+<b>1999</b>—Subsec. (a)(1)(A). Pub. L. 106–65, §521(a)(1), substituted “section 709(b)” for “section 709”.
 
 Subsec. (a)(1)(C). Pub. L. 106–65, §521(a)(2), inserted “civilian” after “is assigned to a”.
 
@@ -126,13 +128,13 @@ Subsec. (e)(1). Pub. L. 106–65, §521(b)(1), inserted “(dual status)” afte
 
 Subsec. (e)(2). Pub. L. 106–65, §521(b)(2), substituted “Except as otherwise provided by law, the Secretary” for “The Secretary” and “up to 12 months” for “not to exceed six months”.
 
-1997—Pub. L. 105–85, §522(h), inserted “(dual status)” after “military technicians” in section catchline.
+<b>1997</b>—Pub. L. 105–85, §522(h), inserted “(dual status)” after “military technicians” in section catchline.
 
 Subsec. (a). Pub. L. 105–85, §522(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
 “(a)
 
-In General.—Military technicians are Federal civilian employees hired under title 5 and title 32 who are required to maintain dual-status as drilling reservecomponent members as a condition of their Federal civilian employment. Such employees shall be authorized and accounted for as a separate category of dual-status civilian employees, exempt as specified in subsection (b)(3) from any general or regulatory requirement for adjustments in Department of Defense civilian personnel.”
+In General.—Military technicians are Federal civilian employees hired under title 5 and title 32 who are required to maintain dual-status as drilling reserve component members as a condition of their Federal civilian employment. Such employees shall be authorized and accounted for as a separate category of dual-status civilian employees, exempt as specified in subsection (b)(3) from any general or regulatory requirement for adjustments in Department of Defense civilian personnel.”
 
 Subsec. (b). Pub. L. 105–85, §522(g)(1), inserted “(
 
@@ -166,7 +168,7 @@ Subsecs. (d), (e). Pub. L. 105–85, §522(b), added subsecs. (d) and (e) and st
 
 Dual-Status Requirement.—The Secretary of Defense shall require the Secretary of the Army and the Secretary of the Air Force to establish as a condition of employment for each individual who is hired after February 10, 1996, as a military technician that the individual maintain membership in the Selected Reserve (so as to be a so-called ‘dual-status’ technician) and shall require that the civilian and military position skill requirements of dual-status military technicians be compatible. No Department of Defense funds may be spent for compensation for any military technician hired after February 10, 1996, who is not a member of the Selected Reserve, except that compensation may be paid for up to six months following loss of membership in the Selected Reserve if such loss of membership was not due to the failure to meet military standards.”
 
-1996—Subsec. (a). Pub. L. 104–201, §1214(2), added subsec. (a). Former subsec. (a) redesignated (b).
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, §1214(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
 Subsec. (a)(1). Pub. L. 104–201, §413(c)(1), substituted “section 115(g)” for “section 115” in introductory provisions.
 
@@ -183,6 +185,4 @@ Subsec. (d). Pub. L. 104–201, §1214(1), redesignated subsec. (c) as (d).
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–163, div. A, title V, §513(b), Jan. 6, 2006, 119 Stat. 3232, provided that: “The Secretary of the Army shall implement subsection (f) of section 10216 of title 10, United States Code, as added by subsection (a), not later than 90 days after the date of the enactment of this Act \[Jan. 6, 2006\].”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

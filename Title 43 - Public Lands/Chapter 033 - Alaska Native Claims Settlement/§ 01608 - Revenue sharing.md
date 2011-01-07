@@ -6,7 +6,7 @@ The provisions of this section shall apply to all minerals that are subject to d
 
 #### (b) Interim payments into Alaska Native Fund based on percentage of gross value of produced or removed minerals and of rentals and bonuses; time of payment
 
-With respect to conditional leases and sales of minerals heretofore or hereafter made pursuant to section 6(g) of the Alaska Statehood Act, and with respect to mineral leases of the United States that are or may be subsumed by the State under section 6(h) of the Alaska Statehood Act, until such time as the provisions of subsection (c) of this section become operative the State shall pay into the Alaska Native Fund from the royalties, rentals, and bonuses hereafter received by the State (1) a royalty of 2 per centum upon the gross value (as such grossvalue is determined for royalty purposes under such leases or sales) of such minerals produced or removed from such lands, and (2) 2 per centum of all rentals and bonuses under such leases or sales, excluding bonuses received by the State at the September 1969 sale of minerals from tentatively approved lands and excluding rentals received pursuant to such sale before December 18, 1971. Such payment shall be made within sixty days from the date the revenues are received by the State.
+With respect to conditional leases and sales of minerals heretofore or hereafter made pursuant to section 6(g) of the Alaska Statehood Act, and with respect to mineral leases of the United States that are or may be subsumed by the State under section 6(h) of the Alaska Statehood Act, until such time as the provisions of subsection (c) of this section become operative the State shall pay into the Alaska Native Fund from the royalties, rentals, and bonuses hereafter received by the State (1) a royalty of 2 per centum upon the gross value (as such gross value is determined for royalty purposes under such leases or sales) of such minerals produced or removed from such lands, and (2) 2 per centum of all rentals and bonuses under such leases or sales, excluding bonuses received by the State at the September 1969 sale of minerals from tentatively approved lands and excluding rentals received pursuant to such sale before December 18, 1971. Such payment shall be made within sixty days from the date the revenues are received by the State.
 
 #### (c) Patents; royalties: reservation of percentage of gross value of produced or removed minerals and of rentals and bonuses from disposition of minerals
 
@@ -26,7 +26,7 @@ Revenues received by the United States or the State as compensation for estimate
 
 #### (g) Alaska Native Fund payments; cessation; reimbursement for advance payments
 
-The payments required by this section shall continue only until a sum of $500,000,000 has been paid into the Alaska Native Fund less the total of advance payments paid into the Alaska Native Fund pursuant to section 407 of the Trans-Alaska Pipeline Authorization Act. Thereafter, payments which would otherwise go into the Alaska Native Fund will be made to the United States Treasury as reimbursement for the advance payments authorized by section 407 of the Trans-Alaskan Pipeline Authorization Act. The provisions of this section shall no longer apply, and the reservation required in patents under this section shall be of no further force and effect, after a total sum of $500,000,000 has been paid to the Alaska Native Fund and to the United States Treasury pursuant to this subsection.
+The payments required by this section shall continue only until a sum of $500,000,000 has been paid into the Alaska Native Fund less the total of advance payments paid into the Alaska Native Fund pursuant to section 407 of the Trans-Alaska Pipeline Authorization Act.Thereafter, payments which would otherwise go into the Alaska Native Fund will be made to the United States Treasury as reimbursement for the advance payments authorized by section 407 of the Trans-Alaskan Pipeline Authorization Act. The provisions of this section shall no longer apply, and the reservation required in patents under this section shall be of no further force and effect, after a total sum of $500,000,000 has been paid to the Alaska Native Fund and to the United States Treasury pursuant to this subsection.
 
 #### (h) Final payment; order of computation
 
@@ -52,7 +52,7 @@ Section 407 of the Trans-Alaska Pipeline Authorization Act, referred to in subse
 
 #### Amendments
 
-1973—Subsec. (g). Pub. L. 93–153 inserted provisions covering advance payments into the Alaska Native Fund pursuant to section 407 of the Trans-Alaska Pipeline Authorization Act and the reimbursement of the United States Treasury for payments made.
+<b>1973</b>—Subsec. (g). Pub. L. 93–153 inserted provisions covering advance payments into the Alaska Native Fund pursuant to section 407 of the Trans-Alaska Pipeline Authorization Act and the reimbursement of the United States Treasury for payments made.
 
 #### Advance Payments to Alaska Natives Until Commencement of Deliveries of North Slope Crude Oil to Pipeline
 

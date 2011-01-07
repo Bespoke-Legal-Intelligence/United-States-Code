@@ -12,6 +12,7 @@
 - [&sect; 01815 - Repealed. Pub. L. 109&#8211;58, title I, &sect;101(c), Aug. 8, 2005, 119 Stat. 606](%C2%A7%2001815%20-%20Repealed.%20Pub.%20L.%20109%E2%80%9358%2C%20title%20I%2C%20%C2%A7101%28c%29%2C%20Aug.%208%2C%202005%2C%20119%20Stat.%20606.md)
 - [&sect; 01816 - Construction contracts](%C2%A7%2001816%20-%20Construction%20contracts.md)
 - [&sect; 01816a - Design-build contracts](%C2%A7%2001816a%20-%20Design-build%20contracts.md)
+- [&sect; 01816b - Architect of the Capitol, authority for personal services contracts with legal entities](%C2%A7%2001816b%20-%20Architect%20of%20the%20Capitol%2C%20authority%20for%20personal%20services%20contracts%20with%20legal%20entities.md)
 - [&sect; 01817 - Transfer of discontinued apparatus to other branches](%C2%A7%2001817%20-%20Transfer%20of%20discontinued%20apparatus%20to%20other%20branches.md)
 - [&sect; 01817a - Disposition of surplus or obsolete personal property](%C2%A7%2001817a%20-%20Disposition%20of%20surplus%20or%20obsolete%20personal%20property.md)
 - [&sect; 01818 - Rental or lease of storage space](%C2%A7%2001818%20-%20Rental%20or%20lease%20of%20storage%20space.md)

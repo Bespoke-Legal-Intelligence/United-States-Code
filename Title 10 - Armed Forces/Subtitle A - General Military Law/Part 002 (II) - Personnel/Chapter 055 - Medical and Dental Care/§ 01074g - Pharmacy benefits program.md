@@ -38,7 +38,7 @@ Pharmacy Benefits.—(1) The Secretary of Defense, after consulting with the oth
 
 Establishment of Committee.—(1) The Secretary of Defense shall, in consultation with the Secretaries of the military departments, establish a Pharmacy and Therapeutics Committee for the purpose of developing the uniform formulary of pharmaceutical agents required by subsection (a), reviewing such formulary on a periodic basis, and making additional recommendations regarding the formulary as the committee determines necessary and appropriate. The committee shall include representatives of pharmacies of the uniformed services facilities and representatives of providers in facilities of the uniformed services. Committee members shall have expertise in treating the medical needs of the populations served through such entities and in the range of pharmaceutical and biological medicines available for treating such populations. The committee shall function under procedures established by the Secretary under the regulations prescribed under subsection (g).<sup>1</sup>
 
-(2) Not later than 90 days after the establishment of the Pharmacy and Therapeutics Committee by the Secretary, the committee shall convene to design a proposed uniform formulary for submission to the Secretary. After such 90-day period, the committee shall meet at least quarterly and shall, during meetings, consider for inclusion on the uniform formulary under the standards established in subsection (a) any drugs newly approved by the Food and Drug Administration.
+(2) Not later than 90 days after the establishment of the Pharmacy and Therapeutics Committee by the Secretary, the committee shall convene to design a proposed uniform formulary for submission to the Secretary. After such 90-day period, the committee shall meet at least quarterly and shall, during meetings, considerfor inclusion on the uniform formulary under the standards established in subsection (a) any drugs newly approved by the Food and Drug Administration.
 
 (c)
 
@@ -88,23 +88,23 @@ Subsection (g), referred to in subsecs. (a)(6)(A) and (b)(1), was redesignated s
 
 #### Amendments
 
-2009—Subsec. (f). Pub. L. 111–84 substituted “after January 28, 2008” for “on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008”.
+<b>2009</b>—Subsec. (f). Pub. L. 111–84 substituted “after January 28, 2008” for “on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008”.
 
-2008—Subsecs. (f) to (h). Pub. L. 110–181 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+<b>2008</b>—Subsecs. (f) to (h). Pub. L. 110–181 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-2004—Subsec. (a)(2)(E)(i). Pub. L. 108–375, §714(b), inserted before semicolon at end “and additional determinations by the Pharmacy and Therapeutics Committee of the relative clinical and cost effectiveness of the agents”.
+<b>2004</b>—Subsec. (a)(2)(E)(i). Pub. L. 108–375, §714(b), inserted before semicolon at end “and additional determinations by the Pharmacy and Therapeutics Committee of the relative clinical and cost effectiveness of the agents”.
 
 Subsec. (a)(6). Pub. L. 108–375, §714(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
-2003—Subsec. (b)(1). Pub. L. 108–136, §725(1), substituted “facilities and representatives of providers in facilities of the uniformed services” for “facilities, contractors responsible for the TRICARE retail pharmacy program, contractors responsible for the national mail-order pharmacy program, providers in facilities of the uniformed services, and TRICARE network providers” in second sentence.
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §725(1), substituted “facilities and representatives of providers in facilities of the uniformed services” for “facilities, contractors responsible for the TRICARE retail pharmacy program, contractors responsible for the national mail-order pharmacy program, providers in facilities of the uniformed services, and TRICARE network providers” in second sentence.
 
 Subsec. (c)(2). Pub. L. 108–136, §725(2), substituted “represent—” for “represent nongovernmental”, inserted “(A) nongovernmental” before “organizations”, substituted “beneficiaries;” for “beneficiaries.”, and added subpars. (B) to (D).
 
-2001—Subsec. (a)(8). Pub. L. 107–107 substituted “October 5, 1999,” for “the date of the enactment of this section”.
+<b>2001</b>—Subsec. (a)(8). Pub. L. 107–107 substituted “October 5, 1999,” for “the date of the enactment of this section”.
 
-2000—Subsec. (a)(6). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)(A)\], substituted “in the regulations prescribed” for “as part of the regulations established”.
+<b>2000</b>—Subsec. (a)(6). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)(A)\], substituted “in the regulations prescribed” for “as part of the regulations established”.
 
-Subsec. (a)(7). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)(B)\], substituted “that are not included on the uniform formulary but that are” for “not included on the uniform formulary, but,”.
+Subsec. (a)(7). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)(B)\], substituted “that are not included onthe uniform formulary but that are” for “not included on the uniform formulary, but,”.
 
 Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)(C)\], substituted “prescribed under” for “required by” in last sentence.
 
@@ -126,9 +126,61 @@ Pub. L. 110–181, div. A, title VII, §703(b), Jan. 28, 2008, 122 Stat. 188, as
 
 Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Education and Training on Use of Pharmaceuticals in Rehabilitation Programs for Wounded Warriors
+
+Pub. L. 111–383, div. A, title VII, §716, Jan. 7, 2011, 124 Stat. 4250, provided that:
+
+“(a)
+
+Education and Training Required.—The Secretary of Defense shall develop and implement training, available through the Internet or other means, on the use of pharmaceuticals in rehabilitation programs for seriously ill or injured members of the Armed Forces.
+
+“(b)
+
+Recipients of Training.—The training developed and implemented under subsection (a) shall be training for each category of individuals as follows:
+
+&emsp;“(1) Patients in or transitioning to a wounded warrior unit, with special accommodation in such training for such patients with cognitive disabilities.
+
+&emsp;“(2) Nonmedical case managers.
+
+&emsp;“(3) Military leaders.
+
+&emsp;“(4) Family members.
+
+“(c)
+
+Elements of Training.—The training developed and implemented under subsection (a) shall include the following:
+
+&emsp;“(1) An overview of the fundamentals of safe prescription drug use.
+
+&emsp;“(2) Familiarization with the benefits and risks of using pharmaceuticals in rehabilitation therapies.
+
+&emsp;“(3) Examples of the use of pharmaceuticals for individuals with multiple, complex injuries, including traumatic brain injury and post-traumatic stress disorder.
+
+&emsp;“(4) Familiarization with means of finding additional resources for information on pharmaceuticals.
+
+&emsp;“(5) Familiarization with basic elements of pain and pharmaceutical management.
+
+&emsp;“(6) Familiarization with complementary and alternative therapies.
+
+“(d)
+
+Tailoring of Training.—The training developed and implemented under subsection (a) shall appropriately tailor the elements specified in subsection (c) for and among each category of individuals set forth in subsection (b).
+
+“(e)
+
+Review of Pharmacy.—
+
+&emsp;“(1)
+
+Review.—The Secretary shall review all policies and procedures of the Department of Defense regarding the use of pharmaceuticals in rehabilitation programs for seriously ill or injured members of the Armed Forces.
+
+&emsp;“(2)
+
+Recommendations.—Not later than September 20, 2011, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] any recommendations for administrative or legislative action with respect to the review under paragraph (1) as the Secretary considers appropriate.”
+
 #### Demonstration Project on Coverage of Selected Over-the-Counter Drugs Under the Pharmacy Benefits Program
 
-Pub. L. 109–364, div. A, title VII, §705, Oct. 17, 2006, 120 Stat. 2280, provided that:
+Pub. L. 109–364, div. A, title VII, §705, Oct. 17, 2006, 120 Stat. 2280, as amended by Pub. L. 111–383, div. A, title X, §1075(g)(5), Jan. 7, 2011, 124 Stat. 4377, provided that:
 
 “(a)
 
@@ -154,7 +206,7 @@ Inclusion of certain over-the-counter drugs.—(A) As part of the demonstration 
 
 &emsp;“(2)
 
-Conduct through military facilities, retail pharmacies, or mail order program.—The Secretary shall conduct the demonstration project through at least two of the means described in subparagraph (E) of section 1074g(a)(2)(E) \[sic\] of such title through which OTC drugs are provided and may conduct the demonstration project throughout the entire pharmacy benefits program or at a limited number of sites. If the project is conducted at a limited number of sites, the number of sites shall be not less than five in each TRICARE region for each of the two means described in such subparagraph.
+Conduct through military facilities, retail pharmacies, or mail order program.—The Secretary shall conduct the demonstration project through at least two of the means described in subparagraph (E) of section 1074g(a)(2) of such title through which OTC drugs are provided and may conduct the demonstration project throughout the entire pharmacy benefits program or at a limited number of sites. If the project is conducted at a limited number of sites, the number of sites shall be not less than five in eachTRICARE region for each of the two means described in such subparagraph.
 
 &emsp;“(3)
 

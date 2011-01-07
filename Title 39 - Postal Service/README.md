@@ -1,5 +1,5 @@
 
-39 U.S.C.<br>United States Code, 2009 Edition<br>Title 39 - POSTAL SERVICE<br>From the U.S. Government Publishing Office, www.gpo.gov
+39 U.S.C.<br>United States Code, 2010 Edition<br>Title 39 - POSTAL SERVICE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 39—POSTAL SERVICE
 

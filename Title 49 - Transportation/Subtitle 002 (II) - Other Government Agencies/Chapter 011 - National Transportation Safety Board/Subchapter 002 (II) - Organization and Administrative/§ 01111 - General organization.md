@@ -118,7 +118,7 @@ In subsection (c), the words “except as otherwise provided in this paragraph�
 
 In subsection (d), the words “On or before January 1, 1976” are omitted as executed. The words “(and thereafter as required)” and “(hereafter in this chapter referred to as the ‘Chairman’)” are omitted as unnecessary.
 
-In subsection (e), before clause (1), the words “is the chief executive and administrative officer of the Board” are substituted for “shall be the chief executive officer of the Board and shall exercise the executive and administrative functions of the Board” for clarity. The words “Subject to the general policies and decisions of the Board, the Chairman shall” are substituted for 49 App.:1902(b)(3) (last sentence) to eliminate unnecessary words. In clause (1), the words “Subject to the civil service and classification laws” are omitted as unnecessary because of title 5, United States Code, especially sections 3301, 5101, and 5331. The words “the Board is authorized” are omitted for consistency because the authority to appoint officers and employees is vested in the Chairman subject to the “general policies and decisions of the Board” as provided in thesource provisions. The words “including investigators, attorneys, and administrative law judges” are omitted as covered by “officers and employees”. The words “carry out this chapter” are substituted for “carry out its powers and duties under this chapter” to eliminate unnecessary words. In clause (3), the words “expenditures of the Board” are substituted for “the use and expenditure of funds” for clarity.
+In subsection (e), before clause (1), the words “is the chief executive and administrative officer of the Board” are substituted for “shall be the chief executive officer of the Board and shall exercise the executive and administrative functions of the Board” for clarity. The words “Subject to the general policies and decisions of the Board, the Chairman shall” are substituted for 49 App.:1902(b)(3) (last sentence) to eliminate unnecessary words. In clause (1), the words “Subject to the civil service and classification laws” are omitted as unnecessary because of title 5, United States Code, especially sections 3301, 5101, and 5331. The words “the Board is authorized” are omitted for consistency because the authority to appoint officers and employees is vested in the Chairman subject to the “general policies and decisions of the Board” as provided in the source provisions. The words “including investigators, attorneys, and administrative law judges” are omitted as covered by “officers and employees”. The words “carry out this chapter” are substituted for “carry out its powers and duties under this chapter” to eliminate unnecessary words. In clause (3), the words “expenditures of the Board” are substituted for “the use and expenditure of funds” for clarity.
 
 In subsection (f), the words “duties and powers” are substituted for “function” for consistency in the revised title and with other titles of the Code.
 
@@ -130,7 +130,7 @@ GS–15, referred to in subsec. (i), is contained in the General Schedule, which
 
 #### Amendments
 
-2006—Subsec. (e)(1). Pub. L. 109–443, §9(d)(1), added par. (1) and struck out former par. (1) which read as follows: “appoint, supervise, and fix the pay of officers and employees necessary to carry out this chapter;”.
+<b>2006</b>—Subsec. (e)(1). Pub. L. 109–443, §9(d)(1), added par. (1) and struck out former par. (1) which read as follows: “appoint, supervise, and fix the pay of officers and employees necessary to carry out this chapter;”.
 
 Subsec. (e)(2) to (4). Pub. L. 109–443, §9(d)(2), (3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
@@ -138,7 +138,7 @@ Subsec. (g)(5). Pub. L. 109–443, §9(a), added par. (5).
 
 Subsecs. (i), (j). Pub. L. 109–443, §9(d)(4), (5), added subsec. (i) and redesignated former subsec. (i) as (j).
 
-2000—Subsecs. (h), (i). Pub. L. 106–424 added subsec. (h) and redesignated former subsec. (h) as (i).
+<b>2000</b>—Subsecs. (h), (i). Pub. L. 106–424 added subsec. (h) and redesignated former subsec. (h) as (i).
 
 #### Utilization Plan
 
@@ -182,5 +182,5 @@ Pub. L. 109–443, §6, Dec. 21, 2006, 120 Stat. 3300, provided that: “The Nat
 
 #### Improved Audit Procedures
 
-Pub. L. 106–424, §11, Nov. 1, 2000, 114 Stat. 1887, provided that: “The National Transportation Safety Board, in consultation with the Inspector General of the Department of Transportation, shall develop and implement comprehensive internal audit controls for its financial programs based on the findings and recommendations of the private sector audit firm contract entered into by the Board in March, 2000. The improved internal audit controls shall, at a minimum, address Board asset management systems, including systems for accounting management, debt collection, travel, and property and inventory management and control.”
+Pub. L. 106–424, §11, Nov. 1, 2000, 114 Stat. 1887, provided that: “The National Transportation Safety Board, in consultation with the Inspector General of the Department of Transportation, shall develop and implement comprehensive internal audit controls for its financial programs based on the findings and recommendations of the private sector audit firm contract entered into by the Board in March, 2000. The improvedinternal audit controls shall, at a minimum, address Board asset management systems, including systems for accounting management, debt collection, travel, and property and inventory management and control.”
 

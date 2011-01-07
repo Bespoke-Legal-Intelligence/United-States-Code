@@ -2,7 +2,7 @@
 
 #### (a) Standards
 
-The Secretary may designate any discrete area of the marine environment as a national marine sanctuary and promulgate regulations implementing the designation if the Secretary determines that—
+The Secretary may designate any discrete area of the marine environment as a nationalmarine sanctuary and promulgate regulations implementing the designation if the Secretary determines that—
 
 &emsp;(1) the designation will fulfill the purposes and policies of this chapter;
 
@@ -24,7 +24,7 @@ The Secretary may designate any discrete area of the marine environment as a nat
 
 #### (1) Factors
 
-&emsp;For purposes of determining if an area of the marine environment meets the standards setforth in subsection (a) of this section, the Secretary shall consider—
+&emsp;For purposes of determining if an area of the marine environment meets the standards set forth in subsection (a) of this section, the Secretary shall consider—
 
 &emsp;&emsp;(A) the area's natural resource and ecological qualities, including its contribution to biological productivity, maintenance of ecosystem structure, maintenance of ecologically or commercially important or threatened species or species assemblages, maintenance of critical habitat of endangered species, and the biogeographic representation of the site;
 
@@ -68,7 +68,7 @@ The Secretary may designate any discrete area of the marine environment as a nat
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–555, in introductory provisions, substituted “the Secretary determines that—” for “the Secretary—”, added pars. (1) to (5), and struck out former pars. (1) and (2) which read as follows:
+<b>2000</b>—Subsec. (a). Pub. L. 106–555, in introductory provisions, substituted “the Secretary determines that—” for “the Secretary—”, added pars. (1) to (5), and struck out former pars. (1) and (2) which read as follows:
 
 “(1) determines that—
 
@@ -106,15 +106,15 @@ Subsec. (b)(2)(A). Pub. L. 106–513, §19(a)(1), substituted “Resources” fo
 
 Subsec. (b)(2)(D). Pub. L. 106–513, §19(b)(3), substituted “Magnuson-Stevens Act” for “Magnuson Act”.
 
-Subsec. (b)(3). Pub. L. 106–513, §5(b)(2), struck out heading and text of par. (3). Prior to amendment, text read as follows: “In making determinations and findings, the Secretary shall draft, as part of the environmental impact statement referred to in section 1434(a)(2) of this title, a resource assessment report documenting present and potential uses of the area, including commercial and recreational fishing, research and education, minerals and energy development, subsistence uses, and other commercial, governmental, or recreational uses. The Secretary, in consultation withthe Secretary of the Interior, shall draft a resource assessment section for the report regarding any commercial, governmental, or recreational resource uses in the area under consideration that are subject to the primary jurisdiction of the Department of the Interior. The Secretary, in consultation with the Secretary of Defense, the Secretary of Energy, and the Administrator, shall draft a resource assessment section for the report, including information on any past, present, or proposed future disposal or discharge of materials in the vicinity of the proposed sanctuary. Public disclosure by the Secretary of such information shall be consistent with national security regulations.”
+Subsec. (b)(3). Pub. L. 106–513, §5(b)(2), struck out heading and text of par. (3). Prior to amendment, text read as follows: “In making determinations and findings, the Secretary shall draft, as part of the environmental impact statement referred to in section 1434(a)(2) of this title, a resource assessment report documenting present and potential uses of the area, including commercial and recreational fishing, research and education, minerals and energy development, subsistence uses, and other commercial, governmental, or recreational uses. The Secretary, in consultation with the Secretary of the Interior, shall draft a resource assessment section for the report regarding any commercial, governmental, or recreational resource uses in the area under consideration that are subject to the primary jurisdiction of the Department of the Interior. The Secretary, in consultation with the Secretary of Defense, the Secretary of Energy, and the Administrator, shall draft a resource assessment section for the report, including information on any past, present, or proposed future disposal or discharge of materials in the vicinity of the proposed sanctuary. Public disclosure by the Secretary of such information shall be consistent with national security regulations.”
 
-1992—Subsec. (a)(2)(B). Pub. L. 102–587, §2103(a), inserted “or should be supplemented” after “inadequate”.
+<b>1992</b>—Subsec. (a)(2)(B). Pub. L. 102–587, §2103(a), inserted “or should be supplemented” after “inadequate”.
 
 Subsec. (b)(1)(A). Pub. L. 102–587, §2103(b)(1), inserted “maintenance of critical habitat of endangered species,” after “assemblages,”.
 
 Subsec. (b)(3). Pub. L. 102–587, §2103(b)(2), substituted “1434(a)(2)” for “1434(a)(1)”, inserted “, governmental,” after “other commercial” and after “any commercial”, and inserted at end: “The Secretary, in consultation with the Secretary of Defense, the Secretary of Energy, and the Administrator, shall draft a resource assessment section for the report, including information on any past, present, or proposed future disposal or discharge of materials in the vicinity of the proposed sanctuary. Public disclosure by the Secretary of such information shall be consistent with national security regulations.”
 
-1984—Pub. L. 98–498 amended section generally, substituting provisions relating to sanctuary designation standards for provisions relating to penalties. See section 1437(b) of this title.
+<b>1984</b>—Pub. L. 98–498 amended section generally, substituting provisions relating to sanctuary designation standards for provisions relating to penalties. See section 1437(b) of this title.
 
 #### Change of Name
 

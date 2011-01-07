@@ -18,15 +18,15 @@ Historical and Revision Notes
 
 Mar. 4, 1937, ch. 26, 50 Stat. 25.
 
-In subsection (a) the word “receive” and the words “from individuals or others” and “of the UnitedStates” are omitted as surplusage. The title of the “Office of Naval Records and Library, Navy Department” is changed to “Office of Naval Records and History”, in accordance with a directive of the Secretary of the Navy dated March 10, 1949.
+In subsection (a) the word “receive” and the words “from individuals or others” and “of the United States” are omitted as surplusage. The title of the “Office of Naval Records and Library, Navy Department” is changed to “Office of Naval Records and History”, in accordance with a directive of the Secretary of the Navy dated March 10, 1949.
 
 Subsection (b) is rewritten for clarity and to conform to a similar statement appearing in 5 U.S.C. 150s.
 
 #### Amendments
 
-2000—Pub. L. 106–398 amended section catchline and text generally. Prior to amendment, section related to acceptance and administration of gifts, bequests, and loans for the benefit of the Naval Historical Center.
+<b>2000</b>—Pub. L. 106–398 amended section catchline and text generally. Prior to amendment, section related to acceptance and administration of gifts, bequests, and loans for the benefit of the Naval Historical Center.
 
-1996—Pub. L. 104–201, §1073(b)(2)(A), substituted “Naval Historical Center Fund” for “Office of Naval Records and History gift fund” in section catchline.
+<b>1996</b>—Pub. L. 104–201, §1073(b)(2)(A), substituted “Naval Historical Center Fund” for “Office of Naval Records and History gift fund” in section catchline.
 
 Subsecs. (a), (c). Pub. L. 104–201, §1073(b)(1), substituted “Naval Historical Center” for “Office of Naval Records and History” wherever appearing.
 

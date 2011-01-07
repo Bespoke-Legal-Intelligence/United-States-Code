@@ -6,7 +6,7 @@ The Office shall have the authority, within the limits of available appropriatio
 
 &emsp;(1) make full use of competent personnel and organizations outside the Office, public or private, and form special ad hoc task forces or make other arrangements when appropriate;
 
-&emsp;(2) enter into contracts or other arrangements as may be necessary for the conduct of the work of the Office with any agency or instrumentality of the United States, with any State, territory, or possession or any political subdivision thereof, or with any person, firm, association, corporation, or educational institution, with or without reimbursement, without performance or other bonds, and without regard to section 5 of title 41;
+&emsp;(2) enter into contracts or other arrangements as may be necessary for the conduct of the work of the Office with any agency or instrumentality of the United States, with any State, territory, or possession or any political subdivision thereof, or with any person, firm, association, corporation, or educational institution, with or without reimbursement, without performance or other bonds, and without regard to section 6101 of title 41;
 
 &emsp;(3) make advance, progress, and other payments which relate to technology assessment without regard to the provisions of section 3324(a) and (b) of title 31;
 
@@ -39,6 +39,8 @@ The Director shall, in accordance with such policies as the Board shall prescrib
 (Pub. L. 92–484, §6, Oct. 13, 1972, 86 Stat. 799.)
 
 #### Codification
+
+In subsec. (a)(2), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (a)(3), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes (31 U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 

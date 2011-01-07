@@ -16,7 +16,7 @@ The Secretary of the Interior and the Secretary of Health and Human Services, as
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–666, §4(b), substituted “Commissioner” for “Commission”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–666, §4(b), substituted “Commissioner” for “Commission”.
 
 Subsec. (b). Pub. L. 100–666, §3, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Such funds may only be used by the Commission to—
 

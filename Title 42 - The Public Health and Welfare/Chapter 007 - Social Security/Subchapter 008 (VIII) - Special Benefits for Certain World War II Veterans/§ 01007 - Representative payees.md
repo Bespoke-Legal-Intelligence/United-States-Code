@@ -16,7 +16,7 @@ If the Commissioner of Social Security determines that the interest of any quali
 
 &emsp;(A) require the person being investigated to submit documented proof of the identity of the person;
 
-&emsp;(B) in the case of a person who has a social security account number issued for purposes of the program under subchapter II of this chapter or an employer identification number issued for purposes of the Internal Revenue Code of 1986, verify the number;
+&emsp;(B) in the case of a person who has a social security account number issued for purposes of the program under subchapter II of thischapter or an employer identification number issued for purposes of the Internal Revenue Code of 1986, verify the number;
 
 &emsp;(C) determine whether the person has been convicted of a violation of section 408, 1011, or 1383a of this title;
 
@@ -50,7 +50,7 @@ The Commissioner of Social Security shall establish and maintain lists which sha
 
 &emsp;&emsp;(A) the person has been convicted of a violation of section 408, 1011, or 1383a of this title;
 
-&emsp;&emsp;(B) except as provided in paragraph (2), payment of benefits to the person in the capacity of representative payee has been revoked or terminated under this section, section 405(j) of this title, or section 1383(a)(2)(A)(ii) <sup>1</sup> of this title by reason ofmisuse of funds paid as benefits under this subchapter, subchapter II, or subchapter XVI of this chapter, respectively;
+&emsp;&emsp;(B) except as provided in paragraph (2), payment of benefits to the person in the capacity of representative payee has been revoked or terminated under this section, section 405(j) of this title, or section 1383(a)(2)(A)(ii) <sup>1</sup> of this title by reason of misuse of funds paid as benefits under this subchapter, subchapter II, or subchapter XVI of this chapter, respectively;
 
 &emsp;&emsp;(C) except as provided in paragraph (2)(B), the person is a creditor of the qualified individual and provides the qualified individual with goods or services for consideration;
 
@@ -74,7 +74,7 @@ The Commissioner of Social Security shall establish and maintain lists which sha
 
 &emsp;&emsp;(v) a person who is determined by the Commissioner of Social Security, on the basis of written findings and pursuant to procedures prescribed by the Commissioner of Social Security, to be acceptable to serve as a representative payee.
 
-&emsp;(C) The procedures referred to in subparagraph (B)(v) shall require the person who will serve as representative payee to establish, to the satisfaction of the Commissioner of Social Security, that—
+&emsp;(C) The procedures referred to in subparagraph (B)(v) shall require the person who willserve as representative payee to establish, to the satisfaction of the Commissioner of Social Security, that—
 
 &emsp;&emsp;(i) the person poses no risk to the qualified individual;
 
@@ -214,7 +214,7 @@ For prior provisions, see note set out under section 1001 of this title.
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–203, §101(b)(3), substituted “for his or her use and benefit” for “for his or her benefit”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–203, §101(b)(3), substituted “for his or her use and benefit” for “for his or her benefit”.
 
 Subsec. (b)(2)(D) to (F). Pub. L. 108–203, §103(b)(1), added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
 

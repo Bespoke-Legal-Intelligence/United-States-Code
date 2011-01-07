@@ -2,7 +2,7 @@
 
 #### (a) Collection agent
 
-Each self-regulatory organization shall act as collection agent for SIPC to collect the assessments payable by all members of SIPC for whom such self-regulatory organization is the examining authority, unless SIPC designates a self-regulatory organization other than the examining authority to act as collection agent for anymember of SIPC who is a member of or participant in more than one self-regulatory organization. If the only self-regulatory organization of which a member of SIPC is a member or in which it is a participant is a registered clearing agency that is not the examining authority for the member, SIPC may, nevertheless, designate such registered clearing agency as collection agent for the member or may require that payments be made directly to SIPC. The collection agent shall be obligated to remit to SIPC assessments made under section 78ddd of this title only to the extent that payments of such assessment are received by such collection agent. Members of SIPC who are not members of or participants in a self-regulatory organization shall make payments directly to SIPC.
+Each self-regulatory organization shall act as collection agent for SIPC to collect the assessments payable by all members of SIPC for whom such self-regulatory organization is the examining authority, unless SIPC designates a self-regulatory organization other than the examining authority to act as collection agent for any member of SIPC who is a member of or participant in more than one self-regulatory organization. If the only self-regulatory organization of which a member of SIPC is a member or in which it is a participant is a registered clearing agency that is not the examining authority for the member, SIPC may, nevertheless, designate such registered clearing agency as collection agent for the member or may require that payments be made directly to SIPC. The collection agent shall be obligated to remit to SIPC assessments made under section 78ddd of this title only to the extent that payments of such assessment are received by such collection agent. Members of SIPC who are not members of or participants in a self-regulatory organization shall make payments directly to SIPC.
 
 #### (b) Immunity
 
@@ -34,7 +34,7 @@ SIPC shall consult and cooperate with the self-regulatory organizations toward t
 
 The Commission may, by such rules as it determines necessary or appropriate in the public interest and to carry out the purposes of this chapter, require any self-regulatory organization to furnish SIPC with reports and records (or copies thereof) relating to the financial condition of members of or participants in such self-regulatory organization.
 
-(Pub. L. 91–598, §13, formerly §9, Dec. 30, 1970, 84 Stat. 1654; amended Pub. L. 94–29, §26, June 4, 1975, 89 Stat. 163; renumbered §13 and amended Pub. L. 95–283, §§9, 12, May 21, 1978, 92 Stat. 260, 269.)
+(Pub. L. 91–598, §13, formerly §9, Dec. 30, 1970, 84 Stat. 1654; amended Pub. L. 94–29, §26, June 4,1975, 89 Stat. 163; renumbered §13 and amended Pub. L. 95–283, §§9, 12, May 21, 1978, 92 Stat. 260, 269.)
 
 #### References in Text
 
@@ -42,7 +42,7 @@ This chapter, referred to in subsec. (f), was in the original “this Act”, me
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–283, §12(a), in heading substituted “Collection” for “Collecting”, and in text inserted provisions relating to designation of a self-regulatory organization other than the examining authority to act as collection agent and provisions relating to designation of a registered clearing agency as collection agent, and substituted provisions relating to remittances by the collection agent to SIPC, for provisions relating to remittances by an examining authority to SIPC.
+<b>1978</b>—Subsec. (a). Pub. L. 95–283, §12(a), in heading substituted “Collection” for “Collecting”, and in text inserted provisions relating to designation of a self-regulatory organization other than the examining authority to act as collection agent and provisions relating to designation of a registered clearing agency as collection agent, and substituted provisions relating to remittances by the collection agent to SIPC, for provisions relating to remittances by an examining authority to SIPC.
 
 Subsec. (b). Pub. L. 95–283, §12(b), inserted reference to section 78eee(a)(2) of this title.
 
@@ -50,7 +50,7 @@ Subsec. (c). Pub. L. 95–283, §12(c), revised existing format and provisions i
 
 Subsec. (f). Pub. L. 95–283, §12(d), substituted provisions authorizing the Commission to set out rules requiring self-regulatory organizations to furnish SIPC with reports and records of members or participants in such self-regulatory organizations, for provisions authorizing the Commission to set out rules, and regulations requiring self-regulatory organizations to adopt rules, practices, and procedures respecting inspections and examinations of members and examiners, to furnish SIPC and the Commission with reports and records of members, and to inspect or examine members.
 
-1975—Subsec. (c). Pub. L. 94–29 directed the Commission to designate the self-regulatory organization to be responsible for enforcing applicable rules with respect to any firm which is a member of more than one self-regulatory organization.
+<b>1975</b>—Subsec. (c). Pub. L. 94–29 directed the Commission to designate the self-regulatory organization to be responsible for enforcing applicable rules with respect to any firm which is a member of more than one self-regulatory organization.
 
 #### Effective Date of 1975 Amendment
 

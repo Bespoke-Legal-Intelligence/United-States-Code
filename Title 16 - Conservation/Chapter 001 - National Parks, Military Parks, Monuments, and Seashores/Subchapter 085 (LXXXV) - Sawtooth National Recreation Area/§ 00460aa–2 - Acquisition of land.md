@@ -36,7 +36,3 @@ Except as otherwise provided, the Secretary shall have the authority to use cond
 
 (Pub. L. 92–400, §3, Aug. 22, 1972, 86 Stat. 612.)
 
-#### References in Text
-
-The United States mining laws, referred to in subsec. (e), are classified generally to Title 30, Mineral Lands and Mining.
-

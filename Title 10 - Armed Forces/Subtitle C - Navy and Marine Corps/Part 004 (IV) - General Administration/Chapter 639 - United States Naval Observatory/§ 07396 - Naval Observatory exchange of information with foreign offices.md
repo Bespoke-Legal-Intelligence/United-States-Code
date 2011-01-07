@@ -2,7 +2,7 @@
 
 (a) The Secretary of the Navy may arrange to exchange data with foreign almanac offices to reduce the duplication of work in preparing the different national nautical and astronomical almanacs and make available for publication a larger amount of data useful to navigators and astronomers. Each such arrangement shall be made terminable on one year's notice.
 
-(b) The work of the Nautical Almanac Office shall be so conducted that in an emergency the part of the work intended for the use of navigators may be computed by the force of the office without foreign cooperation.
+(b) The work of the Nautical Almanac Office shall be so conducted that in an emergency thepart of the work intended for the use of navigators may be computed by the force of the office without foreign cooperation.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 457; Pub. L. 95–357, Sept. 8, 1978, 92 Stat. 591.)
 
@@ -26,5 +26,5 @@ In subsection (b) the words “during the continuance of any such arrangement”
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–357 struck out “in the American Ephemeris and Nautical Almanac” after “for publication”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–357 struck out “in the American Ephemeris and Nautical Almanac” after “for publication”.
 

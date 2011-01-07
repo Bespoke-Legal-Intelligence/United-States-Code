@@ -4,7 +4,3 @@ In any conveyance under this chapter the mineral interests of the United States 
 
 (Pub. L. 87–851, §7, Oct. 23, 1962, 76 Stat. 1128.)
 
-#### References in Text
-
-The mining laws and the mineral leasing laws, referred to in text, are classified generally to this title.
-

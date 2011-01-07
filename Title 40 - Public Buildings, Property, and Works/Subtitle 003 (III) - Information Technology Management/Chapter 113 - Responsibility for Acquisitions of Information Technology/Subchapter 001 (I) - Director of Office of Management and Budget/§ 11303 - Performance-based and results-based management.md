@@ -48,7 +48,7 @@ In general.—The Director may take any action that the Director considers appro
 
 Specific actions.—Actions taken by the Director may include—
 
-&emsp;&emsp;&emsp;(i) recommending a reduction or an increase in the amount for information resources that the head of the executiveagency proposes for the budget submitted to Congress under section 1105(a) of title 31;
+&emsp;&emsp;&emsp;(i) recommending a reduction or an increase in the amount for information resources that the head of the executive agency proposes for the budget submitted to Congress under section 1105(a) of title 31;
 
 &emsp;&emsp;&emsp;(ii) reducing or otherwise adjusting apportionments and reapportionments of appropriations for information resources;
 

@@ -6,7 +6,3 @@ Township 18 north, range 7 east, Mount Diablo base and meridian, California: Sec
 
 (June 5, 1942, ch. 334, 56 Stat. 311.)
 
-#### References in Text
-
-The United States mining laws, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
-

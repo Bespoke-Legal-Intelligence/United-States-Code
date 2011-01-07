@@ -46,21 +46,17 @@ Nothing in this subchapter shall be construed to establish a new express or impl
 
 #### (i) Cooperative agreements with Federal and other agencies; interpretation of Great Basin physiographic region
 
-In order to encourage unified and cost-effective interpretation of the Great Basin physiographic region, the Secretary is authorized and encouraged to enter into cooperative agreements with other Federal, State, and local public departments and agencies providing for theinterpretation of the Great Basin physiographic region. Such agreements shall include, but not be limited to, authority for the Secretary to develop and operate interpretive facilities and programs on lands and waters outside of the boundaries of such park, with the concurrence of the owner or administrator thereof.
+In order to encourage unified and cost-effective interpretation of the Great Basin physiographic region, the Secretary is authorized and encouraged to enter into cooperative agreements with other Federal, State, and local public departments and agencies providing for the interpretation of the Great Basin physiographic region. Such agreements shall include, but not be limited to, authority for the Secretary to develop and operate interpretive facilities and programs on lands and waters outside of the boundaries of such park, with the concurrence of the owner or administrator thereof.
 
 (Pub. L. 99–565, §3, Oct. 27, 1986, 100 Stat. 3182; Pub. L. 104–134, title I, §101(c) \[title III, §319\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–203; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 
-The public lands laws, referred to in subsec. (d), are classified generally to Title 43, Public Lands.
-
-The mining laws and the mineral leasing laws of the United States, referred to in subsec. (d), are classified generally to Title 30, Mineral Lands and Mining.
-
 The Geothermal Steam Act of 1970, as amended, referred to in subsec. (d), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§1001 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–134, §101(c) \[title III, §319(1)\], substituted “may permit” for “shall permit” in first sentence.
+<b>1996</b>—Subsec. (e). Pub. L. 104–134, §101(c) \[title III, §319(1)\], substituted “may permit” for “shall permit” in first sentence.
 
 Subsec. (f). Pub. L. 104–134, §101(c) \[title III, §319(2)\], designated existing provisions as par. (1), inserted heading, substituted “grazing permits and grazing leases” for “grazing permits”, and added par. (2).
 

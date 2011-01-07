@@ -32,7 +32,7 @@
 
 &emsp;(B) donations from public or private relief or welfare organizations;
 
-&emsp;(C) payments under this chapter (except section 1312(a)) and chapters 11 and 15 of this title and under the first sentence of section 9(b) of the Veterans’ Pension Act of 1959;
+&emsp;(C) payments under this chapter (except section 1312(a)) and chapters 11 and 15 of this titleand under the first sentence of section 9(b) of the Veterans’ Pension Act of 1959;
 
 &emsp;(D) lump-sum death payments under title II of the Social Security Act (42 U.S.C. 401 et seq.);
 
@@ -80,7 +80,7 @@ The Social Security Act, referred to in subsec. (f)(1)(D), is act Aug. 14, 1935,
 
 #### Amendments
 
-2009—Subsec. (b)(1). Pub. L. 111–37, §3(f)(1)(A), substituted “$569” for “$163”.
+<b>2009</b>—Subsec. (b)(1). Pub. L. 111–37, §3(f)(1)(A), substituted “$569” for “$163”.
 
 Subsec. (b)(3). Pub. L. 111–37, §3(f)(1)(B), substituted “$13,456” for “$4,038”.
 
@@ -94,15 +94,15 @@ Subsec. (d)(3). Pub. L. 111–37, §3(f)(3)(B), substituted “$18,087” for �
 
 Subsec. (g). Pub. L. 111–37, §3(f)(4), substituted “$308” for “$85”.
 
-2006—Subsec. (g)(2). Pub. L. 109–233 substituted “blind, or so nearly blind or significantly disabled as to” for “helpless or blind, or so nearly helpless or blind as to”.
+<b>2006</b>—Subsec. (g)(2). Pub. L. 109–233 substituted “blind, or so nearly blind or significantly disabled as to” for “helpless or blind, or so nearly helpless or blind as to”.
 
-1996—Subsec. (f)(1)(F). Pub. L. 104–275 substituted “servicemembers’ group” for “servicemen's group”.
+<b>1996</b>—Subsec. (f)(1)(F). Pub. L. 104–275 substituted “servicemembers’ group” for “servicemen's group”.
 
-1994—Subsec. (e). Pub. L. 103–271, in first sentence, substituted “may require” for “shall require” and “for a calendar year” for “each year” and, in second sentence, substituted “notify the Secretary” for “file with the Secretary a revised report” and struck out “the estimated” after “material change in”.
+<b>1994</b>—Subsec. (e). Pub. L. 103–271, in first sentence, substituted “may require” for “shall require” and “for a calendar year” for “each year” and, in second sentence, substituted “notify the Secretary” for “file with the Secretary a revised report” and struck out “the estimated” after “material change in”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 415 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 415 of this title as this section.
 
-Subsec. (a). Pub. L. 102–86 amended this section as in effect before the redesignations made by Pub. L. 102–83,§5, by amending subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Dependency and indemnity compensation shall be paid monthly to parents of a deceased veteran in the amounts prescribed by this section.”
+Subsec. (a). Pub. L. 102–86 amended this section as in effect before the redesignations made by Pub. L. 102–83, §5, by amending subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Dependency and indemnity compensation shall be paid monthly to parents of a deceased veteran in the amounts prescribed by this section.”
 
 Subsec. (b)(1). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
@@ -130,17 +130,17 @@ Subsec. (f)(1)(I), (3). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secr
 
 Subsec. (g). Pub. L. 102–40 substituted “5312” for “3112”.
 
-1988—Subsec. (f)(1)(I). Pub. L. 100–687 amended cl. (I) generally. Prior to amendment, cl. (I) read as follows: “proceeds of fire insurance policies;”.
+<b>1988</b>—Subsec. (f)(1)(I). Pub. L. 100–687 amended cl. (I) generally. Prior to amendment, cl. (I) read as follows: “proceeds of fire insurance policies;”.
 
-1982—Subsec. (f)(1)(D). Pub. L. 97–295, §4(10)(A), substituted “title II of the Social Security Act (42 U.S.C. 401 et seq.)” for “subchapter II of chapter 7 of title 42”.
+<b>1982</b>—Subsec. (f)(1)(D). Pub. L. 97–295, §4(10)(A), substituted “title II of the Social Security Act (42 U.S.C. 401 et seq.)” for “subchapter II of chapter 7 of title 42”.
 
 Subsec. (f)(1)(G). Pub. L. 97–295, §4(10)(B), substituted “percent” for “per centum”.
 
-1980—Subsec. (f). Pub. L. 96–466 redesignated subsec. (g) as (f). Former subsec. (f), which directed the Administrator, upon ascertaining that there had been overpayments to a parent under this section, to deduct such overpayments (unless waived) from any future payments made to such parent under this section, was struck out.
+<b>1980</b>—Subsec. (f). Pub. L. 96–466 redesignated subsec. (g) as (f). Former subsec. (f), which directed the Administrator, upon ascertaining that there had been overpayments to a parent under this section, to deduct such overpayments (unless waived) from any future payments made to such parent under this section, was struck out.
 
 Subsecs. (g), (h). Pub. L. 96–466 redesignated subsecs. (g) and (h) as (f) and (g), respectively.
 
-1978—Subsec. (b)(1). Pub. L. 95–588, §201(a)(1), substituted a fixed monthly amount of $163, subject to certain increases and deductions, as parental compensation for a formula for computing the monthly award under this subsection based upon the annual income of the recipient.
+<b>1978</b>—Subsec. (b)(1). Pub. L. 95–588, §201(a)(1), substituted a fixed monthly amount of $163, subject to certain increases and deductions, as parental compensation for a formula for computing the monthly award under this subsection based upon the annual income of the recipient.
 
 Subsec. (b)(3). Pub. L. 95–588, §201(a)(2), substituted “$4,038, as increased from time to time under section 3112 of this title” for “$3,770”.
 
@@ -156,7 +156,7 @@ Subsec. (d)(3). Pub. L. 95–588, §201(c)(2), substituted “$5,430, as increas
 
 Subsec. (h). Pub. L. 95–588, §201(d), substituted “$85, as increased from time to time under section 3112 of this title” for “$79”.
 
-1977—Subsec. (b)(1). Pub. L. 95–204, §201(1), increased monthly rate of compensation from $142 to $152, substituted “.05” for “.04”, “.06” for “.05”, “.08” for “.06”, “1,500” for “1,400” in two places, and “3,770” for “1,600”, and struck out provision reducing compensation by .08 for income more than 1,600 but not more than 3,540.
+<b>1977</b>—Subsec. (b)(1). Pub. L. 95–204, §201(1), increased monthly rate of compensation from $142 to $152, substituted “.05” for “.04”, “.06” for “.05”, “.08” for “.06”, “1,500” for “1,400” in two places, and “3,770” for “1,600”, and struck out provision reducing compensation by .08 for income more than 1,600 but not more than 3,540.
 
 Subsec. (b)(3). Pub. L. 95–204, §201(2), substituted “$3,770” for “$3,540”.
 
@@ -170,7 +170,7 @@ Subsec. (d)(3). Pub. L. 95–204, §201(6), substituted “$5,070” for “$4,7
 
 Subsec. (h). Pub. L. 95–204, §201(7), substituted “$79” for “$74”.
 
-1976—Subsec. (b)(1). Pub. L. 94–432, §301(1), increased monthly rate of compensation from $133 to $142 and substituted $1,200 to $1,400 for $1,200 to $1,500, $1,400 to $1,600 for $1,500 to $1,700 and $1,600 to $3,540 for $1,700 to $3,300.
+<b>1976</b>—Subsec. (b)(1). Pub. L. 94–432, §301(1), increased monthly rate of compensation from $133 to $142 and substituted $1,200 to $1,400 for $1,200 to $1,500, $1,400 to $1,600 for $1,500 to $1,700 and $1,600 to $3,540 for $1,700 to $3,300.
 
 Subsec. (b)(3). Pub. L. 94–432, §301(2), substituted “$3,540” for “$3,300”.
 
@@ -184,13 +184,13 @@ Subsec. (d)(3). Pub. L. 94–432, §301(6), substituted “$4,760” for “$4,5
 
 Subsec. (h). Pub. L. 94–432, §301(7), substituted “$74” for “$69”.
 
-1975—Subsec. (b)(1). Pub. L. 94–169, §201(2), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, monthly rate of compensation from $123 to $133, substituted $1000 to $1200 for $1000 to $1300, $1200 to $1500 for $1300 to $1600, $1500 to $1700 for $1600 to $1800 and $1700 to $3300 for $2000 to $3000, the minimum and maximum income ranges for which the compensation rate will be reduced by 4, 5, 6 and 8 cents per dollar, respectively, struck out the income range of $1800 to $2000 for which the reduction rate is 7 cents per dollar, increased from $4.00 to $5.00 the minimum payable compensation, and increased from $3,000 to $3300 the income in excess of which no compensation will be paid.
+<b>1975</b>—Subsec. (b)(1). Pub. L. 94–169, §201(2), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, monthly rate of compensation from $123 to $133, substituted $1000 to $1200 for $1000 to $1300, $1200 to $1500 for $1300 to $1600, $1500 to $1700 for $1600 to $1800 and $1700 to $3300 for $2000 to $3000, the minimum and maximum income ranges for which the compensation rate will be reduced by 4, 5, 6 and 8 cents per dollar, respectively, struck out the income range of $1800 to $2000 for which the reduction rate is 7 cents per dollar, increased from $4.00 to $5.00 the minimum payable compensation, and increased from $3,000 to $3300 the income in excess of which no compensation will be paid.
 
 Subsec. (b)(2). Pub. L. 94–169, §201(1), redesignated, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, subsec. (b)(2) as (b)(4), and in subsec. (b)(4) as so redesignated, substituted “such parent has remarried” for “he has remarried”, “with such parent's spouse” for “with his spouse”, “paid to such parent” for “paid to him” and “parent and such parent's spouse” for “parent and his spouse”.
 
-Subsec. (c). Pub. L. 94–169, §201(3), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, monthly rate of compensation from $86 to $93, substituted $1100 to $1600 for $1100 to $2100, $1600 to $2400 for $2100 to $2500 and $2400 to $3300 for $2500 to $3000, the minimum and maximum income ranges for which the compensation rate will be reduced 4, 5 and 6 cents, respectively, increased from $4.00 to $5.00 the minimum payable compensation, and increased from $3000 to $3300the income in excess of which no compensation will be paid.
+Subsec. (c). Pub. L. 94–169, §201(3), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, monthly rate of compensation from $86 to $93, substituted $1100 to $1600 for $1100 to $2100, $1600 to $2400 for $2100 to $2500 and $2400 to $3300 for $2500 to $3000, the minimum and maximum income ranges for which the compensation rate will be reduced 4, 5 and 6 cents, respectively, increased from $4.00 to $5.00 the minimum payable compensation, and increased from $3000 to $3300 the income in excess of which no compensation will be paid.
 
-Subsec. (d). Pub. L. 94–169, §201(3), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, basic rate of monthly compensation from $83 to $90, substituted $1000 to $2300 for $1100 to $2500, $2300 to $3300 for $2500 to $3500 and $3300 to $4500 for $3500 to $4200 the minimum and maximum income ranges for which the compensation rate will be reduced by 2, 3, and 4 cents, respectively, struck out the income range of $1000 to $1100 for which the reduction rate is 1 cent per dollar, increased from $4.00 to $5.00 the minimum payable compensation, and increased from $4200 to $4500 the income in excess of which no compensation will be paid.
+Subsec. (d). Pub. L. 94–169, §201(3), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30,1976, basic rate of monthly compensation from $83 to $90, substituted $1000 to $2300 for $1100 to $2500, $2300 to $3300 for $2500 to $3500 and $3300 to $4500 for $3500 to $4200 the minimum and maximum income ranges for which the compensation rate will be reduced by 2, 3, and 4 cents, respectively, struck out the income range of $1000 to $1100 for which the reduction rate is 1 cent per dollar, increased from $4.00 to $5.00 the minimum payable compensation, and increased from $4200 to $4500 the income in excess of which no compensation will be paid.
 
 Subsec. (e). Pub. L. 94–169, §201(4), substituted, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, “with the Administrator” for “with him” and “prescribed by the Administrator” for “prescribed by him”.
 
@@ -200,7 +200,7 @@ Subsec. (g)(1)(J)(ii). Pub. L. 94–169, §201(6), substituted, effective for pe
 
 Subsec. (h). Pub. L. 94–169, §201(7), substituted, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, “$69” for “$64”.
 
-1974—Subsec. (b)(1). Pub. L. 93–527, §7(1), substituted “$123” for “$110”, “$1000” for “$1100” wherever appearing, “$1300” for “$1500” wherever appearing, “$1600” for “$1700” wherever appearing, “$1800” for “$2000” wherever appearing, “$2000” for “$2300” wherever appearing, and “$3000” for “$2600” wherever appearing, and provided that in no event shall the monthly rate be less than $4.00.
+<b>1974</b>—Subsec. (b)(1). Pub. L. 93–527, §7(1), substituted “$123” for “$110”, “$1000” for “$1100” wherever appearing, “$1300” for “$1500” wherever appearing, “$1600” for “$1700” wherever appearing, “$1800” for “$2000” wherever appearing, “$2000” for “$2300” wherever appearing, and “$3000” for “$2600” wherever appearing, and provided that in no event shall the monthly rate be less than $4.00.
 
 Subsec. (b)(2). Pub. L. 93–527, §7(1), reenacted par. (2) without change.
 
@@ -210,7 +210,7 @@ Subsec. (d). Pub. L. 93–527, §7(3), substituted “$83” for “$74”, “$
 
 Subsec. (h). Pub. L. 93–527, §7(4), substituted “$64” for “$55”.
 
-1973—Subsec. (b)(1). Pub. L. 93–177, §4(a), substituted “$110” for “$100”, “$1,100” for “$1,200”, “$1,500” for “$1,600”, “$1,700” for “$1,900”, “$2,000” for “$2,100”, and “$2,300” for “$2,600” in existing provisions and inserted provisions for a reduction of 8 cents in the monthly rate for each $1 annual income in excess of $2,300 up to and including $2,600.
+<b>1973</b>—Subsec. (b)(1). Pub. L. 93–177, §4(a), substituted “$110” for “$100”, “$1,100” for “$1,200”, “$1,500” for “$1,600”, “$1,700” for “$1,900”, “$2,000” for “$2,100”, and “$2,300” for “$2,600” in existing provisions and inserted provisions for a reduction of 8 cents in the monthly rate for each $1 annual income in excess of $2,300 up to and including $2,600.
 
 Subsec. (b)(2). Pub. L. 93–177, §4(a), reenacted par. (2) without change.
 
@@ -218,9 +218,9 @@ Subsec. (c). Pub. L. 93–177, §4(b), substituted “$77” for “$70”, “$
 
 Subsec. (d). Pub. L. 93–177, §4(c), substituted “$74” for “$67”, “$1,200” for “$1,300”, and “$2,900” for “$3,400”.
 
-1972—Subsec. (g)(1)(M). Pub. L. 92–425 substituted “subchapter I of chapter 73 of title 10” for “chapter 73 of title 10”.
+<b>1972</b>—Subsec. (g)(1)(M). Pub. L. 92–425 substituted “subchapter I of chapter 73 of title 10” for “chapter 73 of title 10”.
 
-1971—Subsec. (b)(1). Pub. L. 92–197, §4(a), substituted formula to measure monthly compensation rate of one parent by specifying a maximum monthly rate for each group within designated income category and each individual's monthly rate to be computed by reducing the maximum monthly rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table providing for income and benefit rates, and increased the maximum income limit to $2,600 from $2,300.
+<b>1971</b>—Subsec. (b)(1). Pub. L. 92–197, §4(a), substituted formula to measure monthly compensation rate of one parent by specifying a maximum monthly rate for each group within designated income category and each individual's monthly rate to be computed by reducing the maximum monthly rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table providing for income and benefit rates, and increased the maximum income limit to $2,600 from $2,300.
 
 Subsec. (b)(2). Pub. L. 92–197, §4(a), substituted reference to formula in subsecs. (b)(1) and (d), for reference to tables in subsecs. (b)(1) and (d).
 
@@ -232,25 +232,25 @@ Subsec. (g)(2), (3). Pub. L. 92–197, §4(d), redesignated par. (2) as par. (3)
 
 Subsec. (h). Pub. L. 92–197, §4(e), added subsec. (h).
 
-1970—Subsec. (b)(1). Pub. L. 91–588, §2(a), provided new annual income limits to measure monthly compensation of one parent by adding minimum income limits of $2,000, $2,100, and $2,200 with maximum limits of $2,100, $2,200, and $2,300 for monthly benefits of $18, $12, and $10, respectively, and within existing annual income limits from a maximum of $800 to a maximum of $2,000, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively, by substituting in column II “$96” for “$87”, “94” for “81”, “91” for “75”, “87” for “69”, “81” for “62”, “75” for “54”, “69” for “46”, “62” for “38”, “54” for “31”, “46” for “25”, “38” for “18”, “31” for “12”, and “25” for “10”.
+<b>1970</b>—Subsec. (b)(1). Pub. L. 91–588, §2(a), provided new annual income limits to measure monthly compensation of one parent by adding minimum income limits of $2,000, $2,100, and $2,200 with maximum limits of $2,100, $2,200, and $2,300 for monthly benefits of $18, $12, and $10, respectively, and within existing annual income limits from a maximum of $800 to a maximum of $2,000, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively, by substituting in column II “$96” for “$87”, “94” for “81”, “91” for “75”, “87” for “69”, “81” for “62”, “75” for “54”, “69” for “46”, “62” for “38”, “54” for “31”, “46” for “25”, “38” for “18”, “31” for “12”, and “25” for “10”.
 
 Subsec. (c). Pub. L. 91–588, §2(b), provided new annual income limits to measure monthly compensation of two parents not living together by adding minimum income limits of $2,000, $2,100, and $2,200 with maximum limits of $2,100, $2,200, and $2,300 for monthly benefits of $14, $12, and $10, respectively, and within existing annual income limits from a maximum of $800 to a maximum of $2,000, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively, by substituting in column II “$66” for “$58”, “64” for “54”, “61” for “50”, “58” for “46”, “54” for “41”, “50” for “35”, “46” for “29”, “41” for “23”, “35” for “20”, “29” for “16”, “23” for “12”, “20” for “11”, and “16” for “10”.
 
-Subsec. (d). Pub. L. 91–588, §2(c), provided new annual income limits to measure monthly compensation of two parents living together by adding minimum income limits of $3,200, $3,300, and $3,400 with maximum limits of $3,300, $3,400, and $3,500 for monthly benefits of $14, $12, and $10, respectively, and within existing annual income limits from a maximum of $1,000 to a maximum of $3,200, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively, by substituting in column II “$64” for “$58”, “62” for “56”, “60” for “54”, “58” for “52”, “56” for “49”, “54” for “46”, “52” for “44”, “49” for “42”, “46” for “40”, “44” for “38”, “42” for “35”, “40” for “33”, “38” for “31”, “35” for “29”, “33” for “26”, “31” for“23”, “29” for “21”, “27” for “19”, “25” for “17”, “23” for “15”, “21” for “12”, “19” for “11”, and “17” for “10”.
+Subsec. (d). Pub. L. 91–588, §2(c), provided new annual income limits to measure monthly compensation of two parents living together by adding minimum income limits of $3,200, $3,300, and $3,400 with maximum limits of $3,300, $3,400, and $3,500 for monthly benefits of $14, $12, and $10, respectively, and within existing annual income limits from a maximum of $1,000 to a maximum of $3,200, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively, by substituting in column II “$64” for “$58”, “62” for “56”, “60” for “54”, “58” for “52”, “56” for “49”, “54” for “46”, “52” for “44”, “49” for “42”, “46” for “40”, “44” for “38”, “42” for “35”, “40” for “33”, “38” for “31”, “35” for “29”, “33” for “26”, “31” for “23”, “29” for “21”, “27” for “19”, “25” for “17”, “23” for “15”, “21” for “12”, “19” for “11”, and “17” for “10”.
 
-Subsec. (e). Pub. L. 91–588, §2(d), exempted from filing requirement any parent who has attained 72 years of age and has been paid dependency and indemnity compensation during two consecutive calendar years.
+Subsec. (e). Pub. L. 91–588, §2(d), exempted from filing requirement any parent who has attained 72 years ofage and has been paid dependency and indemnity compensation during two consecutive calendar years.
 
 Subsec. (g)(1)(C). Pub. L. 91–588, §8(a), inserted reference to first sentence of section 9(b) of the Veterans’ Pension Act of 1959.
 
 Subsec. (g)(1)(M). Pub. L. 91–588, §8(a), added subpar. (M).
 
-1968—Subsec. (b)(1). Pub. L. 90–275, §2(a), in providing new annual income limits to measure monthly compensation of one parent, reenacted minimum income limit of $800 for monthly benefit of $87, struck out prohibition against payments when income is in excess of $1,800, and substituted a sliding scale of payments based on one hundred dollar increments from more than $800 to more than $1,900 to $2,000 for payments of $81 to 10 for former sliding scale based on limits of $800 to 1,100, $1,100 to 1,300, $1,300 to 1,500, and $1,500 to 1,800 for payments of $69, $52, $35, and $18, respectively.
+<b>1968</b>—Subsec. (b)(1). Pub. L. 90–275, §2(a), in providing new annual income limits to measure monthly compensation of one parent, reenacted minimum income limit of $800 for monthly benefit of $87, struck out prohibition against payments when income is in excess of $1,800, and substituted a sliding scale of payments based on one hundred dollar increments from more than $800 to more than $1,900 to $2,000 for payments of $81 to 10 for former sliding scale based on limits of $800 to 1,100, $1,100 to 1,300, $1,300 to 1,500, and $1,500 to 1,800 for payments of $69, $52, $35, and $18, respectively.
 
 Subsec. (c). Pub. L. 90–275, §2(b), in providing new annual income limits to measure monthly compensation of two parents not living together, reenacted minimum income limit of $800 for monthly benefit of $58, struck out prohibition against payments when income is in excess of $1,800, and substituted a sliding scale of payments based on one hundred dollar increments from more than $800 to more than $1,900 to $2,000 for payments of $54 to 10 for former sliding scale based on limits of $800 to 1,100, $1,100 to 1,300, $1,300 to 1,500, and $1,500 to 1,800 for payments of $46, $35, $23, and $12, respectively.
 
 Subsec. (d). Pub. L. 90–275, §2(c), in providing new annual income limits to measure monthly compensation of two parents living together, reenacted minimum combined income limit of $1,000 for monthly benefit of $58, struck out prohibition against payments when income is in excess of $3,000, and substituted a sliding scale of payments based on one hundred dollar increments from more than $1,000 to $3,100 for payments of $56 to 11 for former sliding scale based on five hundred dollar increments from more than $1,000 to $3,000 for payments of $58, $46, $35, $23, and $12.
 
-1966—Subsec. (b). Pub. L. 89–730, §1(a), designated existing subsection as par. (1), and in par. (1) as so designated, substituted reference to subsec. (b)(2) for subsec. (d), amended table by providing for increased indemnity compensation while permitting the recipient to earn a higher maximum annual income, and added par. (2).
+<b>1966</b>—Subsec. (b). Pub. L. 89–730, §1(a), designated existing subsection as par. (1), and in par. (1) as so designated, substituted reference to subsec. (b)(2) for subsec. (d), amended table by providing for increased indemnity compensation while permitting the recipient to earn a higher maximum annual income, and added par. (2).
 
 Subsec. (c). Pub. L. 89–730, §1(b), amended table by providing for increased indemnity compensation while permitting the recipient to earn a higher maximum annual income.
 
@@ -258,11 +258,11 @@ Subsec. (d). Pub. L. 89–730, §1(c), amended table by providing for increased 
 
 Subsec. (g)(1). Pub. L. 89–730, §2, in cl. (C) struck out “chapter 11” and substituted “chapters 11 and 15”, and added cls. (F) to (L).
 
-1963—Subsec. (b). Pub. L. 88–21, §4(a), substituted in Column II of table “$83”, “$66”, “$50”, “$33”, and “$17” for “$75”, “$60”, “$45”, “$30”, and “$15”, respectively.
+<b>1963</b>—Subsec. (b). Pub. L. 88–21, §4(a), substituted in Column II of table “$83”, “$66”, “$50”, “$33”, and “$17” for “$75”, “$60”, “$45”, “$30”, and “$15”, respectively.
 
 Subsecs. (c), (d). Pub. L. 88–21, §4(b), substituted in Column II of tables “$55”, “$44”, “$33”, “$22”, and “$11” for “50”, “$40”, “$30”, “$20” and “$10”, respectively.
 
-1961—Subsec. (g)(1)(C). Pub. L. 87–268 substituted “section 412(a)” for “section 412”.
+<b>1961</b>—Subsec. (g)(1)(C). Pub. L. 87–268 substituted “section 412(a)” for “section 412”.
 
 #### Effective Date of 2009 Amendment
 

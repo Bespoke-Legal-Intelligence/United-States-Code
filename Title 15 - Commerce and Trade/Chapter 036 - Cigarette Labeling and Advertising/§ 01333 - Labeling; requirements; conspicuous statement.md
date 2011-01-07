@@ -136,7 +136,7 @@ Subsection (a) of this section does not apply to a distributor or a retailer of 
 
 #### <i>(1) Random display</i>
 
-&emsp;<i>The label statements specified in subsection (a)(1) shall be randomly displayed in each 12-month period, in as equal a number of times as is possible on each brand of the product and be ran</i><i>domly distributed in all areas of the United States in which the product is marketed in accordance with a plan submitted by the tobacco product manufacturer, importer, distributor, or retailer and approved by the Secretary.</i>
+&emsp;<i>The label statements specified in subsection (a)(1) shall be randomly displayed in each 12-month period, in as equal a number of times as is possible on each brand of the product and be randomly distributed in all areas of the United States in which the product is marketed in accordance with a plan submitted by the tobacco product manufacturer, importer, distributor, or retailer and approved by the Secretary.</i>
 
 #### <i>(2) Rotation</i>
 
@@ -156,7 +156,7 @@ Subsection (a) of this section does not apply to a distributor or a retailer of 
 
 #### <i>(d) Graphic label statements</i>
 
-<i>Not later than 24 months after June 22, 2009, the Secretary shall issue regulations that require color graphics depicting the negative health consequences of smoking to accompany the label statements specified in subsection (a)(1). The Secretary may adjust the type size, text and format of the label statements specified in subsections (a)(2) and (b)(2) as the Secretary determines appropriate so that both the graphics and the accompanying label statements are clear, conspicuous, legible and appear within the specified area.</i>
+<i>Not later than 24 months after June 22, 2009, the Secretary shall issue regulations that require color graphics depicting the negative health consequences of smoking to accompany the label statements specified in subsection (a)(1). The Secretary may adjust the type size, text and format of the label statements specified in subsections (a)(2) and (b)(2) as the Sec</i><i>retary determines appropriate so that both the graphics and the accompanying label statements are clear, conspicuous, legible and appear within the specified area.</i>
 
 <i>Pub. L. 111–31, div. A, title II, §202(b), June 22, 2009, 123 Stat. 1845, provided that this section, as amended by section 201 of Pub. L. 111–31, is further amended by adding at the end the following:</i>
 
@@ -186,17 +186,17 @@ Subsection (a) of this section does not apply to a distributor or a retailer of 
 
 #### Amendments
 
-1985—Subsec. (c). Pub. L. 99–92 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the” for “The label”, and added par. (2).
+<b>1985</b>—Subsec. (c). Pub. L. 99–92 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the” for “The label”, and added par. (2).
 
 Subsec. (c)(2)(A). Pub. L. 99–117 substituted “brand style” for “brand” in provisions preceding cl. (i).
 
-1984—Pub. L. 98–474 amended section generally, designating existing provisions as subsec. (a), expanding choice of warnings to be placed on cigarette packaging and further expanding scope of places that must contain warnings to include advertisements and outdoor billboards, and adding subsecs. (b) to (d).
+<b>1984</b>—Pub. L. 98–474 amended section generally, designating existing provisions as subsec. (a), expanding choice of warnings to be placed on cigarette packaging and further expanding scope of places that must contain warnings to include advertisements and outdoor billboards, and adding subsecs. (b) to (d).
 
-1970—Pub. L. 91–222 substituted “Warning: The Surgeon General Has Determined That Cigarette Smoking Is Dangerous to Your Health” for “Caution: Cigarette Smoking May Be Hazardous to Your Health.”
+<b>1970</b>—Pub. L. 91–222 substituted “Warning: The Surgeon General Has Determined That Cigarette Smoking Is Dangerous to Your Health” for “Caution: Cigarette Smoking May Be Hazardous to Your Health.”
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–31, div. A, title II, §201(b), June 22, 2009, 123 Stat. 1845, provided that: “The amendment made bysubsection (a) \[amending this section\] shall take effect 15 months after the issuance of the regulations required by subsection (a) \[amending this section\]. Such effective date shall be with respect to the date of manufacture, provided that, in any case, beginning 30 days after such effective date, a manufacturer shall not introduce into the domestic commerce of the United States any product, irrespective of the date of manufacture, that is not in conformance with section 4 of the Federal Cigarette Labeling and Advertising Act (15 U.S.C. 1333), as amended by subsection (a).”
+Pub. L. 111–31, div. A, title II, §201(b), June 22, 2009, 123 Stat. 1845, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect 15 months after the issuance of the regulations required by subsection (a) \[amending this section\]. Such effective date shall be with respect to the date of manufacture, provided that, in any case, beginning 30 days after such effective date, a manufacturer shall not introduce into the domestic commerce of the United States any product, irrespective of the date of manufacture, that is not in conformance with section 4 of the Federal Cigarette Labeling and Advertising Act (15 U.S.C. 1333), as amended by subsection (a).”
 
 #### Effective Date of 1985 Amendment
 

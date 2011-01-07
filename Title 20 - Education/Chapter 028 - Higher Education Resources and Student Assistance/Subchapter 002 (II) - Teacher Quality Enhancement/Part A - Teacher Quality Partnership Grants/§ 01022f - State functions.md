@@ -2,7 +2,7 @@
 
 #### (a) State assessment
 
-In order to receive funds under this chapter, a State shall conduct an assessment to identify low-performing teacher preparation programs in the State and to assist such programs through the provision of technical assistance. Each such State shall provide the Secretary with an annual list of low-performing teacher preparation programs and an identification of those programs at risk of being placed on such list, as applicable. Such assessment shall be described in the report under section 1022d(b) of this title. Levels of performance shall be determined solely by the State and may include criteria based on information collected pursuant to this part, including progress in meeting the goals of—
+In order to receive funds under this chapter and part C of subchapter I of chapter 34 of title 42, a State shall conduct an assessment to identify low-performing teacher preparation programs in the State and to assist such programs through the provision of technical assistance. Each such State shall provide the Secretary with an annual list of low-performing teacher preparation programs and an identification of those programs at risk of being placed on such list, as applicable. Such assessment shall be described in the report under section 1022d(b) of this title. Levels of performance shall be determined solely by the State and may include criteria based on information collected pursuant to this part, including progress in meeting the goals of—
 
 &emsp;(1) increasing the percentage of highly qualified teachers in the State, including increasing professional development opportunities;
 
@@ -31,10 +31,6 @@ If the Secretary develops any regulations implementing subsection (b)(2), the Se
 The requirements of this section shall apply to both traditional teacher preparation programs and alternative routes to State certification and licensure programs.
 
 (Pub. L. 89–329, title II, §207, as added Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3152.)
-
-#### References in Text
-
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 89–329, known asthe Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 

@@ -30,7 +30,7 @@ Notwithstanding subsection (b):
 
 &emsp;&emsp;(A)(i) the amount reserved under paragraph (1)(A) or (2)(A) of subsection (b) of this section for the first such subsequent year of not being an eligible area is deemed to be reduced by an amount equal to the amount of the grant made pursuant to section 300ff–13(a) of this title for the metropolitan area for the preceding fiscal year; and
 
-&emsp;&emsp;(ii)(I) if the metropolitan area qualifies for such first subsequent fiscal year as a transitional area under 300ff–19 <sup>1</sup> of this title, theamount reserved under paragraph (1)(B) or (2)(B) of subsection (b) for such fiscal year is deemed to be increased by an amount equal to the amount of the reduction under subparagraph (A) for such year; or
+&emsp;&emsp;(ii)(I) if the metropolitan area qualifies for such first subsequent fiscal year as a transitional area under 300ff–19 <sup>1</sup> of this title, the amount reserved under paragraph (1)(B) or (2)(B) of subsection (b) for such fiscal year is deemed to be increased by an amount equal to the amount of the reduction under subparagraph (A) for such year; or
 
 &emsp;&emsp;(II) if the metropolitan area does not qualify for such first subsequent fiscal year as a transitional area under 300ff–19 <sup>1</sup> of this title, an amount equal to the amount of such reduction is, notwithstanding subsection (a), transferred and made available for grants pursuant to section 300ff–28(a)(1) of this title, in addition to amounts available for such grants under section 300ff–31b of this title; and
 
@@ -66,7 +66,7 @@ Notwithstanding subsection (b):
 
 &emsp;&emsp;(A) the amount reserved under subsection (b)(2)(B) of this section for the first such subsequent fiscal year of becoming an eligible area is deemed to be reduced by an amount equal to the amount of the grant that, pursuant to section 300ff–13(a) of this title, was made under section 300ff–19(d)(2)(A) of this title for the metropolitan area for the preceding fiscal year; and
 
-&emsp;&emsp;(B) the amount reserved under subsection (b)(2)(A) for such fiscal year is deemed to be increased by an amount equal to the amount of the reduction under subparagraph (A) for such year.
+&emsp;&emsp;(B) the amount reserved under subsection (b)(2)(A) for such fiscal year is deemed to beincreased by an amount equal to the amount of the reduction under subparagraph (A) for such year.
 
 #### (d) Certain transfers; allocations between programs under subpart I
 
@@ -86,15 +86,17 @@ Paragraphs (1) and (2) of subsection (c) apply with respect to each series of fi
 
 #### Amendments
 
-2009—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
 Subsec. (a). Pub. L. 111–87, §2(b), substituted “$649,500,000 for fiscal year 2009, $681,975,000 for fiscal year 2010, $716,074,000 for fiscal year 2011, $751,877,000 for fiscal year 2012, and $789,471,000 for fiscal year 2013” for “and $649,500,000 for fiscal year 2009”.
 
 Subsec. (c)(2)(B). Pub. L. 111–87, §4(b), designated existing provisions as cl. (i), inserted “subject to clause (ii),” before “an amount equal to the amount”, and added cl. (ii).
 
-2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+<b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 #### Effective Date of 2009 Amendment; Revival of Section
 
 For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendment by sections 2(b) and 4(b) of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
 

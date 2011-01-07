@@ -34,5 +34,5 @@ The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92�
 
 #### Amendments
 
-1988—Par. (3). Pub. L. 100–588 substituted a period for semicolon at end.
+<b>1988</b>—Par. (3). Pub. L. 100–588 substituted a period for semicolon at end.
 

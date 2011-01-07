@@ -24,9 +24,9 @@ The Federal Unemployment Tax Act, referred to in subsec. (c), is act Aug. 16, 19
 
 #### Amendments
 
-2001—Subsec. (c). Pub. L. 107–16, §§532(c)(12), 901, temporarily struck out “section 2011(c) (relating to refunds due to credit for State taxes),” after “see”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (c). Pub. L. 107–16, §§532(c)(12), 901, temporarily struck out “section 2011(c) (relating to refunds due to credit for State taxes),” after “see”. See Effective and Termination Dates of 2001 Amendment note below.
 
-1956—Subsec. (c). Act June 29, 1956, inserted reference to section 6421 of this title.
+<b>1956</b>—Subsec. (c). Act June 29, 1956, inserted reference to section 6421 of this title.
 
 Act Apr. 2, 1956, inserted reference to section 6420 of this title.
 
@@ -34,9 +34,11 @@ Act Apr. 2, 1956, inserted reference to section 6420 of this title.
 
 Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1956 Amendment
 
 Amendment by act June 29, 1956, effective June 29, 1956, see section 211 of act June 29, 1956, set out as an Effective Date note under section 4041 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “sections”.</i>
 

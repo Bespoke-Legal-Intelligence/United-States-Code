@@ -34,7 +34,7 @@ The district court shall have jurisdiction in actions brought under subsection (
 
 &emsp;&emsp;(B) The State in which the alleged violation occurs.
 
-&emsp;&emsp;(C) Any alleged violator of the standard, regulation, condition, requirement, or order concerned (including any provision of an agreement under section 9620 of this title).
+&emsp;&emsp;(C) Any alleged violator of the standard, regulation, condition, requirement, or orderconcerned (including any provision of an agreement under section 9620 of this title).
 
 > &emsp;Notice under this paragraph shall be given in such manner as the President shall prescribe by regulation.
 
@@ -65,6 +65,8 @@ The terms used in this section shall have the same meanings as when used in subc
 (Pub. L. 96–510, title III, §310, as added Pub. L. 99–499, title II, §206, Oct. 17, 1986, 100 Stat. 1703.)
 
 #### References in Text
+
+This chapter, referred to in subsecs. (a), (d)(2), and (h), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 The Solid Waste Disposal Act, referred to in subsec. (d)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 

@@ -22,13 +22,13 @@ Provisions similar to those in this section were contained in act Apr. 30, 1908,
 
 #### Amendments
 
-1994—Pub. L. 103–435 inserted at end “Participation in the Mentor-Protege Program established under section 831 of the National Defense Authorization Act for Fiscal Year 1991 (10 U.S.C. 2301 note) or receipt of assistance pursuant to any developmental assistance agreement authorized under such program shall not render Indian labor or Indian industry ineligible to receive any assistance authorized under this section. For the purposes of this section—
+<b>1994</b>—Pub. L. 103–435 inserted at end “Participation in the Mentor-Protege Program established under section 831 of the National Defense Authorization Act for Fiscal Year 1991 (10 U.S.C. 2301 note) or receipt of assistance pursuant to any developmental assistance agreement authorized under such program shall not render Indian labor or Indian industry ineligible to receive any assistance authorized under this section. For the purposes of this section—
 
 &emsp;“(1) no determination of affiliation or control (either direct or indirect) may be found between a protege firm and its mentor firm on the basis that the mentor firm has agreed to furnish (or has furnished) to its protege firm pursuant to a mentor-protege agreement any form of developmental assistance described in subsection (f) of section 831 of the National Defense Authorization Act for Fiscal Year 1991 (10 U.S.C. 2301 note); and
 
 &emsp;“(2) the terms ‘protege firm’ and ‘mentor firm’ have the meaning given such terms in subsection (c) of such section 831.”
 
-1988—Pub. L. 100–581 inserted “(including, but not limited to printing, notwithstanding any other law)” after “products”.
+<b>1988</b>—Pub. L. 100–581 inserted “(including, but not limited to printing, notwithstanding any other law)” after “products”.
 
 #### Transfer of Functions
 

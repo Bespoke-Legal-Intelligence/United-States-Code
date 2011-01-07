@@ -40,11 +40,11 @@ Act of August 1, 1956, as amended, referred to in subsec. (a)(5), is act Aug. 1,
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–236, as amended by Pub. L. 103–415, added subsec. (c).
+<b>1994</b>—Subsec. (c). Pub. L. 103–236, as amended by Pub. L. 103–415, added subsec. (c).
 
-1985—Subsec. (a)(6), (7). Pub. L. 99–93, §112(a), added par. (6) and redesignated former par. (6) as (7).
+<b>1985</b>—Subsec. (a)(6), (7). Pub. L. 99–93, §112(a), added par. (6) and redesignated former par. (6) as (7).
 
-1980—Subsec. (a)(1). Pub. L. 96–465, §2206(a)(10)(A), substituted “members of the Foreign Service” for “Foreign Service personnel”.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–465, §2206(a)(10)(A), substituted “members of the Foreign Service” for “Foreign Service personnel”.
 
 Subsec. (a)(2). Pub. L. 96–465, §2206(a)(10)(B), substituted “members of the Foreign Service serving under limited appointments” for “Foreign Service Reserve officers”.
 

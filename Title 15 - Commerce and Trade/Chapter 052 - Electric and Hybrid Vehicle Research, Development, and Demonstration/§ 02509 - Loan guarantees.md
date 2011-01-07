@@ -36,7 +36,7 @@ Loan guarantees under this section shall be on such terms and conditions as the 
 
 #### (e) Maximum guarantee per loan; maximum of aggregate guarantees; Electric and Hybrid Vehicle Development Fund; establishment, funding, etc.
 
-(1) The amount of the guarantee of any loan shall not exceed $3,000,000, unless the Secretary of Energy finds that a higher guarantee level for specific loan guarantees is necessary in order to carry out the purposes of this chapter. If the Secretary of Energy makes such finding, he shall immediately report that finding to the Speaker of the House of Representatives, the President of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
+(1) The amount of the guarantee of any loan shall not exceed $3,000,000, unless the Secretaryof Energy finds that a higher guarantee level for specific loan guarantees is necessary in order to carry out the purposes of this chapter. If the Secretary of Energy makes such finding, he shall immediately report that finding to the Speaker of the House of Representatives, the President of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
 
 (2) The aggregate amount of guarantees outstanding under this section at any one time shall not exceed $60,000,000.
 
@@ -84,9 +84,9 @@ In subsec. (i), “section 50501 of title 46” substituted for “section 2 of 
 
 #### Amendments
 
-1994—Subsec. (e)(1). Pub. L. 103–437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology” and “Committee on Commerce, Science, and Transportation” for “Committee on Commerce”.
+<b>1994</b>—Subsec. (e)(1). Pub. L. 103–437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology” and “Committee on Commerce, Science, and Transportation” for “Committee on Commerce”.
 
-1978—Subsec. (e)(3). Pub. L. 95–238, §603(a)(1), added par. (3).
+<b>1978</b>—Subsec. (e)(3). Pub. L. 95–238, §603(a)(1), added par. (3).
 
 Subsec. (g). Pub. L. 95–238, §603(b), inserted provisions relating to payment of principal by the Administrator.
 

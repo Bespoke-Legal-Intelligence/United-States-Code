@@ -238,7 +238,7 @@ Provisions similar to those comprising this section were contained in Pub. L. 89
 
 #### Amendments
 
-2006—Subsec. (a)(2)(C). Pub. L. 109–365, §307(1), substituted “section 3026(c)” for “section 3026(b)”.
+<b>2006</b>—Subsec. (a)(2)(C). Pub. L. 109–365, §307(1), substituted “section 3026(c)” for “section 3026(b)”.
 
 Subsec. (a)(4). Pub. L. 109–365, §307(2), substituted “(with particular attention to low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “, with particular attention to low-income minority individuals and older individuals residing in rural areas”.
 
@@ -254,7 +254,7 @@ Subsec. (a)(16)(A)(vi). Pub. L. 109–365, §307(6)(B), substituted “and relat
 
 Subsec. (a)(27) to (30). Pub. L. 109–365, §307(7), added pars. (27) to (30).
 
-2000—Subsec. (a)(1) to (5). Pub. L. 106–501, §306(1), added pars. (1) to (5) and struck out former pars. (1) to (5) which required each State plan to: in par. (1), contain assurances that the State plan would be based on area plans and that the State would distribute a uniform format for developing area plans, in par. (2), provide that each area agency on aging develop an area plan for approval by the State agency, in par. (3), provide that the State agency would evaluate the need for supportive services, nutrition services, and multipurpose senior centers within the State and spend not less than 105 percent of fiscal year 1978 expenditures for services to older individuals residing in rural areas in the State, in par. (4), provide methods of administration of the plan and any necessary reorganization and reassignment of functions to assure efficient administration, and, in par. (5), provide that the State agency would conduct hearings upon request by an area agency on aging submitting a plan, a service provider under a plan, or an applicant to provide service under a plan.
+<b>2000</b>—Subsec. (a)(1) to (5). Pub. L. 106–501, §306(1), added pars. (1) to (5) and struck out former pars. (1) to (5) which required each State plan to: in par. (1), contain assurances that the State plan would be based on area plans and that the State would distribute a uniform format for developing area plans, in par. (2), provide that each area agency on aging develop an area plan for approval by the State agency, in par. (3), provide that the State agency would evaluate the need for supportive services, nutrition services, and multipurpose senior centers within the State and spend not less than 105 percent of fiscal year 1978 expenditures for services to older individuals residing in rural areas in the State, in par. (4), provide methods of administration of the plan and any necessary reorganization and reassignment of functions to assure efficient administration, and, in par. (5), provide that the State agency would conduct hearings upon request by an area agency on aging submitting a plan, a service provider under a plan, or an applicant to provide service under a plan.
 
 Subsec. (a)(7)(C). Pub. L. 106–501, §306(2), struck out subpar. (C) which required the plan to provide assurances that the State agency and each area agency on aging would maintain the integrity and public purpose of services provided and service providers under the State plan in all contractual and commercial relationships, disclose the parties to and the nature of a contract or relationship relating to services to older individuals, demonstrate no loss or diminution in quantity or quality of services as a result of such contract or relationship, demonstrate enhancement of quantity and quality of services as a result of such contract or relationship, and disclose on request all sources and expenditures of funds the State agency and area agency on aging received or expended to provide services to older individuals.
 
@@ -368,7 +368,7 @@ Subsec. (a)(44). Pub. L. 106–501, §306(21), redesignated par. (44) as (25).
 
 Subsec. (f). Pub. L. 106–501, §801(c)(4)(B), struck out par. (1) designation before “Neither a State” and struck out par. (2) which read as follows: “Information disclosed under section 3026(a)(14)(B)(i) of this title or subsection (a)(7)(C)(ii)(I) of this section may be disclosed to the public by the State agency or the State only if such information could be disclosed under section 552 of title 5 by an agency of the United States.”
 
-1993—Pub. L. 103–171, §3(a)(5)(B), substituted “Assistant Secretary” for “Commissioner” wherever appearing.
+<b>1993</b>—Pub. L. 103–171, §3(a)(5)(B), substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 
 Subsec. (a)(8). Pub. L. 103–171, §2(9)(A)(i), substituted “knowledgeable” for “knowledgable”.
 
@@ -378,7 +378,7 @@ Subsec. (b)(2). Pub. L. 103–171, §2(9)(B), substituted “such requirement”
 
 Subsecs. (d), (e). Pub. L. 103–171, §3(a)(5)(A), substituted “Assistant Secretary's” for “Commissioner's” wherever appearing.
 
-1992—Subsec. (a). Pub. L. 102–375, §307(a)(1), (2), inserted “the succeeding sentence and” after “provided in” in first sentence and inserted after first sentence “If the Commissioner determines, in the discretion of the Commissioner, that a State failed in 2 successive years to comply with the requirements under this subchapter, then the State shall submit to the Commissioner a State plan for a 1-year period that meets such criteria, for subsequent years until the Commissioner determines that the State is in compliance with such requirements.” before “Each such plan shall comply”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–375, §307(a)(1), (2), inserted “the succeeding sentence and” after “provided in” in first sentence and inserted after first sentence “If the Commissioner determines, in the discretion of the Commissioner, that a State failed in 2 successive years to comply with the requirements under this subchapter, then the State shall submit to the Commissioner a State plan for a 1-year period that meets such criteria, for subsequent years until the Commissioner determines that the State is in compliance with such requirements.” before “Each such plan shall comply”.
 
 Subsec. (a)(1). Pub. L. 102–375, §102(b)(10)(F), substituted “agencies on aging in” for “agencies in”.
 
@@ -464,9 +464,9 @@ Subsec. (f). Pub. L. 102–375, §307(q), (r), redesignated subsec. (g) as subse
 
 Subsec. (g). Pub. L. 102–375, §307(r)(1), redesignated subsec. (g) as subsec. (f)(1).
 
-1988—Subsec. (a)(3)(A). Pub. L. 100–628 substituted a period for “; and” at end.
+<b>1988</b>—Subsec. (a)(3)(A). Pub. L. 100–628 substituted a period for “; and” at end.
 
-1987—Subsec. (a). Pub. L. 100–175, §182(k)(1), substituted “Each such plan shall comply with all of the following requirements:” for “Each such plan shall—”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–175, §182(k)(1), substituted “Each such plan shall comply with all of the following requirements:” for “Each such plan shall—”.
 
 Subsec. (a)(1), (2). Pub. L. 100–175, §182(k)(2), (3), inserted “The plan shall” and substituted a period for semicolon.
 
@@ -532,7 +532,7 @@ Subsec. (a)(31). Pub. L. 100–175, §155(e)(2)(B), added par. (31).
 
 Subsec. (g). Pub. L. 100–175, §137(b), added subsec. (g).
 
-1984—Subsec. (a)(3)(A). Pub. L. 98–459, §307(a)(1), substituted “legal assistance” for “legal services”.
+<b>1984</b>—Subsec. (a)(3)(A). Pub. L. 98–459, §307(a)(1), substituted “legal assistance” for “legal services”.
 
 Subsec. (a)(10). Pub. L. 98–459, §307(a)(2), substituted “supportive services or nutrition services” for “supportive services, including nutrition services”, and inserted “, or where such services are directly related to such State or area agency on aging's administrative functions, or where such services of comparable quality can be provided more economically by such State or area agency on aging”.
 
@@ -574,7 +574,7 @@ Subsec. (e)(2). Pub. L. 98–459, §307(d)(2), substituted “set aside the Comm
 
 Subsec. (f). Pub. L. 98–459, §307(e), added subsec. (f).
 
-1981—Subsec. (a). Pub. L. 97–115, §7(a), substituted “for a two-, three-, or four-year period determined by the State agency” for “for a 3-year period” in provisions preceding par. (1).
+<b>1981</b>—Subsec. (a). Pub. L. 97–115, §7(a), substituted “for a two-, three-, or four-year period determined by the State agency” for “for a 3-year period” in provisions preceding par. (1).
 
 Subsec. (a)(3)(A), (10). Pub. L. 97–115, §3(d), substituted “supportive services” for “social services”.
 

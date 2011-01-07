@@ -12,3 +12,5 @@ Section 5001(a)(7), referred to in text, was redesignated section 5001(a)(6) by 
 
 A prior section 5512, act Aug. 16, 1954, ch. 736, 68A Stat. 677, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

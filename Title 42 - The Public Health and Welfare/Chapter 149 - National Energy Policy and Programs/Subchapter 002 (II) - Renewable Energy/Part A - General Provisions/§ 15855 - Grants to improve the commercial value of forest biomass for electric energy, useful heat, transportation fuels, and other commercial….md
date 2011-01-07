@@ -114,7 +114,7 @@ Not later than October 1, 2010, the Secretary of Agriculture, in consultation wi
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–375 substituted “$50,000,000 for fiscal year 2006 and $35,000,000 for each of fiscal years 2007 through 2016” for “$50,000,000 for each of the fiscal years 2006 through 2016”.
+<b>2006</b>—Subsec. (d). Pub. L. 109–375 substituted “$50,000,000 for fiscal year 2006 and $35,000,000 for each of fiscal years 2007 through 2016” for “$50,000,000 for each of the fiscal years 2006 through 2016”.
 
 #### Change of Name
 

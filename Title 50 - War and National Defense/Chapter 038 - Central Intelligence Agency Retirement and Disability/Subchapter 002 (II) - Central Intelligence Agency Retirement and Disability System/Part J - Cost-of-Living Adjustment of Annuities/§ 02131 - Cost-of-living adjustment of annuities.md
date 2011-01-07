@@ -24,7 +24,7 @@ Eligibility for an annuity increase under this section shall be governed by the 
 
 &emsp;(2) Effective from its commencing date, an annuity payable from the fund to an annuitant's survivor (other than a child entitled to an annuity under section 2031(d) of this title) shall be increased by the total percentage increase the annuitant was receiving under this section at death.
 
-&emsp;(3) For purposes of computing the annuity of a child under section 2031(d) of this title that commences after October 31, 1969, the dollar amounts specified in section 2031(d)(3) of this title shall each be increased by the total percentage increases allowed and in force under this section on or after such day and, in the case of a deceased annuitant, the percentages specified in that section shall be increased bythe total percent allowed and in force to the annuitant under this section on or after such day.
+&emsp;(3) For purposes of computing the annuity of a child under section 2031(d) of this title that commences after October 31, 1969, the dollar amounts specified in section 2031(d)(3) of this title shall each be increased by the total percentage increases allowed and in force under this section on or after such day and, in the case of a deceased annuitant, the percentages specified in that section shall be increased by the total percent allowed and in force to the annuitant under this section on or after such day.
 
 #### (c) Limitation
 
@@ -60,11 +60,11 @@ GS–15, referred to in subsec. (e)(1)(A), probably means GS–15 of the General
 
 #### Prior Provisions
 
-A prior section 291 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1054; Pub. L. 90–539, Sept. 30, 1968, 82 Stat. 902; Pub. L. 91–185, §5, Dec. 30, 1969, 83 Stat. 849; Pub. L. 93–210, §1(a), Dec. 28, 1973, 87 Stat. 908; Pub. L. 94–361, title VIII, §801(b), July 14, 1976, 90 Stat. 929; Ex. Ord. No. 12326, §4, Sept. 30, 1981, 46 F.R. 48889; Ex. Ord. No. 12443, §§6, 14, Sept. 27, 1983, 48 F.R. 44752, 44754; Pub. L. 99–335, title V, §501(3), June 6, 1986, 100 Stat. 622, related to cost-of-living adjustment of annuities and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 291 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1054; Pub. L. 90–539, Sept. 30, 1968, 82 Stat.902; Pub. L. 91–185, §5, Dec. 30, 1969, 83 Stat. 849; Pub. L. 93–210, §1(a), Dec. 28, 1973, 87 Stat. 908; Pub. L. 94–361, title VIII, §801(b), July 14, 1976, 90 Stat. 929; Ex. Ord. No. 12326, §4, Sept. 30, 1981, 46 F.R. 48889; Ex. Ord. No. 12443, §§6, 14, Sept. 27, 1983, 48 F.R. 44752, 44754; Pub. L. 99–335, title V, §501(3), June 6, 1986, 100 Stat. 622, related to cost-of-living adjustment of annuities and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
 
-1993—Subsec. (b)(2). Pub. L. 103–178 struck out “or section 2052(c) of this title” after “section 2031(d) of this title”.
+<b>1993</b>—Subsec. (b)(2). Pub. L. 103–178 struck out “or section 2052(c) of this title” after “section 2031(d) of this title”.
 
 #### Effective Date of 1993 Amendment
 

@@ -54,7 +54,7 @@
 
 &emsp;(v) continuation of research to develop and evaluate interventions, policies, and services that support families of those children and adults who are individuals with disabilities; and
 
-&emsp;(vi) continuation of research that will improve services and policies that foster the productivity, independence, and social integration of individuals with disabilities, and enable individuals with disabilities, including individuals with mental retardation and other developmental disabilities, to live in their communities.
+&emsp;(vi) continuation of research that will improve services and policies that foster the productivity, independence, and social integration of individuals with disabilities, and enable individuals with disabilities, including individuals with intellectual disabilities and other developmental disabilities, to live in their communities.
 
 (D) Training of students preparing to be rehabilitation personnel shall be an important priority for such a Center.
 
@@ -138,7 +138,7 @@
 
 (ii) Each Center conducting the research or demonstration activities described in subparagraph (B)(iii) shall have an advisory committee, of which the majority of members are individuals with disabilities who are users of rehabilitation technology, and the individuals’ representatives.
 
-(E) Grants made under this paragraph shall be made on a competitive basis and shall be for aperiod of 5 years, except that the Director may make a grant for a period of less than 5 years if—
+(E) Grants made under this paragraph shall be made on a competitive basis and shall be for a period of 5 years, except that the Director may make a grant for a period of less than 5 years if—
 
 &emsp;(i) the grant is made to a new recipient; or
 
@@ -184,7 +184,7 @@
 
 (6) Research grants may be used to conduct a program for international rehabilitation research, demonstration, and training for the purpose of developing new knowledge and methods in the rehabilitation of individuals with disabilities in the United States, cooperating with and assisting in developing and sharing information found useful in other nations in the rehabilitation of individuals with disabilities, and initiating a program to exchange experts and technical assistance in the field of rehabilitation of individuals with disabilities with other nations as a means of increasing the levels of skill of rehabilitation personnel.
 
-(7) Research grants may be used to conduct a research program concerning the use of existing telecommunications systems (including telephone, television, satellite, radio, and other similar systems) which have the potential for substantially improving service delivery methods, and the development of appropriate programming to meet the particular needs of individuals with disabilities.
+(7) Research grants may be used to conduct a research program concerning the use of existing telecommunications systems (including telephone, television, satellite, radio, and other similar systems) which have the potential forsubstantially improving service delivery methods, and the development of appropriate programming to meet the particular needs of individuals with disabilities.
 
 (8) Research grants may be used to conduct a program of joint projects with the National Institutes of Health, the National Institute of Mental Health, the Health Services Administration, the Administration on Aging, the National Science Foundation, the Veterans’ Administration, the Department of Health and Human Services, the National Aeronautics and Space Administration, other Federal agencies, and private industry in areas of joint interest involving rehabilitation.
 
@@ -262,7 +262,7 @@
 
 (2) The Director shall not make a grant under this section that exceeds $500,000 unless the peer review of the grant application has included a site visit.
 
-(Pub. L. 93–112, title II, §204, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1173; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 105–394, title IV, §402(b), Nov. 13, 1998, 112 Stat. 3661.)
+(Pub. L. 93–112, title II, §204, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1173; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 105–394, title IV, §402(b), Nov. 13, 1998, 112 Stat. 3661; Pub. L. 111–256, §2(d)(2), Oct. 5, 2010, 124 Stat. 2643.)
 
 #### References in Text
 
@@ -278,7 +278,13 @@ A prior section 764, Pub. L. 93–112, title II, §204, Sept. 26, 1973, 87 Stat.
 
 #### Amendments
 
-1998—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, §405, which enacted this section.
+<b>2010</b>—Subsec. (b)(2)(C)(vi). Pub. L. 111–256 substituted “intellectual disabilities and other developmental disabilities” for “mental retardation and other developmental disabilities”.
+
+<b>1998</b>—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, §405, which enacted this section.
 
 Subsec. (b)(3)(C)(i), (G)(i). Pub. L. 105–394 substituted “the Assistive Technology Act of 1998” for “the Technology-Related Assistance for Individuals With Disabilities Act of 1988 (29 U.S.C. 2201 et seq.)”.
+
+#### Definitions
+
+For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of Title 20, Education.
 

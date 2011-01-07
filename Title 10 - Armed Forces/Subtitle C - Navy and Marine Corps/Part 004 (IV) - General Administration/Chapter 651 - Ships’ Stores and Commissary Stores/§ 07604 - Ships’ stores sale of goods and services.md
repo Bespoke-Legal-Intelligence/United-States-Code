@@ -42,7 +42,7 @@ A prior section 7604, acts Aug. 10, 1956, ch. 1041, 70A Stat. 471; Nov. 2, 1966,
 
 #### Amendments
 
-1993—Pub. L. 103–160 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+<b>1993</b>—Pub. L. 103–160 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
 #### Effective Date of 1993 Amendment
 

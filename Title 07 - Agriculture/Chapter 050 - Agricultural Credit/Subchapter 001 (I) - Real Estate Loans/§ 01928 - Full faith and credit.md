@@ -12,7 +12,7 @@ A contract of insurance or guarantee executed by the Secretary under this chapte
 
 &emsp;(2) participates in or condones.
 
-(Pub. L. 87–128, title III, §308, Aug. 8, 1961, 75 Stat. 308; Pub. L. 87–798, Oct. 11, 1962, 76 Stat. 908; Pub. L. 89–240, §2(a), Oct. 7, 1965, 79 Stat. 932;Pub. L. 90–488, §6, Aug. 15, 1968, 82 Stat. 770; Pub. L. 92–133, Oct. 5, 1971, 85 Stat. 364; Pub. L. 101–624, title XXIII, §2388(a), Nov. 28, 1990, 104 Stat. 4052; Pub. L. 104–127, title VI, §605, Apr. 4, 1996, 110 Stat. 1086.)
+(Pub. L. 87–128, title III, §308, Aug. 8, 1961, 75 Stat. 308; Pub. L. 87–798, Oct. 11, 1962, 76 Stat. 908; Pub. L. 89–240, §2(a), Oct. 7, 1965, 79 Stat. 932; Pub. L. 90–488, §6, Aug. 15, 1968, 82 Stat. 770; Pub. L. 92–133, Oct. 5, 1971, 85 Stat. 364; Pub. L. 101–624, title XXIII, §2388(a), Nov. 28, 1990, 104 Stat. 4052; Pub. L. 104–127, title VI, §605, Apr. 4, 1996, 110 Stat. 1086.)
 
 #### References in Text
 

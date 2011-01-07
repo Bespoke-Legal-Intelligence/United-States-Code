@@ -18,9 +18,9 @@ Provisions of subsec. (a) of this section which limited the salary of the Direct
 
 #### Amendments
 
-1995—Subsec. (c). Pub. L. 104–66 struck out subsec. (c) which read as follows: “The Secretary of the Interior shall report to the Speaker of the House of Representatives and the President of the Senate on January 31 of each year on all actions taken pursuant to subsection (b) of this section during the year ending on the December 31 immediately preceding the reporting date and on the results of such actions.”
+<b>1995</b>—Subsec. (c). Pub. L. 104–66 struck out subsec. (c) which read as follows: “The Secretary of the Interior shall report to the Speaker of the House of Representatives and the President of the Senate on January 31 of each year on all actions taken pursuant to subsection (b) of this section during the year ending on the December 31 immediately preceding the reporting date and on the results of such actions.”
 
-1975—Subsec. (c). Pub. L. 93–608 substituted requirement of an annual report for requirement of a semiannual report.
+<b>1975</b>—Subsec. (c). Pub. L. 93–608 substituted requirement of an annual report for requirement of a semiannual report.
 
 #### Change of Name
 

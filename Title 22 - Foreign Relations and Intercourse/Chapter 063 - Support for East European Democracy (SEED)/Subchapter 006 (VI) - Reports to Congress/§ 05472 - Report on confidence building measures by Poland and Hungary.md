@@ -10,5 +10,5 @@ Not later than 180 days after November 28, 1989, the President shall submit a re
 
 #### References in Text
 
-The Export Administration Act of 1979, referred to in par. (2), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, asamended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+The Export Administration Act of 1979, referred to in par. (2), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
 

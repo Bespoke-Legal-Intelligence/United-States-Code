@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition.—A public agency (as defined in section 47102) may not permanently close an airport listed in the national plan of integrated airport systems under section 47103 without providing written notice to the Administrator of the Federal Aviation Administration at least 30 days before the date of the closure.
+Prohibition.—A public agency (as defined in section 47102) may not permanently close anairport listed in the national plan of integrated airport systems under section 47103 without providing written notice to the Administrator of the Federal Aviation Administration at least 30 days before the date of the closure.
 
 (b)
 

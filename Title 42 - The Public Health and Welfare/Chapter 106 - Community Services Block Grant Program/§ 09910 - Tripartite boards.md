@@ -28,7 +28,7 @@ In order for a public organization to be considered to be an eligible entity for
 
 &emsp;&emsp;(B) reside in the neighborhood served; and
 
-&emsp;&emsp;(C) are able to participate actively in the development, planning, implementation, andevaluation of programs funded under this chapter; or
+&emsp;&emsp;(C) are able to participate actively in the development, planning, implementation, and evaluation of programs funded under this chapter; or
 
 &emsp;(2) another mechanism specified by the State to assure decisionmaking and participation by low-income individuals in the development, planning, implementation, and evaluation of programs funded under this chapter.
 

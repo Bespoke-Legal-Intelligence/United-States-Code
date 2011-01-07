@@ -22,5 +22,5 @@ The words “in the service of the United States” are omitted as covered by th
 
 #### Amendments
 
-2006—Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 

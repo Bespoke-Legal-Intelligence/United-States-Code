@@ -28,7 +28,7 @@ The Trade Representative shall monitor the implementation of each measure undert
 
 &emsp;&emsp;&emsp;&emsp;(I) the Trade Representative determines that implementation of a recommendation made pursuant to a dispute settlement proceeding described in clause (i) by the country is imminent; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the Trade Representative together with the petitioner involved in the initial investigation under this subchapter\(or if no petition was filed, the affected United States industry) agree that it is unnecessary to revise the retaliation list.
+&emsp;&emsp;&emsp;&emsp;(II) the Trade Representative together with the petitioner involved in the initial investigation under this subchapter (or if no petition was filed, the affected United States industry) agree that it is unnecessary to revise the retaliation list.
 
 #### (C) Schedule for revising list or action
 
@@ -62,11 +62,11 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(
 
 #### Amendments
 
-2000—Subsec. (b)(2). Pub. L. 106–200 designated existing provisions as subpar. (A), inserted heading, and added subpars. (B) to (F).
+<b>2000</b>—Subsec. (b)(2). Pub. L. 106–200 designated existing provisions as subpar. (A), inserted heading, and added subpars. (B) to (F).
 
-1996—Subsec. (b)(1). Pub. L. 104–295 made technical amendment to Pub. L. 103–465. See 1994 Amendment note below.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–295 made technical amendment to Pub. L. 103–465. See 1994 Amendment note below.
 
-1994—Subsecs. (a), (b). Pub. L. 103–465, as amended by Pub. L. 104–295, amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) read as follows:
+<b>1994</b>—Subsecs. (a), (b). Pub. L. 103–465, as amended by Pub. L. 104–295, amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) read as follows:
 
 “(a)
 
@@ -80,7 +80,7 @@ In General.—The Trade Representative shall monitor the implementation of each 
 
 Further Action.—If, on the basis of the monitoring carried out under subsection (a) of this section, the Trade Representative considers that a foreign country is not satisfactorily implementing a measure or agreement referred to in subsection (a) of this section, the Trade Representative shall determine what further action the Trade Representative shall take under section 2411(a) of this title. For purposes of section 2411 of this title, any such determination shall be treated as a determination made under section 2414(a)(1) of this title.”
 
-1988—Pub. L. 100–418 amended section generally, substituting provisions relating to monitoring of foreign compliance for provisions relating to administration. See section 2419 of this title.
+<b>1988</b>—Pub. L. 100–418 amended section generally, substituting provisions relating to monitoring of foreign compliance for provisions relating to administration. See section 2419 of this title.
 
 #### Effective Date of 1994 Amendment
 

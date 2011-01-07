@@ -2,7 +2,7 @@
 
 (a)
 
-Required Readiness Reporting System.—The Secretary of Defense shall establish a comprehensive readiness reporting system for the Department of Defense. The readiness reporting system shall measure in an objective, accurate, and timely manner the capability of the armed forces to carry out—
+Required Readiness Reporting System.—The Secretary of Defense shall establish a comprehensive readiness reporting system for the Department of Defense. The readiness reportingsystem shall measure in an objective, accurate, and timely manner the capability of the armed forces to carry out—
 
 &emsp;(1) the National Security Strategy prescribed by the President in the most recent annual national security strategy report under section 108 of the National Security Act of 1947 (50 U.S.C. 404a);
 
@@ -64,11 +64,11 @@ A prior section 117, added Pub. L. 97–295, §1(2)(A), Oct. 12, 1982, 96 Stat. 
 
 #### Amendments
 
-2003—Subsec. (e). Pub. L. 108–136 substituted “each quarter submit to the congressional defense committees a report in writing containing the results of the most recent joint readiness review under subsection (d)(1)(A)” for “each month submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report in writing containing the results of the most recent joint readiness review or monthly review conducted under subsection (d)”.
+<b>2003</b>—Subsec. (e). Pub. L. 108–136 substituted “each quarter submit to the congressional defense committees a report in writing containing the results of the most recent joint readiness review under subsection (d)(1)(A)” for “each month submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report in writing containing the results of the most recent joint readiness review or monthly review conducted under subsection (d)”.
 
-2000—Subsec. (c)(7). Pub. L. 106–398 added par. (7).
+<b>2000</b>—Subsec. (c)(7). Pub. L. 106–398 added par. (7).
 
-1999—Subsec. (b)(2). Pub. L. 106–65, §361(d)(1)(A), substituted “with (A) any change in the overall readiness status of a unit that is required to be reported as part of the readiness reporting system being reported within 24 hours of the event necessitating the change in readiness status, and (B) any change in the overall readiness status of an element of the training establishment or an element of defense infrastructure that is required to be reported as part of the readiness reporting system being reported within 72 hours” for “with any change in the overall readiness status of a unit, an element of the training establishment, or an element of defense infrastructure, that is required to be reported as part of the readiness reporting system, being reported within 24 hours”.
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–65, §361(d)(1)(A), substituted “with (A) any change in the overall readiness status of a unit that is required to be reported as part of the readiness reporting system being reported within 24 hours of the event necessitating the change in readiness status, and (B) any change in the overall readiness status of an element of the training establishment or an element of defense infrastructure that is required to be reported as part of the readiness reporting system being reported within 72 hours” for “with any change in the overall readiness status of a unit, an element of the training establishment, or an element of defense infrastructure, that is required to be reported as part of the readiness reporting system, being reported within 24 hours”.
 
 Subsec. (c)(2), (3), (5). Pub. L. 106–65, §361(d)(1)(B), substituted “an annual” for “a quarterly”.
 
@@ -180,7 +180,7 @@ Multiyear Contract Notification.—
 
 &emsp;“(1)
 
-Notification.—If the Secretary of a military department makes the determination described in paragraph (2) with respect to the use of a multiyear contract, the Secretary shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] within 30 days of the determination and provide a detailed description of the proposed multiyear contract.
+Notification.—If the Secretary of a military department makes the determination described in paragraph (2) with respect to the use of a multiyear contract, the Secretary shall notify the congressionaldefense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] within 30 days of the determination and provide a detailed description of the proposed multiyear contract.
 
 &emsp;“(2)
 

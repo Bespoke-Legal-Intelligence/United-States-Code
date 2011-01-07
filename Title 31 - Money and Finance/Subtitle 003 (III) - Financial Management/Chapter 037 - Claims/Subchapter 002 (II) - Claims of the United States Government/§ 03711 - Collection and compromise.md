@@ -20,7 +20,7 @@
 
 &emsp;(2) standards that the Attorney General, the Secretary of the Treasury, may prescribe.<sup>1</sup>
 
-(e)(1) When trying to collect a claim of the Government under a law except the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.), the head of an executive, judicial, or legislative agency shall disclose to a consumer reporting agency information from a system of records that a person is responsible for a claim if—
+(e)(1) When trying to collect a claim of the Government under a law except the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.), the head of an executive, judicial, or legislative agency shall disclose to a consumer reportingagency information from a system of records that a person is responsible for a claim if—
 
 &emsp;(A) notice required by section 552a(e)(4) of title 5 indicates that information in the system may be disclosed to a consumer reporting agency;
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;(i) is in litigation or foreclosure;
 
-&emsp;&emsp;(ii) will be disposed of under an asset sales program within 1 year after becoming eligible for sale, or later than 1 year if consistent with an asset sales program and a schedule established by the agency and approved by the Director of the Office of Management and Budget;
+&emsp;&emsp;(ii) will be disposed of under an asset sales program within 1 year after becoming eligible for sale, or later than 1 year if consistentwith an asset sales program and a schedule established by the agency and approved by the Director of the Office of Management and Budget;
 
 &emsp;&emsp;(iii) has been referred to a private collection contractor for collection for a period of time determined by the Secretary of the Treasury;
 
@@ -150,7 +150,7 @@
 
 &emsp;(H) litigation or foreclosure.
 
-(10) To carry out the purposes of this subsection, the Secretary of the Treasury may prescribe such rules, regulations, and procedures as the Secretary considers necessary and transfer such funds from funds appropriated to the Department of the Treasury as may be necessary to meet existing liabilities and obligations incurred prior to the receipt of revenues that result from debt collections.
+(10) To carry out the purposes of this subsection, the Secretary of the Treasury may prescribe such rules, regulations, and procedures asthe Secretary considers necessary and transfer such funds from funds appropriated to the Department of the Treasury as may be necessary to meet existing liabilities and obligations incurred prior to the receipt of revenues that result from debt collections.
 
 (h)(1) The head of an executive, judicial, or legislative agency acting under subsection (a)(1), (2), or (3) of this section to collect a claim, compromise a claim, or terminate collection action on a claim may obtain a consumer report (as that term is defined in section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a)) or comparable credit information on any person who is liable for the claim.
 
@@ -178,7 +178,7 @@
 
 &emsp;(i) The cumulative balance of current debts outstanding, the estimated net present value of such debts, the annual administrative expenses of those debts (including the portion of salaries and expenses that are directly related thereto), and the estimated net proceeds that would be received by the Government if such debts were sold.
 
-&emsp;(ii) The cumulative balance of delinquent debts, debts outstanding, the estimated netpresent value of such debts, the annual administrative expenses of those debts (including the portion of salaries and expenses that are directly related thereto), and the estimated net proceeds that would be received by the Government if such debts were sold.
+&emsp;(ii) The cumulative balance of delinquent debts, debts outstanding, the estimated net present value of such debts, the annual administrative expenses of those debts (including the portion of salaries and expenses that are directly related thereto), and the estimated net proceeds that would be received by the Government if such debts were sold.
 
 &emsp;(iii) The cumulative balance of guaranteed loans outstanding, the estimated net present value of such guarantees, the annual administrative expenses of such guarantees (including the portion of salaries and expenses that are directly related to such guaranteed loans), and the estimated net proceeds that would be received by the Government if such loan guarantees were sold.
 
@@ -282,11 +282,11 @@ The date of enactment of the Debt Collection Improvement Act of 1996, referred t
 
 #### Amendments
 
-2008—Subsec. (f)(3), (4). Pub. L. 110–389 added par. (3) and redesignated former par. (3) as (4).
+<b>2008</b>—Subsec. (f)(3), (4). Pub. L. 110–389 added par. (3) and redesignated former par. (3) as (4).
 
-2006—Subsec. (f)(2). Pub. L. 109–241 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+<b>2006</b>—Subsec. (f)(2). Pub. L. 109–241 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-1996—Subsec. (a). Pub. L. 104–134, §31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed in introductory provisions by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
+<b>1996</b>—Subsec. (a). Pub. L. 104–134, §31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed in introductory provisions by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
 
 Subsec. (a)(2). Pub. L. 104–316, §115(g)(1)(A), inserted “, except that only the Comptroller General may compromise a claim arising out of an exception the Comptroller General makes in the account of an accountable official” before “; and” at end.
 
@@ -330,17 +330,17 @@ Subsec. (h). Pub. L. 104–134, §31001(m)(1), added subsec. (h).
 
 Subsec. (i). Pub. L. 104–134, §31001(p), added subsec. (i).
 
-1994—Subsec. (c)(2). Pub. L. 103–272 substituted “section 21302 of title 49 for a violation of chapter 203, 205, or 207 of title 49 or a regulation or requirement prescribed or order issued under any of those chapters” for “section 6 of the Act of March 2, 1893 (45 U.S.C. 6), section 4 of the Act of April 14, 1910 (45 U.S.C. 13), section 9 of the Act of February 17, 1911 (45 U.S.C. 34), and section 25(h) of the Interstate Commerce Act (49 App. U.S.C. 26(h))”.
+<b>1994</b>—Subsec. (c)(2). Pub. L. 103–272 substituted “section 21302 of title 49 for a violation of chapter 203, 205, or 207 of title 49 or a regulation or requirement prescribed or order issued under any of those chapters” for “section 6 of the Act of March 2, 1893 (45 U.S.C. 6), section 4 of the Act of April 14, 1910 (45 U.S.C. 13), section 9 of the Act of February 17, 1911 (45 U.S.C. 34), and section 25(h) of the Interstate Commerce Act (49 App. U.S.C. 26(h))”.
 
-1992—Subsec. (c)(2). Pub. L. 102–365 substituted “$500” for “$250”.
+<b>1992</b>—Subsec. (c)(2). Pub. L. 102–365 substituted “$500” for “$250”.
 
-1990—Subsec. (a)(2). Pub. L. 101–552 substituted “$100,000 (excluding interest) or such higher amount as the Attorney General may from time to time prescribe” for “$20,000 (excluding interest)”.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–552 substituted “$100,000 (excluding interest) or such higher amount as the Attorney General may from time to time prescribe” for “$20,000 (excluding interest)”.
 
-1986—Subsec. (f)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (f)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1984—Subsec. (c)(2). Pub. L. 98–216 substituted “(49 App. U.S.C. 26(h))” for “(49 U.S.C. 26(h))”.
+<b>1984</b>—Subsec. (c)(2). Pub. L. 98–216 substituted “(49 App. U.S.C. 26(h))” for “(49 U.S.C. 26(h))”.
 
-1983—Subsec. (f). Pub. L. 97–452 added subsec. (f).
+<b>1983</b>—Subsec. (f). Pub. L. 97–452 added subsec. (f).
 
 #### Savings Provision
 

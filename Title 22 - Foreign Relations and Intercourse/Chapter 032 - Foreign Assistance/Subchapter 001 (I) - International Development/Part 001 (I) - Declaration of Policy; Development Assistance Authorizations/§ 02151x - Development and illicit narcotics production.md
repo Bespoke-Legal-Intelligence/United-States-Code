@@ -2,13 +2,13 @@
 
 #### (a) Congressional statement of findings
 
-The Congress recognizes that illicit narcotics cultivation is related to overall development problems and that the vast majority of all individuals employed in the cultivation of illicit narcotics reside in the developing countries and are among the poorest of the poor in those countries and that therefore the ultimate success of any effort to eliminate illicit narcotics production depends upon the availability of alternative economic opportunities for those individuals, upon other factors which assistance under this part could address, as well as upon direct narcotics control efforts.
+The Congress recognizes that illicit narcotics cultivation is related to overall development problems and that the vast majority of all individuals employed in the cultivation of illicitnarcotics reside in the developing countries and are among the poorest of the poor in those countries and that therefore the ultimate success of any effort to eliminate illicit narcotics production depends upon the availability of alternative economic opportunities for those individuals, upon other factors which assistance under this part could address, as well as upon direct narcotics control efforts.
 
 #### (b) Program planning priorities; resource utilization
 
 (1) In planning programs of assistance under this part, and part X of this subchapter, and under part IV of subchapter II of this chapter for countries in which there is illicit narcotics cultivation, the agency primarily responsible for administering subchapter I of this chapter should give priority consideration to programs which would help reduce illicit narcotics cultivation by stimulating broader development opportunities.
 
-(2) The agency primarily responsible for administering subchapter I of this chapter mayutilize resources for activities aimed at increasing awareness of the effects of production and trafficking of illicit narcotics on source and transit countries.
+(2) The agency primarily responsible for administering subchapter I of this chapter may utilize resources for activities aimed at increasing awareness of the effects of production and trafficking of illicit narcotics on source and transit countries.
 
 #### (c) Administrative requirements
 
@@ -22,9 +22,9 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
-1990—Subsec. (b)(1). Pub. L. 101–513 inserted “, and part X of this subchapter,” after “this part”.
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–513 inserted “, and part X of this subchapter,” after “this part”.
 
-1985—Subsec. (b). Pub. L. 99–83 designated existing provisions as par. (1), inserted reference to part IV of subchapter II of this chapter, and added par. (2).
+<b>1985</b>—Subsec. (b). Pub. L. 99–83 designated existing provisions as par. (1), inserted reference to part IV of subchapter II of this chapter, and added par. (2).
 
 #### Effective Date of 1985 Amendment
 

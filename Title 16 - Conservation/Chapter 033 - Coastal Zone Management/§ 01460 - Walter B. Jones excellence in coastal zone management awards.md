@@ -40,5 +40,5 @@ A prior section 1460, Pub. L. 89–454, title III, §314, formerly §311, as add
 
 #### Amendments
 
-1992—Subsecs. (a), (e). Pub. L. 102–587, §2205(b)(20)(B), (C), after “under section 1456a of this title” inserted “and other amounts available to carry out this chapter (other than amounts appropriated to carry out sections 1454, 1455, 1455a, 1456b, 1456c, and 1461 of this title)”.
+<b>1992</b>—Subsecs. (a), (e). Pub. L. 102–587, §2205(b)(20)(B), (C), after “under section 1456a of this title” inserted “and other amounts available to carry out this chapter (other than amounts appropriated to carry out sections 1454, 1455, 1455a, 1456b, 1456c, and 1461 of this title)”.
 

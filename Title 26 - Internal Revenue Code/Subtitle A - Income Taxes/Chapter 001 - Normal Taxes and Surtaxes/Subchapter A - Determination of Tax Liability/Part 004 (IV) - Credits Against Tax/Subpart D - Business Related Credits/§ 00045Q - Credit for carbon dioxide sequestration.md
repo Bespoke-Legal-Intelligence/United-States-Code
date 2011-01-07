@@ -82,7 +82,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
-&emsp;&emsp;(B) the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting “2008” for “1990”.
+&emsp;&emsp;(B) the inflation adjustment factor for such calendar year determined under section43(b)(3)(B) for such calendar year, determined by substituting “2008” for “1990”.
 
 #### (e) Application of section
 
@@ -90,15 +90,19 @@ The credit under this section shall apply with respect to qualified carbon dioxi
 
 (Added Pub. L. 110–343, div. B, title I, §115(a), Oct. 3, 2008, 122 Stat. 3829; amended Pub. L. 111–5, div. B, title I, §1131(a), (b), Feb. 17, 2009, 123 Stat. 325.)
 
+#### Inflation Adjusted Items for Certain Tax Years
+
+<i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.</i>
+
 #### Amendments
 
-2009—Subsec. (a)(1)(B). Pub. L. 111–5, §1131(b)(2), inserted “and not used by the taxpayer as described in paragraph (2)(B)” after “storage”.
+<b>2009</b>—Subsec. (a)(1)(B). Pub. L. 111–5, §1131(b)(2), inserted “and not used by the taxpayer as described in paragraph (2)(B)” after “storage”.
 
 Subsec. (a)(2)(C). Pub. L. 111–5, §1131(a), added subpar. (C).
 
 Subsec. (d)(2). Pub. L. 111–5, §1131(b)(1), inserted “the Secretary of Energy, and the Secretary of the Interior,” after “Environmental Protection Agency” and substituted “paragraph (1)(B) or (2)(C) of subsection (a)” for “subsection (a)(1)(B)” and “, oil and gas reservoirs, and unminable coal seams” for “and unminable coal seems”.
 
-Subsec. (e). Pub. L. 111–5, §1131(b)(3), substituted “taken into account in accordance with subsection (a)”for “captured and disposed of or used as a tertiary injectant”.
+Subsec. (e). Pub. L. 111–5, §1131(b)(3), substituted “taken into account in accordance with subsection (a)” for “captured and disposed of or used as a tertiary injectant”.
 
 #### Effective Date of 2009 Amendment
 
@@ -107,4 +111,14 @@ Pub. L. 111–5, div. B, title I, §1131(c), Feb. 17, 2009, 123 Stat. 325, provi
 #### Effective Date
 
 Section applicable to carbon dioxide captured after Oct. 3, 2008, see section 115(d) of Pub. L. 110–343, set out as an Effective Date of 2008 Amendment note under section 38 of this title.
+
+#### Inflation Adjusted Items for Certain Tax Years
+
+Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following:
+
+<b>2010</b>—Internal Revenue Notice 2010–75.
+
+<i><sup>1</sup></i><i> So in original. A comma probably should appear.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

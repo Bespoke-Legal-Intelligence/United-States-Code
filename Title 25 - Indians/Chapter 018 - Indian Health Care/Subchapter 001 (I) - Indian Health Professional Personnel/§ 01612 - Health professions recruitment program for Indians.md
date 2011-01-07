@@ -24,7 +24,7 @@ The Secretary, acting through the Service, shall make grants to public or nonpro
 
 #### Amendments
 
-1992—Subsec. (a)(1). Pub. L. 102–573, §102(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “identifying Indians with a potential for education or training in the health professions and encouraging and assisting them (A) to enroll in schools of medicine, osteopathy, dentistry, veterinary medicine, optometry, podiatry, pharmacy, public health, nursing, or allied health professions; or (B), if they are not qualified to enroll in any such school, to undertake such post-secondary education or training as may be required to qualify them for enrollment;”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–573, §102(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “identifying Indians with a potential for education or training in the health professions and encouraging and assisting them (A) to enroll in schools of medicine, osteopathy, dentistry, veterinary medicine, optometry, podiatry, pharmacy, public health, nursing, or allied health professions; or (B), if they are not qualified to enroll in any such school, to undertake such post-secondary education or training as may be required to qualify them for enrollment;”.
 
 Subsec. (a)(2). Pub. L. 102–573, §102(a)(2), substituted “course of study” for “school” in two places and “paragraph (1)” for “clause (1)(A)”.
 
@@ -34,7 +34,7 @@ Subsec. (b)(1). Pub. L. 102–573, §902(2)(A), substituted “prescribe. The Se
 
 Subsec. (c). Pub. L. 102–573, §117(b)(1), struck out subsec. (c) which authorized appropriations for fiscal years 1989 to 1992.
 
-1988—Subsec. (c). Pub. L. 100–713 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For the purpose of making payments pursuant to grants under this section, there are authorized to be appropriated $900,000 for fiscal year 1978, $1,500,000 for fiscal year 1979, and $1,800,000 for fiscal year 1980. There are authorized to be appropriated to carry out this section $2,300,000 for the fiscal year ending September 30, 1981, $2,600,000 for the fiscal year ending September 30, 1982, $3,000,000 for the fiscal year ending September 30, 1983, and $3,500,000 for the fiscal year ending September 30, 1984.”
+<b>1988</b>—Subsec. (c). Pub. L. 100–713 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For the purpose of making payments pursuant to grants under this section, there are authorized to be appropriated $900,000 for fiscal year 1978, $1,500,000 for fiscal year 1979, and $1,800,000 for fiscal year 1980. There are authorized to be appropriated to carry out this section $2,300,000 for the fiscal year ending September 30, 1981, $2,600,000 for the fiscal year ending September 30, 1982, $3,000,000 for the fiscal year ending September 30, 1983, and $3,500,000 for the fiscal year ending September 30, 1984.”
 
-1980—Subsec. (c). Pub. L. 96–537 substituted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, for provisions authorizing appropriation of such amounts as may be specifically authorized by an act enacted after Sept. 30, 1976.
+<b>1980</b>—Subsec. (c). Pub. L. 96–537 substituted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, for provisions authorizing appropriation of such amounts as may be specifically authorized by an act enacted after Sept. 30, 1976.
 

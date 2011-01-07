@@ -8,7 +8,7 @@ It is hereby declared to be the policy of the United States that—
 
 &emsp;(3) the outer Continental Shelf is a vital national resource reserve held by the Federal Government for the public, which should be made available for expeditious and orderly development, subject to environmental safeguards, in a manner which is consistent with the maintenance of competition and other national needs;
 
-&emsp;(4) since exploration, development, and production of the minerals of the outer Continental Shelf will have significant impacts on coastal and non-coastal areas of the coastal States, and on other affected States, and, in recognition of the national interest in the effective management of the marine, coastal, and human environments—
+&emsp;(4) since exploration, development, and production of the minerals of the outer Continental Shelf will have significant impacts on coastal and non-coastal areas of the coastal States, and on other affected States, and, inrecognition of the national interest in the effective management of the marine, coastal, and human environments—
 
 &emsp;&emsp;(A) such States and their affected local governments may require assistance in protecting their coastal zones and other affected areas from any temporary or permanent adverse effects of such impacts;
 
@@ -24,9 +24,9 @@ It is hereby declared to be the policy of the United States that—
 
 #### Amendments
 
-1986—Par. (4)(B), (C). Pub. L. 99–272 added subpar. (B) and redesignated former subpar. (B) as (C).
+<b>1986</b>—Par. (4)(B), (C). Pub. L. 99–272 added subpar. (B) and redesignated former subpar. (B) as (C).
 
-1978—Pub. L. 95–372 redesignated subsecs. (a) and (b) as pars. (1) and (2) and added pars. (3) to (6).
+<b>1978</b>—Pub. L. 95–372 redesignated subsecs. (a) and (b) as pars. (1) and (2) and added pars. (3) to (6).
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

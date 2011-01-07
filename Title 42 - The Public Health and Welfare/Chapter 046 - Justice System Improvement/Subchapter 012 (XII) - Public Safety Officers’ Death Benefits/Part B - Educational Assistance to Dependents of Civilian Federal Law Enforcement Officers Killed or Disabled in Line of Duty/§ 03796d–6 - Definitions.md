@@ -20,5 +20,5 @@ The Higher Education Act of 1965, referred to in par. (3)(B), is Pub. L. 89–32
 
 #### Amendments
 
-1998—Pars. (2) to (4). Pub. L. 105–390 redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “The term ‘Federal law enforcement officer’ has the same meaning as under part A of this subchapter.”
+<b>1998</b>—Pars. (2) to (4). Pub. L. 105–390 redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “The term ‘Federal law enforcement officer’ has the same meaning as under part A of this subchapter.”
 

@@ -16,7 +16,7 @@ Subsection (a) of this section shall not apply to—
 
 #### Amendments
 
-1989—Subsec. (b). Pub. L. 101–239 struck out at end “Under regulations, rules similar to the rules of subsections (a) and (b) of section 52 of title 26 (relating to employers under common control) shall apply for purposes of paragraph (1).”
+<b>1989</b>—Subsec. (b). Pub. L. 101–239 struck out at end “Under regulations, rules similar to the rules of subsections (a) and (b) of section 52 of title 26 (relating to employers under common control) shall apply for purposes of paragraph (1).”
 
 #### Effective Date of 1989 Amendment
 

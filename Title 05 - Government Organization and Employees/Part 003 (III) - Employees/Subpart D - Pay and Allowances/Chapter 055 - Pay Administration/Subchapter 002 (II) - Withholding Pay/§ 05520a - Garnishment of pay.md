@@ -52,13 +52,13 @@
 
 (j)(1) Regulations implementing the provisions of this section shall be promulgated—
 
-&emsp;(A) by the President or his designee for each executive agency, except with regard to employees of the United States Postal Service, the President or, at his discretion, the Postmaster General shall promulgate such regulations;
+&emsp;(A) by the President or his designee for each executive agency, except with regard to employees of the United States Postal Service,the President or, at his discretion, the Postmaster General shall promulgate such regulations;
 
 &emsp;(B) jointly by the President pro tempore of the Senate and the Speaker of the House of Representatives, or their designee, for the legislative branch of the Government; and
 
 &emsp;(C) by the Chief Justice of the United States or his designee for the judicial branch of the Government.
 
-(2) Such regulations shall provide that an agency's administrative costs in executing agarnishment action may be added to the garnishment, and that the agency may retain costs recovered as offsetting collections.
+(2) Such regulations shall provide that an agency's administrative costs in executing a garnishment action may be added to the garnishment, and that the agency may retain costs recovered as offsetting collections.
 
 (k)(1) No later than 180 days after the date of the enactment of this Act, the Secretaries of the Executive departments concerned shall promulgate regulations to carry out the purposes of this section with regard to members of the uniformed services.
 
@@ -114,7 +114,7 @@ Section effective 120 days after Oct. 6, 1993, and not to affect any proceedings
 
 #### Pilot Program on Alternative Notice of Receipt of Legal Process for Garnishment of Federal Pay for Child Support and Alimony
 
-Pub. L. 105–261, div. A, title X, §1061, Oct. 17, 1998, 112 Stat. 2128, authorized the Secretary of Defense to conduct a pilot program on alternative notice procedures for withholding or garnishment of pay for the payment of child support and alimony under section 659 of Title 42, The Public Health and Welfare, required the Secretary to submit to Congress, not later than Jan. 1, 2001, a report describing the experience of the Department of Defense under the authority provided for the program, and provided for termination of pilot program on Sept. 30, 2001.
+Pub. L. 105–261, div. A, title X, §1061, Oct. 17, 1998, 112 Stat. 2128, authorized the Secretary of Defense to conduct a pilot program on alternative notice procedures for withholding or garnishment of pay for the payment of child support and alimony under section 659 of Title 42, The Public Health and Welfare, required the Secretary to submit to Congress, not later than Jan. 1, 2001, a report describing the experience of the Department of Defense under the authority provided for theprogram, and provided for termination of pilot program on Sept. 30, 2001.
 
 #### Ex. Ord. No. 12897. Garnishment of Federal Employees’ Pay
 

@@ -2,7 +2,7 @@
 
 #### (a) Funding
 
-Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall use to carry out and expand the seniors farmers’ market nutrition program $20,600,000 for each of fiscal years 2008 through 2012.
+Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall use tocarry out and expand the seniors farmers’ market nutrition program $20,600,000 for each of fiscal years 2008 through 2012.
 
 #### (b) Program purposes
 
@@ -26,7 +26,11 @@ Each State shall ensure that no State or local tax is collected within the State
 
 The Secretary may promulgate such regulations as the Secretary considers to be necessary to carry out the seniors farmers’ market nutrition program.
 
-(Pub. L. 107–171, title IV, §4402, May 13, 2002, 116 Stat. 334; Pub. L. 110–234, title IV, §§4231, 4406(c)(1), May 22, 2008, 122 Stat. 1124, 1142; Pub. L. 110–246, §4(a), title IV, §§4231, 4406(c)(1), June 18, 2008, 122 Stat. 1664, 1886, 1903.)
+#### (f) Federal law not applicable
+
+Section 1693<i>o</i>–2 of title 15 shall not apply to electronic benefit transfer systems established under this section.
+
+(Pub. L. 107–171, title IV, §4402, May 13, 2002, 116 Stat. 334; Pub. L. 110–234, title IV, §§4231, 4406(c)(1), May 22, 2008, 122 Stat. 1124, 1142; Pub. L. 110–246, §4(a), title IV, §§4231, 4406(c)(1), June 18, 2008, 122 Stat. 1664, 1886, 1903; Pub. L. 111–203, title X, §1075(c), July 21, 2010, 124 Stat. 2074.)
 
 #### Codification
 
@@ -36,6 +40,8 @@ Section was enacted as part of the Food Stamp Reauthorization Act of 2002 and al
 
 #### Amendments
 
+2010—Subsec. (f). Pub. L. 111–203 added subsec. (f).
+
 2008—Subsec. (a). Pub. L. 110–246, §4406(c)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary of Agriculture shall use $5,000,000 for fiscal year 2002, and $15,000,000 for each of fiscal years 2003 through 2007, of the funds available to the Commodity Credit Corporation to carry out and expand a seniors farmers’ market nutrition program.”
 
 Subsec. (b)(1). Pub. L. 110–246, §4231(1), inserted “honey,” after “vegetables,”.
@@ -43,6 +49,10 @@ Subsec. (b)(1). Pub. L. 110–246, §4231(1), inserted “honey,” after “veg
 Subsec. (c). Pub. L. 110–246, §4231(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Secretary may issue such regulations as the Secretary considers necessary to carry out the seniors farmers’ market nutrition program.”
 
 Subsecs. (d), (e). Pub. L. 110–246, §4231(3), added subsecs. (d) and (e).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date of 2008 Amendment
 

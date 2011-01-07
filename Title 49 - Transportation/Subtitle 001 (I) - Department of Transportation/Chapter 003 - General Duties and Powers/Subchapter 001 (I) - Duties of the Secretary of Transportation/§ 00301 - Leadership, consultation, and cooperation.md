@@ -12,7 +12,7 @@ The Secretary of Transportation shall—
 
 &emsp;(5) consult and cooperate with the Secretary of Labor in compiling information regarding the status of labor-management contracts and other labor-management problems and in promoting industrial harmony and stable employment conditions in all modes of transportation;
 
-&emsp;(6) promote and undertake research and development related to transportation, includingnoise abatement, with particular attention to aircraft noise, and including basic highway vehicle science;
+&emsp;(6) promote and undertake research and development related to transportation, including noise abatement, with particular attention to aircraft noise, and including basic highway vehicle science;
 
 &emsp;(7) consult with the heads of other departments, agencies, and instrumentalities of the United States Government on the transportation requirements of the Government, including encouraging them to establish and observe policies consistent with maintaining a coordinated transportation system in procuring transportation or in operating their own transport services;
 
@@ -44,9 +44,9 @@ In clause (4), the word “compiling” is substituted for “gathering” for c
 
 #### Amendments
 
-1998—Par. (9). Pub. L. 105–178 added par. (9).
+<b>1998</b>—Par. (9). Pub. L. 105–178 added par. (9).
 
-1991—Pars. (3) to (5). Pub. L. 102–240, §5002(a), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively. Former par. (5) redesignated (6).
+<b>1991</b>—Pars. (3) to (5). Pub. L. 102–240, §5002(a), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively. Former par. (5) redesignated (6).
 
 Par. (6). Pub. L. 102–240, §§5002(a), 6017, redesignated par. (5) as (6) and inserted “, and including basic highway vehicle science”. Former par. (6) redesignated (7).
 

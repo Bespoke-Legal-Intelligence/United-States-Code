@@ -128,7 +128,7 @@ Treatment of Determination.—Any determination of the status of a missing perso
 
 #### Amendments
 
-1997—Subsec. (c)(1). Pub. L. 105–85, §599(a)(2)(A), substituted “one individual described in paragraph (2)” for “one military officer”.
+<b>1997</b>—Subsec. (c)(1). Pub. L. 105–85, §599(a)(2)(A), substituted “one individual described in paragraph (2)” for “one military officer”.
 
 Subsec. (c)(2) to (4). Pub. L. 105–85, §599(a)(2)(B), (C), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
@@ -136,7 +136,7 @@ Subsec. (f)(1). Pub. L. 105–85, §599(d)(1), inserted at end “The identity o
 
 Subsec. (f)(4). Pub. L. 105–85, §599(d)(2), inserted at end “The primary next of kin of a missing person and any other previously designated person of the missing person shall have the right to submit information to the missing person's counsel relative to the disappearance or status of the missing person.”
 
-1996—Subsec. (a). Pub. L. 104–201, §578(b)(2), substituted “section 1502(a)” for “section 1502(b)”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, §578(b)(2), substituted “section 1502(a)” for “section 1502(b)”.
 
 Subsec. (c)(1). Pub. L. 104–201, §578(a)(2)(A), substituted “one military officer” for “one individual described in paragraph (2)”.
 

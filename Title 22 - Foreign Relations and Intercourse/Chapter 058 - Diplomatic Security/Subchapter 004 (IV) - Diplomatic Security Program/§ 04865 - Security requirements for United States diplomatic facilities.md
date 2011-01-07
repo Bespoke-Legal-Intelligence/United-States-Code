@@ -8,7 +8,7 @@ The following security requirements shall apply with respect to United States di
 
 #### (A) Emergency Action Plan
 
-&emsp;&emsp;The Emergency Action Plan (EAP) of each United States mission shall address the threat of large explosive attacks from vehicles and the safety of employees during such an explosive attack. Such plan shall be reviewed and updated annually.
+&emsp;&emsp;The Emergency Action Plan (EAP) of each United States mission shall address thethreat of large explosive attacks from vehicles and the safety of employees during such an explosive attack. Such plan shall be reviewed and updated annually.
 
 #### (B) Security Environment Threat List
 
@@ -96,7 +96,7 @@ The following security requirements shall apply with respect to United States di
 
 &emsp;&emsp;&emsp;(iii) providing personnel to assist in activities such as security, medical relief, public affairs, engineering, and building safety; and
 
-&emsp;&emsp;&emsp;(iv) providing such additional support as may be necessary to enable the FEST to provide support in a post-crisis environment involving mass casualties and physical damage.
+&emsp;&emsp;&emsp;(iv) providing such additional support as may be necessary to enable the FEST toprovide support in a post-crisis environment involving mass casualties and physical damage.
 
 #### (B) FEST aircraft
 

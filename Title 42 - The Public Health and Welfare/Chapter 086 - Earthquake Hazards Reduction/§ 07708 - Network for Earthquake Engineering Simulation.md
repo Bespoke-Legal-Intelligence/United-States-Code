@@ -30,5 +30,5 @@ In addition to amounts appropriated under section 7706(c) of this title, there a
 
 #### Amendments
 
-2004—Subsec. (b)(5) to (9). Pub. L. 108–360 added pars. (5) to (9).
+<b>2004</b>—Subsec. (b)(5) to (9). Pub. L. 108–360 added pars. (5) to (9).
 

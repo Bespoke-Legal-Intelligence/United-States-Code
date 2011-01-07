@@ -10,3 +10,5 @@ Not less than 5 percent of the amounts made available under section 13822(a)(2)(
 
 (Pub. L. 103–322, title III, §31116, Sept. 13, 1994, 108 Stat. 1885.)
 
+<i><sup>1</sup></i><i> So in original. Probably should be section “13852(b)(1)”.</i>
+

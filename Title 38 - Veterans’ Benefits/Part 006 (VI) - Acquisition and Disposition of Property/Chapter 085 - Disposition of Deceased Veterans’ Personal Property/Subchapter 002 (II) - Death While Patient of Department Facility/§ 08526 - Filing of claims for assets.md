@@ -6,11 +6,11 @@ Notwithstanding the crediting to said Fund of the assets, or proceeds thereof, o
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 5226 of this title as this section and substituted “8520” for “5220”.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5226 of this title as this section and substituted “8520” for “5220”.
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator”, “Secretary's” for “Administrator's”, and “Department” for “Veterans’ Administration” wherever appearing.
 
-1986—Pub. L. 99–576 substituted “such person” for “himself” in first sentence, “the veteran's” for “his” in second sentence, “the Administrator” for “he” in fifth sentence, and “the Administrator's authorized” for “his authorized” in sixth and seventh sentences.
+<b>1986</b>—Pub. L. 99–576 substituted “such person” for “himself” in first sentence, “the veteran's” for “his” in second sentence, “the Administrator” for “he” in fifth sentence, and “the Administrator's authorized” for “his authorized” in sixth and seventh sentences.
 
-1960—Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
+<b>1960</b>—Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
 

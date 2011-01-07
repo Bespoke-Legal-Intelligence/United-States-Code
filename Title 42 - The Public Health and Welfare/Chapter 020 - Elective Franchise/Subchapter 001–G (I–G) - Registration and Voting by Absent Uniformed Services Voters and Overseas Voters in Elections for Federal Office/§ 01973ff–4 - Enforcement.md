@@ -12,5 +12,5 @@ Not later than December 31 of each year, the Attorney General shall submit to Co
 
 #### Amendments
 
-2009—Pub. L. 111–84 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2009</b>—Pub. L. 111–84 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

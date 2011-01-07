@@ -74,7 +74,7 @@ The Adam Walsh Child Protection and Safety Act of 2006, referred to in subsecs. 
 
 #### Amendments
 
-2009—Pub. L. 111–13, §1614(a), added subsec. (d).
+<b>2009</b>—Pub. L. 111–13, §1614(a), added subsec. (d).
 
 #### Effective Date
 

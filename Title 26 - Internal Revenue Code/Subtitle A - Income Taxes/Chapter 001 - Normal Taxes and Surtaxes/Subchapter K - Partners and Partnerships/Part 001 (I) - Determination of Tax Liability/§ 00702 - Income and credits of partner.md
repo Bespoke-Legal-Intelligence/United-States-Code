@@ -40,23 +40,23 @@ In any case where it is necessary to determine the gross income of a partner for
 
 #### Amendments
 
-2003—Subsec. (a)(5). Pub. L. 108–27, §§302(e)(8), 303, temporarily amended par. (5) generally. Prior to amendment, par. (5) read as follows: “dividends with respect to which there is a deduction under part VIII of subchapter B,”. See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (a)(5). Pub. L. 108–27, §§302(e)(8), 303, temporarily amended par. (5) generally. Prior to amendment, par. (5) read as follows: “dividends with respect to which there is a deduction under part VIII of subchapter B,”. See Effective and Termination Dates of 2003 Amendment note below.
 
-1986—Subsec. (a)(5). Pub. L. 99–514 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “dividends or interest with respect to which there is an exclusion under section 116 or 128, or a deduction under part VIII of subchapter B,”.
+<b>1986</b>—Subsec. (a)(5). Pub. L. 99–514 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “dividends or interest with respect to which there is an exclusion under section 116 or 128, or a deduction under part VIII of subchapter B,”.
 
-1984—Subsec. (a)(1), (2). Pub. L. 98–369 substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+<b>1984</b>—Subsec. (a)(1), (2). Pub. L. 98–369 substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-1983—Subsec. (a)(5). Pub. L. 97–448 substituted “an exclusion under section 116 or 128,” for “provided an exclusion under section 116 or 128”.
+<b>1983</b>—Subsec. (a)(5). Pub. L. 97–448 substituted “an exclusion under section 116 or 128,” for “provided an exclusion under section 116 or 128”.
 
-1982—Subsec. (d). Pub. L. 97–248 added subsec. (d).
+<b>1982</b>—Subsec. (d). Pub. L. 97–248 added subsec. (d).
 
-1981—Subsec. (a)(5). Pub. L. 97–34, §301(b)(6)(C), inserted reference to “interest” in heading and text which continued the amendment made by Pub. L. 96–223.
+<b>1981</b>—Subsec. (a)(5). Pub. L. 97–34, §301(b)(6)(C), inserted reference to “interest” in heading and text which continued the amendment made by Pub. L. 96–223.
 
 Pub. L. 97–34, §301(b)(5), inserted “or 128” after “section 116”.
 
-1980—Subsec. (a)(5). Pub. L. 96–223 inserted “or interest” after “dividends”.
+<b>1980</b>—Subsec. (a)(5). Pub. L. 96–223 inserted “or interest” after “dividends”.
 
-1976—Subsec. (a)(1), (2). Pub. L. 94–455, §1402(b)(2), provided that “9 months” would be changed to “1 year”.
+<b>1976</b>—Subsec. (a)(1), (2). Pub. L. 94–455, §1402(b)(2), provided that “9 months” would be changed to “1 year”.
 
 Pub. L. 94–455, §1402(b)(1)(L), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
@@ -64,13 +64,13 @@ Subsec. (a)(7) to (9). Pub. L. 94–455, §§1901(b)(1)(I)(i), 1906(b)(13)(A), r
 
 Subsec. (b). Pub. L. 94–455, §1901(b)(1)(I)(ii), substituted “paragraphs (1) through (7)” for “paragraphs (1) through (8)”.
 
-1964—Subsec. (a)(5). Pub. L. 88–272 struck out “a credit under section 34,” before “an exclusion”.
+<b>1964</b>—Subsec. (a)(5). Pub. L. 88–272 struck out “a credit under section 34,” before “an exclusion”.
 
 #### Effective and Termination Dates of 2003 Amendment
 
 Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as a note under section 1 of this title.
 
-Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
+Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

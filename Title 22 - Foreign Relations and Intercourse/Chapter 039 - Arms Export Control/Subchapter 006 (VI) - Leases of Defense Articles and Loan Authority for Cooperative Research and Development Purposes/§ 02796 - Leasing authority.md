@@ -16,7 +16,7 @@ The President may lease defense articles in the stocks of the Department of Defe
 
 &emsp;&emsp;(B) in the event the United States does not intend to replace the articles lost or destroyed, an amount not less than the actual value (less any depreciation in the value) specified in the lease agreement.
 
-> The requirement of paragraph (4) shall not apply to leases entered into for purposes of cooperative research or development, military exercises, or communications or electronics interface projects. The President may waive the requirement of paragraph (4) for reimbursement of depreciation for any defense article which has passed three-quarters of its normal service life if the President determines that to do so is important to the national security interest of the United States. The President may waive the requirement of paragraph (4) with respect to a lease which is made in exchange with the lesseefor a lease on substantially reciprocal terms of defense articles for the Department of Defense, except that this waiver authority—
+> The requirement of paragraph (4) shall not apply to leases entered into for purposes of cooperative research or development, military exercises, or communications or electronics interface projects. The President may waive the requirement of paragraph (4) for reimbursement of depreciation for any defense article which has passed three-quarters of its normal service life if the President determines that to do so is important to the national security interest of the United States. The President may waive the requirement of paragraph (4) with respect to a lease which is made in exchange with the lessee for a lease on substantially reciprocal terms of defense articles for the Department of Defense, except that this waiver authority—
 
 &emsp;(A) may be exercised only if the President submits to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate, in accordance with the regular notification procedures of those Committees, a detailed notification for each lease with respect to which the authority is exercised; and
 
@@ -38,6 +38,8 @@ Defense articles in the stocks of the Department of Defense may be leased or loa
 
 #### References in Text
 
+This chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+
 The Foreign Assistance Act of 1961, referred to in subsec. (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 2 of part II of that Act is classified generally to part II (§2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
@@ -48,13 +50,13 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–228 designated existing provisions as par. (1), substituted “which may not exceed (A) five years, and (B) a specified period of time required to complete major refurbishment work of the leased articles to be performed prior to the delivery of the leased articles,” for “of not to exceed five years”, and added par. (2).
+<b>2002</b>—Subsec. (b). Pub. L. 107–228 designated existing provisions as par. (1), substituted “which may not exceed (A) five years, and (B) a specified period of time required to complete major refurbishment work of the leased articles to be performed prior to the delivery of the leased articles,” for “of not to exceed five years”, and added par. (2).
 
-1998—Subsec. (a). Pub. L. 105–277 substituted “the current fiscal year” for “1998” in par. (B).
+<b>1998</b>—Subsec. (a). Pub. L. 105–277 substituted “the current fiscal year” for “1998” in par. (B).
 
-1997—Subsec. (a). Pub. L. 105–118 substituted “1998” for “1997” in par. (B).
+<b>1997</b>—Subsec. (a). Pub. L. 105–118 substituted “1998” for “1997” in par. (B).
 
-1996—Subsec. (a). Pub. L. 104–164, §153(a), struck out “, or to any defense article which has passed three-quarters of its normal service life.” after “electronics interface projects” in second sentence and inserted after second sentence “The President may waive the requirement of paragraph (4) for reimbursement of depreciation for any defense article which has passed three-quarters of its normal service life if the President determines that to do so is important to the national security interest of the United States.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–164, §153(a), struck out “, or to any defense article which has passed three-quarters of its normal service life.” after “electronics interface projects” in second sentence and inserted after second sentence “The President may waive the requirement of paragraph (4) for reimbursement of depreciation for any defense article which has passed three-quarters of its normal service life if the President determines that to do so is important to the national security interest of the United States.”
 
 Pub. L. 104–208 substituted “1997” for “1996” in par. (B).
 
@@ -66,27 +68,27 @@ Subsec. (a)(4). Pub. L. 104–164, §146, substituted “and, if the articles ar
 
 &emsp;“(B) in the event the United States does not intend to replace the articles lost or destroyed, an amount not less than the actual value (less any depreciation in the value) specified in the lease agreement” for “and the replacement cost (less any depreciation in the value) of the articles if the articles are lost or destroyed while leased”.
 
-1994—Subsec. (a). Pub. L. 103–306 substituted “1995” for “1994” in par. (B).
+<b>1994</b>—Subsec. (a). Pub. L. 103–306 substituted “1995” for “1994” in par. (B).
 
 Pub. L. 103–236 struck out “and” at end of par. (2), added par. (3), redesignated former par. (3) as (4), and substituted “paragraph (4)” for “paragraph (3)” in two places in provisions following par. (4).
 
-1993—Subsec. (a). Pub. L. 103–87 substituted “1994” for “1993” in par. (B).
+<b>1993</b>—Subsec. (a). Pub. L. 103–87 substituted “1994” for “1993” in par. (B).
 
-1992—Subsec. (a). Pub. L. 102–391 substituted “1993” for “1992” in par. (B).
+<b>1992</b>—Subsec. (a). Pub. L. 102–391 substituted “1993” for “1992” in par. (B).
 
 Pub. L. 102–266 added Pub. L. 102–145, §118. See 1991 Amendment note below.
 
-1991—Subsec. (a). Pub. L. 102–145, §118, as added by Pub. L. 102–266, substituted “1992” for “1991” in par. (B). See Codification note above.
+<b>1991</b>—Subsec. (a). Pub. L. 102–145, §118, as added by Pub. L. 102–266, substituted “1992” for “1991” in par. (B). See Codification note above.
 
-1990—Subsec. (a). Pub. L. 101–513 substituted “1991” for “1990” in par. (B).
+<b>1990</b>—Subsec. (a). Pub. L. 101–513 substituted “1991” for “1990” in par. (B).
 
-1989—Subsec. (a). Pub. L. 101–167 substituted “1990” for “1989” in par. (B).
+<b>1989</b>—Subsec. (a). Pub. L. 101–167 substituted “1990” for “1989” in par. (B).
 
-1988—Subsec. (a). Pub. L. 100–461 substituted “1989” for “1988” in par. (B).
+<b>1988</b>—Subsec. (a). Pub. L. 100–461 substituted “1989” for “1988” in par. (B).
 
-1987—Subsec. (a). Pub. L. 100–202 substituted “1988” for “1987” in par. (B).
+<b>1987</b>—Subsec. (a). Pub. L. 100–202 substituted “1988” for “1987” in par. (B).
 
-1986—Subsec. (a). Pub. L. 99–500 and Pub. L. 99–591 inserted provision authorizing the President to waive the requirements of par. (3) with respect to a lease which is made in exchange with the lessee for a lease on substantially reciprocal terms of defense articles for the Department of Defense and providing exceptions to such waiver authority.
+<b>1986</b>—Subsec. (a). Pub. L. 99–500 and Pub. L. 99–591 inserted provision authorizing the President to waive the requirements of par. (3) with respect to a lease which is made in exchange with the lessee for a lease on substantially reciprocal terms of defense articles for the Department of Defense and providing exceptions to such waiver authority.
 
 #### Effective Date of 1996 Amendment
 

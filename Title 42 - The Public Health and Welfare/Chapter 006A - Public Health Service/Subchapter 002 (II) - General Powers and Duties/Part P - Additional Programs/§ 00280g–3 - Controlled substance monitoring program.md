@@ -226,7 +226,7 @@ The Secretary shall specify a uniform electronic format for the reporting, shari
 
 &emsp;&emsp;&emsp;(iv) determines the feasibility of implementing a real-time electronic controlled substance monitoring program, including the costs associated with establishing such a program;
 
-&emsp;&emsp;&emsp;(v) provides an analysis of the privacy protections in place for the informationreported to the controlled substance monitoring program in each State receiving a grant for the establishment or operation of such program, and any recommendations for additional requirements for protection of this information;
+&emsp;&emsp;&emsp;(v) provides an analysis of the privacy protections in place for the information reported to the controlled substance monitoring program in each State receiving a grant for the establishment or operation of such program, and any recommendations for additional requirements for protection of this information;
 
 &emsp;&emsp;&emsp;(vi) determines the feasibility of implementing technological alternatives to centralized data storage, such as peer-to-peer file sharing or data pointer systems, in controlled substance monitoring programs and the potential for such alternatives to enhance the privacy and security of individually identifiable data; and
 

@@ -14,7 +14,7 @@
 
 &emsp;Grants awarded under this subsection shall be used for activities that enhance the ability of an institution of higher education (or consortium thereof) to provide high-quality undergraduate and master's degree programs in computer and network security and to recruit and retain increased numbers of students to such programs. Activities may include—
 
-&emsp;&emsp;(A) revising curriculum to better prepare undergraduate and master's degree studentsfor careers in computer and network security;
+&emsp;&emsp;(A) revising curriculum to better prepare undergraduate and master's degree students for careers in computer and network security;
 
 &emsp;&emsp;(B) establishing degree and certificate programs in computer and network security;
 
@@ -98,7 +98,7 @@
 
 #### (1) In general
 
-&emsp;The Director shall establish a program to award grants to institutions of higher education to establish traineeship programs for graduate students who pursue computer andnetwork security research leading to a doctorate degree by providing funding and other assistance, and by providing graduate students with research experience in government or industry related to the students’ computer and network security studies.
+&emsp;The Director shall establish a program to award grants to institutions of higher education to establish traineeship programs for graduate students who pursue computer and network security research leading to a doctorate degree by providing funding and other assistance, and by providing graduate students with research experience in government or industry related to the students’ computer and network security studies.
 
 #### (2) Merit review
 
@@ -166,7 +166,7 @@ Computer and network security shall be included among the fields of specializati
 
 #### (1) In general
 
-&emsp;The Director shall establish a program to award grants to institutions of higher education to establish traineeship programs to enable graduate students to pursue academic careers in cyber security upon completion of doctoral degrees.
+&emsp;The Director shall establish a program to award grants to institutions of higher education to establish traineeship programs toenable graduate students to pursue academic careers in cyber security upon completion of doctoral degrees.
 
 #### (2) Merit review; competition
 

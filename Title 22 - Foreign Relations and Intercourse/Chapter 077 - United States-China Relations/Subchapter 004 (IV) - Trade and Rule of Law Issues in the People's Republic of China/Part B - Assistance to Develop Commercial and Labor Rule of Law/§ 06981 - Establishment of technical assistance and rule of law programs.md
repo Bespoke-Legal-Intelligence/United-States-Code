@@ -32,7 +32,7 @@ The Secretary of State is authorized to establish a program to conduct rule of l
 
 #### (d) Conduct of programs
 
-The programs authorized by this section may be used to conduct activities such as seminars and workshops, drafting of commercial and labor codes, legal training, publications, financing the operating costs for nongovernmental organizations working in this area, and fundingthe travel of individuals to the United States and to the People's Republic of China to provide and receive training.
+The programs authorized by this section may be used to conduct activities such as seminars and workshops, drafting of commercial and labor codes, legal training, publications, financing the operating costs for nongovernmental organizations working in this area, and funding the travel of individuals to the United States and to the People's Republic of China to provide and receive training.
 
 (Pub. L. 106–286, div. B, title V, §511, Oct. 10, 2000, 114 Stat. 905.)
 

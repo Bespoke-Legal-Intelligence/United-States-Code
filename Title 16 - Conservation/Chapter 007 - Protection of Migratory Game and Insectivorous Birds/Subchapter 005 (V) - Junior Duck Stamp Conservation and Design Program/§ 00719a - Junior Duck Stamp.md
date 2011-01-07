@@ -48,7 +48,7 @@ Amounts received under subsection (b) of this section—
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–166 amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “Amounts received under subsection (b) of this section—
+<b>2006</b>—Subsec. (c). Pub. L. 109–166 amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “Amounts received under subsection (b) of this section—
 
 &emsp;“(1) shall be available to the Secretary until expended, without further appropriations, solely for—
 

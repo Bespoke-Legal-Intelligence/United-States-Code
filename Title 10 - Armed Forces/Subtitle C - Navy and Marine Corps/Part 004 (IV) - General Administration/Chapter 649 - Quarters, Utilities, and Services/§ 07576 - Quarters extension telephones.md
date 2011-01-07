@@ -42,9 +42,9 @@ In subsection (a) the words “appropriated funds” are substituted for the wor
 
 #### Amendments
 
-1980—Subsec. (a)(3). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+<b>1980</b>—Subsec. (a)(3). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
-1966—Subsec. (a)(3). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
+<b>1966</b>—Subsec. (a)(3). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
 
 #### Effective Date of 1980 Amendment
 

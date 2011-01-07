@@ -12,7 +12,7 @@
 
 (b) Notwithstanding any other provision of this section or any other provision of law, no reduction shall be made in the pension of any veteran for any part of the period during which the veteran is furnished hospital treatment, or institutional or domiciliary care, for Hansen's disease, by the United States or any political subdivision thereof.
 
-(c) Where any veteran in receipt of an aid and attendance allowance described in section 1114(r) of this title is hospitalized at Government expense, such allowance shall be discontinued from the first day of the second calendar month which begins after the date of the veteran's admission for such hospitalization for so long as such hospitalization continues. Any discontinuance required by administrative regulation, during hospitalization of a veteran by the Department, of increased pension based on need of regular aid and attendance or additional compensation based on need of regular aid and attendance as described in subsection (<i>l</i>) or (m) of section 1114 of this title, shall not be effective earlier than the first day of the second calendar month which begins after the date of the veterans’ admission for hospitalization. In case a veteran affected by this subsection leaves a hospital against medical advice and is thereafter admitted to hospitalization within six months from the date of such departure, such allowance, increased pension, or additional compensation, as the case may be, shall be discontinued from the date of such readmission for so long as such hospitalization continues.
+(c) Where any veteran in receipt of an aid and attendance allowance described in subsection (r) or (t) of section 1114 of this title is hospitalized at Government expense, such allowance shall be discontinued from the first day of the second calendar month which begins after the date of the veteran's admission for such hospitalization for so long as such hospitalization continues. Any discontinuance required by administrative regulation, during hospitalization of a veteran by the Department, of increased pension based on need of regular aid and attendance or additional compensation based on need of regular aid and attendance as described in subsection (<i>l</i>) or (m) of section 1114 of this title, shall not be effective earlier than the first day of the second calendar month which begins after the date of the veteran's admission for hospitalization. In case a veteran affected by this subsection leaves a hospital against medical advice and is thereafter admitted to hospitalization within six months from the date of such departure, such allowance, increased pension, or additional compensation, as the case may be, shall be discontinued from the date of such readmission for so long as such hospitalization continues.
 
 (d)(1) For the purposes of this subsection—
 
@@ -26,13 +26,15 @@
 
 (4) A veteran is not liable to the United States for any payment of pension in excess of the amount permitted under this subsection that is paid to or for the veteran by reason of the inability or failure of the Secretary to reduce the veteran's pension under this subsection unless such inability or failure is the result of a willful concealment by the veteran of information necessary to make a reduction in pension under this subsection.
 
-(5) The provisions of this subsection shall apply with respect to a surviving spouse having no child in the same manner as they apply to a veteran having neither spouse nor child.
+(5)(A) The provisions of this subsection shall apply with respect to a surviving spouse having no child in the same manner as they apply to a veteran having neither spouse nor child.
+
+(B) The provisions of this subsection shall apply with respect to a child entitled to pension under section 1542 of this title in the same manner as they apply to a veteran having neither spouse nor child.
 
 (6) The costs of administering this subsection shall be paid for from amounts available to the Department of Veterans Affairs for the payment of compensation and pension.
 
-(7) This subsection expires on September 30, 2011.
+(7) This subsection expires on May 31, 2015.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1234, §3203; Pub. L. 86–146, §§1(b), 2, Aug. 7, 1959, 73 Stat. 298; Pub. L. 86–211, §6, Aug. 29, 1959, 73 Stat. 435; Pub. L. 87–544, §1, July 25, 1962, 76 Stat. 208; Pub. L. 87–556, §1, July 27, 1962, 76 Stat. 245; Pub. L. 87–645, §2(b), Sept. 7, 1962, 76 Stat. 441; Pub. L. 88–450, §5(a), Aug. 19, 1964, 78 Stat. 504; Pub. L. 89–362, §§1, 2, Mar. 7, 1966, 80 Stat. 30; Pub. L. 91–24, §10, June 11, 1969, 83 Stat. 34; Pub. L. 92–328, title I, §104, June 30, 1972, 86 Stat. 394; Pub. L. 93–177, §5, Dec. 6, 1973, 87 Stat. 696; Pub. L. 95–588, title III, §307, Nov. 4, 1978, 92 Stat. 2510; Pub. L. 96–385, title V, §503(b), Oct. 7, 1980, 94 Stat. 1534; Pub. L. 97–66, title VI, §602, Oct. 17, 1981, 95 Stat. 1034; Pub. L. 98–160, title VII, §703(4), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 98–543, title IV, §402(a), Oct. 24, 1984, 98 Stat. 2749; Pub. L. 99–576, title VII, §701(77), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 101–237, title I, §111(a), Dec. 18, 1989, 103 Stat. 2064; Pub. L. 101–508, title VIII, §8003(a), Nov. 5, 1990, 104 Stat. 1388–342; renumbered §5503 and amended Pub. L. 102–40, title III, §304(a), title IV, §402(b)(1), May 7, 1991, 105 Stat. 209, 238; Pub. L. 102–83, §§4(a)(2)(A)(x), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–86, title I, §101(a), Aug. 14, 1991, 105 Stat. 414; Pub. L. 102–568, title VI, §601(a)–(c), Oct. 29, 1992, 106 Stat. 4341; Pub. L. 103–66, title XII, §12005, Aug. 10, 1993, 107 Stat. 414; Pub. L. 105–33, title VIII, §8015, Aug. 5, 1997, 111 Stat. 664; Pub. L. 105–368, title IX, §904(a), Nov. 11, 1998, 112 Stat. 3361; Pub. L. 106–419, title III, §304, title IV, §402(e), Nov. 1, 2000, 114 Stat. 1853, 1863; Pub. L. 107–103, title II, §204(a), title V, §504, Dec. 27, 2001, 115 Stat. 990, 995.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1234, §3203; Pub. L. 86–146, §§1(b), 2, Aug. 7, 1959, 73 Stat. 298; Pub. L. 86–211, §6, Aug. 29, 1959, 73 Stat. 435; Pub. L. 87–544, §1, July 25, 1962, 76 Stat. 208; Pub. L. 87–556, §1, July 27, 1962, 76 Stat. 245; Pub. L. 87–645, §2(b), Sept. 7, 1962, 76 Stat. 441; Pub. L. 88–450, §5(a), Aug. 19, 1964, 78 Stat. 504; Pub. L. 89–362, §§1, 2, Mar. 7, 1966, 80 Stat. 30; Pub. L. 91–24, §10, June 11, 1969, 83 Stat. 34; Pub. L. 92–328, title I, §104, June 30, 1972, 86 Stat. 394; Pub. L. 93–177, §5, Dec. 6, 1973, 87 Stat. 696; Pub. L. 95–588, title III, §307, Nov. 4, 1978, 92 Stat. 2510; Pub. L. 96–385, title V, §503(b), Oct. 7, 1980, 94 Stat. 1534; Pub. L. 97–66, title VI, §602, Oct. 17, 1981, 95 Stat. 1034; Pub. L. 98–160, title VII, §703(4), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 98–543, title IV, §402(a), Oct. 24, 1984, 98 Stat. 2749; Pub. L. 99–576, title VII, §701(77), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 101–237, title I, §111(a), Dec. 18, 1989, 103 Stat. 2064; Pub. L. 101–508, title VIII, §8003(a), Nov. 5, 1990, 104 Stat. 1388–342; renumbered §5503 and amended Pub. L. 102–40, title III, §304(a), title IV, §402(b)(1), May 7, 1991, 105 Stat. 209, 238; Pub. L. 102–83, §§4(a)(2)(A)(x), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–86, title I, §101(a), Aug. 14, 1991, 105 Stat. 414; Pub. L. 102–568, title VI, §601(a)–(c), Oct. 29, 1992, 106 Stat. 4341; Pub. L. 103–66, title XII, §12005, Aug. 10, 1993, 107 Stat. 414; Pub. L. 105–33, title VIII, §8015, Aug. 5, 1997, 111 Stat. 664; Pub. L. 105–368, title IX, §904(a), Nov. 11, 1998, 112 Stat. 3361; Pub. L. 106–419, title III, §304, title IV, §402(e), Nov. 1, 2000, 114 Stat. 1853, 1863; Pub. L. 107–103, title II, §204(a), title V, §504, Dec. 27, 2001, 115 Stat. 990, 995; Pub. L. 111–275, title VI, §§601(b)(2), 606, 607, Oct. 13, 2010, 124 Stat. 2884, 2886.)
 
 #### References in Text
 
@@ -40,7 +42,13 @@ The Social Security Act, referred to in subsec. (d)(3), is act Aug. 14, 1935, ch
 
 #### Amendments
 
-2001—Subsecs. (b), (c). Pub. L. 107–103, §204(a), redesignated subsecs. (d) and (e) as (b) and (c), respectively, and struck out former subsecs. (b) and (c), which read as follows:
+<b>2010</b>—Subsec. (c). Pub. L. 111–275, §601(b)(2), substituted “in subsection (r) or (t) of section 1114” for “in section 1114(r)”.
+
+Subsec. (d)(5). Pub. L. 111–275, §606, designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (d)(7). Pub. L. 111–275, §607, substituted “May 31, 2015” for “September 30, 2011”.
+
+<b>2001</b>—Subsecs. (b), (c). Pub. L. 107–103, §204(a), redesignated subsecs. (d) and (e) as (b) and (c), respectively, and struck out former subsecs. (b) and (c), which read as follows:
 
 “(b)(1)(A) In any case in which a veteran having neither spouse nor child is being furnished hospital treatment or institutional or domiciliary care without charge or otherwise by the United States, or any political subdivision thereof, is rated by the Secretary in accordance with regulations as being incompetent, and the veteran's estate (excluding the value of the veteran's home unless there is no reasonable likelihood that the veteran will again reside in such home), from any source equals or exceeds the amount equal to five times the section 1114(j) rate, further payments of pension, compensation, or emergency officers’ retirement pay shall not be made until the estate is reduced to one-half that amount.
 
@@ -60,19 +68,19 @@ Subsec. (d). Pub. L. 107–103, §§204(a)(2), 504, redesignated subsec. (f) as 
 
 Subsecs. (e), (f). Pub. L. 107–103, §204(a)(2), redesignated subsecs. (e) and (f) as (c) and (d), respectively.
 
-2000—Subsec. (b)(1)(A). Pub. L. 106–419, §304(1), substituted “the amount equal to five times the section 1114(j) rate” for “$1,500” and “one-half that amount” for “$500”.
+<b>2000</b>—Subsec. (b)(1)(A). Pub. L. 106–419, §304(1), substituted “the amount equal to five times the section 1114(j) rate” for “$1,500” and “one-half that amount” for “$500”.
 
 Subsec. (b)(1)(D). Pub. L. 106–419, §304(2), added subpar. (D).
 
 Subsec. (f)(7). Pub. L. 106–419, §402(e), substituted “September 30, 2008” for “September 30, 2002”.
 
-1998—Subsec. (a)(1)(B). Pub. L. 105–368 substituted “Any” for “Effective through September 30, 1997, any” in second sentence.
+<b>1998</b>—Subsec. (a)(1)(B). Pub. L. 105–368 substituted “Any” for “Effective through September 30, 1997, any” in second sentence.
 
-1997—Subsec. (f)(7). Pub. L. 105–33 substituted “September 30, 2002” for “September 30, 1998”.
+<b>1997</b>—Subsec. (f)(7). Pub. L. 105–33 substituted “September 30, 2002” for “September 30, 1998”.
 
-1993—Subsec. (f)(7). Pub. L. 103–66 substituted “1998” for “1997”.
+<b>1993</b>—Subsec. (f)(7). Pub. L. 103–66 substituted “1998” for “1997”.
 
-1992—Subsec. (a)(1)(B). Pub. L. 102–568, §601(c), inserted at end “Effective through September 30, 1997, any amount in excess of $90 per month to which the veteran would be entitled but for the application of the preceding sentence shall be deposited in a revolving fund at the Department medical facility which furnished the veteran nursing care, and such amount shall be available for obligation without fiscal year limitation to help defray operating expenses of that facility.”
+<b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–568, §601(c), inserted at end “Effective through September 30, 1997, any amount in excess of $90 per month to which the veteran would be entitled but for the application of the preceding sentence shall be deposited in a revolving fund at the Department medical facility which furnished the veteran nursing care, and such amount shall be available for obligation without fiscal year limitation to help defray operating expenses of that facility.”
 
 Subsec. (f)(5), (6). Pub. L. 102–568, §601(a), added par. (5) and redesignated former par. (5) as (6). Former par. (6) redesignated (7).
 
@@ -80,7 +88,7 @@ Subsec. (f)(7). Pub. L. 102–568, §601(b), substituted “1997” for “1992�
 
 Pub. L. 102–568, §601(a)(1), redesignated par. (6) as (7).
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 3203 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 3203 of this title as this section.
 
 Subsec. (a)(1)(A), (B). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
@@ -108,15 +116,15 @@ Subsec. (f)(1)(B). Pub. L. 102–83, §5(c)(1), substituted “1741(a)” for �
 
 Pub. L. 102–40, §304(a), inserted before period at end “, other than a facility that is a State home with respect to which the Secretary makes per diem payments for nursing home care pursuant to section 641(a) of this title”.
 
-1990—Subsec. (f). Pub. L. 101–508 added subsec. (f).
+<b>1990</b>—Subsec. (f). Pub. L. 101–508 added subsec. (f).
 
-1989—Subsec. (a)(1). Pub. L. 101–237, §111(a), substituted “$90” for “$60” in subpars. (A) and (B), substituted “third” for “second” in subpar. (A), and struck out “hospital or” before “nursing home care” wherever appearing in subpars. (B) and (D).
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–237, §111(a), substituted “$90” for “$60” in subpars. (A) and (B), substituted “third” for “second” in subpar. (A), and struck out “hospital or” before “nursing home care” wherever appearing in subpars. (B) and (D).
 
-1986—Subsec. (e). Pub. L. 99–576 substituted “the veteran's” for “his” before “admission”.
+<b>1986</b>—Subsec. (e). Pub. L. 99–576 substituted “the veteran's” for “his” before “admission”.
 
-1984—Subsec. (b)(1). Pub. L. 98–543 designated first and second sentences as subpars. (A) and (B), respectively, and in subpar. (A), as so designated, substituted “or” for the comma after “treatment”, struck out “by reason of mental illness” after “as being incompetent”, inserted “(excluding the value of the veteran's home unless there is no reasonable likelihood that the veteran will again reside in such home),” after “the veteran's estate”, and added subpar. (C).
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–543 designated first and second sentences as subpars. (A) and (B), respectively, and in subpar. (A), as so designated, substituted “or” for the comma after “treatment”, struck out “by reason of mental illness” after “as being incompetent”, inserted “(excluding the value of the veteran's home unless there is no reasonable likelihood that the veteran will again reside in such home),” after “the veteran's estate”, and added subpar. (C).
 
-1983—Subsec. (a)(2). Pub. L. 98–160, §703(4)(A), (B), substituted “spouse” for “wife”, and “the veteran” for “him”.
+<b>1983</b>—Subsec. (a)(2). Pub. L. 98–160, §703(4)(A), (B), substituted “spouse” for “wife”, and “the veteran” for “him”.
 
 Subsec. (b)(1). Pub. L. 98–160, §703(4)(A), (C), substituted “spouse” for “wife” and “the veteran's” for “his”.
 
@@ -126,17 +134,17 @@ Subsec. (c). Pub. L. 98–160, §703(4)(A), substituted “spouse” for “wife
 
 Subsec. (d). Pub. L. 98–160, §703(4)(D), substituted “the veteran” for “he”.
 
-1981—Subsec. (a)(1)(B). Pub. L. 97–66, §602(1), substituted “Except as provided in subparagraph (D) of this paragraph, where” for “Where”.
+<b>1981</b>—Subsec. (a)(1)(B). Pub. L. 97–66, §602(1), substituted “Except as provided in subparagraph (D) of this paragraph, where” for “Where”.
 
 Subsec. (a)(1)(D). Pub. L. 97–66, §602(2), added subpar. (D).
 
-1980—Subsec. (a)(1)(C). Pub. L. 96–385 substituted “in connection with which pension was reduced pursuant to subparagraph (A) or (B) of this paragraph” for “of not less than two full calendar months”.
+<b>1980</b>—Subsec. (a)(1)(C). Pub. L. 96–385 substituted “in connection with which pension was reduced pursuant to subparagraph (A) or (B) of this paragraph” for “of not less than two full calendar months”.
 
-1978—Subsec. (a)(1). Pub. L. 95–588 revised and restructured par. (1) and, as so restructured, raised the maximum pension to be paid to a veteran being furnished institutional care who has neither wife nor child from $50 per month to $60 per month.
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–588 revised and restructured par. (1) and, as so restructured, raised the maximum pension to be paid to a veteran being furnished institutional care who has neither wife nor child from $50 per month to $60 per month.
 
-1973—Subsec. (a)(1). Pub. L. 93–177 substituted “$50” for “$30”.
+<b>1973</b>—Subsec. (a)(1). Pub. L. 93–177 substituted “$50” for “$30”.
 
-1972—Subsec. (a). Pub. L. 92–328, §104(a), (b), redesignated subsec. (d) as (a). Former subsec. (a), which related to payment of compensation or retirement pay to veterans being furnished hospital treatment, institutional or domiciliary care by the Veterans’ Administration, was struck out.
+<b>1972</b>—Subsec. (a). Pub. L. 92–328, §104(a), (b), redesignated subsec. (d) as (a). Former subsec. (a), which related to payment of compensation or retirement pay to veterans being furnished hospital treatment, institutional or domiciliary care by the Veterans’ Administration, was struck out.
 
 Subsec. (b)(1). Pub. L. 92–328, §104(c), redesignated par. (2) as (1) and inserted provisions relating to the rating by the Veterans’ Administration of a veteran as incompetent by reason of mental illness and provisions relating to the payment of a lump sum to the veteran until after the expiration of six months following the finding of competency of the veteran. Former par. (1), which related to the payment of compensation or retirement pay pursuant to the provisions of subsec. (a) of this section to veterans rated by the Veterans’ Administration as incompetent, was struck out.
 
@@ -150,15 +158,15 @@ Subsec. (d). Pub. L. 92–328, §104(b), (f), redesignated subsec. (e) as (d) an
 
 Subsecs. (e), (f). Pub. L. 92–328, §104(f), (g), redesignated subsecs. (e) and (f) as (d) and (e), respectively.
 
-1969—Subsec. (d)(2). Pub. L. 91–24 substituted “the amount payable to the veteran while being furnished such care which would be payable to him if pension were payable under section 521(c) of this title” for “$30 per month which would be payable to the veteran while being furnished such care if pension were payable to him under section 521(c) of this title”.
+<b>1969</b>—Subsec. (d)(2). Pub. L. 91–24 substituted “the amount payable to the veteran while being furnished such care which would be payable to him if pension were payable under section 521(c) of this title” for “$30 per month which would be payable to the veteran while being furnished such care if pension were payable to him under section 521(c) of this title”.
 
-1966—Subsec. (a)(1). Pub. L. 89–362, §1, limited the application of the rule requiring immediate reduction of withheld benefits following discharge against medical advice or as a result of disciplinary action to situations where the readmission occurs within 6 months following prior termination of the hospitalization or institutional care.
+<b>1966</b>—Subsec. (a)(1). Pub. L. 89–362, §1, limited the application of the rule requiring immediate reduction of withheld benefits following discharge against medical advice or as a result of disciplinary action to situations where the readmission occurs within 6 months following prior termination of the hospitalization or institutional care.
 
 Subsec. (f). Pub. L. 89–362, §2, limited the application of the rule requiring discontinuance of aid and attendance allowance upon readmission following departure from a hospital against medical advice to situations where the readmission occurs within 6 months following prior termination of the hospitalization.
 
-1964—Subsec. (f). Pub. L. 88–450 directed that any discontinuance required by administrative regulation, during hospitalization of a veteran by the Veterans’ Administration, of increased pension based on need of regular aid and attendance as described in subsection (<i>l</i>) or (m) of section 314 of this title, shall not be effective earlier than the first day of the second calendar month which begins after the date of the veteran's admission for hospitalization, and authorized discontinuance of the increased pension or additional compensation of a veteran upon readmission if he left a hospital against medical advice.
+<b>1964</b>—Subsec. (f). Pub. L. 88–450 directed that any discontinuance required by administrative regulation, during hospitalization of a veteran by the Veterans’ Administration, of increased pension based on need of regular aid and attendance as described in subsection (<i>l</i>) or (m) of section 314 of this title, shall not be effective earlier than the first day of the second calendar month which begins after the date of the veteran's admission for hospitalization, and authorized discontinuance of the increased pension or additional compensation of a veteran upon readmission if he left a hospital against medical advice.
 
-1962—Subsec. (a)(2)(A). Pub. L. 87–544 removed brothers, sisters, and nondependent parents from the permitted class of beneficiaries.
+<b>1962</b>—Subsec. (a)(2)(A). Pub. L. 87–544 removed brothers, sisters, and nondependent parents from the permitted class of beneficiaries.
 
 Subsec. (d)(1). Pub. L. 87–556, §1(1), limited par. (1) to veterans having neither wife nor child.
 
@@ -166,7 +174,7 @@ Subsec. (d)(2). Pub. L. 87–556, §1(2), substituted provisions making par. (1)
 
 Subsec. (f). Pub. L. 87–645 added subsec. (f).
 
-1959—Subsec. (a)(1). Pub. L. 86–211, §6(1), struck out references to pensions.
+<b>1959</b>—Subsec. (a)(1). Pub. L. 86–211, §6(1), struck out references to pensions.
 
 Subsec. (a)(2)(B). Pub. L. 86–146, §1(b), inserted “under the last two sentences of section 3202(d) of this title or” before “under this paragraph” in two places.
 
@@ -175,6 +183,10 @@ Subsec. (b). Pub. L. 86–146, §2, inserted “to the veteran” and “and in 
 Subsec. (b)(1). Pub. L. 86–211, §6(1), struck out reference to pension of a veteran.
 
 Subsecs. (d), (e). Pub. L. 86–211, §6(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 601(b)(2) of Pub. L. 111–275 effective Oct. 1, 2011, see section 601(c) of Pub. L. 111–275, set out as a note under section 1114 of this title.
 
 #### Effective Date of 1998 Amendment
 

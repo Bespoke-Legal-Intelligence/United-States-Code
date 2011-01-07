@@ -120,13 +120,13 @@ Amount of Stipend.—The amount of a stipend under an agreement under subsection
 
 #### Amendments
 
-2009—Subsec. (e)(2)(A). Pub. L. 111–84 made technical amendment to directory language of Pub. L. 110–417, §616(c). See 2008 Amendment note below.
+<b>2009</b>—Subsec. (e)(2)(A). Pub. L. 111–84 made technical amendment to directory language of Pub. L. 110–417, §616(c). See 2008 Amendment note below.
 
-2008—Subsec. (e)(2)(A). Pub. L. 110–417, §616(c), as amended by Pub. L. 111–84, substituted “monthly stipend in an amount not to exceed the stipend rate in effect under section 2121(d) of this title” for “stipend of $100 per month”.
+<b>2008</b>—Subsec. (e)(2)(A). Pub. L. 110–417, §616(c), as amended by Pub. L. 111–84, substituted “monthly stipend in an amount not to exceed the stipend rate in effect under section 2121(d) of this title” for “stipend of $100 per month”.
 
-2006—Subsec. (d)(1)(B)(ii). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsec. (d)(1)(B)(ii). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-2001—Subsec. (a). Pub. L. 107–107, §539(a), struck out “specialties critically needed in wartime” after “qualified in health professions” and substituted “training that leads to a degree in medicine or dentistry or training in a health professions specialty that is critically needed in wartime” for “training in such specialties” and “health care education and training” for “training in certain health care specialties”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §539(a), struck out “specialties critically needed in wartime” after “qualified in health professions” and substituted “training that leads to a degree in medicine or dentistry or training in a health professions specialty that is critically needed in wartime” for “training in such specialties” and “health care education and training” for “training in certain health care specialties”.
 
 Subsec. (b). Pub. L. 107–107, §539(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
@@ -146,7 +146,7 @@ Subsec. (d)(2)(D). Pub. L. 107–107, §539(d), substituted “one year in the R
 
 Subsecs. (e), (f). Pub. L. 107–107, §539(b)(1), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 
-1996—Subsec. (b). Pub. L. 104–106, §736(1), inserted “and Dentists” in heading.
+<b>1996</b>—Subsec. (b). Pub. L. 104–106, §736(1), inserted “and Dentists” in heading.
 
 Subsec. (b)(1)(A). Pub. L. 104–106, §736(2), inserted “or dental school” after “medical school”.
 
@@ -156,7 +156,7 @@ Subsec. (b)(1)(C). Pub. L. 104–106, §736(4), substituted “physicians or den
 
 Subsec. (b)(2)(B). Pub. L. 104–106, §736(3), inserted “or dental officer” after “medical officer”.
 
-1994—Pub. L. 103–337, §1663(c)(2), renumbered section 2128 of this title as this section.
+<b>1994</b>—Pub. L. 103–337, §1663(c)(2), renumbered section 2128 of this title as this section.
 
 Subsecs. (a), (b)(1), (c)(1), (d)(1). Pub. L. 103–337, §1663(c)(5), substituted “chapter” for “subchapter”.
 

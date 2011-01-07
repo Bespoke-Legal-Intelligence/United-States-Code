@@ -12,7 +12,7 @@ For purposes of this part:
 
 &emsp;&emsp;&emsp;(i) children and youths who are sharing the housing of other persons due to loss of housing, economic hardship, or a similar reason; are living in motels, hotels, trailer parks, or camping grounds due to the lack of alternative adequate accommodations; are living in emergency or transitional shelters; are abandoned in hospitals; or are awaiting foster care placement;
 
-&emsp;&emsp;&emsp;(ii) children and youths who have a primary nighttime residence that is a public or private place not designed for or ordinarily used as a regular sleeping accommodation for human beings (within the meaning of section 11302(a)(2)(C) of this title);
+&emsp;&emsp;&emsp;(ii) children and youths who have a primary nighttime residence that is a public or private place not designed for or ordinarily used as a regular sleeping accommodation for human beings (within the meaning of section 11302(a)(2)(C) <sup>1</sup> of this title);
 
 &emsp;&emsp;&emsp;(iii) children and youths who are living in cars, parks, public spaces, abandoned buildings, substandard housing, bus or train stations, or similar settings; and
 
@@ -28,11 +28,17 @@ For purposes of this part:
 
 (Pub. L. 100–77, title VII, §725, as added Pub. L. 107–110, title X, §1032, Jan. 8, 2002, 115 Stat. 2005.)
 
+#### References in Text
+
+Section 11302 of this title, referred to in par. (2)(B)(ii), was amended by Pub. L. 111–22, div. B, §1003(a)(2), May 20, 2009, 123 Stat. 1664, and, as so amended, section 11302(a)(2) of this title no longer contains a subpar. (C).
+
 #### Prior Provisions
 
-A prior section 11434a, Pub. L. 100–77, title VII, §725, as added Pub. L. 103–382, title III, §323, Oct. 20, 1994, 108Stat. 3965, defined terms, prior to the general amendment of this part by Pub. L. 107–110.
+A prior section 11434a, Pub. L. 100–77, title VII, §725, as added Pub. L. 103–382, title III, §323, Oct. 20, 1994, 108 Stat. 3965, defined terms, prior to the general amendment of this part by Pub. L. 107–110.
 
 Another prior section 11434a, Pub. L. 100–77, title VII, §725, as added Pub. L. 101–645, title VI, §613(2), Nov. 29, 1990, 104 Stat. 4743, related to reports by Comptroller General, prior to the general amendment of this part by Pub. L. 103–382.
 
 A prior section 725 of Pub. L. 100–77 was renumbered section 726 and was classified to section 11435 of this title, prior to the general amendment of this part by Pub. L. 103–382.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

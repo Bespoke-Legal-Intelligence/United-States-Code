@@ -6,5 +6,5 @@ All cash balances in the United States Government Life Insurance Fund and the Na
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 786 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 786 of this title as this section.
 

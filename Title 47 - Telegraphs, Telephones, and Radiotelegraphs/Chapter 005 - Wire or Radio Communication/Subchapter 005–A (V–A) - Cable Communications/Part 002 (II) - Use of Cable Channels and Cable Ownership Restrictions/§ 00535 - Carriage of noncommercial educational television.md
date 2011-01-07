@@ -38,7 +38,7 @@ In addition to the carriage requirements set forth in section 534 of this title,
 
 #### (c) Continued carriage of existing stations
 
-Notwithstanding any other provision of this section, all cable operators shall continue toprovide carriage to all qualified local noncommercial educational television stations whose signals were carried on their systems as of March 29, 1990. The requirements of this subsection may be waived with respect to a particular cable operator and a particular such station, upon the written consent of the cable operator and the station.
+Notwithstanding any other provision of this section, all cable operators shall continue to provide carriage to all qualified local noncommercial educational television stations whose signals were carried on their systems as of March 29, 1990. The requirements of this subsection may be waived with respect to a particular cable operator and a particular such station, upon the written consent of the cable operator and the station.
 
 #### (d) Placement of additional signals
 
@@ -86,7 +86,7 @@ Signals carried in fulfillment of the carriage obligations of a cable operator u
 
 #### (2) Distant signal exception
 
-&emsp;Notwithstanding the provisions of this section, a cable operator shall not be required to add the signal of a qualified local noncommercial educational television station not alreadycarried under the provision of subsection (c) of this section, where such signal would be considered a distant signal for copyright purposes unless such station indemnifies the cable operator for any increased copyright costs resulting from carriage of such signal.
+&emsp;Notwithstanding the provisions of this section, a cable operator shall not be required to add the signal of a qualified local noncommercial educational television station not already carried under the provision of subsection (c) of this section, where such signal would be considered a distant signal for copyright purposes unless such station indemnifies the cable operator for any increased copyright costs resulting from carriage of such signal.
 
 #### (j) Remedies
 

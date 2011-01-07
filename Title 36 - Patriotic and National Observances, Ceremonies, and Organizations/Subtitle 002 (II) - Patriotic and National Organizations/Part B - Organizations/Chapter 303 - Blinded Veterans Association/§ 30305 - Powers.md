@@ -32,7 +32,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-30305D36:854.DAug. 27, 1958, Pub. L. 85–769, §§4, 16, 72 Stat. 924, 927.
+30305
+
+36:854.
+
+Aug. 27, 1958, Pub. L. 85–769, §§4, 16, 72 Stat. 924, 927.
 
 &nbsp;
 

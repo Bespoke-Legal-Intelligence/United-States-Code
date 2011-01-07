@@ -90,7 +90,7 @@ For those units of the National Park System for which the review required by par
 
 #### (9) Joint development authority
 
-The Secretary may use authorities granted by statute in combination with one another in thefurtherance of providing where necessary and justified affordable field employee housing.
+The Secretary may use authorities granted by statute in combination with one another in the furtherance of providing where necessary and justified affordable field employee housing.
 
 #### (10) Contracts for the management of field employee quarters
 
@@ -192,7 +192,7 @@ This section, referred to in pars. (1), (6), (13), and (17)(A), (C), means secti
 
 #### Amendments
 
-2000—Par. (6). Pub. L. 106–176, §120(a)(1)(A), substituted “this section” for “this Act” before period at end.
+<b>2000</b>—Par. (6). Pub. L. 106–176, §120(a)(1)(A), substituted “this section” for “this Act” before period at end.
 
 Par. (7)(B). Pub. L. 106–176, §120(a)(1)(B), substituted “Competitive leasing” for “Comptetitive leasing” in subpar. heading.
 

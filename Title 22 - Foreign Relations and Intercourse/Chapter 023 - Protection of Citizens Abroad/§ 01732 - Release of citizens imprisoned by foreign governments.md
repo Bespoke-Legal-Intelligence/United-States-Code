@@ -12,7 +12,7 @@ Section was formerly classified to section 903b of Title 8, Aliens and Nationali
 
 #### Amendments
 
-1989—Pub. L. 101–222 inserted “and not otherwise prohibited by law” after “acts of war”.
+<b>1989</b>—Pub. L. 101–222 inserted “and not otherwise prohibited by law” after “acts of war”.
 
 #### Release of American Hostages in Iran
 

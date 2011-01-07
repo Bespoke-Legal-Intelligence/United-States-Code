@@ -12,5 +12,5 @@ The Department may use amounts awarded under the Clean Coal Power Initiative to 
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–168 substituted “Clean Coal Power Initiative” for “clean coal power initiative under part A of subchapter IV”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–168 substituted “Clean Coal Power Initiative” for “clean coal power initiative under part A of subchapter IV”.
 

@@ -22,7 +22,7 @@ Employment Investigation Requirement.—(1)(A) The Under Secretary of Transporta
 
 Background checks of current employees.—
 
-&emsp;(i) A new background check (including a criminal history record check and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security shall be required for any individual who is employed in a position described in subparagraphs (A) and (B) on the date of enactment of the Aviation and Transportation Security Act.
+&emsp;(i) A new background check (including a criminal history record check and a review ofavailable law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security shall be required for any individual who is employed in a position described in subparagraphs (A) and (B) on the date of enactment of the Aviation and Transportation Security Act.
 
 &emsp;(ii) The Under Secretary may provide by order (without regard to the provisions of chapter 5 of title 5, United States Code) for a phased-in implementation of the requirements of this subparagraph.
 
@@ -188,7 +188,7 @@ The date of enactment of the Aviation and Transportation Security Act, referred 
 
 #### Amendments
 
-2001—Subsec. (a)(1)(A). Pub. L. 107–71, §138(a)(1), inserted “and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security,” after “record check” in introductory provisions.
+<b>2001</b>—Subsec. (a)(1)(A). Pub. L. 107–71, §138(a)(1), inserted “and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security,” after “record check” in introductory provisions.
 
 Pub. L. 107–71, §111(b)(1), inserted “as a security screener under section 44935(e) or a position” after “a position” in introductory provisions.
 
@@ -242,7 +242,7 @@ Subsec. (d). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” fo
 
 Subsecs. (f) to (h). Pub. L. 107–71, §§138(b)(1), 140(a)(1), amended section identically, redesignating subsecs. (f) to (h) as (h) to (j), respectively, of section 44703 of this title.
 
-2000—Subsec. (a)(1)(A). Pub. L. 106–528, §2(c)(1), in introductory provisions, struck out “, as the Administrator decides is necessary to ensure air transportation security,” after “shall be conducted”.
+<b>2000</b>—Subsec. (a)(1)(A). Pub. L. 106–528, §2(c)(1), in introductory provisions, struck out “, as the Administrator decides is necessary to ensure air transportation security,” after “shall be conducted”.
 
 Subsec. (a)(1)(C)(v). Pub. L. 106–181, §508(a), added cl. (v).
 
@@ -270,7 +270,7 @@ Subsec. (f)(14)(B). Pub. L. 106–181, §508(b)(5), inserted “or from a foreig
 
 Subsec. (f)(15). Pub. L. 106–181, §508(b)(6), added par. (15).
 
-1997—Subsec. (f)(1). Pub. L. 105–142, §1(1), substituted “Subject to paragraph (14), before allowing an individual to begin service” for “Before hiring an individual” in introductory provisions.
+<b>1997</b>—Subsec. (f)(1). Pub. L. 105–142, §1(1), substituted “Subject to paragraph (14), before allowing an individual to begin service” for “Before hiring an individual” in introductory provisions.
 
 Subsec. (f)(1)(B). Pub. L. 105–142, §1(2), inserted “as a pilot of a civil or public aircraft” before “at any time” in introductory provisions.
 
@@ -284,7 +284,7 @@ Subsec. (f)(10). Pub. L. 105–142, §1(5), inserted “who is or has been” be
 
 Subsec. (f)(14). Pub. L. 105–142, §1(6), added par. (14).
 
-1996—Subsec. (a)(1). Pub. L. 104–264, §304(a), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) of par. (1) as cls. (i) and (ii) of subpar. (A), respectively, and added subpars. (B) to (D).
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–264, §304(a), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) of par. (1) as cls. (i) and (ii) of subpar. (A), respectively, and added subpars. (B) to (D).
 
 Subsec. (a)(3). Pub. L. 104–264, §306, added par. (3).
 

@@ -42,7 +42,7 @@ An individual may not receive, through national service educational awards and s
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), an individual eligible to receive a national service educational award or a silver scholar educational award under this section may not use such award after the end of the 7-year period beginning on the date the individual completes the term of service in an approved national service position or an approved silver scholar position, as applicable, that is the basis of the award. Subject to paragraph (2), an individual eligible to receive a summer of service educational award under this section may not use such award after the end of the 10-year period beginning on the date the individual completes the term of service in an approved summer of service position that is the basis of the award.
+&emsp;Subject to paragraph (2), an individual eligible to receive a national service educational award or a silver scholar educational award under this section may not use such award after the end of the 7-year period beginning on the date the individual completes the term ofservice in an approved national service position or an approved silver scholar position, as applicable, that is the basis of the award. Subject to paragraph (2), an individual eligible to receive a summer of service educational award under this section may not use such award after the end of the 10-year period beginning on the date the individual completes the term of service in an approved summer of service position that is the basis of the award.
 
 #### (2) Exception
 
@@ -105,7 +105,7 @@ A prior section 146 of Pub. L. 101–610 was classified to section 12576 of this
 
 #### Amendments
 
-2009—Pub. L. 111–13, §1402(1), substituted section catchline for former section catchline.
+<b>2009</b>—Pub. L. 111–13, §1402(1), substituted section catchline for former section catchline.
 
 Subsec. (a). Pub. L. 111–13, §1402(2)(A), inserted “, summer of service educational award, or silver scholar educational award” after “national service educational award” and substituted “if the organization responsible for the individual's supervision in a national service program certifies that the individual” for “if the individual” in introductory provisions.
 
@@ -141,7 +141,7 @@ Subsec. (d)(3). Pub. L. 111–13, §1402(5)(C), added par. (3).
 
 Subsec. (e)(1). Pub. L. 111–13, §1402(6), inserted “or under section 12563(c)(8) of this title” after “qualifying under this section” and “, a summer of service educational award, or a silver scholar educational award” after “to receive a national service educational award”.
 
-1994—Subsec. (a)(3). Pub. L. 103–304 struck out second par. (3) which read as follows: “has received a high school diploma, or the equivalent of such diploma, at the time the individual uses the national service educational award, unless this requirement has been waived based on an individual education assessment conducted by the program; and”.
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–304 struck out second par. (3) which read as follows: “has received a high school diploma, or the equivalent of such diploma, at the time the individual uses the national service educational award, unless this requirement has been waived based on an individual education assessment conducted by the program; and”.
 
 #### Effective Date of 2009 Amendment
 

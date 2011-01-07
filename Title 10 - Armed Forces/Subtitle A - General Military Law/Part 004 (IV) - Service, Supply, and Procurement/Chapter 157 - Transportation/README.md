@@ -23,8 +23,8 @@
 | [2645\.](%C2%A7%2002645%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20vessel%20war%20risk%20insurance.md) | Indemnification of Department of Transportation for losses covered by vessel war risk insurance. |
 | [2646\.](%C2%A7%2002646%20-%20Travel%20services%20procurement%20for%20official%20and%20unofficial%20travel%20under%20one%20contract.md) | Travel services: procurement for official and unofficial travel under one contract. |
 | [2647\.](%C2%A7%2002647%20-%20Next-of-kin%20of%20persons%20unaccounted%20for%20from%20conflicts%20after%20World%20War%20II%20transportation%20to%20annual%20meetings.md) | Next-of-kin of persons unaccounted for from conflicts after World War II: transportation to annual meetings. |
-| [2648\.](%C2%A7%2002648%20-%20Persons%20and%20supplies%20sea%20transportation.md) | Persons and supplies: sea transportation. |
-| [2649\.](%C2%A7%2002649%20-%20Civilian%20passengers%20and%20commercial%20cargoes%20transportation%20on%20Department%20of%20Defense%20vessels.md) | Civilian passengers and commercial cargoes: transportation on Department of Defense vessels. |
+| [2648\.](%C2%A7%2002648%20-%20Persons%20and%20supplies%20sea%2C%20land%2C%20and%20air%20transportation.md) | Persons and supplies: sea, land, and air transportation. |
+| [2649\.](%C2%A7%2002649%20-%20Civilian%20passengers%20and%20commercial%20cargoes%20transportation%20on%20Department%20of%20Defense%20vessels%2C%20vehicles%2C%20and%20aircraft.md) | Civilian passengers and commercial cargoes: transportation on Department of Defense vessels, vehicles, and aircraft. |
 | [2650\.](%C2%A7%2002650%20-%20Civilian%20personnel%20in%20Alaska.md) | Civilian personnel in Alaska. |
 | [2651\.](%C2%A7%2002651%20-%20Passengers%20and%20merchandise%20to%20Guam%20sea%20transport.md) | Passengers and merchandise to Guam: sea transport. |
 
@@ -32,49 +32,51 @@
 
 #### Amendments
 
-2008—Pub. L. 110–181, div. A, title III, §374(b), Jan. 28, 2008, 122 Stat. 83, added item 2641b.
+<b>2011</b>—Pub. L. 111–383, div. A, title III, §352(f), Jan. 7, 2011, 124 Stat. 4194, added items 2648 and 2649 and struck out former items 2648 “Persons and supplies: sea transportation” and 2649 “Civilian passengers and commercial cargoes: transportation on Department of Defense vessels”.
 
-2004—Pub. L. 108–375, div. A, title X, §1072(d)(1), Oct. 28, 2004, 118 Stat. 2058, added items 2648 to 2651.
+<b>2008</b>—Pub. L. 110–181, div. A, title III, §374(b), Jan. 28, 2008, 122 Stat. 83, added item 2641b.
 
-2003—Pub. L. 108–136, div. A, title VI, §634(b), title X, §1006(b)(2), Nov. 24, 2003, 117 Stat. 1510, 1585, added item 2636a and amended item 2642 generally, substituting “Airlift services provided to certain other agencies: use of Department of Defense reimbursement rate” for “Reimbursement rate for airlift services provided to Central Intelligence Agency”.
+<b>2004</b>—Pub. L. 108–375, div. A, title X, §1072(d)(1), Oct. 28, 2004, 118 Stat. 2058, added items 2648 to 2651.
 
-2001—Pub. L. 107–107, div. A, title V, §574(b), Dec. 28, 2001, 115 Stat. 1122, added item 2647.
+<b>2003</b>—Pub. L. 108–136, div. A, title VI, §634(b), title X, §1006(b)(2), Nov. 24, 2003, 117 Stat. 1510, 1585, added item 2636a and amended item 2642 generally, substituting “Airlift services provided to certain other agencies: use of Department of Defense reimbursement rate” for “Reimbursement rate for airlift services provided to Central Intelligence Agency”.
 
-2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1009(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–251, substituted “Deductions from amounts due carriers” for “Deductions from carriers because of loss or damage to material in transit” in item 2636.
+<b>2001</b>—Pub. L. 107–107, div. A, title V, §574(b), Dec. 28, 2001, 115 Stat. 1122, added item 2647.
 
-1998—Pub. L. 105–262, title VIII, §8121(b), Oct. 17, 1998, 112 Stat. 2332, added item 2641a.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1009(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–251, substituted “Deductions from amounts due carriers” for “Deductions from carriers because of loss or damage to material in transit” in item 2636.
+
+<b>1998</b>—Pub. L. 105–262, title VIII, §8121(b), Oct. 17, 1998, 112 Stat. 2332, added item 2641a.
 
 Pub. L. 105–261, div. A, title VIII, §813(b), Oct. 17, 1998, 112 Stat. 2087, added item 2646.
 
-1996—Pub. L. 104–201, div. A, title III, §368(a)(2)(B), title IX, §906(d)(1), title X, §1079(b)(2), Sept. 23, 1996, 110 Stat. 2498, 2620, 2670, substituted “Motor vehicles: transportation or storage for members on change of permanent station or extended deployment” for “Motor vehicles: for members on change of permanent station” in item 2634 and added items 2644 and 2645.
+<b>1996</b>—Pub. L. 104–201, div. A, title III, §368(a)(2)(B), title IX, §906(d)(1), title X, §1079(b)(2), Sept. 23, 1996, 110 Stat. 2498, 2620, 2670, substituted “Motor vehicles: transportation or storage for members on change of permanent station or extended deployment” for “Motor vehicles: for members on change of permanent station” in item 2634 and added items 2644 and 2645.
 
 Pub. L. 104–106, div. A, title III, §334(b), Feb. 10, 1996, 110 Stat. 262, added item 2643.
 
-1993—Pub. L. 103–160, div. A, title XI, §1173(b), Nov. 30, 1993, 107 Stat. 1767, added item 2631a.
+<b>1993</b>—Pub. L. 103–160, div. A, title XI, §1173(b), Nov. 30, 1993, 107 Stat. 1767, added item 2631a.
 
-1991—Pub. L. 102–88, title V, §501(b), Aug. 14, 1991, 105 Stat. 435, added item 2642.
+<b>1991</b>—Pub. L. 102–88, title V, §501(b), Aug. 14, 1991, 105 Stat. 435, added item 2642.
 
-1990—Pub. L. 101–510, div. A, title III, §326(a)(2), Nov. 5, 1990, 104 Stat. 1531, added item 2637.
+<b>1990</b>—Pub. L. 101–510, div. A, title III, §326(a)(2), Nov. 5, 1990, 104 Stat. 1531, added item 2637.
 
-1987—Pub. L. 100–180, div. A, title XII, §1250(a)(2), Dec. 4, 1987, 101 Stat. 1168, added item 2641.
+<b>1987</b>—Pub. L. 100–180, div. A, title XII, §1250(a)(2), Dec. 4, 1987, 101 Stat. 1168, added item 2641.
 
-1986—Pub. L. 99–661, div. A, title XII, §1204(a)(2), Nov. 14, 1986, 100 Stat. 3971, added item 2640.
+<b>1986</b>—Pub. L. 99–661, div. A, title XII, §1204(a)(2), Nov. 14, 1986, 100 Stat. 3971, added item 2640.
 
 Pub. L. 99–550, §2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637 “Transportation between residence and place of work for senior defense officials”.
 
-1984—Pub. L. 98–525, title VI, §614(b), title XIV, §1401(j)(2), Oct. 19, 1984, 98 Stat. 2540, 2620, added items 2637 to 2639.
+<b>1984</b>—Pub. L. 98–525, title VI, §614(b), title XIV, §1401(j)(2), Oct. 19, 1984, 98 Stat. 2540, 2620, added items 2637 to 2639.
 
-1982—Pub. L. 97–258, §2(b)(5)(A), Sept. 13, 1982, 96 Stat. 1053, added item 2636.
+<b>1982</b>—Pub. L. 97–258, §2(b)(5)(A), Sept. 13, 1982, 96 Stat. 1053, added item 2636.
 
-1979—Pub. L. 96–125, title VIII, §807(c)(2), Nov. 26, 1979, 93 Stat. 950, inserted “and on military installations” after “places of employment” in item 2632.
+<b>1979</b>—Pub. L. 96–125, title VIII, §807(c)(2), Nov. 26, 1979, 93 Stat. 950, inserted “and on military installations” after “places of employment” in item 2632.
 
-1973—Pub. L. 93–155, title VIII, §814(b), Nov. 16, 1973, 87 Stat. 621, added item 2635.
+<b>1973</b>—Pub. L. 93–155, title VIII, §814(b), Nov. 16, 1973, 87 Stat. 621, added item 2635.
 
-1965—Pub. L. 89–101, §1(2), July 30, 1965, 79 Stat. 425, substituted “change of permanent station” for “permanent change of station” in item 2634.
+<b>1965</b>—Pub. L. 89–101, §1(2), July 30, 1965, 79 Stat. 425, substituted “change of permanent station” for “permanent change of station” in item 2634.
 
-1962—Pub. L. 87–651, title I, §111(c), Sept. 7, 1962, 76 Stat. 511, substituted “Stevedoring and terminal services: vessels carrying cargo or passengers sponsored by military department” for “Terminal Services, furnish to commercial steamship companies” in item 2633, and added item 2634.
+<b>1962</b>—Pub. L. 87–651, title I, §111(c), Sept. 7, 1962, 76 Stat. 511, substituted “Stevedoring and terminal services: vessels carrying cargo or passengers sponsored by military department” for “Terminal Services, furnish to commercial steamship companies” in item 2633, and added item 2634.
 
-1957—Pub. L. 85–44, §2, June 1, 1957, 71 Stat. 45, added item 2633.
+<b>1957</b>—Pub. L. 85–44, §2, June 1, 1957, 71 Stat. 45, added item 2633.
 
 
 ---
@@ -102,7 +104,7 @@ Pub. L. 99–550, §2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637
 - [&sect; 02645 - Indemnification of Department of Transportation for losses covered by vessel war risk insurance](%C2%A7%2002645%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20vessel%20war%20risk%20insurance.md)
 - [&sect; 02646 - Travel services procurement for official and unofficial travel under one contract](%C2%A7%2002646%20-%20Travel%20services%20procurement%20for%20official%20and%20unofficial%20travel%20under%20one%20contract.md)
 - [&sect; 02647 - Next-of-kin of persons unaccounted for from conflicts after World War II transportation to annual meetings](%C2%A7%2002647%20-%20Next-of-kin%20of%20persons%20unaccounted%20for%20from%20conflicts%20after%20World%20War%20II%20transportation%20to%20annual%20meetings.md)
-- [&sect; 02648 - Persons and supplies sea transportation](%C2%A7%2002648%20-%20Persons%20and%20supplies%20sea%20transportation.md)
-- [&sect; 02649 - Civilian passengers and commercial cargoes transportation on Department of Defense vessels](%C2%A7%2002649%20-%20Civilian%20passengers%20and%20commercial%20cargoes%20transportation%20on%20Department%20of%20Defense%20vessels.md)
+- [&sect; 02648 - Persons and supplies sea, land, and air transportation](%C2%A7%2002648%20-%20Persons%20and%20supplies%20sea%2C%20land%2C%20and%20air%20transportation.md)
+- [&sect; 02649 - Civilian passengers and commercial cargoes transportation on Department of Defense vessels, vehicles, and aircraft](%C2%A7%2002649%20-%20Civilian%20passengers%20and%20commercial%20cargoes%20transportation%20on%20Department%20of%20Defense%20vessels%2C%20vehicles%2C%20and%20aircraft.md)
 - [&sect; 02650 - Civilian personnel in Alaska](%C2%A7%2002650%20-%20Civilian%20personnel%20in%20Alaska.md)
 - [&sect; 02651 - Passengers and merchandise to Guam sea transport](%C2%A7%2002651%20-%20Passengers%20and%20merchandise%20to%20Guam%20sea%20transport.md)

@@ -6,11 +6,11 @@ Disbursements from the Fund shall be made by the Division of Disbursements, Trea
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 5223 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5223 of this title as this section.
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Department” for “Veterans’ Administration” wherever appearing.
 
-1986—Pub. L. 99–576 substituted “the decedent's” for “his” in two places.
+<b>1986</b>—Pub. L. 99–576 substituted “the decedent's” for “his” in two places.
 
 #### Transfer of Functions
 

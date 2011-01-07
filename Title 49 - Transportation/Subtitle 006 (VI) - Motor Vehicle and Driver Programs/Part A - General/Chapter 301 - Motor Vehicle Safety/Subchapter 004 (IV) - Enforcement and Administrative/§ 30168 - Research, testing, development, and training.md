@@ -22,7 +22,7 @@ Use of Public Agencies.—In carrying out this chapter, the Secretary shall use 
 
 (c)
 
-Facilities.—The Secretary may plan, design, and build a new facility or modify an existing facility to conduct research, development, and testing in traffic safety, highway safety, and motor vehicle safety. An expenditure of more than $100,000 for planning, design, or construction may be made only if the planning, design, or construction is approved by substantially similar resolutions by the Committees on Commerce and Transportation and Infrastructure of the House of Representatives and the Committees on Commerce, Science, and Transportation and Environment and Public Works of the Senate. To obtain that approval, the Secretary shall submit to Congress a prospectus on the proposed facility. The prospectus shall include—
+Facilities.—The Secretary may plan, design, and build a new facility or modify an existing facility to conduct research, development, and testing in traffic safety, highway safety, andmotor vehicle safety. An expenditure of more than $100,000 for planning, design, or construction may be made only if the planning, design, or construction is approved by substantially similar resolutions by the Committees on Commerce and Transportation and Infrastructure of the House of Representatives and the Committees on Commerce, Science, and Transportation and Environment and Public Works of the Senate. To obtain that approval, the Secretary shall submit to Congress a prospectus on the proposed facility. The prospectus shall include—
 
 &emsp;(1) a brief description of the facility being planned, designed, or built;
 
@@ -92,5 +92,5 @@ In subsection (e), the words “United States Government” are substituted for 
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–287 substituted “Committees on Commerce and Transportation and Infrastructure” for “Committees on Energy and Commerce and Public Works and Transportation”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–287 substituted “Committees on Commerce and Transportation and Infrastructure” for “Committees on Energy and Commerce and Public Works and Transportation”.
 

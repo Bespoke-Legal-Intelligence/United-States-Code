@@ -36,7 +36,7 @@ Section was formerly classified to section 2352 of Title 5 prior to the general 
 
 #### Amendments
 
-1966—Subsec. (a)(2). Pub. L. 89–391 substituted provisions for issuance of regulations to fix basic compensation for teachers and teaching positions at rates equal to the average of the range of rates of basic compensation for similar positions of a comparable level of duties and responsibilities in urban school jurisdictions in the United States of 100,000 or more population for former provisions fixing basic compensation for teaching positions in relation to rates of basic compensation for similar positions in the United States.
+<b>1966</b>—Subsec. (a)(2). Pub. L. 89–391 substituted provisions for issuance of regulations to fix basic compensation for teachers and teaching positions at rates equal to the average of the range of rates of basic compensation for similar positions of a comparable level of duties and responsibilities in urban school jurisdictions in the United States of 100,000 or more population for former provisions fixing basic compensation for teaching positions in relation to rates of basic compensation for similar positions in the United States.
 
 #### Effective Date of 1966 Amendment
 

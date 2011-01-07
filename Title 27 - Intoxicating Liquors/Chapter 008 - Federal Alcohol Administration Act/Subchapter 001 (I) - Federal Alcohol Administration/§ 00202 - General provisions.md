@@ -26,5 +26,5 @@ Subsections (a) to (d) provided for the creation of a Federal Alcohol Administra
 
 #### Amendments
 
-1946—Subsec. (i). Act Aug. 7, 1946, struck out subsec. (i) which related to reports to Congress by the Secretary of the Treasury with respect to the administration of the functions charged to the Secretary under this chapter.
+<b>1946</b>—Subsec. (i). Act Aug. 7, 1946, struck out subsec. (i) which related to reports to Congress by the Secretary of the Treasury with respect to the administration of the functions charged to the Secretary under this chapter.
 

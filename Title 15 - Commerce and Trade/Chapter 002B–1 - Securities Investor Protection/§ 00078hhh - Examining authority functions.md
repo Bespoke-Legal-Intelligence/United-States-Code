@@ -10,5 +10,5 @@ A prior section 12 of Pub. L. 91–598 was renumbered section 16 and is classifi
 
 #### Amendments
 
-1978—Pub. L. 95–283 inserted provisions relating to applicability to a collection agent.
+<b>1978</b>—Pub. L. 95–283 inserted provisions relating to applicability to a collection agent.
 

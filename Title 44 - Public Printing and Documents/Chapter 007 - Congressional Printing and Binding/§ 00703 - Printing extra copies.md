@@ -10,7 +10,7 @@ Based on 44 U.S. Code, 1964 ed., §133 (Jan. 12, 1895, ch. 23, §2, 28 Stat. 601
 
 #### Amendments
 
-1996—Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+<b>1996</b>—Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
 #### Change of Name
 

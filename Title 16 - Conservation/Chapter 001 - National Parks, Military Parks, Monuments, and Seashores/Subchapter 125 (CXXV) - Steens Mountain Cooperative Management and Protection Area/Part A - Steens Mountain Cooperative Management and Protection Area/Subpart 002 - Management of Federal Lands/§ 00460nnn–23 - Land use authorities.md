@@ -52,7 +52,7 @@ The Secretary shall emphasize the restoration of the historic fire regime in the
 
 #### (4) Fencing and water systems
 
-&emsp;The Secretary shall also construct fencing and develop water systems as necessary to allow reasonable and efficient livestock use of the forage resources referred to in paragraph (3).
+&emsp;The Secretary shall also construct fencing and develop water systems as necessary toallow reasonable and efficient livestock use of the forage resources referred to in paragraph (3).
 
 #### (f) Prohibition on construction of facilities
 
@@ -77,8 +77,4 @@ No new facilities may be constructed on Federal lands included in the Cooperativ
 Subject to valid existing rights, the Federal lands and interests in lands included in the Cooperative Management and Protection Areas are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws, except in the case of land exchanges if the Secretary determines that the exchange furthers the purpose and objectives specified in section 460nnn–12 of this title and so certifies to Congress.
 
 (Pub. L. 106–399, title I, §113, Oct. 30, 2000, 114 Stat. 1661.)
-
-#### References in Text
-
-The public land laws, referred to in subsec. (g), are classified generally to Title 43, Public Lands.
 

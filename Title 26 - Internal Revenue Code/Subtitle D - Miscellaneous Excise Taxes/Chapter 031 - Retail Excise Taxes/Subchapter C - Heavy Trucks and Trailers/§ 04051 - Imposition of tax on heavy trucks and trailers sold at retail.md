@@ -84,13 +84,13 @@ A prior section 4051, act Aug. 16, 1954, ch. 736, 68A Stat. 479, defined the pri
 
 #### Amendments
 
-2005—Subsec. (a)(4), (5). Pub. L. 109–59, §11112(a), added par. (4) and redesignated former par. (4) as (5).
+<b>2005</b>—Subsec. (a)(4), (5). Pub. L. 109–59, §11112(a), added par. (4) and redesignated former par. (4) as (5).
 
 Subsec. (c). Pub. L. 109–59, §11101(a)(1)(D), substituted “2011” for “2005”.
 
-1998—Subsec. (c). Pub. L. 105–178 substituted “2005” for “1999”.
+<b>1998</b>—Subsec. (c). Pub. L. 105–178 substituted “2005” for “1999”.
 
-1997—Subsec. (b)(2)(B). Pub. L. 105–34, §1401(a), substituted “$1,000” for “$200”.
+<b>1997</b>—Subsec. (b)(2)(B). Pub. L. 105–34, §1401(a), substituted “$1,000” for “$200”.
 
 Subsec. (d). Pub. L. 105–34, §1432(a), redesignated subsec. (e) as (d) and struck out former subsec. (d) which provided for a temporary reduction in tax on certain piggyback trailers.
 
@@ -98,17 +98,17 @@ Subsec. (e). Pub. L. 105–34, §1432(a), redesignated subsec. (e) as (d).
 
 Pub. L. 105–34, §1401(a), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “In the case of any article taxable under subsection (a) on which tax was imposed under section 4061(a), subsection (a) shall be applied by substituting ‘2 percent’ for ‘12 percent’.”
 
-1991—Subsec. (c). Pub. L. 102–240 substituted “1999” for “1995”.
+<b>1991</b>—Subsec. (c). Pub. L. 102–240 substituted “1999” for “1995”.
 
-1990—Subsec. (c). Pub. L. 101–508 substituted “1995” for “1993”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–508 substituted “1995” for “1993”.
 
-1987—Subsec. (c). Pub. L. 100–17 substituted “1993” for “1988”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–17 substituted “1993” for “1988”.
 
-1986—Subsec. (d)(1). Pub. L. 99–514, §1899A(47), substituted “July 18, 1984” for “the date of the enactment of the Tax Reform Act of 1984”.
+<b>1986</b>—Subsec. (d)(1). Pub. L. 99–514, §1899A(47), substituted “July 18, 1984” for “the date of the enactment of the Tax Reform Act of 1984”.
 
 Subsec. (d)(3). Pub. L. 99–514, §1877(c), inserted at end “No tax shall be imposed by reason of this paragraph on any use or resale which occurs more than 6 years after the date of the first retail sale.”
 
-1984—Subsec. (b)(3). Pub. L. 98–369, §734(g), substituted “The owners of the trade or business installing the parts or accessories shall be secondarily liable for the tax imposed by paragraph (1)” for “In addition to the owner, lessee, or operator of the vehicle, the owner of the trade or business installing the part or accessory shall be liable for the tax imposed by paragraph (1)”.
+<b>1984</b>—Subsec. (b)(3). Pub. L. 98–369, §734(g), substituted “The owners of the trade or business installing the parts or accessories shall be secondarily liable for the tax imposed by paragraph (1)” for “In addition to the owner, lessee, or operator of the vehicle, the owner of the trade or business installing the part or accessory shall be liable for the tax imposed by paragraph (1)”.
 
 Subsecs. (d), (e). Pub. L. 98–369, §921, added subsec. (d) and redesignated former subsec. (d) as (e).
 
@@ -132,7 +132,7 @@ Section 736 of subtitle C (§§731–736) of title VII of div. A of Pub. L. 98�
 
 #### Effective Date
 
-Section 512(b)(3) of Pub. L. 97–424 provided that: “The amendments made by this subsection \[enacting this subchapter and amending section 6416 of this title\] shall take effect on April 1, 1983.”
+Section 512(b)(3) of Pub. L. 97–424 provided that: “The amendments made by this subsection \[enacting thissubchapter and amending section 6416 of this title\] shall take effect on April 1, 1983.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

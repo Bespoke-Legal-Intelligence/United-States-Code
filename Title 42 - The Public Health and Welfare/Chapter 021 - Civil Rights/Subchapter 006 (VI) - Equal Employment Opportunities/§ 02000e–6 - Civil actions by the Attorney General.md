@@ -28,7 +28,7 @@ Subsequent to March 24, 1972, the Commission shall have authority to investigate
 
 #### Amendments
 
-1972—Subsecs. (c) to (e). Pub. L. 92–261 added subsecs. (c) to (e).
+<b>1972</b>—Subsecs. (c) to (e). Pub. L. 92–261 added subsecs. (c) to (e).
 
 #### Transfer of Functions
 

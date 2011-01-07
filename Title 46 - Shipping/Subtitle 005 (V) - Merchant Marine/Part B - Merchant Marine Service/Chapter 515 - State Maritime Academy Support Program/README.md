@@ -18,13 +18,7 @@
 
 #### Amendments
 
-2008—Pub. L. 110–181, div. C, title XXXV, §3523(a)(1), Jan. 28, 2008, 122 Stat. 598, substituted “Navy Reserve” for “Naval Reserve” in item 51511.
-
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. The period probably should be “; and”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “contracts”.</i>
+<b>2008</b>—Pub. L. 110–181, div. C, title XXXV, §3523(a)(1), Jan. 28, 2008, 122 Stat. 598, substituted “Navy Reserve” for “Naval Reserve” in item 51511.
 
 
 ---

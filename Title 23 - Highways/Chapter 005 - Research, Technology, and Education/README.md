@@ -29,9 +29,9 @@ A prior chapter 5, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 830, co
 
 #### Amendments
 
-2008—Pub. L. 110–244, title I, §111(b)(2)(B), June 6, 2008, 122 Stat. 1605, amended Pub. L. 109–59, §5210. See 2005 Amendment note below.
+<b>2008</b>—Pub. L. 110–244, title I, §111(b)(2)(B), June 6, 2008, 122 Stat. 1605, amended Pub. L. 109–59, §5210. See 2005 Amendment note below.
 
-2005—Pub. L. 109–59, title V, §5210(c), formerly §5210(d), Aug. 10, 2005, 119 Stat. 1804, as renumbered by Pub. L. 110–244, title I, §111(b)(2)(B), June 6, 2008, 122 Stat. 1605, added item 510.
+<b>2005</b>—Pub. L. 109–59, title V, §5210(c), formerly §5210(d), Aug. 10, 2005, 119 Stat. 1804, as renumbered by Pub. L. 110–244, title I, §111(b)(2)(B), June 6, 2008, 122 Stat. 1605, added item 510.
 
 Pub. L. 109–59, title V, §§5201(a)(2), 5207(c), 5208(b), 5209(c), 5211(c), 5301(b), 5302(b), Aug. 10, 2005, 119 Stat. 1781, 1798, 1799, 1801, 1804, 1805, substituted “RESEARCH, TECHNOLOGY, AND EDUCATION” for “RESEARCH AND TECHNOLOGY” in chapter heading, “Surface transportation environment and planning cooperative research program” for “Surface transportation-environment cooperative research program” in item 507, “Transportation research and development strategic planning” for “Surface transportation research strategic planning” in item 508, and added items 509 and 511 to 513.
 

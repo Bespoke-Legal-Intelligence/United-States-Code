@@ -30,13 +30,13 @@ A prior section 5684, act Aug. 16, 1954, ch. 736, 68A Stat. 699, consisted of pr
 
 #### Amendments
 
-1989—Subsec. (b). Pub. L. 101–239 substituted “6665” for “6662” in heading and “6665(a)” for “6662(a)” in text.
+<b>1989</b>—Subsec. (b). Pub. L. 101–239 substituted “6665” for “6662” in heading and “6665(a)” for “6662(a)” in text.
 
-1984—Subsec. (b). Pub. L. 98–369, §714(h)(1), substituted in heading “6662” for “6660” and in text “6662(a)” for “6660(a)”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369, §714(h)(1), substituted in heading “6662” for “6660” and in text “6662(a)” for “6660(a)”.
 
 Pub. L. 98–369, §722(a)(5), substituted “subsection (a)” for “subsections (a) and (b)”.
 
-1981—Subsec. (b). Pub. L. 97–34, §724(b)(4)(A), redesignated subsec. (c) as (b). Former subsec. (b), which related to penalties for failure to make deposit of taxes, was struck out.
+<b>1981</b>—Subsec. (b). Pub. L. 97–34, §724(b)(4)(A), redesignated subsec. (c) as (b). Former subsec. (b), which related to penalties for failure to make deposit of taxes, was struck out.
 
 Subsec. (c). Pub. L. 97–34, §724(b)(4), redesignated subsec. (d) as (c), added par. (4), and redesignated pars. (5) and (6) as (4) and (5), respectively. Former subsec. (c) redesignated (b).
 
@@ -44,7 +44,7 @@ Pub. L. 97–34, §722(a)(3), substituted “6660” for “6659” in heading a
 
 Subsec. (d). Pub. L. 97–34, §724(b)(4), redesignated subsec. (d) as (c).
 
-1969—Subsec. (d)(2). Pub. L. 91–172 inserted “or pay tax” after “tax return”.
+<b>1969</b>—Subsec. (d)(2). Pub. L. 91–172 inserted “or pay tax” after “tax return”.
 
 #### Effective Date of 1989 Amendment
 

@@ -26,5 +26,5 @@ The date of enactment of this subsection, referred to in subsec. (b), is the dat
 
 #### Amendments
 
-1993—Pub. L. 103–206 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1993</b>—Pub. L. 103–206 designated existing provisions as subsec. (a) and added subsec. (b).
 

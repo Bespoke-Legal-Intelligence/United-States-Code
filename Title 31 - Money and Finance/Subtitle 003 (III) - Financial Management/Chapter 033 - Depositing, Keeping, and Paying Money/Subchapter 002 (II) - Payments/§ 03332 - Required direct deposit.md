@@ -8,7 +8,7 @@
 
 (2) Federal wage, salary, or retirement payments shall be paid to any recipient granted a waiver under paragraph (1) of this subsection by any method determined appropriate by the Secretary of the Treasury.
 
-(c)(1) The Secretary of the Treasury may waive the requirements of subsection (a) of thissection for any group of recipients upon request by the head of an agency under standards prescribed by the Secretary of the Treasury.
+(c)(1) The Secretary of the Treasury may waive the requirements of subsection (a) of this section for any group of recipients upon request by the head of an agency under standards prescribed by the Secretary of the Treasury.
 
 (2) Federal wage, salary, or retirement payments shall be paid to any member of a group granted a waiver under paragraph (1) of this subsection by any method determined appropriate by the Secretary of the Treasury.
 
@@ -124,7 +124,7 @@ R.S. §3620(d); added Aug. 7, 1972, Pub. L. 92–366, 86 Stat. 506.
 
 31:492(note).
 
-In subsection (a), the definition of “agency” is omitted because of section 101 of the revised title. Thewords “and the municipal government of the District of Columbia” are omitted because of section 448 of the Act of December 24, 1973 (Pub. L. 93–198, 87 Stat. 801). The text of section 1(b)(1st sentence) and (c)(1st sentence) of the Act of July 19, 1975, is omitted as executed. In clause (2), the words “savings bank” are omitted as surplus.
+In subsection (a), the definition of “agency” is omitted because of section 101 of the revised title. The words “and the municipal government of the District of Columbia” are omitted because of section 448 of the Act of December 24, 1973 (Pub. L. 93–198, 87 Stat. 801). The text of section 1(b)(1st sentence) and (c)(1st sentence) of the Act of July 19, 1975, is omitted as executed. In clause (2), the words “savings bank” are omitted as surplus.
 
 In subsections (b)–(f), the words “officer or employee” are substituted for “employee” for consistency in the revised title and with other titles of the United States Code.
 
@@ -134,7 +134,7 @@ In subsection (b), before clause (1), the words “Notwithstanding subsection (a
 
 In subsection (c), the words “(except for a financial organization designated by an officer or employee of either House of Congress)” are substituted for section 1(b)(last sentence) and (c)(last sentence) of the Act of July 19, 1975 (Pub. L. 94–57, 89 Stat. 265), because of the restatement. The words “to which such check is sent” are omitted because of the restatement.
 
-In subsection (d), the words “to whom a payment is to be made” are omitted as surplus. The words “upon the written request of such employee” are omitted as unnecessary. The words “accompanied by a schedule” are added for clarity.
+In subsection (d), the words “to whom a payment is to be made” are omitted as surplus. The words “uponthe written request of such employee” are omitted as unnecessary. The words “accompanied by a schedule” are added for clarity.
 
 In subsection (e), the word “payment” is substituted for “acquittance” for clarity and consistency.
 
@@ -150,11 +150,11 @@ The Internal Revenue Code of 1986, referred to in subsec. (j)(3), is classified 
 
 #### Amendments
 
-1996—Subsecs. (e) to (j). Pub. L. 104–134 added subsecs. (e) to (g), redesignated former subsec. (e) as (h), and added subsecs. (i) and (j).
+<b>1996</b>—Subsecs. (e) to (j). Pub. L. 104–134 added subsecs. (e) to (g), redesignated former subsec. (e) as (h), and added subsecs. (i) and (j).
 
-1994—Pub. L. 103–356 substituted “Required direct deposit” for “Checks payable to financial organizations designated by Government officers and employees” as section catchline and amended text generally. Prior to amendment, section authorized agency officers and employees to designate not more than 3 financial organizations to which a payment of pay or other recurring payments was to be sent without charge and required the agency head to authorize issuance of checks payable to those financial organizations in the designated amounts.
+<b>1994</b>—Pub. L. 103–356 substituted “Required direct deposit” for “Checks payable to financial organizations designated by Government officers and employees” as section catchline and amended text generally. Prior to amendment, section authorized agency officers and employees to designate not more than 3 financial organizations to which a payment of pay or other recurring payments was to be sent without charge and required the agency head to authorize issuance of checks payable to those financial organizations in the designated amounts.
 
-1984—Subsec. (b). Pub. L. 98–369, §2814(a), inserted “without charge” after “shall be sent”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369, §2814(a), inserted “without charge” after “shall be sent”.
 
 Subsecs. (c) to (g). Pub. L. 98–369, §2814(b), struck out subsec. (c) which related to reimbursement of an agency for issuing additional checks, and redesignated subsecs. (d) to (g) as (c) to (f), respectively.
 

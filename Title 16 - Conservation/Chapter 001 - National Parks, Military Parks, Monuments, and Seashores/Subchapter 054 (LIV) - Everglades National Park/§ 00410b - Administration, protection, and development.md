@@ -1,6 +1,6 @@
 ### §410b. Administration, protection, and development
 
-The administration, protection, and development of the aforesaid park shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended: <i>Provided</i>, That the provisions of the Federal Power Act \[16 U.S.C. 791a et seq.\] shall not apply to this park: <i>Provided further</i>, That nothing in sections 410 to 410c of this title shallbe construed to lessen any existing rights of the Seminole Indians which are not in conflict with the purposes for which the Everglades National Park is created.
+The administration, protection, and development of the aforesaid park shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended: <i>Provided</i>, That the provisions of the Federal Power Act \[16 U.S.C. 791a et seq.\] shall not apply to this park: <i>Provided further</i>, That nothing in sections 410 to 410c of this title shall be construed to lessen any existing rights of the Seminole Indians which are not in conflict with the purposes for which the Everglades National Park is created.
 
 (May 30, 1934, ch. 371, §3, 48 Stat. 816; Aug. 21, 1937, ch. 732, 50 Stat. 742.)
 
@@ -10,7 +10,7 @@ The Federal Power Act, referred to in text, was in the original the “Act appro
 
 #### Amendments
 
-1937—Act Aug. 21, 1937, struck out proviso which prohibited expenditure of public moneys by the United States on the park within a period of five years.
+<b>1937</b>—Act Aug. 21, 1937, struck out proviso which prohibited expenditure of public moneys by the United States on the park within a period of five years.
 
 #### Transfer of Functions
 

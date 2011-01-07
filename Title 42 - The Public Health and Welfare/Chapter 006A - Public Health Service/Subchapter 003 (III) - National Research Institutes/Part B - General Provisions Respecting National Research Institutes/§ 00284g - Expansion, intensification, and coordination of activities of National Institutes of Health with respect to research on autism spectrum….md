@@ -68,11 +68,11 @@ Another section 409C of act July 1, 1944, was renumbered section 409G and is cla
 
 #### Amendments
 
-2007—Subsec. (b)(4) to (6). Pub. L. 109–482, §104(b)(1)(D), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out heading and text of former par. (4). Text read as follows: “The Director shall, as appropriate, provide for the coordination of information among centers under paragraph (1) and ensure regular communication between such centers, and may require the periodic preparation of reports on the activities of the centers and the submission of the reports to the Director.”
+<b>2007</b>—Subsec. (b)(4) to (6). Pub. L. 109–482, §104(b)(1)(D), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out heading and text of former par. (4). Text read as follows: “The Director shall, as appropriate, provide for the coordination of information among centers under paragraph (1) and ensure regular communication between such centers, and may require the periodic preparation of reports on the activities of the centers and the submission of the reports to the Director.”
 
 Subsec. (e). Pub. L. 109–482, §103(b)(9), which directed the striking of subsec. (e), could not be executed because of prior amendment by Pub. L. 109–416. See 2006 Amendment note below.
 
-2006—Pub. L. 109–416, §2(a)(1), substituted “autism spectrum disorder” for “autism” in section catchline.
+<b>2006</b>—Pub. L. 109–416, §2(a)(1), substituted “autism spectrum disorder” for “autism” in section catchline.
 
 Subsec. (a). Pub. L. 109–416, §2(a)(3), added pars. (1) and (2), redesignated former par. (2) as (3), and struck out heading and text of former par. (1). Text read as follows: “The Director of NIH (in this section referred to as the ‘Director’) shall expand, intensify, and coordinate the activities of the National Institutes of Health with respect to research on autism.”
 

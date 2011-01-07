@@ -6,7 +6,7 @@ This chapter may be cited as the “Railroad Unemployment Insurance Act”.
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning act June 25, 1938, ch. 680, 52 Stat.1094, which enacted this chapter and amended sections 503 and 1104 and former section 1107 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning act June 25, 1938, ch. 680, 52 Stat. 1094, which enacted this chapter and amended sections 503 and 1104 and former section 1107 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

@@ -1,6 +1,6 @@
 ### §520. Limitation on enlistment and induction of persons whose score on the Armed Forces Qualification Test is below a prescribed level
 
-(a) The number of persons originally enlisted or inducted to serve on active duty (other than active duty for training) in any armed force during any fiscal year whose score on the ArmedForces Qualification Test is at or above the tenth percentile and below the thirty-first percentile may not exceed 20 percent of the total number of persons originally enlisted or inducted to serve on active duty (other than active duty for training) in such armed force during such fiscal year.
+(a) The number of persons originally enlisted or inducted to serve on active duty (other than active duty for training) in any armed force during any fiscal year whose score on the Armed Forces Qualification Test is at or above the tenth percentile and below the thirty-first percentile may not exceed 20 percent of the total number of persons originally enlisted or inducted to serve on active duty (other than active duty for training) in such armed force during such fiscal year.
 
 (b) A person who is not a high school graduate may not be accepted for enlistment in the armed forces unless the score of that person on the Armed Forces Qualification Test is at or above the thirty-first percentile; however, a person may not be denied enlistment in the armed forces solely because of his not having a high school diploma if his enlistment is needed to meet established strength requirements.
 
@@ -14,13 +14,13 @@ Amendment of subsection (b) is based on Pub. L. 93–307, title IV, §401, June 
 
 #### Amendments
 
-1988—Subsec. (b). Pub. L. 100–370 inserted before period at end “; however, a person may not be denied enlistment in the armed forces solely because of his not having a high school diploma if his enlistment is needed to meet established strength requirements”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–370 inserted before period at end “; however, a person may not be denied enlistment in the armed forces solely because of his not having a high school diploma if his enlistment is needed to meet established strength requirements”.
 
-1983—Subsec. (a). Pub. L. 98–94 struck out provisions under which, for fiscal years beginning on October 1, 1980, and October 1, 1981, the total number of persons originally enlisted or inducted to serve on active duty (other than active duty for training) in the armed forces during such fiscal years whose score on the Armed Forces Qualification Test was at or above the tenth percentile and below the thirty-first percentile could not exceed 25 percent of the number of such persons enlisted or inducted into the armed forces during such fiscal years, and, in the provisions remaining applicable to fiscal years beginning after Sept. 30, 1982, substituted “20 percent of the total number of persons originally enlisted or inducted to serve on active duty (other than active duty for training) in such armed force” for “20 percent of the number of such persons enlisted or inducted into such armed force”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–94 struck out provisions under which, for fiscal years beginning on October 1, 1980, and October 1, 1981, the total number of persons originally enlisted or inducted to serve on active duty (other than active duty for training) in the armed forces during such fiscal years whose score on the Armed Forces Qualification Test was at or above the tenth percentile and below the thirty-first percentile could not exceed 25 percent of the number of such persons enlisted or inducted into the armed forces during such fiscal years, and, in the provisions remaining applicable to fiscal years beginning after Sept. 30, 1982, substituted “20 percent of the total number of persons originally enlisted or inducted to serve on active duty (other than active duty for training) in such armed force” for “20 percent of the number of such persons enlisted or inducted into such armed force”.
 
-1981—Pub. L. 97–86 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1981</b>—Pub. L. 97–86 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1980—Pub. L. 96–579 struck out subsec. (a) designation and subsec. (b) authorizing the Secretary of Defense for national security reasons to waive the enlistment and induction limitation based on percentile limits conditioned upon notification of the Congress and a concurrent resolution of approval.
+<b>1980</b>—Pub. L. 96–579 struck out subsec. (a) designation and subsec. (b) authorizing the Secretary of Defense for national security reasons to waive the enlistment and induction limitation based on percentile limits conditioned upon notification of the Congress and a concurrent resolution of approval.
 
 #### Effective Date of 1981 Amendment
 

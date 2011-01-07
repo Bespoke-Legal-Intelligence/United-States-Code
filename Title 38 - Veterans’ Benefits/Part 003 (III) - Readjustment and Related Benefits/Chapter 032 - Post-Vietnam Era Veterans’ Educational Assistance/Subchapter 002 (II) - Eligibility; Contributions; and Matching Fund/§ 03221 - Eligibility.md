@@ -16,17 +16,17 @@
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1621 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1621 of this title as this section.
 
 Subsec. (d). Pub. L. 102–83, §5(c)(1), substituted “3223” for “1623”.
 
-1989—Subsec. (b)(1). Pub. L. 101–237, §423(b)(1)(A), (4)(A), substituted “Secretary” for “Administrator” after “jointly by the” and struck out “(hereinafter in this chapter referred to as the ‘Secretary’)” after “Secretary of Defense”.
+<b>1989</b>—Subsec. (b)(1). Pub. L. 101–237, §423(b)(1)(A), (4)(A), substituted “Secretary” for “Administrator” after “jointly by the” and struck out “(hereinafter in this chapter referred to as the ‘Secretary’)” after “Secretary of Defense”.
 
 Subsecs. (c), (e). Pub. L. 101–237, §423(b)(1)(A), (4)(A), substituted “Secretary” for “Administrator” after “jointly by the” and inserted “of Defense” after “Secretary” at end.
 
 Subsec. (f). Pub. L. 101–237, §410, added subsec. (f).
 
-1986—Subsec. (a). Pub. L. 99–576 inserted “and before July 1, 1985,” and “before July 1, 1985” in first sentence.
+<b>1986</b>—Subsec. (a). Pub. L. 99–576 inserted “and before July 1, 1985,” and “before July 1, 1985” in first sentence.
 
 #### Enrollment in Program Before April 1, 1987
 
@@ -52,7 +52,7 @@ Section 408 of Pub. L. 94–502 provided that:
 
 &emsp;“(B) any Saturday and Sunday, not excluded under the preceding subparagraph, when either House is not in session.
 
-> The recommendation referred to in paragraph (1)(A) shall be delivered to both Houses of Congress on the same day and shall be delivered to the Clerk of the House of Representatives if the House is not in session and to the Secretary of the Senate if the Senate is not in session.
+> The recommendation referred to in paragraph (1)(A) shall be delivered to both Houses of Congress on the same day and shall be delivered to the Clerk of the House of Representatives if the House is not in sessionand to the Secretary of the Senate if the Senate is not in session.
 
 “(b) If new enrollments after December 31, 1981, in the educational assistance program provided for in such chapter 32 are authorized after the application of the provisions of subsection (a), then effective January 1, 1982, section 1622(b) \[now 3222(b)\] of title 38, United States Code, is amended by striking out ‘Veterans’ Administration’ and inserting in lieu thereof ‘Department of Defense’.”
 

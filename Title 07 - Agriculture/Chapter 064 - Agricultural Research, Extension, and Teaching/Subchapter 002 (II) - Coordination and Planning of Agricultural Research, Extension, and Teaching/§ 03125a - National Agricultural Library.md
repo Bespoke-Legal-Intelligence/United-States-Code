@@ -42,7 +42,7 @@ The Director may—
 
 #### (f) Receipts
 
-Funds received from sales under subsection (e) of this section shall be deposited in the Treasury of the United States to the credit of the applicable appropriation and shall remain available until expended.
+Funds received from sales under subsection (e) of this section shall be deposited in the Treasuryof the United States to the credit of the applicable appropriation and shall remain available until expended.
 
 #### (g) Agreements
 
@@ -74,7 +74,7 @@ Requirements.—
 
 &emsp;“(1)
 
-In general.—Notwithstanding chapter 5 of subtitle I of title 40, United States Code, the Secretary may lease real property at the Beltsville Agricultural Research Center or the National Agricultural Libraryin accordance with such terms and conditions as the Secretary may prescribe, if the Secretary determines that the lease—
+In general.—Notwithstanding chapter 5 of subtitle I of title 40, United States Code, the Secretary may lease real property at the Beltsville Agricultural Research Center or the National Agricultural Library in accordance with such terms and conditions as the Secretary may prescribe, if the Secretary determines that the lease—
 
 &emsp;&emsp;“(A) is consistent with, and will not adversely affect, the mission of the Department agency administering the property;
 

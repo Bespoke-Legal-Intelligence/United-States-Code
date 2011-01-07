@@ -22,7 +22,7 @@ Conditions on Obligation of Funds.—A lease contract entered into for a militar
 
 &emsp;(2) A commitment to obligate the necessary amount for each fiscal year covered by the contract when and to the extent that funds are appropriated for that project for that fiscal year.
 
-&emsp;(3) A statement that such a commitment entered into under the authority of this section does not constitute an obligation of the United States.
+&emsp;(3) A statement that such a commitment entered into under the authority of this sectiondoes not constitute an obligation of the United States.
 
 &emsp;(4) A requirement that housing units constructed pursuant to the contract shall be constructed—
 
@@ -44,13 +44,13 @@ Notice and Wait Requirements.—A contract may not be entered into for the lease
 
 &emsp;(1) the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard, submits to the appropriate committees of Congress, in writing, an economic analysis (based upon accepted life cycle costing procedures) which demonstrates that the proposed contract is cost-effective when compared with alternative means of furnishing the same housing facilities; and
 
-&emsp;(2) a period of 21 calendar days has expired following the date on which the economic analysis is received by those committees.
+&emsp;(2) a period of 21 days has expired following the date on which the economic analysis is received by those committees or, if earlier, a period of 14 days has elapsed from the date on which a copy of the analysis is provided in an electronic medium pursuant to section 480 of this title.
 
 (h)
 
 Support Buildings.—A contract for the lease of family housing under this section may include provision for the lease of a child care center, civic center building, and similar type buildings constructed for the support of family housing.
 
-(Added Pub. L. 102–190, div. B, title XXVIII, §2806(a)(1), Dec. 5, 1991, 105 Stat. 1539; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 102–190, div. B, title XXVIII, §2806(a)(1), Dec. 5, 1991, 105 Stat. 1539; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 111–383, div. B, title XXVIII, §2803(e), Jan. 7, 2011, 124 Stat. 4459.)
 
 #### Prior Provisions
 
@@ -58,7 +58,9 @@ Provisions similar to those in this section were contained in subsec. (g) of sec
 
 #### Amendments
 
-2002—Subsecs. (a) to (c), (d)(4)(B), (g)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” wherever appearing.
+<b>2011</b>—Subsec. (g)(2). Pub. L. 111–383 struck out “calendar” after “21” and inserted before period at end “or, if earlier, a period of 14 days has elapsed from the date on which a copy of the analysis is provided in an electronic medium pursuant to section 480 of this title”.
+
+<b>2002</b>—Subsecs. (a) to (c), (d)(4)(B), (g)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” wherever appearing.
 
 #### Effective Date of 2002 Amendment
 

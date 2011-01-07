@@ -20,7 +20,7 @@ The Executive Committee shall render an annual report to the Board, and such oth
 
 #### Amendments
 
-1968—Subsec. (a). Pub. L. 90–407, §5, made mandatory the organization of the Executive Committee, struck out prohibition that the Board may not assign to the Executive Committee the function of establishing policies, and inserted provisions setting forth the number of members, their manner of election, and the status of the Director.
+<b>1968</b>—Subsec. (a). Pub. L. 90–407, §5, made mandatory the organization of the Executive Committee, struck out prohibition that the Board may not assign to the Executive Committee the function of establishing policies, and inserted provisions setting forth the number of members, their manner of election, and the status of the Director.
 
 Subsec. (b). Pub. L. 90–407, §5, substituted provisions that Board elect two members as members of Executive Committee at its annual meeting, with period between any two consecutive annual meetings to be deemed one year, for provisions covering composition of Executive Committee, setting forth a special one year term of office for four members first elected after May 10, 1950, and directing that membership of Committee represent diverse interests and areas. Provisions of former subsecs. (b)(2)(A) and (b)(5) were redesignated as subsecs. (c) and (d), respectively.
 
@@ -28,7 +28,7 @@ Subsec. (c). Pub. L. 90–407, §5, redesignated former subsec. (b)(2)(A) as (c)
 
 Subsec. (d). Pub. L. 90–407, §5, redesignated former subsec. (b)(5) as (d) and substituted “The Executive Committee” for “Such Committee”.
 
-1959—Subsec. (a). Pub. L. 86–232 struck out prohibition against assignment to Executive Committee of function of review and approval.
+<b>1959</b>—Subsec. (a). Pub. L. 86–232 struck out prohibition against assignment to Executive Committee of function of review and approval.
 
 Subsec. (b)(1). Pub. L. 86–232 authorized Board to have an Executive Committee consisting of from five to nine members rather than fixed number of nine.
 

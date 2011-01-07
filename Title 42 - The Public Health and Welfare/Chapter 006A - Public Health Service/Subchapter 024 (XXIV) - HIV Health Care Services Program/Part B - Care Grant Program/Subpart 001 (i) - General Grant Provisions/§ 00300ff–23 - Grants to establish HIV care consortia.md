@@ -10,7 +10,7 @@ A State may, subject to subsection (f), use amounts provided under a grant award
 
 &emsp;&emsp;(A) essential health services such as case management services, medical, nursing, substance abuse treatment, mental health treatment, and dental care, diagnostics, monitoring, prophylactic treatment for opportunistic infections, treatment education to take place in the context of health care delivery, and medical follow-up services, mental health, developmental, and rehabilitation services, home health and hospice care; and
 
-&emsp;&emsp;(B) essential support services such as transportation services, attendant care, homemaker services, day or respite care, benefits advocacy, advocacy services provided through public and nonprofit private entities, and services that are incidental tothe provision of health care services for individuals with HIV/AIDS including nutrition services, housing referral services, and child welfare and family services (including foster care and adoption services).
+&emsp;&emsp;(B) essential support services such as transportation services, attendant care, homemaker services, day or respite care, benefits advocacy, advocacy services provided through public and nonprofit private entities, and services that are incidental to the provision of health care services for individuals with HIV/AIDS including nutrition services, housing referral services, and child welfare and family services (including foster care and adoption services).
 
 > An entity or entities of the type described in this subsection shall hereinafter be referred to in this subchapter as a “consortium” or “consortia”.
 
@@ -112,9 +112,9 @@ A prior section 2613 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+<b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” wherever appearing.
 
@@ -126,7 +126,7 @@ Subsec. (d). Pub. L. 109–415, §204(a), substituted “section 300ff–21 of t
 
 Subsec. (f). Pub. L. 109–415, §201(b)(2), added subsec. (f).
 
-2000—Subsec. (b)(1)(A). Pub. L. 106–345, §203(1)(A), inserted “, particularly those experiencing disparities in access and services and those who reside in historically underserved communities” before semicolon.
+<b>2000</b>—Subsec. (b)(1)(A). Pub. L. 106–345, §203(1)(A), inserted “, particularly those experiencing disparities in access and services and those who reside in historically underserved communities” before semicolon.
 
 Subsec. (b)(1)(B). Pub. L. 106–345, §203(1)(B), inserted “is consistent with the comprehensive plan under section 300ff–27(b)(4) of this title and” after “by such consortium”.
 
@@ -134,7 +134,7 @@ Subsec. (c)(1)(F). Pub. L. 106–345, §203(2), added subpar. (F).
 
 Subsec. (c)(2)(D). Pub. L. 106–345, §203(3), added subpar. (D).
 
-1996—Subsec. (a)(1). Pub. L. 104–146, §3(c)(2)(A)(i), inserted “(or private for-profit providers or organizations if such entities are the only available providers of quality HIV care in the area)” after “nonprofit private,”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–146, §3(c)(2)(A)(i), inserted “(or private for-profit providers or organizations if such entities are the only available providers of quality HIV care in the area)” after “nonprofit private,”.
 
 Subsec. (a)(2)(A). Pub. L. 104–146, §3(c)(2)(A)(ii), inserted “substance abuse treatment, mental health treatment,” after “nursing,” and “prophylactic treatment for opportunistic infections, treatment education to take place in the context of health care delivery,” after “monitoring,”.
 
@@ -144,7 +144,7 @@ Subsec. (c)(2)(C). Pub. L. 104–146, §3(c)(2)(B)(ii), added subpar. (C).
 
 #### Effective Date of 2009 Amendment; Revival of Section
 
-For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effectiveSept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -24,5 +24,5 @@ No payment shall be made pursuant to this section to or for any person who, afte
 
 #### Amendments
 
-1988—Subsecs. (a), (b). Pub. L. 100–666 substituted “Commissioner” for “Commission” wherever appearing.
+<b>1988</b>—Subsecs. (a), (b). Pub. L. 100–666 substituted “Commissioner” for “Commission” wherever appearing.
 

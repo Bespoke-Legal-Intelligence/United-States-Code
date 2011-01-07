@@ -14,7 +14,7 @@ For purposes of this chapter—
 
 #### Amendments
 
-1990—Par. (1). Pub. L. 101–501, §502(1), substituted “130 percent of the lower living standard income level” for “poverty line, as defined in section 9902(2) of this title”.
+<b>1990</b>—Par. (1). Pub. L. 101–501, §502(1), substituted “130 percent of the lower living standard income level” for “poverty line, as defined in section 9902(2) of this title”.
 
 Pars. (2) to (4). Pub. L. 101–501, §502(2), (3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 

@@ -74,7 +74,7 @@ The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–
 
 #### Amendments
 
-2008—Subsec. (f). Pub. L. 110–274 substituted “Subject to the availability of appropriations,” for “To the extent amounts are made available in advance in appropriations Acts,”.
+<b>2008</b>—Subsec. (f). Pub. L. 110–274 substituted “Subject to the availability of appropriations,” for “To the extent amounts are made available in advance in appropriations Acts,”.
 
 #### “Secretary” Defined
 

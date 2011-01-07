@@ -26,7 +26,7 @@ An individual that receives assistance under this section with regard to the pro
 
 #### (A) Supervision of individuals
 
-&emsp;&emsp;Nothing in this section shall be construed to require or imply that a physician or otherhealth professional licensed to prescribe drugs must supervise an individual receiving assistance under the demonstration project under this section, with respect to such project.
+&emsp;&emsp;Nothing in this section shall be construed to require or imply that a physician or other health professional licensed to prescribe drugs must supervise an individual receiving assistance under the demonstration project under this section, with respect to such project.
 
 #### (B) Licensure of health professionals
 
@@ -78,5 +78,5 @@ This section shall not be construed to require any State to participate in the p
 
 #### Prior Provisions
 
-A prior section 254t, act July 1, 1944, ch. 373, title III, §338L, as added Pub. L. 101–527, §8, Nov. 6, 1990, 104 Stat. 2328, related to demonstration grants to States for community scholarship programs, prior to repeal by Pub. L. 107–251, title III, §316, Oct. 26, 2002, 116 Stat. 1653.
+A prior section 254t, act July 1, 1944, ch. 373, title III, §338L, as added Pub. L. 101–527, §8, Nov. 6, 1990, 104 Stat.2328, related to demonstration grants to States for community scholarship programs, prior to repeal by Pub. L. 107–251, title III, §316, Oct. 26, 2002, 116 Stat. 1653.
 

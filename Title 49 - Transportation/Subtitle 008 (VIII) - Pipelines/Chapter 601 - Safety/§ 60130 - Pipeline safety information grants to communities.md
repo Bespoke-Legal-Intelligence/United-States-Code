@@ -34,13 +34,13 @@ Annual Report.—
 
 &emsp;(1)
 
-In general.—Not later than 90 days after the last day of each fiscal year for which grants are made by the Secretary under this section, the Secretary shall report to the Committees on Commerce, Science, and Transportation and Energy and Natural Resources of the Senate and the Committees on Transportation and Infrastructure and Energy and Commerce of the House of Representatives on grants made under this section in the preceding fiscal year.
+In general.—Not later than 90 days after the last day of each fiscal year for whichgrants are made by the Secretary under this section, the Secretary shall report to the Committees on Commerce, Science, and Transportation and Energy and Natural Resources of the Senate and the Committees on Transportation and Infrastructure and Energy and Commerce of the House of Representatives on grants made under this section in the preceding fiscal year.
 
 &emsp;(2)
 
 Contents.—The report shall include—
 
-&emsp;&emsp;(A) a listing of the identity and location of each recipient of a grant under this sectionin the preceding fiscal year and the amount received by the recipient;
+&emsp;&emsp;(A) a listing of the identity and location of each recipient of a grant under this section in the preceding fiscal year and the amount received by the recipient;
 
 &emsp;&emsp;(B) a description of the purpose for which each grant was made; and
 
@@ -58,7 +58,7 @@ Public Law 93–153, referred to in subsec. (a)(1), is Pub. L. 93–153, Nov. 16
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–468, §5(1), substituted “No grants may be awarded under section 60114(g) until the Secretary has established competitive” for “The Secretary shall establish competitive”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–468, §5(1), substituted “No grants may be awarded under section 60114(g) until the Secretary has established competitive” for “The Secretary shall establish competitive”.
 
 Subsec. (a)(2) to (4). Pub. L. 109–468, §5(2), (3), added pars. (2) and (3) and redesignated former par. (2) as (4).
 

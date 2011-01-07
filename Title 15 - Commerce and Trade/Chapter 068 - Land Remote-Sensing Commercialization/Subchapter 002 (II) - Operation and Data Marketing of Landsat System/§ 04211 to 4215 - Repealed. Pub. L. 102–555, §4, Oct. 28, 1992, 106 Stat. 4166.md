@@ -8,7 +8,5 @@ Section 4213, Pub. L. 98–365, title II, §203, July 17, 1984, 98 Stat. 454, re
 
 Section 4214, Pub. L. 98–365, title II, §204, July 17, 1984, 98 Stat. 455, related to sale of unenhanced data, entitlement to revenues from such sales, and the permissibility of marketing such data after end of Landsat system space segment.
 
-Section 4215, Pub. L. 98–365, title II, §205, July 17, 1984, 98 Stat. 455, related to supply of unenhanced data to foreign ground stations and contract provisions relating thereto.
-
-For similar provisions, see section 5601 et seq. of this title.
+Section 4215, Pub. L. 98–365, title II, §205, July 17, 1984, 98 Stat. 455, related to supply of unenhanced data toforeign ground stations and contract provisions relating thereto.
 

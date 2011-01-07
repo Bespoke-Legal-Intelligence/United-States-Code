@@ -18,7 +18,7 @@ The total amount allocated to any State under subsection (a) of this section in 
 
 #### (c) Prescription of rules governing allocations among States with regard to energy audits
 
-Not later than 60 days after November 9, 1978, the Secretary shall prescribe rules governing the allocation among the States of funds for grants for preliminary energy audits and energy audits. Such rules shall take into account the population and climate of such States and such other factors as he may deem appropriate.
+Not later than 60 days after November 9, 1978, the Secretary shall prescribe rules governing the allocation among the States of funds for grants for preliminary energy audits and energyaudits. Such rules shall take into account the population and climate of such States and such other factors as he may deem appropriate.
 
 #### (d) Prescription of rules limiting allocations to States for administrative expenses
 
@@ -36,7 +36,7 @@ Section 6371f of this title, referred to in subsec. (a)(1), (2), was amended by 
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–454 inserted reference to Northern Mariana Islands.
+<b>1984</b>—Subsec. (b). Pub. L. 98–454 inserted reference to Northern Mariana Islands.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

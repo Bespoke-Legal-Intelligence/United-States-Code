@@ -26,7 +26,7 @@
 
 &emsp;(ii) To refinance, in accordance with section 3712(a)(5) of this title, an existing loan that was made for the purchase of, and that is secured by, a manufactured home that is permanently affixed to a lot and to purchase the lot to which the manufactured home is affixed.
 
-&emsp;(10) To purchase a dwelling to be owned and occupied by the veteran as a home and makeenergy efficiency improvements, as provided in subsection (d).
+&emsp;(10) To purchase a dwelling to be owned and occupied by the veteran as a home and make energy efficiency improvements, as provided in subsection (d).
 
 &emsp;(11) To refinance in accordance with subsection (e) an existing loan guaranteed, insured, or made under this chapter, and to improve the dwelling securing such loan through energy efficiency improvements, as provided in subsection (d).
 
@@ -150,7 +150,7 @@
 
 (2) A loan may not be guaranteed for the purposes of subsection (a)(9) of this section unless the manufactured home purchased, upon being permanently affixed to the lot, is considered to be real property under the laws of the State where the lot is located.
 
-(g)(1) For the purposes of this subsection, the term “veteran”, when used with respect to aloan guaranteed or to be guaranteed under this chapter, includes the veteran's spouse if the spouse is jointly liable with the veteran under the loan.
+(g)(1) For the purposes of this subsection, the term “veteran”, when used with respect to a loan guaranteed or to be guaranteed under this chapter, includes the veteran's spouse if the spouse is jointly liable with the veteran under the loan.
 
 (2) For the purpose of determining whether a veteran meets the standards referred to in subsection (b)(3) of this section and section 3712(e)(2) of this title, the Secretary shall prescribe regulations which establish—
 
@@ -176,7 +176,7 @@
 
 (h)(1) A loan may not be guaranteed under subsection (a)(12) unless—
 
-&emsp;(A) the development, project, or structure of the cooperative housing corporation complies with such criteria as the Secretary prescribes in regulations; and
+&emsp;(A) the development, project, or structure of the cooperative housing corporation complieswith such criteria as the Secretary prescribes in regulations; and
 
 &emsp;(B) the dwelling unit that the purchase of stock or membership in the development, project, or structure of the cooperative housing corporation entitles the purchaser to occupy is a single family residential unit.
 
@@ -198,23 +198,23 @@ Another section 11(b) of Pub. L. 100–198 amended section 1831 \[now 3731\] of 
 
 #### Amendments
 
-2008—Subsec. (b)(8). Pub. L. 110–389 substituted “100 percent” for “90 percent”.
+<b>2008</b>—Subsec. (b)(8). Pub. L. 110–389 substituted “100 percent” for “90 percent”.
 
-2006—Subsec. (a)(12). Pub. L. 109–461, §501(a), added par. (12).
+<b>2006</b>—Subsec. (a)(12). Pub. L. 109–461, §501(a), added par. (12).
 
 Subsec. (h). Pub. L. 109–461, §501(b), added subsec. (h).
 
-1996—Subsec. (d)(7). Pub. L. 104–110 struck out par. (7) which read as follows: “A loan may not be guaranteed under this subsection after December 31, 1995.”
+<b>1996</b>—Subsec. (d)(7). Pub. L. 104–110 struck out par. (7) which read as follows: “A loan may not be guaranteed under this subsection after December 31, 1995.”
 
-1994—Subsec. (a)(11). Pub. L. 103–446, §904(a), added par. (11).
+<b>1994</b>—Subsec. (a)(11). Pub. L. 103–446, §904(a), added par. (11).
 
 Subsec. (e)(1). Pub. L. 103–446, §904(b)(1), inserted “or for the purpose specified in subsection (a)(11)” after “subsection (a)(8)” in introductory provisions.
 
 Subsec. (e)(1)(A). Pub. L. 103–446, §905, inserted before semicolon at end “or, in a case in which the loan is a fixed rate loan and the loan being refinanced is an adjustable rate loan, the loan bears interest at a rate that is agreed upon by the veteran and the mortgagee”.
 
-Subsec. (e)(1)(C). Pub. L. 103–446, §904(b)(2), substituted “may not exceed—” and cls. (i) and (ii) for“may not exceed an amount equal to the sum of the balance of the loan being refinanced and such closing costs (including any discount permitted pursuant to section 3703(c)(3)(A) of this title) as may be authorized by the Secretary, under regulations which the Secretary shall prescribe, to be included in such loan;”.
+Subsec. (e)(1)(C). Pub. L. 103–446, §904(b)(2), substituted “may not exceed—” and cls. (i) and (ii) for “may not exceed an amount equal to the sum of the balance of the loan being refinanced and such closing costs (including any discount permitted pursuant to section 3703(c)(3)(A) of this title) as may be authorized by the Secretary, under regulations which the Secretary shall prescribe, to be included in such loan;”.
 
-1992—Subsec. (a)(7). Pub. L. 102–547, §9(b)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “To improve a dwelling or farm residence owned by the veteran and occupied by the veteran as the veteran's home through the installation of a solar heating system, a solar heating and cooling system, or a combined solar heating and cooling system or through the application of a residential energy conservation measure.”
+<b>1992</b>—Subsec. (a)(7). Pub. L. 102–547, §9(b)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “To improve a dwelling or farm residence owned by the veteran and occupied by the veteran as the veteran's home through the installation of a solar heating system, a solar heating and cooling system, or a combined solar heating and cooling system or through the application of a residential energy conservation measure.”
 
 Subsec. (a)(10). Pub. L. 102–547, §9(b)(2), added par. (10).
 
@@ -222,7 +222,7 @@ Subsec. (d). Pub. L. 102–547, §9(a), amended subsec. (d) generally. Prior to 
 
 Subsec. (e)(1)(D). Pub. L. 102–547, §6(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “the amount of the guaranty of the loan may not exceed the original guaranty amount of the loan being refinanced;”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1810 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1810 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “3704(c)(2)” for “1804(c)(2)” in introductory provisions, “3712(a)(5)” for “1812(a)(5)” in par. (9)(B)(ii), and “3711” for “1811” in concluding provisions.
 
@@ -236,7 +236,7 @@ Pub. L. 102–83, §4(a)(2)(A)(iv), substituted “Secretary” for “Veterans�
 
 Subsec. (g)(2). Pub. L. 102–83, §5(c)(1), substituted “3712(e)(2)” for “1812(e)(2)”.
 
-1989—Subsec. (a)(6). Pub. L. 101–237, §313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Subsec. (a)(6). Pub. L. 101–237, §313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
 
 Subsec. (b)(5) to (8). Pub. L. 101–237, §309(b), inserted “except in the case of a loan described in clause (7) or (8) of this subsection,” before “the loan to be paid” in cl. (5), struck out “and,” at end of cl. (5), substituted semicolon for period at end of cl. (6), and added cls. (7) and (8).
 
@@ -244,13 +244,13 @@ Subsecs. (d) to (g). Pub. L. 101–237, §313(b)(1), substituted “Secretary”
 
 Subsec. (h). Pub. L. 101–237, §309(a), struck out subsec. (h) which read as follows: “The amount of a loan guaranteed for the purpose specified in subsection (a)(5) of this section may not exceed the amount equal to 90 percent of the appraised value of the dwelling or farm residence which will secure the loan, as determined by the Administrator.”
 
-1988—Subsec. (a)(9)(B)(ii). Pub. L. 100–322, §415(c)(4)(A), substituted “section 1812(a)(5)” for “section 1819(a)(5)”.
+<b>1988</b>—Subsec. (a)(9)(B)(ii). Pub. L. 100–322, §415(c)(4)(A), substituted “section 1812(a)(5)” for “section 1819(a)(5)”.
 
 Subsec. (g)(2). Pub. L. 100–322, §415(c)(4)(B), substituted “section 1812(e)(2)” for “section 1819(e)(2)”.
 
-1987—Subsec. (a). Pub. L. 100–198, §8(a)(2), substituted “Except as provided in section 1804(c)(2) of this title, any” for “Any”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–198, §8(a)(2), substituted “Except as provided in section 1804(c)(2) of this title, any” for “Any”.
 
-Subsec. (b). Pub. L. 100–198, §11(b), substituted “pursuant to section 1831 of this title” for “by the Administrator” in cl. (5) and struck out last sentence which read as follows: “After the reasonable value of any property, construction, repairs, or alterations is determined under paragraph (5), the Administrator shall, as soon as possible thereafter, notify the veteran concerned of such determination.”
+Subsec. (b). Pub. L. 100–198, §11(b), substituted “pursuant to section 1831 of this title” for “by the Administrator” in cl. (5) and struck out last sentence whichread as follows: “After the reasonable value of any property, construction, repairs, or alterations is determined under paragraph (5), the Administrator shall, as soon as possible thereafter, notify the veteran concerned of such determination.”
 
 Subsec. (c). Pub. L. 100–198, §3(a)(2), struck out subsec. (c) which read as follows: “The amount of guaranty entitlement available to a veteran under this section shall not be more than $27,500 less such entitlement as may have been used previously under this section and other sections of this chapter.”
 
@@ -266,21 +266,21 @@ Subsec. (g)(3). Pub. L. 100–198, §13, inserted at end “If the procedures de
 
 Subsec. (h). Pub. L. 100–198, §7(c), added subsec. (h).
 
-1986—Subsec. (b)(3). Pub. L. 99–576, §402(a), inserted “, as determined in accordance with the credit underwriting standards established pursuant to subsection (g) of this section”.
+<b>1986</b>—Subsec. (b)(3). Pub. L. 99–576, §402(a), inserted “, as determined in accordance with the credit underwriting standards established pursuant to subsection (g) of this section”.
 
 Subsec. (g). Pub. L. 99–576, §402(b), added subsec. (g).
 
-1984—Subsec. (a)(9). Pub. L. 98–223, §205(a)(1), added par. (9).
+<b>1984</b>—Subsec. (a)(9). Pub. L. 98–223, §205(a)(1), added par. (9).
 
 Subsec. (f). Pub. L. 98–223, §205(a)(2), added subsec. (f).
 
-1980—Subsec. (a)(8). Pub. L. 96–385, §401(a)(1), added par. (8).
+<b>1980</b>—Subsec. (a)(8). Pub. L. 96–385, §401(a)(1), added par. (8).
 
 Subsec. (c). Pub. L. 96–385, §402(a), substituted “$27,500” for “$25,000”.
 
 Subsec. (e). Pub. L. 96–385, §401(a)(2), added subsec. (e).
 
-1978—Subsec. (a)(6). Pub. L. 95–476, §104(1), struck out requirement that the purchased residential unit be in a new condominium development, struck out provision that such unit could be in a structure built and sold as a condominium, and inserted provision that the criteria prescribed by the Administrator be prescribed through regulations.
+<b>1978</b>—Subsec. (a)(6). Pub. L. 95–476, §104(1), struck out requirement that the purchased residential unit be in a new condominium development, struck out provision that such unit could be in a structure built and sold as a condominium, and inserted provision that the criteria prescribed by the Administrator be prescribed through regulations.
 
 Subsec. (a)(7). Pub. L. 95–476, §104(2), added par. (7).
 
@@ -288,9 +288,9 @@ Subsec. (c). Pub. L. 95–476, §105(a), substituted “$25,000” for “$17,50
 
 Subsec. (d). Pub. L. 95–476, §104(3), added subsec. (d).
 
-1976—Subsec. (a). Pub. L. 94–324 substituted “the veteran”, “the veteran's” and “the Administrator” for “him”, “his” and “he”, respectively, wherever appearing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–324 substituted “the veteran”, “the veteran's” and “the Administrator” for “him”, “his” and “he”, respectively, wherever appearing.
 
-1974—Subsec. (a)(5). Pub. L. 93–569, §3(1), struck out “Nothing in this chapter shall preclude a veteran from paying to a lender any discount required by such lender in connection with such refinancing.”
+<b>1974</b>—Subsec. (a)(5). Pub. L. 93–569, §3(1), struck out “Nothing in this chapter shall preclude a veteran from paying to a lender any discount required by such lender in connection with such refinancing.”
 
 Subsec. (a)(6). Pub. L. 93–569, §3(2), added par. (6).
 
@@ -298,11 +298,11 @@ Subsec. (c). Pub. L. 93–569, §3(3), substituted “$17,500” for “$12,500�
 
 Subsec. (d). Pub. L. 93–569, §3(4), struck out subsec. (d) relating to guaranty of loans for purchase of a one-family residential unit in a condominium housing project or development as to which Secretary of Housing and Urban Development has issued, under section 234 of the National Housing Act, evidence of insurance.
 
-1970—Subsec. (a). Pub. L. 91–506, §3(1), added par. (5) permitting a veteran to use his loan guaranty eligibility to refinance existing mortgage loans or other liens on dwellings on farm residences he occupies and provided that veterans using loan guarantees for such refinancing may pay points demanded by a lender.
+<b>1970</b>—Subsec. (a). Pub. L. 91–506, §3(1), added par. (5) permitting a veteran to use his loan guaranty eligibility to refinance existing mortgage loans or other liens on dwellings on farm residences he occupies and provided that veterans using loan guarantees for such refinancing may pay points demanded by a lender.
 
 Subsec. (d). Pub. L. 91–506, §3(2), added subsec. (d).
 
-1968—Subsec. (b). Pub. L. 90–301, §2(a), substituted “loan to be paid” for “price paid or to be paid” in par. (5) of first sentence and inserted sentence at end relating to notification of veteran concerned of determination of reasonable value of any property, construction, repairs, or alterations.
+<b>1968</b>—Subsec. (b). Pub. L. 90–301, §2(a), substituted “loan to be paid” for “price paid or to be paid” in par. (5) of first sentence and inserted sentence at end relating to notification of veteran concerned of determination of reasonable value of any property, construction, repairs, or alterations.
 
 Subsec. (c). Pub. L. 90–301, §1(a), increased limitation on amount of guaranty entitlement from $7,500 to $12,500.
 
@@ -340,5 +340,5 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
 #### Reports on Energy Efficient Mortgages Guaranteed Under This Section
 
-Section 9(c) of Pub. L. 102–547 directed Secretary of Veterans Affairs to transmit report on energy efficient mortgages to Committees on Veterans’ Affairs of Senate and House of Representatives not later than 1 year after date on which Secretary first exercises authority to guarantee loans under section 3710(d) of this title and for each of the 3 years thereafter, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
+Section 9(c) of Pub. L. 102–547 directed Secretary of Veterans Affairs to transmit report on energy efficient mortgages to Committees on Veterans’ Affairs of Senate and House of Representatives not later than 1 year after date on which Secretary first exercises authorityto guarantee loans under section 3710(d) of this title and for each of the 3 years thereafter, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
 

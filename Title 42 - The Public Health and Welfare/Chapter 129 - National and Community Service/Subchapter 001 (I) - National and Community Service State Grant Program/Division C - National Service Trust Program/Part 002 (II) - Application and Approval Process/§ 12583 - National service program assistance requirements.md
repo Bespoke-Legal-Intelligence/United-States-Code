@@ -30,7 +30,7 @@ An application submitted under section 12582 of this title shall also include an
 
 &emsp;&emsp;(A) the community served, the municipality and government of the county (if appropriate) in which the community is located, and potential participants in the program; and
 
-&emsp;&emsp;(B) community-based agencies with a demonstrated record of experience in providing services and local labor organizations representing employees of service sponsors, ifthese entities exist in the area to be served by the program;
+&emsp;&emsp;(B) community-based agencies with a demonstrated record of experience in providing services and local labor organizations representing employees of service sponsors, if these entities exist in the area to be served by the program;
 
 &emsp;(2) prior to the placement of participants, consult with the appropriate local labor organization, if any, representing employees in the area who are engaged in the same or similar work as that proposed to be carried out by such program to ensure compliance with the nondisplacement requirements specified in section 12637 of this title; and
 
@@ -86,7 +86,7 @@ A prior section 131 of Pub. L. 101–610 was renumbered section 199J and is clas
 
 #### Amendments
 
-2009—Subsec. (c)(1)(A). Pub. L. 111–13, §1309(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “the community served and potential participants in the program; and”.
+<b>2009</b>—Subsec. (c)(1)(A). Pub. L. 111–13, §1309(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “the community served and potential participants in the program; and”.
 
 Subsec. (c)(3). Pub. L. 111–13, §1309(2), added par. (3) and struck out former par. (3) which read as follows: “in the case of a program that is not funded through a State, consult with and coordinate activities with the State Commission for the State in which the program operates.”
 

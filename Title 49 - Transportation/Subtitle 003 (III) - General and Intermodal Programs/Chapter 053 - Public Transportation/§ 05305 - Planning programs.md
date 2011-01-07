@@ -108,7 +108,7 @@ Government's Share of Costs.—The Government's share of the cost of an activity
 
 (g)
 
-Allocation of Funds.—Of the funds made available by or appropriated to carry out this section under section 5338(c) for fiscal years 2005 through 2009—
+Allocation of Funds.—Of the funds made available by or appropriated to carry out this section under section 5338(c) for fiscal years 2005 through 2010, and for the period beginning October 1, 2010, and ending March 4, 2011,— <sup>1</sup>
 
 &emsp;(1) 82.72 percent shall be available for the metropolitan planning program under subsection (d); and
 
@@ -118,7 +118,7 @@ Allocation of Funds.—Of the funds made available by or appropriated to carry o
 
 Availability of Funds.—Funds apportioned under this section to a State that have not been obligated in the 3-year period beginning after the last day of the fiscal year for which the funds are authorized shall be reapportioned among the States.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 794; Pub. L. 105–178, title III, §3006, June 9, 1998, 112 Stat. 346; Pub. L. 105–206, title IX, §9009(d), July 22, 1998, 112 Stat. 854; Pub. L. 109–59, title III, §3007(a), Aug. 10, 2005, 119 Stat. 1566.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 794; Pub. L. 105–178, title III, §3006, June 9, 1998, 112 Stat. 346; Pub. L. 105–206, title IX, §9009(d), July 22, 1998, 112 Stat. 854; Pub. L. 109–59, title III, §3007(a), Aug. 10, 2005, 119 Stat. 1566; Pub. L. 111–147, title IV, §431, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2301, Dec. 22, 2010, 124 Stat. 3526.)
 
 Historical and Revision Notes
 
@@ -156,9 +156,13 @@ In subsection (f), the words “Notwithstanding any other provisions of this cha
 
 #### Amendments
 
-2005—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (h) relating to designation of areas as transportation management areas and plans and programs in an area.
+<b>2010</b>—Subsec. (g). Pub. L. 111–322 substituted “March 4, 2011” for “December 31, 2010”.
 
-1998—Subsec. (a)(2). Pub. L. 105–178, §3006(a), added par. (2) and struck out former par. (2) which read as follows: “any other area, including the Lake Tahoe Basin as defined in the Act of December 19, 1980 (Public Law 96–551, 94 Stat. 3233), when requested by the chief executive officer and the metropolitan organization designated for the area or the affected local officials.”
+Pub. L. 111–147 substituted “2010, and for the period beginning October 1, 2010, and ending December 31, 2010,” for “2009” in introductory provisions.
+
+<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (h) relating to designation of areas as transportation management areas and plans and programs in an area.
+
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–178, §3006(a), added par. (2) and struck out former par. (2) which read as follows: “any other area, including the Lake Tahoe Basin as defined in the Act of December 19, 1980 (Public Law 96–551, 94 Stat. 3233), when requested by the chief executive officer and the metropolitan organization designated for the area or the affected local officials.”
 
 Subsec. (b). Pub. L. 105–178, §3006(b), inserted “affected” before “mass transportation operators”.
 
@@ -179,4 +183,6 @@ Subsec. (h). Pub. L. 105–178, §3006(f), added subsec. (h).
 #### Effective Date of 1998 Amendment
 
 Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “2011—”.</i>
 

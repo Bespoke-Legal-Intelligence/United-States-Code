@@ -36,7 +36,7 @@ A disclosing part B provider shall notify the Secretary of any changes or update
 
 #### (3) Fees for verification
 
-&emsp;The Secretary shall reimburse the Commissioner and Secretary of the Treasury, at a ratenegotiated between the Secretary and such official, for the costs incurred by such official in performing the verification and correction services described in this subsection.
+&emsp;The Secretary shall reimburse the Commissioner and Secretary of the Treasury, at a rate negotiated between the Secretary and such official, for the costs incurred by such official in performing the verification and correction services described in this subsection.
 
 #### (d) Definitions
 
@@ -64,7 +64,7 @@ Section 1320a–3 of this title, referred to in subsec. (c)(1), does not contain
 
 #### Amendments
 
-1997—Subsec. (a)(3). Pub. L. 105–33, §4313(b)(1), added par. (3).
+<b>1997</b>—Subsec. (a)(3). Pub. L. 105–33, §4313(b)(1), added par. (3).
 
 Subsec. (c). Pub. L. 105–33, §4313(c)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -72,7 +72,7 @@ Subsec. (c)(1). Pub. L. 105–33, §4313(b)(2), inserted “(or, for purposes of
 
 Subsec. (d). Pub. L. 105–33, §4313(c)(1), redesignated subsec. (c) as (d).
 
-1994—Subsec. (a)(2)(A). Pub. L. 103–432 made technical amendment to reference to subchapter XVIII of this chapter to correct reference to corresponding provision of original act.
+<b>1994</b>—Subsec. (a)(2)(A). Pub. L. 103–432 made technical amendment to reference to subchapter XVIII of this chapter to correct reference to corresponding provision of original act.
 
 #### Effective Date of 1997 Amendment
 

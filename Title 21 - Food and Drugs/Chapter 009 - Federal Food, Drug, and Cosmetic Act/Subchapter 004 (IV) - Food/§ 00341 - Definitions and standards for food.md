@@ -6,11 +6,11 @@ Whenever in the judgment of the Secretary such action will promote honesty and f
 
 #### Amendments
 
-1993—Pub. L. 103–80 substituted “or reasonable standards of fill of container. No definition” for “and/or reasonable standards of fill of container: <i>Provided</i>, That no definition”.
+<b>1993</b>—Pub. L. 103–80 substituted “or reasonable standards of fill of container. No definition” for “and/or reasonable standards of fill of container: <i>Provided</i>, That no definition”.
 
-1956—Act Aug. 1, 1956, designated provisions constituting subsec. (a) as entire section and repealed subsec. (b) which provided the procedure for establishment of regulations and is covered by section 371(e) of this title.
+<b>1956</b>—Act Aug. 1, 1956, designated provisions constituting subsec. (a) as entire section and repealed subsec. (b) which provided the procedure for establishment of regulations and is covered by section 371(e) of this title.
 
-1954—Act Apr. 15, 1954, designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1954</b>—Act Apr. 15, 1954, designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Savings Provision
 

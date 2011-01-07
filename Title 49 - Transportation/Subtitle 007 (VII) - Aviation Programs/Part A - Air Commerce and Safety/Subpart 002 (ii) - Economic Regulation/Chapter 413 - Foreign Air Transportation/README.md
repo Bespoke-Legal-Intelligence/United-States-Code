@@ -20,9 +20,9 @@
 
 #### Amendments
 
-1997—Pub. L. 105–148, §1(b), Dec. 16, 1997, 111 Stat. 2683, added item 41313.
+<b>1997</b>—Pub. L. 105–148, §1(b), Dec. 16, 1997, 111 Stat. 2683, added item 41313.
 
-1994—Pub. L. 103–429, §6(51)(B), Oct. 31, 1994, 108 Stat. 4385, added item 41312.
+<b>1994</b>—Pub. L. 103–429, §6(51)(B), Oct. 31, 1994, 108 Stat. 4385, added item 41312.
 
 Pub. L. 103–305, title II, §205(a)(2), Aug. 23, 1994, 108 Stat. 1583, added item 41311.
 

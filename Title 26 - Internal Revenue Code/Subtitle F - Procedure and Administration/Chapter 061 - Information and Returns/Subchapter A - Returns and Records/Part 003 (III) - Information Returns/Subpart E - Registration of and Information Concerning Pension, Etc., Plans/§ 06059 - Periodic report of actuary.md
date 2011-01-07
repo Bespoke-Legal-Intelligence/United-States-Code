@@ -6,7 +6,7 @@ The actuarial report described in subsection (b) shall be filed by the plan admi
 
 #### (b) Actuarial report
 
-The actuarial report of a plan required by subsection (a) shall be prepared and signed by anenrolled actuary (within the meaning of section 7701(a)(35)) and shall contain—
+The actuarial report of a plan required by subsection (a) shall be prepared and signed by an enrolled actuary (within the meaning of section 7701(a)(35)) and shall contain—
 
 &emsp;(1) a description of the funding method and actuarial assumptions used to determine costs under the plan,
 
@@ -38,11 +38,11 @@ Section 3004 of title III of the Employee Retirement Income Security Act of 1974
 
 #### Amendments
 
-2006—Subsec. (b)(2). Pub. L. 109–280, §114(f)(1), substituted “the minimum required contribution determined under section 430, or the accumulated funding deficiency determined under section 431,” for “the accumulated funding deficiency (as defined in section 412(a))”.
+<b>2006</b>—Subsec. (b)(2). Pub. L. 109–280, §114(f)(1), substituted “the minimum required contribution determined under section 430, or the accumulated funding deficiency determined under section 431,” for “the accumulated funding deficiency (as defined in section 412(a))”.
 
 Subsec. (b)(3)(B). Pub. L. 109–280, §114(f)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “the requirements of section 412(c) (relating to reasonable actuarial assumptions) have been complied with,”.
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 2006 Amendment
 
@@ -54,9 +54,11 @@ Requirements of section applicable only with respect to plan years to which part
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
 
 #### Consolidation of Actuarial Reports
 
 Section 1033(c) of Pub. L. 93–406, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The Secretary of the Treasury and the Secretary of Labor shall take such steps as may be necessary to assure coordination to the maximum extent feasible between the actuarial reports required by section 6059 of the Internal Revenue Code of 1986 and by section 103(d) of title I of the Employee Retirement Income Security Act of 1974 \[section 1023(d) of Title 29, Labor\].”
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

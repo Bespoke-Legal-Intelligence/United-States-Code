@@ -50,9 +50,9 @@ The Secretary may, directly or through grants or contracts, provide technical as
 
 #### Amendments
 
-2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+<b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 Subsec. (c)(1)(A). Pub. L. 109–415, §302(c)(1)(A), struck out “HIV” after “provide”.
 
@@ -60,13 +60,13 @@ Subsec. (c)(1)(B). Pub. L. 109–415, §302(c)(1)(B), substituted “HIV/AIDS-re
 
 Subsec. (c)(3). Pub. L. 109–415, §302(c)(2), substituted “areas or to underserved populations” for “or underserved communities”.
 
-2000—Subsec. (c)(1). Pub. L. 106–345, §312(a), substituted “planning grants to public and nonprofit private entities for purposes of—” and subpars. (A) and (B) for “planning grants, in an amount not to exceed $50,000 for each such grant, to public and nonprofit private entities for the purpose of enabling such entities to provide HIV early intervention services.”
+<b>2000</b>—Subsec. (c)(1). Pub. L. 106–345, §312(a), substituted “planning grants to public and nonprofit private entities for purposes of—” and subpars. (A) and (B) for “planning grants, in an amount not to exceed $50,000 for each such grant, to public and nonprofit private entities for the purpose of enabling such entities to provide HIV early intervention services.”
 
 Subsec. (c)(4). Pub. L. 106–345, §312(b)(2), added par. (4). Former par. (4) redesignated (5).
 
 Subsec. (c)(5). Pub. L. 106–345, §312(b)(1), (c), redesignated par. (4) as (5) and substituted “5 percent” for “1 percent”.
 
-1996—Subsec. (c). Pub. L. 104–146 added subsec. (c).
+<b>1996</b>—Subsec. (c). Pub. L. 104–146 added subsec. (c).
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

@@ -20,7 +20,7 @@ The Director may only grant or otherwise provide matching moneys to a coastal St
 
 #### (1) Federal share
 
-&emsp;Grants to coastal States of matching moneys by the Director for any fiscal year to carry out coastal wetlands conservation projects shall be used for the payment of not to exceed 50 percent of the total costs of such projects: except that such matching moneys may be used for payment of not to exceed 75 percent of the costs of such projects if a coastal State has established and is using one of the following for the purpose of acquiring coastal wetlands, other natural areas or open spaces:
+&emsp;Grants to coastal States of matching moneys by the Director for any fiscal year to carryout coastal wetlands conservation projects shall be used for the payment of not to exceed 50 percent of the total costs of such projects: except that such matching moneys may be used for payment of not to exceed 75 percent of the costs of such projects if a coastal State has established and is using one of the following for the purpose of acquiring coastal wetlands, other natural areas or open spaces:
 
 &emsp;&emsp;(A) a trust fund from which the principal is not spent; or
 
@@ -48,7 +48,7 @@ The Director shall, with the funds made available in accordance with section 395
 
 #### Amendments
 
-1991—Subsec. (d)(1). Pub. L. 102–212 substituted “has established and is using one of the following for the purpose of acquiring coastal wetlands, other natural areas or open spaces:
+<b>1991</b>—Subsec. (d)(1). Pub. L. 102–212 substituted “has established and is using one of the following for the purpose of acquiring coastal wetlands, other natural areas or open spaces:
 
 &emsp;“(A) a trust fund from which the principal is not spent; or
 

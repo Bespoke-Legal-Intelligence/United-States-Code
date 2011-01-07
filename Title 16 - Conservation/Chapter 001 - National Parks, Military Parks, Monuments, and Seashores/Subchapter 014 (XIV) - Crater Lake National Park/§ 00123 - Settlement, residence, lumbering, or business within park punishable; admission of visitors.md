@@ -6,7 +6,7 @@ It shall be unlawful for any person to establish any settlement or residence wit
 
 #### Amendments
 
-1976—Pub. L. 94–429 struck out provision that the park be open, under the supervision of the Secretary of the Interior, to the location and working of mining claims.
+<b>1976</b>—Pub. L. 94–429 struck out provision that the park be open, under the supervision of the Secretary of the Interior, to the location and working of mining claims.
 
 #### Mining Rights Existing Prior to 1976 Amendment
 

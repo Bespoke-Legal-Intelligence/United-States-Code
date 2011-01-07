@@ -16,19 +16,19 @@ Except as provided in section 906, a nonresident alien individual shall not be a
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–369 substituted reference to section “33” for “32” and “34” for “39”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted reference to section “33” for “32” and “34” for “39”.
 
-1983—Subsec. (a). Pub. L. 97–424 substituted “and special fuels” for “, special fuels, and lubricating oil”.
+<b>1983</b>—Subsec. (a). Pub. L. 97–424 substituted “and special fuels” for “, special fuels, and lubricating oil”.
 
-1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1970—Subsec. (a). Pub. L. 91–258 included provision against construction of subsec. (a) to deny credit provided by section 39 for certain uses of special fuels.
+<b>1970</b>—Subsec. (a). Pub. L. 91–258 included provision against construction of subsec. (a) to deny credit provided by section 39 for certain uses of special fuels.
 
-1966—Subsec. (a). Pub. L. 89–809, §103(d), struck out “of his total income received from all sources in the United States” after “true and accurate return”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–809, §103(d), struck out “of his total income received from all sources in the United States” after “true and accurate return”.
 
 Subsec. (c). Pub. L. 89–809, §106(a)(3), substituted “Foreign tax credit” for “Foreign tax credit not allowed” in heading and inserted reference to an exception provided in section 906.
 
-1965—Subsec. (a). Pub. L. 89–44 inserted “or the credit provided by section 39 for certain uses of gasoline and lubricating oil”.
+<b>1965</b>—Subsec. (a). Pub. L. 89–44 inserted “or the credit provided by section 39 for certain uses of gasoline and lubricating oil”.
 
 #### Effective Date of 1984 Amendment
 

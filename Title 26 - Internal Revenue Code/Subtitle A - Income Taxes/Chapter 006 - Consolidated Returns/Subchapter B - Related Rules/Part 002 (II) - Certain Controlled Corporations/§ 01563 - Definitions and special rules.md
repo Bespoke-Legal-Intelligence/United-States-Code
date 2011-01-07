@@ -26,7 +26,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### (4) Certain insurance companies
 
-&emsp;Two or more insurance companies subject to taxation under section 801 which are membersof a controlled group of corporations described in paragraph (1), (2), or (3). Such insurance companies shall be treated as a controlled group of corporations separate from any other corporations which are members of the controlled group of corporations described in paragraph (1), (2), or (3).
+&emsp;Two or more insurance companies subject to taxation under section 801 which are members of a controlled group of corporations described in paragraph (1), (2), or (3). Such insurance companies shall be treated as a controlled group of corporations separate from any other corporations which are members of the controlled group of corporations described in paragraph (1), (2), or (3).
 
 #### (b) Component member
 
@@ -66,7 +66,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### (4) Overlapping groups
 
-&emsp;If a corporation is a component member of more than one controlled group of corporations with respect to any taxable year, such corporation shall be treated as a component member of only one controlled group. The determination as to the group of which such corporation is a component member shall be made under regulations prescribed by the Secretary which are consistent with the purposes of this part.
+&emsp;If a corporation is a component member of more than one controlled group of corporations with respect to any taxable year, such corporation shall be treated as a componentmember of only one controlled group. The determination as to the group of which such corporation is a component member shall be made under regulations prescribed by the Secretary which are consistent with the purposes of this part.
 
 #### (c) Certain stock excluded
 
@@ -152,7 +152,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 &emsp;&emsp;(B) The individual is not a director or employee and does not participate in the management of such corporation at any time during such taxable year;
 
-&emsp;&emsp;(C) Not more than 50 percent of such corporation's gross income for such taxableyear was derived from royalties, rents, dividends, interest, and annuities; and
+&emsp;&emsp;(C) Not more than 50 percent of such corporation's gross income for such taxable year was derived from royalties, rents, dividends, interest, and annuities; and
 
 &emsp;&emsp;(D) Such stock in such corporation is not, at any time during such taxable year, subject to conditions which substantially restrict or limit the spouse's right to dispose of such stock and which run in favor of the individual or his children who have not attained the age of 21 years.
 
@@ -192,7 +192,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 &emsp;&emsp;(A) If stock may be considered as owned by a person under subsection (e)(1) and under any other paragraph of subsection (e), it shall be considered as owned by him under subsection (e)(1).
 
-&emsp;&emsp;(B) If stock is owned (within the meaning of subsection (d)) by two or more persons, such stock shall be considered as owned by the person whose ownership of such stock results in the corporation being a component member of a controlled group. If by reason of the preceding sentence, a corporation would (but for this sentence) become a component member of two controlled groups, it shall be treated as a component member of one controlled group. The determination as to the group of which such corporation is a component member shall be made under regulations prescribed by the Secretary which are consistent with the purposes of this part.
+&emsp;&emsp;(B) If stock is owned (within the meaning of subsection (d)) by two or more persons,such stock shall be considered as owned by the person whose ownership of such stock results in the corporation being a component member of a controlled group. If by reason of the preceding sentence, a corporation would (but for this sentence) become a component member of two controlled groups, it shall be treated as a component member of one controlled group. The determination as to the group of which such corporation is a component member shall be made under regulations prescribed by the Secretary which are consistent with the purposes of this part.
 
 &emsp;&emsp;(C) If stock is owned by a person within the meaning of subsection (d) and such ownership results in the corporation being a component member of a controlled group, such stock shall not be treated as excluded stock under subsection (c)(2), if by reason of treating such stock as excluded stock the result is that such corporation is not a component member of a controlled group of corporations.
 
@@ -240,21 +240,21 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### Amendments
 
-2004—Subsec. (a)(2). Pub. L. 108–357, §900(a), substituted “possessing” for “possessing—”, struck out “(B)” before “more than 50 percent of the total combined voting power”, and struck out subpar. (A) which read as follows: “at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of the stock of each corporation, and”.
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–357, §900(a), substituted “possessing” for “possessing—”, struck out “(B)” before “more than 50 percent of the total combined voting power”, and struck out subpar. (A) which read as follows: “at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of the stock of each corporation, and”.
 
 Subsec. (f)(5). Pub. L. 108–357, §900(b), added par. (5).
 
-1988—Subsec. (d)(1)(B). Pub. L. 100–647 substituted “paragraphs (1), (2), and (3) of subsection (e)” for “subsection (e)(1)”.
+<b>1988</b>—Subsec. (d)(1)(B). Pub. L. 100–647 substituted “paragraphs (1), (2), and (3) of subsection (e)” for “subsection (e)(1)”.
 
-1986—Subsec. (b)(2)(D). Pub. L. 99–514 struck out “or section 821” after “section 801”.
+<b>1986</b>—Subsec. (b)(2)(D). Pub. L. 99–514 struck out “or section 821” after “section 801”.
 
-1984—Subsecs. (a)(4), (b)(2)(D). Pub. L. 98–369 substituted “section 801” for “section 802”.
+<b>1984</b>—Subsecs. (a)(4), (b)(2)(D). Pub. L. 98–369 substituted “section 801” for “section 802”.
 
-1976—Subsecs. (b)(4), (f)(3)(B). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (b)(4), (f)(3)(B). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1970—Subsec. (f)(1). Pub. L. 91–373 substituted “by paragraphs (1) and (2) of section 2131(d)” for “in section 3306(i)”.
+<b>1970</b>—Subsec. (f)(1). Pub. L. 91–373 substituted “by paragraphs (1) and (2) of section 2131(d)” for “in section 3306(i)”.
 
-1969—Subsec. (a)(2). Pub. L. 91–172, §401(c), redesignated existing provisions with minor changes as par. (A) and added par. (B).
+<b>1969</b>—Subsec. (a)(2). Pub. L. 91–172, §401(c), redesignated existing provisions with minor changes as par. (A) and added par. (B).
 
 Subsec. (c)(2)(A)(iv). Pub. L. 91–172, §401(d)(1), added cl. (iv).
 

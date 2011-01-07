@@ -44,15 +44,15 @@ Another prior section 437 of Pub. L. 90–247 was renumbered section 447, and wa
 
 #### Amendments
 
-1994—Pub. L. 103–437, which directed that section 431(b)(2)(B), (d)(2), and (g) of Pub. L. 90–247 be amended by substituting “Labor and Human Resources” for“Labor and Public Welfare”, could not be executed because this section, which was section 431 of Pub. L. 90–247, was renumbered section 437 and amended generally by Pub. L. 103–382.
+<b>1994</b>—Pub. L. 103–437, which directed that section 431(b)(2)(B), (d)(2), and (g) of Pub. L. 90–247 be amended by substituting “Labor and Human Resources” for “Labor and Public Welfare”, could not be executed because this section, which was section 431 of Pub. L. 90–247, was renumbered section 437 and amended generally by Pub. L. 103–382.
 
 Pub. L. 103–382, §247, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (g) relating to promulgation of regulations by Secretary, and their publication, application, disapproval by Congress, and modification subsequent to disapproval.
 
-1981—Subsec. (d)(1). Pub. L. 97–35 substituted “final regulation (except expected family contribution schedules and any amendments thereto promulgated pursuant to sections 1078(a)(2)(D) and (E) and 1089(a)(1) of this title) as required” for “final regulation as required”.
+<b>1981</b>—Subsec. (d)(1). Pub. L. 97–35 substituted “final regulation (except expected family contribution schedules and any amendments thereto promulgated pursuant to sections 1078(a)(2)(D) and (E) and 1089(a)(1) of this title) as required” for “final regulation as required”.
 
-1980—Subsec. (d)(1). Pub. L. 96–374 inserted “, in whole or in part” after “disapprove such final regulation”.
+<b>1980</b>—Subsec. (d)(1). Pub. L. 96–374 inserted “, in whole or in part” after “disapprove such final regulation”.
 
-1976—Subsec. (a). Pub. L. 94–482, §405(a), added par. (1), designated existing provisions which constituted entire subsec. (a) as par. (2) and, as so redesignated, struck out applicability to rules, guidelines, interpretations, or orders.
+<b>1976</b>—Subsec. (a). Pub. L. 94–482, §405(a), added par. (1), designated existing provisions which constituted entire subsec. (a) as par. (2) and, as so redesignated, struck out applicability to rules, guidelines, interpretations, or orders.
 
 Subsec. (b)(1). Pub. L. 94–482, §405(b)(1), substituted “proposed regulation” for “standard, rule, regulation, or requirement of general applicability”.
 
@@ -68,11 +68,11 @@ Subsec. (e). Pub. L. 94–482, §405(e), substituted “regulation” for “sta
 
 Subsec. (g). Pub. L. 94–482, §405(f), substituted “final regulations” for “rules, regulations, and guidelines” wherever appearing.
 
-1975—Subsec. (d)(1). Pub. L. 94–142, §7(a)(1), (b), inserted “final” before “standard” wherever appearing in existing provisions and inserted provisions covering the effect of the failure of Congress to adopt the concurrent resolution with respect to any final standard, rule, regulation, or requirement.
+<b>1975</b>—Subsec. (d)(1). Pub. L. 94–142, §7(a)(1), (b), inserted “final” before “standard” wherever appearing in existing provisions and inserted provisions covering the effect of the failure of Congress to adopt the concurrent resolution with respect to any final standard, rule, regulation, or requirement.
 
 Subsec. (d)(2). Pub. L. 94–142, §7(a)(2), (3), substituted “objection to the final standard” for “objection to the proposed standard”, “effective date of the final standard” for “effective date of the standard”, and “In no event shall the final standard” for “In no event shall the standard”.
 
-1974—Subsec. (b). Pub. L. 93–380, §509(a)(1), designated existing provisions as par. (1) and added par. (2).
+<b>1974</b>—Subsec. (b). Pub. L. 93–380, §509(a)(1), designated existing provisions as par. (1) and added par. (2).
 
 Subsecs. (d) to (g). Pub. L. 93–380, §509(a)(2), added subsecs. (d) to (g).
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except eith
 
 Section 8 of Pub. L. 94–142 provided that:
 
-“(a) Notwithstanding any other provision of law, the amendments made by sections 2(a), 2(b), and 2(c) \[amending sections 1411 and 1412 of this title as in effect through Sept. 30, 1977, and amending provisions set out as notes under sections 1411 to 1413 of this title\] shall take effect on July 1, 1975.
+“(a) Notwithstanding any other provision of law, the amendments made by sections 2(a), 2(b), and 2(c)\[amending sections 1411 and 1412 of this title as in effect through Sept. 30, 1977, and amending provisions set out as notes under sections 1411 to 1413 of this title\] shall take effect on July 1, 1975.
 
 “(b) The amendments made by sections 2(d), 2(e), 3, 6, and 7 \[enacting sections 1405 and 1406 of this title, amending this section and sections 1412 and 1453 of this title, enacting provisions set out as a note under section 1411 of this title, and amending provisions set out as a note under section 1401 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1975\].
 

@@ -18,7 +18,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1980—Pub. L. 96–181 inserted additional declarations of policy prescribing methods and programs by which the goals are to be reached.
+<b>1980</b>—Pub. L. 96–181 inserted additional declarations of policy prescribing methods and programs by which the goals are to be reached.
 
-1976—Pub. L. 94–237 substituted “objective of significantly reducing the incidence, as well as the social and personal costs, of drug abuse in the United States, and to develop and assure the implementation of” for “immediate objective of significantly reducing the incidence of drug abuse in the United States within the shortest possible period of time, and to develop”.
+<b>1976</b>—Pub. L. 94–237 substituted “objective of significantly reducing the incidence, as well as the social and personal costs, of drug abuse in the United States, and to develop and assure the implementation of” for “immediate objective of significantly reducing the incidence of drug abuse in the United States within the shortest possible period of time, and to develop”.
 

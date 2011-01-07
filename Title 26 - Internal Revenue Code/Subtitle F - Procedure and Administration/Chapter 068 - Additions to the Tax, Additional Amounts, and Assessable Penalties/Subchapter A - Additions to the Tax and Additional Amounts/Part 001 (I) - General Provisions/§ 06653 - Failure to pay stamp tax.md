@@ -12,9 +12,9 @@ Any person (as defined in section 6671(b)) who—
 
 #### Amendments
 
-1989—Pub. L. 101–239 substituted “Failure to pay stamp tax” for “Additions to tax for negligence and fraud” in section catchline and amended text generally, substituting a single par. for former subsecs. (a) to (g).
+<b>1989</b>—Pub. L. 101–239 substituted “Failure to pay stamp tax” for “Additions to tax for negligence and fraud” in section catchline and amended text generally, substituting a single par. for former subsecs. (a) to (g).
 
-1988—Subsec. (a)(1). Pub. L. 100–647, §1015(b)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “If any part of any underpayment (as defined in subsection (c)) is due to negligence or disregard of rules or regulations, there shall be added to the tax an amount equal to the sum of—
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647, §1015(b)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “If any part of any underpayment (as defined in subsection (c)) is due to negligence or disregard of rules or regulations, there shall be added to the tax an amount equal to the sum of—
 
 &emsp;“(A) 5 percent of the underpayment, and
 
@@ -28,7 +28,7 @@ Subsec. (b)(1). Pub. L. 100–647, §1015(b)(2)(B), amended par. (1) generally. 
 
 Subsec. (g). Pub. L. 100–647, §1015(b)(3), inserted at end “If any penalty is imposed under subsection (a) by reason of the preceding sentence, only the portion of the underpayment which is attributable to the failure described in the preceding sentence shall be taken into account in determining the amount of the penalty under subsection (a).”
 
-1986—Pub. L. 99–514, §1503(d)(1), substituted “Additions to tax for negligence and fraud” for “Failure to pay tax” in section catchline.
+<b>1986</b>—Pub. L. 99–514, §1503(d)(1), substituted “Additions to tax for negligence and fraud” for “Failure to pay tax” in section catchline.
 
 Subsec. (a). Pub. L. 99–514, §1503(a), added subsec. (a) and struck out former subsec. (a) which added percentage to tax due for underpayment of taxes where negligence or intentional disregard of rules and regulations with respect to income, gift, or windfall profit taxes was involved, and also provided additional interest penalty for portion of underpayment attributable to negligence, etc.
 
@@ -40,11 +40,11 @@ Subsec. (f). Pub. L. 99–514, §1503(c)(3), struck out “or intentional disreg
 
 Subsec. (g). Pub. L. 99–514, §1503(b), amended subsec. (g) generally, substituting provisions relating to special rule for amounts shown on information returns for provisions relating to special rule in case of interest or dividend payments, and struck out provision that penalty was to apply only to portion of underpayment due to failure to include interest or dividend payment.
 
-1985—Subsec. (h). Pub. L. 99–44 repealed Pub. L. 98–369, §179(b)(3), which added subsec. (h), and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered as if section 179(b)(3) (and the amendments made by such section) had not been enacted. See 1984 Amendment note and Effective Date of 1985 Amendment note below.
+<b>1985</b>—Subsec. (h). Pub. L. 99–44 repealed Pub. L. 98–369, §179(b)(3), which added subsec. (h), and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered as if section 179(b)(3) (and the amendments made by such section) had not been enacted. See 1984 Amendment note and Effective Date of 1985 Amendment note below.
 
-1984—Subsec. (h). Pub. L. 98–369 added subsec. (h) which provided for a special rule in the case of underpayment attributable to failure to meet the substantiation requirements of section 274(d) of this title. See 1985 Amendment note above.
+<b>1984</b>—Subsec. (h). Pub. L. 98–369 added subsec. (h) which provided for a special rule in the case of underpayment attributable to failure to meet the substantiation requirements of section 274(d) of this title. See 1985 Amendment note above.
 
-1983—Subsec. (a)(2)(B). Pub. L. 97–448, §107(a)(3), inserted “(or, if earlier, the date of the payment of the tax)” after “assessment of the tax”.
+<b>1983</b>—Subsec. (a)(2)(B). Pub. L. 97–448, §107(a)(3), inserted “(or, if earlier, the date of the payment of the tax)” after “assessment of the tax”.
 
 Subsec. (f). Pub. L. 97–448, §105(a)(1)(D), redesignated subsec. (g), added by Pub. L. 97–34, as (f) and substituted “unrecognized gain” for “unrealized gain” in heading.
 
@@ -52,23 +52,23 @@ Subsec. (g). Pub. L. 98–67 added subsec. (g).
 
 Pub. L. 97–448, §105(a)(1)(D), redesignated subsec. (g), added by Pub. L. 97–34, as (f).
 
-1982—Subsec. (b). Pub. L. 97–248 designated first sentence of existing provisions as par. (1) with heading “In general”, struck out second sentence which provided that in the case of income taxes and gift taxes, the amount under this subsec. shall be in lieu of any amount determined under subsec. (a), added pars. (2) and (3), designated last sentence as par. (4) with heading “Special rule for joint returns”, and in par. (4) as so designated substituted “of the spouse” for “of a spouse”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–248 designated first sentence of existing provisions as par. (1) with heading “In general”, struck out second sentence which provided that in the case of income taxes and gift taxes, the amount under this subsec. shall be in lieu of any amount determined under subsec. (a), added pars. (2) and (3), designated last sentence as par. (4) with heading “Special rule for joint returns”, and in par. (4) as so designated substituted “of the spouse” for “of a spouse”.
 
-1981—Subsec. (a). Pub. L. 97–34, §722(b)(1), designated existing provisions as par. (1), inserted heading, struck out “(relating to income taxes and gift taxes)”, and added par. (2) after “subtitle B”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–34, §722(b)(1), designated existing provisions as par. (1), inserted heading, struck out “(relating to income taxes and gift taxes)”, and added par. (2) after “subtitle B”.
 
 Subsec. (g). Pub. L. 97–34, §501(b), added subsec. (g).
 
-1980—Subsec. (a). Pub. L. 96–223 substituted “, gift, or windfall profit taxes” for “or gift taxes” in heading, and in text substituted “,” for “or” before “by chapter 12” and inserted “, or by chapter 45 (relating to windfall profit tax)” before “is due to negligence”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–223 substituted “, gift, or windfall profit taxes” for “or gift taxes” in heading, and in text substituted “,” for “or” before “by chapter 12” and inserted “, or by chapter 45 (relating to windfall profit tax)” before “is due to negligence”.
 
-1974—Subsec. (c)(1). Pub. L. 93–406 substituted “certain excise” for “chapter 42” in heading and text.
+<b>1974</b>—Subsec. (c)(1). Pub. L. 93–406 substituted “certain excise” for “chapter 42” in heading and text.
 
-1971—Subsec. (b). Pub. L. 91–679 inserted sentence making subsection inapplicable, in the case of a joint return under section 6013 of this title, with respect to the tax of a spouse unless some part of the underpayment is due to the fraud of such spouse.
+<b>1971</b>—Subsec. (b). Pub. L. 91–679 inserted sentence making subsection inapplicable, in the case of a joint return under section 6013 of this title, with respect to the tax of a spouse unless some part of the underpayment is due to the fraud of such spouse.
 
-1969—Subsec. (c)(1). Pub. L. 91–172, §101(j)(50), inserted reference to chapter 42 taxes in heading and text.
+<b>1969</b>—Subsec. (c)(1). Pub. L. 91–172, §101(j)(50), inserted reference to chapter 42 taxes in heading and text.
 
 Subsec. (d). Pub. L. 91–172, §943(c)(6), inserted “or pay tax” after “such return”.
 
-1958—Subsec. (c)(1). Pub. L. 85–866, inserted “on or” after “such return was filed”.
+<b>1958</b>—Subsec. (c)(1). Pub. L. 85–866, inserted “on or” after “such return was filed”.
 
 #### Effective Date of 1989 Amendment
 

@@ -14,7 +14,7 @@ Protection Order.—A protection order issued by a State, tribal, or territorial
 
 (c)
 
-Cross or Counter Petition.—A protection order issued by a State, tribal, or territorial court against one who has petitioned, filed a complaint, or otherwise filed a written pleadingfor protection against abuse by a spouse or intimate partner is not entitled to full faith and credit if—
+Cross or Counter Petition.—A protection order issued by a State, tribal, or territorial court against one who has petitioned, filed a complaint, or otherwise filed a written pleading for protection against abuse by a spouse or intimate partner is not entitled to full faith and credit if—
 
 &emsp;(1) no cross or counter petition, complaint, or other written pleading was filed seeking such a protection order; or
 
@@ -44,7 +44,7 @@ Tribal Court Jurisdiction.—For purposes of this section, a tribal court shall 
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–162, §106(a)(1), (b), substituted “, Indian tribe, or territory” for “or Indian tribe” wherever appearing and “and enforced by the court and law enforcement personnel of the other State, Indian tribal government or Territory as if it were” for “and enforced as if it were”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–162, §106(a)(1), (b), substituted “, Indian tribe, or territory” for “or Indian tribe” wherever appearing and “and enforced by the court and law enforcement personnel of the other State, Indian tribal government or Territory as if it were” for “and enforced as if it were”.
 
 Subsec. (b). Pub. L. 109–162, §106(a)(2), substituted “State, tribal, or territorial” for “State or tribal” in introductory provisions.
 
@@ -62,7 +62,7 @@ Subsec. (d)(3). Pub. L. 109–271, which directed amendment of section 106(c) of
 
 Pub. L. 109–162, §106(c), added par. (3).
 
-2000—Subsecs. (d), (e). Pub. L. 106–386 added subsecs. (d) and (e).
+<b>2000</b>—Subsecs. (d), (e). Pub. L. 106–386 added subsecs. (d) and (e).
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

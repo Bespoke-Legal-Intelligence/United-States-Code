@@ -26,7 +26,7 @@ For purposes of this section, the term “transitional area” means, subject to
 
 #### (B) Permitting margin of error applicable to certain metropolitan areas
 
-&emsp;&emsp;In applying subparagraph (A)(ii) for a fiscal year after fiscal year 2008, in the case of a metropolitan area that has a cumulative total of at least 1,400 (and fewer than 1,500) living cases of AIDS as of December 31 of the most recent calendar year for which such data is available, such area shall be treated as having met the criteria of such subparagraph if not more than 5 percent of the total from grants awarded to such area under this part is unobligated as of the end of the most recent fiscal year for which such data is available.
+&emsp;&emsp;In applying subparagraph (A)(ii) for a fiscal year after fiscal year 2008, in the case of a metropolitan area that has a cumulative total of at least 1,400 (and fewer than 1,500)living cases of AIDS as of December 31 of the most recent calendar year for which such data is available, such area shall be treated as having met the criteria of such subparagraph if not more than 5 percent of the total from grants awarded to such area under this part is unobligated as of the end of the most recent fiscal year for which such data is available.
 
 #### (C) Exception regarding status as eligible area
 
@@ -72,7 +72,7 @@ For purposes of this section, the term “transitional area” means, subject to
 
 #### Amendments
 
-2009—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
 Subsec. (c)(1). Pub. L. 111–87, §4(a)(1), in heading substituted “2011” for “2007” and in text substituted “2011” for “2007” in two places and “2010” for “2006”.
 
@@ -84,7 +84,7 @@ Subsec. (c)(2)(C). Pub. L. 111–87, §4(a)(2)(B), (D), redesignated subpar. (B)
 
 Subsec. (d)(1)(B). Pub. L. 111–87, §4(a)(3), substituted “2013” for “2009”.
 
-2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+<b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

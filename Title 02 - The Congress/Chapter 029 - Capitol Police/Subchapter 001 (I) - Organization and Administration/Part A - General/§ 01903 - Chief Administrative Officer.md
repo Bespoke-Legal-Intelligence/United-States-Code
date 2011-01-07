@@ -1,18 +1,18 @@
 ### §1903. Chief Administrative Officer
 
-#### (a) In general
+#### (a) Chief Administrative Officer
 
-There shall be within the Capitol Police an Office of Administration to be headed by a Chief Administrative Officer as follows:
+#### (1) Establishment
 
-&emsp;(1) Not later than 60 days after December 21, 2000, the Chief Administrative Officer shall beappointed by the Chief of the Capitol Police after consultation with the Capitol Police Board and the Comptroller General, and shall report to and serve at the pleasure of the Chief of the Capitol Police.
+&emsp;There shall be within the United States Capitol Police an Office of Administration, to be headed by the Chief Administrative Officer, who shall report to and serve at the pleasure of the Chief of the Capitol Police.
 
-&emsp;(2) The Comptroller General shall evaluate the performance of the Chief Administrative Officer in carrying out the duties and responsibilities of the Office of Administration as outlined in this section. The Comptroller General shall meet with the Chief of the Capitol Police and the Capitol Police Board at least quarterly to provide an analysis of the performance of the Chief Administrative Officer. The Comptroller General shall report the results of the evaluation to the Chief of the Capitol Police, the Capitol Police Board, the Committees on Appropriations of the House of Representatives and Senate, the Committee on House Administration of the House of Representatives, and the Committee on Rules and Administration of the Senate.
+#### (2) Appointment
 
-&emsp;(3) The Chief of the Capitol Police shall appoint as Chief Administrative Officer an individual with the knowledge and skills necessary to carry out the responsibilities for budgeting, financial management, information technology, and human resource management described in this section.
+&emsp;The Chief Administrative Officer shall be appointed by the Chief of the United States Capitol Police, after consultation with the Capitol Police Board, without regard to political affiliation and solely on the basis of fitness to perform the duties of the position.
 
-&emsp;(4) The annual rate of pay for the Chief Administrative Officer shall be the amount equal to $1,000 less than the annual rate of pay in effect for the Chief of the Capitol Police.
+#### (3) Compensation
 
-&emsp;(5) The Capitol Police shall reimburse from available appropriations any costs incurred by the Comptroller General under this section, which shall be deposited to the appropriation of the Government Accountability Office then available and remain available until expended.
+&emsp;The annual rate of pay for the Chief Administrative Officer shall be the amount equal to $1,000 less than the annual rate of pay in effect for the Chief of the Capitol Police.
 
 #### (b) Responsibilities
 
@@ -76,45 +76,19 @@ The Chief Administrative Officer shall have the following areas of responsibilit
 
 &emsp;&emsp;(C) develop and monitor processes for recruiting, selecting, appraising, and promoting employees.
 
-#### (c) Administrative provisions
-
-#### (1) Personnel
-
-&emsp;The Chief Administrative Officer is authorized to select, appoint, employ, and discharge such officers and employees as may be necessary to carry out the functions, powers, and duties of the Office of Administration, but shall not have the authority to hire or discharge uniformed and operational police force personnel.
-
-#### (2) Resources of other agencies
-
-&emsp;The Chief Administrative Officer may utilize resources of another agency on a reimbursable basis to be paid from available appropriations of the Capitol Police.
-
-#### (d) Plan
-
-No later than 180 days after appointment, the Chief Administrative Officer shall prepare and submit to Chief of the Capitol Police, the Capitol Police Board, and the Comptroller General, a plan—
-
-&emsp;(1) describing the policies, procedures, and actions the Chief Administrative Officer will take in carrying out the responsibilities assigned under this section;
-
-&emsp;(2) identifying and defining responsibilities and roles of all offices, bureaus, and divisions of the Capitol Police for budgeting, financial management, information technology, and human resources management; and
-
-&emsp;(3) detailing mechanisms for ensuring that the offices, bureaus, and divisions perform their responsibilities and roles in a coordinated and integrated manner.
-
-#### (e) Report
-
-No later than September 30, 2001, the Chief Administrative Officer shall prepare and submit to the Chief of the Capitol Police, the Capitol Police Board, and the Comptroller General, a report on the Chief Administrative Officer's progress in implementing the plan described in subsection (d) of this section and recommendations to improve the budgeting, financial, information technology, and human resources management of the Capitol Police, including organizational, accounting and administrative control, and personnel changes.
-
-#### (f) Submission to Committees
-
-The Chief of the Capitol Police shall submit the plan required in subsection (d) of this section and report required in subsection (e) of this section to the Committees on Appropriations of the House of Representatives and of the Senate, the Committee on House Administration of the House of Representatives, and the Committee on Rules and Administration of the Senate.
-
-#### (g) Termination of role
-
-As of October 1, 2002, the role of the Comptroller General, as established by this section, will cease.
-
-(Pub. L. 106–554, §1(a)(2) \[title I, §108\], Dec. 21, 2000, 114 Stat. 2763, 2763A–104; Pub. L. 106–346, §101(a) \[title V, §507(a)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–55; Pub. L. 107–68, title I, §122(a), Nov. 12, 2001, 115 Stat. 576; Pub. L. 108–7, div. H, title I, §1013(c), Feb. 20, 2003, 117 Stat. 361; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–55, title I, §1004(g), Aug. 2, 2005, 119 Stat. 575.)
+(Pub. L. 106–554, §1(a)(2) \[title I, §108\], Dec. 21, 2000, 114 Stat. 2763, 2763A–104; Pub. L. 106–346, §101(a) \[title V, §507(a)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–55; Pub. L. 107–68, title I, §122(a), Nov. 12, 2001, 115 Stat. 576; Pub. L. 108–7, div. H, title I, §1013(c), Feb. 20, 2003, 117 Stat. 361; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–55, title I, §1004(g), Aug. 2, 2005, 119 Stat. 575; Pub. L. 111–145, §§2(a)(1), (2), 6(a), Mar. 4, 2010, 124 Stat. 49, 54.)
 
 #### Codification
 
 Section was classified to section 206a–9 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Amendments
+
+2010—Subsec. (a). Pub. L. 111–145, §2(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to the establishment of the Office of Administration and the appointment and compensation of the Chief Administrative Officer.
+
+Subsec. (c). Pub. L. 111–145, §2(a)(2), struck out subsec. (c) which related to the Chief Administrative Officer's employment of personnel and access to resources of other agencies.
+
+Subsecs. (d) to (g). Pub. L. 111–145, §6(a), struck out subsecs. (d) to (g) which related to a plan for office policies, procedures, and actions, a report on progress made in such planning, submission of the plan and report to the appropriate congressional committees, and termination of the role of the Comptroller General.
 
 2005—Subsec. (b)(2)(D). Pub. L. 109–55 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “shall prepare annual financial statements for the Capitol Police and provide for an annual audit of the financial statements by an independent public accountant in accordance with generally accepted government auditing standards.”
 
@@ -141,6 +115,10 @@ Pub. L. 107–68, title I, §122(b), Nov. 12, 2001, 115 Stat. 576, provided that
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–346, §101(a) \[title V, §507(b)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–57, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2001 \[H.R. 5657, as enacted by section 1(a)(2) of Pub. L. 106–554\].”
+
+#### Construction of 2010 Amendment
+
+Pub. L. 111–145, §2(a)(6), Mar. 4, 2010, 124 Stat. 50, provided that: “Nothing in the amendments made by this subsection \[amending this section and sections 1301, 1904, and 1907 of this title and repealing sections 1928 and 1929 of this title\] may be construed to affect the status of any individual serving as an officer or employee of the United States Capitol Police as of the date of the enactment of this Act \[Mar. 4, 2010\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

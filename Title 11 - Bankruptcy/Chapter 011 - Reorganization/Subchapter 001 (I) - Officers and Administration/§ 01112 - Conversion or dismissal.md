@@ -8,13 +8,13 @@
 
 &emsp;(3) the case was converted to a case under this chapter other than on the debtor's request.
 
-(b)(1) Except as provided in paragraph (2) of this subsection, subsection (c) of this section, and section 1104(a)(3), on request of a party in interest, and after notice and a hearing, absent unusual circumstances specifically identified by the court that establish that the requested conversion or dismissal is not in the best interests of creditors and the estate, the court shall convert a case under this chapter to a case under chapter 7 or dismiss a case under this chapter, whichever is in the best interests of creditors and the estate, if the movant establishes cause.
+(b)(1) Except as provided in paragraph (2) and subsection (c), on request of a party in interest, and after notice and a hearing, the court shall convert a case under this chapter to a case under chapter 7 or dismiss a case under this chapter, whichever is in the best interests of creditors and the estate, for cause unless the court determines that the appointment under section 1104(a) of a trustee or an examiner is in the best interests of creditors and the estate.
 
-(2) The relief provided in paragraph (1) shall not be granted absent unusual circumstances specifically identified by the court that establish that such relief is not in the best interests of creditors and the estate, if the debtor or another party in interest objects and establishes that—
+(2) The court may not convert a case under this chapter to a case under chapter 7 or dismiss a case under this chapter if the court finds and specifically identifies unusual circumstances establishing that converting or dismissing the case is not in the best interests of creditors and the estate, and the debtor or any other party in interest establishes that—
 
 &emsp;(A) there is a reasonable likelihood that a plan will be confirmed within the timeframes established in sections 1121(e) and 1129(e) of this title, or if such sections do not apply, within a reasonable period of time; and
 
-&emsp;(B) the grounds for granting such relief include an act or omission of the debtor other than under paragraph (4)(A)—
+&emsp;(B) the grounds for converting or dismissing the case include an act or omission of the debtor other than under paragraph (4)(A)—
 
 &emsp;&emsp;(i) for which there exists a reasonable justification for the act or omission; and
 
@@ -66,11 +66,11 @@
 
 &emsp;(3) if the debtor requests conversion to chapter 12 of this title, such conversion is equitable.
 
-(e) Except as provided in subsections (c) and (f), the court, on request of the United States trustee, may convert a case under this chapter to a case under chapter 7 of this title or may dismiss a case under this chapter, whichever is in the best interest of creditors and the estate if the debtor in a voluntary case fails to file, within fifteen days after the filing of the petition commencing such case or such additional time as the court may allow, the information required by paragraph (1) of section 521, including a list containing the names and addresses of the holders of the twenty largest unsecured claims (or of all unsecured claims if there are fewer than twenty unsecured claims), and the approximate dollar amounts of each of such claims.
+(e) Except as provided in subsections (c) and (f), the court, on request of the United States trustee, may convert a case under this chapter to a case under chapter 7 of this title or may dismiss a case under this chapter, whichever is in the best interest of creditors and the estate if the debtor in a voluntary case fails to file, within fifteen days after the filing of the petition commencing such case or such additional time as the court may allow, the information required by paragraph (1) of section 521(a), including a list containing the names and addresses of the holders of the twenty largest unsecured claims (or of all unsecured claims if there are fewer than twenty unsecured claims), and the approximate dollar amounts of each of such claims.
 
 (f) Notwithstanding any other provision of this section, a case may not be converted to a case under another chapter of this title unless the debtor may be a debtor under such chapter.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2630; Pub. L. 98–353, title III, §505, July 10, 1984, 98 Stat. 384; Pub. L. 99–554, title II, §§224, 256, Oct. 27, 1986, 100 Stat. 3102, 3114; Pub. L. 103–394, title II, §217(c), Oct. 22, 1994, 108 Stat. 4127; Pub. L. 109–8, title IV, §442(a), Apr. 20, 2005, 119 Stat. 115.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2630; Pub. L. 98–353, title III, §505, July 10, 1984, 98 Stat. 384; Pub. L. 99–554, title II, §§224, 256, Oct. 27, 1986, 100 Stat. 3102, 3114; Pub. L. 103–394, title II, §217(c), Oct. 22, 1994, 108 Stat. 4127; Pub. L. 109–8, title IV, §442(a), Apr. 20, 2005, 119 Stat. 115; Pub. L. 111–327, §2(a)(33), Dec. 22, 2010, 124 Stat. 3561.)
 
 #### Historical and Revision Notes
 
@@ -82,7 +82,7 @@ Sections 1112(c) and 1112(d) of the House amendment is derived from the House bi
 
 #### senate report no. 95–989
 
-This section brings together all of the conversion and dismissal rules for chapter 11 cases. Subsection (a) gives the debtor an absolute right to convert a voluntarily commenced chapter 11 case in which the debtor remains in possession to a liquidation case.
+This section brings together all of the conversion and dismissal rules for chapter 11 cases. Subsection (a)gives the debtor an absolute right to convert a voluntarily commenced chapter 11 case in which the debtor remains in possession to a liquidation case.
 
 Subsection (b) gives wide discretion to the court to make an appropriate disposition of the case sua sponte or upon motion of a party in interest, or the court is permitted to convert a reorganization case to a liquidation case or to dismiss the case, whichever is in the best interest of creditors and the estate, but only for cause. Cause may include the continuing loss to or dimunition \[sic\] of the estate of an insolvent debtor, the absence of a reasonable likelihood of rehabilitation, the inability to effectuate a plan, unreasonable delay by the debtor that is prejudicial to creditors, failure to file a plan within the appropriate time limits, denial of confirmation and any opportunity to modify or propose a new plan, revocation of confirmation and denial of confirmation of a modified plan, inability to effectuate substantial consummation of a confirmed plan, material default by the debtor under the plan, and termination of the plan by reason of the occurrence of a condition specified in the plan. This list is not exhaustive. The court will be able to consider other factors as they arise, and to use its equitable powers to reach an appropriate result in individual cases. The power of the court to act sua sponte should be used sparingly and only in emergency situations.
 
@@ -97,6 +97,14 @@ Subsection (e) reinforces section 109 by prohibiting conversion of a chapter 11 
 The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(4)(G), are set out in the Appendix to this title.
 
 #### Amendments
+
+2010—Subsec. (b)(1). Pub. L. 111–327, §2(a)(33)(A)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Except as provided in paragraph (2) of this subsection, subsection (c) of this section, and section 1104(a)(3), on request of a party in interest, and after notice and a hearing, absent unusual circumstances specifically identified by the court that establish that the requested conversion or dismissal is not in the best interests of creditors and the estate, the court shall convert a case under this chapter to a case under chapter 7 or dismiss a case under this chapter, whichever is in the best interests of creditors and the estate, if the movant establishes cause.”
+
+Subsec. (b)(2). Pub. L. 111–327, §2(a)(33)(A)(ii)(I), inserted introductory provisions and struck out former introductory provisions which read as follows: “The relief provided in paragraph (1) shall not be granted absent unusual circumstances specifically identified by the court that establish that such relief is not in the best interests of creditors and the estate, if the debtor or another party in interest objects and establishes that—”.
+
+Subsec. (b)(2)(B). Pub. L. 111–327, §2(a)(33)(A)(ii)(II), substituted “converting or dismissing the case” for “granting such relief”.
+
+Subsec. (e). Pub. L. 111–327, §2(a)(33)(B), substituted “521(a)” for “521”.
 
 2005—Subsec. (b). Pub. L. 109–8 added subsec. (b) and struck out former subsec. (b) which consisted of introductory provisions and pars. (1) to (10) relating to conversion of cases under this chapter to chapter 7 cases or dismissal for cause in the best interest of creditors and the estate.
 

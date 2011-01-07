@@ -32,9 +32,9 @@ Section was formerly classified to section 78 of this title.
 
 #### Amendments
 
-1978—Subsecs. (b) to (d). Pub. L. 95–445 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+<b>1978</b>—Subsecs. (b) to (d). Pub. L. 95–445 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-1967—Pub. L. 90–201, §7, included the list of animals and prohibited, except in compliance with requirements of this chapter, slaughtering animals or preparation of articles capable of use as human food, sales, transportation, and other transactions, and acts of adulteration or misbranding, incorporating in subsec. (b)(2) existing prohibition on distributions in interstate or foreign commerce of noninspected articles.
+<b>1967</b>—Pub. L. 90–201, §7, included the list of animals and prohibited, except in compliance with requirements of this chapter, slaughtering animals or preparation of articles capable of use as human food, sales, transportation, and other transactions, and acts of adulteration or misbranding, incorporating in subsec. (b)(2) existing prohibition on distributions in interstate or foreign commerce of noninspected articles.
 
 #### Effective Date of 1978 Amendment
 

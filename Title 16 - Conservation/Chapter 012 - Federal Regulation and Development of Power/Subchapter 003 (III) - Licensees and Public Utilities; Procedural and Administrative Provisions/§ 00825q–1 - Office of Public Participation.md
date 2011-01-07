@@ -8,7 +8,7 @@
 
 (3) The Director may appoint, and assign the duties of, employees of such Office, and with the concurrence of the Commission he may fix the compensation of such employees and procure temporary and intermittent services to the same extent as is authorized under section 3109 of title 5.
 
-(b)(1) The Director shall coordinate assistance to the public with respect to authorities exercised by the Commission. The Director shall also coordinate assistance available to persons intervening or participating or proposing to intervene or participate in proceedings before the Commission.
+(b)(1) The Director shall coordinate assistance to the public with respect to authorities exercised by the Commission. The Director shall also coordinate assistance available to personsintervening or participating or proposing to intervene or participate in proceedings before the Commission.
 
 (2) The Commission may, under rules promulgated by it, provide compensation for reasonable attorney's fees, expert witness fees, and other costs of intervening or participating in any proceeding before the Commission to any person whose intervention or participation substantially contributed to the approval, in whole or in part, of a position advocated by such person. Such compensation may be paid only if the Commission has determined that—
 

@@ -20,19 +20,19 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1976—Subsec. (b). Pub. L. 94–329, §106(b)(2)(A), inserted “and military education and training” after “(including civic action)”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–329, §106(b)(2)(A), inserted “and military education and training” after “(including civic action)”.
 
 Subsec. (c). Pub. L. 94–329, §106(b)(2)(B), inserted reference to military education and training programs in two places.
 
-1968—Subsec. (b). Pub. L. 90–629, §45(b)(1), struck out “or sales” before “programs”.
+<b>1968</b>—Subsec. (b). Pub. L. 90–629, §45(b)(1), struck out “or sales” before “programs”.
 
 Subsec. (c). Pub. L. 90–629, §45(b)(2), struck out “and sales” and “or sales” before “programs” and “program”, respectively.
 
-1966—Subsec. (b). Pub. L. 89–583, §302(a)(1), substituted “(including civic action) or sales programs” for “(including any civic action and sales program)”.
+<b>1966</b>—Subsec. (b). Pub. L. 89–583, §302(a)(1), substituted “(including civic action) or sales programs” for “(including any civic action and sales program)”.
 
 Subsec. (c). Pub. L. 89–583, §302(a)(2), substituted “economic assistance and military assistance and sales programs” and “military assistance (including civic action) or sales program” for “the assistance programs authorized by this chapter” and “military assistance program (including civic action and sales program)”, respectively.
 
-1965—Subsec. (b). Pub. L. 89–171, §302(a)(1), inserted “(including any civic action and sales program)”.
+<b>1965</b>—Subsec. (b). Pub. L. 89–171, §302(a)(1), inserted “(including any civic action and sales program)”.
 
 Subsec. (c). Pub. L. 89–171, §302(a)(2), inserted “including any civic action and sales program)”.
 

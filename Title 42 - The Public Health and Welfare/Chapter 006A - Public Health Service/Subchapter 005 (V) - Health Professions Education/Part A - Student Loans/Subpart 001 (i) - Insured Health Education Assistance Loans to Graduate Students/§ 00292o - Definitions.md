@@ -2,7 +2,7 @@
 
 For purposes of this subpart:
 
-&emsp;(1) The term “eligible institution” means, with respect to a fiscal year, a school of medicine, osteopathic medicine, dentistry, veterinary medicine, optometry, podiatric medicine, pharmacy, public health, allied health, or chiropractic, or a graduate program in healthadministration or behavioral and mental health practice, including clinical psychology.
+&emsp;(1) The term “eligible institution” means, with respect to a fiscal year, a school of medicine, osteopathic medicine, dentistry, veterinary medicine, optometry, podiatric medicine, pharmacy, public health, allied health, or chiropractic, or a graduate program in health administration or behavioral and mental health practice, including clinical psychology.
 
 &emsp;(2) The term “eligible lender” means an eligible institution that became a lender under this subpart prior to September 15, 1992, an agency or instrumentality of a State, a financial or credit institution (including an insurance company) which is subject to examination and supervision by an agency of the United States or of any State, a pension fund approved by the Secretary for this purpose, or a nonprofit private entity designated by the State, regulated by the State, and approved by the Secretary.
 
@@ -20,7 +20,7 @@ For purposes of this subpart:
 
 &emsp;&emsp;(ii) the total principal amount of loans insured under this subpart that are made with respect to the entity and that enter repayment status after April 7, 1987.
 
-&emsp;(B) For purposes of subparagraph (A), a loan insured under this subpart shall be considered to have entered repayment status if the applicable period described in subparagraph (B) of section 292d(a)(2) of this title regarding the loan has expired (without regard to whether any period described in subparagraph (C) of such section is applicable regarding the loan).
+&emsp;(B) For purposes of subparagraph (A), a loan insured under this subpart shall be considered to have entered repayment status if the applicable period described in subparagraph (B) of section 292d(a)(2) of this title regarding the loan has expired (without regard to whetherany period described in subparagraph (C) of such section is applicable regarding the loan).
 
 &emsp;(C) For purposes of subparagraph (A), the term “eligible entity” means an eligible institution, an eligible lender, or a holder, as the case may be.
 
@@ -36,5 +36,5 @@ For purposes of this subpart:
 
 #### Amendments
 
-1998—Par. (1). Pub. L. 105–392 substituted “or behavioral and mental health practice, including clinical psychology” for “or clinical psychology”.
+<b>1998</b>—Par. (1). Pub. L. 105–392 substituted “or behavioral and mental health practice, including clinical psychology” for “or clinical psychology”.
 

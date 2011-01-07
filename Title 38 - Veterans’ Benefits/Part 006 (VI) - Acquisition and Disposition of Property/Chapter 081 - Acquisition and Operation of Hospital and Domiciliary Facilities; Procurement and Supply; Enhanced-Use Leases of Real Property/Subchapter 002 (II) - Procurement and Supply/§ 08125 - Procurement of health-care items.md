@@ -40,15 +40,15 @@
 
 #### Amendments
 
-2001—Subsec. (d)(1). Pub. L. 107–14, §8(a)(15)(A), struck out “(beginning in 1992)” after “each year”.
+<b>2001</b>—Subsec. (d)(1). Pub. L. 107–14, §8(a)(15)(A), struck out “(beginning in 1992)” after “each year”.
 
 Subsec. (d)(2). Pub. L. 107–14, §8(a)(15)(B), struck out “(beginning in 1993)” after “each year”.
 
 Subsec. (d)(3). Pub. L. 107–14, §8(a)(15)(C), struck out par. (3) which read as follows: “Not later than February 1 of each year from 1989 through 1992, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the experience in carrying out this section during the preceding fiscal year. The first such report shall contain information showing the percentage (measured by cost) of the total of all health-care items procured by the Department during fiscal year 1988 that were procured through local contracts. The other reports under this paragraph shall contain information showing the percentage (measured by cost) of the total of all health-care items procured by the Department, and by each Department medical center, during the fiscal year covered by the report that were purchased through local contracts and, in the case of each medical center at which the percentage was greater than 20 percent, an explanation of the reasons why that occurred.”
 
-1992—Subsec. (b)(1)(B)(ii). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+<b>1992</b>—Subsec. (b)(1)(B)(ii). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1991—Pub. L. 102–40 renumbered section 5025 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5025 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
@@ -62,7 +62,7 @@ Subsecs. (d), (e). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary
 
 Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-1988—Subsec. (d)(1). Pub. L. 100–687, §1507(b)(1), inserted “(beginning in 1992)” after “of each year”.
+<b>1988</b>—Subsec. (d)(1). Pub. L. 100–687, §1507(b)(1), inserted “(beginning in 1992)” after “of each year”.
 
 Subsec. (d)(2). Pub. L. 100–687, §1507(b)(2), inserted “(beginning in 1993)” after “of each year”.
 
@@ -74,7 +74,7 @@ Subsec. (e)(1). Pub. L. 100–687, §1507(c), substituted “65 or 66” for “
 
 Section 403(b) of Pub. L. 100–322, as amended by Pub. L. 100–687, div. B, title XV, §1507(a), Nov. 18, 1988, 102 Stat. 4136, provided that:
 
-“(1) Subsections (a), (b)(1), and (b)(2) of section 5025 \[now 8125\] of title 38, United States Code (as added by subsection (a)), shall take effect one year after the date of the enactment of this Act \[May 20, 1988\].
+“(1) Subsections (a), (b)(1), and (b)(2) of section 5025 \[now 8125\] of title 38, United States Code (as added bysubsection (a)), shall take effect one year after the date of the enactment of this Act \[May 20, 1988\].
 
 “(2) Subsection (b)(3) of such section shall apply to health-care items procured for use by the Veterans’ Administration \[now Department of Veterans Affairs\] after September 30, 1990.”
 

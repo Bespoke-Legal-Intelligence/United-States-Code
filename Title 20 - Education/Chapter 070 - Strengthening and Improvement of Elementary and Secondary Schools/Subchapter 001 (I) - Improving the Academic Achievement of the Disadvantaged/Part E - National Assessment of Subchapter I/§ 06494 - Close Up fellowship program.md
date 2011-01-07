@@ -72,7 +72,7 @@
 
 #### (A) General authority
 
-&emsp;&emsp;In accordance with this subsection, the Secretary may make grants to the Close Up Foundation of Washington, District of Columbia, a nonpartisan, nonprofit foundation, for the purpose of assisting the Close Up Foundation in carrying out its programs of increasing civic responsibility and understanding of the Federal Government among economically disadvantaged middle school and secondary school recent immigrant students.
+&emsp;&emsp;In accordance with this subsection, the Secretary may make grants to the Close Up Foundation of Washington, District of Columbia, a nonpartisan, nonprofit foundation,for the purpose of assisting the Close Up Foundation in carrying out its programs of increasing civic responsibility and understanding of the Federal Government among economically disadvantaged middle school and secondary school recent immigrant students.
 
 #### (B) Definition
 

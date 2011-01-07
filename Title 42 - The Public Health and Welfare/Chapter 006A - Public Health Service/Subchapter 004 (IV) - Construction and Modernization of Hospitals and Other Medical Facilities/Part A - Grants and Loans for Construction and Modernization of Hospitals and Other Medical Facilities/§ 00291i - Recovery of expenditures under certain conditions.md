@@ -2,7 +2,7 @@
 
 #### (a) Persons liable
 
-If any facility with respect to which funds have been paid under section 291f of this titleshall, at any time within 20 years after the completion of construction or modernization—
+If any facility with respect to which funds have been paid under section 291f of this title shall, at any time within 20 years after the completion of construction or modernization—
 
 &emsp;(1) be sold or transferred to any entity (A) which is not qualified to file an application under section 291e of this title, or (B) which is not approved as a transferee by the State agency designated pursuant to section 291d of this title, or its successor, or
 
@@ -28,7 +28,7 @@ The transferor of a facility which is sold or transferred as described in subsec
 
 (B) The period referred to in subparagraph (A) is the period beginning—
 
-&emsp;(i) in the case of a facility which was sold or transferred or the use of which changed before July 18, 1984, thirty days after such date or if later 180 days after the date of the sale, transfer, or change of use for which a notice is required by subsection (b) of this section,
+&emsp;(i) in the case of a facility which was sold or transferred or the use of which changed before July 18, 1984, thirty days after such date or iflater 180 days after the date of the sale, transfer, or change of use for which a notice is required by subsection (b) of this section,
 
 &emsp;(ii) in the case of a facility with respect to which notice is provided in accordance with subsection (b) of this section, upon the expiration of 180 days after the receipt of such notice, or
 
@@ -60,11 +60,11 @@ The right of recovery of the United States under subsection (a) of this section 
 
 A prior section 291i, act July 1, 1944, ch. 373, title VI, §631, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended June 19, 1948, ch. 544, 62 Stat. 531; Oct. 25, 1949, ch. 722, §9, 63 Stat. 901; July 12, 1954, ch. 471, §4(c)–(f), 68 Stat. 465, 466; Aug. 1, 1956, ch. 852, §19(a), (b), 70 Stat. 911; June 25, 1959, Pub. L. 86–70, §31(c), 73 Stat. 149; July 12, 1960, Pub. L. 86–624, §29(d), 74 Stat. 419; Oct. 5, 1961, Pub. L. 87–395, §5, 75 Stat. 826; Sept. 25, 1962, Pub. L. 87–688, §4(a)(2), 76 Stat. 587, related to allotment percentages, and contained various definitions, prior to the general amendment of this subchapter by Pub. L. 88–443. See section 291b of this title.
 
-Provisions similar to those comprising this section were contained in section 291h(e) of this title, act July1, 1944, ch. 373, title VI, §625, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended Oct. 25, 1949, ch. 722, §3(c), 63 Stat. 899, 901; July 12, 1954, ch. 471, §4(b), 68 Stat. 464, prior to the general amendment of this subchapter by Pub. L. 88–443.
+Provisions similar to those comprising this section were contained in section 291h(e) of this title, act July 1, 1944, ch. 373, title VI, §625, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended Oct. 25, 1949, ch. 722, §3(c), 63 Stat. 899, 901; July 12, 1954, ch. 471, §4(b), 68 Stat. 464, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
 #### Amendments
 
-1984—Pub. L. 98–369 amended section generally. Prior to amendment, section read as follows: “If any facility with respect to which funds have been paid under section 291f of this title shall, at any time within twenty years after the completion of construction—
+<b>1984</b>—Pub. L. 98–369 amended section generally. Prior to amendment, section read as follows: “If any facility with respect to which funds have been paid under section 291f of this title shall, at any time within twenty years after the completion of construction—
 
 &emsp;“(a) be sold or transferred to any person, agency, or organization (1) which is not qualified to file an application under section 291e of this title, or (2) which is not approved as a transferee by the State agency designated pursuant to section 291d of this title, or its successor, or
 
@@ -72,7 +72,7 @@ Provisions similar to those comprising this section were contained in section 29
 
 > the United States shall be entitled to recover from either the transferor or the transferee (or, in the case of a facility which has ceased to be public or nonprofit, from the owners thereof) an amount bearing the same ratio to the then value (as determined by the agreement of the parties or by action brought in the district court of the United States for the district in which the facility is situated) of so much of the facility as constituted an approved project or projects, as the amount of the Federal participation bore to the cost of the construction or modernization under such project or projects. Such right of recovery shall not constitute a lien upon said facility prior to judgment.”
 
-1970—Cl. (b). Pub. L. 91–296 substituted “outpatient facility” for “diagnostic or treatment center”.
+<b>1970</b>—Cl. (b). Pub. L. 91–296 substituted “outpatient facility” for “diagnostic or treatment center”.
 
 #### Transfer of Functions
 

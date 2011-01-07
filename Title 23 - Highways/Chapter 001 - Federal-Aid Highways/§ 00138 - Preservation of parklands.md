@@ -2,7 +2,7 @@
 
 (a)
 
-Declaration of Policy.—It is declared to be the national policy that special effort should be made to preserve the natural beauty of the countryside and public park and recreation lands, wildlife and waterfowl refuges, and historic sites. The Secretary of Transportation shall cooperate and consult with the Secretaries of the Interior, Housing and Urban Development, and Agriculture, and with the States in developing transportation plans and programs that include measures to maintain or enhance the natural beauty of the lands traversed. After the effective date of the Federal-Aid Highway Act of 1968, the Secretary shall not approve any program or project (other than any project for a park road or parkway under section 204 of this title) which requires the use of any publicly owned land from a public park, recreation area, or wildlife and waterfowl refuge of national, State, or local significance as determined by the Federal, State, or local officials having jurisdiction thereof, or any land from an historic site ofnational, State, or local significance as so determined by such officials unless (1) there is no feasible and prudent alternative to the use of such land, and (2) such program includes all possible planning to minimize harm to such park, recreational area, wildlife and waterfowl refuge, or historic site resulting from such use. In carrying out the national policy declared in this section the Secretary, in cooperation with the Secretary of the Interior and appropriate State and local officials, is authorized to conduct studies as to the most feasible Federal-aid routes for the movement of motor vehicular traffic through or around national parks so as to best serve the needs of the traveling public while preserving the natural beauty of these areas.
+Declaration of Policy.—It is declared to be the national policy that special effort should be made to preserve the natural beauty of the countryside and public park and recreation lands, wildlife and waterfowl refuges, and historic sites. The Secretary of Transportation shall cooperate and consult with the Secretaries of the Interior, Housing and Urban Development, and Agriculture, and with the States in developing transportation plans and programs that include measures to maintain or enhance the natural beauty of the lands traversed. After the effective date of the Federal-Aid Highway Act of 1968, the Secretary shall not approve any program or project (other than any project for a park road or parkway under section 204 of this title) which requires the use of any publicly owned land from a public park, recreation area, or wildlife and waterfowl refuge of national, State, or local significance as determined by the Federal, State, or local officials having jurisdiction thereof, or any land from an historic site of national, State, or local significance as so determined by such officials unless (1) there is no feasible and prudent alternative to the use of such land, and (2) such program includes all possible planning to minimize harm to such park, recreational area, wildlife and waterfowl refuge, or historic site resulting from such use. In carrying out the national policy declared in this section the Secretary, in cooperation with the Secretary of the Interior and appropriate State and local officials, is authorized to conduct studies as to the most feasible Federal-aid routes for the movement of motor vehicular traffic through or around national parks so as to best serve the needs of the traveling public while preserving the natural beauty of these areas.
 
 (b)
 
@@ -54,17 +54,17 @@ For the effective date of the Federal-Aid Highway Act of 1968, referred to in su
 
 #### Amendments
 
-2005—Pub. L. 109–59, §6009(a)(1)(A), which directed substitution of “(a)
+<b>2005</b>—Pub. L. 109–59, §6009(a)(1)(A), which directed substitution of “(a)
 
 Declaration of Policy.—It is” for “it is hereby”, was executed by making the substitution for “It is hereby” to reflect the probable intent of Congress.
 
 Subsec. (b). Pub. L. 109–59, §6009(a)(1)(B), added subsec. (b).
 
-1987—Pub. L. 100–17 inserted “(other than any project for a park road or parkway under section 204 of this title)” before “which requires” in third sentence.
+<b>1987</b>—Pub. L. 100–17 inserted “(other than any project for a park road or parkway under section 204 of this title)” before “which requires” in third sentence.
 
-1976—Pub. L. 94–280 authorized the Secretary, in cooperation with the Secretary of the Interior and appropriate State and local officials, to conduct studies as to the most feasible Federal-aid routes for the movement of motor vehicular traffic through or around national parks so as to best serve the needs of the traveling public while preserving the natural beauty of these areas.
+<b>1976</b>—Pub. L. 94–280 authorized the Secretary, in cooperation with the Secretary of the Interior and appropriate State and local officials, to conduct studies as to the most feasible Federal-aid routes for the movement of motor vehicular traffic through or around national parks so as to best serve the needs of the traveling public while preserving the natural beauty of these areas.
 
-1968—Pub. L. 90–495 amended section generally so as to render it identical to section 1653(f) of Title 49, Transportation, governing all programs and projects subject to the jurisdiction of the Secretary of Transportation.
+<b>1968</b>—Pub. L. 90–495 amended section generally so as to render it identical to section 1653(f) of Title 49, Transportation, governing all programs and projects subject to the jurisdiction of the Secretary of Transportation.
 
 #### Effective Date of 1968 Amendment
 

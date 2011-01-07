@@ -22,7 +22,7 @@ The Secretary may make grants and provide technical assistance to States and oth
 
 #### (d) Accessibility
 
-The Secretary shall ensure that the verification network is electronically accessible by State, local, and tribal health departments andcan be linked with the identification cards under section 300hh–15 of this title.
+The Secretary shall ensure that the verification network is electronically accessible by State, local, and tribal health departments and can be linked with the identification cards under section 300hh–15 of this title.
 
 #### (e) Confidentiality
 
@@ -56,7 +56,7 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### Amendments
 
-2006—Subsecs. (a), (b). Pub. L. 109–417, §303(b)(2), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to establishment of a verification system and provisions regarding its promptness and efficiency.
+<b>2006</b>—Subsecs. (a), (b). Pub. L. 109–417, §303(b)(2), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to establishment of a verification system and provisions regarding its promptness and efficiency.
 
 Subsec. (c). Pub. L. 109–417, §303(b)(3), substituted “network” for “system”.
 

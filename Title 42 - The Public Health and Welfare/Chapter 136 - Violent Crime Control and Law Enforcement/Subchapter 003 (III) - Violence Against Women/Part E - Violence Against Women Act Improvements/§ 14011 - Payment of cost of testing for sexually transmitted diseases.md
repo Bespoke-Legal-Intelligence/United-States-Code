@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) the test for the etiologic agent for acquired immune deficiency syndrome is requested by the victim after appropriate counseling; and
 
-&emsp;&emsp;(C) the test would provide information necessary for the health of the victim of the alleged offense and the court determines that the alleged conduct of the defendant created a risk of transmission, as determined by the Centers for Disease Control, of the etiologic agent for acquired immune deficiency syndrome to the victim.
+&emsp;&emsp;(C) the test would provide information necessary for the health of the victim of the alleged offense and the court determines that the alleged conduct of the defendantcreated a risk of transmission, as determined by the Centers for Disease Control, of the etiologic agent for acquired immune deficiency syndrome to the victim.
 
 #### (3) Follow-up testing
 
@@ -50,7 +50,7 @@ Section is comprised of section 40503 of Pub. L. 103–322. Subsec. (a) of secti
 
 #### Amendments
 
-1996—Subsec. (b)(3). Pub. L. 104–294 substituted “paragraph (1)” for “paragraph (b)(1)”.
+<b>1996</b>—Subsec. (b)(3). Pub. L. 104–294 substituted “paragraph (1)” for “paragraph (b)(1)”.
 
 #### Change of Name
 

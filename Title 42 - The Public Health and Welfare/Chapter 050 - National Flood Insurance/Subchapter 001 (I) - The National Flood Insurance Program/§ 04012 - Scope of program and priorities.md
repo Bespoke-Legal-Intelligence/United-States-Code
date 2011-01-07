@@ -32,7 +32,7 @@ The Director shall make flood insurance available in only those States or areas 
 
 &emsp;(1) evidenced a positive interest in securing flood insurance coverage under the flood insurance program, and
 
-&emsp;(2) given satisfactory assurance that by December 31, 1971, adequate land use and control measures will have been adopted for the State or area (or subdivision) which are consistent with the comprehensive criteria for land management and use developed under section 4102 of this title, and that the application and enforcement of such measures will commence as soon as technical information on floodways and on controlling flood elevations is available.
+&emsp;(2) given satisfactory assurance that by December 31, 1971, adequate land use and control measures will have been adopted for the State or area (or subdivision) which are consistentwith the comprehensive criteria for land management and use developed under section 4102 of this title, and that the application and enforcement of such measures will commence as soon as technical information on floodways and on controlling flood elevations is available.
 
 (Pub. L. 90–448, title XIII, §1305, Aug. 1, 1968, 82 Stat. 574; Pub. L. 91–152, title IV, §410(a), Dec. 24, 1969, 83 Stat. 397; Pub. L. 92–213, §2(c)(1), Dec. 22, 1971, 85 Stat. 775; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229.)
 
@@ -42,11 +42,11 @@ This chapter, referred to in subsec. (b), was in the original a reference to “
 
 #### Amendments
 
-1983—Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
 
-1971—Subsec. (a). Pub. L. 92–213 inserted reference to church properties.
+<b>1971</b>—Subsec. (a). Pub. L. 92–213 inserted reference to church properties.
 
-1969—Subsec. (c)(2). Pub. L. 91–152 substituted “December 31, 1971, adequate” for “June 30, 1970, permanent”.
+<b>1969</b>—Subsec. (c)(2). Pub. L. 91–152 substituted “December 31, 1971, adequate” for “June 30, 1970, permanent”.
 
 #### Transfer of Functions
 

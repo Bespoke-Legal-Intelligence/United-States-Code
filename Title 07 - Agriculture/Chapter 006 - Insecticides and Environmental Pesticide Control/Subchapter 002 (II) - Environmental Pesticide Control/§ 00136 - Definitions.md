@@ -46,7 +46,7 @@ The term “animal” means all vertebrate and invertebrate species, including b
 
 #### (3) Commercial applicator
 
-&emsp;The term “commercial applicator” means an applicator (whether or not the applicator is a private applicator with respect to some uses)who uses or supervises the use of any pesticide which is classified for restricted use for any purpose or on any property other than as provided by paragraph (2).
+&emsp;The term “commercial applicator” means an applicator (whether or not the applicator is a private applicator with respect to some uses) who uses or supervises the use of any pesticide which is classified for restricted use for any purpose or on any property other than as provided by paragraph (2).
 
 #### (4) Under the direct supervision of a certified applicator
 
@@ -122,7 +122,7 @@ The term “insect” means any of the numerous small invertebrate animals gener
 
 &emsp;&emsp;(D) its label does not bear the registration number assigned under section 136e of this title to each establishment in which it was produced;
 
-&emsp;&emsp;(E) any word, statement, or other information required by or under authority of this subchapter to appear on the label or labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or graphic matter in the labeling) and in such terms as to render it likely to be read and understood bythe ordinary individual under customary conditions of purchase and use;
+&emsp;&emsp;(E) any word, statement, or other information required by or under authority of this subchapter to appear on the label or labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or graphic matter in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
 
 &emsp;&emsp;(F) the labeling accompanying it does not contain directions for use which are necessary for effecting the purpose for which the product is intended and if complied with, together with any requirements imposed under section 136a(d) of this title, are adequate to protect health and the environment;
 
@@ -172,7 +172,7 @@ The term “pest” means (1) any insect, rodent, nematode, fungus, weed, or (2)
 
 #### (u) Pesticide
 
-The term “pesticide” means (1) any substance or mixture of substances intended for preventing, destroying, repelling, or mitigating any pest, (2) any substance or mixture of substances intended for use as a plant regulator, defoliant, or desiccant, and (3) any nitrogen stabilizer, except that the term “pesticide” shall not include any article that is a “new animal drug” within the meaning of section 321(w) <sup>1</sup> of title 21, that has been determined by the Secretary of Health and Human Services not to be a new animal drug by a regulation establishing conditions of use for the article, or that is an animal feed within the meaning of section 321(x) <sup>1</sup> of title 21 bearing or containing a new animal drug. The term “pesticide” does not include liquid chemical sterilant products (including any sterilant or subordinate disinfectant claims on such products) for use on a critical or semi-critical device, as defined in section 321 of title 21. For purposes of the preceding sentence, the term “critical device” includes any device which is introduced directly into the human body, either into or in contact with the bloodstream or normally sterile areas of the body and the term “semi-critical device” includes any device which contacts intact mucous membranes but which does not ordinarily penetrate the blood barrier or otherwise enter normally sterile areas of the body.
+The term “pesticide” means (1) any substance or mixture of substances intended for preventing, destroying, repelling, or mitigating any pest, (2) any substance or mixture of substances intended for use as a plant regulator, defoliant, or desiccant, and (3) any nitrogen stabilizer, except that the term “pesticide” shall not include any article that is a “new animal drug” within the meaning of section 321(w) <sup>1</sup> of title 21, that has been determined by the Secretary of Healthand Human Services not to be a new animal drug by a regulation establishing conditions of use for the article, or that is an animal feed within the meaning of section 321(x) <sup>1</sup> of title 21 bearing or containing a new animal drug. The term “pesticide” does not include liquid chemical sterilant products (including any sterilant or subordinate disinfectant claims on such products) for use on a critical or semi-critical device, as defined in section 321 of title 21. For purposes of the preceding sentence, the term “critical device” includes any device which is introduced directly into the human body, either into or in contact with the bloodstream or normally sterile areas of the body and the term “semi-critical device” includes any device which contacts intact mucous membranes but which does not ordinarily penetrate the blood barrier or otherwise enter normally sterile areas of the body.
 
 #### (v) Plant regulator
 
@@ -226,7 +226,7 @@ The term “to use any registered pesticide in a manner inconsistent with its la
 
 #### (2) Factors
 
-&emsp;In making a determination under paragraph (1)(B) respecting a study, the Administratorshall examine, at a minimum, relevant protocols, documentation of the conduct and analysis of the study, and the results of the study to determine whether the study and the results of the study fulfill the data requirement for which the study was submitted to the Administrator.
+&emsp;In making a determination under paragraph (1)(B) respecting a study, the Administrator shall examine, at a minimum, relevant protocols, documentation of the conduct and analysis of the study, and the results of the study to determine whether the study and the results of the study fulfill the data requirement for which the study was submitted to the Administrator.
 
 #### (gg) To distribute or sell
 
@@ -364,7 +364,7 @@ Subsec. (q)(2)(C)(iii). Pub. L. 100–532, §801(a)(4), substituted “, except
 
 Subsec. (u). Pub. L. 100–532, §801(a)(5), substituted “, except that” for “: <i>Provided</i>, That”, struck out “(1)(a)” after “include any article” and “or (b)” after “section 321(w) of title 21,”, and substituted “Health and Human Services” for “Health, Education, and Welfare”, “or that is” for “or (2) that is”, and “a new animal drug” for “an article covered by clause (1) of this proviso”.
 
-Subsec. (ee). Pub. L. 100–532, §§601(a)(1), 801(a)(6), substituted “, except that” for “: <i>Provided</i>, That”, inserted “unless the labeling specifically prohibits deviation from the specified dosage, concentration, or frequency” and “unless the labeling specifically states that the product may be applied only by the methods specified on the labeling”, substituted “labeling, (4) mixing” for “labeling, or (4) mixing”, “, (5)” for“: <i>Provided further</i>, That the term also shall not include”, “or (6) any use” for “or any use”, and “. After” for “: <i>And provided further</i>, That after”.
+Subsec. (ee). Pub. L. 100–532, §§601(a)(1), 801(a)(6), substituted “, except that” for “: <i>Provided</i>, That”, inserted “unless the labeling specifically prohibits deviation from the specified dosage, concentration, or frequency” and “unless the labeling specifically states that the product may be applied only by the methods specified on the labeling”, substituted “labeling, (4) mixing” for “labeling, or (4) mixing”, “, (5)” for “: <i>Provided further</i>, That the term also shall not include”, “or (6) any use” for “or any use”, and “. After” for “: <i>And provided further</i>, That after”.
 
 Subsec. (ff). Pub. L. 100–532, §101, added subsec. (ff).
 
@@ -430,7 +430,7 @@ Pub. L. 108–199, div. G, title V, §501(a), Jan. 23, 2004, 118 Stat. 419, prov
 
 #### Short Title of 1996 Amendment
 
-Section 1 of Pub. L. 104–170 provided that: “This Act \[enacting sections 136i–2, 136r–1, and 136w–5 to 136w–7 of this title, amending this section, sections 136a, 136a–1, 136d, 136q, 136s, 136w, 136w–3, 136x, and 136y of this title, and sections 321, 331, 333, 342, and 346a of Title 21, Food and Drugs, and enacting provisions set out as notes under section 136i–2 of this title and sections 301 and 346a of Title 21\] may be cited as the ‘Food Quality Protection Act of 1996’.”
+Section 1 of Pub. L. 104–170 provided that: “This Act \[enacting sections 136i–2, 136r–1, and 136w–5 to 136w–7 ofthis title, amending this section, sections 136a, 136a–1, 136d, 136q, 136s, 136w, 136w–3, 136x, and 136y of this title, and sections 321, 331, 333, 342, and 346a of Title 21, Food and Drugs, and enacting provisions set out as notes under section 136i–2 of this title and sections 301 and 346a of Title 21\] may be cited as the ‘Food Quality Protection Act of 1996’.”
 
 \[Another Food Quality Protection Act of 1996 was enacted by Pub. L. 104–170, title IV, 110 Stat. 1513, see section 401(a) of Pub. L. 104–170, set out as a note under section 301 of Title 21, Food and Drugs.\]
 
@@ -440,7 +440,7 @@ Section 1(a) of Pub. L. 100–532 provided that: “This Act \[enacting section 
 
 #### Short Title of 1978 Amendment
 
-Section 29 of Pub. L. 95–396 provided that: “This Act \[enacting sections 136w–1 to 136w–4 of this title, amending this section and sections 136a to 136f, 136h, 136j, 136<i>l</i>,136<i>o</i>, 136q, 136r, 136u to 136w, 136x, and 136y of this title, enacting provisions set out as notes under sections 136a, 136<i>o</i>, and 136w–4 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Federal Pesticide Act of 1978’.”
+Section 29 of Pub. L. 95–396 provided that: “This Act \[enacting sections 136w–1 to 136w–4 of this title, amending this section and sections 136a to 136f, 136h, 136j, 136<i>l</i>, 136<i>o</i>, 136q, 136r, 136u to 136w, 136x, and 136y of this title, enacting provisions set out as notes under sections 136a, 136<i>o</i>, and 136w–4 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Federal Pesticide Act of 1978’.”
 
 #### Short Title
 

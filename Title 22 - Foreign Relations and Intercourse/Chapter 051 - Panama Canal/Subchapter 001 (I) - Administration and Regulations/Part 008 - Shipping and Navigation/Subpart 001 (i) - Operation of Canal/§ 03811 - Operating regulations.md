@@ -16,5 +16,5 @@ The Commission may prescribe, and from time to time amend, regulations governing
 
 #### Amendments
 
-1996—Pub. L. 104–201 substituted “Commission” for “President” in introductory provisions.
+<b>1996</b>—Pub. L. 104–201 substituted “Commission” for “President” in introductory provisions.
 

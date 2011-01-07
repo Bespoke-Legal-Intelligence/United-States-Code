@@ -216,7 +216,7 @@ Parents’ Assessment From Adjusted Available Income (AAI)
 
 &emsp;&emsp;(B) If the preceding criterion does not apply, include only the income and assets of the parent who provided the greater portion of the student's support for the 12-month period preceding the date of application.
 
-&emsp;&emsp;(C) If neither of the preceding criteria apply, include only the income and assets of the parent who provided the greater support during the most recent calendar year for which parental support was provided.
+&emsp;&emsp;(C) If neither of the preceding criteria apply, include only the income and assets ofthe parent who provided the greater support during the most recent calendar year for which parental support was provided.
 
 #### (2) Death of a parent
 
@@ -309,7 +309,7 @@ The student contribution from assets is determined by calculating the net assets
 
 #### (i) Adjustments to parents’ contribution for enrollment periods other than 9 months for purposes other than subpart 2 of part A of this subchapter
 
-For periods of enrollment other than 9 months, the parents’ contribution from adjusted available income (as determined under subsection (b) of this section) is determined as follows for purposes other than subpart 2 of part A of this subchapter:
+For periods of enrollment other than 9 months, the parents’ contribution from adjustedavailable income (as determined under subsection (b) of this section) is determined as follows for purposes other than subpart 2 of part A of this subchapter:
 
 &emsp;(1) For periods of enrollment less than 9 months, the parents’ contribution from adjusted available income is divided by 9 and the result multiplied by the number of months enrolled.
 
@@ -331,15 +331,15 @@ For periods of enrollment of less than 9 months, the student's contribution from
 
 #### Amendments
 
-2009—Subsec. (c)(5)(B). Pub. L. 111–39 made technical amendment to reference in original act which appears in text as reference to section 2 of title 26.
+<b>2009</b>—Subsec. (c)(5)(B). Pub. L. 111–39 made technical amendment to reference in original act which appears in text as reference to section 2 of title 26.
 
-2007—Subsec. (g)(2)(D). Pub. L. 110–84 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “an income protection allowance of $3,000 (or a successor amount prescribed by the Secretary under section 1087rr of this title);”.
+<b>2007</b>—Subsec. (g)(2)(D). Pub. L. 110–84 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “an income protection allowance of $3,000 (or a successor amount prescribed by the Secretary under section 1087rr of this title);”.
 
-2006—Subsec. (g)(2)(D). Pub. L. 109–171, §8017(a)(1)(A), substituted “$3,000” for “$2,200”.
+<b>2006</b>—Subsec. (g)(2)(D). Pub. L. 109–171, §8017(a)(1)(A), substituted “$3,000” for “$2,200”.
 
 Subsec. (h). Pub. L. 109–171, §8017(a)(1)(B), substituted “20” for “35”.
 
-1998—Subsec. (b)(3). Pub. L. 105–244, §473(a), which directed insertion of “, excluding the student's parents,” after “number of family members”, was executed by making the insertion after “number of the family members” to reflect the probable intent of Congress.
+<b>1998</b>—Subsec. (b)(3). Pub. L. 105–244, §473(a), which directed insertion of “, excluding the student's parents,” after “number of family members”, was executed by making the insertion after “number of the family members” to reflect the probable intent of Congress.
 
 Subsec. (g)(2)(D). Pub. L. 105–244, §473(b)(1)(A), substituted “$2,200 (or a successor amount prescribed by the Secretary under section 1087rr of this title);” for “$1,750; and”.
 
@@ -349,11 +349,11 @@ Subsec. (g)(6). Pub. L. 105–244, §473(b)(2), added par. (6).
 
 Subsec. (j). Pub. L. 105–244, §473(c), added subsec. (j).
 
-1997—Subsec. (c)(1)(F). Pub. L. 105–78, §609(g)(1), added subpar. (F).
+<b>1997</b>—Subsec. (c)(1)(F). Pub. L. 105–78, §609(g)(1), added subpar. (F).
 
 Subsec. (g)(2)(E). Pub. L. 105–78, §609(g)(2), added subpar. (E).
 
-1993—Subsec. (c)(4). Pub. L. 103–208, §2(g)(2), substituted “$9,510” for “9,510” in table.
+<b>1993</b>—Subsec. (c)(4). Pub. L. 103–208, §2(g)(2), substituted “$9,510” for “9,510” in table.
 
 Subsec. (f)(3). Pub. L. 103–208, §2(g)(3), in introductory provisions, substituted “If a parent” for “Income in the case of a parent”, “(1) of this subsection, or if a parent” for “(1) of this subsection, or a parent”, and “the income” for “is determined as follows: The income”.
 
@@ -361,9 +361,9 @@ Subsec. (g)(1)(B). Pub. L. 103–208, §2(g)(4), inserted closing parenthesis af
 
 Subsec. (g)(3). Pub. L. 103–208, §2(g)(5), in table added last item relating to Other.
 
-1992—Pub. L. 102–325 amended section generally, making minor changes in subsecs. (a) to (c) and (e) to (g), in subsec. (d) substituting provisions relating to parents’ contribution from assets for provisions relating to parents’ income supplemental amount from assets, in subsec. (h) substituting provisions relating to student contribution from assets for provisions relating to student and spouse income supplemental amount from assets, and in subsec. (i) substituting provisions relating to adjustments to parents’ contribution for enrollment periods other than 9 months for purposes other than subpart 2 of part A of this subchapter for provisions relating to adjustments for enrollment periods other than 9 months.
+<b>1992</b>—Pub. L. 102–325 amended section generally, making minor changes in subsecs. (a) to (c) and (e) to (g), in subsec. (d) substituting provisions relating to parents’ contribution from assets for provisions relating to parents’ income supplemental amount from assets, in subsec. (h) substituting provisions relating to student contribution from assets for provisions relating to student and spouse income supplemental amount from assets, and in subsec. (i) substituting provisions relating to adjustments to parents’ contribution for enrollment periods other than 9 months for purposes other than subpart 2 of part A of this subchapter for provisions relating to adjustments for enrollment periods other than 9 months.
 
-1987—Subsec. (c)(2), (4). Pub. L. 100–50, §14(1), substituted “section 1087rr of this title” for “section 1087ss of this title”.
+<b>1987</b>—Subsec. (c)(2), (4). Pub. L. 100–50, §14(1), substituted “section 1087rr of this title” for “section 1087ss of this title”.
 
 Subsec. (c)(7). Pub. L. 100–50, §14(2), struck out “National” before “Center”.
 

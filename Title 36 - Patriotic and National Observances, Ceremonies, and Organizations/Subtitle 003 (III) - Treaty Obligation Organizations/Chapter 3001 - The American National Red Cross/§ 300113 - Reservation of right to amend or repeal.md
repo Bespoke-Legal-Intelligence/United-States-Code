@@ -22,5 +22,5 @@ Jan. 5, 1905, ch. 23, §7, 33 Stat. 602.
 
 #### Amendments
 
-2007—Pub. L. 110–26 renumbered section 300111 of this title as this section.
+<b>2007</b>—Pub. L. 110–26 renumbered section 300111 of this title as this section.
 

@@ -16,7 +16,7 @@
 
 #### (2) Prohibition on new entrants
 
-&emsp;The Administrator shall not issue any permit under this Act which authorizes a person to dump into ocean waters, or to transport for the purposes of dumping into ocean waters, sewage sludge or industrial waste, unless that person was authorized by a permit issued under section 1412 of this title or by a court order to dump into ocean waters, or to transport for the purpose of dumping into ocean waters, sewage sludge or industrial waste on September 1, 1988.
+&emsp;The Administrator shall not issue any permit under this Act which authorizes a person to dump into ocean waters, or to transport for the purposes of dumping into ocean waters, sewage sludge or industrial waste, unless thatperson was authorized by a permit issued under section 1412 of this title or by a court order to dump into ocean waters, or to transport for the purpose of dumping into ocean waters, sewage sludge or industrial waste on September 1, 1988.
 
 #### (b) Special dumping fees
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(C) subject to paragraph (5), shall pay into the Clean Oceans Fund established by the State in which the person is located a sum equal to 50 percent of the balance of such amount after application of subparagraphs (A) and (B); and
 
-&emsp;&emsp;(D) subject to paragraph (5), shall pay to the State in which the person is located a sum equal to the balance of such amount after application of subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by theState under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2) of this section.
+&emsp;&emsp;(D) subject to paragraph (5), shall pay to the State in which the person is located a sum equal to the balance of such amount after application of subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2) of this section.
 
 #### (3) Schedule for payment
 
@@ -82,7 +82,7 @@
 
 &emsp;An agreement shall be a compliance agreement for purposes of this section only if—
 
-&emsp;&emsp;(A) it includes a plan negotiated by the person, the State in which the person is located, and the Administrator that will, in the opinion of the Administrator, if adhered to by the person in good faith, result in the phasing out and termination of ocean dumping, and transportation for the purpose of ocean dumping, of sewage sludge and industrial waste by such person by not later than December 31, 1991, through the design, construction, and full implementation of an alternative system for the management of sewage sludge and industrial waste transported or dumped by the person;
+&emsp;&emsp;(A) it includes a plan negotiated by the person, the State in which the person is located, and the Administrator that will, in the opinion of the Administrator, if adhered to by the person in good faith, result in the phasing out and termination of ocean dumping, and transportation for the purpose of ocean dumping, of sewage sludge and industrial waste by such person by not later than December 31, 1991, through the design, construction, and full implementation of an alternative system for the management ofsewage sludge and industrial waste transported or dumped by the person;
 
 &emsp;&emsp;(B) it includes a schedule which—
 
@@ -188,7 +188,7 @@
 
 &emsp;&emsp;&emsp;(i) subject to paragraph (4), shall pay into the Clean Oceans Fund established by the State in which the person is located a sum equal to 50 percent of the balance of such amount; and
 
-&emsp;&emsp;&emsp;(ii) subject to paragraph (4), shall pay to the State in which the person is located asum equal to the portion of such amount which is not paid as provided in subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2) of this section; and
+&emsp;&emsp;&emsp;(ii) subject to paragraph (4), shall pay to the State in which the person is located a sum equal to the portion of such amount which is not paid as provided in subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2) of this section; and
 
 &emsp;&emsp;(D) for violations in any year after calendar year 1994, shall pay to the State in which the person is located a sum equal to the balance of such amount, for use by the State for providing assistance under subsection (f)(3) of this section.
 

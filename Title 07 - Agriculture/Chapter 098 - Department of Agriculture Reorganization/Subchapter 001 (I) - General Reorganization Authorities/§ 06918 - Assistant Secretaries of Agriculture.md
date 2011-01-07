@@ -30,10 +30,6 @@ The Secretary may delegate to the Assistant Secretary for Civil Rights responsib
 
 (Pub. L. 103–354, title II, §218, Oct. 13, 1994, 108 Stat. 3212; Pub. L. 105–277, div. A, §101(a) \[title X, §1001(1)\], Oct. 21, 1998, 112 Stat. 2681, 2681–41; Pub. L. 107–171, title X, §10704(a), May 13, 2002, 116 Stat. 518.)
 
-#### References in Text
-
-The civil rights laws, referred to in subsec. (d)(1), (2), are classified generally to chapter 21 (§1981 et seq.) of Title 42, The Public Health and Welfare.
-
 #### Amendments
 
 2002—Subsec. (a)(3). Pub. L. 107–171, §10704(a)(1), added par. (3).

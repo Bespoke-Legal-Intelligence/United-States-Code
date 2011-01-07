@@ -6,7 +6,7 @@ The Commission shall, in accordance with this section, collect transaction fees 
 
 #### (b) Exchange-traded securities
 
-Subject to subsection (j) of this section, each national securities exchange shall pay to the Commission a fee at a rate equal to $15 per $1,000,000 of the aggregate dollar amount of sales of securities (other than bonds, debentures,other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) transacted on such national securities exchange.
+Subject to subsection (j) of this section, each national securities exchange shall pay to the Commission a fee at a rate equal to $15 per $1,000,000 of the aggregate dollar amount of sales of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) transacted on such national securities exchange.
 
 #### (c) Off-exchange trades of exchange registered and last-sale-reported securities
 
@@ -148,11 +148,83 @@ $1,321,000,000
 
 &emsp;The baseline estimate of the aggregate dollar amount of sales for any fiscal year is the baseline estimate of the aggregate dollar amount of sales of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) to be transacted on each national securities exchange and by or through any member of each national securities association (otherwise than on a national securities exchange) during such fiscal year as determined by the Commission, after consultation with the Congressional Budget Office and the Office of Management and Budget, using the methodology required for making projections pursuant to section 907 of title 2.
 
-(June 6, 1934, ch. 404, title I, §31, 48 Stat. 904; Mar. 17, 1944, ch. 101, 58 Stat. 117; Pub. L. 94–29, §22, June 4, 1975, 89 Stat. 162; Pub. L. 104–290, title IV, §405(a), Oct. 11, 1996, 110 Stat. 3442; Pub. L. 105–353, title III, §301(b)(14), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–554, §1(a)(5) \[title II, §206(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–432; Pub. L. 107–123, §§2, 3, Jan. 16, 2002, 115 Stat. 2390.)
+#### (m) Transmittal of Commission budget requests
+
+#### (1) Budget required
+
+&emsp;For fiscal year 2012, and each fiscal year thereafter, the Commission shall prepare and submit a budget to the President. Whenever the Commission submits a budget estimate or request to the President or the Office of Management and Budget, the Commission shall concurrently transmit copies of the estimate or request to the Committee on Appropriations of the Senate, the Committee on Appropriations of the House of Representatives, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives.
+
+#### (2) Submission to Congress
+
+&emsp;The President shall submit each budget submitted under paragraph (1) to Congress, in unaltered form, together with the annual budget for the Administration submitted by the President.
+
+#### (3) Contents
+
+&emsp;The Commission shall include in each budget submitted under paragraph (1)—
+
+&emsp;&emsp;(A) an itemization of the amount of funds necessary to carry out the functions of the Commission.
+
+&emsp;&emsp;(B) an amount to be designated as contingency funding to be used by the Commission to address unanticipated needs; and
+
+&emsp;&emsp;(C) a designation of any activities of the Commission for which multi-year budget authority would be suitable.
+
+(June 6, 1934, ch. 404, title I, §31, 48 Stat. 904; Mar. 17, 1944, ch. 101, 58 Stat. 117; Pub. L. 94–29, §22, June 4, 1975, 89 Stat. 162; Pub. L. 104–290, title IV, §405(a), Oct. 11, 1996, 110 Stat. 3442; Pub. L. 105–353, title III, §301(b)(14), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–554, §1(a)(5) \[title II, §206(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–432; Pub. L. 107–123, §§2, 3, Jan. 16, 2002, 115 Stat. 2390; Pub. L. 111–203, title IX, §991(a)(1), (d)(1), July 21, 2010, 124 Stat. 1950, 1954.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title IX, §991(a), July 21, 2010, 124 Stat. 1950, provided that, effective on the later of Oct. 1, 2011, or the date of enactment of an Act making a regular appropriation to the Commission for fiscal year 2012, this section is amended—</i>
+
+<i>(1) by striking subsection (a) and inserting the following:</i>
+
+#### <i>“(a) Recovery of costs of annual appropriation</i>
+
+<i>“The Commission shall, in accordance with this section, collect transaction fees and assessments that are designed to recover the costs to the Government of the annual appropriation to the Commission by Congress.”;</i>
+
+<i>(2) in subsection (e)(2), by striking “September 30” and inserting “September 25”;</i>
+
+<i>(3) in subsection (g), by striking “April 30 of the fiscal year preceding the fiscal year to which such rate applies” and inserting “30 days after the date on which an Act making a regular appropriation to the Commission for such fiscal year is enacted”;</i>
+
+<i>(4) by striking subsection (j) and inserting the following:</i>
+
+#### <i>“(j) Adjustments to fee rates</i>
+
+#### <i>“(1) Annual adjustment</i>
+
+&emsp;<i>“Subject to subsections (i)(1)(B) and (k), for each fiscal year, the Commission shall by order adjust each of the rates applicable under subsections (b) and (c) for such fiscal year to a uni</i><i>form adjusted rate that, when applied to the baseline estimate of the aggregate dollar amount of sales for such fiscal year, is reasonably likely to produce aggregate fee collections under this section (including assessments collected under subsection (d) of this section) that are equal to the regular appropriation to the Commission by Congress for such fiscal year.</i>
+
+#### <i>“(2) Mid-year adjustment</i>
+
+&emsp;<i>“Subject to subsections (i)(1)(B) and (k), for each fiscal year, the Commission shall determine, by March 1 of such fiscal year, whether, based on the actual aggregate dollar volume of sales during the first 5 months of such fiscal year, the baseline estimate of the aggregate dollar volume of sales used under paragraph (1) for such fiscal year is reasonably likely to be 10 percent (or more) greater or less than the actual aggregate dollar volume of sales for such fiscal year. If the Commission so determines, the Commission shall by order, no later than March 1, adjust each of the rates applicable under subsections (b) and (c) for such fiscal year to a uniform adjusted rate that, when applied to the revised estimate of the aggregate dollar amount of sales for the remainder of such fiscal year, is reasonably likely to produce aggregate fee collections under this section (including fees collected during such five-month period and assessments collected under subsection (d) of this section) that are equal to the regular appropriation to the Commission by Congress for such fiscal year. In making such revised estimate, the Commission shall, after consultation with the Congressional Budget Office and the Office of Management and Budget, use the same methodology required by subsection (l).</i>
+
+#### <i>“(3) Review</i>
+
+&emsp;<i>“In exercising its authority under this subsection, the Commission shall not be required to comply with the provisions of section 553 of title 5. An adjusted rate prescribed under paragraph (1) or (2) and published under subsection (g) shall not be subject to judicial review.</i>
+
+#### <i>“(4) Effective date</i>
+
+#### <i>“(A) Annual adjustment</i>
+
+&emsp;&emsp;<i>“Subject to subsections (i)(1)(B) and (k), an adjusted rate prescribed under paragraph (1) shall take effect on the later of—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) the first day of the fiscal year to which such rate applies; or</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) 60 days after the date on which an Act making a regular appropriation to the Commission for such fiscal year is enacted.</i>
+
+#### <i>“(B) Mid-year adjustment</i>
+
+&emsp;&emsp;<i>“An adjusted rate prescribed under paragraph (2) shall take effect on April 1 of the fiscal year to which such rate applies.”;</i>
+
+<i>(5) in subsection (k), by striking “30 days” and inserting “60 days”; and</i>
+
+<i>(6) in subsection (l), by striking “Definitions.—” and all that follows through “sales.—The baseline” and inserting “Baseline estimate of the aggregate dollar amount of sales.—The baseline”.</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–123, §3(a)(1), substituted “Subject to subsection (j) of this section, each” for “Every” and struck out at end “Fees collected pursuant to this subsection shall be deposited and collected as general revenue of the Treasury.”
+<b>2010</b>—Subsec. (m). Pub. L. 111–203, §991(d)(1), added subsec. (m).
+
+<b>2002</b>—Subsec. (b). Pub. L. 107–123, §3(a)(1), substituted “Subject to subsection (j) of this section, each” for “Every” and struck out at end “Fees collected pursuant to this subsection shall be deposited and collected as general revenue of the Treasury.”
 
 Pub. L. 107–123, §2(1)–(3), substituted “$15 per $1,000,000” for “1/300 of one percent” and “security futures products, and options on securities indexes (excluding a narrow-based security index)” for “and security futures products” and struck out “, except that for fiscal year 2007 or any succeeding fiscal year such rate shall be equal to 1/800 of one percent of such aggregate dollar amount of sales” before period at end of first sentence.
 
@@ -160,7 +232,7 @@ Subsec. (c). Pub. L. 107–123, §3(a)(3), redesignated subsec. (d) as (c), subs
 
 Pub. L. 107–123, §3(a)(2), struck out heading and text of former subsec. (c). Text read as follows: “Each national securities association shall pay to the Commission a fee at a rate equal to 1/300 of one percent of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange of securities registered on such an exchange (other than bonds, debentures, other evidences of indebtedness, and security futures products), except that for fiscal year 2007 or any succeeding fiscal year such rate shall be equal to 1/800 of one percent of such aggregate dollar amount of sales. Fees collected pursuant to this subsection shall be deposited and collected as general revenue of the Treasury.”
 
-Pub. L. 107–123, §2(1),(2), (4), which directed that subsec. (d) be amended by substituting “$15 per $1,000,000” for “1/300 of one percent” and “security futures products, and options on securities indexes (excluding a narrow-based security index)” for “and security futures products”, and striking out “, except that for fiscal year 2007, or any succeeding fiscal year, such rate shall be equal to 1/800 of one percent of such aggregate dollaramount of sale” before period at end of par. (1), was executed by making the amendment in subsec. (c), to reflect the probable intent of Congress and the amendment by Pub. L. 107–123, §3(a)(3), which redesignated subsec. (d) as (c). See above.
+Pub. L. 107–123, §2(1),(2), (4), which directed that subsec. (d) be amended by substituting “$15 per $1,000,000” for “1/300 of one percent” and “security futures products, and options on securities indexes (excluding a narrow-based security index)” for “and security futures products”, and striking out “, except that for fiscal year 2007, or any succeeding fiscal year, such rate shall be equal to 1/800 of one percent of such aggregate dollar amount of sale” before period at end of par. (1), was executed by making the amendment in subsec. (c), to reflect the probable intent of Congress and the amendment by Pub. L. 107–123, §3(a)(3), which redesignated subsec. (d) as (c). See above.
 
 Subsec. (d). Pub. L. 107–123, §3(a)(4), (6), redesignated subsec. (e) as (d) and substituted “except that for fiscal year 2007 and each succeeding fiscal year such assessment shall be equal to $0.0042 for each such transaction” for “except that for fiscal year 2007 or any succeeding fiscal year such assessment shall be equal to $0.0075 for each such transaction. Assessments collected pursuant to this subsection shall be deposited and collected as general revenue of the Treasury”. Former subsec. (d) redesignated (c).
 
@@ -170,7 +242,7 @@ Subsec. (e). Pub. L. 107–123, §3(a)(5), (6), redesignated subsec. (f) as (e) 
 
 Subsec. (f). Pub. L. 107–123, §3(a)(6), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Subsec. (g). Pub. L. 107–123, §3(a)(6), (b)(2), redesignated subsec. (h) as (g) and inserted before period at end “not later than April 30 of the fiscal year preceding the fiscal year to which such rate applies, together with any estimates or projections on which such fees are based”. Former subsec. (g) redesignated (f).
+Subsec. (g). Pub. L. 107–123, §3(a)(6), (b)(2), redesignated subsec. (h) as (g) and inserted before period atend “not later than April 30 of the fiscal year preceding the fiscal year to which such rate applies, together with any estimates or projections on which such fees are based”. Former subsec. (g) redesignated (f).
 
 Subsec. (h). Pub. L. 107–123, §3(a)(6), redesignated subsec. (i), as enacted by Pub. L. 107–123, §2(6), as (h). See below. Former subsec. (h) redesignated (g).
 
@@ -180,7 +252,7 @@ Pub. L. 107–123, §2(6), added subsec. (i).
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 107–123, §3(b)(1), added subsecs. (j) to (<i>l</i>).
 
-2000—Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title II, §206(f)(1)\], inserted “and assessments” after “fees”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title II, §206(f)(1)\], inserted “and assessments” after “fees”.
 
 Subsecs. (b), (c), (d)(1). Pub. L. 106–554, §1(a)(5) \[title II, §206(f)(2)\], substituted “other evidences of indebtedness, and security futures products” for “and other evidences of indebtedness”.
 
@@ -196,13 +268,23 @@ Pub. L. 106–554, §1(a)(5) \[title II, §206(f)(4)\], inserted “and assessme
 
 Subsec. (h). Pub. L. 106–554, §1(a)(5) \[title II, §206(f)(5)\], redesignated subsec. (g) as (h).
 
-1998—Subsec. (a). Pub. L. 105–353 substituted “this section” for “this subsection”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–353 substituted “this section” for “this subsection”.
 
-1996—Pub. L. 104–290 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “Every national securities exchange shall pay to the Commission on or before March 15 of each calendar year a fee in an amount equal to one three-hundredths of 1 per centum of the aggregate dollar amount of the sales of securities (other than bonds, debentures, and other evidences of indebtedness) transacted on such national securities exchange during each preceding calendar year to which this section applies. Every registered broker and dealer shall pay to the Commission on or before March 15 of each calendar year a fee in an amount equal to one three-hundredths of 1 per centum of the aggregate dollar amount of the sales of securities registered on a national securities exchange (other than bonds, debentures, and other evidences of indebtedness) transacted by such broker or dealer otherwise than on such an exchange during each preceding calendar year: <i>Provided, however</i>, That no payment shall be required for any calendar year in which such payment would be less than one hundred dollars. The Commission, by rule, may exempt any sale of securities or any class of sales of securities from any fee imposed by this section, if the Commission finds that such exemption is consistent with the public interest, the equal regulation of markets and brokers and dealers, and the development of a national market system.”
+<b>1996</b>—Pub. L. 104–290 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “Every national securities exchange shall pay to the Commission on or before March 15 of each calendar year a fee in an amount equal to one three-hundredths of 1 per centum of the aggregate dollar amount of the sales of securities (other than bonds, debentures, and other evidences of indebtedness) transacted on such national securities exchange during each preceding calendar year to which this section applies. Every registered broker and dealer shall pay to the Commission on or before March 15 of each calendar year a fee in an amount equal to one three-hundredths of 1 per centum of the aggregate dollar amount of the sales of securities registered on a national securities exchange (other than bonds, debentures, and other evidences of indebtedness) transacted by such broker or dealer otherwise than on such an exchange during each preceding calendar year: <i>Provided, however</i>, That no payment shall be required for any calendar year in which such payment would be less than one hundred dollars. The Commission, by rule, may exempt any sale of securities or any class of sales of securities from any fee imposed by this section, if the Commission finds that such exemption is consistent with the public interest, the equal regulation of markets and brokers and dealers, and the development of a national market system.”
 
-1975—Pub. L. 94–29 amended section generally, extending provisions requiring the payment of fees to include transactions in listed securities which occur in the over-the-counter market.
+<b>1975</b>—Pub. L. 94–29 amended section generally, extending provisions requiring the payment of fees to include transactions in listed securities which occur in the over-the-counter market.
 
-1944—Act Mar. 17, 1944, amended section generally, inserting provisions exempting from the payment of the fee securities designated for exemption by the Secretary of the Treasury.
+<b>1944</b>—Act Mar. 17, 1944, amended section generally, inserting provisions exempting from the payment of the fee securities designated for exemption by the Secretary of the Treasury.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 991(d)(1) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
+Pub. L. 111–203, title IX, §991(a)(2), July 21, 2010, 124 Stat. 1951, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the later of—
+
+&emsp;“(A) October 1, 2011; or
+
+&emsp;“(B) the date of enactment of an Act making a regular appropriation to the \[Securities and Exchange\] Commission for fiscal year 2012.”
 
 #### Effective Date of 2002 Amendment
 
@@ -244,6 +326,10 @@ Amendment by Pub. L. 94–29 effective Jan. 1, 1976, see section 31(a) of Pub. L
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
+#### Budget of the President
+
+Pub. L. 111–203, title IX, §991(d)(2), July 21, 2010, 124 Stat. 1954, provided that: “For fiscal year 2012, and each fiscal year thereafter, the annual budget for the Administration submitted by the President to Congress shall reflect the amendments made by this section \[amending this section and sections 77f, 78d, 78m, 78n, and 78kk of this title\].”
+
 #### Study of the Effect of Fee Reductions
 
 Pub. L. 107–123, §9, Jan. 16, 2002, 115 Stat. 2400, provided that:
@@ -256,7 +342,7 @@ Study.—The Office of Economic Analysis of the Securities and Exchange Commissi
 
 Factors for Consideration.—In conducting the study under subsection (a), the Office shall—
 
-&emsp;“(1) consider the various elements of the securities industry directly and indirectly benefiting from the fee reductions, including purchasers and sellers of securities, members of national securities exchanges, issuers, broker-dealers, underwriters, participants in investment companies, retirement programs, and others;
+&emsp;“(1) consider the various elements of the securities industry directly and indirectly benefiting from the fee reductions, including purchasers and sellers of securities, members of national securities exchanges,issuers, broker-dealers, underwriters, participants in investment companies, retirement programs, and others;
 
 &emsp;“(2) consider the impact on different types of investors, such as individual equity holders, individual investment company shareholders, businesses, and other types of investors;
 

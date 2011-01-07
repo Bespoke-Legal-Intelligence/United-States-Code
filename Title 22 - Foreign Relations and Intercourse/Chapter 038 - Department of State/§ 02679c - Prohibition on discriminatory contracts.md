@@ -2,7 +2,7 @@
 
 #### (a) Prohibition
 
-(1) Except for real estate leases and as provided in subsection (b) of this section, the Department of State may not enter into any contract that expends funds appropriated to the Department of State for an amount in excess of the small purchase threshold (as defined in section 403(11) of title 41)—
+(1) Except for real estate leases and as provided in subsection (b) of this section, the Department of State may not enter into any contract that expends funds appropriated to the Department of State for an amount in excess of the small purchase threshold (as defined in section 134 of title 41— <sup>1</sup>
 
 &emsp;(A) with a foreign person that complies with the Arab League boycott of Israel, or
 
@@ -32,7 +32,7 @@ Definitions.—As used in this clause—
 
 &emsp;“(1) the term ‘foreign person’ means any person other than a United States person as defined in paragraph (2); and
 
-&emsp;“(2) the term ‘United States person’ means any United States resident or national (other than an individual resident outside the United States and employed by other than a United States person), any domestic concern (including any permanent domestic establishment of any foreign concern), and any foreign subsidiary or affiliate (including any permanent foreign establishment) of any domestic concernwhich is controlled in fact by such domestic concern, as determined under regulations of the President.
+&emsp;“(2) the term ‘United States person’ means any United States resident or national (other than an individual resident outside the United States and employed by other than a United States person), any domestic concern (including any permanent domestic establishment of any foreign concern), and any foreign subsidiary or affiliate (including any permanent foreign establishment) of any domestic concern which is controlled in fact by such domestic concern, as determined under regulations of the President.
 
 “(b)
 
@@ -54,9 +54,13 @@ Certification.—By submitting this offer, the Offeror certifies that it is not�
 
 (Pub. L. 103–236, title V, §565, Apr. 30, 1994, 108 Stat. 484; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(3), Oct. 21, 1998, 112 Stat. 2681–790.)
 
+#### Codification
+
+In subsec. (a)(1), “section 134 of title 41” substituted for “section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-1998—Subsec. (e). Pub. L. 105–277 struck out heading and text of subsec. (e). Text read as follows: “The provisions of this section shall apply to the United States Information Agency in the same manner and extent to which such provisions apply to the Department of State. In the application of this section to the United States Information Agency, the Director of the United States Information Agency or a designee shall have the authorities and responsibilities of the Secretary of State.”
+<b>1998</b>—Subsec. (e). Pub. L. 105–277 struck out heading and text of subsec. (e). Text read as follows: “The provisions of this section shall apply to the United States Information Agency in the same manner and extent to which such provisions apply to the Department of State. In the application of this section to the United States Information Agency, the Director of the United States Information Agency or a designee shall have the authorities and responsibilities of the Secretary of State.”
 
 #### Effective Date of 1998 Amendment
 
@@ -65,4 +69,6 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 #### Short Title
 
 Section 561 of Pub. L. 103–236 provided that: “This part \[part C (§§561–565) of title V of Pub. L. 103–236, enacting this section and provisions set out as a note under section 2751 of this title\] may be cited as the ‘Anti-Economic Discrimination Act of 1994’.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “41)—”.</i>
 

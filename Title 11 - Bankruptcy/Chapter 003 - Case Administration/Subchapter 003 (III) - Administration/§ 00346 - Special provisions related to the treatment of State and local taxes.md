@@ -12,7 +12,7 @@
 
 (f) For purposes of any State or local law imposing a tax on or measured by income, a transfer of property from the debtor to the estate or from the estate to the debtor shall not be treated as a disposition for purposes of any provision assigning tax consequences to a disposition, except to the extent that such transfer is treated as a disposition under the Internal Revenue Code of 1986.
 
-(g) Whenever a tax is imposed pursuant to a State or local law imposing a tax on or measured by income pursuant to subsection (a) or (b),such tax shall be imposed at rates generally applicable to the same types of entities under such State or local law.
+(g) Whenever a tax is imposed pursuant to a State or local law imposing a tax on or measured by income pursuant to subsection (a) or (b), such tax shall be imposed at rates generally applicable to the same types of entities under such State or local law.
 
 (h) The trustee shall withhold from any payment of claims for wages, salaries, commissions, dividends, interest, or other payments, or collect, any amount required to be withheld or collected under applicable State or local tax law, and shall pay such withheld or collected amount to the appropriate governmental unit at the time and in the manner required by such tax law, and with the same priority as the claim from which such amount was withheld or collected was paid.
 
@@ -50,7 +50,7 @@ Section 726 of the Senate amendment provides that the rule requiring pro rata pa
 
 When taxes considered “incurred”: The Senate amendment contained rules of general application dealing with when a tax is “incurred” for purposes of the various tax collection rules affecting the debtor and the estate. The House amendment adopts the substance of these rules and transfers them to section 507 of title 11.
 
-Penalty for failure to pay tax: The Senate amendment contains a rule which relieves the debtor and the trustee from certain tax penalties for failure to make timely payment of a tax to the extent that the bankruptcy rules prevent the trustee or the debtor from paying the tax on time. Since most of these penalties relate to Federal taxes, the House amendment deletes these rules pending consideration of Federal tax rules affecting bankruptcy in the next Congress.
+Penalty for failure to pay tax: The Senate amendment contains a rule which relieves the debtor and the trustee from certain tax penalties for failure to maketimely payment of a tax to the extent that the bankruptcy rules prevent the trustee or the debtor from paying the tax on time. Since most of these penalties relate to Federal taxes, the House amendment deletes these rules pending consideration of Federal tax rules affecting bankruptcy in the next Congress.
 
 #### senate report no. 95–989
 

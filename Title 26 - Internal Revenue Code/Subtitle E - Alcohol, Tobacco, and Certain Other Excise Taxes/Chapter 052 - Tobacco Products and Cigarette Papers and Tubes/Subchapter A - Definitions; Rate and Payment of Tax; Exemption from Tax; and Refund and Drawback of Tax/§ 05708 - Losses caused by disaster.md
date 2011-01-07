@@ -34,15 +34,15 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–311 inserted “Robert T. Stafford” before “Disaster Relief and Emergency Assistance Act”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–311 inserted “Robert T. Stafford” before “Disaster Relief and Emergency Assistance Act”.
 
-1988—Subsec. (a). Pub. L. 100–707 substituted “and Emergency Assistance Act” for “Act of 1974”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–707 substituted “and Emergency Assistance Act” for “Act of 1974”.
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1974—Subsec. (a). Pub. L. 93–288 substituted “Disaster Relief Act of 1974” for “Disaster Relief Act of 1970”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–288 substituted “Disaster Relief Act of 1974” for “Disaster Relief Act of 1970”.
 
-1970—Subsec. (a). Pub. L. 91–606 substituted “Disaster Relief Act of 1970” for “Act of September 30, 1950 (42 U.S.C. 1855)”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–606 substituted “Disaster Relief Act of 1970” for “Act of September 30, 1950 (42 U.S.C. 1855)”.
 
 #### Effective Date of 1974 Amendment
 

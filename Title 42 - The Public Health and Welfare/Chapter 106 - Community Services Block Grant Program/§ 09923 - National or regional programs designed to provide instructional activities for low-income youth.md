@@ -14,7 +14,7 @@ Any instructional activity carried out by an eligible service provider receiving
 
 &emsp;(3) at least one nutritious meal daily, without charge, for participating youth during each day of participation;
 
-&emsp;(4) high quality instruction in a variety of sports (that shall include swimming and that may include dance and any other high quality recreational activity) provided by coaches and teachers from institutions of higher education and from elementary and secondary schools (as defined in section 7801 of title 20); and
+&emsp;(4) high quality instruction in a variety of sports (that shall include swimming and thatmay include dance and any other high quality recreational activity) provided by coaches and teachers from institutions of higher education and from elementary and secondary schools (as defined in section 7801 of title 20); and
 
 &emsp;(5) enrichment instruction and information on matters relating to the well-being of youth, to include educational opportunities and information on study practices, education for the prevention of drug and alcohol abuse, and information on health and nutrition, career opportunities, and family and job responsibilities.
 
@@ -70,7 +70,7 @@ Another prior section 682 of Pub. L. 97–35 was classified to section 9911 of t
 
 #### Amendments
 
-2002—Subsec. (b)(4). Pub. L. 107–110 substituted “7801” for “8801”.
+<b>2002</b>—Subsec. (b)(4). Pub. L. 107–110 substituted “7801” for “8801”.
 
 #### Effective Date of 2002 Amendment
 

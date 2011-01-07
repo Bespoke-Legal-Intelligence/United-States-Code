@@ -22,15 +22,15 @@ The date of the enactment of the Firearms Owners’ Protection Act, referred to 
 
 #### Amendments
 
-2002—Subsecs. (a) to (c). Pub. L. 107–296 substituted “Attorney General” for “Secretary”.
+<b>2002</b>—Subsecs. (a) to (c). Pub. L. 107–296 substituted “Attorney General” for “Secretary”.
 
-1994—Subsec. (a)(3). Pub. L. 103–322 added par. (3).
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–322 added par. (3).
 
-1986—Subsec. (a). Pub. L. 99–308, §106(1)–(4), designated existing provision as subsec. (a), and in subsec. (a) as so designated, in provision preceding par. (1) substituted “may prescribe only” for “may prescribe” and “as are” for “as he deems reasonably”, and in closing provision substituted provision that no rule or regulation prescribed after May 19, 1986, require that records required under this chapter be recorded at or transferred to a facility owned, managed, or controlled by the United States or any State or political subdivision thereof, nor any system of registration of firearms, firearms owners, or firearms transactions or dispositions be established and that nothing in this section expand or restrict the authority of the Secretary to inquire into the disposition of any firearm in the course of a criminal investigation for provision that the Secretary give reasonable public notice, and afford an opportunity for a hearing, prior to prescribing rules and regulations.
+<b>1986</b>—Subsec. (a). Pub. L. 99–308, §106(1)–(4), designated existing provision as subsec. (a), and in subsec. (a) as so designated, in provision preceding par. (1) substituted “may prescribe only” for “may prescribe” and “as are” for “as he deems reasonably”, and in closing provision substituted provision that no rule or regulation prescribed after May 19, 1986, require that records required under this chapter be recorded at or transferred to a facility owned, managed, or controlled by the United States or any State or political subdivision thereof, nor any system of registration of firearms, firearms owners, or firearms transactions or dispositions be established and that nothing in this section expand or restrict the authority of the Secretary to inquire into the disposition of any firearm in the course of a criminal investigation for provision that the Secretary give reasonable public notice, and afford an opportunity for a hearing, prior to prescribing rules and regulations.
 
 Subsecs. (b), (c). Pub. L. 99–308, §106(5), added subsecs. (b) and (c).
 
-1968—Pub. L. 90–618 inserted provisions authorizing the Secretary to prescribe regulations requiring a licensee, when dealing with another licensee, to provide such other licensee a certified copy of the license, and regulations authorizing the issuance of certified copies of the license required under this chapter.
+<b>1968</b>—Pub. L. 90–618 inserted provisions authorizing the Secretary to prescribe regulations requiring a licensee, when dealing with another licensee, to provide such other licensee a certified copy of the license, and regulations authorizing the issuance of certified copies of the license required under this chapter.
 
 #### Effective Date of 2002 Amendment
 

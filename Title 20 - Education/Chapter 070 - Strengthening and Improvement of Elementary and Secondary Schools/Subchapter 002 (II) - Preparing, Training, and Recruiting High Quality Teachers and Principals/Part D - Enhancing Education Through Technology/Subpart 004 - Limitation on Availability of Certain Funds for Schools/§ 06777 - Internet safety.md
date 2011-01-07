@@ -26,7 +26,7 @@ No funds made available under this part to a local educational agency for an ele
 
 #### (1) In general
 
-&emsp;The local educational agency with responsibility for a school covered by subsection (a) of this section shall certify the compliance of such school with the requirements of subsection (a) of this section as part of the application process for the next program funding year under this chapter following December 21, 2000, and for each subsequent program funding year thereafter.
+&emsp;The local educational agency with responsibility for a school covered by subsection (a) of this section shall certify the compliance ofsuch school with the requirements of subsection (a) of this section as part of the application process for the next program funding year under this chapter following December 21, 2000, and for each subsequent program funding year thereafter.
 
 #### (2) Process
 
@@ -50,7 +50,7 @@ No funds made available under this part to a local educational agency for an ele
 
 #### (C) Waivers
 
-&emsp;&emsp;Any school subject to a certification under subparagraph (B)(i)(II) for which the local educational agency concerned cannot make the certification otherwise required by that subparagraph may seek a waiver of that subparagraph if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by that subparagraph. The local educational agency concerned shall notify the Secretary of the applicability of that subparagraph to the school. Such notice shall certify that the school will be brought into compliance withthe requirements in subsection (a) of this section before the start of the third program year after December 21, 2000, in which the school is applying for funds under this part.
+&emsp;&emsp;Any school subject to a certification under subparagraph (B)(i)(II) for which the local educational agency concerned cannot make the certification otherwise required by that subparagraph may seek a waiver of that subparagraph if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by that subparagraph. The local educational agency concerned shall notify the Secretary of the applicability of that subparagraph to the school. Such notice shall certify that the school will be brought into compliance with the requirements in subsection (a) of this section before the start of the third program year after December 21, 2000, in which the school is applying for funds under this part.
 
 #### (c) Disabling during certain use
 
@@ -92,7 +92,7 @@ In this subpart:
 
 #### (3) Acquisition or operation
 
-&emsp;An elementary school or secondary school shall be considered to have received funds under this part for the acquisition or operation of any computer if such funds are used in any manner, directly or indirectly—
+&emsp;An elementary school or secondary school shall be considered to have received fundsunder this part for the acquisition or operation of any computer if such funds are used in any manner, directly or indirectly—
 
 &emsp;&emsp;(A) to purchase, lease, or otherwise acquire or obtain the use of such computer; or
 
@@ -129,4 +129,6 @@ In this subpart:
 If any provision of this section is held invalid, the remainder of this section shall not be affected thereby.
 
 (Pub. L. 89–10, title II, §2441, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1686.)
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “the”.</i>
 

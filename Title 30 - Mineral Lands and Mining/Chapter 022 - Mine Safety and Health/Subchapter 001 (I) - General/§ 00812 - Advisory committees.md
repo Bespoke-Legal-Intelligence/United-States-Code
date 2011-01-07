@@ -52,9 +52,9 @@ This chapter, referred to in subsec. (c), was in the original “this Act”, me
 
 #### Amendments
 
-1988—Subsec. (a)(1)(B). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+<b>1988</b>—Subsec. (a)(1)(B). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
-1977—Subsec. (a). Pub. L. 95–164 expanded the area of coverage for the committee on mine safety research from “coal mines” to “coal or other mines”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–164 expanded the area of coverage for the committee on mine safety research from “coal mines” to “coal or other mines”.
 
 Subsec. (b). Pub. L. 95–164 expanded the area of coverage for the advisory committee on mine health research from “coal mines” to “coal or other mines”.
 

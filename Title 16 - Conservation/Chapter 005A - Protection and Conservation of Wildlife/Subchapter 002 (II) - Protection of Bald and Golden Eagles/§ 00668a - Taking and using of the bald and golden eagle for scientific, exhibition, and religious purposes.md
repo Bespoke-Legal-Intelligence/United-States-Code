@@ -6,11 +6,11 @@ Whenever, after investigation, the Secretary of the Interior shall determine tha
 
 #### Amendments
 
-1978—Pub. L. 95–616 authorized taking of golden eagle nests which interfere with resource development or recovery operations.
+<b>1978</b>—Pub. L. 95–616 authorized taking of golden eagle nests which interfere with resource development or recovery operations.
 
-1972—Pub. L. 92–535 inserted proviso that the Secretary of the Interior may permit the taking, possession, and transportation of golden eagles for the purposes of falconry with exception that only golden eagles that cause depredations on livestock and wildlife may be taken for falconry.
+<b>1972</b>—Pub. L. 92–535 inserted proviso that the Secretary of the Interior may permit the taking, possession, and transportation of golden eagles for the purposes of falconry with exception that only golden eagles that cause depredations on livestock and wildlife may be taken for falconry.
 
-1962—Pub. L. 87–884 extended provisions of section to the golden eagle, permitted the taking of specimens for the religious purposes of Indian tribes and authorized the taking of golden eagles for purpose of seasonally protecting domesticated flocks and herds.
+<b>1962</b>—Pub. L. 87–884 extended provisions of section to the golden eagle, permitted the taking of specimens for the religious purposes of Indian tribes and authorized the taking of golden eagles for purpose of seasonally protecting domesticated flocks and herds.
 
 #### Policy Concerning Distribution of Eagle Feathers for Native American Religious Purposes
 

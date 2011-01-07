@@ -34,7 +34,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;The term “child with a disability” means a child—
 
-&emsp;&emsp;&emsp;(i) with mental retardation, hearing impairments (including deafness), speech or language impairments, visual impairments (including blindness), serious emotional disturbance (referred to in this chapter as “emotional disturbance”), orthopedic impairments, autism, traumatic brain injury, other health impairments, or specific learning disabilities; and
+&emsp;&emsp;&emsp;(i) with intellectual disabilities, hearing impairments (including deafness), speech or language impairments, visual impairments (including blindness), serious emotional disturbance (referred to in this chapter as “emotional disturbance”), orthopedic impairments, autism, traumatic brain injury, other health impairments, or specific learning disabilities; and
 
 &emsp;&emsp;&emsp;(ii) who, by reason thereof, needs special education and related services.
 
@@ -42,7 +42,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;The term “child with a disability” for a child aged 3 through 9 (or any subset of that age range, including ages 3 through 5), may, at the discretion of the State and the local educational agency, include a child—
 
-&emsp;&emsp;&emsp;(i) experiencing developmental delays, as defined by the State and as measured byappropriate diagnostic instruments and procedures, in 1 or more of the following areas: physical development; cognitive development; communication development; social or emotional development; or adaptive development; and
+&emsp;&emsp;&emsp;(i) experiencing developmental delays, as defined by the State and as measured by appropriate diagnostic instruments and procedures, in 1 or more of the following areas: physical development; cognitive development; communication development; social or emotional development; or adaptive development; and
 
 &emsp;&emsp;&emsp;(ii) who, by reason thereof, needs special education and related services.
 
@@ -124,7 +124,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;When used with respect to a special education teacher who teaches core academic subjects exclusively to children who are assessed against alternate achievement standards established under the regulations promulgated under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311(b)(1)\], such term means the teacher, whether new or not new to the profession, may either—
 
-&emsp;&emsp;&emsp;(i) meet the applicable requirements of section 9101 of such Act \[20 U.S.C. 7801\] forany elementary, middle, or secondary school teacher who is new or not new to the profession; or
+&emsp;&emsp;&emsp;(i) meet the applicable requirements of section 9101 of such Act \[20 U.S.C. 7801\] for any elementary, middle, or secondary school teacher who is new or not new to the profession; or
 
 &emsp;&emsp;&emsp;(ii) meet the requirements of subparagraph (B) or (C) of section 9101(23) of such Act as applied to an elementary school teacher, or, in the case of instruction above the elementary level, has subject matter knowledge appropriate to the level of instruction being provided, as determined by the State, needed to effectively teach to those standards.
 
@@ -160,7 +160,7 @@ Except as otherwise provided, in this chapter:
 
 #### (14) Individualized education program; IEP
 
-&emsp;The term “individualized education program” or “IEP” means a written statement for each child with a disability that is developed, reviewed, and revised in accordance with section 1414(d) of this title.
+&emsp;The term “individualized education program” or “IEP” means a written statementfor each child with a disability that is developed, reviewed, and revised in accordance with section 1414(d) of this title.
 
 #### (15) Individualized family service plan
 
@@ -270,7 +270,7 @@ Except as otherwise provided, in this chapter:
 
 #### (C) Disorders not included
 
-&emsp;&emsp;Such term does not include a learning problem that is primarily the result of visual, hearing, or motor disabilities, of mental retardation, of emotional disturbance, or of environmental, cultural, or economic disadvantage.
+&emsp;&emsp;Such term does not include a learning problem that is primarily the result of visual, hearing, or motor disabilities, of intellectual disabilities, of emotional disturbance, or of environmental, cultural, or economic disadvantage.
 
 #### (31) State
 
@@ -308,13 +308,13 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;The term does not include a foster child who has a foster parent who meets the definition of a parent in paragraph (23).
 
-(Pub. L. 91–230, title VI, §602, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2652; amended Pub. L. 110–315, title IX, §941(k)(2)(C), Aug. 14, 2008, 122 Stat. 3466.)
+(Pub. L. 91–230, title VI, §602, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2652; amended Pub. L. 110–315, title IX, §941(k)(2)(C), Aug. 14, 2008, 122 Stat. 3466; Pub. L. 111–256, §2(b)(2), Oct. 5, 2010, 124 Stat. 2643.)
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in pars. (8)(A)(ii), (iii) and (10)(F), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. Parts A and B of title III of the Act are classified generally to parts A (§6811 et seq.) and B (§6891 et seq.), respectively, of subchapter III of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in pars. (8)(A)(ii), (iii) and (10)(F), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. Parts A and B of title III of the Act are classified generally to parts A (§6811 et seq.) and B (§6891 et seq.), respectively, of subchapter III of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in par. (13), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (13), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in par. (17)(B), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
@@ -326,9 +326,17 @@ Another prior section 1401, Pub. L. 91–230, title VI, §602, Apr. 13, 1970, 84
 
 #### Amendments
 
-2008—Par. (17)(B). Pub. L. 110–315 substituted “college or university” for “community college” and “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
+<b>2010</b>—Par. (3)(A)(i). Pub. L. 111–256, §2(b)(2)(A), substituted “with intellectual disabilities” for “with mental retardation”.
+
+Par. (30)(C). Pub. L. 111–256, §2(b)(2)(B), substituted “of intellectual disabilities” for “of mental retardation”.
+
+<b>2008</b>—Par. (17)(B). Pub. L. 110–315 substituted “college or university” for “community college” and “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 
 #### Effective Date
 
 Section effective July 1, 2005, except that subparagraphs (C) through (F) of par. (10) of this section are effective Dec. 3, 2004, for purposes of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), see section 302(a) of Pub. L. 108–446, set out as a note under section 1400 of this title.
+
+#### Definitions
+
+For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of this title.
 

@@ -38,7 +38,7 @@ Regular Military Department Assessments.—The Secretary of each military depart
 
 Voting Assistance Officers.—(1) Voting assistance officers shall be appointed or assigned under Department of Defense regulations. Commanders at all levels are responsible for ensuring that unit voting officers are trained and equipped to provide information and assistance to members of the armed forces on voting matters. Performance evaluation reports pertaining to a member who has been assigned to serve as a voting assistance officer shall comment on the performance of the member as a voting assistance officer.
 
-(2) Under regulations and procedures (including directives) prescribed by the Secretary, a member of the armed forces appointed or assigned to duty as a voting assistance officer shall, to the maximum extent practicable, be given the time and resources needed to perform the member's duties as a voting assistance officer during the period in advance of a general election when members and their dependents are preparing and submitting absentee ballots.
+(2) Under regulations and procedures (including directives) prescribed by the Secretary, a member of the armed forces appointed or assigned to duty as a voting assistance officer shall, to the maximum extent practicable, be given the time and resources needed to performthe member's duties as a voting assistance officer during the period in advance of a general election when members and their dependents are preparing and submitting absentee ballots.
 
 (g)
 
@@ -54,7 +54,7 @@ Notice of Deadlines and Requirements.—The Secretary of each military departmen
 
 (i)
 
-Registration and Voting Information for Members and Dependents.—(1) The Secretary of each military department, using a variety ofmeans including both print and electronic media, shall, to the maximum extent practicable, ensure that members of the armed forces and their dependents who are qualified to vote have ready access to information regarding voter registration requirements and deadlines (including voter registration), absentee ballot application requirements and deadlines, and the availability of voting assistance officers to assist members and dependents to understand and comply with these requirements.
+Registration and Voting Information for Members and Dependents.—(1) The Secretary of each military department, using a variety of means including both print and electronic media, shall, to the maximum extent practicable, ensure that members of the armed forces and their dependents who are qualified to vote have ready access to information regarding voter registration requirements and deadlines (including voter registration), absentee ballot application requirements and deadlines, and the availability of voting assistance officers to assist members and dependents to understand and comply with these requirements.
 
 (2) The Secretary of each military department shall make the national voter registration form prepared for purposes of the Uniformed and Overseas Citizens Absentee Voting Act by the Federal Election Commission available so that each person who enlists shall receive such form at the time of the enlistment, or as soon thereafter as practicable.
 
@@ -68,15 +68,15 @@ The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsecs.
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–364, §596(a), struck out subsec. (d), which required the Inspector General of the Department of Defense to periodically conduct unannounced assessments of compliance with requirements of law regarding voting by members of the armed forces at Department of Defense installations.
+<b>2006</b>—Subsec. (d). Pub. L. 109–364, §596(a), struck out subsec. (d), which required the Inspector General of the Department of Defense to periodically conduct unannounced assessments of compliance with requirements of law regarding voting by members of the armed forces at Department of Defense installations.
 
 Subsec. (g)(2). Pub. L. 109–364, §596(d), struck out at end “Not later than April 29, 2003, the Secretary shall submit to Congress a report describing the measures to be implemented to ensure the timely transmittal and postmarking of voting materials and identifying the persons responsible for implementing such measures.”
 
-2004—Subsec. (g)(2). Pub. L. 108–375, §1084(d)(13)(A), substituted “April 29, 2003” for “the date that is 6 months after the date of the enactment of the Help America Vote Act of 2002”.
+<b>2004</b>—Subsec. (g)(2). Pub. L. 108–375, §1084(d)(13)(A), substituted “April 29, 2003” for “the date that is 6 months after the date of the enactment of the Help America Vote Act of 2002”.
 
 Subsecs. (h), (i)(1), (3). Pub. L. 108–375, §1084(d)(13)(B), substituted “armed forces” for “Armed Forces”.
 
-2002—Subsec. (f). Pub. L. 107–252, §701(a), designated existing provisions as par. (1) and added par. (2).
+<b>2002</b>—Subsec. (f). Pub. L. 107–252, §701(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (g)(2). Pub. L. 107–252, §701(b), inserted at end “The Secretary shall, to the maximum extent practicable, implement measures to ensure that a postmark or other official proof of mailing date is provided on each absentee ballot collected at any overseas location or vessel at sea whenever the Department of Defense is responsible for collecting mail for return shipment to the United States. The Secretary shall ensure that the measures implemented under the preceding sentence do not result in the delivery of absentee ballots to the final destination of such ballots after the date on which the election for Federal office is held. Not later than the date that is 6 months after the date of the enactment of the Help America Vote Act of 2002, the Secretary shall submit to Congress a report describing the measures to be implemented to ensure the timely transmittal and postmarking of voting materials and identifying the persons responsible for implementing such measures.”
 
@@ -86,5 +86,5 @@ Subsec. (i). Pub. L. 107–252, §701(d), added subsec. (i).
 
 #### Initial Report
 
-Pub. L. 107–107, div. A, title XVI, §1602(b), Dec. 28, 2001, 115 Stat. 1276, directed that the first report under subsec. (c)(3) of this section be submitted not later than Mar. 31, 2003.
+Pub. L. 107–107, div. A, title XVI, §1602(b), Dec. 28, 2001, 115 Stat. 1276, directed that the first report undersubsec. (c)(3) of this section be submitted not later than Mar. 31, 2003.
 

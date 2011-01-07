@@ -26,7 +26,7 @@ The State plan contained in the application under subsection (a) of this section
 
 &emsp;&emsp;Provide assurances that—
 
-&emsp;&emsp;&emsp;(i) the parent or parents of each eligible child within the State who receives or is offered child care services for which financial assistance is provided under this subchapter are given the option either—
+&emsp;&emsp;&emsp;(i) the parent or parents of each eligible child within the State who receives or isoffered child care services for which financial assistance is provided under this subchapter are given the option either—
 
 &emsp;&emsp;&emsp;&emsp;(I) to enroll such child with a child care provider that has a grant or contract for the provision of such services; or
 
@@ -126,9 +126,9 @@ Paragraphs (2) through (5) of section 658A(b), referred to in subsec. (c)(3)(B),
 
 #### Amendments
 
-1997—Subsec. (c)(2)(E)(ii). Pub. L. 105–33 substituted “tribal organizations receiving” for “tribal organization receiving”.
+<b>1997</b>—Subsec. (c)(2)(E)(ii). Pub. L. 105–33 substituted “tribal organizations receiving” for “tribal organization receiving”.
 
-1996—Subsec. (b). Pub. L. 104–193, §605(1), substituted “implemented during a 2-year period” for “implemented—
+<b>1996</b>—Subsec. (b). Pub. L. 104–193, §605(1), substituted “implemented during a 2-year period” for “implemented—
 
 &emsp;“(1) during a 3-year period for the initial State plan; and
 
@@ -152,7 +152,7 @@ Subsec. (c)(2)(H). Pub. L. 104–193, §605(2)(A)(viii), added subpar. (H) and s
 
 Subsec. (c)(2)(I). Pub. L. 104–193, §605(2)(A)(viii), struck out heading and text of subpar. (I). Text read as follows: “Provide assurances that not later than 18 months after the date of the submission of the application under this section, the State will complete a full review of the law applicable to, and the licensing and regulatory requirements and policies of, each licensing agency that regulates child care services and programs in the State unless the State has reviewed such law, requirements, and policies in the 3-year period ending on November 5, 1990.”
 
-Subsec. (c)(2)(J). Pub. L. 104–193, §605(2)(A)(viii), struck out heading and text of subpar. (J). Text read as follows: “Provide assurances that funds received under this subchapter by the State will be used only to supplement, not to supplant, the amount of Federal, State, and local funds otherwise expended for the support of child care services and related programs in the State.”
+Subsec. (c)(2)(J). Pub. L. 104–193, §605(2)(A)(viii), struck out heading and text of subpar. (J). Text read asfollows: “Provide assurances that funds received under this subchapter by the State will be used only to supplement, not to supplant, the amount of Federal, State, and local funds otherwise expended for the support of child care services and related programs in the State.”
 
 Subsec. (c)(3)(A). Pub. L. 104–193, §605(2)(B)(i), substituted “subparagraphs (B) through (D)” for “subparagraphs (B) and (C)”.
 
@@ -160,13 +160,13 @@ Subsec. (c)(3)(B). Pub. L. 104–193, §605(2)(B)(ii), inserted “and related a
 
 &emsp;“(i) child care services, that meet the requirements of this subchapter, that are provided to eligible children in the State on a sliding fee scale basis using funding methods provided for in subsection (c)(2)(A) of this section”, substituted “special needs.” for “special needs; and”, and struck out cl. (ii) which read as follows: “activities designed to improve the availability and quality of child care.”
 
-Subsec. (c)(3)(C). Pub. L. 104–193, §605(2)(B)(iii), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “The State shall reserve 25 percent of the amounts provided to the State for each fiscal year under this subchapter to carry out activities designed to improve the quality ofchild care (as described in section 9858e of this title) and to provide before- and after-school and early childhood development services (as described in section 9858f of this title).”
+Subsec. (c)(3)(C). Pub. L. 104–193, §605(2)(B)(iii), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “The State shall reserve 25 percent of the amounts provided to the State for each fiscal year under this subchapter to carry out activities designed to improve the quality of child care (as described in section 9858e of this title) and to provide before- and after-school and early childhood development services (as described in section 9858f of this title).”
 
 Subsec. (c)(3)(D). Pub. L. 104–193, §605(2)(B)(iv), added subpar. (D).
 
 Subsec. (c)(4)(A). Pub. L. 104–193, §605(2)(C), substituted “State plan shall certify” for “State plan shall provide assurances”, inserted “and shall provide a summary of the facts relied on by the State to determine that such rates are sufficient to ensure such access” after “Federal or State programs”, and struck out at end “Such payment rates shall take into account the variations in the costs of providing child care in different settings and to children of different age groups, and the additional costs of providing child care for children with special needs.”
 
-1992—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
+<b>1992</b>—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
 
 #### Effective Date of 1997 Amendment
 

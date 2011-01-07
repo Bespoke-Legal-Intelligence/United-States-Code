@@ -8,7 +8,7 @@ There is established in the Department of Health and Human Services the Food and
 
 The Administration shall—
 
-&emsp;(1) promote the public health by promptly and efficiently reviewing clinical research andtaking appropriate action on the marketing of regulated products in a timely manner;
+&emsp;(1) promote the public health by promptly and efficiently reviewing clinical research and taking appropriate action on the marketing of regulated products in a timely manner;
 
 &emsp;(2) with respect to such products, protect the public health by ensuring that—
 
@@ -86,13 +86,51 @@ The Secretary shall annually prepare and publish in the Federal Register and sol
 
 &emsp;(3) identifies any regulatory policy that has a significant negative impact on compliance with any objective of the plan or any statutory obligation and sets forth any proposed revision to any such regulatory policy.
 
-(June 25, 1938, ch. 675, §1003, formerly §903, as added Pub. L. 100–607, title V, §503(a), Nov. 4, 1988, 102 Stat. 3121; amended Pub. L. 100–690, title II, §2631, Nov. 18, 1988, 102 Stat. 4244; Pub. L. 105–115, title IV, §§406, 414, Nov. 21, 1997, 111 Stat. 2369, 2377; renumbered §1003 and amended Pub. L. 111–31, div. A, title I, §§101(b)(2), 103(m), June 22, 2009, 123 Stat. 1784, 1838.)
+#### (h) Annual report regarding food
+
+Not later than February 1 of each year, the Secretary shall submit to Congress a report, including efforts to coordinate and cooperate with other Federal agencies with responsibilities for food inspections, regarding—
+
+&emsp;(1) information about food facilities including—
+
+&emsp;&emsp;(A) the appropriations used to inspect facilities registered pursuant to section 350d of this title in the previous fiscal year;
+
+&emsp;&emsp;(B) the average cost of both a non-high-risk food facility inspection and a high-risk food facility inspection, if such a difference exists, in the previous fiscal year;
+
+&emsp;&emsp;(C) the number of domestic facilities and the number of foreign facilities registered pursuant to section 350d of this title that the Secretary inspected in the previous fiscal year;
+
+&emsp;&emsp;(D) the number of domestic facilities and the number of foreign facilities registered pursuant to section 350d of this title that were scheduled for inspection in the previous fiscal year and which the Secretary did not inspect in such year;
+
+&emsp;&emsp;(E) the number of high-risk facilities identified pursuant to section 350j of this title that the Secretary inspected in the previous fiscal year; and
+
+&emsp;&emsp;(F) the number of high-risk facilities identified pursuant to section 350j of this title that were scheduled for inspection in the previous fiscal year and which the Secretary did not inspect in such year.
+
+&emsp;(2) information about food imports including—
+
+&emsp;&emsp;(A) the number of lines of food imported into the United States that the Secretary physically inspected or sampled in the previous fiscal year;
+
+&emsp;&emsp;(B) the number of lines of food imported into the United States that the Secretary did not physically inspect or sample in the previous fiscal year; and
+
+&emsp;&emsp;(C) the average cost of physically inspecting or sampling a line of food subject to this chapter that is imported or offered for import into the United States; and
+
+&emsp;(3) information on the foreign offices of the Food and Drug Administration including—
+
+&emsp;&emsp;(A) the number of foreign offices established; and
+
+&emsp;&emsp;(B) the number of personnel permanently stationed in each foreign office.
+
+#### (i) Public availability of annual food reports
+
+The Secretary shall make the reports required under subsection (h) available to the public on the Internet Web site of the Food and Drug Administration.
+
+(June 25, 1938, ch. 675, §1003, formerly §903, as added Pub. L. 100–607, title V, §503(a), Nov. 4,1988, 102 Stat. 3121; amended Pub. L. 100–690, title II, §2631, Nov. 18, 1988, 102 Stat. 4244; Pub. L. 105–115, title IV, §§406, 414, Nov. 21, 1997, 111 Stat. 2369, 2377; renumbered §1003 and amended Pub. L. 111–31, div. A, title I, §§101(b)(2), 103(m), June 22, 2009, 123 Stat. 1784, 1838; Pub. L. 111–353, title II, §201(b), Jan. 4, 2011, 124 Stat. 3925.)
 
 #### Amendments
 
-2009—Subsec. (d)(2)(C). Pub. L. 111–31, §103(m), struck out “and” after “cosmetics,” and inserted “, and tobacco products” after “devices”.
+<b>2011</b>—Subsecs. (h), (i). Pub. L. 111–353 added subsecs. (h) and (i).
 
-1997—Subsec. (b). Pub. L. 105–115, §406(a)(2), added subsec. (b). Former subsec. (b) redesignated (d).
+<b>2009</b>—Subsec. (d)(2)(C). Pub. L. 111–31, §103(m), struck out “and” after “cosmetics,” and inserted “, and tobacco products” after “devices”.
+
+<b>1997</b>—Subsec. (b). Pub. L. 105–115, §406(a)(2), added subsec. (b). Former subsec. (b) redesignated (d).
 
 Subsec. (c). Pub. L. 105–115, §414, added subsec. (c). Former subsec. (c) redesignated (e).
 
@@ -100,7 +138,7 @@ Subsecs. (d), (e). Pub. L. 105–115, §406(a)(1), redesignated subsecs. (b) and
 
 Subsecs. (f), (g). Pub. L. 105–115, §406(b), added subsecs. (f) and (g).
 
-1988—Subsec. (b)(2). Pub. L. 100–690 substituted “shall be responsible for executing this chapter and” for “shall be responsible”.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–690 substituted “shall be responsible for executing this chapter and” for “shall be responsible”.
 
 #### Effective Date of 1997 Amendment
 
@@ -121,6 +159,10 @@ Pub. L. 108–282, title I, §102(b)(7), Aug. 2, 2004, 118 Stat. 905, provided t
 #### Regulations for Sunscreen Products
 
 Section 129 of Pub. L. 105–115 provided that: “Not later than 18 months after the date of enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall issue regulations for over-the-counter sunscreen products for the prevention or treatment of sunburn.”
+
+#### Construction of 2011 Amendment
+
+Nothing in amendment by Pub. L. 111–353 to be construed to apply to certain alcohol-related facilities, to alter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
 
 #### FDA Study of Mercury Compounds in Drugs and Food
 

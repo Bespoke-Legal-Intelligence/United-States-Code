@@ -16,7 +16,7 @@ Scope of Rehearing.—(1) Upon a rehearing—
 
 &emsp;&emsp;(ii) the sentence prescribed for the offense is mandatory.
 
-(2) Upon a rehearing, if the sentence approved after the first military commission was in accordance with a pretrial agreement and the accused at the rehearing changes his plea with respect to the charges or specifications upon which the pretrial agreement was based, orotherwise does not comply with pretrial agreement, the sentence as to those charges or specifications may include any punishment not in excess of that lawfully adjudged at the first military commission.
+(2) Upon a rehearing, if the sentence approved after the first military commission was in accordance with a pretrial agreement and the accused at the rehearing changes his plea with respect to the charges or specifications upon which the pretrial agreement was based, or otherwise does not comply with pretrial agreement, the sentence as to those charges or specifications may include any punishment not in excess of that lawfully adjudged at the first military commission.
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2602.)
 

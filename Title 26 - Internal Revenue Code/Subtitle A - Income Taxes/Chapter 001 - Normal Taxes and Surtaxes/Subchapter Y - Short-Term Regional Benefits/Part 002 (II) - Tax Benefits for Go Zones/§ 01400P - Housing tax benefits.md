@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Gross income of a qualified employee shall not include the value of any lodging furnishedin-kind to such employee (and such employee's spouse or any of such employee's dependents) by or on behalf of a qualified employer for any month during the taxable year.
+&emsp;Gross income of a qualified employee shall not include the value of any lodging furnished in-kind to such employee (and such employee's spouse or any of such employee's dependents) by or on behalf of a qualified employer for any month during the taxable year.
 
 #### (2) Limitation
 

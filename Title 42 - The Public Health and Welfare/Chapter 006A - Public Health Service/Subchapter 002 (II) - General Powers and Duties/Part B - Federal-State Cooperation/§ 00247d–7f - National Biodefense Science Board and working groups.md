@@ -34,7 +34,7 @@
 
 &emsp;The Board shall—
 
-&emsp;&emsp;(A) advise the Secretary on current and future trends, challenges, and opportunities presented by advances in biological and life sciences, biotechnology, and genetic engineering with respect to threats posed by naturally occurring infectious diseases and chemical, biological, radiological, and nuclear agents;
+&emsp;&emsp;(A) advise the Secretary on current and future trends, challenges, and opportunities presented by advances in biological and life sciences, biotechnology, and genetic engineering with respect to threats posed by naturally occurring infectious diseases andchemical, biological, radiological, and nuclear agents;
 
 &emsp;&emsp;(B) at the request of the Secretary, review and consider any information and findings received from the working groups established under subsection (b); and
 
@@ -92,7 +92,7 @@ The Secretary may establish a working group of experts, or may use an existing w
 
 &emsp;(1) identify innovative research with the potential to be developed as a qualified countermeasure or a qualified pandemic or epidemic product;
 
-&emsp;(2) identify accepted animal models for particular diseases and conditions associated withany biological, chemical, radiological, or nuclear agent, any toxin, or any potential pandemic infectious disease, and identify strategies to accelerate animal model and research tool development and validation; and
+&emsp;(2) identify accepted animal models for particular diseases and conditions associated with any biological, chemical, radiological, or nuclear agent, any toxin, or any potential pandemic infectious disease, and identify strategies to accelerate animal model and research tool development and validation; and
 
 &emsp;(3) obtain advice regarding supporting and facilitating advanced research and development related to qualified countermeasures and qualified pandemic or epidemic products that are likely to be safe and effective with respect to children, pregnant women, and other vulnerable populations, and other issues regarding activities under this section that affect such populations.
 

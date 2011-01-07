@@ -100,13 +100,13 @@ If counter-cyclical payments are required to be paid for any of the 2002 through
 
 &emsp;&emsp;&emsp;(ii) the second partial payment shall be made not earlier than February 1 of the next calendar year; and
 
-&emsp;&emsp;&emsp;(iii) the final partial payment shall be made as soon as practicable after the endof the 12-month marketing year for the covered commodity.
+&emsp;&emsp;&emsp;(iii) the final partial payment shall be made as soon as practicable after the end of the 12-month marketing year for the covered commodity.
 
 #### (B) 2007 crop year
 
 &emsp;&emsp;When the Secretary makes partial payments available for a covered commodity for the 2007 crop year—
 
-&emsp;&emsp;&emsp;(i) the first partial payment shall be made after completion of the first 6 months of the marketing year for the covered commodity; and
+&emsp;&emsp;&emsp;(i) the first partial payment shall be made after completion of the first 6months of the marketing year for the covered commodity; and
 
 &emsp;&emsp;&emsp;(ii) the final partial payment shall be made as soon as practicable after the end of the 12-month marketing year for the covered commodity.
 

@@ -10,5 +10,5 @@ Prior sections 2542 to 2550 were renumbered sections 2552 to 2560 of this title,
 
 #### Amendments
 
-2003—Pub. L. 108–136 struck out subsec. (a) designation and heading and struck out subsec. (b) which directed that the Secretary of Defense annually submit to Congress a report on the loan guarantee program under this subchapter.
+<b>2003</b>—Pub. L. 108–136 struck out subsec. (a) designation and heading and struck out subsec. (b) which directed that the Secretary of Defense annually submit to Congress a report on the loan guarantee program under this subchapter.
 

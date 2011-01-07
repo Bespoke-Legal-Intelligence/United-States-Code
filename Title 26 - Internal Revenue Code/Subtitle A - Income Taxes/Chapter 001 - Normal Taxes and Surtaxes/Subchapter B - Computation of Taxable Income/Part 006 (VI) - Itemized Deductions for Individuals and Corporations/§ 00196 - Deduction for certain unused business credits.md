@@ -2,7 +2,7 @@
 
 #### (a) Allowance of deduction
 
-If any portion of the qualified business credits determined for any taxable year has not, after the application of section 38(c), been allowed to the taxpayer as a credit under section 38 for any taxable year, an amount equal to the credit not so allowed shall be allowed to the taxpayer as a deduction for the first taxable year following the last taxable year for which such credit could, under section 39, have been allowed as a credit.
+If any portion of the qualified business credits determined for any taxable year has not, afterthe application of section 38(c), been allowed to the taxpayer as a credit under section 38 for any taxable year, an amount equal to the credit not so allowed shall be allowed to the taxpayer as a deduction for the first taxable year following the last taxable year for which such credit could, under section 39, have been allowed as a credit.
 
 #### (b) Taxpayer's dying or ceasing to exist
 
@@ -34,9 +34,11 @@ For purposes of this section, the term “qualified business credits” means—
 
 &emsp;(11) the biodiesel fuels credit determined under section 40A(a),
 
-&emsp;(12) the low sulfur diesel fuel production credit determined under section 45H(a), and
+&emsp;(12) the low sulfur diesel fuel production credit determined under section 45H(a),
 
-&emsp;(13) the new energy efficient home credit determined under section 45L(a).
+&emsp;(13) the new energy efficient home credit determined under section 45L(a), and
+
+&emsp;(14) the small employer health insurance credit determined under section 45R(a).
 
 #### (d) Special rule for investment tax credit and research credit
 
@@ -46,7 +48,7 @@ Subsection (a) shall be applied by substituting “an amount equal to 50 percent
 
 &emsp;(2) the research credit determined under section 41(a) for a taxable year beginning before January 1, 1990.
 
-(Added Pub. L. 97–248, title II, §205(a)(2), Sept. 3, 1982, 96 Stat. 428; amended Pub. L. 98–369, div. A, title IV, §474(r)(8)(A), July 18, 1984, 98 Stat. 840; Pub. L. 100–647, title IV, §4008(b)(2), Nov. 10, 1988, 102 Stat. 3653; Pub. L. 101–239, title VII, §§7110(c)(2), 7814(e)(1), (2)(D), Dec. 19, 1989, 103 Stat. 2325, 2413, 2414; Pub. L. 101–508, title XI, §§11511(b)(3), 11813(b)(12), Nov. 5, 1990, 104 Stat. 1388–485, 1388–554; Pub. L. 103–66, title XIII, §§13302(b)(2), 13322(c)(2), Aug. 10, 1993, 107 Stat. 555, 563; Pub. L. 104–188, title I, §1201(e)(1), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–206, title VI, §6020(a), July 22, 1998, 112 Stat. 823; Pub. L. 106–554, §1(a)(7) \[title I, §121(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610; Pub. L. 107–16, title VI, §619(c)(2), June 7, 2001, 115 Stat. 110; Pub. L. 108–357, title III, §§302(c)(2), 339(e), Oct. 22, 2004, 118 Stat. 1465, 1484; Pub. L. 109–58, title XIII, §1332(d), Aug. 8, 2005, 119 Stat. 1026.)
+(Added Pub. L. 97–248, title II, §205(a)(2), Sept. 3, 1982, 96 Stat. 428; amended Pub. L. 98–369, div. A, title IV, §474(r)(8)(A), July 18, 1984, 98 Stat. 840; Pub. L. 100–647, title IV, §4008(b)(2), Nov. 10, 1988, 102 Stat. 3653; Pub. L. 101–239, title VII, §§7110(c)(2), 7814(e)(1), (2)(D), Dec. 19, 1989, 103 Stat. 2325, 2413, 2414; Pub. L. 101–508, title XI, §§11511(b)(3), 11813(b)(12), Nov. 5, 1990, 104 Stat. 1388–485, 1388–554; Pub. L. 103–66, title XIII, §§13302(b)(2), 13322(c)(2), Aug. 10, 1993, 107 Stat. 555, 563; Pub. L. 104–188, title I, §1201(e)(1), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–206, title VI, §6020(a), July 22, 1998, 112 Stat. 823; Pub. L. 106–554, §1(a)(7) \[title I, §121(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610; Pub. L. 107–16, title VI, §619(c)(2), June 7, 2001, 115 Stat. 110; Pub. L. 108–357, title III, §§302(c)(2), 339(e), Oct. 22, 2004, 118 Stat. 1465, 1484; Pub. L. 109–58, title XIII, §1332(d), Aug. 8, 2005, 119 Stat. 1026; Pub. L. 111–148, title I, §1421(d)(2), Mar. 23, 2010, 124 Stat. 242.)
 
 #### Codification
 
@@ -54,41 +56,47 @@ Another section 339(e) of Pub. L. 108–357 amended the table of sections for su
 
 #### Amendments
 
-2005—Subsec. (c)(13). Pub. L. 109–58 added par. (13).
+<b>2010</b>—Subsec. (c)(14). Pub. L. 111–148 added par. (14).
 
-2004—Subsec. (c)(11). Pub. L. 108–357, §302(c)(2), added par. (11).
+<b>2005</b>—Subsec. (c)(13). Pub. L. 109–58 added par. (13).
+
+<b>2004</b>—Subsec. (c)(11). Pub. L. 108–357, §302(c)(2), added par. (11).
 
 Subsec. (c)(12). Pub. L. 108–357, §339(e), added par. (12).
 
-2001—Subsec. (c)(10). Pub. L. 107–16 added par. (10).
+<b>2001</b>—Subsec. (c)(10). Pub. L. 107–16 added par. (10).
 
-2000—Subsec. (c)(9). Pub. L. 106–554 added par. (9).
+<b>2000</b>—Subsec. (c)(9). Pub. L. 106–554 added par. (9).
 
-1998—Subsec. (c)(8). Pub. L. 105–206 added par. (8).
+<b>1998</b>—Subsec. (c)(8). Pub. L. 105–206 added par. (8).
 
-1996—Subsec. (c)(2). Pub. L. 104–188 substituted “work opportunity credit” for “targeted jobs credit”.
+<b>1996</b>—Subsec. (c)(2). Pub. L. 104–188 substituted “work opportunity credit” for “targeted jobs credit”.
 
-1993—Subsec. (c)(6). Pub. L. 103–66, §13302(b)(2), added par. (6).
+<b>1993</b>—Subsec. (c)(6). Pub. L. 103–66, §13302(b)(2), added par. (6).
 
 Subsec. (c)(7). Pub. L. 103–66, §13322(c)(2), added par. (7).
 
-1990—Subsec. (c)(1). Pub. L. 101–508, §11813(b)(12)(A), substituted “section 46” for “section 46(a)” and “section 50(c)” for “section 48(q)”.
+<b>1990</b>—Subsec. (c)(1). Pub. L. 101–508, §11813(b)(12)(A), substituted “section 46” for “section 46(a)” and “section 50(c)” for “section 48(q)”.
 
 Subsec. (c)(5). Pub. L. 101–508, §11511(b)(3), added par. (5).
 
 Subsec. (d)(1). Pub. L. 101–508, §11813(b)(12)(B), substituted “section 46” for “section 46(a)” and “other than the rehabilitation credit” for “other than a credit to which section 48(q)(3) applies”.
 
-1989—Subsec. (c)(4). Pub. L. 101–239, §7814(e)(2)(D), inserted “(other than such credit determined under section 280C(c)(3))” after “section 41(a)”.
+<b>1989</b>—Subsec. (c)(4). Pub. L. 101–239, §7814(e)(2)(D), inserted “(other than such credit determined under section 280C(c)(3))” after “section 41(a)”.
 
 Subsec. (d). Pub. L. 101–239, §7814(e)(1), substituted “substituting ‘an amount equal to 50 percent of’ for ‘an amount equal to’ in the case of” for “substituting an amount equal to 50 percent of for an amount equal to in the case of” in introductory provisions.
 
 Subsec. (d)(2). Pub. L. 101–239, §7110(c)(2), inserted “for a taxable year beginning before January 1, 1990” after “under section 41(a)”.
 
-1988—Subsec. (c)(4). Pub. L. 100–647, §4008(b)(2)(A), added par. (4).
+<b>1988</b>—Subsec. (c)(4). Pub. L. 100–647, §4008(b)(2)(A), added par. (4).
 
 Subsec. (d). Pub. L. 100–647, §4008(b)(2)(B), inserted “and research credit” after “tax credit” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of the investment credit determined under section 46(a) (other than a credit to which section 48(q)(3) applies), subsection (a) shall be applied by substituting ‘an amount equal to 50 percent of’ for ‘an amount equal to’.”
 
-1984—Pub. L. 98–369 amended section generally, substituting provisions relating to deduction for certain unused business credits for provisions relating to deduction for certain unused investment credits.
+<b>1984</b>—Pub. L. 98–369 amended section generally, substituting provisions relating to deduction for certain unused business credits for provisions relating to deduction for certain unused investment credits.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–148 applicable to amounts paid or incurred in taxable years beginning after Dec. 31, 2009, see section 1421(f)(1) of Pub. L. 111–148, set out as a note under section 38 of this title.
 
 #### Effective Date of 2005 Amendment
 

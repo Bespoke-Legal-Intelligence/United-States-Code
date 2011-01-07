@@ -56,3 +56,5 @@ An Rx plan described in this subsection is any of the following:
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–24, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2130.)
 
+<i><sup>1</sup></i><i> So in original. Probably should be “effect”.</i>
+

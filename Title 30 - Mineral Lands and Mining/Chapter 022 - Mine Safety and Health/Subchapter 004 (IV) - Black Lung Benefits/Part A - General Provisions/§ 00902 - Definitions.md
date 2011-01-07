@@ -14,7 +14,7 @@ For purposes of this subchapter—
 
 (d) The term “miner” means any individual who works or has worked in or around a coal mine or coal preparation facility in the extraction or preparation of coal. Such term also includes an individual who works or has worked in coal mine construction or transportation in or around a coal mine, to the extent such individual was exposed to coal dust as a result of such employment.
 
-(e) The term “widow” includes the wife living with or dependent for support on the miner at the time of his death, or living apart for reasonable cause or because of his desertion, or who meets the requirements of section 416(c)(1), (2), (3), (4), or (5),<sup>1</sup> and section 416(k) of title 42, who is not married. The determination of an individual's status as the “widow” of a miner shall be made in accordance with section 416(h)(1) of title 42 as if such miner were the “insured individual” referred to therein. Such term also includes a “surviving divorced wife” as defined in section 416(d)(2) of title 42 who for the month preceding the month in which the miner died, was receiving at least one-half of her support, as determined in accordance with regulations prescribed by the Secretary, from the miner, or was receiving substantial contributions from the miner (pursuant to a written agreement) or there was in effect a court order for substantial contributions to her support from the miner at the time of his death.
+(e) The term “widow” includes the wife living with or dependent for support on the miner at the time of his death, or living apart for reasonable cause or because of his desertion, or who meets the requirements of section 416(c)(1), (2), (3), (4), or (5),<sup>1</sup> and section 416(k) of title 42, who is not married. The determination of an individual's status as the “widow” of a miner shall be made in accordance with section 416(h)(1) of title42 as if such miner were the “insured individual” referred to therein. Such term also includes a “surviving divorced wife” as defined in section 416(d)(2) of title 42 who for the month preceding the month in which the miner died, was receiving at least one-half of her support, as determined in accordance with regulations prescribed by the Secretary, from the miner, or was receiving substantial contributions from the miner (pursuant to a written agreement) or there was in effect a court order for substantial contributions to her support from the miner at the time of his death.
 
 (f)(1) The term “total disability” has the meaning given it by regulations of the Secretary of Health and Human Services, which were in effect on November 2, 2002, for claims under part B of this subchapter, and by regulations of the Secretary of Labor for claims under part C of this subchapter, subject to the relevant provisions of subsections (b) and (d) of section 923 of this title, except that—
 
@@ -68,7 +68,7 @@ Section 945 of this title, referred to in subsec. (f)(2)(A), (B), was repealed b
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–275, §2(b)(1)(A), substituted “, except where expressly otherwise provided,” for “where used in part C”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–275, §2(b)(1)(A), substituted “, except where expressly otherwise provided,” for “where used in part C”.
 
 Subsec. (f)(1). Pub. L. 107–275, §2(b)(1)(B), inserted “, which were in effect on November 2, 2002,” after “Secretary of Health and Human Services”.
 
@@ -78,15 +78,15 @@ Pub. L. 107–275, §2(b)(1)(C)(i), substituted “arising under part B of this 
 
 Subsec. (i)(1). Pub. L. 107–275, §2(b)(1)(D), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “denied by the Social Security Administration; or”.
 
-1994—Subsec. (c). Pub. L. 103–296 substituted “where used in part C means the Secretary of Labor” for “where used in part B means the Secretary of Health, Education, and Welfare, and where used in part C means the Secretary of Labor”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–296 substituted “where used in part C means the Secretary of Labor” for “where used in part B means the Secretary of Health, Education, and Welfare, and where used in part C means the Secretary of Labor”.
 
-1986—Subsecs. (h), (i). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsecs. (h), (i). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1981—Subsec. (h). Pub. L. 97–119, §104(b)(1), substituted “by section 9501 of title 26” for “in section 934a(a)(1) of this title”.
+<b>1981</b>—Subsec. (h). Pub. L. 97–119, §104(b)(1), substituted “by section 9501 of title 26” for “in section 934a(a)(1) of this title”.
 
 Subsec. (i). Pub. L. 97–119, §205(b), added subsec. (i).
 
-1978—Subsec. (b). Pub. L. 95–239, §2(a), substituted “a chronic dust disease of the lung and its sequelae, including respiratory and pulmonary impairments, arising out of coal mine employment” for “a chronic dust disease of the lung arising out of employment in a coal mine”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–239, §2(a), substituted “a chronic dust disease of the lung and its sequelae, including respiratory and pulmonary impairments, arising out of coal mine employment” for “a chronic dust disease of the lung arising out of employment in a coal mine”.
 
 Subsec. (d). Pub. L. 95–239, §2(b), substituted “any individual who works or has worked in or around a coal mine or coal preparation facility in the extraction or preparation of coal” for “any individual who is or was employed in a coal mine” and inserted provisions that extended to definition of the term “miner” so as to include also an individual who works or has worked in coal mine construction or transportation in or around a coal mine, to the extent that such individual was exposed to coal dust as a result of such employment.
 
@@ -94,7 +94,7 @@ Subsec. (f). Pub. L. 95–239, §2(c), designated existing provisions as pars. (
 
 Subsec. (h). Pub. L. 95–239, §2(d), added subsec. (h).
 
-1972—Subsec. (a). Pub. L. 92–303, §1(c)(2), expanded definition of “dependent” to include children and wife without reference to section 8110 of title 5.
+<b>1972</b>—Subsec. (a). Pub. L. 92–303, §1(c)(2), expanded definition of “dependent” to include children and wife without reference to section 8110 of title 5.
 
 Subsecs. (b), (d). Pub. L. 92–303, §3(b), substituted “a coal mine” for “an underground coal mine”.
 

@@ -16,7 +16,7 @@ Notwithstanding any provision of the articles of incorporation and bylaws of a N
 
 #### (b) Basic procedure
 
-(1) An amendment or resolution described in subsection (a) of this section may be approvedby the board of directors of a Native Corporation in accordance with its bylaws. If the board approves the amendment or resolution, it shall direct that the amendment or resolution be submitted to a vote of the shareholders at the next annual meeting or at a special meeting (if the board, at its discretion, schedules such special meeting). One or more such amendments or resolutions may be submitted to the shareholders and voted upon at one meeting.
+(1) An amendment or resolution described in subsection (a) of this section may be approved by the board of directors of a Native Corporation in accordance with its bylaws. If the board approves the amendment or resolution, it shall direct that the amendment or resolution be submitted to a vote of the shareholders at the next annual meeting or at a special meeting (if the board, at its discretion, schedules such special meeting). One or more such amendments or resolutions may be submitted to the shareholders and voted upon at one meeting.
 
 (2)(A) A written notice (including a proxy statement if required under applicable law), setting forth the amendment or resolution approved pursuant to paragraph (1) (and, at the discretion of the board, a summary of the changes to be effected) together with any amendment or resolution submitted pursuant to subsection (c) of this section and the statements described therein shall be sent, not less than fifty days nor more than sixty days prior to the meeting of the shareholders, by first-class mail or hand-delivered to each shareholder of record entitled to vote at his or her address as it appears in the records of the Native Corporation. The corporation may also communicate with its shareholders at any time and in any manner authorized by the laws of the State.
 
@@ -46,7 +46,7 @@ Notwithstanding any provision of the articles of incorporation and bylaws of a N
 
 &emsp;(ii) the board disagrees with the petition for any reason, the board shall submit the amendment and the proponents’ statement to the shareholders for a vote and may, at its discretion, submit an opposing statement or an alternative amendment.
 
-(2) Paragraph (1) shall not apply to a Native Corporation that on or before the date one year after February 3, 1988, elects application of section 1629c(d) of this title in lieu of section 1629c(b) of this title. Until December 18, 1991, paragraph (1) shall not apply to a Native Corporation that elects application of section 1629c(c) of this title in lieu of section 1629c(b) of this title. Insofar as they are not inconsistent with this section, the laws of the State shall govern any shareholder right of petition for Native Corporations.
+(2) Paragraph (1) shall not apply to a Native Corporation that on or before the date one yearafter February 3, 1988, elects application of section 1629c(d) of this title in lieu of section 1629c(b) of this title. Until December 18, 1991, paragraph (1) shall not apply to a Native Corporation that elects application of section 1629c(c) of this title in lieu of section 1629c(b) of this title. Insofar as they are not inconsistent with this section, the laws of the State shall govern any shareholder right of petition for Native Corporations.
 
 #### (d) Voting standards
 
@@ -80,13 +80,13 @@ The Securities Exchange Act of 1934, referred to in subsec. (c)(1)(B), is act Ju
 
 #### Amendments
 
-2006—Pub. L. 109–221, §101(a)(1), made technical corrections to the directory language of Pub. L. 108–7, §337(a). See 2003 Amendment notes below.
+<b>2006</b>—Pub. L. 109–221, §101(a)(1), made technical corrections to the directory language of Pub. L. 108–7, §337(a). See 2003 Amendment notes below.
 
 Subsec. (d). Pub. L. 109–179, §1, redesignated par. (d)(3) as par. (3), and in that par. as so redesignated, substituted “or an amendment to articles of incorporation under section 1606(g)(1)(B) of this title” for “of this section” in introductory provisions, “the resolution or amendment to articles of incorporation; or” for “such resolution, or” in subpar. (A), and “the resolution or amendment to articles of incorporation” for “such resolution” in subpar. (B).
 
 Subsec. (f). Pub. L. 109–221, §101(a)(2), made technical amendment to reference in original act which appears in text as reference to section 1629e of this title.
 
-2003—Subsec. (d)(1). Pub. L. 108–7, §337(a)(1), as amended by Pub. L. 109–221, §101(a)(1)(A), substituted “Except as otherwise set forth in subsection (d)(3) of this section, an” for “An”.
+<b>2003</b>—Subsec. (d)(1). Pub. L. 108–7, §337(a)(1), as amended by Pub. L. 109–221, §101(a)(1)(A), substituted “Except as otherwise set forth in subsection (d)(3) of this section, an” for “An”.
 
 Subsec. (d)(d)(3). Pub. L. 108–7, §337(a)(2), as amended by Pub. L. 109–221, §101(a)(1)(A), (B), added par. (d)(3) to subsec. (d).
 

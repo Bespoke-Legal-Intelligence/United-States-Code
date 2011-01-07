@@ -60,7 +60,7 @@
 
 (b) In prescribing risk-based program selection criteria for major programs, the Director shall not require more programs to be identified as major for a particular non-Federal entity, except as prescribed under subsection (c) or as provided under subsection (d), than would be identified if the major programs were defined as any program for which total expenditures of Federal awards by the non-Federal entity during the applicable year exceed—
 
-&emsp;(1) the larger of $30,000,000 or 0.15 percent of the non-Federal entity's total Federal expenditures, in the case of a non-Federal entity for which such total expenditures for all programs exceed $10,000,000,000;
+&emsp;(1) the larger of $30,000,000 or 0.15 percent of the non-Federal entity's total Federal expenditures, in the case of a non-Federal entity forwhich such total expenditures for all programs exceed $10,000,000,000;
 
 &emsp;(2) the larger of $3,000,000, or 0.30 percent of the non-Federal entity's total Federal expenditures, in the case of a non-Federal entity for which such total expenditures for all programs exceed $100,000,000 but are less than or equal to $10,000,000,000; or
 
@@ -78,7 +78,7 @@ The Alaskan Native Claims Settlement Act, referred to in subsec. (a)(9), probabl
 
 #### Amendments
 
-1996—Pub. L. 104–156 reenacted section catchline without change and amended text generally, substituting present provisions for similar provisions defining terms used in this chapter.
+<b>1996</b>—Pub. L. 104–156 reenacted section catchline without change and amended text generally, substituting present provisions for similar provisions defining terms used in this chapter.
 
 #### Short Title of 1996 Amendment
 

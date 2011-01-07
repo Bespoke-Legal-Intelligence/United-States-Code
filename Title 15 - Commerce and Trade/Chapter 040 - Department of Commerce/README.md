@@ -21,7 +21,7 @@
 | [1511b.](%C2%A7%2001511b%20-%20United%20States%20fishery%20trade%20officers.md) | United States fishery trade officers. |
 | [1511c.](%C2%A7%2001511c%20-%20Estuarine%20Programs%20Office.md) | Estuarine Programs Office. |
 | [1511d.](%C2%A7%2001511d%20-%20Chesapeake%20Bay%20Office.md) | Chesapeake Bay Office. |
-| [1511e.](%C2%A7%2001511e%20-%20Office%20of%20Space%20Commercialization.md) | Office of Space Commercialization. |
+| [1511e.](%C2%A7%2001511e%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93314%2C%20%C2%A76%2C%20Dec.%2018%2C%202010%2C%20124%20Stat.%203444.md) | Repealed. |
 | [1512\.](%C2%A7%2001512%20-%20Powers%20and%20duties%20of%20Department.md) | Powers and duties of Department. |
 | [1513\.](%C2%A7%2001513%20-%20Duties%20and%20powers%20vested%20in%20Department.md) | Duties and powers vested in Department. |
 | [1513a.](%C2%A7%2001513a%20-%20Cost%20estimates%20for%20National%20Oceanic%20and%20Atmospheric%20Administration%20programs%20included%20in%20Department%20budget%20justification.md) | Cost estimates for National Oceanic and Atmospheric Administration programs included in Department budget justification. |
@@ -47,9 +47,9 @@
 | [1530\.](%C2%A7%2001530%20-%20Awarding%20of%20contracts%20for%20performance%20of%20commercial%20activity%20by%20National%20Oceanic%20and%20Atmospheric%20Administration.md) | Awarding of contracts for performance of commercial activity by National Oceanic and Atmospheric Administration. |
 | [1531\.](%C2%A7%2001531%20-%20Buying%20Power%20Maintenance%20accounts%20for%20International%20Trade%20Administration%2C%20Export%20Administration%2C%20and%20United%20States%20Travel%20and%20Tourism%E2%80%A6.md) | Buying Power Maintenance accounts for International Trade Administration, Export Administration, and United States Travel and Tourism Administration. |
 | [1532\.](%C2%A7%2001532%20-%20Telecommunications%3B%20electromagnetic%20radiation%3B%20research%2C%20analysis%2C%20dissemination%20of%20information%3B%20other%20functions%20of%20Secretary.md) | Telecommunications; electromagnetic radiation; research, analysis, dissemination of information; other functions of Secretary. |
-| [1533\.](%C2%A7%2001533%20-%20Commerce%2C%20Science%2C%20and%20Technology%20Fellowship%20Program.md) | Commerce, Science, and Technology Fellowship Program. |
+| [1533\.](%C2%A7%2001533%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93358%2C%20title%20IV%2C%20%C2%A7407%28c%29%2C%20Jan.%204%2C%202011%2C%20124%20Stat.%204004.md) | Repealed. |
 | [1534\.](%C2%A7%2001534%20-%20Assessment%20of%20fees%20for%20access%20to%20environmental%20data.md) | Assessment of fees for access to environmental data. |
-| [1535\.](%C2%A7%2001535%20-%20Office%20of%20Space%20Commerce%3B%20report%20of%20activities.md) | Office of Space Commerce; report of activities. |
+| [1535\.](%C2%A7%2001535%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93314%2C%20%C2%A76%2C%20Dec.%2018%2C%202010%2C%20124%20Stat.%203444.md) | Repealed. |
 | [1536\.](%C2%A7%2001536%20-%20Prohibition%20against%20fraudulent%20use%20of%20%E2%80%9CMade%20in%20America%E2%80%9D%20labels.md) | Prohibition against fraudulent use of “Made in America” labels. |
 | [1537\.](%C2%A7%2001537%20-%20Needs%20assessment%20for%20data%20management%2C%20archival%2C%20and%20distribution.md) | Needs assessment for data management, archival, and distribution. |
 | [1538\.](%C2%A7%2001538%20-%20Notice%20of%20reprogramming.md) | Notice of reprogramming. |
@@ -84,7 +84,7 @@
 - [&sect; 01511b - United States fishery trade officers](%C2%A7%2001511b%20-%20United%20States%20fishery%20trade%20officers.md)
 - [&sect; 01511c - Estuarine Programs Office](%C2%A7%2001511c%20-%20Estuarine%20Programs%20Office.md)
 - [&sect; 01511d - Chesapeake Bay Office](%C2%A7%2001511d%20-%20Chesapeake%20Bay%20Office.md)
-- [&sect; 01511e - Office of Space Commercialization](%C2%A7%2001511e%20-%20Office%20of%20Space%20Commercialization.md)
+- [&sect; 01511e - Repealed. Pub. L. 111&#8211;314, &sect;6, Dec. 18, 2010, 124 Stat. 3444](%C2%A7%2001511e%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93314%2C%20%C2%A76%2C%20Dec.%2018%2C%202010%2C%20124%20Stat.%203444.md)
 - [&sect; 01512 - Powers and duties of Department](%C2%A7%2001512%20-%20Powers%20and%20duties%20of%20Department.md)
 - [&sect; 01513 - Duties and powers vested in Department](%C2%A7%2001513%20-%20Duties%20and%20powers%20vested%20in%20Department.md)
 - [&sect; 01513a - Cost estimates for National Oceanic and Atmospheric Administration programs included in Department budget justification](%C2%A7%2001513a%20-%20Cost%20estimates%20for%20National%20Oceanic%20and%20Atmospheric%20Administration%20programs%20included%20in%20Department%20budget%20justification.md)
@@ -111,9 +111,9 @@
 - [&sect; 01530 - Awarding of contracts for performance of commercial activity by National Oceanic and Atmospheric Administration](%C2%A7%2001530%20-%20Awarding%20of%20contracts%20for%20performance%20of%20commercial%20activity%20by%20National%20Oceanic%20and%20Atmospheric%20Administration.md)
 - [&sect; 01531 - Buying Power Maintenance accounts for International Trade Administration, Export Administration, and United States Travel and Tourism&#8230;](%C2%A7%2001531%20-%20Buying%20Power%20Maintenance%20accounts%20for%20International%20Trade%20Administration%2C%20Export%20Administration%2C%20and%20United%20States%20Travel%20and%20Tourism%E2%80%A6.md)
 - [&sect; 01532 - Telecommunications; electromagnetic radiation; research, analysis, dissemination of information; other functions of Secretary](%C2%A7%2001532%20-%20Telecommunications%3B%20electromagnetic%20radiation%3B%20research%2C%20analysis%2C%20dissemination%20of%20information%3B%20other%20functions%20of%20Secretary.md)
-- [&sect; 01533 - Commerce, Science, and Technology Fellowship Program](%C2%A7%2001533%20-%20Commerce%2C%20Science%2C%20and%20Technology%20Fellowship%20Program.md)
+- [&sect; 01533 - Repealed. Pub. L. 111&#8211;358, title IV, &sect;407(c), Jan. 4, 2011, 124 Stat. 4004](%C2%A7%2001533%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93358%2C%20title%20IV%2C%20%C2%A7407%28c%29%2C%20Jan.%204%2C%202011%2C%20124%20Stat.%204004.md)
 - [&sect; 01534 - Assessment of fees for access to environmental data](%C2%A7%2001534%20-%20Assessment%20of%20fees%20for%20access%20to%20environmental%20data.md)
-- [&sect; 01535 - Office of Space Commerce; report of activities](%C2%A7%2001535%20-%20Office%20of%20Space%20Commerce%3B%20report%20of%20activities.md)
+- [&sect; 01535 - Repealed. Pub. L. 111&#8211;314, &sect;6, Dec. 18, 2010, 124 Stat. 3444](%C2%A7%2001535%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93314%2C%20%C2%A76%2C%20Dec.%2018%2C%202010%2C%20124%20Stat.%203444.md)
 - [&sect; 01536 - Prohibition against fraudulent use of &#8220;Made in America&#8221; labels](%C2%A7%2001536%20-%20Prohibition%20against%20fraudulent%20use%20of%20%E2%80%9CMade%20in%20America%E2%80%9D%20labels.md)
 - [&sect; 01537 - Needs assessment for data management, archival, and distribution](%C2%A7%2001537%20-%20Needs%20assessment%20for%20data%20management%2C%20archival%2C%20and%20distribution.md)
 - [&sect; 01538 - Notice of reprogramming](%C2%A7%2001538%20-%20Notice%20of%20reprogramming.md)

@@ -1,6 +1,6 @@
 ### §5662. Penalty for alteration of wine labels
 
-Any person who, without the permission of the Secretary, so alters as to materially change themeaning of any mark, brand, or label required to appear upon any wine upon its removal from premises subject to the provisions of subchapter F, or from customs custody, or who, after such removal, represents any wine, whether in its original containers or otherwise, to be of an identity or origin other than its proper identity or origin as shown by such stamp, mark, brand, or label, or who, directly or indirectly, and whether by manner of packaging or advertising or any other form of representation, represents any still wine to be an effervescent wine or a substitute for an effervescent wine, shall be fined not more than $1,000, or imprisoned not more than 1 year, or both, for each such offense.
+Any person who, without the permission of the Secretary, so alters as to materially change the meaning of any mark, brand, or label required to appear upon any wine upon its removal from premises subject to the provisions of subchapter F, or from customs custody, or who, after such removal, represents any wine, whether in its original containers or otherwise, to be of an identity or origin other than its proper identity or origin as shown by such stamp, mark, brand, or label, or who, directly or indirectly, and whether by manner of packaging or advertising or any other form of representation, represents any still wine to be an effervescent wine or a substitute for an effervescent wine, shall be fined not more than $1,000, or imprisoned not more than 1 year, or both, for each such offense.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1407; amended Pub. L. 94–455, title XIX, §§1905(b)(2)(D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1822, 1834.)
 
@@ -10,9 +10,9 @@ A prior section 5662, act Aug. 16, 1954, ch. 736, 68A Stat. 695, consisted of pr
 
 #### Amendments
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” and “stamp,” before “mark,”.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” and “stamp,” before “mark,”.
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1905(b)(2)(D) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
+Amendment by section 1905(b)(2)(D) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) ofPub. L. 94–455, set out as a note under section 5005 of this title.
 

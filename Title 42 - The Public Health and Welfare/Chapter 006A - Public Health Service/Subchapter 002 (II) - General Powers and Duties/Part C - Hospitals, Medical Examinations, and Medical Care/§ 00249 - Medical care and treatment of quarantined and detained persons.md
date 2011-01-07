@@ -12,11 +12,11 @@ Persons not entitled to treatment and care at institutions, hospitals, and stati
 
 Persons whose care and treatment is authorized by subsection (a) of this section may, in accordance with regulations, receive such care and treatment at the expense of the Service from public or private medical or hospital facilities other than those of the Service, when authorized by the officer in charge of the station at which the application is made.
 
-(July 1, 1944, ch. 373, title III, §322, 58 Stat. 696; June 25, 1948, ch. 654, §3, 62 Stat. 1018; Aug. 8, 1956, ch. 1036, §3, 70 Stat. 1120; Pub. L. 88–424, Aug. 13, 1964, 78 Stat. 398; Pub. L. 90–174, §10(c), Dec. 5, 1967, 81 Stat. 541; Pub. L. 97–35, title IX, §986(a), (b)(1), (2), Aug. 13, 1981, 95 Stat. 603.)
+(July 1, 1944, ch. 373, title III, §322, 58 Stat. 696; June 25, 1948, ch. 654, §3, 62 Stat. 1018; Aug. 8,1956, ch. 1036, §3, 70 Stat. 1120; Pub. L. 88–424, Aug. 13, 1964, 78 Stat. 398; Pub. L. 90–174, §10(c), Dec. 5, 1967, 81 Stat. 541; Pub. L. 97–35, title IX, §986(a), (b)(1), (2), Aug. 13, 1981, 95 Stat. 603.)
 
 #### Amendments
 
-1981—Subsec. (a). Pub. L. 97–35, §986(a), (b)(2), redesignated subsec. (c) as (a). Former subsec. (a), which related to persons entitled to medical, etc., treatment and hospitalization, was struck out.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §986(a), (b)(2), redesignated subsec. (c) as (a). Former subsec. (a), which related to persons entitled to medical, etc., treatment and hospitalization, was struck out.
 
 Subsec. (b). Pub. L. 97–35, §986(a), (b)(2), redesignated subsec. (d) as (b). Former subsec. (b), which related to treatment for seamen on foreign-flag vessels, was struck out.
 
@@ -24,11 +24,11 @@ Subsec. (c). Pub. L. 97–35, §986(b)(1), (2), redesignated subsec. (e) as (c),
 
 Subsecs. (d), (e). Pub. L. 97–35, §986(b)(2), redesignated subsecs. (d) and (e) as (b) and (c), respectively.
 
-1967—Subsec. (a)(7). Pub. L. 90–174 substituted provision for entitlement to treatment and hospitalization of seamen-trainees, while participating in maritime training programs to develop or enhance their employability in maritime industry, for provision for such entitlement of employees and noncommissioned officers in field service of Public Health Service when injured or taken sick in line of duty.
+<b>1967</b>—Subsec. (a)(7). Pub. L. 90–174 substituted provision for entitlement to treatment and hospitalization of seamen-trainees, while participating in maritime training programs to develop or enhance their employability in maritime industry, for provision for such entitlement of employees and noncommissioned officers in field service of Public Health Service when injured or taken sick in line of duty.
 
-1964—Subsec. (a)(8). Pub. L. 88–424 added par. (8).
+<b>1964</b>—Subsec. (a)(8). Pub. L. 88–424 added par. (8).
 
-1948—Subsec. (e). Act June 25, 1948, permitted Service to provide for care and treatment of individuals detained in accordance with our quarantine laws.
+<b>1948</b>—Subsec. (e). Act June 25, 1948, permitted Service to provide for care and treatment of individuals detained in accordance with our quarantine laws.
 
 #### Effective Date of 1981 Amendment
 
@@ -62,7 +62,7 @@ Section 988 of Pub. L. 97–35 provided that:
 
 &emsp;“(2) the end of the first 60-day consecutive period (beginning after September 30, 1981) during the entire period of which the individual is not an inpatient of a hospital.
 
-“(c) Notwithstanding any other provision of law, the head of any Federal department or agency which provides, under other authority of law and through federalfacilities, inpatient hospital services or outpatient services, or both, is authorized to provide inpatient hospital services (and related outpatient services) to individuals under contract or other arrangement with the Secretary pursuant to this section.”
+“(c) Notwithstanding any other provision of law, the head of any Federal department or agency which provides, under other authority of law and through federal facilities, inpatient hospital services or outpatient services, or both, is authorized to provide inpatient hospital services (and related outpatient services) to individuals under contract or other arrangement with the Secretary pursuant to this section.”
 
 #### Foreign Seamen
 

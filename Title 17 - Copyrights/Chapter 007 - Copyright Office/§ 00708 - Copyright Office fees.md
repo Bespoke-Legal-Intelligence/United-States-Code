@@ -18,11 +18,15 @@ Fees.—Fees shall be paid to the Register of Copyrights—
 
 &emsp;(7) for the issuance, under section 706, of an additional certificate of registration;
 
-&emsp;(8) for the issuance of any other certification; and
+&emsp;(8) for the issuance of any other certification;
 
-&emsp;(9) for the making and reporting of a search as provided by section 705, and for any related services.
+&emsp;(9) for the making and reporting of a search as provided by section 705, and for any related services;
 
-> The Register is authorized to fix fees for other services, including the cost of preparing copies of Copyright Office records, whether or not such copies are certified, based on the cost of providing the service.
+&emsp;(10) on filing a statement of account based on secondary transmissions of primary transmissions pursuant to section 119 or 122; and
+
+&emsp;(11) on filing a statement of account based on secondary transmissions of primary transmissions pursuant to section 111.
+
+> The Register is authorized to fix fees for other services, including the cost of preparing copies of Copyright Office records, whether or not such copies are certified, based on the cost of providing the service. Fees established under paragraphs (10) and (11) shall be reasonable and may not exceed one-half of the cost necessary to cover reasonable expenses incurred by the Copyright Office for the collection and administration of the statements of account and any royalty fees deposited with such statements.
 
 (b)
 
@@ -46,11 +50,15 @@ Adjustment of Fees.—The Register of Copyrights may, by regulation, adjust the 
 
 (3) The income on such investments shall be deposited in the Treasury of the United States and shall be credited to the appropriations for necessary expenses of the Copyright Office.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2593; Pub. L. 95–94, title IV, §406(b), Aug. 5, 1977, 91 Stat. 682; Pub. L. 97–366, §1, Oct. 25, 1982, 96 Stat. 1759; Pub. L. 101–318, §2(a), (b), July 3, 1990, 104 Stat. 287, 288; Pub. L. 102–307, title I, §102(f), June 26, 1992, 106 Stat. 266; Pub. L. 105–80, §7, Nov. 13, 1997, 111 Stat. 1532; Pub. L. 106–379, §3(a)(3), Oct. 27, 2000, 114 Stat. 1445.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2593; Pub. L. 95–94, title IV, §406(b), Aug. 5, 1977, 91 Stat. 682; Pub. L. 97–366, §1, Oct. 25, 1982, 96 Stat. 1759; Pub. L. 101–318, §2(a), (b), July 3, 1990, 104 Stat. 287, 288; Pub. L. 102–307, title I, §102(f), June 26, 1992, 106 Stat. 266; Pub. L. 105–80, §7, Nov. 13, 1997, 111 Stat. 1532; Pub. L. 106–379, §3(a)(3), Oct. 27, 2000, 114 Stat. 1445; Pub. L. 111–175, title I, §106, May 27, 2010, 124 Stat. 1244.)
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–379, §3(a)(3)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The following fees shall be paid to the Register of Copyrights:
+<b>2010</b>—Subsec. (a). Pub. L. 111–175, §106(4), inserted at end of concluding provisions “Fees established under paragraphs (10) and (11) shall be reasonable and may not exceed one-half of the cost necessary to cover reasonable expenses incurred by the Copyright Office for the collection and administration of the statements of account and any royalty fees deposited with such statements.”
+
+Subsec. (a)(10), (11). Pub. L. 111–175, §106(1)–(3), added pars. (10) and (11).
+
+<b>2000</b>—Subsec. (a). Pub. L. 106–379, §3(a)(3)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The following fees shall be paid to the Register of Copyrights:
 
 &emsp;“(1) on filing each application under section 408 for registration of a copyright claim or for a supplementary registration, including the issuance of a certificate of registration if registration is made, $20;
 
@@ -82,13 +90,13 @@ Subsec. (b)(2). Pub. L. 106–379, §3(a)(3)(B)(iii), substituted “adjust fees
 
 Subsec. (b)(5). Pub. L. 106–379, §3(a)(3)(B)(iv), substituted “adjusted” for “increased”.
 
-1997—Subsec. (b). Pub. L. 105–80, §7(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In calendar year 1995 and in each subsequent fifth calendar year, the Register of Copyrights, by regulation, may increase the fees specified in subsection (a) by the percent change in the annual average, for the preceding calendar year, of the Consumer Price Index published by the Bureau of Labor Statistics, over the annual average of the Consumer Price Index for the fifth calendar year preceding the calendar year in which such increase is authorized.”
+<b>1997</b>—Subsec. (b). Pub. L. 105–80, §7(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In calendar year 1995 and in each subsequent fifth calendar year, the Register of Copyrights, by regulation, may increase the fees specified in subsection (a) by the percent change in the annual average, for the preceding calendar year, of the Consumer Price Index published by the Bureau of Labor Statistics, over the annual average of the Consumer Price Index for the fifth calendar year preceding the calendar year in which such increase is authorized.”
 
 Subsec. (d). Pub. L. 105–80, §7(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “All fees received under this section shall be deposited by the Register of Copyrights in the Treasury of the United States and shall be credited to the appropriation for necessary expenses of the Copyright Office. The Register may, in accordance with regulations that he or she shall prescribe, refund any sum paid by mistake or in excess of the fee required by this section.”
 
-1992—Subsec. (a)(2). Pub. L. 102–307 struck out “in its first term” after “copyright” and substituted “$20” for “$12”.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–307 struck out “in its first term” after “copyright” and substituted “$20” for “$12”.
 
-1990—Subsec. (a). Pub. L. 101–318, §2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The following fees shall be paid to the Register of Copyrights:
+<b>1990</b>—Subsec. (a). Pub. L. 101–318, §2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The following fees shall be paid to the Register of Copyrights:
 
 &emsp;“(1) on filing each application for registration of a copyright claim or a supplementary registration under section 408, including the issuance of a certificate of registration if registration is made, $10;
 
@@ -114,13 +122,17 @@ Subsec. (d). Pub. L. 105–80, §7(b), amended subsec. (d) generally. Prior to a
 
 Subsecs. (b) to (d). Pub. L. 101–318, §2(b), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-1982—Subsec. (a)(1). Pub. L. 97–366, §1(1), substituted provision for a $10 fee on filing each application for registration of a copyright claim or a supplementary registration under section 408, including the issuance of a certificate of registration if registration is made, for provision for a $10 fee for the registration of a copyright claim or a supplementary registration under section 408, including the issuance of a certificate of registration.
+<b>1982</b>—Subsec. (a)(1). Pub. L. 97–366, §1(1), substituted provision for a $10 fee on filing each application for registration of a copyright claim or a supplementary registration under section 408, including the issuance of a certificate of registration if registration is made, for provision for a $10 fee for the registration of a copyright claim or a supplementary registration under section 408, including the issuance of a certificate of registration.
 
 Subsec. (a)(2). Pub. L. 97–366, §1(1), substituted provision for a $6 fee on filing each application for registration of a claim to renewal of a subsisting copyright in its first term under section 304(a), including the issuance of a certificate of registration if registration is made, for provision for a $6 fee for the registration of a claim to renewal of a subsisting copyright in its first term under section 304(a), including the issuance of a certificate of registration.
 
 Subsec. (c). Pub. L. 97–366, §1(2), struck out provision that, before making a refund in any case involving a refusal to register a claim under section 410(b), the Register could deduct all or any part of the prescribed registration fee to cover the reasonable administrative costs of processing the claim.
 
-1977—Subsec. (c). Pub. L. 95–94 substituted provisions relating to crediting of all fees received, to the appropriation for necessary expenses of the Copyright Office, for provisions relating to crediting of all fees received in the manner directed by the Secretary of the Treasury.
+<b>1977</b>—Subsec. (c). Pub. L. 95–94 substituted provisions relating to crediting of all fees received, to the appropriation for necessary expenses of the Copyright Office, for provisions relating to crediting of all fees received in the manner directed by the Secretary of the Treasury.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–175 effective Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as a note under section 111 of this title.
 
 #### Effective Date of 2000 Amendment
 

@@ -26,19 +26,19 @@ All property intended for use in violating the provisions of this chapter, or re
 
 #### Amendments
 
-1997—Subsec. (b). Pub. L. 105–33 inserted “qualified importers,” after “manufacturers,” in heading and “or importer” after “manufacturer” in text.
+<b>1997</b>—Subsec. (b). Pub. L. 105–33 inserted “qualified importers,” after “manufacturers,” in heading and “or importer” after “manufacturer” in text.
 
 Subsec. (c). Pub. L. 105–33, §9302(h)(2)(A), inserted “or importer” after “manufacturer”.
 
-1976—Subsec. (a)(2). Pub. L. 94–455, §1905(b)(7)(C)(i), substituted “and notices” for “notices, and stamps”.
+<b>1976</b>—Subsec. (a)(2). Pub. L. 94–455, §1905(b)(7)(C)(i), substituted “and notices” for “notices, and stamps”.
 
 Subsec. (b). Pub. L. 94–455, §1905(b)(7)(C)(ii), struck out “internal revenue stamps,” after “packages,”.
 
-1965—Subsec. (b). Pub. L. 89–44, §502(b)(13)(A), struck out references to tobacco materials, dealers in tobacco materials, and statements.
+<b>1965</b>—Subsec. (b). Pub. L. 89–44, §502(b)(13)(A), struck out references to tobacco materials, dealers in tobacco materials, and statements.
 
 Subsec. (c). Pub. L. 89–44, §502(b)(13)(B), struck out references to tobacco materials and dealers in tobacco materials.
 
-1958—Subsec. (a). Pub. L. 85–859 substituted “tobacco products and cigarette papers and tubes” for “articles” wherever appearing and inserted provisions making par. (2) inapplicable to tobacco products or cigarette papers for tubes delivered directly to consumers from proper packages.
+<b>1958</b>—Subsec. (a). Pub. L. 85–859 substituted “tobacco products and cigarette papers and tubes” for “articles” wherever appearing and inserted provisions making par. (2) inapplicable to tobacco products or cigarette papers for tubes delivered directly to consumers from proper packages.
 
 Subsecs. (b), (c). Pub. L. 85–859 included property of export warehouse proprietors.
 

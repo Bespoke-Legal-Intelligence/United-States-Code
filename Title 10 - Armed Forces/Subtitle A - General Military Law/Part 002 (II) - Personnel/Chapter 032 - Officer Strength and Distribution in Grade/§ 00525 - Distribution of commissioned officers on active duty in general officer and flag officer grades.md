@@ -58,9 +58,9 @@
 
 (B) The number of officers that may be serving on active duty in the grades of general and admiral by reason of appointments made under the authority of paragraph (1) may not exceed 5.
 
-(4) Upon the termination of the appointment of an officer in the grade of lieutenant general or vice admiral or general or admiral that was made in connection with an increase under paragraph (1) in the number of officers that may be serving on active duty in that armed force in that grade, the reduction made under paragraph (2) in the number of appointments permitted insuch grade in another armed force by reason of that increase shall no longer be in effect.
+(4) Upon the termination of the appointment of an officer in the grade of lieutenant general or vice admiral or general or admiral that was made in connection with an increase under paragraph (1) in the number of officers that may be serving on active duty in that armed force in that grade, the reduction made under paragraph (2) in the number of appointments permitted in such grade in another armed force by reason of that increase shall no longer be in effect.
 
-(d) An officer continuing to hold the grade of general or admiral under section 601(b)(4) <sup>1</sup> of this title after relief from the position of Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, or Commandant of the Marine Corps shall not be counted for purposes of this section.
+(d) An officer continuing to hold the grade of general or admiral under section 601(b)(5) of this title after relief from the position of Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, or Commandant of the Marine Corps shall not be counted for purposes of this section.
 
 (e) The following officers shall not be counted for purposes of this section:
 
@@ -70,21 +70,23 @@
 
 (f) An officer while serving as Attending Physician to the Congress is in addition to the number that would otherwise be permitted for that officer's armed force for officers serving on active duty in grades above brigadier general or rear admiral (lower half) under subsection (a).
 
-(g)(1) The limitations of this section do not apply to a reserve component general or flag officer who is on active duty for a period in excess of 365 days, but not to exceed three years, except that the number of officers from each reserve component who are covered by this subsection and is <sup>2</sup> not serving in a position that is a joint duty assignment for purposes of chapter 38 of this title may not exceed 5 per component, unless authorized by the Secretary of Defense <sup>2</sup>
+(g)(1) The limitations of this section do not apply to a reserve component general or flag officer who is on active duty for a period in excess of 365 days, but not to exceed three years, except that the number of officers from each reserve component who are covered by this subsection and are not serving in a position that is a joint duty assignment for purposes of chapter 38 of this title may not exceed 5 per component, unless authorized by the Secretary of Defense.
 
 (2) The exception in paragraph (1) does apply to the position of Chief of the National Guard Bureau.
 
 (3) Not later than 30 days after authorizing a number of reserve component general or flag officers in excess of the number specified in paragraph (1), the Secretary of Defense shall notify the Committees on Armed Services of the Senate and the House of Representatives of such authorization, and shall include with such notice a statement of the reason for such authorization.
 
-(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844; amended Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title II, §202(a), Oct. 1, 1986, 100 Stat. 1010; Pub. L. 100–180, div. A, title V, §511(a), Dec. 4, 1987, 101 Stat. 1088; Pub. L. 101–510, div. A, title IV, §405, Nov. 5, 1990, 104 Stat. 1546; Pub. L. 103–337, div. A, title IV, §405(a), Oct. 5, 1994, 108 Stat. 2744; Pub. L. 104–106, div. A, title IV, §403(a), Feb. 10, 1996, 110 Stat. 286; Pub. L. 104–201, div. A, title IV, §404(b), Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §§404, 406, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §§509(b), (c), 532(b), Oct. 5, 1999, 113 Stat. 592, 604; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–105; Pub. L. 107–314, div. A, title IV, §§404(a), (b), 405(b), Dec. 2, 2002, 116 Stat. 2525, 2526; Pub. L. 108–136, div. A, title V, §504(b), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 109–163, div. A, title V, §503(a), Jan. 6, 2006, 119 Stat. 3226; Pub. L. 109–364, div. A, title V, §507(b), Oct. 17, 2006, 120 Stat. 2180; Pub. L. 110–181, div. A, title V, §§501(b), 543(d), Jan. 28, 2008, 122 Stat. 94, 115; Pub. L. 110–417, \[div. A\], title V, §§503(d), 504(b), Oct. 14, 2008, 122 Stat. 4433, 4434; Pub. L. 111–84, div. A, title V, §502(b)–(d), Oct. 28, 2009, 123 Stat. 2273–2275.)
-
-#### References in Text
-
-Section 601(b)(4) of this title, referred to in subsec. (d), was redesignated section 601(b)(5) of this title by Pub. L. 110–181, div. A, title V, §501(a)(2), Jan. 28, 2008, 122 Stat. 94.
+(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844; amended Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title II, §202(a), Oct. 1, 1986, 100 Stat. 1010; Pub. L. 100–180, div. A, title V, §511(a), Dec. 4, 1987, 101 Stat. 1088; Pub. L. 101–510, div. A, title IV, §405, Nov. 5, 1990, 104 Stat. 1546; Pub. L. 103–337, div. A, title IV, §405(a), Oct. 5, 1994, 108 Stat. 2744; Pub. L. 104–106, div. A, title IV, §403(a), Feb. 10, 1996, 110 Stat. 286; Pub. L. 104–201, div. A, title IV, §404(b), Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §§404, 406, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §§509(b), (c), 532(b), Oct. 5, 1999, 113 Stat. 592, 604; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–105; Pub. L. 107–314, div. A, title IV, §§404(a), (b), 405(b), Dec. 2, 2002, 116 Stat. 2525, 2526; Pub. L. 108–136, div. A, title V, §504(b), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 109–163, div. A, title V, §503(a), Jan. 6, 2006, 119 Stat. 3226; Pub. L. 109–364, div. A, title V, §507(b), Oct. 17, 2006, 120 Stat. 2180; Pub. L. 110–181, div. A, title V, §§501(b), 543(d), Jan. 28, 2008, 122 Stat. 94, 115; Pub. L. 110–417, \[div. A\], title V, §§503(d), 504(b), Oct. 14, 2008, 122 Stat. 4433, 4434; Pub. L. 111–84, div. A, title V, §502(b)–(d), Oct. 28, 2009, 123 Stat. 2273–2275; Pub. L. 111–383, div. A, title X, §1075(b)(12), (d)(2), Jan. 7, 2011, 124 Stat. 4369, 4372.)
 
 #### Amendments
 
-2009—Subsecs. (a), (b). Pub. L. 111–84, §502(b), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to limitations on appointments in a grade above brigadier general in the Army, Air Force, or Marine Corps or in a grade above rear admiral (lower half) in the Navy and limitations on appointments in a grade above major general in the Army, Air Force, or Marine Corps or in a grade above rear admiral in the Navy, respectively.
+<b>2011</b>—Subsec. (c)(3)(B). Pub. L. 111–383, §1075(d)(2), made technical amendment to directory language of Pub. L. 111–84, §502(c)(3). See 2009 Amendment note below.
+
+Subsec. (d). Pub. L. 111–383, §1075(b)(12)(A), substituted “section 601(b)(5)” for “section 601(b)(4)”.
+
+Subsec. (g)(1). Pub. L. 111–383, §1075(b)(12)(B), substituted “and are not” for “and is not” and inserted period at end.
+
+<b>2009</b>—Subsecs. (a), (b). Pub. L. 111–84, §502(b), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to limitations on appointments in a grade above brigadier general in the Army, Air Force, or Marine Corps or in a grade above rear admiral (lower half) in the Navy and limitations on appointments in a grade above major general in the Army, Air Force, or Marine Corps or in a grade above rear admiral in the Navy, respectively.
 
 Subsec. (c)(1)(A). Pub. L. 111–84, §502(c)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “may make appointments in the Army, Air Force, and Marine Corps in the grade of lieutenant general and in the Army and Air Force in the grade of general in excess of the applicable numbers determined under subsection (b)(1), and may make appointments in the Marine Corps in the grade of general in addition to the Commandant and Assistant Commandant, if each such appointment is made in conjunction with an offsetting reduction under paragraph (2); and”.
 
@@ -92,13 +94,13 @@ Subsec. (c)(1)(B). Pub. L. 111–84, §502(c)(1)(B), substituted “this section
 
 Subsec. (c)(3)(A). Pub. L. 111–84, §502(c)(2), substituted “15” for “the number equal to 10 percent of the total number of officers that may be serving on active duty in those grades in the Army, Navy, Air Force, and Marine Corps under subsection (b)”.
 
-Subsec. (c)(3)(B). Pub. L. 111–84, §502(c)(3), which directed amendment by substituting “5” for “the number equal to 15 percent of the total number of officers that may be serving on active duty in those grades in the Army, Navy, Air Force, and Marine Corps”, was executed by making the substitution for “the number equal to 15 percent of the total number of general officers and flag officers that may be serving on active duty in those grades in the Army, Navy, Air Force, and Marine Corps” to reflect the probable intent of Congress.
+Subsec. (c)(3)(B). Pub. L. 111–84, §502(c)(3), as amended by Pub. L. 111–383, §1075(d)(2), substituted “5” for “the number equal to 15 percent of the total number of general officers and flag officers that may be serving on active duty in those grades in the Army, Navy, Air Force, and Marine Corps”.
 
-Subsec. (e). Pub. L. 111–84, §502(d)(1), in introductory provisions, substituted “The following officers shall not be counted for purposes of this section:” for “In determining the total number of general officers or flag officers of an armed force on active duty for purposes of this section, the following officers shall not be counted:”.
+Subsec. (e). Pub. L. 111–84, §502(d)(1), in introductory provisions, substituted “The following officers shall not be counted for purposes of this section:” for “In determining the total number of general officers or flag officers of an armed force on active duty for purposesof this section, the following officers shall not be counted:”.
 
 Subsec. (g). Pub. L. 111–84, §502(d)(2), added subsec. (g).
 
-2008—Subsec. (a). Pub. L. 110–417, §504(b), designated existing provisions as par. (1) and added par. (2).
+<b>2008</b>—Subsec. (a). Pub. L. 110–417, §504(b), designated existing provisions as par. (1) and added par. (2).
 
 Pub. L. 110–417, §503(d)(1), substituted “the Army or Air Force, or more than 51 percent of the general officers of the Marine Corps,” for “that armed force”.
 
@@ -110,49 +112,53 @@ Subsec. (b)(2)(B). Pub. L. 110–417, §503(d)(2)(B), substituted “19 percent�
 
 Subsec. (e)(2). Pub. L. 110–181, §501(b), added par. (2) and struck out former par. (2) which read as follows: “An officer of that armed force who has been relieved from a position designated under section 601(a) of this title and is under orders to assume another such position, but only during the 60-day period beginning on the date on which those orders are published.”
 
-2006—Subsec. (e). Pub. L. 109–163 added subsec. (e).
+<b>2006</b>—Subsec. (e). Pub. L. 109–163 added subsec. (e).
 
 Subsec. (f). Pub. L. 109–364 added subsec. (f).
 
-2003—Subsec. (b)(5)(C). Pub. L. 108–136 struck out subpar. (C) which read as follows: “This paragraph shall cease to be effective at the end of December 31, 2004.”
+<b>2003</b>—Subsec. (b)(5)(C). Pub. L. 108–136 struck out subpar. (C) which read as follows: “This paragraph shall cease to be effective at the end of December 31, 2004.”
 
-2002—Subsec. (b)(2)(B). Pub. L. 107–314, §404(b), substituted “17.5 percent” for “16.2 percent”.
+<b>2002</b>—Subsec. (b)(2)(B). Pub. L. 107–314, §404(b), substituted “17.5 percent” for “16.2 percent”.
 
 Subsec. (b)(5)(C). Pub. L. 107–314, §405(b), substituted “December 31, 2004” for “September 30, 2003”.
 
 Subsec. (b)(8). Pub. L. 107–314, §404(a), added par. (8).
 
-2000—Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title V, §507(g)(1)\], in first sentence, substituted “Army or Air Force” for “Army, Air Force, or Marine Corps” and “15.7 percent” for “15 percent” and, in second sentence, substituted “Of” for “In the case of the Army and Air Force, of” and “15.7 percent” for “15 percent” and inserted “of the Army or Air Force” after “general officers”.
+<b>2000</b>—Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title V, §507(g)(1)\], in first sentence, substituted “Army or Air Force” for “Army, Air Force, or Marine Corps” and “15.7 percent” for “15 percent” and, in second sentence, substituted “Of” for “In the case of the Army and Air Force, of” and “15.7 percent” for “15 percent” and inserted “of the Army or Air Force” after “general officers”.
 
 Subsec. (b)(2). Pub. L. 106–398, §1 \[\[div. A\], title V, §507(g)(2)\], designated existing provisions as subpar. (A), substituted “15.7 percent” for “15 percent” in two places, and added subpar. (B).
 
-1999—Subsec. (b)(5)(A). Pub. L. 106–65, §509(c), inserted at end “Any increase by reason of the preceding sentence in the number of officers of an armed force serving on active duty in grades above major general or rear admiral may only be realized by an increase in the number of lieutenant generals or vice admirals, as the case may be, serving on active duty, and any such increase may not be construed as authorizing an increase in the limitation on the total number of general or flag officers for that armed force under section 526(a) of this title or in the number of general and flag officers that may be designated under section 526(b) of this title.”
+<b>1999</b>—Subsec. (b)(5)(A). Pub. L. 106–65, §509(c), inserted at end “Any increase by reason of the preceding sentence in the number of officers of an armed force serving on active duty in grades above major general or rear admiral may only be realized by an increase in the number of lieutenant generals or vice admirals, as the case may be, serving on active duty, and any such increase may not be construed as authorizing an increase in the limitation on the total number of general or flag officers for that armed force under section 526(a) of this title or in the number of general and flag officers that may be designated under section 526(b) of this title.”
 
 Subsec. (b)(5)(C). Pub. L. 106–65, §509(b), substituted “September 30, 2003” for “September 30, 2000”.
 
 Subsec. (b)(7). Pub. L. 106–65, §532(b), added par. (7).
 
-1998—Subsec. (b)(4)(B). Pub. L. 105–261, §404, substituted “seven” for “six”.
+<b>1998</b>—Subsec. (b)(4)(B). Pub. L. 105–261, §404, substituted “seven” for “six”.
 
 Subsec. (b)(6). Pub. L. 105–261, §406, added par. (6).
 
-1996—Subsec. (b)(5)(C). Pub. L. 104–201 substituted “September 30, 2000” for “September 30, 1997”.
+<b>1996</b>—Subsec. (b)(5)(C). Pub. L. 104–201 substituted “September 30, 2000” for “September 30, 1997”.
 
 Subsec. (d). Pub. L. 104–106 added subsec. (d).
 
-1994—Subsec. (b)(5). Pub. L. 103–337 added par. (5).
+<b>1994</b>—Subsec. (b)(5). Pub. L. 103–337 added par. (5).
 
-1990—Subsec. (b)(3). Pub. L. 101–510, §405(b), substituted “that would otherwise be permitted for” for “authorized”.
+<b>1990</b>—Subsec. (b)(3). Pub. L. 101–510, §405(b), substituted “that would otherwise be permitted for” for “authorized”.
 
 Subsec. (b)(4). Pub. L. 101–510, §405(a), added par. (4).
 
-1987—Pub. L. 100–180 added subsec. (c).
+<b>1987</b>—Pub. L. 100–180 added subsec. (c).
 
-1986—Subsec. (b)(3). Pub. L. 99–433 inserted “or Vice Chairman”.
+<b>1986</b>—Subsec. (b)(3). Pub. L. 99–433 inserted “or Vice Chairman”.
 
-1985—Subsec. (a). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore” in two places.
+<b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore” in two places.
 
-1981—Subsec. (a). Pub. L. 97–86 substituted “commodore” for “commodore admiral” in two places.
+<b>1981</b>—Subsec. (a). Pub. L. 97–86 substituted “commodore” for “commodore admiral” in two places.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–383, div. A, title X, §1075(d), Jan. 7, 2011, 124 Stat. 4372, provided that the amendment by section 1075(d)(2) is effective as of Oct. 28, 2009, and as if included in Pub. L. 111–84 as enacted.
 
 #### Effective Date of 2002 Amendment
 
@@ -223,8 +229,4 @@ Pub. L. 98–525, title V, §511, Oct. 19, 1984, 98 Stat. 2521.
 Pub. L. 98–94, title X, §1001, Sept. 24, 1983, 97 Stat. 654.
 
 Pub. L. 97–252, title XI, §1116, Sept. 8, 1982, 96 Stat. 750.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
 

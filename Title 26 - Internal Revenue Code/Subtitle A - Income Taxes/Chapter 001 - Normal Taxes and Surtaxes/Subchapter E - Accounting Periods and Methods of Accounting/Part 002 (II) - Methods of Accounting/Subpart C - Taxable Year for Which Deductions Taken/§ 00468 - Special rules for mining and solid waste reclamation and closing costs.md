@@ -44,7 +44,7 @@
 
 #### (A) Reclamation reserves
 
-&emsp;&emsp;In the case of any reserve for qualified reclamation costs, there shall be included in gross income for any taxable year an amount equal to the excess of—
+&emsp;&emsp;In the case of any reserve for qualified reclamation costs, there shall be included ingross income for any taxable year an amount equal to the excess of—
 
 &emsp;&emsp;&emsp;(i) the closing balance of the reserve for such taxable year, over
 
@@ -146,7 +146,7 @@ For purposes of this section—
 
 #### (ii) Exception for certain hazardous waste sites
 
-&emsp;&emsp;&emsp;Clause (i) shall not apply to that portion of any property which is disturbed after the property is listed in the national contingency plan established under section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980.
+&emsp;&emsp;&emsp;Clause (i) shall not apply to that portion of any property which is disturbed afterthe property is listed in the national contingency plan established under section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980.
 
 #### (3) Property
 
@@ -168,9 +168,9 @@ Section 105 of the Comprehensive Environmental Response, Compensation, and Liabi
 
 #### Amendments
 
-1990—Subsec. (a)(2)(B). Pub. L. 101–508 amended subpar. (B) generally, substituting present provisions for provisions providing for increase for interest and a phase-in of interest rates for taxable years ending before 1987.
+<b>1990</b>—Subsec. (a)(2)(B). Pub. L. 101–508 amended subpar. (B) generally, substituting present provisions for provisions providing for increase for interest and a phase-in of interest rates for taxable years ending before 1987.
 
-1986—Subsec. (a)(1). Pub. L. 99–514, §1807(a)(3)(C), substituted “this section” for “this subsection”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1807(a)(3)(C), substituted “this section” for “this subsection”.
 
 Subsec. (a)(2)(D). Pub. L. 99–514, §1807(a)(3)(A), added subpar. (D).
 

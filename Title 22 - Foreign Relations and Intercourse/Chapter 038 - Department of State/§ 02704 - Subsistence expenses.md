@@ -1,20 +1,20 @@
 ### §2704. Subsistence expenses
 
-The Secretary of State may pay, without regard to section 5702 of title 5, subsistence expenses of (1) special agents of the Department of State who are on authorized protective missions, whether at or away from their duty stations, and (2) members of the Foreign Service and employees of the Department who are required to spend extraordinary amounts of timein travel status. The authorities available to the Secretary of State under this section with respect to the Department of State shall be available to the Broadcasting Board of Governors and the Administrator of the Agency for International Development with respect to their respective agencies, except that the authority of clause (2) shall be available with respect to those agencies only in the case of members of the Foreign Service and employees of the agency who are performing security-related functions abroad.
+The Secretary of State may pay, without regard to section 5702 of title 5, subsistence expenses of (1) special agents of the Department of State who are on authorized protective missions, whether at or away from their duty stations, and (2) members of the Foreign Service and employees of the Department who are required to spend extraordinary amounts of time in travel status. The authorities available to the Secretary of State under this section with respect to the Department of State shall be available to the Broadcasting Board of Governors and the Administrator of the Agency for International Development with respect to their respective agencies, except that the authority of clause (2) shall be available with respect to those agencies only in the case of members of the Foreign Service and employees of the agency who are performing security-related functions abroad.
 
 (Aug. 1, 1956, ch. 841, title I, §32, as added Pub. L. 96–465, title II, §2201(a), Oct. 17, 1980, 94 Stat. 2157; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; amended Pub. L. 98–533, title III, §303(c), Oct. 19, 1984, 98 Stat. 2711; Pub. L. 99–93, title I, §125(b), Aug. 16, 1985, 99 Stat. 417; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(<i>l</i>)(4), title XIV, §1422(b)(3)(C), Oct. 21, 1998, 112 Stat. 2681–789, 2681–792; Pub. L. 110–321, §3, Sept. 19, 2008, 122 Stat. 3535.)
 
 #### Amendments
 
-2008—Pub. L. 110–321 substituted “on authorized protective missions, whether at or away from their duty stations, and” for “on authorized protective missions, and”.
+<b>2008</b>—Pub. L. 110–321 substituted “on authorized protective missions, whether at or away from their duty stations, and” for “on authorized protective missions, and”.
 
-1998—Pub. L. 105–277, §1422(b)(3)(C), substituted “Administrator of the Agency for International Development” for “Director of the United States International Development Cooperation Agency”.
+<b>1998</b>—Pub. L. 105–277, §1422(b)(3)(C), substituted “Administrator of the Agency for International Development” for “Director of the United States International Development Cooperation Agency”.
 
 Pub. L. 105–277, §1335(<i>l</i>)(4), substituted “the Broadcasting Board of Governors” for “the Director of the United States Information Agency”.
 
-1985—Pub. L. 99–93 substituted “special agents” for “security officers”.
+<b>1985</b>—Pub. L. 99–93 substituted “special agents” for “security officers”.
 
-1984—Pub. L. 98–533 inserted “The authorities available to the Secretary of State under this section with respect to the Department of State shall be available to the Director of the United States Information Agency and the Director of the United States International Development Cooperation Agency with respect to their respective agencies, except that the authority of clause (2) shall be available with respect to those agencies only in the case of members of the Foreign Service and employees of the agency who are performing security-related functions abroad.”
+<b>1984</b>—Pub. L. 98–533 inserted “The authorities available to the Secretary of State under this section with respect to the Department of State shall be available to the Director of the United States Information Agency and the Director of the United States International Development Cooperation Agency with respect to their respective agencies, except that the authority of clause (2) shall be available with respect to those agencies only in the case of members of the Foreign Service and employees of the agency who are performing security-related functions abroad.”
 
 #### Effective Date of 1998 Amendment
 

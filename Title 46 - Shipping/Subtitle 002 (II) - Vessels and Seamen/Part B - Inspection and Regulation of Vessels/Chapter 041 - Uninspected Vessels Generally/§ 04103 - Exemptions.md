@@ -24,5 +24,5 @@ Section 4103 contains an exemption from carrying fire extinguishers, for on a ve
 
 #### Amendments
 
-1988—Pub. L. 100–540 added subsec. (a) and designated existing provisions as subsec. (b).
+<b>1988</b>—Pub. L. 100–540 added subsec. (a) and designated existing provisions as subsec. (b).
 

@@ -14,7 +14,7 @@ The Secretary may make grants to States and units of general local government (i
 
 &emsp;(3) developing legislation to provide State, local, or regional programs to reduce regulatory barriers and developing a strategy for adoption of such legislation;
 
-&emsp;(4) developing model State or local standards and ordinances to reduce regulatory barriers and assisting in the adoption and use of the standards and ordinances;
+&emsp;(4) developing model State or local standards and ordinances to reduce regulatory barriersand assisting in the adoption and use of the standards and ordinances;
 
 &emsp;(5) carrying out the simplification and consolidation of administrative procedures and processes constituting regulatory barriers to affordable housing, including the issuance of permits; and
 
@@ -56,7 +56,7 @@ Section is comprised of section 1204 of Pub. L. 102–550. Subsection (i) of sec
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–569, §102(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The amounts set aside under section 5307 of this title for the purpose of this subsection shall be available for grants under subsection (b) and (c) of this section.”
+<b>2000</b>—Subsec. (a). Pub. L. 106–569, §102(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The amounts set aside under section 5307 of this title for the purpose of this subsection shall be available for grants under subsection (b) and (c) of this section.”
 
 Subsec. (b). Pub. L. 106–569, §102(b)(1), (2), substituted “Grant authority” for “State grants” in heading and inserted “and units of general local government (including consortia of such governments)” after “States” in introductory provisions.
 

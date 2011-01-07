@@ -44,7 +44,7 @@ The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs 
 
 #### Amendments
 
-2008—Pub. L. 110–181, §1813(c)(1), substituted “charter” for “charter from Secretaries of the Army and Air Force” in section catchline.
+<b>2008</b>—Pub. L. 110–181, §1813(c)(1), substituted “charter” for “charter from Secretaries of the Army and Air Force” in section catchline.
 
 Pub. L. 110–181, §1813(b)(1), in introductory provisions, substituted “The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, the Secretary of the Army, and the Secretary of the Air Force, shall develop” for “The Secretary of the Army and the Secretary of the Air Force shall jointly develop” and “reflect the full scope of the duties and activities of the Bureau, including” for “cover”.
 

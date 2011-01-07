@@ -1,6 +1,6 @@
 ### §285t. Additional contribution to special funds; authorization of appropriations
 
-(a) The United States Governor of the Bank is authorized to contribute on behalf of the UnitedStates $180,000,000 to the Asian Development Fund, a special fund of the Bank: <i>Provided, however</i>, That any commitment to make such contribution shall be made subject to obtaining the necessary appropriations.
+(a) The United States Governor of the Bank is authorized to contribute on behalf of the United States $180,000,000 to the Asian Development Fund, a special fund of the Bank: <i>Provided, however</i>, That any commitment to make such contribution shall be made subject to obtaining the necessary appropriations.
 
 (b) In order to pay for the United States contribution to the Asian Development Fund provided for in this section, there are authorized to be appropriated without fiscal year limitation $180,000,000 for payment by the Secretary of the Treasury: <i>Provided, however</i>, That not more than $14,116,177 may be made available for such contribution for the fiscal year 1982.
 
@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1981—Subsec. (b). Pub. L. 97–35 inserted provision limiting amount of appropriations available for contributions for fiscal year 1982.
+<b>1981</b>—Subsec. (b). Pub. L. 97–35 inserted provision limiting amount of appropriations available for contributions for fiscal year 1982.
 
 #### Effective Date of 1981 Amendment
 

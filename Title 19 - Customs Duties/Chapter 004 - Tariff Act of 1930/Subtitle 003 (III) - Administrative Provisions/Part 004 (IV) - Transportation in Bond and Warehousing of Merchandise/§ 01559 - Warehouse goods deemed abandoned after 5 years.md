@@ -12,11 +12,11 @@ Prior provisions that goods, remaining in public store or bonded warehouse beyon
 
 #### Amendments
 
-2006—Pub. L. 109–280 inserted “, or such longer period of time as the Bureau of Customs and Border Protection may at its discretion permit upon proper request being filed and good cause shown” after “date of importation” in two places.
+<b>2006</b>—Pub. L. 109–280 inserted “, or such longer period of time as the Bureau of Customs and Border Protection may at its discretion permit upon proper request being filed and good cause shown” after “date of importation” in two places.
 
-1978—Pub. L. 95–410 substituted “5 years” for “three years” wherever appearing.
+<b>1978</b>—Pub. L. 95–410 substituted “5 years” for “three years” wherever appearing.
 
-1938—Act June 25, 1938, struck out “(or ten months in the case of grain)” wherever appearing.
+<b>1938</b>—Act June 25, 1938, struck out “(or ten months in the case of grain)” wherever appearing.
 
 #### Effective Date of 2006 Amendment
 

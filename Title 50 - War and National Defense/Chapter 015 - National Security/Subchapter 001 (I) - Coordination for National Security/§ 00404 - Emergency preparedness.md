@@ -26,19 +26,15 @@ In performing his functions, the Administrator of the Federal Emergency Manageme
 
 (July 26, 1947, ch. 343, title I, §107, formerly §103, 61 Stat. 499; Oct. 28, 1949, ch. 782, title IX, §1106(a), 63 Stat. 972; 1950 Reorg. Plan No. 25, §1, eff. July 9, 1950, 15 F.R. 4366, 64 Stat. 1280; 1953 Reorg. Plan No. 3, §2(a), eff. June 12, 1953, 18 F.R. 3375, 67 Stat. 634; Sept. 3, 1954, ch. 1263, §50, 68 Stat. 1244; 1958 Reorg. Plan No. 1, §2, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799; Pub. L. 90–608, ch. IV, §402, Oct. 21, 1968, 82 Stat. 1194; Ex. Ord. No. 11725, §3, eff. June 29, 1973, 38 F.R. 17175; Ex. Ord. No. 12148, §§1–103, 4–102, July 20, 1979, 44 F.R. 43239; renumbered §107, Pub. L. 102–496, title VII, §705(a)(2), Oct. 24, 1992, 106 Stat. 3190; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
-#### References in Text
-
-The civil-service laws, referred to in subsec. (a), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Codification
 
-In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Actof 1949” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 
-1954—Act Sept. 3, 1954, struck out subsec. (a) relating to establishment of National Security Resources Board,and redesignated subsecs. (b) to (d) as subsecs. (a) to (c), respectively.
+<b>1954</b>—Act Sept. 3, 1954, struck out subsec. (a) relating to establishment of National Security Resources Board, and redesignated subsecs. (b) to (d) as subsecs. (a) to (c), respectively.
 
-1949—Subsec. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+<b>1949</b>—Subsec. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
 #### Repeals
 
@@ -82,7 +78,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### NATIONAL SECURITY RESOURCES BOARD
 
-I74Section 1. Functions of Chairman and of Board
+#### Section 1. Functions of Chairman and of Board
 
 The functions of the National Security Resources Board are hereby transferred to the Chairman of the National Security Resources Board, and the Board shall hereafter advise and consult with the Chairman with respect to such matters within his jurisdiction as he may request.
 
@@ -98,7 +94,7 @@ The Chairman may from time to time make such provisions as he shall deem appropr
 
 > To the Congress of the United States:
 
-I transmit herewith Reorganization Plan No. 25 of 1950, prepared in accordance with the provisions of the Reorganization Act of 1949. The plan transfers the function of the National Security Resources Board from the Board to the Chairman of the Board and makes theBoard advisory to the Chairman. The plan also provides for a Vice Chairman, appointed by the President and confirmed by the Senate.
+I transmit herewith Reorganization Plan No. 25 of 1950, prepared in accordance with the provisions of the Reorganization Act of 1949. The plan transfers the function of the National Security Resources Board from the Board to the Chairman of the Board and makes the Board advisory to the Chairman. The plan also provides for a Vice Chairman, appointed by the President and confirmed by the Senate.
 
 The function assigned to the National Security Resources Board by the National Security Act of 1947 is “to advise the President concerning the coordination of military, industrial and civilian mobilization.” Proper performance of this function requires action by the Board and its staff in two broad areas:
 
@@ -136,7 +132,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### OFFICE OF DEFENSE MOBILIZATION
 
-I74Section 1. Establishment of Office
+#### Section 1. Establishment of Office
 
 (a) There is hereby established in the Executive Office of the President a new agency which shall be known as the Office of Defense Mobilization, hereinafter referred to as the “Office.”
 
@@ -150,7 +146,7 @@ There are hereby transferred to the Director:
 
 (a) All functions of the Chairman of the National Security Resources Board, including his functions as a member of the National Security Council, but excluding the functions abolished by section 5(a) of this reorganization plan.
 
-(b) All functions under the Strategic and Critical Materials Stock Piling Act, as amended (50 U.S.C. 98 et seq.), vested in the Secretaries of the Army, Navy, Air Force, and Interior or in any of them or in any combination of them, including the functions which were vested in the Army and Navy Munitions Board by the item No. (2) in section 6(a) of the said Act (60 Stat. 598) \[former section 98e(a)(2) of this title\], but excluding functions vested in the Secretary of the Interior by section 7 of said Act \[former section 98f of this title\].
+(b) All functions under the Strategic and Critical Materials Stock Piling Act, as amended (50 U.S.C. 98 et seq.), vested in the Secretaries of the Army, Navy, Air Force, and Interior or in any of them or in any combination of them, including the functions which were vested in the Army and Navy Munitions Board by theitem No. (2) in section 6(a) of the said Act (60 Stat. 598) \[former section 98e(a)(2) of this title\], but excluding functions vested in the Secretary of the Interior by section 7 of said Act \[former section 98f of this title\].
 
 (c) The functions vested in the Munitions Board by section 4(h) of the Commodity Credit Corporation Charter Act, as amended (15 U.S.C. 714b(h)), and by section 204(e) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 485(e)) \[now 40 U.S.C. 574(c)\].
 
@@ -198,7 +194,7 @@ Both functions should now be combined into one defense mobilization agency. Acco
 
 The reorganization plan also transfers to the new agency the statutory functions of the present Office of Defense Mobilization. These are of a minor nature, the major functions of the present Office of Defense Mobilization having been delegated to it by the President, principally under the Defense Production Act of 1950, as amended. It is my intention to transfer the latter functions to the new agency by Executive order, and to abolish the Office of Defense Mobilization established by Executive Order No. 10193. There will thus result a new agency which combines the activities of the National Security Resources Board and both the statutory and delegated functions of the heretofore existing Office of Defense Mobilization.
 
-The proposed plan would also reorganize various activities relating to the stockpiling of strategic and critical materials. Those activities are principally provided for in the Strategic and Critical Materials Stock Piling Act, as amended. It has become increasingly apparent that the policy and program aspects of stockpiling are an integral part of mobilization planning. They should not be administered separately from plant expansion, conservation of materials, and materials procurement under the Defense Production Act of 1950, or from the duties placed in the National Security Resources Board by the National Security Act of 1947. Therefore, the reorganization plan would transfer to the Director of the new Office of Defense Mobilization responsibility for major stockpiling actions, including the determination of the nature and quantities of materials to be stockpiled. In the main, these functionsare transferred from the Secretaries of the Army, Navy, and Air Force (acting jointly through the agency of the Munitions Board) and the Secretary of the Interior. The duties of the Administrator of General Services regarding the purchase of strategic and critical materials and the management of stockpiles are not affected by the reorganization plan, except that he will receive his directions, under the plan, from the Director of the Office of Defense Mobilization instead of from the Department of Defense.
+The proposed plan would also reorganize various activities relating to the stockpiling of strategic and critical materials. Those activities are principally provided for in the Strategic and Critical Materials Stock Piling Act, as amended. It has become increasingly apparent that the policy and program aspects of stockpiling are an integral part of mobilization planning. They should not be administered separately from plant expansion, conservation of materials, and materials procurement under the Defense Production Act of 1950, or from the duties placed in the National Security Resources Board by the National Security Act of 1947.Therefore, the reorganization plan would transfer to the Director of the new Office of Defense Mobilization responsibility for major stockpiling actions, including the determination of the nature and quantities of materials to be stockpiled. In the main, these functions are transferred from the Secretaries of the Army, Navy, and Air Force (acting jointly through the agency of the Munitions Board) and the Secretary of the Interior. The duties of the Administrator of General Services regarding the purchase of strategic and critical materials and the management of stockpiles are not affected by the reorganization plan, except that he will receive his directions, under the plan, from the Director of the Office of Defense Mobilization instead of from the Department of Defense.
 
 This transfer of stockpiling functions will correct the present undesirable confusion of responsibilities. The functions of the heads of the military departments of the Department of Defense and the Secretary of the Interior under the Strategic and Critical Materials Stock Piling Act, as amended, are at present in considerable measure subject to other authority of delegates of the President springing from the Defense Production Act of 1950, as amended. The allocation and distribution of scarce materials among essential civilian and military activities and the continued maintenance of adequate stockpiles of strategic and critical materials are of major current importance. The reorganization plan will make possible more effective coordination and close control over the Government's whole stockpile program. It will speed decisions. It can result in significant economies.
 

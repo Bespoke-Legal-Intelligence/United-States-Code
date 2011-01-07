@@ -42,7 +42,7 @@ The Trade Representative shall include in the semiannual report required by sect
 
 #### Amendments
 
-1994—Pub. L. 103–465 amended section generally, changing dates and criteria for submission of certain reports and revising and restructuring provisions relating to identification of trade liberalization priorities, initiation of investigations, and agreements for elimination of barriers.
+<b>1994</b>—Pub. L. 103–465 amended section generally, changing dates and criteria for submission of certain reports and revising and restructuring provisions relating to identification of trade liberalization priorities, initiation of investigations, and agreements for elimination of barriers.
 
 #### Ex. Ord. No. 12901. Identification of Trade Expansion Priorities
 
@@ -78,7 +78,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13116, Mar. 31, 1999, 64 F.R. 16333, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including title III of the Act of March 3, 1993 \[1933\], as amended (41 U.S.C. 10d), sections 141 and 301–310 of the Trade Act of 1974, as amended (the Act) (19 U.S.C. 2171, 2411–2420), title III of the Trade Agreements Act of 1979, as amended (19 U.S.C. 2511–2518), and section 301 of title 3, United States Code, and to ensure that the trade policies of the United States advance, to the greatest extent possible, the export of the products and services of the United States and that trade policy resources are used efficiently, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including title III of the Act of March 3, 1993 \[1933\], as amended (\[former\] 41 U.S.C. 10d) \[see 41 U.S.C. 8301 et seq.\], sections 141 and 301–310 of the Trade Act of 1974, as amended (the Act) (19 U.S.C. 2171, 2411–2420), title III of the Trade Agreements Act of 1979, as amended (19 U.S.C. 2511–2518), and section 301 of title 3, United States Code, and to ensure that the trade policies of the United States advance, to the greatest extent possible, the export of the products and services of the United States and that trade policy resources are used efficiently, it is hereby ordered as follows:
 
 #### Part I: Identification of Trade Expansion Priorities
 
@@ -98,7 +98,7 @@ Section 1. <i>Identification and Annual Report</i>. (a) Within 30 days of the su
 
 Sec. 2. <i>Resolution</i>. Upon submission of the report required by paragraph (a) of section 1 of this part, the Trade Representative shall, with respect to any priority foreign country practice identified therein, engage the country concerned for the purpose of seeking a satisfactory resolution, for example, by obtaining compliance with a trade agreement or the elimination of the practice as quickly as possible, or, if this is not feasible, by providing for compensatory trade benefits.
 
-Sec. 3. <i>Initiation of Investigations</i>. Within 90 days of the submission of the report required by paragraph (a) of section 1 of this part, the Trade Representative shall initiate under section 302(b)(1) of the Act (19 U.S.C.2412(b)(1)) investigations with respect to all of the priority foreign country practices identified, unless during the 90-day period the Trade Representative determines that a satisfactory resolution of the matter to be investigated has been achieved.
+Sec. 3. <i>Initiation of Investigations</i>. Within 90 days of the submission of the report required by paragraph (a) of section 1 of this part, the Trade Representative shall initiate under section 302(b)(1) of the Act (19 U.S.C. 2412(b)(1)) investigations with respect to all of the priority foreign country practices identified, unless during the 90-day period the Trade Representative determines that a satisfactory resolution of the matter to be investigated has been achieved.
 
 #### Part II: Identification of Discriminatory Government Procurement Practices
 

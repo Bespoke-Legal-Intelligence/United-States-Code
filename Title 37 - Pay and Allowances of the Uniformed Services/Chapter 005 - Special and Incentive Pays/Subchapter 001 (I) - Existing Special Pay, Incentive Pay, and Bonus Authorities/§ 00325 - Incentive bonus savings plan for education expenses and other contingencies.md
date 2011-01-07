@@ -64,9 +64,9 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 #### Amendments
 
-2006—Subsec. (g). Pub. L. 109–163, amended heading and text of subsec. (g) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when person fails to complete qualifying service for which person is obligated under commitment for which benefit was paid.
+<b>2006</b>—Subsec. (g). Pub. L. 109–163, amended heading and text of subsec. (g) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when person fails to complete qualifying service for which person is obligated under commitment for which benefit was paid.
 
-2002—Subsec. (i). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (i). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 #### Effective Date of 2002 Amendment
 

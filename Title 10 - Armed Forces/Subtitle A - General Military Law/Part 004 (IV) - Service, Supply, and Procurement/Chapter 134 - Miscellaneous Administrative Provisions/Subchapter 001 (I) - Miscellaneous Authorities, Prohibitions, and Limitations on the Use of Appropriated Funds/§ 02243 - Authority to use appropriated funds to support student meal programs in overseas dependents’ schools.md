@@ -20,5 +20,5 @@ Overseas Meal Program Defined.—In this section, the term “overseas meal prog
 
 #### Amendments
 
-1999—Subsec. (b). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
+<b>1999</b>—Subsec. (b). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 

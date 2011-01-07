@@ -6,7 +6,7 @@ Beginning with fiscal year 2004, from funds appropriated under section 6362(b)(1
 
 &emsp;(1) for each of 2 consecutive years, demonstrate that an increasing percentage of third graders in each of the groups described in section 6311(b)(2)(C)(v)(II) of this title in the schools served by the local educational agencies receiving funds under section 6362 of this title are reaching the proficient level in reading; and
 
-&emsp;(2) for each of the same such consecutive 2 years, demonstrate that schools receiving funds under section 6362 of this title are improving the reading skills of students in grades 1, 2, and 3 based on screening, diagnostic, and classroom-based instructional reading assessments.
+&emsp;(2) for each of the same such consecutive 2 years, demonstrate that schools receivingfunds under section 6362 of this title are improving the reading skills of students in grades 1, 2, and 3 based on screening, diagnostic, and classroom-based instructional reading assessments.
 
 #### (b) Continuation of performance awards
 

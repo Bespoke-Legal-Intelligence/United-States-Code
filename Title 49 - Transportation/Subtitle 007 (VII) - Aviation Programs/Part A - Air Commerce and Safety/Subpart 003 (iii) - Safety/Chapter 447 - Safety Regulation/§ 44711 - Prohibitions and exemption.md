@@ -130,11 +130,11 @@ This amends 49:44711(a)(2)(B), (5), and (7) and 46310(b) to correct erroneous cr
 
 #### Amendments
 
-2003—Subsec. (a)(7). Pub. L. 108–176 substituted “agency, design organization certificate,” for “agency”.
+<b>2003</b>—Subsec. (a)(7). Pub. L. 108–176 substituted “agency, design organization certificate,” for “agency”.
 
-2000—Subsec. (c). Pub. L. 106–181 added subsec. (c).
+<b>2000</b>—Subsec. (c). Pub. L. 106–181 added subsec. (c).
 
-1994—Subsec. (a)(2)(B), (5), (7). Pub. L. 103–429 inserted “any of sections” before “44702–44716”.
+<b>1994</b>—Subsec. (a)(2)(B), (5), (7). Pub. L. 103–429 inserted “any of sections” before “44702–44716”.
 
 #### Effective Date of 2003 Amendment
 

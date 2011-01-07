@@ -31,6 +31,7 @@ Part B—Federal-State Cooperation
 - [&sect; 00247b&#8211;7 - Loan repayment program](%C2%A7%2000247b%E2%80%937%20-%20Loan%20repayment%20program.md)
 - [&sect; 00247b&#8211;8 - Fellowship and training programs](%C2%A7%2000247b%E2%80%938%20-%20Fellowship%20and%20training%20programs.md)
 - [&sect; 00247b&#8211;9 - Diabetes in children and youth](%C2%A7%2000247b%E2%80%939%20-%20Diabetes%20in%20children%20and%20youth.md)
+- [&sect; 00247b&#8211;9a - Better diabetes care](%C2%A7%2000247b%E2%80%939a%20-%20Better%20diabetes%20care.md)
 - [&sect; 00247b&#8211;10 - Compilation of data on asthma](%C2%A7%2000247b%E2%80%9310%20-%20Compilation%20of%20data%20on%20asthma.md)
 - [&sect; 00247b&#8211;11 - Effects of folic acid in prevention of birth defects](%C2%A7%2000247b%E2%80%9311%20-%20Effects%20of%20folic%20acid%20in%20prevention%20of%20birth%20defects.md)
 - [&sect; 00247b&#8211;12 - Safe motherhood](%C2%A7%2000247b%E2%80%9312%20-%20Safe%20motherhood.md)

@@ -1,7 +1,5 @@
 ### SUBCHAPTER II—OFFICE OF SOLID WASTE; AUTHORITIES OF THE ADMINISTRATOR
 
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
-
 
 ---
 

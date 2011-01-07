@@ -2,7 +2,7 @@
 
 (a) Except as provided in subsection (b), persons appointed to the Administration shall be subject to the provisions of and entitled to benefits under subchapter III of chapter 83 of title 5 or subchapter II of chapter 84 of title 5, whichever is applicable.
 
-(b)(1) In computing the annuity under subchapter III of chapter 83, or subchapter II of chapter 84, of title 5 of an individual who retires under such subchapter (other than under section 8337 or 8451 of such title) after December 31, 1981, and who served at any time on a less-than-full-time basis in a position in the Administration to which such individual was appointed under subchapter I—
+(b)(1) In computing the annuity under subchapter III of chapter 83, or subchapter II of chapter 84, of title 5 of an individual who retiresunder such subchapter (other than under section 8337 or 8451 of such title) after December 31, 1981, and who served at any time on a less-than-full-time basis in a position in the Administration to which such individual was appointed under subchapter I—
 
 &emsp;(A) for the purpose of determining such individual's average pay, as defined by section 8331(4) or 8401(3) of title 5, whichever is applicable, the annual rate of basic pay for full-time service shall be deemed to be such individual's rate of basic pay; and
 
@@ -22,9 +22,9 @@ Provisions similar to those in this section were contained in sections 4107(i) a
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–135 added subsec. (c).
+<b>2002</b>—Subsec. (c). Pub. L. 107–135 added subsec. (c).
 
-2000—Subsec. (c). Pub. L. 106–398 struck out subsec. (c) which read as follows: “The Secretary may authorize an exception to the restrictions in subsections (a), (b), and (c) of section 5532 of title 5 if necessary to meet special or emergency employment needs which result from a severe shortage of well-qualified candidates in physician positions, and registered nurse positions, which otherwise cannot be readily met. The authority of the Secretary under the preceding sentence with respect to registered-nurse positions expires on December 31, 1994.”
+<b>2000</b>—Subsec. (c). Pub. L. 106–398 struck out subsec. (c) which read as follows: “The Secretary may authorize an exception to the restrictions in subsections (a), (b), and (c) of section 5532 of title 5 if necessary to meet special or emergency employment needs which result from a severe shortage of well-qualified candidates in physician positions, and registered nurse positions, which otherwise cannot be readily met. The authority of the Secretary under the preceding sentence with respect to registered-nurse positions expires on December 31, 1994.”
 
-1992—Subsec. (c). Pub. L. 102–585 substituted “December 31, 1994” for “September 30, 1992”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–585 substituted “December 31, 1994” for “September 30, 1992”.
 

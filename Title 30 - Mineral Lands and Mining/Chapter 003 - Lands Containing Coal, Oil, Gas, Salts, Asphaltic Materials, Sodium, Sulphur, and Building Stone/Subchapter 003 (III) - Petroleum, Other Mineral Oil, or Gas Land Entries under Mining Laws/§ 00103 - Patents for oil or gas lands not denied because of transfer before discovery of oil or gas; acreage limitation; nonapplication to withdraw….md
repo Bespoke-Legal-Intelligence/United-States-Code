@@ -4,7 +4,3 @@ In no case shall patent be denied to or for any lands located or claimed prior t
 
 (Mar. 2, 1911, ch. 201, §1, 36 Stat. 1015.)
 
-#### References in Text
-
-The mining laws of the United States, referred to in text, are classified generally to this title.
-

@@ -4,6 +4,10 @@ The Attorney General may remove from the United States any alien who falls into 
 
 (June 27, 1952, ch. 477, title II, ch. 5, §250, 66 Stat. 219.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.

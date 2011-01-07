@@ -14,7 +14,7 @@ At such time as the petroleum product contracted for under this part is withdraw
 
 #### Amendments
 
-2000—Subsecs. (a), (b). Pub. L. 106–469 struck out subsecs. (a) and (b) which read as follows:
+<b>2000</b>—Subsecs. (a), (b). Pub. L. 106–469 struck out subsecs. (a) and (b) which read as follows:
 
 “(a)
 

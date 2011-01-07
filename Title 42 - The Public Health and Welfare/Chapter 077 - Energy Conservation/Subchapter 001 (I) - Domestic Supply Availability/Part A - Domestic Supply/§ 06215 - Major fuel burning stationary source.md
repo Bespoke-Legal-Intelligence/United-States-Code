@@ -46,5 +46,5 @@ The terms “major fuel burning stationary source (or class or category thereof)
 
 #### Amendments
 
-2000—Pub. L. 106–469 inserted section catchline.
+<b>2000</b>—Pub. L. 106–469 inserted section catchline.
 

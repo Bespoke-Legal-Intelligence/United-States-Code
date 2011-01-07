@@ -6,9 +6,9 @@ The remainder of such assets or their proceeds shall become assets of the United
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 5224 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5224 of this title as this section.
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Secretary's” for “Administrator's” wherever appearing.
 
-1986—Pub. L. 99–576 substituted “the Administrator's” for “his” in two places, and “the Administrator” for “him”.
+<b>1986</b>—Pub. L. 99–576 substituted “the Administrator's” for “his” in two places, and “the Administrator” for “him”.
 

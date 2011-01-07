@@ -14,7 +14,7 @@
 
 &emsp;(C) Post a surety bond for any injury that may result if the detention or exclusion of the articles proves to be unjustified.
 
-(2) Articles imported in violation of the rights set forth in section 905 are subject to seizure and forfeiture in the same manner as property imported in violation of the customs laws. Any such forfeited articles shall be destroyed as directed by the Secretary of the Treasury or the court, as the case may be, except that the articles may be returned to the country of export whenever it is shown to the satisfaction of the Secretary of the Treasury that the importer had no reasonable grounds for believing that his or her acts constituted a violation of the law.
+(2) Articles imported in violation of the rights set forth in section 905 are subject to seizure andforfeiture in the same manner as property imported in violation of the customs laws. Any such forfeited articles shall be destroyed as directed by the Secretary of the Treasury or the court, as the case may be, except that the articles may be returned to the country of export whenever it is shown to the satisfaction of the Secretary of the Treasury that the importer had no reasonable grounds for believing that his or her acts constituted a violation of the law.
 
 (Added Pub. L. 98–620, title III, §302, Nov. 8, 1984, 98 Stat. 3352; amended Pub. L. 101–553, §2(b)(1), Nov. 15, 1990, 104 Stat. 2750; Pub. L. 105–80, §12(a)(23), Nov. 13, 1997, 111 Stat. 1535.)
 
@@ -24,13 +24,11 @@ The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), are set out
 
 Section 337 of the Tariff Act of 1930, referred to in subsec. (c)(1)(A), is classified to section 1337 of Title 19, Customs Duties.
 
-The customs laws, referred to in subsec. (c)(2), are classified generally to Title 19.
-
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–80 substituted “As used” for “as used” in second sentence.
+<b>1997</b>—Subsec. (a). Pub. L. 105–80 substituted “As used” for “as used” in second sentence.
 
-1990—Subsec. (a). Pub. L. 101–553 inserted sentences at end defining “any person” and providing that any State and any instrumentality, officer, or employee be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
+<b>1990</b>—Subsec. (a). Pub. L. 101–553 inserted sentences at end defining “any person” and providing that any State and any instrumentality, officer, or employee be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
 
 #### Effective Date of 1990 Amendment
 

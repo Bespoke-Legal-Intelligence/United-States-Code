@@ -17,6 +17,9 @@
 | [2113\.](%C2%A7%2002113%20-%20Authority%20to%20exempt%20certain%20vessels.md) | Authority to exempt certain vessels. |
 | [2114\.](%C2%A7%2002114%20-%20Protection%20of%20seamen%20against%20discrimination.md) | Protection of seamen against discrimination. |
 | [2115\.](%C2%A7%2002115%20-%20Civil%20penalty%20to%20enforce%20alcohol%20and%20dangerous%20drug%20testing.md) | Civil penalty to enforce alcohol and dangerous drug testing. |
+| [2116\.](%C2%A7%2002116%20-%20Marine%20safety%20strategy%2C%20goals%2C%20and%20performance%20assessments.md) | Marine safety strategy, goals, and performance assessments. |
+| [2117\.](%C2%A7%2002117%20-%20Termination%20for%20unsafe%20operation.md) | Termination for unsafe operation. |
+| [2118\.](%C2%A7%2002118%20-%20Establishment%20of%20equipment%20standards.md) | Establishment of equipment standards. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -26,13 +29,15 @@ Chapter 21 contains definitions that are general in nature and applicable to all
 
 #### Amendments
 
-2008—Pub. L. 110–181, div. C, title XXXV, §3529(a)(1), Jan. 28, 2008, 122 Stat. 603, struck out item 2108 “Refund of penalties”.
+<b>2010</b>—Pub. L. 111–281, title V, §522(b), title VI, §608(b), Oct. 15, 2010, 124 Stat. 2957, 2968, added items 2116 to 2118.
 
-1996—Pub. L. 104–324, title III, §303(b), Oct. 19, 1996, 110 Stat. 3917, added item 2115.
+<b>2008</b>—Pub. L. 110–181, div. C, title XXXV, §3529(a)(1), Jan. 28, 2008, 122 Stat. 603, struck out item 2108 “Refund of penalties”.
 
-1990—Pub. L. 101–508, title X, §10401(b), Nov. 5, 1990, 104 Stat. 1388–398, substituted “Fees” for “Fees prohibited” in item 2110.
+<b>1996</b>—Pub. L. 104–324, title III, §303(b), Oct. 19, 1996, 110 Stat. 3917, added item 2115.
 
-1984—Pub. L. 98–557, §13(b), Oct. 30, 1984, 98 Stat. 2864, added item 2114.
+<b>1990</b>—Pub. L. 101–508, title X, §10401(b), Nov. 5, 1990, 104 Stat. 1388–398, substituted “Fees” for “Fees prohibited” in item 2110.
+
+<b>1984</b>—Pub. L. 98–557, §13(b), Oct. 30, 1984, 98 Stat. 2864, added item 2114.
 
 
 ---
@@ -54,3 +59,6 @@ Chapter 21 contains definitions that are general in nature and applicable to all
 - [&sect; 02113 - Authority to exempt certain vessels](%C2%A7%2002113%20-%20Authority%20to%20exempt%20certain%20vessels.md)
 - [&sect; 02114 - Protection of seamen against discrimination](%C2%A7%2002114%20-%20Protection%20of%20seamen%20against%20discrimination.md)
 - [&sect; 02115 - Civil penalty to enforce alcohol and dangerous drug testing](%C2%A7%2002115%20-%20Civil%20penalty%20to%20enforce%20alcohol%20and%20dangerous%20drug%20testing.md)
+- [&sect; 02116 - Marine safety strategy, goals, and performance assessments](%C2%A7%2002116%20-%20Marine%20safety%20strategy%2C%20goals%2C%20and%20performance%20assessments.md)
+- [&sect; 02117 - Termination for unsafe operation](%C2%A7%2002117%20-%20Termination%20for%20unsafe%20operation.md)
+- [&sect; 02118 - Establishment of equipment standards](%C2%A7%2002118%20-%20Establishment%20of%20equipment%20standards.md)

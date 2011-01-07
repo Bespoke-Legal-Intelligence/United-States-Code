@@ -22,9 +22,13 @@ There shall be in the Commission not more than five additional officers appointe
 
 (Pub. L. 93–438, title II, §209, Oct. 11, 1974, 88 Stat. 1248; Pub. L. 95–601, §§4, 6, Nov. 6, 1978, 92 Stat. 2949.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, known as the Energy Reorganization Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+
 #### Amendments
 
-1978—Subsec. (b). Pub. L. 95–601, §4(a), inserted provision requiring component organization directors to keep the Executive Director informed as to communications with the Commission.
+<b>1978</b>—Subsec. (b). Pub. L. 95–601, §4(a), inserted provision requiring component organization directors to keep the Executive Director informed as to communications with the Commission.
 
 Subsec. (c). Pub. L. 95–601, §4(b), added subsec. (c). Former subsec. (c) redesignated (e).
 
@@ -34,7 +38,7 @@ Subsec. (e). Pub. L. 95–601, §4(b), redesignated former subsec. (c) as (e).
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (d) of this section relating to forwarding of annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 10th item on page 186 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (d) of this section relating to forwarding of annual report to Congress, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and the 10th item on page 186 of House Document No. 103–7.
 
 #### Transfer of Functions
 

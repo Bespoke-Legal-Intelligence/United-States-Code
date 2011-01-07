@@ -52,7 +52,7 @@ A prior section 232 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1048;
 
 #### Amendments
 
-1993—Subsec. (b)(4). Pub. L. 103–178 substituted “eligible for an annuity under section 2034” for “eligible for an annuity under section 2032”.
+<b>1993</b>—Subsec. (b)(4). Pub. L. 103–178 substituted “eligible for an annuity under section 2034” for “eligible for an annuity under section 2032”.
 
 #### Effective Date of 1993 Amendment
 

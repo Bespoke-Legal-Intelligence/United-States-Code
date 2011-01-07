@@ -54,13 +54,13 @@ Under Pub. L. 90–575, title I, §131(a), Oct. 16, 1968, 82 Stat. 1028, section
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–315 added subsec. (d).
+<b>2008</b>—Subsec. (d). Pub. L. 110–315 added subsec. (d).
 
-1998—Subsec. (c). Pub. L. 105–244 added subsec. (c).
+<b>1998</b>—Subsec. (c). Pub. L. 105–244 added subsec. (c).
 
-1992—Subsec. (b). Pub. L. 102–325 designated existing provisions as par. (1) and added par. (2).
+<b>1992</b>—Subsec. (b). Pub. L. 102–325 designated existing provisions as par. (1) and added par. (2).
 
-1986—Pub. L. 99–498 amended section generally, substituting provisions relating to flexible use of funds for provisions relating to sources of matching funds.
+<b>1986</b>—Pub. L. 99–498 amended section generally, substituting provisions relating to flexible use of funds for provisions relating to sources of matching funds.
 
 #### Effective Date of 1998 Amendment
 

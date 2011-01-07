@@ -22,17 +22,15 @@ For any scientific and engineering disciplines for which there is a shortage of 
 
 The Immigration and Nationality Act, referred to in subsec. (d), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
-The provisions of title 5 governing employment in the competitive service, referred to in subsec. (d), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 #### Prior Provisions
 
 A prior section 278g, act Mar. 3, 1901, ch. 872, §17, as added Mar. 1, 1968, Pub. L. 90–259, title I, §102, 82 Stat. 35, related to grants to States, local governments, other non-Federal public agencies, and non-profit institutions, reimbursement of Federal agencies, delegation of powers, advance of public moneys, cooperation of Federal agencies, and issuance of rules and regulations, prior to repeal by Pub. L. 93–498, §18, Oct. 29, 1974, 88 Stat. 1545.
 
 #### Amendments
 
-1992—Subsec. (d). Pub. L. 102–245 added subsec. (d).
+<b>1992</b>—Subsec. (d). Pub. L. 102–245 added subsec. (d).
 
-1988—Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards” wherever appearing.
+<b>1988</b>—Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards” wherever appearing.
 
 #### Effective Date
 

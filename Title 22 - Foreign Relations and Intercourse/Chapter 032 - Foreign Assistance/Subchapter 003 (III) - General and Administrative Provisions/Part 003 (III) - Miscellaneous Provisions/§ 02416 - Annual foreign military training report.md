@@ -44,7 +44,7 @@ A prior section 2416, Pub. L. 87–195, pt. III, §656, as added Pub. L. 92–22
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–228 designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
+<b>2002</b>—Subsec. (a). Pub. L. 107–228 designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
 
 #### Change of Name
 

@@ -140,7 +140,7 @@ A prior section 3020 was renumbered section 5120 of this title.
 
 #### Amendments
 
-2008—Pub. L. 110–252, §5006(a)(1), substituted “Authority to transfer unused education benefits to family members for career service members” for “Transfer of entitlement to basic educational assistance: members of the Armed Forces with critical military skills” in section catchline.
+<b>2008</b>—Pub. L. 110–252, §5006(a)(1), substituted “Authority to transfer unused education benefits to family members for career service members” for “Transfer of entitlement to basic educational assistance: members of the Armed Forces with critical military skills” in section catchline.
 
 Subsecs. (a), (b). Pub. L. 110–252, §5006(a)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which provided for transfers of entitlement to basic educational assistance from eligible members of the Armed Forces to certain dependents and described eligibility criteria for such members, respectively.
 
@@ -156,7 +156,7 @@ Subsec. (h)(5). Pub. L. 110–252, §5006(a)(6), inserted “may use the benefit
 
 Subsec. (k). Pub. L. 110–252, §5006(a)(7), added subsec. (k) and struck out former subsec. (k). Prior to amendment, text read as follows: “The Secretary of Defense shall prescribe regulations for purposes of this section. Such regulations shall specify the manner and effect of an election to modify or revoke a transfer of entitlement under subsection (f)(2) and shall specify the manner of the applicability of the administrative provisions referred to in subsection (h)(5) to a dependent to whom entitlement is transferred under this section.”
 
-2002—Subsec. (h)(2). Pub. L. 107–314, §643(a)(1), substituted “paragraphs (5) and (6)” for “paragraphs (4) and (5)” and struck out “and at the same rate” after “in the same manner”.
+<b>2002</b>—Subsec. (h)(2). Pub. L. 107–314, §643(a)(1), substituted “paragraphs (5) and (6)” for “paragraphs (4) and (5)” and struck out “and at the same rate” after “in the same manner”.
 
 Subsec. (h)(3) to (7). Pub. L. 107–314, §643(a)(2), (3), added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively.
 

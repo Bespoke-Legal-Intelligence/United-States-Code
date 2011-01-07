@@ -10,7 +10,7 @@
 
 &emsp;(1) shall hold such status conferences as are necessary to further the expeditious and economical resolution of the case; and
 
-&emsp;(2) unless inconsistent with another provision of this title or with applicable Federal Rules of Bankruptcy Procedure, issue an order at any such conference prescribing such limitations and conditions as the court deems appropriate to ensure that the case is handled expeditiously and economically, including an order that—
+&emsp;(2) unless inconsistent with another provision of this title or with applicable Federal Rules of Bankruptcy Procedure, may issue an order at any such conference prescribing such limitations and conditions as the court deems appropriate to ensure that the case is handled expeditiously and economically, including an order that—
 
 &emsp;&emsp;(A) sets the date by which the trustee must assume or reject an executory contract or unexpired lease; or
 
@@ -26,9 +26,9 @@
 
 &emsp;&emsp;&emsp;(v) fixes the scope and format of the notice to be provided regarding the hearing on approval of the disclosure statement; or
 
-&emsp;&emsp;&emsp;(vi) provides that the hearing on approval of the disclosure statement may be combined with the hearing on confirmation of the plan.
+&emsp;&emsp;&emsp;(vi) provides that the hearing on approval of the disclosure statement may becombined with the hearing on confirmation of the plan.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 98–353, title I, §118, July 10, 1984, 98 Stat. 344; Pub. L. 99–554, title II, §203, Oct. 27, 1986, 100 Stat. 3097; Pub. L. 103–394, title I, §104(a), Oct. 22, 1994, 108 Stat. 4108; Pub. L. 109–8, title IV, §440, Apr. 20, 2005, 119 Stat. 114.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 98–353, title I, §118, July 10, 1984, 98 Stat. 344; Pub. L. 99–554, title II, §203, Oct. 27, 1986, 100 Stat. 3097; Pub. L. 103–394, title I, §104(a), Oct. 22, 1994, 108 Stat. 4108; Pub. L. 109–8, title IV, §440, Apr. 20, 2005, 119 Stat. 114; Pub. L. 111–327, §2(a)(3), Dec. 22, 2010, 124 Stat. 3557.)
 
 #### Historical and Revision Notes
 
@@ -43,6 +43,8 @@ This section is also an authorization, as required under 28 U.S.C. 2283, for a c
 The Federal Rules of Bankruptcy Procedure, referred to in subsec. (d)(2), are set out in the Appendix to this title.
 
 #### Amendments
+
+2010—Subsec. (d)(2). Pub. L. 111–327 inserted “may” after “Procedure,” in introductory provisions.
 
 2005—Subsec. (d). Pub. L. 109–8, §440(1), struck out “, may” after “party in interest” in introductory provisions.
 

@@ -42,7 +42,7 @@
 
 #### (2) Implementation
 
-&emsp;(A) The Secretary may implement on a permanent basis any Program component referred to in paragraph (1) on or after the date which is 30 days after paragraph (1)(D) is complied with.
+&emsp;(A) The Secretary may implement on a permanent basis any Program component referred to in paragraph (1) on or after the datewhich is 30 days after paragraph (1)(D) is complied with.
 
 &emsp;(B) For purposes of subparagraph (A), the 30 days shall be computed by excluding—
 
@@ -76,7 +76,7 @@ For purposes of this section, the term “Committees” means the Committee on W
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–295 made technical amendment to reference in original act which appears in text as reference to December 8, 1993.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–295 made technical amendment to reference in original act which appears in text as reference to December 8, 1993.
 
 #### Transfer of Functions
 

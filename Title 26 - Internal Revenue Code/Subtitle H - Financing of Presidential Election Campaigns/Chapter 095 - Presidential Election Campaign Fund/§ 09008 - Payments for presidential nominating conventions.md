@@ -8,7 +8,7 @@ The Secretary shall maintain in the fund, in addition to any account which he ma
 
 #### (1) Major parties
 
-&emsp;Subject to the provisions of this section, the national committee of a major party shall be entitled to payments under paragraph (3), with respect to any presidential nominating convention, in amounts which, in the aggregate, shall not exceed $4,000,000.
+&emsp;Subject to the provisions of this section, the national committee of a major party shall beentitled to payments under paragraph (3), with respect to any presidential nominating convention, in amounts which, in the aggregate, shall not exceed $4,000,000.
 
 #### (2) Minor parties
 
@@ -16,7 +16,7 @@ The Secretary shall maintain in the fund, in addition to any account which he ma
 
 #### (3) Payments
 
-&emsp;Upon receipt of certification from the Commission under subsection (g), the Secretary shall make payments from the appropriate account maintained under subsection (a) to the national committee of a major party or minor party which elects to receive its entitlement under this subsection. Such payments shall beavailable for use by such committee in accordance with the provisions of subsection (c).
+&emsp;Upon receipt of certification from the Commission under subsection (g), the Secretary shall make payments from the appropriate account maintained under subsection (a) to the national committee of a major party or minor party which elects to receive its entitlement under this subsection. Such payments shall be available for use by such committee in accordance with the provisions of subsection (c).
 
 #### (4) Limitation
 
@@ -62,7 +62,7 @@ If, after the close of a presidential nominating convention and after the nation
 
 #### (g) Certification by Commission
 
-Any major party or minor party may file a statement with the Commission in such form and manner and at such times as it may require, designating the national committee of such party. Such statement shall include the information required by section 303(b) of the Federal Election Campaign Act of 1971, together with such additional information as the Commission may require. Upon receipt of a statement filed under the preceding sentences, the Commission promptly shall verify such statement according to such procedures and criteria as it may establish and shall certify to the Secretary for payment in full to any such committee of amounts to which such committee may be entitled under subsection (b). Such certifications shall be subject to an examination and audit which the Commission shall conduct no later than December 31, of the calendar year in which the presidential nominating convention involved is held.
+Any major party or minor party may file a statement with the Commission in such form and manner and at such times as it may require, designating the national committee of such party. Such statement shall include the information required by section 303(b) of the Federal Election Campaign Act of 1971, together with such additional information as the Commission may require. Upon receipt of a statement filed under the preceding sentences, the Commission promptly shall verify such statement according to such procedures and criteria as it may establish and shall certify to the Secretary for payment in full to any such committee of amountsto which such committee may be entitled under subsection (b). Such certifications shall be subject to an examination and audit which the Commission shall conduct no later than December 31, of the calendar year in which the presidential nominating convention involved is held.
 
 #### (h) Repayments
 
@@ -76,17 +76,17 @@ Sections 303 and 315 of the Federal Election Campaign Act of 1971, referred to i
 
 #### Amendments
 
-1984—Subsec. (b)(1). Pub. L. 98–355, §1(a), substituted “$4,000,000” for “$3,000,000”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–355, §1(a), substituted “$4,000,000” for “$3,000,000”.
 
 Subsec. (b)(5). Pub. L. 98–355, §1(b), substituted “section 315(b) and section 315(d)” for “section 320(b) and section 320(d)” and “section 315(c)” for “section 320(c)”.
 
-1980—Subsec. (b)(1). Pub. L. 96–187 substituted “$3,000,000” for “$2,000,000”.
+<b>1980</b>—Subsec. (b)(1). Pub. L. 96–187 substituted “$3,000,000” for “$2,000,000”.
 
-1976—Subsec. (b)(5). Pub. L. 94–283, §307(a), substituted “section 320(b) and section 320(d) of the Federal Election Campaign Act of 1971 are adjusted pursuant to the provisions of section 320(c) of such Act” for “section 608(c) and section 608(f) of title 18, United States Code, are adjusted pursuant to the provisions of section 608(d) of such title”.
+<b>1976</b>—Subsec. (b)(5). Pub. L. 94–283, §307(a), substituted “section 320(b) and section 320(d) of the Federal Election Campaign Act of 1971 are adjusted pursuant to the provisions of section 320(c) of such Act” for “section 608(c) and section 608(f) of title 18, United States Code, are adjusted pursuant to the provisions of section 608(d) of such title”.
 
 Subsec. (d)(4). Pub. L. 94–283, §303, added par. (4).
 
-1974—Pub. L. 93–443 substituted provisions respecting payments for presidential nominating conventions for prior provisions respecting information on proposed expenses, subsec. (a) relating to reports by candidates, and subsec. (b) to publication of summaries, see section 434 of Title 2, The Congress.
+<b>1974</b>—Pub. L. 93–443 substituted provisions respecting payments for presidential nominating conventions for prior provisions respecting information on proposed expenses, subsec. (a) relating to reports by candidates, and subsec. (b) to publication of summaries, see section 434 of Title 2, The Congress.
 
 #### Effective Date of 1984 Amendment
 

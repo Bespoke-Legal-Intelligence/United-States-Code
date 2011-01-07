@@ -14,13 +14,17 @@
 
 (Pub. L. 93–383, title I, §113, Aug. 22, 1974, 88 Stat. 651; Pub. L. 95–128, title I, §109, Oct. 12, 1977, 91 Stat. 1124; Pub. L. 97–35, title III, §309(<i>l</i>), Aug. 13, 1981, 95 Stat. 397; Pub. L. 101–625, title IX, §910(h), Nov. 28, 1990, 104 Stat. 4392.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+
 #### Amendments
 
-1990—Subsec. (a)(4). Pub. L. 101–625 added par. (4).
+<b>1990</b>—Subsec. (a)(4). Pub. L. 101–625 added par. (4).
 
-1981—Subsec. (a)(2). Pub. L. 97–35 struck out requirement respecting approval by the Secretary.
+<b>1981</b>—Subsec. (a)(2). Pub. L. 97–35 struck out requirement respecting approval by the Secretary.
 
-1977—Subsec. (a)(3). Pub. L. 95–128 added par. (3).
+<b>1977</b>—Subsec. (a)(3). Pub. L. 95–128 added par. (3).
 
 #### Effective Date of 1981 Amendment
 
@@ -40,7 +44,7 @@ Pub. L. 96–399, title I, §105(b), Oct. 8, 1980, 94 Stat. 1618, directed Secre
 
 #### Adequacy, Effectiveness, and Equity of Formula for Allocation of Funds; Report to Congress
 
-Pub. L. 96–399, title I, §113, Oct. 8, 1980, 94 Stat. 1622, directed Secretary of Housing and Urban Development, not later than Jan. 1, 1983, to report to Congress with respect to adequacy, effectiveness, and equity of formula used for allocation of funds under title I of the Housing and Community Development Act of 1974 (this chapter), with specific analysis and recommendations concerning manner in which such formula is or could be affected by data derived from 1980 decennial census.
+Pub. L. 96–399, title I, §113, Oct. 8, 1980, 94 Stat. 1622, directed Secretary of Housing and Urban Development,not later than Jan. 1, 1983, to report to Congress with respect to adequacy, effectiveness, and equity of formula used for allocation of funds under title I of the Housing and Community Development Act of 1974 (this chapter), with specific analysis and recommendations concerning manner in which such formula is or could be affected by data derived from 1980 decennial census.
 
 #### Statement of Policy and Study on Housing Displacement
 

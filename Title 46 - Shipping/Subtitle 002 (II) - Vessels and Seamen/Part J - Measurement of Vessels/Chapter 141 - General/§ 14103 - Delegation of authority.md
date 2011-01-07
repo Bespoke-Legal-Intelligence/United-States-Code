@@ -4,11 +4,11 @@
 
 (b) Under regulations prescribed by the Secretary, a decision of the person delegated authority under subsection (a) of this section related to measuring a vessel or issuing a certificate may be appealed to the Secretary.
 
-(c) For a vessel intended to be engaged on a foreign voyage, the Secretary may delegate to another country that is a party to the Convention the authority to measure the vessel and issue an International Tonnage Certificate (1969) under chapter 143 of this title.
+(c) For a vessel that engages on a foreign voyage, the Secretary may delegate to another country that is a party to the Convention the authority to measure the vessel and issue an International Tonnage Certificate (1969) under chapter 143 of this title.
 
 (d) The Secretary may terminate a delegation made under this section after giving written notice to the person.
 
-(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1919.)
+(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1919; Pub. L. 111–281, title III, §303(b), Oct. 15, 2010, 124 Stat. 2924.)
 
 #### Historical and Revision Notes
 
@@ -25,4 +25,8 @@ Section 14103(b) provides for the appeal to the Secretary of a decision made by 
 Section 14103(c) authorizes the Secretary to delegate to a country that is a party to the International Convention on Tonnage Measurement of Ships, 1969, the authority to measure a vessel and issue an International Tonnage Certificate.
 
 Section 14103(d) clarifies the Secretary's authority to revoke at any time and without cause a delegation of authority to measure a vessel or issue a certificate. This authority is given so that no delay occurs administratively in revoking a delegation wherever the Secretary decides a revocation is warranted.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (c). Pub. L. 111–281 substituted “that engages on” for “intended to be engaged on”.
 

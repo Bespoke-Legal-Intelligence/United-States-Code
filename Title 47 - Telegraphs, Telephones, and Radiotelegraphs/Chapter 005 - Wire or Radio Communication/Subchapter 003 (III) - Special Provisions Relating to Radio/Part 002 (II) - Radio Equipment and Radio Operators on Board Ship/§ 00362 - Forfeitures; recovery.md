@@ -14,7 +14,7 @@ This part, referred to in text, commences with section 351 of this title.
 
 #### Amendments
 
-1989—Subsec. (a). Pub. L. 101–239, §3002(g)(1), substituted “$5,000” for “$500”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §3002(g)(1), substituted “$5,000” for “$500”.
 
 Subsec. (b). Pub. L. 101–239, §3002(g)(2), substituted “$1,000” for “$100”.
 

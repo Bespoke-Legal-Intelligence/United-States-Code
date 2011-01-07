@@ -16,7 +16,7 @@ No registered investment company shall—
 
 #### (c) Officers, directors, or employees of one bank or bank holding company as majority of board of directors of company; exceptions
 
-No registered investment company shall have a majority of its board of directors consisting of persons who are officers, directors, or employees of any one bank (together with its affiliates and subsidiaries) or any one bank holding company (together with its affiliates and subsidiaries) (as such terms are defined in section 1841 of title 12) or any one savings and loan holding company, together with its affiliates and subsidiaries (assuch terms are defined in section 1467a of title 12),,<sup>1</sup> except that, if on March 15, 1940, any registered investment company had a majority of its directors consisting of persons who are directors, officers, or employees of any one bank, such company may continue to have the same percentage of its board of directors consisting of persons who are directors, officers, or employees of such bank.
+No registered investment company shall have a majority of its board of directors consisting of persons who are officers, directors, or employees of any one bank (together with its affiliates and subsidiaries) or any one bank holding company (together with its affiliates and subsidiaries) (as such terms are defined in section 1841 of title 12) or any one savings and loan holding company, together with its affiliates and subsidiaries (as such terms are defined in section 1467a of title 12),,<sup>1</sup> except that, if on March 15, 1940, any registered investment company had a majority ofits directors consisting of persons who are directors, officers, or employees of any one bank, such company may continue to have the same percentage of its board of directors consisting of persons who are directors, officers, or employees of such bank.
 
 #### (d) Exception to limitation of number of interested persons who may serve on board of directors
 
@@ -70,13 +70,13 @@ In the case of a registered management company which is an unincorporated compan
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–351 inserted “or any one savings and loan holding company, together with its affiliates and subsidiaries (as such terms are defined in section 1467a of title 12),” after “1841 of title 12)”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–351 inserted “or any one savings and loan holding company, together with its affiliates and subsidiaries (as such terms are defined in section 1467a of title 12),” after “1841 of title 12)”.
 
-1999—Subsec. (c). Pub. L. 106–102 substituted “bank (together with its affiliates and subsidiaries) or any one bank holding company (together with its affiliates and subsidiaries) (as such terms are defined in section 1841 of title 12), except” for “bank, except”.
+<b>1999</b>—Subsec. (c). Pub. L. 106–102 substituted “bank (together with its affiliates and subsidiaries) or any one bank holding company (together with its affiliates and subsidiaries) (as such terms are defined in section 1841 of title 12), except” for “bank, except”.
 
-1975—Subsec. (e). Pub. L. 94–29 inserted reference to provisions of section 80a–15(f)(1) of this title.
+<b>1975</b>—Subsec. (e). Pub. L. 94–29 inserted reference to provisions of section 80a–15(f)(1) of this title.
 
-1970—Subsec. (a). Pub. L. 91–547, §5(a), struck out introductory text “After one year from the effective date of this subchapter” and substituted “interested persons of such registered company” for “investment advisers of, affiliated persons of an investment adviser of, or officers or employees of, such registered company”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–547, §5(a), struck out introductory text “After one year from the effective date of this subchapter” and substituted “interested persons of such registered company” for “investment advisers of, affiliated persons of an investment adviser of, or officers or employees of, such registered company”.
 
 Subsec. (b). Pub. L. 91–547, §5(b)(1), struck out introductory text “After one year from the effective date of this subchapter,” and substituted “No” for “no”.
 

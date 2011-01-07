@@ -6,5 +6,5 @@ Any sums in the Rural Housing Insurance Fund which the Secretary determines are 
 
 #### Amendments
 
-1969—Pub. L. 91–152 struck out applicability of provisions to Rural Housing Direct Loan Account.
+<b>1969</b>—Pub. L. 91–152 struck out applicability of provisions to Rural Housing Direct Loan Account.
 

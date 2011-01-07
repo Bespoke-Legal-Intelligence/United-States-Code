@@ -6,11 +6,11 @@ There is authorized to be appropriated for the purposes of sections 309 and 309a
 
 #### Amendments
 
-1968—Pub. L. 90–252 increased appropriation from $15,000,000 to $25,000,000.
+<b>1968</b>—Pub. L. 90–252 increased appropriation from $15,000,000 to $25,000,000.
 
-1965—Pub. L. 89–14 increased appropriation from $12,000,000 to $15,000,000.
+<b>1965</b>—Pub. L. 89–14 increased appropriation from $12,000,000 to $15,000,000.
 
-1963—Pub. L. 88–230 increased appropriation from $7,500,000 to $12,000,000 and amount available for administrative purposes from $1,000,000 to $1,500,000.
+<b>1963</b>—Pub. L. 88–230 increased appropriation from $7,500,000 to $12,000,000 and amount available for administrative purposes from $1,000,000 to $1,500,000.
 
-1961—Pub. L. 87–273 increased appropriation to $7,500,000 and amount available for administrative purposes to $1,000,000.
+<b>1961</b>—Pub. L. 87–273 increased appropriation to $7,500,000 and amount available for administrative purposes to $1,000,000.
 

@@ -4,7 +4,7 @@ Hawaii constitutes one judicial district which includes the Midway Islands, Wake
 
 &emsp;&emsp;Court shall be held at Honolulu.
 
-(June 25, 1948, ch. 646, 62 Stat. 877; May 24, 1949, ch. 139, §64a, 63 Stat. 99; Pub. L. 86–3, §14(i), Mar. 18, 1959, 73 Stat. 11; Pub. L. 86–624, §19, July 12, 1960, 74 Stat. 416.)
+(June 25, 1948, ch. 646, 62 Stat. 877; May 24, 1949, ch. 139, §64a, 63 Stat. 99; Pub. L. 86–3, §14(i), Mar.18, 1959, 73 Stat. 11; Pub. L. 86–624, §19, July 12, 1960, 74 Stat. 416.)
 
 #### Historical and Revision Notes
 
@@ -12,7 +12,7 @@ Based on sections 641 and 642a of title 48, U.S.C., 1940 ed., Territories and In
 
 Section consolidates parts of sections 641 and 642a of title 48, U.S.C., 1940 ed.
 
-The provisions of section 641 of title 48, U.S.C., 1940 ed., with reference to regular and special terms and thetimes of holding same were omitted as covered by sections 138 and 141 of this title.
+The provisions of section 641 of title 48, U.S.C., 1940 ed., with reference to regular and special terms and the times of holding same were omitted as covered by sections 138 and 141 of this title.
 
 Provisions of section 642a of title 48, U.S.C., 1940 ed., relating to jurisdiction of civil actions and criminal offenses, were omitted as covered by the general jurisdictional provisions of this title and revised title 18 (H. R. 3190, 80th Cong.).
 
@@ -24,11 +24,11 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1960—Pub. L. 86–624 struck out Kure Island.
+<b>1960</b>—Pub. L. 86–624 struck out Kure Island.
 
-1959—Pub. L. 86–3 included Palmyra Island.
+<b>1959</b>—Pub. L. 86–3 included Palmyra Island.
 
-1949—Act May 24, 1949, inserted provisions relating to inclusion of Canton and Enderbury Islands.
+<b>1949</b>—Act May 24, 1949, inserted provisions relating to inclusion of Canton and Enderbury Islands.
 
 #### Effective Date of 1959 Amendment
 
@@ -56,7 +56,7 @@ Section 12 of Pub. L. 86–3 provided that: “No writ, action, indictment, caus
 
 #### Appeals
 
-Section 13 of Pub. L. 86–3 provided that: “Parties shall have the same rights of appeal from and appellate review of final decisions of the United States District Court for the District of Hawaii or the Supreme Court of the Territory of Hawaii in any case finally decided prior to admission of said State into the Union, whether or not an appeal therefrom shall have been perfected prior to such admission, and the United States Court of Appeals for the Ninth Circuit and the Supreme Court of the United States shall have the same jurisdiction therein, as by law provided prior to admission of said State into the Union, and any mandate issued subsequent to the admission of said State shall be to the United States District Court for the District of Hawaii or a court of the State, as may be appropriate. Parties shall have the same rights of appeal from and appellate review of all orders, judgments, and decrees of the United States District Court for the District of Hawaii and of the Supreme Court of the State of Hawaii as successor to the Supreme Court of the Territory of Hawaii, in any case pending at the time of admission of said State into the Union, and the United States Court of Appeals for the Ninth Circuit and the Supreme Court of the United States shall have the same jurisdiction therein, as by law provided in any case arising subsequent to the admission of said State into the Union.”
+Section 13 of Pub. L. 86–3 provided that: “Parties shall have the same rights of appeal from and appellate review of final decisions of the United States District Court for the District of Hawaii or the Supreme Court of the Territory of Hawaii in any case finally decided prior to admission of said State into the Union, whether or not an appeal therefrom shall have been perfected prior to such admission, and the United States Court of Appeals for the Ninth Circuit and the Supreme Court of the United States shall have the same jurisdiction therein, as by law provided prior to admission of said State into the Union, and any mandate issued subsequent to the admission of said State shall be to the United States District Court for the District of Hawaii or a court of the State, as may be appropriate. Parties shall have the same rights of appeal from and appellate review of all orders, judgments, and decrees of the United States District Court for the District of Hawaii and of the Supreme Court of the State of Hawaii as successor to the Supreme Court of the Territory of Hawaii, in any case pending at the time of admission of said State into the Union, and the United States Court of Appeals for the Ninth Circuit and the Supreme Court of the United States shall have the same jurisdictiontherein, as by law provided in any case arising subsequent to the admission of said State into the Union.”
 
 #### Extension of Jurisdiction of United States District Court for District of Hawaii and of Civil and Criminal Laws to Midway, Wake, Johnson, Sand, etc., Islands
 

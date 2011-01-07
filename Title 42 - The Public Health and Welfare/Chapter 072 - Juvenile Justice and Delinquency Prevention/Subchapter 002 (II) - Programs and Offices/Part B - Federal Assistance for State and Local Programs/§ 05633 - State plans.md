@@ -2,7 +2,7 @@
 
 #### (a) Requirements
 
-In order to receive formula grants under this part, a State shall submit a plan for carrying out its purposes applicable to a 3-year period. Such plan shall be amended annually to include new programs, projects, and activities. The State shall submit annual performance reports to the Administrator which shall describe progress in implementing programs contained in the original plan, and shall describe the statusof compliance with State plan requirements. In accordance with regulations which the Administrator shall prescribe, such plan shall—
+In order to receive formula grants under this part, a State shall submit a plan for carrying out its purposes applicable to a 3-year period. Such plan shall be amended annually to include new programs, projects, and activities. The State shall submit annual performance reports to the Administrator which shall describe progress in implementing programs contained in the original plan, and shall describe the status of compliance with State plan requirements. In accordance with regulations which the Administrator shall prescribe, such plan shall—
 
 &emsp;(1) designate the State agency described in section 5671(c)(1) of this title as the sole agency for supervising the preparation and administration of the plan;
 
@@ -146,7 +146,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;(ii) assist in the provision by the provision <sup>4</sup> by the Administrator of information and technical assistance, including technology transfer, to States in the design and utilization of risk assessment mechanisms to aid juvenile justice personnel in determining appropriate sanctions for delinquent behavior;
 
-&emsp;&emsp;(M) community-based programs and services to work with juveniles, their parents, and other family members during and after incarceration in order to strengthen families so that such juveniles may be retained in their homes;
+&emsp;&emsp;(M) community-based programs and services to work with juveniles, their parents, and other family members during and afterincarceration in order to strengthen families so that such juveniles may be retained in their homes;
 
 &emsp;&emsp;(N) programs (including referral to literacy programs and social service programs) to assist families with limited English-speaking ability that include delinquent juveniles to overcome language and other barriers that may prevent the complete treatment of such juveniles and the preservation of their families;
 
@@ -272,7 +272,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;(26) provide that the State, to the maximum extent practicable, will implement a system to ensure that if a juvenile is before a court in the juvenile justice system, public child welfare records (including child protective services records) relating to such juvenile that are on file in the geographical area under the jurisdiction of such court will be made known to such court;
 
-&emsp;(27) establish policies and systems to incorporate relevant child protective services records into juvenile justice records for purposes of establishing and implementing treatment plans for juvenile offenders; and
+&emsp;(27) establish policies and systems to incorporate relevant child protective servicesrecords into juvenile justice records for purposes of establishing and implementing treatment plans for juvenile offenders; and
 
 &emsp;(28) provide assurances that juvenile offenders whose placement is funded through section 672 of this title receive the protections specified in section 671 of this title, including a case plan and case plan review as defined in section 675 of this title.
 
@@ -328,15 +328,15 @@ Notwithstanding any other provision of law, the Administrator shall establish ap
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(18), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
+This chapter, referred to in subsec. (a)(18), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
 
 Section 3785 of this title, referred to in subsec. (d), was repealed by Pub. L. 109–162, title XI, §1155(3), Jan. 5, 2006, 119 Stat. 3114.
 
 #### Amendments
 
-2006—Subsec. (a)(7)(B)(i) to (iv). Pub. L. 109–162 added cl. (i) and redesignated former cls. (i) to (iii) as (ii) to (iv), respectively.
+<b>2006</b>—Subsec. (a)(7)(B)(i) to (iv). Pub. L. 109–162 added cl. (i) and redesignated former cls. (i) to (iii) as (ii) to (iv), respectively.
 
-2002—Subsec. (a). Pub. L. 107–273, §12209(1)(A), substituted “, projects, and activities” for “and challenge activities subsequent to State participation in part E of this subchapter” in second sentence of introductory provisions.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273, §12209(1)(A), substituted “, projects, and activities” for “and challenge activities subsequent to State participation in part E of this subchapter” in second sentence of introductory provisions.
 
 Subsec. (a)(3). Pub. L. 107–273, §12209(1)(B)(i), substituted “that—” for “, which—” in introductory provisions.
 
@@ -432,7 +432,7 @@ Subsec. (a)(12). Pub. L. 107–273, §12209(1)(S), redesignated par. (13) as (12
 
 Pub. L. 107–273, §12209(1)(I), amended par. (12) generally. Prior to amendment, par. (12) read as follows:
 
-“(A) provide within three years after submission of the initial plan that juveniles who are charged with or who have committed offenses that would not be criminal if committed by an adult or offenses (other than an offense that constitutes a violation of a valid court order or a violation of section 922(x) of title 18 or asimilar State law), or alien juveniles in custody, or such nonoffenders as dependent or neglected children, shall not be placed in secure detention facilities or secure correctional facilities; and
+“(A) provide within three years after submission of the initial plan that juveniles who are charged with or who have committed offenses that would not be criminal if committed by an adult or offenses (other than an offense that constitutes a violation of a valid court order or a violation of section 922(x) of title 18 or a similar State law), or alien juveniles in custody, or such nonoffenders as dependent or neglected children, shall not be placed in secure detention facilities or secure correctional facilities; and
 
 “(B) provide that the State shall submit annual reports to the Administrator containing a review of the progress made by the State to achieve the deinstitutionalization of juveniles described in subparagraph (A) and a review of the progress made by the State to provide that such juveniles, if placed in facilities, are placed in facilities which (i) are the least restrictive alternatives appropriate to the needs of the child and the community; (ii) are in reasonable proximity to the family and the home communities of such juveniles; and (iii) provide the services described in section 5603(1) of this title;”.
 
@@ -522,9 +522,9 @@ Subsec. (d). Pub. L. 107–273, §12209(3), substituted “allocation” for “
 
 Subsecs. (e), (f). Pub. L. 107–273, §12209(4), added subsecs. (e) and (f).
 
-2000—Subsec. (a)(14). Pub. L. 106–554 inserted “(except in the case of Alaska where such time limit may be forty-eight hours in fiscal years 2000 through 2002)” after “twenty-four hours” in introductory provisions.
+<b>2000</b>—Subsec. (a)(14). Pub. L. 106–554 inserted “(except in the case of Alaska where such time limit may be forty-eight hours in fiscal years 2000 through 2002)” after “twenty-four hours” in introductory provisions.
 
-1998—Subsec. (a)(4). Pub. L. 105–277, §101(b) \[title I, §129(a)(2)(C)(i)\], substituted “units of local government” for “units of general local government” after “participation of” and “units of local government” for “local governments” after “requests of”.
+<b>1998</b>—Subsec. (a)(4). Pub. L. 105–277, §101(b) \[title I, §129(a)(2)(C)(i)\], substituted “units of local government” for “units of general local government” after “participation of” and “units of local government” for “local governments” after “requests of”.
 
 Subsec. (a)(5). Pub. L. 105–277, §101(b) \[title I, §129(a)(2)(C)(ii)\], substituted “units of local government” for “units of general local government” in subpar. (A) and “unit of local government” for “unit of general local government” in subpar. (B).
 
@@ -532,11 +532,11 @@ Subsec. (a)(6). Pub. L. 105–277, §101(b) \[title I, §129(a)(2)(C)(iii)\], su
 
 Subsec. (a)(10). Pub. L. 105–277, §101(b) \[title I, §129(a)(2)(C)(iv)\], substituted “unit of local government” for “unit of general local government” in introductory provisions.
 
-1996—Subsec. (a)(12)(A). Pub. L. 104–294 substituted “similar State law)” for “similar State law).”
+<b>1996</b>—Subsec. (a)(12)(A). Pub. L. 104–294 substituted “similar State law)” for “similar State law).”
 
-1994—Subsec. (a)(12)(A). Pub. L. 103–322 substituted “(other than an offense that constitutes a violation of a valid court order or a violation of section 922(x) of title 18 or a similar State law).” for “which do not constitute violations of valid court orders”.
+<b>1994</b>—Subsec. (a)(12)(A). Pub. L. 103–322 substituted “(other than an offense that constitutes a violation of a valid court order or a violation of section 922(x) of title 18 or a similar State law).” for “which do not constitute violations of valid court orders”.
 
-1992—Subsec. (a). Pub. L. 102–586, §2(f)(3)(A)(i)(I), substituted “programs and challenge activities subsequent to State participation in part E of this subchapter. The State” for “programs, and the State” in introductory provisions.
+<b>1992</b>—Subsec. (a). Pub. L. 102–586, §2(f)(3)(A)(i)(I), substituted “programs and challenge activities subsequent to State participation in part E of this subchapter. The State” for “programs, and the State” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 102–586, §2(f)(3)(A)(i)(II), made technical amendment to reference to section 5671 of this title to reflect renumbering of corresponding section of original act.
 
@@ -572,9 +572,9 @@ Subsec. (c). Pub. L. 102–586, §2(f)(3)(A)(ii), amended subsec. (c) generally,
 
 Subsec. (d). Pub. L. 102–586, §2(f)(3)(A)(iii), inserted “, excluding funds the Administrator shall make available to satisfy the requirement specified in section 5632(d) of this title,” and substituted “activities of the kinds described in subsection (a)(12)(A), (13), (14) and (23) of this section” for “the purposes of subsection (a)(12)(A) of this section, subsection (a)(13) of this section, or subsection (a)(14) of this section” and “subsection (a)(12)(A), (13), (14) and (23) of this section” for “subsection (a)(12)(A) of this section and subsection (a)(13) of this section”.
 
-1988—Subsec. (a)(1). Pub. L. 100–690, §6263(b)(1), made technical amendment to reference to section 5671 of this title to reflect renumbering of corresponding section of original act.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–690, §6263(b)(1), made technical amendment to reference to section 5671 of this title to reflect renumbering of corresponding section of original act.
 
-Subsec. (a)(5). Pub. L. 100–690, §7258(a)(1), substituted in introductory provisions “shall be expended” for “shall be expended through”, in subpar. (A) substituted “through programs” for “programs” and struck out“and” at end, in subpar. (B) substituted “through programs” for “programs” and inserted “and” after semicolon, and added subpar. (C).
+Subsec. (a)(5). Pub. L. 100–690, §7258(a)(1), substituted in introductory provisions “shall be expended” for “shall be expended through”, in subpar. (A) substituted “through programs” for “programs” and struck out “and” at end, in subpar. (B) substituted “through programs” for “programs” and inserted “and” after semicolon, and added subpar. (C).
 
 Subsec. (a)(8)(A). Pub. L. 100–690, §7258(a)(2), substituted “relevant jurisdiction (including any geographical area in which an Indian tribe performs law enforcement functions)” for “relevant jurisdiction” and “juvenile crime problems (including the joining of gangs that commit crimes)” for “juvenile crime problems” in two places.
 
@@ -586,7 +586,7 @@ Subsec. (c)(1). Pub. L. 100–690, §7258(d)(1)–(3), designated existing provi
 
 Subsec. (c)(2) to (4). Pub. L. 100–690, §7258(d)(4), added pars. (2) to (4).
 
-1984—Subsec. (a). Pub. L. 98–473, §626(a)(9), (10), struck out provision after numbered paragraphs which read as follows: “such plan may at the discretion of the Associate Administrator be incorporated into the plan specified in section 3743 of this title. Such plan shall be modified by the State, as soon as practicable after December 8, 1980, in order to comply with the requirements of paragraph (14).”
+<b>1984</b>—Subsec. (a). Pub. L. 98–473, §626(a)(9), (10), struck out provision after numbered paragraphs which read as follows: “such plan may at the discretion of the Associate Administrator be incorporated into the plan specified in section 3743 of this title. Such plan shall be modified by the State, as soon as practicable after December 8, 1980, in order to comply with the requirements of paragraph (14).”
 
 Subsec. (a)(1). Pub. L. 98–473, §626(a)(1), substituted “agency described in section 5671(c)(1) of this title” for “criminal justice council established by the State under section 3742(b)(1) of this title”.
 
@@ -604,7 +604,7 @@ Subsec. (a)(9). Pub. L. 98–473, §626(a)(4), inserted “special education,”
 
 Subsec. (a)(10). Pub. L. 98–473, §626(a)(5)(A), in provisions preceding subpar. (A), substituted “programs for juveniles, including those processed in the criminal justice system,” for “programs for juveniles” and “provide for effective rehabilitation, and facilitate the coordination of services between the juvenile justice and criminal justice systems” for “and provide for effective rehabilitation”.
 
-Subsec. (a)(10)(E). Pub. L. 98–473, §626(a)(5)(B), inserted “, including programs to counsel delinquent youth and other youth regarding the opportunities which education provides”.
+Subsec. (a)(10)(E). Pub. L. 98–473, §626(a)(5)(B), inserted “, including programs to counsel delinquentyouth and other youth regarding the opportunities which education provides”.
 
 Subsec. (a)(10)(F). Pub. L. 98–473, §626(a)(5)(C), inserted “and their families”.
 
@@ -640,7 +640,7 @@ Subsec. (c). Pub. L. 98–473, §626(c), substituted “3” for “2” before 
 
 Subsec. (d). Pub. L. 98–473, §626(d), made a conforming amendment to the reference to sections 3783, 3784, and 3785 of this title to reflect the renumbering of the corresponding sections of the original act.
 
-1980—Subsec. (a). Pub. L. 96–509, §11(a)(1), in provisions preceding par. (1), provided for 3-year, rather than annual, plans and annually submitted performance reports which describe the progress in implementing programs contained in the original plan and the status of compliance with State plan requirements.
+<b>1980</b>—Subsec. (a). Pub. L. 96–509, §11(a)(1), in provisions preceding par. (1), provided for 3-year, rather than annual, plans and annually submitted performance reports which describe the progress in implementing programs contained in the original plan and the status of compliance with State plan requirements.
 
 Pub. L. 96–509, §§11(a)(15)(B), 19(g)(11), in provisions following par. (22), substituted reference to section 3743 of this title for reference to section 3733(a) of this title and inserted provision that plans be modified by States as soon as possible after Dec. 8, 1980, in order to comply with the requirements of par. (14).
 
@@ -696,7 +696,7 @@ Subsec. (c). Pub. L. 96–509, §11(b), made conforming amendment, redefined “
 
 Subsec. (d). Pub. L. 96–509, §§11(c), 19(g)(13), substituted reference to sections 3783, 3784, and 3785 of this title for reference to sections 3757, 3758, and 3759 of this title and provided that redistributed allotments be used for the purposes of subsections (a)(12)(A), (a)(13) or (a)(14) of this section, and further provided that the Administrator shall make such reallocated funds available on an equitable basis to States that have achieved full compliance with the requirements under subsecs. (a)(12)(A) and (a)(13) of this section.
 
-1977—Subsec. (a)(3). Pub. L. 95–115, §4(c)(1), in introductory text substituted provisions relating to functions under subpar. (F) and participation in the development and review of the plan, for provisions relating to advisement of the State planning agency and its supervisory board, in subpar. (C) inserted provision relating to representatives from business groups and businesses, and in subpar. (E) inserted requirement for at least three of the members to be or have been under the jurisdiction of the juvenile justice system, and added subpar. (F).
+<b>1977</b>—Subsec. (a)(3). Pub. L. 95–115, §4(c)(1), in introductory text substituted provisions relating to functions under subpar. (F) and participation in the development and review of the plan, for provisions relating to advisement of the State planning agency and its supervisory board, in subpar. (C) inserted provision relating to representatives from business groups and businesses, and in subpar. (E) inserted requirement for at least three of the members to be or have been under the jurisdiction of the juvenile justice system, and added subpar. (F).
 
 Subsec. (a)(4). Pub. L. 95–115. §4(c)(2), inserted provisions relating to grants or contracts with local private agencies or the advisory group, and substituted “units of general local government or combinations thereof in” for “local governments in”.
 
@@ -740,7 +740,7 @@ Subsec. (d). Pub. L. 95–115, §4(c)(14), inserted provision relating to the St
 
 Subsec. (e). Pub. L. 95–115, §4(c)(15), struck out subsec. (e) which related to reallotment of funds in a State where the State plan fails to meet the requirements of this section as a result of oversight or neglect.
 
-1976—Subsec. (a). Pub. L. 94–503 substituted “(15), and (17)” for “and (15)” in provisions preceding par. (1).
+<b>1976</b>—Subsec. (a). Pub. L. 94–503 substituted “(15), and (17)” for “and (15)” in provisions preceding par. (1).
 
 #### Effective Date of 2002 Amendment
 
@@ -768,7 +768,7 @@ Section 4(c)(6)(B) of Pub. L. 95–115 provided in part that the amendment of su
 
 #### Savings Provision
 
-Section 2(f)(3)(B) of Pub. L. 102–586 provided that: “Notwithstanding the amendment made by subparagraph (A)(ii) \[amending this section\], section 223(c)(3) of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5633(c)(3)), as in effect on the day prior to the date of enactment of this Act \[Nov. 4, 1992\], shall remain in effect to the extent that it provides the Administrator authority to grant a waiver with respect to a fiscal year prior to a fiscal year beginning before January 1, 1993.” On the day prior to Nov. 4, 1992, subsec. (c)(3) of this section read as follows: “Except as provided in paragraph (2), failure to achieve compliance with the requirements of subsection (a)(14) of this section after December 8, 1985, shall terminate any State's eligibility for funding under this part unless the Administrator waives the termination of the State's eligibility on the condition that the State agrees to expendall of the funds to be received under this part by the State (excluding funds required to be expended to comply with subsections (c) and (d) of section 5632 of this title and with subsection (a)(5)(C) of this section), only to achieve compliance with subsection (a)(14) of this section.”
+Section 2(f)(3)(B) of Pub. L. 102–586 provided that: “Notwithstanding the amendment made by subparagraph (A)(ii) \[amending this section\], section 223(c)(3) of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5633(c)(3)), as in effect on the day prior to the date of enactment of this Act \[Nov. 4, 1992\], shall remain in effect to the extent that it provides the Administrator authority to grant a waiver with respect to a fiscal year prior to a fiscal year beginning before January 1, 1993.” On the day prior to Nov. 4, 1992, subsec. (c)(3) of this section read as follows: “Except as provided in paragraph (2), failure to achieve compliance with the requirements of subsection (a)(14) of this section after December 8, 1985, shall terminate any State's eligibility for funding under this part unless the Administrator waives the termination of the State's eligibility on the condition that the State agrees to expend all of the funds to be received under this part by the State (excluding funds required to be expended to comply with subsections (c) and (d) of section 5632 of this title and with subsection (a)(5)(C) of this section), only to achieve compliance with subsection (a)(14) of this section.”
 
 #### Termination of Advisory Committees
 

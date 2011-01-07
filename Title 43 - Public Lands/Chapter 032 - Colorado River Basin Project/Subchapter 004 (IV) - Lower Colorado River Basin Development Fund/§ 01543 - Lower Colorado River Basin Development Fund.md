@@ -6,7 +6,7 @@ There is hereby established a separate fund in the Treasury of the United States
 
 #### (b) Appropriations
 
-(1) All appropriations made for the purpose of carrying out the provisions of subchapter III of this chapter shall be credited to the development fund as advances from the general fund ofthe Treasury, and shall be available for such purpose.
+(1) All appropriations made for the purpose of carrying out the provisions of subchapter III of this chapter shall be credited to the development fund as advances from the general fund of the Treasury, and shall be available for such purpose.
 
 (2) Except as provided in section 1528(b) of this title, sums advanced by non-Federal entities for the purpose of carrying out the provisions of subchapter III of this chapter shall be credited to the development fund and shall be available without further appropriation for such purpose.
 
@@ -16,7 +16,7 @@ There shall also be credited to the development fund—
 
 &emsp;(1) all revenues collected in connection with the operation of facilities authorized in subchapter III of this chapter in furtherance of the purposes of this chapter (except entrance, admission, and other recreation fees or charges and proceeds received from recreation concessionaires), until completion of repayment requirements of the Central Arizona project;
 
-&emsp;(2) any Federal revenues from the Boulder Canyon and Parker-Davis projects which, after completion of repayment requirements of the said Boulder Canyon and Parker-Davis projects, are surplus, as determined by the Secretary, to the operation, maintenance, and replacement requirements of those projects: <i>Provided, however</i>, That for the Boulder Canyon project commencing June 1, 1987, and for the Parker-Davis project commencing June 1, 2005, and until the end of the repayment period for the Central Arizona project described in section 1521(a) of this title, the Secretary of Energy shall provide for surplus revenues by including the equivalent of 41/2 mills per kilowatthour in the rates charged to purchasers in Arizona for application to the purposes specified in subsection (f) of this section and by including the equivalent 21/2 mills per kilowatthour in the rates charged to purchasers in California and Nevada for application to the purposes of subsection (g) of this section as amended and supplemented: <i>Provided further</i>, That after the repayment period for said Central Arizona project, the equivalent of 21/2 mills per kilowatthour shall be included by the Secretary of Energy in the rates charged to purchasers in Arizona, California, and Nevada to provide revenues for application to the purposes of said subsection (g) of this section: <i>Provided, however</i>, That the Secretary is authorized and directed to continue the in-lieu-of-tax payments to the States of Arizona and Nevada provided for in section 618a(c) of this title so long as revenues accrue from the operation of the Boulder Canyon project; and
+&emsp;(2) any Federal revenues from the Boulder Canyon and Parker-Davis projects which, after completion of repayment requirements of the said Boulder Canyon and Parker-Davis projects, are surplus, as determined by the Secretary, to the operation, maintenance, and replacement requirements of those projects: <i>Provided, however</i>, That for the Boulder Canyon project commencing June 1, 1987, and for the Parker-Davis project commencing June 1, 2005, and until the end of the repayment period for the Central Arizona project described in section 1521(a) of this title, the Secretary of Energy shall provide for surplus revenues by including the equivalent of 4½ mills per kilowatthour in the rates charged to purchasers in Arizona for application to the purposes specified in subsection (f) of this section and by including the equivalent 2½ mills per kilowatthour in the rates charged to purchasers in California and Nevada for application to the purposes of subsection (g) of this section as amended and supplemented: <i>Provided further</i>, That after the repayment period for said Central Arizona project, the equivalent of 2½ mills per kilowatthour shall be included by the Secretary of Energy in the rates charged to purchasers in Arizona, California, and Nevada to provide revenues for application to the purposes of said subsection (g) of this section: <i>Provided, however</i>, That the Secretary is authorized and directed to continue the in-lieu-of-tax payments to the States of Arizona and Nevada provided for in section 618a(c) of this title so long as revenues accrue from the operation of the Boulder Canyon project; and
 
 &emsp;(3) any Federal revenues from that portion of the Pacific Northwest-Pacific Southwest intertie located in the States of Nevada and Arizona which, after completion of repayment requirements of the said part of the Pacific Northwest-Pacific Southwest intertie located in the States of Nevada and Arizona, are surplus, as determined by the Secretary, to the operation, maintenance, and replacement requirements of said portion of the Pacific Northwest-Pacific Southwest intertie and related facilities.
 
@@ -70,7 +70,7 @@ Except as provided in subsection (f) of this section, revenues credited to the d
 
 &emsp;&emsp;&emsp;&emsp;(II) the Southern Arizona Water Rights Settlement Amendments Act of 2004;
 
-&emsp;&emsp;&emsp;(vi) to pay a total of not more than $250,000,000 to the credit of the Future Indian Water Settlement Subaccount of the Lower Colorado Basin Development Fund, for use for Indian water rights settlements in Arizona approved by Congress after the date of enactment of this Act, subject to the requirement that, notwithstanding any other provision of this chapter, any funds credited to the Future Indian Water Settlement Subaccount that are not used in furtherance of a congressionally approved Indian water rights settlement in Arizona by December 31, 2030, shall be returned to the main Lower Colorado Basin Development Fund for expenditure on authorized uses pursuant to this chapter, provided that any interest earned on funds held in the Future Indian Water Settlement Subaccount shall remain in such subaccount until disbursed or returned in accordance with this section;
+&emsp;&emsp;&emsp;(vi) to pay a total of not more than $250,000,000 to the credit of the Future Indian Water Settlement Subaccount of the Lower Colorado Basin Development Fund, for use for Indian water rights settlements in Arizona approved by Congress after the date of enactment of this Act, subject to the requirement that, notwithstanding any other provision of this chapter, any funds credited to the Future Indian WaterSettlement Subaccount that are not used in furtherance of a congressionally approved Indian water rights settlement in Arizona by December 31, 2030, shall be returned to the main Lower Colorado Basin Development Fund for expenditure on authorized uses pursuant to this chapter, provided that any interest earned on funds held in the Future Indian Water Settlement Subaccount shall remain in such subaccount until disbursed or returned in accordance with this section;
 
 &emsp;&emsp;&emsp;(vii) to pay costs associated with the installation of gages on the Gila River and its tributaries to measure the water level of the Gila River and its tributaries for purposes of the New Mexico Consumptive Use and Forbearance Agreement in an amount not to exceed $500,000; and
 
@@ -88,7 +88,7 @@ Except as provided in subsection (f) of this section, revenues credited to the d
 
 &emsp;The funds and portion of revenues described in paragraph (1) that are in excess of amounts credited under paragraph (1) shall be available, on an annual basis, without further appropriation, in order of priority—
 
-&emsp;&emsp;(A) to pay annually the fixed operation, maintenance and replacement charges associated with the delivery of Central ArizonaProject water under long-term contracts held by Arizona Indian tribes (as defined in section 2 of the Arizona Water Settlements Act);
+&emsp;&emsp;(A) to pay annually the fixed operation, maintenance and replacement charges associated with the delivery of Central Arizona Project water under long-term contracts held by Arizona Indian tribes (as defined in section 2 of the Arizona Water Settlements Act);
 
 &emsp;&emsp;(B) to make the final outstanding annual payment for the costs of each unit of the projects authorized under subchapter III of this chapter that are to be repaid by the Central Arizona Water Conservation District;
 
@@ -158,7 +158,7 @@ Except as provided in subsection (f) of this section, revenues credited to the d
 
 #### (g) Repayment of costs
 
-All revenues credited to the development fund in accordance with subsection (c)(2) of this section (excluding only those revenues derived from the sale of power and energy for use in Arizona during the payout period of the Central Arizona Project as authorized herein) and such other revenues as remain in the development fund after making the payments required by subsections (d) and (f) of this section shall be available (1) to make payments, if any, as required by sections 616aa–1 and 620d–1 of this title, (2) for repayment to the general fund of the Treasury the costs of each salinity control unit or separable feature thereof <sup>2</sup> the costs of measures to replace incidental fish and wildlife values foregone, and the costs of on-farm measures payable from the Lower Colorado River Basin Development Fund in accordance with sections1595(a)(2), 1595(a)(3), and 1595(b) of this title and (3) upon appropriation by the Congress, to assist in the repayment of reimbursable costs incurred in connection with units hereafter constructed to provide for the augmentation of the water supplies of the Colorado River for use below Lee Ferry as may be authorized as a result of the investigations and recommendations made pursuant to sections 1511 and 1513(a) of this title.
+All revenues credited to the development fund in accordance with subsection (c)(2) of this section (excluding only those revenues derived from the sale of power and energy for use in Arizona during the payout period of the Central Arizona Project as authorized herein) and such other revenues as remain in the development fund after making the payments required by subsections (d) and (f) of this section shall be available (1) to make payments, if any, as required by sections 616aa–1 and 620d–1 of this title, (2) for repayment to the general fund of the Treasury the costs of each salinity control unit or separable feature thereof <sup>2</sup> the costs of measures to replace incidental fish and wildlife values foregone, and the costs of on-farm measures payable from the Lower Colorado River Basin Development Fund in accordance with sections 1595(a)(2), 1595(a)(3), and 1595(b) of this title and (3) upon appropriation by the Congress, to assist in the repayment of reimbursable costs incurred in connection with units hereafter constructed to provide for the augmentation of the water supplies of the Colorado River for use below Lee Ferry as may be authorized as a result of the investigations and recommendations made pursuant to sections 1511 and 1513(a) of this title.
 
 #### (h) Interest rate
 
@@ -194,21 +194,21 @@ Public Law 98–530, referred to in subsec. (f)(5), is Pub. L. 98–530, Oct. 19
 
 #### Amendments
 
-2004—Subsec. (e). Pub. L. 108–451, §107(c)(2), substituted “Except as provided in subsection (f) of this section, revenues” for “Revenues”.
+<b>2004</b>—Subsec. (e). Pub. L. 108–451, §107(c)(2), substituted “Except as provided in subsection (f) of this section, revenues” for “Revenues”.
 
 Subsec. (f). Pub. L. 108–451, §107(a), inserted heading and text and struck out former text relating to return of costs and interest.
 
 Subsec. (g). Pub. L. 108–451, §107(c)(1), substituted “subsection (c)(2)” for “clause (c)(2)”.
 
-1984—Subsec. (b). Pub. L. 98–381, §102(a), designated existing provisions as par. (1) and added par. (2).
+<b>1984</b>—Subsec. (b). Pub. L. 98–381, §102(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (c)(1). Pub. L. 98–381, §102(b), substituted “, until completion of repayment requirements of the Central Arizona project.” for “including revenues which, after completion of payout of the Central Arizona Project as required herein are surplus, as determined by the Secretary, to the operation, maintenance, and replacement requirements of said project;”.
 
-Subsec. (c)(2). Pub. L. 98–381, §102(c), inserted two provisos, the first relating to the inclusion of the equivalent of 41/2 mills per kilowatthour in the rates charged to purchasers in Arizona for application to the purposes specified in subsection (f) of this section and to the inclusion of the equivalent 21/2 mills per kilowatthour in the rates charged to purchasers in California and Nevada for application to the purposes of subsection (g) of this section as amended and supplemented, and the second providing that, after the repayment period for said Central Arizona project, the equivalent of 21/2 mills per kilowatthour shall be included by the Secretary of Energy in the rates charged to purchasers in Arizona, California, and Nevada to provide revenues for application to the purposes of said subsection (g) of this section.
+Subsec. (c)(2). Pub. L. 98–381, §102(c), inserted two provisos, the first relating to the inclusion of the equivalent of 4½ mills per kilowatthour in the rates charged to purchasers in Arizona for application to the purposes specified in subsection (f) of this section and to the inclusion of the equivalent 2½ mills per kilowatthour in the rates charged to purchasers in California and Nevada for application to the purposes of subsection (g) of this section as amended and supplemented, and the second providing that, after the repayment period for said Central Arizona project, the equivalent of 2½ mills per kilowatthour shall be included by the Secretary of Energy in the rates charged to purchasers in Arizona, California, and Nevada to provide revenues for application to the purposes of said subsection (g) of this section.
 
 Subsec. (g). Pub. L. 98–569 inserted “the costs of measures to replace incidental fish and wildlife values foregone, and the costs of on-farm measures” before “payable from”.
 
-1974—Subsec. (g). Pub. L. 93–320 added cl. (2). Existing cl. (2), authorizing the use of revenues to assist in the repayment of reimbursable costs incurred in connection with units constructed after Sept. 30, 1968, to provide for the augmentation of water supplies of the Colorado River for use below Lee Ferry, redesignated (3).
+<b>1974</b>—Subsec. (g). Pub. L. 93–320 added cl. (2). Existing cl. (2), authorizing the use of revenues to assist in the repayment of reimbursable costs incurred in connection with units constructed after Sept. 30, 1968, to provide for the augmentation of water supplies of the Colorado River for use below Lee Ferry, redesignated (3).
 
 #### Effective Date of 1984 Amendment
 
@@ -222,7 +222,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 Pub. L. 108–451, title I, §107(b), Dec. 10, 2004, 118 Stat. 3498, provided that: “Amounts made available under the amendment made by subsection (a) \[amending this section\]—
 
-&emsp;“(1) shall be identified and retained in the Lower Colorado River Basin Development Fund establishedby section 403 of the Colorado River Basin Project Act (43 U.S.C. 1543); and
+&emsp;“(1) shall be identified and retained in the Lower Colorado River Basin Development Fund established by section 403 of the Colorado River Basin Project Act (43 U.S.C. 1543); and
 
 &emsp;“(2) shall not be expended or withdrawn from that fund until the later of—
 

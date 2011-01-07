@@ -6,7 +6,7 @@ No later than eight months from the date on which a State program is approved by
 
 #### (b) Term
 
-All permits issued pursuant to the requirements of this chapter shall be issued for a term not to exceed five years: <i>Provided</i>, That if the applicant demonstrates that a specified longer term is reasonably needed to allow the applicant to obtain necessary financing for equipment and the opening of the operation and if the application is full and complete for such specified longer term, the regulatory authority may grant a permit for such longer term. A successor in interest to a permittee who applies for a new permit within thirty days of succeeding to such interest and who is able to obtain the bond coverage of the original permittee may continue surface coal mining and reclamation operations according to the approved mining and reclamation plan of the original permittee until such successor's application is granted or denied.
+All permits issued pursuant to the requirements of this chapter shall be issued for a term not to exceed five years: <i>Provided</i>, That if the applicant demonstrates that a specified longer term is reasonably needed to allow the applicant to obtain necessary financing for equipment and the opening of the operation and if the application is full and complete for such specifiedlonger term, the regulatory authority may grant a permit for such longer term. A successor in interest to a permittee who applies for a new permit within thirty days of succeeding to such interest and who is able to obtain the bond coverage of the original permittee may continue surface coal mining and reclamation operations according to the approved mining and reclamation plan of the original permittee until such successor's application is granted or denied.
 
 #### (c) Termination
 
@@ -34,5 +34,5 @@ A permit shall terminate if the permittee has not commenced the surface coal min
 
 #### References in Text
 
-The Federal Mineral Leasing Act, as amended, referred to in subsec. (c), probably means act Feb. 25,1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
+The Federal Mineral Leasing Act, as amended, referred to in subsec. (c), probably means act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
 

@@ -1,6 +1,0 @@
-### §606. Contractor's right of appeal to board of contract appeals
-
-Within ninety days from the date of receipt of a contracting officer's decision under section 605 of this title, the contractor may appeal such decision to an agency board of contract appeals, as provided in section 607 of this title.
-
-(Pub. L. 95–563, §7, Nov. 1, 1978, 92 Stat. 2385.)
-

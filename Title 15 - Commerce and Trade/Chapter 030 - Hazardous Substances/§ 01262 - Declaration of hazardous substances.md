@@ -24,7 +24,7 @@ The Commission may exempt from the requirements established by or pursuant to th
 
 #### (e) Regulation of toys or articles intended for use by children
 
-(1) A determination by the Commission that a toy or other article intended for use by children presents an electrical, mechanical, or thermal hazard shall be made by regulation in accordance with the procedures prescribed by section 553 (other than clause (B) of the last sentence of subsection (b) of such section) of title 5 unless the Commission elects the procedures prescribed by subsection (e) of section 371 of title 21, in which event such subsection and subsections (f) and (g) of such section 371 of title 21 shall apply to the making of such determination. If the Commission makes such election, it shall publish that fact with the proposal required to be published under paragraph (1) of such subsection (e).
+(1) A determination by the Commission that a toy or other article intended for use by children presents an electrical, mechanical, or thermal hazard shall be made by regulation in accordance with the procedures prescribed by section 553 (other than clause (B) of the last sentence of subsection (b) of such section) of title 5 unless the Commission elects the procedures prescribed by subsection (e) of section 371 of title 21, in which event such subsection and subsections (f) and (g) of such section 371 of title 21 shall apply to the making of such determination. If theCommission makes such election, it shall publish that fact with the proposal required to be published under paragraph (1) of such subsection (e).
 
 (2) If, before or during a proceeding pursuant to paragraph (1) of this subsection, the Commission finds that, because of an electrical, mechanical, or thermal hazard, distribution of the toy or other article involved presents an imminent hazard to the public health and it, by order published in the Federal Register, gives notice of such finding, such toy or other article shall be deemed to be a banned hazardous substance for purposes of this chapter until the proceeding has been completed. If not yet initiated when such order is published, such a proceeding shall be initiated as promptly as possible.
 
@@ -124,7 +124,7 @@ The Commission shall grant, in whole or in part, or deny any petition under sect
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–314, §204(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized the Commission to declare hazardous substances by regulation and detailed proceedings for the issuance, amendment, or repeal of such regulations.
+<b>2008</b>—Subsec. (a). Pub. L. 110–314, §204(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized the Commission to declare hazardous substances by regulation and detailed proceedings for the issuance, amendment, or repeal of such regulations.
 
 Subsecs. (b) to (e). Pub. L. 110–314, §204(b)(4)(D), substituted “it” for “he” and “its” for “his” wherever appearing in reference to the Secretary of Health, Education, and Welfare.
 
@@ -136,17 +136,17 @@ Subsec. (g)(1). Pub. L. 110–314, §204(b)(3)(B), substituted “identified in 
 
 Subsec. (h). Pub. L. 110–314, §204(b)(3)(C), (D), in introductory provisions, substituted “unless the” for “unless, not less than 60 days after publication of the notice required in subsection (f) of this section, the” and in concluding provisions, substituted “appropriate Congressional committees. Nothing in this subsection shall preclude any person from submitting an existing standard or portion of a standard as a proposed regulation.” for “Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.”
 
-1990—Subsec. (g)(2). Pub. L. 101–608, §108(b), struck out period at end and inserted “, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.”
+<b>1990</b>—Subsec. (g)(2). Pub. L. 101–608, §108(b), struck out period at end and inserted “, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.”
 
 Subsec. (g)(3). Pub. L. 101–608, §107(b), added par. (3).
 
 Subsec. (j). Pub. L. 101–608, §110(b), added subsec. (j).
 
-1981—Subsecs. (f) to (i). Pub. L. 97–35 added subsecs. (f) to (i).
+<b>1981</b>—Subsecs. (f) to (i). Pub. L. 97–35 added subsecs. (f) to (i).
 
-1969—Subsec. (e). Pub. L. 91–113 added subsec. (e).
+<b>1969</b>—Subsec. (e). Pub. L. 91–113 added subsec. (e).
 
-1966—Subsec. (b). Pub. L. 89–756, §2(d), substituted “any such hazardous substance intended, or packaged in a form suitable, for use in the household or by children, which fails to bear a label in accordance with such regulations shall be deemed to be a misbranded hazardous substance” for “any container of such hazardous substance, intended or suitable for household use, which fails to bear a label in accordance with such regulations shall be deemed to be a misbranded package of a hazardous substance”.
+<b>1966</b>—Subsec. (b). Pub. L. 89–756, §2(d), substituted “any such hazardous substance intended, or packaged in a form suitable, for use in the household or by children, which fails to bear a label in accordance with such regulations shall be deemed to be a misbranded hazardous substance” for “any container of such hazardous substance, intended or suitable for household use, which fails to bear a label in accordance with such regulations shall be deemed to be a misbranded package of a hazardous substance”.
 
 Subsec. (d). Pub. L. 89–756, §2(e), inserted “hazardous substance or” before “container of a hazardous substance”.
 

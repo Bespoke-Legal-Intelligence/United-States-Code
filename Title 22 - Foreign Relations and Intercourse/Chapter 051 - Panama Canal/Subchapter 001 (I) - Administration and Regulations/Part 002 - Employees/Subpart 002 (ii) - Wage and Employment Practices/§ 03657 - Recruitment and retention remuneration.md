@@ -4,7 +4,7 @@
 
 #### (b) Restriction
 
-Any employee described in more than one paragraph of subsection (a) of this section mayqualify for a recruitment or retention differential under only one of those paragraphs.
+Any employee described in more than one paragraph of subsection (a) of this section may qualify for a recruitment or retention differential under only one of those paragraphs.
 
 #### (c) Recruitment and relocation bonuses
 
@@ -40,7 +40,7 @@ Additional compensation provided under this section may not exceed 25 percent of
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–261 struck out subsec. (a) which read as follows: “In addition to basic pay, additional compensation may be paid, in such amounts as the head of the agency concerned determines, as an overseas recruitment or retention differential to any individual who—
+<b>1998</b>—Subsec. (a). Pub. L. 105–261 struck out subsec. (a) which read as follows: “In addition to basic pay, additional compensation may be paid, in such amounts asthe head of the agency concerned determines, as an overseas recruitment or retention differential to any individual who—
 
 &emsp;“(1) before October 1, 1979, was employed by the Panama Canal Company, by the Canal Zone Government, or by any other agency in the area then known as the Canal Zone;
 
@@ -50,11 +50,11 @@ Additional compensation provided under this section may not exceed 25 percent of
 
 > if, in the judgment of the head of the agency concerned, the recruitment or retention of the individual is essential.”
 
-1997—Subsecs. (c), (d). Pub. L. 105–85, §3525(a)(3), added subsecs. (c) and (d). Former subsec. (c) redesignated (e).
+<b>1997</b>—Subsecs. (c), (d). Pub. L. 105–85, §3525(a)(3), added subsecs. (c) and (d). Former subsec. (c) redesignated (e).
 
 Subsec. (e). Pub. L. 105–85, §3525(a)(1), (2), redesignated subsec. (c) as (e) and substituted “of the individual to whom the compensation is paid” for “for the same or similar work performed in the United States by individuals employed by the Government of the United States”.
 
-1996—Subsec. (d). Pub. L. 104–201 struck out subsec. (d) which read as follows: “Subchapter III of chapter 59 of title 5, relating to overseas differentials and allowances, shall not apply with respect to any employee whose permanent duty station is in the Republic of Panama and who is employed by an agency.”
+<b>1996</b>—Subsec. (d). Pub. L. 104–201 struck out subsec. (d) which read as follows: “Subchapter III of chapter 59 of title 5, relating to overseas differentials and allowances, shall not apply with respect to any employee whose permanent duty station is in the Republic of Panama and who is employed by an agency.”
 
 #### Effective Date of 1998 Amendment
 

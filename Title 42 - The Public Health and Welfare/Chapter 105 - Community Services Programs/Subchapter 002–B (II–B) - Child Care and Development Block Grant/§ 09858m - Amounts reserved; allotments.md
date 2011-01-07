@@ -122,7 +122,7 @@ The Secretary shall obtain from each appropriate Federal agency, the most recent
 
 #### (A) Reduction
 
-&emsp;&emsp;The amount of any reallotment to which a State is entitled to under paragraph (1) shall be reduced to the extent that it exceeds the amount that the Secretary estimates will be used in the State to carry out a State plan approved under section 9858c(d) of this title.
+&emsp;&emsp;The amount of any reallotment to which a State is entitled to under paragraph (1) shallbe reduced to the extent that it exceeds the amount that the Secretary estimates will be used in the State to carry out a State plan approved under section 9858c(d) of this title.
 
 #### (B) Reallotments
 
@@ -134,7 +134,7 @@ The Secretary shall obtain from each appropriate Federal agency, the most recent
 
 #### (4) Indian tribes or tribal organizations
 
-&emsp;Any portion of a grant or contract made to an Indian tribe or tribal organization under subsection (c) of this section that the Secretary determines is not being used in a manner consistent with the provision of this subchapter in the period for which the grant orcontract is made available, shall be allotted by the Secretary to other tribes or organizations that have submitted applications under subsection (c) of this section in accordance with their respective needs.
+&emsp;Any portion of a grant or contract made to an Indian tribe or tribal organization under subsection (c) of this section that the Secretary determines is not being used in a manner consistent with the provision of this subchapter in the period for which the grant or contract is made available, shall be allotted by the Secretary to other tribes or organizations that have submitted applications under subsection (c) of this section in accordance with their respective needs.
 
 #### (f) “State” defined
 
@@ -148,11 +148,11 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(3),
 
 #### Amendments
 
-1999—Subsec. (b)(3). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
+<b>1999</b>—Subsec. (b)(3). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
-1997—Subsec. (c)(6)(C). Pub. L. 105–33 substituted “subparagraph (B)” for “subparagraph (A)”.
+<b>1997</b>—Subsec. (c)(6)(C). Pub. L. 105–33 substituted “subparagraph (B)” for “subparagraph (A)”.
 
-1996—Subsec. (a)(1). Pub. L. 104–193, §613(1)(A), made technical amendment to heading, inserted “and” before “the Commonwealth of the Northern Marianna Islands”, and struck out “, and the Trust Territory of the Pacific Islands” before “to be allotted in accordance”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–193, §613(1)(A), made technical amendment to heading, inserted “and” before “the Commonwealth of the Northern Marianna Islands”, and struck out “, and the Trust Territory of the Pacific Islands” before “to be allotted in accordance”.
 
 Subsec. (a)(2). Pub. L. 104–193, §613(1)(B), substituted “less than 1 percent, and not more than 2 percent,” for “more than 3 percent”.
 
@@ -162,7 +162,7 @@ Subsec. (c)(6). Pub. L. 104–193, §613(2)(B), added par. (6).
 
 Subsec. (e)(4). Pub. L. 104–193, §613(3), added par. (4).
 
-1992—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
+<b>1992</b>—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
 
 #### Effective Date of 1997 Amendment
 

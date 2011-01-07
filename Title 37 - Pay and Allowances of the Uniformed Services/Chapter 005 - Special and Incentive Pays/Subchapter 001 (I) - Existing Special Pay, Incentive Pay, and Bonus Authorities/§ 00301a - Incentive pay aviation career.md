@@ -59,15 +59,15 @@
 
 #### Amendments
 
-2006—Subsec. (f). Pub. L. 109–364 struck out subsec. (f), which required the Secretary of Defense to submit annually to Congress a report specifying for the year covered by the report the total number of officers who were determined under subsection (a)(5) to have failed to perform the minimum operational flying duty requirements, the number of those officers who continued to receive continuous monthly incentive pay and the extent to which they failed to perform those requirements, and the reasons for the exercise of the authority under the second sentence of subsection (a)(5) in the case of each officer specified.
+<b>2006</b>—Subsec. (f). Pub. L. 109–364 struck out subsec. (f), which required the Secretary of Defense to submit annually to Congress a report specifying for the year covered by the report the total number of officers who were determined under subsection (a)(5) to have failed to perform the minimum operational flying duty requirements, the number of those officers who continued to receive continuous monthly incentive pay and the extent to which they failed to perform those requirements, and the reasons for the exercise of the authority under the second sentence of subsection (a)(5) in the case of each officer specified.
 
-2004—Subsec. (b)(4). Pub. L. 108–375 substituted “section 301(a)(13)” for “section 301(a)(11)”.
+<b>2004</b>—Subsec. (b)(4). Pub. L. 108–375 substituted “section 301(a)(13)” for “section 301(a)(11)”.
 
-2002—Subsec. (a)(3). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (a)(3). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1999—Subsec. (b)(4). Pub. L. 106–65 added par. (4).
+<b>1999</b>—Subsec. (b)(4). Pub. L. 106–65 added par. (4).
 
-1998—Subsec. (a)(4). Pub. L. 105–261, §615(c)(1)(A), substituted “22 years of aviation service of the officer” for “22 years of the officer's service as an officer” and “25 years of aviation service” for “25 years of service as an officer (as computed under section 205 of this title)”.
+<b>1998</b>—Subsec. (a)(4). Pub. L. 105–261, §615(c)(1)(A), substituted “22 years of aviation service of the officer” for “22 years of the officer's service as an officer” and “25 years of aviation service” for “25 years of service as an officer (as computed under section 205 of this title)”.
 
 Subsec. (a)(6). Pub. L. 105–261, §615(a)(1), added subpar. (A) and redesignated former subpars. (A) to (C) as (B) to (D), respectively.
 
@@ -77,7 +77,7 @@ Pub. L. 105–261, §615(b), amended subsec. (b) generally, substituting pars. (
 
 Subsec. (d). Pub. L. 105–261, §615(c)(1)(B), substituted “subsection (b) for the performance of that duty by a member with corresponding years of aviation service” for “subsection (b)(1) or (2), as the case may be, for the performance of that duty by a member of corresponding years of aviation or officer service, as appropriate,”.
 
-1997—Subsec. (b)(1). Pub. L. 105–85, §615(b), substituted “22 years” for “18 years” in two places in provisions after phase II table.
+<b>1997</b>—Subsec. (b)(1). Pub. L. 105–85, §615(b), substituted “22 years” for “18 years” in two places in provisions after phase II table.
 
 Pub. L. 105–85, §615(a), which directed amendment by inserting at the end of phase I of the table the following:
 
@@ -100,21 +100,21 @@ Pub. L. 105–85, §615(a), which directed amendment by inserting at the end of 
 
 > was repealed by Pub. L. 105–261, §615(d).
 
-1996—Subsec. (a)(4). Pub. L. 104–106, §616(a), substituted “8” for “9” before “of the first 12”.
+<b>1996</b>—Subsec. (a)(4). Pub. L. 104–106, §616(a), substituted “8” for “9” before “of the first 12”.
 
 Subsec. (a)(5). Pub. L. 104–106, §616(b), inserted “The Secretary concerned may not delegate the authority in the preceding sentence to permit the payment of incentive pay under this subsection.” after second sentence.
 
-1993—Subsec. (a)(4). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 101–189, §631(a)(1). See 1989 Amendment note below.
+<b>1993</b>—Subsec. (a)(4). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 101–189, §631(a)(1). See 1989 Amendment note below.
 
-1991—Pub. L. 102–25 struck out “of this section” wherever appearing and struck out “of this subsection” in subsec. (b)(2).
+<b>1991</b>—Pub. L. 102–25 struck out “of this section” wherever appearing and struck out “of this subsection” in subsec. (b)(2).
 
-1990—Subsec. (e). Pub. L. 101–510 struck out subsec. (e) which read as follows: “The Secretary of Defense shall report to Congress before October 1 each year the number of rated members by pay grade who—
+<b>1990</b>—Subsec. (e). Pub. L. 101–510 struck out subsec. (e) which read as follows: “The Secretary of Defense shall report to Congress before October 1 each year the number of rated members by pay grade who—
 
 &emsp;“(1) have 12 or 18 years of aviation service, and of those numbers, the number who are entitled to continuous monthly incentive pay under subsection (a) of this section; and
 
 &emsp;“(2) are performing operational flying duties, proficiency flying, and those not performing flying duties.”
 
-1989—Subsec. (a)(4). Pub. L. 101–189, §631(a), as amended by Pub. L. 103–35, §204(c), substituted “9 of the first 12, and 12 of the first 18 years of the aviation service of the officer” for “6 of the first 12, and 11 of the first 18, years of his aviation service”, “at least 10 but less than 12 of the first 18 years of the aviation service of the officer, the officer” for “at least 9 but less than 11 of the first 18 years of his aviation service, he”, and “the officer's service as an officer” for “his officer service”.
+<b>1989</b>—Subsec. (a)(4). Pub. L. 101–189, §631(a), as amended by Pub. L. 103–35, §204(c), substituted “9 of the first 12, and 12 of the first 18 years of the aviation service of the officer” for “6 of the first 12, and 11 of the first 18, years of his aviation service”, “at least 10 but less than 12 of the first 18 years of the aviation service of the officer, the officer” for “at least 9 but less than 11 of the first 18 years of his aviation service, he”, and “the officer's service as an officer” for “his officer service”.
 
 Subsec. (a)(5). Pub. L. 101–189, §631(b), inserted after first sentence “For the needs of the service, the Secretary concerned may permit, on a case by case basis, an officer to continue to receive continuous monthly incentive pay despite the failure of the officer to perform the prescribed operational flying duty requirements during the prescribed periods of time so long as the officer has performed those requirements for not less than 6 years of aviation service.”
 
@@ -124,23 +124,23 @@ Subsec. (b)(2). Pub. L. 101–189, §631(c)(2), in table, substituted “650” 
 
 Subsec. (f). Pub. L. 101–189, §631(d), added subsec. (f).
 
-1987—Subsec. (a)(6). Pub. L. 100–26, which directed that par. (6) of this section be amended, was executed to par. (6) of subsec. (a) of this section, to reflect the probable intent of Congress by substituting “In this section:” for “For the purposes of this section, the term—”, inserting “The term” at beginning of subpars. (A) to (C), and substituting period for semicolon at end of subpar. (A) and period for “; and” at end of subpar. (B).
+<b>1987</b>—Subsec. (a)(6). Pub. L. 100–26, which directed that par. (6) of this section be amended, was executed to par. (6) of subsec. (a) of this section, to reflect the probable intent of Congress by substituting “In this section:” for “For the purposes of this section, the term—”, inserting “The term” at beginning of subpars. (A) to (C), and substituting period for semicolon at end of subpar. (A) and period for “; and” at end of subpar. (B).
 
-1986—Subsec. (a)(6)(C). Pub. L. 99–661, §632(a)(1), added subpar. (C).
+<b>1986</b>—Subsec. (a)(6)(C). Pub. L. 99–661, §632(a)(1), added subpar. (C).
 
 Subsec. (b)(1). Pub. L. 99–661, §632(a)(2), substituted “a member” for “an officer in pay grades O–1 through O–10”.
 
-1981—Subsec. (a)(4). Pub. L. 97–60, §112(a), inserted provision that entitlement to continuous monthly incentive pay ceases for an officer (other than a warrantofficer) upon completion of 25 years of service as an officer (as computed under section 205 of this title), but such an officer in a pay grade below pay grade O–7 remains entitled to monthly incentive pay under subsection (b)(1) of this section for the performance of operational flying duty.
+<b>1981</b>—Subsec. (a)(4). Pub. L. 97–60, §112(a), inserted provision that entitlement to continuous monthly incentive pay ceases for an officer (other than a warrantofficer) upon completion of 25 years of service as an officer (as computed under section 205 of this title), but such an officer in a pay grade below pay grade O–7 remains entitled to monthly incentive pay under subsection (b)(1) of this section for the performance of operational flying duty.
 
 Subsec. (b)(1), (2). Pub. L. 97–60, §112(b), amended table to reflect an upward adjustment in monthly incentive pay.
 
-1980—Subsec. (a)(3). Pub. L. 96–513 substituted “Health and Human Services” for “Health, Education, and Welfare”.
+<b>1980</b>—Subsec. (a)(3). Pub. L. 96–513 substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
 Subsec. (b)(1). Pub. L. 96–343, §2(b)(1), (2), substituted in phase I table, “$125”, “$156”, “$188”, “$206”, and “$306” for “$100”, “$125”, “$150”, “$165”, and “$245” in items relating to 2 or less years, over 2 years, over 3 years, over 4 years, and over 6 years, respectively, in phase II table, “$281”, “$256”, “$231”, and “$206” for “$225”, “$205”, “$185”, and “$165” in items relating to over 18 years, over 20 years, over 22 years, and over 24 but not over 25 years, respectively, and “$200” and “$206” for “$160” and “$165”, respectively.
 
 Subsec. (b)(2). Pub. L. 96–343, §2(b)(3), substituted “$125”, “$138”, and “$250” for “$100”, “$110”, and “$200” in items relating to 2 or less years, over 2 years, and over 6 years, respectively.
 
-1976—Subsec. (e). Pub. L. 94–273 substituted “October” for “July”.
+<b>1976</b>—Subsec. (e). Pub. L. 94–273 substituted “October” for “July”.
 
 #### Effective Date of 2002 Amendment
 

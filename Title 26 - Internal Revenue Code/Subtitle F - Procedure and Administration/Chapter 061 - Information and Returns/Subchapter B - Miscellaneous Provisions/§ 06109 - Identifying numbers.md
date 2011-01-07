@@ -42,7 +42,7 @@ The social security account number issued to an individual for purposes of secti
 
 #### (1) In general
 
-&emsp;In the administration of section 9 of the Food and Nutrition Act of 2008 (7 U.S.C. 2018) involving the determination of the qualifications of applicants under such Act, the Secretary of Agriculture may, subject to this subsection, require each applicant retail store or wholesale food concern to furnish to the Secretary of Agriculture the employer identification number assigned to the store or concern pursuant to this section. The Secretary of Agriculture shall not have access to any such number for any purpose other than the establishment and maintenance of a list of the names and employer identification numbers ofthe stores and concerns for use in determining those applicants who have been previously sanctioned or convicted under section 12 or 15 of such Act (7 U.S.C. 2021 or 2024).
+&emsp;In the administration of section 9 of the Food and Nutrition Act of 2008 (7 U.S.C. 2018) involving the determination of the qualifications of applicants under such Act, the Secretary of Agriculture may, subject to this subsection, require each applicant retail store or wholesale food concern to furnish to the Secretary of Agriculture the employer identification number assigned to the store or concern pursuant to this section. The Secretary of Agriculture shall not have access to any such number for any purpose other than the establishment and maintenance of a list of the names and employer identification numbers of the stores and concerns for use in determining those applicants who have been previously sanctioned or convicted under section 12 or 15 of such Act (7 U.S.C. 2021 or 2024).
 
 #### (2) Sharing of information and safeguards
 
@@ -60,7 +60,7 @@ The social security account number issued to an individual for purposes of secti
 
 #### (4) Sanctions
 
-&emsp;Paragraphs (1), (2), and (3) of section 7213(a) shall apply with respect to the unauthorized willful disclosure to any person of employer identification numbers maintained pursuant to this subsection by the Secretary of Agriculture or any agency or instrumentality with which information is shared pursuant to paragraph (2) in the same manner and to the same extent as such paragraphs apply with respect to unauthorized disclosures of return and return information described in such paragraphs. Paragraph (4) of section 7213(a) shall apply with respect to the willful offer of any item of material value in exchange for any such employer identification number in the same manner and to the same extent as such paragraph applies with respect to offers (in exchange for any return or return information) described in such paragraph.
+&emsp;Paragraphs (1), (2), and (3) of section 7213(a) shall apply with respect to the unauthorized willful disclosure to any person of employer identification numbers maintained pursuant to this subsection by the Secretary of Agriculture or any agency or instrumentality with which information is shared pursuant to paragraph (2) in the same manner and to the same extent as such paragraphs apply with respect to unauthorized disclosures of return and return information described in such paragraphs. Paragraph (4) of section 7213(a) shall apply with respect to the willful offer of any item of material value in exchange for any such employer identification number in the same manner and to the same extent as suchparagraph applies with respect to offers (in exchange for any return or return information) described in such paragraph.
 
 #### (g) Access to employer identification numbers by Federal Crop Insurance Corporation for purposes of the Federal Crop Insurance Act
 
@@ -100,7 +100,7 @@ The social security account number issued to an individual for purposes of secti
 
 Section 205 of the Social Security Act, referred to in subsec. (d), is classified to section 405 of Title 42, The Public Health and Welfare.
 
-The Food and Nutrition Act of 2008, referred to in subsec. (f), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (f), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.)of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 The Federal Crop Insurance Act, referred to in subsec. (g), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of Title 7, Agriculture. Section 506 of the Act is classified to section 1506 of Title 7. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
 
@@ -114,17 +114,17 @@ A prior section 6109 was renumbered section 6116 of this title.
 
 #### Amendments
 
-2008—Subsec. (f). Pub. L. 110–246, §4002(b)(1)(G), (2)(O), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act” in heading.
+<b>2008</b>—Subsec. (f). Pub. L. 110–246, §4002(b)(1)(G), (2)(O), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act” in heading.
 
 Subsec. (f)(1), (2)(A). Pub. L. 110–246, §4002(b)(1)(B), (2)(O), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-2007—Subsec. (a)(4). Pub. L. 110–28, §8246(a)(2)(D)(ii), which directed amendment of heading by substituting “tax return preparer” for “income return preparer”, was executed by making the substitution for “income tax return preparer”, to reflect the probable intent of Congress.
+<b>2007</b>—Subsec. (a)(4). Pub. L. 110–28, §8246(a)(2)(D)(ii), which directed amendment of heading by substituting “tax return preparer” for “income return preparer”, was executed by making the substitution for “income tax return preparer”, to reflect the probable intent of Congress.
 
 Pub. L. 110–28, §8246(a)(2)(D)(i), substituted “a tax return preparer” for “an income tax return preparer”.
 
-1998—Subsec. (a). Pub. L. 105–206 substituted “For purposes of paragraphs (1), (2), and (3)” for “For purposes of this subsection” in concluding provisions.
+<b>1998</b>—Subsec. (a). Pub. L. 105–206 substituted “For purposes of paragraphs (1), (2), and (3)” for “For purposes of this subsection” in concluding provisions.
 
-1996—Subsec. (e). Pub. L. 104–188, §1615(a)(2)(A), struck out subsec. (e) which read as follows:
+<b>1996</b>—Subsec. (e). Pub. L. 104–188, §1615(a)(2)(A), struck out subsec. (e) which read as follows:
 
 “(e)
 
@@ -132,7 +132,7 @@ Furnishing Number for Dependents.—Any taxpayer who claims an exemption under s
 
 Subsecs. (f), (g). Pub. L. 104–188, §1704(t)(42), redesignated subsec. (f) relating to access to employer identification numbers for purposes of Federal Crop Insurance Act as subsec. (g).
 
-1994—Subsec. (e). Pub. L. 103–465 substituted “dependents” for “certain dependents” in heading and amended text generally. Prior to amendment, text read as follows: “If—
+<b>1994</b>—Subsec. (e). Pub. L. 103–465 substituted “dependents” for “certain dependents” in heading and amended text generally. Prior to amendment, text read as follows: “If—
 
 &emsp;“(1) any taxpayer claims an exemption under section 151 for any dependent on a return for any taxable year, and
 
@@ -146,21 +146,21 @@ Subsec. (f)(3). Pub. L. 103–296, §316(b)(2), amended subsec. (f) relating to 
 
 Subsec. (f)(4). Pub. L. 103–296, §316(b)(3), amended subsec. (f) relating to access to employer identification numbers for purposes of Food Stamp Act of 1977 by substituting, in par. (4), “pursuant to this subsection by the Secretary of Agriculture or any agency or instrumentality with which information is shared pursuant to paragraph (2)” for “by the Secretary of Agriculture pursuant to this subsection”.
 
-1992—Subsec. (h). Pub. L. 102–486 added subsec. (h).
+<b>1992</b>—Subsec. (h). Pub. L. 102–486 added subsec. (h).
 
-1990—Subsec. (e)(2). Pub. L. 101–508 substituted “1 year” for “2 years”.
+<b>1990</b>—Subsec. (e)(2). Pub. L. 101–508 substituted “1 year” for “2 years”.
 
 Subsec. (f). Pub. L. 101–624, §2201(d), added subsec. (f) relating to access to employer identification numbers for purposes of Federal Crop Insurance Act.
 
 Pub. L. 101–624, §1735(c), added subsec. (f) relating to access to employer identification numbers for purposes of Food Stamp Act of 1977.
 
-1988—Subsec. (a). Pub. L. 100–485, §703(c)(3), substituted “or whose identifying number is required to be shown on a return of another person shall furnish” for “shall furnish”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–485, §703(c)(3), substituted “or whose identifying number is required to be shown on a return of another person shall furnish” for “shall furnish”.
 
 Subsec. (e)(2). Pub. L. 100–485, §704(a), substituted “age of 2” for “age of 5”.
 
-1986—Subsec. (e). Pub. L. 99–514 added subsec. (e).
+<b>1986</b>—Subsec. (e). Pub. L. 99–514 added subsec. (e).
 
-1976—Subsec. (a). Pub. L. 94–455, §§1203(d), 1906(b)(13)(A), struck out in provisions preceding par. (1) “or his delegate” after “Secretary” and added par. (4).
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1203(d), 1906(b)(13)(A), struck out in provisions preceding par. (1) “or his delegate” after “Secretary” and added par. (4).
 
 Subsec. (d). Pub. L. 94–455, §1211(c), added subsec. (d).
 

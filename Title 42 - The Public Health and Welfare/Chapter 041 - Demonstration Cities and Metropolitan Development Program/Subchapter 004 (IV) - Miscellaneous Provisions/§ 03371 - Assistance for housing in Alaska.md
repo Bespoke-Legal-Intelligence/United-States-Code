@@ -16,9 +16,9 @@ There is authorized to be appropriated not to exceed $10,000,000 to carry out th
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–557, §904(a), revised subsec. (a) generally to require that the Department of Housing and Urban Development make loans and grants, on the basis of need, to regional Alaska Native housing authorities for certain planning, administrative, and other expenses in conjunction with the provision of housing and related facilities for Alaska residents.
+<b>1978</b>—Subsec. (a). Pub. L. 95–557, §904(a), revised subsec. (a) generally to require that the Department of Housing and Urban Development make loans and grants, on the basis of need, to regional Alaska Native housing authorities for certain planning, administrative, and other expenses in conjunction with the provision of housing and related facilities for Alaska residents.
 
 Subsec. (b). Pub. L. 95–557, §904(b), inserted “except that the Secretary may make a grant in excess of such limitation in any case, after consultation with State officials”.
 
-1969—Subsec. (a). Pub. L. 91–152 substituted “$10,875” for “$7,500”.
+<b>1969</b>—Subsec. (a). Pub. L. 91–152 substituted “$10,875” for “$7,500”.
 

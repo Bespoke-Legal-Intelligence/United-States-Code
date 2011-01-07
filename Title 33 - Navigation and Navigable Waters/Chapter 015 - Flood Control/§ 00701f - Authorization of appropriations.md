@@ -1,6 +1,6 @@
 ### §701f. Authorization of appropriations
 
-The sum of $310,000,000 is authorized to be appropriated for carrying out the improvementsherein and the sum of $10,000,000 is authorized to be appropriated and expended in equal amounts by the Departments of the Army and Agriculture for carrying out any examinations and surveys provided for in this Act and other Acts of Congress.
+The sum of $310,000,000 is authorized to be appropriated for carrying out the improvements herein and the sum of $10,000,000 is authorized to be appropriated and expended in equal amounts by the Departments of the Army and Agriculture for carrying out any examinations and surveys provided for in this Act and other Acts of Congress.
 
 (June 22, 1936, ch. 688, §9, 49 Stat. 1596; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
@@ -10,7 +10,7 @@ The sum of $310,000,000 is authorized to be appropriated for carrying out the im
 
 #### Codification
 
-The first proviso, relating to a limitation upon the amount of expenditure during the fiscal year 1937, was deleted as executed and obsolete. The second proviso, relating to payment from funds available to the Works Progress Administration, was also omitted as executed and obsolete. The Works Progress Administration was renamed the Work Projects Administration by Reorg. Plan No. 1 of 1939, §306, eff. July 1, 1939, 4 F.R. 2727, 53 Stat. 1423, set out in the Appendix to Title 5, Government Organization and Employees. Liquidation was ordered by President's letter of December 4, 1942, and appropriations for it authorized by act July 12, 1943, ch. 229, title I, 57 Stat. 540.
+The first proviso, relating to a limitation upon the amount of expenditure during the fiscal year 1937, was deleted as executed and obsolete. The second proviso, relating to payment from funds available to the Works Progress Administration, was also omitted as executed and obsolete. The Works Progress Administration was renamed the Work Projects Administration by Reorg.Plan No. 1 of 1939, §306, eff. July 1, 1939, 4 F.R. 2727, 53 Stat. 1423, set out in the Appendix to Title 5, Government Organization and Employees. Liquidation was ordered by President's letter of December 4, 1942, and appropriations for it authorized by act July 12, 1943, ch. 229, title I, 57 Stat. 540.
 
 #### Change of Name
 

@@ -34,7 +34,7 @@ Definitions.—In this section:
 
 #### Amendments
 
-1992—Pub. L. 102–484 renumbered section 2505 of this title as this section.
+<b>1992</b>—Pub. L. 102–484 renumbered section 2505 of this title as this section.
 
 #### Review of Offset Arrangements by Secretary of Defense
 

@@ -20,7 +20,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-150701D36:431.DAug. 13, 1953, ch. 427, §§1, 2, 67 Stat. 562.
+150701
+
+36:431.
+
+Aug. 13, 1953, ch. 427, §§1, 2, 67 Stat. 562.
 
 &nbsp;
 

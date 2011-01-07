@@ -32,7 +32,7 @@
 
 &emsp;&emsp;Subject to the succeeding provisions of this subsection, a State is presumed to be implementing an acceptable alternative mechanism in accordance with this section as of July 1, 1997, if, by not later than April 1, 1997, the chief executive officer of a State—
 
-&emsp;&emsp;&emsp;(i) notifies the Secretary that the State has enacted or intends to enact (by not later than January 1, 1998, or July 1, 1998, in the case of a State described in subparagraph (B)(ii)) any necessary legislation toprovide for the implementation of a mechanism reasonably designed to be an acceptable alternative mechanism as of January 1, 1998,<sup>1</sup> (or, in the case of a State described in subparagraph (B)(ii), July 1, 1998); and
+&emsp;&emsp;&emsp;(i) notifies the Secretary that the State has enacted or intends to enact (by not later than January 1, 1998, or July 1, 1998, in the case of a State described in subparagraph (B)(ii)) any necessary legislation to provide for the implementation of a mechanism reasonably designed to be an acceptable alternative mechanism as of January 1, 1998,<sup>1</sup> (or, in the case of a State described in subparagraph (B)(ii), July 1, 1998); and
 
 &emsp;&emsp;&emsp;(ii) provides the Secretary with such information as the Secretary may require to review the mechanism and its implementation (or proposed implementation) under this subsection.
 
@@ -108,7 +108,7 @@ August 21, 1996, referred to in subsec. (b)(1)(B)(ii), was in the original “th
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–204 made technical amendment to reference in original act which appears in text as reference to section 300gg–62(b) of this title.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–204 made technical amendment to reference in original act which appears in text as reference to section 300gg–62(b) of this title.
 
 #### Effective Date of 1996 Amendment
 

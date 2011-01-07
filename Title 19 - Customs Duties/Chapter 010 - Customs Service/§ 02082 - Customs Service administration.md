@@ -6,17 +6,17 @@ The Commissioner of Customs shall—
 
 &emsp;(1) develop and implement accounting systems that accurately determine and report the allocations made of Customs Service personnel and other resources among the various operational functions of the Service, such as passenger processing, merchandise processing and drug enforcement; and
 
-&emsp;(2) develop and implement periodic labor distribution surveys of major workforce activities (such as inspectors, import specialists, fines, penalties, and forfeiture officers, special agents, data transcribers, and Customs aides) to determine the costs of different types of passenger and merchandise processing transactions, such as informal and formal entries, and automated and manual entries.
+&emsp;(2) develop and implement periodic labor distribution surveys of major workforce activities (such as inspectors, import specialists, fines, penalties, and forfeiture officers, special agents, data transcribers, and Customs aides)to determine the costs of different types of passenger and merchandise processing transactions, such as informal and formal entries, and automated and manual entries.
 
 #### (b) Survey reports
 
-The Commissioner of Customs shall no later than January 31, 1991, submit to the Committeeon Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the results of the first survey implemented under subsection (a)(2) of this section.
+The Commissioner of Customs shall no later than January 31, 1991, submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the results of the first survey implemented under subsection (a)(2) of this section.
 
 (Pub. L. 101–382, title I, §113, Aug. 20, 1990, 104 Stat. 639; Pub. L. 101–508, title X, §10001(d), Nov. 5, 1990, 104 Stat. 1388–386.)
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–508, §10001(d)(1)–(3), inserted “and” after semicolon at end of par. (1), substituted a period for semicolon at end of par. (2), and struck out pars. (3) to (5) which read as follows:
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §10001(d)(1)–(3), inserted “and” after semicolon at end of par. (1), substituted a period for semicolon at end of par. (2), and struck out pars. (3) to (5) which read as follows:
 
 “(3) as soon as practicable after the enactment of appropriations for the Customs Service for each fiscal year, but not later than the 15th day after the beginning of such year, estimate, based on the amounts appropriated, the amount of the fee that would, if imposed on the processing of merchandise, offset the salaries and expenses subject to reimbursement from the fee that will likely be incurred by the Service in conducting commercial operations during that year;
 

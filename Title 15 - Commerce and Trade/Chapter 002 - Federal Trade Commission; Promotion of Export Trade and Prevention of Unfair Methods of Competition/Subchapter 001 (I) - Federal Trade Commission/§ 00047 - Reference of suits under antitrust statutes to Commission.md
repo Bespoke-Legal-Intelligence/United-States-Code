@@ -8,8 +8,6 @@ In any suit in equity brought by or under the direction of the Attorney General 
 
 The words “In any suit in equity brought by or under the direction of the Attorney General as provided in the antitrust Acts” have reference to actions under sections 4, 9, and 25 of this title.
 
-The antitrust Acts, referred to in text, are defined in section 44 of this title.
-
 #### Transfer of Functions
 
 For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.

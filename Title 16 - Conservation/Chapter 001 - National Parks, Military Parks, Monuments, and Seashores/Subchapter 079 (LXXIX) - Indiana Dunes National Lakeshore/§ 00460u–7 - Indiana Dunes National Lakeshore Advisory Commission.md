@@ -10,7 +10,7 @@ The Commission shall be composed of thirteen members, each appointed for a term 
 
 #### (c) Chairman; vacancies
 
-The Secretary shall designate one member to be Chairman. Any vacancy in the Commission shall be filled in the same manner in which the original appointment was made.
+The Secretary shall designate one member to be Chairman. Any vacancy in the Commissionshall be filled in the same manner in which the original appointment was made.
 
 #### (d) Compensation and expenses; vouchers
 
@@ -36,11 +36,11 @@ A prior section 7 of Pub. L. 89–761 was renumbered section 6 and is classified
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–612, §1(8), substituted “on September 30, 1985” for “ten years after the date of establishment of the national lakeshore pursuant to this subchapter”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–612, §1(8), substituted “on September 30, 1985” for “ten years after the date of establishment of the national lakeshore pursuant to this subchapter”.
 
 Subsec. (b). Pub. L. 96–612, §1(9), substituted “thirteen members” for “eleven members” in provisions preceding cl. (1) and “two members who are year-round residents” for “one member who is a year-round resident” in cls. (4) and (7).
 
-1976—Subsec. (b). Pub. L. 94–549, §1(5), substituted “eleven members” for “seven members” in provision preceding cl. (1), struck out “Portage” after “Dunes Acres” in cl. (3), and added cls. (7) to (10).
+<b>1976</b>—Subsec. (b). Pub. L. 94–549, §1(5), substituted “eleven members” for “seven members” in provision preceding cl. (1), struck out “Portage” after “Dunes Acres” in cl. (3), and added cls. (7) to (10).
 
 Subsec. (f). Pub. L. 94–549, §1(6), added subsec. (f).
 

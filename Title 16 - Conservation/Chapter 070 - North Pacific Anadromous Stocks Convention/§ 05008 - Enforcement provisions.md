@@ -18,7 +18,7 @@ Authorized officers may, shoreward of the outer boundary of the exclusive econom
 
 &emsp;&emsp;(B) board, and search or inspect, any fishing vessel subject to the provisions of the Convention and this chapter;
 
-&emsp;&emsp;(C) seize any fishing vessel (together with its fishing gear, furniture, appurtenances, stores, and cargo) used or employed in, or with respect to which it reasonably appears that such vessel was used or employed in, the violation of any provision of the Convention, this chapter, or regulations issued under this chapter;
+&emsp;&emsp;(C) seize any fishing vessel (together with its fishing gear, furniture, appurtenances,stores, and cargo) used or employed in, or with respect to which it reasonably appears that such vessel was used or employed in, the violation of any provision of the Convention, this chapter, or regulations issued under this chapter;
 
 &emsp;&emsp;(D) seize any fish (wherever found) taken or retained in violation of any provision referred to in subparagraph (C);
 

@@ -6,7 +6,7 @@ Effective on December 29, 1981, the Peace Corps shall be an independent agency w
 
 #### Amendments
 
-1993—Pub. L. 103–82 inserted “, the successor to the ACTION Agency,”.
+<b>1993</b>—Pub. L. 103–82 inserted “, the successor to the ACTION Agency,”.
 
 #### Effective Date of 1993 Amendment
 

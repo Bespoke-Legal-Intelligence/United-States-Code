@@ -72,5 +72,5 @@ August 8, 2005, referred to in subsec. (b)(2)(C), was in the original “the dat
 
 #### Amendments
 
-2005—Pub. L. 109–58 amended section catchline and text generally. Prior to amendment, text read as follows: “For authorization of appropriations to carry out this subchapter, see section 6916(g) of this title.”
+<b>2005</b>—Pub. L. 109–58 amended section catchline and text generally. Prior to amendment, text read as follows: “For authorization of appropriations to carry out this subchapter, see section 6916(g) of this title.”
 

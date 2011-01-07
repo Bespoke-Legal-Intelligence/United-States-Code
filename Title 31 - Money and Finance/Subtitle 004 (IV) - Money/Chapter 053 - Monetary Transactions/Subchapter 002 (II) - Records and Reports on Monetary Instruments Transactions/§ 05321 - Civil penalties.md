@@ -1,6 +1,6 @@
 ### §5321. Civil penalties
 
-(a)(1) A domestic financial institution or nonfinancial trade or business, and a partner, director, officer, or employee of a domestic financial institution or nonfinancial trade or business, willfully violating this subchapter or a regulation prescribed or order issued under this subchapter (except sections 5314 and 5315 of this title or a regulation prescribed under sections 5314 and 5315), or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508, is liable to the United States Government for a civil penalty of not more than the greater of the amount (not to exceed $100,000) involved in the transaction (if any) or $25,000. For a violation of section 5318(a)(2) of this title or a regulation prescribed under section 5318(a)(2), a separate violation occurs for each day the violation continues and at each office, branch, or place of business at which a violation occurs or continues.
+(a)(1) A domestic financial institution or nonfinancial trade or business, and a partner, director, officer, or employee of a domestic financial institution or nonfinancial trade or business, willfully violating this subchapter or a regulation prescribed or order issued under this subchapter (except sections 5314 and 5315 of thistitle or a regulation prescribed under sections 5314 and 5315), or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508, is liable to the United States Government for a civil penalty of not more than the greater of the amount (not to exceed $100,000) involved in the transaction (if any) or $25,000. For a violation of section 5318(a)(2) of this title or a regulation prescribed under section 5318(a)(2), a separate violation occurs for each day the violation continues and at each office, branch, or place of business at which a violation occurs or continues.
 
 (2) The Secretary of the Treasury may impose an additional civil penalty on a person not filing a report, or filing a report containing a material omission or misstatement, under section 5316 of this title or a regulation prescribed under section 5316. A civil penalty under this paragraph may not be more than the amount of the monetary instrument for which the report was required. A civil penalty under this paragraph is reduced by an amount forfeited under section 5317(b) of this title.
 
@@ -76,7 +76,7 @@ In general.—The Secretary of the Treasury may impose a civil money penalty of 
 
 &emsp;(B)
 
-Pattern of negligent activity.—If any financial institution or nonfinancial trade or business engages in a pattern of negligent violations of any provision of this subchapter orany regulation prescribed under this subchapter, the Secretary of the Treasury may, in addition to any penalty imposed under subparagraph (A) with respect to any such violation, impose a civil money penalty of not more than $50,000 on the financial institution or nonfinancial trade or business.
+Pattern of negligent activity.—If any financial institution or nonfinancial trade or business engages in a pattern of negligent violations of any provision of this subchapter or any regulation prescribed under this subchapter, the Secretary of the Treasury may, in addition to any penalty imposed under subparagraph (A) with respect to any such violation, impose a civil money penalty of not more than $50,000 on the financial institution or nonfinancial trade or business.
 
 (7)
 
@@ -184,15 +184,15 @@ Section 123 of Public Law 91–508, referred to in subsec. (a)(1), is classified
 
 #### Amendments
 
-2004—Subsec. (a)(5). Pub. L. 108–357 amended heading and text of par. (5) generally, inserting provisions changing the penalties for violating section 5314 of this title and providing a reasonable cause exception.
+<b>2004</b>—Subsec. (a)(5). Pub. L. 108–357 amended heading and text of par. (5) generally, inserting provisions changing the penalties for violating section 5314 of this title and providing a reasonable cause exception.
 
-2001—Subsec. (a)(1). Pub. L. 107–56, §§353(a), 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” in two places, “or order issued” after “subchapter or a regulation prescribed”, and “, or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508,” after “sections 5314 and 5315)”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–56, §§353(a), 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” in two places, “or order issued” after “subchapter or a regulation prescribed”, and “, or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508,” after “sections 5314 and 5315)”.
 
 Subsec. (a)(6). Pub. L. 107–56, §365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” wherever appearing.
 
 Subsec. (a)(7). Pub. L. 107–56, §363(a), added par. (7).
 
-1996—Subsec. (a)(7). Pub. L. 104–208 struck out par. (7) which read as follows:
+<b>1996</b>—Subsec. (a)(7). Pub. L. 104–208 struck out par. (7) which read as follows:
 
 “(7)
 
@@ -206,13 +206,13 @@ Penalty authorized.—The Secretary may impose a civil money penalty on any pers
 
 Maximum amount limitation.—The amount of any civil money penalty imposed under subparagraph (A) shall not exceed $10,000 per day for each day during which a report remains unfiled or a report containing a material omission or misstatement of fact remains uncorrected.”
 
-1994—Subsec. (a)(4)(A). Pub. L. 103–325, §411(b), struck out “willfully” before “violates”.
+<b>1994</b>—Subsec. (a)(4)(A). Pub. L. 103–325, §411(b), struck out “willfully” before “violates”.
 
 Subsec. (a)(5)(A). Pub. L. 103–322, §330017(a)(1) and Pub. L. 103–325, §413(a)(1), amended subpar. (A) identically, inserting “any violation of” after “causing”.
 
 Subsec. (e). Pub. L. 103–325, §406, added subsec. (e).
 
-1992—Subsec. (a)(4)(C). Pub. L. 102–550, §1525(b), struck out “under section 5317(d)” after “forfeiture to the United States”.
+<b>1992</b>—Subsec. (a)(4)(C). Pub. L. 102–550, §1525(b), struck out “under section 5317(d)” after “forfeiture to the United States”.
 
 Subsec. (a)(5)(A). Pub. L. 102–550, §1535(a)(2), inserted “or any person willfully causing” after “willfully violates”.
 
@@ -222,9 +222,9 @@ Negligence.—The Secretary of the Treasury may impose a civil money penalty of 
 
 Subsec. (a)(7). Pub. L. 102–550, §1511(b), added par. (7).
 
-1988—Subsec. (a)(1). Pub. L. 100–690 inserted “(if any)” after “transaction”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–690 inserted “(if any)” after “transaction”.
 
-1986—Subsec. (a)(1). Pub. L. 99–570, §§1356(c)(1), 1357(b), substituted “sections 5314 and 5315” for “section 5315” in two places, substituted “5318(a)(2)” for “5318(2)” in two places, and substituted “the greater of the amount (not to exceed $100,000) involved in the transaction or $25,000” for “$10,000”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–570, §§1356(c)(1), 1357(b), substituted “sections 5314 and 5315” for “section 5315” in two places, substituted “5318(a)(2)” for “5318(2)” in two places, and substituted “the greater of the amount (not to exceed $100,000) involved in the transaction or $25,000” for “$10,000”.
 
 Subsec. (a)(4). Pub. L. 99–570, §1357(a), added par. (4).
 
@@ -238,7 +238,7 @@ Subsec. (c). Pub. L. 99–570, §1357(h), substituted “subsection (c) or (d) o
 
 Subsec. (d). Pub. L. 99–570, §1357(f), added subsec. (d).
 
-1984—Subsec. (a)(1). Pub. L. 98–473 substituted “$10,000” for “$1,000”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–473 substituted “$10,000” for “$1,000”.
 
 #### Effective Date of 2004 Amendment
 

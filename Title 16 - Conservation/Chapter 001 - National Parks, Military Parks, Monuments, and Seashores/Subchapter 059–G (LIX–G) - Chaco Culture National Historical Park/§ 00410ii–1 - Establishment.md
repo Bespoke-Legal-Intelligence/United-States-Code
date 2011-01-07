@@ -6,7 +6,7 @@ There is hereby established in the State of New Mexico, the Chaco Culture Nation
 
 #### (b) Designation of Chaco Culture Archeological Protection Sites
 
-(1) Thirty-nine outlying sites as generally depicted on a map entitled “Chaco Culture Archeological Protection Sites”, numbered 310/80,033–B and dated September 1991, are hereby designated as “Chaco Culture Archeological Protection Sites”. The thirty-nine archeological protection sites totaling approximately 14,372 acres identified as follows:
+(1) Thirty-nine outlying sites as generally depicted on a map entitled “Chaco Culture Archeological Protection Sites”, numbered 310/80,033–B and dated September 1991, are hereby designated as “Chaco Culture Archeological Protection Sites”. The thirty-nine archeological protection sites totaling approximately 14,372 acres <sup>1</sup> identified as follows:
 
 Name:
 
@@ -82,7 +82,7 @@ Acres
 
 &emsp;&emsp;Indian Creek
 
-100  
+100&nbsp;&nbsp;
 
 &emsp;&emsp;Jaquez
 
@@ -176,5 +176,7 @@ Acres
 
 #### Amendments
 
-1995—Subsec. (b). Pub. L. 104–11 designated existing provisions as par. (1), increased number of outlying protection sites from 33 to 39, updated number designation and date on site designation maps, increased total acreage from 8,771 to 14,372 acres, and added par. (2).
+<b>1995</b>—Subsec. (b). Pub. L. 104–11 designated existing provisions as par. (1), increased number of outlying protection sites from 33 to 39, updated number designation and date on site designation maps, increased total acreage from 8,771 to 14,372 acres, and added par. (2).
+
+<i><sup>1</sup></i><i> So in original. Probably should be “acres are”.</i>
 

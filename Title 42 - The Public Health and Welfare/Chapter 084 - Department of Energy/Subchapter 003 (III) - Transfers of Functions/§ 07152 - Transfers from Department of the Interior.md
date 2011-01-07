@@ -14,7 +14,7 @@
 
 &emsp;(E) the transmission and disposition of the electric power and energy generated at Falcon Dam and Amistad Dam, international storage reservoir projects on the Rio Grande, pursuant to the Act of June 18, 1954, as amended by the Act of December 23, 1963.
 
-(2) The Southeastern Power Administration, the Southwestern Power Administration, and the Bonneville Power Administration,<sup>1</sup> shall be preserved as separate and distinct organizational entities within the Department. Each such entity shall be headed by an Administrator appointed by the Secretary. The functions transferred to the Secretary in paragraphs (1)(A), (1)(B), (1)(C), and (1)(D) shall be exercised by the Secretary, acting by and through such Administrators. Each such Administrator shall maintain his principal office at a place located in the region served by his respective Federal power marketing entity.
+(2) The Southeastern Power Administration, the Southwestern Power Administration, and the Bonneville Power Administration,<sup>1</sup> shall be preserved as separate and distinct organizational entities within the Department. Each such entity shall be headed by an Administrator appointed by the Secretary. The functions transferred to the Secretary in paragraphs (1)(A), (1)(B), (1)(C), and (1)(D) shall be exercised by the Secretary, acting by and through such Administrators. Each such Administrator shallmaintain his principal office at a place located in the region served by his respective Federal power marketing entity.
 
 (3) The functions transferred in paragraphs (1)(E) and (1)(F) <sup>2</sup> of this subsection shall be exercised by the Secretary, acting by and through a separate and distinct Administration within the Department which shall be headed by an Administrator appointed by the Secretary. The Administrator shall establish and shall maintain such regional offices as necessary to facilitate the performance of such functions. Neither the transfer of functions effected by paragraph (1)(E) of this subsection nor any changes in cost allocation or project evaluation standards shall be deemed to authorize the reallocation of joint costs of multipurpose facilities theretofore allocated unless and to the extent that such change is hereafter approved by Congress.
 
@@ -46,11 +46,11 @@ Act of May 15, 1910, referred to in subsec. (d), as amended, probably means act 
 
 #### Amendments
 
-1995—Subsec. (a)(1)(C) to (F). Pub. L. 104–58, §104(h)(1), redesignated subpars. (D) to (F) as (C) to (E), respectively, and struck out former subpar. (C) which read as follows: “the Alaska Power Administration;”.
+<b>1995</b>—Subsec. (a)(1)(C) to (F). Pub. L. 104–58, §104(h)(1), redesignated subpars. (D) to (F) as (C) to (E), respectively, and struck out former subpar. (C) which read as follows: “the Alaska Power Administration;”.
 
 Subsec. (a)(2). Pub. L. 104–58, §104(h)(2), inserted “and” after “Southwestern Power Administration,” and struck out “and the Alaska Power Administration” after “Bonneville Power Administration,”.
 
-1981—Subsecs. (b), (c). Pub. L. 97–100 struck out subsecs. (b) and (c) which related, respectively, to the functions of the Secretary of Energy to promulgate regulations under certain provisions of the Outer Continental Shelf Lands Act, the Mineral Lands Leasing Act, the Mineral Leasing Act for Acquired Lands, the Geothermal Steam Act of 1970, and the Energy Policy and Conservation Act and to the functions of establishing production rates for all Federal leases.
+<b>1981</b>—Subsecs. (b), (c). Pub. L. 97–100 struck out subsecs. (b) and (c) which related, respectively, to the functions of the Secretary of Energy to promulgate regulations under certain provisions of the Outer Continental Shelf Lands Act, the Mineral Lands Leasing Act, the Mineral Leasing Act for Acquired Lands, the Geothermal Steam Act of 1970, and the Energy Policy and Conservation Act and to the functions of establishing production rates for all Federal leases.
 
 #### Change of Name
 
@@ -62,7 +62,7 @@ For effective date of amendment by Pub. L. 104–58, see section 104(h) of Pub. 
 
 #### Alaska Power Administration Asset Sale and Termination
 
-Title I of Pub. L. 104–58 provided that:
+Pub. L. 104–58, title I, Nov. 28, 1995, 109 Stat. 557, provided that:
 
 #### “SEC. 101. SHORT TITLE.
 
@@ -184,7 +184,7 @@ DOE Organization Act.—As of the later of the two dates determined in paragraph
 
 “(i)
 
-Disposal.—The sales of Eklutna and Snettisham under this title are not considered disposal of Federal surplus property under the Federal Property and Administrative Services Act of 1949 \[now chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and title III of the Act of June 30, 1949 (41 U.S.C. 251 et seq.)\] (40 U.S.C. 484) \[now 40 U.S.C. 541–555\] or the Act of October 3, 1944, popularly referred to as the ‘Surplus Property Act of 1944’ (50 U.S.C. App. 1622).
+Disposal.—The sales of Eklutna and Snettisham under this title are not considered disposal of Federalsurplus property under the Federal Property and Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\] (40 U.S.C. 484) \[now 40 U.S.C. 541–555\] or the Act of October 3, 1944, popularly referred to as the ‘Surplus Property Act of 1944’ (50 U.S.C. App. 1622).
 
 #### “SEC. 105. OTHER FEDERAL HYDROELECTRIC PROJECTS.
 

@@ -10,13 +10,15 @@ Notwithstanding any other provision of law, the Director of National Intelligenc
 
 #### (b) Authorized delegation of duty
 
-The Director of National Intelligence may only delegate the authority granted by this section to the Principal Deputy Director of National Intelligence, or with respect to employees of the Central Intelligence Agency, to the Director of the Central Intelligence Agency.
+The Director of National Intelligence may only delegate the authority granted by this section to the Principal Deputy Director of National Intelligence, or with respect to employees of the Central Intelligence Agency, to the Director of the Central Intelligence Agency, who may delegate such authority to other appropriate officials of the Central Intelligence Agency.
 
-(July 26, 1947, ch. 343, title I, §116, as added Pub. L. 106–567, title III, §305(a), Dec. 27, 2000, 114 Stat. 2838; amended Pub. L. 108–458, title I, §§1071(a)(1)(S), (3)(B), 1072(a)(5), Dec. 17, 2004, 118 Stat. 3689, 3690, 3692.)
+(July 26, 1947, ch. 343, title I, §116, as added Pub. L. 106–567, title III, §305(a), Dec. 27, 2000, 114 Stat. 2838; amended Pub. L. 108–458, title I, §§1071(a)(1)(S), (3)(B), 1072(a)(5), Dec. 17, 2004, 118 Stat. 3689, 3690, 3692; Pub. L. 111–259, title IV, §424, Oct. 7, 2010, 124 Stat. 2728.)
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–458, §1071(a)(1)(S), substituted “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
+<b>2010</b>—Subsec. (b). Pub. L. 111–259 substituted “, who may delegate such authority to other appropriate officials of the Central Intelligence Agency.” for the period.
+
+<b>2004</b>—Subsec. (a). Pub. L. 108–458, §1071(a)(1)(S), substituted “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
 
 Subsec. (b). Pub. L. 108–458, §1072(a)(5), which directed amendment of subsec. (b) by substituting “to the Principal Deputy Director of National Intelligence, or with respect to employees of the Central Intelligence Agency, to the Director of the Central Intelligence Agency” for “to the Deputy Director of Central Intelligence, or with respect to employees of the Central Intelligence Agency, the Director may delegate such authority to the Deputy Director for Operations”, was executed by making the substitution for “to the Deputy Director of Central Intelligence, or with respect to employees of the Central Intelligence Agency the Director may delegate such authority to the Deputy Director for Operations”, to reflect the probable intent of Congress.
 

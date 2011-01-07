@@ -22,7 +22,7 @@ General Distribution.—The Secretary shall—
 
 &emsp;&emsp;(B) the total of all sums authorized to be appropriated from such Trust Fund for such programs for such fiscal year;
 
-&emsp;(2) multiply the ratio determined under paragraph (1) by the total amount of funds to be allocated under subsection (a)(1) for such fiscal year;
+&emsp;(2) multiply the ratio determined under paragraph (1) by the total amount of funds tobe allocated under subsection (a)(1) for such fiscal year;
 
 &emsp;(3) allocate the amount determined under paragraph (2) among such programs in the ratio that—
 
@@ -38,7 +38,7 @@ General Distribution.—The Secretary shall—
 
 (c)
 
-State Programmatic Distribution.—Of the funds to be apportioned to each State under subsection (b)(4) for a fiscal year, the Secretary shall ensure that such funds are apportioned for the Interstate and National Highway Systemprogram, the bridge program, the surface transportation program, the highway safety improvement program, and the congestion mitigation air quality improvement program in the same ratio that each State is apportioned funds for such programs for such fiscal year but for this section.
+State Programmatic Distribution.—Of the funds to be apportioned to each State under subsection (b)(4) for a fiscal year, the Secretary shall ensure that such funds are apportioned for the Interstate and National Highway System program, the bridge program, the surface transportation program, the highway safety improvement program, and the congestion mitigation air quality improvement program in the same ratio that each State is apportioned funds for such programs for such fiscal year but for this section.
 
 (d)
 
@@ -70,7 +70,7 @@ A prior section 110, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 894, related to p
 
 #### Amendments
 
-2005—Subsec. (a)(1). Pub. L. 109–59, §1105(a), substituted “2007” for “2000” and inserted “and the succeeding fiscal year” after “allocate for such fiscal year”.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §1105(a), substituted “2007” for “2000” and inserted “and the succeeding fiscal year” after “allocate for such fiscal year”.
 
 Subsec. (a)(2). Pub. L. 109–59, §1105(b), substituted “2007” for “2000” and “October 15 of such” for “October 1 of the succeeding”, inserted “for such fiscal year and the succeeding fiscal year” after “Account)”, and inserted at end “No reduction under this paragraph and no reduction under section 1102(h), and no reduction under title VIII or any amendment made by title VIII, of the SAFETEA–LU shall be made for a fiscal year if, as of October 1 of such fiscal year the balance in the Highway Trust Fund (other than the Mass Transit Account) exceeds $6,000,000,000.”
 
@@ -78,13 +78,13 @@ Subsec. (b)(1)(A). Pub. L. 109–59, §1105(c), (e), struck out “for” before
 
 Subsec. (c). Pub. L. 109–59, §1105(d), inserted “the highway safety improvement program,” after “the surface transportation program,”.
 
-1999—Subsec. (a)(2). Pub. L. 106–159, §102(a)(2)(A), inserted “and the motor carrier safety grant program” after “relief)”.
+<b>1999</b>—Subsec. (a)(2). Pub. L. 106–159, §102(a)(2)(A), inserted “and the motor carrier safety grant program” after “relief)”.
 
 Subsec. (b)(1)(A). Pub. L. 106–159, §102(a)(2)(B), inserted “and the motor carrier safety grant program” after “program)”, substituted “title,” for “title and”, and inserted “, and subchapter I of chapter 311 of title 49” after “21st Century”.
 
 Subsecs. (e) to (g). Pub. L. 106–113, which directed amendment of section 110 by adding subsecs. (e) to (g) at the end, was executed to this section to reflect the probable intent of Congress. See Codification note above.
 
-1998—Subsec. (a). Pub. L. 105–178, §1105(c)(1), as added by Pub. L. 105–206, §9002(e), substituted “In general” for “Determination of amount” in heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “On October 15 of fiscal year 1999, and each fiscal year thereafter, the Secretary shall allocate an amount of funds equal to the amount determined pursuant to section 251(b)(1)(B)(I)(cc) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901(b)(2)(B)(I)(cc)).”
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §1105(c)(1), as added by Pub. L. 105–206, §9002(e), substituted “In general” for “Determination of amount” in heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “On October 15 of fiscal year 1999, and each fiscal year thereafter, the Secretary shall allocate an amount of funds equal to the amount determined pursuant to section 251(b)(1)(B)(I)(cc) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901(b)(2)(B)(I)(cc)).”
 
 Subsec. (b)(2), (4). Pub. L. 105–178, §1105(c)(2), as added by Pub. L. 105–206, §9002(e), substituted “subsection (a)(1)” for “subsection (a)”.
 
@@ -96,7 +96,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 #### Special Rule
 
-Pub. L. 109–59, title I, §1105(f), Aug. 10, 2005, 119 Stat. 1166, provided that: “If the amount available pursuantto section 110 of title 23, United States Code, for fiscal year 2007 is greater than zero, the Secretary \[of Transportation\] shall—
+Pub. L. 109–59, title I, §1105(f), Aug. 10, 2005, 119 Stat. 1166, provided that: “If the amount available pursuant to section 110 of title 23, United States Code, for fiscal year 2007 is greater than zero, the Secretary \[of Transportation\] shall—
 
 &emsp;“(1) determine the total amount necessary to increase each State's rate of return (as determined under section 105(b)(1)(A) of title 23, United States Code) to 92 percent, excluding amounts provided under this paragraph;
 

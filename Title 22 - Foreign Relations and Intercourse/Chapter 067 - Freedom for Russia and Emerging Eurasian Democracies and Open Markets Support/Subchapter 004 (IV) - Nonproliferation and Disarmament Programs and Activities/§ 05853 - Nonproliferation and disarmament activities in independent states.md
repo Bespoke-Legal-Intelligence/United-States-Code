@@ -48,7 +48,7 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 #### Delegation of Authority
 
-Authority of President under this section delegated to Secretary of Defense by section 2 of Memorandum ofPresident of the United States, Dec. 30, 1992, 58 F.R. 3193, set out as a note under section 5852 of this title.
+Authority of President under this section delegated to Secretary of Defense by section 2 of Memorandum of President of the United States, Dec. 30, 1992, 58 F.R. 3193, set out as a note under section 5852 of this title.
 
 #### Transfer of Funding for Science and Technology Centers in the Former Soviet Union
 

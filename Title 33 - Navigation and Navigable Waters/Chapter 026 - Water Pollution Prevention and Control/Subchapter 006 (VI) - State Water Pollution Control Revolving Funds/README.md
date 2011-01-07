@@ -1,7 +1,5 @@
 ### SUBCHAPTER VI—STATE WATER POLLUTION CONTROL REVOLVING FUNDS
 
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(e)”.</i>
-
 
 ---
 

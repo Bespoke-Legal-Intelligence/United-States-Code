@@ -16,5 +16,5 @@ Special Rule for Officers Serving as Adjutant General.—In the case of an offic
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 

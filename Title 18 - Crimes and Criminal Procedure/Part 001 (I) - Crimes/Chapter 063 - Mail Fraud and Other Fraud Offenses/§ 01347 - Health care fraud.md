@@ -1,6 +1,6 @@
 ### §1347. Health care fraud
 
-Whoever knowingly and willfully executes, or attempts to execute, a scheme or artifice—
+(a) Whoever knowingly and willfully executes, or attempts to execute, a scheme or artifice—
 
 &emsp;(1) to defraud any health care benefit program; or
 
@@ -8,5 +8,11 @@ Whoever knowingly and willfully executes, or attempts to execute, a scheme or ar
 
 > in connection with the delivery of or payment for health care benefits, items, or services, shall be fined under this title or imprisoned not more than 10 years, or both. If the violation results in serious bodily injury (as defined in section 1365 of this title), such person shall be fined under this title or imprisoned not more than 20 years, or both; and if the violation results in death, such person shall be fined under this title, or imprisoned for any term of years or for life, or both.
 
-(Added Pub. L. 104–191, title II, §242(a)(1), Aug. 21, 1996, 110 Stat. 2016.)
+(b) With respect to violations of this section, a person need not have actual knowledge of this section or specific intent to commit a violation of this section.
+
+(Added Pub. L. 104–191, title II, §242(a)(1), Aug. 21, 1996, 110 Stat. 2016; amended Pub. L. 111–148, title X, §10606(b), Mar. 23, 2010, 124 Stat. 1008.)
+
+#### Amendments
+
+<b>2010</b>—Pub. L. 111–148 designated existing provisions as subsec. (a) and added subsec. (b).
 

@@ -4,7 +4,3 @@ The President is hereby authorized to accept membership for the United States in
 
 (July 1, 1947, ch. 185, §1, 61 Stat. 214.)
 
-#### References in Text
-
-The immigration laws, referred to in text, are classified generally to Title 8, Aliens and Nationality. See also section 1101(a)(17) of Title 8.
-

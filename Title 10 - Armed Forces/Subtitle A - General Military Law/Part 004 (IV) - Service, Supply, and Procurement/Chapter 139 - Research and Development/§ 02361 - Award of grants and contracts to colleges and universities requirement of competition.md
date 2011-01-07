@@ -28,11 +28,11 @@ A prior section 2361 was renumbered section 2351 of this title.
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–201 struck out subsec. (c) which read as follows:
+<b>1996</b>—Subsec. (c). Pub. L. 104–201 struck out subsec. (c) which read as follows:
 
 “(1) The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives an annual report on the use of competitive procedures for the award of research and development contracts, and the award of construction contracts, to colleges and universities. Each such report shall include—
 
-&emsp;“(A) a list of each college and university that, during the period covered by the report, received morethan $1,000,000 in such contracts through the use of procedures other than competitive procedures; and
+&emsp;“(A) a list of each college and university that, during the period covered by the report, received more than $1,000,000 in such contracts through the use of procedures other than competitive procedures; and
 
 &emsp;“(B) the cumulative amount of such contracts received during that period by each such college and university.
 
@@ -42,9 +42,9 @@ Subsec. (c)(1). Pub. L. 104–106, §1502(a)(1), substituted “Committee on Arm
 
 Subsec. (c)(2). Pub. L. 104–106, §264, substituted “preceding fiscal year” for “preceding calendar year” and “the fiscal year after the fiscal year” for “the year after the year”.
 
-1994—Subsec. (c). Pub. L. 103–337 added subsec. (c).
+<b>1994</b>—Subsec. (c). Pub. L. 103–337 added subsec. (c).
 
-1993—Subsec. (b)(2). Pub. L. 103–35 substituted “inconsistent” for “inconsisent”.
+<b>1993</b>—Subsec. (b)(2). Pub. L. 103–35 substituted “inconsistent” for “inconsisent”.
 
 Subsec. (c). Pub. L. 103–160 struck out subsec. (c) which read as follows:
 
@@ -58,11 +58,11 @@ Subsec. (c). Pub. L. 103–160 struck out subsec. (c) which read as follows:
 
 “(3) A report is not required under paragraph (1) for any period beginning after December 31, 1993.”
 
-1990—Subsec. (c)(1). Pub. L. 101–510, §1311(4)(A), substituted “an annual report” for “a semiannual report” in introductory provisions.
+<b>1990</b>—Subsec. (c)(1). Pub. L. 101–510, §1311(4)(A), substituted “an annual report” for “a semiannual report” in introductory provisions.
 
 Subsec. (c)(2). Pub. L. 101–510, §1311(4)(B), substituted “the preceding calendar year and shall be submitted not later than February 1 of the year after the year covered by the report” for “the six-month periods ending on June 30 and December 31 of each year. Each such report shall be submitted within 30 days after the end of the period covered by the report”.
 
-1989—Subsec. (a). Pub. L. 101–189, §252(a), substituted “unless—” for “unless” and pars. (1) and (2) for “the grant or contract is made or awarded using competitive procedures.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–189, §252(a), substituted “unless—” for “unless” and pars. (1) and (2) for “the grant or contract is made or awarded using competitive procedures.”
 
 Subsec. (b). Pub. L. 101–189, §252(b)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A provision of law enacted after the date of the enactment of this section may not be construed as modifying or superseding the provisions of subsection (a) unless that provision of law specifically refers to this section and specifically states that such provision of law modifies or supersedes the provisions of this section.”
 

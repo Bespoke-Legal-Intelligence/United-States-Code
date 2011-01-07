@@ -156,17 +156,17 @@ In any case in which a consolidated return is made or is required to be made, th
 
 #### Amendments
 
-1990—Subsec. (c)(1). Pub. L. 101–508, §11802(f)(4), struck out at end “For taxable years ending with or within calendar year 1981, ‘25 percent’ shall be substituted for ‘35 percent’ each place it appears in the first sentence of this subsection. For taxable years ending with or within calendar year 1982, ‘30 percent’ shall be substituted for ‘35 percent’ each place it appears in that sentence.”
+<b>1990</b>—Subsec. (c)(1). Pub. L. 101–508, §11802(f)(4), struck out at end “For taxable years ending with or within calendar year 1981, ‘25 percent’ shall be substituted for ‘35 percent’ each place it appears in the first sentence of this subsection. For taxable years ending with or within calendar year 1982, ‘30 percent’ shall be substituted for ‘35 percent’ each place it appears in that sentence.”
 
 Subsec. (e)(3)(B). Pub. L. 101–508, §11813(b)(25), substituted “section 50(c)” for “section 48(q)”.
 
-1989—Subsec. (e)(2)(A)(ii). Pub. L. 101–239, §7821(c), substituted “another corporation which is or was a member” for “another member”.
+<b>1989</b>—Subsec. (e)(2)(A)(ii). Pub. L. 101–239, §7821(c), substituted “another corporation which is or was a member” for “another member”.
 
 Subsec. (e)(4). Pub. L. 101–239, §7207(a), added par. (4).
 
 Subsec. (f). Pub. L. 101–239, §7201(a), added subsec. (f).
 
-1988—Subsec. (d)(3), (4). Pub. L. 100–647, §1012(u), added pars. (3) and (4).
+<b>1988</b>—Subsec. (d)(3), (4). Pub. L. 100–647, §1012(u), added pars. (3) and (4).
 
 Subsec. (e)(1). Pub. L. 100–647, §2004(j)(1)(A), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Solely for purposes of determining gain or loss on the disposition of intragroup stock, in determining the adjustments to the basis of such intragroup stock on account of the earnings and profits of any member of an affiliated group for any consolidated year—”.
 
@@ -174,15 +174,15 @@ Subsec. (e)(2)(C). Pub. L. 100–647, §2004(j)(3)(A), added subpar. (C).
 
 Subsec. (e)(3). Pub. L. 100–647, §2004(j)(2), added par. (3).
 
-1987—Subsec. (e). Pub. L. 100–203 added subsec. (e).
+<b>1987</b>—Subsec. (e). Pub. L. 100–203 added subsec. (e).
 
-1986—Subsec. (d). Pub. L. 99–514 added subsec. (d).
+<b>1986</b>—Subsec. (d). Pub. L. 99–514 added subsec. (d).
 
-1984—Subsec. (c). Pub. L. 98–369, §211(b)(19)(A), (C), substituted “section 801” for “section 802” in heading, and wherever appearing in text.
+<b>1984</b>—Subsec. (c). Pub. L. 98–369, §211(b)(19)(A), (C), substituted “section 801” for “section 802” in heading, and wherever appearing in text.
 
 Subsec. (c)(1). Pub. L. 98–369, §211(b)(19)(B), struck out provision that for purposes of this subsection, in determining the taxable income of each insurance company subject to tax under section 802, section 802(b)(3) would not be taken into account.
 
-1976—Subsec. (a). Pub. L. 94–455, §1052(c)(5), struck out subsec. (a) designation.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1052(c)(5), struck out subsec. (a) designation.
 
 Subsec. (b). Pub. L. 94–455, §1052(c)(5), struck out subsec. (b) which provided for a special rule for application of foreign tax credit when overall limitation applies.
 
@@ -192,7 +192,7 @@ Subsec. (b)(3)(C). Pub. L. 94–455, §1901(b)(1)(Y), struck out subpar. (C) whi
 
 Subsec. (c). Pub. L. 94–455, §1507(b)(3), added subsec. (c).
 
-1964—Subsec. (a). Pub. L. 88–272, §234(a), struck out provisions which increased the tax imposed under section 11(c), or section 831, by 2% of the consolidated taxable income of the affiliated group of includible corporations, and defined “consolidated taxable income”.
+<b>1964</b>—Subsec. (a). Pub. L. 88–272, §234(a), struck out provisions which increased the tax imposed under section 11(c), or section 831, by 2% of the consolidated taxable income of the affiliated group of includible corporations, and defined “consolidated taxable income”.
 
 Subsec. (b). Pub. L. 88–272, §234(b)(1), (2), redesignated subsec. (d) as (b), and substituted references to section 7701 for references to former subsection (c) of this section, in subpar. (A), and definition of “consolidated taxable income” for provisions relating to the computation of tax, for purposes of par. (1)(A), on the portion of consolidated taxable income attributable to any corporation, without regard to the increase of 2% as in subsec. (a), in subpar. (C). Former subsec. (b), which limited the 2% increase in subsec. (a) in cases where the affiliated group included one or more Western Hemisphere trade corporations or one or more regulated public utilities, to the amount by which the consolidated taxable income of the affiliated group exceed the income attributable to such corporations and utilities, was struck out.
 
@@ -200,7 +200,7 @@ Subsec. (c). Pub. L. 88–272, §234(b)(1), struck out subsec. (c) which defined
 
 Subsec. (d). Pub. L. 88–272, §234(b)(1), redesignated subsec. (d) as (b).
 
-1960—Subsec. (d). Pub. L. 86–780 added subsec. (d).
+<b>1960</b>—Subsec. (d). Pub. L. 86–780 added subsec. (d).
 
 #### Effective Date of 1990 Amendment
 
@@ -320,7 +320,7 @@ Amendment by section 1901(b)(1)(Y) of Pub. L. 94–455 applicable with respect t
 
 #### Effective Date of 1964 Amendment
 
-Section 234(c) of Pub. L. 88–272 provided that: “The amendments made by subsections (a) and (b) \[amendingthis section and sections 12, 172, 904, 1341, 1552, and 7701 of this title\] shall apply with respect to taxable years beginning after December 31, 1963.”
+Section 234(c) of Pub. L. 88–272 provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 12, 172, 904, 1341, 1552, and 7701 of this title\] shall apply with respect to taxable years beginning after December 31, 1963.”
 
 #### Effective Date of 1960 Amendment
 

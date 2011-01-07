@@ -150,17 +150,17 @@ In clause (12)(C), the words “involving a fatality” are substituted for “a
 
 #### Amendments
 
-1999—Par. (12)(C). Pub. L. 106–159, §201(a)(3), inserted “, other than a violation to which section 31310(b)(1)(E) or 31310(c)(1)(E) applies” after “a fatality”.
+<b>1999</b>—Par. (12)(C). Pub. L. 106–159, §201(a)(3), inserted “, other than a violation to which section 31310(b)(1)(E) or 31310(c)(1)(E) applies” after “a fatality”.
 
 Par. (12)(D) to (G). Pub. L. 106–159, §201(c), added subpars. (D) to (F) and redesignated former subpar. (D) as (G).
 
-1998—Par. (4)(A). Pub. L. 105–178, §4011(a)(1), inserted “or gross vehicle weight” after “rating” first two places that term appears and “, whichever is greater,” after “26,001 pounds”.
+<b>1998</b>—Par. (4)(A). Pub. L. 105–178, §4011(a)(1), inserted “or gross vehicle weight” after “rating” first two places that term appears and “, whichever is greater,” after “26,001 pounds”.
 
 Par. (4)(C)(ii). Pub. L. 105–178, §4011(a)(2), inserted “is” before “transporting” in two places and before “not otherwise regulated”.
 
 #### Grant Program for Commercial Motor Vehicle Operators
 
-Pub. L. 109–59, title IV, §4134, Aug. 10, 2005, 119 Stat. 1744, provided that:
+Pub. L. 109–59, title IV, §4134, Aug. 10, 2005, 119 Stat. 1744, as amended by Pub. L. 111–147, title IV, §422(h), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(h), Dec. 22, 2010, 124 Stat. 3525, provided that:
 
 “(a)
 
@@ -172,7 +172,7 @@ Federal Share.—The Federal share of the cost for which a grant is made under t
 
 “(c)
 
-Funding.—From amounts made available under section 31104(i) of title 49, United States Code, the Secretary shall make available $1,000,000 for each of fiscal years 2005 through 2009 to carry out this section.”
+Funding.—From amounts made available under section 31104(i) of title 49, United States Code, the Secretary shall make available $1,000,000 for each of fiscal years 2005 through 2009, 2010, and $425,545 for the period beginning on October 1, 2010, and ending on March 4, 2011, to carry out this section.”
 
 #### CDL Task Force
 

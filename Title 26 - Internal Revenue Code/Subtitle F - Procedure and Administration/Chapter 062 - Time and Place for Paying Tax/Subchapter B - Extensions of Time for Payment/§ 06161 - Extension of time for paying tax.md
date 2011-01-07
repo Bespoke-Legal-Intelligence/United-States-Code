@@ -28,7 +28,7 @@
 
 #### (3) No extension for certain deficiencies
 
-&emsp;No extension shall be granted under this subsection for any deficiency if the deficiencyis due to negligence, to intentional disregard of rules and regulations, or to fraud with intent to evade tax.
+&emsp;No extension shall be granted under this subsection for any deficiency if the deficiency is due to negligence, to intentional disregard of rules and regulations, or to fraud with intent to evade tax.
 
 #### (c) Claims in cases under title 11 of the United States Code or in receivership proceedings
 
@@ -52,17 +52,17 @@ Extensions of time for payment of any portion of a claim for tax under chapter 1
 
 #### Amendments
 
-2002—Subsec. (d)(3). Pub. L. 107–134 added par. (3).
+<b>2002</b>—Subsec. (d)(3). Pub. L. 107–134 added par. (3).
 
-1988—Subsec. (b)(1). Pub. L. 100–418 substituted “or 44” for “44, or 45” in two places.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–418 substituted “or 44” for “44, or 45” in two places.
 
-1981—Subsec. (a)(2)(B). Pub. L. 97–34 struck out reference to section 6166A.
+<b>1981</b>—Subsec. (a)(2)(B). Pub. L. 97–34 struck out reference to section 6166A.
 
-1980—Subsec. (b)(1). Pub. L. 96–223 inserted references to chapter 45.
+<b>1980</b>—Subsec. (b)(1). Pub. L. 96–223 inserted references to chapter 45.
 
 Subsec. (c). Pub. L. 96–589 substituted “Claims in cases under title 11 of the United States Code or in receivership proceedings” for “Claims in bankruptcy or receivership proceedings” in heading, and substituted reference to cases under title 11 of the United States Code, for reference to bankruptcy proceedings in text.
 
-1976—Subsec. (a)(1). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (a)(2). Pub. L. 94–455, §2004(c)(1), struck out in subpar. (A) “that the payment, on the due date, of” before “any part of the amount”, in subpar. (B) provisions relating to payment, on the date fixed for payment of any installment, and subpar. (C) which related to payment upon notice and demand of a deficiency prorated under the provisions of section 6161, inserted in subpar. (B) “or 6166A” after “section 6166”, substituted in subpar. (B) “under such section” for “the date for payment for which had not arrived”, and inserted in text following subpar. (B) provisions relating to extension of time for payment in the case of an amount referred to in subpar. (B).
 
@@ -70,13 +70,13 @@ Subsec. (b). Pub. L. 94–455, §§1307(d)(2)(C), 1605(b)(3), 2004(c)(2), among 
 
 Subsec. (d)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1974—Subsec. (b). Pub. L. 93–406 inserted references to chapter 43.
+<b>1974</b>—Subsec. (b). Pub. L. 93–406 inserted references to chapter 43.
 
-1970—Subsec. (a)(1). Pub. L. 91–614 substituted “6 months (12 months in the case of estate tax)” for “6 months”.
+<b>1970</b>—Subsec. (a)(1). Pub. L. 91–614 substituted “6 months (12 months in the case of estate tax)” for “6 months”.
 
-1969—Subsec. (b). Pub. L. 91–172 inserted references to chapter 42.
+<b>1969</b>—Subsec. (b). Pub. L. 91–172 inserted references to chapter 42.
 
-1958—Subsec. (a)(2). Pub. L. 85–866 inserted provisions allowing Secretary or his delegate to extend time for payment for reasonable period, not exceeding 10 years from date prescribed by section 6151(a), if he finds that payment on date fixed for payment of any installment under section 6166, or any part of such installment, or payment of any part of a deficiency prorated under section 6166 to installments the date for payment of which had arrived would result in undue hardship.
+<b>1958</b>—Subsec. (a)(2). Pub. L. 85–866 inserted provisions allowing Secretary or his delegate to extend time for payment for reasonable period, not exceeding 10 years from date prescribed by section 6151(a), if he finds that payment on date fixed for payment of any installment under section 6166, or any part of such installment, or payment of any part of a deficiency prorated under section 6166 to installments the date for payment of which had arrived would result in undue hardship.
 
 #### Effective Date of 2002 Amendment
 

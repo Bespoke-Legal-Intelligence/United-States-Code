@@ -24,7 +24,7 @@ Upon—
 
 &emsp;(iv) other relevant factors.
 
-(B) By no later than the date that is 30 days after the date on which the President makes any modifications or refinements to specific negotiating objectives under subparagraph (A), the President shall submit to appropriate committees of the Congress a statement describing such modifications or refinements and the reasons for such modifications or refinements.
+(B) By no later than the date that is 30 days after the date on which the President makes anymodifications or refinements to specific negotiating objectives under subparagraph (A), the President shall submit to appropriate committees of the Congress a statement describing such modifications or refinements and the reasons for such modifications or refinements.
 
 #### (c) General negotiating objectives
 
@@ -48,7 +48,7 @@ The specific negotiating objectives of the United States under this section rega
 
 &emsp;(4) the reduction or elimination of customs duties on telecommunications products;
 
-&emsp;(5) the elimination of subsidies, violations of intellectual property rights, and other unfairtrade practices that distort international trade in telecommunications products and services;
+&emsp;(5) the elimination of subsidies, violations of intellectual property rights, and other unfair trade practices that distort international trade in telecommunications products and services;
 
 &emsp;(6) the elimination of investment barriers that restrict the establishment of foreign-owned business entities which market such products and services;
 

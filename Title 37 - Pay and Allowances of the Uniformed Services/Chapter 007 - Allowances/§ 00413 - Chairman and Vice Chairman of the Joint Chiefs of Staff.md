@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 #### Amendments
 
-1987—Pub. L. 100–180, in amending section generally, in section catchline inserted “and Vice Chairman”, and in text inserted “and Vice Chairman” and substituted “are” for “is”.
+<b>1987</b>—Pub. L. 100–180, in amending section generally, in section catchline inserted “and Vice Chairman”, and in text inserted “and Vice Chairman” and substituted “are” for “is”.
 
 #### Effective Date of 1987 Amendment
 

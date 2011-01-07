@@ -100,7 +100,7 @@ This chapter, referred to in subsecs. (a)(1)(A) and (b), was in the original “
 
 #### Amendments
 
-1988—Pub. L. 100–418 amended section generally, completely revising and expanding provisions covering reports, changing the structure of the section from one consisting of subsecs. (a) and (b) to one consisting of subsecs. (a) to (c).
+<b>1988</b>—Pub. L. 100–418 amended section generally, completely revising and expanding provisions covering reports, changing the structure of the section from one consisting of subsecs. (a) and (b) to one consisting of subsecs. (a) to (c).
 
 #### Delegation of Functions
 

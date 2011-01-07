@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(II) the awarding of such fellowships as the respective institution determines will best serve to carry out the purposes of this chapter after reviewing applications submitted under subclause (I); and
 
-&emsp;(B) to disseminate research, data, and findings on studies on the countries of Eastern Europe and the independent states of the formerSoviet Union and related fields in such a manner and to such extent as the respective institution determines will best serve to carry out the purposes of this chapter.
+&emsp;(B) to disseminate research, data, and findings on studies on the countries of Eastern Europe and the independent states of the former Soviet Union and related fields in such a manner and to such extent as the respective institution determines will best serve to carry out the purposes of this chapter.
 
 (3) One part of the payments made in each fiscal year shall be used—
 
@@ -40,13 +40,13 @@
 
 #### Amendments
 
-1993—Subsec. (b)(2)(A), (B). Pub. L. 103–199, §302(6)(A), substituted “studies on the countries of Eastern Europe and the independent states of the former Soviet Union” for “Soviet and Eastern European studies”.
+<b>1993</b>—Subsec. (b)(2)(A), (B). Pub. L. 103–199, §302(6)(A), substituted “studies on the countries of Eastern Europe and the independent states of the former Soviet Union” for “Soviet and Eastern European studies”.
 
 Subsec. (b)(3)(A). Pub. L. 103–199, §302(6)(B), (C), substituted “independent states of the former Soviet Union and the countries of Eastern Europe and related fields” for “fields of Soviet and Eastern European studies and related studies” and “those states and countries” for “the Soviet Union and Eastern European countries”.
 
 Subsec. (b)(3)(B). Pub. L. 103–199, §302(6)(B), which directed the substitution of “independent states of the former Soviet Union and the countries of Eastern Europe and related fields” for “fields of Soviet and Eastern European studies and related studies”, was executed by making the substitution for “fields of Soviet and East European studies and related studies”, to reflect the probable intent of Congress.
 
-Subsec. (b)(4). Pub. L. 103–199, §302(6)(D), substituted “independent states of the former Soviet Union” for “Union of Soviet Socialist Republics” and “those states and countries” for “the Union of Soviet Socialist Republics and Eastern European countries”.
+Subsec. (b)(4). Pub. L. 103–199, §302(6)(D), substituted “independent states of the former Soviet Union” for “Union of Soviet Socialist Republics” and “thosestates and countries” for “the Union of Soviet Socialist Republics and Eastern European countries”.
 
 Subsec. (b)(5). Pub. L. 103–199, §302(6)(E), substituted “training in the languages of the independent states of the former Soviet Union and the countries of Eastern Europe” for “language training in Russian and Eastern European languages” and inserted before period at end “and, as appropriate, studies of other languages of the independent states of the former Soviet Union”.
 

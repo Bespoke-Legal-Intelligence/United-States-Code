@@ -10,9 +10,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-2009—Pub. L. 111–13 made technical amendment to reference in original act which appears in text as reference to section 1226a of title 20.
+<b>2009</b>—Pub. L. 111–13 made technical amendment to reference in original act which appears in text as reference to section 1226a of title 20.
 
-1993—Pub. L. 103–82 amended section generally, reenacting subsec. (c) as entire section and striking out former subsecs. (a) and (b) which related to treatment of education and housing benefits and treatment of stipend for living expenses, respectively.
+<b>1993</b>—Pub. L. 103–82 amended section generally, reenacting subsec. (c) as entire section and striking out former subsecs. (a) and (b) which related to treatment of education and housing benefits and treatment of stipend for living expenses, respectively.
 
 #### Effective Date of 2009 Amendment
 

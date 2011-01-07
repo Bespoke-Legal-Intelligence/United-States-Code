@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any party aggrieved by the decision of a hearing officer under section 1405(g) of this title mayfile a petition for review by the Board not later than 30 days after entry of the decision in the records of the Office.
+Any party aggrieved by the decision of a hearing officer under section 1405(g) of this title may file a petition for review by the Board not later than 30 days after entry of the decision in the records of the Office.
 
 #### (b) Parties’ opportunity to submit argument
 

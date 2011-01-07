@@ -38,7 +38,7 @@ In subsection (c)(2), the words “by reason of the application of subsection (a
 
 #### Amendments
 
-1988—Pub. L. 100–426 amended section generally. Prior to amendment, section read as follows:
+<b>1988</b>—Pub. L. 100–426 amended section generally. Prior to amendment, section read as follows:
 
 “(a) The Comptroller General shall compute—
 

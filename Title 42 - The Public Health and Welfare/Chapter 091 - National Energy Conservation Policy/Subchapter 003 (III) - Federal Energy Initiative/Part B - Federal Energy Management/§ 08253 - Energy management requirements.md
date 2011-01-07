@@ -60,7 +60,7 @@
 
 #### (b) Energy management requirement for Federal agencies
 
-(1) Not later than January 1, 2005, each agency shall, to the maximum extent practicable, install in Federal buildings owned by the United States all energy and water conservation measures with payback periods of less than 10 years, as determined by using the methods and procedures developed pursuant to section 8254 of this title.
+(1) Not later than January 1, 2005, each agency shall, to the maximum extent practicable, install in Federal buildings owned by the UnitedStates all energy and water conservation measures with payback periods of less than 10 years, as determined by using the methods and procedures developed pursuant to section 8254 of this title.
 
 (2) The Secretary may waive the requirements of this subsection for any agency for such periods as the Secretary may determine if the Secretary finds that the agency is taking all practicable steps to meet the requirements and that the requirements of this subsection will pose an unacceptable burden upon the agency. If the Secretary waives the requirements of this subsection, the Secretary shall, as part of the report required under section 8258(b) of this title, notify the Congress in writing with an explanation and a justification of the reasons for such waiver.
 
@@ -136,7 +136,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;&emsp;&emsp;&emsp;(III) the measurement and verification protocols of the Department of Energy;
 
-&emsp;&emsp;&emsp;(ii) include recommendations concerning the amount of funds and the number oftrained personnel necessary to gather and use the metering information to track and reduce energy use;
+&emsp;&emsp;&emsp;(ii) include recommendations concerning the amount of funds and the number of trained personnel necessary to gather and use the metering information to track and reduce energy use;
 
 &emsp;&emsp;&emsp;(iii) establish priorities for types and locations of buildings to be metered based on cost-effectiveness and a schedule of one or more dates, not later than 1 year after the date of issuance of the guidelines, on which the requirements specified in paragraph (1) shall take effect; and
 
@@ -424,7 +424,7 @@ The Energy Policy Act of 1992, referred to in subsec. (c)(1)(A)(iii), is Pub. L.
 
 #### Amendments
 
-2007—Subsec. (a)(1). Pub. L. 110–140, §431, added table and struck out former table which listed percentage reductions for fiscal years as follows: 2 percent for fiscal year 2006, 4 percent for fiscal year 2007, 6 percent for fiscal year 2008, 8 percent for fiscal year 2009, 10 percent for fiscal year 2010, 12 percent for fiscal year 2011, 14 percent for fiscal year 2012, 16 percent for fiscal year 2013, 18 percent for fiscal year 2014, and 20 percent for fiscal year 2015.
+<b>2007</b>—Subsec. (a)(1). Pub. L. 110–140, §431, added table and struck out former table which listed percentage reductions for fiscal years as follows: 2 percent for fiscal year 2006, 4 percent for fiscal year 2007, 6 percent for fiscal year 2008, 8 percent for fiscal year 2009, 10 percent for fiscal year 2010, 12 percent for fiscal year 2011, 14 percent for fiscal year 2012, 16 percent for fiscal year 2013, 18 percent for fiscal year 2014, and 20 percent for fiscal year 2015.
 
 Subsec. (e)(1). Pub. L. 110–140, §434(b), inserted after second sentence “Not later than October 1, 2016, each agency shall provide for equivalent metering of natural gas and steam, in accordance with guidelines established by the Secretary under paragraph (2).”
 
@@ -432,7 +432,7 @@ Subsec. (f). Pub. L. 110–140, §434(a), added subsec. (f) relating to large ca
 
 Pub. L. 110–140, §432, added subsec. (f) relating to use of energy and water efficiency measures in Federal buildings.
 
-2005—Subsec. (a)(1). Pub. L. 109–58, §102(a)(1), substituted provisions relating to reduction of energy consumption in fiscal years 2006 to 2015 as compared to consumption in fiscal year 2003 and table of percentages specifying amount of reduction in each fiscal year for provisions relating to energy consumption during fiscal year 1995 at least 10 percent less than consumption during fiscal year 1985 and energy consumption during fiscal year 2000 at least 20 percent less than consumption during fiscal year 1985.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–58, §102(a)(1), substituted provisions relating to reduction of energy consumption in fiscal years 2006 to 2015 as compared to consumption in fiscal year 2003 and table of percentages specifying amount of reduction in each fiscal year for provisions relating to energy consumption during fiscal year 1995 at least 10 percent less than consumption during fiscal year 1985 and energy consumption during fiscal year 2000 at least 20 percent less than consumption during fiscal year 1985.
 
 Subsec. (a)(3). Pub. L. 109–58, §102(b), added par. (3).
 
@@ -444,9 +444,9 @@ Subsec. (c)(3). Pub. L. 109–58, §102(e), added par. (3).
 
 Subsec. (e). Pub. L. 109–58, §103, added subsec. (e).
 
-1995—Subsec. (b)(2). Pub. L. 104–66 in last sentence inserted “, as part of the report required under section 8258(b) of this title,” after “the Secretary shall” and struck out “promptly” after “Congress”.
+<b>1995</b>—Subsec. (b)(2). Pub. L. 104–66 in last sentence inserted “, as part of the report required under section 8258(b) of this title,” after “the Secretary shall” and struck out “promptly” after “Congress”.
 
-1992—Pub. L. 102–486, §152(b)(1), substituted “requirements” for “goals” in section catchline.
+<b>1992</b>—Pub. L. 102–486, §152(b)(1), substituted “requirements” for “goals” in section catchline.
 
 Subsec. (a). Pub. L. 102–486, §152(b)(2), (3), in heading substituted “requirement” for “goal” and in par. (1) inserted before period at end “and so that the energy consumption per gross square foot of its Federal buildings in use during the fiscal year 2000 is at least 20 percent less than the energy consumption per gross square foot of its Federal buildings in use during fiscal year 1985”.
 
@@ -460,7 +460,7 @@ Subsec. (d)(2). Pub. L. 102–486, §152(c)(3), inserted before semicolon at end
 
 Subsec. (d)(3) to (5). Pub. L. 102–486, §152(c)(4), (5), added pars. (3) and (4), redesignated former par. (4) as (5), and struck out former par. (3) which read as follows: “using such surveys, apply energy conservation measures in a manner which will attain the goal established in subsection (a) of this section in the most cost-effective manner practicable; and”.
 
-1988—Pub. L. 100–615 amended section generally, substituting energy management goals statement for statement of purpose to promote (1) use of commonly accepted methods to establish and compare life cycle costs of operating Federal buildings, and life cycle fuel and energy requirements of such buildings, with and without special features for energy conservation and (2) use of solar heating and cooling and other renewable energy sources in Federal buildings.
+<b>1988</b>—Pub. L. 100–615 amended section generally, substituting energy management goals statement for statement of purpose to promote (1) use of commonly accepted methods to establish and compare life cycle costs of operating Federal buildings, and life cycle fuel and energy requirements of such buildings, with and without special features for energy conservation and (2) use of solar heating and cooling and other renewable energy sources in Federal buildings.
 
 #### Effective Date of 2007 Amendment
 

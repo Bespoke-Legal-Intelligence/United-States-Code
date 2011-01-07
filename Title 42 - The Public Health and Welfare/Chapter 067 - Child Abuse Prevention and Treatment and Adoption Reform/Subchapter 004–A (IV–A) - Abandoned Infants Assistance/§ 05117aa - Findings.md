@@ -8,9 +8,9 @@ The Congress finds that—
 
 &emsp;(3) hospital-based child care for these infants and young children is extremely costly and deprives them of an adequate nurturing environment;
 
-&emsp;(4) appropriate training is needed for personnel working with infants and young children with life-threatening conditions and other special needs, including those who are infected with the human immunodeficiency virus (commonly known as “HIV”), those who have acquired immune deficiency syndrome (commonly known as “AIDS”), and those who have been exposed to dangerous drugs;
+&emsp;(4) appropriate training is needed for personnel working with infants and young children with life-threatening conditions and other special needs, including those with HIV/AIDS, and those who have been exposed to dangerous drugs;
 
-&emsp;(5) infants and young children who are abandoned in hospitals are particularly difficult to place in foster homes, and are being abandoned in hospitals in increasing numbers by mothers dying of acquired immune deficiency syndrome, by parents abusing drugs, or by parents incapable of providing adequate care;
+&emsp;(5) infants and young children who are abandoned in hospitals are particularly difficult to place in foster homes, and are being abandoned in hospitals in increasing numbers by mothers dying of HIV/AIDS, by parents abusing drugs, or by parents incapable of providing adequate care;
 
 &emsp;(6) there is a need for comprehensive support services for such infants and young children and their families and services to prevent the abandonment of such infants and young children, including foster care services, case management services, family support services, respite and crisis intervention services, counseling services, and group residential home services;
 
@@ -18,11 +18,15 @@ The Congress finds that—
 
 &emsp;(8) private, Federal, State, and local resources should be coordinated to establish and maintain services described in paragraph (7) and to ensure the optimal use of all such resources.
 
-(Pub. L. 100–505, §2, Oct. 18, 1988, 102 Stat. 2533; Pub. L. 102–236, §2, Dec. 12, 1991, 105 Stat. 1812; Pub. L. 108–36, title III, §301, June 25, 2003, 117 Stat. 822.)
+(Pub. L. 100–505, §2, Oct. 18, 1988, 102 Stat. 2533; Pub. L. 102–236, §2, Dec. 12, 1991, 105 Stat. 1812; Pub. L. 108–36, title III, §301, June 25, 2003, 117 Stat. 822; Pub. L. 111–320, title IV, §401(a), Dec. 20, 2010, 124 Stat. 3513.)
 
 #### Amendments
 
-2003—Par. (1). Pub. L. 108–36, §301(1), (8), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “throughout the Nation, the number of infants and young children who have been exposed to drugs taken by their mothers during pregnancy has increased dramatically;”.
+<b>2010</b>—Par. (4). Pub. L. 111–320, §401(a)(1), substituted “including those with HIV/AIDS” for “including those who are infected with the human immunodeficiency virus (commonly known as ‘HIV’), those who have acquired immune deficiency syndrome (commonly known as ‘AIDS’)”.
+
+Par. (5). Pub. L. 111–320, §401(a)(2), substituted “HIV/AIDS” for “acquired immune deficiency syndrome”.
+
+<b>2003</b>—Par. (1). Pub. L. 108–36, §301(1), (8), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “throughout the Nation, the number of infants and young children who have been exposed to drugs taken by their mothers during pregnancy has increased dramatically;”.
 
 Par. (2). Pub. L. 108–36, §301(8), redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
@@ -46,13 +50,13 @@ Pub. L. 108–36, §301(5), substituted “infants and young children who are ab
 
 Par. (9). Pub. L. 108–36, §301(8), redesignated par. (9) as (6).
 
-Pub. L. 108–36, §301(6), substituted “comprehensive support services for such infants and young childrenand their families and services to prevent the abandonment of such infants and young children, including foster care services, case management services, family support services, respite and crisis intervention services, counseling services, and group residential home services;” for “comprehensive services for such infants and young children, including foster family care services, case management services, family support services, respite and crisis intervention services, counseling services, and group residential home services;”.
+Pub. L. 108–36, §301(6), substituted “comprehensive support services for such infants and young children and their families and services to prevent the abandonment of such infants and young children, including foster care services, case management services, family support services, respite and crisis intervention services, counseling services, and group residential home services;” for “comprehensive services for such infants and young children, including foster family care services, case management services, family support services, respite and crisis intervention services, counseling services, and group residential home services;”.
 
 Par. (10). Pub. L. 108–36, §301(8), redesignated par. (10) as (7).
 
 Par. (11). Pub. L. 108–36, §301(7), struck out par. (11) which read as follows: “there is a need for the development of funding strategies that coordinate and make the optimal use of all private resources, and Federal, State, and local resources, to establish and maintain such services.”
 
-1991—Par. (3). Pub. L. 102–236, §2(1), substituted “an unacceptable number” for “the vast majority”.
+<b>1991</b>—Par. (3). Pub. L. 102–236, §2(1), substituted “an unacceptable number” for “the vast majority”.
 
 Par. (6). Pub. L. 102–236, §2(2), substituted “the number of infants and young children who are infected with the human immunodeficiency virus (which is believed to cause acquired immune deficiency syndrome and which is commonly known as HIV) or who have been perinatally exposed to the virus or to a dangerous drug;” for “the number of cases of acquired immune deficiency syndrome in infants and young children, and the number of such cases has doubled within the last 13 months;”.
 

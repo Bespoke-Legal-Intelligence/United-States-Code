@@ -6,7 +6,7 @@ The Secretary of Agriculture is authorized to undertake emergency measures, incl
 
 #### Amendments
 
-1996—Pub. L. 104–127 inserted “, including the purchase of floodplain easements,” after “emergency measures”.
+<b>1996</b>—Pub. L. 104–127 inserted “, including the purchase of floodplain easements,” after “emergency measures”.
 
 #### Disaster Assistance for Watershed Protection Activities
 

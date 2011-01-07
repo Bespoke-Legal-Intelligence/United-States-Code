@@ -24,17 +24,21 @@ The President shall prescribe appropriate procedures to assure coordination amon
 
 (Pub. L. 90–629, ch. 1, §2, Oct. 22, 1968, 82 Stat. 1322; Pub. L. 94–329, title II, §212(a)(2), June 30, 1976, 90 Stat. 745; Pub. L. 97–113, title I, §109(b)(1), Dec. 29, 1981, 95 Stat. 1526; Pub. L. 99–83, title I, §115(b)(1), Aug. 8, 1985, 99 Stat. 201; Pub. L. 99–145, title XI, §1102(a)(2), (5), Nov. 8, 1985, 99 Stat. 710; Pub. L. 99–661, div. A, title XIII, §1342(e), Nov. 14, 1986, 100 Stat. 3991.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+
 #### Amendments
 
-1986—Subsec. (b). Pub. L. 99–661 repealed section 1102(a)(2) of Pub. L. 99–145 and the amendments made by that section, and provided that this section shall apply as if that section had never been enacted. See 1985 Amendments note below.
+<b>1986</b>—Subsec. (b). Pub. L. 99–661 repealed section 1102(a)(2) of Pub. L. 99–145 and the amendments made by that section, and provided that this section shall apply as if that section had never been enacted. See 1985 Amendments note below.
 
-1985—Subsec. (b). Pub. L. 99–83 amended subsec. (b) generally, substituting reference to the food for peace program for reference to food for freedom and adding financing and cooperative projects under this chapter to the list of responsibilities of the Secretary of State.
+<b>1985</b>—Subsec. (b). Pub. L. 99–83 amended subsec. (b) generally, substituting reference to the food for peace program for reference to food for freedom and adding financing and cooperative projects under this chapter to the list of responsibilities of the Secretary of State.
 
 Pub. L. 99–145, §1102(a)(2), which enacted amendments similar to those provided in Pub. L. 99–83, was repealed. See 1986 Amendments note above and Repeals; Effective Date note below.
 
-1981—Subsec. (b). Pub. L. 97–113 substituted “sales, leases,” for “sales” in two places and “such sale, lease,” for “such sale” and inserted “whether there shall be a lease to a country,” after “whether there shall be a sale to a country and the amount thereof,”.
+<b>1981</b>—Subsec. (b). Pub. L. 97–113 substituted “sales, leases,” for “sales” in two places and “such sale, lease,” for “such sale” and inserted “whether there shall be a lease to a country,” after “whether there shall be a sale to a country and the amount thereof,”.
 
-1976—Subsec. (b). Pub. L. 94–329 inserted “and exports” after “sales” wherever appearing and “and whether there shall be delivery or other performance under such sale or export,” after “thereof,”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–329 inserted “and exports” after “sales” wherever appearing and “and whether there shall be delivery or other performance under such sale or export,” after “thereof,”.
 
 #### Effective Date of 1985 Amendment
 

@@ -6,7 +6,7 @@ Upon publication in the Federal Register of the final roll as provided in sectio
 
 #### Amendments
 
-1958—Pub. L. 85–731 inserted provision that property which is inherited or bequeathed after Aug. 13, 1954, and prior to transfer of title to tribal property should not be subject to taxes.
+<b>1958</b>—Pub. L. 85–731 inserted provision that property which is inherited or bequeathed after Aug. 13, 1954, and prior to transfer of title to tribal property should not be subject to taxes.
 
 #### Revolving Fund: Interest-Free Loans to Klamath Indians; Refinancing Lending Agency Loans
 

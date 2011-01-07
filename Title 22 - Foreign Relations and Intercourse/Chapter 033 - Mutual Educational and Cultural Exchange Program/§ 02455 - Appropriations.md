@@ -58,11 +58,11 @@ The acts of February 25, 1919, and February 9, 1922, referred to in subsec. (e),
 
 #### Amendments
 
-2008—Subsec. (d)(2)(ii). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+<b>2008</b>—Subsec. (d)(2)(ii). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
-1994—Subsec. (a). Pub. L. 103–236 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Appropriations to carry out the purposes of this chapter, to remain available until expended, are authorized, and this authorization includes the authority to grant, in any appropriation Act, the authority to enter into contracts, within the amounts so authorized, creating obligations in advance of appropriations.”
+<b>1994</b>—Subsec. (a). Pub. L. 103–236 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Appropriations to carry out the purposes of this chapter, to remain available until expended, are authorized, and this authorization includes the authority to grant, in any appropriation Act, the authority to enter into contracts, within the amounts so authorized, creating obligations in advance of appropriations.”
 
-1966—Subsec. (g). Pub. L. 89–698 added subsec. (g).
+<b>1966</b>—Subsec. (g). Pub. L. 89–698 added subsec. (g).
 
 #### Effective Date of 2008 Amendment
 

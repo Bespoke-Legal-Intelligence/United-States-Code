@@ -1,6 +1,6 @@
 ### §5561. Exemptions to meet the requirements of the national defense
 
-The Secretary may temporarily exempt proprietors of distilled spirits plants from any provision of the internal revenue laws relating to distilled spirits, except those requiring payment of the tax thereon, whenever in his judgment it may seem expedient to do so to meet the requirements of the national defense. Whenever the Secretary shall exercise the authority conferred by this section he may prescribe such regulations as may be necessary to accomplish the purpose which caused him to grant the exemption.
+The Secretary may temporarily exempt proprietors of distilled spirits plants from any provision of the internal revenue laws relating todistilled spirits, except those requiring payment of the tax thereon, whenever in his judgment it may seem expedient to do so to meet the requirements of the national defense. Whenever the Secretary shall exercise the authority conferred by this section he may prescribe such regulations as may be necessary to accomplish the purpose which caused him to grant the exemption.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1397; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
@@ -10,5 +10,5 @@ Provisions similar to those comprising this section were contained in prior sect
 
 #### Amendments
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 

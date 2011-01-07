@@ -14,9 +14,9 @@ Minor changes were made in phraseology. Words “the authority conferred by” w
 
 #### Amendments
 
-1984—Pub. L. 98–473 substituted “and record clerks” for “record clerks, and parole officers”.
+<b>1984</b>—Pub. L. 98–473 substituted “and record clerks” for “record clerks, and parole officers”.
 
-1955—Act July 7, 1955, permitted chief clerks, record clerks, and parole officers to administer oaths and take acknowledgments.
+<b>1955</b>—Act July 7, 1955, permitted chief clerks, record clerks, and parole officers to administer oaths and take acknowledgments.
 
 #### Effective Date of 1984 Amendment
 

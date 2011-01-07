@@ -26,11 +26,11 @@ The Secretary of Agriculture (referred to in this section as the “Secretary”
 
 #### (2) Exemption
 
-&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to consultations with representatives of the United States cotton industry under this section.
+&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to consultationswith representatives of the United States cotton industry under this section.
 
 #### (d) Crediting of fees
 
-Any fees collected under this section and under section 473d of this title, late paymentpenalties, the proceeds from the sales of samples, and interest earned from the investment of such funds shall—
+Any fees collected under this section and under section 473d of this title, late payment penalties, the proceeds from the sales of samples, and interest earned from the investment of such funds shall—
 
 &emsp;(1) be credited to the current appropriation account that incurs the cost of services provided under this section and section 473d of this title; and
 
@@ -86,7 +86,7 @@ Pub. L. 102–237, §120(a), amended first sentence generally. Prior to amendmen
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 ofPub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective and Termination Dates of 1991 Amendment
 

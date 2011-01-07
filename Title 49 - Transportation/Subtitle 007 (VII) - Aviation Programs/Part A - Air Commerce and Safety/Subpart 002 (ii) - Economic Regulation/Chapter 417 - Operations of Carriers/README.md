@@ -76,17 +76,19 @@
 
 #### Amendments
 
-2003—Pub. L. 108–176, title IV, §§408(b), 410(b), 422(b), title VIII, §810(b), Dec. 12, 2003, 117 Stat. 2547, 2549, 2552, 2590, added items 41721 to 41723 and 41745 to 41748 and struck out former item 41721 “Reports by carriers on incidents involving animals during air transportation”.
+<b>2003</b>—Pub. L. 108–176, title IV, §§408(b), 410(b), 422(b), title VIII, §810(b), Dec. 12, 2003, 117 Stat. 2547, 2549, 2552, 2590, added items 41721 to 41723 and 41745 to 41748 and struck out former item 41721 “Reports by carriers on incidents involving animals during air transportation”.
 
-2000—Pub. L. 106–181, title II, §§203(b), 204(b), 210(b), 231(j)(2), title VII, §710(b), Apr. 5, 2000, 114 Stat. 93, 94, 102, 115, 160, added items 41715 to 41718, redesignated former items 41715 and 41716 as 41719 and 41720, respectively, and added items 41721, 41743, and 41744, subchapter III heading, and items 41761 to 41767.
+<b>2000</b>—Pub. L. 106–181, title II, §§203(b), 204(b), 210(b), 231(j)(2), title VII, §710(b), Apr. 5, 2000, 114 Stat. 93, 94, 102, 115, 160, added items 41715 to 41718, redesignated former items 41715 and 41716 as 41719 and 41720, respectively, and added items 41721, 41743, and 41744, subchapter III heading, and items 41761 to 41767.
 
-1998—Pub. L. 105–277, div. C, title I, §110(f)(2), Oct. 21, 1998, 112 Stat. 2681–590, which directed amendment of the analysis for subchapter I of chapter 417 by adding item 41716 without specifying the Code title or Act for chapter 417, was executed by adding item 41716 to this analysis to reflect the probable intent of Congress.
+<b>1998</b>—Pub. L. 105–277, div. C, title I, §110(f)(2), Oct. 21, 1998, 112 Stat. 2681–590, which directed amendment of the analysis for subchapter I of chapter 417 by adding item 41716 without specifying the Code title or Act for chapter 417, was executed by adding item 41716 to this analysis to reflect the probable intent of Congress.
 
-1996—Pub. L. 104–264, title II, §278(d), Oct. 9, 1996, 110 Stat. 3250, substituted “Essential air service authorization” for “Ending effective date” in item 41742.
+<b>1996</b>—Pub. L. 104–264, title II, §278(d), Oct. 9, 1996, 110 Stat. 3250, substituted “Essential air service authorization” for “Ending effective date” in item 41742.
 
-1994—Pub. L. 103–429, §6(52), Oct. 31, 1994, 108 Stat. 4385, made technical correction to chapter heading.
+<b>1994</b>—Pub. L. 103–429, §6(52), Oct. 31, 1994, 108 Stat. 4385, made technical correction to chapter heading.
 
 Pub. L. 103–305, title II, §§206(b), 207(b), Aug. 23, 1994, 108 Stat. 1587, 1588, added items 41714 and 41715.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

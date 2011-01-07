@@ -68,9 +68,9 @@ In subsections (b), before clause (1), the words “Beginning at a time establis
 
 #### Amendments
 
-1997—Subsec. (a)(1). Pub. L. 105–102 amended directory language of Pub. L. 104–152, §2(c). See 1996 Amendment note below.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–102 amended directory language of Pub. L. 104–152, §2(c). See 1996 Amendment note below.
 
-1996—Subsec. (a)(1). Pub. L. 104–152, §3(a), substituted “Attorney General” for “Secretary of Transportation”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–152, §3(a), substituted “Attorney General” for “Secretary of Transportation”.
 
 Pub. L. 104–152, §2(c), as amended by Pub. L. 105–102, substituted “National Motor Vehicle Title Information System” for “National Automobile Title Information System”.
 
@@ -80,5 +80,5 @@ Subsecs. (b), (c). Pub. L. 104–152, §3(a), substituted “Attorney General”
 
 Pub. L. 105–102, §3(b), Nov. 20, 1997, 111 Stat. 2215, provided that the amendment made by section 3(b) is effective July 2, 1996.
 
-Amendment by Pub. L. 105–102 effective as if included in the provisions of the Act to which the amendmentrelates, see section 3(f) of Pub. L. 105–102, set out as a note under section 106 of this title.
+Amendment by Pub. L. 105–102 effective as if included in the provisions of the Act to which the amendment relates, see section 3(f) of Pub. L. 105–102, set out as a note under section 106 of this title.
 

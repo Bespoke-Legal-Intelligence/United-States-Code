@@ -92,19 +92,19 @@ Provisions similar to those in this section were contained in section 115(b)(1)(
 
 #### Amendments
 
-2009—Pub. L. 111–84, §1109(b)(2)(B)(i), inserted “defense” before “manpower” in section catchline.
+<b>2009</b>—Pub. L. 111–84, §1109(b)(2)(B)(i), inserted “defense” before “manpower” in section catchline.
 
 Subsec. (a). Pub. L. 111–84, §1109(b)(2)(A), inserted “defense” before “manpower requirements report” in introductory provisions.
 
 Subsec. (f). Pub. L. 111–84, §1109(b)(1), added subsec. (f).
 
-1998—Subsec. (a). Pub. L. 105–261, in introductory provisions, struck out “, not later than February 15 of each fiscal year,” after “submit to Congress” and substituted “The report, which shall be in writing, shall be submitted each year not later than 45 days after the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31. The report” for “The report shall be in writing and”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–261, in introductory provisions, struck out “, not later than February 15 of each fiscal year,” after “submit to Congress” and substituted “The report, which shall be in writing, shall be submitted each year not later than 45 days after the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31. The report” for “The report shall be in writing and”.
 
-1997—Subsec. (h). Pub. L. 105–85, §522(i)(2)(A), inserted “(displayed in the aggregate and separately for military technicians (dual status) and non-dual status military technicians)” after “of the following” in introductory provisions.
+<b>1997</b>—Subsec. (h). Pub. L. 105–85, §522(i)(2)(A), inserted “(displayed in the aggregate and separately for military technicians (dual status) and non-dual status military technicians)” after “of the following” in introductory provisions.
 
 Subsec. (h)(3). Pub. L. 105–85, §522(i)(2)(B), struck out par. (3) which read as follows: “Within each of the numbers under paragraph (1), the numbers of military technicians who are not themselves members of a reserve component (so-called ‘single-status’ technicians), with a further display of such numbers as specified in paragraph (2).”
 
-1996—Subsec. (b)(2)(C). Pub. L. 104–106, §1061(d)(1), struck out subpar. (C) which read as follows: “Area of deployment and illustrative areas of potential deployment, including a description of any United States commitment to defend such areas.”
+<b>1996</b>—Subsec. (b)(2)(C). Pub. L. 104–106, §1061(d)(1), struck out subpar. (C) which read as follows: “Area of deployment and illustrative areas of potential deployment, including a description of any United States commitment to defend such areas.”
 
 Subsec. (d). Pub. L. 104–106, §1061(d)(3), redesignated subsec. (e) as (d) and struck out pars. (4) and (5) which read as follows:
 
@@ -144,7 +144,7 @@ Subsec. (g). Pub. L. 104–106, §1061(d)(5), redesignated subsec. (g) as (e).
 
 Subsec. (h). Pub. L. 104–106, §513(e), added subsec. (h).
 
-1991—Subsec. (d)(3). Pub. L. 102–190 inserted “provide” before “a comprehensive”.
+<b>1991</b>—Subsec. (d)(3). Pub. L. 102–190 inserted “provide” before “a comprehensive”.
 
 #### Assessment of Structure and Mix of Active and Reserve Forces
 

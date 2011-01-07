@@ -164,25 +164,25 @@ In subsection (i), the inclusion of the Coast Guard Reserve is based on the auth
 
 #### Amendments
 
-2002—Subsec. (i)(4)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (i)(4)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2001—Subsecs. (g)(1)(D), (h)(1)(D). Pub. L. 107–107 struck out “, if the site is outside reasonable commuting distance from the member's residence” before semicolon.
+<b>2001</b>—Subsecs. (g)(1)(D), (h)(1)(D). Pub. L. 107–107 struck out “, if the site is outside reasonable commuting distance from the member's residence” before semicolon.
 
-2000—Subsec. (g)(1)(E). Pub. L. 106–398, §1 \[\[div. A\], title VI, §665(a)(1)\], added subpar. (E).
+<b>2000</b>—Subsec. (g)(1)(E). Pub. L. 106–398, §1 \[\[div. A\], title VI, §665(a)(1)\], added subpar. (E).
 
 Subsec. (h)(1)(E). Pub. L. 106–398, §1 \[\[div. A\], title VI, §665(a)(2)\], added subpar. (E).
 
-1997—Subsecs. (g)(1)(D), (h)(1)(D). Pub. L. 105–85 inserted “while remaining overnight immediately before the commencement of inactive-duty training, or” after “in line of duty”.
+<b>1997</b>—Subsecs. (g)(1)(D), (h)(1)(D). Pub. L. 105–85 inserted “while remaining overnight immediately before the commencement of inactive-duty training, or” after “in line of duty”.
 
-1996—Subsec. (g)(1)(D). Pub. L. 104–106, §702(c)(1), added subpar. (D).
+<b>1996</b>—Subsec. (g)(1)(D). Pub. L. 104–106, §702(c)(1), added subpar. (D).
 
 Subsec. (h)(1)(D). Pub. L. 104–106, §702(c)(2), added subpar. (D).
 
-1994—Subsec. (a)(2). Pub. L. 103–337 substituted “10302, 10305, 10502, or 12402” for “3021, 3496, 3541, 8021, 8496, or 8541”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–337 substituted “10302, 10305, 10502, or 12402” for “3021, 3496, 3541, 8021, 8496, or 8541”.
 
-1991—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
-1988—Subsec. (g). Pub. L. 100–456, §631(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “A member of a reserve component of a uniformed service is entitled to the pay and allowances provided by law or regulation for a member of a regular component of a uniformed service of corresponding grade and length of service whenever such member—
+<b>1988</b>—Subsec. (g). Pub. L. 100–456, §631(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “A member of a reserve component of a uniformed service is entitled to the pay and allowances provided by law or regulation for a member of a regular component of a uniformed service of corresponding grade and length of service whenever such member—
 
 &emsp;“(1) is called or ordered to active duty for a period of more than 30 days; and
 
@@ -192,7 +192,7 @@ Subsec. (h). Pub. L. 100–456, §631(a), amended subsec. (h) generally, substit
 
 Subsecs. (i), (j). Pub. L. 100–456, §631(b), added subsec. (i) and redesignated former subsec. (i) as (j).
 
-1986—Subsec. (a)(2). Pub. L. 99–433 substituted “3021” and “8021” for “3033” and “8033”, respectively.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–433 substituted “3021” and “8021” for “3033” and “8033”, respectively.
 
 Subsec. (g). Pub. L. 99–661, §604(b)(1), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “A member of the Army or the Air Force (other than of the Regular Army or the Regular Air Force) is entitled to the pay and allowances provided by law or regulation for a member of the Regular Army or the Regular Air Force, as the case may be, of corresponding grade and length of service, whenever—
 
@@ -208,9 +208,9 @@ Subsec. (h). Pub. L. 99–661, §604(b)(1), amended subsec. (h) generally. Prior
 
 Subsecs. (i), (j). Pub. L. 99–661, §604(b)(2), (3), redesignated subsec. (j) as (i) and struck out former subsec. (i) which read as follows: “A member of the Naval Reserve, Fleet Reserve, Marine Corps Reserve, Fleet Marine Corps Reserve, or Coast Guard Reserve is entitled to the pay and allowances provided by law or regulation for a member of the Regular Navy, Regular Marine Corps, or Regular Coast Guard, as the case may be, of corresponding grade and length of service, under the same conditions as those described in clauses (1) and (2) of subsection (g) of this section.”
 
-1983—Subsec. (j). Pub. L. 98–94 added subsec. (j).
+<b>1983</b>—Subsec. (j). Pub. L. 98–94 added subsec. (j).
 
-1980—Subsec. (a). Pub. L. 96–513 substituted “The following persons” for “Except for members covered by section 202(i) of this title, the following persons”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “The following persons” for “Except for members covered by section 202(i) of this title, the following persons”.
 
 #### Effective Date of 2002 Amendment
 

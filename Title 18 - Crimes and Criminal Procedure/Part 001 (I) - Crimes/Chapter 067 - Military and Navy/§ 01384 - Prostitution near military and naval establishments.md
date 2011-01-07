@@ -38,9 +38,9 @@ This section \[section 35\] makes the following changes in section 1384 of title
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in first par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in first par.
 
-1949—Act May 24, 1949, made section applicable to the Air Force which was established as a separate department in 1947, headed by a Secretary.
+<b>1949</b>—Act May 24, 1949, made section applicable to the Air Force which was established as a separate department in 1947, headed by a Secretary.
 
 #### Transfer of Functions
 

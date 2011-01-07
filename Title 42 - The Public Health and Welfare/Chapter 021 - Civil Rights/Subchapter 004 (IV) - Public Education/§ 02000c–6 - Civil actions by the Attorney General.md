@@ -22,5 +22,5 @@ The term “parent” as used in this section includes any person standing in lo
 
 #### Amendments
 
-1972—Subsec. (a)(2). Pub. L. 92–318 inserted “sex” after “religion,”.
+<b>1972</b>—Subsec. (a)(2). Pub. L. 92–318 inserted “sex” after “religion,”.
 

@@ -4,7 +4,7 @@ If the Secretary determines, after consultation with the Director of NIH, the Co
 
 &emsp;(1) shall expedite the review by advisory councils under section 284a of this title and by peer review groups under section 289a of this title of applications for grants for research on such disease or disorder or proposals for contracts for such research;
 
-&emsp;(2) shall exercise the authority in section 5 of title 41 respecting public exigencies to waive the advertising requirements of such section in the case of proposals for contracts for such research;
+&emsp;(2) shall exercise the authority in section 6101 of title 41 respecting public exigencies to waive the advertising requirements of such section in the case of proposals for contracts for such research;
 
 &emsp;(3) may provide administrative supplemental increases in existing grants and contracts to support new research relevant to such disease or disorder; and
 
@@ -14,11 +14,15 @@ If the Secretary determines, after consultation with the Director of NIH, the Co
 
 (July 1, 1944, ch. 373, title IV, §494, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 875; amended Pub. L. 102–531, title III, §312(d)(9), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 109–482, title I, §104(b)(1)(P), Jan. 15, 2007, 120 Stat. 3693.)
 
+#### Codification
+
+In par. (2), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-2007—Pub. L. 109–482 struck out subsec. (a) designation before “If the Secretary” and subsec. (b) which read as follows: “Not later than 90 days after the end of a fiscal year, the Secretary shall report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate on actions taken under subsection (a) of this section in such fiscal year.”
+<b>2007</b>—Pub. L. 109–482 struck out subsec. (a) designation before “If the Secretary” and subsec. (b) which read as follows: “Not later than 90 days after the end of a fiscal year, the Secretary shall report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate on actions taken under subsection (a) of this section in such fiscal year.”
 
-1992—Subsec. (a). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
 #### Effective Date of 2007 Amendment
 

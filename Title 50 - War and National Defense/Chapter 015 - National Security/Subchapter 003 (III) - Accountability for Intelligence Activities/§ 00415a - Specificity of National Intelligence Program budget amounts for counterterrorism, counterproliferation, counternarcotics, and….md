@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The budget justification materials submitted to Congress in support of the budget of thePresident for a fiscal year that is submitted to Congress under section 1105(a) of title 31 shall set forth separately the aggregate amount requested for that fiscal year for the National Intelligence Program for each of the following:
+The budget justification materials submitted to Congress in support of the budget of the President for a fiscal year that is submitted to Congress under section 1105(a) of title 31 shall set forth separately the aggregate amount requested for that fiscal year for the National Intelligence Program for each of the following:
 
 &emsp;(1) Counterterrorism.
 
@@ -20,7 +20,7 @@ Amounts set forth under subsection (a) of this section may be set forth in uncla
 
 #### Amendments
 
-2004—Pub. L. 108–458, §1074(b)(1)(A)(ii), struck out “Foreign” before “Intelligence” in section catchline.
+<b>2004</b>—Pub. L. 108–458, §1074(b)(1)(A)(ii), struck out “Foreign” before “Intelligence” in section catchline.
 
 Subsec. (a). Pub. L. 108–458, §1074(b)(1)(A)(i), substituted “National Intelligence Program” for “National Foreign Intelligence Program”.
 

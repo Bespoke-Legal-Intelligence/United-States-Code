@@ -32,7 +32,7 @@ The Director of the Institute shall provide, in accordance with subsection (c) o
 
 #### (c) Cooperative agreements and grants for establishing and supporting; uses for Federal payments; period of support, additional periods
 
-(1) The Director of the Institute may enter into cooperative agreements with and makegrants to public or private nonprofit entities to pay all or part of the cost of planning, establishing, or strengthening, and providing basic operating support for centers for basic and clinical research into, training in, and demonstration of the management of blood resources and advanced diagnostic, prevention, and treatment methods for heart, blood vessel, lung, or blood diseases.
+(1) The Director of the Institute may enter into cooperative agreements with and make grants to public or private nonprofit entities to pay all or part of the cost of planning, establishing, or strengthening, and providing basic operating support for centers for basic and clinical research into, training in, and demonstration of the management of blood resources and advanced diagnostic, prevention, and treatment methods for heart, blood vessel, lung, or blood diseases.
 
 (2) A cooperative agreement or grant under paragraph (1) shall be entered into in accordance with policies established by the Director of NIH and after consultation with the Institute's advisory council.
 
@@ -54,9 +54,9 @@ The Director of the Institute shall provide, in accordance with subsection (c) o
 
 #### Amendments
 
-2002—Subsec. (c)(3). Pub. L. 107–206 substituted “Ruth L. Kirschstein National Research Service Awards” for “National Research Service Awards” in concluding provisions.
+<b>2002</b>—Subsec. (c)(3). Pub. L. 107–206 substituted “Ruth L. Kirschstein National Research Service Awards” for “National Research Service Awards” in concluding provisions.
 
-1993—Subsec. (a)(1)(D). Pub. L. 103–43 added subpar. (D).
+<b>1993</b>—Subsec. (a)(1)(D). Pub. L. 103–43 added subpar. (D).
 
-1988—Subsec. (a)(1)(A), (B). Pub. L. 100–607 inserted “and rehabilitation” after “prevention, and treatment”.
+<b>1988</b>—Subsec. (a)(1)(A), (B). Pub. L. 100–607 inserted “and rehabilitation” after “prevention, and treatment”.
 

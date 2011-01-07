@@ -66,7 +66,7 @@ Civil Penalty.—(1) If, after notice and an opportunity for a hearing, the Secr
 
 (4) The Attorney General shall bring a civil action in an appropriate district court of the United States to collect a penalty referred to the Attorney General for collection under this subsection.
 
-(5) The amount of the penalty may be deducted from amounts the Government owes the person. An amount collected under this sectionshall be deposited in the Highway Trust Fund (other than the Mass Transit Account).
+(5) The amount of the penalty may be deducted from amounts the Government owes the person. An amount collected under this section shall be deposited in the Highway Trust Fund (other than the Mass Transit Account).
 
 (e)
 
@@ -134,7 +134,7 @@ In subsection (e), before clause (1), the text of section 18(g) of the Bus Regul
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–244, §305(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability and property damage for the transportation of passengers by commercial motor vehicle in the United States between a place in a State and—
+<b>2008</b>—Subsec. (a). Pub. L. 110–244, §305(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability and property damage for the transportation of passengers by commercial motor vehicle in the United States between a place in a State and—
 
 &emsp;“(1) a place in another State;
 
@@ -144,15 +144,15 @@ In subsection (e), before clause (1), the text of section 18(g) of the Bus Regul
 
 Subsec. (c)(4). Pub. L. 110–244, §305(a)(2), struck out “commercial” before “motor vehicle” in two places.
 
-2005—Subsec. (a). Pub. L. 109–59, §4120(a)(1), struck out “for compensation” after “passengers” and inserted “commercial” before “motor vehicle” in introductory provisions.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §4120(a)(1), struck out “for compensation” after “passengers” and inserted “commercial” before “motor vehicle” in introductory provisions.
 
 Subsec. (c)(4). Pub. L. 109–59, §4120(a)(2), added par. (4).
 
 Subsec. (d)(5). Pub. L. 109–59, §4121, substituted “Highway Trust Fund (other than the Mass Transit Account)” for “Treasury as miscellaneous receipts”.
 
-2002—Subsec. (e)(2). Pub. L. 107–298 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “providing taxicab service, having a seating capacity of not more than 6 passengers, and not being operated on a regular route or between specified places;”.
+<b>2002</b>—Subsec. (e)(2). Pub. L. 107–298 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “providing taxicab service, having a seating capacity of not more than 6 passengers, and not being operated on a regular route or between specified places;”.
 
-1995—Subsec. (c)(3). Pub. L. 104–88, §104(c), added par. (3).
+<b>1995</b>—Subsec. (c)(3). Pub. L. 104–88, §104(c), added par. (3).
 
 Subsec. (e)(4). Pub. L. 104–88, §104(d), added par. (4).
 

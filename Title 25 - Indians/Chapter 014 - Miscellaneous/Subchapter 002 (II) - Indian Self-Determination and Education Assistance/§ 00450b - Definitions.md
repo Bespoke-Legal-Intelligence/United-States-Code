@@ -48,11 +48,11 @@ Section 450j(a) of this title, referred to in subsec. (j), was repealed and a ne
 
 #### Amendments
 
-1994—Subsec. (g). Pub. L. 103–413, §102(1)(A), substituted “indirect cost rate” for “indirect costs rate”.
+<b>1994</b>—Subsec. (g). Pub. L. 103–413, §102(1)(A), substituted “indirect cost rate” for “indirect costs rate”.
 
 Subsec. (m). Pub. L. 103–413, §102(1)(B)–(D), added subsec. (m).
 
-1990—Subsec. (e). Pub. L. 101–301, §2(a)(1), inserted a comma before “which is recognized”.
+<b>1990</b>—Subsec. (e). Pub. L. 101–301, §2(a)(1), inserted a comma before “which is recognized”.
 
 Subsec. (h). Pub. L. 101–644, §202(1), struck out “in existence on October 5, 1988,” before “which meets this definition”.
 
@@ -60,7 +60,7 @@ Subsec. (j). Pub. L. 101–644, §202(2), substituted “contract (or grant or c
 
 Pub. L. 101–301, §2(a)(2), (3), substituted “under this subchapter” for “pursuant to this Act” in two places and struck out “the” before “Secretary”.
 
-1988—Pub. L. 100–472 amended section generally, substituting subsecs. (a) to (<i>l</i>) for former subsecs. (a) to (d) and (f) which defined “Indian”, “Indian tribe”, “Tribal organization”, “Secretary”, and “State education agency”.
+<b>1988</b>—Pub. L. 100–472 amended section generally, substituting subsecs. (a) to (<i>l</i>) for former subsecs. (a) to (d) and (f) which defined “Indian”, “Indian tribe”, “Tribal organization”, “Secretary”, and “State education agency”.
 
 Subsec. (h). Pub. L. 100–581, §208(a)(1), substituted “by a tribal organization” for “by tribal organization”.
 

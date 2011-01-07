@@ -4,7 +4,7 @@
 
 The Administrator, in consultation with the Secretary of Education, may provide grants to States for use in—
 
-&emsp;(1) providing technical assistance for programs of the Environmental Protection Agency (including the Tools for Schools Programand the Healthy School Environmental Assessment Tool) to schools for use in addressing environmental issues; and
+&emsp;(1) providing technical assistance for programs of the Environmental Protection Agency (including the Tools for Schools Program and the Healthy School Environmental Assessment Tool) to schools for use in addressing environmental issues; and
 
 &emsp;(2) development and implementation of State school environmental health programs that include—
 

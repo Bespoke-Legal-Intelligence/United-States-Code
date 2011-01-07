@@ -22,7 +22,3 @@ Where the same lands are being utilized for mining operations and Leasing Act op
 
 (Aug. 13, 1954, ch. 730, §6, 68 Stat. 710.)
 
-#### References in Text
-
-For definitions of “Leasing Act operations”, referred to in subsecs. (a) to (c) and (e); “Leasing Act minerals”, referred to in subsecs. (b) and (c); and “Leasing Act operator”, referred to in subsec. (d), see section 530 of this title.
-

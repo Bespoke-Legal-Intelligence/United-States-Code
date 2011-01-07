@@ -10,7 +10,7 @@ A prior section 8 of act May 10, 1950, which was classified to section 1867 of t
 
 #### Amendments
 
-1968—Pub. L. 90–407, §6, substituted provisions that there be within the Foundation such divisions as the Director, in consultation with the Board, may from time to time determine for provisions that, unless otherwise provided by the Board, there be within the Foundation a Division of Medical Research, a Division of Mathematical, Physical, and Engineering Sciences, a Division of Biological Sciences, a Division of Scientific Personnel and Education, and such other divisions as the Board deems necessary.
+<b>1968</b>—Pub. L. 90–407, §6, substituted provisions that there be within the Foundation such divisions as the Director, in consultation with the Board, may from time to time determine for provisions that, unless otherwise provided by the Board, there be within the Foundation a Division of Medical Research, a Division of Mathematical, Physical, and Engineering Sciences, a Division of Biological Sciences, a Division of Scientific Personnel and Education, and such other divisions as the Board deems necessary.
 
 #### Consolidation of Directorates
 

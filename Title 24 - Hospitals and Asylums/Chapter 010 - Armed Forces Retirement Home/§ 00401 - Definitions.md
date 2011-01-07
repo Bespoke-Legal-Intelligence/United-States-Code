@@ -12,7 +12,7 @@ For purposes of this chapter:
 
 &emsp;(3) The terms “Armed Forces Retirement Home Trust Fund” and “Fund” mean the Armed Forces Retirement Home Trust Fund established under section 419(a) of this title.
 
-&emsp;(4) The term “Armed Forces” does not include the Coast Guard when it is not operating as a service in the Navy.
+&emsp;(4) Repealed. Pub. L. 111–281, title II, §205(a)(1), Oct. 15, 2010, 124 Stat. 2911.
 
 &emsp;(5) The term “chief personnel officers” means—
 
@@ -20,9 +20,11 @@ For purposes of this chapter:
 
 &emsp;&emsp;(B) the Chief of Naval Personnel;
 
-&emsp;&emsp;(C) the Deputy Chief of Staff for Personnel of the Air Force; and
+&emsp;&emsp;(C) the Deputy Chief of Staff for Personnel of the Air Force;
 
-&emsp;&emsp;(D) the Deputy Commandant of the Marine Corps for Manpower and Reserve Affairs.
+&emsp;&emsp;(D) the Deputy Commandant of the Marine Corps for Manpower and Reserve Affairs; and
+
+&emsp;&emsp;(E) the Assistant Commandant of the Coast Guard for Human Resources.
 
 &emsp;(6) The term “senior noncommissioned officers” means the following:
 
@@ -34,7 +36,9 @@ For purposes of this chapter:
 
 &emsp;&emsp;(D) The Sergeant Major of the Marine Corps.
 
-(Pub. L. 101–510, div. A, title XV, §1502, Nov. 5, 1990, 104 Stat. 1722; Pub. L. 106–398, §1 \[\[div. A\], title IX, §902(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–107, div. A, title XIV, §1402, Dec. 28, 2001, 115 Stat. 1257.)
+&emsp;&emsp;(E) The Master Chief Petty Officer of the Coast Guard.
+
+(Pub. L. 101–510, div. A, title XV, §1502, Nov. 5, 1990, 104 Stat. 1722; Pub. L. 106–398, §1 \[\[div. A\], title IX, §902(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–107, div. A, title XIV, §1402, Dec. 28, 2001, 115 Stat. 1257; Pub. L. 111–281, title II, §205(a), Oct. 15, 2010, 124 Stat. 2911.)
 
 #### References in Text
 
@@ -42,7 +46,13 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 #### Amendments
 
-2001—Pars. (1) to (3). Pub. L. 107–107, §1402(1), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
+<b>2010</b>—Par. (4). Pub. L. 111–281, §205(a)(1), struck out par. (4) which read as follows: “The term ‘Armed Forces’ does not include the Coast Guard when it is not operating as a service in the Navy.”
+
+Par. (5)(E). Pub. L. 111–281, §205(a)(2), added subpar. (E).
+
+Par. (6)(E). Pub. L. 111–281, §205(a)(3), added subpar. (E).
+
+<b>2001</b>—Pars. (1) to (3). Pub. L. 107–107, §1402(1), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
 
 “(1) The term ‘Retirement Home’ means the Armed Forces Retirement Home established under section 411(a) of this title.
 
@@ -60,11 +70,11 @@ Par. (5)(D). Pub. L. 107–107, §1402(3)(B), substituted “for Manpower and Re
 
 Pars. (6) to (8). Pub. L. 107–107, §1402(2), redesignated pars. (6) to (8) as (4) to (6), respectively.
 
-2000—Par. (7)(D). Pub. L. 106–398 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “the Deputy Chief of Staff for Manpower of the Marine Corps.”
+<b>2000</b>—Par. (7)(D). Pub. L. 106–398 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “the Deputy Chief of Staff for Manpower of the Marine Corps.”
 
 #### Effective Date
 
-Pub. L. 101–510, div. A, title XV, §1541, Nov. 5, 1990, 104 Stat. 1736, as amended by Pub. L. 103–160, div. A, title III, §366(f), Nov. 30, 1993, 107 Stat. 1632, which provided that title XV of Pub. L. 101–510 (see Short Title note below) and the amendments made by such title were effective one year after Nov. 5, 1990, except that sections 1519, 1531, and 1533(c)(1) of the Act (enacting sections 419 and 431 of this title and amending section 1321 of Title 31, Money and Finance) were effective Nov. 5, 1990, provisions of section 1515 of the Act (enacting section 415 of this title) relating to the appointment and designation of members of the Retirement Home Board and Local Boards were effective Oct. 1, 1991, and section 1520 of the Act (enacting section 420 of this title) was applicable to the estate of each resident of the Armed Forces Retirement Home who dies after Nov. 29, 1989, was repealed by Pub. L. 107–107, div. A, title XIV, §1410(b)(3), Dec. 28, 2001, 115 Stat. 1266.
+Pub. L. 101–510, div. A, title XV, §1541, Nov. 5, 1990, 104 Stat. 1736, as amended by Pub. L. 103–160, div. A, title III, §366(f), Nov. 30, 1993, 107 Stat. 1632, which provided that title XV of Pub. L. 101–510 (see Short Title note below) and the amendments made by such title were effective one year after Nov. 5, 1990, except that sections 1519, 1531, and 1533(c)(1) of the Act (enacting sections 419 and 431 of this title and amending section 1321 of Title 31, Money and Finance) were effective Nov. 5, 1990, provisions of section 1515 of the Act (enacting section 415 of this title) relating to the appointment and designation of members of the Retirement Home Board and Local Boards were effective Oct. 1, 1991, and section 1520 of the Act (enacting section 420 of this title) wasapplicable to the estate of each resident of the Armed Forces Retirement Home who dies after Nov. 29, 1989, was repealed by Pub. L. 107–107, div. A, title XIV, §1410(b)(3), Dec. 28, 2001, 115 Stat. 1266.
 
 #### Short Title
 

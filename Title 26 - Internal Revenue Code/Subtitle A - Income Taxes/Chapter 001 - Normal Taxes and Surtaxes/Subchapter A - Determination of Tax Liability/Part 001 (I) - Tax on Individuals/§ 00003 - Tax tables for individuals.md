@@ -44,7 +44,7 @@ Whenever it is necessary to determine the taxable income of an individual to who
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–514, §102(b), substituted subsec. (a) for former subsec. (a) which read as follows:
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §102(b), substituted subsec. (a) for former subsec. (a) which read as follows:
 
 &emsp;“(1)
 
@@ -76,7 +76,7 @@ Section may be applied on the basis of taxable income.—The Secretary may provi
 
 Subsec. (b). Pub. L. 99–514, §141(b)(1), struck out par. (1) which read: “an individual to whom section 1301 (relating to income averaging) applies for the taxable year,” and redesignated pars. (2) and (3) as (1) and (2), respectively.
 
-1981—Subsec. (a)(1). Pub. L. 97–34, §101(b)(2)(B), inserted “and which shall be in such form as he determines appropriate” after “Secretary”.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–34, §101(b)(2)(B), inserted “and which shall be in such form as he determines appropriate” after “Secretary”.
 
 Subsec. (a)(4)(A). Pub. L. 97–34, §121(c)(3), substituted “reduced by the sum of (i) the excess itemized deductions, and (ii) the direct charitable deduction” for “reduced by the excess itemized deductions”.
 
@@ -84,23 +84,23 @@ Subsec. (a)(5). Pub. L. 97–34, §101(b)(2)(C), added par. (5).
 
 Subsec. (b)(1). Pub. L. 97–34, §101(c)(2)(A), substituted “an individual to whom section 1301 (relating to income averaging) applies for the taxable year” for “an individual to whom (A) section 1301 (relating to income averaging), or (B) section 1348 (relating to maximum rate on personal service income), applies for the taxable year”.
 
-1980—Subsec. (b)(1). Pub. L. 96–222 redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which made reference to section 911 (relating to earned income from sources without the United States).
+<b>1980</b>—Subsec. (b)(1). Pub. L. 96–222 redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which made reference to section 911 (relating to earned income from sources without the United States).
 
-1978—Subsec. (b)(1). Pub. L. 95–600 struck out subpar. (B) which related to the alternative capital gains tax under section 1201 of this title, and redesignated subpars. (C) and (D) as (B) and (C), respectively.
+<b>1978</b>—Subsec. (b)(1). Pub. L. 95–600 struck out subpar. (B) which related to the alternative capital gains tax under section 1201 of this title, and redesignated subpars. (C) and (D) as (B) and (C), respectively.
 
-1977—Pub. L. 95–30 struck out “having taxable income of less than $20,000” after “individuals” in section catchline.
+<b>1977</b>—Pub. L. 95–30 struck out “having taxable income of less than $20,000” after “individuals” in section catchline.
 
 Subsec. (a). Pub. L. 95–30 designated existing provisions as par. (1), substituted “tax table income” for “taxable income” and “does not exceed the ceiling amount” for “does not exceed $20,000”, and added pars. (2) to (4).
 
 Subsecs. (b) to (e). Pub. L. 95–30 added subsec. (b), redesignated former subsec. (b) as (c), and added subsecs. (d) and (e).
 
-1976—Pub. L. 94–455 designated existing provisions as subsec. (a), substituted provision relating to taxable income for such year does not exceed $20,000 for provision relating to adjusted gross income for such year is less than $15,000 and who has elected for such year to pay the tax imposed by this section, struck out “or his delegate” after “Secretary”, “beginning after Dec. 31, 1969” after “each taxable year”, struck out provision requiring computation of taxable income by using standard deduction, and added subsec. (b).
+<b>1976</b>—Pub. L. 94–455 designated existing provisions as subsec. (a), substituted provision relating to taxable income for such year does not exceed $20,000 for provision relating to adjusted gross income for such year is less than $15,000 and who has elected for such year to pay the tax imposed by this section, struck out “or his delegate” after “Secretary”, “beginning after Dec. 31, 1969” after “each taxable year”, struck out provision requiring computation of taxable income by using standard deduction, and added subsec. (b).
 
-1975—Pub. L. 94–12 substituted “$15,000” for “$10,000”.
+<b>1975</b>—Pub. L. 94–12 substituted “$15,000” for “$10,000”.
 
-1969—Pub. L. 91–172 raised the individual gross income limit of $5,000 to $10,000 for exercising the option and substituted provision that the tax has to be determined under tables to be prescribed by the Secretary or his delegate for tables of tax rates for single persons, heads of household, married persons filing joint returns, married persons filing separate returns with 10 per cent standard deduction and married persons filing separate returns with minimum standard deduction.
+<b>1969</b>—Pub. L. 91–172 raised the individual gross income limit of $5,000 to $10,000 for exercising the option and substituted provision that the tax has to be determined under tables to be prescribed by the Secretary or his delegate for tables of tax rates for single persons, heads of household, married persons filing joint returns, married persons filing separate returns with 10 per cent standard deduction and married persons filing separate returns with minimum standard deduction.
 
-1964—Pub. L. 88–272 substituted optional tax tables covering five categories for taxable years beginning on or after Jan. 1, 1964, and before Jan. 1, 1965, and for years beginning after Dec. 31, 1964, for a single general table.
+<b>1964</b>—Pub. L. 88–272 substituted optional tax tables covering five categories for taxable years beginning on or after Jan. 1, 1964, and before Jan. 1, 1965, and for years beginning after Dec. 31, 1964, for a single general table.
 
 #### Effective Date of 1986 Amendment
 
@@ -118,7 +118,7 @@ Section 108(a)(2) of Pub. L. 96–222 provided that:
 
 “(A)
 
-In general.—Except as provided in subparagraph (B), the amendments made by paragraph (1)\[amending this section and sections 119, 911, and 913 of this title\] shall take effect as if included in the Foreign Earned Income Act of 1978 \[Pub. L. 95–615\].
+In general.—Except as provided in subparagraph (B), the amendments made by paragraph (1) \[amending this section and sections 119, 911, and 913 of this title\] shall take effect as if included in the Foreign Earned Income Act of 1978 \[Pub. L. 95–615\].
 
 “(B)
 

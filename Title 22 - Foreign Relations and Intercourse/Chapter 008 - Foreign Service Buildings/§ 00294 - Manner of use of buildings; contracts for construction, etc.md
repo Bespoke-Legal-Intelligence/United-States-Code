@@ -10,7 +10,7 @@ Buildings and grounds acquired under this chapter or prior to May 7, 1926, acqui
 
 #### Amendments
 
-1991—Pub. L. 102–138 inserted “purchases of buildings, for leases, and for” after “contracts for”.
+<b>1991</b>—Pub. L. 102–138 inserted “purchases of buildings, for leases, and for” after “contracts for”.
 
-1963—Pub. L. 88–94 struck out “, subject to the direction of the commission,” before “be used” and “in the judgment of the commission,” after “where necessary,” and inserted “and without regard to section 529 of title 31”.
+<b>1963</b>—Pub. L. 88–94 struck out “, subject to the direction of the commission,” before “be used” and “in the judgment of the commission,” after “where necessary,” and inserted “and without regard to section 529 of title 31”.
 

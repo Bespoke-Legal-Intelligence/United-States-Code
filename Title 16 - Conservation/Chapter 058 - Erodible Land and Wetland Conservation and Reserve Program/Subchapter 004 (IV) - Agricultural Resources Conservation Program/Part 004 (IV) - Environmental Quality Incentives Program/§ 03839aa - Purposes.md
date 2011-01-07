@@ -34,7 +34,7 @@ A prior section 3839aa, Pub. L. 99–198, title XII, §1240, as added Pub. L. 10
 
 #### Amendments
 
-2008—Pub. L. 110–246, §2501(a)(1), inserted “, forest management,” after “agricultural production” in introductory provisions.
+<b>2008</b>—Pub. L. 110–246, §2501(a)(1), inserted “, forest management,” after “agricultural production” in introductory provisions.
 
 Pars. (3), (4). Pub. L. 110–246, §2501(a)(2), added pars. (3) and (4) and struck out former pars. (3) and (4) which read as follows:
 

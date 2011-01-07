@@ -10,7 +10,7 @@ For the purpose of developing or assisting in the development, administration, a
 
 &emsp;(1) the regulatory authority shall require any permittee to (A) establish and maintain appropriate records, (B) make monthly reports to the regulatory authority, (C) install, use, and maintain any necessary monitoring equipment or methods, (D) evaluate results in accordance with such methods, at such locations, intervals, and in such manner as a regulatory authority shall prescribe, and (E) provide such other information relative to surface coal mining and reclamation operations as the regulatory authority deems reasonable and necessary;
 
-&emsp;(2) for those surface coal mining and reclamation operations which remove or disturb strata that serve as aquifers which significantly insure the hydrologic balance of water use either on or off the mining site, the regulatory authority shall specify those—
+&emsp;(2) for those surface coal mining and reclamation operations which remove or disturbstrata that serve as aquifers which significantly insure the hydrologic balance of water use either on or off the mining site, the regulatory authority shall specify those—
 
 &emsp;&emsp;(A) monitoring sites to record the quantity and quality of surface drainage above and below the minesite as well as in the potential zone of influence;
 
@@ -46,7 +46,7 @@ No employee of the State regulatory authority performing any function or duty un
 
 #### (h) Review; procedures for inspections
 
-(1) Any person who is or may be adversely affected by a surface mining operation may notifythe Secretary or any representative of the Secretary responsible for conducting the inspection, in writing, of any violation of this chapter which he has reason to believe exists at the surface mining site. The Secretary shall, by regulation, establish procedures for informal review of any refusal by a representative of the Secretary to issue a citation with respect to any such alleged violation. The Secretary shall furnish such persons requesting the review a written statement of the reasons for the Secretary's final disposition of the case.
+(1) Any person who is or may be adversely affected by a surface mining operation may notify the Secretary or any representative of the Secretary responsible for conducting the inspection, in writing, of any violation of this chapter which he has reason to believe exists at the surface mining site. The Secretary shall, by regulation, establish procedures for informal review of any refusal by a representative of the Secretary to issue a citation with respect to any such alleged violation. The Secretary shall furnish such persons requesting the review a written statement of the reasons for the Secretary's final disposition of the case.
 
 (2) The Secretary shall also, by regulation, establish procedures to insure that adequate and complete inspections are made. Any such person may notify the Secretary of any failure to make such inspections, after which the Secretary shall determine whether adequate and complete inspections have been made. The Secretary shall furnish such persons a written statement of the reasons for the Secretary's determination that adequate and complete inspections have or have not been conducted.
 

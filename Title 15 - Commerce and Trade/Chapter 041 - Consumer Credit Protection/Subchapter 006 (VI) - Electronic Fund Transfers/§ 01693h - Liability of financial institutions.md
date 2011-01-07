@@ -36,11 +36,19 @@ In the case of a failure described in subsection (a) of this section which was n
 
 If the notice required to be posted pursuant to section 1693b(d)(3)(B)(i) of this title by an automated teller machine operator has been posted by such operator in compliance with such section and the notice is subsequently removed, damaged, or altered by any person other than the operator of the automated teller machine, the operator shall have no liability under this section for failure to comply with section 1693b(d)(3)(B)(i) of this title.
 
-(Pub. L. 90–321, title IX, §910, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3735; amended Pub. L. 106–102, title VII, §705, Nov. 12, 1999, 113 Stat. 1465.)
+(Pub. L. 90–321, title IX, §910, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3735; amended Pub. L. 106–102, title VII, §705, Nov. 12, 1999, 113 Stat. 1465; Pub. L. 111–203, title X, §1084(1), July 21, 2010, 124 Stat. 2081.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1084(1), 1100H, July 21, 2010, 124 Stat. 2081, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-1999—Subsec. (d). Pub. L. 106–102 added subsec. (d).
+<b>1999</b>—Subsec. (d). Pub. L. 106–102 added subsec. (d).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “financial”.</i>
 

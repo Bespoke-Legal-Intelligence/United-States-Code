@@ -22,7 +22,7 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this A
 
 #### Amendments
 
-1968—Subsec. (c). Pub. L. 90–496 added subsec. (c).
+<b>1968</b>—Subsec. (c). Pub. L. 90–496 added subsec. (c).
 
 #### Effective Date of 1968 Amendment
 
@@ -46,7 +46,7 @@ Section 1 of act July 22, 1954, provided that: “This Act \[enacting this chapt
 
 #### Separability
 
-Section 36 of act July 22, 1954, provided: “If any clause, sentence, paragraph, or part of this Act \[see Short Title note above\], or the application thereof to any person, or circumstances, is held invalid, the application thereof to other persons, or circumstances, and the remainder of the Act, shall not be affected thereby.”
+Section 36 of act July 22, 1954, provided: “If any clause, sentence, paragraph, or part of this Act \[seeShort Title note above\], or the application thereof to any person, or circumstances, is held invalid, the application thereof to other persons, or circumstances, and the remainder of the Act, shall not be affected thereby.”
 
 #### Congressional Approval of Proposed Constitution for United States Virgin Islands
 

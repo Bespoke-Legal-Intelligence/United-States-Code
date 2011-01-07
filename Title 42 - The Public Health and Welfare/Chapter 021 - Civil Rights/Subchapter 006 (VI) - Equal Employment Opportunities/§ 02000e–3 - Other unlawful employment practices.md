@@ -12,7 +12,7 @@ It shall be an unlawful employment practice for an employer, labor organization,
 
 #### Amendments
 
-1972—Subsec. (a). Pub. L. 92–261, §8(c)(1), inserted provision making it an unlawful employment practice for a joint labor-management committee controlling apprenticeship or other training or retraining, including on-the-job training programs, to discriminate against the specified individuals.
+<b>1972</b>—Subsec. (a). Pub. L. 92–261, §8(c)(1), inserted provision making it an unlawful employment practice for a joint labor-management committee controlling apprenticeship or other training or retraining, including on-the-job training programs, to discriminate against the specified individuals.
 
 Subsec. (b). Pub. L. 92–261, §8(c)(2), inserted provisions making prohibitions applicable to joint labor-management committees controlling apprenticeship or other training or retraining, including on-the-job training programs, and notices or advertisements of such joint labor-management committees relating to admission to, or employment in, any program established to provide apprenticeship or other training.
 

@@ -38,7 +38,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;To the maximum extent appropriate and consistent with the requirements of this part, for purposes of determining the eligibility of an individual for vocational rehabilitation services under this subchapter anddeveloping the individualized plan for employment described in subsection (b) of this section for the individual, the designated State unit shall use information that is existing and current (as of the date of the determination of eligibility or of the development of the individualized plan for employment), including information available from other programs and providers, particularly information used by education officials and the Social Security Administration, information provided by the individual and the family of the individual, and information obtained under the assessment for determining eligibility and vocational rehabilitation needs.
+&emsp;&emsp;To the maximum extent appropriate and consistent with the requirements of this part, for purposes of determining the eligibility of an individual for vocational rehabilitation services under this subchapter and developing the individualized plan for employment described in subsection (b) of this section for the individual, the designated State unit shall use information that is existing and current (as of the date of the determination of eligibility or of the development of the individualized plan for employment), including information available from other programs and providers, particularly information used by education officials and the Social Security Administration, information provided by the individual and the family of the individual, and information obtained under the assessment for determining eligibility and vocational rehabilitation needs.
 
 #### (B) Determinations by officials of other agencies
 
@@ -246,7 +246,7 @@
 
 #### (G) Confidentiality
 
-&emsp;&emsp;Discussions that occur during the mediation process shall be confidential and may not be used as evidence in any subsequent due process hearing or civil proceeding. The parties to the mediation process may be required to sign a confidentiality pledge prior to the commencement of such process.
+&emsp;&emsp;Discussions that occur during the mediation process shall be confidential and maynot be used as evidence in any subsequent due process hearing or civil proceeding. The parties to the mediation process may be required to sign a confidentiality pledge prior to the commencement of such process.
 
 #### (H) Construction
 
@@ -318,7 +318,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any party aggrieved by a final decision described in subparagraph (I), may bring a civil action for review of such decision. The action may be brought in any State court of competent jurisdiction or in a district court of the United States of competent jurisdiction without regard to the amount in controversy.
+&emsp;&emsp;&emsp;Any party aggrieved by a final decision described in subparagraph (I), may bring a civil action for review of such decision. The action may be brought in any Statecourt of competent jurisdiction or in a district court of the United States of competent jurisdiction without regard to the amount in controversy.
 
 #### (ii) Procedure
 
@@ -410,5 +410,5 @@ A prior section 722, Pub. L. 93–112, title I, §102, Sept. 26, 1973, 87 Stat. 
 
 #### Amendments
 
-1998—Subsec. (c)(5)(F)(iv). Pub. L. 105–277 added cl. (iv).
+<b>1998</b>—Subsec. (c)(5)(F)(iv). Pub. L. 105–277 added cl. (iv).
 

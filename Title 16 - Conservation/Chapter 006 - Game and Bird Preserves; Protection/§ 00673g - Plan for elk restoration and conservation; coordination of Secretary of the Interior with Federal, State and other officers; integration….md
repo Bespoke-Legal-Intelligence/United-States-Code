@@ -10,5 +10,5 @@ A prior section 3 of Pub. L. 94–389 was classified to section 673f of this tit
 
 #### Amendments
 
-1982—Pub. L. 97–375 struck out requirement that the Secretary's annual report to Congress describe the development and implementation of the plan.
+<b>1982</b>—Pub. L. 97–375 struck out requirement that the Secretary's annual report to Congress describe the development and implementation of the plan.
 

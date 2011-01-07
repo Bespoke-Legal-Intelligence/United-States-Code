@@ -14,7 +14,7 @@ Words “with the National Youth Administration” were omitted from text in vie
 
 #### Amendments
 
-1973—Pub. L. 93–198 inserted provision that “State” includes the District of Columbia.
+<b>1973</b>—Pub. L. 93–198 inserted provision that “State” includes the District of Columbia.
 
 #### Effective Date of 1973 Amendment
 

@@ -38,11 +38,11 @@ June 25, 1938, ch. 690, §206 (less 2d through 5th provisos), 52 Stat. 1179; Apr
 
 July 9, 1952, ch. 608, §803 (3d sentence), 66 Stat. 505.
 
-In subsection (a) the words “A member of the Fleet Reserve or the Fleet Marine Corps Reserve” are substituted for the words “That men so transferred to the Fleet Reserve or other provision of law” for clarity. It is clear from the legislative history of the Armed Forces Reserve Act of 1952 that the amendment to the second proviso of 34 U.S.C. 854d made by that Act was intended to cover all members of the Fleet Reserve and Fleet Marine Corps Reserve.
+In subsection (a) the words “A member of the Fleet Reserve or the Fleet Marine Corps Reserve” are substituted for the words “That men so transferred to the Fleet Reserve \* \* \* or other provision of law” for clarity. It is clear from the legislative history of the Armed Forces Reserve Act of 1952 that the amendment to the second proviso of 34 U.S.C. 854d made by that Act was intended to cover all members of the Fleet Reserve and Fleet Marine Corps Reserve.
 
-In subsection (b) the word “enlisted” is omitted as surplusage since only enlisted members may transfer to the Fleet Reserve and Fleet Marine Corps Reserve. The words “after 16 years’ or more service” are omitted as surplusage since all the members of the Fleet Reserve and Fleet Marine Corps Reserve are in that category. The words “If any member fails to report for the physical examination” are substituted for the words “upon failure of such member to report for inspection” to reflect the true meaning of the section. The words “Under such conditions as may be prescribed by the Secretary of the Navy” are omitted as unnecessary since the authority to order a forfeiture is entirely within the Secretary's discretion.
+In subsection (b) the word “enlisted” is omitted as surplusage since only enlisted members may transfer to the Fleet Reserve and Fleet Marine Corps Reserve. The words “after 16 years’ or more service” are omitted as surplusage since all the members of the Fleet Reserve and Fleet Marine Corps Reserve are in that category. The words “If any member fails to report for the physical examination” are substituted for the words “upon failure \* \* \* of such member to report for inspection” to reflect the true meaning of the section. The words “Under such conditions as may be prescribed by the Secretary of the Navy” are omitted as unnecessary since the authority to order a forfeiture is entirely within the Secretary's discretion.
 
 #### Amendments
 
-1977—Subsec. (b). Pub. L. 95–79 struck out requirements relating to physical examinations for members of the Fleet Reserve and Fleet Marine Corps Reserve.
+<b>1977</b>—Subsec. (b). Pub. L. 95–79 struck out requirements relating to physical examinations for members of the Fleet Reserve and Fleet Marine Corps Reserve.
 

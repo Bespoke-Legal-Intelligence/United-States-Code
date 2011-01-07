@@ -132,7 +132,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Subsec. (b)(5). Pub. L. 110–246, §4133, added par. (5).
 
-2002—Subsec. (a). Pub. L. 107–171, inserted subsec. (a) heading, redesignated par. (2) as (4) and inserted heading, designated existing provisions of par. (1) as pars. (1) to (3) and inserted headings, in par. (1) substituted “Except in the case of an at-risk amount required under section 2025(c)(1)(D)(i)(III) of this title, the Secretary” for “The Secretary” and struck out “In determining whether to settle, adjust, compromise, or waivea claim arising against a State agency pursuant to section 2025(c) of this title, the Secretary shall review a State agency's plans for new dollar investment in activities to improve program administration in order to reduce payment error, and shall take the State agency's plans for new dollar investment in such activities into consideration as the Secretary considers appropriate.” after “section 2023 of this title.”, and in par. (2) substituted “claim established under section 2025(c)(1) of this title” for “claim established under section 2025(c)(1)(C) of this title”.
+2002—Subsec. (a). Pub. L. 107–171, inserted subsec. (a) heading, redesignated par. (2) as (4) and inserted heading, designated existing provisions of par. (1) as pars. (1) to (3) and inserted headings, in par. (1) substituted “Except in the case of an at-risk amount required under section 2025(c)(1)(D)(i)(III) of this title, the Secretary” for “The Secretary” and struck out “In determining whether to settle, adjust, compromise, or waive a claim arising against a State agency pursuant to section 2025(c) of this title, the Secretary shall review a State agency's plans for new dollar investment in activities to improve program administration in order to reduce payment error, and shall take the State agency's plans for new dollar investment in such activities into consideration as the Secretary considers appropriate.” after “section 2023 of this title.”, and in par. (2) substituted “claim established under section 2025(c)(1) of this title” for “claim established under section 2025(c)(1)(C) of this title”.
 
 1996—Subsec. (b). Pub. L. 104–193, §844(a)(1), added subsec. (b) and struck out former subsec. (b) which provided for reduction of allotment for households with ineligible individuals and collection by State agencies of claims against households arising from overissuance of coupons.
 
@@ -166,7 +166,7 @@ Subsec. (b)(2). Pub. L. 97–253, §177(b), redesignated existing provisions, wh
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set outas an Effective Date note under section 8701 of this title.
 
 Amendment by sections 4115(b)(9) and 4133 of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

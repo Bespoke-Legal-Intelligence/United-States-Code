@@ -40,7 +40,7 @@ In connection with conducting the review required by subsection (a), the Board s
 
 #### (2) Revision of review period following material revision of regulations
 
-&emsp;In the event that the Board materially revises regulations on consumer credit card plans, a review need not be conducted until 2 years after the effective date of the revised regulations, which thereafter shall be treated as the new date for the biennial review required by subsection (a).
+&emsp;In the event that the Board materially revises regulations on consumer credit cardplans, a review need not be conducted until 2 years after the effective date of the revised regulations, which thereafter shall be treated as the new date for the biennial review required by subsection (a).
 
 #### (d) Board report to the Congress
 
@@ -72,7 +72,7 @@ Section was enacted as part of the Credit Card Accountability Responsibility and
 
 Section effective 9 months after May 22, 2009, except as otherwise specifically provided, see section 3 of Pub. L. 111–24, set out as an Effective Date of 2009 Amendment note under section 1602 of this title.
 
-#### Definitions
+#### Definition
 
 For definition of “Board”, see section 2 of Pub. L. 111–24, set out as a Regulations note under section 1602 of this title.
 

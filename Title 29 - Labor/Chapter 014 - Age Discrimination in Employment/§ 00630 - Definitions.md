@@ -52,13 +52,13 @@ The Outer Continental Shelf Lands Act, referred to in subsec. (i), is act Aug. 7
 
 #### Amendments
 
-1990—Subsec. (<i>l</i>). Pub. L. 101–433 added subsec. (<i>l</i>).
+<b>1990</b>—Subsec. (<i>l</i>). Pub. L. 101–433 added subsec. (<i>l</i>).
 
-1986—Subsecs. (j), (k). Pub. L. 99–592 added subsecs. (j) and (k).
+<b>1986</b>—Subsecs. (j), (k). Pub. L. 99–592 added subsecs. (j) and (k).
 
-1984—Subsec. (f). Pub. L. 98–459 inserted provision defining “employee” as including any individual who is a citizen of the United States employed by an employer in a workplace in a foreign country.
+<b>1984</b>—Subsec. (f). Pub. L. 98–459 inserted provision defining “employee” as including any individual who is a citizen of the United States employed by an employer in a workplace in a foreign country.
 
-1974—Subsec. (b). Pub. L. 93–259, §28(a)(1), (2), substituted in first sentence “twenty” for “twenty-five” and, in second sentence, defined term “employer” to include a State or political subdivision of a State and any agency or instrumentality of a State or a political subdivision of a State, and any interstate agency, and deleted text excluding from such term a State or political subdivision thereof.
+<b>1974</b>—Subsec. (b). Pub. L. 93–259, §28(a)(1), (2), substituted in first sentence “twenty” for “twenty-five” and, in second sentence, defined term “employer” to include a State or political subdivision of a State and any agency or instrumentality of a State or a political subdivision of a State, and any interstate agency, and deleted text excluding from such term a State or political subdivision thereof.
 
 Subsec. (c). Pub. L. 93–259, §28(a)(3), struck out text excluding from term “employment agency” an agency of a State or political subdivision of a State, but including the United States Employment Service and the system of State and local employment services receiving Federal assistance.
 

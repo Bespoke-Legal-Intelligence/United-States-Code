@@ -1,12 +1,12 @@
 ### §3681. Limitations on educational assistance
 
-(a) No educational assistance allowance granted under chapter 30, 34, 35, or 36 of this title or106 or 107 of title 10, or subsistence allowance granted under chapter 31 of this title shall be paid to any eligible person (1) who is on active duty and is pursuing a course of education which is being paid for by the Armed Forces (or by the Department of Health and Human Services in the case of the Public Health Service; or (2) who is attending a course of education or training paid for under chapter 41 of title 5.
+(a) No educational assistance allowance granted under chapter 30, 34, 35, or 36 of this title or 106 or 107 of title 10, or subsistence allowance granted under chapter 31 of this title shall be paid to any eligible person (1) who is on active duty and is pursuing a course of education which is being paid for by the Armed Forces (or by the Department of Health and Human Services in the case of the Public Health Service; or (2) who is attending a course of education or training paid for under chapter 41 of title 5.
 
 (b) No person may receive benefits concurrently under two or more of the provisions of law listed below:
 
 &emsp;(1) Chapters 30, 31, 32, 34, 35, and 36 of this title.
 
-&emsp;(2) Chapters 106 and 107 of title 10.
+&emsp;(2) Chapters 106 and 107 and section 510 of title 10.
 
 &emsp;(3) Section 903 of the Department of Defense Authorization Act, 1981 (Public Law 96–342, 10 U.S.C. 2141 note).
 
@@ -14,7 +14,7 @@
 
 &emsp;(5) The Omnibus Diplomatic Security and Antiterrorism Act of 1986 (Public Law 99–399).
 
-(Added Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 21, §1781; amended Pub. L. 91–219, title II, §213(1), Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title IV, §403(8), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 94–502, title V, §513(a)(13), Oct. 15, 1976, 90 Stat. 2403; Pub. L. 96–466, title I, §102, title VIII, §801(e), Oct. 17, 1980, 94 Stat. 2187, 2216; Pub. L. 97–295, §4(53), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–223, title II, §203(c)(1), Mar. 2, 1984, 98 Stat. 41; Pub. L. 98–525, title VII, §703(c), Oct. 19, 1984, 98 Stat. 2564; Pub. L. 99–576, title III, §§317, 321(9), Oct. 28, 1986, 100 Stat. 3275, 3278; Pub. L. 101–237, title IV, §423(a)(8)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3681, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §315, Oct. 29, 1992, 106 Stat. 4333.)
+(Added Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 21, §1781; amended Pub. L. 91–219, title II, §213(1), Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title IV, §403(8), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 94–502, title V, §513(a)(13), Oct. 15, 1976, 90 Stat. 2403; Pub. L. 96–466, title I, §102, title VIII, §801(e), Oct. 17, 1980, 94 Stat. 2187, 2216; Pub. L. 97–295, §4(53), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–223, title II, §203(c)(1), Mar. 2, 1984, 98 Stat. 41; Pub. L. 98–525, title VII, §703(c), Oct. 19, 1984, 98 Stat. 2564; Pub. L. 99–576, title III, §§317, 321(9), Oct. 28, 1986, 100 Stat. 3275, 3278; Pub. L. 101–237, title IV, §423(a)(8)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3681, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §315, Oct. 29, 1992, 106 Stat. 4333; Pub. L. 111–377, title II, §202(b), Jan. 4, 2011, 124 Stat. 4124.)
 
 #### References in Text
 
@@ -32,15 +32,17 @@ Provisions similar to those comprising this section were contained in Pub. L. 85
 
 #### Amendments
 
-1992—Subsec. (a)(2). Pub. L. 102–568 struck out before period at end “and whose full salary is being paid to such person while so training”.
+<b>2011</b>—Subsec. (b)(2). Pub. L. 111–377 inserted “and section 510” after “and 107”.
 
-1991—Pub. L. 102–83 renumbered section 1781 of this title as this section.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–568 struck out before period at end “and whose full salary is being paid to such person while so training”.
 
-1989—Subsec. (b)(5). Pub. L. 101–237 added par. (5).
+<b>1991</b>—Pub. L. 102–83 renumbered section 1781 of this title as this section.
 
-1986—Subsec. (b). Pub. L. 99–576 struck out “for the pursuit of the same program of education” after “provisions of law listed below” in introductory text and substituted “Chapters 106 and 107” for “Chapter 107” in par. (2).
+<b>1989</b>—Subsec. (b)(5). Pub. L. 101–237 added par. (5).
 
-1984—Subsec. (a). Pub. L. 98–525, §703(c)(1)(A)–(C), inserted initial reference to chapter 30 of this title, inserted references to chapters 106 and 107 of title 10, and struck out comma after “chapter 31”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–576 struck out “for the pursuit of the same program of education” after “provisions of law listed below” in introductory text and substituted “Chapters 106 and 107” for “Chapter 107” in par. (2).
+
+<b>1984</b>—Subsec. (a). Pub. L. 98–525, §703(c)(1)(A)–(C), inserted initial reference to chapter 30 of this title, inserted references to chapters 106 and 107 of title 10, and struck out comma after “chapter 31”.
 
 Pub. L. 98–223, §203(c)(1)(A), designated existing provisions as subsec. (a).
 
@@ -48,15 +50,19 @@ Subsec. (b). Pub. L. 98–525, §703(c)(2), inserted reference to chapter 30 of 
 
 Pub. L. 98–223, §203(c)(1)(B), added subsec. (b).
 
-1982—Pub. L. 97–295 substituted “chapter 41 of title 5” for “the Government Employees’ Training Act”.
+<b>1982</b>—Pub. L. 97–295 substituted “chapter 41 of title 5” for “the Government Employees’ Training Act”.
 
-1980—Pub. L. 96–466 inserted “, or subsistence allowance granted under chapter 31,” after “chapter 34, 35, or 36” and substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare”.
+<b>1980</b>—Pub. L. 96–466 inserted “, or subsistence allowance granted under chapter 31,” after “chapter 34, 35, or 36” and substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare”.
 
-1976—Pub. L. 94–502 substituted “such person” for “him”.
+<b>1976</b>—Pub. L. 94–502 substituted “such person” for “him”.
 
-1972—Pub. L. 92–540 substituted “granted under chapter 34, 35, or 36” for “or special training allowance granted under chapter 34 or 35”.
+<b>1972</b>—Pub. L. 92–540 substituted “granted under chapter 34, 35, or 36” for “or special training allowance granted under chapter 34 or 35”.
 
-1970—Pub. L. 91–219 substituted “Limitations on educational assistance” for “Nonduplication of benefits” as section catchline and limited duplication of benefits bar to cases of persons on active duty with Armed Forces or Public Health Service whose education or training costs are being paid by Federal Government and persons receiving education or training under Government Employees’ Training Act being paid their full salary during that period.
+<b>1970</b>—Pub. L. 91–219 substituted “Limitations on educational assistance” for “Nonduplication of benefits” as section catchline and limited duplication of benefits bar to cases of persons on active duty with Armed Forces or Public Health Service whose education or training costs are being paid by Federal Government and persons receiving education or training under Government Employees’ Training Act being paid their full salary during that period.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 111–377 effective Aug. 1, 2011, see section 202(c) of Pub. L. 111–377, set out as a note under section 3322 of this title.
 
 #### Effective Date of 1980 Amendment
 

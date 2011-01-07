@@ -1,6 +1,6 @@
 ### §2225. Employment of temporary personnel
 
-The Department of Agriculture may employ persons or organizations, on a temporary basis, by contract or otherwise: <i>Provided</i>, That no expenditures for such temporary employment shall be made unless provision is made therefor in the applicable appropriation and the costthereof is not in excess of limitations prescribed therein.
+The Department of Agriculture may employ persons or organizations, on a temporary basis, by contract or otherwise: <i>Provided</i>, That no expenditures for such temporary employment shall be made unless provision is made therefor in the applicable appropriation and the cost thereof is not in excess of limitations prescribed therein.
 
 (Sept. 21, 1944, ch. 412, title VII, §706(a), 58 Stat. 742; Ex. Ord. No. 9577, June 29, 1945, 10 F.R. 4253.)
 

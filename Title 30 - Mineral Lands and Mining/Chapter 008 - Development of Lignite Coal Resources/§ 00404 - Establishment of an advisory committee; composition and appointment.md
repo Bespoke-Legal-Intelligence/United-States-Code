@@ -4,10 +4,6 @@ The Secretary of the Interior, acting through the United States Bureau of Mines,
 
 (Mar. 25, 1948, ch. 146, §4, 62 Stat. 85.)
 
-#### References in Text
-
-The civil-service laws, referred to in text, are set out in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Transfer of Functions
 
 For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under section 1 of this title.

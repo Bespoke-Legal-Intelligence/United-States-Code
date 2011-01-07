@@ -16,11 +16,11 @@ A cosmetic shall be deemed to be adulterated—
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–80 substituted “usual, except that this” for “usual: <i>Provided</i>, That this”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–80 substituted “usual, except that this” for “usual: <i>Provided</i>, That this”.
 
-1992—Par. (e). Pub. L. 102–571 substituted “379e(a)” for “376(a)”.
+<b>1992</b>—Par. (e). Pub. L. 102–571 substituted “379e(a)” for “376(a)”.
 
-1960—Par. (e). Pub. L. 86–618 substituted “and it is, or it bears or contains, a color additive which is unsafe within the meaning of section 376(a) of this title” for “and it bears or contains a coal-tar color other than one from a batch that has been certified in accordance with regulations as provided by section 364 of this title”.
+<b>1960</b>—Par. (e). Pub. L. 86–618 substituted “and it is, or it bears or contains, a color additive which is unsafe within the meaning of section 376(a) of this title” for “and it bears or contains a coal-tar color other than one from a batch that has been certified in accordance with regulations as provided by section 364 of this title”.
 
 #### Effective Date of 1960 Amendment
 

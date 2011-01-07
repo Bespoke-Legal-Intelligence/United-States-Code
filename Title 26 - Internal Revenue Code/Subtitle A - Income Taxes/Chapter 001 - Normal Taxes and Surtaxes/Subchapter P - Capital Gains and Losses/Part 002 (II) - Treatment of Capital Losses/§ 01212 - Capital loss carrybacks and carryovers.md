@@ -14,11 +14,7 @@
 
 &emsp;&emsp;(B) except as provided in subparagraph (C), a capital loss carryover to each of the 5 taxable years succeeding the loss year; and
 
-&emsp;&emsp;(C) a capital loss carryover—
-
-&emsp;&emsp;&emsp;(i) in the case of a regulated investment company (as defined in section 851) to each of the 8 taxable years succeeding the loss year, and
-
-&emsp;&emsp;&emsp;(ii) to the extent such loss is attributable to a foreign expropriation capital loss, to each of the 10 taxable years succeeding the loss year.
+&emsp;&emsp;(C) a capital loss carryover to each of the 10 taxable years succeeding the loss year, but only to the extent such loss is attributable to a foreign expropriation loss,
 
 > &emsp;and shall be treated as a short-term capital loss in each such taxable year. The entire amount of the net capital loss for any taxable year shall be carried to the earliest of the taxable years to which such loss may be carried, and the portion of such loss which shall be carried to each of the other taxable years to which such loss may be carried shall be the excess, if any, of such loss over the total of the capital gain net income for each of the prior taxable years to which such loss may be carried. For purposes of the preceding sentence, the capital gain net income for any such prior taxable year shall be computed without regard to the net capital loss for the loss year or for any taxable year thereafter. In the case of any net capital loss which cannot be carried back in full to a preceding taxable year by reason of clause (ii) of subparagraph (A), the capital gain net income for such prior taxable year shall in no case be treated as greater than the amount of such loss which can be carried back to such preceding taxable year upon the application of such clause (ii).
 
@@ -40,7 +36,31 @@
 
 &emsp;&emsp;For purposes of paragraph (1), if a portion of a net capital loss for any taxable year is attributable to a foreign expropriation capital loss, such portion shall be considered to be a separate net capital loss for such year to be applied after the other portion of such net capital loss.
 
-#### (3) Special rules on carrybacks
+#### (3) Regulated investment companies
+
+#### (A) In general
+
+&emsp;&emsp;If a regulated investment company has a net capital loss for any taxable year—
+
+&emsp;&emsp;&emsp;(i) paragraph (1) shall not apply to such loss,
+
+&emsp;&emsp;&emsp;(ii) the excess of the net short-term capital loss over the net long-term capital gain for such year shall be a short-term capital loss arising on the first day of the next taxable year, and
+
+&emsp;&emsp;&emsp;(iii) the excess of the net long-term capital loss over the net short-term capital gain for such year shall be a long-term capital loss arising on the first day of the next taxable year.
+
+#### (B) Coordination with general rule
+
+&emsp;&emsp;If a net capital loss to which paragraph (1) applies is carried over to a taxable year of a regulated investment company—
+
+#### (i) Losses to which this paragraph applies
+
+&emsp;&emsp;&emsp;Clauses (ii) and (iii) of subparagraph (A) shall be applied without regard to any amount treated as a short-term capital loss under paragraph (1).
+
+#### (ii) Losses to which general rule applies
+
+&emsp;&emsp;&emsp;Paragraph (1) shall be applied by substituting “net capital loss for the loss year or any taxable year thereafter (other than a net capital loss to which paragraph (3)(A) applies)” for “net capital loss for the loss year or any taxable year thereafter”.
+
+#### (4) Special rules on carrybacks
 
 &emsp;A net capital loss of a corporation shall not be carried back under paragraph (1)(A) to a taxable year—
 
@@ -140,7 +160,7 @@
 
 #### (B) Carryover loss retains character as attributable to section 1256 contract
 
-&emsp;&emsp;Any amount carried forward as a short-term or long-term capital loss to any taxable year under subsection (b)(1) (after theapplication of subparagraph (A)) shall, to the extent attributable to losses from section 1256 contracts, be treated as loss from section 1256 contracts for such taxable year.
+&emsp;&emsp;Any amount carried forward as a short-term or long-term capital loss to any taxable year under subsection (b)(1) (after the application of subparagraph (A)) shall, to the extent attributable to losses from section 1256 contracts, be treated as loss from section 1256 contracts for such taxable year.
 
 #### (7) Other definitions and special rules
 
@@ -154,15 +174,23 @@
 
 &emsp;&emsp;This subsection shall not apply to any estate or trust.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 321; Pub. L. 88–272, title II, §230(a), Feb. 26, 1964, 78 Stat. 99; Pub. L. 88–571, §7(a), Sept. 2, 1964, 78 Stat. 860; Pub. L. 91–172, title V, §§512 (a), (b), (f)(1), 513(b), Dec. 30, 1969, 83 Stat. 638, 639, 641, 642; Pub. L. 94–455, title XIV, §1403 (a), title XIX, §1901(b)(33)(O), Oct. 4, 1976, 90 Stat. 1733, 1802; Pub. L. 95–600, title VII, §703(k), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 97–34, title V, §504, Aug. 13, 1981, 95 Stat. 330; Pub. L. 97–354, §5(a)(35), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 97–448, title I, §105(c)(7), Jan. 12, 1983, 96 Stat. 2387; Pub. L. 98–369, div. A, title I, §102(e)(3), title X, §1002(a), July 18, 1984, 98 Stat. 624, 1012; Pub. L. 99–514, title III, §301(b)(11), title XVIII, §1899A(67), Oct. 22, 1986, 100 Stat. 2218, 2962; Pub. L. 100–647, title I, §1003(a)(3), Nov. 10, 1988, 102 Stat. 3382; Pub. L. 108–357, title IV, §413(c)(20)(A), Oct. 22, 2004, 118 Stat. 1509.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 321; Pub. L. 88–272, title II, §230(a), Feb. 26, 1964, 78 Stat. 99; Pub. L. 88–571, §7(a), Sept. 2, 1964, 78 Stat. 860; Pub. L. 91–172, title V, §§512 (a), (b), (f)(1), 513(b), Dec. 30, 1969, 83 Stat. 638, 639, 641, 642; Pub. L. 94–455, title XIV, §1403 (a), title XIX, §1901(b)(33)(O), Oct. 4, 1976, 90 Stat. 1733, 1802; Pub. L. 95–600, title VII, §703(k), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 97–34, title V, §504, Aug. 13, 1981, 95 Stat. 330; Pub. L. 97–354, §5(a)(35), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 97–448, title I, §105(c)(7), Jan. 12, 1983, 96 Stat. 2387; Pub. L. 98–369, div. A, title I, §102(e)(3), title X, §1002(a), July 18, 1984, 98 Stat. 624, 1012; Pub. L. 99–514, title III, §301(b)(11), title XVIII, §1899A(67), Oct. 22, 1986, 100 Stat. 2218, 2962; Pub. L. 100–647, title I, §1003(a)(3), Nov. 10, 1988, 102 Stat. 3382; Pub. L. 108–357, title IV, §413(c)(20)(A), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 111–325, title I, §101(a), (b)(1), Dec. 22, 2010, 124 Stat. 3538.)
 
 #### Amendments
 
-2004—Subsec. (a)(3). Pub. L. 108–357 reenacted heading without change and amended text of par. (3) generally. Prior to amendment, par. (3) provided that a net capital loss of a corporation would not be carried back under par. (1)(A) to a taxable year for which it was a foreign personal holding company (as defined in section 552), for which it was a regulated investment company (as defined in section 851), for which it was a real estate investment trust (as defined in section 856), or for which an election made by it under section 1247 was applicable (relating to election by foreign investment companies to distribute income currently).
+<b>2010</b>—Subsec. (a)(1)(C). Pub. L. 111–325, §101(b)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “a capital loss carryover—
 
-1988—Subsec. (b)(2). Pub. L. 100–647 substituted “Treatment of amounts allowed under section 1211(b)(1) or (2)” for “Special rule” as heading and amended text generally. Prior to amendment, text read as follows: “For purposes of determining the excess referred to in subparagraph (A) or (B) of paragraph (1), an amount equal to the amount allowed for the taxable year under paragraph (1) or (2) of section 1211(b) shall be treated as a short-term capital gain in such year.”
+&emsp;“(i) in the case of a regulated investment company (as defined in section 851) to each of the 8 taxable years succeeding the loss year, and
 
-1986—Subsec. (b)(2). Pub. L. 99–514, §301(b)(11), amended par. (2) generally. Prior to amendment, par. (2), special rules, read as follows:
+&emsp;“(ii) to the extent such loss is attributable to a foreign expropriation capital loss, to each of the 10 taxable years succeeding the loss year.”
+
+Subsec. (a)(3), (4). Pub. L. 111–325, §101(a), added par. (3) and redesignated former par. (3) as (4).
+
+<b>2004</b>—Subsec. (a)(3). Pub. L. 108–357 reenacted heading without change and amended text of par. (3) generally. Prior to amendment, par. (3) provided that a net capital loss of a corporation would not be carried back under par. (1)(A) to a taxable year for which it was a foreign personal holding company (as defined in section 552), for which it was a regulated investment company (as defined in section 851), for which it was a real estate investment trust (as defined in section 856), or for which an election made by it under section 1247 was applicable (relating to election by foreign investment companies to distribute income currently).
+
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–647 substituted “Treatment of amounts allowed under section 1211(b)(1) or (2)” for “Special rule” as heading and amended text generally. Prior to amendment, text read as follows: “For purposes of determining the excess referred to in subparagraph (A) or (B) of paragraph (1), an amount equal to the amount allowed for the taxable year under paragraph (1) or (2) of section 1211(b) shall be treated as a short-term capital gain in such year.”
+
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–514, §301(b)(11), amended par. (2) generally. Prior to amendment, par. (2), special rules, read as follows:
 
 “(A) For purposes of determining the excess referred to in paragraph (1)(A), an amount equal to the amount allowed for the taxable year under section 1211(b)(1)(A), (B), or (C) shall be treated as a short-term capital gain in such year.
 
@@ -176,7 +204,7 @@
 
 Subsec. (c)(6)(B), (7)(A). Pub. L. 99–514, §1899A(67), amended directory language of Pub. L. 98–369, §102(e)(3)(C), resulting in amendment of subsec. (c)(6)(B). See 1984 Amendment note below.
 
-1984—Subsec. (b)(3). Pub. L. 98–369, §1002(a), struck out par. (3) which read as follows: “In the case of any amount which, under paragraph (1) and section 1211(b) (as in effect for taxable years beginning before January 1, 1970), is treated as a capital loss in the first taxable year beginning after December 31, 1969, paragraph (1) and section 1211(b) (as in effect for taxable years beginning before January 1, 1970) shall apply (and paragraph (1) and section 1211(b) as in effect for taxable years beginning after December 31, 1969, shall not apply) to the extent such amount exceeds the total of any net capital gains (determined without regard to this subsection) of taxable years beginning after December 31, 1969.”
+<b>1984</b>—Subsec. (b)(3). Pub. L. 98–369, §1002(a), struck out par. (3) which read as follows: “In the case of any amount which, under paragraph (1) and section 1211(b) (as in effect for taxable years beginning before January 1, 1970), is treated as a capital loss in the first taxable year beginning after December 31, 1969, paragraph (1) and section 1211(b) (as in effect for taxable years beginning before January 1, 1970) shall apply (and paragraph (1) and section 1211(b) as in effect for taxable years beginning after December 31, 1969, shall not apply) to the extent such amount exceeds the total of any net capital gains (determined without regard to this subsection) of taxable years beginning after December 31, 1969.”
 
 Subsec. (c). Pub. L. 98–369, §102(e)(3)(A), (B), substituted “net section 1256 contracts loss” for “net commodity futures loss” and “section 1256 contracts” for “regulated futures contracts” wherever appearing.
 
@@ -184,27 +212,39 @@ Subsec. (c)(3)(A), (5). Pub. L. 98–369, §102(e)(3)(D), substituted “net sec
 
 Subsec. (c)(6)(B), (7)(A). Pub. L. 98–369, §102(e)(3)(C), as amended by Pub. L. 99–514, §1899A(67), substituted “section 1256 contract” for “regulated futures contract” wherever appearing.
 
-1983—Subsec. (c)(4)(A). Pub. L. 97–448 struck out “and positions to which section 1256 applies” after “losses from regulated futures contracts”.
+<b>1983</b>—Subsec. (c)(4)(A). Pub. L. 97–448 struck out “and positions to which section 1256 applies” after “losses from regulated futures contracts”.
 
-1982—Subsec. (a)(3), (4). Pub. L. 97–354 struck out par. (3) relating to electing small business corporations, and redesignated par. (4) as (3).
+<b>1982</b>—Subsec. (a)(3), (4). Pub. L. 97–354 struck out par. (3) relating to electing small business corporations, and redesignated par. (4) as (3).
 
-1981—Subsec. (c). Pub. L. 97–34 added subsec. (c).
+<b>1981</b>—Subsec. (c). Pub. L. 97–34 added subsec. (c).
 
-1978—Subsec. (a)(1)(C)(ii). Pub. L. 95–600 substituted “succeeding the loss year” for “exceeding the loss year”.
+<b>1978</b>—Subsec. (a)(1)(C)(ii). Pub. L. 95–600 substituted “succeeding the loss year” for “exceeding the loss year”.
 
-1976—Subsec. (a)(1). Pub. L. 94–455, §§1403(a), 1901(b)(33)(O), in subpar. (B) inserted introductory text “except as provided in subparagraph (C),” and struck out “(10) taxable years to the extent such loss is attributable to a foreign expropriation capital loss)” after “5 taxable years” and added subpar. (C), and substituted “capital gain net income” for “net capital gains”, “net capital gain” and “net capital gain” in last three sentences, respectively.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–455, §§1403(a), 1901(b)(33)(O), in subpar. (B) inserted introductory text “except as provided in subparagraph (C),” and struck out “(10) taxable years to the extent such loss is attributable to a foreign expropriation capital loss)” after “5 taxable years” and added subpar. (C), and substituted “capital gain net income” for “net capital gains”, “net capital gain” and “net capital gain” in last three sentences, respectively.
 
-1969—Pub. L. 91–172, §512(f)(1), substituted “carrybacks and carryovers” for “carryover” in section catchline.
+<b>1969</b>—Pub. L. 91–172, §512(f)(1), substituted “carrybacks and carryovers” for “carryover” in section catchline.
 
 Subsec. (a)(1). Pub. L. 91–172, §512(a), provided for a 3-year capital loss carryback for corporations, not available for foreign expropriation capital losses for which a special 10-year carryforward is presently available, in addition to the 5–year capital loss carryforward presently allowed corporations, to the extent the carryback of such loss does not increase or produce a net operating loss for the taxable year to which it is being carried back.
 
 Subsec. (a)(3), (4). Pub. L. 91–172, §512(b), added pars. (3) and (4).
 
-Subsec. (b). Pub. L. 91–172, §513(b), struck out reference to Dec. 31, 1963, struck out determination of a short-term capital gain as an amount equal to the excess allowed for the taxable year under former section 1211(b) over the gains from sales or exchanges of capital assets, struck out par. (2) treating as a short-term capital loss in the first taxable year beginning after Dec. 31, 1963, any amount which is treated as a short-term capital loss in such year under this subchapter as in effect immediately before the enactment of the Revenue Act of 1964, added new par. (2) dealing with special rules for determining the excesses referred to in par. (1)(A) and par. (1)(B) and added par. (3).
+Subsec. (b). Pub. L. 91–172, §513(b), struck out reference to Dec. 31, 1963, struck out determination of ashort-term capital gain as an amount equal to the excess allowed for the taxable year under former section 1211(b) over the gains from sales or exchanges of capital assets, struck out par. (2) treating as a short-term capital loss in the first taxable year beginning after Dec. 31, 1963, any amount which is treated as a short-term capital loss in such year under this subchapter as in effect immediately before the enactment of the Revenue Act of 1964, added new par. (2) dealing with special rules for determining the excesses referred to in par. (1)(A) and par. (1)(B) and added par. (3).
 
-1964—Subsec. (a). Pub. L. 88–571 provided that if any portion of a net capital loss is attributable to a foreign expropriation capital loss, such portion shall be a short-term capital loss in each of the 10 succeeding taxable years, defined foreign expropriation capital loss, stated what portion of loss is attributable to foreign expropriation capital loss and the priority of application of the net capital loss, and struck out provisionsthat net capital losses for taxable years beginning before Oct. 20, 1951, were to be determined under the applicable law relating to the computation of capital gains and losses in effect before such date.
+<b>1964</b>—Subsec. (a). Pub. L. 88–571 provided that if any portion of a net capital loss is attributable to a foreign expropriation capital loss, such portion shall be a short-term capital loss in each of the 10 succeeding taxable years, defined foreign expropriation capital loss, stated what portion of loss is attributable to foreign expropriation capital loss and the priority of application of the net capital loss, and struck out provisions that net capital losses for taxable years beginning before Oct. 20, 1951, were to be determined under the applicable law relating to the computation of capital gains and losses in effect before such date.
 
 Pub. L. 88–272 designated existing provisions as subsec. (a), limited such subsection to corporations, and added subsec. (b).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–325, title I, §101(c), Dec. 22, 2010, 124 Stat. 3538, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 1222 of this title\] shall apply to net capital losses for taxable years beginning after the date of the enactment of this Act \[Dec. 22, 2010\].
+
+“(2)
+
+Coordination rules.—Subparagraph (B) of section 1212(a)(3) of the Internal Revenue Code of 1986, as added by this section, shall apply to taxable years beginning after the date of the enactment of this Act.”
 
 #### Effective Date of 2004 Amendment
 

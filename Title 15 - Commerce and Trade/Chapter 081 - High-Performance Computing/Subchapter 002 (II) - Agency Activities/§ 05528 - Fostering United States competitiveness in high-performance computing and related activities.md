@@ -32,7 +32,7 @@ The Congress finds the following:
 
 &emsp;&emsp;&emsp;(ii) manufactured articles, materials, or supplies other than those manufactured in the United States substantially all from articles, materials, or supplies mined, produced, or manufactured in the United States,
 
-> &emsp;&emsp;under the meaning of title III of the Act of March 3, 1933 (41 U.S.C. 10a–10d; <sup>1</sup> popularly known as the Buy American Act) as amended by the Buy American Act of 1988.
+> &emsp;&emsp;under the meaning of chapter 83 of title 41.
 
 #### (2) Consolidation of reports
 
@@ -40,7 +40,7 @@ The Congress finds the following:
 
 #### (c) Application of Buy American Act
 
-This chapter does not affect the applicability of title III of the Act of March 3, 1933 (41 U.S.C. 10a–10d; <sup>1</sup> popularly known as the Buy American Act), as amended by the Buy American Act of 1988, to procurements by Federal agencies and departments undertaken as a part of the Program.
+This chapter does not affect the applicability of chapter 83 of title 41 to procurements by Federal agencies and departments undertaken as a part of the Program.
 
 (Pub. L. 102–194, title II, §208, Dec. 9, 1991, 105 Stat. 1603; Pub. L. 110–69, title III, §3002(c)(6), Aug. 9, 2007, 121 Stat. 587.)
 
@@ -48,17 +48,21 @@ This chapter does not affect the applicability of title III of the Act of March 
 
 The Trade Agreements Act of 1979, referred to in subsec. (a)(5), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144, as amended. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of Title 19, Customs Duties, and Tables.
 
-Title III of the Act of March 3, 1933, referred to in subsecs. (b)(1)(B) and (c), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, known as the Buy American Act, which is classified generally to sections 10a, 10b, and 10c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables. Section 10d, included within the reference to 41 U.S.C. 10a–10d, was enacted by act Oct. 29, 1949, ch. 787, title VI, §633, 63 Stat. 1024, as amended, and was not part of title III of act Mar. 3, 1933.
-
-The Buy American Act of 1988, referred to in subsecs. (b)(1)(B) and (c), is title VII of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1545, which enacted section 10b–1 of Title 41, Public Contracts, amended sections 2511 and 2515 of Title 19, Customs Duties, and sections 10a, 10b, 10c, and 10d of Title 41, enacted provisions set out as notes under section 10a of Title 41, and amended provisions set out as notes under section 10c of Title 41. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 10a of Title 41 and Tables. For termination of amendments made by this Act, see section 7004 of Pub. L. 100–418, set out as an Effective and Termination Dates of 1988 Amendment note under section 10a of Title 41.
-
 Section 5511(a)(3)(A) of this title, referred to in subsec. (b)(2), was redesignated section 5511(a)(2)(D) of this title by Pub. L. 110–69, title VII, §7024(a)(1)(B)(ii), (iii)(II), Aug. 9, 2007, 121 Stat. 687.
+
+#### Codification
+
+In subsec. (b)(1)(B), “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 (41 U.S.C. 10a–10d; popularly known as the Buy American Act) as amended by the Buy American Act of 1988” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (c), “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 (41 U.S.C. 10a–10d; popularly known as the Buy American Act), as amended by the Buy American Act of 1988,” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-2007—Subsecs. (c), (d). Pub. L. 110–69 redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to review of Supercomputer Agreement.
+<b>2007</b>—Subsecs. (c), (d). Pub. L. 110–69 redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to review of Supercomputer Agreement.
 
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (b)(1) of this section is listed on page 185), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

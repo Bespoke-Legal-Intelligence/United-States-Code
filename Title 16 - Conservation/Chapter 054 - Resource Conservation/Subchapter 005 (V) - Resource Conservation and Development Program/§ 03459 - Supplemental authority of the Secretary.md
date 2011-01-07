@@ -1,6 +1,6 @@
 ### §3459. Supplemental authority of the Secretary
 
-The authority of the Secretary under this subchapter to assist councils in the developmentand implementation of area plans shall be supplemental to, and not in lieu of, any authority of the Secretary under any other provision of law.
+The authority of the Secretary under this subchapter to assist councils in the development and implementation of area plans shall be supplemental to, and not in lieu of, any authority of the Secretary under any other provision of law.
 
 (Pub. L. 97–98, title XV, §1536, as added Pub. L. 107–171, title II, §2504, May 13, 2002, 116 Stat. 274.)
 

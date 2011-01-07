@@ -98,7 +98,7 @@ This chapter, referred to in subsecs. (b)(2), (6) and (c)(1), (2), was in the or
 
 #### Amendments
 
-2008—Subsec. (b)(1) to (6). Pub. L. 110–293, §307, added pars. (1) to (6) and struck out former pars. (1) to (3) which read as follows:
+<b>2008</b>—Subsec. (b)(1) to (6). Pub. L. 110–293, §307, added pars. (1) to (6) and struck out former pars. (1) to (3) which read as follows:
 
 “(1) provide for meeting or exceeding the goal to reduce the rate of mother-to-child transmission of HIV by 20 percent by 2005 and by 50 percent by 2010;
 

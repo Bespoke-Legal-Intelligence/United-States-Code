@@ -4,7 +4,7 @@
 
 (b) It shall be the duty and responsibility of the Director—
 
-&emsp;(1) to advise the Secretary with respect to the physical research program transferred to the Department from the Energy Research and Development Administration;
+&emsp;(1) to advise the Secretary with respect to the physical research program transferred tothe Department from the Energy Research and Development Administration;
 
 &emsp;(2) to monitor the Department's energy research and development programs in order to advise the Secretary with respect to any undesirable duplication or gaps in such programs;
 
@@ -20,7 +20,7 @@
 
 #### Amendments
 
-2005—Subsec. (b)(6). Pub. L. 109–58 added par. (6) and struck out former par. (6) which read as follows: “to carry out such additional duties assigned to the Office by the Secretary relating to basic and applied research, including but not limited to supervision or support of research activities carried out by any of the Assistant Secretaries designated by section 7133 of this title, as the Secretary considers advantageous.”
+<b>2005</b>—Subsec. (b)(6). Pub. L. 109–58 added par. (6) and struck out former par. (6) which read as follows: “to carry out such additional duties assigned to the Office by the Secretary relating to basic and applied research, including but not limited to supervision or support of research activities carried out by any of the Assistant Secretaries designated by section 7133 of this title, as the Secretary considers advantageous.”
 
-1998—Pub. L. 105–245 substituted “Office of Science” for “Office of Energy Research” in section catchline and in subsec. (a).
+<b>1998</b>—Pub. L. 105–245 substituted “Office of Science” for “Office of Energy Research” in section catchline and in subsec. (a).
 

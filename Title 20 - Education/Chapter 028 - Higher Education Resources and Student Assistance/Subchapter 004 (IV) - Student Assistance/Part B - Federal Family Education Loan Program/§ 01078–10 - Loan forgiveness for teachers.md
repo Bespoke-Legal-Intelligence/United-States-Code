@@ -96,11 +96,11 @@ The National and Community Service Act of 1990, referred to in subsec. (g)(2)(C)
 
 #### Amendments
 
-2009—Subsec. (c)(1). Pub. L. 111–39, §402(f)(6)(A), inserted at end “No borrower may receive a reduction of loan obligations under both this section and section 1087j of this title.”
+<b>2009</b>—Subsec. (c)(1). Pub. L. 111–39, §402(f)(6)(A), inserted at end “No borrower may receive a reduction of loan obligations under both this section and section 1087j of this title.”
 
 Subsec. (g)(2)(B) to (D). Pub. L. 111–39, §402(f)(6)(B), inserted “or” at end of subpar. (B), redesignated subpar. (D) as (C) and substituted “12601” for “12571”, and struck out former subpar. (C) which read as follows: “section 1087j of this title; or”.
 
-2008—Subsec. (b)(1)(A). Pub. L. 110–315, §429(1), inserted “or location” after “a school” and “or locations” after “schools”.
+<b>2008</b>—Subsec. (b)(1)(A). Pub. L. 110–315, §429(1), inserted “or location” after “a school” and “or locations” after “schools”.
 
 Subsec. (c)(1). Pub. L. 110–315, §429(2), struck out at end “No borrower may receive a reduction of loan obligations under both this section and section 1087j of this title.”
 
@@ -108,11 +108,11 @@ Subsec. (c)(3)(B)(iii). Pub. L. 110–315, §429(3), inserted “or, in the case
 
 Subsec. (g)(2). Pub. L. 110–315, §429(4), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “No borrower may, for the same service, receive a benefit under both this subsection and subtitle D of title I of the National and Community Service Act of 1990 (42 U.S.C. 12571 et seq.).”
 
-2006—Subsec. (b)(1)(B). Pub. L. 109–171, §8013(e)(1)(A), inserted “, or meets the requirements of subsection (g)(3)” after “section 7801 of this title”.
+<b>2006</b>—Subsec. (b)(1)(B). Pub. L. 109–171, §8013(e)(1)(A), inserted “, or meets the requirements of subsection (g)(3)” after “section 7801 of this title”.
 
 Subsec. (g)(3). Pub. L. 109–171, §8013(e)(1)(B), added par. (3).
 
-2004—Subsec. (b)(1). Pub. L. 108–409, §3(a)(1)(A), added subpar. (B) and struck out former subpars. (B) and (C) which read as follows:
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–409, §3(a)(1)(A), added subpar. (B) and struck out former subpars. (B) and (C) which read as follows:
 
 “(B) if employed as a secondary school teacher, is teaching a subject area that is relevant to the borrower's academic major as certified by the chief administrative officer of the public or nonprofit private secondary school in which the borrower is employed; and
 
@@ -120,9 +120,9 @@ Subsec. (g)(3). Pub. L. 109–171, §8013(e)(1)(B), added par. (3).
 
 Subsec. (c)(3). Pub. L. 108–409, §3(b)(1), added par. (3).
 
-1998—Pub. L. 105–244 amended section catchline and text generally. Prior to amendment, section authorized Secretary to carry out demonstration program for loan forgiveness for teachers, individuals performing national community service, and nurses.
+<b>1998</b>—Pub. L. 105–244 amended section catchline and text generally. Prior to amendment, section authorized Secretary to carry out demonstration program for loan forgiveness for teachers, individuals performing national community service, and nurses.
 
-1993—Subsec. (b)(1). Pub. L. 103–208, §2(c)(47), substituted “section” for “sections” in introductory provisions.
+<b>1993</b>—Subsec. (b)(1). Pub. L. 103–208, §2(c)(47), substituted “section” for “sections” in introductory provisions.
 
 Pub. L. 103–82, §102(c)(2)(A), substituted “October 1, 1989” for “October 1, 1992” in introductory provisions.
 

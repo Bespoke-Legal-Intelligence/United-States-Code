@@ -12,11 +12,11 @@ No dependency and indemnity compensation shall be paid to the surviving spouse o
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 404 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 404 of this title as this section.
 
-1976—Pub. L. 94–433, §405(4), (5), substituted “surviving spouse”, “such surviving spouse”, and “such veteran” for “widow”, “she”, and “him”, respectively, in introductory clause and “surviving spouses” for “widows” in section catchline.
+<b>1976</b>—Pub. L. 94–433, §405(4), (5), substituted “surviving spouse”, “such surviving spouse”, and “such veteran” for “widow”, “she”, and “him”, respectively, in introductory clause and “surviving spouses” for “widows” in section catchline.
 
-1967—Pub. L. 90–77 qualified widow of a veteran for receipt of compensation by reducing in par. (2) the requisite marriage period from five years to one year and by making her eligible for benefits in par. (3) in event of antenuptial birth.
+<b>1967</b>—Pub. L. 90–77 qualified widow of a veteran for receipt of compensation by reducing in par. (2) the requisite marriage period from five years to one year and by making her eligible for benefits in par. (3) in event of antenuptial birth.
 
 #### Effective Date of 1976 Amendment
 

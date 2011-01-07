@@ -28,7 +28,7 @@
 
 #### References in Text
 
-Sections 203(b) and 543(a) of the Immigration Act of 1990, referred to in subsec. (b)(2)(A), are sections 203(b) and 543(a) of Pub. L. 101–649. Section 203(b) of the Act amended section 1281 of this title. Section 543(a) of the Act amended sections 1221, former 1227, 1229 (now 1224), 1284, 1285, 1286, 1287, 1321, 1322, and 1323 of this title.
+Sections 203(b) and 543(a) of the Immigration Act of 1990, referred to in subsec. (b)(2)(A), are sections 203(b) and 543(a) of Pub. L. 101–649. Section 203(b) of the Actamended section 1281 of this title. Section 543(a) of the Act amended sections 1221, former 1227, 1229 (now 1224), 1284, 1285, 1286, 1287, 1321, 1322, and 1323 of this title.
 
 Section 605 of Public Law 104–134, referred to in subsec. (b)(3)(C), is section 101\[(a)\] \[title VI, §605\] of Pub. L. 104–134, title I, Apr. 26, 1996, 110 Stat. 1321, 1321–63, which is not classified to the Code.
 

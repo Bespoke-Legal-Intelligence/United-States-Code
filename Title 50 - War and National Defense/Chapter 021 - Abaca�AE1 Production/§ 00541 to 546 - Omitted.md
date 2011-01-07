@@ -2,7 +2,7 @@
 
 #### Codification
 
-Sections 541 to 546, act Aug. 10, 1950, ch. 673, §§2–7, 64 Stat. 435–437, terminated not later than ten years afterApr. 1, 1950. See Effective and Termination Date note below.
+Sections 541 to 546, act Aug. 10, 1950, ch. 673, §§2–7, 64 Stat. 435–437, terminated not later than ten years after Apr. 1, 1950. See Effective and Termination Date note below.
 
 Section 541 related to Congressional declaration of policy.
 

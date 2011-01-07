@@ -86,9 +86,9 @@ If any person uses taxable fuel (other than in the production of taxable fuels o
 
 #### Amendments
 
-2005—Subsec. (b). Pub. L. 109–59 substituted “subsection (h) or (i) of section 4261” for “section 4261(h)”.
+<b>2005</b>—Subsec. (b). Pub. L. 109–59 substituted “subsection (h) or (i) of section 4261” for “section 4261(h)”.
 
-2004—Subsec. (a)(2). Pub. L. 108–357, §301(c)(8), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, par. (2) defined the term “gasoline”, to the extent prescribed in regulations, as including gasoline blend stocks and products commonly used as additives in gasoline, and defined the term “gasoline blend stock” as meaning any petroleum product component of gasoline.
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–357, §301(c)(8), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, par. (2) defined the term “gasoline”, to the extent prescribed in regulations, as including gasoline blend stocks and products commonly used as additives in gasoline, and defined the term “gasoline blend stock” as meaning any petroleum product component of gasoline.
 
 Subsec. (a)(3). Pub. L. 108–357, §870(a), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, par. (3) defined the term “diesel fuel” as meaning any liquid (other than gasoline) which is suitable for use as a fuel in a diesel-powered highway vehicle or a diesel-powered train.
 
@@ -100,15 +100,15 @@ Subsec. (d)(1)(A)(iii). Pub. L. 108–357, §858(a), added cl. (iii).
 
 Subsec. (d)(3). Pub. L. 108–357, §859(b)(1), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-1998—Subsec. (a)(1). Pub. L. 105–206 made technical amendment to directory language of Pub. L. 105–34, §1032(a). See 1997 Amendment note below.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–206 made technical amendment to directory language of Pub. L. 105–34, §1032(a). See 1997 Amendment note below.
 
-1997—Subsec. (a)(1)(C). Pub. L. 105–34, §1032(a), as amended by Pub. L. 105–206, §6010(h)(1), added subpar. (C).
+<b>1997</b>—Subsec. (a)(1)(C). Pub. L. 105–34, §1032(a), as amended by Pub. L. 105–206, §6010(h)(1), added subpar. (C).
 
 Subsec. (a)(3). Pub. L. 105–34, §902(b)(3), substituted “or a diesel-powered train” for “, a diesel-powered train, or a diesel-powered boat”.
 
 Subsec. (b). Pub. L. 105–34, §1032(e)(4), substituted “taxable fuels” for “gasoline, diesel fuel,”.
 
-1993—Pub. L. 103–66 amended heading and text generally. Prior to amendment, text read as follows:
+<b>1993</b>—Pub. L. 103–66 amended heading and text generally. Prior to amendment, text read as follows:
 
 “(1) For provisions to relieve farmers from excise tax in the case of gasoline used on the farm for farming purposes, see section 6420.
 
@@ -116,9 +116,9 @@ Subsec. (b). Pub. L. 105–34, §1032(e)(4), substituted “taxable fuels” for
 
 “(3) For provisions to relieve purchasers of gasoline from excise tax in the case of gasoline not used for taxable purposes, see section 6427.”
 
-1986—Pub. L. 99–514 amended section generally. Prior to amendment, section 4083 “Exemption of sales to producer”, read as follows: “Under regulations prescribed by the Secretary the tax imposed by section 4081 shall not apply in the case of sales of gasoline to a producer of gasoline.”
+<b>1986</b>—Pub. L. 99–514 amended section generally. Prior to amendment, section 4083 “Exemption of sales to producer”, read as follows: “Under regulations prescribed by the Secretary the tax imposed by section 4081 shall not apply in the case of sales of gasoline to a producer of gasoline.”
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 2005 Amendment
 

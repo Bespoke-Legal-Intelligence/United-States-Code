@@ -30,7 +30,7 @@ The Commission may pay cash relief to the widow of any former employee of the Ca
 
 Subchapter III of chapter 83 of title 5 applies with respect to those individuals who were in the service of the Canal Zone Government or the Panama Canal Company on October 5, 1958, and who, except for the operation of section 13(a)(1) of the Act entitled “An Act to implement item 1 of a Memorandum of Understanding attached to the treaty of January 25, 1955, entered into by the Government of the United States of America and the Government of the Republic of Panama with respect to wage and employment practices of the Government of the United States of America in the Canal Zone”, approved July 25, 1958 (72 Stat. 405), would have been within the classes of individuals subject to the Act of July 8, 1937, referred to in subsection (a) of this section.
 
-(Pub. L. 96–70, title I, §1245, Sept. 27, 1979, 93 Stat. 475; Pub. L. 104–201, div. C, title XXXV, §§3538, 3548(c)(2), Sept. 23, 1996, 110 Stat. 2864, 2869.)
+(Pub. L. 96–70, title I, §1245, Sept. 27, 1979, 93 Stat. 475; Pub. L. 104–201, div. C, title XXXV,§§3538, 3548(c)(2), Sept. 23, 1996, 110 Stat. 2864, 2869.)
 
 #### References in Text
 
@@ -42,7 +42,7 @@ Section 13(a)(1) of Act July 25, 1958, referred to in subsec. (e), probably mean
 
 #### Amendments
 
-1996—Pub. L. 104–201, §§3538, 3548(c)(2), amended section catchline to read “Administration of certain disability benefits”.
+<b>1996</b>—Pub. L. 104–201, §§3538, 3548(c)(2), amended section catchline to read “Administration of certain disability benefits”.
 
 Subsec. (a). Pub. L. 104–201, §3538, added subsec. (a) and struck out former subsec. (a) which read as follows: “The Commission, under the regulations prescribed by the President pursuant to the Act entitled ‘An Act authorizing cash relief for certain employees of the Panama Canal not coming within the provisions of the Canal Zone Retirement Act’, approved July 8, 1937, as amended (50 Stat. 478; 68 Stat. 17), may continue the payments of cash relief to those individual former employees of the Canal Zone Government or Panama Canal Company or their predecessor agencies not coming within the scope of the former Canal Zone Retirement Act whose services were terminated prior to October 5, 1958, because of unfitness for further useful service by reason of mental or physical disability resulting from age or disease. Subject to subsection (b) of this section, that cash relief may not exceed $1.50 per month for each year of service of the employees so furnished relief, with a maximum of $45 per month, plus the amount of any cost-of-living increases in such cash relief granted before October 1, 1979, pursuant to section 181 of title 2 of the Canal Zone Code (as in effect on September 30, 1979), nor be paid to any employee who, at the time of termination for disability prior to October 5, 1958, had less than 10 years’ service with the Canal Zone Government, the Panama Canal Company, or their predecessor agencies on the Isthmus of Panama.”
 

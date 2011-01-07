@@ -15,3 +15,7 @@
 - [&sect; 06618 - Major science and technology proposals](%C2%A7%2006618%20-%20Major%20science%20and%20technology%20proposals.md)
 - [&sect; 06619 - National coordination of research infrastructure](%C2%A7%2006619%20-%20National%20coordination%20of%20research%20infrastructure.md)
 - [&sect; 06620 - Release of scientific research results](%C2%A7%2006620%20-%20Release%20of%20scientific%20research%20results.md)
+- [&sect; 06621 - Coordination of Federal STEM education](%C2%A7%2006621%20-%20Coordination%20of%20Federal%20STEM%20education.md)
+- [&sect; 06622 - Coordination of advanced manufacturing research and development](%C2%A7%2006622%20-%20Coordination%20of%20advanced%20manufacturing%20research%20and%20development.md)
+- [&sect; 06623 - Interagency public access committee](%C2%A7%2006623%20-%20Interagency%20public%20access%20committee.md)
+- [&sect; 06624 - Federal scientific collections](%C2%A7%2006624%20-%20Federal%20scientific%20collections.md)

@@ -10,7 +10,7 @@ A participant who separates from the Agency may, upon separation or at any time 
 
 #### (b) Refund of contributions if former participant dies before age 62
 
-If a participant who qualifies under subsection (a) of this section to receive a deferred annuity commencing at age 62 dies before reaching age 62, the participant's contributions to the fund, with interest, shall be paid in accordance with the provisions of section 2071 of this title.
+If a participant who qualifies under subsection (a) of this section to receive a deferred annuitycommencing at age 62 dies before reaching age 62, the participant's contributions to the fund, with interest, shall be paid in accordance with the provisions of section 2071 of this title.
 
 (Pub. L. 88–643, title II, §234, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3225; amended Pub. L. 103–178, title II, §202(a)(10), Dec. 3, 1993, 107 Stat. 2026.)
 
@@ -20,7 +20,7 @@ A prior section 234 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1048;
 
 #### Amendments
 
-1993—Subsec. (b). Pub. L. 103–178 substituted “section 2071” for “sections 2071 and 2121”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–178 substituted “section 2071” for “sections 2071 and 2121”.
 
 #### Effective Date of 1993 Amendment
 

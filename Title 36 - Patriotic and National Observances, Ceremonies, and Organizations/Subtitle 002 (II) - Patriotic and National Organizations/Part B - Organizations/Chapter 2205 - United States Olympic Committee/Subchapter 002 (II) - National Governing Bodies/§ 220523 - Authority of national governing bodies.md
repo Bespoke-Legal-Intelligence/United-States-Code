@@ -50,5 +50,5 @@ In subsection (b), the words “national governing body” are omitted (the firs
 
 #### Amendments
 
-1998—Subsec. (a)(6), (7). Pub. L. 105–277, which directed substitution of “Games, the Paralympic Games, and” for “Games and” in pars. (6) and (7) of this section, was executed by making the substitution in pars. (6) and (7) of subsec. (a) to reflect the probable intent of Congress.
+<b>1998</b>—Subsec. (a)(6), (7). Pub. L. 105–277, which directed substitution of “Games, the Paralympic Games, and” for “Games and” in pars. (6) and (7) of this section, was executed by making the substitution in pars. (6) and (7) of subsec. (a) to reflect the probable intent of Congress.
 

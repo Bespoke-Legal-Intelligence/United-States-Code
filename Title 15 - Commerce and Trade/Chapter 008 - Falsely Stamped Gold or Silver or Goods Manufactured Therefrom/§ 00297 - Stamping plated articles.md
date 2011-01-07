@@ -2,7 +2,7 @@
 
 #### (a) Words “sterling” or “coin” forbidden
 
-In the case of articles of merchandise made in whole or in part of an inferior metal, having deposited or plated thereon or brazed or otherwise affixed thereto a plating, covering, or sheet composed of gold or silver, or of an alloy of either of said metals, and known in the market as rolled gold plate, gold plate, gold filled, silver plate, or gold or silver electroplate, or by any similar designation, so imported into or exported from the United States, or so deposited in the United States mails for transmission, or so delivered to any common carrier, or so transported or caused to be transported as specified in section 294 of this title, no such article, nor any tag, card, or label attached thereto, nor any box, package, cover, or wrapper in which such article is encased or inclosed, shall be stamped, branded, engraved, or imprinted with any word or mark usually employed to indicate the fineness of gold, unless such word or mark be accompanied by other words, plainly indicating that such article or part thereof is made of rolled gold plate, gold plate, or gold electroplate, or is gold filled, as the case may be, and no such article, nor any tag, card, or label attached thereto, nor any box, package, cover, or wrapper in which such article is incased or inclosed, shall be stamped, branded, engraved, or imprinted with the word “sterling” or the word “coin”, either alone or in conjunction with other words or marks.
+In the case of articles of merchandise made in whole or in part of an inferior metal, having deposited or plated thereon or brazed or otherwise affixed thereto a plating, covering, or sheet composed of gold or silver, or of an alloy of either of said metals, and known in the market as rolled gold plate, gold plate, gold filled, silver plate, or gold or silver electroplate, or by any similar designation, so imported into or exported from the United States, or so deposited in the United States mails for transmission, or so delivered to any common carrier, or so transported or caused to be transported as specified in section 294 of this title, no such article, nor any tag, card, or label attached thereto, nor any box, package, cover, or wrapper in which such article is encased or inclosed, shall be stamped, branded, engraved, or imprinted with any word or mark usually employed to indicate the fineness of gold, unless such word or mark be accompanied by other words, plainly indicating that such article or part thereof is made of rolled gold plate, gold plate, or gold electroplate, or is gold filled, as the case may be, and no such article, nor any tag, card, or label attached thereto, nor any box, package, cover, or wrapper in which such article is incased or inclosed, shall be stamped, branded, engraved, orimprinted with the word “sterling” or the word “coin”, either alone or in conjunction with other words or marks.
 
 #### (b) Identifying trademark
 
@@ -28,9 +28,9 @@ The effective date of this Act, referred to in subsec. (b), as the first day of 
 
 #### Amendments
 
-1970—Subsec. (b). Pub. L. 91–366 struck out reference to the trademark of a firm, corporation or association in cl. (A).
+<b>1970</b>—Subsec. (b). Pub. L. 91–366 struck out reference to the trademark of a firm, corporation or association in cl. (A).
 
-1961—Pub. L. 87–354 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1961</b>—Pub. L. 87–354 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1970 Amendment
 

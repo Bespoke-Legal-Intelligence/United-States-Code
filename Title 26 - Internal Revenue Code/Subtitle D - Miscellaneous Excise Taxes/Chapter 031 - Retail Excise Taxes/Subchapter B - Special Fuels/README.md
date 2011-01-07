@@ -13,11 +13,11 @@ A prior subchapter B of chapter 31 was redesignated subchapter C by Pub. L. 101�
 
 #### Amendments
 
-1990—Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 Stat. 1388–438, redesignated this subchapter, formerly subchapter A, as subchapter B. Former subchapter B redesignated C.
+<b>1990</b>—Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 Stat. 1388–438, redesignated this subchapter, formerly subchapter A, as subchapter B. Former subchapter B redesignated C.
 
-1978—Pub. L. 95–502, title II, §202(c), Oct. 21, 1978, 92 Stat. 1697, added item 4042.
+<b>1978</b>—Pub. L. 95–502, title II, §202(c), Oct. 21, 1978, 92 Stat. 1697, added item 4042.
 
-1976—Pub. L. 94–455, title XIX, §1904(a)(1)(A), Oct. 4, 1976, 90 Stat. 1810, added item 4041.
+<b>1976</b>—Pub. L. 94–455, title XIX, §1904(a)(1)(A), Oct. 4, 1976, 90 Stat. 1810, added item 4041.
 
 
 ---

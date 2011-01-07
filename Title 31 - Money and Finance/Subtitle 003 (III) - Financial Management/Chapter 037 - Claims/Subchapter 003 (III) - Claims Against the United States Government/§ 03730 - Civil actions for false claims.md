@@ -42,7 +42,7 @@ Rights of the Parties to Qui Tam Actions.—(1) If the Government proceeds with 
 
 (3) If the Government elects not to proceed with the action, the person who initiated the action shall have the right to conduct the action. If the Government so requests, it shall be served with copies of all pleadings filed in the action and shall be supplied with copies of all deposition transcripts (at the Government's expense). When a person proceeds with the action, the court, without limiting the status and rights of the person initiating the action, may nevertheless permit the Government to intervene at a later date upon a showing of good cause.
 
-(4) Whether or not the Government proceeds with the action, upon a showing by the Government that certain actions of discovery by the person initiating the action would interfere with the Government's investigation or prosecution of a criminal or civil matter arising out of the same facts, the court may stay such discovery for a period of not more than 60 days. Such a showing shall be conducted in camera. The court may extend the 60-day period upon a further showing in camera that the Government has pursued the criminal or civil investigation or proceedings with reasonable diligence and any proposed discovery in the civil action will interfere with the ongoing criminal or civil investigation or proceedings.
+(4) Whether or not the Government proceeds with the action, upon a showing by the Government that certain actions of discovery by the person initiating the action would interfere with the Government's investigation or prosecution of a criminal or civil matter arising out of the same facts, the court may stay such discovery for a period of not more than 60 days. Such a showing shall be conducted in camera. The court may extend the 60-day period upon a furthershowing in camera that the Government has pursued the criminal or civil investigation or proceedings with reasonable diligence and any proposed discovery in the civil action will interfere with the ongoing criminal or civil investigation or proceedings.
 
 (5) Notwithstanding subsection (b), the Government may elect to pursue its claim through any alternate remedy available to the Government, including any administrative proceeding to determine a civil money penalty. If any such alternate remedy is pursued in another proceeding, the person initiating the action shall have the same rights in such proceeding as such person would have had if the action had continued under this section. Any finding of fact or conclusion of law made in such other proceeding that has become final shall be conclusive on all parties to an action under this section. For purposes of the preceding sentence, a finding or conclusion is final if it has been finally determined on appeal to the appropriate court of the United States, if all time for filing such an appeal with respect to the finding or conclusion has expired, or if the finding or conclusion is not subject to judicial review.
 
@@ -52,7 +52,7 @@ Award to Qui Tam Plaintiff.—(1) If the Government proceeds with an action brou
 
 (2) If the Government does not proceed with an action under this section, the person bringing the action or settling the claim shall receive an amount which the court decides is reasonable for collecting the civil penalty and damages. The amount shall be not less than 25 percent and not more than 30 percent of the proceeds of the action or settlement and shall be paid out of such proceeds. Such person shall also receive an amount for reasonable expenses which the court finds to have been necessarily incurred, plus reasonable attorneys’ fees and costs. All such expenses, fees, and costs shall be awarded against the defendant.
 
-(3) Whether or not the Government proceeds with the action, if the court finds that the action was brought by a person who planned and initiated the violation of section 3729 upon which the action was brought, then the court may, to the extent the court considers appropriate, reduce the share of the proceeds of the action which the person would otherwise receive under paragraph (1) or (2) of this subsection, taking into account the role of that person in advancing the case to litigation and any relevant circumstances pertaining to the violation. If the person bringing the action is convicted of criminal conduct arising from his or her role in the violation of section 3729, that person shall be dismissed from the civil action and shall not receive any share of the proceeds of the action.Such dismissal shall not prejudice the right of the United States to continue the action, represented by the Department of Justice.
+(3) Whether or not the Government proceeds with the action, if the court finds that the action was brought by a person who planned and initiated the violation of section 3729 upon which the action was brought, then the court may, to the extent the court considers appropriate, reduce the share of the proceeds of the action which the person would otherwise receive under paragraph (1) or (2) of this subsection, taking into account the role of that person in advancing the case to litigation and any relevant circumstances pertaining to the violation. If the person bringing the action is convicted of criminal conduct arising from his or her role in the violation of section 3729, that person shall be dismissed from the civil action and shall not receive any share of the proceeds of the action. Such dismissal shall not prejudice the right of the United States to continue the action, represented by the Department of Justice.
 
 (4) If the Government does not proceed with the action and the person bringing the action conducts the action, the court may award to the defendant its reasonable attorneys’ fees and expenses if the defendant prevails in the action and the court finds that the claim of the person bringing the action was clearly frivolous, clearly vexatious, or brought primarily for purposes of harassment.
 
@@ -66,9 +66,17 @@ Certain Actions Barred.—(1) No court shall have jurisdiction over an action br
 
 (3) In no event may a person bring an action under subsection (b) which is based upon allegations or transactions which are the subject of a civil suit or an administrative civil money penalty proceeding in which the Government is already a party.
 
-(4)(A) No court shall have jurisdiction over an action under this section based upon the public disclosure of allegations or transactions in a criminal, civil, or administrative hearing, in a congressional, administrative, or Government <sup>2</sup> Accounting Office report, hearing, audit, or investigation, or from the news media, unless the action is brought by the Attorney General or the person bringing the action is an original source of the information.
+(4)(A) The court shall dismiss an action or claim under this section, unless opposed by the Government, if substantially the same allegations or transactions as alleged in the action or claim were publicly disclosed—
 
-(B) For purposes of this paragraph, “original source” means an individual who has direct and independent knowledge of the information on which the allegations are based and has voluntarily provided the information to the Government before filing an action under this section which is based on the information.
+&emsp;(i) in a Federal criminal, civil, or administrative hearing in which the Government or its agent is a party;
+
+&emsp;(ii) in a congressional, Government Accountability Office, or other Federal report, hearing, audit, or investigation; or
+
+&emsp;(iii) from the news media,
+
+> unless the action is brought by the Attorney General or the person bringing the action is an original source of the information.
+
+(B) For purposes of this paragraph, “original source” means an individual who either (i) priorto a public disclosure under subsection (e)(4)(a), has voluntarily disclosed to the Government the information on which allegations or transactions in a claim are based, or (2) who has knowledge that is independent of and materially adds to the publicly disclosed allegations or transactions, and who has voluntarily provided the information to the Government before filing an action under this section.
 
 (f)
 
@@ -84,13 +92,17 @@ Relief From Retaliatory Actions.—
 
 &emsp;(1)
 
-In general.—Any employee, contractor, or agent shall be entitled to all relief necessary to make that employee, contractor, or agent whole, if that employee, contractor, or agent is discharged, demoted, suspended, threatened, harassed, or in any other manner discriminated against in the terms and conditions of employment because of lawful acts done by the employee, contractor, or agent on behalf of the employee, contractor, or agent or associated others in furtherance of other efforts to stop 1 or more violations of this subchapter.
+In general.—Any employee, contractor, or agent shall be entitled to all relief necessary to make that employee, contractor, or agent whole, if that employee, contractor, or agent is discharged, demoted, suspended, threatened, harassed, or in any other manner discriminated against in the terms and conditions of employment because of lawful acts done by the employee, contractor, agent or associated others in furtherance of an action under this section or other efforts to stop 1 or more violations of this subchapter.
 
 &emsp;(2)
 
 Relief.—Relief under paragraph (1) shall include reinstatement with the same seniority status that employee, contractor, or agent would have had but for the discrimination, 2 times the amount of back pay, interest on the back pay, and compensation for any special damages sustained as a result of the discrimination, including litigation costs and reasonable attorneys’ fees. An action under this subsection may be brought in the appropriate district court of the United States for the relief provided in this subsection.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 978; Pub. L. 99–562, §§3, 4, Oct. 27, 1986, 100 Stat. 3154, 3157; Pub. L. 100–700, §9, Nov. 19, 1988, 102 Stat. 4638; Pub. L. 101–280, §10(a), May 4, 1990, 104 Stat. 162; Pub. L. 103–272, §4(f)(1)(P), July 5, 1994, 108 Stat. 1362; Pub. L. 111–21, §4(d), May 20, 2009, 123 Stat. 1624.)
+&emsp;(3)
+
+Limitation on bringing civil action.—A civil action under this subsection may not be brought more than 3 years after the date when the retaliation occurred.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 978; Pub. L. 99–562, §§3, 4, Oct. 27, 1986, 100 Stat. 3154, 3157; Pub. L. 100–700, §9, Nov. 19, 1988, 102 Stat. 4638; Pub. L. 101–280, §10(a), May 4, 1990, 104 Stat. 162; Pub. L. 103–272, §4(f)(1)(P), July 5, 1994, 108 Stat. 1362; Pub. L. 111–21, §4(d), May 20, 2009, 123 Stat. 1624; Pub. L. 111–148, title X, §10104(j)(2), Mar. 23, 2010, 124 Stat. 901; Pub. L. 111–203, title X, §1079A(c), July 21, 2010, 124 Stat. 2079.)
 
 Historical and Revision Notes
 
@@ -140,13 +152,13 @@ In the section, the words “civil action” are substituted for “suit” for 
 
 In subsection (a), the words “Attorney General” are substituted for “several district attorneys of the United States \[subsequently changed to ‘United States attorneys’ because of section 1 of the Act of June 25, 1948 (ch. 646, 62 Stat. 909)\] for the respective districts, for the District of Columbia, and for the several Territories” because of 28:509. The words “by persons liable to such suit” are omitted as surplus. The words “and found within their respective districts or Territories” are omitted because of the restatement. The words “If the Attorney General finds that a person has violated or is violating section 3729, the Attorney General may bring a civil action under this section against the person” are substituted for “and to cause them to be proceeded against in due form of law for the recovery of such forfeiture and damages” for clarity and consistency. The words “as the district judge may order” are omitted as surplus. The words “of the Attorney General” are substituted for “the person bringing the suit” for consistency in the section.
 
-In subsection (b)(1), the words “Except as hereinafter provided” are omitted as unnecessary. The words “for a violation of section 3729 of this title” are added because of the restatement. The words “and carried on”, “several” and “full power and” are omitted as surplus. The words “of the action” are substituted for “to hear,try, and determine such suit” to eliminate unnecessary words. The words “Trial is in the judicial district within whose jurisdictional limits the person charged with a violation is found or the violation occurs” are substituted for “within whose jurisdictional limits the person doing or committing such act shall be found, shall wheresoever such act may have been done or committed” for consistency in the revised title and with other titles of the Code. The words “withdrawn or” and “judge of the” are omitted as surplus. The words “Attorney General” are substituted for “district attorney \[subsequently changed to ‘United States attorneys’ because of section 1 of the Act of June 25, 1948 (ch. 646, 62 Stat. 909)\], first filed in the case” because of 28:509.
+In subsection (b)(1), the words “Except as hereinafter provided” are omitted as unnecessary. The words “for a violation of section 3729 of this title” are added because of the restatement. The words “and carried on”, “several” and “full power and” are omitted as surplus. The words “of the action” are substituted for “to hear, try, and determine such suit” to eliminate unnecessary words. The words “Trial is in the judicial district within whose jurisdictional limits the person charged with a violation is found or the violation occurs” are substituted for “within whose jurisdictional limits the person doing or committing such act shall be found, shall wheresoever such act may have been done or committed” for consistency in the revised title and with other titles of the Code. The words “withdrawn or” and “judge of the” are omitted as surplus. The words “Attorney General” are substituted for “district attorney \[subsequently changed to ‘United States attorneys’ because of section 1 of the Act of June 25, 1948 (ch. 646, 62 Stat. 909)\], first filed in the case” because of 28:509.
 
 In subsection (b)(2), before clause (A), the words “bill of”, “Whenever any such suit shall be brought by any person under clause (B) of this section” and “to the effective prosecution of such suit or” are omitted as surplus. The words “served on the Government under rule 4 of the Federal Rules of Civil Procedure (28 App. U.S.C.)” are substituted for “notice . . . shall be given to the United States by serving upon the United States Attorney for the district in which such suit shall have been brought . . . and by sending, by registered mail, or by certified mail, to the Attorney General of the United States at Washington, District of Columbia” because of 28:509 and to eliminate unnecessary words. The words “proceed with the action” are added for clarity. Clause (A) is substituted for “shall fail, or decline in writing to the court, during said period of sixty days to enter any such suit” for clarity and consistency. In clause (B), the words “a period of” and “therein” are omitted as surplus.
 
 In subsection (b)(3), the words “within said period” are omitted as surplus. The words “proceeds with the action” are substituted for “shall enter appearance in such suit” for consistency. The words “In carrying on such suit” and “and may proceed in all respects as if it were instituting the suit” are omitted as surplus.
 
-In subsection (b)(4), the words “Unless the Government proceeds with the action” are added because of the restatement. The words “shall dismiss an action brought by the person on discovering” are substituted for “shall have no jurisdiction to proceed with any such suit . . . or pending suit . . . whenever it shall be made to appear that” to eliminate unnecessary words. The words “or any agency, officer, or employee thereof” are omitted as unnecessary. The text of 31:232(C)(last sentence proviso) and (D) is omitted as executed.
+In subsection (b)(4), the words “Unless the Government proceeds with the action” are added because ofthe restatement. The words “shall dismiss an action brought by the person on discovering” are substituted for “shall have no jurisdiction to proceed with any such suit . . . or pending suit . . . whenever it shall be made to appear that” to eliminate unnecessary words. The words “or any agency, officer, or employee thereof” are omitted as unnecessary. The text of 31:232(C)(last sentence proviso) and (D) is omitted as executed.
 
 In subsection (c), the words “herein provided”, “fair and . . . compensation to such person”, and “involved therein, which shall be collected” are omitted as surplus.
 
@@ -162,13 +174,23 @@ Section 101(f) of the Ethics in Government Act of 1978, referred to in subsec. (
 
 #### Amendments
 
-2009—Subsec. (h). Pub. L. 111–21 amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Any employee who is discharged, demoted, suspended, threatened, harassed, or in any other manner discriminated against in the terms and conditions of employment by his or her employer because of lawful acts done by the employee on behalf of the employee or others in furtherance of an action under this section, including investigation for, initiation of, testimony for, or assistance in an action filed or to be filed under this section, shall be entitled to all relief necessary to make the employee whole. Such relief shall include reinstatement with the same seniority status such employee would have had but for the discrimination, 2 times the amount of back pay, interest on the back pay, and compensation for any special damages sustained as a result of the discrimination, including litigation costs and reasonable attorneys’ fees. An employee may bring an action in the appropriate district court of the United States for the relief provided in this subsection.”
+<b>2010</b>—Subsec. (e)(4). Pub. L. 111–148 added par. (4) and struck out former par. (4) which read as follows:
 
-1994—Subsec. (e)(2)(B). Pub. L. 103–272 substituted “paragraphs (1) through (8)” for “section paragraphs (1) through (8)”.
+“(4)(A) No court shall have jurisdiction over an action under this section based upon the public disclosure of allegations or transactions in a criminal, civil, or administrative hearing, in a congressional, administrative, or Government Accounting Office report, hearing, audit, or investigation, or from the news media, unless the action is brought by the Attorney General or the person bringing the action is an original source of the information.
 
-1990—Subsec. (e)(2)(B). Pub. L. 101–280 substituted “paragraphs (1) through (8) of section 101(f)” for “201(f)”.
+“(B) For purposes of this paragraph, ‘original source’ means an individual who has direct and independent knowledge of the information on which the allegations are based and has voluntarily provided the information to the Government before filing an action under this section which is based on the information.”
 
-1988—Subsec. (c)(4). Pub. L. 100–700, §9(b)(1), which directed amendment of section 3730 of title 28 by substituting “with the action” for “with action” in subsec. (c)(4), was executed to subsec. (c)(4) of this section as the probable intent of Congress.
+Subsec. (h)(1). Pub. L. 111–203, §1079A(c)(1), substituted “agent or associated others in furtherance of an action under this section or other efforts to stop 1 or more violations of this subchapter” for “or agent on behalf of the employee, contractor, or agent or associated others in furtherance of other efforts to stop 1 or more violations of this subchapter”.
+
+Subsec. (h)(3). Pub. L. 111–203, §1079A(c)(2), added par. (3).
+
+<b>2009</b>—Subsec. (h). Pub. L. 111–21 amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Any employee who is discharged, demoted, suspended, threatened, harassed, or in any other manner discriminated against in the terms and conditions of employment by his or her employer because of lawful acts done by the employee on behalf of the employee or others in furtherance of an action under this section, including investigation for, initiation of, testimony for, or assistance in an action filed or to be filed under this section, shall be entitled to all relief necessary to make the employee whole. Such relief shall include reinstatement with the same seniority status such employee would have had but for the discrimination, 2 times the amount of back pay, interest on the back pay, and compensation for any special damages sustained as a result of the discrimination, including litigation costs and reasonable attorneys’ fees. An employee may bring an action in the appropriate district court of the United States for the relief provided in this subsection.”
+
+<b>1994</b>—Subsec. (e)(2)(B). Pub. L. 103–272 substituted “paragraphs (1) through (8)” for “section paragraphs (1) through (8)”.
+
+<b>1990</b>—Subsec. (e)(2)(B). Pub. L. 101–280 substituted “paragraphs (1) through (8) of section 101(f)” for “201(f)”.
+
+<b>1988</b>—Subsec. (c)(4). Pub. L. 100–700, §9(b)(1), which directed amendment of section 3730 of title 28 by substituting “with the action” for “with action” in subsec. (c)(4), was executed to subsec. (c)(4) of this section as the probable intent of Congress.
 
 Subsec. (d)(3). Pub. L. 100–700, §9(a)(1), (2), added par. (3). Former par. (3) redesignated (4).
 
@@ -176,9 +198,13 @@ Subsec. (d)(4). Pub. L. 100–700, §9(b)(2), which directed amendment of sectio
 
 Pub. L. 100–700, §9(a)(1), redesignated former par. (3) as (4).
 
-1986—Pub. L. 99–562, §3, amended section generally, revising and expanding provisions of subsecs. (a) to (c), adding subsecs. (d) and (e), redesignating former subsec. (d) as (f), and adding subsec. (g).
+<b>1986</b>—Pub. L. 99–562, §3, amended section generally, revising and expanding provisions of subsecs. (a) to (c), adding subsecs. (d) and (e), redesignating former subsec. (d) as (f), and adding subsec. (g).
 
 Subsec. (h). Pub. L. 99–562, §4, added subsec. (h).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date of 2009 Amendment
 
@@ -189,6 +215,4 @@ Amendment by Pub. L. 111–21 effective May 20, 2009, and applicable to conduct 
 Section 10(c) of Pub. L. 101–280 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 2397a of Title 10, Armed Forces\] shall take effect on January 1, 1991.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “General”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “General”.</i>
 

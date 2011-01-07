@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) is separated from service, whether voluntarily or involuntarily, except that if the separation is involuntary, this section shall not apply if the separation is for gross misconduct (as defined under regulations which the Office of Personnel Management shall prescribe); and
 
-&emsp;&emsp;(B) would not otherwise be eligible for any benefits under this chapter (determined without regard to any temporary extension of coverage and without regard to any benefits available under a nongroup contract);
+&emsp;&emsp;(B) would not otherwise be eligible for any benefits under this chapter (determinedwithout regard to any temporary extension of coverage and without regard to any benefits available under a nongroup contract);
 
 &emsp;(2) any individual who—
 
@@ -82,7 +82,7 @@
 
 (B) For the purpose of this paragraph, members of an individual's family shall be determined in the same way as would apply under this chapter in the case of an enrolled employee.
 
-(C) Nothing in this paragraph shall be considered to limit an individual making an electionunder subsection (c)(2)(A) to coverage for self alone.
+(C) Nothing in this paragraph shall be considered to limit an individual making an election under subsection (c)(2)(A) to coverage for self alone.
 
 (4)(A) If the basis for continued coverage under this section is an involuntary separation from a position, or a voluntary separation from a surplus position, in or under the Department of Defense due to a reduction in force, or the Department of Energy due to a reduction in force resulting from the establishment of the National Nuclear Security Administration—
 
@@ -92,9 +92,9 @@
 
 (B) This paragraph shall apply with respect to any individual whose continued coverage is based on a separation occurring on or after the date of enactment of this paragraph and before—
 
-&emsp;(i) October 1, 2010; or
+&emsp;(i) December 31, 2011; or
 
-&emsp;(ii) February 1, 2011, if specific notice of such separation was given to such individual before October 1, 2010.
+&emsp;(ii) February 1, 2012, if specific notice of such separation was given to such individual before December 31, 2011.
 
 (C) For the purpose of this paragraph, “surplus position” means a position which is identified in pre-reduction-in-force planning as no longer required, and which is expected to be eliminated under formal reduction-in-force procedures.
 
@@ -166,7 +166,7 @@
 
 > extended coverage under this section may not extend beyond the date which is 36 months after the date of the separation from service, as referred to in subparagraph (A).
 
-(Added Pub. L. 100–654, title II, §201(a)(1), Nov. 14, 1988, 102 Stat. 3841; amended Pub. L. 102–484, div. D, title XLIV, §4438(a), Oct. 23, 1992, 106 Stat. 2725; Pub. L. 103–337, div. A, title III, §341(d), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–106, div. A, title X, §1036, Feb. 10, 1996, 110 Stat. 431; Pub. L. 106–65, div. A, title XI, §1104(c), div. C, title XXXII, §3244, Oct. 5, 1999, 113 Stat. 777, 965; Pub. L. 106–117, title XI, §1106, Nov. 30, 1999, 113 Stat. 1598; Pub. L. 107–314, div. A, title XI, §1103, Dec. 2, 2002, 116 Stat. 2661; Pub. L. 107–314, div. D, title XLVI, §4603(h), formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3136(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–459, renumbered §4603(h) of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, §3141(i)(4)(A)–(C), Nov. 24, 2003, 117 Stat. 1777; Pub. L. 108–136, div. C, title XXXI, §3141(m)(3), Nov. 24, 2003, 117 Stat. 1787; Pub. L. 108–375, div. A, title XI, §1101(a), Oct. 28, 2004, 118 Stat. 2072; Pub. L. 109–163, div. A, title XI, §1101, Jan. 6, 2006, 119 Stat. 3447; Pub. L. 110–422, title VI, §615, Oct. 15, 2008, 122 Stat. 4800.)
+(Added Pub. L. 100–654, title II, §201(a)(1), Nov. 14, 1988, 102 Stat. 3841; amended Pub. L. 102–484, div. D, title XLIV, §4438(a), Oct. 23, 1992, 106 Stat. 2725; Pub. L. 103–337, div. A, title III, §341(d), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–106, div. A, title X, §1036, Feb. 10, 1996, 110 Stat. 431; Pub. L. 106–65, div. A, title XI, §1104(c), div. C, title XXXII, §3244, Oct. 5, 1999, 113 Stat. 777, 965; Pub. L. 106–117, title XI, §1106, Nov. 30, 1999, 113 Stat. 1598; Pub. L. 107–314, div. A, title XI, §1103, Dec. 2, 2002, 116 Stat. 2661; Pub. L. 107–314, div. D, title XLVI, §4603(h), formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3136(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–459, renumbered §4603(h) of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, §3141(i)(4)(A)–(C), Nov. 24, 2003, 117 Stat. 1777; Pub. L. 108–136, div. C, title XXXI, §3141(m)(3), Nov. 24, 2003, 117 Stat. 1787; Pub. L. 108–375, div. A, title XI, §1101(a), Oct. 28, 2004, 118 Stat. 2072; Pub. L. 109–163, div. A, title XI, §1101, Jan. 6, 2006, 119 Stat. 3447; Pub. L. 110–422, title VI, §615, Oct. 15, 2008, 122 Stat. 4800; Pub. L. 111–242, §151, as added Pub. L. 111–322, title I, §1(a)(2), Dec. 22, 2010, 124 Stat. 3519.)
 
 #### References in Text
 
@@ -179,6 +179,10 @@ The date of the enactment of this paragraph, referred to in subsec. (d)(5)(B), i
 The date of enactment of this paragraph, referred to in subsec. (d)(6)(B), is the date of enactment of Pub. L. 110–422, which was approved Oct. 15, 2008.
 
 #### Amendments
+
+2010—Subsec. (d)(4)(B)(i). Pub. L. 111–242, §151(1), as added by Pub. L. 111–322, substituted “December 31, 2011” for “October 1, 2010”.
+
+Subsec. (d)(4)(B)(ii). Pub. L. 111–242, §151(2), as added by Pub. L. 111–322, substituted “February 1, 2012” for “February 1, 2011” and “December 31, 2011” for “October 1, 2010”.
 
 2008—Subsec. (d)(1)(A). Pub. L. 110–422, §615(b), substituted “(4), (5), and (6)” for “(4) and (5)” in introductory provisions.
 

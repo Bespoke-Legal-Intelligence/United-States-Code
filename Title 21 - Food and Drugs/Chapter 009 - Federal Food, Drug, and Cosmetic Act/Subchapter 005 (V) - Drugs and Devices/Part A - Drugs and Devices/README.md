@@ -1,7 +1,5 @@
 Part A—Drugs and Devices
 
-<i><sup>1</sup></i><i> So in original. Probably should be “in section”.</i>
-
 
 ---
 

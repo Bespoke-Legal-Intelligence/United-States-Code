@@ -16,7 +16,7 @@ In order to carry out the provisions of this chapter, the Foundation may—
 
 &emsp;(5) accept and utilize the services of voluntary and noncompensated personnel and reimburse such personnel for travel expenses, including per diem, as authorized by section 5703 of title 5;
 
-&emsp;(6) enter into contracts, grants, or other arrangements or modifications thereof, to carry out the provisions of this chapter, and such contracts or modifications thereof may, with the concurrence of two-thirds of the members of the Board of Trustees, be entered into without performance or other bonds, and without regard to section 5 of title 41;
+&emsp;(6) enter into contracts, grants, or other arrangements or modifications thereof, to carry out the provisions of this chapter, and such contracts or modifications thereof may, with the concurrence of two-thirds of the members of the Board of Trustees, be entered into without performance or other bonds, and without regard to section 6101 of title 41;
 
 &emsp;(7) to <sup>1</sup> rent office space in the District of Columbia or its environs; and
 
@@ -28,15 +28,19 @@ The authorities set forth above shall, with the exception of paragraph (4), appl
 
 (Pub. L. 102–259, §12, formerly §10, Mar. 19, 1992, 106 Stat. 83; renumbered §12, Pub. L. 105–156, §6(a), Feb. 11, 1998, 112 Stat. 9; amended Pub. L. 105–277, div. A, §101(h) \[title V, §517(b)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–512; Pub. L. 106–568, title VIII, §817(b), Dec. 27, 2000, 114 Stat. 2918; Pub. L. 111–90, §10, Nov. 3, 2009, 123 Stat. 2978.)
 
+#### Codification
+
+In subsec. (a)(6), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–90, §10(1), added par. (1) and struck out former par. (1) which read as follows: “appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter, except that in no case shall employees other than the Executive Director be compensated at a rate to exceed the maximum rate for employees in grade GS–15 of the General Schedule under section 5332 of title 5;”.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–90, §10(1), added par. (1) and struck out former par. (1) which read as follows: “appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter, except that in no case shall employees other than the Executive Director be compensated at a rate to exceed the maximum rate for employees in grade GS–15 of the General Schedule under section 5332 of title 5;”.
 
 Subsec. (a)(7), (8). Pub. L. 111–90, §10(2)–(4), added par. (7) and redesignated former par. (7) as (8).
 
-2000—Subsec. (b). Pub. L. 106–568 inserted before period at end “and to the activities of the Foundation under section 5604(7) of this title”.
+<b>2000</b>—Subsec. (b). Pub. L. 106–568 inserted before period at end “and to the activities of the Foundation under section 5604(7) of this title”.
 
-1998—Pub. L. 105–277 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1998</b>—Pub. L. 105–277 designated existing provisions as subsec. (a) and added subsec. (b).
 
 <i><sup>1</sup></i><i> So in original. The word “to” probably should not appear.</i>
 

@@ -122,15 +122,15 @@ In this section—“Federal law enforcement program” means a program authoriz
 
 &emsp;(19) section 40156; <sup>1</sup>
 
-&emsp;(20) section 10416 of this title;
+&emsp;(20) section 10413 of this title (relating to a hotline);
 
 &emsp;(21) section 40231; <sup>1</sup>
 
-&emsp;(22) section 40241; <sup>1</sup>
+&emsp;(22) sections 10401 through 10412 of this title;
 
 &emsp;(23) section 10417 <sup>1</sup> of this title;
 
-&emsp;(24) section 10418 of this title;
+&emsp;(24) section 10414 of this title (relating to community projects to prevent family violence, domestic violence, and dating violence);
 
 &emsp;(25) section 13962 of this title;
 
@@ -148,7 +148,7 @@ In this section—“Federal law enforcement program” means a program authoriz
 
 &emsp;(32) section 14181 <sup>1</sup> of this title.
 
-(Pub. L. 103–322, title XXXI, §310004, Sept. 13, 1994, 108 Stat. 2106.)
+(Pub. L. 103–322, title XXXI, §310004, Sept. 13, 1994, 108 Stat. 2106; Pub. L. 111–320, title II, §202(e), Dec. 20, 2010, 124 Stat. 3509.)
 
 #### References in Text
 
@@ -210,15 +210,27 @@ Section 300w–10 of this title, referred to in subsec. (d), was repealed by Pub
 
 Section 5712d of this title, referred to in subsec. (d), was repealed by Pub. L. 109–162, title XI, §1172(b), Jan. 5, 2006, 119 Stat. 3123.
 
-Section 40156, referred to in subsec. (d), is section 40156 of Pub. L. 103–322, 108 Stat. 1922, which amended sections 3793, 3796aa–1 to 3796aa–3, 3796aa–5, 3796aa–6,13012, 13014, 13021, and 13024 of this title and repealed sections 3796aa–4 and 3796aa–7 of this title.
+Section 40156, referred to in subsec. (d), is section 40156 of Pub. L. 103–322, 108 Stat. 1922, which amended sections 3793, 3796aa–1 to 3796aa–3, 3796aa–5, 3796aa–6, 13012, 13014, 13021, and 13024 of this title and repealed sections 3796aa–4 and 3796aa–7 of this title.
 
 Section 40231, referred to in subsec. (d), is section 40231 of Pub. L. 103–322, 108 Stat. 1932, which enacted subchapter XII–I (§3796hh et seq.) of chapter 46 of this title and amended sections 3782, 3783, 3793, and 3797 of this title.
-
-Section 40241, referred to in subsec. (d), is section 40241 of Pub. L. 103–322, 108 Stat. 1934, which amended section 10409 of this title.
 
 Section 10417 of this title, referred to in subsec. (d), was repealed by Pub. L. 108–36, title IV, §412, June 25, 2003, 117 Stat. 829.
 
 Section 40601, referred to in subsec. (d), is section 40601 of Pub. L. 103–322, 108 Stat. 1950, which amended section 534 of Title 28, Judiciary and Judicial Procedure, and enacted provisions set out as a note under section 534 of Title 28.
 
 Section 14181 of this title, referred to in subsec. (d), was in the original “section 24001” and was translated as reading “section 240001”, meaning section 240001 of Pub. L. 103–322, to reflect the probable intent of Congress, because Pub. L. 103–322 does not contain a section 24001.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (d)(20). Pub. L. 111–320, §202(e)(1), substituted “section 10413 of this title (relating to a hotline)” for “section 10416 of this title”.
+
+Subsec. (d)(22). Pub. L. 111–320, §202(e)(2), substituted “sections 10401 through 10412 of this title” for “section 40241”.
+
+Subsec. (d)(24). Pub. L. 111–320, §202(e)(3), substituted “section 10414 of this title (relating to community projects to prevent family violence, domestic violence, and dating violence)” for “section 10418 of this title”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Pub. L. 103–322 does not contain a section 320925.</i>
+
+<i><sup>3</sup></i><i> So in original. Pub. L. 103–322 does not contain a section 320930.</i>
 

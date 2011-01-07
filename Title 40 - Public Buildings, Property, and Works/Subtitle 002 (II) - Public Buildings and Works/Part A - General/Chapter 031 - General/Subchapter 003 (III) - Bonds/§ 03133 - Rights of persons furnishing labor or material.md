@@ -2,7 +2,7 @@
 
 (a)
 
-Right of Person Furnishing Labor or Material to Copy of Bond.—The department secretary or agency head of the contracting agency shall furnish a certified copy of a payment bond and the contract for which it was given to any person applying for a copy who submits an affidavit that the person has supplied labor or material for work described in the contract and payment for the work has not been made or that the person is being sued on the bond. The copy is prima facie evidence of the contents, execution, and delivery of the original. Applicants shall pay any fees the department secretary or agency head of the contracting agency fixes to cover the cost of preparing the certified copy.
+Right of Person Furnishing Labor or Material to Copy of Bond.—The department secretary or agency head of the contracting agency shall furnish a certified copy of a payment bondand the contract for which it was given to any person applying for a copy who submits an affidavit that the person has supplied labor or material for work described in the contract and payment for the work has not been made or that the person is being sued on the bond. The copy is prima facie evidence of the contents, execution, and delivery of the original. Applicants shall pay any fees the department secretary or agency head of the contracting agency fixes to cover the cost of preparing the certified copy.
 
 (b)
 
@@ -88,7 +88,7 @@ In subsection (c), the words “bring a civil action” are substituted for “s
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–284, §6(9), substituted “To” for “to” in heading.
+<b>2006</b>—Subsec. (b). Pub. L. 109–284, §6(9), substituted “To” for “to” in heading.
 
 Subsec. (c). Pub. L. 109–284, §6(10), inserted heading.
 

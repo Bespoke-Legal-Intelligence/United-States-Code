@@ -456,19 +456,19 @@ This makes a conforming amendment for consistency with the style of title 49.
 
 #### Amendments
 
-2008—Subsec. (a)(41)(E). Pub. L. 110–181 inserted “or other commercial air service” after “transportation” and inserted at end “In the preceding sentence, the term ‘other commercial air service’ means an aircraft operation that (i) is within the United States territorial airspace; (ii) the Administrator of the Federal Aviation Administration determines is available for compensation or hire to the public, and (iii) must comply with all applicable civil aircraft rules under title 14, Code of Federal Regulations.”
+<b>2008</b>—Subsec. (a)(41)(E). Pub. L. 110–181 inserted “or other commercial air service” after “transportation” and inserted at end “In the preceding sentence, the term ‘other commercial air service’ means an aircraft operation that (i) is within the United States territorial airspace; (ii) the Administrator of the Federal Aviation Administration determines is available for compensation or hire to the public, and (iii) must comply with all applicable civil aircraft rules under title 14, Code of Federal Regulations.”
 
-2003—Subsec. (a)(15)(C). Pub. L. 108–176, §807, inserted “which is under the actual control of citizens of the United States,” before “and in which”.
+<b>2003</b>—Subsec. (a)(15)(C). Pub. L. 108–176, §807, inserted “which is under the actual control of citizens of the United States,” before “and in which”.
 
 Subsec. (a)(29) to (47). Pub. L. 108–176, §225(a), added pars. (29), (31), (34), (36), and (42) and redesignated former pars. (29), (30), (31), (32), (33), (34), (35), (36), (37), (38), (39), (40), (41), and (42) as (30), (32), (33), (35), (37), (38), (39), (40), (41), (43), (44), (45), (46), and (47), respectively.
 
-2000—Subsec. (a)(37). Pub. L. 106–181, §702(a), amended par. (37) generally, revising and restating provisions defining “public aircraft” to include references to qualifications found in section 40125(b) and (c).
+<b>2000</b>—Subsec. (a)(37). Pub. L. 106–181, §702(a), amended par. (37) generally, revising and restating provisions defining “public aircraft” to include references to qualifications found in section 40125(b) and (c).
 
 Subsec. (a)(42). Pub. L. 106–181, §301, added par. (42).
 
-1997—Subsec. (a)(37)(A). Pub. L. 105–137 struck out “or” at end of cl. (i), added cl. (ii), and redesignated former cl. (ii) as (iii).
+<b>1997</b>—Subsec. (a)(37)(A). Pub. L. 105–137 struck out “or” at end of cl. (i), added cl. (ii), and redesignated former cl. (ii) as (iii).
 
-1994—Subsec. (a)(30). Pub. L. 103–429 substituted “this subpart and subpart III” for “subparts I and III”.
+<b>1994</b>—Subsec. (a)(30). Pub. L. 103–429 substituted “this subpart and subpart III” for “subparts I and III”.
 
 Subsec. (a)(35). Pub. L. 103–305 struck out “for air transportation” after “charge”.
 

@@ -54,9 +54,9 @@ Nothing in this section shall be construed to authorize amounts made available u
 
 #### (f) Authorization of appropriations
 
-There are authorized to be appropriated to the Fund such sums as may be necessary to carry out this section <sup>1</sup>
+There are authorized to be appropriated to the Fund such sums as may be necessary to carry out this section.
 
-(Pub. L. 110–417, div. C, title XXXV, §3512, Oct. 14, 2008, 122 Stat. 4770.)
+(Pub. L. 110–417, div. C, title XXXV, §3512, Oct. 14, 2008, 122 Stat. 4770; Pub. L. 111–383, div. A, title X, §1075(e)(20), Jan. 7, 2011, 124 Stat. 4375.)
 
 #### References in Text
 
@@ -65,4 +65,8 @@ The National Environmental Policy Act of 1969, referred to in subsec. (b)(2), is
 #### Codification
 
 Section was enacted as part of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 and not as part of the Organic Act of Guam which comprises this chapter.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (f). Pub. L. 111–383 inserted period at end.
 

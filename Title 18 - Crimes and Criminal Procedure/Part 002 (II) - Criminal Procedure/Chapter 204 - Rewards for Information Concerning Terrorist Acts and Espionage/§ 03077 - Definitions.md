@@ -16,7 +16,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(E) a sole proprietorship, partnership, company, or association composed principally of nationals or permanent resident aliens of the United States; and
 
-&emsp;&emsp;(F) a corporation organized under the laws of the United States, any State, the District of Columbia, or any territory or possession of the United States, and a foreign subsidiary of such corporation;
+&emsp;&emsp;(F) a corporation organized under the laws of the United States, any State, the Districtof Columbia, or any territory or possession of the United States, and a foreign subsidiary of such corporation;
 
 &emsp;(3) “United States property” means any real or personal property which is within the United States or, if outside the United States, the actual or beneficial ownership of which rests in a United States person or any Federal or State governmental entity of the United States;
 
@@ -42,7 +42,7 @@ Section 4 of the Subversive Activities Control Act of 1950, referred to in par. 
 
 #### Amendments
 
-2001—Par. (1). Pub. L. 107–56 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘act of terrorism’ means an activity that—
+<b>2001</b>—Par. (1). Pub. L. 107–56 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘act of terrorism’ means an activity that—
 
 &emsp;“(A) involves a violent act or an act dangerous to human life that is a violation of the criminal laws of the United States or of any State, or that would be a criminal violation if committed within the jurisdiction of the United States or of any State; and
 
@@ -54,15 +54,15 @@ Section 4 of the Subversive Activities Control Act of 1950, referred to in par. 
 
 &emsp;&emsp;“(iii) to affect the conduct of a government by assassination or kidnapping;”.
 
-1996—Par. (8)(A). Pub. L. 104–294 substituted “this title” for “title 18, United States Code”.
+<b>1996</b>—Par. (8)(A). Pub. L. 104–294 substituted “this title” for “title 18, United States Code”.
 
-1994—Par. (1)(B)(iii). Pub. L. 103–322 substituted “kidnapping” for “kidnaping”.
+<b>1994</b>—Par. (1)(B)(iii). Pub. L. 103–322 substituted “kidnapping” for “kidnaping”.
 
 Par. (8). Pub. L. 103–359 added par. (8).
 
-1990—Pub. L. 101–647 substituted a semicolon for a period at end of pars. (1) to (3), moved the comma from before the close quotation mark to after that mark in par. (4), substituted a semicolon for a period at end of par. (5), and substituted “; and” for period at end of par. (6).
+<b>1990</b>—Pub. L. 101–647 substituted a semicolon for a period at end of pars. (1) to (3), moved the comma from before the close quotation mark to after that mark in par. (4), substituted a semicolon for a period at end of par. (5), and substituted “; and” for period at end of par. (6).
 
-1988—Par. (4). Pub. L. 100–690 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “ ‘United States’—
+<b>1988</b>—Par. (4). Pub. L. 100–690 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “ ‘United States’—
 
 &emsp;“(A) when used in a geographical sense, includes Puerto Rico and all territories and possessions of the United States; and
 

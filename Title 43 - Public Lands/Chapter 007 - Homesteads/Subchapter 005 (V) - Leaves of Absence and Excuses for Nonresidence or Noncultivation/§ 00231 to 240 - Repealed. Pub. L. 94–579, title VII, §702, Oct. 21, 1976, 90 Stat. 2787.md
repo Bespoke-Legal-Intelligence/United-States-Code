@@ -38,7 +38,7 @@ Section 240, acts June 16, 1898, ch. 458, 30 Stat. 473; Aug. 29, 1916, ch. 420, 
 
 #### Effective Date of Repeal
 
-Section 702 of Pub. L. 94–579 provided that the repeal made by that section is effective on and after Oct. 21,1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
+Section 702 of Pub. L. 94–579 provided that the repeal made by that section is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
 
 #### Savings Provision
 

@@ -44,7 +44,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The burden of proof is on the applicant to establish that the applicant is a refugee, within the meaning of section 1101(a)(42)(A) of this title. To establishthat the applicant is a refugee within the meaning of such section, the applicant must establish that race, religion, nationality, membership in a particular social group, or political opinion was or will be at least one central reason for persecuting the applicant.
+&emsp;&emsp;&emsp;The burden of proof is on the applicant to establish that the applicant is a refugee, within the meaning of section 1101(a)(42)(A) of this title. To establish that the applicant is a refugee within the meaning of such section, the applicant must establish that race, religion, nationality, membership in a particular social group, or political opinion was or will be at least one central reason for persecuting the applicant.
 
 #### (ii) Sustaining burden
 
@@ -94,7 +94,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien.
+&emsp;&emsp;A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title)of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien.
 
 #### (B) Continued classification of certain aliens as children
 
@@ -190,6 +190,10 @@ The provisions of this section and section 1159(b) of this title shall apply to 
 
 (June 27, 1952, ch. 477, title II, ch. 1, §208, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 105; amended Pub. L. 101–649, title V, §515(a)(1), Nov. 29, 1990, 104 Stat. 5053; Pub. L. 103–322, title XIII, §130005(b), Sept. 13, 1994, 108 Stat. 2028; Pub. L. 104–132, title IV, §421(a), Apr. 24, 1996, 110 Stat. 1270; Pub. L. 104–208, div. C, title VI, §604(a), Sept. 30, 1996, 110 Stat. 3009–690; Pub. L. 107–56, title IV, §411(b)(2), Oct. 26, 2001, 115 Stat. 348; Pub. L. 107–208, §4, Aug. 6, 2002, 116 Stat. 928; Pub. L. 109–13, div. B, title I, §101(a), (b), May 11, 2005, 119 Stat. 302, 303; Pub. L. 110–229, title VII, §702(j)(4), May 8, 2008, 122 Stat. 866; Pub. L. 110–457, title II, §235(d)(7), Dec. 23, 2008, 122 Stat. 5080.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (d)(5)(B), (6), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+
 #### Amendments
 
 2008—Subsec. (a)(2)(E). Pub. L. 110–457, §235(d)(7)(A), added subpar. (E).
@@ -218,7 +222,7 @@ Subsec. (a). Pub. L. 104–132, §421(a), inserted at end “The Attorney Genera
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–229 effective on the transition program effective date described in section 1806 of Title 48, Territories and Insular Possessions, see section 705(b) of Pub. L. 110–229, set out as an Effective Date note under section 1806 of Title 48.
+Amendment by Pub. L. 110–229 effective on the transition program effective date described in section 1806 ofTitle 48, Territories and Insular Possessions, see section 705(b) of Pub. L. 110–229, set out as an Effective Date note under section 1806 of Title 48.
 
 #### Effective Date of 2005 Amendment
 
@@ -234,7 +238,7 @@ Amendment by Pub. L. 107–208 effective Aug. 6, 2002, and applicable to certain
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–56 effective Oct. 26, 2001, and applicable to actions taken by an alien before, on, or after Oct. 26, 2001, and to all aliens, regardless of date of entry or attempted entry into the United States, in removal proceedings on or after such date (except for proceedings in which there has been a final administrative decision before such date) or seeking admission to the United States on or after such date, with special rules and exceptions, see section 411(c) ofPub. L. 107–56, set out as a note under section 1182 of this title.
+Amendment by Pub. L. 107–56 effective Oct. 26, 2001, and applicable to actions taken by an alien before, on, or after Oct. 26, 2001, and to all aliens, regardless of date of entry or attempted entry into the United States, in removal proceedings on or after such date (except for proceedings in which there has been a final administrative decision before such date) or seeking admission to the United States on or after such date, with special rules and exceptions, see section 411(c) of Pub. L. 107–56, set out as a note under section 1182 of this title.
 
 #### Effective Date of 1996 Amendments
 

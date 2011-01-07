@@ -16,5 +16,5 @@ The Secretary shall require a commitment from non-Federal sources of at least 50
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–271 added subsec. (c).
+<b>1996</b>—Subsec. (c). Pub. L. 104–271 added subsec. (c).
 

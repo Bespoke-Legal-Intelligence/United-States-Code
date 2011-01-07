@@ -20,7 +20,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-23101D36:4301.DJuly 14, 1964, Pub. L. 88–372, §§1, 2, 4(1), 78 Stat. 314, 315.
+23101
+
+36:4301.
+
+July 14, 1964, Pub. L. 88–372, §§1, 2, 4(1), 78 Stat. 314, 315.
 
 &nbsp;
 

@@ -6,5 +6,5 @@ There are authorized to be appropriated to the Secretary of Commerce $5,000,000 
 
 #### Amendments
 
-1984—Pub. L. 98–616 authorized appropriation of $1,500,000 for each of fiscal years 1985 through 1988.
+<b>1984</b>—Pub. L. 98–616 authorized appropriation of $1,500,000 for each of fiscal years 1985 through 1988.
 

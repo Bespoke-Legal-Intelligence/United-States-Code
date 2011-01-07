@@ -28,7 +28,7 @@ The Secretary may issue trust certificates representing ownership of all or a fr
 
 #### (B) Interest
 
-&emsp;&emsp;Interest on prepaid or defaulted debentures shall accrue and be guaranteed by theSecretary only through the date of payment of the guarantee.
+&emsp;&emsp;Interest on prepaid or defaulted debentures shall accrue and be guaranteed by the Secretary only through the date of payment of the guarantee.
 
 #### (C) Redemption
 

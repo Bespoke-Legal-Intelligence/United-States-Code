@@ -2,7 +2,7 @@
 
 #### (a) Exceptions; temporary or emergency service or discontinuance of service; changes in plant, operation or equipment
 
-No carrier shall undertake the construction of a new line or of an extension of any line, or shall acquire or operate any line, or extension thereof, or shall engage in transmission over or by means of such additional or extended line, unless and until there shall first have been obtained from the Commission a certificate that the present or future public convenience and necessity require or will require the construction, or operation, or construction and operation, of such additional or extended line: <i>Provided</i>, That no such certificate shall be required under this section for the construction, acquisition, or operation of (1) a line within a single State unless such line constitutes part of an interstate line, (2) local, branch, or terminal lines not exceeding ten miles in length, or (3) any line acquired under section 221 of this title: <i>Provided further</i>, That the Commission may, upon appropriate request being made, authorize temporary or emergency service, or the supplementing of existing facilities, without regard to the provisions of this section. No carrier shall discontinue, reduce, or impair service to a community, or partof a community, unless and until there shall first have been obtained from the Commission a certificate that neither the present nor future public convenience and necessity will be adversely affected thereby; except that the Commission may, upon appropriate request being made, authorize temporary or emergency discontinuance, reduction, or impairment of service, or partial discontinuance, reduction, or impairment of service, without regard to the provisions of this section. As used in this section the term “line” means any channel of communication established by the use of appropriate equipment, other than a channel of communication established by the interconnection of two or more existing channels: <i>Provided, however</i>, That nothing in this section shall be construed to require a certificate or other authorization from the Commission for any installation, replacement, or other changes in plant, operation, or equipment, other than new construction, which will not impair the adequacy or quality of service provided.
+No carrier shall undertake the construction of a new line or of an extension of any line, or shall acquire or operate any line, or extension thereof, or shall engage in transmission over or by means of such additional or extended line, unless and until there shall first have been obtained from the Commission a certificate that the present or future public convenience and necessity require or will require the construction,or operation, or construction and operation, of such additional or extended line: <i>Provided</i>, That no such certificate shall be required under this section for the construction, acquisition, or operation of (1) a line within a single State unless such line constitutes part of an interstate line, (2) local, branch, or terminal lines not exceeding ten miles in length, or (3) any line acquired under section 221 of this title: <i>Provided further</i>, That the Commission may, upon appropriate request being made, authorize temporary or emergency service, or the supplementing of existing facilities, without regard to the provisions of this section. No carrier shall discontinue, reduce, or impair service to a community, or part of a community, unless and until there shall first have been obtained from the Commission a certificate that neither the present nor future public convenience and necessity will be adversely affected thereby; except that the Commission may, upon appropriate request being made, authorize temporary or emergency discontinuance, reduction, or impairment of service, or partial discontinuance, reduction, or impairment of service, without regard to the provisions of this section. As used in this section the term “line” means any channel of communication established by the use of appropriate equipment, other than a channel of communication established by the interconnection of two or more existing channels: <i>Provided, however</i>, That nothing in this section shall be construed to require a certificate or other authorization from the Commission for any installation, replacement, or other changes in plant, operation, or equipment, other than new construction, which will not impair the adequacy or quality of service provided.
 
 #### (b) Notification of Secretary of Defense, Secretary of State, and State Governor
 
@@ -28,7 +28,7 @@ The Commission may, after full opportunity for hearing, in a proceeding upon com
 
 #### (2) Designation of eligible telecommunications carriers
 
-&emsp;A State commission shall upon its own motion or upon request designate a common carrier that meets the requirements of paragraph (1) as an eligible telecommunications carrier for a service area designated by the State commission. Upon request and consistent with the public interest, convenience, and necessity, the State commission may, in the case of an area served by a rural telephone company, and shall, in the case of all other areas, designate more than one common carrier as an eligible telecommunications carrier for a service area designated by the State commission, so long as each additional requesting carrier meets the requirements of paragraph (1). Before designating an additional eligible telecommunications carrier for an area served by a rural telephone company, the State commission shall find that the designation is in the public interest.
+&emsp;A State commission shall upon its own motion or upon request designate a common carrier that meets the requirements of paragraph (1) as an eligible telecommunications carrier for a service area designated by the State commission. Upon request and consistent with the public interest, convenience, and necessity, the State commission may, in the case of an area served by a rural telephone company, and shall, in the case of all other areas, designate more than one common carrier as an eligible telecommunications carrier for a service area designated by the State commission, so long as each additional requesting carriermeets the requirements of paragraph (1). Before designating an additional eligible telecommunications carrier for an area served by a rural telephone company, the State commission shall find that the designation is in the public interest.
 
 #### (3) Designation of eligible telecommunications carriers for unserved areas
 
@@ -50,7 +50,7 @@ The Commission may, after full opportunity for hearing, in a proceeding upon com
 
 #### Amendments
 
-1997—Subsec. (e)(1). Pub. L. 105–125, §1(1), substituted “(2), (3), or (6)” for “(2) or (3)”.
+<b>1997</b>—Subsec. (e)(1). Pub. L. 105–125, §1(1), substituted “(2), (3), or (6)” for “(2) or (3)”.
 
 Subsec. (e)(3). Pub. L. 105–125, §1(2), substituted “interstate services or an area served by a common carrier to which paragraph (6) applies” for “interstate services”.
 
@@ -60,15 +60,15 @@ Subsec. (e)(5). Pub. L. 105–125, §1(4), inserted “(or the Commission under 
 
 Subsec. (e)(6). Pub. L. 105–125, §1(5), added par. (6).
 
-1996—Subsec. (e). Pub. L. 104–104 added subsec. (e).
+<b>1996</b>—Subsec. (e). Pub. L. 104–104 added subsec. (e).
 
-1994—Subsec. (a). Pub. L. 103–414 substituted “section 221” for “section 221 or 222”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–414 substituted “section 221” for “section 221 or 222”.
 
-1989—Subsec. (d). Pub. L. 101–239 substituted “$1,200” for “$100”.
+<b>1989</b>—Subsec. (d). Pub. L. 101–239 substituted “$1,200” for “$100”.
 
-1974—Subsec. (b). Pub. L. 93–506 substituted “the Secretary of Defense, the Secretary of State (with respect to such applications involving service to foreign points),” for “the Secretary of the Army, the Secretary of the Navy,”.
+<b>1974</b>—Subsec. (b). Pub. L. 93–506 substituted “the Secretary of Defense, the Secretary of State (with respect to such applications involving service to foreign points),” for “the Secretary of the Army, the Secretary of the Navy,”.
 
-1943—Subsec. (a). Act Mar. 6, 1943, §2, among other changes inserted all after “no carrier shall discontinue”, etc.
+<b>1943</b>—Subsec. (a). Act Mar. 6, 1943, §2, among other changes inserted all after “no carrier shall discontinue”, etc.
 
 Subsec. (b). Act Mar. 6, 1943, §3, among other changes provided notice should be filed with Secretary of War and the Secretary of the Navy.
 

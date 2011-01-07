@@ -78,7 +78,7 @@ Exempt Unless Otherwise Necessary.—Except to the extent the Secretary or Board
 
 #### Historical and Revision Notes
 
-I74Pub. L. 105–102
+#### Pub. L. 105–102
 
 This amends 49:13506(a)(5) to correct a grammatical error.
 
@@ -88,9 +88,9 @@ Provisions similar to those in this section were contained in section 10526 of t
 
 #### Amendments
 
-2002—Subsec. (a)(2). Pub. L. 107–298 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “a motor vehicle providing taxicab service and having a capacity of not more than 6 passengers and not operated on a regular route or between specified places;”.
+<b>2002</b>—Subsec. (a)(2). Pub. L. 107–298 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “a motor vehicle providing taxicab service and having a capacity of not more than 6 passengers and not operated on a regular route or between specified places;”.
 
-1997—Subsec. (a)(5). Pub. L. 105–102 substituted “1141j(a)))” for “1141j(a))”.
+<b>1997</b>—Subsec. (a)(5). Pub. L. 105–102 substituted “1141j(a)))” for “1141j(a))”.
 
 #### Abolition of Interstate Commerce Commission
 

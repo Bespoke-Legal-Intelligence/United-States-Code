@@ -10,9 +10,9 @@ Section was formerly classified to section 83 of this title.
 
 #### Amendments
 
-2005—Pub. L. 109–97 substituted “amenable species” for “cattle, sheep, swine, goats, horses, mules, and other equines”.
+<b>2005</b>—Pub. L. 109–97 substituted “amenable species” for “cattle, sheep, swine, goats, horses, mules, and other equines”.
 
-1967—Pub. L. 90–201, §§3(b), 12(a), struck out “of Agriculture” after “Secretary” and included horses, mules, and other equines in the list of animals, respectively.
+<b>1967</b>—Pub. L. 90–201, §§3(b), 12(a), struck out “of Agriculture” after “Secretary” and included horses, mules, and other equines in the list of animals, respectively.
 
 #### Effective Date of 2005 Amendment
 
@@ -20,5 +20,5 @@ Amendment by Pub. L. 109–97 effective the day after 120 days after Nov. 10, 20
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect to equines (other than horses) and their carcasses and parts thereof, meat, and meat food products thereof, amendment effective upon expiration of sixty days after Dec. 15, 1967, see section 20(b)of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
+Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect to equines (other than horses) and their carcasses and parts thereof, meat, and meat food products thereof, amendment effective upon expiration of sixty days after Dec. 15, 1967, see section 20(b) of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
 

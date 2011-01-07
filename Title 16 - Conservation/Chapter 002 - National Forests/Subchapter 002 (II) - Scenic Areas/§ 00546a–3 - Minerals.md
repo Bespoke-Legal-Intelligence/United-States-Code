@@ -4,9 +4,3 @@ Subject to valid existing rights, the lands within the scenic area are hereby wi
 
 (Pub. L. 106–431, §6, Nov. 6, 2000, 114 Stat. 1907.)
 
-#### References in Text
-
-The mineral leasing laws, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
-
-Geothermal leasing laws, referred to in text, are classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining.
-

@@ -18,7 +18,7 @@ Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, kno
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–564, §5(1), substituted “article XVIII” for “article XXIV”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–564, §5(1), substituted “article XVIII” for “article XXIV”.
 
 Subsec. (b). Pub. L. 94–564, §5(2), substituted “article XX, article XXIV, and XXV” for “article XXVI, article XXX, and article XXXI” wherever appearing.
 

@@ -30,7 +30,7 @@ A prior section 26 of Pub. L. 87–293 was renumbered section 27 and is classifi
 
 #### Amendments
 
-1970—Subsec. (g). Pub. L. 91–352 inserted reference to section 2504(m) of this title.
+<b>1970</b>—Subsec. (g). Pub. L. 91–352 inserted reference to section 2504(m) of this title.
 
-1966—Subsec. (b). Pub. L. 89–572 struck out territories from definition of “United States”.
+<b>1966</b>—Subsec. (b). Pub. L. 89–572 struck out territories from definition of “United States”.
 

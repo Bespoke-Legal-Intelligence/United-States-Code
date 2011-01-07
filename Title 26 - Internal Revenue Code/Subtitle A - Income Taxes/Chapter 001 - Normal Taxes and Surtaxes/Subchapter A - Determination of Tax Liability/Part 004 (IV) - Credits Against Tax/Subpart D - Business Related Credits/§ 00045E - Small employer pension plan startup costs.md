@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### Amendments
 
-2002—Subsec. (e)(1). Pub. L. 107–147 substituted “subsection (m)” for “subsection (n)”.
+<b>2002</b>—Subsec. (e)(1). Pub. L. 107–147 substituted “subsection (m)” for “subsection (n)”.
 
 #### Effective Date of 2002 Amendment
 

@@ -32,9 +32,9 @@ Section was enacted as part of the Science and Engineering Equal Opportunities A
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–360 substituted “By January 30 of each odd-numbered year” for “By January 30, 1982, and biennially thereafter”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–360 substituted “By January 30 of each odd-numbered year” for “By January 30, 1982, and biennially thereafter”.
 
-1985—Subsec. (b)(1), (2). Pub. L. 99–159, §111(b)(9)(A), substituted “engineering” for “technical” wherever appearing.
+<b>1985</b>—Subsec. (b)(1), (2). Pub. L. 99–159, §111(b)(9)(A), substituted “engineering” for “technical” wherever appearing.
 
 Subsec. (b)(3). Pub. L. 99–159, §111(b)(9)(B), substituted “Engineering” for “Technology”.
 

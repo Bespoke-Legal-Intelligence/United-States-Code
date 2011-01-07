@@ -10,5 +10,5 @@ R.S. §2410 derived from act Mar. 3, 1853, ch. 145, §4, 10 Stat. 245.
 
 #### Amendments
 
-1950—Act Apr. 29, 1950, struck out limitation that, when there are departures from the rectangular surveys, the lands shall not be surveyed into less than 160 acres or subdivided into less than 40 acres, and by substituting a general provision for those departures.
+<b>1950</b>—Act Apr. 29, 1950, struck out limitation that, when there are departures from the rectangular surveys, the lands shall not be surveyed into less than 160 acres or subdivided into less than 40 acres, and by substituting a general provision for those departures.
 

@@ -1,5 +1,5 @@
 
-20 U.S.C.<br>United States Code, 2009 Edition<br>Title 20 - EDUCATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+20 U.S.C.<br>United States Code, 2010 Edition<br>Title 20 - EDUCATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 20—EDUCATION
 
@@ -44,7 +44,7 @@
 | [<b>31.</b>](Chapter%20031%20-%20General%20Provisions%20Concerning%20Education/README.md) | <b>General Provisions Concerning Education</b> | <b>1221</b> |
 | [<b>32.</b>](Chapter%20032%20-%20Vocational%20Education/README.md) | <b>Vocational Education \[Omitted or Repealed\]</b> | <b>1241</b> |
 | [<b>33.</b>](Chapter%20033%20-%20Education%20of%20Individuals%20with%20Disabilities/README.md) | <b>Education of Individuals With Disabilities</b> | <b>1400</b> |
-| [<b>34.</b>](Chapter%20034%20-%20National%20Commission%20on%20Libraries%20and%20Information%20Science/README.md) | <b>National Commission on Libraries and Information Science</b> | <b>1501</b> |
+| [<b>34.</b>](Chapter%20034%20-%20National%20Commission%20on%20Libraries%20and%20Information%20Science/README.md) | <b>National Commission on Libraries and Information Science \[Repealed\]</b> | <b>1501</b> |
 | [<b>35.</b>](Chapter%20035%20-%20Environmental%20Education/README.md) | <b>Environmental Education \[Omitted\]</b> | <b>1531</b> |
 | [<b>36.</b>](Chapter%20036%20-%20Emergency%20School%20Aid/README.md) | <b>Emergency School Aid \[Repealed\]</b> | <b>1601</b> |
 | [<b>37.</b>](Chapter%20037%20-%20Assignment%20or%20Transportation%20of%20Students/README.md) | <b>Assignment or Transportation of Students</b> | <b>1651</b> |
@@ -89,6 +89,7 @@
 | [<b>76.</b>](Chapter%20076%20-%20Education%20Research%2C%20Statistics%2C%20Evaluation%2C%20Information%2C%20and%20Dissemination/README.md) | <b>Education Research, Statistics, Evaluation, Information, and Dissemination</b> | <b>9501</b> |
 | [<b>77.</b>](Chapter%20077%20-%20Financial%20Literacy%20and%20Education%20Improvement/README.md) | <b>Financial Literacy and Education Improvement</b> | <b>9701</b> |
 | [<b>78.</b>](Chapter%20078%20-%20Science%2C%20Technology%2C%20Engineering%2C%20Mathematics%2C%20and%20Critical%20Foreign%20Language%20Education/README.md) | <b>Science, Technology, Engineering, Mathematics, and Critical Foreign Language Education</b> | <b>9801</b> |
+| [<b>79.</b>](Chapter%20079%20-%20STEM-Training%20Grant%20Program/README.md) | <b>STEM-Training Grant Program</b> | <b>9901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -181,3 +182,4 @@
 - [Chapter 076 - Education Research, Statistics, Evaluation, Information, and Dissemination](Chapter%20076%20-%20Education%20Research%2C%20Statistics%2C%20Evaluation%2C%20Information%2C%20and%20Dissemination/README.md)
 - [Chapter 077 - Financial Literacy and Education Improvement](Chapter%20077%20-%20Financial%20Literacy%20and%20Education%20Improvement/README.md)
 - [Chapter 078 - Science, Technology, Engineering, Mathematics, and Critical Foreign Language Education](Chapter%20078%20-%20Science%2C%20Technology%2C%20Engineering%2C%20Mathematics%2C%20and%20Critical%20Foreign%20Language%20Education/README.md)
+- [Chapter 079 - STEM-Training Grant Program](Chapter%20079%20-%20STEM-Training%20Grant%20Program/README.md)

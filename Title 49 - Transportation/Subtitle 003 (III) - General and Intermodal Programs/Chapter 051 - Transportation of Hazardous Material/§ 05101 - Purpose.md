@@ -24,7 +24,7 @@ The words “It is declared to be the policy of Congress”, “the Nation”, a
 
 #### Amendments
 
-2005—Pub. L. 109–59 substituted “The purpose of this chapter is to protect against the risks to life, property, and the environment that are inherent in the transportation of hazardous material in intrastate, interstate, and foreign commerce” for “The purpose of this chapter is to provide adequate protection against the risks to life and property inherent in the transportation of hazardous material in commerce by improving the regulatory and enforcement authority of the Secretary of Transportation”.
+<b>2005</b>—Pub. L. 109–59 substituted “The purpose of this chapter is to protect against the risks to life, property, and the environment that are inherent in the transportation of hazardous material in intrastate, interstate, and foreign commerce” for “The purpose of this chapter is to provide adequate protection against the risks to life and property inherent in the transportation of hazardous material in commerce by improving the regulatory and enforcement authority of the Secretary of Transportation”.
 
 #### Short Title of 2005 Amendment
 
@@ -68,7 +68,7 @@ Pub. L. 103–311, title I, §123, Aug. 26, 1994, 108 Stat. 1682, provided that:
 
 “(a)
 
-Compliance With Buy American Act.—None of the funds made available under this title \[see Short Title of 1994 Amendment note above\] may be expended in violation of sections 2 through 4 of the Act of March 3, 1933 (41 U.S.C. 10a–10c \[41 U.S.C. 10a, 10b, former 10b–1\]; popularly known as the ‘Buy American Act’), which are applicable to those funds.
+Compliance With Buy American Act.—None of the funds made available under this title \[see Short Title of 1994 Amendment note above\] may be expended in violation of sections 2 through 4 of the Act of March 3, 1933 (\[former\] 41 U.S.C. 10a–10c; popularly known as the ‘Buy American Act’ \[see 41 U.S.C. 8301 et seq.\]), which are applicable to those funds.
 
 “(b)
 
@@ -80,7 +80,7 @@ Sense of Congress; Requirement Regarding Notice.—
 
 “(c)
 
-Prohibition of Contracts.—If it has been finally determined by a court or Federal agency that any person intentionally affixed a label bearing a ‘Made in America’ inscription, or any inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, such person shall be ineligible to receive any contract or subcontract made with funds provided pursuant to this title, pursuant to the debarment, suspension, and ineligibility procedures described in sections 9.400 through 9.409 of title 48, Code of Federal Regulations.
+Prohibition of Contracts.—If it has been finally determined by a court or Federal agency that any person intentionally affixed a label bearing a ‘Made in America’ inscription, or any inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, such person shall be ineligible to receive any contractor subcontract made with funds provided pursuant to this title, pursuant to the debarment, suspension, and ineligibility procedures described in sections 9.400 through 9.409 of title 48, Code of Federal Regulations.
 
 “(d)
 

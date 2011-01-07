@@ -2,7 +2,7 @@
 
 (a)
 
-Application.—This section applies to medical materials or supplies that are in a foreign country but that would, if situated within the United States, be available for donation under subchapter III of chapter 5 of this title.
+Application.—This section applies to medical materials or supplies that are in a foreign country but that would, if situated within theUnited States, be available for donation under subchapter III of chapter 5 of this title.
 
 (b)
 

@@ -26,5 +26,5 @@ Section 7301 defines “service on deck”, “one year's service” and “day�
 
 #### Amendments
 
-1984—Subsec. (a)(1). Pub. L. 98–364 substituted “fishing, fish processing, fish tender vessels” for “decked fishing vessels”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–364 substituted “fishing, fish processing, fish tender vessels” for “decked fishing vessels”.
 

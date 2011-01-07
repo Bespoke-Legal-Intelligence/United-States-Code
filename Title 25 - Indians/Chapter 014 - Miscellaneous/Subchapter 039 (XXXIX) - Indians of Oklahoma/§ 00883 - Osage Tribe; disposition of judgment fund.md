@@ -24,5 +24,5 @@ The Indian Claims Commission, referred to in subsec. (a), terminated Sept. 30, 1
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–605 struck out “or other socioeconomic programs” after “an education program” and substituted “such program” for “such programs”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–605 struck out “or other socioeconomic programs” after “an education program” and substituted “such program” for “such programs”.
 

@@ -17,15 +17,15 @@
 
 #### Amendments
 
-2006—Pub. L. 109–364, div. A, title III, §353(b), Oct. 17, 2006, 120 Stat. 2161, added item 4690.
+<b>2006</b>—Pub. L. 109–364, div. A, title III, §353(b), Oct. 17, 2006, 120 Stat. 2161, added item 4690.
 
-2002—Pub. L. 107–217, §2(2), Aug. 21, 2002, 116 Stat. 1295, added item 4689.
+<b>2002</b>—Pub. L. 107–217, §2(2), Aug. 21, 2002, 116 Stat. 1295, added item 4689.
 
-2000—Pub. L. 106–398, §1 \[\[div. A\], title III, §382(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–85, added item 4688.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title III, §382(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–85, added item 4688.
 
-1999—Pub. L. 106–65, div. A, title III, §381(d)(2), Oct. 5, 1999, 113 Stat. 583, substituted “Excess M–1 rifles: loan or donation for funeral and other ceremonial purposes” for “Obsolete or condemned rifles: loan to local units of recognized veterans’ organizations” in item 4683.
+<b>1999</b>—Pub. L. 106–65, div. A, title III, §381(d)(2), Oct. 5, 1999, 113 Stat. 583, substituted “Excess M–1 rifles: loan or donation for funeral and other ceremonial purposes” for “Obsolete or condemned rifles: loan to local units of recognized veterans’ organizations” in item 4683.
 
-1997—Pub. L. 105–85, div. A, title X, §1065(a)(2), Nov. 18, 1997, 111 Stat. 1895, added item 4687.
+<b>1997</b>—Pub. L. 105–85, div. A, title X, §1065(a)(2), Nov. 18, 1997, 111 Stat. 1895, added item 4687.
 
 
 ---

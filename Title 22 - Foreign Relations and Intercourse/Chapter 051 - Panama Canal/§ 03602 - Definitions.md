@@ -46,7 +46,7 @@ Section 3303(b) of Pub. L. 96–70 provided that: “Those provisions of the Can
 
 #### Amendments
 
-1997—Subsec. (b). Pub. L. 105–85, §3550(d)(2)(A), substituted “October 1, 1979” for “the effective date of this Act”.
+<b>1997</b>—Subsec. (b). Pub. L. 105–85, §3550(d)(2)(A), substituted “October 1, 1979” for “the effective date of this Act”.
 
 Pub. L. 105–85, §3550(d)(1), substituted “laws of the United States and regulations issued pursuant to such laws” for “the Canal Zone Code or other laws of the United States and regulations issued pursuant to such Code or other laws” in introductory provisions.
 
@@ -54,7 +54,7 @@ Subsec. (c). Pub. L. 105–85, §3550(d)(2)(A), substituted “October 1, 1979�
 
 Subsec. (d). Pub. L. 105–85, §3512, added subsec. (d).
 
-1996—Pub. L. 104–201, §3548(c)(1), struck out “and recommendation for legislation” after “Definitions” in section catchline.
+<b>1996</b>—Pub. L. 104–201, §3548(c)(1), struck out “and recommendation for legislation” after “Definitions” in section catchline.
 
 Subsec. (b)(4) to (7). Pub. L. 104–201, §3522(1), inserted “and” at end of par. (4), substituted a period for semicolon at end of par. (5), and struck out pars. (6) and (7) which read as follows:
 

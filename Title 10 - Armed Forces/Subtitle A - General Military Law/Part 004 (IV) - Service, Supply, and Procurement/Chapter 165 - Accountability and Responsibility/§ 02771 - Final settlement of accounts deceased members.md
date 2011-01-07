@@ -106,25 +106,25 @@ In subsection (c), the word “Under” is substituted for the words “Subject 
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–316 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Under such regulations as the Comptroller General may prescribe, payments under subsection (a) shall be made by the military department concerned or the Department of Transportation, as the case may be. Payment under clause (6) of subsection (a) shall be made—
+<b>1996</b>—Subsec. (c). Pub. L. 104–316 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Under such regulations as the Comptroller General may prescribe, payments under subsection (a) shall be made by the military department concerned or the Department of Transportation, as the case may be. Payment under clause (6) of subsection (a) shall be made—
 
 &emsp;“(1) upon settlement by the General Accounting Office; or
 
 &emsp;“(2) as otherwise authorized by the Comptroller General.”
 
-1993—Subsec. (a). Pub. L. 103–160, §1182(a)(11)(A), struck out “who dies after December 31, 1955” after “armed forces” in introductory provisions.
+<b>1993</b>—Subsec. (a). Pub. L. 103–160, §1182(a)(11)(A), struck out “who dies after December 31, 1955” after “armed forces” in introductory provisions.
 
 Subsec. (b). Pub. L. 103–160, §1182(a)(11)(B), substituted “for the uniformed services” for “for the armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service”.
 
-1980—Subsec. (b). Pub. L. 96–513, §511(97)(A), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513, §511(97)(A), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
 Subsec. (c). Pub. L. 96–513, §511(97)(B), substituted “Department of Transportation” for “Department of the Treasury”.
 
-1966—Subsec. (b). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
+<b>1966</b>—Subsec. (b). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
 
-1960—Subsec. (c). Pub. L. 86–641 substituted provisions requiring payment under clause (6) of subsection (a) to be made upon settlement by the General Accounting Office or as otherwise authorized by the Comptroller General for provisions which permitted payments under clauses (2) to (6) of subsection (a) to be made only after settlement by the General Accounting Office.
+<b>1960</b>—Subsec. (c). Pub. L. 86–641 substituted provisions requiring payment under clause (6) of subsection (a) to be made upon settlement by the General Accounting Office or as otherwise authorized by the Comptroller General for provisions which permitted payments under clauses (2) to (6) of subsection (a) to be made only after settlement by the General Accounting Office.
 
-1958—Subsec. (a). Pub. L. 85–861 amended subsec. (a) generally to restrict application of section to members of the armed forces who die after Dec. 31, 1955, and to permit payment to the designated beneficiaries, surviving spouse, children and their descendants, and to parents before payment to the legal representative.
+<b>1958</b>—Subsec. (a). Pub. L. 85–861 amended subsec. (a) generally to restrict application of section to members of the armed forces who die after Dec. 31, 1955, and to permit payment to the designated beneficiaries, surviving spouse, children and their descendants, and to parents before payment to the legal representative.
 
 Subsec. (b). Pub. L. 85–861 substituted provisions relating to designations and changes of designation of beneficiaries for provisions which authorized reimbursement of funeral expenses.
 

@@ -32,5 +32,5 @@ A prior section 7862 was renumbered section 7863 of this title.
 
 #### Amendments
 
-1982—Pub. L. 97–295 substituted “naval” for “public” in section catchline.
+<b>1982</b>—Pub. L. 97–295 substituted “naval” for “public” in section catchline.
 

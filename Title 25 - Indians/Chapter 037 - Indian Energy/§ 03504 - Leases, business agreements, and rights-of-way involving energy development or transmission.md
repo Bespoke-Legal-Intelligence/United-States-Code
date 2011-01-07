@@ -22,7 +22,7 @@ In accordance with this section—
 
 &emsp;&emsp;&emsp;(i) 30 years; or
 
-&emsp;&emsp;&emsp;(ii) in the case of a lease for the production of oil resources, gas resources, or both, 10 years and as long thereafter as oil or gas is produced in paying quantities; and
+&emsp;&emsp;&emsp;(ii) in the case of a lease for the production of oil resources, gas resources, or both, 10 years and as long thereafter as oilor gas is produced in paying quantities; and
 
 &emsp;&emsp;(C) the Indian tribe has entered into a tribal energy resource agreement with the Secretary, as described in subsection (e), relating to the development of energy resources on tribal land (including the periodic review and evaluation of the activities of the Indian tribe under the agreement, to be conducted pursuant to subsection (e)(2)(D)(i)).
 
@@ -94,7 +94,7 @@ No lease, business agreement, or right-of-way relating to the development of tri
 
 &emsp;&emsp;(XIII) require each lease, business agreement, and right-of-way to provide that it will become effective on the date on which a copy of the executed lease, business agreement, or right-of-way is delivered to the Secretary in accordance with regulations promulgated under paragraph (8);
 
-&emsp;&emsp;(XIV) include citations to tribal laws, regulations, or procedures, if any, that set out tribal remedies that must be exhausted before a petition may be submitted to the Secretary under paragraph (7)(B);
+&emsp;&emsp;(XIV) include citations to tribal laws, regulations, or procedures, if any, that set outtribal remedies that must be exhausted before a petition may be submitted to the Secretary under paragraph (7)(B);
 
 &emsp;&emsp;(XV) specify the financial assistance, if any, to be provided by the Secretary to the Indian tribe to assist in implementation of the tribal energy resource agreement, including environmental review of individual projects; and
 
@@ -150,7 +150,7 @@ No lease, business agreement, or right-of-way relating to the development of tri
 
 &emsp;(ii) act in good faith and in the best interests of the Indian tribes.
 
-(B) Subject to the provisions of subsections (a)(2), (b), and (c) waiving the requirement of Secretarial approval of leases, business agreements, and rights-of-way executed pursuant to tribal energy resource agreements approved under this section, and the provisions of subparagraph (D), nothing in this section shall absolve the United States from any responsibility to Indians or Indian tribes, including, but not limited to, those which derive from the trust relationship or from any treaties, statutes, and other laws of the United States, Executive orders, or agreements between the United States and any Indian tribe.
+(B) Subject to the provisions of subsections (a)(2), (b), and (c) waiving the requirement ofSecretarial approval of leases, business agreements, and rights-of-way executed pursuant to tribal energy resource agreements approved under this section, and the provisions of subparagraph (D), nothing in this section shall absolve the United States from any responsibility to Indians or Indian tribes, including, but not limited to, those which derive from the trust relationship or from any treaties, statutes, and other laws of the United States, Executive orders, or agreements between the United States and any Indian tribe.
 
 (C) The Secretary shall continue to fulfill the trust obligation of the United States to ensure that the rights and interests of an Indian tribe are protected if—
 
@@ -186,7 +186,7 @@ No lease, business agreement, or right-of-way relating to the development of tri
 
 (iii) Subject to subparagraph (E), if the Secretary determines that the Indian tribe is not in compliance with the tribal energy resource agreement, the Secretary shall take such action as the Secretary determines to be necessary to ensure compliance with the tribal energy resource agreement, including—
 
-&emsp;(I) temporarily suspending any activity under a lease, business agreement, or right-of-way under this section until the Indian tribe isin compliance with the approved tribal energy resource agreement; or
+&emsp;(I) temporarily suspending any activity under a lease, business agreement, or right-of-way under this section until the Indian tribe is in compliance with the approved tribal energy resource agreement; or
 
 &emsp;(II) rescinding approval of all or part of the tribal energy resource agreement, and if all of the agreement is rescinded, reassuming the responsibility for approval of any future leases, business agreements, or rights-of-way described in subsection (a) or (b).
 

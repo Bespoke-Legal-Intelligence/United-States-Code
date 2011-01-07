@@ -14,7 +14,7 @@
 
 (e) If the defendant is to be tried again following a declaration by the trial judge of a mistrial or following an order of such judge for a new trial, the trial shall commence within seventy days from the date the action occasioning the retrial becomes final. If the defendant is to be tried again following an appeal or a collateral attack, the trial shall commence within seventy days from the date the action occasioning the retrial becomes final, except that the court retrying the case may extend the period for retrial not to exceed one hundred and eighty days from the date the action occasioning the retrial becomes final if unavailability of witnesses or other factors resulting from passage of time shall make trial within seventy days impractical. The periods of delay enumerated in section 3161(h) are excluded in computing the time limitations specified in this section. The sanctions of section 3162 apply to this subsection.
 
-(f) Notwithstanding the provisions of subsection (b) of this section, for the first twelve-calendar-month period following the effective date of this section as set forth in section 3163(a) of this chapter the time limit imposed with respect to the period between arrest and indictment by subsection (b) of this section shall be sixty days, for the second such twelve-month period such time limit shall be forty-five days and for the third such period such time limit shall be thirty-five days.
+(f) Notwithstanding the provisions of subsection (b) of this section, for the first twelve-calendar-month period following the effective date of this section as set forth in section 3163(a) of this chapter the time limit imposed with respect to the period between arrest and indictment by subsection (b) of this section shall besixty days, for the second such twelve-month period such time limit shall be forty-five days and for the third such period such time limit shall be thirty-five days.
 
 (g) Notwithstanding the provisions of subsection (c) of this section, for the first twelve-calendar-month period following the effective date of this section as set forth in section 3163(b) of this chapter, the time limit with respect to the period between arraignment and trial imposed by subsection (c) of this section shall be one hundred and eighty days, for the second such twelve-month period such time limit shall be one hundred and twenty days, and for the third such period such time limit with respect to the period between arraignment and trial shall be eighty days.
 
@@ -22,7 +22,7 @@
 
 &emsp;(1) Any period of delay resulting from other proceedings concerning the defendant, including but not limited to—
 
-&emsp;&emsp;(A) delay resulting from any proceeding, including any examinations, to determinethe mental competency or physical capacity of the defendant;
+&emsp;&emsp;(A) delay resulting from any proceeding, including any examinations, to determine the mental competency or physical capacity of the defendant;
 
 &emsp;&emsp;(B) delay resulting from trial with respect to other charges against the defendant;
 
@@ -88,7 +88,7 @@
 
 #### Amendments
 
-2008—Subsec. (h)(1)(B) to (J). Pub. L. 110–406, §13(1), redesignated subpars. (D) to (J) as (B) to (H), respectively, and struck out former subpars. (B) and (C) which read as follows:
+<b>2008</b>—Subsec. (h)(1)(B) to (J). Pub. L. 110–406, §13(1), redesignated subpars. (D) to (J) as (B) to (H), respectively, and struck out former subpars. (B) and (C) which read as follows:
 
 “(B) delay resulting from any proceeding, including any examination of the defendant, pursuant to section 2902 of title 28, United States Code;
 
@@ -96,13 +96,13 @@
 
 Subsec. (h)(5) to (9). Pub. L. 110–406, §13(2), (3), redesignated pars. (6) to (9) as (5) to (8), respectively, and struck out former par. (5) which read as follows: “Any period of delay resulting from the treatment of the defendant pursuant to section 2902 of title 28, United States Code.”
 
-1988—Subsec. (k). Pub. L. 100–690 added subsec. (k).
+<b>1988</b>—Subsec. (k). Pub. L. 100–690 added subsec. (k).
 
-1984—Subsec. (h)(8)(C). Pub. L. 98–473, §1219(1), substituted “subparagraph (A) of this paragraph” for “paragraph (8)(A) of this subsection”.
+<b>1984</b>—Subsec. (h)(8)(C). Pub. L. 98–473, §1219(1), substituted “subparagraph (A) of this paragraph” for “paragraph (8)(A) of this subsection”.
 
 Subsec. (h)(9). Pub. L. 98–473, §1219(2), added par. (9).
 
-1979—Subsec. (c)(1). Pub. L. 96–43, §2, merged the ten day indictment-to-arraignment and the sixty day arraignment-to-trial limits into a single seventy day indictment-to-trial period.
+<b>1979</b>—Subsec. (c)(1). Pub. L. 96–43, §2, merged the ten day indictment-to-arraignment and the sixty day arraignment-to-trial limits into a single seventy day indictment-to-trial period.
 
 Subsec. (c)(2). Pub. L. 96–43, §2, added par. (2).
 
@@ -132,5 +132,5 @@ Section 1 of Pub. L. 96–43 provided: “That this Act \[amending this section 
 
 #### Short Title
 
-Section 1 of Pub. L. 93–619 provided: “That this Act \[enacting this chapter and sections 3153 to 3156 of thistitle, and amending section 3152 of this title, and section 604 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Speedy Trial Act of 1974’.”
+Section 1 of Pub. L. 93–619 provided: “That this Act \[enacting this chapter and sections 3153 to 3156 of this title, and amending section 3152 of this title, and section 604 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Speedy Trial Act of 1974’.”
 

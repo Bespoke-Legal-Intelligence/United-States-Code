@@ -100,9 +100,9 @@ Chapter 2 of part I of title 5, referred to in par. (3), probably means chapter 
 
 #### Amendments
 
-1996—Par. (6)(A). Pub. L. 104–295 substituted “; and” for period at end.
+<b>1996</b>—Par. (6)(A). Pub. L. 104–295 substituted “; and” for period at end.
 
-1994—Par. (1). Pub. L. 103–465, §351(e)(1), amended par. (1) generally, substituting “referred to in section 3511(d)(5) of this title” for “approved under section 2503(a) of this title”.
+<b>1994</b>—Par. (1). Pub. L. 103–465, §351(e)(1), amended par. (1) generally, substituting “referred to in section 3511(d)(5) of this title” for “approved under section 2503(a) of this title”.
 
 Par. (2). Pub. L. 103–465, §351(e)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘certification system’ means a system—
 
@@ -136,7 +136,7 @@ Par. (14). Pub. L. 103–465, §351(e)(8), substituted “, technical regulatio
 
 Pars. (17), (18). Pub. L. 103–465, §351(e)(9), added par. (17) and redesignated former par. (17) as (18).
 
-1993—Par. (12). Pub. L. 103–182 amended par. (12) generally. Prior to amendment, par. (12) read as follows:
+<b>1993</b>—Par. (12). Pub. L. 103–182 amended par. (12) generally. Prior to amendment, par. (12) read as follows:
 
 “(12)
 

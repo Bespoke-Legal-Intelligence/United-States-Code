@@ -36,7 +36,7 @@
 
 #### Amendments
 
-2003—Subsec. (d)(2)(B). Pub. L. 108–183, §101(a), substituted “The remarriage after age 57 of the surviving spouse of a veteran shall not bar the furnishing of benefits specified in paragraph (5) to such person as the surviving spouse of the veteran. Notwithstanding the previous sentence, the remarriage after age 55” for “The remarriage after age 55”.
+<b>2003</b>—Subsec. (d)(2)(B). Pub. L. 108–183, §101(a), substituted “The remarriage after age 57 of the surviving spouse of a veteran shall not bar the furnishing of benefits specified in paragraph (5) to such person as the surviving spouse of the veteran. Notwithstanding the previous sentence, the remarriage after age 55” for “The remarriage after age 55”.
 
 Subsec. (d)(4). Pub. L. 108–183, §708(a)(1)(A)(i), substituted “paragraph (2)(A) or (3)” for “this subsection” in introductory provisions.
 
@@ -44,19 +44,19 @@ Subsec. (d)(4)(A). Pub. L. 108–183, §708(a)(1)(A)(ii), substituted “paragra
 
 Subsec. (d)(5). Pub. L. 108–183, §708(a)(1)(B), substituted “Paragraphs (2)(A)” for “Paragraphs (2)” in introductory provisions.
 
-2002—Subsec. (d)(2). Pub. L. 107–330 designated existing provisions as subpar. (A) and added subpar. (B).
+<b>2002</b>—Subsec. (d)(2). Pub. L. 107–330 designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (d)(5)(B). Pub. L. 107–135 substituted “1781” for “1713”.
 
-1999—Subsec. (d). Pub. L. 106–117 designated existing provisions as par. (1) and added pars. (2) to (5).
+<b>1999</b>—Subsec. (d). Pub. L. 106–117 designated existing provisions as par. (1) and added pars. (2) to (5).
 
-1991—Subsec. (a). Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” and “Secretary” for “Administrator”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” and “Secretary” for “Administrator”.
 
 Subsec. (c). Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
 Subsecs. (d), (e). Pub. L. 102–83, §4(a)(2)(A)(i), substituted “Secretary” for “Veterans’ Administration”.
 
-1990—Subsec. (d). Pub. L. 101–508, §8004(a)(1), designated par. (1) as entire subsec. (d) and struck out pars. (2) and (3) which read as follows:
+<b>1990</b>—Subsec. (d). Pub. L. 101–508, §8004(a)(1), designated par. (1) as entire subsec. (d) and struck out pars. (2) and (3) which read as follows:
 
 “(2) The remarriage of the surviving spouse of a veteran shall not bar the furnishing of benefits to such person as the surviving spouse of the veteran if the remarriage has been terminated by death or has been dissolved by a court with basic authority to render divorce decrees unless the Veterans’ Administration determines that the divorce was secured through fraud by the surviving spouse or collusion.
 
@@ -64,7 +64,7 @@ Subsecs. (d), (e). Pub. L. 102–83, §4(a)(2)(A)(i), substituted “Secretary�
 
 Subsec. (e). Pub. L. 101–508, §8004(a)(2), designated par. (1) as entire subsec. (e) and struck out par. (2) which read as follows: “The marriage of a child of a veteran shall not bar the recognition of such child as the child of the veteran for benefit purposes if the marriage has been terminated by death or has been dissolved by a court, with basic authority to render divorce decrees unless the Veterans’ Administration determines that the divorce was secured through fraud by either party or collusion.”
 
-1986—Subsec. (a). Pub. L. 99–576, §701(2)(A), substituted “person as the widow or widower” for “woman as the widow”, “such person” for “she”, “the veteran” for “him”, “the veteran's” for “his”, and “legal widow or widower” for “legal widow”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–576, §701(2)(A), substituted “person as the widow or widower” for “woman as the widow”, “such person” for “she”, “the veteran” for “him”, “the veteran's” for “his”, and “legal widow or widower” for “legal widow”.
 
 Subsec. (b). Pub. L. 99–576, §701(2)(B), substituted “surviving spouse” for “widow”.
 
@@ -76,13 +76,13 @@ Subsec. (d)(2). Pub. L. 99–576, §701(2)(E), substituted “surviving spouse�
 
 Subsec. (d)(3). Pub. L. 99–576, §701(2)(F), substituted “surviving spouse” for “widow” wherever appearing, “person” for “man”, “himself or herself” for “herself”, “that person's spouse” for “his wife”, and “that person” for “her”.
 
-1974—Subsec. (e). Pub. L. 93–527 designated existing provisions as par. (1) and added par. (2).
+<b>1974</b>—Subsec. (e). Pub. L. 93–527 designated existing provisions as par. (1) and added par. (2).
 
-1970—Subsec. (d). Pub. L. 91–376 designated existing provisions as par. (1) and added pars. (2) and (3).
+<b>1970</b>—Subsec. (d). Pub. L. 91–376 designated existing provisions as par. (1) and added pars. (2) and (3).
 
-1967—Subsec. (a). Pub. L. 90–77 reduced cohabitation period from five years to one year for purposes of deeming a purported marriage valid and provided for cohabitation for any period of time if a child was born of the purported marriage or was born before the marriage.
+<b>1967</b>—Subsec. (a). Pub. L. 90–77 reduced cohabitation period from five years to one year for purposes of deeming a purported marriage valid and provided for cohabitation for any period of time if a child was born of the purported marriage or was born before the marriage.
 
-1962—Subsecs. (d), (e). Pub. L. 87–674 added subsecs. (d) and (e).
+<b>1962</b>—Subsecs. (d), (e). Pub. L. 87–674 added subsecs. (d) and (e).
 
 #### Effective Date of 2003 Amendment
 
@@ -98,7 +98,7 @@ Pub. L. 106–117, title V, §502(c), Nov. 30, 1999, 113 Stat. 1574, provided th
 
 #### Effective Date of 1990 Amendment
 
-Section 8004(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to claims filed after October 31, 1990, and shall not operate to reduce or terminate benefits to any individual whose benefits were predicated on section 103(d)(2), 103(d)(3), or 103(e)(2) before the effective date of those amendments.”
+Section 8004(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to claims filed after October 31, 1990, and shall not operate to reduce or terminate benefits to any individual whose benefits were predicated on section 103(d)(2), 103(d)(3), or 103(e)(2) before the effective date of those amendments.”
 
 #### Effective Date of 1974 Amendment
 

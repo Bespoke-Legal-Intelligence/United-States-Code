@@ -18,7 +18,7 @@ The Congress finds that—
 
 &emsp;(7) these institutions play an important role in the American system of higher education, and there is a strong national interest in assisting them in solving their problems and in stabilizing their management and fiscal operations, and in becoming financially independent; and
 
-&emsp;(8) there is a particular national interest in aiding those institutions of higher education that have historically served students who have been denied access to postsecondary education because of race or national origin and whose participation in the American system of higher education is in the Nation's interest so that equality of access and quality of postsecondary education opportunities may be enhanced for all students.
+&emsp;(8) there is a particular national interest in aiding those institutions of higher education that have historically served students who have been denied access to postsecondary education because of race or national origin andwhose participation in the American system of higher education is in the Nation's interest so that equality of access and quality of postsecondary education opportunities may be enhanced for all students.
 
 #### (b) Purpose
 
@@ -46,11 +46,11 @@ Section 1056, Pub. L. 89–329, title III, §306, as added Pub L. 90–575, titl
 
 #### Amendments
 
-1998—Pars. (3) to (8). Pub. L. 105–244 added par. (3) and redesignated former pars. (3) to (7) as (4) to (8), respectively.
+<b>1998</b>—Pars. (3) to (8). Pub. L. 105–244 added par. (3) and redesignated former pars. (3) to (7) as (4) to (8), respectively.
 
-1993—Subsec. (a)(2). Pub. L. 103–208 struck out the comma after “planning”.
+<b>1993</b>—Subsec. (a)(2). Pub. L. 103–208 struck out the comma after “planning”.
 
-1992—Subsec. (a)(1). Pub. L. 102–325, §301(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “many institutions of higher education in this era of declining enrollments and scarce resources face problems which threaten their ability to survive;”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–325, §301(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “many institutions of higher education in this era of declining enrollments and scarce resources face problems which threaten their ability to survive;”.
 
 Subsec. (a)(2). Pub. L. 102–325, §301(2), struck out “recruitment activities,” after “long-range planning,”.
 

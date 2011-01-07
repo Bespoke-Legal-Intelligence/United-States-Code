@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) Unless otherwise excluded from eligibility (or otherwise provided for) by this chapter, the duty-free treatment (or preferential treatment) provided under this chapter shall apply to anyarticle which is the growth, product, or manufacture of a beneficiary country if—
+(1) Unless otherwise excluded from eligibility (or otherwise provided for) by this chapter, the duty-free treatment (or preferential treatment) provided under this chapter shall apply to any article which is the growth, product, or manufacture of a beneficiary country if—
 
 &emsp;(A) that article is imported directly from a beneficiary country into the customs territory of the United States; and
 
@@ -36,7 +36,7 @@
 
 #### (1) Certain articles that are not import-sensitive
 
-&emsp;The President may proclaim duty-free treatment under this chapter for any article described in subparagraph (A), (B), (C), or (D) that is the growth, product, or manufacture of an ATPDEA beneficiary country, that is imported directly into the customs territory of the United States from an ATPDEA beneficiary country, and that meets the requirements of this section, if the President determines that such article is not import-sensitive in the context of imports from ATPDEA beneficiary countries:
+&emsp;The President may proclaim duty-free treatment under this chapter for any article described in subparagraph (A), (B), (C), or (D) that is the growth, product, or manufacture of an ATPDEA beneficiary country, that is imported directly into the customs territory ofthe United States from an ATPDEA beneficiary country, and that meets the requirements of this section, if the President determines that such article is not import-sensitive in the context of imports from ATPDEA beneficiary countries:
 
 &emsp;&emsp;(A) Footwear not designated at the time of the effective date of this chapter as eligible for purposes of the generalized system of preferences under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\].
 
@@ -148,7 +148,7 @@
 
 &emsp;&emsp;&emsp;Textile luggage—
 
-&emsp;&emsp;&emsp;&emsp;(I) assembled in an ATPDEA beneficiary country from fabric wholly formed and cut in the United States,from yarns wholly formed in the United States, that is entered under subheading 9802.00.80 of the HTS; or
+&emsp;&emsp;&emsp;&emsp;(I) assembled in an ATPDEA beneficiary country from fabric wholly formed and cut in the United States, from yarns wholly formed in the United States, that is entered under subheading 9802.00.80 of the HTS; or
 
 &emsp;&emsp;&emsp;&emsp;(II) assembled from fabric cut in an ATPDEA beneficiary country from fabric wholly formed in the United States from yarns wholly formed in the United States.
 
@@ -186,7 +186,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the requirements of paragraph (5) of section 4 of the Annex (relating to providing compensation) shall not apply;
 
-&emsp;&emsp;&emsp;&emsp;(II) the term “transition period” in section 4 of the Annex shall mean the period ending December 31, 2010; and
+&emsp;&emsp;&emsp;&emsp;(II) the term “transition period” in section 4 of the Annex shall mean the period ending February 12, 2011; and
 
 &emsp;&emsp;&emsp;&emsp;(III) the requirements to consult specified in section 4 of the Annex shall be treated as satisfied if the President requests consultations with the ATPDEA beneficiary country in question and the country does not agree to consult within the time period specified under section 4 of the Annex.
 
@@ -258,7 +258,7 @@
 
 &emsp;&emsp;The United States Commissioner of Customs shall conduct a study analyzing the extent to which each ATPDEA beneficiary country—
 
-&emsp;&emsp;&emsp;(i) has cooperated fully with the United States, consistent with its domestic laws and procedures, in instances of circumvention or alleged circumvention of existing quotas on imports of textile and apparel goods, to establish necessary relevant facts in the places of import, export, and, where applicable, transshipment, including investigation of circumvention practices, exchanges of documents, correspondence, reports, and other relevant information, to the extent such information is available;
+&emsp;&emsp;&emsp;(i) has cooperated fully with the United States, consistent with its domestic laws and procedures, in instances of circumvention or alleged circumvention of existing quotas on imports of textile and apparel goods, to establish necessary relevant facts in the places of import, export, and, where applicable, transshipment, including investigation of circumvention practices,exchanges of documents, correspondence, reports, and other relevant information, to the extent such information is available;
 
 &emsp;&emsp;&emsp;(ii) has taken appropriate measures, consistent with its domestic laws and procedures, against exporters and importers involved in instances of false declaration concerning quantities, description, classification, or origin of textile and apparel goods; and
 
@@ -284,7 +284,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) participate in negotiations toward the completion of the FTAA or another free trade agreement.
 
-&emsp;&emsp;&emsp;(ii) The extent to which the country provides protection of intellectual propertyrights consistent with or greater than the protection afforded under the Agreement on Trade-Related Aspects of Intellectual Property Rights described in section 3511(d)(15) of this title.
+&emsp;&emsp;&emsp;(ii) The extent to which the country provides protection of intellectual property rights consistent with or greater than the protection afforded under the Agreement on Trade-Related Aspects of Intellectual Property Rights described in section 3511(d)(15) of this title.
 
 &emsp;&emsp;&emsp;(iii) The extent to which the country provides internationally recognized worker rights, including—
 
@@ -336,7 +336,7 @@
 
 (3) For purposes of section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\], the suspension of the duty-free treatment provided by this chapter shall be treated as an increase in duty.
 
-(4) No proclamation providing solely for a suspension referred to in paragraph (3) of this subsection with respect to any article shall be taken under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] unless the United States International Trade Commission, in addition to making an affirmative determination with respect to such article under section 202(b) of the Trade Act of 1974 \[19 U.S.C. 2252(b)\], determines in the course of its investigation under such section that the serious injury (or threat thereof) substantially caused by imports to the domestic industry producing a like or directly competitive article results from the duty-free treatment provided by this chapter.
+(4) No proclamation providing solely for a suspension referred to in paragraph (3) of this subsection with respect to any article shall be taken under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] unless the United States International Trade Commission, in addition to making an affirmative determination with respect to such article under section 202(b) of the TradeAct of 1974 \[19 U.S.C. 2252(b)\], determines in the course of its investigation under such section that the serious injury (or threat thereof) substantially caused by imports to the domestic industry producing a like or directly competitive article results from the duty-free treatment provided by this chapter.
 
 (5)(A) Any action taken under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] that is in effect when duty-free treatment is proclaimed under section 3201 of this title shall remain in effect until modified or terminated.
 
@@ -382,25 +382,27 @@ No proclamation issued pursuant to this chapter shall affect fees imposed pursua
 
 No quantity of an agricultural product subject to a tariff-rate quota that exceeds the in-quota quantity shall be eligible for duty-free treatment under this chapter.
 
-(Pub. L. 102–182, title II, §204, Dec. 4, 1991, 105 Stat. 1239; Pub. L. 103–465, title IV, §404(e)(2), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 107–210, div. C, title XXXI, §3103(a), (c)(2), Aug. 6, 2002, 116 Stat. 1024, 1033; Pub. L. 108–429, title II, §2004(e), Dec. 3, 2004, 118 Stat. 2593; Pub. L. 109–432, div. D, title V, §5005(b), title VII, §7003, Dec. 20, 2006, 120 Stat. 3190, 3194; Pub. L. 110–42, §2, June 30, 2007, 121 Stat. 235; Pub. L. 110–191, §2(b), Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–436, §1(b), Oct. 16, 2008, 122 Stat. 4977; Pub. L. 111–124, §2(b), Dec. 28, 2009, 123 Stat. 3484.)
+(Pub. L. 102–182, title II, §204, Dec. 4, 1991, 105 Stat. 1239; Pub. L. 103–465, title IV, §404(e)(2), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 107–210, div. C, title XXXI, §3103(a), (c)(2), Aug. 6, 2002, 116 Stat. 1024, 1033; Pub. L. 108–429, title II, §2004(e), Dec. 3, 2004, 118 Stat. 2593; Pub. L. 109–432, div. D, title V, §5005(b), title VII, §7003, Dec. 20, 2006, 120 Stat. 3190, 3194; Pub. L. 110–42, §2, June 30, 2007, 121 Stat. 235; Pub. L. 110–191, §2(b), Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–436, §1(b), Oct. 16, 2008, 122 Stat. 4977; Pub. L. 111–124, §2(b), Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–344, title II, §201(c), Dec. 29, 2010, 124 Stat. 3616.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1)(B) and (f), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 102–182 which enacted this chapter, to reflect the probable intent of Congress.
 
-The Caribbean Basin Economic Recovery Act, referred to in subsec. (a)(1)(B), (4), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, as amended, which is classified principally to chapter 15 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+The Caribbean Basin Economic Recovery Act, referred to in subsec. (a)(1)(B), (4), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to chapter 15 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 Section 223 of the Caribbean Basin Economic Recovery Expansion Act of 1990, referred to in subsec. (a)(4), is section 223 of Pub. L. 101–382, title II, Aug. 20, 1990, 104 Stat. 659, which is not classified to the Code.
 
 The effective date of this chapter, referred to in subsec. (b)(1)(A), means the date of enactment of Pub. L. 102–182, which was approved Dec. 4, 1991.
 
-The Trade Act of 1974, referred to in subsecs. (b)(1)(A), (D), and (c)(1), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title II of the Act is classified generally to part 1 (§2251 et seq.) of subchapter II of chapter 12 of this title. Title V of the Act is classified generally to subchapter V (§2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsecs. (b)(1)(A), (D), and (c)(1), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§2251 et seq.) of subchapter II of chapter 12 of this title. Title V of the Act is classified generally to subchapter V (§2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
 The Andean Trade Promotion and Drug Eradication Act, referred to in subsec. (b)(6)(E), is title XXXI of Pub. L. 107–210, div. C, Aug. 6, 2002, 116 Stat. 1023. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 3201 of this title and Tables.
 
 #### Amendments
 
-2009—Subsec. (b)(3)(B)(iii)(II). Pub. L. 111–124, §2(b)(1)(A)(i), substituted “8 succeeding 1-year periods” for “7 succeeding 1-year periods”.
+<b>2010</b>—Subsec. (b)(3)(E)(ii)(II). Pub. L. 111–344 substituted “February 12, 2011” for “December 31, 2010”.
+
+<b>2009</b>—Subsec. (b)(3)(B)(iii)(II). Pub. L. 111–124, §2(b)(1)(A)(i), substituted “8 succeeding 1-year periods” for “7 succeeding 1-year periods”.
 
 Subsec. (b)(3)(B)(iii)(III)(bb). Pub. L. 111–124, §2(b)(1)(A)(ii), substituted “and for the succeeding 3-year period” for “and for the succeeding 2-year period”.
 
@@ -408,7 +410,7 @@ Subsec. (b)(3)(B)(v)(II). Pub. L. 111–124, §2(b)(1)(B), substituted “7 succ
 
 Subsec. (b)(3)(E)(ii)(II). Pub. L. 111–124, §2(b)(2), substituted “December 31, 2010” for “December 31, 2009”.
 
-2008—Subsec. (b)(3)(B)(iii)(II). Pub. L. 110–436, §1(b)(1)(A)(i), substituted “7 succeeding 1-year periods” for “6 succeeding 1-year periods”.
+<b>2008</b>—Subsec. (b)(3)(B)(iii)(II). Pub. L. 110–436, §1(b)(1)(A)(i), substituted “7 succeeding 1-year periods” for “6 succeeding 1-year periods”.
 
 Pub. L. 110–191, §2(b)(1)(A)(i), substituted “6 succeeding 1-year periods” for “5 succeeding 1-year periods”.
 
@@ -424,21 +426,21 @@ Subsec. (b)(3)(E)(ii)(II). Pub. L. 110–436, §1(b)(2), substituted “December
 
 Pub. L. 110–191, §2(b)(2), substituted “December 31, 2008” for “December 31, 2006”.
 
-2007—Subsec. (b)(3)(B)(iii)(II). Pub. L. 110–42, §2(1)(A), substituted “The” for “Subject to section 3206 of this title, the” and “5 succeeding 1-year periods” for “4 succeeding 1-year periods”.
+<b>2007</b>—Subsec. (b)(3)(B)(iii)(II). Pub. L. 110–42, §2(1)(A), substituted “The” for “Subject to section 3206 of this title, the” and “5 succeeding 1-year periods” for “4 succeeding 1-year periods”.
 
 Subsec. (b)(3)(B)(iii)(III). Pub. L. 110–42, §2(1)(B), substituted “means—”for “means” and “; and” for period, inserted item (aa) designation, and added item (bb).
 
 Subsec. (b)(3)(B)(v)(II). Pub. L. 110–42, §2(2), substituted “During” for “Subject to section 3206 of this title, during” and “4 succeeding 1-year periods” for “3 succeeding 1-year periods”.
 
-2006—Subsec. (b)(3)(B)(iii)(II). Pub. L. 109–432, §7003(1), substituted “Subject to section 3206 of this title, the preferential” for “The preferential”.
+<b>2006</b>—Subsec. (b)(3)(B)(iii)(II). Pub. L. 109–432, §7003(1), substituted “Subject to section 3206 of this title, the preferential” for “The preferential”.
 
 Subsec. (b)(3)(B)(v)(II). Pub. L. 109–432, §7003(2), substituted “Subject to section 3206 of this title, during” for “During”.
 
 Subsec. (b)(3)(B)(viii). Pub. L. 109–432, §5005(b), added cl. (viii).
 
-2004—Subsec. (b)(4)(B)(i). Pub. L. 108–429 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A ‘United States vessel’ is a vessel having a certificate of documentation with a fishery endorsement under chapter 121 of title 46.”
+<b>2004</b>—Subsec. (b)(4)(B)(i). Pub. L. 108–429 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A ‘United States vessel’ is a vessel having a certificate of documentation with a fishery endorsement under chapter 121 of title 46.”
 
-2002—Subsec. (a)(1). Pub. L. 107–210, §3103(c)(2)(A), in introductory provisions, inserted “(or otherwise provided for)” after “eligibility” and “(or preferential treatment)” after “duty-free treatment”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–210, §3103(c)(2)(A), in introductory provisions, inserted “(or otherwise provided for)” after “eligibility” and “(or preferential treatment)” after “duty-free treatment”.
 
 Subsec. (a)(2). Pub. L. 107–210, §3103(c)(2)(B), substituted “paragraph (1)” for “subsection (a) of this section” in introductory provisions.
 
@@ -462,7 +464,7 @@ Subsec. (b). Pub. L. 107–210, §3103(a)(2), substituted “Exceptions and spec
 
 Subsecs. (c) to (g). Pub. L. 107–210, §3103(a)(1), redesignated subsecs. (d) to (g) as (c) to (f), respectively, and struck out former subsec. (c) which related to duty reductions for certain handbags, luggage, flat goods, work gloves, and leather wearing apparel of beneficiary countries.
 
-1994—Subsec. (g). Pub. L. 103–465 added subsec. (g).
+<b>1994</b>—Subsec. (g). Pub. L. 103–465 added subsec. (g).
 
 #### Effective Date of 2006 Amendment
 
@@ -474,7 +476,7 @@ Amendment by Pub. L. 103–465 effective on the date of entry into force of the 
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 
 #### Delegation of Authority
 
@@ -514,7 +516,7 @@ Pub. L. 107–206, title III, §3001(b), Aug. 2, 2002, 116 Stat. 910, provided t
 
 Proc. No. 7616, Oct. 31, 2002, 67 F.R. 67283, as amended by Proc. No. 7748, Dec. 30, 2003, 69 F.R. 227, provided:
 
-1\. Section 3103 of the Andean Trade Promotion and Drug Eradication Act (title XXXI of the Trade Act of 2002, Public Law 107–210) \[see Tables for classification\] (ATPDEA) amended section 204(b) of the Andean Trade Preference Act (19 U.S.C. 3203(b)) (ATPA) to provide that certain preferential tariff treatment may be provided to eligible articles that are the product of any country that the President designates as an “ATPDEA beneficiary country” pursuant to section 204(b)(6)(B) of the ATPA, as amended, provided that the President determines that the country has satisfied the requirements of section 204(b)(5)(A)(ii)(I) of the ATPA, as amended, relating to the implementation of proceduresand requirements similar to those in chapter 5 of the North American Free Trade Agreement (NAFTA).
+1\. Section 3103 of the Andean Trade Promotion and Drug Eradication Act (title XXXI of the Trade Act of 2002, Public Law 107–210) \[see Tables for classification\] (ATPDEA) amended section 204(b) of the Andean Trade Preference Act (19 U.S.C. 3203(b)) (ATPA) to provide that certain preferential tariff treatment may be provided to eligible articles that are the product of any country that the President designates as an “ATPDEA beneficiary country” pursuant to section 204(b)(6)(B) of the ATPA, as amended, provided that the President determines that the country has satisfied the requirements of section 204(b)(5)(A)(ii)(I) of the ATPA, as amended, relating to the implementation of procedures and requirements similar to those in chapter 5 of the North American Free Trade Agreement (NAFTA).
 
 2\. Section 3103(a)(2) of the ATPDEA amended section 204(b) of the ATPA to authorize the President to proclaim duty-free treatment for any article described in section 204(b)(1)(A) through (D) of the ATPA, as amended, that is the growth, product, or manufacture of an ATPDEA beneficiary country, that is imported directly into the customs territory of the United States from an ATPDEA beneficiary country, and that meets the requirements of section 204 of the ATPA, as amended, if the President determines that such article is not import-sensitive in the context of imports from ATPDEA beneficiary countries, provided that the President determines that the country has satisfied the requirements of section 204(b)(5)(A)(ii)(I) of the ATPA, as amended, relating to the implementation of procedures and requirements similar to those in chapter 5 of the NAFTA.
 
@@ -554,5 +556,5 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Presidential Suspension of Designation of Beneficiary Countries
 
-Proc. No. 8323, Nov. 25, 2008, 73 F.R. 72679, provided in par. (4) that the designation of Bolivia as a beneficiary country for purposes of the Andean Trade Promotion and Drug Eradication Act, title XXXI of div. C of Pub. L. 107–210 (see Tables for classification), was suspended effective Dec. 15, 2008.
+Proc. No. 8323, Nov. 25, 2008, 73 F.R. 72679, provided in par. (4) that the designation of Bolivia as a beneficiarycountry for purposes of the Andean Trade Promotion and Drug Eradication Act, title XXXI of div. C of Pub. L. 107–210 (see Tables for classification), was suspended effective Dec. 15, 2008.
 

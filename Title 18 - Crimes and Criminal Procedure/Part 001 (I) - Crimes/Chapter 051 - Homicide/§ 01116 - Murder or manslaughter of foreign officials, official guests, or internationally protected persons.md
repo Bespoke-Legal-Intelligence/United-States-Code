@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) a Chief of State or the political equivalent, President, Vice President, Prime Minister, Ambassador, Foreign Minister, or other officer of Cabinet rank or above of a foreign government or the chief executive officer of an international organization, or any person who has previously served in such capacity, and any member of his family, while in the United States; and
 
-&emsp;&emsp;(B) any person of a foreign nationality who is duly notified to the United States as an officer or employee of a foreign government or international organization, and who is inthe United States on official business, and any member of his family whose presence in the United States is in connection with the presence of such officer or employee.
+&emsp;&emsp;(B) any person of a foreign nationality who is duly notified to the United States as an officer or employee of a foreign government or international organization, and who is in the United States on official business, and any member of his family whose presence in the United States is in connection with the presence of such officer or employee.
 
 &emsp;(4) “Internationally protected person” means—
 
@@ -30,29 +30,29 @@
 
 (d) In the course of enforcement of this section and any other sections prohibiting a conspiracy or attempt to violate this section, the Attorney General may request assistance from any Federal, State, or local agency, including the Army, Navy, and Air Force, any statute, rule, or regulation to the contrary notwithstanding.
 
-(Added Pub. L. 92–539, title I, §101, Oct. 24, 1972, 86 Stat. 1071; amended Pub. L. 94–467, §2, Oct. 8, 1976, 90 Stat. 1997; Pub. L. 95–163, §17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, §2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 97–351, §3, Oct. 18, 1982, 96 Stat. 1666; Pub. L. 103–272, §5(e)(2), July 5, 1994, 108 Stat. 1373; Pub. L. 103–322, title VI, §60003(a)(5), title XXXIII, §330006, Sept. 13, 1994, 108 Stat. 1969, 2142; Pub. L. 104–132, title VII, §721(c), Apr. 24, 1996, 110 Stat. 1298; Pub. L. 104–294, title VI, §601(g)(2), Oct. 11, 1996, 110 Stat. 3500.)
+(Added Pub. L. 92–539, title I, §101, Oct. 24, 1972, 86 Stat. 1071; amended Pub. L. 94–467, §2, Oct. 8, 1976, 90 Stat. 1997; Pub. L. 95–163, §17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, §2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 97–351, §3, Oct. 18, 1982, 96 Stat. 1666; Pub. L. 103–272, §5(e)(2), July 5, 1994, 108 Stat. 1373; Pub. L. 103–322, title VI, §60003(a)(5), title XXXIII, §330006, Sept. 13, 1994, 108 Stat. 1969, 2142; Pub. L. 104–132, title VII, §721(c), Apr. 24, 1996, 110 Stat. 1298; Pub. L.104–294, title VI, §601(g)(2), Oct. 11, 1996, 110 Stat. 3500.)
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–294 struck out “, except that” at end.
+<b>1996</b>—Subsec. (a). Pub. L. 104–294 struck out “, except that” at end.
 
 Subsec. (b)(7). Pub. L. 104–132, §721(c)(1), added par. (7).
 
 Subsec. (c). Pub. L. 104–132, §721(c)(2), inserted first sentence and struck out former first sentence which read as follows: “If the victim of an offense under subsection (a) is an internationally protected person, the United States may exercise jurisdiction over the offense if the alleged offender is present within the United States, irrespective of the place where the offense was committed or the nationality of the victim or the alleged offender.”
 
-1994—Subsec. (a). Pub. L. 103–322, §330006, which directed the striking of “, and any such person who is found guilty of attempted murder shall be imprisoned for not more than twenty years” before period at end, was executed by striking text which did not include “, and”, to reflect the probable intent of Congress and the prior amendment by Pub. L. 103–322, §60003(a)(5). See below.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §330006, which directed the striking of “, and any such person who is found guilty of attempted murder shall be imprisoned for not more than twenty years” before period at end, was executed by striking text which did not include “, and”, to reflect the probable intent of Congress and the prior amendment by Pub. L. 103–322, §60003(a)(5). See below.
 
 Pub. L. 103–322, §60003(a)(5), struck out “any such person who is found guilty of murder in the first degree shall be sentenced to imprisonment for life, and” after “title, except that”.
 
 Subsec. (c). Pub. L. 103–272 substituted “section 46501(2) of title 49” for “section 101(38) of the Federal Aviation Act of 1958, as amended (49 U.S.C. 1301(38))”.
 
-1982—Subsec. (b)(5). Pub. L. 97–351 inserted provision relating to a public organization created pursuant to treaty or other agreement under international law as an instrument through or by which two or more foreign governments engage in some aspect of their conduct of foreign affairs.
+<b>1982</b>—Subsec. (b)(5). Pub. L. 97–351 inserted provision relating to a public organization created pursuant to treaty or other agreement under international law as an instrument through or by which two or more foreign governments engage in some aspect of their conduct of foreign affairs.
 
-1978—Subsec. (c). Pub. L. 95–504 substituted reference to section 101(38) of the Federal Aviation Act of 1958 for reference to section 101(35) of such Act.
+<b>1978</b>—Subsec. (c). Pub. L. 95–504 substituted reference to section 101(38) of the Federal Aviation Act of 1958 for reference to section 101(35) of such Act.
 
-1977—Subsec. (c). Pub. L. 95–163 substituted reference to section 101(35) of the Federal Aviation Act of 1958 for reference to section 101(34) of such Act.
+<b>1977</b>—Subsec. (c). Pub. L. 95–163 substituted reference to section 101(35) of the Federal Aviation Act of 1958 for reference to section 101(34) of such Act.
 
-1976—Catchline. Pub. L. 94–467 substituted “official guests, or internationally protected persons” for “or official guests”.
+<b>1976</b>—Catchline. Pub. L. 94–467 substituted “official guests, or internationally protected persons” for “or official guests”.
 
 Subsec. (a). Pub. L. 94–467 inserted reference to internationally protected persons, section 1113 of this title, and the punishment for a person convicted of attempted murder.
 

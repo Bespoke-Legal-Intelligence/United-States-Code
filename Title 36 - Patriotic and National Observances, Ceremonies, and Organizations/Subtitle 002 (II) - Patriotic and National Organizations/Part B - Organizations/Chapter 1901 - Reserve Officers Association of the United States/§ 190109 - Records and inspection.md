@@ -38,5 +38,5 @@ In subsection (a)(1), the word “correct” is substituted for “current” fo
 
 #### Amendments
 
-2009—Subsec. (a)(2). Pub. L. 111–113 substituted “other national entities of the corporation;” for “national council;”.
+<b>2009</b>—Subsec. (a)(2). Pub. L. 111–113 substituted “other national entities of the corporation;” for “national council;”.
 

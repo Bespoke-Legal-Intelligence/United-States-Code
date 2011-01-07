@@ -6,7 +6,7 @@ Out of funds appropriated to the Department pursuant to the authorization in sec
 
 #### Amendments
 
-1991—Pub. L. 102–40, §402(b)(2)(E), renumbered section 5096 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(2)(E), renumbered section 5096 of this title as this section.
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
@@ -16,7 +16,7 @@ Pub. L. 102–40, §403(b)(7), substituted “7302” for “4101(b)”.
 
 Pub. L. 102–40, §402(d)(1), substituted “8222” for “5082”.
 
-1976—Pub. L. 94–581 substituted “the Administrator” for “he”.
+<b>1976</b>—Pub. L. 94–581 substituted “the Administrator” for “he”.
 
 #### Effective Date of 1976 Amendment
 

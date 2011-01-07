@@ -2,7 +2,7 @@
 
 For purposes of this subchapter:
 
-&emsp;(1)(A) The terms “school of medicine”, “school of dentistry”, “school of osteopathic medicine”, “school of pharmacy”, “school of optometry”, “school of podiatric medicine”,“school of veterinary medicine”, “school of public health”, and “school of chiropractic” mean an accredited public or nonprofit private school in a State that provides training leading, respectively, to a degree of doctor of medicine, a degree of doctor of dentistry or an equivalent degree, a degree of doctor of osteopathy, a degree of bachelor of science in pharmacy or an equivalent degree or a degree of doctor of pharmacy or an equivalent degree, a degree of doctor of optometry or an equivalent degree, a degree of doctor of podiatric medicine or an equivalent degree, a degree of doctor of veterinary medicine or an equivalent degree, a graduate degree in public health or an equivalent degree, and a degree of doctor of chiropractic or an equivalent degree, and including advanced training related to such training provided by any such school.
+&emsp;(1)(A) The terms “school of medicine”, “school of dentistry”, “school of osteopathic medicine”, “school of pharmacy”, “school of optometry”, “school of podiatric medicine”, “school of veterinary medicine”, “school of public health”, and “school of chiropractic” mean an accredited public or nonprofit private school in a State that provides training leading, respectively, to a degree of doctor of medicine, a degree of doctor of dentistry or an equivalent degree, a degree of doctor of osteopathy, a degree of bachelor of science in pharmacy or an equivalent degree or a degree of doctor of pharmacy or an equivalent degree, a degree of doctor of optometry or an equivalent degree, a degree of doctor of podiatric medicine or an equivalent degree, a degree of doctor of veterinary medicine or an equivalent degree, a graduate degree in public health or an equivalent degree, and a degree of doctor of chiropractic or an equivalent degree, and including advanced training related to such training provided by any such school.
 
 &emsp;(B) The terms “graduate program in health administration” and “graduate program in clinical psychology” mean an accredited graduate program in a public or nonprofit private institution in a State that provides training leading, respectively, to a graduate degree in health administration or an equivalent degree and a doctoral degree in clinical psychology or an equivalent degree.
 
@@ -14,19 +14,13 @@ For purposes of this subchapter:
 
 &emsp;(2) The term “teaching facilities” means areas dedicated for use by students, faculty, or administrative or maintenance personnel for clinical purposes, research activities, libraries, classrooms, offices, auditoriums, dining areas, student activities, or other related purposes necessary for, and appropriate to, the conduct of comprehensive programs of education. Such term includes interim facilities but does not include off-site improvements or living quarters.
 
-&emsp;(3) The term “program for the training of physician assistants” means an educational program that—
+&emsp;(3)
 
-&emsp;&emsp;(A) has as its objective the education of individuals who will, upon completion of their studies in the program, be qualified to provide primary care under the supervision of a physician;
+Physician assistant education program.—The term “physician assistant education program” means an educational program in a public or private institution in a State that—
 
-&emsp;&emsp;(B) extends for at least one academic year and consists of—
+&emsp;&emsp;(A) has as its objective the education of individuals who, upon completion of their studies in the program, be <sup>1</sup> qualified to provide primary care medical services with the supervision of a physician; and
 
-&emsp;&emsp;&emsp;(i) supervised clinical practice; and
-
-&emsp;&emsp;&emsp;(ii) at least four months (in the aggregate) of classroom instruction, directed toward preparing students to deliver health care;
-
-&emsp;&emsp;(C) has an enrollment of not less than eight students; and
-
-&emsp;&emsp;(D) trains students in primary care, disease prevention, health promotion, geriatric medicine, and home health care.
+&emsp;&emsp;(B) is accredited by the Accreditation Review Commission on Education for the Physician Assistant.
 
 &emsp;(4) The term “school of allied health” means a public or nonprofit private college, junior college, or university or hospital-based educational entity that—
 
@@ -60,7 +54,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(A) is eligible for designation under section 254e of this title as a health professional shortage area;
 
-&emsp;&emsp;(B) is eligible to be served by a migrant health center under section 254b <sup>1</sup> of this title, a community health center under section 254c <sup>1</sup> of this title, a grantee under section 254b(h) of this title (relating to homeless individuals), or a grantee under section 256a <sup>1</sup> of this title (relating to residents of public housing);
+&emsp;&emsp;(B) is eligible to be served by a migrant health center under section 254b <sup>2</sup> of this title, a community health center under section 254c <sup>2</sup> of this title, a grantee under section 254b(h) of this title (relating to homeless individuals), or a grantee under section 256a <sup>2</sup> of this title (relating to residents of public housing);
 
 &emsp;&emsp;(C) has a shortage of personal health services, as determined under criteria issued by the Secretary under section 1395x(aa)(2) of this title (relating to rural health clinics); or
 
@@ -82,7 +76,71 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(B) is licensed or certified on the basis of the doctoral degree in psychology, by the State in which the individual practices, at the independent practice level of psychology to furnish diagnostic, assessment, preventive, and therapeutic services directly to individuals.
 
-(July 1, 1944, ch. 373, title VII, §799B, formerly §799, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2066; renumbered §799B and amended Pub. L. 105–392, title I, §§106(a)(2)(E), 108, Nov. 13, 1998, 112 Stat. 3557, 3560; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664.)
+&emsp;(12)
+
+Area health education center.—The term “area health education center” means a public or nonprofit private organization that has a cooperative agreement or contract in effect with an entity that has received an award under subsection (a)(1) or (a)(2) of section 294a of this title, satisfies the requirements in section 294a(d)(1) of this title, and has as one of its principal functions the operation of an area health education center. Appropriate organizations may include hospitals, health organizations with accredited primary care training programs, accredited physician assistant educational programs associated with a college or university, and universities or colleges not operating a school of medicine or osteopathic medicine.
+
+&emsp;(13)
+
+Area health education center program.—The term “area health education center program” means <sup>3</sup> cooperative program consisting of an entity that has received an award under subsection (a)(1) or (a)(2) of section 294a of this title for the purpose of planning, developing, operating, and evaluating an area health education center program and one or more area health education centers, which carries out the required activities described in section 294a(c) of this title, satisfies the program requirements in such section,<sup>4</sup> has as one of its principal functions identifying and implementing strategies and activities that address health care workforce needs in its service area, in coordination with the local workforce investment boards.
+
+&emsp;(14)
+
+Clinical social worker.—The term “clinical social worker” has the meaning given the term in section 1395x(hh)(1) of this title.
+
+&emsp;(15)
+
+Cultural competency.—The term “cultural competency” shall be defined by the Secretary in a manner consistent with section 300u–6(d)(3) of this title.
+
+&emsp;(16)
+
+Direct care worker.—The term “direct care worker” has the meaning given that term in the 2010 Standard Occupational Classifications of the Department of Labor for Home Health Aides \[31–1011\], Psychiatric Aides \[31–1013\], Nursing Assistants \[31–1014\], and Personal Care Aides \[39–9021\].
+
+&emsp;(17)
+
+Federally qualified health center.—The term “Federally qualified health center” has the meaning given that term in section 1395x(aa) of this title.
+
+&emsp;(18)
+
+Frontier health professional shortage area.—The term “frontier health professional shortage area” means an area—
+
+&emsp;&emsp;(A) with a population density less than 6 persons per square mile within the service area; and
+
+&emsp;&emsp;(B) with respect to which the distance or time for the population to access care is excessive.
+
+&emsp;(19)
+
+Graduate psychology.—The term “graduate psychology” means an accredited program in professional psychology.
+
+&emsp;(20)
+
+Health disparity population.—The term “health disparity population” has the meaning given such term in section 299a–1(d)(1) of this title.
+
+&emsp;(21)
+
+Health literacy.—The term “health literacy” means the degree to which an individual has the capacity to obtain, communicate, process, and understand health information and services in order to make appropriate health decisions.
+
+&emsp;(22)
+
+Mental health service professional.—The term “mental health service professional” means an individual with a graduate or postgraduate degree from an accredited institution of higher education in psychiatry, psychology, school psychology, behavioral pediatrics, psychiatric nursing, social work, school social work, substance abuse disorder prevention and treatment, marriage and family counseling, school counseling, or professional counseling.
+
+&emsp;(23)
+
+One-stop delivery system center.—The term “one-stop delivery system” means a one-stop delivery system described in section 2864(c) of title 29.
+
+&emsp;(24)
+
+Paraprofessional child and adolescent mental health worker.—The term “paraprofessional child and adolescent mental health worker” means an individual who is not a mental or behavioral health service professional, but who works at the first stage of contact with children and families who are seeking mental or behavioral health services, including substance abuse prevention and treatment services.
+
+&emsp;(25)
+
+Racial and ethnic minority group; racial and ethnic minority population.—The terms “racial and ethnic minority group” and “racial and ethnic minority population” have the meaning given the term “racial and ethnic minority group” in section 300u–6 of this title.
+
+&emsp;(26)
+
+Rural health clinic.—The term “rural health clinic” has the meaning given that term in section 1395x(aa) of this title.
+
+(July 1, 1944, ch. 373, title VII, §799B, formerly §799, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2066; renumbered §799B and amended Pub. L. 105–392, title I, §§106(a)(2)(E), 108, Nov. 13, 1998, 112 Stat. 3557, 3560; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 111–148, title V, §5002(b), Mar. 23, 2010, 124 Stat. 590.)
 
 #### References in Text
 
@@ -92,9 +150,13 @@ Section 256a of this title, referred to in par. (6)(B), was repealed by Pub. L. 
 
 #### Amendments
 
-2002—Par. (6)(B). Pub. L. 107–251 substituted “254b(h)” for “256”.
+<b>2010</b>—Par. (3). Pub. L. 111–148, §5002(b)(1), added par. (3) and struck out former par. (3) which defined “program for the training of physician assistants” by describing its objective, duration, minimum enrollment, and specific areas of instruction.
 
-1998—Par. (1)(C). Pub. L. 105–392, §108(b)(1)(A), inserted “and ‘graduate program in professional counseling’ ” before “mean an” and “and a concentration leading to a graduate degree in counseling” before period at end.
+Pars. (12) to (26). Pub. L. 111–148, §5002(b)(2), added pars. (12) to (26).
+
+<b>2002</b>—Par. (6)(B). Pub. L. 107–251 substituted “254b(h)” for “256”.
+
+<b>1998</b>—Par. (1)(C). Pub. L. 105–392, §108(b)(1)(A), inserted “and ‘graduate program in professional counseling’ ” before “mean an” and “and a concentration leading to a graduate degree in counseling” before period at end.
 
 Par. (1)(D). Pub. L. 105–392, §108(a), (b)(1)(B), inserted “behavioral health and” before “mental”, “behavioral health and mental health practice,” before “clinical”, and “professional counseling,” after “social work,”.
 
@@ -119,4 +181,12 @@ Reference to community health center, migrant health center, public housing heal
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “will be”.</i>
+
+<i><sup>2</sup></i><i> See References in Text notes below.</i>
+
+<i><sup>3</sup></i><i> So in original. The word “a” probably should appear.</i>
+
+<i><sup>4</sup></i><i> So in original. The word “and” probably should appear.</i>
 

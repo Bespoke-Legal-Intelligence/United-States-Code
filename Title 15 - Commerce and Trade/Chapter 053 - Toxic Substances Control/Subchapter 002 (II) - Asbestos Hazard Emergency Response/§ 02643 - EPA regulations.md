@@ -62,7 +62,7 @@ The Administrator shall promulgate regulations which prescribe procedures, inclu
 
 #### (6) “Preventive measures” defined
 
-&emsp;For purposes of this section, the term “preventive measures” means actions which eliminate the reasonable likelihood of asbestos-containing material becoming damaged, deteriorated, or delaminated, or significantly damaged <sup>1</sup> deteriorated, or delaminated (as the case may be) or which protect human health and the environment.
+&emsp;For purposes of this section, the term “preventive measures” means actions which eliminate the reasonable likelihood of asbestos-containing material becoming damaged, deteriorated, or delaminated, or significantly damaged <sup>1</sup> deteriorated, or delaminated (as thecase may be) or which protect human health and the environment.
 
 #### (7) EPA information or advisory
 
@@ -126,7 +126,7 @@ The Administrator shall promulgate regulations which prescribe standards for tra
 
 &emsp;&emsp;&emsp;(ii) A statement that the local educational agency used (or will use) persons who have been accredited by another State which has adopted a contractor accreditation plan under section 2646(b) of this title or is accredited pursuant to an Administrator-approved course under section 2646(c) of this title.
 
-&emsp;&emsp;(G) A list of the laboratories that analyzed any bulk samples of asbestos-containing material found in the school building or air samples taken to detect asbestos in the school building and a statement that each laboratory has been accredited pursuant to the accreditation program under section 2646(d) of this title.
+&emsp;&emsp;(G) A list of the laboratories that analyzed any bulk samples of asbestos-containing material found in the school building or airsamples taken to detect asbestos in the school building and a statement that each laboratory has been accredited pursuant to the accreditation program under section 2646(d) of this title.
 
 &emsp;&emsp;(H) With respect to each consultant who contributed to the management plan, the name of the consultant and one of the following statements:
 
@@ -192,7 +192,7 @@ The Defense Dependents’ Education Act of 1978, referred to in subsec. (<i>l</i
 
 #### Amendments
 
-1990—Subsec. (d)(7). Pub. L. 101–637 added par. (7).
+<b>1990</b>—Subsec. (d)(7). Pub. L. 101–637 added par. (7).
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

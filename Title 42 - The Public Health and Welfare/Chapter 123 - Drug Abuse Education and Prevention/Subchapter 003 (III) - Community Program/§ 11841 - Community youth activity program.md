@@ -134,11 +134,11 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(8
 
 #### Amendments
 
-1998—Subsec. (c)(2). Pub. L. 105–285 struck out “, such as activities authorized by section 9910(a)(2)(F) of this title,” after “national significance”.
+<b>1998</b>—Subsec. (c)(2). Pub. L. 105–285 struck out “, such as activities authorized by section 9910(a)(2)(F) of this title,” after “national significance”.
 
-1994—Subsec. (d)(8)(A). Pub. L. 103–382 substituted “title IV of the Elementary and Secondary Education Act of 1965” for “the Drug-Free Schools and Communities Act of 1986”.
+<b>1994</b>—Subsec. (d)(8)(A). Pub. L. 103–382 substituted “title IV of the Elementary and Secondary Education Act of 1965” for “the Drug-Free Schools and Communities Act of 1986”.
 
-1989—Subsec. (b)(2). Pub. L. 101–93, §4(1)(A), substituted “subsection (e)” for “subsections (c)(3)(B) and (e)”.
+<b>1989</b>—Subsec. (b)(2). Pub. L. 101–93, §4(1)(A), substituted “subsection (e)” for “subsections (c)(3)(B) and (e)”.
 
 Subsec. (c)(3)(A). Pub. L. 101–93, §4(1)(B), substituted “subsection (g)” for “subsection (h)”.
 

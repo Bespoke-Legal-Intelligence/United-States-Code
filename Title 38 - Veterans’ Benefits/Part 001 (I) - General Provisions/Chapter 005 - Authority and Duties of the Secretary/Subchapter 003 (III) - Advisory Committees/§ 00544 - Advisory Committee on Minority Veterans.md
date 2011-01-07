@@ -8,9 +8,11 @@
 
 &emsp;(ii) individuals who are recognized authorities in fields pertinent to the needs of veterans who are minority group members;
 
-&emsp;(iii) veterans who are minority group members and who have experience in a military theater of operations; and
+&emsp;(iii) veterans who are minority group members and who have experience in a military theater of operations;
 
-&emsp;(iv) veterans who are minority group members and who do not have such experience.
+&emsp;(iv) veterans who are minority group members and who do not have such experience; and
+
+&emsp;(v) women veterans who are minority group members and are recently separated from service in the Armed Forces.
 
 (B) The Committee shall include, as ex officio members, the following:
 
@@ -62,23 +64,29 @@
 
 (e) The Committee shall cease to exist December 31, 2014.
 
-(Added Pub. L. 103–446, title V, §510(a), Nov. 2, 1994, 108 Stat. 4668; amended Pub. L. 104–275, title V, §501(e)(2), (f), Oct. 9, 1996, 110 Stat. 3341; Pub. L. 106–117, title VIII, §803, Nov. 30, 1999, 113 Stat. 1586; Pub. L. 108–183, title VII, §703, Dec. 16, 2003, 117 Stat. 2671; Pub. L. 110–389, title VIII, §808, Oct. 10, 2008, 122 Stat. 4189.)
+(Added Pub. L. 103–446, title V, §510(a), Nov. 2, 1994, 108 Stat. 4668; amended Pub. L. 104–275, title V, §501(e)(2), (f), Oct. 9, 1996, 110 Stat. 3341; Pub. L. 106–117, title VIII, §803, Nov. 30, 1999, 113 Stat. 1586; Pub. L. 108–183, title VII, §703, Dec. 16, 2003, 117 Stat. 2671; Pub. L. 110–389, title VIII, §808, Oct. 10, 2008, 122 Stat. 4189; Pub. L. 111–163, title II, §204(b), May 5, 2010, 124 Stat. 1144.)
 
 #### Prior Provisions
 
-Prior section 544, added Pub. L. 90–77, title I, §108(a), Aug. 31, 1967, 81 Stat. 180; amended Pub. L. 91–588, §3(a), Dec. 24, 1970, 84 Stat. 1583; Pub. L. 93–527, §5, Dec. 21, 1974, 88 Stat. 1704; Pub. L. 94–169, title I, §105, Dec. 23, 1975, 89 Stat. 1017; Pub. L. 94–432, title II, §205, Sept. 30, 1976, 90 Stat. 1371; Pub. L. 95–204, title I, §104, Dec. 2,1977, 91 Stat. 1457, authorized an increase by $79 of the monthly rate of pension payable to the surviving spouse if the surviving spouse was entitled to pension under subchapter III of chapter 15 of this title and was in need of regular aid and attendance, prior to repeal by Pub. L. 95–588, title I, §112(a)(1), title IV, §401, Nov. 4, 1978, 92 Stat. 2505, 2511, effective Jan. 1, 1979.
+Prior section 544, added Pub. L. 90–77, title I, §108(a), Aug. 31, 1967, 81 Stat. 180; amended Pub. L. 91–588, §3(a), Dec. 24, 1970, 84 Stat. 1583; Pub. L. 93–527, §5, Dec. 21, 1974, 88 Stat. 1704; Pub. L. 94–169, title I, §105, Dec. 23, 1975, 89 Stat. 1017; Pub. L. 94–432, title II, §205, Sept. 30, 1976, 90 Stat. 1371; Pub. L. 95–204, title I, §104, Dec. 2, 1977, 91 Stat. 1457, authorized an increase by $79 of the monthly rate of pension payable to the surviving spouse if the surviving spouse was entitled to pension under subchapter III of chapter 15 of this title and was in need of regular aid and attendance, prior to repeal by Pub. L. 95–588, title I, §112(a)(1), title IV, §401, Nov. 4, 1978, 92 Stat. 2505, 2511, effective Jan. 1, 1979.
 
 Another prior section 544, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1139, authorized the payment of a pension to children of World War II or Korean conflict veterans, prior to the general amendment of subchapter III of chapter 15 of this title by Pub. L. 86–211, §4, Aug. 29, 1950, 73 Stat. 434. See sections 1542 and 1543 of this title.
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–389 substituted “December 31, 2014” for “December 31, 2009”.
+<b>2010</b>—Subsec. (a)(2)(A)(v). Pub. L. 111–163 added cl. (v).
 
-2003—Subsec. (e). Pub. L. 108–183 substituted “December 31, 2009” for “December 31, 2003”.
+<b>2008</b>—Subsec. (e). Pub. L. 110–389 substituted “December 31, 2014” for “December 31, 2009”.
 
-1999—Subsec. (e). Pub. L. 106–117 substituted “December 31, 2003” for “December 31, 1999”.
+<b>2003</b>—Subsec. (e). Pub. L. 108–183 substituted “December 31, 2009” for “December 31, 2003”.
 
-1996—Subsec. (b). Pub. L. 104–275, §501(e)(2), inserted “, including the Center for Minority Veterans” before period at end.
+<b>1999</b>—Subsec. (e). Pub. L. 106–117 substituted “December 31, 2003” for “December 31, 1999”.
+
+<b>1996</b>—Subsec. (b). Pub. L. 104–275, §501(e)(2), inserted “, including the Center for Minority Veterans” before period at end.
 
 Subsec. (e). Pub. L. 104–275, §501(f), substituted “December 31, 1999” for “December 31, 1997”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–163 applicable to appointments made on or after May 5, 2010, see section 204(c) of Pub. L. 111–163, set out as a note under section 542 of this title.
 

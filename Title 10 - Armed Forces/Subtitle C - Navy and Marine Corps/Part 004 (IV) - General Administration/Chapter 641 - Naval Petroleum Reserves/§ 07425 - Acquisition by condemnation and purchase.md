@@ -28,7 +28,7 @@ The words “Whenever the Secretary of the Navy is unable” are substituted for
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–398 substituted “for exchanges of land or agreements for conservation authorized by section 7424 of this title, the Secretary may acquire” for “for—
+<b>2000</b>—Subsec. (a). Pub. L. 106–398 substituted “for exchanges of land or agreements for conservation authorized by section 7424 of this title, the Secretary may acquire” for “for—
 
 &emsp;“(1) exchanges of land or agreements for conservation authorized by section 7424 of this title; or
 
@@ -36,9 +36,9 @@ The words “Whenever the Secretary of the Navy is unable” are substituted for
 
 > he may acquire”.
 
-1980—Subsec. (a). Pub. L. 96–513 substituted “Naval Petroleum Reserve Numbered 1” for “naval petroleum reserve numbered 1”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “Naval Petroleum Reserve Numbered 1” for “naval petroleum reserve numbered 1”.
 
-1976—Subsec. (a). Pub. L. 94–258 struck out “of the Navy” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–258 struck out “of the Navy” after “Secretary”.
 
 #### Effective Date of 1980 Amendment
 

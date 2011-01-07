@@ -22,5 +22,5 @@ The words “under such conditions, regulations, and limitations as he shall pre
 
 #### Amendments
 
-1960—Pub. L. 86–593 substituted “Air Force cross” for “distinguished-service cross” in section catchline and in text.
+<b>1960</b>—Pub. L. 86–593 substituted “Air Force cross” for “distinguished-service cross” in section catchline and in text.
 

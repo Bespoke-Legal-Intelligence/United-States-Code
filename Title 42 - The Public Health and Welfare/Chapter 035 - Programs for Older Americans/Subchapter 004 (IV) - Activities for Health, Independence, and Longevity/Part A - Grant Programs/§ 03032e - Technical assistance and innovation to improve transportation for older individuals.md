@@ -34,5 +34,5 @@ In this section, the term “economically sustainable transportation” means de
 
 #### Amendments
 
-2006—Pub. L. 109–365 amended section generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to grants and contracts to provide technical assistance to improve transportation for seniors.
+<b>2006</b>—Pub. L. 109–365 amended section generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to grants and contracts to provide technical assistance to improve transportation for seniors.
 

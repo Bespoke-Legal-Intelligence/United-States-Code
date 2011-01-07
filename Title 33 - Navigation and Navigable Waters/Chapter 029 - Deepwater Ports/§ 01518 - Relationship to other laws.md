@@ -26,7 +26,7 @@ The law of the nearest adjacent coastal State, now in effect or hereafter adopte
 
 &emsp;(B) are within the safety zone of such a deepwater port, and are engaged in activities connected, associated, or potentially interfering with the use and operation of the deepwater port.
 
-> The jurisdiction of the United States under this paragraph shall not, however, apply to vessels registered in or flying the flag of any foreign state that has objected to the application of such jurisdiction.
+> The jurisdiction of the United States under this paragraph shall not, however, apply to vesselsregistered in or flying the flag of any foreign state that has objected to the application of such jurisdiction.
 
 (2) Except in a situation involving force majeure, a licensee shall not permit a vessel registered in or flying the flag of a foreign state to call at or otherwise utilize a deepwater port licensed under this chapter unless—
 
@@ -48,21 +48,17 @@ The United States district courts shall have original jurisdiction of cases and 
 
 (Pub. L. 93–627, §19(a)–(e), Jan. 3, 1975, 88 Stat. 2145, 2146; Pub. L. 98–419, §5(a), (b), Sept. 25, 1984, 98 Stat. 1609.)
 
-#### References in Text
-
-The customs laws, referred to in subsec. (d), are classified generally to Title 19, Customs Duties.
-
 #### Codification
 
 Section 19(f) of Pub. L. 93–627 amended section 1333(a)(2) of Title 43, Public Lands.
 
 #### Amendments
 
-1984—Subsec. (a)(3). Pub. L. 98–419, §5(a), added par. (3).
+<b>1984</b>—Subsec. (a)(3). Pub. L. 98–419, §5(a), added par. (3).
 
 Subsec. (c)(1). Pub. L. 98–419, §5(b), added par. (1). Former cl. (1) redesignated cl. (A)(i) of par. (2).
 
-Subsec. (c)(2). Pub. L. 98–419, §5(b), redesignated existing provisions of subsec. (c) as par. (2)(A)(i) and (B) thereof, substituted reference to provisions of par. (1) for former reference to provisions of this chapter inpar. (2)(A)(i) as so redesignated, and added par. (2)(A)(ii).
+Subsec. (c)(2). Pub. L. 98–419, §5(b), redesignated existing provisions of subsec. (c) as par. (2)(A)(i) and (B) thereof, substituted reference to provisions of par. (1) for former reference to provisions of this chapter in par. (2)(A)(i) as so redesignated, and added par. (2)(A)(ii).
 
 Subsec. (c)(3). Pub. L. 98–419, §5(b), added par. (3).
 

@@ -4,7 +4,7 @@
 
 Congress finds the following:
 
-&emsp;(1) The President has declared his view that the United States should provide significant assistance to Afghanistan so that it is no longer a haven for terrorism.
+&emsp;(1) The President has declared his view that the United States should provide significantassistance to Afghanistan so that it is no longer a haven for terrorism.
 
 &emsp;(2) The delivery of humanitarian and reconstruction assistance from the international community is necessary for the safe return of refugees and is critical to the future stability of Afghanistan.
 
@@ -24,7 +24,7 @@ Congress finds the following:
 
 &emsp;(9) Due to the ongoing military campaign in Afghanistan, the United States does not contribute troops to the International Security Assistance Force but has provided support to other countries that are doing so.
 
-&emsp;(10) The United States is providing political, financial, training, and other assistance to theAfghan Interim Authority as it begins to build a national army and police force to help provide security throughout Afghanistan, but this effort is not meeting the immediate security needs of Afghanistan.
+&emsp;(10) The United States is providing political, financial, training, and other assistance to the Afghan Interim Authority as it begins to build a national army and police force to help provide security throughout Afghanistan, but this effort is not meeting the immediate security needs of Afghanistan.
 
 &emsp;(11) Because of these immediate security needs, the Government of Afghanistan, its President, Hamid Karzai, and many Afghan regional leaders have called for the International Security Assistance Force, which has successfully brought stability to Kabul, to be expanded and deployed throughout the country, and this request has been strongly supported by a wide range of international humanitarian organizations, including the International Committee of the Red Cross, Catholic Relief Services, and Refugees International.
 
@@ -98,7 +98,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (d)(2)(B), is Pub. L.
 
 #### Amendments
 
-2004—Subsec. (c)(2). Pub. L. 108–458, §7104(k)(1), substituted “2010” for “2007” in introductory provisions.
+<b>2004</b>—Subsec. (c)(2). Pub. L. 108–458, §7104(k)(1), substituted “2010” for “2007” in introductory provisions.
 
 Subsec. (d)(1). Pub. L. 108–458, §7104(i), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Congress urges the President, in order to fulfill the objective of establishing security in Afghanistan, to take all appropriate measures to assist Afghanistan in establishing a secure environment throughout the country, including by—
 

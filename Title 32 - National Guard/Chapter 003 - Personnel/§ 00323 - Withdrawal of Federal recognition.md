@@ -10,7 +10,7 @@
 
 > If the findings of the board are unfavorable to the officer and are approved by the President, his Federal recognition shall be withdrawn.
 
-(c) If a member of the Army National Guard of the United States or the Air National Guard of the United States is transferred to the Army Reserve or the Air Force Reserve, as the case maybe, under section 12105, 12213(a), or 12214(a) of title 10, his Federal recognition is withdrawn.
+(c) If a member of the Army National Guard of the United States or the Air National Guard of the United States is transferred to the Army Reserve or the Air Force Reserve, as the case may be, under section 12105, 12213(a), or 12214(a) of title 10, his Federal recognition is withdrawn.
 
 (d) The Federal recognition of a reserve commissioned officer of the Army or the Air Force who is—
 
@@ -98,7 +98,7 @@ In subsection (e), the words “if appropriate” are omitted as surplusage.
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–337, §1676(a)(3), substituted “12105, 12213(a), or 12214(a)” for “3259, 3352(a), 8259, or 8352(a)”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–337, §1676(a)(3), substituted “12105, 12213(a), or 12214(a)” for “3259, 3352(a), 8259, or 8352(a)”.
 
 Subsecs. (d), (e). Pub. L. 103–337, §1630(2), added subsec. (d) and struck out former subsecs. (d) and (e) which read as follows:
 
@@ -106,7 +106,7 @@ Subsecs. (d), (e). Pub. L. 103–337, §1630(2), added subsec. (d) and struck ou
 
 “(e) Except as provided in sections 1005 and 1006 of title 10, the Federal recognition of a reserve officer of the Air Force who is not recommended for promotion under section 8368(c)(1) or (2) of title 10, or who is found to be not qualified for Federal recognition under section 8368(d) or (e) of title 10, shall be withdrawn.”
 
-1958—Subsec. (b)(1). Pub. L. 85–861, §33(c)(2), substituted “the Regular Army or the Army National Guard of the United States, or both” for “a regular or reserve component of the Army”.
+<b>1958</b>—Subsec. (b)(1). Pub. L. 85–861, §33(c)(2), substituted “the Regular Army or the Army National Guard of the United States, or both” for “a regular or reserve component of the Army”.
 
 Subsec. (b)(2). Pub. L. 85–861, §33(c)(2), substituted “the Regular Air Force or the Air National Guard of the United States, or both” for “a regular or reserve component of the Air Force”.
 

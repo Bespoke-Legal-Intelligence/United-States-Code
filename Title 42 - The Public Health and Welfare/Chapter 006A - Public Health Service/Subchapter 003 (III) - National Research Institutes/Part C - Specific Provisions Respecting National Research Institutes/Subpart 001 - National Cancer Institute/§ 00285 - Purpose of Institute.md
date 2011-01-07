@@ -6,5 +6,5 @@ The general purpose of the National Cancer Institute (hereafter in this subpart 
 
 #### Amendments
 
-1988—Pub. L. 100–607 inserted “, rehabilitation from cancer,” after “treatment of cancer”.
+<b>1988</b>—Pub. L. 100–607 inserted “, rehabilitation from cancer,” after “treatment of cancer”.
 

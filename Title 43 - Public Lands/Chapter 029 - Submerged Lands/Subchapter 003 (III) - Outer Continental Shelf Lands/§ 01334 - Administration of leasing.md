@@ -56,7 +56,7 @@ Rights-of-way through the submerged lands of the outer Continental Shelf, whethe
 
 &emsp;(B) Upon the specific request of one or more owner or nonowner shippers able to provide a guaranteed level of throughput, and on the condition that the shipper or shippers requesting such expansion shall be responsible for bearing their proportionate share of the costs and risks related thereto, the Federal Energy Regulatory Commission may, upon finding, after a full hearing with due notice thereof to the interested parties, that such expansion is within technological limits and economic feasibility, order a subsequent expansion of throughput capacity of any pipeline for which the permit, license, easement, right-of-way, or other grant of authority is approved or issued after September 18, 1978. This subparapraph <sup>1</sup> shall not apply to any such grant of authority approved or issued for the Gulf of Mexico or the Santa Barbara Channel.
 
-(2) The Federal Energy Regulatory Commission may, by order or regulation, exempt fromany or all of the requirements of paragraph (1) of this subsection any pipeline or class of pipelines which feeds into a facility where oil and gas are first collected or a facility where oil and gas are first separated, dehydrated, or otherwise processed.
+(2) The Federal Energy Regulatory Commission may, by order or regulation, exempt from any or all of the requirements of paragraph (1) of this subsection any pipeline or class of pipelines which feeds into a facility where oil and gas are first collected or a facility where oil and gas are first separated, dehydrated, or otherwise processed.
 
 (3) The Secretary of Energy and the Federal Energy Regulatory Commission shall consult with and give due consideration to the views of the Attorney General on specific conditions to be included in any permit, license, easement, right-of-way, or grant of authority in order to ensure that pipelines are operated in accordance with the competitive principles set forth in paragraph (1) of this subsection. In preparing any such views, the Attorney General shall consult with the Federal Trade Commission.
 
@@ -100,11 +100,11 @@ The Clean Air Act, referred to in subsec. (a)(8), is act July 14, 1955, ch. 360,
 
 #### Amendments
 
-2005—Subsec. (a)(5). Pub. L. 109–58 inserted “from any source” after “oil and gas”.
+<b>2005</b>—Subsec. (a)(5). Pub. L. 109–58 inserted “from any source” after “oil and gas”.
 
-1990—Subsec. (j). Pub. L. 101–380 added subsec. (j).
+<b>1990</b>—Subsec. (j). Pub. L. 101–380 added subsec. (j).
 
-1978—Subsec. (a). Pub. L. 95–372 expanded provisions formerly contained in subsec. (a)(1) so as to include the enforcement of safety and environmental laws and regulations, consultation with the Attorney General and the Federal Trade Commission, and regulations for the suspension or temporary prohibition of any operation or activity including production, the cancellation of leases or permits, the prompt and efficient exploration and development of a lease area, and compliance with the national ambient air quality standards to the extent that activities authorized significantly affect the air quality of any State.
+<b>1978</b>—Subsec. (a). Pub. L. 95–372 expanded provisions formerly contained in subsec. (a)(1) so as to include the enforcement of safety and environmental laws and regulations, consultation with the Attorney General and the Federal Trade Commission, and regulations for the suspension or temporary prohibition of any operation or activity including production, the cancellation of leases or permits, the prompt and efficient exploration and development of a lease area, and compliance with the national ambient air quality standards to the extent that activities authorized significantly affect the air quality of any State.
 
 Subsec. (b). Pub. L. 95–372 redesignated as subsec. (b) provisions formerly contained in subsec. (a)(2) conditioning the issuance and continuation of leases or of assignments or other transfers of leases upon compliance with regulations, and struck out provisions that had set a penalty of a fine of not more than $2,000 or imprisonment for not more than six months or both for the knowing and willful violation of rules or regulations promulgated by the Secretary. See section 1350 of this title.
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 #### Transfer of Functions
 
-Functions vested in, or delegated to, Secretary of Energy and Department of Energy under or with respect to subsec. (g)(2) of this section, transferred to, and vested in, Secretary of the Interior, by section 100 of Pub. L. 97–257, 96 Stat. 841, set out as a note under section 7152 of Title 42, The Public Health and Welfare.
+Functions vested in, or delegated to, Secretary of Energy and Department of Energy under or with respectto subsec. (g)(2) of this section, transferred to, and vested in, Secretary of the Interior, by section 100 of Pub. L. 97–257, 96 Stat. 841, set out as a note under section 7152 of Title 42, The Public Health and Welfare.
 
 Functions of Secretary of the Interior to promulgate regulations under this subchapter which relate to fostering of competition for Federal leases, implementation of alternative bidding systems authorized for award of Federal leases, establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
 

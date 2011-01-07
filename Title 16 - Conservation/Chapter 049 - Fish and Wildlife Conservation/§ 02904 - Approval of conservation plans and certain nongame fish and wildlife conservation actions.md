@@ -6,7 +6,7 @@
 
 (2) Applications for the approval of conservation plans shall be made and reviewed by the Secretary in such manner as the Secretary shall by regulation prescribe.
 
-(3) As soon as practicable, but no later than 180 days, after the date on which a State submits (or resubmits in the case of prior disapproval) an application for the approval of a conservation plan the Secretary shall—
+(3) As soon as practicable, but not later than 180 days, after the date on which a State submits (or resubmits in the case of prior disapproval) an application for the approval of a conservation plan the Secretary shall—
 
 &emsp;(A) approve the conservation plan, and designate it as an approved conservation plan, if he determines that the plan—
 
@@ -36,7 +36,7 @@ If the Secretary approves the conservation plan of any State under subsection (a
 
 #### (d) Nongame conservation actions in the absence of an approved plan
 
-In the absence of an approved conservation plan, and on a showing of need by the State, the Secretary may deem certain conservation actions to be nongame fish and wildlife projects for which reimbursement is available under section section 2905(a)(3) of this title if they—
+In the absence of an approved conservation plan, and on a showing of need by the State, the Secretary may deem certain conservation actions to be nongame fish and wildlife projects for which reimbursement is available under section 2905(a)(3) of this title if they—
 
 &emsp;(1) are consistent with such of the requirements set forth in section 2903 of this title as may be appropriate, including, but not limited to, the requirements in paragraphs (3), (4), (5), and (7) of such section; and
 
@@ -46,7 +46,7 @@ In the absence of an approved conservation plan, and on a showing of need by the
 
 #### References in Text
 
-The Pittman-Robertson Wildlife Restoration Act, referred to in subsec. (b)(1), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, as amended, also known as the Federal Aid in Wildlife Restoration Act, which is classified generally to chapter 5B (§669 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
+The Pittman-Robertson Wildlife Restoration Act, referred to in subsec. (b)(1), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, also known as the Federal Aid in Wildlife Restoration Act, which is classified generally to chapter 5B (§669 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
 
-The Dingell-Johnson Sport Fish Restoration Act, referred to in subsec. (b)(2), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, as amended, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§777 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 777 of this title and Tables.
+The Dingell-Johnson Sport Fish Restoration Act, referred to in subsec. (b)(2), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§777 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 777 of this title and Tables.
 

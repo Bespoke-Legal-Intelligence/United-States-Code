@@ -6,7 +6,7 @@ Any person who—
 
 &emsp;(1) willfully violates any provision of this subchapter or any regulation thereunder, or
 
-&emsp;(2) in any registration statement or supplement thereto or in any other document filed with or furnished to the Attorney General under the provisions of this subchapter willfully makes a false statement of a materialfact or willfully omits any material fact required to be stated therein or willfully omits a material fact or a copy of a material document necessary to make the statements therein and the copies of documents furnished therewith not misleading, shall, upon conviction thereof, be punished by a fine of not more than $10,000 or by imprisonment for not more than five years, or both, except that in the case of a violation of subsection (b), (e), or (f) of section 614 of this title or of subsection (g) or (h) of this section the punishment shall be a fine of not more than $5,000 or imprisonment for not more than six months, or both.
+&emsp;(2) in any registration statement or supplement thereto or in any other document filed with or furnished to the Attorney General under the provisions of this subchapter willfully makes a false statement of a material fact or willfully omits any material fact required to be stated therein or willfully omits a material fact or a copy of a material document necessary to make the statements therein and the copies of documents furnished therewith not misleading, shall, upon conviction thereof, be punished by a fine of not more than $10,000 or by imprisonment for not more than five years, or both, except that in the case of a violation of subsection (b), (e), or (f) of section 614 of this title or of subsection (g) or (h) of this section the punishment shall be a fine of not more than $5,000 or imprisonment for not more than six months, or both.
 
 #### (b) Proof of identity of foreign principal
 
@@ -46,23 +46,23 @@ Provisions on this subject were contained in section 615 of this title prior to 
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–208 substituted “removal pursuant to chapter 4 of title II of the Immigration and Nationality Act” for “deportation in the manner provided by sections 1251 to 1253 of title 8”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–208 substituted “removal pursuant to chapter 4 of title II of the Immigration and Nationality Act” for “deportation in the manner provided by sections 1251 to 1253 of title 8”.
 
-1995—Subsec. (a)(2). Pub. L. 104–65, §9(8)(A), struck out “or in any statement under section 614(a) of this title concerning the distribution of political propaganda” after “or supplement thereto”.
+<b>1995</b>—Subsec. (a)(2). Pub. L. 104–65, §9(8)(A), struck out “or in any statement under section 614(a) of this title concerning the distribution of political propaganda” after “or supplement thereto”.
 
 Subsec. (d). Pub. L. 104–65, §9(8)(B), struck out subsec. (d) which read as follows: “The United States Postal Service may declare to be nonmailable any communication or expression falling within clause (2) of section 611(j) of this title in the form of prints or in any other form reasonably adapted to, or reasonably appearing to be intended for, dissemination or circulation among two or more persons, which is offered or caused to be offered for transmittal in the United States mails to any person or persons in any other American republic by any agent of a foreign principal, if the United States Postal Service is informed in writing by the Secretary of State that the duly accredited diplomatic representative of such American republic has made written representation to the Department of State that the admission or circulation of such communication or expression in such American republic is prohibited by the laws thereof and has requested in writing that its transmittal thereto be stopped.”
 
-1984—Subsec. (f). Pub. L. 98–620 struck out provision that the proceedings shall be made a preferred cause and expedited in every way.
+<b>1984</b>—Subsec. (f). Pub. L. 98–620 struck out provision that the proceedings shall be made a preferred cause and expedited in every way.
 
-1966—Subsec. (a)(2). Pub. L. 89–486, §7(1), inserted exception provision.
+<b>1966</b>—Subsec. (a)(2). Pub. L. 89–486, §7(1), inserted exception provision.
 
 Subsecs. (f) to (h). Pub. L. 89–486, §7(2), added subsecs. (f) to (h).
 
-1956—Act Aug. 1, 1956, amended credit to section by redesignating section 20(b) of act Sept. 23, 1950, as section 20.
+<b>1956</b>—Act Aug. 1, 1956, amended credit to section by redesignating section 20(b) of act Sept. 23, 1950, as section 20.
 
-1952—Subsec. (c). Act June 27, 1952, substituted “sections 1251 to 1253 of title 8” for “sections 155 and 156 of title 8”.
+<b>1952</b>—Subsec. (c). Act June 27, 1952, substituted “sections 1251 to 1253 of title 8” for “sections 155 and 156 of title 8”.
 
-1950—Subsec. (e). Act Sept. 23, 1950, added subsec. (e).
+<b>1950</b>—Subsec. (e). Act Sept. 23, 1950, added subsec. (e).
 
 #### Effective Date of 1996 Amendment
 

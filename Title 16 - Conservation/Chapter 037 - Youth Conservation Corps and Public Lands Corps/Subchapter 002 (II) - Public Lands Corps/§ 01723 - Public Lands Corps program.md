@@ -60,7 +60,7 @@ Each appropriate conservation project carried out under this subchapter on eligi
 
 #### Amendments
 
-2005—Subsec. (b). Pub. L. 109–154, §2(g)(1)(A), substituted “Corps by the Secretary” for “Corps by the Secretary of the Interior or the Secretary of Agriculture” and “Secretary may” for “Secretaries may” in two places.
+<b>2005</b>—Subsec. (b). Pub. L. 109–154, §2(g)(1)(A), substituted “Corps by the Secretary” for “Corps by the Secretary of the Interior or the Secretary of Agriculture” and “Secretary may” for “Secretaries may” in two places.
 
 Subsec. (c). Pub. L. 109–154, §2(b), designated existing provisions as par. (1), inserted heading, substituted “The Secretary is” for “The Secretary of the Interiorand the Secretary of Agriculture are”, and added par. (2).
 

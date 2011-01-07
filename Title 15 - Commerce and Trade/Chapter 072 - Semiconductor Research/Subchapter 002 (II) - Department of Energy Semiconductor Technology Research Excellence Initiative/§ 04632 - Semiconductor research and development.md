@@ -82,7 +82,7 @@ Section was enacted as part of the Technology Competitiveness Act and as part of
 
 #### Amendments
 
-1992—Subsec. (f). Pub. L. 102–245 substituted “1990, 1991, 1992, and 1993” for “and 1990”.
+<b>1992</b>—Subsec. (f). Pub. L. 102–245 substituted “1990, 1991, 1992, and 1993” for “and 1990”.
 
 #### Termination of Reporting Requirements
 

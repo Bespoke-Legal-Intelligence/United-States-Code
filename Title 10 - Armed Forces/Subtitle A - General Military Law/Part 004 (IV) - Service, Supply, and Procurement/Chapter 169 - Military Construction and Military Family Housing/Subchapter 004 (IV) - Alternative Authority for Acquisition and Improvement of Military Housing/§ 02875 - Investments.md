@@ -28,9 +28,9 @@ Congressional Notification Required.—Amounts in the Department of Defense Fami
 
 #### Amendments
 
-2003—Subsec. (e). Pub. L. 108–136 inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to section 480 of this title”.
+<b>2003</b>—Subsec. (e). Pub. L. 108–136 inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to section 480 of this title”.
 
-1999—Pub. L. 106–65, §2803(h)(1), struck out “in nongovernmental entities” after “Investments” in section catchline.
+<b>1999</b>—Pub. L. 106–65, §2803(h)(1), struck out “in nongovernmental entities” after “Investments” in section catchline.
 
 Subsec. (a). Pub. L. 106–65, §2803(d)(1), substituted “an eligible entity” for “nongovernmental entities”.
 
@@ -40,5 +40,5 @@ Subsec. (d). Pub. L. 106–65, §2803(d)(3), substituted “eligible” for “n
 
 Subsec. (e). Pub. L. 106–65, §2803(d)(4), substituted “an eligible entity” for “a nongovernmental entity”.
 
-1997—Subsec. (e). Pub. L. 105–85 added subsec. (e).
+<b>1997</b>—Subsec. (e). Pub. L. 105–85 added subsec. (e).
 

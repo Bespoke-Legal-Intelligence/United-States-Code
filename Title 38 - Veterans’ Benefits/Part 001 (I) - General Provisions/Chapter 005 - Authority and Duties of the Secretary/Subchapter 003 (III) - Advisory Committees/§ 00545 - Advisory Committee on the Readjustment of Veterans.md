@@ -56,7 +56,7 @@ Prior section 545 of this title, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1139,
 
 #### Amendments
 
-2001—Subsec. (a)(1). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
 
 #### Commission on Servicemembers and Veterans Transition Assistance
 
@@ -292,7 +292,7 @@ Availability.—Any sums made available to the Commission under subsection (a) s
 
 Section 333(b) of Pub. L. 104–262 provided that:
 
-“(1) Notwithstanding subsection (a)(2) of section 545 of title 38, United States Code (as added by subsection (a)), the members of the Advisory Committee on the Readjustment of Vietnam and Other War Veterans on the date of the enactment of this Act \[Oct. 9, 1996\] shall be the original members of the advisory committee recognized under such section.
+“(1) Notwithstanding subsection (a)(2) of section 545 of title 38, United States Code (as added by subsection\(a)), the members of the Advisory Committee on the Readjustment of Vietnam and Other War Veterans on the date of the enactment of this Act \[Oct. 9, 1996\] shall be the original members of the advisory committee recognized under such section.
 
 “(2) The original members shall so serve until the Secretary of Veterans Affairs carries out appointments under such subsection (a)(2). The Secretary of Veterans Affairs shall carry out such appointments as soon after such date as is practicable. The Secretary may make such appointments from among such original members.”
 

@@ -34,7 +34,7 @@ With respect to any entity not less than six months prior to the expiration of t
 
 In exercising the authority of subsection (a) of this section the Administrator shall assure that the governmental or other entities receiving assistance hereunder utilize all reasonable, available means to achieve financial self-sufficiency to the end that assistance payments by the Administrator may be reduced or terminated at the earliest practical time.
 
-(Aug. 4, 1955, ch. 543, ch. 9, §91, 69 Stat. 481; Pub. L. 90–190, §2, Dec. 14, 1967, 81 Stat. 576; Pub. L. 94–187, title VI, §601(1)–(6), Dec. 31, 1975, 89 Stat. 1077, 1078; Pub. L. 95–238, title II, §205(a), Feb. 25, 1978, 92 Stat. 60; Pub. L. 104–106, div. C, title XXXI, §3161(c), Feb. 10, 1996, 110 Stat. 627.)
+(Aug. 4, 1955, ch. 543, ch. 9, §91, 69 Stat. 481; Pub. L. 90–190, §2, Dec. 14, 1967, 81 Stat. 576; Pub. L. 94–187, title VI, §601(1)–(6), Dec. 31, 1975, 89 Stat.1077, 1078; Pub. L. 95–238, title II, §205(a), Feb. 25, 1978, 92 Stat. 60; Pub. L. 104–106, div. C, title XXXI, §3161(c), Feb. 10, 1996, 110 Stat. 627.)
 
 #### References in Text
 
@@ -42,13 +42,13 @@ Act of September 30, 1950, referred to in subsec. (c), is act Sept. 30, 1950, ch
 
 #### Amendments
 
-1996—Subsec. (d). Pub. L. 104–106 substituted “; or not later than June 30, 1996, in the case of the Los AlamosSchool Board and the county of Los Alamos, New Mexico” for “, and the Los Alamos School Board; and not less than six months prior to June 30, 1987, in the case of the county of Los Alamos, New Mexico” and inserted at end “If the recommendation under the preceding sentence regarding the Los Alamos School Board or the county of Los Alamos, New Mexico, indicates a need for further assistance for the school board or the county, as the case may be, after June 30, 1997, the recommendation shall include a report and plan describing the actions required to eliminate the need for further assistance for the school board or the county, including a proposal for legislative action to carry out the plan.”
+<b>1996</b>—Subsec. (d). Pub. L. 104–106 substituted “; or not later than June 30, 1996, in the case of the Los Alamos School Board and the county of Los Alamos, New Mexico” for “, and the Los Alamos School Board; and not less than six months prior to June 30, 1987, in the case of the county of Los Alamos, New Mexico” and inserted at end “If the recommendation under the preceding sentence regarding the Los Alamos School Board or the county of Los Alamos, New Mexico, indicates a need for further assistance for the school board or the county, as the case may be, after June 30, 1997, the recommendation shall include a report and plan describing the actions required to eliminate the need for further assistance for the school board or the county, including a proposal for legislative action to carry out the plan.”
 
-1978—Subsec. (a). Pub. L. 95–238, §205(a)(1), inserted provisions for applicability to the Los Alamos School Board and the county of Los Alamos, New Mexico, and substituted provisions authorizing Administrator to make payments for provisions requiring Administrator to make payments.
+<b>1978</b>—Subsec. (a). Pub. L. 95–238, §205(a)(1), inserted provisions for applicability to the Los Alamos School Board and the county of Los Alamos, New Mexico, and substituted provisions authorizing Administrator to make payments for provisions requiring Administrator to make payments.
 
 Subsec. (d). Pub. L. 95–238, §205(a)(2), inserted provisions for applicability to the Los Alamos School Board and the county of Los Alamos, New Mexico, and substituted provision requiring presentation to the appropriate committees of the House and the Senate for provision requiring presentation to the Joint Committee on Atomic Energy.
 
-1975—Subsec. (a). Pub. L. 94–187, §601(1), (5), substituted “Administrator” for “Commission” in three places and inserted at end of first sentence “: <i>Provided further</i>, That the Administrator is also authorized to make payments of just and reasonable sums to Anderson County and Roane County, Tennessee”.
+<b>1975</b>—Subsec. (a). Pub. L. 94–187, §601(1), (5), substituted “Administrator” for “Commission” in three places and inserted at end of first sentence “: <i>Provided further</i>, That the Administrator is also authorized to make payments of just and reasonable sums to Anderson County and Roane County, Tennessee”.
 
 Subsec. (a)(2). Pub. L. 94–187, §601(2), substituted “Energy Research and Development Administration” for “atomic energy”.
 
@@ -56,7 +56,7 @@ Subsec. (d). Pub. L. 94–187, §601(1), (3), (6), substituted “Administrator�
 
 Subsec. (e). Pub. L. 94–187, §601(1), (4), substituted “Administrator” for “Commission” in two places and struck out “itself” after “shall assure”.
 
-1967—Subsec. (a). Pub. L. 90–190, §2(1), authorized the Commission, with respect to the cities of Oak Ridge, Tenn., and Richland, Wash., and the Richland School District, to continue to make assistance payments of just and reasonable sums after the expiration of the ten-year period following the date of transfer of any municipal installation, and added par. (5).
+<b>1967</b>—Subsec. (a). Pub. L. 90–190, §2(1), authorized the Commission, with respect to the cities of Oak Ridge, Tenn., and Richland, Wash., and the Richland School District, to continue to make assistance payments of just and reasonable sums after the expiration of the ten-year period following the date of transfer of any municipal installation, and added par. (5).
 
 Subsec. (d). Pub. L. 90–190, §2(2), inserted “(or not less than six months prior to June 30, 1979, in the case of the Cities of Oak Ridge, Tennessee, and Richland, Washington, and the Richland School District),” after “subsection (a) of this section”, substituted “assistance” for “contribution”, and struck out requirement that if Commission proposes further contribution payments, it shall propose a definite schedule of such payments which will provide for an orderly and reasonably prompt withdrawal of Commission from participation in and contribution toward local government.
 
@@ -67,6 +67,20 @@ Subsec. (e). Pub. L. 90–190, §2(3), added subsec. (e).
 Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
 
 #### Conveyance to Los Alamos, New Mexico
+
+Pub. L. 111–383, div. C, title XXXI, §3120, Jan. 7, 2011, 124 Stat. 4514, provided that:
+
+“(a)
+
+Environmental Restoration.—If the Secretary of Energy determines under any authority previously established by law that a parcel of land described in subsection (c) requires environmental restoration or remediation, the Secretary shall, to the maximum extent practicable, complete the environmental restoration or remediation of the parcel not later than September 30, 2022, and otherwise in compliance with such law.
+
+“(b)
+
+Conveyance or Transfer.—If the Secretary determines under any authority previously established by law that environmental restoration or remediation cannot reasonably be expected to be completed with respect to a parcel of land described in subsection (c) by September 30, 2022, the Secretary shall not convey or transfer the parcel of land.
+
+“(c)
+
+Parcels of Land.—A parcel of land described in this subsection is a parcel of land under the jurisdiction or administrative control of the Secretary at or in the vicinity of Los Alamos National Laboratory that the Secretary has previously identified as suitable for conveyance or transfer in a report submitted to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] prior to the date of the enactment of this Act \[Jan. 7, 2011\].”
 
 Pub. L. 105–119, title VI, §632, Nov. 26, 1997, 111 Stat. 2523, as amended by Pub. L. 108–375, div. C, title XXXI, §3148, Oct. 28, 2004, 118 Stat. 2177; Pub. L. 109–364, div. C, title XXXI, §3119, Oct. 17, 2006, 120 Stat. 2509, provided that:
 
@@ -86,7 +100,7 @@ Preliminary Identification of Parcels of Land for Conveyance or Transfer.—(1) 
 
 “(2) A parcel is suitable for conveyance or transfer for purposes of paragraph (1) if the parcel—
 
-&emsp;“(A) is not required to meet the national security mission of the Department of Energy or will not be required for that purpose before the end of the 10-year period beginning on the date of enactment of this Act;
+&emsp;“(A) is not required to meet the national security mission of the Department of Energy or will not berequired for that purpose before the end of the 10-year period beginning on the date of enactment of this Act;
 
 &emsp;“(B) is likely to be conveyable or transferable, as the case may be, under this section not later than the end of such period; and
 
@@ -112,7 +126,7 @@ Environmental Restoration.—(1) Not later than 21 months after the date of enac
 
 “(e)
 
-Agreement for Allocation of Parcels.—As soon as practicable after completing the review oftitles to parcels of land under subsection (c), but not later than 90 days after the submittal of the report under subsection (d)(1)(C), the County and the Pueblo shall submit to the Secretary an agreement between the County and the Pueblo which allocates between the County and the Pueblo the parcels identified for conveyance or transfer under subsection (b).
+Agreement for Allocation of Parcels.—As soon as practicable after completing the review of titles to parcels of land under subsection (c), but not later than 90 days after the submittal of the report under subsection (d)(1)(C), the County and the Pueblo shall submit to the Secretary an agreement between the County and the Pueblo which allocates between the County and the Pueblo the parcels identified for conveyance or transfer under subsection (b).
 
 “(f)
 

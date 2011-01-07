@@ -70,7 +70,7 @@ The ADA Amendments Act of 2008, referred to in par. (4)(B), is Pub. L. 110–325
 
 #### Amendments
 
-2008—Pub. L. 110–325 amended section generally. Prior to amendment, section consisted of pars. (1) to (3) defining for purposes of this chapter “auxiliary aids and services”, “disability”, and “State”.
+<b>2008</b>—Pub. L. 110–325 amended section generally. Prior to amendment, section consisted of pars. (1) to (3) defining for purposes of this chapter “auxiliary aids and services”, “disability”, and “State”.
 
 #### Effective Date of 2008 Amendment
 

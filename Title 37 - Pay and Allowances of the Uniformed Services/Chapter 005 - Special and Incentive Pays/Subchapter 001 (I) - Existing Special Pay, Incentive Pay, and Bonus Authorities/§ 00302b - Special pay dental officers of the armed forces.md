@@ -94,13 +94,13 @@ Reserve Dental Officers Special Pay.—(1) A reserve dental officer described in
 
 #### Amendments
 
-2008—Subsec. (a)(4). Pub. L. 110–181, §616(a)(1), substituted “at a rate determined by the Secretary concerned, which rate may not exceed the following” for “at the following rates” in introductory provisions.
+<b>2008</b>—Subsec. (a)(4). Pub. L. 110–181, §616(a)(1), substituted “at a rate determined by the Secretary concerned, which rate may not exceed the following” for “at the following rates” in introductory provisions.
 
 Subsec. (a)(4)(A). Pub. L. 110–181, §616(a)(2), substituted “$10,000” for “$4,000”.
 
 Subsec. (a)(4)(B). Pub. L. 110–181, §616(a)(3), substituted “$12,000” for “$6,000”.
 
-2006—Subsec. (a). Pub. L. 109–163, §625(a)(1), substituted “Board Certification, and Incentive” for “and Board Certification” in heading.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163, §625(a)(1), substituted “Board Certification, and Incentive” for “and Board Certification” in heading.
 
 Subsec. (a)(4). Pub. L. 109–364 in introductory provisions substituted “An officer who is entitled to variable special pay under paragraph (2) or (3) is also entitled to additional special pay for any 12-month period during which an agreement executed under subsection (b) is in effect with respect to the officer” for “Subject to subsection (b), an officer entitled to variable special pay under paragraph (2) or (3) also is entitled to additional special pay for any 12-month period during which the officer is not undergoing dental internship or initial residency training”.
 
@@ -118,7 +118,7 @@ Subsec. (e). Pub. L. 109–163, §687(b)(6)(B), added subsec. (e) and struck out
 
 Subsecs. (f) to (h). Pub. L. 109–163, §687(b)(6)(C), (D), redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out heading and text of former subsec. (f). Text read as follows: “A discharge in bankruptcy under title 11 shall not release a person from an obligation to reimburse the United States required under the terms of an agreement described in subsection (b) if the final decree of the discharge in bankruptcy was issued within a period of five years after the last day of a period which such person had agreed to serve on active duty. This subsection applies to a discharge in bankruptcy in any proceeding which begins after September 30, 1985.”
 
-1997—Subsec. (a)(2)(C) to (G). Pub. L. 105–85, §618(a), added subpars. (C) to (G) and struck out former subpars. (C) to (F) which read as follows:
+<b>1997</b>—Subsec. (a)(2)(C) to (G). Pub. L. 105–85, §618(a), added subpars. (C) to (G) and struck out former subpars. (C) to (F) which read as follows:
 
 “(C) $7,000 per year, if the officer has at least six but less than 10 years of creditable service.
 
@@ -138,7 +138,7 @@ Subsec. (a)(4)(B) to (D). Pub. L. 105–85, §618(c), added subpars. (B) and (C)
 
 “(D) $10,000 per year, if the officer has at least 18 or more years of creditable service.”
 
-1996—Subsec. (a). Pub. L. 104–201, §615(e)(1), inserted heading.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, §615(e)(1), inserted heading.
 
 Subsec. (a)(2). Pub. L. 104–201, §615(a)(1), substituted “$3,000” for “$1,200” in subpar. (A), “$7,000” for “$2,000” in subpar. (B), and “$7,000” for “$4,000” in subpar. (C).
 
@@ -162,9 +162,9 @@ Subsecs. (b) to (g). Pub. L. 104–201, §615(e)(2)–(7), inserted headings.
 
 Subsec. (h). Pub. L. 104–201, §615(b), added subsec. (h).
 
-1991—Pub. L. 102–25 struck out “of this section” wherever appearing, except in subsec. (g), and struck out “of this subsection” wherever appearing.
+<b>1991</b>—Pub. L. 102–25 struck out “of this section” wherever appearing, except in subsec. (g), and struck out “of this subsection” wherever appearing.
 
-1985—Pub. L. 99–145 amended section generally, substituting “Special pay: dental officers of the armed forces” for “Special pay: dentists” in section catchline and new text for former text which read as follows: “An officer of the Army or Navy in the Dental Corps, an officer of the Air Force who is designated as a dental officer, or a dental officer of the Public Health Service, who is on active duty for a period of at least one year is entitled to special pay at the following rates—
+<b>1985</b>—Pub. L. 99–145 amended section generally, substituting “Special pay: dental officers of the armed forces” for “Special pay: dentists” in section catchline and new text for former text which read as follows: “An officer of the Army or Navy in the Dental Corps, an officer of the Air Force who is designated as a dental officer, or a dental officer of the Public Health Service, who is on active duty for a period of at least one year is entitled to special pay at the following rates—
 
 &emsp;“(1) $100 a month for each month of active duty if he has not completed two years of active duty in the Dental Corps or as a dental officer;
 
@@ -174,7 +174,7 @@ Subsec. (h). Pub. L. 104–201, §615(b), added subsec. (h).
 
 &emsp;“(4) $350 a month for each month of active duty if he has completed at least ten years of active duty in the Dental Corps or as a dental officer.”
 
-1980—Pub. L. 96–284 struck out “, in addition to any other pay or allowances to which he is entitled,” after “entitled” and last sentence containing prohibition against inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay.
+<b>1980</b>—Pub. L. 96–284 struck out “, in addition to any other pay or allowances to which he is entitled,” after “entitled” and last sentence containing prohibition against inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay.
 
 #### Effective Date of 2008 Amendment
 

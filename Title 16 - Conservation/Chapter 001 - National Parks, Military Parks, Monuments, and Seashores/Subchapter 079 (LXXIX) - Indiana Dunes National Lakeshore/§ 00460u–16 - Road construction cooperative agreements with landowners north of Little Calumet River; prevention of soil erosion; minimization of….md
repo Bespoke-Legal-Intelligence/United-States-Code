@@ -6,7 +6,7 @@ The Secretary shall enter into a cooperative agreement with the landowner of tho
 
 #### Amendments
 
-1986—Pub. L. 99–583 inserted provisions relating to the map referred to in section 460u–3 of this title.
+<b>1986</b>—Pub. L. 99–583 inserted provisions relating to the map referred to in section 460u–3 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “September 1976, and numbered 626–91007.”</i>
 

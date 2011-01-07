@@ -10,9 +10,9 @@ Prior to the 1968 amendment of section 20 of act July 22, 1954, this section con
 
 #### Amendments
 
-1968—Pub. L. 90–496 substituted provisions that the salaries and travel allowances of all officials connected with the executive and legislative departments of the government of the Virgin Islands be paid by the government of the Virgin Islands at rates prescribed by the laws of the Virgin Islands for provisions that the salaries of the Governor, the Government Secretary, the government comptroller, and their immediate staffs be paid by the United States, and provisions that the salaries of the heads of the executive departments be paid by the government of the Virgin Islands, such salaries to be paid without the necessity of further appropriations therefor, if the legislature fails to make an appropriation for such salaries.
+<b>1968</b>—Pub. L. 90–496 substituted provisions that the salaries and travel allowances of all officials connected with the executive and legislative departments of the government of the Virgin Islands be paid by the government of the Virgin Islands at rates prescribed by the laws of the Virgin Islands for provisions that the salaries of the Governor, the Government Secretary, the government comptroller, and their immediate staffs be paid by the United States, and provisions that the salaries of the heads of the executive departments be paid by the government of the Virgin Islands, such salaries to be paid without the necessity of further appropriations therefor, if the legislature fails to make an appropriation for such salaries.
 
-1958—Pub. L. 85–851 provided for the payment of the salary of the government comptroller by the United States instead of by the government of the Virgin Islands.
+<b>1958</b>—Pub. L. 85–851 provided for the payment of the salary of the government comptroller by the United States instead of by the government of the Virgin Islands.
 
 #### Effective Date of 1968 Amendment
 

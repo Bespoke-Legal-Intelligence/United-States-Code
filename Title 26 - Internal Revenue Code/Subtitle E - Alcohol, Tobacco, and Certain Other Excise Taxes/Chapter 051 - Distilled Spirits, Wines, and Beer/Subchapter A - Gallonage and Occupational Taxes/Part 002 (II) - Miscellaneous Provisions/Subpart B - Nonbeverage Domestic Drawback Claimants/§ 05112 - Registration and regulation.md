@@ -2,7 +2,7 @@
 
 Every person claiming drawback under this subpart shall register annually with the Secretary; keep such books and records as may be necessary to establish the fact that distilled spirits received by him and on which the tax has been determined were used in the manufacture or production of medicines, medicinal preparations, food products, flavors, flavoring extracts, or perfume, which were unfit for use for beverage purposes; and be subject to such rules and regulations in relation thereto as the Secretary shall prescribe to secure the Treasury against frauds.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1345, §5132; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841; renumbered §5112, Pub. L. 109–59, title XI, §11125(b)(3)(A), Aug. 10, 2005, 119 Stat. 1953.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1345, §5132; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834;Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841; renumbered §5112, Pub. L. 109–59, title XI, §11125(b)(3)(A), Aug. 10, 2005, 119 Stat. 1953.)
 
 #### Prior Provisions
 
@@ -12,11 +12,11 @@ Another prior section 5112, act Aug. 16, 1954, ch. 736, 68A Stat. 618, contained
 
 #### Amendments
 
-2005—Pub. L. 109–59 renumbered section 5132 of this title as this section.
+<b>2005</b>—Pub. L. 109–59 renumbered section 5132 of this title as this section.
 
-1994—Pub. L. 103–465 substituted “flavoring extracts, or perfume” for “or flavoring extracts”.
+<b>1994</b>—Pub. L. 103–465 substituted “flavoring extracts, or perfume” for “or flavoring extracts”.
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 1994 Amendment
 

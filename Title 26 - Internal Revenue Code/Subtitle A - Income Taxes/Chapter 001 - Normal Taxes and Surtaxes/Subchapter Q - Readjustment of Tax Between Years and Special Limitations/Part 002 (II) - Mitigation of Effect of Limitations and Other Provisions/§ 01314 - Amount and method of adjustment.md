@@ -2,7 +2,7 @@
 
 #### (a) Ascertainment of amount of adjustment
 
-In computing the amount of an adjustment under this part there shall first be ascertainedthe tax previously determined for the taxable year with respect to which the error was made. The amount of the tax previously determined shall be the excess of—
+In computing the amount of an adjustment under this part there shall first be ascertained the tax previously determined for the taxable year with respect to which the error was made. The amount of the tax previously determined shall be the excess of—
 
 &emsp;(1) the sum of—
 
@@ -34,15 +34,15 @@ This part shall not apply to any tax imposed by subtitle C (sec. 3101 and follow
 
 #### Amendments
 
-1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1969—Subsec. (a). Pub. L. 91–172, §512(f)(7), substituted “capital loss carryback or carryover” for “capital loss carryover”.
+<b>1969</b>—Subsec. (a). Pub. L. 91–172, §512(f)(7), substituted “capital loss carryback or carryover” for “capital loss carryover”.
 
 Subsec. (b). Pub. L. 91–172, §512(f)(8), inserted reference to net capital loss.
 
-1965—Subsec. (a)(1)(A). Pub. L. 89–44 struck out “(b)(1) and (3)” and inserted in lieu thereof “(b)(1), (3), and (4)”.
+<b>1965</b>—Subsec. (a)(1)(A). Pub. L. 89–44 struck out “(b)(1) and (3)” and inserted in lieu thereof “(b)(1), (3), and (4)”.
 
-1958—Subsec. (c). Pub. L. 85–866 substituted in second sentence “The” for “Other than in the case of an adjustment resulting from a determination under section 1313(a)(4), the”.
+<b>1958</b>—Subsec. (c). Pub. L. 85–866 substituted in second sentence “The” for “Other than in the case of an adjustment resulting from a determination under section 1313(a)(4), the”.
 
 #### Effective Date of 1969 Amendment
 

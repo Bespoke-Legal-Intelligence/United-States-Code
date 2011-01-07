@@ -26,13 +26,13 @@ The chief executive officer of a State desiring to receive a grant under this su
 
 #### Amendments
 
-1996—Subsec. (b)(1)(A). Pub. L. 104–193, §604(1)(A), substituted “governmental or nongovernmental agencies” for “State agencies”.
+<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–193, §604(1)(A), substituted “governmental or nongovernmental agencies” for “State agencies”.
 
 Subsec. (b)(1)(C). Pub. L. 104–193, §604(1)(B), inserted “with sufficient time and Statewide distribution of the notice of such hearing,” after “hearing in the State”.
 
 Subsec. (b)(2). Pub. L. 104–193, §604(2), struck out at end “Such consultations may include consideration of local child care needs and resources, the effectiveness of existing child care and early childhood development services, and the methods by which funds made available under this subchapter can be used to effectively address local shortages.”
 
-1992—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
+<b>1992</b>—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
 
 #### Effective Date of 1996 Amendment
 

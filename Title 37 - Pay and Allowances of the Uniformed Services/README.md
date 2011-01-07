@@ -1,5 +1,5 @@
 
-37 U.S.C.<br>United States Code, 2009 Edition<br>Title 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES<br>From the U.S. Government Publishing Office, www.gpo.gov
+37 U.S.C.<br>United States Code, 2010 Edition<br>Title 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 37—PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
 
@@ -23,7 +23,7 @@
 
 #### Amendments
 
-1966—Pub. L. 89–554, §5(a), Sept. 6, 1966, 80 Stat. 625, inserted item for chapter 10.
+<b>1966</b>—Pub. L. 89–554, §5(a), Sept. 6, 1966, 80 Stat. 625, inserted item for chapter 10.
 
 Table Showing Disposition of All Sections of Former Title 37
 

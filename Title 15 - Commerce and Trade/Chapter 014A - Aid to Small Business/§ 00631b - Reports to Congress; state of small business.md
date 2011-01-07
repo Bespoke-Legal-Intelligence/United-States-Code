@@ -16,7 +16,7 @@ The President shall transmit to the Congress not later than January 20 of each y
 
 #### (b) Appendix to report
 
-The President also shall transmit simultaneously as an appendix to such annual report, areport, by agency and department, on the total dollar value of all Federal contracts exceeding $10,000 in amount and the dollar amount (including the subcontracts thereunder in excess of $10,000) awarded to small, minority-owned, female-owned, and veteran-owned businesses.
+The President also shall transmit simultaneously as an appendix to such annual report, a report, by agency and department, on the total dollar value of all Federal contracts exceeding $10,000 in amount and the dollar amount (including the subcontracts thereunder in excess of $10,000) awarded to small, minority-owned, female-owned, and veteran-owned businesses.
 
 #### (c) Supplementary reports
 
@@ -56,19 +56,19 @@ Section was enacted as part of the Small Business Economic Policy Act of 1980, a
 
 #### Amendments
 
-1999—Subsec. (e)(1). Pub. L. 106–50, §602(1), which directed amendment of par. (1) by striking “and” after the semicolon, could not be executed because the word “and” did not appear after the semicolon.
+<b>1999</b>—Subsec. (e)(1). Pub. L. 106–50, §602(1), which directed amendment of par. (1) by striking “and” after the semicolon, could not be executed because the word “and” did not appear after the semicolon.
 
 Subsec. (e)(2). Pub. L. 106–50, §602(2), which directed amendment of par. (2) by substituting “; and” for the period, could not be executed because par. (2) did not contain a period.
 
 Subsec. (e)(3). Pub. L. 106–50, §602(3), added par. (3) relating to small business concerns owned and controlled by veterans.
 
-1997—Subsec. (b). Pub. L. 105–135, §705, substituted “, female-owned, and veteran-owned businesses” for “and female-owned businesses”.
+<b>1997</b>—Subsec. (b). Pub. L. 105–135, §705, substituted “, female-owned, and veteran-owned businesses” for “and female-owned businesses”.
 
 Subsec. (e)(3). Pub. L. 105–135, §604(c), added par. (3).
 
-1990—Subsec. (a)(2). Pub. L. 101–574 added par. (2) and struck out former par. (2) which read as follows: “present current and historical data on production, employment, investment, and other economic variables for small business in the economy as a whole and for small business in each sector of the economy;”.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–574 added par. (2) and struck out former par. (2) which read as follows: “present current and historical data on production, employment, investment, and other economic variables for small business in the economy as a whole and for small business in each sector of the economy;”.
 
-1988—Subsec. (e). Pub. L. 100–533 and Pub. L. 100–590 added subsecs. (e) which were identical, except that the subsec. (e) added by Pub. L. 100–533, which is set out as text of this section, contained the phrase “, by gender,” in par. (1).
+<b>1988</b>—Subsec. (e). Pub. L. 100–533 and Pub. L. 100–590 added subsecs. (e) which were identical, except that the subsec. (e) added by Pub. L. 100–533, which is set out as text of this section, contained the phrase “, by gender,” in par. (1).
 
 #### Change of Name
 

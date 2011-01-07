@@ -48,11 +48,11 @@
 
 #### (1) Choice of penalties
 
-&emsp;For any violation by a person of a regulation promulgated under subsection (a) of this section, the Secretary shall pursue either civil penalties under subsection (b) of this sectionor contract penalties under subsection (c) of this section, but not both.
+&emsp;For any violation by a person of a regulation promulgated under subsection (a) of this section, the Secretary shall pursue either civil penalties under subsection (b) of this section or contract penalties under subsection (c) of this section, but not both.
 
 #### (2) Maximum amount
 
-&emsp;In the case of an entity described in subsection (d) of section 2282a of this title, the total amount of civil penalties under subsection (b) of this section and contract penalties under subsection (c) of this section in a fiscal year may not exceed the total amount of fees paid by the Department of Energy to that entity in that fiscal year.
+&emsp;In the case of an entity described in subsection (d) of section 2282a of this title, thetotal amount of civil penalties under subsection (b) of this section and contract penalties under subsection (c) of this section in a fiscal year may not exceed the total amount of fees paid by the Department of Energy to that entity in that fiscal year.
 
 #### (3) Coordination with section 2282a of this title
 

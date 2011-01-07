@@ -16,25 +16,31 @@ For purposes of this subchapter, debt obligations of—
 
 &emsp;(2) the United States, a State or any political subdivision thereof, or the District of Columbia,
 
-> owned and held by a nonresident not a citizen of the United States shall be deemed property within the United States. With respect to estates of decedents dying after December 31, 1969, deposits with a domestic branch of a foreign corporation, if such branch is engaged in the commercial banking business, shall, for purposes of this subchapter, be deemed property within the United States. This subsection shall not apply to a debt obligation to which section 2105(b) applies or to a debt obligation of a domestic corporation if any interest on such obligation, were such interest received by the decedent at the time of his death, would be treated by reason of section 861(a)(1)(A) as income from sources without the United States.
+> owned and held by a nonresident not a citizen of the United States shall be deemed property within the United States. With respect to estates of decedents dying after December 31, 1969, deposits with a domestic branch of a foreign corporation, if such branch is engaged in the commercial banking business, shall, for purposes of this subchapter, be deemed property within the United States. This subsection shall not apply to a debt obligation to which section 2105(b) applies.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 397; Pub. L. 89–809, title I, §108(c), Nov. 13, 1966, 80 Stat. 1572; Pub. L. 91–172, title IV, §435(b), Dec. 30, 1969, 83 Stat. 625; Pub. L. 93–17, §3(a)(1), Apr. 10, 1973, 87 Stat. 12; Pub. L. 93–625, §9(b), Jan. 3, 1975, 88 Stat. 2116; Pub. L. 94–455, title XX, §2001(c)(1)(L), Oct. 4, 1976, 90 Stat. 1853; Pub. L. 100–647, title I, §1012(q)(11), Nov. 10, 1988, 102 Stat. 3525; Pub. L. 104–188, title I, §1704(t)(38), Aug. 20, 1996, 110 Stat. 1889.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 397; Pub. L. 89–809, title I, §108(c), Nov. 13, 1966, 80 Stat. 1572; Pub. L. 91–172, title IV, §435(b), Dec. 30, 1969, 83 Stat. 625; Pub. L. 93–17, §3(a)(1), Apr. 10, 1973, 87 Stat. 12; Pub. L. 93–625, §9(b), Jan. 3, 1975, 88 Stat. 2116; Pub. L. 94–455, title XX, §2001(c)(1)(L), Oct. 4, 1976, 90 Stat. 1853; Pub. L. 100–647, title I, §1012(q)(11), Nov. 10, 1988, 102 Stat. 3525; Pub. L. 104–188, title I, §1704(t)(38), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 111–226, title II, §217(c)(3), Aug. 10, 2010, 124 Stat. 2402.)
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–188 substituted “section 861(a)(1)(A)” for “subparagraph (A), (C), or (D) of section 861(a)(1)” in concluding provisions.
+<b>2010</b>—Subsec. (c). Pub. L. 111–226, in concluding provisions, struck out before period at end “or to a debt obligation of a domestic corporation if any interest on such obligation, were such interest received by the decedent at the time of his death, would be treated by reason of section 861(a)(1)(A) as income from sources without the United States”.
 
-1988—Subsec. (c). Pub. L. 100–647 substituted “subparagraph (A), (C), or (D) of section 861(a)(1)” for “section 861(a)(1)(B), section 861(a)(1)(G), or section 861(a)(1)(H)”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–188 substituted “section 861(a)(1)(A)” for “subparagraph (A), (C), or (D) of section 861(a)(1)” in concluding provisions.
 
-1976—Subsec. (b). Pub. L. 94–455 substituted “and transfers within 3 years of death” for “and transfers in contemplation of death” after “Revocable transfers”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–647 substituted “subparagraph (A), (C), or (D) of section 861(a)(1)” for “section 861(a)(1)(B), section 861(a)(1)(G), or section 861(a)(1)(H)”.
 
-1975—Subsec. (c). Pub. L. 93–625 inserted reference to section 861(a)(1)(H) of this title in last sentence.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 substituted “and transfers within 3 years of death” for “and transfers in contemplation of death” after “Revocable transfers”.
 
-1973—Subsec. (c). Pub. L. 93–17 made subsec. (c) inapplicable to debt obligations where interest on such obligations is treated as income from sources without the United States by reason of section 861(a)(1)(G) of this title.
+<b>1975</b>—Subsec. (c). Pub. L. 93–625 inserted reference to section 861(a)(1)(H) of this title in last sentence.
 
-1969—Subsec. (c). Pub. L. 91–172 substituted “December 31, 1969” for “December 31, 1972” in provisions deeming deposit with a domestic branch of a foreign corporation if such branch is engaged in the commercial banking business to be property within the United States.
+<b>1973</b>—Subsec. (c). Pub. L. 93–17 made subsec. (c) inapplicable to debt obligations where interest on such obligations is treated as income from sources without the United States by reason of section 861(a)(1)(G) of this title.
 
-1966—Subsec. (c). Pub. L. 89–809 added subsec. (c).
+<b>1969</b>—Subsec. (c). Pub. L. 91–172 substituted “December 31, 1969” for “December 31, 1972” in provisions deeming deposit with a domestic branch of a foreign corporation if such branch is engaged in the commercial banking business to be property within the United States.
+
+<b>1966</b>—Subsec. (c). Pub. L. 89–809 added subsec. (c).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–226 applicable to taxable years beginning after Dec. 31, 2010, with certain exceptions, see section 217(d) of Pub. L. 111–226, set out as a note under section 861 of this title.
 
 #### Effective Date of 1988 Amendment
 

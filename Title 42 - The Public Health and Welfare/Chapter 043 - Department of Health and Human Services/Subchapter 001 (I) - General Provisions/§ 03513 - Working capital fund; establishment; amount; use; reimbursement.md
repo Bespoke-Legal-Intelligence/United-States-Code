@@ -12,7 +12,7 @@ Section was formerly classified to section 905 of this title.
 
 #### Amendments
 
-1960—Pub. L. 86–703 made fund available for maintenance and operation of a central visual exhibit service, telephone, mail and messenger services, a central accounting and payroll service, and a central laborers’ service.
+<b>1960</b>—Pub. L. 86–703 made fund available for maintenance and operation of a central visual exhibit service, telephone, mail and messenger services, a central accounting and payroll service, and a central laborers’ service.
 
 #### Transfer of Functions
 

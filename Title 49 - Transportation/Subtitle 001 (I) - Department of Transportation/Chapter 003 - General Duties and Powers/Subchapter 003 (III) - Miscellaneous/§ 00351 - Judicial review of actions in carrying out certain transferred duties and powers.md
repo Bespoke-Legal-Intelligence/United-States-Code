@@ -40,7 +40,7 @@ The Department of Transportation Act, referred to in subsecs. (a) and (b), is Pu
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–59 substituted “Federal Motor Carrier Safety Administration” for “Federal Highway Administration”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59 substituted “Federal Motor Carrier Safety Administration” for “Federal Highway Administration”.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

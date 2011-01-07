@@ -32,9 +32,9 @@ The purposes of this chapter are—
 
 #### Amendments
 
-2000—Pub. L. 106–569 amended section catchline and text generally. Prior to amendment, text read as follows: “The Congress declares that the purposes of this chapter are to reduce the number of personal injuries and deaths and the amount of insurance costs and property damage resulting from manufactured home accidents and to improve the quality and durability of manufactured homes. Therefore, the Congress determines that it is necessary to establish Federal construction and safety standards for manufactured homes and to authorize manufactured home safety research and development.”
+<b>2000</b>—Pub. L. 106–569 amended section catchline and text generally. Prior to amendment, text read as follows: “The Congress declares that the purposes of this chapter are to reduce the number of personal injuries and deaths and the amount of insurance costs and property damage resulting from manufactured home accidents and to improve the quality and durability of manufactured homes. Therefore, the Congress determines that it is necessary to establish Federal construction and safety standards for manufactured homes and to authorize manufactured home safety research and development.”
 
-1980—Pub. L. 96–399 substituted “manufactured home” for “mobile home” wherever appearing.
+<b>1980</b>—Pub. L. 96–399 substituted “manufactured home” for “mobile home” wherever appearing.
 
 #### Effective Date of 2000 Amendment
 

@@ -14,13 +14,13 @@ The Emergency Community Facilities Act of 1970, referred to in subsec. (a), is P
 
 #### Amendments
 
-1973—Subsec. (a). Pub. L. 93–117, §8(a), provided for neighborhood facility grant authorization of $40,000,000 for fiscal year commencing July 1, 1973.
+<b>1973</b>—Subsec. (a). Pub. L. 93–117, §8(a), provided for neighborhood facility grant authorization of $40,000,000 for fiscal year commencing July 1, 1973.
 
 Subsec. (b). Pub. L. 93–117, §8(b), substituted “July 1, 1974” for “September 30, 1972”.
 
-1972—Subsec. (b). Pub. L. 92–335 substituted “September 30, 1972” for “July 1, 1972”.
+<b>1972</b>—Subsec. (b). Pub. L. 92–335 substituted “September 30, 1972” for “July 1, 1972”.
 
-1970—Subsec. (a). Pub. L. 91–609, §304(a), authorized appropriation of $50,000,000 for fiscal year commencing July 1, 1971, for grants under section 3103 of this title.
+<b>1970</b>—Subsec. (a). Pub. L. 91–609, §304(a), authorized appropriation of $50,000,000 for fiscal year commencing July 1, 1971, for grants under section 3103 of this title.
 
 Pub. L. 91–431, §3(a), authorized appropriations for grants under section 3102 of this title of not to exceed $1,000,000,000 for fiscal year commencing July 1, 1970.
 
@@ -28,11 +28,11 @@ Subsec. (b). Pub. L. 91–609, §304(b), substituted “July 1, 1972” for “J
 
 Pub. L. 91–431, §3(b), substituted “July 1, 1972” for “July 1, 1971”.
 
-1969—Subsec. (a). Pub. L. 91–152, §305(c), authorized appropriations of not more than $100,000,000 for fiscal year commencing July 1, 1970.
+<b>1969</b>—Subsec. (a). Pub. L. 91–152, §305(c), authorized appropriations of not more than $100,000,000 for fiscal year commencing July 1, 1970.
 
 Subsec. (b). Pub. L. 91–152, §305(b), substituted “July 1, 1971” for “July 1, 1970”.
 
-1968—Subsec. (a). Pub. L. 90–448, §605(b), authorized appropriations of not more than $350,000,000 for fiscal year commencing July 1, 1968, and not more than $115,000,000 for fiscal year commencing July 1, 1969.
+<b>1968</b>—Subsec. (a). Pub. L. 90–448, §605(b), authorized appropriations of not more than $350,000,000 for fiscal year commencing July 1, 1968, and not more than $115,000,000 for fiscal year commencing July 1, 1969.
 
 Subsec. (b). Pub. L. 90–448, §605(a), substituted “July 1, 1970” for “July 1, 1969”.
 

@@ -30,7 +30,7 @@ Pub. L. 95–457, title VIII, §863, Oct. 13, 1978, 92 Stat. 1254.
 
 #### Amendments
 
-1996—Pub. L. 104–106, §738(b)(1), amended section catchline generally, substituting “Performance of abortions: restrictions” for “Restrictions on use of funds for abortions”.
+<b>1996</b>—Pub. L. 104–106, §738(b)(1), amended section catchline generally, substituting “Performance of abortions: restrictions” for “Restrictions on use of funds for abortions”.
 
 Pub. L. 104–106, §738(a), designated existing provisions as subsec. (a), inserted subsec. heading, and added subsec. (b).
 

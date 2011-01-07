@@ -2,7 +2,7 @@
 
 #### (a) Regional districts; establishment; notice to State commissions
 
-For the purpose of assuring an abundant supply of electric energy throughout the United States with the greatest possible economy and with regard to the proper utilization and conservation of natural resources, the Commission is empowered and directed to divide the country into regional districts for the voluntary interconnection and coordination of facilities for the generation, transmission, and sale of electric energy, and it may at any time thereafter, upon its own motion or upon application, make such modifications thereof as in its judgment will promote the public interest. Each such district shall embrace an area which, in the judgment of the Commission, can economically be served by such interconnection and coordinated electric facilities. It shall be the duty of the Commission to promote and encourage such interconnection and coordination within each such district and between such districts. Before establishing any such district and fixing or modifying the boundaries thereof the Commission shall give notice to the State commission of each State situated wholly or in part within such district, and shall afford each such State commission reasonable opportunity to present its views and recommendations, and shall receive and consider such views and recommendations.
+For the purpose of assuring an abundant supply of electric energy throughout the United States with the greatest possible economy and with regard to the proper utilization and conservation of natural resources, the Commission is empowered and directed to divide the country into regional districts for the voluntary interconnection and coordination of facilities for the generation, transmission, and sale of electric energy, and it may at any time thereafter, upon its own motion or upon application, make such modifications thereof as in its judgment will promote the public interest. Each such district shall embrace an area which, in the judgment of the Commission, can economically be served by such interconnection and coordinated electric facilities. It shall be the duty of the Commission to promote and encourage such interconnection and coordination within each such district andbetween such districts. Before establishing any such district and fixing or modifying the boundaries thereof the Commission shall give notice to the State commission of each State situated wholly or in part within such district, and shall afford each such State commission reasonable opportunity to present its views and recommendations, and shall receive and consider such views and recommendations.
 
 #### (b) Sale or exchange of energy; establishing physical connections
 
@@ -14,7 +14,7 @@ During the continuance of any war in which the United States is engaged, or when
 
 #### (d) Temporary connection during emergency by persons without jurisdiction of Commission
 
-During the continuance of any emergency requiring immediate action, any person engaged in the transmission or sale of electric energy and not otherwise subject to the jurisdiction ofthe Commission may make such temporary connections with any public utility subject to the jurisdiction of the Commission or may construct such temporary facilities for the transmission of electric energy in interstate commerce as may be necessary or appropriate to meet such emergency, and shall not become subject to the jurisdiction of the Commission by reason of such temporary connection or temporary construction: <i>Provided</i>, That such temporary connection shall be discontinued or such temporary construction removed or otherwise disposed of upon the termination of such emergency: <i>Provided further</i>, That upon approval of the Commission permanent connections for emergency use only may be made hereunder.
+During the continuance of any emergency requiring immediate action, any person engaged in the transmission or sale of electric energy and not otherwise subject to the jurisdiction of the Commission may make such temporary connections with any public utility subject to the jurisdiction of the Commission or may construct such temporary facilities for the transmission of electric energy in interstate commerce as may be necessary or appropriate to meet such emergency, and shall not become subject to the jurisdiction of the Commission by reason of such temporary connection or temporary construction: <i>Provided</i>, That such temporary connection shall be discontinued or such temporary construction removed or otherwise disposed of upon the termination of such emergency: <i>Provided further</i>, That upon approval of the Commission permanent connections for emergency use only may be made hereunder.
 
 #### (e) Transmission of electric energy to foreign country
 
@@ -46,9 +46,9 @@ In order to insure continuity of service to customers of public utilities, the C
 
 #### Amendments
 
-1978—Subsec. (g). Pub. L. 95–617 added subsec. (g).
+<b>1978</b>—Subsec. (g). Pub. L. 95–617 added subsec. (g).
 
-1953—Subsec. (f). Act Aug. 7, 1953, added subsec. (f).
+<b>1953</b>—Subsec. (f). Act Aug. 7, 1953, added subsec. (f).
 
 #### Effective Date of 1978 Amendment
 

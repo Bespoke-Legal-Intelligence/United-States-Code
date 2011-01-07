@@ -4,7 +4,7 @@
 
 (b) The Secretary shall approve any plan which fulfills the conditions specified in subsection (a) of this section, except that he shall not approve any plan which imposes, as a condition of eligibility for aid to the blind under the plan—
 
-&emsp;(1) Any residence requirement which excludes any resident of the State who has resided therein five years during the nine years immediately preceding the application for aid and has resided therein continuously for oneyear immediately preceding the application; or
+&emsp;(1) Any residence requirement which excludes any resident of the State who has resided therein five years during the nine years immediately preceding the application for aid and has resided therein continuously for one year immediately preceding the application; or
 
 &emsp;(2) Any citizenship requirement which excludes any citizen of the United States.
 
@@ -22,11 +22,11 @@ Part A of subchapter IV of this chapter, referred to in subsec. (a)(7), is class
 
 #### Amendments
 
-1996—Subsec. (a)(7). Pub. L. 104–193 substituted “assistance under a State program funded under part A of subchapter IV of this chapter” for “aid to families with dependent children under the State plan approved under section 602 of this title”.
+<b>1996</b>—Subsec. (a)(7). Pub. L. 104–193 substituted “assistance under a State program funded under part A of subchapter IV of this chapter” for “aid to families with dependent children under the State plan approved under section 602 of this title”.
 
-1984—Subsec. (a)(14). Pub. L. 98–369 added cl. (14).
+<b>1984</b>—Subsec. (a)(14). Pub. L. 98–369 added cl. (14).
 
-1972—Subsec. (a)(1). Pub. L. 92–603, §410(b), inserted “except to the extent permitted by the Secretary with respect to services,” before “provide”.
+<b>1972</b>—Subsec. (a)(1). Pub. L. 92–603, §410(b), inserted “except to the extent permitted by the Secretary with respect to services,” before “provide”.
 
 Subsec. (a)(4). Pub. L. 92–603, §407(b), designated existing provisions as subcl. (A) and added subcl. (B).
 
@@ -36,27 +36,27 @@ Subsec. (a)(13). Pub. L. 92–603, §405(b), inserted provision relating to the 
 
 Subsec. (b). Pub. L. 92–603, §406(b), inserted provision relating to the furnishing of manuals and other policy issuances to persons without charge and at the option of the State.
 
-1968—Subsec. (a)(5). Pub. L. 90–248, §210(a)(3), designated existing provisions as subcl. (A) and added subcl. (B).
+<b>1968</b>—Subsec. (a)(5). Pub. L. 90–248, §210(a)(3), designated existing provisions as subcl. (A) and added subcl. (B).
 
 Subsec. (a)(8)(C). Pub. L. 90–248, §213(a)(2), increased from $5 to $7.50 limitation on amount of any income which the State may disregard in making its determination of need.
 
-1965—Subsec. (a)(8)(C). Pub. L. 89–97 added subcl. (C).
+<b>1965</b>—Subsec. (a)(8)(C). Pub. L. 89–97 added subcl. (C).
 
-1964—Subsec. (a)(8). Pub. L. 88–650 permitted the State agency, for a period not in excess of thirty-six months to disregard such additional amounts of other income and resources.
+<b>1964</b>—Subsec. (a)(8). Pub. L. 88–650 permitted the State agency, for a period not in excess of thirty-six months to disregard such additional amounts of other income and resources.
 
-1962—Subsec. (a)(7). Pub. L. 87–543, §104(a)(3)(H), substituted “aid to families with dependent children” for “aid to dependent children”.
+<b>1962</b>—Subsec. (a)(7). Pub. L. 87–543, §104(a)(3)(H), substituted “aid to families with dependent children” for “aid to dependent children”.
 
 Subsec. (a)(8). Pub. L. 87–543, §§106(a)(2), 154, inserted “, as well as any expenses reasonably attributable to the earning of any such income”, and amended the exception provision by striking out “either (i) the first $50 per month of earned income, or” after “disregard”, redesignating subcl. (ii) as (A) and adding subcl. (B).
 
 Subsec. (b). Pub. L. 87–543, §136(a), provided for approval of certain plans of States, without an approved plan on Jan. 1, 1949, meeting all but income and resources requirements, and payment of certain expenditures under such plans.
 
-1960—Subsec. (a)(8). Pub. L. 86–778, §710(b), struck out provision that required the State agency to disregard, alternatively, the first $50 per month of earned income in considering claimant's income and resources in determining need.
+<b>1960</b>—Subsec. (a)(8). Pub. L. 86–778, §710(b), struck out provision that required the State agency to disregard, alternatively, the first $50 per month of earned income in considering claimant's income and resources in determining need.
 
 Pub. L. 86–778, §710(a), inserted provision that required the State agency to disregard, alternatively, the first $85 per month of earned income plus one-half of earned income in excess of $85 per month in considering claimant's income and resources in determining need.
 
-1956—Subsec. (a)(13). Act Aug. 1, 1956, added cl. (13).
+<b>1956</b>—Subsec. (a)(13). Act Aug. 1, 1956, added cl. (13).
 
-1950—Subsec. (a)(4). Act Aug. 28, 1950, §341(a), substituted “provide for granting an opportunity for a fair hearing before the State agency to any individual whose claim for aid to the blind is denied or is not acted upon with reasonable promptness” for “provide for granting to any individual, whose claim for aid is denied, an opportunity for a fair hearing before such State agency”.
+<b>1950</b>—Subsec. (a)(4). Act Aug. 28, 1950, §341(a), substituted “provide for granting an opportunity for a fair hearing before the State agency to any individual whose claim for aid to the blind is denied or is not acted upon with reasonable promptness” for “provide for granting to any individual, whose claim for aid is denied, an opportunity for a fair hearing before such State agency”.
 
 Subsec. (a)(7). Act Aug. 28, 1950, §341(b), inserted “or aid to dependent children under the State plan approved under section 302 of this title”.
 
@@ -74,7 +74,7 @@ Subsec. (a)(11), (12). Act Aug. 28, 1950, §341(d), added cls. (11) and (12).
 
 Subsec. (b). Act Aug. 28, 1950, §361(c), (d), substituted “Administrator” for “Board” and “he” for “it”.
 
-1939—Subsec. (a)(5). Act Aug. 10, 1939, §701(a), inserted “(including after January 1, 1940, methods relating to the establishment and maintenance of personnel standards on a merit basis, except that the Board shall exercise no authority with respect)” after “methods of administration” and “proper” before “and efficient operation of the plan”.
+<b>1939</b>—Subsec. (a)(5). Act Aug. 10, 1939, §701(a), inserted “(including after January 1, 1940, methods relating to the establishment and maintenance of personnel standards on a merit basis, except that the Board shall exercise no authority with respect)” after “methods of administration” and “proper” before “and efficient operation of the plan”.
 
 Subsec. (a)(8), (9). Act Aug. 10, 1939, §701(b), added cls. (8) and (9).
 
@@ -102,7 +102,7 @@ Section 154 of Pub. L. 87–543 provided that the amendment made by that section
 
 #### Effective Date of 1960 Amendment
 
-Section 710(a) of Pub. L. 86–778 provided that the amendment made by that section is effective for the period beginning with first day of calendar quarter which begins after Sept. 13, 1960, and ending with close of June 30, 1962.
+Section 710(a) of Pub. L. 86–778 provided that the amendment made by that section is effective for theperiod beginning with first day of calendar quarter which begins after Sept. 13, 1960, and ending with close of June 30, 1962.
 
 Section 710(b) of Pub. L. 86–778 provided that the amendment made by that section is effective July 1, 1962.
 

@@ -28,7 +28,7 @@
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–183, §104(c)(1), struck out comma after “or decisions” in introductory provisions.
+<b>2003</b>—Subsec. (a). Pub. L. 108–183, §104(c)(1), struck out comma after “or decisions” in introductory provisions.
 
 Pub. L. 108–183, §104(a), struck out “for a period not to exceed two years” after “unpaid” in introductory provisions.
 
@@ -36,11 +36,11 @@ Subsec. (a)(1) to (4). Pub. L. 108–183, §104(c)(2), substituted period for se
 
 Subsec. (a)(5), (6). Pub. L. 108–183, §104(b), added par. (5) and redesignated former par. (5) as (6).
 
-2001—Subsec. (a). Pub. L. 107–14 substituted “hereinafter” for “hereafter” in introductory provisions.
+<b>2001</b>—Subsec. (a). Pub. L. 107–14 substituted “hereinafter” for “hereafter” in introductory provisions.
 
-1996—Subsec. (a). Pub. L. 104–275 substituted “two years” for “one year” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–275 substituted “two years” for “one year” in introductory provisions.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 3021 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 3021 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in par. (1).
 
@@ -50,15 +50,15 @@ Pub. L. 102–40, §402(d)(1), substituted “5122” for “3022” in introduc
 
 Subsec. (c). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1986—Subsec. (a). Pub. L. 99–576, §701(66)(A), struck out “his” after “entitled at”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–576, §701(66)(A), struck out “his” after “entitled at”.
 
 Subsec. (a)(2)(A) to (C). Pub. L. 99–576, §701(66)(B), substituted “The veteran's” for “His”.
 
-1983—Subsec. (a)(3). Pub. L. 98–160 substituted “surviving spouse” for “widow” in two places.
+<b>1983</b>—Subsec. (a)(3). Pub. L. 98–160 substituted “surviving spouse” for “widow” in two places.
 
-1982—Subsec. (a). Pub. L. 97–258 substituted “sections 3329 and 3330 of title 31” for “sections 123–128 of title 31”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–258 substituted “sections 3329 and 3330 of title 31” for “sections 123–128 of title 31”.
 
-1972—Subsec. (a). Pub. L. 92–328 struck out reference to section 3203(a)(2)(A) of this title.
+<b>1972</b>—Subsec. (a). Pub. L. 92–328 struck out reference to section 3203(a)(2)(A) of this title.
 
 #### Effective Date of 2003 Amendment
 

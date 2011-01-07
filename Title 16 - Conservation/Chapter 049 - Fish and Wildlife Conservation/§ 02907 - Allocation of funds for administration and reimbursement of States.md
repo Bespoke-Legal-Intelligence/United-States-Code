@@ -20,7 +20,7 @@ Of the total amount appropriated for any fiscal year pursuant to section 2910 of
 
 &emsp;&emsp;(A) one-third of which is based on the ratio to which the area of such State bears to the total area of all such States, and
 
-&emsp;&emsp;(B) two-thirds of which is based on the ratio to which the population of such State bears to the total population of all such States.
+&emsp;&emsp;(B) two-thirds of which is based on the ratio to which the population of such State bears to the total population of all such States,
 
 > except all sums allocated under this paragraph shall be adjusted equitably so that no State shall be allocated a sum which is less than one-half of 1 percent of the amount available for allocation under this paragraph for any fiscal year or more than 5 percent of such amount.
 

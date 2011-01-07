@@ -38,7 +38,7 @@ The Secretary shall establish the National Customs Automation Program (hereinaft
 
 #### (b) Participation in Program
 
-The Secretary shall by regulation prescribe the eligibility criteria for participation in the Program. The Secretary may, by regulation, require the electronic submission of information described in subsection (a) of this section or any other information required to be submitted to the Customs Service separately pursuant to this subpart.
+The Secretary shall by regulation prescribe the eligibility criteria for participation in theProgram. The Secretary may, by regulation, require the electronic submission of information described in subsection (a) of this section or any other information required to be submitted to the Customs Service separately pursuant to this subpart.
 
 #### (c) Foreign-trade zones
 
@@ -106,7 +106,7 @@ Not later than January 1, 2000, the Secretary shall provide for the inclusion of
 
 #### (5) Sense of Congress
 
-&emsp;It is the sense of Congress that agency participation in the ITDS is an important priority of the Federal Government and that the Secretary shall coordinate the operation of the ITDS closely among the participating agencies and the office within the United States Customs and Border Protection that is responsible for maintaining the ITDS.
+&emsp;It is the sense of Congress that agency participation in the ITDS is an important priority of the Federal Government and that the Secretary shall coordinate the operation of the ITDS closely among the participating agencies and the office within the UnitedStates Customs and Border Protection that is responsible for maintaining the ITDS.
 
 #### (6) Construction
 
@@ -124,11 +124,11 @@ Section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, referred to in
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–347 added subsec. (d).
+<b>2006</b>—Subsec. (d). Pub. L. 109–347 added subsec. (d).
 
-2002—Subsec. (b). Pub. L. 107–210 inserted second sentence and struck out former second sentence which read as follows: “Participation in the Program is voluntary.”
+<b>2002</b>—Subsec. (b). Pub. L. 107–210 inserted second sentence and struck out former second sentence which read as follows: “Participation in the Program is voluntary.”
 
-1999—Subsec. (c). Pub. L. 106–36 added subsec. (c).
+<b>1999</b>—Subsec. (c). Pub. L. 106–36 added subsec. (c).
 
 #### Effective Date of 2002 Amendment
 

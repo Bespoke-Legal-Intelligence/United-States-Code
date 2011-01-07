@@ -44,11 +44,11 @@ For the purpose of this section, the term “innovative technology” means desi
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 1988, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 1988, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
 
-1999—Subsecs. (b) to (d). Pub. L. 106–53 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+<b>1999</b>—Subsecs. (b) to (d). Pub. L. 106–53 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
 #### Design-Build Contracting
 

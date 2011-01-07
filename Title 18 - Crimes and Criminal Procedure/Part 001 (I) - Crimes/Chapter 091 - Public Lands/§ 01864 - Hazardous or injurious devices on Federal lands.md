@@ -66,11 +66,11 @@ The Controlled Substances Act, referred to in subsec. (a)(1), is title II of Pub
 
 #### Amendments
 
-1996—Subsec. (b)(2). Pub. L. 104–134, §101(c) \[title III, §330(1)(A)\], substituted “40” for “twenty”.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–134, §101(c) \[title III, §330(1)(A)\], substituted “40” for “twenty”.
 
 Subsec. (b)(3). Pub. L. 104–134, §101(c) \[title III, §330(1)(B)\], substituted “20” for “ten”.
 
-Subsec. (b)(4). Pub. L. 104–134, §101(c) \[title III, §330(1)(C), (D)\], substituted “if damage to the propertyof any individual results or if avoidance costs have been incurred exceeding $10,000, in the aggregate,” for “if damage exceeding $10,000 to the property of any individual results,” and “20” for “ten”.
+Subsec. (b)(4). Pub. L. 104–134, §101(c) \[title III, §330(1)(C), (D)\], substituted “if damage to the property of any individual results or if avoidance costs have been incurred exceeding $10,000, in the aggregate,” for “if damage exceeding $10,000 to the property of any individual results,” and “20” for “ten”.
 
 Subsec. (c). Pub. L. 104–134, §101(c) \[title III, §330(2)\], substituted “20” for “ten”.
 
@@ -78,7 +78,7 @@ Subsec. (d)(4). Pub. L. 104–134, §101(c) \[title III, §330(3)\], added par. 
 
 Subsec. (e). Pub. L. 104–134, §101(c) \[title III, §330(4)\], added subsec. (e).
 
-1994—Subsec. (c). Pub. L. 103–322 substituted “(b)(5)” for “(b)(3), (4), or (5)”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–322 substituted “(b)(5)” for “(b)(3), (4), or (5)”.
 
-1990—Subsec. (d)(1)(D), (E). Pub. L. 101–647 struck out “and” at end of subpar. (D) and substituted “; and” for period at end of subpar. (E).
+<b>1990</b>—Subsec. (d)(1)(D), (E). Pub. L. 101–647 struck out “and” at end of subpar. (D) and substituted “; and” for period at end of subpar. (E).
 

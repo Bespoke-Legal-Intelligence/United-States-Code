@@ -42,9 +42,9 @@ Jurisdiction is vested in the Federal district courts of the United States over 
 
 #### Amendments
 
-1998—Subsec. (c)(2). Pub. L. 105–388 substituted “section 6295(n)” for “section 6295(k)”.
+<b>1998</b>—Subsec. (c)(2). Pub. L. 105–388 substituted “section 6295(n)” for “section 6295(k)”.
 
-1987—Subsec. (a). Pub. L. 100–12 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Rules under sections 6293, 6294, 6295(a), 6297(b), or 6298 of this title shall be prescribed in accordance with section 553 of title 5, except that—
+<b>1987</b>—Subsec. (a). Pub. L. 100–12 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Rules under sections 6293, 6294, 6295(a), 6297(b), or 6298 of this title shall be prescribed in accordance with section 553 of title 5, except that—
 
 &emsp;“(1) interested persons shall be afforded an opportunity to present written and oral data, views, and arguments with respect to any proposed rule, and
 
@@ -78,7 +78,7 @@ Subsec. (c). Pub. L. 100–12 amended subsec. (c) generally. Prior to amendment,
 
 &emsp;“(B) be considered to be superseded by any other provision of law unless such other provision does so in specific terms, referring to this part, and declaring that such provision supersedes, in whole or in part, the procedures of this part.”
 
-1978—Subsec. (a). Pub. L. 95–619, §§425(g)(1)–(3), 691(b)(2), struck out par. designation “(1)” before “Rules” and substituted reference to section “6295(a)”for “6295(a)(1), (2), or (3)” in first sentence; redesignated subpars. (A) and (B) and cls. (i) and (ii) of subpar. (B) as pars. (1) and (2) and subpars. (A) and (B) of par. (2), respectively; struck out “paragraph (1), (2), or (3) of” before “section 6295(a)” in par. (2) as so redesignated; directed the substitution of “paragraph (1)” for “subparagraph (A)” in par. (2)(B) as so redesignated, which was executed to par. (2)(A) as so redesignated to reflect the probable intent of Congress; substituted “subsection” for “paragraph” in last sentence; and substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+<b>1978</b>—Subsec. (a). Pub. L. 95–619, §§425(g)(1)–(3), 691(b)(2), struck out par. designation “(1)” before “Rules” and substituted reference to section “6295(a)” for “6295(a)(1), (2), or (3)” in first sentence; redesignated subpars. (A) and (B) and cls. (i) and (ii) of subpar. (B) as pars. (1) and (2) and subpars. (A) and (B) of par. (2), respectively; struck out “paragraph (1), (2), or (3) of” before “section 6295(a)” in par. (2) as so redesignated; directed the substitution of “paragraph (1)” for “subparagraph (A)” in par. (2)(B) as so redesignated, which was executed to par. (2)(A) as so redesignated to reflect the probable intent of Congress; substituted “subsection” for “paragraph” in last sentence; and substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
 Par. (2), which provided that subsecs. (c) and (d) of section 57a of title 15 shall apply to rules under section 6295 of this title (other than subsecs. (a)(1), (2), and (3)) to the same extent that such subsecs. apply to rules under section 57a(a)(1)(B) of title 15, was struck out to reflect the probable intent of Congress in view of the amendment by Pub. L. 95–619, §425(g)(1), which struck out designation “(1)” after subsection (a) designation, and in view of the amendment by Pub. L. 95–619, §422, to section 6295(a) of this title, which struck out pars. (3) to (5) therefrom.
 

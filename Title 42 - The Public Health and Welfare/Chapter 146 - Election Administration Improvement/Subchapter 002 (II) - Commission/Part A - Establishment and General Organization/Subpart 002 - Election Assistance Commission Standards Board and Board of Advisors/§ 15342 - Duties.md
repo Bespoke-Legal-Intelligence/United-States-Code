@@ -4,3 +4,7 @@ The Standards Board and the Board of Advisors shall each, in accordance with the
 
 (Pub. L. 107–252, title II, §212, Oct. 29, 2002, 116 Stat. 1678.)
 
+#### References in Text
+
+Subchapter III of this chapter, referred to in text, was in the original “title III”, meaning title III of Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1704, which is classified principally to subchapter III (§15481 et seq.) of this chapter. For complete classification of title III to the Code, see Tables.
+

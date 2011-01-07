@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Of the amounts appropriated under certain grant programs identified in paragraph (a)(2) of this Section,<sup>1</sup> the Attorney General, through the Director of the Violence Against Women Office (referred to in this section as the “Director”), shall take 5 percent of such appropriated amounts and combine them to establish a new grant program to enhance culturally and linguistically specific services for victims of domestic violence, dating violence, sexual assault, and stalking. Grants made under this new program shall be administered by the Director. The requirements of the grant programs identified in paragraph (2) shall not apply to this new grant program.
+&emsp;Of the amounts appropriated under certain grant programs identified in paragraph (a)(2) of this Section,<sup>1</sup> the Attorney General, through the Director of the Violence Against Women Office (referred to in this section as the “Director”), shall take 5 percent of suchappropriated amounts and combine them to establish a new grant program to enhance culturally and linguistically specific services for victims of domestic violence, dating violence, sexual assault, and stalking. Grants made under this new program shall be administered by the Director. The requirements of the grant programs identified in paragraph (2) shall not apply to this new grant program.
 
 #### (2) Programs covered
 
@@ -52,7 +52,7 @@
 
 #### (3) Technical assistance and training
 
-&emsp;The Director shall provide technical assistance and training to grantees of this and other programs under this Act regarding the development and provision of effective culturally and linguistically specific community-based services by entering into cooperative agreements or contracts with an organization or organizations having a demonstrated expertisein and whose primary purpose is addressing the development and provision of culturally and linguistically specific community-based services to victims of domestic violence, dating violence, sexual assault, and stalking.
+&emsp;The Director shall provide technical assistance and training to grantees of this and other programs under this Act regarding the development and provision of effective culturally and linguistically specific community-based services by entering into cooperative agreements or contracts with an organization or organizations having a demonstrated expertise in and whose primary purpose is addressing the development and provision of culturally and linguistically specific community-based services to victims of domestic violence, dating violence, sexual assault, and stalking.
 
 #### (c) Eligible entities
 
@@ -96,7 +96,7 @@ Section was enacted as part of the Violence Against Women and Department of Just
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–271, §2(k)(1), inserted “The requirements of the grant programs identified in paragraph (2) shall not apply to this new grant program.” at end.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–271, §2(k)(1), inserted “The requirements of the grant programs identified in paragraph (2) shall not apply to this new grant program.” at end.
 
 Subsec. (b)(2). Pub. L. 109–271, §2(k)(2), which directed substituting “, including—” and subpars. (A) to (H) for the period, was executed by making the substitution for the period at the end to reflect the probable intent of Congress.
 

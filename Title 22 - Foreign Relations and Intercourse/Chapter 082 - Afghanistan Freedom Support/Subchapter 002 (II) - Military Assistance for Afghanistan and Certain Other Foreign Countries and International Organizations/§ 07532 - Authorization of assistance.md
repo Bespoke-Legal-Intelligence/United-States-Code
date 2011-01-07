@@ -22,7 +22,7 @@ The aggregate value (as defined in section 2403(m) of this title) of assistance 
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–287 substituted “$550,000,000” for “$450,000,000”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–287 substituted “$550,000,000” for “$450,000,000”.
 
-2003—Subsec. (b). Pub. L. 108–106 substituted “$450,000,000” for “$300,000,000”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–106 substituted “$450,000,000” for “$300,000,000”.
 

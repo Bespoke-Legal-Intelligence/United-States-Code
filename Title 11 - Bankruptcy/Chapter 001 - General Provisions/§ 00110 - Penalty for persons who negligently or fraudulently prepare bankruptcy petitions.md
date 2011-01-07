@@ -6,13 +6,13 @@
 
 &emsp;(2) “document for filing” means a petition or any other document prepared for filing by a debtor in a United States bankruptcy court or a United States district court in connection with a case under this title.
 
-(b)(1) A bankruptcy petition preparer who prepares a document for filing shall sign the document and print on the document the preparer's name and address. If a bankruptcy petition preparer is not an individual, then an officer, principal, responsible person, or partner of the bankruptcy petition preparer shall be required to—
+(b)(1) A bankruptcy petition preparer who prepares a document for filing shall sign the document and print on the document the preparer'sname and address. If a bankruptcy petition preparer is not an individual, then an officer, principal, responsible person, or partner of the bankruptcy petition preparer shall be required to—
 
 &emsp;(A) sign the document for filing; and
 
 &emsp;(B) print on the document the name and address of that officer, principal, responsible person, or partner.
 
-(2)(A) Before preparing any document for filing or accepting any fees from a debtor, the bankruptcy petition preparer shall provide to the debtor a written notice which shall be on an official form prescribed by the Judicial Conference of the United States in accordance with rule 9009 of the Federal Rules of Bankruptcy Procedure.
+(2)(A) Before preparing any document for filing or accepting any fees from or on behalf of a debtor, the bankruptcy petition preparer shall provide to the debtor a written notice which shall be on an official form prescribed by the Judicial Conference of the United States in accordance with rule 9009 of the Federal Rules of Bankruptcy Procedure.
 
 (B) The notice under subparagraph (A)—
 
@@ -66,13 +66,13 @@
 
 (g) A bankruptcy petition preparer shall not collect or receive any payment from the debtor or on behalf of the debtor for the court fees in connection with filing the petition.
 
-(h)(1) The Supreme Court may promulgate rules under section 2075 of title 28, or the Judicial Conference of the United States may prescribe guidelines, for setting a maximum allowable fee chargeable by a bankruptcy petition preparer. A bankruptcy petition preparer shall notify the debtor of any such maximum amount before preparing any document for filing for a debtor or accepting any fee from the debtor.
+(h)(1) The Supreme Court may promulgate rules under section 2075 of title 28, or the Judicial Conference of the United States may prescribe guidelines, for setting a maximum allowable fee chargeable by a bankruptcy petition preparer. A bankruptcy petition preparer shall notify the debtor of any such maximum amount before preparing any document for filing for the debtor or accepting any fee from or on behalf of the debtor.
 
 (2) A declaration under penalty of perjury by the bankruptcy petition preparer shall be filed together with the petition, disclosing any fee received from or on behalf of the debtor within 12 months immediately prior to the filing of the case, and any unpaid fee charged to the debtor. If rules or guidelines setting a maximum fee for services have been promulgated or prescribed under paragraph (1), the declaration under this paragraph shall include a certification that the bankruptcy petition preparer complied with the notification requirement under paragraph (1).
 
-(3)(A) The court shall disallow and order the immediate turnover to the bankruptcy trustee any fee referred to in paragraph (2) found to be in excess of the value of any services—
+(3)(A) The court shall disallow and order the immediate turnover to the bankruptcy trustee any fee referred to in paragraph (2)—
 
-&emsp;(i) rendered by the bankruptcy petition preparer during the 12-month period immediately preceding the date of the filing of the petition; or
+&emsp;(i) found to be in excess of the value of any services rendered by the bankruptcy petition preparer during the 12-month period immediately preceding the date of the filing of the petition; or
 
 &emsp;(ii) found to be in violation of any rule or guideline promulgated or prescribed under paragraph (1).
 
@@ -80,7 +80,7 @@
 
 (C) An individual may exempt any funds recovered under this paragraph under section 522(b).
 
-(4) The debtor, the trustee, a creditor, the United States trustee (or the bankruptcy administrator, if any) or the court, on the initiative of the court, may file a motion for an order under paragraph (2).<sup>1</sup>
+(4) The debtor, the trustee, a creditor, the United States trustee (or the bankruptcy administrator, if any) or the court, on the initiative of the court, may file a motion for an order under paragraph (3).
 
 (5) A bankruptcy petition preparer shall be fined not more than $500 for each failure to comply with a court order to turn over funds within 30 days of service of such order.
 
@@ -136,21 +136,29 @@
 
 (3) A debtor, trustee, creditor, or United States trustee (or the bankruptcy administrator, if any) may file a motion for an order imposing a fine on the bankruptcy petition preparer for any violation of this section.
 
-(4)(A) Fines imposed under this subsection in judicial districts served by United States trustees shall be paid to the United States trustees,who shall deposit an amount equal to such fines in the United States Trustee Fund.
+(4)(A) Fines imposed under this subsection in judicial districts served by United States trustees shall be paid to the United States trustees, who shall deposit an amount equal to such fines in the United States Trustee Fund.
 
 (B) Fines imposed under this subsection in judicial districts served by bankruptcy administrators shall be deposited as offsetting receipts to the fund established under section 1931 of title 28, and shall remain available until expended to reimburse any appropriation for the amount paid out of such appropriation for expenses of the operation and maintenance of the courts of the United States.
 
-(Added Pub. L. 103–394, title III, §308(a), Oct. 22, 1994, 108 Stat. 4135; amended Pub. L. 109–8, title II, §221, title XII, §1205, Apr. 20, 2005, 119 Stat. 59, 194; Pub. L. 110–161, div. B, title II, §212(b), Dec. 26, 2007, 121 Stat. 1914.)
+(Added Pub. L. 103–394, title III, §308(a), Oct. 22, 1994, 108 Stat. 4135; amended Pub. L. 109–8, title II, §221, title XII, §1205, Apr. 20, 2005, 119 Stat. 59, 194; Pub. L. 110–161, div. B, title II, §212(b), Dec. 26, 2007, 121 Stat. 1914; Pub. L. 111–327, §2(a)(7), Dec. 22, 2010, 124 Stat. 3558.)
 
 #### References in Text
 
 The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(2)(A), are set out in the Appendix to this title.
 
-Paragraph (2), referred to in subsec. (h)(4), was redesignated as par. (3) and repealed and a new par. (3) was added by Pub. L. 109–8, title II, §221(8)(A), (D), Apr. 20, 2005, 119 Stat. 59. The new par. (3) provides for court orders similar to those provided for in former par. (2).
-
 #### Amendments
 
-2007—Subsec. (<i>l</i>)(4)(A). Pub. L. 110–161 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Fines imposed under this subsection in judicial districts served by United States trustees shall be paid to the United States trustee, who shall deposit an amount equal to such fines in a special account of the United States Trustee System Fund referred to in section 586(e)(2) of title 28. Amounts deposited under this subparagraph shall be available to fund the enforcement of this section on a national basis.”
+2010—Subsec. (b)(2)(A). Pub. L. 111–327, §2(a)(7)(A), inserted “or on behalf of” after “from”.
+
+Subsec. (h)(1). Pub. L. 111–327, §2(a)(7)(B)(i), in last sentence, substituted “filing for the debtor” for “filing for a debtor” and inserted “or on behalf of” after “from”.
+
+Subsec. (h)(3)(A). Pub. L. 111–327, §2(a)(7)(B)(ii)(I), struck out “found to be in excess of the value of any services” after “paragraph (2)” in introductory provisions.
+
+Subsec. (h)(3)(A)(i). Pub. L. 111–327, §2(a)(7)(B)(ii)(II), inserted “found to be in excess of the value of any services” after “(i)”.
+
+Subsec. (h)(4). Pub. L. 111–327, §2(a)(7)(B)(iii), substituted “paragraph (3)” for “paragraph (2)”.
+
+2007—Subsec. (<i>l</i>)(4)(A). Pub. L. 110–161 amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “Fines imposed under this subsection in judicial districts served by United States trustees shall be paid to the United States trustee, who shall deposit an amount equal to such fines in a special account of the United States Trustee System Fund referred to in section 586(e)(2) of title 28. Amounts deposited under this subparagraph shall be available to fund the enforcement of this section on a national basis.”
 
 2005—Subsec. (a)(1). Pub. L. 109–8, §221(1), substituted “for the debtor or an employee of such attorney under the direct supervision of such attorney” for “or an employee of an attorney”.
 
@@ -204,7 +212,5 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 #### Effective Date
 
-Section effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct.22, 1994, see section 702 of Pub. L. 103–394, set out as an Effective Date of 1994 Amendment note under section 101 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+Section effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as an Effective Date of 1994 Amendment note under section 101 of this title.
 

@@ -18,13 +18,13 @@ Section 7422(f) of the Internal Revenue Code of 1986, referred to in subsec. (b)
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1986—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1982—Subsec. (a). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
-1966—Pub. L. 89–713 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1966</b>—Pub. L. 89–713 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1992 Amendment
 

@@ -22,9 +22,9 @@ Restriction.—A project referred to in subsection (a) may not include the acqui
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–163 inserted “(other than a child development center)” after “ancillary supporting facility” in introductory provisions.
+<b>2006</b>—Subsec. (b). Pub. L. 109–163 inserted “(other than a child development center)” after “ancillary supporting facility” in introductory provisions.
 
-1999—Pub. L. 106–65 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>1999</b>—Pub. L. 106–65 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Construction of 2006 Amendment
 

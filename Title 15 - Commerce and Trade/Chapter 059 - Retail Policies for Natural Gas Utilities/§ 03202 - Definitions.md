@@ -26,7 +26,7 @@ For purposes of this chapter—
 
 #### Amendments
 
-1992—Pars. (9), (10). Pub. L. 102–486 added pars. (9) and (10).
+<b>1992</b>—Pars. (9), (10). Pub. L. 102–486 added pars. (9) and (10).
 
 #### Additional Definitions
 

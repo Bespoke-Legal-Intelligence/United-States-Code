@@ -28,7 +28,7 @@ Provisions similar to those in this section were contained in Pub. L. 104–106,
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–136, §221(a), inserted “by President” after “Specified” in heading, substituted “such program elements as the President may specify.” for “program elements governing functional areas as follows:” in introductory provisions, and struck out pars. (1) to (6), which read as follows:
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §221(a), inserted “by President” after “Specified” in heading, substituted “such program elements as the President may specify.” for “program elements governing functional areas as follows:” in introductory provisions, and struck out pars. (1) to (6), which read as follows:
 
 “(1) Technology.
 
@@ -46,9 +46,9 @@ Subsec. (b)(2). Pub. L. 108–136, §221(c)(1), substituted “means the period 
 
 Subsec. (c). Pub. L. 108–136, §221(b)(1), substituted “for a fiscal year for any program element specified for that fiscal year pursuant to subsection (a)” for “for each program element specified in subsection (a)”.
 
-2002—Subsec. (a). Pub. L. 107–314 substituted “Missile Defense Agency” for “Ballistic Missile Defense Organization”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–314 substituted “Missile Defense Agency” for “Ballistic Missile Defense Organization”.
 
-2001—Subsec. (a). Pub. L. 107–107, §232(a), substituted “in accordance with program elements governing functional areas as follows:” for “in accordance with the following program elements:” in introductory provisions, added pars. (1) to (6), and struck out former pars. (1) to (12) which read as follows:
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §232(a), substituted “in accordance with program elements governing functional areas as follows:” for “in accordance with the following program elements:” in introductory provisions, added pars. (1) to (6), and struck out former pars. (1) to (12) which read as follows:
 
 “(1) The Patriot system.
 
@@ -75,6 +75,74 @@ Subsec. (c). Pub. L. 108–136, §221(b)(1), substituted “for a fiscal year fo
 “(12) International Cooperative Programs.”
 
 Subsec. (b). Pub. L. 107–107, §232(b), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Amounts requested for Theater Missile Defense and National Missile Defense major defense acquisition programs shall be specified in individual, dedicated program elements, and amounts appropriated for those programs shall be available only for Ballistic Missile Defense activities.”
+
+#### Acquisition Accountability Reports on the Ballistic Missile Defense System
+
+Pub. L. 111–383, div. A, title II, §225, Jan. 7, 2011, 124 Stat. 4170, provided that:
+
+“(a)
+
+Baselines Required.—The Secretary of Defense shall ensure that the Missile Defense Agency establishes and maintains an acquisition baseline for each program element of the ballistic missile defense system, as specified in section 223 of title 10, United States Code.
+
+“(b)
+
+Elements of Baselines.—Each acquisition baseline required by subsection (a) for a program element shall include the following:
+
+&emsp;“(1) A comprehensive schedule for the program element, including—
+
+&emsp;&emsp;“(A) research and development milestones;
+
+&emsp;&emsp;“(B) acquisition milestones, including design reviews and key decision points;
+
+&emsp;&emsp;“(C) key test events, including ground and flight tests and ballistic missile defense system tests; and
+
+&emsp;&emsp;“(D) delivery and fielding schedules.
+
+&emsp;“(2) A detailed technical description of—
+
+&emsp;&emsp;“(A) the capability to be developed, including hardware and software;
+
+&emsp;&emsp;“(B) system requirements;
+
+&emsp;&emsp;“(C) how the proposed capability satisfies a capability identified by the commanders of the combatant commands on a prioritized capabilities list;
+
+&emsp;&emsp;“(D) key knowledge points that must be achieved to permit continuation of the program and to inform production and deployment decisions; and
+
+&emsp;&emsp;“(E) how the Missile Defense Agency plans to improve the capability over time.
+
+&emsp;“(3) A cost estimate for the program element, including—
+
+&emsp;&emsp;“(A) a life cycle cost estimate;
+
+&emsp;&emsp;“(B) program acquisition unit costs for the program element;
+
+&emsp;&emsp;“(C) average procurement unit costs and program acquisition costs for the program element; and
+
+&emsp;&emsp;“(D) an identification when the program joint cost analysis requirements description document is scheduled to be approved.
+
+&emsp;“(4) A test baseline summarizing the comprehensive test program for the program element outlined in the integrated master test plan.
+
+“(c)
+
+Annual Reports on Acquisition Baselines.—
+
+&emsp;“(1)
+
+Annual reports required.—Not later than February 15, 2011, and annually thereafter, the Director of the Missile Defense Agency shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the acquisition baselines required by subsection (a). The first such report shall set forth the acquisition baselines, and each later report shall identify the significant changes or variances, if any, in any such baseline from any earlier report under this subsection.
+
+&emsp;“(2)
+
+Form.—Each report under this subsection shall be submitted in unclassified form, but may include a classified annex.
+
+“(d)
+
+Annual Reports on Missile Defense Executive Board Activities.—The Director shall include in each report under subsection (c) a description of the activities of the Missile Defense Executive Board during the preceding fiscal year, including the following:
+
+&emsp;“(1) A list of each meeting of the Board during the preceding fiscal year.
+
+&emsp;“(2) The agenda and issues considered at each such meeting.
+
+&emsp;“(3) A description of any decisions or recommendations made by the Board at each such meeting.”
 
 #### Budget and Acquisition Requirements for Missile Defense Agency Activities
 

@@ -32,7 +32,7 @@ Terms and Required Repayment.—Each contract entered into under subsection (a) 
 
 (d)
 
-Authority To Contract and Pay Directly.—(1) A contract under subsection (a) forthe inclusion or incorporation of defense features in an aircraft may include a provision authorizing the Secretary—
+Authority To Contract and Pay Directly.—(1) A contract under subsection (a) for the inclusion or incorporation of defense features in an aircraft may include a provision authorizing the Secretary—
 
 &emsp;(A) to contract, with the concurrence of the contractor, directly with another person for the performance of the work necessary for the inclusion or incorporation of defense features in such aircraft; and
 
@@ -52,9 +52,9 @@ The text of subsecs. (a) and (b) of section 9513 of this title, which were redes
 
 #### Amendments
 
-1996—Subsecs. (b)(2), (e). Pub. L. 104–106 struck out “full” before “Civil Reserve Air Fleet”.
+<b>1996</b>—Subsecs. (b)(2), (e). Pub. L. 104–106 struck out “full” before “Civil Reserve Air Fleet”.
 
-1994—Subsec. (a). Pub. L. 103–355, §3032(1), inserted heading.
+<b>1994</b>—Subsec. (a). Pub. L. 103–355, §3032(1), inserted heading.
 
 Subsec. (b). Pub. L. 103–355, §3032(6), inserted heading and substituted “entered into under this section” for “under section 9512 of this title” in introductory provisions.
 
@@ -72,11 +72,11 @@ Subsec. (e). Pub. L. 103–355, §3032(8), inserted heading and substituted “e
 
 Pub. L. 103–355, §3032(5), redesignated subsec. (b) of section 9513 of this title as subsec. (e) of this section. See Codification note above.
 
-1989—Pub. L. 101–189 substituted “Contracts for the inclusion or incorporation of defense features” for “Contracts to modify aircraft: cargo-convertible features” as section catchline and amended text generally, substituting subsecs. (a) to (c) for former subsecs. (a) to (e).
+<b>1989</b>—Pub. L. 101–189 substituted “Contracts for the inclusion or incorporation of defense features” for“Contracts to modify aircraft: cargo-convertible features” as section catchline and amended text generally, substituting subsecs. (a) to (c) for former subsecs. (a) to (e).
 
-1984—Subsec. (b)(1). Pub. L. 98–525 substituted “App. 1401” for “1401”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–525 substituted “App. 1401” for “1401”.
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
 

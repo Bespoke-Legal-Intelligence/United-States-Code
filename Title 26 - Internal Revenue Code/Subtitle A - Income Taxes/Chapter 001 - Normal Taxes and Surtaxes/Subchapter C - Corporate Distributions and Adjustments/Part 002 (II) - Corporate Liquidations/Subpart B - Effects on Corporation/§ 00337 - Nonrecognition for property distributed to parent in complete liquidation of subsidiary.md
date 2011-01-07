@@ -34,7 +34,7 @@ No gain or loss shall be recognized to the liquidating corporation on the distri
 
 #### (c) 80-percent distributee
 
-For purposes of this section, the term “80-percent distributee” means only the corporationwhich meets the 80-percent stock ownership requirements specified in section 332(b). For purposes of this section, the determination of whether any corporation is an 80-percent distributee shall be made without regard to any consolidated return regulation.
+For purposes of this section, the term “80-percent distributee” means only the corporation which meets the 80-percent stock ownership requirements specified in section 332(b). For purposes of this section, the determination of whether any corporation is an 80-percent distributee shall be made without regard to any consolidated return regulation.
 
 #### (d) Regulations
 
@@ -56,13 +56,13 @@ A prior section 337, acts Aug. 16, 1954, ch. 736, 68A Stat. 106; Sept. 2, 1958, 
 
 #### Amendments
 
-1988—Subsec. (b)(2)(B)(i). Pub. L. 100–647, §1006(e)(4)(A), (B), substituted “described in section 511(a)(2)” for “described in section 511(a)(2) or 511(b)(2)” and “in an activity the income from which is subject to tax under section 511(a)” for “in an unrelated trade or business (as defined in section 513)”.
+<b>1988</b>—Subsec. (b)(2)(B)(i). Pub. L. 100–647, §1006(e)(4)(A), (B), substituted “described in section 511(a)(2)” for “described in section 511(a)(2) or 511(b)(2)” and “in an activity the income from which is subject to tax under section 511(a)” for “in an unrelated trade or business (as defined in section 513)”.
 
 Subsec. (b)(2)(B)(ii). Pub. L. 100–647, §1006(e)(4)(C), substituted “an activity referred to in clause (i)” for “an unrelated trade or business of such organization”.
 
 Subsec. (d). Pub. L. 100–647, §1006(e)(5)(A), in introductory provisions, substituted “amendments made by subtitle D of title VI of the Tax Reform Act of 1986” for “amendments made to this subpart by the Tax Reform Act of 1986”, and in par. (1), substituted “this subchapter) or through the use of a regulated investment company, real estate investment trust, or tax-exempt entity” for “this subchapter)”.
 
-1987—Subsec. (c). Pub. L. 100–203 inserted at end “For purposes of this section, the determination of whether any corporation is an 80-percent distributee shall be made without regard to any consolidated return regulation.”
+<b>1987</b>—Subsec. (c). Pub. L. 100–203 inserted at end “For purposes of this section, the determination of whether any corporation is an 80-percent distributee shall be made without regard to any consolidated return regulation.”
 
 #### Effective Date of 1988 Amendment
 

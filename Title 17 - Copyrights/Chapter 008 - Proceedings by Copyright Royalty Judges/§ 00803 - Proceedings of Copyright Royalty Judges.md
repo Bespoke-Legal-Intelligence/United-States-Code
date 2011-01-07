@@ -36,7 +36,7 @@ Call for petitions to participate.—(i) The Copyright Royalty Judges shall caus
 
 &emsp;&emsp;&emsp;(IV) as provided under section 804(b)(8); or
 
-&emsp;&emsp;&emsp;(V) by no later than January 5 of a year specified in any other provision of section 804(b) for the filing of petitions for the commencement of proceedings, if a petition has not been filed by that date, except that the publication of notice requirement shall not apply in the case of proceedingsunder section 111 that are scheduled to commence in 2005.
+&emsp;&emsp;&emsp;(V) by no later than January 5 of a year specified in any other provision of section 804(b) for the filing of petitions for the commencement of proceedings, if a petition has not been filed by that date, except that the publication of notice requirement shall not apply in the case of proceedings under section 111 that are scheduled to commence in 2005.
 
 &emsp;&emsp;(ii) Petitions to participate shall be filed by no later than 30 days after publication of notice of commencement of a proceeding under clause (i), except that the Copyright Royalty Judges may, for substantial good cause shown and if there is no prejudice to the participants that have already filed petitions, accept late petitions to participate at any time up to the date that is 90 days before the date on which participants in the proceeding are to file their written direct statements. Notwithstanding the preceding sentence, petitioners whose petitions are filed more than 30 days after publication of notice of commencement of a proceeding are not eligible to object to a settlement reached during the voluntary negotiation period under paragraph (3), and any objection filed by such a petitioner shall not be taken into account by the Copyright Royalty Judges.
 
@@ -114,7 +114,7 @@ Regulations.—
 
 &emsp;&emsp;(A)
 
-In general.—The Copyright Royalty Judges may issue regulations to carry out their functions under this title. All regulations issued by the Copyright Royalty Judges are subject to the approval of the Librarian of Congress. Not later than 120 days after Copyright Royalty Judges or interimCopyright Royalty Judges, as the case may be, are first appointed after the enactment of the Copyright Royalty and Distribution Reform Act of 2004, such judges shall issue regulations to govern proceedings under this chapter.
+In general.—The Copyright Royalty Judges may issue regulations to carry out their functions under this title. All regulations issued by the Copyright Royalty Judges are subject to the approval of the Librarian of Congress and are subject to judicial review pursuant to chapter 7 of title 5, except as set forth in subsection (d). Not later than 120 days after Copyright Royalty Judges or interim Copyright Royalty Judges, as the case may be, are first appointed after the enactment of the Copyright Royalty and Distribution Reform Act of 2004, such judges shall issue regulations to govern proceedings under this chapter.
 
 &emsp;&emsp;(B)
 
@@ -150,7 +150,7 @@ Requirements.—Regulations issued under subparagraph (A) shall include the foll
 
 &emsp;&emsp;&emsp;(viii) The rules and practices in effect on the day before the effective date of the Copyright Royalty and Distribution Reform Act of 2004, relating to discovery in proceedings under this chapter to determine the distribution of royalty fees, shall continue to apply to such proceedings on and after such effective date.
 
-&emsp;&emsp;&emsp;(ix) In proceedings to determine royalty rates, the Copyright Royalty Judges may issue a subpoena commanding a participant or witness to appear and give testimony, or to produce and permit inspection of documents or tangible things, if the Copyright Royalty Judges’ resolution of the proceeding would be substantially impaired by the absence of such testimony or production of documents or tangible things. Such subpoena shall specify with reasonable particularity the materials to be produced or the scope and nature of the required testimony. Nothing in this clause shall preclude the Copyright Royalty Judges from requesting the production by a nonparticipant of information or materials relevant to the resolution by the Copyright Royalty Judges of a material issue of fact.
+&emsp;&emsp;&emsp;(ix) In proceedings to determine royalty rates, the Copyright Royalty Judges may issue a subpoena commanding a participant or witness to appear and give testimony, or to produce and permit inspection of documents or tangible things, if the Copyright Royalty Judges’ resolution of the proceeding would be substantially impaired by the absence of such testimony or production of documents or tangible things. Such subpoena shall specify with reasonable particularity the materials to be produced or the scope and nature of the required testimony. Nothing in this clauseshall preclude the Copyright Royalty Judges from requesting the production by a nonparticipant of information or materials relevant to the resolution by the Copyright Royalty Judges of a material issue of fact.
 
 &emsp;&emsp;&emsp;(x) The Copyright Royalty Judges shall order a settlement conference among the participants in the proceeding to facilitate the presentation of offers of settlement among the participants. The settlement conference shall be held during a 21-day period following the 60-day discovery period specified in clause (iv) and shall take place outside the presence of the Copyright Royalty Judges.
 
@@ -272,7 +272,7 @@ Authorization of appropriations.—There are authorized to be appropriated such 
 
 Positions required for administration of compulsory licensing.—Section 307 of the Legislative Branch Appropriations Act, 1994, shall not apply to employee positions in the Library of Congress that are required to be filled in order to carry out section 111, 112, 114, 115, 116, 118, or 119 or chapter 10.
 
-(Added Pub. L. 108–419, §3(a), Nov. 30, 2004, 118 Stat. 2348; amended Pub. L. 108–447, div. J, title IX \[title I, §112\], Dec. 8, 2004, 118 Stat. 3409; Pub. L. 109–303, §3(5)–(11), Oct. 6, 2006, 120 Stat. 1479, 1481.)
+(Added Pub. L. 108–419, §3(a), Nov. 30, 2004, 118 Stat. 2348; amended Pub. L. 108–447, div. J, title IX \[title I, §112\], Dec. 8, 2004, 118 Stat. 3409; Pub. L. 109–303, §3(5)–(11), Oct. 6, 2006, 120 Stat. 1479, 1481; Pub. L. 111–295, §5(b), Dec. 9, 2010, 124 Stat. 3181.)
 
 #### References in Text
 
@@ -290,7 +290,9 @@ Another prior section 803, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 S
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–303, §3(5), substituted “The Copyright Royalty Judges shall act in accordance with this title, and to the extent not inconsistent with this title, in accordance with subchapter II of chapter 5 of title 5, in carrying out the purposes set forth in section 801. The Copyright” for “The Copyright” and inserted “copyright arbitration royalty panels (to the extent those determinations are not inconsistent with a decision of the Librarian of Congress or the Register of Copyrights),” after “Congress, the Register of Copyrights,”.
+<b>2010</b>—Subsec. (b)(6)(A). Pub. L. 111–295 substituted “All regulations issued by the Copyright Royalty Judges are subject to the approval of the Librarian of Congress and are subject to judicial review pursuant to chapter 7 of title 5, except as set forth in subsection (d).” for “All regulations issued by the Copyright Royalty Judges are subject to the approval of the Librarian of Congress.”
+
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–303, §3(5), substituted “The Copyright Royalty Judges shall act in accordance with this title, and to the extent not inconsistent with this title, in accordance with subchapter II of chapter 5 of title 5, in carrying out the purposes set forth in section 801. The Copyright” for “The Copyright” and inserted “copyright arbitration royalty panels (to the extent those determinations are not inconsistent with a decision of the Librarian of Congress or the Register of Copyrights),” after “Congress, the Register of Copyrights,”.
 
 Subsec. (b)(1)(A)(i)(V). Pub. L. 109–303, §3(6)(A), substituted “the publication of notice requirement shall not apply in the case of” for “in the case of” and struck out “, such notice may not be published.” at end.
 
@@ -306,7 +308,7 @@ Subsec. (b)(6)(C)(ii)(I). Pub. L. 109–303, §3(6)(E)(ii), amended subcl. (I) g
 
 Subsec. (b)(6)(C)(iv). Pub. L. 109–303, §3(6)(E)(iii), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “Discovery in such proceedings shall be permitted for a period of 60 days, except for discovery ordered by the Copyright Royalty Judges in connection with the resolution of motions, orders, and disputes pending at the end of such period.”
 
-Subsec. (b)(6)(C)(x). Pub. L. 109–303, §3(6)(E)(iv), amended cl. (x) generally. Prior to amendment, cl. (x) read as follows: “The Copyright Royalty Judges shall order a settlement conference among the participants in the proceeding to facilitate the presentation of offers of settlement among the participants. The settlement conference shall be held during a 21-day period following the end of the discovery period and shall takeplace outside the presence of the Copyright Royalty Judges.”
+Subsec. (b)(6)(C)(x). Pub. L. 109–303, §3(6)(E)(iv), amended cl. (x) generally. Prior to amendment, cl. (x) read as follows: “The Copyright Royalty Judges shall order a settlement conference among the participants in the proceeding to facilitate the presentation of offers of settlement among the participants. The settlement conference shall be held during a 21-day period following the end of the discovery period and shall take place outside the presence of the Copyright Royalty Judges.”
 
 Subsec. (c)(2)(B). Pub. L. 109–303, §3(7), struck out “concerning rates and terms” before period at end.
 
@@ -318,7 +320,7 @@ Subsec. (d)(2)(C)(i)(I). Pub. L. 109–303, §3(10), substituted “applicable s
 
 Subsec. (d)(3). Pub. L. 109–303, §3(11), substituted “Section 706 of title 5 shall apply with respect to review by the court of appeals under this subsection. If the court modifies” for “If the court, pursuant to section 706 of title 5, modifies”.
 
-2004—Subsec. (b)(1)(A)(i)(V). Pub. L. 108–447 inserted “, except that in the case of proceedings under section 111 that are scheduled to commence in 2005, such notice may not be published.” before period at end.
+<b>2004</b>—Subsec. (b)(1)(A)(i)(V). Pub. L. 108–447 inserted “, except that in the case of proceedings under section 111 that are scheduled to commence in 2005, such notice may not be published.” before period at end.
 
 #### Effective Date of 2006 Amendment
 

@@ -68,9 +68,9 @@
 
 &emsp;&emsp;(VII) The State does not impose any requirement affecting the terms or benefits of such a policy unless the State imposes such requirement on long-term care insurance policies without regard to whether the policy is covered under the partnership or is offered in connection with such a partnership.
 
-> &emsp;In the case of a long-term care insurance policy which is exchanged for another such policy, subclause (I) shall be applied based on thecoverage of the first such policy that was exchanged. For purposes of this clause and paragraph (5), the term “long-term care insurance policy” includes a certificate issued under a group insurance contract.
+> &emsp;In the case of a long-term care insurance policy which is exchanged for another such policy, subclause (I) shall be applied based on the coverage of the first such policy that was exchanged. For purposes of this clause and paragraph (5), the term “long-term care insurance policy” includes a certificate issued under a group insurance contract.
 
-&emsp;(iv) With respect to a State which had a State plan amendment approved as of May 14, 1993, such a State satisfies this clause for purposes of clause (ii) if the Secretary determines that the State plan amendment provides for consumer protection standards which are no less stringent than the consumer protection standards which applied under such State plan amendment as of December 31, 2005.
+&emsp;(iv) With respect to a State which had a State plan amendment approved as of May 14,1993, such a State satisfies this clause for purposes of clause (ii) if the Secretary determines that the State plan amendment provides for consumer protection standards which are no less stringent than the consumer protection standards which applied under such State plan amendment as of December 31, 2005.
 
 &emsp;(v) The regulations of the Secretary required under clause (iii)(VI) shall be promulgated after consultation with the National Association of Insurance Commissioners, issuers of long-term care insurance policies, States with experience with long-term care insurance partnership plans, other States, and representatives of consumers of long-term care insurance policies, and shall specify the type and format of the data and information to be reported and the frequency with which such reports are to be made. The Secretary, as appropriate, shall provide copies of the reports provided in accordance with that clause to the State involved.
 
@@ -298,7 +298,7 @@
 
 #### (d) Treatment of trust amounts
 
-(1) For purposes of determining an individual's eligibility for, or amount of, benefits under a State plan under this subchapter, subject to paragraph (4), the rules specified in paragraph\(3) shall apply to a trust established by such individual.
+(1) For purposes of determining an individual's eligibility for, or amount of, benefits under a State plan under this subchapter, subject to paragraph (4), the rules specified in paragraph (3) shall apply to a trust established by such individual.
 
 (2)(A) For purposes of this subsection, an individual shall be considered to have established a trust if assets of the individual were used to form all or part of the corpus of the trust and if any of the following individuals established such trust other than by will:
 
@@ -368,7 +368,7 @@
 
 #### (e) Disclosure and treatment of annuities
 
-(1) In order to meet the requirements of this section for purposes of section 1396a(a)(18) of this title, a State shall require, as a condition for the provision of medical assistance for services described in subsection (c)(1)(C)(i) (relating to long-term care services) for an individual, the application of the individual for such assistance (including any recertification of eligibility for such assistance) shall disclose a description of any interest the individual or community spouse has in an annuity (or similar financial instrument, as may be specified by the Secretary), regardless of whether the annuity is irrevocable or is treated as an asset. Such application or recertification form shall include a statement that under paragraph (2) the State becomes a remainder beneficiary under such an annuity or similar financial instrument by virtue of the provision of such medical assistance.
+(1) In order to meet the requirements of this section for purposes of section 1396a(a)(18) of this title, a State shall require, as a condition for the provision of medical assistance for services described in subsection (c)(1)(C)(i) (relatingto long-term care services) for an individual, the application of the individual for such assistance (including any recertification of eligibility for such assistance) shall disclose a description of any interest the individual or community spouse has in an annuity (or similar financial instrument, as may be specified by the Secretary), regardless of whether the annuity is irrevocable or is treated as an asset. Such application or recertification form shall include a statement that under paragraph (2) the State becomes a remainder beneficiary under such an annuity or similar financial instrument by virtue of the provision of such medical assistance.
 
 (2)(A) In the case of disclosure concerning an annuity under subsection (c)(1)(F), the State shall notify the issuer of the annuity of the right of the State under such subsection as a preferred remainder beneficiary in the annuity for medical assistance furnished to the individual. Nothing in this paragraph shall be construed as preventing such an issuer from notifying persons with any other remainder interest of the State's remainder interest under such subsection.
 
@@ -442,11 +442,11 @@ The Internal Revenue Code of 1986, referred to in subsecs. (b)(1)(C)(iii)(II) an
 
 #### Amendments
 
-2009—Subsec. (b)(3). Pub. L. 111–5 designated existing provisions as subpar. (A) and added subpar. (B)
+<b>2009</b>—Subsec. (b)(3). Pub. L. 111–5 designated existing provisions as subpar. (A) and added subpar. (B)
 
-2008—Subsec. (b)(1)(B)(ii). Pub. L. 110–275 inserted “(but not including medical assistance for medicare cost-sharing or for benefits described in section 1396a(a)(10)(E) of this title)” before period at end.
+<b>2008</b>—Subsec. (b)(1)(B)(ii). Pub. L. 110–275 inserted “(but not including medical assistance for medicare cost-sharing or for benefits described in section 1396a(a)(10)(E) of this title)” before period at end.
 
-2006—Subsec. (b)(1)(C)(ii). Pub. L. 109–171, §6021(a)(1)(A)(i), inserted “and which satisfies clause (iv), or which has a State plan amendment that provides for a qualified State long-term care insurance partnership (as defined in clause (iii))” after “1993,” in introductory provisions.
+<b>2006</b>—Subsec. (b)(1)(C)(ii). Pub. L. 109–171, §6021(a)(1)(A)(i), inserted “and which satisfies clause (iv), or which has a State plan amendment that provides for a qualified State long-term care insurance partnership (as defined in clause (iii))” after “1993,” in introductory provisions.
 
 Subsec. (b)(1)(C)(iii) to (vi). Pub. L. 109–171, §6021(a)(1)(A)(ii), added cls. (iii) to (vi).
 
@@ -484,7 +484,7 @@ Pub. L. 109–171, §6014(a), redesignated subsec. (f) as (g).
 
 Subsec. (h). Pub. L. 109–171, §6015(b), redesignated subsec. (g) as (h).
 
-1993—Subsec. (b)(1). Pub. L. 103–66, §13612(a), substituted “except that the State shall seek adjustment or recovery of any medical assistance correctly paid on behalf of an individual under the State plan in the case of the following individuals:” and subpars. (A) to (C) for “except—” and former subpars. (A) and (B) which read as follows:
+<b>1993</b>—Subsec. (b)(1). Pub. L. 103–66, §13612(a), substituted “except that the State shall seek adjustment or recovery of any medical assistance correctly paid on behalf of an individual under the State plan in the case of the following individuals:” and subpars. (A) to (C) for “except—” and former subpars. (A) and (B) which read as follows:
 
 “(A) in the case of an individual described in subsection (a)(1)(B) of this section, from his estate or upon sale of the property subject to a lien imposed on account of medical assistance paid on behalf of such individual, and
 
@@ -516,13 +516,13 @@ Subsec. (d). Pub. L. 103–66, §13611(b), added subsec. (d).
 
 Subsec. (e). Pub. L. 103–66, §13611(c), added subsec. (e).
 
-1989—Subsec. (c)(1). Pub. L. 101–239, §6411(e)(1)(A), inserted “or whose spouse,” after “an institutionalized individual (as defined in paragraph (3)) who,”.
+<b>1989</b>—Subsec. (c)(1). Pub. L. 101–239, §6411(e)(1)(A), inserted “or whose spouse,” after “an institutionalized individual (as defined in paragraph (3)) who,”.
 
 Subsec. (c)(2)(B)(i). Pub. L. 101–239, §6411(e)(1)(B)(i), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “to (or to another for the sole benefit of) the community spouse, as defined in section 1396r–5(h)(2) of this title,,”.
 
 Subsec. (c)(2)(B)(ii), (iii). Pub. L. 101–239, §6411(e)(1)(B)(ii), struck out “, or” after “subparagraph (A)(ii)(II)” in cl. (ii) and struck out cl. (iii) which read as follows: “to (or to another for the sole benefit of) the individual's spouse if such spouse does not transfer such resources to another person other than the spouse for less than fair market value”.
 
-1988—Subsec. (c). Pub. L. 100–360, §303(b), amended subsec. (c) generally, substituting pars. (1) to (4) relating to taking into account certain transfers of assets, for former pars. (1) to (3) relating to denial of medical assistance, period of eligibility, and exceptions.
+<b>1988</b>—Subsec. (c). Pub. L. 100–360, §303(b), amended subsec. (c) generally, substituting pars. (1) to (4) relating to taking into account certain transfers of assets, for former pars. (1) to (3) relating to denial of medical assistance, period of eligibility, and exceptions.
 
 Subsec. (c)(1). Pub. L. 100–485, §608(d)(16)(B)(i), substituted “period of ineligibility for nursing facility services and for a level of care in a medical institution equivalent to that of nursing facility services and for services under section 1396n(c) of this title in the case of an institutionalized individual (as defined in paragraph (3)) who, at any time during or after the 30-month period immediately before the date the individual becomes an institutionalized individual (if the individual is entitled to medical assistance under the State plan on such date) or, if the individual is not so entitled, the date the individual applies for such assistance while an institutionalized individual” for “period of ineligibility in the case of an institutionalized individual (as defined in paragraph (3)) who, at any time during the 30-month period immediately before the individual's application for medical assistance under the State plan”.
 
@@ -540,11 +540,11 @@ Subsec. (c)(3). Pub. L. 100–485, §608(d)(16)(B)(vi), substituted “in a nurs
 
 Subsec. (c)(5). Pub. L. 100–485, §608(d)(16)(B)(vii), added par. (5).
 
-1987—Subsecs. (a)(1)(B)(i), (c)(2)(B)(i). Pub. L. 100–203, §4211(h)(12)(A), substituted “nursing facility, intermediate care facility for the mentally retarded” for “skilled nursing facility, intermediate care facility”.
+<b>1987</b>—Subsecs. (a)(1)(B)(i), (c)(2)(B)(i). Pub. L. 100–203, §4211(h)(12)(A), substituted “nursing facility, intermediate care facility for the mentally retarded” for “skilled nursing facility, intermediate care facility”.
 
 Subsec. (c)(2)(B)(ii). Pub. L. 100–203, §4211(h)(12)(B), as amended by Pub. L. 100–360, §411(<i>l</i>)(3)(I), substituted “a nursing facility” for “a skilled nursing facility” in two places each in subcls. (I) and (II).
 
-1983—Subsec. (b)(2)(B). Pub. L. 97–448, §309(b)(21), substituted “who” for “and” before “has lawfully resided”.
+<b>1983</b>—Subsec. (b)(2)(B). Pub. L. 97–448, §309(b)(21), substituted “who” for “and” before “has lawfully resided”.
 
 Subsec. (c)(2)(B)(iii). Pub. L. 97–448, §309(b)(22), substituted in subcl. (I) “can” for “cannot” and struck out from subcl. (IV) the introductory word “if”.
 
@@ -570,7 +570,7 @@ Pub. L. 109–171, title VI, §6016(e), Feb. 8, 2006, 120 Stat. 67, provided tha
 
 “(1)
 
-In general.—Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section\] shall apply to payments under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) for calendar quarters beginning on or after thedate of enactment of this Act \[Feb. 8, 2006\], without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+In general.—Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section\] shall apply to payments under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) for calendar quarters beginning on or after the date of enactment of this Act \[Feb. 8, 2006\], without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 “(2)
 
@@ -654,7 +654,7 @@ Pub. L. 109–171, title VI, §6011(d), Feb. 8, 2006, 120 Stat. 62, provided tha
 
 #### Expansion of State Long-Term Care Partnership Program
 
-Pub. L. 109–171, title VI, §6021, Feb. 8, 2006, 120 Stat. 68, provided that:
+Pub. L. 109–171, title VI, §6021, Feb. 8, 2006, 120 Stat. 68, as amended by Pub. L. 111–148, title VIII, §8002(d), title X, §10801(c), Mar. 23, 2010, 124 Stat. 847, 1015, provided that:
 
 “(a)
 
@@ -710,9 +710,11 @@ In general.—The National Clearinghouse for Long-Term Care Information shall—
 
 &emsp;&emsp;&emsp;“(i) educate consumers with respect to the availability and limitations of coverage for long-term care under the Medicaid program and provide contact information for obtaining State-specific information on long-term care coverage, including eligibility and estate recovery requirements under State Medicaid programs;
 
-&emsp;&emsp;&emsp;“(ii) provide objective information to assist consumers with the decisionmaking process for determining whether to purchase long-term care insurance or to pursue other private market alternatives for purchasing long-term care and provide contact information for additional objective resources on planning for long-term care needs; and
+&emsp;&emsp;&emsp;“(ii) provide objective information to assist consumers with the decisionmaking process for determining whether to purchase long-term care insurance or to pursue other private market alternatives for purchasing long-term care and provide contact information for additional objective resources on planning for long-term care needs;
 
-&emsp;&emsp;&emsp;“(iii) maintain a list of States with State long-term care insurance partnerships under the Medicaid program that provide reciprocal recognition of long-term care insurance policies issued under such partnerships.
+&emsp;&emsp;&emsp;“(iii) maintain a list of States with State long-term care insurance partnerships under the Medicaid program that provide reciprocal recognition of long-term care insurance policies issued under such partnerships; and
+
+&emsp;&emsp;&emsp;“(iv) include information regarding the CLASS program established under title XXXII of the Public Health Service Act \[42 U.S.C. 300<i>ll</i> et seq.\] and information regarding how benefits provided under a CLASS Independence Benefit Plan differ from disability insurance benefits.
 
 &emsp;&emsp;“(B)
 
@@ -720,5 +722,5 @@ Requirement.—In providing information to consumers on long-term care in accord
 
 &emsp;“(3)
 
-Appropriation.—Out of any funds in the Treasury not otherwise appropriated, there is appropriated to carry out this subsection, $3,000,000 for each of fiscal years 2006 through 2010.”
+Appropriation.—Out of any funds in the Treasury not otherwise appropriated, there is appropriated to carry out this subsection, $3,000,000 for each of fiscal years 2006 through 2015.”
 

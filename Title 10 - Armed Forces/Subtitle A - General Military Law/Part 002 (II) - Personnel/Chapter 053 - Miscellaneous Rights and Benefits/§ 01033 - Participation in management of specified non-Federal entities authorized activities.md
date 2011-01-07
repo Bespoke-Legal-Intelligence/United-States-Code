@@ -46,9 +46,9 @@ A prior section 1033, act Aug. 10, 1956, ch. 1041, 70A Stat. 80, related to Rese
 
 #### Amendments
 
-2002—Subsecs. (b)(1), (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsecs. (b)(1), (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1999—Subsec. (b)(3)(E). Pub. L. 106–65 added subpar. (E).
+<b>1999</b>—Subsec. (b)(3)(E). Pub. L. 106–65 added subpar. (E).
 
 #### Effective Date of 2002 Amendment
 

@@ -16,7 +16,7 @@ A prior section 2301, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1277, related 
 
 #### Amendments
 
-2006—Pub. L. 109–284 substituted “United States Government” for “United State Government” in introductory provisions.
+<b>2006</b>—Pub. L. 109–284 substituted “United States Government” for “United State Government” in introductory provisions.
 
 #### Transfer of Auditors West Building (Annex 3); Responsibility for Repairs and Alterations
 

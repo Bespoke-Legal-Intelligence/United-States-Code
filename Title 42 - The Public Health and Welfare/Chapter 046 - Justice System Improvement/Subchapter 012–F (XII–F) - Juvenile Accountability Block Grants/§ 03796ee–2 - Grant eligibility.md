@@ -96,7 +96,7 @@ A prior section 1802 of Pub. L. 90–351 was classified to section 3796ee–1 of
 
 #### Amendments
 
-2006—Subsecs. (a)(1)(B), (b)(1)(A)(ii). Pub. L. 109–162, §1168(a), formerly §1168, as renumbered by Pub. L. 109–271, inserted “, including the extent to which evidence-based approaches are utilized” after “subchapter”.
+<b>2006</b>—Subsecs. (a)(1)(B), (b)(1)(A)(ii). Pub. L. 109–162, §1168(a), formerly §1168, as renumbered by Pub. L. 109–271, inserted “, including the extent to which evidence-based approaches are utilized” after “subchapter”.
 
 #### Effective Date of 2006 Amendment
 

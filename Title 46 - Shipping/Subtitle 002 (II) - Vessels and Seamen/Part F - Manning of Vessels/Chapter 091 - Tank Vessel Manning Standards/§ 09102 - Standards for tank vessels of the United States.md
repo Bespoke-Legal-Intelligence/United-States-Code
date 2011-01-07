@@ -40,7 +40,7 @@ Subsection (b) provides for a waiver of any health and physical fitness criteria
 
 #### Amendments
 
-1990—Par. (8). Pub. L. 101–380 added par. (8).
+<b>1990</b>—Par. (8). Pub. L. 101–380 added par. (8).
 
 #### Effective Date of 1990 Amendment
 

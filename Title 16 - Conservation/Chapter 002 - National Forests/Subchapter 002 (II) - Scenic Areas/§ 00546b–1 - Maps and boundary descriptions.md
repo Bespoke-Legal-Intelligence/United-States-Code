@@ -40,3 +40,5 @@ This subtitle, referred to in subsecs. (b) and (d), is subtitle B (§§1101–11
 
 For definitions of terms used in this section, see section 1101 of Pub. L. 111–11, set out as a note under section 546b of this title.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

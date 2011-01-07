@@ -82,13 +82,13 @@ The Indian Self-Determination and Education Assistance Act of 1974, referred to 
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–453 substituted “section 2206(<i>o</i>)” for “section 2206(p)”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–453 substituted “section 2206(<i>o</i>)” for “section 2206(p)”.
 
-2005—Pub. L. 109–157, §5(1), amended section catchline generally making technical correction to section designation.
+<b>2005</b>—Pub. L. 109–157, §5(1), amended section catchline generally making technical correction to section designation.
 
 Subsec. (a)(1). Pub. L. 109–157, §5(2), made technical amendment to reference in original act which appears in text as reference to section 2206(p) of this title.
 
-2004—Pub. L. 108–374, §6(a)(5)(A), substituted “Fractional interest acquisition program” for “Pilot program for the acquisition of fractional interests” in section catchline.
+<b>2004</b>—Pub. L. 108–374, §6(a)(5)(A), substituted “Fractional interest acquisition program” for “Pilot program for the acquisition of fractional interests” in section catchline.
 
 Subsec. (a)(1). Pub. L. 108–374, §6(a)(5)(B)(i), inserted “or from an heir during probate in accordance with section 2206(p) of this title” after “owner,”.
 

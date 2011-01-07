@@ -1,6 +1,0 @@
-### §17722. Research alignment
-
-In addition to pursuing the research and development initiative described in section 17721 of this title, the Administrator shall, to the maximum extent practicable within available funding, align the fundamental aeronautics research program to address high priority technology challenges of the National Academies’ Decadal Survey of Civil Aeronautics, and shall work to increase the degree of involvement of external organizations, and especially of universities, in the fundamental aeronautics research program.
-
-(Pub. L. 110–422, title III, §303, Oct. 15, 2008, 122 Stat. 4787.)
-

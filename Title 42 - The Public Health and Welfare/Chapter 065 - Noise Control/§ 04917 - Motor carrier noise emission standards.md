@@ -32,11 +32,11 @@ The Department of Transportation Act, referred to in subsec. (b), is Pub. L. 89�
 
 #### Codification
 
-In subsec. (b), “subtitle IV of title 49” substituted for “the Interstate Commerce Act \[49 U.S.C. 1 et seq.\]” on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
+In subsec. (b), “subtitle IV of title 49” substituted for “the Interstate Commerce Act \[49 U.S.C. 1 et seq.\]” on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat.1466, the first section of which enacted subtitle IV of Title 49, Transportation.
 
 #### Amendments
 
-1995—Subsec. (d). Pub. L. 104–88 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “For purposes of this section, the term ‘motor carrier’ includes a common carrier by motor vehicle, a contract carrier by motor vehicle, and a private carrier of property by motor vehicle as those terms are defined by section 10102 of title 49.”
+<b>1995</b>—Subsec. (d). Pub. L. 104–88 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “For purposes of this section, the term ‘motor carrier’ includes a common carrier by motor vehicle, a contract carrier by motor vehicle, and a private carrier of property by motor vehicle as those terms are defined by section 10102 of title 49.”
 
 #### Effective Date of 1995 Amendment
 

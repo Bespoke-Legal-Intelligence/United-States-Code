@@ -30,9 +30,9 @@
 
 #### Amendments
 
-2000—Pub. L. 106–398 renumbered section 2546 of this title as this section.
+<b>2000</b>—Pub. L. 106–398 renumbered section 2546 of this title as this section.
 
-1985—Subsecs. (d), (e). Pub. L. 99–167 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1985</b>—Subsecs. (d), (e). Pub. L. 99–167 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 #### Effective Date
 

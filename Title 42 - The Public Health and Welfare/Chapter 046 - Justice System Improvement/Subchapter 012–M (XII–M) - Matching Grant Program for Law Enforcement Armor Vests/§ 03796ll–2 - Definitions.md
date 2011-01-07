@@ -22,7 +22,7 @@ For purposes of this subchapter—
 
 #### Amendments
 
-2000—Par. (1). Pub. L. 106–517 designated provisions after “ ‘armor vest’ means” as subpar. (A) and added subpar. (B).
+<b>2000</b>—Par. (1). Pub. L. 106–517 designated provisions after “ ‘armor vest’ means” as subpar. (A) and added subpar. (B).
 
 #### Interim Definition of Armor Vest
 

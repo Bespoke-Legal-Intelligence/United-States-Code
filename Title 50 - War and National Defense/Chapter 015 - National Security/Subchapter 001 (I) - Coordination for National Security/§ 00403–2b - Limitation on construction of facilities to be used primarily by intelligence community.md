@@ -8,13 +8,13 @@
 
 #### (2) Notification
 
-&emsp;In the case of a project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost greater than $1,000,000 but less than $5,000,000, or where any improvement project to such a facility has an estimated Federal cost greater than $1,000,000, the Director of Central Intelligence shall submit a notification to the intelligence committees specifically identifying such project.
+&emsp;In the case of a project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost greater than $1,000,000 but less than $5,000,000, or where any improvement project to such a facility has an estimated Federal cost greater than $1,000,000, the Director of National Intelligence shall submit a notification to the intelligence committees specifically identifying such project.
 
 #### (b) Exception
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (a) of this section but subject to paragraphs (2) and (3), a project for the construction of a facility to be used primarily by personnel of any component of the intelligence community may be carried out if the Secretary of Defense and the Director of Central Intelligence jointly determine—
+&emsp;Notwithstanding subsection (a) of this section but subject to paragraphs (2) and (3), a project for the construction of a facility to be used primarily by personnel of any component of the intelligence community may be carried out if the Secretary of Defense and the Director of National Intelligence jointly determine—
 
 &emsp;&emsp;(A) that the project is vital to the national security or to the protection of health, safety, or the quality of the environment, and
 
@@ -22,9 +22,9 @@
 
 #### (2) Report
 
-&emsp;(A) When a decision is made to carry out a construction project under this subsection, the Secretary of Defense and the Director of Central Intelligence jointly shall submit a report in writing to the appropriate committees of Congress on that decision. Each such report shall include (i) the justification for the project and the current estimate of the cost of the project, (ii) the justification for carrying out the project under this subsection, and (iii) a statement of the source of the funds to be used to carry out the project. The project may then be carried out only after the end of the 7-day period beginning on the date the notification is received by such committees.
+&emsp;(A) When a decision is made to carry out a construction project under this subsection, the Secretary of Defense and the Director of National Intelligence jointly shall submit a report in writing to the appropriate committees of Congress on that decision. Each such report shall include (i) the justification for the project and the current estimate of the cost of the project, (ii) the justification for carrying out the project under this subsection, and (iii) a statement of the source of the funds to be used to carry out the project. The project may then be carried out only after the end of the 7-day period beginning on the date the notification is received by such committees.
 
-&emsp;(B) Notwithstanding subparagraph (A), a project referred to in paragraph (1) may begin on the date the notification is received by the appropriate committees of Congress under that paragraph if the Director of Central Intelligence and the Secretary of Defense jointly determine that—
+&emsp;(B) Notwithstanding subparagraph (A), a project referred to in paragraph (1) may begin on the date the notification is received by the appropriate committees of Congress under that paragraph if the Director of National Intelligence and the Secretary of Defense jointly determine that—
 
 &emsp;&emsp;(i) an emergency exists with respect to the national security or the protection of health, safety, or environmental quality; and
 
@@ -32,7 +32,7 @@
 
 #### (3) Projects primarily for CIA
 
-&emsp;If a project referred to in paragraph (1) is primarily for the Central Intelligence Agency, the Director of Central Intelligence shall make the determination and submit the report required by paragraphs (1) and (2).
+&emsp;If a project referred to in paragraph (1) is primarily for the Central Intelligence Agency, the Director of the Central Intelligence Agency shall make the determination and submit the report required by paragraphs (1) and (2).
 
 #### (4) Limitation
 
@@ -42,7 +42,7 @@
 
 This section shall not apply to any project which is subject to subsection (a)(1)(A) or (c) of section 601.
 
-(Pub. L. 103–359, title VI, §602, Oct. 14, 1994, 108 Stat. 3432; Pub. L. 108–177, title III, §314, Dec. 13, 2003, 117 Stat. 2610.)
+(Pub. L. 103–359, title VI, §602, Oct. 14, 1994, 108 Stat. 3432; Pub. L. 108–177, title III, §314, Dec. 13, 2003, 117 Stat. 2610; Pub. L. 111–259, title VIII, §809, Oct. 7, 2010, 124 Stat. 2749.)
 
 #### References in Text
 
@@ -54,13 +54,13 @@ Section was enacted as part of the Intelligence Authorization Act for Fiscal Yea
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–177, §314(a), substituted “$5,000,000” for “$750,000” in pars. (1) and (2) and “$1,000,000” for “$500,000” in two places in par. (2).
+<b>2010</b>—Subsecs. (a)(2), (b)(1), (2)(A), (B). Pub. L. 111–259, §809(1), (2)(A), (B), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-Subsec. (b)(2). Pub. L. 108–177, §314(b), designated existing provisions as subpar. (A), redesignated formersubpars. (A) to (C) as cls. (i) to (iii), respectively, substituted “7-day period” for “21-day period”, and added subpar. (B).
+Subsec. (b)(3). Pub. L. 111–259, §809(2)(C), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 
-#### Change of Name
+<b>2003</b>—Subsec. (a). Pub. L. 108–177, §314(a), substituted “$5,000,000” for “$750,000” in pars. (1) and (2) and “$1,000,000” for “$500,000” in two places in par. (2).
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.
+Subsec. (b)(2). Pub. L. 108–177, §314(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, substituted “7-day period” for “21-day period”, and added subpar. (B).
 
 #### Definitions
 

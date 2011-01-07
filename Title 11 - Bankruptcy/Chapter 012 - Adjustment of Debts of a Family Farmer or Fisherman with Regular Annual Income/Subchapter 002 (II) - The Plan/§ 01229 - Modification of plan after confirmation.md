@@ -6,7 +6,7 @@
 
 &emsp;(2) extend or reduce the time for such payments; or
 
-&emsp;(3) alter the amount of the distribution to a creditor whose claim is provided for by the plan to the extent necessary to take accountof any payment of such claim other than under the plan.
+&emsp;(3) alter the amount of the distribution to a creditor whose claim is provided for by the plan to the extent necessary to take account of any payment of such claim other than under the plan.
 
 (b)(1) Sections 1222(a), 1222(b), and 1223(c) of this title and the requirements of section 1225(a) of this title apply to any modification under subsection (a) of this section.
 

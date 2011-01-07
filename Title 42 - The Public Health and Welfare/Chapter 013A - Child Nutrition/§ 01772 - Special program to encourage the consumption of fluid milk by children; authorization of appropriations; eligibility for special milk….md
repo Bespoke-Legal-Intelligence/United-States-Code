@@ -6,7 +6,7 @@
 
 (3) For the purposes of this section “United States” means the fifty States, Guam, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, the Commonwealth of the Northern Mariana Islands, and the District of Columbia.
 
-(4) The Secretary shall administer the special milk program provided for by this section to the maximum extent practicable in the same manner as the Secretary administered the specialmilk program provided for by this chapter during the fiscal year ending June 30, 1969.
+(4) The Secretary shall administer the special milk program provided for by this section to the maximum extent practicable in the same manner as the Secretary administered the special milk program provided for by this chapter during the fiscal year ending June 30, 1969.
 
 (5) Any school or nonprofit child care institution which does not participate in a meal service program authorized under this chapter or the Richard B. Russell National School Lunch Act shall receive the special milk program upon its request.
 
@@ -34,11 +34,11 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-1999—Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act” wherever appearing.
+<b>1999</b>—Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act” wherever appearing.
 
-1996—Subsec. (a)(3). Pub. L. 104–193 substituted “the Commonwealth of the Northern Mariana Islands” for “the Trust Territory of the Pacific Islands”.
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–193 substituted “the Commonwealth of the Northern Mariana Islands” for “the Trust Territory of the Pacific Islands”.
 
-1989—Subsec. (a). Pub. L. 101–147, §211(a), amended subsec. (a) as identically amended by Pub. L. 99–591, §329, and Pub. L. 99–661, §4209, to read as if only the amendment by Pub. L. 99–661 was enacted, resulting in no change in text, see 1986 Amendment note below.
+<b>1989</b>—Subsec. (a). Pub. L. 101–147, §211(a), amended subsec. (a) as identically amended by Pub. L. 99–591, §329, and Pub. L. 99–661, §4209, to read as if only the amendment by Pub. L. 99–661 was enacted, resulting in no change in text, see 1986 Amendment note below.
 
 Subsec. (a)(1). Pub. L. 101–147, §321(1), substituted “the Secretary” for “he” before “may deem”.
 
@@ -50,27 +50,27 @@ Subsec. (a)(5). Pub. L. 101–147, §321(4), substituted “its” for “their�
 
 Subsec. (a)(10). Pub. L. 101–147, §211(b), added par. (10).
 
-1986—Subsec. (a). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended subsec. (a) identically, designating existing provisions as pars. (1) and (3) to (9), in par. (1), redesignating former cls. (1) and (2) as subpars. (A) and (B) and inserting “except as provided in paragraph (2),” in subpar. (A), and adding par. (2).
+<b>1986</b>—Subsec. (a). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended subsec. (a) identically, designating existing provisions as pars. (1) and (3) to (9), in par. (1), redesignating former cls. (1) and (2) as subpars. (A) and (B) and inserting “except as provided in paragraph (2),” in subpar. (A), and adding par. (2).
 
-1981—Subsec. (a). Pub. L. 97–35, §813(c)(1), designated existing provisions as subsec. (a).
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §813(c)(1), designated existing provisions as subsec. (a).
 
 Pub. L. 97–35, §807, inserted provisions respecting nonparticipation in a meal service program, and struck out provisions relating to rate of reimbursement per half-pint of milk served to children not eligible for free milk in schools, child care institutions, and summer camps participating in meal service programs under the National School Lunch Act.
 
 Subsec. (b). Pub. L. 97–35, §813(c)(2), added subsec. (b).
 
-1980—Pub. L. 96–499 provided that rate of reimbursement per half-pint of milk, served to children not eligible for free milk in schools, child care institutions, and summer camps participating in meal service programs under the National School Lunch Act and this chapter was to be five cents.
+<b>1980</b>—Pub. L. 96–499 provided that rate of reimbursement per half-pint of milk, served to children not eligible for free milk in schools, child care institutions, and summer camps participating in meal service programs under the National School Lunch Act and this chapter was to be five cents.
 
-1978—Pub. L. 95–627 substituted “Producer Price Index for Fresh Processed Milk” for “series of food away from home of the Consumer Price Index”, and inserted provision relating to eligibility for free milk.
+<b>1978</b>—Pub. L. 95–627 substituted “Producer Price Index for Fresh Processed Milk” for “series of food away from home of the Consumer Price Index”, and inserted provision relating to eligibility for free milk.
 
-1977—Pub. L. 95–166 provided free milk for children when milk is made available at times other than the periods of meal service in outlets that operate a food service program under sections 1753, 1766, and 1773 of this title, and substituted “school years” and “annual basis each school year” for “fiscal years” and “annual basis each fiscal year” and deleted “thereafter, beginning with the fiscal year ending June 30, 1976,” before “to reflect changes”.
+<b>1977</b>—Pub. L. 95–166 provided free milk for children when milk is made available at times other than the periods of meal service in outlets that operate a food service program under sections 1753, 1766, and 1773 of this title, and substituted “school years” and “annual basis each school year” for “fiscal years” and “annual basis each fiscal year” and deleted “thereafter, beginning with the fiscal year ending June 30, 1976,” before “to reflect changes”.
 
-1975—Pub. L. 94–105 added the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands to definition of “United States”, and inserted provision relating to minimum rate of reimbursement to schools and institutions of the cost of milk served to children.
+<b>1975</b>—Pub. L. 94–105 added the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands to definition of “United States”, and inserted provision relating to minimum rate of reimbursement to schools and institutions of the cost of milk served to children.
 
-1974—Pub. L. 93–347 substituted “such sums as may be necessary” for “, not to exceed $120,000,000,” in provision limiting the size of appropriations authorized and inserted provisions setting a minimum rate of reimbursement for a half-pint of milk served in schools and other eligible institutions and allowing for an annual adjustment of the minimum rate.
+<b>1974</b>—Pub. L. 93–347 substituted “such sums as may be necessary” for “, not to exceed $120,000,000,” in provision limiting the size of appropriations authorized and inserted provisions setting a minimum rate of reimbursement for a half-pint of milk served in schools and other eligible institutions and allowing for an annual adjustment of the minimum rate.
 
-1973—Pub. L. 93–150 inserted provisions making any school or nonprofit child care institution eligible to receive the special milk program upon their request and any children that qualify for free lunches under guidelines set forth by the Secretary also eligible for free milk.
+<b>1973</b>—Pub. L. 93–150 inserted provisions making any school or nonprofit child care institution eligible to receive the special milk program upon their request and any children that qualify for free lunches under guidelines set forth by the Secretary also eligible for free milk.
 
-1970—Pub. L. 91–295 substituted provisions authorizing appropriations of not to exceed $120,000,000 for fiscal year ending June 30, 1970, and for each succeeding fiscal year, for provisions authorizing appropriations of not to exceed $110,000,000 for fiscal year ending June 30, 1967, not to exceed $115,000,000 for fiscal year ending June 30, 1968, and not to exceed $120,000,000 for each of two succeeding fiscal years, and provisions requiring Secretary to administer the special milk program provided for by this section in same manner as he administered the special milk program provided for by this chapter during fiscal year ending June 30, 1969, for provisions requiring the Secretary to administer such program in the same manner as he administered the special milk program provided for by Pub. L. 85–478, as amended, during fiscal year ending June 30, 1966, and provided that Guam be subject to provisions of this section.
+<b>1970</b>—Pub. L. 91–295 substituted provisions authorizing appropriations of not to exceed $120,000,000 for fiscal year ending June 30, 1970, and for each succeeding fiscal year, for provisions authorizing appropriations of not to exceed $110,000,000 for fiscal year ending June 30, 1967, not to exceed $115,000,000 for fiscal year ending June 30, 1968, and not to exceed $120,000,000 for each of two succeeding fiscal years, and provisions requiring Secretary to administer the special milk program provided for by this section in same manner as he administered the special milk program provided for by this chapter during fiscal year ending June 30, 1969, for provisions requiring the Secretary to administer such program in the same manner as he administered the special milk program provided for by Pub. L. 85–478, as amended, during fiscal year ending June 30, 1966, andprovided that Guam be subject to provisions of this section.
 
 #### Effective Date of 1986 Amendments
 

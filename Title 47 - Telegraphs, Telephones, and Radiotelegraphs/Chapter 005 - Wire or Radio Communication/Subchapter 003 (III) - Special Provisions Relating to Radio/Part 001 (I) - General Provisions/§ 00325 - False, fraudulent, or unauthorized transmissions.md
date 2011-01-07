@@ -26,7 +26,7 @@ No person within the jurisdiction of the United States shall knowingly utter or 
 
 &emsp;&emsp;(iii) the satellite carrier complies with any network nonduplication, syndicated exclusivity, and sports blackout rules adopted by the Commission under section 339(b) of this title;
 
-&emsp;(C) until February 28, 2010, to retransmission of the signals of network stations directly to a home satellite antenna, if the subscriber receiving the signal—
+&emsp;(C) until December 31, 2014, to retransmission of the signals of network stations directly to a home satellite antenna, if the subscriber receiving the signal—
 
 &emsp;&emsp;(i) is located in an area outside the local market of such stations; and
 
@@ -50,9 +50,9 @@ No person within the jurisdiction of the United States shall knowingly utter or 
 
 &emsp;(i) establish election time periods that correspond with those regulations adopted under subparagraph (B) of this paragraph;
 
-&emsp;(ii) until March 1, 2010, prohibit a television broadcast station that provides retransmission consent from engaging in exclusive contracts for carriage or failing to negotiate in good faith, and it shall not be a failure to negotiate in good faith if the television broadcast station enters into retransmission consent agreements containing different terms and conditions, including price terms, with different multichannel video programming distributors if such different terms and conditions are based on competitive marketplace considerations; and
+&emsp;(ii) until January 1, 2015, prohibit a television broadcast station that provides retransmission consent from engaging in exclusive contracts for carriage or failing to negotiate in good faith, and it shall not be a failure to negotiate in good faith if the television broadcast station enters into retransmission consent agreements containing different terms and conditions, including price terms, with different multichannel video programming distributors if such different terms and conditions are based on competitive marketplace considerations; and
 
-&emsp;(iii) until March 1, 2010, prohibit a multichannel video programming distributor from failing to negotiate in good faith for retransmission consent under this section, and it shall not be a failure to negotiate in good faith if the distributor enters into retransmission consent agreements containing different terms and conditions, including price terms, with different broadcast stations if such different terms and conditions are based on competitive marketplace considerations.
+&emsp;(iii) until January 1, 2015, prohibit a multichannel video programming distributor from failing to negotiate in good faith for retransmission consent under this section, and it shall not be a failure to negotiate in good faith if the distributor enters into retransmission consent agreements containing different terms and conditions, including price terms, with different broadcast stations if such different terms and conditions are based on competitive marketplace considerations.
 
 (4) If an originating television station elects under paragraph (3)(B) to exercise its right to grant retransmission consent under this subsection with respect to a cable system, the provisions of section 534 of this title shall not apply to the carriage of the signal of such station by such cable system. If an originating television station elects under paragraph (3)(C) to exercise its right to grant retransmission consent under this subsection with respect to a satellite carrier, section 338 of this title shall not apply to the carriage of the signal of such station by such satellite carrier.
 
@@ -188,23 +188,39 @@ Such application shall contain such information as the Commission may by regulat
 
 &emsp;No complaint or civil action may be filed under this subsection after December 31, 2001. This subsection shall continue to apply to any complaint or civil action filed on or before such date.
 
-(June 19, 1934, ch. 652, title III, §325, 48 Stat. 1091; Pub. L. 102–385, §6, Oct. 5, 1992, 106 Stat. 1482; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1009\], Nov. 29, 1999, 113 Stat. 1536, 1501A–537; Pub. L. 108–447, div. J, title IX \[title II, §§201, 207(a)\], Dec. 8, 2004, 118 Stat. 3409, 3428; Pub. L. 111–118, div. B, §1003(b), Dec. 19, 2009, 123 Stat. 3469.)
+(June 19, 1934, ch. 652, title III, §325, 48 Stat. 1091; Pub. L. 102–385, §6, Oct. 5, 1992, 106 Stat. 1482; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1009\], Nov. 29, 1999, 113 Stat. 1536, 1501A–537; Pub. L. 108–447, div. J, title IX \[title II, §§201, 207(a)\], Dec. 8, 2004, 118 Stat. 3409, 3428; Pub. L. 111–118, div. B, §1003(b), Dec. 19, 2009, 123 Stat. 3469; Pub. L. 111–144, §10(b), Mar. 2, 2010, 124 Stat. 47; Pub. L. 111–151, §2(b), Mar. 26, 2010, 124 Stat. 1027; Pub. L. 111–157, §9(b), Apr. 15, 2010, 124 Stat. 1119; Pub. L. 111–175, title II, §202, May 27, 2010, 124 Stat. 1245.)
 
 #### Amendments
 
-2009—Subsec. (b)(2)(C). Pub. L. 111–118, §1003(b)(1), substituted “February 28, 2010” for “December 31, 2009” in introductory provisions.
+<b>2010</b>—Subsec. (b)(2)(C). Pub. L. 111–175, §202(1), substituted “December 31, 2014” for “May 31, 2010” in introductory provisions.
+
+Pub. L. 111–157, §9(b)(1), substituted “May 31, 2010” for “April 30, 2010” in introductory provisions.
+
+Pub. L. 111–151, §2(b)(1), substituted “April 30, 2010” for “March 28, 2010” in introductory provisions.
+
+Pub. L. 111–144, §10(b)(1), substituted “March 28, 2010” for “February 28, 2010” in introductory provisions.
+
+Subsec. (b)(3)(C)(ii), (iii). Pub. L. 111–175, §202(2), substituted “January 1, 2015” for “June 1, 2010”.
+
+Pub. L. 111–157, §9(b)(2), substituted “June 1, 2010” for “May 1, 2010”.
+
+Pub. L. 111–151, §2(b)(2), substituted “May 1, 2010” for “March 29, 2010”.
+
+Pub. L. 111–144, §10(b)(2), substituted “March 29, 2010” for “March 1, 2010”.
+
+<b>2009</b>—Subsec. (b)(2)(C). Pub. L. 111–118, §1003(b)(1), substituted “February 28, 2010” for “December 31, 2009” in introductory provisions.
 
 Subsec. (b)(3)(C)(ii), (iii). Pub. L. 111–118, §1003(b)(2), substituted “March 1, 2010” for “January 1, 2010”.
 
-2004—Subsec. (b)(2)(C). Pub. L. 108–447, §201, substituted “December 31, 2009” for “December 31, 2004”.
+<b>2004</b>—Subsec. (b)(2)(C). Pub. L. 108–447, §201, substituted “December 31, 2009” for “December 31, 2004”.
 
-Subsec. (b)(3)(C). Pub. L. 108–447, §207(a)(1), (2), in introductory provisions, substituted “The” for “Within 45 days after November 29, 1999, the” and struck out second sentence which read “The Commission shall complete all actions necessary to prescribe such regulations within 1 year after November 29, 1999.”
+Subsec. (b)(3)(C). Pub. L. 108–447, §207(a)(1), (2), in introductory provisions, substituted “The” for “Within 45 days after November 29, 1999, the” and struck out second sentence which read “The Commission shallcomplete all actions necessary to prescribe such regulations within 1 year after November 29, 1999.”
 
 Subsec. (b)(3)(C)(ii). Pub. L. 108–447, §207(a)(4)(A), substituted “January 1, 2010” for “January 1, 2006”.
 
 Subsec. (b)(3)(C)(iii). Pub. L. 108–447, §207(a)(3), (4)(B), (5), added cl. (iii).
 
-1999—Subsec. (b)(1), (2). Pub. L. 106–113, §1000(a)(9) \[title I, §1009(a)(1)\], amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
+<b>1999</b>—Subsec. (b)(1), (2). Pub. L. 106–113, §1000(a)(9) \[title I, §1009(a)(1)\], amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
 
 “(1) Following the date that is one year after October 5, 1992, no cable system or other multichannel video programming distributor shall retransmit the signal of a broadcasting station, or any part thereof, except—
 
@@ -234,7 +250,11 @@ Subsec. (b)(7). Pub. L. 106–113, §1000(a)(9) \[title I, §1009(a)(5)\], added
 
 Subsec. (e). Pub. L. 106–113, §1000(a)(9) \[title I, §1009(b)\], added subsec. (e).
 
-1992—Subsecs. (b) to (d). Pub. L. 102–385 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+<b>1992</b>—Subsecs. (b) to (d). Pub. L. 102–385 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–175 effective Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as a note under section 111 of Title 17, Copyrights.
 
 #### Effective Date of 1992 Amendment
 
@@ -243,6 +263,14 @@ Section 28 of Pub. L. 102–385 provided that: “Except where otherwise express
 #### Regulations
 
 Pub. L. 108–447, div. J, title IX \[title II, §207(b)\], Dec. 8, 2004, 118 Stat. 3428, provided that: “The Federal Communications Commission shall prescribe regulations to implement the amendment made by subsection (a)(5) \[amending this section\] within 180 days after the date of enactment of this Act \[Dec. 8, 2004\].”
+
+#### Savings Clause Regarding Definitions
+
+Pub. L. 111–175, title II, §208, May 27, 2010, 124 Stat. 1254, provided that: “Nothing in this title \[enacting section 342 of this title, amending this section and sections 335 and 338 to 340 of this title, and enacting provisions set out as notes under sections 338 and 340 of this title\] or the amendments made by this title shall be construed to affect—
+
+&emsp;“(1) the meaning of the terms ‘program related’ and ‘primary video’ under the Communications Act of 1934 \[47 U.S.C. 151 et seq.\]; or
+
+&emsp;“(2) the meaning of the term ‘multicast’ in any regulations issued by the Federal Communications Commission.”
 
 #### Severability
 

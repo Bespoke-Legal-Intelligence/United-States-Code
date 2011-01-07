@@ -125,6 +125,7 @@
 | [794c.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Advocacy/%C2%A7%2000794c%20-%20Interagency%20Disability%20Coordinating%20Council.md) | Interagency Disability Coordinating Council. |
 | [794d.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Advocacy/%C2%A7%2000794d%20-%20Electronic%20and%20information%20technology.md) | Electronic and information technology. |
 | [794e.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Advocacy/%C2%A7%2000794e%20-%20Protection%20and%20advocacy%20of%20individual%20rights.md) | Protection and advocacy of individual rights. |
+| [794f.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Advocacy/%C2%A7%2000794f%20-%20Establishment%20of%20standards%20for%20accessible%20medical%20diagnostic%20equipment.md) | Establishment of standards for accessible medical diagnostic equipment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -158,7 +159,7 @@
 
 #### Part A—Individuals With Significant Disabilities
 
-I74subpart 1—general provisions
+#### subpart 1—general provisions
 
 |  |  |
 | :--- | ---: |

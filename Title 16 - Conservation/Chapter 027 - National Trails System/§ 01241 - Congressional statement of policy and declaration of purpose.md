@@ -10,17 +10,17 @@ The purpose of this chapter is to provide the means for attaining these objectiv
 
 #### (c) Volunteer citizen involvement
 
-The Congress recognizes the valuable contributions that volunteers and private, nonprofit trail groups have made to the development and maintenance of the Nation's trails. In recognition of these contributions, it is further the purpose of this chapter to encourage and assist volunteer citizen involvement in the planning, development, maintenance, and management, where appropriate, of trails.
+The Congress recognizes the valuable contributions that volunteers and private, nonprofittrail groups have made to the development and maintenance of the Nation's trails. In recognition of these contributions, it is further the purpose of this chapter to encourage and assist volunteer citizen involvement in the planning, development, maintenance, and management, where appropriate, of trails.
 
 (Pub. L. 90–543, §2, Oct. 2, 1968, 82 Stat. 919; Pub. L. 95–625, title V, §551(1)–(3), Nov. 10, 1978, 92 Stat. 3511; Pub. L. 98–11, title II, §202, Mar. 28, 1983, 97 Stat. 42.)
 
 #### Amendments
 
-1983—Subsec. (b). Pub. L. 98–11, §202(1), substituted “The” for “the” before “purpose”.
+<b>1983</b>—Subsec. (b). Pub. L. 98–11, §202(1), substituted “The” for “the” before “purpose”.
 
 Subsec. (c). Pub. L. 98–11, §202(2), added subsec. (c).
 
-1978—Subsec. (a). Pub. L. 95–625, §551(1), (2), inserted “the preservation of,” and “and historic resources” after “promote” and “outdoor areas” and substituted “within scenic areas and along historic travel routes of the Nation, which are often more remotely located” for “within established scenic areas more remotely located”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–625, §551(1), (2), inserted “the preservation of,” and “and historic resources” after “promote” and “outdoor areas” and substituted “within scenic areas and along historic travel routes of the Nation, which are often more remotely located” for “within established scenic areas more remotely located”.
 
 Subsec. (b). Pub. L. 95–625, §551(3), substituted “, scenic and historic” for “and scenic”.
 

@@ -10,6 +10,16 @@ Based on title 28, U.S.C., 1940 ed., §321 (Mar. 3, 1911, ch. 231, §215, 36 Sta
 
 Appointment of “judges of the Supreme Court” by the President by and with the advice and consent of the Senate is provided by U.S. Constitution art. 2, §2, cl. 2.
 
+#### Short Title of 2011 Amendment
+
+Pub. L. 111–369, §1, Jan. 4, 2011, 124 Stat. 4068, provided that: “This Act \[amending section 534 of this title\] may be cited as the ‘Access to Criminal History Records for State Sentencing Commissions Act of 2010’.”
+
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–342, §1, Dec. 22, 2010, 124 Stat. 3607, provided that: “This Act \[amending section 2467 of this title\] may be cited as the ‘Preserving Foreign Criminal Assets for Forfeiture Act of 2010’.”
+
+Pub. L. 111–223, §1, Aug. 10, 2010, 124 Stat. 2380, provided that: “This Act \[enacting chapter 181 of this title and provisions set out as a note under section 4101 of this title\] may be cited as the ‘Securing the Protection of our Enduring and Established Constitutional Heritage Act’ or the ‘SPEECH Act’.”
+
 #### Short Title of 2009 Amendment
 
 Pub. L. 111–122, §1, Dec. 22, 2009, 123 Stat. 3480, provided that: “This Act \[enacting section 509B of this title, amending sections 1103 and 1182 of Title 8, Aliens and Nationality, and sections 1091 and 2339A of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 1182 of Title 8\] may be cited as the ‘Human Rights Enforcement Act of 2009’.”
@@ -34,7 +44,7 @@ Pub. L. 109–2, §1(a), Feb. 18, 2005, 119 Stat. 4, provided that: “This Act 
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–273, div. C, title I, §11020(a), Nov. 2, 2002, 116 Stat. 1826, provided that: “This section \[enacting sections 1369, 1697, and 1785 of this title, amending sections 1391 and 1441 of this title, and enacting provisions set out as a note under section 1369 of this title\] maybe cited as the ‘Multiparty, Multiforum Trial Jurisdiction Act of 2002’.”
+Pub. L. 107–273, div. C, title I, §11020(a), Nov. 2, 2002, 116 Stat. 1826, provided that: “This section \[enacting sections 1369, 1697, and 1785 of this title, amending sections 1391 and 1441 of this title, and enacting provisions set out as a note under section 1369 of this title\] may be cited as the ‘Multiparty, Multiforum Trial Jurisdiction Act of 2002’.”
 
 Pub. L. 107–273, div. C, title I, §11041, Nov. 2, 2002, 116 Stat. 1848, provided that: “This subtitle \[subtitle C (§§11041–11044) of title I of div. C of Pub. L. 107–273, enacting chapter 16 of this title, amending sections 331, 332, 372, 375, and 604 of this title, and section 7253 of Title 38, Veterans’ Benefits, and enacting provisions set out as a note under section 351 of this title\] may be cited as the ‘Judicial Improvements Act of 2002’.”
 
@@ -82,7 +92,7 @@ Pub. L. 101–650, title III, §301, Dec. 1, 1990, 104 Stat. 5104, provided that
 
 Pub. L. 101–650, title IV, §401, Dec. 1, 1990, 104 Stat. 5122, provided that: “This title \[amending sections 332, 372, 453, and 2077 of this title and provisions set out in the Appendix to Title 5, Government Organization and Employees, and enacting provisions set out as notes under sections 332 and 372 of this title\] may be cited as the ‘Judicial Discipline and Removal Reform Act of 1990’.”
 
-Pub. L. 101–647, title XXXVI, §3601, Nov. 29, 1990, 104 Stat. 4933, provided that: “This title \[enacting chapter 176 and section 2044 of this title, amending sections 550, 1962, 1963, and 2410 of this title, section 523 of Title 11, Bankruptcy, and sections 3142 and 3552 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 3001 of this title\] may be cited as the ‘Federal Debt Collection Procedures Act of 1990’.”
+Pub. L. 101–647, title XXXVI, §3601, Nov. 29, 1990, 104 Stat. 4933, provided that: “This title \[enacting chapter 176 and section 2044 of this title, amending sections 550,1962, 1963, and 2410 of this title, section 523 of Title 11, Bankruptcy, and sections 3142 and 3552 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 3001 of this title\] may be cited as the ‘Federal Debt Collection Procedures Act of 1990’.”
 
 #### Short Title of 1988 Amendments
 
@@ -90,7 +100,7 @@ Pub. L. 100–702, §1, Nov. 19, 1988, 102 Stat. 4642, provided that: “This Ac
 
 Pub. L. 100–702, title VII, §701, Nov. 19, 1988, 102 Stat. 4654, provided that: “This title \[amending section 1827 of this title and enacting provisions set out as notes under section 1827 of this title\] may be cited as the ‘Court Interpreter Amendments Act of 1988’.”
 
-Pub. L. 100–694, §1, Nov. 18, 1988, 102 Stat. 4563, provided that: “This Act \[enacting section 831c–2 of Title16, Conservation, amending sections 2671, 2674, and 2679 of this title, and enacting provisions set out as notes under sections 2671 and 2679 of this title\] may be cited as the ‘Federal Employees Liability Reform and Tort Compensation Act of 1988’.”
+Pub. L. 100–694, §1, Nov. 18, 1988, 102 Stat. 4563, provided that: “This Act \[enacting section 831c–2 of Title 16, Conservation, amending sections 2671, 2674, and 2679 of this title, and enacting provisions set out as notes under sections 2671 and 2679 of this title\] may be cited as the ‘Federal Employees Liability Reform and Tort Compensation Act of 1988’.”
 
 Pub. L. 100–659, §1, Nov. 15, 1988, 102 Stat. 3910, provided that: “This Act \[enacting section 377 of this title and section 8440a of Title 5, Government Organization and Employees, amending sections 155, 375, 376, 604, 631, and 636 of this title and sections 8334 and 8402 of Title 5, and enacting provisions set out as notes under sections 376 and 377 of this title\] may be cited as the ‘Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988’.”
 
@@ -148,7 +158,7 @@ For short title of Pub. L. 96–82, as the “Federal Magistrate Act of 1979”,
 
 For short title of Pub. L. 95–572 as the “Jury System Improvements Act of 1978”, see section 1 of Pub. L. 95–572, set out as a note under section 1861 of this title.
 
-Pub. L. 95–539, §1, Oct. 28, 1978, 92 Stat. 2040, provided: “That this Act \[enacting sections 1827 and 1828 of this title, amending sections 602 to 604 and 1920 of this title, enacting provisions set out as notes under section 602 of this title, and repealing provisions set out as a note under section 602 of this title\] may be cited as the ‘Court Interpreters Act’.”
+Pub. L. 95–539, §1, Oct. 28, 1978, 92 Stat. 2040, provided: “That this Act \[enacting sections 1827 and 1828 of this title, amending sections 602 to 604 and 1920 of this title, enacting provisions set out as notes under section 602of this title, and repealing provisions set out as a note under section 602 of this title\] may be cited as the ‘Court Interpreters Act’.”
 
 Pub. L. 95–408, §1, Oct. 2, 1978, 92 Stat. 883, provided that: “This Act \[amending sections 89, 93, 97, 98, 104, 112, 114, 133 of this title and enacting provisions set out as a note under section 89 of this title\] may be cited as the ‘Federal District Court Organization Act of 1978’.”
 
@@ -156,7 +166,7 @@ Pub. L. 95–408, §1, Oct. 2, 1978, 92 Stat. 883, provided that: “This Act \[
 
 Pub. L. 94–583, §1, Oct. 21, 1976, 90 Stat. 2891, provided: “That this Act \[enacting sections 1330 and 1602 to 1611 of this title, amending sections 1332, 1391, and 1441 of this title, and enacting provisions set out as notes under section 1602 of this title\] may be cited as the ‘Foreign Sovereign Immunities Act of 1976’.”
 
-Pub. L. 94–554, §1, Oct. 19, 1976, 90 Stat. 2603, provided: “That this Act \[amending section 376 of this title andenacting provisions set out as notes under section 376 of this title\] may be cited as the ‘Judicial Survivors’ Annuities Reform Act’.”
+Pub. L. 94–554, §1, Oct. 19, 1976, 90 Stat. 2603, provided: “That this Act \[amending section 376 of this title and enacting provisions set out as notes under section 376 of this title\] may be cited as the ‘Judicial Survivors’ Annuities Reform Act’.”
 
 #### Short Title of 1970 Amendment
 

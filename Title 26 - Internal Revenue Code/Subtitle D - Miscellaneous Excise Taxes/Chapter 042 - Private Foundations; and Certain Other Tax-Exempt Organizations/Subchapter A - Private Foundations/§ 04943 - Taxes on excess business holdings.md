@@ -44,7 +44,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the private foundation and all disqualified persons together do not own more than 35 percent of the voting stock of an incorporated business enterprise, and
 
-&emsp;&emsp;&emsp;(ii) it is established to the satisfaction of the Secretary that effective control of the corporation is in one or more persons who are not disqualified persons with respect to the foundation,
+&emsp;&emsp;&emsp;(ii) it is established to the satisfaction of the Secretary that effective control of the corporation is in one or more persons whoare not disqualified persons with respect to the foundation,
 
 > &emsp;&emsp;then subparagraph (A) shall be applied by substituting 35 percent for 20 percent.
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 &emsp;(iii) For purposes of this subparagraph, the term “second phase” means the 15-year period immediately following the 20-year, 15-year, or 10-year period described in subparagraph (B), whichever applies, as modified by subparagraph (C).
 
-&emsp;(E) Clause (ii) of subparagraph (B) shall not apply with respect to any business enterprise if before January 1, 1971, one or more individuals who are substantial contributors (or members of the family (within the meaning of section 4946(d)) of one or more substantial contributors) to the private foundation and who on May 26, 1969, held more than 15 percent of the voting stock of the enterprise elect, in such manner as the Secretary may by regulations prescribe, not to have such clause (ii) apply with respect to such enterprise.
+&emsp;(E) Clause (ii) of subparagraph (B) shall not apply with respect to any business enterpriseif before January 1, 1971, one or more individuals who are substantial contributors (or members of the family (within the meaning of section 4946(d)) of one or more substantial contributors) to the private foundation and who on May 26, 1969, held more than 15 percent of the voting stock of the enterprise elect, in such manner as the Secretary may by regulations prescribe, not to have such clause (ii) apply with respect to such enterprise.
 
 #### (5) Holdings acquired by trust or will
 
@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (7) 5-year extension of period to dispose of certain large gifts and bequests
 
-&emsp;The Secretary may extend for an additional 5-year period the period under paragraph (6)for disposing of excess business holdings in the case of an unusually large gift or bequest of diverse business holdings or holdings with complex corporate structures if—
+&emsp;The Secretary may extend for an additional 5-year period the period under paragraph (6) for disposing of excess business holdings in the case of an unusually large gift or bequest of diverse business holdings or holdings with complex corporate structures if—
 
 &emsp;&emsp;(A) the foundation establishes that—
 
@@ -242,7 +242,7 @@ For purposes of this section—
 
 #### (A) Type III supporting organization
 
-&emsp;&emsp;The term “type III supporting organization” means an organization which meets the requirements of subparagraphs (A) and (C) of section 509(a)(3) and which is operated in connection with one or more organizations described in paragraph (1) or (2) of section 509(a).
+&emsp;&emsp;The term “type III supporting organization” means an organization which meets the requirements of subparagraphs (A) and\(C) of section 509(a)(3) and which is operated in connection with one or more organizations described in paragraph (1) or (2) of section 509(a).
 
 #### (B) Functionally integrated type III supporting organization
 
@@ -272,13 +272,13 @@ Sections 1212(c), 1233(a), and 1243(a) of Pub. L. 109–280, which directed the 
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–280, §1212(c), substituted “10 percent” for “5 percent”. See Codification note above.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–280, §1212(c), substituted “10 percent” for “5 percent”. See Codification note above.
 
 Subsec. (e). Pub. L. 109–280, §1233(a), added subsec. (e). See Codification note above.
 
 Subsec. (f). Pub. L. 109–280, §1243(a), added subsec. (f). See Codification note above.
 
-1984—Subsec. (c)(4)(A)(ii). Pub. L. 98–369, §308(a), substituted “For purposes of the preceding sentence, any decrease in percentage holdings attributable to issuances of stock (or to issuances of stock coupled with redemptions of stock) shall be disregarded so long as (I) the net percentage decrease disregarded under this sentence does not exceed 2 percent, and (II) the number of shares held by the foundation is not affected by any such issuance or redemption” for “For purposes of this clause, any decrease in percentage holdings attributable to issuances of stock (or to issuances of stock coupled with redemptions of stock) shall be determined only as of the close of each taxable year of the private foundation unless the aggregate of the percentage decreases attributable to the issuances of stock (or such issuances and redemptions) during such taxable year equals or exceeds 1 percent”.
+<b>1984</b>—Subsec. (c)(4)(A)(ii). Pub. L. 98–369, §308(a), substituted “For purposes of the preceding sentence, any decrease in percentage holdings attributable to issuances of stock (or to issuances of stock coupled with redemptions of stock) shall be disregarded so long as (I) the net percentage decrease disregarded under this sentence does not exceed 2 percent, and (II) the number of shares held by the foundation is not affected by any such issuance or redemption” for “For purposes of this clause, any decrease in percentage holdings attributable to issuances of stock (or to issuances of stock coupled with redemptions of stock) shall be determined only as of the close of each taxable year of the private foundation unless the aggregate of the percentage decreases attributable to the issuances of stock (or such issuances and redemptions) during such taxable year equals or exceeds 1 percent”.
 
 Subsec. (c)(4)(B)(i). Pub. L. 98–369, §309(a), substituted “the private foundation and all disqualified persons have” for “the private foundation has”.
 
@@ -288,13 +288,13 @@ Subsec. (c)(7). Pub. L. 98–369, §307(a), added par. (7).
 
 Subsec. (d)(4). Pub. L. 98–369, §314(c)(1), added par. (4).
 
-1980—Subsec. (b). Pub. L. 96–596, §2(a)(1)(D), substituted “taxable period” for “correction period”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–596, §2(a)(1)(D), substituted “taxable period” for “correction period”.
 
 Subsec. (d)(2). Pub. L. 96–596, §2(a)(2)(C), substituted provision ending the taxable period on the earlier of the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (a) of this section under section 6212 of this title in respect to such holdings or the date on which the tax imposed by subsec. (a) of this section in respect to such holdings is assessed for provision ending the taxable period on the date of mailing the notice of deficiency with respect to a tax imposed by subsec. (a) of this section under section 6212 of this title in respect to such holdings.
 
 Subsec. (d)(3), (4). Pub. L. 96–596, §2(a)(3)(C), (4)(B), redesignated par. (4) as (3), and in subpar. (A) of par. (3) as so redesignated, substituted “section 4942(j)(4)” for “section 4942(j)(5)”, and struck out par. (3), which defined correction period, with respect to excess business holdings of a private foundation in a business enterprise, as the period ending 90 days after the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (b) of this section under section 6212 of this title, extended by any period in which a deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines is reasonable and necessary to permit orderly disposition of such excess business holdings.
 
-1976—Subsecs. (c), (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (c), (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 2006 Amendment
 

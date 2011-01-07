@@ -28,7 +28,7 @@ Provisions similar to those in this section were contained in section 560 of thi
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–337, §541(b)(4)(A), struck out “of the military department” after “The Secretary” in introductory provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §541(b)(4)(A), struck out “of the military department” after “The Secretary” in introductory provisions.
 
 Subsec. (e). Pub. L. 103–337, §541(b)(4)(B), struck out “of the military department” after “submitted to the Secretary”.
 

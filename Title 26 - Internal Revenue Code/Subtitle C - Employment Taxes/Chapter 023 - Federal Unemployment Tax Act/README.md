@@ -18,11 +18,11 @@
 
 #### Amendments
 
-1976—Pub. L. 94–566, title I, §115(c)(4), Oct. 20, 1976, 90 Stat. 2671, substituted “services performed for nonprofit organizations or governmental entities” for “certain services performed for nonprofit organizations and for State hospitals and institutions of higher education” in item 3309.
+<b>1976</b>—Pub. L. 94–566, title I, §115(c)(4), Oct. 20, 1976, 90 Stat. 2671, substituted “services performed for nonprofit organizations or governmental entities” for “certain services performed for nonprofit organizations and for State hospitals and institutions of higher education” in item 3309.
 
-1970—Pub. L. 91–373, title I, §§104(b)(2), 131(b)(3), Aug. 10, 1970, 84 Stat. 699, 705, added items 3309 and 3310 and redesignated former item 3309 as 3311.
+<b>1970</b>—Pub. L. 91–373, title I, §§104(b)(2), 131(b)(3), Aug. 10, 1970, 84 Stat. 699, 705, added items 3309 and 3310 and redesignated former item 3309 as 3311.
 
-1960—Pub. L. 86–778, title V, §531(d)(2), Sept. 13, 1960, 74 Stat. 984, added item 3308 and redesignated former item 3308 as 3309.
+<b>1960</b>—Pub. L. 86–778, title V, §531(d)(2), Sept. 13, 1960, 74 Stat. 984, added item 3308 and redesignated former item 3308 as 3309.
 
 
 ---

@@ -42,7 +42,7 @@ In subsec. (f), “section 3324(a) and (b) of title 31” substituted for “sec
 
 #### Amendments
 
-1970—Subsec. (f). Pub. L. 91–375 substituted “section 3204 of title 39” for “section 4154 of title 39”.
+<b>1970</b>—Subsec. (f). Pub. L. 91–375 substituted “section 3204 of title 39” for “section 4154 of title 39”.
 
 #### Effective Date of 1970 Amendment
 

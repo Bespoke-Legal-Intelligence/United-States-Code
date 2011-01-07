@@ -2,7 +2,7 @@
 
 (a)
 
-Required Coordination and Sharing of Health Care Resources.—The Secretary of Veterans Affairs and the Secretary of Defense shall enter into agreements and contracts for the mutually beneficial coordination, use, or exchange of use of the health care resources of the Department of Veterans Affairs and the Department of Defense with the goal of improving the access to, and quality and cost effectiveness of, the health care provided by the Veterans Health Administration and the Military Health System to the beneficiaries of both Departments.
+Required Coordination and Sharing of Health Care Resources.—The Secretary of Veterans Affairs and the Secretary of Defenseshall enter into agreements and contracts for the mutually beneficial coordination, use, or exchange of use of the health care resources of the Department of Veterans Affairs and the Department of Defense with the goal of improving the access to, and quality and cost effectiveness of, the health care provided by the Veterans Health Administration and the Military Health System to the beneficiaries of both Departments.
 
 (b)
 
@@ -50,7 +50,7 @@ Guidelines and Policies for Implementation of Coordination and Sharing Recommend
 
 (F) Each proposal for an agreement under this paragraph shall be effective (i) on the 46th day after the receipt of such proposal by the Committee, unless earlier disapproved, or (ii) if earlier approved by the Committee, on the date of such approval.
 
-(G) Any funds received through such a uniform payment and reimbursement schedule shall be credited to funds that have been allotted to the facility of either Department that provided the care or services, or is due the funds from, any such agreement.
+(G) Any funds received through such a uniform payment and reimbursement schedule shall be credited to funds that have been allotted to the facility of either Department that provided thecare or services, or is due the funds from, any such agreement.
 
 (f)
 
@@ -122,9 +122,9 @@ Provisions similar to those comprising this section were contained in former sec
 
 #### Amendments
 
-2009—Subsec. (d)(3). Pub. L. 111–84 substituted “September 30, 2015” for “September 30, 2010”.
+<b>2009</b>—Subsec. (d)(3). Pub. L. 111–84 substituted “September 30, 2015” for “September 30, 2010”.
 
-2006—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2006</b>—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Subsec. (b)(1). Pub. L. 109–461, §1004(a)(6), substituted “into the strategic plan of each Department under section 306 of title 5 and the performance plan of each Department under section 1115 of title 31” for “into the strategic and performance plan of each Department under the Government Performance and Results Act of 1993”.
 
@@ -146,9 +146,9 @@ Subsec. (e)(2). Pub. L. 109–461, §1004(a)(7)(B), struck out “shall be imple
 
 Pub. L. 109–444, §8(a)(7)(B), which struck out “shall be implemented no later than October 1, 2003, and” after “Such schedule” in second sentence and “, following implementation of the schedule,” after “The two Secretaries” in third sentence, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
-2004—Subsec. (d)(2). Pub. L. 108–422 inserted “and shall be available for any purpose authorized by this section” before period at end.
+<b>2004</b>—Subsec. (d)(2). Pub. L. 108–422 inserted “and shall be available for any purpose authorized by this section” before period at end.
 
-2003—Subsec. (b)(2). Pub. L. 108–136, §583(b)(2)(A), substituted “the Department of Veterans Affairs-Department of Defense Joint Executive Committee under section 320 of this title” for “the interagency committee provided for under subsection (c)”.
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–136, §583(b)(2)(A), substituted “the Department of Veterans Affairs-Department of Defense Joint Executive Committee under section 320 of this title” for “the interagency committee provided for under subsection (c)”.
 
 Subsec. (c). Pub. L. 108–136, §583(b)(1), struck out subsec. (c) which related to establishment of Department of Veterans Affairs-Department of Defense Health Executive Committee.
 
@@ -164,21 +164,21 @@ Subsec. (f)(2)(B), (C). Pub. L. 108–136, §583(b)(2)(D), added subpars. (B) an
 
 Subsec. (f)(3), (4)(A), (B), (5). Pub. L. 108–136, §583(c), inserted “(Public Law 107–314)” after “for Fiscal Year 2003”.
 
-2002—Pub. L. 107–314 amended section catchline and text generally. Prior to amendment, text related to agreements and contracts for mutual use or exchange of use of hospital and domiciliary facilities and other resources by the Secretary of Veterans Affairs and the Secretary of the Army, the Secretary of the Air Force, and the Secretary of the Navy and provided for establishment of the Department/Department of Defense Health-Care Resources Sharing Committee.
+<b>2002</b>—Pub. L. 107–314 amended section catchline and text generally. Prior to amendment, text related to agreements and contracts for mutual use or exchange of use of hospital and domiciliary facilities and other resources by the Secretary of Veterans Affairs and the Secretary of the Army, the Secretary of the Air Force, and the Secretary of the Navy and provided for establishment of the Department/Department of Defense Health-Care Resources Sharing Committee.
 
 Subsec. (g)(4). Pub. L. 107–135, §208(e)(6)(A), inserted “services under sections 1782 and 1783 of this title” after “of this title,”.
 
 Subsec. (g)(5). Pub. L. 107–135, §208(e)(6)(B), substituted “section 1782, 1783, or 1784” for “section 1711(b) or 1713”.
 
-1994—Subsec. (b)(2). Pub. L. 103–446, §1201(g)(8)(A), in concluding provisions, substituted “During odd-numbered fiscal years” for “During fiscal years 1982 and 1983” and “During even-numbered fiscal years” for “During fiscal year 1984” and struck out after third sentence “Thereafter, the chairmanship of the Committee shall alternate each fiscal year between the Under Secretary for Health and the Assistant Secretary.”
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–446, §1201(g)(8)(A), in concluding provisions, substituted “During odd-numbered fiscal years” for “During fiscal years 1982 and 1983” and “During even-numbered fiscal years” for “During fiscal year 1984” and struck out after third sentence “Thereafter, the chairmanship of the Committee shall alternate each fiscal year between the Under Secretary for Health and the Assistant Secretary.”
 
 Subsec. (b)(4). Pub. L. 103–446, §1201(g)(8)(B), substituted “At such times as” for “Within nine months of the date of the enactment of this subsection and at such times thereafter as”.
 
 Subsec. (f)(6). Pub. L. 103–446, §1201(i)(10), inserted “of Defense” after second reference to “Secretary”.
 
-1992—Subsecs. (b)(2), (d)(5), (e). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
+<b>1992</b>—Subsecs. (b)(2), (d)(5), (e). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 5011 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 5011 of this title as this section.
 
 Pub. L. 102–83, §4(a)(3), (4), substituted “Sharing of Department” for “Sharing of Veterans’ Administration” in section catchline.
 
@@ -202,9 +202,9 @@ Subsec. (g). Pub. L. 102–83, §5(c)(1), substituted “1701” for “601” i
 
 Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-1983—Subsec. (f). Pub. L. 97–452 substituted “section 1105 of title 31” for “section 201(a) of the Budget and Accounting Act, 1921 (31 U.S.C. 11(a))”.
+<b>1983</b>—Subsec. (f). Pub. L. 97–452 substituted “section 1105 of title 31” for “section 201(a) of the Budget and Accounting Act, 1921 (31 U.S.C. 11(a))”.
 
-1982—Pub. L. 97–174, §3(b)(1), substituted “Sharing of Veterans’ Administration and Department of Defense health-care resources” for “Use of Armed Forces facilities” in section catchline.
+<b>1982</b>—Pub. L. 97–174, §3(b)(1), substituted “Sharing of Veterans’ Administration and Department of Defense health-care resources” for “Use of Armed Forces facilities” in section catchline.
 
 Subsec. (a). Pub. L. 97–174, §3(a)(1), (2), designated existing provisions as subsec. (a) and substituted “material, and other resources as may be needed to operate such facilities properly, except that the Administrator may not enter into an agreement that would result (1) in a permanent reduction in the total number of authorized Veterans’ Administration hospital beds and nursing home beds to a level below the minimum number of such beds required by section 5010(a)(1) of this title to be authorized, or (2) in a permanent reduction in the total number of such beds operated and maintained to a level below the minimum number of such beds required by such section to be operated and maintained” for “and material as may be needed to operate such facilities properly, or for the transfer, without reimbursement of appropriations, of facilities, supplies, equipment, or material necessary and proper for authorized care for veterans, except that at no time shall the Administrator enter into any agreement which will result in a permanent reduction of Veterans’ Administration hospital and domiciliary beds below the number established or approved on June 22, 1944, plus the estimated number required to meet the load of eligibles under this title,”.
 

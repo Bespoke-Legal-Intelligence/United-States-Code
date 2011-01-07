@@ -128,13 +128,13 @@ The date of enactment of this paragraph, referred to in subsec. (c)(6)(A), is th
 
 #### Amendments
 
-2004—Subsec. (c)(4). Pub. L. 108–458, §4012(a)(2)(A), substituted “paragraphs (5) and (6),” for “paragraph (5),”.
+<b>2004</b>—Subsec. (c)(4). Pub. L. 108–458, §4012(a)(2)(A), substituted “paragraphs (5) and (6),” for “paragraph (5),”.
 
 Subsec. (c)(6). Pub. L. 108–458, §4012(a)(2)(B), added par. (6).
 
-2001—Subsec. (c). Pub. L. 107–71 which directed the addition of subsec. (c) to section 44909, without specifying the Code title to be amended, was executed by making the addition to this section, to reflect the probable intent of Congress.
+<b>2001</b>—Subsec. (c). Pub. L. 107–71 which directed the addition of subsec. (c) to section 44909, without specifying the Code title to be amended, was executed by making the addition to this section, to reflect the probable intent of Congress.
 
-2000—Subsec. (a)(2). Pub. L. 106–181 substituted “should” for “shall” in introductory provisions.
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–181 substituted “should” for “shall” in introductory provisions.
 
 #### Effective Date of 2000 Amendment
 

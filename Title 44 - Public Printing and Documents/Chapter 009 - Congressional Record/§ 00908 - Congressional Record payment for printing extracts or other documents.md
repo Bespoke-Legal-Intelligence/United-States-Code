@@ -10,5 +10,5 @@ Based on 44 U.S. Code, 1964 ed., §163 (Mar. 4, 1911, ch. 285, §1, 36 Stat. 144
 
 #### Amendments
 
-1996—Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives” for “Sergeant at Arms of the House”.
+<b>1996</b>—Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives” for “Sergeant at Arms of the House”.
 

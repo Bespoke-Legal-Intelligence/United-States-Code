@@ -12,7 +12,7 @@ In this chapter, the term “short sea transportation” means the carriage by v
 
 &emsp;&emsp;(A) loaded at a port in the United States and unloaded either at another port in the United States or at a port in Canada located in the Great Lakes Saint Lawrence Seaway System; or
 
-&emsp;&emsp;(B) loaded at a port in Canada located in the Great Lakes Saint Lawrence SeawaySystem and unloaded at a port in the United States.
+&emsp;&emsp;(B) loaded at a port in Canada located in the Great Lakes Saint Lawrence Seaway System and unloaded at a port in the United States.
 
 (Added Pub. L. 110–140, title XI, §1121(a), Dec. 19, 2007, 121 Stat. 1761.)
 

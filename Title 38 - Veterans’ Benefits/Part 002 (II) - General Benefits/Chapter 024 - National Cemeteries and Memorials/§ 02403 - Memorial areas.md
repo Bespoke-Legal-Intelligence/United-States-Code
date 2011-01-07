@@ -24,17 +24,17 @@ For cemeteries under the control of the National Cemetery Administration, referr
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–368, §401(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Under regulations prescribed by the Secretary, appropriate memorials or markers shall be erected to honor the memory of those individuals, or group of individuals, referred to in subsection (a) of this section.”
+<b>1998</b>—Subsec. (b). Pub. L. 105–368, §401(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Under regulations prescribed by the Secretary, appropriate memorials or markers shall be erected to honor the memory of those individuals, or group of individuals, referred to in subsection (a) of this section.”
 
 Subsec. (c). Pub. L. 105–368, §403(c)(6), substituted “under the control of the National Cemetery Administration” for “in the National Cemetery System created by this chapter”.
 
-1991—Pub. L. 102–83 renumbered section 1003 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1003 of this title as this section.
 
-1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1982—Subsec. (c). Pub. L. 97–295 substituted “chapter” for “Act” after “created by this”.
+<b>1982</b>—Subsec. (c). Pub. L. 97–295 substituted “chapter” for “Act” after “created by this”.
 
-1981—Subsec. (a). Pub. L. 97–66 substituted provisions relating to members of the Armed Forces and veterans, for provisions that related only to members of the Armed Forces, struck out provisions limiting the subsection to persons who died or were killed while serving in the Armed Forces, and inserted provisions relating to persons whose remains have not been recovered, whose remains were donated to science, or whose remains were cremated and the ashes scattered without interment of any portion of the ashes.
+<b>1981</b>—Subsec. (a). Pub. L. 97–66 substituted provisions relating to members of the Armed Forces and veterans, for provisions that related only to members of the Armed Forces, struck out provisions limiting the subsection to persons who died or were killed while serving in the Armed Forces, and inserted provisions relating to persons whose remains have not been recovered, whose remains were donated to science, or whose remains were cremated and the ashes scattered without interment of any portion of the ashes.
 
 #### Effective Date of 1981 Amendment
 

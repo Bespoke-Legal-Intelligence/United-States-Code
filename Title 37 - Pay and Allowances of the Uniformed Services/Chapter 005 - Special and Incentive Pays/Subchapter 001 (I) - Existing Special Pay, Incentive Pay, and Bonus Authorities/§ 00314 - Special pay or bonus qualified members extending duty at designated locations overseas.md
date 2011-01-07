@@ -32,7 +32,7 @@ Repayment.—A member who, having entered into a written agreement to extend a t
 
 Effect of Rest and Recuperative Absence.—A member who elects to receive one of the benefits specified in section 705(b) of title 10 as part of the extension of a tour of duty is not entitled to the special pay authorized by subsection (b)(1) for the period of the extension of duty for which the benefit under such section is provided.
 
-(Added Pub. L. 96–579, §5(a)(1), Dec. 23, 1980, 94 Stat. 3366; amended Pub. L. 99–145, title VI, §641(a), Nov. 8, 1985, 99 Stat. 652; Pub. L. 105–85, div. A, title VI, §625(a)(1), Nov. 18, 1997, 111 Stat. 1794; Pub. L. 107–314, div. A, title VI, §654(b)(1), Dec. 2, 2002, 116 Stat. 2582; Pub. L. 108–136, div. A, title VI, §621(a)(1), (2)(A), Nov. 24, 2003, 117 Stat. 1505; Pub. L. 109–163, div. A, title VI, §687(b)(23), Jan. 6, 2006, 119 Stat. 3331.)
+(Added Pub. L. 96–579, §5(a)(1), Dec. 23, 1980, 94 Stat. 3366; amended Pub. L. 99–145, title VI,§641(a), Nov. 8, 1985, 99 Stat. 652; Pub. L. 105–85, div. A, title VI, §625(a)(1), Nov. 18, 1997, 111 Stat. 1794; Pub. L. 107–314, div. A, title VI, §654(b)(1), Dec. 2, 2002, 116 Stat. 2582; Pub. L. 108–136, div. A, title VI, §621(a)(1), (2)(A), Nov. 24, 2003, 117 Stat. 1505; Pub. L. 109–163, div. A, title VI, §687(b)(23), Jan. 6, 2006, 119 Stat. 3331.)
 
 #### References in Text
 
@@ -40,17 +40,17 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–163 amended heading and text of subsec. (d) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when member receives bonus payment but fails to complete agreed upon extended tour of duty.
+<b>2006</b>—Subsec. (d). Pub. L. 109–163 amended heading and text of subsec. (d) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when member receives bonus payment but fails to complete agreed upon extended tour of duty.
 
-2003—Pub. L. 108–136, §621(a)(2)(A), substituted “qualified members” for “qualified enlisted members” in section catchline.
+<b>2003</b>—Pub. L. 108–136, §621(a)(2)(A), substituted “qualified members” for “qualified enlisted members” in section catchline.
 
 Subsecs. (a), (b). Pub. L. 108–136, §621(a)(1), substituted “a member” for “an enlisted member” in introductory provisions.
 
-2002—Subsec. (a)(3). Pub. L. 107–314 substituted “the continental United States” for “the 48 contiguous States and the District of Columbia”.
+<b>2002</b>—Subsec. (a)(3). Pub. L. 107–314 substituted “the continental United States” for “the 48 contiguous States and the District of Columbia”.
 
-1997—Pub. L. 105–85 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) and (b) relating to special pay for qualified enlisted members extending duty at designated locations overseas.
+<b>1997</b>—Pub. L. 105–85 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) and (b) relating to special pay for qualified enlisted members extending duty at designated locations overseas.
 
-1985—Subsec. (a). Pub. L. 99–145 substituted “$80” for “$50” in provision following par. (4).
+<b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted “$80” for “$50” in provision following par. (4).
 
 #### Effective Date of 1997 Amendment
 
@@ -62,7 +62,7 @@ Section 641(b) of Pub. L. 99–145 provided that: “The amendment made by subse
 
 #### Effective Date
 
-Section 5(c)(1) of Pub. L. 96–579 provided: “Section 314 of title 37, United States Code, as added by subsection (a), shall take effect on the first day of the first month following the month in which this section is enacted \[Dec. 1980\] and shall apply to periods of extended duty overseas beginning before, on, or after such date, butno payment may be made under such section for any month before the first day of the first month following the month in which this section is enacted.”
+Section 5(c)(1) of Pub. L. 96–579 provided: “Section 314 of title 37, United States Code, as added by subsection (a), shall take effect on the first day of the first month following the month in which this section is enacted \[Dec. 1980\] and shall apply to periods of extended duty overseas beginning before, on, or after such date, but no payment may be made under such section for any month before the first day of the first month following the month in which this section is enacted.”
 
 #### Savings Provision
 

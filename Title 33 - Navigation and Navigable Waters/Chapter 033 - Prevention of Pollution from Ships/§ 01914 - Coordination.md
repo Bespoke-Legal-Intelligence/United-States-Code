@@ -46,11 +46,11 @@ Section was enacted as part of the Marine Plastic Pollution Research and Control
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–449, §5(a)(1), added subsec. (a) and struck out former subsec. (a). Text read as follows: “The Secretary of Commerce shall establish a Marine Debris Coordinating Committee.”
+<b>2006</b>—Subsec. (a). Pub. L. 109–449, §5(a)(1), added subsec. (a) and struck out former subsec. (a). Text read as follows: “The Secretary of Commerce shall establish a Marine Debris Coordinating Committee.”
 
 Subsec. (c). Pub. L. 109–449, §5(a)(2), inserted “public, interagency” before “forum”.
 
-1996—Pub. L. 104–324 amended section generally. Prior to amendment, section read as follows: “Not later than September 30, 1988, the Secretary of Commerce shall submit to the Congress a report on the effects of plastic materials on the marine environment. The report shall—
+<b>1996</b>—Pub. L. 104–324 amended section generally. Prior to amendment, section read as follows: “Not later than September 30, 1988, the Secretary of Commerce shall submit to the Congress a report on the effects of plastic materials on the marine environment. The report shall—
 
 &emsp;“(1) identify and quantify the harmful effects of plastic materials on the marine environment;
 

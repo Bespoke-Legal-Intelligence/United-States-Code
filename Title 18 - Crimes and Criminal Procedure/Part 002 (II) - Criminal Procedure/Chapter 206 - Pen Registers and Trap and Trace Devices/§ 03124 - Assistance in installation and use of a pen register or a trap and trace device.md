@@ -32,15 +32,15 @@ The Communications Assistance for Law Enforcement Act, referred to in subsec. (f
 
 #### Amendments
 
-2001—Subsec. (b). Pub. L. 107–56, §216(c)(6), inserted “or other facility” after “the appropriate line”.
+<b>2001</b>—Subsec. (b). Pub. L. 107–56, §216(c)(6), inserted “or other facility” after “the appropriate line”.
 
 Subsec. (d). Pub. L. 107–56, §216(c)(5), struck out “the terms of” before “a court order”.
 
-1994—Subsec. (f). Pub. L. 103–414 added subsec. (f).
+<b>1994</b>—Subsec. (f). Pub. L. 103–414 added subsec. (f).
 
-1990—Subsec. (b). Pub. L. 101–647 substituted “section 3123(b)” for “subsection 3123(b)”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–647 substituted “section 3123(b)” for “subsection 3123(b)”.
 
-1988—Subsec. (b). Pub. L. 100–690, §§7040, 7092(d), inserted “, pursuant to subsection 3123(b) or section 3125 of this title,” after “shall be furnished” and “order” after last reference to “court”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–690, §§7040, 7092(d), inserted “, pursuant to subsection 3123(b) or section 3125 of this title,” after “shall be furnished” and “order” after last reference to “court”.
 
 Subsec. (d). Pub. L. 100–690, §7092(b)(1), inserted “or request pursuant to section 3125 of this title” after “this chapter”.
 

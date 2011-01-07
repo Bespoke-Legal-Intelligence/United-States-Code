@@ -22,15 +22,15 @@ The Child Soldiers Prevention Act of 2008, referred to in subsec. (c), is title 
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–457 added subsec. (c).
+<b>2008</b>—Subsec. (c). Pub. L. 110–457 added subsec. (c).
 
-2006—Subsec. (a). Pub. L. 109–164 inserted “, the Director of the Office to Monitor and Combat Trafficking,” after “section 6411(b) of this title” in introductory provisions and added par. (3).
+<b>2006</b>—Subsec. (a). Pub. L. 109–164 inserted “, the Director of the Office to Monitor and Combat Trafficking,” after “section 6411(b) of this title” in introductory provisions and added par. (3).
 
-2002—Subsec. (a). Pub. L. 107–132 inserted “George P. Shultz” after “director of the” in introductory provisions.
+<b>2002</b>—Subsec. (a). Pub. L. 107–132 inserted “George P. Shultz” after “director of the” in introductory provisions.
 
-1998—Pub. L. 105–292, §602(b), designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1998</b>—Pub. L. 105–292, §602(b), designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–457 effective 180 days after Dec. 23, 2008, see section 407 of Pub. L. 110–457, set outas an Effective Date note under section 2370c of this title.
+Amendment by Pub. L. 110–457 effective 180 days after Dec. 23, 2008, see section 407 of Pub. L. 110–457, set out as an Effective Date note under section 2370c of this title.
 

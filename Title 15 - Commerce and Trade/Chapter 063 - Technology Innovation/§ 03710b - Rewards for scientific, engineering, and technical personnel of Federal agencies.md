@@ -1,6 +1,6 @@
 ### §3710b. Rewards for scientific, engineering, and technical personnel of Federal agencies
 
-The head of each Federal agency that is making expenditures at a rate of more than $50,000,000 per fiscal year for research and development in its Government-operated laboratories shall use the appropriate statutory authority to develop and implement a cash awards program to reward its scientific, engineering, and technical personnel for—
+The head of each Federal agency that is making expenditures at a rate of more than$50,000,000 per fiscal year for research and development in its Government-operated laboratories shall use the appropriate statutory authority to develop and implement a cash awards program to reward its scientific, engineering, and technical personnel for—
 
 &emsp;(1) inventions, innovations, computer software, or other outstanding scientific or technological contributions of value to the United States due to commercial application or due to contributions to missions of the Federal agency or the Federal government,<sup>1</sup> or
 
@@ -10,7 +10,7 @@ The head of each Federal agency that is making expenditures at a rate of more th
 
 #### Amendments
 
-1988—Par. (1). Pub. L. 100–519 inserted “computer software,” after “inventions, innovations,”.
+<b>1988</b>—Par. (1). Pub. L. 100–519 inserted “computer software,” after “inventions, innovations,”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -28,11 +28,11 @@ Reimbursement for License Fees.—In any case in which it is necessary for a mem
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–375 inserted “who is a dependent” after “covered beneficiary” and substituted “shall pay the charges prescribed by section 1078 of this title.” for “shall pay—
+<b>2004</b>—Subsec. (c). Pub. L. 108–375 inserted “who is a dependent” after “covered beneficiary” and substituted “shall pay the charges prescribed by section 1078 of this title.” for “shall pay—
 
 &emsp;“(1) in the case of a dependent, the charges prescribed by section 1078 of this title; and
 
 &emsp;“(2) in the case of a member or former member entitled to retired or retainer pay, the charges prescribed by section 1075 of this title.”
 
-1994—Subsec. (d). Pub. L. 103–337 added subsec. (d).
+<b>1994</b>—Subsec. (d). Pub. L. 103–337 added subsec. (d).
 

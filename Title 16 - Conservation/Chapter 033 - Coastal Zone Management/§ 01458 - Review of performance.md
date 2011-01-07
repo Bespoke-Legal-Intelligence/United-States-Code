@@ -16,13 +16,13 @@ In evaluating a coastal state's performance, the Secretary shall conduct the eva
 
 &emsp;(A) written specifications and a schedule for the actions that should be taken by the State in order that such suspension of financial assistance may be withdrawn; and
 
-&emsp;(B) written specifications stating how those funds from the suspended financial assistance shall be expended by the coastal state to take the actions referred to in subparagraph (A).
+&emsp;(B) written specifications stating how those funds from the suspended financial assistanceshall be expended by the coastal state to take the actions referred to in subparagraph (A).
 
 (3) The suspension of financial assistance may not last for less than 6 months or more than 36 months after the date of suspension.
 
 #### (d) Withdrawal of approval of program
 
-The Secretary shall withdraw approval of the management program of any coastal state and shall withdraw financial assistance available to that State under this chapter as well as any unexpended portion of such assistance, if the Secretary determines that the coastal state hasfailed to take the actions referred to in subsection (c)(2)(A) of this section.
+The Secretary shall withdraw approval of the management program of any coastal state and shall withdraw financial assistance available to that State under this chapter as well as any unexpended portion of such assistance, if the Secretary determines that the coastal state has failed to take the actions referred to in subsection (c)(2)(A) of this section.
 
 #### (e) Notice and hearing
 
@@ -32,9 +32,9 @@ Management program approval and financial assistance may not be withdrawn under 
 
 #### Amendments
 
-1992—Subsecs. (b), (c)(1). Pub. L. 102–587 substituted “coastal state's” for “coastal State's” in subsec. (b) and “coastal state” for “coastal State” after “any” in subsec. (c)(1).
+<b>1992</b>—Subsecs. (b), (c)(1). Pub. L. 102–587 substituted “coastal state's” for “coastal State's” in subsec. (b) and “coastal state” for “coastal State” after “any” in subsec. (c)(1).
 
-1990—Subsec. (a). Pub. L. 101–508, §6216(b), substituted “through (K)” for “through (I)”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §6216(b), substituted “through (K)” for “through (I)”.
 
 Subsec. (b). Pub. L. 101–508, §6212(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purpose of making the evaluation of a coastal state's performance, the Secretary shall conduct public meetings and provide opportunity for oral and written comments by the public. Each such evaluation shall be prepared in report form and the Secretary shall make copies thereof available to the public.”
 
@@ -48,15 +48,15 @@ Subsec. (d). Pub. L. 101–508, §6212(c), amended subsec. (d) generally. Prior 
 
 Subsec. (f). Pub. L. 101–508, §6212(d), struck out subsec. (f) which read as follows: “The Secretary shall carry out research on, and offer technical assistance of the coastal states with respect to, those activities, projects, and other relevant matters evaluated under this section that the Secretary considers to offer promise toward improving coastal zone management.”
 
-1986—Subsec. (c). Pub. L. 99–272 designated existing provisions relating to failure to achieve objectives specified in section 1452(2)(A) through (I) as par. (1), and added par. (2).
+<b>1986</b>—Subsec. (c). Pub. L. 99–272 designated existing provisions relating to failure to achieve objectives specified in section 1452(2)(A) through (I) as par. (1), and added par. (2).
 
-1980—Subsec. (a). Pub. L. 96–464 substituted provisions relating to continuing review of coastal states performance with respect to coastal management for provisions relating to continuing review of management programs of coastal states, the performance of such states with respect to coastal zone management, and coastal energy impact program.
+<b>1980</b>—Subsec. (a). Pub. L. 96–464 substituted provisions relating to continuing review of coastal states performance with respect to coastal management for provisions relating to continuing review of management programs of coastal states, the performance of such states with respect to coastal zone management, and coastal energy impact program.
 
 Subsec. (b). Pub. L. 96–464 substituted provisions relating to public meeting and comments for provisions relating to termination of financial assistance.
 
 Subsecs. (c) to (f). Pub. L. 96–464 added subsecs. (c) to (f).
 
-1976—Subsec. (a). Pub. L. 94–370, §10, designated existing provisions as par. (1), substituted “such states with respect to coastal zone management; and” for “each state.”, and added par. (2).
+<b>1976</b>—Subsec. (a). Pub. L. 94–370, §10, designated existing provisions as par. (1), substituted “such states with respect to coastal zone management; and” for “each state.”, and added par. (2).
 
 #### Regulations
 

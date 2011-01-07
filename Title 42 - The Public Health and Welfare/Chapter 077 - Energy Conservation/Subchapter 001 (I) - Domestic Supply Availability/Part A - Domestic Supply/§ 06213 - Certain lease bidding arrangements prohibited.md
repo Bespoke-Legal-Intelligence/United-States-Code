@@ -2,7 +2,7 @@
 
 #### (a) Promulgation of rule by Secretary of the Interior
 
-The Secretary of the Interior shall, not later than 30 days after December 22, 1975, prescribe and make effective a rule which prohibits the bidding for any right to develop crude oil, natural gas, and natural gas liquids on any lands located on the Outer Continental Shelf by any person if more than one major oil company, more than one affiliate of a major oil company, or a major oil company and any affiliate of a major oil company, has or have a significant ownership interest in such person. Such ruleshall define affiliate relationships and significant ownership interests.
+The Secretary of the Interior shall, not later than 30 days after December 22, 1975, prescribe and make effective a rule which prohibits the bidding for any right to develop crude oil, natural gas, and natural gas liquids on any lands located on the Outer Continental Shelf by any person if more than one major oil company, more than one affiliate of a major oil company, or a major oil company and any affiliate of a major oil company, has or have a significant ownership interest in such person. Such rule shall define affiliate relationships and significant ownership interests.
 
 #### (b) Definitions
 
@@ -40,7 +40,7 @@ The Secretary shall study and report to the Congress, not later than 6 months af
 
 #### Amendments
 
-1978—Subsec. (c). Pub. L. 95–372 substituted “in his discretion, consider a request from any person described in subsection (a) of this section for an exemption from the prohibition of this section” for “by amendment to the rule, exempt bidding for leases for lands located in frontier or other areas determined by the Secretary to be extremely high risk lands or to present unusually high cost exploration, or development, problems” in existing provisions and inserted provisions setting out the requisite finding of the Secretary and making arbitrariness and capriciousness of the Secretary's findings the only bases for invalidation of those findings.
+<b>1978</b>—Subsec. (c). Pub. L. 95–372 substituted “in his discretion, consider a request from any person described in subsection (a) of this section for an exemption from the prohibition of this section” for “by amendment to the rule, exempt bidding for leases for lands located in frontier or other areas determined by the Secretary to be extremely high risk lands or to present unusually high cost exploration, or development, problems” in existing provisions and inserted provisions setting out the requisite finding of the Secretary and making arbitrariness and capriciousness of the Secretary's findings the only bases for invalidation of those findings.
 
 #### Transfer of Functions
 

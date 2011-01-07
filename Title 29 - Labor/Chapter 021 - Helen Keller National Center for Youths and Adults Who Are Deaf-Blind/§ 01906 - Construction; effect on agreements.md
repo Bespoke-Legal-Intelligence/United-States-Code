@@ -6,5 +6,5 @@ This chapter shall not be construed as modifying or affecting any agreement betw
 
 #### Amendments
 
-1992—Pub. L. 102–569 substituted “Helen Keller Services for the Blind, Incorporated” for “Industrial Home for the Blind, Incorporated”.
+<b>1992</b>—Pub. L. 102–569 substituted “Helen Keller Services for the Blind, Incorporated” for “Industrial Home for the Blind, Incorporated”.
 

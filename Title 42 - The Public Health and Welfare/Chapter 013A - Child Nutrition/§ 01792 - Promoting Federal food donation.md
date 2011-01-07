@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 180 days after June 20, 2008, the Federal Acquisition Regulation issued in accordance with section 421 of title 41 shall be revised to provide that all contracts above $25,000 for the provision, service, or sale of food in the United States, or for the lease or rental of Federal property to a private entity for events at which food is provided in the United States, shall include a clause that—
+Not later than 180 days after June 20, 2008, the Federal Acquisition Regulation issued in accordance with section 1303 of title 41 shall be revisedto provide that all contracts above $25,000 for the provision, service, or sale of food in the United States, or for the lease or rental of Federal property to a private entity for events at which food is provided in the United States, shall include a clause that—
 
 &emsp;(1) encourages the donation of excess, apparently wholesome food to nonprofit organizations that provide assistance to food-insecure people in the United States; and
 
@@ -27,6 +27,8 @@ This section, referred to in subsec. (b), was in the original “this Act”, me
 #### Codification
 
 Section was enacted as part of the Federal Food Donation Act of 2008, and not as part of the Child Nutrition Act of 1966 which comprises this chapter.
+
+In subsec. (a), “section 1303 of title 41” substituted for “section 25 of the Office of Federal Procurement Policy Act (41 U.S.C. 421)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Purpose
 

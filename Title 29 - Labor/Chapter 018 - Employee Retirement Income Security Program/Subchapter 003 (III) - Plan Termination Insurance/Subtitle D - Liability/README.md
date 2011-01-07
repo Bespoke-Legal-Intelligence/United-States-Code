@@ -1,7 +1,5 @@
 Subtitle D—Liability
 
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
-
 
 ---
 

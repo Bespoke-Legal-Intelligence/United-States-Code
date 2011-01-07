@@ -20,7 +20,7 @@
 
 #### Amendments
 
-1992—Pub. L. 102–568, §401(d)(1), substituted “Trial work periods and vocational rehabilitation for certain veterans with total disability ratings” for “Temporary program for trial work periods and vocational rehabilitation for certain veterans with total disability ratings” as section catchline.
+<b>1992</b>—Pub. L. 102–568, §401(d)(1), substituted “Trial work periods and vocational rehabilitation for certain veterans with total disability ratings” for “Temporary program for trial work periods and vocational rehabilitation for certain veterans with total disability ratings” as section catchline.
 
 Subsec. (a)(1). Pub. L. 102–568, §401(a)(1), substituted “after January 31, 1985,” for “during the program period”.
 
@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 102–568, §401(b), substituted “The Secretary” for �
 
 Subsec. (c)(1). Pub. L. 102–568, §401(c), substituted “after January 31, 1985, of a rating of total disability described in subsection (a)(2)” for “during the program period of a rating of total disability described in subsection (a)(2)(A)”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 363 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 363 of this title as this section.
 
 Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “3104(a)(2)” for “1504(a)(2)” and “3104(a)(5)” for “1504(a)(5)”.
 
@@ -46,7 +46,7 @@ Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “3106(a)” for “1506(
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in pars. (1) and (2).
 
-1988—Subsec. (a)(2)(B). Pub. L. 100–687, §1301(a), substituted “1992” for “1989”.
+<b>1988</b>—Subsec. (a)(2)(B). Pub. L. 100–687, §1301(a), substituted “1992” for “1989”.
 
 Subsec. (c)(1). Pub. L. 100–687, §1301(b)(2), (3), substituted “(1) In” for “(1)(A) Except as provided in paragraph (4) of this subsection, in”, redesignated cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively, and struck out former subpar. (B) which required that, after providing notice, Administrator arrange promptly for evaluation to determine whether achievement of vocational goal by veteran is feasible.
 
@@ -54,7 +54,7 @@ Subsec. (c)(2). Pub. L. 100–687, §1301(b)(1), (3)(B), added par. (2) and stru
 
 Subsec. (c)(3). Pub. L. 100–687, §1301(b)(1), struck out par. (3) which related to individualized written plan of vocational rehabilitation after completion of evaluation, and failure to pursue program of vocational rehabilitation described in such plan.
 
-Subsec. (c)(4). Pub. L. 100–687, §1301(b)(1), struck out par. (4) which read as follows: “This subsection does not apply with respect to a veteran as to whom the Administrator determines that an evaluation of vocational rehabilitation potential or achievement of a vocational goal is not reasonably feasible.”
+Subsec. (c)(4). Pub. L. 100–687, §1301(b)(1), struck out par. (4) which read as follows: “This subsection doesnot apply with respect to a veteran as to whom the Administrator determines that an evaluation of vocational rehabilitation potential or achievement of a vocational goal is not reasonably feasible.”
 
 #### Effective Date of 1992 Amendment
 

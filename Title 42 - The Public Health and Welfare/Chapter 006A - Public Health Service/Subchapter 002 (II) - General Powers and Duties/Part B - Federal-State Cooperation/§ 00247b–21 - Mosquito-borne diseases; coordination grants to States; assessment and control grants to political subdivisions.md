@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(iii) met criteria determined by the Secretary to suggest an increased risk of elevated incidence or prevalence of mosquito-borne disease in the pending fiscal year;
 
-&emsp;&emsp;(B) demonstrates to the Secretary that such political subdivision or consortium ofpolitical subdivisions will, if appropriate to the mosquito circumstances involved, effectively coordinate the activities of the control programs with contiguous political subdivisions;
+&emsp;&emsp;(B) demonstrates to the Secretary that such political subdivision or consortium of political subdivisions will, if appropriate to the mosquito circumstances involved, effectively coordinate the activities of the control programs with contiguous political subdivisions;
 
 &emsp;&emsp;(C) demonstrates to the Secretary (directly or through State officials) that the State in which such a political subdivision or consortium of political subdivisions is located has identified or will identify geographic areas in such State that have a significant need for control programs and will effectively coordinate such programs in such areas; and
 
@@ -76,7 +76,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;With respect to the costs of a control program to be carried out under paragraph (1) by a political subdivision or consortium of political subdivisions, a grant under such paragraph may be made only if the subdivision or consortium agrees to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 1/3 of such costs ($1 for each $2 of Federal funds provided in the grant).
+&emsp;&emsp;With respect to the costs of a control program to be carried out under paragraph (1)by a political subdivision or consortium of political subdivisions, a grant under such paragraph may be made only if the subdivision or consortium agrees to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 1/3 of such costs ($1 for each $2 of Federal funds provided in the grant).
 
 #### (B) Determination of amount contributed
 

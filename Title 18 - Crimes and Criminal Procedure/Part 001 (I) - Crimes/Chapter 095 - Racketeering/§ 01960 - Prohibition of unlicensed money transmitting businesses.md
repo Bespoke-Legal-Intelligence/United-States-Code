@@ -20,11 +20,11 @@
 
 #### Amendments
 
-2006—Subsec. (b)(1)(C). Pub. L. 109–162 substituted “to be used” for “to be used to be used”.
+<b>2006</b>—Subsec. (b)(1)(C). Pub. L. 109–162 substituted “to be used” for “to be used to be used”.
 
-2001—Pub. L. 107–56 amended section catchline and text generally, substituting provisions relating to prohibition of unlicensed money transmitting businesses for similar provisions relating to prohibition of illegal money transmitting businesses.
+<b>2001</b>—Pub. L. 107–56 amended section catchline and text generally, substituting provisions relating to prohibition of unlicensed money transmitting businesses for similar provisions relating to prohibition of illegal money transmitting businesses.
 
-1994—Subsec. (b)(1). Pub. L. 103–325 amended par. (1) generally. Prior to amendment, par. (1) read as follows:
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–325 amended par. (1) generally. Prior to amendment, par. (1) read as follows:
 
 “(1) the term ‘illegal money transmitting business’ means a money transmitting business that affects interstate or foreign commerce in any manner or degree and which is knowingly operated in a State—
 

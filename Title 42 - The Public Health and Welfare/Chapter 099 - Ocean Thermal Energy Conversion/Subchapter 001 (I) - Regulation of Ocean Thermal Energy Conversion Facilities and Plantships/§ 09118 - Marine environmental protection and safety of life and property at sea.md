@@ -2,7 +2,7 @@
 
 #### (a) Coast Guard operations
 
-The Secretary of the department in which the Coast Guard is operating shall, subject to recognized principles of international law, prescribe by regulation and enforce procedures with respect to any ocean thermal energy conversionfacility or plantship licensed under this chapter, including, but not limited to, rules governing vessel movement, procedures for transfer of materials between such a facility or plantship and transport vessels, designation and marking of anchorage areas, maintenance, law enforcement, and the equipment, training, and maintenance required (1) to promote the safety of life and property at sea, (2) to prevent pollution of the marine environment, (3) to clean up any pollutants which may be discharged, and (4) to otherwise prevent or minimize any adverse impact from the construction and operation of such ocean thermal energy conversion facility or plantship.
+The Secretary of the department in which the Coast Guard is operating shall, subject to recognized principles of international law, prescribe by regulation and enforce procedures with respect to any ocean thermal energy conversion facility or plantship licensed under this chapter, including, but not limited to, rules governing vessel movement, procedures for transfer of materials between such a facility or plantship andtransport vessels, designation and marking of anchorage areas, maintenance, law enforcement, and the equipment, training, and maintenance required (1) to promote the safety of life and property at sea, (2) to prevent pollution of the marine environment, (3) to clean up any pollutants which may be discharged, and (4) to otherwise prevent or minimize any adverse impact from the construction and operation of such ocean thermal energy conversion facility or plantship.
 
 #### (b) Promotion of safety of life and property
 
@@ -42,17 +42,19 @@ Whenever a licensee fails to mark any component of such an ocean thermal energy 
 
 #### (f) Protection of navigation
 
-Subject to recognized principles of international law, the Secretary of the department in which the Coast Guard is operating shall promulgate and enforce such regulations as he deems necessary to protect navigation in the vicinity of a vessel engaged in the installation, repair, or maintenance of any submarine electric transmission cable or equipment, and to govern the markings and signals used by such a vessel.
+Subject to recognized principles of international law, the Secretary of the department inwhich the Coast Guard is operating shall promulgate and enforce such regulations as he deems necessary to protect navigation in the vicinity of a vessel engaged in the installation, repair, or maintenance of any submarine electric transmission cable or equipment, and to govern the markings and signals used by such a vessel.
 
 (Pub. L. 96–320, title I, §108, Aug. 3, 1980, 94 Stat. 986; Pub. L. 98–623, title VI, §602(a)(6), (7), (e)(1), (15), Nov. 8, 1984, 98 Stat. 3410–3412.)
 
 #### References in Text
 
+This chapter, referred to in subsecs. (a), (b), and (d), was in the original “this Act”, meaning Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, known as the Ocean Thermal Energy Conversion Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of this title and Tables.
+
 The Ship Mortgage Act, 1920, referred to in subsec. (e)(3), is section 30 of act June 5, 1920, ch. 250, 41 Stat. 1000, which was classified generally to chapter 25 (§911 et seq.) of former Title 46, Shipping, and was repealed by Pub. L. 100–710, title I, §106(b)(2), Nov. 23, 1988, 102 Stat. 4752, and reenacted by section 102(c) thereof as chapters 301 and 313 of Title 46, Shipping. Chapter 301 of Title 46, consisting solely of section 30101 which defined, among other terms, “vessel of the United States”, was subsequently repealed by Pub. L. 109–304, §6(b), Oct. 6, 2006, 120 Stat. 1509. For a definition of “vessel of the United States” as that term applies to Title 46, see section 116 of Title 46.
 
 #### Amendments
 
-1984—Subsec. (d)(1). Pub. L. 98–623, §602(e)(1), substituted “navigational safety” for “reorganizational safety”.
+<b>1984</b>—Subsec. (d)(1). Pub. L. 98–623, §602(e)(1), substituted “navigational safety” for “reorganizational safety”.
 
 Subsec. (d)(3). Pub. L. 98–623, §602(e)(15), added par. (3) by inserting text of former subsec. (b)(3) of section 9119 of this title.
 

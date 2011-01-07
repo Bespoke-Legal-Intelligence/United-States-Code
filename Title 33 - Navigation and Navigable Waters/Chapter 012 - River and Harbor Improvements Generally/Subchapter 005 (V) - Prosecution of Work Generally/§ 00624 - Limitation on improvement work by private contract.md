@@ -24,7 +24,7 @@ Section is from the Rivers and Harbors Appropriation Act of 1919.
 
 #### Amendments
 
-1978—Pub. L. 95–269 designated existing provision as subsec. (a), substituted provisions relating to determinations by the Secretary of the Army, acting through the Chief of Engineers, respecting contract prices for performance of works of river and harbor improvement by a Government plant or by a well-equipped contractor as a limitation on performance of the work by private contract, for provisions relating to limitation on use of funds for works of river and harbor improvement pursuant to private contract based on estimation of cost for performance of work by Government plant and factors constituting cost estimation, and added subsecs. (b) and (c).
+<b>1978</b>—Pub. L. 95–269 designated existing provision as subsec. (a), substituted provisions relating to determinations by the Secretary of the Army, acting through the Chief of Engineers, respecting contract prices for performance of works of river and harbor improvement by a Government plant or by a well-equipped contractor as a limitation on performance of the work by private contract, for provisions relating to limitation on use of funds for works of river and harbor improvement pursuant to private contract based on estimation of cost for performance of work by Government plant and factors constituting cost estimation, and added subsecs. (b) and (c).
 
 #### Compensation for Increased Costs
 

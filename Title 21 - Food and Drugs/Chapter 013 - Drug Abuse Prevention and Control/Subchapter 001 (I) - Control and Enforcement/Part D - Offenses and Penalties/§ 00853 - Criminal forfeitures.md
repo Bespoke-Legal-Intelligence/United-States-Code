@@ -128,7 +128,7 @@ In order to facilitate the identification and location of property declared forf
 
 > the court shall amend the order of forfeiture in accordance with its determination.
 
-(7) Following the court's disposition of all petitions filed under this subsection, or if no suchpetitions are filed following the expiration of the period provided in paragraph (2) for the filing of such petitions, the United States shall have clear title to property that is the subject of the order of forfeiture and may warrant good title to any subsequent purchaser or transferee.
+(7) Following the court's disposition of all petitions filed under this subsection, or if no such petitions are filed following the expiration of the period provided in paragraph (2) for the filing of such petitions, the United States shall have clear title to property that is the subject of the order of forfeiture and may warrant good title to any subsequent purchaser or transferee.
 
 #### (<i>o</i>) Construction
 
@@ -178,13 +178,13 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (m), are set out
 
 #### Amendments
 
-2009—Subsec. (e)(2). Pub. L. 111–16 substituted “fourteen days” for “ten days”.
+<b>2009</b>—Subsec. (e)(2). Pub. L. 111–16 substituted “fourteen days” for “ten days”.
 
-2006—Subsec. (q). Pub. L. 109–177, §743(a)(1), inserted “, the possession, or the possession with intent to distribute,” after “manufacture” in introductory provisions.
+<b>2006</b>—Subsec. (q). Pub. L. 109–177, §743(a)(1), inserted “, the possession, or the possession with intent to distribute,” after “manufacture” in introductory provisions.
 
 Subsec. (q)(2). Pub. L. 109–177, §743(a)(2), inserted “, or on premises or in property that the defendant owns, resides, or does business in” after “by the defendant”.
 
-2001—Subsec. (e)(4). Pub. L. 107–56, §319(d)(2), added par. (4).
+<b>2001</b>—Subsec. (e)(4). Pub. L. 107–56, §319(d)(2), added par. (4).
 
 Subsec. (p). Pub. L. 107–56, §319(d)(1), inserted heading and amended text of subsec. (p) generally. Prior to amendment, text read as follows: “If any of the property described in subsection (a) of this section, as a result of any act or omission of the defendant—
 
@@ -200,15 +200,15 @@ Subsec. (p). Pub. L. 107–56, §319(d)(1), inserted heading and amended text of
 
 > the court shall order the forfeiture of any other property of the defendant up to the value of any property described in paragraphs (1) through (5).”
 
-2000—Subsec. (q). Pub. L. 106–310, §3613(a)(1), (2), in introductory provisions, inserted “amphetamine or” before “methamphetamine” and substituted “shall” for “may”.
+<b>2000</b>—Subsec. (q). Pub. L. 106–310, §3613(a)(1), (2), in introductory provisions, inserted “amphetamine or” before “methamphetamine” and substituted “shall” for “may”.
 
 Subsec. (q)(2). Pub. L. 106–310, §3613(a)(2), (3), inserted “, the State or local government concerned, or both the United States and the State or local government concerned” after “to reimburse the United States”, “or the State or local government concerned, as the case may be,” after “costs incurred by the United States”, and “amphetamine or” before “methamphetamine”.
 
 Subsec. (q)(3). Pub. L. 106–310, §3613(a)(4), substituted “section 3663A of title 18” for “section 3663 of title 18”.
 
-1996—Subsec. (q). Pub. L. 104–237 added subsec. (q).
+<b>1996</b>—Subsec. (q). Pub. L. 104–237 added subsec. (q).
 
-1986—Subsec. (c). Pub. L. 99–570, §1864(1), substituted “subsection (n)” for “subsection (<i>o</i>)”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–570, §1864(1), substituted “subsection (n)” for “subsection (<i>o</i>)”.
 
 Subsec. (f). Pub. L. 99–570, §1864(2), substituted “subsection (e)” for “subsection (f)”.
 
@@ -216,9 +216,9 @@ Subsec. (i)(1). Pub. L. 99–570, §1864(3), substituted “this subchapter” f
 
 Subsec. (k). Pub. L. 99–570, §1864(1), (4), which directed the substitution of “subsection (n)” for “subsection (<i>o</i>)” in “the second subsection (h)”, and directed the redesignation of “the second subsection (h)” as subsection (k), were executed to this subsection because the “second subsection (h)” had been editorially redesignated subsec. (k) to reflect the probable intent of Congress. See 1984 Amendment note below.
 
-Subsec. (p). Pub. L. 99–570, §1153(b), which directed that “section 413 of title II of the Comprehensive DrugAbuse Prevention and Control Act of 1975” be amended “by redesignating subsection ‘(p)’ as subsection ‘(q)’ ” and adding subsec. (p) was executed to this section, which is section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970, as the probable intent of Congress, by adding a subsec. (p) in view of the prior redesignation of subsec. (p) as (<i>o</i>) by Pub. L. 98–473, §2301(e)(2). See 1984 Amendment note below.
+Subsec. (p). Pub. L. 99–570, §1153(b), which directed that “section 413 of title II of the Comprehensive Drug Abuse Prevention and Control Act of 1975” be amended “by redesignating subsection ‘(p)’ as subsection ‘(q)’ ” and adding subsec. (p) was executed to this section, which is section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970, as the probable intent of Congress, by adding a subsec. (p) in view of the prior redesignation of subsec. (p) as (<i>o</i>) by Pub. L. 98–473, §2301(e)(2). See 1984 Amendment note below.
 
-1984—Subsec. (a). Pub. L. 98–473, §2301(d), inserted “In lieu of a fine otherwise authorized by this part, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.”
+<b>1984</b>—Subsec. (a). Pub. L. 98–473, §2301(d), inserted “In lieu of a fine otherwise authorized by this part, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.”
 
 Subsec. (d). Pub. L. 98–473, §2301(e), struck out subsec. (d) which related to forfeiture of property other than that described in subsec. (a) and the conditions therefor, and redesignated former subsec. (e) as (d).
 

@@ -20,7 +20,7 @@ Every manufacturer of a consumer product, or other product or substance over whi
 
 &emsp;(4) creates an unreasonable risk of serious injury or death,
 
-> shall immediately inform the Commission of such failure to comply, of such defect, or of such risk, unless such manufacturer, distributor, or retailer has actual knowledge that the Commission has been adequately informed of such defect, failure to comply, or such risk. A report provided under paragraph (2) may not be used as the basis for criminal prosecution of the reporting person under section 1264 of this title, except for offenses which require a showing of intent to defraud or mislead.
+> shall immediately inform the Commission of such failure to comply, of such defect, or of such risk, unless such manufacturer, distributor, or retailer has actual knowledge that the Commission has been adequately informed of such defect, failure to comply, or such risk. A reportprovided under paragraph (2) may not be used as the basis for criminal prosecution of the reporting person under section 1264 of this title, except for offenses which require a showing of intent to defraud or mislead.
 
 #### (c) Notice of defect or failure to comply; mail notice
 
@@ -154,7 +154,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (d)(
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–314, §214(a)(1), inserted “under this chapter or a similar rule, regulation, standard, or ban under any other Act enforced by the Commission” after “consumer product safety rule”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–314, §214(a)(1), inserted “under this chapter or a similar rule, regulation, standard, or ban under any other Act enforced by the Commission” after “consumer product safety rule”.
 
 Subsec. (b). Pub. L. 110–314, §214(a)(2)(B)–(D), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and inserted “A report provided under paragraph (2) may not be used as the basis for criminal prosecution of the reporting person under section 1264 of this title, except for offenses which require a showing of intent to defraud or mislead.” at end of concluding provisions.
 
@@ -194,7 +194,7 @@ Subsec. (i). Pub. L. 110–314, §214(c), added subsec. (i).
 
 Subsec. (j). Pub. L. 110–314, §223(a), added subsec. (j).
 
-1990—Subsec. (b). Pub. L. 101–608, §112(a)(4), (5), in concluding provisions substituted “comply, of such defect, or of such risk” for “comply or of such defect” and “defect, failure to comply, or such risk” for “defect or failure to comply”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–608, §112(a)(4), (5), in concluding provisions substituted “comply, of such defect, or of such risk” for “comply or of such defect” and “defect, failure to comply, or such risk” for “defect or failure to comply”.
 
 Subsec. (b)(1). Pub. L. 101–608, §112(a)(1), inserted reference to voluntary consumer product safety standard upon which Commission has relied under section 2058 of this title.
 
@@ -204,13 +204,13 @@ Subsec. (f). Pub. L. 101–608, §113, inserted at end “Any settlement offer w
 
 Subsec. (h). Pub. L. 101–608, §111(a)(2), added subsec. (h).
 
-1988—Subsec. (d). Pub. L. 100–418 substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 to the Tariff Schedules of the United States” in last sentence.
+<b>1988</b>—Subsec. (d). Pub. L. 100–418 substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 to the Tariff Schedules of the United States” in last sentence.
 
-1983—Subsec. (g)(1). Pub. L. 97–414 clarified previous inconsistencies in 1982 amendment by substituting “section 206(d)(1)” for “section 206(c)(1)” and amending Pub. L. 97–35, §1211(h)(4), so as to strike out direction that par. (1) be amended by inserting “, Science and Transportation” after “on Commerce”.
+<b>1983</b>—Subsec. (g)(1). Pub. L. 97–414 clarified previous inconsistencies in 1982 amendment by substituting “section 206(d)(1)” for “section 206(c)(1)” and amending Pub. L. 97–35, §1211(h)(4), so as to strike out direction that par. (1) be amended by inserting “, Science and Transportation” after “on Commerce”.
 
-1981—Subsec. (g)(1). Pub. L. 97–35, §1211(h)(4), substituted reference to section 2061(c)(1) for reference to section 2061(e)(1), but probably should have substituted instead reference to section 2061(d)(1) in view of the redesignation of section 2061(e)(1) as section 2061(d)(1) by section 1205(a)(2) of Pub. L. 97–35 and the nonexistence of a section 2061(c)(1) of this title. Provisions of Pub. L. 97–35 directing that “, Science and Transportation” be inserted after “on Commerce” could not be executed in view of lack of such language in text. Section 1211(h)(4) of Pub. L. 97–35 was subsequently amended by Pub. L. 97–414. See 1983 Amendment note above.
+<b>1981</b>—Subsec. (g)(1). Pub. L. 97–35, §1211(h)(4), substituted reference to section 2061(c)(1) for reference to section 2061(e)(1), but probably should have substituted instead reference to section 2061(d)(1) in view of the redesignation of section 2061(e)(1) as section 2061(d)(1) by section 1205(a)(2) of Pub. L. 97–35 and the nonexistence of a section 2061(c)(1) of this title. Provisions of Pub. L. 97–35 directing that “, Science and Transportation” be inserted after “on Commerce” could not be executed in view of lack of such language in text. Section 1211(h)(4) of Pub. L. 97–35 was subsequently amended by Pub. L. 97–414. See 1983 Amendment note above.
 
-1976—Subsec. (d). Pub. L. 94–284, §12(a)(1), provided, in provision following par. (3), that an order issued under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States, the product for which the order was issued.
+<b>1976</b>—Subsec. (d). Pub. L. 94–284, §12(a)(1), provided, in provision following par. (3), that an order issued under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States, the product for which the order was issued.
 
 Subsec. (g). Pub. L. 94–284, §12(a)(2), added subsec. (g).
 

@@ -12,7 +12,7 @@ Section was formerly classified to section 611a of Title 5 prior to the general 
 
 #### Amendments
 
-1986—Pub. L. 99–619 substituted “Deputy Secretary” for “Under Secretary” in three places.
+<b>1986</b>—Pub. L. 99–619 substituted “Deputy Secretary” for “Under Secretary” in three places.
 
 #### Transfer of Functions
 

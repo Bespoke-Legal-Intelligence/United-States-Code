@@ -20,7 +20,7 @@
 
 &emsp;(A) The Attorney General shall review and evaluate removal proceedings conducted under this section.
 
-&emsp;(B) The Comptroller General shall monitor, review, and evaluate removal proceedings conducted under this section. Within 18 months after the effective date of this section, the Comptroller General shall submit a report to such Committees concerning the extent to which removal proceedings conducted under this section may adversely affect the ability of such aliens to contest removal effectively.
+&emsp;(B) The Comptroller General shall monitor, review, and evaluate removal proceedings conducted under this section. Within 18 months after the effective date of this section, the Comptroller General shall submit a report tosuch Committees concerning the extent to which removal proceedings conducted under this section may adversely affect the ability of such aliens to contest removal effectively.
 
 #### (b) Removal of aliens who are not permanent residents
 
@@ -58,7 +58,7 @@ An alien convicted of an aggravated felony shall be conclusively presumed to be 
 
 #### (1) Authority
 
-&emsp;Notwithstanding any other provision of this chapter, a United States district court shall have jurisdiction to enter a judicial order of removal at the time of sentencing against an alien who is deportable, if such an order has been requested by the United States Attorney with the concurrence of the Commissioner andif the court chooses to exercise such jurisdiction.
+&emsp;Notwithstanding any other provision of this chapter, a United States district court shall have jurisdiction to enter a judicial order of removal at the time of sentencing against an alien who is deportable, if such an order has been requested by the United States Attorney with the concurrence of the Commissioner and if the court chooses to exercise such jurisdiction.
 
 #### (2) Procedure
 
@@ -100,6 +100,8 @@ An alien convicted of an aggravated felony shall be conclusively presumed to be 
 
 For effective date of this section, referred to in subsec. (a)(4)(B), see Effective Date note below.
 
+This chapter, referred to in subsec. (c)(1), (2)(C), (D)(iv), (5), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+
 Section 1252b of this title, referred to in subsec. (c)(2)(B), was repealed by Pub. L. 104–208, div. C, title III, §308(b)(6), Sept. 30, 1996, 110 Stat. 3009–615.
 
 Section 1253 of this title, referred to in subsec. (c)(3)(B), was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, subsec. (a) no longer contains provisions relating to alternate countries. Provisions similar to those contained in former subsec. (a) of section 1253 are now contained in section 1231(b) of this title.
@@ -112,7 +114,7 @@ Section was formerly classified to section 1252a of this title prior to renumber
 
 #### Prior Provisions
 
-A prior section 1228, act June 27, 1952, ch. 477, title II, ch. 4, §238, 66 Stat. 202, as amended, which related toentry through or from foreign contiguous territory and adjacent islands, was renumbered section 233 of act June 27, 1952, by Pub. L. 104–208, div. C, title III, §308(b)(4), Sept. 30, 1996, 110 Stat. 3009–615, and was transferred to section 1223 of this title.
+A prior section 1228, act June 27, 1952, ch. 477, title II, ch. 4, §238, 66 Stat. 202, as amended, which related to entry through or from foreign contiguous territory and adjacent islands, was renumbered section 233 of act June 27, 1952, by Pub. L. 104–208, div. C, title III, §308(b)(4), Sept. 30, 1996, 110 Stat. 3009–615, and was transferred to section 1223 of this title.
 
 #### Amendments
 
@@ -156,7 +158,7 @@ Pub. L. 104–132, §442(a)(2), substituted “14 calendar days” for “30 cal
 
 Subsec. (b)(4)(B). Pub. L. 104–132, §442(a)(3), substituted “proceedings” for “proccedings”.
 
-Subsec. (b)(4)(D). Pub. L. 104–208, §304(c)(1)(A), (B), redesignated subpar. (E) as (D) and amended it generally, and struck out former subpar. (D). Prior to amendments, subpars. (D) and (E) read as follows:
+Subsec. (b)(4)(D). Pub. L. 104–208, §304(c)(1)(A), (B), redesignated subpar. (E) as (D) and amended it generally,and struck out former subpar. (D). Prior to amendments, subpars. (D) and (E) read as follows:
 
 “(D) such proceedings are conducted in, or translated for the alien into, a language the alien understands;
 
@@ -268,7 +270,7 @@ Section 374(c) of div. C of Pub. L. 104–208 provided that: “The amendment ma
 
 Amendment by section 671(b)(13) of Pub. L. 104–208 effective as if included in the enactment of the Immigration and Nationality Technical Corrections Act of 1994, Pub. L. 103–416, see section 671(b)(14) of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
-Amendment by section 671(c)(5), (6) of Pub. L. 104–208 effective as if included in the enactment of subtitle A of title IV of the Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104–132, see section 671(c)(7) of Pub. L. 104–208, set out as a note under section 1189 of this title.
+Amendment by section 671(c)(5), (6) of Pub. L. 104–208 effective as if included in the enactment of subtitle Aof title IV of the Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104–132, see section 671(c)(7) of Pub. L. 104–208, set out as a note under section 1189 of this title.
 
 Section 442(d) of Pub. L. 104–132 provided that: “The amendments made by this section \[amending this section and section 1105a of this title\] shall become effective no later than 60 days after the publication by the Attorney General of implementing regulations that shall be published on or before January 1, 1997.”
 

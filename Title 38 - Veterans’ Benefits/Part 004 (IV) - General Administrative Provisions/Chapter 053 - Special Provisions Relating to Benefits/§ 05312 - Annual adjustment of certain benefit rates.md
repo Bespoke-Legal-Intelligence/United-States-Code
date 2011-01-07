@@ -20,13 +20,13 @@ The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 
 
 #### Amendments
 
-2004—Subsec. (b)(1). Pub. L. 108–454 inserted “and the annual benefit amount limitations under sections 5507(c)(2)(D) and 5508 of this title,” after “(d)(3) of such section,”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–454 inserted “and the annual benefit amount limitations under sections 5507(c)(2)(D) and 5508 of this title,” after “(d)(3) of such section,”.
 
-1996—Subsec. (a). Pub. L. 104–204, §421(c)(1), substituted “, the rate of increased pension” for “and the rate of increased pension” and inserted “and each rate of monthly allowance paid under section 1805 of this title,” after “on account of children,”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–204, §421(c)(1), substituted “, the rate of increased pension” for “and the rate of increased pension” and inserted “and each rate of monthly allowance paid under section 1805 of this title,” after “on account of children,”.
 
 Subsec. (c)(1). Pub. L. 104–204, §421(c)(2), substituted “1542, and 1805” for “and 1542”.
 
-1991—Pub. L. 102–40 renumbered section 3112 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 3112 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1521”, “1541”, and “1542” for “521”, “541”, and 542”, respectively, wherever appearing.
 
@@ -44,7 +44,7 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 Subsec. (c)(2). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-1982—Subsec. (a). Pub. L. 97–295, §4(76)(A), (B), inserted “(42 U.S.C. 401 et seq.)” after first reference to “title II of the Social Security Act”, and inserted “(42 U.S.C. 415(i))” after “section 215(i) of such Act”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–295, §4(76)(A), (B), inserted “(42 U.S.C. 401 et seq.)” after first reference to “title II of the Social Security Act”, and inserted “(42 U.S.C. 415(i))” after “section 215(i) of such Act”.
 
 Subsec. (b)(1). Pub. L. 97–295, §4(76)(A)–(C), inserted “(42 U.S.C. 401 et seq.)” after first reference to “title II of the Social Security Act”, inserted “(42 U.S.C. 415(i))”after “section 215(i) of such Act”, and substituted “subsection (g), of section 415 of this title” for “subsection (h), of section 415 of such title”.
 

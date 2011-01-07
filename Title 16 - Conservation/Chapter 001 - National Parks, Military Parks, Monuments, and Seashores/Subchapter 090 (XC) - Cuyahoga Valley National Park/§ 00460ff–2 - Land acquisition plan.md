@@ -18,7 +18,7 @@ It is the express intent of the Congress that the Secretary should substantially
 
 #### Amendments
 
-2000—Subsec. (a)(i), (ii). Pub. L. 106–291 substituted “park” for “recreation area”.
+<b>2000</b>—Subsec. (a)(i), (ii). Pub. L. 106–291 substituted “park” for “recreation area”.
 
 #### Change of Name
 

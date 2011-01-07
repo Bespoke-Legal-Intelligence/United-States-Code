@@ -1,6 +1,6 @@
 ### §2409a. Real property quiet title actions
 
-(a) The United States may be named as a party defendant in a civil action under this section to adjudicate a disputed title to real property in which the United States claims an interest, other than a security interest or waterrights. This section does not apply to trust or restricted Indian lands, nor does it apply to or affect actions which may be or could have been brought under sections 1346, 1347, 1491, or 2410 of this title, sections 7424, 7425, or 7426 of the Internal Revenue Code of 1986, as amended (26 U.S.C. 7424, 7425, and 7426), or section 208 of the Act of July 10, 1952 (43 U.S.C. 666).
+(a) The United States may be named as a party defendant in a civil action under this section to adjudicate a disputed title to real property in which the United States claims an interest, other than a security interest or water rights. This section does not apply to trust or restricted Indian lands, nor does it apply to oraffect actions which may be or could have been brought under sections 1346, 1347, 1491, or 2410 of this title, sections 7424, 7425, or 7426 of the Internal Revenue Code of 1986, as amended (26 U.S.C. 7424, 7425, and 7426), or section 208 of the Act of July 10, 1952 (43 U.S.C. 666).
 
 (b) The United States shall not be disturbed in possession or control of any real property involved in any action under this section pending a final judgment or decree, the conclusion of any appeal therefrom, and sixty days; and if the final determination shall be adverse to the United States, the United States nevertheless may retain such possession or control of the real property or of any part thereof as it may elect, upon payment to the person determined to be entitled thereto of an amount which upon such election the district court in the same action shall determine to be just compensation for such possession or control.
 
@@ -40,7 +40,7 @@ Section 208 of the Act of July 10, 1952, referred to in subsec. (a), is section 
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 Subsecs. (c) to (n). Pub. L. 99–598 added subsecs. (c) and (h) to (m), redesignated former subsecs. (c), (d), (e), (f), and (g) as (d), (e), (f), (g), and (n), respectively, and inserted “, except for an action brought by a State,” in subsec. (g).
 

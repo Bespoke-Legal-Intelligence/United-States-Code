@@ -40,9 +40,9 @@ In subsection (c), the words “active duty” are substituted for the words “
 
 #### Amendments
 
-1996—Pub. L. 104–106 inserted “the” after “National Guard of” in section catchline.
+<b>1996</b>—Pub. L. 104–106 inserted “the” after “National Guard of” in section catchline.
 
-1994—Pub. L. 103–337 renumbered section 8351 of this title as this section.
+<b>1994</b>—Pub. L. 103–337 renumbered section 8351 of this title as this section.
 
 #### Effective Date of 1996 Amendment
 

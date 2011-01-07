@@ -2,9 +2,9 @@
 
 (a) The Secretary may establish such regional offices and such other field offices within the United States, its Territories, Commonwealths, and possessions, as the Secretary considers necessary.
 
-(b) The Secretary may maintain a regional office in the Republic of the Philippines until December 31, 2010.
+(b) The Secretary may maintain a regional office in the Republic of the Philippines until December 31, 2011.
 
-(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 384; amended Pub. L. 102–291, §1(a), May 20, 1992, 106 Stat. 178; Pub. L. 103–210, §2(c), Dec. 20, 1993, 107 Stat. 2497; Pub. L. 103–446, title V, §502, Nov. 2, 1994, 108 Stat. 4663; Pub. L. 106–117, title VIII, §802, Nov. 30, 1999, 113 Stat. 1586; Pub. L. 108–183, title II, §213, Dec. 16, 2003, 117 Stat. 2658; Pub. L. 111–117, div. E, title II, §228, Dec. 16, 2009, 123 Stat. 3307.)
+(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 384; amended Pub. L. 102–291, §1(a), May 20, 1992, 106 Stat. 178; Pub. L. 103–210, §2(c), Dec. 20, 1993, 107 Stat. 2497; Pub. L. 103–446, title V, §502, Nov. 2, 1994, 108 Stat. 4663; Pub. L. 106–117, title VIII, §802, Nov. 30, 1999, 113 Stat. 1586; Pub. L. 108–183, title II, §213, Dec. 16, 2003, 117 Stat. 2658; Pub. L. 111–117, div. E, title II, §228, Dec. 16, 2009, 123 Stat. 3307; Pub. L. 111–275, title VIII, §807(a), Oct. 13, 2010, 124 Stat. 2893.)
 
 #### Prior Provisions
 
@@ -14,17 +14,19 @@ Provisions similar to those in this section were contained in section 230(a), (b
 
 #### Amendments
 
-2009—Subsec. (b). Pub. L. 111–117 substituted “December 31, 2010” for “December 31, 2009”.
+<b>2010</b>—Subsec. (b). Pub. L. 111–275 substituted “December 31, 2011” for “December 31, 2010”.
 
-2003—Subsec. (b). Pub. L. 108–183 substituted “December 31, 2009” for “December 31, 2003”.
+<b>2009</b>—Subsec. (b). Pub. L. 111–117 substituted “December 31, 2010” for “December 31, 2009”.
 
-1999—Subsec. (b). Pub. L. 106–117 substituted “December 31, 2003” for “December 31, 1999”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–183 substituted “December 31, 2009” for “December 31, 2003”.
 
-1994—Subsec. (b). Pub. L. 103–446 substituted “December 31, 1999” for “December 31, 1994”.
+<b>1999</b>—Subsec. (b). Pub. L. 106–117 substituted “December 31, 2003” for “December 31, 1999”.
 
-1993—Subsec. (b). Pub. L. 103–210 substituted “December 31, 1994” for “March 31, 1994”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–446 substituted “December 31, 1999” for “December 31, 1994”.
 
-1992—Subsec. (b). Pub. L. 102–291 substituted “March 31, 1994” for “September 30, 1991”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–210 substituted “December 31, 1994” for “March 31, 1994”.
+
+<b>1992</b>—Subsec. (b). Pub. L. 102–291 substituted “March 31, 1994” for “September 30, 1991”.
 
 #### Effective Date of 1992 Amendment
 

@@ -16,9 +16,11 @@
 
 &emsp;Subject to paragraph (7) and subsections (d)(3)(C) and (e) of this section, the amount of payment determined under this section for the billing and payment code for a drug or biological (based on a minimum dosage unit) is, subject to applicable deductible and coinsurance—
 
-&emsp;&emsp;(A) in the case of a multiple source drug (as defined in subsection (c)(6)(C) of this section), 106 percent of the amount determined under paragraph (3) for a multiple source drug furnished before April 1, 2008, or 106 percent of the amount determined under paragraph (6) for a multiple source drug furnished on or after April 1, 2008; or
+&emsp;&emsp;(A) in the case of a multiple source drug (as defined in subsection (c)(6)(C) of this section), 106 percent of the amount determined under paragraph (3) for a multiple source drug furnished before April 1, 2008, or 106 percent of the amount determined under paragraph (6) for a multiple source drug furnished on or after April 1, 2008;
 
-&emsp;&emsp;(B) in the case of a single source drug or biological (as defined in subsection (c)(6)(D) of this section), 106 percent of the amount determined under paragraph (4).
+&emsp;&emsp;(B) in the case of a single source drug or biological (as defined in subsection (c)(6)(D) of this section), 106 percent of the amount determined under paragraph (4); or
+
+&emsp;&emsp;(C) in the case of a biosimilar biological product (as defined in subsection (c)(6)(H)), the amount determined under paragraph (8).
 
 #### (2) Specification of unit
 
@@ -96,11 +98,19 @@
 
 &emsp;&emsp;&emsp;(ii) the payment amount that would have been determined for such drug or biological if such subsection were not applied.
 
+#### (8) Biosimilar biological product
+
+&emsp;The amount specified in this paragraph for a biosimilar biological product described in paragraph (1)(C) is the sum of—
+
+&emsp;&emsp;(A) the average sales price as determined using the methodology described under paragraph (6) applied to a biosimilar biological product for all National Drug Codes assigned to such product in the same manner as such paragraph is applied to drugs described in such paragraph; and
+
+&emsp;&emsp;(B) 6 percent of the amount determined under paragraph (4) for the reference biological product (as defined in subsection (c)(6)(I)).
+
 #### (c) Manufacturer's average sales price
 
 #### (1) In general
 
-&emsp;For purposes of this section, subject to paragraphs (2) and (3), the manufacturer's “average sales price” means, of a drug or biological for a National Drug Code for a calendar quarter for a manufacturer for a unit—
+&emsp;For purposes of this section, subject to paragraphs (2) and (3), the manufacturer's “average sales price” means, of a drug or biological fora National Drug Code for a calendar quarter for a manufacturer for a unit—
 
 &emsp;&emsp;(A) the manufacturer's sales to all purchasers (excluding sales exempted in paragraph (2)) in the United States for such drug or biological in the calendar quarter; divided by
 
@@ -134,7 +144,7 @@
 
 #### (A) In general on a quarterly basis
 
-&emsp;&emsp;The manufacturer's average sales price, for a drug or biological of a manufacturer, shall be calculated by such manufacturer under this subsection on a quarterly basis. In making such calculation insofar as thereis a lag in the reporting of the information on rebates and chargebacks under paragraph (3) so that adequate data are not available on a timely basis, the manufacturer shall apply a methodology based on a 12-month rolling average for the manufacturer to estimate costs attributable to rebates and chargebacks. For years after 2004, the Secretary may establish a uniform methodology under this subparagraph to estimate and apply such costs.
+&emsp;&emsp;The manufacturer's average sales price, for a drug or biological of a manufacturer, shall be calculated by such manufacturer under this subsection on a quarterly basis. In making such calculation insofar as there is a lag in the reporting of the information on rebates and chargebacks under paragraph (3) so that adequate data are not available on a timely basis, the manufacturer shall apply a methodology based on a 12-month rolling average for the manufacturer to estimate costs attributable to rebates and chargebacks. For years after 2004, the Secretary may establish a uniform methodology under this subparagraph to estimate and apply such costs.
 
 #### (B) Updates in payment amounts
 
@@ -195,6 +205,14 @@
 #### (G) Inclusion of vaccines
 
 &emsp;&emsp;In applying provisions of section 1396r–8 of this title under this section, “other than a vaccine” is deemed deleted from section 1396r–8(k)(2)(B) of this title.
+
+#### (H) Biosimilar biological product
+
+&emsp;&emsp;The term “biosimilar biological product” means a biological product approved under an abbreviated application for a license of a biological product that relies in part on data or information in an application for another biological product licensed under section 262 of this title.
+
+#### (I) Reference biological product
+
+&emsp;&emsp;The term “reference biological product” means the biological product licensed under such section 262 of this title that is referred to in the application described in subparagraph (H) of the biosimilar biological product.
 
 #### (d) Monitoring of market prices
 
@@ -294,11 +312,17 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 &emsp;(5) the disclosure of the average manufacturer price by reason of an adjustment under subsection (d)(3)(C) or (e) of this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1847A, as added Pub. L. 108–173, title III, §303(c)(1), Dec. 8,2003, 117 Stat. 2239; amended Pub. L. 110–173, title I, §112, Dec. 29, 2007, 121 Stat. 2500.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1847A, as added Pub. L. 108–173, title III, §303(c)(1), Dec. 8, 2003, 117 Stat. 2239; amended Pub. L. 110–173, title I, §112, Dec. 29, 2007, 121 Stat. 2500; Pub. L. 111–148, title III, §3139(a), Mar. 23, 2010, 124 Stat. 439.)
 
 #### Amendments
 
-2007—Subsec. (b)(1). Pub. L. 110–173, §112(b)(1), inserted “paragraph (7) and” after “Subject to” in introductory provisions.
+<b>2010</b>—Subsec. (b)(1)(C). Pub. L. 111–148, §3139(a)(1)(A), added subpar. (C).
+
+Subsec. (b)(8). Pub. L. 111–148, §3139(a)(1)(B), added par. (8).
+
+Subsec. (c)(6)(H), (I). Pub. L. 111–148, §3139(a)(2), added subpars. (H) and (I).
+
+<b>2007</b>—Subsec. (b)(1). Pub. L. 110–173, §112(b)(1), inserted “paragraph (7) and” after “Subject to” in introductory provisions.
 
 Subsec. (b)(1)(A). Pub. L. 110–173, §112(a)(1), inserted “for a multiple source drug furnished before April 1, 2008, or 106 percent of the amount determined under paragraph (6) for a multiple source drug furnished on or after April 1, 2008” after “paragraph (3)”.
 
@@ -307,6 +331,10 @@ Subsec. (b)(4)(A), (B). Pub. L. 110–173, §112(a)(2), inserted “for single s
 Subsec. (b)(6). Pub. L. 110–173, §112(a)(3), added par. (6).
 
 Subsec. (b)(7). Pub. L. 110–173, §112(b)(2), added par. (7).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title III, §3139(b), Mar. 23, 2010, 124 Stat. 440, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to payments for biosimilar biological products beginning with the first day of the second calendar quarter after enactment of legislation providing for a biosimilar pathway (as determined by the Secretary \[probably means the Secretary of Health and Human Services\]).”
 
 #### Report on Sales to Pharmacy Benefit Managers
 
@@ -326,7 +354,7 @@ Pub. L. 108–173, title III, §303(c)(3), Dec. 8, 2003, 117 Stat. 2245, provide
 
 “(A)
 
-Study.—The Inspector General of the Department of Health and Human Services shall conduct a study on the ability of physician practices in the specialties of hematology, hematology/oncology, and medical oncology of different sizes, especially particularly large practices, to obtain drugs and biologicals for the treatment of cancer patients at 106 percent of the average sales price for the drugs and biologicals. In conducting the study, the Inspector General shall conduct an audit of a representative sample of such practices to determine the adequacy of reimbursement under section 1847A of the Social Security Act \[this section\], as added by paragraph (1).
+Study.—The Inspector General of the Department of Health and Human Services shall conduct a study on the ability of physician practices in the specialties of hematology, hematology/oncology, and medical oncology of different sizes, especially particularlylarge practices, to obtain drugs and biologicals for the treatment of cancer patients at 106 percent of the average sales price for the drugs and biologicals. In conducting the study, the Inspector General shall conduct an audit of a representative sample of such practices to determine the adequacy of reimbursement under section 1847A of the Social Security Act \[this section\], as added by paragraph (1).
 
 “(B)
 

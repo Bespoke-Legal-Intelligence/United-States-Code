@@ -62,7 +62,7 @@
 
 &emsp;(4) in a manner consistent with the provisions of this chapter and with the Secretary's functions under this subchapter, employ, utilize, and compensate any persons, organizations, or departments or agencies (including departments and agencies of the United States) designated by the Secretary to carry out such functions.
 
-(h)(1) The Secretary may make direct loans to Native American veterans in order to enable such veterans to refinance existing loans made under this section.
+(h)(1) The Secretary may make direct loans to Native American veterans in order to enablesuch veterans to refinance existing loans made under this section.
 
 (2)(A) The Secretary may not make a loan under this subsection unless the loan meets the requirements set forth in subparagraphs (B), (C), and (E) of paragraph (1) of section 3710(e) of this title.
 
@@ -92,7 +92,7 @@
 
 #### Amendments
 
-2006—Pub. L. 109–233, §103(f)(3), amended section catchline generally, substituting “Direct housing loans to Native American veterans; program administration” for “Direct housing loans to Native American veterans”.
+<b>2006</b>—Pub. L. 109–233, §103(f)(3), amended section catchline generally, substituting “Direct housing loans to Native American veterans; program administration” for “Direct housing loans to Native American veterans”.
 
 Subsec. (a). Pub. L. 109–233, §103(c)(1)(A), inserted “under this subchapter” after “to a Native American veteran” in introductory provisions.
 
@@ -108,13 +108,13 @@ Subsec. (i)(2)(A), (E). Pub. L. 109–233, §103(c)(1)(D)(ii), (iii), substitute
 
 Subsec. (j). Pub. L. 109–233, §103(b), amended subsec. (j) generally. Prior to amendment, subsec. (j) related to the Secretary's transmittal to the Committees on Veterans’ Affairs of the Senate and House of Representatives of an annual report relating to the implementation of the Native American veteran housing loan pilot program.
 
-2001—Subsec. (a)(1). Pub. L. 107–103, §402(b), designated existing provisions as subpar. (A), substituted “; or” for “; and”, and added subpar. (B).
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–103, §402(b), designated existing provisions as subpar. (A), substituted “; or” for “; and”, and added subpar. (B).
 
 Subsec. (j). Pub. L. 107–103, §402(c), substituted “2006” for “2002” in introductory provisions.
 
-1997—Subsec. (i). Pub. L. 105–114, §201(b), designated existing provisions as par. (1), inserted “, in consultation with tribal organizations (including the National Congress of American Indians and the National American Indian Housing Council),” after “the Secretary shall”, struck out “tribal organizations and” after “educate”, and added par. (2).
+<b>1997</b>—Subsec. (i). Pub. L. 105–114, §201(b), designated existing provisions as par. (1), inserted “, in consultation with tribal organizations (including the National Congress of American Indians and the National American Indian Housing Council),” after “the Secretary shall”, struck out “tribal organizations and” after “educate”, and added par. (2).
 
 Subsec. (j). Pub. L. 105–114, §201(c), added subsec. (j).
 
-1996—Subsecs. (h), (i). Pub. L. 104–275 added subsec. (h) and redesignated former subsec. (h) as (i).
+<b>1996</b>—Subsecs. (h), (i). Pub. L. 104–275 added subsec. (h) and redesignated former subsec. (h) as (i).
 

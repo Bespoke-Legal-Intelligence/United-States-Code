@@ -30,11 +30,11 @@ If the petitioner, or any other person found by the Secretary to have a substant
 
 #### References in Text
 
-The Workforce Investment Act of 1998, referred to in subsec. (a)(1)(C), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a)(1)(C), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–5, §§1801(e)(1)(A)(i), 1893, temporarily substituted “Secretary of Labor” for “Secretary” and “(as defined in section 2319 of this title)” for “or subdivision” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–5, §§1801(e)(1)(A)(i), 1893, temporarily substituted “Secretary of Labor” for “Secretary” and “(as defined in section 2319 of this title)” for “or subdivision” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (a)(1)(A). Pub. L. 111–5, §§1801(e)(1)(A)(ii), 1893, temporarily struck out “(including workers in an agricultural firm or subdivision of any agricultural firm)” after “group of workers”. See Effective and Termination Dates of 2009 Amendment note below.
 
@@ -42,13 +42,13 @@ Subsec. (a)(2)(A). Pub. L. 111–5, §§1801(e)(1)(B), 1893, temporarily substit
 
 Subsec. (a)(3). Pub. L. 111–5, §§1801(e)(1)(C), 1893, temporarily inserted “and on the website of the Department of Labor” after “Federal Register”. See Effective and Termination Dates of 2009 Amendment note below.
 
-2004—Subsec. (a)(2)(A). Pub. L. 108–429 substituted “assistance and appropriate” for “assistance, and appropriate”.
+<b>2004</b>—Subsec. (a)(2)(A). Pub. L. 108–429 substituted “assistance and appropriate” for “assistance, and appropriate”.
 
-2002—Subsec. (a). Pub. L. 107–210 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A petition for a certification of eligibility to apply for adjustment assistance under this subpart may be filed with the Secretary of Labor (hereinafter in this part referred to as the ‘Secretary’) by a group of workers (including workers in any agricultural firm or subdivision of an agricultural firm) or by their certified or recognized union or other duly authorized representative. Upon receipt of the petition, the Secretary shall promptly publish notice in the Federal Register that he has received the petition and initiated an investigation.”
+<b>2002</b>—Subsec. (a). Pub. L. 107–210 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A petition for a certification of eligibility to apply for adjustment assistance under this subpart may be filed with the Secretary of Labor (hereinafter in this part referred to as the ‘Secretary’) by a group of workers (including workers in any agricultural firm or subdivision of an agricultural firm) or by their certified or recognized union or other duly authorized representative. Upon receipt of the petition, the Secretary shall promptly publish notice in the Federal Register that he has received the petition and initiated an investigation.”
 
-1993—Subsec. (a). Pub. L. 103–182 substituted “assistance under this subpart” for “assistance under this part”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–182 substituted “assistance under this subpart” for “assistance under this part”.
 
-1986—Subsec. (a). Pub. L. 99–272 inserted “(including workers in any agricultural firm or subdivision of an agricultural firm)” after “group of workers”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–272 inserted “(including workers in any agricultural firm or subdivision of an agricultural firm)” after “group of workers”.
 
 #### Effective and Termination Dates of 2009 Amendment
 
@@ -88,7 +88,7 @@ Certifications Made Before Effective Date.—Notwithstanding subsection (a)—
 
 &emsp;&emsp;“(B) would otherwise be eligible to receive benefits under such chapter 3 as in effect on the day before such effective date.”
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding this section.
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding this section.
 
 #### Effective Date of 2002 Amendment
 
@@ -126,7 +126,7 @@ Reachback.—Notwithstanding paragraph (1), any worker—
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2010, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding this section.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be providedunder this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding this section.
 
 #### Determination of Increases of Imports for Certain Fishermen
 
@@ -136,7 +136,7 @@ Pub. L. 111–5, div. B, title I, §1886, Feb. 17, 2009, 123 Stat. 419, provided
 
 &emsp;“(2) is otherwise eligible for adjustment assistance under chapter 2 or 6, as the case may be,
 
-> the increase in imports of articles like or directly competitive with the agricultural commodity produced bysuch producer may be based on imports of wild-caught seafood, farm-raised seafood, or both.”
+> the increase in imports of articles like or directly competitive with the agricultural commodity produced by such producer may be based on imports of wild-caught seafood, farm-raised seafood, or both.”
 
 #### Declaration of Policy; Sense of Congress
 

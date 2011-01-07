@@ -124,7 +124,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In determining the number of months for which an adult has received assistance under a State or tribal program funded under this part, the State or tribe shall disregard any month during which the adult lived in Indian country or an Alaskan Native village if the most reliable data available with respect to the month (or a period including the month) indicate that at least 50 percent of the adults living in Indian country or in the village were not employed.
+&emsp;&emsp;&emsp;In determining the number of months for which an adult has received assistance under a State or tribal program funded under this part, the State or tribe shall disregard any month during which the adult lived in Indian country or an Alaskan Native village if the most reliabledata available with respect to the month (or a period including the month) indicate that at least 50 percent of the adults living in Indian country or in the village were not employed.
 
 #### (ii) “Indian country” defined
 
@@ -136,7 +136,7 @@
 
 #### (F) Rule of interpretation
 
-&emsp;&emsp;This part shall not be interpreted to prohibit any State from expending State fundsnot originating with the Federal Government on benefits for children or families that have become ineligible for assistance under the State program funded under this part by reason of subparagraph (A).
+&emsp;&emsp;This part shall not be interpreted to prohibit any State from expending State funds not originating with the Federal Government on benefits for children or families that have become ineligible for assistance under the State program funded under this part by reason of subparagraph (A).
 
 #### (G) Inapplicability to welfare-to-work grants and assistance
 
@@ -182,13 +182,13 @@
 
 #### (C) Denial of assistance for relative who fails to notify State agency of absence of child
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance for an individual who is a parent (or other caretaker relative) of a minor child and who fails to notify the agency administering the State program funded under this part of the absence of the minor child from the home for the period specified in or provided for pursuant to subparagraph (A), by the end of the 5-day period that begins with the date that it becomes clear to the parent (or relative) that the minor child will be absent for such period so specified or provided for.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance for an individual who is a parent (or other caretaker relative) of a minor child and who fails to notify the agency administering the State program funded under this part of the absence of the minor child from the home forthe period specified in or provided for pursuant to subparagraph (A), by the end of the 5-day period that begins with the date that it becomes clear to the parent (or relative) that the minor child will be absent for such period so specified or provided for.
 
 #### (11) Medical assistance required to be provided for certain families having earnings from employment or child support
 
 #### (A) Earnings from employment
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX of this chapter shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX of this chapter) as receiving aid under a State plan approved under thispart (as in effect on July 16, 1996), that would become ineligible for such aid because of hours of or income from employment of the caretaker relative (as defined under this part as in effect on such date) or because of section 602(a)(8)(B)(ii)(II) of this title (as so in effect), and that was so treated as receiving such aid in at least 3 of the 6 months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX of this chapter for an extended period or periods as provided in section 1396r–6 or 1396a(e)(1) of this title (as applicable), and that the family will be appropriately notified of such extension as required by section 1396r–6(a)(2) of this title.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX of this chapter shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX of this chapter) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid because of hours of or income from employment of the caretaker relative (as defined under this part as in effect on such date) or because of section 602(a)(8)(B)(ii)(II) of this title (as so in effect), and that was so treated as receiving such aid in at least 3 of the 6 months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX of this chapter for an extended period or periods as provided in section 1396r–6 or 1396a(e)(1) of this title (as applicable), and that the family will be appropriately notified of such extension as required by section 1396r–6(a)(2) of this title.
 
 #### (B) Child support
 
@@ -238,7 +238,7 @@
 
 #### (c) Sanctions against recipients not considered wage reductions
 
-A penalty imposed by a State against the family of an individual by reason of the failure of the individual to comply with a requirement under the State program funded under this part shall not be construed to be a reduction in any wage paid to the individual.
+A penalty imposed by a State against the family of an individual by reason of the failure ofthe individual to comply with a requirement under the State program funded under this part shall not be construed to be a reduction in any wage paid to the individual.
 
 #### (d) Nondiscrimination provisions
 
@@ -308,7 +308,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 #### (4) “Non-213A alien” defined
 
-&emsp;An alien is a non-213A alien for purposes of this subsection if the affidavit of support or similar agreement with respect to the alien that was executed by the sponsor of the alien's entry into the United States was executed other than pursuant to section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\].
+&emsp;An alien is a non-213A alien for purposes of this subsection if the affidavit of support or similar agreement with respect to the alien that was executed by the sponsor of the alien's entry into the United States was executedother than pursuant to section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\].
 
 #### (5) Inapplicability to alien minor sponsored by a parent
 
@@ -358,11 +358,11 @@ Another prior section 608, act Aug. 14, 1935, ch. 531, title IV, §408, as added
 
 #### Amendments
 
-2008—Subsec. (a)(8). Pub. L. 110–246, §4002(b)(1)(B), (2)(V), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+<b>2008</b>—Subsec. (a)(8). Pub. L. 110–246, §4002(b)(1)(B), (2)(V), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-2006—Subsec. (a)(3). Pub. L. 109–171 amended par. (3) generally. Prior to amendment, par. (3) prohibited a State from giving assistance under this part to families not assigning to the State certain rights to support accruing before the date the family ceased to receive assistance, with certain limitations, and prohibited a State from requiring the assignment of future support rights as a condition of providing assistance to a family.
+<b>2006</b>—Subsec. (a)(3). Pub. L. 109–171 amended par. (3) generally. Prior to amendment, par. (3) prohibited a State from giving assistance under this part to families not assigning to the State certain rights to support accruing before the date the family ceased to receive assistance, with certain limitations, and prohibited a State from requiring the assignment of future support rights as a condition of providing assistance to a family.
 
-1997—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
+<b>1997</b>—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
 Subsec. (a)(1). Pub. L. 105–33, §5505(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to a family—
 

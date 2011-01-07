@@ -20,7 +20,7 @@
 
 #### Amendments
 
-1962—Pub. L. 87–814 substituted provisions respecting violations, fines, and forfeitures, and application of related laws for provisions respecting enforcement of chapter.
+<b>1962</b>—Pub. L. 87–814 substituted provisions respecting violations, fines, and forfeitures, and application of related laws for provisions respecting enforcement of chapter.
 
 #### Transfer of Functions
 

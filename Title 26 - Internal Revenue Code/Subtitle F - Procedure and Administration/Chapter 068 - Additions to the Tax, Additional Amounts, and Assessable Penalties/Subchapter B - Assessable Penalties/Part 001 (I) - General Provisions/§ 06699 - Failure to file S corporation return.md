@@ -38,9 +38,9 @@ A prior section 6699, added Pub. L. 95–600, title I, §141(c)(1), Nov. 6, 1978
 
 #### Amendments
 
-2009—Subsec. (b)(1). Pub. L. 111–92 substituted “$195” for “$89”.
+<b>2009</b>—Subsec. (b)(1). Pub. L. 111–92 substituted “$195” for “$89”.
 
-2008—Subsec. (b)(1). Pub. L. 110–458 substituted “$89” for “$85”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–458 substituted “$89” for “$85”.
 
 #### Effective Date of 2009 Amendment
 

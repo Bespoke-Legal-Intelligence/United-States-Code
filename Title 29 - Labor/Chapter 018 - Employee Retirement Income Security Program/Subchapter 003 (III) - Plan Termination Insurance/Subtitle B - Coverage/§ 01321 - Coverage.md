@@ -78,15 +78,15 @@ For purposes of subsection (b)(9), the term “substantial owner” means an ind
 
 #### References in Text
 
-The Railroad Retirement Act of 1935 or 1937, referred to in subsec. (b)(2), means act Aug. 29, 1935, ch. 812, 49 Stat. 967, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305, and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
+The Railroad Retirement Act of 1935 or 1937, referred to in subsec. (b)(2), means act Aug. 29, 1935, ch. 812, 49 Stat. 967, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88Stat. 1305, and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
 
 The International Organizations Immunities Act, referred to in subsec. (b)(10), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
 #### Amendments
 
-2008—Subsec. (b)(14). Pub. L. 110–458 struck out par. (14) which read as follows: “established and maintained by an Indian tribal government (as defined in section 7701(a)(40) of title 26), a subdivision of an Indian tribal government (determined in accordance with section 7871(d) of title 26), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function).”
+<b>2008</b>—Subsec. (b)(14). Pub. L. 110–458 struck out par. (14) which read as follows: “established and maintained by an Indian tribal government (as defined in section 7701(a)(40) of title 26), a subdivision of an Indian tribal government (determined in accordance with section 7871(d) of title 26), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function).”
 
-2006—Subsec. (b)(2). Pub. L. 109–280, §906(a)(2)(B), inserted “or which is described in the last sentence of section 1002(32) of this title” at end.
+<b>2006</b>—Subsec. (b)(2). Pub. L. 109–280, §906(a)(2)(B), inserted “or which is described in the last sentence of section 1002(32) of this title” at end.
 
 Subsec. (b)(9). Pub. L. 109–280, §407(c)(1)(A), struck out “as defined in section 1322(b)(6) of this title” before semicolon at end.
 
@@ -94,11 +94,11 @@ Subsec. (b)(14). Pub. L. 109–280, §906(b)(2), added par. (14).
 
 Subsec. (d). Pub. L. 109–280, §407(c)(1)(B), added subsec. (d).
 
-1989—Subsec. (a). Pub. L. 101–239, §7894(g)(3)(A), substituted “this subchapter applies” for “this section applies” in introductory provisions.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7894(g)(3)(A), substituted “this subchapter applies” for “this section applies” in introductory provisions.
 
 Subsecs. (a)(1), (2), (b)(3), (4)(A), (8). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1980—Subsec. (a). Pub. L. 96–364 inserted “unless otherwise specifically indicated in this subchapter,” after “For this purpose,”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–364 inserted “unless otherwise specifically indicated in this subchapter,” after “For this purpose,”.
 
 #### Effective Date of 2008 Amendment
 

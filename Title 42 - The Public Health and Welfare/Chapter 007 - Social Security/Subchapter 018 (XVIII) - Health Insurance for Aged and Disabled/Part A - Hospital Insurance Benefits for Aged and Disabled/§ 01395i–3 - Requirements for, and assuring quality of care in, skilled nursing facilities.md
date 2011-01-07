@@ -68,7 +68,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (iii) Use of independent assessors
 
-&emsp;&emsp;&emsp;If a State determines, under a survey under subsection (g) of this section or otherwise, that there has been a knowing and willful certification of false assessments under this paragraph, the State may require (for a period specified by the State) that resident assessments under this paragraph be conducted and certified by individuals who are independent of the facility and who are approved by the State.
+&emsp;&emsp;&emsp;If a State determines, under a survey under subsection (g) of this section or otherwise, that there has been a knowing and willful certification of false assessments under this paragraph, the Statemay require (for a period specified by the State) that resident assessments under this paragraph be conducted and certified by individuals who are independent of the facility and who are approved by the State.
 
 #### (C) Frequency
 
@@ -84,7 +84,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (ii) Resident review
 
-&emsp;&emsp;&emsp;The skilled nursing facility must examine each resident no less frequently than once every 3 months and, as appropriate,revise the resident's assessment to assure the continuing accuracy of the assessment.
+&emsp;&emsp;&emsp;The skilled nursing facility must examine each resident no less frequently than once every 3 months and, as appropriate, revise the resident's assessment to assure the continuing accuracy of the assessment.
 
 #### (D) Use
 
@@ -136,7 +136,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;&emsp;&emsp;(III) the facility either has only patients whose physicians have indicated (through physicians’ orders or admission notes) that each such patient does not require the services of a registered nurse or a physician for a 48-hour period, or has made arrangements for a registered professional nurse or a physician to spend such time at such facility as may be indicated as necessary by the physician to provide necessary skilled nursing services on days when the regular full-time registered professional nurse is not on duty,
 
-&emsp;&emsp;&emsp;&emsp;(IV) the Secretary provides notice of the waiver to the State long-term care ombudsman (established under section 307(a)(12) <sup>1</sup> of the Older Americans Act of 1965) and the protection and advocacy system in the State for the mentally ill and the mentally retarded, and
+&emsp;&emsp;&emsp;&emsp;(IV) the Secretary provides notice of the waiver to the State long-term care ombudsman (established under section 307(a)(12) <sup>1</sup> of the Older Americans Act of1965) and the protection and advocacy system in the State for the mentally ill and the mentally retarded, and
 
 &emsp;&emsp;&emsp;&emsp;(V) the facility that is granted such a waiver notifies residents of the facility (or, where appropriate, the guardians or legal representatives of such residents) and members of their immediate families of the waiver.
 
@@ -152,7 +152,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;&emsp;(II) is competent to provide nursing or nursing-related services.
 
-&emsp;&emsp;(ii) A skilled nursing facility must not use on a temporary, per diem, leased, or on anybasis other than as a permanent employee any individual as a nurse aide in the facility on or after January 1, 1991, unless the individual meets the requirements described in clause (i).
+&emsp;&emsp;(ii) A skilled nursing facility must not use on a temporary, per diem, leased, or on any basis other than as a permanent employee any individual as a nurse aide in the facility on or after January 1, 1991, unless the individual meets the requirements described in clause (i).
 
 #### (B) Offering competency evaluation programs for current employees
 
@@ -177,6 +177,8 @@ In this subchapter, the term “skilled nursing facility” means an institution
 &emsp;&emsp;&emsp;(i) who is a licensed health professional (as defined in subparagraph (G)) or a registered dietician, or
 
 &emsp;&emsp;&emsp;(ii) who volunteers to provide such services without monetary compensation.
+
+> &emsp;&emsp;Such term includes an individual who provides such services through an agency or under a contract with the facility.
 
 #### (G) “Licensed health professional” defined
 
@@ -446,7 +448,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (C) Skilled nursing facility administrator
 
-&emsp;&emsp;The administrator of a skilled nursing facility must meet standards established bythe Secretary under subsection (f)(4) of this section.
+&emsp;&emsp;The administrator of a skilled nursing facility must meet standards established by the Secretary under subsection (f)(4) of this section.
 
 #### (2) Licensing and Life Safety Code
 
@@ -502,7 +504,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (B) Information in registry
 
-&emsp;&emsp;The registry under subparagraph (A) shall provide (in accordance with regulations of the Secretary) for the inclusion of specific documented findings by a State under subsection (g)(1)(C) of this section of resident neglect or abuse or misappropriation of resident property involving an individual listed in the registry, as well as any brief statement of the individual disputing the findings, but shall not include any allegations of resident abuse or neglect or misappropriation of resident property that are not specifically documented by the State under such subsection. The State shall make available to the public information in the registry. In the case of inquiries to the registry concerning an individual listed in the registry, any information disclosed concerning such a finding shall also include disclosure of any such statement in the registry relating to the finding or a clear and accurate summary of such a statement.
+&emsp;&emsp;The registry under subparagraph (A) shall provide (in accordance with regulations of the Secretary) for the inclusion of specific documented findings by a State under subsection (g)(1)(C) of this section of resident neglect or abuse or misappropriation of resident property involving an individual listed in the registry, as well as any brief statement of the individual disputing the findings, but shall not include any allegations of resident abuse or neglect or misappropriation of resident property that are not specifically documented by the State undersuch subsection. The State shall make available to the public information in the registry. In the case of inquiries to the registry concerning an individual listed in the registry, any information disclosed concerning such a finding shall also include disclosure of any such statement in the registry relating to the finding or a clear and accurate summary of such a statement.
 
 #### (C) Prohibition against charges
 
@@ -510,7 +512,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (3) State appeals process for transfers and discharges
 
-&emsp;The State, for transfers and discharges from skilled nursing facilities effected on or after October 1, 1989, must provide for a fair mechanism for hearing appeals on transfers and discharges of residents of such facilities. Such mechanism must meet the guidelines established by the Secretary under subsection (f)(3)of this section; but the failure of the Secretary to establish such guidelines shall not relieve any State of its responsibility to provide for such a fair mechanism.
+&emsp;The State, for transfers and discharges from skilled nursing facilities effected on or after October 1, 1989, must provide for a fair mechanism for hearing appeals on transfers and discharges of residents of such facilities. Such mechanism must meet the guidelines established by the Secretary under subsection (f)(3) of this section; but the failure of the Secretary to establish such guidelines shall not relieve any State of its responsibility to provide for such a fair mechanism.
 
 #### (4) Skilled nursing facility administrator standards
 
@@ -536,7 +538,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;For purposes of subsections (b)(5) and (e)(1)(A) of this section, the Secretary shall establish, by not later than September 1, 1988—
 
-&emsp;&emsp;&emsp;(i) requirements for the approval of nurse aide training and competency evaluation programs, including requirements relating to (I) the areas to be covered in such a program (including at least basic nursing skills, personal care skills, recognition of mental health and social service needs, care of cognitively impaired residents, basic restorative services, and residents’ rights) and content of the curriculum, (II) minimum hours of initial and ongoing training and retraining (including not less than 75 hours in the case of initial training), (III) qualifications of instructors, and (IV) procedures for determination of competency;
+&emsp;&emsp;&emsp;(i) requirements for the approval of nurse aide training and competency evaluation programs, including requirements relating to (I) the areas to be covered in such a program (including at least basic nursing skills, personal care skills, recognition of mental health and social service needs, care of cognitively impaired residents, basic restorative services, and residents’ rights) and content of the curriculum (including, in the case of initial training and, if the Secretary determines appropriate, in the case of ongoing training, dementia management training, and patient abuse prevention training,<sup>4</sup> (II) minimum hours of initial and ongoing training and retraining (including not less than 75 hours in the case of initial training), (III) qualifications of instructors, and (IV) procedures for determination of competency;
 
 &emsp;&emsp;&emsp;(ii) requirements for the approval of nurse aide competency evaluation programs, including requirement relating to the areas to be covered in such a program, including at least basic nursing skills, personal care skills, recognition of mental health and social service needs, care of cognitively impaired residents, basic restorative services, residents’ rights, and procedures for determination of competency;
 
@@ -548,7 +550,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;&emsp;&emsp;(II) prohibit the imposition on a nurse aide who is employed by (or who has received an offer of employment from) a facility on the date on which the aide begins either such program of any charges (including any charges for textbooks and other required course materials and any charges for the competency evaluation) for either such program, and
 
-&emsp;&emsp;&emsp;&emsp;(III) in the case of a nurse aide not described in subclause (II) who is employed by (or who has received an offer of employment from) a facility not later than 12 months after completing either such program, the State shall provide for the reimbursement of costs incurred in completing such program on a prorata <sup>4</sup> basis during the period in which the nurse aide is so employed.
+&emsp;&emsp;&emsp;&emsp;(III) in the case of a nurse aide not described in subclause (II) who is employed by (or who has received an offer of employment from) a facility not later than 12 months after completing either such program, the State shall provide for the reimbursement of costs incurred in completing such program on a prorata <sup>5</sup> basisduring the period in which the nurse aide is so employed.
 
 #### (B) Approval of certain programs
 
@@ -628,7 +630,17 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (B) Rule if failure to publish regulations
 
-&emsp;&emsp;If the Secretary does not issue the regulations under subparagraph (A) on or before the date required in such subparagraph, in the case of a resident of a skilled nursing facility who is eligible to receive benefits under this part, the costs which may not be charged to the personal funds of such resident (and for which payment is considered tobe made under this subchapter) shall include, at a minimum, the costs for routine personal hygiene items and services furnished by the facility.
+&emsp;&emsp;If the Secretary does not issue the regulations under subparagraph (A) on or before the date required in such subparagraph, in the case of a resident of a skilled nursing facility who is eligible to receive benefits under this part, the costs which may not be charged to the personal funds of such resident (and for which payment is considered to be made under this subchapter) shall include, at a minimum, the costs for routine personal hygiene items and services furnished by the facility.
+
+#### (8) Special focus facility program
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall conduct a special focus facility program for enforcement of requirements for skilled nursing facilities that the Secretary has identified as having substantially failed to meet applicable requirement of this chapter.
+
+#### (B) Periodic surveys
+
+&emsp;&emsp;Under such program the Secretary shall conduct surveys of each facility in the program not less than once every 6 months.
 
 #### (g) Survey and certification process
 
@@ -670,7 +682,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each skilled nursing facility shall be subject to a standard survey, to be conducted without any prior notice to the facility. Any individual who notifies (or causes to be notified) a skilled nursing facility of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall review each State's procedures for the scheduling and conduct of standard surveys to assure that the State has taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
+&emsp;&emsp;&emsp;Each skilled nursing facility shall be subject to a standard survey, to be conducted without any prior notice to the facility. Any individual who notifies (orcauses to be notified) a skilled nursing facility of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall review each State's procedures for the scheduling and conduct of standard surveys to assure that the State has taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
 
 #### (ii) Contents
 
@@ -686,7 +698,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Each skilled nursing facility shall be subject to a standard survey not laterthan 15 months after the date of the previous standard survey conducted under this subparagraph. The Statewide average interval between standard surveys of skilled nursing facilities under this subsection shall not exceed 12 months.
+&emsp;&emsp;&emsp;&emsp;Each skilled nursing facility shall be subject to a standard survey not later than 15 months after the date of the previous standard survey conducted under this subparagraph. The Statewide average interval between standard surveys of skilled nursing facilities under this subsection shall not exceed 12 months.
 
 #### (II) Special surveys
 
@@ -736,7 +748,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (iii) Training
 
-&emsp;&emsp;&emsp;The Secretary shall provide for the comprehensive training of State and Federal surveyors in the conduct of standard and extended surveys under this subsection, including the auditing of resident assessments and plans of care. No individual shall serve as a member of a survey team unless the individual has successfully completed a training and testing program in survey and certification techniques that has been approved by the Secretary.
+&emsp;&emsp;&emsp;The Secretary shall provide for the comprehensive training of State and Federalsurveyors in the conduct of standard and extended surveys under this subsection, including the auditing of resident assessments and plans of care. No individual shall serve as a member of a survey team unless the individual has successfully completed a training and testing program in survey and certification techniques that has been approved by the Secretary.
 
 #### (3) Validation surveys
 
@@ -800,7 +812,11 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (D) Access to fraud control units
 
-&emsp;&emsp;Each State shall provide its State medicaid fraud and abuse control unit (established under section 1396b(q) of this title) with access to all information of the State agency responsible for surveys and certifications under this subsection.
+&emsp;&emsp;Each State shall provide its State medicaid fraud and abuse control unit (established under section 1396b(q) of this title) with access to all information of the State agencyresponsible for surveys and certifications under this subsection.
+
+#### (E) Submission of survey and certification information to the Secretary
+
+&emsp;&emsp;In order to improve the timeliness of information made available to the public under subparagraph (A) and provided on the Nursing Home Compare Medicare website under subsection (i), each State shall submit information respecting any survey or certification made respecting a skilled nursing facility (including any enforcement actions taken by the State) to the Secretary not later than the date on which the State sends such information to the facility. The Secretary shall use the information submitted under the preceding sentence to update the information provided on the Nursing Home Compare Medicare website as expeditiously as practicable but not less frequently than quarterly.
 
 #### (h) Enforcement process
 
@@ -818,7 +834,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (A) In general
 
-&emsp;&emsp;With respect to any skilled nursing facility in a State, if the Secretary finds, or pursuant to a recommendation of the State under paragraph (1) finds, that a skilled nursing facility no longer meets a requirement of subsection (b), (c), (d), or (e) of thissection, and further finds that the facility's deficiencies—
+&emsp;&emsp;With respect to any skilled nursing facility in a State, if the Secretary finds, or pursuant to a recommendation of the State under paragraph (1) finds, that a skilled nursing facility no longer meets a requirement of subsection (b), (c), (d), or (e) of this section, and further finds that the facility's deficiencies—
 
 &emsp;&emsp;&emsp;(i) immediately jeopardize the health or safety of its residents, the Secretary shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in subparagraph (B)(iii), or terminate the facility's participation under this subchapter and may provide, in addition, for one or more of the other remedies described in subparagraph (B); or
 
@@ -836,7 +852,39 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (ii) Authority with respect to civil money penalties
 
-&emsp;&emsp;&emsp;The Secretary may impose a civil money penalty in an amount not to exceed $10,000 for each day of noncompliance. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), the Secretary may impose a civil money penalty in an amount not to exceed $10,000 for each day of noncompliance. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+
+#### (II) Reduction of civil money penalties in certain circumstances
+
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (III), in the case where a facility self-reports and promptly corrects a deficiency for which a penalty was imposed under this clause not later than 10 calendar days after the date of such imposition, the Secretary may reduce the amount of the penalty imposed by not more than 50 percent.
+
+#### (III) Prohibitions on reduction for certain deficiencies
+
+#### (aa) Repeat deficiencies
+
+&emsp;&emsp;&emsp;&emsp;&emsp;The Secretary may not reduce the amount of a penalty under subclause (II) if the Secretary had reduced a penalty imposed on the facility in the preceding year under such subclause with respect to a repeat deficiency.
+
+#### (bb) Certain other deficiencies
+
+&emsp;&emsp;&emsp;&emsp;&emsp;The Secretary may not reduce the amount of a penalty under subclause (II) if the penalty is imposed on the facility for a deficiency that is found toresult in a pattern of harm or widespread harm, immediately jeopardizes the health or safety of a resident or residents of the facility, or results in the death of a resident of the facility.
+
+#### (IV) Collection of civil money penalties
+
+&emsp;&emsp;&emsp;&emsp;In the case of a civil money penalty imposed under this clause, the Secretary shall issue regulations that—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) subject to item (cc), not later than 30 days after the imposition of the penalty, provide for the facility to have the opportunity to participate in an independent informal dispute resolution process which generates a written record prior to the collection of such penalty;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in the case where the penalty is imposed for each day of noncompliance, provide that a penalty may not be imposed for any day during the period beginning on the initial day of the imposition of the penalty and ending on the day on which the informal dispute resolution process under item (aa) is completed;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) may provide for the collection of such civil money penalty and the placement of such amounts collected in an escrow account under the direction of the Secretary on the earlier of the date on which the informal dispute resolution process under item (aa) is completed or the date that is 90 days after the date of the imposition of the penalty;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) may provide that such amounts collected are kept in such account pending the resolution of any subsequent appeals;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) in the case where the facility successfully appeals the penalty, may provide for the return of such amounts collected (plus interest) to the facility; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ff) in the case where all such appeals are unsuccessful, may provide that some portion of such amounts collected may be used to support activities that benefit residents, including assistance to support and protect residents of a facility that closes (voluntarily or involuntarily) or is decertified (including offsetting costs of relocating residents to home and community-based settings or another facility), projects that support resident and family councils and other consumer involvement in assuring quality care in facilities, and facility improvement initiatives approved by the Secretary (including joint training of facility staff and surveyors, technical assistance for facilities implementing quality assurance programs, the appointment of temporary management firms, and other activities approved by the Secretary).
 
 #### (iii) Appointment of temporary management
 
@@ -864,7 +912,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (D) Assuring prompt compliance
 
-&emsp;&emsp;If a skilled nursing facility has not complied with any of the requirements of subsections (b), (c), and (d) of this section, within 3 months after the date the facility is found to be out of compliance with such requirements, the Secretary shall impose the remedy described in subparagraph (B)(i) for all individuals who are admitted to the facility after such date.
+&emsp;&emsp;If a skilled nursing facility has not complied with any of the requirements of subsections (b), (c), and (d) of this section, within 3 months after the date the facility is found to be out of compliance with such requirements, the Secretary shall impose the remedy described in subparagraph (B)(i) forall individuals who are admitted to the facility after such date.
 
 #### (E) Repeated noncompliance
 
@@ -874,7 +922,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;&emsp;(ii) monitor the facility under subsection (g)(4)(B) of this section,
 
-> &emsp;&emsp;until the facility has demonstrated, to the satisfaction of the Secretary, that it is incompliance with the requirements of subsections (b), (c), and (d) of this section, and that it will remain in compliance with such requirements.
+> &emsp;&emsp;until the facility has demonstrated, to the satisfaction of the Secretary, that it is in compliance with the requirements of subsections (b), (c), and (d) of this section, and that it will remain in compliance with such requirements.
 
 #### (3) Effective period of denial of payment
 
@@ -882,25 +930,105 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (4) Immediate termination of participation for facility where Secretary finds noncompliance and immediate jeopardy
 
-&emsp;If the Secretary finds that a skilled nursing facility has not met a requirement of subsection (b), (c), or (d) of this section, and finds that the failure immediately jeopardizes the health or safety of its residents, the Secretary shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in paragraph (2)(B)(iii), or the Secretary shall terminate the facility's participation under this subchapter. If the facility's participation under this subchapter is terminated, the State shall provide for the safe and orderly transfer of the residents eligible under this subchapter consistent with the requirements of subsection (c)(2) of this section.
+&emsp;If the Secretary finds that a skilled nursing facility has not met a requirement of subsection (b), (c), or (d) of this section, and finds that the failure immediately jeopardizes the health or safety of its residents, the Secretary shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in paragraph (2)(B)(iii), or the Secretary, subject to section 1320a–7j(h) of this title, shall terminate the facility's participation under this subchapter. If the facility's participation under this subchapter is terminated, the State shall provide for the safe and orderly transfer of the residents eligible under this subchapter consistent with the requirements of subsection (c)(2) and section 1320a–7j(h) of this title.
 
 #### (5) Construction
 
-&emsp;The remedies provided under this subsection are in addition to those otherwise available under State or Federal law and shall not be construed as limiting such other remedies, including any remedy available to an individual at common law. The remedies described in clauses (i),<sup>5</sup> and (iii) of paragraph (2)(B) may be imposed during the pendency of any hearing.
+&emsp;The remedies provided under this subsection are in addition to those otherwise available under State or Federal law and shall not be construed as limiting such other remedies, including any remedy available to an individual at common law. The remedies described in clauses (i), (ii)(IV), and (iii) of paragraph (2)(B) may be imposed during the pendency of any hearing.
 
 #### (6) Sharing of information
 
 &emsp;Notwithstanding any other provision of law, all information concerning skilled nursing facilities required by this section to be filed with the Secretary or a State agency shall be made available by such facilities to Federal or State employees for purposes consistent with the effective administration of programs established under this subchapter and subchapter XIX of this chapter, including investigations by State medicaid fraud control units.
 
-#### (i) Construction
+#### (i) Nursing Home Compare website
+
+#### (1) Inclusion of additional information
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall ensure that the Department of Health and Human Services includes, as part of the information provided for comparison of nursing homes on the official Internet website of the Federal Government for Medicare beneficiaries (commonly referred to as the “Nursing Home Compare” Medicare website) (or a successor website), the following information in a manner that is prominent, updated on a timely basis, easily accessible, readily understandable to consumers of long-term care services, and searchable:
+
+&emsp;&emsp;&emsp;(i) Staffing data for each facility (including resident census data and data on the hours of care provided per resident per day) based on data submitted under section 1320a–7j(g) of this title, including information on staffing turnover and tenure, in a format that is clearly understandable to consumers of long-term care services and allows such consumers to compare differences in staffing between facilities and State and national averages for the facilities. Such format shall include—
+
+&emsp;&emsp;&emsp;&emsp;(I) concise explanations of how to interpret the data (such as a plain English explanation of data reflecting “nursing home staff hours per resident day”);
+
+&emsp;&emsp;&emsp;&emsp;(II) differences in types of staff (such as training associated with different categories of staff);
+
+&emsp;&emsp;&emsp;&emsp;(III) the relationship between nurse staffing levels and quality of care; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) an explanation that appropriate staffing levels vary based on patient case mix.
+
+&emsp;&emsp;&emsp;(ii) Links to State Internet websites with information regarding State survey and certification programs, links to Form 2567 State inspection reports (or a successor form) on such websites, information to guide consumers in how to interpret and understand such reports, and the facility plan of correction or other response to such report. Any such links shall be posted on a timely basis.
+
+&emsp;&emsp;&emsp;(iii) The standardized complaint form developed under section 1320a–7j(f) of this title, including explanatory material on what complaint forms are, how they are used, and how to file a complaint with the State survey and certification program and the State long-term care ombudsman program.
+
+&emsp;&emsp;&emsp;(iv) Summary information on the number, type, severity, and outcome of substantiated complaints.
+
+&emsp;&emsp;&emsp;(v) The number of adjudicated instances of criminal violations by a facility or the employees of a facility—
+
+&emsp;&emsp;&emsp;&emsp;(I) that were committed inside the facility;
+
+&emsp;&emsp;&emsp;&emsp;(II) with respect to such instances of violations or crimes committed inside of the facility that were the violations or crimes of abuse, neglect, and exploitation, criminal sexual abuse, or other violations or crimes that resulted in serious bodily injury; and
+
+&emsp;&emsp;&emsp;&emsp;(III) <sup>6</sup> the number of civil monetary penalties levied against the facility, employees, contractors, and other agents.
+
+#### (B) Deadline for provision of information
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the Secretary shall ensure that the information described in subparagraph (A) is included on such website (or a successor website) not later than 1 year after March 23, 2010.
+
+#### (ii) Exception
+
+&emsp;&emsp;&emsp;The Secretary shall ensure that the information described in subparagraph (A)(i) is included on such website (or a successor website) not later than the date on which the requirements under section 1320a–7j(g) of this title are implemented.
+
+#### (2) Review and modification of website
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall establish a process—
+
+&emsp;&emsp;&emsp;(i) to review the accuracy, clarity of presentation, timeliness, and comprehensiveness of information reported on such website as of the day before March 23, 2010; and
+
+&emsp;&emsp;&emsp;(ii) not later than 1 year after March 23, 2010, to modify or revamp such website in accordance with the review conducted under clause (i).
+
+#### (B) Consultation
+
+&emsp;&emsp;In conducting the review under subparagraph (A)(i), the Secretary shall consult with—
+
+&emsp;&emsp;&emsp;(i) State long-term care ombudsman programs;
+
+&emsp;&emsp;&emsp;(ii) consumer advocacy groups;
+
+&emsp;&emsp;&emsp;(iii) provider stakeholder groups; and
+
+&emsp;&emsp;&emsp;(iv) any other representatives of programs or groups the Secretary determines appropriate.
+
+#### (j) Construction
 
 Where requirements or obligations under this section are identical to those provided under section 1396r of this title, the fulfillment of those requirements or obligations under section 1396r of this title shall be considered to be the fulfillment of the corresponding requirements or obligations under this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1819, as added and amended Pub. L. 100–203, title IV, §§4201(a)(3), 4202(a)(2), 4203(a)(2), 4206, Dec. 22, 1987, 101 Stat. 1330–160, 1330–175, 1330–179, 1330–182; Pub. L. 100–360, title IV, §411(<i>l</i>)(1)(A), (2)(A)–(D), (F)–(L)(i), (4), (5), (7), (11), July 1, 1988, 102 Stat. 800–805, as amended Pub. L. 100–485, title VI, §608(d)(27)(A), (C), (D), (I), (L), Oct. 13, 1988, 102 Stat. 2422, 2423; Pub. L. 101–239, title VI, §6901(b)(1), (3), (d)(4), Dec. 19, 1989, 103 Stat. 2298, 2301; Pub. L. 101–508, title IV, §§4008(h)(1)(B)–(F)(i), (G), (2)(B)–(N), (m)(3)(F)\[(E)\], 4206(d)(1), Nov. 5, 1990, 104 Stat. 1388–46 to 1388–50, 1388–54, 1388–116; Pub. L. 102–375, title VII, §708(a)(1)(A), Sept. 30, 1992, 106 Stat. 1291; Pub. L. 103–432, title I, §§106(c)(1)(A), (2)(A), (3)(A), (4)(A), (B), (d)(1)–(5), 110(b), Oct. 31, 1994, 108 Stat. 4406–4408; Pub. L. 105–15, §1, May 15, 1997, 111 Stat. 34; Pub. L. 105–33, title IV, §§4432(b)(5)(A), 4755(a), Aug. 5, 1997, 111 Stat. 421, 526; Pub. L. 106–554, §1(a)(6) \[title IX, §941(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 108–173, title VII, §736(a)(8), title IX, §932(c)(2), Dec. 8, 2003, 117 Stat. 2355, 2401.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1819, as added and amended Pub. L. 100–203, title IV, §§4201(a)(3), 4202(a)(2), 4203(a)(2), 4206, Dec. 22, 1987, 101 Stat. 1330–160, 1330–175, 1330–179, 1330–182; Pub. L. 100–360, title IV, §411(<i>l</i>)(1)(A), (2)(A)–(D), (F)–(L)(i), (4), (5), (7), (11), July 1, 1988, 102 Stat. 800–805, as amended Pub. L. 100–485, title VI, §608(d)(27)(A), (C), (D), (I), (L), Oct. 13, 1988, 102 Stat. 2422, 2423; Pub. L. 101–239, title VI, §6901(b)(1), (3), (d)(4), Dec. 19, 1989, 103 Stat. 2298, 2301; Pub. L. 101–508, title IV, §§4008(h)(1)(B)–(F)(i), (G), (2)(B)–(N), (m)(3)(F)\[(E)\], 4206(d)(1), Nov. 5, 1990, 104 Stat. 1388–46 to 1388–50, 1388–54, 1388–116; Pub. L. 102–375, title VII, §708(a)(1)(A), Sept. 30, 1992, 106 Stat. 1291; Pub. L. 103–432, title I, §§106(c)(1)(A), (2)(A), (3)(A), (4)(A), (B), (d)(1)–(5), 110(b), Oct. 31, 1994, 108 Stat. 4406–4408; Pub. L. 105–15, §1, May 15, 1997, 111 Stat. 34; Pub. L. 105–33, title IV, §§4432(b)(5)(A), 4755(a), Aug. 5, 1997, 111 Stat. 421, 526; Pub. L. 106–554, §1(a)(6) \[title IX, §941(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 108–173, title VII, §736(a)(8), title IX, §932(c)(2), Dec. 8, 2003, 117 Stat. 2355, 2401; Pub. L. 111–148, title VI, §§6101(c)(1)(A), 6103(a)(1), (2)(A), (3), (c)(1), 6111(a), 6113(b), 6121(a), Mar. 23, 2010, 124 Stat. 702, 704, 706, 709, 713, 719, 720.)
+
+#### Amendment of Subsection (d)(1)
+
+<i>Pub. L. 111–148, title VI, §6103(c)(1), (3), Mar. 23, 2010, 124 Stat. 709, 710, provided that, effective 1 year after Mar. 23, 2010, subsection (d)(1) of this section, as amended by section 6101 of Pub. L. 111–148, is amended by adding at the end the following new subparagraph:</i>
+
+#### <i>(C) Availability of survey, certification, and complaint investigation reports</i>
+
+&emsp;&emsp;<i>A skilled nursing facility must—</i>
+
+&emsp;&emsp;&emsp;<i>(i) have reports with respect to any surveys, certifications, and complaint investigations made respecting the facility during the 3 preceding years available for any individual to review upon request; and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) post notice of the availability of such reports in areas of the facility that are prominent and accessible to the public.</i>
+
+> &emsp;&emsp;<i>The facility shall not make available under clause (i) identifying information about complainants or residents.</i>
+
+<i>Pub. L. 111–148, title VI, §6101(c)(1)(A), (2), Mar. 23, 2010, 124 Stat. 702, provided that, effective on the date on which the Secretary of Health and Human Services makes certain information available to the public, subsection (d)(1) of this section is amended by striking subparagraph (B) and redesignating subparagraph (C) as subparagraph (B). See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
-The Older Americans Act of 1965, referred to in subsecs. (b)(4)(C)(ii)(IV), (c)(2)(B)(iii)(II), and (g)(5)(B), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Section 307(a)(12) of the Act was repealed by Pub. L. 106–501, title III, §306(5), Nov. 13, 2000, 114 Stat. 2244. Similar provisions are now contained in section 307(a)(9) of the Act, which is classified to section 3027(a)(9) of this title. Titles III and VII of the Act are classified generally to subchapters III (§3021 et seq.) and XI (§3058 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Older Americans Act of 1965, referred to in subsecs. (b)(4)(C)(ii)(IV), (c)(2)(B)(iii)(II), and (g)(5)(B), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218. Section 307(a)(12) of the Act was repealed by Pub. L. 106–501, title III, §306(5), Nov. 13, 2000, 114 Stat. 2244. Similar provisions are now contained in section 307(a)(9) of the Act, which is classified to section 3027(a)(9) of this title. Titles III and VII of the Act are classified generally to subchapters III (§3021 et seq.) and XI (§3058 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 Subparagraphs (B), (C), and (D) of section 6901(b)(4) of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239\], referred to in subsec. (e)(2)(A), are set out below.
 
@@ -908,7 +1036,23 @@ Section 21(b) of the Medicare-Medicaid Anti-Fraud and Abuse Amendments of 1977, 
 
 #### Amendments
 
-2003—Subsec. (b)(4)(C)(i). Pub. L. 108–173, §736(a)(8)(A), substituted “at least” for “at least at least”.
+<b>2010</b>—Subsec. (b)(5)(F). Pub. L. 111–148, §6121(a)(2), inserted concluding provisions.
+
+Subsec. (f)(2)(A)(i)(I). Pub. L. 111–148, §6121(a)(1), inserted “(including, in the case of initial training and, if the Secretary determines appropriate, in the case of ongoing training, dementia management training, and patient abuse prevention training” after “curriculum”.
+
+Subsec. (f)(8). Pub. L. 111–148, §6103(a)(3), added par. (8).
+
+Subsec. (g)(5)(E). Pub. L. 111–148, §6103(a)(2)(A), added subpar. (E).
+
+Subsec. (h)(2)(B)(ii). Pub. L. 111–148, §6111(a)(1), designated existing provisions as subcl. (I), inserted heading, substituted “Subject to subclause (II), the Secretary” for “The Secretary”, and added subcls. (II) to (IV).
+
+Subsec. (h)(4). Pub. L. 111–148, §6113(b), substituted “the Secretary, subject to section 1320a–7(h) of this title, shall terminate” for “the Secretary shall terminate” and “subsection (c)(2) and section 1320a–7j(h) of this title” for “subsection (c)(2)”.
+
+Subsec. (h)(5). Pub. L. 111–148, §6111(a)(2), inserted “(ii)(IV),” after “(i),”.
+
+Subsecs. (i), (j). Pub. L. 111–148, §6103(a)(1), added subsec. (i) and redesignated former subsec. (i) as (j).
+
+<b>2003</b>—Subsec. (b)(4)(C)(i). Pub. L. 108–173, §736(a)(8)(A), substituted “at least” for “at least at least”.
 
 Subsec. (d)(1)(A). Pub. L. 108–173, §736(a)(8)(B), substituted “physical, mental” for “physical mental”.
 
@@ -920,7 +1064,7 @@ Subsec. (f)(2)(D). Pub. L. 108–173, §932(c)(2)(B), added subpar. (D).
 
 2000–Subsec. (b)(8). Pub. L. 106–554 added par. (8).
 
-1997—Subsec. (b)(3)(C)(i). Pub. L. 105–33, §4432(b)(5)(A), substituted “Subject to the timeframes prescribed by the Secretary under section 1395yy(e)(6) of this title, such” for “Such” in introductory provisions.
+<b>1997</b>—Subsec. (b)(3)(C)(i). Pub. L. 105–33, §4432(b)(5)(A), substituted “Subject to the timeframes prescribed by the Secretary under section 1395yy(e)(6) of this title, such” for “Such” in introductory provisions.
 
 Subsec. (f)(2)(B)(iii). Pub. L. 105–15, §1(1), inserted “subject to subparagraph (C),” after “(iii)”.
 
@@ -928,7 +1072,7 @@ Subsec. (f)(2)(C). Pub. L. 105–15, §1(2), added subpar. (C).
 
 Subsec. (g)(1)(D), (E). Pub. L. 105–33, §4755(a), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-1994—Subsec. (b)(3)(C)(i)(I). Pub. L. 103–432, §110(b), substituted “but no later than 14 days” for “but no later than not later than 14 days”.
+<b>1994</b>—Subsec. (b)(3)(C)(i)(I). Pub. L. 103–432, §110(b), substituted “but no later than 14 days” for “but no later than not later than 14 days”.
 
 Subsec. (b)(5)(D). Pub. L. 103–432, §106(d)(1), struck out comma before “or a new competency evaluation program”.
 
@@ -950,9 +1094,9 @@ Subsec. (g)(1)(C). Pub. L. 103–432, §106(c)(4)(B), substituted second sentenc
 
 Subsec. (g)(5)(B). Pub. L. 103–432, §106(d)(5), substituted “paragraph” for “paragraphs” before “(1), (2), or (4) of subsection (h)”.
 
-1992—Subsecs. (c)(2)(B)(iii)(II), (g)(5)(B). Pub. L. 102–375 substituted “title III or VII of the Older Americans Act of 1965 in accordance with section 712 of the Act” for “section 307(a)(12) of the Older Americans Act of 1965”.
+<b>1992</b>—Subsecs. (c)(2)(B)(iii)(II), (g)(5)(B). Pub. L. 102–375 substituted “title III or VII of the Older Americans Act of 1965 in accordance with section 712 of the Act” for “section 307(a)(12) of the Older Americans Act of 1965”.
 
-1990—Subsec. (b)(1)(B). Pub. L. 101–508, §4008(h)(2)(B), inserted at end “A State or the Secretary may not require disclosure of the records of such committee except insofar as such disclosure is related to the compliance of such committee with the requirements of this subparagraph.”
+<b>1990</b>—Subsec. (b)(1)(B). Pub. L. 101–508, §4008(h)(2)(B), inserted at end “A State or the Secretary may not require disclosure of the records of such committee except insofar as such disclosure is related to the compliance of such committee with the requirements of this subparagraph.”
 
 Subsec. (b)(3)(C)(i)(I). Pub. L. 101–508, §4008(h)(2)(C), substituted “not later than 14 days” for “4 days”.
 
@@ -998,7 +1142,7 @@ Subsec. (g)(5)(A)(i). Pub. L. 101–508, §4008(h)(2)(M), substituted “deficie
 
 Subsec. (g)(5)(B). Pub. L. 101–508, §4008(h)(2)(N), substituted “or of any adverse action taken against a skilled nursing facility under paragraphs (1), (2), or (4) of subsection (h) of this section, with respect” for “with respect”.
 
-1989—Subsec. (b)(5)(A). Pub. L. 101–239, §6901(b)(1)(A), substituted “October 1, 1990” for “January 1, 1990” in introductory provisions.
+<b>1989</b>—Subsec. (b)(5)(A). Pub. L. 101–239, §6901(b)(1)(A), substituted “October 1, 1990” for “January 1, 1990” in introductory provisions.
 
 Subsec. (b)(5)(B). Pub. L. 101–239, §6901(b)(1)(B), substituted “January 1, 1990” and “October 1, 1990” for “July 1, 1989” and “January 1, 1990”, respectively.
 
@@ -1016,7 +1160,7 @@ Subsec. (f)(2)(A)(iv). Pub. L. 101–239, §6901(b)(3)(C), (D), added cl. (iv).
 
 Subsec. (h)(2)(C). Pub. L. 101–239, §6901(d)(4)(D), inserted “after the effective date of the findings” after “6 months” in introductory provisions.
 
-1988—Subsec. (b)(3)(A)(iii). Pub. L. 100–360, §411(<i>l</i>)(2)(B), struck out “in the case of a resident eligible for benefits under subchapter XIX of this chapter,” before “uses an instrument”.
+<b>1988</b>—Subsec. (b)(3)(A)(iii). Pub. L. 100–360, §411(<i>l</i>)(2)(B), struck out “in the case of a resident eligible for benefits under subchapter XIX of this chapter,” before “uses an instrument”.
 
 Subsec. (b)(3)(A)(iv). Pub. L. 100–360, §411(<i>l</i>)(2)(A), as amended by Pub. L. 100–485, §608(d)(27)(C), struck out “in the case of a resident eligible for benefits under this part,” before “includes the identification”.
 
@@ -1068,7 +1212,7 @@ Subsec. (f)(7)(A). Pub. L. 100–360, §411(<i>l</i>)(2)(K), substituted “resi
 
 Subsec. (f)(7)(B). Pub. L. 100–360, §411(<i>l</i>)(2)(L)(i), substituted “shall include” for “shall not include”.
 
-Subsec. (g)(1)(C). Pub. L. 100–360, §411(<i>l</i>)(5)(A)–(C), substituted “and timely review” for “, review,”, inserted “or by another individual used by the facility in providing services to such a resident” after “a nursing facility”, and substituted “The State shall, after notice to the individual involved and a reasonable opportunity for a hearing for the individual to rebut allegations, make a finding as to the accuracy of the allegations. If the State finds that a nurse aide has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding. If the State finds that any other individual used by the facility has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the appropriate licensure authority.” for “If the State finds, after notice to the nurse aide involved and a reasonable opportunity for a hearing for the nurse aide to rebut allegations, that a nurse aide whose name is contained in a nurse aide registry has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding.”
+Subsec. (g)(1)(C). Pub. L. 100–360, §411(<i>l</i>)(5)(A)–(C), substituted “and timely review” for “, review,”, inserted “or by another individual used by the facility in providing services to such a resident” after “a nursing facility”, and substituted “The State shall, after noticeto the individual involved and a reasonable opportunity for a hearing for the individual to rebut allegations, make a finding as to the accuracy of the allegations. If the State finds that a nurse aide has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding. If the State finds that any other individual used by the facility has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the appropriate licensure authority.” for “If the State finds, after notice to the nurse aide involved and a reasonable opportunity for a hearing for the nurse aide to rebut allegations, that a nurse aide whose name is contained in a nurse aide registry has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding.”
 
 Subsec. (g)(1)(D). Pub. L. 100–360, §411(<i>l</i>)(5)(D), substituted “to issue regulations to carry out this subsection” for “to establish standards under subsection (f) of this section”.
 
@@ -1088,7 +1232,21 @@ Subsec. (h)(5). Pub. L. 100–360, §411(<i>l</i>)(11), as added by Pub. L. 100�
 
 Subsec. (h)(6). Pub. L. 100–360, §411(<i>l</i>)(7)(B), inserted “by such facilities” after “be made available”.
 
-1987—Subsecs. (g) to (i). Pub. L. 100–203, §§4202(a)(2), 4203(a)(2), 4206, added subsecs. (g), (h), and (i), respectively.
+<b>1987</b>—Subsecs. (g) to (i). Pub. L. 100–203, §§4202(a)(2), 4203(a)(2), 4206, added subsecs. (g), (h), and (i), respectively.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title VI, §6101(c)(2), Mar. 23, 2010, 124 Stat. 702, provided that: “The amendments made by paragraph (1) \[amending this section and section 1396r of this title\] shall take effect on the date on which the Secretary \[of Health and Human Services\] makes the information described in subsection (b)(1) \[probably means subsec. (b) of section 6101, which is set out as a note under section 1320a–3 of this title\] available to the public under such subsection.”
+
+Pub. L. 111–148, title VI, §6103(a)(2)(B), Mar. 23, 2010, 124 Stat. 706, provided that: “The amendment made by this paragraph \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 23, 2010\].”
+
+Pub. L. 111–148, title VI, §6103(c)(3), Mar. 23, 2010, 124 Stat. 710, provided that: “The amendments made by this subsection \[amending this section and section 1396r of this title\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 23, 2010\].”
+
+Pub. L. 111–148, title VI, §6111(c), Mar. 23, 2010, 124 Stat. 716, provided that: “The amendments made by this section \[amending this section and section 1396r of this title\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 23, 2010\].”
+
+Amendment by section 6113(b) of Pub. L. 111–148 effective 1 year after Mar. 23, 2010, see section 6113(c) of Pub. L. 111–148, set out as a note under section 1320a–7j of this title.
+
+Pub. L. 111–148, title VI, §6121(c), Mar. 23, 2010, 124 Stat. 721, provided that: “The amendments made by this section \[amending this section and section 1396r of this title\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 23, 2010\].”
 
 #### Effective Date of 2003 Amendment
 
@@ -1170,7 +1328,7 @@ Exception.—The amendment made by paragraph (1) \[amending section 1396r of thi
 
 Amendment by Pub. L. 100–485 effective as if originally included in the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relatesto a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date
 
@@ -1189,6 +1347,100 @@ Enforcement.—(1) Except as otherwise specifically provided in section 1819 of 
 “(c)
 
 Waiver of Paperwork Reduction.—Chapter 35 of title 44, United States Code, shall not apply to information required for purposes of carrying out this part \[part 1 of subtitle C (§§4201–4206), enacting this section, amending this section and sections 1395x, 1395aa, 1395tt, and 1395yy of this title, and enacting provisions set out as notes under this section\] and implementing the amendments made by this part.”
+
+#### Guidance to States on Form 2567 State Inspection Reports and Complaint Investigation Reports
+
+Pub. L. 111–148, title VI, §6103(d)(1), (3), Mar. 23, 2010, 124 Stat. 710, provided that:
+
+“(1)
+
+Guidance.—The Secretary of Health and Human Services (in this subtitle \[subtitle B (§§6101–6121) of title VI of Pub. L. 111–148, enacting section 1320a–7j of this title, amending this section and sections 1320a–3, 1320a–7j, 1395yy, 1396a, and 1396r of this title, and enacting provisions set out as notes under this section and sections 1320a–3, 1320a–7j, and 1396r of this title\] referred to as the ‘Secretary’) shall provide guidance to States on how States can establish electronic links to Form 2567 State inspection reports (or a successor form), complaint investigation reports, and a facility's plan of correction or other response to such Form 2567 State inspection reports (or a successor form) on the Internet website of the State that provides information on skilled nursing facilities and nursing facilities and the Secretary shall, if possible, include such information on Nursing Home Compare.
+
+“(3)
+
+Definitions.—In this subsection:
+
+&emsp;“(A)
+
+Nursing facility.—The term ‘nursing facility’ has the meaning given such term in section 1919(a) of the Social Security Act (42 U.S.C. 1396r(a)).
+
+&emsp;“(B)
+
+Secretary.—The term ‘Secretary’ means the Secretary of Health and Human Services.
+
+&emsp;“(C)
+
+Skilled nursing facility.—The term ‘skilled nursing facility’ has the meaning given such term in section 1819(a) of the Social Security Act (42 U.S.C. 1395i–3(a)).”
+
+#### Development of Consumer Rights Information Page on Nursing Home Compare Website
+
+Pub. L. 111–148, title VI, §6103(e), Mar. 23, 2010, 124 Stat. 710, provided that: “Not later than 1 year after the date of enactment of this Act \[Mar. 23, 2010\], the Secretary \[of Health and Human Services\] shall ensure that the Department of Health and Human Services, as part of the information provided for comparison of nursing facilities on the Nursing Home Compare Medicare website develops and includes a consumer rights information page that contains links to descriptions of, and information with respect to, the following:
+
+&emsp;“(1) The documentation on nursing facilities that is available to the public.
+
+&emsp;“(2) General information and tips on choosing a nursing facility that meets the needs of the individual.
+
+&emsp;“(3) General information on consumer rights with respect to nursing facilities.
+
+&emsp;“(4) The nursing facility survey process (on a national and State-specific basis).
+
+&emsp;“(5) On a State-specific basis, the services available through the State long-term care ombudsman for such State.”
+
+#### National Demonstration Projects on Culture Change and Use of Information Technology in Nursing Homes
+
+Pub. L. 111–148, title VI, §6114, Mar. 23, 2010, 124 Stat. 720, provided that:
+
+“(a)
+
+In General.—The Secretary \[of Health and Human Services\] shall conduct 2 demonstration projects, 1 for the development of best practices in skilled nursing facilities and nursing facilities that are involved in the culture change movement (including the development of resources for facilities to find and access funding in order to undertake culture change) and 1 for the development of best practices in skilled nursing facilities and nursing facilities for the use of information technology to improve resident care.
+
+“(b)
+
+Conduct of Demonstration Projects.—
+
+&emsp;“(1)
+
+Grant award.—Under each demonstration project conducted under this section, the Secretary shall award 1 or more grants to facility-based settings for the development of best practices described in subsection (a) with respect to the demonstration project involved. Such award shall be made on a competitive basis and may be allocated in 1 lump-sum payment.
+
+&emsp;“(2)
+
+Consideration of special needs of residents.—Each demonstration project conducted under this section shall take into consideration the special needs of residents of skilled nursing facilities and nursing facilities who have cognitive impairment, including dementia.
+
+“(c)
+
+Duration and Implementation.—
+
+&emsp;“(1)
+
+Duration.—The demonstration projects shall each be conducted for a period not to exceed 3 years.
+
+&emsp;“(2)
+
+Implementation.—The demonstration projects shall each be implemented not later than 1 year after the date of the enactment of this Act \[Mar. 23, 2010\].
+
+“(d)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Nursing facility.—The term ‘nursing facility’ has the meaning given such term in section 1919(a) of the Social Security Act (42 U.S.C. 1396r(a)).
+
+&emsp;“(2)
+
+Secretary.—The term ‘Secretary’ means the Secretary of Health and Human Services.
+
+&emsp;“(3)
+
+Skilled nursing facility.—The term ‘skilled nursing facility’ has the meaning given such term in section 1819(a) of the Social Security Act (42 U.S.C. 1395(a) \[1395i–3(a)\]).
+
+“(e)
+
+Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out this section.
+
+“(f)
+
+Report.—Not later than 9 months after the completion of the demonstration project, the Secretary shall submit to Congress a report on such project, together with recommendations for such legislation and administrative action as the Secretary determines appropriate.”
 
 #### Review and Report on Current Standards of Practice for Pharmacy Services Provided to Patients in Nursing Facilities
 
@@ -1246,7 +1498,7 @@ Report.—Not later than 18 months after the date of enactment of this Act \[Nov
 
 #### Retroactive Review
 
-Section 4755(c) of Pub. L. 105–33 provided that: “The procedures developed by a State under the amendments made by subsection\[s\] (a) and (b) \[amending this section and section 1396r of this title\] shall permit an individual to petition for a review of any finding made by a State under section 1819(g)(1)(C) or 1919(g)(1)(C) of the Social Security Act (42 U.S.C. 1395i-3(g)(1)(C) or 1396r(g)(1)(C)) after January 1, 1995.”
+Section 4755(c) of Pub. L. 105–33 provided that: “The procedures developed by a State under the amendmentsmade by subsection\[s\] (a) and (b) \[amending this section and section 1396r of this title\] shall permit an individual to petition for a review of any finding made by a State under section 1819(g)(1)(C) or 1919(g)(1)(C) of the Social Security Act (42 U.S.C. 1395i-3(g)(1)(C) or 1396r(g)(1)(C)) after January 1, 1995.”
 
 #### Study and Report on Deeming for Nursing Facilities and Renal Dialysis Facilities
 
@@ -1296,7 +1548,9 @@ Section 4205 of Pub. L. 100–203 provided that: “The Secretary of Health and 
 
 <i><sup>3</sup></i><i> So in original. Probably should be “credit”.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “pro rata”.</i>
+<i><sup>4</sup></i><i> So in original. A closing parenthesis probably should appear before the comma.</i>
 
-<i><sup>5</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>5</sup></i><i> So in original. Probably should be “pro rata”.</i>
+
+<i><sup>6</sup></i><i> So in original. Probably should be cl. (vi).</i>
 

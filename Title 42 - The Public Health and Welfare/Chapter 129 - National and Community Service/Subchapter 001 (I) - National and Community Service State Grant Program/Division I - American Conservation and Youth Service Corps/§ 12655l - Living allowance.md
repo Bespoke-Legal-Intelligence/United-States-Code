@@ -62,7 +62,7 @@ In addition to the living allowance provided under subsection (a) of this sectio
 
 #### (B) Secretary of Defense
 
-&emsp;&emsp;Whenever possible, the Corporation shall make arrangements with the Secretary of Defense to have logistical support provided by a military installation near the work site, including the provision of temporary tent centers where needed, and other supplies and equipment.
+&emsp;&emsp;Whenever possible, the Corporation shall make arrangements with the Secretary of Defense to have logistical support provided by a military installation near the worksite, including the provision of temporary tent centers where needed, and other supplies and equipment.
 
 #### (5) Health and safety standards
 
@@ -80,7 +80,7 @@ Section was formerly classified to section 12553 of this title prior to renumber
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–82, §101(d), added pars. (1) to (5) and struck out former pars. (1) and (2) which read as follows:
+<b>1993</b>—Subsec. (a). Pub. L. 103–82, §101(d), added pars. (1) to (5) and struck out former pars. (1) and (2) which read as follows:
 
 “(1)
 
@@ -92,7 +92,7 @@ Non-federal sources.—Notwithstanding paragraph (1), a program agency may provi
 
 Subsec. (d)(4)(A), (B), (5). Pub. L. 103–82, §101(e)(1), substituted “Corporation” for “Commission”.
 
-1991—Subsec. (d)(1). Pub. L. 102–10 substituted “subsection (a)” for “subsections (a) and (c)”.
+<b>1991</b>—Subsec. (d)(1). Pub. L. 102–10 substituted “subsection (a)” for “subsections (a) and (c)”.
 
 #### Effective Date of 1993 Amendment
 

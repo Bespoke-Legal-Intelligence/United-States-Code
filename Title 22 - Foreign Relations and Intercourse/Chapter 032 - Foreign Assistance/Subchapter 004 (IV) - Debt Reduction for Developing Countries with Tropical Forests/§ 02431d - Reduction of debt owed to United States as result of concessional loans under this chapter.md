@@ -76,7 +76,7 @@ Of the amounts made available to carry out this subchapter for a fiscal year, $2
 
 #### References in Text
 
-This chapter, referred to in section catchline, was in the original “the Foreign Assistance Act of 1961”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, asamended, which is classified principally to this chapter (§2151 et seq.). For complete classification of the Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in section catchline, was in the original “the Foreign Assistance Act of 1961”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to this chapter (§2151 et seq.). For complete classification of the Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 Section 321 of the International Development and Food Assistance Act of 1975, referred to in subsec. (a)(3)(B), is section 321 of Pub. L. 94–161, Dec. 20, 1975, 89 Stat. 868, which is set out as a note under section 2220a of this title.
 
@@ -90,13 +90,13 @@ A prior section 806 of Pub. L. 87–195, pt. V, was classified to section 2435 o
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–323, §3(a), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+<b>2004</b>—Subsec. (c). Pub. L. 108–323, §3(a), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
 Subsec. (d)(4) to (6). Pub. L. 108–323, §1, added pars. (4) to (6).
 
 Subsec. (e). Pub. L. 108–323, §2, added subsec. (e).
 
-2001—Subsec. (d). Pub. L. 107–26 added subsec. (d).
+<b>2001</b>—Subsec. (d). Pub. L. 107–26 added subsec. (d).
 
 #### Delegation of Functions
 

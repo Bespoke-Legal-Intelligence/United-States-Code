@@ -108,7 +108,7 @@ Section 1009(b) of Pub. L. 100–702 provided that: “The amendments made by th
 
 #### Effective Date of 1985 Amendment
 
-Section 4 of Pub. L. 99–224 provided that: “The amendments made by section 1 of this Act \[amending this section\] shall apply to any claim arising out of an erroneous payment of travel, transportation, or relocation expenses and allowances made on or after the date of the enactment of this Act \[Dec. 28, 1985\]. The amendments made by sections 2 and 3 of this Act \[amending section 2774 of Title 10, Armed Forces, and section 716 of Title 32, National Guard\] shall apply to any claim arising out of an erroneous payment of travel and transportation allowances made on or after the date of the enactment of this Act.”
+Section 4 of Pub. L. 99–224 provided that: “The amendments made by section 1 of this Act \[amending this section\] shall apply to any claim arising out of an erroneous payment of travel, transportation, or relocation expenses and allowances made on or after the date of the enactment of this Act \[Dec. 28, 1985\]. The amendments made by sections 2 and 3 of this Act \[amending section 2774 of Title 10, Armed Forces, and section 716 of Title 32, National Guard\] shall apply to any claim arising out of an erroneous payment of travel andtransportation allowances made on or after the date of the enactment of this Act.”
 
 #### Effective Date of 1979 Amendment
 

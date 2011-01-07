@@ -58,7 +58,7 @@ Each State shall make 2 separate inventories of all underground storage tanks in
 
 #### Amendments
 
-2005—Subsec. (d). Pub. L. 109–58 added subsec. (d).
+<b>2005</b>—Subsec. (d). Pub. L. 109–58 added subsec. (d).
 
-1986—Subsec. (c). Pub. L. 99–499 added subsec. (c).
+<b>1986</b>—Subsec. (c). Pub. L. 99–499 added subsec. (c).
 

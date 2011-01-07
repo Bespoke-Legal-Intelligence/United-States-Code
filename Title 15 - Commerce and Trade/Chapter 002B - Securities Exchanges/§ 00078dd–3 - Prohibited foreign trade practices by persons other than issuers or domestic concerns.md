@@ -2,7 +2,7 @@
 
 #### (a) Prohibition
 
-It shall be unlawful for any person other than an issuer that is subject to section 78dd–1 of this title or a domestic concern (as defined in section 78dd–2 of this title), or for any officer, director, employee, or agent of such person or any stockholder thereof acting on behalf of such person,while in the territory of the United States, corruptly to make use of the mails or any means or instrumentality of interstate commerce or to do any other act in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to—
+It shall be unlawful for any person other than an issuer that is subject to section 78dd–1 of this title or a domestic concern (as defined in section 78dd–2 of this title), or for any officer, director, employee, or agent of such person or any stockholder thereof acting on behalf of such person, while in the territory of the United States, corruptly to make use of the mails or any means or instrumentality of interstate commerce or to do any other act in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to—
 
 &emsp;(1) any foreign official for purposes of—
 
@@ -52,7 +52,7 @@ It shall be an affirmative defense to actions under subsection (a) of this secti
 
 (3) In case of contumacy by, or refusal to obey a subpoena issued to, any person, the Attorney General may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, or other documents. Any such court may issue an order requiring such person to appear before the Attorney General or his designee, there to produce records, if so ordered, or to give testimony touching the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
-(4) All process in any such case may be served in the judicial district in which such person resides or may be found. The Attorney Generalmay make such rules relating to civil investigations as may be necessary or appropriate to implement the provisions of this subsection.
+(4) All process in any such case may be served in the judicial district in which such person resides or may be found. The Attorney General may make such rules relating to civil investigations as may be necessary or appropriate to implement the provisions of this subsection.
 
 #### (e) Penalties
 

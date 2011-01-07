@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(i) the financial requirements applicable to such mental health or substance use disorder benefits are no more restrictive than the predominant financial requirements applied to substantially all medical and surgical benefits covered by the plan, and there are no separate cost sharing requirements that are applicable only with respect to mental health or substance use disorder benefits; and
 
-&emsp;&emsp;&emsp;(ii) the treatment limitations applicable to such mental health or substance use disorder benefits are no more restrictivethan the predominant treatment limitations applied to substantially all medical and surgical benefits covered by the plan and there are no separate treatment limitations that are applicable only with respect to mental health or substance use disorder benefits.
+&emsp;&emsp;&emsp;(ii) the treatment limitations applicable to such mental health or substance use disorder benefits are no more restrictive than the predominant treatment limitations applied to substantially all medical and surgical benefits covered by the plan and there are no separate treatment limitations that are applicable only with respect to mental health or substance use disorder benefits.
 
 #### (B) Definitions
 
@@ -116,7 +116,7 @@ Nothing in this section shall be construed—
 
 #### (D) 6-month determinations
 
-&emsp;&emsp;If a group health plan seeks an exemption under this paragraph, determinations undersubparagraph (A) shall be made after such plan has complied with this section for the first 6 months of the plan year involved.
+&emsp;&emsp;If a group health plan seeks an exemption under this paragraph, determinations under subparagraph (A) shall be made after such plan has complied with this section for the first 6 months of the plan year involved.
 
 #### (E) Notification
 
@@ -178,7 +178,7 @@ For purposes of this section:
 
 #### Amendments
 
-2008—Pub. L. 110–343, §512(g)(3)(A), substituted “Parity in mental health and substance use disorder benefits” for “Parity in the application of certain limits to mental health benefits” in section catchline.
+<b>2008</b>—Pub. L. 110–343, §512(g)(3)(A), substituted “Parity in mental health and substance use disorder benefits” for “Parity in the application of certain limits to mental health benefits” in section catchline.
 
 Subsec. (a)(1), (2). Pub. L. 110–343, §512(c)(7), substituted “mental health or substance use disorder benefits” for “mental health benefits” wherever appearing in pars. (1)(introductory provisions), (A), and (B)(ii) and (2)(introductory provisions), (A), and (B)(ii).
 
@@ -188,7 +188,7 @@ Subsec. (a)(3) to (5). Pub. L. 110–343, §512(c)(1), added pars. (3) to (5).
 
 Subsec. (b)(1). Pub. L. 110–343, §512(c)(7), substituted “mental health or substance use disorder benefits” for “mental health benefits”.
 
-Subsec. (b)(2). Pub. L. 110–343, §512(c)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in the case of a group health plan that provides mental health benefits, as affecting the terms and conditions (including cost sharing, limits on numbers of visits or days of coverage, and requirements relating tomedical necessity) relating to the amount, duration, or scope of mental health benefits under the plan, except as specifically provided in subsection (a) (in regard to parity in the imposition of aggregate lifetime limits and annual limits for mental health benefits).”
+Subsec. (b)(2). Pub. L. 110–343, §512(c)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in the case of a group health plan that provides mental health benefits, as affecting the terms and conditions (including cost sharing, limits on numbers of visits or days of coverage, and requirements relating to medical necessity) relating to the amount, duration, or scope of mental health benefits under the plan, except as specifically provided in subsection (a) (in regard to parity in the imposition of aggregate lifetime limits and annual limits for mental health benefits).”
 
 Subsec. (c)(1). Pub. L. 110–343, §512(c)(3)(A), amended par. (1) generally. Prior to amendment, text read as follows: “This section shall not apply to any group health plan for any plan year of a small employer (as defined in section 4980D(d)(2)).”
 
@@ -214,19 +214,19 @@ Subsec. (f). Pub. L. 110–343, §512(c)(5), struck out subsec. (f). Text read a
 
 Subsec. (f)(3), (4). Pub. L. 110–245 added pars. (3) and (4) and struck out former par. (3) which read as follows: “after December 31, 2007.”
 
-2006—Subsec. (f)(3). Pub. L. 109–432 substituted “December 31, 2007” for “December 31, 2006”.
+<b>2006</b>—Subsec. (f)(3). Pub. L. 109–432 substituted “December 31, 2007” for “December 31, 2006”.
 
-2005—Subsec. (f)(3). Pub. L. 109–151 substituted “December 31, 2006” for “December 31, 2005”.
+<b>2005</b>—Subsec. (f)(3). Pub. L. 109–151 substituted “December 31, 2006” for “December 31, 2005”.
 
-2004—Subsec. (f)(2), (3). Pub. L. 108–311 added pars. (2) and (3) and struck out former par. (2) which read as follows: “after December 31, 2003.”
+<b>2004</b>—Subsec. (f)(2), (3). Pub. L. 108–311 added pars. (2) and (3) and struck out former par. (2) which read as follows: “after December 31, 2003.”
 
-2002—Subsec. (f). Pub. L. 107–147 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “This section shall not apply to benefits for services furnished on or after December 31, 2002.”
+<b>2002</b>—Subsec. (f). Pub. L. 107–147 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “This section shall not apply to benefits for services furnished on or after December 31, 2002.”
 
 Subsec. (f). Pub. L. 107–116 substituted “December 31, 2002” for “September 30, 2001”.
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–343 applicable with respect to group health plans for plan years beginning after the date that is 1 year after Oct. 3, 2008, except that amendment by section 512(c)(5) of Pub. L. 110–343 effective Jan. 1, 2009, with special rule for collective bargaining agreements, see section 512(e) of Pub. L. 110–343, set out as a note under section 300gg–5 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 110–343 applicable with respect to group health plans for plan years beginning after the date that is 1 year after Oct. 3, 2008, except that amendment by section 512(c)(5) of Pub. L. 110–343 effective Jan. 1, 2009, with special rule for collective bargaining agreements, see section 512(e) of Pub. L. 110–343, set out as a note under section 300gg–26 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 2004 Amendment
 

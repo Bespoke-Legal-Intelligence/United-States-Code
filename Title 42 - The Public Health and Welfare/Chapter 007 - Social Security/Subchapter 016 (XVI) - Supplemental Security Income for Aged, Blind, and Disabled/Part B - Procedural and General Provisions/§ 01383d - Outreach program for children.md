@@ -16,7 +16,7 @@ Under this program, the Commissioner of Social Security shall—
 
 #### Amendments
 
-1994—Subsecs. (a), (b). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary”.
+<b>1994</b>—Subsecs. (a), (b). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary”.
 
 #### Effective Date of 1994 Amendment
 

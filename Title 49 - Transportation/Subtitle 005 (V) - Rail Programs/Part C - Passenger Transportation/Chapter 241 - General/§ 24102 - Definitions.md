@@ -124,7 +124,7 @@ Feb. 5, 1976, Pub. L. 94–210, §701(c), 90 Stat. 120.
 
 45:502(16).
 
-In clause (1), before subclause (A), the text of 45:502(1), (2), and (10) is omitted as surplus. The text of45:502(6), (7), (12), (14), and (18) is omitted because the complete names of the Performance Evaluation Center, Interstate Commerce Commission, Railroad Safety System Program, Technical Assistance Panel, and Secretary of Transportation are used the first time the terms appear in a section. The words “characterized by transportation” are omitted as surplus.
+In clause (1), before subclause (A), the text of 45:502(1), (2), and (10) is omitted as surplus. The text of 45:502(6), (7), (12), (14), and (18) is omitted because the complete names of the Performance Evaluation Center, Interstate Commerce Commission, Railroad Safety System Program, Technical Assistance Panel, and Secretary of Transportation are used the first time the terms appear in a section. The words “characterized by transportation” are omitted as surplus.
 
 In clause (3), the text of 45:502(5)(A) and the words “on and after October 1, 1979” are omitted as obsolete. Reference to 45:564(e) is omitted as obsolete because 45:564(e) was repealed by section 1183(d) of the Omnibus Budget Reconciliation Act of 1981 (Public Law 97–35, 95 Stat. 697).
 
@@ -142,9 +142,9 @@ The date of enactment of the Passenger Rail Investment and Improvement Act of 20
 
 #### Amendments
 
-2008—Pars. (2) to (5). Pub. L. 110–432 added par. (5), redesignated former pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “ ‘basic system’ means the system of intercity rail passenger transportation designated by the Secretary of Transportation under section 4 of the Amtrak Improvement Act of 1978 and approved by Congress, and transportation required to be provided under section 24705(a) of this title and section 4(g) of the Act, including changes in the system or transportation that Amtrak makes using the route and service criteria.”
+<b>2008</b>—Pars. (2) to (5). Pub. L. 110–432 added par. (5), redesignated former pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “ ‘basic system’ means the system of intercity rail passenger transportation designated by the Secretary of Transportation under section 4 of the Amtrak Improvement Act of 1978 and approved by Congress, and transportation required to be provided under section 24705(a) of this title and section 4(g) of the Act, including changes in the system or transportation that Amtrak makes using the route and service criteria.”
 
-1997—Pars. (2) to (6). Pub. L. 105–134, §407(1), (2), redesignated pars. (3) to (7) as (2) to (6), respectively, and struck out former par. (2) which read as follows: “ ‘avoidable loss’ means the avoidable costs of providing rail passenger transportation, less revenue attributable to the transportation, as determined by the Interstate Commerce Commission under section 553 of title 5.”
+<b>1997</b>—Pars. (2) to (6). Pub. L. 105–134, §407(1), (2), redesignated pars. (3) to (7) as (2) to (6), respectively, and struck out former par. (2) which read as follows: “ ‘avoidable loss’ means the avoidable costs of providing rail passenger transportation, less revenue attributable to the transportation, as determined by the Interstate Commerce Commission under section 553 of title 5.”
 
 Par. (7). Pub. L. 105–134, §407(2), (3), redesignated par. (8) as (7) and inserted “, including a unit of State or local government,” after “means a person”. Former par. (7) redesignated (6).
 

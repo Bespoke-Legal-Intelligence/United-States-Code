@@ -2,7 +2,7 @@
 
 #### (a) Definition of small impoverished community
 
-In this section, the term “small impoverished community” means a community of 3,000 or fewer individuals that is economically disadvantaged, as determined by the State in which the community is located and based on criteria established by the President.
+In this section, the term “small impoverished community” means a community of 3,000 or fewer individuals that is economically disadvantaged, as determined by the State in which thecommunity is located and based on criteria established by the President.
 
 #### (b) Establishment of program
 
@@ -64,17 +64,21 @@ If the President determines that a State or local government has identified natu
 
 #### (f) Allocation of funds
 
-The amount of financial assistance made available to a State (including amounts made available to local governments of the State) under this section for a fiscal year—
+#### (1) In general
 
-&emsp;(1) shall be not less than the lesser of—
+&emsp;The President shall award financial assistance under this section on a competitive basis and in accordance with the criteria in subsection (g).
 
-&emsp;&emsp;(A) $500,000; or
+#### (2) Minimum and maximum amounts
 
-&emsp;&emsp;(B) the amount that is equal to 1.0 percent of the total funds appropriated to carry out this section for the fiscal year;
+&emsp;In providing financial assistance under this section, the President shall ensure that the amount of financial assistance made available to a State (including amounts made available to local governments of the State) for a fiscal year—
 
-&emsp;(2) shall not exceed 15 percent of the total funds described in paragraph (1)(B); and
+&emsp;&emsp;(A) is not less than the lesser of—
 
-&emsp;(3) shall be subject to the criteria specified in subsection (g) of this section.
+&emsp;&emsp;&emsp;(i) $575,000; or
+
+&emsp;&emsp;&emsp;(ii) the amount that is equal to 1 percent of the total funds appropriated to carry out this section for the fiscal year; and
+
+&emsp;&emsp;(B) does not exceed the amount that is equal to 15 percent of the total funds appropriated to carry out this section for the fiscal year.
 
 #### (g) Criteria for assistance awards
 
@@ -86,7 +90,7 @@ In determining whether to provide technical and financial assistance to a State 
 
 &emsp;(3) the degree of commitment by the State or local government to support ongoing non-Federal support for the hazard mitigation measures to be carried out using the technical and financial assistance;
 
-&emsp;(4) the extent to which the hazard mitigation measures to be carried out using the technical and financial assistance contribute to the mitigation goals and priorities established by the State;
+&emsp;(4) the extent to which the hazard mitigation measures to be carried out using the technical and financial assistance contribute tothe mitigation goals and priorities established by the State;
 
 &emsp;(5) the extent to which the technical and financial assistance is consistent with other assistance provided under this chapter;
 
@@ -198,11 +202,31 @@ The President shall not provide financial assistance under this section in an am
 
 Not later than 18 months after October 30, 2000, the President, in consultation with State and local governments, shall submit to Congress a report evaluating efforts to implement this section and recommending a process for transferring greater authority and responsibility for administering the assistance program established under this section to capable States.
 
-#### (m) Termination of authority
+#### (m) Authorization of appropriations
 
-The authority provided by this section terminates September 30, 2010.
+There are authorized to be appropriated to carry out this section—
 
-(Pub. L. 93–288, title II, §203, as added Pub. L. 106–390, title I, §102(a), Oct. 30, 2000, 114 Stat. 1553; amended Pub. L. 108–199, div. H, §135, Jan. 23, 2004, 118 Stat. 441; Pub. L. 108–447, div. J, title I, §105, Dec. 8, 2004, 118 Stat. 3343; Pub. L. 109–139, §2, Dec. 22, 2005, 119 Stat. 2649; Pub. L. 110–329, div. D, title V, §553, Sept. 30, 2008, 122 Stat. 3690; Pub. L. 111–83, title V, §543, Oct. 28, 2009, 123 Stat. 2176.)
+&emsp;(1) $180,000,000 for fiscal year 2011;
+
+&emsp;(2) $200,000,000 for fiscal year 2012; and
+
+&emsp;(3) $200,000,000 for fiscal year 2013.
+
+#### (n) Prohibition on earmarks
+
+#### (1) Definition
+
+&emsp;In this subsection, the term “congressionally directed spending” means a statutory provision or report language included primarily at the request of a Senator or a Member, Delegate or Resident Commissioner of the House of Representatives providing, authorizing, or recommending a specific amount of discretionary budget authority, credit authority, or other spending authority for a contract, loan, loan guarantee, grant, loan authority, or other expenditure with or to an entity, or targeted to a specific State, locality, or Congressional district, other than through a statutory or administrative formula-driven or competitive award process.
+
+#### (2) Prohibition
+
+&emsp;None of the funds appropriated or otherwise made available to carry out this section may be used for congressionally directed spending.
+
+#### (3) Certification to Congress
+
+&emsp;The Administrator of the Federal Emergency Management Agency shall submit to Congress a certification regarding whether all financial assistance under this section was awarded in accordance with this section.
+
+(Pub. L. 93–288, title II, §203, as added Pub. L. 106–390, title I, §102(a), Oct. 30, 2000, 114 Stat. 1553; amended Pub. L. 108–199, div. H, §135, Jan. 23, 2004, 118 Stat. 441; Pub. L. 108–447, div. J, title I, §105, Dec. 8, 2004, 118 Stat. 3343; Pub. L. 109–139, §2, Dec. 22, 2005, 119 Stat. 2649; Pub. L. 110–329, div. D, title V, §553, Sept. 30, 2008, 122 Stat. 3690; Pub. L. 111–83, title V, §543, Oct. 28, 2009, 123 Stat. 2176; Pub. L. 111–351, §§3(a), (b), 4, Jan. 4, 2011, 124 Stat. 3864.)
 
 #### References in Text
 
@@ -210,15 +234,35 @@ This chapter, referred to in subsec. (g)(5), was in the original “this Act”,
 
 #### Amendments
 
-2009—Subsec. (m). Pub. L. 111–83 substituted “September 30, 2010” for “September 30, 2009”.
+<b>2011</b>—Subsec. (f). Pub. L. 111–351, §3(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to a different allocation of funds.
 
-2008—Subsec. (m). Pub. L. 110–329 substituted “September 30, 2009” for “September 30, 2008”.
+Subsec. (m). Pub. L. 111–351, §3(b), amended subsec. (m) generally. Prior to amendment, subsec. (m) related to the termination of this section on Sept. 30, 2010.
 
-2005—Subsec. (m). Pub. L. 109–139 substituted “September 30, 2008” for “December 31, 2005”.
+Subsec. (n). Pub. L. 111–351, §4, added subsec. (n).
 
-2004—Subsec. (m). Pub. L. 108–447 substituted “2005” for “2004”.
+<b>2009</b>—Subsec. (m). Pub. L. 111–83 substituted “September 30, 2010” for “September 30, 2009”.
+
+<b>2008</b>—Subsec. (m). Pub. L. 110–329 substituted “September 30, 2009” for “September 30, 2008”.
+
+<b>2005</b>—Subsec. (m). Pub. L. 109–139 substituted “September 30, 2008” for “December 31, 2005”.
+
+<b>2004</b>—Subsec. (m). Pub. L. 108–447 substituted “2005” for “2004”.
 
 Pub. L. 108–199 substituted “2004” for “2003”.
+
+#### Findings
+
+Pub. L. 111–351, §2, Jan. 4, 2011, 124 Stat. 3863, provided that: “Congress finds the following:
+
+&emsp;“(1) The predisaster hazard mitigation program has been successful and cost-effective. Funding from the predisaster hazard mitigation program has successfully reduced loss of life, personal injuries, damage to and destruction of property, and disruption of communities from disasters.
+
+&emsp;“(2) The predisaster hazard mitigation program has saved Federal taxpayers from spending significant sums on disaster recovery and relief that would have been otherwise incurred had communities not successfully applied mitigation techniques.
+
+&emsp;“(3) A 2007 Congressional Budget Office report found that the predisaster hazard mitigation program reduced losses by roughly $3 (measured in 2007 dollars) for each dollar invested in mitigation efforts funded under the predisaster hazard mitigation program. Moreover, the Congressional Budget Office found that projects funded under the predisaster hazard mitigation program could lower the need for post-disaster assistance from the Federal Government so that the predisaster hazard mitigation investment by the Federal Government would actually save taxpayer funds.
+
+&emsp;“(4) A 2005 report by the Multihazard Mitigation Council showed substantial benefits and cost savings from the hazard mitigation programs of the Federal Emergency Management Agency generally. Looking at a range of hazard mitigation programs of the Federal Emergency Management Agency, the study found that, on average, $1 invested by the Federal Emergency Management Agency in hazard mitigation provided the Nation with roughly $4 in benefits. Moreover, the report projected that the mitigation grants awarded between 1993 and 2003 would save more than 220 lives and prevent nearly 4,700 injuries over approximately 50 years.
+
+&emsp;“(5) Given the substantial savings generated from the predisaster hazard mitigation program in the years following the provision of assistance under the program, increasing funds appropriated for the program would be a wise investment.”
 
 #### Findings and Purpose
 

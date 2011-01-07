@@ -14,13 +14,13 @@ The area referred to in subsection (a) of this section shall also include a righ
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
-1980—Subsec. (a). Pub. L. 96–199 inserted “, plus those areas depicted on the map entitled ‘Point Reyes and GGNRA Amendments, dated October 25, 1979’ ” after “dated May 1978”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–199 inserted “, plus those areas depicted on the map entitled ‘Point Reyes and GGNRA Amendments, dated October 25, 1979’ ” after “dated May 1978”.
 
-1978—Subsec. (a). Pub. L. 95–625 substituted as a description of the area the lands generally depicted on Boundary Map numbered 612–80,008–E and dated May 1978 for prior such depiction on Boundary Map numbered 612–80,008–B, and dated August 1974; included submerged lands in the description; made the map specifically available in the Washington, District of Columbia, Office; and authorized minor revisions of boundaries and publication thereof in the Federal Register after advising Congressional committees.
+<b>1978</b>—Subsec. (a). Pub. L. 95–625 substituted as a description of the area the lands generally depicted on Boundary Map numbered 612–80,008–E and dated May 1978 for prior such depiction on Boundary Map numbered 612–80,008–B, and dated August 1974; included submerged lands in the description; made the map specifically available in the Washington, District of Columbia, Office; and authorized minor revisions of boundaries and publication thereof in the Federal Register after advising Congressional committees.
 
-1974—Subsec. (a). Pub. L. 93–550 substituted as a boundary description Boundary Map No. 612–80,008–B, and dated August 1974, on file in the office of the National Park Service, Department of the Interior, for a boundary map designated NS–PR–7001, dated June 1, 1960, on file with the Director of the National Park Service, Washington, D.C., and all measurements relating thereto.
+<b>1974</b>—Subsec. (a). Pub. L. 93–550 substituted as a boundary description Boundary Map No. 612–80,008–B, and dated August 1974, on file in the office of the National Park Service, Department of the Interior, for a boundary map designated NS–PR–7001, dated June 1, 1960, on file with the Director of the National Park Service, Washington, D.C., and all measurements relating thereto.
 
-1966—Subsec. (b). Pub. L. 89–666 inserted “to the aforesaid tract in the general vicinity of the northwesterly portion of the property known as ‘Bear Valley Ranch’ ” after “right-of-way”, struck out “from the intersection of Sir Francis Drake Boulevard and Haggerty Gulch” after “aforesaid tract” and included such adjoining lands as would be deprived of access by reason of the right-of-way.
+<b>1966</b>—Subsec. (b). Pub. L. 89–666 inserted “to the aforesaid tract in the general vicinity of the northwesterly portion of the property known as ‘Bear Valley Ranch’ ” after “right-of-way”, struck out “from the intersection of Sir Francis Drake Boulevard and Haggerty Gulch” after “aforesaid tract” and included such adjoining lands as would be deprived of access by reason of the right-of-way.
 

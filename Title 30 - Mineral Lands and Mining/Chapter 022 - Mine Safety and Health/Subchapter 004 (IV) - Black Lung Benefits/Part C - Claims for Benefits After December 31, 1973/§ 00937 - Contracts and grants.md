@@ -16,7 +16,7 @@ There is hereby authorized to be appropriated for the purpose of subsection (a) 
 
 #### Amendments
 
-1978—Subsec. (c). Pub. L. 95–239 substituted “$10,000,000 for each fiscal year” for “$10,000,000 for each of the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975”.
+<b>1978</b>—Subsec. (c). Pub. L. 95–239 substituted “$10,000,000 for each fiscal year” for “$10,000,000 for each of the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975”.
 
 #### Change of Name
 

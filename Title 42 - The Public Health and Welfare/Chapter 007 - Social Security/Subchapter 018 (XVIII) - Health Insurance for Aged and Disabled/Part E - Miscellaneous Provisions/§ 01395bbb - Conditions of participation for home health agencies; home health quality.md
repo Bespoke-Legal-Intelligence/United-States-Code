@@ -88,7 +88,7 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 #### (c) Surveys of home health agencies
 
-(1) Any agreement entered into or renewed by the Secretary pursuant to section 1395aa of thistitle relating to home health agencies shall provide that the appropriate State or local agency shall conduct, without any prior notice, a standard survey of each home health agency. Any individual who notifies (or causes to be notified) a home health agency of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under this paragraph in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a of this title. The Secretary shall review each State's or local agency's procedures for scheduling and conduct of standard surveys to assure that the State or agency has taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
+(1) Any agreement entered into or renewed by the Secretary pursuant to section 1395aa of this title relating to home health agencies shall provide that the appropriate State or local agency shall conduct, without any prior notice, a standard survey of each home health agency. Any individual who notifies (or causes to be notified) a home health agency of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under this paragraph in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a of this title. The Secretary shall review each State's or local agency's procedures for scheduling and conduct of standard surveys to assure that the State or agency has taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
 
 (2)(A) Except as provided in subparagraph (B), each home health agency shall be subject to a standard survey not later than 36 months after the date of the previous standard survey conducted under this paragraph. The Secretary shall establish a frequency for surveys of home health agencies within this 36-month interval commensurate with the need to assure the delivery of quality home health services.
 
@@ -116,7 +116,7 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 &emsp;&emsp;(III) who has no personal or familial financial interest in the home health agency surveyed.
 
-(D) Each home health agency that is found, under a standard survey, to have provided substandard care shall be subject to an extended survey to review and identify the policies and procedures which produced such substandard care and to determine whether the agency has complied with the conditions of participation specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section. Any other agency may, at the Secretary's or State's discretion, be subject to such an extended survey (or a partial extended survey). The extended survey shall be conducted immediately after the standard survey (or, if not practical, not later than 2 weeks after the date of completion of the standard survey).
+(D) Each home health agency that is found, under a standard survey, to have provided substandard care shall be subject to an extended survey to review and identify the policies and procedures which produced such substandardcare and to determine whether the agency has complied with the conditions of participation specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section. Any other agency may, at the Secretary's or State's discretion, be subject to such an extended survey (or a partial extended survey). The extended survey shall be conducted immediately after the standard survey (or, if not practical, not later than 2 weeks after the date of completion of the standard survey).
 
 (E) Nothing in this paragraph shall be construed as requiring an extended (or partial extended) survey as a prerequisite to imposing a sanction against an agency under subsection (e) of this section on the basis of the findings of a standard survey.
 
@@ -138,7 +138,7 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 #### (e) Enforcement
 
-(1) If the Secretary determines on the basis of a standard, extended, or partial extended survey or otherwise, that a home health agency that iscertified for participation under this subchapter is no longer in compliance with the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section and determines that the deficiencies involved immediately jeopardize the health and safety of the individuals to whom the agency furnishes items and services, the Secretary shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in subsection (f)(2)(A)(iii) of this section or terminate the certification of the agency, and may provide, in addition, for 1 or more of the other remedies described in subsection (f)(2)(A) of this section.
+(1) If the Secretary determines on the basis of a standard, extended, or partial extended survey or otherwise, that a home health agency that is certified for participation under this subchapter is no longer in compliance with the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section and determines that the deficiencies involved immediately jeopardize the health and safety of the individuals to whom the agency furnishes items and services, the Secretary shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in subsection (f)(2)(A)(iii) of this section or terminate the certification of the agency, and may provide, in addition, for 1 or more of the other remedies described in subsection (f)(2)(A) of this section.
 
 (2) If the Secretary determines on the basis of a standard, extended, or partial extended survey or otherwise, that a home health agency that is certified for participation under this subchapter is no longer in compliance with the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section and determines that the deficiencies involved do not immediately jeopardize the health and safety of the individuals to whom the agency furnishes items and services, the Secretary may (for a period not to exceed 6 months) impose intermediate sanctions developed pursuant to subsection (f) of this section, in lieu of terminating the certification of the agency. If, after such a period of intermediate sanctions, the agency is still no longer in compliance with the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section, the Secretary shall terminate the certification of the agency.
 
@@ -180,23 +180,23 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 #### (g) Payment on basis of location of service
 
-A home health agency shall submit claims for payment for home health services under thissubchapter only on the basis of the geographic location at which the service is furnished, as determined by the Secretary.
+A home health agency shall submit claims for payment for home health services under this subchapter only on the basis of the geographic location at which the service is furnished, as determined by the Secretary.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1891, as added and amended Pub. L. 100–203, title IV, §§4021(b), 4022(a), 4023(a), Dec. 22, 1987, 101 Stat. 1330–67, 1330–69, 1330–71; Pub. L. 100–360, title IV, §411(d)(1)(A), (2)–(3)(B), July 1, 1988, 102 Stat. 773, 774; Pub. L. 100–485, title VI, §608(d)(20)(A), Oct. 13, 1988, 102 Stat. 2419; Pub. L. 101–508, title IV, §§4206(d)(2), 4207(i)(1), formerly 4027(i)(1), Nov. 5, 1990, 104 Stat. 1388–116, 1388–123, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 104–134, title I, §101(d) \[title V, §516(a)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–246; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–33, title IV, §4604(a), Aug. 5, 1997, 111 Stat. 472; Pub. L. 108–173, title VII, §736(c)(3), Dec. 8, 2003, 117 Stat. 2356.)
 
 #### Amendments
 
-2003—Subsec. (d)(1). Pub. L. 108–173 substituted “subsection (c)(2)(C)(i)(I)” for “subsection (c)(2)(C)(I)”.
+<b>2003</b>—Subsec. (d)(1). Pub. L. 108–173 substituted “subsection (c)(2)(C)(i)(I)” for “subsection (c)(2)(C)(I)”.
 
-1997—Subsec. (g). Pub. L. 105–33 added subsec. (g).
+<b>1997</b>—Subsec. (g). Pub. L. 105–33 added subsec. (g).
 
-1996—Subsec. (c)(2)(A). Pub. L. 104–134 substituted “36 months” for “15 months” in first sentence and amended last sentence generally. Prior to amendment, last sentence read as follows: “The statewide average interval between standard surveys of any home health agency shall not exceed 12 months.”
+<b>1996</b>—Subsec. (c)(2)(A). Pub. L. 104–134 substituted “36 months” for “15 months” in first sentence and amended last sentence generally. Prior to amendment, last sentence read as follows: “The statewide average interval between standard surveys of any home health agency shall not exceed 12 months.”
 
-1990—Subsec. (a)(3)(D)(iii). Pub. L. 101–508, §4207(i)(1), formerly §4027(i)(1), as renumbered by Pub. L. 103–432, substituted “which, within the previous 2 years—” and subcls. (I) to (IV) for “which has been determined to be out of compliance with the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section within the previous 2 years.”
+<b>1990</b>—Subsec. (a)(3)(D)(iii). Pub. L. 101–508, §4207(i)(1), formerly §4027(i)(1), as renumbered by Pub. L. 103–432, substituted “which, within the previous 2 years—” and subcls. (I) to (IV) for “which has been determined to be out of compliance with the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section within the previous 2 years.”
 
 Subsec. (a)(6). Pub. L. 101–508, §4206(d)(2), added par. (6).
 
-1988—Subsec. (a)(3)(A). Pub. L. 100–360, §411(d)(1)(A)(i), struck out “who is not a licensed health care professional (as defined in subparagraph (F))” after “any individual” in introductory provisions.
+<b>1988</b>—Subsec. (a)(3)(A). Pub. L. 100–360, §411(d)(1)(A)(i), struck out “who is not a licensed health care professional (as defined in subparagraph (F))” after “any individual” in introductory provisions.
 
 Subsec. (a)(3)(F). Pub. L. 100–360, §411(d)(1)(A)(ii), inserted “physical or occupational therapy assistant,” after “occupational therapist”.
 
@@ -214,7 +214,7 @@ Pub. L. 100–360, §411(d)(3)(B)(i), realigned the margins of cls. (i) to (iii)
 
 Subsec. (f)(2)(A)(i). Pub. L. 100–360, §411(d)(3)(B)(ii), substituted “in an amount not to exceed $10,000 for each day of noncompliance” for “for each day of noncompliance”.
 
-1987—Subsecs. (c), (d). Pub. L. 100–203, §4022(a), added subsecs. (c) and (d).
+<b>1987</b>—Subsecs. (c), (d). Pub. L. 100–203, §4022(a), added subsecs. (c) and (d).
 
 Subsecs. (e), (f). Pub. L. 100–203, §4023(a), as amended by Pub. L. 100–360, §411(d)(3)(A), added subsecs. (e) and (f).
 
@@ -224,7 +224,7 @@ Amendment by Pub. L. 105–33 applicable to cost reporting periods beginning on 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 4206(d)(2) of Pub. L. 101–508 applicable with respect to services furnished on or after the first day of the first month beginning more than 1 year after Nov. 5, 1990, see section 4206(e)(1) of Pub. L. 101–508, set out as a note under section 1395i–3 of this title.
+Amendment by section 4206(d)(2) of Pub. L. 101–508 applicable with respect to services furnished on or after the first day of the first month beginning more than 1 year after Nov. 5, 1990, see section 4206(e)(1) of Pub. L.101–508, set out as a note under section 1395i–3 of this title.
 
 Section 4207(i)(1), formerly 4027(i)(1), of Pub. L. 101–508, as renumbered by Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that the amendment made by that section is effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203.
 
@@ -248,7 +248,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment
 
-Section 4022(b) of Pub. L. 100–203 provided that: “Except as otherwise specifically provided in section 1891(d) of the Social Security Act \[subsec. (d) of this section\] (as added by subsection (a)), the amendment made by subsection (a) \[amending this section\] shallbecome effective on the first day of the 18th calendar month to begin after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Section 4022(b) of Pub. L. 100–203 provided that: “Except as otherwise specifically provided in section 1891(d) of the Social Security Act \[subsec. (d) of this section\] (as added by subsection (a)), the amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the 18th calendar month to begin after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
 Section 4023(b) of Pub. L. 100–203, as amended by Pub. L. 100–360, title IV, §411(d)(3)(C), July 1, 1988, 102 Stat. 774, provided that: “Except as otherwise specifically provided in subsections (e) and (f) of section 1891 of the Social Security Act \[subsecs. (e) and (f) of this section\] (as added by subsection (a)), the amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the 18th calendar month to begin after the date of the enactment of this Act \[Dec. 22, 1987\], and no intermediate sanction described in section 1891(f)(2)(A) of such Act \[subsec. (f)(2)(A) of this section\] shall be imposed for violations occurring before such effective date.”
 

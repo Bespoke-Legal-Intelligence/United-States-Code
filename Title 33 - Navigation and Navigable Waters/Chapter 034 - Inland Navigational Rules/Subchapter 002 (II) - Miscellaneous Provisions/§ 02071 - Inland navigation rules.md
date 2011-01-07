@@ -6,9 +6,9 @@ The Secretary of the Department in which the Coast Guard is operating may issue 
 
 #### References in Text
 
-The International Regulations, referred to in text, are the International Regulations for Preventing Collisions at Sea, 1972, which are maintained and published by the United States Coast Guard, U.S. Department of Homeland Security, in the publication <i>Navigation Rules</i>, which is available for sale by the Superintendent of Documents, U.S. Government Printing Office, Washington, D.C. 20402. See International Regulations for Preventing Collisions at Sea, 1972 note under section 1602 of this title.
+The International Regulations, referred to in text, came into effect pursuant to the Convention on the International Regulations for Preventing Collisions at Sea, 1972. See International Regulations for Preventing Collisions at Sea, 1972 note under section 1602 of this title.
 
 #### Amendments
 
-2004—Pub. L. 108–293 amended section catchline and text generally. Prior to amendment, text read as follows: “The Secretary may issue regulations necessary to implement and interpret this chapter. The Secretary shall establish the following technical annexes to these Rules: Annex I, Positioning and Technical Details of Lights and Shapes; Annex II, Additional Signals for Fishing Vessels Fishing in Close Proximity; Annex III,Technical Details of Sound Appliances; and Annex IV, Distress Signals. These annexes shall be as consistent as possible with the respective annexes to the International Regulations. The Secretary may establish other technical annexes, including local pilot rules.”
+<b>2004</b>—Pub. L. 108–293 amended section catchline and text generally. Prior to amendment, text read as follows: “The Secretary may issue regulations necessary to implement and interpret this chapter. The Secretary shall establish the following technical annexes to these Rules: Annex I, Positioning and Technical Details of Lights and Shapes; Annex II, Additional Signals for Fishing Vessels Fishing in Close Proximity; Annex III, Technical Details of Sound Appliances; and Annex IV, Distress Signals. These annexes shall be as consistent as possible with the respective annexes to the International Regulations. The Secretary may establish other technical annexes, including local pilot rules.”
 

@@ -90,7 +90,7 @@ For purposes of this subchapter—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “related person” means any person who is a member of the same controlled group (within the meaning of section 5061(e)(3)) as the manufacturer, producer, or importer.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “related person” means any person who is a member of the same controlled group (within the meaning of section5061(e)(3)) as the manufacturer, producer, or importer.
 
 #### (ii) Exception for retail establishment
 
@@ -100,7 +100,7 @@ For purposes of this subchapter—
 
 #### (1) In general
 
-&emsp;For purposes of this subchapter (other than subsection (a)(3)(B)), a person shall not betreated as engaged in the manufacture of any article by reason of merely combining such article with any item listed in paragraph (2).
+&emsp;For purposes of this subchapter (other than subsection (a)(3)(B)), a person shall not be treated as engaged in the manufacture of any article by reason of merely combining such article with any item listed in paragraph (2).
 
 #### (2) Items
 
@@ -136,9 +136,9 @@ A prior section 4052, act Aug. 16, 1954, ch. 736, 68A Stat. 479, provided that l
 
 #### Amendments
 
-1998—Subsec. (f)(2). Pub. L. 105–206 substituted “such section” for “this section”.
+<b>1998</b>—Subsec. (f)(2). Pub. L. 105–206 substituted “such section” for “this section”.
 
-1997—Subsec. (b)(1)(B)(ii) to (iv). Pub. L. 105–34, §1402(b), inserted “and” at end of cl. (ii), redesignated cl. (iv) as (iii), and struck out former cl. (iii) which read as follows: “the fair market value (including any tax imposed by section 4071) at retail of any tires (not including any metal rim or rim base), and”.
+<b>1997</b>—Subsec. (b)(1)(B)(ii) to (iv). Pub. L. 105–34, §1402(b), inserted “and” at end of cl. (ii), redesignated cl. (iv) as (iii), and struck out former cl. (iii) which read as follows: “the fair market value (including any tax imposed by section 4071) at retail of any tires (not including any metal rim or rim base), and”.
 
 Subsec. (d). Pub. L. 105–34, §1434(b)(1), substituted “rules of subsections (c) and (d) of section 4216 (relating to partial payments) shall apply” for “rules of—
 
@@ -154,9 +154,9 @@ Subsec. (f). Pub. L. 105–34, §1434(a), added subsec. (f). Former subsec. (f) 
 
 Subsec. (g). Pub. L. 105–34, §1434(b)(2), added subsec. (g).
 
-1988—Subsec. (a)(1). Pub. L. 100–647 substituted “production, manufacture” for “manufacture, production”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647 substituted “production, manufacture” for “manufacture, production”.
 
-1987—Subsec. (a)(1). Pub. L. 100–17, §505(a), inserted “or leasing in a long-term lease” after “resale”.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–17, §505(a), inserted “or leasing in a long-term lease” after “resale”.
 
 Subsec. (b)(3). Pub. L. 100–17, §505(b), added par. (3).
 
@@ -164,7 +164,7 @@ Subsec. (b)(4). Pub. L. 100–17, §506(a), added par. (4).
 
 Subsec. (f). Pub. L. 100–17, §505(c), added subsec. (f).
 
-1984—Subsec. (b)(1)(B)(iv). Pub. L. 98–369, §731, added cl. (iv).
+<b>1984</b>—Subsec. (b)(1)(B)(iv). Pub. L. 98–369, §731, added cl. (iv).
 
 Subsec. (c). Pub. L. 98–369, §735(b)(2), in amending subsec. (c) generally, designated existing provisions as par. (1), in par. (1) as so designated substituted “by reason of merely combining such article with any article listed in paragraph (2)” for “with any equipment or other item listed in section 4063(d)”, and added par. (2).
 
@@ -190,5 +190,5 @@ Section 506(b) of Pub. L. 100–17 provided that: “The amendment made by this 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions ofthe Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
+Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
 

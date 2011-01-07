@@ -42,5 +42,5 @@ For purposes of subsection (a) of this section:
 
 #### Amendments
 
-2003—Subsec. (b)(1)(C). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2003</b>—Subsec. (b)(1)(C). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 

@@ -30,7 +30,7 @@ In this chapter:
 
 #### Amendments
 
-1994—Par. (4). Pub. L. 103–337 added par. (4).
+<b>1994</b>—Par. (4). Pub. L. 103–337 added par. (4).
 
 #### Effective Date of 1994 Amendment
 

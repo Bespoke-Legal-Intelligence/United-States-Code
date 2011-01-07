@@ -24,13 +24,13 @@ The words “this title” are substituted for the words “this chapter”, sin
 
 #### Amendments
 
-2008—Pub. L. 110–417 substituted “62 years” for “60 years”.
+<b>2008</b>—Pub. L. 110–417 substituted “62 years” for “60 years”.
 
-1994—Pub. L. 103–337, §1675(d)(4), substituted “573, 1407, and 1409” for “337, 363, 573, 837, and 863”.
+<b>1994</b>—Pub. L. 103–337, §1675(d)(4), substituted “573, 1407, and 1409” for “337, 363, 573, 837, and 863”.
 
 Pub. L. 103–337, §1662(h)(2), renumbered section 1007 of this title as this section.
 
-1960—Pub. L. 86–559 inserted “or serving as United States property and fiscal officers” in section catchline, and inserted provisions in text authorizing retention of reserve commissioned officers who are property and fiscal officers, appointed, designated, or detailed under section 708 of title 32.
+<b>1960</b>—Pub. L. 86–559 inserted “or serving as United States property and fiscal officers” in section catchline, and inserted provisions in text authorizing retention of reserve commissioned officers who are property and fiscal officers, appointed, designated, or detailed under section 708 of title 32.
 
 #### Effective Date of 1994 Amendment
 

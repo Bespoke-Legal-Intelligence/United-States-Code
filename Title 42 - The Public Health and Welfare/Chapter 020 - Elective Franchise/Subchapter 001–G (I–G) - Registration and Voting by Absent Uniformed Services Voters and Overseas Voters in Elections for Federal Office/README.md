@@ -4,8 +4,6 @@
 
 Provisions similar to this subchapter were contained in subchapters I–D and I–E (1973cc et seq. and 1973dd et seq.) of this chapter prior to repeal by Pub. L. 99–410.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “possession”.</i>
-
 
 ---
 

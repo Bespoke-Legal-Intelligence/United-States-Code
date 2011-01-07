@@ -26,13 +26,13 @@ A prior section 1081, act Aug. 10, 1956, ch. 1041, 70A Stat. 86, related to noti
 
 #### Amendments
 
-1984—Pub. L. 98–557 substituted reference to appropriate administering Secretary for reference to Secretary of Defense and Secretary of Health and Human Services.
+<b>1984</b>—Pub. L. 98–557 substituted reference to appropriate administering Secretary for reference to Secretary of Defense and Secretary of Health and Human Services.
 
-1983—Pub. L. 98–94 struck out “; reports” after “adjustment of payments” in section catchline.
+<b>1983</b>—Pub. L. 98–94 struck out “; reports” after “adjustment of payments” in section catchline.
 
-1982—Pub. L. 97–375 struck out requirement that the Secretary of Defense report to the Committees on Armed Services of the Congress amounts paid and adjustments made during the year covered by the review not later than 90 days after such review.
+<b>1982</b>—Pub. L. 97–375 struck out requirement that the Secretary of Defense report to the Committees on Armed Services of the Congress amounts paid and adjustments made during the year covered by the review not later than 90 days after such review.
 
-1980—Pub. L. 96–513 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+<b>1980</b>—Pub. L. 96–513 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
 #### Effective Date of 1980 Amendment
 

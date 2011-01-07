@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established an estuary habitat restoration program under which the Secretary may carry out estuary habitat restoration projects and provide technical assistance through the award of contracts and cooperative agreements in accordance with the requirements of this chapter.
+There is established an estuary habitat restoration program under which the Secretary may carry out estuary habitat restorationprojects and provide technical assistance through the award of contracts and cooperative agreements in accordance with the requirements of this chapter.
 
 #### (b) Origin of projects
 
@@ -52,7 +52,7 @@ A proposed estuary habitat restoration project shall originate from a non-Federa
 
 &emsp;&emsp;(A) the project occurs within a watershed in which there is a program being carried out that addresses sources of pollution and other activities that otherwise would re-impair the restored habitat; or
 
-&emsp;&emsp;(B) the project includes pilot testing of or a demonstration of an innovative technologyor approach having the potential for improved cost-effectiveness in estuary habitat restoration.
+&emsp;&emsp;(B) the project includes pilot testing of or a demonstration of an innovative technology or approach having the potential for improved cost-effectiveness in estuary habitat restoration.
 
 #### (d) Cost sharing
 
@@ -148,7 +148,7 @@ A proposed estuary habitat restoration project shall originate from a non-Federa
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–114, §5017(c)(1), inserted “through the award of contracts and cooperative agreements” after “assistance”.
+<b>2007</b>—Subsec. (a). Pub. L. 110–114, §5017(c)(1), inserted “through the award of contracts and cooperative agreements” after “assistance”.
 
 Subsec. (c)(3)(A). Pub. L. 110–114, §5017(c)(2)(A), inserted “or State” after “Federal”.
 

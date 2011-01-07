@@ -58,7 +58,7 @@ Preliminary Market Research.—(1) The head of an agency shall conduct market re
 
 #### Amendments
 
-2008—Subsec. (c)(1)(C). Pub. L. 110–181, §826(a)(1), added subpar. (C).
+<b>2008</b>—Subsec. (c)(1)(C). Pub. L. 110–181, §826(a)(1), added subpar. (C).
 
 Subsec. (c)(4). Pub. L. 110–181, §826(a)(2), added par. (4).
 

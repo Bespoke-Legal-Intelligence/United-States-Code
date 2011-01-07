@@ -2,7 +2,7 @@
 
 #### (a) Authorities, scope, and purposes; conditions; interest rate; repayment
 
-The Secretary is authorized to make or guarantee loans (either directly or in cooperation with banks or other organizations through agreements to participate on an immediate or deferred basis) to community development corporations, to families and local cooperatives and the designated supportive organizations of cooperatives eligible for financial assistance under this subchapter, to private nonprofit organizations receiving assistance under chapter 106 of this title, or to public and private nonprofit organizations or agencies, for business facilities and community development projects, including community development credit unions, which the Secretary determines will carry out the purposes of this part. No loans, guarantees, or other financial assistance shall be provided under this section unless the Secretary determines that—
+The Secretary is authorized to make or guarantee loans (either directly or in cooperation with banks or other organizations through agreements to participate on an immediate or deferred basis) to community development corporations, to families and local cooperatives and the designated supportive organizations of cooperatives eligible for financial assistance under this subchapter, to private nonprofit organizations receiving assistance under chapter 106 of this title, or to public and private nonprofit organizations or agencies, for business facilitiesand community development projects, including community development credit unions, which the Secretary determines will carry out the purposes of this part. No loans, guarantees, or other financial assistance shall be provided under this section unless the Secretary determines that—
 
 &emsp;(1) there is reasonable assurance of repayment of the loan;
 
@@ -34,7 +34,7 @@ The Economic Opportunity Act of 1964, referred to in subsec. (c)(2), is Pub. L. 
 
 #### Amendments
 
-1990—Subsec. (c)(2). Pub. L. 101–624 inserted “, or the Rural Development Administration” after “Farmers Home Administration”.
+<b>1990</b>—Subsec. (c)(2). Pub. L. 101–624 inserted “, or the Rural Development Administration” after “Farmers Home Administration”.
 
 #### Transfer of Functions
 

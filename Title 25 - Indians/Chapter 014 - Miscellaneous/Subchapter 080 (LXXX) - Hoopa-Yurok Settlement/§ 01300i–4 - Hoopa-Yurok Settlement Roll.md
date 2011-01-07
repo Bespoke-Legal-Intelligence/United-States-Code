@@ -36,7 +36,7 @@ The deadline for application pursuant to this section shall be established at on
 
 (3) Persons added to the Settlement Roll pursuant to appeals under this subsection shall not be considered in the calculations made pursuant to section 1300i–3 of this title.
 
-(4) For the sole purpose of preparing the Settlement Roll under this section, the Yurok Transition Team and the Hoopa Valley Business Council may review applications, make recommendations which the Secretary shall accept unless conflicting or erroneous, and may appeal the Secretary's decisions concerning the Settlement Roll. Full disclosure of relevant records shall be made to the Team and to the Council notwithstanding any other provision of law.
+(4) For the sole purpose of preparing the Settlement Roll under this section, the Yurok Transition Team and the Hoopa Valley Business Council may review applications, make recommendations which the Secretary shall accept unless conflicting or erroneous, and may appeal the Secretary's decisions concerning the Settlement Roll. Full disclosure of relevant recordsshall be made to the Team and to the Council notwithstanding any other provision of law.
 
 #### (e) Effect of exclusion from roll
 
@@ -46,9 +46,9 @@ No person whose name is not included on the Settlement Roll shall have any inter
 
 #### Amendments
 
-1992—Subsec. (a)(2). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in two places.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in two places.
 
-1990—Subsec. (a)(2). Pub. L. 101–301, §9(1), inserted at end “Children under age 10 on the date they applied for the Settlement Roll who have lived all their lives on the Joint Reservation or the Hoopa Valley or Yurok Reservations, and who otherwise meet the requirements of this section except they lack 10 years of Reservation residence, shall be included on the Settlement Roll.”
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–301, §9(1), inserted at end “Children under age 10 on the date they applied for the Settlement Roll who have lived all their lives on the Joint Reservation or the Hoopa Valley or Yurok Reservations, and who otherwise meet the requirements of this section except they lack 10 years of Reservation residence, shall be included on the Settlement Roll.”
 
 Subsec. (d)(4). Pub. L. 101–301, §9(2), added par. (4).
 

@@ -14,7 +14,7 @@ Except as hereinafter provided, every article of foreign origin (or its containe
 
 &emsp;&emsp;(B) Such article cannot be marked prior to shipment to the United States without injury;
 
-&emsp;&emsp;(C) Such article cannot be marked prior to shipment to the United States, except at an expense economically prohibitive of its importation;
+&emsp;&emsp;(C) Such article cannot be marked prior to shipment to the United States, except at anexpense economically prohibitive of its importation;
 
 &emsp;&emsp;(D) The marking of a container of such article will reasonably indicate the origin of such article;
 
@@ -24,7 +24,7 @@ Except as hereinafter provided, every article of foreign origin (or its containe
 
 &emsp;&emsp;(G) Such article is to be processed in the United States by the importer or for his account otherwise than for the purpose of concealing the origin of such article and in such manner that any mark contemplated by this section would necessarily be obliterated, destroyed, or permanently concealed;
 
-&emsp;&emsp;(H) An ultimate purchaser, by reason of the character of such article or by reason ofthe circumstances of its importation, must necessarily know the country of origin of such article even though it is not marked to indicate its origin;
+&emsp;&emsp;(H) An ultimate purchaser, by reason of the character of such article or by reason of the circumstances of its importation, must necessarily know the country of origin of such article even though it is not marked to indicate its origin;
 
 &emsp;&emsp;(I) Such article was produced more than twenty years prior to its importation into the United States;
 
@@ -68,7 +68,7 @@ The marking requirements of subsections (a) and (b) of this section shall not ap
 
 #### (i) Additional duties for failure to mark
 
-If at the time of importation any article (or its container, as provided in subsection (b) of this section) is not marked in accordance with the requirements of this section, and if such article is not exported or destroyed or the article (or its container, as provided in subsection (b) of this section) marked after importation in accordance with the requirements of this section\(such exportation, destruction, or marking to be accomplished under customs supervision prior to the liquidation of the entry covering the article, and to be allowed whether or not the article has remained in continuous customs custody), there shall be levied, collected, and paid upon such article a duty of 10 per centum ad valorem, which shall be deemed to have accrued at the time of importation, shall not be construed to be penal, and shall not be remitted wholly or in part nor shall payment thereof be avoidable for any cause. Such duty shall be levied, collected, and paid in addition to any other duty imposed by law and whether or not the article is exempt from the payment of ordinary customs duties. The compensation and expenses of customs officers and employees assigned to supervise the exportation, destruction, or marking to exempt articles from the application of the duty provided for in this subsection shall be reimbursed to the Government by the importer.
+If at the time of importation any article (or its container, as provided in subsection (b) of this section) is not marked in accordance with the requirements of this section, and if such article is not exported or destroyed or the article (or its container, as provided in subsection (b) of this section) marked after importation in accordance with the requirements of this section (such exportation, destruction, or marking to be accomplished under customs supervision prior to the liquidation of the entry covering the article, and to be allowed whether or not the article has remained in continuous customs custody), there shall be levied, collected, and paid upon such article a duty of 10 per centum ad valorem, which shall be deemed to have accrued at the time of importation, shall not be construed to be penal, and shall not be remitted wholly or in part nor shall payment thereof be avoidable for any cause. Such duty shall be levied, collected, and paid in addition to any other duty imposed by law and whether or not the article is exempt from the payment of ordinary customs duties. The compensation and expenses of customs officers and employees assigned to supervise the exportation, destruction, or marking to exempt articles from the application of the duty provided for in this subsection shall be reimbursed to the Government by the importer.
 
 #### (j) Delivery withheld until marked
 
@@ -144,19 +144,19 @@ Provisions dealing with the subject matter of this section and former section 13
 
 #### Amendments
 
-1999—Subsecs. (h), (i). Pub. L. 106–36, §2423(a), added subsec. (h) and redesignated former subsec. (h) as (i). Former subsec. (i) redesignated (j).
+<b>1999</b>—Subsecs. (h), (i). Pub. L. 106–36, §2423(a), added subsec. (h) and redesignated former subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
 Subsec. (j). Pub. L. 106–36, §2423(a)(1), (b), redesignated subsec. (i) as (j) and substituted “subsection (i)” for “subsection (h)”. Former subsec. (j) redesignated (k).
 
 Subsecs. (k), (<i>l</i>). Pub. L. 106–36, §2423(a)(1), redesignated subsecs. (j) and (k) as (k) and (<i>l</i>), respectively.
 
-1996—Subsecs. (f) to (h). Pub. L. 104–295, §14(a), added subsecs. (f) and (g) and redesignated former subsec. (f) as (h). Former subsecs. (g) and (h) redesignated (i) and (j), respectively.
+<b>1996</b>—Subsecs. (f) to (h). Pub. L. 104–295, §14(a), added subsecs. (f) and (g) and redesignated former subsec. (f) as (h). Former subsecs. (g) and (h) redesignated (i) and (j), respectively.
 
 Subsec. (i). Pub. L. 104–295, §14(a)(1), (b), redesignated subsec. (g) as (i) and substituted “subsection (h) of this section” for “subsection (f) of this section”.
 
 Subsecs. (j), (k). Pub. L. 104–295, §14(a)(1), redesignated subsecs. (h) and (i) as (j) and (k), respectively.
 
-1993—Subsec. (c)(1). Pub. L. 103–182, §207(a)(1), substituted “engraving, or continuous paint stenciling” for “or engraving”.
+<b>1993</b>—Subsec. (c)(1). Pub. L. 103–182, §207(a)(1), substituted “engraving, or continuous paint stenciling” for “or engraving”.
 
 Subsec. (c)(2). Pub. L. 103–182, §207(a)(2), substituted “five methods” for “four methods” and struck out “such as paint stenciling” after “method of marking”.
 
@@ -164,15 +164,15 @@ Subsec. (e). Pub. L. 103–182, §207(a)(3), substituted “engraving, or an equ
 
 Subsecs. (h), (i). Pub. L. 103–182, §207(a)(4), (5), added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1988—Subsec. (h). Pub. L. 100–418 amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “If any person shall, with intent to conceal the information given thereby or contained therein, deface, destroy, remove, alter, cover, obscure, or obliterate any mark required under the provisions of this chapter, he shall, upon conviction, be fined not more than $5,000 or imprisoned not more than one year, or both.”
+<b>1988</b>—Subsec. (h). Pub. L. 100–418 amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “If any person shall, with intent to conceal the information given thereby or contained therein, deface, destroy, remove, alter, cover, obscure, or obliterate any mark required under the provisions of this chapter, he shall, upon conviction, be fined not more than $5,000 or imprisoned not more than one year, or both.”
 
-1986—Subsec. (c). Pub. L. 99–514 substituted “(1) Except as provided in paragraph (2), no” for “No” and added par. (2).
+<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “(1) Except as provided in paragraph (2), no” for “No” and added par. (2).
 
-1984—Subsecs. (c) to (h). Pub. L. 98–573 added subsecs. (c) to (e), redesignated former subsecs. (c) to (e) as (f) to (h), respectively, and in subsec. (g), as redesignated, substituted “subsection (f) of this section” for “subsection (c) of this section”.
+<b>1984</b>—Subsecs. (c) to (h). Pub. L. 98–573 added subsecs. (c) to (e), redesignated former subsecs. (c) to (e) as (f) to (h), respectively, and in subsec. (g), as redesignated, substituted “subsection (f) of this section” for “subsection (c) of this section”.
 
-1953—Subsec. (a)(3)(K). Act Aug. 8, 1953, added cl. (K).
+<b>1953</b>—Subsec. (a)(3)(K). Act Aug. 8, 1953, added cl. (K).
 
-1938—Act June 25, 1938, amended section generally.
+<b>1938</b>—Act June 25, 1938, amended section generally.
 
 #### Effective Date of 1999 Amendment
 
@@ -200,7 +200,7 @@ Section 214 of title II of Pub. L. 98–573 provided that:
 
 “(a) For purposes of this section, the term ‘15th day’ means the 15th day after the date of the enactment of this Act \[Oct. 30, 1984\].
 
-“(b) Except as provided in subsections (c), (d), and (e), the amendments made by this title \[enacting sections 58b, 1339, and 1627a of this title, amending sections 81c, 81<i>o</i>, 1313, 1330, 1431, 1498, 1555, 2192, 2251, 2253, and 2703 of this title, section 925 of Title 18, Crimes and Criminal Procedure, and section 162 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under sections 2, 81c, 81<i>o</i>, and 1339 of this title, and section 162 of Title 26\] shall take effect on the 15th day.
+“(b) Except as provided in subsections (c), (d), and (e), the amendments made by this title \[enacting sections 58b, 1339, and 1627a of this title, amending sections 81c, 81<i>o</i>, 1313, 1330, 1431, 1498, 1555, 2192, 2251, 2253, and 2703 of this title, section 925 of Title 18, Crimes and Criminal Procedure, and section 162 of Title 26, Internal Revenue Code, and enacting provisions set out as notes undersections 2, 81c, 81<i>o</i>, and 1339 of this title, and section 162 of Title 26\] shall take effect on the 15th day.
 
 “(c)(1) The amendment made by section 204 \[amending section 1441 of this title\] shall apply with respect to vessels returning from the British Virgin Islands on or after the 15th day.
 
@@ -208,7 +208,7 @@ Section 214 of title II of Pub. L. 98–573 provided that:
 
 “(3)(A) The amendment made by section 208 \[amending section 1466 of this title\] shall apply with respect to entries made in connection with arrivals of vessels on or after the 15th day.
 
-“(B) Upon request therefor filed with the customs officer concerned on or before the 90th day after the dateof the enactment of this Act \[Oct. 30, 1984\], any entry in connection with the arrival of a vessel used primarily for transporting passengers or property—
+“(B) Upon request therefor filed with the customs officer concerned on or before the 90th day after the date of the enactment of this Act \[Oct. 30, 1984\], any entry in connection with the arrival of a vessel used primarily for transporting passengers or property—
 
 &emsp;“(i) made before the 15th day but not liquidated as of January 1, 1983, or
 
@@ -264,5 +264,5 @@ Section 207(b) of Pub. L. 103–182 provided that: “Articles that qualify as g
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 

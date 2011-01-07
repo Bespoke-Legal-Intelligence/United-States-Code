@@ -42,11 +42,11 @@ Computation for Later Disability.—A member of an armed force covered by subsec
 
 &nbsp;
 
-| Column 1Take | Column 2Multiply by | Column 3Add | Column 4Subtract |
-| --- | --- | --- | --- |
-| The retired pay base computed under section 1407(b) of this title. | As member elects—  (1) 21/2 percent of years of service credited under section 1208 of this title; <sup>1</sup> or  (2) the highest percentage of disability attained while on active duty after retirement or after the date when his name was placed on temporary disability retired list, as the case may be. | Amount necessary to increase product of columns 1 and 2 to 50 percent of pay upon which computation is based, if member is on temporary disability retired list | Excess over 75 percent of retired or retainer pay base upon which computation is based. |
+| Column 1Take | Column 2Multiply by | Column 3Add |
+| --- | --- | --- |
+| The retired pay base computed under section 1407(b) of this title. | As member elects—  (1) 21/2 percent of years of service credited under section 1208 of this title; <sup>1</sup> or  (2) the highest percentage of disability, not to exceed 75 percent, attained while on active duty after retirement or after the date when his name was placed on temporary disability retired list, as the case may be. | Amount necessary to increase product of columns 1 and 2 to 50 percent of pay upon which computation is based, if member is on temporary disability retired list. |
 
-&nbsp;<sup>1</sup> Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month.
+<sup>1</sup> Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month.
 
 (e)
 
@@ -68,13 +68,15 @@ Percent for Certain Enlisted Members Credited With Extraordinary Heroism.—(1) 
 
 (3) The determination of the Secretary concerned as to extraordinary heroism is conclusive for all purposes.
 
-(Added Pub. L. 96–342, title VIII, §813(b)(3)(A), Sept. 8, 1980, 94 Stat. 1102; amended Pub. L. 96–513, title V, §511(51)(A), (B), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §§922(a)(5), (6), 923(a)(1), (2)(D), (E), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 99–348, title II, §201(b)(1), (2), July 1, 1986, 100 Stat. 693; Pub. L. 102–484, div. A, title VI, §642(b), Oct. 23, 1992, 106 Stat. 2425.)
+(Added Pub. L. 96–342, title VIII, §813(b)(3)(A), Sept. 8, 1980, 94 Stat. 1102; amended Pub. L. 96–513, title V, §511(51)(A), (B), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §§922(a)(5), (6), 923(a)(1), (2)(D), (E), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 99–348, title II, §201(b)(1), (2), July 1, 1986, 100 Stat. 693; Pub. L. 102–484, div. A, title VI, §642(b), Oct. 23, 1992, 106 Stat. 2425; Pub. L. 111–383, div. A, title VI, §631(c), Jan. 7, 2011, 124 Stat. 4239.)
 
 #### Amendments
 
-1992—Subsec. (f). Pub. L. 102–484 added subsec. (f).
+<b>2011</b>—Subsec. (d). Pub. L. 111–383, in column 2 of table, inserted “, not to exceed 75%,” after “percentage of disability” and struck out column 4 of table which related to subtraction of excess over 75 percent of retired or retainer pay base upon which computation is based.
 
-1986—Subsec. (a). Pub. L. 99–348, §201(b)(1), amended subsec. (a) generally. Prior to the amendment, subsec. (a) read as follows: “A member of an armed force who first became a member of a uniformed service (as defined in section 1407(a)(2) of this title) after September 7, 1980, who has become entitled to retired pay or retainer pay, and who thereafter serves on active duty (other than for training), is entitled to recompute his retired pay or retainer pay upon his release from that duty according to the following table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
+<b>1992</b>—Subsec. (f). Pub. L. 102–484 added subsec. (f).
+
+<b>1986</b>—Subsec. (a). Pub. L. 99–348, §201(b)(1), amended subsec. (a) generally. Prior to the amendment, subsec. (a) read as follows: “A member of an armed force who first became a member of a uniformed service (as defined in section 1407(a)(2) of this title) after September 7, 1980, who has become entitled to retired pay or retainer pay, and who thereafter serves on active duty (other than for training), is entitled to recompute his retired pay or retainer pay upon his release from that duty according to the following table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
 
 Subsec. (b). Pub. L. 99–348, §201(b)(2)(A), inserted heading.
 
@@ -84,7 +86,7 @@ Subsec. (d). Pub. L. 99–348, §201(b)(2)(C), inserted heading, struck out prov
 
 Subsec. (e). Pub. L. 99–348, §201(b)(2)(D), inserted heading.
 
-1983—Subsec. (a). Pub. L. 98–94, §922(a)(5), substituted “according to the following table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.” for “as follows:”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–94, §922(a)(5), substituted “according to the following table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.” for “as follows:”.
 
 Pub. L. 98–94, §923(a)(1), (2)(D), in footnote 1 of table, substituted “Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
 
@@ -92,9 +94,13 @@ Subsec. (d). Pub. L. 98–94, §922(a)(6), substituted “according to the follo
 
 Pub. L. 98–94, §923(a)(1), (2)(E), in footnote 1 of table, substituted “Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
 
-1980—Pub. L. 96–513, §511(51)(B), substituted “of members who first became members after September 7, 1980” for “in case of members who first became members after the enactment of the Department of Defense Authorization Act, 1981” in section catchline.
+<b>1980</b>—Pub. L. 96–513, §511(51)(B), substituted “of members who first became members after September 7, 1980” for “in case of members who first became members after the enactment of the Department of Defense Authorization Act, 1981” in section catchline.
 
 Subsecs. (a) to (c). Pub. L. 96–513, §511(51)(A), substituted “after September 7, 1980” for “on or after the date of the enactment of the Department of Defense Authorization Act, 1981” wherever appearing.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 111–383 applicable to persons who first become entitled to retired or retainer pay under subtitle A of this title after Jan. 7, 2011, and table in subsec. (d) of this section, in effect on the day before Jan. 7, 2011, applicable to the computation or recomputation of retired or retainer pay for persons who first became entitled to retired or retainer pay under subtitle A on or before Jan. 7, 2011, see section 631(d) of Pub. L. 111–383, set out as a note under section 1401 of this title.
 
 #### Effective Date of 1983 Amendment
 

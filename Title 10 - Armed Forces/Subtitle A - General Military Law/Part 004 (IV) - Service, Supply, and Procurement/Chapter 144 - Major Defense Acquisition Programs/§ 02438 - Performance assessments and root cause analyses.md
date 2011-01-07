@@ -1,0 +1,110 @@
+### §2438. Performance assessments and root cause analyses
+
+(a)
+
+Designation of Senior Official Responsibility for Performance Assessments and Root Cause Analyses.—
+
+&emsp;(1)
+
+In general.—The Secretary of Defense shall designate a senior official in the Office of the Secretary of Defense as the principal official of the Department of Defense responsible for conducting and overseeing performance assessments and root cause analyses for major defense acquisition programs.
+
+&emsp;(2)
+
+No program execution responsibility.—The Secretary shall ensure that the senior official designated under paragraph (1) is not responsible for program execution.
+
+&emsp;(3)
+
+Staff and resources.—The Secretary shall assign to the senior official designated under paragraph (1) appropriate staff and resources necessary to carry out official's <sup>1</sup> function under this section.
+
+(b)
+
+Responsibilities.—The senior official designated under subsection (a) shall be responsible for the following:
+
+&emsp;(1) Carrying out performance assessments of major defense acquisition programs in accordance with the requirements of subsection (c) periodically or when requested by the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology and Logistics, the Secretary of a military department, or the head of a Defense Agency.
+
+&emsp;(2) Conducting root cause analyses for major defense acquisition programs in accordance with the requirements of subsection (d) when required by section 2433a(a)(1) of this title, or when requested by the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology and Logistics, the Secretary of a military department, or the head of a Defense Agency.
+
+&emsp;(3) Issuing policies, procedures, and guidance governing the conduct of performance assessments and root cause analyses by the military departments and the Defense Agencies.
+
+&emsp;(4) Evaluating the utility of performance metrics used to measure the cost, schedule, and performance of major defense acquisition programs, and making such recommendations to the Secretary of Defense as the official considers appropriate to improve such metrics.
+
+&emsp;(5) Advising acquisition officials on performance issues regarding a major defense acquisition program that may arise—
+
+&emsp;&emsp;(A) before certification under section 2433a of this title;
+
+&emsp;&emsp;(B) before entry into full-rate production; or
+
+&emsp;&emsp;(C) in the course of consideration of any decision to request authorization of a multiyear procurement contract for the program.
+
+(c)
+
+Performance Assessments.—For purposes of this section, a performance assessment with respect to a major defense acquisition program is an evaluation of the following:
+
+&emsp;(1) The cost, schedule, and performance of the program, relative to current metrics, including performance requirements and baseline descriptions.
+
+&emsp;(2) The extent to which the level of program cost, schedule, and performance predicted relative to such metrics is likely to result in the timely delivery of a level of capability to the warfighter that is consistent with the level of resources to be expended and provides superior value to alternative approaches that may be available to meet the same military requirement.
+
+(d)
+
+Root Cause Analyses.—For purposes of this section and section 2433a of this title, a root cause analysis with respect to a major defense acquisition program is an assessment of the underlying cause or causes of shortcomings in cost, schedule, or performance of the program, including the role, if any, of—
+
+&emsp;(1) unrealistic performance expectations;
+
+&emsp;(2) unrealistic baseline estimates for cost or schedule;
+
+&emsp;(3) immature technologies or excessive manufacturing or integration risk;
+
+&emsp;(4) unanticipated design, engineering, manufacturing, or technology integration issues arising during program performance;
+
+&emsp;(5) changes in procurement quantities;
+
+&emsp;(6) inadequate program funding or funding instability;
+
+&emsp;(7) poor performance by government or contractor personnel responsible for program management; or
+
+&emsp;(8) any other matters.
+
+(e)
+
+Support of Applicable Capabilities and Expertise.—The Secretary of Defense shall ensure that the senior official designated under subsection (a) has the support of other Department of Defense officials with relevant capabilities and expertise needed to carry out the requirements of this section.
+
+(f)
+
+Annual Report.—Not later than March 1 each year, the official responsible for conducting and overseeing performance assessments and root cause analyses for major defense acquisition programs shall submit to the congressional defense committees a report on the activities undertaken under this section during the preceding year.
+
+(Added and amended Pub. L. 111–383, div. A, title IX, §901(d), (k)(1)(F), Jan. 7, 2011, 124 Stat. 4321, 4325.)
+
+#### Codification
+
+Section 103 of Pub. L. 111–23, formerly set out as a note under section 2430 of this title, which was transferred to this chapter, renumbered as this section, and amended by Pub. L. 111–383, §901(d), (k)(1)(F), was based on Pub. L. 111–23, title I, §103, May 22, 2009, 123 Stat. 1715.
+
+#### Prior Provisions
+
+A prior section 2438, added Pub. L. 102–484, div. A, title VIII, §821(a)(1)(B), Oct. 23, 1992, 106 Stat. 2459; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728, required competitive prototyping of major weapon systems and subsystems prior to development under major defense acquisition program, prior to repeal by Pub. L. 103–355, title III, §3006(a), Oct. 13, 1994, 108 Stat. 3331.
+
+Another prior section 2438 was renumbered section 2439 of this title.
+
+#### Amendments
+
+<b>2011</b>—Pub. L. 111–383, §901(k)(1)(F), substituted “Performance assessments and root cause analyses” for “
+
+performance assessments and root cause analyses for major defense acquisition programs” in section catchline.
+
+Pub. L. 111–383, §901(d), transferred section 103 of Pub. L. 111–23 to this chapter and renumbered it as this section. See Codification note above.
+
+Subsec. (b)(2). Pub. L. 111–383, §901(d)(1), substituted “section 2433a(a)(1) of this title” for “section 2433a(a)(1) of title 10, United States Code (as added by section 206(a) of this Act)”.
+
+Subsec. (b)(5)(A). Pub. L. 111–383, §901(d)(2), substituted “before” for “prior to” and “section 2433a of this title” for “section 2433a of title 10, United States Code (as so added)”.
+
+Subsec. (b)(5)(B). Pub. L. 111–383, §901(d)(2)(B), substituted “before” for “prior to”.
+
+Subsec. (d). Pub. L. 111–383, §901(d)(3), substituted “section 2433a of this title” for “section 2433a of title 10, United States Code (as so added)” in introductory provisions.
+
+Subsec. (f). Pub. L. 111–383, §901(d)(4), struck out “beginning in 2010,” after “each year,”.
+
+#### Effective Date
+
+Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as an Effective Date of 2011 Amendment note under section 131 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “the”.</i>
+

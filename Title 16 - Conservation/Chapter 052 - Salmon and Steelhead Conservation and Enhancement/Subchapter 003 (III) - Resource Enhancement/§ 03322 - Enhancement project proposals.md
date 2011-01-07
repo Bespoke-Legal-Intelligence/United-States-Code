@@ -1,6 +1,6 @@
 ### §3322. Enhancement project proposals
 
-After the approval of a comprehensive enhancement plan, the State of Washington, theState of Oregon, or a treaty tribe acting through the appropriate tribal coordinating body may submit project proposals to the Secretary in such manner and form as the Secretary shall prescribe. Such application shall include, but not be limited to—
+After the approval of a comprehensive enhancement plan, the State of Washington, the State of Oregon, or a treaty tribe acting through the appropriate tribal coordinating body may submit project proposals to the Secretary in such manner and form as the Secretary shall prescribe. Such application shall include, but not be limited to—
 
 &emsp;(1) plans, specifications, and cost estimates of the proposed enhancement project, including estimates of both the capital construction costs of the project and the operation and maintenance costs after commencement of the project;
 
@@ -12,7 +12,7 @@ After the approval of a comprehensive enhancement plan, the State of Washington,
 
 &emsp;&emsp;(C) a projection of the expected impacts on each type of commercial, recreational and treaty Indian fishing;
 
-&emsp;(3) evidence that the State of Washington, the State of Oregon, or the treaty tribe, acting through its chosen agency or agencies, has obtained or is likely to obtain any necessary titles to, interests in rights-of-way over, or licenses covering the use of the relevant land;
+&emsp;(3) evidence that the State of Washington, the State of Oregon, or the treaty tribe, acting through its chosen agency or agencies, has obtained or is likely to obtain any necessary titles to, interests in, rights-of-way over, or licenses covering the use of the relevant land;
 
 &emsp;(4) an analysis of, and supporting data for, the economic and biological integrity and viability of the project;
 

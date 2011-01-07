@@ -6,5 +6,5 @@ Effective on the date of publication of the final rolls as provided in section 6
 
 #### Amendments
 
-1956—Act Aug. 2, 1956, provided for control and determination of new membership in the tribe in accordance with the constitution and bylaws of the tribe and ordinances enacted thereunder.
+<b>1956</b>—Act Aug. 2, 1956, provided for control and determination of new membership in the tribe in accordance with the constitution and bylaws of the tribe and ordinances enacted thereunder.
 

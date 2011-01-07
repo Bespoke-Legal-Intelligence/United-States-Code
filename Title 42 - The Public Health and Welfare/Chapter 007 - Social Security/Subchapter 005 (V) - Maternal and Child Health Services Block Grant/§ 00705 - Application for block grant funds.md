@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(iv) provide, directly and through their providers and institutional contractors, for services to identify pregnant women and infants who are eligible for medical assistance under subparagraph (A) or (B) of section 1396a(<i>l</i>)(1) of this title and, once identified, to assist them in applying for such assistance.
 
-> The application shall be developed by, or in consultation with, the State maternal and child health agency and shall be made public within the State in such manner as to facilitate comment from any person (including any Federal orother public agency) during its development and after its transmittal.
+> The application shall be developed by, or in consultation with, the State maternal and child health agency and shall be made public within the State in such manner as to facilitate comment from any person (including any Federal or other public agency) during its development and after its transmittal.
 
 (b) The Secretary may waive the requirements under subsection (a)(3) of this section that a State's application for a fiscal year provide for the use of funds for specific activities if for that fiscal year—
 
@@ -82,9 +82,9 @@ Provisions similar to those comprising former section 705 were contained in sect
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–508 substituted “requirements” for “requirement” in introductory provisions.
+<b>1990</b>—Subsec. (b). Pub. L. 101–508 substituted “requirements” for “requirement” in introductory provisions.
 
-1989—Pub. L. 101–239, §6503(b)(1), substituted “Application for block grant funds” for “Description of intended expenditures and statement of assurances” in section catchline.
+<b>1989</b>—Pub. L. 101–239, §6503(b)(1), substituted “Application for block grant funds” for “Description of intended expenditures and statement of assurances” in section catchline.
 
 Subsec. (a). Pub. L. 101–239, §6503(b)(2), (3), inserted “(a)” before “In order to be entitled” and “an application (in a standardized form specified by the Secretary) that” after “must prepare and transmit to the Secretary”.
 
@@ -118,7 +118,7 @@ Subsec. (a)(5)(F)(iv). Pub. L. 101–239, §6503(b)(5)(F)(v)–(vii), added cl. 
 
 Subsec. (b). Pub. L. 101–239, §6503(b)(7), added subsec. (b).
 
-1982—Par. (2)(B). Pub. L. 97–248, §137(b)(3), substituted “section 701(b)(1)” for “section 702(b)(1)”.
+<b>1982</b>—Par. (2)(B). Pub. L. 97–248, §137(b)(3), substituted “section 701(b)(1)” for “section 702(b)(1)”.
 
 Subsec. (2)(D). Pub. L. 97–248, §137(b)(4), substituted “any charges are imposed” for “the State imposes any charges”.
 

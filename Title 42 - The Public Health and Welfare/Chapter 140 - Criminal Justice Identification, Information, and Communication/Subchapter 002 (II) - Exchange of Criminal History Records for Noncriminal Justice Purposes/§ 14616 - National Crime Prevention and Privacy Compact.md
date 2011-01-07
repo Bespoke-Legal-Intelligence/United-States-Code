@@ -38,7 +38,7 @@ In this Compact:
 
 &emsp;&emsp;(A) means information collected by criminal justice agencies on individuals consisting of identifiable descriptions and notations of arrests, detentions, indictments, or other formal criminal charges, and any disposition arising therefrom, including acquittal, sentencing, correctional supervision, or release; and
 
-&emsp;&emsp;(B) does not include identification information such as fingerprint records if such information does not indicate involvement of the individual with the criminal justice system.
+&emsp;&emsp;(B) does not include identification information such as fingerprint records if such information does not indicate involvementof the individual with the criminal justice system.
 
 #### (5) Criminal history record repository
 
@@ -118,7 +118,7 @@ In this Compact:
 
 #### (20) Positive identification
 
-&emsp;The term “positive identification” means a determination, based upon a comparison of fingerprints or other equally reliable biometric identification techniques, that the subject of a record search is the same person as the subject of a criminal history record or recordsindexed in the III System. Identifications based solely upon a comparison of subjects’ names or other nonunique identification characteristics or numbers, or combinations thereof, shall not constitute positive identification.
+&emsp;The term “positive identification” means a determination, based upon a comparison of fingerprints or other equally reliable biometric identification techniques, that the subject of a record search is the same person as the subject of a criminal history record or records indexed in the III System. Identifications based solely upon a comparison of subjects’ names or other nonunique identification characteristics or numbers, or combinations thereof, shall not constitute positive identification.
 
 #### (21) Sealed record information
 
@@ -130,7 +130,7 @@ In this Compact:
 
 &emsp;&emsp;&emsp;(ii) not supported by fingerprints or other accepted means of positive identification; or
 
-&emsp;&emsp;&emsp;(iii) subject to restrictions on dissemination for noncriminal justice purposes pursuant to a court order related to a particular subject or pursuant to a Federal or State statute that requires action on a sealing petition filed by a particular record subject; and
+&emsp;&emsp;&emsp;(iii) subject to restrictions on dissemination for noncriminal justice purposes pursuant to a court order related to a particular subject or pursuant to a Federal or State statute that requires action on asealing petition filed by a particular record subject; and
 
 &emsp;&emsp;(B) with respect to juveniles, whatever each State determines is a sealed record under its own law and procedure.
 
@@ -266,7 +266,7 @@ A State criminal history record repository or the FBI—
 
 #### (1) In general
 
-&emsp;There is established a council to be known as the “Compact Council”, which shall havethe authority to promulgate rules and procedures governing the use of the III System for noncriminal justice purposes, not to conflict with FBI administration of the III System for criminal justice purposes.
+&emsp;There is established a council to be known as the “Compact Council”, which shall have the authority to promulgate rules and procedures governing the use of the III System for noncriminal justice purposes, not to conflict with FBI administration of the III System for criminal justice purposes.
 
 #### (2) Organization
 

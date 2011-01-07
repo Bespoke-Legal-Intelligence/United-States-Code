@@ -28,5 +28,5 @@ The words “but not in the name of Congress” are omitted as surplusage, since
 
 #### Amendments
 
-1963—Pub. L. 88–77 enlarged authority to award the distinguished-service cross, which was limited to those cases in which persons distinguished themselves in connection with military operations against an armed enemy, to permit its award for extraordinary heroism not justifying award of a medal of honor, while engaged in an action against an enemy of United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which United States is not a belligerent party.
+<b>1963</b>—Pub. L. 88–77 enlarged authority to award the distinguished-service cross, which was limited to those cases in which persons distinguished themselves in connection with military operations against an armed enemy, to permit its award for extraordinary heroism not justifying award of a medal of honor, while engaged in an action against an enemy of United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which United States is not a belligerent party.
 

@@ -20,7 +20,7 @@ Section was not enacted as part of act Apr. 19, 1950, ch. 92, 64 Stat. 44, which
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–315, §946(c)(1)(B), which directed substitution of “Navajo Nation” for “Navajo Tribe” in second sentence, was executed by making the substitution for “Navajo tribe”, to reflect the probable intent of Congress.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §946(c)(1)(B), which directed substitution of “Navajo Nation” for “Navajo Tribe” in second sentence, was executed by making the substitution for “Navajo tribe”, to reflect the probable intent of Congress.
 
 Pub. L. 110–315, §946(c)(1)(A), in first sentence, substituted “Dine College” for “the Navajo Community College” and “October 31, 2010” for “August 1, 1979”.
 
@@ -28,9 +28,9 @@ Subsec. (b). Pub. L. 110–315, §946(c)(2), substituted “October 1, 2007” f
 
 Subsec. (c). Pub. L. 110–315, §946(c)(3), substituted “Dine�AE1 College” for “the Navajo Community College” in first sentence.
 
-1990—Subsec. (c). Pub. L. 101–477 added subsec. (c).
+<b>1990</b>—Subsec. (c). Pub. L. 101–477 added subsec. (c).
 
-1978—Pub. L. 95–471 substituted provisions relating to a detailed survey, study, and report and funding for this section for provisions authorizing appropriations for grants under sections 640a to 640c of this title.
+<b>1978</b>—Pub. L. 95–471 substituted provisions relating to a detailed survey, study, and report and funding for this section for provisions authorizing appropriations for grants under sections 640a to 640c of this title.
 
 #### Definitions
 

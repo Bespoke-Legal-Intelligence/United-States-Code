@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law and except as provided in paragraph (2), an alien who is a qualified alien (as defined in section 1641 of this title) is not eligible for any specified Federal program (as defined in paragraph (3)).
+&emsp;Notwithstanding any other provision of law and except as provided in paragraph (2), analien who is a qualified alien (as defined in section 1641 of this title) is not eligible for any specified Federal program (as defined in paragraph (3)).
 
 #### (2) Exceptions
 
@@ -74,7 +74,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (III) Grandfather provision
 
-&emsp;&emsp;&emsp;&emsp;The provisions of this subsection and the recertification under subclause (I) shall only apply with respect to the eligibility of an alien for a program for months beginning on or after the date of recertification, if on August 22, 1996, the alien is lawfully residing in any State and is receiving benefits under such program on August 22, 1996.
+&emsp;&emsp;&emsp;&emsp;The provisions of this subsection and the recertification under subclause (I)shall only apply with respect to the eligibility of an alien for a program for months beginning on or after the date of recertification, if on August 22, 1996, the alien is lawfully residing in any State and is receiving benefits under such program on August 22, 1996.
 
 #### (E) Aliens receiving SSI on August 22, 1996
 
@@ -182,7 +182,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (ii) Special rule in case of pending or approved naturalization application
 
-&emsp;&emsp;&emsp;With respect to eligibility for benefits for the specified program described inparagraph (3)(A), paragraph (1) shall not apply during fiscal years 2009 through 2011 to an alien described in one of clauses (i) through (v) of subparagraph (A) or a victim of trafficking in persons (as defined in section 7105(b)(1)(C) of title 22 or as granted status under section 101(a)(15)(T)(ii) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(T)(ii)\]), if such alien or victim (including any such alien or victim rendered ineligible for the specified Federal program described in paragraph (3)(A) during the period beginning on August 22, 1996, and ending on September 30, 2008, solely by reason of the termination of the 7-year period described in subparagraph (A)) has filed an application for naturalization that is pending before the Secretary of Homeland Security or a United States district court based on section 336(b) of the Immigration and Nationality Act \[8 U.S.C. 1447(b)\], or has been approved for naturalization but not yet sworn in as a United States citizen, and the Commissioner of Social Security has verified, through procedures established in consultation with the Secretary of Homeland Security, that such application is pending or has been approved.
+&emsp;&emsp;&emsp;With respect to eligibility for benefits for the specified program described in paragraph (3)(A), paragraph (1) shall not apply during fiscal years 2009 through 2011 to an alien described in one of clauses (i) through (v) of subparagraph (A) or a victim of trafficking in persons (as defined in section 7105(b)(1)(C) of title 22 or as granted status under section 101(a)(15)(T)(ii) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(T)(ii)\]), if such alien or victim (including any such alien or victim rendered ineligible for the specified Federal program described in paragraph (3)(A) during the period beginning on August 22, 1996, and ending on September 30, 2008, solely by reason of the termination of the 7-year period described in subparagraph (A)) has filed an application for naturalization that is pending before the Secretary of Homeland Security or a United States district court based on section 336(b) of the Immigration and Nationality Act \[8 U.S.C. 1447(b)\], or has been approved for naturalization but not yet sworn in as a United States citizen, and the Commissioner of Social Security has verified, through procedures established in consultation with the Secretary of Homeland Security, that such application is pending or has been approved.
 
 #### (3) “Specified Federal program” defined
 
@@ -242,7 +242,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;&emsp;(i) is lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\]; and
 
-&emsp;&emsp;&emsp;(ii)(I) has worked 40 qualifying quarters of coverage as defined under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] or can be credited with such qualifying quarters as provided under section 1645 of this title, and (II) in the case of any suchqualifying quarter creditable for any period beginning after December 31, 1996, did not receive any Federal means-tested public benefit (as provided under section 1613 of this title) during any such period.
+&emsp;&emsp;&emsp;(ii)(I) has worked 40 qualifying quarters of coverage as defined under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] or can be credited with such qualifying quarters as provided under section 1645 of this title, and (II) in the case of any such qualifying quarter creditable for any period beginning after December 31, 1996, did not receive any Federal means-tested public benefit (as provided under section 1613 of this title) during any such period.
 
 #### (C) Veteran and active duty exception
 
@@ -286,6 +286,8 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### References in Text
 
+This chapter, referred to in subsecs. (a)(3) and (b)(3), was in the original “this title” meaning title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, which enacted this chapter, section 1183a of this title, and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended section 1383 of this title, sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under section 1183a of this title and section 32 of Title 26. For complete classification of title IV to the Code, see Tables.
+
 Section 243 of such Act and section 243 of the Immigration and Nationality Act, referred to in subsecs. (a)(2)(A)(iii), (M)(i)(III)(dd) and (b)(2)(A)(i)(III), (ii)(III), are section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsecs. (a)(2)(A)(iv), (M)(i)(III)(cc) and (b)(2)(A)(i)(IV), (ii)(IV), is section 501(e) of Pub. L. 96–422, which is set out in a note under section 1522 of this title.
@@ -302,7 +304,7 @@ The Social Security Act, referred to in subsecs. (a)(2)(B)(ii)(I), (M)(i)(II), (
 
 The Food Stamp Act of 1977, referred to in subsec. (a)(2)(D)(ii)(I), (F)(ii), (3)(B), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
-This chapter, referred to in subsecs. (a)(3) and (b)(3), was in the original “this title” meaning title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, which enactedthis chapter, section 1183a of this title, and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended section 1383 of this title, sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under section 1183a of this title and section 32 of Title 26. For complete classification of title IV to the Code, see Tables.
+This chapter, referred to in subsecs. (a)(3) and (b)(3), was in the original “this title” meaning title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, which enacted this chapter, section 1183a of this title, and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended section 1383 of this title, sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under section 1183a of this title and section 32 of Title 26. For complete classification of title IV to the Code, see Tables.
 
 Section 212(b) of Public Law 93–66, referred to in subsec. (a)(3)(A), is set out as a note under section 1382 of Title 42, The Public Health and Welfare.
 
@@ -310,7 +312,7 @@ Subsection (a)(2)(A)(i)(V) of this section, referred to in subsec. (b)(2)(A)(i)(
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

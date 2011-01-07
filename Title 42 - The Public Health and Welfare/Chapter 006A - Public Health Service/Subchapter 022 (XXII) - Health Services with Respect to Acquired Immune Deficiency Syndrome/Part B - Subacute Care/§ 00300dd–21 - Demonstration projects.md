@@ -48,7 +48,7 @@ The demonstration projects shall be conducted—
 
 #### (e) Evaluation and report
 
-The Secretary shall evaluate the operations of the demonstration projects and shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate—
+The Secretary shall evaluate the operations of the demonstration projects and shall submit tothe Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate—
 
 &emsp;(1) not later than 18 months after the beginning of the first project, a preliminary report that contains—
 
@@ -80,13 +80,13 @@ Each demonstration project shall provide for other research to be carried out at
 
 The Secretary shall enter into an agreement with the Secretary of the Department of Veterans Affairs to ensure that appropriate provision will be made for the furnishing, through demonstration projects, of services to eligible veterans, under contract with the Department of Veterans Affairs pursuant to section 1720 of title 38.
 
-(July 1, 1944, ch. 373, title XXIV, §2421, as added Pub. L. 100–607, title II, §211, Nov. 4, 1988, 102Stat. 3088; amended Pub. L. 100–527, §10(1), (2), Oct. 25, 1988, 102 Stat. 2640, 2641; Pub. L. 100–690, title II, §2618(h), Nov. 18, 1988, 102 Stat. 4241; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406.)
+(July 1, 1944, ch. 373, title XXIV, §2421, as added Pub. L. 100–607, title II, §211, Nov. 4, 1988, 102 Stat. 3088; amended Pub. L. 100–527, §10(1), (2), Oct. 25, 1988, 102 Stat. 2640, 2641; Pub. L. 100–690, title II, §2618(h), Nov. 18, 1988, 102 Stat. 4241; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Amendments
 
-1991—Subsec. (h). Pub. L. 102–83 substituted “section 1720 of title 38” for “section 620 of title 38”.
+<b>1991</b>—Subsec. (h). Pub. L. 102–83 substituted “section 1720 of title 38” for “section 620 of title 38”.
 
-1988—Subsec. (a)(1). Pub. L. 100–690, §2618(h)(1), substituted “ ‘individuals infected with the etiologic agent for acquired immune deficiency syndrome’ means individuals who” for “ ‘patients infected with the human immunodeficiency virus’ means persons who” and “such individuals with such etiologic agent” for “such person with the human immunodeficiency virus”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–690, §2618(h)(1), substituted “ ‘individuals infected with the etiologic agent for acquired immune deficiency syndrome’ means individuals who” for “ ‘patients infected with the human immunodeficiency virus’ means persons who” and “such individuals with such etiologic agent” for “such person with the human immunodeficiency virus”.
 
 Subsec. (a)(2). Pub. L. 100–690, §2618(h)(2), substituted “individuals” for “persons”.
 

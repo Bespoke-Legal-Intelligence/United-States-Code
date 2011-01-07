@@ -61,17 +61,17 @@
 
 #### Amendments
 
-2002—Pub. L. 107–347, title III, §301(b)(2), Dec. 17, 2002, 116 Stat. 2955, added heading for subchapter III and items 3541 to 3549.
+<b>2002</b>—Pub. L. 107–347, title III, §301(b)(2), Dec. 17, 2002, 116 Stat. 2955, added heading for subchapter III and items 3541 to 3549.
 
 Pub. L. 107–296, title X, §1001(b)(2), Nov. 25, 2002, 116 Stat. 2267, reenacted items 3531 to 3535 without change, substituted “National security systems” for “Expiration” in item 3536, and added items 3537 and 3538.
 
 Pub. L. 107–198, §3(b), June 28, 2002, 116 Stat. 732, added item 3520 and renumbered former item 3520 as 3521.
 
-2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275, inserted subchapters I and II headings and added items 3531 to 3536.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275, inserted subchapters I and II headings and added items 3531 to 3536.
 
-1995—Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163, amended chapter heading and analysis generally.
+<b>1995</b>—Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163, amended chapter heading and analysis generally.
 
-1980—Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2812, substituted in chapter heading “INFORMATION POLICY” for “REPORTING SERVICES”, and amended analysis generally.
+<b>1980</b>—Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2812, substituted in chapter heading “INFORMATION POLICY” for “REPORTING SERVICES”, and amended analysis generally.
 
 
 ---

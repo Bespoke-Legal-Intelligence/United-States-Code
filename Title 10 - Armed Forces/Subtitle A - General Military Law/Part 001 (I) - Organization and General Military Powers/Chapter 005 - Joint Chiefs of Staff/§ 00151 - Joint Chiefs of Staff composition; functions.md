@@ -44,7 +44,7 @@ Advice on Request.—The members of the Joint Chiefs of Staff, individually or c
 
 (f)
 
-Recommendations to Congress.—After first informing the Secretary of Defense, a member of the Joint Chiefs of Staff may make such recommendations to Congress relating to the Department of Defense as he considers appropriate.
+Recommendations to Congress.—After first informing the Secretary of Defense, a member of the Joint Chiefs of Staff may make such recommendations to Congress relating to theDepartment of Defense as he considers appropriate.
 
 (g)
 
@@ -64,7 +64,7 @@ Meetings of JCS.—(1) The Chairman shall convene regular meetings of the Joint 
 
 #### Amendments
 
-2006—Subsecs. (b), (c)(2), (d), (e). Pub. L. 109–163 inserted “the Homeland Security Council,” after “the National Security Council,” wherever appearing.
+<b>2006</b>—Subsecs. (b), (c)(2), (d), (e). Pub. L. 109–163 inserted “the Homeland Security Council,” after “the National Security Council,” wherever appearing.
 
-1992—Subsec. (a)(2) to (6). Pub. L. 102–484 added par. (2) and redesignated former pars. (2) to (5) as (3) to (6), respectively.
+<b>1992</b>—Subsec. (a)(2) to (6). Pub. L. 102–484 added par. (2) and redesignated former pars. (2) to (5) as (3) to (6), respectively.
 

@@ -130,23 +130,23 @@ The effective date of this subsection, referred to in subsec. (c)(1), probably m
 
 #### Amendments
 
-2006—Subsec. (e)(1). Pub. L. 109–163 amended directory language of Pub. L. 107–314, §635(a). See 2002 Amendment note below.
+<b>2006</b>—Subsec. (e)(1). Pub. L. 109–163 amended directory language of Pub. L. 107–314, §635(a). See 2002 Amendment note below.
 
-2002—Subsec. (e)(1). Pub. L. 107–314, §635(b)(1), substituted “The Secretary of Defense” for “Upon the request of the Secretary concerned (as defined in section 101 of title 37, United States Code), the Secretary of Defense”, struck out “and, subject to paragraph (2), settle the claim” before period at end of first sentence, and inserted at end “In the case of a claim by or with respect to a member of the uniformed services who is not under the jurisdiction of the Secretary of a military department, such a waiver may be made only upon the request of the Secretary concerned (as defined in section 101 of title 37).”
+<b>2002</b>—Subsec. (e)(1). Pub. L. 107–314, §635(b)(1), substituted “The Secretary of Defense” for “Upon the request of the Secretary concerned (as defined in section 101 of title 37, United States Code), the Secretary of Defense”, struck out “and, subject to paragraph (2), settle the claim” before period at end of first sentence, and inserted at end “In the case of a claim by or with respect to a member of the uniformed services who is not under the jurisdiction of the Secretary of a military department, such a waiver may be made only upon the request of the Secretary concerned (as defined in section 101 of title 37).”
 
 Pub. L. 107–314, §635(a), as amended by Pub. L. 109–163, substituted “a claim referred to in subsection (a)(1)(A)” for “a claim for pay, allowances, or payment for unused accrued leave under title 37 or a claim for retired pay under title 10”.
 
 Subsec. (e)(2). Pub. L. 107–314, §635(b)(2), substituted “under subsection (a)(1)(A)” for “under paragraph (1)” and inserted before period at end “, except that in the case of a claim for retired pay or survivor benefits, if the obligation claimed would have been paid from a trust fund if timely paid, the payment of the claim shall be made from that trust fund”.
 
-2000—Subsec. (a)(1)(A). Pub. L. 106–398, §1 \[\[div. A\], title VI, §664(a)\], inserted “payments for unused accrued leave,” after “transportation,”.
+<b>2000</b>—Subsec. (a)(1)(A). Pub. L. 106–398, §1 \[\[div. A\], title VI, §664(a)\], inserted “payments for unused accrued leave,” after “transportation,”.
 
 Subsec. (e)(1). Pub. L. 106–398, §1 \[\[div. A\], title VI, §664(b)\], substituted “claim for pay, allowances, or payment for unused accrued leave under title 37 or a claim for retired pay under title 10” for “claim for pay or allowances provided under title 37”.
 
-1997—Subsec. (e)(1). Pub. L. 105–85, §1012(1), substituted “Secretary of Defense” for “Comptroller General”.
+<b>1997</b>—Subsec. (e)(1). Pub. L. 105–85, §1012(1), substituted “Secretary of Defense” for “Comptroller General”.
 
 Subsec. (e)(2). Pub. L. 105–85, §1012(2), added par. (2) and struck out former par. (2) which read as follows: “Payment of a claim settled under paragraph (1) shall be subject to the availability of appropriations for payment of that particular claim.”
 
-1996—Pub. L. 104–316, §202(n)(1)(A), struck out “of the Comptroller General” after “Authority” in section catchline.
+<b>1996</b>—Pub. L. 104–316, §202(n)(1)(A), struck out “of the Comptroller General” after “Authority” in section catchline.
 
 Subsec. (a). Pub. L. 104–316, §202(n)(1)(B), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Except as provided in this chapter or another law, the Comptroller General shall settle all claims of or against the United States Government. A claim that was not administratively examined before submission to the Comptroller General shall be examined by 2 officers or employees of the General Accounting Office independently of each other.”
 
@@ -160,9 +160,13 @@ Subsec. (d). Pub. L. 104–316, §202(n)(1)(F), substituted “official responsi
 
 Subsec. (e). Pub. L. 104–201 added subsec. (e).
 
-1987—Subsec. (c). Pub. L. 100–86 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A claim on a check or warrant that the records of the Comptroller General or the Secretary of the Treasury show as being paid must be presented to the Comptroller General or the Secretary within 6 years after the check or warrant was issued.”
+<b>1987</b>—Subsec. (c). Pub. L. 100–86 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A claim on a check or warrant that the records of the Comptroller General or the Secretary of the Treasury show as being paid must be presented to the Comptroller General or the Secretary within 6 years after the check or warrant was issued.”
 
-1983—Subsec. (b)(2). Pub. L. 97–452 inserted “this” before “subsection”.
+<b>1983</b>—Subsec. (b)(2). Pub. L. 97–452 inserted “this” before “subsection”.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–163, div. A, title X, §1056(e)(2), Jan. 6, 2006, 119 Stat. 3440, as amended by Pub. L. 111–383, div. A, title X, §1075(h)(3), Jan. 7, 2011, 124 Stat. 4377, provided that the amendment by section 1056(e)(2) is effective as of Dec. 2, 2002, and as if included in Pub. L. 107–314 as enacted.
 
 #### Effective Date of 2002 Amendment
 

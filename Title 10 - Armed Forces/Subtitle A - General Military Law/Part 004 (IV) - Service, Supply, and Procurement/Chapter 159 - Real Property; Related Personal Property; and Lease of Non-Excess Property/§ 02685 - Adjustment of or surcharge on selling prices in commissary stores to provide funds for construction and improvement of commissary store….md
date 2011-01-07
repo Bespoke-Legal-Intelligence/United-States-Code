@@ -16,13 +16,13 @@ Use for Construction, Repair, Improvement, and Maintenance.—(1) The Secretary 
 
 (c)
 
-Advance Obligation.—The Secretary of Defense, with the approval of the Director of the Office of Management and Budget, may obligate anticipated proceeds from the adjustments or surcharges authorized by subsection (a) for any use specified in subsection (b) or (d), without regard to fiscal year limitations, if the Secretary determines that such obligation is necessary to carry out any use of such adjustments or surcharges specified in subsection (b) or (d).
+Advance Obligation.—The Secretary of Defense, with the approval of the Director of the Office of Management and Budget, may obligate anticipated proceeds from the adjustments or surcharges authorized by subsection (a) for any use specified in subsection (b) or (d), without regard to fiscal year limitations, if the Secretary determines that such obligation is necessary tocarry out any use of such adjustments or surcharges specified in subsection (b) or (d).
 
 (d)
 
 Cooperation With Nonappropriated Fund Instrumentalities.—(1) The Secretary of Defense may authorize a nonappropriated fund instrumentality of the United States to enter into a contract for construction of a shopping mall or similar facility for a commissary store and one or more nonappropriated fund instrumentality activities. The Secretary may use the proceeds of adjustments or surcharges authorized by subsection (a) to reimburse the nonappropriated fund instrumentality for the portion of the cost of the contract that is attributable to construction of the commissary store or to pay the contractor directly for that portion of such cost.
 
-(2) In paragraph (1), the term “construction”, with respect to a facility, includes acquisition,conversion, expansion, installation, or other improvement of the facility.
+(2) In paragraph (1), the term “construction”, with respect to a facility, includes acquisition, conversion, expansion, installation, or other improvement of the facility.
 
 (e)
 
@@ -42,7 +42,7 @@ Other Sources of Funds for Construction and Improvements.—Revenues received by
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title III, §333(b)(1)\], substituted “Secretary of Defense” for “Secretary of a military department, under regulations established by him and approved by the Secretary of Defense,”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title III, §333(b)(1)\], substituted “Secretary of Defense” for “Secretary of a military department, under regulations established by him and approved by the Secretary of Defense,”.
 
 Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title III, §333(a)\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary of a military department, under regulations established by him and approved by the Secretary of Defense, may use the proceeds from the adjustments or surcharges authorized by subsection (a) to acquire, construct, convert, expand, install, or otherwise improve commissary store facilities at defense installations and for related environmental evaluation and construction costs, including surveys, administration, overhead, planning, and design.”
 
@@ -50,17 +50,17 @@ Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title III, §333(b)(2)\], subs
 
 Subsec. (d)(1). Pub. L. 106–398, §1 \[\[div. A\], title III, §333(b)(3)\], substituted “Secretary of Defense” for “Secretary of a military department”.
 
-1997—Subsecs. (a) to (d). Pub. L. 105–85, §374(b), inserted subsec. headings.
+<b>1997</b>—Subsecs. (a) to (d). Pub. L. 105–85, §374(b), inserted subsec. headings.
 
 Subsec. (e). Pub. L. 105–85, §374(a), added subsec. (e).
 
-1994—Subsec. (c). Pub. L. 103–337, §2851(b), inserted “or (d)” after “subsection (b)” in two places.
+<b>1994</b>—Subsec. (c). Pub. L. 103–337, §2851(b), inserted “or (d)” after “subsection (b)” in two places.
 
 Subsec. (d). Pub. L. 103–337, §2851(a), added subsec. (d).
 
-1982—Subsec. (c). Pub. L. 97–321 added subsec. (c).
+<b>1982</b>—Subsec. (c). Pub. L. 97–321 added subsec. (c).
 
-1977—Subsec. (b). Pub. L. 95–82 struck out “within the United States” after “defense installations”.
+<b>1977</b>—Subsec. (b). Pub. L. 95–82 struck out “within the United States” after “defense installations”.
 
 #### Effective Date of 2000 Amendment
 

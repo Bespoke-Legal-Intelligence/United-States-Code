@@ -16,7 +16,7 @@ If the manufacturer or producer referred to in subsection (a) incurs liability f
 
 &emsp;&emsp;(B) at the price for which the article was sold by the person who (without regard to subsection (a)) is the manufacturer, producer, or importer of such article.
 
-> For purposes of this subsection, the price for which the article was sold shall be determinedas provided in section 4216. For purposes of paragraph (2) no adjustment or readjustment shall be made in such price by reason of any discount, rebate, allowance, return or repossession of a container or covering, or otherwise. An election under paragraph (2) shall be made in the return reporting the tax applicable to the sale or use of the article, and may not be revoked.
+> For purposes of this subsection, the price for which the article was sold shall be determined as provided in section 4216. For purposes of paragraph (2) no adjustment or readjustment shall be made in such price by reason of any discount, rebate, allowance, return or repossession of a container or covering, or otherwise. An election under paragraph (2) shall be made in the return reporting the tax applicable to the sale or use of the article, and may not be revoked.
 
 (Added Pub. L. 85–859, title I, §119(a), Sept. 2, 1958, 72 Stat. 1285; amended Pub. L. 86–418, §2(b), Apr. 8, 1960, 74 Stat. 38; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title VII, §735(c)(10), July 18, 1984, 98 Stat. 983.)
 
@@ -26,11 +26,11 @@ A prior section 4223, act Aug. 16, 1954, ch. 736, 68A Stat. 495, related to exem
 
 #### Amendments
 
-1984—Subsec. (b)(1). Pub. L. 98–369 substituted “4218(c)” for “section 4218(e)”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369 substituted “4218(c)” for “section 4218(e)”.
 
-1976—Subsec. (b) Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b) Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1960—Subsec. (b)(1). Pub. L. 86–418 substituted “section 4218(e)” for “section 4218(d)”.
+<b>1960</b>—Subsec. (b)(1). Pub. L. 86–418 substituted “section 4218(e)” for “section 4218(d)”.
 
 #### Effective Date of 1984 Amendment
 

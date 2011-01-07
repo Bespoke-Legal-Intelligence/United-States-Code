@@ -42,25 +42,25 @@ Section 101(a)(22) of the Immigration and Nationality Act, referred to in subsec
 
 #### Amendments
 
-2006—Subsec. (a)(5) to (7). Pub. L. 109–177, §123(1), (2), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
+<b>2006</b>—Subsec. (a)(5) to (7). Pub. L. 109–177, §123(1), (2), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
 
 Subsec. (a)(8). Pub. L. 109–177, §123(1), (3), redesignated par. (7) as (8) and substituted “paragraphs (1) through (7)” for “paragraphs (1) through (6)”.
 
 Subsec. (c). Pub. L. 109–177, §123(4), substituted “paragraphs (1) through (6)” for “paragraphs (1) through (5)”.
 
-1996—Subsec. (a)(7). Pub. L. 104–132, §723(a)(1), inserted “or conspires” after “attempts”.
+<b>1996</b>—Subsec. (a)(7). Pub. L. 104–132, §723(a)(1), inserted “or conspires” after “attempts”.
 
 Subsec. (b). Pub. L. 104–132, §721(b), in closing provisions, struck out “, if the offender is later found in the United States,” before “be fined under this title” and inserted at end “There is jurisdiction over an offense under this subsection if a national of the United States was on board, or would have been on board, the aircraft; an offender is a national of the United States; or an offender is afterwards found in the United States. For purposes of this subsection, the term ‘national of the United States’ has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act.”
 
 Subsec. (b)(4). Pub. L. 104–132, §723(a)(1), inserted “or conspires” after “attempts”.
 
-1994—Subsecs. (a), (b). Pub. L. 103–322, §330016(1)(S), substituted “fined under this title” for “fined not more than $100,000” in concluding provisions.
+<b>1994</b>—Subsecs. (a), (b). Pub. L. 103–322, §330016(1)(S), substituted “fined under this title” for “fined not more than $100,000” in concluding provisions.
 
 Subsec. (c). Pub. L. 103–322, §330016(1)(O), substituted “fined under this title” for “fined not more than $25,000”.
 
-1988—Subsec. (a)(3). Pub. L. 100–690 substituted “interfering” for “intefering”.
+<b>1988</b>—Subsec. (a)(3). Pub. L. 100–690 substituted “interfering” for “intefering”.
 
-1984—Pub. L. 98–473 amended section generally. Prior to amendment section read as follows:
+<b>1984</b>—Pub. L. 98–473 amended section generally. Prior to amendment section read as follows:
 
 “Whoever willfully sets fire to, damages, destroys, disables, or wrecks any civil aircraft used, operated, or employed in interstate, overseas, or foreign air commerce; or
 

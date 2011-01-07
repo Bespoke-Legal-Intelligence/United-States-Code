@@ -12,9 +12,9 @@ Prior section 5104 was renumbered section 8304 of this title.
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–446 substituted “section 511” for “section 211(a)”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–446 substituted “section 511” for “section 211(a)”.
 
-1991—Pub. L. 102–40 renumbered section 3004 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 3004 of this title as this section.
 
 Pub. L. 102–54 amended section as in effect immediately before enactment of Pub. L. 102–40 by striking out “(1)” after “(a)” and substituting “(b)” for “(2)”, “subsection (a)” for “paragraph (1) of this subsection”, “(1)” for “(A)”, and “(2)” for “(B)”.
 

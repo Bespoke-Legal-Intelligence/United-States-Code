@@ -50,11 +50,11 @@ For purposes of subsection (a)—
 
 #### Amendments
 
-1983—Subsec. (c)(3). Pub. L. 97–448 substituted “A written transfer” for “For purposes of subsection (a), a written transfer”.
+<b>1983</b>—Subsec. (c)(3). Pub. L. 97–448 substituted “A written transfer” for “For purposes of subsection (a), a written transfer”.
 
-1981—Subsec. (c)(3). Pub. L. 97–34 added par. (3).
+<b>1981</b>—Subsec. (c)(3). Pub. L. 97–34 added par. (3).
 
-1978—Subsec. (b)(4). Pub. L. 95–600 inserted provision relating to spouse of decedent.
+<b>1978</b>—Subsec. (b)(4). Pub. L. 95–600 inserted provision relating to spouse of decedent.
 
 #### Effective Date of 1983 Amendment
 

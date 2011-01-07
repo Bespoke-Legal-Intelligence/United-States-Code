@@ -12,13 +12,13 @@ Another prior section 1507, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1173; Pub.
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 507 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 507 of this title as this section.
 
 Pub. L. 102–83, §5(c)(1), substituted “1506(a)” for “506(a)”.
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-1975—Pub. L. 94–169 struck out “in his discretion” after “Administrator” and substituted “payable to such veteran's spouse” for “payable to his wife,” and “made to a spouse” for “made to a wife”.
+<b>1975</b>—Pub. L. 94–169 struck out “in his discretion” after “Administrator” and substituted “payable to such veteran's spouse” for “payable to his wife,” and “made to a spouse” for “made to a wife”.
 
 #### Effective Date of 1975 Amendment
 

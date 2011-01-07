@@ -42,7 +42,7 @@ Planning grants may be used for activities to develop homeownership programs (wh
 
 &emsp;&emsp;(C) identification and description of the eligible property involved, and a description of the composition of the tenants, including family size and income;
 
-&emsp;&emsp;(D) a certification by the public official responsible for submitting the comprehensive housing affordability strategy under section 12705 of this title that the proposed activities are consistent with the approved housing strategy of the State or unit of general local government within which the project islocated (or, during the first 12 months after November 28, 1990, that the application is consistent with such other existing State or local housing plan or strategy that the Secretary shall determine to be appropriate); and
+&emsp;&emsp;(D) a certification by the public official responsible for submitting the comprehensive housing affordability strategy under section 12705 of this title that the proposed activities are consistent with the approved housing strategy of the State or unit of general local government within which the project is located (or, during the first 12 months after November 28, 1990, that the application is consistent with such other existing State or local housing plan or strategy that the Secretary shall determine to be appropriate); and
 
 &emsp;&emsp;(E) a certification that the applicant will comply with the requirements of the Fair Housing Act \[42 U.S.C. 3601 et seq.\], title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], and will affirmatively further fair housing.
 
@@ -72,5 +72,5 @@ The Age Discrimination Act of 1975, referred to in subsec. (c)(2)(E), is title I
 
 #### Amendments
 
-1992—Subsec. (b)(4) to (9). Pub. L. 102–550 added par. (4) and redesignated former pars. (4) to (8) as (5) to (9), respectively.
+<b>1992</b>—Subsec. (b)(4) to (9). Pub. L. 102–550 added par. (4) and redesignated former pars. (4) to (8) as (5) to (9), respectively.
 

@@ -44,7 +44,7 @@ Dec. 18, 1991, Pub. L. 102–240, §5002(b), 105 Stat. 2158.
 
 #### Amendments
 
-2005—Subsec. (b)(6). Pub. L. 109–59 added par. (6).
+<b>2005</b>—Subsec. (b)(6). Pub. L. 109–59 added par. (6).
 
 #### Termination of Advisory Boards
 

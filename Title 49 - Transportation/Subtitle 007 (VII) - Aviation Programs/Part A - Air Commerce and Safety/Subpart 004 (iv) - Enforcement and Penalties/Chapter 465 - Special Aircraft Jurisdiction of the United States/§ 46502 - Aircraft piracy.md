@@ -78,7 +78,7 @@ This amends 49:46502(a)(2)(B) and (b)(1)(B) to clarify the restatement of 49 App
 
 #### Amendments
 
-1996—Subsec. (a)(2). Pub. L. 104–132, §723(b)(1), inserted “or conspiring” after “attempting”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–132, §723(b)(1), inserted “or conspiring” after “attempting”.
 
 Subsec. (b)(1). Pub. L. 104–132, §§721(a)(1), 723(b)(2), in introductory provisions, inserted “or conspiring to commit” after “committing” and struck out “and later found in the United States” after “jurisdiction of the United States”.
 
@@ -86,7 +86,7 @@ Subsec. (b)(2). Pub. L. 104–132, §721(a)(2), amended par. (2) generally. Prio
 
 Subsec. (b)(3). Pub. L. 104–132, §721(a)(3), added par. (3).
 
-1994—Subsecs. (a)(2)(B), (b)(1)(B). Pub. L. 103–429 inserted “notwithstanding section 3559(b) of title 18,” before “if the death”.
+<b>1994</b>—Subsecs. (a)(2)(B), (b)(1)(B). Pub. L. 103–429 inserted “notwithstanding section 3559(b) of title 18,” before “if the death”.
 
 #### Effective Date of 1994 Amendment
 

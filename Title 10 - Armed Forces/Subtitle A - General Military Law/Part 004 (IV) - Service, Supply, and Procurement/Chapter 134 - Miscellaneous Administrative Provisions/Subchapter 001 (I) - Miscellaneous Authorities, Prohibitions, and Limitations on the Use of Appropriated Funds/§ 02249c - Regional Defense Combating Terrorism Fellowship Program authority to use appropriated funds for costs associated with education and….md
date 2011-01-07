@@ -6,7 +6,7 @@ Authority To Use Funds.—Under regulations prescribed by the Secretary of Defen
 
 (b)
 
-Limitation.—The total amount of funds used under the authority in subsection (a) in any fiscal year may not exceed $35,000,000. Amounts available under the authority in subsection (a) for a fiscal year may be used for programs that begin in such fiscal year but end in the next fiscal year.
+Limitation.—The total amount of funds used under the authority in subsection (a) inany fiscal year may not exceed $35,000,000. Amounts available under the authority in subsection (a) for a fiscal year may be used for programs that begin in such fiscal year but end in the next fiscal year.
 
 (c)
 
@@ -28,13 +28,13 @@ Annual Report.—Not later than December 1 of each year, the Secretary of Defens
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–417 substituted “$35,000,000” for “$25,000,000”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–417 substituted “$35,000,000” for “$25,000,000”.
 
-2006—Pub. L. 109–364, §1204(d)(2), substituted “Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials” for “Authority to use appropriated funds for costs of attendance of foreign visitors under Regional Defense Counterterrorism Fellowship Program” in section catchline.
+<b>2006</b>—Pub. L. 109–364, §1204(d)(2), substituted “Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials” for “Authority to use appropriated funds for costs of attendance of foreign visitors under Regional Defense Counterterrorism Fellowship Program” in section catchline.
 
 Subsec. (a). Pub. L. 109–364, §1204(a), substituted “the education and training of foreign military officers, ministry of defense officials, or security officials at military or civilian educational institutions, regional centers, conferences, seminars, or other training programs conducted under the Regional Defense Combating Terrorism Fellowship Program” for “the attendance of foreign military officers, ministry of defense officials, or security officials at United States military educational institutions, regional centers, conferences, seminars, or other training programs conducted under the Regional Defense Counterterrorism Fellowship Program, including costs of transportation and travel and subsistence costs” and inserted at end “Costs for which payment may be made under this section include the costs of transportation and travel and subsistence costs.”
 
-Subsec. (b). Pub. L. 109–364, §1204(b), (c), substituted “$25,000,000” for “$20,000,000” and inserted at end “Amounts available under the authority in subsection\(a) for a fiscal year may be used for programs that begin in such fiscal year but end in the next fiscal year.”
+Subsec. (b). Pub. L. 109–364, §1204(b), (c), substituted “$25,000,000” for “$20,000,000” and inserted at end “Amounts available under the authority in subsection (a) for a fiscal year may be used for programs that begin in such fiscal year but end in the next fiscal year.”
 
 Subsec. (c)(3). Pub. L. 109–364, §1204(d)(1), substituted “program referred to in subsection (a)” for “Regional Defense Counterterrorism Fellowship Program”.
 

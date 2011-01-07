@@ -12,7 +12,7 @@ Any officer or employee of the United States who is authorized (by the Secretary
 
 &emsp;(2) search without warrant any person, place, vehicle or aircraft subject to the jurisdiction of the United States where there are reasonable grounds to believe that a person has committed or is attempting to commit an act prohibited by section 2435 of this title;
 
-&emsp;(3) with or without a warrant board and search or inspect any vessel of the United States or vessel subject to the jurisdiction of the United States;
+&emsp;(3) with or without a warrant board and search or inspect any vessel of the UnitedStates or vessel subject to the jurisdiction of the United States;
 
 &emsp;(4) seize without warrant—
 
@@ -38,7 +38,7 @@ Any officer or employee of the United States who is authorized (by the Secretary
 
 #### (c) Seizure
 
-Subject to the succeeding provisions of this subsection, any property or item seized pursuant to subsection (b) of this section shall be held by any officer or employee of the United States, who is authorized by the Secretary of Commerce or the Secretary of the department in which the Coast Guard is operating, pending the disposition of civil or criminal proceedings concerning the violation relating to the property or item,or the institution of an action in rem for the forfeiture of such property or item. Such authorized officer or employee may, upon the order of a court of competent jurisdiction, either release such seized property or item to the wild or destroy such property or item, when the cost of maintenance of the property or item pending the disposition of the case is greater than the legitimate market value of the property or item. Such authorized officer or employee and all officers or employees acting by or under his or her direction shall be indemnified from any penalties or actions for damages for so releasing or destroying such property or item. Such authorized officer or employee may, in lieu of holding such property or item, permit the owner or consignee thereof to post a bond or other satisfactory surety.
+Subject to the succeeding provisions of this subsection, any property or item seized pursuant to subsection (b) of this section shall be held by any officer or employee of the United States, who is authorized by the Secretary of Commerce or the Secretary of the department in which the Coast Guard is operating, pending the disposition of civil or criminal proceedings concerning the violation relating to the property or item, or the institution of an action in rem for the forfeiture of such property or item. Such authorized officer or employee may, upon the order of a court of competent jurisdiction, either release such seized property or item to the wild or destroy such property or item, when the cost of maintenance of the property or item pending the disposition of the case is greater than the legitimate market value of the property or item. Such authorized officer or employee and all officers or employees acting by or under his or her direction shall be indemnified from any penalties or actions for damages for so releasing or destroying such property or item. Such authorized officer or employee may, in lieu of holding such property or item, permit the owner or consignee thereof to post a bond or other satisfactory surety.
 
 #### (d) Forfeiture
 
@@ -51,10 +51,6 @@ Subject to the succeeding provisions of this subsection, any property or item se
 All provisions of law relating to the seizure, forfeiture, and condemnation of property (including vessels) for violation of the customs laws, the disposition of such property or the proceeds from the sale thereof, and the remission or mitigation of such forfeiture, shall apply to the seizures and forfeitures incurred, or alleged to have been incurred, and the compromise of claims, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter; except that all powers, rights, and duties conferred or imposed by the customs laws upon any officer or employee of the Customs Service may, for the purposes of this chapter, also be exercised or performed by the Secretary of Commerce or the Secretary of the department in which the Coast Guard is operating, or by such officers or employees of the United States as each Secretary may designate.
 
 (Pub. L. 98–623, title III, §310, Nov. 8, 1984, 98 Stat. 3403.)
-
-#### References in Text
-
-The customs laws, referred to in subsec. (e), are classified generally to Title 19, Customs Duties.
 
 #### Transfer of Functions
 

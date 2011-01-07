@@ -52,7 +52,7 @@ A prior section 5143, acts Aug. 10, 1956, ch. 1041, 70A Stat. 288; Sept. 7, 1962
 
 #### Amendments
 
-2006—Pub. L. 109–163, §515(b)(3)(A), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
+<b>2006</b>—Pub. L. 109–163, §515(b)(3)(A), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
 
 Pub. L. 109–163, §515(b)(1)(F), substituted “Navy Reserve” for “Naval Reserve” wherever appearing in text.
 
@@ -62,11 +62,11 @@ Navy Reserve” for “
 
 Naval Reserve” in heading.
 
-2004—Subsec. (b)(4). Pub. L. 108–375 substituted “December 31, 2006” for “December 31, 2004”.
+<b>2004</b>—Subsec. (b)(4). Pub. L. 108–375 substituted “December 31, 2006” for “December 31, 2004”.
 
-2002—Subsec. (b)(4). Pub. L. 107–314 substituted “December 31, 2004” for “October 1, 2003” in introductory provisions.
+<b>2002</b>—Subsec. (b)(4). Pub. L. 107–314 substituted “December 31, 2004” for “October 1, 2003” in introductory provisions.
 
-2000—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title V, §507(b)\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The President, by and with the advice and consent of the Senate, shall appoint the Chief of Naval Reserve from officers who—
+<b>2000</b>—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title V, §507(b)\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The President, by and with the advice and consent of the Senate, shall appoint the Chief of Naval Reserve from officers who—
 
 &emsp;“(1) have had at least 10 years of commissioned service;
 
@@ -84,7 +84,7 @@ Grade.—(1) The Chief of Naval Reserve holds office for a term determined by th
 
 Subsec. (c)(2). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(18)\], substituted “has the grade of” for “has a grade”.
 
-1999—Subsec. (c)(2). Pub. L. 106–65 substituted “rear admiral” for “above rear admiral (lower half)” and inserted at end “However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of vice admiral.”
+<b>1999</b>—Subsec. (c)(2). Pub. L. 106–65 substituted “rear admiral” for “above rear admiral (lower half)” and inserted at end “However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of vice admiral.”
 
 #### Effective Date of 1999 Amendment; Applicability to Incumbents
 

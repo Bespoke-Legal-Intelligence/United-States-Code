@@ -12,7 +12,7 @@ Any person whose property has been levied upon shall have the right to pay the a
 
 #### (2) Price
 
-&emsp;Such property or tract of property shall be permitted to be redeemed upon payment tothe purchaser, or in case he cannot be found in the county in which the property to be redeemed is situated, then to the Secretary, for the use of the purchaser, his heirs, or assigns, the amount paid by such purchaser and interest thereon at the rate of 20 percent per annum.
+&emsp;Such property or tract of property shall be permitted to be redeemed upon payment to the purchaser, or in case he cannot be found in the county in which the property to be redeemed is situated, then to the Secretary, for the use of the purchaser, his heirs, or assigns, the amount paid by such purchaser and interest thereon at the rate of 20 percent per annum.
 
 #### (c) Record
 
@@ -22,11 +22,11 @@ When any lands sold are redeemed as provided in this section, the Secretary shal
 
 #### Amendments
 
-1982—Subsec. (b)(1). Pub. L. 97–248 substituted “180 days” for “120 days”.
+<b>1982</b>—Subsec. (b)(1). Pub. L. 97–248 substituted “180 days” for “120 days”.
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1966—Subsec. (b)(1). Pub. L. 89–719 substituted “120 days” for “1 year”.
+<b>1966</b>—Subsec. (b)(1). Pub. L. 89–719 substituted “120 days” for “1 year”.
 
 #### Effective Date of 1982 Amendment
 

@@ -70,7 +70,7 @@ In the implementation of this section, the Secretary of State and the Administra
 
 #### (i) Initial implementation
 
-The Board of Directors of the Demilitarization Enterprise Fund shall publish the first annual report of the Fund not later than January 31, 1995.
+The Board of Directors of the Demilitarization Enterprise Fund shall publish the first annualreport of the Fund not later than January 31, 1995.
 
 #### (j) Termination of designation
 

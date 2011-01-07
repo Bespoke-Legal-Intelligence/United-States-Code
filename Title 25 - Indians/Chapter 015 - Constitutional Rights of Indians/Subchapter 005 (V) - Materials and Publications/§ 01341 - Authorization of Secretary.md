@@ -22,5 +22,5 @@ There is authorized to be appropriated for carrying out the provisions of this s
 
 #### Amendments
 
-1974—Subsec. (c). Pub. L. 93–265 struck out “, with respect to the preparation but not including printing,” before “such sum”.
+<b>1974</b>—Subsec. (c). Pub. L. 93–265 struck out “, with respect to the preparation but not including printing,” before “such sum”.
 

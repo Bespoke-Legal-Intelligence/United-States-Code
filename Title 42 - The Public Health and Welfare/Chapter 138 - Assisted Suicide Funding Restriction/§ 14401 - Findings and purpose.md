@@ -14,7 +14,7 @@ Congress finds the following:
 
 #### (b) Purpose
 
-It is the principal purpose of this chapter to continue current Federal policy by providing explicitly that Federal funds may not be used to pay for items and services (including assistance) the purpose of which is to cause (or assist in causing) the suicide, euthanasia, or mercy killing of any individual.
+It is the principal purpose of this chapter to continue current Federal policy by providing explicitly that Federal funds may not be used to pay for items and services (including assistance)the purpose of which is to cause (or assist in causing) the suicide, euthanasia, or mercy killing of any individual.
 
 (Pub. L. 105–12, §2, Apr. 30, 1997, 111 Stat. 23.)
 

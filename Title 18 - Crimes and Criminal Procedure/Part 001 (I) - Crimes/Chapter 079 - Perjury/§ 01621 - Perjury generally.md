@@ -4,7 +4,7 @@ Whoever—
 
 &emsp;(1) having taken an oath before a competent tribunal, officer, or person, in any case in which a law of the United States authorizes an oath to be administered, that he will testify, declare, depose, or certify truly, or that any written testimony, declaration, deposition, or certificate by him subscribed, is true, willfully and contrary to such oath states or subscribes any material matter which he does not believe to be true; or
 
-&emsp;(2) in any declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28, United States Code, willfully subscribes as true any material matter which he does not believe to be true;
+&emsp;(2) in any declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28, UnitedStates Code, willfully subscribes as true any material matter which he does not believe to be true;
 
 > is guilty of perjury and shall, except as otherwise expressly provided by law, be fined under this title or imprisoned not more than five years, or both. This section is applicable whether the statement or subscription is made within or without the United States.
 
@@ -24,9 +24,9 @@ Minor verbal changes were made.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000” in concluding provisions.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000” in concluding provisions.
 
-1976—Pub. L. 94–550 divided existing provisions into a single introductory word “Whoever”, par. (1), and closing provisions following par. (2), and added par. (2).
+<b>1976</b>—Pub. L. 94–550 divided existing provisions into a single introductory word “Whoever”, par. (1), and closing provisions following par. (2), and added par. (2).
 
-1964—Pub. L. 88–619 inserted at end “This section is applicable whether the statement or subscription is made within or without the United States.”
+<b>1964</b>—Pub. L. 88–619 inserted at end “This section is applicable whether the statement or subscription is made within or without the United States.”
 

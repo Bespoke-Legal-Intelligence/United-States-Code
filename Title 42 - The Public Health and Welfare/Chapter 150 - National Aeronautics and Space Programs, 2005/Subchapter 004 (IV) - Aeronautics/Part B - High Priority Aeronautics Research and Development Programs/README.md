@@ -5,10 +5,4 @@ Part B—High Priority Aeronautics Research and Development Programs
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 16721 - Fundamental research program](%C2%A7%2016721%20-%20Fundamental%20research%20program.md)
-- [&sect; 16722 - Research and technology programs](%C2%A7%2016722%20-%20Research%20and%20technology%20programs.md)
-- [&sect; 16723 - Airspace Systems Research](%C2%A7%2016723%20-%20Airspace%20Systems%20Research.md)
-- [&sect; 16724 - Aviation Safety and Security Research](%C2%A7%2016724%20-%20Aviation%20Safety%20and%20Security%20Research.md)
-- [&sect; 16725 - Aviation weather research](%C2%A7%2016725%20-%20Aviation%20weather%20research.md)
-- [&sect; 16726 - Assessment of wake turbulence research and development program](%C2%A7%2016726%20-%20Assessment%20of%20wake%20turbulence%20research%20and%20development%20program.md)
-- [&sect; 16727 - University-based Centers for Research on Aviation Training](%C2%A7%2016727%20-%20University-based%20Centers%20for%20Research%20on%20Aviation%20Training.md)
+- [&sect; 16721 to 16727 - Repealed. Pub. L. 111&#8211;314, &sect;6, Dec. 18, 2010, 124 Stat. 3444](%C2%A7%2016721%20to%2016727%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93314%2C%20%C2%A76%2C%20Dec.%2018%2C%202010%2C%20124%20Stat.%203444.md)

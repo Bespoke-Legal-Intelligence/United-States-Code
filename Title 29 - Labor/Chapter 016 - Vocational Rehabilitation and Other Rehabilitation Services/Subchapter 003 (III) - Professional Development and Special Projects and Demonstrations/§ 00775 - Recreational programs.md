@@ -10,7 +10,7 @@
 
 #### (B) Recreation programs
 
-&emsp;&emsp;The recreation programs that may be funded using assistance provided under a grant under this section may include vocational skills development, leisure education, leisure networking, leisure resource development, physical education and sports, scouting and camping, 4–H activities, construction of facilities for aquatic rehabilitation therapy, music, dancing, handicrafts, art, and homemaking. When possible and appropriate, such programs and activities should be provided in settings with peers who are not individuals with disabilities.
+&emsp;&emsp;The recreation programs that may be funded using assistance provided under a grant under this section may include vocational skills development, leisure education, leisure networking, leisure resource development, physical education and sports, scouting and camping, 4–H activities, construction of facilities for aquatic rehabilitation therapy, music, dancing, handicrafts, art, and homemaking. When possible and appropriate, such programs and activities shouldbe provided in settings with peers who are not individuals with disabilities.
 
 #### (C) Design of program
 

@@ -122,15 +122,17 @@ Health Profession Defined.—In this section, the term “health profession” m
 
 (k)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2010.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2011.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 169; amended Pub. L. 110–417, \[div. A\], title VI, §618(c), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §614(5), Oct. 28, 2009, 123 Stat. 2354.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 169; amended Pub. L. 110–417, \[div. A\], title VI, §618(c), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §614(5), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §614(5), Jan. 7, 2011, 124 Stat. 4237.)
 
 #### Amendments
 
-2009—Subsec. (k). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+<b>2011</b>—Subsec. (k). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
-2008—Subsec. (e)(1)(D)(i). Pub. L. 110–417 substituted “dental officers” for “dental surgeons”.
+<b>2009</b>—Subsec. (k). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+
+<b>2008</b>—Subsec. (e)(1)(D)(i). Pub. L. 110–417 substituted “dental officers” for “dental surgeons”.
 
 #### Targeted Bonus Authority To Increase Direct Accessions
 
@@ -146,7 +148,7 @@ Designation of critically short wartime health specialties.—For purposes of se
 
 “(2)
 
-Special agreement authority.—Under the authority provided by this section \[enacting this note and section 302c–1 of this title\], the Secretary concerned may enter into an agreement under subsection (f) of section 335 of title 37, United States Code, to pay a health professions bonus under such section to a person who accepts a commission or appointment as an officer and whose health profession specialty is specified in paragraph (1) of this subsection.
+Special agreement authority.—Under the authority provided by this section \[enacting this note and section 302c–1 of this title\], the Secretary concerned may enter into an agreement under subsection (f) of section 335 of title 37, United States Code, to pay ahealth professions bonus under such section to a person who accepts a commission or appointment as an officer and whose health profession specialty is specified in paragraph (1) of this subsection.
 
 “(3)
 

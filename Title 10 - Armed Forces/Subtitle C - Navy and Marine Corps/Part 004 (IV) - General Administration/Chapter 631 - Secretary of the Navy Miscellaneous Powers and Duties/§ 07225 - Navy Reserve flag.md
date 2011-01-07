@@ -28,7 +28,7 @@ In clause (3) the words “at least half” are substituted for the words “not
 
 #### Amendments
 
-2006—Pub. L. 109–163, §515(b)(3)(D), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
+<b>2006</b>—Pub. L. 109–163, §515(b)(3)(D), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
 
 Pub. L. 109–163, §515(b)(1)(T), substituted “Navy Reserve” for “Naval Reserve” in introductory provisions.
 

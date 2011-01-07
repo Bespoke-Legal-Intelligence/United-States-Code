@@ -1,6 +1,6 @@
 ### §2021. Additional Senate office building
 
-Upon completion of the additional office building for the United States Senate, the building and the grounds and sidewalks surrounding the same shall be subject to the provisions of sections 1922, 1961, 1966, 1967, 1969, 2023, and 2024 of this title and sections 5101 to 5107 and 5109 of title 40, in the same manner and to the same extent as the present Senate Office Building andthe grounds and sidewalks surrounding the same.
+Upon completion of the additional office building for the United States Senate, the building and the grounds and sidewalks surrounding the same shall be subject to the provisions of sections 1922, 1961, 1966, 1967, 1969, 2023, and 2024 of this title and sections 5101 to 5107 and 5109 of title 40, in the same manner and to the same extent as the present Senate Office Building and the grounds and sidewalks surrounding the same.
 
 (June 25, 1948, ch. 658, title I, 62 Stat. 1029.)
 
@@ -50,7 +50,7 @@ Building Codes.—The real property and improvements acquired in accordance with
 
 “(d)
 
-Repairs; Expenditures.—The Architect of the Capitol is authorized, without regard to the provisions of section 3709 of the Revised Statutes of the United States \[41 U.S.C. 5\], to enter into contracts and to make expenditures for (1) necessary repairs to, and refurbishment of, the real property and the improvements on such real property acquired in accordance with subsection (a), including expenditures for personal and other services as may be necessary to carry out the purposes of this Act; and (2) for the construction on such real property of any facilities thereon as authorized under subsection (f). In no event shall the aggregate value of contracts and expenditures under this subsection exceed an amount equal to that authorized to be appropriated pursuant to subsection (e).
+Repairs; Expenditures.—The Architect of the Capitol is authorized, without regard to the provisions of section 3709 of the Revised Statutes of the United States \[now 41 U.S.C. 6101\], to enter into contracts andto make expenditures for (1) necessary repairs to, and refurbishment of, the real property and the improvements on such real property acquired in accordance with subsection (a), including expenditures for personal and other services as may be necessary to carry out the purposes of this Act; and (2) for the construction on such real property of any facilities thereon as authorized under subsection (f). In no event shall the aggregate value of contracts and expenditures under this subsection exceed an amount equal to that authorized to be appropriated pursuant to subsection (e).
 
 “(e)
 
@@ -62,13 +62,23 @@ Use of Property.—The real property, and improvements thereon, acquired in acco
 
 #### Authorization of Architect of Capitol To Lease City Post Office Building for Use by Senate and for Other Purposes
 
+Pub. L. 111–310, §1, Dec. 15, 2010, 124 Stat. 3293, provided that:
+
+“(a)
+
+Designation.—The facility of the United States Postal Service located at 2 Massachusetts Avenue, NE, in Washington, D.C., shall be known and designated as the ‘Dorothy I. Height Post Office’.
+
+“(b)
+
+References.—Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the ‘Dorothy I. Height Post Office’.”
+
 Pub. L. 101–520, title I, §107, Nov. 5, 1990, 104 Stat. 2267, provided that:
 
 “(a) Notwithstanding any other provision of law, the Architect of the Capitol, subject to the approval of the Committee on Rules and Administration, is authorized to lease, for use by the United States Senate, and for such other purposes as such committee may approve, 150,000 square feet of space, more or less, in the property located at 2 Massachusetts Avenue, N.E., Washington, District of Columbia, known as the City Post Office Building: <i>Provided</i>, That rental payments shall be paid from the account ‘Architect of the Capitol, Senate Office Buildings’ upon vouchers approved by the Architect of the Capitol: <i>Provided further</i>, That nothing in this section shall be construed so as to obligate the Senate or any of its Members, officers, or employees to enter into any such lease or to imply any obligation to enter into any such lease.
 
 “(b) Notwithstanding any other provision of law, property leased under authority of subsection (a) shall be maintained by the Architect of the Capitol as part of the ‘Senate Office Buildings’ subject to the laws, rules, and regulations governing such buildings, and the Architect is authorized to incur such expenses as may be necessary to provide for such occupancy.
 
-“(c) There is hereby authorized to be appropriated to the ‘Architect of the Capitol, Senate Office Buildings’such sums as may be necessary to carry out the provisions of subsections (a) and (b).
+“(c) There is hereby authorized to be appropriated to the ‘Architect of the Capitol, Senate Office Buildings’ such sums as may be necessary to carry out the provisions of subsections (a) and (b).
 
 “(d) There is authorized to be appropriated to the Sergeant at Arms of the United States Senate such sums as may be necessary to provide for the planning and relocation of offices and equipment to the property described in subsection (a), subject to direction by the Committee on Rules and Administration.
 

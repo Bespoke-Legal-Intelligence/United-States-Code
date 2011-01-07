@@ -18,21 +18,21 @@ No indecent or immoral picture, print, or representation shall be contained in, 
 
 #### (e) Exceptions
 
-Tobacco products furnished by manufacturers of such products for use or consumption by theiremployees, or for experimental purposes, and tobacco products, processed tobacco, and cigarette papers and tubes transferred to the bonded premises of another manufacturer or export warehouse proprietor or released in bond from customs custody for deliver to a manufacturer of tobacco products, processed tobacco, or cigarette papers and tubes, may be exempted from subsection (a) and (b) in accordance with such regulations as the Secretary shall prescribe.
+Tobacco products furnished by manufacturers of such products for use or consumption by their employees, or for experimental purposes, and tobacco products, processed tobacco, and cigarette papers and tubes transferred to the bonded premises of another manufacturer or export warehouse proprietor or released in bond from customs custody for deliver to a manufacturer of tobacco products, processed tobacco, or cigarette papers and tubes, may be exempted from subsection (a) and (b) in accordance with such regulations as the Secretary shall prescribe.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 713; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1422; Pub. L. 94–455, title XIX, §§1905(a)(28), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1821, 1834; Pub. L. 111–3, title VII, §702(a)(2)(C), Feb. 4, 2009, 123 Stat. 108.)
 
 #### Amendments
 
-2009—Pub. L. 111–3 inserted “, processed tobacco,” after “tobacco products” wherever appearing.
+<b>2009</b>—Pub. L. 111–3 inserted “, processed tobacco,” after “tobacco products” wherever appearing.
 
-1976—Pub. L. 94–455, §1905(a)(28)(A), substituted “and notices” for “notices, and stamps” in section catchline.
+<b>1976</b>—Pub. L. 94–455, §1905(a)(28)(A), substituted “and notices” for “notices, and stamps” in section catchline.
 
 Subsecs. (a), (e). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (b). Pub. L. 94–455, §§1905(a)(28)(B), 1906(b)(13)(A), struck out references to stamps in heading and in text and struck out “or his delegate” after “Secretary”.
 
-1958—Subsec. (a). Pub. L. 85–859 substituted “Packages” for “Packages, labels, notices, and stamps” in heading, and substituted “All tobacco products and cigarette papers and tubes shall, before removal, be put up in such packages as” for “All articles shall, before removal, be put up in packages having such labels, notices, and stamps as” in text.
+<b>1958</b>—Subsec. (a). Pub. L. 85–859 substituted “Packages” for “Packages, labels, notices, and stamps” in heading, and substituted “All tobacco products and cigarette papers and tubes shall, before removal, be put up in such packages as” for “All articles shall, before removal, be put up in packages having such labels, notices, and stamps as” in text.
 
 Subsec. (b). Pub. L. 85–859 added subsec. (b) and redesignated former subsec. (b) as (c).
 

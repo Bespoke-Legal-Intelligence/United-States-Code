@@ -16,9 +16,9 @@ Language is changed.
 
 #### Amendments
 
-1999—Pub. L. 106–113 substituted “Commissioner of Patents” for “Commissioner” two places in first par.
+<b>1999</b>—Pub. L. 106–113 substituted “Commissioner of Patents” for “Commissioner” two places in first par.
 
-1988—Pub. L. 100–418, §9101(b)(1)(A), substituted “filed abroad through error and without deceptive intent” for “inadvertently filed abroad” in first par.
+<b>1988</b>—Pub. L. 100–418, §9101(b)(1)(A), substituted “filed abroad through error and without deceptive intent” for “inadvertently filed abroad” in first par.
 
 Pub. L. 100–418, §9101(b)(1)(B), added third par. relating to scope of a license.
 

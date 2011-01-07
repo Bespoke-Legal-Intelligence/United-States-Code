@@ -140,7 +140,7 @@ For purposes of this section—
 
 #### (B) Maximum term
 
-&emsp;&emsp;During each calendar month, the Secretary shall determine the maximum term permitted under this paragraph for bonds issued during the following calendar month. Such maximum term shall be the term which the Secretary estimates will result in the present value of the obligation to repay the principal on the bond being equal to 50 percent of the face amount of such bond. Such present value shall be determined using as a discount rate the average annual interest rate of tax-exempt obligations having a term of 10 years or more which are issued during the month. If the term as so determined is not a multiple of a whole year, such term shall be rounded to the next highest whole year.
+&emsp;&emsp;During each calendar month, the Secretary shall determine the maximum termpermitted under this paragraph for bonds issued during the following calendar month. Such maximum term shall be the term which the Secretary estimates will result in the present value of the obligation to repay the principal on the bond being equal to 50 percent of the face amount of such bond. Such present value shall be determined using as a discount rate the average annual interest rate of tax-exempt obligations having a term of 10 years or more which are issued during the month. If the term as so determined is not a multiple of a whole year, such term shall be rounded to the next highest whole year.
 
 #### (6) Prohibition on financial conflicts of interest
 
@@ -220,7 +220,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Amendments
 
-2009—Subsec. (c)(1)(B). Pub. L. 111–5, §1531(c)(2), substituted “subparts C and J” for “subpart C”.
+<b>2009</b>—Subsec. (c)(1)(B). Pub. L. 111–5, §1531(c)(2), substituted “subparts C and J” for “subpart C”.
 
 Subsec. (d)(1)(E). Pub. L. 111–5, §1521(b)(1), added subpar. (E).
 
@@ -228,7 +228,7 @@ Subsec. (d)(2)(C)(v). Pub. L. 111–5, §1521(b)(2), added cl. (v).
 
 Subsec. (h). Pub. L. 111–5, §1541(b)(2), amended subsec. (h) generally. Prior to amendment, text read as follows: “If any qualified tax credit bond is held by a regulated investment company or a real estate investment trust, the credit determined under subsection (a) shall be allowed to shareholders of such company or beneficiaries of such trust (and any gross income included under subsection (f) with respect to such credit shall be treated as distributed to such shareholders or beneficiaries) under procedures prescribed by the Secretary.”
 
-2008—Subsec. (d)(1). Pub. L. 110–343, §301(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘qualified tax credit bond’ means—
+<b>2008</b>—Subsec. (d)(1). Pub. L. 110–343, §301(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘qualified tax credit bond’ means—
 
 &emsp;“(A) a qualified forestry conservation bond, or
 
@@ -236,7 +236,7 @@ Subsec. (h). Pub. L. 111–5, §1541(b)(2), amended subsec. (h) generally. Prior
 
 > which is part of an issue that meets requirements of paragraphs (2), (3), (4), (5), and (6).”
 
-Pub. L. 110–343, §107(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘qualified tax credit bond’ means a qualified forestry conservation bond which is part of an issue that meets the requirements of paragraphs (2), (3), (4), (5), and (6).”
+Pub. L. 110–343, §107(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘qualified tax credit bond’ means a qualified forestry conservationbond which is part of an issue that meets the requirements of paragraphs (2), (3), (4), (5), and (6).”
 
 Subsec. (d)(1)(D). Pub. L. 110–343, §313(b)(1), added subpar. (D).
 

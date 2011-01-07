@@ -48,5 +48,5 @@ The Davis-Bacon Act, referred to in par. (1), is act of Mar. 3, 1931, ch. 411, 4
 
 #### Amendments
 
-2006—Par. (1). Pub. L. 109–284 substituted “1494)” for “1494”.
+<b>2006</b>—Par. (1). Pub. L. 109–284 substituted “1494)” for “1494”.
 

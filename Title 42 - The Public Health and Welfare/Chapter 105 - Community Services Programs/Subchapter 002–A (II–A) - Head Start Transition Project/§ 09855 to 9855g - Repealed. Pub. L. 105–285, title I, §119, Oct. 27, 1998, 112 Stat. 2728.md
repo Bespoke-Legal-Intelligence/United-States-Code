@@ -1,6 +1,6 @@
 ### §§9855 to 9855g. Repealed. Pub. L. 105–285, title I, §119, Oct. 27, 1998, 112 Stat. 2728
 
-Section 9855, Pub. L. 101–501, title I, §132, Nov. 3, 1990, 104 Stat. 1238; Pub. L. 103–382, title III, §391(v)(1), Oct.20, 1994, 108 Stat. 4025, defined terms used in this subchapter.
+Section 9855, Pub. L. 101–501, title I, §132, Nov. 3, 1990, 104 Stat. 1238; Pub. L. 103–382, title III, §391(v)(1), Oct. 20, 1994, 108 Stat. 4025, defined terms used in this subchapter.
 
 Section 9855a, Pub. L. 101–501, title I, §133, Nov. 3, 1990, 104 Stat. 1238; Pub. L. 103–252, title I, §125(a), May 18, 1994, 108 Stat. 650, related to Head Start transition grants.
 

@@ -42,7 +42,7 @@ Any securities that are offered and sold pursuant to section 77d(5) of this titl
 
 #### (2) State registration or qualification requirements
 
-&emsp;Any State may, not later than 7 years after September 23, 1994, enact a statute that specifically refers to this section and requires registration or qualification of any small business related securities on terms that differfrom those applicable to any obligation issued by the United States.
+&emsp;Any State may, not later than 7 years after September 23, 1994, enact a statute that specifically refers to this section and requires registration or qualification of any small business related securities on terms that differ from those applicable to any obligation issued by the United States.
 
 (Pub. L. 98–440, title I, §106, Oct. 3, 1984, 98 Stat. 1691; Pub. L. 103–325, title II, §207, Sept. 23, 1994, 108 Stat. 2199.)
 
@@ -52,11 +52,11 @@ Section was enacted as part of the Secondary Mortgage Market Enhancement Act of 
 
 #### Amendments
 
-1994—Subsec. (a)(1)(B) to (D). Pub. L. 103–325, §207(a), struck out “or” at end of subpar. (B), added subpar. (C), and redesignated former subpar. (C) as (D).
+<b>1994</b>—Subsec. (a)(1)(B) to (D). Pub. L. 103–325, §207(a), struck out “or” at end of subpar. (B), added subpar. (C), and redesignated former subpar. (C) as (D).
 
 Subsec. (a)(2)(B) to (D). Pub. L. 103–325, §207(b), struck out “or” at end of subpar. (B), added subpar. (C), and redesignated former subpar. (C) as (D).
 
-Subsec. (c). Pub. L. 103–325, §207(c), in first sentence substituted “, that” for “or that” before “are mortgage related securities” and inserted “, or that are small business related securities (as defined in section 78c(a)(53) of this title)” before “shall be exempt”.
+Subsec. (c). Pub. L. 103–325, §207(c), in first sentence substituted “, that” for “or that” before “are mortgage related securities” and inserted “, or that aresmall business related securities (as defined in section 78c(a)(53) of this title)” before “shall be exempt”.
 
 Subsec. (d). Pub. L. 103–325, §207(d), added subsec. (d).
 

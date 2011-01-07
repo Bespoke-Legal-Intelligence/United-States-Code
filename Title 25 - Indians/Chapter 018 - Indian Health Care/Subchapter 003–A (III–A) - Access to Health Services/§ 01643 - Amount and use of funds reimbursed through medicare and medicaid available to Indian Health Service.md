@@ -14,5 +14,5 @@ Section was formerly set out as a note under section 1671 of this title.
 
 #### Amendments
 
-1992—Pub. L. 102–573 substituted “The Secretary shall submit to the President, for inclusion in the report required to be transmitted to the Congress under section 1671 of this title,” for “The Secretary shall include in his annual report required by section 1671 of this title”.
+<b>1992</b>—Pub. L. 102–573 substituted “The Secretary shall submit to the President, for inclusion in the report required to be transmitted to the Congress under section 1671 of this title,” for “The Secretary shall include in his annual report required by section 1671 of this title”.
 

@@ -32,7 +32,7 @@ Use of Experts and Consultants.—In developing the system, the Administrator ma
 
 Production-Certification Related Service Defined.—In this section, the term “production-certification related service” has the meaning given that term in appendix C of part 187 of title 14, Code of Federal Regulations.
 
-(Added Pub. L. 104–264, title II, §273(a), Oct. 9, 1996, 110 Stat. 3239; amended Pub. L. 106–181, titleVII, §719, Apr. 5, 2000, 114 Stat. 163; Pub. L. 107–71, title I, §119(d), Nov. 19, 2001, 115 Stat. 629.)
+(Added Pub. L. 104–264, title II, §273(a), Oct. 9, 1996, 110 Stat. 3239; amended Pub. L. 106–181, title VII, §719, Apr. 5, 2000, 114 Stat. 163; Pub. L. 107–71, title I, §119(d), Nov. 19, 2001, 115 Stat. 629.)
 
 #### Prior Provisions
 
@@ -40,9 +40,9 @@ A prior section 45301, Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1225; 
 
 #### Amendments
 
-2001—Subsec. (b)(1)(B). Pub. L. 107–71 substituted “reasonably” for “directly” and “Administration's costs, as determined by the Administrator,” for “Administration's costs” and inserted “The Determination of such costs by the Administrator is not subject to judicial review.” at end.
+<b>2001</b>—Subsec. (b)(1)(B). Pub. L. 107–71 substituted “reasonably” for “directly” and “Administration's costs, as determined by the Administrator,” for “Administration's costs” and inserted “The Determination of such costs by the Administrator is not subject to judicial review.” at end.
 
-2000—Subsec. (a)(2). Pub. L. 106–181, §719(1), added par. (2) and struck out former par. (2) which read as follows: “Services (other than air traffic control services) provided to a foreign government.”
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–181, §719(1), added par. (2) and struck out former par. (2) which read as follows: “Services (other than air traffic control services) provided to a foreign government.”
 
 Subsec. (d). Pub. L. 106–181, §719(2), added subsec. (d).
 

@@ -24,9 +24,9 @@ In subsection (a) the first sentence is broadened to include officers of the Mar
 
 #### Amendments
 
-1980—Pub. L. 96–513 struck out designation “(a)” before “Except for an officer”, substituted “an active-duty list” for “a lineal list”, struck out sentence which had provided that a staff corps officer with the same date of rank as his running mate ranked above all line and staff corps officers junior to his running mate, and struck out subsec. (b) which had provided for a hierarchy of 9 categories of officers of the Navy to be used in ranking officers of the Navy on active duty serving in the same grade and having the same date of rank in that grade.
+<b>1980</b>—Pub. L. 96–513 struck out designation “(a)” before “Except for an officer”, substituted “an active-duty list” for “a lineal list”, struck out sentence which had provided that a staff corps officer with the same date of rank as his running mate ranked above all line and staff corps officers junior to his running mate, and struck out subsec. (b) which had provided for a hierarchy of 9 categories of officers of the Navy to be used in ranking officers of the Navy on active duty serving in the same grade and having the same date of rank in that grade.
 
-1967—Subsec. (b). Pub. L. 90–179 added par. (6) and renumbered former pars. (6), (7), and (8) as pars. (7), (8), and (9), respectively.
+<b>1967</b>—Subsec. (b). Pub. L. 90–179 added par. (6) and renumbered former pars. (6), (7), and (8) as pars. (7), (8), and (9), respectively.
 
 #### Effective Date of 1980 Amendment
 

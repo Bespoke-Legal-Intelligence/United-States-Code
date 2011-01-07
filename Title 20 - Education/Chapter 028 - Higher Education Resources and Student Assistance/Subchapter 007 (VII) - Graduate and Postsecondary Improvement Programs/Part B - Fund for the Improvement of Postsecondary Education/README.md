@@ -1,7 +1,5 @@
 Part B—Fund for the Improvement of Postsecondary Education
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subparts”.</i>
-
 
 ---
 

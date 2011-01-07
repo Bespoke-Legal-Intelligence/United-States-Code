@@ -12,7 +12,7 @@ Where a husband and wife enter into a written agreement relative to their marita
 
 #### Amendments
 
-1984—Pub. L. 98–369 substituted in introductory text “within the 3-year period beginning on the date 1 year before such agreement is entered into” for “within 2 years thereafter”.
+<b>1984</b>—Pub. L. 98–369 substituted in introductory text “within the 3-year period beginning on the date 1 year before such agreement is entered into” for “within 2 years thereafter”.
 
 #### Effective Date of 1984 Amendment
 

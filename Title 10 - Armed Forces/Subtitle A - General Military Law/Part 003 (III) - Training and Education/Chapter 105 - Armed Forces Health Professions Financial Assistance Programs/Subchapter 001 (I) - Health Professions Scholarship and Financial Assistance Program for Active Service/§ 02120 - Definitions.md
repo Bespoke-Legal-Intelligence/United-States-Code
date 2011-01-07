@@ -10,23 +10,23 @@ In this subchapter:
 
 &emsp;(4) The term “specialized training” means advanced training in a health professions specialty received in an accredited program that is beyond the basic education required for appointment as a commissioned officer with a designation as a health professional.
 
-(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 717; amended Pub. L. 98–94, title XII, §1268(13), Sept. 24, 1983, 97 Stat. 706; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VII, §711(a)(2), Dec. 4, 1987, 101 Stat. 1108; Pub. L. 101–189, div. A, title VII, §725(a), (h)(1), Nov. 29, 1989, 103 Stat. 1478, 1480.)
+(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 717; amended Pub. L. 98–94, title XII,§1268(13), Sept. 24, 1983, 97 Stat. 706; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VII, §711(a)(2), Dec. 4, 1987, 101 Stat. 1108; Pub. L. 101–189, div. A, title VII, §725(a), (h)(1), Nov. 29, 1989, 103 Stat. 1478, 1480.)
 
 #### Amendments
 
-1989—Pars. (1), (2). Pub. L. 101–189, §725(h)(1), substituted “Scholarship and Financial Assistance program” for “Scholarship program”.
+<b>1989</b>—Pars. (1), (2). Pub. L. 101–189, §725(h)(1), substituted “Scholarship and Financial Assistance program” for “Scholarship program”.
 
 Par. (4). Pub. L. 101–189, §725(a), added par. (4).
 
-1987—Pub. L. 100–180 substituted “subchapter” for “chapter” in introductory text and in par. (1).
+<b>1987</b>—Pub. L. 100–180 substituted “subchapter” for “chapter” in introductory text and in par. (1).
 
 Pub. L. 100–26 inserted “The term” after each par. designation and struck out uppercase letter of first word after first quotation marks in each par. and substituted lowercase letter.
 
-1983—Pub. L. 98–94 substituted a colon for a dash after “In this chapter” in text preceding par. (1).
+<b>1983</b>—Pub. L. 98–94 substituted a colon for a dash after “In this chapter” in text preceding par. (1).
 
 #### Demonstration Project on Service of Retired Nurse Corps Officers as Faculty at Civilian Nursing Schools
 
-Pub. L. 110–417, \[div. A\], title V, §597, Oct. 14, 2008, 122 Stat. 4479, provided that:
+Pub. L. 110–417, \[div. A\], title V, §597, Oct. 14, 2008, 122 Stat. 4479, as amended by Pub. L. 111–383, div. A, title X, §1075(e)(8), Jan. 7, 2011, 124 Stat. 4375, provided that:
 
 “(a)
 
@@ -112,7 +112,7 @@ Elements.—The report shall also include, at a minimum, the following:
 
 “(f)
 
-Definitions.—In this section, the terms ‘school of nursing’ and ‘accredited’ have the meeting \[sic\] given those terms in section 801 of the Public Health Service Act (42 U.S.C. 296).
+Definitions.—In this section, the terms ‘school of nursing’ and ‘accredited’ have the meanings given those terms in section 801 of the Public Health Service Act (42 U.S.C. 296).
 
 “(g)
 

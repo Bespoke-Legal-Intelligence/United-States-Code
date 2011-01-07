@@ -16,5 +16,5 @@ The Secretary of the Senate is authorized to advance such sums as may be necessa
 
 #### Codification
 
-Section is from the Dire Emergency Supplemental Appropriations for Consequences of Operation Desert Shield/Desert Storm, Food Stamps, UnemploymentCompensation Administration, Veterans Compensation and Pensions, and Other Urgent Needs Act of 1991.
+Section is from the Dire Emergency Supplemental Appropriations for Consequences of Operation Desert Shield/Desert Storm, Food Stamps, Unemployment Compensation Administration, Veterans Compensation and Pensions, and Other Urgent Needs Act of 1991.
 

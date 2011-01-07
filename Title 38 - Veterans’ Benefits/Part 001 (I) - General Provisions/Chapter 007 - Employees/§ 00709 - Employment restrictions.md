@@ -1,6 +1,6 @@
 ### §709. Employment restrictions
 
-(a)(1) Notwithstanding section 3134(d) of title 5, the number of Senior Executive Service positions in the Department which are filled by noncareer appointees in any fiscal year may not at any time exceed 5 percent of the average number of senior executives employed in Senior Executive Service positions in the Department during the preceding fiscal year.
+(a)(1) Notwithstanding section 3134(d) of title 5, the number of Senior Executive Service positions in the Department which are filled by noncareer appointees in any fiscal year may not atany time exceed 5 percent of the average number of senior executives employed in Senior Executive Service positions in the Department during the preceding fiscal year.
 
 (2) For purposes of this subsection, the average number of senior executives employed in Senior Executive Service positions in the Department during a fiscal year shall be equal to 25 percent of the sum of the total number of senior executives employed in Senior Executive Service positions in the Department on the last day of each quarter of such fiscal year.
 
@@ -24,5 +24,5 @@ Provisions similar to those in this section were contained in section 12 of Pub.
 
 #### Amendments
 
-1992—Subsec. (c)(2)(A). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” and “Under Secretary for Benefits” for “Chief Benefits Director”.
+<b>1992</b>—Subsec. (c)(2)(A). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” and “Under Secretary for Benefits” for “Chief Benefits Director”.
 

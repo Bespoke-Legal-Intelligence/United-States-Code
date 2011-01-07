@@ -26,7 +26,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;(9) Any necessary temporary relocation of tenants during rehabilitation.
 
-&emsp;(10) Funding of operating expenses and replacement reserves of the project covered by the homeownership program, except that the amount of assistance for operating expenses shall not exceed the amount the project would have received if it had continued to receive such assistance from the Operating Fund, with adjustments comparable to those that would have been made under section 1437g of this title, and except that implementation grants may not be used under this paragraph to fund operating expenses for scattered site public housing acquired under a homeownership program.
+&emsp;(10) Funding of operating expenses and replacement reserves of the project covered by the homeownership program, except that the amount of assistance for operating expenses shall not exceed the amount the project would have received if it had continued to receive such assistance from the Operating Fund, with adjustments comparable to those that wouldhave been made under section 1437g of this title, and except that implementation grants may not be used under this paragraph to fund operating expenses for scattered site public housing acquired under a homeownership program.
 
 &emsp;(11) Implementation of a replacement housing plan.
 
@@ -48,7 +48,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(A) cash contributions from non-Federal resources, which may not include Federal tax expenditures or funds from a grant made under section 5306(b) of this title or section 5306(d) of this title;
 
-&emsp;&emsp;(B) payment of administrative expenses, as defined by the Secretary, from non-Federalresources, including funds from a grant made under section 5306(b) of this title or section 5306(d) of this title;
+&emsp;&emsp;(B) payment of administrative expenses, as defined by the Secretary, from non-Federal resources, including funds from a grant made under section 5306(b) of this title or section 5306(d) of this title;
 
 &emsp;&emsp;(C) the value of taxes, fees, or other charges that are normally and customarily imposed but are waived, foregone, or deferred in a manner that facilitates the implementation of a homeownership program assisted under this subchapter;
 
@@ -114,7 +114,7 @@ The Secretary shall establish selection criteria for a national competition for 
 
 &emsp;(5) the extent to which funds for activities that do not qualify as eligible activities will be provided in support of the homeownership program;
 
-&emsp;(6) whether the approved comprehensive housing affordability strategy for the jurisdiction within which the public housing project is located includes the proposed homeownershipprogram as one of the general priorities identified pursuant to section 105(b)(7) of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12705(b)(7)\];
+&emsp;(6) whether the approved comprehensive housing affordability strategy for the jurisdiction within which the public housing project is located includes the proposed homeownership program as one of the general priorities identified pursuant to section 105(b)(7) of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12705(b)(7)\];
 
 &emsp;(7) national geographic diversity among housing for which applicants are selected to receive assistance; and
 
@@ -148,9 +148,9 @@ The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (f
 
 #### Amendments
 
-1998—Subsec. (b)(10). Pub. L. 105–276 substituted “such assistance from the Operating Fund” for “such assistance under section 1437g of this title”.
+<b>1998</b>—Subsec. (b)(10). Pub. L. 105–276 substituted “such assistance from the Operating Fund” for “such assistance under section 1437g of this title”.
 
-1992—Subsec. (b)(2). Pub. L. 102–550, §181(g)(1)(A), struck out “(not including scattered site single family housing of a public housing agency)” after “public housing project”.
+<b>1992</b>—Subsec. (b)(2). Pub. L. 102–550, §181(g)(1)(A), struck out “(not including scattered site single family housing of a public housing agency)” after “public housing project”.
 
 Subsec. (b)(4) to (8). Pub. L. 102–550, §1012(h)(2), added par. (4) and redesignated former pars. (4) to (7) as (5) to (8), respectively. Former par. (8) redesignated (9).
 

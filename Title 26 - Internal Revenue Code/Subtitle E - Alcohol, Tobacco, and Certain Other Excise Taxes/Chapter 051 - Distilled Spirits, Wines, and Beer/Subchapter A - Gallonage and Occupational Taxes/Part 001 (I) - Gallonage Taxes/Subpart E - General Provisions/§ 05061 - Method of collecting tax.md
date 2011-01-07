@@ -60,7 +60,7 @@ The internal revenue taxes imposed by this part shall be in addition to any impo
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any taxpayer who reasonably expects to be liable for not more than $50,000 in taxes imposed with respect to distilled spirits, wines, and beer under subparts A, C, and D and section 7652 for the calendar year and who was liable for not more than $50,000 in such taxes in the preceding calendar year, the last day for the payment of tax on withdrawals, removals, and entries (and articles brought into the United States from Puerto Rico) under bond for deferredpayment shall be the 14th day after the last day of the calendar quarter during which the action giving rise to the imposition of such tax occurs.
+&emsp;&emsp;In the case of any taxpayer who reasonably expects to be liable for not more than $50,000 in taxes imposed with respect to distilled spirits, wines, and beer under subparts A, C, and D and section 7652 for the calendar year and who was liable for not more than $50,000 in such taxes in the preceding calendar year, the last day for the payment of tax on withdrawals, removals, and entries (and articles brought into the United States from Puerto Rico) under bond for deferred payment shall be the 14th day after the last day of the calendar quarter during which the action giving rise to the imposition of such tax occurs.
 
 #### (B) No application after limit exceeded
 
@@ -68,7 +68,7 @@ The internal revenue taxes imposed by this part shall be in addition to any impo
 
 #### (C) Calendar quarter
 
-&emsp;&emsp;For purposes of this paragraph, the term “calendar quarter” means the three-month period ending on March 31, June 30, September 30, or December 31.
+&emsp;&emsp;For purposes of this paragraph, the term “calendar quarter” means the three-monthperiod ending on March 31, June 30, September 30, or December 31.
 
 #### (5) Special rule for tax due in September
 
@@ -118,33 +118,33 @@ Provisions similar to those comprising subsec. (d) of this section were containe
 
 #### Amendments
 
-2005—Subsec. (d)(4) to (6). Pub. L. 109–59 added par. (4), redesignated former pars. (4) and (5) as (5) and (6), respectively, and in par. (6) substituted “paragraph (5)” for “paragraph (4)”.
+<b>2005</b>—Subsec. (d)(4) to (6). Pub. L. 109–59 added par. (4), redesignated former pars. (4) and (5) as (5) and (6), respectively, and in par. (6) substituted “paragraph (5)” for “paragraph (4)”.
 
-1996—Subsec. (b)(3). Pub. L. 104–188 substituted “section 5041(f),” for “section 5041(e),”.
+<b>1996</b>—Subsec. (b)(3). Pub. L. 104–188 substituted “section 5041(f),” for “section 5041(e),”.
 
-1994—Subsec. (b)(1). Pub. L. 103–465, §136(c)(5), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “section 5001(a)(5), (6), or (7),”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–465, §136(c)(5), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “section 5001(a)(5), (6), or (7),”.
 
 Subsec. (d)(4). Pub. L. 103–465, §712(b)(1), added par. (4). Former par. (4) redesignated (5).
 
 Subsec. (d)(5). Pub. L. 103–465, §712(b), redesignated par. (4) as (5), substituted “due date” for “14th day” in heading, and inserted “(or the immediately following day where the due date described in paragraph (4) falls on a Sunday)” before period at end.
 
-1990—Subsec. (b)(3). Pub. L. 101–508, §§11201(b)(3), 11704(a)(21), amended par. (3) identically, substituting “section 5041(e)” for “section 5041(d)”.
+<b>1990</b>—Subsec. (b)(3). Pub. L. 101–508, §§11201(b)(3), 11704(a)(21), amended par. (3) identically, substituting “section 5041(e)” for “section 5041(d)”.
 
-1988—Subsec. (d)(2)(A), (B), (3). Pub. L. 100–647 substituted “last day of the semimonthly period during” for “date on”.
+<b>1988</b>—Subsec. (d)(2)(A), (B), (3). Pub. L. 100–647 substituted “last day of the semimonthly period during” for “date on”.
 
-1986—Subsec. (d). Pub. L. 99–509 amended subsec. (d) generally, substituting provisions relating to time for collecting tax on distilled spirits, wines, and beer, for provisions relating to extension of time for collecting tax on distilled spirits.
+<b>1986</b>—Subsec. (d). Pub. L. 99–509 amended subsec. (d) generally, substituting provisions relating to time for collecting tax on distilled spirits, wines, and beer, for provisions relating to extension of time for collecting tax on distilled spirits.
 
 Subsec. (e)(3). Pub. L. 99–514 added par. (3).
 
-1984—Subsec. (e). Pub. L. 98–369 added subsec. (e).
+<b>1984</b>—Subsec. (e). Pub. L. 98–369 added subsec. (e).
 
-1979—Subsec. (a). Pub. L. 96–39, §807(a)(9)(A), struck out “rectified distilled spirits and wines,” after “distilled spirits, wines,”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–39, §807(a)(9)(A), struck out “rectified distilled spirits and wines,” after “distilled spirits, wines,”.
 
-Subsec. (b). Pub. L. 96–39, §807(a)(9)(B), in provisions preceding par. (1) struck out “rectified distilled spirits and wines” after “spirits, wines,” and redesignated pars. (4) to (7) as (3) to (6), respectively. Former par. (3), which made reference to section 5026(a)(2), was struck out.
+Subsec. (b). Pub. L. 96–39, §807(a)(9)(B), in provisions preceding par. (1) struck out “rectified distilled spirits and wines” after “spirits, wines,” and redesignated pars. (4) to (7) as (3) to (6), respectively. Former par. (3),which made reference to section 5026(a)(2), was struck out.
 
 Subsec. (d). Pub. L. 96–39, §804(b), added subsec. (d).
 
-1976—Subsec. (a). Pub. L. 94–455, §§1905(a)(6)(A), 1906(b)(13)(A), struck out last sentence providing for continued payment of taxes by stamp until the Secretary shall by regulation provide for collection of the taxes on the basis of a return and struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1905(a)(6)(A), 1906(b)(13)(A), struck out last sentence providing for continued payment of taxes by stamp until the Secretary shall by regulation provide for collection of the taxes on the basis of a return and struck out “or his delegate” after “Secretary”.
 
 Subsec. (b). Pub. L. 94–455, §1905(a)(6)(B), substituted the exceptions provisions for discretion method of collection providing that “Whether or not the method of collecting any tax imposed by this part is specifically provided in this part, any such tax may, under regulations prescribed by the Secretary or his delegate, be collected by stamp, coupon, serially-numbered ticket, or the use of tax-stamp machines, or by such other reasonable device or method as may be necessary or helpful in securing collection of the tax.”
 

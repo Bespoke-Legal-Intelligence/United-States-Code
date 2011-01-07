@@ -28,7 +28,7 @@ Pursuant to section 5411(b)(3) of this title, the United States Government—
 
 #### (c) FY 1990 minimum level of agricultural assistance for Poland
 
-In carrying out subsection (b) of this section, the level of assistance for Poland for fiscal year1990 under section 1431(b) of title 7, the Food for Peace Act (7 U.S.C. 1691 and following), and section 1736<i>o</i> of title 7 should not be less than $125,000,000. Such assistance—
+In carrying out subsection (b) of this section, the level of assistance for Poland for fiscal year 1990 under section 1431(b) of title 7, the Food for Peace Act (7 U.S.C. 1691 and following), and section 1736<i>o</i> of title 7 should not be less than $125,000,000. Such assistance—
 
 &emsp;(1) to the maximum extent practicable, shall be provided through nongovernmental organizations; and
 
@@ -48,7 +48,7 @@ House Concurrent Resolution 106 of the 101st Congress, referred to in subsec. (d
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954” in introductory provisions.
+<b>2008</b>—Subsec. (c). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954” in introductory provisions.
 
 #### Effective Date of 2008 Amendment
 

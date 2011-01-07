@@ -6,7 +6,7 @@ There is hereby established a voluntary insurance program to provide medical ins
 
 #### Amendments
 
-1972—Pub. L. 92–603 substituted “aged and disabled individuals” for “individuals 65 years of age or over”.
+<b>1972</b>—Pub. L. 92–603 substituted “aged and disabled individuals” for “individuals 65 years of age or over”.
 
 #### Study Regarding Coverage Under Part B of Medicare for Nonreimbursable Services Provided by Optometrists for Prosthetic Lenses for Patients With Aphakia
 
@@ -14,5 +14,5 @@ Pub. L. 94–182, title I, §109, Dec. 31, 1975, 89 Stat. 1053, provided that th
 
 #### Study To Determine Feasibility of Inclusion of Certain Additional Services Under Part B
 
-Pub. L. 90–248, title I, §141, Jan. 2, 1968, 81 Stat. 855, directed Secretary to conduct a study relating to inclusion under the supplementary medical insurance program under this part of services of additional types of licensed practitioners performing health services inindependent practice and submit such study to Congress prior to Jan. 1, 1969.
+Pub. L. 90–248, title I, §141, Jan. 2, 1968, 81 Stat. 855, directed Secretary to conduct a study relating to inclusion under the supplementary medical insurance program under this part of services of additional types of licensed practitioners performing health services in independent practice and submit such study to Congress prior to Jan. 1, 1969.
 

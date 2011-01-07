@@ -32,7 +32,7 @@ June 30, 1949, ch. 288, title II, §203(m), formerly §203(<i>l</i>), 63 Stat. 3
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–284 substituted “(a)
+<b>2006</b>—Subsec. (a). Pub. L. 109–284 substituted “(a)
 
 Authority To Take Property.—The Administrator” for “(a)
 

@@ -4,10 +4,6 @@ Assistant or deputy commissioners of the Bureau of Indian Affairs, in the Depart
 
 (June 5, 1942, ch. 336, §1, 56 Stat. 312; 1946 Reorg. Plan No. 3, §403(d), eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972.)
 
-#### References in Text
-
-The civil-service laws, referred to in text, are set out in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Codification
 
 “Chapter 51 and subchapter III of chapter 53 of title 5” and “section 3101 of title 5” substituted in text for “the Classification Act of 1949, as amended” and “section 169 of the Revised Statutes, as amended (5 U.S.C., sec. 43)”, respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
@@ -16,7 +12,7 @@ Section embodies only those provisions of section 1 of act June 5, 1942, which r
 
 #### Amendments
 
-1949—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+<b>1949</b>—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
 #### Repeals
 

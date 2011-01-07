@@ -48,7 +48,7 @@
 
 &emsp;(B) ensure that each such office or entity provides the Chief of Naval Operations and the Commandant of the Marine Corps such staff support as each considers necessary to perform his duties and responsibilities.
 
-(4) The vesting in the Office of the Secretary of the Navy of the responsibility for the conduct of a function specified in paragraph (1) does not preclude other elements of the executive part of the Department of the Navy (including the Office of the Chief of Naval Operations and the Headquarters, Marine Corps) from providing advice or assistance to the Chief of Naval Operations and the Commandant of the Marine Corps or otherwise participating in that function within the executive part of the Department under the direction of the office assigned responsibility for that function in the Office of the Secretary of the Navy.
+(4) The vesting in the Office of the Secretary of the Navy of the responsibility for the conductof a function specified in paragraph (1) does not preclude other elements of the executive part of the Department of the Navy (including the Office of the Chief of Naval Operations and the Headquarters, Marine Corps) from providing advice or assistance to the Chief of Naval Operations and the Commandant of the Marine Corps or otherwise participating in that function within the executive part of the Department under the direction of the office assigned responsibility for that function in the Office of the Secretary of the Navy.
 
 (5)(A) The head of the office or other entity established or designated by the Secretary to conduct the auditing function shall have at least five years of professional experience in accounting or auditing. The position shall be considered to be a career reserved position as defined in section 3132(a)(8) of title 5.
 
@@ -88,15 +88,15 @@ A prior section 5014, added Pub. L. 85–861, §1(106)(A), Sept. 2, 1958, 72 Sta
 
 #### Amendments
 
-2002—Subsec. (b)(6) to (8). Pub. L. 107–314 added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
+<b>2002</b>—Subsec. (b)(6) to (8). Pub. L. 107–314 added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
-2001—Subsec. (f)(3). Pub. L. 107–107 substituted “74” for “the number equal to 85 percent of the number of general and flag officers assigned or detailed to such duty on the date of the enactment of this subsection”.
+<b>2001</b>—Subsec. (f)(3). Pub. L. 107–107 substituted “74” for “the number equal to 85 percent of the number of general and flag officers assigned or detailed to such duty on the date of the enactment of this subsection”.
 
-1989—Subsec. (f)(5). Pub. L. 101–189 struck out par. (5) which read as follows: “The limitations in paragraphs (1), (2), and (3) do not apply before October 1, 1988.”
+<b>1989</b>—Subsec. (f)(5). Pub. L. 101–189 struck out par. (5) which read as follows: “The limitations in paragraphs (1), (2), and (3) do not apply before October 1, 1988.”
 
-1988—Subsec. (c)(5). Pub. L. 100–456 added par. (5).
+<b>1988</b>—Subsec. (c)(5). Pub. L. 100–456 added par. (5).
 
-1987—Subsec. (f)(4). Pub. L. 100–180 inserted “the President or” after “declared by”.
+<b>1987</b>—Subsec. (f)(4). Pub. L. 100–180 inserted “the President or” after “declared by”.
 
 #### Effective Date of 1988 Amendment
 

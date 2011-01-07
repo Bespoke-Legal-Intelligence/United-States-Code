@@ -78,5 +78,5 @@ A prior section 506, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 832; 
 
 #### Amendments
 
-2005—Pub. L. 109–59 reenacted section catchline without change and amended text generally, substituting provisions relating to international highway transportation outreach program for similar former provisions which related to, in subsec. (a), establishment of an international highway transportation outreach program, in subsec. (b), activities which could be carried out under the program, in subsec. (c), cooperation with other entities, in subsec. (d), funding, and, in subsec. (e), State obligation of funds.
+<b>2005</b>—Pub. L. 109–59 reenacted section catchline without change and amended text generally, substituting provisions relating to international highway transportation outreach program for similar former provisions which related to, in subsec. (a), establishment of an international highway transportation outreach program, in subsec. (b), activities which could be carried out under the program, in subsec. (c), cooperation with other entities, in subsec. (d), funding, and, in subsec. (e), State obligation of funds.
 

@@ -56,7 +56,7 @@ In subsection (d), the text of 36:153 (last par.) is omitted as obsolete.
 
 #### Amendments
 
-2004—Pub. L. 108–447, §111(c)(1)(A), inserted “Constitution Day and” before “Citizenship Day” in section catchline.
+<b>2004</b>—Pub. L. 108–447, §111(c)(1)(A), inserted “Constitution Day and” before “Citizenship Day” in section catchline.
 
 Subsec. (a). Pub. L. 108–447, §111(c)(1)(B), substituted “is designated as Constitution Day and Citizenship Day” for “is Citizenship Day”.
 

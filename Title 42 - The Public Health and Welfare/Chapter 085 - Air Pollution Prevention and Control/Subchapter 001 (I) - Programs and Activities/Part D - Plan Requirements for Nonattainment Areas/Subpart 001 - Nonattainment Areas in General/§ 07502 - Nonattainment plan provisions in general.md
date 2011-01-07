@@ -72,7 +72,7 @@ The plan provisions (including plan items) required to be submitted under this p
 
 #### (d) Plan revisions required in response to finding of plan inadequacy
 
-Any plan revision for a nonattainment area which is required to be submitted in response to a finding by the Administrator pursuant to section 7410(k)(5) of this title (relating to calls forplan revisions) must correct the plan deficiency (or deficiencies) specified by the Administrator and meet all other applicable plan requirements of section 7410 of this title and this part. The Administrator may reasonably adjust the dates otherwise applicable under such requirements to such revision (except for attainment dates that have not yet elapsed), to the extent necessary to achieve a consistent application of such requirements. In order to facilitate submittal by the States of adequate and approvable plans consistent with the applicable requirements of this chapter, the Administrator shall, as appropriate and from time to time, issue written guidelines, interpretations, and information to the States which shall be available to the public, taking into consideration any such guidelines, interpretations, or information provided before November 15, 1990.
+Any plan revision for a nonattainment area which is required to be submitted in response to a finding by the Administrator pursuant to section 7410(k)(5) of this title (relating to calls for plan revisions) must correct the plan deficiency (or deficiencies) specified by the Administrator and meet all other applicable plan requirements of section 7410 of this title and this part. The Administrator may reasonably adjust the dates otherwise applicable under such requirements to such revision (except for attainment dates that have not yet elapsed), to the extent necessary toachieve a consistent application of such requirements. In order to facilitate submittal by the States of adequate and approvable plans consistent with the applicable requirements of this chapter, the Administrator shall, as appropriate and from time to time, issue written guidelines, interpretations, and information to the States which shall be available to the public, taking into consideration any such guidelines, interpretations, or information provided before November 15, 1990.
 
 #### (e) Future modification of standard
 
@@ -82,9 +82,9 @@ If the Administrator relaxes a national primary ambient air quality standard aft
 
 #### Amendments
 
-1990—Pub. L. 101–549 amended section generally, substituting present provisions for provisions which related to: in subsec. (a), expeditious attainment of national ambient air quality standards; in subsec. (b), requisite provisions of plan; and in subsec. (c), attainment of applicable standard not later than July 1, 1987.
+<b>1990</b>—Pub. L. 101–549 amended section generally, substituting present provisions for provisions which related to: in subsec. (a), expeditious attainment of national ambient air quality standards; in subsec. (b), requisite provisions of plan; and in subsec. (c), attainment of applicable standard not later than July 1, 1987.
 
-1977—Subsec. (b)(4). Pub. L. 95–190, §14(a)(55), substituted “subsection (a) of this section” for “paragraph (1)”.
+<b>1977</b>—Subsec. (b)(4). Pub. L. 95–190, §14(a)(55), substituted “subsection (a) of this section” for “paragraph (1)”.
 
 Subsec. (c). Pub. L. 95–190, §14(a)(56), substituted “December 31” for “July 1”.
 

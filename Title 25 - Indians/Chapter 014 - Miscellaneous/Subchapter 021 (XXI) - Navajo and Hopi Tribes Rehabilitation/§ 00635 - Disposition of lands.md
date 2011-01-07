@@ -16,5 +16,5 @@ The Secretary of the Interior is authorized to transfer, upon request of the Nav
 
 #### Amendments
 
-1960—Pub. L. 86–505 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1960</b>—Pub. L. 86–505 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 

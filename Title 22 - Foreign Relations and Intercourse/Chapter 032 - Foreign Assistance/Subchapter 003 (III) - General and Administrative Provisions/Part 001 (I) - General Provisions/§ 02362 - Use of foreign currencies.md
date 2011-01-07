@@ -18,7 +18,7 @@ In addition to funds otherwise available, excess foreign currencies, as defined 
 
 #### (d) Reciprocal release of dollar value equivalents
 
-In furnishing assistance under this chapter to the government of any country in which the United States owns excess foreign currencies as defined in subsection (b) of this section, except those currencies generated under the Food forPeace Act, as amended \[7 U.S.C. 1691 et seq.\], the President shall endeavor to obtain from the recipient country an agreement for the release, on such terms and conditions as the President shall determine, of an amount of such currencies up to the equivalent of the dollar value of assistance furnished by the United States for programs as may be mutually agreed upon by the recipient country and the United States to carry out the purposes for which new funds authorized by this chapter would themselves be available.
+In furnishing assistance under this chapter to the government of any country in which the United States owns excess foreign currencies as defined in subsection (b) of this section, except those currencies generated under the Food for Peace Act, as amended \[7 U.S.C. 1691 et seq.\], the President shall endeavor to obtain from the recipient country an agreement for the release, on such terms and conditions as the President shall determine, of an amount of such currencies up to the equivalent of the dollar value of assistance furnished by the United States for programs as may be mutually agreed upon by the recipient country and the United States to carry out the purposes for which new funds authorized by this chapter would themselves be available.
 
 (Pub. L. 87–195, pt. III, §612, Sept. 4, 1961, 75 Stat. 443; Pub. L. 88–205, pt. III, §301(d), Dec. 16, 1963, 77 Stat. 385; Pub. L. 88–633, pt. III, §301(c), Oct. 7, 1964, 78 Stat. 1012; Pub. L. 88–638, §2(1), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–171, pt. III, §301(b), Sept. 6, 1965, 79 Stat. 659; Pub. L. 89–583, pt. III, §301(e), Sept. 19, 1966, 80 Stat. 805; Pub. L. 91–175, pt. III, §302, Dec. 30, 1969, 83 Stat. 820; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
 
@@ -36,19 +36,19 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+<b>2008</b>—Subsec. (d). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
-1969—Subsec. (d). Pub. L. 91–175 added subsec. (d).
+<b>1969</b>—Subsec. (d). Pub. L. 91–175 added subsec. (d).
 
-1966—Subsec. (c). Pub. L. 89–583 added subsec. (c).
+<b>1966</b>—Subsec. (c). Pub. L. 89–583 added subsec. (c).
 
-1965—Subsecs. (b), (c). Pub. L. 89–171 redesignated subsec. (c) as (b) and prohibited dollar funds made available pursuant to this chapter from being expended for goods and services when United States-owned foreign currencies are available for such purposes unless the administrative official approving the voucher certifies as to the reason for the use of dollars in each case.
+<b>1965</b>—Subsecs. (b), (c). Pub. L. 89–171 redesignated subsec. (c) as (b) and prohibited dollar funds made available pursuant to this chapter from being expended for goods and services when United States-owned foreign currencies are available for such purposes unless the administrative official approving the voucher certifies as to the reason for the use of dollars in each case.
 
-1964—Subsec. (b). Pub. L. 88–638 redesignated subsec. (b), as added by Pub. L. 88–205, as subsec. (t) of section 1704 of Title 7, Agriculture.
+<b>1964</b>—Subsec. (b). Pub. L. 88–638 redesignated subsec. (b), as added by Pub. L. 88–205, as subsec. (t) of section 1704 of Title 7, Agriculture.
 
 Subsec. (c). Pub. L. 88–633 added subsec. (c).
 
-1963—Pub. L. 88–205 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1963</b>—Pub. L. 88–205 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 2008 Amendment
 
@@ -96,11 +96,11 @@ Programming accountability.—USAID shall take all necessary steps to ensure tha
 
 &emsp;“(4)
 
-Termination of assistance programs.—Upon termination of assistance to a country under chapter 1 or 10 of part I or chapter 4 of part II of the Foreign Assistance Act of 1961 (as the case may be), any unencumbered balances of funds which remain in a separate account established pursuant to subsection (a) shall be disposed of for such purposes as may be agreed to by the government of that country and the United States Government.
+Termination of assistance programs.—Upon termination of assistance to a country under chapter1 or 10 of part I or chapter 4 of part II of the Foreign Assistance Act of 1961 (as the case may be), any unencumbered balances of funds which remain in a separate account established pursuant to subsection (a) shall be disposed of for such purposes as may be agreed to by the government of that country and the United States Government.
 
 &emsp;“(5)
 
-Reporting requirement.—The USAID Administrator shall report on an annual basis as part of thejustification documents submitted to the Committees on Appropriations on the use of local currencies for the administrative requirements of the United States Government as authorized in subsection (a)(2)(B), and such report shall include the amount of local currency (and United States dollar equivalent) used and/or to be used for such purpose in each applicable country.
+Reporting requirement.—The USAID Administrator shall report on an annual basis as part of the justification documents submitted to the Committees on Appropriations on the use of local currencies for the administrative requirements of the United States Government as authorized in subsection (a)(2)(B), and such report shall include the amount of local currency (and United States dollar equivalent) used and/or to be used for such purpose in each applicable country.
 
 “(b)
 

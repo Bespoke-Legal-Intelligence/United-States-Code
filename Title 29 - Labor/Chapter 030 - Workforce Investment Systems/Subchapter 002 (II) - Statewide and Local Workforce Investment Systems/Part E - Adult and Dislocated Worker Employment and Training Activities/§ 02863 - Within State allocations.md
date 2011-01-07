@@ -36,7 +36,7 @@
 
 #### (ii) Minimum percentage
 
-&emsp;&emsp;&emsp;Effective at the end of the second full fiscal year after the date on which a local area is designated under section 2831 of this title, the local area shall not receive an allocation percentage for a fiscal year that is less than 90 percent of the average allocation percentage of the local area forthe 2 preceding fiscal years. Amounts necessary for increasing such allocations to local areas to comply with the preceding sentence shall be obtained by ratably reducing the allocations to be made to other local areas under this subparagraph.
+&emsp;&emsp;&emsp;Effective at the end of the second full fiscal year after the date on which a local area is designated under section 2831 of this title, the local area shall not receive an allocation percentage for a fiscal year that is less than 90 percent of the average allocation percentage of the local area for the 2 preceding fiscal years. Amounts necessary for increasing such allocations to local areas to comply with the preceding sentence shall be obtained by ratably reducing the allocations to be made to other local areas under this subparagraph.
 
 #### (iii) Definition
 
@@ -114,7 +114,7 @@
 
 #### (3) Reallocation
 
-&emsp;In making reallocations to eligible local areas of amounts available pursuant to paragraph (2) for a program year, the Governor shall allocate to each eligible local area within the State an amount based on the relative amount allocated to such local area under subsection (b)(3) of this section for such activities for the prior program year, as compared to the total amount allocated to all eligible local areas in the State under subsection (b)(3) of this section for such activities for such prior program year. For purposes of this paragraph, local areas that received allocations under subsection (b)(2)(A) of this section for the prior program year shall be treated as if the local areas received allocations under subsection (b)(3) of this section for such year.
+&emsp;In making reallocations to eligible local areas of amounts available pursuant to paragraph (2) for a program year, the Governor shall allocate to each eligible local area within the State an amount based on the relative amount allocated to such local area under subsection (b)(3) of this section for such activities for the prior program year, as compared to the total amount allocated to all eligible local areas in the State under subsection (b)(3) of this section for such activities for such prior program year. For purposes of this paragraph, local areas that received allocations under subsection (b)(2)(A) of this section for theprior program year shall be treated as if the local areas received allocations under subsection (b)(3) of this section for such year.
 
 #### (4) Eligibility
 

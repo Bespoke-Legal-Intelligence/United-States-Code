@@ -42,15 +42,15 @@ A prior section 2113 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1990—Subsec. (c). Pub. L. 101–502 inserted “the” after “special masters of”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–502 inserted “the” after “special masters of”.
 
-1989—Subsecs. (a)(1), (b). Pub. L. 101–239, §6601(j)(1), substituted “special master or court” for “court” wherever appearing.
+<b>1989</b>—Subsecs. (a)(1), (b). Pub. L. 101–239, §6601(j)(1), substituted “special master or court” for “court” wherever appearing.
 
 Subsec. (c). Pub. L. 101–239, §6601(j)(2), inserted “special masters of” after “established by the”.
 
-1987—Subsec. (c). Pub. L. 100–203 substituted “the United States Claims Court” for “a district court of the United States”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–203 substituted “the United States Claims Court” for “a district court of the United States”.
 
 #### Effective Date of 1992 Amendment
 

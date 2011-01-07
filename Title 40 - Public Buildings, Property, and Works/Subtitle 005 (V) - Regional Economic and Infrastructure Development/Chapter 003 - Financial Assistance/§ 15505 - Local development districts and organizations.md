@@ -26,7 +26,7 @@ Duties of Local Development Districts.—A local development district shall—
 
 &emsp;(1) operate as a lead organization serving multicounty areas in the region at the local level;
 
-&emsp;(2) assist the Commission in carrying out outreach activities for local governments, community development groups, the business community, and the public;
+&emsp;(2) assist the Commission in carrying out outreach activities for local governments,community development groups, the business community, and the public;
 
 &emsp;(3) serve as a liaison between State and local governments, nonprofit organizations (including community-based groups and educational institutions), the business community, and citizens; and
 

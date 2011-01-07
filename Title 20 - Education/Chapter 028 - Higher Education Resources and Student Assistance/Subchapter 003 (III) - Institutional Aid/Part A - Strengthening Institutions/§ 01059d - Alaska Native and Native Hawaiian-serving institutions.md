@@ -84,13 +84,13 @@ For the purpose of this section—
 
 #### Amendments
 
-2008—Subsec. (c)(2)(I). Pub. L. 110–315 added subpar. (I).
+<b>2008</b>—Subsec. (c)(2)(I). Pub. L. 110–315 added subpar. (I).
 
-2002—Subsec. (b)(1). Pub. L. 107–110, §702(a)(1), substituted “section 7546” for “section 7938”.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–110, §702(a)(1), substituted “section 7546” for “section 7938”.
 
 Subsec. (b)(3). Pub. L. 107–110, §702(a)(2), substituted “section 7517” for “section 7912”.
 
-2000—Subsec. (d)(2). Pub. L. 106–211, §1(a), inserted after first sentence “The Secretary shall, to the extent possible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section.”
+<b>2000</b>—Subsec. (d)(2). Pub. L. 106–211, §1(a), inserted after first sentence “The Secretary shall, to the extent possible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section.”
 
 Subsec. (d)(3). Pub. L. 106–211, §1(b)(2), added par. (3).
 
@@ -102,5 +102,5 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 #### Effective Date
 
-Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244,set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
+Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
 

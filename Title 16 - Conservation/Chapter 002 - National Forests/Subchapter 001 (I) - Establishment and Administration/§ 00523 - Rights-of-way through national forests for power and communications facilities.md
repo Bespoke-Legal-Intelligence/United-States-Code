@@ -16,7 +16,7 @@ Section, insofar as it relates to rights-of-way in national parks, military, and
 
 #### Amendments
 
-1952—Act May 27, 1952, inserted reference to rights-of-way for radio, television, and other forms of communication, and increased from 40 feet to 400 feet the maximum width of rights-of-way for lines and poles.
+<b>1952</b>—Act May 27, 1952, inserted reference to rights-of-way for radio, television, and other forms of communication, and increased from 40 feet to 400 feet the maximum width of rights-of-way for lines and poles.
 
 #### Savings Provision
 

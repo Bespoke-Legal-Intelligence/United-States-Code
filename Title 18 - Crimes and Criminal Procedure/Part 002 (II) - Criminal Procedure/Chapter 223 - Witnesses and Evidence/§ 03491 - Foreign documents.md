@@ -1,6 +1,6 @@
 ### §3491. Foreign documents
 
-Any book, paper, statement, record, account, writing, or other document, or any portion thereof, of whatever character and in whatever form, as well as any copy thereof equally with the original, which is not in the United States shall, when duly certified as provided in section 3494 of this title, be admissible in evidence in any criminal action or proceeding in any court of the United States if the court shall find, from all the testimony taken with respect to such foreign document pursuant to a commission executed under section 3492 of this title, that such document (or the original thereof in case such document is a copy) satisfies the authentication requirements of the Federal Rules of Evidence, unless in the event that the genuineness of such document is denied, any party to such criminal action or proceeding making such denial shall establish to the satisfaction of the court that such document is not genuine. Nothing contained herein shall be deemed to require authentication under the provisions of section 3494 of this title of any such foreign documents which may otherwise be properly authenticated by law.
+Any book, paper, statement, record, account, writing, or other document, or any portion thereof, of whatever character and in whatever form, as well as any copy thereof equally with the original, which is not in the United States shall, when duly certified as provided in section 3494 of this title, be admissible in evidence in any criminal action or proceeding in any court of the United States if the court shall find, from all the testimony taken with respect to such foreign document pursuant to a commission executed under section 3492 of this title, that such document (or the original thereof in case such document is a copy) satisfies the authentication requirements of the Federal Rules of Evidence, unless in the event that the genuineness of such document is denied, any party to such criminal action or proceeding making such denial shall establish to the satisfaction of the court that such document is not genuine. Nothing contained herein shall be deemed to require authentication under the provisions of section 3494 of this title of any such foreign documents whichmay otherwise be properly authenticated by law.
 
 (June 25, 1948, ch. 645, 62 Stat. 834; May 24, 1949, ch. 139, §52, 63 Stat. 96; Pub. L. 88–619, §2, Oct. 3, 1964, 78 Stat. 995; Pub. L. 94–149, §3, Dec. 12, 1975, 89 Stat. 806.)
 
@@ -20,9 +20,9 @@ The Federal Rules of Evidence, referred to in text, are set out in the Appendix 
 
 #### Amendments
 
-1975—Pub. L. 94–149 substituted “the authentication requirements of the Federal Rules of Evidence” for “the requirements of section 1732 of Title 28”.
+<b>1975</b>—Pub. L. 94–149 substituted “the authentication requirements of the Federal Rules of Evidence” for “the requirements of section 1732 of Title 28”.
 
-1964—Pub. L. 88–619 struck out “and section 1741 of Title 28” after “section 3494 of this title” in two places.
+<b>1964</b>—Pub. L. 88–619 struck out “and section 1741 of Title 28” after “section 3494 of this title” in two places.
 
-1949—Act May 24, 1949, substituted “section 1741” for “section 695e” and “section 1732” for “section 695” wherever appearing.
+<b>1949</b>—Act May 24, 1949, substituted “section 1741” for “section 695e” and “section 1732” for “section 695” wherever appearing.
 

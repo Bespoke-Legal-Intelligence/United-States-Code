@@ -78,33 +78,33 @@ For provisions relating to the cross-program recovery of overpayments made under
 
 #### Amendments
 
-2009—Subsec. (a)(1)(B). Pub. L. 111–115 designated existing provisions as cl. (i), substituted “Subject to clause (ii), with” for “With”, and added cls. (ii) and (iii).
+<b>2009</b>—Subsec. (a)(1)(B). Pub. L. 111–115 designated existing provisions as cl. (i), substituted “Subject to clause (ii), with” for “With”, and added cls. (ii) and (iii).
 
-2004—Subsec. (g). Pub. L. 108–203 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “For payments which are adjusted or withheld to recover an overpayment of supplemental security income benefits paid under subchapter XVI of this chapter (including State supplementary payments paid under an agreement pursuant to section 1382e(a) of this title or section 212(b) of Public Law 93–66), see section 1320b–17 of this title.”
+<b>2004</b>—Subsec. (g). Pub. L. 108–203 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “For payments which are adjusted or withheld to recover an overpayment of supplemental security income benefits paid under subchapter XVI of this chapter (including State supplementary payments paid under an agreement pursuant to section 1382e(a) of this title or section 212(b) of Public Law 93–66), see section 1320b–17 of this title.”
 
-1999—Subsec. (a)(2). Pub. L. 106–169, §201(a), inserted at end “If any payment of more than the correct amount is made to a representative payee on behalf of an individual after the individual's death, the representative payee shall be liable for the repayment of the overpayment, and the Commissioner of Social Security shall establish an overpayment control record under the social security account number of the representative payee.”
+<b>1999</b>—Subsec. (a)(2). Pub. L. 106–169, §201(a), inserted at end “If any payment of more than the correct amount is made to a representative payee on behalf of an individual after the individual's death, the representative payee shall be liable for the repayment of the overpayment, and the Commissioner of Social Security shall establish an overpayment control record under the social security account number of the representative payee.”
 
 Subsec. (f)(1). Pub. L. 106–169, §203(c), substituted “3711(f)” for “3711(e)” and inserted “all” before “as in effect”.
 
-1998—Subsec. (g). Pub. L. 105–306 added subsec. (g).
+<b>1998</b>—Subsec. (g). Pub. L. 105–306 added subsec. (g).
 
-1996—Subsec. (f). Pub. L. 104–134, which directed that subsec. (f) be amended to read as follows: “(f)(1) With respect to any deliquent amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, 3717, and 3718 of title 31 and in section 5514 of title 5, as in effect immediately after April 26, 1996.”, was executed by substituting the new language for par. (1) only to reflect the probable intent of Congress. Prior to amendment, par. (1) read asfollows: “With respect to any delinquent amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, and 3718 of title 31 as in effect on October 1, 1994.”
+<b>1996</b>—Subsec. (f). Pub. L. 104–134, which directed that subsec. (f) be amended to read as follows: “(f)(1) With respect to any deliquent amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, 3717, and 3718 of title 31 and in section 5514 of title 5, as in effect immediately after April 26, 1996.”, was executed by substituting the new language for par. (1) only to reflect the probable intent of Congress. Prior to amendment, par. (1) read asfollows: “With respect to any delinquent amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, and 3718 of title 31 as in effect on October 1, 1994.”
 
 Subsec. (f)(1). Pub. L. 104–316 substituted “sections 3711(e)” for “sections 3711(f)”.
 
-1994—Subsecs. (a)(1), (b), (d)(1), (4), (5). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+<b>1994</b>—Subsecs. (a)(1), (b), (d)(1), (4), (5). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
 Subsec. (f). Pub. L. 103–387 added subsec. (f).
 
-1990—Subsec. (a)(1)(A). Pub. L. 101–508 inserted “or shall obtain recovery by means of reduction in tax refunds based on notice to the Secretary of the Treasury as permitted under section 3720A of title 31,” after “payments to such overpaid person,”.
+<b>1990</b>—Subsec. (a)(1)(A). Pub. L. 101–508 inserted “or shall obtain recovery by means of reduction in tax refunds based on notice to the Secretary of the Treasury as permitted under section 3720A of title 31,” after “payments to such overpaid person,”.
 
-1989—Subsec. (b). Pub. L. 101–239 inserted at end “In making for purposes of this subsection any determination of whether any individual is without fault, the Secretary shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language).”
+<b>1989</b>—Subsec. (b). Pub. L. 101–239 inserted at end “In making for purposes of this subsection any determination of whether any individual is without fault, the Secretary shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language).”
 
-1986—Subsec. (a). Pub. L. 99–272 redesignated existing subsec. (a) as (a)(1) and pars. (1) and (2) thereof as subpars. (A) and (B), respectively, and added par. (2).
+<b>1986</b>—Subsec. (a). Pub. L. 99–272 redesignated existing subsec. (a) as (a)(1) and pars. (1) and (2) thereof as subpars. (A) and (B), respectively, and added par. (2).
 
-1980—Subsec. (e). Pub. L. 96–265 added subsec. (e).
+<b>1980</b>—Subsec. (e). Pub. L. 96–265 added subsec. (e).
 
-1968—Subsec. (a). Pub. L. 90–248, §152(a), incorporated in text preceding par. (1) part of existing provisions and broadened the Secretary's authority to include recovery of overpayments.
+<b>1968</b>—Subsec. (a). Pub. L. 90–248, §152(a), incorporated in text preceding par. (1) part of existing provisions and broadened the Secretary's authority to include recovery of overpayments.
 
 Subsec. (a)(1). Pub. L. 90–248, §153(a), inserted last sentence which provided that payments made on an erroneous report by the Defense Department of the death, in the line of duty, of a member of the uniformed services on active duty are not to be deemed incorrect payments until the Department notifies the Secretary that he is alive.
 
@@ -114,13 +114,13 @@ Subsec. (b). Pub. L. 90–248, §152(b), authorized the Secretary to waive adjus
 
 Subsec. (d). Pub. L. 90–248, §154(a), struck out, in text preceding par. (1), provision excepting subsec. (d) from subsec. (a) and provision that the total amount due at the time of death may not exceed the amount of the monthly insurance benefit to which an individual was entitled for the month preceding the month in which he died, added cl. (ii) in par. (1), added pars. (2) to (6), designated existing provisions as par. (7) and inserted therein references to pars. (1) to (6).
 
-1965—Subsec. (d). Pub. L. 89–97 added subsec. (d).
+<b>1965</b>—Subsec. (d). Pub. L. 89–97 added subsec. (d).
 
-1954—Subsec. (a). Act Sept. 1, 1954, inserted “and self-employment income” after “wages” in second sentence.
+<b>1954</b>—Subsec. (a). Act Sept. 1, 1954, inserted “and self-employment income” after “wages” in second sentence.
 
-1950—Act Aug. 28, 1950, substituted “Administrator” for “board”.
+<b>1950</b>—Act Aug. 28, 1950, substituted “Administrator” for “board”.
 
-1939—Act Aug. 10, 1939, omitted former provisions relating to payments to aged individuals not qualified for benefits and substituted the present section relating to overpayments and underpayments.
+<b>1939</b>—Act Aug. 10, 1939, omitted former provisions relating to payments to aged individuals not qualified for benefits and substituted the present section relating to overpayments and underpayments.
 
 #### Effective Date of 2009 Amendment
 

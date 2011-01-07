@@ -6,7 +6,7 @@ The provisions of subsections (d) and (e) of section 405 of this title shall app
 
 #### Amendments
 
-1994—Pub. L. 103–296 inserted before period at end “, except that, in so applying such subsections, and in applying section 405(<i>l</i>) of this title thereto, with respect to this subchapter, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively”.
+<b>1994</b>—Pub. L. 103–296 inserted before period at end “, except that, in so applying such subsections, and in applying section 405(<i>l</i>) of this title thereto, with respect to this subchapter, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively”.
 
 #### Effective Date of 1994 Amendment
 

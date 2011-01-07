@@ -36,8 +36,6 @@ The personnel and administration committee shall ensure that the professional st
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (c), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 Section 3304(c)(1) of title 5, referred to in subsec. (e)(2), probably means section 3304(c)(1) of title 5 prior to amendment by Pub. L. 104–65, §16(a), (b), Dec. 19, 1995, 109 Stat. 703, which struck out section 3304(c) of title 5 and redesignated section 3304(d) of title 5 as 3304(c). Prior to amendment section 3304(c)(1) related to acquisition of competitive status by an individual who served for at least 3 years in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Clerk of the House of Representatives.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>

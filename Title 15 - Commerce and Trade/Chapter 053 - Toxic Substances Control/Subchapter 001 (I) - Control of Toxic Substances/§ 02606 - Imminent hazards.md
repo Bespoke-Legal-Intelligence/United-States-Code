@@ -48,7 +48,7 @@ For the purposes of subsection (a) of this section, the term “imminently hazar
 
 #### Amendments
 
-1992—Subsec. (a)(1). Pub. L. 102–550 substituted “section 2603 of this title, 2604 of this title, 2605 of this title, or subchapter IV of this chapter” for “section 2603, 2604, or 2605 of this title” in last sentence.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–550 substituted “section 2603 of this title, 2604 of this title, 2605 of this title, or subchapter IV of this chapter” for “section 2603, 2604, or 2605 of this title” in last sentence.
 
 Pub. L. 102–550, which directed the insertion of “or subchapter IV of this chapter” after “2604”, was executed by making the insertion after “2604” the second time appearing in last sentence, to reflect the probable intent of Congress.
 

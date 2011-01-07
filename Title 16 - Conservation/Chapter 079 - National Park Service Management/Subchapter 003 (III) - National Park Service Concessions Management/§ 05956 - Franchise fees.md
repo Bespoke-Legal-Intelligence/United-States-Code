@@ -10,7 +10,7 @@ The amount of the franchise fee or other monetary consideration paid to the Unit
 
 #### (c) Special account
 
-All franchise fees (and other monetary consideration) paid to the United States pursuant to concessions contracts shall be deposited into a special account established in the Treasury of the United States. Twenty percent of the funds deposited in the special account shall be available for expenditure by the Secretary, without further appropriation, to support activities throughout the National Park System regardless of the unit of the National Park System inwhich the funds were collected. The funds deposited into the special account shall remain available until expended.
+All franchise fees (and other monetary consideration) paid to the United States pursuant to concessions contracts shall be deposited into a special account established in the Treasury of the United States. Twenty percent of the funds deposited in the special account shall be available for expenditure by the Secretary, without further appropriation, to support activities throughout the National Park System regardless of the unit of the National Park System in which the funds were collected. The funds deposited into the special account shall remain available until expended.
 
 #### (d) Subaccount for each unit
 

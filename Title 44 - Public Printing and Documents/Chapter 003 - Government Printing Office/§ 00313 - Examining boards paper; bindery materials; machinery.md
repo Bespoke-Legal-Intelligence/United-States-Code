@@ -1,6 +1,6 @@
 ### §313. Examining boards: paper; bindery materials; machinery
 
-The Deputy Public Printer, the superintendent of printing, and a person designated by the JointCommittee on Printing, shall constitute a board to examine and report in writing on paper delivered under contract, or by purchase or otherwise, at the Government Printing Office.
+The Deputy Public Printer, the superintendent of printing, and a person designated by the Joint Committee on Printing, shall constitute a board to examine and report in writing on paper delivered under contract, or by purchase or otherwise, at the Government Printing Office.
 
 The Deputy Public Printer, the superintendent of binding, and a person designated by the Joint Committee on Printing shall constitute a board to examine and report in writing on material, except paper, for the use of the bindery.
 

@@ -36,7 +36,7 @@ A prior section 402 of Pub. L. 93–288 was classified to section 5172 of this t
 
 #### Amendments
 
-2006—Par. (1). Pub. L. 109–295, §681(a)(1), substituted “response or recovery efforts, including precautionary evacuations” for “efforts”.
+<b>2006</b>—Par. (1). Pub. L. 109–295, §681(a)(1), substituted “response or recovery efforts, including precautionary evacuations” for “efforts”.
 
 Par. (2). Pub. L. 109–295, §681(a)(2), substituted “, including precautionary evacuations and recovery;” for semicolon at end.
 

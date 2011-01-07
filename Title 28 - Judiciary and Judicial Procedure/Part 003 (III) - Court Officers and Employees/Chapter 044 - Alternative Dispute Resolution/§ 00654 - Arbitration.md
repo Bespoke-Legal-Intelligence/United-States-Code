@@ -34,7 +34,7 @@ Title IX of the Judicial Improvements and Access to Justice Act (Public Law 100�
 
 #### Amendments
 
-1998—Pub. L. 105–315 amended section generally, substituting provisions relating to arbitration for provisions relating to arbitration award and judgment.
+<b>1998</b>—Pub. L. 105–315 amended section generally, substituting provisions relating to arbitration for provisions relating to arbitration award and judgment.
 
 <i><sup>1</sup></i><i> So in original. The word “section” probably should not appear.</i>
 

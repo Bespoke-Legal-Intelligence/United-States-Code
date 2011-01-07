@@ -12,9 +12,9 @@ The park shall consist of approximately 1015 acres of lands, waters, and interes
 
 #### References in Text
 
-This subchapter, referred to in subsec. (a), was in the original “this Act” and was translated as reading “this title”, meaning title I of Pub. L. 102–247, known as the Salt River Bay National Historical Park and Ecological Preserve at St. Croix, Virgin Islands, Act of 1992, to reflect the probable intent of Congress.
+This subchapter, referred to in subsec. (a), was in the original “this Act” and was translated as reading “thistitle”, meaning title I of Pub. L. 102–247, known as the Salt River Bay National Historical Park and Ecological Preserve at St. Croix, Virgin Islands, Act of 1992, to reflect the probable intent of Congress.
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–329 amended first sentence generally. Prior to amendment, first sentence read as follows: “The park shall consist of approximately 912 acres of land, waters, submerged lands, and interests therein within the area generally depicted on the map entitled ‘Salt River Study Area—Alternative “C” ’ in the ‘Alternatives Study and Environmental Assessment for the Columbus Landing Site, St. Croix, U.S. Virgin Islands’, prepared by the National Park Service and dated June 1990.”
+<b>2002</b>—Subsec. (b). Pub. L. 107–329 amended first sentence generally. Prior to amendment, first sentence read as follows: “The park shall consist of approximately 912 acres of land, waters, submerged lands, and interests therein within the area generally depicted on the map entitled ‘Salt River Study Area—Alternative “C” ’ in the ‘Alternatives Study and Environmental Assessment for the Columbus Landing Site, St. Croix, U.S. Virgin Islands’, prepared by the National Park Service and dated June 1990.”
 

@@ -156,7 +156,7 @@ Steward's department.—The term “steward's department” means the department
 
 Large passenger vessel.—The term “large passenger vessel” means a vessel of more than 70,000 gross tons, as measured under section 14302 of this title, with capacity for at least 2,000 passengers and documented with a coastwise endorsement under chapter 121 of this title.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 548; Pub. L. 100–239, §§5(a)(1), (2), (b)–(d)(1), Jan. 11, 1988, 101 Stat. 1780; Pub. L. 100–255, Mar. 4, 1988, 102 Stat. 23; Pub. L. 101–595, title VI, §603(6), title VII, §711, Nov. 16, 1990, 104 Stat. 2993, 2997; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title VII, §727, title XI, §1123, Oct. 19, 1996, 110 Stat. 3939, 3980; Pub. L. 108–293, title IV, §412, Aug. 9, 2004, 118 Stat. 1046; Pub. L. 109–163, div. A, title V, §515(f)(3)(A), (B), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–241, title III, §312(c)(1), July 11, 2006, 120 Stat. 533; Pub. L. 109–304, §15(22), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 109–364, div. C, title XXXV, §3509, Oct. 17, 2006,120 Stat. 2518; Pub. L. 110–181, div. C, title XXXV, §3529(d), Jan. 28, 2008, 122 Stat. 604.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 548; Pub. L. 100–239, §§5(a)(1), (2), (b)–(d)(1), Jan. 11, 1988, 101 Stat. 1780; Pub. L. 100–255, Mar. 4, 1988, 102 Stat. 23; Pub. L. 101–595, title VI, §603(6), title VII, §711, Nov. 16, 1990, 104 Stat. 2993, 2997; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title VII, §727, title XI, §1123, Oct. 19, 1996, 110 Stat. 3939, 3980; Pub. L. 108–293, title IV, §412, Aug. 9, 2004, 118 Stat. 1046; Pub. L. 109–163, div. A, title V, §515(f)(3)(A), (B), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–241, title III, §312(c)(1), July 11, 2006, 120 Stat. 533; Pub. L. 109–304, §15(22), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 109–364, div. C, title XXXV, §3509, Oct. 17, 2006, 120 Stat. 2518; Pub. L. 110–181, div. C, title XXXV, §3529(d), Jan. 28, 2008, 122 Stat. 604.)
 
 Historical and Revision Notes
 
@@ -200,9 +200,9 @@ The Immigration and Nationality Act, referred to in subsecs. (i)(1)(C) and (k)(1
 
 #### Amendments
 
-2008—Subsec. (k)(3)(C)(iv). Pub. L. 110–181 inserted “and section 252 of the Immigration and Nationality Act (8 U.S.C. 1282)” after “limitations of such section”.
+<b>2008</b>—Subsec. (k)(3)(C)(iv). Pub. L. 110–181 inserted “and section 252 of the Immigration and Nationality Act (8 U.S.C. 1282)” after “limitations of such section”.
 
-2006—Pub. L. 109–163, §515(f)(3)(B), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
+<b>2006</b>—Pub. L. 109–163, §515(f)(3)(B), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
 
 Subsec. (a). Pub. L. 109–304 substituted “Except as otherwise provided in this title, only” for “Only”.
 
@@ -212,9 +212,9 @@ Subsec. (j). Pub. L. 109–241 added subsec. (j).
 
 Subsec. (k). Pub. L. 109–364 added subsec. (k).
 
-2004—Subsec. (b)(1)(A). Pub. L. 108–293 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “each unlicensed seaman must be a citizen of the United States or an alien lawfully admitted to the United States for permanent residence; and”.
+<b>2004</b>—Subsec. (b)(1)(A). Pub. L. 108–293 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “each unlicensed seaman must be a citizen of the United States or an alien lawfully admitted to the United States for permanent residence; and”.
 
-1996—Subsec. (b)(2)(B). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+<b>1996</b>—Subsec. (b)(2)(B). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
 Subsec. (b)(3)(A). Pub. L. 104–324, §727, inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “1,600 gross tons”.
 
@@ -222,9 +222,9 @@ Subsec. (i)(1)(D). Pub. L. 104–324, §1123, added subpar. (D).
 
 Subsec. (i)(3). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
-1990—Subsec. (i)(3)(C). Pub. L. 101–595, §§603(6) and 711, amended subpar. (C) identically, substituting “Nationality” for “Naturalization”.
+<b>1990</b>—Subsec. (i)(3)(C). Pub. L. 101–595, §§603(6) and 711, amended subpar. (C) identically, substituting “Nationality” for “Naturalization”.
 
-1988—Subsec. (a). Pub. L. 100–239, §5(a)(1), inserted “radio officer,” after “chief engineer,”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–239, §5(a)(1), inserted “radio officer,” after “chief engineer,”.
 
 Subsec. (b). Pub. L. 100–255 substituted “section,” for “subsection,” in par. (3).
 
@@ -248,7 +248,7 @@ Pub. L. 100–239, 5(d)(2), Jan. 11, 1988, 101 Stat. 1781, provided that: “Thi
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Application of Section to Fishing Vessels in California
 

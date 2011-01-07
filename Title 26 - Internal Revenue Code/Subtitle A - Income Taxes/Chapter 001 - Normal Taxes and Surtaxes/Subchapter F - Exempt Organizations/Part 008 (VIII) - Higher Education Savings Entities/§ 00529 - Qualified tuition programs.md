@@ -266,19 +266,19 @@ The Higher Education Act of 1965, referred to in subsec. (e)(5), is Pub. L. 89�
 
 #### Amendments
 
-2009—Subsec. (e)(3)(A). Pub. L. 111–5 added cl. (iii) and concluding provisions.
+<b>2009</b>—Subsec. (e)(3)(A). Pub. L. 111–5 added cl. (iii) and concluding provisions.
 
-2006—Subsec. (f). Pub. L. 109–280, which directed the addition of subsec. (f) to section 529, without specifying the act to be amended, was executed by making the addition to this section, which is section 529 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+<b>2006</b>—Subsec. (f). Pub. L. 109–280, which directed the addition of subsec. (f) to section 529, without specifying the act to be amended, was executed by making the addition to this section, which is section 529 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
-2005—Subsec. (c)(6). Pub. L. 109–135 substituted “Coverdell education savings account” for “education individual retirement account”.
+<b>2005</b>—Subsec. (c)(6). Pub. L. 109–135 substituted “Coverdell education savings account” for “education individual retirement account”.
 
-2004—Subsec. (c)(5)(B). Pub. L. 108–311, §406(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The taxes imposed by chapters 12 and 13 shall apply to a transfer by reason of a change in the designated beneficiary under the program (or a rollover to the account of a new beneficiary) only if the new beneficiary is a generation below the generation of the old beneficiary (determined in accordance with section 2651).”
+<b>2004</b>—Subsec. (c)(5)(B). Pub. L. 108–311, §406(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The taxes imposed by chapters 12 and 13 shall apply to a transfer by reason of a change in the designated beneficiary under the program (or a rollover to the account of a new beneficiary) only if the new beneficiary is a generation below the generation of the old beneficiary (determined in accordance with section 2651).”
 
 Subsec. (e)(2)(B). Pub. L. 108–311, §207(21), substituted “subparagraphs (A) through (G) of section 152(d)(2)” for “paragraphs (1) through (8) of section 152(a)”.
 
-2002—Subsec. (e)(3)(B)(i). Pub. L. 107–147 substituted “subsection (b)(6)” for “subsection (b)(7)”.
+<b>2002</b>—Subsec. (e)(3)(B)(i). Pub. L. 107–147 substituted “subsection (b)(6)” for “subsection (b)(7)”.
 
-2001—Pub. L. 107–16, §402(a)(4)(D), struck out “State” before “tuition” in section catchline.
+<b>2001</b>—Pub. L. 107–16, §402(a)(4)(D), struck out “State” before “tuition” in section catchline.
 
 Subsec. (a). Pub. L. 107–16, §402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
 
@@ -336,9 +336,9 @@ Subsec. (e)(3)(B)(ii). Pub. L. 107–16, §402(e), reenacted heading without cha
 
 Subsec. (e)(4). Pub. L. 107–16, §402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
 
-2000—Subsec. (e)(3)(B). Pub. L. 106–554 struck out “under guaranteed plans” after “students” in heading.
+<b>2000</b>—Subsec. (e)(3)(B). Pub. L. 106–554 struck out “under guaranteed plans” after “students” in heading.
 
-1998—Subsec. (c)(3)(A). Pub. L. 105–206, §6004(c)(2), substituted “section 72” for “section 72(b)”.
+<b>1998</b>—Subsec. (c)(3)(A). Pub. L. 105–206, §6004(c)(2), substituted “section 72” for “section 72(b)”.
 
 Subsec. (e)(2). Pub. L. 105–206, §6004(c)(3), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘member of the family’ means—
 
@@ -346,7 +346,7 @@ Subsec. (e)(2). Pub. L. 105–206, §6004(c)(3), reenacted heading without chang
 
 &emsp;“(B) the spouse of any individual described in subparagraph (A).”
 
-1997—Subsec. (b)(5). Pub. L. 105–34, §211(b)(4), inserted “directly or indirectly” after “may not”.
+<b>1997</b>—Subsec. (b)(5). Pub. L. 105–34, §211(b)(4), inserted “directly or indirectly” after “may not”.
 
 Subsec. (c)(2). Pub. L. 105–34, §211(b)(3)(A)(i), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In no event shall a contribution to a qualified State tuition program on behalf of a designated beneficiary be treated as a taxable gift for purposes of chapter 12.”
 
@@ -438,7 +438,7 @@ Estate tax changes.—Paragraph (4) of such section 529(c) shall apply to estate
 
 Transition rule for pre-august 20, 1996 contracts.—In the case of any contract issued prior to August 20, 1996, section 529(c)(3)(C) of the Internal Revenue Code of 1986 shall be applied for taxable years ending after August 20, 1996, without regard to the requirement that a distribution be transferred to a member of the family or the requirement that a change in beneficiaries may be made only to a member of the family.”
 
-Amendment by section 1601(h)(1)(A), (B) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by section 1601(h)(1)(A), (B) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
 
 #### Effective Date
 

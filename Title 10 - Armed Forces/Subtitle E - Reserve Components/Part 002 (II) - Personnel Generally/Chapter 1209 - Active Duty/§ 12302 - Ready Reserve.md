@@ -62,25 +62,25 @@ Act
 
 Aug. 9, 1955, ch. 665, §2(f), 69 Stat. 599.
 
-In subsection (c), the words “on active duty (other than for training)” are substituted for the words “may be required to perform active duty” for clarity. The words “without their consent” are substituted for the word “involuntarily”. The words “of all reserve components” and “unless the Congress shall have authorized the exercise of the authority contained in this subsection” are omitted as surplusage.
+In subsection (c), the words “on active duty (other than for training)” are substituted for the words “maybe required to perform active duty” for clarity. The words “without their consent” are substituted for the word “involuntarily”. The words “of all reserve components” and “unless the Congress shall have authorized the exercise of the authority contained in this subsection” are omitted as surplusage.
 
 The changes are necessary to reflect section 101(b) of the Armed Forces Reserve Act of 1952 (50 U.S.C. 901(b)), which defines the term “active duty” to exclude active duty for training. This definition applied to the source law for these sections \[sections 672 and 673\], section 233(a), (b)(1), and (c) of the Armed Forces Reserve Act of 1952 (50 U.S.C. 961(a), (b)(1), (c)).
 
 #### Amendments
 
-2004—Subsecs. (a), (c). Pub. L. 108–375 struck out “(other than for training)” after “active duty”.
+<b>2004</b>—Subsecs. (a), (c). Pub. L. 108–375 struck out “(other than for training)” after “active duty”.
 
-2003—Subsec. (d). Pub. L. 108–136 struck out subsec. (d) which read as follows: “Whenever one or more units of the Ready Reserve are ordered to active duty, the President shall, on the first day of the second fiscal year quarter immediately following the quarter in which the first unit or units are ordered to active duty and on the first day of each succeeding six-month period thereafter, so long as such unit is retained on active duty, submit a report to the Congress regarding the necessity for such unit or units being ordered to and retained on active duty. The President shall include in each such report a statement of the mission of each such unit ordered to active duty, an evaluation of such unit's performance of that mission, where each such unit is being deployed at the time of the report, and such other information regarding each unit as the President deems appropriate.”
+<b>2003</b>—Subsec. (d). Pub. L. 108–136 struck out subsec. (d) which read as follows: “Whenever one or more units of the Ready Reserve are ordered to active duty, the President shall, on the first day of the second fiscal year quarter immediately following the quarter in which the first unit or units are ordered to active duty and on the first day of each succeeding six-month period thereafter, so long as such unit is retained on active duty, submit a report to the Congress regarding the necessity for such unit or units being ordered to and retained on active duty. The President shall include in each such report a statement of the mission of each such unit ordered to active duty, an evaluation of such unit's performance of that mission, where each such unit is being deployed at the time of the report, and such other information regarding each unit as the President deems appropriate.”
 
-1999—Subsec. (b). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in concluding provisions.
+<b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in concluding provisions.
 
-1996—Subsec. (b). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
 
-1994—Pub. L. 103–337 renumbered section 673 of this title as this section.
+<b>1994</b>—Pub. L. 103–337 renumbered section 673 of this title as this section.
 
-1973—Subsec. (d). Pub. L. 93–155 added subsec. (d).
+<b>1973</b>—Subsec. (d). Pub. L. 93–155 added subsec. (d).
 
-1958—Subsec. (a). Pub. L. 85–861, §§1(14)(A), 33(a)(5), inserted “(other than for training)” after “active duty”, and struck out provisions that made subsection inapplicable unless Congress determined how many members of the reserve components were necessary, in the interest of national security, to be ordered to active duty.
+<b>1958</b>—Subsec. (a). Pub. L. 85–861, §§1(14)(A), 33(a)(5), inserted “(other than for training)” after “active duty”, and struck out provisions that made subsection inapplicable unless Congress determined how many members of the reserve components were necessary, in the interest of national security, to be ordered to active duty.
 
 Subsec. (c). Pub. L. 85–861, §1(14)(B), added subsec. (c).
 
@@ -110,11 +110,11 @@ Sec. 3. To allow for the orderly administration of personnel within the armed fo
 
 Sec. 4. The Secretary of Defense is hereby designated and empowered, without the approval, ratification, or other action by the President, to exercise the authority vested in the President by sections 123, 123a, 527, and 12006 of title 10, United States Code, as invoked by sections 2 and 3 of this order.
 
-Sec. 5. The Secretary of Homeland Security is hereby designated and empowered, without the approval, ratification, or other action by the President, to exercise the authority vested in sections 331, 359, and 367 of title 14, United States Code, when the Coast Guard is not serving as part of the Navy, as invoked by section 2 of this order, to recall any regular officer or enlisted member on the retired list to active duty and to detain any enlisted member beyond the term of his or her enlistment. The Secretary of Homeland Security is further designated and empowered, without the approval, ratification or any other action by the President, to exercise the authority vested in the President by sections 123 and 123a of title 10, United States Code, and sections 149 (detail members to assist foreign governments), 275(a) (suspension of provisions on selection, promotion, or involuntary separation of officers), and 722 (administration of reserve forces) of title 14, United States Code, as invoked by section 2 of Executive Order 13223.
+Sec. 5. The Secretary of Homeland Security is hereby designated and empowered, without the approval, ratification, or other action by the President, to exercise the authority vested in sections 331, 359, and 367 of title 14, United States Code, when the Coast Guard is not serving as part of the Navy, as invoked by section 2 of this order, to recall any regular officer or enlisted member on the retired list to active duty and to detain any enlisted member beyond the term of his or her enlistment. The Secretary of Homeland Security is further designated and empowered, without the approval,ratification or any other action by the President, to exercise the authority vested in the President by sections 123 and 123a of title 10, United States Code, and sections 149 (detail members to assist foreign governments), 275(a) (suspension of provisions on selection, promotion, or involuntary separation of officers), and 722 (administration of reserve forces) of title 14, United States Code, as invoked by section 2 of Executive Order 13223.
 
 Sec. 6. The authority delegated by this order to the Secretary of Defense and the Secretary of Homeland Security may be redelegated and further subdelegated to civilian subordinates who are appointed to their offices by the President, by and with the advice and consent of the Senate.
 
-Sec. 7. Based upon my determination under 10 U.S.C. 2201(c) that it is necessary to increase (subject to limits imposed by law) the number of members of the armed forces on active duty for the Department of Defense beyond the number for which funds are provided in the appropriation Act for the Department of Defense, which, by virtue of 14 U.S.C. 652, applies to the Department of Homeland Security with respect to the Coast Guard, the Secretary of Defense and the Secretary of Homeland Security may provide for the cost of such additional members under their respective jurisdictions as an excepted expense under section 11(a) of title 41, United States Code.
+Sec. 7. Based upon my determination under 10 U.S.C. 2201(c) that it is necessary to increase (subject to limits imposed by law) the number of members of the armed forces on active duty for the Department of Defense beyond the number for which funds are provided in the appropriation Act for the Department of Defense, which, by virtue of 14 U.S.C. 652, applies to the Department of Homeland Security with respect to the Coast Guard, the Secretary of Defense and the Secretary of Homeland Security may provide for the cost of such additional members under their respective jurisdictions as an excepted expense under \[former\] section 11(a) of title 41, United States Code \[see 41 U.S.C. 6301(a), (b)\].
 
 Sec. 8. This order is intended only to improve the internal management of the executive branch, and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 

@@ -1,5 +1,5 @@
 
-11 U.S.C.<br>United States Code, 2009 Edition<br>Title 11 - BANKRUPTCY<br>From the U.S. Government Publishing Office, www.gpo.gov
+11 U.S.C.<br>United States Code, 2010 Edition<br>Title 11 - BANKRUPTCY<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 11—BANKRUPTCY
 
@@ -2702,7 +2702,7 @@ Rep.
 
 Rep.
 
-Table IIs<br>This Table lists the sections of revised Title 11,<br>Bankruptcy, and indicates the sections of former<br>Title 11, which covered similar and related subject<br>matter.
+Table II<br>This Table lists the sections of revised Title 11,<br>Bankruptcy, and indicates the sections of former<br>Title 11, which covered similar and related subject<br>matter.
 
 <i>Title 11</i>
 
@@ -4178,7 +4178,7 @@ Pub. L. 98–353, title III, §381, July 10, 1984, 98 Stat. 364, provided that: 
 
 #### History of Bankruptcy Acts
 
-The bankruptcy laws were revised generally and enacted as Title 11, Bankruptcy, by Pub. L. 96–598, Nov. 6, 1978, 92 Stat. 2549.
+The bankruptcy laws were revised generally and enacted as Title 11, Bankruptcy, by Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549.
 
 Earlier bankruptcy laws included the following acts:
 

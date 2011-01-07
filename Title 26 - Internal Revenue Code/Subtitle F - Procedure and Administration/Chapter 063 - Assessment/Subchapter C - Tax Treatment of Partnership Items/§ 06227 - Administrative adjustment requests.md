@@ -72,9 +72,9 @@ In the case of that portion of any request for an administrative adjustment whic
 
 #### Amendments
 
-2002—Subsec. (d). Pub. L. 107–147 substituted “subsection (c)” for “subsection (b)” in introductory provisions.
+<b>2002</b>—Subsec. (d). Pub. L. 107–147 substituted “subsection (c)” for “subsection (b)” in introductory provisions.
 
-1997—Subsecs. (b) to (d). Pub. L. 105–34, §1236(a), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+<b>1997</b>—Subsecs. (b) to (d). Pub. L. 105–34, §1236(a), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
 Subsec. (e). Pub. L. 105–34, §1243(a), added subsec. (e).
 

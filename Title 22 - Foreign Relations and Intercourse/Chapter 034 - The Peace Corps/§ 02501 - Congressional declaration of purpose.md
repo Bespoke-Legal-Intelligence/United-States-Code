@@ -12,9 +12,9 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 #### Amendments
 
-1985—Pub. L. 99–83 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1985</b>—Pub. L. 99–83 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1978—Pub. L. 95–331 inserted “particularly in meeting the basic needs of those living in the poorest areas of such countries” after “manpower”.
+<b>1978</b>—Pub. L. 95–331 inserted “particularly in meeting the basic needs of those living in the poorest areas of such countries” after “manpower”.
 
 #### Effective Date of 1985 Amendment
 

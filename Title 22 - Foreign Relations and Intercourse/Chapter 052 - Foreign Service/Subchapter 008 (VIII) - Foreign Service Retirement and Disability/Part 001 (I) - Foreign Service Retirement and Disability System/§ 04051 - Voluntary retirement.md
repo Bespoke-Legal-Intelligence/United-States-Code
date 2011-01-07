@@ -6,7 +6,7 @@ Any participant who is at least 50 years of age and has 20 years of creditable s
 
 #### Amendments
 
-1988—Pub. L. 100–238 inserted last two sentences relating to withholding consent to retirement and to certain participants who voluntarily separate from the Service before completing 5 years in the System.
+<b>1988</b>—Pub. L. 100–238 inserted last two sentences relating to withholding consent to retirement and to certain participants who voluntarily separate from the Service before completing 5 years in the System.
 
 #### Effective Date of 1988 Amendment
 

@@ -190,11 +190,11 @@ Notwithstanding any other law, the President may permit any petroleum products w
 
 #### References in Text
 
-This chapter, referred to in subsec. (j)(6), (7)(A), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the EnergyPolicy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in subsec. (j)(6), (7)(A), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
 
-2000—Pub. L. 106–469, §103(15)(A), substituted “sale of petroleum products” for “distribution of the Reserve” in section catchline.
+<b>2000</b>—Pub. L. 106–469, §103(15)(A), substituted “sale of petroleum products” for “distribution of the Reserve” in section catchline.
 
 Subsec. (a). Pub. L. 106–469, §103(15)(B), substituted “drawdown and sell petroleum products in” for “drawdown and distribute”.
 
@@ -232,23 +232,23 @@ Subsec. (h)(2). Pub. L. 106–469, §103(15)(G)(iii), substituted “Petroleum p
 
 Subsec. (h)(3). Pub. L. 106–469, §103(15)(G)(iv), substituted “sale” for “distribution” in two places.
 
-1998—Subsec. (j). Pub. L. 105–388 added subsec. (j).
+<b>1998</b>—Subsec. (j). Pub. L. 105–388 added subsec. (j).
 
-1992—Subsec. (d). Pub. L. 102–486, §1401(1), designated existing provisions as par. (1) and added par. (2).
+<b>1992</b>—Subsec. (d). Pub. L. 102–486, §1401(1), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (h)(1)(A). Pub. L. 102–486, §1401(2), inserted “or international” after “domestic”.
 
-1990—Subsec. (g)(1). Pub. L. 101–383, §8, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In order to evaluate the implementation of the Distribution Plan, the Secretary shall, commencing within 180 days after July 2, 1985, carry out a test drawdown and distribution under this subsection through the sale or exchange of approximately 1,100,000 barrels of crude oil from the Reserve. The requirement of this paragraph shall not apply if the President determines, within the 180-day period described in the preceding sentence, that implementation of the Distribution Plan is required by a severe energy supply interruption or by obligations of the United States under the international energy program.”
+<b>1990</b>—Subsec. (g)(1). Pub. L. 101–383, §8, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In order to evaluate the implementation of the Distribution Plan, the Secretary shall, commencing within 180 days after July 2, 1985, carry out a test drawdown and distribution under this subsection through the sale or exchange of approximately 1,100,000 barrels of crude oil from the Reserve. The requirement of this paragraph shall not apply if the President determines, within the 180-day period described in the preceding sentence, that implementation of the Distribution Plan is required by a severe energy supply interruption or by obligations of the United States under the international energy program.”
 
 Subsec. (h). Pub. L. 101–383, §3(b), added subsec. (h).
 
 Subsec. (i). Pub. L. 101–383, §10, added subsec. (i).
 
-1985—Subsec. (b). Pub. L. 99–58, §103(b)(2), inserted reference to subsec. (g) of this section.
+<b>1985</b>—Subsec. (b). Pub. L. 99–58, §103(b)(2), inserted reference to subsec. (g) of this section.
 
 Subsec. (g). Pub. L. 99–58, §103(a), added subsec. (g).
 
-1978—Subsecs. (a), (e), (f). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+<b>1978</b>—Subsecs. (a), (e), (f). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
 #### Effective Date of 1998 Amendment
 

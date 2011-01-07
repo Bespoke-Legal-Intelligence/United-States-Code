@@ -8,8 +8,6 @@ For the purpose of carrying on the work prescribed by section 141 of this title,
 
 The Classification Act of 1949, referred to in text, is act Oct. 28, 1949, ch. 782, 63 Stat. 954, which was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees.
 
-The civil service laws, referred to in text, are set forth in Title 5. See, particularly, section 3301 et seq. of Title 5.
-
 #### Amendments
 
 1984—Pub. L. 98–497 substituted “Archivist” for “Administrator”.

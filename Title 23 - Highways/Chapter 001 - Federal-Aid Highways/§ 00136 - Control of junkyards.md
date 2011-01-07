@@ -30,13 +30,13 @@
 
 #### Amendments
 
-1975—Subsec. (j). Pub. L. 93–643 substituted provision that compensation shall be paid the owner for the relocation, removal, or disposal of junkyards lawfully established under State law, for provision relating to payment of just compensation for relocation, removal, or disposal of junkyards (1) lawfully in existence on Oct. 22, 1965, (2) lawfully along any highway made a part of the interstate or primary system on or after Oct. 22, 1965, and before Jan. 1, 1968, and (3) lawfully established on or after Jan. 1, 1968.
+<b>1975</b>—Subsec. (j). Pub. L. 93–643 substituted provision that compensation shall be paid the owner for the relocation, removal, or disposal of junkyards lawfully established under State law, for provision relating to payment of just compensation for relocation, removal, or disposal of junkyards (1) lawfully in existence on Oct. 22, 1965, (2) lawfully along any highway made a part of the interstate or primary system on or after Oct. 22, 1965, and before Jan. 1, 1968, and (3) lawfully established on or after Jan. 1, 1968.
 
-1970—Subsec. (m). Pub. L. 91–605 authorized to be appropriated not to exceed $3,000,000, $3,000,000, and $5,000,000, for the fiscal years ending June 30, 1971, 1972, and 1973, respectively.
+<b>1970</b>—Subsec. (m). Pub. L. 91–605 authorized to be appropriated not to exceed $3,000,000, $3,000,000, and $5,000,000, for the fiscal years ending June 30, 1971, 1972, and 1973, respectively.
 
-1968—Subsec. (m). Pub. L. 90–495 inserted provision authorizing an appropriation of not to exceed $3,000,000 for the fiscal year ending June 30, 1970.
+<b>1968</b>—Subsec. (m). Pub. L. 90–495 inserted provision authorizing an appropriation of not to exceed $3,000,000 for the fiscal year ending June 30, 1970.
 
-1966—Subsec. (m). Pub. L. 89–574 substituted provisions making applicable to the funds authorized to be appropriated to carry out this section after June 30, 1967, the provisions of chapter 1 of this title relating to the obligation, period of availability, and expenditure of Federal-aid primary highway funds for provisions prohibiting the use of any part of the Highway Trust Fund in carrying out this section.
+<b>1966</b>—Subsec. (m). Pub. L. 89–574 substituted provisions making applicable to the funds authorized to be appropriated to carry out this section after June 30, 1967, the provisions of chapter 1 of this title relating to the obligation, period of availability, and expenditure of Federal-aid primary highway funds for provisions prohibiting the use of any part of the Highway Trust Fund in carrying out this section.
 
 #### Effective Date of 1968 Amendment
 

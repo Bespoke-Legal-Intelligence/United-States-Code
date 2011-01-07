@@ -68,7 +68,7 @@ Title III, referred to in subsec. (a), means title III of Pub. L. 93–638, as a
 
 #### Codification
 
-Another section 503 of Pub. L. 93–638, as added by Pub. L. 106–568, title XIII, §1302, Dec. 27, 2000, 114 Stat. 2938, is classified to section 458bbb–2 of this title.
+Another section 503 of Pub. L. 93–638 was renumbered section 803 and is classified to section 458ddd–2 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -26,9 +26,9 @@ The Mutual Defense Assistance Act of 1949, referred to in subsec. (e), is act Oc
 
 #### Amendments
 
-1991—Subsec. (h). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Subsec. (h). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Veterans’ Administration”.
 
-1953—Subsec. (e)(4). Act June 30, 1953, added cl. (4).
+<b>1953</b>—Subsec. (e)(4). Act June 30, 1953, added cl. (4).
 
 #### Transfer of Functions
 

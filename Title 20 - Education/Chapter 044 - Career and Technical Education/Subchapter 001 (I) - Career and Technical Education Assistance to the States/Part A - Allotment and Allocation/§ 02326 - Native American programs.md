@@ -48,7 +48,7 @@ In this section:
 
 &emsp;&emsp;(A) confer with, and allow for active participation by, representatives of Indian tribes, tribal organizations, and individual tribal members; and
 
-&emsp;&emsp;(B) promulgate the regulations under subchapter III of chapter 5 of title 5, commonlyknown as the “Negotiated Rulemaking Act of 1990”.
+&emsp;&emsp;(B) promulgate the regulations under subchapter III of chapter 5 of title 5, commonly known as the “Negotiated Rulemaking Act of 1990”.
 
 #### (6) Application
 

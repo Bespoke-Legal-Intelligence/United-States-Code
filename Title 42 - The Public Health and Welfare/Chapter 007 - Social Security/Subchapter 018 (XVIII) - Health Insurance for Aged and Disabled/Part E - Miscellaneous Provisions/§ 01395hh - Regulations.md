@@ -8,7 +8,7 @@
 
 (3)(A) The Secretary, in consultation with the Director of the Office of Management and Budget, shall establish and publish a regular timeline for the publication of final regulations based on the previous publication of a proposed regulation or an interim final regulation.
 
-(B) Such timeline may vary among different regulations based on differences in the complexity of the regulation, the number and scope of comments received, and other relevant factors, but shall not be longer than 3 years except under exceptional circumstances. If the Secretary intends to vary such timeline with respect to the publication of a final regulation, the Secretary shall cause to have published in the Federal Register notice of the different timeline by notlater than the timeline previously established with respect to such regulation. Such notice shall include a brief explanation of the justification for such variation.
+(B) Such timeline may vary among different regulations based on differences in the complexity of the regulation, the number and scope of comments received, and other relevant factors, but shall not be longer than 3 years except under exceptional circumstances. If the Secretary intends to vary such timeline with respect to the publication of a final regulation, the Secretary shall cause to have published in the Federal Register notice of the different timeline by not later than the timeline previously established with respect to such regulation. Such notice shall include a brief explanation of the justification for such variation.
 
 (C) In the case of interim final regulations, upon the expiration of the regular timeline established under this paragraph for the publication of a final regulation after opportunity for public comment, the interim final regulation shall not continue in effect unless the Secretary publishes (at the end of the regular timeline and, if applicable, at the end of each succeeding 1-year period) a notice of continuation of the regulation that includes an explanation of why the regular timeline (and any subsequent 1-year extension) was not complied with. If such a notice is published, the regular timeline (or such timeline as previously extended under this paragraph) for publication of the final regulation shall be treated as having been extended for 1 additional year.
 
@@ -86,7 +86,7 @@ Parts A and B of this subchapter, referred to in subsec. (f)(2)(A), are classifi
 
 #### Amendments
 
-2003—Subsec. (a)(3). Pub. L. 108–173, §902(a)(1), added par. (3).
+<b>2003</b>—Subsec. (a)(3). Pub. L. 108–173, §902(a)(1), added par. (3).
 
 Subsec. (a)(4). Pub. L. 108–173, §902(b)(1), added par. (4).
 
@@ -98,11 +98,11 @@ Subsec. (e)(2). Pub. L. 108–173, §903(c)(1), added par. (2).
 
 Subsec. (f). Pub. L. 108–173, §904(b), added subsec. (f).
 
-1987—Subsec. (a). Pub. L. 100–203, §4035(b), designated existing provisions as par. (1) and added par. (2).
+<b>1987</b>—Subsec. (a). Pub. L. 100–203, §4035(b), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (c). Pub. L. 100–203, §4035(c), added subsec. (c).
 
-1986—Pub. L. 99–509 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1986</b>—Pub. L. 99–509 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 2003 Amendment
 

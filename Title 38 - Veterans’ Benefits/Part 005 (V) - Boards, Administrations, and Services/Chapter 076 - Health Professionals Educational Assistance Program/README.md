@@ -22,7 +22,8 @@
 | [7615\.](Subchapter%20002%20%28II%29%20-%20Scholarship%20Program/%C2%A7%2007615%20-%20Status%20of%20participants.md) | Status of participants. |
 | [7616\.](Subchapter%20002%20%28II%29%20-%20Scholarship%20Program/%C2%A7%2007616%20-%20Obligated%20service.md) | Obligated service. |
 | [7617\.](Subchapter%20002%20%28II%29%20-%20Scholarship%20Program/%C2%A7%2007617%20-%20Breach%20of%20agreement%20liability.md) | Breach of agreement: liability. |
-| [7618\.](Subchapter%20002%20%28II%29%20-%20Scholarship%20Program/%C2%A7%2007618%20-%20Expiration%20of%20program.md) | Expiration of program. |
+| [7618\.](Subchapter%20002%20%28II%29%20-%20Scholarship%20Program/%C2%A7%2007618%20-%20Additional%20program%20requirements.md) | Additional program requirements. |
+| [7619\.](Subchapter%20002%20%28II%29%20-%20Scholarship%20Program/%C2%A7%2007619%20-%20Expiration%20of%20program.md) | Expiration of program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -89,13 +90,15 @@
 
 #### Amendments
 
-2002—Pub. L. 107–135, title I, §§101(a)(2), 102(a)(2), Jan. 23, 2002, 115 Stat. 2447, 2448, struck out items 7676 “Expiration of program” and 7684 “Expiration of program”.
+<b>2010</b>—Pub. L. 111–163, title VI, §603(d), May 5, 2010, 124 Stat. 1174, added items 7618 and 7619 and struck out former item 7618 “Expiration of program”.
 
-1998—Pub. L. 105–368, title VIII, §§802(b), 803(b), Nov. 11, 1998, 112 Stat. 3356, 3358, added headings for subchapters VI and VII and items 7671 to 7676 and 7681 to 7684.
+<b>2002</b>—Pub. L. 107–135, title I, §§101(a)(2), 102(a)(2), Jan. 23, 2002, 115 Stat. 2447, 2448, struck out items 7676 “Expiration of program” and 7684 “Expiration of program”.
 
-1991—Pub. L. 102–40, title IV, §402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 4301 to 4355 as 7601 to 7655, respectively.
+<b>1998</b>—Pub. L. 105–368, title VIII, §§802(b), 803(b), Nov. 11, 1998, 112 Stat. 3356, 3358, added headings for subchapters VI and VII and items 7671 to 7676 and 7681 to 7684.
 
-1990—Pub. L. 101–366, title II, §205(a)(2), Aug. 15, 1990, 104 Stat. 440, added heading for subchapter V and items 4351 to 4355.
+<b>1991</b>—Pub. L. 102–40, title IV, §402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 4301 to 4355 as 7601 to 7655, respectively.
+
+<b>1990</b>—Pub. L. 101–366, title II, §205(a)(2), Aug. 15, 1990, 104 Stat. 440, added heading for subchapter V and items 4351 to 4355.
 
 
 ---

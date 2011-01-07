@@ -16,9 +16,9 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1984—Pub. L. 98–620 provided for holding court at Bennington.
+<b>1984</b>—Pub. L. 98–620 provided for holding court at Bennington.
 
-1964—Pub. L. 88–312 provided for holding court at Montpelier and Saint Johnsbury.
+<b>1964</b>—Pub. L. 88–312 provided for holding court at Montpelier and Saint Johnsbury.
 
 #### Effective Date of 1984 Amendment
 

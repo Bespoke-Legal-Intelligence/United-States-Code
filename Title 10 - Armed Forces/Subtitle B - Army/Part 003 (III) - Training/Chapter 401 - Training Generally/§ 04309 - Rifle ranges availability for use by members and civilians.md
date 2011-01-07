@@ -36,13 +36,13 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §113 (1st 2 sentences), 39 Stat. 211.
 
-In subsection (a), the words “such a comprehensive as will ultimately result in” are omitted as surplusage.
+In subsection (a), the words “such a comprehensive \* \* \* as will ultimately result in” are omitted as surplusage.
 
 In subsection (b), the words “United States” are substituted for the word “Congress”. The words “members of the armed forces” are substituted for the words “those in any branch of the military or naval service”. The words “of the United States” are omitted as surplusage.
 
 #### Amendments
 
-1992—Pub. L. 102–484 amended section generally. Prior to amendment section read as follows:
+<b>1992</b>—Pub. L. 102–484 amended section generally. Prior to amendment section read as follows:
 
 “(a)
 
@@ -58,13 +58,13 @@ Military Ranges.—(1) In the case of a rifle range referred to in subsection (a
 
 Regulations.—Regulations to carry out this section shall be prescribed by the authorities controlling the rifle range, subject to the approval of the Secretary of the Army.”
 
-1990—Pub. L. 101–510 substituted “Rifle ranges: available for use by members and civilians” for “Rifle ranges: recommendations to Congress; regulations” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1990</b>—Pub. L. 101–510 substituted “Rifle ranges: available for use by members and civilians” for “Rifle ranges: recommendations to Congress; regulations” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) The Secretary of the Army shall submit annually to Congress recommendations and estimates for the establishment and maintenance of indoor and outdoor rifle ranges under a plan to provide facilities for rifle practice in all sections of the country.
 
 “(b) All rifle ranges established under subsection (a) and all rifle ranges already constructed, in whole or in part with funds provided by the United States, may be used by members of the armed forces and by all able-bodied persons capable of bearing arms, under regulations prescribed by the authorities controlling those ranges and approved by the Secretary.”
 
-1985—Subsec. (b). Pub. L. 99–145 substituted “persons” for “males”.
+<b>1985</b>—Subsec. (b). Pub. L. 99–145 substituted “persons” for “males”.
 
 #### Effective Date of 1992 Amendment
 

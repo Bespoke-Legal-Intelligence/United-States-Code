@@ -36,7 +36,7 @@ In this part:
 
 #### (6) Qualifying National Guard duty
 
-&emsp;The term “qualifying National Guard duty during a war or other military operation or national emergency” means service as a member of the National Guard on full-time National Guard duty (as defined in section 101(d)(5) of title 10) under a call to active service authorized by the President or the Secretary of Defense for a period of more than 30 consecutive days under section 502(f) of title 32, in connection with a war, another military operation, or a national emergency declared by the President and supported by Federal funds.
+&emsp;The term “qualifying National Guard duty during a war or other military operation or national emergency” means service as a member of the National Guard on full-time National Guard duty (as defined in section 101(d)(5) of title 10) under a call to active service authorized by the President or the Secretary of Defense for a period of more than 30consecutive days under section 502(f) of title 32, in connection with a war, another military operation, or a national emergency declared by the President and supported by Federal funds.
 
 (Pub. L. 108–76, §5, Aug. 18, 2003, 117 Stat. 906.)
 

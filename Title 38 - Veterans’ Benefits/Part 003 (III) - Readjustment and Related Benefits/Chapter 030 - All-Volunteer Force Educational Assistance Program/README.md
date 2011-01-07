@@ -26,7 +26,7 @@
 | [3018B.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003018B%20-%20Opportunity%20for%20certain%20persons%20to%20enroll.md) | Opportunity for certain persons to enroll. |
 | [3018C.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003018C%20-%20Opportunity%20for%20certain%20VEAP%20participants%20to%20enroll.md) | Opportunity for certain VEAP participants to enroll. |
 | [3019\.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003019%20-%20Tutorial%20assistance.md) | Tutorial assistance. |
-| [3020\.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003020%20-%20Authority%20to%20transfer%20unused%20education%20benefits%20to%20family%20members%20for%20career%20service%20members.md) | Authority to transfer unused education benefits to family members of career service members.<sup>1</sup> |
+| [3020\.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003020%20-%20Authority%20to%20transfer%20unused%20education%20benefits%20to%20family%20members%20for%20career%20service%20members.md) | Authority to transfer unused education benefits to family members for career service members. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -55,27 +55,29 @@
 
 #### Amendments
 
-2008—Pub. L. 110–252, title V, §5006(e)(1), June 30, 2008, 122 Stat. 2386, added item 3020 and struck out former item 3020 “Transfer of entitlement to basic educational assistance: members of the Armed Forces with critical military skills.”
+<b>2010</b>—Pub. L. 111–275, title X, §1001(f), Oct. 13, 2010, 124 Stat. 2896, added item 3020 and struck out former item 3020 “Authority to transfer unused education benefits to family members of career service members”.
 
-2002—Pub. L. 107–330, title III, §308(b)(2)(B), Dec. 6, 2002, 116 Stat. 2827, amended item 3014A generally, substituting “in high technology occupation in high technology industry” for “in high technology industry”.
+<b>2008</b>—Pub. L. 110–252, title V, §5006(e)(1), June 30, 2008, 122 Stat. 2386, added item 3020 and struck out former item 3020 “Transfer of entitlement to basic educational assistance: members of the Armed Forces with critical military skills”.
 
-2001—Pub. L. 107–107, div. A, title VI, §654(a)(2), Dec. 28, 2001, 115 Stat. 1156, added item 3020.
+<b>2002</b>—Pub. L. 107–330, title III, §308(b)(2)(B), Dec. 6, 2002, 116 Stat. 2827, amended item 3014A generally, substituting “in high technology occupation in high technology industry” for “in high technology industry”.
+
+<b>2001</b>—Pub. L. 107–107, div. A, title VI, §654(a)(2), Dec. 28, 2001, 115 Stat. 1156, added item 3020.
 
 Pub. L. 107–103, title I, §104(a)(2), Dec. 27, 2001, 115 Stat. 981, added item 3014A.
 
-1996—Pub. L. 104–275, title I, §106(b)(1), Oct. 9, 1996, 110 Stat. 3329, added item 3018C.
+<b>1996</b>—Pub. L. 104–275, title I, §106(b)(1), Oct. 9, 1996, 110 Stat. 3329, added item 3018C.
 
-1992—Pub. L. 102–484, div. D, title XLIV, §4404(b)(1), Oct. 23, 1992, 106 Stat. 2706, added item 3018B.
+<b>1992</b>—Pub. L. 102–484, div. D, title XLIV, §4404(b)(1), Oct. 23, 1992, 106 Stat. 2706, added item 3018B.
 
-1991—Pub. L. 102–83, §5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 1401 to 1436 as 3001 to 3036, respectively.
+<b>1991</b>—Pub. L. 102–83, §5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 1401 to 1436 as 3001 to 3036, respectively.
 
 Pub. L. 102–54, §14(c)(2), June 13, 1991, 105 Stat. 285, substituted “subchapter” for “chapter” in item 1423.
 
-1990—Pub. L. 101–510, div. A, title V, §561(a)(2), Nov. 5, 1990, 104 Stat. 1573, added item 1418A.
+<b>1990</b>—Pub. L. 101–510, div. A, title V, §561(a)(2), Nov. 5, 1990, 104 Stat. 1573, added item 1418A.
 
-1988—Pub. L. 100–689, title I, §§101(b), 103(c), 107(a)(3), Nov. 18, 1988, 102 Stat. 4162, 4166, 4168, added items 1417 to 1419.
+<b>1988</b>—Pub. L. 100–689, title I, §§101(b), 103(c), 107(a)(3), Nov. 18, 1988, 102 Stat. 4162, 4166, 4168, added items 1417 to 1419.
 
-1986—Pub. L. 99–576, title III, §301(d)(2), Oct. 28, 1986, 100 Stat. 3268, amended item 1432 generally, substituting “Limitations” for “Limitation”.
+<b>1986</b>—Pub. L. 99–576, title III, §301(d)(2), Oct. 28, 1986, 100 Stat. 3268, amended item 1432 generally, substituting “Limitations” for “Limitation”.
 
 
 ---

@@ -8,27 +8,27 @@
 
 (2) Any intermediate care facility for the mentally retarded which is dissatisfied with a determination by the Secretary that it no longer qualifies as a <sup>1</sup> intermediate care facility for the mentally retarded for purposes of this subchapter, shall be entitled to a hearing by the Secretary to the same extent as is provided in section 405(b) of this title and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title, except that, in so applying such sections and in applying section 405(<i>l</i>) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively. Any agreement between such facility and the State agency shall remain in effect until the period for filing a request for a hearing has expired or, if a request has been filed, until a decision has been made by the Secretary; except that the agreement shall not be extended if the Secretary makes a written determination, specifying the reasons therefor, that the continuation of provider status constitutes an immediate and serious threat to the health and safety of patients, and the Secretary certifies that the facility has been notified of its deficiencies and has failed to correct them.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1910, as added and amended Pub. L. 92–603, title II, §§249A(a), 278(b)(12), Oct. 30, 1972, 86 Stat. 1426, 1454; Pub. L. 95–210, §2(d), Dec. 13, 1977, 91 Stat. 1489; Pub. L. 96–499, title IX, §916(b)(2), Dec. 5, 1980, 94 Stat. 2624; Pub. L. 100–203, title IV, §4212(e)(3), Dec. 22, 1987, 101 Stat. 1330–213; Pub. L. 100–360, title IV, §411(<i>l</i>)(6)(F), July 1, 1988, as added Pub. L. 100–485, title VI, §608(d)(27)(J), Oct. 13, 1988, 102 Stat. 2423; Pub. L. 101–239, title VI, §6901(d)(5), Dec. 19, 1989, 103 Stat. 2301; Pub. L. 103–296, title I, §108(d)(4), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(n)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–397.)
+(Aug. 14, 1935, ch. 531, title XIX, §1910, as added and amended Pub. L. 92–603, title II, §§249A(a),278(b)(12), Oct. 30, 1972, 86 Stat. 1426, 1454; Pub. L. 95–210, §2(d), Dec. 13, 1977, 91 Stat. 1489; Pub. L. 96–499, title IX, §916(b)(2), Dec. 5, 1980, 94 Stat. 2624; Pub. L. 100–203, title IV, §4212(e)(3), Dec. 22, 1987, 101 Stat. 1330–213; Pub. L. 100–360, title IV, §411(<i>l</i>)(6)(F), July 1, 1988, as added Pub. L. 100–485, title VI, §608(d)(27)(J), Oct. 13, 1988, 102 Stat. 2423; Pub. L. 101–239, title VI, §6901(d)(5), Dec. 19, 1989, 103 Stat. 2301; Pub. L. 103–296, title I, §108(d)(4), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(n)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–397.)
 
 #### Amendments
 
-1999—Pub. L. 106–113 struck out “of” after “approval of” in section catchline.
+<b>1999</b>—Pub. L. 106–113 struck out “of” after “approval of” in section catchline.
 
-1994—Subsec. (b)(2). Pub. L. 103–296 inserted before period at end of first sentence “, except that, in so applying such sections and in applying section 405(<i>l</i>) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively”.
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–296 inserted before period at end of first sentence “, except that, in so applying such sections and in applying section 405(<i>l</i>) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively”.
 
-1989—Pub. L. 101–239, §6901(d)(5)(A), substituted “rural health clinics and intermediate care facilities for the mentally retarded” for “rural health clinics” in section catchline.
+<b>1989</b>—Pub. L. 101–239, §6901(d)(5)(A), substituted “rural health clinics and intermediate care facilities for the mentally retarded” for “rural health clinics” in section catchline.
 
 Subsec. (b)(1). Pub. L. 101–239, §6901(d)(5)(B)–(D), substituted “any intermediate care facility for the mentally retarded” for “any skilled nursing or intermediate care facility”, “section 1396a(a)(31) of this title or section 1396d(d) of this title” for “section 1396a(a)(28) of this title or section 1396r of this title or section 1396d(c) of this title”, and “the intermediate care facility for the mentally retarded” for “the skilled nursing facility or intermediate care facility”.
 
 Subsec. (b)(2). Pub. L. 101–239, §6901(d)(5)(D), substituted “intermediate care facility for the mentally retarded” for “skilled nursing facility or intermediate care facility” in two places.
 
-1988—Subsec. (b)(1). Pub. L. 100–360, §411(<i>l</i>)(6)(F), as added by Pub. L. 100–485, §608(d)(27)(J), inserted “or section 1396r of this title” after “1396a(a)(28) of this title”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–360, §411(<i>l</i>)(6)(F), as added by Pub. L. 100–485, §608(d)(27)(J), inserted “or section 1396r of this title” after “1396a(a)(28) of this title”.
 
-1987—Pub. L. 100–203 struck out “skilled nursing facilities and” before “of rural” in section catchline, redesignated subsecs. (b) and (c) as (a) and (b), respectively, and struck out former subsec. (a) which related to certification and approval of skilled nursing facilities.
+<b>1987</b>—Pub. L. 100–203 struck out “skilled nursing facilities and” before “of rural” in section catchline, redesignated subsecs. (b) and (c) as (a) and (b), respectively, and struck out former subsec. (a) which related to certification and approval of skilled nursing facilities.
 
-1980—Subsec. (c). Pub. L. 96–499 added subsec. (c).
+<b>1980</b>—Subsec. (c). Pub. L. 96–499 added subsec. (c).
 
-1977—Pub. L. 95–210 substituted “facilities and of rural health clinics” for “facilities” in section catchline, redesignated existing subsecs. (a) and (b) as (a)(1) and (2), respectively, and added subsec. (b).
+<b>1977</b>—Pub. L. 95–210 substituted “facilities and of rural health clinics” for “facilities” in section catchline, redesignated existing subsecs. (a) and (b) as (a)(1) and (2), respectively, and added subsec. (b).
 
 #### Effective Date of 1994 Amendment
 

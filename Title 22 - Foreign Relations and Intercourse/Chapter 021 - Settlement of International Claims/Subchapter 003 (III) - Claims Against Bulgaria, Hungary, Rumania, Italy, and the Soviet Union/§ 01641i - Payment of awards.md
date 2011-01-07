@@ -42,9 +42,9 @@ With respect to any claim which, at the time of the award, is vested in persons 
 
 #### Amendments
 
-1974—Subsec. (a)(7). Pub. L. 93–460 added par. (7).
+<b>1974</b>—Subsec. (a)(7). Pub. L. 93–460 added par. (7).
 
-1968—Subsec. (a)(6). Pub. L. 90–421 added par. (6).
+<b>1968</b>—Subsec. (a)(6). Pub. L. 90–421 added par. (6).
 
 <i><sup>1</sup></i><i> So in original. Probably should be “claim”.</i>
 

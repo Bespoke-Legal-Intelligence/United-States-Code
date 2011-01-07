@@ -8,7 +8,7 @@ The Secretary shall conduct research activities authorized by this subpart throu
 
 Such research activities—
 
-&emsp;(1) shall have a practical application to teachers, counselors, paraprofessionals, schooladministrators, parents, and others involved in improving the education of limited English proficient children and their families;
+&emsp;(1) shall have a practical application to teachers, counselors, paraprofessionals, school administrators, parents, and others involved in improving the education of limited English proficient children and their families;
 
 &emsp;(2) may include research on effective instruction practices for multilingual classes, and on effective instruction strategies to be used by a teacher or other staff member who does not know the native language of a limited English proficient child in the teacher's or staff member's classroom;
 
@@ -38,7 +38,7 @@ The Secretary shall provide for the collection of data on limited English profic
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–279 substituted “Institute of Education Sciences” for “Office of Educational Research and Improvement”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–279 substituted “Institute of Education Sciences” for “Office of Educational Research and Improvement”.
 
 #### Research Relating to Bilingual Education
 

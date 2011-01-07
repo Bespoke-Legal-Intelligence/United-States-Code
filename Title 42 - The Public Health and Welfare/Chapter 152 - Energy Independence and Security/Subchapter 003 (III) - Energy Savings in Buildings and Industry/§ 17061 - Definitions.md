@@ -176,7 +176,7 @@ In this title: <sup>1</sup>
 
 #### (18) Office of Federal High-Performance Green Buildings
 
-&emsp;The term “Office of Federal High-Performance Green Buildings” means the Office of Federal High-Performance Green Buildings established under section 17092(a) of this title.
+&emsp;The term “Office of Federal High-Performance Green Buildings” means the Office ofFederal High-Performance Green Buildings established under section 17092(a) of this title.
 
 #### (19) Practices
 
@@ -211,4 +211,8 @@ Sections 431 through 435, referred to in pars. (6)(C) and 9(A), are sections 431
 Title V, referred to in par. (6)(C), is title V of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1655, which enacted subchapter IV (§17131 et seq.) of this chapter, part D (§8279) of subchapter III of chapter 91 of this title, and sections 1824, 2162a, and 2169 of Title 2, The Congress, amended sections 6325, 6834, 8256, 8258, 8259b, 8287, and 8287c of this title, section 2162 of Title 2, section 2913 of Title 10, Armed Forces, section 3203 of Title 15, Commerce and Trade, and section 2621 of Title 16, Conservation, and enacted provisions set out as a note under section 8259b of this title. For complete classification of title V to the Code, see Tables.
 
 Sections 511 through 525, referred to in par. (6)(C), are sections 511 to 525 of Pub. L. 110–140, which enacted part A (§17131) of subchapter IV of this chapter and section 17141 of this title, amended sections 6834, 8256, 8258, 8259b, 8287, and 8287c of this title and section 2913 of Title 10, Armed Forces, and enacted provisions set out as a note under section 8259b of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Does not fit with cl. (ii) introductory provision.</i>
 

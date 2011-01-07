@@ -66,9 +66,9 @@ Section 4(j)(4) amends 49:108(a) to reflect the intent of 49 App.:1655(b)(2), on
 
 #### Amendments
 
-2004—Pub. L. 108–426 amended section catchline and text generally, substituting provisions relating to Pipeline and Hazardous Materials Safety Administration for provisions relating to Coast Guard.
+<b>2004</b>—Pub. L. 108–426 amended section catchline and text generally, substituting provisions relating to Pipeline and Hazardous Materials Safety Administration for provisions relating to Coast Guard.
 
-1994—Subsec. (a). Pub. L. 103–272 designated existing provisions as par. (1), substituted “The Coast Guard” for “Except when operating as a service in the Navy, the Coast Guard”, and added par. (2).
+<b>1994</b>—Subsec. (a). Pub. L. 103–272 designated existing provisions as par. (1), substituted “The Coast Guard” for “Except when operating as a service in the Navy, the Coast Guard”, and added par. (2).
 
 #### Savings Provisions
 
@@ -90,7 +90,7 @@ Legal Documents.—All orders (including delegations by the Secretary of Transpo
 
 “(c)
 
-Proceedings.—The provisions of this Act shall not affect any proceedings, including administrative enforcement actions, pending before this Act takes effect, insofar as those functions are transferred by this Act; but such proceedings, to the extent that they relate to functions so transferred, shall proceed in accordance with applicable law and regulations. Nothing in this subsection shall be deemed to prohibit the conclusion or modification of any proceeding described in this subsection under the same terms and conditions and to the same extent that such proceeding could havebeen concluded or modified if this Act had not been enacted. The Secretary of Transportation is authorized to provide for the orderly transfer of pending proceedings.
+Proceedings.—The provisions of this Act shall not affect any proceedings, including administrative enforcement actions, pending before this Act takes effect, insofar as those functions are transferred by this Act; but such proceedings, to the extent that they relate to functions so transferred, shall proceed in accordance with applicable law and regulations. Nothing in this subsection shall be deemed to prohibit the conclusion or modification of any proceeding described in this subsection under the same terms and conditions and to the same extent that such proceeding could have been concluded or modified if this Act had not been enacted. The Secretary of Transportation is authorized to provide for the orderly transfer of pending proceedings.
 
 “(d)
 

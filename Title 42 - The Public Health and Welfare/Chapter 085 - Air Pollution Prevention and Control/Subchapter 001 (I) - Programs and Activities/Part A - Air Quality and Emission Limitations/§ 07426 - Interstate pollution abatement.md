@@ -16,11 +16,11 @@ Each applicable implementation plan shall—
 
 #### (b) Petition for finding that major sources emit or would emit prohibited air pollutants
 
-Any State or political subdivision may petition the Administrator for a finding that any major source or group of stationary sources emits or would emit any air pollutant in violation of the prohibition of section 7410(a)(2)(D)(ii) of this title or this section. Within 60 days afterreceipt of any petition under this subsection and after public hearing, the Administrator shall make such a finding or deny the petition.
+Any State or political subdivision may petition the Administrator for a finding that any major source or group of stationary sources emits or would emit any air pollutant in violation of the prohibition of section 7410(a)(2)(D)(ii) of this title or this section. Within 60 days after receipt of any petition under this subsection and after public hearing, the Administrator shall make such a finding or deny the petition.
 
 #### (c) Violations; allowable continued operation
 
-Notwithstanding any permit which may have been granted by the State in which the source is located (or intends to locate), it shall be a violation of this section and the applicable implementation plan in such State—
+Notwithstanding any permit which may have been granted by the State in which the source islocated (or intends to locate), it shall be a violation of this section and the applicable implementation plan in such State—
 
 &emsp;(1) for any major proposed new (or modified) source with respect to which a finding has been made under subsection (b) of this section to be constructed or to operate in violation of the prohibition of section 7410(a)(2)(D)(ii) of this title or this section, or
 
@@ -36,13 +36,13 @@ Section 7413(d) of this title, referred to in subsec. (c), was amended generally
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–549, §109(a)(1), inserted “or group of stationary sources” after “any major source” and substituted “section 7410(a)(2)(D)(ii) of this title or this section” for “section 7410(a)(2)(E)(i) of this title”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–549, §109(a)(1), inserted “or group of stationary sources” after “any major source” and substituted “section 7410(a)(2)(D)(ii) of this title or this section” for “section 7410(a)(2)(E)(i) of this title”.
 
 Subsec. (c). Pub. L. 101–549, §109(a)(2)(A), which directed the insertion of “this section and” after “violation of”, was executed by making the insertion after first reference to “violation of” to reflect the probable intent of Congress.
 
 Pub. L. 101–549, §109(a)(2)(B), substituted “section 7410(a)(2)(D)(ii) of this title or this section” for “section 7410(a)(2)(E)(i) of this title” in par. (1) and penultimate sentence.
 
-1977—Subsec. (a)(1). Pub. L. 95–190 substituted “(relating to significant deterioration of air quality)” for “, relating to significant deterioration of air quality”.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–190 substituted “(relating to significant deterioration of air quality)” for “, relating to significant deterioration of air quality”.
 
 #### Effective Date
 

@@ -2,7 +2,7 @@
 
 #### (a) Grants to public and nonprofit private entities
 
-The Secretary, through the Director of the Prevention Center, shall make grants to publicand nonprofit private entities for projects to demonstrate effective models for the prevention, treatment, and rehabilitation of drug abuse and alcohol abuse among high risk youth.
+The Secretary, through the Director of the Prevention Center, shall make grants to public and nonprofit private entities for projects to demonstrate effective models for the prevention, treatment, and rehabilitation of drug abuse and alcohol abuse among high risk youth.
 
 #### (b) Priority of projects
 
@@ -76,15 +76,15 @@ A prior section 517 of act July 1, 1944, was classified to section 290cc–2 of 
 
 #### Amendments
 
-2000—Subsec. (h). Pub. L. 106–310 substituted “such sums as may be necessary for each of the fiscal years 2001 through 2003” for “$70,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994”.
+<b>2000</b>—Subsec. (h). Pub. L. 106–310 substituted “such sums as may be necessary for each of the fiscal years 2001 through 2003” for “$70,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994”.
 
-1992—Subsec. (a). Pub. L. 102–321, §114(d), substituted “Prevention Center” for “Office”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–321, §114(d), substituted “Prevention Center” for “Office”.
 
 Subsecs. (c) to (g). Pub. L. 102–321, §114(b), added subsec. (c) and redesignated former subsecs. (c) through (f) as (d) through (g), respectively.
 
 Subsec. (h). Pub. L. 102–321, §114(c), added subsec. (h).
 
-1988—Subsec. (b)(5). Pub. L. 100–690, §2051(d)(1), added par. (5).
+<b>1988</b>—Subsec. (b)(5). Pub. L. 100–690, §2051(d)(1), added par. (5).
 
 Subsec. (f)(9). Pub. L. 100–690, §2051(d)(2)(B), amended par. (9) generally, substituting “has experienced long-term physical pain due to injury; or” for “is disabled by injuries.”
 

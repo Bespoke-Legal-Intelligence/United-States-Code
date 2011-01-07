@@ -12,7 +12,7 @@
 
 (c) When the application of the percentages and ratios specified in this section results in a fraction, a fraction of one-half or more is counted as one, and a fraction of less than one-half is disregarded.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 174; Pub. L. 85–861, §1(66), Sept. 2, 1958, 72 Stat. 1463; Pub. L. 89–603, §1(2), Sept. 24, 1966, 80 Stat. 846; Pub. L. 90–329, June 4, 1968, 82 Stat. 170; Pub. L. 96–513, title V, §502(5), Dec. 12, 1980, 94 Stat. 2909; Pub. L. 97–22, §5(b), July 10, 1981, 95 Stat. 128; Pub. L. 102–190, div. A, title X, §1061(a)(20)(A), Dec. 5, 1991, 105 Stat. 1473.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 174; Pub. L. 85–861, §1(66), Sept. 2, 1958, 72 Stat. 1463; Pub. L.89–603, §1(2), Sept. 24, 1966, 80 Stat. 846; Pub. L. 90–329, June 4, 1968, 82 Stat. 170; Pub. L. 96–513, title V, §502(5), Dec. 12, 1980, 94 Stat. 2909; Pub. L. 97–22, §5(b), July 10, 1981, 95 Stat. 128; Pub. L. 102–190, div. A, title X, §1061(a)(20)(A), Dec. 5, 1991, 105 Stat. 1473.)
 
 Historical and Revision Notes<br>1956
 
@@ -86,7 +86,7 @@ Under section 208(e) of the National Security Act of 1947 (5 U.S.C. 626c(e)), al
 
 After the enactment of the Officer Personnel Act of 1947, section 308 of the Army Organization Act of 1950 (10:61–1) provided for an Assistant Judge Advocate General and three brigadier generals in the Judge Advocate General's Corps of the Army. The creation of these four general officer spaces served to increase the mentioned authorized strength figure from 357 to 361, and the figure 201 to 205. The opinion of the Judge Advocate General of the Army (JAGA 1948/5806, 2 Sept. 1948) is in accord with that conclusion.
 
-The revised section reflects the authorized strength of the Regular Army in general officers on the activelist resulting from the mentioned allocation to the Air Force and the addition of four general officer spaces in the Judge Advocate General's Corps.
+The revised section reflects the authorized strength of the Regular Army in general officers on the active list resulting from the mentioned allocation to the Air Force and the addition of four general officer spaces in the Judge Advocate General's Corps.
 
 That allocation, and those mentioned in the explanation of \[former\] subsection (c), below, have had the force of law since July 26, 1950, when the period for transfers, including the administrative authority to change these allocations, expired.
 
@@ -138,23 +138,23 @@ In subsection (a), the words “Subject to section 3202(a) of this title” are 
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–190 substituted “section 526” for “section 3202(a)”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–190 substituted “section 526” for “section 3202(a)”.
 
-1981—Subsec. (a). Pub. L. 97–22 struck out “, exclusive of the number authorized for the Army Medical Department and the Chaplains,” before “is 75/10,000”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–22 struck out “, exclusive of the number authorized for the Army Medical Department and the Chaplains,” before “is 75/10,000”.
 
 Pub. L. 97–22, which directed amendment of subsec. (a) by striking out “, exclusive of the number of commissioned officers on the active-duty list authorized for the Army Medical Department and the Chaplains”, was executed by striking out “, exclusive of the number of commissioned officers on the active list authorized for the Army Medical Department and the Chaplains” before period at end of first sentence, to reflect the probable intent of Congress. See 1980 Amendment note and Effective Date of 1980 Amendment note below.
 
-1980—Subsec. (a). Pub. L. 96–513, §502(5)(A), (B), substituted “active-duty list” for “active list” wherever appearing and struck out provisions that, of the authorized strength, not more than one-half could be in a regular grade above brigadier general.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513, §502(5)(A), (B), substituted “active-duty list” for “active list” wherever appearing and struck out provisions that, of the authorized strength, not more than one-half could be in a regular grade above brigadier general.
 
 Subsec. (b). Pub. L. 96–513, §502(5)(A), (C), substituted “active-duty list” for “active list” wherever appearing and substituted paragraphed references to “(1) each corps of the Army Medical Department” and “(2) the Chaplains” for former paragraphed references to “(1) The Medical Corps”, “(2) the Dental Corps”, “(3) the Veterinary Corps”, and “(4) the Chaplains”.
 
 Subsecs. (d), (e). Pub. L. 96–513, §502(5)(D), struck out subsec. (d) which provided that general officers on the active list of the Regular Army who were specifically authorized by law to hold a civil office under the United States or any instrumentality thereof were not counted in determining authorized strength under this section and subsec. (e) which had provided that the authorized strength of the Medical Service Corps in general officers on the active list of the Regular Army was one commissioned officer in the regular grade of brigadier general.
 
-1968—Subsec. (a). Pub. L. 90–329 substituted “Army Medical Department” for “Army Medical Service” in two places.
+<b>1968</b>—Subsec. (a). Pub. L. 90–329 substituted “Army Medical Department” for “Army Medical Service” in two places.
 
-1966—Subsec. (e). Pub. L. 89–603 added subsec. (e).
+<b>1966</b>—Subsec. (e). Pub. L. 89–603 added subsec. (e).
 
-1958—Subsec. (a). Pub. L. 85–861, §1(66)(A), substituted “Subject to section 3202(a) of this title, the” for “The”.
+<b>1958</b>—Subsec. (a). Pub. L. 85–861, §1(66)(A), substituted “Subject to section 3202(a) of this title, the” for “The”.
 
 Subsecs. (c) to (e). Pub. L. 85–861, §1(66)(B), struck out subsec. (c) which prescribed the number of general officers authorized for the active list of the Regular Army, and redesignated subsecs. (d) and (e) as (c) and (d), respectively.
 

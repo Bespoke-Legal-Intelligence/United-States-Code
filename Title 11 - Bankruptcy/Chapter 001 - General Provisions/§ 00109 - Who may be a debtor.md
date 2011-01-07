@@ -6,11 +6,11 @@
 
 &emsp;(1) a railroad;
 
-&emsp;(2) a domestic insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, a New Markets Venture Capital company as defined in section 351 of the Small Business Investment Act of 1958, a small business investment company licensed by the Small Business Administration under section 301 of the Small Business Investment Act of 1958, credit union, or industrial bank or similar institution which is an insured bank as defined in section 3(h) of the Federal Deposit Insurance Act, except that an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit InsuranceCorporation Improvement Act of 1991 may be a debtor if a petition is filed at the direction of the Board of Governors of the Federal Reserve System; or
+&emsp;(2) a domestic insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, a New Markets Venture Capital company as defined in section 351 of the Small Business Investment Act of 1958, a small business investment company licensed by the Small Business Administration under section 301 of the Small Business Investment Act of 1958, credit union, or industrial bank or similar institution which is an insured bank as defined in section 3(h) of the Federal Deposit Insurance Act, except that an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor if a petition is filed at the direction of the Board of Governors of the Federal Reserve System; or
 
 &emsp;(3)(A) a foreign insurance company, engaged in such business in the United States; or
 
-&emsp;(B) a foreign bank, savings bank, cooperative bank, savings and loan association, building and loan association, or credit union, that has a branch or agency (as defined in section 1(b) of the International Banking Act of 1978 <sup>1</sup> in the United States.
+&emsp;(B) a foreign bank, savings bank, cooperative bank, savings and loan association, building and loan association, or credit union, that has a branch or agency (as defined in section 1(b) of the International Banking Act of 1978) in the United States.
 
 (c) An entity may be a debtor under chapter 9 of this title if and only if such entity—
 
@@ -42,7 +42,7 @@
 
 &emsp;(2) the debtor requested and obtained the voluntary dismissal of the case following the filing of a request for relief from the automatic stay provided by section 362 of this title.
 
-(h)(1) Subject to paragraphs (2) and (3), and notwithstanding any other provision of this section, an individual may not be a debtor under this title unless such individual has, during the 180-day period preceding the date of filing of the petition by such individual, received from an approved nonprofit budget and credit counseling agency described in section 111(a) an individual or group briefing (including a briefing conducted by telephone or on the Internet) that outlined the opportunities for available credit counseling and assisted such individual in performing a related budget analysis.
+(h)(1) Subject to paragraphs (2) and (3), and notwithstanding any other provision of this section other than paragraph (4) of this subsection, an individual may not be a debtor under this title unless such individual has, during the 180-day period ending on the date of filing of the petition by such individual, received from an approved nonprofit budget and credit counseling agency described in section 111(a) an individual or group briefing (including a briefing conducted by telephone or on the Internet) that outlined the opportunities for available credit counseling and assisted such individual in performing a related budget analysis.
 
 (2)(A) Paragraph (1) shall not apply with respect to a debtor who resides in a district for which the United States trustee (or the bankruptcy administrator, if any) determines that the approved nonprofit budget and credit counseling agencies for such district are not reasonably able to provide adequate services to the additional individuals who would otherwise seek credit counseling from such agencies by reason of the requirements of paragraph (1).
 
@@ -58,9 +58,13 @@
 
 (B) With respect to a debtor, an exemption under subparagraph (A) shall cease to apply to that debtor on the date on which the debtor meets the requirements of paragraph (1), but in no case may the exemption apply to that debtor after the date that is 30 days after the debtor files a petition, except that the court, for cause, may order an additional 15 days.
 
-(4) The requirements of paragraph (1) shall not apply with respect to a debtor whom the courtdetermines, after notice and hearing, is unable to complete those requirements because of incapacity, disability, or active military duty in a military combat zone. For the purposes of this paragraph, incapacity means that the debtor is impaired by reason of mental illness or mental deficiency so that he is incapable of realizing and making rational decisions with respect to his financial responsibilities; and “disability” means that the debtor is so physically impaired as to be unable, after reasonable effort, to participate in an in person, telephone, or Internet briefing required under paragraph (1).
+(4) The requirements of paragraph (1) shall not apply with respect to a debtor whom the court determines, after notice and hearing, is unable to complete those requirements because of incapacity, disability, or active military duty in a military combat zone. For the purposes of this paragraph, incapacity means that the debtor is impaired by reason of mental illness or mental deficiency so that he is incapable of realizing and making rational decisions with respect to his financial responsibilities; and “disability” means that the debtor is so physically impaired as to be unable, after reasonable effort, to participate in an in person, telephone, or Internet briefing required under paragraph (1).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2557; Pub. L. 97–320, title VII, §703(d), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 98–353, title III, §§301, 425, July 10, 1984, 98 Stat. 352, 369; Pub. L. 99–554, title II, §253, Oct. 27, 1986, 100 Stat. 3105; Pub. L. 100–597, §2, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 103–394, title I, §108(a), title II, §220, title IV, §402, title V, §501(d)(2), Oct. 22, 1994, 108 Stat. 4111, 4129, 4141, 4143; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(1), (2)\], §1(a)(8) \[§1(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–665; Pub. L. 109–8, title I, §106(a), title VIII, §802(d)(1), title X, §1007(b), title XII, §1204(1), Apr. 20, 2005, 119 Stat. 37, 146, 188, 193; Pub. L. 111–16, §2(1), May 7, 2009, 123 Stat. 1607.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2557; Pub. L. 97–320, title VII, §703(d), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 98–353, title III, §§301, 425, July 10, 1984, 98 Stat. 352, 369; Pub. L. 99–554, title II, §253, Oct. 27, 1986, 100 Stat. 3105; Pub. L. 100–597, §2, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 103–394, title I, §108(a), title II, §220, title IV, §402, title V, §501(d)(2), Oct. 22, 1994, 108 Stat. 4111, 4129, 4141, 4143; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(1), (2)\], §1(a)(8) \[§1(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–665; Pub. L. 109–8, title I, §106(a), title VIII, §802(d)(1), title X, §1007(b), title XII, §1204(1), Apr. 20, 2005, 119 Stat. 37, 146, 188, 193; Pub. L. 111–16, §2(1), May 7, 2009, 123 Stat. 1607; Pub. L. 111–327, §2(a)(6), Dec. 22, 2010, 124 Stat. 3557.)
+
+#### Adjustment of Dollar Amounts
+
+<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.</i>
 
 #### Historical and Revision Notes
 
@@ -109,6 +113,10 @@ Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991
 Section 1(b) of the International Banking Act of 1978, referred to in subsec. (b)(3)(B), is classified to section 3101 of Title 12, Banks and Banking.
 
 #### Amendments
+
+2010—Subsec. (b)(3)(B). Pub. L. 111–327, §2(a)(6)(A), inserted closing parenthesis after “1978”.
+
+Subsec. (h)(1). Pub. L. 111–327, §2(a)(6)(B), inserted “other than paragraph (4) of this subsection” after “this section” and substituted “ending on” for “preceding”.
 
 2009—Subsec. (h)(3)(A)(ii). Pub. L. 111–16 substituted “7-day” for “5-day”.
 
@@ -162,7 +170,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–597 effective Nov. 3, 1988, but not applicable to any case commenced under thistitle before that date, see section 12 of Pub. L. 100–597, set out as a note under section 101 of this title.
+Amendment by Pub. L. 100–597 effective Nov. 3, 1988, but not applicable to any case commenced under this title before that date, see section 12 of Pub. L. 100–597, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -174,7 +182,15 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsec. (e) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
+The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
+By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (e), dollar amounts “336,900” and “1,010,650” were adjusted to “360,475” and “1,081,400”, respectively, each time they appeared. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (e), dollar amounts “307,675” and “922,975” were adjusted to “336,900” and “1,010,650”, respectively, each time they appeared.
+
+By notice dated Feb. 18, 2004, 69 F.R. 8482, effective Apr. 1, 2004, in subsec. (e), dollar amounts “290,525” and “871,550” were adjusted to “307,675” and “922,975”, respectively, each time they appeared.
+
+By notice dated Feb. 13, 2001, 66 F.R. 10910, effective Apr. 1, 2001, in subsec. (e), dollar amounts “269,250” and “807,750” were adjusted to “290,525” and “871,550”, respectively, each time they appeared.
+
+By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (e), dollar amounts “250,000” and “750,000” were adjusted to “269,250” and “807,750”, respectively, each time they appeared.
 

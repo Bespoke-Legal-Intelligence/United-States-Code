@@ -28,7 +28,7 @@ Unusual or Extraordinary Expenses.—(1) The Secretary concerned may reimburse a
 
 Payment of Allowance Based on Overseas Location of Dependents.—In the case of a member assigned to duty inside the continental United States whose dependents continue to reside outside the continental United States, the Secretary concerned may pay the member a per diem under this section based on the location of the dependents and provide reimbursement under subsection (d) for an unusual or extraordinary expense incurred by the dependents if the Secretary determines that such payment or reimbursement is in the best interest of the member or the member's dependents and in the best interest of the United States.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 473; Pub. L. 89–718, §57, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 91–486, Oct. 22, 1970, 84 Stat. 1085; Pub. L. 96–107, title VIII, §807(a), Nov. 9, 1979, 93 Stat. 813; Pub. L. 98–525, title VI, §602(e), Oct. 19, 1984, 98 Stat. 2536; Pub. L. 99–145, title XIII, §1303(b)(8), Nov. 8, 1985, 99 Stat. 741; Pub. L. 101–189, div. A, title VI,§622(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 103–160, div. A, title VI, §622(a), Nov. 30, 1993, 107 Stat. 1683; Pub. L. 105–85, div. A, title VI, §603(c)(2), Nov. 18, 1997, 111 Stat. 1781; Pub. L. 105–261, div. A, title VI, §603(b), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–398, §1 \[\[div. A\], title VI, §641(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–160; Pub. L. 108–375, div. A, title VI, §605(a), (b)(1), (2), Oct. 28, 2004, 118 Stat. 1945; Pub. L. 109–163, div. A, title VI, §612, Jan. 6, 2006, 119 Stat. 3291.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 473; Pub. L. 89–718, §57, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 91–486, Oct. 22, 1970, 84 Stat. 1085; Pub. L. 96–107, title VIII, §807(a), Nov. 9, 1979, 93 Stat. 813; Pub. L. 98–525, title VI, §602(e), Oct. 19, 1984, 98 Stat. 2536; Pub. L. 99–145, title XIII, §1303(b)(8), Nov. 8, 1985, 99 Stat. 741; Pub. L. 101–189, div. A, title VI, §622(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 103–160, div. A, title VI, §622(a), Nov. 30, 1993, 107 Stat. 1683; Pub. L. 105–85, div. A, title VI, §603(c)(2), Nov. 18, 1997, 111 Stat. 1781; Pub. L. 105–261, div. A, title VI, §603(b), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–398, §1 \[\[div. A\], title VI, §641(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–160; Pub. L. 108–375, div. A, title VI, §605(a), (b)(1), (2), Oct. 28, 2004, 118 Stat. 1945; Pub. L. 109–163, div. A, title VI, §612, Jan. 6, 2006, 119 Stat. 3291.)
 
 Historical and Revision Notes
 
@@ -48,7 +48,7 @@ The words “Secretaries concerned” are substituted for the words “Secretari
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–163, §612(b)(1), substituted “Unusual or Extraordinary” for “Nonrecurring” in heading.
+<b>2006</b>—Subsec. (d). Pub. L. 109–163, §612(b)(1), substituted “Unusual or Extraordinary” for “Nonrecurring” in heading.
 
 Subsec. (d)(1). Pub. L. 109–163, §612(b)(1), (3)(A), in introductory provisions, inserted “or (e)” after “subsection (a)” and substituted “an unusual or extraordinary” for “a nonrecurring”.
 
@@ -58,35 +58,35 @@ Subsec. (d)(1)(C), (2). Pub. L. 109–163, §612(b)(2), inserted “or (e)” af
 
 Subsec. (e). Pub. L. 109–163, §612(a), added subsec. (e).
 
-2004—Pub. L. 108–375, §605(b)(2), amended section catchline generally, substituting “continental United States” for “United States or in Hawaii or Alaska”.
+<b>2004</b>—Pub. L. 108–375, §605(b)(2), amended section catchline generally, substituting “continental United States” for “United States or in Hawaii or Alaska”.
 
 Subsec. (a). Pub. L. 108–375, §605(b)(1), substituted “outside of the continental United States” for “outside of the United States or in Hawaii or Alaska”.
 
 Subsec. (d). Pub. L. 108–375, §605(a), added subsec. (d).
 
-2000—Pub. L. 106–398 amended section generally. Prior to amendment, section authorized payment of a per diem to members of the uniformed services on duty outside of the United States or in Hawaii or Alaska and specified what elements were to be considered in determining the per diem allowance.
+<b>2000</b>—Pub. L. 106–398 amended section generally. Prior to amendment, section authorized payment of a per diem to members of the uniformed services on duty outside of the United States or in Hawaii or Alaska and specified what elements were to be considered in determining the per diem allowance.
 
-1998—Subsec. (c). Pub. L. 105–261 struck out subsec. (c) which authorized the Secretary concerned to make a lump-sum payment for nonrecurring expenses to certain members of the uniformed services authorized to receive per diem allowances under subsec. (a).
+<b>1998</b>—Subsec. (c). Pub. L. 105–261 struck out subsec. (c) which authorized the Secretary concerned to make a lump-sum payment for nonrecurring expenses to certain members of the uniformed services authorized to receive per diem allowances under subsec. (a).
 
-1997—Subsecs. (b) to (d). Pub. L. 105–85 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “A station housing allowance may be prescribed under this section for a member who is on duty outside of the United States without regard to costs other than housing costs and may consist of the difference between basic allowance for quarters and applicable housing cost. A station housing allowance may not be prescribed under this section for a member who is on duty in Hawaii or Alaska. A station housing allowance prescribed under this section may be paid in advance.”
+<b>1997</b>—Subsecs. (b) to (d). Pub. L. 105–85 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “A station housing allowance may be prescribed under this section for a member who is on duty outside of the United States without regard to costs other than housing costs and may consist of the difference between basic allowance for quarters and applicable housing cost. A station housing allowance may not be prescribed under this section for a member who is on duty in Hawaii or Alaska. A station housing allowance prescribed under this section may be paid in advance.”
 
-1993—Subsec. (d). Pub. L. 103–160 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In the case of a member of the uniformed services authorized to receive a per diem allowance under subsection (a), the Secretary concerned may make a lump-sum payment for nonrecurring expenses incurred by the member in occupying private housing outside of the United States. Expenses for which payments are made under this subsection may not be considered for purposes of determining the per diem allowance of the member under subsection (a).”
+<b>1993</b>—Subsec. (d). Pub. L. 103–160 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In the case of a member of the uniformed services authorized to receive a per diem allowance under subsection (a), the Secretary concerned may make a lump-sum payment for nonrecurring expenses incurred by the member in occupying private housing outside of the United States. Expenses for which payments are made under this subsection may not be considered for purposes of determining the per diem allowance of the member under subsection (a).”
 
-1989—Subsec. (d). Pub. L. 101–189 added subsec. (d).
+<b>1989</b>—Subsec. (d). Pub. L. 101–189 added subsec. (d).
 
-1985—Pub. L. 99–145 inserted “the” after “outside” in section catchline.
+<b>1985</b>—Pub. L. 99–145 inserted “the” after “outside” in section catchline.
 
-1984—Subsec. (a). Pub. L. 98–525, §602(e)(1), designated first two sentences of existing section as subsec. (a).
+<b>1984</b>—Subsec. (a). Pub. L. 98–525, §602(e)(1), designated first two sentences of existing section as subsec. (a).
 
 Subsec. (b). Pub. L. 98–525, §602(e)(2), (3), designated third and fourth sentences of existing section as subsec. (b), in such third sentence as so designated inserted “for a member who is on duty outside of the United States” after “under this section”, and inserted after such third sentence: “A station housing allowance may not be prescribed under this section for a member who is on duty in Hawaii or Alaska.”
 
 Subsec. (c). Pub. L. 98–525, §602(e)(4), designated last sentence of existing section as subsec. (c).
 
-1979—Pub. L. 96–107 inserted provisions relating to advance payment of station housing allowances.
+<b>1979</b>—Pub. L. 96–107 inserted provisions relating to advance payment of station housing allowances.
 
-1970—Pub. L. 91–486 inserted provision authorizing a station housing allowance.
+<b>1970</b>—Pub. L. 91–486 inserted provision authorizing a station housing allowance.
 
-1966—Pub. L. 89–718 substituted “the” for “a” after “including”.
+<b>1966</b>—Pub. L. 89–718 substituted “the” for “a” after “including”.
 
 #### Effective Date of 1997 Amendment
 

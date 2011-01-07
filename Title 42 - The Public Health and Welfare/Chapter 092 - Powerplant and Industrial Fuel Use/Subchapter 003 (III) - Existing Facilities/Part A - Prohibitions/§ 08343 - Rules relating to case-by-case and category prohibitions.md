@@ -18,7 +18,7 @@
 
 #### Amendments
 
-1987—Subsec. (a)(1). Pub. L. 100–42, §1(c)(9)(A), (B), struck out “or installation” after “powerplant” in two places and “or 8342” after “section 8341(b) or (c)”.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–42, §1(c)(9)(A), (B), struck out “or installation” after “powerplant” in two places and “or 8342” after “section 8341(b) or (c)”.
 
 Subsec. (a)(2). Pub. L. 100–42, §1(c)(9)(A), struck out “or installation” after “powerplant”.
 

@@ -1,7 +1,5 @@
 ### SUBCHAPTER VII—APPLICATION OF SANCTIONS LAWS TO INTELLIGENCE ACTIVITIES
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
-
 
 ---
 

@@ -20,11 +20,11 @@
 
 &emsp;&emsp;(ii) alter, destroy, mutilate, or conceal an object with intent to impair the integrity or availability of the object for use in an official proceeding;
 
-&emsp;&emsp;(iii) evade legal process summoning that person to appear as a witness, or to produce a record, document, or other object, in an official proceeding; or
+&emsp;&emsp;(iii) evade legal process summoning that person to appear as a witness, or to producea record, document, or other object, in an official proceeding; or
 
 &emsp;&emsp;(iv) be absent from an official proceeding to which that person has been summoned by legal process; or
 
-&emsp;(C) hinder, delay, or prevent the communication to a law enforcement officer or judge ofthe United States of information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation, supervised release, parole, or release pending judicial proceedings;
+&emsp;(C) hinder, delay, or prevent the communication to a law enforcement officer or judge of the United States of information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation, supervised release, parole, or release pending judicial proceedings;
 
 > shall be punished as provided in paragraph (3).
 
@@ -100,13 +100,13 @@
 
 (j) If the offense under this section occurs in connection with a trial of a criminal case, the maximum term of imprisonment which may be imposed for the offense shall be the higher of that otherwise provided by law or the maximum term that could have been imposed for any offense charged in such case.
 
-(k) Whoever conspires to commit any offense under this section shall be subject to the same penalties as those prescribed for the offense the commission of which was the object of the conspiracy.
+(k) Whoever conspires to commit any offense under this section shall be subject to the same penalties as those prescribed for the offense thecommission of which was the object of the conspiracy.
 
-(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1249; amended Pub. L. 99–646, §61, Nov. 10, 1986, 100 Stat. 3614; Pub. L. 100–690, title VII, §7029(a), (c), Nov. 18, 1988, 102 Stat. 4397, 4398; Pub. L.101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title VI, §60018, title XXXIII, §330016(1)(O), (U), Sept. 13, 1994, 108 Stat. 1975, 2148; Pub. L. 104–214, §1(2), Oct. 1, 1996, 110 Stat. 3017; Pub. L. 104–294, title VI, §604(b)(31), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 107–204, title XI, §1102, July 30, 2002, 116 Stat. 807; Pub. L. 107–273, div. B, title III, §3001(a), (c)(1), Nov. 2, 2002, 116 Stat. 1803, 1804; Pub. L. 110–177, title II, §205, Jan. 7, 2008, 121 Stat. 2537.)
+(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1249; amended Pub. L. 99–646, §61, Nov. 10, 1986, 100 Stat. 3614; Pub. L. 100–690, title VII, §7029(a), (c), Nov. 18, 1988, 102 Stat. 4397, 4398; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title VI, §60018, title XXXIII, §330016(1)(O), (U), Sept. 13, 1994, 108 Stat. 1975, 2148; Pub. L. 104–214, §1(2), Oct. 1, 1996, 110 Stat. 3017; Pub. L. 104–294, title VI, §604(b)(31), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 107–204, title XI, §1102, July 30, 2002, 116 Stat. 807; Pub. L. 107–273, div. B, title III, §3001(a), (c)(1), Nov. 2, 2002, 116 Stat. 1803, 1804; Pub. L. 110–177, title II, §205, Jan. 7, 2008, 121 Stat. 2537.)
 
 #### Amendments
 
-2008—Subsec. (a)(3)(A). Pub. L. 110–177, §205(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “in the case of murder (as defined in section 1111), the death penalty or imprisonment for life, and in the case of any other killing, the punishment provided in section 1112;”.
+<b>2008</b>—Subsec. (a)(3)(A). Pub. L. 110–177, §205(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “in the case of murder (as defined in section 1111), the death penalty or imprisonment for life, and in the case of any other killing, the punishment provided in section 1112;”.
 
 Subsec. (a)(3)(B). Pub. L. 110–177, §205(1)(B), substituted “30 years” for “20 years” in concluding provisions.
 
@@ -116,7 +116,7 @@ Subsec. (b). Pub. L. 110–177, §205(2), substituted “20 years” for “ten 
 
 Subsec. (d). Pub. L. 110–177, §205(3), substituted “3 years” for “one year” in concluding provisions.
 
-2002—Subsec. (a)(1). Pub. L. 107–273, §3001(a)(1)(A), substituted “as provided in paragraph (3)” for “as provided in paragraph (2)” in concluding provisions.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–273, §3001(a)(1)(A), substituted “as provided in paragraph (3)” for “as provided in paragraph (2)” in concluding provisions.
 
 Subsec. (a)(2). Pub. L. 107–273, §3001(a)(1)(C), added par. (2). Former par. (2) redesignated (3).
 
@@ -136,21 +136,21 @@ Subsecs. (e) to (j). Pub. L. 107–204 redesignated former subsecs. (d) to (i) a
 
 Subsec. (k). Pub. L. 107–273, §3001(a)(3), added subsec. (k).
 
-1996—Subsec. (a)(2)(A). Pub. L. 104–294 inserted “and” after semicolon at end.
+<b>1996</b>—Subsec. (a)(2)(A). Pub. L. 104–294 inserted “and” after semicolon at end.
 
 Subsec. (i). Pub. L. 104–214 added subsec. (i).
 
-1994—Subsec. (a)(2)(A). Pub. L. 103–322, §60018, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “(A) in the case of a killing, the punishment provided in sections 1111 and 1112 of this title; and”.
+<b>1994</b>—Subsec. (a)(2)(A). Pub. L. 103–322, §60018, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “(A) in the case of a killing, the punishment provided in sections 1111 and 1112 of this title; and”.
 
 Subsec. (b). Pub. L. 103–322, §330016(1)(U), substituted “fined under this title” for “fined not more than $250,000” in concluding provisions.
 
 Subsec. (c). Pub. L. 103–322, §330016(1)(O), substituted “fined under this title” for “fined not more than $25,000” in concluding provisions.
 
-1988—Subsec. (b). Pub. L. 100–690, §7029(c), substituted “threatens, or corruptly persuades” for “or threatens”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–690, §7029(c), substituted “threatens, or corruptly persuades” for “or threatens”.
 
 Subsec. (h). Pub. L. 100–690, §7029(a), added subsec. (h).
 
-1986—Subsec. (a). Pub. L. 99–646, §61(2), (3), added subsec. (a) and redesignated former subsec. (a) as (b).
+<b>1986</b>—Subsec. (a). Pub. L. 99–646, §61(2), (3), added subsec. (a) and redesignated former subsec. (a) as (b).
 
 Subsecs. (b) to (g). Pub. L. 99–646, §61(1), (3), redesignated former subsec. (a) as (b), inserted “, delay, or prevent”, and redesignated former subsecs. (b) to (f) as (c) to (g), respectively.
 

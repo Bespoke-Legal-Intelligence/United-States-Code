@@ -22,7 +22,7 @@
 
 &emsp;(A) stipends fixed by the Secretary pursuant to paragraph (1);
 
-&emsp;(B) hospitalization, medical care, and life insurance and any other employee benefits as are agreed upon by the participating institutions for the period that such intern or resident serves in a Department facility furnishing hospital care or medical services;
+&emsp;(B) hospitalization, medical care, and life insurance and any other employee benefits asare agreed upon by the participating institutions for the period that such intern or resident serves in a Department facility furnishing hospital care or medical services;
 
 &emsp;(C) tax on employers pursuant to chapter 21 of the Internal Revenue Code of 1986, where applicable; and
 
@@ -46,10 +46,6 @@
 
 #### References in Text
 
-The civil service laws, referred to in subsec. (a)(1), are set out in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
-The classification laws, referred to in subsec. (a)(1), are classified generally to chapter 51 (§5101 et seq.) and to subchapter III (§5331 et seq.) of chapter 53 of Title 5.
-
 Chapter 21 of the Internal Revenue Code of 1986, referred to in subsec. (c)(2)(C), is classified to chapter 21 (§3101 et seq.) of Title 26, Internal Revenue Code.
 
 #### Prior Provisions
@@ -58,7 +54,7 @@ Provisions similar to those in this section were contained in section 4114(b) of
 
 #### Amendments
 
-1996—Subsec. (c)(2), (3)(B). Pub. L. 104–262, §345(1), substituted “Department facility furnishing hospital care or medical services” for “Department hospital” wherever appearing.
+<b>1996</b>—Subsec. (c)(2), (3)(B). Pub. L. 104–262, §345(1), substituted “Department facility furnishing hospital care or medical services” for “Department hospital” wherever appearing.
 
 Subsec. (c)(4)(C). Pub. L. 104–262, §345(2), substituted “participating facility” for “participating hospital”.
 

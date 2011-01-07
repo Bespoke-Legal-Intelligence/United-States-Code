@@ -58,17 +58,17 @@ Notification of Eligibility.—(1) The Secretary concerned shall transmit to eac
 
 Repayment.—If a person paid a bonus under this section does not complete a period of active duty beginning on the date on which the election of the person under paragraph (1) of subsection (a) is received and ending on the date on which the person completes 20 years of active duty service as described in paragraph (2) of such subsection, the person shall be subject to the repayment provisions of section 373 of this title.
 
-(Added Pub. L. 106–65, div. A, title VI, §642(a), Oct. 5, 1999, 113 Stat. 662, §322; amended Pub. L. 107–107, div. A, title VI, §620(a), Dec. 28, 2001, 115 Stat. 1138; Pub. L. 109–163, div. A, title VI, §687(b)(30), Jan. 6, 2006, 119 Stat. 3332; renumbered §354 and amended Pub. L. 110–181, div. A,title VI, §661(b)(1), (2), Jan. 28, 2008, 122 Stat. 178.)
+(Added Pub. L. 106–65, div. A, title VI, §642(a), Oct. 5, 1999, 113 Stat. 662, §322; amended Pub. L. 107–107, div. A, title VI, §620(a), Dec. 28, 2001, 115 Stat. 1138; Pub. L. 109–163, div. A, title VI, §687(b)(30), Jan. 6, 2006, 119 Stat. 3332; renumbered §354 and amended Pub. L. 110–181, div. A, title VI, §661(b)(1), (2), Jan. 28, 2008, 122 Stat. 178.)
 
 #### Amendments
 
-2008—Pub. L. 110–181, §661(b)(1), renumbered section 322 of this title as this section.
+<b>2008</b>—Pub. L. 110–181, §661(b)(1), renumbered section 322 of this title as this section.
 
 Subsec. (f). Pub. L. 110–181, §661(b)(2), substituted “section 373” for “section 303a(e)”.
 
-2006—Subsec. (f). Pub. L. 109–163, amended heading and text of subsec. (f) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to repayment required when person elects to receive bonus to remain continuously on active duty until completion of 20 years but fails to complete total period.
+<b>2006</b>—Subsec. (f). Pub. L. 109–163, amended heading and text of subsec. (f) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to repayment required when person elects to receive bonus to remain continuously on active duty until completion of 20 years but fails to complete total period.
 
-2001—Subsec. (d)(1). Pub. L. 107–107, §620(a)(1), substituted “equal to $30,000” for “paid in a single lump sum of $30,000”.
+<b>2001</b>—Subsec. (d)(1). Pub. L. 107–107, §620(a)(1), substituted “equal to $30,000” for “paid in a single lump sum of $30,000”.
 
 Subsec. (d)(2) to (4). Pub. L. 107–107, §620(a)(2), (3), added pars. (2) and (3), redesignated former par. (2) as (4), and substituted therein “The lump sum payment of the bonus, and the first installment payment in the case of members who elect to receive the bonus in installments,” for “The bonus”.
 
@@ -82,5 +82,5 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 #### Application to Existing Agreements
 
-Pub. L. 107–107, div. A, title VI, §620(b), Dec. 28, 2001, 115 Stat. 1139, provided that: “The Secretary concerned (as defined in section 101(5) of title 37, United States Code) shall extend to each member of the uniformed services who has executed the written agreement required by subsection (a)(2) of section 322 \[now 354\] of such title before the date of the enactment of this Act \[Dec. 28, 2001\], but who has not received the lump sum payment by that date, an opportunity to make the election authorized by subsection (d) of such section, as amended by this section.”
+Pub. L. 107–107, div. A, title VI, §620(b), Dec. 28, 2001, 115 Stat. 1139, provided that: “The Secretary concerned (as defined in section 101(5) of title 37, United States Code) shall extend to each member of the uniformedservices who has executed the written agreement required by subsection (a)(2) of section 322 \[now 354\] of such title before the date of the enactment of this Act \[Dec. 28, 2001\], but who has not received the lump sum payment by that date, an opportunity to make the election authorized by subsection (d) of such section, as amended by this section.”
 

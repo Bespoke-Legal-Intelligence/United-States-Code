@@ -124,19 +124,19 @@ A prior section 2115 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-1993—Subsec. (j). Pub. L. 103–66 substituted “$110,000,000 for each succeeding fiscal year” for “$80,000,000 for each succeeding fiscal year”.
+<b>1993</b>—Subsec. (j). Pub. L. 103–66 substituted “$110,000,000 for each succeeding fiscal year” for “$80,000,000 for each succeeding fiscal year”.
 
-1992—Subsecs. (e)(1), (f)(2). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsecs. (e)(1), (f)(2). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 Subsec. (j). Pub. L. 102–531 increased authorization for fiscal year 1993 from $80,000,000 to $110,000,000.
 
-1991—Subsec. (f)(4)(A). Pub. L. 102–168, §201(e)(1)(A), (2), struck out “of the proceeds” after “portion” and substituted “Vaccine Injury Compensation Trust Fund established under section 9510 of title 26” for “trust fund”.
+<b>1991</b>—Subsec. (f)(4)(A). Pub. L. 102–168, §201(e)(1)(A), (2), struck out “of the proceeds” after “portion” and substituted “Vaccine Injury Compensation Trust Fund established under section 9510 of title 26” for “trust fund”.
 
 Subsec. (f)(4)(B). Pub. L. 102–168, §201(e)(1)(B), which directed substitution of “shall be paid from appropriations made available under subsection (j) of this section in a lump sum of which all or a portion” for “paid in 4 equal installments of which all or portion of the proceeds” was executed by making the substitution for “paid in 4 equal annual installments of which all or a portion of the proceeds” to reflect the probable intent of Congress.
 
 Subsec. (f)(4)(C). Pub. L. 102–168, §201(f), added subpar. (C).
 
-1990—Subsec. (e)(2). Pub. L. 101–502, §5(d)(1), inserted “of compensation” before “limited to the costs”.
+<b>1990</b>—Subsec. (e)(2). Pub. L. 101–502, §5(d)(1), inserted “of compensation” before “limited to the costs”.
 
 Subsec. (f)(2). Pub. L. 101–502, §5(d)(2)(A), substituted “section 300aa–21(a)” for “section 300aa–21(b)”.
 
@@ -144,7 +144,7 @@ Subsec. (f)(4)(B). Pub. L. 101–502, §5(d)(2)(B), substituted “subsection (j
 
 Subsec. (j). Pub. L. 101–502, §5(d)(3), inserted before period at end of first sentence “, and $80,000,000 for each succeeding fiscal year in which a payment of compensation is required under subsection (f)(4)(B) of this section”.
 
-1989—Subsec. (b). Pub. L. 101–239, §6601(<i>l</i>)(1), substituted “may include the compensation described in paragraphs (1)(A) and (2) of subsection (a) of this section and may also include an amount, not to exceed a combined total of $30,000, for—” and cls. (1) to (3) for “may not include the compensation described in paragraph (1)(B) of subsection (a) of this section and may include attorneys’ fees and other costs included in a judgment under subsection (e) of this section, except that the total amount that may be paid as compensation under paragraphs (3) and (4) of subsection (a) of this section and included as attorneys’ fees and other costs under subsection (e) of this section may not exceed $30,000.”
+<b>1989</b>—Subsec. (b). Pub. L. 101–239, §6601(<i>l</i>)(1), substituted “may include the compensation described in paragraphs (1)(A) and (2) of subsection (a) of this section and may also include an amount, not to exceed a combined total of $30,000, for—” and cls. (1) to (3) for “may not include the compensation described in paragraph (1)(B) of subsection (a) of this section and may include attorneys’ fees and other costs included in a judgment under subsection (e) of this section, except that the total amount that may be paid as compensation under paragraphs (3) and (4) of subsection (a) of this section and included as attorneys’ fees and other costs under subsection (e) of this section may not exceed $30,000.”
 
 Subsec. (e)(1). Pub. L. 101–239, §6601(<i>l</i>)(2)(A), substituted “In awarding compensation on a petition filed under section 300aa–11 of this title the special master or court shall also award as part of such compensation an amount to cover” for “The judgment of the United States Claims Court on a petition filed under section 300aa–11 of this title awarding compensation shall include an amount to cover”.
 
@@ -170,11 +170,11 @@ Subsec. (i)(1). Pub. L. 101–239, §6601(<i>l</i>)(5), which directed amendment
 
 Subsec. (j). Pub. L. 101–239, §6601(<i>l</i>)(6), struck out “and” after “fiscal year 1991,” and inserted “, $80,000,000 for fiscal year 1993” after “fiscal year 1992”.
 
-1988—Subsec. (i)(1). Pub. L. 100–360, §411(<i>o</i>)(1)(A), substituted “by the Secretary from appropriations under subsection (j)” for “from appropriations under subsection (i)”.
+<b>1988</b>—Subsec. (i)(1). Pub. L. 100–360, §411(<i>o</i>)(1)(A), substituted “by the Secretary from appropriations under subsection (j)” for “from appropriations under subsection (i)”.
 
 Subsec. (j). Pub. L. 100–360, §411(<i>o</i>)(1)(B), inserted “to the Department of Health and Human Services”.
 
-1987—Subsec. (a). Pub. L. 100–203, §4302(b)(1), substituted “effective date of this subpart” for “effective date of this part”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–203, §4302(b)(1), substituted “effective date of this subpart” for “effective date of this part”.
 
 Pub. L. 100–203, §4303(d)(1)(A), struck out last two sentences which read as follows: “Payments for projected expenses shall be paid on a periodic basis (but no payment may be made for a period in excess of 1 year). Payments for pain and suffering and emotional distress and incurred expenses may be paid in a lump sum.”
 

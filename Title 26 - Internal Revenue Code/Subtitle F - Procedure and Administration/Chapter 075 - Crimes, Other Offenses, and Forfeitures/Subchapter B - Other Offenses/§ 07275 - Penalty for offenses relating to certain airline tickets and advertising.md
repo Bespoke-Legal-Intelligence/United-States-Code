@@ -28,9 +28,9 @@ A prior section 7275, act Aug. 16, 1954, ch. 736, 68 Stat. 866, related to cross
 
 #### Amendments
 
-1982—Subsec. (a). Pub. L. 97–248 redesignated former par. (1) as pars. (1) and (2) and struck out former par. (2) which provided that a ticket for transportation, if it showed amounts paid with respect to any segment of such transportation, had to comply with former par. (1) with respect to such segments as well as with respect to the sum of the segments.
+<b>1982</b>—Subsec. (a). Pub. L. 97–248 redesignated former par. (1) as pars. (1) and (2) and struck out former par. (2) which provided that a ticket for transportation, if it showed amounts paid with respect to any segment of such transportation, had to comply with former par. (1) with respect to such segments as well as with respect to the sum of the segments.
 
-1971—Subsec. (a)(1). Pub. L. 91–680, §3(a)(1), inserted “and” after “and (b),”.
+<b>1971</b>—Subsec. (a)(1). Pub. L. 91–680, §3(a)(1), inserted “and” after “and (b),”.
 
 Subsec. (a)(2), (3). Pub. L. 91–680, §3(a)(2), (3), redesignated par. (3) as (2), and struck out reference to par. (2). Former par. (2), which prohibited airline tickets from separately stating the amount paid for the air transportation and the amount paid for taxes, was struck out.
 

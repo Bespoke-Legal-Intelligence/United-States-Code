@@ -40,7 +40,7 @@ For purposes of this subchapter:
 
 #### Amendments
 
-1996—Par. (1)(A). Pub. L. 104–330, §501(c)(2)(A), struck out “(including an Indian housing authority)” after “agency”.
+<b>1996</b>—Par. (1)(A). Pub. L. 104–330, §501(c)(2)(A), struck out “(including an Indian housing authority)” after “agency”.
 
 Par. (2)(A). Pub. L. 104–330, §501(c)(2)(B), struck out “or Indian” after “public”.
 

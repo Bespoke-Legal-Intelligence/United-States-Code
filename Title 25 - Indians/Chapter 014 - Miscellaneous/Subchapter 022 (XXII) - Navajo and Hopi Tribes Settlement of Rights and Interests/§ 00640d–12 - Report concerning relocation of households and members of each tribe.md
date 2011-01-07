@@ -14,11 +14,11 @@
 
 #### Amendments
 
-1989—Subsec. (b)(4). Pub. L. 101–121 struck out cl. (4) which required a report on how funds in the Navajo Rehabilitation Trust Funds would be expended to carry out the purposes described in section 640d–30(d) of this title.
+<b>1989</b>—Subsec. (b)(4). Pub. L. 101–121 struck out cl. (4) which required a report on how funds in the Navajo Rehabilitation Trust Funds would be expended to carry out the purposes described in section 640d–30(d) of this title.
 
-1988—Pub. L. 100–666 amended section generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (c).
+<b>1988</b>—Pub. L. 100–666 amended section generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (c).
 
-1980—Subsec. (c)(5). Pub. L. 96–305 substituted “ninety” for “thirty”.
+<b>1980</b>—Subsec. (c)(5). Pub. L. 96–305 substituted “ninety” for “thirty”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “as”.</i>
 

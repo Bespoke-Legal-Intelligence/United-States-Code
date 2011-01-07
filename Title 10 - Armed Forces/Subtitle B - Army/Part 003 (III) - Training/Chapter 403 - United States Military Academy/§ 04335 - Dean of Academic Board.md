@@ -4,7 +4,7 @@
 
 (b) The Dean of the Academic Board shall perform such duties as the Superintendent of the Academy may prescribe with the approval of the Secretary of the Army.
 
-(c) While serving as Dean of the Academic Board, an officer of the Army who holds a gradelower than brigadier general shall hold the grade of brigadier general, if appointed to that grade by the President, by and with the advice and consent of the Senate. The retirement age of an officer so appointed is that of a permanent professor of the Academy. An officer so appointed is counted for purposes of the limitation in section 526(a) of this title on general officers of the Army on active duty.
+(c) While serving as Dean of the Academic Board, an officer of the Army who holds a grade lower than brigadier general shall hold the grade of brigadier general, if appointed to that grade by the President, by and with the advice and consent of the Senate. The retirement age of an officer so appointed is that of a permanent professor of the Academy. An officer so appointed is counted for purposes of the limitation in section 526(a) of this title on general officers of the Army on active duty.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 239; Pub. L. 85–861, §33(a)(46)(A), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 99–661, div. A, title V, §508(a), Nov. 14, 1986, 100 Stat. 3866; Pub. L. 102–484, div. A, title V, §521(a), Oct. 23, 1992, 106 Stat. 2409; Pub. L. 106–65, div. A, title V, §533(a), Oct. 5, 1999, 113 Stat. 604.)
 
@@ -36,15 +36,15 @@ The word “regular” is deleted \[in sections 4335 and 4336\] to make clear th
 
 #### Amendments
 
-1999—Subsec. (c). Pub. L. 106–65 added subsec. (c).
+<b>1999</b>—Subsec. (c). Pub. L. 106–65 added subsec. (c).
 
-1992—Subsec. (c). Pub. L. 102–484 struck out subsec. (c) which read as follows: “The Dean of the Academic Board has the grade of brigadier general while serving in such position, with the benefits authorized for regular brigadier generals of the Army, if appointed to that grade by the President, by and with the advice and consent of the Senate. However, the retirement age of an officer so appointed is that of a permanent professor of the Academy.”
+<b>1992</b>—Subsec. (c). Pub. L. 102–484 struck out subsec. (c) which read as follows: “The Dean of the Academic Board has the grade of brigadier general while serving in such position, with the benefits authorized for regular brigadier generals of the Army, if appointed to that grade by the President, by and with the advice and consent of the Senate. However, the retirement age of an officer so appointed is that of a permanent professor of the Academy.”
 
-1986—Subsec. (b). Pub. L. 99–661, §508(a)(1), struck out “The Dean has the grade of brigadier general while serving as such, with the benefits authorized for regular brigadier generals of the Army, except that his retirement age is that of a permanent professor of the Academy.” See subsec. (c).
+<b>1986</b>—Subsec. (b). Pub. L. 99–661, §508(a)(1), struck out “The Dean has the grade of brigadier general while serving as such, with the benefits authorized for regular brigadier generals of the Army, except that his retirement age is that of a permanent professor of the Academy.” See subsec. (c).
 
 Subsec. (c). Pub. L. 99–661, §508(a)(2), added subsec. (c).
 
-1958—Subsec. (b). Pub. L. 85–861 substituted “the grade of brigadier general” for “the regular grade of brigadier general”.
+<b>1958</b>—Subsec. (b). Pub. L. 85–861 substituted “the grade of brigadier general” for “the regular grade of brigadier general”.
 
 #### Effective Date of 1986 Amendment
 

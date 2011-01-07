@@ -6,13 +6,13 @@ The Secretary of the Army is authorized to allot from any appropriations heretof
 
 #### Amendments
 
-2007—Pub. L. 110–114 substituted “$1,500,000” for “$1,000,000”.
+<b>2007</b>—Pub. L. 110–114 substituted “$1,500,000” for “$1,000,000”.
 
-1996—Pub. L. 104–303 substituted “$15,000,000” for “$12,500,000” and “$1,000,000” for “$500,000”.
+<b>1996</b>—Pub. L. 104–303 substituted “$15,000,000” for “$12,500,000” and “$1,000,000” for “$500,000”.
 
-1986—Pub. L. 99–662 substituted “$12,500,000” for “$10,000,000” and “$500,000” for “$250,000”.
+<b>1986</b>—Pub. L. 99–662 substituted “$12,500,000” for “$10,000,000” and “$500,000” for “$250,000”.
 
-1974—Pub. L. 93–251 substituted “$10,000,000” for “$1,000,000”, “$250,000” for “$50,000”, and “construction, repair, restoration, and modification of emergency streambank and shoreline protection works to prevent flood damages to highways, bridge approaches, and public works, churches, hospitals, schools, and other nonprofit public services,” for “construction of emergency bank-protection works to prevent flood damages to highways, bridge approaches, and public works,”.
+<b>1974</b>—Pub. L. 93–251 substituted “$10,000,000” for “$1,000,000”, “$250,000” for “$50,000”, and “construction, repair, restoration, and modification of emergency streambank and shoreline protection works to prevent flood damages to highways, bridge approaches, and public works, churches, hospitals, schools, and other nonprofit public services,” for “construction of emergency bank-protection works to prevent flood damages to highways, bridge approaches, and public works,”.
 
 #### Change of Name
 

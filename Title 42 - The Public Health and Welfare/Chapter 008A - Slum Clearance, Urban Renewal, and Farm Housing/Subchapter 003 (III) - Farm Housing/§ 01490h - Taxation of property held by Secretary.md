@@ -12,7 +12,7 @@ All property subject to a lien held by the United States or the title to which i
 
 #### Amendments
 
-1984—Pub. L. 98–479 substituted “property held by Secretary” for “Farmers Home Administration-held property” in section catchline.
+<b>1984</b>—Pub. L. 98–479 substituted “property held by Secretary” for “Farmers Home Administration-held property” in section catchline.
 
 #### Effective Date
 

@@ -2,9 +2,9 @@ Part E—Miscellaneous Provisions
 
 #### Amendments
 
-2003—Pub. L. 108–173, title I, §101(a)(1), Dec. 8, 2003, 117 Stat. 2071, redesignated part D of this subchapter as part E.
+<b>2003</b>—Pub. L. 108–173, title I, §101(a)(1), Dec. 8, 2003, 117 Stat. 2071, redesignated part D of this subchapter as part E.
 
-1997—Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275, redesignated part C of this subchapter as part D.
+<b>1997</b>—Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275, redesignated part C of this subchapter as part D.
 
 
 ---
@@ -20,6 +20,8 @@ Part E—Miscellaneous Provisions
 - [&sect; 01395cc&#8211;1 - Demonstration of application of physician volume increases to group practices](%C2%A7%2001395cc%E2%80%931%20-%20Demonstration%20of%20application%20of%20physician%20volume%20increases%20to%20group%20practices.md)
 - [&sect; 01395cc&#8211;2 - Provisions for administration of demonstration program](%C2%A7%2001395cc%E2%80%932%20-%20Provisions%20for%20administration%20of%20demonstration%20program.md)
 - [&sect; 01395cc&#8211;3 - Health care quality demonstration program](%C2%A7%2001395cc%E2%80%933%20-%20Health%20care%20quality%20demonstration%20program.md)
+- [&sect; 01395cc&#8211;4 - National pilot program on payment bundling](%C2%A7%2001395cc%E2%80%934%20-%20National%20pilot%20program%20on%20payment%20bundling.md)
+- [&sect; 01395cc&#8211;5 - Independence at home medical practice demonstration program](%C2%A7%2001395cc%E2%80%935%20-%20Independence%20at%20home%20medical%20practice%20demonstration%20program.md)
 - [&sect; 01395dd - Examination and treatment for emergency medical conditions and women in labor](%C2%A7%2001395dd%20-%20Examination%20and%20treatment%20for%20emergency%20medical%20conditions%20and%20women%20in%20labor.md)
 - [&sect; 01395ee - Practicing Physicians Advisory Council; Council for Technology and Innovation](%C2%A7%2001395ee%20-%20Practicing%20Physicians%20Advisory%20Council%3B%20Council%20for%20Technology%20and%20Innovation.md)
 - [&sect; 01395ff - Determinations; appeals](%C2%A7%2001395ff%20-%20Determinations%3B%20appeals.md)
@@ -36,6 +38,7 @@ Part E—Miscellaneous Provisions
 - [&sect; 01395pp - Limitation on liability where claims are disallowed](%C2%A7%2001395pp%20-%20Limitation%20on%20liability%20where%20claims%20are%20disallowed.md)
 - [&sect; 01395qq - Indian Health Service Facilities](%C2%A7%2001395qq%20-%20Indian%20Health%20Service%20Facilities.md)
 - [&sect; 01395rr - End stage renal disease program](%C2%A7%2001395rr%20-%20End%20stage%20renal%20disease%20program.md)
+- [&sect; 01395rr&#8211;1 - Medicare coverage for individuals exposed to environmental health hazards](%C2%A7%2001395rr%E2%80%931%20-%20Medicare%20coverage%20for%20individuals%20exposed%20to%20environmental%20health%20hazards.md)
 - [&sect; 01395ss - Certification of medicare supplemental health insurance policies](%C2%A7%2001395ss%20-%20Certification%20of%20medicare%20supplemental%20health%20insurance%20policies.md)
 - [&sect; 01395ss&#8211;1 - Clarification](%C2%A7%2001395ss%E2%80%931%20-%20Clarification.md)
 - [&sect; 01395tt - Hospital providers of extended care services](%C2%A7%2001395tt%20-%20Hospital%20providers%20of%20extended%20care%20services.md)
@@ -46,6 +49,7 @@ Part E—Miscellaneous Provisions
 - [&sect; 01395yy - Payment to skilled nursing facilities for routine service costs](%C2%A7%2001395yy%20-%20Payment%20to%20skilled%20nursing%20facilities%20for%20routine%20service%20costs.md)
 - [&sect; 01395zz - Provider education and technical assistance](%C2%A7%2001395zz%20-%20Provider%20education%20and%20technical%20assistance.md)
 - [&sect; 01395aaa - Contract with a consensus-based entity regarding performance measurement](%C2%A7%2001395aaa%20-%20Contract%20with%20a%20consensus-based%20entity%20regarding%20performance%20measurement.md)
+- [&sect; 01395aaa&#8211;1 - Quality and efficiency measurement](%C2%A7%2001395aaa%E2%80%931%20-%20Quality%20and%20efficiency%20measurement.md)
 - [&sect; 01395bbb - Conditions of participation for home health agencies; home health quality](%C2%A7%2001395bbb%20-%20Conditions%20of%20participation%20for%20home%20health%20agencies%3B%20home%20health%20quality.md)
 - [&sect; 01395ccc - Offset of payments to individuals to collect past-due obligations arising from breach of scholarship and loan contract](%C2%A7%2001395ccc%20-%20Offset%20of%20payments%20to%20individuals%20to%20collect%20past-due%20obligations%20arising%20from%20breach%20of%20scholarship%20and%20loan%20contract.md)
 - [&sect; 01395ddd - Medicare Integrity Program](%C2%A7%2001395ddd%20-%20Medicare%20Integrity%20Program.md)
@@ -54,3 +58,6 @@ Part E—Miscellaneous Provisions
 - [&sect; 01395ggg - Omitted](%C2%A7%2001395ggg%20-%20Omitted.md)
 - [&sect; 01395hhh - Health care infrastructure improvement program](%C2%A7%2001395hhh%20-%20Health%20care%20infrastructure%20improvement%20program.md)
 - [&sect; 01395iii - Medicare Improvement Fund](%C2%A7%2001395iii%20-%20Medicare%20Improvement%20Fund.md)
+- [&sect; 01395jjj - Shared savings program](%C2%A7%2001395jjj%20-%20Shared%20savings%20program.md)
+- [&sect; 01395kkk - Independent Payment Advisory Board](%C2%A7%2001395kkk%20-%20Independent%20Payment%20Advisory%20Board.md)
+- [&sect; 01395kkk&#8211;1 - GAO study and report on determination and implementation of payment and coverage policies under the Medicare program](%C2%A7%2001395kkk%E2%80%931%20-%20GAO%20study%20and%20report%20on%20determination%20and%20implementation%20of%20payment%20and%20coverage%20policies%20under%20the%20Medicare%20program.md)

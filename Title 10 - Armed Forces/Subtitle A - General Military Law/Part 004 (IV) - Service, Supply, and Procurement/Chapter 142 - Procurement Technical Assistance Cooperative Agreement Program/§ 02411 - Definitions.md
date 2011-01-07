@@ -34,21 +34,21 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-1992—Par. (1)(D). Pub. L. 102–484 substituted “organized for profit purposes or nonprofit purposes” for “organized for-profit, or nonprofit purposes”.
+<b>1992</b>—Par. (1)(D). Pub. L. 102–484 substituted “organized for profit purposes or nonprofit purposes” for “organized for-profit, or nonprofit purposes”.
 
-1991—Par. (1)(D). Pub. L. 102–25, which directed the substitution of “for profit purposes or nonprofit” for “for-profit and nonprofit”, could not be executed because the words “for-profit and nonprofit” did not appear.
+<b>1991</b>—Par. (1)(D). Pub. L. 102–25, which directed the substitution of “for profit purposes or nonprofit” for “for-profit and nonprofit”, could not be executed because the words “for-profit and nonprofit” did not appear.
 
-1989—Par. (1)(D). Pub. L. 101–189 substituted “section 4(<i>l</i>)” for “section 4(c)” and “25 U.S.C. 450b(<i>l</i>)” for “25 U.S.C. 450(c)”.
+<b>1989</b>—Par. (1)(D). Pub. L. 101–189 substituted “section 4(<i>l</i>)” for “section 4(c)” and “25 U.S.C. 450b(<i>l</i>)” for “25 U.S.C. 450(c)”.
 
-1988—Par. (1)(D). Pub. L. 100–456 inserted “, whether or not such economic enterprise is organized for-profit, or nonprofit purposes” before period at end.
+<b>1988</b>—Par. (1)(D). Pub. L. 100–456 inserted “, whether or not such economic enterprise is organized for-profit, or nonprofit purposes” before period at end.
 
-1987—Par. (1)(D). Pub. L. 100–180, §807(b)(1), added subpar. (D).
+<b>1987</b>—Par. (1)(D). Pub. L. 100–180, §807(b)(1), added subpar. (D).
 
 Par. (2). Pub. L. 100–180, §807(b)(2), substituted “means—” for “means”, designated existing text beginning with “the area of a unit” as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, substituted “are available; or” for “are available.”, and added subpar. (B).
 
-1986—Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended section generally identically, striking out in par. (1) reference to section 6302(5) and 6302(2) of title 31, in par. (2) substituting “The term ‘distressed area’ means the area of a unit of local government (or such area excluding the area of any defined political jurisdiction within the area of such unit of local government)” for “ ‘Distressed entity’ means an eligible entity (within the meaning of paragraph (1)(B))”, and adding par. (4).
+<b>1986</b>—Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended section generally identically, striking out in par. (1) reference to section 6302(5) and 6302(2) of title 31, in par. (2) substituting “The term ‘distressed area’ means the area of a unit of local government (or such area excluding the area of any defined political jurisdiction within the area of such unit of local government)” for “ ‘Distressed entity’ means an eligible entity (within the meaning of paragraph (1)(B))”, and adding par. (4).
 
-1985—Pub. L. 99–145 amended section generally. Prior to amendment, section read as follows: “In this chapter:
+<b>1985</b>—Pub. L. 99–145 amended section generally. Prior to amendment, section read as follows: “In this chapter:
 
 &emsp;“(1) ‘Eligible entity’ means a State (as defined in section 6302(5) of title 31), a local government (as defined in section 6302(2) of that title), or a private, nonprofit organization that enters into a cooperative agreement with the Secretary under this chapter to furnish procurement technical assistance to business entities and to defray at least one-half of the costs of furnishing such assistance.
 

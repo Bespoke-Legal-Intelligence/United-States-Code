@@ -8,7 +8,7 @@
 
 &emsp;(2) the disability was continuously rated totally disabling for a period of not less than five years from the date of such veteran's discharge or other release from active duty; or
 
-&emsp;(3) the veteran was a former prisoner of war who died after September 30, 1999, and the disability was continuously rated totally disabling for a period of not less than one year immediately preceding death.
+&emsp;(3) the veteran was a former prisoner of war and the disability was continuously rated totally disabling for a period of not less than one year immediately preceding death.
 
 (c) Benefits may not be paid under this chapter by reason of this section to a surviving spouse of a veteran unless—
 
@@ -20,13 +20,15 @@
 
 (e) For purposes of sections 1448(d) and 1450(c) of title 10, eligibility for benefits under this chapter by virtue of this section shall be deemed eligibility for dependency and indemnity compensation under section 1311(a) of this title.
 
-(Added Pub. L. 100–687, div. B, title XIV, §1403(a)(1), Nov. 18, 1988, 102 Stat. 4130, §418; amended Pub. L. 101–237, title I, §113, Dec. 18, 1989, 103 Stat. 2065; renumbered §1318 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 106–117, title V, §501(b), Nov. 30, 1999, 113 Stat. 1573; Pub. L. 106–419, title IV, §404(a)(2), Nov. 1, 2000, 114 Stat. 1864.)
+(Added Pub. L. 100–687, div. B, title XIV, §1403(a)(1), Nov. 18, 1988, 102 Stat. 4130, §418; amended Pub. L. 101–237, title I, §113, Dec. 18, 1989, 103 Stat. 2065; renumbered §1318 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 106–117, title V, §501(b), Nov. 30, 1999, 113 Stat. 1573; Pub. L. 106–419, title IV, §404(a)(2), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 111–275, title VI, §603(a), Oct. 13, 2010, 124 Stat. 2885.)
 
 #### Amendments
 
-2000—Subsec. (b)(3). Pub. L. 106–419 substituted “not less than” for “not later than”.
+<b>2010</b>—Subsec. (b)(3). Pub. L. 111–275 struck out “who died after September 30, 1999,” after “prisoner of war”.
 
-1999—Subsec. (b). Pub. L. 106–117, §501(b)(1), substituted “rated totally disabling if—” for “that either—” in introductory provisions.
+<b>2000</b>—Subsec. (b)(3). Pub. L. 106–419 substituted “not less than” for “not later than”.
+
+<b>1999</b>—Subsec. (b). Pub. L. 106–117, §501(b)(1), substituted “rated totally disabling if—” for “that either—” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 106–117, §501(b)(2), inserted “the disability” after “(1)” and struck out “or” after “death;”.
 
@@ -34,11 +36,15 @@ Subsec. (b)(2). Pub. L. 106–117, §501(b)(3), substituted “the disability wa
 
 Subsec. (b)(3). Pub. L. 106–117, §501(b)(4), added par. (3).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 418 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 418 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 Subsec. (e). Pub. L. 102–83, §5(c)(1), substituted “1311(a)” for “411(a)”.
 
-1989—Subsec. (c)(1). Pub. L. 101–237 substituted “one year” for “two years”.
+<b>1989</b>—Subsec. (c)(1). Pub. L. 101–237 substituted “one year” for “two years”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–275, title VI, §603(b), Oct. 13, 2010, 124 Stat. 2885, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2011.”
 

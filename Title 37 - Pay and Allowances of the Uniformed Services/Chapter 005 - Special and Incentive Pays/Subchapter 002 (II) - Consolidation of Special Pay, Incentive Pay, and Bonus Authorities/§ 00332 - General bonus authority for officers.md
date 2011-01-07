@@ -42,7 +42,7 @@ Maximum amount.—The Secretary concerned shall determine the amount of a bonus 
 
 &emsp;(2)
 
-Lump sum or installments.—A bonus under this section may be paid in a lump sum or in periodic installments, as determined by the Secretary concerned.
+Lump sum or installments.—A bonus under this section may be paid in a lump sumor in periodic installments, as determined by the Secretary concerned.
 
 &emsp;(3)
 
@@ -70,11 +70,13 @@ Repayment.—A person or officer who receives a bonus under this section and who
 
 (g)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2010.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2011.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 164; amended Pub. L. 111–84, div. A, title VI, §614(2), Oct. 28, 2009, 123 Stat. 2353.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 164; amended Pub. L. 111–84, div. A, title VI, §614(2), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §614(2), Jan. 7, 2011, 124 Stat. 4237.)
 
 #### Amendments
 
-2009—Subsec. (g). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+<b>2011</b>—Subsec. (g). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+
+<b>2009</b>—Subsec. (g). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 

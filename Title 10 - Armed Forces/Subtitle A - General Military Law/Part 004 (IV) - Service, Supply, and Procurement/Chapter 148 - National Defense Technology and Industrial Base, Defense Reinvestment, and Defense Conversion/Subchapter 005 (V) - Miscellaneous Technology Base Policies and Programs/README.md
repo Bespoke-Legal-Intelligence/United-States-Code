@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [2531\.](%C2%A7%2002531%20-%20Defense%20memoranda%20of%20understanding%20and%20related%20agreements.md) | Defense memoranda of understanding and related agreements. |
 | [2532\.](%C2%A7%2002532%20-%20Offset%20policy%3B%20notification.md) | Offset policy; notification. |
-| [2533\.](%C2%A7%2002533%20-%20Determinations%20of%20public%20interest%20under%20the%20Buy%20American%20Act.md) | Determinations of public interest under the Buy American Act. |
+| [2533\.](%C2%A7%2002533%20-%20Determinations%20of%20public%20interest%20under%20chapter%2083%20of%20title%2041.md) | Determinations of public interest under chapter 83 of title 41. |
 | [2533a.](%C2%A7%2002533a%20-%20Requirement%20to%20buy%20certain%20articles%20from%20American%20sources%3B%20exceptions.md) | Requirement to buy certain articles from American sources; exceptions. |
 | [2533b.](%C2%A7%2002533b%20-%20Requirement%20to%20buy%20strategic%20materials%20critical%20to%20national%20security%20from%20American%20sources%3B%20exceptions.md) | Requirement to buy strategic materials critical to national security from American sources; exceptions. |
 | [2534\.](%C2%A7%2002534%20-%20Miscellaneous%20limitations%20on%20the%20procurement%20of%20goods%20other%20than%20United%20States%20goods.md) | Miscellaneous limitations on the procurement of goods other than United States goods. |
@@ -20,17 +20,19 @@
 
 #### Amendments
 
-2008—Pub. L. 110–181, div. A, title X, §1063(c)(8), Jan. 28, 2008, 122 Stat. 323, amended directory language of Pub. L. 109–364, §842(a)(2). See 2006 Amendment note below.
+<b>2011</b>—Pub. L. 111–350, §5(b)(36), Jan. 4, 2011, 124 Stat. 3845, substituted “chapter 83 of title 41” for “the Buy American Act” in item 2533.
 
-2006—Pub. L. 109–364, div. A, title VIII, §842(a)(2), Oct. 17, 2006, 120 Stat. 2337, as amended by Pub. L. 110–181, div. A, title X, §1063(c)(8), Jan. 28, 2008, 122 Stat. 323, added item 2533b.
+<b>2008</b>—Pub. L. 110–181, div. A, title X, §1063(c)(8), Jan. 28, 2008, 122 Stat. 323, amended directory language of Pub. L. 109–364, §842(a)(2). See 2006 Amendment note below.
 
-2001—Pub. L. 107–107, div. A, title VIII, §832(a)(2), Dec. 28, 2001, 115 Stat. 1190, added item 2533a.
+<b>2006</b>—Pub. L. 109–364, div. A, title VIII, §842(a)(2), Oct. 17, 2006, 120 Stat. 2337, as amended by Pub. L. 110–181, div. A, title X, §1063(c)(8), Jan. 28, 2008, 122 Stat. 323, added item 2533b.
 
-1994—Pub. L. 103–337, div. A, title VIII, §812(b)(2), title X, §1070(a)(13)(B), Oct. 5, 1994, 108 Stat. 2816, 2856, substituted “Determinations of public interest under the Buy American Act” for “Limitation on use of funds: procurement of goods which are other than American goods” in item 2533 and renumbered items 2540 and 2541 as 2539a and 2539b, respectively.
+<b>2001</b>—Pub. L. 107–107, div. A, title VIII, §832(a)(2), Dec. 28, 2001, 115 Stat. 1190, added item 2533a.
 
-1993—Pub. L. 103–160, div. A, title VIII, §§828(c)(5), 842(c)(2), Nov. 30, 1993, 107 Stat. 1714, 1719, substituted “Award of certain contracts to entities controlled by a foreign government: prohibition” for “Prohibition on award of certain Department of Defense and Department of Energy contracts to companies owned by an entity controlled by a foreign government” in item 2536 and added items 2538 to 2541.
+<b>1994</b>—Pub. L. 103–337, div. A, title VIII, §812(b)(2), title X, §1070(a)(13)(B), Oct. 5, 1994, 108 Stat. 2816, 2856, substituted “Determinations of public interest under the Buy American Act” for “Limitation on use of funds: procurement of goods which are other than American goods” in item 2533 and renumbered items 2540 and 2541 as 2539a and 2539b, respectively.
 
-1992—Pub. L. 102–484, div. A, title VIII, §§836(a)(2), 838(b), Oct. 23, 1992, 106 Stat. 2463, 2466, added items 2536 and 2537.
+<b>1993</b>—Pub. L. 103–160, div. A, title VIII, §§828(c)(5), 842(c)(2), Nov. 30, 1993, 107 Stat. 1714, 1719, substituted “Award of certain contracts to entities controlled by a foreign government: prohibition” for “Prohibition on award of certain Department of Defense and Department of Energy contracts to companies owned by an entity controlled by a foreign government” in item 2536 and added items 2538 to 2541.
+
+<b>1992</b>—Pub. L. 102–484, div. A, title VIII, §§836(a)(2), 838(b), Oct. 23, 1992, 106 Stat. 2463, 2466, added items 2536 and 2537.
 
 
 ---
@@ -39,7 +41,7 @@
 
 - [&sect; 02531 - Defense memoranda of understanding and related agreements](%C2%A7%2002531%20-%20Defense%20memoranda%20of%20understanding%20and%20related%20agreements.md)
 - [&sect; 02532 - Offset policy; notification](%C2%A7%2002532%20-%20Offset%20policy%3B%20notification.md)
-- [&sect; 02533 - Determinations of public interest under the Buy American Act](%C2%A7%2002533%20-%20Determinations%20of%20public%20interest%20under%20the%20Buy%20American%20Act.md)
+- [&sect; 02533 - Determinations of public interest under chapter 83 of title 41](%C2%A7%2002533%20-%20Determinations%20of%20public%20interest%20under%20chapter%2083%20of%20title%2041.md)
 - [&sect; 02533a - Requirement to buy certain articles from American sources; exceptions](%C2%A7%2002533a%20-%20Requirement%20to%20buy%20certain%20articles%20from%20American%20sources%3B%20exceptions.md)
 - [&sect; 02533b - Requirement to buy strategic materials critical to national security from American sources; exceptions](%C2%A7%2002533b%20-%20Requirement%20to%20buy%20strategic%20materials%20critical%20to%20national%20security%20from%20American%20sources%3B%20exceptions.md)
 - [&sect; 02534 - Miscellaneous limitations on the procurement of goods other than United States goods](%C2%A7%2002534%20-%20Miscellaneous%20limitations%20on%20the%20procurement%20of%20goods%20other%20than%20United%20States%20goods.md)

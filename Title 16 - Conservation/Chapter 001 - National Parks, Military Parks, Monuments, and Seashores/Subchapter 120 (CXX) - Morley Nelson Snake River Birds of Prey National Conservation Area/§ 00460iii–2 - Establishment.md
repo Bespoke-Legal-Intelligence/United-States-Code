@@ -6,7 +6,7 @@
 
 (2) The purposes for which the conservation area is established, and shall be managed, are to provide for the conservation, protection, and enhancement of raptor populations and habitats and the natural and environmental resources and values associated therewith, and of the scientific, cultural, and educational resources and values of the public lands in the conservation area.
 
-(3) Subject to the provisions of subsection (d) of this section and section 460iii–3 of this title, uses of the public lands in the conservation areaexisting on August 4, 1993, shall be allowed to continue.
+(3) Subject to the provisions of subsection (d) of this section and section 460iii–3 of this title, uses of the public lands in the conservation area existing on August 4, 1993, shall be allowed to continue.
 
 #### (b) Area included
 
@@ -30,5 +30,5 @@ Act of July 3, 1890, referred to in subsec. (d), is not classified to the Code.
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–11 inserted “Morley Nelson” before “Snake River Birds of Prey National Conservation Area” and struck out “(hereafter referred to as the ‘conservation area’)” before period at end.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–11 inserted “Morley Nelson” before “Snake River Birds of Prey National Conservation Area” and struck out “(hereafter referred to as the ‘conservation area’)” before period at end.
 

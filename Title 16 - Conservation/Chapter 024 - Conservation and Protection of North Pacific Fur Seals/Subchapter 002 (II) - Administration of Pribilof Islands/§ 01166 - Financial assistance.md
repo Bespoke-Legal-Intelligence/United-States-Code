@@ -68,7 +68,7 @@ There are authorized to be appropriated to the Secretary—
 
 #### (d) Limitation on use of assistance for lobbying activities
 
-None of the funds authorized by this section may be available for any activity a purpose of which is to influence legislation pending before the Congress, except that this subsection shall not prevent officers or employees of the United States or of its departments, agencies, or commissions from communicating to Members of Congress, through proper channels, requests for legislation or appropriations that they consider necessary for the efficient conduct of public business.
+None of the funds authorized by this section may be available for any activity a purpose of which is to influence legislation pending before the Congress, except that this subsection shall not prevent officers or employees of the United States or of its departments, agencies, or commissions from communicating to Members ofCongress, through proper channels, requests for legislation or appropriations that they consider necessary for the efficient conduct of public business.
 
 #### (e) Immunity from liability
 
@@ -94,19 +94,19 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 #### Amendments
 
-2005—Subsec. (c). Pub. L. 109–59, §4403(1), struck out “for fiscal years 2001, 2002, 2003, 2004, and 2005” after “Secretary” in introductory provisions.
+<b>2005</b>—Subsec. (c). Pub. L. 109–59, §4403(1), struck out “for fiscal years 2001, 2002, 2003, 2004, and 2005” after “Secretary” in introductory provisions.
 
 Subsec. (c)(1). Pub. L. 109–59, §4403(2), inserted “, for fiscal years 2001, 2002, 2003, 2004, 2005, 2006, and 2007” after “subsection (a) of this section” in introductory provisions.
 
-2000—Pub. L. 106–562 amended section generally, inserting section catchline and subsec. and par. headings and reenacting substantially identical text.
+<b>2000</b>—Pub. L. 106–562 amended section generally, inserting section catchline and subsec. and par. headings and reenacting substantially identical text.
 
 Pub. L. 106–554 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (h) containing provisions establishing the Pribilof Islands Trust for the benefit of natives of the Pribilof Islands and relating to the Trust's administration, funding, distributions, trust instrument, taxation, interest and proceeds, appropriations, and annual report to Congress.
 
-1990—Subsec. (e)(3). Pub. L. 101–512 added par. (3).
+<b>1990</b>—Subsec. (e)(3). Pub. L. 101–512 added par. (3).
 
-1988—Subsec. (e)(1). Pub. L. 100–711 authorized appropriations for fiscal years 1989 and 1990 to fund the Saint Paul Island Trust, and authorized appropriations for fiscal year 1990 to fund the Saint George Trust.
+<b>1988</b>—Subsec. (e)(1). Pub. L. 100–711 authorized appropriations for fiscal years 1989 and 1990 to fund the Saint Paul Island Trust, and authorized appropriations for fiscal year 1990 to fund the Saint George Trust.
 
-1983—Pub. L. 98–129 amended section generally, substituting provisions for the creation and functioning of a Pribilof Islands Trust for provisions which authorized the Secretary to set apart land on Saint Paul Island for a townsite and to aid in the development of a municipal government therefor.
+<b>1983</b>—Pub. L. 98–129 amended section generally, substituting provisions for the creation and functioning of a Pribilof Islands Trust for provisions which authorized the Secretary to set apart land on Saint Paul Island for a townsite and to aid in the development of a municipal government therefor.
 
 #### Change of Name
 

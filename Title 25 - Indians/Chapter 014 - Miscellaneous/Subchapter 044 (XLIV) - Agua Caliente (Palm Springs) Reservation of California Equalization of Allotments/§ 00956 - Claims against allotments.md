@@ -2,7 +2,7 @@
 
 #### (a) Assignment, sale, hypothecation, attachment or levy void unless approved
 
-Equalization allotments made pursuant to this subchapter shall not be subject to assignment, sale, or hypothecation or to any attachment or levy for claims or debts created before or after September 21, 1959, without the written approval of the Secretary, and any such assignment, sale, hypothecation, attachment, or levythat has not been so approved by the Secretary shall be absolutely null and void.
+Equalization allotments made pursuant to this subchapter shall not be subject to assignment, sale, or hypothecation or to any attachment or levy for claims or debts created before or after September 21, 1959, without the written approval of the Secretary, and any such assignment, sale, hypothecation, attachment, or levy that has not been so approved by the Secretary shall be absolutely null and void.
 
 #### (b) Liens and lis pendens; legal services
 

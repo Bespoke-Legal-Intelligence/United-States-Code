@@ -14,9 +14,9 @@
 
 #### Amendments
 
-2002—Pub. L. 107–273, div. C, title I, §11020(b)(4)(A)(ii), Nov. 2, 2002, 116 Stat. 1828, added item 1697.
+<b>2002</b>—Pub. L. 107–273, div. C, title I, §11020(b)(4)(A)(ii), Nov. 2, 2002, 116 Stat. 1828, added item 1697.
 
-1964—Pub. L. 88–619, §4(b), Oct. 3, 1964, 78 Stat. 996, added item 1696.
+<b>1964</b>—Pub. L. 88–619, §4(b), Oct. 3, 1964, 78 Stat. 996, added item 1696.
 
 
 ---

@@ -24,7 +24,7 @@ In this chapter:
 
 #### Amendments
 
-2008—Par. (6). Pub. L. 110–181 substituted “Department of Defense Board of Actuaries under section 183 of this title” for “Department of Defense Education Benefits Board of Actuaries referred to in section 2006(e)(1) of this title”.
+<b>2008</b>—Par. (6). Pub. L. 110–181 substituted “Department of Defense Board of Actuaries under section 183 of this title” for “Department of Defense Education Benefits Board of Actuaries referred to in section 2006(e)(1) of this title”.
 
 #### Effective Date
 

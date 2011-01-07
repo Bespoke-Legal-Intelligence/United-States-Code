@@ -20,7 +20,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–411 inserted “an appropriate level of” after “shall include”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–411 inserted “an appropriate level of” after “shall include”.
 
 #### Effective Date
 

@@ -2,15 +2,31 @@
 
 #### (a) Allowance of credit
 
-In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to 30 percent of the sum of—
+In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of—
 
-&emsp;(1) the amount paid or incurred by the taxpayer during such taxable year for qualified energy efficiency improvements, and
+&emsp;(1) 10 percent of the amount paid or incurred by the taxpayer for qualified energy efficiency improvements installed during such taxable year, and
 
 &emsp;(2) the amount of the residential energy property expenditures paid or incurred by the taxpayer during such taxable year.
 
-#### (b) Limitation
+#### (b) Limitations
 
-The aggregate amount of the credits allowed under this section for taxable years beginning in 2009 and 2010 with respect to any taxpayer shall not exceed $1,500.
+#### (1) Lifetime limitation
+
+&emsp;The credit allowed under this section with respect to any taxpayer for any taxable year shall not exceed the excess (if any) of $500 over the aggregate credits allowed under this section with respect to such taxpayer for all prior taxable years ending after December 31, 2005.
+
+#### (2) Windows
+
+&emsp;In the case of amounts paid or incurred for components described in subsection (c)(2)(B) by any taxpayer for any taxable year, the credit allowed under this section with respect to such amounts for such year shall not exceed the excess (if any) of $200 over the aggregate credits allowed under this section with respect to such amounts for all prior taxable years ending after December 31, 2005.
+
+#### (3) Limitation on residential energy property expenditures
+
+&emsp;The amount of the credit allowed under this section by reason of subsection (a)(2) shall not exceed—
+
+&emsp;&emsp;(A) $50 for any advanced main air circulating fan,
+
+&emsp;&emsp;(B) $150 for any qualified natural gas, propane, or oil furnace or hot water boiler, and
+
+&emsp;&emsp;(C) $300 for any item of energy-efficient building property.
 
 #### (c) Qualified energy efficiency improvements
 
@@ -18,7 +34,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “qualified energy efficiency improvements” means any energy efficient building envelope component which meets the prescriptive criteria for such component established by the 2000 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of this section (or, in the case of a metal roof with appropriate pigmented coatings, or an asphalt roof with appropriate cooling granules, which meet the Energy Star program requirements), if—
+&emsp;The term “qualified energy efficiency improvements” means any energy efficient building envelope component which meets the prescriptive criteria for such component established by the 2009 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of the American Recovery and Reinvestment Tax Act of 2009 (or, in the case of an exterior window, a skylight, an exterior door, a metal roof with appropriate pigmented coatings, or an asphalt roof with appropriate cooling granules, which meet the Energy Star program requirements), if—
 
 &emsp;&emsp;(A) such component is installed in or on a dwelling unit located in the United States and owned and used by the taxpayer as the taxpayer's principal residence (within the meaning of section 121),
 
@@ -30,21 +46,17 @@ For purposes of this section—
 
 &emsp;The term “building envelope component” means—
 
-&emsp;&emsp;(A) any insulation material or system which is specifically and primarily designed to reduce the heat loss or gain of a dwelling unit when installed in or on such dwelling unit and meets the prescriptive criteria for such material or system established by the 2009 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of the American Recovery and Reinvestment Tax Act of 2009,
+&emsp;&emsp;(A) any insulation material or system which is specifically and primarily designed to reduce the heat loss or gain of a dwelling unit when installed in or on such dwelling unit,
 
 &emsp;&emsp;(B) exterior windows (including skylights),
 
 &emsp;&emsp;(C) exterior doors, and
 
-&emsp;&emsp;(D) any metal roof or asphalt roof installed on a dwelling unit, but only if such roof has appropriate pigmented coatings orcooling granules which are specifically and primarily designed to reduce the heat gain of such dwelling unit.
+&emsp;&emsp;(D) any metal roof or asphalt roof installed on a dwelling unit, but only if such roof has appropriate pigmented coatings or cooling granules which are specifically and primarily designed to reduce the heat gain of such dwelling unit.
 
 #### (3) Manufactured homes included
 
 &emsp;The term “dwelling unit” includes a manufactured home which conforms to Federal Manufactured Home Construction and Safety Standards (part 3280 of title 24, Code of Federal Regulations).
-
-#### (4) Qualifications for exterior windows, doors, and skylights
-
-&emsp;Such term shall not include any component described in subparagraph (B) or (C) of paragraph (2) unless such component is equal to or below a U factor of 0.30 and SHGC of 0.30.
 
 #### (d) Residential energy property expenditures
 
@@ -68,7 +80,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) energy-efficient building property,
 
-&emsp;&emsp;&emsp;(ii) any qualified natural gas furnace, qualified propane furnace, qualified oil furnace, qualified natural gas hot water boiler, qualified propane hot water boiler, or qualified oil hot water boiler, or
+&emsp;&emsp;&emsp;(ii) a qualified natural gas, propane, or oil furnace or hot water boiler, or
 
 &emsp;&emsp;&emsp;(iii) an advanced main air circulating fan.
 
@@ -100,33 +112,11 @@ For purposes of this section—
 
 &emsp;&emsp;(D) a natural gas, propane, or oil water heater which has either an energy factor of at least 0.82 or a thermal efficiency of at least 90 percent.<sup>2</sup>
 
-&emsp;&emsp;(E) a stove which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and which has a thermal efficiency rating of at least 75 percent, as measured using a lower heating value.
+&emsp;&emsp;(E) a stove which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and which has a thermal efficiency rating of at least 75 percent.
 
-#### (4) Qualified natural gas, propane, and oil furnaces and hot water boilers
+#### (4) Qualified natural gas, propane, or oil furnace or hot water boiler
 
-#### (A) Qualified natural gas furnace
-
-&emsp;&emsp;The term “qualified natural gas furnace” means any natural gas furnace which achieves an annual fuel utilization efficiency rate of not less than 95.
-
-#### (B) Qualified natural gas hot water boiler
-
-&emsp;&emsp;The term “qualified natural gas hot water boiler” means any natural gas hot water boiler which achieves an annual fuel utilization efficiency rate of not less than 90.
-
-#### (C) Qualified propane furnace
-
-&emsp;&emsp;The term “qualified propane furnace” means any propane furnace which achieves an annual fuel utilization efficiency rate of not less than 95.
-
-#### (D) Qualified propane hot water boiler
-
-&emsp;&emsp;The term “qualified propane hot water boiler” means any propane hot water boiler which achieves an annual fuel utilization efficiency rate of not less than 90.
-
-#### (E) Qualified oil furnaces
-
-&emsp;&emsp;The term “qualified oil furnace” means any oil furnace which achieves an annual fuel utilization efficiency rate of not less than 90.
-
-#### (F) Qualified oil hot water boiler
-
-&emsp;&emsp;The term “qualified oil hot water boiler” means any oil hot water boiler whichachieves an annual fuel utilization efficiency rate of not less than 90.
+&emsp;The term “qualified natural gas, propane, or oil furnace or hot water boiler” means a natural gas, propane, or oil furnace or hot water boiler which achieves an annual fuel utilization efficiency rate of not less than 95.
 
 #### (5) Advanced main air circulating fan
 
@@ -154,6 +144,10 @@ For purposes of this section—
 
 &emsp;&emsp;In the case of any expenditure described in subparagraph (A), the amount of the credit allowable under subsection (a) shall (subject to paragraph (1)) be computed separately with respect to the amount of the expenditure made for each dwelling unit.
 
+#### (3) Property financed by subsidized energy financing
+
+&emsp;For purposes of determining the amount of expenditures made by any individual with respect to any property, there shall not be taken into account expenditures which are made from subsidized energy financing (as defined in section 48(a)(4)(C)).
+
 #### (f) Basis adjustments
 
 For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
@@ -164,19 +158,49 @@ This section shall not apply with respect to any property placed in service—
 
 &emsp;(1) after December 31, 2007, and before January 1, 2009, or
 
-&emsp;(2) after December 31, 2010..<sup>3</sup>
+&emsp;(2) after December 31, 2011..<sup>3</sup>
 
-(Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–343, div. B, title III, §302(a)–(e), Oct. 3, 2008, 122 Stat. 3844, 3845; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, 123 Stat. 320, 322–324.)
+(Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–343, div. B, title III, §302(a)–(e), Oct. 3, 2008, 122 Stat. 3844, 3845; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, 123 Stat. 320, 322–324; Pub. L. 111–312, title VII, §710(a), (b), Dec. 17, 2010, 124 Stat. 3314.)
 
 #### References in Text
 
-The date of the enactment of this section, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
-
-The date of the enactment of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (c)(2)(A), is the date of the enactment of div. B of Pub. L. 111–5, which was approved Feb. 17, 2009.
+The date of the enactment of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (c)(1), is the date of the enactment of div. B of Pub. L. 111–5, which was approved Feb. 17, 2009.
 
 #### Amendments
 
-2009—Subsecs. (a), (b). Pub. L. 111–5, §1121(a), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to credit equal to the sum of 10 percent of the amount paid for qualified energy efficiency improvements and the amount of energy property expenditures and provided limits on credits and expenditures.
+<b>2010</b>—Subsecs. (a), (b). Pub. L. 111–312, §710(b)(1), amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) read as follows:
+
+“(a)
+
+Allowance of credit.—In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to 30 percent of the sum of—
+
+&emsp;“(1) the amount paid or incurred by the taxpayer during such taxable year for qualified energy efficiency improvements, and
+
+&emsp;“(2) the amount of the residential energy property expenditures paid or incurred by the taxpayer during such taxable year.
+
+“(b)
+
+Limitation.—The aggregate amount of the credits allowed under this section for taxable years beginning in 2009 and 2010 with respect to any taxpayer shall not exceed $1,500.”
+
+Subsec. (c)(1). Pub. L. 111–312, §710(b)(2)(D)(ii), inserted “an exterior window, a skylight, an exterior door,” after “in the case of” in introductory provisions.
+
+Pub. L. 111–312, §710(b)(2)(A), in introductory provisions, substituted “2009 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of the American Recovery and Reinvestment Tax Act of 2009” for “2000 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of this section”.
+
+Subsec. (c)(2)(A). Pub. L. 111–312, §710(b)(2)(E), struck out “and meets the prescriptive criteria for such material or system established by the 2009 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of the American Recovery and Reinvestment Tax Act of 2009” after “on such dwelling unit”.
+
+Subsec. (c)(4). Pub. L. 111–312, §710(b)(2)(D)(i), struck out par. (4). Text read as follows: “Such term shall not include any component described in subparagraph (B) or (C) of paragraph (2) unless such component is equal to or below a U factor of 0.30 and SHGC of 0.30.”
+
+Subsec. (d)(2)(A)(ii). Pub. L. 111–312, §710(b)(2)(C)(ii), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “any qualified natural gas furnace, qualified propane furnace, qualified oil furnace, qualified natural gas hot water boiler, qualified propane hot water boiler, or qualified oil hot water boiler, or”.
+
+Subsec. (d)(3)(E). Pub. L. 111–312, §710(b)(2)(B), struck out “, as measured using a lower heating value” after “75 percent”.
+
+Subsec. (d)(4). Pub. L. 111–312, §710(b)(2)(C)(i), amended par. (4) generally. Prior to amendment, par. (4) defined the terms “qualified natural gas furnace”, “qualified natural gas hot water boiler”, “qualified propane furnace”, “qualified propane hot water boiler”, “qualified oil furnace”, and “qualified oil hot water boiler”.
+
+Subsec. (e)(3). Pub. L. 111–312, §710(b)(3), added par. (3).
+
+Subsec. (g)(2). Pub. L. 111–312, §710(a), substituted “2011” for “2010”.
+
+<b>2009</b>—Subsecs. (a), (b). Pub. L. 111–5, §1121(a), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to credit equal to the sum of 10 percent of the amount paid for qualified energy efficiency improvements and the amount of energy property expenditures and provided limits on credits and expenditures.
 
 Subsec. (c)(2)(A). Pub. L. 111–5, §1121(d)(2), inserted “and meets the prescriptive criteria for such material or system established by the 2009 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of the American Recovery and Reinvestment Tax Act of 2009” after “such dwelling unit”.
 
@@ -198,7 +222,7 @@ Subsec. (e)(1). Pub. L. 111–5, §1103(b)(2)(A), substituted “and (8)” for 
 
 Subsec. (g)(2). Pub. L. 111–5, §1121(e), substituted “December 31, 2010” for “December 31, 2009”.
 
-2008—Subsec. (c)(1). Pub. L. 110–343, §302(e)(1), in introductory provisions, inserted “, or an asphalt roof with appropriate cooling granules,” before “which meet the Energy Star program requirements”.
+<b>2008</b>—Subsec. (c)(1). Pub. L. 110–343, §302(e)(1), in introductory provisions, inserted “, or an asphalt roof with appropriate cooling granules,” before “which meet the Energy Star program requirements”.
 
 Subsec. (c)(2)(D). Pub. L. 110–343, §302(e)(2), inserted “or asphalt roof” after “metal roof” and “or cooling granules” after “pigmented coatings”.
 
@@ -224,9 +248,13 @@ Subsec. (d)(6). Pub. L. 110–343, §302(b)(2), added par. (6).
 
 Subsec. (g). Pub. L. 110–343, §302(a), substituted “placed in service—” for “placed in service after December 31, 2007” and added pars. (1) and (2).
 
-2007—Subsec. (c)(3). Pub. L. 110–172 substituted “part 3280” for “section 3280”.
+<b>2007</b>—Subsec. (c)(3). Pub. L. 110–172 substituted “part 3280” for “section 3280”.
 
-2005—Subsec. (b)(2). Pub. L. 109–135 substituted “subsection (c)(2)(B)” for “subsection (c)(3)(B)”.
+<b>2005</b>—Subsec. (b)(2). Pub. L. 109–135 substituted “subsection (c)(2)(B)” for “subsection (c)(3)(B)”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title VII, §710(c), Dec. 17, 2010, 124 Stat. 3315, provided that: “The amendments made by this section \[amending this section\] shall apply to property placed in service after December 31, 2010.”
 
 #### Effective Date of 2009 Amendment
 

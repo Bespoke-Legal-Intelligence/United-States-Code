@@ -10,7 +10,7 @@ Section was formerly classified to section 250g of Title 48, Territories and Ins
 
 #### Amendments
 
-1986—Pub. L. 99–514 inserted proviso directing that during the period of the trust, income derived directly from the sale of reindeer and reindeer products as provided in this subchapter shall be exempt from Federal income taxation.
+<b>1986</b>—Pub. L. 99–514 inserted proviso directing that during the period of the trust, income derived directly from the sale of reindeer and reindeer products as provided in this subchapter shall be exempt from Federal income taxation.
 
 #### Effective Date of 1986 Amendment
 

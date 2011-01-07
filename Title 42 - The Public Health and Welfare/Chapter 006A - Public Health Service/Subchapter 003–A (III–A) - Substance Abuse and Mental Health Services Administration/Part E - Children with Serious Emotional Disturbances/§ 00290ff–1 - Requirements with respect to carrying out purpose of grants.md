@@ -140,9 +140,9 @@ The Individuals with Disabilities Education Act, referred to in subsec. (d)(3)(B
 
 #### Amendments
 
-2004—Subsec. (d)(3)(B). Pub. L. 108–446 substituted “and C” for “and H”.
+<b>2004</b>—Subsec. (d)(3)(B). Pub. L. 108–446 substituted “and C” for “and H”.
 
-2000—Subsec. (g). Pub. L. 106–310 added subsec. (g).
+<b>2000</b>—Subsec. (g). Pub. L. 106–310 added subsec. (g).
 
 #### Effective Date
 

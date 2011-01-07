@@ -66,7 +66,7 @@ This subtitle, referred to in subsecs. (b) and (d), means subtitle E of title VI
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–569, §851(b)(1), in first sentence, substituted “for providing service coordinators under this section,” for “to carry out this subtitle pursuant to the amendments made by this subtitle,”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–569, §851(b)(1), in first sentence, substituted “for providing service coordinators under this section,” for “to carry out this subtitle pursuant to the amendments made by this subtitle,”.
 
 Subsec. (c). Pub. L. 106–569, §851(c)(2)(A), in first sentence, inserted “education and outreach regarding telemarketing fraud in accordance with the standards issued under subsection (f) of this section,” after “response,”.
 

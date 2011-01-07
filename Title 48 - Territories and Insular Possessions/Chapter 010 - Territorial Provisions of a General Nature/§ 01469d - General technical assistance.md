@@ -24,7 +24,7 @@ In subsec. (a), “sections 1535 and 1536 of title 31” substituted in text for
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House”.
 
 #### Termination of Trust Territory of the Pacific Islands
 

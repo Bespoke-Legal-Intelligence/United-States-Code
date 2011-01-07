@@ -12,7 +12,7 @@ The Secretary is authorized—
 
 &emsp;(4) to coordinate gender equity programs and activities with other Federal agencies with jurisdiction over education and related programs;
 
-&emsp;(5) to assist the Director of the Institute of Education Sciences in identifying researchpriorities related to education equity for women and girls; and
+&emsp;(5) to assist the Director of the Institute of Education Sciences in identifying research priorities related to education equity for women and girls; and
 
 &emsp;(6) to perform any other activities consistent with achieving the purposes of this subpart.
 
@@ -48,7 +48,7 @@ The Secretary is authorized—
 
 &emsp;&emsp;&emsp;(viii) introduction into the classroom of textbooks, curricula, and other materials designed to achieve equity for women and girls;
 
-&emsp;&emsp;&emsp;(ix) programs and policies to address sexual harassment and violence against women and girls and to ensure that educational institutions are free from threats to the safety of students and personnel;
+&emsp;&emsp;&emsp;(ix) programs and policies to address sexual harassment and violence againstwomen and girls and to ensure that educational institutions are free from threats to the safety of students and personnel;
 
 &emsp;&emsp;&emsp;(x) nondiscriminatory tests of aptitude and achievement and of alternative assessments that eliminate biased assessment instruments from use;
 
@@ -94,7 +94,7 @@ The Social Security Act, referred to in subsec. (b)(2)(A)(xi), (B)(viii), is act
 
 #### Amendments
 
-2002—Subsec. (a)(5). Pub. L. 107–279, §404(d)(7)(A), substituted “Director of the Institute of Education Sciences” for “Assistant Secretary of the Office of Educational Research and Improvement”.
+<b>2002</b>—Subsec. (a)(5). Pub. L. 107–279, §404(d)(7)(A), substituted “Director of the Institute of Education Sciences” for “Assistant Secretary of the Office of Educational Research and Improvement”.
 
 Subsec. (b)(2)(B). Pub. L. 107–279, §404(d)(7)(B), substituted “National Education Centers of the Institute of Education Sciences” for “research institutes of the Office of Educational Research and Improvement” in introductory provisions.
 

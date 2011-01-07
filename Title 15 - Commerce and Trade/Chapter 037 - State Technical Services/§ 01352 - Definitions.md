@@ -26,7 +26,7 @@ For the purposes of this chapter—
 
 #### Amendments
 
-1966—Subsec. (f). Pub. L. 89–771 included Guam within definition of “State”.
+<b>1966</b>—Subsec. (f). Pub. L. 89–771 included Guam within definition of “State”.
 
 #### Transfer of Functions
 

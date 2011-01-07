@@ -44,7 +44,7 @@ In subsection (a), the words “Members of the armed forces” are substituted f
 
 #### Amendments
 
-2006—Subsec. (a)(2). Pub. L. 109–163 substituted “States, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands” for “States and Territories, and Puerto Rico”.
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–163 substituted “States, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands” for “States and Territories, and Puerto Rico”.
 
-1988—Subsec. (a)(2). Pub. L. 100–456 substituted “and Puerto Rico” for “Puerto Rico, and the Canal Zone”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–456 substituted “and Puerto Rico” for “Puerto Rico, and the Canal Zone”.
 

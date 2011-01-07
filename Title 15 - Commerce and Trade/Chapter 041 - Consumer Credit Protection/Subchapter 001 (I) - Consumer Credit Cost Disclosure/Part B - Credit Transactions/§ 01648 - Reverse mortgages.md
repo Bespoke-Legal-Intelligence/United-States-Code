@@ -26,5 +26,13 @@ In determining the projected total cost of the mortgage to be disclosed to the c
 
 &emsp;(4) any limitation on the liability of the consumer under reverse mortgage transactions (such as nonrecourse limits and equity conservation agreements).
 
-(Pub. L. 90–321, title I, §138, as added Pub. L. 103–325, title I, §154(b), Sept. 23, 1994, 108 Stat. 2196.)
+(Pub. L. 90–321, title I, §138, as added Pub. L. 103–325, title I, §154(b), Sept. 23, 1994, 108 Stat. 2196; amended Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 

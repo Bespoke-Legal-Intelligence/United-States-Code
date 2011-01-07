@@ -4,7 +4,7 @@ As made applicable by section 3603 of this title and except as exempted by secti
 
 (a) To refuse to sell or rent after the making of a bona fide offer, or to refuse to negotiate for the sale or rental of, or otherwise make unavailable or deny, a dwelling to any person because of race, color, religion, sex, familial status, or national origin.
 
-(b) To discriminate against any person in the terms, conditions, or privileges of sale or rental of a dwelling, or in the provision of services or facilities in connection therewith, because of race, color, religion, sex, familial status, or national origin.
+(b) To discriminate against any person in the terms, conditions, or privileges of sale or rental of a dwelling, or in the provision of services orfacilities in connection therewith, because of race, color, religion, sex, familial status, or national origin.
 
 (c) To make, print, or publish, or cause to be made, printed, or published any notice, statement, or advertisement, with respect to the sale or rental of a dwelling that indicates any preference, limitation, or discrimination based on race, color, religion, sex, handicap, familial status, or national origin, or an intention to make any such preference, limitation, or discrimination.
 
@@ -78,7 +78,7 @@ As made applicable by section 3603 of this title and except as exempted by secti
 
 #### Amendments
 
-1988—Pub. L. 100–430, §6(e), inserted “and other prohibited practices” in section catchline.
+<b>1988</b>—Pub. L. 100–430, §6(e), inserted “and other prohibited practices” in section catchline.
 
 Subsecs. (a), (b). Pub. L. 100–430, §6(b)(2), inserted “familial status,” after “sex,”.
 
@@ -88,7 +88,7 @@ Subsec. (f). Pub. L. 100–430, §6(a), added subsec. (f).
 
 Subsec. (f)(3)(A). Pub. L. 100–430, §15, which directed the substitution of “except that, in the case of a rental, the landlord may where it is reasonable to do so condition permission for a modification on the renter agreeing to restore the interior of the premises to the condition that existed before the modification, reasonable wear and tear excepted.” for the period at the end of subpar. (A) was executed by making the substitution for a semicolon as the probable intent of Congress because subpar. (A) ended with a semicolon, not a period.
 
-1974—Pub. L. 93–383 inserted “, sex” after “religion” wherever appearing in cls. (a) to (e).
+<b>1974</b>—Pub. L. 93–383 inserted “, sex” after “religion” wherever appearing in cls. (a) to (e).
 
 #### Effective Date of 1988 Amendment
 

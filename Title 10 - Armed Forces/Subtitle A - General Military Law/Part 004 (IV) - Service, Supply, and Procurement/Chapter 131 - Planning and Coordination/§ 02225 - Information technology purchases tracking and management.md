@@ -58,9 +58,9 @@ Annual Report.—Not later than March 15 of each year, the Secretary of Defense 
 
 Definitions.—In this section:
 
-&emsp;(1) The term “senior procurement executive”, with respect to a military department, means the official designated as the senior procurement executive for the military department for the purposes of section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c)).
+&emsp;(1) The term “senior procurement executive”, with respect to a military department,means the official designated as the senior procurement executive for the military department for the purposes of section 1702(c) of title 41.
 
-&emsp;(2) The term “simplified acquisition threshold” has the meaning given the term in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)).
+&emsp;(2) The term “simplified acquisition threshold” has the meaning given the term in section 134 of title 41.
 
 &emsp;(3) The term “small business concern” means a business concern that meets the applicable size standards prescribed pursuant to section 3(a) of the Small Business Act (15 U.S.C. 632(a)).
 
@@ -68,17 +68,95 @@ Definitions.—In this section:
 
 &emsp;(5) The term “small business concern owned and controlled by women” has the meaning given that term in section 8(d)(3)(D) of the Small Business Act (15 U.S.C. 637(d)(3)(D)).
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–212; amended Pub. L. 108–178, §4(b)(2), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–212; amended Pub. L. 108–178, §4(b)(2), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 111–350, §5(b)(6), Jan. 4, 2011, 124 Stat. 3842.)
 
 #### Amendments
 
-2006—Subsec. (f)(1). Pub. L. 109–364 substituted “section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c))” for “section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3))”.
+<b>2011</b>—Subsec. (f)(1). Pub. L. 111–350, §5(b)(6)(A), substituted “section 1702(c) of title 41” for “section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c))”.
 
-2003—Subsec. (b)(9). Pub. L. 108–178 substituted “sections 11312 and 11313 of title 40” for “sections 5122 and 5123 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1422, 1423)”.
+Subsec. (f)(2). Pub. L. 111–350, §5(b)(6)(B), substituted “section 134 of title 41” for “section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))”.
+
+<b>2006</b>—Subsec. (f)(1). Pub. L. 109–364 substituted “section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c))” for “section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3))”.
+
+<b>2003</b>—Subsec. (b)(9). Pub. L. 108–178 substituted “sections 11312 and 11313 of title 40” for “sections 5122 and 5123 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1422, 1423)”.
 
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
+
+#### Demonstration and Pilot Projects on Cybersecurity
+
+Pub. L. 111–383, div. A, title II, §215, Jan. 7, 2011, 124 Stat. 4165, provided that:
+
+“(a)
+
+Demonstration Projects on Processes for Application of Commercial Technologies to Cybersecurity Requirements.—
+
+&emsp;“(1)
+
+Projects required.—The Secretary of Defense and the Secretaries of the military departments shall jointly carry out demonstration projects to assess the feasibility and advisability of using various business models and processes to rapidly and effectively identify innovative commercial technologies and apply such technologies to Department of Defense and other cybersecurity requirements.
+
+&emsp;“(2)
+
+Scope of projects.—Any demonstration project under paragraph (1) shall be carried out in such a manner as to contribute to the cyber policy review of the President and the Comprehensive National Cybersecurity Initiative.
+
+“(b)
+
+Pilot Programs on Cybersecurity Required.—The Secretary of Defense shall support or conduct pilot programs on cybersecurity with respect to the following areas:
+
+&emsp;“(1) Threat sensing and warning for information networks worldwide.
+
+&emsp;“(2) Managed security services for cybersecurity within the defense industrial base, military departments, and combatant commands.
+
+&emsp;“(3) Use of private processes and infrastructure to address threats, problems, vulnerabilities, or opportunities in cybersecurity.
+
+&emsp;“(4) Processes for securing the global supply chain.
+
+&emsp;“(5) Processes for threat sensing and security of cloud computing infrastructure.
+
+“(c)
+
+Reports.—
+
+&emsp;“(1)
+
+Reports required.—Not later than 240 days after the date of the enactment of this Act \[Jan. 7, 2011\], and annually thereafter at or about the time of the submittal to Congress of the budget of the President for a fiscal year (as submitted pursuant to section 1105(a) of title 31, United States Code), the Secretary of Defense shall, in coordination with the Secretary of Homeland Security, submit to Congress a report on any demonstration projects carried out under subsection (a), and on the pilot projects carried out under subsection (b), during the preceding year.
+
+&emsp;“(2)
+
+Elements.—Each report under this subsection shall include the following:
+
+&emsp;&emsp;“(A) A description and assessment of any activities under the demonstration projects and pilot projects referred to in paragraph (1) during the preceding year.
+
+&emsp;&emsp;“(B) For the pilot projects supported or conducted under subsection (b)(2)—
+
+&emsp;&emsp;&emsp;“(i) a quantitative and qualitative assessment of the extent to which managed security services covered by the pilot project could provide effective and affordable cybersecurity capabilities for components of the Department of Defense and for entities in the defense industrial base, and an assessment whether such services could be expanded rapidly to a large scale without exceeding the ability of the Federal Government to manage such expansion; and
+
+&emsp;&emsp;&emsp;“(ii) an assessment of whether managed security services are compatible with the cybersecurity strategy of the Department of Defense with respect to conducting an active, in-depth defense under the direction of United States Cyber Command.
+
+&emsp;&emsp;“(C) For the pilot projects supported or conducted under subsection (b)(3)—
+
+&emsp;&emsp;&emsp;“(i) a description of any performance metrics established for purposes of the pilot project, and a description of any processes developed for purposes of accountability and governance under any partnership under the pilot project; and
+
+&emsp;&emsp;&emsp;“(ii) an assessment of the role a partnership such as a partnership under the pilot project would play in the acquisition of cyberspace capabilities by the Department of Defense, including a role with respect to the development and approval of requirements, approval and oversight of acquiring capabilities, test and evaluation of new capabilities, and budgeting for new capabilities.
+
+&emsp;&emsp;“(D) For the pilot projects supported or conducted under subsection (b)(4)—
+
+&emsp;&emsp;&emsp;“(i) a framework and taxonomy for evaluating practices that secure the global supply chain, as well as practices for securely operating in an uncertain or compromised supply chain;
+
+&emsp;&emsp;&emsp;“(ii) an assessment of the viability of applying commercial practices for securing the global supply chain; and
+
+&emsp;&emsp;&emsp;“(iii) an assessment of the viability of applying commercial practices for securely operating in an uncertain or compromised supply chain.
+
+&emsp;&emsp;“(E) For the pilot projects supported or conducted under subsection (b)(5)—
+
+&emsp;&emsp;&emsp;“(i) an assessment of the capabilities of Federal Government providers to offer secure cloud computing environments; and
+
+&emsp;&emsp;&emsp;“(ii) an assessment of the capabilities of commercial providers to offer secure cloud computing environments to the Federal Government.
+
+&emsp;“(3)
+
+Form.—Each report under this subsection shall be submitted in unclassified form, but may include a classified annex.”
 
 #### Implementation of New Acquisition Process for Information Technology Systems
 
@@ -106,7 +184,7 @@ Report to Congress.—Not later than 270 days after the date of the enactment of
 
 &emsp;“(1) describe the new acquisition process;
 
-&emsp;“(2) provide an explanation for any decision by the Secretary to deviate from the criteria established forsuch process in paragraphs (1) and (2) of subsection (a);
+&emsp;“(2) provide an explanation for any decision by the Secretary to deviate from the criteria established for such process in paragraphs (1) and (2) of subsection (a);
 
 &emsp;“(3) provide a schedule for the implementation of the new acquisition process;
 

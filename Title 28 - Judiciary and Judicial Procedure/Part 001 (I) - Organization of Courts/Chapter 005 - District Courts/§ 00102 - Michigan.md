@@ -10,7 +10,7 @@ Michigan is divided into two judicial districts to be known as the Eastern and W
 
 &emsp;&emsp;Court for the Southern Division shall be held at Ann Arbor, Detroit, Flint, and Port Huron.
 
-&emsp;&emsp;(2) The Northern Division comprises the counties of Alcona, Alpena, Arenac, Bay, Cheboygan, Clare, Crawford, Gladwin, Gratiot, Huron, Iosco, Isabella, Midland, Montmorency, Ogemaw, Oscoda, Otsego, Presque Isle, Roscommon, Saginaw, and Tuscola.
+&emsp;&emsp;(2) The Northern Division comprises the counties of Alcona, Alpena, Arenac, Bay,Cheboygan, Clare, Crawford, Gladwin, Gratiot, Huron, Iosco, Isabella, Midland, Montmorency, Ogemaw, Oscoda, Otsego, Presque Isle, Roscommon, Saginaw, and Tuscola.
 
 &emsp;&emsp;Court for the Northern Division shall be held at Bay City.
 
@@ -44,13 +44,13 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1970—Subsec. (b)(1). Pub. L. 91–272 provided for holding court at Traverse City.
+<b>1970</b>—Subsec. (b)(1). Pub. L. 91–272 provided for holding court at Traverse City.
 
-1964—Subsec. (a). Pub. L. 88–627 transferred counties of Genesee and Shiawassee from Northern Division to Southern Division, added Ann Arbor and Flint as places of court for Southern Division, and struck out Flint as a place for holding court.
+<b>1964</b>—Subsec. (a). Pub. L. 88–627 transferred counties of Genesee and Shiawassee from Northern Division to Southern Division, added Ann Arbor and Flint as places of court for Southern Division, and struck out Flint as a place for holding court.
 
-1961—Subsec. (b)(1). Pub. L. 87–36 provided for holding court at Lansing instead of Mason.
+<b>1961</b>—Subsec. (b)(1). Pub. L. 87–36 provided for holding court at Lansing instead of Mason.
 
-1954—Subsec. (a)(1). Act Feb. 10, 1954, §2(b)(8)(a), struck out counties of Branch, Calhoun, Clinton, Hillsdale, and Ingham, with respect to Southern Division of Eastern District.
+<b>1954</b>—Subsec. (a)(1). Act Feb. 10, 1954, §2(b)(8)(a), struck out counties of Branch, Calhoun, Clinton, Hillsdale, and Ingham, with respect to Southern Division of Eastern District.
 
 Subsec. (a)(2). Act Feb. 10, 1954, §2(b)(8)(b), substituted “Flint” for “Port Huron”, as a place for holding court.
 

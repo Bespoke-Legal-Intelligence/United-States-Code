@@ -48,7 +48,7 @@ The purpose of this section is to promote competition in the delivery of diverse
 
 #### (d) Right of action in district court; relief; factors not to be considered by court
 
-Any person aggrieved by the failure or refusal of a cable operator to make channel capacity available for use pursuant to this section may bring an action in the district court of the United States for the judicial district in which the cable system is located to compel that such capacity be made available. If the court finds that the channel capacity sought by such person has not been made available in accordance with this section, or finds that the price, terms, or conditions established by the cable operator are unreasonable, the court may order such system to make available to such person the channel capacity sought, and further determine the appropriate price, terms, or conditions for such use consistent with subsection (c) of this section, and may award actual damages if it deems such relief appropriate. In any such action, the court shall not consider any price, term, or condition established between an operator and an affiliate for comparable services.
+Any person aggrieved by the failure or refusal of a cable operator to make channel capacity available for use pursuant to this section maybring an action in the district court of the United States for the judicial district in which the cable system is located to compel that such capacity be made available. If the court finds that the channel capacity sought by such person has not been made available in accordance with this section, or finds that the price, terms, or conditions established by the cable operator are unreasonable, the court may order such system to make available to such person the channel capacity sought, and further determine the appropriate price, terms, or conditions for such use consistent with subsection (c) of this section, and may award actual damages if it deems such relief appropriate. In any such action, the court shall not consider any price, term, or condition established between an operator and an affiliate for comparable services.
 
 #### (e) Petition to Commission; relief
 
@@ -60,7 +60,7 @@ Any person aggrieved by the failure or refusal of a cable operator to make chann
 
 #### (f) Presumption of reasonableness and good faith
 
-In any action brought under this section in any Federal district court or before the Commission, there shall be a presumption that theprice, terms, and conditions for use of channel capacity designated pursuant to subsection (b) of this section are reasonable and in good faith unless shown by clear and convincing evidence to the contrary.
+In any action brought under this section in any Federal district court or before the Commission, there shall be a presumption that the price, terms, and conditions for use of channel capacity designated pursuant to subsection (b) of this section are reasonable and in good faith unless shown by clear and convincing evidence to the contrary.
 
 #### (g) Promulgation of rules
 
@@ -96,9 +96,9 @@ Any cable service offered pursuant to this section shall not be provided, or sha
 
 #### Amendments
 
-1996—Subsec. (c)(2). Pub. L. 104–104 substituted “a cable operator may refuse to transmit any leased access program or portion of a leased access program which contains obscenity, indecency, or nudity and” for “an operator”.
+<b>1996</b>—Subsec. (c)(2). Pub. L. 104–104 substituted “a cable operator may refuse to transmit any leased access program or portion of a leased access program which contains obscenity, indecency, or nudity and” for “an operator”.
 
-1992—Subsec. (a). Pub. L. 102–385, §9(a), inserted “to promote competition in the delivery of diverse sources of video programming and” after “purpose of this section is”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–385, §9(a), inserted “to promote competition in the delivery of diverse sources of video programming and” after “purpose of this section is”.
 
 Subsec. (b)(5). Pub. L. 102–385, §9(d), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “For the purposes of this section—
 

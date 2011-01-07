@@ -14,7 +14,7 @@
 
 &emsp;(6) complete, administer, operate, obtain and pay for insurance on, and maintain, renovate, repair, modernize, lease, or otherwise deal with any property acquired or held pursuant to this chapter. The acquisition of any such property shall not deprive any State or political subdivision thereof of its civil or criminal jurisdiction of, on, or over such property (including power to tax) or impair the rights under the State or local law of any persons on such property. Without regard to section 3302(b) of title 31 or any other provision of law not expressly in limitation of this paragraph, the Secretary may permit brokers utilized by the Secretary in connection with such properties to deduct from rental collections amounts covering authorized fees, costs, and expenses incurred in connection with the management, repair, sale, or lease of any such properties and remit the net balances to the Secretary.
 
-(b) The powers granted by this section may be exercised by the Secretary without regard to any other provision of law not enacted expresslyin limitation of this section, which otherwise would govern the expenditure of public funds, except that title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.) shall apply to any contract for services or supplies on account of any property acquired pursuant to this section.
+(b) The powers granted by this section may be exercised by the Secretary without regard to any other provision of law not enacted expressly in limitation of this section, which otherwise would govern the expenditure of public funds, except that division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 shall apply to any contract for services or supplies on account of any property acquired pursuant to this section.
 
 (c) The financial transactions of the Secretary incident to, or arising out of, the guaranty or insurance of loans pursuant to this chapter, and the acquisition, management, and disposition of property, real, personal, or mixed, incident to such activities and pursuant to this section, shall be final and conclusive upon all officers of the Government.
 
@@ -30,57 +30,57 @@
 
 (2) The Secretary may not under this subsection guarantee the payment of principal and interest on certificates or other securities issued or approved after December 31, 2011.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1213, §1820; Pub. L. 88–151, §1, Oct. 17, 1963, 77 Stat. 271; Pub. L. 88–560, title VII, §701(e)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 89–625, Oct. 4, 1966, 80 Stat. 874; Pub. L. 89–769, §3(c), Nov. 6, 1966, 80 Stat. 1316; Pub. L. 90–448, title VIII, §807(h), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–606, title II, §233, Dec. 31, 1970, 84 Stat. 1753; Pub. L. 92–328, title II, §205, June 30, 1972, 86 Stat. 397; Pub. L. 93–288, title VII, §702(<i>l</i>), formerly title VI, §602(<i>l</i>), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(<i>l</i>), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–324, §7(24)–(26), June 30, 1976, 90 Stat. 722; Pub. L. 95–117, title IV, §403(a), Oct. 3, 1977, 91 Stat. 1066; Pub. L. 97–258, §3(k)(3), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 97–295, §4(67), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 98–160, title VII, §702(14), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 99–576, title IV, §404, Oct. 28, 1986, 100 Stat. 3281; Pub. L. 100–707, title I, §109(n), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–237, title III, §313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, §4(a), June 13, 1991, 105 Stat. 268; renumbered §3720 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–291, §5(a), May 20, 1992, 106 Stat. 179; Pub. L. 102–547, §4, Oct. 28, 1992, 106 Stat. 3636; Pub. L. 104–110, title I, §101(f), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–275, title II, §201, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–33, title VIII, §8011, Aug. 5, 1997, 111 Stat. 664; Pub. L. 105–368, title VI, §§602(c)(1), 604(a), Nov. 11, 1998, 112 Stat. 3346, 3348; Pub. L. 106–419, title IV, §402(a), Nov. 1, 2000, 114 Stat. 1861; Pub. L. 107–103, title IV, §405(b), Dec. 27, 2001, 115 Stat. 994.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1213, §1820; Pub. L. 88–151, §1, Oct. 17, 1963, 77 Stat. 271; Pub. L. 88–560, title VII, §701(e)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 89–625, Oct. 4, 1966, 80 Stat. 874; Pub. L. 89–769, §3(c), Nov. 6, 1966, 80 Stat. 1316; Pub. L. 90–448, title VIII, §807(h), Aug. 1, 1968, 82Stat. 545; Pub. L. 91–606, title II, §233, Dec. 31, 1970, 84 Stat. 1753; Pub. L. 92–328, title II, §205, June 30, 1972, 86 Stat. 397; Pub. L. 93–288, title VII, §702(<i>l</i>), formerly title VI, §602(<i>l</i>), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(<i>l</i>), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–324, §7(24)–(26), June 30, 1976, 90 Stat. 722; Pub. L. 95–117, title IV, §403(a), Oct. 3, 1977, 91 Stat. 1066; Pub. L. 97–258, §3(k)(3), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 97–295, §4(67), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 98–160, title VII, §702(14), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 99–576, title IV, §404, Oct. 28, 1986, 100 Stat. 3281; Pub. L. 100–707, title I, §109(n), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–237, title III, §313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, §4(a), June 13, 1991, 105 Stat. 268; renumbered §3720 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–291, §5(a), May 20, 1992, 106 Stat. 179; Pub. L. 102–547, §4, Oct. 28, 1992, 106 Stat. 3636; Pub. L. 104–110, title I, §101(f), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–275, title II, §201, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–33, title VIII, §8011, Aug. 5, 1997, 111 Stat. 664; Pub. L. 105–368, title VI, §§602(c)(1), 604(a), Nov. 11, 1998, 112 Stat. 3346, 3348; Pub. L. 106–419, title IV, §402(a), Nov. 1, 2000, 114 Stat. 1861; Pub. L. 107–103, title IV, §405(b), Dec. 27, 2001, 115 Stat. 994; Pub. L. 111–350, §5(j)(3), Jan. 4, 2011, 124 Stat. 3850.)
 
 #### References in Text
-
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
 
 The Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), referred to in subsec. (f), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
 
-2001—Subsec. (h)(2). Pub. L. 107–103 substituted “December 31, 2011” for “December 31, 2008”.
+<b>2011</b>—Subsec. (b). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
 
-2000—Subsec. (h)(2). Pub. L. 106–419 substituted “December 31, 2008” for “December 31, 2002”.
+<b>2001</b>—Subsec. (h)(2). Pub. L. 107–103 substituted “December 31, 2011” for “December 31, 2008”.
 
-1998—Subsec. (b). Pub. L. 105–368, §604(a), substituted “, except that title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.) shall apply to any contract for services or supplies on account of any property acquired pursuant to this section.” for “; however, section 3709 of the Revised Statutes (41 U.S.C. 5) shall apply to any contract for services or supplies on account of any property acquired pursuant to this section if the amount of such contract exceeds the amount prescribed in clause (1) of the first sentence of such section.”
+<b>2000</b>—Subsec. (h)(2). Pub. L. 106–419 substituted “December 31, 2008” for “December 31, 2002”.
+
+<b>1998</b>—Subsec. (b). Pub. L. 105–368, §604(a), substituted “, except that title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.) shall apply to any contract for services or supplies on account of any property acquired pursuant to this section.” for “; however, section 3709 of the Revised Statutes (41 U.S.C. 5) shall apply to any contract for services or supplies on account of any property acquired pursuant to this section if the amount of such contract exceeds the amount prescribed in clause (1) of the first sentence of such section.”
 
 Subsec. (e). Pub. L. 105–368, §602(c)(1), struck out subsec. (e), which authorized Secretary to set aside first mortgage loans and installment sales contracts owned or held by Secretary under this chapter as basis for sale of participation certificates, authorized agreements, including trust agreements, for this purpose, and set forth provisions relating to allocation, deposit, and set aside of proceeds.
 
-1997—Subsec. (h)(2). Pub. L. 105–33 substituted “December 31, 2002” for “December 31, 1997”.
+<b>1997</b>—Subsec. (h)(2). Pub. L. 105–33 substituted “December 31, 2002” for “December 31, 1997”.
 
-1996—Subsec. (h)(2). Pub. L. 104–275 substituted “December 31, 1997” for “December 31, 1996”.
+<b>1996</b>—Subsec. (h)(2). Pub. L. 104–275 substituted “December 31, 1997” for “December 31, 1996”.
 
 Pub. L. 104–110 substituted “December 31, 1996” for “December 31, 1995”.
 
-1992—Subsec. (h). Pub. L. 102–547 substituted “December 31, 1995” for “December 31, 1992” in par. (2).
+<b>1992</b>—Subsec. (h). Pub. L. 102–547 substituted “December 31, 1995” for “December 31, 1992” in par. (2).
 
 Pub. L. 102–291 added subsec. (h).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1820 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1820 of this title as this section.
 
 Subsec. (e)(2). Pub. L. 102–83, §5(c)(1), substituted “3723 and 3724” for “1823 and 1824” in two places.
 
 Subsec. (g). Pub. L. 102–54 added subsec. (g).
 
-1989—Subsecs. (a) to (c), (e), (f). Pub. L. 101–237 substituted “Secretary”, “Secretary's”, and “Department of Veterans Affairs” for “Administrator”, “Administrator's”, and “Veterans’ Administration”, respectively, wherever appearing.
+<b>1989</b>—Subsecs. (a) to (c), (e), (f). Pub. L. 101–237 substituted “Secretary”, “Secretary's”, and “Department of Veterans Affairs” for “Administrator”, “Administrator's”, and “Veterans’ Administration”, respectively, wherever appearing.
 
-1988—Subsec. (f). Pub. L. 100–707 substituted “and Emergency Assistance Act” for “Act of 1974”.
+<b>1988</b>—Subsec. (f). Pub. L. 100–707 substituted “and Emergency Assistance Act” for “Act of 1974”.
 
-1986—Subsec. (b). Pub. L. 99–576 substituted “the amount prescribed in clause (1) of the first sentence of such section” for “$1,000”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–576 substituted “the amount prescribed in clause (1) of the first sentence of such section” for “$1,000”.
 
-1983—Subsec. (a)(6). Pub. L. 98–160 struck out comma after “title 31”.
+<b>1983</b>—Subsec. (a)(6). Pub. L. 98–160 struck out comma after “title 31”.
 
 Subsec. (b). Pub. L. 98–160 substituted “section 3709 of the Revised Statutes (41 U.S.C. 5)” for “section 5 of title 41”.
 
-1982—Subsec. (a)(6). Pub. L. 97–258 substituted “section 3302(b) of title 31” for “section 3617, Revised Statutes (31 U.S.C. 484)”.
+<b>1982</b>—Subsec. (a)(6). Pub. L. 97–258 substituted “section 3302(b) of title 31” for “section 3617, Revised Statutes (31 U.S.C. 484)”.
 
 Subsec. (f). Pub. L. 97–295 inserted “(42 U.S.C. 5121 et seq.)” after “the Disaster Relief Act of 1974”.
 
-1977—Subsec. (a)(1). Pub. L. 95–117 inserted prohibition relating to garnishment or attachment against the Administrator, etc.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–117 inserted prohibition relating to garnishment or attachment against the Administrator, etc.
 
-1976—Subsec. (a)(1). Pub. L. 94–324, §7(24), substituted “the Administrator's” for “his”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–324, §7(24), substituted “the Administrator's” for “his”.
 
 Subsec. (a)(5). Pub. L. 94–324, §7(24), substituted “the Administrator” for “he”.
 
@@ -90,23 +90,23 @@ Subsec. (e)(1). Pub. L. 94–324, §7(26), substituted “the Administrator dete
 
 Subsec. (e)(2). Pub. L. 94–324, §7(26), substituted “as the Administrator determines” for “as he determines”.
 
-1974—Subsec. (f). Pub. L. 93–288 substituted “Disaster Relief Act of 1974” for “Disaster Assistance Act of 1970.”
+<b>1974</b>—Subsec. (f). Pub. L. 93–288 substituted “Disaster Relief Act of 1974” for “Disaster Assistance Act of 1970.”
 
-1972—Subsec. (a)(4). Pub. L. 92–328 struck out provisions relating to the authority to waive or release claims, including partial or total waiver of payment, following default and loss of property.
+<b>1972</b>—Subsec. (a)(4). Pub. L. 92–328 struck out provisions relating to the authority to waive or release claims, including partial or total waiver of payment, following default and loss of property.
 
-1970—Subsec. (a)(2). Pub. L. 91–606, §233(1), substituted “a loan which has been guaranteed, insured, made or acquired under this chapter” for “a loan which has been guaranteed or insured under this chapter”.
+<b>1970</b>—Subsec. (a)(2). Pub. L. 91–606, §233(1), substituted “a loan which has been guaranteed, insured, made or acquired under this chapter” for “a loan which has been guaranteed or insured under this chapter”.
 
 Subsec. (f). Pub. L. 91–606, §233(2), directed the Administrator in major disaster areas to provide the owner of property lost, destroyed, or damaged as the result of a major disaster with counseling and other services, to inform him of disaster assistance available from other Federal, state, or local agencies and to extend such forbearance on an individual case basis as he determines to be warranted by the facts of the case.
 
-1968—Subsec. (e)(1). Pub. L. 90–448 substituted “Government National Mortgage Association” for “Federal National Mortgage Association” wherever appearing.
+<b>1968</b>—Subsec. (e)(1). Pub. L. 90–448 substituted “Government National Mortgage Association” for “Federal National Mortgage Association” wherever appearing.
 
-1966—Subsec. (a)(6). Pub. L. 89–625 authorized brokers utilized by Administrator in connection with properties acquired or held pursuant to this chapter to deduct from rental collections amounts covering authorized fees, costs, and expenses incurred in connection with management, repair, sale, or lease of properties and to remit the net balances to Administrator.
+<b>1966</b>—Subsec. (a)(6). Pub. L. 89–625 authorized brokers utilized by Administrator in connection with properties acquired or held pursuant to this chapter to deduct from rental collections amounts covering authorized fees, costs, and expenses incurred in connection with management, repair, sale, or lease of properties and to remit the net balances to Administrator.
 
 Subsec. (f). Pub. L. 89–769 added subsec. (f).
 
-1964—Subsec. (e). Pub. L. 88–560 added subsec. (e).
+<b>1964</b>—Subsec. (e). Pub. L. 88–560 added subsec. (e).
 
-1963—Subsec. (a)(4). Pub. L. 88–151 provided for waiver of indebtedness to the United States in certain cases arising out of default on loans guaranteed or made by the Veterans’ Administration.
+<b>1963</b>—Subsec. (a)(4). Pub. L. 88–151 provided for waiver of indebtedness to the United States in certain casesarising out of default on loans guaranteed or made by the Veterans’ Administration.
 
 #### Effective Date of 1998 Amendment
 
@@ -152,7 +152,7 @@ Pub. L. 100–198, §9, Dec. 21, 1987, 101 Stat. 1320, as amended by Pub. L. 102
 
 #### Housing Solar Energy and Weatherization Study; Report Not Later Than March 1, 1978
 
-Pub. L. 95–202, title III, §311, Nov. 23, 1977, 91 Stat. 1449, directed Administrator of Veterans’ Affairs, inconsultation with Secretary of Energy and Secretary of Housing and Urban Development, to conduct a study to determine the most effective methods of using the programs carried out under, or amending provisions of, this chapter in order to aid and encourage present and prospective veteran homeowners to install solar heating and cooling in their homes and to apply residential energy conservation measures and that a report on such study be submitted to Congress not later than Mar. 1, 1978.
+Pub. L. 95–202, title III, §311, Nov. 23, 1977, 91 Stat. 1449, directed Administrator of Veterans’ Affairs, in consultation with Secretary of Energy and Secretary of Housing and Urban Development, to conduct a study to determine the most effective methods of using the programs carried out under, or amending provisions of, this chapter in order to aid and encourage present and prospective veteran homeowners to install solar heating and cooling in their homes and to apply residential energy conservation measures and that a report on such study be submitted to Congress not later than Mar. 1, 1978.
 
 #### Waiver of Indebtedness; Report to Congress
 

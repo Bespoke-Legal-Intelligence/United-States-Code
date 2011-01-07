@@ -42,7 +42,7 @@ The Bureau of Government Financial Operations, referred to in subsec. (c)(1), is
 
 #### Amendments
 
-2004—Subsec. (d). Pub. L. 108–458 inserted “or employee” after “another officer”.
+<b>2004</b>—Subsec. (d). Pub. L. 108–458 inserted “or employee” after “another officer”.
 
 #### Reimbursement of Financial Management Service and Bureau of the Public Debt
 

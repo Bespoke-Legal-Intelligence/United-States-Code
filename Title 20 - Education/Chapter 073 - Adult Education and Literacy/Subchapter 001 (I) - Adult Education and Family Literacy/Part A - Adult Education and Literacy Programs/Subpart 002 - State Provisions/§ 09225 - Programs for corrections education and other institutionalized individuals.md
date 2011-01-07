@@ -50,7 +50,7 @@ Provisions similar to this section were contained in section 1204 of this title 
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–277, §101(f) \[title VIII, §404(d)(1)\], substituted “and education” for “or education”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §101(f) \[title VIII, §404(d)(1)\], substituted “and education” for “or education”.
 
 Subsec. (c). Pub. L. 105–277, §101(f) \[title VIII, §404(d)(2)\], substituted “within” for “with” before “5 years”.
 

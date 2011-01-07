@@ -102,7 +102,7 @@ In subsection (h), the words “under this section” are added for clarity.
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–134, §31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–134, §31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
 
 Subsecs. (d), (e). Pub. L. 104–134, §31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
 

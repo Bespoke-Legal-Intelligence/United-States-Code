@@ -1,6 +1,6 @@
 ### §485. Coins or bars
 
-Whoever falsely makes, forges, or counterfeits any coin or bar in resemblance or similitude ofany coin of a denomination higher than 5 cents or any gold or silver bar coined or stamped at any mint or assay office of the United States, or in resemblance or similitude of any foreign gold or silver coin current in the United States or in actual use and circulation as money within the United States; or
+Whoever falsely makes, forges, or counterfeits any coin or bar in resemblance or similitude of any coin of a denomination higher than 5 cents or any gold or silver bar coined or stamped at any mint or assay office of the United States, or in resemblance or similitude of any foreign gold or silver coin current in the United States or in actual use and circulation as money within the United States; or
 
 Whoever passes, utters, publishes, sells, possesses, or brings into the United States any false, forged, or counterfeit coin or bar, knowing the same to be false, forged, or counterfeit, with intent to defraud any body politic or corporate, or any person, or attempts the commission of any offense described in this paragraph—
 
@@ -22,7 +22,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-1965—Pub. L. 89–81 struck out “Gold or silver” before “Coins or bars” in section catchline, changed the description of the United States coins covered in first par. from gold or silver coins to any coin of a denomination higher than 5 cents, and made minor structural changes in second par.
+<b>1965</b>—Pub. L. 89–81 struck out “Gold or silver” before “Coins or bars” in section catchline, changed the description of the United States coins covered in first par. from gold or silver coins to any coin of a denomination higher than 5 cents, and made minor structural changes in second par.
 

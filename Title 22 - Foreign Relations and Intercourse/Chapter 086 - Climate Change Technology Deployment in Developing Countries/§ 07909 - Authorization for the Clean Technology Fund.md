@@ -50,7 +50,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(II) substantially increases the energy efficiency of buildings, industrial, or agricultural processes, or of electricity transmission, distribution, or end-use consumption; or
 
-&emsp;&emsp;&emsp;(III) substantially increases the energy efficiency of the transportation system or increases utilization of transportation fuels that have lifecycle greenhouse gas emissions that are substantially lower than those attributable to fossil fuel-based alternatives.
+&emsp;&emsp;&emsp;(III) substantially increases the energy efficiency of the transportation system or increases utilization of transportationfuels that have lifecycle greenhouse gas emissions that are substantially lower than those attributable to fossil fuel-based alternatives.
 
 (Pub. L. 111–117, div. F, title VII, §7081(g), Dec. 16, 2009, 123 Stat. 3398.)
 

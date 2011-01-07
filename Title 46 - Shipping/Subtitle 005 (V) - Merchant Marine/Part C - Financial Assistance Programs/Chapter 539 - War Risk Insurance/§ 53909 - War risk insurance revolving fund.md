@@ -48,9 +48,9 @@ The text of 46 App. U.S.C. 1288(b) is omitted as unnecessary because enactment o
 
 #### Amendments
 
-2008—Pub. L. 110–181 repealed Pub. L. 109–364, §3510(a)(1). See 2006 Amendment note below.
+<b>2008</b>—Pub. L. 110–181 repealed Pub. L. 109–364, §3510(a)(1). See 2006 Amendment note below.
 
-2006—Pub. L. 109–364, §3510(a)(1), which directed the amendment of section 1288(a) of the former Appendix to this title from which this section was derived in part, was repealed by Pub. L. 110–181. The substance of the amendment was incorporated in this section as enacted by Pub. L. 109–304. See Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–364, §3510(a)(1), which directed the amendment of section 1288(a) of the former Appendix to this title from which this section was derived in part, was repealed by Pub. L. 110–181. The substance of the amendment was incorporated in this section as enacted by Pub. L. 109–304. See Historical and Revision notes above.
 
 #### Effective Date of 2006 Amendment
 

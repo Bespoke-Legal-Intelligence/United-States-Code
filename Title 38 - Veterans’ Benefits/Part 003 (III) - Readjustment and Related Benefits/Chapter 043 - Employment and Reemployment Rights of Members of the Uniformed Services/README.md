@@ -61,11 +61,11 @@ A prior chapter 43 “Mustering-Out Payments”, Pub. L. 85–857, Sept. 2, 1958
 
 #### Amendments
 
-2008—Pub. L. 110–389, title III, §§311(f)(2), 313(b), Oct. 10, 2008, 122 Stat. 4164, 4167, added items 4327 and 4335.
+<b>2008</b>—Pub. L. 110–389, title III, §§311(f)(2), 313(b), Oct. 10, 2008, 122 Stat. 4164, 4167, added items 4327 and 4335.
 
-2004—Pub. L. 108–454, title II, §203(b), Dec. 10, 2004, 118 Stat. 3606, added item 4334.
+<b>2004</b>—Pub. L. 108–454, title II, §203(b), Dec. 10, 2004, 118 Stat. 3606, added item 4334.
 
-1998—Pub. L. 105–368, title II, §212(b)(2), Nov. 11, 1998, 112 Stat. 3331, added item 4319.
+<b>1998</b>—Pub. L. 105–368, title II, §212(b)(2), Nov. 11, 1998, 112 Stat. 3331, added item 4319.
 
 
 ---

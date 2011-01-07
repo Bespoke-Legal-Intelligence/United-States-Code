@@ -14,7 +14,7 @@ Section was classified to section 2346d of this title prior to renumbering by Pu
 
 A prior section 2346b, Pub. L. 87–195, pt. II, §533, as added Pub. L. 97–113, title II, §202, Dec. 29, 1981, 95 Stat. 1530, related to grants for eastern Mediterranean programs, prior to repeal by Pub. L. 99–83, title II, §201(a), Aug. 8, 1985, 99 Stat. 210.
 
-Another prior section 2346b, Pub. L. 87–195, pt. II, §533, as added Pub. L. 96–533, title II, §202, Dec. 16, 1980, 94 Stat. 3143, related to Central American economic support, prior to repeal by Pub. L. 97–113, §202, Dec. 29, 1981, 95 Stat. 1529.
+Another prior section 2346b, Pub. L. 87–195, pt. II, §533, as added Pub. L. 96–533, title II, §202, Dec. 16, 1980, 94 Stat. 3143, related to Central American economicsupport, prior to repeal by Pub. L. 97–113, §202, Dec. 29, 1981, 95 Stat. 1529.
 
 Another prior section 2346b, Pub. L. 87–195, pt. II, §533, as added Pub. L. 95–92, §8(c), Aug. 4, 1977, 91 Stat. 618; amended Pub. L. 95–384, §10(a), Sept. 26, 1978, 92 Stat. 735; Pub. L. 96–92, §8(c), Oct. 29, 1979, 93 Stat. 704, provided for a Southern Africa economic support program, including availability of funds and assistance requirements and limitations, prior to repeal by Pub. L. 96–533, title II, §202, Dec. 16, 1980, 94 Stat. 3142.
 
@@ -22,7 +22,7 @@ Another prior section 2346b, Pub. L. 87–195, pt. II, §533, as added Pub. L. 9
 
 #### Amendments
 
-1985—Subsec. (a). Pub. L. 99–83, §202(b)(1), substituted “1986” and “1987” for “1982” and “1983”, respectively.
+<b>1985</b>—Subsec. (a). Pub. L. 99–83, §202(b)(1), substituted “1986” and “1987” for “1982” and “1983”, respectively.
 
 #### Effective Date of 1985 Amendment
 

@@ -40,7 +40,7 @@ Unreasonable Burdens and Discrimination Against Interstate Commerce.—(1) In th
 
 &emsp;(iii) levy or collect an ad valorem property tax on air carrier transportation property at a tax rate greater than the tax rate applicable to commercial and industrial property in the same assessment jurisdiction.
 
-&emsp;(iv) levy or collect a tax, fee, or charge, first taking effect after August 23, 1994, exclusively upon any business located at a commercial service airport or operating as a permittee of such an airport other than a tax, fee, or charge wholly utilized for airport or aeronautical purposes.
+&emsp;(iv) levy or collect a tax, fee, or charge, first taking effect after August 23, 1994, exclusivelyupon any business located at a commercial service airport or operating as a permittee of such an airport other than a tax, fee, or charge wholly utilized for airport or aeronautical purposes.
 
 (B) Subparagraph (A) of this paragraph does not apply to an in lieu tax completely used for airport and aeronautical purposes.
 
@@ -154,13 +154,13 @@ This amends 49:40116(d)(2)(A)(iv) to conform to the style of title 49 and to set
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–264, in introductory provisions, substituted “a State, a” for “a State or” and inserted “, and any person that has purchased or leased an airport under section 47134 of this title” after “of a State”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–264, in introductory provisions, substituted “a State, a” for “a State or” and inserted “, and any person that has purchased or leased an airport under section 47134 of this title” after “of a State”.
 
 Subsec. (d)(2)(A)(iv). Pub. L. 104–287, which directed substitution of “August 23, 1994” for “the date of enactment of this clause”, was executed by making the substitution for “the date of the enactment of this clause” to reflect the probable intent of Congress.
 
 Pub. L. 104–287 substituted “levy” for “Levy”.
 
-1994—Subsec. (d)(2)(A)(iv). Pub. L. 103–305, §112(e), added cl. (iv).
+<b>1994</b>—Subsec. (d)(2)(A)(iv). Pub. L. 103–305, §112(e), added cl. (iv).
 
 Subsec. (f)(3). Pub. L. 103–305, §208, added par. (3).
 

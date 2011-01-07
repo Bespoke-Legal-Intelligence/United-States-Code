@@ -38,5 +38,5 @@ The Indian Self-Determination Act, referred to in par. (5), is title I of Pub. L
 
 #### Amendments
 
-1988—Par. (6). Pub. L. 100–690 added par. (6).
+<b>1988</b>—Par. (6). Pub. L. 100–690 added par. (6).
 

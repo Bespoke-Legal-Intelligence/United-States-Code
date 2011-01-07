@@ -15,3 +15,4 @@
 - [&sect; 00794c - Interagency Disability Coordinating Council](%C2%A7%2000794c%20-%20Interagency%20Disability%20Coordinating%20Council.md)
 - [&sect; 00794d - Electronic and information technology](%C2%A7%2000794d%20-%20Electronic%20and%20information%20technology.md)
 - [&sect; 00794e - Protection and advocacy of individual rights](%C2%A7%2000794e%20-%20Protection%20and%20advocacy%20of%20individual%20rights.md)
+- [&sect; 00794f - Establishment of standards for accessible medical diagnostic equipment](%C2%A7%2000794f%20-%20Establishment%20of%20standards%20for%20accessible%20medical%20diagnostic%20equipment.md)

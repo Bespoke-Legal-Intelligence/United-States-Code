@@ -214,11 +214,11 @@ This chapter, referred to in subsecs. (c), (d), (e)(2)(C)(iii), (g), and (h)(3),
 
 #### Amendments
 
-2007—Subsec. (d). Pub. L. 109–479, §5, substituted “is” for “shall be” and “cannot, or will not,” for “will not” and inserted at end “Allocations of the total allowable level of foreign fishing are discretionary, except that the total allowable level shall be zero for fisheries determined by the Secretary to have adequate or excess domestic harvest capacity.”
+<b>2007</b>—Subsec. (d). Pub. L. 109–479, §5, substituted “is” for “shall be” and “cannot, or will not,” for “will not” and inserted at end “Allocations of the total allowable level of foreign fishing are discretionary, except that the total allowable level shall be zero for fisheries determined by the Secretary to have adequate or excess domestic harvest capacity.”
 
 Subsec. (h)(2)(B). Pub. L. 109–479, §404(a), substituted “or other monitoring program that the Secretary, in consultation with the Western Pacific Management Council, determines is adequate to monitor harvest, bycatch, and compliance with the laws of the United States by vessels fishing under the agreement;” for “that is at least equal in effectiveness to the program established by the Secretary;”.
 
-1996—Subsec. (a)(1), (2). Pub. L. 104–297, §105(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+<b>1996</b>—Subsec. (a)(1), (2). Pub. L. 104–297, §105(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) is authorized under subsection (b) or (c) of this section;
 
@@ -238,15 +238,15 @@ Subsec. (i). Pub. L. 104–297, §105(a)(4), (6), redesignated subsec. (j) as (i
 
 Subsec. (j). Pub. L. 104–297, §105(a)(4), redesignated subsec. (j) as (i).
 
-1994—Subsec. (f). Pub. L. 103–236 directed the repeal of section 201(f) of the Fishery Conservation and Management Act, 1976, which was executed by repealing subsec. (f) of this section which was section 201(f) of the Magnuson Fishery Conservation and Management Act. Prior to repeal, subsec. (f) read as follows: “The Secretary and the Secretary of State shall prepare and submit a report to the Congress and the President, not later than July 1 of each year, setting forth—
+<b>1994</b>—Subsec. (f). Pub. L. 103–236 directed the repeal of section 201(f) of the Fishery Conservation and Management Act, 1976, which was executed by repealing subsec. (f) of this section which was section 201(f) of the Magnuson Fishery Conservation and Management Act. Prior to repeal, subsec. (f) read as follows: “The Secretary and the Secretary of State shall prepare and submit a report to the Congress and the President, not later than July 1 of each year, setting forth—
 
 &emsp;“(1) a list of species of all allocations made to foreign nations pursuant to subsection (e) of this section and all permits issued pursuant to section 1824(b)(6)(B) of this title; and
 
 &emsp;“(2) all tariff and nontariff trade barriers imposed by such nations on the importation of such species from the United States.”
 
-1990—Subsec. (d). Pub. L. 101–627 amended subsec. (d) generally, limiting the total allowable level of foreign fishing, with respect to any fishery subject to the exclusive management authority of the United States, to only that part of the potential fishery yield which is not harvested by United States fishermen and deleting the alternative method of determining the total allowable level of foreign fishing based on the annual fishing level for each harvesting season after the 1980 harvesting season.
+<b>1990</b>—Subsec. (d). Pub. L. 101–627 amended subsec. (d) generally, limiting the total allowable level of foreign fishing, with respect to any fishery subject to the exclusive management authority of the United States, to only that part of the potential fishery yield which is not harvested by United States fishermen and deleting the alternative method of determining the total allowable level of foreign fishing based on the annual fishing level for each harvesting season after the 1980 harvesting season.
 
-1986—Subsecs. (a), (e)(1)(E)(iv). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone” in two places.
+<b>1986</b>—Subsecs. (a), (e)(1)(E)(iv). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone” in two places.
 
 Subsec. (f). Pub. L. 99–386 substituted “The Secretary and the Secretary of State shall” for “The Secretary of the Treasury, in cooperation with the Secretary and the Secretary of State, shall”.
 
@@ -262,7 +262,7 @@ Subsec. (i)(2)(B). Pub. L. 99–659, §103(a)(3), amended subpar. (B) generally.
 
 Subsec. (j). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
-1984—Subsec. (d)(4). Pub. L. 98–623, §404(1), substituted “may allocate” for “shall allocate” in provisions preceding subpar. (A).
+<b>1984</b>—Subsec. (d)(4). Pub. L. 98–623, §404(1), substituted “may allocate” for “shall allocate” in provisions preceding subpar. (A).
 
 Subsec. (e)(1)(A). Pub. L. 98–623, §404(2)(A), substituted “may make allocations to foreign nations from” for “shall determine the allocation among foreign nations of”.
 
@@ -270,7 +270,7 @@ Subsec. (e)(1)(E)(i). Pub. L. 98–623, §404(2)(B), substituted “both United 
 
 Subsec. (e)(1)(E)(ii). Pub. L. 98–623, §404(2)(C), amended provisions generally, thereby substituting “in both the advancement of existing and new opportunities for fisheries exports from the United States through the purchase of fishery products from United States processors, and the advancement of fisheries trade through the purchase of fish and fishery products from United States fishermen, particularly fish and fishery products for which the foreign nation has requested an allocation” for “in the advancement of existing and new opportunities for fisheries trade, particularly through the purchase of fish or fishery products from United States processors or from United States fishermen”.
 
-1983—Subsec. (c)(2)(D). Pub. L. 97–453, §2(a)(1), amended par. (D) generally, substituting “United States observers required under subsection (i) of this section be permitted to be stationed aboard any such vessel and that all of the costs incurred incident to such stationing, including the costs of data editing and entry and observer monitoring, be paid for, in accordance with such subsection, by the owner or operator of the vessel” for “duly authorized United States observers be permitted on board any such vessel and that the United States be reimbursed for the cost of such observers”.
+<b>1983</b>—Subsec. (c)(2)(D). Pub. L. 97–453, §2(a)(1), amended par. (D) generally, substituting “United States observers required under subsection (i) of this section be permitted to be stationed aboard any such vessel and that all of the costs incurred incident to such stationing, including the costs of data editing and entry and observer monitoring, be paid for, in accordance with such subsection, by the owner or operator of the vessel” for “duly authorized United States observers be permitted on board any such vessel and that the United States be reimbursed for the cost of such observers”.
 
 Subsec. (c)(4)(D). Pub. L. 97–453, §2(a)(2), added subpar. (D).
 
@@ -284,17 +284,17 @@ Subsec. (i)(6). Pub. L. 97–453, §2(a)(5)(A)(ii), added par. (6).
 
 Subsec. (j). Pub. L. 97–453, §2(a)(6), added subsec. (j).
 
-1980—Subsec. (d). Pub. L. 96–561, §230, designated existing provision as par. (2), substituted provision prescribing the total allowable level of foreign fishing with respect to any United States fishery for each harvesting season after the 1980 harvesting season as the level representing that portion of the optimum yield of such fishery that will not be harvested by vessels of the United States as determined in accordance with provisions of this chapter, other than those relating to the determination of annual fishing levels, or the annual fishing levels determined pursuant to par. (3) of this section for the harvesting season for provision prescribing the total allowable level of foreign fishing with respect to any fishery subject to the exclusive fishery management authority of the United States as that portion of the optimum yield of such fishery which will not be harvested by vessels of the United States, as determined in accordance with provisions of this chapter, and added pars. (1), (3), and (4).
+<b>1980</b>—Subsec. (d). Pub. L. 96–561, §230, designated existing provision as par. (2), substituted provision prescribing the total allowable level of foreign fishing with respect to any United States fishery for each harvesting season after the 1980 harvesting season as the level representing that portion of the optimum yield of such fishery that will not be harvested by vessels of the United States as determined in accordance with provisions of this chapter, other than those relating to the determination of annual fishing levels, or the annual fishing levels determined pursuant to par. (3) of this section for the harvesting season for provision prescribing the total allowable level of foreign fishing with respect to any fishery subject to the exclusive fishery management authority of the United States as that portion of the optimum yield of such fishery which will not be harvested by vessels of the United States, as determined in accordance with provisions of this chapter, and added pars. (1), (3), and (4).
 
 Subsec. (e). Pub. L. 96–561, §231(a), substituted “All such determinations shall be made by the Secretary of State and the Secretary on the basis of” for “In making any such determination, the Secretary of State and the Secretary shall consider”, added subpars. (A), (B), (D), and (E), redesignated former subpars. (A), (B), and (D) as (F), (G), and (H), respectively, and in subpar. (C) substituted determination where such nations and the fishing fleets of such nations have cooperated with the United States in enforcement of United States fishing regulations for determination where such nations have cooperated with the United States in enforcement and with respect to conservation and management of fishery resources.
 
 Subsec. (i). Pub. L. 96–561, §236, added subsec. (i).
 
-1979—Subsec. (e). Pub. L. 96–61 designated existing provisions as par. (1), redesignated pars. (1) through (4) as subpars. (A) to (D), and added par. (2).
+<b>1979</b>—Subsec. (e). Pub. L. 96–61 designated existing provisions as par. (1), redesignated pars. (1) through (4) as subpars. (A) to (D), and added par. (2).
 
 Subsec. (e)(2)(D)(i). Pub. L. 96–118 substituted “unharvested” for “harvested”.
 
-1978—Subsec. (a)(2). Pub. L. 95–354, §4(1), substituted “(g)” for “(f)”.
+<b>1978</b>—Subsec. (a)(2). Pub. L. 95–354, §4(1), substituted “(g)” for “(f)”.
 
 Subsec. (c)(3). Pub. L. 95–354, §4(2), substituted “harvest an amount of fish which exceeds” for “exceed”.
 

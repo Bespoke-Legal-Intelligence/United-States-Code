@@ -4,6 +4,10 @@ The Attorney General is authorized and directed to prepare from the records in t
 
 (June 27, 1952, ch. 477, title III, ch. 2, §347, 66 Stat. 266.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+
 #### Effective Date
 
 Section effective 180 days after June 27, 1952, see section 407 of act June 27, 1952, set out as a note under section 1101 of this title.

@@ -264,7 +264,7 @@ Provisions similar to those comprising this section were contained in Pub. L. 89
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–365, §306(1)(A)(iii), which directed the insertion of “the number of older individuals at risk for institutional placement residing in such area,” after “individuals) residing in such area,”, was executed by making the insertion after “individuals residing in rural areas) residing in such area,” to reflect the probable intent of Congress and amendments by Pub. L. 106–501, §305(a)(1) and Pub. L. 109–365, §306(1)(A)(ii). See notes below.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–365, §306(1)(A)(iii), which directed the insertion of “the number of older individuals at risk for institutional placement residing in such area,” after “individuals) residing in such area,”, was executed by making the insertion after “individuals residing in rural areas) residing in such area,” to reflect the probable intent of Congress and amendments by Pub. L. 106–501, §305(a)(1) and Pub. L. 109–365, §306(1)(A)(ii). See notes below.
 
 Pub. L. 109–365, §306(1)(A)(ii), which directed the substitution of “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “(with particular attention to low-income minority individuals)”, was executed by making the substitution for “(with particular attention to low-income minority individuals and older individuals residing in rural areas)” the second place that phrase appeared, to reflect the probable intent of Congress and amendment by Pub. L. 106–501, §305(a)(1). See 2000 Amendment note below.
 
@@ -310,7 +310,7 @@ Subsec. (a)(14) to (17). Pub. L. 109–365, §306(1)(G)–(I), added pars. (15) 
 
 Subsecs. (b) to (f). Pub. L. 109–365, §306(2), (3), added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
 
-2000—Subsec. (a)(1). Pub. L. 106–501, §305(a)(1), inserted “and older individuals residing in rural areas” after “low-income minority individuals” in two places.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–501, §305(a)(1), inserted “and older individuals residing in rural areas” after “low-income minority individuals” in two places.
 
 Subsec. (a)(2). Pub. L. 106–501, §305(a)(2)(A), (C), in introductory provisions substituted “section 3027(a)(2)” for “section 3027(a)(22)” and, in concluding provisions, substituted “and assurances that the area agency on aging will report annually to the State agency” for “and specify annually in such plan, as submitted or as amended,”.
 
@@ -380,11 +380,11 @@ Subsec. (a)(17) to (20). Pub. L. 106–501, §305(a)(14), struck out pars. (17) 
 
 Subsec. (b). Pub. L. 106–501, §305(b), struck out par. (1) designation before “Each State”, inserted “and had conducted a timely public hearing upon request” before period at end, and struck out par. (2) which related to public notice and hearing requirements applicable to an area agency on aging before it could request a waiver of the requirement described in subsec. (a)(2) and requirements of a State agency with regard to granting the waiver to an area agency on aging.
 
-1998—Subsec. (a)(6)(E)(ii). Pub. L. 105–285 substituted “section 9910 of this title” for “section 9904(c)(3) of this title” in concluding provisions.
+<b>1998</b>—Subsec. (a)(6)(E)(ii). Pub. L. 105–285 substituted “section 9910 of this title” for “section 9904(c)(3) of this title” in concluding provisions.
 
-1993—Subsecs. (a)(6)(R)(iii), (14)(B), (E), (b)(2)(D), (c)(1). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
+<b>1993</b>—Subsecs. (a)(6)(R)(iii), (14)(B), (E), (b)(2)(D), (c)(1). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
 
-1992—Subsec. (a)(1). Pub. L. 102–375, §904(a)(12)(A)(i), inserted “individuals who are” before “Indians”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–375, §904(a)(12)(A)(i), inserted “individuals who are” before “Indians”.
 
 Subsec. (a)(2)(A). Pub. L. 102–375, §306(a), substituted “, information and assistance, and case management services” for “, and information and assistance”.
 
@@ -458,9 +458,9 @@ Subsec. (b)(2)(D). Pub. L. 102–375, §904(a)(12)(B)(ii), substituted “paragr
 
 Subsec. (e). Pub. L. 102–375, §306(g), added subsec. (e).
 
-1988—Subsec. (a)(1). Pub. L. 100–628 substituted “such area,” for “such area,,” before “and the number of older Indians”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–628 substituted “such area,” for “such area,,” before “and the number of older Indians”.
 
-1987—Subsec. (a). Pub. L. 100–175, §182(e)(3), struck out last sentence which read as follows: “For purposes of clause (5)(A), the term ‘greatest economic need’ means the need resulting from an income level at or below the poverty threshold established by the Bureau of the Census and the term ‘greatest social need’ means the need caused by noneconomic factors which include physical and mental disabilities, language barriers, cultural or social isolation including that caused by racial or ethnic status which restricts an individual's ability to perform normal daily tasks or which threaten his or her capacity to live independently.”
+<b>1987</b>—Subsec. (a). Pub. L. 100–175, §182(e)(3), struck out last sentence which read as follows: “For purposes of clause (5)(A), the term ‘greatest economic need’ means the need resulting from an income level at or below the poverty threshold established by the Bureau of the Census and the term ‘greatest social need’ means the need caused by noneconomic factors which include physical and mental disabilities, language barriers, cultural or social isolation including that caused by racial or ethnic status which restricts an individual's ability to perform normal daily tasks or which threaten his or her capacity to live independently.”
 
 Subsec. (a)(1). Pub. L. 100–175, §134(a)(2), inserted “, and the number of older Indians residing in such area,” before last reference to “and” in parenthetical.
 
@@ -506,7 +506,7 @@ Subsec. (b)(2)(C), (D). Pub. L. 100–175, §130(a)(2), added subpars. (C) and (
 
 Subsec. (d). Pub. L. 100–175, §137(a), added subsec. (d).
 
-1984—Subsec. (a). Pub. L. 98–459, §306(a)(5)(E), inserted provisions defining “greatest economic need” and “greatest social need” following par. (6).
+<b>1984</b>—Subsec. (a). Pub. L. 98–459, §306(a)(5)(E), inserted provisions defining “greatest economic need” and “greatest social need” following par. (6).
 
 Subsec. (a)(1). Pub. L. 98–459, §306(a)(1), inserted “and the efforts of voluntary organizations in the community”.
 
@@ -532,7 +532,7 @@ Subsec. (a)(6)(J), (K). Pub. L. 98–459, §306(a)(5)(E), added subpars. (J) and
 
 Subsec. (b). Pub. L. 98–459, §306(b), designated existing provisions as par. (1) and added par. (2).
 
-1981—Subsec. (a). Pub. L. 97–115, §§3(d), 6(a), (b), substituted “for a two-, three-, or four-year period determined by the State agency,” for “for a 3-year period” in provisions preceding par. (1), substituted “supportive services” for “social services” in par. (1) in three places, substituted “an adequate portion” for “at least 50 percent” in provisions of par. (2) preceding subpar. (A), and substituted “supportive services” for “social services” in par. (6)(B).
+<b>1981</b>—Subsec. (a). Pub. L. 97–115, §§3(d), 6(a), (b), substituted “for a two-, three-, or four-year period determined by the State agency,” for “for a 3-year period” in provisions preceding par. (1), substituted “supportive services” for “social services” in par. (1) in three places, substituted “an adequate portion” for “at least 50 percent” in provisions of par. (2) preceding subpar. (A), and substituted “supportive services” for “social services” in par. (6)(B).
 
 Subsec. (b). Pub. L. 97–115, §6(c), struck out par. (1) providing that each State, in approving area agency plans under this section, could, for fiscal years 1979 and 1980, waive any particular requirement relating to the delivery of services or the establishment or operation of multipurpose senior centers which such agency could not meet because of the consolidation authorized by the Comprehensive Older Americans Act Amendments of 1978, except that the State agency could grant such a waiver only if the area agency demonstrated to the State agency that it was taking steps to meet the requirements of this subchapter, but that in any event the State agency could not grant a waiver for any requirement of this chapter in effect on Sept. 30, 1978, struck out par. (2) designation, made mandatory the formerly discretionary waiver by each State, in approving area agency plans under this section, of the requirement described in clause (2) of subsection (a) of this section for any category of services described in such clause if the area agency on aging demonstrates to the State agency that services being furnished for such category in the area are sufficient to meet the need for such services in such area, and struck out provisions that if the State agency granted a waiver with respect to any category, then the area agency had to expend under clause (2) of subsection (a) of this section a percentage of the amount allotted for part B to the planning and service area, for the categories with respect to which such waiver did not apply, that had been agreed upon by the State agency and the area agency.
 

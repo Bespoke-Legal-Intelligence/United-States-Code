@@ -6,7 +6,7 @@ The Commission shall establish standard specifications upon which it may grant a
 
 #### Amendments
 
-1980—Pub. L. 96–517 substituted “patent declared to be affected” for “patent held by the Commission or declared to be affected”.
+<b>1980</b>—Pub. L. 96–517 substituted “patent declared to be affected” for “patent held by the Commission or declared to be affected”.
 
 #### Effective Date of 1980 Amendment
 

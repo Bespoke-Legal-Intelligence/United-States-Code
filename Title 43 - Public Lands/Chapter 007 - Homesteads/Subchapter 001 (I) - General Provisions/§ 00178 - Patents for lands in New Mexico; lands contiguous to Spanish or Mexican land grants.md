@@ -4,7 +4,3 @@ Whenever it shall be shown to the satisfaction of the Secretary of the Interior 
 
 (Feb. 23, 1932, ch. 52, 47 Stat. 53.)
 
-#### References in Text
-
-The leasing and mineral land laws, referred to in text, probably mean the mineral leasing laws, which are classified generally to Title 30, Mineral Lands and Mining.
-

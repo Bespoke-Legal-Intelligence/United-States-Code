@@ -36,7 +36,7 @@ Criminal Penalty.—
 
 &emsp;(1)
 
-In general.—Whoever violates this section shall be fined in accordance with title 18, United States Code, imprisoned for not more than 5 years, or both.
+In general.—Whoever violates this section shall be fined in accordance with title 18,United States Code, imprisoned for not more than 5 years, or both.
 
 &emsp;(2)
 
@@ -52,9 +52,9 @@ Section 123 of Public Law 91–508, referred to in subsec. (a), is classified to
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–458 substituted “5331” for “5333” wherever appearing.
+<b>2004</b>—Subsec. (b). Pub. L. 108–458 substituted “5331” for “5333” wherever appearing.
 
-2001—Subsec. (a). Pub. L. 107–56, §§353(c)(1), (2), 365(b)(2)(A), inserted “Involving Financial Institutions” after “Transactions” in heading, and in introductory provisions, inserted comma after “No person shall” and substituted “section, the reporting or recordkeeping requirements imposed by any order issued under section 5326, or the recordkeeping requirements imposed by any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508—” for “section—”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–56, §§353(c)(1), (2), 365(b)(2)(A), inserted “Involving Financial Institutions” after “Transactions” in heading, and in introductory provisions, inserted comma after “No person shall” and substituted “section, the reporting or recordkeeping requirements imposed by any order issued under section 5326, or the recordkeeping requirements imposed by any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508—” for “section—”.
 
 Subsec. (a)(1). Pub. L. 107–56, §353(c)(3), inserted “, to file a report or to maintain a record required by an order issued under section 5326, or to maintain a record required pursuant to any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508” before semicolon at end.
 
@@ -62,13 +62,13 @@ Subsec. (a)(2). Pub. L. 107–56, §353(c)(4), inserted “, to file a report o
 
 Subsecs. (b) to (d). Pub. L. 107–56, §365(b)(1), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-1994—Subsec. (a). Pub. L. 103–322, §330017(a)(2) and Pub. L. 103–325, §413(a)(2), amended subsec. (a), introductory provisions, identically, substituting “section 5313(a) or 5325 or any regulation prescribed under any such section” for “section 5313(a), section 5325, or the regulations issued thereunder or section 5325 or regulations prescribed under such section 5325” and striking out “with respect to such transaction” before dash.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §330017(a)(2) and Pub. L. 103–325, §413(a)(2), amended subsec. (a), introductory provisions, identically, substituting “section 5313(a) or 5325 or any regulation prescribed under any such section” for “section 5313(a), section 5325, or the regulations issued thereunder or section 5325 or regulations prescribed under such section 5325” and striking out “with respect to such transaction” before dash.
 
 Subsec. (a)(1), (2). Pub. L. 103–322, §330017(a)(2)(A) and Pub. L. 103–325, §413(a)(2)(A), amended pars. (1) and (2) identically, substituting “section 5313(a) or 5325 or any regulation prescribed under any such section” for “section 5313(a), section 5325, or the regulations issued thereunder or section 5325 or regulations prescribed under such section 5325”.
 
 Subsec. (c). Pub. L. 103–325, §411(a), added subsec. (c).
 
-1992—Pub. L. 102–550, §1525(a)(1), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>1992</b>—Pub. L. 102–550, §1525(a)(1), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 Pub. L. 102–550, §§1517(a), 1535(a)(1), inserted the following duplicative provisions “or section 5325 or regulations prescribed under such section 5325” and “, section 5325, or the regulations issued thereunder” after “section 5313(a)” wherever appearing.
 

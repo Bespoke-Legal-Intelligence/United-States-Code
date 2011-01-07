@@ -14,7 +14,7 @@ Authority of the Secretary.—The Secretary of Commerce may, in his or her discr
 
 (d)
 
-Defense to Challenge of Appointment.—It shall be a defense to a challenge to the appointment of an administrative patent judge on the basis of the judge's having been originally appointed by the Director that the administrative patent judge so appointed was acting as a de facto officer.
+Defense to Challenge of Appointment.—It shall be a defense to a challenge to the appointment of an administrative patent judge on the basis of the judge's having been originallyappointed by the Director that the administrative patent judge so appointed was acting as a de facto officer.
 
 (Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4717(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–580; amended Pub. L. 107–273, div. C, title III, §13203(a)(2), Nov. 2, 2002, 116 Stat. 1902; Pub. L. 110–313, §1(a)(1), Aug. 12, 2008, 122 Stat. 3014.)
 
@@ -28,11 +28,11 @@ A prior section 6, acts July 19, 1952, ch. 950, 66 Stat. 793; Pub. L. 92–132, 
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–313, §1(a)(1)(A), (B), substituted “Deputy Director” for “Deputy Commissioner” in second sentence and “Secretary of Commerce, in consultation with the Director” for “Director” in last sentence.
+<b>2008</b>—Subsec. (a). Pub. L. 110–313, §1(a)(1)(A), (B), substituted “Deputy Director” for “Deputy Commissioner” in second sentence and “Secretary of Commerce, in consultation with the Director” for “Director” in last sentence.
 
 Subsecs. (c), (d). Pub. L. 110–313, §1(a)(1)(C), which directed addition of subsecs. (c) and (d) at end of subsec. (a), was executed by adding subsecs. (c) and (d) at end of section to reflect the probable intent of Congress.
 
-2002—Subsec. (a). Pub. L. 107–273, which directed amendment of subsec. (a) by inserting “the Deputy Commissioner,” after “Commissioner,”, was executed by making the insertion after “The Director,” to reflect the probable intent of Congress.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273, which directed amendment of subsec. (a) by inserting “the Deputy Commissioner,” after “Commissioner,”, was executed by making the insertion after “The Director,” to reflect the probable intent of Congress.
 
 #### Effective Date
 

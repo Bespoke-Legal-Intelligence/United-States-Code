@@ -6,5 +6,5 @@ In order to carry out the purposes of sections 7a to 7e of this title, the Secre
 
 #### Amendments
 
-1966—Pub. L. 89–763 substituted “$3,500,000” for “$2,000,000”.
+<b>1966</b>—Pub. L. 89–763 substituted “$3,500,000” for “$2,000,000”.
 

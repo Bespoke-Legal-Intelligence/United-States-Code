@@ -2,7 +2,7 @@
 
 #### (a) Appointments for educational programs
 
-(1) The Administrator is authorized to select and appoint up to 75 full-time permanent staffmembers in the Office of Research and Development to pursue full-time educational programs for the purpose of (A) securing an advanced degree or (B) securing academic training, for the purpose of making a career change in order to better carry out the Agency's research mission.
+(1) The Administrator is authorized to select and appoint up to 75 full-time permanent staff members in the Office of Research and Development to pursue full-time educational programs for the purpose of (A) securing an advanced degree or (B) securing academic training, for the purpose of making a career change in order to better carry out the Agency's research mission.
 
 (2) The Administrator shall select and appoint staff members for these assignments according to rules and criteria promulgated by him. The Agency may continue to pay the salary and benefits of the appointees as well as reasonable and appropriate relocation expenses and tuition.
 
@@ -34,5 +34,5 @@ Section was enacted as part of the Environmental Research, Development, and Demo
 
 #### Contracts by Office of Research and Development of the Environmental Protection Agency
 
-Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 509, provided in part: “That the Office of Research and Development of the Environmental Protection Agency may hereafter contract directly with individuals or indirectly with institutions or nonprofit organizations, without regard to 41 U.S.C. 5, for the temporary or intermittent personal services of students or recent graduates, who shall be considered employees for the purposes of chapters 57 and 81 of title 5, United States Code, relating to compensation for travel and work injuries, and chapter 171 of title 28, United States Code, relating to tort claims, but shall not be considered to be Federal employees for any other purposes.”
+Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 509, provided in part: “That the Office of Research and Development of the Environmental Protection Agency may hereafter contract directly with individuals or indirectly with institutions or nonprofit organizations, without regard to 41 U.S.C. 5 \[see 41 U.S.C. 6101\], for the temporary or intermittent personal services of students or recent graduates, who shall be considered employees for the purposes of chapters 57 and 81 of title 5, United States Code, relating to compensation for travel and work injuries, and chapter 171 of title 28, United States Code, relating to tort claims, but shall not be considered to be Federal employees for any other purposes.”
 

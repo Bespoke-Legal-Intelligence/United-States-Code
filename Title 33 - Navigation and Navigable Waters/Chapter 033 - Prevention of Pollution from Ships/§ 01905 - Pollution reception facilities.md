@@ -68,7 +68,7 @@ In determining the adequacy of reception facilities required by the MARPOL Proto
 
 #### Amendments
 
-2008—Subsec. (a)(3). Pub. L. 110–280, §7(1), added par. (3).
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–280, §7(1), added par. (3).
 
 Subsec. (b). Pub. L. 110–280, §7(2), inserted “or the Administrator” after “Secretary”.
 
@@ -78,11 +78,11 @@ Subsec. (f)(1). Pub. L. 110–280, §7(4), substituted “Secretary and the Admi
 
 Subsec. (f)(2). Pub. L. 110–280, §7(5), struck out subpar. (A) designation before “Not later”.
 
-1996—Subsec. (b). Pub. L. 104–227, §201(d)(1), inserted “or the Antarctic Protocol” after “the MARPOL Protocol”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–227, §201(d)(1), inserted “or the Antarctic Protocol” after “the MARPOL Protocol”.
 
 Subsec. (c)(2). Pub. L. 104–324, §801(a)(1), (2), designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), if” for “If”, and added subpars. (B) and (C).
 
-Subsec. (c)(3)(A). Pub. L. 104–324, §801(a)(3), added subpar. (A) and struck out former subpar. (A) which read as follows: “is valid until suspended or revoked by the Secretary for cause or because of changed conditions; and”.
+Subsec. (c)(3)(A). Pub. L. 104–324, §801(a)(3), added subpar. (A) and struck out former subpar. (A) which readas follows: “is valid until suspended or revoked by the Secretary for cause or because of changed conditions; and”.
 
 Subsec. (d). Pub. L. 104–324, §801(a)(4), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Secretary shall periodically cause to be published in the Federal Register a list of the ports or terminals holding a valid certificate issued under this section.”
 
@@ -92,9 +92,9 @@ Subsec. (f). Pub. L. 104–324, §801(b), designated existing provisions as par.
 
 Pub. L. 104–227, §201(d)(4), inserted “or the Antarctic Protocol” after “the MARPOL Protocol”.
 
-1989—Subsec. (c)(1). Pub. L. 101–225 substituted “Annex I and Annex II” for “Annex V”.
+<b>1989</b>—Subsec. (c)(1). Pub. L. 101–225 substituted “Annex I and Annex II” for “Annex V”.
 
-1987—Subsec. (a). Pub. L. 100–220, §2103(a), designated existing provisions as par. (1), substituted “a port's or terminal's reception facilities for mixtures containing oil or noxious liquid substances” for “reception facilities of a port or terminal”, and added par. (2).
+<b>1987</b>—Subsec. (a). Pub. L. 100–220, §2103(a), designated existing provisions as par. (1), substituted “a port's or terminal's reception facilities for mixtures containing oil or noxious liquid substances” for “reception facilities of a port or terminal”, and added par. (2).
 
 Subsec. (b). Pub. L. 100–220, §2103(b), inserted “and in establishing regulations under subsection (a) of this section,” and “ships or”.
 

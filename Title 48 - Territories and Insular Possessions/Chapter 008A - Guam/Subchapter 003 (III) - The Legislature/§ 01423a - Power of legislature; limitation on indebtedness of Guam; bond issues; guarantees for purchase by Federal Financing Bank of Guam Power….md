@@ -20,11 +20,11 @@ The legislative power of Guam shall extend to all rightful subjects of legislati
 
 #### Amendments
 
-1998—Pub. L. 105–291 substituted “rightful subjects of legislation” for “subjects of legislation of local application” in first sentence.
+<b>1998</b>—Pub. L. 105–291 substituted “rightful subjects of legislation” for “subjects of legislation of local application” in first sentence.
 
-1984—Pub. L. 98–454 inserted provisions relating to authority of Secretary to guarantee for purchase by the Federal Financing Bank, obligations of the Guam Power Authority to be used for a second refinancing of the principal amount due to mature on December 31, 1990.
+<b>1984</b>—Pub. L. 98–454 inserted provisions relating to authority of Secretary to guarantee for purchase by the Federal Financing Bank, obligations of the Guam Power Authority to be used for a second refinancing of the principal amount due to mature on December 31, 1990.
 
-1980—Pub. L. 96–205 substituted provisions relating to guarantees by the Secretary of the purchase by the Federal Financing Bank of the refinancing obligations of the Guam Power Authority where such refinancing obligations remain outstanding by Dec. 31, 1980, for provisions relating to payment of interest and default on maturity of guaranteed bonds or other obligations issued prior to Dec. 31, 1980.
+<b>1980</b>—Pub. L. 96–205 substituted provisions relating to guarantees by the Secretary of the purchase by the Federal Financing Bank of the refinancing obligations of the Guam Power Authority where such refinancing obligations remain outstanding by Dec. 31, 1980, for provisions relating to payment of interest and default on maturity of guaranteed bonds or other obligations issued prior to Dec. 31, 1980.
 
-1976—Pub. L. 94–395 inserted provisions relating to authority of Secretary of the Interior to guarantee for purchase by the Federal Financing Bank bonds or other obligations of the Guam Power Authority maturing on or before Dec. 31, 1978.
+<b>1976</b>—Pub. L. 94–395 inserted provisions relating to authority of Secretary of the Interior to guarantee for purchase by the Federal Financing Bank bonds or other obligations of the Guam Power Authority maturing on or before Dec. 31, 1978.
 

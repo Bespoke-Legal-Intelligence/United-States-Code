@@ -6,15 +6,15 @@ Any coastal state which has completed the development of its management program 
 
 #### Amendments
 
-1996—Pub. L. 104–150, §2(b)(1), substituted “Submittal of State program for approval” for “Management program development grants” in section catchline, struck out “(b)” before “Any coastal state”, and struck out subsec. (a) which read as follows: “In fiscal years 1997, 1998, and 1999, the Secretary may make a grant annually to any coastal state without an approved program if the coastal state demonstrates to the satisfaction of the Secretary that the grant will be used to develop a management program consistent with the requirements set forth in section 1455 of this title. The amount of any such grant shall not exceed $200,000 in any fiscal year, and shall require State matching funds according to a 4-to-1 ratio of Federal-to-State contributions. After an initial grant is made to a coastal state pursuant to this subsection, no subsequent grant shall be made to that coastal state pursuant to this subsection unless the Secretary finds that the coastal state is satisfactorily developing its management program. No coastal state is eligible to receive more than four grants pursuant to this subsection.”
+<b>1996</b>—Pub. L. 104–150, §2(b)(1), substituted “Submittal of State program for approval” for “Management program development grants” in section catchline, struck out “(b)” before “Any coastal state”, and struck out subsec. (a) which read as follows: “In fiscal years 1997, 1998, and 1999, the Secretary may make a grant annually to any coastal state without an approved program if the coastal state demonstrates to the satisfaction of the Secretary that the grant will be used to develop a management program consistent with the requirements set forth in section 1455 of this title. The amount of any such grant shall not exceed $200,000 in any fiscal year, and shall require State matching funds according to a 4-to-1 ratio of Federal-to-State contributions. After an initial grant is made to a coastal state pursuant to this subsection, no subsequent grant shall be made to that coastal state pursuant to this subsection unless the Secretary finds that the coastal state is satisfactorily developing its management program. No coastal state is eligible to receive more than four grants pursuant to this subsection.”
 
 Subsec. (a). Pub. L. 104–150, §2(a), substituted “1997, 1998, and 1999” for “1991, 1992, and 1993” and “four grants” for “two grants”.
 
-1992—Pub. L. 102–587 substituted “coastal state” for “coastal State” in last sentence of subsec. (a) and in subsec. (b).
+<b>1992</b>—Pub. L. 102–587 substituted “coastal state” for “coastal State” in last sentence of subsec. (a) and in subsec. (b).
 
-1990—Pub. L. 101–508 amended section generally, substituting present provisions for provisions which authorized management program development grants, established program requirements, set limits on grants, provided for grants for completion of development and implementation of management programs, provided for allocation of grants, reversion of unobligated grants, and grants to other political subdivisions, required submission of program for review and approval, and set forth an expiration date of grant authority.
+<b>1990</b>—Pub. L. 101–508 amended section generally, substituting present provisions for provisions which authorized management program development grants, established program requirements, set limits on grants, provided for grants for completion of development and implementation of management programs, provided for allocation of grants, reversion of unobligated grants, and grants to other political subdivisions, required submission of program for review and approval, and set forth an expiration date of grant authority.
 
-1976—Subsec. (a). Pub. L. 94–370 incorporated existing provisions into par. (1), limiting applicability of such provisions to subsec. (c), and added par. (2).
+<b>1976</b>—Subsec. (a). Pub. L. 94–370 incorporated existing provisions into par. (1), limiting applicability of such provisions to subsec. (c), and added par. (2).
 
 Subsec. (b). Pub. L. 94–370 added pars. (7) to (9) and effective date provisions of such paragraphs after par. (9).
 
@@ -30,7 +30,7 @@ Subsec. (g). Pub. L. 94–370 substituted “any coastal state” for “the sta
 
 Subsecs. (h), (i). Pub. L. 94–370 added subsec. (h) which incorporated provisions of former subsec. (d), redesignated former subsec. (h) as (i), and substituted “September 30, 1979” for “June 30, 1977”.
 
-1975—Subsec. (e). Pub. L. 93–612 inserted proviso relating to the waiver by the Secretary of the 1 per centum minimum requirement upon request by the coastal state.
+<b>1975</b>—Subsec. (e). Pub. L. 93–612 inserted proviso relating to the waiver by the Secretary of the 1 per centum minimum requirement upon request by the coastal state.
 
 #### Effective Date of 1996 Amendment
 

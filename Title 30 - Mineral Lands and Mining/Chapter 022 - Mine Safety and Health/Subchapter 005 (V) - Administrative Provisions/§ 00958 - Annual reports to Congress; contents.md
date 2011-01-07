@@ -12,9 +12,9 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96–470 struck out subsec. (b) which provided that within 120 days following the convening of each session of Congress, the Secretary of Health, Education, and Welfare submit through the President to the Congress and to the Office of Science and Technology an annual report on health matters covered by this chapter.
+<b>1980</b>—Subsec. (b). Pub. L. 96–470 struck out subsec. (b) which provided that within 120 days following the convening of each session of Congress, the Secretary of Health, Education, and Welfare submit through the President to the Congress and to the Office of Science and Technology an annual report on health matters covered by this chapter.
 
-1977—Subsecs. (a), (b). Pub. L. 95–164 inserted references to mines other than coal mines.
+<b>1977</b>—Subsecs. (a), (b). Pub. L. 95–164 inserted references to mines other than coal mines.
 
 #### Effective Date of 1977 Amendment
 

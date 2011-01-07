@@ -106,7 +106,7 @@ The Secretary of Commerce shall—
 
 &emsp;(1) require each recipient of a grant under subsection (b) to submit a report on the use of the funds provided by the grant; and
 
-&emsp;(2) create a web page on the Department of Commerce website that aggregates relevant information made available to the public by grant recipients, including, where appropriate, hypertext links to any geographic inventory maps created by grant recipients under subsection (e)(10).
+&emsp;(2) create a web page on the Department of Commerce website that aggregates relevant information made available to the public by grant recipients, including, where appropriate, hypertext links to any geographic inventorymaps created by grant recipients under subsection (e)(10).
 
 #### (h) Access to aggregate data
 

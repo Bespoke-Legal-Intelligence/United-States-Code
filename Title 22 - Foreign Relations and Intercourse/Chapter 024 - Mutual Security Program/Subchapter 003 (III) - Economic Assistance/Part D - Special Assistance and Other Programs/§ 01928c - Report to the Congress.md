@@ -10,7 +10,7 @@ This section was not enacted as part of the Mutual Security Act of 1954 which co
 
 #### Amendments
 
-1999—Pub. L. 106–113 substituted “NATO Parliamentary Assembly” for “North Atlantic Assembly”.
+<b>1999</b>—Pub. L. 106–113 substituted “NATO Parliamentary Assembly” for “North Atlantic Assembly”.
 
-1967—Pub. L. 90–137 substituted “North Atlantic Assembly” for “North Atlantic Treaty Parliamentary Conference”.
+<b>1967</b>—Pub. L. 90–137 substituted “North Atlantic Assembly” for “North Atlantic Treaty Parliamentary Conference”.
 

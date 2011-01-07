@@ -40,7 +40,7 @@ The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (a)
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–616, §224(a)(1), designated existing provisions as subsec. (a).
+<b>1984</b>—Subsec. (a). Pub. L. 98–616, §224(a)(1), designated existing provisions as subsec. (a).
 
 Subsec. (a)(6). Pub. L. 98–616, §224(a)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “submission of reports to the Administrator (or the State agency in any case in which such agency carries out an authorized permit program pursuant to this subchapter) at such times as the Administrator (or the State agency if appropriate) deems necessary, setting out—
 
@@ -50,9 +50,9 @@ Subsec. (a)(6). Pub. L. 98–616, §224(a)(2), amended par. (6) generally. Prior
 
 Subsec. (b). Pub. L. 98–616, §224(a)(2), added subsec. (b).
 
-1980—Par. (5). Pub. L. 96–482 inserted “and any other reasonable means necessary” and “, and arrives at,” after “use of a manifest system” and “disposal in”, respectively.
+<b>1980</b>—Par. (5). Pub. L. 96–482 inserted “and any other reasonable means necessary” and “, and arrives at,” after “use of a manifest system” and “disposal in”, respectively.
 
-1978—Par. (5). Pub. L. 95–609, §7(f)(1), inserted provision relating to title I of the Marine Protection, Research, and Sanctuaries Act.
+<b>1978</b>—Par. (5). Pub. L. 95–609, §7(f)(1), inserted provision relating to title I of the Marine Protection, Research, and Sanctuaries Act.
 
 Par. (6). Pub. L. 95–609, §7(f)(2), closed the parenthetical after “to this subchapter”.
 

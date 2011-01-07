@@ -2,7 +2,7 @@
 
 As used in this subchapter—
 
-&emsp;(1) the term “agency” means any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency, but does not include—
+&emsp;(1) the term “agency” means any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including theExecutive Office of the President), or any independent regulatory agency, but does not include—
 
 &emsp;&emsp;(A) the Government Accountability Office;
 
@@ -38,7 +38,7 @@ As used in this subchapter—
 
 &emsp;(4) the term “Director” means the Director of the Office of Management and Budget;
 
-&emsp;(5) the term “independent regulatory agency” means the Board of Governors of the Federal Reserve System, the Commodity Futures Trading Commission, the Consumer Product Safety Commission, the Federal Communications Commission, the Federal Deposit Insurance Corporation, the Federal Energy Regulatory Commission, the Federal Housing Finance Agency, the Federal Maritime Commission, the Federal Trade Commission, the Interstate Commerce Commission, the Mine Enforcement Safety and Health Review Commission, the National Labor Relations Board, the Nuclear Regulatory Commission, the Occupational Safety and Health Review Commission, the Postal Regulatory Commission, the Securities and Exchange Commission, and any other similar agency designated by statute as a Federal independent regulatory agency or commission;
+&emsp;(5) the term “independent regulatory agency” means the Board of Governors of the Federal Reserve System, the Commodity Futures Trading Commission, the Consumer Product Safety Commission, the Federal Communications Commission, the Federal Deposit Insurance Corporation, the Federal Energy Regulatory Commission, the Federal Housing Finance Agency, the Federal Maritime Commission, the Federal Trade Commission, the Interstate Commerce Commission, the Mine Enforcement Safety and Health Review Commission, the National Labor Relations Board, the Nuclear Regulatory Commission, the Occupational Safety and Health Review Commission, the Postal Regulatory Commission, the Securities and Exchange Commission, Office of the Comptroller of the Currency, and any other similar agency designated by statute as a Federal independent regulatory agency or commission;
 
 &emsp;(6) the term “information resources” means information and related resources, such as personnel, equipment, funds, and information technology;
 
@@ -66,7 +66,13 @@ As used in this subchapter—
 
 &emsp;(14) the term “penalty” includes the imposition by an agency or court of a fine or other punishment; a judgment for monetary damages or equitable relief; or the revocation, suspension, reduction, or denial of a license, privilege, right, grant, or benefit.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 164; amended Pub. L. 104–106, div. E, title LVI, §5605(a), Feb. 10, 1996, 110 Stat. 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(A), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–217, §3(<i>l</i>)(4), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(e), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 110–289, div. A, title II, §1216(e), July 30, 2008, 122 Stat. 2792.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 164; amended Pub. L. 104–106, div. E, title LVI, §5605(a), Feb. 10, 1996, 110 Stat. 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(A), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–217, §3(<i>l</i>)(4), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(e), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 110–289, div. A, title II, §1216(e), July 30, 2008, 122 Stat. 2792; Pub. L. 111–203, title III, §315, title X, §1100D(a), July 21, 2010, 124 Stat. 1524, 2111.)
+
+#### Amendment of Paragraph (5)
+
+<i>Pub. L. 111–203, title X, §§1100D(a), 1100H, July 21, 2010, 124 Stat. 2111, 2113, provided that,</i><i>effective on the designated transfer date, section 2(5) of the Paperwork Reduction Act (44 U.S.C. 3502(5)) is amended by inserting “the Bureau of Consumer Financial Protection, the Office of Financial Research,” after “the Securities and Exchange Commission,”.</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -76,19 +82,27 @@ Another prior section 3502, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1302; Pub.
 
 #### Amendments
 
-2008—Par. (5). Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board”.
+<b>2010</b>—Par. (5). Pub. L. 111–203, §315, inserted “Office of the Comptroller of the Currency,” after “the Securities and Exchange Commission,”.
 
-2006—Par. (5). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2008</b>—Par. (5). Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board”.
 
-2004—Par. (1)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2006</b>—Par. (5). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-2002—Par. (9). Pub. L. 107–217 substituted “section 11101 of title 40” for “section 5002 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401)” and “section 11103 of title 40” for “section 5142 of that Act (40 U.S.C. 1452)”.
+<b>2004</b>—Par. (1)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-2000—Pub. L. 106–398 substituted “subchapter” for “chapter” in introductory provisions.
+<b>2002</b>—Par. (9). Pub. L. 107–217 substituted “section 11101 of title 40” for “section 5002 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401)” and “section 11103 of title 40” for “section 5142 of that Act (40 U.S.C. 1452)”.
 
-1997—Par. (9). Pub. L. 105–85 substituted “the Clinger-Cohen Act of 1996 (40 U.S.C. 1401)” for “the Information Technology Management Reform Act of 1996” and inserted “(40 U.S.C. 1452)” after “that Act”.
+<b>2000</b>—Pub. L. 106–398 substituted “subchapter” for “chapter” in introductory provisions.
 
-1996—Par. (9). Pub. L. 104–106 added par. (9) and struck out former par. (9) which read as follows: “the term ‘information technology’ has the same meaning as the term ‘automatic data processing equipment’ as defined by section 111(a)(2) and (3)(C)(i) through (v) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759(a)(2) and (3)(C)(i) through (v));”.
+<b>1997</b>—Par. (9). Pub. L. 105–85 substituted “the Clinger-Cohen Act of 1996 (40 U.S.C. 1401)” for “the Information Technology Management Reform Act of 1996” and inserted “(40 U.S.C. 1452)” after “that Act”.
+
+<b>1996</b>—Par. (9). Pub. L. 104–106 added par. (9) and struck out former par. (9) which read as follows: “the term ‘information technology’ has the same meaning as the term ‘automatic data processing equipment’ as defined by section 111(a)(2) and (3)(C)(i) through (v) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759(a)(2) and (3)(C)(i) through (v));”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 315 of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
+Amendment by section 1100D(a) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2000 Amendment
 

@@ -56,7 +56,7 @@ Plan.—No Federal agency shall grant any license under a patent or patent appli
 
 #### Amendments
 
-2002—Subsecs. (d)(2), (f). Pub. L. 107–273 struck out “of the United States Code” after “title 5”.
+<b>2002</b>—Subsecs. (d)(2), (f). Pub. L. 107–273 struck out “of the United States Code” after “title 5”.
 
-2000—Pub. L. 106–404 amended section catchline and text generally, restructuring and revising provisions setting forth criteria, terms, and conditions relating to granting of licenses on federally owned inventions.
+<b>2000</b>—Pub. L. 106–404 amended section catchline and text generally, restructuring and revising provisions setting forth criteria, terms, and conditions relating to granting of licenses on federally owned inventions.
 

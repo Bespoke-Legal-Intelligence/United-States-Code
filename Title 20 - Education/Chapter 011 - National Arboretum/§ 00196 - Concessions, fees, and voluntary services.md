@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding the Federal Property and Administrative Services Act of 1949 <sup>1</sup> and section 1302 of title 40, the Secretary of Agriculture, in furtherance of the mission of the National Arboretum, may—
+Notwithstanding chapters 1 to 11 and section 1302 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, the Secretary of Agriculture, in furtherance of the mission of the National Arboretum, may—
 
 &emsp;(1) negotiate agreements granting concessions at the National Arboretum to nonprofit scientific or educational organizations the interests of which are complementary to the mission of the National Arboretum, except that the net proceeds of the organizations from the concessions shall be used exclusively for research and educational work for the benefit of the National Arboretum;
 
@@ -28,17 +28,11 @@ The Secretary of Agriculture may accept the voluntary services of organizations 
 
 (Mar. 4, 1927, ch. 505, §6, as added Pub. L. 104–127, title VIII, §890(b), Apr. 4, 1996, 110 Stat. 1181; amended Pub. L. 105–185, title VI, §601(b), June 23, 1998, 112 Stat. 585.)
 
-#### References in Text
-
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
-
 #### Codification
 
-“Section 1302 of title 40” substituted in subsec. (a) for “section 321 of the Act of June 30, 1932 (40 U.S.C. 303b)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (a), “chapters 1 to 11 and section 1302 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) and section 321 of the Act of June 30, 1932 (40 U.S.C. 303b)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–185 substituted “Treasury. Amounts in the special fund shall be available to the Secretary of Agriculture, without further appropriation,” for “Treasury”.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<b>1998</b>—Subsec. (b). Pub. L. 105–185 substituted “Treasury. Amounts in the special fund shall be available to the Secretary of Agriculture, without further appropriation,” for “Treasury”.
 

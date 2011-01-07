@@ -8,7 +8,7 @@ There are authorized to be appropriated to carry out the projects specified in t
 
 #### (1) Grants, contracts, and agreements
 
-&emsp;Except as provided in paragraph (2), the amount appropriated under subsection (a) of this section for each fiscal year shall be used to award grants, or enter into contracts, cooperative agreements, or other agreements, under section 15082 of this title.
+&emsp;Except as provided in paragraph (2), the amount appropriated under subsection (a) ofthis section for each fiscal year shall be used to award grants, or enter into contracts, cooperative agreements, or other agreements, under section 15082 of this title.
 
 #### (2) Administrative costs
 
@@ -38,7 +38,7 @@ In addition to any funds reserved under subsection (c) of this section, the Secr
 
 #### (e) Limitation
 
-For any fiscal year for which the amount appropriated under subsection (a) of this section isnot less than $10,000,000, not more than 50 percent of such amount shall be used for activities carried out under section 15081(2)(A) of this title.
+For any fiscal year for which the amount appropriated under subsection (a) of this section is not less than $10,000,000, not more than 50 percent of such amount shall be used for activities carried out under section 15081(2)(A) of this title.
 
 (Pub. L. 106–402, title I, §163, Oct. 30, 2000, 114 Stat. 1727.)
 

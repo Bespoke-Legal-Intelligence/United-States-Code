@@ -32,7 +32,7 @@
 
 &emsp;(2) to negotiate or bargain, or attempt through any coercive act to negotiate or bargain, with any civilian officer or employee, or any member of the armed forces, on behalf of members of the armed forces, concerning the terms or conditions of service of such members;
 
-&emsp;(3) to organize or attempt to organize, or participate in, any strike, picketing, march,demonstration, or other similar form of concerted action involving members of the armed forces that is directed against the Government of the United States and that is intended to induce any civilian officer or employee, or any member of the armed forces, to—
+&emsp;(3) to organize or attempt to organize, or participate in, any strike, picketing, march, demonstration, or other similar form of concerted action involving members of the armed forces that is directed against the Government of the United States and that is intended to induce any civilian officer or employee, or any member of the armed forces, to—
 
 &emsp;&emsp;(A) negotiate or bargain with any person concerning the terms or conditions of service of any member of the armed forces,
 
@@ -72,13 +72,13 @@
 
 #### Amendments
 
-1997—Subsec. (f). Pub. L. 105–85 substituted “shall be fined under title 18 or imprisoned not more than 5 years, or both, except that, in the case of an organization (as defined in section 18 of such title), the fine shall not be less than $25,000.” for “shall, in the case of an individual, be fined not more than $10,000 or imprisoned not more than five years, or both, and in the case of an organization or association, be fined not less than $25,000 and not more than $250,000.”
+<b>1997</b>—Subsec. (f). Pub. L. 105–85 substituted “shall be fined under title 18 or imprisoned not more than 5 years, or both, except that, in the case of an organization (as defined in section 18 of such title), the fine shall not be less than $25,000.” for “shall, in the case of an individual, be fined not more than $10,000 or imprisoned not more than five years, or both, and in the case of an organization or association, be fined not less than $25,000 and not more than $250,000.”
 
-1987—Subsec. (a)(1) to (3). Pub. L. 100–26 inserted “The term” after each par. designation and struck out uppercase letter of first word after first quotation marks in each paragraph and substituted lowercase letter.
+<b>1987</b>—Subsec. (a)(1) to (3). Pub. L. 100–26 inserted “The term” after each par. designation and struck out uppercase letter of first word after first quotation marks in each paragraph and substituted lowercase letter.
 
-1986—Subsec. (a)(1). Pub. L. 99–661 struck out the second of two commas before “(B)”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–661 struck out the second of two commas before “(B)”.
 
-1984—Subsec. (a)(1). Pub. L. 98–525 added cl. (B) and redesignated existing cl. (B) as (C).
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–525 added cl. (B) and redesignated existing cl. (B) as (C).
 
 #### Congressional Findings and Declaration of Purpose
 

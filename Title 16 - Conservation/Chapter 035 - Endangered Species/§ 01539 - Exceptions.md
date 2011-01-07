@@ -72,7 +72,7 @@ The Secretary may grant exceptions under subsections (a)(1)(A) and (b) of this s
 
 &emsp;(i) The term “subsistence” includes selling any edible portion of fish or wildlife in native villages and towns in Alaska for native consumption within native villages or towns; and
 
-&emsp;(ii) The term “authentic native articles of handicrafts and clothing” means items composed wholly or in some significant respect of natural materials, and which are produced, decorated, or fashioned in the exercise of traditional native handicrafts without the use of pantographs, multiple carvers, or other mass copying devices. Traditional native handicrafts include, but are not limited to, weaving,carving, stitching, sewing, lacing, beading, drawing, and painting.
+&emsp;(ii) The term “authentic native articles of handicrafts and clothing” means items composed wholly or in some significant respect ofnatural materials, and which are produced, decorated, or fashioned in the exercise of traditional native handicrafts without the use of pantographs, multiple carvers, or other mass copying devices. Traditional native handicrafts include, but are not limited to, weaving, carving, stitching, sewing, lacing, beading, drawing, and painting.
 
 (4) Notwithstanding the provisions of paragraph (1) of this subsection, whenever the Secretary determines that any species of fish or wildlife which is subject to taking under the provisions of this subsection is an endangered species or threatened species, and that such taking materially and negatively affects the threatened or endangered species, he may prescribe regulations upon the taking of such species by any such Indian, Aleut, Eskimo, or non-Native Alaskan resident of an Alaskan native village. Such regulations may be established with reference to species, geographical description of the area included, the season for taking, or any other factors related to the reason for establishing such regulations and consistent with the policy of this chapter. Such regulations shall be prescribed after a notice and hearings in the affected judicial districts of Alaska and as otherwise required by section 1373 of this title, and shall be removed as soon as the Secretary determines that the need for their impositions has disappeared.
 
@@ -216,7 +216,7 @@ October 7, 1988, referred to in subsec. (f)(8)(A), was in the original “the da
 
 #### Amendments
 
-1988—Subsec. (c). Pub. L. 100–478, §1013(b), substituted “notice, of” for “notice,” in second sentence.
+<b>1988</b>—Subsec. (c). Pub. L. 100–478, §1013(b), substituted “notice, of” for “notice,” in second sentence.
 
 Subsec. (e)(3)(ii). Pub. L. 100–478, §1013(c), substituted “lacing,” for “lacking,”.
 
@@ -228,7 +228,7 @@ Subsec. (f)(8)(D). Pub. L. 100–478, §1011(c), added subpar. (D).
 
 Subsec. (f)(9). Pub. L. 100–478, §1011(d), struck out par. (9) which provided for comprehensive review by Secretary of effectiveness of regulations prescribed pursuant to subsec. (f)(5) of this section.
 
-1982—Subsec. (a). Pub. L. 97–304, §6(1), designated as par. (1) and the beginning phrase of subpar. (A) thereof the existing provisions consisting of language authorizing the Secretary to permit, under such terms and conditions as he may prescribe, any act otherwise prohibited by section 1538 of this title for scientific purposes or to enhance the propagation or survival of the affected species, and inserted remainder of par. (1)(A) and pars. (1)(B) and (2).
+<b>1982</b>—Subsec. (a). Pub. L. 97–304, §6(1), designated as par. (1) and the beginning phrase of subpar. (A) thereof the existing provisions consisting of language authorizing the Secretary to permit, under such terms and conditions as he may prescribe, any act otherwise prohibited by section 1538 of this title for scientific purposes or to enhance the propagation or survival of the affected species, and inserted remainder of par. (1)(A) and pars. (1)(B) and (2).
 
 Subsec. (d). Pub. L. 97–304, §6(2), substituted “subsections (a)(1)(A) and (b) of this section” for “subsections (a) and (b) of this section”.
 
@@ -242,13 +242,13 @@ Subsec. (i). Pub. L. 97–304, §6(5), substituted provisions covering noncommer
 
 Subsec. (j). Pub. L. 97–304, §6(6), added subsec. (j).
 
-1979—Subsec. (f)(4)(C). Pub. L. 96–159, §7(1), inserted “unless such exemption is renewed under paragraph (8)” after “issuance of the certificate”.
+<b>1979</b>—Subsec. (f)(4)(C). Pub. L. 96–159, §7(1), inserted “unless such exemption is renewed under paragraph (8)” after “issuance of the certificate”.
 
 Subsec. (f)(8). Pub. L. 96–159, §7(2), added par. (8).
 
-1978—Subsecs. (h), (i). Pub. L. 95–632 added subsecs. (h) and (i).
+<b>1978</b>—Subsecs. (h), (i). Pub. L. 95–632 added subsecs. (h) and (i).
 
-1976—Subsec. (c). Pub. L. 94–359, §3, substituted “section” for “subsection” and inserted “; except that such thirty-day period may be waived by the Secretary in an emergency situation where the health or life of an endangered animal is threatened and no reasonable alternative is available to the applicant, but notice of any such waiver shall be published by the Secretary in the Federal Register within ten days following the issuance of the exemption or permit.” after “every stage of the proceeding”.
+<b>1976</b>—Subsec. (c). Pub. L. 94–359, §3, substituted “section” for “subsection” and inserted “; except that such thirty-day period may be waived by the Secretary in an emergency situation where the health or life of an endangered animal is threatened and no reasonable alternative is available to the applicant, but notice of any such waiver shall be published by the Secretary in the Federal Register within ten days following the issuance of the exemption or permit.” after “every stage of the proceeding”.
 
 Subsecs. (f), (g). Pub. L. 94–359, §2, added subsecs. (f) and (g).
 

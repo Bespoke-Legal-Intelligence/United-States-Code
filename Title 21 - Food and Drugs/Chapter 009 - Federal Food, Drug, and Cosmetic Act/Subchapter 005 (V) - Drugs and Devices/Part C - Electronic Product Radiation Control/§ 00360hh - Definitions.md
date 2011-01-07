@@ -24,11 +24,11 @@ Section was classified to section 263c of Title 42, The Public Health and Welfar
 
 #### Amendments
 
-1993—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263c of Title 42, The Public Health and Welfare, as this section.
+<b>1993</b>—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263c of Title 42, The Public Health and Welfare, as this section.
 
-1990—Pub. L. 101–629, §19(a)(1)(B), substituted “this part” for “this subpart” in introductory provisions.
+<b>1990</b>—Pub. L. 101–629, §19(a)(1)(B), substituted “this part” for “this subpart” in introductory provisions.
 
-1976—Par. (5). Pub. L. 94–484 defined “State” to include Northern Mariana Islands.
+<b>1976</b>—Par. (5). Pub. L. 94–484 defined “State” to include Northern Mariana Islands.
 
 #### Short Title
 
@@ -40,7 +40,7 @@ Section 19(c) of Pub. L. 101–629 provided that: “The transfer of subpart 3 o
 
 #### Definition of “Secretary” and “Department”
 
-Section 3 of Pub. L. 90–602, as amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that:“As used in the amendments made by section 2 of this Act \[enacting provisions now comprising sections 360hh to 360ss of this title\], except when otherwise specified, the term ‘Secretary’ means the Secretary of Health and Human Services, and the term ‘Department’ means the Department of Health and Human Services.”
+Section 3 of Pub. L. 90–602, as amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in the amendments made by section 2 of this Act \[enacting provisions now comprising sections 360hh to 360ss of this title\], except when otherwise specified, the term ‘Secretary’ means the Secretary of Health and Human Services, and the term ‘Department’ means the Department of Health and Human Services.”
 
 #### Noninterference With Other Federal Agencies
 

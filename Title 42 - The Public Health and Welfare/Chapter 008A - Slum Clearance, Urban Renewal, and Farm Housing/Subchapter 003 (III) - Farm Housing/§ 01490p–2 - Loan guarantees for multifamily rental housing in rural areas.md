@@ -64,7 +64,7 @@ Each loan guaranteed pursuant to this section shall—
 
 &emsp;(4) be secured by a first mortgage on the housing and related facilities for which the loan is made, or otherwise, as the Secretary may determine necessary to ensure repayment of the obligation; and
 
-&emsp;(5) for at least 20 percent of the loans made under this section, the Secretary shall provide the borrower with assistance in the form of credits pursuant to section 1490a(a)(1)(B) of this title to the extent necessary to reduce the rate of interest under paragraph (2) to the applicable Federal rate, as such term is used in section 42(i)(2)(D) <sup>2</sup> of title 26.
+&emsp;(5) for at least 20 percent of the loans made under this section, the Secretary shall providethe borrower with assistance in the form of credits pursuant to section 1490a(a)(1)(B) of this title to the extent necessary to reduce the rate of interest under paragraph (2) to the applicable Federal rate, as such term is used in section 42(i)(2)(D) <sup>2</sup> of title 26.
 
 #### (g) Guarantee fee
 
@@ -72,7 +72,7 @@ At the time of issuance of a loan guaranteed under this section, the Secretary m
 
 #### (h) Authority for lenders to issue certificates of guarantee
 
-The Secretary may authorize certain eligible lenders to determine whether a loan meets the requirements for guarantee under this section and, subject to the availability of authority to enter into guarantees under this section, execute a firm commitment for a guarantee binding upon the Secretary and issue a certificate ofguarantee evidencing a guarantee, without review and approval by the Secretary of the specific loan. The Secretary may establish standards for approving eligible lenders for a delegation of authority under this subsection.
+The Secretary may authorize certain eligible lenders to determine whether a loan meets the requirements for guarantee under this section and, subject to the availability of authority to enter into guarantees under this section, execute a firm commitment for a guarantee binding upon the Secretary and issue a certificate of guarantee evidencing a guarantee, without review and approval by the Secretary of the specific loan. The Secretary may establish standards for approving eligible lenders for a delegation of authority under this subsection.
 
 #### (i) Payment under guarantee
 
@@ -114,11 +114,11 @@ Any loan guaranteed under this section may be refinanced and extended in accorda
 
 #### (1) Study
 
-&emsp;The Secretary shall provide for an independent entity to conduct a study to determine the extent to which borrowers in the United States will utilize loan guarantees under this section, the rural areas in the United States in which borrowers can best utilize and most need loans guaranteed under this section, and the rural areas in the United States in which housing of the type eligible for a loan guarantee under this section is most needed by low- and moderate-income families. The Secretary shall require the independent entity conducting the study to submit a report to the Secretary and to the Congress describing the results of the study not later than the expiration of the 90-day period beginning on March 28, 1996.
+&emsp;The Secretary shall provide for an independent entity to conduct a study to determine theextent to which borrowers in the United States will utilize loan guarantees under this section, the rural areas in the United States in which borrowers can best utilize and most need loans guaranteed under this section, and the rural areas in the United States in which housing of the type eligible for a loan guarantee under this section is most needed by low- and moderate-income families. The Secretary shall require the independent entity conducting the study to submit a report to the Secretary and to the Congress describing the results of the study not later than the expiration of the 90-day period beginning on March 28, 1996.
 
 #### (2) Targeting
 
-&emsp;In providing loan guarantees under this section, the Secretary shall establish standardsto target and give priority to rural areas in which borrowers can best utilize and most need loans guaranteed under this section, as determined by the Secretary based on the results of the study under paragraph (1) and any other information the Secretary considers appropriate.
+&emsp;In providing loan guarantees under this section, the Secretary shall establish standards to target and give priority to rural areas in which borrowers can best utilize and most need loans guaranteed under this section, as determined by the Secretary based on the results of the study under paragraph (1) and any other information the Secretary considers appropriate.
 
 #### (m) Inapplicability of credit-elsewhere test
 
@@ -214,7 +214,7 @@ Section is based on section 5(a) of H.R. 1691, One Hundred Fourth Congress, as p
 
 #### Amendments
 
-2000—Subsec. (c). Pub. L. 106–569, §707(1), inserted “an Indian tribe,” after “political subdivision thereof,”.
+<b>2000</b>—Subsec. (c). Pub. L. 106–569, §707(1), inserted “an Indian tribe,” after “political subdivision thereof,”.
 
 Subsec. (f)(1). Pub. L. 106–569, §707(2), added par. (1) and struck out former par. (1) which read as follows: “provide for complete amortization by periodic payments to be made for a term not to exceed 40 years;”.
 
@@ -236,17 +236,17 @@ Subsec. (u). Pub. L. 106–569, §707(8), added subsec. (u). Former subsec. (u) 
 
 Subsec. (v). Pub. L. 106–569, §707(8), added subsec. (v).
 
-1998—Subsec. (t). Pub. L. 105–276, §599C(c)(1), substituted “each fiscal year” for “fiscal year 1998”.
+<b>1998</b>—Subsec. (t). Pub. L. 105–276, §599C(c)(1), substituted “each fiscal year” for “fiscal year 1998”.
 
 Subsec. (u). Pub. L. 105–276, §599C(c)(2), added subsec. (u) and struck out heading and text of former subsec. (u). Text read as follows: “A loan may not be guaranteed under this section after September 30, 1998.”
 
-1997—Subsec. (q)(2). Pub. L. 105–86, §735(c)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “In fiscal year 1996, the Secretary may enter into commitments to guarantee loans under this section only to the extent that the costs of the guarantees entered into in such fiscal year do not exceed $1,000,000.”
+<b>1997</b>—Subsec. (q)(2). Pub. L. 105–86, §735(c)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “In fiscal year 1996, the Secretary may enter into commitments to guarantee loans under this section only to the extent that the costs of the guarantees entered into in such fiscal year do not exceed $1,000,000.”
 
 Subsec. (t). Pub. L. 105–86, §735(c)(2), added subsec. (t) and struck out text of former subsec. (t). Text read as follows: “There is authorized to be appropriated for fiscal year 1996 $1,000,000 for costs (as such term is defined in section 661a of title 2) of loan guarantees made under this section.”
 
 Subsec. (u). Pub. L. 105–86, §735(c)(3), substituted “1998” for “1996”.
 
-1996—Subsecs. (m)(1), (r)(1). Pub. L. 104–120, §5(b), made technical amendment to reference in original act which appears in text as reference to March 28, 1996.
+<b>1996</b>—Subsecs. (m)(1), (r)(1). Pub. L. 104–120, §5(b), made technical amendment to reference in original act which appears in text as reference to March 28, 1996.
 
 #### Effective Date
 

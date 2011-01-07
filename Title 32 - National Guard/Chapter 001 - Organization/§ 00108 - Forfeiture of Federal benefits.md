@@ -22,7 +22,7 @@ The words “does not comply” are substituted for the words “shall \* \* \
 
 #### Amendments
 
-1994—Pub. L. 103–337 amended section generally. Prior to amendment, section read as follows: “If, within a time to be fixed by the President, a State does not comply with or enforce a requirement of, or regulation prescribed under, this title its National Guard is barred, wholly or partly as the President may prescribe, from receiving money or any other aid, benefit, or privilege authorized by law.”
+<b>1994</b>—Pub. L. 103–337 amended section generally. Prior to amendment, section read as follows: “If, within a time to be fixed by the President, a State does not comply with or enforce a requirement of, or regulation prescribed under, this title its National Guard is barred, wholly or partly as the President may prescribe, from receiving money or any other aid, benefit, or privilege authorized by law.”
 
 #### Effective Date of 1994 Amendment
 

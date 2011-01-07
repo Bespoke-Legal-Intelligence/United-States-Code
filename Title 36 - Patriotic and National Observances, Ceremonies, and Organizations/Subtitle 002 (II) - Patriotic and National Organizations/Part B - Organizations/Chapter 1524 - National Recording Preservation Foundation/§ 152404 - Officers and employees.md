@@ -34,7 +34,5 @@ Status and Compensation of Employees.—Employees of the corporation (including 
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(2), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 The General Schedule, referred to in subsec. (d)(3), is set out under section 5332 of Title 5, Government Organization and Employees.
 

@@ -116,7 +116,7 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 
 #### Amendments
 
-1987—Subsec. (b)(3)(A). Pub. L. 100–204, §307(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Members of the Committee shall be appointed for terms of two years and may be reappointed for 1 or more terms.”
+<b>1987</b>—Subsec. (b)(3)(A). Pub. L. 100–204, §307(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Members of the Committee shall be appointed for terms of two years and may be reappointed for 1 or more terms.”
 
 Subsec. (b)(3)(B). Pub. L. 100–204, §307(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “A vacancy in the Commission shall be filled in the same manner in which the original appointment was made.”
 

@@ -14,7 +14,7 @@ A nonresident alien individual or a foreign corporation engaged in trade or busi
 
 (2) For purposes of subsection (a), in applying section 904 the taxpayer's taxable income shall be treated as consisting only of the taxable income effectively connected with the taxpayer's conduct of a trade or business within the United States.
 
-(3) The credit allowed pursuant to subsection (a) shall not be allowed against any tax imposed by section 871(a) (relating to income of nonresident alien individual not connected with United States business) or 881 (relating to income of foreign corporations not connected with United States business).
+(3) The credit allowed pursuant to subsection (a) shall not be allowed against any tax imposed by section 871(a) (relating to income of nonresident alien individual not connected withUnited States business) or 881 (relating to income of foreign corporations not connected with United States business).
 
 (4) For purposes of sections 902(a) and 78, a foreign corporation choosing the benefits of this subpart which receives dividends shall, with respect to such dividends, be treated as a domestic corporation.
 
@@ -26,15 +26,15 @@ A nonresident alien individual or a foreign corporation engaged in trade or busi
 
 #### Amendments
 
-2007—Subsec. (b)(5) to (7). Pub. L. 110–172 redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which read as follows: “No credit shall be allowed under this section for any income, war profits, and excess profits taxes paid or accrued with respect to the foreign trade income (within the meaning of section 923(b)) of a FSC.”
+<b>2007</b>—Subsec. (b)(5) to (7). Pub. L. 110–172 redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which read as follows: “No credit shall be allowed under this section for any income, war profits, and excess profits taxes paid or accrued with respect to the foreign trade income (within the meaning of section 923(b)) of a FSC.”
 
-1988—Subsec. (b)(6), (7). Pub. L. 100–647 redesignated par. (6), relating to credit against tax imposed by section 884, as (7).
+<b>1988</b>—Subsec. (b)(6), (7). Pub. L. 100–647 redesignated par. (6), relating to credit against tax imposed by section 884, as (7).
 
-1986—Subsec. (b)(6). Pub. L. 99–514, §1876(d)(3), added par. (6) relating to credit for income, war profits, and excess profits taxes paid or accrued to a foreign country or possession of the United States.
+<b>1986</b>—Subsec. (b)(6). Pub. L. 99–514, §1876(d)(3), added par. (6) relating to credit for income, war profits, and excess profits taxes paid or accrued to a foreign country or possession of the United States.
 
 Pub. L. 99–514, §1241(c), added par. (6) relating to credit against tax imposed by section 884.
 
-1984—Subsec. (b)(5). Pub. L. 98–369 added par. (5).
+<b>1984</b>—Subsec. (b)(5). Pub. L. 98–369 added par. (5).
 
 #### Effective Date of 1988 Amendment
 

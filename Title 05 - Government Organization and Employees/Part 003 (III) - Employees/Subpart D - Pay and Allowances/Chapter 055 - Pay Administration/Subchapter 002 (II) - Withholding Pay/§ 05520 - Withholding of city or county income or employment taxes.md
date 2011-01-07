@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(C) the United States Postal Service.
 
-(Added Pub. L. 93–340, §1(a), July 10, 1974, 88 Stat. 294; amended Pub. L. 94–358, §1, July 12, 1976, 90 Stat. 910; Pub. L. 95–30, title IV, §408(a), May 23, 1977, 91 Stat. 157; Pub. L. 95–365, §1, Sept. 15, 1978, 92 Stat. 599; Pub. L. 100–180, div. A, title V, §505(2), Dec. 4, 1987, 101 Stat. 1086.)
+(Added Pub. L. 93–340, §1(a), July 10, 1974, 88 Stat. 294; amended Pub. L. 94–358, §1, July 12,1976, 90 Stat. 910; Pub. L. 95–30, title IV, §408(a), May 23, 1977, 91 Stat. 157; Pub. L. 95–365, §1, Sept. 15, 1978, 92 Stat. 599; Pub. L. 100–180, div. A, title V, §505(2), Dec. 4, 1987, 101 Stat. 1086.)
 
 #### Amendments
 
@@ -98,7 +98,7 @@ Sec. 3. The head of each agency shall designate, or provide for the designation 
 
 Sec. 4. The Secretary of the Treasury is authorized to prescribe additional regulations to implement Sections 5516, 5517 and 5520 of Title 5 of the United States Code, and this Order.
 
-Sec. 5. Executive Order No. 11968 of January 31, 1977, is hereby revoked. However, all actions heretofore taken by the President or his delegates in respect of the matters affected by this Order and in force at the time of the issuance of this Order, including any regulations prescribed or approved by the President or his delegates in respect of such matters and any existing agreements approved by his delegates, shall, except as they may be inconsistent with the provisions of this Order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this Order, unless sooner terminated by operation of law.
+Sec. 5. Executive Order No. 11968 of January 31, 1977, is hereby revoked. However, all actions heretofore taken by the President or his delegates in respect of the matters affected by this Order and in force at the time of the issuance of this Order, including any regulations prescribed or approved by the President or his delegates in respect of such matters and any existing agreements approved by his delegates, shall, except as they may be inconsistent with the provisions of thisOrder, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this Order, unless sooner terminated by operation of law.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

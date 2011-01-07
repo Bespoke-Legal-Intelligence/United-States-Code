@@ -22,5 +22,5 @@ The word “important” is omitted as covered by the word “urgent”. The wor
 
 #### Amendments
 
-1970—Pub. L. 91–393 struck out “In such a case, section 175 of title 50 does not apply.”
+<b>1970</b>—Pub. L. 91–393 struck out “In such a case, section 175 of title 50 does not apply.”
 

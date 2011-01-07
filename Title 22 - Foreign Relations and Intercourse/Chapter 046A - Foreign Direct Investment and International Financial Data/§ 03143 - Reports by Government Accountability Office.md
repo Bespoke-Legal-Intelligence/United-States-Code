@@ -44,13 +44,13 @@ The access by the Comptroller General to information under this Act shall be in 
 
 #### References in Text
 
-This Act and the amendments made by this Act, referred to in subsecs. (b)(4) and (e), is Pub. L. 101–533, Nov. 7, 1990, 104 Stat. 2344, known as the Foreign DirectInvestment and International Financial Data Improvements Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3141 of this title and Tables.
+This Act and the amendments made by this Act, referred to in subsecs. (b)(4) and (e), is Pub. L. 101–533, Nov. 7, 1990, 104 Stat. 2344, known as the Foreign Direct Investment and International Financial Data Improvements Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3141 of this title and Tables.
 
 #### Amendments
 
-2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline.
+<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline.
 
-1996—Subsec. (a). Pub. L. 104–316, §111(c)(1), substituted “reports referred to in” for “report required under”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–316, §111(c)(1), substituted “reports referred to in” for “report required under”.
 
 Subsec. (b). Pub. L. 104–316, §111(c)(2)(A), (D), substituted “Reports” for “Report” in heading, in introductory provisions substituted “Consistent with the provisions of this section, the Comptroller General may submit” for “Not later than 5 months after each report issued by the Secretary of Commerce under section 3142 of this title, the Comptroller General of the United States shall submit”, and struck out closing provisions which read as follows: “Reports under this subsection shall be issued only with respect to the first 3 reports issued by the Secretary of Commerce under section 3142 of this title.”
 

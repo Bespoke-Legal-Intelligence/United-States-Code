@@ -10,7 +10,7 @@ Enrollment in programs that receive assistance under this division shall be limi
 
 #### (b) Participation of disadvantaged youth
 
-Programs that receive assistance under this division shall ensure that educationally and economically disadvantaged youth, including youth in foster care who are becoming too old for foster care, youth with disabilities, youth with limited English proficiency, youth with limitedbasic skills or learning disabilities and homeless youth, are offered opportunities to enroll.
+Programs that receive assistance under this division shall ensure that educationally and economically disadvantaged youth, including youth in foster care who are becoming too old for foster care, youth with disabilities, youth with limited English proficiency, youth with limited basic skills or learning disabilities and homeless youth, are offered opportunities to enroll.
 
 #### (c) Special corps members
 
@@ -36,5 +36,5 @@ Section was formerly classified to section 12550 of this title prior to renumber
 
 #### Amendments
 
-1992—Subsec. (a)(1). Pub. L. 102–384 substituted “14” for “15”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–384 substituted “14” for “15”.
 

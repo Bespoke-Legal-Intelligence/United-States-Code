@@ -148,7 +148,7 @@ Use of technology.—The research, development, or use of a technology under a c
 
 &emsp;(5)
 
-Waiver of advertising requirements.—Section 3709 of the Revised Statutes (41 U.S.C. 5) shall not apply to a contract or agreement entered into under this chapter.
+Waiver of advertising requirements.—Section 6101(b) to (d) of title 41 shall not apply to a contract or agreement entered into under this chapter.
 
 (d)
 
@@ -316,11 +316,11 @@ Grants, cooperative agreements, and contracts.—Under the program, the Secretar
 
 &emsp;&emsp;(C) prepare products to fulfill program objectives and meet future bridge technology needs.
 
-(Added Pub. L. 105–178, title V, §5102, June 9, 1998, 112 Stat. 422; amended Pub. L. 109–59, title V, §§5201(b)–(g), (i)(1), (j)(1), (k), (<i>l</i>), 5202(a)(1), Aug. 10, 2005, 119 Stat. 1781–1785; Pub. L. 110–244, title I, §111(g)(1), June 6, 2008, 122 Stat. 1605.)
+(Added Pub. L. 105–178, title V, §5102, June 9, 1998, 112 Stat. 422; amended Pub. L. 109–59, title V, §§5201(b)–(g), (i)(1), (j)(1), (k), (<i>l</i>), 5202(a)(1), Aug. 10, 2005, 119 Stat. 1781–1785; Pub. L. 110–244, title I, §111(g)(1), June 6, 2008, 122 Stat. 1605; Pub. L. 111–350, §5(e)(2), Jan. 4, 2011, 124 Stat. 3847.)
 
 #### References in Text
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(4), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short title note set out under section 3701 of Title 15 and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(4), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short title note set out under section 3701 of Title 15 and Tables.
 
 #### Prior Provisions
 
@@ -328,9 +328,11 @@ A prior section 502, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 831, 
 
 #### Amendments
 
-2008—Subsec. (h). Pub. L. 110–244 struck out subsec. (h) relating to infrastructure investment needs report to be submitted not later than Jan. 31, 1999, and Jan. 31 of every second year thereafter.
+<b>2011</b>—Subsec. (c)(5). Pub. L. 111–350 substituted “Section 6101(b) to (d) of title 41” for “Section 3709 of the Revised Statutes (41 U.S.C. 5)”.
 
-2005—Subsec. (a). Pub. L. 109–59, §5201(b)(2), added subsec. (a). Former subsec. (a) redesignated (b).
+<b>2008</b>—Subsec. (h). Pub. L. 110–244 struck out subsec. (h) relating to infrastructure investment needs report to be submitted not later than Jan. 31, 1999, and Jan. 31 of every second year thereafter.
+
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §5201(b)(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
 Subsec. (b). Pub. L. 109–59, §5201(b)(1), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
 
@@ -546,7 +548,7 @@ Transportation, economic, and land use system.—The Secretary shall continue to
 
 Funding.—Of the amounts made available by section 5101(a)(1) of this Act \[119 Stat. 1779\], for each of fiscal years 2005 through 2009 $4,200,000 shall be available to carry out paragraph (1) and $1,000,000 shall be available to carry out paragraph (2).”
 
-Pub. L. 105–178, title V, §5117, June 9, 1998, 112 Stat. 448, as amended by Pub. L. 105–206, title IX, §9011(g), (h), July 22, 1998, 112 Stat. 864; Pub. L. 105–277, div. A, §101(g) \[title III, §3769 \[369\]\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–478; Pub. L. 107–117, div. B, §1101, Jan. 10, 2002, 115 Stat. 2330; Pub. L. 109–59, title V, §5508, Aug. 10, 2005, 119 Stat. 1824, provided that:
+Pub. L. 105–178, title V, §5117, June 9, 1998, 112 Stat. 448, as amended by Pub. L. 105–206, title IX, §9011(g), (h), July 22, 1998, 112 Stat. 864; Pub. L. 105–277, div. A, §101(g) \[title III, §3769 \[369\]\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–478; Pub. L. 107–117, div. B, §1101, Jan. 10,2002, 115 Stat. 2330; Pub. L. 109–59, title V, §5508, Aug. 10, 2005, 119 Stat. 1824, provided that:
 
 “(a)
 
@@ -678,7 +680,7 @@ Part II.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—In carrying out part II of the program, the Secretary shall award, on a competitive basis, contracts for the deployment of intelligent transportation infrastructure systems that have been accepted by the Secretary in congested areas, with the consent of the State transportation departments for the congested areas.
+In general.—In carrying out part II of the program, the Secretary shall award, on a competitive basis, contracts for the deployment of intelligent transportation infrastructure systemsthat have been accepted by the Secretary in congested areas, with the consent of the State transportation departments for the congested areas.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -806,7 +808,7 @@ Recycled materials resource center.—
 
 &emsp;&emsp;“(A)
 
-Establishment.—The Secretary shall establish at the University of New Hampshire a research program to be known as the ‘Recycled Materials Resource Center’ (referred to in this paragraph as the ‘Center’).
+Establishment.—The Secretary shall establish at the University of New Hampshire a research program to be known as the ‘Recycled MaterialsResource Center’ (referred to in this paragraph as the ‘Center’).
 
 &emsp;&emsp;“(B)
 
@@ -846,7 +848,7 @@ Notification of deficiencies.—In carrying out clause (i), if the Secretary det
 
 &emsp;&emsp;&emsp;“(iii)
 
-Disqualification.—If, after the end of the 180-day period that begins on the date of notification to the Center under clause (ii), the Secretary determines that the Center has not corrected each deficiency identified under clause (ii), the Secretary may, after notifying the Committee onEnvironment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of the determination, disqualify the Center from further participation under this section.
+Disqualification.—If, after the end of the 180-day period that begins on the date of notification to the Center under clause (ii), the Secretary determines that the Center has not corrected each deficiency identified under clause (ii), the Secretary may, after notifying the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of the determination, disqualify the Center from further participation under this section.
 
 &emsp;&emsp;“(D)
 
@@ -1202,7 +1204,7 @@ Commercial vehicle operations.—The term ‘commercial vehicle operations’—
 
 &emsp;“(3)
 
-Corridor.—The term ‘corridor’ means any major transportation route that includes parallellimited access highways, major arterials, or transit lines.
+Corridor.—The term ‘corridor’ means any major transportation route that includes parallel limited access highways, major arterials, or transit lines.
 
 &emsp;“(4)
 
@@ -1294,7 +1296,7 @@ Establishment.—Not later than 180 days after the date of transmittal of the re
 
 “(b)
 
-Purposes.—The advisory committee shall provide ongoing advice and recommendations to the Secretary regarding needs, objectives, plans, approaches, content, and accomplishments with respect to short-term and long-term surface transportation research and development. The advisory committee shall also assist in ensuring that such research and development is coordinated with similar research and development being conducted outside of the Department of Transportation.
+Purposes.—The advisory committee shall provide ongoing advice and recommendations to the Secretary regarding needs, objectives, plans, approaches, content, and accomplishments with respect to short-term and long-term surface transportation research and development. The advisory committee shall also assist in ensuring that such research and development is coordinated with similar research and developmentbeing conducted outside of the Department of Transportation.
 
 “(c)
 
@@ -1372,7 +1374,7 @@ Annual Report to Congress.—Not later than 180 days after the date of the enact
 
 Authorization of Appropriations.—The Secretary shall expend from administrative and research funds deducted under section 104(a) of this title \[probably means section 104(a) of Title 23, Highways\] at least $3,000,000 for each of fiscal years 1992, 1993, 1994, 1995, and 1996 to carry out subsection (b).”
 
-\[For termination, effective May 15, 2000, of annual reporting provisions in section 6016(e) of Pub. L. 102–240, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 139 of House Document No. 103–7.\]
+\[For termination, effective May 15, 2000, of annual reporting provisions in section 6016(e) of Pub. L. 102–240, set out above, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 139 of House Document No. 103–7.\]
 
 #### Study of Factors Affecting Safe and Efficient Operation of Bridges, Tunnels and Roads Within United States
 

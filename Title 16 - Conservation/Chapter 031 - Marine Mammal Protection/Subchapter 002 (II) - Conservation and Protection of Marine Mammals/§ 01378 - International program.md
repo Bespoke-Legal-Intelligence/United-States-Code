@@ -10,7 +10,7 @@ The Secretary, through the Secretary of State, shall—
 
 &emsp;&emsp;(A) negotiations as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, commercial fishing operations which are found by the Secretary to be unduly harmful to any species or population stock of marine mammal, for the purpose of entering into bilateral and multilateral treaties with such countries to protect marine mammals, with the Secretary of State to prepare a draft agenda relating to this matter for discussion at appropriate international meetings and forums;
 
-&emsp;&emsp;(B) discussions with foreign governments whose vessels harvest yellowfin tuna with purse seines in the eastern tropical Pacific Ocean, for the purpose of concluding, through the Inter-American Tropical Tuna Commission or such other bilateral or multilateral institutions as may be appropriate, international arrangements for the conservation of marine mammals taken incidentally in the course of harvesting such tuna, which should include provisions for (i) cooperative research into alternative methods of locating and catching yellowfin tuna which do not involve the taking of marine mammals, (ii) cooperative research on the status of affected marine mammal population stocks, (iii) reliable monitoring of the number, rate, and species of marine mammals taken by vessels of harvesting nations, (iv) limitations on incidental take levels based upon the best scientific information available, and (v) the use of the best marine mammal safety techniques and equipment that are economically and technologically practicable to reduce the incidental kill and serious injury of marine mammals to insignificant levels approaching a zero mortality and serious injury rate;
+&emsp;&emsp;(B) discussions with foreign governments whose vessels harvest yellowfin tuna with purse seines in the eastern tropical Pacific Ocean, for the purpose of concluding, through the Inter-American Tropical Tuna Commission or such other bilateral or multilateral institutions as may be appropriate, international arrangements for the conservation of marine mammals taken incidentally in the course of harvesting such tuna, which should include provisions for (i) cooperative research into alternative methods of locating and catching yellowfin tuna which do not involve the taking of marine mammals, (ii) cooperative research on the status of affected marine mammal population stocks, (iii) reliable monitoring of the number, rate, and species of marine mammals taken by vessels of harvesting nations, (iv)limitations on incidental take levels based upon the best scientific information available, and (v) the use of the best marine mammal safety techniques and equipment that are economically and technologically practicable to reduce the incidental kill and serious injury of marine mammals to insignificant levels approaching a zero mortality and serious injury rate;
 
 &emsp;&emsp;(C) negotiations to revise the Convention for the Establishment of an Inter-American Tropical Tuna Commission (1 U.S.T. 230; TIAS 2044) which will incorporate—
 
@@ -18,7 +18,7 @@ The Secretary, through the Secretary of State, shall—
 
 &emsp;&emsp;&emsp;(ii) a revised schedule of annual contributions to the expenses of the Inter-American Tropical Tuna Commission that is equitable to participating nations; and
 
-&emsp;&emsp;(D) discussions with those countries participating, or likely to participate, in theInternational Dolphin Conservation Program, for the purpose of identifying sources of funds needed for research and other measures promoting effective protection of dolphins, other marine species, and the marine ecosystem;
+&emsp;&emsp;(D) discussions with those countries participating, or likely to participate, in the International Dolphin Conservation Program, for the purpose of identifying sources of funds needed for research and other measures promoting effective protection of dolphins, other marine species, and the marine ecosystem;
 
 &emsp;(3) encourage such other agreements to promote the purposes of this chapter with other nations for the protection of specific ocean and land regions which are of special significance to the health and stability of marine mammals;
 
@@ -54,9 +54,9 @@ The Secretary shall include a description of the annual results of discussions i
 
 #### Amendments
 
-1997—Subsecs. (a)(2)(C), (D). Pub. L. 105–42 added subpars. (C) and (D).
+<b>1997</b>—Subsecs. (a)(2)(C), (D). Pub. L. 105–42 added subpars. (C) and (D).
 
-1988—Subsec. (a)(2). Pub. L. 100–711, §4(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “initiate negotiations as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, commercial fishing operations which are found by the Secretary to be unduly harmful to any species of marine mammal, for the purpose of entering into bilateral and multilateral treaties with such countries to protect marine mammals. The Secretary of State shall prepare a draft agenda relating to this matter for discussion at appropriate international meetings and forums;”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–711, §4(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “initiate negotiations as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, commercial fishing operations which are found by the Secretary to be unduly harmful to any species of marine mammal, for the purpose of entering into bilateral and multilateral treaties with such countries to protect marine mammals. The Secretary of State shall prepare a draft agenda relating to this matter for discussion at appropriate international meetings and forums;”.
 
 Subsec. (c). Pub. L. 100–711, §4(c), added subsec. (c).
 

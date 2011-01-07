@@ -12,7 +12,7 @@
 
 #### (b) Exemption of States, political subdivisions, etc.
 
-The provision of subsection (a) shall not apply to a State, to a political subdivision of a State,to the District of Columbia, or to liquor stores operated by any of them, if they maintain and make available for inspection by internal revenue officers such records as will enable such officers to trace all distilled spirits, wines, and beer received, and all distilled spirits disposed of by them. Such States, subdivisions, District, or liquor stores shall, upon the request of the Secretary, furnish him such transcripts, summaries and copies of their records with respect to distilled spirits as he shall require.
+The provision of subsection (a) shall not apply to a State, to a political subdivision of a State, to the District of Columbia, or to liquor stores operated by any of them, if they maintain and make available for inspection by internal revenue officers such records as will enable such officers to trace all distilled spirits, wines, and beer received, and all distilled spirits disposed of by them. Such States, subdivisions, District, or liquor stores shall, upon the request of the Secretary, furnish him such transcripts, summaries and copies of their records with respect to distilled spirits as he shall require.
 
 #### (c) Wholesale dealers
 
@@ -52,9 +52,9 @@ Another prior section 5121, act Aug. 16, 1954, ch. 736, 68A Stat. 621, related t
 
 #### Amendments
 
-2007—Pub. L. 110–172, which directed amendment of this title by redesignating section 5432 as section 5121, was executed by making correction to amendment by Pub. L. 109–59, §11125(b)(5)(B)(i). See 2005 Amendment note below.
+<b>2007</b>—Pub. L. 110–172, which directed amendment of this title by redesignating section 5432 as section 5121, was executed by making correction to amendment by Pub. L. 109–59, §11125(b)(5)(B)(i). See 2005 Amendment note below.
 
-2005—Pub. L. 109–59, §11125(b)(5)(B)(i), which directed amendment of section 5114 of this title by substituting “§5432. Recordkeeping by wholesale dealers” for “§5114. Records” in section catchline, was executed by substituting “§5121. Recordkeeping by wholesale dealers” for “§5114. Records”, to reflect the probable intent of Congress and the subsequent amendment by Pub. L. 110–172. See 2007 Amendment note above.
+<b>2005</b>—Pub. L. 109–59, §11125(b)(5)(B)(i), which directed amendment of section 5114 of this title by substituting “§5432. Recordkeeping by wholesale dealers” for “§5114. Records” in section catchline, was executed by substituting “§5121. Recordkeeping by wholesale dealers” for “§5114. Records”, to reflect the probable intent of Congress and the subsequent amendment by Pub. L. 110–172. See 2007 Amendment note above.
 
 Pub. L. 109–59, §11125(b)(5)(A), transferred section 5114 of this title to this subpart so as to appear after subpart analysis.
 
@@ -62,7 +62,7 @@ Subsecs. (c), (d). Pub. L. 109–59, §11125(b)(5)(B)(ii), added subsec. (c) and
 
 Subsec. (d)(3). Pub. L. 109–59, §11125(b)(5)(C), substituted “section 5123” for “section 5146”.
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (b). Pub. L. 94–455, §§1905(c)(1), 1906(b)(13)(A), struck out “or Territory” after “a State”, “Territories” after “States,”, and “or his delegate” after “Secretary”.
 

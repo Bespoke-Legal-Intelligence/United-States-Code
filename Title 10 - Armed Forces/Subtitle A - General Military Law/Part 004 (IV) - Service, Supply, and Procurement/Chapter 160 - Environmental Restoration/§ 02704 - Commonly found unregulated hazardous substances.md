@@ -66,7 +66,7 @@ Functions of HHS To Be Carried Out Through ATSDR.—The functions of the Secreta
 
 The Toxic Substances Control Act, referred to in subsec. (a)(2)(A), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended, which is classified generally to chapter 53 (§2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
-The Safe Drinking Water Act, referred to in subsec. (a)(2)(A), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Safe Drinking Water Act, referred to in subsec. (a)(2)(A), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended,which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 The Clean Air Act, referred to in subsec. (a)(2)(A), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 15B (§1857 et seq.) of Title 42. On enactment of Pub. L. 95–95, the Act was reclassified to chapter 85 (§7401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
@@ -74,7 +74,7 @@ The Clean Water Act, referred to in subsec. (a)(2), is act June 30, 1948, ch. 75
 
 #### Amendments
 
-2004—Subsecs. (c), (e), (f). Pub. L. 108–375 inserted “(42 U.S.C. 9604(i))” after “CERCLA”.
+<b>2004</b>—Subsecs. (c), (e), (f). Pub. L. 108–375 inserted “(42 U.S.C. 9604(i))” after “CERCLA”.
 
-1991—Subsec. (f). Pub. L. 102–25 substituted “Agency for Toxic Substances” for “Agency of Toxic Substances”.
+<b>1991</b>—Subsec. (f). Pub. L. 102–25 substituted “Agency for Toxic Substances” for “Agency of Toxic Substances”.
 

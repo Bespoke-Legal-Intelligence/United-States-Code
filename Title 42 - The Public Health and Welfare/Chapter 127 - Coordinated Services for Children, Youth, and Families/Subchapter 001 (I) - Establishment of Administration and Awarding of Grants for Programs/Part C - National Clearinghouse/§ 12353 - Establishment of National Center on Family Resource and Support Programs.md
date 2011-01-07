@@ -20,5 +20,5 @@ The national center established under subsection (a) of this section shall serve
 
 #### Amendments
 
-1994—Subsec. (b)(3). Pub. L. 103–252 substituted “several programs” for “several model programs”.
+<b>1994</b>—Subsec. (b)(3). Pub. L. 103–252 substituted “several programs” for “several model programs”.
 

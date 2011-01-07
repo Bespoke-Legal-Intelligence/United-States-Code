@@ -14,17 +14,17 @@ Requests for Authority for Military Family Housing.—(1) In submitting to Congr
 
 #### Amendments
 
-2000—Pub. L. 106–398 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (i) which limited the net floor area allowed in the construction, acquisition, and improvement of military family housing units.
+<b>2000</b>—Pub. L. 106–398 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (i) which limited the net floor area allowed in the construction, acquisition, and improvement of military family housing units.
 
-1996—Subsec. (e). Pub. L. 104–106, §2814, struck out at end “The authority provided by this subsection shall expire on September 30, 1994.”
+<b>1996</b>—Subsec. (e). Pub. L. 104–106, §2814, struck out at end “The authority provided by this subsection shall expire on September 30, 1994.”
 
 Subsec. (i). Pub. L. 104–106, §2815, added subsec. (i).
 
 Subsec. (i)(1). Pub. L. 104–201 substituted “February 10, 1996” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996”.
 
-1991—Subsecs. (d) to (h). Pub. L. 102–190 added subsecs. (d) and (e) and redesignated former subsecs. (d) to (f) as (f) to (h), respectively.
+<b>1991</b>—Subsecs. (d) to (h). Pub. L. 102–190 added subsecs. (d) and (e) and redesignated former subsecs. (d) to (f) as (f) to (h), respectively.
 
-1987—Subsec. (f). Pub. L. 100–26 inserted “the term” after “In this section,”.
+<b>1987</b>—Subsec. (f). Pub. L. 100–26 inserted “the term” after “In this section,”.
 
 #### Effective Date of 2000 Amendment
 

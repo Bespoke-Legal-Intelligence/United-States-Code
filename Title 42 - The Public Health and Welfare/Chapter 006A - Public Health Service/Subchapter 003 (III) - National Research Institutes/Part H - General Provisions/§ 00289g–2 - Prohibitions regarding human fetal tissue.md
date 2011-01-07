@@ -46,7 +46,7 @@ For purposes of this section:
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–242, §2(2), added subsec. (c). Former subsec. (c) redesignated (d).
+<b>2006</b>—Subsec. (c). Pub. L. 109–242, §2(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 109–242, §2(1), (3), redesignated subsec. (c) as (d) and substituted “(a), (b), or (c)” for “(a) or (b)” in par. (1). Former subsec. (d) redesignated (e).
 

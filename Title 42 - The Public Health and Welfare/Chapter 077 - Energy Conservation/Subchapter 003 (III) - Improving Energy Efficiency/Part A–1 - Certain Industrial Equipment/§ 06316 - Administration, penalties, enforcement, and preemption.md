@@ -14,7 +14,7 @@
 
 &emsp;(6) section 6297(b)(1) of this title shall be applied as if electric motors were fluorescent lamp ballasts and as if the National Appliance Energy Conservation Amendments of 1988 were the Energy Policy Act of 1992;
 
-&emsp;(7) section 6297(b)(4) of this title shall be applied as if electric motors were fluorescentlamp ballasts and as if paragraph (5) of section 6295(g) of this title were section 6313 of this title;
+&emsp;(7) section 6297(b)(4) of this title shall be applied as if electric motors were fluorescent lamp ballasts and as if paragraph (5) of section 6295(g) of this title were section 6313 of this title;
 
 &emsp;(8) notwithstanding any other provision of law, a regulation or other requirement adopted by a State or subdivision of a State contained in a State or local building code for new construction concerning the energy efficiency or energy use of an electric motor covered under this part is not superseded by the standards for such electric motor established or prescribed under section 6313(b) of this title if such regulation or requirement is identical to the standards established or prescribed under such section; and
 
@@ -48,11 +48,11 @@
 
 (B) In applying section 6297 of this title in accordance with subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) of this section shall apply.
 
-(3)(A) Section 6297 of this title shall apply to commercial refrigerators, freezers, and refrigerator-freezers for which standards are established under section 6313(c)(4) of this title to the same extent and in the same manner as the provisions apply under part A <sup>3</sup> on the date of publication of the final rule by the Secretary, except that any State or local standard issued before the date of publication of the final rule by the Secretary shall not be preempted until the standards take effect.
+(3)(A) Section 6297 of this title shall apply to commercial refrigerators, freezers, and refrigerator-freezers for which standards are established under section 6313(c)(4) of this title to the same extent and in the same manner as the provisions apply under part A <sup>3</sup> on the date of publication of the final rule by the Secretary, except that any State or local standard issued before the date of publication of the final rule by theSecretary shall not be preempted until the standards take effect.
 
 (B) In applying section 6297 of this title in accordance with subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) of this section shall apply.
 
-(4)(A) If the Secretary does not issue a final rule for a specific type of commercial refrigerator, freezer, or refrigerator-freezer within the time frame specified in section 6313(c)(5) of this title, subsections (b) and (c) of section 6297 of this title shall not apply to that specific type of refrigerator, freezer, or refrigerator-freezer forthe period beginning on the date that is 2 years after the scheduled date for a final rule and ending on the date on which the Secretary publishes a final rule covering the specific type of refrigerator, freezer, or refrigerator-freezer.
+(4)(A) If the Secretary does not issue a final rule for a specific type of commercial refrigerator, freezer, or refrigerator-freezer within the time frame specified in section 6313(c)(5) of this title, subsections (b) and (c) of section 6297 of this title shall not apply to that specific type of refrigerator, freezer, or refrigerator-freezer for the period beginning on the date that is 2 years after the scheduled date for a final rule and ending on the date on which the Secretary publishes a final rule covering the specific type of refrigerator, freezer, or refrigerator-freezer.
 
 (B) Any State or local standard issued before the date of publication of the final rule shall not be preempted until the final rule takes effect.
 
@@ -118,7 +118,7 @@ Final rule not timely.—
 
 &emsp;&emsp;(A)
 
-In general.—If the Secretary does not issue a final rule for a specific type of walk-in cooler or walk-in freezer within the timeframe established under paragraph (4) or (5) of section 6313(f) of this title, subsections (b) and (c) of section 6297 of this title shall no longer apply to the specific type of walk-in cooler or walk-in freezer during the period—
+In general.—If the Secretary does not issue a final rule for a specific type of walk-in cooler or walk-in freezer within the timeframe established under paragraph (4) or (5)of section 6313(f) of this title, subsections (b) and (c) of section 6297 of this title shall no longer apply to the specific type of walk-in cooler or walk-in freezer during the period—
 
 &emsp;&emsp;&emsp;(i) beginning on the day after the scheduled date for a final rule; and
 
@@ -148,21 +148,21 @@ The references to “part A” in subsecs. (b)(1), (d)(1), (e)(1)(A), (2)(A), (3
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–140, §312(e)(1), substituted “subparagraphs (B) through (G)” for “subparagraphs (B), (C), (D), (E), and (F)” in introductory provisions.
+<b>2007</b>—Subsec. (a). Pub. L. 110–140, §312(e)(1), substituted “subparagraphs (B) through (G)” for “subparagraphs (B), (C), (D), (E), and (F)” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 110–140, §§308(b), 312(e)(1), inserted “section 6295(p)(5) of this title,” after “The provisions of” and substituted “subparagraphs (B) through (G)” for “subparagraphs (B), (C), (D), (E), and (F)”.
 
 Subsec. (h). Pub. L. 110–140, §312(e)(2), added subsec. (h).
 
-2005—Subsec. (a)(9). Pub. L. 109–58, §136(h)(1), added par. (9).
+<b>2005</b>—Subsec. (a)(9). Pub. L. 109–58, §136(h)(1), added par. (9).
 
 Subsec. (b)(1). Pub. L. 109–58, §136(h)(2), substituted “part A” for “part B”, which for purposes of codification had been translated as “part A” thus requiring no change in text.
 
 Subsecs. (d) to (g). Pub. L. 109–58, §136(h)(3), added subsecs. (d) to (g).
 
-1998—Subsec. (c). Pub. L. 105–388 inserted “standard” after “meets the applicable”.
+<b>1998</b>—Subsec. (c). Pub. L. 105–388 inserted “standard” after “meets the applicable”.
 
-1992—Pub. L. 102–486, §122(e)(3), substituted “enforcement, and preemption” for “and enforcement” in section catchline.
+<b>1992</b>—Pub. L. 102–486, §122(e)(3), substituted “enforcement, and preemption” for “and enforcement” in section catchline.
 
 Subsec. (a). Pub. L. 102–486, §122(e)(1)(A), inserted “(other than the equipment specified in subparagraphs (B), (C), (D), (E), and (F) of section 6311(<i>l</i>) of this title)” after “to this part” and substituted “, the provisions of subsections (<i>l</i>) through (s) of section 6295 of this title, and section 6297” for “and sections 6298”.
 

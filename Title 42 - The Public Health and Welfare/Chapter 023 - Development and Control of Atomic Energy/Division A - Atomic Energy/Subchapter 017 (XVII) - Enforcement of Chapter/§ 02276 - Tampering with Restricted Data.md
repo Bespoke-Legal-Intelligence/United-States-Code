@@ -6,7 +6,7 @@ Whoever, with intent to injure the United States or with intent to secure an adv
 
 #### Amendments
 
-1969—Pub. L. 91–161 made death penalty inapplicable for willful violation, or attempted violation of this section with intent to injure the United States, or secure an advantage for any foreign nation.
+<b>1969</b>—Pub. L. 91–161 made death penalty inapplicable for willful violation, or attempted violation of this section with intent to injure the United States, or secure an advantage for any foreign nation.
 
 #### Effective Date of 1969 Amendment
 

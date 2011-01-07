@@ -8,11 +8,7 @@
 
 (b)(1) A scholarship may be awarded under this subchapter only in a qualifying field of education or training.
 
-(2) A qualifying field of education or training for purposes of this subchapter is education or training leading to employment (under section 7401 of this title) as any of the following:
-
-&emsp;(A) A physician, dentist, podiatrist, optometrist, nurse, physician assistant, or expanded function dental auxiliary.
-
-&emsp;(B) A psychologist described in section 7401(3) of this title or a certified or registered respiratory therapist, licensed physical therapist, or licensed practical or vocational nurse.
+(2) A qualifying field of education or training for purposes of this subchapter is education or training leading to employment as an appointee under paragraph (1) or (3) of section 7401 of this title.
 
 (3) The Secretary may designate additional fields of education or training as qualifying fields of education or training if the education or training leads to employment in a position which would qualify the individual for increased basic pay under subsection (a)(1) of section 7455 of this title for personnel described in subsection (a)(2)(B) of such section.
 
@@ -38,17 +34,23 @@
 
 &emsp;(B) the agreement shall include the participant's agreement to maintain employment, while enrolled in such course of education or training, as a Department employee permanently assigned to a Department health-care facility.
 
-(4) If a participant's period of obligated service is deferred under section 7616(b)(3)(A)(i) of this title, the agreement terms under paragraph (1) of this subsection shall provide for the participant to serve any additional period of obligated service that is prescribed by the Secretary under section 7616(b)(4)(B) of this title.
+(4) If a participant's period of obligated service is deferred under section 7616(b)(3)(A)(i) of this title, the agreement terms under paragraph (1) of this subsection shall provide for the participant to serve any additional period of obligatedservice that is prescribed by the Secretary under section 7616(b)(4)(B) of this title.
 
-(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 520, §4312; amended Pub. L. 101–237, title II, §207(a), Dec. 18, 1989, 103 Stat. 2068; renumbered §7612 and amended Pub. L. 102–40, title IV, §§402(b)(1), (d)(1), 403(b)(4), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title II, §202(a), Oct. 9, 1992, 106 Stat. 1983; Pub. L. 103–446, title XII, §1201(b)(1), Nov. 2, 1994, 108 Stat. 4682.)
+(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 520, §4312; amended Pub. L. 101–237, title II, §207(a), Dec. 18, 1989, 103 Stat. 2068; renumbered §7612 and amended Pub. L. 102–40, title IV, §§402(b)(1), (d)(1), 403(b)(4), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title II, §202(a), Oct. 9, 1992, 106 Stat. 1983; Pub. L. 103–446, title XII, §1201(b)(1), Nov. 2, 1994, 108 Stat. 4682; Pub. L. 111–163, title VI, §603(b), May 5, 2010, 124 Stat. 1173.)
 
 #### Amendments
 
-1994—Subsec. (c)(1)(B). Pub. L. 103–446 substituted “Veterans Health Administration” for “Department of Medicine and Surgery”.
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–163 substituted “as an appointee under paragraph (1) or (3) of section 7401 of this title.” for “(under section 7401 of this title) as any of the following:
 
-1992—Subsec. (c)(1)(B). Pub. L. 102–405 inserted before period at end “, but for not less than two years”.
+&emsp;“(A) A physician, dentist, podiatrist, optometrist, nurse, physician assistant, or expanded function dental auxiliary.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 4312 of this title as this section.
+&emsp;“(B) A psychologist described in section 7401(3) of this title or a certified or registered respiratory therapist, licensed physical therapist, or licensed practical or vocational nurse.”
+
+<b>1994</b>—Subsec. (c)(1)(B). Pub. L. 103–446 substituted “Veterans Health Administration” for “Department of Medicine and Surgery”.
+
+<b>1992</b>—Subsec. (c)(1)(B). Pub. L. 102–405 inserted before period at end “, but for not less than two years”.
+
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 4312 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 102–40, §402(d)(1), substituted “7602” for “4302”.
 
@@ -82,7 +84,7 @@ Subsec. (c)(4). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary”
 
 Pub. L. 102–40, §402(d)(1), substituted “7616(b)(3)(A)(i)” for “4316(b)(3)(A)(i)” and “7616(b)(4)(B)” for “4316(b)(4)(B)”.
 
-1989—Subsec. (b)(5). Pub. L. 101–237 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “In selecting applicants for the Scholarship Program, the Administrator shall give priority to the applications of individuals who will be entering their final year in a course of training.”
+<b>1989</b>—Subsec. (b)(5). Pub. L. 101–237 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “In selecting applicants for the Scholarship Program, the Administrator shall give priority to the applications of individuals who will be entering their final year in a course of training.”
 
 #### Effective Date of 1992 Amendment
 

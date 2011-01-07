@@ -1,7 +1,5 @@
 subpart 4—state accountability for adequate yearly progress
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “7321(c)(10)”.</i>
-
 
 ---
 

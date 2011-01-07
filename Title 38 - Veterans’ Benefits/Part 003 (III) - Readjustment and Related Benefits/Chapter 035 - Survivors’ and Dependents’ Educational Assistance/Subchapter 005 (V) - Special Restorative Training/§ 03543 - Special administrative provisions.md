@@ -16,15 +16,15 @@
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–103, §109(b)(3), substituted “for the training provided to the eligible person” for “the parent or guardian for the training provided to an eligible person” in last sentence.
+<b>2001</b>—Subsec. (a). Pub. L. 107–103, §109(b)(3), substituted “for the training provided to the eligible person” for “the parent or guardian for the training provided to an eligible person” in last sentence.
 
 Subsec. (c). Pub. L. 107–103, §109(b)(4), added subsec. (c).
 
-1991—Pub. L. 102–83 renumbered section 1743 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1743 of this title as this section.
 
-1989—Pub. L. 101–237 substituted “Secretary's” for “Administrator's” in subsec. (a) and “Secretary” for “Administrator” wherever appearing in subsecs. (a) and (b).
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary's” for “Administrator's” in subsec. (a) and “Secretary” for “Administrator” wherever appearing in subsecs. (a) and (b).
 
-1976—Subsec. (a). Pub. L. 94–502 substituted “the Administrator's” for “his” and “the Administrator may agree” for “he may agree”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–502 substituted “the Administrator's” for “his” and “the Administrator may agree” for “he may agree”.
 
 Subsec. (b). Pub. L. 94–502 substituted “the Administrator may deem” for “he may deem”.
 

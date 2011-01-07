@@ -46,7 +46,7 @@ Section 3(c) of the Federal Deposit Insurance Act, referred to in subsec. (b)(1)
 
 #### Amendments
 
-2001—Subsec.(a). Pub. L. 107–56, §365(c)(2)(B), inserted “or nonfinancial trade or business” after “financial institution” and “or nonfinancial trades or businesses” for “financial institutions” in introductory provisions.
+<b>2001</b>—Subsec.(a). Pub. L. 107–56, §365(c)(2)(B), inserted “or nonfinancial trade or business” after “financial institution” and “or nonfinancial trades or businesses” for “financial institutions” in introductory provisions.
 
 Subsec. (a)(1)(A). Pub. L. 107–56, §365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution”.
 
@@ -58,5 +58,5 @@ Subsec. (c). Pub. L. 107–56, §365(c)(2)(B)(i), inserted “or nonfinancial tr
 
 Subsec. (d). Pub. L. 107–56, §353(d), substituted “more than 180 days” for “more than 60 days”.
 
-1992—Subsecs. (b) to (d). Pub. L. 102–550 added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+<b>1992</b>—Subsecs. (b) to (d). Pub. L. 102–550 added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 

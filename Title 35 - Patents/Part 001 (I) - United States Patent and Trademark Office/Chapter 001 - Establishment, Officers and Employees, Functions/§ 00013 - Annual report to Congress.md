@@ -16,7 +16,7 @@ A prior section 13 was renumbered section 12 of this title.
 
 #### Amendments
 
-1999—Pub. L. 106–113 renumbered section 14 of this title as this section and amended section catchline and text generally. Prior to amendment, text read as follows: “The Commissioner shall report to Congress annually the moneys received and expended, statistics concerning the work of the Office, and other information relating to the Office as may be useful to the Congress or the public.”
+<b>1999</b>—Pub. L. 106–113 renumbered section 14 of this title as this section and amended section catchline and text generally. Prior to amendment, text read as follows: “The Commissioner shall report to Congress annually the moneys received and expended, statistics concerning the work of the Office, and other information relating to the Office as may be useful to the Congress or the public.”
 
 #### Effective Date of 1999 Amendment
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) For over 50 years, most United States medical school seniors and the large majority of graduate medical education programs (popularly known as “residency programs”) have chosen to use a matching program to match medical students with residency programs to which they have applied. These matching programs have been an integral part of an educational system that has produced the finest physicians and medical researchers in the world.
 
-&emsp;&emsp;(B) Before such matching programs were instituted, medical students often felt pressure, at an unreasonably early stage of theirmedical education, to seek admission to, and accept offers from, residency programs. As a result, medical students often made binding commitments before they were in a position to make an informed decision about a medical specialty or a residency program and before residency programs could make an informed assessment of students’ qualifications. This situation was inefficient, chaotic, and unfair and it often led to placements that did not serve the interests of either medical students or residency programs.
+&emsp;&emsp;(B) Before such matching programs were instituted, medical students often felt pressure, at an unreasonably early stage of their medical education, to seek admission to, and accept offers from, residency programs. As a result, medical students often made binding commitments before they were in a position to make an informed decision about a medical specialty or a residency program and before residency programs could make an informed assessment of students’ qualifications. This situation was inefficient, chaotic, and unfair and it often led to placements that did not serve the interests of either medical students or residency programs.
 
 &emsp;&emsp;(C) The original matching program, now operated by the independent non-profit National Resident Matching Program and popularly known as “the Match”, was developed and implemented more than 50 years ago in response to widespread student complaints about the prior process. This Program includes on its board of directors individuals nominated by medical student organizations as well as by major medical education and hospital associations.
 
@@ -58,7 +58,7 @@
 
 #### (2) Confirmation of antitrust status
 
-&emsp;It shall not be unlawful under the antitrust laws to sponsor, conduct, or participate in a graduate medical education residency matching program, or to agree to sponsor, conduct, or participate in such a program. Evidence of any of the conduct described in the preceding sentence shall not be admissible in Federal court to support any claim or action alleging a violation of the antitrust laws.
+&emsp;It shall not be unlawful under the antitrust laws to sponsor, conduct, or participate in agraduate medical education residency matching program, or to agree to sponsor, conduct, or participate in such a program. Evidence of any of the conduct described in the preceding sentence shall not be admissible in Federal court to support any claim or action alleging a violation of the antitrust laws.
 
 #### (3) Applicability
 

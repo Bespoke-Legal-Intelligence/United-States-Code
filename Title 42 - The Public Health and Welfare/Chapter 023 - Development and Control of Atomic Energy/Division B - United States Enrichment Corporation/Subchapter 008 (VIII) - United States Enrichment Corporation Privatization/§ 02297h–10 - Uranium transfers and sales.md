@@ -26,7 +26,7 @@ The Secretary shall not provide enrichment services or transfer or sell any uran
 
 <b>Annual Maximum Deliveries to End Users</b>
 
-| &nbsp; | <b>(millions lbs. U</b><b><sub>3</sub></b>G1<b>O</b><b><sub>8</sub></b> G1<b>equivalent)</b> |
+| &nbsp; | <b>(millions lbs. U</b><b><sub>3</sub></b><b>O</b><b><sub>8</sub></b> <b>equivalent)</b> |
 | :--- | ---: |
 | <b>  Year:</b> |  |
 | 1998 | 2&nbsp;&nbsp; |

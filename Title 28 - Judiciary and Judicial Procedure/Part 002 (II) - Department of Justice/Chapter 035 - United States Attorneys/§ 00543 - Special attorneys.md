@@ -1,10 +1,14 @@
 ### §543. Special attorneys
 
-(a) The Attorney General may appoint attorneys to assist United States attorneys when the public interest so requires.
+(a) The Attorney General may appoint attorneys to assist United States attorneys when the public interest so requires, including the appointment of qualified tribal prosecutors and other qualified attorneys to assist in prosecuting Federal offenses committed in Indian country.
 
 (b) Each attorney appointed under this section is subject to removal by the Attorney General.
 
-(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 618.)
+(c)
+
+Indian Country.—In this section, the term “Indian country” has the meaning given that term in section 1151 of title 18.
+
+(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 618; amended Pub. L. 111–211, title II, §213(a)(1), July 29, 2010, 124 Stat. 2268.)
 
 Historical and Revision Notes<br>1966
 
@@ -49,4 +53,10 @@ Changes were made in phraseology.
 #### Prior Provisions
 
 A prior section 543, act June 25, 1948, ch. 646, 62 Stat. 911, related to oath of office for United States Marshals, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 563 of this title by section 4(c) of Pub. L. 89–554.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–211, §213(a)(1)(A), inserted “, including the appointment of qualified tribal prosecutors and other qualified attorneys to assist in prosecuting Federal offenses committed in Indian country” before period at end.
+
+Subsec. (c). Pub. L. 111–211, §213(a)(1)(B), added subsec. (c).
 

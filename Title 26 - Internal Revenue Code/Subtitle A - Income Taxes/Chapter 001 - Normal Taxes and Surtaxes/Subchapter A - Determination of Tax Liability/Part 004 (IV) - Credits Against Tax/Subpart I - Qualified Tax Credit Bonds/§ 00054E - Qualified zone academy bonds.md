@@ -24,7 +24,7 @@ For purposes of subsection (a), the private business contribution requirement of
 
 #### (1) National limitation
 
-&emsp;There is a national zone academy bond limitation for each calendar year. Such limitation is $400,000,000 for 2008 and $1,400,000,000 for 2009 and 2010, and, except as provided in paragraph (4), zero thereafter.
+&emsp;There is a national zone academy bond limitation for each calendar year. Such limitation is $400,000,000 for 2008, $1,400,000,000 for 2009 and 2010, and $400,000,000 for 2011 and, except as provided in paragraph (4), zero thereafter.
 
 #### (2) Allocation of limitation
 
@@ -102,7 +102,7 @@ For purposes of this section—
 
 &emsp;&emsp;(E) any other property or service specified by the eligible local education agency.
 
-(Added Pub. L. 110–343, div. C, title III, §313(a), Oct. 3, 2008, 122 Stat. 3869; amended Pub. L. 111–5, div. B, title I, §1522(a), Feb. 17, 2009, 123 Stat. 358.)
+(Added Pub. L. 110–343, div. C, title III, §313(a), Oct. 3, 2008, 122 Stat. 3869; amended Pub. L. 111–5, div. B, title I, §1522(a), Feb. 17, 2009, 123 Stat. 358; Pub. L. 111–312, title VII, §758(a), Dec. 17, 2010, 124 Stat. 3322.)
 
 #### References in Text
 
@@ -114,7 +114,13 @@ Section 9101 of the Elementary and Secondary Education Act of 1965, referred to 
 
 #### Amendments
 
-2009—Subsec. (c)(1). Pub. L. 111–5 substituted “and $1,400,000,000 for 2009 and 2010” for “and 2009”.
+<b>2010</b>—Subsec. (c)(1). Pub. L. 111–312 substituted “2008,” for “2008 and” and inserted “and $400,000,000 for 2011” after “2010,”.
+
+<b>2009</b>—Subsec. (c)(1). Pub. L. 111–5 substituted “and $1,400,000,000 for 2009 and 2010” for “and 2009”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title VII, §758(c), Dec. 17, 2010, 124 Stat. 3323, provided that: “The amendments made by this section \[amending this section and section 6431 of this title\] shall apply to obligations issued after December 31, 2010.”
 
 #### Effective Date of 2009 Amendment
 

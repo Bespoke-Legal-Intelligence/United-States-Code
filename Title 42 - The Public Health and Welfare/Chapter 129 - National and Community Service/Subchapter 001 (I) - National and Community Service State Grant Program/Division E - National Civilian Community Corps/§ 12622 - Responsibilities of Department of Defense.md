@@ -54,7 +54,7 @@ A prior section 162 of Pub. L. 101–610 was classified to section 12613 of this
 
 #### Amendments
 
-2009—Pub. L. 111–13, §1512(b)(2)–(5)(A), substituted “Liaison office” for “Secretary of Defense” as subsec.\(a) heading, struck out par. (1) heading “Liaison office” after subsec. (a) heading, redesignated subpars. (A) and (B) of former subsec. (a)(1) as pars. (1) and (2), respectively, of subsec. (a), redesignated cls. (i) and (ii) of former subsec. (a)(1)(B) as subpars. (A) and (B), respectively, of subsec. (a)(2), redesignated former pars. (2) to (4) of subsec. (a) as subsecs. (b) to (d), respectively, redesignated former subpars. (A) to (C) of former subsec. (a)(2) as pars. (1) to (3), respectively, of subsec. (b), and realigned margins.
+<b>2009</b>—Pub. L. 111–13, §1512(b)(2)–(5)(A), substituted “Liaison office” for “Secretary of Defense” as subsec. (a) heading, struck out par. (1) heading “Liaison office” after subsec. (a) heading, redesignated subpars. (A) and (B) of former subsec. (a)(1) as pars. (1) and (2), respectively, of subsec. (a), redesignated cls. (i) and (ii) of former subsec. (a)(1)(B) as subpars. (A) and (B), respectively, of subsec. (a)(2), redesignated former pars. (2) to (4) of subsec. (a) as subsecs. (b) to (d), respectively, redesignated former subpars. (A) to (C) of former subsec. (a)(2) as pars. (1) to (3), respectively, of subsec. (b), and realigned margins.
 
 Pub. L. 111–13, §1512(b)(1), substituted “Department of Defense” for “other departments” in section catchline.
 
@@ -72,9 +72,9 @@ Subsec. (b)(2). Pub. L. 111–13, §1512(b)(5)(C), substituted “subsection” 
 
 Subsec. (c). Pub. L. 111–13, §1512(b)(6), substituted “this subsection” for “this paragraph” and “subsection (a)” for “paragraph (1)”.
 
-1994—Subsec. (a)(1)(B)(ii). Pub. L. 103–304, which directed the substitution of “section 1143a of title 10” for “section 4462 of the National Defense Authorization Act for Fiscal Year 1993”, could not be executed because “section 4462 of the National Defense Authorization Act for Fiscal Year 1993” did not appear in cl. (ii).
+<b>1994</b>—Subsec. (a)(1)(B)(ii). Pub. L. 103–304, which directed the substitution of “section 1143a of title 10” for “section 4462 of the National Defense Authorization Act for Fiscal Year 1993”, could not be executed because “section 4462 of the National Defense Authorization Act for Fiscal Year 1993” did not appear in cl. (ii).
 
-1993—Subsec. (a)(2)(A). Pub. L. 103–82, §104(e)(2)(G), substituted “section 12611(3)” for “section 12653(3)”.
+<b>1993</b>—Subsec. (a)(2)(A). Pub. L. 103–82, §104(e)(2)(G), substituted “section 12611(3)” for “section 12653(3)”.
 
 Subsec. (a)(2)(C). Pub. L. 103–82, §402(b)(2), substituted “Corporation” for “Commission on National and Community Service”.
 

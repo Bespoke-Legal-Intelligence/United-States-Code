@@ -34,7 +34,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 20 days after the date on which the complaint is filed, the plaintiff or plaintiffs shall cause to be published, in a widely circulated national business-oriented publication or wire service, a notice advising members of the purported plaintiff class—
+&emsp;&emsp;&emsp;Not later than 20 days after the date on which the complaint is filed, the plaintiffor plaintiffs shall cause to be published, in a widely circulated national business-oriented publication or wire service, a notice advising members of the purported plaintiff class—
 
 &emsp;&emsp;&emsp;&emsp;(I) of the pendency of the action, the claims asserted therein, and the purported class period; and
 
@@ -162,7 +162,17 @@
 
 #### (2) Required state of mind
 
-&emsp;In any private action arising under this chapter in which the plaintiff may recover money damages only on proof that the defendant acted with a particular state of mind, the complaint shall, with respect to each act or omission alleged to violate this chapter, state with particularity facts giving rise to a strong inference that the defendant acted with the required state of mind.
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), in any private action arising under this chapter in which the plaintiff may recover money damages only on proof that the defendant acted with a particular state of mind, the complaint shall, with respect to each act or omission alleged to violate this chapter, state with particularity facts giving rise to a strong inference that the defendant acted with the required state of mind.
+
+#### (B) Exception
+
+&emsp;&emsp;In the case of an action for money damages brought against a credit rating agencyor a controlling person under this chapter, it shall be sufficient, for purposes of pleading any required state of mind in relation to such action, that the complaint state with particularity facts giving rise to a strong inference that the credit rating agency knowingly or recklessly failed—
+
+&emsp;&emsp;&emsp;(i) to conduct a reasonable investigation of the rated security with respect to the factual elements relied upon by its own methodology for evaluating credit risk; or
+
+&emsp;&emsp;&emsp;(ii) to obtain reasonable verification of such factual elements (which verification may be based on a sampling technique that does not amount to an audit) from other sources that the credit rating agency considered to be competent and that were independent of the issuer and underwriter.
 
 #### (3) Motion to dismiss; stay of discovery
 
@@ -206,7 +216,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), for purposes of paragraph (2), the court shalladopt a presumption that the appropriate sanction—
+&emsp;&emsp;Subject to subparagraphs (B) and (C), for purposes of paragraph (2), the court shall adopt a presumption that the appropriate sanction—
 
 &emsp;&emsp;&emsp;(i) for failure of any responsive pleading or dispositive motion to comply with any requirement of Rule 11(b) of the Federal Rules of Civil Procedure is an award to the opposing party of the reasonable attorneys’ fees and other expenses incurred as a direct result of the violation; and
 
@@ -222,7 +232,7 @@
 
 #### (C) Sanctions
 
-&emsp;&emsp;If the party or attorney against whom sanctions are to be imposed meets its burden under subparagraph (B), the court shall award the sanctions that the court deems appropriate pursuant to Rule 11 of the Federal Rules of Civil Procedure.
+&emsp;&emsp;If the party or attorney against whom sanctions are to be imposed meets its burden under subparagraph (B), the court shall award the sanctions that the court deemsappropriate pursuant to Rule 11 of the Federal Rules of Civil Procedure.
 
 #### (d) Defendant's right to written interrogatories
 
@@ -292,7 +302,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph (2)(B), upon <sup>1</sup> motion made not later than 6 months after a final judgment is entered in any private action, the court determines that all or part of the share of the judgment of the covered person is not collectible against that covered person, and is also not collectible against a covered person described in paragraph (2)(A), each covered person described in paragraph (2)(B) shall be liable for the uncollectible share as follows:
+&emsp;&emsp;Notwithstanding paragraph (2)(B), upon <sup>1</sup> motion made not later than 6 months after a final judgment is entered in any private action, the court determines that all or part of the share of the judgment of the covered person is not collectible against that covered person, and is also not collectibleagainst a covered person described in paragraph (2)(A), each covered person described in paragraph (2)(B) shall be liable for the uncollectible share as follows:
 
 #### (i) Percentage of net worth
 
@@ -384,7 +394,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 &emsp;&emsp;(D) the term “outside director” shall have the meaning given such term by rule or regulation of the Commission.
 
-(June 6, 1934, ch. 404, title I, §21D, as added and amended Pub. L. 104–67, title I, §101(b), title II, §201(a), Dec. 22, 1995, 109 Stat. 743, 758; Pub. L. 105–353, title I, §101(b)(2), title III, §301(b)(13), Nov. 3, 1998, 112 Stat. 3233, 3236.)
+(June 6, 1934, ch. 404, title I, §21D, as added and amended Pub. L. 104–67, title I, §101(b), title II, §201(a), Dec. 22, 1995, 109 Stat. 743, 758; Pub. L. 105–353, title I, §101(b)(2), title III, §301(b)(13), Nov. 3, 1998, 112 Stat. 3233, 3236; Pub. L. 111–203, title IX, §933(b), July 21, 2010, 124 Stat. 1883.)
 
 #### References in Text
 
@@ -394,13 +404,19 @@ The Federal Rules of Civil Procedure, referred to in subsecs. (a)(1), (3)(A)(iii
 
 #### Amendments
 
-1998—Subsec. (b)(3)(D). Pub. L. 105–353, §101(b)(2), added subpar. (D).
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–203 designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), in any” for “In any”, and added subpar. (B).
+
+<b>1998</b>—Subsec. (b)(3)(D). Pub. L. 105–353, §101(b)(2), added subpar. (D).
 
 Subsecs. (f), (g). Pub. L. 105–353, §301(b)(13)(B), redesignated subsec. (g) as (f).
 
 Subsec. (g)(2)(B)(i). Pub. L. 105–353, §301(b)(13)(A), substituted “subparagraph (A)” for “paragraph (1)”.
 
-1995—Subsec. (g). Pub. L. 104–67, §201(a), added subsec. (g).
+<b>1995</b>—Subsec. (g). Pub. L. 104–67, §201(a), added subsec. (g).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date of 1998 Amendment
 

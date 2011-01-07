@@ -24,7 +24,7 @@ Standard changes are made to conform to the definitions applicable and the style
 
 #### References in Text
 
-Section 305 of the Government Employees Salary Reform Act of 1964, referred to in text, means section 305of Pub. L. 88–426, Aug. 14, 1964. For complete classification of this section to the Code, see Tables.
+Section 305 of the Government Employees Salary Reform Act of 1964, referred to in text, means section 305 of Pub. L. 88–426, Aug. 14, 1964. For complete classification of this section to the Code, see Tables.
 
 #### Amendments
 

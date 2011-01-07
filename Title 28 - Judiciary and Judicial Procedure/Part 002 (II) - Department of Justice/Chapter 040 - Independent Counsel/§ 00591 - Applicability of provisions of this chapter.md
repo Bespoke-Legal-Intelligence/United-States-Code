@@ -66,11 +66,11 @@ When recusal is required.—(A) If information received under this chapter invol
 
 Requirements for recusal determination.—Before personally making any other determination under this chapter with respect to information received under this chapter, the Attorney General shall determine under paragraph (1)(B) whether recusal is necessary. The Attorney General shall set forth this determination in writing, identify the facts considered by the Attorney General, and set forth the reasons for the recusal. The Attorney General shall file this determination with any notification or application submitted to the division of the court under this chapter with respect to such information.
 
-(Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1867; amended Pub. L. 97–409, §§3,4(a), Jan. 3, 1983, 96 Stat. 2039, 2040; Pub. L. 98–473, title II, §228(b), Oct. 12, 1984, 98 Stat. 2030; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1293; Pub. L. 103–270, §§3(j), (k), 4, June 30, 1994, 108 Stat. 735, 736.)
+(Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1867; amended Pub. L. 97–409, §§3, 4(a), Jan. 3, 1983, 96 Stat. 2039, 2040; Pub. L. 98–473, title II, §228(b), Oct. 12, 1984, 98 Stat. 2030; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1293; Pub. L. 103–270, §§3(j), (k), 4, June 30, 1994, 108 Stat. 735, 736.)
 
 #### Amendments
 
-1994—Subsec. (b)(6) to (8). Pub. L. 103–270, §4(b), redesignated par. (8) as (6) and substituted “; and” for the period at end, added par. (7), and struck out former pars. (6) and (7) which read as follows:
+<b>1994</b>—Subsec. (b)(6) to (8). Pub. L. 103–270, §4(b), redesignated par. (8) as (6) and substituted “; and” for the period at end, added par. (7), and struck out former pars. (6) and (7) which read as follows:
 
 “(6) any individual who leaves any office or position described in any of paragraphs (1) through (5) of this subsection, during the incumbency of the President under whom such individual served in the office or position plus one year after such incumbency, but in no event longer than a period of three years after the individual leaves the office or position;
 
@@ -98,17 +98,17 @@ When recusal is required.—If information received under this chapter involves 
 
 Requirements for recusal determination.—The Attorney General shall, before personally making any other determination under this chapter with respect to information received under this chapter, determine under paragraph (1) whether to recuse himself or herself with respect to that information. A determination to recuse shall be in writing, shall identify the facts considered by the Attorney General, and shall set forth the reasons for the recusal. The Attorney General shall file this determination with any notification or application submitted to the division of the court under this chapter with respect to the information involved.”
 
-1987—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (e) relating to applicability of chapter for former subsecs. (a) to (c) relating to similar subject.
+<b>1987</b>—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (e) relating to applicability of chapter for former subsecs. (a) to (c) relating to similar subject.
 
-1984—Subsec. (a). Pub. L. 98–473 substituted “Class B or C misdemeanor or an infraction” for “petty offense”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–473 substituted “Class B or C misdemeanor or an infraction” for “petty offense”.
 
-1983—Subsec. (a). Pub. L. 97–409, §4(a)(1), substituted “information sufficient to constitute grounds to investigate” for “specific information” after “the Attorney General receives”.
+<b>1983</b>—Subsec. (a). Pub. L. 97–409, §4(a)(1), substituted “information sufficient to constitute grounds to investigate” for “specific information” after “the Attorney General receives”.
 
 Subsec. (b)(3). Pub. L. 97–409, §3, substituted “who is compensated at or above a rate equivalent to level II” for “and compensated at a rate not less than the annual rate of basic pay provided for level IV”.
 
 Subsec. (b)(4), (5). Pub. L. 97–409, §3, redesignated as par. (5) “the Director of Central Intelligence” and all that followed through end of par. (4). Former par. (5) redesignated (6).
 
-Subsec. (b)(6). Pub. L. 97–409, §3, redesignated former par. (5) as (6) and substituted “through (5) of this subsection during the period consisting of the incumbency of the President such individual serves plus one year after such incumbency, but in no event longer than two years after the individual leaves office;” for “through (4) of this subsection during the incumbency of the President or during the period the last preceding President held office, if such preceding President was of the same political party as the incumbent President; and”. Former par. (6) redesignated (8).
+Subsec. (b)(6). Pub. L. 97–409, §3, redesignated former par. (5) as (6) and substituted “through (5) of this subsection during the period consisting of the incumbency of the President such individual serves plus one year after such incumbency, but in no event longer than two years after the individual leaves office;” for “through (4) of this subsection during the incumbency of the President or during the period the last preceding President held office, if such preceding President was of thesame political party as the incumbent President; and”. Former par. (6) redesignated (8).
 
 Subsec. (b)(7). Pub. L. 97–409, §3, added par. (7).
 
@@ -214,5 +214,5 @@ Pub. L. 100–202, §101(a) \[title II\], Dec. 22, 1987, 101 Stat. 1329, 1329–
 
 #### Contingency Fund for Independent Counsels
 
-Section 601(c) of Pub. L. 95–521, as amended by Pub. L. 97–409, §2(c)(2), Jan. 3, 1983, 96 Stat. 2039; Pub. L.100–191, §5(b), Dec. 15, 1987, 101 Stat. 1307, provided that: “There are authorized to be appropriated for each fiscal year such sums as may be necessary, to be held by the Department of Justice as a contingent fund for the use of any independent counsels appointed under chapter 40 (relating to independent counsels) of title 28 of the United States Code in the carrying out of functions under such chapter.”
+Section 601(c) of Pub. L. 95–521, as amended by Pub. L. 97–409, §2(c)(2), Jan. 3, 1983, 96 Stat. 2039; Pub. L. 100–191, §5(b), Dec. 15, 1987, 101 Stat. 1307, provided that: “There are authorized to be appropriated for each fiscal year such sums as may be necessary, to be held by the Department of Justice as a contingent fund for the use of any independent counsels appointed under chapter 40 (relating to independent counsels) of title 28 of the United States Code in the carrying out of functions under such chapter.”
 

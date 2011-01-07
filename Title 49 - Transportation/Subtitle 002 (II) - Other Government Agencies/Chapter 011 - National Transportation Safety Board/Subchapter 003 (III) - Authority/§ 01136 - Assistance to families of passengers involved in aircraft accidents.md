@@ -100,7 +100,7 @@ Relinquishment of Investigative Priority.—
 
 &emsp;(1)
 
-General rule.—This section (other than subsection (g)) shall not apply to an aircraft accident if the Board has relinquished investigative priority under section 1131(a)(2)(B) and the Federal agency to which the Board relinquished investigative priority is willing and able to provide assistance to the victims andfamilies of the passengers involved in the accident.
+General rule.—This section (other than subsection (g)) shall not apply to an aircraft accident if the Board has relinquished investigative priority under section 1131(a)(2)(B) and the Federal agency to which the Board relinquished investigative priority is willing and able to provide assistance to the victims and families of the passengers involved in the accident.
 
 &emsp;(2)
 
@@ -110,9 +110,9 @@ Board assistance.—If this section does not apply to an aircraft accident becau
 
 #### Amendments
 
-2003—Subsec. (j). Pub. L. 108–168 added subsec. (j).
+<b>2003</b>—Subsec. (j). Pub. L. 108–168 added subsec. (j).
 
-2000—Subsec. (g)(2). Pub. L. 106–181, §401(a)(1), substituted “transportation and in the event of an accident involving a foreign air carrier that occurs within the United States,” for “transportation,”, inserted “(including any associate, agent, employee, or other representative of an attorney)” after “attorney”, and substituted “45th day” for “30th day”.
+<b>2000</b>—Subsec. (g)(2). Pub. L. 106–181, §401(a)(1), substituted “transportation and in the event of an accident involving a foreign air carrier that occurs within the United States,” for “transportation,”, inserted “(including any associate, agent, employee, or other representative of an attorney)” after “attorney”, and substituted “45th day” for “30th day”.
 
 Subsec. (g)(3). Pub. L. 106–181, §401(b), added par. (3).
 

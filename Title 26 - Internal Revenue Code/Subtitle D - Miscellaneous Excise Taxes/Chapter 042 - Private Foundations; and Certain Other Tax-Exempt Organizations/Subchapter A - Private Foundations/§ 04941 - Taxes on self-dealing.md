@@ -8,7 +8,7 @@
 
 #### (2) On foundation manager
 
-&emsp;In any case in which a tax is imposed by paragraph (1), there is hereby imposed on theparticipation of any foundation manager in an act of self-dealing between a disqualified person and a private foundation, knowing that it is such an act, a tax equal to 5 percent of the amount involved with respect to the act of self-dealing for each year (or part thereof) in the taxable period, unless such participation is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any foundation manager who participated in the act of self-dealing.
+&emsp;In any case in which a tax is imposed by paragraph (1), there is hereby imposed on the participation of any foundation manager in an act of self-dealing between a disqualified person and a private foundation, knowing that it is such an act, a tax equal to 5 percent of the amount involved with respect to the act of self-dealing for each year (or part thereof) in the taxable period, unless such participation is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any foundation manager who participated in the act of self-dealing.
 
 #### (b) Additional taxes
 
@@ -48,7 +48,7 @@ For purposes of subsections (a) and (b)—
 
 &emsp;&emsp;(E) transfer to, or use by or for the benefit of, a disqualified person of the income or assets of a private foundation; and
 
-&emsp;&emsp;(F) agreement by a private foundation to make any payment of money or other property to a government official (as defined in section 4946(c)), other than an agreement to employ such individual for any period after the termination of his government service if such individual is terminating his government service within a 90-day period.
+&emsp;&emsp;(F) agreement by a private foundation to make any payment of money or other property to a government official (as defined in section 4946(c)), other than an agreement to employ such individual for any period after the termination of his government service ifsuch individual is terminating his government service within a 90-day period.
 
 #### (2) Special rules
 
@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### (2) Amount involved
 
-&emsp;The term “amount involved” means, with respect to any act of self-dealing, the greater of the amount of money and the fair market value of the other property given or the amount of money and the fair market value of the other property received; except that, in the case of services described in subsection (d)(2)(E), the amount involved shall be only the excess compensation. For purposes of the preceding sentence, the fair market value—
+&emsp;The term “amount involved” means, with respect to any act of self-dealing, the greater of the amount of money and the fair market value of the other property given or the amount of money and the fair market value of the other property received; except that, in the case of services described in subsection (d)(2)(E), the amount involved shall be onlythe excess compensation. For purposes of the preceding sentence, the fair market value—
 
 &emsp;&emsp;(A) in the case of the taxes imposed by subsection (a), shall be determined as of the date on which the act of self-dealing occurs; and
 
@@ -128,21 +128,21 @@ Section 1212(a)(1), (2) of Pub. L. 109–280, which directed the amendment of se
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–280, §1212(a)(1)(A), substituted “10 percent” for “5 percent”. See Codification note above.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–280, §1212(a)(1)(A), substituted “10 percent” for “5 percent”. See Codification note above.
 
 Subsec. (a)(2). Pub. L. 109–280, §1212(a)(1)(B), substituted “5 percent” for “21/2 percent”. See Codification note above.
 
 Subsec. (c)(2). Pub. L. 109–280, §1212(a)(2), substituted “$20,000” for “$10,000” wherever appearing in heading and text. See Codification note above.
 
-1988—Subsec. (d)(2)(G)(ii). Pub. L. 100–647 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “scholarships and fellowship grants which are subject to the provisions of section 117(a) and are to be used for study at an educational organization described in section 170(b)(1)(A)(ii),”.
+<b>1988</b>—Subsec. (d)(2)(G)(ii). Pub. L. 100–647 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “scholarships and fellowship grants which are subject to the provisions of section 117(a) and are to be used for study at an educational organization described in section 170(b)(1)(A)(ii),”.
 
-1986—Subsec. (d)(2)(B). Pub. L. 99–514, §1812(b)(1), inserted “(determined without regard to section 7872)” after “without interest or other charge”.
+<b>1986</b>—Subsec. (d)(2)(B). Pub. L. 99–514, §1812(b)(1), inserted “(determined without regard to section 7872)” after “without interest or other charge”.
 
 Subsec. (d)(2)(G)(i). Pub. L. 99–514, §122(a)(2)(A), inserted “(without regard to paragraph (3) thereof)” after “section 74(b)”.
 
 Subsec. (d)(2)(G)(vii). Pub. L. 99–234 substituted “5702” for “5702(a)”.
 
-1980—Subsec. (b)(1). Pub. L. 96–596, §2(a)(1)(A), substituted “taxable period” for “correction period”.
+<b>1980</b>—Subsec. (b)(1). Pub. L. 96–596, §2(a)(1)(A), substituted “taxable period” for “correction period”.
 
 Subsec. (d)(2)(H). Pub. L. 96–608 added subpar. (H).
 
@@ -152,7 +152,7 @@ Subsec. (e)(2)(B). Pub. L. 96–596, §2(a)(1)(B), substituted “taxable period
 
 Subsec. (e)(4). Pub. L. 96–596, §2(a)(3)(A), struck out par. (4) which defined correction period, with respect to any act of self-dealing, as the period beginning with the date on which the act of self-dealing occurs and ending 90 days after the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (b)(1) of this section under section 6212 of this title, extended by any period in which the deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines is reasonable and necessary to bring about correction of the act of self-dealing.
 
-1976—Subsec. (d)(2)(G)(ii). Pub. L. 94–455, §1901(b)(8)(H), substituted “educational organization described in section 170(b)(1)(A)(ii)” for “educational institution described in section 151(e)(4)” after “study at an”.
+<b>1976</b>—Subsec. (d)(2)(G)(ii). Pub. L. 94–455, §1901(b)(8)(H), substituted “educational organization described in section 170(b)(1)(A)(ii)” for “educational institution described in section 151(e)(4)” after “study at an”.
 
 Subsec. (e)(4). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 

@@ -6,7 +6,7 @@ The Director of the United States Geological Survey on and after March 4, 1909 m
 
 #### Amendments
 
-1947—Act July 21, 1947, authorized production and sale of aerial or other photographs and reproductions of records on a reimbursement of appropriations basis.
+<b>1947</b>—Act July 21, 1947, authorized production and sale of aerial or other photographs and reproductions of records on a reimbursement of appropriations basis.
 
 #### Transfer of Functions
 

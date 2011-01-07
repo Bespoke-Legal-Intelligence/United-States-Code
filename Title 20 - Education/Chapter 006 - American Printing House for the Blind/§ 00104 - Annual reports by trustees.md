@@ -10,7 +10,7 @@ The word “appropriation” substituted in text for “income” to conform to 
 
 #### Amendments
 
-1970—Pub. L. 91–230 made provision applicable to a private nonprofit institution.
+<b>1970</b>—Pub. L. 91–230 made provision applicable to a private nonprofit institution.
 
 #### Transfer of Functions
 

@@ -56,9 +56,9 @@ Section 408 of Public Law 101–237, referred to in subsec. (b)(2), is set out a
 
 #### Amendments
 
-2002—Subsecs. (a)(1), (2), (b)(4), (c), (d)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsecs. (a)(1), (2), (b)(4), (c), (d)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2001—Subsec. (a)(1). Pub. L. 107–103, in second sentence, substituted “within the time periods provided under paragraph (3) of section 1142(a) of this title, except that the Secretary concerned shall not provide preseparation counseling to a member described in paragraph (4)(A) of such section” for “during the 180-day period before the member is separated from active duty”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–103, in second sentence, substituted “within the time periods providedunder paragraph (3) of section 1142(a) of this title, except that the Secretary concerned shall not provide preseparation counseling to a member described in paragraph (4)(A) of such section” for “during the 180-day period before the member is separated from active duty”.
 
 Subsec. (a)(3). Pub. L. 107–107, §1048(e)(1)(A), struck out at end “The agreement shall be entered into no later than 60 days after the date of the enactment of this section.”
 
@@ -68,7 +68,7 @@ Subsec. (e). Pub. L. 107–107, §1048(e)(1)(B), struck out heading and text of 
 
 “(2) There is authorized to be appropriated to the Department of Veterans Affairs to carry out this section $6,500,000 for each of fiscal years 1993, 1994, and 1995.”
 
-1994—Subsec. (a)(1). Pub. L. 103–337, §543(b)(1), inserted “, the Secretary of Transportation,” after “Secretary of Defense” and substituted “concerned” for “of a military department”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–337, §543(b)(1), inserted “, the Secretary of Transportation,” after “Secretary of Defense” and substituted “concerned” for “of a military department”.
 
 Subsec. (a)(2). Pub. L. 103–337, §543(b)(2), inserted “, the Secretary of Transportation,” after “Secretary of Defense”.
 
@@ -78,13 +78,13 @@ Subsec. (c). Pub. L. 103–337, §543(b)(4), inserted “and the Secretary of Tr
 
 Subsec. (d)(2). Pub. L. 103–337, §543(b)(5), inserted “and the Department of Transportation” after “Department of Defense”.
 
-1992—Subsec. (b)(8). Pub. L. 102–484, §4462(c), added par. (8).
+<b>1992</b>—Subsec. (b)(8). Pub. L. 102–484, §4462(c), added par. (8).
 
 Subsec. (e)(1). Pub. L. 102–484, §4469(1), substituted “$11,000,000 for fiscal year 1993 and $8,000,000 for each of fiscal years 1994 and 1995” for “$4,000,000 for fiscal year 1991 and $9,000,000 for each of fiscal years 1992 and 1993”.
 
 Subsec. (e)(2). Pub. L. 102–484, §4469(2), substituted “$6,500,000 for each of fiscal years 1993, 1994, and 1995” for “$1,000,000 for fiscal year 1991 and $4,000,000 for each of fiscal years 1992 and 1993”.
 
-1991—Subsec. (b)(1). Pub. L. 102–190, §1061(a)(6)(A), substituted “resume�AE1” for “resume” in cl. (C).
+<b>1991</b>—Subsec. (b)(1). Pub. L. 102–190, §1061(a)(6)(A), substituted “resume�AE1” for “resume” in cl. (C).
 
 Subsec. (b)(3). Pub. L. 102–190, §1061(a)(6)(B), substituted “veterans’ service organizations” for “veterans service organization” and “armed forces” for “Armed Forces”.
 

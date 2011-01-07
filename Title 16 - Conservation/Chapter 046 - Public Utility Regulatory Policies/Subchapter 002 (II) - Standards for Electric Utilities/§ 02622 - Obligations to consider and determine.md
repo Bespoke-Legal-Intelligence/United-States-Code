@@ -36,7 +36,7 @@ Each State regulatory authority (with respect to each electric utility for which
 
 #### (c) Failure to comply
 
-Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall undertake the consideration, and make the determination, referred to in section 2621 of this title with respect to each standard established by section 2621(d) of this title in the first rate proceeding commenced after thedate three years after November 9, 1978, respecting the rates of such utility if such State regulatory authority or nonregulated electric utility has not, before such date, complied with subsection (b)(2) of this section with respect to such standard. In the case of each standard established by paragraphs (11) through (13) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (14) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (15),<sup>1</sup> the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standards established by paragraphs (16) through (19) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to December 19, 2007.
+Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall undertake the consideration, and make the determination, referred to in section 2621 of this title with respect to each standard established by section 2621(d) of this title in the first rate proceeding commenced after the date three years after November 9, 1978, respecting the rates of such utility if such State regulatory authority or nonregulated electric utility has not, before such date, complied with subsection (b)(2) of this section with respect to such standard. In the case of each standard established by paragraphs (11) through (13) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (14) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (15),<sup>1</sup> the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standards established by paragraphs (16) through (19) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to December 19, 2007.
 
 #### (d) Prior State actions relating to standard under certain paragraphs of section 2621(d)
 
@@ -80,15 +80,15 @@ This chapter, referred to in subsec. (a)(1)(B), was in the original “this titl
 
 #### Amendments
 
-2009—Subsecs. (b)(6), (d). Pub. L. 111–5 substituted “(16) through (19)” for “(17) through (18)” wherever appearing.
+<b>2009</b>—Subsecs. (b)(6), (d). Pub. L. 111–5 substituted “(16) through (19)” for “(17) through (18)” wherever appearing.
 
-2007—Subsec. (b)(6). Pub. L. 110–140, §1307(b)(1), added par. (6).
+<b>2007</b>—Subsec. (b)(6). Pub. L. 110–140, §1307(b)(1), added par. (6).
 
 Subsec. (c). Pub. L. 110–140, §1307(b)(2), inserted at end “In the case of the standards established by paragraphs (16) through (19) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to December 19, 2007.”
 
 Subsec. (d). Pub. L. 110–140, §1307(b)(3), inserted “and paragraphs (17) through (18)” before “of section 2621(d)” in introductory provisions.
 
-2005—Subsec. (b)(3). Pub. L. 109–58, §1251(b)(1), added par. (3).
+<b>2005</b>—Subsec. (b)(3). Pub. L. 109–58, §1251(b)(1), added par. (3).
 
 Subsec. (b)(4). Pub. L. 109–58, §1252(g), added par. (4).
 
@@ -106,7 +106,7 @@ Subsec. (e). Pub. L. 109–58, §1252(i)(1), added subsec. (e).
 
 Subsec. (f). Pub. L. 109–58, §1254(b)(3)(A), added subsec. (f).
 
-1992—Subsec. (b)(1), (2). Pub. L. 102–486 inserted “(or after October 24, 1992, in the case of standards under paragraphs (7), (8), and (9) of section 2621(d) of this title)”.
+<b>1992</b>—Subsec. (b)(1), (2). Pub. L. 102–486 inserted “(or after October 24, 1992, in the case of standards under paragraphs (7), (8), and (9) of section 2621(d) of this title)”.
 
 #### Effective Date of 2007 Amendment
 

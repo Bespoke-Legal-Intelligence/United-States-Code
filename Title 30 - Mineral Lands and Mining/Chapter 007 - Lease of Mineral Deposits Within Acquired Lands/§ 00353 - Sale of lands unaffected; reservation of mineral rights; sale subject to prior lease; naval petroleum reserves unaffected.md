@@ -1,6 +1,6 @@
 ### §353. Sale of lands unaffected; reservation of mineral rights; sale subject to prior lease; naval petroleum reserves unaffected
 
-Nothing herein contained shall be deemed or construed to (a) amend, modify, or change any existing law authorizing or requiring the sale of acquired lands, or (b) empower any commission, bureau, or agency of the Government to make a reservation of the minerals in the sale of any acquired land: <i>Provided</i>, That any such sale or conveyance of lands shall be made by the agency having jurisdiction thereof, subject to any lease theretofore made, covering the mineral deposits underlying such lands: <i>Provided further</i>, That nothing in this chapter is intended, or shall beconstrued to affect in any manner any provision of chapter 641 of title 10.
+Nothing herein contained shall be deemed or construed to (a) amend, modify, or change any existing law authorizing or requiring the sale of acquired lands, or (b) empower any commission, bureau, or agency of the Government to make a reservation of the minerals in the sale of any acquired land: <i>Provided</i>, That any such sale or conveyance of lands shall be made by the agency having jurisdiction thereof, subject to any lease theretofore made, covering the mineral deposits underlying such lands: <i>Provided further</i>, That nothing in this chapter is intended, or shall be construed to affect in any manner any provision of chapter 641 of title 10.
 
 (Aug. 7, 1947, ch. 513, §4, 61 Stat. 914.)
 

@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;Subject to the provisions of this subsection, in the case of student loan funds established under section 292q of this title by schools of medicine or osteopathic medicine, each agreement entered into under such section with such a school shall provide (in addition to theprovisions required in subsection (b) of such section) that the school will make a loan from such fund to a student only if the student agrees—
+&emsp;Subject to the provisions of this subsection, in the case of student loan funds established under section 292q of this title by schools of medicine or osteopathic medicine, each agreement entered into under such section with such a school shall provide (in addition to the provisions required in subsection (b) of such section) that the school will make a loan from such fund to a student only if the student agrees—
 
 &emsp;&emsp;(A) to enter and complete a residency training program in primary health care not later than 4 years after the date on which the student graduates from such school; and
 
-&emsp;&emsp;(B) to practice in such care through the date on which the loan is repaid in full.
+&emsp;&emsp;(B) to practice in such care for 10 years (including residency training in primary health care) or through the date on which the loan is repaid in full, whichever occurs first.
 
 #### (2) Inapplicability to certain students
 
@@ -26,7 +26,7 @@
 
 #### (3) Noncompliance by student
 
-&emsp;Each agreement entered into with a student pursuant to paragraph (1) shall provide that, if the student fails to comply with such agreement, the loan involved will begin to accrue interest at a rate of 18 percent per year beginning on the date of such noncompliance.
+&emsp;Each agreement entered into with a student pursuant to paragraph (1) shall provide that, if the student fails to comply with such agreement, the loan involved will begin to accrue interest at a rate of 2 percent per year greater than the rate at which the student would pay if compliant in such year.
 
 #### (4) Waivers
 
@@ -64,7 +64,7 @@
 
 #### (4) Noncompliance by school
 
-&emsp;(A)(i) Subject to subparagraph (C), each agreement under section 292q of this title witha school of medicine or osteopathic medicine shall provide that, if the school fails to comply with paragraph (1) for a 1-year period under such paragraph, the school—
+&emsp;(A)(i) Subject to subparagraph (C), each agreement under section 292q of this title with a school of medicine or osteopathic medicine shall provide that, if the school fails to comply with paragraph (1) for a 1-year period under such paragraph, the school—
 
 &emsp;&emsp;(I) will pay to the Secretary the amount applicable under subparagraph (B) for the period; and
 
@@ -106,7 +106,11 @@ For purposes of this section:
 
 &emsp;(5) The term “primary health care” means family medicine, general internal medicine, general pediatrics, preventive medicine, or osteopathic general practice.
 
-(July 1, 1944, ch. 373, title VII, §723, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2015; amended Pub. L. 103–43, title XX, §2014(c), June 10, 1993, 107 Stat. 216; Pub. L. 105–392, title I, §131, Nov. 13, 1998, 112 Stat. 3574.)
+#### (d) Sense of Congress
+
+It is the sense of Congress that funds repaid under the loan program under this section should not be transferred to the Treasury of the United States or otherwise used for any other purpose other than to carry out this section.
+
+(July 1, 1944, ch. 373, title VII, §723, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2015; amended Pub. L. 103–43, title XX, §2014(c), June 10, 1993, 107 Stat. 216; Pub. L. 105–392, title I, §131, Nov. 13, 1998, 112 Stat. 3574; Pub. L. 111–148, title V, §5201(a), Mar. 23, 2010, 124 Stat. 606.)
 
 #### References in Text
 
@@ -118,7 +122,13 @@ A prior section 723 of act July 1, 1944, was classified to section 293c of this 
 
 #### Amendments
 
-1998—Subsec. (a)(3). Pub. L. 105–392, §131(b), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “Each agreement entered into with a student pursuant to paragraph (1) shall provide that, if the student fails to comply with the agreement—
+<b>2010</b>—Subsec. (a)(1)(B). Pub. L. 111–148, §5201(a)(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “to practice in such care through the date on which the loan is repaid in full.”
+
+Subsec. (a)(3). Pub. L. 111–148, §5201(a)(1)(B), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “Each agreement entered into with a student pursuant to paragraph (1) shall provide that, if the student fails to comply with such agreement, the loan involved will begin to accrue interest at a rate of 18 percent per year beginning on the date of such noncompliance.”
+
+Subsec. (d). Pub. L. 111–148, §5201(a)(2), added subsec. (d).
+
+<b>1998</b>—Subsec. (a)(3). Pub. L. 105–392, §131(b), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “Each agreement entered into with a student pursuant to paragraph (1) shall provide that, if the student fails to comply with the agreement—
 
 &emsp;“(A) the balance due on the loan involved will be immediately recomputed from the date of issuance at an interest rate of 12 percent per year, compounded annually; and
 
@@ -128,13 +138,17 @@ Subsec. (b)(1). Pub. L. 105–392, §131(a), substituted “4 years before” fo
 
 Subsecs. (c), (d). Pub. L. 105–392, §131(c), redesignated subsec. (d) as (c) and struck out heading and text of subsec. (c). Text read as follows: “The Secretary shall each fiscal year submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate, a report regarding the administration of this section, including the extent of compliance with the requirements of this section, during the preceding fiscal year.”
 
-1993—Subsec. (a)(4). Pub. L. 103–43, §2014(c)(1), added par. (4).
+<b>1993</b>—Subsec. (a)(4). Pub. L. 103–43, §2014(c)(1), added par. (4).
 
 Subsec. (b)(1). Pub. L. 103–43, §2014(c)(2)(A), substituted “1997;” for “1994,” and “3 years before” for “4 years before”.
 
 Subsec. (b)(2)(B). Pub. L. 103–43, §2014(c)(2)(B), substituted “25 percent” for “15 percent”.
 
 Subsec. (b)(4)(B). Pub. L. 103–43, §2014(c)(2)(C), substituted “1997” for “1994” in cl. (i) and “1998” for “1995” in cl. (ii).
+
+#### Student Loan Guidelines
+
+Pub. L. 111–148, title V, §5201(b), Mar. 23, 2010, 124 Stat. 607, provided that: “The Secretary of Health and Human Services shall not require parental financial information for an independent student to determine financial need under section 723 of the Public Health Service Act (42 U.S.C. 292s) and the determination of need for such information shall be at the discretion of applicable school loan officer. The Secretary shall amend guidelines issued by the Health Resources and Services Administration in accordance with the preceding sentence.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

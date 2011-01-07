@@ -34,7 +34,7 @@ Offenses.—A person who—
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–294 designated first and second pars. beginning with quotation mark as pars. (1) and (2), respectively, and made technical amendment to provisions appearing in original.
+<b>1996</b>—Subsec. (a). Pub. L. 104–294 designated first and second pars. beginning with quotation mark as pars. (1) and (2), respectively, and made technical amendment to provisions appearing in original.
 
 #### Effective Date of 1996 Amendment
 

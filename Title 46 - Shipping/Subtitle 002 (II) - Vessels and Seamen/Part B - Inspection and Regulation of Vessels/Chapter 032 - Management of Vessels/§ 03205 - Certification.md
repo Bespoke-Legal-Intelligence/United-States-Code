@@ -24,9 +24,9 @@ Enforcement.—At the request of the Secretary, the Secretary of Homeland Securi
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–181 amended Pub. L. 109–304, §15(10). See 2006 Amendment note below.
+<b>2008</b>—Subsec. (d). Pub. L. 110–181 amended Pub. L. 109–304, §15(10). See 2006 Amendment note below.
 
-2006—Subsec. (d). Pub. L. 109–304, §15(10), as amended by Pub. L. 110–181, substituted “Secretary of Homeland Security shall withhold or revoke the clearance required by section 60105 of this title” for “Secretary of the Treasury shall withhold or revoke the clearance required by section 4197 of the Revised Statutes (46 U.S.C. App. 91)”.
+<b>2006</b>—Subsec. (d). Pub. L. 109–304, §15(10), as amended by Pub. L. 110–181, substituted “Secretary of Homeland Security shall withhold or revoke the clearance required by section 60105 of this title” for “Secretary of the Treasury shall withhold or revoke the clearance required by section 4197 of the Revised Statutes (46 U.S.C. App. 91)”.
 
 #### Effective Date of 2008 Amendment
 

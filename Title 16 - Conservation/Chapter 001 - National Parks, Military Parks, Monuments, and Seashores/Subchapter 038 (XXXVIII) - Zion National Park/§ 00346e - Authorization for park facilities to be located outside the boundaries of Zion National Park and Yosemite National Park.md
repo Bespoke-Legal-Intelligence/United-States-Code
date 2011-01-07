@@ -14,5 +14,5 @@ In order to facilitate the administration of Zion National Park and Yosemite Nat
 
 #### Amendments
 
-2005—Pub. L. 109–131 inserted “and Yosemite National Park” after “Zion National Park” in section catchline and in introductory provisions, inserted “for transportation systems or” after “appropriated funds” in introductory provisions, and substituted “systems or facilities” for “facilities” in introductory provisions.
+<b>2005</b>—Pub. L. 109–131 inserted “and Yosemite National Park” after “Zion National Park” in section catchline and in introductory provisions, inserted “for transportation systems or” after “appropriated funds” in introductory provisions, and substituted “systems or facilities” for “facilities” in introductory provisions.
 

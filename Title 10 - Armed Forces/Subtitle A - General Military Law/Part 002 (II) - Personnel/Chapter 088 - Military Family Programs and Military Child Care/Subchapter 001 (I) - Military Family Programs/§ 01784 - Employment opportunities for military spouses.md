@@ -14,7 +14,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations—
 
 &emsp;(1) to implement such measures as the President orders under subsection (a);
 
-&emsp;(2) to provide preference to qualified spouses of members of the armed forces in hiring forany civilian position in the Department of Defense if the spouse is among persons determined to be best qualified for the position and if the position is located in the same geographical area as the permanent duty station of the member;
+&emsp;(2) to provide preference to qualified spouses of members of the armed forces in hiring for any civilian position in the Department of Defense if the spouse is among persons determined to be best qualified for the position and if the position is located in the same geographical area as the permanent duty station of the member;
 
 &emsp;(3) to ensure that notice of any vacant position in the Department of Defense is provided in a manner reasonably designed to reach spouses of members of the armed forces whose permanent duty stations are in the same geographic area as the area in which the position is located; and
 
@@ -48,7 +48,7 @@ Employment With DOD Contractors.—The Secretary of Defense shall examine and se
 
 #### Amendments
 
-2001—Subsecs. (d) to (g). Pub. L. 107–107 added subsecs. (d) to (g).
+<b>2001</b>—Subsecs. (d) to (g). Pub. L. 107–107 added subsecs. (d) to (g).
 
 #### Pilot Program To Secure Internships for Military Spouses With Federal Agencies
 
@@ -98,7 +98,7 @@ Reporting Requirement.—Not later than January 1, 2012, the Secretary of Defens
 
 #### Continuation of Delegation of Authority With Respect to Hiring Preference for Qualified Military Spouses
 
-Section 568(d) of Pub. L. 104–106 provided that: “The provisions of Executive Order No. 12568, issued October 2, 1986 (10 U.S.C. 113 note) \[set out below\], shall apply as if the reference in that Executive order to section 806(a)(2) of the Department of Defense AuthorizationAct of 1986 refers to section 1784 of title 10, United States Code, as added by subsection (a).”
+Section 568(d) of Pub. L. 104–106 provided that: “The provisions of Executive Order No. 12568, issued October 2, 1986 (10 U.S.C. 113 note) \[set out below\], shall apply as if the reference in that Executive order to section 806(a)(2) of the Department of Defense Authorization Act of 1986 refers to section 1784 of title 10, United States Code, as added by subsection (a).”
 
 #### Ex. Ord. No. 12568. Employment Opportunities for Military Spouses at Nonappropriated Fund Activities
 

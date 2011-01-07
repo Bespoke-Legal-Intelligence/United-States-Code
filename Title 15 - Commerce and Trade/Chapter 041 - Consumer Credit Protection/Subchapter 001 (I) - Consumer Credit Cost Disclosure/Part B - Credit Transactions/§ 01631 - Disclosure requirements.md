@@ -16,25 +16,33 @@ The Board may provide by regulation that any portion of the information required
 
 The Board shall determine whether tolerances for numerical disclosures other than the annual percentage rate are necessary to facilitate compliance with this subchapter, and if it determines that such tolerances are necessary to facilitate compliance, it shall by regulation permit disclosures within such tolerances. The Board shall exercise its authority to permit tolerances for numerical disclosures other than the annual percentage rate so that such tolerances are narrow enough to prevent such tolerances from resulting in misleading disclosures or disclosures that circumvent the purposes of this subchapter.
 
-(Pub. L. 90–321, title I, §121, May 29, 1968, 82 Stat. 152; Pub. L. 93–495, title III, §307(c), (d), title IV, §409, Oct. 28, 1974, 88 Stat. 1516, 1519; Pub. L. 94–205, §11, Jan. 2, 1976, 89 Stat. 1159; Pub. L. 96–221, title VI, §611, Mar. 31, 1980, 94 Stat. 174; Pub. L. 104–29, §3(b), Sept. 30, 1995, 109 Stat. 273.)
+(Pub. L. 90–321, title I, §121, May 29, 1968, 82 Stat. 152; Pub. L. 93–495, title III, §307(c), (d), title IV,§409, Oct. 28, 1974, 88 Stat. 1516, 1519; Pub. L. 94–205, §11, Jan. 2, 1976, 89 Stat. 1159; Pub. L. 96–221, title VI, §611, Mar. 31, 1980, 94 Stat. 174; Pub. L. 104–29, §3(b), Sept. 30, 1995, 109 Stat. 273; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-1995—Subsec. (c). Pub. L. 104–29 inserted at end “In the case of any consumer credit transaction a portion of the interest on which is determined on a per diem basis and is to be collected upon the consummation of such transaction, any disclosure with respect to such portion of interest shall be deemed to be accurate for purposes of this subchapter if the disclosure is based on information actually known to the creditor at the time that the disclosure documents are being prepared for the consummation of the transaction.”
+<b>1995</b>—Subsec. (c). Pub. L. 104–29 inserted at end “In the case of any consumer credit transaction a portion of the interest on which is determined on a per diem basis and is to be collected upon the consummation of such transaction, any disclosure with respect to such portion of interest shall be deemed to be accurate for purposes of this subchapter if the disclosure is based on information actually known to the creditor at the time that the disclosure documents are being prepared for the consummation of the transaction.”
 
-1980—Subsec. (a). Pub. L. 96–221 substituted provisions respecting to which obligor duty of creditor or lessor, where one or more than one obligor is involved, is owed, for provisions setting forth clear and conspicuous disclosure requirements for creditors to persons extended consumer credit.
+<b>1980</b>—Subsec. (a). Pub. L. 96–221 substituted provisions respecting to which obligor duty of creditor or lessor, where one or more than one obligor is involved, is owed, for provisions setting forth clear and conspicuous disclosure requirements for creditors to persons extended consumer credit.
 
 Subsec. (b). Pub. L. 96–221 substituted provisions relating to disclosure requirements of creditor or lessor, for provisions relating to statement of information where more than one obligor is involved.
 
 Subsecs. (c), (d). Pub. L. 96–221 added subsecs. (c) and (d).
 
-1976—Subsec. (c). Pub. L. 94–205 struck out subsec. (c) which related to disclosure including a full statement of closing costs incurred and permitted estimates of such information where the lender was not in a position to know exact information.
+<b>1976</b>—Subsec. (c). Pub. L. 94–205 struck out subsec. (c) which related to disclosure including a full statement of closing costs incurred and permitted estimates of such information where the lender was not in a position to know exact information.
 
-1974—Subsec. (a). Pub. L. 93–495, §307(c), inserted reference to part D of this subchapter and struck out “and upon whom a finance charge is or may be imposed” after “extended”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–495, §307(c), inserted reference to part D of this subchapter and struck out “and upon whom a finance charge is or may be imposed” after “extended”.
 
 Subsec. (b). Pub. L. 93–495, §307(d), inserted reference to part D of this subchapter.
 
 Subsec. (c). Pub. L. 93–495, §409, added subsec (c).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1980 Amendment
 

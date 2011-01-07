@@ -14,13 +14,13 @@
 
 &emsp;(C) considering appeals from such recommendations, nominations, removals, and designations (or any failure or refusal by a nominating authority to nominate or designate);
 
-&emsp;(D) nominating historic properties for inclusion in the World Heritage List in accordance with the terms of the Convention concerningthe Protection of the World Cultural and Natural Heritage;
+&emsp;(D) nominating historic properties for inclusion in the World Heritage List in accordance with the terms of the Convention concerning the Protection of the World Cultural and Natural Heritage;
 
 &emsp;(E) making determinations of eligibility of properties for inclusion on the National Register; and
 
 &emsp;(F) notifying the owner of a property, any appropriate local governments, and the general public, when the property is being considered for inclusion on the National Register, for designation as a National Historic Landmark or for nomination to the World Heritage List.
 
-(3) Subject to the requirements of paragraph (6), any State which is carrying out a program approved under subsection (b) of this section, shall nominate to the Secretary properties which meet the criteria promulgated under subsection (a) of this section for inclusion on the National Register. Subject to paragraph (6), any property nominated under this paragraph or under section 470h–2(a)(2) of this title shall be included on the National Register on the date forty-five days after receipt by the Secretary of the nomination and the necessary documentation, unless the Secretary disapproves such nomination within such forty-five day period or unless an appeal is filed under paragraph (5).
+(3) Subject to the requirements of paragraph (6), any State which is carrying out a program approved under subsection (b) of this section, shall nominate to the Secretary properties which meet the criteria promulgated under subsection (a) of this section for inclusion on the National Register. Subject to paragraph (6), any property nominated under this paragraph or under section 470h–2(a)(2) of this title shall beincluded on the National Register on the date forty-five days after receipt by the Secretary of the nomination and the necessary documentation, unless the Secretary disapproves such nomination within such forty-five day period or unless an appeal is filed under paragraph (5).
 
 (4) Subject to the requirements of paragraph (6) the Secretary may accept a nomination directly from any person or local government for inclusion of a property on the National Register only if such property is located in a State where there is no program approved under subsection (b) of this section. The Secretary may include on the National Register any property for which such a nomination is made if he determines that such property is eligible in accordance with the regulations promulgated under paragraph (2). Such determination shall be made within ninety days from the date of the nomination unless the nomination is appealed under paragraph (5).
 
@@ -222,7 +222,7 @@
 
 (2) The Secretary may administer grants to the National Trust for Historic Preservation in the United States, chartered by sections 468 to 468d of this title consistent with the purposes of its charter and this subchapter.
 
-(3)(A) In addition to the programs under paragraphs (1) and (2), the Secretary shall administer a program of direct grants for the preservation of properties included on the National Register. Funds to support such program annually shall not exceed 10 per centum of the amount appropriated annually for the fund established under section 470h of this title. These grants may be made by the Secretary, in consultation with the appropriate State Historic Preservation Officer—
+(3)(A) In addition to the programs under paragraphs (1) and (2), the Secretary shall administer a program of direct grants for the preservation of properties included on the National Register. Funds to support such program annually shall not exceed 10 per centum of the amount appropriated annually for the fund established under section 470h of this title. These grants may be made by the Secretary, in consultationwith the appropriate State Historic Preservation Officer—
 
 &emsp;(i) for the preservation of National Historic Landmarks which are threatened with demolition or impairment and for the preservation of historic properties of World Heritage significance,
 
@@ -298,7 +298,7 @@ The Joint Resolution entitled “Joint Resolution to approve the ‘Compact of F
 
 #### Amendments
 
-2000—Subsec. (d)(2)(D)(ii). Pub. L. 106–208, §5(a)(1), inserted “and” after semicolon.
+<b>2000</b>—Subsec. (d)(2)(D)(ii). Pub. L. 106–208, §5(a)(1), inserted “and” after semicolon.
 
 Subsec. (e)(2). Pub. L. 106–208, §5(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall administer a program of matching grant-in-aid to the National Trust for Historic Preservation in the United States, chartered by sections 468 to 468e of this title, for the purposes of carrying out the responsibilities of the National Trust.”
 
@@ -306,13 +306,13 @@ Subsec. (e)(3)(A)(iii). Pub. L. 106–208, §5(a)(3), substituted comma for semi
 
 Subsec. (j)(2)(C). Pub. L. 106–208, §5(a)(4), inserted “and” after semicolon at end.
 
-1999—Subsec. (a)(1)(A). Pub. L. 106–113 inserted at end “Notwithstanding section 1125(c) of title 15, buildings and structures on or eligible for inclusion on the National Register of Historic Places (either individually or as part of a historic district), or designated as an individual landmark or as a contributing building in a historic district by a unit of State or local government, may retain the name historically associated with the building or structure.”
+<b>1999</b>—Subsec. (a)(1)(A). Pub. L. 106–113 inserted at end “Notwithstanding section 1125(c) of title 15, buildings and structures on or eligible for inclusion on the National Register of Historic Places (either individually or as part of a historic district), or designated as an individual landmark or as a contributing building in a historic district by a unit of State or local government, may retain the name historically associated with the building or structure.”
 
-1996—Subsec. (a)(1)(B). Pub. L. 104–333 inserted period after “published in the Federal Register” and struck out at end “and submitted to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Natural Resources of the United States House of Representatives.”
+<b>1996</b>—Subsec. (a)(1)(B). Pub. L. 104–333 inserted period after “published in the Federal Register” and struck out at end “and submitted to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Natural Resources of the United States House of Representatives.”
 
-1994—Subsec. (a)(1)(B). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (a)(1)(B). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
-1992—Subsec. (a)(8). Pub. L. 102–575, §4003, added par. (8).
+<b>1992</b>—Subsec. (a)(8). Pub. L. 102–575, §4003, added par. (8).
 
 Subsec. (b)(2). Pub. L. 102–575, §4004(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Periodically, but not less than every four years after the approval of any State program under this subsection, the Secretary shall evaluate such program to make a determination as to whether or not it is in compliance with the requirements of this subchapter. If at any time, the Secretary determines that a State program does not comply with such requirements, he shall disapprove such program, and suspend in whole or in part assistance to such State under subsection (d)(1) of this section, unless there are adequate assurances that the program will comply with such requirements within a reasonable period of time. The Secretary may also conduct periodic fiscal audits of State programs approved under this section.”
 
@@ -334,7 +334,7 @@ Subsecs. (f) to (i). Pub. L. 102–575, §4006(a)(1), redesignated subsecs. (e) 
 
 Subsec. (j). Pub. L. 102–575, §4008, added subsec. (j).
 
-1980—Subsec. (a). Pub. L. 96–515 substituted provision designating certain properties as National Historical Landmarks, providing for establishment by the Secretary of the Interior of criteria for inclusion on or removal from the National Register, designation of properties as National Historical Landmarks and removal of such designation, and nomination of properties for inclusion in the World Heritage List, authorizing any State, local government, or person to nominate properties for inclusion on the National Register and to appeal a nomination or refusal to nominate, requiring that before property be included on the National Register or designated as a National Historic Landmark, the owner or owners of the property be given an opportunity to concur in, or object to, its inclusion, and authorizing the Secretary to promulgate regulations to ensure that significant prehistoric and historic artifacts and records receive proper treatment, to establish standards for documenting historic properties for incorporation in the national historical, architectural, and engineering records within the Library of Congress, and to certify local governments for allocation of funds, for provision authorizing the Secretary to grant funds to States for preparing comprehensive statewide historic surveys and plans for preservation and acquisition of historic properties, to establish programs of matching grants-in-aid to States for the purpose of historical preservation and to the National Trust for Historic Preservation in the United States for the purpose of carrying out the responsibilities of the National Trust, and to withhold from disclosure to the public, information relating to the location of sites or objects listed on the National Register whenever he determines that disclosure of specific information would create a risk of destruction or harm to such sites or objects.
+<b>1980</b>—Subsec. (a). Pub. L. 96–515 substituted provision designating certain properties as National Historical Landmarks, providing for establishment by the Secretary of the Interior of criteria for inclusion on or removal from the National Register, designation of properties as National Historical Landmarks and removal of such designation, and nomination of properties for inclusion in the World Heritage List, authorizing any State, local government, or person to nominate properties for inclusion on the National Register and to appeal a nomination or refusal to nominate, requiring that before property be included on the National Register or designated as a National Historic Landmark, the owner or owners of the property be given an opportunity to concur in, or object to, its inclusion, and authorizing the Secretary to promulgate regulations to ensure that significant prehistoric and historic artifacts and records receive proper treatment, to establish standards for documenting historic properties for incorporation in the national historical, architectural, and engineering records within the Library of Congress, and to certify local governments for allocation of funds, for provision authorizing the Secretary to grant funds to States for preparing comprehensive statewide historic surveys and plans for preservation and acquisition of historic properties, to establish programs of matching grants-in-aid to States for the purpose of historical preservation and to the National Trust for Historic Preservation in the United States for the purpose of carrying out the responsibilities of the National Trust, and to withhold from disclosure to the public, information relating to the location of sites or objects listed on the National Register whenever he determines that disclosure of specific information would create a risk of destruction or harm to such sites or objects.
 
 Pub. L. 96–205, §608(a)(1), in par. (2) struck out “and” after “culture;”, and in par. (3) substituted “Trust; and” for “Trust.”.
 
@@ -344,9 +344,9 @@ Pub. L. 96–205, §608(a)(2), inserted reference to the Commonwealth of the Nor
 
 Subsecs. (c) to (h). Pub. L. 96–515 added subsecs. (c) to (h).
 
-1976—Subsec. (a)(4). Pub. L. 91–383, §11, as added Pub. L. 94–458, §2, added par. (4).
+<b>1976</b>—Subsec. (a)(4). Pub. L. 91–383, §11, as added Pub. L. 94–458, §2, added par. (4).
 
-1973—Subsec. (b)(1). Pub. L. 93–54 defined “State” to include the Trust Territory of the Pacific Islands.
+<b>1973</b>—Subsec. (b)(1). Pub. L. 93–54 defined “State” to include the Trust Territory of the Pacific Islands.
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -442,7 +442,7 @@ Partial term.—A member appointed to fill a vacancy on the Commission shall ser
 
 &emsp;&emsp;&emsp;“(iii)
 
-Continuation of membership.—If a member of the Commission was appointed to the Commission as Mayor of the city of St. Augustine or as an employee of the National Park Service orthe State University System of Florida, and ceases to hold such position, that member may continue to serve on the Commission for not longer than the 30-day period beginning on the date on which that member ceases to hold the position.
+Continuation of membership.—If a member of the Commission was appointed to the Commission as Mayor of the city of St. Augustine or as an employee of the National Park Service or the State University System of Florida, and ceases to hold such position, that member may continue to serve on the Commission for not longer than the 30-day period beginning on the date on which that member ceases to hold the position.
 
 &emsp;“(3)
 
@@ -614,7 +614,7 @@ Procurement of temporary and intermittent services.—The Chairperson of the Com
 
 &emsp;“(7)
 
-Volunteer and uncompensated services.—Notwithstanding section 1342 of title 31, UnitedStates Code, the Commission may accept and use such voluntary and uncompensated services as the Commission determines to be necessary.
+Volunteer and uncompensated services.—Notwithstanding section 1342 of title 31, United States Code, the Commission may accept and use such voluntary and uncompensated services as the Commission determines to be necessary.
 
 &emsp;“(8)
 
@@ -776,7 +776,7 @@ Chairperson and Vice Chairperson.—The Commission shall select a Chairperson an
 
 #### “SEC. 4. DUTIES OF THE COMMISSION.
 
-“Not later than 1 year after the initial meeting of the Commission, the Commission, in cooperation with the Secretary of the Interior and other appropriate Federal, State, and local public and private entities, shallprepare and submit to the Secretary of the Interior a report that—
+“Not later than 1 year after the initial meeting of the Commission, the Commission, in cooperation with the Secretary of the Interior and other appropriate Federal, State, and local public and private entities, shall prepare and submit to the Secretary of the Interior a report that—
 
 &emsp;“(1) identifies sites of historical significance to the women's movement; and
 
@@ -878,7 +878,7 @@ Funding Provision.—
 
 &emsp;“(1)
 
-In general.—Under section 108 of the National Historic Preservation Act \[16 U.S.C. 470h\], $29,000,000 shall be made available to carry out the purposes of this section. Of amounts made available pursuant to this section, $5,000,000 shall be available for grants to Fisk University, $2,500,000 shall be available forgrants to Knoxville College, $2,000,000 shall be available for grants to Miles College, Alabama, $1,500,000 shall be available for grants to Talladega College, Alabama, $1,550,000 shall be available for grants to Selma University, Alabama, $250,000 shall be available for grants to Stillman College, Alabama, $200,000 shall be available for grants to Concordia College, Alabama, $2,900,000 shall be available for grants to Allen University, South Carolina, $1,000,000 shall be available for grants to Claflin College, South Carolina, $2,000,000 shall be available for grants to Voorhees College, South Carolina, $1,000,000 shall be available for grants to Rust College, Mississippi, and $3,000,000 shall be available for grants to Tougaloo College, Mississippi.
+In general.—Under section 108 of the National Historic Preservation Act \[16 U.S.C. 470h\], $29,000,000 shall be made available to carry out the purposes of this section. Of amounts made available pursuant to this section, $5,000,000 shall be available for grants to Fisk University, $2,500,000 shall be available for grants to Knoxville College, $2,000,000 shall be available for grants to Miles College, Alabama, $1,500,000 shall be available for grants to Talladega College, Alabama, $1,550,000 shall be available for grants to Selma University, Alabama, $250,000 shall be available for grants to Stillman College, Alabama, $200,000 shall be available for grants to Concordia College, Alabama, $2,900,000 shall be available for grants to Allen University, South Carolina, $1,000,000 shall be available for grants to Claflin College, South Carolina, $2,000,000 shall be available for grants to Voorhees College, South Carolina, $1,000,000 shall be available for grants to Rust College, Mississippi, and $3,000,000 shall be available for grants to Tougaloo College, Mississippi.
 
 &emsp;“(2)
 

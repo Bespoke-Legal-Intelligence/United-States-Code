@@ -16,7 +16,7 @@ Except as provided in subsection (c)(1) of this section, any individual—
 
 &emsp;(A) files an election for such enrollment; and
 
-&emsp;(B) arranges to pay currently into the Employees Health Benefits Fund under section 8909 of title 5 an amount equal to the sum of the employee and agency contributions payable in the case of an employee enrolled underchapter 89 of such title in the same health benefits plan and with the same level of benefits.
+&emsp;(B) arranges to pay currently into the Employees Health Benefits Fund under section 8909 of title 5 an amount equal to the sum of the employee and agency contributions payable in the case of an employee enrolled under chapter 89 of such title in the same health benefits plan and with the same level of benefits.
 
 (2) The Secretary shall, as soon as possible, take all steps practicable—
 

@@ -82,7 +82,7 @@ The Administrator shall establish a program to be known as the Federal and State
 
 &emsp;In making awards or entering into cooperative agreements under this section, the Administrator and the SBIR program managers referred to in paragraph (1)—
 
-&emsp;&emsp;(A) may only consider proposals by applicants that intend to use a portion of the Federal assistance provided under this section to provide outreach, financial support, or technical assistance to technology-based small business concerns participating in or interested in participating in the SBIR program; and
+&emsp;&emsp;(A) may only consider proposals by applicants that intend to use a portion of the Federal assistance provided under this section to provide outreach, financial support,or technical assistance to technology-based small business concerns participating in or interested in participating in the SBIR program; and
 
 &emsp;&emsp;(B) shall consider, at a minimum—
 
@@ -200,7 +200,7 @@ In carrying out the FAST program under this section, the Administrator shall coo
 
 #### (2) Report
 
-&emsp;During the first quarter of fiscal year 2004, the Inspector General of the Administration shall submit a report to the Committee on Small Business of the Senate and the Committee on Science and the Committee on SmallBusiness of the House of Representatives on the review conducted under paragraph (1).
+&emsp;During the first quarter of fiscal year 2004, the Inspector General of the Administration shall submit a report to the Committee on Small Business of the Senate and the Committee on Science and the Committee on Small Business of the House of Representatives on the review conducted under paragraph (1).
 
 #### (h) Program levels
 
@@ -228,7 +228,7 @@ A prior section 2\[34\] of Pub. L. 85–536 was renumbered section 2\[44\] and i
 
 #### Amendments
 
-2001—Subsec. (c)(2)(B)(vi). Pub. L. 107–50, §8(a), added cl. (vi).
+<b>2001</b>—Subsec. (c)(2)(B)(vi). Pub. L. 107–50, §8(a), added cl. (vi).
 
 Subsec. (c)(4). Pub. L. 107–50, §8(b), inserted at end “The Administrator shall promulgate regulations establishing standards for the consideration of proposals under paragraph (2), including standards regarding each of the considerations identified in paragraph (2)(B).”
 

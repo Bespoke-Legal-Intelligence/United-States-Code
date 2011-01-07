@@ -30,7 +30,7 @@ A prior section 2502 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-1988—Par. (9). Pub. L. 100–690 made technical amendment to reference to section 300ee–2 of this title to correct reference to corresponding provision of original act.
+<b>1988</b>—Par. (9). Pub. L. 100–690 made technical amendment to reference to section 300ee–2 of this title to correct reference to corresponding provision of original act.
 
 #### Effective Date of 1988 Amendment
 

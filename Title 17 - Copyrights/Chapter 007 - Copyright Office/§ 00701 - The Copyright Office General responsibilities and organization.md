@@ -14,7 +14,7 @@
 
 &emsp;(5) Perform such other functions as Congress may direct, or as may be appropriate in furtherance of the functions and duties specifically set forth in this title.
 
-(c) The Register of Copyrights shall adopt a seal to be used on and after January 1, 1978, to authenticate all certified documents issued by the Copyright Office.
+(c) The Register of Copyrights shall adopt a seal to be used on and after January 1, 1978, toauthenticate all certified documents issued by the Copyright Office.
 
 (d) The Register of Copyrights shall make an annual report to the Librarian of Congress of the work and accomplishments of the Copyright Office during the previous fiscal year. The annual report of the Register of Copyrights shall be published separately and as a part of the annual report of the Librarian of Congress.
 
@@ -30,11 +30,11 @@ The Administrative Procedure Act of June 11, 1946, referred to in subsec. (e), w
 
 #### Amendments
 
-1998—Subsecs. (b) to (e). Pub. L. 105–304, §401(b)(1), added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively. Former subsec. (e) redesignated (f).
+<b>1998</b>—Subsecs. (b) to (e). Pub. L. 105–304, §401(b)(1), added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively. Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 105–304 redesignated subsec. (e) as (f) and substituted “III” for “IV” and “5314” for “5315” in first sentence.
 
-1990—Subsec. (e). Pub. L. 101–319 added subsec. (e).
+<b>1990</b>—Subsec. (e). Pub. L. 101–319 added subsec. (e).
 
 #### Effective Date of 1990 Amendment
 
@@ -54,5 +54,5 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### National Commission on New Technological Uses of Copyrighted Works
 
-Pub. L. 93–573, title II, §§201–208, Dec. 31, 1974, 88 Stat. 1873–1875, as amended by Pub. L. 94–314, June 21, 1976, 90Stat. 692; Pub. L. 95–146, Oct. 28, 1977, 91 Stat. 1226, created in the Library of Congress a National Commission on New Technological Uses of Copyrighted Works to study and compile data on (1) the reproduction and use of copyrighted works of authorship (A) in conjunction with automatic systems capable of storing, processing, retrieving, and transferring information, and (B) by various forms of machine reproduction, not including reproduction by or at the request of instructors for use in face-to-face teaching activities, and (2) the creation of new works by the application or intervention of such automatic systems or machine reproduction, required the Commission to submit a final report to the President and Congress on or before July 31, 1978, and provided that the Commission terminated the sixtieth day after submitting the final report.
+Pub. L. 93–573, title II, §§201–208, Dec. 31, 1974, 88 Stat. 1873–1875, as amended by Pub. L. 94–314, June 21, 1976, 90 Stat. 692; Pub. L. 95–146, Oct. 28, 1977, 91 Stat. 1226, created in the Library of Congress a National Commission on New Technological Uses of Copyrighted Works to study and compile data on (1) the reproduction and use of copyrighted works of authorship (A) in conjunction with automatic systems capable of storing, processing, retrieving, and transferring information, and (B) by various forms of machine reproduction, not including reproduction by or at the request of instructors for use in face-to-face teaching activities, and (2) the creation of new works by the application or intervention of such automatic systems or machine reproduction, required the Commission to submit a final report to the President and Congress on or before July 31, 1978, and provided that the Commission terminated the sixtieth day after submitting the final report.
 

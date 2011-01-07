@@ -14,11 +14,11 @@ A prior section 300aaa–2, act July 1, 1944, ch. 373, title XXVII, §2703, form
 
 A prior section 300aaa–3, act July 1, 1944, ch. 373, title XXVII, §2704, formerly title V, §506, 58 Stat. 710, as amended, which related to transportation of remains of officers, was renumbered section 234 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238c of this title.
 
-A prior section 300aaa–4, act July 1, 1944, ch. 373, title XXVII, §2705, formerly title V, §507, as added June 24,1967, Pub. L. 90–31, §5, 81 Stat. 79, and amended, which related to availability of appropriations for grants to Federal institutions, was renumbered section 235 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238d of this title.
+A prior section 300aaa–4, act July 1, 1944, ch. 373, title XXVII, §2705, formerly title V, §507, as added June 24, 1967, Pub. L. 90–31, §5, 81 Stat. 79, and amended, which related to availability of appropriations for grants to Federal institutions, was renumbered section 235 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238d of this title.
 
 A prior section 300aaa–5, act July 1, 1944, ch. 373, title XXVII, §2706, formerly title V, §508, 58 Stat. 711, as amended, which related to transfer of funds for continuance of transferred functions, was renumbered section 236 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238e of this title.
 
-A prior section 300aaa–6, act July 1, 1944, ch. 373, title XXVII, §2707, formerly title V, §509, 58 Stat. 711, as amended, which related to availability of appropriations, was renumbered section 237 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238f of this title.
+A prior section 300aaa–6, act July 1, 1944, ch. 373, title XXVII, §2707, formerly title V, §509, 58 Stat. 711, asamended, which related to availability of appropriations, was renumbered section 237 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238f of this title.
 
 A prior section 300aaa–7, act July 1, 1944, ch. 373, title XXVII, §2708, formerly title V, §510, 58 Stat. 711, as amended, which related to wearing of uniforms, was renumbered section 238 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238g of this title.
 
@@ -33,6 +33,4 @@ A prior section 300aaa–11, act July 1, 1944, ch. 373, title XXVII, §2712, for
 A prior section 300aaa–12, act July 1, 1944, ch. 373, title XXVII, §2713, formerly title V, §515, formerly Pub. L. 88–164, title II, §225, as added Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 326, and amended, which related to recovery by United States of base amount plus interest in certain circumstances, was renumbered section 243 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238<i>l</i> of this title.
 
 A prior section 300aaa–13, act July 1, 1944, ch. 373, title XXVII, §2714, formerly title XXI, §2116, as added Apr. 7, 1986, Pub. L. 99–272, title XVII, §17003, 100 Stat. 359, and amended, which related to use of fiscal agents, was renumbered section 244 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238m of this title.
-
-&nbsp;
 

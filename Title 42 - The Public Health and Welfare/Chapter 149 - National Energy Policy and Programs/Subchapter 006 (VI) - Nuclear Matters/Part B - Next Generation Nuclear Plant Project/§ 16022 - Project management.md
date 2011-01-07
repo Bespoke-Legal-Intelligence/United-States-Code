@@ -32,7 +32,7 @@
 
 #### (C) Preference
 
-&emsp;&emsp;Preference in determining the final structure of the consortium or any partnerships under this part shall be given to a structure (including designating as a lead industrial partner an entity incorporated in the United States) that retains United States technological leadership in the Project while maximizing cost sharing opportunities and minimizing Federal funding responsibilities.
+&emsp;&emsp;Preference in determining the final structure of the consortium or any partnerships under this part shall be given to a structure (including designating as a lead industrialpartner an entity incorporated in the United States) that retains United States technological leadership in the Project while maximizing cost sharing opportunities and minimizing Federal funding responsibilities.
 
 #### (3) Prototype plant siting
 

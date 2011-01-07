@@ -12,9 +12,9 @@ If—
 
 #### Amendments
 
-1996—Pub. L. 104–188 substituted “this section” for “this subsection”.
+<b>1996</b>—Pub. L. 104–188 substituted “this section” for “this subsection”.
 
-1989—Pub. L. 101–239 amended section generally. Prior to amendment, section read as follows: “If any tax required under this chapter to be deducted and withheld is paid by the recipient of the income, it shall not be re-collected from the withholding agent; nor in cases in which the tax is so paid shall any penalty be imposed on or collected from the recipient of the income or the withholding agent for failure to return or pay the same, unless such failure was fraudulent and for the purpose of evading payment.”
+<b>1989</b>—Pub. L. 101–239 amended section generally. Prior to amendment, section read as follows: “If any tax required under this chapter to be deducted and withheld is paid by the recipient of the income, it shall not be re-collected from the withholding agent; nor in cases in which the tax is so paid shall any penalty be imposed on or collected from the recipient of the income or the withholding agent for failure to return or pay the same, unless such failure was fraudulent and for the purpose of evading payment.”
 
 #### Effective Date of 1989 Amendment
 

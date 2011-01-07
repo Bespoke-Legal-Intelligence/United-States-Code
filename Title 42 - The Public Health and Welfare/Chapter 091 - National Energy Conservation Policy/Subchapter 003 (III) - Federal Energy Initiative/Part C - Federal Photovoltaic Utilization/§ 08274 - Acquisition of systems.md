@@ -6,5 +6,5 @@ The program established by section 8272 of this title shall provide for the acqu
 
 #### Amendments
 
-1980—Pub. L. 96–294 inserted provisions relating to acquisition of systems and associated capability by Federal agencies and inserted “(or other Federal agency acting under delegation from the Secretary)”.
+<b>1980</b>—Pub. L. 96–294 inserted provisions relating to acquisition of systems and associated capability by Federal agencies and inserted “(or other Federal agency acting under delegation from the Secretary)”.
 

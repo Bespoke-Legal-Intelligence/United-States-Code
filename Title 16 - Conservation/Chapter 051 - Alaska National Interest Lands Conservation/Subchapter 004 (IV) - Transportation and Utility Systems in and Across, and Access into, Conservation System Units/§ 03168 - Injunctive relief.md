@@ -6,7 +6,7 @@ No court shall have jurisdiction to grant any injunctive relief lasting longer t
 
 #### Amendments
 
-1984—Pub. L. 98–620 redesignated subsec. (c) as entire section, and struck out subsecs. (a) and (b), which had related, respectively, to Congressional intent concerning, and time periods for, expedited judicial review.
+<b>1984</b>—Pub. L. 98–620 redesignated subsec. (c) as entire section, and struck out subsecs. (a) and (b), which had related, respectively, to Congressional intent concerning, and time periods for, expedited judicial review.
 
 #### Effective Date of 1984 Amendment
 

@@ -34,5 +34,5 @@ The words “is eligible for membership . . . only if” are substituted for �
 
 #### Amendments
 
-2002—Par. (3). Pub. L. 107–242 added par. (3).
+<b>2002</b>—Par. (3). Pub. L. 107–242 added par. (3).
 

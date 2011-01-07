@@ -14,7 +14,7 @@
 
 &emsp;(5) give a preference to an individual eligible for a preference in the executive branch of the United States Government in a way and to an extent consistent with a preference given an individual in the executive branch; and
 
-&emsp;(6) provide that the Comptroller General shall fix the basic pay of officers and employees of the Office not fixed by law, consistent with section 5301 of title 5, except as providedunder subsection (c)(3) of this section and section 733(a)(3)(B) of this title.
+&emsp;(6) provide that the Comptroller General shall fix the basic pay of officers and employees of the Office not fixed by law, consistent with section 5301 of title 5, except as provided under subsection (c)(3) of this section and section 733(a)(3)(B) of this title.
 
 (c) Under the personnel management system—
 
@@ -22,7 +22,7 @@
 
 &emsp;(2) except as provided in clause (4) of this subsection and section 733(a)(3)(A) of this title, the highest basic pay rate under the pay schedule may not be more than the rate for level III of the Executive Level, except that the total amount of cash compensation in any year shall be subject to the limitations provided under section 5307(a)(1) of title 5;
 
-&emsp;(3) except as provided under section 733(a)(3)(B) of this title, basic rates of officers and employees of the Office shall be adjusted annually to such extent as determined by the Comptroller General, and in making that determination the Comptroller General shall consider—
+&emsp;(3) except as provided under section 733(a)(3)(B) of this title, basic rates of officers and employees of the Office shall be adjustedannually to such extent as determined by the Comptroller General, and in making that determination the Comptroller General shall consider—
 
 &emsp;&emsp;(A) the principle that equal pay should be provided for work of equal value within each local pay area;
 
@@ -130,13 +130,13 @@
 
 (j)(1) For purposes of this subsection—
 
-&emsp;(A) the term “pay increase”, as used with respect to an officer or employee in connection with a year, means the total increase in the rate of basic pay (expressed as a percentage) ofsuch officer or employee, taking effect under section 731(b) and subsection (c)(3) in such year;
+&emsp;(A) the term “pay increase”, as used with respect to an officer or employee in connection with a year, means the total increase in the rate of basic pay (expressed as a percentage) of such officer or employee, taking effect under section 731(b) and subsection (c)(3) in such year;
 
 &emsp;(B) the term “required minimum percentage”, as used with respect to an officer or employee in connection with a year, means the percentage equal to the total increase in rates of basic pay (expressed as a percentage) taking effect under sections 5303 and 5304–5304a of title 5 in such year with respect to General Schedule positions within the pay locality (as defined by section 5302(5) of title 5) in which the position of such officer or employee is located;
 
 &emsp;(C) the term “covered officer or employee”, as used with respect to a pay increase, means any individual—
 
-&emsp;&emsp;(i) who is an officer or employee of the Government Accountability Office, other than an officer or employee described in subparagraph (A), (B), or (C) of section 4(c)(1) of the Government Accountability Office Act of 2008, determined as of the effective date of such pay increase; and
+&emsp;&emsp;(i) who is an officer or employee of the Government Accountability Office, otherthan an officer or employee described in subparagraph (A), (B), or (C) of section 4(c)(1) of the Government Accountability Office Act of 2008, determined as of the effective date of such pay increase; and
 
 &emsp;&emsp;(ii) whose performance is at least at a satisfactory level, as determined by the Comptroller General under the provisions of subsection (c)(3) for purposes of the adjustment taking effect under such provisions in such year; and
 
@@ -234,11 +234,11 @@ Section 4(c)(1) of the Government Accountability Office Act of 2008, referred to
 
 #### Amendments
 
-2008—Subsec. (c)(2). Pub. L. 110–323, §8, substituted “rate for level III of the Executive Level, except that the total amount of cash compensation in any year shall be subject to the limitations provided under section 5307(a)(1) of title 5” for “highest basic rate for GS–15”.
+<b>2008</b>—Subsec. (c)(2). Pub. L. 110–323, §8, substituted “rate for level III of the Executive Level, except that the total amount of cash compensation in any year shall be subject to the limitations provided under section 5307(a)(1) of title 5” for “highest basic rate for GS–15”.
 
 Subsec. (j). Pub. L. 110–323, §2(a), added subsec. (j).
 
-2004—Subsec. (a). Pub. L. 108–271, §8(b), substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–271, §8(b), substituted “Government Accountability Office” for “General Accounting Office”.
 
 Subsec. (b)(6). Pub. L. 108–271, §3(c), substituted “title 5, except as provided under subsection (c)(3) of this section and section 733(a)(3)(B) of this title” for “title 5”.
 
@@ -254,21 +254,21 @@ Subsec. (h)(3)(A). Pub. L. 108–271, §12, substituted “reduction in force”
 
 Subsec. (i). Pub. L. 108–271, §8(b), substituted “Government Accountability Office” for “General Accounting Office”.
 
-2000—Subsec. (c)(4). Pub. L. 106–303, §4(a)(2), inserted “(including senior-level positions under section 732a of this title)” after “129 positions” and substituted “733(c) of this title and senior-level positions described in section 732a(b) of this title);” for “733(c) of this title);”.
+<b>2000</b>—Subsec. (c)(4). Pub. L. 106–303, §4(a)(2), inserted “(including senior-level positions under section 732a of this title)” after “129 positions” and substituted “733(c) of this title and senior-level positions described in section 732a(b) of this title);” for “733(c) of this title);”.
 
 Subsec. (h). Pub. L. 106–303, §3(a)(1), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Notwithstanding the provisions of subchapter I of chapter 35 of title 5, United States Code, the Comptroller General shall prescribe regulations for the release of officers and employees of the General Accounting Office in a reduction in force which give due effect to tenure of employment, military preference, performance and/or contributions to the agency's goals and objectives, and length of service. The regulations shall, to the extent deemed feasible by the Comptroller General, be designed to minimize disruption to the Office and to assist in promoting the efficiency of the Office.”
 
 Subsec. (i). Pub. L. 106–303, §3(b)(1), added subsec. (i).
 
-1995—Subsec. (h). Pub. L. 104–53 added subsec. (h).
+<b>1995</b>—Subsec. (h). Pub. L. 104–53 added subsec. (h).
 
-1990—Subsec. (b)(6). Pub. L. 101–509 substituted “5301” for “5301(a)”.
+<b>1990</b>—Subsec. (b)(6). Pub. L. 101–509 substituted “5301” for “5301(a)”.
 
-1988—Subsec. (c)(3). Pub. L. 100–426, §303, substituted “under section 733(a)(3)(B) of this title or section 5349(a) of title 5” for “in section 733(a)(3)(B) of this title”.
+<b>1988</b>—Subsec. (c)(3). Pub. L. 100–426, §303, substituted “under section 733(a)(3)(B) of this title or section 5349(a) of title 5” for “in section 733(a)(3)(B) of this title”.
 
 Subsec. (c)(4). Pub. L. 100–426, §302, substituted “129” for “119” and “the rate of basic pay payable for grade GS–18 of the General Schedule” for “the highest rate for GS–18”.
 
-1984—Subsec. (c)(4). Pub. L. 98–326 substituted “119” for “100”.
+<b>1984</b>—Subsec. (c)(4). Pub. L. 98–326 substituted “119” for “100”.
 
 #### Change of Name
 
@@ -314,7 +314,7 @@ Pub. L. 110–323, §3, Sept. 22, 2008, 122 Stat. 3540, provided that:
 
 “(a)
 
-Applicability.—This section applies in the case of any individual who, as of the date of the enactmentof this Act \[Sept. 22, 2008\], is an officer or employee of the Government Accountability Office, excluding—
+Applicability.—This section applies in the case of any individual who, as of the date of the enactment of this Act \[Sept. 22, 2008\], is an officer or employee of the Government Accountability Office, excluding—
 
 &emsp;“(1) an officer or employee described in subparagraph (A), (B), or (C) of section 4(c)(1) \[set out as a note below\]; and
 
@@ -326,7 +326,7 @@ Pay Increase Defined.—For purposes of this section, the term ‘pay increase�
 
 “(c)
 
-Prospective Effect.—Effective with respect to pay for service performed in any pay period beginning after the end of the 6-month period beginning on the date of the enactment of this Act (or such earlier date as the Comptroller General may specify), the rate of basic pay for each individual to whom this section applies shall be determined as if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, subject to subsection (e).
+Prospective Effect.—Effective with respect to pay for service performed in any pay period beginning after the end of the 6-month period beginning on the date of the enactment of this Act (or such earlier date as the Comptroller General may specify), the rate ofbasic pay for each individual to whom this section applies shall be determined as if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, subject to subsection (e).
 
 “(d)
 
@@ -418,7 +418,7 @@ Qualified Individual.—For purposes of this section, the term ‘qualified indi
 
 &emsp;&emsp;“(C) an individual participating in a development program under which such individual receives performance appraisals, and is eligible to receive permanent merit pay increases, more than once a year; and
 
-&emsp;“(2) as of January 22, 2006, was a Band I staff member with a salary above the Band I cap, a Band IIA staff member with a salary above the Band IIA cap, or an administrative professional or support staff member with a salary above the cap for that individual's pay band (determined in accordance with the orders cited in subsection (b)(1)).
+&emsp;“(2) as of January 22, 2006, was a Band I staff member with a salary above the Band I cap, a Band IIA staff member with a salary above the Band IIA cap, or an administrative professional or support staffmember with a salary above the cap for that individual's pay band (determined in accordance with the orders cited in subsection (b)(1)).
 
 “(d)
 

@@ -52,7 +52,7 @@ Except as provided in sections 1681n and 1681<i>o</i> of this title, no consumer
 
 #### Amendments
 
-1996—Pub. L. 104–208, §2408(e)(5)(B), inserted “and form” after “Conditions” in section catchline.
+<b>1996</b>—Pub. L. 104–208, §2408(e)(5)(B), inserted “and form” after “Conditions” in section catchline.
 
 Subsec. (a). Pub. L. 104–208, §2408(e)(1), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “A consumer reporting agency shall make the disclosures required under section 1681g of this title during normal business hours and on reasonable notice.”
 

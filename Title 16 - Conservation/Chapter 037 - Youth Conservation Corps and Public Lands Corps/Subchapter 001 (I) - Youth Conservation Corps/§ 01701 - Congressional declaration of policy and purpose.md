@@ -6,11 +6,11 @@ The Congress finds that the Youth Conservation Corps has demonstrated a high deg
 
 #### Amendments
 
-1993—Pub. L. 103–82, §105(2), substituted “subchapter” for “chapter”.
+<b>1993</b>—Pub. L. 103–82, §105(2), substituted “subchapter” for “chapter”.
 
-1974—Pub. L. 93–408 substantially reenacted existing provisions and added finding that the Youth Conservation Corps program be expanded and made permanent in view of the success of the pilot program.
+<b>1974</b>—Pub. L. 93–408 substantially reenacted existing provisions and added finding that the Youth Conservation Corps program be expanded and made permanent in view of the success of the pilot program.
 
-1972—Pub. L. 92–597 substituted “areas of the United States” for “areas administered by the Secretary of the Interior and the Secretary of Agriculture”.
+<b>1972</b>—Pub. L. 92–597 substituted “areas of the United States” for “areas administered by the Secretary of the Interior and the Secretary of Agriculture”.
 
 #### Effective Date of 1993 Amendment
 

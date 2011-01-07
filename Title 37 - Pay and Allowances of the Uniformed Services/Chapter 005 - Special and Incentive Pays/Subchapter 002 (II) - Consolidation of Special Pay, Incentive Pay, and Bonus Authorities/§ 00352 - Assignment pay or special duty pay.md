@@ -50,7 +50,7 @@ Written Agreement.—
 
 &emsp;(1)
 
-Discretionary for monthly payments.—The Secretary concerned may require a member to enter into a written agreement with the Secretary in order to qualify for the payment of assignment or special duty pay on a monthly basis. The written agreement shall specify the period for which the assignment or special duty pay will be paid to the member and themonthly rate of the assignment or special duty pay.
+Discretionary for monthly payments.—The Secretary concerned may require a member to enter into a written agreement with the Secretary in order to qualify for the payment of assignment or special duty pay on a monthly basis. The written agreement shall specify the period for which the assignment or special duty pay will be paid to the member and the monthly rate of the assignment or special duty pay.
 
 &emsp;(2)
 
@@ -70,13 +70,15 @@ Repayment.—A member who receives assignment or special duty pay under this sec
 
 (g)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2010.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2011.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 173; amended Pub. L. 111–84, div. A, title VI, §§614(7), 618(c), Oct. 28, 2009, 123 Stat. 2354, 2356.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 173; amended Pub. L. 111–84, div. A, title VI, §§614(7), 618(c), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(7), Jan. 7, 2011, 124 Stat. 4237.)
 
 #### Amendments
 
-2009—Subsec. (b)(1). Pub. L. 111–84, §618(c), inserted at end “If paid monthly, the Secretary concerned may prorate the monthly amount of the assignment or special duty pay for a member who does not satisfy the eligibility requirement for an entire month to reflect the duration of the member's actual qualifying service during the month.”
+<b>2011</b>—Subsec. (g). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+
+<b>2009</b>—Subsec. (b)(1). Pub. L. 111–84, §618(c), inserted at end “If paid monthly, the Secretary concerned may prorate the monthly amount of the assignment or special duty pay for a member who does not satisfy the eligibility requirement for an entire month to reflect the duration of the member's actual qualifying service during the month.”
 
 Subsec. (g). Pub. L. 111–84, §614(7), substituted “December 31, 2010” for “December 31, 2009”.
 

@@ -10,9 +10,9 @@
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–422 inserted “8118 or” after “rather than under section”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–422 inserted “8118 or” after “rather than under section”.
 
-2003—Subsec. (a). Pub. L. 108–170, §202(b)(1), struck out “by requesting the Administrator of General Services to dispose of the property pursuant to subsection (b)” after “in the property” in first sentence and struck out at end “The Administrator, upon request of the Secretary, shall take appropriate action under this section to dispose of property of the Department that is or has been subject to an enhanced-use lease.”
+<b>2003</b>—Subsec. (a). Pub. L. 108–170, §202(b)(1), struck out “by requesting the Administrator of General Services to dispose of the property pursuant to subsection (b)” after “in the property” in first sentence and struck out at end “The Administrator, upon request of the Secretary, shall take appropriate action under this section to dispose of property of the Department that is or has been subject to an enhanced-use lease.”
 
 Subsec. (b). Pub. L. 108–170, §202(b)(2), substituted “Secretary determines” for “Secretary and the Administrator of General Services jointly determine” and “Secretary considers” for “Secretary and the Administrator consider”.
 

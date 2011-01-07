@@ -8,13 +8,13 @@ A public housing agency may convert any public housing project (or portion there
 
 #### (1) In general
 
-&emsp;To convert public housing under this section, a public housing agency shall conduct an assessment of the public housing that includes—
+&emsp;To convert public housing under this section, a public housing agency shall conduct anassessment of the public housing that includes—
 
 &emsp;&emsp;(A) a cost analysis that demonstrates whether or not the cost (both on a net present value basis and in terms of new budget authority requirements) of providing tenant-based assistance under section 1437f of this title for the same families in substantially similar dwellings over the same period of time is less expensive than continuing public housing assistance in the public housing project for the remaining useful life of the project;
 
 &emsp;&emsp;(B) an analysis of the market value of the public housing project both before and after rehabilitation, and before and after conversion;
 
-&emsp;&emsp;(C) an analysis of the rental market conditions with respect to the likely success of the use of tenant-based assistance under section 1437f of this title in that market for the specific residents of the public housing project, including an assessment of the availability of decent and safe dwellings renting at or below the payment standard established for tenant-based assistanceunder section 1437f of this title by the agency;
+&emsp;&emsp;(C) an analysis of the rental market conditions with respect to the likely success of the use of tenant-based assistance under section 1437f of this title in that market for the specific residents of the public housing project, including an assessment of the availability of decent and safe dwellings renting at or below the payment standard established for tenant-based assistance under section 1437f of this title by the agency;
 
 &emsp;&emsp;(D) the impact of the conversion to tenant-based assistance under this section on the neighborhood in which the public housing project is located; and
 
@@ -70,7 +70,7 @@ A public housing project may be converted under this section to tenant-based ass
 
 &emsp;&emsp;(B) provide any necessary counseling for families displaced by such action;
 
-&emsp;&emsp;(C) ensure that, if the project (or portion) converted is used as housing after such conversion, each resident may choose to remain in their dwelling unit in the project and use the tenant-based assistance toward rent for that unit; and
+&emsp;&emsp;(C) ensure that, if the project (or portion) converted is used as housing after such conversion, each resident may choose to remainin their dwelling unit in the project and use the tenant-based assistance toward rent for that unit; and
 
 &emsp;&emsp;(D) provide any actual and reasonable relocation expenses for families displaced by the conversion; and
 
@@ -98,9 +98,9 @@ Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, refer
 
 #### Amendments
 
-1998—Pub. L. 105–276 amended section generally. Prior to amendment, section related to award of grants to public housing agencies to adapt public housing to help families gain better access to educational and job opportunities, use of funds for supportive services, development of facilities to accommodate them, and employment of service coordinators, applications, selection for grants, reports to Secretary and Congress, and appropriations for fiscal years 1993 and 1994.
+<b>1998</b>—Pub. L. 105–276 amended section generally. Prior to amendment, section related to award of grants to public housing agencies to adapt public housing to help families gain better access to educational and job opportunities, use of funds for supportive services, development of facilities to accommodate them, and employment of service coordinators, applications, selection for grants, reports to Secretary and Congress, and appropriations for fiscal years 1993 and 1994.
 
-1992—Subsec. (k). Pub. L. 102–550 amended subsec. (k) generally, substituting present provisions for provisions authorizing $25,000,000 in fiscal year 1991 and $26,100,000 in fiscal year 1992.
+<b>1992</b>—Subsec. (k). Pub. L. 102–550 amended subsec. (k) generally, substituting present provisions for provisions authorizing $25,000,000 in fiscal year 1991 and $26,100,000 in fiscal year 1992.
 
 #### Effective Date of 1998 Amendment
 

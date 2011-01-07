@@ -6,7 +6,7 @@ The Foundation shall have the authority, within the limits of available appropri
 
 &emsp;(b) to make such expenditures as may be necessary for administering the provisions of this chapter;
 
-&emsp;(c) to enter into contracts or other arrangements, or modifications thereof, for the carrying on, by organizations or individuals in the United States and foreign countries, including other government agencies of the United States and of foreign countries, of such scientific or engineering activities as the Foundation deems necessary to carry out the purposes of this chapter, and, at the request of the Secretary of State or Secretary of Defense, specific scientific or engineering activities in connection with matters relating to international cooperation or national security, and, when deemed appropriate by the Foundation, such contracts or other arrangements, or modifications thereof may be entered into without legal consideration, without performance or other bonds, and without regard to section 5 of title 41;
+&emsp;(c) to enter into contracts or other arrangements, or modifications thereof, for the carrying on, by organizations or individuals in the United States and foreign countries, including other government agencies of the United States and of foreign countries, of such scientific or engineering activities as the Foundation deems necessary to carry out the purposes of this chapter, and, at the request of the Secretary of State or Secretary of Defense, specific scientific or engineering activities in connection with matters relating to international cooperation or national security, and, when deemed appropriate by the Foundation, such contracts or other arrangements, or modifications thereof may be entered into without legal consideration, without performance or other bonds, and without regard to section 6101 of title 41;
 
 &emsp;(d) to make advance, progress, and other payments which relate to scientific or engineering activities without regard to the provisions of section 3324(a) and (b) of title 31;
 
@@ -28,23 +28,25 @@ The Foundation shall have the authority, within the limits of available appropri
 
 #### Codification
 
+In subsec. (c), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 In subsec. (d), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes (31 U.S.C., sec. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 In subsec. (g), “section 501 of title 44” substituted for “section 87 of the Act of January 12, 1895 (28 Stat. 622), and section 11 of the Act of March 1, 1919 (40 Stat. 1270; 44 U.S.C., sec. 111)” on authority of Pub. L. 90–620, §2(b), Oct. 22, 1968, 82 Stat. 1305, the first section of which enacted Title 44, Public Printing and Documents.
 
 #### Amendments
 
-2007—Subsec. (f). Pub. L. 110–69 inserted before semicolon at end “, except that funds may be donated for specific prize competitions for ‘basic research’ as defined in the Office of Management and Budget Circular No. A–11”.
+<b>2007</b>—Subsec. (f). Pub. L. 110–69 inserted before semicolon at end “, except that funds may be donated for specific prize competitions for ‘basic research’ as defined in the Office of Management and Budget Circular No. A–11”.
 
-1986—Subsec. (k). Pub. L. 99–383 added subsec. (k).
+<b>1986</b>—Subsec. (k). Pub. L. 99–383 added subsec. (k).
 
-1985—Subsecs. (c), (d). Pub. L. 99–159, §110(a)(14)(A), inserted references to engineering.
+<b>1985</b>—Subsecs. (c), (d). Pub. L. 99–159, §110(a)(14)(A), inserted references to engineering.
 
 Subsec. (g). Pub. L. 99–159, §110(a)(14)(B), (C), substituted “engineering” for “technical” and inserted reference to engineering value.
 
 Subsec. (i). Pub. L. 99–159, §110(a)(14)(A), inserted applicability to engineering.
 
-1968—Subsec. (c). Pub. L. 90–407, §9(a), substituted “scientific activities” for “basic scientific research activities” and “scientific research activities”, “international cooperation or national security” for “national defense”, and inserted “Secretary of State” after “at the request of the”.
+<b>1968</b>—Subsec. (c). Pub. L. 90–407, §9(a), substituted “scientific activities” for “basic scientific research activities” and “scientific research activities”, “international cooperation or national security” for “national defense”, and inserted “Secretary of State” after “at the request of the”.
 
 Subsec. (d). Pub. L. 90–407, §9(b), substituted “activities” for “research”.
 
@@ -52,7 +54,7 @@ Subsec. (h). Pub. L. 90–407, §9(c), substituted “section 5703 of title 5”
 
 Subsec. (j). Pub. L. 90–407, §9(d), added subsec. (j).
 
-1959—Subsec. (e). Pub. L. 86–232 included acquisition of property by condemnation.
+<b>1959</b>—Subsec. (e). Pub. L. 86–232 included acquisition of property by condemnation.
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 

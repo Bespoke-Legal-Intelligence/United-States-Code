@@ -18,27 +18,27 @@ Provisions similar to those comprising this section were contained in former sec
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–288, §5(a)(1)(C), substituted “proper intensive services” for “proper counseling”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–288, §5(a)(1)(C), substituted “proper intensive services” for “proper counseling”.
 
-Pub. L. 107–288, §4(d)(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “Each budget submission with respect to such funds shall include separate listings of the amount for the National Veterans’ Employment and Training Services Institute and of the proposed numbers, by State, of disabled veterans’ outreach program specialists appointed under section 4103A of this title and local veterans’ employment representatives assigned under section 4104 ofthis title, together with information demonstrating the compliance of such budget submission with the funding requirements specified in the preceding sentence.”
+Pub. L. 107–288, §4(d)(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “Each budget submission with respect to such funds shall include separate listings of the amount for the National Veterans’ Employment and Training Services Institute and of the proposed numbers, by State, of disabled veterans’ outreach program specialists appointed under section 4103A of this title and local veterans’ employment representatives assigned under section 4104 of this title, together with information demonstrating the compliance of such budget submission with the funding requirements specified in the preceding sentence.”
 
-1991—Pub. L. 102–83, §5(a), renumbered section 2006 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 2006 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “4102A(b)” for “2002A(b)”, “4109” for “2009”, “4103A” for “2003A”, and “4104” for “2004”.
 
-1988—Subsec. (a). Pub. L. 100–323, §15(a)(2), struck out “of Labor” after “Secretary” in first and fifth sentences.
+<b>1988</b>—Subsec. (a). Pub. L. 100–323, §15(a)(2), struck out “of Labor” after “Secretary” in first and fifth sentences.
 
 Pub. L. 100–323, §2(b), (e)(2), substituted “in all of the States for the purposes specified in paragraph (5) of section 2002A(b) of this title and to fund the National Veterans’ Employment and Training Services Institute under section 2009” for “to fund the disabled veterans’ outreach program under section 2003A” and “with such sections” for “with such section” in fifth sentence, inserted after fifth sentence “Each budget submission with respect to such funds shall include separate listings of the amount for the National Veterans’ Employment and Training Services Institute and of the proposed numbers, by State, of disabled veterans’ outreach program specialists appointed under section 2003A of this title and local veterans’ employment representatives assigned under section 2004 of this title, together with information demonstrating the compliance of such budget submission with the funding requirements specified in the preceding sentence.”, and struck out at end “Each budget submission with respect to such funds shall include a separate listing of the proposed number, by State, for disabled veterans outreach program specialists appointed under such section. The Secretary shall carry out this subsection through the Assistant Secretary for Veterans’ Employment.”
 
 Subsec. (d). Pub. L. 100–323, §2(c), struck out “, except with the approval of the Secretary of Labor, upon the recommendation of the Assistant Secretary of Labor for Veterans’ Employment, based on a demonstrated lack of need for such funds for such purposes” after “in such subsections”.
 
-1982—Subsec. (a). Pub. L. 97–306, §306(a), inserted “and chapters 42 and 43 of this title” after “administration of this chapter”, and inserted provisions at end relating to the inclusion in estimated necessary funds of amounts necessary to fund the disabled veterans’ outreach program, inclusion in budgets of the proposed number for program specialists, and the carrying out of this subsection through the Assistant Secretary for Veterans’ Employment.
+<b>1982</b>—Subsec. (a). Pub. L. 97–306, §306(a), inserted “and chapters 42 and 43 of this title” after “administration of this chapter”, and inserted provisions at end relating to the inclusion in estimated necessary funds of amounts necessary to fund the disabled veterans’ outreach program, inclusion in budgets of the proposed number for program specialists, and the carrying out of this subsection through the Assistant Secretary for Veterans’ Employment.
 
 Subsec. (d). Pub. L. 97–306, §306(b), inserted “, upon the recommendation of the Assistant Secretary of Labor for Veterans’ Employment,” after “Secretary of Labor”.
 
-1976—Subsec. (a). Pub. L. 94–502 substituted “agencies shall each be” for “agencies shall be”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–502 substituted “agencies shall each be” for “agencies shall be”.
 
-1974—Subsec. (a). Pub. L. 93–508 substituted “training services to eligible veterans and eligible persons” for “training services to veterans”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–508 substituted “training services to eligible veterans and eligible persons” for “training services to veterans”.
 
 #### Effective Date of 2002 Amendment
 

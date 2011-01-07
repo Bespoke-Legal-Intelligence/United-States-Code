@@ -22,6 +22,202 @@ Mar. 3, 1863, ch. 111, §3 (words after 1st comma), 12 Stat. 806.
 
 The words “any department of” are omitted as unnecessary.
 
+#### Key National Indicators
+
+Pub. L. 111–148, title V, §5605, Mar. 23, 2010, 124 Stat. 680, provided that:
+
+“(a)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Academy.—The term ‘Academy’ means the National Academy of Sciences.
+
+&emsp;“(2)
+
+Commission.—The term ‘Commission’ means the Commission on Key National Indicators established under subsection (b).
+
+&emsp;“(3)
+
+Institute.—The term ‘Institute’ means a Key National Indicators Institute as designated under subsection (c)(3).
+
+“(b)
+
+Commission on Key National Indicators.—
+
+&emsp;“(1)
+
+Establishment.—There is established a ‘Commission on Key National Indicators’.
+
+&emsp;“(2)
+
+Membership.—
+
+&emsp;&emsp;“(A)
+
+Number and appointment.—The Commission shall be composed of 8 members, to be appointed equally by the majority and minority leaders of the Senate and the Speaker and minority leader of the House of Representatives.
+
+&emsp;&emsp;“(B)
+
+Prohibited appointments.—Members of the Commission shall not include Members of Congress or other elected Federal, State, or local government officials.
+
+&emsp;&emsp;“(C)
+
+Qualifications.—In making appointments under subparagraph (A), the majority and minority leaders of the Senate and the Speaker and minority leader of the House of Representatives shall appoint individuals who have shown a dedication to improving civic dialogue and decision-making through the wide use of scientific evidence and factual information.
+
+&emsp;&emsp;“(D)
+
+Period of appointment.—Each member of the Commission shall be appointed for a 2-year term, except that 1 initial appointment shall be for 3 years. Any vacancies shall not affect the power and duties of the Commission but shall be filled in the same manner as the original appointment and shall last only for the remainder of that term.
+
+&emsp;&emsp;“(E)
+
+Date.—Members of the Commission shall be appointed by not later than 30 days after the date of enactment of this Act \[Mar. 23, 2010\].
+
+&emsp;&emsp;“(F)
+
+Initial organizing period.—Not later than 60 days after the date of enactment of this Act, the Commission shall develop and implement a schedule for completion of the review and reports required under subsection (d).
+
+&emsp;&emsp;“(G)
+
+Co-chairpersons.—The Commission shall select 2 Co-Chairpersons from among its members.
+
+“(c)
+
+Duties of the Commission.—
+
+&emsp;“(1)
+
+In general.—The Commission shall—
+
+&emsp;&emsp;“(A) conduct comprehensive oversight of a newly established key national indicators system consistent with the purpose described in this subsection;
+
+&emsp;&emsp;“(B) make recommendations on how to improve the key national indicators system;
+
+&emsp;&emsp;“(C) coordinate with Federal Government users and information providers to assure access to relevant and quality data; and
+
+&emsp;&emsp;“(D) enter into contracts with the Academy.
+
+&emsp;“(2)
+
+Reports.—
+
+&emsp;&emsp;“(A)
+
+Annual report to congress.—Not later than 1 year after the selection of the 2 Co-Chairpersons of the Commission, and each subsequent year thereafter, the Commission shall prepare and submit to the appropriate Committees of Congress and the President a report that contains a detailedstatement of the recommendations, findings, and conclusions of the Commission on the activities of the Academy and a designated Institute related to the establishment of a Key National Indicator System.
+
+&emsp;&emsp;“(B)
+
+Annual report to the academy.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—Not later than 6 months after the selection of the 2 Co-Chairpersons of the Commission, and each subsequent year thereafter, the Commission shall prepare and submit to the Academy and a designated Institute a report making recommendations concerning potential issue areas and key indicators to be included in the Key National Indicators.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Limitation.—The Commission shall not have the authority to direct the Academy or, if established, the Institute, to adopt, modify, or delete any key indicators.
+
+&emsp;“(3)
+
+Contract with the national academy of sciences.—
+
+&emsp;&emsp;“(A)
+
+In general.—As soon as practicable after the selection of the 2 Co-Chairpersons of the Commission, the Co-Chairpersons shall enter into an arrangement with the National Academy of Sciences under which the Academy shall—
+
+&emsp;&emsp;&emsp;“(i) review available public and private sector research on the selection of a set of key national indicators;
+
+&emsp;&emsp;&emsp;“(ii) determine how best to establish a key national indicator system for the United States, by either creating its own institutional capability or designating an independent private nonprofit organization as an Institute to implement a key national indicator system;
+
+&emsp;&emsp;&emsp;“(iii) if the Academy designates an independent Institute under clause (ii), provide scientific and technical advice to the Institute and create an appropriate governance mechanism that balances Academy involvement and the independence of the Institute; and
+
+&emsp;&emsp;&emsp;“(iv) provide an annual report to the Commission addressing scientific and technical issues related to the key national indicator system and, if established, the Institute, and governance of the Institute's budget and operations.
+
+&emsp;&emsp;“(B)
+
+Participation.—In executing the arrangement under subparagraph (A), the National Academy of Sciences shall convene a multi-sector, multi-disciplinary process to define major scientific and technical issues associated with developing, maintaining, and evolving a Key National Indicator System and, if an Institute is established, to provide it with scientific and technical advice.
+
+&emsp;&emsp;“(C)
+
+Establishment of a key national indicator system.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—In executing the arrangement under subparagraph (A), the National Academy of Sciences shall enable the establishment of a key national indicator system by—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) creating its own institutional capability; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) partnering with an independent private nonprofit organization as an Institute to implement a key national indicator system.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Institute.—If the Academy designates an Institute under clause (i)(II), such Institute shall be a non-profit entity (as defined for purposes of section 501(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\]) with an educational mission, a governance structure that emphasizes independence, and characteristics that make such entity appropriate for establishing a key national indicator system.
+
+&emsp;&emsp;&emsp;“(iii)
+
+Responsibilities.—Either the Academy or the Institute designated under clause (i)(II) shall be responsible for the following:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) Identifying and selecting issue areas to be represented by the key national indicators.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) Identifying and selecting the measures used for key national indicators within the issue areas under subclause (I).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) Identifying and selecting data to populate the key national indicators described under subclause (II).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) Designing, publishing, and maintaining a public website that contains a freely accessible database allowing public access to the key national indicators.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(V) Developing a quality assurance framework to ensure rigorous and independent processes and the selection of quality data.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(VI) Developing a budget for the construction and management of a sustainable, adaptable, and evolving key national indicator system that reflects all Commission funding of Academy and, if an Institute is established, Institute activities.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(VII) Reporting annually to the Commission regarding its selection of issue areas, key indicators, data, and progress toward establishing a web-accessible database.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(VIII) Responding directly to the Commission in response to any Commission recommendations and to the Academy regarding any inquiries by the Academy.
+
+&emsp;&emsp;&emsp;“(iv)
+
+Governance.—Upon the establishment of a key national indicator system, the Academy shall create an appropriate governance mechanism that incorporates advisory and control functions. If an Institute is designated under clause (i)(II), the governance mechanism shall balance appropriate Academy involvement and the independence of the Institute.
+
+&emsp;&emsp;&emsp;“(v)
+
+Modification and changes.—The Academy shall retain the sole discretion, at any time, to alter its approach to the establishment of a key national indicator system or, if an Institute is designated under clause (i)(II), to alter any aspect of its relationship with the Institute or to designate a different non-profit entity to serve as the Institute.
+
+&emsp;&emsp;&emsp;“(vi)
+
+Construction.—Nothing in this section shall be construed to limit the ability of the Academy or the Institute designated under clause (i)(II) to receive private funding for activities related to the establishment of a key national indicator system.
+
+&emsp;&emsp;“(D)
+
+Annual report.—As part of the arrangement under subparagraph (A), the National Academy of Sciences shall, not later than 270 days after the date of enactment of this Act \[Mar. 23, 2010\], and annually thereafter, submit to the Co-Chairpersons of the Commission a report that contains the findings and recommendations of the Academy.
+
+“(d)
+
+Government Accountability Office Study and Report.—
+
+&emsp;“(1) GAO
+
+study.—The Comptroller General of the United States shall conduct a study of previous work conducted by all public agencies, private organizations, or foreign countries with respect to best practices for a key national indicator system. The study shall be submitted to the appropriate authorizing committees of Congress.
+
+&emsp;“(2) GAO
+
+financial audit.—If an Institute is established under this section, the Comptroller General shall conduct an annual audit of the financial statements of the Institute, in accordance with generally accepted government auditing standards and submit a report on such audit to the Commission and the appropriate authorizing committees of Congress.
+
+&emsp;“(3) GAO
+
+programmatic review.—The Comptroller General of the United States shall conduct programmatic assessments of the Institute established under this section as determined necessary by the Comptroller General and report the findings to the Commission and to the appropriate authorizing committees of Congress.
+
+“(e)
+
+Authorization of Appropriations.—
+
+&emsp;“(1)
+
+In general.—There are authorized to be appropriated to carry out the purposes of this section,$10,000,000 for fiscal year 2010, and $7,500,000 for each of fiscal year \[sic\] 2011 through 2018.
+
+&emsp;“(2)
+
+Availability.—Amounts appropriated under paragraph (1) shall remain available until expended.”
+
 #### Ex. Ord. No. 2859. National Research Council of National Academy of Sciences
 
 Ex. Ord. No. 2859, May 11, 1918, as amended by Ex. Ord. No. 10668, May 10, 1956, 21 F.R. 3155; Ex. Ord. No. 12832, Jan. 19, 1993, 58 F.R. 5905, provided:

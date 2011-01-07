@@ -22,7 +22,7 @@ The words “to continue” and the words “upon their receipt in accordance wi
 
 #### Amendments
 
-1984—Pub. L. 98–525 substituted “subsections (a) and (b) of section 3324” for “section 3324(a) and (b)”.
+<b>1984</b>—Pub. L. 98–525 substituted “subsections (a) and (b) of section 3324” for “section 3324(a) and (b)”.
 
-1982—Pub. L. 97–258 substituted “section 3324(a) and (b)” for “section 529”.
+<b>1982</b>—Pub. L. 97–258 substituted “section 3324(a) and (b)” for “section 529”.
 

@@ -44,27 +44,27 @@ Title V of the Organized Crime Control Act of 1970, referred to in subsec. (c), 
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–273 substituted “to facilitate” for “to facility” in concluding par.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273 substituted “to facilitate” for “to facility” in concluding par.
 
-1996—Subsec. (a). Pub. L. 104–208 substituted “which contains any such false statement or which fails to contain any reasonable basis in law or fact” for “containing any such false statement” in fourth par. and “imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense)” for “imprisoned not more than 10 years” in concluding par.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208 substituted “which contains any such false statement or which fails to contain any reasonable basis in law or fact” for “containing any such false statement” in fourth par. and “imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense)” for “imprisoned not more than 10 years” in concluding par.
 
 Subsec. (c). Pub. L. 104–294 inserted at end “For purposes of this section, the term ‘State’ means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.”
 
-1994—Subsec. (a). Pub. L. 103–322, §330011(p), amended directory language of Pub. L. 101–647, §3550. See 1990 Amendment note below.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §330011(p), amended directory language of Pub. L. 101–647, §3550. See 1990 Amendment note below.
 
 Pub. L. 103–322, §130009(a)(4), substituted “10 years” for “five years” in concluding par.
 
 Subsec. (b). Pub. L. 103–322, §130009(a)(5), in concluding provisions, substituted “under this title, imprisoned not more than 5 years” for “in accordance with this title, or imprisoned not more than two years”.
 
-1990—Subsec. (a). Pub. L. 101–647, §3550, as amended by Pub. L. 103–322, §330011(p), substituted “Shall be fined under this title” for “Shall be fined in accordance with this title” in concluding par.
+<b>1990</b>—Subsec. (a). Pub. L. 101–647, §3550, as amended by Pub. L. 103–322, §330011(p), substituted “Shall be fined under this title” for “Shall be fined in accordance with this title” in concluding par.
 
-1988—Pub. L. 100–525 amended Pub. L. 99–603. See 1986 Amendment note below.
+<b>1988</b>—Pub. L. 100–525 amended Pub. L. 99–603. See 1986 Amendment note below.
 
-1986—Pub. L. 99–603, as amended by Pub. L. 100–525, substituted “other documents” for “other entry documents” in section catchline, designated existing provisions as subsec. (a), substituted “permit, border crossing card, alien registration receipt card, or other document prescribed by statute or regulation for entry into or as evidence of authorized stay or employment in the United States” for “or other document required for entry into the United States” and for “or document” in first par., substituted “in accordance with this title” for “not more than $2,000” in concluding par., and added subsecs. (b) and (c).
+<b>1986</b>—Pub. L. 99–603, as amended by Pub. L. 100–525, substituted “other documents” for “other entry documents” in section catchline, designated existing provisions as subsec. (a), substituted “permit, border crossing card, alien registration receipt card, or other document prescribed by statute or regulation for entry into or as evidence of authorized stay or employment in the United States” for “or other document required for entry into the United States” and for “or document” in first par., substituted “in accordance with this title” for “not more than $2,000” in concluding par., and added subsecs. (b) and (c).
 
-1976—Pub. L. 94–550 inserted “, or as permitted under penalty of perjury under section 1746 of title 28, United States Code, knowingly subscribes as true,” after “Whoever knowingly makes under oath” in fourth par.
+<b>1976</b>—Pub. L. 94–550 inserted “, or as permitted under penalty of perjury under section 1746 of title 28, United States Code, knowingly subscribes as true,” after “Whoever knowingly makes under oath” in fourth par.
 
-1952—Act June 27, 1952, made section applicable to entry documents other than visas and permits.
+<b>1952</b>—Act June 27, 1952, made section applicable to entry documents other than visas and permits.
 
 #### Effective Date of 1996 Amendment
 

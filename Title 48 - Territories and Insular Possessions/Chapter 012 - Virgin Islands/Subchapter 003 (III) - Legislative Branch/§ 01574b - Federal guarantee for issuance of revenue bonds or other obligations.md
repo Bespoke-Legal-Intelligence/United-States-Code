@@ -10,7 +10,7 @@ The Secretary is authorized, with the approval of the Secretary of the Treasury,
 
 &emsp;(1) that the proceeds of such issue will be used only for public works or other capital projects, except that $28,000,000 of the guaranteed bonding authority will be used for water producing and power projects, including maintenance and overhaul of electrical generating and distribution mechanisms, and $12,000,000 of the guaranteed bonding authority will be used for repair and improvements of the water distribution and storage systems;
 
-&emsp;(2) taking into account anticipated expenditures by the government of the Virgin Islands while the bonds or other obligations forming a part of such issue will be outstanding, all outstanding obligations of the government of the Virgin Islands which will mature while the bonds or other obligations forming a part of such issue will be outstanding, and such other factors as he deems pertinent, that the revenues expected to be received under section 7652(b)(3) of title 26 will be sufficient to pay the principal of, and interest on, the bonds or other obligations forming a part of such issue;
+&emsp;(2) taking into account anticipated expenditures by the government of the Virgin Islands while the bonds or other obligations forming a part of such issue will be outstanding, all outstanding obligations of the government of the Virgin Islands which will mature while thebonds or other obligations forming a part of such issue will be outstanding, and such other factors as he deems pertinent, that the revenues expected to be received under section 7652(b)(3) of title 26 will be sufficient to pay the principal of, and interest on, the bonds or other obligations forming a part of such issue;
 
 &emsp;(3) that credit is not otherwise available on reasonable terms and conditions and that there is reasonable assurance of repayment, and
 
@@ -58,11 +58,11 @@ Section was not enacted as part of the Revised Organic Act of the Virgin Islands
 
 #### Amendments
 
-1986—Subsec. (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1983—Subsec. (b)(1). Pub. L. 98–213, §4(b)(1), and Pub. L. 98–146, §100(1), made nearly identical amendments relating to the use of the amounts of $28,000,000 and $12,000,000 of the guaranteed bonding authority. The text reflects the amendment by Pub. L. 98–213.
+<b>1983</b>—Subsec. (b)(1). Pub. L. 98–213, §4(b)(1), and Pub. L. 98–146, §100(1), made nearly identical amendments relating to the use of the amounts of $28,000,000 and $12,000,000 of the guaranteed bonding authority. The text reflects the amendment by Pub. L. 98–213.
 
 Subsec. (f). Pub. L. 98–213, §4(b)(2), and Pub. L. 98–146, §100(2), amended subsec. (f) identically, substituting “$101,000,000” for “$61,000,000” and “1990” for “1984” in two places.
 
-1980—Subsec. (f). Pub. L. 96–205 substituted provisions relating to prohibitions on commitments to guarantee by the Secretary and obligation by the Virgin Islands government of guaranteed but unobligated funds, andrepayment by the government of unobligated proceeds of bonds or other obligations after Oct. 1, 1984, for provisions relating to entering into under Pub. L. 94–392, after Oct. 1, 1979, of commitments to guarantee.
+<b>1980</b>—Subsec. (f). Pub. L. 96–205 substituted provisions relating to prohibitions on commitments to guarantee by the Secretary and obligation by the Virgin Islands government of guaranteed but unobligated funds, and repayment by the government of unobligated proceeds of bonds or other obligations after Oct. 1, 1984, for provisions relating to entering into under Pub. L. 94–392, after Oct. 1, 1979, of commitments to guarantee.
 

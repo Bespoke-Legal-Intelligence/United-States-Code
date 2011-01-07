@@ -84,7 +84,7 @@ In subsection (b), the text of 40 App.:403 (last par.) is omitted as obsolete.
 
 #### Amendments
 
-2008—Subsec. (a)(1)(C). Pub. L. 110–371, §7(a), inserted “Metcalfe,” after “Menifee,”, “Nicholas,” after “Morgan,”, and “Robertson,” after “Pulaski,”.
+<b>2008</b>—Subsec. (a)(1)(C). Pub. L. 110–371, §7(a), inserted “Metcalfe,” after “Menifee,”, “Nicholas,” after “Morgan,”, and “Robertson,” after “Pulaski,”.
 
 Subsec. (a)(1)(H). Pub. L. 110–371, §7(b), inserted “Ashtabula,” after “Adams,”, “Mahoning,” after “Lawrence,”, and “Trumbull,” after “Scioto,”.
 

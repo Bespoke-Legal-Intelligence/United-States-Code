@@ -78,7 +78,7 @@ Section was enacted as part of the National Science Foundation Authorization Act
 
 #### Amendments
 
-2007—Subsec. (a)(1)(A). Pub. L. 110–69, §7006(b)(1), inserted “or eligible nonprofit organizations” after “institutions of higher education”.
+<b>2007</b>—Subsec. (a)(1)(A). Pub. L. 110–69, §7006(b)(1), inserted “or eligible nonprofit organizations” after “institutions of higher education”.
 
 Subsec. (b)(1). Pub. L. 110–69, §7006(b)(2), (3), in introductory provisions, inserted “or an eligible nonprofit organization” after “institution of higher education” and substituted “thereof” for “of such institutions”.
 

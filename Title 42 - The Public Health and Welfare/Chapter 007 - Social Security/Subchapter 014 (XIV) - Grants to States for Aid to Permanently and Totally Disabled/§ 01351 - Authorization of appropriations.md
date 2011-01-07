@@ -10,11 +10,11 @@ For the purpose of enabling each State to furnish financial assistance, as far a
 
 #### Amendments
 
-1981—Pub. L. 97–35 struck out “and of encouraging each State, as far as practicable under such conditions, to furnish rehabilitation and other services to help such individuals attain and retain capability for self-support or self-care” after “and totally disabled”.
+<b>1981</b>—Pub. L. 97–35 struck out “and of encouraging each State, as far as practicable under such conditions, to furnish rehabilitation and other services to help such individuals attain and retain capability for self-support or self-care” after “and totally disabled”.
 
-1962—Pub. L. 87–543 inserted “to furnish rehabilitation and other services” before “to help such individuals” and “or retain capability for” after “attain”.
+<b>1962</b>—Pub. L. 87–543 inserted “to furnish rehabilitation and other services” before “to help such individuals” and “or retain capability for” after “attain”.
 
-1956—Act Aug. 1, 1956, restated purpose to include assistance to individuals to attain self-support of self-care.
+<b>1956</b>—Act Aug. 1, 1956, restated purpose to include assistance to individuals to attain self-support of self-care.
 
 #### Transfer of Functions
 

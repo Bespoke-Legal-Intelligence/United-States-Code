@@ -10,7 +10,7 @@
 
 I74senate report no. 95–989
 
-A joint case is a voluntary bankruptcy case concerning a wife and husband. Under current law, there is no explicit provision for joint cases. Very often, however, in the consumer debtor context, a husband and wife are jointly liable on their debts, and jointly hold most of their property. A joint case will facilitate consolidation of their estates, to the benefit of both the debtorsand their creditors, because the cost of administration will be reduced, and there will be only one filing fee.
+A joint case is a voluntary bankruptcy case concerning a wife and husband. Under current law, there is no explicit provision for joint cases. Very often, however, in the consumer debtor context, a husband and wife are jointly liable on their debts, and jointly hold most of their property. A joint case will facilitate consolidation of their estates, to the benefit of both the debtors and their creditors, because the cost of administration will be reduced, and there will be only one filing fee.
 
 Section 302 specifies that a joint case is commenced by the filing of a petition under an appropriate chapter by an individual and that individual's spouse. Thus, one spouse cannot take the other into bankruptcy without the other's knowledge or consent. The filing of the petition constitutes an order for relief under the chapter selected.
 

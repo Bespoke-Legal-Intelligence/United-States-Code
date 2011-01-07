@@ -48,5 +48,5 @@ In clause (4), the word “continue” is omitted as included in “carry out”
 
 #### Amendments
 
-2007—Par. (5). Pub. L. 110–26 added par. (5).
+<b>2007</b>—Par. (5). Pub. L. 110–26 added par. (5).
 

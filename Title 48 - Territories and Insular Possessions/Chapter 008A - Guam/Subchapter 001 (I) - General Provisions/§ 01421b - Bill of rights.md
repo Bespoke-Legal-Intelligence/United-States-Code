@@ -48,7 +48,7 @@ All laws enacted by Congress with respect to Guam and all laws enacted by the te
 
 #### Amendments
 
-1968—Subsec. (u). Pub. L. 90–497 added subsec. (u).
+<b>1968</b>—Subsec. (u). Pub. L. 90–497 added subsec. (u).
 
 #### Effective Date of 1968 Amendment
 

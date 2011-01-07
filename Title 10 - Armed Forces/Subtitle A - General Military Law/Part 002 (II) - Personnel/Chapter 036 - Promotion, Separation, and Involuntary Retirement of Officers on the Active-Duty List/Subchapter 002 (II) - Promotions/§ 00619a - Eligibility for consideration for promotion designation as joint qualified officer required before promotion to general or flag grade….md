@@ -2,7 +2,7 @@
 
 (a)
 
-General Rule.—An officer on the active-duty list of the Army, Navy, Air Force, or Marine Corps may not be appointed to the grade of brigadier general or rear admiral (lower half) unless the officer has been designated as a joint qualified officer in accordance with section 661 of this title.
+General Rule.—An officer on the active-duty list of the Army, Navy, Air Force, or Marine Corps may not be appointed to the grade of brigadier general or rear admiral (lower half) unless the officer has been designated as a jointqualified officer in accordance with section 661 of this title.
 
 (b)
 
@@ -48,7 +48,7 @@ Limitation for General and Flag Officers Previously Receiving Joint Duty Assignm
 
 #### Amendments
 
-2008—Pub. L. 110–417, §521(b)(1), substituted “Eligibility for consideration for promotion: designation as joint qualified officer required before promotion to general or flag grade; exceptions” for “Eligibility for consideration for promotion: joint duty assignment required before promotion to general or flag grade; exceptions” in section catchline.
+<b>2008</b>—Pub. L. 110–417, §521(b)(1), substituted “Eligibility for consideration for promotion: designation as joint qualified officer required before promotion to general or flag grade; exceptions” for “Eligibility for consideration for promotion: joint duty assignment required before promotion to general or flag grade; exceptions” in section catchline.
 
 Subsec. (a). Pub. L. 110–417, §521(a)(1), substituted “unless the officer has been designated as a joint qualified officer” for “unless—
 
@@ -62,7 +62,7 @@ Subsec. (b)(4). Pub. L. 110–417, §521(a)(2)(B), substituted “is not less th
 
 Subsec. (h). Pub. L. 110–417, §521(a)(3), struck out heading and text of subsec. (h). Text read as follows: “An officer of the Navy designated as a qualified nuclear propulsion officer who before January 1, 1997, is appointed to the grade of rear admiral (lower half) without regard to subsection (a) may not be appointed to the grade of rear admiral until the officer completes a full tour of duty in a joint duty assignment.”
 
-2004—Subsec. (a)(2). Pub. L. 108–375, §533(a), substituted “September 30, 2008” for “September 30, 2007”.
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–375, §533(a), substituted “September 30, 2008” for “September 30, 2007”.
 
 Subsec. (b)(4). Pub. L. 108–375, §533(b), substituted “if the officer's” for “if—
 
@@ -70,15 +70,15 @@ Subsec. (b)(4). Pub. L. 108–375, §533(b), substituted “if the officer's” 
 
 &emsp;“(B) the officer's”.
 
-2001—Subsec. (a). Pub. L. 107–107, §525(a), substituted “unless—” and pars. (1) and (2) for “unless the officer has completed a full tour of duty in a joint duty assignment (as described in section 664(f) of this title).”
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §525(a), substituted “unless—” and pars. (1) and (2) for “unless the officer has completed a full tour of duty in a joint duty assignment (as described in section 664(f) of this title).”
 
 Subsec. (b). Pub. L. 107–107, §525(b), in introductory provisions, substituted “may waive paragraph (1) or paragraph (2) of subsection (a), or both paragraphs (1) and (2) of subsection (a), in the following circumstances:” for “may waive subsection (a) in the following circumstances:”.
 
-1999—Subsec. (g). Pub. L. 106–65, §508(a), amended heading and text of subsec. (g) generally. Prior to amendment, subsec. (g) authorized the Secretary until Jan. 1, 1999, to waive subsecs. (a) and (d) for certain officers and contained restrictions on appointments of those officers.
+<b>1999</b>—Subsec. (g). Pub. L. 106–65, §508(a), amended heading and text of subsec. (g) generally. Prior to amendment, subsec. (g) authorized the Secretary until Jan. 1, 1999, to waive subsecs. (a) and (d) for certain officers and contained restrictions on appointments of those officers.
 
-Subsec. (h). Pub. L. 106–65, §508(b), substituted “An officer of the Navy” for “(1) Until January 1, 1997, an officer of the Navy” and “who before January 1, 1997, is” for “may be” and struck out “. An officer so appointed” before “may not be appointed” and par. (2) which read as follows: “Not later than March 1 of each year from 1994 through 1997, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on the implementation during the preceding calendar year of the transition plan developed by the Secretary pursuant to section 1305(b) of Public Law 100–180 (10 U.S.C. 619a note) with respect to service by qualified nuclear propulsion officers in joint duty assignments.”
+Subsec. (h). Pub. L. 106–65, §508(b), substituted “An officer of the Navy” for “(1) Until January 1, 1997, an officer of the Navy” and “who before January 1, 1997, is” for “may be” and struck out “. An officer so appointed” before “may not be appointed” and par. (2) which read as follows: “Not later than March 1 of each year from 1994 through 1997, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on the implementation during the preceding calendar year of the transition plan developed by the Secretary pursuant to section 1305(b) of Public Law 100–180 (10 U.S.C. 619a note)with respect to service by qualified nuclear propulsion officers in joint duty assignments.”
 
-1996—Subsec. (h)(2). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+<b>1996</b>—Subsec. (h)(2). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
 #### Proposed Legislative Changes
 

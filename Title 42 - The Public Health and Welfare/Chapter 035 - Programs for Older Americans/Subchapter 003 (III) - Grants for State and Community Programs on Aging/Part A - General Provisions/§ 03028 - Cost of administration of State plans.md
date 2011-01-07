@@ -98,7 +98,7 @@ Provisions similar to those comprising this section were contained in Pub. L. 89
 
 #### Amendments
 
-2000—Subsec. (b)(4)(A). Pub. L. 106–501, §307(1)(A)(ii), substituted “40 percent” for “30 percent”.
+<b>2000</b>—Subsec. (b)(4)(A). Pub. L. 106–501, §307(1)(A)(ii), substituted “40 percent” for “30 percent”.
 
 Pub. L. 106–501, §307(1)(A)(i), which directed amendment of subpar. (A) by striking “in its plan under section 3027(a)(13) of this title regarding Part C of this subchapter,” was executed by striking “in its plan under section 3027(a)(13) regarding part C of this subchapter,” after “the State may elect” to reflect the probable intent of Congress.
 
@@ -114,9 +114,9 @@ Subsec. (b)(4)(C). Pub. L. 106–501, §307(1)(C), added subpar. (C).
 
 Subsec. (b)(5). Pub. L. 106–501, §307(2), added par. (5) and struck out former par. (5) which authorized election by a State to transfer funds for fiscal years 1993 through 1996 between programs under parts B and C of this subchapter, provided for a State to obtain a need-based waiver to transfer additional funds, and related to required contents and approval of the application for such transfer of funds.
 
-1993—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” wherever appearing.
+<b>1993</b>—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 
-1992—Subsec. (a)(3). Pub. L. 102–375, §308(1), inserted “been” after “Any State which has”.
+<b>1992</b>—Subsec. (a)(3). Pub. L. 102–375, §308(1), inserted “been” after “Any State which has”.
 
 Subsec. (b)(1)(B), (2)(B). Pub. L. 102–375, §904(a)(14)(A), inserted “United States” before “Virgin Islands”.
 
@@ -130,7 +130,7 @@ Subsec. (b)(5) to (7). Pub. L. 102–375, §308(2)(B), added pars. (5) to (7) an
 
 “(B) Of the funds received under subsections (a)(1) and (b) of section 3023 of this title, a State may elect to transfer under subparagraph (A) not more than 30 percent of the funds allotted for any fiscal year.”
 
-1987—Subsec. (b)(1). Pub. L. 100–175, §182(<i>l</i>)(1), (2), struck designation “(A)” after “(1)” and redesignated former cls. (i) and (ii) as subpars. (A) and (B), respectively.
+<b>1987</b>—Subsec. (b)(1). Pub. L. 100–175, §182(<i>l</i>)(1), (2), struck designation “(A)” after “(1)” and redesignated former cls. (i) and (ii) as subpars. (A) and (B), respectively.
 
 Subsec. (b)(2). Pub. L. 100–175, §182(<i>l</i>)(3), struck designation “(A)” after “(1)” and redesignated former cls. (i) and (ii) as subpars. (A) and (B), respectively.
 
@@ -146,7 +146,7 @@ Pub. L. 100–175, §182(<i>l</i>)(5), substituted “allotted” for “appropr
 
 Pub. L. 100–175, §129(c)(2)(B), inserted “subsections (a)(1) and (b) of” after first reference to “under”.
 
-1984—Subsec. (a)(1). Pub. L. 98–459, §308(a)(1), substituted “Amounts available to States under subsection (b)(1) of this section” for “Amounts appropriated under section 3023 of this title”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–459, §308(a)(1), substituted “Amounts available to States under subsection (b)(1) of this section” for “Amounts appropriated under section 3023 of this title”.
 
 Subsec. (a)(2). Pub. L. 98–459, §308(a)(2), substituted “available to a State under subsection (b)(1) of this section” for “received by a State under this section”.
 
@@ -162,7 +162,7 @@ Subsec. (b)(4). Pub. L. 98–459, §308(b)(2), (4), (5), redesignated par. (5) a
 
 Subsec. (b)(5), (6). Pub. L. 98–459, §308(b)(3), (5), redesignated par. (6) as (5), inserted “(A)” after paragraph designation and “and except as provided in subparagraph (B)”, and added subpar. (B). Former par. (5) redesignated (4).
 
-1981—Subsec. (a)(1). Pub. L. 97–115, §3(d), substituted “supportive services” for “social services”.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–115, §3(d), substituted “supportive services” for “social services”.
 
 Subsec. (b)(6). Pub. L. 97–115, §8, added par. (6).
 

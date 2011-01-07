@@ -32,7 +32,3 @@
 
 (Pub. L. 105–277, div. A, §101(e) \[title V, §529\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–317.)
 
-#### References in Text
-
-The mining laws and the mineral leasing laws, referred to in subsec. (a)(1), are classified generally to Title 30, Mineral Lands and Mining.
-

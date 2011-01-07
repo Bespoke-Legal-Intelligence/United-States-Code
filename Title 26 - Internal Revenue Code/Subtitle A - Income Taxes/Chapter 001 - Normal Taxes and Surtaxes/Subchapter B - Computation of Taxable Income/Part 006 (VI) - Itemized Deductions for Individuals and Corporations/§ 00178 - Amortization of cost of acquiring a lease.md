@@ -12,9 +12,9 @@ For purposes of subsection (a), in determining the period of the term of the lea
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–647 substituted “the deduction allowable to a lessee for exhaustion, wear and tear, obsolescence, or amortization” for “the deduction allowable to a lessee of a lease for any taxable year for amortization under section 167, 169, 179, 185, 190, 193, or 194”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647 substituted “the deduction allowable to a lessee for exhaustion, wear and tear, obsolescence, or amortization” for “the deduction allowable to a lessee of a lease for any taxable year for amortization under section 167, 169, 179, 185, 190, 193, or 194”.
 
-1986—Pub. L. 99–514, §201(d)(2)(A), in amending section generally, substituted provision relating to amortization of cost of acquiring a lease, subsec. (a) setting out a general rule and subsec. (b) excluding certain periods, for former provision for depreciation or amortization of improvements made by lessee on lessor's property, subsec. (a) setting out a general rule, subsec. (b), in case of related lessee and lessor, setting out a general rule in par. (1) and defining related persons in par. (2), and subsec. (c) setting out a reasonable certainty test.
+<b>1986</b>—Pub. L. 99–514, §201(d)(2)(A), in amending section generally, substituted provision relating to amortization of cost of acquiring a lease, subsec. (a) setting out a general rule and subsec. (b) excluding certain periods, for former provision for depreciation or amortization of improvements made by lessee on lessor's property, subsec. (a) setting out a general rule, subsec. (b), in case of related lessee and lessor, setting out a general rule in par. (1) and defining related persons in par. (2), and subsec. (c) setting out a reasonable certainty test.
 
 Subsec. (b)(2)(B). Pub. L. 99–514, §1812(c)(4)(B), inserted before the period “and subsection (f)(1)(A) of such section shall not apply”.
 
@@ -26,7 +26,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 201(d)(2)(A) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
 
-Amendment by section 201(d)(2)(A) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
+Amendment by section 201(d)(2)(A) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3)of Pub. L. 99–514, set out as a note under section 46 of this title.
 
 Amendment by section 1812(c)(4)(B) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 

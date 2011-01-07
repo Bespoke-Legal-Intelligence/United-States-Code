@@ -6,7 +6,7 @@
 
 (c) The term “Board” refers to the Board of Governors of the Federal Reserve System.
 
-(d) The term “credit” means the right granted by a creditor to a debtor to defer payment of debt or to incur debts and defer its payment or to purchase property or services and defer payment therefor.
+(d) The term “credit” means the right granted by a creditor to a debtor to defer payment ofdebt or to incur debts and defer its payment or to purchase property or services and defer payment therefor.
 
 (e) The term “creditor” means any person who regularly extends, renews, or continues credit; any person who regularly arranges for the extension, renewal, or continuation of credit; or any assignee of an original creditor who participates in the decision to extend, renew, or continue credit.
 
@@ -14,5 +14,21 @@
 
 (g) Any reference to any requirement imposed under this subchapter or any provision thereof includes reference to the regulations of the Board under this subchapter or the provision thereof in question.
 
-(Pub. L. 90–321, title VII, §702, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1522.)
+(Pub. L. 90–321, title VII, §702, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1522; amended Pub. L. 111–203, title X, §1085(1), (2), July 21, 2010, 124 Stat. 2083.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1085(1), (2), 1100H, July 21, 2010, 124 Stat. 2083, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
+
+<i>(1) by striking “Board” each place that term appears and inserting “Bureau”; and</i>
+
+<i>(2) by striking subsection (c) and inserting the following:</i>
+
+<i>“(c) The term ‘Bureau’ means the Bureau of Consumer Financial Protection.”</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 

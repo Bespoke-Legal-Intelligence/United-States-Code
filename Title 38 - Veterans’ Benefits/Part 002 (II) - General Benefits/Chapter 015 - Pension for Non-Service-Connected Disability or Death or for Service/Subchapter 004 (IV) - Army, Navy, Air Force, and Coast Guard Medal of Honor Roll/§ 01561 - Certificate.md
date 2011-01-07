@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 561 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 561 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1560” for “560”.
 
@@ -20,15 +20,15 @@ Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “1562” for “562”.
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” after “the” in two places.
 
-1975—Subsec. (a). Pub. L. 94–169, §106(42), substituted “such person's” for “his” wherever appearing, and “such person” for “him”.
+<b>1975</b>—Subsec. (a). Pub. L. 94–169, §106(42), substituted “such person's” for “his” wherever appearing, and “such person” for “him”.
 
 Subsec. (b). Pub. L. 94–169, §106(42), substituted “such person” for “he” and “such person's” for “his” wherever appearing.
 
 Subsec. (c). Pub. L. 94–169, §106(43), struck out “by him” after “certificate issued”.
 
-1963—Subsecs. (a), (b). Pub. L. 88–77 inserted references to the Coast Guard.
+<b>1963</b>—Subsecs. (a), (b). Pub. L. 88–77 inserted references to the Coast Guard.
 
-1961—Pub. L. 87–138 struck out “entitling holder to pension”, after “Certificate” in section catchline.
+<b>1961</b>—Pub. L. 87–138 struck out “entitling holder to pension”, after “Certificate” in section catchline.
 
 Subsec. (a). Pub. L. 87–138 substituted “have his name entered on the Army, Navy, and Air Force Medal of Honor Roll” for “the benefits of this subchapter”, and “have his name entered on such roll” for “special pension under this subchapter”.
 

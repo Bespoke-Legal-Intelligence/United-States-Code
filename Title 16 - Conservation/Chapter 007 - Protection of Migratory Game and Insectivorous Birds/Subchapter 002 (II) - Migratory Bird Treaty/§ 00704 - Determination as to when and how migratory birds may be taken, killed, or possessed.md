@@ -6,19 +6,19 @@
 
 &emsp;(1) take any migratory game bird by the aid of baiting, or on or over any baited area, if the person knows or reasonably should know that the area is a baited area; or
 
-&emsp;(2) place or direct the placement of bait on or adjacent to an area for the purpose of causing, inducing, or allowing any person to take or attempt to take any migratory game bird by the aid of baiting on or over the baited area.
+&emsp;(2) place or direct the placement of bait on or adjacent to an area for the purpose of causing, inducing, or allowing any person to takeor attempt to take any migratory game bird by the aid of baiting on or over the baited area.
 
 (July 3, 1918, ch. 128, §3, 40 Stat. 755; June 20, 1936, ch. 634, §2, 49 Stat. 1556; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 105–312, title I, §102, Oct. 30, 1998, 112 Stat. 2956.)
 
 #### Amendments
 
-1998—Pub. L. 105–312 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1998</b>—Pub. L. 105–312 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1936—Act June 20, 1936, substituted “conventions” for “convention” wherever appearing.
+<b>1936</b>—Act June 20, 1936, substituted “conventions” for “convention” in two places.
 
 #### Effective Date of 1936 Amendment
 
-Section effective June 30, 1937, see section 1 of act of June 20, 1936, set out as a note under section 703 of this title.
+Act June 20, 1936, ch. 634, §2, 49 Stat. 1556, provided in part that the amendment by section 2 is effective as of the day aforesaid (June 30, 1937). See note under section 703 of this title.
 
 #### Transfer of Functions
 

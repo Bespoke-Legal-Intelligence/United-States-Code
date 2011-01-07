@@ -50,11 +50,13 @@ Any order issued under this section shall be published in the Federal Register. 
 
 Section 7410(d) of this title, referred to in subsec. (b), was repealed by Pub. L. 101–549, title I, §101(d)(4), Nov. 15, 1990, 104 Stat. 2409.
 
+This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
+
 Subchapter II (§1621 et seq.) of chapter 34 of title 50, referred to in subsec. (d)(4), was in the original “title II of the Act of September 14, 1976 (Public Law 94–412)”, which is known as the National Emergencies Act.
 
 #### Amendments
 
-1987—Subsec. (g). Pub. L. 100–42 struck out subsec. (g) which permitted use of natural gas or petroleum as primary energy source in peakload powerplant or major fuel-burning installation during temporary emergency condition (other than emergency conditions provided for under section 8302(a)(15) of this title).
+<b>1987</b>—Subsec. (g). Pub. L. 100–42 struck out subsec. (g) which permitted use of natural gas or petroleum as primary energy source in peakload powerplant or major fuel-burning installation during temporary emergency condition (other than emergency conditions provided for under section 8302(a)(15) of this title).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,7 +12,7 @@ Another prior section 5364, act Aug. 16, 1954, ch. 736, 68A Stat. 665, consisted
 
 #### Amendments
 
-1998—Pub. L. 105–206 substituted “Natural wine (as defined in section 5381) imported or brought into” for “Wine imported or brought into” in first sentence.
+<b>1998</b>—Pub. L. 105–206 substituted “Natural wine (as defined in section 5381) imported or brought into” for “Wine imported or brought into” in first sentence.
 
 #### Effective Date of 1998 Amendment
 

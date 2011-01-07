@@ -16,7 +16,7 @@ The Atomic Energy Act of 1954, as amended, referred to in text, is act Aug. 1, 1
 
 #### Amendments
 
-1994—Pub. L. 103–437 substituted “Committees on Energy and Commerce and on Foreign Affairs of the House of Representatives and the Committees on Energy and Natural Resources and on Foreign Relations of the Senate” for “Joint Committee on Atomic Energy, the House Committee on Foreign Affairs, and the Senate Committee on Foreign Relations”.
+<b>1994</b>—Pub. L. 103–437 substituted “Committees on Energy and Commerce and on Foreign Affairs of the House of Representatives and the Committees on Energy and Natural Resources and on Foreign Relations of the Senate” for “Joint Committee on Atomic Energy, the House Committee on Foreign Affairs, and the Senate Committee on Foreign Relations”.
 
 #### Change of Name
 

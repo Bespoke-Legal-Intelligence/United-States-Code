@@ -40,9 +40,9 @@ Section 300e–3(b) of this title, referred to in subsec. (a), was repealed by P
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–660 inserted “, and unless the Secretary has made a grant or loan to, entered into a contract with, or guaranteed a loan for, the organization in fiscal year 1981, 1982, 1983, 1984, or 1985 under this section or section 300e–3(b) of this title (as in effect before October 1, 1985)” at end of last sentence.
+<b>1986</b>—Subsec. (a). Pub. L. 99–660 inserted “, and unless the Secretary has made a grant or loan to, entered into a contract with, or guaranteed a loan for, the organization in fiscal year 1981, 1982, 1983, 1984, or 1985 under this section or section 300e–3(b) of this title (as in effect before October 1, 1985)” at end of last sentence.
 
-1981—Subsec. (a). Pub. L. 97–35, §943(a), in pars. (1) and (2) struck out “nonprofit” before “private”, and in par. (3) substituted provisions respecting guarantees for private health maintenance organizations, for guarantees for nonprofit private health maintenance organizations.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §943(a), in pars. (1) and (2) struck out “nonprofit” before “private”, and in par. (3) substituted provisions respecting guarantees for private health maintenance organizations, for guarantees for nonprofit private health maintenance organizations.
 
 Subsec. (b)(1). Pub. L. 97–35, §943(b), generally revised limitations and, among many changes, increased amounts subject to coverage, and struck out requirements respecting Congressional oversight for increases in amounts.
 
@@ -50,15 +50,15 @@ Subsec. (d). Pub. L. 97–35, §943(c), substituted “1986” for “1981”.
 
 Subsec. (e). Pub. L. 97–35, §947(c), struck out subsec. (e) which related to projects in nonmetropolitan areas.
 
-1979—Subsec. (b)(1). Pub. L. 96–32 substituted “$4,500,000” for “$4,000,000” in two places.
+<b>1979</b>—Subsec. (b)(1). Pub. L. 96–32 substituted “$4,500,000” for “$4,000,000” in two places.
 
-1978—Subsec. (a). Pub. L. 95–559, §4(b)(1), substituted “costs of operation” for “operating costs” wherever appearing.
+<b>1978</b>—Subsec. (a). Pub. L. 95–559, §4(b)(1), substituted “costs of operation” for “operating costs” wherever appearing.
 
 Subsec. (b)(1). Pub. L. 95–559, §4(a), (b)(2), inserted “(or $4,000,000 if the Secretary makes a written determination that such loans or loan guarantees are necessary to preserve the fiscally sound operation of the health maintenance organization and to protect against the risk of insolvency of the health maintenance organization and, within 30 days of the making of such loans or loan guarantees, furnishes the Committee on Human Resources of the Senate and the Committee on Interstate and Foreign Commerce of the House of Representatives with written notification of the making of the loans or loan guarantees and a copy of the written determination made with respect to the loans or loan guarantees and the reasons for the determination) through September 30, 1979, and $4,000,000 thereafter” after “$2,500,000” and “(or $2,000,000 if the Secretary makes a written determination that such disbursements are necessary to preserve the fiscally sound operation of the health maintenance organization and protect against the risk of insolvency of the health maintenance organization and, within 30 days of such disbursement, furnishes the Committee on Human Resources of the Senate and the Committee on Interstate and Foreign Commerce of the House of Representatives with written notification of the making of the disbursement and a copy of the written determination made with respect to it and the reasons for the determination) through September 30, 1979, and $2,000,000 thereafter” after “$1,000,000” and substituted “any twelve-month period” for “any fiscal year”.
 
 Subsec. (d). Pub. L. 95–559, §2(b), substituted “September 30, 1981” for “September 30, 1980”.
 
-1976—Subsec. (a)(1), (2). Pub. L. 94–460, §§107(c), 109(a)(1), substituted “during a period not to exceed the first sixty months” for “in the period of the first thirty-six months”.
+<b>1976</b>—Subsec. (a)(1), (2). Pub. L. 94–460, §§107(c), 109(a)(1), substituted “during a period not to exceed the first sixty months” for “in the period of the first thirty-six months”.
 
 Subsec. (a)(3). Pub. L. 94–460, §108(c), substituted reference to loans made to nonprofit private health maintenance organizations for the amounts referred to in paragraph (1) or (2), or to other private health maintenance organizations for such amounts but only if the health maintenance organization will serve a medically underserved population for reference to loans made to any private health maintenance organization (other than a private nonprofit health maintenance organization) for the amounts referred to in paragraph (1) or (2), but only if such health maintenance organization will serve a medically underserved population.
 
@@ -70,7 +70,7 @@ Pub. L. 94–273 substituted “September” for “June”.
 
 Subsec. (f). Pub. L. 94–460, §108(d)(2), added subsec. (f).
 
-1975—Subsec. (b)(1). Pub. L. 93–641 substituted provisions that amount disbursed under a loan or loans made or guaranteed under this section for a health maintenance organization may not exceed $1,000,000,000 for provisions that principal amount of any loan made or guaranteed under subsec. (a) of this section for a health maintenance organization may not exceed $1,000,000.
+<b>1975</b>—Subsec. (b)(1). Pub. L. 93–641 substituted provisions that amount disbursed under a loan or loans made or guaranteed under this section for a health maintenance organization may not exceed $1,000,000,000 for provisions that principal amount of any loan made or guaranteed under subsec. (a) of this section for a health maintenance organization may not exceed $1,000,000.
 
 #### Effective Date of 1986 Amendment
 

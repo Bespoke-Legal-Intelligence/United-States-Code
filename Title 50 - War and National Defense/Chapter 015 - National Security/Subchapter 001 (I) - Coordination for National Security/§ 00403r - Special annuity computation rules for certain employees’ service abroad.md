@@ -34,7 +34,7 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–496 substituted reference to section 2013 of this title for reference in original to section 203 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees which was formerly set out as a note under section 403 of this title.
+<b>1992</b>—Subsec. (a). Pub. L. 102–496 substituted reference to section 2013 of this title for reference in original to section 203 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees which was formerly set out as a note under section 403 of this title.
 
 #### Effective Date of 1992 Amendment
 

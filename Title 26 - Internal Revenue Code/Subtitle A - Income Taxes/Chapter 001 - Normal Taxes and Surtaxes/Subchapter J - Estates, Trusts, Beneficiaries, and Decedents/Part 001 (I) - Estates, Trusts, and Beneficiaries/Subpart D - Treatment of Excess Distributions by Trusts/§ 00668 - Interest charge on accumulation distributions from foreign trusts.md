@@ -66,13 +66,13 @@ A prior section 668, acts Aug. 16, 1954, ch. 736, 68A Stat. 225; Oct. 16, 1962, 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–188 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of the tax determined under section 667(a), the interest charge is an amount equal to 6 percent of the partial tax computed under section 667(b) multiplied by a fraction—
+<b>1996</b>—Subsec. (a). Pub. L. 104–188 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of the tax determined under section 667(a), the interest charge is an amount equal to 6 percent of the partial tax computed under section 667(b) multiplied by a fraction—
 
 &emsp;“(1) the numerator of which is the sum of the number of taxable years between each taxable year to which the distribution is allocated under section 666(a) and the taxable year of the distribution (counting in each case the taxable year to which the distribution is allocated but not counting the taxable year of the distribution), and
 
 &emsp;“(2) the denominator of which is the number of taxable years to which the distribution is allocated under section 666(a).”
 
-1990—Subsec. (c). Pub. L. 101–508 substituted heading for one which read “Special rules” and amended text generally, restating provisions of former par. (1) as entire subsection and striking out former par. (2) which provided that for purposes of this section, undistributed net income existing in a trust as of January 1, 1977, would be treated as allocated under section 666(a) to the first taxable year beginning after December 31, 1976.
+<b>1990</b>—Subsec. (c). Pub. L. 101–508 substituted heading for one which read “Special rules” and amended text generally, restating provisions of former par. (1) as entire subsection and striking out former par. (2) which provided that for purposes of this section, undistributed net income existing in a trust as of January 1, 1977, would be treated as allocated under section 666(a) to the first taxable year beginning after December 31, 1976.
 
 #### Effective Date of 1996 Amendment
 

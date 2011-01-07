@@ -56,21 +56,21 @@ Effective from its commencing date, there shall be an increase of 10 percent in 
 
 #### Amendments
 
-1988—Subsec. (c)(1). Pub. L. 100–238 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The first increase (if any) made under this section to an annuity which is payable from the Fund under this part to a participant or to the surviving spouse of a deceased participant who dies in service shall be equal to the product (adjusted to the nearest 1/10 of 1 percent) of—
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–238 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The first increase (if any) made under this section to an annuity which is payable from the Fund under this part to a participant or to the surviving spouse of a deceased participant who dies in service shall be equal to the product (adjusted to the nearest 1/10 of 1 percent) of—
 
 &emsp;“(a) 1/6 of the applicable percent change determined under subsection (b) of this section, multiplied by
 
 &emsp;“(b) the number of full months for which the annuity was payable from the Fund under this part before the effective date of the increase (counting any portion of a month as a full month).
 
-> In the administration of this paragraph, the number of days of unused sick leave to the credit of a participant or deceased participant on the effective date of the then last preceding general annuity increase under this section shall be deemed to be equal to the number ofdays of unused sick leave to his or her credit on the day of separation from the Service.”
+> In the administration of this paragraph, the number of days of unused sick leave to the credit of a participant or deceased participant on the effective date of the then last preceding general annuity increase under this section shall be deemed to be equal to the number of days of unused sick leave to his or her credit on the day of separation from the Service.”
 
-1986—Subsecs. (a), (c). Pub. L. 99–335 inserted “under this part” after “payable from the Fund” wherever appearing.
+<b>1986</b>—Subsecs. (a), (c). Pub. L. 99–335 inserted “under this part” after “payable from the Fund” wherever appearing.
 
-1983—Subsec. (e). Ex. Ord. No. 12446, §2(a), substituted “rounded to the next lowest” for “fixed at the nearest”.
+<b>1983</b>—Subsec. (e). Ex. Ord. No. 12446, §2(a), substituted “rounded to the next lowest” for “fixed at the nearest”.
 
 Subsec. (g). Ex. Ord. No. 12446, §6(a), added subsec. (g).
 
-1981—Subsec. (c)(1). Ex. Ord. No. 12289 amended first sentence of par. (1) generally. Prior to amendment, first sentence read as follows: “An annuity (except a deferred annuity) payable from the Fund to a participant who retires and receives an immediate annuity, or to a surviving spouse or former spouse of a deceased participant who dies in service or who dies after being separated with benefits under section 4009(b)(2) of this title, which has a commencing date after the effective date of the then last preceding general annuity increase under this section shall not be less than the annuity which would have been payable if the commencing date of such annuity had been the effective date of such last preceding increase.”
+<b>1981</b>—Subsec. (c)(1). Ex. Ord. No. 12289 amended first sentence of par. (1) generally. Prior to amendment, first sentence read as follows: “An annuity (except a deferred annuity) payable from the Fund to a participant who retires and receives an immediate annuity, or to a surviving spouse or former spouse of a deceased participant who dies in service or who dies after being separated with benefits under section 4009(b)(2) of this title, which has a commencing date after the effective date of the then last preceding general annuity increase under this section shall not be less than the annuity which would have been payable if the commencing date of such annuity had been the effective date of such last preceding increase.”
 
 #### Effective Date of 1988 Amendment
 

@@ -26,9 +26,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96–465 substituted “section 4085 of this title” for “section 1131 of this title”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–465 substituted “section 4085 of this title” for “section 1131 of this title”.
 
-1970—Subsec. (b). Pub. L. 91–352 substituted “section 5536 of title 5” for “section 70 of title 5”.
+<b>1970</b>—Subsec. (b). Pub. L. 91–352 substituted “section 5536 of title 5” for “section 70 of title 5”.
 
 #### Effective Date of 1980 Amendment
 

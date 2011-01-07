@@ -94,7 +94,7 @@ In subsection (e), the words “memorandums of understanding” are omitted as b
 
 #### Amendments
 
-2001—Subsec. (b). Pub. L. 107–71, §102(b), struck out “international” before “terrorism”.
+<b>2001</b>—Subsec. (b). Pub. L. 107–71, §102(b), struck out “international” before “terrorism”.
 
 Pub. L. 107–71, §101(f)(7), (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
 

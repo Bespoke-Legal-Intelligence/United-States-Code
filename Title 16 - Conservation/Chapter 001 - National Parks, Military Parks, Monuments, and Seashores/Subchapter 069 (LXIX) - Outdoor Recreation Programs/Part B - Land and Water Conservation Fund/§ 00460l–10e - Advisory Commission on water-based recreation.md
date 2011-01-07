@@ -46,7 +46,7 @@ The report shall review the extent of water-related recreation at Federal man-ma
 
 #### Amendments
 
-2000—Subsec. (b)(6). Pub. L. 106–176, §123(b)(1), substituted “recreation-related” for “recreation related”.
+<b>2000</b>—Subsec. (b)(6). Pub. L. 106–176, §123(b)(1), substituted “recreation-related” for “recreation related”.
 
 Subsec. (e). Pub. L. 106–176, §123(b)(2)(A), (C), in introductory provisions, substituted “water-related” for “water related” and “man-made” for “manmade” and, in concluding provisions, substituted “man-made” for “manmade”.
 
@@ -54,7 +54,7 @@ Subsec. (e)(1). Pub. L. 106–176, §123(b)(2)(C), substituted “man-made” fo
 
 Subsec. (e)(2). Pub. L. 106–176, §123(b)(2)(B), substituted “federally managed” for “federally-managed”.
 
-1997—Pub. L. 105–83 made technical amendment to directory language of Pub. L. 104–333, §1021(b), which added this section.
+<b>1997</b>—Pub. L. 105–83 made technical amendment to directory language of Pub. L. 104–333, §1021(b), which added this section.
 
 #### Change of Name
 

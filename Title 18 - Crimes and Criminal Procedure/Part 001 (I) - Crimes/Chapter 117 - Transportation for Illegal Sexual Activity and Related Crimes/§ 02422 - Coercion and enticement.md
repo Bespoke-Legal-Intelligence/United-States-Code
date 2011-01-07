@@ -1,6 +1,6 @@
 ### §2422. Coercion and enticement
 
-(a) Whoever knowingly persuades, induces, entices, or coerces any individual to travel ininterstate or foreign commerce, or in any Territory or Possession of the United States, to engage in prostitution, or in any sexual activity for which any person can be charged with a criminal offense, or attempts to do so, shall be fined under this title or imprisoned not more than 20 years, or both.
+(a) Whoever knowingly persuades, induces, entices, or coerces any individual to travel in interstate or foreign commerce, or in any Territory or Possession of the United States, to engage in prostitution, or in any sexual activity for which any person can be charged with a criminal offense, or attempts to do so, shall be fined under this title or imprisoned not more than 20 years, or both.
 
 (b) Whoever, using the mail or any facility or means of interstate or foreign commerce, or within the special maritime and territorial jurisdiction of the United States knowingly persuades, induces, entices, or coerces any individual who has not attained the age of 18 years, to engage in prostitution or any sexual activity for which any person can be charged with a criminal offense, or attempts to do so, shall be fined under this title and imprisoned not less than 10 years or for life.
 
@@ -22,19 +22,19 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–248 substituted “not less than 10 years or for life” for “not less than 5 years and not more than 30 years”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–248 substituted “not less than 10 years or for life” for “not less than 5 years and not more than 30 years”.
 
-2003—Subsec. (a). Pub. L. 108–21, §103(a)(2)(A), substituted “20 years” for “10 years”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–21, §103(a)(2)(A), substituted “20 years” for “10 years”.
 
 Subsec. (b). Pub. L. 108–21, §103(a)(2)(B), (b)(2)(A), substituted “and imprisoned not less than 5 years and” for “, imprisoned” and “30 years” for “15 years, or both”.
 
-1998—Subsec. (a). Pub. L. 105–314, §102(1), inserted “or attempts to do so,” before “shall be fined” and substituted “10 years” for “five years”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–314, §102(1), inserted “or attempts to do so,” before “shall be fined” and substituted “10 years” for “five years”.
 
 Subsec. (b). Pub. L. 105–314, §102(2), added subsec. (b) and struck out former subsec. (b) which read as follows: “Whoever, using any facility or means of interstate or foreign commerce, including the mail, or within the special maritime and territorial jurisdiction of the United States, knowingly persuades, induces, entices, or coerces any individual who has not attained the age of 18 years to engage in prostitution or any sexual act for which any person may be criminally prosecuted, or attempts to do so, shall be fined under this title or imprisoned not more than 10 years, or both.”
 
-1996—Pub. L. 104–104 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1996</b>—Pub. L. 104–104 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1988—Pub. L. 100–690 substituted “or” for “of” before “foreign commerce”.
+<b>1988</b>—Pub. L. 100–690 substituted “or” for “of” before “foreign commerce”.
 
-1986—Pub. L. 99–628 substituted “and enticement” for “or enticement of female” in section catchline and amended text generally. Prior to amendment, text read as follows: “Whoever knowingly persuades, induces, entices, or coerces any woman or girl to go from one place to another in interstate or foreign commerce, or in the District of Columbia or in any Territory or Possession of the United States, for the purpose of prostitution or debauchery, or for any other immoral purpose, or with the intent and purpose on the part of such person that such woman or girl shall engage in the practice of prostitution or debauchery, or any other immoral practice, whether with or without her consent, and thereby knowingly causes such woman or girl to go and to be carried or transported as a passenger upon the line or route of any common carrier or carriers in interstate or foreign commerce, or in the District of Columbia or in any Territory or Possession of the United States, shall be fined not more than $5,000 or imprisoned not more than five years, or both.”
+<b>1986</b>—Pub. L. 99–628 substituted “and enticement” for “or enticement of female” in section catchline and amended text generally. Prior to amendment, text read as follows: “Whoever knowingly persuades, induces, entices, or coerces any woman or girl to go from one place to another in interstate or foreign commerce, or in the District of Columbia or in any Territory or Possession of the United States, for the purpose of prostitution or debauchery, or for any other immoral purpose, or with the intent and purpose on the part of such person that such woman or girl shall engage in the practice of prostitution or debauchery, or any other immoral practice, whether with or without her consent, and thereby knowingly causes such woman or girl to go and to be carried or transported as a passenger upon the line or route of any common carrier or carriers in interstate or foreign commerce, or in the District of Columbia or in any Territory or Possession of the United States, shall be fined not more than $5,000 or imprisoned not more than five years, or both.”
 

@@ -74,7 +74,7 @@
 
 (d) The Congress consents to the accepting, retaining, and wearing by an employee of a decoration tendered in recognition of active field service in time of combat operations or awarded for other outstanding or unusually meritorious performance, subject to the approval of the employing agency of such employee. Without this approval, the decoration is deemed to have been accepted on behalf of the United States, shall become the property of the United States, and shall be deposited by the employee, within sixty days of acceptance, with the employing agency for official use, for forwarding to the Administrator of General Services for disposal in accordance with subsection (e)(1), or for disposal in accordance with subsection (e)(2).
 
-(e)(1) Except as provided in paragraph (2), gifts and decorations that have been deposited with an employing agency for disposal shall be (A) returned to the donor, or (B) forwarded to the Administrator of General Services for transfer, donation, or other disposal in accordance with the provisions of subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.). However, no gift or decoration that has been deposited for disposal may be sold without the approval of the Secretary of State, upon a determination that the sale will not adversely affect the foreign relations of the United States. Gifts and decorations may be sold by negotiated sale.
+(e)(1) Except as provided in paragraph (2), gifts and decorations that have been deposited with an employing agency for disposal shall be (A) returned to the donor, or (B) forwarded to the Administrator of General Services for transfer, donation, or other disposal in accordance with the provisions of subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41. However, no gift or decoration that has been deposited for disposal may be sold without the approval of the Secretary of State, upon a determination that the sale will not adversely affect the foreign relations of the United States. Gifts and decorations may be sold by negotiated sale.
 
 (2) Gifts and decorations received by a Senator or an employee of the Senate that are deposited with the Secretary of the Senate for disposal, or are deposited for an official use which has terminated, shall be disposed of by the Commission on Arts and Antiquities of the United States Senate. Any such gift or decoration may be returned by the Commission to the donor or may be transferred or donated by the Commission, subject to such terms and conditions as it may prescribe, (A) to an agency or instrumentality of (i) the United States, (ii) a State, territory, or possession of the United States, or a political subdivision of the foregoing, or (iii) the District of Columbia, or (B) to an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 which is exempt from taxation under section 501(a) of such Code. Any such gift or decoration not disposed of as provided in the preceding sentence shall be forwarded to the Administrator of General Services for disposal in accordance with paragraph (1). If the Administrator does not dispose of such gift or decoration within one year, he shall, at the request of the Commission, return it to the Commission and the Commission may dispose of such gift or decoration in such manner as it considers proper, except that such gift or decoration may be sold only with the approval of the Secretary of State upon a determination that the sale will not adversely affect the foreign relations of the United States.
 
@@ -102,9 +102,11 @@
 
 &emsp;(C) the identity, if known, of the foreign government and the name and position of the individual who presented the gift.
 
-(4)(A) In transmitting such listings for the Central Intelligence Agency, the Director of the Central Intelligence Agency may delete the information described in subparagraphs (A) and (C) of paragraphs (2) and (3) if the Director certifies in writing to the Secretary of State that the publication of such information could adversely affect United States intelligence sources.
+(4)(A) In transmitting such listings for an element of the intelligence community, the head of such element may delete the information described in subparagraph (A) or (C) of paragraph (2) or in subparagraph (A) or (C) of paragraph (3) if the head of such element certifies in writing to the Secretary of State that the publication of such information could adversely affect United States intelligence sources or methods.
 
-(B) In transmitting such listings for the Office of the Director of National Intelligence, the Director of National Intelligence may delete the information described in subparagraphs (A) and (C) of paragraphs (2) and (3) if the Director certifies in writing to the Secretary of State that the publication of such information could adversely affect United States intelligence sources.
+(B) Any information not provided to the Secretary of State pursuant to the authority in subparagraph (A) shall be transmitted to the Director of National Intelligence who shall keep a record of such information.
+
+(C) In this paragraph, the term “intelligence community” has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).
 
 (g)(1) Each employing agency shall prescribe such regulations as may be necessary to carry out the purpose of this section. For all employing agencies in the executive branch, such regulations shall be prescribed pursuant to guidance provided by the Secretary of State. These regulations shall be implemented by each employing agency for its employees.
 
@@ -124,7 +126,7 @@
 
 (k) The provisions of this section do not apply to grants and other forms of assistance to which section 108A of the Mutual Educational and Cultural Exchange Act of 1961 applies.
 
-(Added Pub. L. 90–83, §1(45)(C), Sept. 11, 1967, 81 Stat. 208; amended Pub. L. 95–105, title V, §515(a)(1), Aug. 17, 1977, 91 Stat. 862; Pub. L. 95–426, title VII, §712(a)–(c), Oct. 7, 1978, 92 Stat. 994; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–217, §3(a)(1), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 108–458, title I, §1079(b), Dec. 17, 2004, 118 Stat. 3696; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241.)
+(Added Pub. L. 90–83, §1(45)(C), Sept. 11, 1967, 81 Stat. 208; amended Pub. L. 95–105, title V, §515(a)(1), Aug. 17, 1977, 91 Stat. 862; Pub. L. 95–426, title VII, §712(a)–(c), Oct. 7, 1978, 92 Stat. 994; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–217, §3(a)(1), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 108–458, title I, §1079(b), Dec. 17, 2004, 118 Stat. 3696; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 111–259, title III, §361, Oct. 7, 2010, 124 Stat. 2701; Pub. L. 111–350, §5(a)(10), Jan. 4, 2011, 124 Stat. 3841.)
 
 Historical and Revision Notes
 
@@ -176,19 +178,25 @@ In subsection (e), the words “The President may prescribe regulations to carry
 
 Section 152 of the Internal Revenue Code of 1986, referred to in subsec. (a)(1)(G), is classified to section 152 of Title 26, Internal Revenue Code.
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (e)(1), is act June 30, 1949, ch. 288, 63 Stat. 377. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
-
 Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (e)(2), is classified to section 501 of Title 26, Internal Revenue Code.
 
 Section 108A of the Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (k), is classified to section 2458a of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
 
+2011—Subsec. (e)(1). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
+
+2010—Subsec. (f)(4). Pub. L. 111–259 amended par. (4) generally. Prior to amendment, par. (4) read as follows:
+
+“(A) In transmitting such listings for the Central Intelligence Agency, the Director of the Central Intelligence Agency may delete the information described in subparagraphs (A) and (C) of paragraphs (2) and (3) if the Director certifies in writing to the Secretary of State that the publication of such information could adversely affect United States intelligence sources.
+
+“(B) In transmitting such listings for the Office of the Director of National Intelligence, the Director of National Intelligence may delete the information described in subparagraphs (A) and (C) of paragraphs (2) and (3) if the Director certifies in writing to the Secretary of State that the publication of such information could adversely affect United States intelligence sources.”
+
 2006—Subsec. (a)(1)(A). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 2004—Subsec. (f)(4). Pub. L. 108–458 designated existing provisions as subpar. (A), substituted “the Director of the Central Intelligence Agency” for “the Director of Central Intelligence”, and added subpar. (B).
 
-2002—Subsec. (e)(1). Pub. L. 107–217 substituted “provisions of subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949\(41 U.S.C. 251 et seq.)” for “provisions of the Federal Property and Administrative Services Act of 1949”.
+2002—Subsec. (e)(1). Pub. L. 107–217 substituted “provisions of subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” for “provisions of the Federal Property and Administrative Services Act of 1949”.
 
 1986—Subsecs. (a)(1)(G), (e)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 

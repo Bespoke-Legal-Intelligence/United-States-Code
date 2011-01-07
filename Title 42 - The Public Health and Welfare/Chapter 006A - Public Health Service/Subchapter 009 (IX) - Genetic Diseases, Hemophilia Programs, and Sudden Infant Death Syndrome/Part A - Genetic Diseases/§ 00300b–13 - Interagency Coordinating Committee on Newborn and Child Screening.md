@@ -32,5 +32,5 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–237 substituted “2009, $1,012,500 for fiscal year 2010, $1,025,000 for fiscal year 2011, $1,037,500 for fiscal year 2012, and $1,050,000 for fiscal year 2013.” for “2008, $1,012,500 for fiscal year 2009, $1,025,000 for fiscal year 2010, $1,037,500 for fiscal year 2011, and $1,050,000 for fiscal year 2012.”
+<b>2008</b>—Subsec. (e). Pub. L. 110–237 substituted “2009, $1,012,500 for fiscal year 2010, $1,025,000 for fiscal year 2011, $1,037,500 for fiscal year 2012, and $1,050,000 for fiscal year 2013.” for “2008, $1,012,500 for fiscal year 2009, $1,025,000 for fiscal year 2010, $1,037,500 for fiscal year 2011, and $1,050,000 for fiscal year 2012.”
 

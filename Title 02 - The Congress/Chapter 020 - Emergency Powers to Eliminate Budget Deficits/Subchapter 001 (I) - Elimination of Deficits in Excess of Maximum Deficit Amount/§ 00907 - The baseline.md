@@ -10,7 +10,7 @@ For the budget year and each outyear, the baseline shall be calculated using the
 
 #### (1) In general
 
-&emsp;Laws providing or creating direct spending and receipts are assumed to operate in the manner specified in those laws for each such year and funding for entitlement authority is assumed to be adequate to make all payments required by those laws.
+&emsp;Laws providing or creating direct spending and receipts are assumed to operate in themanner specified in those laws for each such year and funding for entitlement authority is assumed to be adequate to make all payments required by those laws.
 
 #### (2) Exceptions
 
@@ -144,7 +144,7 @@ Pars. (13), (14). Pub. L. 100–119, §102(b)(8), added pars. (13) and (14).
 
 #### Definition of Terms Used in Balanced Budget and Emergency Deficit Control Act of 1985
 
-Pub. L. 101–163, title III, §315, Nov. 21, 1989, 103 Stat. 1066, provided that: “Effective in the case of this Act and any subsequent Act making appropriations for the Legislative Branch, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), as amended \[see Short Title note set out under section 900 of this title\], or any other Act which requires a uniform percentage reduction in accounts in this Act and any subsequent Act making appropriations for the Legislative Branch, the accounts under the general heading ‘Senate’, and the accounts under the general heading ‘House of Representatives’, shalleach be considered to be one appropriation account and one ‘program, project, and activity’.”
+Pub. L. 101–163, title III, §315, Nov. 21, 1989, 103 Stat. 1066, provided that: “Effective in the case of this Act and any subsequent Act making appropriations for the Legislative Branch, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), as amended \[see Short Title note set out under section 900 of this title\], or any other Act which requires a uniform percentage reduction in accounts in this Act and any subsequent Act making appropriations for the Legislative Branch, the accounts under the general heading ‘Senate’, and the accounts under the general heading ‘House of Representatives’, shall each be considered to be one appropriation account and one ‘program, project, and activity’.”
 
 Pub. L. 100–202, §101(i) \[title III, §306\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–309, provided that: “Hereafter, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), as amended \[see Short Title note set out under section 900 of this title\], the term ‘program, project, and activity’ shall be synonymous with each appropriation account in this Act \[see Tables for classification\], except that the accounts under the general heading ‘House of Representatives’ shall be considered one appropriation account and one ‘program, project, and activity’, and the accounts under the general heading ‘Senate’ shall be considered one appropriation account and one ‘program, project, and activity’.”
 
@@ -154,7 +154,7 @@ Pub. L. 99–509, title VII, §7001, Oct. 21, 1986, 100 Stat. 1948, provided tha
 
 “(a)
 
-In General.—Benefits which are payable in calendar year 1987, 1988, 1989, 1990, or 1991, under programs listed in section 257(1)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), \[2 U.S.C. 907(1)(A)\], including any cost-of-living adjustment in such benefits, shall not be subject to modification, suspension, or reduction in such calendar year pursuant to a Presidential order issued under such Act \[see Short Title note set out under 2 U.S.C. 900\].
+In General.—Benefits which are payable in calendar year 1987, 1988, 1989, 1990, or 1991, under programs listed in section 257(1)(A) of the Balanced Budget andEmergency Deficit Control Act of 1985 (Public Law 99–177), \[2 U.S.C. 907(1)(A)\], including any cost-of-living adjustment in such benefits, shall not be subject to modification, suspension, or reduction in such calendar year pursuant to a Presidential order issued under such Act \[see Short Title note set out under 2 U.S.C. 900\].
 
 “(b)
 

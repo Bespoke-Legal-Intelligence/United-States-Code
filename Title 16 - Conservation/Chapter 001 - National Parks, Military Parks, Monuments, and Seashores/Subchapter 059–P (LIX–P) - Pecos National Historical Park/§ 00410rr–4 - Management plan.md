@@ -12,5 +12,5 @@ Within 3 full fiscal years from the date funding is made available for the purpo
 
 #### Amendments
 
-1994—Pub. L. 103–437 in introductory provisions substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Pub. L. 103–437 in introductory provisions substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 

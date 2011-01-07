@@ -1,6 +1,6 @@
 ### §1683. Auditing of transactions of Trust Territory of the Pacific Islands
 
-All financial transactions of the Trust Territory, including such transactions of all agencies or instrumentalities established or utilized bysuch Trust Territory, may be audited by the Government Accountability Office, at its discretion, in accordance with chapter 35 of title 31.
+All financial transactions of the Trust Territory, including such transactions of all agencies or instrumentalities established or utilized by such Trust Territory, may be audited by the Government Accountability Office, at its discretion, in accordance with chapter 35 of title 31.
 
 (Pub. L. 103–332, title I, Sept. 30, 1994, 108 Stat. 2516; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
@@ -100,5 +100,5 @@ July 9, 1952, ch. 597, title I, 66 Stat. 458.
 
 #### Amendments
 
-2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

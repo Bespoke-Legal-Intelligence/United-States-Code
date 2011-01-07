@@ -12,11 +12,11 @@
 
 > However, no such annuity is payable or accrues for any month before November 1, 1968.
 
-(c)(1) Upon application of the beneficiary of a member entitled to retired or retainer pay whose retired or retainer pay has been suspended because the member has been determined to be missing, the Secretary concerned may determine for purposes of this subchapter that the member is presumed dead. Any such determination shall be made in accordance with regulations prescribed under section 1444(a) of this title. The Secretary concerned may not make a determination for purposes of this subchapter that a member is presumed dead unless he finds—
+(c)(1) Upon application of the beneficiary of a member entitled to retired or retainer pay whose retired or retainer pay has been suspended because the member has been determined to be missing, the Secretary concerned may determine for purposes of this subchapter that the member is presumed dead. Any such determination shall be made in accordance with regulations prescribed under section 1444(a) of this title. The Secretary concerned may not make a determination for purposes of this subchapterthat a member is presumed dead unless he finds—
 
 &emsp;(A) that the member has been missing for at least 30 days; and
 
-&emsp;(B) that the circumstances under which the member is missing would lead a reasonablyprudent person to conclude that the member is dead.
+&emsp;(B) that the circumstances under which the member is missing would lead a reasonably prudent person to conclude that the member is dead.
 
 (2) Upon a determination under paragraph (1) with respect to a member, an annuity otherwise payable under this subchapter shall be paid as if the member died on the date as of which the retired or retainer pay of the member was suspended.
 
@@ -50,19 +50,19 @@ The words “the person upon whose reduced pay the annuity is based” are subst
 
 #### Amendments
 
-1985—Subsec. (c)(3)(A). Pub. L. 99–145 struck out “(notwithstanding section 144 of this title)” after “which”.
+<b>1985</b>—Subsec. (c)(3)(A). Pub. L. 99–145 struck out “(notwithstanding section 144 of this title)” after “which”.
 
-1984—Subsec. (a). Pub. L. 98–525, §642(a)(1)(A), substituted “subsections (b) and (c),” for “subsection (b)”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–525, §642(a)(1)(A), substituted “subsections (b) and (c),” for “subsection (b)”.
 
 Subsec. (c). Pub. L. 98–525, §642(a)(1)(B), added subsec. (c).
 
-1983—Subsec. (a). Pub. L. 98–94 inserted “The monthly amount of an annuity payable under this subchapter, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
+<b>1983</b>—Subsec. (a). Pub. L. 98–94 inserted “The monthly amount of an annuity payable under this subchapter, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
 
-1980—Subsec. (b). Pub. L. 96–513 substituted “before November 1, 1968” for “prior to the effective date of this subsection”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513 substituted “before November 1, 1968” for “prior to the effective date of this subsection”.
 
-1972—Subsec. (a). Pub. L. 92–425 substituted “subchapter” for “chapter”.
+<b>1972</b>—Subsec. (a). Pub. L. 92–425 substituted “subchapter” for “chapter”.
 
-1968—Pub. L. 90–485 designated existing provisions as subsec. (a), inserted “Except as provided in subsection (b)”, substituted “whose pay” for “whose reduced pay”, and added subsec. (b).
+<b>1968</b>—Pub. L. 90–485 designated existing provisions as subsec. (a), inserted “Except as provided in subsection (b)”, substituted “whose pay” for “whose reduced pay”, and added subsec. (b).
 
 #### Effective Date of 1983 Amendment
 

@@ -74,7 +74,7 @@ Except as provided in subsection (a)(2)(H) of this section, the total of the pay
 
 The lender shall obtain the borrower's driver's license number, if any, at the time of application for the loan.
 
-(Pub. L. 89–329, title IV, §427, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1361; amended Pub. L. 100–50, §10(b), (c), June 3, 1987, 101 Stat. 341; Pub. L. 100–369, §§5(b)(1), 7(c), 11(a), July 18, 1988, 102 Stat. 836–838; Pub. L. 101–239, title II, §§2002(a)(1), 2004(b)(2), Dec. 19, 1989, 103 Stat. 2111, 2116; Pub. L. 102–164, title VI, §§601(a), 602(a), Nov. 15, 1991, 105 Stat. 1065, 1066; Pub. L. 102–325, title IV, §414, July 23, 1992, 106 Stat. 513; Pub. L. 103–208, §2(c)(4), Dec. 20, 1993, 107 Stat. 2461; Pub. L. 110–315, title IV, §432(b)(1), Aug. 14, 2008, 122 Stat. 3246.)
+(Pub. L. 89–329, title IV, §427, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1361; amended Pub. L. 100–50, §10(b), (c), June 3, 1987, 101 Stat. 341; Pub. L. 100–369, §§5(b)(1), 7(c), 11(a), July 18, 1988, 102 Stat. 836–838; Pub. L. 101–239, title II, §§2002(a)(1), 2004(b)(2), Dec. 19,1989, 103 Stat. 2111, 2116; Pub. L. 102–164, title VI, §§601(a), 602(a), Nov. 15, 1991, 105 Stat. 1065, 1066; Pub. L. 102–325, title IV, §414, July 23, 1992, 106 Stat. 513; Pub. L. 103–208, §2(c)(4), Dec. 20, 1993, 107 Stat. 2461; Pub. L. 110–315, title IV, §432(b)(1), Aug. 14, 2008, 122 Stat. 3246.)
 
 #### Prior Provisions
 
@@ -82,13 +82,13 @@ A prior section 1077, Pub. L. 89–329, title IV, §427, Nov. 8, 1965, 79 Stat. 
 
 #### Amendments
 
-2008—Subsec. (a)(2)(G)(i). Pub. L. 110–315, §432(b)(1)(A), substituted “consumer reporting agencies” for “credit bureau organizations”.
+<b>2008</b>—Subsec. (a)(2)(G)(i). Pub. L. 110–315, §432(b)(1)(A), substituted “consumer reporting agencies” for “credit bureau organizations”.
 
 Subsec. (a)(2)(G)(ii). Pub. L. 110–315, §432(b)(1)(B), substituted “consumer reporting agencies” for “organizations”.
 
-1993—Subsec. (a)(2)(C)(i). Pub. L. 103–208 inserted “section” before “1078–2 or 1078–3”.
+<b>1993</b>—Subsec. (a)(2)(C)(i). Pub. L. 103–208 inserted “section” before “1078–2 or 1078–3”.
 
-1992—Subsec. (a)(2)(A). Pub. L. 102–325, §414(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “is made without security and without endorsement, except that prior to making a loan insurable by the Secretary under this part a lender shall—
+<b>1992</b>—Subsec. (a)(2)(A). Pub. L. 102–325, §414(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “is made without security and without endorsement, except that prior to making a loan insurable by the Secretary under this part a lender shall—
 
 &emsp;“(i) obtain a credit report, from at least one national credit bureau organization, with respect to a loan applicant who will be at least 21 years of age as of July 1 of the award year for which assistance is being sought, for which the lender may charge the applicant an amount not to exceed the lesser of $25 or the actual cost of obtaining the credit report; and
 
@@ -102,21 +102,21 @@ Subsec. (a)(3). Pub. L. 102–325, §414(d), amended par. (3) generally. Prior t
 
 Subsec. (c). Pub. L. 102–325, §414(c)(2), (e), substituted “Special repayment rules” for “Minimum repayment rate” in heading and in text “Except as provided in subsection (a)(2)(H) of this section, the total” for “The total” and “(but in no instance less than the amount of interest due and payable)” for “, except that in the case of a husband and wife, both of whom have such loans outstanding, the total of the combined payments for such a couple during any year shall not be less than $600 or the balance of all such loans, whichever is less”.
 
-1991—Subsec. (a)(2)(A). Pub. L. 102–164, §601(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “is made without security and without endorsement, except that if the borrower is a minor and such note or other written agreement executed by the borrower would not, under the applicable law, create a binding obligation, endorsement may be required;”.
+<b>1991</b>—Subsec. (a)(2)(A). Pub. L. 102–164, §601(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “is made without security and without endorsement, except that if the borrower is a minor and such note or other written agreement executed by the borrower would not, under the applicable law, create a binding obligation, endorsement may be required;”.
 
 Subsec. (d). Pub. L. 102–164, §602(a), added subsec. (d).
 
-1989—Subsec. (a)(2)(C)(i). Pub. L. 101–239, §2002(a)(1), inserted before semicolon at end “, except that no borrower shall be eligible for a deferment under this clause, or a loan made under this part (other than a loan made under section 1078–2 or 1078–3 of this title), while serving in a medical internship or residency program”.
+<b>1989</b>—Subsec. (a)(2)(C)(i). Pub. L. 101–239, §2002(a)(1), inserted before semicolon at end “, except that no borrower shall be eligible for a deferment under this clause, or a loan made under this part (other than a loan made under section 1078–2 or 1078–3 of this title), while serving in a medical internship or residency program”.
 
 Subsec. (a)(4). Pub. L. 101–239, §2004(b)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “in the case of any loan made for any period of enrollment that ends more than 180 days (or 6 months) after the date disbursement is scheduled to occur, and for an amount of $1,000 or more, the proceeds of the loan will, subject to subsection (b) of this section, be disbursed directly by the lender in two or more installments, none of which exceeds one-half of the loan, with the second installment being disbursed after not less than one-third of such period (except as necessary to permit the second installment to be disbursed at the beginning of the second semester, quarter, or similar division of such period of enrollment).”
 
-1988—Subsec. (a)(2)(C)(v). Pub. L. 100–369, §7(c), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1988</b>—Subsec. (a)(2)(C)(v). Pub. L. 100–369, §7(c), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Subsec. (a)(2)(C)(vii). Pub. L. 100–369, §11(a), inserted “after January 1, 1986,” after “service”.
 
 Subsec. (b)(2). Pub. L. 100–369, §5(b)(1), substituted “section 1078–2 or 1078–3” for “section 1078–1, 1078–2, or 1078–3”.
 
-1987—Subsec. (a)(2)(C)(vi). Pub. L. 100–50, §10(b)(1), inserted “nonprofit” before “private”.
+<b>1987</b>—Subsec. (a)(2)(C)(vi). Pub. L. 100–50, §10(b)(1), inserted “nonprofit” before “private”.
 
 Subsec. (a)(2)(C)(vii). Pub. L. 100–50, §10(b)(2), inserted “or serving in an internship or residency program leading to a degree or certificate awarded by an institution of higher education, a hospital, or a health care facility that offers postgraduate training” before semicolon at end.
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made
 
 #### Effective Date of 1989 Amendment
 
-Section 2002(a)(4) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amending this section and sections 1078 and 1087dd of this title\] shall apply to any loan made, insured, or guaranteed under part B or part E of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq., 1087aa et seq.\], including a loan made before the enactment of this Act \[Dec. 19, 1989\], and shall take effect on January 1, 1990, except that such amendments shall not apply with respect to any portion of a period of deferment granted to a borrower under section 427(a)(2)(C)(i), 428(b)(1)(M)(i), or 464(c)(2)(A)(i) of the Higher Education Act of 1965 \[sections 1077(a)(2)(C)(i), 1078(b)(1)(M)(i), 1087dd(c)(2)(A)(i) of this title\] for service in a medical internship or residency program that is completed prior to the effective date of this section \[Dec. 19, 1989\].”
+Section 2002(a)(4) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amendingthis section and sections 1078 and 1087dd of this title\] shall apply to any loan made, insured, or guaranteed under part B or part E of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq., 1087aa et seq.\], including a loan made before the enactment of this Act \[Dec. 19, 1989\], and shall take effect on January 1, 1990, except that such amendments shall not apply with respect to any portion of a period of deferment granted to a borrower under section 427(a)(2)(C)(i), 428(b)(1)(M)(i), or 464(c)(2)(A)(i) of the Higher Education Act of 1965 \[sections 1077(a)(2)(C)(i), 1078(b)(1)(M)(i), 1087dd(c)(2)(A)(i) of this title\] for service in a medical internship or residency program that is completed prior to the effective date of this section \[Dec. 19, 1989\].”
 
 Section 2004(c) of Pub. L. 101–239 provided that: “The amendments made by this section \[enacting section 1078–7 of this title and amending this section and section 1078 of this title\] shall apply with respect to loans made to cover the cost of instruction for periods of enrollment beginning on or after January 1, 1990.”
 

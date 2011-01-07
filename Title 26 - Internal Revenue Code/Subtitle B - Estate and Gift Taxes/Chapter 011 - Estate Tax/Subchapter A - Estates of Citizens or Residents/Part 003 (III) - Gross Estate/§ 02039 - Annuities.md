@@ -2,7 +2,7 @@
 
 #### (a) General
 
-The gross estate shall include the value of an annuity or other payment receivable by anybeneficiary by reason of surviving the decedent under any form of contract or agreement entered into after March 3, 1931 (other than as insurance under policies on the life of the decedent), if, under such contract or agreement, an annuity or other payment was payable to the decedent, or the decedent possessed the right to receive such annuity or payment, either alone or in conjunction with another for his life or for any period not ascertainable without reference to his death or for any period which does not in fact end before his death.
+The gross estate shall include the value of an annuity or other payment receivable by any beneficiary by reason of surviving the decedent under any form of contract or agreement entered into after March 3, 1931 (other than as insurance under policies on the life of the decedent), if, under such contract or agreement, an annuity or other payment was payable to the decedent, or the decedent possessed the right to receive such annuity or payment, either alone or in conjunction with another for his life or for any period not ascertainable without reference to his death or for any period which does not in fact end before his death.
 
 #### (b) Amount includible
 
@@ -12,11 +12,11 @@ Subsection (a) shall apply to only such part of the value of the annuity or othe
 
 #### Amendments
 
-1986—Subsec. (c). Pub. L. 99–514, §1852(e)(1), struck out subsec. (c) which provided an exclusion from gross estate of certain annuity interests created by community property laws.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514, §1852(e)(1), struck out subsec. (c) which provided an exclusion from gross estate of certain annuity interests created by community property laws.
 
 Subsec. (e). Pub. L. 99–514, §1848(d), struck out “or a bond described in paragraph (3)” after “an annuity described in paragraph (2)” in concluding provisions as such provisions were applicable to obligations issued after Dec. 31, 1983, and prior to repeal of subsec. (e) by Pub. L. 98–369, §525(a), see Effective Date of 1984 Amendment note below.
 
-1984—Subsec. (c). Pub. L. 98–369, §525(a), substituted provisions relating to exception of certain annuity interests created by community property laws for provisions which related to exemption of annuities under certain trusts and plans.
+<b>1984</b>—Subsec. (c). Pub. L. 98–369, §525(a), substituted provisions relating to exception of certain annuity interests created by community property laws for provisions which related to exemption of annuities under certain trusts and plans.
 
 Subsec. (d). Pub. L. 98–369, §525(a), struck out subsec. (d) which related to exemption of certain annuity interests created by community property laws. See subsec. (c) of this section.
 
@@ -26,45 +26,45 @@ Pub. L. 98–369, §491(d)(34), inserted “or” at end of par. (1), substitute
 
 Subsecs. (f), (g). Pub. L. 98–369, §525(a), struck out subsec. (f) which related to lump sum distributions and an exception where the recipient elects not to take 10-year averaging, and subsec. (g) which related to a $100,000 limitation on the exclusions under subsecs. (c) and (e).
 
-1983—Subsec. (f)(1). Pub. L. 97–448, §103(c)(9)(A), designated existing provisions as subpar. (A), substituted “without regard to the third sentence of section 402(e)(4)(A))” for “without regard to the next to the last sentence of section 402(e)(4)(A)” in subpar. (A) as so designated, and added subpar. (B).
+<b>1983</b>—Subsec. (f)(1). Pub. L. 97–448, §103(c)(9)(A), designated existing provisions as subpar. (A), substituted “without regard to the third sentence of section 402(e)(4)(A))” for “without regard to the next to the last sentence of section 402(e)(4)(A)” in subpar. (A) as so designated, and added subpar. (B).
 
 Subsec. (f)(2). Pub. L. 97–448, §103(c)(9)(B), substituted “An amount described” for “A lump sum distribution described”.
 
-1982—Subsec. (c). Pub. L. 97–248, §245(b), substituted “Subject to the limitation of subsection (g), notwithstanding any other provision of this section” for “Notwithstanding the provisions of this section”.
+<b>1982</b>—Subsec. (c). Pub. L. 97–248, §245(b), substituted “Subject to the limitation of subsection (g), notwithstanding any other provision of this section” for “Notwithstanding the provisions of this section”.
 
 Subsec. (e). Pub. L. 97–248, §245(b), substituted “Subject to the limitation of subsection (g), notwithstanding any other provision of this section” for “Notwithstanding the provisions of this section”.
 
 Subsec. (g). Pub. L. 97–248, §245(a), added subsec. (g).
 
-1981—Subsec. (c). Pub. L. 97–34, §311(d)(1), provided that for purposes of subsec. (c), any deductible employee contributions, within the meaning of par. (5) of section 72(<i>o</i>), shall be considered as made by a person other than the decedent.
+<b>1981</b>—Subsec. (c). Pub. L. 97–34, §311(d)(1), provided that for purposes of subsec. (c), any deductible employee contributions, within the meaning of par. (5) of section 72(<i>o</i>), shall be considered as made by a person other than the decedent.
 
 Subsec. (e). Pub. L. 97–34, §313(b)(3), inserted reference to rollover contribution described in section 405(d)(3).
 
 Pub. L. 97–34, §311(h)(4), substituted “section 219” for “section 219 or 220”.
 
-1980—Subsec. (f)(2). Pub. L. 96–222 substituted “(without the application of paragraph (2) thereof), except to the extent that section 402(e)(4)(J) applies to such distribution” for “without the application of paragraph (2) thereof”.
+<b>1980</b>—Subsec. (f)(2). Pub. L. 96–222 substituted “(without the application of paragraph (2) thereof), except to the extent that section 402(e)(4)(J) applies to such distribution” for “without the application of paragraph (2) thereof”.
 
-1978—Subsec. (c). Pub. L. 95–600, §142(a), substituted “(other than an amount described in subsection (f))” for “(other than a lump sum distribution described in section 402(e)(4), determined without regard to the next to the last sentence of section 402(e)(4)(A))” in provisions preceding par. (1).
+<b>1978</b>—Subsec. (c). Pub. L. 95–600, §142(a), substituted “(other than an amount described in subsection (f))” for “(other than a lump sum distribution described in section 402(e)(4), determined without regard to the next to the last sentence of section 402(e)(4)(A))” in provisions preceding par. (1).
 
 Subsec. (e). Pub. L. 95–600, §§156(c)(4), 702(j)(1), inserted “section 403(b)(8) (but only to the extent such contribution is attributed to a distribution from a contract described in subsection (c)(3)),” after “403(a)(4)” and inserted “or 220” after “section 219” wherever appearing in provisions following par. (3).
 
 Subsec. (f). Pub. L. 95–600, §142(b), added subsec. (f).
 
-1976—Subsec. (c). Pub. L. 94–455, §2009(c)(2), (3), substituted “other payment (other than a lump sum distribution described in section 402(e)(4), determined without regard to the next to the last sentence of section 402(e)(4)(A)) receivable by any beneficiary” for “other payment receivable by any beneficiary” in provisions preceding par. (1) and substituted “For purposes of this subsection, contributions or payments on behalf of the decedent while he was an employee within the meaning of section 401(c)(1) made under a trust or plan described in paragraph (1) or (2) shall, to the extent allowable as a deduction under section 404, be considered to be made by a person other than the decedent and, to the extent not so allowable, shall be considered to be made by the decedent” for “For purposes of this subsection, contributions or payments on behalf of the decedent while he was an employee within the meaning of section 401(c)(1) made under a trust or plan described in paragraph (1) or (2) shall be considered to be contributions or payments made by the decedent” in provisions following par. (4).
+<b>1976</b>—Subsec. (c). Pub. L. 94–455, §2009(c)(2), (3), substituted “other payment (other than a lump sum distribution described in section 402(e)(4), determined without regard to the next to the last sentence of section 402(e)(4)(A)) receivable by any beneficiary” for “other payment receivable by any beneficiary” in provisions preceding par. (1) and substituted “For purposes of this subsection, contributions or payments on behalf of the decedent while he was an employee within the meaning of section 401(c)(1) made under a trust or plan described in paragraph (1) or (2) shall, to the extent allowable as a deduction under section 404, be considered to be made by a person other than the decedent and, to the extent not so allowable, shall be considered to be made by the decedent” for “For purposes of this subsection, contributions or payments on behalf of the decedent while he was an employee within the meaning of section 401(c)(1) made under a trust or plan described in paragraph (1) or (2) shall be considered to be contributions or payments made by the decedent” in provisions following par. (4).
 
 Subsec. (e). Pub. L. 94–455, §2009(c)(1), added subsec. (e).
 
-1974—Subsec. (c). Pub. L. 93–406 inserted reference to section 1452(d) in provisions following par. (4).
+<b>1974</b>—Subsec. (c). Pub. L. 93–406 inserted reference to section 1452(d) in provisions following par. (4).
 
-1972—Subsec. (d). Pub. L. 92–580 added subsec. (d).
+<b>1972</b>—Subsec. (d). Pub. L. 92–580 added subsec. (d).
 
-1969—Subsec. (c)(3). Pub. L. 91–172 substituted “section 170(b)(1)(A)(ii) or (vi), or which is a religious organization (other than a trust),” for “section 503(b) (1), (2), or (3),”.
+<b>1969</b>—Subsec. (c)(3). Pub. L. 91–172 substituted “section 170(b)(1)(A)(ii) or (vi), or which is a religious organization (other than a trust),” for “section 503(b) (1), (2), or (3),”.
 
-1966—Subsec. (c). Pub. L. 89–365 added par. (4), inserted reference to chapter 73 of title 10 of the United States Code in the enumeration of the plans and contracts set out in the prohibition against allowance of exclusion for that part of the value of the amount payable under the plan or contract in the proportion that the total payments or contributions made by the decedent bear to the total payments or contributions made, and provided that, for purposes of this section, amounts payable under chapter 73 of title 10 are attributable to payments or contributions made by the decedent only to the extent of amounts deposited by him pursuant to section 1438 of title 10.
+<b>1966</b>—Subsec. (c). Pub. L. 89–365 added par. (4), inserted reference to chapter 73 of title 10 of the United States Code in the enumeration of the plans and contracts set out in the prohibition against allowance of exclusion for that part of the value of the amount payable under the plan or contract in the proportion that the total payments or contributions made by the decedent bear to the total payments or contributions made, and provided that, for purposes of this section, amounts payable under chapter 73 of title 10 are attributable to payments or contributions made by the decedent only to the extent of amounts deposited by him pursuant to section 1438 of title 10.
 
-1962—Subsec. (c). Pub. L. 87–792 substituted “was a plan described in section 403(a)” for “met the requirements of section 401(a)(3), (4), (5), and (6)” in par. (2), and inserted sentence providing, for purposes of this subsection, that contributions or payments on behalf of the decedent while he was an employee within the meaning of section 401(c)(1) made under a trust or plan described in paragraph (1) or (2) shall be considered to be contributions or payments made by the decedent.
+<b>1962</b>—Subsec. (c). Pub. L. 87–792 substituted “was a plan described in section 403(a)” for “met the requirements of section 401(a)(3), (4), (5), and (6)” in par. (2), and inserted sentence providing, for purposes of this subsection, that contributions or payments on behalf of the decedent while he was an employee within the meaning of section 401(c)(1) made under a trust or plan described in paragraph (1) or (2) shall be considered to be contributions or payments made by the decedent.
 
-1958—Subsec. (c)(2). Pub. L. 85–866, §67(a), inserted “(4), (5), and (6)” after “section 401(a)(3)”.
+<b>1958</b>—Subsec. (c)(2). Pub. L. 85–866, §67(a), inserted “(4), (5), and (6)” after “section 401(a)(3)”.
 
 Subsec. (c)(3) and closing sentences. Pub. L. 85–866, §23(e), added par. (3), inserted “or under contract described in paragraph (3)” in second sentence of subsec. (c) and substituted “paragraph (1) or (2) shall not be considered to be contributed by the decedent, and contributions or payments made by the decedent's employer or former employer toward the purchase of an annuity contract described in paragraph (3) shall, to the extent excludable from gross income under section 403(b),” for “this subsection shall” in third sentence of subsec. (c).
 
@@ -72,7 +72,7 @@ Subsec. (c)(3) and closing sentences. Pub. L. 85–866, §23(e), added par. (3),
 
 Section 1852(e)(1)(B) of Pub. L. 99–514 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
-Amendment by section 1848(d) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1848(d) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369,div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -134,7 +134,7 @@ Section 2009(e)(3)(A) of Pub. L. 94–455 provided that: “The amendments made 
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–406 applicable to taxable years ending on or after Sept. 21, 1972, with respect toindividuals dying on or after Sept. 21, 1972, see section 2007(c) of Pub. L. 93–406, set out as a note under section 122 of this title.
+Amendment by Pub. L. 93–406 applicable to taxable years ending on or after Sept. 21, 1972, with respect to individuals dying on or after Sept. 21, 1972, see section 2007(c) of Pub. L. 93–406, set out as a note under section 122 of this title.
 
 #### Effective Date of 1972 Amendment
 

@@ -74,7 +74,7 @@ Maximum amount.—No loan guarantee shall be made under this section—
 
 &emsp;&emsp;(A) that extends to more than the unpaid interest and 50 percent of the unpaid principal on any loan;
 
-&emsp;&emsp;(B) that, for any loan or combination of loans, extends to more than 50 percent of the purchase price (including the value of any manufacturer credits, post-purchase options, or other discounts) of the aircraft, including spare parts, to be purchased with the loan or loan combination;
+&emsp;&emsp;(B) that, for any loan or combination of loans, extends to more than 50 percent of the purchase price (including the value of any manufacturer credits, post-purchase options,or other discounts) of the aircraft, including spare parts, to be purchased with the loan or loan combination;
 
 &emsp;&emsp;(C) on any loan with respect to which terms permit repayment more than 15 years after the date of execution of the loan; or
 
@@ -90,7 +90,7 @@ Lines of Credit.—
 
 &emsp;(1)
 
-In general.—Subject to the requirements of this subsection, the Secretary may enter into agreements to make available lines ofcredit to one or more obligors in the form of direct loans to be made by the Secretary at future dates on the occurrence of certain events for any aircraft purchase selected under this section.
+In general.—Subject to the requirements of this subsection, the Secretary may enter into agreements to make available lines of credit to one or more obligors in the form of direct loans to be made by the Secretary at future dates on the occurrence of certain events for any aircraft purchase selected under this section.
 
 &emsp;(2)
 

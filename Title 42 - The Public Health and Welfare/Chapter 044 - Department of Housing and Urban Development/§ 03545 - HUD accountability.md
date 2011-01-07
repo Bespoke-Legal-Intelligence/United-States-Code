@@ -114,7 +114,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 &emsp;&emsp;(C) may provide for review by the Secretary of any determination or order, or interlocutory ruling, arising from a hearing.
 
-> &emsp;If no hearing is requested within 15 days of receipt of the notice of opportunity for hearing, the imposition of the penalty shall constitute a final and unappealable determination. If the Secretary reviews the determination or order, the Secretary may affirm, modify, or reverse that determination or order. If the Secretary does not review the determination or order, the determination or order shall be final.
+> &emsp;If no hearing is requested within 15 days of receipt of the notice of opportunity for hearing, the imposition of the penalty shall constitute a final and unappealable determination. If theSecretary reviews the determination or order, the Secretary may affirm, modify, or reverse that determination or order. If the Secretary does not review the determination or order, the determination or order shall be final.
 
 #### (2) Factors in determining amount of penalty
 
@@ -188,7 +188,7 @@ Section was enacted as part of the Department of Housing and Urban Development R
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–289 inserted “, as such term is defined in subsection (m), except that for purposes of this subsection such term shall not include any mortgage insurance provided pursuant to title II of theNational Housing Act (12 U.S.C. 1707 et seq.)” after “Department” and “such” after “amount of”.
+<b>2008</b>—Subsec. (d). Pub. L. 110–289 inserted “, as such term is defined in subsection (m), except that for purposes of this subsection such term shall not include any mortgage insurance provided pursuant to title II of the National Housing Act (12 U.S.C. 1707 et seq.)” after “Department” and “such” after “amount of”.
 
 #### Subsidy Layering Review
 

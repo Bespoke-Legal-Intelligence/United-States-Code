@@ -2,7 +2,7 @@
 
 #### Amendments
 
-1972—Pub. L. 92–540, title IV, §404(b), Oct. 24, 1972, 86 Stat. 1091, inserted “; VETERAN-STUDENT SERVICES”.
+<b>1972</b>—Pub. L. 92–540, title IV, §404(b), Oct. 24, 1972, 86 Stat. 1091, inserted “; VETERAN-STUDENT SERVICES”.
 
 
 ---

@@ -36,7 +36,7 @@ Torture.—The act of a person who commits, or conspires or attempts to commit, 
 
 &emsp;&emsp;(B)
 
-Cruel or inhuman treatment.—The act of a person who commits, or conspires or attempts to commit, an act intended to inflict severe or serious physical or mental pain or suffering (other than pain or suffering incidental to lawful sanctions), including serious physical abuse, upon another within his custody or control.
+Cruel or inhuman treatment.—The act of a person who commits, or conspires orattempts to commit, an act intended to inflict severe or serious physical or mental pain or suffering (other than pain or suffering incidental to lawful sanctions), including serious physical abuse, upon another within his custody or control.
 
 &emsp;&emsp;(C)
 
@@ -48,7 +48,7 @@ Murder.—The act of a person who intentionally kills, or conspires or attempts 
 
 &emsp;&emsp;(E)
 
-Mutilation or maiming.—The act of a person who intentionally injures, or conspires or attempts to injure, or injures whether intentionally or unintentionally in the course of committing any other offense under this subsection, one or more persons taking no active part in the hostilities, including those placed out of combat by sickness, wounds, detention, or any other cause, by disfiguring the person or persons by anymutilation thereof or by permanently disabling any member, limb, or organ of his body, without any legitimate medical or dental purpose.
+Mutilation or maiming.—The act of a person who intentionally injures, or conspires or attempts to injure, or injures whether intentionally or unintentionally in the course of committing any other offense under this subsection, one or more persons taking no active part in the hostilities, including those placed out of combat by sickness, wounds, detention, or any other cause, by disfiguring the person or persons by any mutilation thereof or by permanently disabling any member, limb, or organ of his body, without any legitimate medical or dental purpose.
 
 &emsp;&emsp;(F)
 
@@ -118,13 +118,13 @@ The date of the enactment of the Military Commissions Act of 2006, referred to i
 
 #### Amendments
 
-2006—Subsec. (c)(3). Pub. L. 109–366, §6(b)(1)(A), added par. (3) and struck out former par. (3) which read as follows: “which constitutes a violation of common Article 3 of the international conventions signed at Geneva, 12 August 1949, or any protocol to such convention to which the United States is a party and which deals with non-international armed conflict; or”.
+<b>2006</b>—Subsec. (c)(3). Pub. L. 109–366, §6(b)(1)(A), added par. (3) and struck out former par. (3) which read as follows: “which constitutes a violation of common Article 3 of the international conventions signed at Geneva, 12 August 1949, or any protocol to such convention to which the United States is a party and which deals with non-international armed conflict; or”.
 
 Subsec. (d). Pub. L. 109–366, §6(b)(1)(B), added subsec. (d).
 
-2002—Subsecs. (a) to (c). Pub. L. 107–273 made technical correction to directory language of Pub. L. 105–118, §583. See 1997 Amendment notes below.
+<b>2002</b>—Subsecs. (a) to (c). Pub. L. 107–273 made technical correction to directory language of Pub. L. 105–118, §583. See 1997 Amendment notes below.
 
-1997—Subsec. (a). Pub. L. 105–118, §583(1), as amended by Pub. L. 107–273, substituted “war crime” for “grave breach of the Geneva Conventions”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–118, §583(1), as amended by Pub. L. 107–273, substituted “war crime” for “grave breach of the Geneva Conventions”.
 
 Subsec. (b). Pub. L. 105–118, §583(2), as amended by Pub. L. 107–273, substituted “war crime” for “breach” in two places.
 
@@ -132,9 +132,9 @@ Subsec. (c). Pub. L. 105–118, §583(3), as amended by Pub. L. 107–273, amend
 
 “(c)
 
-Definitions.—As used in this section, the term ‘grave breach of the Geneva Conventions’ means conduct defined as a grave breach in any of the international conventions relating to the laws of warfare signed at Geneva 12 August 1949 or any protocol to anysuch convention, to which the United States is a party.”
+Definitions.—As used in this section, the term ‘grave breach of the Geneva Conventions’ means conduct defined as a grave breach in any of the international conventions relating to the laws of warfare signed at Geneva 12 August 1949 or any protocol to any such convention, to which the United States is a party.”
 
-1996—Pub. L. 104–294 renumbered section 2401 of this title as this section.
+<b>1996</b>—Pub. L. 104–294 renumbered section 2401 of this title as this section.
 
 #### Effective Date of 2006 Amendment
 

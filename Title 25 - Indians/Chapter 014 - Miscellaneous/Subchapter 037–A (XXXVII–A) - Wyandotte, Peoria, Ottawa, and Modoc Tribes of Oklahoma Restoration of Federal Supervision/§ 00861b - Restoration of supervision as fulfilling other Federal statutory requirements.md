@@ -2,7 +2,7 @@
 
 #### (a) Wyandotte, Peoria, and Ottawa Tribes; right or interest in tribal land
 
-It is hereby declared that enactment of this subchapter fulfills the requirements of the first proviso in section 2 of the Act of January 2, 1975 (88 Stat. 1920, 1921), with respect to the Wyandotte Tribe of Oklahoma, the Ottawa Tribe of Oklahoma, and the Peoria Tribe of Oklahoma.
+It is hereby declared that enactment of this subchapter fulfills the requirements of the firstproviso in section 2 of the Act of January 2, 1975 (88 Stat. 1920, 1921), with respect to the Wyandotte Tribe of Oklahoma, the Ottawa Tribe of Oklahoma, and the Peoria Tribe of Oklahoma.
 
 #### (b) Modoc Tribe; right or interest in tribal land
 

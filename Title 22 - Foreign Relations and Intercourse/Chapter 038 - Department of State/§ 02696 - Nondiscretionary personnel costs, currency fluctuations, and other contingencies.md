@@ -26,7 +26,7 @@ There are authorized to be appropriated for the Department of State, in addition
 
 (B) The balance of the Buying Power Maintenance account may not exceed $100,000,000 as a result of any transfer under this paragraph.
 
-(C) Any transfer pursuant to this paragraph shall be treated as a reprogramming of funds under section 2706 of this title and shall be available for obligation or expenditure only in accordance with the procedures under such section.
+(C) Any transfer pursuant to this paragraph shall be treated as a reprogramming of fundsunder section 2706 of this title and shall be available for obligation or expenditure only in accordance with the procedures under such section.
 
 (D) The authorities contained in this paragraph may be exercised only with respect to funds appropriated or otherwise made available after fiscal year 2008.
 
@@ -50,9 +50,9 @@ Amounts authorized to be appropriated for a fiscal year for the Department of St
 
 #### Amendments
 
-2008—Subsec. (b)(7)(D). Pub. L. 110–252 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “The authorities contained in this section may only be exercised to such an extent and in such amounts as specifically provided for in advance in appropriations Acts.”
+<b>2008</b>—Subsec. (b)(7)(D). Pub. L. 110–252 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “The authorities contained in this section may only be exercised to such an extent and in such amounts as specifically provided for in advance in appropriations Acts.”
 
-1994—Subsec. (b)(7)(E). Pub. L. 103–236, §122(a)(1), struck out subpar. (E) which read as follows: “This paragraph shall cease to have effect after September 30, 1993.”
+<b>1994</b>—Subsec. (b)(7)(E). Pub. L. 103–236, §122(a)(1), struck out subpar. (E) which read as follows: “This paragraph shall cease to have effect after September 30, 1993.”
 
 Subsec. (d)(1). Pub. L. 103–236, §122(a)(2), substituted “either fiscal year” for “the second fiscal year” and “such fiscal year” for “such second fiscal year”.
 
@@ -60,13 +60,13 @@ Subsec. (d)(2). Pub. L. 103–236, §122(a)(3), amended first sentence generally
 
 Subsec. (d)(4). Pub. L. 103–236, §122(a)(4), struck out par. (4) which read as follows: “This subsection shall cease to have effect after September 30, 1993.”
 
-1991—Subsec. (b)(7). Pub. L. 102–138, §117(a), added par. (7).
+<b>1991</b>—Subsec. (b)(7). Pub. L. 102–138, §117(a), added par. (7).
 
 Subsec. (d). Pub. L. 102–138, §117(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Amounts authorized to be appropriated for the Department of State for a fiscal year for the ‘Administration of Foreign Affairs’ account, the ‘International Organizations and Conferences’ account, the ‘International Commissions’ account, or the ‘Migration and Refugee Assistance’ account may be appropriated for that fiscal year for any other such account, except that the total amount appropriated for a fiscal year for any such account may not exceed by more than 10 percent the amount specifically authorized to be appropriated for that account for that fiscal year.”
 
-1990—Subsec. (e). Pub. L. 101–246 added subsec. (e).
+<b>1990</b>—Subsec. (e). Pub. L. 101–246 added subsec. (e).
 
-1982—Subsec. (b). Pub. L. 97–241, §112(a), designated existing provision as par. (1), substituted provision authorizing appropriations to offset adverse fluctuations in foreign currency exchange rates and overseas wage and price changes which occur after Nov. 30 of the earlier of the calendar year which ended during the fiscal year preceding such fiscal year or the calendar year which preceded the calendar year during which the authorization of appropriations for such fiscal year was enacted, for provision authorizing appropriations to offset adverse fluctuations in foreign currency exchange rates occurring after Nov. 30 of the preceding fiscal year, and added pars. (2) to (6).
+<b>1982</b>—Subsec. (b). Pub. L. 97–241, §112(a), designated existing provision as par. (1), substituted provision authorizing appropriations to offset adverse fluctuations in foreign currency exchange rates and overseas wage and price changes which occur after Nov. 30 of the earlier of the calendar year which ended during the fiscal year preceding such fiscal year or the calendar year which preceded the calendar year during which the authorization of appropriations for such fiscal year was enacted, for provision authorizing appropriations to offset adverse fluctuations in foreign currency exchange rates occurring after Nov. 30 of the preceding fiscal year, and added pars. (2) to (6).
 
 #### Effective Date
 

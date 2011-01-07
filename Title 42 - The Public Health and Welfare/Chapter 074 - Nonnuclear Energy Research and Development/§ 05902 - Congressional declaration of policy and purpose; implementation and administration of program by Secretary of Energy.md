@@ -16,13 +16,13 @@ The Atomic Energy Act of 1954, referred to in subsec. (b)(2), is act Aug. 1, 194
 
 The Solar Heating and Cooling Demonstration Act of 1974, referred to in subsec. (b)(3), is Pub. L. 93–409, Sept. 3, 1974, 88 Stat. 1069, as amended, which is classified generally to subchapter I (§5501 et seq.) of chapter 71 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5501 of this title and Tables.
 
-The Geothermal Energy Research, Development, and Demonstration Act of 1974, referred to in subsec. (b)(3), is Pub. L. 93–410, Sept. 3, 1974, 88 Stat. 1079, as amended, which is classified generally to chapter 24 (§1101 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 30 and Tables.
+The Geothermal Energy Research, Development, and Demonstration Act of 1974, referred to in subsec. (b)(3), is Pub. L. 93–410, Sept. 3, 1974, 88 Stat. 1079, as amended, which is classified generally to chapter 24 (§1101 et seq.) of Title 30, Mineral Lands and Mining. For completeclassification of this Act to the Code, see Short Title note set out under section 1101 of Title 30 and Tables.
 
 The Solar Energy Research, Development, and Demonstration Act of 1974, referred to in subsec. (b)(3), is Pub. L. 93–473, Oct. 26, 1974, 88 Stat. 1431, as amended, which is classified generally to subchapter II (§5551 et seq.) of chapter 71 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5501 of this title and Tables.
 
 #### Amendments
 
-2005—Subsec. (b)(1). Pub. L. 109–58, §1009(b)(2)(A), substituted “Department” for “Energy Research and Development Administration”.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–58, §1009(b)(2)(A), substituted “Department” for “Energy Research and Development Administration”.
 
 Subsec. (b)(2). Pub. L. 109–58, §1009(b)(2)(B), substituted “Secretary” for “Administrator of the Energy Research and Development Administration (hereinafter in this chapter referred to as the ‘Administrator’)”.
 

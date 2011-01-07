@@ -168,11 +168,11 @@ The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in
 
 #### Amendments
 
-2007—Subsec. (d)(5). Pub. L. 110–172 inserted “(as defined in section 922)” after “a FSC” in introductory provisions and inserted second sentence in concluding provisions.
+<b>2007</b>—Subsec. (d)(5). Pub. L. 110–172 inserted “(as defined in section 922)” after “a FSC” in introductory provisions and inserted second sentence in concluding provisions.
 
-2004—Subsec. (d)(5) to (7). Pub. L. 108–357 redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out heading and text of former par. (5). Text read as follows: “If the United States person whose stock is sold or exchanged was a qualified shareholder (as defined in section 1247(c)) of a foreign corporation which was a foreign investment company (as described in section 1246(b)(1)), the earnings and profits of the foreign corporation for taxable years in which such person was a qualified shareholder.”
+<b>2004</b>—Subsec. (d)(5) to (7). Pub. L. 108–357 redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out heading and text of former par. (5). Text read as follows: “If the United States person whose stock is sold or exchanged was a qualified shareholder (as defined in section 1247(c)) of a foreign corporation which was a foreign investment company (as described in section 1246(b)(1)), the earnings and profits of the foreign corporation for taxable years in which such person was a qualified shareholder.”
 
-1996—Subsec. (a). Pub. L. 104–188, §1702(g)(1)(A)(ii), in closing provisions inserted at end “For purposes of this section, a United States person shall be treated as having sold or exchanged any stock if, under any provision of this subtitle, such person is treated as realizing gain from the sale or exchange of such stock.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–188, §1702(g)(1)(A)(ii), in closing provisions inserted at end “For purposes of this section, a United States person shall be treated as having sold or exchanged any stock if, under any provision of this subtitle, such person is treated as realizing gain from the sale or exchange of such stock.”
 
 Subsec. (a)(1). Pub. L. 104–188, §1702(g)(1)(A)(i), struck out “, or if a United States person receives a distribution from a foreign corporation which, under section 302 or 331, is treated as an exchange of stock” after “in a foreign corporation”.
 
@@ -186,7 +186,7 @@ Subsec. (i)(1). Pub. L. 104–188, §1702(g)(1)(D), reenacted heading without ch
 
 &emsp;“(B) then distributed by the 10-percent corporate shareholder to such shareholder in redemption or liquidation (whichever is appropriate).”
 
-1988—Subsec. (d)(2). Pub. L. 100–647, §1006(e)(14)(A), struck out par. (2) which related to gain realized from sale or exchange of property in pursuance of plan of complete liquidation.
+<b>1988</b>—Subsec. (d)(2). Pub. L. 100–647, §1006(e)(14)(A), struck out par. (2) which related to gain realized from sale or exchange of property in pursuance of plan of complete liquidation.
 
 Subsec. (d)(7). Pub. L. 100–647, §1012(p)(19), added par. (7).
 
@@ -198,7 +198,7 @@ Subsec. (f)(1)(B). Pub. L. 100–647, §1006(e)(14)(B), amended subpar. (B) gene
 
 Subsec. (f)(3), (4). Pub. L. 100–647, §1006(e)(14)(D), redesignated par. (4) as (3) and struck out former par. (3) which related to nonapplication of paragraph (1) in certain cases.
 
-1986—Subsec. (d)(6). Pub. L. 99–514, §1876(a)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Earnings and profits of the foreign corporation attributable to foreign trade income (within the meaning of section 923(b)) of a FSC.”
+<b>1986</b>—Subsec. (d)(6). Pub. L. 99–514, §1876(a)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Earnings and profits of the foreign corporation attributable to foreign trade income (within the meaning of section 923(b)) of a FSC.”
 
 Subsec. (e). Pub. L. 99–514, §631(d)(2)(A), substituted “Except as provided in regulations” for “Under regulations”.
 
@@ -208,7 +208,7 @@ Subsec. (g). Pub. L. 99–514, §1875(g)(1), inserted “or” at end of par. (1
 
 Subsec. (i)(1)(B). Pub. L. 99–514, §1810(i)(1), substituted “in redemption or liquidation (whichever is appropriate)” for “in redemption of his stock”.
 
-1984—Subsec. (b). Pub. L. 98–369, §1001(b)(22), (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369, §1001(b)(22), (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
 Subsec. (c)(2)(D). Pub. L. 98–369, §133(c), substituted “section 958(a)” for “section 958(a)(2)”.
 
@@ -220,9 +220,9 @@ Subsec. (i). Pub. L. 98–369, §133(a), added subsec. (i).
 
 Subsec. (j). Pub. L. 98–369, §133(b)(2), added subsec. (j).
 
-1983—Subsec. (c)(1). Pub. L. 97–448 substituted “section 312(k)(4)” for “section 312(k)(3)”.
+<b>1983</b>—Subsec. (c)(1). Pub. L. 97–448 substituted “section 312(k)(4)” for “section 312(k)(3)”.
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (b). Pub. L. 94–455, §1402(b)(2), provided that “9 months” would be changed to “1 year”.
 
@@ -236,7 +236,7 @@ Subsec. (c)(2)(C). Pub. L. 94–455, §1042(b), inserted “(or on the date of a
 
 Subsec. (d)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (d)(3). Pub. L. 94–455, §1022(a), substituted provisions of par. (3) relating to “Less developed country corporations under prior law” and reading “Earnings and profits of a foreign corporation which were accumulated during any taxable year beginning before January 1, 1976, while such corporation was a less developed country corporation under section 902(d) as in effect before the enactment of the Tax Reduction Act of 1975” for prior par. (3) relating to “Less developed country corporations” and reading “Earnings and profits accumulated by a foreign corporation while it was a less developed country corporation (as defined in section 902(d)), if the stock sold or exchanged was owned for a continuous period of at least 10 years, ending with the date of the sale or exchange, by the United States person who sold or exchanged such stock. In the case of stock sold or exchanged by a corporation, if United States persons who are individuals, estates, or trusts (each of whom owned within the meaning of section 958(a), or were considered as owning by applying the rules of ownership of section 958(b), 10 percent or more of the total combined voting power of all classes of stock entitled to vote of such corporation) owned, or were considered as owning, at any time during the 10-year period ending on the date of the sale or exchange more than 50 percent of the total combined voting power of all classes of stock entitled to vote such corporation, this paragraph shall apply only if such United States persons owned, or were considered as owning, at all times during the remainder of such 10-year period more than 50 percent of the total combined voting power of all classes of stock entitled to vote of such corporation. For purposes of this paragraph, stock owned by a United States person who is an individual, estate, or trust which was acquired by reason of the death of the predecessor in interest of such United States person shall be considered as owned by such United States person during the period such stock was owned by such predecessor in interest, and during the period such stock was owned by any other predecessor in interest if between such United States person and such other predecessor in interest there was no transfer other than by reason of the death of an individual.”
+Subsec. (d)(3). Pub. L. 94–455, §1022(a), substituted provisions of par. (3) relating to “Less developed country corporations under prior law” and reading “Earnings and profits of a foreign corporation which were accumulated during any taxable year beginning before January 1, 1976, while such corporation was a less developed country corporation under section 902(d) as in effect before the enactment of the Tax Reduction Act of 1975” for prior par. (3) relating to “Less developed country corporations” and reading “Earnings and profits accumulated by a foreign corporation while it was a less developed country corporation (as defined in section 902(d)), if the stock sold or exchanged was owned for a continuous period of at least 10 years, ending with the date of the sale or exchange, by the United States person who sold or exchanged such stock. In the case of stock sold or exchanged by a corporation, if United States persons who are individuals, estates, or trusts (each of whom owned within the meaning of section 958(a), or were considered as owning by applying the rules of ownership of section 958(b), 10 percent or more of the total combined voting power of all classes of stock entitled to vote of such corporation) owned, or were considered as owning, at any time during the 10-year period ending on the date of the sale or exchange more than 50 percent of the total combined voting power of all classes of stock entitled to vote such corporation, this paragraph shall apply only if such United States persons owned, or were considered as owning, at all times during the remainder of such 10-year period more than 50 percent of the total combined voting power of all classes of stock entitled to vote of such corporation. For purposes of this paragraph, stock owned by a United States person who is an individual, estate, or trust which was acquired by reason of the death of the predecessor in interest of such United States person shall be considered as owned by suchUnited States person during the period such stock was owned by such predecessor in interest, and during the period such stock was owned by any other predecessor in interest if between such United States person and such other predecessor in interest there was no transfer other than by reason of the death of an individual.”
 
 Subsec. (e). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -250,9 +250,9 @@ Pub. L. 94–455, §1402(b)(1)(Y), provided that “6 months” would be changed
 
 Subsec. (h). Pub. L. 94–455, §1042(c)(1), (3)(C), redesignated former subsec. (g) as (h) and inserted reference to subsec. (f) in two places.
 
-1969—Subsec. (c)(1). Pub. L. 91–172 inserted reference to the exception provided for in section 312(m)(3).
+<b>1969</b>—Subsec. (c)(1). Pub. L. 91–172 inserted reference to the exception provided for in section 312(m)(3).
 
-1966—Subsec. (d)(4). Pub. L. 89–809 provided that for taxable years beginning after December 31, 1966, the earnings and profits of the foreign corporation, for purposes of this section, is not to include income effectively connected with the conduct of a trade or business within the United States, and inserted provision that the exclusion does not apply to income which is exempt from tax or subject to a reduced rate of tax pursuant to a treaty.
+<b>1966</b>—Subsec. (d)(4). Pub. L. 89–809 provided that for taxable years beginning after December 31, 1966, the earnings and profits of the foreign corporation, for purposes of this section, is not to include income effectively connected with the conduct of a trade or business within the United States, and inserted provision that the exclusion does not apply to income which is exempt from tax or subject to a reduced rate of tax pursuant to a treaty.
 
 #### Effective Date of 2004 Amendment
 

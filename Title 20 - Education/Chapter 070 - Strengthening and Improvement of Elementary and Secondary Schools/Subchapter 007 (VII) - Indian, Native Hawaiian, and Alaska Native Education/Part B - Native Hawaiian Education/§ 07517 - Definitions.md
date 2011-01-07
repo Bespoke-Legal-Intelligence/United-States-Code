@@ -36,7 +36,7 @@ In this part:
 
 #### (4) Native Hawaiian language
 
-&emsp;The term “Native Hawaiian language” means the single Native American language indigenous to the original inhabitants of the State of Hawaii.
+&emsp;The term “Native Hawaiian language” means the single Native American languageindigenous to the original inhabitants of the State of Hawaii.
 
 #### (5) Native Hawaiian organization
 

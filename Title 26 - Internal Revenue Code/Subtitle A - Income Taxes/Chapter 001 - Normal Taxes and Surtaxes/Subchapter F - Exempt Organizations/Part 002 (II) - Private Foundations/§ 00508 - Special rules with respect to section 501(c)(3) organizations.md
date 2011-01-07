@@ -34,7 +34,7 @@ Except as provided in subsection (c), any organization (including an organizatio
 
 #### (1) Gift or bequest to organizations subject to section 507(c) tax
 
-&emsp;No gift or bequest made to an organization upon which the tax provided by section 507(c) has been imposed shall be allowed as a deduction under section 170, 545(b)(2), 642(c), 2055, 2106(a)(2), or 2522, if such gift or bequest is made—
+&emsp;No gift or bequest made to an organization upon which the tax provided by section 507(c) has been imposed shall be allowed as a deduction under section 170, 545(b)(2), 642(c), 2055,2106(a)(2), or 2522, if such gift or bequest is made—
 
 &emsp;&emsp;(A) by any person after notification is made under section 507(a), or
 
@@ -78,11 +78,11 @@ A sponsoring organization (as defined in section 4966(d)(1)) shall give notice t
 
 #### Amendments
 
-2006—Subsec. (f). Pub. L. 109–280, which directed the addition of subsec. (f) to section 508, without specifying the act to be amended, was executed by making the addition to this section, which is section 508 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+<b>2006</b>—Subsec. (f). Pub. L. 109–280, which directed the addition of subsec. (f) to section 508, without specifying the act to be amended, was executed by making the addition to this section, which is section 508 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
-2004—Subsec. (d)(1), (2). Pub. L. 108–357 struck out “556(b)(2),” after “545(b)(2),”.
+<b>2004</b>—Subsec. (d)(1), (2). Pub. L. 108–357 struck out “556(b)(2),” after “545(b)(2),”.
 
-1976—Subsec. (a). Pub. L. 94–455, §1901(a)(71)(A), struck out last sentence providing that for purposes of paragraph (2), the time prescribed for giving notice under this subsection shall not expire before the 90th day after the day on which regulations first prescribed under this subsection become final.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1901(a)(71)(A), struck out last sentence providing that for purposes of paragraph (2), the time prescribed for giving notice under this subsection shall not expire before the 90th day after the day on which regulations first prescribed under this subsection become final.
 
 Subsec. (a)(1), (2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” in three places after “Secretary”.
 
@@ -110,7 +110,7 @@ Pub. L. 109–280, title XII, §1235(b)(2), Aug. 17, 2006, 120 Stat. 1102, provi
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31,2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date of 1976 Amendment
 

@@ -32,5 +32,13 @@ An action to enforce any liability created by this subchapter may be brought in 
 
 No provision of this section imposing any liability shall apply to any act done or omitted in good faith in conformity with any advisory opinion of the Commission, notwithstanding that after such act or omission has occurred, such opinion is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
 
-(Pub. L. 90–321, title VIII, §813, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 881.)
+(Pub. L. 90–321, title VIII, §813, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 881; amended Pub. L. 111–203, title X, §1089(1), July 21, 2010, 124 Stat. 2092.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1089(1), 1100H, July 21, 2010, 124 Stat. 2092, 2113, provided that, effective on the designated transfer date, this sec</i><i>tion is amended by striking “Commission” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 

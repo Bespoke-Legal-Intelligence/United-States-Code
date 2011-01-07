@@ -6,7 +6,7 @@ The National Commission shall call general conferences for the discussion of mat
 
 #### Repeal of Reporting Requirements
 
-<i>Pub. L. 89–348, §1(21), Nov. 8, 1965, 79 Stat. 1311, repealed provisions of this section which required an annual report to the Congress by the National Commission on Educational, Scientific, and Cultural Cooperation and the Secretary of State of the receipts and expenditures of funds and bequests received and disbursed in connection with the United Nations Educational, Scientific, and Cultural Organization.</i>
+<i>Pub. L. 89–348, §1(21), Nov. 8, 1965, 79 Stat. 1311, repealed provisions of this section which required an annual report to the Congress by the National Commission on Educational, Sci</i><i>entific, and Cultural Cooperation and the Secretary of State of the receipts and expenditures of funds and bequests received and disbursed in connection with the United Nations Educational, Scientific, and Cultural Organization.</i>
 
 #### References in Text
 
@@ -18,9 +18,9 @@ The constitution of the Organization, referred to in text, is the Constitution o
 
 #### Amendments
 
-1983—Pub. L. 98–164 struck out provision prohibiting acceptance of gifts or bequests aggregating more than $200,000 in any year.
+<b>1983</b>—Pub. L. 98–164 struck out provision prohibiting acceptance of gifts or bequests aggregating more than $200,000 in any year.
 
-1961—Pub. L. 87–139 substituted provisions authorizing payment of transportation and other expenses of attending experts as authorized by section 5703 of title 5, for provisions which allowed the experts $10 per diem plus actual transportation expenses.
+<b>1961</b>—Pub. L. 87–139 substituted provisions authorizing payment of transportation and other expenses of attending experts as authorized by section 5703 of title 5, for provisions which allowed the experts $10 per diem plus actual transportation expenses.
 
-1958—Pub. L. 85–477 authorized the National Commission to receive and accept services and gifts or bequests of money or materials.
+<b>1958</b>—Pub. L. 85–477 authorized the National Commission to receive and accept services and gifts or bequests of money or materials.
 

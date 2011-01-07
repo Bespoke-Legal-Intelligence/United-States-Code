@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A State may elect to provide medical assistance under this section with respect to PACE program services to PACE program eligible individuals who are eligible for medical assistance under the State plan and who are enrolled in a PACE program under a PACE program agreement. Such individuals need not beeligible for benefits under part A, or enrolled under part B, of subchapter XVIII of this chapter to be eligible to enroll under this section. In the case of an individual enrolled with a PACE program pursuant to such an election—
+&emsp;A State may elect to provide medical assistance under this section with respect to PACE program services to PACE program eligible individuals who are eligible for medical assistance under the State plan and who are enrolled in a PACE program under a PACE program agreement. Such individuals need not be eligible for benefits under part A, or enrolled under part B, of subchapter XVIII of this chapter to be eligible to enroll under this section. In the case of an individual enrolled with a PACE program pursuant to such an election—
 
 &emsp;&emsp;(A) the individual shall receive benefits under the plan solely through such program, and
 
@@ -144,7 +144,7 @@
 
 #### (2) Condition
 
-&emsp;An individual is not a PACE program eligible individual (with respect to payment under this section) unless the individual's health status has been determined by the Secretary or the State administering agency, in accordance with regulations, to be comparable to the health status of individuals who have participated in the PACE demonstration waiver programs. Such determination shall be based upon information on health status and related indicators (such as medical diagnoses andmeasures of activities of daily living, instrumental activities of daily living, and cognitive impairment) that are part of a uniform minimum data set collected by PACE providers on potential eligible individuals.
+&emsp;An individual is not a PACE program eligible individual (with respect to payment under this section) unless the individual's health status has been determined by the Secretary or the State administering agency, in accordance with regulations, to be comparable to the health status of individuals who have participated in the PACE demonstration waiver programs. Such determination shall be based upon information on health status and related indicators (such as medical diagnoses and measures of activities of daily living, instrumental activities of daily living, and cognitive impairment) that are part of a uniform minimum data set collected by PACE providers on potential eligible individuals.
 
 #### (3) Annual eligibility recertifications
 
@@ -258,7 +258,7 @@
 
 #### (ii) Requirements during trial period
 
-&emsp;&emsp;&emsp;During the first 3 years of operation of a PACE program (either under this section or under a PACE demonstration waiver program), the PACE provider shall provide such additional data as the Secretary specifies in regulations in order to perform the oversight required under paragraph (4)(A).
+&emsp;&emsp;&emsp;During the first 3 years of operation of a PACE program (either under this sectionor under a PACE demonstration waiver program), the PACE provider shall provide such additional data as the Secretary specifies in regulations in order to perform the oversight required under paragraph (4)(A).
 
 #### (B) Development of outcome measures
 
@@ -332,7 +332,7 @@
 
 #### (7) Procedures for termination or imposition of sanctions
 
-&emsp;Under regulations, the provisions of section 1395w–27(h) of this title (or for periods before January 1, 1999, section 1395mm(i)(9) of this title) shall apply to termination and sanctions respecting a PACE program agreement and PACE provider under this subsection in the same manner as they apply to a termination and sanctions with respect to a contract and a Medicare+Choice organization under part C of subchapter XVIII of this chapter (or for such periods an eligible organization under section 1395mm of this title).
+&emsp;Under regulations, the provisions of section 1395w–27(h) of this title (or for periods beforeJanuary 1, 1999, section 1395mm(i)(9) of this title) shall apply to termination and sanctions respecting a PACE program agreement and PACE provider under this subsection in the same manner as they apply to a termination and sanctions with respect to a contract and a Medicare+Choice organization under part C of subchapter XVIII of this chapter (or for such periods an eligible organization under section 1395mm of this title).
 
 #### (8) Timely consideration of applications for PACE program provider status
 
@@ -392,7 +392,7 @@
 
 With respect to carrying out a PACE program under this section, the following requirements of this subchapter (and regulations relating to such requirements) shall not apply:
 
-&emsp;(1) Section 1396a(a)(1) of this title, relating to any requirement that PACE programs or PACE program services be provided in all areas of a State.
+&emsp;(1) Section 1396a(a)(1) of this title, relating to any requirement that PACE programs orPACE program services be provided in all areas of a State.
 
 &emsp;(2) Section 1396a(a)(10) of this title, insofar as such section relates to comparability of services among different population groups.
 
@@ -430,7 +430,7 @@ Nothing in this section or section 1395eee of this title shall be construed as p
 
 #### References in Text
 
-Parts A, B, and C of subchapter XVIII of this chapter, referred to in subsecs. (a)(1), (e)(7), (f)(3), and (j), areclassified to sections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
+Parts A, B, and C of subchapter XVIII of this chapter, referred to in subsecs. (a)(1), (e)(7), (f)(3), and (j), are classified to sections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(3)(A)(i), is classified generally to Title 26, Internal Revenue Code.
 
@@ -450,9 +450,9 @@ A prior section 1934 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 #### Amendments
 
-2003—Subsec. (b)(3), (4). Pub. L. 108–173 added pars. (3) and (4).
+<b>2003</b>—Subsec. (b)(3), (4). Pub. L. 108–173 added pars. (3) and (4).
 
-2000—Subsec. (f)(2)(C). Pub. L. 106–554 added subpar. (C).
+<b>2000</b>—Subsec. (f)(2)(C). Pub. L. 106–554 added subpar. (C).
 
 #### Change of Name
 

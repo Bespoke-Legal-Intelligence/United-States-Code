@@ -88,9 +88,9 @@ In subsection (d)(2), the reference to fiscal year 1992 is omitted as obsolete.
 
 #### Amendments
 
-2003—Subsec. (e). Pub. L. 108–176 added subsec. (e).
+<b>2003</b>—Subsec. (e). Pub. L. 108–176 added subsec. (e).
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–176, title IV, §402(b), Dec. 12, 2003, 117 Stat. 2543, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect 30 days after the date of enactment of this Act \[Dec. 12, 2003\].”
+Pub. L. 108–176, title IV, §402(b), Dec. 12, 2003, 117 Stat. 2543, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect 30days after the date of enactment of this Act \[Dec. 12, 2003\].”
 

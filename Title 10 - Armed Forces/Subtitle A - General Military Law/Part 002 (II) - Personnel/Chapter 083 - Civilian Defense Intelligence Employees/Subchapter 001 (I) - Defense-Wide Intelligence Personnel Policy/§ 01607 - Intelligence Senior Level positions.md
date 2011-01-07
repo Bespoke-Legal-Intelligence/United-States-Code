@@ -32,7 +32,7 @@ Provisions similar to those in this section were contained in section 1604(f)(1)
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–306 added subsec. (c).
+<b>2002</b>—Subsec. (c). Pub. L. 107–306 added subsec. (c).
 
 #### Effective Date
 

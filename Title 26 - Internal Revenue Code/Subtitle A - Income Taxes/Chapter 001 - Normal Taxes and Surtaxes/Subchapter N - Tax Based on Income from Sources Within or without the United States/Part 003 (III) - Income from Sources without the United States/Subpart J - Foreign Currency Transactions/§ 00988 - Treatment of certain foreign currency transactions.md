@@ -76,7 +76,7 @@ For purposes of this section—
 
 #### (3) Special rule for certain contracts, etc.
 
-&emsp;In the case of any section 988 transaction described in subsection (c)(1)(B)(iii), any gain orloss from such transaction shall be treated as foreign currency gain or loss (as the case may be).
+&emsp;In the case of any section 988 transaction described in subsection (c)(1)(B)(iii), any gain or loss from such transaction shall be treated as foreign currency gain or loss (as the case may be).
 
 #### (c) Other definitions
 
@@ -116,7 +116,7 @@ For purposes of this section—
 
 #### (ii) Nonfunctional currency
 
-&emsp;&emsp;&emsp;For purposes of this section, the term “nonfunctional currency” includes coin or currency, and nonfunctional currency denominated demand or time deposits or similar instruments issued by a bank or other financial institution.
+&emsp;&emsp;&emsp;For purposes of this section, the term “nonfunctional currency” includes coin orcurrency, and nonfunctional currency denominated demand or time deposits or similar instruments issued by a bank or other financial institution.
 
 #### (D) Exception for certain instruments marked to market
 
@@ -160,7 +160,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) the principal activity of such partnership for such taxable year (and each such preceding taxable year) consists of buying and selling options, futures, or forwards with respect to commodities,
 
-&emsp;&emsp;&emsp;&emsp;(III) at least 90 percent of the gross income of the partnership for the taxableyear (and for each such preceding taxable year) consisted of income or gains described in subparagraph (A), (B), or (G) of section 7704(d)(1) or gain from the sale or disposition of capital assets held for the production of interest or dividends,
+&emsp;&emsp;&emsp;&emsp;(III) at least 90 percent of the gross income of the partnership for the taxable year (and for each such preceding taxable year) consisted of income or gains described in subparagraph (A), (B), or (G) of section 7704(d)(1) or gain from the sale or disposition of capital assets held for the production of interest or dividends,
 
 &emsp;&emsp;&emsp;&emsp;(IV) no more than a de minimis amount of the gross income of the partnership for the taxable year (and each such preceding taxable year) was derived from buying and selling commodities, and
 
@@ -234,7 +234,7 @@ For purposes of this section—
 
 #### (5) Special rules where taxpayer takes or makes delivery
 
-&emsp;If the taxpayer takes or makes delivery in connection with any section 988 transaction described in paragraph (1)(B)(iii), any gain or loss (determined as if the taxpayer sold the contract, option, or instrument on the date onwhich he took or made delivery for its fair market value on such date) shall be recognized in the same manner as if such contract, option, or instrument were so sold.
+&emsp;If the taxpayer takes or makes delivery in connection with any section 988 transaction described in paragraph (1)(B)(iii), any gain or loss (determined as if the taxpayer sold the contract, option, or instrument on the date on which he took or made delivery for its fair market value on such date) shall be recognized in the same manner as if such contract, option, or instrument were so sold.
 
 #### (d) Treatment of 988 hedging transactions
 
@@ -268,7 +268,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) such transaction is a personal transaction,
 
-> &emsp;no gain shall be recognized for purposes of this subtitle by reason of changes in exchange rates after such currency was acquired by such individual and before such disposition. The preceding sentence shall not apply if the gain which would otherwise be recognized on the transaction exceeds $200.
+> &emsp;no gain shall be recognized for purposes of this subtitle by reason of changes in exchange rates after such currency was acquired by such individual and before such disposition. Thepreceding sentence shall not apply if the gain which would otherwise be recognized on the transaction exceeds $200.
 
 #### (3) Personal transactions
 
@@ -282,15 +282,15 @@ For purposes of this section—
 
 #### Amendments
 
-1999—Subsec. (d)(2)(A)(i), (ii). Pub. L. 106–170 substituted “to manage” for “to reduce”.
+<b>1999</b>—Subsec. (d)(2)(A)(i), (ii). Pub. L. 106–170 substituted “to manage” for “to reduce”.
 
-1997—Subsec. (e). Pub. L. 105–34 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “This section shall apply to section 988 transactions entered into by an individual only to the extent expenses properly allocable to such transactions meet the requirements of section 162 or 212 (other than that part of section 212 dealing with expenses incurred in connection with taxes).”
+<b>1997</b>—Subsec. (e). Pub. L. 105–34 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “This section shall apply to section 988 transactions entered into by an individual only to the extent expenses properly allocable to such transactions meet the requirements of section 162 or 212 (other than that part of section 212 dealing with expenses incurred in connection with taxes).”
 
-1993—Subsec. (d)(1). Pub. L. 103–66 substituted “section 475 or 1256” for “section 1256” and “Sections 475, 1092, and 1256” for “Sections 1092 and 1256”.
+<b>1993</b>—Subsec. (d)(1). Pub. L. 103–66 substituted “section 475 or 1256” for “section 1256” and “Sections 475, 1092, and 1256” for “Sections 1092 and 1256”.
 
-1989—Subsec. (a). Pub. L. 101–239 inserted introductory provision “Notwithstanding any other provision of this chapter—”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239 inserted introductory provision “Notwithstanding any other provision of this chapter—”.
 
-1988—Subsec. (a)(3)(B)(i). Pub. L. 100–647, §1012(v)(8), inserted at end “If an individual does not have a tax home (as so defined), the residence of such individual shall be the United States if such individual is a United States citizen or a resident alien and shall be a country other than the United States if such individual is not a United States citizen or a resident alien.”
+<b>1988</b>—Subsec. (a)(3)(B)(i). Pub. L. 100–647, §1012(v)(8), inserted at end “If an individual does not have a tax home (as so defined), the residence of such individual shall be the United States if such individual is a United States citizen or a resident alien and shall be a country other than the United States if such individual is not a United States citizen or a resident alien.”
 
 Subsec. (a)(3)(B)(iii). Pub. L. 100–647, §1012(v)(7), added cl. (iii).
 
@@ -354,7 +354,7 @@ Transitional rules.—
 
 &emsp;“(A) The requirements of subclause (IV) of section 988(c)(1)(E)(iii) of the 1986 Code (as added by subsection (b)) shall not apply to periods before the date of the enactment of this Act.
 
-&emsp;“(B) In the case of any partner in an existing partnership, the 20-percent ownership requirements of subclause (I) of such section 988(c)(1)(E)(iii) shall be treated as met during any period during which such partner does not own a percentage interest in the capital or profits of such partnership greater than 331/3 percent (or, if lower, the lowest such percentage interest of such partner during any prior period after October 21, 1988, during which such partnership is in existence). For purposes of the preceding sentence, the term ‘existing partnership’ means any partnership if—
+&emsp;“(B) In the case of any partner in an existing partnership, the 20-percent ownership requirements of subclause (I) of such section 988(c)(1)(E)(iii) shall be treated as met during any period during which such partner does not own a percentage interest in the capital or profits of such partnership greater than331/3 percent (or, if lower, the lowest such percentage interest of such partner during any prior period after October 21, 1988, during which such partnership is in existence). For purposes of the preceding sentence, the term ‘existing partnership’ means any partnership if—
 
 &emsp;&emsp;“(i) such partnership was in existence on October 21, 1988, and principally engaged on such date in buying and selling options, futures, or forwards with respect to commodities, or
 

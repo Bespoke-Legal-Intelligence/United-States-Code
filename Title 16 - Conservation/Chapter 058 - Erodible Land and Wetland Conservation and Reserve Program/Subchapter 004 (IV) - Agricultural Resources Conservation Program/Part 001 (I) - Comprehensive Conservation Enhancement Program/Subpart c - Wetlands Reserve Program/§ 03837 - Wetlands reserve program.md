@@ -48,7 +48,7 @@ For purposes of enrolling land in the wetland reserve established under this sub
 
 The Secretary may include in the wetland reserve established under this subpart, together with land that is eligible under subsection (c) of this section, land that maximizes wildlife benefits and that is—
 
-&emsp;(1) farmed wetland and adjoining lands, enrolled in the conservation reserve, with thehighest wetland functions and values, and that are likely to return to production after they leave the conservation reserve;
+&emsp;(1) farmed wetland and adjoining lands, enrolled in the conservation reserve, with the highest wetland functions and values, and that are likely to return to production after they leave the conservation reserve;
 
 &emsp;(2) other wetland of an owner that would not otherwise be eligible if the Secretary determines that the inclusion of such wetland in such easement would significantly add to the functional value of the easement; or
 
@@ -74,7 +74,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §2201, amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary shall establish a wetlands reserve program to assist owners of eligible lands in restoring and protecting wetlands.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §2201, amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary shall establish a wetlands reserve program to assist owners of eligible lands in restoring and protecting wetlands.”
 
 Subsec. (b)(1). Pub. L. 110–246, §2202(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The total number of acres enrolled in the wetlands reserve program shall not exceed 2,275,000 acres, of which, to the maximum extent practicable, the Secretary shall enroll 250,000 acres in each calendar year.”
 
@@ -86,7 +86,7 @@ Subsec. (c). Pub. L. 110–246, §2203(a)(1), in introductory provisions, substi
 
 Subsec. (c)(2). Pub. L. 110–246, §2203(a)(2), added par. (2) and struck out former par. (2) which read as follows: “such land is farmed wetland or converted wetland, together with adjacent lands that are functionally dependent on such wetlands, except that converted wetlands where the conversion was not commenced prior to December 23, 1985, shall not be eligible to be enrolled in the program under this section; and”.
 
-2002—Subsec. (b). Pub. L. 107–171, §2202(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
+<b>2002</b>—Subsec. (b). Pub. L. 107–171, §2202(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 
 “(1)
 
@@ -116,9 +116,9 @@ Subsec. (c). Pub. L. 107–171, §2201, substituted “2007” for “2002” in
 
 Subsec. (g). Pub. L. 107–171, §2202(2), struck out heading and text of subsec. (g). Text read as follows: “The Secretary shall enroll lands in the wetland reserve through the purchase of easements as provided for in section 3837a of this title.”
 
-1998—Subsec. (b)(2)(C). Pub. L. 105–277 added subpar. (C).
+<b>1998</b>—Subsec. (b)(2)(C). Pub. L. 105–277 added subpar. (C).
 
-1996—Subsec. (b). Pub. L. 104–127, §333(a), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary shall enroll into the wetlands reserve program—
+<b>1996</b>—Subsec. (b). Pub. L. 104–127, §333(a), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary shall enroll into the wetlands reserve program—
 
 &emsp;“(1) a total of not less than 330,000 acres by the end of the 1995 calendar year; and
 
@@ -128,13 +128,13 @@ Subsec. (c). Pub. L. 104–127, §333(b), substituted “2002” for “2000” 
 
 Subsec. (d). Pub. L. 104–127, §333(c), in introductory provisions, inserted “, land that maximizes wildlife benefits and that is” after “subsection (c) of this section” and, in par. (2), substituted “or” for “and” at end.
 
-1993—Subsec. (b). Pub. L. 103–66, §1402(c)(1), added subsec. (b) and struck out former subsec. (b) “
+<b>1993</b>—Subsec. (b). Pub. L. 103–66, §1402(c)(1), added subsec. (b) and struck out former subsec. (b) “
 
 Number of Acres” which read as follows: “To the extent practicable, the Secretary shall attempt to enroll into the wetlands reserve program, 1,000,000 acres of land during the 1991 through 1995 calendar years; except that the Secretary may not enroll more than 200,000 acres in 1991, 400,000 acres in the 1991 to 1992 period, 600,000 acres in the 1991 to 1993 period, 800,000 acres in the 1991 to 1994 period, and 1,000,000 acres in the 1991 to 1995 period.”
 
 Subsec. (c). Pub. L. 103–66, §1402(c)(2), substituted “2000” for “1995”.
 
-1991—Subsec. (d). Pub. L. 102–237 substituted “subsection (c)” for “subsection (d)” in introductory provisions.
+<b>1991</b>—Subsec. (d). Pub. L. 102–237 substituted “subsection (c)” for “subsection (d)” in introductory provisions.
 
 #### Effective Date of 2008 Amendment
 

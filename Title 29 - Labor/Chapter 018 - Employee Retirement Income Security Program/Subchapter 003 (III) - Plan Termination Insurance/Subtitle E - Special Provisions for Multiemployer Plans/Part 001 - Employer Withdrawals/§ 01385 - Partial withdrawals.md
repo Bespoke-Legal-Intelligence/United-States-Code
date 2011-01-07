@@ -52,9 +52,9 @@ This chapter, referred to in subsec. (d), was in the original “this Act”, me
 
 #### Amendments
 
-2006—Subsec. (b)(2)(A)(i). Pub. L. 109–280 inserted “or to an entity or entities owned or controlled by the employer” after “to another location”.
+<b>2006</b>—Subsec. (b)(2)(A)(i). Pub. L. 109–280 inserted “or to an entity or entities owned or controlled by the employer” after “to another location”.
 
-1989—Subsec. (d). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1989</b>—Subsec. (d). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Effective Date of 2006 Amendment
 

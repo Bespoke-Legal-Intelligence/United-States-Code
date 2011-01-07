@@ -6,7 +6,7 @@ Cash Payment.—Amounts required to be paid by the Secretary or Administrator un
 
 (b)
 
-Issuance of Obligations.—If amounts in the appropriate account under section 53717 of this title are not sufficient to make a payment required under section 53721 or 53722 of this title, the Secretary or Administrator may issue obligations to the Secretary of the Treasury. The Secretary or Administrator, with the approval of the Secretary of the Treasury, shall prescribe the form, denomination, maturity, and other terms (except the interest rate) of the obligations. The Secretary of the Treasury shall set the interest rate for the obligations, consideringthe current average market yield on outstanding marketable obligations of the United States Government of comparable maturities during the month before the obligations are issued.
+Issuance of Obligations.—If amounts in the appropriate account under section 53717 of this title are not sufficient to make a payment required under section 53721 or 53722 of this title, the Secretary or Administrator may issue obligations to the Secretary of the Treasury. The Secretary or Administrator, with the approval of the Secretary of the Treasury, shall prescribe the form, denomination, maturity, and other terms (except the interest rate) of the obligations. The Secretary of the Treasury shall set the interest rate for the obligations, considering the current average market yield on outstanding marketable obligations of the United States Government of comparable maturities during the month before the obligations are issued.
 
 (c)
 
@@ -38,9 +38,9 @@ In subsections (b) and (d), the words “appropriate account under section 53717
 
 #### Amendments
 
-2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(G). See 2006 Amendment note below.
+<b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(G). See 2006 Amendment note below.
 
 Subsecs. (a), (b), (d). Pub. L. 110–181, §3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(G), into this section by inserting “or Administrator” after “Secretary” in section catchline and wherever appearing in text, except when followed by “of the Treasury”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-2006—Pub. L. 109–163, §3507(a)(1)(G), which directed the amendment of section 1275(d) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment note for subsecs. (a), (b), (d) and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–163, §3507(a)(1)(G), which directed the amendment of section 1275(d) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment note for subsecs. (a), (b), (d) and Historical and Revision notes above.
 

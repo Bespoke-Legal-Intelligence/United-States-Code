@@ -6,7 +6,7 @@ In this chapter—
 
 &emsp;(2) the term “Director” means the Director of the United States Fish and Wildlife Service;
 
-&emsp;(3) the term “Great Lakes Basin” means the air, land, water, and living organisms within the drainage basin of the Saint Lawrence River at or upstream from the point at which the river becomes the international boundary between Canada and the United States;
+&emsp;(3) the term “Great Lakes Basin” means the air, land, water, and living organisms within the drainage basin of the Saint LawrenceRiver at or upstream from the point at which the river becomes the international boundary between Canada and the United States;
 
 &emsp;(4) the term “Indian Tribe” means any Indian tribe, band, village, nation, or other organized group or community that is recognized by the Bureau of Indian Affairs as eligible for the special programs and services provided by the United States to Indians because of their status as Indians, and that has Great Lakes fish and wildlife management authority in the Great Lakes Basin;
 
@@ -34,7 +34,7 @@ Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substanti
 
 #### Amendments
 
-2006—Pars. (1) to (3). Pub. L. 109–326, §3(1), (2), redesignated pars. (2), (3), and (5) as (1) to (3), respectively, and struck out former par. (1) which defined the term “Administrator”.
+<b>2006</b>—Pars. (1) to (3). Pub. L. 109–326, §3(1), (2), redesignated pars. (2), (3), and (5) as (1) to (3), respectively, and struck out former par. (1) which defined the term “Administrator”.
 
 Par. (4). Pub. L. 109–326, §3(3), inserted before semicolon at end “, and that has Great Lakes fish and wildlife management authority in the Great Lakes Basin”.
 
@@ -46,7 +46,7 @@ Par. (8). Pub. L. 109–326, §3(2), (4), added par. (8) and redesignated former
 
 Pars. (9) to (14). Pub. L. 109–326, §3(1), (2), redesignated pars. (10), (11), (13), and (14) as (9) to (12), respectively, and struck out former par. (12) which defined the term “Secretary”.
 
-1998—Pub. L. 105–265, §5(1), made technical amendment to reference in original act which appears in introductory provisions as reference to this chapter.
+<b>1998</b>—Pub. L. 105–265, §5(1), made technical amendment to reference in original act which appears in introductory provisions as reference to this chapter.
 
 Pars. (2) to (7). Pub. L. 105–265, §5(2), (5), added par. (2) and redesignated former pars. (2) to (6) as (3) to (7), respectively. Former par. (7) redesignated (14).
 
@@ -62,5 +62,5 @@ Par. (13). Pub. L. 105–265, §5(2), (9), redesignated par. (10) as (13) and su
 
 Par. (14). Pub. L. 105–265, §5(2), (3), redesignated par. (7) as (14).
 
-1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §2004, which enacted this section.
+<b>1996</b>—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §2004, which enacted this section.
 

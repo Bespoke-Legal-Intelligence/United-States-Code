@@ -24,7 +24,7 @@
 
 #### (b) Remedy
 
-The remedy for a violation of subsection (a) of this section shall be such remedy as would be appropriate if awarded under paragraphs (1), (2)(A), and (3) of section 4323(c) of title 38.
+The remedy for a violation of subsection (a) of this section shall be such remedy as would be appropriate if awarded under section 4323(d) of title 38.
 
 #### (c) Regulations to implement section
 
@@ -46,9 +46,11 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 &emsp;This section shall be effective with respect to the Government Accountability Office and the Library of Congress 1 year after transmission to the Congress of the study under section 1371 of this title.
 
-(Pub. L. 104–1, title II, §206, Jan. 23, 1995, 109 Stat. 12; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 104–1, title II, §206, Jan. 23, 1995, 109 Stat. 12; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–275, title VII, §703(b), Oct. 13, 2010, 124 Stat. 2888.)
 
 #### Amendments
+
+2010—Subsec. (b). Pub. L. 111–275 substituted “under section 4323(d) of title 38” for “under paragraphs (1), (2)(A), and (3) of section 4323(c) of title 38”.
 
 2004—Subsec. (a)(2)(B), (C). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

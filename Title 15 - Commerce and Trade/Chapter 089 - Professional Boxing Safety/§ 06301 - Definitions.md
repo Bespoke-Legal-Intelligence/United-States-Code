@@ -32,7 +32,7 @@ For purposes of this chapter:
 
 #### (8) Professional boxing match
 
-&emsp;The term “professional boxing match” means a boxing contest held in the United States between individuals for financial compensation. Such term does not include a boxing contest that is regulated by an amateur sports organization.
+&emsp;The term “professional boxing match” means a boxing contest held in the UnitedStates between individuals for financial compensation. Such term does not include a boxing contest that is regulated by an amateur sports organization.
 
 #### (9) Promoter
 
@@ -78,7 +78,7 @@ Pub. L. 106–210, §7(a), which directed amendments to subsec. (a) of this sect
 
 #### Amendments
 
-2000—Par. (9). Pub. L. 106–210, §7(a)(1), inserted last sentence. See Codification note above.
+<b>2000</b>—Par. (9). Pub. L. 106–210, §7(a)(1), inserted last sentence. See Codification note above.
 
 Par. (10). Pub. L. 106–210, §7(a)(2), inserted “, including the Virgin Islands” before the period at end. See Codification note above.
 
@@ -94,7 +94,7 @@ Pub. L. 104–272, §23, formerly §15, Oct. 9, 1996, 110 Stat. 3314, as renumbe
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–210, §1, May 26, 2000, 114 Stat. 321, provided that: “This Act \[enacting sections 6307a to 6307h of this title, amending this section and sections 6303, 6305, 6306, and 6308 to 6313 of this title, and enacting and amendingprovisions set out as notes under this section\] may be cited as the ‘Muhammad Ali Boxing Reform Act’.”
+Pub. L. 106–210, §1, May 26, 2000, 114 Stat. 321, provided that: “This Act \[enacting sections 6307a to 6307h of this title, amending this section and sections 6303, 6305, 6306, and 6308 to 6313 of this title, and enacting and amending provisions set out as notes under this section\] may be cited as the ‘Muhammad Ali Boxing Reform Act’.”
 
 #### Short Title
 

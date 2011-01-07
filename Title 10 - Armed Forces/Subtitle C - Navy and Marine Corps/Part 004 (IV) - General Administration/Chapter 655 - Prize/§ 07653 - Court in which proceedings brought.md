@@ -36,5 +36,5 @@ In subsection (c) the words “or if because the whole has been appropriated to 
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–163 substituted “Commonwealths or possessions” for “Territories, Commonwealths, or possessions”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted “Commonwealths or possessions” for “Territories, Commonwealths, or possessions”.
 

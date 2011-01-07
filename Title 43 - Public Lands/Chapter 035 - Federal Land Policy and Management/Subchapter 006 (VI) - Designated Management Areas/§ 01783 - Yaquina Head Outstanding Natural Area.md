@@ -32,7 +32,7 @@ The Secretary is authorized to conduct a study relating to the use of lands in t
 
 #### (f) Reclamation and restoration of lands affected by quarrying operations
 
-The Secretary shall develop and administer, in addition to any requirements imposed pursuant to subsection (b)(3) of this section, a program for the reclamation and restoration of all lands affected by quarrying operations in the area acquired pursuant to subsection (d) of this section. All revenues received by the United States in connection with quarrying operations authorized by subsection (b)(3) of this section shall be deposited in a separate fund account which shall be established by the Secretary of the Treasury. Such revenues are hereby authorized to be appropriated to the Secretary as needed for reclamation and restoration of any lands acquired pursuant to subsection (d) of this section. After completion of such reclamation and restoration to the satisfaction of the Secretary, any unexpended revenues in such fund shall be returned to the general fund of the United States Treasury.
+The Secretary shall develop and administer, in addition to any requirements imposed pursuant to subsection (b)(3) of this section, a program for the reclamation and restoration of all lands affected by quarrying operations in the area acquired pursuant to subsection (d) of this section. All revenues received by the United States in connection with quarrying operations authorized by subsection (b)(3) of this section shall bedeposited in a separate fund account which shall be established by the Secretary of the Treasury. Such revenues are hereby authorized to be appropriated to the Secretary as needed for reclamation and restoration of any lands acquired pursuant to subsection (d) of this section. After completion of such reclamation and restoration to the satisfaction of the Secretary, any unexpended revenues in such fund shall be returned to the general fund of the United States Treasury.
 
 #### (g) Authorization of appropriations
 
@@ -41,10 +41,6 @@ There are hereby authorized to be appropriated in addition to that authorized by
 (Pub. L. 96–199, title I, §119, Mar. 5, 1980, 94 Stat. 71.)
 
 #### References in Text
-
-The public land laws, referred to in subsec. (c), are classified generally to this title.
-
-The mining laws and the mineral leasing laws, referred to in subsec. (c), are classified generally to Title 30, Mineral Lands and Mining.
 
 The Materials Act of July 31, 1947, as amended (30 U.S.C. 601, 602), referred to in subsecs. (c) and (d), is act July 31, 1947, ch. 406, 61 Stat. 681, as amended, which is classified generally to subchapter I (§601 et seq.) of chapter 15 of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 30 and Tables.
 

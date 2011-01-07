@@ -64,7 +64,7 @@ In subsection (b), the words “In conducting inspections and investigations” 
 
 #### Amendments
 
-1998—Subsec. (a)(1). Pub. L. 105–178 inserted “and make contracts for” after “conduct”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–178 inserted “and make contracts for” after “conduct”.
 
 #### Border Staffing Standards
 

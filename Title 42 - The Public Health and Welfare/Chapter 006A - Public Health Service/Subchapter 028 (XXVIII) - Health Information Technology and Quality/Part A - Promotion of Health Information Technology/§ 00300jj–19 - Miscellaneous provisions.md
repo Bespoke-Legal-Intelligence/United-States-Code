@@ -32,3 +32,5 @@ Section 264 of the Health Insurance Portability and Accountability Act of 1996, 
 
 The Health Information Technology for Economic and Clinical Health Act, referred to in subsec. (a)(2)(A), is title XIII of div. A and title IV of div. B of Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 226, 467, also known as the HITECH Act. Subtitle D of title IV of the Act probably means subtitle D of title XIII of div. A of the Act, which is classified generally to subchapter III (§17921 et seq.) of chapter 156 of this title. Title IV of div. B of the Act does not contain a subtitle D. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 201 of this title and Tables.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

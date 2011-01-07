@@ -12,9 +12,9 @@ Section consists of subsec. (b) of section 23 of act June 10, 1920, as so design
 
 #### Amendments
 
-1986—Pub. L. 99–495 designated existing provisions as par. (1) and added par. (2).
+<b>1986</b>—Pub. L. 99–495 designated existing provisions as par. (1) and added par. (2).
 
-1935—Act Aug. 26, 1935, §210, amended section generally, inserting first sentence, and substituting “with foreign nations” for “between foreign nations”, “shall before such construction” for “may in their discretion” and “shall not construct, maintain, or operate such dam or other project works” for “shall not proceed with such construction”.
+<b>1935</b>—Act Aug. 26, 1935, §210, amended section generally, inserting first sentence, and substituting “with foreign nations” for “between foreign nations”, “shall before such construction” for “may in their discretion” and “shall not construct, maintain, or operate such dam or other project works” for “shall not proceed with such construction”.
 
 #### Effective Date of 1986 Amendment
 

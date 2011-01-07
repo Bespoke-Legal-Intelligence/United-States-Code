@@ -28,13 +28,13 @@ Notwithstanding any other provision of law that prohibits a Federal agency from 
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–513, §12(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary may enter into cooperative agreements, financial agreements, grants, contracts, or other agreements with States, local governments, regional agencies, interstate agencies, or other persons to carry out the purposes and policies of this chapter.”
+<b>2000</b>—Subsec. (a). Pub. L. 106–513, §12(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary may enter into cooperative agreements, financial agreements, grants, contracts, or other agreements with States, local governments, regional agencies, interstate agencies, or other persons to carry out the purposes and policies of this chapter.”
 
 Subsecs. (e), (f). Pub. L. 106–513, §12(b), added subsecs. (e) and (f).
 
-1996—Pub. L. 104–283 made technical amendment to directory language of Pub. L. 102–587. See 1992 Amendment note below.
+<b>1996</b>—Pub. L. 104–283 made technical amendment to directory language of Pub. L. 102–587. See 1992 Amendment note below.
 
-1992—Pub. L. 102–587, as amended by Pub. L. 104–283, amended section generally. Prior to amendment, section read as follows:
+<b>1992</b>—Pub. L. 102–587, as amended by Pub. L. 104–283, amended section generally. Prior to amendment, section read as follows:
 
 “(a)
 

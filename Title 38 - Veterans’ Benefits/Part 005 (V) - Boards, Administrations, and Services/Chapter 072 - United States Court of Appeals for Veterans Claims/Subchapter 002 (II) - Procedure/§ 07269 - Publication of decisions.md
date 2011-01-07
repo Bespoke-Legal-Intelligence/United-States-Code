@@ -10,11 +10,11 @@
 
 #### Amendments
 
-1998—Subsecs. (a), (b). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+<b>1998</b>—Subsecs. (a), (b). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-1991—Pub. L. 102–40 renumbered section 4069 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4069 of this title as this section.
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
+Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov.11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 

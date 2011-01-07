@@ -18,7 +18,7 @@
 
 (d) To be admitted to the Naval Academy, an appointee must take and subscribe to an oath prescribed by the Secretary of the Navy. If a candidate for admission refuses to take and subscribe to the prescribed oath, the candidate's appointment is terminated.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 431; Pub. L. 87–663, §1(4), Sept. 14, 1962, 76 Stat. 547; Pub. L. 93–171, §2(5), Nov. 29, 1973, 87 Stat. 690; Pub. L. 101–510, div. A, title V, §532(b)(3), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 102–190, div. A, title V, §512, Dec. 5, 1991, 105 Stat. 1360; Pub. L. 104–201, div. A, title V, §555(c), Sept. 23, 1996, 110 Stat. 2527; Pub. L. 105–85, div. A, title V, §541(a), Nov. 18, 1997, 111 Stat. 1740.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 431; Pub. L. 87–663, §1(4), Sept. 14, 1962, 76 Stat. 547; Pub. L. 93–171, §2(5), Nov. 29, 1973, 87 Stat. 690; Pub. L. 101–510, div. A, title V, §532(b)(3), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 102–190, div. A, title V, §512, Dec. 5, 1991, 105 Stat. 1360; Pub. L. 104–201, div. A,title V, §555(c), Sept. 23, 1996, 110 Stat. 2527; Pub. L. 105–85, div. A, title V, §541(a), Nov. 18, 1997, 111 Stat. 1740.)
 
 Historical and Revision Notes
 
@@ -64,17 +64,17 @@ In subsection (b) the words “domiciled in” are substituted for the words “
 
 #### Amendments
 
-1997—Subsec. (d). Pub. L. 105–85 added subsec. (d).
+<b>1997</b>—Subsec. (d). Pub. L. 105–85 added subsec. (d).
 
-1996—Subsec. (a)(1). Pub. L. 104–201 substituted “twenty-third birthday” for “twenty-second birthday”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–201 substituted “twenty-third birthday” for “twenty-second birthday”.
 
-1991—Subsec. (c)(2) to (4). Pub. L. 102–190 redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which required candidates to have served at least one year as enlisted members on date of entrance.
+<b>1991</b>—Subsec. (c)(2) to (4). Pub. L. 102–190 redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which required candidates to have served at least one year as enlisted members on date of entrance.
 
-1990—Subsec. (b). Pub. L. 101–510 substituted “clauses (3) through (9)” for “clauses (3)–(7), (9) and (10)”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–510 substituted “clauses (3) through (9)” for “clauses (3)–(7), (9) and (10)”.
 
-1973—Subsec. (b). Pub. L. 93–171 substituted “, (9) and (10) of section 6954(a)” for “and (9) of section 6954(a)” and struck out “or Territory”.
+<b>1973</b>—Subsec. (b). Pub. L. 93–171 substituted “, (9) and (10) of section 6954(a)” for “and (9) of section 6954(a)” and struck out “or Territory”.
 
-1962—Subsec. (b). Pub. L. 87–663 inserted references to American Samoa, Guam, and the Virgin Islands, and substituted “clauses (3)–(7) and (9)” for “clauses (3)–(7)”.
+<b>1962</b>—Subsec. (b). Pub. L. 87–663 inserted references to American Samoa, Guam, and the Virgin Islands, and substituted “clauses (3)–(7) and (9)” for “clauses (3)–(7)”.
 
 #### Effective Date of 1973 Amendment
 

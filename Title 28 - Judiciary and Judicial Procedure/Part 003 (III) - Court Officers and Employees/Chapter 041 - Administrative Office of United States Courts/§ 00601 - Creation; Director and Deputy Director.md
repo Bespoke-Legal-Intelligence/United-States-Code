@@ -2,7 +2,7 @@
 
 The Administrative Office of the United States Courts shall be maintained at the seat of government. It shall be supervised by a Director and a Deputy Director appointed and subject to removal by the Chief Justice of the United States, after consulting with the Judicial Conference. The Director and Deputy Director shall be deemed to be officers for purposes of title 5, United States Code.
 
-(June 25, 1948, ch. 646, 62 Stat. 913; Pub. L. 86–370, §5(a)(1), Sept. 23, 1959, 73 Stat. 652; Pub. L. 101–650, title III, §307, Dec. 1, 1990, 104 Stat. 5112; Pub. L. 104–317, title VI, §602, Oct. 19, 1996, 110 Stat. 3857.)
+(June 25, 1948, ch. 646, 62 Stat. 913; Pub. L. 86–370, §5(a)(1), Sept. 23, 1959, 73 Stat. 652; Pub. L.101–650, title III, §307, Dec. 1, 1990, 104 Stat. 5112; Pub. L. 104–317, title VI, §602, Oct. 19, 1996, 110 Stat. 3857.)
 
 #### Historical and Revision Notes
 
@@ -14,11 +14,11 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1996—Pub. L. 104–317 inserted at end “The Director and Deputy Director shall be deemed to be officers for purposes of title 5, United States Code.”
+<b>1996</b>—Pub. L. 104–317 inserted at end “The Director and Deputy Director shall be deemed to be officers for purposes of title 5, United States Code.”
 
-1990—Pub. L. 101–650 substituted “Chief Justice of the United States, after consulting with the Judicial Conference” for “Supreme Court”.
+<b>1990</b>—Pub. L. 101–650 substituted “Chief Justice of the United States, after consulting with the Judicial Conference” for “Supreme Court”.
 
-1959—Pub. L. 86–370 substituted “Deputy Director” for “Assistant Director”.
+<b>1959</b>—Pub. L. 86–370 substituted “Deputy Director” for “Assistant Director”.
 
 #### Effective Date of 1959 Amendment
 

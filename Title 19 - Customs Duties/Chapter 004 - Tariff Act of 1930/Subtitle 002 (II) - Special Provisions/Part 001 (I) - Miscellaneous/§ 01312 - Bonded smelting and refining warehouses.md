@@ -2,7 +2,7 @@
 
 #### (a) Bond; charges against bond
 
-Any plant engaged in smelting or refining, or both, of metal-bearing materials as defined in this section may, upon the giving of satisfactory bond, be designated a bonded smelting or refining warehouse. Metal-bearing materials may be entered into a bonded smelting or refining warehouse without the payment of duties thereon and there smelted or refined, or both, together with metal-bearing materials of domestic or foreign origin. Upon arrival of imported metal-bearing materials at the warehouse they shall be sampled according to commercial methods and assayed, both under customs supervision. The bond shall be charged with a sum equal in amount to the duties which would be payable on such metal-bearing materials in their condition as imported if entered for consumption, and the bond charge shall be adjusted to reflect changes in the applicable rate of duty occurring while the imported materials are still covered by the bond.
+Any plant engaged in smelting or refining, or both, of metal-bearing materials as defined in this section may, upon the giving of satisfactorybond, be designated a bonded smelting or refining warehouse. Metal-bearing materials may be entered into a bonded smelting or refining warehouse without the payment of duties thereon and there smelted or refined, or both, together with metal-bearing materials of domestic or foreign origin. Upon arrival of imported metal-bearing materials at the warehouse they shall be sampled according to commercial methods and assayed, both under customs supervision. The bond shall be charged with a sum equal in amount to the duties which would be payable on such metal-bearing materials in their condition as imported if entered for consumption, and the bond charge shall be adjusted to reflect changes in the applicable rate of duty occurring while the imported materials are still covered by the bond.
 
 #### (b) Cancellation of charges against bond
 
@@ -48,7 +48,7 @@ The several charges against such bond may be canceled in whole or in part—
 
 &emsp;&emsp;&emsp;(iv) 25 percent during the 1-year period beginning on January 1, 2014, or
 
-&emsp;(5) upon the transfer to another bonded smelting or refining warehouse without physical shipment of metal of bond charges representing a quantity of dutiable metal contained in imported metal-bearing materials less wastage provided for in subsection (c) of this section of the plant of initial treatment ofsuch materials provided there is on hand at the warehouse to which the transfer is made sufficient like metal in any form to satisfy the transferred bond charges.
+&emsp;(5) upon the transfer to another bonded smelting or refining warehouse without physical shipment of metal of bond charges representing a quantity of dutiable metal contained in imported metal-bearing materials less wastage provided for in subsection (c) of this section of the plant of initial treatment of such materials provided there is on hand at the warehouse to which the transfer is made sufficient like metal in any form to satisfy the transferred bond charges.
 
 > If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, no charges against such bond may be canceled in whole or part upon an exportation to Canada under paragraph (1) or (4) during the period such Agreement is in operation except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of the United States-Canada Free-Trade Agreement Implementation Act of 1988.
 
@@ -94,7 +94,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) for the treatment of unwrought metal or metal waste and scrap to remove impurities or undesired components; and
 
-&emsp;(3) the term “product of smelting or refining” means metals or metal-bearing materials resulting directly from smelting or refining processes, but does not include metal-bearing ores of chapter 26 of the Harmonized Tariff Schedule of the United States.
+&emsp;(3) the term “product of smelting or refining” means metals or metal-bearing materialsresulting directly from smelting or refining processes, but does not include metal-bearing ores of chapter 26 of the Harmonized Tariff Schedule of the United States.
 
 #### (g) Supervision and cost of labor under this section
 
@@ -124,7 +124,7 @@ Previous provisions for sampling lead ores were contained in act Mar. 2, 1895, c
 
 #### Amendments
 
-2003—Subsec. (b)(1). Pub. L. 108–77, §§107(c), 203(b)(2)(A), temporarily substituted “except that—” and subpars. (A) and (B) for “except that in the case of a withdrawal for exportation of such a product to a NAFTA country, as defined in section 3301(4) of this title, if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in section 3333(a) of this title, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the duties on the materials may be waived or reduced (subject to section 1508(b)(2)(B) of this title) in an amount that does not exceed the lesser of—
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–77, §§107(c), 203(b)(2)(A), temporarily substituted “except that—” and subpars. (A) and (B) for “except that in the case of a withdrawal for exportation of such a product to a NAFTA country, as defined in section 3301(4) of this title, if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in section 3333(a) of this title, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the duties on the materials may be waived or reduced (subject to section 1508(b)(2)(B) of this title) in an amount that does not exceed the lesser of—
 
 &emsp;“(A) the total amount of customs duties owed on the materials on importation into the United States, or
 
@@ -148,15 +148,15 @@ Subsec. (d). Pub. L. 108–77, §§107(c), 203(b)(2)(C), temporarily substituted
 
 > See Effective and Termination Dates of 2003 Amendment note below.
 
-1993—Subsec. (b). Pub. L. 103–182, §203(b)(2)(B), inserted concluding provisions following par. (5).
+<b>1993</b>—Subsec. (b). Pub. L. 103–182, §203(b)(2)(B), inserted concluding provisions following par. (5).
 
 Subsec. (b)(1). Pub. L. 103–182, §203(b)(2)(A), struck out “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of such Act of 1988)” after “upon the exportation” and inserted provisions excepting goods withdrawn for exportation to a NAFTA country.
 
 Subsec. (b)(4). Pub. L. 103–182, §203(b)(2)(A), struck out “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of such Act of 1988)” after “warehouse for exportation” and inserted provisions excepting goods withdrawn for exportation to a NAFTA country.
 
-Subsec. (d). Pub. L. 103–182, §203(b)(2)(C), struck out “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement ImplementationAct of 1988, except to the extent that the product is a drawback eligible good under section 204(a) of such Act of 1988)” after “Upon the exportation” and inserted before concluding period provisions excepting goods withdrawn for exportation to a NAFTA country, including pars. (1) and (2), as well as sentence relating to conditions arising should Canada cease to be a NAFTA country.
+Subsec. (d). Pub. L. 103–182, §203(b)(2)(C), struck out “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the product is a drawback eligible good under section 204(a) of such Act of 1988)” after “Upon the exportation” and inserted before concluding period provisions excepting goods withdrawn for exportation to a NAFTA country, including pars. (1) and (2), as well as sentence relating to conditions arising should Canada cease to be a NAFTA country.
 
-1988—Subsec. (b)(1), (4). Pub. L. 100–449, §204(c)(2)(A), inserted “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of such Act of 1988)” after “exportation”.
+<b>1988</b>—Subsec. (b)(1), (4). Pub. L. 100–449, §204(c)(2)(A), inserted “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of such Act of 1988)” after “exportation”.
 
 Subsec. (d). Pub. L. 100–449, §204(c)(2)(B), inserted “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the product is a drawback eligible good under section 204(a) of such Act of 1988)” after “exportation”.
 
@@ -166,7 +166,7 @@ Subsec. (f)(2)(A). Pub. L. 100–418, §1214(h)(1)(B), substituted “chapters 7
 
 Subsec. (f)(3). Pub. L. 100–418, §1214(h)(1)(C), substituted “of chapter 26 of the Harmonized Tariff Schedule of the United States” for “as defined in part 1 of schedule 6”.
 
-1962—Pub. L. 87–456 amended section generally, and among other changes, substituted “metal-bearing minerals” for “ores or crude metals”, authorized adjustment of the bond charge to reflect changes in the applicable rate of duty occurring while the imported materials are still covered by the bond, permitted two or more warehouses to be included under one general bond, prohibited allowances for wastage of copper, lead, and zinc, and defined “metal-bearing materials”, “smelting or refining”, and “product of smelting or refining”.
+<b>1962</b>—Pub. L. 87–456 amended section generally, and among other changes, substituted “metal-bearing minerals” for “ores or crude metals”, authorized adjustment of the bond charge to reflect changes in the applicable rate of duty occurring while the imported materials are still covered by the bond, permitted two or more warehouses to be included under one general bond, prohibited allowances for wastage of copper, lead, and zinc, and defined “metal-bearing materials”, “smelting or refining”, and “product of smelting or refining”.
 
 #### Effective and Termination Dates of 2003 Amendment
 

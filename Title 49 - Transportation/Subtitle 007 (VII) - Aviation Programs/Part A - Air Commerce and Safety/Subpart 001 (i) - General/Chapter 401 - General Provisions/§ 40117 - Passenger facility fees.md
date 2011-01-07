@@ -20,7 +20,7 @@ Eligible airport-related project.—The term “eligible airport-related project
 
 &emsp;&emsp;(B) A project for terminal development described in section 47110(d).
 
-&emsp;&emsp;(C) A project for costs of terminal development referred to in subparagraph (B) incurred after August 1, 1986, at an airportthat did not have more than .25 percent of the total annual passenger boardings in the United States in the most recent calendar year for which data is available and at which total passenger boardings declined by at least 16 percent between calendar year 1989 and calendar year 1997.
+&emsp;&emsp;(C) A project for costs of terminal development referred to in subparagraph (B) incurred after August 1, 1986, at an airport that did not have more than .25 percent of the total annual passenger boardings in the United States in the most recent calendar year for which data is available and at which total passenger boardings declined by at least 16 percent between calendar year 1989 and calendar year 1997.
 
 &emsp;&emsp;(D) A project for airport noise capability planning under section 47505.
 
@@ -70,7 +70,7 @@ Noise mitigation for certain schools.—
 
 &emsp;(A)
 
-In general.—In addition to the uses specified in paragraphs (1), (4), and (6), the Secretary may authorize a passenger facility fee imposed under paragraph (1) or (4) at a large hub airport that is the subject of an amended judgment and final order in condemnation filed on January 7, 1980, by the Superior Court of the State of California for the county of Los Angeles, to be used for a project to carry out noise mitigation for a building, or for the replacement of a relocatable building with a permanent building, in the noise impacted area surrounding the airport at whichsuch building is used primarily for educational purposes, notwithstanding the air easement granted or any terms to the contrary in such judgment and final order, if—
+In general.—In addition to the uses specified in paragraphs (1), (4), and (6), the Secretary may authorize a passenger facility fee imposed under paragraph (1) or (4) at a large hub airport that is the subject of an amended judgment and final order in condemnation filed on January 7, 1980, by the Superior Court of the State of California for the county of Los Angeles, to be used for a project to carry out noise mitigation for a building, or for the replacement of a relocatable building with a permanent building, in the noise impacted area surrounding the airport at which such building is used primarily for educational purposes, notwithstanding the air easement granted or any terms to the contrary in such judgment and final order, if—
 
 &emsp;&emsp;(i) the Secretary determines that the building is adversely affected by airport noise;
 
@@ -180,7 +180,7 @@ Treatment of Revenue.—(1) Passenger facility revenue is not airport revenue fo
 
 (h)
 
-Compliance.—(1) As necessary to ensure compliance with this section, the Secretary shall prescribe regulations requiring recordkeeping and auditing of accounts maintained by an air carrier or foreign air carrier and its agent collecting a passenger facility fee and by the eligible agency imposing the fee.
+Compliance.—(1) As necessary to ensure compliance with this section, the Secretary shall prescribe regulations requiring recordkeeping and auditing of accounts maintained byan air carrier or foreign air carrier and its agent collecting a passenger facility fee and by the eligible agency imposing the fee.
 
 (2) The Secretary periodically shall audit and review the use by an eligible agency of passenger facility revenue. After review and a public hearing, the Secretary may end any part of the authority of the agency to impose a passenger facility fee to the extent the Secretary decides that the revenue is not being used as provided in this section.
 
@@ -264,7 +264,7 @@ Regulations.—Not later than 180 days after the date of enactment of this subse
 
 &emsp;(7)
 
-Sunset.—This subsection shall cease to be effective beginning on April 1, 2010.
+Sunset.—This subsection shall cease to be effective beginning on April 1, 2011.
 
 &emsp;(8)
 
@@ -302,7 +302,7 @@ Existing regulations.—The provisions of section 158.49 of title 14, Code of Fe
 
 Covered air carrier defined.—In this section, the term “covered air carrier” means an air carrier that files for chapter 7 or chapter 11 of title 11 bankruptcy protection, or has an involuntary chapter 7 of title 11 bankruptcy proceeding commenced against it, after the date of enactment of this subsection.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1113; Pub. L. 103–305, title II, §§203, 204(a)(1), (b), Aug. 23, 1994, 108 Stat. 1582, 1583; Pub. L. 104–264, title I, §142(b)(2), title XII, §1202, Oct. 9, 1996, 110 Stat. 3221, 3280; Pub. L. 104–287, §5(67), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 106–181, title I, §§105(a), (b), 135(a), (b), 151, 152(a), 155(c), Apr. 5, 2000, 114 Stat. 71, 83, 86–88; Pub. L. 108–176, title I, §§121(a)–(c), 122–123(d), 124, Dec. 12, 2003, 117 Stat. 2499–2502; Pub. L. 110–253, §3(c)(1), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §5(a), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 110–337, §1, Oct. 2, 2008, 122 Stat. 3729; Pub. L. 111–12, §5(a), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(a), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(a), Dec. 16, 2009, 123 Stat. 3032.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1113; Pub. L. 103–305, title II, §§203, 204(a)(1), (b), Aug. 23, 1994, 108 Stat. 1582, 1583; Pub. L. 104–264, title I, §142(b)(2), title XII, §1202, Oct. 9, 1996, 110 Stat. 3221, 3280; Pub. L. 104–287, §5(67), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 106–181, title I, §§105(a), (b), 135(a), (b), 151, 152(a), 155(c), Apr. 5, 2000, 114 Stat. 71, 83, 86–88; Pub. L. 108–176, title I, §§121(a)–(c), 122–123(d), 124, Dec. 12, 2003, 117 Stat. 2499–2502; Pub. L. 110–253, §3(c)(1), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §5(a), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 110–337, §1, Oct. 2, 2008, 122 Stat. 3729; Pub. L. 111–12, §5(a), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(a), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(a), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(a), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(a), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(a), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(a), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(a), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(a), Dec. 22, 2010, 124 Stat. 3567.)
 
 Historical and Revision Notes
 
@@ -414,7 +414,7 @@ Subsection (e)(2)(A) is substituted for 49 App.:1513(e)(6) (last sentence) to el
 
 In subsection (e)(2)(B), the words “a public agency which controls any other airport”, “If a passenger of an air carrier is being provided air service”, and “with respect to such air service” are omitted as surplus.
 
-In subsection (f)(3), the words “financed with” are substituted for “carried out through the use of” for consistency in this section and to eliminate unnecessary words.
+In subsection (f)(3), the words “financed with” are substituted for “carried out through the use of” forconsistency in this section and to eliminate unnecessary words.
 
 In subsection (g), the word “price” is substituted for “rate, fee, or charge” and “rates, fees, and charges” to eliminate unnecessary words.
 
@@ -436,19 +436,31 @@ The date of enactment of this subsection, referred to in subsecs. (<i>l</i>)(6) 
 
 #### Amendments
 
-2009—Subsec. (<i>l</i>)(7). Pub. L. 111–116 substituted “April 1, 2010.” for “January 1, 2010.”
+<b>2010</b>—Subsec. (<i>l</i>)(7). Pub. L. 111–329 substituted “April 1, 2011.” for “January 1, 2011.”
+
+Pub. L. 111–249 substituted “January 1, 2011.” for “October 1, 2010.”
+
+Pub. L. 111–216 substituted “October 1, 2010.” for “August 2, 2010.”
+
+Pub. L. 111–197 substituted “August 2, 2010.” for “July 4, 2010.”
+
+Pub. L. 111–161 substituted “July 4, 2010.” for “May 1, 2010.”
+
+Pub. L. 111–153 substituted “May 1, 2010.” for “April 1, 2010.”
+
+<b>2009</b>—Subsec. (<i>l</i>)(7). Pub. L. 111–116 substituted “April 1, 2010.” for “January 1, 2010.”
 
 Pub. L. 111–69 substituted “January 1, 2010.” for “October 1, 2009.”
 
 Pub. L. 111–12 substituted “October 1, 2009.” for “April 1, 2009.”
 
-2008—Subsec. (b)(7). Pub. L. 110–337 added par. (7).
+<b>2008</b>—Subsec. (b)(7). Pub. L. 110–337 added par. (7).
 
 Subsec. (<i>l</i>)(7). Pub. L. 110–330 substituted “April 1, 2009” for “September 30, 2008”.
 
 Pub. L. 110–253 substituted “September 30, 2008” for “the date that is 3 years after the date of issuance of regulations to carry out this subsection”.
 
-2003—Subsec. (a)(3)(C). Pub. L. 108–176, §123(d), substituted “A project for costs” for “for costs” and a period for the semicolon at end.
+<b>2003</b>—Subsec. (a)(3)(C). Pub. L. 108–176, §123(d), substituted “A project for costs” for “for costs” and a period for the semicolon at end.
 
 Subsec. (a)(3)(G). Pub. L. 108–176, §121(a), added subpar. (G).
 
@@ -470,7 +482,7 @@ Subsec. (<i>l</i>). Pub. L. 108–176, §123(b), added subsec. (<i>l</i>).
 
 Subsec. (m). Pub. L. 108–176, §124, added subsec. (m).
 
-2000—Subsec. (a). Pub. L. 106–181, §151, amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “In this section—
+<b>2000</b>—Subsec. (a). Pub. L. 106–181, §151, amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “In this section—
 
 &emsp;“(1) ‘airport’, ‘commercial service airport’, and ‘public agency’ have the same meanings given those terms in section 47102 of this title.
 
@@ -506,7 +518,7 @@ Subsec. (j). Pub. L. 106–181, §135(b)(4), added subsec. (j).
 
 Subsec. (k). Pub. L. 106–181, §155(c), added subsec. (k).
 
-1996—Subsec. (a)(3)(D) to (F). Pub. L. 104–264, §142(b)(2), inserted “and” at end of subpar. (D), substituted a period for “; and” at end of subpar. (E), and struck out subpar. (F) which read as follows: “in addition to projects eligible under subparagraph (A), the construction, reconstruction, repair, or improvement of areas of an airport used for the operation of aircraft or actions to mitigate the environmental effects of such construction, reconstruction, repair, or improvement when the construction, reconstruction, repair, improvement, or action is necessary for compliance with the responsibilities of the operator or owner of the airport under the Americans with Disabilities Act of 1990, the Clean Air Act, or the Federal Water Pollution Control Act with respect to the airport.”
+<b>1996</b>—Subsec. (a)(3)(D) to (F). Pub. L. 104–264, §142(b)(2), inserted “and” at end of subpar. (D), substituted a period for “; and” at end of subpar. (E), and struck out subpar. (F) which read as follows: “in addition to projects eligible under subparagraph (A), the construction, reconstruction, repair, or improvement of areas of an airport used for the operation of aircraft or actions to mitigate the environmental effects of such construction, reconstruction, repair, or improvement when the construction, reconstruction, repair, improvement, or action is necessary for compliance with the responsibilities of the operator or owner of the airport under the Americans with Disabilities Act of 1990, the Clean Air Act, or the Federal Water Pollution Control Act with respect to the airport.”
 
 Subsec. (e)(2)(B) to (D). Pub. L. 104–287 inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “for a project the Secretary does not approve under this section before October 1, 1993, if, during the fiscal year ending September 30, 1993, the amount available for obligation under subchapter II of chapter 417 of this title is less than $38,600,000, except that this clause—
 
@@ -516,11 +528,25 @@ Subsec. (e)(2)(B) to (D). Pub. L. 104–287 inserted “and” at end of subpar.
 
 Subsec. (g)(4). Pub. L. 104–264, §1202, added par. (4).
 
-1994—Subsec. (a)(3)(F). Pub. L. 103–305, §203, added subpar. (F).
+<b>1994</b>—Subsec. (a)(3)(F). Pub. L. 103–305, §203, added subpar. (F).
 
 Subsec. (d)(3). Pub. L. 103–305, §204(b), added par. (3).
 
 Subsec. (e)(2)(D). Pub. L. 103–305, §204(a)(1), added subpar. (D).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–329, §5(j), Dec. 22, 2010, 124 Stat. 3568, provided that: “The amendments made by this section \[amending this section and sections 44302, 44303, 47107,47115, 47141, and 49108 of this title and provisions set out as a note under section 47109 of this title\] shall take effect on January 1, 2011.”
+
+Pub. L. 111–249, §5(<i>l</i>), Sept. 30, 2010, 124 Stat. 2628, provided that: “The amendments made by this section \[amending this section, sections 41743, 44302, 44303, 47107, 47115, 47141, and 49108 of this title, and provisions set out as notes under sections 41731 and 47109 of this title\] shall take effect on October 1, 2010.”
+
+Pub. L. 111–216, title I, §104(j), Aug. 1, 2010, 124 Stat. 2350, provided that: “The amendments made by this section \[amending this section, sections 44302, 44303, 47107, 47115, 47141, and 49108 of this title, and provisions set out as a note under section 47109 of this title\] shall take effect on August 2, 2010.”
+
+Pub. L. 111–197, §5(j), July 2, 2010, 124 Stat. 1354, provided that: “The amendments made by this section \[amending this section, sections 44302, 44303, 47107, 47115, 47141, and 49108 of this title, and provisions set out as a note under section 47109 of this title\] shall take effect on July 4, 2010.”
+
+Pub. L. 111–161, §5(j), Apr. 30, 2010, 124 Stat. 1127, provided that: “The amendments made by this section \[amending this section, sections 44302, 44303, 47107, 47115, 47141, and 49108 of this title, and provisions set out as a note under section 47109 of this title\] shall take effect on May 1, 2010.”
+
+Pub. L. 111–153, §5(j), Mar. 31, 2010, 124 Stat. 1085, provided that: “The amendments made by this section \[amending this section, sections 44302, 44303, 47107, 47115, 47141, and 49108 of this title, and provisions set out as a note under section 47109 of this title\] shall take effect on April 1, 2010.”
 
 #### Effective Date of 2009 Amendment
 
@@ -532,7 +558,7 @@ Pub. L. 111–12, §5(j), Mar. 30, 2009, 123 Stat. 1458, provided that: “The a
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–330, §5(<i>l</i>), Sept. 30, 2008, 122 Stat. 3719, provided that: “The amendments made by this section \[amending this section and sections 41743, 44302, 44303, 47107, 47115, 47141, and 49108 of this title and provisions set out as notes under sections 41731 and 47109 of this title\] shall take effect on October 1, 2008.”
+Pub. L. 110–330, §5(<i>l</i>), Sept. 30, 2008, 122 Stat. 3719, provided that: “The amendments made by this section \[amending this section, sections 41743, 44302, 44303, 47107, 47115, 47141, and 49108 of this title, and provisions set out as notes under sections 41731 and 47109 of this title\] shall take effect on October 1, 2008.”
 
 Amendment by Pub. L. 110–253 effective July 1, 2008, see section 3(d) of Pub. L. 110–253, set out as a note under section 9502 of Title 26, Internal Revenue Code.
 
@@ -550,7 +576,7 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 #### Guidance
 
-Pub. L. 108–176, title I, §121(d), Dec. 12, 2003, 117 Stat. 2500, provided that: “The Secretary, in consultationwith the Administrator of the Environmental Protection Agency, shall issue guidance determining eligibility of projects, and how benefits to air quality must be demonstrated, under the amendments made by this section \[amending this section\].”
+Pub. L. 108–176, title I, §121(d), Dec. 12, 2003, 117 Stat. 2500, provided that: “The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall issue guidance determining eligibility of projects, and how benefits to air quality must be demonstrated, under the amendments made by this section \[amending this section\].”
 
 #### Eligibility of Airport Ground Access Transportation Projects
 

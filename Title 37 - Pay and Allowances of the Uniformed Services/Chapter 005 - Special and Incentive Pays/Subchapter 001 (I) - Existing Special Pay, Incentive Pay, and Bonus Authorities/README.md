@@ -1,7 +1,5 @@
 ### SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
 
 ---
 

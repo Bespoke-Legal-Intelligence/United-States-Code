@@ -12,7 +12,7 @@ The Secretary shall discontinue the educational assistance allowance of an eligi
 
 &emsp;&emsp;(C) if a proposed change of program is involved, the change meets the requirements for approval under section 3691 of this title.
 
-(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 16, §1674; amended Pub. L. 94–502, title II, §§206, 211(8), Oct. 15, 1976, 90 Stat. 2387, 2388; Pub. L.95–202, title III, §305(b)(1), Nov. 23, 1977, 91 Stat. 1443; Pub. L. 96–466, title III, §306, Oct. 17, 1980, 94 Stat. 2193; Pub. L. 101–237, title IV, §§411(a), 412(b), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2085, 2092; renumbered §3474 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 16, §1674; amended Pub. L. 94–502, title II, §§206, 211(8), Oct. 15, 1976, 90 Stat. 2387, 2388; Pub. L. 95–202, title III, §305(b)(1), Nov. 23, 1977, 91 Stat. 1443; Pub. L. 96–466, title III, §306, Oct. 17, 1980, 94 Stat. 2193; Pub. L. 101–237, title IV, §§411(a), 412(b), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2085, 2092; renumbered §3474 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Prior Provisions
 
@@ -20,11 +20,11 @@ Provisions similar to those comprising the first sentence of this section were c
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1674 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1674 of this title as this section.
 
 Par. (2)(C). Pub. L. 102–83, §5(c)(1), substituted “3691” for “1791”.
 
-1989—Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
 Pub. L. 101–237, §412(b), substituted “attendance, conduct,” for “conduct”.
 
@@ -34,11 +34,11 @@ Pars. (1), (2). Pub. L. 101–237, §411(a), added pars. (1) and (2) and struck 
 
 “(2) the program which the eligible veteran now proposes to pursue (whether the same or revised) is suitable to the veteran's aptitudes, interests, and abilities.”
 
-1980—Pub. L. 96–466 struck out provisions relating to the conditions upon which a veteran's progress would be considered unsatisfactory.
+<b>1980</b>—Pub. L. 96–466 struck out provisions relating to the conditions upon which a veteran's progress would be considered unsatisfactory.
 
-1977—Pub. L. 95–202 inserted provisions authorizing the Administrator to determine the veteran's progress to be satisfactory even though the veteran will graduate within a length of time exceeding the approved length if the additional length of time is reasonable in accordance with regulations.
+<b>1977</b>—Pub. L. 95–202 inserted provisions authorizing the Administrator to determine the veteran's progress to be satisfactory even though the veteran will graduate within a length of time exceeding the approved length if the additional length of time is reasonable in accordance with regulations.
 
-1976—Pub. L. 94–502, §211(8), inserted provision specifying progress as unsatisfactory when the veteran will not be able to graduate within the approved length of the course.
+<b>1976</b>—Pub. L. 94–502, §211(8), inserted provision specifying progress as unsatisfactory when the veteran will not be able to graduate within the approved length of the course.
 
 Pub. L. 94–502, §206, substituted “the veteran's” for “his” in two places and “if the Administrator finds” for “if he finds”.
 

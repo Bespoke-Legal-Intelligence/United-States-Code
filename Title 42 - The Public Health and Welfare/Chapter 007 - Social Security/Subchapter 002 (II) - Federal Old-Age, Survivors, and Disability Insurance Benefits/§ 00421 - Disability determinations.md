@@ -16,7 +16,7 @@
 
 &emsp;(E) the submission of reports and other data, in such form and at such time as the Commissioner of Social Security may require, concerning the State agency's activities relating to the disability determination.
 
-> Nothing in this section shall be construed to authorize the Commissioner of Social Security to take any action except pursuant to law or to regulations promulgated pursuant to law.
+> Nothing in this section shall be construed to authorize the Commissioner of Social Security totake any action except pursuant to law or to regulations promulgated pursuant to law.
 
 #### (b) Determinations by Commissioner
 
@@ -26,7 +26,7 @@
 
 (3)(A) The Commissioner of Social Security shall develop and initiate all appropriate procedures to implement a plan with respect to any partial or complete assumption by the Commissioner of Social Security of the disability determination function from a State agency, as provided in this section, under which employees of the affected State agency who are capable of performing duties in the disability determination process for the Commissioner of Social Security shall, notwithstanding any other provision of law, have a preference over any other individual in filling an appropriate employment position with the Commissioner of Social Security (subject to any system established by the Commissioner of Social Security for determining hiring priority among such employees of the State agency) unless any such employee is the administrator, the deputy administrator, or assistant administrator (or his equivalent) of the State agency, in which case the Commissioner of Social Security may accord such priority to such employee.
 
-(B) The Commissioner of Social Security shall not make such assumption of the disability determination function until such time as the Secretary of Labor determines that, with respect to employees of such State agency who will be displaced from their employment on account ofsuch assumption by the Commissioner of Social Security and who will not be hired by the Commissioner of Social Security to perform duties in the disability determination process, the State has made fair and equitable arrangements to protect the interests of employees so displaced. Such protective arrangements shall include only those provisions which are provided under all applicable Federal, State and local statutes including, but not limited to, (i) the preservation of rights, privileges, and benefits (including continuation of pension rights and benefits) under existing collective-bargaining agreements; (ii) the continuation of collective-bargaining rights; (iii) the assignment of affected employees to other jobs or to retraining programs; (iv) the protection of individual employees against a worsening of their positions with respect to their employment; (v) the protection of health benefits and other fringe benefits; and (vi) the provision of severance pay, as may be necessary.
+(B) The Commissioner of Social Security shall not make such assumption of the disability determination function until such time as the Secretary of Labor determines that, with respect to employees of such State agency who will be displaced from their employment on account of such assumption by the Commissioner of Social Security and who will not be hired by the Commissioner of Social Security to perform duties in the disability determination process, the State has made fair and equitable arrangements to protect the interests of employees so displaced. Such protective arrangements shall include only those provisions which are provided under all applicable Federal, State and local statutes including, but not limited to, (i) the preservation of rights, privileges, and benefits (including continuation of pension rights and benefits) under existing collective-bargaining agreements; (ii) the continuation of collective-bargaining rights; (iii) the assignment of affected employees to other jobs or to retraining programs; (iv) the protection of individual employees against a worsening of their positions with respect to their employment; (v) the protection of health benefits and other fringe benefits; and (vi) the provision of severance pay, as may be necessary.
 
 #### (c) Review of determination by Commissioner
 
@@ -42,7 +42,7 @@
 
 (B) In conducting reviews pursuant to subparagraph (A), the Commissioner of Social Security shall, to the extent feasible, select for review those determinations which the Commissioner of Social Security identifies as being the most likely to be incorrect.
 
-(C) Not later than April 1, 1992, and annually thereafter, the Commissioner of Social Security shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a written report setting forth the number of reviews conducted under subparagraph (A)(ii) during the preceding fiscal year and the findings of the Commissioner of Social Security based on such reviews of the accuracy of the determinations made by State agencies pursuant to this section.
+(C) Not later than April 1, 1992, and annually thereafter, the Commissioner of Social Security shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a written report setting forth the number of reviews conducted under subparagraph (A)(ii) during the preceding fiscal year and the findings of the Commissioner of Social Security based on suchreviews of the accuracy of the determinations made by State agencies pursuant to this section.
 
 #### (d) Hearings and judicial review
 
@@ -70,7 +70,7 @@ An initial determination under subsection (a), (c), (g), or (i) of this section 
 
 (2) The requirement of paragraph (1) that cases be reviewed at least every 3 years shall not apply to the extent that the Commissioner of Social Security determines, on a State-by-State basis, that such requirement should be waived to insure that only the appropriate number of such cases are reviewed. The Commissioner of Social Security shall determine the appropriate number of cases to be reviewed in each State after consultation with the State agency performing such reviews, based upon the backlog of pending reviews, the projected number of new applications for disability insurance benefits, and the current and projected staffing levels of the State agency, but the Commissioner of Social Security shall provide for a waiver of such requirement only in the case of a State which makes a good faith effort to meet proper staffing requirements for the State agency and to process case reviews in a timely fashion. The Commissioner of Social Security shall report annually to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives with respect to the determinations made by the Commissioner of Social Security under the preceding sentence.
 
-(3) The Commissioner of Social Security shall report annually to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives with respect to the number of reviews of continuing disability carried out under paragraph (1), the number of such reviews which result in an initial termination of benefits, the number of requests for reconsideration of such initial termination or for a hearing with respect to such termination under subsection (d) of this section, or both, and the number of such initial terminations which are overturned as the result of a reconsideration or hearing.
+(3) The Commissioner of Social Security shall report annually to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives with respect to the number of reviews of continuingdisability carried out under paragraph (1), the number of such reviews which result in an initial termination of benefits, the number of requests for reconsideration of such initial termination or for a hearing with respect to such termination under subsection (d) of this section, or both, and the number of such initial terminations which are overturned as the result of a reconsideration or hearing.
 
 (4) In any case in which the Commissioner of Social Security initiates a review under this subsection of the case of an individual who has been determined to be under a disability, the Commissioner of Social Security shall notify such individual of the nature of the review to be carried out, the possibility that such review could result in the termination of benefits, and the right of the individual to provide medical evidence with respect to such review.
 
@@ -120,19 +120,19 @@ The Commissioner of Social Security shall prescribe regulations which set forth,
 
 #### Prior Provisions
 
-A prior section 421, act Aug. 14, 1935, ch. 531, title II, §221, as added July 18, 1952, ch. 945, §3(e), 66 Stat. 772; amended by 1953 Reorg. Plan No. 1, §5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, relating to disability determinations, ceased to be in effect at the close of June 30, 1953. See section 3(g) of act July 18, 1952, set out as an Effective and Termination Date of 1952 Amendment note under section 413 of this title.
+A prior section 421, act Aug. 14, 1935, ch. 531, title II, §221, as added July 18, 1952, ch. 945, §3(e), 66 Stat. 772;amended by 1953 Reorg. Plan No. 1, §5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, relating to disability determinations, ceased to be in effect at the close of June 30, 1953. See section 3(g) of act July 18, 1952, set out as an Effective and Termination Date of 1952 Amendment note under section 413 of this title.
 
 #### Amendments
 
-2004—Subsec. (e). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (e). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1999—Subsec. (i)(5). Pub. L. 106–170, §101(b)(1)(A), added par. (5).
+<b>1999</b>—Subsec. (i)(5). Pub. L. 106–170, §101(b)(1)(A), added par. (5).
 
 Subsec. (m). Pub. L. 106–170, §111(a), added subsec. (m).
 
-1994—Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary” wherever appearing except where appearing before “of Labor” in subsec. (b)(3)(B) and substituted “the Commissioner deems” for “he deems” and “the Commissioner finds” for “he finds” in subsec. (a)(2), “the Commissioner's” for “his” wherever appearing in subsecs. (b)(1), (c)(1), and (g), “the Commissioner has complied” for “he has complied” in subsec. (b)(1), “Commissioner's” for “Secretary's” in subsec. (d), and “prescribed by the Commissioner” for “prescribed by him” in subsec. (g).
+<b>1994</b>—Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary” wherever appearing except where appearing before “of Labor” in subsec. (b)(3)(B) and substituted “the Commissioner deems” for “he deems” and “the Commissioner finds” for “he finds” in subsec. (a)(2), “the Commissioner's” for “his” wherever appearing in subsecs. (b)(1), (c)(1), and (g), “the Commissioner has complied” for “he has complied” in subsec. (b)(1), “Commissioner's” for “Secretary's” in subsec. (d), and “prescribed by the Commissioner” for “prescribed by him” in subsec. (g).
 
-1990—Subsec. (c)(3). Pub. L. 101–508 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In carrying out the provisions of paragraph (2) with respect to the review of determinations, made by State agencies pursuant to this section, that individuals are under disabilities (as defined in section 416(i) or 423(d) of this title), the Secretary shall review—
+<b>1990</b>—Subsec. (c)(3). Pub. L. 101–508 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In carrying out the provisions of paragraph (2) with respect to the review of determinations, made by State agencies pursuant to this section, that individuals are under disabilities (as defined in section 416(i) or 423(d) of this title), the Secretary shall review—
 
 &emsp;“(A) at least 15 percent of all such determinations made by State agencies in the fiscal year 1981,
 
@@ -140,17 +140,17 @@ Subsec. (m). Pub. L. 106–170, §111(a), added subsec. (m).
 
 &emsp;“(C) at least 65 percent of all such determinations made by State agencies in any fiscal year after the fiscal year 1982.”
 
-1989—Subsec. (<i>l</i>). Pub. L. 101–239 added subsec. (<i>l</i>).
+<b>1989</b>—Subsec. (<i>l</i>). Pub. L. 101–239 added subsec. (<i>l</i>).
 
-1988—Subsec. (i)(3). Pub. L. 100–647 substituted “semiannually” for “annually”.
+<b>1988</b>—Subsec. (i)(3). Pub. L. 100–647 substituted “semiannually” for “annually”.
 
-1986—Subsec. (e). Pub. L. 99–514 struck out “under this section” before “shall be entitled”.
+<b>1986</b>—Subsec. (e). Pub. L. 99–514 struck out “under this section” before “shall be entitled”.
 
-1984—Subsec. (a)(1)(A). Pub. L. 98–460, §17(a)(2), (b), temporarily substituted “subsection (b)(1)(C) of this section” for “subsection (b)(1) of this section”. See Effective and Termination Dates of 1984 Amendments note below.
+<b>1984</b>—Subsec. (a)(1)(A). Pub. L. 98–460, §17(a)(2), (b), temporarily substituted “subsection (b)(1)(C) of this section” for “subsection (b)(1) of this section”. See Effective and Termination Dates of 1984 Amendments note below.
 
 Subsec. (b)(1). Pub. L. 98–460, §17(a)(1), (b), temporarily amended par. (1) generally. Prior to amendment, par. (1) read as follows: “If the Secretary finds, after notice and opportunity for a hearing, that a State agency is substantially failing to make disability determinations in a manner consistent with his regulations and other written guidelines, the Secretary shall, not earlier than 180 days following his finding, and after he has complied with the requirements of paragraph (3), make the disability determinations referred to in subsection (a)(1) of this section.” See Effective and Termination Dates of 1984 Amendments note below.
 
-Subsec. (b)(3). Pub. L. 98–460, §17(a)(3), (b), temporarily substituted “Except as provided in subparagraph\(D)(i) of paragraph (1), the Secretary” for “The Secretary” in subpars. (A) and (B). See Effective and Termination Dates of 1984 Amendments note below.
+Subsec. (b)(3). Pub. L. 98–460, §17(a)(3), (b), temporarily substituted “Except as provided in subparagraph (D)(i) of paragraph (1), the Secretary” for “The Secretary” in subpars. (A) and (B). See Effective and Termination Dates of 1984 Amendments note below.
 
 Subsec. (d). Pub. L. 98–460, §17(a)(4), (b), temporarily substituted “Except as provided in subsection (b)(1)(D) of this section, any individual” for “Any individual”. See Effective and Termination Dates of 1984 Amendments note below.
 
@@ -164,9 +164,9 @@ Subsec. (j). Pub. L. 98–460, §9(a)(1), added subsec. (j).
 
 Subsec. (k). Pub. L. 98–460, §10(a), added subsec. (k).
 
-1983—Subsec. (i). Pub. L. 97–455 designated existing provisions as par. (1), inserted “, subject to paragraph (2)” after “at least once every 3 years”, and added pars. (2) and (3).
+<b>1983</b>—Subsec. (i). Pub. L. 97–455 designated existing provisions as par. (1), inserted “, subject to paragraph (2)” after “at least once every 3 years”, and added pars. (2) and (3).
 
-1980—Subsec. (a). Pub. L. 96–265, §304(a), completely revised provisions under which determinations are to be made by State agencies.
+<b>1980</b>—Subsec. (a). Pub. L. 96–265, §304(a), completely revised provisions under which determinations are to be made by State agencies.
 
 Subsec. (b). Pub. L. 96–265, §304(b), substituted provisions covering the making of disability determinations by the Secretary rather than by the State for provisions relating to agreements between the Secretary and the State under which the State would make disability determinations.
 
@@ -180,11 +180,11 @@ Subsec. (g). Pub. L. 96–265, §304(f), substituted “does not undertake to pe
 
 Subsec. (i). Pub. L. 96–265, §311(a), added subsec. (i).
 
-1968—Subsec. (a). Pub. L. 90–248, §158(c)(3), substituted in first sentence reference to “423(d)” for “423(c)”.
+<b>1968</b>—Subsec. (a). Pub. L. 90–248, §158(c)(3), substituted in first sentence reference to “423(d)” for “423(c)”.
 
 Subsec. (c). Pub. L. 90–248, §158(c)(4), substituted reference to “423(d)” for “423(c)”.
 
-1956—Subsec. (a). Act Aug. 1, 1956, §103(c)(7), inserted reference to section 423(c) of this title.
+<b>1956</b>—Subsec. (a). Act Aug. 1, 1956, §103(c)(7), inserted reference to section 423(c) of this title.
 
 Subsec. (c). Act Aug. 1, 1956, §103(c)(8), restricted disability to definition of such term contained in section 416(i) or 423(c) of this title.
 
@@ -258,7 +258,7 @@ Section 5 of Pub. L. 98–460 provided that:
 
 “(c)(1) Any initial determination that an individual is not under a disability by reason of a mental impairment and any determination that an individual is not under a disability by reason of a mental impairment in a reconsideration of or hearing on an initial disability determination, made or held under title II or XVI of the Social Security Act \[this subchapter or subchapter XVI of this chapter\] after the date of the enactment of this Act \[Oct. 9, 1984\] and prior to the date on which revised criteria are established by regulation in accordance with subsection (a), and any determination that an individual is not under a disability by reason of a mental impairment made under or in accordance with title II or XVI of such Act in a reconsideration of, hearing on, review by the Appeals Council of, or judicial review of a decision rendered in any continuing eligibility review to which subsection (b)(1) applies, shall be redetermined by the Secretary as soon as feasible after the date on which such criteria are so established, applying such revised criteria.
 
-“(2) In the case of a redetermination under paragraph (1) of a prior action which found that an individual was not under a disability, if such individual is found on redetermination to be under a disability, such redetermination shall be applied as though it had been made at the time of such prior action.
+“(2) In the case of a redetermination under paragraph (1) of a prior action which found that an individual wasnot under a disability, if such individual is found on redetermination to be under a disability, such redetermination shall be applied as though it had been made at the time of such prior action.
 
 “(3) Any individual with a mental impairment who was found to be not disabled pursuant to an initial disability determination or a continuing eligibility review between March 1, 1981, and the date of the enactment of this Act \[Oct. 9, 1984\], and who reapplies for benefits under title II or XVI of the Social Security Act, may be determined to be under a disability during the period considered in the most recent prior determination. Any reapplication under this paragraph must be filed within one year after the date of the enactment of this Act, and benefits payable as a result of the preceding sentence shall be paid only on the basis of the reapplication.”
 
@@ -268,11 +268,7 @@ Section 6(c) of Pub. L. 98–460 provided that: “The Secretary shall institute
 
 #### Demonstration Projects; Opportunity for Personal Appearance Prior to Disability Determinations; Report to Congressional Committees
 
-Section 6(d), (e) of Pub. L. 98–460 provided that:
-
-“(d) The Secretary of Health and Human Services shall, as soon as practicable after the date of the enactment of this Act \[Oct. 9, 1984\], implement demonstration projects in which the opportunity for a personal appearance prior to a determination of ineligibility for persons reviewed under section 221(i) of the Social Security Act \[subsec. (i) of this section\] is substituted for the face to face evidentiary hearing required by section 205(b)(2) of such Act \[section 405(b)(2) of this title\]. Such demonstration projects shall be conducted in not fewer than five States, and shall also include disability determinations with respect to individuals reviewed under title XVI of such Act \[subchapter XVI of this chapter\]. The Secretary shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate concerning such demonstration projects, together with any recommendations, not later than December 31, 1986.
-
-“(e) The Secretary of Health and Human Services shall, as soon as practicable after the date of the enactment of this Act, implement demonstration projects in which the opportunity for a personal appearance is provided the applicant prior to initial disability determinations under subsections (a), (c), and (g) of section 221 of the Social Security Act, and prior to initial disability determinations on applications for benefits under title XVI of such Act. Such demonstration projects shall be conducted in not fewer than five States. The Secretary shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate concerning such demonstration projects, together with any recommendations, not later than December 31, 1986.”
+Pub. L. 98–460, §6(d), (e), Oct. 9, 1984, 98 Stat. 1802, 1803, required the Secretary of Health and Human Services, as soon as practicable after Oct. 9, 1984, to implement demonstration projects in at least five States in which the opportunity for a personal appearance prior to a determination of ineligibility for disability benefits under 42 U.S.C. 421(i) or prior to initial disability determinations under 42 U.S.C. 421(a), (c), (g) and title XVI of the Social Security Act (42 U.S.C. 1381 et seq.) was substituted for the face to face evidentiary hearing required by 42 U.S.C. 405(b)(2), and to report to the appropriate committees of Congress by Dec. 31, 1986.
 
 #### Promulgation of Regulations
 

@@ -38,7 +38,7 @@ Another prior section 742 of Pub. L. 89–329 was classified to section 1132c–
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–315, §707(h)(1)(A), struck out par. (1) designation before “The Secretary shall designate” and struck out par. (2). Prior to amendment, text of par. (2) read as follows: “The Secretary shall appoint the Director of the Fund for the Improvement of Postsecondary Education (hereafter in this part referred to as the ‘Director’).”
+<b>2008</b>—Subsec. (b). Pub. L. 110–315, §707(h)(1)(A), struck out par. (1) designation before “The Secretary shall designate” and struck out par. (2). Prior to amendment, text of par. (2) read as follows: “The Secretary shall appoint the Director of the Fund for the Improvement of Postsecondary Education (hereafter in this part referred to as the ‘Director’).”
 
 Subsec. (c)(1), (2). Pub. L. 110–315, §707(h)(1)(B), struck out “and the Director” after “Secretary”.
 

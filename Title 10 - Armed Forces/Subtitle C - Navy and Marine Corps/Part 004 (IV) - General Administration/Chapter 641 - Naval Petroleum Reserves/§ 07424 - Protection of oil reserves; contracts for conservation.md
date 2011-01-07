@@ -36,11 +36,11 @@ June 4, 1920, ch. 228 (4th par., less 1st proviso, of amended 3d and 4th proviso
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–513 substituted “Naval Petroleum Reserve Numbered 1” for “naval petroleum reserve numbered 1” wherever appearing.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “Naval Petroleum Reserve Numbered 1” for “naval petroleum reserve numbered 1” wherever appearing.
 
-1976—Subsec. (a). Pub. L. 94–258 struck out “of the Navy” after “Secretary”, “and oil shale” after “petroleum” in par. (1), and “in the ground” after “conservation” in subpar. (A) of par. (1).
+<b>1976</b>—Subsec. (a). Pub. L. 94–258 struck out “of the Navy” after “Secretary”, “and oil shale” after “petroleum” in par. (1), and “in the ground” after “conservation” in subpar. (A) of par. (1).
 
-1962—Subsec. (a). Pub. L. 87–796 inserted provisions in cl. (1) empowering the Secretary to contract with owners and lessees of land inside or adjoining oil shale reserves.
+<b>1962</b>—Subsec. (a). Pub. L. 87–796 inserted provisions in cl. (1) empowering the Secretary to contract with owners and lessees of land inside or adjoining oil shale reserves.
 
 #### Effective Date of 1980 Amendment
 

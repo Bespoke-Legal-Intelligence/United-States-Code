@@ -74,3 +74,5 @@ A prior section 2511, Pub. L. 100–297, title V, §5212, Apr. 28, 1988, 102 Sta
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

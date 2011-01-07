@@ -12,7 +12,7 @@ In order to preserve in public ownership for the benefit and inspiration of the 
 
 #### (c) Easements; rights-of-way; permits
 
-All lands acquired pursuant to this subchapter shall be taken by the Secretary subject to all valid existing rights granted by the United States for railroad, telephone, telegraph, and pipeline purposes. The Secretary is authorized to grant rights-of-way, easements, permits, and other benefits in, through and upon all lands acquired for the White Pass Trail unit for pipeline purposes, pursuant to the Acts of February 25, 1920 (41 Stat. 449), August 21, 1935 (49 Stat. 678), and August 12, 1953 (67 Stat. 557), and for railroad purposes pursuant to the Act of May 14, 1898 (30 Stat. 409): <i>Provided</i>, That significant adverse impacts to park resources will not result.
+All lands acquired pursuant to this subchapter shall be taken by the Secretary subject to all valid existing rights granted by the United States for railroad, telephone, telegraph, and pipeline purposes. The Secretary is authorizedto grant rights-of-way, easements, permits, and other benefits in, through and upon all lands acquired for the White Pass Trail unit for pipeline purposes, pursuant to the Acts of February 25, 1920 (41 Stat. 449), August 21, 1935 (49 Stat. 678), and August 12, 1953 (67 Stat. 557), and for railroad purposes pursuant to the Act of May 14, 1898 (30 Stat. 409): <i>Provided</i>, That significant adverse impacts to park resources will not result.
 
 #### (d) Right-of-way for Alaskan highway across Chilkoot Trail
 
@@ -21,8 +21,6 @@ The Secretary is authorized to grant to the State of Alaska a highway right-of-w
 (Pub. L. 94–323, §1, June 30, 1976, 90 Stat. 717; Pub. L. 96–487, title XIII, §1309, Dec. 2, 1980, 94 Stat. 2481; Pub. L. 103–437, §6(h)(1), Nov. 2, 1994, 108 Stat. 4585.)
 
 #### References in Text
-
-For Federal surplus property laws, referred to in subsec. (a), see, generally, subtitle I of Title 40, Public Buildings, Property, and Works.
 
 Subsection 6(i) of the act of July 7, 1958, commonly known as the Alaska Statehood Act, referred to in subsec. (b)(1), probably means subsection (i) of section 6 of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
 
@@ -36,7 +34,7 @@ The act of May 14, 1898, referred to in subsec. (c), is act May 14, 1898, ch. 29
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–437 substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the Congress of the United States”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–437 substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the Congress of the United States”.
 
-1980—Subsec. (b)(1). Pub. L. 96–487 inserted “or exchange and notwithstanding the provisions of subsection 6(i) of the Act of July 7, 1958, (72 Stat. 339, 342), commonly known as the Alaska Statehood Act, the State may include the minerals in any such transaction” after “only by donation”.
+<b>1980</b>—Subsec. (b)(1). Pub. L. 96–487 inserted “or exchange and notwithstanding the provisions of subsection 6(i) of the Act of July 7, 1958, (72 Stat. 339, 342), commonly known as the Alaska Statehood Act, the State may include the minerals in any such transaction” after “only by donation”.
 

@@ -18,11 +18,15 @@ As used in this section, the term “security assistance surveys” means any su
 
 (Pub. L. 90–629, ch. 2, §26, as added Pub. L. 95–384, §19, Sept. 26, 1978, 92 Stat. 740; amended Pub. L. 99–83, title I, §114, Aug. 8, 1985, 99 Stat. 198; Pub. L. 103–437, §9(a)(7), Nov. 2, 1994, 108 Stat. 4588.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations”.
 
-1985—Pub. L. 99–83, §114(a)(1), substituted “Security assistance” for “Defense requirement” in section catchline.
+<b>1985</b>—Pub. L. 99–83, §114(a)(1), substituted “Security assistance” for “Defense requirement” in section catchline.
 
 Subsecs. (a), (b). Pub. L. 99–83, §114(a)(2), substituted “security assistance” for “defense requirement” wherever appearing.
 

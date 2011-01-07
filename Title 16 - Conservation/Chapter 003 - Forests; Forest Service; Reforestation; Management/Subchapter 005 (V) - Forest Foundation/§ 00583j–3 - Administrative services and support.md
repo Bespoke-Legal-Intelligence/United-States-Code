@@ -16,7 +16,7 @@ At any time, the Secretary may provide the Foundation use of Department of Agric
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–106, §3(a)(1), inserted “, project,” after “administrative” and substituted “beginning October 1, 1992” for “following November 16, 1990”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–106, §3(a)(1), inserted “, project,” after “administrative” and substituted “beginning October 1, 1992” for “following November 16, 1990”.
 
 Subsec. (b). Pub. L. 103–106, §3(a)(2), substituted “beginning October 1, 1992” for “from November 16, 1990” and inserted “and project” after “administrative”.
 

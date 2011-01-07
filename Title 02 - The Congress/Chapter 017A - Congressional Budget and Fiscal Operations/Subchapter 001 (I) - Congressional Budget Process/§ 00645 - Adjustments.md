@@ -68,7 +68,7 @@ As used in subsection (b)(2) of this section—
 
 &emsp;(2) the term “new budget authority” shall have the same meaning as the term “additional new budget authority” and the term “outlays” shall have the same meaning as “additional outlays” in that section.
 
-(Pub. L. 93–344, title III, §314, as added Pub. L. 105–33, title X, §10114(a), Aug. 5, 1997, 111 Stat. 688; amended Pub. L. 105–89, title II, §201(b)(2), Nov. 19, 1997, 111 Stat. 2125.)
+(Pub. L. 93–344, title III, §314, as added Pub. L. 105–33, title X, §10114(a), Aug. 5, 1997, 111 Stat.688; amended Pub. L. 105–89, title II, §201(b)(2), Nov. 19, 1997, 111 Stat. 2125.)
 
 #### Amendments
 

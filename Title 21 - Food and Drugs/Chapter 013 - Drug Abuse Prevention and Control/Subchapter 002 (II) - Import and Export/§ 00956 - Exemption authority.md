@@ -18,7 +18,7 @@ Schedules I, III, IV, and V, referred to in text, are set out in section 812(c) 
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–277 and Pub. L. 105–357 amended subsec. (a) identically, designating existing provisions as par. (1), substituting “Subject to paragraph (2), the Attorney General” for “The Attorney General”, and adding par. (2).
+<b>1998</b>—Subsec. (a). Pub. L. 105–277 and Pub. L. 105–357 amended subsec. (a) identically, designating existing provisions as par. (1), substituting “Subject to paragraph (2), the Attorney General” for “The Attorney General”, and adding par. (2).
 
 #### Federal Minimum Requirement
 

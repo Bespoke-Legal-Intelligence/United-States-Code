@@ -230,7 +230,7 @@ Another section 1084(b) of Pub. L. 105–34 amended sections 805, 807, 812, and 
 
 #### Amendments
 
-1998—Subsec. (a)(3). Pub. L. 105–206, §6010(<i>o</i>)(1), substituted “subsection (d)” for “subsection (c)”.
+<b>1998</b>—Subsec. (a)(3). Pub. L. 105–206, §6010(<i>o</i>)(1), substituted “subsection (d)” for “subsection (c)”.
 
 Subsec. (a)(4). Pub. L. 105–206, §6010(<i>o</i>)(2), substituted “subsection (e)” for “subsection (d)”.
 
@@ -242,7 +242,7 @@ Subsec. (f)(5)(A)(iv). Pub. L. 105–206, §6010(<i>o</i>)(4)(A), struck out at 
 
 Subsec. (f)(8)(A). Pub. L. 105–206, §6010(<i>o</i>)(5), substituted “subsection (e)(5)(B)” for “subsection (d)(5)(B)”.
 
-1997—Subsec. (a)(1). Pub. L. 105–34, §1084(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Premiums paid on any life insurance policy covering the life of any officer or employee, or of any person financially interested in any trade or business carried on by the taxpayer, when the taxpayer is directly or indirectly a beneficiary under such policy.”
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–34, §1084(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Premiums paid on any life insurance policy covering the life of any officer or employee, or of any person financially interested in any trade or business carried on by the taxpayer, when the taxpayer is directly or indirectly a beneficiary under such policy.”
 
 Subsec. (a)(4). Pub. L. 105–34, §1602(f)(1), added subpars. (A) and (B) and concluding provisions and struck out former subpars. (A) and (B) and concluding provisions which read as follows:
 
@@ -272,15 +272,15 @@ Subsec. (e). Pub. L. 105–34, §1084(a)(2), redesignated subsec. (d) as (e).
 
 Subsec. (f). Pub. L. 105–34, §1084(c), added subsec. (f).
 
-1996—Subsec. (a)(4). Pub. L. 104–191, §501(a)(1), (b)(1), in introductory provisions, substituted “Except as provided in subsection (d), any” for “Any” and inserted “, or any endowment or annuity contracts owned by the taxpayer covering any individual,” after “the life of any individual”.
+<b>1996</b>—Subsec. (a)(4). Pub. L. 104–191, §501(a)(1), (b)(1), in introductory provisions, substituted “Except as provided in subsection (d), any” for “Any” and inserted “, or any endowment or annuity contracts owned by the taxpayer covering any individual,” after “the life of any individual”.
 
 Pub. L. 104–191, §501(a)(2), struck out “to the extent that the aggregate amount of such indebtedness with respect to policies covering such individual exceeds $50,000” after “carried on by the taxpayer” in concluding provisions.
 
 Subsec. (d). Pub. L. 104–191, §501(b)(2), added subsec. (d).
 
-1986—Subsec. (a). Pub. L. 99–514 added par. (4) and last sentence providing that par. (4) shall apply with respect to contracts purchased after June 20, 1986.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514 added par. (4) and last sentence providing that par. (4) shall apply with respect to contracts purchased after June 20, 1986.
 
-1964—Subsec. (a). Pub. L. 88–272 added par. (3) and sentence providing that par. (3) shall apply only to contracts purchased after August 6, 1963.
+<b>1964</b>—Subsec. (a). Pub. L. 88–272 added par. (3) and sentence providing that par. (3) shall apply only to contracts purchased after August 6, 1963.
 
 Subsec. (c). Pub. L. 88–272 added subsec. (c).
 

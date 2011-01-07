@@ -8,7 +8,7 @@ For purposes of this chapter—
 
 &emsp;(3) The term “coastal waters” means (A) in the Great Lakes area, the waters within the territorial jurisdiction of the United States consisting of the Great Lakes, their connecting waters, harbors, roadsteads, and estuary-type areas such as bays, shallows, and marshes and (B) in other areas, those waters, adjacent to the shorelines, which contain a measurable quantity or percentage of sea water, including, but not limited to, sounds, bays, lagoons, bayous, ponds, and estuaries.
 
-&emsp;(4) The term “coastal state” means a state of the United States in, or bordering on, theAtlantic, Pacific, or Arctic Ocean, the Gulf of Mexico, Long Island Sound, or one or more of the Great Lakes. For the purposes of this chapter, the term also includes Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and the Trust Territories of the Pacific Islands, and American Samoa.
+&emsp;(4) The term “coastal state” means a state of the United States in, or bordering on, the Atlantic, Pacific, or Arctic Ocean, the Gulf of Mexico, Long Island Sound, or one or more of the Great Lakes. For the purposes of this chapter, the term also includes Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and the Trust Territories of the Pacific Islands, and American Samoa.
 
 &emsp;(5) The term “coastal energy activity” means any of the following activities if, and to the extent that (A) the conduct, support, or facilitation of such activity requires and involves the siting, construction, expansion, or operation of any equipment or facility; and (B) any technical requirement exists which, in the determination of the Secretary, necessitates that the siting, construction, expansion, or operation of such equipment or facility be carried out in, or in close proximity to, the coastal zone of any coastal state; <sup>1</sup>
 
@@ -42,11 +42,11 @@ For purposes of this chapter—
 
 &emsp;(12) The term “management program” includes, but is not limited to, a comprehensive statement in words, maps, illustrations, or other media of communication, prepared and adopted by the state in accordance with the provisions of this chapter, setting forth objectives, policies, and standards to guide public and private uses of lands and waters in the coastal zone.
 
-&emsp;(13) The term “outer Continental Shelf energy activity” means any exploration for, or any development or production of, oil or natural gas from the outer Continental Shelf (as defined in section 1331(a) of title 43) or the siting, construction, expansion, or operation of any new or expanded energy facilities directly required by such exploration, development, or production.
+&emsp;(13) The term “outer Continental Shelf energy activity” means any exploration for, orany development or production of, oil or natural gas from the outer Continental Shelf (as defined in section 1331(a) of title 43) or the siting, construction, expansion, or operation of any new or expanded energy facilities directly required by such exploration, development, or production.
 
 &emsp;(14) The term “person” means any individual; any corporation, partnership, association, or other entity organized or existing under the laws of any state; the Federal Government; any state, regional, or local government; or any entity of any such Federal, state, regional, or local government.
 
-&emsp;(15) The term “public facilities and public services” means facilities or services which are financed, in whole or in part, by any state or political subdivision thereof, including, but not limited to, highways and secondary roads,parking, mass transit, docks, navigation aids, fire and police protection, water supply, waste collection and treatment (including drainage), schools and education, and hospitals and health care. Such term may also include any other facility or service so financed which the Secretary finds will support increased population.
+&emsp;(15) The term “public facilities and public services” means facilities or services which are financed, in whole or in part, by any state or political subdivision thereof, including, but not limited to, highways and secondary roads, parking, mass transit, docks, navigation aids, fire and police protection, water supply, waste collection and treatment (including drainage), schools and education, and hospitals and health care. Such term may also include any other facility or service so financed which the Secretary finds will support increased population.
 
 &emsp;(16) The term “Secretary” means the Secretary of Commerce.
 
@@ -70,7 +70,7 @@ Section 1502 of title 33, referred to in par. (5)(iii), was subsequently amended
 
 #### Amendments
 
-1992—Par. (1). Pub. L. 102–587, §2205(b)(3), made technical amendment to directory language of Pub. L. 101–508, §6204(a). See 1990 Amendment note below.
+<b>1992</b>—Par. (1). Pub. L. 102–587, §2205(b)(3), made technical amendment to directory language of Pub. L. 101–508, §6204(a). See 1990 Amendment note below.
 
 Pub. L. 102–587, §2205(b)(5), struck out “the outer limit of” before “the outer limit of State title”, and substituted “(48 U.S.C. 1705),” for “(48 U.S.C. 1705,”.
 
@@ -80,7 +80,7 @@ Par. (6a). Pub. L. 102–587, §2205(b)(4), made technical amendment to director
 
 Par. (9). Pub. L. 102–587, §2205(b)(7), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “The term ‘Fund’ means the Coastal Energy Impact Fund established by section 1456a(h) of this title.”
 
-1990—Par. (1). Pub. L. 101–508, §6204(a)(1), as amended by Pub. L. 102–587, §2205(b)(3), inserted “, and to control those geographical areas which are likely to be affected by or vulnerable to sea level rise” before period at end of third sentence.
+<b>1990</b>—Par. (1). Pub. L. 101–508, §6204(a)(1), as amended by Pub. L. 102–587, §2205(b)(3), inserted “, and to control those geographical areas which are likely to be affected by or vulnerable to sea level rise” before period at end of third sentence.
 
 Pub. L. 101–508, §6204(a)(2), as amended by Pub. L. 102–587, §2205(b)(3), substituted “the outer limit of State title and ownership under the Submerged Lands Act (43 U.S.C. 1301 et seq.), the Act of March 2, 1917 (48 U.S.C. 749), the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, as approved by the Act of March 24, 1976 (48 U.S.C. 1681 note), or section 1 of the Act of November 20, 1963 (48 U.S.C. 1705, as applicable.” for “the United States territorial sea.” at end of second sentence.
 
@@ -88,13 +88,13 @@ Par. (6a). Pub. L. 101–508, §6204(b), as amended by Pub. L. 102–587, §2205
 
 Par. (18). Pub. L. 101–508, §6204(c), substituted “a use, activity, or project conducted in or on waters within the coastal zone” for “activities which are conducted in or on the water; but does not mean or include the establishment of any water quality standard or criteria or the regulation of the discharge or runoff of water pollutants except the standards, criteria, or regulations which are incorporated in any program as required by the provisions of section 1456(f) of this title”.
 
-1980—Pars. (2) to (4). Pub. L. 96–464, §4(1)–(3), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), and in par. (4), as so redesignated, substituted “Guam, the Commonwealth of the Northern Mariana Islands, and the Trust Territories of the Pacific Islands, and American Samoa” for “Guam and American Samoa”. Former par. (4) redesignated (5).
+<b>1980</b>—Pars. (2) to (4). Pub. L. 96–464, §4(1)–(3), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), and in par. (4), as so redesignated, substituted “Guam, the Commonwealth of the Northern Mariana Islands, and the Trust Territories of the Pacific Islands, and American Samoa” for “Guam and American Samoa”. Former par. (4) redesignated (5).
 
 Pars. (5) to (16). Pub. L. 96–464, §4(1), redesignated pars. (4) to (15) as (5) to (16). Former par. (16) redesignated (17).
 
 Pars. (17), (18). Pub. L. 96–464, §4(1), (4), (5), added par. (17) and redesignated former par. (17) as (18).
 
-1976—Par. (1). Pub. L. 94–370, §3(1), redesignated par. (a) as (1), substituted “The term ‘coastal’ ” for “ ‘Coastal’ ”, and inserted “islands,” after “and includes”.
+<b>1976</b>—Par. (1). Pub. L. 94–370, §3(1), redesignated par. (a) as (1), substituted “The term ‘coastal’ ” for “ ‘Coastal’ ”, and inserted “islands,” after “and includes”.
 
 Par. (2). Pub. L. 94–370, §3(2), redesignated par. (b) as (2), substituted “The term ‘coastal’ ” for “ ‘Coastal’ ”, “(A)” for “(1)”, and “(B)” for “(2)”.
 

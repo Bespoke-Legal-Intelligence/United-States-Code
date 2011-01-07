@@ -24,7 +24,7 @@ Contingency Planning; Preparedness.—(A) Providing for the preparation and revi
 
 &emsp;(C) Advising the Secretary on critical deficiencies and strengths in force capabilities (including manpower, logistic, and mobility support) identified during the preparation and review of contingency plans and assessing the effect of such deficiencies and strengths on meeting national security objectives and policy and on strategic plans.
 
-&emsp;(D) Establishing and maintaining, after consultation with the commanders of the unified and specified combatant commands, a uniform system of evaluating the preparedness of each such command to carry out missions assigned to the command.
+&emsp;(D) Establishing and maintaining, after consultation with the commanders of the unified and specified combatant commands, a uniformsystem of evaluating the preparedness of each such command to carry out missions assigned to the command.
 
 &emsp;(4)
 
@@ -94,7 +94,7 @@ Biennial Review of National Military Strategy.—(1) Not later then February 15 
 
 &emsp;(D) A description of the international threats posed by terrorism, weapons of mass destruction, and asymmetric challenges to United States national security.
 
-&emsp;(E) Identification of United States national military objectives and the relationship of those objectives to the strategic environment, regional, and international threats.
+&emsp;(E) Identification of United States national military objectives and the relationship ofthose objectives to the strategic environment, regional, and international threats.
 
 &emsp;(F) Identification of the strategy, underlying concepts, and component elements that contribute to the achievement of United States national military objectives.
 
@@ -112,15 +112,15 @@ Biennial Review of National Military Strategy.—(1) Not later then February 15 
 
 #### Amendments
 
-2003—Subsec. (b)(1). Pub. L. 108–136, §903(b), substituted “of each odd-numbered year” for “each year”.
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §903(b), substituted “of each odd-numbered year” for “each year”.
 
 Subsec. (c). Pub. L. 108–136, §1043(b)(2), in par. (1), substituted “congressional defense committees” for “committees of Congress named in paragraph (2)”, designated the second sentence of par. (1) as par. (2), in par. (2), substituted “Each report under paragraph (1)” for “The report”, and struck out former par. (2) which read as follows: “The committees of Congress referred to in paragraph (1) are the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives.”
 
 Subsec. (d). Pub. L. 108–136, §903(a), added subsec. (d).
 
-2002—Pub. L. 107–314 inserted subsec. (a) heading and redesignated subsecs. (c) and (d) as (b) and (c), respectively.
+<b>2002</b>—Pub. L. 107–314 inserted subsec. (a) heading and redesignated subsecs. (c) and (d) as (b) and (c), respectively.
 
-2001—Subsec. (a). Pub. L. 107–107, §921(b)(1), struck out “(a)
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §921(b)(1), struck out “(a)
 
 Planning; Advice; Policy Formulation.—” before “Subject to the authority”.
 
@@ -138,11 +138,11 @@ Report on Assignment of Roles and Missions.—(1) Not less than once every three
 
 “(2) The Chairman shall include in each such report recommendations for such changes in policies, directives, regulations, and legislation as may be necessary to achieve the changes in the assignment of functions recommended by the Chairman.”
 
-2000—Subsec. (d)(1). Pub. L. 106–398, §1 \[\[div. A\], title IX, §905(b)\], substituted “At or about the time that the budget is submitted to Congress for a fiscal year under section 1105(a) of title 31,” for “Not later than August 15 of each year,” in introductory provisions.
+<b>2000</b>—Subsec. (d)(1). Pub. L. 106–398, §1 \[\[div. A\], title IX, §905(b)\], substituted “At or about the time that the budget is submitted to Congress for a fiscal year under section 1105(a) of title 31,” for “Not later than August 15 of each year,” in introductory provisions.
 
 Subsec. (d)(1)(C), (D). Pub. L. 106–398, §1 \[\[div. A\], title IX, §905(a)\], added subpars. (C) and (D).
 
-1999—Subsecs. (c), (d). Pub. L. 106–65 added subsecs. (c) and (d).
+<b>1999</b>—Subsecs. (c), (d). Pub. L. 106–65 added subsecs. (c) and (d).
 
 #### Common Measurement of Operations Tempo and Personnel Tempo
 

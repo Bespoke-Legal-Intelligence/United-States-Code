@@ -36,7 +36,7 @@ The word “Administrator” in section 902(g) of the Federal Aviation Act of 19
 
 #### Amendments
 
-2001—Pub. L. 107–71 inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
+<b>2001</b>—Pub. L. 107–71 inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
 
 #### Transfer of Functions
 

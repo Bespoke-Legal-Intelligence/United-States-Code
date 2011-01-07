@@ -54,7 +54,7 @@ Credits to Funds.—(1) There shall be credited to the Department of Defense Fam
 
 Use of Amounts in Funds.—(1) In such amounts as provided in appropriation Acts and except as provided in subsection (e), the Secretary of Defense may use amounts in the Department of Defense Family Housing Improvement Fund to carry out activities under this subchapter with respect to military family housing, including activities required in connection with the planning, execution, and administration of contracts entered into under the authority of this subchapter. The Secretary may also use for expenses of activities required in connection with the planning, execution, and administration of such contracts funds that are otherwise available to the Department of Defense for such types of expenses.
 
-(2) In such amounts as provided in appropriation Acts and except as provided in subsection (e), the Secretary of Defense may use amounts in the Department of Defense Military Unaccompanied Housing Improvement Fund to carry out activities under this subchapter with respect to military unaccompanied housing, including activities required in connection with the planning, execution, and administration of contracts entered into under the authority of this subchapter. The Secretary may also use for expenses of activities required in connection with the planning, execution, and administration of such contracts funds that are otherwise available to the Department of Defense for such types of expenses.
+(2) In such amounts as provided in appropriation Acts and except as provided in subsection (e), the Secretary of Defense may use amounts in the Department of Defense Military Unaccompanied Housing Improvement Fund to carryout activities under this subchapter with respect to military unaccompanied housing, including activities required in connection with the planning, execution, and administration of contracts entered into under the authority of this subchapter. The Secretary may also use for expenses of activities required in connection with the planning, execution, and administration of such contracts funds that are otherwise available to the Department of Defense for such types of expenses.
 
 (3) Amounts made available under this subsection shall remain available until expended. The Secretary of Defense may transfer amounts made available under this subsection to the Secretaries of the military departments to permit such Secretaries to carry out the activities for which such amounts may be used.
 
@@ -72,31 +72,31 @@ Notification Required for Transfers.—A transfer of appropriated amounts to a F
 
 #### Amendments
 
-2008—Subsec. (c)(1)(G). Pub. L. 110–181, §2705(a)(1), added subpar. (G).
+<b>2008</b>—Subsec. (c)(1)(G). Pub. L. 110–181, §2705(a)(1), added subpar. (G).
 
 Subsec. (c)(2)(G). Pub. L. 110–181, §2705(a)(2), added subpar. (G).
 
 Subsec. (f). Pub. L. 110–181, §2705(b), substituted “subparagraph (B) or (G) of paragraph (1) or subparagraph (B) or (G) of paragraph (2)” for “paragraph (1)(B) or (2)(B)” and inserted at end “In addition, the notice required in connection with a transfer under subparagraph (G) of paragraph (1) or subparagraph (G) of paragraph (2) shall include a certification that the amounts to be transferred from the Department of Defense Base Closure Account 2005 were specified in the conference report to accompany the most recent Military Construction Authorization Act.”
 
-2006—Subsec. (c)(1)(B). Pub. L. 109–163, §2806(b), substituted “acquisition, improvement, or construction” for “acquisition or construction”.
+<b>2006</b>—Subsec. (c)(1)(B). Pub. L. 109–163, §2806(b), substituted “acquisition, improvement, or construction” for “acquisition or construction”.
 
 Subsec. (e). Pub. L. 109–163, §2806(a), designated existing provisions as par. (1) and added par. (2).
 
-2004—Subsec. (g). Pub. L. 108–375 struck out heading and text of subsec. (g). Text read as follows: “The total value in budget authority of all contracts and investments undertaken using the authorities provided in this subchapter shall not exceed—
+<b>2004</b>—Subsec. (g). Pub. L. 108–375 struck out heading and text of subsec. (g). Text read as follows: “The total value in budget authority of all contracts and investments undertaken using the authorities provided in this subchapter shall not exceed—
 
 &emsp;“(1) $850,000,000 for the acquisition or construction of military family housing; and
 
 &emsp;“(2) $150,000,000 for the acquisition or construction of military unaccompanied housing.”
 
-2003—Subsec. (c)(1)(F). Pub. L. 108–136, §2805(c)(1), added subpar. (F).
+<b>2003</b>—Subsec. (c)(1)(F). Pub. L. 108–136, §2805(c)(1), added subpar. (F).
 
 Subsec. (c)(2)(F). Pub. L. 108–136, §2805(c)(2), added subpar. (F).
 
 Subsec. (f). Pub. L. 108–136, §1031(a)(51), inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to section 480 of this title”.
 
-1999—Subsec. (c)(1)(E). Pub. L. 106–65, §2802(b)(1), added subpar. (E).
+<b>1999</b>—Subsec. (c)(1)(E). Pub. L. 106–65, §2802(b)(1), added subpar. (E).
 
 Subsec. (c)(2)(E). Pub. L. 106–65, §2802(b)(2), added subpar. (E).
 
-1996—Subsec. (d)(1), (2). Pub. L. 104–201 inserted at end “The Secretary may also use for expenses of activities required in connection with the planning, execution, and administration of such contracts funds that are otherwise available to the Department of Defense for such types of expenses.”
+<b>1996</b>—Subsec. (d)(1), (2). Pub. L. 104–201 inserted at end “The Secretary may also use for expenses of activities required in connection with the planning, execution, and administration of such contracts funds that are otherwise available to the Department of Defense for such types of expenses.”
 

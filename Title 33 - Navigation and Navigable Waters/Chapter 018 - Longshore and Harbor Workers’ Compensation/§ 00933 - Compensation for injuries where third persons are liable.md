@@ -42,7 +42,7 @@ If the person entitled to compensation institutes proceedings within the period 
 
 (2) If no written approval of the settlement is obtained and filed as required by paragraph (1), or if the employee fails to notify the employer of any settlement obtained from or judgment rendered against a third person, all rights to compensation and medical benefits under this chapter shall be terminated, regardless of whether the employer or the employer's insurer has made payments or acknowledged entitlement to benefits under this chapter.
 
-(3) Any payments by the special fund established under section 944 of this title shall be a lien upon the proceeds of any settlement obtained from or judgment rendered against a third person referred to under subsection (a) of this section. Notwithstanding any other provision of law, such lien shall be enforceable against such proceeds, regardless of whether the Secretary on behalf of the special fund has agreed to or has received actual notice of the settlement or judgment.
+(3) Any payments by the special fund established under section 944 of this title shall be a lien upon the proceeds of any settlement obtained from or judgment rendered against a third person referred to under subsection (a) of this section. Notwithstanding any other provision of law, such lien shall be enforceableagainst such proceeds, regardless of whether the Secretary on behalf of the special fund has agreed to or has received actual notice of the settlement or judgment.
 
 (4) Any payments by a trust fund described in section 917 of this title shall be a lien upon the proceeds of any settlement obtained from or judgment recorded against a third person referred to under subsection (a) of this section. Such lien shall have priority over a lien under paragraph (3) of this subsection.
 
@@ -58,7 +58,7 @@ The right to compensation or benefits under this chapter shall be the exclusive 
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–426, §21(a), substituted “Acceptance of compensation under an award in a compensation order filed by the deputy commissioner, an administrative law judge, or the Board shall operate as an assignment to the employer of all rights of the person entitled to compensation to recover damages against such third person unless such person shall commence an action against such third person within six months after such acceptance” for “Acceptance of such compensation under an award in a compensation order filed by the deputy commissioner or Board shall operate as an assignment to the employer of all right of the person entitled to compensation to recover damages against such third person unless such person shall commence an action against such third person within six months after such award” and inserted at end “If the employer fails to commence an action against such third person within ninety days after the cause of action is assigned under this section, the right to bring such action shall revert to the person entitled to compensation. For the purpose of this subsection, the term ‘award’ with respect to a compensation order means a formal order issued by the deputy commissioner, an administrative law judge, or Board.”
+<b>1984</b>—Subsec. (b). Pub. L. 98–426, §21(a), substituted “Acceptance of compensation under an award in a compensation order filed by the deputy commissioner, an administrative law judge, or the Board shall operate as an assignment to the employer of all rights of the person entitled to compensation to recover damages against such third person unless such person shall commence an action against such third person within six months after such acceptance” for “Acceptance of such compensation under an award in a compensation order filed by the deputy commissioner or Board shall operate as an assignment to the employer of all right of the person entitled to compensation to recover damages against such third person unless such person shall commence an action against such third person within six months after such award” and inserted at end “If the employer fails to commence an action against such third person within ninety days after the cause of action is assigned under this section, the right to bring such action shall revert to the person entitled to compensation. For the purpose of this subsection, the term ‘award’ with respect to a compensation order means a formal order issued by the deputy commissioner, an administrative law judge, or Board.”
 
 Subsec. (e)(2). Pub. L. 98–426, §21(b), struck out “, less one-fifth of such excess which shall belong to the employer” after “or to the representative”.
 
@@ -68,11 +68,11 @@ Pub. L. 98–426, §21(c)(2), inserted at end “Such net amount shall be equal 
 
 Subsec. (g). Pub. L. 98–426, §21(d), designated existing provisions as par. (1), substituted “If the person entitled to compensation (or the person's representative) enters into a settlement with a third person referred to in subsection (a) of this section for an amount less than the compensation to which the person (or the person's representative) would be entitled under this chapter, the employer shall be liable for compensation as determined under subsection (f) of this section only if written approval of the settlement is obtained from the employer and the employer's carrier, before the settlement is executed, and by the person entitled to compensation (or the person's representative)” for “If compromise with such third person is made by the person entitled to compensation or such representative of an amount less than the compensation to which such person or representative would be entitled to under this chapter the employer shall be liable for compensation as determined in subsection (f) of this section only if the written approval of such compromise is obtained from the employer and its insurance carrier by the person entitled to compensation or such representative at the time of or prior to such compromise on a form provided by the Secretary and filed in the office of the deputy commissioner having jurisdiction of such injury or death within thirty days after such compromise is made”, inserted at end “The approval shall be made on a form provided by the Secretary and shall be filed in the office of the deputy commissioner within thirty days after the settlement is entered into.”, and added pars. (2) to (4).
 
-1972—Subsecs. (b), (e)(1)(A). Pub. L. 92–576, §15(f), (g), inserted “or Board” after “deputy commissioner”.
+<b>1972</b>—Subsecs. (b), (e)(1)(A). Pub. L. 92–576, §15(f), (g), inserted “or Board” after “deputy commissioner”.
 
 Subsec. (g). Pub. L. 92–576, §15(h), substituted “if the written approval of such compromise is obtained from the employer and its insurance carrier by the person entitled to compensation or such representative at the time of or prior to such compromise on a form provided by the Secretary and filed in the office of the deputy commissioner having jurisdiction of such injury or death within thirty days after such compromise is made” for “if such compromise is made with his written approval”.
 
-1959—Subsec. (a). Pub. L. 86–171 inserted “or a person or persons in his employ” after “employer” and substituted “he need not elect whether” for “he may elect, by giving notice to the deputy commissioner in such manner as the Secretary may provide,”.
+<b>1959</b>—Subsec. (a). Pub. L. 86–171 inserted “or a person or persons in his employ” after “employer” and substituted “he need not elect whether” for “he may elect, by giving notice to the deputy commissioner in such manner as the Secretary may provide,”.
 
 Subsec. (b). Pub. L. 86–171 inserted “unless such person shall commence an action against such third person within six months after such award”.
 
@@ -88,7 +88,7 @@ Subsec. (g). Pub. L. 86–171 corrected reference to “subsection (e)” to rea
 
 Subsecs. (h), (i). Pub. L. 86–171 redesignated subsec. (i) as (h) and struck out former subsec. (h) that permitted the deputy commissioner to make an election for a minor or to authorize the parent or guardian to make the election.
 
-1938—Subsec. (b). Act June 25, 1938, §12, inserted “under an award in a compensation order filed by the deputy commissioner” and struck out “, whether or not the person entitled to compensation has notified the deputy commissioner of his election” at end of sentence.
+<b>1938</b>—Subsec. (b). Act June 25, 1938, §12, inserted “under an award in a compensation order filed by the deputy commissioner” and struck out “, whether or not the person entitled to compensation has notified the deputy commissioner of his election” at end of sentence.
 
 Subsec. (e). Act June 25, 1938, §12, redesignated par. (1)(C) as par. (1)(C) and (D) and included in said par. (1)(D) the present value of the cost of benefits furnished.
 
@@ -96,7 +96,7 @@ Subsec. (i). Act June 25, 1938, §13, added subsec. (i).
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed after such date and to claims pending on such date, see section 28(a) of Pub. L. 98–426, set out as a note under section 901 of this title.
+Amendment by Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed aftersuch date and to claims pending on such date, see section 28(a) of Pub. L. 98–426, set out as a note under section 901 of this title.
 
 #### Effective Date of 1972 Amendment
 

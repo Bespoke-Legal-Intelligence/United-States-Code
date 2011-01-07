@@ -12,9 +12,9 @@ Provisions similar to those comprising this section were contained in prior sect
 
 #### Amendments
 
-1979—Pub. L. 96–39 substituted “section 5171(c)” for “section 5171(a)”.
+<b>1979</b>—Pub. L. 96–39 substituted “section 5171(c)” for “section 5171(a)”.
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 1979 Amendment
 

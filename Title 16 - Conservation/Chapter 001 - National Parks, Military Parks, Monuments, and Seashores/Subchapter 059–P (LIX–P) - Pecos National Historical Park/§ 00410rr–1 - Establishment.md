@@ -10,7 +10,7 @@ The park shall include the existing Pecos National Monument and the area known a
 
 #### (c) Availability of monument funds for park purposes
 
-The Act entitled “An Act to authorize the establishment of Pecos National Monument in the State of New Mexico, and for other purposes” approved June 28, 1965 (79 Stat. 195), is hereby repealed, and any funds available for purposes of the Pecos National Monument shall be available for purposes of the park.
+The Act entitled “An Act to authorize the establishment of Pecos National Monument in theState of New Mexico, and for other purposes” approved June 28, 1965 (79 Stat. 195), is hereby repealed, and any funds available for purposes of the Pecos National Monument shall be available for purposes of the park.
 
 (Pub. L. 101–313, title II, §202, June 27, 1990, 104 Stat. 278.)
 

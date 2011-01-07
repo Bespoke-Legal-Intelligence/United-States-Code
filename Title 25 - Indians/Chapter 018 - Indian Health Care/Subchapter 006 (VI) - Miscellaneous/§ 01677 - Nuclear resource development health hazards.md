@@ -26,7 +26,7 @@ Upon completion of such study the Secretary and the Service shall take into acco
 
 #### (c) Reports to Congress
 
-The Secretary and the Service shall submit to Congress the study prepared under subsection (a) of this section no later than the date eighteen months after December 17, 1980. The health care plan prepared under subsection (b) of this section shall be submitted in a report no later than the date one year after the date that the study prepared under subsection (a) of this section is submitted to Congress. Such report shall include recommended activities for the implementation of the plan, as well as an evaluation of any activities previously undertaken by the Service to address such health problems.
+The Secretary and the Service shall submit to Congress the study prepared under subsection\(a) of this section no later than the date eighteen months after December 17, 1980. The health care plan prepared under subsection (b) of this section shall be submitted in a report no later than the date one year after the date that the study prepared under subsection (a) of this section is submitted to Congress. Such report shall include recommended activities for the implementation of the plan, as well as an evaluation of any activities previously undertaken by the Service to address such health problems.
 
 #### (d) Intergovernmental Task Force; establishment and functions
 
@@ -52,7 +52,7 @@ In the case of any Indian who—
 
 #### Amendments
 
-1992—Subsec. (f). Pub. L. 102–573, §813(b), struck out subsec. (f) which authorized appropriation of $300,000 to carry out the study as provided in subsec. (a), such amount to be expended by the date eighteen months after Dec. 17, 1980.
+<b>1992</b>—Subsec. (f). Pub. L. 102–573, §813(b), struck out subsec. (f) which authorized appropriation of $300,000 to carry out the study as provided in subsec. (a), such amount to be expended by the date eighteen months after Dec. 17, 1980.
 
 #### Change of Name
 

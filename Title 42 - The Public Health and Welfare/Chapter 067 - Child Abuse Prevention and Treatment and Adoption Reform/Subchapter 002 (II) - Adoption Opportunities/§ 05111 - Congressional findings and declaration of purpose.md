@@ -4,41 +4,75 @@
 
 Congress finds that—
 
-&emsp;(1) the number of children in substitute care has increased by nearly 24 percent since 1994, as our Nation's foster care population included more than 565,000 as of September of 2001;
+&emsp;(1) on the last day of fiscal year 2009, some 424,000 children were living in temporary foster family homes or other foster care settings;
 
-&emsp;(2) children entering foster care have complex problems that require intensive services, with many such children having special needs because they are born to mothers who did not receive prenatal care, are born with life threatening conditions or disabilities, are born addicted to alcohol or other drugs, or have been exposed to infection with the etiologic agent for the human immunodeficiency virus;
+&emsp;(2) most children in foster care are victims of child abuse or neglect by their biological parents and their entry into foster care brought them the additional trauma of separation from their homes and often their communities;
 
-&emsp;(3) each year, thousands of children are in need of placement in permanent, adoptive homes;
+&emsp;(3) on average, children entering foster care have more physical and mental health needs than do children in the general population, and some require intensive services because the children entering foster care—
 
-&emsp;(4) many thousands of children remain in institutions or foster homes solely because of legal and other barriers to their placement in permanent, adoptive homes;
+&emsp;&emsp;(A) were born to mothers who did not receive prenatal care;
 
-&emsp;(5)(A) currently, there are 131,000 children waiting for adoption;
+&emsp;&emsp;(B) were born with life-threatening conditions or disabilities;
 
-&emsp;(B) such children are typically school aged, in sibling groups, have experienced neglect or abuse, or have a physical, mental, or emotional disability; and
+&emsp;&emsp;(C) were born addicted to alcohol or other drugs; or
 
-&emsp;(C) while the children are of all races, children of color and older children (over the age of 10) are over represented in such group;
+&emsp;&emsp;(D) have HIV/AIDS;
 
-&emsp;(6) adoption may be the best alternative for assuring the healthy development of such children;
+&emsp;(4) each year, thousands of children in foster care, regardless of their age, the size of the sibling group they are a part of, their racial or ethnic status, their medical condition, or any physical, mental or emotional disability they may have, are in need of placement with permanent, loving, adoptive families;
 
-&emsp;(7) there are qualified persons seeking to adopt such children who are unable to do so because of barriers to their placement; and
+&emsp;(5)(A) States have made important strides in increasing the number of children who are placed in permanent homes with adoptive parents and in reducing the length of time children wait for such a placement; and
 
-&emsp;(8) in order both to enhance the stability and love of the child's home environment and to avoid wasteful expenditures of public funds, such children should not have medically indicated treatment withheld from them nor be maintained in foster care or institutions when adoption is appropriate and families can be found for such children.
+&emsp;(B) many thousands of children, however, still remain in institutions or foster homes solely because of legal and other barriers to such a placement;
+
+&emsp;(6)(A) on the last day of fiscal year 2009, there were 115,000 children waiting for adoption;
+
+&emsp;(B) children waiting for adoption have had parental rights of all living parents terminated or the children have a permanency goal of adoption;
+
+&emsp;(C)(i) the average age of children adopted with public child welfare agency involvement during fiscal year 2009 was a little more than 6 years; and
+
+&emsp;(ii) the average age of children waiting for adoption on the last day of that fiscal year was a little more than 8 years of age and more than 30,000 of those children were 12 years of age or older; and
+
+&emsp;(D)(i) 25 percent of the children adopted with public child welfare agency involvement during fiscal year 2009 were African-American; and
+
+&emsp;(ii) 30 percent of the children waiting for adoption on the last day of fiscal year 2009 were African-American;
+
+&emsp;(7) adoption may be the best alternative for assuring the healthy development of children placed in foster care;
+
+&emsp;(8) there are qualified persons seeking to adopt such children who are unable to do so because of barriers to their placement and adoption; and
+
+&emsp;(9) in order both to enhance the stability of and love in the home environments of such children and to avoid wasteful expenditures of public funds, such children—
+
+&emsp;&emsp;(A) should not have medically indicated treatment withheld from them; or
+
+&emsp;&emsp;(B) be maintained in foster care or institutions when adoption is appropriate and families can be found for such children.
 
 #### (b) Purpose
 
-It is the purpose of this subchapter to facilitate the elimination of barriers, including geographic barriers, to adoption and to provide permanent and loving home environments for children who would benefit from adoption, particularly children with special needs, including disabled infants with life-threatening conditions, by providing a mechanism to—
+It is the purpose of this subchapter to facilitate the elimination of barriers, including geographic barriers, to adoption and to provide permanent and loving home environments for children who would benefit from adoption, particularly older children, minority children, and children with special needs, including disabled infants with life-threatening conditions, by providing a mechanism to—
 
 &emsp;(1) promote quality standards for adoption services, pre-placement, post-placement, and post-legal adoption counseling, and standards to protect the rights of children in need of adoption;
 
-&emsp;(2) maintain an Internet-based national adoption information exchange system to bring together children who would benefit from adoption and qualified prospective adoptive parents who are seeking such children, and conduct national recruitment efforts in order to reach prospective parents for children awaiting adoption; and
+&emsp;(2) maintain an Internet-based national adoption information exchange system to—
+
+&emsp;&emsp;(A) bring together children who would benefit from adoption and qualified prospective adoptive parents who are seeking such children;
+
+&emsp;&emsp;(B) conduct national recruitment efforts in order to reach prospective parents for children awaiting adoption; and
+
+&emsp;&emsp;(C) connect placement agencies, prospective adoptive parents, and adoptive parents to resources designed to reduce barriers to adoption, support adoptive families, and ensure permanency; and
 
 &emsp;(3) demonstrate expeditious ways to free children for adoption for whom it has been determined that adoption is the appropriate plan.
 
-(Pub. L. 95–266, title II, §201, Apr. 24, 1978, 92 Stat. 208; Pub. L. 98–457, title II, §201, Oct. 9, 1984, 98 Stat. 1755; Pub. L. 102–295, title IV, §401, May 28, 1992, 106 Stat. 211; Pub. L. 104–235, title II, §211, Oct. 3, 1996, 110 Stat. 3090; Pub. L. 108–36, title II, §201, June 25, 2003, 117 Stat. 818.)
+(Pub. L. 95–266, title II, §201, Apr. 24, 1978, 92 Stat. 208; Pub. L. 98–457, title II, §201, Oct. 9, 1984, 98 Stat. 1755; Pub. L. 102–295, title IV, §401, May 28, 1992, 106 Stat. 211; Pub. L. 104–235, title II, §211, Oct. 3, 1996, 110 Stat. 3090; Pub. L. 108–36, title II, §201, June 25, 2003, 117 Stat. 818; Pub. L. 111–320, title III, §301(a), Dec. 20, 2010, 124 Stat. 3510.)
 
 #### Amendments
 
-2003—Subsec. (a)(1) to (3). Pub. L. 108–36, §201(1)(A), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
+<b>2010</b>—Subsec. (a). Pub. L. 111–320, §301(a)(1), added subsec. (a) and struck out former subsec. (a) which related to findings on children in institutions or foster homes.
+
+Subsec. (b). Pub. L. 111–320, §301(a)(2)(A), inserted “older children, minority children, and” after “particularly” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 111–320, §301(a)(2)(B), added par. (2) and struck out former par. (2) which read as follows: “maintain an Internet-based national adoption information exchange system to bring together children who would benefit from adoption and qualified prospective adoptive parents who are seeking such children, and conduct national recruitment efforts in order to reach prospective parents for children awaiting adoption; and”.
+
+<b>2003</b>—Subsec. (a)(1) to (3). Pub. L. 108–36, §201(1)(A), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
 
 “(1) the number of children in substitute care increased by nearly 61 percent between 1986 and 1994, as our Nation's foster care population included more than 452,000 as of June 1994;
 
@@ -62,7 +96,7 @@ Subsec. (b). Pub. L. 108–36, §201(2)(A), inserted “, including geographic 
 
 Subsec. (b)(2). Pub. L. 108–36, §201(2)(B), substituted “an Internet-based national” for “a national”.
 
-1996—Subsec. (a)(1). Pub. L. 104–235, §211(1)(A), substituted “61 percent between 1986 and 1994” for “50 percent between 1985 and 1990” and “452,000 as of June 1994” for “400,000 children at the end of June, 1990”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–235, §211(1)(A), substituted “61 percent between 1986 and 1994” for “50 percent between 1985 and 1990” and “452,000 as of June 1994” for “400,000 children at the end of June, 1990”.
 
 Subsec. (a)(5). Pub. L. 104–235, §211(1)(B), substituted “legal” for “local”.
 
@@ -76,9 +110,9 @@ Subsec. (b). Pub. L. 104–235, §211(2), substituted “conditions, by providin
 
 > redesignated subpars. (A) to (C) of former par. (2) as pars. (1) to (3), respectively, and realigned margins.
 
-1992—Pub. L. 102–295 amended section generally, designating existing provisions as subsecs. (a) and (b), inserting findings relating to the number of children in substitute care, foster care children with complex problems which require intensive services, infants born without prenatal care, addicted to alcohol or other drugs, or exposed to infection with the etiologic agent for human immunodeficiency virus, and percentage of children awaiting adoption who are minorities, inserting as purposes of this subchapter to provide a mechanism to recruit prospective parents for children awaiting adoption and to demonstrate expeditious ways to free children for adoption, and striking out as a purpose to provide a mechanism to coordinate with Federal departments and agencies to provide national adoption and foster care information data-gathering and analysis system.
+<b>1992</b>—Pub. L. 102–295 amended section generally, designating existing provisions as subsecs. (a) and (b), inserting findings relating to the number of children in substitute care, foster care children with complex problems which require intensive services, infants born without prenatal care, addicted to alcohol or other drugs, or exposed to infection with the etiologic agent for human immunodeficiency virus, and percentage of children awaiting adoption who are minorities, inserting as purposes of this subchapter to provide a mechanism to recruit prospective parents for children awaiting adoption and to demonstrate expeditious ways to free children for adoption, and striking out as a purpose to provide a mechanism to coordinate with Federal departments and agencies to provide national adoption and foster care information data-gathering and analysis system.
 
-1984—Pub. L. 98–457, §201(a), (b)(1), in provisions before par. (1), inserted “the welfare of thousands of children in institutions and foster homes and disabled infants with life-threatening conditions may be in serious jeopardy and that some such children are in need of placement in permanent, adoptive homes, that” and substituted “should not have medically indicated treatment withheld from them, nor be maintained in foster care” for “should not be maintained in foster care” and “children with special needs, including disabled infants with life-threatening conditions, by” for “children with special needs by”.
+<b>1984</b>—Pub. L. 98–457, §201(a), (b)(1), in provisions before par. (1), inserted “the welfare of thousands of children in institutions and foster homes and disabled infants with life-threatening conditions may be in serious jeopardy and that some such children are in need of placement in permanent, adoptive homes, that” and substituted “should not have medically indicated treatment withheld from them, nor be maintained in foster care” for “should not be maintained in foster care” and “children with special needs, including disabled infants with life-threatening conditions, by” for “children with special needs by”.
 
 Par. (2). Pub. L. 98–457, §201(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “providing a mechanism for the Department of Health and Human Services to (A) promote quality standards for adoption services (including pre-placement, post-placement, and post-adoption counseling and standards to protect the rights of children in need of adoption), and (B) provide for a national adoption and foster care information data gathering and analysis system and a national adoption information exchange system to bring together children who would benefit by adoption and qualified prospective adoptive parents who are seeking such children.”
 

@@ -20,7 +20,7 @@ In each State, an authorized criminal justice agency of the State shall report c
 
 &emsp;(B) continue to maintain a reporting rate of at least 80 percent for final dispositions in all identifiable child abuse crime cases in which there has been an event of activity within the preceding 5 years; and
 
-&emsp;(C) take steps to achieve 100 percent disposition reporting, including data quality auditsand periodic notices to criminal justice agencies identifying records that lack final dispositions and requesting those dispositions.
+&emsp;(C) take steps to achieve 100 percent disposition reporting, including data quality audits and periodic notices to criminal justice agencies identifying records that lack final dispositions and requesting those dispositions.
 
 #### (c) Liaison
 
@@ -56,7 +56,7 @@ This subchapter, referred to in subsec. (b)(1)(B), was in the original “this A
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–322, §320928(b), inserted at end “A criminal justice agency may satisfy the requirement of this subsection by reporting or indexing all felony and serious misdemeanor arrests and dispositions.”
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §320928(b), inserted at end “A criminal justice agency may satisfy the requirement of this subsection by reporting or indexing all felony and serious misdemeanor arrests and dispositions.”
 
 Subsec. (b)(2)(A). Pub. L. 103–322, §320928(i), substituted “5 years after” for “3 years after”.
 
@@ -72,7 +72,7 @@ Section 320928(g) of Pub. L. 103–322 provided that:
 
 “(1)
 
-In general.—The Attorney General, in consultation with Federal, State, and local officials, including officials responsible for criminal history record systems, and representatives of public and private care organizations and health, legal, and social welfare organizations, shall develop guidelines for the adoption of appropriate safeguards by care providers and by States for protecting children, the elderly, or individuals with disabilities from abuse.
+In general.—The Attorney General, in consultation with Federal, State, and local officials, including officials responsible for criminal history record systems, and representatives of public and private care organizations and health, legal, and social welfare organizations, shall develop guidelines for the adoption of appropriate safeguards by care providers and by Statesfor protecting children, the elderly, or individuals with disabilities from abuse.
 
 “(2)
 

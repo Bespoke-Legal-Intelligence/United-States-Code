@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There are authorized to be appropriated to the Secretary to carry out the functions and responsibilities of the Secretary under this subchapterand the Agreement $1,000,000 for each of fiscal years 2006 through 2010.
+There are authorized to be appropriated to the Secretary to carry out the functions and responsibilities of the Secretary under this subchapter and the Agreement $1,000,000 for each of fiscal years 2006 through 2010.
 
 #### (b) Commission
 
@@ -13,4 +13,6 @@ There are authorized to be appropriated to the Secretary to carry out functions 
 There are authorized to be appropriated to the Secretary to carry out this subchapter and the Agreement in Alaska $150,000 for each of fiscal years 2006 through 2010.
 
 (Pub. L. 92–522, title V, §509, as added Pub. L. 109–479, title IX, §902(a), Jan. 12, 2007, 120 Stat. 3665.)
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

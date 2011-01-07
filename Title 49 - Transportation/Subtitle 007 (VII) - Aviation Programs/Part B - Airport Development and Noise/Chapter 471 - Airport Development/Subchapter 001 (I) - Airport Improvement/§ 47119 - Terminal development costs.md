@@ -120,11 +120,11 @@ In subsection (b)(3), the words “from the discretionary fund and small airport
 
 #### References in Text
 
-Section 20(b) of the Airport and Airway Development Act of 1970, referred to in subsec. (b)(4), is section 20(b) of Pub. L. 91–258, which was classified to section 1720(b) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
+Section 20(b) of the Airport and Airway Development Act of 1970, referred to in subsec. (b)(4), is section 20(b)of Pub. L. 91–258, which was classified to section 1720(b) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–176, §166, amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “An amount apportioned under section 47114 of this title and made available to the sponsor of an air carrier airport at which terminal development was carried out after June 30, 1970, and before July 12, 1976, or, in the case of a commercial service airport which annually had less than 0.05 percent of the total enplanements in the United States, between January 1, 1992, and October 31, 1992, is available to repay immediately money borrowed and used to pay the costs for terminal development at the airport, if those costs would be allowable project costs under section 47110(d) of this title if they had been incurred after September 3, 1982. An amount is available for a grant under this subsection—
+<b>2003</b>—Subsec. (a). Pub. L. 108–176, §166, amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “An amount apportioned under section 47114 of this title and made available to the sponsor of an air carrier airport at which terminal development was carried out after June 30, 1970, and before July 12, 1976, or, in the case of a commercial service airport which annually had less than 0.05 percent of the total enplanements in the United States, between January 1, 1992, and October 31, 1992, is available to repay immediately money borrowed and used to pay the costs for terminal development at the airport, if those costs would be allowable project costs under section 47110(d) of this title if they had been incurred after September 3, 1982. An amount is available for a grant under this subsection—
 
 &emsp;“(1) only if—
 
@@ -138,9 +138,9 @@ Section 20(b) of the Airport and Airway Development Act of 1970, referred to in 
 
 Subsec. (b)(5). Pub. L. 108–176, §149(d), added par. (5).
 
-2000—Subsec. (d). Pub. L. 106–181 added subsec. (d).
+<b>2000</b>—Subsec. (d). Pub. L. 106–181 added subsec. (d).
 
-1994—Subsec. (a). Pub. L. 103–305, §117(1), inserted “or, in the case of a commercial service airport which annually had less than 0.05 percent of the total enplanements in the United States, between January 1, 1992, and October 31, 1992,” after “July 12, 1976,”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–305, §117(1), inserted “or, in the case of a commercial service airport which annually had less than 0.05 percent of the total enplanements in the United States, between January 1, 1992, and October 31, 1992,” after “July 12, 1976,”.
 
 Subsec. (b)(2). Pub. L. 103–429, §6(69)(B), added par. (2) and struck out former par. (2) which read as follows: “to a sponsor of a nonprimary commercial service airport, not more than $200,000 of the amount that may be distributed for the fiscal year from the discretionary fund to pay project costs allowable under section 47110(d) of this title; or”.
 

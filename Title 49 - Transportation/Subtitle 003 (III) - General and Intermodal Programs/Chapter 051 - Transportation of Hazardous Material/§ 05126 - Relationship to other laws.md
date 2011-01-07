@@ -40,15 +40,15 @@ In subsection (a), the word “manufactures” is substituted for “manufacture
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–244 amended Pub. L. 109–59. See 2005 Amendment note below.
+<b>2008</b>—Subsec. (a). Pub. L. 110–244 amended Pub. L. 109–59. See 2005 Amendment note below.
 
-2005—Subsec. (a). Pub. L. 109–59, §7124(4), substituted “designing, manufacturing, fabricating, inspecting, marking, maintaining, reconditioning, repairing, or testing” for “manufacturing, fabricating, marking, maintenance, reconditioning, repairing, or testing”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §7124(4), substituted “designing, manufacturing, fabricating, inspecting, marking, maintaining, reconditioning, repairing, or testing” for “manufacturing, fabricating, marking, maintenance, reconditioning, repairing, or testing”.
 
 Pub. L. 109–59, §7124(3), as amended by Pub. L. 110–244, substituted “shall comply with this chapter” for “must comply with this chapter”.
 
 Pub. L. 109–59, §7124(1), (2), substituted “transports hazardous material, or causes hazardous material to be transported,” for “transports or causes to be transported hazardous material,” and “designs, manufactures, fabricates, inspects, marks, maintains, reconditions, repairs, or tests a package, container, or packaging component that is represented” for “manufactures, fabricates, marks, maintains, reconditions, repairs, or tests a packaging or a container that the person represents, marks, certifies, or sells”.
 
-1994—Subsec. (a). Pub. L. 103–311 substituted “a packaging or a” for “a package or”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–311 substituted “a packaging or a” for “a package or”.
 
 #### Effective Date of 2008 Amendment
 

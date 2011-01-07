@@ -1225,7 +1225,7 @@
 | 410r–6. | Boundary modification. |
 | 410r–7. | Administration. |
 | 410r–8. | Modification of certain water projects. |
-| 410r–9. | Everglades National Park. |
+| 410r–9. | Boundary revision. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2122,8 +2122,7 @@
 | [433a.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000433a%20-%20Perry%27s%20Victory%20and%20International%20Peace%20Memorial%3B%20establishment.md) | Perry's Victory and International Peace Memorial; establishment. |
 | [433b.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000433b%20-%20Administration%2C%20protection%2C%20and%20development.md) | Administration, protection, and development. |
 | [433c.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000433c%20-%20Acceptance%20of%20donations%20of%20lands%20and%20funds%3B%20acquisition%20of%20land.md) | Acceptance of donations of lands and funds; acquisition of land. |
-| [433d.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000433d%20-%20Repealed.%20Pub.%20L.%2092%E2%80%93568%2C%20%C2%A73%282%29%2C%20Oct.%2026%2C%201972%2C%2086%20Stat.%201182.md) | Repealed. |
-| [433e.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000433e%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93141%2C%20%C2%A77%28b%29%2C%20Oct.%2031%2C%201983%2C%2097%20Stat.%20910.md) | Repealed. |
+| 433d, 433e. | Repealed. |
 | [433f.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000433f%20-%20Inconsistent%20laws%20repealed.md) | Inconsistent laws repealed. |
 | 433f–1. | Change in name of Perry's Victory and International Peace Memorial National Monument. |
 | [433g.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000433g%20-%20Fort%20Frederica%20National%20Monument%3B%20establishment.md) | Fort Frederica National Monument; establishment. |
@@ -3480,7 +3479,7 @@
 
 #### Part A—Steens Mountain Cooperative Management and Protection Area
 
-I74subpart 1—designation and purposes
+#### subpart 1—designation and purposes
 
 |  |  |
 | :--- | ---: |

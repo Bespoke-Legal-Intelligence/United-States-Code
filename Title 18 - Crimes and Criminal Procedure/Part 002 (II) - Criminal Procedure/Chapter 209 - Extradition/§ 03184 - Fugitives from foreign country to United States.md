@@ -12,13 +12,13 @@ Minor changes of phraseology were made.
 
 #### Amendments
 
-1996—Pub. L. 104–132, in first sentence, inserted “or in cases arising under section 3181(b),” after “United States and any foreign government,” and “or provided for under section 3181(b),” after “treaty or convention,” and in third sentence, inserted “or under section 3181(b),” after “treaty or convention,”.
+<b>1996</b>—Pub. L. 104–132, in first sentence, inserted “or in cases arising under section 3181(b),” after “United States and any foreign government,” and “or provided for under section 3181(b),” after “treaty or convention,” and in third sentence, inserted “or under section 3181(b),” after “treaty or convention,”.
 
-1990—Pub. L. 101–647 inserted “or, if there is reason to believe the person will shortly enter the United States” after “are not known” in second sentence.
+<b>1990</b>—Pub. L. 101–647 inserted “or, if there is reason to believe the person will shortly enter the United States” after “are not known” in second sentence.
 
-1988—Pub. L. 100–690 inserted after first sentence “Such complaint may be filed before and such warrant may be issued by a judge or magistrate of the United States District Court for the District of Columbia if the whereabouts within the United States of the person charged are not known.”
+<b>1988</b>—Pub. L. 100–690 inserted after first sentence “Such complaint may be filed before and such warrant may be issued by a judge or magistrate of the United States District Court for the District of Columbia if the whereabouts within the United States of the person charged are not known.”
 
-1968—Pub. L. 90–578 substituted “magistrate” for “commissioner” in two places.
+<b>1968</b>—Pub. L. 90–578 substituted “magistrate” for “commissioner” in two places.
 
 #### Change of Name
 

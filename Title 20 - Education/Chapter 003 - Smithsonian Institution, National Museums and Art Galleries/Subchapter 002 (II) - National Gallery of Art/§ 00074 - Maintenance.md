@@ -18,19 +18,15 @@ The actions of the board, including any payment made or directed to be made by i
 
 (Mar. 24, 1937, ch. 50, §4, 50 Stat. 52; Apr. 13, 1939, ch. 61, 53 Stat. 577; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972.)
 
-#### References in Text
-
-The civil-service laws, referred to in subsec. (c), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Codification
 
 In subsec. (c), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 
-1949—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+<b>1949</b>—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
-1939—Subsec. (a). Act Apr. 13, 1939, inserted in last sentence “and to provide, prior to the completion of the National Gallery of Art, for the protection and care of the works of art in said Gallery and for administrative and operating expenses and equipment preparatory to the opening of the Gallery to the public”.
+<b>1939</b>—Subsec. (a). Act Apr. 13, 1939, inserted in last sentence “and to provide, prior to the completion of the National Gallery of Art, for the protection and care of the works of art in said Gallery and for administrative and operating expenses and equipment preparatory to the opening of the Gallery to the public”.
 
 #### Repeals
 

@@ -56,7 +56,7 @@ Nothing in this chapter authorizes the enforcement of—
 
 #### Amendments
 
-2000—Subsec. (b)(1). Pub. L. 106–210, §6(1), inserted “, other than section 6307a(b), 6307b, 6307c, 6307d, 6307e, 6307f, or 6307h of this title,” after “this chapter”.
+<b>2000</b>—Subsec. (b)(1). Pub. L. 106–210, §6(1), inserted “, other than section 6307a(b), 6307b, 6307c, 6307d, 6307e, 6307f, or 6307h of this title,” after “this chapter”.
 
 Subsec. (b)(2). Pub. L. 106–210, §6(3), added par. (2). Former par. (2) redesignated (3).
 

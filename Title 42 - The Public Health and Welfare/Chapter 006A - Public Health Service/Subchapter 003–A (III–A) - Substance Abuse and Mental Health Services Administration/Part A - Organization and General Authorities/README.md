@@ -1,11 +1,5 @@
 Part A—Organization and General Authorities
 
-<i><sup>1</sup></i><i> So in original. The closing parenthesis probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “subsection”.</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

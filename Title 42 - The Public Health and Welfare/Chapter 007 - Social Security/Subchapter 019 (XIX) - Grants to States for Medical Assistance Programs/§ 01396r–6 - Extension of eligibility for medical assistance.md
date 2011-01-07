@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of this subchapter but subject to subparagraph (B) and paragraph (5), each State plan approved under this subchapter must provide that each family which was receiving aid pursuant to a plan of the State approved under part A of subchapter IV of this chapter in at least 3 of the 6 months immediately preceding the month in which such family becomes ineligible for such aid, because of hours of, or income from, employment of the caretaker relative (as defined in subsection (e) of this section) or because of section 602(a)(8)(B)(ii)(II) <sup>1</sup> of this title (providing for a time-limited earned income disregard),shall, subject to paragraph (3) and without any reapplication for benefits under the plan, remain eligible for assistance under the plan approved under this subchapter during the immediately succeeding 6-month period in accordance with this subsection.
+&emsp;&emsp;Notwithstanding any other provision of this subchapter but subject to subparagraph (B) and paragraph (5), each State plan approved under this subchapter must provide that each family which was receiving aid pursuant to a plan of the State approved under part A of subchapter IV of this chapter in at least 3 of the 6 months immediately preceding the month in which such family becomes ineligible for such aid, because of hours of, or income from, employment of the caretaker relative (as defined in subsection (e) of this section) or because of section 602(a)(8)(B)(ii)(II) <sup>1</sup> of this title (providing for a time-limited earned income disregard), shall, subject to paragraph (3) and without any reapplication for benefits under the plan, remain eligible for assistance under the plan approved under this subchapter during the immediately succeeding 6-month period in accordance with this subsection.
 
 #### (B) State option to waive requirement for 3 months before receipt of medical assistance
 
@@ -114,7 +114,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) the State determines that the family's average gross monthly earnings (less such costs for such child care as is necessary for the employment of the caretaker relative) during the immediately preceding 3-month period exceed 185 percent of the official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved.
 
-> &emsp;&emsp;Information described in clause (iii)(I) shall be subject to the restrictions on use and disclosure of information provided under section 602(a)(9) <sup>2</sup> of this title. Instead of terminating a family's extension under clause (iii)(I), a State, at its option, may providefor suspension of the extension until the month after the month in which the family reports information required under paragraph (2)(B)(ii), but only if the family's extension has not otherwise been terminated under subclause (II) or (III) of clause (iii). The State shall make determinations under clause (iii)(III) for a family each time a report under paragraph (2)(B)(ii) for the family is received.
+> &emsp;&emsp;Information described in clause (iii)(I) shall be subject to the restrictions on use and disclosure of information provided under section 602(a)(9) <sup>2</sup> of this title. Instead of terminating a family's extension under clause (iii)(I), a State, at its option, may provide for suspension of the extension until the month after the month in which the family reports information required under paragraph (2)(B)(ii), but only if the family's extension has not otherwise been terminated under subclause (II) or (III) of clause (iii). The State shall make determinations under clause (iii)(III) for a family each time a report under paragraph (2)(B)(ii) for the family is received.
 
 #### (B) Notice before termination
 
@@ -238,19 +238,19 @@ In this section, the term “caretaker relative” has the meaning of such term 
 
 #### (f) Sunset
 
-This section shall not apply with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter after December 31, 2010.
+This section shall not apply with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter after December 31, 2011.
 
 #### (g) Collection and reporting of participation information
 
 #### (1) Collection of information from States
 
-&emsp;Each State shall collect and submit to the Secretary (and make publicly available), in a format specified by the Secretary, information on average monthly enrollment and average monthly participation rates for adults and children under this section and of the number and percentage of children who become ineligible for medical assistance under this section whose medical assistance is continued under another eligibility category or who are enrolled under the State's child health plan under subchapter XXI. Such information shall be submitted at the same time and frequencyin which other enrollment information under this subchapter is submitted to the Secretary.
+&emsp;Each State shall collect and submit to the Secretary (and make publicly available), in a format specified by the Secretary, information on average monthly enrollment and average monthly participation rates for adults and children under this section and of the number and percentage of children who become ineligible for medical assistance under this section whose medical assistance is continued under another eligibility category or who are enrolled under the State's child health plan under subchapter XXI. Such information shall be submitted at the same time and frequency in which other enrollment information under this subchapter is submitted to the Secretary.
 
 #### (2) Annual reports to Congress
 
 &emsp;Using the information submitted under paragraph (1), the Secretary shall submit to Congress annual reports concerning enrollment and participation rates described in such paragraph.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1925, as added Pub. L. 100–485, title III, §303(a)(1), Oct. 13, 1988, 102 Stat. 2385; amended Pub. L. 100–647, title VIII, §8436(a), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–239, title VI, §6411(i)(1), (3), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 101–508, title IV, §§4601(a)(3)(B), 4716(a), Nov. 5, 1990, 104 Stat. 1388–167, 1388–192; Pub. L. 104–193, title I, §114(c), Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title IV, §§4701(b)(2)(A)(ix), (D), 4703(b)(2), Aug. 5, 1997, 111 Stat. 493, 495; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(t)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §707(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–577; Pub. L. 108–40, §7(a), June 30, 2003, 117 Stat. 837; Pub. L. 111–5, div. B, title V, §5004(a)(1), (b)–(d), Feb. 17, 2009, 123 Stat. 503, 504.)
+(Aug. 14, 1935, ch. 531, title XIX, §1925, as added Pub. L. 100–485, title III, §303(a)(1), Oct. 13, 1988, 102 Stat. 2385; amended Pub. L. 100–647, title VIII, §8436(a), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–239, title VI, §6411(i)(1), (3), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 101–508, title IV, §§4601(a)(3)(B), 4716(a), Nov. 5, 1990, 104 Stat. 1388–167, 1388–192; Pub. L. 104–193, title I, §114(c), Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title IV, §§4701(b)(2)(A)(ix), (D), 4703(b)(2), Aug. 5, 1997, 111 Stat. 493, 495; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(t)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §707(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–577; Pub. L. 108–40, §7(a), June 30, 2003, 117 Stat. 837; Pub. L. 111–5, div. B, title V, §5004(a)(1), (b)–(d), Feb. 17, 2009, 123 Stat. 503, 504; Pub. L. 111–309, title I, §111, Dec. 15, 2010, 124 Stat. 3289.)
 
 #### References in Text
 
@@ -266,7 +266,9 @@ A prior section 1925 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–5, §5004(c)(2), (3), designated existing provisions as subpar. (A), inserted heading, added subpar. (B), and realigned margins.
+<b>2010</b>—Subsec. (f). Pub. L. 111–309 substituted “December 31, 2011” for “December 31, 2010”.
+
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–5, §5004(c)(2), (3), designated existing provisions as subpar. (A), inserted heading, added subpar. (B), and realigned margins.
 
 Pub. L. 111–5, §5004(b)(1), (c)(1), inserted “but subject to subparagraph (B) and paragraph (5)” after “Notwithstanding any other provision of this subchapter”.
 
@@ -278,23 +280,23 @@ Subsec. (f). Pub. L. 111–5, §5004(a)(1), substituted “December 31, 2010” 
 
 Subsec. (g). Pub. L. 111–5, §5004(d), added subsec. (g).
 
-2003—Subsec. (f). Pub. L. 108–40 substituted “2003” for “2002”.
+<b>2003</b>—Subsec. (f). Pub. L. 108–40 substituted “2003” for “2002”.
 
-2000—Subsec. (f). Pub. L. 106–554 substituted “2002” for “2001”.
+<b>2000</b>—Subsec. (f). Pub. L. 106–554 substituted “2002” for “2001”.
 
-1999—Subsec. (a)(3)(C). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(t)(1)\], substituted “(i)(VI), (i)(VII),” for “(i)(VI)(i)(VII),,”.
+<b>1999</b>—Subsec. (a)(3)(C). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(t)(1)\], substituted “(i)(VI), (i)(VII),” for “(i)(VI)(i)(VII),,”.
 
 Subsec. (b)(3)(C)(i). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(t)(2)\], which directed substitution of “(i)(IV), (i)(VI), (i)(VII),” for “(i)(IV) (i)(VI) (i)(VII),,”, was executed by making the substitution for “(i)(IV), (i)(VI) (i)(VII),,” to reflect the probable intent of Congress.
 
-1997—Subsec. (b)(4)(D)(iv). Pub. L. 105–33, §4703(b)(2), struck out “less than 50 percent of the membership (enrolled on a prepaid basis) of which consists of individuals who are eligible to receive benefits under this subchapter (other than because of the option offered under this clause). The option of enrollment under this clause is in addition to, and not in lieu of, any enrollment option that the State might offer under subparagraph (A)(i) with respect to receiving services through a medicaid managed care organization in accordance with section 1396b(m) of this title and the applicable requirements of section 1396u–2 of this title” after “(as defined in section 1396b(m)(1)(A) of this title)”.
+<b>1997</b>—Subsec. (b)(4)(D)(iv). Pub. L. 105–33, §4703(b)(2), struck out “less than 50 percent of the membership (enrolled on a prepaid basis) of which consists of individuals who are eligible to receive benefits under this subchapter (other than because of the option offered under this clause). The option of enrollment under this clause is in addition to, and not in lieu of, any enrollment option that the State might offer under subparagraph (A)(i) with respect to receiving services through a medicaid managed care organization in accordance with section 1396b(m) of this title and the applicable requirements of section 1396u–2 of this title” after “(as defined in section 1396b(m)(1)(A) of this title)”.
 
 Pub. L. 105–33, §4701(b)(2)(A)(ix), substituted “medicaid managed care organization” for “health maintenance organization” in two places.
 
 Pub. L. 105–33, §4701(b)(2)(D), substituted “medicaid managed care organization” for “HMO” in heading and inserted “and the applicable requirements of section 1396u–2 of this title” before period at end of text.
 
-1996—Subsec. (f). Pub. L. 104–193 substituted “2001” for “1998”.
+<b>1996</b>—Subsec. (f). Pub. L. 104–193 substituted “2001” for “1998”.
 
-1990—Subsec. (a)(3)(C). Pub. L. 101–508, §4601(a)(3)(B), inserted “(i)(VII),” after “(i)(VI)”.
+<b>1990</b>—Subsec. (a)(3)(C). Pub. L. 101–508, §4601(a)(3)(B), inserted “(i)(VII),” after “(i)(VI)”.
 
 Subsec. (b)(2)(B)(i). Pub. L. 101–508, §4716(a)(1), which directed amendment of subsection (f) of this section in subsection (b)(2)(B)(i) by inserting at the end “A State may permit such additional extended assistance under this subsection notwithstanding a failure to report under this clause if the family has established, to the satisfaction of the State, good cause for the failure to report on a timely basis.”, was executed by making the insertion at the end of subsec. (b)(2)(B)(i) to reflect the probable intent of Congress.
 
@@ -304,7 +306,7 @@ Subsec. (b)(3)(B). Pub. L. 101–508, §4716(a)(3), which directed amendment of 
 
 Subsec. (b)(3)(C)(i). Pub. L. 101–508, §4601(a)(3)(B), inserted “(i)(VII),” after “(i)(VI)”.
 
-1989—Subsec. (a)(3)(A). Pub. L. 101–239, §6411(i)(1), substituted “a child, whether or not the child is” for “a child who is”.
+<b>1989</b>—Subsec. (a)(3)(A). Pub. L. 101–239, §6411(i)(1), substituted “a child, whether or not the child is” for “a child who is”.
 
 Subsec. (a)(3)(C). Pub. L. 101–239, §6411(i)(3), substituted “of section 1396d(a) of this title or clause (i)(IV), (i)(VI), or (ii)(IX) of section 1396a(a)(10)(A) of this title” for “or (v) of section 1396d(a) of this title”.
 
@@ -312,7 +314,7 @@ Subsec. (b)(3)(A)(i). Pub. L. 101–239, §6411(i)(1), substituted “a child, w
 
 Subsec. (b)(3)(C)(i). Pub. L. 101–239, §6411(i)(3), substituted “of section 1396d(a) of this title or clause (i)(IV), (i)(VI), or (ii)(IX) of section 1396a(a)(10)(A) of this title” for “or (v) of section 1396d(a) of this title”.
 
-1988—Subsec. (b)(5)(C). Pub. L. 100–647, which directed the amendment of subsec. (d)(5)(C) by inserting “(less the average monthly costs for such child care as is necessary for the employment of the caretaker relative)” after “gross monthly earnings”, was executed to subsec. (b)(5)(C) to reflect the probable intent of Congress.
+<b>1988</b>—Subsec. (b)(5)(C). Pub. L. 100–647, which directed the amendment of subsec. (d)(5)(C) by inserting “(less the average monthly costs for such child care as is necessary for the employment of the caretaker relative)” after “gross monthly earnings”, was executed to subsec. (b)(5)(C) to reflect the probable intent of Congress.
 
 #### Effective Date of 2009 Amendment
 
@@ -326,7 +328,7 @@ Amendment by Pub. L. 108–40 effective July 1, 2003, see section 8 of Pub. L. 1
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 4701(b)(2)(A)(ix), (D) of Pub. L. 105–33 effective Aug. 5, 1997, and applicable to contractsentered into or renewed on or after Oct. 1, 1997, see section 4710(a) of Pub. L. 105–33, set out as a note under section 1396b of this title.
+Amendment by section 4701(b)(2)(A)(ix), (D) of Pub. L. 105–33 effective Aug. 5, 1997, and applicable to contracts entered into or renewed on or after Oct. 1, 1997, see section 4710(a) of Pub. L. 105–33, set out as a note under section 1396b of this title.
 
 Amendment by section 4703(b)(2) of Pub. L. 105–33 applicable to contracts under section 1396b(m) of this title on and after June 20, 1997, subject to provisions relating to extension of effective date for State law amendments, and to nonapplication to waivers, see section 4710(b)(2) of Pub. L. 105–33, set out as a note under section 1396b of this title.
 

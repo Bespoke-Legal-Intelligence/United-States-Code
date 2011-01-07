@@ -28,13 +28,13 @@ For purposes of subsection (b), the daily notional shipping income from the oper
 
 #### (d) Multiple operators of vessel
 
-If for any period 2 or more persons are operators of a qualifying vessel, the notional shipping income from the operation of such vessel for such period shall be allocated among such persons on the basis of their respective ownership, charter, and operating agreement interests in such vessel or on such other basis as the Secretary may prescribe by regulations.
+If for any period 2 or more persons are operators of a qualifying vessel, the notional shippingincome from the operation of such vessel for such period shall be allocated among such persons on the basis of their respective ownership, charter, and operating agreement interests in such vessel or on such other basis as the Secretary may prescribe by regulations.
 
 (Added Pub. L. 108–357, title II, §248(a), Oct. 22, 2004, 118 Stat. 1450; amended Pub. L. 109–135, title IV, §403(g)(1)(A), Dec. 21, 2005, 119 Stat. 2624.)
 
 #### Amendments
 
-2005—Subsec. (d). Pub. L. 109–135 substituted “ownership, charter, and operating agreement interests” for “ownership and charter interests”.
+<b>2005</b>—Subsec. (d). Pub. L. 109–135 substituted “ownership, charter, and operating agreement interests” for “ownership and charter interests”.
 
 #### Effective Date of 2005 Amendment
 

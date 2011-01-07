@@ -12,5 +12,5 @@ Upon receipt of a certification from the Commission under section 9036, but not 
 
 #### Amendments
 
-1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” in three places.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” in three places.
 

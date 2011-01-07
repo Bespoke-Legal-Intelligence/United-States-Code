@@ -28,7 +28,7 @@ In subsection (b) the words “an officer in the grade of warrant officer, W–1
 
 #### Amendments
 
-1962—Subsec. (b). Pub. L. 87–649 repealed first and second sentences which related to pay and allowances for the leader and second leader of the Naval Academy Band, and to crediting of service for pay purposes. See sections 207 and 424 of Title 37, Pay and Allowances of the Uniformed Services.
+<b>1962</b>—Subsec. (b). Pub. L. 87–649 repealed first and second sentences which related to pay and allowances for the leader and second leader of the Naval Academy Band, and to crediting of service for pay purposes. See sections 207 and 424 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1962 Amendment
 

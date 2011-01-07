@@ -12,5 +12,5 @@ In an investigation under this section, the Secretary may issue subpenas to requ
 
 #### Amendments
 
-1978—Pub. L. 95–474 substituted provision relating to the investigatory powers of the Secretary for provision relating to criminal penalties.
+<b>1978</b>—Pub. L. 95–474 substituted provision relating to the investigatory powers of the Secretary for provision relating to criminal penalties.
 

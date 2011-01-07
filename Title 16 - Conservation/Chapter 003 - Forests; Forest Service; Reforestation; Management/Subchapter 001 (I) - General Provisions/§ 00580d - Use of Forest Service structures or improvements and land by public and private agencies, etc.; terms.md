@@ -6,7 +6,7 @@ The Secretary of Agriculture, under such regulations as he may prescribe and at 
 
 #### Amendments
 
-1998—Pub. L. 105–277, which directed the substitution of “renovate, recondition, improve, and maintain” for “recondition and maintain,”, was executed by making the substitution for language which did not include a comma after “maintain” to reflect the probable intent of Congress.
+<b>1998</b>—Pub. L. 105–277, which directed the substitution of “renovate, recondition, improve, and maintain” for “recondition and maintain,”, was executed by making the substitution for language which did not include a comma after “maintain” to reflect the probable intent of Congress.
 
 #### Forest Service Facility Realignment and Enhancement
 

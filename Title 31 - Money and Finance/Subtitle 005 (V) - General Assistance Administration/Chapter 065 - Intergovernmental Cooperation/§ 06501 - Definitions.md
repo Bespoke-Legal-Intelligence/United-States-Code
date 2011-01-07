@@ -124,7 +124,7 @@ In clause (4)(A) and (B), the word “grant” is substituted for “ ‘grant�
 
 In clause (4)(B), the words “a private, nonprofit community organization eligible to receive amounts under the Community Services Block Grant Act (42 U.S.C. 9901 et seq.)” are substituted for “a community action agency under the Economic Opportunity Act of 1964, as amended” because of section 683(c)(2) of the Omnibus Budget Reconciliation Act of 1981 (Pub. L. 97–35, 95 Stat. 519).
 
-In clause (4)(C), the words “whether public or private” are omitted as surplus. The words “law of theUnited States” are substituted for “Federal laws” for consistency.
+In clause (4)(C), the words “whether public or private” are omitted as surplus. The words “law of the United States” are substituted for “Federal laws” for consistency.
 
 In clause (5), the words “head of a Federal agency” are omitted as unnecessary because heads of Federal agencies already have the authority to delegate.
 
@@ -142,13 +142,13 @@ This amends 31:6501(1)(B) to clarify the section as enacted by the Act of Sept. 
 
 #### References in Text
 
-The Community Services Block Grant Act, referred to in par. (4)(b), is subtitle B (§§671–683) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of Title 42 and Tables.
+The Community Services Block Grant Act, referred to in par. (4)(b), is subtitle B (§§671–683) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended,which is classified generally to chapter 106 (§9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of Title 42 and Tables.
 
 #### Amendments
 
-1997—Par. (1)(C). Pub. L. 105–33 substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
+<b>1997</b>—Par. (1)(C). Pub. L. 105–33 substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
 
-1990—Par. (2)(B). Pub. L. 101–453, §3(1), substituted “subparagraph (A)” for “subclause (A) of this clause (2)”.
+<b>1990</b>—Par. (2)(B). Pub. L. 101–453, §3(1), substituted “subparagraph (A)” for “subclause (A) of this clause (2)”.
 
 Par. (2)(E). Pub. L. 101–453, §3(2), substituted “subparagraphs (A), (B), (C), and (D)” for “subclauses (A)–(D) of this clause (2)”.
 
@@ -164,7 +164,7 @@ Par. (9). Pub. L. 101–453, §5(a)(1), (3), redesignated par. (8) as (9), added
 
 Par. (10). Pub. L. 101–453, §5(a)(1), redesignated par. (9) as (10).
 
-1983—Par. (1)(B). Pub. L. 97–452 struck out “the law of” after “provided by”.
+<b>1983</b>—Par. (1)(B). Pub. L. 97–452 struck out “the law of” after “provided by”.
 
 #### Effective Date of 1997 Amendment
 

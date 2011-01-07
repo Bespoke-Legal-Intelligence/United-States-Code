@@ -138,7 +138,7 @@ For a prior section 3621, applicable to offenses committed prior to Nov. 1, 1987
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–199, §251(b), inserted “Any order, recommendation, or request by a sentencing court that a convicted person serve a term of imprisonment in a community corrections facility shall have no binding effect on the authority of the Bureau under this section to determine or change the place of imprisonment of that person.” at end of concluding provisions.
+<b>2008</b>—Subsec. (b). Pub. L. 110–199, §251(b), inserted “Any order, recommendation, or request by a sentencing court that a convicted person serve a term of imprisonment in a community corrections facility shall have no binding effect on the authority of the Bureau under this section to determine or change the place of imprisonment of that person.” at end of concluding provisions.
 
 Subsec. (e)(5)(A). Pub. L. 110–199, §252, substituted “means a course of individual and group activities and treatment, lasting at least 6 months, in residential treatment facilities set apart from the general prison population (which may include the use of pharmocotherapies, where appropriate, that may extend beyond the 6-month period);” for “means a course of individual and group activities, lasting between 6 and 12 months, in residential treatment facilities set apart from the general prison population—
 
@@ -150,7 +150,7 @@ Subsec. (e)(5)(A). Pub. L. 110–199, §252, substituted “means a course of in
 
 Subsec. (g). Pub. L. 110–199, §231(f), added subsec. (g).
 
-2006—Subsec. (e)(4). Pub. L. 109–162, §1146(1), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “There are authorized to be appropriated to carry out this subsection—
+<b>2006</b>—Subsec. (e)(4). Pub. L. 109–162, §1146(1), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “There are authorized to be appropriated to carry out this subsection—
 
 &emsp;“(A) $13,500,000 for fiscal year 1996;
 
@@ -166,13 +166,13 @@ Subsec. (e)(5)(A)(iii). Pub. L. 109–162, §1146(2), added cl. (iii).
 
 Subsec. (f). Pub. L. 109–248 added subsec. (f).
 
-1994—Subsec. (b). Pub. L. 103–322, §32001(1), struck out “, to the extent practicable,” after “The Bureau shall” in concluding provisions.
+<b>1994</b>—Subsec. (b). Pub. L. 103–322, §32001(1), struck out “, to the extent practicable,” after “The Bureau shall” in concluding provisions.
 
 Pub. L. 103–322, §20401, inserted “In designating the place of imprisonment or making transfers under this subsection, there shall be no favoritism given to prisoners of high social or economic status.” after subsec. (b)(5).
 
 Subsec. (e). Pub. L. 103–322, §32001(2), added subsec. (e).
 
-1990—Subsec. (b). Pub. L. 101–647 inserted at end “The Bureau shall, to the extent practicable, make available appropriate substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse.”
+<b>1990</b>—Subsec. (b). Pub. L. 101–647 inserted at end “The Bureau shall, to the extent practicable, make available appropriate substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse.”
 
 #### Effective Date
 

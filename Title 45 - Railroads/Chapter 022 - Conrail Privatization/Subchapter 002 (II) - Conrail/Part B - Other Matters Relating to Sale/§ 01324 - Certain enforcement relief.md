@@ -18,3 +18,5 @@ Section 1321(a)(2) of this title, referred to in subsec. (a), was repealed by Pu
 
 Special court abolished and all jurisdiction and functions transferred to United States District Court for District of Columbia, see section 719(b)(2) of this title.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

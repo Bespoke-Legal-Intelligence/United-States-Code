@@ -18,7 +18,7 @@ For purposes of applying reduction-in-force procedures under subsection (a) of s
 
 #### (c) Waiver of applicability in personnel actions; scope, procedures, etc.
 
-(1) Notwithstanding any provision of the Indian preference laws, such laws shall not apply in the case of any personnel action respecting an applicant or employee not entitled to Indian preference if each tribal organization concerned grants, in writing, a waiver of the application of such laws with respect to such personnel action.
+(1) Notwithstanding any provision of the Indian preference laws, such laws shall not applyin the case of any personnel action respecting an applicant or employee not entitled to Indian preference if each tribal organization concerned grants, in writing, a waiver of the application of such laws with respect to such personnel action.
 
 (2) The provisions of section 8336(j) of title 5 shall not apply to any individual who has accepted a waiver with respect to a personnel action pursuant to paragraph (1) of this subsection or to section 2011(f) <sup>1</sup> of this title.
 
@@ -48,7 +48,7 @@ Section 2011(f) of this title, referred to in subsec. (c)(2), was in the origina
 
 #### Amendments
 
-1998—Subsec. (d). Pub. L. 105–362, §801(e)(3), struck out par. (1) designation and struck out par. (2) which read as follows: “The Secretaries of the Interior and Health and Human Services, and the Director of the Office of Personnel Management shall each submit a report to Congress following the close of each fiscal year with respect to the actions which they took in such fiscal year to place non-Indian employees of the Bureau ofIndian Affairs and the Indian Health Service in other Federal positions.”
+<b>1998</b>—Subsec. (d). Pub. L. 105–362, §801(e)(3), struck out par. (1) designation and struck out par. (2) which read as follows: “The Secretaries of the Interior and Health and Human Services, and the Director of the Office of Personnel Management shall each submit a report to Congress following the close of each fiscal year with respect to the actions which they took in such fiscal year to place non-Indian employees of the Bureau of Indian Affairs and the Indian Health Service in other Federal positions.”
 
 Pub. L. 105–362, §801(e)(1), (2), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “The Secretaries of the Interior and Health and Human Services shall each submit to the Congress a report following the close of each fiscal year with respect to the actions which they took in such fiscal year to recruit and train Indians to qualify such Indians for positions which are subject to preference under the Indian preference laws. Such report shall also include information as to the grade levels and occupational classifications of Indian and non-Indian employees in the Bureau of Indian Affairs and the Indian Health Service.”
 
@@ -58,9 +58,9 @@ Pub. L. 105–362, §801(e)(2), redesignated subsec. (f) as (e). Former subsec. 
 
 Subsec. (f). Pub. L. 105–362, §801(e)(2), redesignated subsec. (f) as (e).
 
-1990—Subsec. (b)(2). Pub. L. 101–509 substituted “a Deputy Secretary” for “an Under Secretary” before “or Assistant Secretary”.
+<b>1990</b>—Subsec. (b)(2). Pub. L. 101–509 substituted “a Deputy Secretary” for “an Under Secretary” before “or Assistant Secretary”.
 
-1988—Subsec. (c)(1). Pub. L. 100–581 substituted “an applicant or employee” for “an employee”.
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–581 substituted “an applicant or employee” for “an employee”.
 
 #### Change of Name
 

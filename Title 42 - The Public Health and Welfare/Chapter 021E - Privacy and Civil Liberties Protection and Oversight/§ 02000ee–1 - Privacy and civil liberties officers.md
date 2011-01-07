@@ -58,7 +58,7 @@ No action constituting a reprisal, or threat of reprisal, for making a complaint
 
 &emsp;The privacy officers and civil liberties officers of each department, agency, or element referred to or described in subsection (a) or (b) shall periodically, but not less than quarterly, submit a report on the activities of such officers—
 
-&emsp;&emsp;(A)(i) to the appropriate committees of Congress, including the Committee on the Judiciary of the Senate, the Committee on the Judiciary of the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Government Reform of the House of Representatives, the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives;
+&emsp;&emsp;(A)(i) to the appropriate committees of Congress, including the Committee on theJudiciary of the Senate, the Committee on the Judiciary of the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Government Reform of the House of Representatives, the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives;
 
 &emsp;&emsp;(ii) to the head of such department, agency, or element; and
 
@@ -94,5 +94,5 @@ Nothing in this section shall be construed to limit or otherwise supplant any ot
 
 #### Amendments
 
-2007—Pub. L. 110–53 amended section generally. Prior to amendment, text of section read as follows: “It is the sense of Congress that each executive department or agency with law enforcement or antiterrorism functions should designate a privacy and civil liberties officer.”
+<b>2007</b>—Pub. L. 110–53 amended section generally. Prior to amendment, text of section read as follows: “It is the sense of Congress that each executive department or agency with law enforcement or antiterrorism functions should designate a privacy and civil liberties officer.”
 

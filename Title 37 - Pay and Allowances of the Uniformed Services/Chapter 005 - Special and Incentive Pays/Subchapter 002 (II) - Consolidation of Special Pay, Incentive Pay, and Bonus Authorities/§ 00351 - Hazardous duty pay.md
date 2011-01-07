@@ -58,19 +58,21 @@ Prohibition on Variable Rates.—The regulations prescribed to administer this s
 
 (h)
 
-Termination of Authority.—No hazardous duty pay under this section may be paid after December 31, 2010.
+Termination of Authority.—No hazardous duty pay under this section may be paid after December 31, 2011.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 172; amended Pub. L. 110–417, \[div. A\], title VI, §618(d), (e), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §§614(6), 618(b), Oct. 28, 2009, 123 Stat. 2354, 2356.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 172; amended Pub. L. 110–417, \[div. A\], title VI, §618(d), (e), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §§614(6), 618(b), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(6), Jan. 7, 2011, 124 Stat. 4237.)
 
 #### Amendments
 
-2009—Subsecs. (c) to (h). Pub. L. 111–84, §618(b), added subsec. (c), redesignated former subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsecs. (c) and (d), which related to method of payment and reserve component members performing inactive duty training.
+<b>2011</b>—Subsec. (h). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+
+<b>2009</b>—Subsecs. (c) to (h). Pub. L. 111–84, §618(b), added subsec. (c), redesignated former subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsecs. (c) and (d), which related to method of payment and reserve component members performing inactive duty training.
 
 Subsec. (i). Pub. L. 111–84, §618(b)(1), redesignated subsec. (i) as (h).
 
 Pub. L. 111–84, §614(6), substituted “December 31, 2010” for “December 31, 2009”.
 
-2008—Subsec. (c). Pub. L. 110–417, §618(d), substituted “paragraph (1) or (3) of subsection (a)” for “subsection (a)”.
+<b>2008</b>—Subsec. (c). Pub. L. 110–417, §618(d), substituted “paragraph (1) or (3) of subsection (a)” for “subsection (a)”.
 
-Subsec. (f). Pub. L. 110–417, §618(e), substituted “in connection with determining whether a triggering event has occurred for the provision of hazardous duty pay under subsection (a)(1)” for “in administering subsection (a)” and struck out at end “The regulations prescribed to administer this section shall define the activities that are considered hazardous for purposes of subsection (a)(2).”
+Subsec. (f). Pub. L. 110–417, §618(e), substituted “in connection with determining whether a triggering event has occurred for the provision of hazardous dutypay under subsection (a)(1)” for “in administering subsection (a)” and struck out at end “The regulations prescribed to administer this section shall define the activities that are considered hazardous for purposes of subsection (a)(2).”
 

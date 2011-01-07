@@ -12,7 +12,7 @@ Section 5 of the Veterans’ Dioxin and Radiation Exposure Compensation Standard
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 354 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 354 of this title as this section.
 
 Pub. L. 102–54, §14(b)(1)(A), inserted a comma after “place” in section catchline.
 
@@ -22,9 +22,9 @@ Pub. L. 102–54, §14(b)(1)(B), inserted before period at end “(Public Law 98
 
 Subsec. (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1984—Subsec. (a). Pub. L. 98–542 designated existing provisions as cl. (1) and added cl. (2).
+<b>1984</b>—Subsec. (a). Pub. L. 98–542 designated existing provisions as cl. (1) and added cl. (2).
 
-1976—Subsec. (a). Pub. L. 94–433 substituted “such veteran's” for “his” in three places and “such veteran” for “he”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–433 substituted “such veteran's” for “his” in three places and “such veteran” for “he”.
 
 #### Effective Date of 1976 Amendment
 
@@ -154,7 +154,7 @@ Veterans Submitting Claims Before Date of Enactment.—If in the case of a veter
 
 “(d)
 
-Consolidation of Existing Information.—(1) For the purpose of establishing and maintaining theRegistry, the Secretary of Veterans Affairs shall compile and consolidate—
+Consolidation of Existing Information.—(1) For the purpose of establishing and maintaining the Registry, the Secretary of Veterans Affairs shall compile and consolidate—
 
 &emsp;“(A) relevant information maintained by the Veterans Benefits Administration and the Veterans Health Administration of the Department of Veterans Affairs;
 
@@ -170,7 +170,7 @@ Department of Defense Information.—The Secretary of Defense shall furnish to t
 
 “(f)
 
-Definition.—For the purpose of this section, the term ‘veteran’ has the meaning given that term in section 101(2) of title 38, United States Code, and includes a person who died in the active military, naval, or air service.
+Definition.—For the purpose of this section, the term ‘veteran’ has the meaning given that term in section 101(2) of title 38, United States Code, and includesa person who died in the active military, naval, or air service.
 
 “(g)
 
@@ -222,7 +222,7 @@ Sec. 2. The Congress makes the following findings:
 
 “
 
-Sec. 3. The purpose of this Act is to ensure that Veterans’ Administration \[now Department of VeteransAffairs\] disability compensation is provided to veterans who were exposed to ionizing radiation in connection with atmospheric nuclear tests or in connection with the American occupation of Hiroshima or Nagasaki, Japan, for all disabilities arising after that service that are connected, based on sound scientific and medical evidence, to such service (and that Veterans’ Administration dependency and indemnity compensation is provided to survivors of those veterans for all deaths resulting from such disabilities).”
+Sec. 3. The purpose of this Act is to ensure that Veterans’ Administration \[now Department of Veterans Affairs\] disability compensation is provided to veterans who were exposed to ionizing radiation in connection with atmospheric nuclear tests or in connection with the American occupation of Hiroshima or Nagasaki, Japan, for all disabilities arising after that service that are connected, based on sound scientific and medical evidence, to such service (and that Veterans’ Administration dependency and indemnity compensation is provided to survivors of those veterans for all deaths resulting from such disabilities).”
 
 \[Amendment by Pub. L. 102–4 to sections 2 and 3 of Pub. L. 98–542, set out above, effective at the end of the six-month period beginning on Feb. 6, 1991, except as otherwise provided, see section 10(e) of Pub. L. 102–4, set out below under sections 5 to 7 of Pub. L. 98–542.\]
 
@@ -234,7 +234,7 @@ Sections 5–7 of Pub. L. 98–542, as amended by Pub. L. 100–321, §2(c), May
 
 “
 
-Sec. 5. (a) In carrying out the responsibilities of the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] under section 1154(a)(2) \[formerly 354(a)(2)\] of title 38, United States Code, and in order to promote consistency in claims processing and decisions, the Administrator shall prescribe regulations to—
+Sec. 5. (a) In carrying out the responsibilities of the Administrator of Veterans’ Affairs \[now Secretary ofVeterans Affairs\] under section 1154(a)(2) \[formerly 354(a)(2)\] of title 38, United States Code, and in order to promote consistency in claims processing and decisions, the Administrator shall prescribe regulations to—
 
 &emsp;“(1) establish guidelines and (where appropriate) standards and criteria for the resolution of claims for benefits under laws administered by the Veterans’ Administration \[now Department of Veterans Affairs\] where the criteria for eligibility for a benefit include a requirement that a death or disability be service connected and the claim of service connection is based on a veteran's exposure during service in connection with such veteran's participation in atmospheric nuclear tests or with the American occupation of Hiroshima or Nagasaki, Japan, prior to July 1, 1946, to ionizing radiation from the detonation of a nuclear device; and
 
@@ -262,7 +262,7 @@ Sec. 5. (a) In carrying out the responsibilities of the Administrator of Veteran
 
 “(c)(1) The Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] shall develop the regulations required by this section (and any amendment to those regulations) through a public review and comment process in accordance with the provisions of section 553 of title 5, United States Code. That process may include consideration by the Administrator of the recommendations of the Veterans’ Advisory Committee on Environmental Hazards and the Scientific Council thereof (established under section 6) with respect to the proposed regulations, and that process shall include consideration by the Administrator of the recommendations of the Committee and the Council with respect to the final regulations and proposed and final amendments to such regulations. The period for public review and comment shall be completed not later than ninety days after the proposed regulations or proposed amendments are published in the Federal Register.
 
-“(2)(A) Not later than one hundred and eighty days after the date of the enactment of this Act \[Oct. 24,1984\], the Administrator \[now Secretary\] shall develop and publish in the Federal Register a proposed version of the regulations required to be prescribed by this section.
+“(2)(A) Not later than one hundred and eighty days after the date of the enactment of this Act \[Oct. 24, 1984\], the Administrator \[now Secretary\] shall develop and publish in the Federal Register a proposed version of the regulations required to be prescribed by this section.
 
 “(B) Not later than three hundred days after the date of the enactment of this Act \[Oct. 24, 1984\], the Administrator \[now Secretary\] shall publish in the Federal Register the final regulations (together with explanations of the bases for the guidelines, standards, and criteria contained therein) required to be prescribed by this section.
 
@@ -336,7 +336,7 @@ Section 10 of Pub. L. 98–542, as added by Pub. L. 102–578, §3, Oct. 30, 199
 
 “(a)
 
-In General.—(1) In order to determine whether activities (other than the tests or occupation activities referred to in section 5(a)(1)(B) \[probably means section 5(a)(1), set out above\]) resulted in the exposure of veterans to ionizing radiation during the service of such veterans that occurred before January 1, 1970, and whether adverse health effects have been observed or may have resulted from such exposure in a significant number of such veterans, the Advisory Committee established under section 6 \[set out above\] shall—
+In General.—(1) In order to determine whether activities (other than the tests or occupation activitiesreferred to in section 5(a)(1)(B) \[probably means section 5(a)(1), set out above\]) resulted in the exposure of veterans to ionizing radiation during the service of such veterans that occurred before January 1, 1970, and whether adverse health effects have been observed or may have resulted from such exposure in a significant number of such veterans, the Advisory Committee established under section 6 \[set out above\] shall—
 
 &emsp;“(A) review all available scientific studies and other relevant information relating to the exposure of such veterans to ionizing radiation during such service;
 

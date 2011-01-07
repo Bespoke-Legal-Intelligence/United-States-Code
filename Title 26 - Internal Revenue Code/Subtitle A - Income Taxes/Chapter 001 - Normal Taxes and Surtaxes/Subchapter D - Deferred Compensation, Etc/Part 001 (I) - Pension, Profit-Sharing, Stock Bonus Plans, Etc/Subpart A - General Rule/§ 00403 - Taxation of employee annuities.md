@@ -176,7 +176,7 @@
 
 #### (13) Trustee-to-trustee transfers to purchase permissive service credit
 
-&emsp;No amount shall be includible in gross income by reason of a direct trustee-to-trustee transfer to a defined benefit governmental plan (as defined in section 414(d)) if such transfer is—
+&emsp;No amount shall be includible in gross income by reason of a direct trustee-to-trustee transfer to a defined benefit governmentalplan (as defined in section 414(d)) if such transfer is—
 
 &emsp;&emsp;(A) for the purchase of permissive service credit (as defined in section 415(n)(3)(A)) under such plan, or
 
@@ -194,9 +194,9 @@ Premiums paid by an employer for an annuity contract which is not subject to sub
 
 #### Amendments
 
-2008—Subsec. (b)(14). Pub. L. 110–245 added par. (14).
+<b>2008</b>—Subsec. (b)(14). Pub. L. 110–245 added par. (14).
 
-2006—Subsec. (a)(2). Pub. L. 109–280, §845(b)(1), added par. (2).
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–280, §845(b)(1), added par. (2).
 
 Subsec. (a)(4)(B). Pub. L. 109–280, §829(a)(2), inserted “and (11)” after “(7)”.
 
@@ -208,19 +208,19 @@ Subsec. (b)(8)(B). Pub. L. 109–280, §829(a)(3), substituted “, (9), and (1
 
 Subsec. (b)(11)(C). Pub. L. 109–280, §827(b)(3), added subpar. (C).
 
-2005—Subsec. (b)(9)(B). Pub. L. 109–135 inserted “or” before “a convention”.
+<b>2005</b>—Subsec. (b)(9)(B). Pub. L. 109–135 inserted “or” before “a convention”.
 
-2004—Subsec. (a)(4)(B). Pub. L. 108–311, §404(e), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Rules similar to the rules of paragraphs (2) through (7) of section 402(c) shall apply for purposes of subparagraph (A).”
+<b>2004</b>—Subsec. (a)(4)(B). Pub. L. 108–311, §404(e), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Rules similar to the rules of paragraphs (2) through (7) of section 402(c) shall apply for purposes of subparagraph (A).”
 
 Subsec. (b)(7)(A)(ii). Pub. L. 108–311, §408(a)(11), substituted “3121(a)(5)(D)” for “3121(a)(1)(D)”.
 
-2002—Subsec. (b)(1). Pub. L. 107–147, §411(p)(1), inserted concluding provisions and struck out former concluding provisions which read as follows: “then amounts contributed by such employer for such annuity contract on or after such rights become nonforfeitable shall be excluded from the gross income of the employee for the taxable year to the extent that the aggregate of such amounts does not exceed the applicable limit under section 415. The amount actually distributed to any distributee under such contract shall be taxable to the distributee (in the year in which so distributed) under section 72 (relating to annuities). For purposes of applying the rules of this subsection to amounts contributed by an employer for a taxable year, amounts transferred to a contract described in this paragraph by reason of a rollover contribution described in paragraph (8) of this subsection or section 408(d)(3)(A)(ii) shall not be considered contributed by such employer.”
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–147, §411(p)(1), inserted concluding provisions and struck out former concluding provisions which read as follows: “then amounts contributed by such employer for such annuity contract on or after such rights become nonforfeitable shall be excluded from the gross income of the employee for the taxable year to the extent that the aggregate of such amounts does not exceed the applicable limit under section 415. The amount actually distributed to any distributee under such contract shall be taxable to the distributee (in the year in which so distributed) under section 72 (relating to annuities). For purposes of applying the rules of this subsection to amounts contributed by an employer for a taxable year, amounts transferred to a contract described in this paragraph by reason of a rollover contribution described in paragraph (8) of this subsection or section 408(d)(3)(A)(ii) shall not be considered contributed by such employer.”
 
 Subsec. (b)(3). Pub. L. 107–147, §411(p)(3), in first sentence, inserted “, and which precedes the taxable year by no more than five years” before period at end and, in second sentence, struck out “or any amount received by a former employee after the fifth taxable year following the taxable year in which such employee was terminated” after “this subsection applies”.
 
-Subsec. (b)(6). Pub. L. 107–147, §411(p)(2), struck out heading and text of par. (6). Text read as follows: “For purposes of this subsection and section 72(f) (relating to special rules for computing employees’ contributions to annuity contracts), if rights of the employee under an annuity contract described in subparagraphs (A) and (B) of paragraph (1) change from forfeitable to nonforfeitable rights, then the amount (determined without regard to this subsection) includible in gross income by reason of such change shall be treated as an amount contributed by the employer for such annuity contract as of the time such rights become nonforfeitable.”
+Subsec. (b)(6). Pub. L. 107–147, §411(p)(2), struck out heading and text of par. (6). Text read as follows: “For purposes of this subsection and section 72(f) (relating to special rules for computing employees’ contributions to annuity contracts), if rights of the employee under anannuity contract described in subparagraphs (A) and (B) of paragraph (1) change from forfeitable to nonforfeitable rights, then the amount (determined without regard to this subsection) includible in gross income by reason of such change shall be treated as an amount contributed by the employer for such annuity contract as of the time such rights become nonforfeitable.”
 
-2001—Subsec. (b)(1). Pub. L. 107–16, §642(b)(1), substituted “section 408(d)(3)(A)(ii)” for “section 408(d)(3)(A)(iii)” in concluding provisions.
+<b>2001</b>—Subsec. (b)(1). Pub. L. 107–16, §642(b)(1), substituted “section 408(d)(3)(A)(ii)” for “section 408(d)(3)(A)(iii)” in concluding provisions.
 
 Pub. L. 107–16, §632(a)(2)(A), substituted “the applicable limit under section 415” for “the exclusion allowance for such taxable year” in concluding provisions.
 
@@ -240,21 +240,21 @@ Subsec. (b)(11)(A). Pub. L. 107–16, §646(a)(2)(A), substituted “has a sever
 
 Subsec. (b)(13). Pub. L. 107–16, §647(a), added par. (13).
 
-2000—Subsec. (b)(3)(B). Pub. L. 106–554 substituted “section 125, 132(f)(4), or” for “section 125 or”.
+<b>2000</b>—Subsec. (b)(3)(B). Pub. L. 106–554 substituted “section 125, 132(f)(4), or” for “section 125 or”.
 
-1998—Subsec. (b)(8)(B). Pub. L. 105–206 inserted “(including paragraph (4)(C) thereof)” after “section 402(c)”.
+<b>1998</b>—Subsec. (b)(8)(B). Pub. L. 105–206 inserted “(including paragraph (4)(C) thereof)” after “section 402(c)”.
 
-1997—Subsec. (b)(1)(A)(iii). Pub. L. 105–34, §1601(d)(6)(B), added cl. (iii).
+<b>1997</b>—Subsec. (b)(1)(A)(iii). Pub. L. 105–34, §1601(d)(6)(B), added cl. (iii).
 
 Subsec. (b)(3). Pub. L. 105–34, §1504(a)(1), inserted at end “Such term includes—” and subpars. (A) and (B).
 
 Subsec. (b)(12)(C). Pub. L. 105–34, §1505(c), added subpar. (C).
 
-1996—Subsec. (b)(1)(E). Pub. L. 104–188, §1450(c)(1), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “in the case of a contract purchased under a plan which provides a salary reduction agreement, the plan meets the requirements of section 401(a)(30),”.
+<b>1996</b>—Subsec. (b)(1)(E). Pub. L. 104–188, §1450(c)(1), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “in the case of a contract purchased under a plan which provides a salary reduction agreement, the plan meets the requirements of section 401(a)(30),”.
 
 Subsec. (b)(10). Pub. L. 104–188, §1704(t)(69), substituted “a direct” for “an direct” in last sentence.
 
-1992—Subsec. (a)(4)(A)(i). Pub. L. 102–318, §521(b)(12)(A), inserted before comma at end “in an eligible rollover distribution (within the meaning of section 402(c)(4))”.
+<b>1992</b>—Subsec. (a)(4)(A)(i). Pub. L. 102–318, §521(b)(12)(A), inserted before comma at end “in an eligible rollover distribution (within the meaning of section 402(c)(4))”.
 
 Subsec. (a)(4)(B). Pub. L. 102–318, §521(b)(12)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Rules similar to the rules of subparagraphs (B) through (G) of section 402(a)(5) and of paragraphs (6) and (7) of section 402(a) shall apply for purposes of subparagraph (A).”
 
@@ -266,9 +266,9 @@ Subsec. (b)(8)(B) to (D). Pub. L. 102–318, §521(b)(13)(B), added subpar. (B) 
 
 Subsec. (b)(10). Pub. L. 102–318, §522(a)(3), (c)(3), substituted “sections 401(a)(9) and 401(a)(31)” for “section 401(a)(9)” and inserted at end “Any amount transferred in an direct trustee-to-trustee transfer in accordance with section 401(a)(31) shall not be includible in gross income for the taxable year of the transfer.”
 
-1990—Subsec. (b)(12)(A). Pub. L. 101–508 inserted “involving a one-time irrevocable election” after “similar arrangement” in second sentence.
+<b>1990</b>—Subsec. (b)(12)(A). Pub. L. 101–508 inserted “involving a one-time irrevocable election” after “similar arrangement” in second sentence.
 
-1988—Subsec. (b)(1)(D). Pub. L. 100–647, §1011(m)(1)(B), substituted “paragraph (12)” for “paragraph (10)”.
+<b>1988</b>—Subsec. (b)(1)(D). Pub. L. 100–647, §1011(m)(1)(B), substituted “paragraph (12)” for “paragraph (10)”.
 
 Subsec. (b)(1)(E). Pub. L. 100–647, §1011(c)(7)(B), added subpar. (E).
 
@@ -282,7 +282,7 @@ Pub. L. 100–647, §1011(c)(12), inserted after cl. (ii) “For purposes of cla
 
 Pub. L. 100–647, §6052(a)(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “For purposes of this subparagraph, students who normally work less than 20 hours per week may (subject to the conditions applicable under section 410(b)(4)) be excluded.”
 
-1986—Subsec. (a)(1). Pub. L. 99–514, §1122(d)(1), substituted “Distributee taxable under section 72” for “General rule” in heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Except as provided in paragraph (2), if an annuity contract is purchased by an employer for an employee under a plan which meets the requirements of section 404(a)(2) (whether or not the employer deducts the amounts paid for the contract under such section), the employee shall include in his gross income the amounts received under such contract for the year received as provided in section 72 (relating to annuities).”
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1122(d)(1), substituted “Distributee taxable under section 72” for “General rule” in heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Except as provided in paragraph (2), if an annuity contract is purchased by an employer for an employee under a plan which meets the requirements of section 404(a)(2) (whether or not the employer deducts the amounts paid for the contract under such section), the employee shall include in his gross income the amounts received under such contract for the year received as provided in section 72 (relating to annuities).”
 
 Subsec. (a)(2). Pub. L. 99–514, §1122(b)(1)(B), struck out par. (2) which read as follows:
 
@@ -324,7 +324,7 @@ Subsec. (b)(11). Pub. L. 99–514, §1123(c)(1), added par. (11).
 
 Subsec. (c). Pub. L. 99–514, §1122(d)(3), amended last sentence generally. Prior to amendment, last sentence read as follows: “The amount actually paid or made available to any beneficiary under such contract shall be taxable to him in the year in which so paid or made available under section 72 (relating to annuities).”
 
-1984—Subsec. (a)(2)(A). Pub. L. 98–369, §1001(b)(4), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+<b>1984</b>—Subsec. (a)(2)(A). Pub. L. 98–369, §1001(b)(4), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
 Subsec. (a)(4)(A)(i). Pub. L. 98–369, §522(a)(2), substituted “any portion of the balance to the credit of an employee in an employee annuity described in paragraph (1) is paid to him,” for “the balance to the credit of an employee in an employee annuity described in paragraph (1) is paid to him in a qualifying rollover distribution.”
 
@@ -340,21 +340,21 @@ Subsec. (b)(8)(B). Pub. L. 98–369, §522(d)(10), substituted provisions relati
 
 Subsec. (b)(8)(C). Pub. L. 98–369, §522(d)(11), substituted “(F)(i)” for “(D)(v), and (E)(i)”.
 
-1983—Subsec. (b)(3). Pub. L. 98–21 substituted “section 911” for “sections 105(d) and 911”.
+<b>1983</b>—Subsec. (b)(3). Pub. L. 98–21 substituted “section 911” for “sections 105(d) and 911”.
 
 Subsec. (b)(8)(C). Pub. L. 97–448 substituted “subparagraphs (B), (C), (D)(v), and (E)(i) of section 402(a)(5)” for “subparagraphs (B), (C), and (E)(i) of section 402(a)(5)”.
 
-1982—Subsec. (b)(2)(B). Pub. L. 97–248, §251(a)(1), (c)(3), substituted “home health service agencies, and certain churches, etc.” for “and home health service agencies”, and “(under section 415 without regard to section 415(c)(8))” for “(under section 415)”.
+<b>1982</b>—Subsec. (b)(2)(B). Pub. L. 97–248, §251(a)(1), (c)(3), substituted “home health service agencies, and certain churches, etc.” for “and home health service agencies”, and “(under section 415 without regard to section 415(c)(8))” for “(under section 415)”.
 
 Subsec. (b)(2)(C), (D). Pub. L. 97–248, §251(a)(2), added subpars. (C) and (D).
 
 Subsec. (b)(9). Pub. L. 97–248, §251(b), added par. (9).
 
-1981—Subsec. (b)(8)(B)(i). Pub. L. 97–34 inserted “, or 1 or more distributions of accumulated deductible employee contributions (within the meaning of section 72(<i>o</i>)(5))” after “subsection (a)”.
+<b>1981</b>—Subsec. (b)(8)(B)(i). Pub. L. 97–34 inserted “, or 1 or more distributions of accumulated deductible employee contributions (within the meaning of section 72(<i>o</i>)(5))” after “subsection (a)”.
 
-1980—Subsec. (b). Pub. L. 96–222 substituted in par. (1) “409(b)(3)(C)” for “409(d)(3)(C)”, and in par. (7)(A) “which satisfies” for “which satisfied”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–222 substituted in par. (1) “409(b)(3)(C)” for “409(d)(3)(C)”, and in par. (7)(A) “which satisfies” for “which satisfied”.
 
-1978—Subsec. (a)(4). Pub. L. 95–600, §157(g)(2), in subpar. (B) substituted “paragraphs (6) and (7)” for “paragraph (6)”.
+<b>1978</b>—Subsec. (a)(4). Pub. L. 95–600, §157(g)(2), in subpar. (B) substituted “paragraphs (6) and (7)” for “paragraph (6)”.
 
 Pub. L. 95–458, among other changes, substituted provision permitting tax free treatment for any portion of a lump sum distribution from a qualified retirement plan which is deposited in an individual retirement account or another qualifying plan for provision which required transfer of all such property received.
 
@@ -366,7 +366,7 @@ Subsec. (b)(7)(A). Pub. L. 95–600, §154(a), struck out “the amounts are pai
 
 Subsec. (b)(8). Pub. L. 95–600, §156(a), added par. (8).
 
-1976—Subsec. (a)(2)(A). Pub. L. 94–455, §1402(b)(2), provided that “9 months” would be changed to “1 year”.
+<b>1976</b>—Subsec. (a)(2)(A). Pub. L. 94–455, §1402(b)(2), provided that “9 months” would be changed to “1 year”.
 
 Pub. L. 94–455, §1402(b) (1)(D), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
@@ -386,7 +386,7 @@ Subsec. (b)(4)(B). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his dele
 
 Subsec. (b)(7)(C). Pub. L. 94–455, §1504(a), struck out “, and which issues only redeemable stock” after “regulated investment company within the meaning of section 851(a)”.
 
-1974—Subsec. (a)(2). Pub. L. 93–406, §2005(b)(2), substituted “a lump sum distribution (as defined in section 4002(e)(4)(A)) is paid to the recipient” for “the total amounts payable by reason of an employee's death or other separation from the service, or by reason of the death of an employee after the employee's separation from the service, are paid to the payee within one taxable year of the payee” as cl. (iii) of subpar. (A), substituted “so much of the total taxable amount (as defined in section 402(e)(4)(D)) of such distribution as is equal to the product of such total taxable amount multiplied by the fraction described in section 402(a)(2) shall be treated as a gain from the sale or exchange of a capital asset held for more than 6 months. For purposes of this paragraph, in the case of an individual who is an employee without regard to section 401(c)(1), determination of whether or not any distribution is a lump sum distribution shall be made without regard to the requirement that an election be made under subsection (e)(4)(B) of section 402, but no distribution to any taxpayer other than an individual, estate, or trust may be treated as a lump sum distribution under this paragraph” for “then the amount of such payments, to the extent exceeding the amount contributed by the employee (determined by applying section 72(f)), which employee contributions shall be reduced by any amounts theretofore paid to him which were not includible in gross income, shall be considered a gain from the sale or exchange of a capital asset held for more than 6 months. This subparagraph shall not apply to amounts paid to any payee to the extent such amounts are attributable to contributions made on behalf of the employee while he was an employee within the meaning of section 401(c)(1)” following cl. (iii) of subpar. (A), substituted provisions setting out a cross reference to section 402(e) for provisions defining “total amounts” as subpar. (B), and struck out subpar. (C) setting out limitations on capital gains treatment.
+<b>1974</b>—Subsec. (a)(2). Pub. L. 93–406, §2005(b)(2), substituted “a lump sum distribution (as defined in section 4002(e)(4)(A)) is paid to the recipient” for “the total amounts payable by reason of an employee's death or other separation from the service, or by reason of the death of an employee after the employee's separation from the service, are paid to the payee within one taxable year of the payee” as cl. (iii) of subpar. (A), substituted “so much of the total taxable amount (as defined in section 402(e)(4)(D)) of such distribution as is equal to the product of such total taxable amount multiplied by the fraction described in section 402(a)(2) shall be treated as a gain from the sale or exchange of a capital asset held for more than 6 months. For purposes of this paragraph, in the case of an individual who is an employee without regard to section 401(c)(1), determination of whether or not any distribution is a lump sum distribution shall be made without regard to the requirement that an election be made under subsection (e)(4)(B) of section 402, but no distribution to any taxpayer other than an individual, estate, or trust may be treated as a lump sum distribution under this paragraph” for “then the amount of such payments, to the extent exceeding the amount contributed by the employee (determined by applying section 72(f)), which employee contributions shall be reduced by any amounts theretofore paid to him which were not includible in gross income, shall be considered a gain from the sale or exchange of a capital asset held for more than 6 months. This subparagraph shall not apply to amounts paid to any payee to the extent such amounts are attributable to contributions made on behalf of the employee while he was an employee within the meaning of section 401(c)(1)” following cl. (iii) of subpar. (A), substituted provisions setting out a cross reference to section 402(e) for provisions defining “total amounts” as subpar. (B), and struck out subpar. (C) setting out limitations on capital gains treatment.
 
 Subsec. (a)(4). Pub. L. 93–406, §2002(g)(6), added par. (4).
 
@@ -394,25 +394,25 @@ Subsec. (b)(2). Pub. L. 93–406, §2004(c)(4), designated existing provisions a
 
 Subsec. (b)(7). Pub. L. 93–406, §1022(e), added par. (7).
 
-1969—Subsec. (a)(2)(C). Pub. L. 91–172, §515(a)(2), added subpar. (C).
+<b>1969</b>—Subsec. (a)(2)(C). Pub. L. 91–172, §515(a)(2), added subpar. (C).
 
 Subsec. (c). Pub. L. 91–172, §321(b)(2), consolidated provisions of subsec. (c) providing for taxability of beneficiary under a nonqualified annuity, the employees gross income to include amount contributed by employer for annuity contract in the year in which amount is contributed, the amount to be included as provided in section 72 of this title and of subsec. (d) providing for taxability of beneficiary under certain forfeitable contracts purchased by exempt organizations, including farmers’ cooperatives, the gross income to include amount contributed by employer after Dec. 31, 1957, in the year of change from forfeitable to nonforfeitable rights, the new provisions including premiums paid by an employer in accordance with section 83, except that value of the contract shall be substituted for fair market value of the property for purposes of applying such section 83, such provision not to be applicable to that portion of premiums paid which is excluded from gross income under subsec. (b) of this section.
 
 Subsec. (d). Pub. L. 91–172, §321(b)(2), struck out subsec. (d) providing for taxability of beneficiary under certain forfeitable contracts purchased by exempt organizations, including farmers’ cooperatives, gross income of the employee to include (amount contributed by employer after Dec. 31, 1957), in year of change from forfeitable to nonforfeitable rights. See subsec. (c) of this section.
 
-1964—Subsecs. (a)(1), (b)(1), (c). Pub. L. 88–272, §232(e)(4)–(6), struck out “except that section 72(e)(3) shall not apply” after “(relating to annuities)”.
+<b>1964</b>—Subsecs. (a)(1), (b)(1), (c). Pub. L. 88–272, §232(e)(4)–(6), struck out “except that section 72(e)(3) shall not apply” after “(relating to annuities)”.
 
-1962—Subsec. (a)(2)(A). Pub. L. 87–792, §4(d)(1), (2), substituted “described in paragraph (1)” for “which meets the requirements of section 401(a)(3), (4), (5), and (6)” in cl. (i), and inserted sentence at end thereof providing that this subparagraph shall not apply to amounts paid to any payee to the extent such amounts are attributable to contributions made on behalf of the employee while he was an employee within the meaning of section 401(c)(1).
+<b>1962</b>—Subsec. (a)(2)(A). Pub. L. 87–792, §4(d)(1), (2), substituted “described in paragraph (1)” for “which meets the requirements of section 401(a)(3), (4), (5), and (6)” in cl. (i), and inserted sentence at end thereof providing that this subparagraph shall not apply to amounts paid to any payee to the extent such amounts are attributable to contributions made on behalf of the employee while he was an employee within the meaning of section 401(c)(1).
 
 Subsec. (a)(3). Pub. L. 87–792, §4(d)(3), added par. (3).
 
-1961—Subsec. (b). Pub. L. 87–370, §3(a)(3), inserted “or public school” in heading.
+<b>1961</b>—Subsec. (b). Pub. L. 87–370, §3(a)(3), inserted “or public school” in heading.
 
 Subsec. (b)(1)(A). Pub. L. 87–370, §3(a)(1), included annuity contracts purchased for an employee, other than one described in clause (i) of this subpar., who performs services for an educational institution, as defined in section 151(e)(4) of this title, by an employer which is a State, a political subdivision of a State, or an agency or instrumentality of either.
 
 Subsec. (b)(3). Pub. L. 87–370, §(3)(a)(2), substituted “the employer described in paragraph (1)(A)” for “the employer described in section 501(c)(3) and exempt from tax under section 501(a)”.
 
-1958—Subsec. (a)(1). Pub. L. 85–866, §23(b), substituted “which meets the requirements of section 404(a)(2) (whether or not the employer deducts the amounts paid for the contract under such section),” for “with respect to which the employer's contribution is deductible under section 404(a)(2), or if an annuity contract is purchased for an employee by an employer described in section 501(c)(3) which is exempt from tax under section 501(a),”.
+<b>1958</b>—Subsec. (a)(1). Pub. L. 85–866, §23(b), substituted “which meets the requirements of section 404(a)(2) (whether or not the employer deducts the amounts paid for the contract under such section),” for “with respect to which the employer's contribution is deductible under section 404(a)(2), or if an annuity contract is purchased for an employee by an employer described in section 501(c)(3) which is exempt from tax under section 501(a),”.
 
 Subsecs. (b) to (d). Pub. L. 85–866, §23(a), added subsec. (b), redesignated former subsec. (b) as (c), and added subsec. (d).
 
@@ -450,7 +450,7 @@ Pub. L. 107–16, title VI, §647(c), June 7, 2001, 115 Stat. 127, provided that
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–554 effective as if included in the provisions of the Taxpayer Relief Act of 1997,Pub. L. 105–34, to which such amendment relates, see section 1(a)(7) \[title III, §314(g)\] of Pub. L. 106–554, set out as a note under section 56 of this title.
+Amendment by Pub. L. 106–554 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, seesection 1(a)(7) \[title III, §314(g)\] of Pub. L. 106–554, set out as a note under section 56 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -462,7 +462,7 @@ Section 1504(a)(2) of Pub. L. 105–34 provided that: “The amendment made by t
 
 Amendment by section 1505(c) of Pub. L. 105–34 applicable to taxable years beginning on or after Aug. 5, 1997, with certain governmental plans treated as satisfying requirements for all taxable years beginning before Aug. 5, 1997, see section 1505(d) of Pub. L. 105–34, set out as a note under section 401 of this title.
 
-Amendment by section 1601(d)(6)(B) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by section 1601(d)(6)(B) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
 
 #### Effective Date of 1996 Amendment
 

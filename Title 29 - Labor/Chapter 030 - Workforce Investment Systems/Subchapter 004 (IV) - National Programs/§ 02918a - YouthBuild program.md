@@ -186,7 +186,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(xv) a detailed budget and a description of the system of fiscal controls, and auditing and accountability procedures, that will be used to ensure fiscal soundness for the proposed program;
 
-&emsp;&emsp;&emsp;(xvi) a description of the commitments for any additional resources (in addition to the funds made available through thegrant) to be made available to the proposed program from—
+&emsp;&emsp;&emsp;(xvi) a description of the commitments for any additional resources (in addition to the funds made available through the grant) to be made available to the proposed program from—
 
 &emsp;&emsp;&emsp;&emsp;(I) the applicant;
 
@@ -336,7 +336,7 @@ Each recipient of a grant under subsection (c) to carry out a YouthBuild program
 
 #### (2) Fiscal year
 
-&emsp;Notwithstanding section 2939(g) of this title, appropriations for any fiscal year for programs and activities carried out under thissection shall be available for obligation only on the basis of a fiscal year.
+&emsp;Notwithstanding section 2939(g) of this title, appropriations for any fiscal year for programs and activities carried out under this section shall be available for obligation only on the basis of a fiscal year.
 
 (Pub. L. 105–220, title I, §173A, as added Pub. L. 109–281, §2(a), Sept. 22, 2006, 120 Stat. 1173.)
 
@@ -344,7 +344,7 @@ Each recipient of a grant under subsection (c) to carry out a YouthBuild program
 
 This chapter, referred to in subsecs. (b)(3)(C) and (c)(3)(B)(x), (xvi)(III), (4)(J)(iii), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
-Act of August 16, 1937, commonly known as the National Apprenticeship Act, referred to in subsec. (b)(11)(A), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
+Act of August 16, 1937, commonly known as the National Apprenticeship Act, referred to in subsec. (b)(11)(A), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, whichis classified generally to chapter 4C (§50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
 
 The Fair Housing Act, referred to in subsec. (c)(3)(B)(xxi), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
@@ -422,7 +422,7 @@ Continuing effect of legal documents.—All orders, determinations, rules, regul
 
 &emsp;“(2)
 
-Proceedings not affected.—The provisions of this section shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before the Department of Housing and Urban Development at the time this section takes effect, with respect to functions transferred by this section but such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this section had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this paragraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this section had not been enacted.
+Proceedings not affected.—The provisions of this section shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before the Department of Housing and Urban Development at the time this section takes effect, with respect to functions transferred by this section but such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this section had not been enacted, and orders issuedin any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this paragraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this section had not been enacted.
 
 &emsp;“(3)
 

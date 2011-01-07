@@ -46,13 +46,13 @@ A prior section 98c, acts June 7, 1939, ch. 190, §4, 53 Stat. 811; July 23, 194
 
 #### Amendments
 
-2008—Subsec. (a)(3). Pub. L. 110–246 made technical amendment to reference in original act which appears in text as reference to section 1704(b) of title 7.
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–246 made technical amendment to reference in original act which appears in text as reference to section 1704(b) of title 7.
 
-1996—Subsec. (a)(10). Pub. L. 104–106, §3311(b), added par. (10).
+<b>1996</b>—Subsec. (a)(10). Pub. L. 104–106, §3311(b), added par. (10).
 
 Subsec. (c). Pub. L. 104–106, §3311(a), added subsec. (c).
 
-1986—Pub. L. 99–661 substituted “on July 29, 1979” for “on the day before the date of the date of enactment of the Strategic and Critical Materials Stock Piling Revision Act of 1979” in pars. (1) and (3), and “after July 29, 1979” for “on or after the date of the enactment of the Strategic and Critical Materials Stock Piling Revision Act of 1979” in par. (2).
+<b>1986</b>—Pub. L. 99–661 substituted “on July 29, 1979” for “on the day before the date of the date of enactment of the Strategic and Critical Materials Stock Piling Revision Act of 1979” in pars. (1) and (3), and “after July 29, 1979” for “on or after the date of the enactment of the Strategic and Critical Materials Stock Piling Revision Act of 1979” in par. (2).
 
 #### Effective Date of 2008 Amendment
 

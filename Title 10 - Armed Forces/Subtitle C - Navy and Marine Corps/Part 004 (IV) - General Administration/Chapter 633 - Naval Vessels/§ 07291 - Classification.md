@@ -142,7 +142,7 @@ First ship.—The term ‘first ship’ applies to a ship if—
 
 &emsp;“(3)
 
-Major shipbuilding program.—The term ‘major shipbuilding program’ means a program forthe construction of combatant and support vessels required for the naval vessel force, as reported within the annual naval vessel construction plan required by section 231 of title 10, United States Code.
+Major shipbuilding program.—The term ‘major shipbuilding program’ means a program for the construction of combatant and support vessels required for the naval vessel force, as reported within the annual naval vessel construction plan required by section 231 of title 10, United States Code.
 
 &emsp;“(4)
 
@@ -216,7 +216,7 @@ Requirement.—The Secretary of the Navy shall include integrated power systems,
 
 #### Pilot Program for Flexible Funding of Cruiser Conversions and Overhauls
 
-Pub. L. 108–136, div. A, title I, §126, Nov. 24, 2003, 117 Stat. 1410, authorized the Secretary of the Navy to carry out a pilot program for flexible funding of cruiser conversions and overhauls, prior to repeal by Pub. L. 108–287, title VIII, §8099 \[part\], Aug. 5, 2004, 118 Stat. 994, and Pub. L. 108–375, div. A, title I, §122, Oct. 28, 2004, 118 Stat. 1828.
+Pub. L. 108–136, div. A, title I, §126, Nov. 24, 2003, 117 Stat. 1410, authorized the Secretary of the Navy tocarry out a pilot program for flexible funding of cruiser conversions and overhauls, prior to repeal by Pub. L. 108–287, title VIII, §8099 \[part\], Aug. 5, 2004, 118 Stat. 994, and Pub. L. 108–375, div. A, title I, §122, Oct. 28, 2004, 118 Stat. 1828.
 
 #### Vessel Scrapping Pilot Program
 
@@ -414,7 +414,7 @@ Pub. L. 101–189, div. A, title XVI, §1613, Nov. 29, 1989, 103 Stat. 1601, pro
 
 “(a)
 
-Category for Funding.—Any request submitted to Congress for appropriations for ship production engineering necessary to support the procurement of any ship included (at the time the request is submitted) in the five-year shipbuilding and conversion plan of the Navy shall be set forth in the Shipbuilding and Conversion account of the Navy (rather than in research and development accounts).
+Category for Funding.—Any request submitted to Congress for appropriations for ship production engineering necessary to support the procurement of anyship included (at the time the request is submitted) in the five-year shipbuilding and conversion plan of the Navy shall be set forth in the Shipbuilding and Conversion account of the Navy (rather than in research and development accounts).
 
 “(b)
 

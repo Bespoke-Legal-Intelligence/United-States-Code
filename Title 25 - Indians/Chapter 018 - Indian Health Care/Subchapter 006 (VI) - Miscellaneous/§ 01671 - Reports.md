@@ -4,7 +4,7 @@ The President shall, at the time the budget is submitted under section 1105 of t
 
 &emsp;(1) a report on the progress made in meeting the objectives of this chapter, including a review of programs established or assisted pursuant to this chapter and an assessment and recommendations of additional programs or additional assistance necessary to, at a minimum, provide health services to Indians, and ensure a health status for Indians, which are at a parity with the health services available to and the health status of, the general population;
 
-&emsp;(2) a report on whether, and to what extent, new national health care programs, benefits, initiatives, or financing systems have had an impact on the purposes of this chapter and any steps that the Secretary may have taken to consult with Indian tribes to address such impact;
+&emsp;(2) a report on whether, and to what extent, new national health care programs, benefits,initiatives, or financing systems have had an impact on the purposes of this chapter and any steps that the Secretary may have taken to consult with Indian tribes to address such impact;
 
 &emsp;(3) a report on the use of health services by Indians—
 
@@ -20,19 +20,39 @@ The President shall, at the time the budget is submitted under section 1105 of t
 
 &emsp;(5) a separate statement of the total amount obligated or expended in the most recently completed fiscal year to achieve each of the objectives described in section 1680d of this title, relating to infant and maternal mortality and fetal alcohol syndrome;
 
-&emsp;(6) the reports required by sections 1602(d), 1616a(n), 1621b(b), 1621h(j), 1631(c), 1632(g), 1634(a)(3), 1643, 1665g(e), and 1680g(a), and 1680<i>l</i>(f) of this title;
+&emsp;(6) the reports required by sections 1602(d),<sup>2</sup> 1616a(n), 1621b(b), 1621h(j), 1631(c), 1632(g), 1634(a)(3), 1643, 1665g(e),<sup>2</sup> and 1680g(a), and 1680<i>l</i>(f) <sup>2</sup> of this title;
 
-&emsp;(7) for fiscal year 1995, the report required by sections 1665a(c)(3) and 1665<i>l</i>(b) of this title;
+&emsp;(7) for fiscal year 1995, the report required by sections 1665a(c)(3) <sup>2</sup> and 1665<i>l</i>(b) <sup>2</sup> of this title;
 
-&emsp;(8) for fiscal year 1997, the interim report required by section 1637(h)(1) of this title; and
+&emsp;(8) for fiscal year 1997, the interim report required by section 1637(h)(1) <sup>2</sup> of this title; and
 
-&emsp;(9) for fiscal year 1999, the reports required by sections 1637(h)(2), 1660b(b), 1665j(f), and 1680k(g) of this title.
+&emsp;(9) for fiscal year 1999, the reports required by sections 1637(h)(2),<sup>2</sup> 1660b(b),<sup>2</sup> 1665j(f),<sup>2</sup> and 1680k(g) <sup>2</sup> of this title.
 
 (Pub. L. 94–437, title VIII, §801, formerly title VII, §701, Sept. 30, 1976, 90 Stat. 1413; renumbered title VIII, §801, and amended Pub. L. 102–573, title VII, §701(a), (b), title VIII, §801, Oct. 29, 1992, 106 Stat. 4572, 4584.)
 
+#### References in Text
+
+Section 1602 of this title, referred to in par. (6), was amended generally by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains a subsec. (d).
+
+Section 1665g of this title, referred to in par. (6), was omitted and a new section 1665g was enacted in the general amendment of subchapter V–A by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935. Subsec. (e) of the new section 1665g does not relate to reporting requirements.
+
+Section 1680<i>l</i> of this title, referred to in par. (6), was amended generally by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains a subsec. (f).
+
+Section 1665a of this title, referred to in par. (7), was omitted and a new section 1665a was enacted in the general amendment of subchapter V–A by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935. Subsec. (c)(3) of the new section 1665a does not relate to reporting requirements.
+
+Section 1665<i>l</i> of this title, referred to in par. (7), was omitted and a new section 1665<i>l</i> was enacted in the general amendment of subchapter V–A by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935. The new section 1665<i>l</i> does not contain provisions relating to reporting requirements.
+
+Section 1637 of this title, referred to in pars. (8) and (9), was amended generally by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains a subsec. (h).
+
+Section 1660b of this title, referred to in par. (9), was amended generally by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains a subsec. (b).
+
+Section 1665j of this title, referred to in par. (9), was omitted and a new section 1665j was enacted in the general amendment of subchapter V–A by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935. The new section 1665j does not contain a subsec. (f).
+
+Section 1680k of this title, referred to in par. (9), was repealed by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.
+
 #### Amendments
 
-1992—Pub. L. 102–573, §801, amended section generally. Prior to amendment, section read as follows: “The Secretary shall report annually to the President and the Congress on progress made in effecting the purposes of this chapter. Within three months after the end of fiscal year 1979, the Secretary shall review expenditures and progress made under this chapter and make recommendations to the Congress concerning any additional authorizations for fiscal years 1981 through 1984 for programs authorized under this chapter which he deems appropriate. In the event the Congress enacts legislation authorizing appropriations for programs under this chapter for fiscal years 1981 through 1984, within three months after the end of fiscal year 1983, the Secretary shall review programs established or assisted pursuant to this chapter and shall submit to the Congress his assessment and recommendations of additional programs or additional assistance necessary to, at a minimum, provide health services to Indians, and insure a health status for Indians, which are at a parity with the health services available to, and the health status, of the general population.”
+<b>1992</b>—Pub. L. 102–573, §801, amended section generally. Prior to amendment, section read as follows: “The Secretary shall report annually to the President and the Congress on progress made in effecting the purposes of this chapter. Within three months after the end of fiscal year 1979, the Secretary shall review expenditures and progress made under this chapter and make recommendations to the Congress concerning any additional authorizations for fiscal years 1981 through 1984 for programs authorized under this chapter which he deems appropriate. In the event the Congress enacts legislation authorizing appropriations for programs under this chapter for fiscal years 1981 through 1984, within three months after the end of fiscal year 1983, the Secretary shall review programs established or assisted pursuant to this chapter and shall submit to the Congress his assessment and recommendations of additional programs or additional assistance necessary to, at a minimum, provide health services to Indians, and insure a health status for Indians, which are at a parity with the health services available to, and the health status, of the general population.”
 
 #### Commission on Indian and Native Alaskan Health Care
 
@@ -84,7 +104,7 @@ Experts.—The Commission may seek the expertise of any expert in the health car
 
 “(c)
 
-Period of Appointment.—Members shall be appointed for the life of the Commission. Any vacancy in the Commission shall not affect its powers, but shall be filed \[sic\] in the same manner as the original appointment.
+Period of Appointment.—Members shall be appointed for the life of the Commission. Any vacancy inthe Commission shall not affect its powers, but shall be filed \[sic\] in the same manner as the original appointment.
 
 “(d)
 
@@ -179,4 +199,6 @@ Authorization of Appropriations.—There is authorized to be appropriated to car
 Section 701(d) of Pub. L. 102–573 provided that: “Any reference in a provision of law other than the Indian Health Care Improvement Act \[25 U.S.C. 1601 et seq.\] to sections redesignated by subsection (b) \[renumbering sections 701 to 720 of Pub. L. 94–437 as sections 801 to 820 of Pub. L. 94–437, which are classified to sections 1671 to 1680j of this title\] shall be deemed to refer to the section as so redesignated.”
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

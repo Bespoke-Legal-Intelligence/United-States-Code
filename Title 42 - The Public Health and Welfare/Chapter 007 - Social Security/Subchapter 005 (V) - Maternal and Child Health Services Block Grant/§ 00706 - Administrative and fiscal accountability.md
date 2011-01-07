@@ -2,7 +2,7 @@
 
 #### (a) Annual reporting requirements; form, etc.
 
-(1) Each State shall prepare and submit to the Secretary annual reports on its activities under this subchapter. Each such report shall be prepared by, or in consultation with, the State maternal and child health agency. In order properly to evaluate and to compare the performance of different States assisted under this subchapter and to assure the proper expenditure of funds under this subchapter, such reports shall be in such standardized form and contain such information (including information described in paragraph (2)) as the Secretary determines (after consultation with the States) to be necessary (A) to secure an accurate description of those activities, (B) to secure a complete record of the purposes for which funds were spent, of the recipients of such funds, (C) to describe the extent to which the State has met the goals and objectives it set forth under section 705(a)(2)(B)(i) of this title and the national health objectives referred to in section 701(a) of this title, and (D) to determine the extent to which funds were expended consistent with the State's application transmitted under section 705(a) of this title. Copies of the report shall be provided, upon request, to any interested public agency, and each such agency may provide its views on these reports to the Congress.
+(1) Each State shall prepare and submit to the Secretary annual reports on its activities under this subchapter. Each such report shall be prepared by, or in consultation with, the State maternal and child health agency. In order properly to evaluate and to compare the performance of different States assisted under this subchapter and to assure the proper expenditure of funds under this subchapter, such reports shall be in such standardized form and contain such information (including information described in paragraph (2)) as the Secretary determines (after consultation with the States) to be necessary (A) to secure an accurate description of those activities, (B) to secure a complete record of the purposes for which funds were spent, of the recipients of such funds,,<sup>1</sup> (C) to describe the extent to which the State has met the goals and objectives it set forth under section 705(a)(2)(B)(i) of this title and the national health objectives referred to in section 701(a) of this title, and (D) to determine the extent to which funds were expended consistent with the State's application transmitted under section 705(a) of this title. Copies of the report shall be provided, upon request, to any interested public agency, and each such agency may provide its views on these reports to the Congress.
 
 (2) Each annual report under paragraph (1) shall include the following information:
 
@@ -166,7 +166,7 @@ The State shall make copies of the reports and audits required by this section a
 
 (2) In conjunction with an evaluation or review under paragraph (1), no State or political subdivision thereof (or grantee of either) shall be required to create or prepare new records to comply with paragraph (1).
 
-(3) For other provisions relating to deposit, accounting, reports, and auditing with respect toFederal grants to States, see section 6503(b) <sup>1</sup> of title 31.
+(3) For other provisions relating to deposit, accounting, reports, and auditing with respect to Federal grants to States, see section 6503(b) <sup>2</sup> of title 31.
 
 (Aug. 14, 1935, ch. 531, title V, §506, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 823; amended Pub. L. 98–369, div. B, title III, §2373(a)(2), July 18, 1984, 98 Stat. 1111; Pub. L. 101–239, title VI, §§6503(c)(3), (4), 6504, Dec. 19, 1989, 103 Stat. 2278; Pub. L. 104–316, title I, §122(f), Oct. 19, 1996, 110 Stat. 3837; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(d)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402.)
 
@@ -182,11 +182,11 @@ Provisions similar to those comprising former section 706 were contained in sect
 
 #### Amendments
 
-1999—Subsec. (a)(2)(D)(ii), (3)(D)(ii)(II). Pub. L. 106–113 inserted “or the State plan under subchapter XXI of this chapter” after “subchapter XIX of this chapter”.
+<b>1999</b>—Subsec. (a)(2)(D)(ii), (3)(D)(ii)(II). Pub. L. 106–113 inserted “or the State plan under subchapter XXI of this chapter” after “subchapter XIX of this chapter”.
 
-1996—Subsec. (a)(1). Pub. L. 104–316 struck out “and the Comptroller General” after “with the States”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–316 struck out “and the Comptroller General” after “with the States”.
 
-1989—Subsec. (a)(1). Pub. L. 101–239, §6504(a)(1), inserted after first sentence “Each such report shall be prepared by, or in consultation with, the State maternal and child health agency.”, substituted “be in such standardized form and contain such information (including information described in paragraph (2))” for “be in such form and contain such information”, and substituted “, (C) to describe the extent to which the State has met the goals and objectives it set forth under section 705(a)(2)(B)(i) of this title and the national health objectives referred to in section 701(a) of this title, and (D)” for “and of the progress made toward achieving the purposes of this subchapter, and (C)”.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–239, §6504(a)(1), inserted after first sentence “Each such report shall be prepared by, or in consultation with, the State maternal and child health agency.”, substituted “be in such standardized form and contain such information (including information described in paragraph (2))” for “be in such form and contain such information”, and substituted “, (C) to describe the extent to which the State has met the goals and objectives it set forth under section 705(a)(2)(B)(i) of this title and the national health objectives referred to in section 701(a) of this title, and (D)” for “and of the progress made toward achieving the purposes of this subchapter, and (C)”.
 
 Pub. L. 101–239, §6503(c)(3), (4), substituted “application transmitted under section 705(a) of this title” for “description and statement transmitted under section 705 of this title” in subpar. (C).
 
@@ -196,11 +196,11 @@ Subsec. (a)(3). Pub. L. 101–239, §6504(b), amended par. (3) generally. Prior 
 
 Pub. L. 101–239, §6504(a)(2), redesignated former par. (2) as (3).
 
-1984—Subsec. (d)(3). Pub. L. 98–369 substituted “section 6503(b) of title 31” for “section 202 of the Intergovernmental Cooperation Act of 1968 (42 U.S.C. 4212)”.
+<b>1984</b>—Subsec. (d)(3). Pub. L. 98–369 substituted “section 6503(b) of title 31” for “section 202 of the Intergovernmental Cooperation Act of 1968 (42 U.S.C. 4212)”.
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1999 Amendment
 
@@ -230,5 +230,7 @@ Section 2192(b) of Pub. L. 97–35 provided that:
 
 &emsp;“(F) such other factors as the Secretary deems appropriate, and shall report to the Congress thereon not later than June 30, 1982.”
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

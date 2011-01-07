@@ -8,7 +8,7 @@
 
 (d) The adjutant general of each State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands, and officers of the National Guard, shall make such returns and reports as the Secretary of the Army or the Secretary of the Air Force may prescribe, and shall make those returns and reports to the Secretary concerned or to any officer designated by him.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 604; Pub. L. 85–894, Sept. 2, 1958, 72 Stat. 1713; Pub. L. 100–456,div. A, title XII, §1234(b)(1), (5), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XIII, §1322(b), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–190, div. A, title V, §553, Dec. 5, 1991, 105 Stat. 1371; Pub. L. 109–163, div. A, title X, §1057(b)(2), Jan. 6, 2006, 119 Stat. 3441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 604; Pub. L. 85–894, Sept. 2, 1958, 72 Stat. 1713; Pub. L. 100–456, div. A, title XII, §1234(b)(1), (5), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XIII, §1322(b), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–190, div. A, title V, §553, Dec. 5, 1991, 105 Stat. 1371; Pub. L. 109–163, div. A, title X, §1057(b)(2), Jan. 6, 2006, 119 Stat. 3441.)
 
 Historical and Revision Notes
 
@@ -54,17 +54,17 @@ In subsection (d), the words “at such times and in such form” are omitted as
 
 #### Amendments
 
-2006—Subsecs. (a), (d). Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “State and Territory, Puerto Rico, and the District of Columbia”.
+<b>2006</b>—Subsecs. (a), (d). Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “State and Territory, Puerto Rico, and the District of Columbia”.
 
-1991—Subsec. (b). Pub. L. 102–190 struck out “each Territory and” before “the District of Columbia” in first sentence, and struck out at end “To be eligible for appointment as adjutant general of a Territory, a person must be a citizen of that jurisdiction.”
+<b>1991</b>—Subsec. (b). Pub. L. 102–190 struck out “each Territory and” before “the District of Columbia” in first sentence, and struck out at end “To be eligible for appointment as adjutant general of a Territory, a person must be a citizen of that jurisdiction.”
 
-1990—Subsec. (d). Pub. L. 101–510 struck out at end “Each Secretary shall send with his annual report to Congress an abstract of the returns and reports of the adjutants general and such comments as he considers necessary for the information of Congress.”
+<b>1990</b>—Subsec. (d). Pub. L. 101–510 struck out at end “Each Secretary shall send with his annual report to Congress an abstract of the returns and reports of the adjutants general and such comments as he considers necessary for the information of Congress.”
 
-1988—Subsec. (a). Pub. L. 100–456, §1234(b)(1), struck out “the Canal Zone,” after “Puerto Rico,”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–456, §1234(b)(1), struck out “the Canal Zone,” after “Puerto Rico,”.
 
 Subsec. (b). Pub. L. 100–456, §1234(b)(5), struck out “, the Canal Zone,” after “each Territory” and “or the Canal Zone” after “a Territory”.
 
 Subsec. (d). Pub. L. 100–456, §1234(b)(1), struck out “the Canal Zone,” after “Puerto Rico,”.
 
-1958—Subsec. (b). Pub. L. 85–894 struck out “Puerto Rico” in two places.
+<b>1958</b>—Subsec. (b). Pub. L. 85–894 struck out “Puerto Rico” in two places.
 

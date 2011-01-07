@@ -2,7 +2,7 @@
 
 #### (a) Claims against partition of joint reservation
 
-Any claim challenging the partition of the joint reservation pursuant to section 1300i–1 of this title or any other provision of this subchapter as having effected a taking under the fifth amendment of the United States Constitution or as otherwise having provided inadequate compensation shall be brought, pursuant to section 1491 or 1505 of title 28, in the United States Court of Federal Claims. The Yurok Transition Team, or any individual thereon, shall not be named as a defendant or otherwise joined in any suit in which a claim is made arising out of this subsection.
+Any claim challenging the partition of the joint reservation pursuant to section 1300i–1 ofthis title or any other provision of this subchapter as having effected a taking under the fifth amendment of the United States Constitution or as otherwise having provided inadequate compensation shall be brought, pursuant to section 1491 or 1505 of title 28, in the United States Court of Federal Claims. The Yurok Transition Team, or any individual thereon, shall not be named as a defendant or otherwise joined in any suit in which a claim is made arising out of this subsection.
 
 #### (b) Limitations on claims
 
@@ -22,9 +22,9 @@ Any claim challenging the partition of the joint reservation pursuant to section
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1990—Subsec. (a). Pub. L. 101–301 inserted at end “The Yurok Transition Team, or any individual thereon, shall not be named as a defendant or otherwise joined in any suit in which a claim is made arising out of this subsection.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–301 inserted at end “The Yurok Transition Team, or any individual thereon, shall not be named as a defendant or otherwise joined in any suit in which a claim is made arising out of this subsection.”
 
 #### Effective Date of 1992 Amendment
 

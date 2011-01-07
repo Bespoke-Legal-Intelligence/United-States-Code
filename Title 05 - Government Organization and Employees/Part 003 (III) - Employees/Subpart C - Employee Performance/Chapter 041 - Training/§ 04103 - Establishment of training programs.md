@@ -210,7 +210,7 @@ Section 1. <i>Establishment of the Program</i>. Effective October 1, 1986, there
 
 Sec. 2. <i>Program Limits</i>. The experimental program shall be conducted during the fiscal years 1987 through 1989, and not more than ten individuals may commence participation in the program during any fiscal year. Acceptance of voluntary services from such individuals may not result in the displacement of any employee of the government.
 
-Sec. 3. <i>Participant Restrictions</i>. An individual participating in the experimental program shall be considered an employee of the agency to which assigned for purposes of any laws, rules, and regulations of the United States, except that such individual shall not be covered by chapters 51, 53, 63, 83, 87, or 89 of title 5, United States Code, or any comparable provisions relating to classification, pay, leave, retirement, life insurance, or health benefits for employees of the government.
+Sec. 3. <i>Participant Restrictions</i>. An individual participating in the experimental program shall be considered an employee of the agency to which assigned for purposes of any laws, rules, and regulations of the United States, except that such individual shall not be coveredby chapters 51, 53, 63, 83, 87, or 89 of title 5, United States Code, or any comparable provisions relating to classification, pay, leave, retirement, life insurance, or health benefits for employees of the government.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -264,7 +264,7 @@ Sec. 2. <i>Duties of the Task Force</i>. (a) Within 18 months of the date of thi
 
 &emsp;(8) recommend changes that may be needed to existing procurement laws to further the objectives of this order and forward the recommendations to the Administrator of OFPP; and
 
-(b) develop options and recommendations for establishing a Federal Individual Training Account for each Federal worker for training relevant to his or her Federal employment. To the extent permitted by law, such accounts may be established with the funds allocated to the agency for employee training. Approval for training would be within the discretion of the individual employee's manager. Options and recommendations shall be reported no later than 6 months from the date of this order.
+(b) develop options and recommendations for establishing a Federal Individual Training Account for eachFederal worker for training relevant to his or her Federal employment. To the extent permitted by law, such accounts may be established with the funds allocated to the agency for employee training. Approval for training would be within the discretion of the individual employee's manager. Options and recommendations shall be reported no later than 6 months from the date of this order.
 
 Sec. 3. <i>Duties of All Federal Agencies</i>. (a) Each Federal agency shall, to the extent permitted by law:
 

@@ -50,7 +50,7 @@ Section was formerly classified to section 7271d of Title 42, The Public Health 
 
 #### Amendments
 
-2009—Subsec. (c). Pub. L. 111–84, §3115(1), substituted “necessary to address proliferation concerns.” for “necessary—
+<b>2009</b>—Subsec. (c). Pub. L. 111–84, §3115(1), substituted “necessary to address proliferation concerns.” for “necessary—
 
 &emsp;“(1) for the nuclear weapons life extension program;
 

@@ -6,5 +6,5 @@ The Board is empowered and authorized to sell the surplus power not used in its 
 
 #### Amendments
 
-1935—Act Aug. 31, 1935, inserted last three provisos.
+<b>1935</b>—Act Aug. 31, 1935, inserted last three provisos.
 

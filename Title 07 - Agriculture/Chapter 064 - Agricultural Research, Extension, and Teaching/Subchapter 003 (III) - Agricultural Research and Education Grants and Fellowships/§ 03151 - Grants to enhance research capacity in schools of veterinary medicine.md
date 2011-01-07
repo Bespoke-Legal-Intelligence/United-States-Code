@@ -38,7 +38,7 @@ Subsec. (b). Pub. L. 101–624, §1607(b)(2), inserted heading.
 
 Subsec. (b)(1). Pub. L. 101–624, §1607(a)(2), struck out “, or has made a reasonable effort to establish,” after “established”, and “and” after “States;”.
 
-Subsec. (b)(2). Pub. L. 101–624, §1607(a)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the clinical training of the school to be established or expanded shall emphasize care and preventive medical programs for food-producing animals.”
+Subsec. (b)(2). Pub. L. 101–624, §1607(a)(3), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: “the clinical training of the school to be established or expanded shall emphasize care and preventive medical programs for food-producing animals.”
 
 Subsec. (b)(3). Pub. L. 101–624, §1607(a)(3), added par. (3).
 

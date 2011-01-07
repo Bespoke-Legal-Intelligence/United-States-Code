@@ -2,13 +2,13 @@
 
 (a) Copyright in a work created before January 1, 1978, but not theretofore in the public domain or copyrighted, subsists from January 1, 1978, and endures for the term provided by section 302. In no case, however, shall the term of copyright in such a work expire before December 31, 2002; and, if the work is published on or before December 31, 2002, the term of copyright shall not expire before December 31, 2047.
 
-(b) The distribution before January 1, 1978, of a phonorecord shall not for any purpose constitute a publication of the musical work embodied therein.
+(b) The distribution before January 1, 1978, of a phonorecord shall not for any purpose constitute a publication of any musical work, dramatic work, or literary work embodied therein.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2573; Pub. L. 105–80, §11, Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–298, title I, §102(c), Oct. 27, 1998, 112 Stat. 2827.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2573; Pub. L. 105–80, §11, Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–298, title I, §102(c), Oct. 27, 1998, 112 Stat. 2827; Pub. L. 111–295, §5(a), Dec. 9, 2010, 124 Stat. 3181.)
 
 #### Historical and Revision Notes
 
-I74house report no. 94–1476
+#### house report no. 94–1476
 
 Theoretically, at least, the legal impact of section 303 would be far reaching. Under it, every “original work of authorship” fixed in tangible form that is in existence would be given statutory copyright protection as long as the work is not in the public domain in this country. The vast majority of these works consist of private material that no one is interested in protecting or infringing, but section 303 would still have practical effects for a prodigious body of material already in existence.
 
@@ -18,7 +18,9 @@ A special problem under this provision is what to do with works whose ordinary s
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–298 substituted “December 31, 2047” for “December 31, 2027” in second sentence.
+<b>2010</b>—Subsec. (b). Pub. L. 111–295 substituted “any musical work, dramatic work, or literary work” for “the musical work”.
 
-1997—Pub. L. 105–80 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1998</b>—Subsec. (a). Pub. L. 105–298 substituted “December 31, 2047” for “December 31, 2027” in second sentence.
+
+<b>1997</b>—Pub. L. 105–80 designated existing provisions as subsec. (a) and added subsec. (b).
 

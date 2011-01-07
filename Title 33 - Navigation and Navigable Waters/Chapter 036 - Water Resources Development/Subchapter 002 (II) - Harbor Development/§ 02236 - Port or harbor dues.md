@@ -16,7 +16,7 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 #### (2) Limitation on port or harbor dues for emergency service
 
-&emsp;Port or harbor dues may not be levied for the purposes described in paragraph (1)(B) of this subsection after the dues cease to be levied for the purposes described in paragraph (1)(A) of this subsection.
+&emsp;Port or harbor dues may not be levied for the purposes described in paragraph (1)(B) ofthis subsection after the dues cease to be levied for the purposes described in paragraph (1)(A) of this subsection.
 
 #### (3) General limitations
 
@@ -84,7 +84,7 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 (1) The district court of the United States for the district in which is located a non-Federal interest that levies port or harbor dues under this section has original and exclusive jurisdiction over any matter arising out of or concerning, the imposition, computation, collection, and enforcement of port or harbor dues by a non-Federal interest under this section.
 
-(2) Any person who suffers legal wrong or is adversely affected or aggrieved by the imposition by a non-Federal interest of a proposed scheme or schedule of port or harbor dues under this section may, not later than 180 days after the date of hearing under subsection (a)(5)(A)(iii) of this section, commence an action to seek judicial review of that proposed scheme or schedule in the appropriate district court under paragraph (1).
+(2) Any person who suffers legal wrong or is adversely affected or aggrieved by the imposition by a non-Federal interest of a proposed scheme or schedule of port or harbor dues under this section may, not later than 180 days after the date of hearing under subsection\(a)(5)(A)(iii) of this section, commence an action to seek judicial review of that proposed scheme or schedule in the appropriate district court under paragraph (1).
 
 (3) On petition of the Attorney General or any other party, that district court may—
 
@@ -134,7 +134,7 @@ In subsec. (d)(1), “section 60105 of title 46” substituted for “section 41
 
 #### Amendments
 
-1995—Subsecs. (b) to (f). Pub. L. 104–66 redesignated subsecs. (c) to (f) as (b) to (e), respectively, and struck out heading and text of former subsec. (b). Text read as follows: “The Comptroller General of the United States shall—
+<b>1995</b>—Subsecs. (b) to (f). Pub. L. 104–66 redesignated subsecs. (c) to (f) as (b) to (e), respectively, and struck out heading and text of former subsec. (b). Text read as follows: “The Comptroller General of the United States shall—
 
 &emsp;“(1) carry out periodic audits of the operations of non-Federal interests that elect to levy port or harbor dues under this section to determine if the conditions of subsection (a) of this section are being complied with;
 

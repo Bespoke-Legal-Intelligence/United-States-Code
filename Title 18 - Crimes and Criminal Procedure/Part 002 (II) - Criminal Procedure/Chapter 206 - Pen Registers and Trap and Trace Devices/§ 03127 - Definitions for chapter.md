@@ -34,15 +34,15 @@ The Federal Rules of Criminal Procedure, referred to in par. (5), are set out in
 
 #### Amendments
 
-2009—Par. (2)(A). Pub. L. 111–79 substituted “that—” and cls. (i) to (iv) for “having jurisdiction over the offense being investigated; or”.
+<b>2009</b>—Par. (2)(A). Pub. L. 111–79 substituted “that—” and cls. (i) to (iv) for “having jurisdiction over the offense being investigated; or”.
 
-2001—Par. (1). Pub. L. 107–56, §216(c)(4), struck out “and” after “ ‘electronic communication’,” and inserted “, and ‘contents’ ” after “ ‘electronic communication service’ ”.
+<b>2001</b>—Par. (1). Pub. L. 107–56, §216(c)(4), struck out “and” after “ ‘electronic communication’,” and inserted “, and ‘contents’ ” after “ ‘electronic communication service’ ”.
 
 Par. (2)(A). Pub. L. 107–56, §216(c)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “a district court of the United States (including a magistrate judge of such a court) or a United States Court of Appeals; or”.
 
 Par. (3). Pub. L. 107–56, §216(c)(2), substituted “dialing, routing, addressing, or signaling information transmitted by an instrument or facility from which a wire or electronic communication is transmitted, provided, however, that such information shall not include the contents of any communication” for “electronic or other impulses which identify the numbers dialed or otherwise transmitted on the telephone line to which such device is attached” and inserted “or process” after “device” wherever appearing.
 
-Par. (4). Pub. L. 107–56, §216(c)(3), inserted “or process” after “means a device” and substituted “or other dialing, routing, addressing, and signaling information reasonably likely to identify the source of a wire or electronic communication, provided, however, that such information shall not include the contents of any communication;” for “of an instrument or device from which a wire or electronic communication was transmitted;”.
+Par. (4). Pub. L. 107–56, §216(c)(3), inserted “or process” after “means a device” and substituted “or other dialing, routing, addressing, and signaling information reasonably likely to identify the source of a wire orelectronic communication, provided, however, that such information shall not include the contents of any communication;” for “of an instrument or device from which a wire or electronic communication was transmitted;”.
 
-1988—Pub. L. 100–690 renumbered section 3126 of this title as this section.
+<b>1988</b>—Pub. L. 100–690 renumbered section 3126 of this title as this section.
 

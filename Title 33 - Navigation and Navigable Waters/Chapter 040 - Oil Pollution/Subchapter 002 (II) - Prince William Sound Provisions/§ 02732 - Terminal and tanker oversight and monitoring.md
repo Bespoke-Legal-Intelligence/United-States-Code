@@ -92,7 +92,7 @@
 
 &emsp;&emsp;&emsp;(ii) Aquaculture associations in the vicinity of the terminal facilities.
 
-&emsp;&emsp;&emsp;(iii) Alaska Native Corporations and other Alaska Native organizations the members of which reside in the vicinity of the terminal facilities.
+&emsp;&emsp;&emsp;(iii) Alaska Native Corporations and other Alaska Native organizations themembers of which reside in the vicinity of the terminal facilities.
 
 &emsp;&emsp;&emsp;(iv) Environmental organizations the members of which reside in the vicinity of the terminal facilities.
 
@@ -302,7 +302,7 @@ As used in this section, the term—
 
 &emsp;&emsp;(A) in the case of the Prince William Sound Program, the entire oil terminal complex located in Valdez, Alaska, consisting of approximately 1,000 acres including all buildings, docks (except docks owned by the City of Valdez if those docks are not used for loading of crude oil), pipes, piping, roads, ponds, tanks, crude oil tankers only while at the terminal dock, tanker escorts owned or operated by the operator of the terminal, vehicles, and other facilities associated with, and necessary for, assisting tanker movement of crude oil into and out of the oil terminal complex; and
 
-&emsp;&emsp;(B) in the case of the Cook Inlet Program, the entire oil terminal complex including all buildings, docks, pipes, piping, roads, ponds, tanks, vessels, vehicles, crude oil tankers only while at the terminal dock, tanker escorts owned or operated by the operator of the terminal, emergency spill response vessels owned or operated by the operator of the terminal, and other facilities associated with, and necessary for, assisting tanker movement of crude oil into and out of the oil terminal complex;
+&emsp;&emsp;(B) in the case of the Cook Inlet Program, the entire oil terminal complex including all buildings, docks, pipes, piping, roads, ponds, tanks, vessels, vehicles, crude oil tankers only while at the terminal dock, tanker escorts owned or operated by the operator of the terminal, emergency spill response vessels owned or operated by the operator of theterminal, and other facilities associated with, and necessary for, assisting tanker movement of crude oil into and out of the oil terminal complex;
 
 &emsp;(2) “crude oil tanker” means a tanker (as that term is defined under section 2101 of title 46)—
 
@@ -344,7 +344,7 @@ The requirements of subsections (c) through (<i>l</i>) of this section, as such 
 
 #### Amendments
 
-2006—Subsec. (m)(4). Pub. L. 109–241 substituted “of the department in which the Coast Guard is operating.” for “of Transportation.”
+<b>2006</b>—Subsec. (m)(4). Pub. L. 109–241 substituted “of the department in which the Coast Guard is operating.” for “of Transportation.”
 
 #### Change of Name
 

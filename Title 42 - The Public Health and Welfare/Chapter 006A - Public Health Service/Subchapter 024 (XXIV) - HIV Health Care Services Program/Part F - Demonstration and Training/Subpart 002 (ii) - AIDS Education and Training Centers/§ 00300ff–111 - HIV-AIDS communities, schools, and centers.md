@@ -74,13 +74,13 @@ Section was formerly classified to section 294n of this title prior to renumberi
 
 #### Amendments
 
-2009—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
 Subsec. (c)(1). Pub. L. 111–87, §2(f)(1)(A), substituted “are authorized” for “is authorized” and inserted “, $36,535,000 for fiscal year 2010, $38,257,000 for fiscal year 2011, $40,170,000 for fiscal year 2012, and $42,178,000 for fiscal year 2013” before period at end.
 
 Subsec. (c)(2). Pub. L. 111–87, §2(f)(1)(B), substituted “are authorized” for “is authorized” and inserted “, $13,650,000 for fiscal year 2010, $14,333,000 for fiscal year 2011, $15,049,000 for fiscal year 2012, and $15,802,000 for fiscal year 2013” before period at end.
 
-2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+<b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” wherever appearing in text.
 
@@ -90,7 +90,7 @@ Subsec. (a)(2)(C). Pub. L. 109–415, §602(a)(1)(B), (2), (3), added subpar. (C
 
 Subsec. (c). Pub. L. 109–415, §602(b), reenacted heading without change and amended text generally, substituting provisions authorizing appropriations for fiscal years 2007 through 2009 for provisions authorizing appropriations for fiscal years 2001 through 2005.
 
-2000—Subsec. (a)(1)(A). Pub. L. 106–345, §402(a)(1)(A), substituted “to train” for “training”, substituted “, including” for “and including” after “transmission of the disease”, and inserted “, and including (as applicable to the type of health professional involved), prenatal and other gynecological care for women with HIV disease” before semicolon at end.
+<b>2000</b>—Subsec. (a)(1)(A). Pub. L. 106–345, §402(a)(1)(A), substituted “to train” for “training”, substituted “, including” for “and including” after “transmission of the disease”, and inserted “, and including (as applicable to the type of health professional involved), prenatal and other gynecological care for women with HIV disease” before semicolon at end.
 
 Subsec. (a)(1)(D). Pub. L. 106–345, §402(a)(1)(B)–(D), added subpar. (D).
 
@@ -104,7 +104,7 @@ Subsec. (c)(1). Pub. L. 106–345, §402(c)(1), substituted “fiscal years 2001
 
 Subsec. (c)(2). Pub. L. 106–345, §402(c)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “For the purpose of grants under subsection (b) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1996 through 2000.”
 
-1996—Pub. L. 104–146, §3(h)(1), (2)(A), substituted “HIV/AIDS communities, schools, and centers” for “Acquired immune deficiency syndrome” as section catchline.
+<b>1996</b>—Pub. L. 104–146, §3(h)(1), (2)(A), substituted “HIV/AIDS communities, schools, and centers” for “Acquired immune deficiency syndrome” as section catchline.
 
 Subsec. (a)(1)(A). Pub. L. 104–166, §5(2)(A), substituted “in programs under this subchapter” for “in subchapter XXIV programs” and struck out “infection and” after “prevention of HIV”.
 
@@ -114,7 +114,7 @@ Subsec. (a)(1)(B). Pub. L. 104–146, §3(h)(2)(B)(iv), inserted “and” after
 
 Pub. L. 104–146, §3(h)(2)(B)(i), (ii), redesignated subpar. (A) as (B) and struck out former subpar. (B) which read as follows: “to train practitioners to provide for the health care needs of such individuals;”.
 
-Subsec. (a)(1)(C), (D). Pub. L. 104–146, §3(h)(2)(B)(i), (ii), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “with respectto improving clinical skills in the diagnosis, treatment, and prevention of such disease, to educate and train the health professionals and clinical staff of schools of medicine, osteopathic medicine, and dentistry; and”.
+Subsec. (a)(1)(C), (D). Pub. L. 104–146, §3(h)(2)(B)(i), (ii), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “with respect to improving clinical skills in the diagnosis, treatment, and prevention of such disease, to educate and train the health professionals and clinical staff of schools of medicine, osteopathic medicine, and dentistry; and”.
 
 Subsec. (c). Pub. L. 104–166, §5(2)(B), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “For purposes of this section:
 
@@ -136,7 +136,7 @@ Dental schools.—For the purpose of grants under subsection (b) of this section
 
 Pub. L. 104–146, §3(h)(4), added subsec. (d) relating to authorization of appropriations for fiscal years 1996 through 2000.
 
-1992—Subsec. (a)(3). Pub. L. 102–531, which directed the substitution of “No grant” for “no grant” in par. (3), could not be executed because the words “no grant” did not appear in par. (3).
+<b>1992</b>—Subsec. (a)(3). Pub. L. 102–531, which directed the substitution of “No grant” for “no grant” in par. (3), could not be executed because the words “no grant” did not appear in par. (3).
 
 #### Effective Date of 2009 Amendment; Revival of Section
 
@@ -153,4 +153,6 @@ Amendment by Pub. L. 102–531 effective immediately after enactment of Pub. L. 
 #### Dissemination of Treatment Guidelines; Medical Consultation Activities
 
 Pub. L. 106–345, title IV, §402(a)(2), Oct. 20, 2000, 114 Stat. 1349, provided that: “Not later than 90 days after the date of the enactment of this Act \[Oct. 20, 2000\], the Secretary of Health and Human Services shall issue and begin implementation of a strategy for the dissemination of HIV treatment information to health care providers and patients.”
+
+<i><sup>1</sup></i><i> So in original.</i>
 

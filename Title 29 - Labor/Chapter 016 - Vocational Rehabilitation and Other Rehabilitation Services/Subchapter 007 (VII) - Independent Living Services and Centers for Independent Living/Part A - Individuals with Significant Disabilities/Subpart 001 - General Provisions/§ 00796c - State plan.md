@@ -4,7 +4,7 @@
 
 #### (1) Requirement
 
-&emsp;To be eligible to receive financial assistance under this part, a State shall submit to the Commissioner, and obtain approval of, a State plan containing such provisions as the Commissioner may require, including, at a minimum, the provisions required in this section.
+&emsp;To be eligible to receive financial assistance under this part, a State shall submit to theCommissioner, and obtain approval of, a State plan containing such provisions as the Commissioner may require, including, at a minimum, the provisions required in this section.
 
 #### (2) Joint development
 
@@ -70,7 +70,7 @@ The plan shall set forth a design for the establishment of a statewide network o
 
 #### (h) Centers
 
-In States in which State funding for centers for independent living equals or exceeds theamount of funds allotted to the State under subpart 3, as provided in section 796f–2 of this title, the plan shall include policies, practices, and procedures governing the awarding of grants to centers for independent living and oversight of such centers consistent with section 796f–2 of this title.
+In States in which State funding for centers for independent living equals or exceeds the amount of funds allotted to the State under subpart 3, as provided in section 796f–2 of this title, the plan shall include policies, practices, and procedures governing the awarding of grants to centers for independent living and oversight of such centers consistent with section 796f–2 of this title.
 
 #### (i) Cooperation, coordination, and working relationships among various entities
 
@@ -90,7 +90,7 @@ The plan shall describe efforts to coordinate Federal and State funding for cent
 
 #### (<i>l</i>) Outreach
 
-With respect to services and centers funded under this part, the plan shall set forth steps to be taken regarding outreach to populations that are unserved or underserved by programs under this subchapter, including minority groups and urban and rural populations.
+With respect to services and centers funded under this part, the plan shall set forth steps to be taken regarding outreach to populations that are unserved or underserved by programs underthis subchapter, including minority groups and urban and rural populations.
 
 #### (m) Requirements
 

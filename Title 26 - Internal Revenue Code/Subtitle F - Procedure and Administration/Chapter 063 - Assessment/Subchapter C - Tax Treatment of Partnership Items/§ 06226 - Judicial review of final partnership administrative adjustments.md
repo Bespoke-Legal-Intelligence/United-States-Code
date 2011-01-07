@@ -96,15 +96,15 @@ If an action brought under this section is dismissed (other than under paragraph
 
 #### Amendments
 
-1997—Subsec. (b)(5), (6). Pub. L. 105–34, §1240(a), added par. (5) and redesignated former par. (5) as (6).
+<b>1997</b>—Subsec. (b)(5), (6). Pub. L. 105–34, §1240(a), added par. (5) and redesignated former par. (5) as (6).
 
 Subsec. (d)(1). Pub. L. 105–34, §1239(b), inserted concluding provisions.
 
 Subsec. (f). Pub. L. 105–34, §1238(b)(1), substituted “relates,” for “relates and” and inserted “, and the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to a partnership item” before period at end.
 
-1992—Subsecs. (a)(3), (e), (g). Pub. L. 102–572 substituted “Court of Federal Claims” for “Claims Court” wherever appearing.
+<b>1992</b>—Subsecs. (a)(3), (e), (g). Pub. L. 102–572 substituted “Court of Federal Claims” for “Claims Court” wherever appearing.
 
-1983—Subsec. (g). Pub. L. 97–448 substituted “With respect to the partnership, only the tax matters partner” for “Only the tax matters partner”.
+<b>1983</b>—Subsec. (g). Pub. L. 97–448 substituted “With respect to the partnership, only the tax matters partner” for “Only the tax matters partner”.
 
 #### Effective Date of 1997 Amendment
 

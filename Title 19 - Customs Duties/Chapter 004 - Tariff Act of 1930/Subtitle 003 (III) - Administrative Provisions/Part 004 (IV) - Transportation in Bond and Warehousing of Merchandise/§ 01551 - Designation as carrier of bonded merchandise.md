@@ -8,7 +8,7 @@ Under such regulations and subject to such terms and conditions as the Secretary
 
 &emsp;(3) any freight forwarder authorized to operate as such by any agency of the United States,
 
-> upon application, may, in the discretion of the Secretary, be designated as a carrier of bonded merchandise for the final release of which from customs custody a permit has not been issued. A private carrier, upon application, may, in the discretion of the Secretary, be designated under the preceding sentence as a carrier of bonded merchandise, subject to such regulations and, in the case of each applicant, to such special terms and conditions as the Secretary may prescribe to safeguard the revenues of the United States with respect to the transportation of bonded merchandise by such applicant.
+> upon application, may, in the discretion of the Secretary, be designated as a carrier of bonded merchandise for the final release of which from customs custody a permit has not been issued. A private carrier, upon application, may, in the discretion of the Secretary, be designated under the preceding sentence as a carrier of bonded merchandise, subject to such regulations and, in the case of each applicant, to such special termsand conditions as the Secretary may prescribe to safeguard the revenues of the United States with respect to the transportation of bonded merchandise by such applicant.
 
 (June 17, 1930, ch. 497, title IV, §551, 46 Stat. 742; Dec. 28, 1945, ch. 605, 59 Stat. 667; Pub. L. 87–598, Aug. 24, 1962, 76 Stat. 400; Pub. L. 87–854, Oct. 23, 1962, 76 Stat. 1130; Pub. L. 90–240, §3, Jan. 2, 1968, 81 Stat. 776.)
 
@@ -20,11 +20,11 @@ Prior provisions concerning transportation of merchandise in bond without apprai
 
 #### Amendments
 
-1968—Pub. L. 90–240 provided that a private carrier, upon application, could, in the discretion of the Secretary, be designated as a carrier of bonded merchandise, subject to regulations, terms, and conditions prescribed by the Secretary, safeguard the revenues of the United States with respect to the transportation of bonded merchandise by such applicant.
+<b>1968</b>—Pub. L. 90–240 provided that a private carrier, upon application, could, in the discretion of the Secretary, be designated as a carrier of bonded merchandise, subject to regulations, terms, and conditions prescribed by the Secretary, safeguard the revenues of the United States with respect to the transportation of bonded merchandise by such applicant.
 
-1962—Pub. L. 87–854 included any contract carrier authorized to operate as such by any agency of the United States.
+<b>1962</b>—Pub. L. 87–854 included any contract carrier authorized to operate as such by any agency of the United States.
 
 Pub. L. 87–598 substituted “authorized to operate as such by any agency of the United States,” for “, as defined in section 1002(5) of title 49.”
 
-1945—Act Dec. 28, 1945, substituted “Under such regulations and subject to such terms and conditions as the Secretary of the Treasury shall prescribe, any common carrier of merchandise owning or operating a railroad, steamship, or other transportation line or route for the transportation of merchandise in the United States, or any freight forwarder, as defined in section 1002(5) of title 49, upon application, may, in the discretion of the Secretary” for “Any common carrier of merchandise owning or operating railroad, steamship, or other transportation lines or routes for the transportation of merchandise in the United States, upon application and the filing of a bond in a form and penalty and with such sureties as may be approved by the Secretary of the Treasury, may”.
+<b>1945</b>—Act Dec. 28, 1945, substituted “Under such regulations and subject to such terms and conditions as the Secretary of the Treasury shall prescribe, any common carrier of merchandise owning or operating a railroad, steamship, or other transportation line or route for the transportation of merchandise in the United States, or any freight forwarder, as defined in section 1002(5) of title 49, upon application, may, in the discretion of the Secretary” for “Any common carrier of merchandise owning or operating railroad, steamship, or other transportation lines or routes for the transportation of merchandise in the United States, upon application and the filing of a bond in a form and penalty and with such sureties as may be approved by the Secretary of the Treasury, may”.
 

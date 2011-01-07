@@ -6,7 +6,7 @@ A pension plan may not merge or consolidate with, or transfer its assets or liab
 
 #### Amendments
 
-1980—Pub. L. 96–364 substituted provisions respecting applicability of preceding sentence to transactions under a covered multiemployer plan to which subchapter III applies, for provisions relating to applicability of paragraph to a multiemployer plan only to extent determined by Corporation.
+<b>1980</b>—Pub. L. 96–364 substituted provisions respecting applicability of preceding sentence to transactions under a covered multiemployer plan to which subchapter III applies, for provisions relating to applicability of paragraph to a multiemployer plan only to extent determined by Corporation.
 
 #### Effective Date of 1980 Amendment
 

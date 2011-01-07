@@ -24,7 +24,7 @@ Section was enacted as part of the Crime Control Act of 1990, and not as part of
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–21 substituted “age of 21” for “age of 18”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–21 substituted “age of 21” for “age of 18”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -32,7 +32,7 @@
 
 #### (5) Information required for release
 
-&emsp;If an examination is conducted, any information required for release shall be provided, either electronically or in paper form, to the Customs Service at the port of examination. The absence of such information does not limit the authority of the Customs Service to conduct an examination.
+&emsp;If an examination is conducted, any information required for release shall be provided, either electronically or in paper form, to the Customs Service at the port of examination.The absence of such information does not limit the authority of the Customs Service to conduct an examination.
 
 #### (b) Testing laboratories
 
@@ -142,11 +142,11 @@ All of the foregoing sections of the Revised Statutes were repealed by act Sept.
 
 #### Amendments
 
-1993—Pub. L. 103–182 amended section generally, substituting present provisions for provisions which required imported merchandise to be inspected, examined, appraised, and reported by appropriate customs officer to have been truly and correctly invoiced and found to comply with requirements of laws of the United States prior to release of such merchandise from customs custody.
+<b>1993</b>—Pub. L. 103–182 amended section generally, substituting present provisions for provisions which required imported merchandise to be inspected, examined, appraised, and reported by appropriate customs officer to have been truly and correctly invoiced and found to comply with requirements of laws of the United States prior to release of such merchandise from customs custody.
 
-1970—Pub. L. 91–271 substituted references to appropriate customs officer or such officer for references to collector or appraiser wherever appearing, and struck out references to duties of appraiser.
+<b>1970</b>—Pub. L. 91–271 substituted references to appropriate customs officer or such officer for references to collector or appraiser wherever appearing, and struck out references to duties of appraiser.
 
-1938—Act June 25, 1938, amended section generally and among other changes inserted provision relating to invalidity of appraisements made after effective date of Customs Administrative Act of 1938.
+<b>1938</b>—Act June 25, 1938, amended section generally and among other changes inserted provision relating to invalidity of appraisements made after effective date of Customs Administrative Act of 1938.
 
 #### Effective Date of 1970 Amendment
 

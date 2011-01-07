@@ -16,7 +16,7 @@ The Secretary shall—
 
 #### (c) Program operations
 
-The Secretary shall ensure that the programs under this subpart are administered within the Department by a person who has recognized professional qualifications and experience in the field of the education of gifted and talented students and who shall—
+The Secretary shall ensure that the programs under this subpart are administered within theDepartment by a person who has recognized professional qualifications and experience in the field of the education of gifted and talented students and who shall—
 
 &emsp;(1) administer and coordinate the programs authorized under this subpart;
 
@@ -27,4 +27,6 @@ The Secretary shall ensure that the programs under this subpart are administered
 &emsp;(4) shall <sup>1</sup> disseminate, and consult on, the information developed under this subpart with other offices within the Department.
 
 (Pub. L. 89–10, title V, §5466, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1828.)
+
+<i><sup>1</sup></i><i> So in original. The word “shall” probably should not appear.</i>
 

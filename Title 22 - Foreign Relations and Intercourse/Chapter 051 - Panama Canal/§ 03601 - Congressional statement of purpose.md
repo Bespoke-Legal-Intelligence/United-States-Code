@@ -40,7 +40,7 @@ Pub. L. 99–209, §1, Dec. 23, 1985, 99 Stat. 1716, provided that: “This Act 
 
 #### Short Title
 
-Section 1 of Pub. L. 96–70 provided that: “This Act \[enacting this chapter, amending section 2778 of this title, sections 305, 5102, 5316, 5342, 5343, 5348, 5373, 5504, 5533, 5541, 5583, 5595, 5724a, 6301, 6322, 6323, 8102, 8146, 8335, 8336, 8339, 8348, 8701, and 8901 of Title 5, Government Organization and Employees, sections 1101 and 1182 of Title 8, Aliens and Nationality, section 213 of Title 29, Labor, sections 403, 3401, and 3682 of Title 39, Postal Service, and sections 191, 195, and 196 of Title 50, War and National Defense, repealing section 3402 of Title 39and section 191b of Title 50, and enacting provisions set out as notes under sections 3601, 3602, 3672, 3691, 3795, 3843, and 3852 of this title, sections 8336 and 8339 of Title 5, and sections 1101 and 1182 of Title 8\] may be cited as the ‘Panama Canal Act of 1979’.”
+Section 1 of Pub. L. 96–70 provided that: “This Act \[enacting this chapter, amending section 2778 of this title, sections 305, 5102, 5316, 5342, 5343, 5348, 5373, 5504, 5533, 5541, 5583, 5595, 5724a, 6301, 6322, 6323, 8102, 8146, 8335, 8336, 8339, 8348, 8701, and 8901 of Title 5, Government Organization and Employees, sections 1101 and 1182 of Title 8, Aliens and Nationality, section 213 of Title 29, Labor, sections 403, 3401, and 3682 of Title 39, Postal Service, and sections 191, 195, and 196 of Title 50, War and National Defense, repealing section 3402 of Title 39 and section 191b of Title 50, and enacting provisions set out as notes under sections 3601, 3602, 3672, 3691, 3795, 3843, and 3852 of this title, sections 8336 and 8339 of Title 5, and sections 1101 and 1182 of Title 8\] may be cited as the ‘Panama Canal Act of 1979’.”
 
 #### Ex. Ord. No. 12173. Continuing Applicability of Panama Canal Regulations
 
@@ -68,7 +68,7 @@ The Secretary of Defense
 
 1–102. The function vested in the President by Section 1212(d)(1) of the Panama Canal Act of 1979 (93 Stat. 464; 22 U.S.C. 3652(d)(1)) to exclude employees of, or positions within, the Department of Defense from coverage under any provision of subchapter II, Chapter 2 of Title I of the Panama Canal Act of 1979 \[22 U.S.C. 3651 et seq.\], is delegated to the Secretary of Defense.
 
-1–103. The function vested in the President by Section 1281(b) of Title 6 of the Panama Canal Code (76A Stat. 455; 6 P.C.C. 1281(b)), as amended, with respect to areas and installations made available to the United States pursuant to the Agreement in Implementation of Article IV of the Panama Canal Treaty of 1977 is delegated to the Secretary of Defense.
+1–103. The function vested in the President by Section 1281(b) of Title 6 of the Panama Canal Code (76A Stat.455; 6 P.C.C. 1281(b)), as amended, with respect to areas and installations made available to the United States pursuant to the Agreement in Implementation of Article IV of the Panama Canal Treaty of 1977 is delegated to the Secretary of Defense.
 
 1–104. The function vested in the President by Section 1701 of the Panama Canal Act of 1979 (93 Stat. 492; 22 U.S.C. 3801), with respect to regulations applicable within the areas and installations made available to the United States pursuant to the Agreement in Implementation of Article IV of the Panama Canal Treaty of 1977, is delegated to the Secretary of Defense.
 

@@ -18,7 +18,7 @@ Prior to awarding any grant or agreement under subsection (a) of this section, t
 
 Grants or agreements awarded under this section shall be subject to prior appropriation Acts.
 
-(Pub. L. 98–313, §2, June 12, 1984, 98 Stat. 235; Pub. L. 105–277, div. A, §101(f) \[title VIII,§405(d)(35), (f)(27)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–426, 2681–434.)
+(Pub. L. 98–313, §2, June 12, 1984, 98 Stat. 235; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(35), (f)(27)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–426, 2681–434.)
 
 #### References in Text
 
@@ -32,7 +32,7 @@ Section was enacted as part of the Environmental Programs Assistance Act of 1984
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(27)\], struck out “title IV of the Job Training Partnership Act or” after “title V of the Older Americans Act of 1965 and” in last sentence.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(27)\], struck out “title IV of the Job Training Partnership Act or” after “title V of the Older Americans Act of 1965 and” in last sentence.
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(35)\], substituted “and title IV of the Job Training Partnership Act or subtitle D of title I of the Workforce Investment Act of 1998” for “and title IV of the Job Training Partnership Act” in second sentence.
 

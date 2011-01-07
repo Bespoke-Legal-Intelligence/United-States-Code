@@ -8,5 +8,5 @@ Any person who violates a rule or regulation issued pursuant to this subchapter 
 
 #### Amendments
 
-1976—Pub. L. 91–383, §10(a)(4), as added Pub. L. 94–458, struck out provisions relating to arrest powers of superintendent, caretakers, officers, or rangers of the Lake Mead National Recreation Area.
+<b>1976</b>—Pub. L. 91–383, §10(a)(4), as added Pub. L. 94–458, struck out provisions relating to arrest powers of superintendent, caretakers, officers, or rangers of the Lake Mead National Recreation Area.
 

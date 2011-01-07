@@ -166,7 +166,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&nbsp;For purposes of this clause, the term “objective criteria or conditions” means criteria or conditions that are neutral and that do not favor one enterprise or industry over another.
 
-&emsp;&emsp;&emsp;(iii) Where there are reasons to believe that a subsidy may be specific as a matter of fact, the subsidy is specific if one or more of the following factors exist:
+&emsp;&emsp;&emsp;(iii) Where there are reasons to believe that a subsidy may be specific as a matterof fact, the subsidy is specific if one or more of the following factors exist:
 
 &emsp;&emsp;&emsp;&emsp;(I) The actual recipients of the subsidy, whether considered on an enterprise or industry basis, are limited in number.
 
@@ -230,7 +230,7 @@ For purposes of this subtitle—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A subsidy provided, pursuant to a general framework of regional development, to a person located in a disadvantaged region within a country shall be treated as noncountervailable, if it is not specific (within the meaning of paragraph (5A)) within eligible regions and if the following conditions are met:
+&emsp;&emsp;&emsp;A subsidy provided, pursuant to a general framework of regional development,to a person located in a disadvantaged region within a country shall be treated as noncountervailable, if it is not specific (within the meaning of paragraph (5A)) within eligible regions and if the following conditions are met:
 
 &emsp;&emsp;&emsp;&emsp;(I) Each region identified as disadvantaged within the territory of a country is a clearly designated, contiguous geographical area with a definable economic and administrative identity.
 
@@ -298,13 +298,13 @@ For purposes of this subtitle—
 
 #### (F) Certain subsidies on agricultural products
 
-&emsp;&emsp;Domestic support measures that are provided with respect to products listed in Annex 1 to the Agreement on Agriculture, and that the administering authority determines conform fully to the provisions of Annex 2 to that Agreement, shall be treated as noncountervailable. Upon request by the administering authority, the Trade Representative shall provide advice regarding the interpretation and application of Annex 2.
+&emsp;&emsp;Domestic support measures that are provided with respect to products listed inAnnex 1 to the Agreement on Agriculture, and that the administering authority determines conform fully to the provisions of Annex 2 to that Agreement, shall be treated as noncountervailable. Upon request by the administering authority, the Trade Representative shall provide advice regarding the interpretation and application of Annex 2.
 
 #### (G) Provisional application
 
 &emsp;&emsp;(i) Subparagraphs (B), (C), (D), and (E) shall not apply on or after the first day of the month that is 66 months after the WTO Agreement enters into force, unless the provisions of such subparagraphs are extended pursuant to section 3572(c) of this title.
 
-&emsp;&emsp;(ii) Subparagraph (F) shall not apply to imports from a WTO member country at theend of the 9-year period beginning on January 1, 1995. The Trade Representative shall determine the precise termination date for each WTO member country in accordance with paragraph (i) of Article 1 of the Agreement on Agriculture and such date shall be notified to the administering authority.
+&emsp;&emsp;(ii) Subparagraph (F) shall not apply to imports from a WTO member country at the end of the 9-year period beginning on January 1, 1995. The Trade Representative shall determine the precise termination date for each WTO member country in accordance with paragraph (i) of Article 1 of the Agreement on Agriculture and such date shall be notified to the administering authority.
 
 #### (6) Net countervailable subsidy
 
@@ -562,7 +562,7 @@ For purposes of this subtitle—
 
 #### (15) Ordinary course of trade
 
-&emsp;The term “ordinary course of trade” means the conditions and practices which, for a reasonable time prior to the exportation of the subject merchandise, have been normal in the trade under consideration with respect to merchandise of the same class or kind. The administering authority shall consider the following sales and transactions, among others, to be outside the ordinary course of trade:
+&emsp;The term “ordinary course of trade” means the conditions and practices which, for a reasonable time prior to the exportation of thesubject merchandise, have been normal in the trade under consideration with respect to merchandise of the same class or kind. The administering authority shall consider the following sales and transactions, among others, to be outside the ordinary course of trade:
 
 &emsp;&emsp;(A) Sales disregarded under section 1677b(b)(1) of this title.
 
@@ -650,7 +650,7 @@ For purposes of this subtitle—
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided by this paragraph, merchandise imported by, or for the use of, a department or agency of the United States Government (including merchandise provided for under chapter 98 of the Harmonized Tariff Schedule of the United States) is subject to the imposition of countervailing duties or antidumping duties under this subtitle or section 1303 of this title.
+&emsp;&emsp;Except as otherwise provided by this paragraph, merchandise imported by, or for the use of, a department or agency of the United States Government (including merchandiseprovided for under chapter 98 of the Harmonized Tariff Schedule of the United States) is subject to the imposition of countervailing duties or antidumping duties under this subtitle or section 1303 of this title.
 
 #### (B) Exceptions
 
@@ -718,7 +718,7 @@ For purposes of this subtitle—
 
 #### (26) Section 1303
 
-&emsp;The terms “section 1303” and “1303” mean section 1303 of this title as in effect on the day before the effective date of title II of the Uruguay Round Agreements Act.
+&emsp;The terms “section 1303” and “1303” mean section 1303 of this title as in effect on the daybefore the effective date of title II of the Uruguay Round Agreements Act.
 
 #### (27) Suspension agreement
 
@@ -836,11 +836,11 @@ For the effective date of title II of the Uruguay Round Agreements Act, referred
 
 #### Amendments
 
-1996—Par. (16)(C)(i). Pub. L. 104–295, §20(b)(7), which directed substitution of “subject merchandise” for “merchandise which is the subject of the investigation” in subpar. (B)(i), was executed by making the substitution in subpar. (C)(i) to reflect the probable intent of Congress.
+<b>1996</b>—Par. (16)(C)(i). Pub. L. 104–295, §20(b)(7), which directed substitution of “subject merchandise” for “merchandise which is the subject of the investigation” in subpar. (B)(i), was executed by making the substitution in subpar. (C)(i) to reflect the probable intent of Congress.
 
 Par. (30). Pub. L. 104–295, §20(b)(14), substituted “Agreement” for “agreement” after “applies the WTO”.
 
-1994—Par. (1). Pub. L. 103–465, §233(b)(2), substituted “Secretary of Commerce” for “Secretary of the Treasury”.
+<b>1994</b>—Par. (1). Pub. L. 103–465, §233(b)(2), substituted “Secretary of Commerce” for “Secretary of the Treasury”.
 
 Par. (4)(A). Pub. L. 103–465, §222(a)(1), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “The term ‘industry’ means the domestic producers as a whole of a like product, or those producers whose collective output of the like product constitutes a major proportion of the total domestic production of that product; except that in the case of wine and grape products subject to investigation under this subtitle, the term also means the domestic producers of the principal raw agricultural product (determined on either a volume or value basis) which is included in the like domestic product, if those producers allege material injury, or threat of material injury, as a result of imports of such wine and grape products.”
 
@@ -866,7 +866,7 @@ Par. (7)(C)(iii)(IV). Pub. L. 103–465, §233(a)(3)(A)(ii), substituted “dome
 
 Par. (7)(C)(iii)(V). Pub. L. 103–465, §222(b)(1), added subcl. (V).
 
-Par. (7)(C)(iv). Pub. L. 103–465, §222(b)(2), added cl. (iv) and struck out former cl. (iv) which directed that Commission cumulatively assess volume and effect of imports from two or more countries of like products subject to investigation if such imports compete with each other and with like products of domestic industry in United States market, with an exception for imports which are products of country designated as beneficiary country under Caribbean Basin Economic Recovery Act.
+Par. (7)(C)(iv). Pub. L. 103–465, §222(b)(2), added cl. (iv) and struck out former cl. (iv) which directed that Commission cumulatively assess volume and effect of imports from two or more countries of like products subject to investigation if such imports compete with each other and with like products of domestic industry in United States market, with an exception for importswhich are products of country designated as beneficiary country under Caribbean Basin Economic Recovery Act.
 
 Par. (7)(C)(v). Pub. L. 103–465, §222(d)(1), struck out heading and text of cl. (v). Prior to amendment, text read as follows: “The Commission is not required to apply clause (iv) or subparagraph (F)(iv) in any case in which the Commission determines that imports of the merchandise subject to investigation are negligible and have no discernable adverse impact on the domestic industry. For purposes of making such determination, the Commission shall evaluate all relevant economic factors regarding the imports, including, but not limited to, whether—
 
@@ -876,7 +876,7 @@ Par. (7)(C)(v). Pub. L. 103–465, §222(d)(1), struck out heading and text of c
 
 &emsp;“(III) the domestic market for the like product is price sensitive by reason of the nature of the product, so that a small quantity of imports can result in price suppression or depression.
 
-> For purposes of this clause, the Commission may treat as negligible and having no discernable adverse impact on the domestic industry imports that are the productof any country that is a party to a free trade area agreement with the United States which entered into force and effect before January 1, 1987, if the Commission determines that the domestic industry is not being materially injured by reason of such imports.”
+> For purposes of this clause, the Commission may treat as negligible and having no discernable adverse impact on the domestic industry imports that are the product of any country that is a party to a free trade area agreement with the United States which entered into force and effect before January 1, 1987, if the Commission determines that the domestic industry is not being materially injured by reason of such imports.”
 
 Par. (7)(E)(i). Pub. L. 103–465, §266, amended heading and text of cl. (i) generally. Prior to amendment, text read as follows: “In determining whether there is a threat of material injury, the Commission shall consider such information as may be presented to it by the administering authority as to the nature of the subsidy (particularly as to whether the subsidy is an export subsidy inconsistent with the Agreement) provided by a foreign country and the effects likely to be caused by the subsidy.”
 
@@ -938,25 +938,25 @@ Par. (35). Pub. L. 103–465, §229(b), added par. (35).
 
 Par. (36). Pub. L. 103–465, §267, added par. (36).
 
-1993—Pars. (18), (21). Pub. L. 103–182, §412(b)(1), redesignated par. (18), relating to United States-Canada Agreement, as (21).
+<b>1993</b>—Pars. (18), (21). Pub. L. 103–182, §412(b)(1), redesignated par. (18), relating to United States-Canada Agreement, as (21).
 
 Par. (22). Pub. L. 103–182, §412(b)(2), added (22).
 
 Par. (23). Pub. L. 103–182, §637(b), added par. (23).
 
-1990—Par. (7)(C)(iv). Pub. L. 101–382, §224(a), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “For purposes of clauses (i) and (ii), the Commission shall cumulatively assess the volume and effect of imports from two or more countries of like products subject to investigation if such imports compete with each other and with like products of the domestic industry in the United States market.”
+<b>1990</b>—Par. (7)(C)(iv). Pub. L. 101–382, §224(a), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “For purposes of clauses (i) and (ii), the Commission shall cumulatively assess the volume and effect of imports from two or more countries of like products subject to investigation if such imports compete with each other and with like products of the domestic industry in the United States market.”
 
 Par. (7)(F)(iv). Pub. L. 101–382, §224(b), substituted “(C)(iv)(II) and (v)” for “(C)(v)”.
 
 Par. (20)(A). Pub. L. 101–382, §139(a)(3), substituted “chapter 98 of the Harmonized Tariff Schedule” for “schedule 8 of the Tariff Schedules”.
 
-1988—Par. (4)(E). Pub. L. 100–418, §1326(a), added subpar. (E).
+<b>1988</b>—Par. (4)(E). Pub. L. 100–418, §1326(a), added subpar. (E).
 
 Par. (5). Pub. L. 100–418, §1312, amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘subsidy’ has the same meaning as the term ‘bounty or grant’ as that term is used in section 1303 of this title, and includes, but is not limited to, the following:
 
 &emsp;“(A) Any export subsidy described in Annex A to the Agreement (relating to illustrative list of export subsidies).
 
-&emsp;“(B) The following domestic subsidies, if provided or required by government action to a specific enterprise or industry, or group of enterprises or industries, whether publicly or privately owned, andwhether paid or bestowed directly or indirectly on the manufacture, production, or export of any class or kind of merchandise:
+&emsp;“(B) The following domestic subsidies, if provided or required by government action to a specific enterprise or industry, or group of enterprises or industries, whether publicly or privately owned, and whether paid or bestowed directly or indirectly on the manufacture, production, or export of any class or kind of merchandise:
 
 &emsp;&emsp;“(i) The provision of capital, loans, or loan guarantees on terms inconsistent with commercial considerations.
 
@@ -1006,9 +1006,9 @@ Pub. L. 100–418, §1327, added par. (19) relating to equivalency of leases to 
 
 Par. (20). Pub. L. 100–647 redesignated par. (19), relating to application to governmental importations, as (20).
 
-1986—Par. (7)(F)(i). Pub. L. 99–514 substituted “the merchandise” for “any merchandise” in introductory provisions and “final orders” for “find orders” in subcl. (VIII).
+<b>1986</b>—Par. (7)(F)(i). Pub. L. 99–514 substituted “the merchandise” for “any merchandise” in introductory provisions and “final orders” for “find orders” in subcl. (VIII).
 
-1984—Par. (4)(A). Pub. L. 98–573, §612(a)(1), inserted provision that in the case of wine and grape products subject to investigation under this subtitle, the term also means the domestic producers of the principal raw agricultural product (determined on either a volume or value basis) which is included in the like domestic product, if those producers allege material injury, or threat of material injury, as a result of imports of such wine and grape products.
+<b>1984</b>—Par. (4)(A). Pub. L. 98–573, §612(a)(1), inserted provision that in the case of wine and grape products subject to investigation under this subtitle, the term also means the domestic producers of the principal raw agricultural product (determined on either a volume or value basis) which is included in the like domestic product, if those producers allege material injury, or threat of material injury, as a result of imports of such wine and grape products.
 
 Par. (7)(C)(iv). Pub. L. 98–623, §612(a)(2)(A), added cl. (iv).
 
@@ -1036,7 +1036,7 @@ Section 224(c) of Pub. L. 101–382 provided that: “The amendments made by sub
 
 Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Aug. 23, 1988, see section 9001(b) of Pub. L. 100–647, set out as a note under section 58c of this title.
 
-Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
+Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement entersinto force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
 
 Amendment by sections 1312, 1316(b), 1326(a)–(c), and 1327–1329 of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as an Effective Date of 1988 Amendment note under section 1671 of this title.
 
@@ -1046,7 +1046,7 @@ Amendment by section 1335 of Pub. L. 100–418 applicable with respect to entrie
 
 #### Effective and Termination Dates of 1984 Amendment
 
-Amendment by Pub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under section 1675 of this title, onor after Oct. 30, 1984; but provisions of this subtitle not to be interpreted to prevent refiling of a petition under section 1671a or 1673a of this title that was filed before Oct. 30, 1984, if the purpose of refiling was to avail petitioner of amendment of par. (4)(A) of this section by Pub. L. 98–573, and such amendment of par. (4)(A) inapplicable to petitions filed (or refiled) under section 1671a or 1673a of this title after Sept. 30, 1986, see section 626(b)(1), (c)(1), (2) of Pub. L. 98–573, as amended, set out as an Effective Date of 1984 Amendment note under section 1671 of this title.
+Amendment by Pub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under section 1675 of this title, on or after Oct. 30, 1984; but provisions of this subtitle not to be interpreted to prevent refiling of a petition under section 1671a or 1673a of this title that was filed before Oct. 30, 1984, if the purpose of refiling was to avail petitioner of amendment of par. (4)(A) of this section by Pub. L. 98–573, and such amendment of par. (4)(A) inapplicable to petitions filed (or refiled) under section 1671a or 1673a of this title after Sept. 30, 1986, see section 626(b)(1), (c)(1), (2) of Pub. L. 98–573, as amended, set out as an Effective Date of 1984 Amendment note under section 1671 of this title.
 
 #### Effective Date
 

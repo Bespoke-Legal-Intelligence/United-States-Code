@@ -28,7 +28,7 @@ This amends 49:47532 to correct an erroneous cross-reference.
 
 #### Amendments
 
-1994—Pub. L. 103–429 inserted “any of” before “sections”.
+<b>1994</b>—Pub. L. 103–429 inserted “any of” before “sections”.
 
 #### Effective Date of 1994 Amendment
 

@@ -16,7 +16,7 @@ A prior section 1320c–1, act Aug. 14, 1935, ch. 531, title XI, §1152, as adde
 
 #### Amendments
 
-1986—Par. (3). Pub. L. 99–509 added par. (3).
+<b>1986</b>—Par. (3). Pub. L. 99–509 added par. (3).
 
 #### Effective Date of 1986 Amendment
 

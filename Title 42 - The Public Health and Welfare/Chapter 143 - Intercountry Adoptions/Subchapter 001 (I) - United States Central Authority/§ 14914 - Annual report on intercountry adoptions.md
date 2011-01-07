@@ -8,7 +8,7 @@ Beginning 1 year after the date of the entry into force of the Convention for th
 
 Each report under subsection (a) of this section shall set forth with respect to the year concerned, the following:
 
-&emsp;(1) The number of intercountry adoptions involving immigration to the United States, regardless of whether the adoption occurred under the Convention, including the country from which each child emigrated, the State to which each child immigrated, and the country in which the adoption was finalized.
+&emsp;(1) The number of intercountry adoptions involving immigration to the United States, regardless of whether the adoption occurred under the Convention, including the countryfrom which each child emigrated, the State to which each child immigrated, and the country in which the adoption was finalized.
 
 &emsp;(2) The number of intercountry adoptions involving emigration from the United States, regardless of whether the adoption occurred under the Convention, including the country to which each child immigrated and the State from which each child emigrated.
 
@@ -26,9 +26,13 @@ Each report under subsection (a) of this section shall set forth with respect to
 
 (Pub. L. 106–279, title I, §104, Oct. 6, 2000, 114 Stat. 829; Pub. L. 109–288, §6(f)(9), Sept. 28, 2006, 120 Stat. 1248.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (b)(5), (6), was in the original “this Act”, meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, known as the Intercountry Adoption Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 14901 of this title and Tables.
+
 #### Amendments
 
-2006—Subsec. (b)(3). Pub. L. 109–288 substituted “622(b)(12)” for “622(b)(14)”.
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–288 substituted “622(b)(12)” for “622(b)(14)”.
 
 #### Change of Name
 

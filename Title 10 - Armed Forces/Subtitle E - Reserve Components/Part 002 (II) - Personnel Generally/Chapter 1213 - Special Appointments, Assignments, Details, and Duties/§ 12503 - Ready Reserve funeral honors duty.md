@@ -26,15 +26,15 @@ Regulations.—The exercise of authority under subsection (a) is subject to regu
 
 (e)
 
-Members of the National Guard.—This section does not apply to members of the Army National Guard of the United States or the Air National Guard of the United States. The performance of funeral honors duty by those members is provided for in section 115 of title 32.
+Members of the National Guard.—This section does not apply to members of the ArmyNational Guard of the United States or the Air National Guard of the United States. The performance of funeral honors duty by those members is provided for in section 115 of title 32.
 
 (Added Pub. L. 106–65, div. A, title V, §578(g)(3), Oct. 5, 1999, 113 Stat. 628; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §575(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138; Pub. L. 107–107, div. A, title V, §562(a), Dec. 28, 2001, 115 Stat. 1119.)
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–107 inserted at end “Performance of funeral honors duty by a Reserve not on active duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 435 of title 37.”
+<b>2001</b>—Subsec. (a). Pub. L. 107–107 inserted at end “Performance of funeral honors duty by a Reserve not on active duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 435 of title 37.”
 
-2000—Subsec. (b)(2). Pub. L. 106–398 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “if authorized by the Secretary concerned, the allowance under section 435 of title 37.”
+<b>2000</b>—Subsec. (b)(2). Pub. L. 106–398 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “if authorized by the Secretary concerned, the allowance under section 435 of title 37.”
 
 #### Effective Date of 2001 Amendment
 

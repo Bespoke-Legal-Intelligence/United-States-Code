@@ -18,7 +18,7 @@ Section 2608, Pub. L. 95–207, §9, Dec. 13, 1977, 91 Stat. 1469; Pub. L. 96–
 
 Section 2609, Pub. L. 95–207, §10, Dec. 13, 1977, 91 Stat. 1470; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692, related to grants to States for model programs.
 
-Section 2610, Pub. L. 95–207, §11, Dec. 13, 1977, 91 Stat. 1470; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692, related to postsecondary educational career demonstration projects.
+Section 2610, Pub. L. 95–207, §11, Dec. 13, 1977, 91 Stat. 1470; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct.17, 1979, 93 Stat. 677, 692, related to postsecondary educational career demonstration projects.
 
 Section 2611, Pub. L. 95–207, §12, Dec. 13, 1977, 91 Stat. 1471; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692, related to career education information.
 

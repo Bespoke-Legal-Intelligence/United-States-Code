@@ -26,11 +26,11 @@ Covered Positions.—Subsection (a) applies to the following positions:
 
 #### Amendments
 
-2003—Subsec. (c). Pub. L. 108–136 struck out heading and text of subsec. (c). Text read as follows: “This section shall cease to be effective at the end of December 31, 2004.”
+<b>2003</b>—Subsec. (c). Pub. L. 108–136 struck out heading and text of subsec. (c). Text read as follows: “This section shall cease to be effective at the end of December 31, 2004.”
 
-2002—Subsec. (c). Pub. L. 107–314 substituted “December 31, 2004” for “September 30, 2003”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–314 substituted “December 31, 2004” for “September 30, 2003”.
 
-1999—Subsec. (c). Pub. L. 106–65 substituted “September 30, 2003” for “September 30, 2000”.
+<b>1999</b>—Subsec. (c). Pub. L. 106–65 substituted “September 30, 2003” for “September 30, 2000”.
 
-1996—Subsec. (c). Pub. L. 104–201 substituted “September 30, 2000” for “September 30, 1997”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–201 substituted “September 30, 2000” for “September 30, 1997”.
 

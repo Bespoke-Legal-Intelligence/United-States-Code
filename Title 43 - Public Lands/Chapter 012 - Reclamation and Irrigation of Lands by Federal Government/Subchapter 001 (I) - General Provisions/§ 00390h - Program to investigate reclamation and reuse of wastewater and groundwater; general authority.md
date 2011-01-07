@@ -26,7 +26,7 @@ Hereafter, referred to in subsec. (a), means hereafter in title XVI of Pub. L. 1
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–566 inserted “, and the State of Hawaii” before period at end.
+<b>2000</b>—Subsec. (b). Pub. L. 106–566 inserted “, and the State of Hawaii” before period at end.
 
 #### Short Title of 2005 Amendment
 

@@ -6,7 +6,7 @@ Except in the event of suit as provided in section 1984 of this title, or other 
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 785 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 785 of this title as this section.
 
 Pub. L. 102–83, §5(c)(1), substituted “1984” for “784”.
 

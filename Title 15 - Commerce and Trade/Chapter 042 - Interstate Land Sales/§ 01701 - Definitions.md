@@ -6,7 +6,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(2) “person” means an individual, or an unincorporated organization, partnership, association, corporation, trust, or estate;
 
-&emsp;(3) “subdivision” means any land which is located in any State or in a foreign countryand is divided or is proposed to be divided into lots, whether contiguous or not, for the purpose of sale or lease as part of a common promotional plan;
+&emsp;(3) “subdivision” means any land which is located in any State or in a foreign country and is divided or is proposed to be divided into lots, whether contiguous or not, for the purpose of sale or lease as part of a common promotional plan;
 
 &emsp;(4) “common promotional plan” means a plan, undertaken by a single developer or a group of developers acting in concert, to offer lots for sale or lease; where such land is offered for sale by such a developer or group of developers acting in concert, and such land is contiguous or is known, designated, or advertised as a common unit or by a common name, such land shall be presumed, without regard to the number of lots covered by each individual offering, as being offered for sale or lease as part of a common promotional plan;
 
@@ -24,19 +24,41 @@ For the purposes of this chapter, the term—
 
 &emsp;(11) “offer” includes any inducement, solicitation, or attempt to encourage a person to acquire a lot in a subdivision.
 
-(Pub. L. 90–448, title XIV, §1402, Aug. 1, 1968, 82 Stat. 590; Pub. L. 93–383, title VIII, §812(a), Aug. 22, 1974, 88 Stat. 736; Pub. L. 96–153, title IV, §401, Dec. 21, 1979, 93 Stat. 1122; Pub. L. 100–628, title X, §1089(a), Nov. 7, 1988, 102 Stat. 3283.)
+(Pub. L. 90–448, title XIV, §1402, Aug. 1, 1968, 82 Stat. 590; Pub. L. 93–383, title VIII, §812(a), Aug. 22, 1974, 88 Stat. 736; Pub. L. 96–153, title IV, §401, Dec. 21, 1979, 93 Stat. 1122; Pub. L. 100–628, title X, §1089(a), Nov. 7, 1988, 102 Stat. 3283; Pub. L. 111–203, title X, §1098A(4), July 21, 2010, 124 Stat. 2105.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1098A(4), 1100H, July 21, 2010, 124 Stat. 2105, 2113, provided that, effective on the designated transfer date, this section is amended:</i>
+
+<i>(1) by striking paragraph (1) and inserting the following:</i>
+
+&emsp;<i>“(1) ‘Director’ means the Director of the Bureau of Consumer Financial Protection;”;</i>
+
+<i>(2) in paragraph (10), by striking “and” at the end;</i>
+
+<i>(3) in paragraph (11), by striking the period at the end and inserting “; and”; and</i>
+
+<i>(4) by adding at the end the following:</i>
+
+&emsp;<i>“(12) ‘Bureau’ means the Bureau of Consumer Financial Protection.”</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-1988—Par. (10). Pub. L. 100–628 inserted “and” after semicolon.
+<b>1988</b>—Par. (10). Pub. L. 100–628 inserted “and” after semicolon.
 
-1979—Par. (3). Pub. L. 96–153 substituted provisions defining “subdivision” as the division or proposed division of land into lots for the purpose of sale or lease as part of a common promotional plan, for provisions defining “subdivision” as the division or proposed division of land into fifty or more lots for the purpose of sale or lease as part of a common promotional plan and presumptions respecting activities as being deemed part of such common promotional plan.
+<b>1979</b>—Par. (3). Pub. L. 96–153 substituted provisions defining “subdivision” as the division or proposed division of land into lots for the purpose of sale or lease as part of a common promotional plan, for provisions defining “subdivision” as the division or proposed division of land into fifty or more lots for the purpose of sale or lease as part of a common promotional plan and presumptions respecting activities as being deemed part of such common promotional plan.
 
 Pars. (4) to (11). Pub. L. 96–153 added par. (4) and redesignated former pars. (4) to (10) as (5) to (11), respectively.
 
-1974—Par. (3). Pub. L. 93–383, §812(a)(1), inserted “, located in any State or in a foreign country” after “any land”.
+<b>1974</b>—Par. (3). Pub. L. 93–383, §812(a)(1), inserted “, located in any State or in a foreign country” after “any land”.
 
 Par. (7). Pub. L. 93–383, §812(a)(2), inserted “or between any foreign country and any State” after “States”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1979 Amendment
 

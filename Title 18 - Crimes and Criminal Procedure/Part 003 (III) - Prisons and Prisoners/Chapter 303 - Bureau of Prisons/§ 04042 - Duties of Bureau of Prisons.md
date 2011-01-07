@@ -10,7 +10,7 @@ In General.—The Bureau of Prisons, under the direction of the Attorney General
 
 &emsp;(3) provide for the protection, instruction, and discipline of all persons charged with or convicted of offenses against the United States;
 
-&emsp;(4) provide technical assistance to State and local governments in the improvement of their correctional systems;
+&emsp;(4) provide technical assistance to State, tribal, and local governments in the improvement of their correctional systems;
 
 &emsp;(5) provide notice of release of prisoners in accordance with subsections (b) and (c);
 
@@ -38,7 +38,7 @@ In General.—The Bureau of Prisons, under the direction of the Attorney General
 
 (b)
 
-Notice of Release of Prisoners.—(1) At least 5 days prior to the date on which a prisoner described in paragraph (3) is to be released on supervised release, or, in the case of a prisoner on supervised release, at least 5 days prior to the date on which the prisoner changes residence to a new jurisdiction, written notice of the release or change of residence shall be provided to the chief law enforcement officer of the State and of the local jurisdiction in which the prisoner will reside. Notice prior to release shall be provided by the Director of the Bureau of Prisons. Notice concerning a change of residence following release shall be provided by the probation officer responsible for the supervision of the released prisoner, or in a manner specified by the Director of the Administrative Office of the United States Courts. The notice requirements under this subsection do not apply in relation to a prisoner being protected under chapter 224.
+Notice of Release of Prisoners.—(1) At least 5 days prior to the date on which a prisoner described in paragraph (3) is to be released on supervised release, or, in the case of a prisoner on supervised release, at least 5 days prior to the date on which the prisoner changes residence to a new jurisdiction, written notice of the release or change of residence shall be provided to the chief law enforcement officers of each State, tribal, and local jurisdiction in which the prisoner will reside. Notice prior to release shall be provided by the Director of the Bureau of Prisons. Notice concerning a change of residence following release shall be provided by the probation officer responsible for the supervision of the released prisoner, or in a manner specified by the Director of the Administrative Office of the United States Courts. The notice requirements under this subsection do not apply in relation to a prisoner being protected under chapter 224.
 
 (2) A notice under paragraph (1) shall disclose—
 
@@ -58,9 +58,9 @@ Notice of Release of Prisoners.—(1) At least 5 days prior to the date on which
 
 Notice of Sex Offender Release.—(1) In the case of a person described in paragraph (3), or any other person in a category specified by the Attorney General, who is released from prison or sentenced to probation, notice shall be provided to—
 
-&emsp;(A) the chief law enforcement officer of the State and of the local jurisdiction in which the person will reside; and
+&emsp;(A) the chief law enforcement officer of each State, tribal, and local jurisdiction in which the person will reside; and
 
-&emsp;(B) a State or local agency responsible for the receipt or maintenance of sex offender registration information in the State or local jurisdiction in which the person will reside.
+&emsp;(B) a State, tribal, or local agency responsible for the receipt or maintenance of sex offender registration information in the State, tribal, or local jurisdiction in which the person will reside.
 
 > The notice requirements under this subsection do not apply in relation to a person being protected under chapter 224.
 
@@ -76,7 +76,7 @@ Notice of Sex Offender Release.—(1) In the case of a person described in parag
 
 Application of Section.—This section shall not apply to military or naval penal or correctional institutions or the persons confined therein.
 
-(June 25, 1948, ch. 645, 62 Stat. 849; Pub. L. 90–371, July 1, 1968, 82 Stat. 280; Pub. L. 103–322, title II, §20417, Sept. 13, 1994, 108 Stat. 1834; Pub. L. 105–119, title I, §115(a)(8)(A), Nov. 26, 1997, 111 Stat. 2464; Pub. L. 109–248, title I, §141(f)–(h), July 27, 2006, 120 Stat. 603, 604; Pub. L. 110–199, title II, §231(d)(1), Apr. 9, 2008, 122 Stat. 685.)
+(June 25, 1948, ch. 645, 62 Stat. 849; Pub. L. 90–371, July 1, 1968, 82 Stat. 280; Pub. L. 103–322, title II, §20417, Sept. 13, 1994, 108 Stat. 1834; Pub. L. 105–119, title I, §115(a)(8)(A), Nov. 26, 1997, 111 Stat. 2464; Pub. L. 109–248, title I, §141(f)–(h), July 27, 2006, 120 Stat. 603, 604; Pub. L. 110–199, title II, §231(d)(1), Apr. 9, 2008, 122 Stat. 685; Pub. L. 111–211, title II, §261(a), July 29, 2010, 124 Stat. 2299.)
 
 #### Historical and Revision Notes
 
@@ -94,9 +94,17 @@ The Sex Offender Registration and Notification Act, referred to in subsec. (c)(2
 
 #### Amendments
 
-2008—Subsec. (a)(D), (E). Pub. L. 110–199 added pars. (D) and (E).
+<b>2010</b>—Subsec. (a)(4). Pub. L. 111–211, §261(a)(1), inserted “, tribal,” after “State”.
 
-2006—Subsec. (c)(1). Pub. L. 109–248, §141(g)(1), substituted “paragraph (3), or any other person in a category specified by the Attorney General,” for “paragraph (4)” in introductory provisions.
+Subsec. (b)(1). Pub. L. 111–211, §261(a)(2), substituted “officers of each State, tribal, and local jurisdiction” for “officer of the State and of the local jurisdiction”.
+
+Subsec. (c)(1)(A). Pub. L. 111–211, §261(a)(3)(A), substituted “officer of each State, tribal, and local jurisdiction” for “officer of the State and of the local jurisdiction”.
+
+Subsec. (c)(1)(B). Pub. L. 111–211, §261(a)(3)(B), inserted “, tribal,” after “State” in two places.
+
+<b>2008</b>—Subsec. (a)(D), (E). Pub. L. 110–199 added pars. (D) and (E).
+
+<b>2006</b>—Subsec. (c)(1). Pub. L. 109–248, §141(g)(1), substituted “paragraph (3), or any other person in a category specified by the Attorney General,” for “paragraph (4)” in introductory provisions.
 
 Subsec. (c)(2). Pub. L. 109–248, §141(g)(2), substituted “shall register as required by the Sex Offender Registration and Notification Act” for “shall be subject to a registration requirement as a sex offender” in first sentence and “paragraph (3)” for “paragraph (4)” in fourth sentence.
 
@@ -114,19 +122,19 @@ Subsec. (c)(4). Pub. L. 109–248, §141(h), struck out par. (4) which read as f
 
 &emsp;“(E) Any other offense designated by the Attorney General as a sexual offense for purposes of this subsection.”
 
-1997—Subsec. (a)(5). Pub. L. 105–119, §115(a)(8)(A)(i), substituted “subsections (b) and (c)” for “subsection (b)”.
+<b>1997</b>—Subsec. (a)(5). Pub. L. 105–119, §115(a)(8)(A)(i), substituted “subsections (b) and (c)” for “subsection (b)”.
 
 Subsec. (b)(4). Pub. L. 105–119, §115(a)(8)(A)(ii), struck out par. (4) which read as follows: “The notice provided under this section shall be used solely for law enforcement purposes.”
 
 Subsecs. (c), (d). Pub. L. 105–119, §115(a)(8)(A)(iv), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1994—Pub. L. 103–322 designated first par. of existing provisions as subsec. (a) and inserted heading, substituted “provide” for “Provide” and “; and” for periodat end of par. (4), added par. (5) and subsec. (b), and designated second sentence of existing provisions as subsec. (c) and inserted heading.
+<b>1994</b>—Pub. L. 103–322 designated first par. of existing provisions as subsec. (a) and inserted heading, substituted “provide” for “Provide” and “; and” for period at end of par. (4), added par. (5) and subsec. (b), and designated second sentence of existing provisions as subsec. (c) and inserted heading.
 
-1968—Pub. L. 90–371 added cl. (4).
+<b>1968</b>—Pub. L. 90–371 added cl. (4).
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–119 effective 1 year after Nov. 26, 1997, see section 115(c)(1) of Pub. L. 105–119, set out as a note under section 14071 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 105–119 effective 1 year after Nov. 26, 1997, see section 115(c)(1) of Pub. L. 105–119, set out as a note under section 3521 of this title.
 
 #### Construction of 2008 Amendment
 
@@ -200,7 +208,7 @@ Pub. L. 101–647, title XXIX, §2907, Nov. 29, 1990, 104 Stat. 4915, provided t
 
 Pub. L. 100–690, title VII, §7302, Nov. 18, 1988, 102 Stat. 4463, provided that: “In conjunction with the Department of Defense and the Commission on Alternative Utilization of Military Facilities as established in the National Defense Authorization Act of Fiscal Year 1989 \[see section 2819 of Pub. L. 100–456, 104 Stat. 1820, formerly set out as a note under section 2391 of Title 10, Armed Forces\], the Bureau of Prisons shall be responsible for—
 
-&emsp;“(1) administering Bureau of Prisons confinement facilities for civilian nonviolent prisoners located on military installations in cooperation with the Secretary of Defense, with an emphasis on placing women inmates in such facilities, or in similar minimum security confinement facilities not located on military installations, so that the percentage of eligible women equals the percentage of eligible men housed in such or similar minimum security confinement facilities (i.e., prison camps);
+&emsp;“(1) administering Bureau of Prisons confinement facilities for civilian nonviolent prisoners located on military installations in cooperation with the Secretary of Defense, with an emphasis on placing women inmates in such facilities, or in similar minimum security confinement facilities not located on military installations, so that the percentage of eligible women equals the percentage of eligible menhoused in such or similar minimum security confinement facilities (i.e., prison camps);
 
 &emsp;“(2) establishing and regulating drug treatment programs for inmates held in such facilities in coordination and cooperation with the National Institute on Drug Abuse; and
 

@@ -28,7 +28,7 @@ Notwithstanding section 2055(a)(3) of this title, the Commission may provide to 
 
 &emsp;(B) any information contained in any such report,
 
-> which the agency or authority makes available to any member of the public. No Federal agencyor State or local agency or authority may disclose to the public any information contained in a report received by the agency or authority under this subsection unless with respect to such information the Commission has complied with the applicable requirements of section 2055(b) of this title.
+> which the agency or authority makes available to any member of the public. No Federal agency or State or local agency or authority may disclose to the public any information contained in a report received by the agency or authority under this subsection unless with respect to such information the Commission has complied with the applicable requirements of section 2055(b) of this title.
 
 #### (f) Sharing of information with Federal, State, local, and foreign government agencies
 
@@ -82,11 +82,11 @@ Whenever the Commission is notified of any voluntary corrective action taken by 
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–314, §235(c)(7), substituted “Notwithstanding section 2055(a)(3) of this title, the Commission” for “The Commission” in introductory provisions.
+<b>2008</b>—Subsec. (e). Pub. L. 110–314, §235(c)(7), substituted “Notwithstanding section 2055(a)(3) of this title, the Commission” for “The Commission” in introductory provisions.
 
 Subsecs. (f), (g). Pub. L. 110–314, §207, added subsecs. (f) and (g).
 
-1988—Subsec. (d). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+<b>1988</b>—Subsec. (d). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
-1976—Subsec. (e). Pub. L. 94–284 added subsec. (e).
+<b>1976</b>—Subsec. (e). Pub. L. 94–284 added subsec. (e).
 

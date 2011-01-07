@@ -28,7 +28,7 @@ For purposes of sections 3201(b), 3211(b), and 3221(b), the applicable percentag
 
 #### (1) Average account benefits ratio
 
-&emsp;For purposes of this section, the term “average account benefits ratio” means, with respect to any calendar year, the average determined by the Secretary of the account benefits ratios for the 10 most recent fiscal yearsending before such calendar year. If the amount determined under the preceding sentence is not a multiple of 0.1, such amount shall be increased to the next highest multiple of 0.1.
+&emsp;For purposes of this section, the term “average account benefits ratio” means, with respect to any calendar year, the average determined by the Secretary of the account benefits ratios for the 10 most recent fiscal years ending before such calendar year. If the amount determined under the preceding sentence is not a multiple of 0.1, such amount shall be increased to the next highest multiple of 0.1.
 
 #### (2) Account benefits ratio
 

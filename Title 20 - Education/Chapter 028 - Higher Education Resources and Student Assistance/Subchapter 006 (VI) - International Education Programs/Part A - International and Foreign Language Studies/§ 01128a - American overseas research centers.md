@@ -52,5 +52,5 @@ Another prior section 609 of Pub. L. 89–329, title VI, Nov. 8, 1965, 79 Stat. 
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–315 added subsec. (e).
+<b>2008</b>—Subsec. (e). Pub. L. 110–315 added subsec. (e).
 

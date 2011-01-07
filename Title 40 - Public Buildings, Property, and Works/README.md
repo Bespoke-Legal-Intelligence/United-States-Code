@@ -1,5 +1,5 @@
 
-40 U.S.C.<br>United States Code, 2009 Edition<br>Title 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS<br>From the U.S. Government Publishing Office, www.gpo.gov
+40 U.S.C.<br>United States Code, 2010 Edition<br>Title 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 40—PUBLIC BUILDINGS, PROPERTY, AND WORKS
 
@@ -18,7 +18,7 @@
 
 #### Amendments
 
-2008—Pub. L. 110–234, title XIV, §14217(b), May 22, 2008, 122 Stat. 1482, and Pub. L. 110–246, title XIV, §14217(b), June 18, 2008, 122 Stat. 2244, which directed identical amendments to the table of subtitles for “chapter 40, United States Code” by adding items for subtitles V and VI and striking out item for subtitle V, was executed by amending the table of subtitles for this title, to reflect the probable intent of Congress. Prior to amendment, the item for subtitle V read “Miscellaneous”. The amendment by Pub. L. 110–234 was repealed by Pub. L. 110–246, §4(a), June 18, 2008, 122 Stat. 1664.
+<b>2008</b>—Pub. L. 110–234, title XIV, §14217(b), May 22, 2008, 122 Stat. 1482, and Pub. L. 110–246, title XIV, §14217(b), June 18, 2008, 122 Stat. 2244, which directed identical amendments to the table of subtitles for “chapter 40, United States Code” by adding items for subtitles V and VI and striking out item for subtitle V, was executed by amending the table of subtitles for this title, to reflect the probable intent of Congress. Prior to amendment, the item for subtitle V read “Miscellaneous”. The amendment by Pub. L. 110–234 was repealed by Pub. L. 110–246, §4(a), June 18, 2008, 122 Stat. 1664.
 
 Table Showing Disposition of All Sections of Former Title 40
 
@@ -3824,7 +3824,7 @@ Severability.—If a provision enacted by this Act is held invalid, all valid pr
 
 Pub. L. 108–178, §2(b), Dec. 15, 2003, 117 Stat. 2640, provided that: “Section 6(b) of Public Law 107–217 (116 Stat. 1304) \[see below\] is repealed insofar as it relates to the provisions listed below, and the provisions listed below are revived to read as if section 6(b) had not been enacted:
 
-&emsp;“(1) Section 1(a) of the Act of June 30, 1949 (ch. 288, 63 Stat. 377) \[41 U.S.C. 251 note\].
+&emsp;“(1) Section 1(a) of the Act of June 30, 1949 (ch. 288, 63 Stat. 377) \[41 U.S.C. 101 note\].
 
 &emsp;“(2) Section 509(b) of the Department of Education Organization Act (Public Law 96–88, 93 Stat. 695) \[20 U.S.C. 3508(b)\].
 

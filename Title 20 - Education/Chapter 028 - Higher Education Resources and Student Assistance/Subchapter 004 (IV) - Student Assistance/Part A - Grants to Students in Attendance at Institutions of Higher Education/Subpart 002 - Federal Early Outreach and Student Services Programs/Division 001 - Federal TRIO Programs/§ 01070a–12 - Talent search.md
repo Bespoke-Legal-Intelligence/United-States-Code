@@ -70,7 +70,7 @@ In approving applications for projects under this section for any fiscal year th
 
 #### Amendments
 
-2008—Subsec. (a)(2). Pub. L. 110–315, §403(b)(1)(A), inserted “, and facilitate the application for,” after “the availability of”.
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–315, §403(b)(1)(A), inserted “, and facilitate the application for,” after “the availability of”.
 
 Subsec. (a)(3). Pub. L. 110–315, §403(b)(1)(B), substituted “to enter or reenter, and complete” for “, but who have the ability to complete such programs, to reenter”.
 
@@ -78,7 +78,7 @@ Subsecs. (b), (c). Pub. L. 110–315, §403(b)(3), added subsecs. (b) and (c) an
 
 Subsec. (d). Pub. L. 110–315, §403(b)(2), (4), redesignated subsec. (c) as (d) and substituted “projects under this section” for “talent search projects under this division” in introductory provisions.
 
-1998—Subsec. (b)(4). Pub. L. 105–244, §402(b)(1), added par. (4) and struck out former par. (4) which read as follows: “guidance on secondary school reentry or entry to general educational development (GED) programs or other alternative education programs for secondary school dropouts;”.
+<b>1998</b>—Subsec. (b)(4). Pub. L. 105–244, §402(b)(1), added par. (4) and struck out former par. (4) which read as follows: “guidance on secondary school reentry or entry to general educational development (GED) programs or other alternative education programs for secondary school dropouts;”.
 
 Subsec. (b)(5). Pub. L. 105–244, §402(b)(2), inserted before semicolon “, or activities designed to acquaint individuals from disadvantaged backgrounds with careers in which the individuals are particularly underrepresented”.
 

@@ -6,5 +6,5 @@ The Secretary may acquire only such interest in the right-of-way designated “C
 
 #### Amendments
 
-1986—Pub. L. 99–583 inserted provisions relating to acquisition of interests in the rights-of-way designated Crossing B and Crossing C.
+<b>1986</b>—Pub. L. 99–583 inserted provisions relating to acquisition of interests in the rights-of-way designated Crossing B and Crossing C.
 

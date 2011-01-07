@@ -16,7 +16,7 @@ Section 240 of the Immigration and Nationality Act, referred to in subsecs. (b) 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–208, §308(g)(5)(A)(iv)(I), substituted “section 240B of the Immigration and Nationality Act” for “section 1252(b) or section 1254(e) of title 8, United States Code,”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §308(g)(5)(A)(iv)(I), substituted “section 240B of the Immigration and Nationality Act” for “section 1252(b) or section 1254(e) of title 8, United States Code,”.
 
 Subsec. (b). Pub. L. 104–208, §308(g)(5)(A)(iv)(II), substituted “section 240 of the Immigration and Nationality Act” for “section 1252 of title 8, United States Code,”.
 

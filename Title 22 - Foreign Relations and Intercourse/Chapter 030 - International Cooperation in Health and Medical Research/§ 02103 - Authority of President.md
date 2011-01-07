@@ -14,7 +14,7 @@ To carry out his responsibilities under this chapter the President may—
 
 &emsp;(1) establish and maintain fellowships in participating foreign countries;
 
-&emsp;(2) make financial grants to establish and maintain fellowships, and for other purposes, to public institutions and agencies and to nonprofit private institutions and agencies, and to individuals in participating foreign countries, or contract with such institutions, agencies, or individuals without regard to section 3324(a) and (b) of title 31 and section 5 of title 41;
+&emsp;(2) make financial grants to establish and maintain fellowships, and for other purposes, to public institutions and agencies and to nonprofit private institutions and agencies, and to individuals in participating foreign countries, or contract with such institutions, agencies, or individuals without regard to section3324(a) and (b) of title 31 and section 6101 of title 41;
 
 &emsp;(3) make grants or loans of equipment, medical, biological, physical, or chemical substances or other materials, for use by such institutions, agencies, or individuals;
 
@@ -66,15 +66,17 @@ Section 142(b) of the Mutual Security Act of 1954, referred to in subsec. (g), w
 
 #### Codification
 
-In subsecs. (c)(2) and (g), “section 3324(a) and (b) of title 31” was substituted for reference to section 3648 of the Revised Statutes of the United States \[31 U.S.C. 529\], and “section 1306 of title 31” was substituted for “section 1415 of the Supplemental Appropriation Act, 1953 \[31 U.S.C. 724\]”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c)(2), “section 3324(a) and (b) of title 31 and section 6101 of title 41” substituted for “sections 3648 and 3709 of the Revised Statutes of the United States” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (e), “section 3109 of title 5” and “section 5703 of title 5” were substituted for “section 15 of the Administrative Expenses Act of 1946 (5 U.S.C. 55a)” and “section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 73b–2)”, respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (e), “section 3109 of title 5” and “section 5703 of title 5” substituted for “section 15 of the Administrative Expenses Act of 1946 (5 U.S.C. 55a)” and “section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 73b–2)”, respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, which Act enacted Title 5, Government Organization and Employees.
+
+In subsec. (g), “section 1306 of title 31” substituted for “section 1415 of the Supplemental Appropriation Act, 1953” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance.
 
 #### Amendments
 
-2008—Subsec. (g). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+<b>2008</b>—Subsec. (g). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
-1998—Subsec. (h). Pub. L. 105–362 struck out subsec. (h) which read as follows: “The President shall transmit to the Congress at the beginning of each regular session, a report summarizing activities under this section and making such recommendations as he may deem appropriate.”
+<b>1998</b>—Subsec. (h). Pub. L. 105–362 struck out subsec. (h) which read as follows: “The President shall transmit to the Congress at the beginning of each regular session, a report summarizing activities under this section and making such recommendations as he may deem appropriate.”
 
 #### Effective Date of 2008 Amendment
 

@@ -28,7 +28,7 @@ An association of brokers and dealers shall not be registered as a national secu
 
 &emsp;(10) The requirements of subsection (c) of this section, insofar as these may be applicable, are satisfied.
 
-&emsp;(11) The rules of the association include provisions governing the form and content of quotations relating to securities sold otherwise than on a national securities exchangewhich may be distributed or published by any member or person associated with a member, and the persons to whom such quotations may be supplied. Such rules relating to quotations shall be designed to produce fair and informative quotations, to prevent fictitious or misleading quotations, and to promote orderly procedures for collecting, distributing, and publishing quotations.
+&emsp;(11) The rules of the association include provisions governing the form and content of quotations relating to securities sold otherwise than on a national securities exchange which may be distributed or published by any member or person associated with a member, and the persons to whom such quotations may be supplied. Such rules relating to quotations shall be designed to produce fair and informative quotations, to prevent fictitious or misleading quotations, and to promote orderly procedures for collecting, distributing, and publishing quotations.
 
 &emsp;(12) The rules of the association to promote just and equitable principles of trade, as required by paragraph (6), include rules to prevent members of the association from participating in any limited partnership rollup transaction (as such term is defined in paragraphs (4) and (5) of section 78n(h) of this title) unless such transaction was conducted in accordance with procedures designed to protect the rights of limited partners, including—
 
@@ -74,7 +74,7 @@ An association of brokers and dealers shall not be registered as a national secu
 
 > &emsp;As used in this paragraph, the term “dissenting limited partner” means a person who, on the date on which soliciting material is mailed to investors, is a holder of a beneficial interest in a limited partnership that is the subject of a limited partnership rollup transaction, and who casts a vote against the transaction and complies with procedures established by the association, except that for purposes of an exchange or tender offer, such person shall file an objection in writing under the rules of the association during the period during which the offer is outstanding.
 
-&emsp;(14) The rules of the association include provisions governing the sales, or offers of sales, of securities on the premises of any military installation to any member of the ArmedForces or a dependent thereof, which rules require—
+&emsp;(14) The rules of the association include provisions governing the sales, or offers of sales, of securities on the premises of any military installation to any member of the Armed Forces or a dependent thereof, which rules require—
 
 &emsp;&emsp;(A) the broker or dealer performing brokerage services to clearly and conspicuously disclose to potential investors—
 
@@ -86,6 +86,16 @@ An association of brokers and dealers shall not be registered as a national secu
 
 &emsp;&emsp;(C) that no person receive any referral fee or incentive compensation in connection with a sale or offer of sale of securities, unless such person is an associated person of a registered broker or dealer and is qualified pursuant to the rules of a self-regulatory organization.
 
+&emsp;(15) The rules of the association provide that the association shall—
+
+&emsp;&emsp;(A) request guidance from the Municipal Securities Rulemaking Board in interpretation of the rules of the Municipal Securities Rulemaking Board; and
+
+&emsp;&emsp;(B) provide information to the Municipal Securities Rulemaking Board about the enforcement actions and examinations of the association under section 78<i>o</i>–4(b)(2)(E) of this title, so that the Municipal Securities Rulemaking Board may—
+
+&emsp;&emsp;&emsp;(i) assist in such enforcement actions and examinations; and
+
+&emsp;&emsp;&emsp;(ii) evaluate the ongoing effectiveness of the rules of the Board.
+
 #### (c) National association rules; provision for registration of affiliated securities association
 
 The Commission may permit or require the rules of an association applying for registration pursuant to subsection (b) of this section, to provide for the admission of an association registered as an affiliated securities association pursuant to subsection (d) of this section, to participation in said applicant association as an affiliate thereof, under terms permitting such powers and responsibilities to such affiliate, and under such other appropriate terms and conditions, as may be provided by the rules of said applicant association, if such rules appear to the Commission to be necessary or appropriate in the public interest or for the protection of investors and to carry out the purposes of this section. The duties and powers of the Commission with respect to any national securities association or any affiliated securities association shall in no way be limited by reason of any such affiliation.
@@ -96,7 +106,7 @@ An applicant association shall not be registered as an affiliated securities ass
 
 &emsp;(1) such association, notwithstanding that it does not satisfy the requirements set forth in paragraph (1) of subsection (b) of this section, will, forthwith upon the registration thereof, be admitted to affiliation with an association registered as a national securities association pursuant to subsection (b) of this section, in the manner and under the terms and conditions provided by the rules of said national securities association in accordance with subsection (c) of this section; and
 
-&emsp;(2) such association and its rules satisfy the requirements set forth in paragraphs (2) to (10), inclusive, and paragraph (12),<sup>1</sup> of subsection (b) of this section; except that in the case of any such association any restrictions upon membership therein of the type authorized by paragraph (3) of subsection (b) of this section shall not be less stringent than in the case of the national securities association with which such association is to be affiliated.
+&emsp;(2) such association and its rules satisfy the requirements set forth in paragraphs (2) to\(10), inclusive, and paragraph (12),<sup>1</sup> of subsection (b) of this section; except that in the case of any such association any restrictions upon membership therein of the type authorized by paragraph (3) of subsection (b) of this section shall not be less stringent than in the case of the national securities association with which such association is to be affiliated.
 
 #### (e) Dealings with nonmember professionals
 
@@ -114,7 +124,7 @@ Nothing in subsection (b)(6) or (b)(11) of this section shall be construed to pe
 
 (1) A registered securities association shall deny membership to any person who is not a registered broker or dealer.
 
-(2) A registered securities association may, and in cases in which the Commission, by order, directs as necessary or appropriate in the public interest or for the protection of investors shall, deny membership to any registered broker or dealer, and bar from becoming associated with amember any person, who is subject to a statutory disqualification. A registered securities association shall file notice with the Commission not less than thirty days prior to admitting any registered broker or dealer to membership or permitting any person to become associated with a member, if the association knew, or in the exercise of reasonable care should have known, that such broker or dealer or person was subject to a statutory disqualification. The notice shall be in such form and contain such information as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors.
+(2) A registered securities association may, and in cases in which the Commission, by order, directs as necessary or appropriate in the public interest or for the protection of investors shall, deny membership to any registered broker or dealer, and bar from becoming associated with a member any person, who is subject to a statutory disqualification. A registered securities association shall file notice with the Commission not less than thirty days prior to admitting any registered broker or dealer to membership or permitting any person to become associated with a member, if the association knew, or in the exercise of reasonable care should have known, that such broker or dealer or person was subject to a statutory disqualification. The notice shall be in such form and contain such information as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
 (3)(A) A registered securities association may deny membership to, or condition the membership of, a registered broker or dealer if (i) such broker or dealer does not meet such standards of financial responsibility or operational capability or such broker or dealer or any natural person associated with such broker or dealer does not meet such standards of training, experience, and competence as are prescribed by the rules of the association or (ii) such broker or dealer or person associated with such broker or dealer has engaged and there is a reasonable likelihood he will again engage in acts or practices inconsistent with just and equitable principles of trade. A registered securities association may examine and verify the qualifications of an applicant to become a member and the natural persons associated with such an applicant in accordance with procedures established by the rules of the association.
 
@@ -122,7 +132,7 @@ Nothing in subsection (b)(6) or (b)(11) of this section shall be construed to pe
 
 (C) A registered securities association may bar any person from becoming associated with a member if such person does not agree (i) to supply the association with such information with respect to its relationship and dealings with the member as may be specified in the rules of the association and (ii) to permit examination of its books and records to verify the accuracy of any information so supplied.
 
-(D) Nothing in subparagraph (A), (B), or (C) of this paragraph shall be construed to permit a registered securities association to deny membership to or condition the membership of, or bar any person from becoming associated with or condition the association of any person with, a broker or dealer that engages exclusively in transactions in municipal securities.
+(D) Nothing in subparagraph (A), (B), or (C) of this paragraph shall be construed to permit a registered securities association to deny membership to or condition the membership of, or bar any person from becoming associated with or condition the association of any person with,a broker or dealer that engages exclusively in transactions in municipal securities.
 
 (4) A registered securities association may deny membership to a registered broker or dealer not engaged in a type of business in which the rules of the association require members to be engaged: <i>Provided, however</i>, That no registered securities association may deny membership to a registered broker or dealer by reason of the amount of such type of business done by such broker or dealer or the other types of business in which he is engaged.
 
@@ -138,7 +148,7 @@ Nothing in subsection (b)(6) or (b)(11) of this section shall be construed to pe
 
 (2) In any proceeding by a registered securities association to determine whether a person shall be denied membership, barred from becoming associated with a member, or prohibited or limited with respect to access to services offered by the association or a member thereof (other than a summary proceeding pursuant to paragraph (3) of this subsection), the association shall notify such person of and give him an opportunity to be heard upon, the specific grounds for denial, bar, or prohibition or limitation under consideration and keep a record. A determination by the association to deny membership, bar a person from becoming associated with a member, or prohibit or limit a person with respect to access to services offered by the association or a member thereof shall be supported by a statement setting forth the specific grounds on which the denial, bar, or prohibition or limitation is based.
 
-(3) A registered securities association may summarily (A) suspend a member or person associated with a member who has been and is expelled or suspended from any self-regulatory organization or barred or suspended from being associated with a member of any self-regulatory organization, (B) suspend a member who is in such financial or operating difficulty that the association determines and so notifies the Commission that the member cannot be permitted to continue to do business as a member with safety to investors, creditors, other members, or the association, or (C) limit or prohibit any person with respect to access to services offered by the association if subparagraph (A) or (B) of this paragraph is applicable to such person or, in thecase of a person who is not a member, if the association determines that such person does not meet the qualification requirements or other prerequisites for such access and such person cannot be permitted to continue to have such access with safety to investors, creditors, members, or the association. Any person aggrieved by any such summary action shall be promptly afforded an opportunity for a hearing by the association in accordance with the provisions of paragraph (1) or (2) of this subsection. The Commission, by order, may stay any such summary action on its own motion or upon application by any person aggrieved thereby, if the Commission determines summarily or after notice and opportunity for hearing (which hearing may consist solely of the submission of affidavits or presentation of oral arguments) that such stay is consistent with the public interest and the protection of investors.
+(3) A registered securities association may summarily (A) suspend a member or person associated with a member who has been and is expelled or suspended from any self-regulatory organization or barred or suspended from being associated with a member of any self-regulatory organization, (B) suspend a member who is in such financial or operating difficulty that the association determines and so notifies the Commission that the member cannot be permitted to continue to do business as a member with safety to investors, creditors, other members, or the association, or (C) limit or prohibit any person with respect to access to services offered by the association if subparagraph (A) or (B) of this paragraph is applicable to such person or, in the case of a person who is not a member, if the association determines that such person does not meet the qualification requirements or other prerequisites for such access and such person cannot be permitted to continue to have such access with safety to investors, creditors, members, or the association. Any person aggrieved by any such summary action shall be promptly afforded an opportunity for a hearing by the association in accordance with the provisions of paragraph (1) or (2) of this subsection. The Commission, by order, may stay any such summary action on its own motion or upon application by any person aggrieved thereby, if the Commission determines summarily or after notice and opportunity for hearing (which hearing may consist solely of the submission of affidavits or presentation of oral arguments) that such stay is consistent with the public interest and the protection of investors.
 
 #### (i) Obligation to maintain registration, disciplinary, and other data
 
@@ -232,7 +242,7 @@ Consistent with this chapter, each national securities association registered pu
 
 A national securities association registered pursuant to subsection (a) of this section shall, not later than 8 months after December 21, 2000, implement the procedures specified in section 78f(h)(5)(A) of this title and adopt the rules specified in subparagraphs (B) and (C) of section 78f(h)(5) of this title.
 
-(June 6, 1934, ch. 404, title I, §15A, as added June 25, 1938, ch. 677, §1, 52 Stat. 1070; amended Pub. L. 88–467, §7, Aug. 20, 1964, 78 Stat. 574; Pub. L. 94–29, §12, June 4, 1975, 89 Stat. 127; Pub. L. 99–571, title I, §102(g), Oct. 28, 1986, 100 Stat. 3218; Pub. L. 101–429, title V, §509, Oct. 15, 1990, 104 Stat. 957; Pub. L. 103–202, title I, §106(b)(1), title III, §303(a), (c), Dec. 17, 1993, 107 Stat. 2350, 2364, 2366; Pub. L. 106–102, title II, §203, Nov. 12, 1999, 113 Stat. 1391; Pub. L. 106–554, §1(a)(5) \[title II, §§203(c), 206(j), (k)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–422, 2763A–433; Pub. L. 109–290, §§5, 6, Sept. 29, 2006, 120 Stat. 1319, 1320.)
+(June 6, 1934, ch. 404, title I, §15A, as added June 25, 1938, ch. 677, §1, 52 Stat. 1070; amended Pub. L. 88–467, §7, Aug. 20, 1964, 78 Stat. 574; Pub. L. 94–29, §12, June 4, 1975, 89 Stat. 127; Pub. L. 99–571, title I, §102(g), Oct. 28, 1986, 100 Stat. 3218; Pub. L. 101–429, title V, §509, Oct. 15, 1990, 104 Stat. 957; Pub. L. 103–202, title I, §106(b)(1), title III, §303(a), (c), Dec. 17, 1993, 107 Stat. 2350, 2364, 2366; Pub. L. 106–102, title II, §203, Nov. 12, 1999, 113 Stat. 1391; Pub. L. 106–554, §1(a)(5) \[title II, §§203(c), 206(j), (k)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–422, 2763A–433; Pub. L. 109–290, §§5, 6, Sept. 29, 2006, 120 Stat. 1319, 1320; Pub. L. 111–203, title IX, §975(f), July 21, 2010, 124 Stat. 1923.)
 
 #### References in Text
 
@@ -242,19 +252,21 @@ Paragraph (12), of subsection (b) of this section, referred to in subsec. (d)(2)
 
 #### Amendments
 
-2006—Subsec. (b)(14). Pub. L. 109–290, §5, added par. (14).
+<b>2010</b>—Subsec. (b)(15). Pub. L. 111–203 added par. (15).
+
+<b>2006</b>—Subsec. (b)(14). Pub. L. 109–290, §5, added par. (14).
 
 Subsec. (i). Pub. L. 109–290, §6, inserted heading and amended text of subsec. (i) generally. Prior to amendment, text read as follows: “A registered securities association shall, within one year from October 15, 1990, (1) establish and maintain a toll-free telephone listing to receive inquiries regarding disciplinary actions involving its members and their associated persons, and (2) promptly respond to such inquiries in writing. Such association may charge persons, other than individual investors, reasonable fees for written responses to such inquiries. Such an association shall not have any liability to any person for any actions taken or omitted in good faith under this paragraph.”
 
-2000—Subsec. (k). Pub. L. 106–554, §1(a)(5) \[title II, §203(c)\], added subsec. (k).
+<b>2000</b>—Subsec. (k). Pub. L. 106–554, §1(a)(5) \[title II, §203(c)\], added subsec. (k).
 
 Subsec. (<i>l</i>). Pub. L. 106–554, §1(a)(5) \[title II, §206(j)\], added subsec. (<i>l</i>).
 
 Subsec. (m). Pub. L. 106–554, §1(a)(5) \[title II, §206(k)(1)\], added subsec. (m).
 
-1999—Subsec. (j). Pub. L. 106–102 added subsec. (j).
+<b>1999</b>—Subsec. (j). Pub. L. 106–102 added subsec. (j).
 
-1993—Subsec. (b)(12). Pub. L. 103–202, §303(a), added par. (12).
+<b>1993</b>—Subsec. (b)(12). Pub. L. 103–202, §303(a), added par. (12).
 
 Subsec. (b)(13). Pub. L. 103–202, §303(c), added par. (13).
 
@@ -268,15 +280,15 @@ Subsec. (g)(3)(D). Pub. L. 103–202, §106(b)(1)(B)(i), substituted “transact
 
 Subsec. (g)(4), (5). Pub. L. 103–202, §106(b)(1)(B)(ii), (iii), redesignated par. (5) as (4) and struck out former par. (4) which allowed a registered securities association to deny membership to, condition the membership of, or to otherwise bar association with, the association, under circumstances where a government securities broker or dealer or other person violated financial responsibility rules adopted under section 78<i>o</i>–5(b)(1)(A) of this title, or where it appeared likely that such person or entity had or would engage in conduct which would subject such person or entity to sanctions under section 78<i>o</i>–5(c) of this title.
 
-1990—Subsec. (i). Pub. L. 101–429 added subsec. (i).
+<b>1990</b>—Subsec. (i). Pub. L. 101–429 added subsec. (i).
 
-1986—Subsec. (f). Pub. L. 99–571, §102(g)(1), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Nothing in this section shall be construed to apply with respect to any transaction by a broker or dealer in any exempted security.”
+<b>1986</b>—Subsec. (f). Pub. L. 99–571, §102(g)(1), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Nothing in this section shall be construed to apply with respect to any transaction by a broker or dealer in any exempted security.”
 
 Subsec. (g)(3)(D). Pub. L. 99–571, §102(g)(2)(A), added subpar. (D).
 
 Subsec. (g)(4), (5). Pub. L. 99–571, §102(g)(2)(B), (C), added par. (4) and redesignated former par. (4) as (5).
 
-1975—Subsec. (a). Pub. L. 94–29, §12(2), struck out “with the Commission” after “registered”, inserted reference to section 78s(a) of this title, substituted provisions covering an application for registration in the form prescribed by Commission rule containing the rules of the association and such other information and documents as the Commission prescribes as necessary or appropriate in the public interest or for the protection of investors for provisions covering a statement in the form prescribed by the Commission setting forth specified information and accompanied by specified documents, and struck out provision that registration not be construed as a waiver of constitutional rights or as a waiver of the right to contest the validity of Commission rules or regulations.
+<b>1975</b>—Subsec. (a). Pub. L. 94–29, §12(2), struck out “with the Commission” after “registered”, inserted reference to section 78s(a) of this title, substituted provisions covering an application for registration in the form prescribed by Commission rule containing the rules of the association and such other information and documents as the Commission prescribes as necessary or appropriate in the public interest or for the protection of investors for provisions covering a statement in the form prescribed by the Commission setting forth specified information and accompanied by specified documents, and struck out provision that registration not be construed as a waiver of constitutional rights or as a waiver of the right to contest the validity of Commission rules or regulations.
 
 Subsec. (b). Pub. L. 94–29, §12(2), amended subsec. (b) generally, to conform its provisions concerning the registration and regulation of national and affiliated securities associations to those covering the registration and regulation of national securities exchanges contained in section 78f of this title and inserted provisions necessary to accommodate the creation of the Municipal Securities Rulemaking Board and to implement its purposes.
 
@@ -296,11 +308,11 @@ Subsec. (m). Pub. L. 94–29, §12(3), redesignated subsec. (m) as (f).
 
 Subsec. (n). Pub. L. 94–29, §12(3), struck out subsec. (n) which directed that provisions of this section prevail in the event of any conflict between this section and any other law of the United States in force on June 25, 1938.
 
-1964—Subsec. (b)(1), (2). Pub. L. 88–467, §7(a)(1), substituted a period for the semicolon at end of pars. (1) and (2).
+<b>1964</b>—Subsec. (b)(1), (2). Pub. L. 88–467, §7(a)(1), substituted a period for the semicolon at end of pars. (1) and (2).
 
 Subsec. (b)(3). Pub. L. 88–467, §7(a)(1), (2), substituted a period for the semicolon at end of par. (3), struck out “of” before “any means”, substituted “paragraph (4) or (5) of this subsection, or a rule of the association permitted under this paragraph. The rules” for “paragraph (4) of this subsection: <i>Provided</i>, That the rules”, and inserted provision authorizing a registered securities association to adopt rules under which it might exclude from membership persons who had been suspended or expelled from a national securities exchange or who were barred or suspended from being associated with all brokers or dealers who are members of such an exchange for violation of exchange rules.
 
-Subsec. (b)(4). Pub. L. 88–467, §7(a)(1), (3), substituted a period for the semicolon at end of par. (4), deleted from text preceding cl. (A) the language “or (2) any partner, officer, director, or branch manager of such broker or dealer (or any person occupying a similar status or performing similar functions), or any person directly or indirectly controlling or controlled by such broker or dealer, whether prior or subsequent to becoming such”, inserted in cl. (A) “or has been and is barred or suspended from being associated with all brokers or dealers which are members of such exchange”, inserted in cl. (B) provision for suspension for period not exceeding twelve months or barring or suspendingthe broker or dealer from being associated with a broker or dealer, inserted at the beginning of cl. (C) “whether prior or subsequent to becoming a broker or dealer,” (derived from former cl. (1) of this paragraph) and added to cl. (C) provision conferring jurisdiction upon the Commission, an exchange, or a registered securities association to determine whether an individual is the cause of disciplinary action taken by them against a broker or a dealer, and added cl. (D).
+Subsec. (b)(4). Pub. L. 88–467, §7(a)(1), (3), substituted a period for the semicolon at end of par. (4), deleted from text preceding cl. (A) the language “or (2) any partner, officer, director, or branch manager of such broker or dealer (or any person occupying a similar status or performing similar functions), or any person directly or indirectly controlling or controlled by such broker or dealer, whether prior or subsequent to becoming such”, inserted in cl. (A) “or has been and is barred or suspended from being associated with all brokers or dealers which are members of such exchange”, inserted in cl. (B) provision for suspension for period not exceeding twelve months or barring or suspending the broker or dealer from being associated with a broker or dealer, inserted at the beginning of cl. (C) “whether prior or subsequent to becoming a broker or dealer,” (derived from former cl. (1) of this paragraph) and added to cl. (C) provision conferring jurisdiction upon the Commission, an exchange, or a registered securities association to determine whether an individual is the cause of disciplinary action taken by them against a broker or a dealer, and added cl. (D).
 
 Subsec. (b)(5). Pub. L. 88–467, §7(a)(4), added par. (5). Former par. (5) redesignated (6).
 
@@ -324,7 +336,11 @@ Subsec. (h). Pub. L. 88–467, §7(d), made the procedures and the Commission's 
 
 Subsec. (k)(2). Pub. L. 88–467, §7(e), inserted “, or with such modifications of such alteration or supplement as it deems necessary” after “in the manner theretofore requested”, redesignated cls. (1) to (4) as (A) to (D), respectively, and inserted in cl. (A) “or the barring from being associated with a member” and “or persons associated with members, or the qualifications required for members or natural persons associated with members or any class thereof”.
 
-Subsec. (<i>l</i>). Pub. L. 88–467, §7(f), substituted a period for a semicolon at end of par. (1) and inserted in par. (2) preceding cl. (A) “, or to suspend for a period not exceeding twelve months or to bar any person from being associated with a member thereof,”.
+Subsec. (<i>l</i>). Pub. L. 88–467, §7(f), substituted a period for a semicolon at end of par. (1) and inserted in par. (2)preceding cl. (A) “, or to suspend for a period not exceeding twelve months or to bar any person from being associated with a member thereof,”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective Oct. 1, 2010, see section 975(i) of Pub. L. 111–203, set out as a note under section 78<i>o</i> of this title.
 
 #### Effective Date of 1999 Amendment
 

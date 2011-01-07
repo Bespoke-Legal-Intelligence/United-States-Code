@@ -24,7 +24,7 @@ Limitation on Contracting.—(1) Except as provided in paragraph (2), performanc
 
 &emsp;(i) continuity of session is broken only by an adjournment of Congress sine die; and
 
-&emsp;(ii) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excludedin the computation of any period of time in which Congress is in continuous session.
+&emsp;(ii) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of any period of time in which Congress is in continuous session.
 
 (c)
 
@@ -44,13 +44,13 @@ Section is based on Pub. L. 98–525, title III, §307, Oct. 19, 1984, 98 Stat. 
 
 #### Amendments
 
-1999—Subsec. (b)(3)(A). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsec. (b)(3)(A). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-1998—Subsec. (c). Pub. L. 105–261 added subsec. (c).
+<b>1998</b>—Subsec. (c). Pub. L. 105–261 added subsec. (c).
 
-1997—Pub. L. 105–85 substituted “capabilities” for “functions” in section catchline and amended text generally. Prior to amendment, text related to necessity for core logistics capabilities and restricted contracting out of certain logistics activities and functions of the Department of Defense to non-Government personnel.
+<b>1997</b>—Pub. L. 105–85 substituted “capabilities” for “functions” in section catchline and amended text generally. Prior to amendment, text related to necessity for core logistics capabilities and restricted contracting out of certain logistics activities and functions of the Department of Defense to non-Government personnel.
 
-1996—Subsec. (b)(3), (4). Pub. L. 104–106 added par. (3) and struck out former pars. (3) and (4) which read as follows:
+<b>1996</b>—Subsec. (b)(3), (4). Pub. L. 104–106 added par. (3) and struck out former pars. (3) and (4) which read as follows:
 
 “(3) A waiver under paragraph (2) may not take effect until—
 
@@ -60,7 +60,7 @@ Section is based on Pub. L. 98–525, title III, §307, Oct. 19, 1984, 98 Stat. 
 
 “(4) For purposes of paragraph (3)(B), the continuity of a session of Congress is broken only by an adjournment sine die, and the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of such 20-day period.”
 
-1989—Subsec. (b)(3)(A). Pub. L. 101–189 substituted “Committees on Appropriations” for “Committee on Appropriations”.
+<b>1989</b>—Subsec. (b)(3)(A). Pub. L. 101–189 substituted “Committees on Appropriations” for “Committee on Appropriations”.
 
 #### Effective Date of 1998 Amendment
 
@@ -68,33 +68,9 @@ Pub. L. 105–261, div. A, title III, §343(b), Oct. 17, 1998, 112 Stat. 1976, p
 
 #### Conditions on Expansion of Functions Performed Under Prime Vendor Contracts for Depot-Level Maintenance and Repair
 
-Pub. L. 105–261, div. A, title III, §346, Oct. 17, 1998, 112 Stat. 1979, as amended by Pub. L. 106–65, div. A, title III, §336, Oct. 5, 1999, 113 Stat. 568, provided that:
-
-“(a)
-
-Conditions on Expanded Use.—The Secretary of Defense or the Secretary of a military department, as the case may be, may not enter into a prime vendor contract for depot-level maintenance and repair of a weapon system or other military equipment described in section 2464(a)(3) of title 10, United States Code, before the end of the 30-day period beginning on the date on which the Secretary submits to Congress a report, specific to the proposed contract, that—
-
-&emsp;“(1) describes the competitive procedures to be used to award the prime vendor contract;
-
-&emsp;“(2) contains an analysis of costs and benefits that demonstrates that use of the prime vendor contract will result in savings to the Government over the life of the contract;
-
-&emsp;“(3) contains an analysis of the extent to which the contract conforms to the requirements of section 2466 of title 10, United States Code; and
-
-&emsp;“(4) describes the measures taken to ensure that the contract does not violate the core logistics policies, requirements, and restrictions set forth in section 2464 of that title.
-
-“(b)
-
-Definitions.—In this section:
-
-&emsp;“(1) The term ‘prime vendor contract’ means an innovative contract that gives a defense contractor the responsibility to manage, store, and distribute inventory, manage and provide services, or manage and perform research, on behalf of the Department of Defense on a frequent, regular basis, for users within the Department on request. The term includes contracts commonly referred to as prime vendor support contracts, flexible sustainment contracts, and direct vendor delivery contracts.
-
-&emsp;“(2) The term ‘depot-level maintenance and repair’ has the meaning given such term in section 2460 of title 10, United States Code.
-
-“(c)
-
-Relationship to Other Laws.—Nothing in this section shall be construed to exempt a prime vendor contract from the requirements of section 2461 of title 10, United States Code, or any other provision of chapter 146 of such title.”
+Pub. L. 105–261, div. A, title III, §346, Oct. 17, 1998, 112 Stat. 1979, as amended by Pub. L. 106–65, div. A, title III, §336, Oct. 5, 1999, 113 Stat. 568, prohibited the Secretary of Defense or of a military department from entering into a prime vendor contract for depot-level maintenance and repair of certain military equipment before completing reporting requirements, prior to repeal by Pub. L. 111–383, div. A, title III, §322, Jan. 7, 2011, 124 Stat. 4184.
 
 #### Policy Regarding Performance of Depot-Level Maintenance and Repair for Department of Defense
 
-Pub. L. 104–106, div. A, title III, §311, Feb. 10, 1996, 110 Stat. 246, as amended by Pub. L. 105–85, div. A, title III, §363, Nov. 18, 1997, 111 Stat. 1702, required the Secretary of Defense, not later than Mar. 31, 1996, to develop and submit to Congress a comprehensive policy on the performance of depot-level maintenance and repair for the Department of Defense that maintains the capability described in this section and to submit to Congress a report on the depot-level maintenance and repair workload of the Department of Defense and required the Comptroller General to transmit to Congress reports containing a detailed analysis of the Secretary's proposed policy and report.
+Pub. L. 104–106, div. A, title III, §311, Feb. 10, 1996, 110 Stat. 246, as amended by Pub. L. 105–85, div. A, title III, §363, Nov. 18, 1997, 111 Stat. 1702, required the Secretary of Defense, not later than Mar. 31, 1996, to develop and submit to Congress a comprehensive policy on the performance of depot-level maintenance and repair for the Department of Defense that maintains the capabilitydescribed in this section and to submit to Congress a report on the depot-level maintenance and repair workload of the Department of Defense and required the Comptroller General to transmit to Congress reports containing a detailed analysis of the Secretary's proposed policy and report.
 

@@ -1,5 +1,5 @@
 
-10 U.S.C.<br>United States Code, 2009 Edition<br>Title 10 - ARMED FORCES<br>From the U.S. Government Publishing Office, www.gpo.gov
+10 U.S.C.<br>United States Code, 2010 Edition<br>Title 10 - ARMED FORCES<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 10—ARMED FORCES
 
@@ -17,7 +17,7 @@
 
 #### Amendments
 
-1994—Pub. L. 103–337, div. A, title XVI, §1671(a), Oct. 5, 1994, 108 Stat. 3013, added item for subtitle E.
+<b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1671(a), Oct. 5, 1994, 108 Stat. 3013, added item for subtitle E.
 
 Table I<br>(Showing disposition of all sections of former Title 10)
 

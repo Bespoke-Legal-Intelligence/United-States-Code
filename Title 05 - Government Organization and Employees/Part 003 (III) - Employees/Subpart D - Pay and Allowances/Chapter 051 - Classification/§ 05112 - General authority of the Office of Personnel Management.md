@@ -12,7 +12,7 @@
 
 > The Office shall certify to the agency concerned its action under paragraph (2) or (4) of this subsection. The agency shall act in accordance with the certificate, and the certificate is binding on all administrative, certifying, payroll, disbursing, and accounting officials.
 
-(b) An employee affected or an agency may request at any time that the Office exercise theauthority granted to it by subsection (a) of this section and the Office shall act on the request.
+(b) An employee affected or an agency may request at any time that the Office exercise the authority granted to it by subsection (a) of this section and the Office shall act on the request.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 456; Pub. L. 95–454, title IX, §906(a)(2), (3), (17), Oct. 13, 1978, 92 Stat. 1224, 1226.)
 

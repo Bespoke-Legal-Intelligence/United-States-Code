@@ -42,17 +42,19 @@ There are authorized to be appropriated to the Secretary to be allocated not mor
 
 #### Amendments
 
-1988—Subsec. (c). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards” in closing provisions.
+<b>1988</b>—Subsec. (c). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards” in closing provisions.
 
-1987—Pub. L. 100–12 inserted headings for subsecs. (a) to (c).
+<b>1987</b>—Pub. L. 100–12 inserted headings for subsecs. (a) to (c).
 
-1978—Subsec. (a). Pub. L. 95–619, §§426(a), 691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, in text preceding par. (1), “$3,300,000” for “$1,500,000” in par. (3), added par. (4), and provided that amounts authorized under par. (3) would be in addition to amounts otherwise authorized and appropriated.
+<b>1978</b>—Subsec. (a). Pub. L. 95–619, §§426(a), 691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, in text preceding par. (1), “$3,300,000” for “$1,500,000” in par. (3), added par. (4), and provided that amounts authorized under par. (3) would be in addition to amounts otherwise authorized and appropriated.
 
 Subsec. (b)(3). Pub. L. 95–619, §426(b), added second par. (3) relating to fiscal year 1979.
 
 Subsec. (c). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator”.
 
-1977—Subsec. (c)(2). Pub. L. 95–70, §3(a), substituted “$2,500,000” for “$700,000”.
+<b>1977</b>—Subsec. (c)(2). Pub. L. 95–70, §3(a), substituted “$2,500,000” for “$700,000”.
 
 Subsec. (c)(3). Pub. L. 95–70, §3(b), substituted “$1,800,000” for “$700,000”.
+
+<i><sup>1</sup></i><i> So in original. Probably should be designated “(4)”.</i>
 

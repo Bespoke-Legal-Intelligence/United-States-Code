@@ -92,7 +92,7 @@ Arson in certain cases.—Arson shall not serve as a basis for sentencing under 
 
 &emsp;(4)
 
-Information filed by united states attorney.—The provisions of section 411(a) ofthe Controlled Substances Act (21 U.S.C. 851(a)) shall apply to the imposition of sentence under this subsection.
+Information filed by united states attorney.—The provisions of section 411(a) of the Controlled Substances Act (21 U.S.C. 851(a)) shall apply to the imposition of sentence under this subsection.
 
 &emsp;(5)
 
@@ -100,7 +100,7 @@ Rule of construction.—This subsection shall not be construed to preclude impos
 
 &emsp;(6)
 
-Special provision for indian country.—No person subject to the criminal jurisdiction of an Indian tribal government shall be subject to this subsection for any offense for which Federal jurisdiction is solely predicated on Indian country (as defined in section 1151) and which occurs within the boundaries of such Indian country unless the governing body of the tribe has elected that this subsection have effect over land and persons subject to the criminal jurisdiction of the tribe.
+Special provision for indian country.—No person subject to the criminal jurisdiction of an Indian tribal government shall be subject to this subsection for any offense for which Federal jurisdiction is solely predicated on Indian country (as defined in section 1151) and which occurs within the boundaries of such Indian country unless the governing body of the tribe has elected that this subsectionhave effect over land and persons subject to the criminal jurisdiction of the tribe.
 
 &emsp;(7)
 
@@ -166,11 +166,11 @@ Mandatory Minimum Terms of Imprisonment for Violent Crimes Against Children.—A
 
 &emsp;(1) if the crime of violence is murder, be imprisoned for life or for any term of years not less than 30, except that such person shall be punished by death or life imprisonment if the circumstances satisfy any of subparagraphs (A) through (D) of section 3591(a)(2) of this title;
 
-&emsp;(2) if the crime of violence is kidnapping (as defined in section 1201) or maiming (as definedin section 114), be imprisoned for life or any term of years not less than 25; and
+&emsp;(2) if the crime of violence is kidnapping (as defined in section 1201) or maiming (as defined in section 114), be imprisoned for life or any term of years not less than 25; and
 
 &emsp;(3) if the crime of violence results in serious bodily injury (as defined in section 1365), or if a dangerous weapon was used during and in relation to the crime of violence, be imprisoned for life or for any term of years not less than 10.
 
-(g)(1) If a defendant who is convicted of a felony offense (other than offense of which an element is the false registration of a domain name) knowingly falsely registered a domain name and knowingly used that domain name in the course of that offense, the maximum imprisonment otherwise provided by law for that offense shall be doubled or increased by 7 years, whichever is less.
+(g)(1) If a defendant who is convicted of a felony offense (other than offense of which an element is the false registration of a domain name) knowingly falsely registered a domain name and knowingly used that domain name in the courseof that offense, the maximum imprisonment otherwise provided by law for that offense shall be doubled or increased by 7 years, whichever is less.
 
 (2) As used in this section—
 
@@ -182,29 +182,29 @@ Mandatory Minimum Terms of Imprisonment for Violent Crimes Against Children.—A
 
 #### Amendments
 
-2006—Subsec. (e)(2)(A). Pub. L. 109–248, §206(c), inserted “1591 (relating to sex trafficking of children),” after “under section”.
+<b>2006</b>—Subsec. (e)(2)(A). Pub. L. 109–248, §206(c), inserted “1591 (relating to sex trafficking of children),” after “under section”.
 
 Subsecs. (f), (g). Pub. L. 109–248, §202, added subsec. (f) and redesignated former subsec. (f) as (g).
 
-2004—Subsec. (f). Pub. L. 108–482 added subsec. (f).
+<b>2004</b>—Subsec. (f). Pub. L. 108–482 added subsec. (f).
 
-2003—Subsec. (e). Pub. L. 108–21 added subsec. (e).
+<b>2003</b>—Subsec. (e). Pub. L. 108–21 added subsec. (e).
 
-1998—Subsec. (c)(2)(F)(i). Pub. L. 105–386 inserted “firearms possession (as described in section 924(c));” after “firearms use;”.
+<b>1998</b>—Subsec. (c)(2)(F)(i). Pub. L. 105–386 inserted “firearms possession (as described in section 924(c));” after “firearms use;”.
 
 Subsec. (d). Pub. L. 105–314 added subsec. (d).
 
-1994—Subsec. (b). Pub. L. 103–322, §70001(1), substituted “Except as provided in subsection (c), an” for “An”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–322, §70001(1), substituted “Except as provided in subsection (c), an” for “An”.
 
 Subsec. (c). Pub. L. 103–322, §70001(2), added subsec. (c).
 
-1988—Subsec. (a). Pub. L. 100–690, §7041(a)(1), substituted “classified if the maximum term of imprisonment authorized is—” for “classified—
+<b>1988</b>—Subsec. (a). Pub. L. 100–690, §7041(a)(1), substituted “classified if the maximum term of imprisonment authorized is—” for “classified—
 
 &emsp;“(1) if the maximum term of imprisonment authorized is—”.
 
 Subsec. (a)(1) to (9). Pub. L. 100–690, §7041(a)(2), (b), redesignated subpars. (A) to (I) as pars. (1) to (9), respectively, and substituted “twenty-five” for “twenty” in pars. (2) and (3).
 
-1987—Subsec. (b). Pub. L. 100–185 substituted “, except that the maximum term of imprisonment is the term authorized by the law describing the offense.” for “except that:
+<b>1987</b>—Subsec. (b). Pub. L. 100–185 substituted “, except that the maximum term of imprisonment is the term authorized by the law describing the offense.” for “except that:
 
 &emsp;“(1) the maximum fine that may be imposed is the fine authorized by the statute describing the offense, or by this chapter, whichever is the greater; and
 
@@ -213,4 +213,6 @@ Subsec. (a)(1) to (9). Pub. L. 100–690, §7041(a)(2), (b), redesignated subpar
 #### Effective Date
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “in”.</i>
 

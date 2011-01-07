@@ -4,7 +4,7 @@
 
 &emsp;(1) have a comprehensive medical readiness health and dental assessment on an annual basis, including routine annual preventive health care screening and periodic comprehensive physical examinations in accordance with regulations prescribed by the Secretary of Defense that reflect morbidity and mortality risks associated with the military service, age, and gender of the member; and
 
-&emsp;(2) execute and submit to the Secretary concerned on an annual basis documentation ofthe medical and dental readiness of the member to perform military duties.
+&emsp;(2) execute and submit to the Secretary concerned on an annual basis documentation of the medical and dental readiness of the member to perform military duties.
 
 (b) A member of the Individual Ready Reserve or inactive National Guard shall be examined for physical fitness as necessary to determine the member's physical fitness for—
 
@@ -26,13 +26,13 @@ Provisions similar to those in this section were contained in section 1004(a), (
 
 #### Amendments
 
-2006—Pub. L. 109–163, §732(b), struck out “periodic” before “physical” in section catchline.
+<b>2006</b>—Pub. L. 109–163, §732(b), struck out “periodic” before “physical” in section catchline.
 
 Subsec. (a)(1). Pub. L. 109–163, §732(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “be examined as to the member's physical fitness every five years, or more often as the Secretary concerned considers necessary; and”.
 
 Subsec. (a)(2). Pub. L. 109–163, §732(a)(2), substituted “to the Secretary concerned on an annual basis documentation of the medical and dental readiness of the member to perform military duties” for “annually to the Secretary concerned a certificate of physical condition”.
 
-2001—Subsec. (a). Pub. L. 107–107, §516(a)(1), (2), substituted “Selected Reserve” for “Ready Reserve” in introductory provisions and redesignated concluding provisions as subsec. (c).
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §516(a)(1), (2), substituted “Selected Reserve” for “Ready Reserve” in introductory provisions and redesignated concluding provisions as subsec. (c).
 
 Subsec. (a)(1). Pub. L. 107–107, §516(b), substituted “the member's physical fitness” for “his physical fitness”.
 

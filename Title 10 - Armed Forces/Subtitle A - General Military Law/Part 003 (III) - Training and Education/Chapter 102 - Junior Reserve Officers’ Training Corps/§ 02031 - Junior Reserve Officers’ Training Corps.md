@@ -6,7 +6,7 @@
 
 (b) No unit may be established or maintained at an institution unless—
 
-&emsp;(1) the number of physically fit students in such unit who are in a grade above the 8th grade and are citizens or nationals of the United States, or aliens lawfully admitted to the United States for permanent residence, is not less than (A) 10 percent of the number of students enrolled in the institution who are in a grade above the 8th grade, or (B) 100, whichever is less;
+&emsp;(1) the number of physically fit students in such unit who are in a grade above the 8th grade and are citizens or nationals of the United States, or aliens lawfully admitted to the United States for permanent residence, is not less than (A) 10 percent of the number of students enrolled in the institution who are ina grade above the 8th grade, or (B) 100, whichever is less;
 
 &emsp;(2) the institution has adequate facilities for classroom instruction, storage of arms and other equipment which may be furnished in support of the unit, and adequate drill areas at or in the immediate vicinity of the institution, as determined by the Secretary of the military department concerned;
 
@@ -64,17 +64,17 @@
 
 #### Amendments
 
-2008—Subsec. (f). Pub. L. 110–181 added subsec. (f).
+<b>2008</b>—Subsec. (f). Pub. L. 110–181 added subsec. (f).
 
-2006—Subsec. (d). Pub. L. 109–364, §540(b), inserted “who are in receipt of retired pay” after “retired officers and noncommissioned officers” in introductory provisions.
+<b>2006</b>—Subsec. (d). Pub. L. 109–364, §540(b), inserted “who are in receipt of retired pay” after “retired officers and noncommissioned officers” in introductory provisions.
 
 Subsec. (e). Pub. L. 109–364, §540(a), added subsec. (e).
 
-2001—Subsec. (a)(1). Pub. L. 107–107 struck out after first sentence “The total number of units which may be established and maintained by all of the military departments under authority of this section, including those units already established on October 13, 1964, may not exceed 3,500.”
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107 struck out after first sentence “The total number of units which may be established and maintained by all of the military departments under authority of this section, including those units already established on October 13, 1964, may not exceed 3,500.”
 
-1993—Subsec. (a)(1). Pub. L. 103–160 substituted “The” for “Not more than 200 units may be established by all of the military departments each year, and the” in second sentence.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–160 substituted “The” for “Not more than 200 units may be established by all of the military departments each year, and the” in second sentence.
 
-1992—Subsec. (a). Pub. L. 102–484, §533(a), (b), designated existing provisions as par. (1), substituted “3,500” for “1,600”, and added par. (2).
+<b>1992</b>—Subsec. (a). Pub. L. 102–484, §533(a), (b), designated existing provisions as par. (1), substituted “3,500” for “1,600”, and added par. (2).
 
 Subsec. (b)(1). Pub. L. 102–484, §533(c), substituted “in a grade above the 8th grade” for “at least 14 years of age” in two places and inserted “, or aliens lawfully admitted to the United States for permanent residence,” after “of the United States”.
 
@@ -82,23 +82,23 @@ Subsec. (c)(2). Pub. L. 102–484, §533(d), inserted before semicolon “and, t
 
 Subsec. (d)(1). Pub. L. 102–484, §533(e)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Retired members so employed are entitled to receive their retired or retainer pay and an additional amount of not more than the difference between their retired pay and the active duty pay and allowances which they would receive if ordered to active duty, and one-half of that additional amount shall be paid to the institution concerned by the Secretary of the military department concerned from funds appropriated for that purpose.”
 
-1987—Subsec. (a). Pub. L. 100–26 struck out “beginning with the calendar year 1966” after “each year” in second sentence.
+<b>1987</b>—Subsec. (a). Pub. L. 100–26 struck out “beginning with the calendar year 1966” after “each year” in second sentence.
 
-1984—Subsec. (a). Pub. L. 98–525, §1405(32), substituted “October 13, 1964” for “the date of enactment of this section”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–525, §1405(32), substituted “October 13, 1964” for “the date of enactment of this section”.
 
 Subsec. (b)(1). Pub. L. 98–525, §422(1), substituted “the number of physically fit students in such unit who are at least 14 years of age and are citizens or nationals of the United States is not less than (A) 10 percent of the number of students enrolled in the institution who are at least 14 years of age, or (B) 100, whichever is less” for “the unit contains at least 100 physically fit students who are at least 14 years of age and are citizens or nationals of the United States”.
 
 Subsec. (b)(5). Pub. L. 98–525, §422(2)–(4), added par. (5).
 
-1978—Subsec. (b)(1). Pub. L. 95–358 inserted “or nationals” after “citizens”.
+<b>1978</b>—Subsec. (b)(1). Pub. L. 95–358 inserted “or nationals” after “citizens”.
 
-1976—Subsec. (a). Pub. L. 94–361 increased total number of units authorized to be established to 1,600 from 1,200 and limited the military institutes to establishment and maintenance of only one unit.
+<b>1976</b>—Subsec. (a). Pub. L. 94–361 increased total number of units authorized to be established to 1,600 from 1,200 and limited the military institutes to establishment and maintenance of only one unit.
 
-1973—Subsec. (b)(1). Pub. L. 93–165 substituted “physically fit students” for “physically fit male students”.
+<b>1973</b>—Subsec. (b)(1). Pub. L. 93–165 substituted “physically fit students” for “physically fit male students”.
 
-1967—Subsecs. (c), (d). Pub. L. 90–83 substituted “officers and noncommissioned officers” for “noncommissioned and commissioned officers” wherever appearing.
+<b>1967</b>—Subsecs. (c), (d). Pub. L. 90–83 substituted “officers and noncommissioned officers” for “noncommissioned and commissioned officers” wherever appearing.
 
-1966—Subsec. (d). Pub. L. 89–718 capitalized first letter of first word in cls. (1) and (2).
+<b>1966</b>—Subsec. (d). Pub. L. 89–718 capitalized first letter of first word in cls. (1) and (2).
 
 #### Effective Date of 1992 Amendment
 
@@ -138,7 +138,7 @@ Cooperation.—The Secretary of Defense, as part of the plan to establish and su
 
 “(d)
 
-Report on Plan.—Upon completion of the plan, the Secretary of Defense shall provide a report to thecongressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] containing, at a minimum, the following:
+Report on Plan.—Upon completion of the plan, the Secretary of Defense shall provide a report to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] containing, at a minimum, the following:
 
 &emsp;“(1) A description of how the Secretaries of the military departments expect to achieve the number of units of the Junior Reserve Officers’ Training Corps specified in subsection (a), including how many units will be established per year by each service.
 

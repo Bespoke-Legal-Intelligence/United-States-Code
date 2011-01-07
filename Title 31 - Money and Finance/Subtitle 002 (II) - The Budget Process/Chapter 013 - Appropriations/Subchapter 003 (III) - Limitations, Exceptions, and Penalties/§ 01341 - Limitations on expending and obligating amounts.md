@@ -44,5 +44,5 @@ Section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985, re
 
 #### Amendments
 
-1990—Subsec. (a)(1)(C), (D). Pub. L. 101–508 added subpars. (C) and (D).
+<b>1990</b>—Subsec. (a)(1)(C), (D). Pub. L. 101–508 added subpars. (C) and (D).
 

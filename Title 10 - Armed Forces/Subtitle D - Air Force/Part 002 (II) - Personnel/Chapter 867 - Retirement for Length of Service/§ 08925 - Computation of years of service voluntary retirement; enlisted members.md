@@ -56,25 +56,25 @@ The amendment reflects the repeal of section 8638 of this title and the enactmen
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–106 substituted “section 972(a)” for “section 972”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–106 substituted “section 972(a)” for “section 972”.
 
-1994—Subsec. (a). Pub. L. 103–337, §635(c)(1)(A), struck out “and of computing his retired pay under section 8991 of this title,” after “8917 of this title,”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §635(c)(1)(A), struck out “and of computing his retired pay under section 8991 of this title,” after “8917 of this title,”.
 
-Subsec. (c). Pub. L. 103–337, §635(c)(1)(B), struck out subsec. (c) which read as follows: “In determining a member's years of service under subsection (a) for the purpose of computing the member's retired pay under section 8991 of this title—
+Subsec. (c). Pub. L. 103–337, §635(c)(1)(B), struck out subsec. (c) which read as follows: “In determining amember's years of service under subsection (a) for the purpose of computing the member's retired pay under section 8991 of this title—
 
 &emsp;“(1) each full month of service that is in addition to the number of full years of service creditable to the member shall be credited as 1/12 of a year; and
 
 &emsp;“(2) any remaining fractional part of a year shall be disregarded.”
 
-1989—Subsec. (a). Pub. L. 101–189 struck out “and service computed under section 8683 of this title” before period at end.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189 struck out “and service computed under section 8683 of this title” before period at end.
 
-1986—Subsec. (c). Pub. L. 99–348 added subsec. (c).
+<b>1986</b>—Subsec. (c). Pub. L. 99–348 added subsec. (c).
 
-1980—Pub. L. 96–343, §9(b)(2)(B), struck out “regular” before “enlisted members” in section catchline.
+<b>1980</b>—Pub. L. 96–343, §9(b)(2)(B), struck out “regular” before “enlisted members” in section catchline.
 
 Subsec. (a). Pub. L. 96–343, §9(b)(2)(A), substituted “an enlisted” for “a regular enlisted”.
 
-1958—Subsec. (b). Pub. L. 85–861 substituted “section 972 of this title” for “section 8638 of this title”.
+<b>1958</b>—Subsec. (b). Pub. L. 85–861 substituted “section 972 of this title” for “section 8638 of this title”.
 
 #### Effective Date of 1996 Amendment
 

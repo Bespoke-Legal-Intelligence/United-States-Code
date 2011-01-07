@@ -22,13 +22,13 @@ The words “If it is determined” are substituted for the words “When upon d
 
 #### Amendments
 
-1990—Pub. L. 101–510, §532(a)(2), (c)(2), amended section identically, substituting “clauses (2) through (8)” for “clauses (2)–(9)”.
+<b>1990</b>—Pub. L. 101–510, §532(a)(2), (c)(2), amended section identically, substituting “clauses (2) through (8)” for “clauses (2)–(9)”.
 
-1973—Pub. L. 93–171 substituted “clauses (2)–(9) of section 9342(a)” for “clauses (2)–(8) of section 9342(a)”.
+<b>1973</b>—Pub. L. 93–171 substituted “clauses (2)–(9) of section 9342(a)” for “clauses (2)–(8) of section 9342(a)”.
 
-1966—Pub. L. 89–718 substituted “Academy Board” for “Faculty”.
+<b>1966</b>—Pub. L. 89–718 substituted “Academy Board” for “Faculty”.
 
-1964—Pub. L. 88–276, among other changes, increased percentage of nominees to be selected from two-thirds to three-fourths, and struck out “as are necessary to meet the needs of the Air Force, but not more than the authorized strength of Air Force cadets” after “the Faculty”.
+<b>1964</b>—Pub. L. 88–276, among other changes, increased percentage of nominees to be selected from two-thirds to three-fourths, and struck out “as are necessary to meet the needs of the Air Force, but not more than the authorized strength of Air Force cadets” after “the Faculty”.
 
 #### Effective Date of 1973 Amendment
 

@@ -12,9 +12,9 @@ The Administrator may, in the name of the United States, under the supervision o
 
 #### Amendments
 
-1946—Subsec. (b). Act July 26, 1946, took from the Administrator the authority to make settlement of suits.
+<b>1946</b>—Subsec. (b). Act July 26, 1946, took from the Administrator the authority to make settlement of suits.
 
-1945—Act Oct. 23, 1945, added subsec. (a), designated existing provisions as subsec. (b), and amended such provisions generally.
+<b>1945</b>—Act Oct. 23, 1945, added subsec. (a), designated existing provisions as subsec. (b), and amended such provisions generally.
 
 #### Transfer of Functions
 

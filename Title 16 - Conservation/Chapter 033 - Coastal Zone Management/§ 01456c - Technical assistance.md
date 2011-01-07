@@ -4,7 +4,7 @@
 
 (b)(1) The Secretary shall provide for the coordination of technical assistance, studies, and research activities under this section with any other such activities that are conducted by or subject to the authority of the Secretary.
 
-(2) The Secretary shall make the results of research and studies conducted pursuant to this section available to coastal states in the form of technical assistance publications, workshops, or other means appropriate.
+(2) The Secretary shall make the results of research and studies conducted pursuant to thissection available to coastal states in the form of technical assistance publications, workshops, or other means appropriate.
 
 (3) The Secretary shall consult with coastal states on a regular basis regarding the development and implementation of the program established by this section.
 

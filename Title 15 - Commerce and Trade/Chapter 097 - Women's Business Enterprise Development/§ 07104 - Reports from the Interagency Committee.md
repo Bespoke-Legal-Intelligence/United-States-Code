@@ -16,7 +16,7 @@ A prior section 404 of Pub. L. 100–533, title IV, Oct. 25, 1988, 102 Stat. 269
 
 #### Amendments
 
-1997—Pub. L. 105–135, §302(1), in introductory provisions, inserted “, through the Small Business Administration,” after “transmit”.
+<b>1997</b>—Pub. L. 105–135, §302(1), in introductory provisions, inserted “, through the Small Business Administration,” after “transmit”.
 
 Par. (1). Pub. L. 105–135, §302(3), inserted before semicolon at end “, including a verbatim report on the status of progress of the Interagency Committee in meeting its responsibilities and duties under section 7102(a) of this title”.
 

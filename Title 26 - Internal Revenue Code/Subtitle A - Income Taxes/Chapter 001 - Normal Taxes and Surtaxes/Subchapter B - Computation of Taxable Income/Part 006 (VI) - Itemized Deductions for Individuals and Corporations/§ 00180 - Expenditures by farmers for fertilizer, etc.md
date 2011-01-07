@@ -16,7 +16,7 @@ The election under subsection (a) for any taxable year shall be made within the 
 
 #### Amendments
 
-1976—Subsec. (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date
 

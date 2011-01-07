@@ -4,7 +4,7 @@
 
 (b)(1) Except as provided in paragraph (2) or as otherwise provided under a provision of this chapter, a commissioned officer in the Regular or Reserve Corps of the Public Health Service is entitled to special pay under a provision of this chapter in the same amounts, and under the same terms and conditions, as a commissioned officer of the armed forces is entitled to special pay under that provision.
 
-(2) A commissioned medical officer in the Regular or Reserve Corps of the Public Health Service (other than an officer serving in the IndianHealth Service) may not receive additional special pay under section 302(a)(4) of this title for any period during which the officer is providing obligated service under the following provisions of law:
+(2) A commissioned medical officer in the Regular or Reserve Corps of the Public Health Service (other than an officer serving in the Indian Health Service) may not receive additional special pay under section 302(a)(4) of this title for any period during which the officer is providing obligated service under the following provisions of law:
 
 &emsp;(A) Section 338B of the Public Health Service Act (42 U.S.C. 254<i>l</i>–1).
 
@@ -40,11 +40,11 @@ Repayment of Unearned Portion of Bonuses and Other Benefits When Conditions of P
 
 (3)(A) If a member of the uniformed services dies or is retired or separated with a combat-related disability, the Secretary concerned—
 
-&emsp;(i) shall not require repayment by the member or the member's estate of the unearned portion of any bonus or similar benefit previously paid to the member; and
+&emsp;(i) shall not require repayment by the member or the member's estate of the unearnedportion of any bonus or similar benefit previously paid to the member; and
 
 &emsp;(ii) shall require the payment to the member or the member's estate of the remainder of any bonus or similar benefit that was not yet paid to the member, but to which the member was entitled immediately before the death, retirement, or separation of the member, and would be paid if not for the death, retirement, or separation of the member.
 
-(B) Subparagraph (A) does not apply if the death or disability of the member is the result <sup>1</sup> the member's misconduct.
+(B) Subparagraph (A) does not apply if the death or disability of the member is the result of the member's misconduct.
 
 (C) The amount to be paid under subparagraph (A)(ii) shall be equal to the full amount specified by the agreement or contract applicable to the bonus or similar benefit as if the member continued to be entitled to the bonus or similar benefit following the death, retirement, or separation.
 
@@ -72,7 +72,7 @@ Repayment of Unearned Portion of Bonuses and Other Benefits When Conditions of P
 
 &emsp;&emsp;(iv) to perform duty for a specified period of time.
 
-(Added Pub. L. 96–284, §5(a), June 28, 1980, 94 Stat. 592; amended Pub. L. 96–513, title V, §506(6), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 100–140, §2(b)(1), Oct. 26, 1987, 101 Stat. 831; Pub. L. 101–189, div. A, title VII, §§705(b), 706(b), Nov. 29, 1989, 103 Stat. 1472, 1473; Pub. L. 101–510, div. A, title VI, §611(d), title XIII, §1322(c)(2), title XIV, §1484(c)(1), Nov. 5, 1990, 104 Stat. 1577, 1672, 1716; Pub. L. 102–484, div. A, title X, §1054(a)(3), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 104–106, div. A, title VI, §614(b), Feb. 10, 1996, 110 Stat. 361; Pub. L. 104–201, div. A, title VI, §615(c)(3), Sept. 23, 1996, 110 Stat. 2546; Pub. L. 106–398, §1 \[\[div. A\], title VI, §§628(b), 634(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–155, 1654A–159; Pub. L. 109–163, div. A, title VI, §687(a)(1), (e)(1), Jan. 6, 2006, 119 Stat. 3326, 3336; Pub. L. 110–317, §2(a), Aug. 29, 2008, 122 Stat. 3526; Pub. L. 110–417, \[div. A\], title VI, §651(a), (b), Oct. 14, 2008, 122 Stat. 4495; Pub. L. 111–84, div. A, title VI, §617(a), Oct. 28, 2009, 123 Stat. 2354.)
+(Added Pub. L. 96–284, §5(a), June 28, 1980, 94 Stat. 592; amended Pub. L. 96–513, title V, §506(6), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 100–140, §2(b)(1), Oct. 26, 1987, 101 Stat. 831; Pub. L. 101–189, div. A, title VII, §§705(b), 706(b), Nov. 29, 1989, 103 Stat. 1472, 1473; Pub. L. 101–510, div. A, title VI, §611(d), title XIII, §1322(c)(2), title XIV, §1484(c)(1), Nov. 5, 1990, 104 Stat. 1577, 1672, 1716; Pub. L. 102–484, div. A, title X, §1054(a)(3), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 104–106, div. A, title VI, §614(b), Feb. 10, 1996, 110 Stat. 361; Pub. L. 104–201, div. A, title VI, §615(c)(3), Sept. 23, 1996, 110 Stat. 2546; Pub. L. 106–398, §1 \[\[div. A\], title VI, §§628(b), 634(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–155, 1654A–159; Pub. L. 109–163, div. A, title VI, §687(a)(1), (e)(1), Jan. 6, 2006, 119 Stat. 3326, 3336; Pub. L. 110–317, §2(a), Aug. 29, 2008, 122 Stat. 3526; Pub. L. 110–417, \[div. A\], title VI, §651(a), (b), Oct. 14, 2008, 122 Stat. 4495; Pub. L. 111–84, div. A, title VI, §617(a), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title X, §1075(c)(1), Jan. 7, 2011, 124 Stat. 4372.)
 
 #### References in Text
 
@@ -82,13 +82,15 @@ Section 752 of the Public Health Service Act, as that section was in effect betw
 
 #### Amendments
 
-2009—Subsec. (e)(1)(A). Pub. L. 111–84, §617(a)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+<b>2011</b>—Subsec. (e)(3)(B). Pub. L. 111–383 inserted “of” after “result”.
+
+<b>2009</b>—Subsec. (e)(1)(A). Pub. L. 111–84, §617(a)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
 Subsec. (e)(1)(B), (2). Pub. L. 111–84, §617(a)(5), redesignated subpar. (B), relating to sole survivorship discharge, as par. (2). Former par. (2) redesignated (3).
 
 Subsec. (e)(3) to (5). Pub. L. 111–84, §617(a)(2)–(4), redesignated pars. (2) to (4) as (3) to (5), respectively, and, in par. (5)(B), substituted “paragraph (4)(B)” for “paragraph (3)(B)” in introductory provisions.
 
-2008—Subsec. (e). Pub. L. 110–417, §651(a)(1), inserted “; Termination of Entitlement to Unpaid Amounts” after “Met” in heading.
+<b>2008</b>—Subsec. (e). Pub. L. 110–417, §651(a)(1), inserted “; Termination of Entitlement to Unpaid Amounts” after “Met” in heading.
 
 Subsec. (e)(1). Pub. L. 110–417, §651(a)(2)(A), which directed substitution of “(A) Except as provided in paragraph (2), a member” for “A member”, could not be executed because of prior amendment by 110–317. See below.
 
@@ -104,31 +106,31 @@ Subsec. (e)(2). Pub. L. 110–417, §651(b), added par. (2). Former par. (2) red
 
 Pub. L. 110–317, §2(a)(3), added par. (2). Former par. (2) redesignated as subpar. (B) of par. (1) relating to the Secretary establishing procedures for determining the amount of the repayment required under subsec. (e).
 
-2006—Pub. L. 109–163, §687(e)(1), substituted “Special pay: general provisions” for “Special pay: health professionals; general provisions” in section catchline.
+<b>2006</b>—Pub. L. 109–163, §687(e)(1), substituted “Special pay: general provisions” for “Special pay: health professionals; general provisions” in section catchline.
 
 Subsec. (e). Pub. L. 109–163, §687(a)(1), added subsec. (e).
 
-2000—Pub. L. 106–398, §1 \[\[div. A\], title VI, §628(b)\], substituted “302j” for “302h” wherever appearing.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title VI, §628(b)\], substituted “302j” for “302h” wherever appearing.
 
 Subsecs. (b) to (d). Pub. L. 106–398, §1 \[\[div. A\], title VI, §634(a)\], added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-1996—Pub. L. 104–201 substituted “302h” for “302g” wherever appearing.
+<b>1996</b>—Pub. L. 104–201 substituted “302h” for “302g” wherever appearing.
 
 Pub. L. 104–106 substituted “302 through 302g,” for “302, 302a, 302b, 302c, 302d, 302e,” wherever appearing.
 
-1992—Subsec. (b). Pub. L. 102–484 struck out “301d,” after “such sections”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–484 struck out “301d,” after “such sections”.
 
-1990—Subsec. (a). Pub. L. 101–510, §§611(d), 1484(c)(1), inserted “301d,” after “sections” and substituted “and 303” for “303, and 311”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–510, §§611(d), 1484(c)(1), inserted “301d,” after “sections” and substituted “and 303” for “303, and 311”.
 
 Subsec. (b). Pub. L. 101–510, §611(d), inserted “301d,” after “sections” wherever appearing.
 
 Subsec. (c). Pub. L. 101–510, §§611(d), 1322(c)(2), 1484(c)(1), inserted “301d,” after “sections”, substituted “and 303” for “303, and 311”, and struck out at end “A report shall be submitted to the Congress not later than September 30, 1982, of the results of the first such review, and a report shall be submitted to the Congress not later than September 30 of each second year thereafter on the results of the review for the preceding two-year period.”
 
-1989—Pub. L. 101–189 inserted “302d, 302e,” after “302c,” wherever appearing.
+<b>1989</b>—Pub. L. 101–189 inserted “302d, 302e,” after “302c,” wherever appearing.
 
-1987—Pub. L. 100–140 inserted “302c,” after “302b,” wherever appearing.
+<b>1987</b>—Pub. L. 100–140 inserted “302c,” after “302b,” wherever appearing.
 
-1980—Subsec. (a). Pub. L. 96–513, §506(6)(A), struck out reference to sections 302c and 313 of this title.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513, §506(6)(A), struck out reference to sections 302c and 313 of this title.
 
 Subsec. (b). Pub. L. 96–513, §506(6)(B), (C), struck out reference to section 302c of this title and inserted reference to separation pay.
 
@@ -147,6 +149,4 @@ Amendment by Pub. L. 100–140 effective Oct. 26, 1987, and applicable to pay pe
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
 

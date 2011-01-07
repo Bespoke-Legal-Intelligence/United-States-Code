@@ -40,7 +40,7 @@
 
 &emsp;(9) The term “training establishment” means any establishment providing apprentice or other training on the job, including those under the supervision of a college or university or any State department of education, or any State apprenticeship agency, or any State board of vocational education, or any joint apprenticeship committee, or the Bureau of Apprenticeship and Training established pursuant to the Act of August 16, 1937, popularly known as the “National Apprenticeship Act” (29 U.S.C. 50 et seq.), or any agency of the Federal Government authorized to supervise such training.
 
-&emsp;(10) The term “institution of higher learning” means a college, university, or similar institution, including a technical or business school, offering postsecondary level academic instruction that leads to an associate or higher degree if the school is empowered by the appropriate State education authority under State law to grant an associate or higher degree. When there is no State law to authorize the granting of a degree, the school may be recognized as an institution of higher learning if it is accredited for degree programs by a recognized accrediting agency. Such term shall also include a hospital offering educational programs at the postsecondary level without regard to whether the hospital grants a postsecondary degree. Such term shall also include an educational institution which is not located in a State, which offers a course leading to a standard college degree, or the equivalent, and which is recognized by the secretary of education (or comparable official) of the country or other jurisdiction in which the institution is located.
+&emsp;(10) The term “institution of higher learning” means a college, university, or similar institution, including a technical or business school, offering postsecondary level academic instruction that leads to an associate or higher degree if the school is empowered by the appropriate State education authority under State law to grant an associate or higher degree. When there is no State law to authorize the granting of a degree, the school may be recognized as an institution of higher learning if it is accredited for degree programs by a recognized accrediting agency. Such term shall also include a hospital offering educationalprograms at the postsecondary level without regard to whether the hospital grants a postsecondary degree. Such term shall also include an educational institution which is not located in a State, which offers a course leading to a standard college degree, or the equivalent, and which is recognized by the secretary of education (or comparable official) of the country or other jurisdiction in which the institution is located.
 
 &emsp;(11) The term “standard college degree” means an associate or higher degree awarded by (A) an institution of higher learning that is accredited as a collegiate institution by a recognized regional or national accrediting agency; or (B) an institution of higher learning that is a “candidate” for accreditation as that term is used by the regional or national accrediting agencies; or (C) an institution of higher learning upon completion of a course which is accredited by an agency recognized to accredit specialized degree-level programs. For the purpose of this section, the accrediting agency must be one recognized by the Secretary of Education under the provisions of section 3675 of this title.
 
@@ -48,7 +48,7 @@
 
 (b) If an eligible person has attained the person's majority and is under no known legal disability, all references in this chapter to “parent or guardian” shall refer to the eligible person.
 
-(c) Any provision of this chapter which requires any action to be taken by or with respect to the parent or guardian of an eligible person who has not attained such person's majority, or who, having attained such person's majority, is under a legal disability, shall not apply when the Secretary determines that its application would not be in the best interest of the eligible person, would result in undue delay, or would not be administratively feasible. In such a casethe Secretary, where necessary to protect the interest of the eligible person, may designate some other person (who may be the eligible person) as the person by or with respect to whom the action so required should be taken.
+(c) Any provision of this chapter which requires any action to be taken by or with respect to the parent or guardian of an eligible person who has not attained such person's majority, or who, having attained such person's majority, is under a legal disability, shall not apply when the Secretary determines that its application would not be in the best interest of the eligible person, would result in undue delay, or would not be administratively feasible. In such a case the Secretary, where necessary to protect the interest of the eligible person, may designate some other person (who may be the eligible person) as the person by or with respect to whom the action so required should be taken.
 
 (d) No eligible person may be afforded educational assistance under this chapter unless such person was discharged or released after each period such person was on duty with the Armed Forces under conditions other than dishonorable, or while such person is on duty with the Armed Forces.
 
@@ -64,7 +64,7 @@ Prior sections 3501 to 3505 were renumbered sections 6101 to 6105 of this title,
 
 #### Amendments
 
-2006—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2006</b>—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Subsec. (a)(1). Pub. L. 109–461, §301(a)(1), (8), substituted “means any of the following:” for “means—” in introductory provisions and struck out concluding provisions, which read as follows: “arising out of active military, naval, or air service after the beginning of the Spanish-American War, but only if such service did not terminate under dishonorable conditions. The standards and criteria for determining whether or not a disability arising out of such service is service connected shall be those applicable under chapter 11 of this title.”
 
@@ -74,7 +74,7 @@ Subsec. (a)(1)(A). Pub. L. 109–461, §301(a)(2), (3), substituted “A child o
 
 Pub. L. 109–444, §3(a)(2), (3), which substituted “A child of a person who, as a result of qualifying service” for “a child of a person who” in introductory provisions substituted “; or” for a comma in cl. (i) and a period for “, or” in cl. (ii), and struck out cl. (iii), was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
-Subsec. (a)(1)(B). Pub. L. 109–461, §301(a)(2), (4), substituted “The surviving spouse of any person who died of a service-connected disability sustained during a period of qualifying service.” for “the surviving spouse of any person who died of a service-connected disability,”.
+Subsec. (a)(1)(B). Pub. L. 109–461, §301(a)(2), (4), substituted “The surviving spouse of any person who diedof a service-connected disability sustained during a period of qualifying service.” for “the surviving spouse of any person who died of a service-connected disability,”.
 
 Pub. L. 109–444, §3(a)(2), (4), which substituted “The surviving spouse of any person who died of a service-connected disability sustained during a period of qualifying service.” for “the surviving spouse of any person who died of a service-connected disability,”, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
@@ -94,19 +94,19 @@ Subsec. (a)(12). Pub. L. 109–461, §301(b)(1), added par. (12).
 
 Pub. L. 109–444, §3(b)(1), which added par. (12) identical to that added by Pub. L. 109–461, §301(b)(1), was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
-2004—Subsec. (a)(5). Pub. L. 108–454 inserted at end “Such term also includes national tests for admission to institutions of higher learning or graduate schools (such as the Scholastic Aptitude Test (SAT), Law School Admission Test (LSAT), Graduate Record Exam (GRE), and Graduate Management Admission Test (GMAT)) and national tests providing an opportunity for course credit at institutions of higher learning (such as the Advanced Placement (AP) exam and College-Level Examination Program (CLEP)).”
+<b>2004</b>—Subsec. (a)(5). Pub. L. 108–454 inserted at end “Such term also includes national tests for admission to institutions of higher learning or graduate schools (such as the Scholastic Aptitude Test (SAT), Law School Admission Test (LSAT), Graduate Record Exam (GRE), and Graduate Management Admission Test (GMAT)) and national tests providing an opportunity for course credit at institutions of higher learning (such as the Advanced Placement (AP) exam and College-Level Examination Program (CLEP)).”
 
-2001—Subsec. (a)(1)(D). Pub. L. 107–103, §108(a), inserted cl. (i) designation after “(D)” and cl. (ii) designation after “or”.
+<b>2001</b>—Subsec. (a)(1)(D). Pub. L. 107–103, §108(a), inserted cl. (i) designation after “(D)” and cl. (ii) designation after “or”.
 
 Subsec. (a)(6). Pub. L. 107–103, §110(a), inserted at end “Such term also includes any private entity (that meets such requirements as the Secretary may establish) that offers, either directly or under an agreement with another entity (that meets such requirements), a course or courses to fulfill requirements for the attainment of a license or certificate generally recognized as necessary to obtain, maintain, or advance in employment in a profession or vocation in a high technology occupation (as determined by the Secretary).”
 
-2000—Subsec. (a)(5). Pub. L. 106–419, §122(a), inserted at end “Such term also includes licensing or certification tests, the successful completion of which demonstrates an individual's possession of the knowledge or skill required to enter into, maintain, or advance in employment in a predetermined and identified vocation or profession, provided such tests and the licensing or credentialing organizations or entities that offer such tests are approved by the Secretary in accordance with section 3689 of this title.”
+<b>2000</b>—Subsec. (a)(5). Pub. L. 106–419, §122(a), inserted at end “Such term also includes licensing or certification tests, the successful completion of which demonstrates an individual's possession of the knowledge or skill required to enter into, maintain, or advance in employment in a predetermined and identified vocation or profession, provided such tests and the licensing or credentialing organizations or entities that offer such tests are approved by the Secretary in accordance with section 3689 of this title.”
 
 Pub. L. 106–419, §114(a), inserted at end “Such term also includes any preparatory course described in section 3002(3)(B) of this title.”
 
-1996—Subsec. (a)(3)(C). Pub. L. 104–106 substituted “section 12103(d) of title 10” for “section 511(d) of title 10”.
+<b>1996</b>—Subsec. (a)(3)(C). Pub. L. 104–106 substituted “section 12103(d) of title 10” for “section 511(d) of title 10”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1701 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1701 of this title as this section.
 
 Subsec. (a)(3). Pub. L. 102–83, §5(c)(1), substituted “3512” for “1712”.
 
@@ -114,13 +114,13 @@ Subsec. (a)(4). Pub. L. 102–40 substituted “5502” for “3202”.
 
 Subsec. (a)(11). Pub. L. 102–83, §5(c)(1), substituted “3675” for “1775”.
 
-1989—Subsecs. (a)(4), (c). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Subsecs. (a)(4), (c). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1983—Subsec. (a)(1)(A)(iii), (C). Pub. L. 98–160, §702(12)(A), struck out “, United States Code,” after “title 37” and inserted a comma after “regulations issued thereunder”.
+<b>1983</b>—Subsec. (a)(1)(A)(iii), (C). Pub. L. 98–160, §702(12)(A), struck out “, United States Code,” after “title 37” and inserted a comma after “regulations issued thereunder”.
 
 Subsec. (a)(9). Pub. L. 98–160, §702(12)(B), substituted “the Act of August 16, 1937, popularly known as the ‘National Apprenticeship Act’ (29 U.S.C. 50 et seq.)” for “chapter 4C of title 29”.
 
-1980—Subsec. (a). Pub. L. 96–466, §801(c)(1), inserted “and chapter 36 of this title” after “chapter” in introductory text.
+<b>1980</b>—Subsec. (a). Pub. L. 96–466, §801(c)(1), inserted “and chapter 36 of this title” after “chapter” in introductory text.
 
 Subsec. (a)(9). Pub. L. 96–466, §801(c)(2), substituted “The” for “For the purposes of this chapter and chapter 36 of this title, the”.
 
@@ -128,7 +128,7 @@ Subsec. (a)(10). Pub. L. 96–466, §§327(a), 801(c)(2), substituted “The” 
 
 Subsec. (a)(11). Pub. L. 96–466, §801(c)(2), (3), substituted “The” for “For the purposes of this chapter and chapter 36 of this title, the” and “Secretary of Education” for “Commissioner of Education”.
 
-1976—Subsec. (a)(1). Pub. L. 94–502, §310(2), substituted “surviving spouse” for “widow” and “spouse” for “wife” in two places.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–502, §310(2), substituted “surviving spouse” for “widow” and “spouse” for “wife” in two places.
 
 Subsec. (a)(10), (11). Pub. L. 94–502, §302, added pars. (10), (11).
 
@@ -138,23 +138,23 @@ Subsec. (c). Pub. L. 94–502, §310(4), substituted “such person's” for “
 
 Subsec. (d). Pub. L. 94–502, §310(5), substituted “such person” for “he” in three places.
 
-1974—Subsec. (a)(4). Pub. L. 93–295 substituted “any other person who has been appointed by the Administrator under section 3202 of this title to receive payment of benefits for the use and benefit of the eligible person” for “any person who is determined by the Administrator in accordance with section 3202 of this title to be otherwise legally vested with the care of the eligible person”.
+<b>1974</b>—Subsec. (a)(4). Pub. L. 93–295 substituted “any other person who has been appointed by the Administrator under section 3202 of this title to receive payment of benefits for the use and benefit of the eligible person” for “any person who is determined by the Administrator in accordance with section 3202 of this title to be otherwise legally vested with the care of the eligible person”.
 
-1972—Subsec. (a)(6). Pub. L. 92–540, §309(1), inserted reference to correspondence school within the definition of “educational institution”.
+<b>1972</b>—Subsec. (a)(6). Pub. L. 92–540, §309(1), inserted reference to correspondence school within the definition of “educational institution”.
 
 Subsec. (a)(9). Pub. L. 92–540, §309(2), added par. (9).
 
-1970—Subsec. (a)(1)(A). Pub. L. 91–584, §1(3), added cl. (iii).
+<b>1970</b>—Subsec. (a)(1)(A). Pub. L. 91–584, §1(3), added cl. (iii).
 
 Subsec. (a)(1)(C), (D). Pub. L. 91–584, §1(5), (6), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-1969—Subsec. (a)(2). Pub. L. 91–24 substituted “the age of twenty-three years” for “the age of twenty-one years”.
+<b>1969</b>—Subsec. (a)(2). Pub. L. 91–24 substituted “the age of twenty-three years” for “the age of twenty-one years”.
 
-1968—Subsec. (a)(1). Pub. L. 90–631, §2(b), extended the definition of “eligible person” to include the widow of any person who died of a service-connected disability, or the wife of any person who has a total disability permanent in nature resulting from a service-connected disability, or the widow of a veteran who died while a disability so evaluated was in existence.
+<b>1968</b>—Subsec. (a)(1). Pub. L. 90–631, §2(b), extended the definition of “eligible person” to include the widow of any person who died of a service-connected disability, or the wife of any person who has a total disability permanent in nature resulting from a service-connected disability, or the widow of a veteran who died while a disability so evaluated was in existence.
 
-Subsec. (d). Pub. L. 90–631, §2(c), substituted provisions requiring that any eligible person seeking educational assistance under this chapter to have been discharged or released after each period he was on duty with the armed forces under conditions other than dishonorable, or while he is on duty with the armed forces, for provisions setting forth the purposes of educational assistance programs established under this chapter.
+Subsec. (d). Pub. L. 90–631, §2(c), substituted provisions requiring that any eligible person seeking educational assistance under this chapter to have been discharged or released after each period he was on dutywith the armed forces under conditions other than dishonorable, or while he is on duty with the armed forces, for provisions setting forth the purposes of educational assistance programs established under this chapter.
 
-1966—Subsec. (a)(1). Pub. L. 89–358, §4(j)(3), struck out “and prior to the end of the induction period” after “Spanish-American War”.
+<b>1966</b>—Subsec. (a)(1). Pub. L. 89–358, §4(j)(3), struck out “and prior to the end of the induction period” after “Spanish-American War”.
 
 Subsec. (a)(3)(C). Pub. L. 89–358, §4(j)(1), substituted “section 511(d) of title 10” for “section 1013(c)(1) of title 50”.
 
@@ -162,7 +162,7 @@ Subsec. (a)(8) to (10). Pub. L. 89–358, §4(j)(2), struck out par. (8) includi
 
 Subsec. (d). Pub. L. 89–358, §4(j)(3), struck out “and prior to the end of the induction period” after “Spanish-American War”.
 
-1965—Subsec. (a)(1). Pub. L. 89–349, §1(a), (b), generally amended par. (1) and, among other changes, substituted “after the beginning of the Spanish-American War and prior to the end of the induction period” for “during the Spanish-American War, World War I, World War II, the Korean conflict, or the induction period” in first sentence.
+<b>1965</b>—Subsec. (a)(1). Pub. L. 89–349, §1(a), (b), generally amended par. (1) and, among other changes, substituted “after the beginning of the Spanish-American War and prior to the end of the induction period” for “during the Spanish-American War, World War I, World War II, the Korean conflict, or the induction period” in first sentence.
 
 Pub. L. 89–222 substituted “such service” the second time it appears for “service during the Spanish-American War, World War I, World War II, or the Korean conflict” and struck out provisions which prescribed the applicable standards and criteria for determining whether or not a disability arising out of service during the induction period is service-connected.
 
@@ -170,19 +170,19 @@ Subsec. (a)(9). Pub. L. 89–349, §1(c), struck out provisions which included t
 
 Subsec. (d). Pub. L. 89–349, §1(d), substituted “after the beginning of the Spanish-American War and prior to the end of the induction period” for “during the Spanish-American War, World War I, World War II, the Korean conflict, or the induction period”.
 
-1964—Subsec. (a)(1). Pub. L. 88–361, §1(a), included the child of a person who has a service-connected disability, or who died while such disability existed.
+<b>1964</b>—Subsec. (a)(1). Pub. L. 88–361, §1(a), included the child of a person who has a service-connected disability, or who died while such disability existed.
 
 Subsec. (a)(10). Pub. L. 88–361, §1(b), added par. (10).
 
 Subsec. (d). Pub. L. 88–361, §1(c), inserted “disability or” before “death” wherever appearing.
 
-1960—Subsec. (a)(1). Pub. L. 86–785, §1, substituted “the Korean conflict, or the induction period” for “or the Korean conflict”, inserted “arising out of serviceduring the Spanish-American War, World War I, World War II, or the Korean conflict” after “whether or not a disability”, and inserted the sentence relating to the criteria for determining whether a disability arising out of service during the induction period is service connected.
+<b>1960</b>—Subsec. (a)(1). Pub. L. 86–785, §1, substituted “the Korean conflict, or the induction period” for “or the Korean conflict”, inserted “arising out of service during the Spanish-American War, World War I, World War II, or the Korean conflict” after “whether or not a disability”, and inserted the sentence relating to the criteria for determining whether a disability arising out of service during the induction period is service connected.
 
 Subsec. (a)(9). Pub. L. 86–785, §2, added par. (9).
 
 Subsec. (d). Pub. L. 86–785, §3, substituted “the Korean conflict, or the induction period” for “or the Korean conflict”.
 
-1959—Subsecs. (a)(1), (d). Pub. L. 86–236 inserted reference to Spanish-American War.
+<b>1959</b>—Subsecs. (a)(1), (d). Pub. L. 86–236 inserted reference to Spanish-American War.
 
 #### Effective Date of 2006 Amendment
 

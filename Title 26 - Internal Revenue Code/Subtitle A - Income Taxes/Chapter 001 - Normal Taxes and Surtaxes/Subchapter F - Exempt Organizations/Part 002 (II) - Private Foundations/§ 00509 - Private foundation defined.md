@@ -132,15 +132,15 @@ Sections 1221(a)(2) and 1241(a), (b) of Pub. L. 109–280, which directed the am
 
 #### Amendments
 
-2006—Subsec. (a)(3)(B). Pub. L. 109–280, §1241(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “is operated, supervised, or controlled by or in connection with one or more organizations described in paragraph (1) or (2), and”. See Codification note above.
+<b>2006</b>—Subsec. (a)(3)(B). Pub. L. 109–280, §1241(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “is operated, supervised, or controlled by or in connection with one or more organizations described in paragraph (1) or (2), and”. See Codification note above.
 
-Subsec. (e). Pub. L. 109–280, §1221(a)(2), inserted at end “Such term shall also include income from sourcessimilar to those in the preceding sentence.” See Codification note above.
+Subsec. (e). Pub. L. 109–280, §1221(a)(2), inserted at end “Such term shall also include income from sources similar to those in the preceding sentence.” See Codification note above.
 
 Subsec. (f). Pub. L. 109–280, §1241(b), added subsec. (f). See Codification note above.
 
-1978—Subsec. (e). Pub. L. 95–345 inserted provision relating to payments with respect to securities loans.
+<b>1978</b>—Subsec. (e). Pub. L. 95–345 inserted provision relating to payments with respect to securities loans.
 
-1975—Subsec. (a)(2)(B). Pub. L. 94–81 designated existing provisions as cl. (i) and added cl. (ii).
+<b>1975</b>—Subsec. (a)(2)(B). Pub. L. 94–81 designated existing provisions as cl. (i) and added cl. (ii).
 
 #### Effective Date of 2006 Amendment
 

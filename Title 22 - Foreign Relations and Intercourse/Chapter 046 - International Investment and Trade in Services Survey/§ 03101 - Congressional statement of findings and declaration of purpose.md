@@ -4,7 +4,7 @@
 
 The Congress finds and declares that—
 
-&emsp;(1) the United States Government is presently authorized to collect limited amounts of information on United States investment abroad and foreign investment in the United States;
+&emsp;(1) the United States Government is presently authorized to collect limited amounts of information on United States investmentabroad and foreign investment in the United States;
 
 &emsp;(2) international investment has increased rapidly within recent years;
 
@@ -28,15 +28,15 @@ It is therefore the purpose of this chapter to provide clear and unambiguous aut
 
 #### (c) Nonrestraint and nondeterrence of investment
 
-Nothing in this chapter is intended to restrain or deter foreign investment in the UnitedStates, United States investment abroad, or trade in services.
+Nothing in this chapter is intended to restrain or deter foreign investment in the United States, United States investment abroad, or trade in services.
 
 (Pub. L. 94–472, §2, Oct. 11, 1976, 90 Stat. 2059; Pub. L. 98–573, title III, §306(b)(2), Oct. 30, 1984, 98 Stat. 3009; Pub. L. 101–533, §6(A)\[(a)\], Nov. 7, 1990, 104 Stat. 2348.)
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–533 inserted “to authorize the collection and use of information on direct investments owned or controlled directly or indirectly by foreign governments or persons,” after “the impact of such investment and trade,” in first sentence.
+<b>1990</b>—Subsec. (b). Pub. L. 101–533 inserted “to authorize the collection and use of information on direct investments owned or controlled directly or indirectly by foreign governments or persons,” after “the impact of such investment and trade,” in first sentence.
 
-1984—Subsec. (a)(7) to (9). Pub. L. 98–573, §306(b)(2)(A), added pars. (7) and (8), redesignated former par. (7) as (9), and inserted “and trade in services” after “international investment” in par. (9).
+<b>1984</b>—Subsec. (a)(7) to (9). Pub. L. 98–573, §306(b)(2)(A), added pars. (7) and (8), redesignated former par. (7) as (9), and inserted “and trade in services” after “international investment” in par. (9).
 
 Subsec. (b). Pub. L. 98–573, §306(b)(2)(B), substituted “international investment and United States foreign trade in services, whether directly or by affiliates, including related information necessary for assessing the impact of such investment and trade,” for “international investment”, and “international investment and trade in services” for “international investment”.
 

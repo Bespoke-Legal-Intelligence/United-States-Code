@@ -22,11 +22,11 @@ The words “entered into after July 1, 1937” and “entered into subsequent t
 
 #### Amendments
 
-2000—Pub. L. 106–398 struck out “, except a plan authorized by section 7426 of this title,” after “development and operation”.
+<b>2000</b>—Pub. L. 106–398 struck out “, except a plan authorized by section 7426 of this title,” after “development and operation”.
 
-1976—Pub. L. 94–258 substituted “within Naval Petroleum Reserve Numbered 2 and the oil shale reserves shall contain a provision authorizing the Secretary” for “within the naval petroleum and oil shale reserves shall contain a provision authorizing the Secretary of the Navy”.
+<b>1976</b>—Pub. L. 94–258 substituted “within Naval Petroleum Reserve Numbered 2 and the oil shale reserves shall contain a provision authorizing the Secretary” for “within the naval petroleum and oil shale reserves shall contain a provision authorizing the Secretary of the Navy”.
 
-1962—Pub. L. 87–796 included leases affecting lands within oil shale reserves.
+<b>1962</b>—Pub. L. 87–796 included leases affecting lands within oil shale reserves.
 
 #### Delegation of Functions
 

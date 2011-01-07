@@ -12,13 +12,13 @@ The Secretary of Commerce in coordination with the Pacific Fishery Management Co
 
 #### References in Text
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L.94–265, Apr. 13, 1976, 90 Stat. 331, as amended. Title III of the Act is classified generally to subchapter IV (§1851 et seq.) of chapter 38 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended. Title III of the Act is classified generally to subchapter IV (§1851 et seq.) of chapter 38 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
-1980—Subsec. (a). Pub. L. 96–561, §238(b), substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–561, §238(b), substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
 
 #### Effective Date of 1996 Amendment
 

@@ -1,6 +1,6 @@
 ### §2734a. Property loss; personal injury or death: incident to noncombat activities of armed forces in foreign countries; international agreements
 
-(a) When the United States is a party to an international agreement which provides for the settlement or adjudication and cost sharing of claims against the United States arising out of the acts or omissions of a member or civilian employee of an armed force of the United States done in the performance of official duty, or arising out of any other act, omission, or occurrence for which an armed force of the United States is legally responsible under the law of another party to the international agreement, and causing damage in the territory of such party, the Secretary of Defense or the Secretary of Homeland Security or their designees may—
+(a) When the United States is a party to an international agreement which provides for the settlement or adjudication and cost sharing of claims against the United States arising out of the acts or omissions of a member or civilian employee of an armed force of the United States done in the performance of official duty, or arising out of any other act, omission, or occurrence for which an armed force of the United States islegally responsible under the law of another party to the international agreement, and causing damage in the territory of such party, the Secretary of Defense or the Secretary of Homeland Security or their designees may—
 
 &emsp;(1) reimburse the party to the agreement for the agreed pro rata share of amounts, including any authorized arbitration costs, paid by that party in satisfying awards or judgments on claims, in accordance with the agreement; or
 
@@ -46,17 +46,17 @@ In subsection (c), the words “pro rata” are omitted as surplusage. The follo
 
 #### Amendments
 
-2002—Subsecs. (a), (c), (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” wherever appearing.
+<b>2002</b>—Subsecs. (a), (c), (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” wherever appearing.
 
-1990—Subsec. (c). Pub. L. 101–510, §1481(j)(4)(B)(i), substituted “as provided in section 2732 of this title” for “for that purpose”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–510, §1481(j)(4)(B)(i), substituted “as provided in section 2732 of this title” for “for that purpose”.
 
 Subsec. (d). Pub. L. 101–510, §1481(j)(4)(B)(ii), substituted “appropriations as provided in section 2732 of this title” for “the appropriation for claims of the Department of Defense”.
 
-1984—Pub. L. 98–525 substituted “in foreign countries” for “; foreign countries” in section catchline.
+<b>1984</b>—Pub. L. 98–525 substituted “in foreign countries” for “; foreign countries” in section catchline.
 
-1976—Subsec. (a). Pub. L. 94–390 substituted provisions authorizing the Secretary of Defense or the Secretary of Transportation to reimburse or pay, including arbitration costs, claims arising under international agreements to which the United States is a party and providing for settlement or adjudication and cost sharing based on the responsibility of the United States under the law of the other party to the international agreement, for provisions authorizing the Secretary of Defense to reimburse or pay claims arising under international agreements to which the United States is a party and providing for adjudication by the other country under its laws and regulations.
+<b>1976</b>—Subsec. (a). Pub. L. 94–390 substituted provisions authorizing the Secretary of Defense or the Secretary of Transportation to reimburse or pay, including arbitration costs, claims arising under international agreements to which the United States is a party and providing for settlement or adjudication and cost sharing based on the responsibility of the United States under the law of the other party to the international agreement, for provisions authorizing the Secretary of Defense to reimburse or pay claims arising under international agreements to which the United States is a party and providing for adjudication by the other country under its laws and regulations.
 
-1968—Subsec. (c). Pub. L. 90–521, §4(a), provided for payment of claims against the Coast Guard arising while it is operating as a service of the Department of Transportation out of appropriations for operating expenses of the Coast Guard.
+<b>1968</b>—Subsec. (c). Pub. L. 90–521, §4(a), provided for payment of claims against the Coast Guard arising while it is operating as a service of the Department of Transportation out of appropriations for operating expenses of the Coast Guard.
 
 Subsec. (d). Pub. L. 90–521, §4(b), added subsec. (d).
 

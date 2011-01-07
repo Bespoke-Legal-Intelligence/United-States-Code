@@ -26,7 +26,7 @@
 
 #### (c) Sale of loans; authority; amount; agreements with purchasers; deposit of proceeds
 
-(1) The Secretary shall from time to time, but with due regard to the financial interests of the United States, sell loans made under this part either on the private market or to the FederalNational Mortgage Association in accordance with section 1717 of title 12 or to the Federal Financing Bank.
+(1) The Secretary shall from time to time, but with due regard to the financial interests of the United States, sell loans made under this part either on the private market or to the Federal National Mortgage Association in accordance with section 1717 of title 12 or to the Federal Financing Bank.
 
 (2) Any loan so sold shall be sold for an amount which is equal (or approximately equal) to the amount of the unpaid principal of such loans as of time of sale.
 
@@ -82,7 +82,7 @@
 
 &emsp;(F) to enable the Secretary to take the action authorized by subsection (f) of this section,
 
-> he is authorized to issue to the Secretary of the Treasury notes or other obligations in such forms and denominations, bearing such maturities, and subject to such terms and conditions, as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of the notes or other obligations. The Secretary of the Treasury shall purchase any notesand other obligations issued under this paragraph and for that purpose he may use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which the securities may be issued under that chapter are extended to include any purchase of such notes and obligations. The Secretary of the Treasury may at any time sell any of the notes or other obligations acquired by him under this paragraph. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes or other obligations shall be treated as public debt transactions of the United States. Sums borrowed under this paragraph shall be deposited in the fund and redemption of such notes and obligations shall be made by the Secretary from the fund.
+> he is authorized to issue to the Secretary of the Treasury notes or other obligations in such forms and denominations, bearing such maturities, and subject to such terms and conditions, as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of the notes or other obligations. The Secretary of the Treasury shall purchase any notes and other obligations issued under this paragraph and for that purpose he may use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which the securities may be issued under that chapter are extended to include any purchase of such notes and obligations. The Secretary of the Treasury may at any time sell any of the notes or other obligations acquired by him under this paragraph. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes or other obligations shall be treated as public debt transactions of the United States. Sums borrowed under this paragraph shall be deposited in the fund and redemption of such notes and obligations shall be made by the Secretary from the fund.
 
 #### (e) Transfers to and additional capitalization of loan and loan guarantee fund
 
@@ -108,11 +108,11 @@ A prior section 1602 of act July 1, 1944, ch. 373, title XVI, as added Jan. 4, 1
 
 #### Amendments
 
-1986—Subsec. (c)(5). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (c)(5). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1983—Subsec. (f)(2). Pub. L. 97–414 inserted “selling real property pledged as security for such a loan or loan guarantee and” after “including”.
+<b>1983</b>—Subsec. (f)(2). Pub. L. 97–414 inserted “selling real property pledged as security for such a loan or loan guarantee and” after “including”.
 
-1979—Subsec. (b)(2)(D). Pub. L. 96–79, §201(b)(2), substituted “minus any interest subsidy made in accordance with section 300q(a)(2)(B) of this title (with respect to a loan made for a project located in an urban or rural poverty area” for “minus 3 per centum per annum”.
+<b>1979</b>—Subsec. (b)(2)(D). Pub. L. 96–79, §201(b)(2), substituted “minus any interest subsidy made in accordance with section 300q(a)(2)(B) of this title (with respect to a loan made for a project located in an urban or rural poverty area” for “minus 3 per centum per annum”.
 
 Subsec. (d)(1). Pub. L. 96–79, §203(a)(3), (g)(2), substituted in subpar. (C) reference to section “300q(a)(2)(B)” for “300q(b)(2)” of this title, and added subpar. (F).
 
@@ -122,7 +122,7 @@ Subsec. (e)(2). Pub. L. 96–79, §201(b)(3), authorized appropriations for fisc
 
 Subsec. (f). Pub. L. 96–79, §203(g)(1), added subsec. (f).
 
-1977—Subsec. (c)(5). Pub. L. 95–83, §106(y), added subsec. (c)(5).
+<b>1977</b>—Subsec. (c)(5). Pub. L. 95–83, §106(y), added subsec. (c)(5).
 
 Subsec. (e)(2). Pub. L. 95–83, §106(x)(2), substituted provisions authorizing appropriations for fiscal years ending Sept. 30, 1977 and 1978, for prior such authorization for fiscal year ending June 30, 1977.
 

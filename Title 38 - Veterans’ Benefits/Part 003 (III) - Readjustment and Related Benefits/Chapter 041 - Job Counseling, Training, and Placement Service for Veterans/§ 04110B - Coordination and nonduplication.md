@@ -10,5 +10,5 @@ The Workforce Investment Act of 1998, referred to in text, is Pub. L. 105–220,
 
 #### Amendments
 
-2006—Pub. L. 109–233 substituted “implementation of the Workforce Investment Act of 1998” for “implementation of this Act” and inserted “(29 U.S.C. 2822(b))” before period at end.
+<b>2006</b>—Pub. L. 109–233 substituted “implementation of the Workforce Investment Act of 1998” for “implementation of this Act” and inserted “(29 U.S.C. 2822(b))” before period at end.
 

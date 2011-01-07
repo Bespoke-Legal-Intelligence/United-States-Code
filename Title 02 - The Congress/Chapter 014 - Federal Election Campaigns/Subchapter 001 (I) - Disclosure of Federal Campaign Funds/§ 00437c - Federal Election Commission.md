@@ -58,8 +58,6 @@ The Commission shall prepare written rules for the conduct of its activities, sh
 
 This Act, referred to in subsecs. (b), (c), and (f)(3), (4), means the Federal Election Campaign Act of 1971, as amended, as defined by section 431 of this title.
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (f)(1), (4), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 #### Prior Provisions
 
 A prior section 306 of Pub. L. 92–225 was classified to section 436 of this title, prior to repeal by Pub. L. 96–187.
@@ -80,7 +78,7 @@ Pub. L. 96–187, §112(b), purported to substitute “section 307(a)” for “
 
 Subsec. (f). Pub. L. 96–187, §105(6), in par. (1) inserted “or she” after “as he”; in par. (3) struck out “Government” after “United States”; and added par. (4).
 
-1976—Subsec. (a)(1). Pub. L. 94–283, §101(a), changed provisions covering the appointment and confirmation of the six members of the Commission other than the Secretary of the Senate and the Clerk of the House of Representatives by substituting a requirement that they be appointed by the President of the UnitedStates, by and with the advice and consent of the Senate, for a requirement that appointment be made by the President, the President pro tempore of the Senate, and the Speaker of the House, with confirmation by a majority of both Houses of the Congress, and made technical changes in the provisions covering the political affiliation of the six appointees so as to accommodate the changed appointment and confirmation procedures.
+1976—Subsec. (a)(1). Pub. L. 94–283, §101(a), changed provisions covering the appointment and confirmation of the six members of the Commission other than the Secretary of the Senate and the Clerk of the House of Representatives by substituting a requirement that they be appointed by the President of the United States, by and with the advice and consent of the Senate, for a requirement that appointment be made by the President, the President pro tempore of the Senate, and the Speaker of the House, with confirmation by amajority of both Houses of the Congress, and made technical changes in the provisions covering the political affiliation of the six appointees so as to accommodate the changed appointment and confirmation procedures.
 
 Subsec. (a)(2). Pub. L. 94–283, §101(b), provided that members of the Commission serve for terms of 6 years, except that members first appointed serve for staggered terms as designated by the President, and inserted provision that a member may serve on the Commission after the expiration of his term until his successor has taken office as a member of the Commission.
 

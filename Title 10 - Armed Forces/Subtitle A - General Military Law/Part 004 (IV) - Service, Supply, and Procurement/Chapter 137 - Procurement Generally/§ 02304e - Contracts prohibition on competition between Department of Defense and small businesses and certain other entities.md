@@ -16,7 +16,7 @@ Procurement Description.—The requirement to exclude the Department of Defense 
 
 #### Amendments
 
-1996—Pub. L. 104–106 renumbered section 2304a of this title as this section.
+<b>1996</b>—Pub. L. 104–106 renumbered section 2304a of this title as this section.
 
 #### Effective Date
 

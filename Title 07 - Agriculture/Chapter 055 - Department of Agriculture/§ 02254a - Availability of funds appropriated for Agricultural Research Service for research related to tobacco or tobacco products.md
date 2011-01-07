@@ -1,6 +1,6 @@
 ### §2254a. Availability of funds appropriated for Agricultural Research Service for research related to tobacco or tobacco products
 
-On and after December 26, 2007, none of the funds appropriated under this heading shall be available to carry out research related to the production, processing, or marketing of tobacco or tobacco products.
+On and after December 26, 2007, none of the funds appropriated under this heading shall beavailable to carry out research related to the production, processing, or marketing of tobacco or tobacco products.
 
 (Pub. L. 110–161, div. A, title I, Dec. 26, 2007, 121 Stat. 1850.)
 

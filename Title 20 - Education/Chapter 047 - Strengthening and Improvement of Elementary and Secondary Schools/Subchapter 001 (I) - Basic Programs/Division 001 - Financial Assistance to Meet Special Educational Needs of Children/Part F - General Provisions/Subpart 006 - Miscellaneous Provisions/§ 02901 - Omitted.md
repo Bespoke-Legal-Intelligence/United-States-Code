@@ -6,7 +6,7 @@ Section, Pub. L. 89–10, title I, §1491, as added Pub. L. 100–297, title I, 
 
 Prior sections 2901 to 2904 were repealed by Pub. L. 97–35, title V, §587(a)(1), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
 
-Section 2901, Pub. L. 89–10, title II, §221, as added Pub. L. 95–561, title II, §201, Nov. 1, 1978, 92 Stat. 2204, set outstatement of purpose for basic skills improvement program.
+Section 2901, Pub. L. 89–10, title II, §221, as added Pub. L. 95–561, title II, §201, Nov. 1, 1978, 92 Stat. 2204, set out statement of purpose for basic skills improvement program.
 
 Section 2902, Pub. L. 89–10, title II, §222, as added Pub. L. 95–561, title II, §201, Nov. 1, 1978, 92 Stat. 2205; amended Pub. L. 96–46, §1(12), Aug. 6, 1979, 93 Stat. 339, related to agreements with State educational agencies.
 

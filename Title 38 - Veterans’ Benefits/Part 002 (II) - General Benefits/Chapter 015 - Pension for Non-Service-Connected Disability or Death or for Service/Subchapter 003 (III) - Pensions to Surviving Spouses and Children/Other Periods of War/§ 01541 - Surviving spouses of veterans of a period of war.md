@@ -2,15 +2,15 @@
 
 (a) The Secretary shall pay to the surviving spouse of each veteran of a period of war who met the service requirements prescribed in section 1521(j) of this title, or who at the time of death was receiving (or entitled to receive) compensation or retirement pay for a service-connected disability, pension at the rate prescribed by this section, as increased from time to time under section 5312 of this title.
 
-(b) If no child of the veteran is in the custody of the surviving spouse, pension shall be paid to the surviving spouse at the annual rate of $2,379, reduced by the amount of the surviving spouse's annual income.
+(b) If no child of the veteran is in the custody of the surviving spouse, pension shall be paid to the surviving spouse at the annual rate of $7,933, reduced by the amount of the surviving spouse's annual income.
 
-(c) If there is a child of the veteran in the custody of the surviving spouse, pension shall be paid to the surviving spouse at the annual rate of $3,116. If the surviving spouse has custody of two or more such children, the annual pension rate shall be increased by $600 for each such child in excess of one. In each case, the rate payable shall be reduced by the amount of the surviving spouse's annual income and, subject to subsection (g) of this section, the annual income of each such child.
+(c) If there is a child of the veteran in the custody of the surviving spouse, pension shall be paid to the surviving spouse at the annual rate of $10,385. If the surviving spouse has custody of two or more such children, the annual pension rate shall be increased by $2,020 for each such child in excess of one. In each case, the rate payable shall be reduced by the amount of the surviving spouse's annual income and, subject to subsection (g) of this section, the annual income of each such child.
 
-(d)(1) If a surviving spouse who is entitled to pension under subsection (b) of this section is in need of regular aid and attendance, the annual rate of pension payable to such surviving spouse shall be $3,806, reduced by the amount of the surviving spouse's annual income.
+(d)(1) If a surviving spouse who is entitled to pension under subsection (b) of this section is in need of regular aid and attendance, the annual rate of pension payable to such surviving spouse shall be $12,681, reduced by the amount of the surviving spouse's annual income.
 
-(2) If a surviving spouse who is entitled to pension under subsection (c) of this section is in need of regular aid and attendance, the annual rate of pension payable to the surviving spouse shall be $4,543. If there are two or more children of the veteran in such surviving spouse's custody, the annual rate of pension shall be increased by $600 for each such child in excess of one. The rate payable shall be reduced by the amount of the surviving spouse's annual income and, subject to subsection (g) of this section, the annual income of each such child.
+(2) If a surviving spouse who is entitled to pension under subsection (c) of this section is in need of regular aid and attendance, the annual rate of pension payable to the surviving spouse shall be $15,128. If there are two or more children of the veteran in such surviving spouse's custody, the annual rate of pension shall be increased by $2,020 for each such child in excess of one. The rate payable shall be reduced by the amount of the surviving spouse's annual income and, subject to subsection (g) of this section, the annual income of each such child.
 
-(e)(1) If the surviving spouse is permanently housebound but does not qualify for pension at the aid and attendance rate provided by subsection (d) of this section, the annual rate of pension payable to such surviving spouse under subsection (b) of this section shall be $2,908 and the annual rate of pension payable to such surviving spouse under subsection (c) of this section shall be $3,645. If there are two or more children of the veteran in such surviving spouse's custody, the annual rate of pension shall be increased by $600 for each such child in excess of one. The rate payable shall be reduced by the amount of the surviving spouse's annual income and, subject to subsection (g) of this section, the income of any child of the veteran for whom the surviving spouse is receiving increased pension.
+(e)(1) If the surviving spouse is permanently housebound but does not qualify for pension at the aid and attendance rate provided by subsection (d) of this section, the annual rate of pension payable to such surviving spouse under subsection (b) of this section shall be $9,696 and the annual rate of pension payable to such surviving spouse under subsection (c) of this section shall be $12,144. If there are two or more children of the veteran in such surviving spouse's custody, the annual rate of pension shall be increased by $2,020 for each such child in excess of one. The rate payable shall be reduced by the amount of the surviving spouse's annual income and, subject to subsection (g) of this section, the income of any child of the veteran for whom the surviving spouse is receiving increased pension.
 
 (2) For purposes of paragraph (1) of this subsection, the requirement of “permanently housebound” shall be met when the surviving spouse is substantially confined to such surviving spouse's house (ward or clinical areas, if institutionalized) or immediate premises by reason of a disability or disabilities reasonably certain to remain throughout such surviving spouse's lifetime.
 
@@ -26,11 +26,21 @@
 
 (h) As used in this section and section 1542 of this title, the term “veteran” includes a person who has completed at least two years of honorable active military, naval, or air service, as certified by the Secretary concerned, but whose death in such service was not in line of duty.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1138, §541; Pub. L. 86–211, §4, Aug. 29, 1959, 73 Stat. 434; Pub. L. 88–664, §3(c), (d), Oct. 13, 1964, 78 Stat. 1095; Pub. L. 90–77, title I, §§101(a), 106, title II, §202(d)–(f), Aug. 31, 1967, 81 Stat. 178, 179, 182; Pub. L. 90–275, §1(c), (d), Mar. 28, 1968, 82 Stat. 65, 66; Pub. L. 91–588, §§1(c), (d), 9(d), Dec. 24, 1970, 84 Stat. 1581, 1584; Pub. L. 92–198, §1(c)–(e), Dec. 15, 1971, 85 Stat. 663, 664; Pub. L. 93–177, §1(c), (d), 2, Dec. 6, 1973, 87 Stat. 695; Pub. L. 93–527, §3, Dec. 21, 1974, 88 Stat. 1703; Pub. L. 94–169, title I, §§101(2)(B), (C), (H), 103, 106(40), Dec. 23, 1975, 89 Stat. 1013, 1014, 1016, 1019; Pub. L. 94–432, title II, §203, Sept. 30, 1976, 90 Stat. 1370; Pub. L. 95–204,title I, §102, Dec. 2, 1977, 91 Stat. 1456; Pub. L. 95–588, title I, §109(a), Nov. 4, 1978, 92 Stat. 2503; Pub. L. 102–25, title III, §333(b), Apr. 6, 1991, 105 Stat. 88; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1541 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1138, §541; Pub. L. 86–211, §4, Aug. 29, 1959, 73 Stat. 434; Pub. L. 88–664, §3(c), (d), Oct. 13, 1964, 78 Stat. 1095; Pub. L. 90–77, title I, §§101(a), 106, title II, §202(d)–(f), Aug. 31, 1967, 81 Stat. 178, 179, 182; Pub. L. 90–275, §1(c), (d), Mar. 28, 1968, 82 Stat. 65, 66; Pub. L. 91–588, §§1(c), (d), 9(d), Dec. 24, 1970, 84 Stat. 1581, 1584; Pub. L. 92–198, §1(c)–(e), Dec. 15, 1971, 85 Stat. 663, 664; Pub. L. 93–177, §1(c), (d), 2, Dec. 6, 1973, 87 Stat. 695; Pub. L. 93–527, §3, Dec. 21, 1974, 88 Stat. 1703; Pub. L. 94–169, title I, §§101(2)(B), (C), (H), 103, 106(40), Dec. 23, 1975, 89 Stat. 1013, 1014, 1016, 1019; Pub. L. 94–432, title II, §203, Sept. 30, 1976, 90 Stat. 1370; Pub. L. 95–204, title I, §102, Dec. 2, 1977, 91 Stat. 1456; Pub. L. 95–588, title I, §109(a), Nov. 4, 1978, 92 Stat. 2503; Pub. L. 102–25, title III, §333(b), Apr. 6, 1991, 105 Stat. 88; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1541 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 111–275, title VI, §608(b), Oct. 13, 2010, 124 Stat. 2887.)
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 541 of this title as this section.
+<b>2010</b>—Subsec. (b). Pub. L. 111–275, §608(b)(1), substituted “$7,933” for “$2,379”.
+
+Subsec. (c). Pub. L. 111–275, §608(b)(2), substituted “$10,385” for “$3,116” and “$2,020” for “$600”.
+
+Subsec. (d)(1). Pub. L. 111–275, §608(b)(3)(A), substituted “$12,681” for “$3,806”.
+
+Subsec. (d)(2). Pub. L. 111–275, §608(b)(3)(B), substituted “$15,128” for “$4,543” and “$2,020” for “$600”.
+
+Subsec. (e)(1). Pub. L. 111–275, §608(b)(4), substituted “$9,696” for “$2,908”, “$12,144” for “$3,645”, and “$2,020” for “$600”.
+
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 541 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1521(j)” for “521(j)”.
 
@@ -44,7 +54,7 @@ Subsec. (g). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” fo
 
 Subsec. (h). Pub. L. 102–83, §5(c)(1), substituted “1542” for “542”.
 
-1978—Subsec. (a). Pub. L. 95–588 revised eligibility provisions relating to surviving spouses to apply to veterans of any period of war rather than veterans of specifically named wars and inserted reference to periodic increases of rate of pension payments pursuant to section 3112 of this title.
+<b>1978</b>—Subsec. (a). Pub. L. 95–588 revised eligibility provisions relating to surviving spouses to apply to veterans of any period of war rather than veterans of specifically named wars and inserted reference to periodic increases of rate of pension payments pursuant to section 3112 of this title.
 
 Subsec. (b). Pub. L. 95–588 qualified parental requirement of this subsection by inserting custody provision, substituted a fixed pension amount of $2,379 for a formula for determining such annual pension based upon annual income of the veteran, and struck out minimum and maximum monthly payment requirements.
 
@@ -58,7 +68,7 @@ Subsec. (f). Pub. L. 95–588 substituted provisions specifying the eligibility 
 
 Subsecs. (g), (h). Pub. L. 95–588 added subsecs. (g) and (h).
 
-1977—Subsec. (b)(1). Pub. L. 95–204, §102(1), increased monthly rate of pension from $125 to $133, inserted authorization for reductions by .07 for amounts more than 2,800 but not more than 3,770, and substituted “1,100” for “1,200” in two places, “1,800” for “2,300” in two places, and “2,800” for “3,540”.
+<b>1977</b>—Subsec. (b)(1). Pub. L. 95–204, §102(1), increased monthly rate of pension from $125 to $133, inserted authorization for reductions by .07 for amounts more than 2,800 but not more than 3,770, and substituted “1,100” for “1,200” in two places, “1,800” for “2,300” in two places, and “2,800” for “3,540”.
 
 Subsec. (b)(3). Pub. L. 95–204, §102(2), substituted “$3,770” for “$3,540”.
 
@@ -68,7 +78,7 @@ Subsec. (c)(2). Pub. L. 95–204, §102(4), substituted “$5,070” for “$4,7
 
 Subsec. (d). Pub. L. 95–204, §102(5), substituted “$26” for “$24”.
 
-1976—Subsec. (b)(1). Pub. L. 94–432, §203(1), increased monthly rate of pension from $117 to $125 and substituted $900 to $1,200 for $900 to $1,500, $1,200 to $2,300 for $1,500 to $2,700 and $2,300 to $3,540 for $2,700 to $3,300.
+<b>1976</b>—Subsec. (b)(1). Pub. L. 94–432, §203(1), increased monthly rate of pension from $117 to $125 and substituted $900 to $1,200 for $900 to $1,500, $1,200 to $2,300 for $1,500 to $2,700 and $2,300 to $3,540 for $2,700 to $3,300.
 
 Subsec. (b)(3). Pub. L. 94–432, §203(2), substituted “$3,540” for “$3,300”.
 
@@ -78,7 +88,7 @@ Subsec. (c)(2). Pub. L. 94–432, §203(4), substituted “$4,760” for “$4,5
 
 Subsec. (d). Pub. L. 94–432, §203(5), substituted “$24” for “$22”.
 
-1975—Pub. L. 94–169, §101(2)(H), substituted “Surviving Spouses” for “Widows” in section catchline.
+<b>1975</b>—Pub. L. 94–169, §101(2)(H), substituted “Surviving Spouses” for “Widows” in section catchline.
 
 Subsec. (a). Pub. L. 94–169, §101(2)(B), substituted “surviving spouse” for “widow” and struck out “his” before “death”.
 
@@ -92,7 +102,7 @@ Subsec. (e). Pub. L. 94–169, §101(2)(C), substituted “to a surviving spouse
 
 Subsec. (e)(1). Pub. L. 94–169, §106(40), substituted “surviving spouse” for “widow” in subcls. (A), (B) and (C).
 
-1974—Subsec. (b). Pub. L. 93–527, §3(1), substituted “$108” for “$96”, “$900” for “$1400” wherever appearing, and “$2100” for “$2600”, and inserted provisions for reduction by 5 cents for each dollar of annual income in excess of $2100 up to and including $3000, that in no event shall monthly rate of pension be less than $5.00, and raising the maximum income from $2600 to $3000.
+<b>1974</b>—Subsec. (b). Pub. L. 93–527, §3(1), substituted “$108” for “$96”, “$900” for “$1400” wherever appearing, and “$2100” for “$2600”, and inserted provisions for reduction by 5 cents for each dollar of annual income in excess of $2100 up to and including $3000, that in no event shall monthly rate of pension be less than $5.00, and raising the maximum income from $2600 to $3000.
 
 Subsec. (c). Pub. L. 93–527, §3(2), substituted “$128” for “$114”, and “$2100” for “$2500” wherever appearing, “$3000” for “$3400” wherever appearing, and “$4200” for “$3800” wherever appearing.
 
@@ -100,19 +110,19 @@ Subsec. (d). Pub. L. 93–527, §3(3), substituted “$20” for “$18”.
 
 Subsec. (f). Pub. L. 93–527, §3(4), added subsec. (f).
 
-1973—Subsec. (b). Pub. L. 93–177, §1(c), substituted “$86” for “$87” and “$1,400” for “$1,900”.
+<b>1973</b>—Subsec. (b). Pub. L. 93–177, §1(c), substituted “$86” for “$87” and “$1,400” for “$1,900”.
 
 Subsec. (c). Pub. L. 93–177, §1(d), substituted “$700” for “$600”, “$114” for “$104”, “$1,100” for “$1,400”, “$2,500” for “$2,700”, and “$3,400” for “$3,800” in existing provisions and inserted provision for a reduction of 4 cents in monthly rate for each $1 of annual income in excess of $3,400 up to and including $3,800.
 
 Subsec. (d). Pub. L. 93–177, §2, substituted “$18” for “$17”.
 
-1971—Subsec. (b). Pub. L. 92–198, §1(c), substituted formula for computing monthly pension rates of widow without child by providing for a maximum monthly pension for each group within designated income category and for computing each individual's monthly pension by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out income and pension rates, and raised the maximum income from $2,300 to $2,600.
+<b>1971</b>—Subsec. (b). Pub. L. 92–198, §1(c), substituted formula for computing monthly pension rates of widow without child by providing for a maximum monthly pension for each group within designated income category and for computing each individual's monthly pension by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out income and pension rates, and raised the maximum income from $2,300 to $2,600.
 
 Subsec. (c). Pub. L. 92–198, §1(d), substituted formula for computing monthly pension rates of widow with one child by providing for a maximum monthly pension for each group with designated annual income category and for computing each individual's monthly benefit rate by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out income and pension rates, and further providing that whenever the monthly rate payable is less than the amount payable to the child under section 542 of this title, the widow would be paid at the child's rate, and raised the maximum income from $3,500 to $3,800.
 
 Subsec. (d). Pub. L. 92–198, §1(e), substituted “$17” for “$16”.
 
-1970—Pub. L. 91–588, §9(d)(3), inserted reference to Mexican border period in section catchline.
+<b>1970</b>—Pub. L. 91–588, §9(d)(3), inserted reference to Mexican border period in section catchline.
 
 Subsec. (a). Pub. L. 91–588, §9(d)(1), inserted reference to Mexican border period.
 
@@ -122,11 +132,11 @@ Subsec. (c). Pub. L. 91–588, §1(d), provided new annual income limits to meas
 
 Subsec. (e)(1). Pub. L. 91–588, §9(d)(2), inserted reference to Mexican border period.
 
-1968—Subsec. (b). Pub. L. 90–275, §1(c), in providing new annual income limits to measure monthly pension rates of widow without child, substituted minimum income limit of $300 for monthly benefit of $74 for former $600 limit for monthly benefit of $70, maximum income limit of $2,000 for monthly benefit of $17 for former $1,800 limit for monthly benefit of $29, and sixteen other in-between limits in one hundred dollar increments from more than $300 to less than $1,900 for monthly benefits of $73 to $23 for former in-between limit of more than $600 but less than $1,200 for monthly benefit of $51.
+<b>1968</b>—Subsec. (b). Pub. L. 90–275, §1(c), in providing new annual income limits to measure monthly pension rates of widow without child, substituted minimum income limit of $300 for monthly benefit of $74 for former $600 limit for monthly benefit of $70, maximum income limit of $2,000 for monthly benefit of $17 for former $1,800 limit for monthly benefit of $29, and sixteen other in-between limits in one hundred dollar increments from more than $300 to less than $1,900 for monthly benefits of $73 to $23 for former in-between limit of more than $600 but less than $1,200 for monthly benefit of $51.
 
 Subsec. (c). Pub. L. 90–275, §1(d), in providing new annual income limits to measure monthly pension rates of widow with one child, substituted minimum income limit of $600 for monthly benefit of $90 for former $1,000 limit for monthly benefit of $86, maximum income limit of $3,200 for monthly benefit of $41 for former $3,000 limit for monthly benefit of $45, and twenty-five other in-between limits in one hundred dollar increments from more than $600 to less than $3,100 for monthly benefits of $89 to $43 for former in-between limit of more than $1,000 but less than $2,000 for monthly benefit of $67.
 
-1967—Pub. L. 90–77, §202(f), inserted reference to Vietnam era in section catchline.
+<b>1967</b>—Pub. L. 90–77, §202(f), inserted reference to Vietnam era in section catchline.
 
 Subsec. (a). Pub. L. 90–77, §202(d), inserted reference to Vietnam era.
 
@@ -140,15 +150,19 @@ Subsec. (e)(1). Pub. L. 90–77, §202(e), added item (D).
 
 Subsec. (e)(2), (3). Pub. L. 90–77, §101(a), qualified widow of a veteran for a pension by reducing in par. (2) the requisite marriage period from five years to one year and by making her eligible for benefits in par. (3) in event of antenuptial birth.
 
-1964—Subsec. (b). Pub. L. 88–664, §3(c), increased monthly pension rate in column II from $60, $45, and $25 to $64, $48, and $27, respectively.
+<b>1964</b>—Subsec. (b). Pub. L. 88–664, §3(c), increased monthly pension rate in column II from $60, $45, and $25 to $64, $48, and $27, respectively.
 
 Subsec. (c). Pub. L. 88–664, §3(d), increased monthly pension rate in column II from $75, $60, and $40 to $80, $64, and $43, respectively.
 
-1959—Pub. L. 86–211 included widows of World War II and Korean conflict veterans in section catchline.
+<b>1959</b>—Pub. L. 86–211 included widows of World War II and Korean conflict veterans in section catchline.
 
 Subsec. (a). Pub. L. 86–211 included widows of World War II and Korean conflict veterans, and struck out provisions which authorized payment of a monthly pension of $50.40 to a widow with no child and $63 to a widow with one child, with $7.56 for each additional child. See subsecs. (b) to (d) of this section.
 
 Subsecs. (b) to (e). Pub. L. 86–211 added subsecs. (b) to (d), redesignated former subsec. (b) as (e), and inserted provisions relating to the date by which a widow was required to be married to a veteran of World War II or the Korean conflict.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–275 applicable with respect to pensions paid on or after Dec. 1, 2009, see section 608(d) of Pub. L. 111–275, set out as a note under section 1521 of this title.
 
 #### Effective Date of 1978 Amendment
 

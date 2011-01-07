@@ -14,7 +14,7 @@ A Commission shall—
 
 &emsp;(5) encourage private investment in industrial, commercial, and other economic development projects in its region;
 
-&emsp;(6) cooperate with and assist State governments with the preparation of economic and infrastructure development plans and programs for participating States;
+&emsp;(6) cooperate with and assist State governments with the preparation of economic andinfrastructure development plans and programs for participating States;
 
 &emsp;(7) formulate and recommend to the Governors and legislatures of States that participate in the Commission forms of interstate cooperation and, where appropriate, international cooperation; and
 

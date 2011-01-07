@@ -2,7 +2,7 @@
 
 (a)(1) To become an officer of a reserve component a person must be appointed as a Reserve of an armed force in a grade corresponding to a grade authorized for the regular component of the armed force concerned and, except as provided in paragraph (2), subscribe to the oath prescribed by section 3331 of title 5. In addition, to become an officer of the Army National Guard of the United States or the Air National Guard of the United States, he must first be appointed to, and be federally recognized in, the same grade in the Army National Guard or the Air National Guard, as the case may be.
 
-(2) An officer transferred from the active-duty list of an armed force to a reserve active-status list of an armed force under section 647 of this title is not required to subscribe to the oath referred to in paragraph (1) in order to qualify for an appointment under that paragraph.
+(2) If an officer is transferred from the active-duty list of an armed force to a reserve active-status list of an armed force in accordance with regulations prescribed by the Secretary of Defense, the officer is not required to subscribe to the oath referred to in paragraph (1) in order to qualify for an appointment under that paragraph.
 
 (b) Except as otherwise provided by law, the Secretary concerned shall prescribe physical, mental, moral, professional, and age qualifications for the appointment of persons as Reserves of the armed forces under his jurisdiction. However, no person may be appointed as a Reserve unless he is at least 18 years of age and—
 
@@ -14,7 +14,7 @@
 
 (d) In prescribing age qualifications under subsection (b) for the appointment of persons as Reserves of the armed forces under his jurisdiction, the Secretary concerned may not prescribe a maximum age qualification of less than 47 years of age for the initial appointment of a person as a Reserve to serve in a health profession specialty which has been designated by the Secretary concerned as a specialty critically needed in wartime.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 24, §591; Pub. L. 85–861, §1(10)(A), Sept. 2, 1958, 72 Stat. 1440; Pub. L. 88–236, Dec. 23, 1963, 77 Stat. 474; Pub. L. 89–718, §4, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 90–130, §1(3), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title V §511(16), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 100–180, div. A, title VII, §718(a), Dec. 4, 1987, 101 Stat. 1115; renumbered §12201 and amended Pub. L. 103–337, div. A, title XVI, §§1631(b), 1662(c)(2), Oct. 5, 1994, 108 Stat. 2964, 2990; Pub. L. 104–106, div. A, title XV, §1501(a)(5)(B), (b)(11)(A), Feb. 10, 1996, 110 Stat. 495, 496; Pub. L. 108–375, div. A, title V, §501(c)(3), Oct. 28, 2004, 118 Stat. 1874.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 24, §591; Pub. L. 85–861, §1(10)(A), Sept. 2, 1958, 72 Stat. 1440; Pub. L. 88–236, Dec. 23, 1963, 77 Stat. 474; Pub. L. 89–718, §4, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 90–130, §1(3), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title V §511(16), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 100–180, div. A, title VII, §718(a), Dec. 4, 1987, 101 Stat. 1115; renumbered §12201 and amended Pub. L. 103–337, div. A, title XVI, §§1631(b), 1662(c)(2), Oct. 5, 1994, 108 Stat. 2964, 2990; Pub. L. 104–106, div. A, title XV, §1501(a)(5)(B), (b)(11)(A), Feb. 10, 1996, 110 Stat. 495, 496; Pub. L. 108–375, div. A, title V, §501(c)(3), Oct. 28, 2004, 118 Stat. 1874; Pub. L. 111–383, div. A, title V, §515, Jan. 7, 2011, 124 Stat. 4213.)
 
 Historical and Revision Notes<br>1956
 
@@ -52,7 +52,7 @@ In subsection (a), 50:946(a) (last 12 words of proviso) is omitted as covered by
 
 In subsection (b), the word “However” is substituted for the words “Subject to the limitation that”. The exception as to section 4(i)(7) of the Universal Military Training and Service Act is inserted for clarity. The words “as Reserves of the armed forces under his jurisdiction” are substituted for the words “of Reserve members of the Armed Forces of the United States”. The words “unless he is at least 18 years of age” are substituted for 50:941(a) (last sentence). The words “its Territories” are omitted as surplusage, since citizens of the Territories are citizens of the United States.
 
-In subsection (c), the words “armed force concerned” are substituted for the words “of the appropriate Armed Force of the United States”. The words “in the grades corresponding to the grades authorized for female officers of the” are substituted for the words “in the same grades as are authorized for women in the”, to conform to subsection (a). The words “in which she previously served satisfactorily” are substituted for the words “satisfactorily held by her”.
+In subsection (c), the words “armed force concerned” are substituted for the words “of the appropriate Armed Force of the United States”. The words “in the grades corresponding to the grades authorized for female officers of the” are substituted for the words “in the same grades \* \* \* as are authorized for women in the”, to conform to subsection (a). The words “in which she previously served satisfactorily” are substituted for the words “satisfactorily held by her”.
 
 In subsection (d), the words “under the jurisdiction of that Secretary” are inserted for clarity. The words “general or special” are omitted as surplusage.
 
@@ -80,27 +80,29 @@ The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–375 designated existing provisions as par. (1), inserted “, except as provided in paragraph (2),” after “the armed force concerned and”, and added par. (2).
+<b>2011</b>—Subsec. (a)(2). Pub. L. 111–383 substituted “If an officer is transferred from the active-duty list of an armed force to a reserve active-status list of an armed force in accordance with regulations prescribed by the Secretary of Defense, the officer” for “An officer transferred from the active-duty list of an armed force to a reserve active-status list of an armed force under section 647 of this title”.
 
-1996—Pub. L. 104–106, §1501(b)(11), substituted “Reserve officers: qualifications for appointment” for “Reserve components: qualifications” as section catchline.
+<b>2004</b>—Subsec. (a). Pub. L. 108–375 designated existing provisions as par. (1), inserted “, except as provided in paragraph (2),” after “the armed force concerned and”, and added par. (2).
+
+<b>1996</b>—Pub. L. 104–106, §1501(b)(11), substituted “Reserve officers: qualifications for appointment” for “Reserve components: qualifications” as section catchline.
 
 Subsecs. (c) to (e). Pub. L. 104–106, §1501(a)(5)(B), made technical correction to directory language of Pub. L. 103–337, §1631(b). See 1994 Amendment note below.
 
-1994—Pub. L. 103–337, §1662(c)(2), renumbered section 591 of this title as this section.
+<b>1994</b>—Pub. L. 103–337, §1662(c)(2), renumbered section 591 of this title as this section.
 
 Subsecs. (c) to (e). Pub. L. 103–337, §1631(b), as amended by Pub. L. 104–106, §1501(a)(5)(B), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which read as follows: “Women may be appointed as Reserves of the armed forces for service in the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, and Coast Guard Reserve. Women who are otherwise qualified may be appointed as Reserves of the armed forces with a view to serving in the Army National Guard of the United States or the Air National Guard of the United States. Women are appointed in grades corresponding to the grades authorized for female officers of the regular component of the armed force concerned. Any female former officer of an armed force may, if otherwise qualified, be appointed as a Reserve of that armed force in the highest grade in which she previously served satisfactorily on active duty (other than for training).”
 
-1987—Subsec. (e). Pub. L. 100–180 added subsec. (e).
+<b>1987</b>—Subsec. (e). Pub. L. 100–180 added subsec. (e).
 
-1980—Subsec. (b). Pub. L. 96–513 substituted “the Immigration and Nationality Act (8 U.S.C. 1101 et seq.)” for “chapter 12 of title 8”, and struck out reference to section 454(i)(7) of title 50, appendix.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513 substituted “the Immigration and Nationality Act (8 U.S.C. 1101 et seq.)” for “chapter 12 of title 8”, and struck out reference to section 454(i)(7) of title 50, appendix.
 
-1967—Subsec. (c). Pub. L. 90–130 struck out provision limiting areas of service of women in Army National Guard of the United States and Air National Guard of the United States to service as nurses or medical specialists.
+<b>1967</b>—Subsec. (c). Pub. L. 90–130 struck out provision limiting areas of service of women in Army National Guard of the United States and Air National Guard of the United States to service as nurses or medical specialists.
 
-1966—Subsec. (a). Pub. L. 89–718 substituted “3331” for “16”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted “3331” for “16”.
 
-1963—Subsec. (b) (1). Pub. L. 88–236 substituted “he is a citizen of the United States or has been lawfully admitted to the United States for permanent residence under chapter 12 of title 8” for “he is, or has made a declaration of intention to become, a citizen of the United States or of a possession thereof”.
+<b>1963</b>—Subsec. (b) (1). Pub. L. 88–236 substituted “he is a citizen of the United States or has been lawfully admitted to the United States for permanent residence under chapter 12 of title 8” for “he is, or has made a declaration of intention to become, a citizen of the United States or of a possession thereof”.
 
-1958—Subsec. (c). Pub. L. 85–861 permitted appointment of women as Reserves of armed forces with a view to serving as nurses or medical specialists in Army National Guard of the United States or Air National Guard of the United States.
+<b>1958</b>—Subsec. (c). Pub. L. 85–861 permitted appointment of women as Reserves of armed forces with a view to serving as nurses or medical specialists in Army National Guard of the United States or Air National Guard of the United States.
 
 #### Effective Date of 2004 Amendment
 

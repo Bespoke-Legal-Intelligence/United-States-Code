@@ -16,7 +16,7 @@ Section 4024 completely and finally—
 
 #### (b) Corporation actions
 
-The Corporation shall not be considered to be in breach, default, or violation of any agreement to which it is a party, notwithstanding any provision of such agreement, because of any provision of this subchapter or any action the Corporation is required to take under this subchapter.
+The Corporation shall not be considered to be in breach, default, or violation of any agreementto which it is a party, notwithstanding any provision of such agreement, because of any provision of this subchapter or any action the Corporation is required to take under this subchapter.
 
 #### (c) Right to sue withdrawn
 

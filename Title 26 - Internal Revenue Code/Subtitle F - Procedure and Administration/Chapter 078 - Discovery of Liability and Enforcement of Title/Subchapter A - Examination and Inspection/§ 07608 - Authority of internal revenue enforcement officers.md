@@ -14,7 +14,7 @@ Any investigator, agent, or other internal revenue officer by whatever term desi
 
 #### (b) Enforcement of laws relating to internal revenue other than subtitle E
 
-(1) Any criminal investigator of the Intelligence Division of the Internal Revenue Servicewhom the Secretary charges with the duty of enforcing any of the criminal provisions of the internal revenue laws, any other criminal provisions of law relating to internal revenue for the enforcement of which the Secretary is responsible, or any other law for which the Secretary has delegated investigatory authority to the Internal Revenue Service, is, in the performance of his duties, authorized to perform the functions described in paragraph (2).
+(1) Any criminal investigator of the Intelligence Division of the Internal Revenue Service whom the Secretary charges with the duty of enforcing any of the criminal provisions of the internal revenue laws, any other criminal provisions of law relating to internal revenue for the enforcement of which the Secretary is responsible, or any other law for which the Secretary has delegated investigatory authority to the Internal Revenue Service, is, in the performance of his duties, authorized to perform the functions described in paragraph (2).
 
 (2) The functions authorized under this subsection to be performed by an officer referred to in paragraph (1) are—
 
@@ -36,13 +36,13 @@ Any investigator, agent, or other internal revenue officer by whatever term desi
 
 &emsp;&emsp;&emsp;&emsp;(I) sections 1341 and 3324 of title 31, United States Code,
 
-&emsp;&emsp;&emsp;&emsp;(II) sections 11(a) and 22 of title 41, United States Code,
+&emsp;&emsp;&emsp;&emsp;(II) sections 6301(a) and (b)(1)–(3) and 6306 of title 41, United States Code,
 
-&emsp;&emsp;&emsp;&emsp;(III) section 255 of title 41, United States Code,
+&emsp;&emsp;&emsp;&emsp;(III) chapter 45 of title 41, United States Code,
 
 &emsp;&emsp;&emsp;&emsp;(IV) section 8141 of title 40, United States Code, and
 
-&emsp;&emsp;&emsp;&emsp;(V) section 254(a) and (c) <sup>1</sup> of title 41, United States Code, and
+&emsp;&emsp;&emsp;&emsp;(V) section 3901 of title 41, United States Code, and
 
 &emsp;&emsp;&emsp;(ii) to establish or to acquire proprietary corporations or business entities as part of the undercover operation, and to operate such corporations or business entities on a commercial basis, without regard to sections 9102 and 9103 of title 31, United States Code;
 
@@ -76,7 +76,7 @@ Any investigator, agent, or other internal revenue officer by whatever term desi
 
 &emsp;&emsp;(iii) the number, by programs, of undercover investigative operations closed in the 1-year period for which such report is submitted, and
 
-&emsp;&emsp;(iv) the following information with respect to each undercover investigative operation pending as of the end of the 1-year period forwhich such report is submitted or closed during such 1-year period—
+&emsp;&emsp;(iv) the following information with respect to each undercover investigative operation pending as of the end of the 1-year period for which such report is submitted or closed during such 1-year period—
 
 &emsp;&emsp;&emsp;(I) the date the operation began and the date of the certification referred to in the last sentence of paragraph (1),
 
@@ -106,11 +106,7 @@ Any investigator, agent, or other internal revenue officer by whatever term desi
 
 &emsp;&emsp;The term “undercover investigative operation” means any undercover investigative operation of the Service; except that, for purposes of subparagraphs (A) and (C) of paragraph (4), such term only includes an operation which is exempt from section 3302 or 9102 of title 31, United States Code.
 
-(Added Pub. L. 85–859, title II, §204(14), Sept. 2, 1958, 72 Stat. 1429; amended Pub. L. 87–863, §6(a), Oct. 23, 1962, 76 Stat. 1143; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–690, title VII, §7601(c)(1), (2), Nov. 18, 1988, 102 Stat. 4504; Pub. L. 101–508, title XI, §11704(a)(32), (33), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title XII, §1205(b)–(c)(2), July 30, 1996, 110 Stat. 1471, 1472; Pub. L. 104–316, title I, §113, Oct. 19, 1996, 110 Stat. 3833; Pub. L. 105–206, title I, §1103(e)(4), July 22, 1998, 112 Stat. 710; Pub. L. 106–554, §1(a)(7) \[title III, §303\], Dec. 21, 2000, 114 Stat. 2763, 2763A–632; Pub. L. 107–217, §3(f), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 108–178, §4(e), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–135, title III, §304, Dec. 21, 2005, 119 Stat. 2609; Pub. L. 109–432, div. A, title I, §121, Dec. 20, 2006, 120 Stat. 2944; Pub. L. 110–343, div. C, title IV, §401(a), Oct. 3, 2008, 122 Stat. 3875.)
-
-#### References in Text
-
-Section 254(c) of title 41, referred to in subsec. (c)(1)(A)(i)(V), was repealed by Pub. L. 103–355, title II, §2251(b), Oct. 13, 1994, 108 Stat. 3320. See section 254d of Title 41, Public Contracts.
+(Added Pub. L. 85–859, title II, §204(14), Sept. 2, 1958, 72 Stat. 1429; amended Pub. L. 87–863, §6(a), Oct. 23, 1962, 76 Stat. 1143; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–690, title VII, §7601(c)(1), (2), Nov. 18, 1988, 102 Stat. 4504; Pub. L. 101–508, title XI, §11704(a)(32), (33), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title XII, §1205(b)–(c)(2), July 30, 1996, 110 Stat. 1471, 1472; Pub. L. 104–316, title I, §113, Oct. 19, 1996, 110 Stat. 3833; Pub. L. 105–206, title I, §1103(e)(4), July 22, 1998, 112 Stat. 710; Pub. L. 106–554, §1(a)(7) \[title III, §303\], Dec. 21, 2000, 114 Stat. 2763, 2763A–632; Pub. L. 107–217, §3(f), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 108–178, §4(e), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–135, title III, §304, Dec. 21, 2005, 119 Stat. 2609; Pub. L. 109–432, div. A, title I, §121, Dec. 20, 2006, 120 Stat. 2944; Pub. L. 110–343, div. C, title IV, §401(a), Oct. 3, 2008, 122 Stat. 3875; Pub. L. 111–350, §5(f), Jan. 4, 2011, 124 Stat. 3848.)
 
 #### Prior Provisions
 
@@ -118,7 +114,13 @@ A prior section 7608 was renumbered section 7613 of this title.
 
 #### Amendments
 
-2008—Subsec. (c)(6). Pub. L. 110–343 struck out par. (6). Text read as follows: “The provisions of this subsection—
+<b>2011</b>—Subsec. (c)(1)(A)(i)(II). Pub. L. 111–350, §5(f)(1), substituted “sections 6301(a) and (b)(1)–(3) and 6306” for “sections 11(a) and 22”.
+
+Subsec. (c)(1)(A)(i)(III). Pub. L. 111–350, §5(f)(2), substituted “chapter 45” for “section 255”.
+
+Subsec. (c)(1)(A)(i)(V). Pub. L. 111–350, §5(f)(3), substituted “section 3901” for “section 254(a) and (c)”.
+
+<b>2008</b>—Subsec. (c)(6). Pub. L. 110–343 struck out par. (6). Text read as follows: “The provisions of this subsection—
 
 &emsp;“(A) shall apply after November 17, 1988, and before January 1, 1990, and
 
@@ -126,19 +128,19 @@ A prior section 7608 was renumbered section 7613 of this title.
 
 > All amounts expended pursuant to this subsection during the period described in subparagraph (B) shall be recovered to the extent possible, and deposited in the Treasury of the United States as miscellaneous receipts, before January 1, 2008.”
 
-2006—Subsec. (c)(6). Pub. L. 109–432 substituted “2008” for “2007” in subpar. (B) and concluding provisions.
+<b>2006</b>—Subsec. (c)(6). Pub. L. 109–432 substituted “2008” for “2007” in subpar. (B) and concluding provisions.
 
-2005—Subsec. (c)(6). Pub. L. 109–135 substituted “January 1, 2007” for “January 1, 2006” in subpar. (B) and concluding provisions.
+<b>2005</b>—Subsec. (c)(6). Pub. L. 109–135 substituted “January 1, 2007” for “January 1, 2006” in subpar. (B) and concluding provisions.
 
-2003—Subsec. (c)(1)(A)(i)(IV). Pub. L. 108–178 substituted “title 40, United States Code” for “title 40”.
+<b>2003</b>—Subsec. (c)(1)(A)(i)(IV). Pub. L. 108–178 substituted “title 40, United States Code” for “title 40”.
 
-2002—Subsec. (c)(1)(A)(i)(IV). Pub. L. 107–217 substituted “section 8141 of title 40” for “section 34 of title 40, United States Code”.
+<b>2002</b>—Subsec. (c)(1)(A)(i)(IV). Pub. L. 107–217 substituted “section 8141 of title 40” for “section 34 of title 40, United States Code”.
 
-2000—Subsec. (c)(6). Pub. L. 106–554 substituted “January 1, 2006” for “January 1, 2001” in subpar. (B) and concluding provisions.
+<b>2000</b>—Subsec. (c)(6). Pub. L. 106–554 substituted “January 1, 2006” for “January 1, 2001” in subpar. (B) and concluding provisions.
 
-1998—Subsec. (b)(1). Pub. L. 105–206 struck out “or of the Internal Security Division” after “Intelligence Division”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–206 struck out “or of the Internal Security Division” after “Intelligence Division”.
 
-1996—Subsec. (c)(2). Pub. L. 104–316 struck out “and the Comptroller General of the United States” after “Secretary”.
+<b>1996</b>—Subsec. (c)(2). Pub. L. 104–316 struck out “and the Comptroller General of the United States” after “Secretary”.
 
 Subsec. (c)(4)(B)(ii). Pub. L. 104–168, §1205(c)(1)(A), (B), struck out “preceding the period” after “in the 1-year period” and “and” at end.
 
@@ -158,17 +160,17 @@ Subsec. (c)(5)(C). Pub. L. 104–168, §1205(c)(2), reenacted heading without ch
 
 Subsec. (c)(6). Pub. L. 104–168, §1205(b), added par. (6).
 
-1990—Subsec. (c)(1)(B). Pub. L. 101–508, §11704(a)(32), struck out comma after “operations”.
+<b>1990</b>—Subsec. (c)(1)(B). Pub. L. 101–508, §11704(a)(32), struck out comma after “operations”.
 
 Subsec. (c)(5)(C). Pub. L. 101–508, §11704(a)(33), substituted “interest” for “interested” in cl. (i)(I) and “title 31” for “title 3” in cl. (ii).
 
-1988—Subsec. (b)(1). Pub. L. 100–690, §7601(c)(1), substituted comma for “or” before “any other” and inserted “, or any other law for which the Secretary has delegated investigatory authority to the Internal Revenue Service,” after “responsible”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–690, §7601(c)(1), substituted comma for “or” before “any other” and inserted “, or any other law for which the Secretary has delegated investigatory authority to the Internal Revenue Service,” after “responsible”.
 
 Subsec. (c). Pub. L. 100–690, §7601(c)(2), added subsec. (c).
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1962—Pub. L. 87–863 redesignated existing provisions as subsec. (a), added subsec. (a) heading, and added subsec. (b).
+<b>1962</b>—Pub. L. 87–863 redesignated existing provisions as subsec. (a), added subsec. (a) heading, and added subsec. (b).
 
 #### Effective Date of 2008 Amendment
 
@@ -193,6 +195,4 @@ Section 6(b) of Pub. L. 87–863 provided that: “The amendments made by subsec
 #### Effective Date
 
 Section effective Sept. 3, 1958, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

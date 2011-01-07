@@ -98,7 +98,7 @@ For purposes of subsection (b)—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any exchange of property to which this paragraph applies, notwithstanding any other provision of this title, such property shall be treated as sold for its fair market value on the date of such exchange, and any gain shall be recognized for the taxable year which includes such date.
+&emsp;&emsp;In the case of any exchange of property to which this paragraph applies, notwithstanding any other provision of this title, such property shall be treated as sold for its fair market value on the date of such exchange,and any gain shall be recognized for the taxable year which includes such date.
 
 #### (B) Exchanges to which paragraph applies
 
@@ -112,7 +112,7 @@ For purposes of subsection (b)—
 
 #### (C) Exception
 
-&emsp;&emsp;Subparagraph (A) shall not apply if the individual enters into an agreement with theSecretary which specifies that any income or gain derived from the property acquired in the exchange (or any other property which has a basis determined in whole or part by reference to such property) during such 10-year period shall be treated as from sources within the United States. If the property transferred in the exchange is disposed of by the person acquiring such property, such agreement shall terminate and any gain which was not recognized by reason of such agreement shall be recognized as of the date of such disposition.
+&emsp;&emsp;Subparagraph (A) shall not apply if the individual enters into an agreement with the Secretary which specifies that any income or gain derived from the property acquired in the exchange (or any other property which has a basis determined in whole or part by reference to such property) during such 10-year period shall be treated as from sources within the United States. If the property transferred in the exchange is disposed of by the person acquiring such property, such agreement shall terminate and any gain which was not recognized by reason of such agreement shall be recognized as of the date of such disposition.
 
 #### (D) Secretary may extend period
 
@@ -182,7 +182,7 @@ For purposes of subsection (b)—
 
 #### (2) Long-term resident
 
-&emsp;For purposes of this subsection, the term “long-term resident” means any individual (other than a citizen of the United States) whois a lawful permanent resident of the United States in at least 8 taxable years during the period of 15 taxable years ending with the taxable year during which the event described in subparagraph (A) or (B) of paragraph (1) occurs. For purposes of the preceding sentence, an individual shall not be treated as a lawful permanent resident for any taxable year if such individual is treated as a resident of a foreign country for the taxable year under the provisions of a tax treaty between the United States and the foreign country and does not waive the benefits of such treaty applicable to residents of the foreign country.
+&emsp;For purposes of this subsection, the term “long-term resident” means any individual (other than a citizen of the United States) who is a lawful permanent resident of the United States in at least 8 taxable years during the period of 15 taxable years ending with the taxable year during which the event described in subparagraph (A) or (B) of paragraph (1) occurs. For purposes of the preceding sentence, an individual shall not be treated as a lawful permanent resident for any taxable year if such individual is treated as a resident of a foreign country for the taxable year under the provisions of a tax treaty between the United States and the foreign country and does not waive the benefits of such treaty applicable to residents of the foreign country.
 
 #### (3) Special rules
 
@@ -244,9 +244,9 @@ If the Secretary establishes that it is reasonable to believe that an individual
 
 #### (h) Termination
 
-This section shall not apply to any individual whose expatriation date (as defined in section 877A(g)(3)) is on or after the date of the enactment of this subsection.
+This section shall not apply to any individual whose expatriation date (as defined in section877A(g)(3)) is on or after the date of the enactment of this subsection.
 
-(Added Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §421(e)(5), Nov. 6, 1978, 92 Stat. 2876; Pub. L. 96–222, title I, §104(a)(1), (4)(H)(v), Apr. 1, 1980, 94 Stat. 214, 217; Pub. L. 99–514, title XII, §1243(a), Oct. 22, 1986, 100 Stat. 2580; Pub. L. 102–318, title V, §521(b)(31), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §1401(b)(11), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title V, §511(a)–(d), (f)(1), Aug. 21, 1996, 110 Stat. 2093–2098; Pub. L. 105–34, title XVI, §1602(g)(1)–(4), (h)(3), Aug. 5, 1997, 111 Stat. 1095, 1096; Pub. L. 108–357, title VIII, §804(a)(1), (2), (c),Oct. 22, 2004, 118 Stat. 1569, 1570; Pub. L. 109–135, title IV, §403(v)(1), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 110–245, title III, §301(c)(2)(A), (d), June 17, 2008, 122 Stat. 1646.)
+(Added Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §421(e)(5), Nov. 6, 1978, 92 Stat. 2876; Pub. L. 96–222, title I, §104(a)(1), (4)(H)(v), Apr. 1, 1980, 94 Stat. 214, 217; Pub. L. 99–514, title XII, §1243(a), Oct. 22, 1986, 100 Stat. 2580; Pub. L. 102–318, title V, §521(b)(31), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §1401(b)(11), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title V, §511(a)–(d), (f)(1), Aug. 21, 1996, 110 Stat. 2093–2098; Pub. L. 105–34, title XVI, §1602(g)(1)–(4), (h)(3), Aug. 5, 1997, 111 Stat. 1095, 1096; Pub. L. 108–357, title VIII, §804(a)(1), (2), (c), Oct. 22, 2004, 118 Stat. 1569, 1570; Pub. L. 109–135, title IV, §403(v)(1), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 110–245, title III, §301(c)(2)(A), (d), June 17, 2008, 122 Stat. 1646.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -262,7 +262,7 @@ A prior section 877 was renumbered section 878 of this title.
 
 #### Amendments
 
-2008—Subsec. (e)(1). Pub. L. 110–245, §301(c)(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: “Any long-term resident of the United States who—
+<b>2008</b>—Subsec. (e)(1). Pub. L. 110–245, §301(c)(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: “Any long-term resident of the United States who—
 
 &emsp;“(A) ceases to be a lawful permanent resident of the United States (within the meaning of section 7701(b)(6)), or
 
@@ -272,15 +272,15 @@ A prior section 877 was renumbered section 878 of this title.
 
 Subsec. (h). Pub. L. 110–245, §301(d), added subsec. (h).
 
-2005—Subsec. (g)(2)(C). Pub. L. 109–135 substituted “section 7701(b)(3)(D)” for “section 7701(b)(3)(D)(ii)”.
+<b>2005</b>—Subsec. (g)(2)(C). Pub. L. 109–135 substituted “section 7701(b)(3)(D)” for “section 7701(b)(3)(D)(ii)”.
 
-2004—Subsec. (a). Pub. L. 108–357, §804(a)(1), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, subsec. (a) stated general rule on taxation of nonresident alien individuals who lost United States citizenship and provided that an individual would be treated as having a tax avoidance purpose if the average annual net income tax was greater than $100,000 or the net worth of the individual was $500,000 or more.
+<b>2004</b>—Subsec. (a). Pub. L. 108–357, §804(a)(1), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, subsec. (a) stated general rule on taxation of nonresident alien individuals who lost United States citizenship and provided that an individual would be treated as having a tax avoidance purpose if the average annual net income tax was greater than $100,000 or the net worth of the individual was $500,000 or more.
 
 Subsec. (c). Pub. L. 108–357, §804(a)(2), amended heading and text of subsec. (c) generally, substituting provisions setting forth exceptions for dual citizens and certain minors for provisions relating to inapplicability of presumption of tax avoidance to dual citizens, long-term foreign residents, minors who renounced citizenship upon reaching age of majority, and individuals specified in regulations.
 
 Subsec. (g). Pub. L. 108–357, §804(c), added subsec. (g).
 
-1997—Subsec. (d)(2)(B). Pub. L. 105–34, §1602(g)(1), substituted “the 10-year period beginning on the date the individual loses United States citizenship” for “the 10-year period described in subsection (a)” in introductory provisions.
+<b>1997</b>—Subsec. (d)(2)(B). Pub. L. 105–34, §1602(g)(1), substituted “the 10-year period beginning on the date the individual loses United States citizenship” for “the 10-year period described in subsection (a)” in introductory provisions.
 
 Subsec. (d)(2)(D). Pub. L. 105–34, §1602(g)(2), inserted at end “In the case of any exchange occurring during such 5 years, any gain recognized under this subparagraph shall be recognized immediately after such loss of citizenship.”
 
@@ -294,7 +294,7 @@ Subsec. (d)(4)(A)(ii). Pub. L. 105–34, §1602(g)(4)(B), inserted “immediatel
 
 Subsec. (e)(1). Pub. L. 105–34, §1602(h)(3), substituted “6039G” for “6039F” in concluding provisions.
 
-1996—Subsec. (a). Pub. L. 104–191, §511(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+<b>1996</b>—Subsec. (a). Pub. L. 104–191, §511(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
 “(a)
 
@@ -334,17 +334,17 @@ Exception for Loss of Citizenship for Certain Causes.—Subsection (a) shall not
 
 Subsecs. (e), (f). Pub. L. 104–191, §511(f)(1), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1992—Subsec. (b). Pub. L. 102–318 substituted “402(d)(1)” for “402(e)(1)”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–318 substituted “402(d)(1)” for “402(e)(1)”.
 
-1986—Subsec. (c). Pub. L. 99–514 inserted at end “For purposes of this section, gain on the sale or exchange of property which has a basis determined in whole or in part by reference to property described in paragraph (1) or (2) shall be treated as gain described in paragraph (1) or (2).”
+<b>1986</b>—Subsec. (c). Pub. L. 99–514 inserted at end “For purposes of this section, gain on the sale or exchange of property which has a basis determined in whole or in part by reference to property described in paragraph (1) or (2) shall be treated as gain described in paragraph (1) or (2).”
 
-1980—Subsec. (b). Pub. L. 96–222 substituted “55, or 402(e)(1)” for “section 55, 402(e)(1), or section 1201(b)”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–222 substituted “55, or 402(e)(1)” for “section 55, 402(e)(1), or section 1201(b)”.
 
-1978—Subsec. (b). Pub. L. 95–600 substituted “section 1, section 55,” for “section 1”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–600 substituted “section 1, section 55,” for “section 1”.
 
-1976—Subsecs. (b)(2), (e). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (b)(2), (e). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1974—Subsec. (b). Pub. L. 93–406 inserted reference to section 402(e)(1).
+<b>1974</b>—Subsec. (b). Pub. L. 93–406 inserted reference to section 402(e)(1).
 
 #### Effective Date of 2008 Amendment
 

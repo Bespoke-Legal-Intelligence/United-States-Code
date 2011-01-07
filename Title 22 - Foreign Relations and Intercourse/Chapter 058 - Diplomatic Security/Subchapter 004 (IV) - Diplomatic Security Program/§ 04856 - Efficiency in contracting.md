@@ -16,7 +16,7 @@ This subchapter, referred to in subsec. (a), was in the original “this title�
 
 #### Amendments
 
-2007—Subsec. (c). Pub. L. 109–472 struck out subsec. (c). Text read as follows: “No person doing business with Libya may be eligible for any contract awarded pursuant to this Act.”
+<b>2007</b>—Subsec. (c). Pub. L. 109–472 struck out subsec. (c). Text read as follows: “No person doing business with Libya may be eligible for any contract awarded pursuant to this Act.”
 
 #### Authority of Secretary of State
 

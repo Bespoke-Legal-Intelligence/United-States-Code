@@ -14,7 +14,7 @@
 
 &emsp;(5) The term “members of the uniformed services on active duty” does not include a cadet at the United States Military Academy, the United States Air Force Academy, or the Coast Guard Academy or a midshipman at the United States Naval Academy.
 
-(c) The Secretary of Defense shall enter into an agreement with each other administering Secretary (as defined in section 1072(3) of this title) for participation in the Fund by a uniformed service under the jurisdiction of that Secretary. The agreement shall require that Secretary to determine contributions to the Fund on behalf of the members of the uniformed service under the jurisdiction of that Secretary in a manner comparable to the determination with respect to contributions to the Fund made by the Secretary of Defense under section 1115(b)of this title, and such contributions shall be paid into the Fund as provided in section 1116(a).
+(c) The Secretary of Defense shall enter into an agreement with each other administering Secretary (as defined in section 1072(3) of this title) for participation in the Fund by a uniformed service under the jurisdiction of that Secretary. The agreement shall require that Secretary to determine contributions to the Fund on behalf of the members of the uniformed service under the jurisdiction of that Secretary in a manner comparable to the determination with respect to contributions to the Fund made by the Secretary of Defense under section 1115(b) of this title, and such contributions shall be paid into the Fund as provided in section 1116(a).
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §713(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–179; amended Pub. L. 107–107, div. A, title VII, §711(a), (b)(1), (e)(1), (2), title X, §1048(a)(12), Dec. 28, 2001, 115 Stat. 1164–1166, 1223; Pub. L. 107–314, div. A, title VII, §704(b), Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–375, div. A, title VII, §725(c)(1), Oct. 28, 2004, 118 Stat. 1992; Pub. L. 109–364, div. A, title V, §592(a), Oct. 17, 2006, 120 Stat. 2233.)
 
@@ -24,15 +24,15 @@ The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–364, §592(a)(1), substituted “of the uniformed services” for “of the Department of Defense”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–364, §592(a)(1), substituted “of the uniformed services” for “of the Department of Defense”.
 
 Subsec. (b)(5). Pub. L. 109–364, §592(a)(2), added par. (5).
 
-2004—Subsec. (c). Pub. L. 108–375 substituted “1115(b) of this title, and such contributions shall be paid into the Fund as provided in section 1116(a)” for “1116 of this title, and such administering Secretary may make such contributions”.
+<b>2004</b>—Subsec. (c). Pub. L. 108–375 substituted “1115(b) of this title, and such contributions shall be paid into the Fund as provided in section 1116(a)” for “1116 of this title, and such administering Secretary may make such contributions”.
 
-2002—Subsec. (c). Pub. L. 107–314 substituted “shall enter into an agreement with each other administering Secretary” for “may enter into an agreement with any other administering Secretary” in first sentence and “The” for “Any such” in second sentence.
+<b>2002</b>—Subsec. (c). Pub. L. 107–314 substituted “shall enter into an agreement with each other administering Secretary” for “may enter into an agreement with any other administering Secretary” in first sentence and “The” for “Any such” in second sentence.
 
-2001—Pub. L. 107–107, §711(e)(2), inserted “; authority to enter into agreements” after “definitions” in section catchline.
+<b>2001</b>—Pub. L. 107–107, §711(e)(2), inserted “; authority to enter into agreements” after “definitions” in section catchline.
 
 Subsec. (a). Pub. L. 107–107, §1048(a)(12), substituted “hereinafter” for “hereafter”.
 
@@ -50,7 +50,7 @@ Subsec. (c). Pub. L. 107–107, §711(b)(1), added subsec. (c).
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–364, div. A, title V, §592(c), Oct. 17, 2006, 120 Stat. 2234, provided that: “The amendments made by this section \[amending this section and section 1115 of this title\] shall take effect with respect to payments under chapter 56 of title 10, United States Code, beginning with fiscal year 2008.”
+Pub. L. 109–364, div. A, title V, §592(c), Oct. 17, 2006, 120 Stat. 2234, provided that: “The amendments madeby this section \[amending this section and section 1115 of this title\] shall take effect with respect to payments under chapter 56 of title 10, United States Code, beginning with fiscal year 2008.”
 
 #### Effective Date of 2004 Amendment
 

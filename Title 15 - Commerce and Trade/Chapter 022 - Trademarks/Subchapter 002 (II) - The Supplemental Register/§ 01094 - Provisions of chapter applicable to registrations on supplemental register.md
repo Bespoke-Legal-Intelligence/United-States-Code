@@ -10,9 +10,9 @@ Act Mar. 19, 1920, ch. 104, §6, 41 Stat. 535.
 
 #### Amendments
 
-1998—Pub. L. 105–330 substituted “, 1057(c),” for “1057(c),,”.
+<b>1998</b>—Pub. L. 105–330 substituted “, 1057(c),” for “1057(c),,”.
 
-1988—Pub. L. 100–667 inserted reference to sections 1051(b) and 1057(c).
+<b>1988</b>—Pub. L. 100–667 inserted reference to sections 1051(b) and 1057(c).
 
 #### Effective Date of 1998 Amendment
 

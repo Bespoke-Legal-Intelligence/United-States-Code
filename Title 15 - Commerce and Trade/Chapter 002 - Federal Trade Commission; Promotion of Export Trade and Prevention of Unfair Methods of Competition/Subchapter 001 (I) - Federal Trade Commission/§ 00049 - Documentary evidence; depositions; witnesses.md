@@ -4,11 +4,11 @@ For the purposes of this subchapter the Commission, or its duly authorized agent
 
 Such attendance of witnesses, and the production of such documentary evidence, may be required from any place in the United States, at any designated place of hearing. And in case of disobedience to a subpoena the Commission may invoke the aid of any court of the United States in requiring the attendance and testimony of witnesses and the production of documentary evidence.
 
-Any of the district courts of the United States within the jurisdiction of which such inquiry is carried on may, in case of contumacy or refusal to obey a subpoena issued to any person, partnership, or corporation issue an order requiring such person, partnership, or corporation to appear before the Commission, or to produce documentary evidence if so ordered, or to give evidence touching the matter in question; and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+Any of the district courts of the United States within the jurisdiction of which such inquiry is carried on may, in case of contumacy or refusal to obey a subpoena issued to any person, partnership, or corporation issue an order requiringsuch person, partnership, or corporation to appear before the Commission, or to produce documentary evidence if so ordered, or to give evidence touching the matter in question; and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 Upon the application of the Attorney General of the United States, at the request of the Commission, the district courts of the United States shall have jurisdiction to issue writs of mandamus commanding any person, partnership, or corporation to comply with the provisions of this subchapter or any order of the Commission made in pursuance thereof.
 
-The Commission may order testimony to be taken by deposition in any proceeding or investigation pending under this subchapter at any stage of such proceeding or investigation. Such depositions may be taken before any person designated by the commission and having power to administer oaths. Such testimony shall be reduced to writing by the person taking the deposition, or under his direction, and shall then be subscribed by the deponent. Any person may be compelled to appear and depose and to producedocumentary evidence in the same manner as witnesses may be compelled to appear and testify and produce documentary evidence before the Commission as hereinbefore provided.
+The Commission may order testimony to be taken by deposition in any proceeding or investigation pending under this subchapter at any stage of such proceeding or investigation. Such depositions may be taken before any person designated by the commission and having power to administer oaths. Such testimony shall be reduced to writing by the person taking the deposition, or under his direction, and shall then be subscribed by the deponent. Any person may be compelled to appear and depose and to produce documentary evidence in the same manner as witnesses may be compelled to appear and testify and produce documentary evidence before the Commission as hereinbefore provided.
 
 Witnesses summoned before the Commission shall be paid the same fees and mileage that are paid witnesses in the courts of the United States and witnesses whose depositions are taken and the persons taking the same shall severally be entitled to the same fees as are paid for like services in the courts of the United States.
 
@@ -16,13 +16,13 @@ Witnesses summoned before the Commission shall be paid the same fees and mileage
 
 #### Amendments
 
-1975—First par. Pub. L. 93–637, §203(b)(1), substituted “person, partnership, or corporation” for “corporation”.
+<b>1975</b>—First par. Pub. L. 93–637, §203(b)(1), substituted “person, partnership, or corporation” for “corporation”.
 
 Third par. Pub. L. 93–637, §203(b)(2), substituted “person, partnership, or corporation” for “corporation or other person” wherever appearing.
 
 Fourth par. Pub. L. 93–637, §203(b)(3), substituted “person, partnership, or corporation” for “person or corporation”.
 
-1970—Seventh par. Pub. L. 91–452 struck out provisions which granted immunity from prosecution for any natural person testifying or producing evidence, documentary or otherwise, before the commission in obedience to a subpoena issued by it.
+<b>1970</b>—Seventh par. Pub. L. 91–452 struck out provisions which granted immunity from prosecution for any natural person testifying or producing evidence, documentary or otherwise, before the commission in obedience to a subpoena issued by it.
 
 #### Effective Date of 1970 Amendment
 

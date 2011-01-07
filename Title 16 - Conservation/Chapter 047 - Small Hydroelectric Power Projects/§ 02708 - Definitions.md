@@ -34,11 +34,15 @@ The Commission, referred to in subsec. (b), means the Federal Energy Regulatory 
 
 #### Amendments
 
-2005—Subsec. (a)(6). Pub. L. 109–58 substituted “July 22, 2005” for “April 20, 1977”.
+<b>2005</b>—Subsec. (a)(6). Pub. L. 109–58 substituted “July 22, 2005” for “April 20, 1977”.
 
-1986—Subsec. (a)(3), (5). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (a)(3), (5). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1980—Subsec. (a). Pub. L. 96–294, §408(a), (c)(1), designated existing provisions as subsec. (a) and, as so designated, in par. (1) substituted “30,000” for “15,000”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–294, §408(a), (c)(1), designated existing provisions as subsec. (a) and, as so designated, in par. (1) substituted “30,000” for “15,000”.
 
 Subsec. (b). Pub. L. 96–294, §408(c)(2), added subsec. (b).
+
+<i><sup>1</sup></i><i> So in original. Probably should be “acquisition”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “on or”.</i>
 

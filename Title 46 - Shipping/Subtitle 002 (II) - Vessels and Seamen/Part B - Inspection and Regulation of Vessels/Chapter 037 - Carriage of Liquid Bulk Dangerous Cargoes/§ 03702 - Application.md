@@ -4,11 +4,9 @@
 
 (b) This chapter does not apply to a documented vessel that would be subject to this chapter only because of the transfer of fuel from the fuel supply tanks of the vessel to offshore drilling or production facilities in the oil industry if the vessel is—
 
-&emsp;(1) not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title;
+&emsp;(1) not a tanker; and
 
-&emsp;(2) not a tanker; and
-
-&emsp;(3) in the service of oil exploitation.
+&emsp;(2) in the service of oil exploitation.
 
 (c) This chapter does not apply to a fishing or fish tender vessel of not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title when engaged only in the fishing industry.
 
@@ -28,7 +26,7 @@
 
 &emsp;&emsp;(C) engaged in response-related activities.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 521; Pub. L. 98–364, title IV, §402(6), July 17, 1984, 98 Stat. 446; Pub. L. 104–324, title VII, §714, title XI, §1104(b), Oct. 19, 1996, 110 Stat. 3936, 3966.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 521; Pub. L. 98–364, title IV, §402(6), July 17, 1984, 98 Stat. 446; Pub. L. 104–324, title VII, §714, title XI, §1104(b), Oct. 19, 1996, 110 Stat. 3936, 3966; Pub. L. 111–281, title VI, §617(a)(2), Oct. 15, 2010, 124 Stat. 2973.)
 
 Historical and Revision Notes
 
@@ -46,7 +44,9 @@ It exempts certain small vessels documented in the service of oil exploitation, 
 
 #### Amendments
 
-1996—Subsec. (b)(1). Pub. L. 104–324, §714(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons”.
+<b>2010</b>—Subsec. (b)(1) to (3). Pub. L. 111–281 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1), which read as follows: “not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title;”.
+
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–324, §714(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons”.
 
 Subsec. (c). Pub. L. 104–324, §714(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons”.
 
@@ -54,7 +54,7 @@ Subsec. (d). Pub. L. 104–324, §714(3), inserted “as measured under section 
 
 Subsec. (f). Pub. L. 104–324, §1104(b), added subsec. (f).
 
-1984—Subsec. (c). Pub. L. 98–364, §402(6)(A), substituted “This chapter does not apply to a fishing or fish tender vessel of not more than 500 gross tons when engaged only in the fishing industry” for “This chapter does not apply to a cannery tender, fishing tender, or fishing vessel of not more than 500 gross tons, used in the salmon or crab fisheries of Alaska, Oregon, or Washington, when engaged only in the fishing industry”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–364, §402(6)(A), substituted “This chapter does not apply to a fishing or fish tender vessel of not more than 500 gross tons when engaged only in the fishing industry” for “This chapter does not apply to a cannery tender, fishing tender, or fishing vessel of not more than 500 gross tons, used in the salmon or crab fisheries of Alaska, Oregon, or Washington, when engaged only in the fishing industry”.
 
 Subsec. (d). Pub. L. 98–364, §402(6)(B), substituted “This chapter does not apply to a fish processing vessel of not more than 5,000 gross tons” for “This chapter does not apply to a vessel of not more than 5,000 gross tons used in processing and assembling fishery products of the fisheries of Alaska, Oregon, and Washington”.
 

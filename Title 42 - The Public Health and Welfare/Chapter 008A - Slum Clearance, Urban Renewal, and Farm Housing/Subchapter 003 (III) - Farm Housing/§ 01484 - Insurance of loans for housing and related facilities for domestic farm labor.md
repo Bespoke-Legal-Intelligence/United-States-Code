@@ -90,43 +90,43 @@ Another section 801(b) of Pub. L. 91–609 amended section 1460(c)(1) of this ti
 
 #### Amendments
 
-2008—Subsec. (f)(3). Pub. L. 110–246, §6205, substituted “, the handling of agricultural or aquacultural commodities in the unprocessed stage, or the processing of agricultural or aquacultural commodities” for “or the handling of such commodities in the unprocessed stage” in introductory provisions.
+<b>2008</b>—Subsec. (f)(3). Pub. L. 110–246, §6205, substituted “, the handling of agricultural or aquacultural commodities in the unprocessed stage, or the processing of agricultural or aquacultural commodities” for “or thehandling of such commodities in the unprocessed stage” in introductory provisions.
 
-2000—Subsec. (a). Pub. L. 106–569, §703, substituted “limited partnership” for “nonprofit limited partnership” in first sentence of introductory provisions.
+<b>2000</b>—Subsec. (a). Pub. L. 106–569, §703, substituted “limited partnership” for “nonprofit limited partnership” in first sentence of introductory provisions.
 
 Subsec. (j). Pub. L. 106–569, §708(b), struck out heading and text of subsec. (j). Text read as follows: “Whoever, as an owner, agent, or manger, or who is otherwise in custody, control, or possession of property that is security for a loan made or insured under this section willfully uses, or authorizes the use, of any part of the rents, assets, proceeds, income, or other funds derived from such property, for any purpose other than to meet actual or necessary expenses of the property, or for any other purpose not authorized by this subchapter or the regulations adopted pursuant to this subchapter, shall be fined not more than $250,000 or imprisoned not more than 5 years, or both.”
 
-1998—Subsec. (a). Pub. L. 105–276 inserted “, or any nonprofit limited partnership in which the general partner is a nonprofit entity,” after “private nonprofit organization” in first sentence.
+<b>1998</b>—Subsec. (a). Pub. L. 105–276 inserted “, or any nonprofit limited partnership in which the general partner is a nonprofit entity,” after “private nonprofit organization” in first sentence.
 
-1996—Subsec. (j). Pub. L. 104–180 added subsec. (j).
+<b>1996</b>—Subsec. (j). Pub. L. 104–180 added subsec. (j).
 
-1988—Subsec. (f)(1). Pub. L. 100–242, §316(b), struck out “and” at end.
+<b>1988</b>—Subsec. (f)(1). Pub. L. 100–242, §316(b), struck out “and” at end.
 
 Subsec. (f)(3). Pub. L. 100–242, §305(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the term ‘domestic farm labor’ means persons who receive a substantial portion (as determined by the Secretary) of their income as laborers on farms situated in the United States, Puerto Rico, or the Virgin Islands and either (A) are citizens of the United States, or (B) reside in the United States, Puerto Rico, or the Virgin Islands after being legally admitted for permanent residence therein.”
 
 Subsec. (i). Pub. L. 100–628 added subsec. (i).
 
-1983—Subsec. (h). Pub. L. 98–181 added subsec. (h).
+<b>1983</b>—Subsec. (h). Pub. L. 98–181 added subsec. (h).
 
-1980—Subsec. (a). Pub. L. 96–399 inserted reference to Indian tribe.
+<b>1980</b>—Subsec. (a). Pub. L. 96–399 inserted reference to Indian tribe.
 
-1979—Subsec. (d). Pub. L. 96–153 repealed subsec. (d) which provided for a maximum of $38,000,000 for the aggregate amount of principal obligations of loans insured under this section.
+<b>1979</b>—Subsec. (d). Pub. L. 96–153 repealed subsec. (d) which provided for a maximum of $38,000,000 for the aggregate amount of principal obligations of loans insured under this section.
 
-1978—Subsec. (d). Pub. L. 95–557, §501(d), substituted “$38,000,000 (subject to approval in an appropriation Act)” for “$25,000,000”.
+<b>1978</b>—Subsec. (d). Pub. L. 95–557, §501(d), substituted “$38,000,000 (subject to approval in an appropriation Act)” for “$25,000,000”.
 
 Subsec. (g). Pub. L. 95–557, §504, added subsec. (g).
 
-1977—Subsec. (f)(3). Pub. L. 95–128 extended definition of “domestic farm labor” to include laborers on farms situated in Puerto Rico and the Virgin Islands and the residents of the islands after being legally admitted for permanent residence.
+<b>1977</b>—Subsec. (f)(3). Pub. L. 95–128 extended definition of “domestic farm labor” to include laborers on farms situated in Puerto Rico and the Virgin Islands and the residents of the islands after being legally admitted for permanent residence.
 
-1970—Subsec. (a). Pub. L. 91–609, §801(a), authorized insurance of loans to broad-based nonprofit organizations and nonprofit organizations of farmworkers incorporated within the State and provided for housing and related facilities for domestic farm labor any place within the State where need exists.
+<b>1970</b>—Subsec. (a). Pub. L. 91–609, §801(a), authorized insurance of loans to broad-based nonprofit organizations and nonprofit organizations of farmworkers incorporated within the State and provided for housing and related facilities for domestic farm labor any place within the State where need exists.
 
 Subsec. (a)(2). Pub. L. 91–609, §801(b), substituted “1” for “5” per centum.
 
 Subsec. (f)(1), (2). Pub. L. 91–609, §801(c), substituted “structures (including household furnishings)” for “structures” in cls. (A) and (B).
 
-1968—Subsec. (f)(2). Pub. L. 90–448 included land necessary for an adequate site within the definition of “related facilities”.
+<b>1968</b>—Subsec. (f)(2). Pub. L. 90–448 included land necessary for an adequate site within the definition of “related facilities”.
 
-1964—Subsec. (f)(3). Pub. L. 88–560 included residents of the United States after being legally admitted for permanent residence.
+<b>1964</b>—Subsec. (f)(3). Pub. L. 88–560 included residents of the United States after being legally admitted for permanent residence.
 
 #### Effective Date of 2008 Amendment
 

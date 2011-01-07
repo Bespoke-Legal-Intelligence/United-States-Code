@@ -38,15 +38,15 @@ For purposes of this section, the terms “reportable transaction” and “list
 
 #### Amendments
 
-2004—Pub. L. 108–357 amended section catchline and text generally, substituting provisions relating to penalty for failure to furnish information regarding reportable transactions for provisions relating to penalty for failure to furnish information regarding tax shelters.
+<b>2004</b>—Pub. L. 108–357 amended section catchline and text generally, substituting provisions relating to penalty for failure to furnish information regarding reportable transactions for provisions relating to penalty for failure to furnish information regarding tax shelters.
 
-1997—Subsec. (a)(1). Pub. L. 105–34, §1028(d)(2), which directed the substitution of “paragraph (2) or (3), as the case may be” for “paragraph (2)” in subpar. (A) of par. (1), was executed by making the substitution in the concluding provisions of par. (1) to reflect the probable intent of Congress.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–34, §1028(d)(2), which directed the substitution of “paragraph (2) or (3), as the case may be” for “paragraph (2)” in subpar. (A) of par. (1), was executed by making the substitution in the concluding provisions of par. (1) to reflect the probable intent of Congress.
 
 Subsec. (a)(2). Pub. L. 105–34, §1028(d)(1), substituted “Except as provided in paragraph (3), the penalty” for “The penalty”.
 
 Subsec. (a)(3). Pub. L. 105–34, §1028(b), added par. (3).
 
-1986—Subsec. (a)(2). Pub. L. 99–514, §1532(a), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: “The penalty imposed under paragraph (1) with respect to any tax shelter shall be an amount equal to the greater of—
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514, §1532(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The penalty imposed under paragraph (1) with respect to any tax shelter shall be an amount equal to the greater of—
 
 &emsp;“(A) $500, or
 

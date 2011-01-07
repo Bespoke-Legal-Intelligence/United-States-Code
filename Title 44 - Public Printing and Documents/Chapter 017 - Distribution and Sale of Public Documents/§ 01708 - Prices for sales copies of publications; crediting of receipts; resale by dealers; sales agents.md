@@ -12,11 +12,11 @@ Based on 44 U.S. Code, 1964 ed., §72a (June 30, 1932, ch. 314, §307, 47 Stat. 
 
 #### Amendments
 
-2004—Pub. L. 108–447, in first par., substituted “may be allowed as determined by the Superintendent of Documents” for “of not to exceed 25 percent may be allowed to book dealers and quantity purchasers”.
+<b>2004</b>—Pub. L. 108–447, in first par., substituted “may be allowed as determined by the Superintendent of Documents” for “of not to exceed 25 percent may be allowed to book dealers and quantity purchasers”.
 
-1993—Pub. L. 103–69, in first par., struck out at end “Receipts from general sales of publications in excess of the total costs and expenses incurred in connection with the publication and sale thereof, as determined by the Public Printer, shall be deposited in the Treasury of the United States to the credit of miscellaneous receipts.”
+<b>1993</b>—Pub. L. 103–69, in first par., struck out at end “Receipts from general sales of publications in excess of the total costs and expenses incurred in connection with the publication and sale thereof, as determined by the Public Printer, shall be deposited in the Treasury of the United States to the credit of miscellaneous receipts.”
 
-1977—Pub. L. 95–94 substituted “Receipts from general sales of publications in excess of the total costs and expenses incurred in connection with the publication and sale thereof, as determined by the Public Printer,” for “Surplus receipts from sales”.
+<b>1977</b>—Pub. L. 95–94 substituted “Receipts from general sales of publications in excess of the total costs and expenses incurred in connection with the publication and sale thereof, as determined by the Public Printer,” for “Surplus receipts from sales”.
 
 #### Effective Date of 1993 Amendment
 

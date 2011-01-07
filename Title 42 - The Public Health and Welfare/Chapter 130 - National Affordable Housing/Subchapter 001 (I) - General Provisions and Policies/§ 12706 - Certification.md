@@ -12,5 +12,5 @@ The McKinney-Vento Homeless Assistance Act, referred to in text, is Pub. L. 100�
 
 #### Amendments
 
-2000—Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
+<b>2000</b>—Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 

@@ -12,9 +12,9 @@ Mental Health Professionals.—Of the number of persons designated as members of
 
 #### Amendments
 
-2009—Pub. L. 111–84 designated existing provisions as subsec. (a), inserted heading, substituted “6,300” for “6,000”, and added subsec. (b).
+<b>2009</b>—Pub. L. 111–84 designated existing provisions as subsec. (a), inserted heading, substituted “6,300” for “6,000”, and added subsec. (b).
 
-1991—Pub. L. 102–190 substituted “except that the total number of persons so designated may not, at any time, exceed 6,000.” for “except that—
+<b>1991</b>—Pub. L. 102–190 substituted “except that the total number of persons so designated may not, at any time, exceed 6,000.” for “except that—
 
 &emsp;“(1) the total number of persons so designated in all of the programs authorized by this subchapter shall not, at any time, exceed 6,000; and
 
@@ -24,13 +24,13 @@ Mental Health Professionals.—Of the number of persons designated as members of
 
 &emsp;&emsp;“(B) who have agreed to accept, if offered, residency training in a health profession skill which has been designated by the Secretary as a critically needed wartime skill.”
 
-1989—Par. (2). Pub. L. 101–189 inserted “after September 30, 1991,” after “(2)”.
+<b>1989</b>—Par. (2). Pub. L. 101–189 inserted “after September 30, 1991,” after “(2)”.
 
-1987—Pub. L. 100–180, §712(b)(1), substituted “except that—” and pars. (1) and (2) for “except that the total number of persons so designated in all of the programs authorized by this subchapter shall not, at any time, exceed 6,000.”
+<b>1987</b>—Pub. L. 100–180, §712(b)(1), substituted “except that—” and pars. (1) and (2) for “except that the total number of persons so designated in all of the programs authorized by this subchapter shall not, at any time, exceed 6,000.”
 
 Pub. L. 100–180, §711(a)(2), substituted “subchapter” for “chapter”.
 
-1985—Pub. L. 99–145 substituted “6,000” for “5,000”.
+<b>1985</b>—Pub. L. 99–145 substituted “6,000” for “5,000”.
 
 #### Effective Date of 1987 Amendment
 
@@ -42,5 +42,5 @@ Section 672(j) of Pub. L. 99–145, which provided that amendment made by that s
 
 #### Repeals
 
-The directory language of, but not the amendment made by, Pub. L. 99–145, title VI, §672(i), Nov. 8, 1985, 99Stat. 664, cited as a credit to this section, was repealed by Pub. L. 100–180, §711(c)(1), (e)(1), eff. Dec. 4, 1987.
+The directory language of, but not the amendment made by, Pub. L. 99–145, title VI, §672(i), Nov. 8, 1985, 99 Stat. 664, cited as a credit to this section, was repealed by Pub. L. 100–180, §711(c)(1), (e)(1), eff. Dec. 4, 1987.
 

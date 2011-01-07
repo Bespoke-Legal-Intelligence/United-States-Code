@@ -22,9 +22,9 @@ The Atomic Energy Act of 1954, referred to in subsec. (b), is act Aug. 1, 1946, 
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–259 inserted at end “Residual radioactive material from a processing site designated under this subchapter may be disposed of at a facility licensed under title II under the administrative and technical requirements of such title. Disposal of such material at such a site in accordance with such requirements shall be considered to have been done in accordance with the administrative and technical requirements of this subchapter.”
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–259 inserted at end “Residual radioactive material from a processing site designated under this subchapter may be disposed of at a facility licensed under title II under the administrative and technical requirements of such title. Disposal of such material at such a site in accordance with such requirements shall be considered to have been done in accordance with the administrative and technical requirements of this subchapter.”
 
-1983—Subsec. (a)(2). Pub. L. 97–415, §18(b)(2), struck out provision that no such remedial action could be undertaken under this section before the promulgation by the Administrator of general standards pursuant to section 275 a. of the Atomic Energy Act of 1954.
+<b>1983</b>—Subsec. (a)(2). Pub. L. 97–415, §18(b)(2), struck out provision that no such remedial action could beundertaken under this section before the promulgation by the Administrator of general standards pursuant to section 275 a. of the Atomic Energy Act of 1954.
 
 Subsec. (a)(3). Pub. L. 97–415, §18(b)(1), added par. (3).
 

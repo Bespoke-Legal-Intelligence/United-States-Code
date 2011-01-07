@@ -42,9 +42,19 @@ Pub. L. 98–224, §1, Mar. 2, 1984, 98 Stat. 47, provided that: “This Act \[a
 
 Section 1 of Pub. L. 95–454 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Civil Service Reform Act of 1978’.”
 
+#### Savings Provision
+
+Section 902 of Pub. L. 95–454 provided that:
+
+“(a) Except as otherwise provided in this Act \[see Tables for classification\], all executive orders, rules, and regulations affecting the Federal service shall continue in effect, according to their terms, until modified, terminated, superseded, or repealed by the President, the Office of Personnel Management, the Merit Systems Protection Board, the Equal Employment Opportunity Commission, or the Federal Labor Relations Authority with respect to matters within their respective jurisdictions.
+
+“(b) No provision of this Act \[see Tables for classification\] shall affect any administrative proceedings pending at the time such provision takes effect. Orders shall be issued in such proceedings and appeals shall be taken therefrom as if this Act had not been enacted.
+
+“(c) No suit, action, or other proceeding lawfully commenced by or against the Director of the Office of Personnel Management or the members of the Merit Systems Protection Board, or officers or employees thereof, in their official capacity or in relation to the discharge of their official duties, as in effect immediately before the effective date of this Act \[see Effective Date of 1978 Amendment note above\], shall abate by reason of the enactment of this Act \[see Tables for classification\]. Determinations with respect to any such suit, action, or other proceeding shall be made as if this Act had not been enacted.”
+
 #### Transmittal of Record Relating to Presidentially Appointed Positions to Presidential Candidates
 
-Pub. L. 108–458, title VIII, §8403(b), Dec. 17, 2004, 118 Stat. 3870, provided that:
+Pub. L. 108–458, title VIII, §8403(b), Dec. 17, 2004, 118 Stat. 3870, as amended by Pub. L. 111–283, §2(c)(2), Oct. 15, 2010, 124 Stat. 3048, provided that:
 
 “(1)
 
@@ -58,9 +68,9 @@ Transmittal.—
 
 In general.—Not later than 15 days after the date on which a major party nominates a candidate for President, the Office of Personnel Management shall transmit an electronic record to that candidate on Presidentially appointed positions.
 
-&emsp;“(B)
+&emsp;(B)
 
-Other candidates.—After making transmittals under subparagraph (A), the Office of Personnel Management may transmit an electronic record on Presidentially appointed positions to any other candidate for President.
+Other candidates.—After making transmittals under subparagraph (A), the Office of Personnel Management shall transmit such electronic record to any other candidate for President who is an eligible candidate described in section 3(h)(4)(B) of the Presidential Transition Act of 1963 \[Pub. L. 88–277\] (3 U.S.C. 102 note) and may transmit such electronic record to any other candidate for President.
 
 “(3)
 
@@ -162,7 +172,7 @@ Pub. L. 102–393, title V, §532, Oct. 6, 1992, 106 Stat. 1763, provided that: 
 
 #### Report on Productivity of Federal Workforce; Deadline
 
-Pub. L. 101–509, title V, §535, Nov. 5, 1990, 104 Stat. 1470, directed Office of Personnel Management to review and report to Congress, not later than 24 months after Nov. 5, 1990, on the productivity of the Federal workforce, such report to include recommendations with regard to (1) how productivity within the Federal workforce can be increased, the delivery of Government services improved, and the payroll costs of Government controlled through improved organization, training, advanced technology, and modern management practices, (2) the size, structure, and composition of the Federal workforce, (3) criteria for use by departments and agencies to determine the level of personnel necessary to accomplish their functions and goals, and (4) changes in Federal law, regulations, and administrative practices to promote economy, productivity, effectiveness, and managerial accountability within the Federal workforce.
+Pub. L. 101–509, title V, §535, Nov. 5, 1990, 104 Stat. 1470, directed Office of Personnel Management to review and report to Congress, not later than 24 months after Nov. 5, 1990, on the productivity of the Federal workforce, such report to include recommendations with regard to (1) how productivity within the Federal workforce can be increased, the delivery of Government services improved, and the payroll costs of Government controlled through improved organization, training, advanced technology, and modern management practices, (2) the size, structure, and composition of the Federal workforce, (3) criteria for use by departments and agencies to determine the level of personnel necessary to accomplish their functions and goals, and (4) changes in Federal law, regulations, and administrative practices to promote economy, productivity, effectiveness, andmanagerial accountability within the Federal workforce.
 
 #### Funds for Preparation, Promulgation, or Implementation of Regulations Relating to Combined Federal Campaign; Eligibility Criteria
 
@@ -298,16 +308,6 @@ Section 3 of Pub. L. 95–454 provided that: “It is the policy of the United S
 
 &emsp;“(10) the right of Federal employees to organize, bargain collectively, and participate through labor organizations in decisions which affect them, with full regard for the public interest and the effective conduct of public business, should be specifically recognized in statute.”
 
-#### Savings Provision
-
-Section 902 of Pub. L. 95–454 provided that:
-
-“(a) Except as otherwise provided in this Act \[see Tables for classification\], all executive orders, rules, and regulations affecting the Federal service shall continue in effect, according to their terms, until modified, terminated, superseded, or repealed by the President, the Office of Personnel Management, the Merit Systems Protection Board, the Equal Employment Opportunity Commission, or the Federal Labor Relations Authority with respect to matters within their respective jurisdictions.
-
-“(b) No provision of this Act \[see Tables for classification\] shall affect any administrative proceedings pending at the time such provision takes effect. Orders shall be issued in such proceedings and appeals shall be taken therefrom as if this Act had not been enacted.
-
-“(c) No suit, action, or other proceeding lawfully commenced by or against the Director of the Office of Personnel Management or the members of the Merit Systems Protection Board, or officers or employees thereof, in their official capacity or in relation to the discharge of their official duties, as in effect immediately before the effective date of this Act \[see Effective Date of 1978 Amendment note above\], shall abate by reason of the enactment of this Act \[see Tables for classification\]. Determinations with respect to any such suit, action, or other proceeding shall be made as if this Act had not been enacted.”
-
 #### Powers of President Unaffected Except by Express Provisions
 
 Section 904 of Pub. L. 95–454 provided that:
@@ -320,7 +320,7 @@ Section 904 of Pub. L. 95–454 provided that:
 
 #### Reorganization Plans No. 1 and 2 of 1978 Superseded by Civil Service Reform Act of 1978
 
-Section 905 of Pub. L. 95–454 provided that: “Any provision in either Reorganization Plan Numbered 1 \[set out in the Appendix to this title\] or 2 \[set out below\] of 1978 inconsistent with any provision in this Act \[see Tables for classification\] is hereby superseded.”
+Section 905 of Pub. L. 95–454 provided that: “Any provision in either Reorganization Plan Numbered 1 \[setout in the Appendix to this title\] or 2 \[set out below\] of 1978 inconsistent with any provision in this Act \[see Tables for classification\] is hereby superseded.”
 
 #### <b>REORGANIZATION PLAN NO. 2 OF 1978</b>
 
@@ -590,7 +590,7 @@ General
 
 Redesignations
 
-2–101. <i>Office of Personnel Management</i>. Each of the Executive orders, as amended, listed in this Section undersubsections (a) and (b), as applicable, and any other order which relates to functions or areas of responsibility delegated to the Office of Personnel Management, is amended and revised by substituting the words “Office of Personnel Management” for the words “Civil Service Commission” or “United States Civil Service Commission”; by substituting the word “Office” for the word “Commission” wherever the word “Commission” is used as a reference to United States Civil Service Commission; and by substituting the words “Director, Office of Personnel Management” for the words “Chairman, Civil Service Commission”, “Chairman, United States Civil Service Commission”, “Commissioners” or “Commissioner” wherever they appear.
+2–101. <i>Office of Personnel Management</i>. Each of the Executive orders, as amended, listed in this Section under subsections (a) and (b), as applicable, and any other order which relates to functions or areas of responsibility delegated to the Office of Personnel Management, is amended and revised by substituting the words “Office of Personnel Management” for the words “Civil Service Commission” or “United States Civil Service Commission”; by substituting the word “Office” for the word “Commission” wherever the word “Commission” is used as a reference to United States Civil Service Commission; and by substituting the words “Director, Office of Personnel Management” for the words “Chairman, Civil Service Commission”, “Chairman, United States Civil Service Commission”, “Commissioners” or “Commissioner” wherever they appear.
 
 (a) Executive orders relating to the Civil Service Rules, ethics and other matters of Presidential interest.
 
@@ -778,7 +778,7 @@ Labor Management Relations in the Federal Service
 
 General Provisions
 
-2–401. <i>Study and Report Provisions.</i> The Director of the Office of Personnel Management is directed to conducta study of Executive orders listed in Section 2–101(a) and (b) and to coordinate the study with such other agencies as may be named in or affected by these orders. The Director of Personnel Management and the Director of the Office of Management and Budget are directed to submit a report on or before July 1, 1981 to the President concerning the performance of functions specified in these Executive orders and any other Executive orders affecting the functions or responsibilities of the Office of Personnel Management. The report shall contain specific detailed recommendations for the continuation, modification, revision or revocation of each Executive order.
+2–401. <i>Study and Report Provisions.</i> The Director of the Office of Personnel Management is directed to conduct a study of Executive orders listed in Section 2–101(a) and (b) and to coordinate the study with such other agencies as may be named in or affected by these orders. The Director of Personnel Management and the Director of the Office of Management and Budget are directed to submit a report on or before July 1, 1981 to the President concerning the performance of functions specified in these Executive orders and any other Executive orders affecting the functions or responsibilities of the Office of Personnel Management. The report shall contain specific detailed recommendations for the continuation, modification, revision or revocation of each Executive order.
 
 2–402. <i>Continuing Effect of this Order.</i> Except as required by the Civil Service Reform Act of 1978 \[Pub. L. 95–454\] as its provisions become effective, in accord with Section 7135 of Title 5, United States Code, as amended, and in accord with Section 902(a) of that Act \[set out as a Savings Provisions note above\], the provisions of this Order shall continue in effect, according to its terms, until modified, terminated or suspended.
 

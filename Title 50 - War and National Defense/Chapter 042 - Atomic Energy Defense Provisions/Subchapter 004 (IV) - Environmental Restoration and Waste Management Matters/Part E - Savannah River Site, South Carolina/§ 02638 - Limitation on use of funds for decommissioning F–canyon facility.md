@@ -20,7 +20,7 @@ The Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, ref
 
 #### Amendments
 
-2003—Pub. L. 108–136, §3141(g)(24)(C), inserted section catchline, struck out former subsec. heading, and, in introductory provisions, substituted “the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398) or any other Act” for “this or any other Act” and “the Secretary of Energy” for “the Secretary”.
+<b>2003</b>—Pub. L. 108–136, §3141(g)(24)(C), inserted section catchline, struck out former subsec. heading, and, in introductory provisions, substituted “the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398) or any other Act” for “this or any other Act” and “the Secretary of Energy” for “the Secretary”.
 
 Pub. L. 108–136, §3115(b)(2), substituted “a report setting forth—” and pars. (1) to (3) for “the following:” and former pars. (1) to (3) which contained somewhat similar provisions.
 

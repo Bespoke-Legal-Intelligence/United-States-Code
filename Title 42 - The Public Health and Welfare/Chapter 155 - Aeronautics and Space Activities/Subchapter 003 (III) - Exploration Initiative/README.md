@@ -5,7 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 17731 - Stepping stone approach to exploration](%C2%A7%2017731%20-%20Stepping%20stone%20approach%20to%20exploration.md)
-- [&sect; 17732 - Lunar outpost](%C2%A7%2017732%20-%20Lunar%20outpost.md)
-- [&sect; 17733 - Exploration technology development](%C2%A7%2017733%20-%20Exploration%20technology%20development.md)
-- [&sect; 17734 - Exploration crew rescue](%C2%A7%2017734%20-%20Exploration%20crew%20rescue.md)
+- [&sect; 17731 - Repealed. Pub. L. 111&#8211;314, &sect;6, Dec. 18, 2010, 124 Stat. 3444](%C2%A7%2017731%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93314%2C%20%C2%A76%2C%20Dec.%2018%2C%202010%2C%20124%20Stat.%203444.md)
+- [&sect; 17732 - Repealed or Omitted](%C2%A7%2017732%20-%20Repealed%20or%20Omitted.md)
+- [&sect; 17733 - Repealed or Transferred](%C2%A7%2017733%20-%20Repealed%20or%20Transferred.md)
+- [&sect; 17734 - Repealed. Pub. L. 111&#8211;314, &sect;6, Dec. 18, 2010, 124 Stat. 3444](%C2%A7%2017734%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93314%2C%20%C2%A76%2C%20Dec.%2018%2C%202010%2C%20124%20Stat.%203444.md)

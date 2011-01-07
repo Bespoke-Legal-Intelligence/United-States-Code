@@ -12,7 +12,7 @@
 
 (b) An assignee not domiciled in the United States may designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the assignee does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served upon the Director.
 
-(July 5, 1946, ch. 540, title I, §10, 60 Stat. 431; Pub. L. 87–772, §6, Oct. 9, 1962, 76 Stat. 770; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §112, Nov. 16, 1988, 102 Stat. 3939; Pub. L. 105–330, title I, §107, Oct. 30, 1998, 112 Stat. 3068; Pub. L. 106–43, §6(a), Aug. 5, 1999, 113 Stat. 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(5), Nov. 2, 2002, 116 Stat. 1907.)
+(July 5, 1946, ch. 540, title I, §10, 60 Stat. 431; Pub. L. 87–772, §6, Oct. 9, 1962, 76 Stat. 770; Pub.L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §112, Nov. 16, 1988, 102 Stat. 3939; Pub. L. 105–330, title I, §107, Oct. 30, 1998, 112 Stat. 3068; Pub. L. 106–43, §6(a), Aug. 5, 1999, 113 Stat. 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(5), Nov. 2, 2002, 116 Stat. 1907.)
 
 #### Prior Provisions
 
@@ -20,9 +20,9 @@ Act Feb. 20, 1905, ch. 592, §10, 33 Stat. 727.
 
 #### Amendments
 
-2002—Subsecs. (a), (b). Pub. L. 107–273 amended subsecs. (a) and (b) generally, in subsec. (a) substituting pars. (1) to (5) for substantially identical undesignated provisions, and in subsec. (b) adding provisions relating to service on Director if assignee does not designate name and address of a person resident in the United States on whom may be served notices or process.
+<b>2002</b>—Subsecs. (a), (b). Pub. L. 107–273 amended subsecs. (a) and (b) generally, in subsec. (a) substituting pars. (1) to (5) for substantially identical undesignated provisions, and in subsec. (b) adding provisions relating to service on Director if assignee does not designate name and address of a person resident in the United States on whom may be served notices or process.
 
-1999—Pub. L. 106–43, §6(a)(2), (3), which directed the amendment of this section by substituting “mark.” for “mark,” in the first sentence and striking out a second period at the end of the third sentence, could not be executed because “mark,” and the second period did not appear subsequent to amendment by Pub. L. 105–330. See 1998 Amendment note below.
+<b>1999</b>—Pub. L. 106–43, §6(a)(2), (3), which directed the amendment of this section by substituting “mark.” for “mark,” in the first sentence and striking out a second period at the end of the third sentence, could not be executed because “mark,” and the second period did not appear subsequent to amendment by Pub. L. 105–330. See 1998 Amendment note below.
 
 Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], substituted “Director” for “Commissioner” in last sentence.
 
@@ -30,17 +30,17 @@ Pub. L. 106–43, §6(a)(1), which directed the amendment of the penultimate sen
 
 Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], substituted “Director” for “Commissioner” in last sentence.
 
-1998—Pub. L. 105–330 amended section catchline and text generally. Prior to amendment, text read as follows:
+<b>1998</b>—Pub. L. 105–330 amended section catchline and text generally. Prior to amendment, text read as follows:
 
 “A registered mark or a mark for which application to register has been filed shall be assignable with the goodwill of the business in which the mark is used, or with that part of the goodwill of the business connected with the use of and symbolized by the mark,. However, no application to register a mark under section 1051(b) of this title shall be assignable prior to the filing of the verified statement of use under section 1051(d) of this title, except to a successor to the business of the applicant, or portion thereof, to which the mark pertains, if that business is ongoing and existing. In any assignment authorized by this section it shall not be necessary to include the goodwill of the business connected with the use of and symbolized by any other mark used in the business or by the name or style under which the business is conducted. Assignments shall be by instruments in writing duly executed. Acknowledgment shall be prima facie evidence of the execution of an assignment and when recorded in the Patent and Trademark Office the record shall be prima facie evidence of execution. An assignment shall be void as against any subsequent purchaser for a valuable consideration without notice, unless it is recorded in the Patent and Trademark Office within three months after the date thereof or prior to such subsequent purchase. A separate record of assignments submitted for recording hereunder shall be maintained in the Patent and Trademark Office.
 
 “An assignee not domiciled in the United States shall be subject to and comply with the provisions of section 1051(e) of this title.”
 
-1988—Pub. L. 100–667 substituted “. However, no application to register a mark under section 1051(b) of this title shall be assignable prior to the filing of the verified statement of use under section 1051(d) of this title, except to a successor to the business of the applicant, or portion thereof, to which the mark pertains, if that business is ongoing and existing. In any assignment authorized by this section” for “and in any such assignment” in first par., and “1051(e)” for “1051(d)” in last par.
+<b>1988</b>—Pub. L. 100–667 substituted “. However, no application to register a mark under section 1051(b) of this title shall be assignable prior to the filing of the verified statement of use under section 1051(d) of this title, except to a successor to the business of the applicant, or portion thereof, to which the mark pertains, if that business is ongoing and existing. In any assignment authorized by this section” for “and in any such assignment” in first par., and “1051(e)” for “1051(d)” in last par.
 
-1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
-1962—Pub. L. 87–772 substituted provisions which require a separate record of assignments to be kept in the Patent Office, for provisions which required the Commissioner to keep such record, and eliminated provisions permitting the cancellation of any assigned registration at any time if the registered mark is being used by, or with the permission of, the assignee so as to misrepresent the source of the goods or services in connection with which the mark is used.
+<b>1962</b>—Pub. L. 87–772 substituted provisions which require a separate record of assignments to be kept in the Patent Office, for provisions which required the Commissioner to keep such record, and eliminated provisions permitting the cancellation of any assigned registration at any time if the registered mark is being used by, or with the permission of, the assignee so as to misrepresent the source of the goods or services in connection with which the mark is used.
 
 #### Effective Date of 1999 Amendment
 

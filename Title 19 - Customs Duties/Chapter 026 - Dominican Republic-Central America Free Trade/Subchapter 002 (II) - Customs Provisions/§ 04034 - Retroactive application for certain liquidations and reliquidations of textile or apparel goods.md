@@ -42,7 +42,7 @@ As used in this section, the term “entry” includes a withdrawal from warehou
 
 #### Amendments
 
-2006—Subsec. (a)(2). Pub. L. 109–280 inserted “or any other CAFTA–DR country” after “that country”.
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–280 inserted “or any other CAFTA–DR country” after “that country”.
 
 #### Effective Date of 2006 Amendment
 

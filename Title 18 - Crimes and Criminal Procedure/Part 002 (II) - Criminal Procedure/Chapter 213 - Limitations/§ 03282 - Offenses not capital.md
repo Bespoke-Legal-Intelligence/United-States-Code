@@ -38,13 +38,13 @@ In the consolidation of these sections the 5-year period of limitation for viola
 
 #### Amendments
 
-2003—Pub. L. 108–21 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2003</b>—Pub. L. 108–21 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1954—Act Sept. 1, 1954, changed the limitation period from three years to five years.
+<b>1954</b>—Act Sept. 1, 1954, changed the limitation period from three years to five years.
 
 #### Effective Date of 1954 Amendment
 
-Section 12(b) of act Sept. 1, 1954, formerly section 10(b), as renumbered by Pub. L. 87–299, §1, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to offenses (1) committed on or after September 1, 1954, or (2) committed prior to such date, if on such date prosecution therefor is not barred by provisions of law in effect prior to such date.”
+Section 12(b) of act Sept. 1, 1954, formerly section 10(b), as renumbered by Pub. L. 87–299, §1, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to offenses (1) committed on or after September 1, 1954, or\(2) committed prior to such date, if on such date prosecution therefor is not barred by provisions of law in effect prior to such date.”
 
 #### Fugitives From Justice
 

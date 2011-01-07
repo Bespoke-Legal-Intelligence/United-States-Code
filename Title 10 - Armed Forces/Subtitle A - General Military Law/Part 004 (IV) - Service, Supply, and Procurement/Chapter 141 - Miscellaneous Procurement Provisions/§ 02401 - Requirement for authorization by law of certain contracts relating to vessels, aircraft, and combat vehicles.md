@@ -28,7 +28,7 @@
 
 (4) If a review is requested under paragraph (3), the Inspector General of the Department of Defense or the Comptroller General of the United States, as the case may be, shall submit to the Secretary and the congressional defense committees a report on such review before the expiration of the period specified in paragraph (1)(C).
 
-(5) In the case of a contract described in subsection (a)(1)(B), the commander of the specialoperations command may make a contract without regard to this subsection if—
+(5) In the case of a contract described in subsection (a)(1)(B), the commander of the special operations command may make a contract without regard to this subsection if—
 
 &emsp;(A) funds are available and obligated for the full cost of the contract (including termination costs) on or before the date the contract is awarded;
 
@@ -82,7 +82,7 @@
 
 (2) Any such analysis shall be reviewed and evaluated by the Director of the Office of Management and Budget and the Secretary of the Treasury within 30 days after the date on which the request and analysis are submitted to Congress. The Director and Secretary shall conduct such review and evaluation on the basis of the guidelines issued pursuant to subsection (f) and shall report to Congress in writing on the results of their review and evaluation at the earliest practicable date, but in no event more than 45 days after the date on which the request and analysis are submitted to the Congress.
 
-(3) Whenever a request is submitted to Congress for the authorization of funds for the Department of Defense for the long-term lease orcharter of aircraft, naval vessels, or combat vehicles authorized under this section, the Secretary of Defense—
+(3) Whenever a request is submitted to Congress for the authorization of funds for the Department of Defense for the long-term lease or charter of aircraft, naval vessels, or combat vehicles authorized under this section, the Secretary of Defense—
 
 &emsp;(A) shall indicate in the request what portion of the requested funds is attributable to capital-hire; and
 
@@ -118,13 +118,13 @@ The Internal Revenue Code of 1986, referred to in subsecs. (c)(2)(A) and (d)(1)(
 
 #### Amendments
 
-2009—Subsec. (f)(2). Pub. L. 111–84 substituted “January 6, 2006” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2006”.
+<b>2009</b>—Subsec. (f)(2). Pub. L. 111–84 substituted “January 6, 2006” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2006”.
 
-2008—Subsec. (b)(5). Pub. L. 110–181, §824, added par. (5).
+<b>2008</b>—Subsec. (b)(5). Pub. L. 110–181, §824, added par. (5).
 
 Subsec. (h). Pub. L. 110–181, §1011, added subsec. (h).
 
-2006—Pub. L. 109–163, §815(d)(1), substituted “Requirement for authorization by law of certain contracts relating to vessels, aircraft, and combat vehicles” for “Requirement for authorization by law of certain contracts relating to vessels and aircraft” in section catchline.
+<b>2006</b>—Pub. L. 109–163, §815(d)(1), substituted “Requirement for authorization by law of certain contracts relating to vessels, aircraft, and combat vehicles” for “Requirement for authorization by law of certain contracts relating to vessels and aircraft” in section catchline.
 
 Subsec. (a)(1). Pub. L. 109–163, §815(a)(1), substituted “vessel, aircraft, or combat vehicle” for “vessel or aircraft” in two places in introductory provisions.
 
@@ -146,21 +146,21 @@ Pub. L. 109–163, §815(a)(4), substituted “aircraft, naval vessels, and comb
 
 Subsec. (g). Pub. L. 109–163, §815(c)(1), redesignated subsec. (f) as (g).
 
-2000—Subsec. (b)(1)(B). Pub. L. 106–398 substituted “Committee on Appropriations of the House” for “Committees on Appropriations of the House”.
+<b>2000</b>—Subsec. (b)(1)(B). Pub. L. 106–398 substituted “Committee on Appropriations of the House” for “Committees on Appropriations of the House”.
 
-1999—Subsec. (b)(1)(B). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsec. (b)(1)(B). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-1996—Subsec. (b)(1)(B). Pub. L. 104–106, §1502(a)(20)(A), substituted “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committees on Appropriations of the” for “the Committees on Armed Services and on Appropriations of the Senate and”.
+<b>1996</b>—Subsec. (b)(1)(B). Pub. L. 104–106, §1502(a)(20)(A), substituted “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committees on Appropriations of the” for “the Committees on Armed Services and on Appropriations of the Senate and”.
 
 Subsec. (b)(1)(C). Pub. L. 104–106, §1502(a)(20)(B), substituted “those committees” for “the Committees on Armed Services and on Appropriations of the Senate and House of Representatives”.
 
 Subsec. (c)(2). Pub. L. 104–106, §1503(a)(21), struck out “pursuant to an authorization contained in the Department of Defense Authorization Act, 1984 (Public Law 98–94), or in any other law enacted after September 24, 1983,” before “may not be used”.
 
-1993—Subsec. (c)(2)(A). Pub. L. 103–35 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1993</b>—Subsec. (c)(2)(A). Pub. L. 103–35 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1987—Subsec. (d)(1)(B). Pub. L. 100–26 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1987</b>—Subsec. (d)(1)(B). Pub. L. 100–26 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1984—Subsec. (c). Pub. L. 98–525, §1232(a)(1), designated existing provisions as par. (1), redesignated as cls. (A) and (B) former cls. (1) and (2), respectively, and added par. (2).
+<b>1984</b>—Subsec. (c). Pub. L. 98–525, §1232(a)(1), designated existing provisions as par. (1), redesignated as cls. (A) and (B) former cls. (1) and (2), respectively, and added par. (2).
 
 Subsec. (f). Pub. L. 98–525, §1232(a)(2), struck out at end “Such guidelines shall be issued not later than 90 days after the date of enactment of this section \[Sept. 24, 1983\].”
 
@@ -256,7 +256,7 @@ Section 1232(a)(2) of Pub. L. 98–525 provided in part that guidelines required
 
 #### Limitation on Funds Available to Department of Defense To Enter Into Contracts During Fiscal Year 1984
 
-Section 1202(d) of Pub. L. 98–94 provided that: “Funds available to the Department of Defense may not be used to enter into any contract during fiscal year 1984 under section 2401 of title 10, United States Code, asadded by subsection (a), the term of which is for 3 years or more, inclusive of any option for contract extension or renewal, for any vessels, aircraft, or vehicles, through a lease, charter, or similar agreement, that imposes an estimated termination liability (excluding the estimated value of the leased item at the time of termination) on the United States exceeding 50 percent of the original purchase value of the vessel, aircraft, or vehicle involved for which the Congress has not specifically provided budget authority for the obligation of 10 percent of such termination liability.”
+Section 1202(d) of Pub. L. 98–94 provided that: “Funds available to the Department of Defense may not be used to enter into any contract during fiscal year 1984 under section 2401 of title 10, United States Code, as added by subsection (a), the term of which is for 3 years or more, inclusive of any option for contract extension or renewal, for any vessels, aircraft, or vehicles, through a lease, charter, or similar agreement, thatimposes an estimated termination liability (excluding the estimated value of the leased item at the time of termination) on the United States exceeding 50 percent of the original purchase value of the vessel, aircraft, or vehicle involved for which the Congress has not specifically provided budget authority for the obligation of 10 percent of such termination liability.”
 
 #### Limitation on Use of Funds Appropriated Pursuant to Authorizations Contained in Department of Defense Authorization Act, 1984
 

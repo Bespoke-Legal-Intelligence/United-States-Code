@@ -31,6 +31,10 @@
 | [3716\.](%C2%A7%2003716%20-%20Critical%20industries.md) | Critical industries. |
 | [3717\.](%C2%A7%2003717%20-%20National%20Quality%20Council.md) | National Quality Council. |
 | [3718\.](%C2%A7%2003718%20-%20President%27s%20Council%20on%20Innovation%20and%20Competitiveness.md) | President's Council on Innovation and Competitiveness. |
+| [3719\.](%C2%A7%2003719%20-%20Prize%20competitions.md) | Prize competitions. |
+| [3720\.](%C2%A7%2003720%20-%20Office%20of%20Innovation%20and%20Entrepreneurship.md) | Office of Innovation and Entrepreneurship. |
+| [3721\.](%C2%A7%2003721%20-%20Federal%20loan%20guarantees%20for%20innovative%20technologies%20in%20manufacturing.md) | Federal loan guarantees for innovative technologies in manufacturing. |
+| [3722\.](%C2%A7%2003722%20-%20Regional%20innovation%20program.md) | Regional innovation program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -68,3 +72,7 @@
 - [&sect; 03716 - Critical industries](%C2%A7%2003716%20-%20Critical%20industries.md)
 - [&sect; 03717 - National Quality Council](%C2%A7%2003717%20-%20National%20Quality%20Council.md)
 - [&sect; 03718 - President's Council on Innovation and Competitiveness](%C2%A7%2003718%20-%20President%27s%20Council%20on%20Innovation%20and%20Competitiveness.md)
+- [&sect; 03719 - Prize competitions](%C2%A7%2003719%20-%20Prize%20competitions.md)
+- [&sect; 03720 - Office of Innovation and Entrepreneurship](%C2%A7%2003720%20-%20Office%20of%20Innovation%20and%20Entrepreneurship.md)
+- [&sect; 03721 - Federal loan guarantees for innovative technologies in manufacturing](%C2%A7%2003721%20-%20Federal%20loan%20guarantees%20for%20innovative%20technologies%20in%20manufacturing.md)
+- [&sect; 03722 - Regional innovation program](%C2%A7%2003722%20-%20Regional%20innovation%20program.md)

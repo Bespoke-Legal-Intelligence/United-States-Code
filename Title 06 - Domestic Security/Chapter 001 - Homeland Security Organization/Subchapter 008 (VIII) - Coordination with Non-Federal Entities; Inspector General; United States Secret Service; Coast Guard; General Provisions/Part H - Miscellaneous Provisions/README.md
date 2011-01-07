@@ -23,7 +23,7 @@ Part H—Miscellaneous Provisions
 - [&sect; 00462 - Office of National Capital Region Coordination](%C2%A7%2000462%20-%20Office%20of%20National%20Capital%20Region%20Coordination.md)
 - [&sect; 00463 - Requirement to comply with laws protecting equal employment opportunity and providing whistleblower protections](%C2%A7%2000463%20-%20Requirement%20to%20comply%20with%20laws%20protecting%20equal%20employment%20opportunity%20and%20providing%20whistleblower%20protections.md)
 - [&sect; 00464 - Federal Law Enforcement Training Center](%C2%A7%2000464%20-%20Federal%20Law%20Enforcement%20Training%20Center.md)
-- [&sect; 00464a - Acceptance and use of gifts](%C2%A7%2000464a%20-%20Acceptance%20and%20use%20of%20gifts.md)
+- [&sect; 00464a - Repealed. Pub. L. 111&#8211;245, &sect;2(b)(2), Sept. 30, 2010, 124 Stat. 2621](%C2%A7%2000464a%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93245%2C%20%C2%A72%28b%29%282%29%2C%20Sept.%2030%2C%202010%2C%20124%20Stat.%202621.md)
 - [&sect; 00464b - Staffing accreditation function](%C2%A7%2000464b%20-%20Staffing%20accreditation%20function.md)
 - [&sect; 00464c - Student housing](%C2%A7%2000464c%20-%20Student%20housing.md)
 - [&sect; 00464d - Additional funds for training](%C2%A7%2000464d%20-%20Additional%20funds%20for%20training.md)

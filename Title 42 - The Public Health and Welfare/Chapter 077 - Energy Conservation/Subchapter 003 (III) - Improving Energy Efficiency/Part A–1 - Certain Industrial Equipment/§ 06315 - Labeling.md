@@ -82,11 +82,11 @@ The Federal Trade Commission Act, referred to in subsec. (k), is act Sept. 26, 1
 
 #### Amendments
 
-2007—Subsec. (e). Pub. L. 110–140 inserted “walk-in coolers and walk-in freezers,” after “commercial clothes washers,” in two places in introductory provisions.
+<b>2007</b>—Subsec. (e). Pub. L. 110–140 inserted “walk-in coolers and walk-in freezers,” after “commercial clothes washers,” in two places in introductory provisions.
 
-2005—Subsec. (e). Pub. L. 109–58 inserted “very large commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers,” after “large commercial package air conditioning and heating equipment,” in two places in introductory provisions.
+<b>2005</b>—Subsec. (e). Pub. L. 109–58 inserted “very large commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers,” after “large commercial package air conditioning and heating equipment,” in two places in introductory provisions.
 
-1992—Subsec. (a). Pub. L. 102–486, §122(c)(1), substituted “shall prescribe” for “may prescribe”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–486, §122(c)(1), substituted “shall prescribe” for “may prescribe”.
 
 Subsec. (c). Pub. L. 102–486, §122(c)(2), substituted “shall include” for “may include”.
 

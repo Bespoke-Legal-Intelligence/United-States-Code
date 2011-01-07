@@ -74,13 +74,9 @@ This Act, referred to in subsecs. (a), (b), (d)(1), (e), (f)(1), (2)(B)(ii), (g)
 
 Act of January 22, 1983 (commonly known as the “Small Tracts Act”), referred to in subsec. (h)(2), is Pub. L. 97–465, Jan. 12, 1983, 96 Stat. 2535, which enacted sections 521c to 521i of Title 16, Conservation, and amended section 484a of Title 16. For complete classification of this Act to the Code, see Tables.
 
-The mining laws, referred to in subsec. (i), are classified generally to Title 30, Mineral Lands and Mining.
-
-The public land law, referred to in subsec. (i)(2), is classified generally to this title.
-
 #### Amendments
 
-1988—Subsec. (b). Pub. L. 100–409, §3(b), inserted “concerned” after “Secretary” in first sentence.
+<b>1988</b>—Subsec. (b). Pub. L. 100–409, §3(b), inserted “concerned” after “Secretary” in first sentence.
 
 Pub. L. 100–409, §9, inserted provision relating to waiver of cash equalization payments.
 
@@ -124,5 +120,5 @@ Section 4 of Pub. L. 100–409 provided that: “In order to ensure that there a
 
 #### Savings Provision
 
-Section 5 of Pub. L. 100–409 provided that: “Nothing in this Act \[see Short Title of 1988 Amendment note set out under section 1701 of this title\] shall be construed as amending the Alaska Native Claims Settlement Act (Public Law 92–203, as amended) \[43 U.S.C. 1601 et seq.\] or the Alaska National Interest Lands Conservation Act (Public Law 96–487, as amended) \[see Tables forclassification\] or as enlarging or diminishing the authority with regard to exchanges conferred upon either the Secretary of the Interior or the Secretary of Agriculture by either such Acts. If any provision of this Act or the application thereof is held invalid, the remainder of the Act and the application thereof shall not be affected thereby. Nothing in this Act shall be construed to change the discretionary nature of land exchanges or to prohibit the Secretary concerned or any other party or parties involved in a land exchange from withdrawing from the exchange at any time, unless the Secretary concerned and the other party or parties specifically commit otherwise by written agreement.”
+Section 5 of Pub. L. 100–409 provided that: “Nothing in this Act \[see Short Title of 1988 Amendment note set out under section 1701 of this title\] shall be construed as amending the Alaska Native Claims Settlement Act (Public Law 92–203, as amended) \[43 U.S.C. 1601 et seq.\] or the Alaska National Interest Lands Conservation Act (Public Law 96–487, as amended) \[see Tables for classification\] or as enlarging or diminishing the authority with regard to exchanges conferred upon either the Secretary of the Interior or the Secretary of Agriculture by either such Acts. If any provision of this Act or the application thereof is held invalid, the remainder of the Act and the application thereof shall not be affected thereby. Nothing in this Act shall be construed to change the discretionary nature of land exchanges or to prohibit the Secretary concerned or any other party or parties involved in a land exchange from withdrawing from the exchange at any time, unless the Secretary concerned and the other party or parties specifically commit otherwise by written agreement.”
 

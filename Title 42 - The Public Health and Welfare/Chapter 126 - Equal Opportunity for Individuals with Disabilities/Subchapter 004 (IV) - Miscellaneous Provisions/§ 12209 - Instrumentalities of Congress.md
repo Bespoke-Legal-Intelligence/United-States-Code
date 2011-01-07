@@ -28,7 +28,7 @@ The Government Accountability Office, the Government Printing Office, and the Li
 
 #### (7) Construction
 
-&emsp;Nothing in this section shall alter the enforcement procedures for individuals with disabilities provided in the General AccountingOffice Personnel Act of 1980 and regulations promulgated pursuant to that Act.
+&emsp;Nothing in this section shall alter the enforcement procedures for individuals with disabilities provided in the General Accounting Office Personnel Act of 1980 and regulations promulgated pursuant to that Act.
 
 (Pub. L. 101–336, title V, §510, formerly §509, July 26, 1990, 104 Stat. 373; Pub. L. 102–166, title III, §315, Nov. 21, 1991, 105 Stat. 1095; Pub. L. 104–1, title II, §§201(c)(3), 210(g), Jan. 23, 1995, 109 Stat. 8, 16; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; renumbered §510, Pub. L. 110–325, §6(a)(2), Sept. 25, 2008, 122 Stat. 3558.)
 
@@ -44,9 +44,9 @@ A prior section 510 of Pub. L. 101–336 was renumbered section 511 and is class
 
 #### Amendments
 
-2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions and in par. (4).
+<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions and in par. (4).
 
-1995—Pub. L. 104–1, §201(c)(3)(F), amended section catchline generally.
+<b>1995</b>—Pub. L. 104–1, §201(c)(3)(F), amended section catchline generally.
 
 Pub. L. 104–1, §201(c)(3)(A), struck out subsecs. (a) and (b) which related to coverage of Senate and House of Representatives with respect to bans on employment discrimination and other discriminatory practices against individuals with disabilities.
 
@@ -54,7 +54,7 @@ Pub. L. 104–1, §201(c)(3)(B), substituted “The General Accounting Office, t
 
 Par. (2). Pub. L. 104–1, §201(c)(3)(C), struck out at end “Such remedies and procedures shall apply exclusively, except for the employees who are defined as Senate employees, in section 1201(c)(1) of title 2.”
 
-Par. (4). Pub. L. 104–1, §201(c)(3)(D), struck out “the Architect of the Capitol, the Congressional Budget Office” after “the following:”, inserted “and” before “the Library of Congress”, and struck out “the Office of Technology Assessment, and the United States Botanic Garden” before period at end.
+Par. (4). Pub. L. 104–1, §201(c)(3)(D), struck out “the Architect of the Capitol, the Congressional Budget Office” after “the following:”, inserted “and” before “theLibrary of Congress”, and struck out “the Office of Technology Assessment, and the United States Botanic Garden” before period at end.
 
 Pub. L. 104–1, §201(c)(3)(D), which in part directed the substitution of “the term ‘instrumentality of the Congress’ means” for “the instrumentalities of the Congress include”, was executed by making the substitution for “instrumentalities of the Congress include” to reflect the probable intent of Congress.
 
@@ -64,7 +64,7 @@ Par. (6). Pub. L. 104–1, §210(g), which directed amendment of this section by
 
 Par. (7). Pub. L. 104–1, §201(c)(3)(E), redesignated par. (5) as (7).
 
-1991—Subsec. (a)(2). Pub. L. 102–166, §315(1), redesignated par. (6) as (2) and struck out former par. (2) which read as follows: “
+<b>1991</b>—Subsec. (a)(2). Pub. L. 102–166, §315(1), redesignated par. (6) as (2) and struck out former par. (2) which read as follows: “
 
 Application to Senate employment.—The rights and protections provided pursuant to this chapter, the Civil Rights Act of 1990 (S. 2104, 101st Congress), the Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\], the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 621 et seq.\], and the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\] shall apply with respect to employment by the United States Senate.”
 

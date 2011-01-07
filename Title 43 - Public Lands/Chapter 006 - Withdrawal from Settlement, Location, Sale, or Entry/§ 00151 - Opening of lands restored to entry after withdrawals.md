@@ -4,9 +4,3 @@ When public lands are excluded from national forests or released from withdrawal
 
 (Sept. 30, 1913, ch. 15, §1, 38 Stat. 113.)
 
-#### References in Text
-
-The desert-land laws, referred to in text, are classified generally to chapter 9 (§321 et seq.) of this title.
-
-The public-land laws, referred to in text, are classified generally to this title.
-

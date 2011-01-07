@@ -20,7 +20,7 @@ Pub. L. 108–367, §1, Oct. 25, 2004, 118 Stat. 1743, provided that: “This Ac
 
 #### Transfer of Functions
 
-Administrative functions of Fort Donelson National Military Park transferred to Department of the Interior by Ex. Ord. Nos. 6166 and 6228, set out as notes under section 901 of Title 5, Government Organization and Employees. Administrative functions of Fort Donelson National Battlefield assigned to Department of the Interior by section 5 of Pub. L. 86–738, set out as section 428<i>o</i> of this title.
+Administrative functions of Fort Donelson National Military Park transferred to Department of the Interior by Ex. Ord. Nos. 6166 and 6228, set out as notesunder section 901 of Title 5, Government Organization and Employees. Administrative functions of Fort Donelson National Battlefield assigned to Department of the Interior by section 5 of Pub. L. 86–738, set out as section 428<i>o</i> of this title.
 
 National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, §2, by act Mar. 2, 1934, ch. 38, §1, 48 Stat. 389.
 

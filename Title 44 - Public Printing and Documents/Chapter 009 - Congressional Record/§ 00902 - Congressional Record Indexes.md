@@ -10,7 +10,7 @@ Based on 44 U.S. Code, 1964 ed., §182 (Jan. 12, 1895, ch. 23, §14, 28 Stat. 60
 
 #### Amendments
 
-2003—Pub. L. 108–102 amended section catchline and text generally. Prior to amendment, text read as follows: “The Joint Committee on Printing shall designate to the Public Printer competent persons to prepare the semimonthly and the session index to the Congressional Record and shall fix the compensation to be paid by the Public Printer for that work, and direct the form and manner of its publication and distribution.”
+<b>2003</b>—Pub. L. 108–102 amended section catchline and text generally. Prior to amendment, text read as follows: “The Joint Committee on Printing shall designate to the Public Printer competent persons to prepare the semimonthly and the session index to the Congressional Record and shall fix the compensation to be paid by the Public Printer for that work, and direct the form and manner of its publication and distribution.”
 
 #### Effective Date of 2003 Amendment
 

@@ -8,7 +8,7 @@ For the purpose of encouraging and facilitating the development and implementati
 
 &emsp;(2) The Governor of each State, within sixty days after publication of the guidelines issued pursuant to paragraph (1) of this subsection, shall identify each area within the State which, as a result of urban-industrial concentrations or other factors, has substantial water quality control problems. Not later than one hundred and twenty days following such identification and after consultation with appropriate elected and other officials of local governments having jurisdiction in such areas, the Governor shall designate (A) the boundaries of each such area, and (B) a single representative organization, including elected officials from local governments or their designees, capable of developing effective areawide waste treatment management plans for such area. The Governor may in the same manner at any later time identify any additional area (or modify an existing area) for which he determines areawide waste treatment management to be appropriate, designate the boundaries of such area, and designate an organization capable of developing effective areawide waste treatment management plans for such area.
 
-&emsp;(3) With respect to any area which, pursuant to the guidelines published under paragraph (1) of this subsection, is located in two or more States, the Governors of the respective States shall consult and cooperate in carrying out the provisions of paragraph (2), with a view toward designating the boundaries of the interstate area having common water quality control problems and for which areawide waste treatment management plans would be most effective, and toward designating, within one hundred and eighty days after publication of guidelines issued pursuant to paragraph (1) of this subsection, of a single representative organization capable of developing effective areawide waste treatment management plans for such area.
+&emsp;(3) With respect to any area which, pursuant to the guidelines published under paragraph (1) of this subsection, is located in two or more States, the Governors of the respective States shall consult and cooperate in carrying out the provisions of paragraph (2), with a view toward designating the boundaries of the interstate area having common water quality control problems and for which areawide wastetreatment management plans would be most effective, and toward designating, within one hundred and eighty days after publication of guidelines issued pursuant to paragraph (1) of this subsection, of a single representative organization capable of developing effective areawide waste treatment management plans for such area.
 
 &emsp;(4) If a Governor does not act, either by designating or determining not to make a designation under paragraph (2) of this subsection, within the time required by such paragraph, or if, in the case of an interstate area, the Governors of the States involved do not designate a planning organization within the time required by paragraph (3) of this subsection, the chief elected officials of local governments within an area may by agreement designate (A) the boundaries for such an area, and (B) a single representative organization including elected officials from such local governments, or their designees, capable of developing an areawide waste treatment management plan for such area.
 
@@ -26,7 +26,7 @@ For the purpose of encouraging and facilitating the development and implementati
 
 (2) Any plan prepared under such process shall include, but not be limited to—
 
-&emsp;(A) the identification of treatment works necessary to meet the anticipated municipaland industrial waste treatment needs of the area over a twenty-year period, annually updated (including an analysis of alternative waste treatment systems), including any requirements for the acquisition of land for treatment purposes; the necessary waste water collection and urban storm water runoff systems; and a program to provide the necessary financial arrangements for the development of such treatment works, and an identification of open space and recreation opportunities that can be expected to result from improved water quality, including consideration of potential use of lands associated with treatment works and increased access to water-based recreation;
+&emsp;(A) the identification of treatment works necessary to meet the anticipated municipal and industrial waste treatment needs of the area over a twenty-year period, annually updated (including an analysis of alternative waste treatment systems), including any requirements for the acquisition of land for treatment purposes; the necessary waste water collection and urban storm water runoff systems; and a program to provide the necessary financial arrangements for the development of such treatment works, and an identification of open space and recreation opportunities that can be expected to result from improved water quality, including consideration of potential use of lands associated with treatment works and increased access to water-based recreation;
 
 &emsp;(B) the establishment of construction priorities for such treatment works and time schedules for the initiation and completion of all treatment works;
 
@@ -74,7 +74,7 @@ For the purpose of encouraging and facilitating the development and implementati
 
 &emsp;(v) A process to assure continued coordination with Federal and Federal-State water-related planning and reviewing processes, including the National Wetlands Inventory.
 
-(C) If the Governor of a State obtains approval from the Administrator of a statewide regulatory program which meets the requirements of subparagraph (B) of this paragraph and if such State is administering a permit program undersection 1344 of this title, no person shall be required to obtain an individual permit pursuant to such section, or to comply with a general permit issued pursuant to such section, with respect to any appropriate activity within such State for which a best management practice has been approved by the Administrator under the program approved by the Administrator pursuant to this paragraph.
+(C) If the Governor of a State obtains approval from the Administrator of a statewide regulatory program which meets the requirements of subparagraph (B) of this paragraph and if such State is administering a permit program under section 1344 of this title, no person shall be required to obtain an individual permit pursuant to such section, or to comply with a general permit issued pursuant to such section, with respect to any appropriate activity within such State for which a best management practice has been approved by the Administrator under the program approved by the Administrator pursuant to this paragraph.
 
 (D)(i) Whenever the Administrator determines after public hearing that a State is not administering a program approved under this section in accordance with the requirements of this section, the Administrator shall so notify the State, and if appropriate corrective action is not taken within a reasonable time, not to exceed ninety days, the Administrator shall withdraw approval of such program. The Administrator shall not withdraw approval of any such program unless he shall first have notified the State, and made public, in writing, the reasons for such withdrawal.
 
@@ -106,7 +106,7 @@ For the purpose of encouraging and facilitating the development and implementati
 
 #### (d) Conformity of works with area plan
 
-After a waste treatment management agency having the authority required by subsection (c) of this section has been designated under such subsection for an area and a plan for such area has been approved under subsection (b) of this section, the Administrator shall not make any grant for construction of a publicly owned treatment works under section 1281(g)(1) of this title within such area except to such designated agency and for works in conformity with such plan.
+After a waste treatment management agency having the authority required by subsection (c) of this section has been designated under such subsection for an area and a plan for such areahas been approved under subsection (b) of this section, the Administrator shall not make any grant for construction of a publicly owned treatment works under section 1281(g)(1) of this title within such area except to such designated agency and for works in conformity with such plan.
 
 #### (e) Permits not to conflict with approved plans
 
@@ -174,15 +174,15 @@ Public Law 83–566, referred to in subsec. (j)(8), is act Aug. 4, 1954, ch. 656
 
 #### Amendments
 
-1987—Subsec. (f)(3). Pub. L. 100–4, §101(d), struck out “and” after “1974,” and “1980,” and inserted “, and such sums as may be necessary for fiscal years 1983 through 1990” after “1982”.
+<b>1987</b>—Subsec. (f)(3). Pub. L. 100–4, §101(d), struck out “and” after “1974,” and “1980,” and inserted “, andsuch sums as may be necessary for fiscal years 1983 through 1990” after “1982”.
 
 Subsec. (j)(9). Pub. L. 100–4, §101(e), struck out “and” after “1981,” and inserted “and such sums as may be necessary for fiscal years 1983 through 1990,” after “1982,”.
 
-1980—Subsec. (f)(3). Pub. L. 96–483, §1(d), inserted authorization of not to exceed $100,000,000 per fiscal year for fiscal years ending Sept. 30, 1981 and 1982.
+<b>1980</b>—Subsec. (f)(3). Pub. L. 96–483, §1(d), inserted authorization of not to exceed $100,000,000 per fiscal year for fiscal years ending Sept. 30, 1981 and 1982.
 
 Subsec. (j)(9). Pub. L. 96–483, §1(e), inserted reference to authorization of $100,000,000 for each of fiscal years 1981 and 1982.
 
-1977—Subsec. (b)(1). Pub. L. 95–217, §31(a), designated existing provisions as subpar. (A) and added subpar. (B).
+<b>1977</b>—Subsec. (b)(1). Pub. L. 95–217, §31(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (b)(2)(A). Pub. L. 95–217, §32, inserted “, and an identification of open space and recreation opportunities that can be expected to result from improved water quality, including consideration of potential use of lands associated with treatment works and increased access to water-based recreation” after “development of such treatment works”.
 

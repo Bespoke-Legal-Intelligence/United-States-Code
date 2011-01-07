@@ -32,7 +32,7 @@ Venue.—Trial in a civil action under this section is in the judicial district 
 
 #### Historical and Revision Notes
 
-I74Pub. L. 105–102
+#### Pub. L. 105–102
 
 This amends 49:16101 to redesignate subsection (d) as (c) because no subsection (c) was enacted.
 
@@ -42,7 +42,7 @@ Provisions similar to those in this section were contained in section 11901 of t
 
 #### Amendments
 
-1997—Subsecs. (c), (d). Pub. L. 105–102 redesignated subsec. (d) as (c).
+<b>1997</b>—Subsecs. (c), (d). Pub. L. 105–102 redesignated subsec. (d) as (c).
 
 #### Effective Date
 

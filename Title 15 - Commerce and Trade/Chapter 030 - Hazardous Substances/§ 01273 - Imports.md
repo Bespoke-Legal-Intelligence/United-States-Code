@@ -20,15 +20,15 @@ Not less than thirty days before any person exports to a foreign country any mis
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–314, §204(b)(4)(D), (F), substituted “upon its request” for “upon his request” and substituted “Commission” for “Secretary of Health, Education, and Welfare” in two places.
+<b>2008</b>—Subsec. (a). Pub. L. 110–314, §204(b)(4)(D), (F), substituted “upon its request” for “upon his request” and substituted “Commission” for “Secretary of Health, Education, and Welfare” in two places.
 
 Subsec. (b). Pub. L. 110–314, §204(b)(4)(F), (G), substituted “appears to the Commission” for “appears to the Secretary of Health, Education, and Welfare” and “Commission designated by” for “Department of Health, Education, and Welfare designated by”.
 
 Subsec. (d). Pub. L. 110–314, §204(b)(4)(H), (I), substituted “statement with the Commission” for “statement with the Consumer Product Safety Commission” and struck out “(hereinafter in this section referred to as the ‘Commission’)” before “notifying”.
 
-1978—Subsec. (d). Pub. L. 95–631 added subsec. (d).
+<b>1978</b>—Subsec. (d). Pub. L. 95–631 added subsec. (d).
 
-1966—Subsec. (a). Pub. L. 89–756 substituted “a misbranded hazardous substance or banned hazardous substance” for “in misbranded packages”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–756 substituted “a misbranded hazardous substance or banned hazardous substance” for “in misbranded packages”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Commission”.</i>
 

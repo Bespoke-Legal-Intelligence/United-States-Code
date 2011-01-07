@@ -50,5 +50,5 @@ Provisions similar to those in this section were contained in section 10743 of t
 
 #### Amendments
 
-2005—Subsec. (b)(3). Pub. L. 109–59 added par. (3).
+<b>2005</b>—Subsec. (b)(3). Pub. L. 109–59 added par. (3).
 

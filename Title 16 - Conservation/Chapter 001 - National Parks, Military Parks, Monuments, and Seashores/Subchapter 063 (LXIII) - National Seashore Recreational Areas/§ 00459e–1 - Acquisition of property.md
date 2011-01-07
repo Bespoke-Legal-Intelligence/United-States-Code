@@ -72,9 +72,9 @@ The authority of the Secretary to condemn undeveloped tracts within the Dune Dis
 
 #### Amendments
 
-1984—Subsecs. (h), (i). Pub. L. 98–482 added subsecs. (h) and (i).
+<b>1984</b>—Subsecs. (h), (i). Pub. L. 98–482 added subsecs. (h) and (i).
 
-1978—Subsec. (g). Pub. L. 95–625 added subsec. (g).
+<b>1978</b>—Subsec. (g). Pub. L. 95–625 added subsec. (g).
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

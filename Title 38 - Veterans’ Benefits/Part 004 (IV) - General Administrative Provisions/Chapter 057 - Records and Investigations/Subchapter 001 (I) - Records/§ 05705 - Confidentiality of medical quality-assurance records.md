@@ -32,7 +32,7 @@
 
 (2) An activity may not be considered as having been designated as a medical quality-assurance program for the purposes of subsection (c)(2) of this section unless the designation has been specified in such regulations.
 
-(e) Any person who, knowing that a document or record is a document or record described in subsection (a) of this section, willfully discloses such record or document except as provided for in subsection (b) of this section shall be finednot more than $5,000 in the case of a first offense and not more than $20,000 in the case of a subsequent offense.
+(e) Any person who, knowing that a document or record is a document or record described in subsection (a) of this section, willfully discloses such record or document except as provided for in subsection (b) of this section shall be fined not more than $5,000 in the case of a first offense and not more than $20,000 in the case of a subsequent offense.
 
 (Added Pub. L. 96–385, title V, §505(a), Oct. 7, 1980, 94 Stat. 1535, §3305; amended Pub. L. 99–166, title II, §201, Dec. 3, 1985, 99 Stat. 949; renumbered §5705 and amended Pub. L. 102–40, title IV, §§402(b)(1), 403(b)(2), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(d)(4), June 13, 1991, 105 Stat. 285; Pub. L. 102–83, §4(a)(2)(F), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
@@ -42,7 +42,7 @@ Section 7311(g) of this title, referred to in subsec. (a), was repealed by Pub. 
 
 #### Amendments
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 3305 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 3305 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
@@ -76,11 +76,13 @@ Pub. L. 102–54, §14(d)(4)(B)(i)–(iii), amended subsec. (d)(1) as in effect 
 
 Subsec. (d)(2). Pub. L. 102–54, §14(d)(4)(B)(iv), amended subsec. (d)(2) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “An activity may not be considered” for “After the date on which such regulations are first prescribed, no activity shall be considered”.
 
-1985—Subsec. (a). Pub. L. 99–166, §201(1), inserted “(other than reports submitted pursuant to section 4152(b) of this title)” after “program”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–166, §201(1), inserted “(other than reports submitted pursuant to section 4152(b) of this title)” after “program”.
 
 Subsec. (b)(6). Pub. L. 99–166, §201(2), added par. (6).
 
 #### Effective Date
 
 Section effective Oct. 7, 1980, see section 601(d) of Pub. L. 96–385, set out as an Effective Date of 1980 Amendment note under section 1114 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

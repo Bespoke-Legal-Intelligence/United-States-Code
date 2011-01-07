@@ -12,5 +12,5 @@ Subsection (a) of this section shall not apply if the total amount appropriated 
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–573, §805, substituted “Secretary has submitted to the President, for inclusion in the report required to be transmitted to the Congress under section 1671 of this title,” for “Secretary has submitted to the Congress”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–573, §805, substituted “Secretary has submitted to the President, for inclusion in the report required to be transmitted to the Congress under section 1671 of this title,” for “Secretary has submitted to the Congress”.
 

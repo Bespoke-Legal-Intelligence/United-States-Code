@@ -42,7 +42,7 @@ The following organizations are referred to in subsection (a):
 
 &emsp;&emsp;(B) providing for the payment of life, sick, accident, or other benefits to the members of such society, order, or association or their dependents.
 
-&emsp;(9) Voluntary employees’ beneficiary associations providing for the payment of life, sick, accident, or other benefits to the members of such association or their dependents or designated beneficiaries, if no part of the net earnings of such association inures (other than through such payments) to the benefit of any private shareholder or individual.
+&emsp;(9) Voluntary employees’ beneficiary associations providing for the payment of life, sick, accident, or other benefits to the members of such association or their dependents or designated beneficiaries, if no part of the net earnings of such association inures (other than through such payments) to the benefit of any private shareholder or individual. For purposes of providing for the payment of sick and accident benefits to members of such an association and their dependents, the term “dependent” shall include any individual who is a child (as defined in section 152(f)(1)) of a member who as of the end of the calendar year has not attained age 27.
 
 &emsp;(10) Domestic fraternal societies, orders, or associations, operating under the lodge system—
 
@@ -164,7 +164,7 @@ The following organizations are referred to in subsection (a):
 
 > &emsp;Clause (ii) shall not apply to a company if any employee of the company, or a member of the employee's family (as defined in section 2032A(e)(2)), is an employee of another company exempt from taxation by reason of this paragraph (or would be so exempt but for this sentence).
 
-&emsp;(B) For purposes of subparagraph (A), in determining whether any company or association is described in subparagraph (A), such company or association shall be treated as receiving during the taxable year amounts described in subparagraph (A) which are received during such year by all other companies or associations which are members of the same controlled group as the insurance company orassociation for which the determination is being made.
+&emsp;(B) For purposes of subparagraph (A), in determining whether any company or association is described in subparagraph (A), such company or association shall be treated as receiving during the taxable year amounts described in subparagraph (A) which are received during such year by all other companies or associations which are members of the same controlled group as the insurance company or association for which the determination is being made.
 
 &emsp;(C) For purposes of subparagraph (B), the term “controlled group” has the meaning given such term by section 831(b)(2)(B)(ii), except that in applying section 831(b)(2)(B)(ii) for purposes of this subparagraph, subparagraphs (B) and (C) of section 1563(b)(2) shall be disregarded.
 
@@ -200,9 +200,9 @@ The following organizations are referred to in subsection (a):
 
 &emsp;&emsp;(A) under the plan, it is impossible, at any time prior to the satisfaction of all liabilities with respect to employees under the plan, for any part of the corpus or income to be (within the taxable year or thereafter) used for, or diverted to, any purpose other than the providing of benefits under the plan,
 
-&emsp;&emsp;(B) such benefits are payable to employees under a classification which is set forth in the plan and which is found by the Secretary not to be discriminatory in favor of employees who are highly compensated employees (within the meaning of section 414(q)),
+&emsp;&emsp;(B) such benefits are payable to employees under a classification which is set forth inthe plan and which is found by the Secretary not to be discriminatory in favor of employees who are highly compensated employees (within the meaning of section 414(q)),
 
-&emsp;&emsp;(C) such benefits do not discriminate in favor of employees who are highly compensated employees (within the meaning ofsection 414(q)). A plan shall not be considered discriminatory within the meaning of this subparagraph merely because the benefits received under the plan bear a uniform relationship to the total compensation, or the basic or regular rate of compensation, of the employees covered by the plan, and
+&emsp;&emsp;(C) such benefits do not discriminate in favor of employees who are highly compensated employees (within the meaning of section 414(q)). A plan shall not be considered discriminatory within the meaning of this subparagraph merely because the benefits received under the plan bear a uniform relationship to the total compensation, or the basic or regular rate of compensation, of the employees covered by the plan, and
 
 &emsp;&emsp;(D) in the case of a plan under which an employee may designate certain contributions as deductible—
 
@@ -266,7 +266,7 @@ The following organizations are referred to in subsection (a):
 
 &emsp;&emsp;&emsp;(II) obligations of a State or local government which are not in default as to principal or interest, and
 
-&emsp;&emsp;&emsp;(III) time or demand deposits in a bank (as defined in section 581) or an insuredcredit union (within the meaning of section 101(7) of the Federal Credit Union Act, 12 U.S.C. 1752(7)) located in the United States.
+&emsp;&emsp;&emsp;(III) time or demand deposits in a bank (as defined in section 581) or an insured credit union (within the meaning of section 101(7) of the Federal Credit Union Act, 12 U.S.C. 1752(7)) located in the United States.
 
 &emsp;&emsp;(iii) The term “miner” has the same meaning as such term has when used in section 402(d) of the Black Lung Benefits Act (30 U.S.C. 902(d)).
 
@@ -338,7 +338,7 @@ The following organizations are referred to in subsection (a):
 
 &emsp;(ii) For purposes of this subparagraph, the term “qualified subsidiary” means any corporation if, at all times during the period such corporation was in existence, 100 percent of the stock of such corporation is held by the corporation or trust described in subparagraph (A).
 
-&emsp;(iii) For purposes of this subtitle, if any corporation which was a qualified subsidiary ceases to meet the requirements of clause (ii),such corporation shall be treated as a new corporation acquiring all of its assets (and assuming all of its liabilities) immediately before such cessation from the corporation or trust described in subparagraph (A) in exchange for its stock.
+&emsp;(iii) For purposes of this subtitle, if any corporation which was a qualified subsidiary ceases to meet the requirements of clause (ii), such corporation shall be treated as a new corporation acquiring all of its assets (and assuming all of its liabilities) immediately before such cessation from the corporation or trust described in subparagraph (A) in exchange for its stock.
 
 &emsp;(F) For purposes of subparagraph (A), the term “real property” includes any personal property which is leased under, or in connection with, a lease of real property, but only if the rent attributable to such personal property (determined under the rules of section 856(d)(1)) for the taxable year does not exceed 15 percent of the total rent for the taxable year attributable to both the real and personal property leased under, or in connection with, such lease.
 
@@ -401,6 +401,26 @@ The following organizations are referred to in subsection (a):
 &emsp;&emsp;(iv) the majority of the board of directors or oversight body of such organization are appointed by the chief executive officer or other executive branch official of the State, by the State legislature, or by both.
 
 &emsp;(28) The National Railroad Retirement Investment Trust established under section 15(j) of the Railroad Retirement Act of 1974.
+
+&emsp;(29) CO–OP
+
+health insurance issuers.—
+
+&emsp;&emsp;(A)
+
+In general.—A qualified nonprofit health insurance issuer (within the meaning of section 1322 of the Patient Protection and Affordable Care Act) which has received a loan or grant under the CO–OP program under such section, but only with respect to periods for which the issuer is in compliance with the requirements of such section and any agreement with respect to the loan or grant.
+
+&emsp;&emsp;(B)
+
+Conditions for exemption.—Subparagraph (A) shall apply to an organization only if—
+
+&emsp;&emsp;&emsp;(i) the organization has given notice to the Secretary, in such manner as the Secretary may by regulations prescribe, that it is applying for recognition of its status under this paragraph,
+
+&emsp;&emsp;&emsp;(ii) except as provided in section 1322(c)(4) of the Patient Protection and Affordable Care Act, no part of the net earnings of which inures to the benefit of any private shareholder or individual,
+
+&emsp;&emsp;&emsp;(iii) no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation, and
+
+&emsp;&emsp;&emsp;(iv) the organization does not participate in, or intervene in (including the publishing or distributing of statements), any political campaign on behalf of (or in opposition to) any candidate for public office.
 
 #### (d) Religious and apostolic organizations
 
@@ -554,7 +574,7 @@ Notwithstanding subsection (a), an organization which is described in subsection
 
 &emsp;&emsp;(A) the requirement of subsection (c)(3) that no part of its activities involve the provision of athletic facilities or equipment shall not apply, and
 
-&emsp;&emsp;(B) such organization shall not fail to meet the requirements of subsection (c)(3) merely because its membership is local or regional in nature.
+&emsp;&emsp;(B) such organization shall not fail to meet the requirements of subsection (c)(3)merely because its membership is local or regional in nature.
 
 #### (2) Qualified amateur sports organization defined
 
@@ -577,6 +597,8 @@ For purposes of subsection (c)(1), the following organizations are described in 
 &emsp;(2) The Resolution Trust Corporation established under section 21A of the Federal Home Loan Bank Act.
 
 &emsp;(3) The Resolution Funding Corporation established under section 21B of the Federal Home Loan Bank Act.
+
+&emsp;(4) The Patient-Centered Outcomes Research Institute established under section 1181(b) of the Social Security Act.
 
 #### (m) Certain organizations providing commercial-type insurance not exempt from tax
 
@@ -640,7 +662,7 @@ For purposes of subsection (c)(1), the following organizations are described in 
 
 #### (3) Organizational requirements
 
-&emsp;An organization (hereinafter in this subsection referred to as the “risk pool”) meets the organizational requirements of this paragraph if—
+&emsp;An organization (hereinafter in this subsection referred to as the “risk pool”) meetsthe organizational requirements of this paragraph if—
 
 &emsp;&emsp;(A) such risk pool is organized as a nonprofit organization under State law provisions authorizing risk pooling arrangements for charitable organizations,
 
@@ -732,7 +754,7 @@ An organization shall not fail to be treated as organized and operated exclusive
 
 #### (B) Waiver of limitations
 
-&emsp;&emsp;If the credit or refund of any overpayment of tax described in subparagraph (A)(iii) isprevented at any time by the operation of any law or rule of law (including res judicata), such credit or refund may nevertheless be allowed or made if the claim therefor is filed before the close of the 1-year period beginning on the date of the last determination described in subparagraph (A)(ii).
+&emsp;&emsp;If the credit or refund of any overpayment of tax described in subparagraph (A)(iii) is prevented at any time by the operation of any law or rule of law (including res judicata), such credit or refund may nevertheless be allowed or made if the claim therefor is filed before the close of the 1-year period beginning on the date of the last determination described in subparagraph (A)(ii).
 
 #### (7) Notice of suspensions
 
@@ -830,11 +852,99 @@ An organization shall not fail to be treated as organized and operated exclusive
 
 &emsp;&emsp;The term “debt management plan services” means services related to the repayment, consolidation, or restructuring of a consumer's debt, and includes the negotiation with creditors of lower interest rates, the waiver or reduction of fees, and the marketing and processing of debt management plans.
 
-#### (r) Cross reference
+#### (r) Additional requirements for certain hospitals
+
+#### (1) In general
+
+&emsp;A hospital organization to which this subsection applies shall not be treated as described in subsection (c)(3) unless the organization—
+
+&emsp;&emsp;(A) meets the community health needs assessment requirements described in paragraph (3),
+
+&emsp;&emsp;(B) meets the financial assistance policy requirements described in paragraph (4),
+
+&emsp;&emsp;(C) meets the requirements on charges described in paragraph (5), and
+
+&emsp;&emsp;(D) meets the billing and collection requirement described in paragraph (6).
+
+#### (2) Hospital organizations to which subsection applies
+
+#### (A) In general
+
+&emsp;&emsp;This subsection shall apply to—
+
+&emsp;&emsp;&emsp;(i) an organization which operates a facility which is required by a State to be licensed, registered, or similarly recognized as a hospital, and
+
+&emsp;&emsp;&emsp;(ii) any other organization which the Secretary determines has the provision of hospital care as its principal function or purpose constituting the basis for its exemption under subsection (c)(3) (determined without regard to this subsection).
+
+#### (B) Organizations with more than 1 hospital facility
+
+&emsp;&emsp;If a hospital organization operates more than 1 hospital facility—
+
+&emsp;&emsp;&emsp;(i) the organization shall meet the requirements of this subsection separately with respect to each such facility, and
+
+&emsp;&emsp;&emsp;(ii) the organization shall not be treated as described in subsection (c)(3) with respect to any such facility for which such requirements are not separately met.
+
+#### (3) Community health needs assessments
+
+#### (A) In general
+
+&emsp;&emsp;An organization meets the requirements of this paragraph with respect to any taxable year only if the organization—
+
+&emsp;&emsp;&emsp;(i) has conducted a community health needs assessment which meets the requirements of subparagraph (B) in such taxable year or in either of the 2 taxable years immediately preceding such taxable year, and
+
+&emsp;&emsp;&emsp;(ii) has adopted an implementation strategy to meet the community health needs identified through such assessment.
+
+#### (B) Community health needs assessment
+
+&emsp;&emsp;A community health needs assessment meets the requirements of this paragraph if such community health needs assessment—
+
+&emsp;&emsp;&emsp;(i) takes into account input from persons who represent the broad interests of the community served by the hospital facility, including those with special knowledge of or expertise in public health, and
+
+&emsp;&emsp;&emsp;(ii) is made widely available to the public.
+
+#### (4) Financial assistance policy
+
+&emsp;An organization meets the requirements of this paragraph if the organization establishes the following policies:
+
+#### (A) Financial assistance policy
+
+&emsp;&emsp;A written financial assistance policy which includes—
+
+&emsp;&emsp;&emsp;(i) eligibility criteria for financial assistance, and whether such assistance includes free or discounted care,
+
+&emsp;&emsp;&emsp;(ii) the basis for calculating amounts charged to patients,
+
+&emsp;&emsp;&emsp;(iii) the method for applying for financial assistance,
+
+&emsp;&emsp;&emsp;(iv) in the case of an organization which does not have a separate billing and collections policy, the actions the organization may take in the event of non-payment, including collections action and reporting to credit agencies, and
+
+&emsp;&emsp;&emsp;(v) measures to widely publicize the policy within the community to be served by the organization.
+
+#### (B) Policy relating to emergency medical care
+
+&emsp;&emsp;A written policy requiring the organization to provide, without discrimination, care for emergency medical conditions (within the meaning of section 1867 of the Social Security Act (42 U.S.C. 1395dd)) to individuals regardless of their eligibility under the financial assistance policy described in subparagraph (A).
+
+#### (5) Limitation on charges
+
+&emsp;An organization meets the requirements of this paragraph if the organization—
+
+&emsp;&emsp;(A) limits amounts charged for emergency or other medically necessary care provided to individuals eligible for assistance under the financial assistance policy described in paragraph (4)(A) to not more than the amounts generally billed to individuals who have insurance covering such care, and
+
+&emsp;&emsp;(B) prohibits the use of gross charges.
+
+#### (6) Billing and collection requirements
+
+&emsp;An organization meets the requirement of this paragraph only if the organization does not engage in extraordinary collection actions before the organization has made reasonable efforts to determine whether the individual is eligible for assistance under the financial assistance policy described in paragraph (4)(A).
+
+#### (7) Regulatory authority
+
+&emsp;The Secretary shall issue such regulations and guidance as may be necessary to carry out the provisions of this subsection, including guidance relating to what constitutes reasonable efforts to determine the eligibility of a patient under a financial assistance policy for purposes of paragraph (6).
+
+#### (s) Cross reference
 
 &emsp;&emsp;<b>For nonexemption of Communist-controlled organizations, see section 11(b) of the Internal Security Act of 1950 (64 Stat. 997; 50 U.S.C. 790(b)).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 163; Mar. 13, 1956, ch. 83, §5(2), 70 Stat. 49; Pub. L. 86–428, §1, Apr. 22, 1960, 74 Stat. 54; Pub. L. 86–667, §1, July 14, 1960, 74 Stat. 534; Pub. L. 87–834, §8(d), Oct. 16, 1962, 76 Stat. 997; Pub. L. 89–352, §1, Feb. 2, 1966, 80 Stat. 4; Pub. L. 89–800, §6(a), Nov. 8, 1966, 80 Stat. 1515; Pub. L. 90–364, title I, §109(a), June 28, 1968, 82 Stat. 269; Pub. L. 91–172, title I, §§101(j)(3)–(6), 121(b)(5)(A), (6)(A), Dec. 30, 1969, 83 Stat. 526, 527, 541; Pub. L. 91–618, §1, Dec. 31, 1970, 84 Stat. 1855; Pub. L. 92–418, §1(a), Aug. 29, 1972, 86 Stat. 656; Pub. L. 93–310, §3(a), June 8, 1974, 88 Stat. 235; Pub. L. 93–625, §10(c), Jan. 3, 1975, 88 Stat. 2119; Pub. L. 94–455, title XIII, §§1307(a)(1), (d)(1)(A), 1312(a), 1313(a), title XIX, §1906(b)(13)(A), title XXI, §§2113(a), 2134(b), Oct. 4, 1976, 90 Stat. 1720, 1727, 1730, 1834, 1907, 1927; Pub. L. 94–568, §§1(a), 2(a), Oct. 20, 1976, 90 Stat. 2697; Pub. L. 95–227, §4(a), Feb. 10, 1978, 92 Stat. 15; Pub. L. 95–345, §1(a), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title VII, §703(b)(2), (g)(2)(A), (B), Nov. 6, 1978, 92 Stat. 2939, 2940; Pub. L. 96–222, title I, §108(b)(2)(B), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–364, title II, §209(a), Sept. 26, 1980, 94 Stat. 1290; Pub. L. 96–601, §3(a), Dec. 24, 1980, 94 Stat. 3496; Pub. L. 96–605, title I, §106(a), Dec. 28, 1980, 94 Stat. 3523; Pub. L. 97–119, title I, §103(c)(1), Dec. 29, 1981, 95 Stat. 1638; Pub. L. 97–248, title II, §286(a), title III, §354(a), (b), Sept. 3, 1982, 96 Stat. 569, 640, 641; Pub. L. 97–448, title III, §306(b)(5), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 98–369, div. A, title X, §§1032(a), 1079, div. B, title VIII, §2813(b), July 18, 1984, 98 Stat. 1033, 1056, 1206; Pub. L. 99–272, title XI, §11012(b), Apr. 7, 1986, 100 Stat. 260; Pub. L. 99–514, title X, §§1012(a), 1024(b), title XI, §§1109(a), 1114(b)(14), title XVI, §1603(a), title XVIII, §§1879(k)(1), 1899A(15), Oct. 22, 1986, 100 Stat. 2390, 2406, 2435, 2451, 2768, 2909, 2959; Pub. L. 100–203, title X, §10711(a)(2), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title I, §§1010(b)(4), 1011(c)(7)(D), 1016(a)(1)(A), (2)–(4), 1018(u)(14), (15), (34), title II, §2003(a)(1), (2), title VI, §6202(a), Nov. 10, 1988, 102 Stat. 3451, 3458, 3573, 3574, 3590, 3592, 3597, 3598, 3730; Pub. L. 101–73, title XIV, §1402(a), Aug. 9, 1989, 103 Stat. 550; Pub. L. 102–486, title XIX, §1940(a), Oct. 24, 1992, 106 Stat. 3034; Pub. L. 103–66, title XIII, §13146(a), (b), Aug. 10, 1993, 107 Stat. 443; Pub. L. 104–168, title XIII, §1311(b)(1), July 30, 1996, 110 Stat. 1477; Pub. L. 104–188, title I, §§1114(a), 1704(j)(5), Aug. 20, 1996, 110 Stat. 1759, 1882; Pub. L. 104–191, title III, §§341(a), 342(a), Aug. 21, 1996, 110 Stat. 2070; Pub. L. 105–33, title IV, §4041(a), Aug. 5, 1997, 111 Stat. 360; Pub. L. 105–34, title I, §101(c), title IX, §§963(a), (b), 974(a), Aug. 5, 1997, 111 Stat. 799, 892, 898; Pub. L. 105–206, title VI, §6023(6), (7), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title VI, §611(d)(3)(C), June 7, 2001, 115 Stat. 98; Pub. L. 107–90, title II, §202, Dec. 21, 2001, 115 Stat. 890; Pub. L. 108–121, title I, §§105(a), 108(a), Nov. 11, 2003, 117 Stat. 1338, 1339; Pub. L. 108–218, title II, §206(a), (b), Apr. 10, 2004, 118 Stat. 610, 611; Pub. L. 108–357, title III, §319(a), (b), Oct. 22, 2004, 118 Stat. 1470, 1471; Pub. L. 109–58, title XIII, §1304(a), (b), Aug. 8, 2005, 119 Stat. 997; Pub. L. 109–135, title IV,§412(bb), (cc), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title VIII, §862(a), title XII, §1220(a), Aug. 17, 2006, 120 Stat. 1021, 1086.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 163; Mar. 13, 1956, ch. 83, §5(2), 70 Stat. 49; Pub. L. 86–428, §1, Apr. 22, 1960, 74 Stat. 54; Pub. L. 86–667, §1, July 14, 1960, 74 Stat. 534; Pub. L. 87–834, §8(d), Oct. 16, 1962, 76 Stat. 997; Pub. L. 89–352, §1, Feb. 2, 1966, 80 Stat. 4; Pub. L. 89–800, §6(a), Nov. 8, 1966, 80 Stat. 1515; Pub. L. 90–364, title I, §109(a), June 28, 1968, 82 Stat. 269; Pub. L. 91–172, title I, §§101(j)(3)–(6), 121(b)(5)(A), (6)(A), Dec. 30, 1969, 83 Stat. 526, 527, 541; Pub. L. 91–618, §1, Dec. 31, 1970, 84 Stat. 1855; Pub. L. 92–418, §1(a), Aug. 29, 1972, 86 Stat. 656; Pub. L. 93–310, §3(a), June 8, 1974, 88 Stat. 235; Pub. L. 93–625, §10(c), Jan. 3, 1975, 88 Stat. 2119; Pub. L. 94–455, title XIII, §§1307(a)(1), (d)(1)(A), 1312(a), 1313(a), title XIX, §1906(b)(13)(A), title XXI, §§2113(a), 2134(b), Oct. 4, 1976, 90 Stat. 1720, 1727, 1730, 1834, 1907, 1927; Pub. L. 94–568, §§1(a), 2(a), Oct. 20, 1976, 90 Stat. 2697; Pub. L. 95–227, §4(a), Feb. 10, 1978, 92 Stat. 15; Pub. L. 95–345, §1(a), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title VII, §703(b)(2), (g)(2)(A), (B), Nov. 6, 1978, 92 Stat. 2939, 2940; Pub. L. 96–222, title I, §108(b)(2)(B), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–364, title II, §209(a), Sept. 26, 1980, 94 Stat. 1290; Pub. L. 96–601, §3(a), Dec. 24, 1980, 94 Stat. 3496; Pub. L. 96–605, title I, §106(a), Dec. 28, 1980, 94 Stat. 3523; Pub. L. 97–119, title I, §103(c)(1), Dec. 29, 1981, 95 Stat. 1638; Pub. L. 97–248, title II, §286(a), title III, §354(a), (b), Sept. 3, 1982, 96 Stat. 569, 640, 641; Pub. L. 97–448, title III, §306(b)(5), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 98–369, div. A, title X, §§1032(a), 1079, div. B, title VIII, §2813(b), July 18, 1984, 98 Stat. 1033, 1056, 1206; Pub. L. 99–272, title XI, §11012(b), Apr. 7, 1986, 100 Stat. 260; Pub. L. 99–514, title X,§§1012(a), 1024(b), title XI, §§1109(a), 1114(b)(14), title XVI, §1603(a), title XVIII, §§1879(k)(1), 1899A(15), Oct. 22, 1986, 100 Stat. 2390, 2406, 2435, 2451, 2768, 2909, 2959; Pub. L. 100–203, title X, §10711(a)(2), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title I, §§1010(b)(4), 1011(c)(7)(D), 1016(a)(1)(A), (2)–(4), 1018(u)(14), (15), (34), title II, §2003(a)(1), (2), title VI, §6202(a), Nov. 10, 1988, 102 Stat. 3451, 3458, 3573, 3574, 3590, 3592, 3597, 3598, 3730; Pub. L. 101–73, title XIV, §1402(a), Aug. 9, 1989, 103 Stat. 550; Pub. L. 102–486, title XIX, §1940(a), Oct. 24, 1992, 106 Stat. 3034; Pub. L. 103–66, title XIII, §13146(a), (b), Aug. 10, 1993, 107 Stat. 443; Pub. L. 104–168, title XIII, §1311(b)(1), July 30, 1996, 110 Stat. 1477; Pub. L. 104–188, title I, §§1114(a), 1704(j)(5), Aug. 20, 1996, 110 Stat. 1759, 1882; Pub. L. 104–191, title III, §§341(a), 342(a), Aug. 21, 1996, 110 Stat. 2070; Pub. L. 105–33, title IV, §4041(a), Aug. 5, 1997, 111 Stat. 360; Pub. L. 105–34, title I, §101(c), title IX, §§963(a), (b), 974(a), Aug. 5, 1997, 111 Stat. 799, 892, 898; Pub. L. 105–206, title VI, §6023(6), (7), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title VI, §611(d)(3)(C), June 7, 2001, 115 Stat. 98; Pub. L. 107–90, title II, §202, Dec. 21, 2001, 115 Stat. 890; Pub. L. 108–121, title I, §§105(a), 108(a), Nov. 11, 2003, 117 Stat. 1338, 1339; Pub. L. 108–218, title II, §206(a), (b), Apr. 10, 2004, 118 Stat. 610, 611; Pub. L. 108–357, title III, §319(a), (b), Oct. 22, 2004, 118 Stat. 1470, 1471; Pub. L. 109–58, title XIII, §1304(a), (b), Aug. 8, 2005, 119 Stat. 997; Pub. L. 109–135, title IV, §412(bb), (cc), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title VIII, §862(a), title XII, §1220(a), Aug. 17, 2006, 120 Stat. 1021, 1086; Pub. L. 111–148, title I, §1322(h)(1), title VI, §6301(f), title IX, §9007(a), title X, §10903(a), Mar. 23, 2010, 124 Stat. 191, 747, 855, 1016; Pub. L. 111–152, title I, §1004(d)(4), Mar. 30, 2010, 124 Stat. 1035.)
 
 #### References in Text
 
@@ -854,13 +964,15 @@ The date of enactment of this subparagraph, referred to in subsec. (c)(27)(B)(ii
 
 Section 15(j) of the Railroad Retirement Act of 1974, referred to in subsec. (c)(28), is classified to section 231n(j) of Title 45, Railroads.
 
+Section 1322 of the Patient Protection and Affordable Care Act, referred to in subsec. (c)(29)(A), (B)(ii), is classified to section 18042 of Title 42, The Public Health and Welfare.
+
 The provisions of subsec. (a) of section 115, referred to in subsec. (f)(3)(B), now comprise section 115 in its entirety, following the deletion therefrom of the subsec. (a) designation by section 1901(a)(19) of Pub. L. 94–455.
 
 The Federal Credit Union Act, referred to in subsec. (<i>l</i>)(1), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended. Title III of the Federal Credit Union Act is classified generally to subchapter III (§1795 et seq.) of chapter 14 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
 Sections 21A and 21B of the Federal Home Loan Bank Act, referred to in subsec. (<i>l</i>)(2), (3), are classified to sections 1441a and 1441b, respectively, of Title 12.
 
-Section 1855(d) of the Social Security Act, referred to in subsec. (<i>o</i>), is classified to section 1395w–25(d) of Title 42, The Public Health and Welfare.
+Sections 1181(b) and 1855(d) of the Social Security Act, referred to in subsecs. (<i>l</i>)(4) and (<i>o</i>), are classified to sections 1320e(b) and 1395w–25(d), respectively, of Title 42, The Public Health and Welfare.
 
 Sections 212(a)(3)(B) and 219 of the Immigration and Nationality Act, referred to in subsec. (p)(2)(A), (C)(i), are classified to sections 1182(a)(3)(B) and 1189, respectively, of Title 8, Aliens and Nationality.
 
@@ -876,11 +988,23 @@ Section 556(b)(2), referred to in subsec. (p)(4), was repealed by Pub. L. 108–
 
 The date of the enactment of this subsection, referred to in subsec. (q)(2)(B)(ii), is the date of enactment of Pub. L. 109–280, which was approved Aug. 17, 2006.
 
-Section 11(b) of the Internal Security Act of 1950 (64 Stat. 997; 50 U.S.C. 790(b)), referred to in subsec. (r), was repealed by Pub. L. 103–199, title VIII, §803(1), Dec. 17, 1993, 107 Stat. 2329.
+Section 11(b) of the Internal Security Act of 1950 (64 Stat. 997; 50 U.S.C. 790(b)), referred to in subsec. (s), was repealed by Pub. L. 103–199, title VIII, §803(1), Dec. 17, 1993, 107 Stat. 2329.
 
 #### Amendments
 
-2006—Subsec. (c)(21)(C). Pub. L. 109–280, §862(a), amended introductory provisions and cls. (i) and (ii) generally. Prior to amendment, introductory provisions and cls. (i) and (ii) read as follows: “Payments described in subparagraph (A)(i)(IV) may be made from such trust during a taxable year only to the extent that the aggregate amount of such payments during such taxable year does not exceed the lesser of—
+<b>2010</b>—Subsec. (c)(9). Pub. L. 111–152 inserted at end “For purposes of providing for the payment of sick and accident benefits to members of such an association and their dependents, the term ‘dependent’ shall include any individual who is a child (as defined in section 152(f)(1)) of a member who as of the end of the calendar year has not attained age 27.”
+
+Subsec. (c)(29). Pub. L. 111–148, §1322(h)(1), added par. (29).
+
+Subsec. (<i>l</i>)(4). Pub. L. 111–148, §6301(f), added par. (4).
+
+Subsec. (r). Pub. L. 111–148, §9007(a), added subsec. (r). Former subsec. (r) redesignated (s).
+
+Subsec. (r)(5)(A). Pub. L. 111–148, §10903(a), substituted “the amounts generally billed” for “the lowest amounts charged”.
+
+Subsec. (s). Pub. L. 111–148, §9007(a), redesignated subsec. (r) as (s).
+
+<b>2006</b>—Subsec. (c)(21)(C). Pub. L. 109–280, §862(a), amended introductory provisions and cls. (i) and (ii) generally. Prior to amendment, introductory provisions and cls. (i) and (ii) read as follows: “Payments described in subparagraph (A)(i)(IV) may be made from such trust during a taxable year only to the extent that the aggregate amount of such payments during such taxable year does not exceed the lesser of—
 
 &emsp;“(i) the excess (if any) (as of the close of the preceding taxable year) of—
 
@@ -896,7 +1020,7 @@ Section 11(b) of the Internal Security Act of 1950 (64 Stat. 997; 50 U.S.C. 790(
 
 Subsecs. (q), (r). Pub. L. 109–280, §1220(a), which directed the amendment of section 501 by adding subsec. (q) and redesignating former subsec. (q) as (r), without specifying the act to be amended, was executed by making the amendments to this section, which is section 501 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
-2005—Subsec. (c)(12)(C). Pub. L. 109–58, §1304(a), struck out concluding provisions which read as follows: “Clauses (ii) through (v) shall not apply to taxable years beginning after December 31, 2006.”
+<b>2005</b>—Subsec. (c)(12)(C). Pub. L. 109–58, §1304(a), struck out concluding provisions which read as follows: “Clauses (ii) through (v) shall not apply to taxable years beginning after December 31, 2006.”
 
 Subsec. (c)(12)(F). Pub. L. 109–135, §412(bb)(1), substituted “subparagraph (C)(iv)” for “subparagraph (C)(iii)”.
 
@@ -906,7 +1030,7 @@ Subsec. (c)(12)(H)(x). Pub. L. 109–58, §1304(b), struck out cl. (x) which rea
 
 Subsec. (c)(22)(B)(ii). Pub. L. 109–135, §412(cc), substituted “clause (ii) of paragraph (21)(D)” for “clause (ii) of paragraph (21)(B)”.
 
-2004—Subsec. (c)(12)(C). Pub. L. 108–357, §319(a)(1), added cls. (ii) to (v) and concluding provisions and struck out former cl. (ii) which read as follows: “from the prepayment of a loan under section 306A, 306B, or 311 of the Rural Electrification Act of 1936 (as in effect on January 1, 1987).”
+<b>2004</b>—Subsec. (c)(12)(C). Pub. L. 108–357, §319(a)(1), added cls. (ii) to (v) and concluding provisions and struck out former cl. (ii) which read as follows: “from the prepayment of a loan under section 306A, 306B, or 311 of the Rural Electrification Act of 1936 (as in effect on January 1, 1987).”
 
 Subsec. (c)(12)(E) to (G). Pub. L. 108–357, §319(a)(2), added subpars. (E) to (G).
 
@@ -914,21 +1038,21 @@ Subsec. (c)(12)(H). Pub. L. 108–357, §319(b), added subpar. (H).
 
 Subsec. (c)(15)(A). Pub. L. 108–218, §206(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Insurance companies or associations other than life (including interinsurers and reciprocal underwriters) if the net written premiums (or, if greater, direct written premiums) for the taxable year do not exceed $350,000.”
 
-Subsec. (c)(15)(C). Pub. L. 108–218, §206(b), inserted before period at end “, except that in applying section831(b)(2)(B)(ii) for purposes of this subparagraph, subparagraphs (B) and (C) of section 1563(b)(2) shall be disregarded”.
+Subsec. (c)(15)(C). Pub. L. 108–218, §206(b), inserted before period at end “, except that in applying section 831(b)(2)(B)(ii) for purposes of this subparagraph, subparagraphs (B) and (C) of section 1563(b)(2) shall be disregarded”.
 
-2003—Subsec. (c)(19)(B). Pub. L. 108–121, §105(a), substituted “, widowers, ancestors, or lineal descendants” for “or widowers”.
+<b>2003</b>—Subsec. (c)(19)(B). Pub. L. 108–121, §105(a), substituted “, widowers, ancestors, or lineal descendants” for “or widowers”.
 
 Subsecs. (p), (q). Pub. L. 108–121, §108(a), added subsec. (p) and redesignated former subsec. (p) as (q).
 
-2001—Subsec. (c)(18)(D)(iii). Pub. L. 107–16, §611(d)(3)(C), struck out “(other than paragraph (4) thereof)” after “section 402(g)”.
+<b>2001</b>—Subsec. (c)(18)(D)(iii). Pub. L. 107–16, §611(d)(3)(C), struck out “(other than paragraph (4) thereof)” after “section 402(g)”.
 
 Subsec. (c)(28). Pub. L. 107–90 added par. (28).
 
-1998—Subsec. (n)(3). Pub. L. 105–206, §6023(6), substituted “subparagraph (E)(ii)” for “subparagraph (C)(ii)” in concluding provisions.
+<b>1998</b>—Subsec. (n)(3). Pub. L. 105–206, §6023(6), substituted “subparagraph (E)(ii)” for “subparagraph (C)(ii)” in concluding provisions.
 
 Subsec. (<i>o</i>). Pub. L. 105–206, §6023(7), substituted “section 1855(d)” for “section 1853(e)”.
 
-1997—Subsec. (c)(26). Pub. L. 105–34, §101(c), inserted concluding provisions “A spouse and any qualifying child (as defined in section 24(c)) of an individual described in subparagraph (B) (without regard to this sentence) shall be treated as described in subparagraph (B).”
+<b>1997</b>—Subsec. (c)(26). Pub. L. 105–34, §101(c), inserted concluding provisions “A spouse and any qualifying child (as defined in section 24(c)) of an individual described in subparagraph (B) (without regard to this sentence) shall be treated as described in subparagraph (B).”
 
 Subsec. (c)(27). Pub. L. 105–34, §963(a), (b), designated existing provisions as subpar. (A), redesignated former subpar. (A) as cl. (i), redesignated subpar. (B) as cl. (ii) and former cls. (i) and (ii) of subpar. (B) as subcls. (I) and (II), respectively, of cl. (ii), redesignated subpar. (C) as cl. (iii) and former cls. (i) and (ii) of subpar. (C) as subcls. (I) and (II), respectively, of cl. (iii), and added subpar. (B).
 
@@ -936,7 +1060,7 @@ Subsec. (e)(1)(A). Pub. L. 105–34, §974(a), inserted “(including the purcha
 
 Subsecs. (<i>o</i>), (p). Pub. L. 105–33 added subsec. (<i>o</i>) and redesignated former subsec. (<i>o</i>) as (p).
 
-1996—Subsec. (c)(4). Pub. L. 104–168 designated existing provisions as subpar. (A) and added subpar. (B).
+<b>1996</b>—Subsec. (c)(4). Pub. L. 104–168 designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (c)(21)(D)(ii)(III). Pub. L. 104–188, §1704(j)(5), substituted “section 101(7)” for “section 101(6)” and “1752(7)” for “1752(6)”.
 
@@ -946,15 +1070,15 @@ Subsec. (c)(27). Pub. L. 104–191, §342(a), added par. (27).
 
 Subsecs. (n), (<i>o</i>). Pub. L. 104–188, §1114(a), added subsec. (n) and redesignated former subsec. (n) as (<i>o</i>).
 
-1993—Subsec. (c)(2). Pub. L. 103–66, §13146(b), inserted at end “Rules similar to the rules of subparagraph (G) of paragraph (25) shall apply for purposes of this paragraph.”
+<b>1993</b>—Subsec. (c)(2). Pub. L. 103–66, §13146(b), inserted at end “Rules similar to the rules of subparagraph (G) of paragraph (25) shall apply for purposes of this paragraph.”
 
 Subsec. (c)(25)(G). Pub. L. 103–66, §13146(a), added subpar. (G).
 
-1992—Subsec. (c)(21). Pub. L. 102–486 amended par. (21) generally, substituting present provisions consisting of subpars. (A) to (D) for former provisions consisting of subpars. (A) and (B).
+<b>1992</b>—Subsec. (c)(21). Pub. L. 102–486 amended par. (21) generally, substituting present provisions consisting of subpars. (A) to (D) for former provisions consisting of subpars. (A) and (B).
 
-1989—Subsec. (<i>l</i>). Pub. L. 101–73 amended subsec. (<i>l</i>) generally. Prior to amendment, subsec. (<i>l</i>) read as follows: “The organization described in this subsection is the Central Liquidity Facility established under title III of the Federal Credit Union Act (12 U.S.C. 1795 et seq.).”
+<b>1989</b>—Subsec. (<i>l</i>). Pub. L. 101–73 amended subsec. (<i>l</i>) generally. Prior to amendment, subsec. (<i>l</i>) read as follows: “The organization described in this subsection is the Central Liquidity Facility established under title III of the Federal Credit Union Act (12 U.S.C. 1795 et seq.).”
 
-1988—Subsec. (c)(1). Pub. L. 100–647, §1018(u)(15), substituted “Any” for “any”.
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–647, §1018(u)(15), substituted “Any” for “any”.
 
 Subsec. (c)(12)(B)(iv). Pub. L. 100–647, §2003(a)(1), added cl. (iv).
 
@@ -980,9 +1104,9 @@ Subsec. (m)(3)(E). Pub. L. 100–647, §1010(b)(4)(A), added subpar. (E).
 
 Subsec. (m)(5). Pub. L. 100–647, §1010(b)(4)(B), added par. (5).
 
-1987—Subsec. (c)(3). Pub. L. 100–203 inserted “(or in opposition to)” after “in behalf of”.
+<b>1987</b>—Subsec. (c)(3). Pub. L. 100–203 inserted “(or in opposition to)” after “in behalf of”.
 
-1986—Subsec. (c)(1)(A)(i). Pub. L. 99–514, §1899A(15), substituted “July 18, 1984” for “the date of the enactment of the Tax Reform Act of 1984”.
+<b>1986</b>—Subsec. (c)(1)(A)(i). Pub. L. 99–514, §1899A(15), substituted “July 18, 1984” for “the date of the enactment of the Tax Reform Act of 1984”.
 
 Subsec. (c)(14)(B)(iv). Pub. L. 99–514, §1879(k)(1), added cl. (iv).
 
@@ -998,7 +1122,7 @@ Subsec. (c)(25). Pub. L. 99–514, §1603(a), added par. (25).
 
 Subsecs. (m), (n). Pub. L. 99–514, §1012(a), added subsec. (m) and redesignated former subsec. (m) as (n).
 
-1984—Subsec. (c)(1). Pub. L. 98–369, §2813(b)(2), designated existing provisions as subpar. (A) and added subpar. (B).
+<b>1984</b>—Subsec. (c)(1). Pub. L. 98–369, §2813(b)(2), designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (c)(1)(A). Pub. L. 98–369, §1079, substituted provisions referring to corporations exempt from Federal income taxes under any Act of Congress as amended and supplemented before July 18, 1984, or under this title without regard to any provision of law not contained in this title and not contained in a revenue Act for provisions referring to corporations exempt from Federal income taxes under any Act of Congress as amended and supplemented.
 
@@ -1010,9 +1134,9 @@ Pub. L. 98–369, §1032(a), redesignated former subsec. (k) as (<i>l</i>).
 
 Subsec. (m). Pub. L. 98–369, §2813(b)(1), redesignated former subsec. (<i>l</i>) as (m).
 
-1983—Subsec. (c)(23). Pub. L. 97–448 substituted “75 percent” for “25 percent”.
+<b>1983</b>—Subsec. (c)(23). Pub. L. 97–448 substituted “75 percent” for “25 percent”.
 
-1982—Subsec. (c)(19). Pub. L. 97–248, §354(a)(1), substituted “past or present members of the Armed Forces of the United States” for “war veterans” after “A post or organization of”.
+<b>1982</b>—Subsec. (c)(19). Pub. L. 97–248, §354(a)(1), substituted “past or present members of the Armed Forces of the United States” for “war veterans” after “A post or organization of”.
 
 Subsec. (c)(19)(B). Pub. L. 97–248, §354(a)(2), substituted “past or present members of the Armed Forces of the United States” for “war veterans” wherever appearing, struck out “veterans (but not war veterans), or are” after “individuals who are”, and substituted “or of cadets” for “or such individuals” before “, and”.
 
@@ -1020,9 +1144,9 @@ Subsec. (c)(23). Pub. L. 97–248, §354(b), added par. (23).
 
 Subsecs. (j), (k). Pub. L. 97–248, §286(a), added subsec. (j) and redesignated former subsec. (j) as (k).
 
-1981—Subsec. (c)(21)(B)(iii). Pub. L. 97–119 substituted “established under section 9501” for “established under section 3 of the Black Lung Benefits Revenue Act of 1977”.
+<b>1981</b>—Subsec. (c)(21)(B)(iii). Pub. L. 97–119 substituted “established under section 9501” for “established under section 3 of the Black Lung Benefits Revenue Act of 1977”.
 
-1980—Subsec. (c)(12). Pub. L. 96–605 designated existing provision as subpar. (A), struck out provision that, in the case of any mutual or cooperative telephone company, the 85 per cent or more income requirement be applied without taking into account any income received or accrued from a nonmember telephone company for the performance of communication services which involve members of such mutual or cooperative telephone company, and added subpars. (B) to (D).
+<b>1980</b>—Subsec. (c)(12). Pub. L. 96–605 designated existing provision as subpar. (A), struck out provision that, in the case of any mutual or cooperative telephone company, the 85 per cent or more income requirement be applied without taking into account any income received or accrued from a nonmember telephone company for the performance of communication services which involve members of such mutual or cooperative telephone company, and added subpars. (B) to (D).
 
 Subsec. (c)(21). Pub. L. 96–222 substituted “Federal Mine Safety and Health Act of 1977” for “Federal Coal Mine Health and Safety Act of 1969”.
 
@@ -1030,7 +1154,7 @@ Subsec. (c)(22). Pub. L. 96–364 added par. (22).
 
 Subsec. (i). Pub. L. 96–601 inserted provision that the restriction on religious discrimination not apply to an auxiliary of a fraternal beneficiary society if the society is described in subsec. (c)(8) of this section, is exempt from income tax under subsec. (a) of this section, and limits its membership to the members of a particular religion or to a club which in good faith limits its membership to the members of a particular religion in order to further the teachings or principles of that religion, and not to exclude individuals of a particular race or color.
 
-1978—Subsec. (c)(12). Pub. L. 95–345 inserted provision relating to applicability of statutory provisions to mutual or cooperative telephone company of income received or accrued from a nonmember telephone company.
+<b>1978</b>—Subsec. (c)(12). Pub. L. 95–345 inserted provision relating to applicability of statutory provisions to mutual or cooperative telephone company of income received or accrued from a nonmember telephone company.
 
 Subsec. (c)(20). Pub. L. 95–600, §703(b)(2), substituted “this paragraph” for “section 501(c)(20)”.
 
@@ -1040,7 +1164,7 @@ Subsecs. (g), (i). Pub. L. 95–600, §703(g)(2)(B), redesignated subsec. (g), w
 
 Subsecs. (i), (j). Pub. L. 95–600, §703(g)(2)(A), amended Pub. L. 95–600, §2(a). See 1976 Amendment note below.
 
-1976—Subsec. (c)(3). Pub. L. 94–455, §§1313(a), 1307(d)(1)(A), inserted “or to foster national or international amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment)” after “educational purposes” and inserted “(except as otherwise provided in subsection (h))” after “influence legislation”.
+<b>1976</b>—Subsec. (c)(3). Pub. L. 94–455, §§1313(a), 1307(d)(1)(A), inserted “or to foster national or international amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment)” after “educational purposes” and inserted “(except as otherwise provided in subsection (h))” after “influence legislation”.
 
 Subsec. (c)(7). Pub. L. 94–568, §1(a), struck out requirement that clubs be “operated exclusively” for specified purposes but required that substantially all of club activities be for specified purposes.
 
@@ -1062,39 +1186,57 @@ Pub. L. 94–455, §1307(a)(1), redesignated subsec. (h), relating to cross refe
 
 Subsec. (j). Pub. L. 94–568, §2(a), as amended by Pub. L. 95–600, §703(g)(2)(A), redesignated subsec. (i), relating to cross reference, as (j).
 
-1975—Subsec. (b). Pub. L. 93–625 inserted references to part VI of this subchapter.
+<b>1975</b>—Subsec. (b). Pub. L. 93–625 inserted references to part VI of this subchapter.
 
-1974—Subsecs. (f), (g). Pub. L. 93–310 added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>1974</b>—Subsecs. (f), (g). Pub. L. 93–310 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1972—Subsec. (c)(19). Pub. L. 92–418 added par. (19).
+<b>1972</b>—Subsec. (c)(19). Pub. L. 92–418 added par. (19).
 
-1970—Subsec. (c)(13). Pub. L., 91–618 substituted “corporation chartered solely for the purpose of disposal of bodies by burial or cremation which is not permitted” for “corporation chartered solely for burial purposes as a cemetery corporation and is not permitted”.
+<b>1970</b>—Subsec. (c)(13). Pub. L., 91–618 substituted “corporation chartered solely for the purpose of disposal of bodies by burial or cremation which is not permitted” for “corporation chartered solely for burial purposes as a cemetery corporation and is not permitted”.
 
-1969—Subsec. (a). Pub. L. 91–172, §101(j)(3), struck out reference to section 504.
+<b>1969</b>—Subsec. (a). Pub. L. 91–172, §101(j)(3), struck out reference to section 504.
 
 Subsec. (b). Pub. L. 91–172, §101(j)(4), inserted reference to certain other activities in heading and to part III in text, and struck out reference to tax on unrelated income.
 
 Subsec. (c). Pub. L. 91–172, §§101(j)(5), 121(b)(6)(A), substituted “part IV” for “part III” after “Corporations organized by an association subject to” and added par. 18.
 
-Subsec. (c)(9). Pub. L. 91–172, §121(b)(5)(A), inserted reference to designated beneficiaries and struck out reference to 85 percent or more income of voluntary employees’ beneficiary associations.
+Subsec. (c)(9). Pub. L. 91–172, §121(b)(5)(A), inserted reference to designated beneficiaries and struck outreference to 85 percent or more income of voluntary employees’ beneficiary associations.
 
 Subsec. (c)(10). Pub. L. 91–172, §121(b)(5)(A), substituted provisions concerning domestic fraternal societies, orders, or associations, operating under the lodge system, for provisions covering voluntary employees’ beneficiary associations which would pay benefits to designated beneficiaries of members.
 
 Subsec. (e). Pub. L. 91–172, §101(j)(6), substituted “section 170(b)(1)(A)(iii)” for “section 503(b)(5)” in last sentence.
 
-1968—Subsecs. (e), (f). Pub. L. 90–364 added subsec. (e) and redesignated former subsec. (e) as (f).
+<b>1968</b>—Subsecs. (e), (f). Pub. L. 90–364 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1966—Subsec. (c)(6). Pub. L. 89–800 inserted reference to professional football leagues (whether or not administering a pension fund for football players).
+<b>1966</b>—Subsec. (c)(6). Pub. L. 89–800 inserted reference to professional football leagues (whether or not administering a pension fund for football players).
 
 Subsec. (c)(14). Pub. L. 89–352 designated as subpar. (A) provisions covering credit unions which were formerly set out preceding subpar. (A), designated as subpar. (B) and clauses (i), (ii), and (iii) thereunder provisions covering corporation or associations without capital stock organized before Sept. 1, 1957, which formerly were set out as provisions preceding subpar. (A) and as subpars. (A), (B), and (C) respectively, and added subpar. (C).
 
-1962—Subsec. (c)(15). Pub. L. 87–834 substituted “$150,000” for “$75,000”.
+<b>1962</b>—Subsec. (c)(15). Pub. L. 87–834 substituted “$150,000” for “$75,000”.
 
-1960—Subsec. (c)(14). Pub. L. 86–428 substituted “September 1, 1957” for “September 1, 1951”.
+<b>1960</b>—Subsec. (c)(14). Pub. L. 86–428 substituted “September 1, 1957” for “September 1, 1951”.
 
 Subsec. (c)(17). Pub. L. 86–667 added par. (17).
 
-1956—Subsec. (c)(15). Act Mar. 13, 1956, substituted “the items described in section 822(b) (other than paragraph (1)(D) thereof)” for “interest, dividends, rents,”.
+<b>1956</b>—Subsec. (c)(15). Act Mar. 13, 1956, substituted “the items described in section 822(b) (other than paragraph (1)(D) thereof)” for “interest, dividends, rents,”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title IX, §9007(f), Mar. 23, 2010, 124 Stat. 858, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraphs (2) and (3), the amendments made by this section \[enacting section 4959 of this title and amending this section and section 6033 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Mar. 23, 2010\].
+
+“(2)
+
+Community health needs assessment.—The requirements of section 501(r)(3) of the Internal Revenue Code of 1986, as added by subsection (a), shall apply to taxable years beginning after the date which is 2 years after the date of the enactment of this Act.
+
+“(3)
+
+Excise tax.—The amendments made by subsection (b) \[enacting section 4959 of this title\] shall apply to failures occurring after the date of the enactment of this Act.”
+
+Pub. L. 111–148, title X, §10903(b), Mar. 23, 2010, 124 Stat. 1016, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Mar. 23, 2010\].”
 
 #### Effective Date of 2006 Amendment
 
@@ -1112,7 +1254,7 @@ Transition rule for existing organizations.—In the case of any organization de
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–58, title XIII, §1304(c), Aug. 8, 2005, 119 Stat. 997, provided that: “The amendments made bythis section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 8, 2005\].”
+Pub. L. 109–58, title XIII, §1304(c), Aug. 8, 2005, 119 Stat. 997, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 8, 2005\].”
 
 #### Effective Date of 2004 Amendments
 
@@ -1296,7 +1438,7 @@ Section 1(c) of Pub. L. 92–418 provided that: “The amendments made by this s
 
 #### Effective Date of 1970 Amendment
 
-Section 2 of Pub L. 91–618 provided that: “The amendment made by the first section of this Act \[amendingthis section\] shall apply to taxable years ending after the date of enactment of this Act \[Dec. 31, 1970\].”
+Section 2 of Pub L. 91–618 provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply to taxable years ending after the date of enactment of this Act \[Dec. 31, 1970\].”
 
 #### Effective Date of 1969 Amendment
 
@@ -1336,6 +1478,42 @@ Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after
 
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by section 1114 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
 
+#### Mandatory Review of Tax Exemption for Hospitals
+
+Pub. L. 111–148, title IX, §9007(c), Mar. 23, 2010, 124 Stat. 857, provided that: “The Secretary of the Treasury or the Secretary's delegate shall review at least once every 3 years the community benefit activities of each hospital organization to which section 501(r) of the Internal Revenue Code of 1986 (as added by this section) applies.”
+
+#### Reports
+
+Pub. L. 111–148, title IX, §9007(e), Mar. 23, 2010, 124 Stat. 858, provided that:
+
+“(1)
+
+Report on levels of charity care.—The Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, shall submit to the Committees on Ways and Means, Education and Labor, and Energy and Commerce of the House of Representatives and to the Committees on Finance and Health, Education, Labor, and Pensions of the Senate an annual report on the following:
+
+&emsp;“(A) Information with respect to private tax-exempt, taxable, and government-owned hospitals regarding—
+
+&emsp;&emsp;“(i) levels of charity care provided,
+
+&emsp;&emsp;“(ii) bad debt expenses,
+
+&emsp;&emsp;“(iii) unreimbursed costs for services provided with respect to means-tested government programs, and
+
+&emsp;&emsp;“(iv) unreimbursed costs for services provided with respect to non-means tested government programs.
+
+&emsp;“(B) Information with respect to private tax-exempt hospitals regarding costs incurred for community benefit activities.
+
+“(2)
+
+Report on trends.—
+
+&emsp;“(A)
+
+Study.—The Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, shall conduct a study on trends in the information required to be reported under paragraph (1).
+
+&emsp;“(B)
+
+Report.—Not later than 5 years after the date of the enactment of this Act \[Mar. 23, 2010\], the Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, shall submit a report on the study conducted under subparagraph (A) to the Committees on Ways and Means, Education and Labor, and Energy and Commerce of the House of Representatives and to the Committees on Finance and Health, Education, Labor, and Pensions of the Senate.”
+
 #### Payments by Charitable Organizations Treated as Exempt Payments
 
 Pub. L. 107–134, title I, §104, Jan. 23, 2002, 115 Stat. 2431, provided that:
@@ -1370,7 +1548,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Treatment of Section 501(c)(3) Bonds
 
-Section 1302 of title XIII of Pub. L. 99–514 provided that: “Nothing in the treatment of section 501(c)(3) bonds as private activity bonds under the amendments made by this title \[enacting sections 141 to 150 and 7703 of this title, amending sections 2, 22, 25, 32, 86, 103, 105, 152, 153, 163, 172, 194, 269A, 414, 879, 1016, 1398, 3402, 4701, 4940, 4942, 4988, 6362, 6652, and 7871 of this title, repealing sections 103A, 1391 to 1397, and 6039B of this title, enacting provisions set out as notes under sections 141 and148 of this title, and amending provisions set out as a note under section 103A of this title\] shall be construed as indicating how section 501(c)(3) bonds will be treated in future legislation, and any change in future legislation applicable to private activity bonds shall apply to section 501(c)(3) bonds only if expressly provided in such legislation.”
+Section 1302 of title XIII of Pub. L. 99–514 provided that: “Nothing in the treatment of section 501(c)(3) bonds as private activity bonds under the amendments made by this title \[enacting sections 141 to 150 and 7703 of this title, amending sections 2, 22, 25, 32, 86, 103, 105, 152, 153, 163, 172, 194, 269A, 414, 879, 1016, 1398, 3402, 4701, 4940, 4942, 4988, 6362, 6652, and 7871 of this title, repealing sections 103A, 1391 to 1397, and 6039B of this title, enacting provisions set out as notes under sections 141 and 148 of this title, and amending provisions set out as a note under section 103A of this title\] shall be construed as indicating how section 501(c)(3) bonds will be treated in future legislation, and any change in future legislation applicable to private activity bonds shall apply to section 501(c)(3) bonds only if expressly provided in such legislation.”
 
 #### Tax-Exempt Status for Organization Introducing Into Public Use Technology Developed by Qualified Organizations
 

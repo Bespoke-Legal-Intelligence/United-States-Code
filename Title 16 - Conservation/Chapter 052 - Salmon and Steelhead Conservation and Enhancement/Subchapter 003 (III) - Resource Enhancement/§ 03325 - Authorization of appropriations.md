@@ -10,7 +10,7 @@ In addition to the amounts authorized under subsection (a) of this section, ther
 
 #### (c) Limitation
 
-No moneys appropriated pursuant to subsection (a) or (b) of this section, may be used for the operation and maintenance of enhancement programs and related facilities as they existed on or before the date of the approval by the Secretary under section 3321 of this title of the enhancement plan for the conservation area concerned.
+No moneys appropriated pursuant to subsection (a) or (b) of this section may be used for the operation and maintenance of enhancement programs and related facilities as they existed on or before the date of the approval by the Secretary under section 3321 of this title of the enhancement plan for the conservation area concerned.
 
 (Pub. L. 96–561, title I, §124, Dec. 22, 1980, 94 Stat. 3283.)
 

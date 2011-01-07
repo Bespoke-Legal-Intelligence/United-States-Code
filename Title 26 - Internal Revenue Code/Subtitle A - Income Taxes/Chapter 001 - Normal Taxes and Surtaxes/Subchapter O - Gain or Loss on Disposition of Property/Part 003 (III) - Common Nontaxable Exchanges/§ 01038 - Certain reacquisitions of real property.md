@@ -36,7 +36,7 @@ If—
 
 #### (c) Basis of reacquired real property
 
-If subsection (a) applies to the reacquisition of any real property, the basis of such property upon such reacquisition shall be the adjusted basis of the indebtedness to the seller secured by such property (determined as of the date of reacquisition), increased by the sum of—
+If subsection (a) applies to the reacquisition of any real property, the basis of such property upon such reacquisition shall be the adjustedbasis of the indebtedness to the seller secured by such property (determined as of the date of reacquisition), increased by the sum of—
 
 &emsp;(1) the amount of the gain determined under subsection (b) resulting from such reacquisition, and
 
@@ -76,7 +76,7 @@ Under regulations prescribed by the Secretary, if an installment obligation is i
 
 #### Amendments
 
-1997—Subsec. (e). Pub. L. 105–34 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “If—
+<b>1997</b>—Subsec. (e). Pub. L. 105–34 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “If—
 
 &emsp;“(1) subsection (a) applies to a reacquisition of real property with respect to the sale of which—
 
@@ -88,19 +88,19 @@ Under regulations prescribed by the Secretary, if an installment obligation is i
 
 > then, under regulations prescribed by the Secretary, subsections (b), (c), and (d) of this section shall not apply to the reacquisition of such property and, for purposes of applying sections 121 and 1034, the resale of such property shall be treated as a part of the transaction constituting the original sale of such property.”
 
-1996—Subsec. (f). Pub. L. 104–188 struck out subsec. (f) which read as follows:
+<b>1996</b>—Subsec. (f). Pub. L. 104–188 struck out subsec. (f) which read as follows:
 
 “(f)
 
 Reacquisitions by Domestic Building and Loan Associations.—This section shall not apply to a reacquisition of real property by an organization described in section 593(a) (relating to domestic building and loan associations, etc.).”
 
-1980—Subsec. (g). Pub. L. 96–471 added subsec. (g).
+<b>1980</b>—Subsec. (g). Pub. L. 96–471 added subsec. (g).
 
-1978—Subsec. (e)(1)(A). Pub. L. 95–600, §404(c)(6), substituted “relating to one-time exclusion of gain from sale of principal residence by individual who has attained age 55” for “relating to gain from sale or exchange of residence of an individual who has attained age 65”.
+<b>1978</b>—Subsec. (e)(1)(A). Pub. L. 95–600, §404(c)(6), substituted “relating to one-time exclusion of gain from sale of principal residence by individual who has attained age 55” for “relating to gain from sale or exchange of residence of an individual who has attained age 65”.
 
 Subsec. (e)(1)(B). Pub. L. 95–600, §405(c)(3), which directed the amendment of section 1083(e)(1)(B) of this title by substituting “(relating to rollover of gain on sale of principal residence)” for “(relating to sale or exchange of residence)”, was executed to this section to reflect the probable intent of Congress because section 1083 does not contain a subsec. (e)(1)(B).
 
-1976—Subsec. (e). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (e). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 1997 Amendment
 

@@ -2,7 +2,7 @@
 
 (a) Under regulations prescribed under section 5738 of this title and subject to subsections (b) and (c) of this section, an agency may pay from its appropriations—
 
-&emsp;(1) travel expenses (A) of a new appointee, or a student trainee when assigned on completion of college work, to any position, (B) of a new appointee to the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, or (C) of any person appointed by the President to a position the rate of pay forwhich is equal to or higher than the minimum rate of pay payable for a position classified above GS–15 pursuant to section 5108;
+&emsp;(1) travel expenses (A) of a new appointee, or a student trainee when assigned on completion of college work, to any position, (B) of a new appointee to the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, or (C) of any person appointed by the President to a position the rate of pay for which is equal to or higher than the minimum rate of pay payable for a position classified above GS–15 pursuant to section 5108;
 
 &emsp;(2) transportation expenses of his immediate family and his household goods and personal effects to the extent authorized by section 5724 of this title; and
 
@@ -100,5 +100,5 @@ Amendment by section 409(a) of Pub. L. 95–454 effective 9 months after Oct. 13
 
 #### Funding of Amendments by Pub. L. 98–151
 
-Amendments by Pub. L. 98–151 to be carried out by agencies by use of funds appropriated or otherwise available for administrative expenses of such agencies, and do not authorize appropriation of funds in amounts exceeding sums already authorized to be appropriated for such agencies, see section 118(b) of Pub. L. 98–151, set out as a note under section 5724 of this title.
+Amendments by Pub. L. 98–151 to be carried out by agencies by use of funds appropriated or otherwiseavailable for administrative expenses of such agencies, and do not authorize appropriation of funds in amounts exceeding sums already authorized to be appropriated for such agencies, see section 118(b) of Pub. L. 98–151, set out as a note under section 5724 of this title.
 

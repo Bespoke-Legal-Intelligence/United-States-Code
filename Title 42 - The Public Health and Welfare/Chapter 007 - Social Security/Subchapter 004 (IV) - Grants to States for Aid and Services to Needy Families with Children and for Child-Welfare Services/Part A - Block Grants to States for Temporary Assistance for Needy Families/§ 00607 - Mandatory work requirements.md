@@ -24,9 +24,9 @@
 &nbsp;
 
 | &nbsp;&nbsp;If the fiscal year is: | The minimum participation rate is: |
-| --- | --- |
-| &nbsp;&nbsp;&nbsp;1997 D75&nbsp;&nbsp;&nbsp; |  |
-| &nbsp;&nbsp;&nbsp;1998 D75&nbsp;&nbsp;&nbsp; |  |
+| :--- | ---: |
+| &nbsp;&nbsp;&nbsp;1997 | 75&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;1998 | 75&nbsp;&nbsp;&nbsp; |
 | &nbsp;1999 or thereafter | 90\.&nbsp; |
 
 #### (b) Calculation of participation rates
@@ -69,7 +69,7 @@
 
 &emsp;&emsp;The Secretary shall prescribe regulations for reducing the minimum participation rate otherwise required by this section for a fiscal year by the number of percentage points equal to the number of percentage points (if any) by which—
 
-&emsp;&emsp;&emsp;(i) the average monthly number of families receiving assistance during the immediately preceding fiscal year (or if the immediately preceding fiscal year is fiscalyear 2008, 2009, or 2010, then, at State option, during the emergency fund base year of the State with respect to the average monthly assistance caseload of the State (within the meaning of section 603(c)(9) of this title), except that, if a State elects such option for fiscal year 2008, the emergency fund base year of the State with respect to such caseload shall be fiscal year 2007)) <sup>1</sup> under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title) is less than
+&emsp;&emsp;&emsp;(i) the average monthly number of families receiving assistance during the immediately preceding fiscal year (or if the immediately preceding fiscal year is fiscal year 2008, 2009, or 2010, then, at State option, during the emergency fund base year of the State with respect to the average monthly assistance caseload of the State (within the meaning of section 603(c)(9) of this title), except that, if a State elects such option for fiscal year 2008, the emergency fund base year of the State with respect to such caseload shall be fiscal year 2007)) <sup>1</sup> under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title) is less than
 
 &emsp;&emsp;&emsp;(ii) the average monthly number of families that received assistance under any State program referred to in clause (i) during fiscal year 2005.
 
@@ -139,7 +139,7 @@
 
 #### (i) Limitation
 
-&emsp;&emsp;&emsp;Notwithstanding paragraph (1) of this subsection, an individual shall not be considered to be engaged in work by virtue of participation in an activity described in subsection (d)(6) of this section of a State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title), after the individual has participated in such an activity for 6 weeks (or, if the unemployment rate of the State is at least 50 percent greater than the unemployment rate of the United States or the State is a needy State (within the meaning of section 603(b)(6) of this title), 12 weeks), or if the participation is for a week that immediately follows 4 consecutive weeks of such participation.
+&emsp;&emsp;&emsp;Notwithstanding paragraph (1) of this subsection, an individual shall not be considered to be engaged in work by virtue of participation in an activity described in subsection (d)(6) of this section of a State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title), after the individual has participated in such an activity for 6 weeks (or, if the unemployment rate of the State is at least 50 percent greaterthan the unemployment rate of the United States or the State is a needy State (within the meaning of section 603(b)(6) of this title), 12 weeks), or if the participation is for a week that immediately follows 4 consecutive weeks of such participation.
 
 #### (ii) Limited authority to count less than full week of participation
 
@@ -215,7 +215,7 @@ As used in this section, the term “work activities” means—
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), an adult in a family receiving assistance under a State program funded under this part attributable to funds provided by the Federal Government may fill a vacant employment position in order to engage in a work activity described in subsection (d) of this section.
+&emsp;Subject to paragraph (2), an adult in a family receiving assistance under a State programfunded under this part attributable to funds provided by the Federal Government may fill a vacant employment position in order to engage in a work activity described in subsection (d) of this section.
 
 #### (2) No filling of certain vacancies
 
@@ -275,17 +275,17 @@ It is the sense of the Congress that the States should require noncustodial, non
 
 #### Amendment of Subsection (b)(3)(A)(i)
 
-<i>Pub. L. 111–5, div. B, title II, §2101(d)(2), Feb. 17, 2009, 123 Stat. 449, provided that, effective Oct. 1, 2011, subsection (b)(3)(A)(i) of this section is amended by striking “(or if the immediately preceding fiscal year is fiscal year 2008, 2009, or 2010, then, at State option, during the emergency fund base year of the State with respect to the average monthly assistance caseload of the State (within the meaning of section 603(c)(9) of this title), except that, if a State elects such option for fiscal year 2008, the emergency fund base year of the State with respect to such caseload shall be fiscal year 2007))”.</i>
+<i>Pub. L. 111–5, div. B, title II, §2101(d)(2), Feb. 17, 2009, 123 Stat. 449, provided that, effective Oct. 1, 2011, subsection (b)(3)(A)(i) of this section is amended by striking “(or if the immediately preceding fiscal year is fiscal year 2008, 2009, or 2010, then, at State option, during the emergency fund base year of the State with respect to the average monthly assistance caseload of the State (within the meaning of section</i><i>603(c)(9) of this title), except that, if a State elects such option for fiscal year 2008, the emergency fund base year of the State with respect to such caseload shall be fiscal year 2007))”.</i>
 
 #### Prior Provisions
 
-A prior section 607, act Aug. 14, 1935, ch. 531, title IV, §407, as added May 8, 1961, Pub. L. 87–31, §1, 75 Stat. 75; amended July 25, 1962, Pub. L. 87–543, title I, §§104(a)(3)(E), 131(a), 134, 76 Stat. 185, 193, 196; Oct. 13, 1964, Pub. L. 88–641, §2(b), 78 Stat. 1042; June 29, 1967, Pub. L. 90–36, §2, 81 Stat. 94; Jan. 2, 1968, Pub. L. 90–248, title II, §203(a), 81 Stat. 882; June 28, 1968, Pub. L. 90–364, title III, §302, 82 Stat. 273; Dec. 28, 1971, Pub. L. 92–223, §3(a)(10), (11), 85 Stat. 805; Oct. 20, 1976, Pub. L.94–566, title V, §507(a), (b), (d), 90 Stat. 2688; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §§2313(a), (c)(2), 2353(q), 95 Stat. 853, 854, 874; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(4), (j)(3)(B)(ii), 98 Stat. 1166, 1171; Oct. 13, 1988, Pub. L. 100–485, title II, §202(b)(7)–(11), title IV, §401(a)(2)(B), (C), (b)(1), (3), (c), (h), 102 Stat. 2377, 2378, 2394–2396; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8105(1)–(3), (5), 102 Stat. 3797; Dec. 19, 1989, Pub. L. 101–239, title X, §10403(a)(1)(A)(i), (2), 103 Stat. 2487, 2488; Nov. 5, 1990, Pub. L. 101–508, title V, §§5061(a), 5062(a), 104 Stat. 1388–231, 1388–232, related to dependent children of unemployed parents, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
+A prior section 607, act Aug. 14, 1935, ch. 531, title IV, §407, as added May 8, 1961, Pub. L. 87–31, §1, 75 Stat. 75; amended July 25, 1962, Pub. L. 87–543, title I, §§104(a)(3)(E), 131(a), 134, 76 Stat. 185, 193, 196; Oct. 13, 1964, Pub. L. 88–641, §2(b), 78 Stat. 1042; June 29, 1967, Pub. L. 90–36, §2, 81 Stat. 94; Jan. 2, 1968, Pub. L. 90–248, title II, §203(a), 81 Stat. 882; June 28, 1968, Pub. L. 90–364, title III, §302, 82 Stat. 273; Dec. 28, 1971, Pub. L. 92–223, §3(a)(10), (11), 85 Stat. 805; Oct. 20, 1976, Pub. L. 94–566, title V, §507(a), (b), (d), 90 Stat. 2688; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §§2313(a), (c)(2), 2353(q), 95 Stat. 853, 854, 874; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(4), (j)(3)(B)(ii), 98 Stat. 1166, 1171; Oct. 13, 1988, Pub. L. 100–485, title II, §202(b)(7)–(11), title IV, §401(a)(2)(B), (C), (b)(1), (3), (c), (h), 102 Stat. 2377, 2378, 2394–2396; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8105(1)–(3), (5), 102 Stat. 3797; Dec. 19, 1989, Pub. L. 101–239, title X, §10403(a)(1)(A)(i), (2), 103 Stat. 2487, 2488; Nov. 5, 1990, Pub. L. 101–508, title V, §§5061(a), 5062(a), 104 Stat. 1388–231, 1388–232, related to dependent children of unemployed parents, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
 #### Amendments
 
-2009—Subsec. (b)(3)(A)(i). Pub. L. 111–5, §2101(b), inserted “(or if the immediately preceding fiscal year is fiscal year 2008, 2009, or 2010, then, at State option, during the emergency fund base year of the State with respect to the average monthly assistance caseload of the State (within the meaning of section 603(c)(9) of this title), except that, if a State elects such option for fiscal year 2008, the emergency fund base year of the State with respect to such caseload shall be fiscal year 2007))” before “under the State”.
+<b>2009</b>—Subsec. (b)(3)(A)(i). Pub. L. 111–5, §2101(b), inserted “(or if the immediately preceding fiscal year is fiscal year 2008, 2009, or 2010, then, at State option, during the emergency fund base year of the State with respect to the average monthly assistance caseload of the State (within the meaning of section 603(c)(9) of this title), except that, if a State elects such option for fiscal year 2008, the emergency fund base year of the State with respect to such caseload shall be fiscal year 2007))” before “under the State”.
 
-2006—Subsecs. (a)(1), (2), (b)(1)(B)(i). Pub. L. 109–171, §7102(b)(1), inserted “or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)” after “this part”.
+<b>2006</b>—Subsecs. (a)(1), (2), (b)(1)(B)(i). Pub. L. 109–171, §7102(b)(1), inserted “or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)” after “this part”.
 
 Subsec. (b)(3)(A)(i). Pub. L. 109–171, §7102(a)(1)(A), inserted “or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)” after “this part”.
 
@@ -297,7 +297,7 @@ Subsecs. (c)(2)(A)(i), (e)(1), (2). Pub. L. 109–171, §7102(b)(1), inserted �
 
 Subsec. (i). Pub. L. 109–171, §7102(c)(1), amended heading and text generally. Prior to amendment, text read as follows: “During fiscal year 1999, the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate shall hold hearings and engage in other appropriate activities to review the implementation of this section by the States, and shall invite the Governors of the States to testify before them regarding such implementation. Based on such hearings, such Committees may introduce such legislation as may be appropriate to remedy any problems with the State programs operated pursuant to this section.”
 
-1997—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
+<b>1997</b>—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
 Subsec. (b)(2)(C). Pub. L. 105–33, §5504(a), added subpar. (C).
 

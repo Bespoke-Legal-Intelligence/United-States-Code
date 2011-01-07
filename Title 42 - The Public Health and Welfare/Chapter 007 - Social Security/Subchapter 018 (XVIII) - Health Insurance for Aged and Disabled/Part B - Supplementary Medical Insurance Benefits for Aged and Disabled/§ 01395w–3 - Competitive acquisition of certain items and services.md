@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) 10 of the largest metropolitan statistical areas in 2007;
 
-&emsp;&emsp;&emsp;&emsp;(II) an additional 70 of the largest metropolitan statistical areas in 2011; and
+&emsp;&emsp;&emsp;&emsp;(II) an additional 91 of the largest metropolitan statistical areas in 2011; and
 
 &emsp;&emsp;&emsp;&emsp;(III) additional areas after 2011 (or, in the case of national mail order for items and services, after 2010); and
 
@@ -46,9 +46,11 @@
 
 &emsp;&emsp;&emsp;In implementing the second round of the competitive acquisition programs under this section described in subparagraph (B)(i)(II)—
 
-&emsp;&emsp;&emsp;&emsp;(I) the metropolitan statistical areas to be included shall be those metropolitan statistical areas selected by the Secretary for such round as of June 1, 2008; and
+&emsp;&emsp;&emsp;&emsp;(I) the metropolitan statistical areas to be included shall be those metropolitan statistical areas selected by the Secretary for such round as of June 1, 2008;
 
-&emsp;&emsp;&emsp;&emsp;(II) the Secretary may subdivide metropolitan statistical areas with populations (based upon the most recent data from the Census Bureau) of at least 8,000,000 into separate areas for competitive acquisition purposes.
+&emsp;&emsp;&emsp;&emsp;(II) the Secretary shall include the next 21 largest metropolitan statistical areas by total population (after those selected under subclause (I)) for such round; and
+
+&emsp;&emsp;&emsp;&emsp;(III) the Secretary may subdivide metropolitan statistical areas with populations (based upon the most recent data from the Census Bureau) of at least 8,000,000 into separate areas for competitive acquisition purposes.
 
 #### (iii) Exclusion of certain areas in subsequent rounds of competitive acquisition programs
 
@@ -104,7 +106,7 @@
 
 #### (A) Durable medical equipment and medical supplies
 
-&emsp;&emsp;Covered items (as defined in section 1395m(a)(13) of this title) for which payment would otherwise be made under section1395m(a) of this title, including items used in infusion and drugs (other than inhalation drugs) and supplies used in conjunction with durable medical equipment, but excluding class III devices under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] and excluding certain complex rehabilitative power wheelchairs recognized by the Secretary as classified within group 3 or higher (and related accessories when furnished in connection with such wheelchairs).
+&emsp;&emsp;Covered items (as defined in section 1395m(a)(13) of this title) for which payment would otherwise be made under section 1395m(a) of this title, including items used in infusion and drugs (other than inhalation drugs) and supplies used in conjunction with durable medical equipment, but excluding class III devices under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] and excluding certain complex rehabilitative power wheelchairs recognized by the Secretary as classified within group 3 or higher (and related accessories when furnished in connection with such wheelchairs).
 
 #### (B) Other equipment and supplies
 
@@ -266,7 +268,7 @@
 
 #### (7) Consideration in determining categories for bids
 
-&emsp;The Secretary may consider the clinical efficiency and value of specific items withincodes, including whether some items have a greater therapeutic advantage to individuals.
+&emsp;The Secretary may consider the clinical efficiency and value of specific items within codes, including whether some items have a greater therapeutic advantage to individuals.
 
 #### (8) Authority to contract for education, monitoring, outreach, and complaint services
 
@@ -350,9 +352,9 @@ Not later than July 1, 2011, the Secretary shall submit to Congress a report on 
 
 #### (f) Competitive acquisition ombudsman
 
-The Secretary shall provide for a competitive acquisition ombudsman within the Centers for Medicare \& Medicaid Services in order to respond to complaints and inquiries made by suppliers and individuals relating to the application of the competitive acquisition program under this section. The ombudsman may be within theoffice of the Medicare Beneficiary Ombudsman appointed under section 1395b–9(c) of this title. The ombudsman shall submit to Congress an annual report on the activities under this subsection, which report shall be coordinated with the report provided under section 1395b–9(c)(2)(C) of this title.
+The Secretary shall provide for a competitive acquisition ombudsman within the Centers for Medicare \& Medicaid Services in order to respond to complaints and inquiries made by suppliers and individuals relating to the application of the competitive acquisition program under this section. The ombudsman may be within the office of the Medicare Beneficiary Ombudsman appointed under section 1395b–9(c) of this title. The ombudsman shall submit to Congress an annual report on the activities under this subsection, which report shall be coordinated with the report provided under section 1395b–9(c)(2)(C) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1847, as added Pub. L. 105–33, title IV, §4319(a), Aug. 5, 1997, 111 Stat. 392; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title III, §302(b)(1), Dec. 8, 2003, 117 Stat. 2224; Pub. L. 110–275, title I, §§145(a)(1), 154(a)(1), (b)(2), (3), (c)(2)(A), (B), (d)(1), (3), (4), July 15, 2008, 122 Stat. 2547, 2560, 2565–2568.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1847, as added Pub. L. 105–33, title IV, §4319(a), Aug. 5, 1997, 111 Stat. 392; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title III, §302(b)(1), Dec. 8, 2003, 117 Stat. 2224; Pub. L. 110–275, title I, §§145(a)(1), 154(a)(1), (b)(2), (3), (c)(2)(A), (B), (d)(1), (3), (4), July 15, 2008, 122 Stat. 2547, 2560, 2565–2568; Pub. L. 111–148, title VI, §6410(a), Mar. 23, 2010, 124 Stat. 773.)
 
 #### References in Text
 
@@ -366,7 +368,11 @@ A prior section 1395w–3, act Aug. 14, 1935, ch. 531, title XVIII, §1847, as a
 
 #### Amendments
 
-2008—Subsec. (a)(1)(B)(i). Pub. L. 110–275, §154(a)(1)(A)(i), inserted “consistent with subparagraph (D)” after “in a manner” in introductory provisions.
+<b>2010</b>—Subsec. (a)(1)(B)(i)(II). Pub. L. 111–148, §6410(a)(1), substituted “91” for “70”.
+
+Subsec. (a)(1)(D)(ii)(II), (III). Pub. L. 111–148, §6410(a)(2), added subcl. (II) and redesignated former subcl. (II) as (III).
+
+<b>2008</b>—Subsec. (a)(1)(B)(i). Pub. L. 110–275, §154(a)(1)(A)(i), inserted “consistent with subparagraph (D)” after “in a manner” in introductory provisions.
 
 Subsec. (a)(1)(B)(i)(II). Pub. L. 110–275, §154(a)(1)(A)(ii), substituted “an additional 70” for “80” and “in 2011” for “in 2009”.
 
@@ -398,9 +404,9 @@ Subsec. (e). Pub. L. 110–275, §145(a)(1), struck out subsec. (e) which relate
 
 Subsec. (f). Pub. L. 110–275, §154(b)(3), added subsec. (f).
 
-2003—Pub. L. 108–173 amended section catchline and text generally, substituting provisions relating to competitive acquisition of certain items and services for provisions relating to demonstration projects for competitive acquisition of items and services.
+<b>2003</b>—Pub. L. 108–173 amended section catchline and text generally, substituting provisions relating to competitive acquisition of certain items and services for provisions relating to demonstration projects for competitive acquisition of items and services.
 
-1999—Subsec. (b)(2). Pub. L. 106–113 inserted “and” after “specified by the Secretary”.
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–113 inserted “and” after “specified by the Secretary”.
 
 #### Effective Date of 2008 Amendment
 
@@ -408,7 +414,7 @@ Amendment by section 154 of Pub. L. 110–275 effective June 30, 2008, see secti
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–113 effective as if included in the enactment of the Balanced Budget Act of 1997, Pub. L. 105–33, except as otherwise provided, see section 1000(a)(6) \[title III, §321(m)\] of Pub. L. 106–113, set out as a note under section 1395d of this title.
+Amendment by Pub. L. 106–113 effective as if included in the enactment of the Balanced Budget Act of 1997,Pub. L. 105–33, except as otherwise provided, see section 1000(a)(6) \[title III, §321(m)\] of Pub. L. 106–113, set out as a note under section 1395d of this title.
 
 #### GAO Report on Impact of Competitive Acquisition on Suppliers
 

@@ -10,7 +10,7 @@ Another section 27 of act Sept. 1, 1937, was renumbered section 28, and is class
 
 #### Amendments
 
-1997—Pub. L. 105–33 substituted “not lawfully present in the United States” for “unlawfully in the United States” in two places.
+<b>1997</b>—Pub. L. 105–33 substituted “not lawfully present in the United States” for “unlawfully in the United States” in two places.
 
 #### Effective Date of 1997 Amendment
 

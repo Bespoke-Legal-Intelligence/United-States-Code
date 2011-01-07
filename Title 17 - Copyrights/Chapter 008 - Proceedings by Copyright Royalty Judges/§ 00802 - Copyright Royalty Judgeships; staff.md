@@ -6,7 +6,7 @@ Qualifications of Copyright Royalty Judges.—
 
 &emsp;(1)
 
-In general.—Each Copyright Royalty Judge shall be an attorney who has at least 7 years of legal experience. The Chief Copyright Royalty Judge shall have at least 5 years of experience in adjudications, arbitrations, or court trials. Of the other 2 Copyright Royalty Judges, 1 shall have significant knowledge of copyright law, and the other shall have significant knowledge of economics. An individual may serve as a Copyright Royalty Judge only if the individual is free of any financial conflict of interest under subsection (h).
+In general.—Each Copyright Royalty Judge shall be an attorney who has at least 7 years of legal experience. The Chief Copyright Royalty Judge shall have at least 5 years of experience in adjudications, arbitrations, or court trials. Of the other 2 Copyright Royalty Judges, 1 shall have significant knowledge ofcopyright law, and the other shall have significant knowledge of economics. An individual may serve as a Copyright Royalty Judge only if the individual is free of any financial conflict of interest under subsection (h).
 
 &emsp;(2)
 
@@ -66,7 +66,7 @@ In making determinations.—
 
 In general.—(i) Subject to subparagraph (B) and clause (ii) of this subparagraph, the Copyright Royalty Judges shall have full independence in making determinations concerning adjustments and determinations of copyright royalty rates and terms, the distribution of copyright royalties, the acceptance or rejection of royalty claims, rate adjustment petitions, and petitions to participate, and in issuing other rulings under this title, except that the Copyright Royalty Judges may consult with the Register of Copyrights on any matter other than a question of fact.
 
-&emsp;&emsp;(ii) One or more Copyright Royalty Judges may, or by motion to the Copyright Royalty Judges, any participant in a proceeding may, request from the Register of Copyrights an interpretation of any material questions of substantive law that relate to the construction of provisions of this title and arise in the course of the proceeding. Any request for a written interpretation shall be in writing and on the record, and reasonable provision shall be made to permit participants in the proceeding to comment on the material questions of substantive law in a manner that minimizes duplication and delay. Except as provided in subparagraph\(B), the Register of Copyrights shall deliver to the Copyright Royalty Judges a written response within 14 days after the receipt of all briefs and comments from the participants. The Copyright Royalty Judges shall apply the legal interpretation embodied in the response of the Register of Copyrights if it is timely delivered, and the response shall be included in the record that accompanies the final determination. The authority under this clause shall not be construed to authorize the Register of Copyrights to provide an interpretation of questions of procedure before the Copyright Royalty Judges, the ultimate adjustments and determinations of copyright royalty rates and terms, the ultimate distribution of copyright royalties, or the acceptance or rejection of royalty claims, rate adjustment petitions, or petitions to participate in a proceeding.
+&emsp;&emsp;(ii) One or more Copyright Royalty Judges may, or by motion to the Copyright Royalty Judges, any participant in a proceeding may, request from the Register of Copyrights an interpretation of any material questions of substantive law that relate to the construction of provisions of this title and arise in the course of the proceeding. Any request for a written interpretation shall be in writing and on the record, and reasonable provision shall be made to permit participants in the proceeding to comment on the material questions of substantive law in a manner that minimizes duplication and delay. Except as provided in subparagraph (B), the Register of Copyrights shall deliver to the Copyright Royalty Judges a written response within 14 days after the receipt of all briefs and comments from the participants. The Copyright Royalty Judges shall apply the legal interpretation embodied in the response of the Register of Copyrights if it is timely delivered, and the response shall be included in the record that accompanies the final determination. The authority under this clause shall not be construed to authorize the Register of Copyrights to provide an interpretation of questions of procedure before the Copyright Royalty Judges, the ultimate adjustments and determinations of copyright royalty rates and terms, the ultimate distribution of copyright royalties, or the acceptance or rejection of royalty claims, rate adjustment petitions, or petitions to participate in a proceeding.
 
 &emsp;&emsp;(B)
 
@@ -100,7 +100,7 @@ Relating to sanction or removal.—To the extent that the Librarian of Congress 
 
 (g)
 
-Inconsistent Duties Barred.—No Copyright Royalty Judge may undertake duties thatconflict with his or her duties and responsibilities as a Copyright Royalty Judge.
+Inconsistent Duties Barred.—No Copyright Royalty Judge may undertake duties that conflict with his or her duties and responsibilities as a Copyright Royalty Judge.
 
 (h)
 
@@ -122,7 +122,7 @@ A prior section 802, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2
 
 #### Amendments
 
-2006—Subsec. (f)(1)(A)(i). Pub. L. 109–303, §3(3)(A), substituted “subparagraph (B) and clause (ii) of this subparagraph” for “clause (ii) of this subparagraph and subparagraph (B)”.
+<b>2006</b>—Subsec. (f)(1)(A)(i). Pub. L. 109–303, §3(3)(A), substituted “subparagraph (B) and clause (ii) of this subparagraph” for “clause (ii) of this subparagraph and subparagraph (B)”.
 
 Subsec. (f)(1)(A)(ii). Pub. L. 109–303, §3(3)(B), added cl. (ii) and struck out former cl. (ii) which related to request for interpretation by the Register of Copyrights of material question of substantive law concerning construction of provisions of this title that are the subject of the proceeding.
 

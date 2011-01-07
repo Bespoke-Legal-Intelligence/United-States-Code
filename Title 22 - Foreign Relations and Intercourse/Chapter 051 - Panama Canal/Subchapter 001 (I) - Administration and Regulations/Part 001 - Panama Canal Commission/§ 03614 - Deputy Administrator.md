@@ -16,17 +16,17 @@ Level IV of the Executive Schedule, referred to in subsec. (b), is set out in se
 
 #### Amendments
 
-1996—Pub. L. 104–201 struck out “and Chief Engineer” after “Deputy Administrator” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1996</b>—Pub. L. 104–201 struck out “and Chief Engineer” after “Deputy Administrator” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) There shall be a Deputy Administrator and a Chief Engineer of the Commission, both of whom shall be appointed by the President. The Deputy Administrator and the Chief Engineer shall perform such duties as may be prescribed by the President.
 
 “(b) The Deputy Administrator and the Chief Engineer shall each be paid compensation at a rate of pay established by the President which does not exceed the rate of basic pay in effect for grade GS–18 of the General Schedule under section 5332 of title 5, and, if eligible, shall each be paid the overseas recruitment or retention differential provided for in section 3657 of this title.”
 
-1990—Subsec. (b). Pub. L. 101–510 inserted before period at end “, and, if eligible, shall each be paid the overseas recruitment or retention differential provided for in section 3657 of this title”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–510 inserted before period at end “, and, if eligible, shall each be paid the overseas recruitment or retention differential provided for in section 3657 of this title”.
 
 #### Delegation of Functions
 
-Authority of President under this section to fix the compensation of and to define authorities and duties of Deputy Administrator delegated to Secretary of Defense, see section 1–302 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36044, set out as a note under section 3601 of this title.
+Authority of President under this section to fix the compensation of and to define authorities and duties ofDeputy Administrator delegated to Secretary of Defense, see section 1–302 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36044, set out as a note under section 3601 of this title.
 
 #### Savings Provision
 

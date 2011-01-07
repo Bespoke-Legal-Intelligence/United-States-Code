@@ -42,7 +42,7 @@ In camera pretrial hearing.—Upon request of the trial counsel pursuant to the 
 
 &emsp;(2)
 
-Protection of sources, methods, and activities by which evidence acquired.—When trial counsel seeks to introduce evidence before a military commission under this chapter and the Executive branch has classified the sources, methods, or activities by which the United States acquired the evidence, the military judge shall permit trial counsel to introduce the evidence, including a substituted evidentiary foundation pursuant to the procedures described in subsection (d), while protecting from disclosure information identifying those sources, methods, or activities, if—
+Protection of sources, methods, and activities by which evidence acquired.—When trial counsel seeks to introduce evidence before a military commission under this chapter and the Executive branch has classified the sources, methods, or activities by which theUnited States acquired the evidence, the military judge shall permit trial counsel to introduce the evidence, including a substituted evidentiary foundation pursuant to the procedures described in subsection (d), while protecting from disclosure information identifying those sources, methods, or activities, if—
 
 &emsp;&emsp;(A) the evidence is otherwise admissible; and
 

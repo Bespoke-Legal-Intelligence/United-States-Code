@@ -42,7 +42,7 @@ The last signatory operator of any individual who, as of February 1, 1993, is re
 
 &emsp;&emsp;&emsp;(i) is in the form of a bond, letter of credit, or cash escrow,
 
-&emsp;&emsp;&emsp;(ii) is provided to the trustees of the 1992 UMWA Benefit Plan solely for the purpose of paying premiums for beneficiaries who would be described in section 9712(b)(2)(B) if the requirements of this section were not met by the last signatory operator, and
+&emsp;&emsp;&emsp;(ii) is provided to the trustees of the 1992 UMWA Benefit Plan solely for the purpose of paying premiums for beneficiaries whowould be described in section 9712(b)(2)(B) if the requirements of this section were not met by the last signatory operator, and
 
 &emsp;&emsp;&emsp;(iii) is in an amount equal to 1 year of liability of the last signatory operator under this section, determined by using the average cost of such operator's liability during the prior 3 calendar years;
 
@@ -86,5 +86,7 @@ For purposes of this part and part II—
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–432 reenacted heading without change and amended text of subsec. (c) generally. Prior to amendment, text read as follows: “Each related person of a last signatory operator to which subsection (a) or (b) applies shall be jointly and severally liable with the last signatory operator for the provision of health care coverage described in subsection (a) or (b).”
+<b>2006</b>—Subsec. (c). Pub. L. 109–432 reenacted heading without change and amended text of subsec. (c) generally. Prior to amendment, text read as follows: “Each related person of a last signatory operator to which subsection (a) or (b) applies shall be jointly and severally liable with the last signatory operator for the provision of health care coverage described in subsection (a) or (b).”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (3)(C).”</i>
 

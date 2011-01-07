@@ -46,7 +46,7 @@
 
 #### (5) Highly compensated individual
 
-&emsp;For purposes of this subsection, the determination as to whether an individual is ahighly compensated individual shall be made under rules similar to the rules for determining whether an individual is a highly compensated employee (within the meaning of section 414(q)).
+&emsp;For purposes of this subsection, the determination as to whether an individual is a highly compensated individual shall be made under rules similar to the rules for determining whether an individual is a highly compensated employee (within the meaning of section 414(q)).
 
 #### (6) Compensation
 
@@ -74,11 +74,11 @@
 
 #### Amendments
 
-2001—Subsec. (b)(7). Pub. L. 107–16 substituted “$200,000” for “$150,000” in two places.
+<b>2001</b>—Subsec. (b)(7). Pub. L. 107–16 substituted “$200,000” for “$150,000” in two places.
 
-1993—Subsec. (b)(7). Pub. L. 103–66 substituted “Compensation limit” for “$200,000 compensation limit” in heading and “exceed $150,000. The Secretary shall adjust the $150,000 amount at the same time, and by the same amount, as any adjustment under section 401(a)(17)(B).” for “exceed $200,000. The Secretary shall adjust the $200,000 amount at the same time and in the same manner as under section 415(d).” in text.
+<b>1993</b>—Subsec. (b)(7). Pub. L. 103–66 substituted “Compensation limit” for “$200,000 compensation limit” in heading and “exceed $150,000. The Secretary shall adjust the $150,000 amount at the same time, and by the same amount, as any adjustment under section 401(a)(17)(B).” for “exceed $200,000. The Secretary shall adjust the $200,000 amount at the same time and in the same manner as under section 415(d).” in text.
 
-1989—Subsec. (a)(1). Pub. L. 101–140, §203(a)(2), amended par. (1) to read as if amendments by Pub. L. 100–647, §1011B(a)(27)(C), had not been enacted, see 1988 Amendment note below.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–140, §203(a)(2), amended par. (1) to read as if amendments by Pub. L. 100–647, §1011B(a)(27)(C), had not been enacted, see 1988 Amendment note below.
 
 Subsec. (b)(2). Pub. L. 101–140, §203(a)(2), amended par. (2) to read as if amendments by Pub. L. 100–647, §1011B(a)(31)(B), had not been enacted, see 1988 Amendment note below.
 
@@ -86,13 +86,13 @@ Pub. L. 101–140, §203(a)(1), amended par. (2) to read as if amendments by Pub
 
 Subsec. (b)(7). Pub. L. 101–140, §204(c), inserted at end “This paragraph shall not apply in determining whether the requirements of section 79(d) are met.”
 
-1988—Subsec. (a)(1). Pub. L. 100–647, §1011B(a)(27)(C), inserted at end “This paragraph shall not apply to any organization by reason of a failure to meet the requirements of subsection (b) with respect to a benefit to which section 89 applies.”
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647, §1011B(a)(27)(C), inserted at end “This paragraph shall not apply to any organization by reason of a failure to meet the requirements of subsection (b) with respect to a benefit to which section 89 applies.”
 
 Subsec. (b)(2). Pub. L. 100–647, §1011B(a)(31)(B), substituted “there shall be” for “there may be” and “who are” for “who may be”.
 
 Subsec. (b)(7). Pub. L. 100–647, §1011B(a)(32), added par. (7).
 
-1986—Subsec. (a)(1). Pub. L. 99–514, §1851(c)(1), struck out “of an employer” before “shall”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1851(c)(1), struck out “of an employer” before “shall”.
 
 Subsec. (a)(2). Pub. L. 99–514, §1851(c)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Paragraph (1) shall not apply to any organization which is part of a plan maintained pursuant to 1 or more collective bargaining agreements between 1 or more employee organizations and 1 or more employers.”
 
@@ -128,7 +128,7 @@ Subsec. (c)(2). Pub. L. 99–514, §1899A(16), substituted “July 18, 1984” f
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to years beginning after Dec. 31, 2001, see section 611(i)(1) of Pub.L. 107–16, set out as a note under section 415 of this title.
+Amendment by Pub. L. 107–16 applicable to years beginning after Dec. 31, 2001, see section 611(i)(1) of Pub. L. 107–16, set out as a note under section 415 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -142,7 +142,7 @@ Section 204(d)(4) of Pub. L. 101–140 provided that: “The amendment made by s
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

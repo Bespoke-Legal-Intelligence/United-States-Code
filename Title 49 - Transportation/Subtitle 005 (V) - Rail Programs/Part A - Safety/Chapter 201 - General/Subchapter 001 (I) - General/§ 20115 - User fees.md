@@ -24,7 +24,7 @@ Collection, Deposit, and Use.—(1) The Secretary shall impose and collect fees 
 
 (d)
 
-Annual Report.—(1) Not later than 90 days after the end of each fiscal year in which fees are collected under this section, the Secretary shall report to Congress on—
+Annual Report.—(1) Not later than 90 days after the end of each fiscal year in which feesare collected under this section, the Secretary shall report to Congress on—
 
 &emsp;(A) the amount of fees collected during that fiscal year;
 

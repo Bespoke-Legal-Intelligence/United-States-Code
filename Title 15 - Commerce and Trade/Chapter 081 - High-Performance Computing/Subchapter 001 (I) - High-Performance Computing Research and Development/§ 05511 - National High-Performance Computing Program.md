@@ -106,7 +106,7 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(3),
 
 #### Amendments
 
-2007—Subsec. (a)(1)(A) to (I). Pub. L. 110–69, §7024(a)(1)(B)(i), added subpars. (A) to (I) and struck out former subpars. (A) and (B) which read as follows:
+<b>2007</b>—Subsec. (a)(1)(A) to (I). Pub. L. 110–69, §7024(a)(1)(B)(i), added subpars. (A) to (I) and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) establish the goals and priorities for Federal high-performance computing research, development, networking, and other activities; and
 
@@ -134,7 +134,7 @@ Subsec. (c)(1)(A). Pub. L. 110–69, §7024(a)(1)(D)(i), substituted “Program 
 
 Subsec. (c)(2). Pub. L. 110–69, §7024(a)(1)(D)(ii), substituted “subsection (a)(2)(D)” for “subsection (a)(3)(A)”.
 
-1998—Subsec. (a)(2)(A), (B). Pub. L. 105–305, §4(a), amended subpars. (A) and (B) generally. Prior to amendment, subpars. read as follows:
+<b>1998</b>—Subsec. (a)(2)(A), (B). Pub. L. 105–305, §4(a), amended subpars. (A) and (B) generally. Prior to amendment, subpars. read as follows:
 
 “(A) provide for the establishment of policies for management and access to the Network;
 
@@ -142,11 +142,15 @@ Subsec. (c)(2). Pub. L. 110–69, §7024(a)(1)(D)(ii), substituted “subsection
 
 Subsec. (b). Pub. L. 105–305, §4(b), struck out “High-performance computing” before “advisory committee” in heading.
 
-1995—Subsec. (a)(4)(D) to (F). Pub. L. 104–66 struck out “and” at end of subpar. (D), added subpar. (E), and redesignated former subpar. (E) as (F).
+<b>1995</b>—Subsec. (a)(4)(D) to (F). Pub. L. 104–66 struck out “and” at end of subpar. (D), added subpar. (E), and redesignated former subpar. (E) as (F).
 
 #### Termination of Advisory Committees
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Delegation of Functions
+
+President's Council of Advisors on Science and Technology to serve as the advisory committee identified in sections 5511(b) and 5513(b) of this title and to be known as the President's Innovation and Technology Advisory Committee when so serving, see section 2(a)(iii) of Ex. Ord. No. 13539, set out as a note under section 6601 of Title 42, The Public Health and Welfare.
 
 #### Ex. Ord. No. 13035. President's Information Technology Advisory Committee
 
@@ -183,6 +187,4 @@ Sec. 3. <i>Administration</i>. To the extent permitted by law and subject to the
 Sec. 4. <i>General</i>. (a) Notwithstanding any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended \[5 U.S.C. App.\], except that of reporting to the Congress, that are applicable to the Committee shall be performed by the Director of the NCO in accordance with guidelines that have been issued by the Administrator of General Services.
 
 (b) The Committee shall terminate June 1, 2005, unless extended by the President prior to such date.
-
-\[Functions of President's Information Technology Advisory Committee transferred to President's Council of Advisors on Science and Technology by section 2(d) of Ex. Ord. No. 13226, set out as a note under section 6601 of Title 42, The Public Health and Welfare.\]
 

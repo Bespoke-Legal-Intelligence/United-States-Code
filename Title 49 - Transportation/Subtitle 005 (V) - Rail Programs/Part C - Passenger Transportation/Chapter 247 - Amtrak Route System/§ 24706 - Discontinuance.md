@@ -96,7 +96,7 @@ In subsection (a)(1), the words “Except as provided in subsection (b) of this 
 
 In subsection (b)(1), before clause (A), the words “Notwithstanding the provisions of clause (ii)” are omitted as surplus. In clauses (A) and (B), the words “the benefit of” are omitted as surplus. In clause (A), the words “for such fiscal year” are omitted as surplus.
 
-In subsection (c)(1), before clause (A), the words “Amtrak or” are substituted for 45:565(c) (1st sentencewords before 2d comma) to eliminate unnecessary words because operations in the basic system have begun. The words “whether occurring before, on, or after January 1, 1975” and “without being limited to, such provisions as may be necessary for” are omitted as surplus. In clause (A), the words “to such employees” are omitted as surplus.
+In subsection (c)(1), before clause (A), the words “Amtrak or” are substituted for 45:565(c) (1st sentence words before 2d comma) to eliminate unnecessary words because operations in the basic system have begun. The words “whether occurring before, on, or after January 1, 1975” and “without being limited to, such provisions as may be necessary for” are omitted as surplus. In clause (A), the words “to such employees” are omitted as surplus.
 
 In subsection (c)(3), the words “section 11347 of this title” are substituted for and coextensive with “section 5(2)(f) of the Interstate Commerce Act” in section 405(b) of the Rail Passenger Service Act (Public Law 91–518, 84 Stat. 1337) on authority of section 3(b) of the Act of October 17, 1978 (Public Law 95–473, 92 Stat. 1466).
 
@@ -108,9 +108,9 @@ Section 24704 of this title, referred to in text, was repealed by Pub. L. 105–
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–432 added subsec. (c).
+<b>2008</b>—Subsec. (c). Pub. L. 110–432 added subsec. (c).
 
-1997—Subsec. (a)(1). Pub. L. 105–134, §101(c)(1)–(3), substituted “180 days” for “90 days” and “or discontinuing service over a route,” for “24707(a) or (b) of this title,” and inserted “or assume” after “agree to share”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–134, §101(c)(1)–(3), substituted “180 days” for “90 days” and “or discontinuing service over a route,” for “24707(a) or (b) of this title,” and inserted “or assume” after “agree to share”.
 
 Subsec. (a)(2). Pub. L. 105–134, §101(c)(4), which directed substitution of “paragraph (1)” for “section 24707(a) or (b) of this title”, was executed by making the substitution for “24707(a) or (b) of this title” to reflect the probable intent of Congress.
 
@@ -121,6 +121,10 @@ Subsec. (c). Pub. L. 105–134, §142(a), struck out subsec. (c) which related t
 #### Effective Date of 1997 Amendment
 
 Amendment by section 142(a) of Pub. L. 105–134 effective 180 days after Dec. 2, 1997, see section 142(c) of Pub. L. 105–134, set out in an Employee Protection Reforms note below.
+
+#### Deemed References to Chapters 509 and 511 of Title 51
+
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 
 #### Employee Protection Reforms
 

@@ -22,11 +22,11 @@ The words “or the reserve components thereof” are omitted because “Army”
 
 #### Amendments
 
-1967—Pub. L. 90–130 substituted provision reciting simply that service as a nurse in the armed forces before April 16, 1947, is considered as commissioned service for purposes of this chapter for provisions making specific reference to service under an appointment or contract or as a commissioned officer in the Nurse Corps of the Army or the Navy or as a commissioned officer of the Air Force designated as an Air Force Nurse.
+<b>1967</b>—Pub. L. 90–130 substituted provision reciting simply that service as a nurse in the armed forces before April 16, 1947, is considered as commissioned service for purposes of this chapter for provisions making specific reference to service under an appointment or contract or as a commissioned officer in the Nurse Corps of the Army or the Navy or as a commissioned officer of the Air Force designated as an Air Force Nurse.
 
-1966—Pub. L. 89–609 substituted “the person's” for “her” in introductory text in two places.
+<b>1966</b>—Pub. L. 89–609 substituted “the person's” for “her” in introductory text in two places.
 
-1959—Pub. L. 86–197 substituted “a regular officer or a reserve officer” for “an officer”.
+<b>1959</b>—Pub. L. 86–197 substituted “a regular officer or a reserve officer” for “an officer”.
 
 #### Authority of Military Department Secretaries To Convene Boards To Recommend Deferment of Retirement or Separation of Nurses
 

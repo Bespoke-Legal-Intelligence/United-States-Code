@@ -12,5 +12,7 @@ Section 10802(3) of this title, referred to in subsec. (b), was redesignated sec
 
 #### Amendments
 
-1991—Pub. L. 102–173, substituted “individuals with mental illness” for “mentally ill individuals” in subsec. (a) and “individual with mental illness” for “mentally ill individual” in subsec. (b).
+<b>1991</b>—Pub. L. 102–173, substituted “individuals with mental illness” for “mentally ill individuals” in subsec. (a) and “individual with mental illness” for “mentally ill individual” in subsec. (b).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

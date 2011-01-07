@@ -118,3 +118,7 @@ Subsec. (c). Pub. L. 103–354, §282(a)(3), added subsec. (c) and struck out he
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of Title 12, Banks and Banking.
 
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–233, §1, Aug. 16, 2010, 124 Stat. 2493, provided that: “This Act \[amending section 5106 of this title\] may be cited as the ‘Agricultural Credit Act of 2010’.”
+

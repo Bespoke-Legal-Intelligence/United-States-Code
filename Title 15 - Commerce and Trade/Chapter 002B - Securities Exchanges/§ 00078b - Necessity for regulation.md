@@ -1,8 +1,8 @@
 ### §78b. Necessity for regulation
 
-For the reasons hereinafter enumerated, transactions in securities as commonly conducted upon securities exchanges and over-the-counter markets are affected with a national public interest which makes it necessary to provide for regulation and control of such transactions and of practices and matters related thereto, including transactions by officers, directors, and principal security holders, to require appropriate reports to remove impediments to and perfect the mechanisms of a national market system for securities and a national system for the clearance and settlement of securities transactions and the safeguarding of securities and funds related thereto, and to impose requirements necessary to make such regulation and control reasonably complete and effective, in order to protect interstate commerce, the national credit, the Federal taxing power, to protect and make more effective the national banking system and Federal Reserve System, and to insure the maintenance of fair and honest markets in such transactions:
+For the reasons hereinafter enumerated, transactions in securities as commonly conducted upon securities exchanges and over-the-counter markets are effected with a national public interest which makes it necessary to provide for regulation and control of such transactions and of practices and matters related thereto, including transactions by officers, directors, and principal security holders, to require appropriate reports, to remove impediments to and perfect the mechanisms of a national market system for securities and a national system for the clearance and settlement of securities transactions and the safeguarding of securities and funds related thereto, and to impose requirements necessary to make such regulation and control reasonably complete and effective, in order to protect interstate commerce, the national credit, the Federal taxing power, to protect and make more effective the national banking system and Federal Reserve System, and to insure the maintenance of fair and honest markets in such transactions:
 
-&emsp;(1) Such transactions (a) are carried on in large volume by the public generally and in large part originate outside the States in which the exchanges and over-the-counter markets are located and/or are effected by means of the mails and instrumentalities of interstate commerce; (b) constitute an important part of the current of interstate commerce; (c) involve in large part the securities of issuers engaged in interstate commerce; (d) involve the use of credit, directly affect the financing of trade, industry, and transportation in interstate commerce, and directly affect and influence the volume of interstate commerce; and affect the national credit.
+&emsp;(1) Such transactions (a) are carried on in large volume by the public generally and in large part originate outside the States in which the exchanges and over-the-counter markets are located and/or are effected bymeans of the mails and instrumentalities of interstate commerce; (b) constitute an important part of the current of interstate commerce; (c) involve in large part the securities of issuers engaged in interstate commerce; (d) involve the use of credit, directly affect the financing of trade, industry, and transportation in interstate commerce, and directly affect and influence the volume of interstate commerce; and affect the national credit.
 
 &emsp;(2) The prices established and offered in such transactions are generally disseminated and quoted throughout the United States and foreign countries and constitute a basis for determining and establishing the prices at which securities are bought and sold, the amount of certain taxes owing to the United States and to the several States by owners, buyers, and sellers of securities, and the value of collateral for bank loans.
 
@@ -10,11 +10,17 @@ For the reasons hereinafter enumerated, transactions in securities as commonly c
 
 &emsp;(4) National emergencies, which produce widespread unemployment and the dislocation of trade, transportation, and industry, and which burden interstate commerce and adversely affect the general welfare, are precipitated, intensified, and prolonged by manipulation and sudden and unreasonable fluctuations of security prices and by excessive speculation on such exchanges and markets, and to meet such emergencies the Federal Government is put to such great expense as to burden the national credit.
 
-(June 6, 1934, ch. 404, title I, §2, 48 Stat. 881; Pub. L. 94–29, §2, June 4, 1975, 89 Stat. 97.)
+(June 6, 1934, ch. 404, title I, §2, 48 Stat. 881; Pub. L. 94–29, §2, June 4, 1975, 89 Stat. 97; Pub. L. 111–203, title IX, §985(b)(1), July 21, 2010, 124 Stat. 1933.)
 
 #### Amendments
 
-1975—Pub. L. 94–29 inserted “to remove impediments to and perfect the mechanisms of a national market system for securities and a national system for the clearance and settlement of securities transactions and the safeguarding of securities and funds related thereto,” after “require appropriate reports,” in introductory provisions preceding par. (1).
+<b>2010</b>—Pub. L. 111–203 substituted “effected” for “affected” in introductory provisions.
+
+<b>1975</b>—Pub. L. 94–29 inserted “to remove impediments to and perfect the mechanisms of a national market system for securities and a national system for the clearance and settlement of securities transactions and the safeguarding of securities and funds related thereto,” after “require appropriate reports,” in introductory provisions.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date of 1975 Amendment
 
@@ -62,7 +68,7 @@ Pub. L. 103–325, title II, §209, Sept. 23, 1994, 108 Stat. 2202, provided tha
 
 “(a)
 
-Joint Study Required.—The Board and the Commission shall conduct a joint study of the impact of the provisions of this subtitle \[subtitle A \[§§201–210 of title II of Pub. L. 103–325\], see Short Title of 1994 Amendment note set out under section 78a of this title\] (including the amendments made by this subtitle) on the credit and securities markets. Such study shall evaluate—
+Joint Study Required.—The Board and the Commission shall conduct a joint study of the impact of the provisions of this subtitle \[subtitle A \[§§201–210 of titleII of Pub. L. 103–325\], see Short Title of 1994 Amendment note set out under section 78a of this title\] (including the amendments made by this subtitle) on the credit and securities markets. Such study shall evaluate—
 
 &emsp;“(1) the impact of the provisions of this subtitle on the availability of credit for business and commercial enterprises in general, and the availability of credit in particular for—
 

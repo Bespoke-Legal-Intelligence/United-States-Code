@@ -118,7 +118,7 @@ The Commissioner of Social Security may prescribe the circumstances under which,
 
 (I)(i) The Commissioner shall enter into an agreement, with any interested State or local institution comprising a jail, prison, penal institution, or correctional facility, or with any other interested State or local institution a purpose of which is to confine individuals as described in section 402(x)(1)(A)(ii) of this title, under which—
 
-&emsp;(I) the institution shall provide to the Commissioner, on a monthly basis and in a manner specified by the Commissioner, the names, social security account numbers, dates of birth, confinement commencement dates, and, to the extent available to the institution, such other identifying information concerning the inmates of the institution as the Commissioner may require for the purpose of carrying out this paragraph and the other provisions of this subchapter; and
+&emsp;(I) the institution shall provide to the Commissioner, on a monthly basis and in a manner specified by the Commissioner, the names, social security account numbers, dates of birth, confinement commencement dates, and, to theextent available to the institution, such other identifying information concerning the inmates of the institution as the Commissioner may require for the purpose of carrying out this paragraph and the other provisions of this subchapter; and
 
 &emsp;(II) the Commissioner shall pay to any such institution, with respect to each individual who receives in the month preceding the first month throughout which such individual is an inmate of the jail, prison, penal institution, or correctional facility that furnishes information respecting such individual pursuant to subclause (I), or is confined in the institution (that so furnishes such information) as described in section 402(x)(1)(A)(ii) of this title, a benefit under this subchapter for such preceding month, and who is determined by the Commissioner to be ineligible for benefits under this subchapter by reason of confinement based on the information provided by such institution, $400 (subject to reduction under clause (ii)) if the institution furnishes the information described in subclause (I) to the Commissioner within 30 days after the date such individual becomes an inmate of such institution, or $200 (subject to reduction under clause (ii)) if the institution furnishes such information after 30 days after such date but within 90 days after such date.
 
@@ -196,7 +196,7 @@ In determining eligibility for, and the amount of, benefits payable under this s
 
 &emsp;(1) received aid or assistance for December 1973 under a plan of a State approved under subchapter X or XVI of this chapter,
 
-&emsp;(2) is blind under the definition of that term in the plan, as in effect for October 1972, underwhich he or they received such aid or assistance for December 1973,
+&emsp;(2) is blind under the definition of that term in the plan, as in effect for October 1972, under which he or they received such aid or assistance for December 1973,
 
 &emsp;(3) has, since December 31, 1973, continuously resided in the State under the plan of which he or they received such aid or assistance for December 1973, and
 
@@ -208,7 +208,7 @@ In determining eligibility for, and the amount of, benefits payable under this s
 
 For application and review requirements affecting the eligibility of certain individuals, see section 1383(j) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1611, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1466; amended Pub. L. 93–66, title II, §210(a), (b), July 9, 1973, 87 Stat. 154; Pub. L. 93–233, §§4(b)(1), (2), 18(d), (e), Dec. 31, 1973, 87 Stat. 953, 968; Pub. L. 93–368, §6(a), Aug. 7, 1974, 88 Stat. 421; Pub. L. 94–566, title V, §§502, 505(a), Oct. 20, 1976, 90 Stat. 2685, 2686; Pub. L. 96–265, title III, §303(c)(2), June 9, 1980, 94 Stat. 453; Pub. L. 97–35, title XXIII, §2341(a), Aug. 13, 1981, 95 Stat. 865; Pub. L. 97–248, title I, §§181(a), 183(a), Sept. 3, 1982, 96 Stat. 404, 405; Pub. L. 98–21, title IV, §403(a), Apr. 20, 1983, 97 Stat. 140; Pub. L. 98–369, div. B, title VI, §§2611(a)–(c), 2663(g)(1), (2), July 18, 1984, 98 Stat. 1130, 1168; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–643, §§3(a), 4(c)(3), (d)(1), 9(a), Nov. 10, 1986, 100 Stat. 3574, 3577, 3579; Pub. L. 100–203, title IX, §§9106(a), 9107, 9113(a), 9115(a), 9119(a), Dec. 22, 1987, 101 Stat. 1330–301, 1330–302, 1330–304, 1330–308; Pub. L. 100–360, title III, §303(c)(2), July 1, 1988, 102 Stat. 762; Pub. L. 101–239, title VIII, §§8009(a), 8010(b), Dec. 19, 1989, 103 Stat. 2463, 2464; Pub. L. 103–66, title XIII, §13735(a), Aug. 10, 1993, 107 Stat. 662; Pub. L. 103–296, title I, §107(a)(4), title II, §§201(b)(3)(A), (B)(i), 204(a), Aug. 15, 1994, 108 Stat. 1478, 1502, 1504, 1508; Pub. L. 104–121, title I, §105(b)(4)(A), Mar. 29, 1996, 110 Stat. 854; Pub. L. 104–193, title I, §108(j), title II, §§201(a), 202(a), (b), 203(a)(1), 204(a), 214(a), Aug. 22, 1996, 110 Stat. 2169, 2185–2187, 2195; Pub. L. 105–33, title V, §§5521, 5522(c), Aug. 5, 1997, 111 Stat. 621, 623; Pub. L. 106–169, title II, §§204, 207(c), 212, Dec. 14, 1999, 113 Stat. 1833, 1838, 1843; Pub. L. 106–170, title IV, §402(a)(3), (c)(1)–(3), Dec. 17, 1999, 113 Stat. 1908, 1909; Pub. L. 108–203, title II, §203(b), title IV, §§433(a), (b), 436(a), Mar. 2, 2004, 118 Stat. 510, 539–541.)
+(Aug. 14, 1935, ch. 531, title XVI, §1611, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1466; amended Pub. L. 93–66, title II, §210(a), (b), July 9, 1973, 87 Stat. 154; Pub. L. 93–233, §§4(b)(1), (2), 18(d), (e), Dec. 31, 1973, 87 Stat. 953, 968; Pub. L. 93–368, §6(a), Aug. 7, 1974, 88 Stat. 421; Pub. L. 94–566, title V, §§502, 505(a), Oct. 20, 1976, 90 Stat. 2685, 2686; Pub. L. 96–265, title III, §303(c)(2), June 9, 1980, 94 Stat. 453; Pub. L. 97–35, title XXIII, §2341(a), Aug. 13, 1981, 95 Stat. 865; Pub. L. 97–248, title I, §§181(a), 183(a), Sept. 3, 1982, 96 Stat. 404, 405; Pub. L. 98–21, title IV, §403(a), Apr. 20, 1983, 97 Stat. 140; Pub. L. 98–369, div. B, title VI, §§2611(a)–(c), 2663(g)(1), (2), July 18, 1984, 98 Stat. 1130, 1168; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–643, §§3(a), 4(c)(3), (d)(1), 9(a), Nov. 10, 1986, 100 Stat. 3574, 3577, 3579; Pub. L. 100–203, title IX,§§9106(a), 9107, 9113(a), 9115(a), 9119(a), Dec. 22, 1987, 101 Stat. 1330–301, 1330–302, 1330–304, 1330–308; Pub. L. 100–360, title III, §303(c)(2), July 1, 1988, 102 Stat. 762; Pub. L. 101–239, title VIII, §§8009(a), 8010(b), Dec. 19, 1989, 103 Stat. 2463, 2464; Pub. L. 103–66, title XIII, §13735(a), Aug. 10, 1993, 107 Stat. 662; Pub. L. 103–296, title I, §107(a)(4), title II, §§201(b)(3)(A), (B)(i), 204(a), Aug. 15, 1994, 108 Stat. 1478, 1502, 1504, 1508; Pub. L. 104–121, title I, §105(b)(4)(A), Mar. 29, 1996, 110 Stat. 854; Pub. L. 104–193, title I, §108(j), title II, §§201(a), 202(a), (b), 203(a)(1), 204(a), 214(a), Aug. 22, 1996, 110 Stat. 2169, 2185–2187, 2195; Pub. L. 105–33, title V, §§5521, 5522(c), Aug. 5, 1997, 111 Stat. 621, 623; Pub. L. 106–169, title II, §§204, 207(c), 212, Dec. 14, 1999, 113 Stat. 1833, 1838, 1843; Pub. L. 106–170, title IV, §402(a)(3), (c)(1)–(3), Dec. 17, 1999, 113 Stat. 1908, 1909; Pub. L. 108–203, title II, §203(b), title IV, §§433(a), (b), 436(a), Mar. 2, 2004, 118 Stat. 510, 539–541.)
 
 #### References in Text
 
@@ -226,7 +226,7 @@ A prior section 1382, act Aug. 14, 1935, ch. 531, title XVI, §1602, as added Ju
 
 #### Amendments
 
-2004—Subsec. (c)(2)(B). Pub. L. 108–203, §433(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in the case of the month in which an application becomes effective or the first month following a period of ineligibility, if such application becomes effective, or eligibility is restored, after the first day of such month, bear the same ratio to the amount of the benefit which would have been payable to such individual if such application had become effective, or eligibility had been restored, on the first day of such month as the number of days in such month including and following the effective date of such application or restoration of eligibility bears to the total number of days in such month.”
+<b>2004</b>—Subsec. (c)(2)(B). Pub. L. 108–203, §433(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in the case of the month in which an application becomes effective or the first month following a period of ineligibility, if such application becomes effective, or eligibility is restored, after the first day of such month, bear the same ratio to the amount of the benefit which would have been payable to such individual if such application had become effective, or eligibility had been restored, on the first day of such month as the number of days in such month including and following the effective date of such application or restoration of eligibility bears to the total number of days in such month.”
 
 Subsec. (c)(9). Pub. L. 108–203, §433(a), added par. (9).
 
@@ -244,7 +244,7 @@ Subsec. (e)(5)(A), (B). Pub. L. 108–203, §203(b)(2), added subpars. (A) and (
 
 “(B) the location or apprehension of the recipient is within the officer's official duties.”
 
-1999—Subsec. (e)(1)(G). Pub. L. 106–169, §212(b), substituted “subparagraph (H) or (J)” for “subparagraph (H)” in introductory provisions.
+<b>1999</b>—Subsec. (e)(1)(G). Pub. L. 106–169, §212(b), substituted “subparagraph (H) or (J)” for “subparagraph (H)” in introductory provisions.
 
 Subsec. (e)(1)(I)(i). Pub. L. 106–170, §402(c)(2), substituted “institution comprising a jail, prison, penal institution, or correctional facility, or with any other interested State or local institution a purpose of which is to confine individuals as described in section 402(x)(1)(A)(ii) of this title,” for “institution described in clause (i) or (ii) of section 402(x)(1)(A) of this title the primary purpose of which is to confine individuals as described in section 402(x)(1)(A) of this title,”.
 
@@ -278,7 +278,7 @@ Subsec. (e)(5). Pub. L. 106–169, §207(c)(3), redesignated par. (6) as (5). Fo
 
 Subsec. (e)(6). Pub. L. 106–169, §207(c)(2), (3), redesignated par. (6) as (5) and substituted “(4)” for “(5)”.
 
-1997—Subsec. (e)(1)(B). Pub. L. 105–33, §5522(c)(1)(A), (D), in introductory provisions, substituted “medical treatment facility” for “hospital, extended care facility, nursing home, or intermediate care facility” and in closing provisions, substituted “medical treatment facility that provides services described in section 1396p(c)(1)(C) of this title” for “hospital, extended care facility, nursing home, or intermediate care facility which is a ‘medical institution or nursing facility’ within the meaning of section 1396p(c) of this title”.
+<b>1997</b>—Subsec. (e)(1)(B). Pub. L. 105–33, §5522(c)(1)(A), (D), in introductory provisions, substituted “medical treatment facility” for “hospital, extended care facility, nursing home, or intermediate care facility” and in closing provisions, substituted “medical treatment facility that provides services described in section 1396p(c)(1)(C) of this title” for “hospital, extended care facility, nursing home, or intermediate care facility which is a ‘medical institution or nursing facility’ within the meaning of section 1396p(c) of this title”.
 
 Subsec. (e)(1)(B)(ii). Pub. L. 105–33, §5522(c)(1)(B), struck out “hospital, home or” before “facility” in introductory provisions and “hospital, home, or” before “facility” in subcl. (I).
 
@@ -296,7 +296,7 @@ Subsec. (e)(3). Pub. L. 105–33, §5522(c)(4), substituted “same medical trea
 
 Subsec. (e)(6). Pub. L. 105–33, §5521(a), inserted “and section 1306(c) of this title” after “of 1986”.
 
-1996—Subsec. (c)(5)(A). Pub. L. 104–193, §108(j), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a State plan approved under part A of subchapter IV of this chapter (relating to aid to families with dependent children),”.
+<b>1996</b>—Subsec. (c)(5)(A). Pub. L. 104–193, §108(j), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a State plan approved under part A of subchapter IV of this chapter (relating to aid to families with dependent children),”.
 
 Subsec. (c)(7)(A), (B). Pub. L. 104–193, §204(a), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
 
@@ -318,9 +318,9 @@ Subsec. (e)(5). Pub. L. 104–193, §§201(a), 202(a), added par. (5) and redesi
 
 Subsec. (e)(6). Pub. L. 104–193, §202(b), added par. (6).
 
-1994—Subsecs. (c), (d), (e)(1)(D), (H), (2). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+<b>1994</b>—Subsecs. (c), (d), (e)(1)(D), (H), (2). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
-Subsec. (e)(3)(A). Pub. L. 103–296, §201(b)(3)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “No person who is an aged, blind, or disabled individual solely by reason of disability (as determined under section 1382c(a)(3) of this title) shall be an eligible individual or eligible spouse for purposes of this subchapter with respect to any month if such individual is medically determined to be a drug addict or an alcoholic unless such individual is undergoing any treatment that may be appropriate for his condition as a drug addict or alcoholic (as the case may be) at an institution or facility approved for purposes of this paragraph by the Secretary (so long as such treatment isavailable) and demonstrates that he is complying with the terms, conditions, and requirements of such treatment and with requirements imposed by the Secretary under subparagraph (B).”
+Subsec. (e)(3)(A). Pub. L. 103–296, §201(b)(3)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “No person who is an aged, blind, or disabled individual solely by reason of disability (as determined under section 1382c(a)(3) of this title) shall be an eligible individual or eligible spouse for purposes of this subchapter with respect to any month if such individual is medically determined to be a drug addict or an alcoholic unless such individual is undergoing any treatment that may be appropriate for his condition as a drug addict or alcoholic (as the case may be) at an institution or facility approved for purposes of this paragraph by the Secretary (so long as such treatment is available) and demonstrates that he is complying with the terms, conditions, and requirements of such treatment and with requirements imposed by the Secretary under subparagraph (B).”
 
 Pub. L. 103–296, §107(a)(4), in subpar. (A) as amended by Pub. L. 103–296, §201(b)(3)(A), substituted “Commissioner of Social Security” for “Secretary” and “Commissioner's” for “Secretary's” wherever appearing.
 
@@ -334,17 +334,17 @@ Subsec. (f). Pub. L. 103–296, §204(a), designated existing provisions as par.
 
 Subsec. (f)(2)(B). Pub. L. 103–296, §107(a)(4), in subpar. (B) as added by Pub. L. 103–296, §204(a), substituted “Commissioner of Social Security” for “Secretary”.
 
-1993—Subsec. (c)(1). Pub. L. 103–66, §13735(a)(1), substituted “(5), and (6)” for “and (5)”.
+<b>1993</b>—Subsec. (c)(1). Pub. L. 103–66, §13735(a)(1), substituted “(5), and (6)” for “and (5)”.
 
 Subsec. (c)(6) to (8). Pub. L. 103–66, §13735(a)(2), (3), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
-1989—Subsec. (e)(1)(B). Pub. L. 101–239, §8010(b), inserted “or an eligible individual is a child described in section 1382c(f)(2)(B) of this title,” before “the benefit under this subchapter” in introductory provisions.
+<b>1989</b>—Subsec. (e)(1)(B). Pub. L. 101–239, §8010(b), inserted “or an eligible individual is a child described in section 1382c(f)(2)(B) of this title,” before “the benefit under this subchapter” in introductory provisions.
 
 Subsec. (f). Pub. L. 101–239, §8009(a), inserted “(other than a child described in section 1382c(a)(1)(B)(ii) of this title)” after “no individual”.
 
-1988—Subsec. (e)(1)(B). Pub. L. 100–360 inserted at end “For purposes of this subsection, a hospital, extended care facility, nursing home, or intermediate care facility which is a ‘medical institution or nursing facility’ within the meaning of section 1396p(c) of this title shall be considered to be receiving payments with respect to an individual under a State plan approved under subchapter XIX of this chapter during any period of ineligibility of such individual provided for under the State plan pursuant to section 1396p(c) of this title.”
+<b>1988</b>—Subsec. (e)(1)(B). Pub. L. 100–360 inserted at end “For purposes of this subsection, a hospital, extended care facility, nursing home, or intermediate care facility which is a ‘medical institution or nursing facility’ within the meaning of section 1396p(c) of this title shall be considered to be receiving payments with respect to an individual under a State plan approved under subchapter XIX of this chapter during any period of ineligibility of such individual provided for under the State plan pursuant to section 1396p(c) of this title.”
 
-1987—Subsec. (c)(1). Pub. L. 100–203, §9106(a)(1), substituted “paragraphs (2), (3), (4), and (5)” for “paragraphs (2), (3), and (4)”.
+<b>1987</b>—Subsec. (c)(1). Pub. L. 100–203, §9106(a)(1), substituted “paragraphs (2), (3), (4), and (5)” for “paragraphs (2), (3), and (4)”.
 
 Subsec. (c)(5) to (7). Pub. L. 100–203, §9106(a)(2), (3), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
@@ -360,7 +360,7 @@ Subsec. (e)(1)(G), (H). Pub. L. 100–203, §9115(a)(3), added subpars. (G) and 
 
 Subsec. (e)(5). Pub. L. 100–203, §9107, substituted “living in the same hospital, home, or facility” for “sharing a room or comparable accommodation in a hospital, home, or facility” and “lived in the same such hospital, home, or facility” for “shared such a room or accommodation”.
 
-1986—Subsec. (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 Subsec. (e)(1). Pub. L. 99–643, §3(a), in subpar. (A) substituted “(D), and (E)” for “and (D)”, in subpar. (B) inserted “(subject to subparagraph (E))” after “shall be payable”, and added subpars. (E) and (F).
 
@@ -370,7 +370,7 @@ Subsec. (e)(5). Pub. L. 99–643, §9(a), added par. (5).
 
 Subsec. (i). Pub. L. 99–643, §4(c)(3), added subsec. (i).
 
-1984—Subsec. (a)(1)(B). Pub. L. 98–369, §2611(a), substituted “the applicable amount determined under paragraph (3)(A)” for “$2,250” and “the applicable amount determined under paragraph (3)(B)” for “$1,500”.
+<b>1984</b>—Subsec. (a)(1)(B). Pub. L. 98–369, §2611(a), substituted “the applicable amount determined under paragraph (3)(A)” for “$2,250” and “the applicable amount determined under paragraph (3)(B)” for “$1,500”.
 
 Subsec. (a)(2)(B). Pub. L. 98–369, §2611(b), substituted “the applicable amount determined under paragraph (3)(A)” for “$2,250”.
 
@@ -380,29 +380,29 @@ Subsec. (c). Pub. L. 98–369, §2663(g)(1), amended heading.
 
 Subsec. (g). Pub. L. 98–369, §2663(g)(2), substituted “or such individual” for “or individuals” in provisions following par. (3).
 
-1983—Subsec. (e)(1)(A). Pub. L. 98–21, §403(a)(1), inserted reference to subpar. (D).
+<b>1983</b>—Subsec. (e)(1)(A). Pub. L. 98–21, §403(a)(1), inserted reference to subpar. (D).
 
 Subsec. (e)(1)(D). Pub. L. 98–21, §403(a)(2), added subpar. (D).
 
-1982—Subsec. (c)(1). Pub. L. 97–248, §183(a)(1), inserted reference to pars. (3) and (4).
+<b>1982</b>—Subsec. (c)(1). Pub. L. 97–248, §183(a)(1), inserted reference to pars. (3) and (4).
 
 Subsec. (c)(2). Pub. L. 97–248, §181(a), in par. (2) redesignated existing provisions as provisions preceding subpar. (A) and subpar. (A), and added subpar. (B).
 
 Subsec. (c)(3) to (6). Pub. L. 97–248, §§181(a), 183(a)(2), (3), struck out par. (3) providing that an application shall be effective as of the first day of the month in which it is filed, added par. (3) providing that an application shall be effective on the later of the date it is filed or the date such individual first becomes eligible for such benefits with respect to such application and redesignated such par. (3) as (5), redesignated par. (4) as (6), and added pars. (3) and (4).
 
-1981—Subsec. (c). Pub. L. 97–35 substituted provision that eligibility and benefit amount generally be determined on a one-month retrospective basis, with for the first month of eligibility, the month in which the application is filed, eligibility and benefit amount both determined on a prospective basis for provision that eligibility and benefit amount be determined on a quarterly prospective basis and inserted provision authorizing the Secretary to grant waivers.
+<b>1981</b>—Subsec. (c). Pub. L. 97–35 substituted provision that eligibility and benefit amount generally be determined on a one-month retrospective basis, with for the first month of eligibility, the month in which the application is filed, eligibility and benefit amount both determined on a prospective basis for provision that eligibility and benefit amount be determined on a quarterly prospective basis and inserted provision authorizing the Secretary to grant waivers.
 
-1980—Subsec. (e)(4). Pub. L. 96–265 added par. (4).
+<b>1980</b>—Subsec. (e)(4). Pub. L. 96–265 added par. (4).
 
-1976—Subsec. (e)(1)(A). Pub. L. 94–566, §505(a), inserted reference to subparagraph (C).
+<b>1976</b>—Subsec. (e)(1)(A). Pub. L. 94–566, §505(a), inserted reference to subparagraph (C).
 
 Subsec. (e)(1)(B)(ii). Pub. L. 94–566, §502, inserted “of the one who is in such hospital, home, or facility” after “section 1382a(b) of this title” in parenthetical provisions that follow “the rate of $300 per year” and inserted “(reduced by the amount of any income, not excluded pursuant to section 1382a(b) of this title, of the other)” after “the applicable rate specified in subsection (b)(1) of this section”.
 
 Subsec. (e)(1)(C). Pub. L. 94–566, §505(a), added subpar. (C).
 
-1974—Pub. L. 93–368 inserted “(or, if greater, the amount determined under section 1382f of this title)” after “$1,752” in subsecs. (a)(1)(A) and (b)(1) and “$2,628” in subsecs. (a)(2)(A) and (b)(2).
+<b>1974</b>—Pub. L. 93–368 inserted “(or, if greater, the amount determined under section 1382f of this title)” after “$1,752” in subsecs. (a)(1)(A) and (b)(1) and “$2,628” in subsecs. (a)(2)(A) and (b)(2).
 
-1973—Subsec. (a)(1)(A). Pub. L. 93–233, §4(b)(1), substituted “$1,752” for “$1,680”.
+<b>1973</b>—Subsec. (a)(1)(A). Pub. L. 93–233, §4(b)(1), substituted “$1,752” for “$1,680”.
 
 Pub. L. 93–66, §210(a), substituted “$1,680” for “$1,560”.
 
@@ -474,7 +474,7 @@ Section 105(b)(5) of Pub. L. 104–121, as amended by Pub. L. 105–33, title V,
 
 &emsp;“(ii) whose eligibility for benefits is based upon an eligibility redetermination made pursuant to subparagraph (C).
 
-“(C) Within 90 days after the date of the enactment of this Act \[Mar. 29, 1996\], the Commissioner of Social Security shall notify each individual who is eligible for supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] for the month in which this Act is enacted and whose eligibility for such benefits would terminate by reason of the amendments made by this subsection \[enacting section 1383e of this title and amending this section and sections 1382c, 1383, and 1383c of this title\]. If such an individual reapplies for supplemental security income benefits under title XVI of such Act (as amended by this Act) within 120 days after the date of the enactment of this Act, the Commissioner of Social Securityshall, not later than January 1, 1997, complete the eligibility redetermination (including a new medical determination) with respect to such individual pursuant to the procedures of such title.
+“(C) Within 90 days after the date of the enactment of this Act \[Mar. 29, 1996\], the Commissioner of Social Security shall notify each individual who is eligible for supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] for the month in which this Act is enacted and whose eligibility for such benefits would terminate by reason of the amendments made by this subsection \[enacting section 1383e of this title and amending this section and sections 1382c, 1383, and 1383c of this title\]. If such an individual reapplies for supplemental security income benefits under title XVI of such Act (as amended by this Act) within 120 days after the date of the enactment of this Act, the Commissioner of Social Security shall, not later than January 1, 1997, complete the eligibility redetermination (including a new medical determination) with respect to such individual pursuant to the procedures of such title.
 
 “(D) For purposes of this paragraph, an individual's claim, with respect to supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] based on disability, which has been denied in whole before the date of the enactment of this Act \[Mar. 29, 1996\], may not be considered to be finally adjudicated before such date if, on or after such date—
 
@@ -586,7 +586,7 @@ Section 505(e) of Pub. L. 94–566 provided that: “The amendments \[amending t
 
 #### Effective Date of 1973 Amendments
 
-Section 4(b) of Pub. L. 93–233 provided that the amendments made by section 4(b)(1), (2) of Pub. L. 93–233 are effective with respect to payments for months after June 1974.
+Section 4(b) of Pub. L. 93–233 provided that the amendments made by section 4(b)(1), (2) of Pub. L.93–233 are effective with respect to payments for months after June 1974.
 
 Section 210(c) of Pub. L. 93–66, as amended Pub. L. 93–233, §4(a)(1), Dec. 31, 1973, 87 Stat. 953, provided: “The amendments made by this section \[amending this section\] shall apply with respect to payments for months after December 1973.”
 
@@ -636,7 +636,7 @@ Section 203(c) of Pub. L. 104–193 provided that: “Not later than October 1, 
 
 #### Study by General Accounting Office
 
-Pub. L. 104–193, title II, §232, Aug. 22, 1996, 110 Stat. 2198, provided that, not later than Jan. 1, 1999, the Comptroller General was to study and report on the impact of the amendments and provisions of title II of Pub. L. 104–193 on the supplemental security income program under this subchapter and extra expenses incurred by families of children receiving benefits underthis subchapter not covered by other Federal, State, or local programs.
+Pub. L. 104–193, title II, §232, Aug. 22, 1996, 110 Stat. 2198, provided that, not later than Jan. 1, 1999, the Comptroller General was to study and report on the impact of the amendments and provisions of title II of Pub. L. 104–193 on the supplemental security income program under this subchapter and extra expenses incurred by families of children receiving benefits under this subchapter not covered by other Federal, State, or local programs.
 
 #### Report to Congress on Referral, Monitoring and Treatment Activities Relating to Alcoholics and Drug Addicts
 
@@ -684,7 +684,7 @@ Special payment of $50 as soon as practicable after Mar. 29, 1975, by the Secret
 
 #### Adjustment of Individual's Monthly Supplemental Security Income Payments; Regulations; Limitations
 
-Pub. L. 93–335, §2(b)(2), July 8, 1974, 88 Stat. 291, authorized the Secretary of Health, Education, and Welfare to prescribe regulations for the adjustment of an individual's monthly supplemental security income payment in accordance with any increase to which such individual might be entitled under the amendment made by subsection (a) of this section \[amending section 212(a)(3)(B)(i) of Pub. L. 93–66, set out below\]; provided that such adjustment in monthly payment, together with the remittance of any prior unpaid increments to which such individual might be entitled undersuch amendment, was to be made no later than the first day of the first month beginning more than sixty days after July 8, 1974.
+Pub. L. 93–335, §2(b)(2), July 8, 1974, 88 Stat. 291, authorized the Secretary of Health, Education, and Welfare to prescribe regulations for the adjustment of an individual's monthly supplemental security income payment in accordance with any increase to which such individual might be entitled under the amendment made by subsection (a) of this section \[amending section 212(a)(3)(B)(i) of Pub. L. 93–66, set out below\]; provided that such adjustment in monthly payment, together with the remittance of any prior unpaid increments to which such individual might be entitled under such amendment, was to be made no later than the first day of the first month beginning more than sixty days after July 8, 1974.
 
 #### Medicaid Eligibility for Individuals Receiving Mandatory State Supplementary Payments; Effective Date
 
@@ -754,7 +754,7 @@ Section 212 of Pub. L. 93–66, as amended by Pub. L. 93–233, §10, Dec. 31, 1
 
 > except that no individual shall be entitled to receive such supplementary payment for any month, if, for such month, such individual was ineligible to receive supplemental income benefits under title XVI of the Social Security Act \[this chapter\] by reason of the provisions of section 1611(e)(1)(A), (2), or (3) \[subsec. (e)(1)(A), (2), or (3) of this section\], 1611(f) \[subsec. (f) of this section\], or 1615(c) of such Act \[section 1382d(c) of this title\].
 
-“(3)(A) The supplementary payment referred to in paragraph (2) which shall be paid for any month to anyindividual who is entitled thereto under an agreement entered into pursuant to this subsection shall (except as provided in subparagraphs (D) and (E)) be an amount equal to (i) the amount by which such individual's ‘December 1973 income’ (as determined under subparagraph (B)) exceeds the amount of such individual's ‘title XVI benefit plus other income’ (as determined under subparagraph (C)) for such month, or (ii) if greater, such amount as the State may specify.
+“(3)(A) The supplementary payment referred to in paragraph (2) which shall be paid for any month to any individual who is entitled thereto under an agreement entered into pursuant to this subsection shall (except as provided in subparagraphs (D) and (E)) be an amount equal to (i) the amount by which such individual's ‘December 1973 income’ (as determined under subparagraph (B)) exceeds the amount of such individual's ‘title XVI benefit plus other income’ (as determined under subparagraph (C)) for such month, or (ii) if greater, such amount as the State may specify.
 
 “(B) For purposes of subparagraph (A), an individual's ‘December 1973 income’ means an amount equal to the aggregate of—
 
@@ -830,7 +830,7 @@ Section 212 of Pub. L. 93–66, as amended by Pub. L. 93–233, §10, Dec. 31, 1
 
 “(D)(i) The first $5 of each administration fee assessed pursuant to subparagraph (B), upon collection, shall be deposited in the general fund of the Treasury of the United States as miscellaneous receipts.
 
-“(ii) The portion of each administration fee in excess of $5, and 100 percent of each additional services fee charged pursuant to subparagraph (C), upon collection for fiscal year 1998 and each subsequent fiscal year, shall be credited to a special fund established in the Treasury of the United States for State supplementary payment fees. The amounts so credited, to the extent and in the amounts provided in advance in appropriations Acts, shall be available to defray expenses incurred in carrying out this section and title XVI of the Social Security Act \[this subchapter\] and related laws.
+“(ii) The portion of each administration fee in excess of $5, and 100 percent of each additional services fee charged pursuant to subparagraph (C), upon collection for fiscal year 1998 and each subsequent fiscal year, shall be credited to a special fund established in the Treasury of the United States for State supplementarypayment fees. The amounts so credited, to the extent and in the amounts provided in advance in appropriations Acts, shall be available to defray expenses incurred in carrying out this section and title XVI of the Social Security Act \[this subchapter\] and related laws.
 
 “(E)(i) Any State which has entered into an agreement with the Commissioner of Social Security under this section shall remit the payments and fees required under this paragraph with respect to monthly benefits paid to individuals under title XVI of the Social Security Act \[this subchapter\] no later than—
 

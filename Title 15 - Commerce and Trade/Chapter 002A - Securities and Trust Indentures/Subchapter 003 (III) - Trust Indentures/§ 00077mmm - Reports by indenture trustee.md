@@ -8,7 +8,7 @@ The indenture trustee shall transmit to the indenture security holders as herein
 
 &emsp;(2) the creation of or any material change to a relationship specified in paragraph <sup>2</sup> (1) through (10) of section 77jjj(b) of this title;
 
-&emsp;(3) the character and amount of any advances made by it, as indenture trustee, which remain unpaid on the date of such report, and for the reimbursement of which it claims or may claim a lien or charge, prior to that of the indenture securities, on the trust estate or on property or funds held or collected by it as such trustee, if such advances so remaining unpaid aggregate more than one-half of 1 per centum of the principal amount of the indenture securities outstanding on such date;
+&emsp;(3) the character and amount of any advances made by it, as indenture trustee, which remain unpaid on the date of such report, and for the reimbursement of which it claims or may claim a lien or charge, prior to that of the indenture securities, on the trust estate or on property or funds held or collected by it as such trustee, if such advances so remaining unpaid aggregate more than one-half of 1 percentum of the principal amount of the indenture securities outstanding on such date;
 
 &emsp;(4) any change to the amount, interest rate, and maturity date of all other indebtedness owning to it in its individual capacity, on the date of such report, by the obligor upon the indenture securities, with a brief description of any property held as collateral security therefor, except an indebtedness based upon a creditor relationship arising in any manner described in paragraphs (2), (3), (4), or (6) of subsection (b) of section 77kkk of this title;
 
@@ -26,7 +26,7 @@ The indenture trustee shall transmit to the indenture security holders as herein
 
 &emsp;(1) the release, or release and substitution, of property subject to the lien of the indenture (and the consideration therefor, if any) unless the fair value of such property, as set forth in the certificate or opinion required by paragraph (1) of subsection (d) of section 77nnn of this title, is less than 10 per centum of the principal amount of indenture securities outstanding at the time of such release, or such release and substitution, such report to be so transmitted within 90 days after such time; and
 
-&emsp;(2) the character and amount of any advances made by it as such since the date of the last report transmitted pursuant to the provisions of subsection (a) of this section (or if no such report has yet been so transmitted, since the date of execution of the indenture), for the reimbursement of which it claims or may claim a lien or charge, prior to that of the indenture securities, on the trust estate or on property or funds held or collected by it as such trustee, and which it has not previously reported pursuant to this paragraph, if such advances remaining unpaid at any time aggregate more than 10 per centum of the principalamount of indenture securities outstanding at such time, such report to be so transmitted within 90 days after such time.
+&emsp;(2) the character and amount of any advances made by it as such since the date of the last report transmitted pursuant to the provisions of subsection (a) of this section (or if no such report has yet been so transmitted, since the date of execution of the indenture), for the reimbursement of which it claims or may claim a lien or charge, prior to that of the indenture securities, on the trust estate or on property or funds held or collected by it as such trustee, and which it has not previously reported pursuant to this paragraph, if such advances remaining unpaid at any time aggregate more than 10 per centum of the principal amount of indenture securities outstanding at such time, such report to be so transmitted within 90 days after such time.
 
 #### (c) Additional parties to whom reports to be transmitted
 
@@ -46,11 +46,11 @@ A copy of each such report shall, at the time of such transmission to indenture 
 
 #### Amendments
 
-1998—Subsec. (a)(4). Pub. L. 105–353, §301(e)(3)(A), inserted “any change to” before “the amount”.
+<b>1998</b>—Subsec. (a)(4). Pub. L. 105–353, §301(e)(3)(A), inserted “any change to” before “the amount”.
 
 Subsec. (a)(6). Pub. L. 105–353, §301(e)(3)(B), struck out “any change to” before “any release”.
 
-1990—Subsec. (a). Pub. L. 101–550, §411(1), (2), substituted “The indenture trustee shall” for “The indenture to be qualified shall contain provisions requiring the indenture trustee to” and inserted “any of the following events which may have occurred within the previous 12 months (but if no such event has occurred within such period no report need be transmitted):” after “a brief report with respect to”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–550, §411(1), (2), substituted “The indenture trustee shall” for “The indenture to be qualified shall contain provisions requiring the indenture trustee to” and inserted “any of the following events which may have occurred within the previous 12 months (but if no such event has occurred within such period no report need be transmitted):” after “a brief report with respect to”.
 
 Subsec. (a)(1). Pub. L. 101–550, §411(3), (4), inserted “any change to” before “its eligibility” and struck out “, or in lieu thereof, if to the best of its knowledge it has continued to be eligible and qualified under such section, a written statement to such effect” after “of this title”.
 

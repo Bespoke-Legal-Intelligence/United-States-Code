@@ -20,7 +20,7 @@ Prior to the implementation of any project developed pursuant to the transportat
 
 #### Amendments
 
-1994—Subsec. (b)(2). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 

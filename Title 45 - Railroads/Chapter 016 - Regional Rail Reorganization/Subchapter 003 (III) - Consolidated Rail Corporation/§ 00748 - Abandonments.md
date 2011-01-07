@@ -46,11 +46,11 @@ Section 797 of this title, referred to in subsec. (f), was repealed by Pub. L. 9
 
 #### Amendments
 
-1995—Subsec. (d)(1). Pub. L. 104–88, §327(4)(A), substituted “section 10904” for “section 10905(d)–(f)”.
+<b>1995</b>—Subsec. (d)(1). Pub. L. 104–88, §327(4)(A), substituted “section 10904” for “section 10905(d)–(f)”.
 
 Subsec. (f). Pub. L. 104–88, §327(4)(B), substituted “section 10903(b)(3)” for “section 10903(b)(2)”.
 
-1983—Subsec. (c)(1). Pub. L. 98–181 substituted “1985” for “1983”.
+<b>1983</b>—Subsec. (c)(1). Pub. L. 98–181 substituted “1985” for “1983”.
 
 #### Effective Date of 1995 Amendment
 
@@ -63,4 +63,8 @@ Section effective Aug. 13, 1981, see section 1169 of Pub. L. 97–35, set out as
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
 Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+
+<i><sup>1</sup></i><i> So in original. Section 10903(b) of Title 49, Transportation, does not contain a par. (3).</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

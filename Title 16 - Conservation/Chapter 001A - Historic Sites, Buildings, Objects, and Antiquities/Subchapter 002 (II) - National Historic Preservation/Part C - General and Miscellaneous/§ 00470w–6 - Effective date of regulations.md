@@ -28,7 +28,7 @@ Congressional inaction on or rejection of a resolution of disapproval shall not 
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–208, §5(a)(11), substituted “No final regulation” for “Except as provided in subsection (b) of this section, no final regulation”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–208, §5(a)(11), substituted “No final regulation” for “Except as provided in subsection (b) of this section, no final regulation”.
 
 Pub. L. 106–176 made technical correction to directory language of Pub. L. 104–333, §814(d)(2)(E). See 1996 Amendment note below.
 
@@ -40,9 +40,9 @@ Pub. L. 106–208, §5(a)(12), which directed the amendment of subsec. (c) by su
 
 Subsecs. (d) to (f). Pub. L. 106–208, §5(a)(13), redesignated subsecs. (d) to (f) as (c) to (e), respectively.
 
-1996—Subsec. (a). Pub. L. 104–333, §814(d)(2)(E), as amended by Pub. L. 106–176, struck out first two sentences which read as follows: “At least thirty days prior to publishing in the Federal Register any proposed regulation required by this subchapter, the Secretary shall transmit a copy of the regulation to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. The Secretary also shall transmit to such committees a copy of any final regulation prior to its publication in the Federal Register.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–333, §814(d)(2)(E), as amended by Pub. L. 106–176, struck out first two sentences which read as follows: “At least thirty days prior to publishing in the Federal Register any proposed regulation required by this subchapter, the Secretary shall transmit a copy of the regulation to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. The Secretary also shall transmit to such committees a copy of any final regulation prior to its publication in the Federal Register.”
 
 Subsec. (b). Pub. L. 104–333, §814(d)(1)(O), struck out subsec. (b) which read as follows: “In the case of an emergency, a final regulation of the Secretary may become effective without regard to the last sentence of subsection (a) of this section if the Secretary notified in writing the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate setting forth the reasons why it is necessary to make the regulation effective prior to the expiration of the thirty-day period.”
 
-1994—Subsecs. (a), (b). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsecs. (a), (b). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 

@@ -68,15 +68,15 @@ Section 507 of the International Maritime Satellite Telecommunications Act, refe
 
 #### Amendments
 
-2009—Subsec. (d)(1). Pub. L. 111–84, §1032(a)(1), in introductory provisions, substituted “the Deputy Secretary of Defense and the Deputy Secretary of Transportation, in their capacity as co-chairs of the National Executive Committee for Space-Based Positioning, Navigation, and Timing,” for “the Secretary of Defense” and “the Committees on Armed Services and Commerce, Science, and Transportation of the Senate and the Committees on Armed Services, Energy and Commerce, and Transportation and Infrastructure of the House of Representatives” for “the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives”.
+<b>2009</b>—Subsec. (d)(1). Pub. L. 111–84, §1032(a)(1), in introductory provisions, substituted “the Deputy Secretary of Defense and the Deputy Secretary of Transportation, in their capacity as co-chairs of the National Executive Committee for Space-Based Positioning, Navigation, and Timing,” for “the Secretary of Defense” and “the Committees on Armed Services and Commerce, Science, and Transportation of the Senate and the Committees on Armed Services, Energy and Commerce, and Transportation and Infrastructure of the House of Representatives” for “the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives”.
 
 Subsec. (d)(1)(B)(ii). Pub. L. 111–84, §1032(b), inserted “validated” before “performance requirements” and “in accordance with Office of Management and Budget Circular A–109” after “Plan”.
 
 Subsec. (d)(2). Pub. L. 111–84, §1032(a)(2), added par. (2) and struck out former par. (2), which read as follows: “In preparing the parts of each such report required under subparagraphs (C), (D), (E), (F), and (G) of paragraph (1), the Secretary of Defense shall consult with the Secretary of State, the Secretary of Commerce, and the Secretary of Transportation.”
 
-2003—Subsec. (d)(1)(C). Pub. L. 108–136, §914(a)(1), (2), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The most recent determination by the President regarding continued use of the selective availability feature of the system and the expected date of any change or elimination of the use of that feature.”
+<b>2003</b>—Subsec. (d)(1)(C). Pub. L. 108–136, §914(a)(1), (2), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The most recent determination by the President regarding continued use of the selective availability feature of the system and the expected date of any change or elimination of the use of that feature.”
 
-Subsec. (d)(1)(D). Pub. L. 108–136, §914(a)(3), redesignated subpar. (E) as (D) and substituted “Progress andchallenges in” for “Any progress made toward”. Former subpar. (D) redesignated (C).
+Subsec. (d)(1)(D). Pub. L. 108–136, §914(a)(3), redesignated subpar. (E) as (D) and substituted “Progress and challenges in” for “Any progress made toward”. Former subpar. (D) redesignated (C).
 
 Subsec. (d)(1)(E). Pub. L. 108–136, §914(a)(4), added subpar. (E). Former subpar. (E) redesignated (D).
 
@@ -84,7 +84,27 @@ Subsec. (d)(1)(F). Pub. L. 108–136, §914(a)(4), added subpar. (F) and struck 
 
 Subsec. (d)(2). Pub. L. 108–136, §914(b), inserted “(C),” after “under subparagraphs”.
 
-1999—Subsec. (d)(1). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
+<b>1999</b>—Subsec. (d)(1). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
+
+#### Limitation on Use of Funds for Purchasing Global Positioning System User Equipment
+
+Pub. L. 111–383, div. A, title IX, §913, Jan. 7, 2011, 124 Stat. 4328, provided that:
+
+“(a)
+
+In General.—Except as provided in subsections (b) and (c), none of the funds authorized to be appropriated or otherwise made available by this Act or any other Act for the Department of Defense may be obligated or expended to purchase user equipment for the Global Positioning System during fiscal years after fiscal year 2017 unless the equipment is capable of receiving the military code (commonly known as the ‘M code’) from the Global Positioning System.
+
+“(b)
+
+Exception.—The limitation under subsection (a) shall not apply with respect to the purchase of passenger vehicles or commercial vehicles in which Global Positioning System equipment is installed.
+
+“(c)
+
+Waiver.—The Secretary of Defense may waive the limitation under subsection (a) if the Secretary determines that—
+
+&emsp;“(1) suitable user equipment capable of receiving the military code from the Global Positioning System is not available; or
+
+&emsp;“(2) with respect to a purchase of user equipment, the Department of Defense does not require that user equipment to be capable of receiving the military code from the Global Positioning System.”
 
 #### Authorization of Interagency Support for Global Positioning System
 
@@ -174,7 +194,7 @@ International Cooperation.—Congress urges the President to promote the securit
 
 &emsp;“(3) Undertaking efforts to eliminate any barriers to, and other restrictions of foreign governments on, peaceful uses of the Global Positioning System.
 
-&emsp;“(4) Requiring that any proposed international agreement involving nonmilitary use of the GlobalPositioning System or any augmentation to the system not be agreed to by the United States unless the proposed agreement has been reviewed by the Secretary of State, the Secretary of Defense, the Secretary of Transportation, and the Secretary of Commerce (acting as the Interagency Global Positioning System Executive Board established by Presidential Decision Directive NSTC–6, dated March 28, 1996).”
+&emsp;“(4) Requiring that any proposed international agreement involving nonmilitary use of the Global Positioning System or any augmentation to the system not be agreed to by the United States unless the proposed agreement has been reviewed by the Secretary of State, the Secretary of Defense, the Secretary of Transportation, and the Secretary of Commerce (acting as the Interagency Global Positioning System Executive Board established by Presidential Decision Directive NSTC–6, dated March 28, 1996).”
 
 #### Access to Global Positioning System
 

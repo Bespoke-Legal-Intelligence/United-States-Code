@@ -16,5 +16,5 @@ The term “improved property”, as used in this section, shall mean a detached
 
 #### Amendments
 
-1986—Subsec. (c). Pub. L. 99–497 inserted “, or before January 1, 1985 for those lands referred to in section 460w(b) of this title”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–497 inserted “, or before January 1, 1985 for those lands referred to in section 460w(b) of this title”.
 

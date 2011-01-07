@@ -4,7 +4,11 @@ Prior to any revision of or amendment to rules or regulations promulgated pursua
 
 (Pub. L. 94–437, title VIII, §802, formerly title VII, §702, Sept. 30, 1976, 90 Stat. 1413; renumbered title VIII, §802, and amended Pub. L. 102–573, title VII, §701(a), (b), title VIII, §802, Oct. 29, 1992, 106 Stat. 4572, 4585.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+
 #### Amendments
 
-1992—Pub. L. 102–573, §802, amended section generally, substituting present provisions for former provisions relating in subsec. (a) to consideration, formulation, proposal, and promulgation of regulations and in subsec. (b) to revision and amendment of regulations.
+<b>1992</b>—Pub. L. 102–573, §802, amended section generally, substituting present provisions for former provisions relating in subsec. (a) to consideration, formulation, proposal, and promulgation of regulations and in subsec. (b) to revision and amendment of regulations.
 

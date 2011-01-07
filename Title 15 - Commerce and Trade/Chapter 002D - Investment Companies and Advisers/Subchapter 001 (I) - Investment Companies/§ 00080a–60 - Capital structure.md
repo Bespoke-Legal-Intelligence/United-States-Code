@@ -26,7 +26,7 @@ Notwithstanding the exemption set forth in section 80a–6(f) of this title, sec
 
 &emsp;&emsp;&emsp;(ii) such securities are not transferable except for disposition by gift, will, or intestacy;
 
-&emsp;&emsp;&emsp;(iii) no investment adviser of such business development company receives any compensation described in paragraph (1) of section 80b–5 <sup>1</sup> of this title, except to the extent permitted by clause (A) or (B) of that section; and
+&emsp;&emsp;&emsp;(iii) no investment adviser of such business development company receives any compensation described in section 80b–5(a)(1) of this title, except to the extent permitted by paragraph (1) or (2) of section 80b–5(b) of this title; and
 
 &emsp;&emsp;&emsp;(iv) such business development company does not have a profit-sharing plan described in section 80a–56(n) of this title; and
 
@@ -44,17 +44,17 @@ Notwithstanding the exemption set forth in section 80a–6(f) of this title, sec
 
 A business development company shall comply with the provisions of this section at the time it becomes subject to sections 80a–54 through 80a–64 of this title, as if it were issuing a security of each class which it has outstanding at such time.
 
-(Aug. 22, 1940, ch. 686, title I, §61, as added Pub. L. 96–477, title I, §105, Oct. 21, 1980, 94 Stat. 2286;amended Pub. L. 104–290, title V, §506, Oct. 11, 1996, 110 Stat. 3446.)
+(Aug. 22, 1940, ch. 686, title I, §61, as added Pub. L. 96–477, title I, §105, Oct. 21, 1980, 94 Stat. 2286; amended Pub. L. 104–290, title V, §506, Oct. 11, 1996, 110 Stat. 3446; Pub. L. 111–203, title IX, §985(d)(5), July 21, 2010, 124 Stat. 1934.)
 
 #### References in Text
-
-Section 80b–5 of this title, referred to in subsec. (a)(3)(B)(iii), was amended generally by Pub. L. 100–181, title VII, §703, Dec. 4, 1987, 101 Stat. 1263, and, as so amended, the subject matter of former paragraph (1) and clauses (A) and (B) of section 80b–5 is contained in subsections (a)(1) and (b)(1) and (2) of section 80b–5.
 
 The Small Business Investment Act of 1958, referred to in subsec. (a)(4), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689), as amended, which is classified principally to chapter 14B (§661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
 #### Amendments
 
-1996—Subsec. (a)(2). Pub. L. 104–290, §506(1), substituted a period for “if such business development company does not have outstanding any publicly held indebtedness, and all such securities of each class are—
+<b>2010</b>—Subsec. (a)(3)(B)(iii). Pub. L. 111–203 substituted “section 80b–5(a)(1) of this title” for “paragraph (1) of section 80b–5 of this title” and “paragraph (1) or (2) of section 80b–5(b) of this title” for “clause (A) or (B) of that section”.
+
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–290, §506(1), substituted a period for “if such business development company does not have outstanding any publicly held indebtedness, and all such securities of each class are—
 
 &emsp;“(A) privately held or guaranteed by the Small Business Administration, or banks, insurance companies, or other institutional investors; and
 
@@ -66,5 +66,7 @@ Subsec. (a)(3)(A)(ii). Pub. L. 104–290, §506(2)(C), struck out “senior” b
 
 Subsec. (a)(3)(C). Pub. L. 104–290, §506(3), added subpar. (C).
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 

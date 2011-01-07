@@ -36,7 +36,7 @@ An entity that receives a grant, contract, or cooperative agreement under subsec
 
 #### (f) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section, $40,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal years 2002 and 2003.
+There are authorized to be appropriated to carry out this section, $40,000,000 for fiscal year2001, and such sums as may be necessary for fiscal years 2002 and 2003.
 
 (July 1, 1944, ch. 373, title V, §514, as added Pub. L. 106–310, div. B, title XXXI, §3104(a), Oct. 17, 2000, 114 Stat. 1171.)
 

@@ -1,7 +1,5 @@
 ### SUBCHAPTER IV—HUNTING AND CONSERVATION STAMP TAX
 
-<i><sup>1</sup></i><i> So in original. Probably should be “carcasses,”.</i>
-
 
 ---
 

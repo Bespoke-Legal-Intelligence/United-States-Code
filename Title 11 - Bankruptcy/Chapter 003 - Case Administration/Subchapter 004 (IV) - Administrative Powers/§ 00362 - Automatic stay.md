@@ -4,7 +4,7 @@
 
 &emsp;(1) the commencement or continuation, including the issuance or employment of process, of a judicial, administrative, or other action or proceeding against the debtor that was or could have been commenced before the commencement of the case under this title, or to recover a claim against the debtor that arose before the commencement of the case under this title;
 
-&emsp;(2) the enforcement, against the debtor or against property of the estate, of a judgmentobtained before the commencement of the case under this title;
+&emsp;(2) the enforcement, against the debtor or against property of the estate, of a judgment obtained before the commencement of the case under this title;
 
 &emsp;(3) any act to obtain possession of property of the estate or of property from the estate or to exercise control over property of the estate;
 
@@ -16,7 +16,7 @@
 
 &emsp;(7) the setoff of any debt owing to the debtor that arose before the commencement of the case under this title against any claim against the debtor; and
 
-&emsp;(8) the commencement or continuation of a proceeding before the United States Tax Court concerning a corporate debtor's tax liability for a taxable period the bankruptcy court may determine or concerning the tax liability of a debtor who is an individual for a taxable period ending before the date of the order for relief under this title.
+&emsp;(8) the commencement or continuation of a proceeding before the United States Tax Court concerning a tax liability of a debtor that is a corporation for a taxable period the bankruptcy court may determine or concerning the tax liability of a debtor who is an individual for a taxable period ending before the date of the order for relief under this title.
 
 (b) The filing of a petition under section 301, 302, or 303 of this title, or of an application under section 5(a)(3) of the Securities Investor Protection Act of 1970, does not operate as a stay—
 
@@ -138,7 +138,7 @@
 
 &emsp;&emsp;(C) if the case is a case under chapter 7 of this title concerning an individual or a case under chapter 9, 11, 12, or 13 of this title, the time a discharge is granted or denied;
 
-&emsp;(3) if a single or joint case is filed by or against debtor who is an individual in a case under chapter 7, 11, or 13, and if a single or joint case of the debtor was pending within the preceding 1-year period but was dismissed, other than a case refiled under a chapter other than chapter 7 after dismissal under section 707(b)—
+&emsp;(3) if a single or joint case is filed by or against a debtor who is an individual in a case under chapter 7, 11, or 13, and if a single or joint case of the debtor was pending within the preceding 1-year period but was dismissed, other than a case refiled under a chapter other than chapter 7 after dismissal under section 707(b)—
 
 &emsp;&emsp;(A) the stay under subsection (a) with respect to any action taken with respect to a debt or property securing such debt or with respect to any lease shall terminate with respect to the debtor on the 30th day after the filing of the later case;
 
@@ -166,7 +166,7 @@
 
 &emsp;&emsp;&emsp;(ii) as to any creditor that commenced an action under subsection (d) in a previous case in which the individual was a debtor if, as of the date of dismissal of such case, that action was still pending or had been resolved by terminating, conditioning, or limiting the stay as to actions of such creditor; and
 
-&emsp;(4)(A)(i) if a single or joint case is filed by or against a debtor who is an individual under this title, and if 2 or more single or joint cases of the debtor were pending within the previous year but were dismissed, other than a case refiled under section 707(b), the stay under subsection (a) shall not go into effect upon the filing of the later case; and
+&emsp;(4)(A)(i) if a single or joint case is filed by or against a debtor who is an individual under this title, and if 2 or more single or joint cases of the debtor were pending within the previous year but were dismissed, other than a case refiled under a chapter other than chapter 7 after dismissal under section 707(b), the stay under subsection (a) shall not go into effect upon the filing of the later case; and
 
 &emsp;(ii) on request of a party in interest, the court shall promptly enter an order confirming that no stay is in effect;
 
@@ -206,7 +206,7 @@
 
 &emsp;&emsp;&emsp;(ii) are in an amount equal to interest at the then applicable nondefault contract rate of interest on the value of the creditor's interest in the real estate; or
 
-&emsp;(4) with respect to a stay of an act against real property under subsection (a), by a creditor whose claim is secured by an interest in such real property, if the court finds that the filing of the petition was part of a scheme to delay, hinder, and defraud creditors that involved either—
+&emsp;(4) with respect to a stay of an act against real property under subsection (a), by a creditor whose claim is secured by an interest in such real property, if the court finds that the filing of the petition was part of a scheme to delay, hinder, or defraud creditors that involved either—
 
 &emsp;&emsp;(A) transfer of all or part ownership of, or other interest in, such real property without the consent of the secured creditor or court approval; or
 
@@ -248,7 +248,7 @@
 
 (k)(1) Except as provided in paragraph (2), an individual injured by any willful violation of a stay provided by this section shall recover actual damages, including costs and attorneys’ fees, and, in appropriate circumstances, may recover punitive damages.
 
-(2) If such violation is based on an action taken by an entity in the good faith belief that subsection (h) applies to the debtor, the recovery under paragraph (1) of this subsectionagainst such entity shall be limited to actual damages.
+(2) If such violation is based on an action taken by an entity in the good faith belief that subsection (h) applies to the debtor, the recovery under paragraph (1) of this subsection against such entity shall be limited to actual damages.
 
 (<i>l</i>)(1) Except as otherwise provided in this subsection, subsection (b)(22) shall apply on the date that is 30 days after the date on which the bankruptcy petition is filed, if the debtor files with the petition and serves upon the lessor a certification under penalty of perjury that—
 
@@ -256,7 +256,7 @@
 
 &emsp;(B) the debtor (or an adult dependent of the debtor) has deposited with the clerk of the court, any rent that would become due during the 30-day period after the filing of the bankruptcy petition.
 
-(2) If, within the 30-day period after the filing of the bankruptcy petition, the debtor (or an adult dependent of the debtor) complies with paragraph (1) and files with the court and serves upon the lessor a further certification under penalty of perjury that the debtor (or an adult dependent of the debtor) has cured, under nonbankrupcty <sup>1</sup> law applicable in the jurisdiction, the entire monetary default that gave rise to the judgment under which possession is sought by the lessor, subsection (b)(22) shall not apply, unless ordered to apply by the court under paragraph (3).
+(2) If, within the 30-day period after the filing of the bankruptcy petition, the debtor (or an adult dependent of the debtor) complies with paragraph (1) and files with the court and serves upon the lessor a further certification under penalty of perjury that the debtor (or an adult dependent of the debtor) has cured, under nonbankruptcy law applicable in the jurisdiction, the entire monetary default that gave rise to the judgment under which possession is sought by the lessor, subsection (b)(22) shall not apply, unless ordered to apply by the court under paragraph (3).
 
 (3)(A) If the lessor files an objection to any certification filed by the debtor under paragraph (1) or (2), and serves such objection upon the debtor, the court shall hold a hearing within 10 days after the filing and service of such objection to determine if the certification filed by the debtor under paragraph (1) or (2) is true.
 
@@ -326,7 +326,7 @@
 
 (<i>o</i>) The exercise of rights not subject to the stay arising under subsection (a) pursuant to paragraph (6), (7), (17), or (27) of subsection (b) shall not be stayed by any order of a court or administrative agency in any proceeding under this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2570; Pub. L. 97–222, §3, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§304, 363(b), 392, 441, July 10, 1984, 98 Stat. 352, 363, 365, 371; Pub. L. 99–509, title V, §5001(a), Oct. 21, 1986, 100 Stat. 1911; Pub. L. 99–554, title II, §§257(j), 283(d), Oct. 27, 1986, 100 Stat. 3115, 3116; Pub. L. 101–311, title I, §102, title II, §202, June 25, 1990, 104 Stat. 267, 269; Pub. L. 101–508, title III, §3007(a)(1), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 103–394, title I, §§101, 116, title II, §§204(a), 218(b), title III, §304(b), title IV, §401, title V, §501(b)(2), (d)(7), Oct. 22, 1994, 108 Stat. 4107, 4119, 4122, 4128, 4132, 4141, 4142, 4144; Pub. L. 105–277, div. I, title VI, §603, Oct. 21, 1998, 112 Stat. 2681–886; Pub. L. 109–8, title I, §106(f), title II, §§214, 224(b), title III, §§302, 303, 305(1), 311, 320, title IV, §§401(b), 441, 444, title VII, §§709, 718, title IX, §907(d), (<i>o</i>)(1), (2), title XI, §1106, title XII, §1225, Apr. 20, 2005, 119 Stat. 41, 54, 64, 75, 77, 79, 84, 94, 104, 114, 117, 127, 131, 176, 181, 182, 192, 199; Pub. L. 109–304, §17(b)(1), Oct. 6, 2006, 120 Stat. 1706; Pub. L. 109–390, §5(a)(2), Dec. 12, 2006, 120 Stat. 2696.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2570; Pub. L. 97–222, §3, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§304, 363(b), 392, 441, July 10, 1984, 98 Stat. 352, 363, 365, 371; Pub. L. 99–509, title V, §5001(a), Oct. 21, 1986, 100 Stat. 1911; Pub. L. 99–554, title II, §§257(j), 283(d), Oct. 27, 1986, 100 Stat. 3115, 3116; Pub. L. 101–311, title I, §102, title II, §202, June 25, 1990, 104 Stat. 267, 269; Pub. L. 101–508, title III, §3007(a)(1), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 103–394, title I, §§101, 116, title II, §§204(a), 218(b), title III, §304(b), title IV, §401, title V, §501(b)(2), (d)(7), Oct. 22, 1994, 108 Stat. 4107, 4119, 4122, 4128, 4132, 4141, 4142, 4144; Pub. L. 105–277, div. I, title VI, §603, Oct. 21, 1998, 112 Stat. 2681–886; Pub. L. 109–8, title I, §106(f), title II, §§214, 224(b), title III, §§302, 303, 305(1), 311, 320, title IV, §§401(b), 441, 444, title VII, §§709, 718, title IX, §907(d), (<i>o</i>)(1), (2), title XI, §1106, title XII, §1225, Apr. 20, 2005, 119 Stat. 41, 54, 64, 75, 77, 79, 84, 94, 104, 114, 117, 127, 131, 176, 181, 182, 192, 199; Pub. L. 109–304, §17(b)(1), Oct. 6, 2006, 120 Stat. 1706; Pub. L. 109–390, §5(a)(2), Dec. 12, 2006, 120 Stat. 2696; Pub. L. 111–327, §2(a)(12), Dec. 22, 2010, 124 Stat. 3558.)
 
 #### Historical and Revision Notes
 
@@ -344,7 +344,7 @@ Section 362(b)(6) of the House amendment adopts a provision contained in the Sen
 
 Section 362(d) of the House amendment represents a compromise between comparable provisions in the House bill and Senate amendment. Under section 362(d)(1) of the House amendment, the court may terminate, annul, modify, or condition the automatic stay for cause, including lack of adequate protection of an interest in property of a secured party. It is anticipated that the Rules of Bankruptcy Procedure will provide that those hearings will receive priority on the calendar. Under section 362(d)(2) the court may alternatively terminate, annul, modify, or condition the automatic stay for cause including inadequate protection for the creditor. The court shall grant relief from the stay if there is no equity and it is not necessary to an effective reorganization of the debtor.
 
-The latter requirement is contained in section 362(d)(2). This section is intended to solve the problem of real property mortgage foreclosures of property where the bankruptcy petition is filed on the eve of foreclosure. The section is not intended to apply if the business of the debtor is managing or leasing real property, such as a hotel operation, even though the debtor has no equity if the property is necessary to an effective reorganization of the debtor. Similarly, if the debtor does have an equity in the property, there is no requirement that the property be sold under section 363 of title 11 as would have been required by the Senate amendment.
+The latter requirement is contained in section 362(d)(2). This section is intended to solve the problemof real property mortgage foreclosures of property where the bankruptcy petition is filed on the eve of foreclosure. The section is not intended to apply if the business of the debtor is managing or leasing real property, such as a hotel operation, even though the debtor has no equity if the property is necessary to an effective reorganization of the debtor. Similarly, if the debtor does have an equity in the property, there is no requirement that the property be sold under section 363 of title 11 as would have been required by the Senate amendment.
 
 Section 362(e) of the House amendment represents a modification of provisions in H.R. 8200 as passed by the House and the Senate amendment to make clear that a final hearing must be commenced within 30 days after a preliminary hearing is held to determine whether a creditor will be entitled to relief from the automatic stay. In order to insure that those hearings will in fact occur within such 30-day period, it is anticipated that the rules of bankruptcy procedure provide that such final hearings receive priority on the court calendar.
 
@@ -374,17 +374,27 @@ At the expedited hearing under subsection (e), and at all hearings on relief fro
 
 Section 5(a)(3) of the Securities Investor Protection Act of 1970, referred to in subsecs. (a) and (b), is classified to section 78eee(a)(3) of Title 15, Commerce and Trade.
 
-The Social Security Act, referred to in subsec. (b)(2)(D) to (G), (28), is act Aug. 14, 1935, ch. 531, 49 Stat.620, as amended. Titles IV, XI, and XVIII of the Act are classified generally to subchapters IV (§601 et seq.), XI (§1301 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Sections 464, 466, and 1128B of the Act are classified to sections 664, 666, and 1320a–7b, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(2)(D) to (G), (28), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles IV, XI, and XVIII of the Act are classified generally to subchapters IV (§601 et seq.), XI (§1301 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Sections 464, 466, and 1128B of the Act are classified to sections 664, 666, and 1320a–7b, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The National Housing Act, referred in subsec. (b)(8), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (b)(16), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of Title 20, Education. Section 435(j) of the Act is classified to section 1085(j) of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(16), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. Section 435(j) of the Act is classified to section 1085(j) of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (b)(19), is classified generally to Title 26, Internal Revenue Code.
 
 Section 408(b)(1) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(19)(A), is classified to section 1108(b)(1) of Title 29, Labor.
 
 #### Amendments
+
+2010—Subsec. (a)(8). Pub. L. 111–327, §2(a)(12)(A), substituted “tax liability of a debtor that is a corporation” for “corporate debtor's tax liability”.
+
+Subsec. (c)(3). Pub. L. 111–327, §2(a)(12)(B)(i), inserted “a” after “against” in introductory provisions.
+
+Subsec. (c)(4)(A)(i). Pub. L. 111–327, §2(a)(12)(B)(ii), inserted “under a chapter other than chapter 7 after dismissal” after “refiled”.
+
+Subsec. (d)(4). Pub. L. 111–327, §2(a)(12)(C), substituted “hinder, or” for “hinder, and” in introductory provisions.
+
+Subsec. (<i>l</i>)(2). Pub. L. 111–327, §2(a)(12)(D), substituted “nonbankruptcy” for “nonbankrupcty”.
 
 2006—Subsec. (b)(6), (7). Pub. L. 109–390, §5(a)(2)(A), added pars. (6) and (7) and struck out former pars. (6) and (7) which read as follows:
 
@@ -510,7 +520,7 @@ Pub. L. 101–311, §102(2), substituted “; or” for period at end.
 
 Subsec. (b)(14) to (16). Pub. L. 101–508, §3007(a)(1)(C), added pars. (14) to (16). Notwithstanding directory language adding pars. (14) to (16) immediately following par. (13), pars. (14) to (16) were added after par. (14), as added by Pub. L. 101–311, to reflect the probable intent of Congress.
 
-Pub. L. 101–311, §102(3), added par. (14) relating to the setoff by a swap participant of any mutual debt and claim under or in connection with a swap agreement. Notwithstanding directory language adding par. (14) at end of subsec. (b), par. (14) was added after par. (13) to reflect the probable intent of Congress.
+Pub. L. 101–311, §102(3), added par. (14) relating to the setoff by a swap participant of any mutual debt and claim under or in connection with a swap agreement.Notwithstanding directory language adding par. (14) at end of subsec. (b), par. (14) was added after par. (13) to reflect the probable intent of Congress.
 
 1986—Subsec. (b). Pub. L. 99–509 inserted sentence at end.
 
@@ -595,6 +605,4 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Report to Congressional Committees
 
 Section 5001(a) of Pub. L. 99–509 directed Secretary of Transportation and Secretary of Commerce, before July 1, 1989, to submit reports to Congress on the effects of amendments to 11 U.S.C. 362 by this subsection.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “nonbankruptcy”.</i>
 

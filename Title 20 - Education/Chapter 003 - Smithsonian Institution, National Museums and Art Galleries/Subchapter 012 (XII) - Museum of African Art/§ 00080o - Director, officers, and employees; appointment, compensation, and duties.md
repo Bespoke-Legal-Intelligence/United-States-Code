@@ -4,7 +4,3 @@ The Board may appoint and fix the compensation and duties of the Director and su
 
 (Pub. L. 95–414, §5, Oct. 5, 1978, 92 Stat. 912.)
 
-#### References in Text
-
-Provisions of title 5 governing appointments in the competitive service, referred to in text, are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-

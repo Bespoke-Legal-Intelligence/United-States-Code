@@ -108,7 +108,7 @@ Not later than 3 years after October 10, 2000, each Federal agency that has juri
 
 &emsp;(2) is consistent with the performance criteria published under subsection (a) of this section;
 
-&emsp;(3) includes a completed report on the information specified in subsection (b)(3)(A) of this section, to be submitted to the Administrator; and
+&emsp;(3) includes a completed report on the information specified in subsection (b)(3)(A) of thissection, to be submitted to the Administrator; and
 
 &emsp;(4) addresses the matters specified in subsection (c) of this section.
 
@@ -132,7 +132,7 @@ The Administrator shall provide technical assistance to States and local governm
 
 #### (1) In general
 
-&emsp;Beginning not later than 18 months after the date of publication of performance criteria under subsection (a) of this section, based on information made available to the Administrator, the Administrator shall identify, andmaintain a list of, discrete coastal recreation waters adjacent to beaches or similar points of access that are used by the public that—
+&emsp;Beginning not later than 18 months after the date of publication of performance criteria under subsection (a) of this section, based on information made available to the Administrator, the Administrator shall identify, and maintain a list of, discrete coastal recreation waters adjacent to beaches or similar points of access that are used by the public that—
 
 &emsp;&emsp;(A) specifies any waters described in this paragraph that are subject to a monitoring and notification program consistent with the performance criteria established under subsection (a) of this section; and
 

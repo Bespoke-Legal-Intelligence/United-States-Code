@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Secretary of the Navy shall establish a program to be known as the “National Oceanographic Partnership Program”.
+Establishment.—The Secretary of the Navy shall establish a program to be known asthe “National Oceanographic Partnership Program”.
 
 (b)
 

@@ -22,11 +22,11 @@ A prior section 2107 was renumbered section 2111 of this title.
 
 #### Amendments
 
-1984—Pub. L. 98–497, §107(a)(1), substituted “Archivist” for “Administrator of General Services” in provisions preceding par. (1), substituted “, the Congress, the Architect of the Capitol, or the Supreme Court” for “or of the Congress” in par. (1), substituted “Archivist” for “Administrator” in par. (2), and substituted “Archivist” for “Administrator” and “section 2111” for “section 2107” in par. (4).
+<b>1984</b>—Pub. L. 98–497, §107(a)(1), substituted “Archivist” for “Administrator of General Services” in provisions preceding par. (1), substituted “, the Congress, the Architect of the Capitol, or the Supreme Court” for “or of the Congress” in par. (1), substituted “Archivist” for “Administrator” in par. (2), and substituted “Archivist” for “Administrator” and “section 2111” for “section 2107” in par. (4).
 
-1978—Par. (2). Pub. L. 95–416 substituted “thirty years” for “fifty years”.
+<b>1978</b>—Par. (2). Pub. L. 95–416 substituted “thirty years” for “fifty years”.
 
-1976—Par. (4). Pub. L. 94–575 substituted reference to section “2107” for “3106”.
+<b>1976</b>—Par. (4). Pub. L. 94–575 substituted reference to section “2107” for “3106”.
 
 #### Effective Date of 1984 Amendment
 

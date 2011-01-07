@@ -36,7 +36,7 @@ In addition to any authority vested in the Institute by other provisions of this
 
 &emsp;(6) accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
 
-&emsp;(7) enter into contracts, grants or other arrangements, or modifications thereof to carry out the provisions of this section, and such contracts or modifications thereof may be entered into without performance or other bonds, and without regard to section 5 of title 41, or any other provision of law relating to competitive bidding;
+&emsp;(7) enter into contracts, grants or other arrangements, or modifications thereof to carry out the provisions of this section, and such contracts or modifications thereof may be entered into without performance or other bonds, and without regard to section 6101 of title 41 or any other provision of law relating to competitive bidding;
 
 &emsp;(8) make advance, progress, and other payments which the Director deems necessary under this title without regard to the provisions of section 3324(a) and (b) of title 31; and
 
@@ -122,19 +122,19 @@ The Director shall submit to the Secretary of Health and Human Services, to the 
 
 #### References in Text
 
-The civil service laws, referred to in subsec. (e)(4), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
-The Toxic Substances Control Act, referred to in subsec. (g)(1)(B)(i), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended. Title IV of the Act is classified generally to subchapter IV (§2681 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
+The Toxic Substances Control Act, referred to in subsec. (g)(1)(B)(i), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003. Title IV of the Act is classified generally to subchapter IV (§2681 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
 #### Codification
+
+In subsec. (e)(7), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes, as amended (41 U.S.C. 5),” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (e)(8), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes, as amended (31 U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-2006—Subsec. (h). Pub. L. 109–236 added subsec. (h).
+<b>2006</b>—Subsec. (h). Pub. L. 109–236 added subsec. (h).
 
-1992—Subsec. (g). Pub. L. 102–550 added subsec. (g).
+<b>1992</b>—Subsec. (g). Pub. L. 102–550 added subsec. (g).
 
 #### Change of Name
 
@@ -144,5 +144,5 @@ Committee on Education and the Workforce of House of Representatives changed to 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (f) of this section relating to submitting annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 97 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (f) of this section relating to submitting annual report to Congress, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 97 of House Document No. 103–7.
 

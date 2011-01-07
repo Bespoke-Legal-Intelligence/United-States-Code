@@ -42,7 +42,7 @@ Section was enacted as part of the USEC Privatization Act and also as part of th
 
 #### Amendments
 
-2008—Pub. L. 110–329 substituted “Except as provided in section 2297h–10a of this title, for purposes” for “For purposes” in introductory provisions.
+<b>2008</b>—Pub. L. 110–329 substituted “Except as provided in section 2297h–10a of this title, for purposes” for “For purposes” in introductory provisions.
 
 #### Ex. Ord. No. 13085. Establishment of Enrichment Oversight Committee
 

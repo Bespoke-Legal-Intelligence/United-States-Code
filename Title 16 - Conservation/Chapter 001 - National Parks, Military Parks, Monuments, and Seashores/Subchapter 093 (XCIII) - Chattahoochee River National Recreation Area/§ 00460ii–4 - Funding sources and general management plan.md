@@ -42,7 +42,7 @@ Effective on October 1, 1978, there are authorized to be appropriated not to exc
 
 #### (d) Federal actions affecting corridor area; procedural requirements: notification of Secretary, Secretary's recommendations or notification of Congressional committees, copies of decisions and recommendations to Congressional committees; concurrence condition; exemptions
 
-(1) Whenever any Federal department, agency, or instrumentality proposes to undertake anyaction, or provide Federal assistance for any action, or issue any license or permit for an action within the corridor referred to in section 460ii of this title which may have a direct and adverse effect on the natural or cultural resources of the recreation area, the head of such department, agency, or instrumentality shall—
+(1) Whenever any Federal department, agency, or instrumentality proposes to undertake any action, or provide Federal assistance for any action, or issue any license or permit for an action within the corridor referred to in section 460ii of this title which may have a direct and adverse effect on the natural or cultural resources of the recreation area, the head of such department, agency, or instrumentality shall—
 
 &emsp;(A) promptly notify the Secretary of the action at the time it is planning the action, preparing an environmental assessment regarding the action, or preparing an environmental impact statement under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] for the action;
 
@@ -52,7 +52,7 @@ Effective on October 1, 1978, there are authorized to be appropriated not to exc
 
 > The requirements of this subsection shall be carried out in accordance with procedures established by the Federal agency responsible for undertaking or approving the Federal action. These procedures may utilize the procedures developed by such Agency pursuant to the National Environmental Policy Act \[42 U.S.C. 4321 et seq.\].
 
-(2) Following receipt of notification pursuant to paragraph (1)(A), the Secretary, after consultation with the Governor of Georgia, shall make such comments and recommendations as the Secretary deems appropriate pursuant to paragraph (1)(B) as promptly as practicable in accordance with the notifying agency's procedures established pursuant to paragraph (1)(A). In any instance in which the Secretary does not provide comments and recommendations under paragraph (1)(B), the Secretary shall notify in writing, the appropriate committees of Congress.
+(2) Following receipt of notification pursuant to paragraph (1)(A), the Secretary, after consultation with the Governor of Georgia, shall make such comments and recommendations asthe Secretary deems appropriate pursuant to paragraph (1)(B) as promptly as practicable in accordance with the notifying agency's procedures established pursuant to paragraph (1)(A). In any instance in which the Secretary does not provide comments and recommendations under paragraph (1)(B), the Secretary shall notify in writing, the appropriate committees of Congress.
 
 (3) Following receipt of the notifying agency's decisions pursuant to paragraph (1)(C), the Secretary shall submit to the appropriate committees of Congress, including the authorizing committees with primary jurisdiction for the program under which the proposed action is being taken, a copy of the notifying agency's specific decisions made pursuant to paragraph (1)(C), along with a copy of the comments and recommendations made pursuant to paragraph (1)(B).
 
@@ -86,7 +86,7 @@ The Clean Air Act, referred to in subsec. (d)(6), is act July 14, 1955, ch. 360,
 
 #### Amendments
 
-1999—Pub. L. 106–154, §2(d)(1), inserted section catchline.
+<b>1999</b>—Pub. L. 106–154, §2(d)(1), inserted section catchline.
 
 Subsec. (a). Pub. L. 106–154, §2(d)(1), (2), inserted subsec. heading, designated existing provisions as par. (1), inserted heading, substituted “$115,000,000” for “$79,400,000” and “this subchapter” for “this subchapter and chapter 43 of this title”, and added pars. (2) and (3).
 
@@ -94,7 +94,7 @@ Subsec. (c). Pub. L. 106–154, §2(d)(3), inserted subsec. heading, designated 
 
 Subsec. (c)(1)(A). Pub. L. 106–154, §2(e)(4), substituted “of this subchapter” for “of this subchapter and chapter 43 of this title”.
 
-1984—Subsec. (a). Pub. L. 98–568, §1(e)(1), substituted “$79,400,000” for “$72,900,000” and inserted provision respecting applicable statutory ceiling on appropriations.
+<b>1984</b>—Subsec. (a). Pub. L. 98–568, §1(e)(1), substituted “$79,400,000” for “$72,900,000” and inserted provision respecting applicable statutory ceiling on appropriations.
 
 Subsec. (c). Pub. L. 98–568, §1(e)(2), substituted “seven years” for “three years”.
 

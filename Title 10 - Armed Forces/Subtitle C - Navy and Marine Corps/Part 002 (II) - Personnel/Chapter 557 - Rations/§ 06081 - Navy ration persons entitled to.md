@@ -38,9 +38,9 @@ In subsection (c) the words “prescribed by law” and “in accordance with la
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–85 substituted “Each enlisted member” for “Except when entitled to a basic allowance for subsistence or to a per diem in place of subsistence, each enlisted member”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–85 substituted “Each enlisted member” for “Except when entitled to a basic allowance for subsistence or to a per diem in place of subsistence, each enlisted member”.
 
-1962—Subsec. (b). Pub. L. 87–649 struck out provisions which permitted payment of the commuted value of the ration in money. See section 422(b) of Title 37, Pay and Allowances of the Uniformed Services.
+<b>1962</b>—Subsec. (b). Pub. L. 87–649 struck out provisions which permitted payment of the commuted value of the ration in money. See section 422(b) of Title 37, Pay and Allowances of the Uniformed Services.
 
 Subsec. (c). Pub. L. 87–649 struck out provisions which permitted the Secretary to prescribe regulations for the allowance of the commuted value of the ration. See section 422(b) of Title 37, Pay and Allowances of the Uniformed Services.
 

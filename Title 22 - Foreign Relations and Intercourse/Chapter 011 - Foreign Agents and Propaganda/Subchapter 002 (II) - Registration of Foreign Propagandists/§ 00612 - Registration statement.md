@@ -18,7 +18,7 @@ No person shall act as an agent of a foreign principal unless he has filed with 
 
 &emsp;(7) The name, business, and residence addresses, and if an individual, the nationality, of any person other than a foreign principal for whom the registrant is acting, assuming or purporting to act or has agreed to act under such circumstances as require his registration hereunder; the extent to which each such person is supervised, directed, owned, controlled, financed, or subsidized, in whole or in part, by any government of a foreign country or foreign political party or by any other foreign principal; and the nature and amount of contributions, income, money, or thing of value, if any, that the registrant has received during the preceding sixty days from each such person in connection with any of the activities referred to in clause (6) of this subsection, either as compensation or for disbursement or otherwise, and the form and time of each such payment and from whom received;
 
-&emsp;(8) A detailed statement of the money and other things of value spent or disposed of by the registrant during the preceding sixty days in furtherance of or in connection with activities which require his registration hereunderand which have been undertaken by him either as an agent of a foreign principal or for himself or any other person or in conection <sup>1</sup> with any activities relating to his becoming an agent of such principal, and a detailed statement of any contributions of money or other things of value made by him during the preceding sixty days (other than contributions the making of which is prohibited under the terms of section 613 <sup>2</sup> of title 18) in connection with an election to any political office or in connection with any primary election, convention, or caucus held to select candidates for any political office;
+&emsp;(8) A detailed statement of the money and other things of value spent or disposed of by the registrant during the preceding sixty days in furtherance of or in connection with activities which require his registration hereunder and which have been undertaken by him either as an agent of a foreign principal or for himself or any other person or in conection <sup>1</sup> with any activities relating to his becoming an agent of such principal, and a detailed statement of any contributions of money or other things of value made by him during the preceding sixty days (other than contributions the making of which is prohibited under the terms of section 613 <sup>2</sup> of title 18) in connection with an election to any political office or in connection with any primary election, convention, or caucus held to select candidates for any political office;
 
 &emsp;(9) Copies of each written agreement and the terms and conditions of each oral agreement, including all modifications of such agreements, or, where no contract exists, a full statement of all the circumstances, by reason of which the registrant is performing or assuming or purporting or has agreed to perform for himself or for a foreign principal or for any person other than a foreign principal any activities which require his registration hereunder;
 
@@ -56,7 +56,7 @@ The Attorney General may, by regulation, provide for the exemption—
 
 A registration statement or supplement required to be filed under this section shall be filed in electronic form, in addition to any other form that may be required by the Attorney General.
 
-(June 8, 1938, ch. 327, §2, 52 Stat. 632; Apr. 29, 1942, ch. 263, §1, 56 Stat. 251; Aug. 3, 1950, ch. 524, §1, 64 Stat. 399; Pub. L. 89–486, §2, July 4, 1966, 80 Stat. 245; Pub. L. 110–81, title II, §212(a), Sept. 14, 2007, 121 Stat. 749.)
+(June 8, 1938, ch. 327, §2, 52 Stat. 632; Apr. 29, 1942, ch. 263, §1, 56 Stat. 251; Aug. 3, 1950, ch. 524, §1, 64 Stat. 399; Pub. L. 89–486, §2, July 4, 1966, 80Stat. 245; Pub. L. 110–81, title II, §212(a), Sept. 14, 2007, 121 Stat. 749.)
 
 #### References in Text
 
@@ -72,9 +72,9 @@ Provisions on this subject were contained in sections 612 and 613 of this title 
 
 #### Amendments
 
-2007—Subsec. (g). Pub. L. 110–81 added subsec. (g).
+<b>2007</b>—Subsec. (g). Pub. L. 110–81 added subsec. (g).
 
-1966—Subsec. (a). Pub. L. 89–486, §2(1), struck out requirement for transmittal of registration statements by the Attorney General to the Secretary of State and provision declaring a failure of transmission not to be a bar to prosecutions, now covered in section 616(b) of this title.
+<b>1966</b>—Subsec. (a). Pub. L. 89–486, §2(1), struck out requirement for transmittal of registration statements by the Attorney General to the Secretary of State and provision declaring a failure of transmission not to be a bar to prosecutions, now covered in section 616(b) of this title.
 
 Subsec. (a)(3). Pub. L. 89–486, §2(2), struck out “, unless, and to the extent, this requirement is waived in writing by the Attorney General” after “statement of the nature of the work of each” and provided for a statement of the extent to which a foreign principal is supervised, directed, etc., by any other foreign principal.
 
@@ -86,9 +86,9 @@ Subsec. (a)(8). Pub. L. 89–486, §2(6), inserted requirement that agent report
 
 Subsec. (f). Pub. L. 89–486, §2(7), added subsec. (f).
 
-1950—Subsec. (a). Act Aug. 3, 1950, made failure to register a continuing offense.
+<b>1950</b>—Subsec. (a). Act Aug. 3, 1950, made failure to register a continuing offense.
 
-1942—Act Apr. 29, 1942, amended section generally.
+<b>1942</b>—Act Apr. 29, 1942, amended section generally.
 
 #### Effective Date of 2007 Amendment
 

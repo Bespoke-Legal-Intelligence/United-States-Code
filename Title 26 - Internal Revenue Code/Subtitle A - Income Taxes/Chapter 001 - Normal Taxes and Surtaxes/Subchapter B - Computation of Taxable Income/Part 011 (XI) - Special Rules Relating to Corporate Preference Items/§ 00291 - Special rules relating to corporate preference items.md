@@ -54,7 +54,7 @@ For purposes of this subtitle, in the case of a corporation—
 
 #### (4) Integrated oil company defined
 
-&emsp;For purposes of this subsection, the term “integrated oil company” means, with respect to any taxable year, any producer of crude oil to whom subsection (c) of section 613A does not apply by reason of paragraph (2) or (4) of section 613A(d).
+&emsp;For purposes of this subsection, the term “integrated oil company” means, with respect to any taxable year, any producer of crude oilto whom subsection (c) of section 613A does not apply by reason of paragraph (2) or (4) of section 613A(d).
 
 #### (5) Coordination with cost depletion
 
@@ -116,9 +116,9 @@ For purposes of this section—
 
 #### Amendments
 
-2009—Subsec. (e)(1)(B)(iv). Pub. L. 111–5 inserted at end “That portion of any obligation not taken into account under paragraph (2)(A) of section 265(b) by reason of paragraph (7) of such section shall be treated for purposes of this section as having been acquired on August 7, 1986.”
+<b>2009</b>—Subsec. (e)(1)(B)(iv). Pub. L. 111–5 inserted at end “That portion of any obligation not taken into account under paragraph (2)(A) of section 265(b) by reason of paragraph (7) of such section shall be treated for purposes of this section as having been acquired on August 7, 1986.”
 
-2007—Subsec. (a)(4), (5). Pub. L. 110–172, §11(g)(6)(A), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “In the case of taxable years beginning after December 31, 1984, section 923(a) shall be applied with respect to any FSC by substituting—
+<b>2007</b>—Subsec. (a)(4), (5). Pub. L. 110–172, §11(g)(6)(A), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “In the case of taxable years beginning after December 31, 1984, section 923(a) shall be applied with respect to any FSC by substituting—
 
 &emsp;“(A) ‘30 percent’ for ‘32 percent’ in paragraph (2), and
 
@@ -128,25 +128,25 @@ For purposes of this section—
 
 Subsec. (c)(1). Pub. L. 110–172, §11(g)(6)(B), substituted “subsection (a)(4)” for “subsection (a)(5)”.
 
-1996—Subsec. (e)(1)(B)(i). Pub. L. 104–188, §1616(b)(5), struck out “or to which section 593 applies” after “585(a)(2))”.
+<b>1996</b>—Subsec. (e)(1)(B)(i). Pub. L. 104–188, §1616(b)(5), struck out “or to which section 593 applies” after “585(a)(2))”.
 
 Subsec. (e)(1)(B)(iv), (v). Pub. L. 104–188, §1602(b)(1), redesignated cl. (v) as (iv) and struck out former cl. (iv) which read as follows: “
 
 Special rules for obligations to which section 133 applies.—In the case of an obligation to which section 133 applies, interest on such obligation shall not be treated as exempt from taxes for purposes of this subparagraph.”
 
-1990—Subsec. (e)(1)(A). Pub. L. 101–508 struck out subpar. (A) “Excess reserves for losses on bad debts of financial institutions” which read as follows: “In the case of a financial institution to which section 585 applies, the excess of—
+<b>1990</b>—Subsec. (e)(1)(A). Pub. L. 101–508 struck out subpar. (A) “Excess reserves for losses on bad debts of financial institutions” which read as follows: “In the case of a financial institution to which section 585 applies, the excess of—
 
 &emsp;“(i) the amount which would, but for this section, be allowable as a deduction for the taxable year for a reasonable addition to a reserve for bad debts, over
 
 &emsp;“(ii) the amount which would have been allowable had such institution maintained its bad debt reserve for all taxable years on the basis of actual experience.”
 
-1988—Subsec. (b)(4). Pub. L. 100–418 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “For purposes of this subsection, the term ‘integrated oil company’ means, with respect to any taxable year, any producer (within the meaning of section 4996(a)(1)) of crude oil other than an independent producer (within the meaning of section 4992(b)).”
+<b>1988</b>—Subsec. (b)(4). Pub. L. 100–418 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “For purposes of this subsection, the term ‘integrated oil company’ means, with respect to any taxable year, any producer (within the meaning of section 4996(a)(1)) of crude oil other than an independent producer (within the meaning of section 4992(b)).”
 
 Subsec. (e)(1)(B)(i). Pub. L. 100–647, §1009(b)(5), substituted “section 585(a)(2)” for “section 582(a)(2)”.
 
 Subsec. (e)(1)(B)(iv), (v). Pub. L. 100–647, §1009(b)(4), redesignated cl. (iv), relating to application of subparagraph to certain obligations issued after Aug. 7, 1986, as (v).
 
-1986—Subsec. (a). Pub. L. 99–514, §1804(k)(3)(A), substituted “Reduction” for “20-percent reduction” in heading.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1804(k)(3)(A), substituted “Reduction” for “20-percent reduction” in heading.
 
 Subsec. (a)(1)(A). Pub. L. 99–514, §201(d)(5)(A), struck out “or section 1245 recovery property” after “section 1245 property”.
 
@@ -182,7 +182,7 @@ Pub. L. 99–514, §902(c)(2)(D), added cl. (iv) relating to application of subp
 
 Subsec. (e)(2). Pub. L. 99–514, §201(d)(5)(C), struck out “, ‘section 1245 recovery property’,” after “ ‘section 1245 property’ ” and directed that par. (2) be amended by striking out “, section 1245(a)(5),” which was executed by striking out “, 1245(a)(5),” after “sections 1245(a)(3)” to reflect the probable intent of Congress.
 
-1984—Subsec. (a). Pub. L. 98–369, §68(a), which directed that each subsection be amended by substituting “20 percent” for “15 percent” wherever appearing, was executed in heading by substituting “20-percent” for “15-percent” to reflect the probable intent of Congress.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §68(a), which directed that each subsection be amended by substituting “20 percent” for “15 percent” wherever appearing, was executed in heading by substituting “20-percent” for “15-percent” to reflect the probable intent of Congress.
 
 Subsec. (a)(1). Pub. L. 98–369, §68(a), substituted “20 percent” for “15 percent” in provisions preceding subpar. (A).
 
@@ -208,9 +208,9 @@ Subsec. (b)(6). Pub. L. 98–369, §712(a)(3), substituted “attributable to am
 
 Subsec. (e)(1)(B)(iii). Pub. L. 98–369, §712(a)(4), added cl. (iii).
 
-1983—Subsec. (a)(1). Pub. L. 97–448 inserted provision that, under regulations prescribed by the Secretary, the provisions of this paragraph shall not apply to the disposition of any property to the extent section 1250(a) does not apply to such disposition by reason of section 1250(d).
+<b>1983</b>—Subsec. (a)(1). Pub. L. 97–448 inserted provision that, under regulations prescribed by the Secretary, the provisions of this paragraph shall not apply to the disposition of any property to the extent section 1250(a) does not apply to such disposition by reason of section 1250(d).
 
-1982—Subsec. (a). Pub. L. 97–354, §5(a)(27)(A), substituted “a corporation” for “an applicable corporation” wherever appearing.
+<b>1982</b>—Subsec. (a). Pub. L. 97–354, §5(a)(27)(A), substituted “a corporation” for “an applicable corporation” wherever appearing.
 
 Subsec. (b). Pub. L. 97–354, §5(a)(27)(A), substituted “a corporation” for “an applicable corporation”.
 
@@ -268,7 +268,7 @@ Pollution control facilities.—The amendments made by this section to section 2
 
 “(4)
 
-Drilling and mining costs.—The amendments made by this section to section 291(b) of such Code shallapply to expenditures after December 31, 1984, in taxable years ending after such date.”
+Drilling and mining costs.—The amendments made by this section to section 291(b) of such Code shall apply to expenditures after December 31, 1984, in taxable years ending after such date.”
 
 Amendment by section 712 of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 

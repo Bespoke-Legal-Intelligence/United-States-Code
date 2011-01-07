@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;There is hereby imposed on the sale of any article of sport fishing equipment by themanufacturer, producer, or importer a tax equal to 10 percent of the price for which so sold.
+&emsp;&emsp;There is hereby imposed on the sale of any article of sport fishing equipment by the manufacturer, producer, or importer a tax equal to 10 percent of the price for which so sold.
 
 #### (B) Limitation on tax imposed on fishing rods and poles
 
@@ -88,9 +88,9 @@
 
 #### Amendments
 
-2008—Subsec. (b)(2)(B), (C). Pub. L. 110–343 added subpar. (B) and redesignated former subpar. (B) as (C).
+<b>2008</b>—Subsec. (b)(2)(B), (C). Pub. L. 110–343 added subpar. (B) and redesignated former subpar. (B) as (C).
 
-2005—Subsec. (a)(1). Pub. L. 109–59, §11117(a), reenacted heading without change and amended text of par. (1) generally, designating existing provisions as subpar. (A), inserting subpar. heading, and adding subpar. (B).
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §11117(a), reenacted heading without change and amended text of par. (1) generally, designating existing provisions as subpar. (A), inserting subpar. heading, and adding subpar. (B).
 
 Subsec. (a)(2). Pub. L. 109–135 amended heading and text of par. (2) generally. Prior to amendment, text read as follows:
 
@@ -104,7 +104,7 @@ limitation on tax imposed on sonar devices suitable for finding fish.—The tax 
 
 Pub. L. 109–59, §11117(b), substituted “paragraph (1)(A)” for “paragraph (1)” in two places.
 
-2004—Subsec. (a)(3), (4). Pub. L. 108–357, §333(a), added par. (3) and redesignated former par. (3) as (4).
+<b>2004</b>—Subsec. (a)(3), (4). Pub. L. 108–357, §333(a), added par. (3) and redesignated former par. (3) as (4).
 
 Subsec. (b)(1). Pub. L. 108–357, §332(a), reenacted heading without change and amended text of par. (1) generally, substituting provisions imposing a tax on the sale of any bow which has a peak draw weight of 30 pounds or more, any part or accessory, and any quiver or broadhead suitable for use with an arrow described in par. (2), for provisions imposing a tax on the sale of any bow which has a draw weight of 10 pounds or more, any part of accessory, and any quiver suitable for use with arrows described in par. (2).
 
@@ -118,11 +118,11 @@ Subsec. (b)(3), (4). Pub. L. 108–493, §1(a), repealed Pub. L. 108–357, §33
 
 Pub. L. 108–357, §332(b), which directed the amendment of subsec. (b) by adding par. (3), relating to arrows, and redesignating former par. (3) as (4), was repealed by Pub. L. 108–493, §1(a). See Construction of 2004 Amendment note below.
 
-1997—Subsec. (b). Pub. L. 105–34 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) imposing taxes on bows and arrows and parts and accessories and providing for coordination of taxes under subsecs. (a) and (b).
+<b>1997</b>—Subsec. (b). Pub. L. 105–34 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) imposing taxes on bows and arrows and parts and accessories and providing for coordination of taxes under subsecs. (a) and (b).
 
-1986—Subsec. (b)(1)(B)(ii). Pub. L. 99–514 substituted a comma for the period at end.
+<b>1986</b>—Subsec. (b)(1)(B)(ii). Pub. L. 99–514 substituted a comma for the period at end.
 
-1984—Subsec. (a). Pub. L. 98–369, §1015(a), in amending subsec. (a) generally, designated existing provisions as par. (1), substituted “any article of sport fishing equipment by the manufacturer, producer, or importer” for “fishing rods, creels, reels, and artificial lures, baits, and flies (including parts or accessories of such articles sold on or in connection therewith, or with the sale thereof) by the manufacturer, producer, or importer”, and added pars. (2) and (3).
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §1015(a), in amending subsec. (a) generally, designated existing provisions as par. (1), substituted “any article of sport fishing equipment by the manufacturer, producer, or importer” for “fishing rods, creels, reels, and artificial lures, baits, and flies (including parts or accessories of such articles sold on or in connection therewith, or with the sale thereof) by the manufacturer, producer, or importer”, and added pars. (2) and (3).
 
 Subsec. (b)(1)(B). Pub. L. 98–369, §1017(a), designated existing provisions as cl. (i) and added cl. (ii).
 
@@ -130,11 +130,11 @@ Subsec. (b)(2)(A). Pub. L. 98–369, §1017(b)(2), struck out “(other than a f
 
 Subsec. (b)(3). Pub. L. 98–369, §1017(b)(1), added par. (3).
 
-1972—Subsec. (a). Pub. L. 92–558, §201(a)(1), designated existing provisions as subsec. (a) and inserted catchline.
+<b>1972</b>—Subsec. (a). Pub. L. 92–558, §201(a)(1), designated existing provisions as subsec. (a) and inserted catchline.
 
 Subsec. (b). Pub. L. 92–558, §201(a)(2), added subsec. (b).
 
-1965—Pub. L. 89–44 removed 10 percent tax on equipment for billiards, pool, bowling, trap shooting, cricket, croquet, badminton, curling, deck tennis, golf, lacrosse, polo, skiing, squash, table tennis, and tennis, and retained tax only for fishing equipment.
+<b>1965</b>—Pub. L. 89–44 removed 10 percent tax on equipment for billiards, pool, bowling, trap shooting, cricket, croquet, badminton, curling, deck tennis, golf, lacrosse, polo, skiing, squash, table tennis, and tennis, and retained tax only for fishing equipment.
 
 #### Effective Date of 2008 Amendment
 
@@ -158,7 +158,7 @@ Section 1433(b) of Pub. L. 105–34 provided that: “The amendment made by subs
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 1015(a) of Pub. L. 98–369 applicable with respect to articles sold by the manufacturer, producer, or importer after Sept. 30, 1984, see section 1015(e) of Pub. L. 98–369, set out as an Effective Date note under section 4162 of this title.
+Amendment by section 1015(a) of Pub. L. 98–369 applicable with respect to articles sold by the manufacturer,producer, or importer after Sept. 30, 1984, see section 1015(e) of Pub. L. 98–369, set out as an Effective Date note under section 4162 of this title.
 
 Section 1017(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer after September 30, 1984.”
 

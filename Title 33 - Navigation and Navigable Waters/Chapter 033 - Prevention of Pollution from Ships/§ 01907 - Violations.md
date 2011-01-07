@@ -36,7 +36,7 @@ Upon receipt of evidence that a violation has occurred, the Secretary shall caus
 
 (1) The Secretary may inspect a ship to which this chapter applies as provided under section 1902(a)(5) of this title, to verify whether the ship is in compliance with Annex VI to the Convention and this chapter.
 
-(2) If an inspection under this subsection or any other information indicates that a violationhas occurred, the Secretary, or the Administrator in a matter referred by the Secretary, may undertake enforcement action under this section.
+(2) If an inspection under this subsection or any other information indicates that a violation has occurred, the Secretary, or the Administrator in a matter referred by the Secretary, may undertake enforcement action under this section.
 
 (3) Notwithstanding subsection (b) and paragraph (2) of this subsection, the Administrator shall have all of the authorities of the Secretary, as specified in subsection (b) of this section, for the purposes of enforcing regulations 17 and 18 of Annex VI to the Convention to the extent that shoreside violations are the subject of the action and in any other matter referred to the Administrator by the Secretary.
 
@@ -44,9 +44,9 @@ Upon receipt of evidence that a violation has occurred, the Secretary shall caus
 
 #### Amendments
 
-2008—Subsec. (f). Pub. L. 110–280 amended subsec. (f) generally. Prior to amendment, text read as follows: “Remedies and requirements of this chapter supplement and neither amend nor repeal any other provisions of law, except as expressly provided in this chapter. Nothing in this chapter shall limit, deny, amend, modify, or repeal any other remedy available to the United States or any other person, except as expressly provided in this chapter.”
+<b>2008</b>—Subsec. (f). Pub. L. 110–280 amended subsec. (f) generally. Prior to amendment, text read as follows: “Remedies and requirements of this chapter supplement and neither amend nor repeal any other provisions of law, except as expressly provided in this chapter. Nothing in this chapter shall limit, deny, amend, modify, or repeal any other remedy available to the United States or any other person, except as expressly provided in this chapter.”
 
-1996—Subsec. (a). Pub. L. 104–227, §201(e)(1), (2), inserted “Annex IV to the Antarctic Protocol,” after “violation of the MARPOL Protocol,”, “or to the Antarctic Protocol” after “to the MARPOL Protocol”, and “and Annex IV to the Antarctic Protocol” after “enforcement of the MARPOL Protocol”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–227, §201(e)(1), (2), inserted “Annex IV to the Antarctic Protocol,” after “violation of the MARPOL Protocol,”, “or to the Antarctic Protocol” after “to the MARPOL Protocol”, and “and Annex IV to the Antarctic Protocol” after “enforcement of the MARPOL Protocol”.
 
 Subsec. (b). Pub. L. 104–227, §201(e)(3), inserted “or the Antarctic Protocol” after “MARPOL Protocol” in two places.
 
@@ -60,9 +60,9 @@ Subsec. (e)(1). Pub. L. 104–227, §201(e)(9), inserted “or the Antarctic Pro
 
 Subsec. (e)(2). Pub. L. 104–227, §201(e)(10), inserted “, of Annex IV to the Antarctic Protocol,” after “MARPOL Protocol”.
 
-1989—Subsecs. (c)(1), (e)(2). Pub. L. 101–225 inserted “or of this chapter”.
+<b>1989</b>—Subsecs. (c)(1), (e)(2). Pub. L. 101–225 inserted “or of this chapter”.
 
-1987—Subsec. (c). Pub. L. 100–220, §2104(a), added par. (1), designated existing provisions as par. (2), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and in closing provisions of par. (2) substituted “The” for “If a report made under this subsection involves a ship, other than one of United States registry or nationality or one operated under the authority of the United States, the”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–220, §2104(a), added par. (1), designated existing provisions as par. (2), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and in closing provisions of par. (2) substituted “The” for “If a report made under this subsection involves a ship, other than one of United States registry or nationality or one operated under the authority of the United States, the”.
 
 Subsecs. (d) to (f). Pub. L. 100–220, §2104(b), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 

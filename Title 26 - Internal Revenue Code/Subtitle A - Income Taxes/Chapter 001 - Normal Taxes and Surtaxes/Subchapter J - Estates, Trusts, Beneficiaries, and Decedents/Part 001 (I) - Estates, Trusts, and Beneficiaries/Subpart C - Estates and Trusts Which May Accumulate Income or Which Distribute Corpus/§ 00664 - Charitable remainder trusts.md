@@ -22,7 +22,7 @@ Amounts distributed by a charitable remainder annuity trust or by a charitable r
 
 #### (1) Income tax
 
-&emsp;A charitable remainder annuity trust and a charitable remainder unitrust shall, for anytaxable year, not be subject to any tax imposed by this subtitle.
+&emsp;A charitable remainder annuity trust and a charitable remainder unitrust shall, for any taxable year, not be subject to any tax imposed by this subtitle.
 
 #### (2) Excise tax
 
@@ -60,7 +60,7 @@ Amounts distributed by a charitable remainder annuity trust or by a charitable r
 
 &emsp;&emsp;(B) from which no amount other than the payments described in subparagraph (A) and other than qualified gratuitous transfers described in subparagraph (C) may be paid to or for the use of any person other than an organization described in section 170(c),
 
-&emsp;&emsp;(C) following the termination of the payments described in subparagraph (A), the remainder interest in the trust is to be transferred to, or for the use of, an organization described in section 170(c) or is to be retained by the trust for such a use or, to the extent the remainder interest is in qualified employer securities (as defined in subsection (g)(4)), all or part of such securities are to be transferred to an employee stock ownership plan (as defined in section 4975(e)(7)) in a qualified gratuitous transfer (as defined by subsection (g)), and
+&emsp;&emsp;(C) following the termination of the payments described in subparagraph (A), the remainder interest in the trust is to be transferred to, or for the use of, an organization described in section 170(c) or is to be retained by the trust for such a use or, to the extent the remainder interest is in qualified employer securities (as defined in subsection (g)(4)), all or part of such securities are to be transferred to an employee stock ownershipplan (as defined in section 4975(e)(7)) in a qualified gratuitous transfer (as defined by subsection (g)), and
 
 &emsp;&emsp;(D) with respect to each contribution of property to the trust, the value (determined under section 7520) of such remainder interest in such property is at least 10 percent of the net fair market value of such property as of the date such property is contributed to the trust.
 
@@ -84,7 +84,7 @@ Amounts distributed by a charitable remainder annuity trust or by a charitable r
 
 #### (e) Valuation for purposes of charitable contribution
 
-For purposes of determining the amount of any charitable contribution, the remainder interest of a charitable remainder annuity trust orcharitable remainder unitrust shall be computed on the basis that an amount equal to 5 percent of the net fair market value of its assets (or a greater amount, if required under the terms of the trust instrument) is to be distributed each year.
+For purposes of determining the amount of any charitable contribution, the remainder interest of a charitable remainder annuity trust or charitable remainder unitrust shall be computed on the basis that an amount equal to 5 percent of the net fair market value of its assets (or a greater amount, if required under the terms of the trust instrument) is to be distributed each year.
 
 #### (f) Certain contingencies permitted
 
@@ -138,7 +138,7 @@ For purposes of determining the amount of any charitable contribution, the remai
 
 &emsp;&emsp;(D) each participant who is entitled to a distribution from the plan has the rights described in subparagraphs (A) and (B) of section 409(h)(1),
 
-&emsp;&emsp;(E) such securities are held in a suspense account under the plan to be allocated each year, up to the applicable limitation under paragraph (7) (determined on the basis of fair market value of securities when allocated to participants), after first allocating all other annual additions for the limitation year, up to the limitations under sections 415(c) and (e),<sup>1</sup> and
+&emsp;&emsp;(E) such securities are held in a suspense account under the plan to be allocated eachyear, up to the applicable limitation under paragraph (7) (determined on the basis of fair market value of securities when allocated to participants), after first allocating all other annual additions for the limitation year, up to the limitations under sections 415(c) and (e),<sup>1</sup> and
 
 &emsp;&emsp;(F) on termination of the plan, all securities so transferred which are not allocated to plan participants as of such termination are to be transferred to, or for the use of, an organization described in section 170(c).
 
@@ -202,19 +202,19 @@ Section 415(e) of this title, referred to in subsec. (g)(3)(E), was repealed by 
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–432 amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “A charitable remainder annuity trust and a charitable remainder unitrust shall, for any taxable year, not be subject to any tax imposed by this subtitle, unless such trust, for such year, has unrelated business taxable income (within the meaning of section 512, determined as if part III of subchapter F applied to such trust).”
+<b>2006</b>—Subsec. (c). Pub. L. 109–432 amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “A charitable remainder annuity trust and a charitable remainder unitrust shall, for any taxable year, not be subject to any tax imposed by this subtitle, unless such trust, for such year, has unrelated business taxable income (within the meaning of section 512, determined as if part III of subchapter F applied to such trust).”
 
 Subsec. (g)(3)(E). Pub. L. 109–280 inserted “(determined on the basis of fair market value of securities when allocated to participants)” after “paragraph (7)”.
 
-2001—Subsec. (g)(3)(E). Pub. L. 107–16, §632(a)(3)(H)(i), substituted “applicable limitation under paragraph (7)” for “limitations under section 415(c)”.
+<b>2001</b>—Subsec. (g)(3)(E). Pub. L. 107–16, §632(a)(3)(H)(i), substituted “applicable limitation under paragraph (7)” for “limitations under section 415(c)”.
 
 Subsec. (g)(7). Pub. L. 107–16, §632(a)(3)(H)(ii), added par. (7).
 
-2000—Subsec. (d)(1)(C), (2)(C). Pub. L. 106–554 struck out period after “(as defined by subsection (g))”. See 1997 Amendment notes below.
+<b>2000</b>—Subsec. (d)(1)(C), (2)(C). Pub. L. 106–554 struck out period after “(as defined by subsection (g))”. See 1997 Amendment notes below.
 
-1998—Subsec. (d)(1)(C), (2)(C). Pub. L. 105–206 inserted “, and” at end.
+<b>1998</b>—Subsec. (d)(1)(C), (2)(C). Pub. L. 105–206 inserted “, and” at end.
 
-1997—Subsec. (d)(1)(A). Pub. L. 105–34, §1089(a)(1), inserted “nor more than 50 percent” after “not less than 5 percent”.
+<b>1997</b>—Subsec. (d)(1)(A). Pub. L. 105–34, §1089(a)(1), inserted “nor more than 50 percent” after “not less than 5 percent”.
 
 Subsec. (d)(1)(B). Pub. L. 105–34, §1530(c)(5), inserted “and other than qualified gratuitous transfers described in subparagraph (C)” after “subparagraph (A)”.
 
@@ -242,9 +242,9 @@ Subsec. (d)(4). Pub. L. 105–34, §1089(b)(4), added par. (4).
 
 Subsec. (g). Pub. L. 105–34, §1530(b), added subsec. (g).
 
-1984—Subsec. (f). Pub. L. 98–369 added subsec. (f).
+<b>1984</b>—Subsec. (f). Pub. L. 98–369 added subsec. (f).
 
-1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 2006 Amendment
 
@@ -287,4 +287,6 @@ Amendment by Pub. L. 98–369, applicable to transfers after Dec. 31, 1978, see 
 #### Effective Date
 
 Section applicable to transfers in trust made after July 31, 1969, see section 201(g)(5), set out as an Effective Date of 1969 Amendment note under section 170 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

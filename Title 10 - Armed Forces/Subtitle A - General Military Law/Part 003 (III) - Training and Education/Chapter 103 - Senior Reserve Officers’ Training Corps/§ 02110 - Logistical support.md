@@ -20,9 +20,9 @@
 
 #### Amendments
 
-1982—Subsec. (b). Pub. L. 97–375 struck out requirement that the Secretary of each military department report annually to Congress in April on the progress of the flight instruction program.
+<b>1982</b>—Subsec. (b). Pub. L. 97–375 struck out requirement that the Secretary of each military department report annually to Congress in April on the progress of the flight instruction program.
 
-1976—Subsec. (b). Pub. L. 94–273 substituted “April” for “January”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–273 substituted “April” for “January”.
 
-1966—Subsec. (a)(1). Pub. L. 89–718 substituted “educational” for “education”.
+<b>1966</b>—Subsec. (a)(1). Pub. L. 89–718 substituted “educational” for “education”.
 

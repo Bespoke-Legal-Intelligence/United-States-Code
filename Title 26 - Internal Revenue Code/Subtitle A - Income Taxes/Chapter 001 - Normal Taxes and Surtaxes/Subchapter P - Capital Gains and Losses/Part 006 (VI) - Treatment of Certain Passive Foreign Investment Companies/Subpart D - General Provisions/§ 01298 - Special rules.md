@@ -10,7 +10,7 @@ For purposes of this part—
 
 &emsp;&emsp;(A) shall apply to the extent that the effect is to treat stock of a passive foreign investment company as owned by a United States person, and
 
-&emsp;&emsp;(B) except to the extent provided in regulations, shall not apply to treat stock owned (or treated as owned under this subsection)by a United States person as owned by any other person.
+&emsp;&emsp;(B) except to the extent provided in regulations, shall not apply to treat stock owned (or treated as owned under this subsection) by a United States person as owned by any other person.
 
 #### (2) Corporations
 
@@ -84,7 +84,7 @@ For purposes of this part—
 
 #### (B) Amount treated in same manner as previously taxed income
 
-&emsp;&emsp;Rules similar to the rules of section 959(b) shall apply to any amount described in subparagraph (A) and to any amount included in gross income under section 1293(a) (or whichwould have been so included but for section 951(f)) <sup>1</sup> in respect of stock which the taxpayer is treated as owning under subsection (a).
+&emsp;&emsp;Rules similar to the rules of section 959(b) shall apply to any amount described in subparagraph (A) and to any amount included in gross income under section 1293(a) (or which would have been so included but for section 951(f)) <sup>1</sup> in respect of stock which the taxpayer is treated as owning under subsection (a).
 
 #### (6) Dispositions
 
@@ -180,11 +180,15 @@ For purposes of this part—
 
 &emsp;For purposes of this subsection, the term “controlled foreign corporation” has the meaning given such term by section 957(a).
 
-#### (f) Regulations
+#### (f) Reporting requirement
+
+Except as otherwise provided by the Secretary, each United States person who is a shareholder of a passive foreign investment company shall file an annual report containing such information as the Secretary may require.
+
+#### (g) Regulations
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this part.
 
-(Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2573, §1297; amended Pub. L. 100–647, title I, §1012(p)(10), (17), (20), (22), (24), (35), (36), Nov. 10, 1988, 102 Stat. 3517–3519, 3522; Pub. L. 101–239, title VII, §7811(i)(4), Dec. 19, 1989, 103 Stat. 2410; Pub. L. 103–66, title XIII, §13231(d)(2), (4), Aug. 10, 1993, 107 Stat. 499; Pub. L. 104–188, title I, §§1501(b)(10), (11), 1703(i)(5), (6), Aug. 20, 1996, 110 Stat. 1826, 1876; renumbered §1298 and amended Pub. L. 105–34, title XI, §1122(a), (e), Aug. 5, 1997, 111 Stat. 972, 977; Pub. L. 105–206, title VI, §6011(b)(2), July 22, 1998, 112 Stat. 818; Pub. L. 110–172, §11(a)(24)(C), (f)(2), Dec. 29, 2007, 121 Stat. 2487, 2489.)
+(Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2573, §1297; amended Pub. L. 100–647, title I, §1012(p)(10), (17), (20), (22), (24), (35), (36), Nov. 10, 1988, 102 Stat. 3517–3519, 3522; Pub. L. 101–239, title VII, §7811(i)(4), Dec. 19, 1989, 103 Stat. 2410; Pub. L. 103–66, title XIII, §13231(d)(2), (4), Aug. 10, 1993, 107 Stat. 499; Pub. L. 104–188, title I, §§1501(b)(10), (11), 1703(i)(5), (6), Aug. 20, 1996, 110 Stat. 1826, 1876; renumbered §1298 and amended Pub. L. 105–34, title XI, §1122(a), (e), Aug. 5, 1997, 111 Stat. 972, 977; Pub. L. 105–206, title VI, §6011(b)(2), July 22, 1998, 112 Stat. 818; Pub. L. 110–172, §11(a)(24)(C), (f)(2), Dec. 29, 2007, 121 Stat. 2487, 2489; Pub. L. 111–147, title V, §521(a), Mar. 18, 2010, 124 Stat. 112.)
 
 #### References in Text
 
@@ -194,17 +198,19 @@ Section 1296, referred to in subsec. (d)(2)(A), was renumbered section 1297 and 
 
 #### Amendments
 
-2007—Subsec. (a)(2)(B). Pub. L. 110–172, §11(a)(24)(C), substituted “Section 1297(d)” for “Section 1297(e)”.
+<b>2010</b>—Subsecs. (f), (g). Pub. L. 111–147 added subsec. (f) and redesignated former subsec. (f) as (g).
+
+<b>2007</b>—Subsec. (a)(2)(B). Pub. L. 110–172, §11(a)(24)(C), substituted “Section 1297(d)” for “Section 1297(e)”.
 
 Subsec. (b)(7) to (9). Pub. L. 110–172, §11(f)(2), redesignated pars. (8) and (9) as (7) and (8), respectively, and struck out former par. (7) which read as follows: “Section 1246 shall not apply to earnings and profits of any company for any taxable year beginning after December 31, 1986, if such company is a passive foreign investment company for such taxable year.”
 
-1998—Subsec. (a)(2)(B). Pub. L. 105–206 inserted at end “Section 1297(e) shall not apply in determining whether a corporation is a passive foreign investment company for purposes of this subparagraph.”
+<b>1998</b>—Subsec. (a)(2)(B). Pub. L. 105–206 inserted at end “Section 1297(e) shall not apply in determining whether a corporation is a passive foreign investment company for purposes of this subparagraph.”
 
-1997—Pub. L. 105–34, §1122(a), renumbered section 1297 of this title as this section.
+<b>1997</b>—Pub. L. 105–34, §1122(a), renumbered section 1297 of this title as this section.
 
 Subsec. (b)(1). Pub. L. 105–34, §1122(e), inserted “(determined without regard to the preceding sentence)” after “investment company” in last sentence.
 
-1996—Subsec. (b)(9). Pub. L. 104–188, §1501(b)(10), substituted “section 951(a)(1)(B)” for “subparagraph (B) or (C) of section 951(a)(1)”.
+<b>1996</b>—Subsec. (b)(9). Pub. L. 104–188, §1501(b)(10), substituted “section 951(a)(1)(B)” for “subparagraph (B) or (C) of section 951(a)(1)”.
 
 Subsec. (d)(2). Pub. L. 104–188, §1703(i)(5)(B), in heading substituted “Amount taken into account” for “Determination of adjusted basis”.
 
@@ -216,17 +222,17 @@ Subsec. (e). Pub. L. 104–188, §1703(i)(6), inserted “For purposes of this p
 
 Subsec. (e)(2)(B)(ii). Pub. L. 104–188, §1501(b)(11), struck out “or section 956A” after “this part”.
 
-1993—Subsec. (b)(9). Pub. L. 103–66, §13231(d)(2), added par. (9).
+<b>1993</b>—Subsec. (b)(9). Pub. L. 103–66, §13231(d)(2), added par. (9).
 
 Subsecs. (d) to (f). Pub. L. 103–66, §13231(d)(4), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
-1989—Subsec. (b)(5). Pub. L. 101–239, §7811(i)(4)(A), substituted “where stock held” for “where held” in heading.
+<b>1989</b>—Subsec. (b)(5). Pub. L. 101–239, §7811(i)(4)(A), substituted “where stock held” for “where held” in heading.
 
 Subsec. (b)(5)(A). Pub. L. 101–239, §7811(i)(4)(C), substituted “treated as a disposition by, or distribution to” for “treated as a disposition to” in concluding provisions.
 
 Subsec. (b)(5)(A)(ii). Pub. L. 101–239, §7811(i)(4)(B), substituted “any distribution of” for “any disposition of”.
 
-1988—Subsec. (a)(4). Pub. L. 100–647, §1012(p)(10)(A), added par. (4). Former par. (4) redesignated (5).
+<b>1988</b>—Subsec. (a)(4). Pub. L. 100–647, §1012(p)(10)(A), added par. (4). Former par. (4) redesignated (5).
 
 Subsec. (a)(5). Pub. L. 100–647, §1012(p)(10), redesignated par. (4) as (5) and substituted “paragraph (2), (3), or (4)” for “paragraph (2) or (3)”.
 
@@ -275,4 +281,8 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 #### Effective Date
 
 Section applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, see section 1235(h) of Pub. L. 99–514, set out as a note under section 1291 of this title.
+
+<i><sup>1</sup></i><i> See References in Text notes below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “provisions”.</i>
 

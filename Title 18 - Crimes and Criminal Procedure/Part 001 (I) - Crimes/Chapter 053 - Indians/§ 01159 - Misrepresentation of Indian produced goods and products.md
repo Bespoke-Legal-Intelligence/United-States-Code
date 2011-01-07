@@ -2,29 +2,53 @@
 
 (a) It is unlawful to offer or display for sale or sell any good, with or without a Government trademark, in a manner that falsely suggests it is Indian produced, an Indian product, or the product of a particular Indian or Indian tribe or Indian arts and crafts organization, resident within the United States.
 
-(b) Whoever knowingly violates subsection (a) shall—
+(b)
 
-&emsp;(1) in the case of a first violation, if an individual, be fined not more than $250,000 or imprisoned not more than five years, or both, and, if a person other than an individual, be fined not more than $1,000,000; and
+Penalty.—Any person that knowingly violates subsection (a) shall—
 
-&emsp;(2) in the case of subsequent violations, if an individual, be fined not more than $1,000,000 or imprisoned not more than fifteen years, or both, and, if a person other than an individual, be fined not more than $5,000,000.
+&emsp;(1) in the case of a first violation by that person—
+
+&emsp;&emsp;(A) if the applicable goods are offered or displayed for sale at a total price of $1,000 or more, or if the applicable goods are sold for a total price of $1,000 or more—
+
+&emsp;&emsp;&emsp;(i) in the case of an individual, be fined not more than $250,000, imprisoned for not more than 5 years, or both; and
+
+&emsp;&emsp;&emsp;(ii) in the case of a person other than an individual, be fined not more than $1,000,000; and
+
+&emsp;&emsp;(B) if the applicable goods are offered or displayed for sale at a total price of less than $1,000, or if the applicable goods are sold for a total price of less than $1,000—
+
+&emsp;&emsp;&emsp;(i) in the case of an individual, be fined not more than $25,000, imprisoned for not more than 1 year, or both; and
+
+&emsp;&emsp;&emsp;(ii) in the case of a person other than an individual, be fined not more than $100,000; and
+
+&emsp;(2) in the case of a subsequent violation by that person, regardless of the amount for which any good is offered or displayed for sale or sold—
+
+&emsp;&emsp;(A) in the case of an individual, be fined under this title, imprisoned for not more than 15 years, or both; and
+
+&emsp;&emsp;(B) in the case of a person other than an individual, be fined not more than $5,000,000.
 
 (c) As used in this section—
 
-&emsp;(1) the term “Indian” means any individual who is a member of an Indian tribe, or for thepurposes of this section is certified as an Indian artisan by an Indian tribe;
+&emsp;(1) the term “Indian” means any individual who is a member of an Indian tribe, or for the purposes of this section is certified as an Indian artisan by an Indian tribe;
 
 &emsp;(2) the terms “Indian product” and “product of a particular Indian tribe or Indian arts and crafts organization” has the meaning given such term in regulations which may be promulgated by the Secretary of the Interior;
 
-&emsp;(3) the term “Indian tribe” means—
+&emsp;(3) the term “Indian tribe”—
 
-&emsp;&emsp;(A) any Indian tribe, band, nation, Alaska Native village, or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians; or
+&emsp;&emsp;(A) has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b); and
 
-&emsp;&emsp;(B) any Indian group that has been formally recognized as an Indian tribe by a State legislature or by a State commission or similar organization legislatively vested with State tribal recognition authority; and
+&emsp;&emsp;(B) includes, for purposes of this section only, an Indian group that has been formally recognized as an Indian tribe by—
+
+&emsp;&emsp;&emsp;(i) a State legislature;
+
+&emsp;&emsp;&emsp;(ii) a State commission; or
+
+&emsp;&emsp;&emsp;(iii) another similar organization vested with State legislative tribal recognition authority; and
 
 &emsp;(4) the term “Indian arts and crafts organization” means any legally established arts and crafts marketing organization composed of members of Indian tribes.
 
 (d) In the event that any provision of this section is held invalid, it is the intent of Congress that the remaining provisions of this section shall continue in full force and effect.
 
-(June 25, 1948, ch. 645, 62 Stat. 759; Pub. L. 101–644, title I, §104(a), Nov. 29, 1990, 104 Stat. 4663.)
+(June 25, 1948, ch. 645, 62 Stat. 759; Pub. L. 101–644, title I, §104(a), Nov. 29, 1990, 104 Stat. 4663; Pub. L. 111–211, title I, §103, July 29, 2010, 124 Stat. 2260.)
 
 #### Historical and Revision Notes
 
@@ -40,7 +64,19 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1990—Pub. L. 101–644 substituted “Misrepresentation of Indian produced goods and products” for “Misrepresentation in sale of products” in section catchline and amended text generally. Prior to amendment, text read as follows: “Whoever willfully offers or displays for sale any goods, with or without any Government trade mark, as Indian products or Indian products of a particular Indian tribe or group, resident within the United States or the Territory of Alaska, when such person knows such goods are not Indian products or are not Indian products of the particular Indian tribe or group, shall be fined not more than $500 or imprisoned not more than six months, or both.”
+<b>2010</b>—Subsec. (b). Pub. L. 111–211, §103(1), added subsec. (b) and struck out former subsec. (b) which read asfollows: “Whoever knowingly violates subsection (a) shall—
+
+&emsp;“(1) in the case of a first violation, if an individual, be fined not more than $250,000 or imprisoned not more than five years, or both, and, if a person other than an individual, be fined not more than $1,000,000; and
+
+&emsp;“(2) in the case of subsequent violations, if an individual, be fined not more than $1,000,000 or imprisoned not more than fifteen years, or both, and, if a person other than an individual, be fined not more than $5,000,000.”
+
+Subsec. (c)(3). Pub. L. 111–211, §103(2), added par. (3) and struck out former par. (3) which read as follows: “the term ‘Indian tribe’ means—
+
+&emsp;“(A) any Indian tribe, band, nation, Alaska Native village, or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians; or
+
+&emsp;“(B) any Indian group that has been formally recognized as an Indian tribe by a State legislature or by a State commission or similar organization legislatively vested with State tribal recognition authority; and”.
+
+<b>1990</b>—Pub. L. 101–644 substituted “Misrepresentation of Indian produced goods and products” for “Misrepresentation in sale of products” in section catchline and amended text generally. Prior to amendment, text read as follows: “Whoever willfully offers or displays for sale any goods, with or without any Government trade mark, as Indian products or Indian products of a particular Indian tribe or group, resident within the United States or the Territory of Alaska, when such person knows such goods are not Indian products or are not Indian products of the particular Indian tribe or group, shall be fined not more than $500 or imprisoned not more than six months, or both.”
 
 #### Certification of Indian Artisans
 

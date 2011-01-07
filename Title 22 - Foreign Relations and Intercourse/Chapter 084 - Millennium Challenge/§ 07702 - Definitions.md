@@ -46,7 +46,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 #### Amendments
 
-2004—Par. (8). Pub. L. 108–447 added par. (8).
+<b>2004</b>—Par. (8). Pub. L. 108–447 added par. (8).
 
 #### Change of Name
 

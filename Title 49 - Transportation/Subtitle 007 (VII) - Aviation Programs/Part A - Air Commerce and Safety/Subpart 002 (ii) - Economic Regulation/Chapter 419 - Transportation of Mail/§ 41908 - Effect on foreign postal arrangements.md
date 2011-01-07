@@ -32,5 +32,5 @@ A prior section 41908, Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1156, 
 
 #### Amendments
 
-2008—Pub. L. 110–405, which directed the amendment of this chapter by renumbering section 49112 as this section, was executed by renumbering section 41912 of this title as this section to reflect the probable intent of Congress.
+<b>2008</b>—Pub. L. 110–405, which directed the amendment of this chapter by renumbering section 49112 as this section, was executed by renumbering section 41912 of this title as this section to reflect the probable intent of Congress.
 

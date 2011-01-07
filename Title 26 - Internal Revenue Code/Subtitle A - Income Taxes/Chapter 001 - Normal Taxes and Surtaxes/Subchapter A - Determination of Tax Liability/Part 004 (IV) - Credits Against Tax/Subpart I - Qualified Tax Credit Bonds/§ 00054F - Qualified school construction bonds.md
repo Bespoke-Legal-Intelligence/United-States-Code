@@ -28,7 +28,7 @@ There is a national qualified school construction bond limitation for each calen
 
 #### (1) Allocation among States
 
-&emsp;Except as provided in paragraph (2)(C), the limitation applicable under subsection (c) for any calendar year shall be allocated by the Secretary among the States in proportion to the respective amounts each such State is eligible to receive under section 1124 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6333) for the most recent fiscal year ending before such calendar year. The limitation amount allocated to a State under the preceding sentence shall be allocated by the State to issuers within such State.
+&emsp;Except as provided in paragraph (2)(C), the limitation applicable under subsection (c) for any calendar year shall be allocated by the Secretary among the States in proportion to the respective amounts each such State is eligible to receive under section 1124 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6333) for the most recent fiscal year ending before such calendar year. The limitation amount allocated to a State under thepreceding sentence shall be allocated by the State education agency (or such other agency as is authorized under State law to make such allocation) to issuers within such State.
 
 #### (2) 40 percent of limitation allocated among largest school districts
 
@@ -72,9 +72,19 @@ If for any calendar year—
 
 &emsp;(2) the amount of bonds issued during such year which are designated under subsection (a) pursuant to such allocation,
 
-> &emsp;the limitation amount under such subsection for such State for the following calendar year shall be increased by the amount of such excess. A similar rule shall apply to the amounts allocated under subsection (d)(4).
+> &emsp;the limitation amount under such subsection for such State for the following calendar year shall be increased by the amount of such excess. A similar rule shall apply to the amounts allocated under paragraphs (2) and (4) of subsection (d).
 
-(Added Pub. L. 111–5, div. B, title I, §1521(a), Feb. 17, 2009, 123 Stat. 355.)
+(Added Pub. L. 111–5, div. B, title I, §1521(a), Feb. 17, 2009, 123 Stat. 355; amended Pub. L. 111–147, title III, §301(b), Mar. 18, 2010, 124 Stat. 78.)
+
+#### Amendments
+
+<b>2010</b>—Subsec. (d)(1). Pub. L. 111–147, §301(b)(1), substituted “by the State education agency (or such other agency as is authorized under State law to make such allocation)” for “by the State”.
+
+Subsec. (e). Pub. L. 111–147, §301(b)(2), substituted “paragraphs (2) and (4) of subsection (d)” for “subsection (d)(4)” in concluding provisions.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–147, title III, §301(c)(2), Mar. 18, 2010, 124 Stat. 78, provided that: “The amendments made by subsection (b) \[amending this section\] shall take effect as if included in section 1521 of the American Recovery and Reinvestment Tax Act of 2009 \[Pub. L. 111–5\].”
 
 #### Effective Date
 

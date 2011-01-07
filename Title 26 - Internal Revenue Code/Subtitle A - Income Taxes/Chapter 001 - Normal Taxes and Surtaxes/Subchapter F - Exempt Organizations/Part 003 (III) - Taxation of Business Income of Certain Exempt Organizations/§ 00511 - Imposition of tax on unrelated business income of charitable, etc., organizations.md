@@ -14,13 +14,13 @@
 
 #### (B) State colleges and universities
 
-&emsp;&emsp;The tax imposed by paragraph (1) shall apply in the case of any college or university which is an agency or instrumentality ofany government or any political subdivision thereof, or which is owned or operated by a government or any political subdivision thereof, or by any agency or instrumentality of one or more governments or political subdivisions. Such tax shall also apply in the case of any corporation wholly owned by one or more such colleges or universities.
+&emsp;&emsp;The tax imposed by paragraph (1) shall apply in the case of any college or university which is an agency or instrumentality of any government or any political subdivision thereof, or which is owned or operated by a government or any political subdivision thereof, or by any agency or instrumentality of one or more governments or political subdivisions. Such tax shall also apply in the case of any corporation wholly owned by one or more such colleges or universities.
 
 #### (b) Tax on charitable, etc., trusts
 
 #### (1) Imposition of tax
 
-&emsp;There is hereby imposed for each taxable year on the unrelated business taxable income of every trust described in paragraph (2) a tax computed as provided in section 1(e). In making such computation for purposes of this section, the term “taxable income” as used in section 1 shall be read as “unrelated business taxable income” as defined in section 512.
+&emsp;There is hereby imposed for each taxable year on the unrelated business taxable income of every trust described in paragraph (2) a tax computed as provided in section 1(e). In making such computation for purposes of this section, the term “taxable income” as used insection 1 shall be read as “unrelated business taxable income” as defined in section 512.
 
 #### (2) Charitable, etc., trusts subject to tax
 
@@ -40,7 +40,7 @@ If a corporation described in section 501(c)(2)—
 
 #### Amendments
 
-1988—Subsec. (d). Pub. L. 100–647 struck out subsec. (d) which read as follows: “
+<b>1988</b>—Subsec. (d). Pub. L. 100–647 struck out subsec. (d) which read as follows: “
 
 Tax Preferences.—
 
@@ -52,17 +52,17 @@ Organizations taxable at corporate rates.—If an organization is subject to tax
 
 Organizations taxable as trusts.—If an organization is subject to tax on unrelated business taxable income pursuant to subsection (b), the taxes imposed by section 55 shall apply to such organization with respect to items of tax preference which enter into the computation of unrelated business taxable income.”
 
-1982—Subsec. (d)(2). Pub. L. 97–248 substituted “section 55” for “section 55 and section 56 (as the case may be)”.
+<b>1982</b>—Subsec. (d)(2). Pub. L. 97–248 substituted “section 55” for “section 55 and section 56 (as the case may be)”.
 
-1978—Subsec. (a)(1). Pub. L. 95–600, §301(b)(5)(A), substituted “a tax” for “a normal tax and a surtax”.
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–600, §301(b)(5)(A), substituted “a tax” for “a normal tax and a surtax”.
 
 Subsec. (a)(2). Pub. L. 95–600, §301(b)(5)(B), substituted “tax” for “taxes” wherever appearing.
 
 Subsec. (d). Pub. L. 95–600, §421(e)(3), substituted provisions relating to organizations taxable at corporate rates and organizations taxable as trusts, for provisions relating to imposition of the tax imposed by section 56 of this title to an organization subject to tax under this section for tax preferences computed in unrelated business taxable income.
 
-1977—Subsec. (b)(1). Pub. L. 95–30 substituted “section 1(e)” for “section 1(d)”.
+<b>1977</b>—Subsec. (b)(1). Pub. L. 95–30 substituted “section 1(e)” for “section 1(d)”.
 
-1969—Subsec. (a)(2)(A). Pub. L. 91–172, §121(a)(1), removed reference, in heading, to pars. (2), (3), (5), (6), (14)(B), (C), and (17) of section 501(c) of this title, and, in text, struck out exemptions to churches, conventions, or associations of churches, from the imposition of tax on their unrelated business income, made corporations organized under section 501(c)(1) of this title (i.e. organized under Acts of Congress), exempt from such tax, but made all such exemptions subservient to the exceptions in part II and section 501(a) of this title.
+<b>1969</b>—Subsec. (a)(2)(A). Pub. L. 91–172, §121(a)(1), removed reference, in heading, to pars. (2), (3), (5), (6), (14)(B), (C), and (17) of section 501(c) of this title, and, in text, struck out exemptions to churches, conventions, or associations of churches, from the imposition of tax on their unrelated business income, made corporations organized under section 501(c)(1) of this title (i.e. organized under Acts of Congress), exempt from such tax, but made all such exemptions subservient to the exceptions in part II and section 501(a) of this title.
 
 Subsec. (b)(1). Pub. L. 91–172, §803(d)(2), substituted section 1(d) for section 1 in reference to section under which the computation of the tax dealing with the imposition of tax on the unrelated business taxable income of trusts, is computed.
 
@@ -72,9 +72,9 @@ Subsec. (c). Pub. L. 91–172, §121(a)(3), added subsec. (c). Former subsec. (c
 
 Subsec. (d). Pub. L. 91–172, §301(b)(8), added subsec. (d).
 
-1966—Subsec. (a)(2)(A). Pub. L. 89–352 inserted “(14)(B) or (C),” after “(6),” in heading and in text.
+<b>1966</b>—Subsec. (a)(2)(A). Pub. L. 89–352 inserted “(14)(B) or (C),” after “(6),” in heading and in text.
 
-1960—Subsec. (a)(2). Pub. L. 86–667, §3(a), included organizations described in section 501(c)(17) within subpar. (A).
+<b>1960</b>—Subsec. (a)(2). Pub. L. 86–667, §3(a), included organizations described in section 501(c)(17) within subpar. (A).
 
 Subsec. (b). Pub. L. 86–667, §3(b), inserted a reference to section 501(c)(17).
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1969 Amendment
 
-Section 121(g) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and sections 48, 501, 502, 503, 512 to 514, 681, 801, 810, 1443, 1504, and 7605 of this title\] (other than by subsections (b)(3) and (e) \[enacting sections 277 and 6050 of this title\]) shall apply to taxable years beginning after December 31, 1969. The amendments made by subsection (b)(3) \[enacting section 277 of this title\] shall apply to taxable years beginning after December 31, 1970. The amendments made by subsection (e) \[enacting section 6050 of this title\] shall apply with respect to transfers of property after December 31, 1969. Where an organization makes a bargain purchase of property before October 9, 1969, which is subject to a mortgage which was placed on the property more than 5 years before the purchase, and the organization paid the seller a total amount no greater than the amount of the seller's cost (including attorneys’ fees) directly related to the transfer of such property to the organization (but in any event no more than 10 percent of the value of the seller's equity in the property), the indebtedness secured by such mortgage shall not be treated, notwithstanding the amendments made by subsection (d)(1) \[amending section 514 of this title\], as acquisition indebtedness for purposes of section 514(c)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] during a period of 10 years following the date of the transaction.”
+Section 121(g) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and sections 48, 501, 502, 503, 512 to 514, 681, 801, 810, 1443, 1504, and 7605 of this title\] (other than by subsections (b)(3) and (e) \[enacting sections 277 and 6050 of this title\]) shall apply to taxable years beginning after December 31, 1969. The amendments made by subsection (b)(3) \[enacting section 277 of this title\] shall apply to taxable years beginning after December 31, 1970. Theamendments made by subsection (e) \[enacting section 6050 of this title\] shall apply with respect to transfers of property after December 31, 1969. Where an organization makes a bargain purchase of property before October 9, 1969, which is subject to a mortgage which was placed on the property more than 5 years before the purchase, and the organization paid the seller a total amount no greater than the amount of the seller's cost (including attorneys’ fees) directly related to the transfer of such property to the organization (but in any event no more than 10 percent of the value of the seller's equity in the property), the indebtedness secured by such mortgage shall not be treated, notwithstanding the amendments made by subsection (d)(1) \[amending section 514 of this title\], as acquisition indebtedness for purposes of section 514(c)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] during a period of 10 years following the date of the transaction.”
 
 Amendment by section 301(b)(8) of Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 1969, see section 301(c) of Pub. L. 91–172, set out as a note under section 5 of this title.
 

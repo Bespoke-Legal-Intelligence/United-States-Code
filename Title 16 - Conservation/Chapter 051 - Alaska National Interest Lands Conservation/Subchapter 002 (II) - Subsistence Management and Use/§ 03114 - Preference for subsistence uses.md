@@ -12,11 +12,11 @@ Except as otherwise provided in this Act and other Federal laws, the taking on p
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the AlaskaNational Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### Amendments
 
-1997—Pub. L. 105–83, §316(b)(5), which directed the designation of existing provisions as subsec. (a) and the addition of subsec. (b) reading as follows: “The priority granted by this section is for a reasonable opportunity to take fish and wildlife. For the purposes of this subsection, the term ‘reasonable opportunity’ means an opportunity, consistent with customary and traditional uses (as defined in section 3113(3) of this title), to participate in a subsistence hunt or fishery with a reasonable expectation of success, and does not mean a guarantee that fish and wildlife will be taken.” was repealed by Pub. L. 105–83, §316(d). See Effective and Termination Dates of 1997 Amendment note below.
+<b>1997</b>—Pub. L. 105–83, §316(b)(5), which directed the designation of existing provisions as subsec. (a) and the addition of subsec. (b) reading as follows: “The priority granted by this section is for a reasonable opportunity to take fish and wildlife. For the purposes of this subsection, the term ‘reasonable opportunity’ means an opportunity, consistent with customary and traditional uses (as defined in section 3113(3) of this title), to participate in a subsistence hunt or fishery with a reasonable expectation of success, and does not mean a guarantee that fish and wildlife will be taken.” was repealed by Pub. L. 105–83, §316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
 #### Effective and Termination Dates of 1997 Amendment
 

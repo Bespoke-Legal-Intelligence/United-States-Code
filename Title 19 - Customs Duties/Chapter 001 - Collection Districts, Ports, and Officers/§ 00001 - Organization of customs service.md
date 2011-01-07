@@ -56,9 +56,13 @@ The plan of reorganization, with an estimate of the expenses of the same, was co
 
 “Wm. H. Taft.”&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–227, §1(a), Aug. 11, 2010, 124 Stat. 2409, provided that: “This Act \[amending section 58c of this title and enacting provisions set out as notes under section 58c of this title and section 6655 of Title 26, Internal Revenue Code\] may be cited as the ‘United States Manufacturing Enhancement Act of 2010’.”
+
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of theSecretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### <b>REORGANIZATION PLAN NO. 1 OF 1965</b>
 

@@ -18,7 +18,7 @@ In establishing the board under subsection (a) of this section, the Secretary sh
 
 &emsp;(3) social services (including child protective services);
 
-&emsp;(4) medicine (including pediatrics);
+&emsp;(4) health care providers (including pediatricians);
 
 &emsp;(5) State and local government;
 
@@ -34,9 +34,11 @@ In establishing the board under subsection (a) of this section, the Secretary sh
 
 &emsp;(11) voluntary groups;
 
-&emsp;(12) family rights groups; and
+&emsp;(12) family rights groups;
 
-&emsp;(13) children's rights advocates.
+&emsp;(13) children's rights advocates; and
+
+&emsp;(14) Indian tribes or tribal organizations.
 
 #### (d) Vacancies
 
@@ -50,27 +52,35 @@ The board shall elect a chairperson and vice-chairperson at its first meeting fr
 
 Not later than 1 year after the establishment of the board under subsection (a) of this section, the board shall submit to the Secretary and the appropriate committees of Congress a report, or interim report, containing—
 
-&emsp;(1) recommendations on coordinating Federal, State, and local child abuse and neglect activities with similar activities at the Federal, State, and local level pertaining to family violence prevention;
+&emsp;(1) recommendations on coordinating Federal, State, tribal, and local child abuse and neglect activities with similar activities at the Federal, State, tribal, and local level pertaining to family violence prevention;
 
-&emsp;(2) specific modifications needed in Federal and State laws and programs to reduce the number of unfounded or unsubstantiated reports of child abuse or neglect while enhancing the ability to identify and substantiate legitimate cases of abuse or neglect which place a child in danger; and
+&emsp;(2) specific modifications needed in Federal, State, and tribal laws and programs to reduce the number of unfounded or unsubstantiated reports of child abuse or neglect while enhancing the ability to identify and substantiate legitimate cases of child abuse or neglect which place a child in danger; and
 
 &emsp;(3) recommendations for modifications needed to facilitate coordinated national data collection with respect to child protection and child welfare.
 
-(Pub. L. 93–247, title I, §102, formerly §3, Jan. 31, 1974, 88 Stat. 5; Pub. L. 95–266, title I, §102, Apr. 24, 1978, 92 Stat. 206; Pub. L. 98–457, title I, §§102, 121, Oct. 9, 1984, 98 Stat. 1750, 1752; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 103; renumbered title I, §102, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(1), Oct. 25, 1989, 103 Stat. 764; Pub. L. 102–295, title I, §111, May 28, 1992, 106 Stat. 190; Pub. L. 104–235, title I, §102, Oct. 3, 1996, 110 Stat. 3065.)
+(Pub. L. 93–247, title I, §102, formerly §3, Jan. 31, 1974, 88 Stat. 5; Pub. L. 95–266, title I, §102, Apr. 24, 1978, 92 Stat. 206; Pub. L. 98–457, title I, §§102, 121, Oct. 9, 1984, 98 Stat. 1750, 1752; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 103; renumbered title I, §102, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(1), Oct. 25, 1989, 103 Stat. 764; Pub. L. 102–295, title I, §111, May 28, 1992, 106 Stat. 190; Pub. L. 104–235, title I, §102, Oct. 3, 1996, 110 Stat. 3065; Pub. L. 111–320, title I, §111, Dec. 20, 2010, 124 Stat. 3460.)
 
 #### Amendments
 
-1996—Pub. L. 104–235 amended section generally, substituting present provisions for provisions which related to appointment of Advisory Board on Child Abuse and Neglect in subsec. (a); solicitation of nominations in subsec. (b); composition of Advisory Board in subsec. (c); election of officers in subsec. (d); meetings in subsec. (e); duties in subsec. (f); compensation in subsec. (g); and authorization of appropriations in subsec. (h).
+<b>2010</b>—Subsec. (c)(4). Pub. L. 111–320, §111(1)(A), substituted “health care providers (including pediatricians)” for “medicine (including pediatrics)”.
 
-1992—Subsec. (f)(4). Pub. L. 102–295, §111(a), added par. (4).
+Subsec. (c)(14). Pub. L. 111–320, §111(1)(B)–(D), added par. (14).
+
+Subsec. (f)(1). Pub. L. 111–320, §111(2)(A), inserted “tribal,” after “State,” in two places.
+
+Subsec. (f)(2). Pub. L. 111–320, §111(2)(B), substituted “Federal, State, and tribal” for “Federal and State” and “child abuse or neglect which” for “abuse or neglect which”.
+
+<b>1996</b>—Pub. L. 104–235 amended section generally, substituting present provisions for provisions which related to appointment of Advisory Board on Child Abuse and Neglect in subsec. (a); solicitation of nominations in subsec. (b); composition of Advisory Board in subsec. (c); election of officers in subsec. (d); meetings in subsec. (e); duties in subsec. (f); compensation in subsec. (g); and authorization of appropriations in subsec. (h).
+
+<b>1992</b>—Subsec. (f)(4). Pub. L. 102–295, §111(a), added par. (4).
 
 Subsec. (h). Pub. L. 102–295, §111(b), added subsec. (h).
 
-1989—Subsecs. (c)(1)(A), (e), (f)(2)(E). Pub. L. 101–126, §3(b)(1), made technical amendments to references to sections 5103, 5105, and 5106 of this title to reflect renumbering of corresponding sections of original act.
+<b>1989</b>—Subsecs. (c)(1)(A), (e), (f)(2)(E). Pub. L. 101–126, §3(b)(1), made technical amendments to references to sections 5103, 5105, and 5106 of this title to reflect renumbering of corresponding sections of original act.
 
-1988—Pub. L. 100–294 amended section generally, substituting provisions relating to Advisory Board on Child Abuse and Neglect for provisions relating to definitions. See section 5106g of this title.
+<b>1988</b>—Pub. L. 100–294 amended section generally, substituting provisions relating to Advisory Board on Child Abuse and Neglect for provisions relating to definitions. See section 5106g of this title.
 
-1984—Cl. (1). Pub. L. 98–457, §121(1), designated provisions after opening phrase as cl. (1).
+<b>1984</b>—Cl. (1). Pub. L. 98–457, §121(1), designated provisions after opening phrase as cl. (1).
 
 Pub. L. 98–457, §102(1), inserted “(including any employee of a residential facility or any staff person providing out-of-home care)”.
 
@@ -78,7 +88,7 @@ Cl. (2). Pub. L. 98–457, §102(2), (3), added cl. (2).
 
 Cl. (3). Pub. L. 98–457, §121(2), (3), added cl. (3).
 
-1978—Pub. L. 95–266 inserted “or exploitation” after “sexual abuse” and “, or the age specified by the child protection law of the State in question,” after “eighteen”.
+<b>1978</b>—Pub. L. 95–266 inserted “or exploitation” after “sexual abuse” and “, or the age specified by the child protection law of the State in question,” after “eighteen”.
 
 #### Effective Date of 1989 Amendment
 

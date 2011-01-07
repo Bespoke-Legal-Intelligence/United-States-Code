@@ -2,7 +2,7 @@
 
 #### (a) Enjoining and restraining violations
 
-Whenever it shall appear to the Commission that any person is engaged or about to engage in any acts or practices which constitute or will constitute a violation of the provisions of thischapter, or of any rule, regulation, or order thereunder, it may in its discretion bring an action in the proper District Court of the United States or the United States courts of any Territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices and to enforce compliance with this chapter or any rule, regulation, or order thereunder, and upon a proper showing a permanent or temporary injunction or decree or restraining order shall be granted without bond. The Commission may transmit such evidence as may be available concerning such acts or practices to the Attorney General, who, in his discretion, may institute the necessary criminal proceedings under this chapter.
+Whenever it shall appear to the Commission that any person is engaged or about to engage in any acts or practices which constitute or will constitute a violation of the provisions of this chapter, or of any rule, regulation, or order thereunder, it may in its discretion bring an action in the proper District Court of the United States or the United States courts of any Territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices and to enforce compliance with this chapter or any rule, regulation, or order thereunder, and upon a proper showing a permanent or temporary injunction or decree or restraining order shall be granted without bond. The Commission may transmit such evidence as may be available concerning such acts or practices to the Attorney General, who, in his discretion, may institute the necessary criminal proceedings under this chapter.
 
 #### (b) Writs of mandamus
 
@@ -28,9 +28,9 @@ In any proceedings under subsection (a) of this section, the court may prohibit,
 
 #### Codification
 
-As originally enacted subsecs. (a) and (b) contained references to the Supreme Court of the District of Columbia. Act June 25, 1936, substituted “the district court of the United States for the District of Columbia” for “the Supreme Court of the District of Columbia”, and act June 25, 1948, as amended by act May 24, 1949, substituted “United States District Court for the District of Columbia” for “district court of the United States for the District of Columbia”. However, the words “United States District Court for the District of Columbia” have been deleted entirely as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district”, and section 88 of Title 28 which states that “the District of Columbia constitutes one judicial district”.
+As originally enacted subsecs. (a) and (b) contained references to the Supreme Court of the District of Columbia. Act June 25, 1936, substituted “the district court of the United States for the District of Columbia” for “the Supreme Court of the District of Columbia”, and act June 25, 1948, as amended by act May 24, 1949, substituted “United States District Court for the District of Columbia” for “district court of the United States for the District of Columbia”. However, the words “United States District Court for the District of Columbia” have been deleted entirely as superfluous inview of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district”, and section 88 of Title 28 which states that “the District of Columbia constitutes one judicial district”.
 
 #### Amendments
 
-2005—Subsec. (d). Pub. L. 109–58 added subsec. (d).
+<b>2005</b>—Subsec. (d). Pub. L. 109–58 added subsec. (d).
 

@@ -6,9 +6,9 @@ The Secretary, upon the recommendation of the Under Secretary for Health and pur
 
 #### Amendments
 
-1992—Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+<b>1992</b>—Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1991—Pub. L. 102–40, §401(a)(4)(A), renumbered section 4131 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §401(a)(4)(A), renumbered section 4131 of this title as this section.
 
 Pub. L. 102–40, §403(a)(1), substituted “Secretary” for “Administrator”.
 

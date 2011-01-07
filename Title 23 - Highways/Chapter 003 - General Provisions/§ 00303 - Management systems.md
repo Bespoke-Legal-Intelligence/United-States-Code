@@ -66,7 +66,7 @@ A prior section 303, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 912; Pub. L. 87�
 
 #### Amendments
 
-1995—Subsec. (c). Pub. L. 104–59, §205(a)(1), added subsec. (c) and struck out former subsec. (c) which read as follows:
+<b>1995</b>—Subsec. (c). Pub. L. 104–59, §205(a)(1), added subsec. (c) and struck out former subsec. (c) which read as follows:
 
 “(c)
 
@@ -74,7 +74,7 @@ State Requirements.—The Secretary may withhold up to 10 percent of the funds a
 
 Subsec. (f). Pub. L. 104–59, §205(a)(2), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading and realigned margins, and added par. (2).
 
-1994—Subsec. (c). Pub. L. 103–429, §3(8), substituted “chapter 53 of title 49” for “the Federal Transit Act”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–429, §3(8), substituted “chapter 53 of title 49” for “the Federal Transit Act”.
 
 Subsec. (d). Pub. L. 103–429, §3(9), substituted “chapter 53 of title 49” for “the Federal Transit Act” and “chapter 53” for “such Act”.
 

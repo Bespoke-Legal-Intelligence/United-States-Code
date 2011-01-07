@@ -28,7 +28,7 @@ From the amount (if any) appropriated pursuant to subsection (a) of this section
 
 #### (2) Territories
 
-&emsp;From the amount (if any) appropriated pursuant to subsection (a) of this section for any fiscal year that remains after applying subection <sup>1</sup> (b) of this section for the fiscal year, the Secretary shall allot to each of the jurisdictions of Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa an amount determined in the same manner as the allotment to each of suchjurisdictions is determined under section 623 of this title.
+&emsp;From the amount (if any) appropriated pursuant to subsection (a) of this section for any fiscal year that remains after applying subection <sup>1</sup> (b) of this section for the fiscal year, the Secretary shall allot to each of the jurisdictions of Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 623 of this title.
 
 #### (3) Other States
 
@@ -44,7 +44,7 @@ The Secretary may make a grant to a State which has a plan approved under this s
 
 #### (e) Applicability of certain rules
 
-The rules of subsections (b) and (c) of section 629d of this title shall apply in like manner to the amounts made available pursuant to subsection (a).
+The rules of subsections (b) and (c) of section 629d of this title shall apply in like manner tothe amounts made available pursuant to subsection (a).
 
 #### (f) Targeted grants to increase the well-being of, and to improve the permanency outcomes for, children affected by methamphetamine or other substance abuse
 
@@ -250,9 +250,9 @@ A prior section 437 of act Aug. 14, 1935, was classified to section 637 of this 
 
 #### Amendments
 
-2008—Subsec. (c)(3). Pub. L. 110–246, §4002(b)(1)(D), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp”.
+<b>2008</b>—Subsec. (c)(3). Pub. L. 110–246, §4002(b)(1)(D), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp”.
 
-2006—Pub. L. 109–288, §4(b)(2)(B)(i), inserted “and targeted” after “Discretionary” in section catchline.
+<b>2006</b>—Pub. L. 109–288, §4(b)(2)(B)(i), inserted “and targeted” after “Discretionary” in section catchline.
 
 Subsec. (a). Pub. L. 109–288, §3(b), substituted “2007 through 2011” for “2002 through 2006”.
 

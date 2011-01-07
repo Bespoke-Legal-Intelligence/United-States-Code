@@ -82,7 +82,7 @@ A prior section 3839aa–1, Pub. L. 99–198, title XII, §1240A, as added Pub. 
 
 #### Amendments
 
-2008—Pub. L. 110–246, §2502, amended section generally. Prior to amendment, section defined “beginning farmer or rancher”, “eligible land”, “land management practice”, “livestock”, “practice”, and “structural practice”.
+<b>2008</b>—Pub. L. 110–246, §2502, amended section generally. Prior to amendment, section defined “beginning farmer or rancher”, “eligible land”, “land management practice”, “livestock”, “practice”, and “structural practice”.
 
 #### Effective Date of 2008 Amendment
 

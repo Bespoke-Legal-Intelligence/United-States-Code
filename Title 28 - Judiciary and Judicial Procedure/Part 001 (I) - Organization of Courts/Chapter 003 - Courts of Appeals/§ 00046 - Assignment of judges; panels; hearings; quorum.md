@@ -4,7 +4,7 @@
 
 (b) In each circuit the court may authorize the hearing and determination of cases and controversies by separate panels, each consisting of three judges, at least a majority of whom shall be judges of that court, unless such judges cannot sit because recused or disqualified, or unless the chief judge of that court certifies that there is an emergency including, but not limited to, the unavailability of a judge of the court because of illness. Such panels shall sit at the times and places and hear the cases and controversies assigned as the court directs. The United States Court of Appeals for the Federal Circuit shall determine by rule a procedure for the rotation of judges from panel to panel to ensure that all of the judges sit on a representative cross section of the cases heard and, notwithstanding the first sentence of this subsection, may determine by rule the number of judges, not less than three, who constitute a panel.
 
-(c) Cases and controversies shall be heard and determined by a court or panel of not more than three judges (except that the United States Court of Appeals for the Federal Circuit may sit in panels of more than three judges if its rules so provide), unless a hearing or rehearing before the court in banc is ordered by a majority of the circuit judges of the circuit who are in regular active service. A court in banc shall consist of all circuit judges in regular active service, or such number of judges as may be prescribed in accordance with section 6 of Public Law 95–486 (92 Stat. 1633), except that any senior circuit judge of the circuit shall be eligible (1) to participate, at his election and upon designation and assignment pursuant to section 294(c) of thistitle and the rules of the circuit, as a member of an in banc court reviewing a decision of a panel of which such judge was a member, or (2) to continue to participate in the decision of a case or controversy that was heard or reheard by the court in banc at a time when such judge was in regular active service.
+(c) Cases and controversies shall be heard and determined by a court or panel of not more thanthree judges (except that the United States Court of Appeals for the Federal Circuit may sit in panels of more than three judges if its rules so provide), unless a hearing or rehearing before the court in banc is ordered by a majority of the circuit judges of the circuit who are in regular active service. A court in banc shall consist of all circuit judges in regular active service, or such number of judges as may be prescribed in accordance with section 6 of Public Law 95–486 (92 Stat. 1633), except that any senior circuit judge of the circuit shall be eligible (1) to participate, at his election and upon designation and assignment pursuant to section 294(c) of this title and the rules of the circuit, as a member of an in banc court reviewing a decision of a panel of which such judge was a member, or (2) to continue to participate in the decision of a case or controversy that was heard or reheard by the court in banc at a time when such judge was in regular active service.
 
 (d) A majority of the number of judges authorized to constitute a court or panel thereof, as provided in paragraph (c), shall constitute a quorum.
 
@@ -30,9 +30,9 @@ Section 6 of Public Law 95–486 (92 Stat. 1633), referred to in subsec. (c), is
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–175, in last sentence, inserted “(1)” after “eligible” and “, or (2) to continue to participate in the decision of a case or controversy that was heard or reheard by the court in banc at a time when such judge was in regular active service” before period at end.
+<b>1996</b>—Subsec. (c). Pub. L. 104–175, in last sentence, inserted “(1)” after “eligible” and “, or (2) to continue to participate in the decision of a case or controversy that was heard or reheard by the court in banc at a time when such judge was in regular active service” before period at end.
 
-1982—Subsec. (a). Pub. L. 97–164, §103(a), substituted “panels” for “divisions”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–164, §103(a), substituted “panels” for “divisions”.
 
 Subsec. (b). Pub. L. 97–164, §103(b), substituted “panels” for “divisions” wherever appearing and inserted provisions requiring that at least a majority of the panels of each circuit be judges of that court, unless such judges cannot sit because recused or disqualified, or unless the chief judge of that court certifies that there is an emergency including, but not limited to, the unavailability of a judge of the court because of illness, and that the United States Court of Appeals for the Federal Circuit determine by rule a procedure for the rotation of judges from panel to panel to ensure that all of the judges sit on a representative cross section of the cases heard and determine by rule the number of judges, not less than three, who constitute a panel.
 
@@ -40,11 +40,11 @@ Subsec. (c). Pub. L. 97–164, §§103(c), 205, inserted provision that the Unit
 
 Subsec. (d). Pub. L. 97–164, §103(d), substituted “panel” for “division”.
 
-1978—Pub. L. 95–486, §5(b), substituted “panels” for “divisions” in section catchline.
+<b>1978</b>—Pub. L. 95–486, §5(b), substituted “panels” for “divisions” in section catchline.
 
 Subsec. (c). Pub. L. 95–486, §5(a), substituted “panel” for “division” and struck out provision authorizing a retired circuit judge to sit as a judge of the court in banc in the rehearing of a case if he sat in the court or division in the original hearing of such case.
 
-1963—Subsec. (c). Pub. L. 88–176 inserted “regular” before “active service” wherever appearing, and provided that a retired circuit judge shall be competent to sit as a judge of the court in banc, in a rehearing if he sat in at the original hearing.
+<b>1963</b>—Subsec. (c). Pub. L. 88–176 inserted “regular” before “active service” wherever appearing, and provided that a retired circuit judge shall be competent to sit as a judge of the court in banc, in a rehearing if he sat in at the original hearing.
 
 #### Effective Date of 1982 Amendment
 

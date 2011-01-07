@@ -18,7 +18,7 @@ The Office shall allocate 20 per centum of the total amount available for grants
 
 #### (c) Payment limitation
 
-Notwithstanding the other provisions of this section, the total of the payments from the appropriations for any fiscal year under this chapter made with respect to programs or projects in any one State may not exceed an amount equal to 121/2 per centum of such appropriation.
+Notwithstanding the other provisions of this section, the total of the payments from the appropriations for any fiscal year under this chapter made with respect to programs or projects in any one State may not exceed an amount equal to 12½ per centum of such appropriation.
 
 (Pub. L. 91–648, title V, §506, Jan. 5, 1971, 84 Stat. 1927; Pub. L. 95–454, title VI, §602(e), Oct. 13, 1978, 92 Stat. 1189; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
 
@@ -28,11 +28,11 @@ This chapter, referred to in subsecs. (a), (b)(1), and (c), means the provisions
 
 #### Amendments
 
-1978—Subsec. (b)(2), (5). Pub. L. 95–454 inserted references to Commonwealth of Puerto Rico, Guam, American Samoa, and the Virgin Islands.
+<b>1978</b>—Subsec. (b)(2), (5). Pub. L. 95–454 inserted references to Commonwealth of Puerto Rico, Guam, American Samoa, and the Virgin Islands.
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out asa note under section 1101 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of Title 5, Government Organization and Employees.
 
 #### Transfer of Functions
 

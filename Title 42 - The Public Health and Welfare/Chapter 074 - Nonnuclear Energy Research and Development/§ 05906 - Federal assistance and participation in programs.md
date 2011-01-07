@@ -26,7 +26,7 @@ Joint Federal-industry corporations proposed for congressional authorization pur
 
 &emsp;(2) Each corporation shall have—
 
-&emsp;&emsp;(A) a Board of nine directors consisting of individuals who are citizens of the UnitedStates, of whom one shall be elected annually by the Board to serve as Chairman. The Board shall be empowered to adopt and amend bylaws. Five members of the Board shall be appointed by the President of the United States, by and with the advice and consent of the Senate, and four members of the Board shall be appointed by the President on the basis of recommendations received by him from any non-Federal entity or entities entering into contractual arrangements to participate in the corporation;
+&emsp;&emsp;(A) a Board of nine directors consisting of individuals who are citizens of the United States, of whom one shall be elected annually by the Board to serve as Chairman. The Board shall be empowered to adopt and amend bylaws. Five members of the Board shall be appointed by the President of the United States, by and with the advice and consent of the Senate, and four members of the Board shall be appointed by the President on the basis of recommendations received by him from any non-Federal entity or entities entering into contractual arrangements to participate in the corporation;
 
 &emsp;&emsp;(B) a President and such other officers and employees as may be named and appointed by the Board (with the rates of compensation of all officers and employees being fixed by the Board); and
 
@@ -48,7 +48,7 @@ Competitive systems of price supports proposed for congressional authorization p
 
 &emsp;(1) The Secretary shall determine the types and capacities of the desired full-scale, commercial-size facility or other operation which would demonstrate the technical, environmental, and economic feasibility of a particular nonnuclear energy technology.
 
-&emsp;(2) The Secretary may award planning grants for the purpose of financing a study of the full cycle economic and environmental costs associated with the demonstration facility selected pursuant to paragraph (1) of this subsection. Such planning grants may be awarded to Federal and non-Federal entities including, but not limited to, industrial entities, universities, and nonprofit organizations. Such planning grants may also be used by the grantee to prepare a detailed and comprehensive bid to construct the demonstration facility.
+&emsp;(2) The Secretary may award planning grants for the purpose of financing a study of the full cycle economic and environmental costs associated with the demonstration facility selected pursuant to paragraph (1) of this subsection. Such planning grants may be awarded to Federal and non-Federal entitiesincluding, but not limited to, industrial entities, universities, and nonprofit organizations. Such planning grants may also be used by the grantee to prepare a detailed and comprehensive bid to construct the demonstration facility.
 
 &emsp;(3) Following the completion of the studies pursuant to the planning grants awarded under paragraph (2) of this subsection regarding each such potential price supported demonstration facility for which the Secretary intends to request congressional authorization, he shall invite bids from all interested parties to determine the minimum amount of Federal price support needed to construct the demonstration facility. The Secretary may designate one or more competing entities, each to construct one commercial demonstration facility. Such designation shall be made on the basis of those entities, (A) commitment to construct the demonstration facility at the minimum level of Federal price supports, (B) detailed plan of environmental protection, and (C) proposed design and operation of the demonstration facility.
 
@@ -70,15 +70,15 @@ Section 5919 of this title, referred to in subsec. (a)(7), was in the original �
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–58, §1009(b)(5)(A), substituted “Secretary” for “Administrator” in introductory provisions.
+<b>2005</b>—Subsec. (a). Pub. L. 109–58, §1009(b)(5)(A), substituted “Secretary” for “Administrator” in introductory provisions.
 
 Subsec. (a)(4). Pub. L. 109–58, §1009(b)(5)(B), substituted “of this section” for “of the section”.
 
 Subsecs. (b), (c). Pub. L. 109–58, §1009(b)(5)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
-1986—Subsec. (b)(7). Pub. L. 99–386 struck out subpar. (A) which related to submission of a report by Secretary to House and Senate, prior to establishment of any joint Federal-industry corporation pursuant to this chapter, setting forth in detail consistency of establishment of corporation with this section and section 5904 of this title, and proposed purpose and activities of corporation, and struck out subpar. (B) designation.
+<b>1986</b>—Subsec. (b)(7). Pub. L. 99–386 struck out subpar. (A) which related to submission of a report by Secretary to House and Senate, prior to establishment of any joint Federal-industry corporation pursuant to this chapter, setting forth in detail consistency of establishment of corporation with this section and section 5904 of this title, and proposed purpose and activities of corporation, and struck out subpar. (B) designation.
 
-1978—Subsec. (a)(7). Pub. L. 95–238 added par. (7).
+<b>1978</b>—Subsec. (a)(7). Pub. L. 95–238 added par. (7).
 
 #### Nonapplicability of Title II of Pub. L. 95–238 to Any Authorization or Appropriation for Military Application of Nuclear Energy, Etc.; Definitions
 

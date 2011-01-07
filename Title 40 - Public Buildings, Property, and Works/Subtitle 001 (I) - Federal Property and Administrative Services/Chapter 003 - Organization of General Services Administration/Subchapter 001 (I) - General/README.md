@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—GENERAL
 
-<i><sup>1</sup></i><i> Another chapter 3 is set out in subtitle V of this title.</i>
-
-<i><sup>2</sup></i><i> Section repealed by Pub. L. 111–8 without corresponding amendment of chapter analysis.</i>
-
 
 ---
 

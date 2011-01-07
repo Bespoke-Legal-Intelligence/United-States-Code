@@ -16,11 +16,11 @@ Whoever willfully attempts or conspires to do any of the aforesaid acts—
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–177 inserted “or conspires” before “to do any of the aforesaid acts” in fourth par.
+<b>2006</b>—Subsec. (a). Pub. L. 109–177 inserted “or conspires” before “to do any of the aforesaid acts” in fourth par.
 
-1995—Pub. L. 104–88 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1995</b>—Pub. L. 104–88 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
 #### Effective Date of 1995 Amendment
 

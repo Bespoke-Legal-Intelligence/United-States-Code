@@ -100,7 +100,7 @@ The Equity in Educational Land-Grant Status Act of 1994, referred to in subsec. 
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–373, §2(a)(2)(A), in second sentence, redesignated pars. (1) to (7) as subpars. (A) to (G), respectively.
+<b>2000</b>—Subsec. (a). Pub. L. 106–373, §2(a)(2)(A), in second sentence, redesignated pars. (1) to (7) as subpars. (A) to (G), respectively.
 
 Pub. L. 106–373, §2(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “The Congress declares that, in order to prevent famine and establish freedom from hunger, the United States should strengthen the capacities of the United States land-grant and other eligible universities in program-related agricultural institutional development and research, consistent with sections 2151a and 2151a–1 of this title, should improve their participation in the United States Government's international efforts to apply more effective agricultural sciences to the goal of increasing world food production, and in generalshould provide increased and longer term support to the application of science to solving food and nutrition problems of the developing countries.”
 
@@ -136,7 +136,7 @@ Subsec. (e). Pub. L. 106–373, §2(e), inserted “United States” before “A
 
 Subsecs. (f) to (h). Pub. L. 106–373, §2(f)—(h), added subsecs. (f) to (h).
 
-1978—Subsecs. (f), (g). Pub. L. 95–424 struck out subsecs. (f) defining “agriculture”, and (g) defining “farmers”.
+<b>1978</b>—Subsecs. (f), (g). Pub. L. 95–424 struck out subsecs. (f) defining “agriculture”, and (g) defining “farmers”.
 
 #### Effective Date of 1978 Amendment
 

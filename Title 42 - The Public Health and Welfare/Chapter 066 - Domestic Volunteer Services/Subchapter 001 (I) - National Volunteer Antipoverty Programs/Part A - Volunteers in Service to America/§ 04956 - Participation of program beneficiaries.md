@@ -6,5 +6,5 @@ To the maximum extent practicable, the people of the communities to be served by
 
 #### Amendments
 
-1984—Pub. L. 98–288 substituted “establish in regulations” for “take all necessary steps to establish, in regulations he shall prescribe”.
+<b>1984</b>—Pub. L. 98–288 substituted “establish in regulations” for “take all necessary steps to establish, in regulations he shall prescribe”.
 

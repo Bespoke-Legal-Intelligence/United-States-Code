@@ -44,11 +44,11 @@ June 29, 1936, ch. 858, title XIII, §1306, as added Pub. L. 96–453, §2, Oct.
 
 #### Amendments
 
-2008—Pub. L. 110–181, §3523(b), repealed Pub. L. 109–163, §3509. See 2006 Amendment note below.
+<b>2008</b>—Pub. L. 110–181, §3523(b), repealed Pub. L. 109–163, §3509. See 2006 Amendment note below.
 
-Subsec. (a). Pub. L. 110–181, §3523(a)(4), incorporated the substance of the amendment by Pub. L. 109–163, §3509, into this section by substituting “of the United States and to perform functions to assist the United States merchant marine, as determined necessary bythe Secretary.” for “of the United States.” See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Subsec. (a). Pub. L. 110–181, §3523(a)(4), incorporated the substance of the amendment by Pub. L. 109–163, §3509, into this section by substituting “of the United States and to perform functions to assist the United States merchant marine, as determined necessary by the Secretary.” for “of the United States.” See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-2006—Pub. L. 109–163, §3509, as amended by Pub. L. 109–364, §3510(d)(1), which directed the amendment of section 1295e(a) of the former Appendix to this title from which subsec. (a) of this section was derived, was repealed by Pub. L. 110–181, §3523(b). See 2008 Amendment note for subsec. (a) and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–163, §3509, as amended by Pub. L. 109–364, §3510(d)(1), which directed the amendment of section 1295e(a) of the former Appendix to this title from which subsec. (a) of this section was derived, was repealed by Pub. L. 110–181, §3523(b). See 2008 Amendment note for subsec. (a) and Historical and Revision notes above.
 
 #### Effective Date of 2006 Amendment
 

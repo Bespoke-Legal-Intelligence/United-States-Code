@@ -16,7 +16,7 @@ For the purposes of this chapter—
 
 (f) The term “food” means (1) articles used for food or drink for man or other animals, (2) chewing gum, and (3) articles used for components of any such article.
 
-(g)(1) The term “drug” means (A) articles recognized in the official United States Pharmacopoeia, official Homoeopathic Pharmacopoeia of the United States, or official National Formulary, or any supplement to any of them; and (B) articles intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease in man or other animals; and (C) articles (other than food) intended to affect the structure or any function of the body of man or other animals; and (D) articles intended for use as a component of any article specified in clause (A), (B), or (C). A food or dietary supplement for which a claim, subject to sections 343(r)(1)(B)and 343(r)(3) of this title or sections 343(r)(1)(B) and 343(r)(5)(D) of this title, is made in accordance with the requirements of section 343(r) of this title is not a drug solely because the label or the labeling contains such a claim. A food, dietary ingredient, or dietary supplement for which a truthful and not misleading statement is made in accordance with section 343(r)(6) of this title is not a drug under clause (C) solely because the label or the labeling contains such a statement.
+(g)(1) The term “drug” means (A) articles recognized in the official United States Pharmacopoeia, official Homoeopathic Pharmacopoeia of the United States, or official National Formulary, or any supplement to any of them; and (B) articles intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease in man or other animals; and (C) articles (other than food) intended to affect the structure or any function of the body of man or other animals; and (D) articles intended for use as a component of any article specified in clause (A), (B), or (C). A food or dietary supplement for which a claim, subject to sections 343(r)(1)(B) and 343(r)(3) of this title or sections 343(r)(1)(B) and 343(r)(5)(D) of this title, is made in accordance with the requirements of section 343(r) of this title is not a drug solely because the label or the labeling contains such a claim. A food, dietary ingredient, or dietary supplement for which a truthful and not misleading statement is made in accordance with section 343(r)(6) of this title is not a drug under clause (C) solely because the label or the labeling contains such a statement.
 
 (2) The term “counterfeit drug” means a drug which, or the container or labeling of which, without authorization, bears the trademark, trade name, or other identifying mark, imprint, or device, or any likeness thereof, of a drug manufacturer, processor, packer, or distributor other than the person or persons who in fact manufactured, processed, packed, or distributed such drug and which thereby falsely purports or is represented to be the product of, or to have been packed or distributed by, such other drug manufacturer, processor, packer, or distributor.
 
@@ -98,7 +98,7 @@ For the purposes of this chapter—
 
 &emsp;(A) is a dye, pigment, or other substance made by a process of synthesis or similar artifice, or extracted, isolated, or otherwise derived, with or without intermediate or final change of identity, from a vegetable, animal, mineral, or other source, and
 
-&emsp;(B) when added or applied to a food, drug, or cosmetic, or to the human body or any part thereof, is capable (alone or through reactionwith other substance) of imparting color thereto;
+&emsp;(B) when added or applied to a food, drug, or cosmetic, or to the human body or any part thereof, is capable (alone or through reaction with other substance) of imparting color thereto;
 
 > except that such term does not include any material which the Secretary, by regulation, determines is used (or intended to be used) solely for a purpose or purposes other than coloring.
 
@@ -226,7 +226,7 @@ For the purposes of this chapter—
 
 &emsp;(2) includes any nonradioactive reagent, reagent kit, ingredient, nuclide generator, accelerator, target material, electronic synthesizer, or other apparatus or computer program to be used in the preparation of such a drug.
 
-(jj) The term “antibiotic drug” means any drug (except drugs for use in animals other than humans) composed wholly or partly of any kind of penicillin, streptomycin, chlortetracycline, chloramphenicol, bacitracin, or any other drug intended for human use containing any quantity of any chemical substance which is produced by a micro-organism and which has the capacity to inhibit or destroy micro-organisms in dilute solution (including a chemically synthesized equivalent of any such substance) or any derivative thereof.
+(jj) The term “antibiotic drug” means any drug (except drugs for use in animals other thanhumans) composed wholly or partly of any kind of penicillin, streptomycin, chlortetracycline, chloramphenicol, bacitracin, or any other drug intended for human use containing any quantity of any chemical substance which is produced by a micro-organism and which has the capacity to inhibit or destroy micro-organisms in dilute solution (including a chemically synthesized equivalent of any such substance) or any derivative thereof.
 
 (kk)
 
@@ -284,9 +284,9 @@ Section 101(4) of the Food and Drug Administration Modernization Act of 1997, re
 
 #### Amendments
 
-2009—Par. (rr). Pub. L. 111–31 added par. (rr).
+<b>2009</b>—Par. (rr). Pub. L. 111–31 added par. (rr).
 
-2007—Par. (ff). Pub. L. 110–85 substituted “paragraph (g) and section 350f of this title” for “paragraph (g)” in concluding provisions.
+<b>2007</b>—Par. (ff). Pub. L. 110–85 substituted “paragraph (g) and section 350f of this title” for “paragraph (g)” in concluding provisions.
 
 2004–Par. (u). Pub. L. 108–282, §102(b)(5)(A), substituted “360b, 360ccc” for “360b”.
 
@@ -296,15 +296,15 @@ Pars. (nn) to (pp). Pub. L. 108–282, §102(b)(1), added pars. (nn) to (pp).
 
 Par. (qq). Pub. L. 108–282, §203(c)(1), added par. (qq).
 
-2002—Par. (kk). Pub. L. 107–109 added par. (kk).
+<b>2002</b>—Par. (kk). Pub. L. 107–109 added par. (kk).
 
 Pars. (<i>ll</i>), (mm). Pub. L. 107–250 added pars. (<i>ll</i>) and (mm).
 
-1998—Par. (q)(1). Pub. L. 105–324, §2(a), added subpar. (1) and struck out former subpar. (1) which read as follows: “The term ‘pesticide chemical’ means any substance that is a pesticide within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act, including all active and inert ingredients of such pesticide.”
+<b>1998</b>—Par. (q)(1). Pub. L. 105–324, §2(a), added subpar. (1) and struck out former subpar. (1) which read as follows: “The term ‘pesticide chemical’ means any substance that is a pesticide within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act, including all active and inert ingredients of such pesticide.”
 
 Par. (q)(3). Pub. L. 105–324, §2(c), substituted “subparagraphs (1) and (2)” for “paragraphs (1) and (2)” in introductory provisions.
 
-1997—Par. (aa). Pub. L. 105–115, §125(b)(2)(A), struck out “or 357” after “section 355(j)”.
+<b>1997</b>—Par. (aa). Pub. L. 105–115, §125(b)(2)(A), struck out “or 357” after “section 355(j)”.
 
 Par. (dd). Pub. L. 105–115, §125(b)(2)(A), struck out “357,” after “section 355,”.
 
@@ -314,7 +314,7 @@ Par. (ii). Pub. L. 105–115, §121(a), added par. (ii).
 
 Par. (jj). Pub. L. 105–115, §125(e), added par. (jj).
 
-1996—Par. (q). Pub. L. 104–170, §402(a), amended par. (q) generally. Prior to amendment, par. (q) read as follows: “The term ‘pesticide chemical’ means any substance which, alone, in chemical combination or in formulation with one or more other substances, is ‘a pesticide’ within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act as now in force or as hereafter amended, and which is used in the production, storage, or transportation of raw agricultural commodities.”
+<b>1996</b>—Par. (q). Pub. L. 104–170, §402(a), amended par. (q) generally. Prior to amendment, par. (q) read as follows: “The term ‘pesticide chemical’ means any substance which, alone, in chemical combination or in formulation with one or more other substances, is ‘a pesticide’ within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act as now in force or as hereafter amended, and which is used in the production, storage, or transportation of raw agricultural commodities.”
 
 Par. (s)(1), (2). Pub. L. 104–170, §402(b), amended subpars. (1) and (2) generally. Prior to amendment, subpars. (1) and (2) read as follows:
 
@@ -324,19 +324,19 @@ Par. (s)(1), (2). Pub. L. 104–170, §402(b), amended subpars. (1) and (2) gene
 
 Pars. (gg), (hh). Pub. L. 104–170, §402(c), added pars. (gg) and (hh).
 
-1994—Par. (g)(1). Pub. L. 103–417, §10(a), amended last sentence generally. Prior to amendment, last sentence read as follows: “A food for which a claim, subject to sections 343(r)(1)(B) and 343(r)(3) of this title or sections 343(r)(1)(B) and 343(r)(5)(D) of this title, is made in accordance with the requirements of section 343(r) of this title is not a drug under clause (B) solely because the label or labeling contains such a claim.”
+<b>1994</b>—Par. (g)(1). Pub. L. 103–417, §10(a), amended last sentence generally. Prior to amendment, last sentence read as follows: “A food for which a claim, subject to sections 343(r)(1)(B) and 343(r)(3) of this title or sections 343(r)(1)(B) and 343(r)(5)(D) of this title, is made in accordance with the requirements of section 343(r) of this title is not a drug under clause (B) solely because the label or labeling contains such a claim.”
 
 Par. (s)(6). Pub. L. 103–417, §3(b), added subpar. (6).
 
 Par. (ff). Pub. L. 103–417, §3(a), added par. (ff).
 
-1993—Pars. (c), (d). Pub. L. 103–80, §3(dd)(1), substituted “Health and Human Services” for “Agriculture”.
+<b>1993</b>—Pars. (c), (d). Pub. L. 103–80, §3(dd)(1), substituted “Health and Human Services” for “Agriculture”.
 
 Par. (h). Pub. L. 103–80, §4(b), amended directory language of Pub. L. 102–300, §6(a)(1). See 1992 amendment note below.
 
 Pars. (v) to (ff). Pub. L. 103–80, §3(b), redesignated pars. (w) to (ff) as (v) to (ee), respectively.
 
-1992—Pars. (c), (d). Pub. L. 102–300, §6(b)(1), which directed the substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed because such words did not appear in the original statutory text. See 1993 Amendment note above and Transfer of Functions notes below.
+<b>1992</b>—Pars. (c), (d). Pub. L. 102–300, §6(b)(1), which directed the substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed because such words did not appear in the original statutory text. See 1993 Amendment note above and Transfer of Functions notes below.
 
 Par. (h). Pub. L. 102–300, §6(a)(1), as amended by Pub. L. 103–80, §4(b), substituted “its primary” for “any of its principal” in two places in concluding provisions.
 
@@ -348,31 +348,31 @@ Pars. (bb) to (ee). Pub. L. 102–282 added pars. (bb) to (ee).
 
 Par. (ff). Pub. L. 102–300, §6(a)(2), added par. (ff).
 
-1990—Par. (g)(1). Pub. L. 101–629, §16(b)(1), struck out “; but does not include devices or their components, parts, or accessories” after “clause (A), (B), or (C)”.
+<b>1990</b>—Par. (g)(1). Pub. L. 101–629, §16(b)(1), struck out “; but does not include devices or their components, parts, or accessories” after “clause (A), (B), or (C)”.
 
 Pub. L. 101–535 inserted at end “A food for which a claim, subject to sections 343(r)(1)(B) and 343(r)(3) of this title or sections 343(r)(1)(B) and 343(r)(5)(D) of this title, is made in accordance with the requirements of section 343(r) of this title is not a drug under clause (B) solely because the label or labeling contains such a claim.”
 
 Par. (h)(3). Pub. L. 101–629, §16(b)(2), which directed the amendment of subpar. (3) by substituting “its primary” for “any of its principal”, could not be executed because “any of its principal” did not appear in subpar. (3).
 
-1988—Par. (w)(3). Pub. L. 100–670 struck out subpar. (3) which read as follows: “which drug is composed wholly or partly of any kind of penicillin, streptomycin, chlortetracycline, chloramphenicol, or bacitracin, or any derivative thereof, except when there is in effect a published order of the Secretary declaring such drug not to be a new animal drug on the grounds that (A) the requirement of certification of batches of such drug, as provided for in section 360b(n) of this title, is not necessary to insure that the objectives specified in paragraph (3) thereof are achieved and (B) that neither subparagraph (1) nor (2) of this paragraph (w) applies to such drug.”
+<b>1988</b>—Par. (w)(3). Pub. L. 100–670 struck out subpar. (3) which read as follows: “which drug is composed wholly or partly of any kind of penicillin, streptomycin, chlortetracycline, chloramphenicol, or bacitracin, or any derivative thereof, except when there is in effect a published order of the Secretary declaring such drug not to be a new animal drug on the grounds that (A) the requirement of certification of batches of such drug, as provided for in section 360b(n) of this title, is not necessary to insure that the objectives specified in paragraph (3) thereof are achieved and (B) that neither subparagraph (1) nor (2) of this paragraph (w) applies to such drug.”
 
-1980—Par. (aa). Pub. L. 96–359 added par. (aa).
+<b>1980</b>—Par. (aa). Pub. L. 96–359 added par. (aa).
 
-1977—Par. (z). Pub. L. 95–203 added par. (z).
+<b>1977</b>—Par. (z). Pub. L. 95–203 added par. (z).
 
-1976—Par. (h). Pub. L. 94–295, §3(a)(1)(A), expanded definition of “device” to include implements, machines, implants, in vitro reagents, and other similar or related articles, added recognition in the National Formulary or the United States Pharmacopeia, or any supplement to the Formulary or Pharmacopeia, to the enumeration of conditions under which a device may qualify for inclusion under this chapter, and inserted requirements that a device be one which does not achieve any of its principal intended purposes through chemical action within or on the body of man or other animals and which is not dependent upon being metabolized for the achievement of any of its principal intended purposes.
+<b>1976</b>—Par. (h). Pub. L. 94–295, §3(a)(1)(A), expanded definition of “device” to include implements, machines, implants, in vitro reagents, and other similar or related articles, added recognition in the National Formulary or the United States Pharmacopeia, or any supplement to the Formulary or Pharmacopeia, to the enumeration of conditions under which a device may qualify for inclusion under this chapter, and inserted requirements that a device be one which does not achieve any of its principal intended purposes through chemical action within or on the body of man or other animals and which is not dependent upon being metabolized for the achievement of any of its principal intended purposes.
 
 Par. (n). Pub. L. 94–278 inserted “or advertising” after “labeling” wherever appearing.
 
 Par. (y). Pub. L. 94–295, §3(a)(2), added par. (y).
 
-1972—Par. (q). Pub. L. 92–516 substituted reference to pesticide for reference to economic poison.
+<b>1972</b>—Par. (q). Pub. L. 92–516 substituted reference to pesticide for reference to economic poison.
 
-1970—Par. (a)(2). Pub. L. 91–513, §701(g), struck out reference to sections 321, 331(i), 331(p), 331(q), 332, 333, 334, 337, 360, 360a, 372, 373, 374, and 375 of this title as they apply to depressant or stimulant drugs.
+<b>1970</b>—Par. (a)(2). Pub. L. 91–513, §701(g), struck out reference to sections 321, 331(i), 331(p), 331(q), 332, 333, 334, 337, 360, 360a, 372, 373, 374, and 375 of this title as they apply to depressant or stimulant drugs.
 
 Par. (v). Pub. L. 91–513, §701(a), struck out par. (v) which defined “depressant or stimulant drug”.
 
-1968—Par. (a)(2). Pub. L. 90–639, §4(a), extended provisions to cover depressant and stimulant drugs, the containers thereof, and equipment used in manufacturing, compounding, or processing such drugs, to the Canal Zone.
+<b>1968</b>—Par. (a)(2). Pub. L. 90–639, §4(a), extended provisions to cover depressant and stimulant drugs, the containers thereof, and equipment used in manufacturing, compounding, or processing such drugs, to the Canal Zone.
 
 Par. (p). Pub. L. 90–399, §102(a), (b), inserted “(except a new animal drug or an animal feed bearing or containing a new animal drug)” after “Any drug” in subpars. (1) and (2), respectively.
 
@@ -384,25 +384,25 @@ Par. (v)(3). Pub. L. 90–639, §1, inserted reference to lysergic acid diethyla
 
 Pars. (w), (x). Pub. L. 90–399, §102(e), added pars. (w) and (x).
 
-1965—Par. (g). Pub. L. 89–74, §9(b), designated existing provisions as subpar. (1), redesignated cls. (1) to (4)thereof as (A) to (D), substituted “(A), (B), or (C)” for “(1), (2), or (3)” and added subpar. (2).
+<b>1965</b>—Par. (g). Pub. L. 89–74, §9(b), designated existing provisions as subpar. (1), redesignated cls. (1) to (4) thereof as (A) to (D), substituted “(A), (B), or (C)” for “(1), (2), or (3)” and added subpar. (2).
 
 Par. (v). Pub. L. 89–74, §3(a), added par. (v).
 
-1962—Par. (a). Pub. L. 87–781, §307(a), designated existing provisions as subpar. (2), inserted “Commonwealth of Puerto Rico and the”, and added subpar. (1).
+<b>1962</b>—Par. (a). Pub. L. 87–781, §307(a), designated existing provisions as subpar. (2), inserted “Commonwealth of Puerto Rico and the”, and added subpar. (1).
 
 Par. (p)(1). Pub. L. 87–781, §102(a)(1), inserted “and effectiveness” after “to evaluate the safety”, and “and effective” after “as safe”.
 
 Par. (p)(2). Pub. L. 87–781, §102(a)(2), inserted “and effectiveness” after “safety”.
 
-1960—Par. (s). Pub. L. 86–618, §101(a), excluded color additives from definition of “food additive”.
+<b>1960</b>—Par. (s). Pub. L. 86–618, §101(a), excluded color additives from definition of “food additive”.
 
 Par. (t). Pub. L. 86–618, §101(c), added par. (t). Former par. (t) redesignated (u).
 
 Par. (u). Pub. L. 86–618, §101(b), redesignated par. (t) as (u) and inserted reference to section 376 of this title.
 
-1958—Pars. (s), (t). Pub. L. 85–929 added pars. (s) and (t).
+<b>1958</b>—Pars. (s), (t). Pub. L. 85–929 added pars. (s) and (t).
 
-1954—Pars. (q), (r). Act July 22, 1954, added pars. (q) and (r).
+<b>1954</b>—Pars. (q), (r). Act July 22, 1954, added pars. (q) and (r).
 
 #### Effective Date of 2004 Amendment
 
@@ -448,7 +448,7 @@ Section 107 of Pub. L. 87–781 provided that:
 
 “(c)(1) As used in this subsection, the term ‘enactment date’ means the date of enactment of this Act; and the term ‘basic Act’ means the Federal Food, Drug, and Cosmetic Act \[this chapter\].
 
-“(2) An application filed pursuant to section 505(b) of the basic Act \[section 355(b) of this title\] which was ‘effective’ within the meaning of that Act on the day immediately preceding the enactment date shall bedeemed as of the enactment date, to be an application ‘approved’ by the Secretary within the meaning of the basic Act as amended by this Act.
+“(2) An application filed pursuant to section 505(b) of the basic Act \[section 355(b) of this title\] which was ‘effective’ within the meaning of that Act on the day immediately preceding the enactment date shall be deemed as of the enactment date, to be an application ‘approved’ by the Secretary within the meaning of the basic Act as amended by this Act.
 
 “(3) In the case of any drug with respect to which an application filed under section 505(b) of the basic Act is deemed to be an approved application on the enactment date by virtue of paragraph (2) of this subsection—
 
@@ -488,7 +488,7 @@ Section 702 of Pub. L. 91–513, as amended by Pub. L. 93–481, §2, Oct. 26, 1
 
 “(c) All administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs \[now the Drug Enforcement Administration\] on the date of enactment of this Act \[Oct. 27, 1970\] shall be continued and brought to final determination in accord with laws and regulations in effect prior to such date of enactment. Where a drug is finally determined under such proceedings to be a depressant or stimulant drug, as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act \[par. (v) of this section\], such drug shall automatically be controlled under this title \[subchapter I of chapter 13 of this title\] by the Attorney General without further proceedings and listed in the appropriate schedule after he has obtained the recommendation of the Secretary. Any drug with respect to which such a final determination has been made prior to the date of enactment of this Act which is not listed in section 202 \[section 812 of this title\] within schedules I through V shall automatically be controlled under this title \[subchapter I of chapter 13 of this title\] by the Attorney General without further proceedings, and be listed in the appropriate schedule, after he has obtained the recommendations of the Secretary.
 
-“(d) Notwithstanding subsection (a) of this section or section 1103 \[of Pub. L. 91–513, set out as a note under sections 171 to 174 of this title\], section 4202 of title 18, United States Code, shall apply to any individual convicted under any of the laws repealed by this title or title III \[subchapter I or subchapter II of chapter 13 of this title\] without regard to the terms of any sentence imposed on such individual under such law.”
+“(d) Notwithstanding subsection (a) of this section or section 1103 \[of Pub. L. 91–513, set out as a note undersections 171 to 174 of this title\], section 4202 of title 18, United States Code, shall apply to any individual convicted under any of the laws repealed by this title or title III \[subchapter I or subchapter II of chapter 13 of this title\] without regard to the terms of any sentence imposed on such individual under such law.”
 
 #### Transfer of Functions
 
@@ -496,7 +496,7 @@ Secretary and Department of Health, Education, and Welfare redesignated Secretar
 
 Functions of Secretary of Health, Education, and Welfare \[now Health and Human Services\] under Federal Food, Drug, and Cosmetic Act, to the extent such functions related to administration and enforcement of the Poison Prevention Packaging Act of 1970 (15 U.S.C. 1471 et seq.), transferred to Consumer Product Safety Commission by section 2079 of Title 15, Commerce and Trade.
 
-Functions of Secretary of Health, Education, and Welfare \[now Health and Human Services\] under Drug Abuse Control Amendments of 1965 \[see Short Title of 1965 Amendment note set out under section 301 of this title\] transferred to Attorney General except functionof regulating counterfeiting of those drugs which are not “depressant or stimulant” drugs, see section 2 of Reorg. Plan No. 1 of 1968, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of Secretary of Health, Education, and Welfare \[now Health and Human Services\] under Drug Abuse Control Amendments of 1965 \[see Short Title of 1965 Amendment note set out under section 301 of this title\] transferred to Attorney General except function of regulating counterfeiting of those drugs which are not “depressant or stimulant” drugs, see section 2 of Reorg. Plan No. 1 of 1968, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 

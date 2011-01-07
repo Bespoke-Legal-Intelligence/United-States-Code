@@ -10,7 +10,7 @@ No classification or reclassification pursuant to the authority of this subchapt
 
 #### (c) Furnishing data
 
-In any request made to the Secretary for a land classification or reclassification under thissection, the organization or representatives of the water users shall furnish a list of those lands which are considered to be of comparatively low productivity or to be nonproductive, and of those lands which are considered to be of greater or lesser productivity than indicated by existing classifications, if any, made pursuant to the Federal reclamation laws, and shall furnish also such data relating thereto as the Secretary by regulation may require.
+In any request made to the Secretary for a land classification or reclassification under this section, the organization or representatives of the water users shall furnish a list of those lands which are considered to be of comparatively low productivity or to be nonproductive, and of those lands which are considered to be of greater or lesser productivity than indicated by existing classifications, if any, made pursuant to the Federal reclamation laws, and shall furnish also such data relating thereto as the Secretary by regulation may require.
 
 #### (d) Primary determination
 
@@ -42,7 +42,7 @@ Section 485c of this title, referred to in subsec. (g), was repealed by Pub. L. 
 
 #### Amendments
 
-1975—Subsecs. (f) to (i). Pub. L. 93–608 redesignated subsecs. (g) to (i) as (f) to (h), respectively. Former subsec. (f), which required a report to Congress by the Secretary on classifications and reclassifications or project lands, was struck out.
+<b>1975</b>—Subsecs. (f) to (i). Pub. L. 93–608 redesignated subsecs. (g) to (i) as (f) to (h), respectively. Former subsec. (f), which required a report to Congress by the Secretary on classifications and reclassifications or project lands, was struck out.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

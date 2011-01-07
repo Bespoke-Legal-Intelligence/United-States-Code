@@ -6,7 +6,7 @@ The program shall be conducted through a national headquarters, a network of ext
 
 #### (b) Direction
 
-The Director shall develop the overall direction of the program in coordination with a Council of Center Directors comprised of the directors of the extramural regional centers andthe National Institute for Undersea Science and Technology. The Director shall publish a draft program direction document not later than 1 year after March 30, 2009, in the Federal Register for a public comment period of not less than 120 days. The Director shall publish a final program direction, including responses to the comments received during the public comment period, in the Federal Register within 90 days after the close of the comment period. The program director shall update the program direction, with opportunity for public comment, at least every 5 years.
+The Director shall develop the overall direction of the program in coordination with a Council of Center Directors comprised of the directors of the extramural regional centers and the National Institute for Undersea Science and Technology. The Director shall publish a draft program direction document not later than 1 year after March 30, 2009, in the Federal Register for a public comment period of not less than 120 days. The Director shall publish a final program direction, including responses to the comments received during the public comment period, in the Federal Register within 90 days after the close of the comment period. The program director shall update the program direction, with opportunity for public comment, at least every 5 years.
 
 (Pub. L. 111–11, title XII, §12104, Mar. 30, 2009, 123 Stat. 1419.)
 

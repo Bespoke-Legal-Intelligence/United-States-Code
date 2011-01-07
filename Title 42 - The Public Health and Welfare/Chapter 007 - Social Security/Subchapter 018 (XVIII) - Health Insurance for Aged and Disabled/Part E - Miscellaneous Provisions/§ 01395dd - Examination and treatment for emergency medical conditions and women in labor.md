@@ -16,7 +16,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 #### (2) Refusal to consent to treatment
 
-&emsp;A hospital is deemed to meet the requirement of paragraph (1)(A) with respect to an individual if the hospital offers the individual the further medical examination and treatment described in that paragraph and informs the individual (or a person acting on the individual's behalf) of the risks and benefits to the individual of such examination and treatment, but the individual (or a person acting on the individual's behalf) refuses to consent to the examination and treatment. The hospital shall take all reasonable steps to secure the individual's (or person's) written informed consent to refuse such examination and treatment.
+&emsp;A hospital is deemed to meet the requirement of paragraph (1)(A) with respect to an individual if the hospital offers the individual the further medical examination and treatment described in that paragraph and informsthe individual (or a person acting on the individual's behalf) of the risks and benefits to the individual of such examination and treatment, but the individual (or a person acting on the individual's behalf) refuses to consent to the examination and treatment. The hospital shall take all reasonable steps to secure the individual's (or person's) written informed consent to refuse such examination and treatment.
 
 #### (3) Refusal to consent to transfer
 
@@ -84,7 +84,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 #### (C) Limitations on actions
 
-&emsp;&emsp;No action may be brought under this paragraph more than two years after the date ofthe violation with respect to which the action is brought.
+&emsp;&emsp;No action may be brought under this paragraph more than two years after the date of the violation with respect to which the action is brought.
 
 #### (3) Consultation with peer review organizations
 
@@ -140,7 +140,7 @@ A participating hospital may not delay provision of an appropriate medical scree
 
 A participating hospital may not penalize or take adverse action against a qualified medical person described in subsection (c)(1)(A)(iii) of this section or a physician because the person or physician refuses to authorize the transfer of an individual with an emergency medical condition that has not been stabilized or against any hospital employee because the employee reports a violation of a requirement of this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1867, as added Pub. L. 99–272, title IX, §9121(b), Apr. 7, 1986, 100 Stat. 164; amended Pub. L. 99–509, title IX,§9307(c)(4), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 99–514, title XVIII, §1895(b)(4), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4009(a)(1), formerly §4009(a)(1), (2), Dec. 22, 1987, 101 Stat. 1330–56, 1330–57; Pub. L. 100–360, title IV, §411(b)(8)(A)(i), July 1, 1988, 102 Stat. 772; Pub. L. 100–485, title VI, §608(d)(18)(E), Oct. 13, 1988, 102 Stat. 2419; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(xiv), 6211(a)–(h), Dec. 19, 1989, 103 Stat. 2154, 2245–2248; Pub. L. 101–508, title IV, §§4008(b)(1)–(3)(A), 4207(a)(1)(A), (2), (3), (k)(3), formerly 4027(a)(1)(A), (2), (3), (k)(3), Nov. 5, 1990, 104 Stat. 1388–44, 1388–117, 1388–124, renumbered and amended Pub. L. 103–432, title I, §160(d)(4), (5)(A), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373; Pub. L. 108–173, title VII, §736(a)(14), title IX, §944(b), (c)(1), Dec. 8, 2003, 117 Stat. 2355, 2423.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1867, as added Pub. L. 99–272, title IX, §9121(b), Apr. 7, 1986, 100 Stat. 164; amended Pub. L. 99–509, title IX, §9307(c)(4), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 99–514, title XVIII, §1895(b)(4), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4009(a)(1), formerly §4009(a)(1), (2), Dec. 22, 1987, 101 Stat. 1330–56, 1330–57; Pub. L. 100–360, title IV, §411(b)(8)(A)(i), July 1, 1988, 102 Stat. 772; Pub. L. 100–485, title VI, §608(d)(18)(E), Oct. 13, 1988, 102 Stat. 2419; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(xiv), 6211(a)–(h), Dec. 19, 1989, 103 Stat. 2154, 2245–2248; Pub. L. 101–508, title IV, §§4008(b)(1)–(3)(A), 4207(a)(1)(A), (2), (3), (k)(3), formerly 4027(a)(1)(A), (2), (3), (k)(3), Nov. 5, 1990, 104 Stat. 1388–44, 1388–117, 1388–124, renumbered and amended Pub. L. 103–432, title I, §160(d)(4), (5)(A), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373; Pub. L. 108–173, title VII, §736(a)(14), title IX, §944(b), (c)(1), Dec. 8, 2003, 117 Stat. 2355, 2423.)
 
 #### References in Text
 
@@ -152,7 +152,7 @@ A prior section 1395dd, act Aug. 14, 1935, ch. 531, title XVIII, §1867, as adde
 
 #### Amendments
 
-2003—Subsec. (d)(1)(B). Pub. L. 108–173, §736(a)(14)(A), substituted “if the violation is” for “if the violation is is” in concluding provisions.
+<b>2003</b>—Subsec. (d)(1)(B). Pub. L. 108–173, §736(a)(14)(A), substituted “if the violation is” for “if the violation is is” in concluding provisions.
 
 Subsec. (d)(3). Pub. L. 108–173, §944(c)(1), inserted “or in terminating a hospital's participation under this subchapter” after “in imposing sanctions under paragraph (1)” and inserted at end “Except in the case in which a delay would jeopardize the health or safety of individuals, the Secretary shall also request such a review before making a compliance determination as part of the process of terminating a hospital's participation under this subchapter for violations related to the appropriateness of a medical screening examination, stabilizing treatment, or an appropriate transfer as required by this section, and shall provide a period of 5 days for such review. The Secretary shall provide a copy of the organization's report to the hospital or physician consistent with confidentiality requirements imposed on the organization under such part B.”
 
@@ -162,11 +162,11 @@ Subsec. (e)(1)(B). Pub. L. 108–173, §736(a)(14)(B), substituted “a pregnant
 
 Subsec. (e)(2). Pub. L. 108–173, §736(a)(14)(C), substituted “means a hospital” for “means hospital”.
 
-1997—Subsec. (e)(5). Pub. L. 105–33 substituted “critical access” for “rural primary care”.
+<b>1997</b>—Subsec. (e)(5). Pub. L. 105–33 substituted “critical access” for “rural primary care”.
 
-1994—Subsec. (d)(3). Pub. L. 103–432, §160(d)(5)(A), made technical amendment to Pub. L. 101–508, §4207(a)(1)(A). See 1990 Amendment note below.
+<b>1994</b>—Subsec. (d)(3). Pub. L. 103–432, §160(d)(5)(A), made technical amendment to Pub. L. 101–508, §4207(a)(1)(A). See 1990 Amendment note below.
 
-1990—Subsec. (c)(2)(C). Pub. L. 101–508, §4008(b)(3)(A)(iii), substituted “subsection (d)(1)(C)” for “subsection (d)(2)(C)”.
+<b>1990</b>—Subsec. (c)(2)(C). Pub. L. 101–508, §4008(b)(3)(A)(iii), substituted “subsection (d)(1)(C)” for “subsection (d)(2)(C)”.
 
 Subsec. (d)(1). Pub. L. 101–508, §4008(b)(3)(A)(i), (ii), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “If a hospital knowingly and willfully, or negligently, fails to meet the requirements of this section, such hospital is subject to—
 
@@ -178,13 +178,13 @@ Subsec. (d)(1)(B). Pub. L. 101–508, §4207(a)(2), (3), formerly §4027(a)(2), 
 
 Subsec. (d)(2). Pub. L. 101–508, §4008(b)(3)(A)(ii), redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
-Subsec. (d)(2)(A). Pub. L. 101–508, §4008(b)(1), (2), substituted “negligently” for “knowingly” and inserted “(or not more than $25,000 in the case of a hospital with less than 100 beds)” after “$50,000”.
+Subsec. (d)(2)(A). Pub. L. 101–508, §4008(b)(1), (2), substituted “negligently” for “knowingly” and inserted“(or not more than $25,000 in the case of a hospital with less than 100 beds)” after “$50,000”.
 
 Subsec. (d)(3). Pub. L. 101–508, §4207(a)(1)(A), formerly §4027(a)(1)(A), as renumbered and amended by Pub. L. 103–432, §160(d)(4), (5)(A), added par. (3). Former par. (3) redesignated (2).
 
 Subsec. (i). Pub. L. 101–508, §4207(k)(3), formerly §4027(k)(3), as renumbered by Pub. L. 103–432, §160(d)(4), amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “A participating hospital may not penalize or take adverse action against a physician because the physician refuses to authorize the transfer of an individual with an emergency medical condition that has not been stabilized.”
 
-1989—Pub. L. 101–239, §6211(h)(2)(A), struck out “active” before “labor” in section catchline.
+<b>1989</b>—Pub. L. 101–239, §6211(h)(2)(A), struck out “active” before “labor” in section catchline.
 
 Subsec. (a). Pub. L. 101–239, §6211(h)(2)(B), which directed the amendment of subsec. (a) by striking out “or to determine if the individual is in active labor (within the meaning of section (e)(2) of this section)” was executed by striking out “or to determine if the individual is in active labor (within the meaning of subsection (e)(2) of this section)” after “exists”.
 
@@ -256,15 +256,15 @@ Pub. L. 101–239, §6003(g)(3)(D)(xiv), added par. (6).
 
 Subsecs. (g) to (i). Pub. L. 101–239, §6211(f), added subsecs. (g) to (i).
 
-1988—Subsec. (d)(1). Pub. L. 100–360, §411(b)(8)(A)(i), amended Pub. L. 100–203, §4009(a)(2), see 1987 Amendment note below.
+<b>1988</b>—Subsec. (d)(1). Pub. L. 100–360, §411(b)(8)(A)(i), amended Pub. L. 100–203, §4009(a)(2), see 1987 Amendment note below.
 
 Subsec. (d)(2). Pub. L. 100–360, §411(b)(8)(A)(i), as amended by Pub. L. 100–485, §608(d)(18)(E), amended Pub. L. 100–203, §4009(a)(1), see 1987 Amendment note below.
 
-1987—Subsec. (d)(1). Pub. L. 100–203, §4009(a)(2), which directed insertion of a provision related to imposing the sanction described in section 1395u(j)(2)(A) of this title, was amended generally by Pub. L. 100–360, §411(b)(8)(A)(i), so that it does not amend par. (1).
+<b>1987</b>—Subsec. (d)(1). Pub. L. 100–203, §4009(a)(2), which directed insertion of a provision related to imposing the sanction described in section 1395u(j)(2)(A) of this title, was amended generally by Pub. L. 100–360, §411(b)(8)(A)(i), so that it does not amend par. (1).
 
 Subsec. (d)(2). Pub. L. 100–203, §4009(a)(1), as amended by Pub. L. 100–360, §411(b)(8)(A)(i), as amended by Pub. L. 100–485, §608(d)(18)(E), substituted subpars. (A) and (B) for “In addition to the other grounds for imposition of a civil money penalty under section 1320a–7a(a) of this title, a participating hospital that knowingly violates a requirement of this section and the responsible physician in the hospital with respect to such a violation are each subject, under that section, to a civil money penalty of not more than $25,000 for each such violation.”, designated second sentence as subpar. (C), substituted “this paragraph” for “the previous sentence”, and redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (C).
 
-1986—Subsec. (b)(2), (3). Pub. L. 99–509 struck out “legally responsible” after “individual (or a”.
+<b>1986</b>—Subsec. (b)(2), (3). Pub. L. 99–509 struck out “legally responsible” after “individual (or a”.
 
 Subsec. (e)(3). Pub. L. 99–514 struck out “and has, under the agreement, obligated itself to comply with the requirements of this section” after “section 1395cc of this title”.
 
@@ -278,7 +278,7 @@ Amendment by Pub. L. 105–33 applicable to services furnished on or after Oct. 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 4008(b)(1)–(3)(A) of Pub. L. 101–508 applicable to actions occurring on or after thefirst day of the sixth month beginning after Nov. 5, 1990, see section 4008(b)(4) of Pub. L. 101–508, set out as a note under section 1395cc of this title.
+Amendment by section 4008(b)(1)–(3)(A) of Pub. L. 101–508 applicable to actions occurring on or after the first day of the sixth month beginning after Nov. 5, 1990, see section 4008(b)(4) of Pub. L. 101–508, set out as a note under section 1395cc of this title.
 
 Amendment by section 4207(a)(1)(A) of Pub. L. 101–508 effective on the first day of the first month beginning more than 60 days after Nov. 5, 1990, see section 4207(a)(1)(C) of Pub. L. 101–508, as amended, set out as a note under section 1320c–3 of this title.
 
@@ -324,7 +324,7 @@ Membership.—The Advisory Group shall be composed of 19 members, including the 
 
 &emsp;“(1) 4 shall be representatives of hospitals, including at least one public hospital, that have experience with the application of EMTALA and at least 2 of which have not been cited for EMTALA violations;
 
-&emsp;“(2) 7 shall be practicing physicians drawn from the fields of emergency medicine, cardiology or cardiothoracic surgery, orthopedic surgery, neurosurgery, pediatrics or a pediatric subspecialty, obstetrics-gynecology, and psychiatry, with not more than one physician from any particular field;
+&emsp;“(2) 7 shall be practicing physicians drawn from the fields of emergency medicine, cardiology orcardiothoracic surgery, orthopedic surgery, neurosurgery, pediatrics or a pediatric subspecialty, obstetrics-gynecology, and psychiatry, with not more than one physician from any particular field;
 
 &emsp;“(3) 2 shall represent patients;
 
@@ -392,7 +392,7 @@ Based on percentage of undocumented aliens.—
 
 &emsp;&emsp;“(A)
 
-In general.—Out of the amount appropriated under subsection (a) for a fiscal year, theSecretary shall use $167,000,000 of such amount to make allotments for such fiscal year in accordance with subparagraph (B).
+In general.—Out of the amount appropriated under subsection (a) for a fiscal year, the Secretary shall use $167,000,000 of such amount to make allotments for such fiscal year in accordance with subparagraph (B).
 
 &emsp;&emsp;“(B)
 
@@ -466,7 +466,7 @@ Methodology.—In establishing a methodology under paragraph (2)(A)(ii), the Sec
 
 &emsp;“(4)
 
-Limitation on use of funds.—Payments made to eligible providers in a State from allotments made under subsection (b) for a fiscal year may only be used for costs incurred in providing eligible services to aliens described in paragraph (5).
+Limitation on use of funds.—Payments made to eligible providers in a State from allotments madeunder subsection (b) for a fiscal year may only be used for costs incurred in providing eligible services to aliens described in paragraph (5).
 
 &emsp;“(5)
 

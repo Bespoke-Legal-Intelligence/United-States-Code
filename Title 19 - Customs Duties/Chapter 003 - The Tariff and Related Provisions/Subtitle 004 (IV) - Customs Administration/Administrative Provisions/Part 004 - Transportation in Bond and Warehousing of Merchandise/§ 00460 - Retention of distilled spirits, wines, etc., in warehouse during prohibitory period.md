@@ -4,7 +4,3 @@ Under regulations prescribed by the Secretary of the Treasury, any imported dist
 
 (Feb. 24, 1919, ch. 18, title VI, §600(b), 40 Stat. 1106.)
 
-#### References in Text
-
-The customs laws, referred to in text, are classified generally to this title.
-

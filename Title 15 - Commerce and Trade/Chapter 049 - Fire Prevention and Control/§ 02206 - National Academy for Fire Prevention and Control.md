@@ -112,7 +112,7 @@ The Administrator is authorized to—
 
 &emsp;(2) provide stipends to students attending courses and nondegree training programs approved by the Superintendent at universities, colleges, and junior colleges, in amounts up to 50 per centum of the cost of tuition;
 
-&emsp;(3) make or enter into contracts to make payments to institutions of higher education for loans, not to exceed $2,500 per academic year for any individual who is enrolled on a full-time basis in an undergraduate or graduate program of fire research or engineering which is certified by the Superintendent. Loans under this paragraph shall be made on such terms and subject to such conditions asthe Superintendent and each institution involved may jointly determine; and
+&emsp;(3) make or enter into contracts to make payments to institutions of higher education for loans, not to exceed $2,500 per academic year for any individual who is enrolled on a full-time basis in an undergraduate or graduate program of fire research or engineering which is certified by the Superintendent. Loans under this paragraph shall be made on such terms and subject to such conditions as the Superintendent and each institution involved may jointly determine; and
 
 &emsp;(4) establish and maintain a placement and promotion opportunities center in cooperation with the fire services, for firefighters who wish to learn and take advantage of different or better career opportunities. Such center shall not limit such assistance to students and graduates of the Academy, but shall undertake to assist all fire service personnel.
 
@@ -122,7 +122,7 @@ Upon establishment of the Academy, the Director shall establish a procedure for 
 
 #### (k) Accreditation
 
-The Superintendent is authorized to establish a Committee on Fire Training and Education which shall inquire into and make recommendations regarding the desirability of establishing a mechanism for accreditation of fire training and education programs and courses, and the role which the Academy should play if such a mechanism is recommended. The Committee shall consist of the Superintendent as Chairman and eighteen other members appointed by the Administrator from among individuals and organizations possessing special knowledge and experience in the field of fire training and education or related fields. The Committee shall submit to the Administrator within two years after its appointment, a full and complete report of its findings and recommendations. Upon the submission of such report, the Committee shall cease to exist. Each appointed member of the Committee shall be reimbursed for expenses actually incurred in the performance of his duties as a member.
+The Superintendent is authorized to establish a Committee on Fire Training and Education which shall inquire into and make recommendations regarding the desirability of establishing amechanism for accreditation of fire training and education programs and courses, and the role which the Academy should play if such a mechanism is recommended. The Committee shall consist of the Superintendent as Chairman and eighteen other members appointed by the Administrator from among individuals and organizations possessing special knowledge and experience in the field of fire training and education or related fields. The Committee shall submit to the Administrator within two years after its appointment, a full and complete report of its findings and recommendations. Upon the submission of such report, the Committee shall cease to exist. Each appointed member of the Committee shall be reimbursed for expenses actually incurred in the performance of his duties as a member.
 
 #### (<i>l</i>) Admission
 
@@ -162,13 +162,9 @@ In the first annual report filed pursuant to section 2215 of this title for whic
 
 (Pub. L. 93–498, §7, Oct. 29, 1974, 88 Stat. 1537; Pub. L. 106–503, title I, §110(a)(2)(B)(ii), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 108–169, title II, §204(a), (d), Dec. 6, 2003, 117 Stat. 2039; Pub. L. 110–376, §4(a)–(c), Oct. 8, 2008, 122 Stat. 4057, 4058.)
 
-#### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (c)(4), areclassified to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 #### Amendments
 
-2008—Subsec. (c)(6). Pub. L. 110–376, §4(b)(1), inserted “, including on-site training” after “United States”.
+<b>2008</b>—Subsec. (c)(6). Pub. L. 110–376, §4(b)(1), inserted “, including on-site training” after “United States”.
 
 Subsec. (d)(1)(H). Pub. L. 110–376, §4(a)(1), amended subpar. (H) generally. Prior to amendment, subpar. (H) read as follows: “response, tactics, and strategies for dealing with terrorist-caused national catastrophes;”.
 
@@ -190,15 +186,15 @@ Subsec. (f). Pub. L. 110–376, §4(b)(2), which directed substitution of “7.5
 
 Subsecs. (m), (n). Pub. L. 110–376, §4(b)(3), (c), added subsecs. (m) and (n).
 
-2003—Subsec. (d)(1)(F) to (N). Pub. L. 108–169, §204(a), added subpars. (F) to (M) and redesignated former subpar. (F) as (N).
+<b>2003</b>—Subsec. (d)(1)(F) to (N). Pub. L. 108–169, §204(a), added subpars. (F) to (M) and redesignated former subpar. (F) as (N).
 
 Subsec. (<i>l</i>). Pub. L. 108–169, §204(d), inserted at end “The Superintendent shall offer, at the Academy and at other sites, courses and training assistance as necessary to accommodate all geographic regions and needs of career and volunteer firefighters.”
 
-2000—Subsecs. (a), (b), (g), (j). Pub. L. 106–503 substituted “Director” for “Secretary” wherever appearing.
+<b>2000</b>—Subsecs. (a), (b), (g), (j). Pub. L. 106–503 substituted “Director” for “Secretary” wherever appearing.
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

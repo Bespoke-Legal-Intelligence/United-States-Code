@@ -30,7 +30,7 @@
 
 #### Amendments
 
-2007—Subsec. (a)(1). Pub. L. 110–161, §220(a)(1)(A), inserted “, territories, and Indian tribes (as defined in section 3797d of this title)” after “to assist States” in introductory provisions.
+<b>2007</b>—Subsec. (a)(1). Pub. L. 110–161, §220(a)(1)(A), inserted “, territories, and Indian tribes (as defined in section 3797d of this title)” after “to assist States” in introductory provisions.
 
 Subsec. (a)(1)(B). Pub. L. 110–161, §220(a)(1)(B), substituted “, territorial, Tribal, and local” for “and local”.
 

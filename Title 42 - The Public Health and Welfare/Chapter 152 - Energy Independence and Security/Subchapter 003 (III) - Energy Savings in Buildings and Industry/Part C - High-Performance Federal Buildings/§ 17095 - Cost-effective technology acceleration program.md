@@ -46,7 +46,7 @@ In this section, the term “Administrator” means the Administrator of General
 
 #### (A) In general
 
-&emsp;&emsp;As part of the program under this section, not later than 180 days after December 19, 2007, the Administrator shall establish, using available appropriations and programs implementing sections 432 and 525 <sup>1</sup> (and amendments made by those sections), a cost-effective lighting technology and geothermal heat pump technology acceleration program to achieve maximum feasible replacement of existing lighting, heating, cooling <sup>2</sup> technologies with cost-effective lighting technologies and geothermal heat pump technologies in each GSA facility. Such program shall fully comply with the requirements of sections 321 through 324, 431 through 438, 461, 511 through 518, and 523 through 525 <sup>1</sup> and amendments made by those sections and any other provisions of law, which shall be applicable to the extent that they are more stringent or would achievegreater energy savings than required by this section.
+&emsp;&emsp;As part of the program under this section, not later than 180 days after December 19, 2007, the Administrator shall establish, using available appropriations and programs implementing sections 432 and 525 <sup>1</sup> (and amendments made by those sections), a cost-effective lighting technology and geothermal heat pump technology acceleration program to achieve maximum feasible replacement of existing lighting, heating,cooling <sup>2</sup> technologies with cost-effective lighting technologies and geothermal heat pump technologies in each GSA facility. Such program shall fully comply with the requirements of sections 321 through 324, 431 through 438, 461, 511 through 518, and 523 through 525 <sup>1</sup> and amendments made by those sections and any other provisions of law, which shall be applicable to the extent that they are more stringent or would achieve greater energy savings than required by this section.
 
 #### (B) Acceleration plan timetable
 
@@ -108,7 +108,7 @@ In this section, the term “Administrator” means the Administrator of General
 
 #### (4) Administration
 
-&emsp;Notwithstanding any provision of this section, the program required under this section shall fully comply with the requirements of sections 321 through 324, 431 through 438, 461, 511 through 518, and 523 through 525 <sup>1</sup> and amendments made by those sections, whichshall be applicable to the extent that they are more stringent or would achieve greater energy or water savings than required by this section.
+&emsp;Notwithstanding any provision of this section, the program required under this section shall fully comply with the requirements of sections 321 through 324, 431 through 438, 461, 511 through 518, and 523 through 525 <sup>1</sup> and amendments made by those sections, which shall be applicable to the extent that they are more stringent or would achieve greater energy or water savings than required by this section.
 
 #### (e) Authorization of appropriations
 

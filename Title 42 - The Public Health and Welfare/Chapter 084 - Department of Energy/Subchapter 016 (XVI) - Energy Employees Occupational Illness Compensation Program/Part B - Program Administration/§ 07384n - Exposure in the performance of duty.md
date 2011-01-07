@@ -64,7 +64,7 @@ Section 7(b) of the Orphan Drug Act, referred to in subsec. (c)(3)(A), is sectio
 
 #### Amendments
 
-2004—Subsec. (c)(4). Pub. L. 108–375 added par. (4).
+<b>2004</b>—Subsec. (c)(4). Pub. L. 108–375 added par. (4).
 
 #### Delegation of Functions
 

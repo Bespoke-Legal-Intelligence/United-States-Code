@@ -24,15 +24,15 @@ The term “upstream subsidy” means any countervailable subsidy, other than an
 
 #### (c) Inclusion of amount of countervailable subsidy
 
-If the administering authority decides, during the course of a countervailing duty proceeding that an upstream countervailable subsidy is being or has been paid or bestowed regarding the subject merchandise, the administering authority shall include in the amount of any countervailing duty imposed on the merchandise an amount equal to the amount of the competitive benefit referred to in subparagraph (1)(B),<sup>1</sup> except that in no event shall the amount be greater than the amount of the countervailable subsidy determined with respect to the upstream product.
+If the administering authority decides, during the course of a countervailing duty proceeding that an upstream countervailable subsidy isbeing or has been paid or bestowed regarding the subject merchandise, the administering authority shall include in the amount of any countervailing duty imposed on the merchandise an amount equal to the amount of the competitive benefit referred to in subparagraph (1)(B),<sup>1</sup> except that in no event shall the amount be greater than the amount of the countervailable subsidy determined with respect to the upstream product.
 
 (June 17, 1930, ch. 497, title VII, §771A, as added Pub. L. 98–573, title VI, §613(a), Oct. 30, 1984, 98 Stat. 3035; amended Pub. L. 99–514, title XVIII, §1886(a)(10), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 103–465, title II, §§233(a)(5)(GG), 268, 270(a)(1)(K), (L), (2)(B), (c)(3), Dec. 8, 1994, 108 Stat. 4901, 4916, 4917; Pub. L. 104–295, §20(b)(2), Oct. 11, 1996, 110 Stat. 3527.)
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–295 amended directory language of Pub. L. 103–465, §270(a)(2)(B). See 1994 Amendment note below.
+<b>1996</b>—Subsec. (c). Pub. L. 104–295 amended directory language of Pub. L. 103–465, §270(a)(2)(B). See 1994 Amendment note below.
 
-1994—Subsec. (a). Pub. L. 103–465, §268, inserted introductory provisions and struck out former introductory provisions which read as follows: “The term ‘upstream subsidy’ means any subsidy described in section 1677(5)(B)(i), (ii), (iii), or (iv) of this title by the government of a country that—”, and in concluding provisions, inserted “countervailable” before “subsidy”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–465, §268, inserted introductory provisions and struck out former introductory provisions which read as follows: “The term ‘upstream subsidy’ means any subsidy described in section 1677(5)(B)(i), (ii), (iii), or (iv) of this title by the government of a country that—”, and in concluding provisions, inserted “countervailable” before “subsidy”.
 
 Subsec. (a)(1). Pub. L. 103–465, §268(1), added par. (1) and struck out former par. (1) which read as follows: “is paid or bestowed by that government with respect to a product (hereafter referred to as an ‘input product’) that is used in the manufacture or production in that country of merchandise which is the subject of a countervailing duty proceeding;”.
 
@@ -44,7 +44,7 @@ Pub. L. 103–465, §270(a)(1)(L), (c)(3), inserted “countervailable” after 
 
 Pub. L. 103–465, §233(a)(5)(GG), substituted “subject merchandise” for “merchandise under investigation”.
 
-1986—Subsec. (a). Pub. L. 99–514 substituted “(ii), (iii), or (iv)” for “(ii), or (iii)” in introductory provisions.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted “(ii), (iii), or (iv)” for “(ii), or (iii)” in introductory provisions.
 
 #### Effective Date of 1994 Amendment
 

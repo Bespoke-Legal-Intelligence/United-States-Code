@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–190 substituted “chief warrant officer, W–5,” for “warrant officer (W–4)”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–190 substituted “chief warrant officer, W–5,” for “warrant officer (W–4)”.
 
 #### Effective Date of 1991 Amendment
 
@@ -42,13 +42,13 @@ Pub. L. 100–180, div. A, title IV, §402, Dec. 4, 1987, 101 Stat. 1081, as ame
 
 “(a)
 
-Authority To Increase for Fiscal Year 1988.—Subject to subsection (b), the Secretary of Defense may increase by not more than 1 percentage point (to not more than 98 percent) the percentage limitation prescribed in section 403(a) of the National Defense Authorization Act for Fiscal Year 1987 (Public Law 99–661; 100 Stat. 3859) \[set out below\] applicable to the total number of commissioned officers of the Army, Navy, Air Force, and Marine Corps that may be serving on active duty as of September 30, 1988.
+Authority To Increase for Fiscal Year 1988.—Subject to subsection (b), the Secretary of Defense mayincrease by not more than 1 percentage point (to not more than 98 percent) the percentage limitation prescribed in section 403(a) of the National Defense Authorization Act for Fiscal Year 1987 (Public Law 99–661; 100 Stat. 3859) \[set out below\] applicable to the total number of commissioned officers of the Army, Navy, Air Force, and Marine Corps that may be serving on active duty as of September 30, 1988.
 
 “(b)
 
 Certification and Report.—The Secretary may exercise the authority under subsection (a) only if—
 
-&emsp;“(1) the Secretary makes a determination that such increase is necessary in order to avoid severe personnel management problems in the Army, Navy, AirForce, and Marine Corps during fiscal year 1988 and certifies such determination to the Committees on Armed Services of the Senate and the House of Representatives; and
+&emsp;“(1) the Secretary makes a determination that such increase is necessary in order to avoid severe personnel management problems in the Army, Navy, Air Force, and Marine Corps during fiscal year 1988 and certifies such determination to the Committees on Armed Services of the Senate and the House of Representatives; and
 
 &emsp;“(2) the Secretary submits to those Committees with such certification a report providing legislative recommendations for temporary changes in chapter 36 of title 10, United States Code, and other provisions of law enacted by the Defense Officer Personnel Management Act (Public Law 96–513) \[see Tables for classification\] that the Secretary considers necessary in order to implement the required officer reductions under such section 403 \[set out below\] with the least possible adverse effect on the Armed Forces.”
 

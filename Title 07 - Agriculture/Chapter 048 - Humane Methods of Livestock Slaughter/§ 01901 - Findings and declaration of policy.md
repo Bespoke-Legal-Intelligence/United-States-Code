@@ -38,7 +38,7 @@ Pub. L. 104–127, title IX, subtitle A, Apr. 4, 1996, 110 Stat. 1184, provided 
 
 #### “SEC. 901. FINDINGS.
 
-“Because of the unique and special needs of equine being transported to slaughter, Congress finds that it is appropriate for the Secretary of Agriculture to issue guidelines for the regulation of the commercial transportation of equine for slaughter by persons regularly engaged in that activity within the United States.
+“Because of the unique and special needs of equine being transported to slaughter, Congress finds that it is appropriate for the Secretary of Agriculture to issueguidelines for the regulation of the commercial transportation of equine for slaughter by persons regularly engaged in that activity within the United States.
 
 #### “SEC. 902. DEFINITIONS.
 

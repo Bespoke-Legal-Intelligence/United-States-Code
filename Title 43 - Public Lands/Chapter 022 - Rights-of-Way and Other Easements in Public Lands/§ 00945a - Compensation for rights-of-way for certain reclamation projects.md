@@ -6,7 +6,7 @@ Notwithstanding the existence of any reservation of right-of-way to the United S
 
 #### Amendments
 
-1966—Pub. L. 89–624 inserted “to the United States” and “or any State statute,”.
+<b>1966</b>—Pub. L. 89–624 inserted “to the United States” and “or any State statute,”.
 
 #### Effective Date of 1966 Amendment
 

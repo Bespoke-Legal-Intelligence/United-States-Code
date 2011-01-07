@@ -4,7 +4,7 @@
 
 Supplemental Allowance Required.—(1) The Secretary concerned shall increase the basic allowance for subsistence to which a member of the armed forces described in subsection (b) is otherwise entitled under section 402 of this title by an amount (in this section referred to as the “supplemental subsistence allowance”) designed to remove the member's household from eligibility for benefits under the supplemental nutrition assistance program.
 
-(2) The supplemental subsistence allowance may not exceed $1,100 per month. In establishing the amount of the supplemental subsistence allowance to be paid an eligible member under this paragraph, the Secretary shall take into consideration the amount of the basic allowance for housing that the member receives under section 403 of this title or would otherwise receive under such section, in the case of a member who is not entitled to that allowance as a result of assignment to quarters of the United States or a housing facility under the jurisdiction of a uniformed service.
+(2) The supplemental subsistence allowance may not exceed $1,100 per month. In establishingthe amount of the supplemental subsistence allowance to be paid an eligible member under this paragraph, the Secretary shall take into consideration the amount of the basic allowance for housing that the member receives under section 403 of this title or would otherwise receive under such section, in the case of a member who is not entitled to that allowance as a result of assignment to quarters of the United States or a housing facility under the jurisdiction of a uniformed service.
 
 (3) In the case of a member described in subsection (b) who establishes to the satisfaction of the Secretary concerned that the allotment of the member's household under the supplemental nutrition assistance program, calculated in the absence of the supplemental subsistence allowance, would exceed the amount established by the Secretary concerned under paragraph (2), the amount of the supplemental subsistence allowance for the member shall be equal to the lesser of the following:
 
@@ -50,7 +50,7 @@ Reporting Requirement.—Not later than March 1 of each year after 2001, the Sec
 
 (g)
 
-Eligibility for Other Federal Assistance.—(1) A child or spouse of a member of thearmed forces receiving the supplemental subsistence allowance under this section who, except on account of the receipt of such allowance, would be eligible to receive a benefit described in paragraph (2) shall be considered to be eligible for that benefit notwithstanding the receipt of such allowance.
+Eligibility for Other Federal Assistance.—(1) A child or spouse of a member of the armed forces receiving the supplemental subsistence allowance under this section who, except on account of the receipt of such allowance, would be eligible to receive a benefit described in paragraph (2) shall be considered to be eligible for that benefit notwithstanding the receipt of such allowance.
 
 (2) The benefits referred to in paragraph (1) are as follows:
 
@@ -98,9 +98,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2009—Subsec. (a)(2), (3)(B). Pub. L. 111–84 substituted “$1,100” for “$500”.
+<b>2009</b>—Subsec. (a)(2), (3)(B). Pub. L. 111–84 substituted “$1,100” for “$500”.
 
-2008—Subsec. (a)(1), (3). Pub. L. 110–246, §4002(b)(1)(A), (2)(T), substituted “supplemental nutrition assistance program” for “food stamp program”.
+<b>2008</b>—Subsec. (a)(1), (3). Pub. L. 110–246, §4002(b)(1)(A), (2)(T), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
 Subsec. (b)(1). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(T), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” and “supplemental nutrition assistance program” for “food stamp program”.
 
@@ -108,21 +108,21 @@ Subsec. (h)(2). Pub. L. 110–246, §4002(b)(1)(B), (2)(T), substituted “Food 
 
 Subsec. (h)(3). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(T), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-2006—Subsec. (b)(3)(B). Pub. L. 109–364, §1071(c)(6), substituted “title” for “section”.
+<b>2006</b>—Subsec. (b)(3)(B). Pub. L. 109–364, §1071(c)(6), substituted “title” for “section”.
 
 Subsec. (f). Pub. L. 109–163, §608(b), as amended by Pub. L. 109–364, §1071(e)(4), substituted “Secretary of Homeland Security, with respect to the Coast Guard” for “Secretary of Transportation” and struck out at end “No report is required under this subsection after March 1, 2006.”
 
 Subsec. (i). Pub. L. 109–163, §608(a), struck out heading and text of subsec. (i). Text read as follows: “No supplemental subsistence allowance may be provided under this section after September 30, 2006.”
 
-2004—Subsec. (b)(2). Pub. L. 108–375, §602(a)(1), substituted “concerned” for dash after “Secretary” and struck out “(A) shall not take into consideration the amount of the supplemental subsistence allowance payable under this section; but” and subpar. (B) designation before “shall take”.
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–375, §602(a)(1), substituted “concerned” for dash after “Secretary” and struck out “(A) shall not take into consideration the amount of the supplemental subsistence allowance payable under this section; but” and subpar. (B) designation before “shall take”.
 
 Subsec. (b)(3). Pub. L. 108–375, §602(a)(2), added par. (3).
 
 Subsecs. (g) to (i). Pub. L. 108–375, §602(b), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
-2002—Subsec. (g)(1)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (g)(1)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2001—Subsec. (b)(1). Pub. L. 107–107 inserted “with dependents” after “a member of the armed forces”.
+<b>2001</b>—Subsec. (b)(1). Pub. L. 107–107 inserted “with dependents” after “a member of the armed forces”.
 
 #### Effective Date of 2009 Amendment
 
@@ -140,7 +140,7 @@ Pub. L. 109–364, div. A, title X, §1071(e), Oct. 17, 2006, 120 Stat. 2401, pr
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–375, div. A, title VI, §602(c), Oct. 28, 2004, 118 Stat. 1944, provided that: “The amendments made by this section \[amending this section\] shall apply in determining, on or after the date of the enactment of this Act \[Oct. 28, 2004\], the eligibility of a person for a supplemental subsistence allowance under section 402a of title 37, United States Code, or for Federal assistance under a law specified in subsection (g) of such section, as so amended.”
+Pub. L. 108–375, div. A, title VI, §602(c), Oct. 28, 2004, 118 Stat. 1944, provided that: “The amendments made by this section \[amending this section\] shall apply in determining, on or after the date of the enactment ofthis Act \[Oct. 28, 2004\], the eligibility of a person for a supplemental subsistence allowance under section 402a of title 37, United States Code, or for Federal assistance under a law specified in subsection (g) of such section, as so amended.”
 
 #### Effective Date of 2002 Amendment
 

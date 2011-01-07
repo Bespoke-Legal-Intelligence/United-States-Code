@@ -16,7 +16,7 @@ Pub. L. 104–303, title II, §202(d), Oct. 12, 1996, 110 Stat. 3675, provided t
 
 “(1)
 
-Review.—The Secretary shall conduct a review of policies, procedures, and techniques relating to the evaluation and development of flood control measures with a view toward identifying impediments that may exist to justifying nonstructural flood control measures as alternatives to structural measures.
+Review.—The Secretary shall conduct a review of policies, procedures, and techniques relating to theevaluation and development of flood control measures with a view toward identifying impediments that may exist to justifying nonstructural flood control measures as alternatives to structural measures.
 
 “(2)
 

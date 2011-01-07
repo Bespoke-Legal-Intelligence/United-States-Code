@@ -42,7 +42,7 @@ In subsection (b), the words “entitled to credit for all service” are substi
 
 #### Amendments
 
-1958—Subsec. (b). Pub. L. 85–477 struck out provisions which authorized members of the armed forces to accept compensation or emoluments from countries to which they are detailed, and inserted provisions permitting arrangements for reimbursement or other sharing of cost.
+<b>1958</b>—Subsec. (b). Pub. L. 85–477 struck out provisions which authorized members of the armed forces to accept compensation or emoluments from countries to which they are detailed, and inserted provisions permitting arrangements for reimbursement or other sharing of cost.
 
 #### Effective Date of 1958 Amendment
 

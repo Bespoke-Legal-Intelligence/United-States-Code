@@ -24,7 +24,7 @@ Mandatory Exemptions From Reporting Requirements.—
 
 &emsp;(1)
 
-In general.—The Secretary of the Treasury shall exempt, pursuant to section 5318(a)(6), a depository institution from the reporting requirements of subsection (a) with respect to transactions between the depository institution and the following categories of entities:
+In general.—The Secretary of the Treasury shall exempt, pursuant to section5318(a)(6), a depository institution from the reporting requirements of subsection (a) with respect to transactions between the depository institution and the following categories of entities:
 
 &emsp;&emsp;(A) Another depository institution.
 
@@ -90,7 +90,7 @@ Provisions Applicable to Mandatory and Discretionary Exemptions.—
 
 &emsp;(1)
 
-Limitation on liability of depository institutions.—No depository institution shall be subject to any penalty which may be imposed under this subchapter for the failure of the institution to file a report with respect toa transaction with a customer for whom an exemption has been granted under subsection (d) or (e) unless the institution—
+Limitation on liability of depository institutions.—No depository institution shall be subject to any penalty which may be imposed under this subchapter for the failure of the institution to file a report with respect to a transaction with a customer for whom an exemption has been granted under subsection (d) or (e) unless the institution—
 
 &emsp;&emsp;(A) knowingly files false or incomplete information to the Secretary with respect to the transaction or the customer engaging in the transaction; or
 
@@ -116,7 +116,7 @@ Depository Institution Defined.—For purposes of this section, the term “depo
 
 &emsp;&emsp;(B) any corporation chartered under section 25A of the Federal Reserve Act; and
 
-&emsp;&emsp;(C) any corporation having an agreement or undertaking with the Board of Governors of the Federal Reserve System under section 25 of the Federal Reserve Act.
+&emsp;&emsp;(C) any corporation having an agreement or undertaking with the Board of Governorsof the Federal Reserve System under section 25 of the Federal Reserve Act.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 996; Pub. L. 103–325, title IV, §402(a), Sept. 23, 1994, 108 Stat. 2243.)
 
@@ -166,7 +166,7 @@ Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (g)(2)(B)
 
 #### Amendments
 
-1994—Subsecs. (d) to (g). Pub. L. 103–325 added subsecs. (d) to (g).
+<b>1994</b>—Subsecs. (d) to (g). Pub. L. 103–325 added subsecs. (d) to (g).
 
 #### Efficient Use of Currency Transaction Report System
 
@@ -196,7 +196,7 @@ Study required.—The Secretary shall conduct a study of—
 
 &emsp;&emsp;“(A) the possible expansion of the statutory exemption system in effect under section 5313 of title 31, United States Code; and
 
-&emsp;&emsp;“(B) methods for improving financial institution utilization of the statutory exemption provisions asa way of reducing the submission of currency transaction reports that have little or no value for law enforcement purposes, including improvements in the systems in effect at financial institutions for regular review of the exemption procedures used at the institution and the training of personnel in its effective use.
+&emsp;&emsp;“(B) methods for improving financial institution utilization of the statutory exemption provisions as a way of reducing the submission of currency transaction reports that have little or no value for law enforcement purposes, including improvements in the systems in effect at financial institutions for regular review of the exemption procedures used at the institution and the training of personnel in its effective use.
 
 &emsp;“(2)
 

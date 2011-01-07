@@ -1,7 +1,5 @@
 subpart 16—national institute of mental health
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

@@ -34,13 +34,13 @@ The Congress makes the following findings:
 
 #### Amendments
 
-1980—Pars. (11) to (14). Pub. L. 96–181 added pars. (11) to (14).
+<b>1980</b>—Pars. (11) to (14). Pub. L. 96–181 added pars. (11) to (14).
 
-1976—Par. (10). Pub. L. 94–237 added par. (10).
+<b>1976</b>—Par. (10). Pub. L. 94–237 added par. (10).
 
 #### Short Title of 1980 Amendment
 
-Section 1(a) of Pub. L. 96–181 provided that: “This Act \[enacting sections 1111 to 1117 and 1181 of this title, amending this section, sections 1102, 1162, 1164, 1176, 1177, 1180, and 1191 to 1193 of this title, and sections 218, 300<i>l</i>–2, 300m–3, and 3733 of Title 42, The Public Health and Welfare, omitting sections 1118 to 1120 and 1131 to 1133 of this title, enacting provisions set out as notes under this section and section 1193 of this title, and amending provisions set out as a note below\] may be cited as the ‘Drug Abuse Prevention, Treatment, and Rehabilitation Amendments of 1979’.”
+Section 1(a) of Pub. L. 96–181 provided that: “This Act \[enacting sections 1111 to 1117 and 1181 of this title,amending this section, sections 1102, 1162, 1164, 1176, 1177, 1180, and 1191 to 1193 of this title, and sections 218, 300<i>l</i>–2, 300m–3, and 3733 of Title 42, The Public Health and Welfare, omitting sections 1118 to 1120 and 1131 to 1133 of this title, enacting provisions set out as notes under this section and section 1193 of this title, and amending provisions set out as a note below\] may be cited as the ‘Drug Abuse Prevention, Treatment, and Rehabilitation Amendments of 1979’.”
 
 #### Short Title of 1978 Amendment
 

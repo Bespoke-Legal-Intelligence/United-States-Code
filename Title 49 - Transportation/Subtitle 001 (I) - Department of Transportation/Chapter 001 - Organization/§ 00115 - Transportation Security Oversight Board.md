@@ -22,7 +22,7 @@ Number and appointment.—The Board shall be composed of 7 members as follows:
 
 &emsp;&emsp;(E) The Secretary of the Treasury, or the Secretary's designee.
 
-&emsp;&emsp;(F) The Director of the Central Intelligence Agency, or the Director's designee.
+&emsp;&emsp;(F) The Director of National Intelligence, or the Director's designee.
 
 &emsp;&emsp;(G) One member appointed by the President to represent the National Security Council.
 
@@ -54,19 +54,17 @@ Quarterly Meetings.—The Board shall meet at least quarterly.
 
 Consideration of Security Information.—A majority of the Board may vote to close a meeting of the Board to the public, except that meetings shall be closed to the public whenever classified, sensitive security information, or information protected in accordance with section 40119(b), will be discussed.
 
-(Added Pub. L. 107–71, title I, §102(a), Nov. 19, 2001, 115 Stat. 604; amended Pub. L. 107–296, title IV, §426(a), Nov. 25, 2002, 116 Stat. 2186.)
+(Added Pub. L. 107–71, title I, §102(a), Nov. 19, 2001, 115 Stat. 604; amended Pub. L. 107–296, title IV, §426(a), Nov. 25, 2002, 116 Stat. 2186; Pub. L. 111–259, title IV, §411, Oct. 7, 2010, 124 Stat. 2725.)
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–296, §426(a)(1), substituted “Department of Homeland Security” for “Department of Transportation”.
+<b>2010</b>—Subsec. (b)(1)(F). Pub. L. 111–259 amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “The Director of the Central Intelligence Agency, or the Director's designee.”
+
+<b>2002</b>—Subsec. (a). Pub. L. 107–296, §426(a)(1), substituted “Department of Homeland Security” for “Department of Transportation”.
 
 Subsec. (b)(1). Pub. L. 107–296, §426(a)(2), added subpar. (A), redesignated former subpars. (A) to (F) as (B) to (G), respectively, and struck out former subpar. (G) which read as follows: “One member appointed by the President to represent the Office of Homeland Security.”
 
 Subsec. (b)(2). Pub. L. 107–296, §426(a)(3), substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
-
-#### Change of Name
-
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108-458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Effective Date of 2002 Amendment
 
@@ -75,4 +73,6 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

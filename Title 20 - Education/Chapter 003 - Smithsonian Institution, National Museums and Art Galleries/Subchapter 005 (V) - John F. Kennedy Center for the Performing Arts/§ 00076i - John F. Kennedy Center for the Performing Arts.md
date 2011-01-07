@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Board shall construct for the Smithsonian Institution, with funds raised by voluntary contributions, a building to be designated as the John F. Kennedy Center for the Performing Arts on a site in the District of Columbia bounded by the Inner Loop Freeway on the east, the Theodore Roosevelt Bridge approaches on the south, Rock Creek Parkway on the west, New Hampshire Avenue and F Street on the north, which shall be selected for such purpose by the National Capital Planning Commission. The National Capital Planning Commission shall acquire by purchase, condemnation, or otherwise,lands necessary to provide for the John F. Kennedy Center for the Performing Arts and related facilities. Such building shall be in accordance with plans and specifications approved by the Commission of Fine Arts.
+The Board shall construct for the Smithsonian Institution, with funds raised by voluntary contributions, a building to be designated as the John F. Kennedy Center for the Performing Arts on a site in the District of Columbia bounded by the Inner Loop Freeway on the east, the Theodore Roosevelt Bridge approaches on the south, Rock Creek Parkway on the west, New Hampshire Avenue and F Street on the north, which shall be selected for such purpose by the National Capital Planning Commission. The National Capital Planning Commission shall acquire by purchase, condemnation, or otherwise, lands necessary to provide for the John F. Kennedy Center for the Performing Arts and related facilities. Such building shall be in accordance with plans and specifications approved by the Commission of Fine Arts.
 
 #### (b) Parking garage additions and site improvements
 
@@ -10,7 +10,7 @@ The Board shall construct for the Smithsonian Institution, with funds raised by 
 
 &emsp;Substantially in accordance with the plan entitled “Site Master Plan—Drawing Number 1997–2 April 29, 1997,” and map number NCR 844/82571, the Board may design and construct—
 
-&emsp;&emsp;(A) an addition to the parking garage at each of the north and south ends of the John F. Kennedy Center for the Performing Arts; and
+&emsp;&emsp;(A) an addition to the parking garage at each of the north and south ends of the JohnF. Kennedy Center for the Performing Arts; and
 
 &emsp;&emsp;(B) site improvements and modifications.
 
@@ -32,7 +32,7 @@ The Board shall construct for the Smithsonian Institution, with funds raised by 
 
 #### Amendments
 
-1997—Pub. L. 105–95 substituted section catchline for former section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
+<b>1997</b>—Pub. L. 105–95 substituted section catchline for former section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 
-1964—Pub. L. 88–260 substituted “John F. Kennedy Center for the Performing Arts” for “National Cultural Center” wherever appearing.
+<b>1964</b>—Pub. L. 88–260 substituted “John F. Kennedy Center for the Performing Arts” for “National Cultural Center” wherever appearing.
 

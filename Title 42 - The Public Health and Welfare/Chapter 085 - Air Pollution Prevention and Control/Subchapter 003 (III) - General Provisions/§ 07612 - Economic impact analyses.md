@@ -58,11 +58,11 @@ Section was formerly classified to section 1857j–1 of this title.
 
 #### Amendments
 
-1990—Pub. L. 101–549 amended section generally, substituting present provisions for provisions which related to: in subsec. (a), detailed cost estimate, comprehensive cost and economic impact studies, and annual reevaluation; in subsec. (b), personnel study and report to President and Congress; and in subsec. (c), cost-effectiveness analyses.
+<b>1990</b>—Pub. L. 101–549 amended section generally, substituting present provisions for provisions which related to: in subsec. (a), detailed cost estimate, comprehensive cost and economic impact studies, and annual reevaluation; in subsec. (b), personnel study and report to President and Congress; and in subsec. (c), cost-effectiveness analyses.
 
-1977—Subsec. (c). Pub. L. 95–95 added subsec. (c).
+<b>1977</b>—Subsec. (c). Pub. L. 95–95 added subsec. (c).
 
-1970—Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary” wherever appearing.
+<b>1970</b>—Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary” wherever appearing.
 
 #### Effective Date of 1977 Amendment
 

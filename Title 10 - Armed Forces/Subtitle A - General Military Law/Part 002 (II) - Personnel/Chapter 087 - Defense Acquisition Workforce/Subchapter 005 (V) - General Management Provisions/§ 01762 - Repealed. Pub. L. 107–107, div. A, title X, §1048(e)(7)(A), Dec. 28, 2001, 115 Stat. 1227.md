@@ -1,4 +1,0 @@
-### \[§1762. Repealed. Pub. L. 107–107, div. A, title X, §1048(e)(7)(A), Dec. 28, 2001, 115 Stat. 1227\]
-
-Section, added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1654; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, related to report by the Under Secretary of Defense for Acquisition, Technology, and Logistics to the Secretary of Defense on the status of the defense acquisition workforce.
-

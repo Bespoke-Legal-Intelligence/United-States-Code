@@ -6,7 +6,7 @@ After the times for filing the statement and reply provided for by section 304 o
 
 #### Amendments
 
-1984—Pub. L. 98–622, §204(c), substituted “Patent Appeals and Interferences” for “Appeals”.
+<b>1984</b>—Pub. L. 98–622, §204(c), substituted “Patent Appeals and Interferences” for “Appeals”.
 
 #### Effective Date of 1984 Amendment
 

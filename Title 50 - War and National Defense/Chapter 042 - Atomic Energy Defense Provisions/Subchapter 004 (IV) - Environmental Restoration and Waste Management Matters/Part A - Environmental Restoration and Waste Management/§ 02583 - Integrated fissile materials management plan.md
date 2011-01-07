@@ -4,7 +4,7 @@
 
 The Secretary of Energy shall develop a long-term plan for the integrated management of fissile materials by the Department of Energy. The plan shall—
 
-&emsp;(1) identify means of coordinating or integrating the responsibilities of the Office of Environmental Management, the Office of Fissile Materials Disposition, the Office of Nuclear Energy, and the Office of Defense Programs for the treatment, storage and disposition of fissile materials, and for the waste streams containing fissile materials, in order to achieve budgetary and other efficiencies in the discharge of those responsibilities; and
+&emsp;(1) identify means of coordinating or integrating the responsibilities of the Office of Environmental Management, the Office of Fissile Materials Disposition, the Office of Nuclear Energy, and the Office of Defense Programs for the treatment, storage and disposition of fissile materials, and for the waste streams containing fissile materials, in order toachieve budgetary and other efficiencies in the discharge of those responsibilities; and
 
 &emsp;(2) identify any expenditures necessary at the sites that are anticipated to have an enduring mission for plutonium management in order to achieve the integrated management of fissile materials by the Department.
 

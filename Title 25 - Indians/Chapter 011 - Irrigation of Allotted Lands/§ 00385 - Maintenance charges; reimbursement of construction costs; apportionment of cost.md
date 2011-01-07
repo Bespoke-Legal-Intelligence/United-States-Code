@@ -12,7 +12,7 @@ A provision in act Aug. 1, 1914, appropriated a specific sum for the constructio
 
 #### Amendments
 
-1982—Pub. L. 98–293 struck out provisions requiring Secretary of the Interior to transmit annual cost accounts to Congress of all moneys expended on each irrigation project.
+<b>1982</b>—Pub. L. 98–293 struck out provisions requiring Secretary of the Interior to transmit annual cost accounts to Congress of all moneys expended on each irrigation project.
 
-1946—Act Aug. 7, 1946, discontinued provisions requiring Secretary of the Interior to transmit annual cost accounts to Congress of all moneys expended on each irrigation project.
+<b>1946</b>—Act Aug. 7, 1946, discontinued provisions requiring Secretary of the Interior to transmit annual cost accounts to Congress of all moneys expended on each irrigation project.
 

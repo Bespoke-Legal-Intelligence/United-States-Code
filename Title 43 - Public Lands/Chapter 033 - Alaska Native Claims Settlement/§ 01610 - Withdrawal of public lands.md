@@ -452,9 +452,5 @@
 
 #### References in Text
 
-The public land laws, referred to in subsec. (a)(1), are classified generally to this title.
-
-The mining laws and the mineral leasing laws, referred to in subsec. (a)(1), are classified generally to Title 30, Mineral Lands and Mining.
-
 The Alaska Statehood Act, as amended, referred to in subsec. (a)(1), (2), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 

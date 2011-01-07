@@ -1,6 +1,6 @@
 ### §30114. Special exemptions
 
-The Secretary of Transportation may exempt a motor vehicle or item of motor vehicle equipment from section 30112(a) of this title on terms the Secretary decides are necessary for research, investigations, demonstrations, training, competitive racing events, show, or display.
+The Secretary of Transportation may exempt a motor vehicle or item of motor vehicle equipment from section 30112(a) of this title on terms the Secretary decides are necessary for research,investigations, demonstrations, training, competitive racing events, show, or display.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 947; Pub. L. 105–178, title VII, §7107(a), June 9, 1998, 112 Stat. 469.)
 
@@ -24,7 +24,7 @@ The word “conditions” is omitted as being included in “terms”, and the w
 
 #### Amendments
 
-1998—Pub. L. 105–178 substituted “competitive racing events, show, or display” for “or competitive racing events”.
+<b>1998</b>—Pub. L. 105–178 substituted “competitive racing events, show, or display” for “or competitive racing events”.
 
 #### Transition Rule
 

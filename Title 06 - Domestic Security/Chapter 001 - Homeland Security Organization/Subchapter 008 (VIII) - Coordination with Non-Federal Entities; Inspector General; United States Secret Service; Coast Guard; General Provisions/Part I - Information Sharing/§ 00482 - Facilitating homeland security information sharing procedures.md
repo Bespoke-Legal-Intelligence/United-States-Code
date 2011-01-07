@@ -126,6 +126,10 @@ Nothing in this chapter shall be construed as authorizing any department, bureau
 
 (Pub. L. 107–296, title VIII, §892, Nov. 25, 2002, 116 Stat. 2253; Pub. L. 108–177, title III, §316(a), Dec. 13, 2003, 117 Stat. 2610.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (d) and (g), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+
 #### Amendments
 
 2003—Subsec. (c)(3). Pub. L. 108–177 added par. (3).

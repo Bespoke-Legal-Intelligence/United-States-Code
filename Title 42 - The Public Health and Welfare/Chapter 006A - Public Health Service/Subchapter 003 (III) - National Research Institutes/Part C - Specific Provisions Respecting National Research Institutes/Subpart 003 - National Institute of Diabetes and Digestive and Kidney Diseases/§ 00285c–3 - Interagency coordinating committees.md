@@ -18,13 +18,13 @@ Each Committee shall be composed of the Directors of each of the national resear
 
 #### Amendments
 
-2007—Subsecs. (c), (d). Pub. L. 109–482 struck out subsecs. (c) and (d) which required an annual report detailing the work of the Committee in carrying out subsec. (a) and an annual assessment on Federal pancreatic islet cell transplantation, respectively.
+<b>2007</b>—Subsecs. (c), (d). Pub. L. 109–482 struck out subsecs. (c) and (d) which required an annual report detailing the work of the Committee in carrying out subsec. (a) and an annual assessment on Federal pancreatic islet cell transplantation, respectively.
 
-2004—Subsec. (d). Pub. L. 108–362 added subsec. (d).
+<b>2004</b>—Subsec. (d). Pub. L. 108–362 added subsec. (d).
 
-1992—Subsec. (b). Pub. L. 102–405 substituted “Under Secretary for Health of the Department of Veterans Affairs” for “Chief Medical Director of the Department of Veterans Affairs”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–405 substituted “Under Secretary for Health of the Department of Veterans Affairs” for “Chief Medical Director of the Department of Veterans Affairs”.
 
-1988—Subsec. (b). Pub. L. 100–527 substituted “Chief Medical Director of the Department of Veterans Affairs” for “Chief Medical Director of the Veterans’ Administration”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–527 substituted “Chief Medical Director of the Department of Veterans Affairs” for “Chief Medical Director of the Veterans’ Administration”.
 
 #### Effective Date of 2007 Amendment
 

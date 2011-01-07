@@ -188,7 +188,7 @@ Totals
 
 767,214
 
-> <i>Provided, however</i>, That in the case of Arizona and Nevada, such contracts shall be offered to the Arizona Power Authority and the Colorado River Commission of Nevada, respectively, as the agency specified by State law as the agent ofsuch State for purchasing power from the Boulder Canyon project: <i>Provided further</i>, That in the case of California, no such contract under this subparagraph (B) shall be offered to any purchaser who is offered a contract for capacity exceeding 20,000 kilowatts under subparagraph (A) of this paragraph.
+> <i>Provided, however</i>, That in the case of Arizona and Nevada, such contracts shall be offered to the Arizona Power Authority and the Colorado River Commission of Nevada, respectively, as the agency specified by State law as the agent of such State for purchasing power from the Boulder Canyon project: <i>Provided further</i>, That in the case of California, no such contract under this subparagraph (B) shall be offered to any purchaser who is offered a contract for capacity exceeding 20,000 kilowatts under subparagraph (A) of this paragraph.
 
 (C) To the Arizona Power Authority and the Colorado River Commission of Nevada and to purchasers in the State of California eligible to enter into such contracts under section 5 of the Boulder Canyon Project Act \[43 U.S.C. 617d\], contracts for delivery commencing June 1, 1987, of such energy generated at Hoover Dam as is available respectively to the States of Arizona, Nevada, and California in excess of 4,501.001 million kilowatthours in any year of operation (hereinafter called excess energy) in accordance with the following table:
 
@@ -232,7 +232,7 @@ Nothing in the Criteria shall be construed to prejudice any rights conferred by 
 
 (1) The Secretary of Energy shall not execute a contract described in subsection (a)(1)(A) of this section with any entity which is a party to the action entitled the “State of Nevada, et al. against the United States of America, et al.” in the United States District Court for the District of Nevada, case numbered CV LV ‘82 441 RDF, unless that entity agrees to file in that action a stipulation for voluntary dismissal with prejudice of its claims, or counterclaims, or crossclaims, as the case may be, and also agrees to file with the Secretary a document releasing the United States, its officers and agents, and all other parties to that action who join in that stipulation from any claims arising out of the disposition under this section of capacity and energy from the Boulder Canyon project. The Attorney General shall join on behalf of the United States, its officers and agents, in any such voluntary dismissal and shall have the authority to approve on behalf of the United States the form of each release.
 
-(2) If after a reasonable period of time as determined by the Secretary, the Secretary is precluded from executing a contract with an entity by reason of paragraph (1) of this subsection, the Secretary shall offer the capacity and energy thus available to other entities in the same State eligible to enter into such contracts undersection 5 of the Boulder Canyon Project Act \[43 U.S.C. 617d\].
+(2) If after a reasonable period of time as determined by the Secretary, the Secretary is precluded from executing a contract with an entity by reason of paragraph (1) of this subsection, the Secretary shall offer the capacity and energy thus available to other entities in the same State eligible to enter into such contracts under section 5 of the Boulder Canyon Project Act \[43 U.S.C. 617d\].
 
 #### (d) Funding of uprating program
 
@@ -274,7 +274,7 @@ This subchapter, was in the original “this Act”, meaning Pub. L. 98–381, A
 
 #### Amendments
 
-1992—Subsec. (h)(1). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (h)(1). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 #### Effective Date of 1992 Amendment
 

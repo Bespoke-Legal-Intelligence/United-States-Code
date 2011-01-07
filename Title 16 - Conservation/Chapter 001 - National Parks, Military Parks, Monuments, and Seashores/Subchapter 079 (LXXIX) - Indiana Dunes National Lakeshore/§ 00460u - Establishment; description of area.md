@@ -6,13 +6,13 @@ In order to preserve for the educational, inspirational, and recreational use of
 
 #### Amendments
 
-1992—Pub. L. 102–430, which directed amendment of section by substituting “October 1992, and numbered 626–80,039–C” for “October 1986, and numbered 62680033–B”, was executed by making the substitution for “October 1986, and numbered 626–80,033–B” to reflect the probable intent of Congress.
+<b>1992</b>—Pub. L. 102–430, which directed amendment of section by substituting “October 1992, and numbered 626–80,039–C” for “October 1986, and numbered 62680033–B”, was executed by making the substitution for “October 1986, and numbered 626–80,033–B” to reflect the probable intent of Congress.
 
-1986—Pub. L. 99–583 substituted “October 1986, and numbered 626–80,033–B” for “December 1980, and bearing the number 626–91014”.
+<b>1986</b>—Pub. L. 99–583 substituted “October 1986, and numbered 626–80,033–B” for “December 1980, and bearing the number 626–91014”.
 
-1980—Pub. L. 96–612 substituted “December 1980, and bearing the number 626–91014” for “September 1976 and bearing the number 626–91007.”
+<b>1980</b>—Pub. L. 96–612 substituted “December 1980, and bearing the number 626–91014” for “September 1976 and bearing the number 626–91007.”
 
-1976—Pub. L. 94–549 substituted “ ‘Boundary Map, Indiana Dunes National Lakeshore’, dated September 1976 and bearing the number ‘626–91007’ ” for “ ‘A Proposed Indiana Dunes National Lakeshore’, dated September 1966, and bearing the number ‘LNPNE–1008–ID’ ”.
+<b>1976</b>—Pub. L. 94–549 substituted “ ‘Boundary Map, Indiana Dunes National Lakeshore’, dated September 1976 and bearing the number ‘626–91007’ ” for “ ‘A Proposed Indiana Dunes National Lakeshore’, dated September 1966, and bearing the number ‘LNPNE–1008–ID’ ”.
 
 #### Short Title of 1992 Amendment
 

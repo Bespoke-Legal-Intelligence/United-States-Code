@@ -76,7 +76,7 @@ Actions to impede the board.—No person (including a State or political subdivi
 
 &emsp;(2)
 
-Unsolicited communications.—No unsolicited communication concerning a potential action or settlement offer for personal injury or wrongful death may be made by an attorney (including any associate, agent, employee, or other representative of an attorney) or any potential party to the litigation, including the railroad carrier or rail passenger carrier, to an individual (other than an employee of the railpassenger carrier) injured in the accident, or to a relative of an individual involved in the accident, before the 45th day following the date of the accident.
+Unsolicited communications.—No unsolicited communication concerning a potential action or settlement offer for personal injury or wrongful death may be made by an attorney (including any associate, agent, employee, or other representative of an attorney) or any potential party to the litigation, including the railroad carrier or rail passenger carrier, to an individual (other than an employee of the rail passenger carrier) injured in the accident, or to a relative of an individual involved in the accident, before the 45th day following the date of the accident.
 
 &emsp;(3)
 
@@ -161,4 +161,6 @@ Model Plan and Recommendations.—The task force established pursuant to subsect
 “(c)
 
 Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 16, 2008\], the Secretary shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure and the Senate Committee on Commerce, Science, and Transportation containing the model plan and recommendations developed by the task force under subsection (b).”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “post-trauma”.</i>
 

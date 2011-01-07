@@ -16,15 +16,13 @@ Upon appointment of any such council or committee, the Secretary may delegate to
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (a), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 The General Schedule, referred to in subsec. (a), is set out under section 5332 of Title 5.
 
 #### Amendments
 
-1985—Subsec. (c). Pub. L. 99–158 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Upon appointment of any such council or committee, the Surgeon General, with the approval of the Secretary, may transfer such of the functions of the National Advisory Health Council relating to grants-in-aid for research or training projects or programs in the areas or fields with which such council or committee is concerned as he determines to be appropriate.”
+<b>1985</b>—Subsec. (c). Pub. L. 99–158 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Upon appointment of any such council or committee, the Surgeon General, with the approval of the Secretary, may transfer such of the functions of the National Advisory Health Council relating to grants-in-aid for research or training projects or programs in the areas or fields with which such council or committee is concerned as he determines to be appropriate.”
 
-1970—Subsec. (a). Pub. L. 91–515, §601(c)(1), substituted provisions authorizing the Secretary to appoint advisory councils or committees without regard to specified provisions governing appointments in the competitive service and relating to classification and General Schedule pay rates, for provisions authorizing the Surgeon General to appoint advisory committees without regard to the civil service laws and subject to the Secretary's approval in such cases as he prescribed.
+<b>1970</b>—Subsec. (a). Pub. L. 91–515, §601(c)(1), substituted provisions authorizing the Secretary to appoint advisory councils or committees without regard to specified provisions governing appointments in the competitive service and relating to classification and General Schedule pay rates, for provisions authorizing the Surgeon General to appoint advisory committees without regard to the civil service laws and subject to the Secretary's approval in such cases as he prescribed.
 
 Subsec. (b). Pub. L. 91–515, §601(a)(3), inserted “council or” before “committee” wherever appearing.
 

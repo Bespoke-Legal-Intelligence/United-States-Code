@@ -36,5 +36,5 @@ Pub. L. 99–272, title XV, §15303, Apr. 7, 1986, 100 Stat. 336.
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–284 substituted “With” for “with” in heading.
+<b>2006</b>—Subsec. (b). Pub. L. 109–284 substituted “With” for “with” in heading.
 

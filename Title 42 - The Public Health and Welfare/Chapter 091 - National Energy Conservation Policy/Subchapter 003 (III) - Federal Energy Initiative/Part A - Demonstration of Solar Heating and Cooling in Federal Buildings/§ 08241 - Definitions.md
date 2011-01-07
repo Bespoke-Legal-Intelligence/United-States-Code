@@ -22,5 +22,5 @@ As used in the part—
 
 #### Amendments
 
-2007—Par. (1)(B). Pub. L. 110–161 substituted “subparagraphs (B) through (I)” for “paragraphs (B) through (H)”.
+<b>2007</b>—Par. (1)(B). Pub. L. 110–161 substituted “subparagraphs (B) through (I)” for “paragraphs (B) through (H)”.
 

@@ -8,7 +8,7 @@ With respect to the trauma care component of a State plan for the provision of e
 
 &emsp;(2) specifies a public or private entity that will designate trauma care regions and trauma centers in the State;
 
-&emsp;(3) subject to subsection (b), contains national standards and requirements of the American College of Surgeons or another appropriate entity for the designation of level Iand level II trauma centers, and in the case of rural areas level III trauma centers (including trauma centers with specified capabilities and expertise in the care of pediatric trauma patients), by such entity, including standards and requirements for—
+&emsp;(3) subject to subsection (b), contains national standards and requirements of the American College of Surgeons or another appropriate entity for the designation of level I and level II trauma centers, and in the case of rural areas level III trauma centers (including trauma centers with specified capabilities and expertise in the care of pediatric trauma patients), by such entity, including standards and requirements for—
 
 &emsp;&emsp;(A) the number and types of trauma patients for whom such centers must provide care in order to ensure that such centers will have sufficient experience and expertise to be able to provide quality care for victims of injury;
 
@@ -70,7 +70,7 @@ With respect to the trauma care component of a State plan for the provision of e
 
 &emsp;&emsp;(A) in the case of payments for fiscal year 2008 and subsequent fiscal years, the State has not taken into account national standards, including those of the American College of Surgeons, the American College of Emergency Physicians, and the American Academy of Pediatrics, in adopting standards under this subsection; or
 
-&emsp;&emsp;(B) in the case of payments for fiscal year 2008 and subsequent fiscal years, the Statehas not, in adopting such standards, taken into account the model plan developed under subsection (c).
+&emsp;&emsp;(B) in the case of payments for fiscal year 2008 and subsequent fiscal years, the State has not, in adopting such standards, taken into account the model plan developed under subsection (c).
 
 #### (c) Model trauma care plan
 
@@ -98,11 +98,11 @@ With respect to compliance with subsection (a) as a condition of the receipt of 
 
 #### Amendments
 
-2007—Pub. L. 110–23 amended section generally. Prior to amendment, section related to requirements with respect to carrying out purpose of allotments.
+<b>2007</b>—Pub. L. 110–23 amended section generally. Prior to amendment, section related to requirements with respect to carrying out purpose of allotments.
 
-1998—Subsec. (a)(8). Pub. L. 105–392 substituted “provides for” for “provides for for”.
+<b>1998</b>—Subsec. (a)(8). Pub. L. 105–392 substituted “provides for” for “provides for for”.
 
-1993—Subsec. (a)(4). Pub. L. 103–183, §601(f)(3)(A), substituted “section 1395dd of this title)” for “section 1395dd of this title”.
+<b>1993</b>—Subsec. (a)(4). Pub. L. 103–183, §601(f)(3)(A), substituted “section 1395dd of this title)” for “section 1395dd of this title”.
 
 Subsec. (a)(8), (9). Pub. L. 103–183, §601(f)(3)(B), substituted “provides for” for “to provide” wherever appearing.
 

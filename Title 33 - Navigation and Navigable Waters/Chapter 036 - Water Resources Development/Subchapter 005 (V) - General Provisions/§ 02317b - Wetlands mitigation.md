@@ -6,7 +6,7 @@ In carrying out a water resources project that involves wetlands mitigation and 
 
 #### (2) Service area
 
-To the maximum extent practicable, the service area of the mitigation bank under paragraph (1) shall be in the same watershed as the affected habitat.
+To the maximum extent practicable, the service area of the mitigation bank under paragraph\(1) shall be in the same watershed as the affected habitat.
 
 #### (3) Responsibility for monitoring
 

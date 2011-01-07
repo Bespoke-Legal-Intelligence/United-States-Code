@@ -24,7 +24,7 @@ A State may use funds provided under subsection (a) for HIV/AIDS testing (includ
 
 #### (d) Application
 
-A State that is eligible for the grant under subsection (a) shall submit an application to the Secretary, in such form, in such manner, and containing such information as the Secretary may require.
+A State that is eligible for the grant under subsection (a) shall submit an application to the Secretary, in such form, in such manner, andcontaining such information as the Secretary may require.
 
 #### (e) Limitation on amount of grant
 
@@ -62,13 +62,13 @@ Of the funds appropriated annually to the Centers for Disease Control and Preven
 
 #### Amendments
 
-2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+<b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 Pub. L. 109–415, §209, amended section catchline and text generally, substituting provisions relating to early diagnosis grant program for provisions requiring State certification of measures to adopt CDC guidelines for pregnant women not later than 120 days after May 20, 1996, and authorizing additional funds if such certification was provided.
 
-2000—Subsec. (c)(1)(F). Pub. L. 106–345, §212(a)(1), added subpar. (F).
+<b>2000</b>—Subsec. (c)(1)(F). Pub. L. 106–345, §212(a)(1), added subpar. (F).
 
 Subsec. (c)(2). Pub. L. 106–345, §212(a)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “For purposes of carrying out this subsection, there are authorized to be appropriated $10,000,000 for each of the fiscal years 1996 through 2000. Amounts made available under section 300ff–77 of this title for carrying out this part are not available for carrying out this section unless otherwise authorized.”
 

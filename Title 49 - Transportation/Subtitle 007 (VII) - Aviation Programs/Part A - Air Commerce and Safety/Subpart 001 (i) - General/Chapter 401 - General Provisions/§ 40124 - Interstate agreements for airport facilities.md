@@ -10,7 +10,7 @@ This restates 49:44502(e) as 49:40121 \[now 40124\] to provide a more appropriat
 
 #### Amendments
 
-1997—Pub. L. 105–102 amended Pub. L. 104–287, renumbering section 40121 of this title as this section.
+<b>1997</b>—Pub. L. 105–102 amended Pub. L. 104–287, renumbering section 40121 of this title as this section.
 
 #### Effective Date of 1997 Amendment
 

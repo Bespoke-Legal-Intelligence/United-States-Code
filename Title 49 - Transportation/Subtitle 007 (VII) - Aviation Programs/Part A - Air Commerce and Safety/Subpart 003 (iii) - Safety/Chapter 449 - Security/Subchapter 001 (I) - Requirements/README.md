@@ -1,7 +1,5 @@
 ### SUBCHAPTER I—REQUIREMENTS
 
-<i><sup>1</sup></i><i> Editorially supplied. Section added by Pub. L. 107–71 without corresponding amendment of chapter analysis.</i>
-
 
 ---
 

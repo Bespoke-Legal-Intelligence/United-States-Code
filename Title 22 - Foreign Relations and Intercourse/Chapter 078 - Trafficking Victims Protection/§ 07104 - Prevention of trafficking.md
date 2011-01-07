@@ -58,7 +58,7 @@ The President shall establish and carry out programs to prevent and deter traffi
 
 &emsp;(1) technical assistance and other support to improve the capacity of foreign governments to investigate, identify, and carry out inspections of private entities, including labor recruitment centers, at which trafficking victims may be exploited, particularly exploitation involving forced and child labor;
 
-&emsp;(2) technical assistance and other support for foreign governments and nongovernmental organizations to provide immigrant populations with information, in the native languages of the major immigrant groups of such populations, regarding the rights of such populations in the foreign country and local in-country nongovernmental organization-operated hotlines;
+&emsp;(2) technical assistance and other support for foreign governments and nongovernmental organizations to provide immigrant populations with information, in the native languages of the major immigrant groups of suchpopulations, regarding the rights of such populations in the foreign country and local in-country nongovernmental organization-operated hotlines;
 
 &emsp;(3) technical assistance to provide legal frameworks and other programs to foreign governments and nongovernmental organizations to ensure that—
 
@@ -74,13 +74,13 @@ The President shall establish and carry out programs to prevent and deter traffi
 
 #### Amendments
 
-2008—Subsec. (i). Pub. L. 110–457 added subsec. (i).
+<b>2008</b>—Subsec. (i). Pub. L. 110–457 added subsec. (i).
 
-2006—Subsec. (g). Pub. L. 109–164, §201(b), struck out designation and heading of par. (1) before “The President shall”, “described in paragraph (2)” after “under which funds”, and heading and text of par. (2). Text of par. (2) read as follows: “Funds referred to in paragraph (1) are funds made available to carry out any program, project, or activity abroad funded under major functional budget category 150 (relating to international affairs).”
+<b>2006</b>—Subsec. (g). Pub. L. 109–164, §201(b), struck out designation and heading of par. (1) before “The President shall”, “described in paragraph (2)” after “under which funds”, and heading and text of par. (2). Text of par. (2) read as follows: “Funds referred to in paragraph (1) are funds made available to carry out any program, project, or activity abroad funded under major functional budget category 150 (relating to international affairs).”
 
 Subsec. (h). Pub. L. 109–164, §101(a), added subsec. (h).
 
-2003—Subsecs. (c) to (f). Pub. L. 108–193, §3(a), added subsecs. (c) to (e), redesignated former subsec. (c) as (f), and in subsec. (f) substituted “initiatives and programs described in subsections (a) through (e)” for “initiatives described in subsections (a) and (b)”.
+<b>2003</b>—Subsecs. (c) to (f). Pub. L. 108–193, §3(a), added subsecs. (c) to (e), redesignated former subsec. (c) as (f), and in subsec. (f) substituted “initiatives and programs described in subsections (a) through (e)” for “initiatives described in subsections (a) and (b)”.
 
 Subsec. (g). Pub. L. 108–193, §3(b), added subsec. (g).
 

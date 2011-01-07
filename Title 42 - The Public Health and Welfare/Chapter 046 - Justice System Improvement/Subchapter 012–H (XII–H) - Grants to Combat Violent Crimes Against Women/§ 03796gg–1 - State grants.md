@@ -12,7 +12,7 @@ Of the amounts appropriated for the purposes of this subchapter—
 
 &emsp;(2) 2.5 percent shall be available for grants for State domestic violence coalitions under section 3796gg(c) of this title, with the coalition for each State, the coalition for the District of Columbia, the coalition for the Commonwealth of Puerto Rico, the coalition for Guam, the coalition for American Samoa, the coalition for the United States Virgin Islands, and the coalition for the Commonwealth of the Northern Mariana Islands.,<sup>1</sup> each receiving an amount equal to 1/56 of the total amount made available under this paragraph for each fiscal year;
 
-&emsp;(3) 2.5 percent shall be available for grants for State sexual assault coalitions under section 3796gg(c) of this title, with the coalition for each State, the coalition for the District of Columbia, the coalition for the Commonwealth of Puerto Rico, coalitions for Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands, each receiving an amount equal to 1/56 of the total amount made available under this paragraph for each fiscal year;
+&emsp;(3) 2.5 percent shall be available for grants for State sexual assault coalitions under section 3796gg(c) of this title, with the coalition for each State, the coalition for the District of Columbia, the coalition for the Commonwealth of Puerto Rico, coalitions for Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the NorthernMariana Islands, each receiving an amount equal to 1/56 of the total amount made available under this paragraph for each fiscal year;
 
 &emsp;(4) 1/56 shall be available for grants under section 3796gg(d) of this title;
 
@@ -122,7 +122,7 @@ Another section 2007 of Pub. L. 90–351 was renumbered section 2015 and is clas
 
 #### Amendments
 
-2006—Subsec. (b)(1). Pub. L. 109–271, §7(a)(2), added par. (1) and struck out former par. (1) which read as follows: “Ten percent shall be available for grants under the program authorized in section 3796gg–10 of this title. The requirements of this subchapter shall not apply to funds allocated for such program.”
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–271, §7(a)(2), added par. (1) and struck out former par. (1) which read as follows: “Ten percent shall be available for grants under the program authorized in section 3796gg–10 of this title. The requirements of this subchapter shall not apply to funds allocated for such program.”
 
 Pub. L. 109–162, §906(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “10 percent shall be available for grants to Indian tribal governments;”.
 
@@ -138,7 +138,7 @@ Subsec. (b)(4). Pub. L. 109–162, §101(d)(1)(D), substituted “1/56” for �
 
 Subsec. (c)(2). Pub. L. 109–162, §101(c)(1), inserted “and describe how the State will address the needs of underserved populations” before semicolon at end.
 
-Subsec. (c)(3)(A). Pub. L. 109–271, §2(<i>l</i>), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “not less than 25 percent shall be allocated to police and not less than 25 percent shall be allocated to prosecutors;”.
+Subsec. (c)(3)(A). Pub. L. 109–271, §2(<i>l</i>), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “not less than 25 percent shall be allocated to police and not less than 25 percent shall be allocated to prosecutors;”.
 
 Pub. L. 109–162, §1134(a)(1), which directed substitution of “law enforcement” for “police”, was repealed by Pub. L. 109–271, §§2(d) and 8(b).
 
@@ -156,15 +156,15 @@ Subsec. (i). Pub. L. 109–271, §2(f)(1), struck out subsec. (i) which related 
 
 Pub. L. 109–162, §101(e), added subsec. (i).
 
-2004—Pub. L. 108–405, §310(b), made technical amendment to directory language of Pub. L. 107–273, §402(2), which renumbered this section as section 2007 of Pub. L. 90–351.
+<b>2004</b>—Pub. L. 108–405, §310(b), made technical amendment to directory language of Pub. L. 107–273, §402(2), which renumbered this section as section 2007 of Pub. L. 90–351.
 
 Subsec. (b)(4). Pub. L. 108–405, §310(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “1/54 shall be available for the development and operation of nonprofit tribal domestic violence and sexual assault coalitions in Indian country;”.
 
-2002—Subsec. (d)(2). Pub. L. 107–273, §402(1)(A), made technical amendment to reference in original act which appears in text as reference to section 3796gg–4 of this title.
+<b>2002</b>—Subsec. (d)(2). Pub. L. 107–273, §402(1)(A), made technical amendment to reference in original act which appears in text as reference to section 3796gg–4 of this title.
 
 Subsec. (d)(3). Pub. L. 107–273, §402(1)(B), made technical amendment to reference in original act which appears in text as reference to section 3796gg–5 of this title.
 
-2000—Subsec. (a). Pub. L. 106–386, §1102(a)(2)(A), inserted “State and local courts (including juvenile courts),” after “for use by States,”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–386, §1102(a)(2)(A), inserted “State and local courts (including juvenile courts),” after “for use by States,”.
 
 Subsec. (b)(1). Pub. L. 106–386, §1103(b)(2)(B), substituted “5 percent” for “4 percent”.
 

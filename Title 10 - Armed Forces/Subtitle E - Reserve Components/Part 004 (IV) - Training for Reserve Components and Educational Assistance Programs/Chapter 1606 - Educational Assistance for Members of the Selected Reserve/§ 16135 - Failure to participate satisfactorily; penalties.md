@@ -16,27 +16,27 @@ Effect of Repayment.—Any repayment under section 303a(e) of title 37 shall not
 
 #### Amendments
 
-2006—Pub. L. 109–163 reenacted section catchline without change and amended text generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to penalties for failure of a member of the Selected Reserve of the Ready Reserve of an armed force to participate satisfactorily in required training.
+<b>2006</b>—Pub. L. 109–163 reenacted section catchline without change and amended text generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to penalties for failure of a member of the Selected Reserve of the Ready Reserve of an armed force to participate satisfactorily in required training.
 
-2002—Subsec. (c). Pub. L. 107–314 added subsec. (c).
+<b>2002</b>—Subsec. (c). Pub. L. 107–314 added subsec. (c).
 
-1996—Subsec. (b)(1)(A). Pub. L. 104–106 substituted “16131(a)” for “2131(a)”.
+<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–106 substituted “16131(a)” for “2131(a)”.
 
-1994—Pub. L. 103–337, §1663(b)(2), renumbered section 2135 of this title as this section.
+<b>1994</b>—Pub. L. 103–337, §1663(b)(2), renumbered section 2135 of this title as this section.
 
 Subsec. (a)(1)(A). Pub. L. 103–337, §1663(b)(6)(A), substituted “16132” for “2132”.
 
 Subsec. (b)(1)(A). Pub. L. 103–337, §1663(b)(6)(B), which directed substitution of “section 16132(a)” for “section 2132(a)”, could not be executed because “section 2132(a)” does not appear in subsec. (b)(1)(A).
 
-1988—Subsec. (a)(1). Pub. L. 100–689, §111(b)(6)(A), inserted “, and during which the member has received such assistance,” after “chapter”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–689, §111(b)(6)(A), inserted “, and during which the member has received such assistance,” after “chapter”.
 
 Subsec. (b)(1)(A). Pub. L. 100–689, §111(b)(6)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: “the number of months of obligated service remaining under the agreement entered into under section 2132(a)(3) divided by the original number of months of such obligation; and”.
 
-1984—Pub. L. 98–525 amended section generally, substituting provisions relating to the failure to participate satisfactorily and penalties for provisions which had designated Sept. 30, 1985, as the termination date for enlistments qualifying for educational assistance.
+<b>1984</b>—Pub. L. 98–525 amended section generally, substituting provisions relating to the failure to participate satisfactorily and penalties for provisions which had designated Sept. 30, 1985, as the termination date for enlistments qualifying for educational assistance.
 
-1980—Pub. L. 96–342 substituted “1985” for “1980”.
+<b>1980</b>—Pub. L. 96–342 substituted “1985” for “1980”.
 
-1978—Pub. L. 95–485 substituted “1980” for “1978”.
+<b>1978</b>—Pub. L. 95–485 substituted “1980” for “1978”.
 
 #### Effective Date of 1996 Amendment
 
@@ -52,5 +52,5 @@ Amendment by Pub. L. 98–525 effective July 1, 1985, applicable only to members
 
 #### Savings Provision
 
-For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under aprovision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
 

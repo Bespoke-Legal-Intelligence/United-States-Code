@@ -2,7 +2,7 @@
 
 For purposes of determining the income gap of a unit of general local government under section 6705(b)(4)(A),<sup>1</sup> the number which applies is—
 
-&emsp;(1) 1.6, with respect to 1/2 of any amount allocated under section 6704 to the State in which the unit is located; and
+&emsp;(1) 1.6, with respect to ½ of any amount allocated under section 6704 to the State in which the unit is located; and
 
 &emsp;(2) 1.2, with respect to the remainder of such amount.
 

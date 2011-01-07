@@ -22,7 +22,7 @@ Notwithstanding any other provision of law, the applicable Secretary may not mak
 
 (1) For purposes of this section the term “financial assistance” means financial assistance made available pursuant to the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], section 1715z or 1715z–1 of title 12, the direct loan program under section 1472 of this title or section 1472(c)(5)(D), 1474, 1490a(a)(2)(A), or 1490r of this title, subtitle A of title III of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12851 et seq.\], or section 101 of the Housing and Urban Development Act of 1965 \[12 U.S.C. 1701s\].
 
-(2) If the eligibility for financial assistance of at least one member of a family has been affirmatively established under the program of financial assistance and under this section, and the ineligibility of one or more family members has not been affirmatively established under thissection, any financial assistance made available to that family by the applicable Secretary shall be prorated, based on the number of individuals in the family for whom eligibility has been affirmatively established under the program of financial assistance and under this section, as compared with the total number of individuals who are members of the family.
+(2) If the eligibility for financial assistance of at least one member of a family has been affirmatively established under the program of financial assistance and under this section, and the ineligibility of one or more family members has not been affirmatively established under this section, any financial assistance made available to that family by the applicable Secretary shall be prorated, based on the number of individuals in the family for whom eligibility has been affirmatively established under the program of financial assistance and under this section, as compared with the total number of individuals who are members of the family.
 
 #### (c) Preservation of families; students
 
@@ -62,7 +62,7 @@ The following conditions apply with respect to financial assistance being or to 
 
 &emsp;&emsp;(B) such other documents as the applicable Secretary determines constitutes reasonable evidence indicating a satisfactory immigration status.
 
-> &emsp;In the case of an individual applying for financial assistance on or after September 30, 1996, the applicable Secretary may not provide anysuch assistance for the benefit of that individual before documentation is presented and verified under paragraph (3) or (4).
+> &emsp;In the case of an individual applying for financial assistance on or after September 30, 1996, the applicable Secretary may not provide any such assistance for the benefit of that individual before documentation is presented and verified under paragraph (3) or (4).
 
 &emsp;(3) If the documentation described in paragraph (2)(A) is presented, the applicable Secretary shall utilize the individual's alien file or alien admission number to verify with the Immigration and Naturalization Service the individual's immigration status through an automated or other system (designated by the Service for use with States) that—
 
@@ -70,7 +70,7 @@ The following conditions apply with respect to financial assistance being or to 
 
 &emsp;&emsp;(B) protects the individual's privacy to the maximum degree possible.
 
-&emsp;(4) In the case of such an individual who is not a citizen or national of the United States, is not 62 years of age or older, and is receiving financial assistance on September 30, 1996, or applying for financial assistance on or after September 30, 1996, if, at the time of application or recertification for financial assistance, the statement described in paragraph (1) is submitted but the documentation required under paragraph (2) is not presented or if the documentation required under paragraph (2)(A) is presented but such documentation is not verified under paragraph (3)—
+&emsp;(4) In the case of such an individual who is not a citizen or national of the United States,is not 62 years of age or older, and is receiving financial assistance on September 30, 1996, or applying for financial assistance on or after September 30, 1996, if, at the time of application or recertification for financial assistance, the statement described in paragraph (1) is submitted but the documentation required under paragraph (2) is not presented or if the documentation required under paragraph (2)(A) is presented but such documentation is not verified under paragraph (3)—
 
 &emsp;&emsp;(A) the applicable Secretary—
 
@@ -168,7 +168,7 @@ The Cranston-Gonzalez National Affordable Housing Act, referred to in subsecs. (
 
 Section 101 of the Housing and Urban Development Act of 1965, referred to in subsec. (b), is section 101 of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, which enacted section 1701s of Title 12, Banks and Banking, and amended sections 1451 and 1465 of this title.
 
-The Immigration Reform and Control Act of 1986, referred to in subsecs. (e)(2), (3) and (g), is Pub. L. 99–603, Nov. 6, 1986, 100 Stat. 3359. For complete classificationof this Act to the Code, see Short Title of 1986 Amendments note set out under section 1101 of Title 8, Aliens and Nationality, and Tables.
+The Immigration Reform and Control Act of 1986, referred to in subsecs. (e)(2), (3) and (g), is Pub. L. 99–603, Nov. 6, 1986, 100 Stat. 3359. For complete classification of this Act to the Code, see Short Title of 1986 Amendments note set out under section 1101 of Title 8, Aliens and Nationality, and Tables.
 
 #### Codification
 
@@ -176,13 +176,13 @@ Section was enacted as part of the Housing and Community Development Act of 1980
 
 #### Amendments
 
-2000—Subsec. (a)(7). Pub. L. 106–504 added par. (7).
+<b>2000</b>—Subsec. (a)(7). Pub. L. 106–504 added par. (7).
 
-1998—Subsec. (b)(2). Pub. L. 105–276, §592(a)(1), substituted “applicable Secretary” for “Secretary of Housing and Urban Development”.
+<b>1998</b>—Subsec. (b)(2). Pub. L. 105–276, §592(a)(1), substituted “applicable Secretary” for “Secretary of Housing and Urban Development”.
 
 Subsec. (c)(1)(B). Pub. L. 105–276, §592(a)(2), aligned cls. (ii) and (iii) with cl. (i).
 
-Subsec. (d)(1)(A). Pub. L. 105–276, §592(a)(3)(A), in last sentence, substituted “applicable Secretary, or” for “Secretary of Housing and Urban Development, or” and “applicable Secretary considers” for “Secretary considers”.
+Subsec. (d)(1)(A). Pub. L. 105–276, §592(a)(3)(A), in last sentence, substituted “applicable Secretary, or” for “Secretary of Housing and Urban Development, or” and“applicable Secretary considers” for “Secretary considers”.
 
 Subsec. (d)(2). Pub. L. 105–276, §592(a)(3)(B), aligned concluding provisions with par. (2) and inserted “applicable” before “Secretary” in concluding provisions.
 
@@ -202,7 +202,7 @@ Subsec. (h)(2)(B). Pub. L. 105–276, §592(a)(4)(B)(ii), substituted “in carr
 
 Subsec. (i). Pub. L. 105–276, §592(a)(5), redesignated subsec. (h), relating to verification of eligibility, as (i).
 
-1996—Subsec. (a). Pub. L. 104–193, §441(a)(1), substituted “applicable Secretary” for “Secretary of Housing and Urban Development” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–193, §441(a)(1), substituted “applicable Secretary” for “Secretary of Housing and Urban Development” in introductory provisions.
 
 Subsec. (a)(5). Pub. L. 104–208, §308(g)(7)(D)(ii), substituted “section 1231(b)(3)” for “section 1253(h)”.
 
@@ -264,7 +264,7 @@ Subsec. (h). Pub. L. 104–208, §576, added subsec. (h) relating to verificatio
 
 Pub. L. 104–193, §441(a)(5), added subsec. (h) defining “applicable Secretary”.
 
-1988—Subsec. (a)(6). Pub. L. 100–242, §164(a), added par. (6).
+<b>1988</b>—Subsec. (a)(6). Pub. L. 100–242, §164(a), added par. (6).
 
 Subsec. (c). Pub. L. 100–242, §164(b), added subsec. (c).
 
@@ -292,9 +292,9 @@ Subsec. (f). Pub. L. 100–242, §164(e), added subsec. (f).
 
 Subsec. (g). Pub. L. 100–242, §164(f)(1), added subsec. (g).
 
-1986—Subsecs. (d), (e). Pub. L. 99–603 added subsecs. (d) and (e).
+<b>1986</b>—Subsecs. (d), (e). Pub. L. 99–603 added subsecs. (d) and (e).
 
-1981—Subsec. (a). Pub. L. 97–35 substituted provisions relating to restrictions on use of assisted housing by resident aliens meeting further conditions for provisions relating to prohibition on financial assistance to nonimmigrant student-aliens.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted provisions relating to restrictions on use of assisted housing by resident aliens meeting further conditions for provisions relating to prohibition on financial assistance to nonimmigrant student-aliens.
 
 Subsec. (b). Pub. L. 97–35 struck out “(1)” after “(b)” and par. (2) which defined “nonimmigrant student-alien”.
 
@@ -342,7 +342,7 @@ Failure To Issue.—If the Secretary fails to issue the regulations required und
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of Title 8, Aliens and Nationality.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
 #### Transitional Certification and Documentation Provisions
 

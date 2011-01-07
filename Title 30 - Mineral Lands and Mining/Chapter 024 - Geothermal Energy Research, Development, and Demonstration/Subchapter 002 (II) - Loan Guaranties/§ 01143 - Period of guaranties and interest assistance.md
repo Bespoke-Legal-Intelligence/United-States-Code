@@ -6,11 +6,11 @@ No loan guaranties shall be made, or interest assistance contract entered into, 
 
 #### Amendments
 
-1992—Pub. L. 102–558 substituted “1993” for “1990”.
+<b>1992</b>—Pub. L. 102–558 substituted “1993” for “1990”.
 
-1980—Pub. L. 96–294 substituted reference to fiscal year 1990, for reference to the ten-calendar-year period following Sept. 3, 1974.
+<b>1980</b>—Pub. L. 96–294 substituted reference to fiscal year 1990, for reference to the ten-calendar-year period following Sept. 3, 1974.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under section 2062 of the Appendix to Title 50, War and National Defense.
+Amendment by Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L.102–558, set out as a note under section 2062 of the Appendix to Title 50, War and National Defense.
 

@@ -28,11 +28,11 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-1986—Subsec. (d). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended subsec. (d) identically, striking out “and for payment of the difference between the value of commodities and payments received from the Secretary of Agriculture and (1) the full cost of each breakfast for each student eligible for a free breakfast, and (2) the full cost of each breakfast, less any amounts required by law or regulation to be paid by each student eligible for a reduced-price breakfast” after “this section”.
+<b>1986</b>—Subsec. (d). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended subsec. (d) identically, striking out “and for payment of the difference between the value of commodities and payments received from the Secretary of Agriculture and (1) the full cost of each breakfast for each student eligible for a free breakfast, and (2) the full cost of each breakfast, less any amounts required by law or regulation to be paid by each student eligible for a reduced-price breakfast” after “this section”.
 
 #### Effective Date
 
-Section effective Oct. 1, 1978, and no provisions to be construed to impair or to prevent the taking of effect of any other Act providing for the transfer of the described functions to an executive department having responsibility for education, see section 1415 of Pub. L. 95–561, set out as a note under section 921 of Title 20, Education.
+Section effective Oct. 1, 1978, and no provisions to be construed to impair or to prevent the taking of effectof any other Act providing for the transfer of the described functions to an executive department having responsibility for education, see section 1415 of Pub. L. 95–561, set out as a note under section 921 of Title 20, Education.
 
 #### Transfer of Functions
 

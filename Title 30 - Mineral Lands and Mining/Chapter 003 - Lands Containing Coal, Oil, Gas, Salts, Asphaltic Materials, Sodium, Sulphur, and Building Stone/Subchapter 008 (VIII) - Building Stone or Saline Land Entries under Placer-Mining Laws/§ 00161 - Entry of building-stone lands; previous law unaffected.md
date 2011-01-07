@@ -4,10 +4,6 @@ Any person authorized to enter lands under the mining laws of the United States 
 
 (Aug. 4, 1892, ch. 375, §§1, 3, 27 Stat. 348.)
 
-#### References in Text
-
-The mining laws of the United States, referred to in text, are classified generally to this title.
-
 #### Codification
 
 First two sentences of this section are from section 1 and last sentence of this section is from section 3 of act Aug. 4, 1892.

@@ -12,7 +12,7 @@ For purposes of this subtitle, the term “common trust fund” means a fund mai
 
 &emsp;&emsp;&emsp;(i) which the Secretary determines are established pursuant to a State law which is substantially similar to the Uniform Gifts to Minors Act as published by the American Law Institute, and
 
-&emsp;&emsp;&emsp;(ii) with respect to which the bank establishes, to the satisfaction of the Secretary, that it has duties and responsibilities similar to duties and responsibilities of a trustee or guardian; and
+&emsp;&emsp;&emsp;(ii) with respect to which the bank establishes, to the satisfaction of the Secretary, that it has duties and responsibilitiessimilar to duties and responsibilities of a trustee or guardian; and
 
 &emsp;(2) in conformity with the rules and regulations, prevailing from time to time, of the Board of Governors of the Federal Reserve System or the Comptroller of the Currency pertaining to the collective investment of trust funds by national banks.
 
@@ -20,7 +20,7 @@ For purposes of this subtitle, the term “common trust fund” means a fund mai
 
 #### (b) Taxation of common trust funds
 
-A common trust fund shall not be subject to taxation under this chapter and for purposes ofthis chapter shall not be considered a corporation.
+A common trust fund shall not be subject to taxation under this chapter and for purposes of this chapter shall not be considered a corporation.
 
 #### (c) Income of participants in fund
 
@@ -86,7 +86,7 @@ The benefit of the deduction for net operating losses provided by section 172 sh
 
 #### (A) In general
 
-&emsp;&emsp;In determining whether the transfer referred to in paragraph (1)(A) is in exchange solely for stock in one or more regulated investment companies, the assumption by any such company of a liability of the common trust fund shall be disregarded.
+&emsp;&emsp;In determining whether the transfer referred to in paragraph (1)(A) is in exchangesolely for stock in one or more regulated investment companies, the assumption by any such company of a liability of the common trust fund shall be disregarded.
 
 #### (B) Special rule where assumed liabilities exceed basis
 
@@ -94,7 +94,7 @@ The benefit of the deduction for net operating losses provided by section 172 sh
 
 &emsp;&emsp;&emsp;If, in any transfer referred to in paragraph (1)(A), the assumed liabilities exceed the aggregate adjusted bases (in the hands of the common trust fund) of the assets transferred to the regulated investment company or companies—
 
-&emsp;&emsp;&emsp;&emsp;(I) notwithstanding paragraph (1), gain shall be recognized to the common trustfund on such transfer in an amount equal to such excess,
+&emsp;&emsp;&emsp;&emsp;(I) notwithstanding paragraph (1), gain shall be recognized to the common trust fund on such transfer in an amount equal to such excess,
 
 &emsp;&emsp;&emsp;&emsp;(II) the basis of the assets received by the regulated investment company or companies in such transfer shall be increased by the amount so recognized, and
 
@@ -126,9 +126,9 @@ For purposes of this subtitle, the taxable year of any common trust fund shall b
 
 #### Amendments
 
-2003—Subsec. (c). Pub. L. 108–27, §§302(e)(7), 303, temporarily inserted concluding provisions. See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (c). Pub. L. 108–27, §§302(e)(7), 303, temporarily inserted concluding provisions. See Effective and Termination Dates of 2003 Amendment note below.
 
-1999—Subsec. (h)(3)(A). Pub. L. 106–36, §3001(c)(1)(A), struck out “, and the fact that any property transferred by the common trust fund is subject to a liability,” before “shall be disregarded”.
+<b>1999</b>—Subsec. (h)(3)(A). Pub. L. 106–36, §3001(c)(1)(A), struck out “, and the fact that any property transferred by the common trust fund is subject to a liability,” before “shall be disregarded”.
 
 Subsec. (h)(3)(B)(ii). Pub. L. 106–36, §3001(c)(1)(B), added cl. (ii) and struck out heading and text of former cl. (ii). Text read as follows: “For purposes of clause (i), the term ‘assumed liabilities’ means the aggregate of—
 
@@ -138,27 +138,27 @@ Subsec. (h)(3)(B)(ii). Pub. L. 106–36, §3001(c)(1)(B), added cl. (ii) and str
 
 Subsec. (h)(3)(C). Pub. L. 106–36, §3001(c)(1)(B), added subpar. (C).
 
-1996—Subsecs. (h), (i). Pub. L. 104–188 added subsec. (h) and redesignated former subsec. (h) as (i).
+<b>1996</b>—Subsecs. (h), (i). Pub. L. 104–188 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1988—Subsec. (h). Pub. L. 100–647 added subsec. (h).
+<b>1988</b>—Subsec. (h). Pub. L. 100–647 added subsec. (h).
 
-1986—Subsec. (c). Pub. L. 99–514, §612(b)(2)(B), substituted “1 year” for “6 months” wherever appearing in pars. (1) and (2).
+<b>1986</b>—Subsec. (c). Pub. L. 99–514, §612(b)(2)(B), substituted “1 year” for “6 months” wherever appearing in pars. (1) and (2).
 
 Pub. L. 99–514, §612(b)(2)(A), amended subsec. (c) generally, restating subpars. (A) to (C) of former par. (1) as pars. (1) to (3) and striking out former par. (2) which read as follows: “The proportionate share of each participant in the amount of dividends or interest received by the common trust fund and to which section 116 or 128 applies shall be considered for purposes of such section as having been received by such participant.”
 
-1984—Subsec. (c)(1)(A), (B). Pub. L. 98–369 substituted “6 months” for “1 year”, wherever appearing, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+<b>1984</b>—Subsec. (c)(1)(A), (B). Pub. L. 98–369 substituted “6 months” for “1 year”, wherever appearing, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-1983—Subsec. (c)(2). Pub. L. 97–448 reenacted par. (2) without change.
+<b>1983</b>—Subsec. (c)(2). Pub. L. 97–448 reenacted par. (2) without change.
 
-1981—Subsec. (c)(2). Pub. L. 97–34, §301(b)(6)(A), inserted reference to “interest” in heading and text, which continued the amendment made by Pub. L. 96–223.
+<b>1981</b>—Subsec. (c)(2). Pub. L. 97–34, §301(b)(6)(A), inserted reference to “interest” in heading and text, which continued the amendment made by Pub. L. 96–223.
 
 Pub. L. 97–34, §301(b)(3), inserted “or 128” after “section 116”.
 
-1980—Subsec. (c)(2). Pub. L. 96–223 inserted “or interest” after “dividends” in heading and text.
+<b>1980</b>—Subsec. (c)(2). Pub. L. 96–223 inserted “or interest” after “dividends” in heading and text.
 
-1977—Subsec. (d)(4). Pub. L. 95–30 struck out par. (4) relating to standard deduction.
+<b>1977</b>—Subsec. (d)(4). Pub. L. 95–30 struck out par. (4) relating to standard deduction.
 
-1976—Subsec. (a). Pub. L. 94–414 inserted provision relating to treatment of two or more bank members of same affiliated group.
+<b>1976</b>—Subsec. (a). Pub. L. 94–414 inserted provision relating to treatment of two or more bank members of same affiliated group.
 
 Subsec. (a)(1). Pub. L. 94–455, §2138, designated existing provisions relating to trustee, executor, administrator and guardian as subpar. (A) and added subpar. (B).
 
@@ -172,15 +172,15 @@ Subsec. (e). Pub. L. 94–455, §2131(d), inserted “The admission of a partici
 
 Subsec. (g). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1964—Subsec. (c)(2). Pub. L. 88–272 struck out “section 34 or” before “section 116 applies”.
+<b>1964</b>—Subsec. (c)(2). Pub. L. 88–272 struck out “section 34 or” before “section 116 applies”.
 
-1962—Subsec. (a)(2). Pub. L. 87–722 inserted “or the Comptroller of the Currency” after “the Board of Governors of the Federal Reserve System”.
+<b>1962</b>—Subsec. (a)(2). Pub. L. 87–722 inserted “or the Comptroller of the Currency” after “the Board of Governors of the Federal Reserve System”.
 
 #### Effective and Termination Dates of 2003 Amendment
 
 Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as a note under section 1 of this title.
 
-Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
+Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
 
 #### Effective Date of 1999 Amendment
 

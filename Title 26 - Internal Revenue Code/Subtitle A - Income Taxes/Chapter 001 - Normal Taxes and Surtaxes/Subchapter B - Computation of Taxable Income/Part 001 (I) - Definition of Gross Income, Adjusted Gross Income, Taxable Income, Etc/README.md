@@ -15,17 +15,15 @@
 
 #### Amendments
 
-1990—Pub. L. 101–508, title XI, §11103(d), Nov. 5, 1990, 104 Stat. 1388–407, added item 68.
+<b>1990</b>—Pub. L. 101–508, title XI, §11103(d), Nov. 5, 1990, 104 Stat. 1388–407, added item 68.
 
-1986—Pub. L. 99–514, title I, §132(d), Oct. 22, 1986, 100 Stat. 2116, added item 67.
+<b>1986</b>—Pub. L. 99–514, title I, §132(d), Oct. 22, 1986, 100 Stat. 2116, added item 67.
 
-1984—Pub. L. 98–369, div. A, title IV, §424(b)(2)(C), July 18, 1984, 98 Stat. 803, struck out “where spouses live apart” in item 66.
+<b>1984</b>—Pub. L. 98–369, div. A, title IV, §424(b)(2)(C), July 18, 1984, 98 Stat. 803, struck out “where spouses live apart” in item 66.
 
-1980—Pub. L. 96–605, title I, §101(b), Dec. 28, 1980, 94 Stat. 3522, added item 66.
+<b>1980</b>—Pub. L. 96–605, title I, §101(b), Dec. 28, 1980, 94 Stat. 3522, added item 66.
 
-1976—Pub. L. 94–455, title XIX, §1901(b)(4)(A), (B), Oct. 4, 1976, 90 Stat. 1793, substituted “TAXABLE INCOME, ETC.” for “AND TAXABLE INCOME” in part heading, and added items 64 and 65.
-
-<i><sup>1</sup></i><i> Part heading amended by Pub. L. 99–514 without corresponding amendment of analysis.</i>
+<b>1976</b>—Pub. L. 94–455, title XIX, §1901(b)(4)(A), (B), Oct. 4, 1976, 90 Stat. 1793, substituted “TAXABLE INCOME, ETC.” for “AND TAXABLE INCOME” in part heading, and added items 64 and 65.
 
 
 ---

@@ -6,5 +6,5 @@ Any person authorized to carry out enforcement activities under this chapter and
 
 #### Amendments
 
-1962—Pub. L. 87–814 substituted provisions respecting inspection of returns, records, or other reports for provisions authorizing a fine not exceeding $1,000 and proceedings for injunction against fishing for or possessing the kind of fish covered by the convention for failure to make, keep, furnish, or refusal to permit inspection of returns, records, or reports or for furnishing a false return, record, or report.
+<b>1962</b>—Pub. L. 87–814 substituted provisions respecting inspection of returns, records, or other reports for provisions authorizing a fine not exceeding $1,000 and proceedings for injunction against fishing for or possessing the kind of fish covered by the convention for failure to make, keep, furnish, or refusal to permit inspection of returns, records, or reports or for furnishing a false return, record, or report.
 

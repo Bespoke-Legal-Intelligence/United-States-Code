@@ -6,7 +6,7 @@ In carrying on activities which further the purposes of this chapter, subject to
 
 &emsp;(1) to place orders and make purchases and rentals of materials and equipment;
 
-&emsp;(2) to make contracts, including contracts with governmental agencies, foreign or domestic, including subdivisions thereof, and intergovernmental organizations of which the United States is a member, and, with respect to contracts entered into in foreign countries, without regard to section 22 of title 41;
+&emsp;(2) to make contracts, including contracts with governmental agencies, foreign or domestic, including subdivisions thereof, and intergovernmental organizations of which the United States is a member, and, with respect to contracts entered into in foreign countries, without regard to section 6306 of title 41;
 
 &emsp;(3) under such regulations as the Secretary may prescribe, to pay the transportation expenses, and not to exceed $10 per diem in lieu of subsistence and other expenses, of citizens or subjects of other countries, without regard to the Standardized Government Travel Regulations and the Subsistence Expense Act of 1926,<sup>1</sup> as amended; and
 
@@ -40,13 +40,17 @@ In carrying on activities which further the purposes of this chapter, subject to
 
 The Subsistence Expenses Act of 1926, as amended, referred to in subsec. (a)(3), was repealed and superseded by the Travel Expense Act of 1949, which is covered by subchapter I of chapter 57 of Title 5, Government Organization and Employees. Section 9(a) of the 1949 Act provided in part: “All Acts . . . applicable to civilian officers or employees of the departments and establishments, providing for reimbursement of actual travel or transportation expense, and all other Acts, general or special, which are in conflict with the provisions of this Act . . . are hereby modified, but only to the extent of inconsistency or conflict with the provisions of this Act . . .”.
 
+#### Codification
+
+In subsec. (a)(2), “section 6306 of title 41” substituted for “section 3741 of the Revised Statutes (41 U.S.C. 22)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-2002—Subsec. (b)(4)(A). Pub. L. 107–228 substituted “Broadcasting Board of Governors” for “United States Information Agency” and inserted before period “and is authorized to enter into contracts for periods not to exceed ten years to acquire local broadcasting services outside the United States”.
+<b>2002</b>—Subsec. (b)(4)(A). Pub. L. 107–228 substituted “Broadcasting Board of Governors” for “United States Information Agency” and inserted before period “and is authorized to enter into contracts for periods not to exceed ten years to acquire local broadcasting services outside the United States”.
 
-1994—Subsec. (b)(4). Pub. L. 103–236 added par. (4).
+<b>1994</b>—Subsec. (b)(4). Pub. L. 103–236 added par. (4).
 
-1982—Pub. L. 97–241 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1982</b>—Pub. L. 97–241 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Transfer of Functions
 
@@ -70,7 +74,7 @@ Sec. 3. <i>Authority under various other statutes</i>. The Director is authorize
 
 (d) The provisions under the first heading “Salaries and Expenses” of the Department of State Appropriation Act, 1954, regarding (1) employment of aliens, by contract, for services abroad, (2) purchase of uniforms, (3) cost of transporting to and from a place of storage and the cost of storing the furniture and household effects of an employee of the Foreign Service who is assigned to a post at which he is unable to use his furniture and effects, under such regulations as the Secretary of State may prescribe, (4) dues for library membership in organizations which issue publications to members only, or to members at a price lower than to others, (5) examination of estimates of appropriations in the field, (6) purchase of ice and drinking water abroad, (7) payment of excise taxes on negotiable instruments abroad, and (8) procurement, by contract or otherwise, of services, supplies and facilities, as follows: (i) maintenance, improvement, and repair of properties used for international information activities in foreign countries, (ii) fuel and utilities for Government-owned or leased property abroad, and (iii) rental or lease for periods not exceeding ten years of offices, buildings, grounds, and living quarters, and the furnishing of living quarters to officers and employees engaged in international information activities abroad \[22 U.S.C. 291\].
 
-(e) The provisions of the Department of State Appropriation Act, 1954, regarding (1) exchange of funds for payment of expenses in connection with the operation of information establishments abroad without regard to the provisions of section 3651 of the Revised Statutes \[section 543 of former Title 31\], (section 103 of the General Provisions of the Department of State Appropriation Act, 1954), (2) payment of travel expenses outside the continental limits of the United States from funds available in the fiscal year that such travel is authorized and actually begins (section 104 of the General Provisions of the Department of State Appropriation Act, 1954), (3) granting authority to the chief of each information Field Staff to approve, with the concurrence of the Chief of Mission, use of Government-owned vehicles for travel under conditions described in section 105 of the General Provisions of the Department of State Appropriation Act, 1954, and (4) purchase with foreign currencies for use abroad of passenger motor vehicles (exclusive of buses, ambulances, and station wagons) at a cost not to exceed the equivalent of $2,200 for each vehicle (section 106 of the General Provisions of the Department of State Appropriation Act, 1954).
+(e) The provisions of the Department of State Appropriation Act, 1954, regarding (1) exchange of funds for payment of expenses in connection with the operation of information establishments abroad without regard to the provisions of section 3651 of the Revised Statutes \[section 543 of former Title 31\], (section 103 of the General Provisions of the Department of State Appropriation Act, 1954), (2) payment of travel expenses outside the continental limits of the United States from funds available in the fiscal year that such travel is authorized and actually begins (section 104 of the General Provisions of the Department of State Appropriation Act, 1954), (3) granting authority to the chief of each information Field Staff to approve, with the concurrence of the Chief of Mission, use of Government-owned vehiclesfor travel under conditions described in section 105 of the General Provisions of the Department of State Appropriation Act, 1954, and (4) purchase with foreign currencies for use abroad of passenger motor vehicles (exclusive of buses, ambulances, and station wagons) at a cost not to exceed the equivalent of $2,200 for each vehicle (section 106 of the General Provisions of the Department of State Appropriation Act, 1954).
 
 (f) Section 202 of the Revised Statutes of the United States \[see 22 U.S.C. 2656\], so far as it authorizes the Secretary of State to keep the American public informed about the international information aspects of the United States foreign affairs.
 

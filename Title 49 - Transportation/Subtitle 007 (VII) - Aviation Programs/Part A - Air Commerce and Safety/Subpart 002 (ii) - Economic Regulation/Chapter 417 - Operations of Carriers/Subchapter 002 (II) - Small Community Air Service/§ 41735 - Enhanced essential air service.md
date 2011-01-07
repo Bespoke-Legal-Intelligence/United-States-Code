@@ -40,7 +40,7 @@ Compensation Payments.—(1) The Secretary shall pay compensation under this sec
 
 &emsp;(C) the Secretary decides the compensation is necessary to maintain the service to the place.
 
-(2) The Secretary may require the State or local government or person agreeing to pay compensation under this section to make advance payments or provide other security to ensure that timely payments are made.
+(2) The Secretary may require the State or local government or person agreeing to paycompensation under this section to make advance payments or provide other security to ensure that timely payments are made.
 
 (d)
 

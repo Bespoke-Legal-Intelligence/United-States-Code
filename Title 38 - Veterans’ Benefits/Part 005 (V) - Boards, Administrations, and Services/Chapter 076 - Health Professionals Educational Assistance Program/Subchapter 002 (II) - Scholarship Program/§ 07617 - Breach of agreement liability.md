@@ -1,6 +1,6 @@
 ### §7617. Breach of agreement: liability
 
-(a) A participant in the Scholarship Program (other than a participant described in subsection\(b) of this section) who fails to accept payment, or instructs the educational institution in which the participant is enrolled not to accept payment, in whole or in part, of a scholarship under the agreement entered into under section 7603 of this title shall be liable to the United States for liquidated damages in the amount of $1,500. Such liability is in addition to any period of obligated service or other obligation or liability under the agreement.
+(a) A participant in the Scholarship Program (other than a participant described in subsection (b) of this section) who fails to accept payment, or instructs the educational institution in which the participant is enrolled not to accept payment, in whole or in part, of a scholarship under the agreement entered into under section 7603 of this title shall be liable to the United States for liquidated damages in the amount of $1,500. Such liability is in addition to any period of obligated service or other obligation or liability under the agreement.
 
 (b) A participant in the Scholarship Program shall be liable to the United States for the amount which has been paid to or on behalf of the participant under the agreement if any of the following occurs:
 
@@ -40,7 +40,7 @@
 
 #### Amendments
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 4317 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 4317 of this title as this section.
 
 Subsec. (a). Pub. L. 102–40, §402(d)(1), substituted “7603” for “4303”.
 

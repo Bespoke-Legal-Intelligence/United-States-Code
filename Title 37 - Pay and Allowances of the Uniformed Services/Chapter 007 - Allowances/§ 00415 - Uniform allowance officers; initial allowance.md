@@ -74,31 +74,31 @@ In subsection (e), the words “as a temporary officer” are inserted for clari
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–398 substituted “$400” for “$200” in introductory provisions.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398 substituted “$400” for “$200” in introductory provisions.
 
-1991—Subsecs. (a), (b). Pub. L. 102–25 struck out “of this section”.
+<b>1991</b>—Subsecs. (a), (b). Pub. L. 102–25 struck out “of this section”.
 
-1981—Subsec. (a). Pub. L. 97–22 substituted “subsection (b) of this section” for “subsections (b) and (c) of this section”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–22 substituted “subsection (b) of this section” for “subsections (b) and (c) of this section”.
 
 Subsec. (a)(4). Pub. L. 97–60 added par. (4).
 
-1980—Subsec. (a). Pub. L. 96–513, §412(1), (2), substituted “an officer of an armed force is entitled” for “a reserve officer of an armed force, an officer of theArmy or the Air Force without specification of component, or a regular officer of an armed force appointed under section 2106 or 2107 of title 10 is entitled”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513, §412(1), (2), substituted “an officer of an armed force is entitled” for “a reserve officer of an armed force, an officer of the Army or the Air Force without specification of component, or a regular officer of an armed force appointed under section 2106 or 2107 of title 10 is entitled”.
 
 Subsecs. (c), (d). Pub. L. 96–513, §412(3), (4), redesignated subsec. (d) as (c). Former subsec. (c), relating to limitations on qualifications for initial allowances by certain officers, was struck out.
 
 Subsec. (e). Pub. L. 96–513, §412(3), struck out subsec. (e) relating to uniform allowances for temporary officers or warrant officers.
 
-1979—Subsec. (d). Pub. L. 96–76 in cl. (1) inserted provisions for applicability to officers on inactive duty training status, and struck out cl. (3) setting forth applicability to officers entitled to basic pay of pay grade O–1, O–2, or O–3.
+<b>1979</b>—Subsec. (d). Pub. L. 96–76 in cl. (1) inserted provisions for applicability to officers on inactive duty training status, and struck out cl. (3) setting forth applicability to officers entitled to basic pay of pay grade O–1, O–2, or O–3.
 
-1970—Subsec. (e). Pub. L. 91–278 provided for entitlement to uniform allowance of enlisted member appointed a warrant officer under section 213 of title 14.
+<b>1970</b>—Subsec. (e). Pub. L. 91–278 provided for entitlement to uniform allowance of enlisted member appointed a warrant officer under section 213 of title 14.
 
-1967—Subsec. (d)(3). Pub. L. 90–83 substituted “entitled to the basic pay” for “is entitled to the basic pay”.
+<b>1967</b>—Subsec. (d)(3). Pub. L. 90–83 substituted “entitled to the basic pay” for “is entitled to the basic pay”.
 
-1966—Subsec. (a). Pub. L. 89–718 struck out “, United States Code,” after “title 10”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–718 struck out “, United States Code,” after “title 10”.
 
 Subsec. (e). Pub. L. 89–444 substituted “section 214 of title 14” for “section 435 of title 14”.
 
-1964—Subsec. (a). Pub. L. 88–647 included a regular officer of an armed force appointed under section 2106 or 2107 of title 10.
+<b>1964</b>—Subsec. (a). Pub. L. 88–647 included a regular officer of an armed force appointed under section 2106 or 2107 of title 10.
 
 #### Effective Date of 2000 Amendment
 

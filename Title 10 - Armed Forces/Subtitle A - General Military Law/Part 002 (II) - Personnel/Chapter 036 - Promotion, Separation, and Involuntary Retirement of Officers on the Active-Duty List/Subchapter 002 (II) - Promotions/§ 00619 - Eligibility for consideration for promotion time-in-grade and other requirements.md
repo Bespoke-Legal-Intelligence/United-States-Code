@@ -74,11 +74,11 @@ Certain Officers Not To Be Considered.—A selection board convened under sectio
 
 #### Amendments
 
-2006—Subsec. (a)(1)(B). Pub. L. 109–364 substituted “October 1, 2008” for “October 1, 2005”.
+<b>2006</b>—Subsec. (a)(1)(B). Pub. L. 109–364 substituted “October 1, 2008” for “October 1, 2005”.
 
-2004—Subsec. (d)(5). Pub. L. 108–375 added par. (5).
+<b>2004</b>—Subsec. (d)(5). Pub. L. 108–375 added par. (5).
 
-2001—Subsec. (a). Pub. L. 107–107, §504(b)(1), inserted heading.
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §504(b)(1), inserted heading.
 
 Subsec. (a)(1)(B). Pub. L. 107–107, §504(a), inserted “, except that the minimum period of service in effect under this subparagraph before October 1, 2005, shall be eighteen months” before period at end.
 
@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 107–107, §504(b)(4), inserted heading.
 
 Subsec. (d)(4). Pub. L. 107–107, §505(c)(1)(A), added par. (4).
 
-1997—Subsec. (d). Pub. L. 105–85, §503(a)(1), substituted “grade any of the following officers:” for “grade—” in introductory provisions.
+<b>1997</b>—Subsec. (d). Pub. L. 105–85, §503(a)(1), substituted “grade any of the following officers:” for “grade—” in introductory provisions.
 
 Subsec. (d)(1). Pub. L. 105–85, §503(a)(2), substituted “An officer” for “an officer” and a period for “; or”.
 
@@ -100,13 +100,13 @@ Subsec. (d)(2). Pub. L. 105–85, §503(a)(4), added par. (2). Former par. (2) r
 
 Subsec. (d)(3). Pub. L. 105–85, §503(a)(3), redesignated par. (2) as (3) and substituted “An officer” for “an officer”.
 
-1994—Pub. L. 103–337 made technical correction to directory language of Pub. L. 103–160, §931(c)(1). See 1993 Amendment note below.
+<b>1994</b>—Pub. L. 103–337 made technical correction to directory language of Pub. L. 103–160, §931(c)(1). See 1993 Amendment note below.
 
-1993—Pub. L. 103–160, §931(c)(1), as amended by Pub. L. 103–337, inserted “: time-in-grade and other requirements” in section catchline.
+<b>1993</b>—Pub. L. 103–160, §931(c)(1), as amended by Pub. L. 103–337, inserted “: time-in-grade and other requirements” in section catchline.
 
 Subsec. (e). Pub. L. 103–160, §931(b), struck out subsec. (e) which specified certain requirements for appointment to grade of brigadier general or rear admiral (lower half). See section 619a of this title.
 
-1991—Subsec. (c)(2). Pub. L. 102–190, §504(d)(1), added subpar. (A), redesignated subpars. (C) and (D) as (B) and (C) respectively, and struck out former subpars. (A) and (B) which read as follows:
+<b>1991</b>—Subsec. (c)(2). Pub. L. 102–190, §504(d)(1), added subpar. (A), redesignated subpars. (C) and (D) as (B) and (C) respectively, and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) may, by regulation, prescribe procedures to limit the officers to be considered by a selection board—
 
@@ -120,7 +120,7 @@ Subsec. (e). Pub. L. 103–160, §931(b), struck out subsec. (e) which specified
 
 Subsec. (c)(3). Pub. L. 102–190, §504(d)(2), added par. (3).
 
-1988—Subsec. (e)(1). Pub. L. 100–456, §515(a)(1)(A), substituted “January 1, 1994” for “January 1, 1992” in second sentence.
+<b>1988</b>—Subsec. (e)(1). Pub. L. 100–456, §515(a)(1)(A), substituted “January 1, 1994” for “January 1, 1992” in second sentence.
 
 Subsec. (e)(2)(D), (E). Pub. L. 100–456, §515(b)(1), added subpars. (D) and (E) and struck out former subpar. (D) which read as follows: “until January 1, 1992, in the case of an officer who served before October 1, 1986, in an assignment (other than a joint duty assignment) that involved significant experience in joint matters (as determined by the Secretary).”
 
@@ -128,21 +128,21 @@ Subsec. (e)(3)(C). Pub. L. 100–456, §515(b)(2), substituted “paragraph (2) 
 
 Subsec. (e)(5). Pub. L. 100–456, §515(a)(1)(B), added par. (5).
 
-1987—Subsec. (e)(1). Pub. L. 100–180, §1305(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “An officer may not be selected for promotion to the grade of brigadier general or rear admiral (lower half) unless the officer has served in a joint duty assignment.”
+<b>1987</b>—Subsec. (e)(1). Pub. L. 100–180, §1305(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “An officer may not be selected for promotion to the grade of brigadier general or rear admiral (lower half) unless the officer has served in a joint duty assignment.”
 
 Subsec. (e)(2)(D). Pub. L. 100–180, §1314(b)(4), substituted “October 1, 1986,” for “the date of the enactment of this subsection”.
 
-1986—Subsec. (e). Pub. L. 99–433 added subsec. (e).
+<b>1986</b>—Subsec. (e). Pub. L. 99–433 added subsec. (e).
 
-1985—Subsecs. (a)(2)(B), (c)(2)(A)(ii). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
+<b>1985</b>—Subsecs. (a)(2)(B), (c)(2)(A)(ii). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
 
-1984—Subsec. (b). Pub. L. 98–525, §525(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), an officer” for “An officer”, and added par. (2).
+<b>1984</b>—Subsec. (b). Pub. L. 98–525, §525(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), an officer” for “An officer”, and added par. (2).
 
 Subsec. (c)(2)(D). Pub. L. 98–525, §525(b), added subpar. (D).
 
 Subsec. (d)(2). Pub. L. 98–525, §529(a), struck out “Navy or” before “Marine Corps” and struck out “lieutenant commander or” before “major”.
 
-1981—Subsec. (a)(2)(B). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
+<b>1981</b>—Subsec. (a)(2)(B). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
 
 Subsec. (c)(2)(A). Pub. L. 97–22, §4(c)(1), struck out “and” after “promotion;”.
 

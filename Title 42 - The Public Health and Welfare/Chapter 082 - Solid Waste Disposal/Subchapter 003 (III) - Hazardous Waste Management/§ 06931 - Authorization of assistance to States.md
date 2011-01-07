@@ -12,13 +12,13 @@ Amounts authorized to be appropriated under subsection (a) of this section shall
 
 State hazardous waste programs for which grants may be made under subsection (a) of this section may include (but shall not be limited to) planning for hazardous waste treatment, storage and disposal facilities, and the development and execution of programs to protect health and the environment from inactive facilities which may contain hazardous waste.
 
-(Pub. L. 89–272, title II, §3011, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2812; amendedPub. L. 96–482, §§16, 31(b), Oct. 21, 1980, 94 Stat. 2342, 2352; Pub. L. 98–616, §2(b), Nov. 8, 1984, 98 Stat. 3222.)
+(Pub. L. 89–272, title II, §3011, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2812; amended Pub. L. 96–482, §§16, 31(b), Oct. 21, 1980, 94 Stat. 2342, 2352; Pub. L. 98–616, §2(b), Nov. 8, 1984, 98 Stat. 3222.)
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–616 substituted “$40,000,000 for fiscal year 1982, $55,000,000 for fiscal year 1985, $60,000,000 for fiscal year 1986, $60,000,000 for fiscal year 1987, and $60,000,000 for fiscal year 1988” for “and $40,000,000 for fiscal year 1982”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–616 substituted “$40,000,000 for fiscal year 1982, $55,000,000 for fiscal year1985, $60,000,000 for fiscal year 1986, $60,000,000 for fiscal year 1987, and $60,000,000 for fiscal year 1988” for “and $40,000,000 for fiscal year 1982”.
 
-1980—Subsec. (a). Pub. L. 96–482, §31(b), authorized appropriation of $20,000,000, $35,000,000, and $40,000,000 for fiscal years 1980, 1981, and 1982, respectively.
+<b>1980</b>—Subsec. (a). Pub. L. 96–482, §31(b), authorized appropriation of $20,000,000, $35,000,000, and $40,000,000 for fiscal years 1980, 1981, and 1982, respectively.
 
 Subsec. (c). Pub. L. 96–482, §16, added subsec. (c).
 

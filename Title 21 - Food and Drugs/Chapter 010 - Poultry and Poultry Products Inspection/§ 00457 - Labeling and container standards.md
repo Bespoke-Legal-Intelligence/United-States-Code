@@ -10,7 +10,7 @@ The Secretary, whenever he determines such action is necessary for the protectio
 
 #### (c) Use of trade names; false or misleading marking or labeling; misleading form or size of container
 
-No article subject to this chapter shall be sold or offered for sale by any person in commerce, under any name or other marking or labeling which is false or misleading, or in any container of a misleading form or size, but establishedtrade names and other marking and labeling and containers which are not false or misleading and which are approved by the Secretary are permitted.
+No article subject to this chapter shall be sold or offered for sale by any person in commerce, under any name or other marking or labeling which is false or misleading, or in any container of a misleading form or size, but established trade names and other marking and labeling and containers which are not false or misleading and which are approved by the Secretary are permitted.
 
 #### (d) Withholding use of false or misleading mark, label, or container size or form; modification; hearing; conclusiveness of determination; appeal
 
@@ -24,7 +24,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in par. (b), is act June 2
 
 #### Amendments
 
-1968—Par. (a). Pub. L. 90–492 substituted provisions requiring shipping containers and immediate containers, as the Secretary may order, to bear the information required under section 453(h) of this title, and provisions, whenever the Secretary determines such action to be practicable and necessary, requiring nonconsumer packaged carcasses at the time they leave the official establishment to bear the information required under the aforementioned section, for provisions requiring shipping containers to bear the official mark and the approved plant number of the official establishment in which the contents were processed, provisions requiring immediate containers to bear the official inspection mark, the name of the product, a statement of ingredients, the net weight or other appropriate measure of the contents, the name and address of the processor, and the approved plant number of the official establishment in which the contents were processed, and provisions authorizing the Secretary to make reasonable variations and grant exemptions from the foregoing labeling requirements.
+<b>1968</b>—Par. (a). Pub. L. 90–492 substituted provisions requiring shipping containers and immediate containers, as the Secretary may order, to bear the information required under section 453(h) of this title, and provisions, whenever the Secretary determines such action to be practicable and necessary, requiring nonconsumer packaged carcasses at the time they leave the official establishment to bear the information required under the aforementioned section, for provisions requiring shipping containers to bear the official mark and the approved plant number of the official establishment in which the contents were processed, provisions requiring immediate containers to bear the official inspection mark, the name of the product, a statement of ingredients, the net weight or other appropriate measure of the contents, the name and address of the processor, and the approved plant number of the official establishment in which the contents were processed, and provisions authorizing the Secretary to make reasonable variations and grant exemptions from the foregoing labeling requirements.
 
 Par. (b). Pub. L. 90–492 added par. (b). Provisions of former par. (b) were redesignated as pars. (c) and (d).
 

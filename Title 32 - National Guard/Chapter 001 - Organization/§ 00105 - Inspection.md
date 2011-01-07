@@ -50,9 +50,9 @@ In subsection (b), the words “under subsection (a)” are substituted for the 
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–484, §1122(1), substituted “shall” for “may” in introductory provisions and added par. (7).
+<b>1992</b>—Subsec. (a). Pub. L. 102–484, §1122(1), substituted “shall” for “may” in introductory provisions and added par. (7).
 
 Subsec. (b). Pub. L. 102–484, §1122(2), inserted before period at end “; and for determining which units of the National Guard meet deployability standards”.
 
-1977—Subsec. (a). Pub. L. 95–79 substituted “Under regulations prescribed by him, the Secretary of the Army may have an inspection made” for “The Secretary of the Army shall have an inspection made at least once a year” and added cl. (6).
+<b>1977</b>—Subsec. (a). Pub. L. 95–79 substituted “Under regulations prescribed by him, the Secretary of the Army may have an inspection made” for “The Secretary of the Army shall have an inspection made at least once a year” and added cl. (6).
 

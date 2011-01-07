@@ -16,21 +16,13 @@
 
 A prior chapter 148, comprised of section 2501 et seq., relating to defense industrial base, was repealed, except for sections 2504 to 2507, by Pub. L. 102–484, div. D, title XLII, §4202(a), Oct. 23, 1992, 106 Stat. 2659. Sections 2504 to 2507 of that chapter were renumbered sections 2531 to 2534, respectively, of this chapter by Pub. L. 102–484, §4202(a).
 
-A prior chapter 149, comprised of sections 2511 to 2518, relating to manufacturing technology, was repealed, except for sections 2517 and 2518, by Pub. L. 102–484, div. D, title XLII, §4202(a), Oct. 23, 1992, 106 Stat. 2659. Sections 2517 and 2518 of that chapter were renumbered sections 2523 and 2522, respectively, of this chapter by Pub. L. 102–484, div. D, title XLII, §§4232(a), 4233(a), Oct. 23, 1992, 106 Stat. 2687, and were subsequently repealed.
-
-Another prior chapter 149, comprised of section 2511, was successively renumbered chapter 150 of this title, comprised of section 2521, then chapter 152 of this title, comprised of section 2540 et seq.
-
-A prior chapter 150, comprised of sections 2521 to 2526, relating to development of dual-use critical technologies, was repealed, except for sections 2524 to 2526,by Pub. L. 102–484, div. D, title XLII, §4202(a), Oct. 23, 1992, 106 Stat. 2659. Sections 2524, 2525, and 2526 of that chapter were renumbered sections 2513, 2517, and 2518, respectively, of this chapter by Pub. L. 102–484, div. D, title XLII, §§4223(a), 4227(a), 4228, Oct. 23, 1992, 106 Stat. 2681, 2685. Section 2513 of this chapter was subsequently repealed.
-
-Another prior chapter 150, comprised of section 2521, was renumbered chapter 152 of this title, comprised of section 2540 et seq.
-
 #### Amendments
 
-2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260, added item for subchapter VII.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260, added item for subchapter VII.
 
-1998—Pub. L. 105–261, div. A, title X, §1069(a)(4), Oct. 17, 1998, 112 Stat. 2136, substituted “2500” for “2491” in item for subchapter I and struck out “and Dual-Use Assistance Extension Programs” after “Technology” in item for subchapter IV.
+<b>1998</b>—Pub. L. 105–261, div. A, title X, §1069(a)(4), Oct. 17, 1998, 112 Stat. 2136, substituted “2500” for “2491” in item for subchapter I and struck out “and Dual-Use Assistance Extension Programs” after “Technology” in item for subchapter IV.
 
-1996—Pub. L. 104–106, div. A, title XIII, §1321(a)(2), Feb. 10, 1996, 110 Stat. 477, added item for subchapter VI.
+<b>1996</b>—Pub. L. 104–106, div. A, title XIII, §1321(a)(2), Feb. 10, 1996, 110 Stat. 477, added item for subchapter VI.
 
 
 ---

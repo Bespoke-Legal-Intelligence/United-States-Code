@@ -6,7 +6,7 @@ It shall be an unlawful employment practice for an employment agency—
 
 &emsp;(1) to fail or refuse to refer for employment, or otherwise to discriminate against, any individual because of genetic information with respect to the individual;
 
-&emsp;(2) to limit, segregate, or classify individuals or fail or refuse to refer for employment anyindividual in any way that would deprive or tend to deprive any individual of employment opportunities, or otherwise adversely affect the status of the individual as an employee, because of genetic information with respect to the individual; or
+&emsp;(2) to limit, segregate, or classify individuals or fail or refuse to refer for employment any individual in any way that would deprive or tend to deprive any individual of employment opportunities, or otherwise adversely affect the status of the individual as an employee, because of genetic information with respect to the individual; or
 
 &emsp;(3) to cause or attempt to cause an employer to discriminate against an individual in violation of this chapter.
 
@@ -42,7 +42,7 @@ It shall be an unlawful employment practice for an employment agency to request,
 
 &emsp;&emsp;(D) the monitoring is in compliance with—
 
-&emsp;&emsp;&emsp;(i) any Federal genetic monitoring regulations, including any such regulations that may be promulgated by the Secretary of Labor pursuant to the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.), the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 801 et seq.), or the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.); or
+&emsp;&emsp;&emsp;(i) any Federal genetic monitoring regulations, including any such regulations that may be promulgated by the Secretary of Labor pursuant to the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.), the Federal Mine Safety andHealth Act of 1977 (30 U.S.C. 801 et seq.), or the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.); or
 
 &emsp;&emsp;&emsp;(ii) State genetic monitoring regulations, in the case of a State that is implementing genetic monitoring regulations under the authority of the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.); and
 

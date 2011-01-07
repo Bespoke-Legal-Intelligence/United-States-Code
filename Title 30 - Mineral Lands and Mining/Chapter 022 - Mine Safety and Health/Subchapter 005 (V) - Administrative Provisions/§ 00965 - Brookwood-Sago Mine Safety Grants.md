@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Labor shall establish a program to award competitive grants for education and training, to be known as Brookwood-Sago Mine Safety Grants, to carry out the purposes of this section.
+The Secretary of Labor shall establish a program to award competitive grants for educationand training, to be known as Brookwood-Sago Mine Safety Grants, to carry out the purposes of this section.
 
 #### (b) Purposes
 
@@ -47,4 +47,6 @@ There are authorized to be appropriated for each fiscal year, such sums as may b
 #### Codification
 
 Section was enacted as part of the Mine Improvement and New Emergency Response Act of 2006, also known as the MINER Act, and not as part of the Federal Mine Safety and Health Act of 1977 which comprises this chapter.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

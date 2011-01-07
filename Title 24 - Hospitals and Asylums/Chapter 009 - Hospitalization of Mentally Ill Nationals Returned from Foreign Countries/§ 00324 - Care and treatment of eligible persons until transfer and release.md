@@ -2,7 +2,7 @@
 
 #### (a) Place of hospitalization
 
-Until the transfer and release of an eligible person pursuant to section 323 of this title, the Secretary is authorized to provide care and treatment for such person at any Federal hospital within or (pursuant to agreement) outside of the Department, or (under contract or other arrangements made without regard to section 5 of title 41) at any other public or private hospital in any State and, for such purposes, to transfer such person to any such hospital from a place of temporary care provided pursuant to section 322 of this title. In determining the place of such hospitalization, the Secretary shall give due weight to the best interests of the patient.
+Until the transfer and release of an eligible person pursuant to section 323 of this title, the Secretary is authorized to provide care and treatment for such person at any Federal hospital within or (pursuant to agreement) outside of the Department, or (under contract or other arrangements made without regard to section 6101 of title 41) at any other public or private hospital in any State and, for such purposes, to transfer such person to any such hospital from a place of temporary care provided pursuant to section 322 of this title. In determining the place of such hospitalization, the Secretary shall give due weight to the best interests of the patient.
 
 #### (b) Ineligible persons
 
@@ -10,9 +10,13 @@ The authority of the Secretary to provide hospitalization for any person under t
 
 (Pub. L. 86–571, §4, July 5, 1960, 74 Stat. 309; Pub. L. 98–621, §10(r), Nov. 8, 1984, 98 Stat. 3381.)
 
+#### Codification
+
+In subsec. (a), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes, as amended” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–621 substituted “any” for “Saint Elizabeth Hospital, at any other” after “for such person” in first sentence.
+<b>1984</b>—Subsec. (a). Pub. L. 98–621 substituted “any” for “Saint Elizabeth Hospital, at any other” after “for such person” in first sentence.
 
 #### Effective Date of 1984 Amendment
 

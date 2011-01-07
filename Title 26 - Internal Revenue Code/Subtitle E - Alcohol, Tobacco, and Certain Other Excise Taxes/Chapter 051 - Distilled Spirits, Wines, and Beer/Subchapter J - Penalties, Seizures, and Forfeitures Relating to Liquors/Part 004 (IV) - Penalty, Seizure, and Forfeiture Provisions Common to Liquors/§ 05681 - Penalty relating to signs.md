@@ -10,7 +10,7 @@ Every person, other than a distiller, warehouseman, or processor of distilled sp
 
 #### (c) Premises where no sign is placed or kept
 
-Every person who works in any distilled spirits plant on which no sign required by section 5180(a) is placed or kept, and every person who knowingly receives at, or carries or conveys any distilled spirits to or from any such distilled spirits plant or who knowingly carries or delivers any grain, molasses, or other raw material to any distilled spirits plant on which such a sign is not placed and kept, shall forfeit all vehicles, aircraft, or vessels used in carrying or conveying such property and shall be fined not more than $1,000, or imprisoned not more than 1 year, or both.
+Every person who works in any distilled spirits plant on which no sign required by section 5180(a) is placed or kept, and every person who knowingly receives at, or carries or conveys any distilled spirits to or from any such distilled spirits plant or who knowingly carries or delivers any grain, molasses, or other raw material to any distilled spirits plant on which such a sign is not placed and kept, shall forfeit all vehicles, aircraft, or vessels used in carrying or conveying such property and shall be fined notmore than $1,000, or imprisoned not more than 1 year, or both.
 
 #### (d) Presumption
 
@@ -28,11 +28,11 @@ A prior section 5681, act Aug. 16, 1954, ch. 736, 68A Stat. 698, consisted of pr
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–34, §1415(b)(1), struck out “, and every wholesale dealer in liquors,” after “spirits operations” and “section 5115(a) or” after “sign required by”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–34, §1415(b)(1), struck out “, and every wholesale dealer in liquors,” after “spirits operations” and “section 5115(a) or” after “sign required by”.
 
 Subsec. (c). Pub. L. 105–34, §1415(b)(2), substituted “on which no sign required by” for “or wholesale liquor establishment, on which no sign required by section 5115(a) or” and substituted “or who” for “or wholesale liquor establishment, or who”.
 
-1979—Subsec. (a). Pub. L. 96–39, §807(a)(58)(A), substituted “distilled spirits operations” for “distilling, warehousing of distilled spirits, rectifying, or bottling of distilled spirits”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–39, §807(a)(58)(A), substituted “distilled spirits operations” for “distilling, warehousing of distilled spirits, rectifying, or bottling of distilled spirits”.
 
 Subsec. (b). Pub. L. 96–39, §807(a)(58)(B), substituted “other than a distiller, warehouseman, or processor of distilled spirits” for “other than a distiller, warehouseman of distilled spirits, rectifier, or bottler of distilled spirits”, “section 5171(c)” for “section 5171(a)”, and “business of a distiller, warehouseman, or processor of distilled spirits” for “business of a distiller, bonded warehouseman, rectifier, bottler of distilled spirits”.
 

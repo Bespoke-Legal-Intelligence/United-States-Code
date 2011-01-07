@@ -58,5 +58,5 @@ The section is included to reflect the text of former 49:324 (related to motor p
 
 #### Amendments
 
-1994—Pub. L. 103–272 renumbered section 3104 of this title as this section and amended it generally, restating it without substantive change.
+<b>1994</b>—Pub. L. 103–272 renumbered section 3104 of this title as this section and amended it generally, restating it without substantive change.
 

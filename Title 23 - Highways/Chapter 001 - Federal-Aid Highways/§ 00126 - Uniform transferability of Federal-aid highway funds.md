@@ -12,7 +12,7 @@ Application to Certain Set-Asides.—No funds may be transferred under this sect
 
 Application to Certain CMAQ Funds.—The maximum amount that a State may transfer under this section of the State's apportionment under section 104(b)(2) for a fiscal year may not exceed 50 percent of (1) the amount of such apportionment, less (2) the amount that the State's apportionment under section 104(b)(2) for such fiscal year would have been had the program been funded at $1,350,000,000. Any such funds apportioned under section 104(b)(2) and transferred under this section may only be obligated in geographic areas eligible for the obligation of funds apportioned under section 104(b)(2).
 
-(Added Pub. L. 105–178, title I, §1310(a), June 9, 1998, 112 Stat. 234, §110; renumbered §126, Pub. L. 106–159, title I, §102(a)(1), Dec. 9, 1999, 113 Stat. 1752; amended Pub. L. 109–59, title I, §1401(a)(3)(B), Aug. 10, 2005, 119 Stat. 1225.)
+(Added Pub. L. 105–178, title I, §1310(a), June 9, 1998, 112 Stat. 234, §110; renumbered §126, Pub. L. 106–159, title I, §102(a)(1), Dec. 9, 1999, 113 Stat.1752; amended Pub. L. 109–59, title I, §1401(a)(3)(B), Aug. 10, 2005, 119 Stat. 1225.)
 
 #### References in Text
 
@@ -24,9 +24,9 @@ A prior section 126, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 901; Pub. L. 93�
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–59, which directed insertion of “under” after “State's apportionment”, was executed by making the insertion after “State's apportionment” the second place it appeared, to reflect the probable intent of Congress.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, which directed insertion of “under” after “State's apportionment”, was executed by making the insertion after “State's apportionment” the second place it appeared, to reflect the probable intent of Congress.
 
-1999—Pub. L. 106–159 renumbered section 110 of this title as this section.
+<b>1999</b>—Pub. L. 106–159 renumbered section 110 of this title as this section.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

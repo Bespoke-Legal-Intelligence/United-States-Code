@@ -34,7 +34,7 @@
 
 (2) Notwithstanding paragraph (1), when the petition is one subject to section 1671a(b)(3) of this title, the Administering Authority shall, taking into account the nature of the countervailable subsidy concerned, make the determination required by paragraph (1) on an expedited basis and within 65 days after the date on which the administering authority initiates an investigation under section 1671a(c) of this title unless the provisions of subsection (c) of this section apply.
 
-(3) Within 55 days after the initiation of an investigation the administering authority shall cause an official designated for such purpose to review the information concerning the case received during the first 50 days of the investigation, and, if there appears to be sufficient information available upon which the determination can reasonably be based, to disclose to the petitioner and any interested party, then a party to the proceedings that requests such disclosure, all available nonconfidential information and all other information which is disclosed pursuant to section 1677f of this title. Within 3 days (not counting Saturdays, Sundays, or legal public holidays) after such disclosure, the petitioner and each party which is an interested party described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title to whom such disclosure was made may furnish to the administering authority an irrevocable written waiver of verification of the information received by the authority, and an agreement that it is willing to have a determination made on the basis of the record then available to the authority. If a timely waiver and agreement have been received from the petitioner and each party which is an interested party described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title to whom the disclosure was made, and the authority finds that sufficient information is then available upon which the preliminary determination can reasonably be based, a preliminary determination shall be made on an expedited basis on the basis of the record established during the first 50 days after the investigation was initiated.
+(3) Within 55 days after the initiation of an investigation the administering authority shall cause an official designated for such purpose to review the information concerning the case received during the first 50 days of the investigation, and, if there appears to be sufficient information available upon which the determination can reasonably be based, to disclose to the petitioner and any interested party, then a party to the proceedings that requests such disclosure, all available nonconfidential information and all other information which is disclosed pursuant to section 1677f of this title. Within 3 days (not counting Saturdays, Sundays, or legal public holidays) after such disclosure, the petitioner and each party which is an interested party described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title to whom such disclosure was made may furnish to the administering authority an irrevocable written waiver of verification of the information received by the authority, and an agreement that it is willing to have a determination made on the basis of the record then available to the authority. If a timely waiver and agreement have been received from the petitioner and each party which is an interested party described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title to whom the disclosure was made, and the authority finds that sufficient information is then available upon which the preliminary determination can reasonably be based, a preliminary determination shall be made on an expedited basis on the basis of the record establishedduring the first 50 days after the investigation was initiated.
 
 (4)
 
@@ -42,7 +42,7 @@ De minimis countervailable subsidy.—
 
 &emsp;(A)
 
-General rule.—In making a determination under this subsection, the administering authority shall disregard any de minimiscountervailable subsidy. For purposes of the preceding sentence, a countervailable subsidy is de minimis if the administering authority determines that the aggregate of the net countervailable subsidies is less than 1 percent ad valorem or the equivalent specific rate for the subject merchandise.
+General rule.—In making a determination under this subsection, the administering authority shall disregard any de minimis countervailable subsidy. For purposes of the preceding sentence, a countervailable subsidy is de minimis if the administering authority determines that the aggregate of the net countervailable subsidies is less than 1 percent ad valorem or the equivalent specific rate for the subject merchandise.
 
 &emsp;(B)
 
@@ -172,13 +172,13 @@ Whenever the Commission or the administering authority makes a determination und
 
 > &emsp;There may be an extension of time for the making of a final determination under this subsection only if the administering authority determines that such additional time is necessary to make the required determination concerning upstream subsidization.
 
-(June 17, 1930, ch. 497, title VII, §703, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 152; amended Pub. L. 98–181, title VI, §650(b), Nov. 30, 1983, 97 Stat. 1266; Pub. L. 98–573, title VI, §§603, 613(c), Oct. 30, 1984, 98 Stat. 3024, 3036; Pub. L. 99–514, title XVIII, §1886(a)(3), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§1324(a)(2), 1326(d)(1), Aug. 23, 1988, 102 Stat.1200, 1204; Pub. L. 103–465, title II, §§212(b)(1)(A), (C), (D), (F), 214(a)(1), 215(a), 233(a)(5)(C), (6)(A)(iii), (iv), (B), 263(a), 264(a), (c)(1), (2), 270(a)(1)(B)–(D), (b)(1)(B), 283(a), Dec. 8, 1994, 108 Stat. 4847, 4848, 4850, 4852, 4899, 4901, 4911, 4912, 4914, 4917, 4930; Pub. L. 104–295, §20(b)(5), Oct. 11, 1996, 110 Stat. 3527.)
+(June 17, 1930, ch. 497, title VII, §703, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat.152; amended Pub. L. 98–181, title VI, §650(b), Nov. 30, 1983, 97 Stat. 1266; Pub. L. 98–573, title VI, §§603, 613(c), Oct. 30, 1984, 98 Stat. 3024, 3036; Pub. L. 99–514, title XVIII, §1886(a)(3), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§1324(a)(2), 1326(d)(1), Aug. 23, 1988, 102 Stat. 1200, 1204; Pub. L. 103–465, title II, §§212(b)(1)(A), (C), (D), (F), 214(a)(1), 215(a), 233(a)(5)(C), (6)(A)(iii), (iv), (B), 263(a), 264(a), (c)(1), (2), 270(a)(1)(B)–(D), (b)(1)(B), 283(a), Dec. 8, 1994, 108 Stat. 4847, 4848, 4850, 4852, 4899, 4901, 4911, 4912, 4914, 4917, 4930; Pub. L. 104–295, §20(b)(5), Oct. 11, 1996, 110 Stat. 3527.)
 
 #### Amendments
 
-1996—Subsec. (b)(1). Pub. L. 104–295 amended Pub. L. 103–465, §212(b)(1)(C)(i)(I). See 1994 Amendment note below.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–295 amended Pub. L. 103–465, §212(b)(1)(C)(i)(I). See 1994 Amendment note below.
 
-1994—Subsec. (a). Pub. L. 103–465, §212(b)(1)(A), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Except in the case of a petition dismissed by the administering authority under section 1671a(c)(3) of this title, the Commission, within 45 days after the date on which a petition is filed under section 1671a(b) of this title or on which it receives notice from the administering authority of an investigation commenced under section 1671a(a) of this title, shall make a determination, based upon the best information available to it at the time of the determination, of whether there is a reasonable indication that—
+<b>1994</b>—Subsec. (a). Pub. L. 103–465, §212(b)(1)(A), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Except in the case of a petition dismissed by the administering authority under section 1671a(c)(3) of this title, the Commission, within 45 days after the date on which a petition is filed under section 1671a(b) of this title or on which it receives notice from the administering authority of an investigation commenced under section 1671a(a) of this title, shall make a determination, based upon the best information available to it at the time of the determination, of whether there is a reasonable indication that—
 
 &emsp;“(1) an industry in the United States—
 
@@ -232,17 +232,17 @@ Subsec. (f). Pub. L. 103–465, §212(b)(1)(F), amended heading and text of subs
 
 Subsec. (g)(1). Pub. L. 103–465, §233(a)(6)(B), substituted “initiation” for “commencement”.
 
-1988—Subsec. (b)(3). Pub. L. 100–418, §1326(d)(1), substituted “(F), or (G)” for “or (F)” in two places.
+<b>1988</b>—Subsec. (b)(3). Pub. L. 100–418, §1326(d)(1), substituted “(F), or (G)” for “or (F)” in two places.
 
 Subsec. (e)(1). Pub. L. 100–418, §1324(a)(2), inserted “(at any time after the initiation of the investigation under this part)” after “promptly” in introductory provisions.
 
-1986—Subsecs. (g), (h). Pub. L. 99–514 redesignated subsec. (h) as (g) and substituted “or 225 days, as appropriate, under section 1671d(a)(1) of this title” for “days under section 1671d(a)(1) of this title or 225 days under section 1671d(a)(2) of this title, as appropriate” in par. (2)(A), and “or 225 days, as appropriate, under section 1671d(a)(1) of this title” for “days under section 1671d(a)(2) of this title” in par. (2)(B)(ii).
+<b>1986</b>—Subsecs. (g), (h). Pub. L. 99–514 redesignated subsec. (h) as (g) and substituted “or 225 days, as appropriate, under section 1671d(a)(1) of this title” for “days under section 1671d(a)(1) of this title or 225 days under section 1671d(a)(2) of this title, as appropriate” in par. (2)(A), and “or 225 days, as appropriate, under section 1671d(a)(1) of this title” for “days under section 1671d(a)(2) of this title” in par. (2)(B)(ii).
 
-1984—Subsec. (b)(3). Pub. L. 98–573, §603, added par. (3).
+<b>1984</b>—Subsec. (b)(3). Pub. L. 98–573, §603, added par. (3).
 
 Subsec. (h). Pub. L. 98–573, §613(c), added subsec. (h).
 
-1983—Subsec. (b). Pub. L. 98–181 designated existing provisions as par. (1) and added par. (2).
+<b>1983</b>—Subsec. (b). Pub. L. 98–181 designated existing provisions as par. (1) and added par. (2).
 
 #### Effective Date of 1994 Amendment
 
@@ -250,7 +250,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1324(a)(2) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and amendment by section 1326(d)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23,1988, see section 1337(b), (c) of Pub. L. 100–418, set out as a note under section 1671 of this title.
+Amendment by section 1324(a)(2) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and amendment by section 1326(d)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b), (c) of Pub. L. 100–418, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1984 Amendment
 

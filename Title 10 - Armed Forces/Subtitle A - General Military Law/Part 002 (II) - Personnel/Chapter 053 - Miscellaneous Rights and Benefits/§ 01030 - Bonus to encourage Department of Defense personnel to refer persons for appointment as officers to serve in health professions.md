@@ -52,13 +52,13 @@ Amount of Bonus.—The amount of the bonus payable for a referral under subsecti
 
 Payment.—A bonus payable for a referral of a person under subsection (a) shall be paid as follows:
 
-&emsp;(1) Not more than $1,000 shall be paid upon the execution by the person of an agreement to serve as an officer in a health profession in an armed force for not less than 3 years,<sup>1</sup>
+&emsp;(1) Not more than $1,000 shall be paid upon the execution by the person of an agreement to serve as an officer in a health profession in an armed force for not less than three years.
 
 &emsp;(2) Not more than $1,000 shall be paid upon the completion by the person of the initial period of military training as an officer.
 
 (f)
 
-Relation to Prohibition on Bounties.—The referral bonus authorized by this section isnot a bounty for purposes of section 514(a) of this title.
+Relation to Prohibition on Bounties.—The referral bonus authorized by this section is not a bounty for purposes of section 514(a) of this title.
 
 (g)
 
@@ -78,15 +78,17 @@ Appropriate Secretary Defined.—In this section, the term “appropriate Secret
 
 (i)
 
-Duration of Authority.—A bonus may not be paid under subsection (a) with respect to any referral that occurs after December 31, 2010.
+Duration of Authority.—A bonus may not be paid under subsection (a) with respect to any referral that occurs after December 31, 2011.
 
-(Added Pub. L. 110–181, div. A, title VI, §671(b)(1), Jan. 28, 2008, 122 Stat. 182; amended Pub. L. 110–417, \[div. A\], title VI, §615(a), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §616(1), Oct. 28, 2009, 123 Stat. 2354.)
+(Added Pub. L. 110–181, div. A, title VI, §671(b)(1), Jan. 28, 2008, 122 Stat. 182; amended Pub. L. 110–417, \[div. A\], title VI, §615(a), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §616(1), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §616(1), title X, §1075(b)(15), Jan. 7, 2011, 124 Stat. 4238, 4369.)
 
 #### Amendments
 
-2009—Subsec. (i). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+<b>2011</b>—Subsec. (e)(1). Pub. L. 111–383, §1075(b)(15), substituted “three years.” for “3 years,”.
 
-2008—Subsec. (i). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+Subsec. (i). Pub. L. 111–383, §616(1), substituted “December 31, 2011” for “December 31, 2010”.
 
-<i><sup>1</sup></i><i> So in original. The comma probably should be a period.</i>
+<b>2009</b>—Subsec. (i). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+
+<b>2008</b>—Subsec. (i). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
 

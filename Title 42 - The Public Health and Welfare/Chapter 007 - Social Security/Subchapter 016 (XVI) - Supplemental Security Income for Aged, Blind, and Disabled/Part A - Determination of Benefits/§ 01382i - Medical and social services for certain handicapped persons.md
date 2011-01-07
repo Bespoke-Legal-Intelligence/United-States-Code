@@ -18,7 +18,7 @@ There are authorized to be appropriated such sums as may be necessary to establi
 
 (3) At the beginning of each fiscal year in which the pilot program under this section is in effect, each State that does not intend to use the allotment to which it is entitled for such year (or any allotment which was made to it for a prior fiscal year), or that does not intend to use the full amount of any such allotment, shall certify to the Commissioner of Social Security the amount of such allotment which it does not intend to use, and the State's allotment for the fiscal year (or years) involved shall thereupon be reduced by the amount so certified.
 
-(4) The portion of the total amount available for allotment for any particular fiscal year under paragraph (1) which is not allotted to States for that year by reason of paragraph (3) (plus the amount of any reductions made at the beginning of such year in the allotments of States for prior fiscal years under paragraph (3)) shall be reallocated in such manner as the Commissioner of Social Security may determine to be appropriate to States which need, and will use, additional assistance in providing services to severely handicapped individuals in that particular year under their approved plans. Any amount reallocated to a State under this paragraph for use in a particular fiscal year shall be treated for purposes of this section as increasingsuch State's allotment for that year by an equivalent amount.
+(4) The portion of the total amount available for allotment for any particular fiscal year under paragraph (1) which is not allotted to States for that year by reason of paragraph (3) (plus the amount of any reductions made at the beginning of such year in the allotments of States for prior fiscal years under paragraph (3)) shall be reallocated in such manner as the Commissioner of Social Security may determine to be appropriate to States which need, and will use, additional assistance in providing services to severely handicapped individuals in that particular year under their approved plans. Any amount reallocated to a State under this paragraph for use in a particular fiscal year shall be treated for purposes of this section as increasing such State's allotment for that year by an equivalent amount.
 
 #### (c) Requisite features of State plans
 
@@ -64,9 +64,9 @@ Section 212(b) of Public Law 93–66, referred to in subsec. (b)(2), is section 
 
 #### Amendments
 
-1994—Subsecs. (b) to (f). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing, “the Commissioner finds that the Commissioner's” for “he finds that his” in subsec. (d)(2)(B), and “the Commissioner's” for “his” in subsec. (f).
+<b>1994</b>—Subsecs. (b) to (f). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing, “the Commissioner finds that the Commissioner's” for “he finds that his” in subsec. (d)(2)(B), and “the Commissioner's” for “his” in subsec. (f).
 
-1981—Subsec. (c). Pub. L. 97–35 struck out provision following par. (7) that the plan under this section may be developed and submitted as a separate State plan or may be submitted in the form of an amendment to the State's plan under section 1397b(d) of this title.
+<b>1981</b>—Subsec. (c). Pub. L. 97–35 struck out provision following par. (7) that the plan under this section may be developed and submitted as a separate State plan or may be submitted in the form of an amendment to the State's plan under section 1397b(d) of this title.
 
 #### Effective Date of 1994 Amendment
 

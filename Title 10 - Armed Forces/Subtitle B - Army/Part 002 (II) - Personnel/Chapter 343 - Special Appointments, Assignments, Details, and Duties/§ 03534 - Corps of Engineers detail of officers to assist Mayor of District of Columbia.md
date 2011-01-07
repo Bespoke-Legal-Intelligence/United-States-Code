@@ -42,9 +42,9 @@ In subsection (b), the words “assist that officer” are substituted for the w
 
 #### Amendments
 
-1980—Pub. L. 96–513 substituted “Mayor” for “Commissioner” in section catchline and text.
+<b>1980</b>—Pub. L. 96–513 substituted “Mayor” for “Commissioner” in section catchline and text.
 
-1968—Pub. L. 90–623 substituted “Corps of Engineers: detail of officers to assist Commissioner of District of Columbia” for “Engineer Commissioner of the District of Columbia; assistants: detail” as section catchline and struck out provisions for the appointment of an Engineer Commissioner of the District of Columbia.
+<b>1968</b>—Pub. L. 90–623 substituted “Corps of Engineers: detail of officers to assist Commissioner of District of Columbia” for “Engineer Commissioner of the District of Columbia; assistants: detail” as section catchline and struck out provisions for the appointment of an Engineer Commissioner of the District of Columbia.
 
 #### Effective Date of 1980 Amendment
 

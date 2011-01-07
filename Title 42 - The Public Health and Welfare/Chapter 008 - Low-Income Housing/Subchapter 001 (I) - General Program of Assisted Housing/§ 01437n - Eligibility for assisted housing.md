@@ -10,7 +10,7 @@
 
 &emsp;(A) <sup>1</sup>
 
-Targeting.—Except as provided in paragraph (4), of the public housing dwelling units of a public housing agency made available for occupancy in any fiscal year by eligible families, not less than 40 percent shall be occupied by families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes.
+Targeting.—Except as provided in paragraph (4), of the public housing dwelling units of a public housing agency made available for occupancy in any fiscal year by eligible families, not less than 40 percent shall be occupied by families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; exceptthat the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes.
 
 #### (3) Prohibition of concentration of low-income families
 
@@ -22,7 +22,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A public housing agency shall submit with its annual public housing agency planunder section 1437c–1 of this title an admissions policy designed to provide for deconcentration of poverty and income-mixing by bringing higher income tenants into lower income projects and lower income tenants into higher income projects. This clause may not be construed to impose or require any specific income or racial quotas for any project or projects.
+&emsp;&emsp;&emsp;A public housing agency shall submit with its annual public housing agency plan under section 1437c–1 of this title an admissions policy designed to provide for deconcentration of poverty and income-mixing by bringing higher income tenants into lower income projects and lower income tenants into higher income projects. This clause may not be construed to impose or require any specific income or racial quotas for any project or projects.
 
 #### (ii) Incentives
 
@@ -126,11 +126,11 @@ Notwithstanding subsection (a)(2) or (b)(1) of this section, if approved by the 
 
 Notwithstanding any other provision of law, a public housing agency shall establish standards for occupancy in public housing dwelling units and assistance under section 1437f of this title that—
 
-&emsp;(1) permanently prohibit occupancy in any public housing dwelling unit by, and assistance under section 1437f of this title for, any person who has been convicted of manufacturing or otherwise producing methamphetamine on the premises in violation of any Federal or State law; and
+&emsp;(1) permanently prohibit occupancy in any public housing dwelling unit by, and assistance under section 1437f of this title for, anyperson who has been convicted of manufacturing or otherwise producing methamphetamine on the premises in violation of any Federal or State law; and
 
 &emsp;(2) immediately and permanently terminate the tenancy in any public housing unit of, and the assistance under section 1437f of this title for, any person who is convicted of manufacturing or otherwise producing methamphetamine on the premises in violation of any Federal or State law.
 
-(Sept. 1, 1937, ch. 896, title I, §16, as added Pub. L. 97–35, title III, §323, Aug. 13, 1981, 95 Stat. 404; amended Pub. L. 98–181, title II, §213, Nov. 30, 1983, 97 Stat. 1184; Pub. L. 100–242, title I, §§103, 112(b)(8), Feb. 5, 1988, 101 Stat. 1822, 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 100–628, title X, §1001(a), Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title V, §§511, 572(1), Nov. 28, 1990, 104 Stat. 4194, 4236; Pub. L. 102–550, title I, §105, Oct. 28, 1992, 106 Stat. 3684; Pub. L. 104–99, title IV, §402(d)(6)(A)(v), Jan. 26, 1996, 110 Stat. 42; Pub. L. 104–120, §9(d), Mar. 28, 1996, 110 Stat. 837; Pub. L.104–330, title V, §501(b)(7), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title IV, §428, title V, §§513(a), 576(d)(2), Oct. 21, 1998, 112 Stat. 2511, 2543, 2640; Pub. L. 105–277, div. A, §123, Oct. 21, 1998, 112 Stat. 2681–546; Pub. L. 106–74, title II, §205, Oct. 20, 1999, 113 Stat. 1069.)
+(Sept. 1, 1937, ch. 896, title I, §16, as added Pub. L. 97–35, title III, §323, Aug. 13, 1981, 95 Stat. 404; amended Pub. L. 98–181, title II, §213, Nov. 30, 1983, 97 Stat. 1184; Pub. L. 100–242, title I, §§103, 112(b)(8), Feb. 5, 1988, 101 Stat. 1822, 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 100–628, title X, §1001(a), Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title V, §§511, 572(1), Nov. 28, 1990, 104 Stat. 4194, 4236; Pub. L. 102–550, title I, §105, Oct. 28, 1992, 106 Stat. 3684; Pub. L. 104–99, title IV, §402(d)(6)(A)(v), Jan. 26, 1996, 110 Stat. 42; Pub. L. 104–120, §9(d), Mar. 28, 1996, 110 Stat. 837; Pub. L. 104–330, title V, §501(b)(7), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title IV, §428, title V, §§513(a), 576(d)(2), Oct. 21, 1998, 112 Stat. 2511, 2543, 2640; Pub. L. 105–277, div. A, §123, Oct. 21, 1998, 112 Stat. 2681–546; Pub. L. 106–74, title II, §205, Oct. 20, 1999, 113 Stat. 1069.)
 
 #### References in Text
 
@@ -148,15 +148,15 @@ October 1, 1981, referred to in subsec. (c)(1), (2), was in the original “the 
 
 #### Amendments
 
-1999—Subsecs. (a)(2)(A), (c)(3). Pub. L. 106–74, §205(1), inserted before the period at end “; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes”.
+<b>1999</b>—Subsecs. (a)(2)(A), (c)(3). Pub. L. 106–74, §205(1), inserted before the period at end “; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes”.
 
-1998—Subsecs. (a) to (d). Pub. L. 105–276, §513(a), as amended by Pub. L. 105–277, §123, added subsecs. (a) to (d) and struck out former subsecs. (a) to (d). Prior to amendment, subsec. (a) related to percentage availability under contracts prior to Oct. 1, 1981, subsec. (b) related to percentage availability under contracts on or after Oct. 1, 1981, subsec. (c) related to admission procedures implementing subsec. (b), and subsec. (d) related to applicability of admission procedures limitations.
+<b>1998</b>—Subsecs. (a) to (d). Pub. L. 105–276, §513(a), as amended by Pub. L. 105–277, §123, added subsecs. (a) to (d) and struck out former subsecs. (a) to (d). Prior to amendment, subsec. (a) related to percentage availability under contracts prior to Oct. 1, 1981, subsec. (b) related to percentage availability under contracts on or after Oct. 1, 1981, subsec. (c) related to admission procedures implementing subsec. (b), and subsec. (d) related to applicability of admission procedures limitations.
 
 Subsec. (e). Pub. L. 105–276, §576(d)(2), struck out heading and text of subsec. (e), which directed public housing agency to establish standards to prohibit occupancy by and terminate tenancy of any person illegally using controlled substance or whose use of controlled substance or abuse of alcohol might interfere with peaceful enjoyment of premises by other residents, and authorized agency to consider rehabilitation of person in making determination to deny occupancy.
 
 Subsec. (f). Pub. L. 105–276, §428, added subsec. (f).
 
-1996—Pub. L. 104–120, §9(d)(1), substituted “Eligibility” for “Income eligibility” in section catchline.
+<b>1996</b>—Pub. L. 104–120, §9(d)(1), substituted “Eligibility” for “Income eligibility” in section catchline.
 
 Subsec. (c). Pub. L. 104–99 temporarily substituted “the written system of preferences for selection established by the public housing agency pursuant to section 1437d(c)(4)(A)” for “the system of preferences established by the agency pursuant to section 1437d(c)(4)(A)(ii)”. See Effective and Termination Dates of 1996 Amendments note below.
 
@@ -166,11 +166,11 @@ Subsec. (e). Pub. L. 104–120, §9(d)(2), added subsec. (e).
 
 Subsec. (e)(3). Pub. L. 104–330, §501(b)(7)(B), struck out heading and text of par. (3). Text read as follows: “This subsection does not apply to any dwelling unit assisted by an Indian housing authority.”
 
-1992—Subsec. (c). Pub. L. 102–550, §105(a), substituted “very low-income families and shall” for “very low-income families, shall” and “. In developing such admission procedures, the Secretary shall” for “, and shall” and inserted “; except that such prohibition shall not apply with respect to families selected for occupancy in public housing under the system of preferences established by the agency pursuant to section 1437d(c)(4)(A)(ii) of this title” after “higher income families for residence”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–550, §105(a), substituted “very low-income families and shall” for “very low-income families, shall” and “. In developing such admission procedures, the Secretary shall” for “, and shall” and inserted “; except that such prohibition shall not apply with respect to families selected for occupancy in public housing under the system of preferences established by the agency pursuant to section 1437d(c)(4)(A)(ii) of this title” after “higher income families for residence”.
 
 Subsec. (d)(2). Pub. L. 102–550, §105(b), inserted before period at end “, to scattered site public housing dwelling units sold or intended to be sold to public housing tenants under section 1437c(h) of this title.”
 
-1990—Subsec. (a). Pub. L. 101–625, §572(1), substituted “low-income families” for “lower income families”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–625, §572(1), substituted “low-income families” for “lower income families”.
 
 Subsec. (b). Pub. L. 101–625, §572(1), substituted “low-income families” for “lower income families” in par. (1).
 
@@ -178,7 +178,7 @@ Pub. L. 101–625, §511, designated existing provisions as par. (1), substitute
 
 Subsecs. (c), (d)(1). Pub. L. 101–625, §572(1), substituted “low-income families” for “lower income families” wherever appearing.
 
-1988—Subsec. (b). Pub. L. 100–242, §112(b)(8), struck out “annual” before “contributions”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–242, §112(b)(8), struck out “annual” before “contributions”.
 
 Subsec. (c). Pub. L. 100–628 substituted “shall establish an appropriate specific percentage of lower income families other than very-low income families that may be assisted in each assisted housing program” for “and shall establish, as appropriate, differing percentage limitations on admission of lower income families in separate assisted housing programs” and inserted before period at end of first sentence “, and shall prohibit project owners from selecting families for residence in an order different from the order on the waiting list for the purpose of selecting relatively higher income families for residence”.
 
@@ -186,7 +186,7 @@ Pub. L. 100–242, §103, added subsec. (c).
 
 Subsec. (d). Pub. L. 100–242, §103, added subsec. (d).
 
-1983—Subsec. (a). Pub. L. 98–181 increased to 25 from 10 the percentage of dwelling units available for leasing.
+<b>1983</b>—Subsec. (a). Pub. L. 98–181 increased to 25 from 10 the percentage of dwelling units available for leasing.
 
 #### Effective Date of 1998 Amendments
 

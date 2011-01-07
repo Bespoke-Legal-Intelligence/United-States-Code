@@ -14,5 +14,5 @@ Pub. L. 102–416, Oct. 14, 1992, 106 Stat. 2131, as amended by Pub. L. 104–10
 
 #### Report to Congress
 
-Act June 8, 1954, ch. 271, §2, 68 Stat. 240, directed Secretary of the Interior to transmit to Congress on or before Aug. 31, 1955, a full and complete report of funds used and purposes accomplished to carry out provisions of this Act \[amending section 657 of this title\] and act approved May 18, 1928 (45 Stat. 602), as amended by acts of April 29, 1930 (46 Stat. 259); and June 30, 1948 (62 Stat. 1166); and May 24, 1950 (64 Stat. 189) \[this subchapter\].
+Act June 8, 1954, ch. 271, §2, 68 Stat. 240, directed Secretary of the Interior to transmit to Congress on or before Aug. 31, 1955, a full and complete report of funds used and purposes accomplished to carry out provisions of this Act \[amending section 657 of this title\] and act approved May 18, 1928 (45 Stat. 602), as amended by actsof April 29, 1930 (46 Stat. 259); and June 30, 1948 (62 Stat. 1166); and May 24, 1950 (64 Stat. 189) \[this subchapter\].
 

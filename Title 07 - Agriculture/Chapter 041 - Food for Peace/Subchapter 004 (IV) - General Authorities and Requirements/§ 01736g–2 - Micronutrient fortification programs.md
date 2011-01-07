@@ -34,7 +34,7 @@ Subsec. (a)(2). Pub. L. 110–246, §3023(1)(B), in subpar. (A), inserted “and
 
 “(C) assess and apply technologies and systems to improve and ensure the quality, shelf life, bioavailability, and safety of fortified food aid commodities, and products of those commodities, that are provided to developing countries, by using the same mechanism that was used to assess the micronutrient fortification program in the report entitled ‘Micronutrient Compliance Review of Fortified P.L. 480 Commodities’, published October 2001 with funds from the Bureau for Humanitarian Response of the United States Agency for International Development.”
 
-Subsecs. (b) to (d). Pub. L. 110–246, §3023(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, in subsec. (c), substituted “2012” for “2007”, and struck out former subsec. (b). Prior to amendment, text read as follows: “From among the countries eligible for assistance under this chapter, the Secretary may select not more than 5 developing countries to participate in a program under this section.”
+Subsecs. (b) to (d). Pub. L. 110–246, §3023(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, in subsec. (c), substituted “2012” for “2007”, and struck out former subsec. (b). Prior to amendment, text readas follows: “From among the countries eligible for assistance under this chapter, the Secretary may select not more than 5 developing countries to participate in a program under this section.”
 
 2002—Pub. L. 107–171, §3013(1), substituted “programs” for “pilot program” in section catchline.
 

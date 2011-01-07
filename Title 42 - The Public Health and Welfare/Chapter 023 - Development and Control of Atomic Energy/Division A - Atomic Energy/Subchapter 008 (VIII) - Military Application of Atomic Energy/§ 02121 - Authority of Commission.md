@@ -16,7 +16,7 @@ The Commission is authorized to—
 
 #### (b) Material for Department of Defense use
 
-The President from time to time may direct the Commission (1) to deliver such quantities of special nuclear material or atomic weapons to the Department of Defense for such use as he deems necessary in the interest of national defense, or (2) to authorize the Department of Defense to manufacture, produce, or acquire any atomic weapon or utilization facility for military purposes: <i>Provided, however</i>, That such authorization shall not extend to the production of special nuclear material other than that incidental to the operation of such utilization facilities.
+The President from time to time may direct the Commission (1) to deliver such quantities ofspecial nuclear material or atomic weapons to the Department of Defense for such use as he deems necessary in the interest of national defense, or (2) to authorize the Department of Defense to manufacture, produce, or acquire any atomic weapon or utilization facility for military purposes: <i>Provided, however</i>, That such authorization shall not extend to the production of special nuclear material other than that incidental to the operation of such utilization facilities.
 
 #### (c) Sale, lease, or loan to other Nations of materials for military applications
 
@@ -40,9 +40,9 @@ Provisions similar to this section were contained in section 1806(a) of this tit
 
 #### Amendments
 
-1989—Subsec. (a)(3) to (5). Pub. L. 101–189 added pars. (3) to (5).
+<b>1989</b>—Subsec. (a)(3) to (5). Pub. L. 101–189 added pars. (3) to (5).
 
-1958—Subsec. (c). Pub. L. 85–479 added subsec. (c).
+<b>1958</b>—Subsec. (c). Pub. L. 85–479 added subsec. (c).
 
 #### Delegation of Functions
 
@@ -58,7 +58,7 @@ Pub. L. 106–398, §1 \[div. C, title XXXI, §3195\], Oct. 30, 2000, 114 Stat. 
 
 #### Nuclear Weapons Stockpile Life Extension Program
 
-Pub. L. 106–65, div. C, title XXXI, §3133, Oct. 5, 1999, 113 Stat. 926, which was formerly set out as a note under this section, was renumbered section 4204 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C,title XXXI, §3141(e)(5)(A)–(C), Nov. 24, 2003, 117 Stat. 1758, and is classified to section 2524 of Title 50, War and National Defense.
+Pub. L. 106–65, div. C, title XXXI, §3133, Oct. 5, 1999, 113 Stat. 926, which was formerly set out as a note under this section, was renumbered section 4204 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(5)(A)–(C), Nov. 24, 2003, 117 Stat. 1758, and is classified to section 2524 of Title 50, War and National Defense.
 
 #### Report on Stockpile Stewardship Criteria
 
@@ -66,7 +66,7 @@ Pub. L. 105–261, div. C, title XXXI, §3158, Oct. 17, 1998, 112 Stat. 2257, as
 
 #### Panel To Assess the Reliability, Safety, and Security of the United States Nuclear Stockpile
 
-Pub. L. 105–261, div. C, title XXXI, §3159, Oct. 17, 1998, 112 Stat. 2258, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. C, title XXXI, §3156, Dec. 28, 2001, 115 Stat. 1379; Pub. L. 107–314, div. C, title XXXI, §3175, Dec. 2, 2002, 116 Stat. 2745, provided that:
+Pub. L. 105–261, div. C, title XXXI, §3159, Oct. 17, 1998, 112 Stat. 2258, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107,div. C, title XXXI, §3156, Dec. 28, 2001, 115 Stat. 1379; Pub. L. 107–314, div. C, title XXXI, §3175, Dec. 2, 2002, 116 Stat. 2745, provided that:
 
 “(a)
 
@@ -160,7 +160,7 @@ Duties.—(1) The Commission shall develop a plan for recruiting and retaining w
 
 “(d)
 
-Report.—Not later than March 15, 1999, the Commission shall submit to the Secretary and to Congress a report containing the plan developed under subsection (c). The report may include recommendations for legislation and administrative action.
+Report.—Not later than March 15, 1999, the Commission shall submit to the Secretary and to Congressa report containing the plan developed under subsection (c). The report may include recommendations for legislation and administrative action.
 
 “(e)
 
@@ -310,7 +310,7 @@ Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, as amended by P
 
 “(f) \[Transferred to section 2530 of Title 50, War and National Defense.\]
 
-“(g) In the computation of the 90-day period referred to in subsection (c)(1) and the 60-day period referred to in subsection (e)(2)(A)(ii), the days on which either House is not in session because of an adjournment of more than 3 days to a day certain shall be excluded.
+“(g) In the computation of the 90-day period referred to in subsection (c)(1) and the 60-day period referred toin subsection (e)(2)(A)(ii), the days on which either House is not in session because of an adjournment of more than 3 days to a day certain shall be excluded.
 
 “(h) In this section, the term ‘modern safety feature’ means any of the following features:
 

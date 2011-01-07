@@ -6,11 +6,11 @@ Any receipt of the United States as a result of an agreement entered into under 
 
 #### Amendments
 
-1994—Pub. L. 103–337 substituted “shall be credited, at the option of the Secretary of Defense, to (1) the appropriation, fund, or account used in incurring the obligation, or (2) an appropriate appropriation, fund, or account currently available for the purposes for which the expenditures were made” for “shall be credited to applicable appropriations, accounts, and funds of the Department of Defense”.
+<b>1994</b>—Pub. L. 103–337 substituted “shall be credited, at the option of the Secretary of Defense, to (1) the appropriation, fund, or account used in incurring the obligation, or (2) an appropriate appropriation, fund, or account currently available for the purposes for which the expenditures were made” for “shall be credited to applicable appropriations, accounts, and funds of the Department of Defense”.
 
-1989—Pub. L. 101–189 substituted “this subchapter” for “this chapter”.
+<b>1989</b>—Pub. L. 101–189 substituted “this subchapter” for “this chapter”.
 
-1985—Pub. L. 99–145 renumbered section 2326 of this title as this section.
+<b>1985</b>—Pub. L. 99–145 renumbered section 2326 of this title as this section.
 
 #### Effective Date of 1994 Amendment
 

@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Absent uniformed services voter
 
-&emsp;The term “absent uniformed services voter” has the meaning given such term in section 107(a) <sup>1</sup> of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.).
+&emsp;The term “absent uniformed services voter” has the meaning given such term in section 107(1) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–6(1)).
 
 #### (2) Overseas voter
 
@@ -60,7 +60,7 @@ The Presidential designee shall submit to Congress reports on the progress and o
 
 #### (1) In general
 
-&emsp;The Election Assistance Commission and the National Institute of Standards and Technology shall provide the Presidential designee with best practices or standards in accordance with electronic absentee voting guidelines established under the first sentence of section 1604(a)(2) of the National Defense Authorization Act for Fiscal Year 2002 (Public Law 107–107; 115 Stat. 1277; 42 U.S.C. 1977ff <sup>2</sup> note), as amended by section 567 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 118 Stat. 1919) to support the pilot program or programs.
+&emsp;The Election Assistance Commission and the National Institute of Standards and Technology shall provide the Presidential designee with best practices or standards in accordance with electronic absentee voting guidelines established under the first sentence of section 1604(a)(2) of the National Defense Authorization Act for Fiscal Year 2002 (Public Law 107–107; 115 Stat. 1277; 42 U.S.C. 1973ff note), as amended by section 567 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 118 Stat. 1919) to support the pilot program or programs.
 
 #### (2) Report
 
@@ -84,13 +84,23 @@ The Presidential designee shall submit to Congress reports on the progress and o
 
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-(Pub. L. 111–84, div. A, title V, §589, Oct. 28, 2009, 123 Stat. 2334.)
+(Pub. L. 111–84, div. A, title V, §589, Oct. 28, 2009, 123 Stat. 2334; Pub. L. 111–383, div. A, title X, §1075(d)(6), Jan. 7, 2011, 124 Stat. 4373.)
 
 #### References in Text
 
-The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (b)(1), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which is classified principally to this subchapter. Sections 101 and 107 of the Act are classified to sections 1973ff and 1973ff–6, respectively, of this title. Section 107(a) of the Act probably means section 107(1) of the Act, which defines “absent uniformed services voter” and is classified to section 1973ff–6(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of this title and Tables.
+The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (b)(1), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which is classified principally to this subchapter. Sections 101 and 107 of the Act are classified to sections 1973ff and 1973ff–6, respectively, of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of this title and Tables.
 
 #### Codification
 
 Section was enacted as part of the Military and Overseas Voter Empowerment Act, and also as part of the National Defense Authorization Act for Fiscal Year 2010, and not as part of title I of the Uniformed and Overseas Citizens Absentee Voting Act, which comprises this subchapter.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (a)(1). Pub. L. 111–383, §1075(d)(6)(A), substituted “section 107(1)” for “section 107(a)” and “1973ff–6(1)” for “1973ff et seq.”
+
+Subsec. (e)(1). Pub. L. 111–383, §1075(d)(6)(B), substituted “1973ff note” for “1977ff note”.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–383, div. A, title X, §1075(d), Jan. 7, 2011, 124 Stat. 4372, provided that the amendment by section 1075(d)(6) is effective as of Oct. 28, 2009, and as if included in Pub. L. 111–84 as enacted.
 

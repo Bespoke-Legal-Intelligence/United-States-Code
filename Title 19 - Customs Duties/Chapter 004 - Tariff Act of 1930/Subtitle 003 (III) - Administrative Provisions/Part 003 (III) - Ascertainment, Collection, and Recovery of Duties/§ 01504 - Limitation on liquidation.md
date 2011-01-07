@@ -44,7 +44,7 @@ The Secretary of the Treasury may extend the period in which to liquidate an ent
 
 &emsp;(2) the importer of record or drawback claimant, as the case may be, requests such extension and shows good cause therefor.
 
-> The Secretary shall give notice of an extension under this subsection to the importer of record or drawback claimant, as the case may be, and the surety of such importer of record or drawback claimant. Notice shall be in such form and manner (which may include electronic transmittal) as the Secretary shall by regulation prescribe. Any entry the liquidation of which is extended under this subsection shall be treated as having been liquidated at the rate of duty,value, quantity, and amount of duty asserted by the importer of record, or the drawback amount asserted by the drawback claimant, at the expiration of 4 years from the applicable date specified in subsection (a) of this section.
+> The Secretary shall give notice of an extension under this subsection to the importer of record or drawback claimant, as the case may be, and the surety of such importer of record or drawback claimant. Notice shall be in such form and manner (which may include electronic transmittal) as the Secretary shall by regulation prescribe. Any entry the liquidation of which is extended under this subsection shall be treated as having been liquidated at the rate of duty, value, quantity, and amount of duty asserted by the importer of record, or the drawback amount asserted by the drawback claimant, at the expiration of 4 years from the applicable date specified in subsection (a) of this section.
 
 #### (c) Notice of suspension
 
@@ -52,7 +52,7 @@ If the liquidation of any entry is suspended, the Secretary shall by regulation 
 
 #### (d) Removal of suspension
 
-Except as provided in section 1675(a)(3) of this title, when a suspension required by statute or court order is removed, the Customs Service shall liquidate the entry, unless liquidation is extended under subsection (b) of this section, within 6 months after receiving notice of the removal from the Department of Commerce, other agency, or a court with jurisdiction over the entry. Any entry (other than an entry with respect to which liquidation has been extended under subsection (b) of this section) not liquidated by the Customs Service within 6 months after receiving such notice shall be treated as having been liquidated at the rate of duty, value, quantity, and amount of duty asserted by the importer of record or (in the case of a drawback entry or claim) at the drawback amount asserted by the drawback claimant.
+Except as provided in section 1675(a)(3) of this title, when a suspension required by statute or court order is removed, the Customs Serviceshall liquidate the entry, unless liquidation is extended under subsection (b) of this section, within 6 months after receiving notice of the removal from the Department of Commerce, other agency, or a court with jurisdiction over the entry. Any entry (other than an entry with respect to which liquidation has been extended under subsection (b) of this section) not liquidated by the Customs Service within 6 months after receiving such notice shall be treated as having been liquidated at the rate of duty, value, quantity, and amount of duty asserted by the importer of record or (in the case of a drawback entry or claim) at the drawback amount asserted by the drawback claimant.
 
 (June 17, 1930, ch. 497, title IV, §504, as added Pub. L. 95–410, title II, §209(a), Oct. 3, 1978, 92 Stat. 902; amended Pub. L. 98–573, title I, §191(d), Oct. 30, 1984, 98 Stat. 2971; Pub. L. 103–182, title VI, §641, Dec. 8, 1993, 107 Stat. 2204; Pub. L. 103–465, title II, §220(c), Dec. 8, 1994, 108 Stat. 4865; Pub. L. 104–295, §3(a)(7), Oct. 11, 1996, 110 Stat. 3516; Pub. L. 108–429, title I, §1563(e), title II, §2102, Dec. 3, 2004, 118 Stat. 2585, 2597.)
 
@@ -62,7 +62,7 @@ A prior section 1504, act June 17, 1930, ch. 497, title IV, §504, 46 Stat. 732,
 
 #### Amendments
 
-2004—Pub. L. 108–429, §2102(2), struck out “at the time of entry” after “duties asserted” in subsec. (a)(1) (concluding provisions), after “asserted by the claimant” in subsec. (a)(2)(A), and after “of duty asserted” and “drawback amount asserted” in subsecs. (b) (concluding provisions) and (d).
+<b>2004</b>—Pub. L. 108–429, §2102(2), struck out “at the time of entry” after “duties asserted” in subsec. (a)(1) (concluding provisions), after “asserted by the claimant” in subsec. (a)(2)(A), and after “of duty asserted” and “drawback amount asserted” in subsecs. (b) (concluding provisions) and (d).
 
 Subsec. (a). Pub. L. 108–429, §2102(1), which directed striking “or” at end of par. (3), substituting “filed, whichever is earlier; or” for “filed;” in par. (4), and adding par. (5) after par. (4), was executed by striking “or” at end of par. (1)(C), substituting “filed, whichever is earlier; or” for “filed,” in par. (1)(D), and adding the text of par. (5) after par. (1)(D) and editorially redesignating it as par. (1)(E). Pub. L. 108–429, §2102(1), was technically incapable of execution subsequent to the amendments by Pub. L. 108–429, §1563(e)(1). See below.
 
@@ -90,13 +90,13 @@ Subsec. (c). Pub. L. 108–429, §1563(e)(2), inserted “or drawback claimant, 
 
 Subsec. (d). Pub. L. 108–429, §1563(e)(3), inserted “or (in the case of a drawback entry or claim) at the drawback amount asserted at the time of entry by the drawback claimant” before period at end.
 
-1996—Subsec. (d). Pub. L. 104–295 inserted “, unless liquidation is extended under subsection (b) of this section,” after “shall liquidate the entry” in first sentence, and “(other than an entry with respect to which liquidation has been extended under subsection (b) of this section)” after “Any entry” in second sentence.
+<b>1996</b>—Subsec. (d). Pub. L. 104–295 inserted “, unless liquidation is extended under subsection (b) of this section,” after “shall liquidate the entry” in first sentence, and “(other than an entry with respect to which liquidation has been extended under subsection (b) of this section)” after “Any entry” in second sentence.
 
-1994—Subsec. (a). Pub. L. 103–465, §220(c)(1), inserted “except as provided in section 1675(a)(3) of this title,” before “an entry of merchandise not liquidated” in introductory provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–465, §220(c)(1), inserted “except as provided in section 1675(a)(3) of this title,” before “an entry of merchandise not liquidated” in introductory provisions.
 
 Subsec. (d). Pub. L. 103–465, §220(c)(2), substituted “Except as provided in section 1675(a)(3) of this title, when a suspension” for “When a suspension”.
 
-1993—Subsec. (a). Pub. L. 103–182, §641(1)(A), substituted “Unless an entry is extended under subsection (b) or suspended as required by statute or court order” for “Except as provided in subsection (b) of this section” in introductory provisions.
+<b>1993</b>—Subsec. (a). Pub. L. 103–182, §641(1)(A), substituted “Unless an entry is extended under subsection (b) or suspended as required by statute or court order” for “Except as provided in subsection (b) of this section” in introductory provisions.
 
 Subsec. (a)(4). Pub. L. 103–182, §641(1)(B)–(D), added par. (4).
 
@@ -112,7 +112,7 @@ Subsec. (c). Pub. L. 103–182, §641(2), amended subsec. (c) generally. Prior t
 
 Subsec. (d). Pub. L. 103–182, §641(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) “Limitation” read as follows: “Any entry of merchandise not liquidated at the expiration of four years from the applicable date specified in subsection (a) of this section, shall be deemed liquidated at the rate of duty, value, quantity, and amount of duty asserted at the time of entry by the importer of record, unless liquidation continues to be suspended as required by statute or court order. When such a suspension of liquidation is removed, the entry shall be liquidated within 90 days therefrom.”
 
-1984—Subsec. (a). Pub. L. 98–573, §191(d)(1), substituted “importer of record” for “importer, his consignee, or agent” in provisions following par. (3).
+<b>1984</b>—Subsec. (a). Pub. L. 98–573, §191(d)(1), substituted “importer of record” for “importer, his consignee, or agent” in provisions following par. (3).
 
 Subsec. (b). Pub. L. 98–573, §191(d)(2), substituted “importer of record” for “importer, his consignee, or agent” in provisions preceding par. (1), and substituted “importer of record” for “importer, consignee, or his agent” in par. (3).
 

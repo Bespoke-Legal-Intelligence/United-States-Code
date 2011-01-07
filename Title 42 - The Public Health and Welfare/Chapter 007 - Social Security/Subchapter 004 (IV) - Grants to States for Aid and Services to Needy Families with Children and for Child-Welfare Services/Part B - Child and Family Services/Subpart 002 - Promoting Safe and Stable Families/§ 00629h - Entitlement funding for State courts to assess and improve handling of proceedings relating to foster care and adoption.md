@@ -64,17 +64,17 @@ The Secretary shall make grants, in accordance with this section, to the highest
 
 #### (B) Formula
 
-&emsp;&emsp;The amount described in this subparagraph for any fiscal year is the amount thatbears the same ratio to the amount reserved pursuant to section 629f(b)(2) of this title (and the amount, if any, reserved pursuant to section 629g(b)(2) of this title) for the fiscal year (reduced by the dollar amount specified in subparagraph (A) of this paragraph for the fiscal year) as the number of individuals in the State who have not attained 21 years of age bears to the total number of such individuals in all States the highest State courts of which have approved applications under subsection (b) for such a grant.
+&emsp;&emsp;The amount described in this subparagraph for any fiscal year is the amount that bears the same ratio to the amount reserved pursuant to section 629f(b)(2) of this title (and the amount, if any, reserved pursuant to section 629g(b)(2) of this title) for the fiscal year (reduced by the dollar amount specified in subparagraph (A) of this paragraph for the fiscal year) as the number of individuals in the State who have not attained 21 years of age bears to the total number of such individuals in all States the highest State courts of which have approved applications under subsection (b) for such a grant.
 
 #### (2) Grants for improved data collection and training
 
 #### (A) In general
 
-&emsp;&emsp;Each highest State court which has an application approved under subsection (b) of this section for a grant referred to in subparagraph (B) or (C) of subsection (b)(2) shall be entitled to payment, for each of fiscal years 2006 through 2010, from the amount made available under whichever of paragraph (1) or (2) of subsection (e) applies with respect to the grant, of an amount equal to the sum of $85,000 plus the amount described in subparagraph (B) of this paragraph for the fiscal year with respect to the grant.
+&emsp;&emsp;Each highest State court which has an application approved under subsection (b) of this section for a grant referred to in subparagraph (B) or (C) of subsection (b)(2) shall be entitled to payment, for each of fiscal years 2006 through 2011, from the amount made available under whichever of paragraph (1) or (2) of subsection (e) applies with respect to the grant, of an amount equal to the sum of $85,000 plus the amount described in subparagraph (B) of this paragraph for the fiscal year with respect to the grant.
 
 #### (B) Formula
 
-&emsp;&emsp;The amount described in this subparagraph for any fiscal year with respect to a grant referred to in subparagraph (B) or (C) of subsection (b)(2) is the amount that bears the same ratio to the amount made available under subsection (e) for such a grant (reduced by the dollar amount specified in subparagraph (A) of this paragraph) as the number of individuals in the State who have not attained 21 years of age bears to the total number of such individuals in all States the highest State courts of which have approved applications under subsection (b) for such a grant.
+&emsp;&emsp;The amount described in this subparagraph for any fiscal year with respect to a grant referred to in subparagraph (B) or (C)of subsection (b)(2) is the amount that bears the same ratio to the amount made available under subsection (e) for such a grant (reduced by the dollar amount specified in subparagraph (A) of this paragraph) as the number of individuals in the State who have not attained 21 years of age bears to the total number of such individuals in all States the highest State courts of which have approved applications under subsection (b) for such a grant.
 
 #### (d) Federal share
 
@@ -88,7 +88,9 @@ Out of any money in the Treasury of the United States not otherwise appropriated
 
 &emsp;(2) $10,000,000 for grants referred to in subsection (b)(2)(C).
 
-(Aug. 14, 1935, ch. 531, title IV, §438, formerly Pub. L. 103–66, title XIII, §13712, Aug. 10, 1993, 107 Stat. 655, as amended Pub. L. 105–89, title III, §305(a)(3), Nov. 19, 1997, 111 Stat. 2130; renumbered §438 of act Aug. 14, 1935, and amended Pub. L. 107–133, title I, §107, Jan. 17, 2002, 115 Stat. 2418; Pub. L. 109–171, title VII, §7401(a), Feb. 8, 2006, 120 Stat. 148; Pub. L. 109–239, §§8(b), 9, July 3, 2006, 120 Stat. 513; Pub. L. 109–288, §9, Sept. 28, 2006, 120 Stat. 1255.)
+> For fiscal year 2011, out of the amount reserved pursuant to section 629f(b)(2) of this title for such fiscal year, there are available $10,000,000 for grants referred to in subsection (b)(2)(B), and $10,000,000 for grants referred to in subsection (b)(2)(C).
+
+(Aug. 14, 1935, ch. 531, title IV, §438, formerly Pub. L. 103–66, title XIII, §13712, Aug. 10, 1993, 107 Stat. 655, as amended Pub. L. 105–89, title III, §305(a)(3), Nov. 19, 1997, 111 Stat. 2130; renumbered §438 of act Aug. 14, 1935, and amended Pub. L. 107–133, title I, §107, Jan. 17, 2002, 115 Stat. 2418; Pub. L. 109–171, title VII, §7401(a), Feb. 8, 2006, 120 Stat. 148; Pub. L. 109–239, §§8(b), 9, July 3, 2006, 120 Stat. 513; Pub. L. 109–288, §9, Sept. 28, 2006, 120 Stat. 1255; Pub. L. 111–242, §133(2), Sept. 30, 2010, 124 Stat. 2613.)
 
 #### References in Text
 
@@ -108,7 +110,11 @@ A prior section 438 of act Aug. 14, 1935, was classified to section 638 of this 
 
 #### Amendments
 
-2006—Subsec. (a)(1)(E). Pub. L. 109–239, §9, added subpar. (E).
+<b>2010</b>—Subsec. (c)(2)(A). Pub. L. 111–242, §133(2)(A), substituted “2011” for “2010”.
+
+Subsec. (e). Pub. L. 111–242, §133(2)(B), inserted concluding provisions.
+
+<b>2006</b>—Subsec. (a)(1)(E). Pub. L. 109–239, §9, added subpar. (E).
 
 Subsec. (a)(3), (4). Pub. L. 109–171, §7401(a)(1), added pars. (3) and (4).
 
@@ -124,13 +130,13 @@ Subsec. (d). Pub. L. 109–288 substituted “2011” for “2006”.
 
 Subsec. (e). Pub. L. 109–171, §7401(a)(4), added subsec. (e).
 
-2002—Subsec. (a). Pub. L. 107–133, §107(d)(1)(A), made technical amendment to reference in original act which appears in text as reference to part E of this subchapter.
+<b>2002</b>—Subsec. (a). Pub. L. 107–133, §107(d)(1)(A), made technical amendment to reference in original act which appears in text as reference to part E of this subchapter.
 
 Subsec. (a)(1)(A). Pub. L. 107–133, §107(d)(1)(B), made technical amendment to reference in original act which appears in text as reference to this part and part E of this subchapter.
 
 Subsec. (a)(2). Pub. L. 107–133, §107(a)(1), added par. (2) and struck out former par. (2) which read as follows: “to implement changes deemed necessary as a result of the assessments.”
 
-Subsec. (c)(1). Pub. L. 107–133, §107(a)(2), (b), inserted “and improvement” after “assessment” and substituted “for each of fiscal years 2002 through 2006, from the amount reserved pursuant to section 629f(b)(2) of this title (and the amount, if any, reserved pursuant tosection 629g(b)(2) of this title), of an amount equal to the sum of $85,000 plus the amount described in paragraph (2) of this subsection for the fiscal year.” for “for each of fiscal years 1995 through 2001, from amounts reserved pursuant to section 629(d)(2) of this title, of an amount equal to the sum of—
+Subsec. (c)(1). Pub. L. 107–133, §107(a)(2), (b), inserted “and improvement” after “assessment” and substituted “for each of fiscal years 2002 through 2006, from the amount reserved pursuant to section 629f(b)(2) of this title (and the amount, if any, reserved pursuant to section 629g(b)(2) of this title), of an amount equal to the sum of $85,000 plus the amount described in paragraph (2) of this subsection for the fiscal year.” for “for each of fiscal years 1995 through 2001, from amounts reserved pursuant to section 629(d)(2) of this title, of an amount equal to the sum of—
 
 &emsp;“(A) for fiscal year 1995, $75,000 plus the amount described in paragraph (2) for fiscal year 1995; and
 
@@ -144,9 +150,13 @@ Subsec. (d). Pub. L. 107–133, §107(c), in heading substituted “Federal shar
 
 &emsp;“(2) not more than 75 percent of the cost of activities under this section in each of fiscal years 1996, 1997, 1998, 1999, 2000, and 2001.”
 
-1997—Subsec. (c)(1). Pub. L. 105–89, §305(a)(3)(A), substituted “2001” for “1998” in introductory provisions and par. (B).
+<b>1997</b>—Subsec. (c)(1). Pub. L. 105–89, §305(a)(3)(A), substituted “2001” for “1998” in introductory provisions and par. (B).
 
 Subsec. (d)(2). Pub. L. 105–89, §305(a)(3)(B), substituted “1998, 1999, 2000, and 2001” for “and 1998”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–242, §133, Sept. 30, 2010, 124 Stat. 2613, provided that the amendment made by section 133 is effective Oct. 1, 2010.
 
 #### Effective Date of 2006 Amendment
 

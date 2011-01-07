@@ -42,7 +42,7 @@ Subsection (b) establishes the classifications of able seamen—unlimited, able 
 
 #### Amendments
 
-1984—Subsec. (b)(6). Pub. L. 98–364 added par. (6).
+<b>1984</b>—Subsec. (b)(6). Pub. L. 98–364 added par. (6).
 
 #### Effective Date
 

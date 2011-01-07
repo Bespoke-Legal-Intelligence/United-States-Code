@@ -30,7 +30,7 @@ Grade.—The Director of the Joint Staff of the National Guard Bureau shall be a
 
 #### Amendments
 
-2004—Pub. L. 108–375, §508(c)(1), substituted “Director of the Joint Staff” for “Vice Chief” in section catchline.
+<b>2004</b>—Pub. L. 108–375, §508(c)(1), substituted “Director of the Joint Staff” for “Vice Chief” in section catchline.
 
 Subsec. (a)(1). Pub. L. 108–375, §508(a), substituted “Director of the Joint Staff” for “Vice Chief” in introductory provisions.
 

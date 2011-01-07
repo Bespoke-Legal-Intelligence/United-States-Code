@@ -104,7 +104,7 @@ As used in this section—
 
 &emsp;The regulations prescribed under this section shall, at a minimum—
 
-&emsp;&emsp;(A) establish minimum standards for providers of operator services and aggregatorsto use in the routing and handling of emergency telephone calls; and
+&emsp;&emsp;(A) establish minimum standards for providers of operator services and aggregators to use in the routing and handling of emergency telephone calls; and
 
 &emsp;&emsp;(B) establish a policy for requiring providers of operator services to make public information about recent changes in operator services and choices available to consumers in that market.
 
@@ -198,13 +198,13 @@ Nothing in this section shall be construed to alter the obligations, powers, or 
 
 #### Amendments
 
-1994—Subsec. (d)(2) to (4). Pub. L. 103–414, §303(a)(10), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out heading and text of former par. (2). Text read as follows: “The Commission shall initiate the proceeding required under paragraph (1) within 60 days after October 17, 1990, and shall prescribe regulations pursuant to the proceeding not later than 210 days after October 17, 1990. Such regulations shall take effect not later than 45 days after the date the regulations are prescribed.”
+<b>1994</b>—Subsec. (d)(2) to (4). Pub. L. 103–414, §303(a)(10), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out heading and text of former par. (2). Text read as follows: “The Commission shall initiate the proceeding required under paragraph (1) within 60 days after October 17, 1990, and shall prescribe regulations pursuant to the proceeding not later than 210 days after October 17, 1990. Such regulations shall take effect not later than 45 days after the date the regulations are prescribed.”
 
 Subsec. (e)(1). Pub. L. 103–414, §304(a)(8), struck out “within 9 months after October 17, 1990,” after “The Commission,” in introductory provisions.
 
-1992—Subsec. (d)(4)(A). Pub. L. 102–538 inserted “and aggregators” after “operator services”.
+<b>1992</b>—Subsec. (d)(4)(A). Pub. L. 102–538 inserted “and aggregators” after “operator services”.
 
-1990—Subsec. (b)(1). Pub. L. 101–555, §4(a), substituted “90 days” for “30 days”.
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–555, §4(a), substituted “90 days” for “30 days”.
 
 Subsec. (b)(1)(J). Pub. L. 101–555, §4(b), struck out subpar. (J) which read as follows: “not bill an interexchange telephone call to a billing card number which—
 

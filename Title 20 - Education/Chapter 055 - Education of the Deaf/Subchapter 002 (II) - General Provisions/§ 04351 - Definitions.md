@@ -32,13 +32,13 @@ Provisions similar to this section were contained in sections 682, 693a, and 695
 
 #### Amendments
 
-1998—Par. (1)(C). Pub. L. 105–244, §915(1), struck out “Palau (but only until the Compact of Free Association with Palau takes effect),” after “Guam,”.
+<b>1998</b>—Par. (1)(C). Pub. L. 105–244, §915(1), struck out “Palau (but only until the Compact of Free Association with Palau takes effect),” after “Guam,”.
 
 Par. (5). Pub. L. 105–244, §915(2), inserted “and” after “Virgin Islands,” and struck out “, and Palau (but only until the Compact of Free Association with Palau takes effect)” after “Mariana Islands”.
 
-1993—Pub. L. 103–73 substituted “and” for “or” at end of par. (1)(B), redesignated pars. (4) and (6) to (9) as (3) to (7), respectively, and struck out former pars. (3) and (5) which defined “elementary school” and “secondary school”, respectively.
+<b>1993</b>—Pub. L. 103–73 substituted “and” for “or” at end of par. (1)(B), redesignated pars. (4) and (6) to (9) as (3) to (7), respectively, and struck out former pars. (3) and (5) which defined “elementary school” and “secondary school”, respectively.
 
-1992—Par. (1). Pub. L. 102–421, §131(1), added par. (1) and struck out former par. (1) which read as follows: “The term ‘Board of Trustees’ means (unless the context requires otherwise) the Board of Trustees of Gallaudet University established under section 4303 of this title.”
+<b>1992</b>—Par. (1). Pub. L. 102–421, §131(1), added par. (1) and struck out former par. (1) which read as follows: “The term ‘Board of Trustees’ means (unless the context requires otherwise) the Board of Trustees of Gallaudet University established under section 4303 of this title.”
 
 Par. (2). Pub. L. 102–421, §151(b)(1), substituted “therein” for “thereof”.
 

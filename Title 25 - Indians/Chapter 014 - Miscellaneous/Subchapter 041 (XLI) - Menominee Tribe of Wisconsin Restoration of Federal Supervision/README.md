@@ -12,3 +12,4 @@
 - [&sect; 00903d - Transfer of assets of Menominee Enterprises, Inc](%C2%A7%2000903d%20-%20Transfer%20of%20assets%20of%20Menominee%20Enterprises%2C%20Inc.md)
 - [&sect; 00903e - Rules and regulations](%C2%A7%2000903e%20-%20Rules%20and%20regulations.md)
 - [&sect; 00903f - Authorization of appropriations](%C2%A7%2000903f%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00903g - Exemption from advertising requirement for contracts for labor or supplies](%C2%A7%2000903g%20-%20Exemption%20from%20advertising%20requirement%20for%20contracts%20for%20labor%20or%20supplies.md)

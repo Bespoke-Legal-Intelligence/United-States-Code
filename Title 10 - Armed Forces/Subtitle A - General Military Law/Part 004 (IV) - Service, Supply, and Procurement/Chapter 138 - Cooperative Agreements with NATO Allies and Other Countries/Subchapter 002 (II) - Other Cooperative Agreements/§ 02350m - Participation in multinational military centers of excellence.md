@@ -30,7 +30,7 @@ Use of Department of Defense Facilities and Equipment.—Facilities and equipmen
 
 (e)
 
-Annual Reports on Use of Authority.—(1) Not later than October 31, 2009, and annually thereafter, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the use of the authority in this section during the preceding fiscal year.
+Annual Reports on Use of Authority.—(1) Not later than October 31, 2009, and annuallythereafter, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the use of the authority in this section during the preceding fiscal year.
 
 (2) Each report required by paragraph (1) shall include, for the fiscal year covered by such report, the following:
 

@@ -76,7 +76,7 @@ In subsection (c), the words “civil action” are substituted for “proceedin
 
 #### Amendments
 
-2001—Subsec. (b)(1). Pub. L. 107–71, §140(b)(1), in introductory provisions, inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
+<b>2001</b>—Subsec. (b)(1). Pub. L. 107–71, §140(b)(1), in introductory provisions, inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
 
 Subsec. (c). Pub. L. 107–71, §140(b)(2), substituted “, Under Secretary, or Administrator” for “or Administrator” in heading and text.
 

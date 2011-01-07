@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(A) the non-Federal average manufacturer price of the drug during the 3-month period that ends with the month preceding the month during which a contract goes into effect (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period is not available, during such period as the Secretary considers appropriate); minus
 
-&emsp;&emsp;(B) the non-Federal average manufacturer price of the drug during the 3-month period that ends one year before the end of the period described in subparagraph (A) (or, in the case of a covered drug for which sufficientdata for determining the non-Federal average manufacturer price during such period is not available, during such period preceding the period described in subparagraph (A) as the Secretary considers appropriate).
+&emsp;&emsp;(B) the non-Federal average manufacturer price of the drug during the 3-month period that ends one year before the end of the period described in subparagraph (A) (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period is not available, during such period preceding the period described in subparagraph (A) as the Secretary considers appropriate).
 
 &emsp;(2) The term “covered drug” means—
 
@@ -126,17 +126,17 @@ Enactment of this section, referred to in subsec. (g)(2), means enactment of Pub
 
 #### Amendments
 
-1997—Subsec. (h)(2). Pub. L. 105–115 inserted “or” at end of subpar. (B), substituted a period for “; or” at end of subpar. (C), and struck out subpar. (D), which read as follows: “insulin certified under section 506 of the Federal Food, Drug, and Cosmetic Act.”
+<b>1997</b>—Subsec. (h)(2). Pub. L. 105–115 inserted “or” at end of subpar. (B), substituted a period for “; or” at end of subpar. (C), and struck out subpar. (D), which read as follows: “insulin certified under section 506 of the Federal Food, Drug, and Cosmetic Act.”
 
-1996—Subsec. (b)(4). Pub. L. 104–106 added par. (4).
+<b>1996</b>—Subsec. (b)(4). Pub. L. 104–106 added par. (4).
 
-1994—Subsec. (e)(1)(A). Pub. L. 103–446, §1201(e)(27)(A), (f)(6)(A), substituted “December 4, 1992” for “30 days after the date of the enactment of this section” and “one-year period” for “1-year period”.
+<b>1994</b>—Subsec. (e)(1)(A). Pub. L. 103–446, §1201(e)(27)(A), (f)(6)(A), substituted “December 4, 1992” for “30 days after the date of the enactment of this section” and “one-year period” for “1-year period”.
 
 Subsec. (f)(2). Pub. L. 103–446, §1201(e)(27)(B), substituted a period for “, and” at end.
 
 Subsec. (g)(1), (2). Pub. L. 103–446, §1201(f)(6)(B), substituted “November 4, 1992” for “the date of the enactment of this section”.
 
-1993—Subsec. (a)(2). Pub. L. 103–18, §1(a)(1), struck out “preceding such date” before “as the Secretary considers appropriate”.
+<b>1993</b>—Subsec. (a)(2). Pub. L. 103–18, §1(a)(1), struck out “preceding such date” before “as the Secretary considers appropriate”.
 
 Subsec. (c). Pub. L. 103–18, §1(a)(2), in introductory provisions, struck out “for calendar quarters” after “subsection (a)(2),”, and in par. (1), struck out “preceding the month during which the contract goes into effect” after “during such period” and substituted “multiplied by” for “increased by”.
 

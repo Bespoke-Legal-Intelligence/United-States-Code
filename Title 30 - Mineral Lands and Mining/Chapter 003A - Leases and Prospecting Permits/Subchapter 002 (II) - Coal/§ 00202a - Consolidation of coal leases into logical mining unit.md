@@ -2,7 +2,7 @@
 
 #### (1) Approval by Secretary; public hearing; definition
 
-The Secretary, upon determining that maximum economic recovery of the coal deposit or deposits is served thereby, may approve the consolidation of coal leases into a logical mining unit. Such consolidation may only take place after a public hearing, if requested by any person whose interest is or may be adversely affected. A logical mining unit is an area of land in which the coal resources can be developed in an efficient, economical, and orderly manner as a unit with due regard to conservation of coal reserves and other resources. A logical mining unit may consist of one or more Federal leaseholds, and may include intervening or adjacent lands in which the United States does not ownthe coal resources, but all the lands in a logical mining unit must be under the effective control of a single operator, be able to be developed and operated as a single operation and be contiguous.
+The Secretary, upon determining that maximum economic recovery of the coal deposit or deposits is served thereby, may approve the consolidation of coal leases into a logical mining unit. Such consolidation may only take place after a public hearing, if requested by any person whose interest is or may be adversely affected. A logical mining unit is an area of land in which the coal resources can be developed in an efficient, economical, and orderly manner as a unit with due regard to conservation of coal reserves and other resources. A logical mining unit may consist of one or more Federal leaseholds, and may include intervening or adjacent lands in which the United States does not own the coal resources, but all the lands in a logical mining unit must be under the effective control of a single operator, be able to be developed and operated as a single operation and be contiguous.
 
 #### (2) Mining plan; requirements
 
@@ -16,7 +16,7 @@ The Secretary, upon determining that maximum economic recovery of the coal depos
 
 #### (3) Conditions for approval
 
-In approving a logical mining unit, the Secretary may provide, among other things, that (i) diligent development, continuous operation, and production on any Federal lease or non-Federal land in the logical mining unit shall be construed as occurring on all Federal leases in that logical mining unit, and (ii) the rentals and royalties for all Federal leases in a logical mining unit may be combined, and advanced royalties paid for any lease within a logical mining unit may be credited against such combined royalties.
+In approving a logical mining unit, the Secretary may provide, among other things, that (i) diligent development, continuous operation, and production on any Federal lease or non-Federal land in the logical mining unit shall be construed as occurring on all Federal leases in that logical mining unit, and (ii) the rentals and royalties for all Federal leases in a logical miningunit may be combined, and advanced royalties paid for any lease within a logical mining unit may be credited against such combined royalties.
 
 #### (4) Amendment to lease
 
@@ -52,7 +52,7 @@ Section is comprised of subsec. (d) of section 2 of act Feb. 25, 1920, as added 
 
 #### Amendments
 
-2005—Par. (2). Pub. L. 109–58 designated existing provisions as subpar. (A) and added subpar. (B).
+<b>2005</b>—Par. (2). Pub. L. 109–58 designated existing provisions as subpar. (A) and added subpar. (B).
 
 #### Effective Date of 2005 Amendment
 

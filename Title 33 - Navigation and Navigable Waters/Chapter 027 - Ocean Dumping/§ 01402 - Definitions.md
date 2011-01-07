@@ -6,7 +6,7 @@ For the purposes of this Act the term—
 
 (b) “Ocean waters” means those waters of the open seas lying seaward of the base line from which the territorial sea is measured, as provided for in the Convention on the Territorial Sea and the Contiguous Zone (15 UST 1606; TIAS 5639).
 
-(c) “Material” means matter of any kind or description, including, but not limited to, dredged material, solid waste, incinerator residue, garbage, sewage, sewage sludge, munitions, radiological, chemical, and biological warfare agents, radioactive materials, chemicals, biological and laboratory waste, wreck or discarded equipment, rock, sand, excavation debris, and industrial, municipal, agricultural, and other waste; but such term does not mean sewage from vessels within the meaning of section 1322 of this title. Oil within the meaning of section 1321 of this title shall be included only to the extent that such oil is taken on board a vessel or aircraft for the purpose of dumping.
+(c) “Material” means matter of any kind or description, including, but not limited to, dredged material, solid waste, incinerator residue, garbage, sewage, sewage sludge, munitions, radiological, chemical, and biological warfare agents, radioactive materials, chemicals, biological and laboratory waste, wreck or discarded equipment, rock, sand, excavation debris, and industrial, municipal, agricultural, and other waste; but such term does not mean sewage fromvessels within the meaning of section 1322 of this title. Oil within the meaning of section 1321 of this title shall be included only to the extent that such oil is taken on board a vessel or aircraft for the purpose of dumping.
 
 (d) “United States” includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Canal Zone, the territories and possessions of the United States, and the Trust Territory of the Pacific Islands.
 
@@ -42,9 +42,9 @@ The Atomic Energy Act of 1954, as amended, referred to in subsec. (f), is act Au
 
 #### Amendments
 
-1988—Subsecs. (k) to (m). Pub. L. 100–688 added subsec. (k) and redesignated former subsecs. (k) and (<i>l</i>) as (<i>l</i>) and (m), respectively.
+<b>1988</b>—Subsecs. (k) to (m). Pub. L. 100–688 added subsec. (k) and redesignated former subsecs. (k) and (<i>l</i>) as (<i>l</i>) and (m), respectively.
 
-1974—Subsec. (c). Pub. L. 93–254, §1(2)(A), substituted “sewage from vessels within the meaning of section 1322 of this title. Oil within the meaning of section 1321 of this title shall be included only to the extent that such oil is taken on board a vessel or aircraft for the purpose of dumping.” for “oil within the meaning of section 11 of the Federal Water Pollution Control Act and does not mean sewage from vessels within the meaning of section 13 of such Act.”
+<b>1974</b>—Subsec. (c). Pub. L. 93–254, §1(2)(A), substituted “sewage from vessels within the meaning of section 1322 of this title. Oil within the meaning of section 1321 of this title shall be included only to the extent that such oil is taken on board a vessel or aircraft for the purpose of dumping.” for “oil within the meaning of section 11 of the Federal Water Pollution Control Act and does not mean sewage from vessels within the meaning of section 13 of such Act.”
 
 Subsec. (<i>l</i>). Pub. L. 93–254, §1(2)(C), added subsec. (<i>l</i>).
 
@@ -62,5 +62,5 @@ For termination of the United States District Court for the District of the Cana
 
 #### Territorial Sea and Contiguous Zone of United States
 
-For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under section 1331 of Title 43, Public Lands.
+For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219,respectively, set out as notes under section 1331 of Title 43, Public Lands.
 

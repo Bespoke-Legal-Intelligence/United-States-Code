@@ -70,7 +70,7 @@ Subsec. (c). Pub. L. 97–276 added subsec. (c).
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–277, div. A, §101(h) \[title VI, §628(e)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521, provided that: “The amendments made by this section \[enacting section 5545b of this title and amending this section and sections 5542 and 8331 of this title\] shall take effect on the first day of the first applicable pay period which begins on or after October 1, 1998.”
+Pub. L. 105–277, div. A, §101(h) \[title VI, §628(e)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521, provided that: “Theamendments made by this section \[enacting section 5545b of this title and amending this section and sections 5542 and 8331 of this title\] shall take effect on the first day of the first applicable pay period which begins on or after October 1, 1998.”
 
 #### Effective Date of 1992 Amendment
 

@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1992—Pub. L. 102–573, §107(1), substituted “Recruitment activities” for “Travel expenses for recruitment” in section catchline.
+<b>1992</b>—Pub. L. 102–573, §107(1), substituted “Recruitment activities” for “Travel expenses for recruitment” in section catchline.
 
 Subsec. (b). Pub. L. 102–573, §107(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated $100,000 for each of the fiscal years 1990, 1991, and 1992, for the purpose of carrying out the provisions of this section.”
 

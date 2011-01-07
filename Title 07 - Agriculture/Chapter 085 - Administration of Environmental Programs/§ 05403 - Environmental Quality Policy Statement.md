@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) Recommendations for precluding any undesirable duplication of efforts within the Department and among the Department and other Federal and State programs.
 
-&emsp;&emsp;(D) Specific recommendations for new initiatives in monitoring, research, extension,and technical assistance efforts to address present and potential environmental quality problems.
+&emsp;&emsp;(D) Specific recommendations for new initiatives in monitoring, research, extension, and technical assistance efforts to address present and potential environmental quality problems.
 
 > &emsp;The assessment may incorporate existing documents and planning processes within the Department.
 

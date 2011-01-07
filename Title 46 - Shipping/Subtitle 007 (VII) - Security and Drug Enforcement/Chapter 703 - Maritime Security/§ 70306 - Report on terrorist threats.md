@@ -40,9 +40,9 @@ The Maritime Transportation Security Act of 2002, referred to in subsec. (a), is
 
 #### Amendments
 
-2008—Pub. L. 110–181, §3525(b), repealed Pub. L. 109–241, §901(q). See 2006 Amendment note below.
+<b>2008</b>—Pub. L. 110–181, §3525(b), repealed Pub. L. 109–241, §901(q). See 2006 Amendment note below.
 
 Subsec. (a). Pub. L. 110–181, §3525(a)(5), incorporated the substance of the amendment by Pub. L. 109–241, §901(q), into this section by substituting “The Secretary shall submit an annual report” for “Not later than February 28 of each year, the Secretary shall submit a report”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-2006—Pub. L. 109–241, §901(q), which directed the amendment of section 1802 of the former Appendix to this title from which subsec. (a) of this section was derived, was repealed by Pub. L. 110–181, §3525(b). See 2008 Amendment note for subsec. (a) and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–241, §901(q), which directed the amendment of section 1802 of the former Appendix to this title from which subsec. (a) of this section was derived, was repealed by Pub. L. 110–181, §3525(b). See 2008 Amendment note for subsec. (a) and Historical and Revision notes above.
 

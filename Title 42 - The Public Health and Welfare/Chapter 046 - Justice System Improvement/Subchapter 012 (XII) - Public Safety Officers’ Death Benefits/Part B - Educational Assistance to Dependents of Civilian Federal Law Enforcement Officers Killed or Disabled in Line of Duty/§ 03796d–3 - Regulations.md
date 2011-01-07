@@ -12,5 +12,5 @@ Notwithstanding section 3796d–2(b) of this title, the Attorney General shall i
 
 #### Amendments
 
-1998—Pub. L. 105–390 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>1998</b>—Pub. L. 105–390 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

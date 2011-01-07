@@ -10,7 +10,7 @@ Any lands, waters, or interests in lands or interests therein located within the
 
 #### (c) Land and Water Conservation Fund
 
-For purposes of section 460<i>l</i>–9 of this title, where such boundaries are established for units of the National Forest System, such established boundaries shall be treated as if they were theboundaries of the National Forests as of January 1, 1965. Money appropriated from the Land and Water Conservation Fund shall be available for the acquisition of lands and interests therein in furtherance of the purposes of this subchapter.
+For purposes of section 460<i>l</i>–9 of this title, where such boundaries are established for units of the National Forest System, such established boundaries shall be treated as if they were the boundaries of the National Forests as of January 1, 1965. Money appropriated from the Land and Water Conservation Fund shall be available for the acquisition of lands and interests therein in furtherance of the purposes of this subchapter.
 
 (Pub. L. 103–63, §7, Aug. 4, 1993, 107 Stat. 300.)
 

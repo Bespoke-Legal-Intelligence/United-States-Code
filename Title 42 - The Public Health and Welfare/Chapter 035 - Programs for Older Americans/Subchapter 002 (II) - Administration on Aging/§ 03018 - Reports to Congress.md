@@ -70,11 +70,11 @@ A prior section 207 of Pub. L. 89–73 was renumbered section 206 and is classif
 
 #### Amendments
 
-2006—Subsec. (b)(2)(B). Pub. L. 109–365, §206(1), substituted “the Workforce” for “Labor”.
+<b>2006</b>—Subsec. (b)(2)(B). Pub. L. 109–365, §206(1), substituted “the Workforce” for “Labor”.
 
 Subsec. (b)(2)(C). Pub. L. 109–365, §206(2), substituted “Health, Education, Labor, and Pensions” for “Labor and Human Resources”.
 
-2000—Subsec. (a)(3). Pub. L. 106–501, §801(b)(4), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “an analysis of the information received under section 3026(b)(2)(D) of this title by the Assistant Secretary;”.
+<b>2000</b>—Subsec. (a)(3). Pub. L. 106–501, §801(b)(4), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “an analysis of the information received under section 3026(b)(2)(D) of this title by the Assistant Secretary;”.
 
 Subsec. (a)(4). Pub. L. 106–501, §801(b)(4)(B), redesignated par. (5) as (4).
 
@@ -84,11 +84,11 @@ Subsec. (a)(5). Pub. L. 106–501, §801(b)(4)(B), redesignated par. (5) as (4).
 
 Subsec. (c)(5). Pub. L. 106–501, §204(2), inserted “and older individuals residing in rural areas” after “low-income minority individuals” in two places.
 
-1994—Subsec. (b)(2). Pub. L. 103–437 redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “the Select Committee on Aging of the House of Representatives;”.
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–437 redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “the Select Committee on Aging of the House of Representatives;”.
 
-1993—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” wherever appearing.
+<b>1993</b>—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 
-1992—Subsec. (a)(4). Pub. L. 102–375, §904(a)(8), substituted “greatest economic need and older individuals with greatest social need” for “the greatest economic or social needs”.
+<b>1992</b>—Subsec. (a)(4). Pub. L. 102–375, §904(a)(8), substituted “greatest economic need and older individuals with greatest social need” for “the greatest economic or social needs”.
 
 Subsec. (a)(5). Pub. L. 102–375, §208(a), added par. (5).
 
@@ -106,15 +106,15 @@ Subsec. (c)(1). Pub. L. 102–375, §708(c)(2)(B), substituted “the activities
 
 Subsec. (c)(5). Pub. L. 102–375, §208(c), added par. (5).
 
-1991—Subsec. (b)(3)(D). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of the Veterans’ Administration”.
+<b>1991</b>—Subsec. (b)(3)(D). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of the Veterans’ Administration”.
 
-1987—Subsec. (a). Pub. L. 100–175, §103(b), amended last sentence generally. Prior to amendment, last sentence read as follows: “Such annual reports shall include statistical data reflecting services and activities provided individuals during the preceding fiscal year.”
+<b>1987</b>—Subsec. (a). Pub. L. 100–175, §103(b), amended last sentence generally. Prior to amendment, last sentence read as follows: “Such annual reports shall include statistical data reflecting services and activities provided individuals during the preceding fiscal year.”
 
 Subsec. (b). Pub. L. 100–175, §103(c), added subsec. (b) and struck out former subsec. (b) which read as follows: “Not later than 2 years after October 9, 1984, the Commissioner shall prepare and submit a report to the Congress on the extent to which the need for services for the prevention of the abuse of individuals is unmet, based on information gathered pursuant to section 3026(a)(6)(J) of this title.”
 
 Subsec. (c). Pub. L. 100–175, §155(f), added subsec. (c).
 
-1984—Pub. L. 98–459 designated existing provisions as subsec. (a), substituted “submit to the President and to the Congress” for “submit to the President for transmittal to the Congress”, and added subsec. (b).
+<b>1984</b>—Pub. L. 98–459 designated existing provisions as subsec. (a), substituted “submit to the President and to the Congress” for “submit to the President for transmittal to the Congress”, and added subsec. (b).
 
 #### Change of Name
 

@@ -2,13 +2,7 @@
 
 Whenever any person interested in any vessel, vehicle, aircraft, merchandise, or baggage seized under the provisions of this chapter, or who has incurred, or is alleged to have incurred, any fine or penalty thereunder, files with the Secretary of the Treasury if under the customs laws, and with the Commandant of the Coast Guard or the Commissioner of Customs, as the case may be, if under the navigation laws, before the sale of such vessel, vehicle, aircraft, merchandise, or baggage a petition for the remission or mitigation of such fine, penalty, or forfeiture, the Secretary of the Treasury, the Commandant of the Coast Guard, or the Commissioner of Customs, if he finds that such fine, penalty, or forfeiture was incurred without willful negligence or without any intention on the part of the petitioner to defraud the revenue or to violate the law, or finds the existence of such mitigating circumstances as to justify the remission or mitigation of such fine, penalty, or forfeiture, may remit or mitigate the same upon such terms and conditions as he deems reasonable and just, or order discontinuance of any prosecution relating thereto. In order to enable him to ascertain the facts, the Secretary of the Treasury may issue a commission to any customs officer to take testimony upon such petition: <i>Provided</i>, That nothing in this section shall be construed to deprive any person of an award of compensation made before the filing of such petition.
 
-(June 17, 1930, ch. 497, title IV, §618, 46 Stat. 757; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 91–271, title III, §301(hh), June 2, 1970, 84 Stat. 291; Pub. L. 98–473, title II, §321, Oct. 12, 1984, 98 Stat. 2056; Pub. L. 98–573, title II, §213(a)(16), Oct. 30, 1984, 98 Stat. 2988.)
-
-#### References in Text
-
-The customs laws, referred to in text, are classified generally to this title.
-
-The navigation laws, referred to in text, are classified generally to Title 33, Navigation and Navigable Waters.
+(June 17, 1930, ch. 497, title IV, §618, 46 Stat. 757; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 91–271,title III, §301(hh), June 2, 1970, 84 Stat. 291; Pub. L. 98–473, title II, §321, Oct. 12, 1984, 98 Stat. 2056; Pub. L. 98–573, title II, §213(a)(16), Oct. 30, 1984, 98 Stat. 2988.)
 
 #### Prior Provisions
 
@@ -18,9 +12,9 @@ Provisions for a petition to the judge of the district, a summary investigation 
 
 #### Amendments
 
-1984—Pub. L. 98–573 and Pub. L. 98–473 inserted reference to aircraft in two places.
+<b>1984</b>—Pub. L. 98–573 and Pub. L. 98–473 inserted reference to aircraft in two places.
 
-1970—Pub. L. 91–271 substituted “customs officer” for “customs agent, collector, judge of the United States Customs Court, or United States commissioner”.
+<b>1970</b>—Pub. L. 91–271 substituted “customs officer” for “customs agent, collector, judge of the United States Customs Court, or United States commissioner”.
 
 #### Effective Date of 1984 Amendment
 
@@ -32,9 +26,9 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 
 Substitution in text of references to Commandant of the Coast Guard and Commissioner of Customs for “the Secretary of Commerce” under the authority of Reorg. Plan No. 3 of 1946, see note set out under section 1613 of this title.
 

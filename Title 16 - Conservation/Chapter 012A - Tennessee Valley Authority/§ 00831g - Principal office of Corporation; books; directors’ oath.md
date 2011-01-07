@@ -2,7 +2,7 @@
 
 #### (a) Location
 
-The Corporation shall maintain its principal office in the immediate vicinity of Muscle Shoals, Alabama. The Corporation shall be heldto be an inhabitant and resident of the northern judicial district of Alabama within the meaning of the laws of the United States relating to the venue of civil suits.
+The Corporation shall maintain its principal office in the immediate vicinity of Muscle Shoals, Alabama. The Corporation shall be held to be an inhabitant and resident of the northern judicial district of Alabama within the meaning of the laws of the United States relating to the venue of civil suits.
 
 #### (b) Account books
 
@@ -16,7 +16,7 @@ Each member of the Board, before entering upon the duties of his office, shall s
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–447 substituted “Board” for “board”.
+<b>2004</b>—Subsec. (c). Pub. L. 108–447 substituted “Board” for “board”.
 
 #### Effective Date of 2004 Amendment
 

@@ -14,9 +14,9 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–181 added subsec. (c).
+<b>2008</b>—Subsec. (c). Pub. L. 110–181 added subsec. (c).
 
-1997—Subsec. (a). Pub. L. 105–85 substituted “housing” for “quarters”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–85 substituted “housing” for “quarters”.
 
 #### Effective Date of 1997 Amendment
 

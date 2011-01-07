@@ -72,7 +72,7 @@ In carrying out a program under subsection (a) of this section, the Secretary sh
 
 #### Amendments
 
-2007—Subsecs. (b), (c). Pub. L. 110–69, §5003(a)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
+<b>2007</b>—Subsecs. (b), (c). Pub. L. 110–69, §5003(a)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 110–69, §5003(a)(3), added subsec. (d) and struck out former subsec. (d). Former text read as follows: “The Secretary shall use not less than 0.3 percent of the amount made available to the Department for research, development, demonstration, and commercial application for fiscal year 2006 and each fiscal year thereafter to carry out activities authorized by this subchapter.”
 
@@ -82,7 +82,7 @@ Subsec. (e). Pub. L. 110–69, §5003(a)(3), added subsec. (e).
 
 Subsec. (f). Pub. L. 110–69, §5003(a)(1), redesignated subsec. (d) as (f).
 
-2005—Subsec. (c). Pub. L. 109–58, §1102(a), added subsec. (c).
+<b>2005</b>—Subsec. (c). Pub. L. 109–58, §1102(a), added subsec. (c).
 
 Subsec. (d). Pub. L. 109–58, §1105(a), added subsec. (d).
 

@@ -18,7 +18,7 @@ As used in this chapter—
 
 &emsp;(6) “person” means any employee, or agent of the United States or any State or political subdivision thereof, and any individual, partnership, association, joint stock company, trust, or corporation;
 
-&emsp;(7) “Investigative or law enforcement officer” means any officer of the United States or of a State or political subdivision thereof, who is empowered by law to conduct investigations of or to make arrests for offenses enumerated in this chapter, and any attorney authorized by law to prosecute or participate in the prosecution of such offenses;
+&emsp;(7) “Investigative or law enforcement officer” means any officer of the United States orof a State or political subdivision thereof, who is empowered by law to conduct investigations of or to make arrests for offenses enumerated in this chapter, and any attorney authorized by law to prosecute or participate in the prosecution of such offenses;
 
 &emsp;(8) “contents”, when used with respect to any wire, oral, or electronic communication, includes any information concerning the substance, purport, or meaning of that communication;
 
@@ -32,7 +32,7 @@ As used in this chapter—
 
 &emsp;(11) “aggrieved person” means a person who was a party to any intercepted wire, oral, or electronic communication or a person against whom the interception was directed;
 
-&emsp;(12) “electronic communication” means any transfer of signs, signals, writing, images,sounds, data, or intelligence of any nature transmitted in whole or in part by a wire, radio, electromagnetic, photoelectronic or photooptical system that affects interstate or foreign commerce, but does not include—
+&emsp;(12) “electronic communication” means any transfer of signs, signals, writing, images, sounds, data, or intelligence of any nature transmitted in whole or in part by a wire, radio, electromagnetic, photoelectronic or photooptical system that affects interstate or foreign commerce, but does not include—
 
 &emsp;&emsp;(A) any wire or oral communication;
 
@@ -96,7 +96,7 @@ As used in this chapter—
 
 &emsp;&emsp;(B) does not include a person known by the owner or operator of the protected computer to have an existing contractual relationship with the owner or operator of the protected computer for access to all or part of the protected computer.
 
-(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 212; amended Pub. L. 99–508, title I, §101(a), (c)(1)(A), (4), Oct. 21, 1986, 100 Stat. 1848, 1851; Pub. L. 103–414, title II, §§202(a), 203, Oct. 25, 1994, 108 Stat. 4290, 4291; Pub. L. 104–132, title VII, §731, Apr. 24, 1996, 110 Stat. 1303; Pub. L. 107–56, title II, §§203(b)(2), 209(1), 217(1), Oct. 26, 2001, 115 Stat. 280, 283, 290; Pub. L. 107–108, title III, §314(b), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 107–273, div. B, title IV, §4002(e)(10), Nov. 2, 2002, 116 Stat. 1810.)
+(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 212; amended Pub. L. 99–508, title I,§101(a), (c)(1)(A), (4), Oct. 21, 1986, 100 Stat. 1848, 1851; Pub. L. 103–414, title II, §§202(a), 203, Oct. 25, 1994, 108 Stat. 4290, 4291; Pub. L. 104–132, title VII, §731, Apr. 24, 1996, 110 Stat. 1303; Pub. L. 107–56, title II, §§203(b)(2), 209(1), 217(1), Oct. 26, 2001, 115 Stat. 280, 283, 290; Pub. L. 107–108, title III, §314(b), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 107–273, div. B, title IV, §4002(e)(10), Nov. 2, 2002, 116 Stat. 1810.)
 
 #### References in Text
 
@@ -104,9 +104,9 @@ Section 3 of the Communications Act of 1934, referred to in par. (10), is classi
 
 #### Amendments
 
-2002—Par. (10). Pub. L. 107–273 substituted “has the meaning given that term in section 3 of the Communications Act of 1934;” for “shall have the same meaning which is given the term ‘common carrier’ by section 153(h) of title 47 of the United States Code;”.
+<b>2002</b>—Par. (10). Pub. L. 107–273 substituted “has the meaning given that term in section 3 of the Communications Act of 1934;” for “shall have the same meaning which is given the term ‘common carrier’ by section 153(h) of title 47 of the United States Code;”.
 
-2001—Par. (1). Pub. L. 107–56, §209(1)(A), struck out “and such term includes any electronic storage of such communication” before semicolon at end.
+<b>2001</b>—Par. (1). Pub. L. 107–56, §209(1)(A), struck out “and such term includes any electronic storage of such communication” before semicolon at end.
 
 Par. (14). Pub. L. 107–56, §209(1)(B), inserted “wire or” after “transmission of”.
 
@@ -116,17 +116,17 @@ Pub. L. 107–56, §203(b)(2), added par. (19).
 
 Pars. (20), (21). Pub. L. 107–56, §217(1), added pars. (20) and (21).
 
-1996—Par. (12)(D). Pub. L. 104–132, §731(1), added subpar. (D).
+<b>1996</b>—Par. (12)(D). Pub. L. 104–132, §731(1), added subpar. (D).
 
 Par. (16)(F). Pub. L. 104–132, §731(2), struck out subpar. (F) which read as follows: “an electronic communication;”.
 
-1994—Par. (1). Pub. L. 103–414, §202(a)(1), struck out before semicolon at end “, but such term does not include the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit”.
+<b>1994</b>—Par. (1). Pub. L. 103–414, §202(a)(1), struck out before semicolon at end “, but such term does not include the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit”.
 
 Par. (12). Pub. L. 103–414, §202(a)(2), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit;”.
 
 Par. (16)(F). Pub. L. 103–414, §203, added subpar. (F).
 
-1986—Par. (1). Pub. L. 99–508, §101(a)(1), substituted “any aural transfer” for “any communication”, inserted “(including the use of such connection in a switching station)” after “reception”, struck out “as a common carrier” after “person engaged”, and inserted “or communications affecting interstate or foreign commerce and such term includes any electronic storage of such communication, but such term does not include the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit” before the semicolon at end.
+<b>1986</b>—Par. (1). Pub. L. 99–508, §101(a)(1), substituted “any aural transfer” for “any communication”, inserted “(including the use of such connection in a switching station)” after “reception”, struck out “as a common carrier” after “person engaged”, and inserted “or communications affecting interstate or foreign commerce and such term includes any electronic storage of such communication, but such term does not include the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit” before the semicolon at end.
 
 Par. (2). Pub. L. 99–508, §101(a)(2), inserted “, but such term does not include any electronic communication” before the semicolon at end.
 

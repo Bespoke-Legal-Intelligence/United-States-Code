@@ -14,7 +14,7 @@
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–435, §401(b)(4)(A), inserted “or 2011” after “section 2005” in first sentence.
+<b>2006</b>—Subsec. (a). Pub. L. 109–435, §401(b)(4)(A), inserted “or 2011” after “section 2005” in first sentence.
 
 Subsec. (b). Pub. L. 109–435, §401(b)(4)(B), inserted “under section 2005” before “in such amounts” in first sentence and before “in excess of such amount.” in second sentence.
 

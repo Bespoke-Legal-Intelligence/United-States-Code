@@ -10,5 +10,5 @@ In selecting among applications submitted under section 11802(a) of this title, 
 
 #### Amendments
 
-1989—Par. (2). Pub. L. 101–204 substituted “have” for “that it has”.
+<b>1989</b>—Par. (2). Pub. L. 101–204 substituted “have” for “that it has”.
 

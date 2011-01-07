@@ -6,13 +6,13 @@ The Secretary shall prescribe such regulations as he may deem necessary in order
 
 #### Amendments
 
-2004—Pub. L. 108–357 inserted at end “In carrying out the preceding sentence, the Secretary may prescribe rules that are different from the provisions of chapter 1 that would apply if such corporations filed separate returns.”
+<b>2004</b>—Pub. L. 108–357 inserted at end “In carrying out the preceding sentence, the Secretary may prescribe rules that are different from the provisions of chapter 1 that would apply if such corporations filed separate returns.”
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §844(c), Oct. 22, 2004, 118 Stat. 1600, provided that: “This section \[amending this section\], and the amendment made by this section, shall apply to taxable years beginning before, on, or after the date of the enactment of this Act \[Oct. 22, 2004\].”
+Pub. L. 108–357, title VIII, §844(c), Oct. 22, 2004, 118 Stat. 1600, provided that: “This section \[amending thissection\], and the amendment made by this section, shall apply to taxable years beginning before, on, or after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
 #### Dual Resident Companies
 
@@ -74,7 +74,7 @@ Common parent.—The term ‘common parent’ means the common parent of the aff
 
 &emsp;“(2)
 
-Qualified excess loss account.—The term ‘qualified excess loss account’ means any excess lossaccount (within the meaning of the consolidated return regulations) to the extent such account is attributable—
+Qualified excess loss account.—The term ‘qualified excess loss account’ means any excess loss account (within the meaning of the consolidated return regulations) to the extent such account is attributable—
 
 &emsp;&emsp;“(A) to taxable years beginning before January 1, 1988, and
 

@@ -40,9 +40,9 @@ Section was formerly classified to section 1135d–5 of this title prior to renu
 
 #### Amendments
 
-2008—Par. (9)(A). Pub. L. 110–315 substituted “supports” for “support” in introductory provisions.
+<b>2008</b>—Par. (9)(A). Pub. L. 110–315 substituted “supports” for “support” in introductory provisions.
 
-1998—Par. (4). Pub. L. 105–244, §307(c), inserted “behavioral,” after “physical,”.
+<b>1998</b>—Par. (4). Pub. L. 105–244, §307(c), inserted “behavioral,” after “physical,”.
 
 #### Effective Date of 1998 Amendment
 

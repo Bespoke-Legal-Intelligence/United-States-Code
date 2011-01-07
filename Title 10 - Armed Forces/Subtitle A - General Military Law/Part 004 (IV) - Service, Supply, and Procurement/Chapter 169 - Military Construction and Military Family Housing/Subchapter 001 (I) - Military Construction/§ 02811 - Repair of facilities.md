@@ -20,7 +20,7 @@ Congressional Notification.—When a decision is made to carry out a repair proj
 
 &emsp;(2) if the current estimate of the cost of the repair project exceeds 75 percent of the estimated cost of a military construction project to replace the facility, an explanation of the reasons why replacement of the facility is not in the best interest of the Government; and
 
-&emsp;(3) a description of the elements of military construction, including the elements specifiedin section 2802(b) of this title, incorporated into the repair project.
+&emsp;(3) a description of the elements of military construction, including the elements specified in section 2802(b) of this title, incorporated into the repair project.
 
 (e)
 
@@ -30,17 +30,17 @@ Repair Project Defined.—In this section, the term “repair project” means a
 
 #### Amendments
 
-2009—Subsec. (d)(2), (3). Pub. L. 111–84 added pars. (2) and (3) and struck out former par. (2) which read as follows: “the justification for carrying out the project under this section.”
+<b>2009</b>—Subsec. (d)(2), (3). Pub. L. 111–84 added pars. (2) and (3) and struck out former par. (2) which read as follows: “the justification for carrying out the project under this section.”
 
-2004—Subsec. (b). Pub. L. 108–375, §2801(a), substituted “$7,500,000” for “$5,000,000”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–375, §2801(a), substituted “$7,500,000” for “$5,000,000”.
 
 Subsec. (d). Pub. L. 108–375, §2801(b), substituted “$7,500,000” for “$10,000,000” in introductory provisions.
 
 Subsec. (d)(1). Pub. L. 108–375, §2801(c), inserted before semicolon “, including, in the case of a multi-year repair project to a single facility, the total cost of all phases of the project”.
 
-1997—Subsecs. (d), (e). Pub. L. 105–85 added subsecs. (d) and (e).
+<b>1997</b>—Subsecs. (d), (e). Pub. L. 105–85 added subsecs. (d) and (e).
 
-1994—Pub. L. 103–337 substituted “Repair” for “Renovation” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1994</b>—Pub. L. 103–337 substituted “Repair” for “Renovation” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) The Secretary concerned may carry out renovation projects that combine maintenance, repair, and minor construction projects for an entire single-purpose facility, or one or more functional areas of a multipurpose facility, using funds available for operations and maintenance.
 

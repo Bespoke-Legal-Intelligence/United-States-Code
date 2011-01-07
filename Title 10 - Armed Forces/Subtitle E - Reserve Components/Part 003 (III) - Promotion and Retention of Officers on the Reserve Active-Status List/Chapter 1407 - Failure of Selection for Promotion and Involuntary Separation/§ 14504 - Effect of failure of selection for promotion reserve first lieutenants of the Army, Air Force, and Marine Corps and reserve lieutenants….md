@@ -16,5 +16,5 @@ Officers in Grade of First Lieutenant or Lieutenant (Junior Grade) Found Not Ful
 
 #### Amendments
 
-2001—Subsec. (c). Pub. L. 107–107 added subsec. (c).
+<b>2001</b>—Subsec. (c). Pub. L. 107–107 added subsec. (c).
 

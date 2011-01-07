@@ -14,7 +14,7 @@ The Secretary of Energy shall adopt procedures to provide for timely and efficie
 
 #### Amendments
 
-1994—Subsec. (b)(2). Pub. L. 103–437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology”.
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology”.
 
 #### Change of Name
 

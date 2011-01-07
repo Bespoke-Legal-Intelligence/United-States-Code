@@ -66,7 +66,7 @@ A prior section 49f, act June 6, 1933, ch. 49, §7, 48 Stat. 115, related to asc
 
 #### Amendments
 
-1998—Subsec. (b)(2). Pub. L. 105–220, §305(1), substituted “local workforce investment board” for “private industry council”.
+<b>1998</b>—Subsec. (b)(2). Pub. L. 105–220, §305(1), substituted “local workforce investment board” for “private industry council”.
 
 Subsec. (c)(2). Pub. L. 105–220, §305(2), substituted “any workforce investment activity carried out under the Workforce Investment Act of 1998.” for “any program under any of the following provisions of law:
 
@@ -80,7 +80,7 @@ Pub. L. 105–220, §305(3), substituted “Secretary or any State” for “Uni
 
 Subsec. (e). Pub. L. 105–220, §305(4), added subsec. (e).
 
-1990—Subsecs. (c), (d). Pub. L. 101–392 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1990</b>—Subsecs. (c), (d). Pub. L. 101–392 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 #### Effective Date of 1998 Amendment
 

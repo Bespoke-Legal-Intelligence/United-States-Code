@@ -62,7 +62,7 @@ A prior section 205 of Pub. L. 89–73 was renumbered section 204 and is classif
 
 #### Amendments
 
-2006—Subsec. (a)(1)(C) to (E). Pub. L. 109–365, §204(1)(A), in subpar. (C) inserted “and” at end, in subpar. (D) substituted period for “; and” at end, and struck out subpar. (E) which read as follows: “provide staff and other technical assistance to the Federal Council on the Aging.”
+<b>2006</b>—Subsec. (a)(1)(C) to (E). Pub. L. 109–365, §204(1)(A), in subpar. (C) inserted “and” at end, in subpar. (D) substituted period for “; and” at end, and struck out subpar. (E) which read as follows: “provide staff and other technical assistance to the Federal Council on the Aging.”
 
 Subsec. (a)(2)(A)(i). Pub. L. 109–365, §204(1)(B)(i)(I), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “designing, implementing, and evaluating nutrition programs;”.
 
@@ -72,7 +72,7 @@ Subsec. (a)(2)(A)(viii) to (x). Pub. L. 109–365, §204(1)(B)(i)(III), (IV), ad
 
 Subsec. (a)(2)(C)(i). Pub. L. 109–365, §204(1)(B)(ii), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “have expertise in nutrition and dietary services and planning; and”.
 
-2000—Subsec. (a)(2)(A). Pub. L. 106–501, §801(b)(3), substituted “subparts I and II” for “subparts I, II, and III” in introductory provisions.
+<b>2000</b>—Subsec. (a)(2)(A). Pub. L. 106–501, §801(b)(3), substituted “subparts I and II” for “subparts I, II, and III” in introductory provisions.
 
 Subsecs. (c) to (e). Pub. L. 106–501, §202(3), redesignated subsec. (e) as (c) and struck out former subsecs. (c) and (d) which read as follows:
 
@@ -80,21 +80,21 @@ Subsecs. (c) to (e). Pub. L. 106–501, §202(3), redesignated subsec. (e) as (c
 
 “(d) Not later than September 1 of each fiscal year, the Assistant Secretary shall make available to the public, for the purpose of facilitating informed public comment, a statement of proposed specific goals to be achieved by implementing this chapter in the first fiscal year beginning after the date on which such statement is made available.”
 
-1993—Subsecs. (a), (b), (d). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” wherever appearing.
+<b>1993</b>—Subsecs. (a), (b), (d). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 
-1992—Subsec. (a). Pub. L. 102–375 designated existing provisions as par. (1), substituted “objectives” for “purposes” and “to—” for “to:” in introductory provisions, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, and added par. (2).
+<b>1992</b>—Subsec. (a). Pub. L. 102–375 designated existing provisions as par. (1), substituted “objectives” for “purposes” and “to—” for “to:” in introductory provisions, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, and added par. (2).
 
-1987—Subsec. (c). Pub. L. 100–175, §109, substituted “October 9, 1987” for “October 9, 1984”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–175, §109, substituted “October 9, 1987” for “October 9, 1984”.
 
 Subsecs. (d), (e). Pub. L. 100–175, §110, added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1984—Subsec. (b). Pub. L. 98–459, §205(a), substituted “the functions of the Administration” for “his functions”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–459, §205(a), substituted “the functions of the Administration” for “his functions”.
 
 Subsecs. (c), (d). Pub. L. 98–459, §205(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1981—Subsecs. (b) to (d). Pub. L. 97–115, §2(g), struck out subsec. (b) providing that a report be prepared and submitted to Congress by the Commissioner not later than Sept. 30, 1980, and redesignated subsecs. (c) and (d) as (b) and (c), respectively.
+<b>1981</b>—Subsecs. (b) to (d). Pub. L. 97–115, §2(g), struck out subsec. (b) providing that a report be prepared and submitted to Congress by the Commissioner not later than Sept. 30, 1980, and redesignated subsecs. (c) and (d) as (b) and (c), respectively.
 
-1978—Subsecs. (b) to (d). Pub. L. 95–478 added subsec. (b) and redesignated existing subsecs. (b) and (c) as (c) and (d).
+<b>1978</b>—Subsecs. (b) to (d). Pub. L. 95–478 added subsec. (b) and redesignated existing subsecs. (b) and (c) as (c) and (d).
 
 #### Effective Date of 1987 Amendment
 

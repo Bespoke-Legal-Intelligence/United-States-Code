@@ -6,21 +6,21 @@
 
 (c) Of the amounts appropriated pursuant to subsection (a) of this section for fiscal year 1991, such sums as may be necessary not to exceed $2,000,000 shall be expended for upgrading and modernizing equipment at the Commission's electronic emissions test laboratory located in Laurel, Maryland.
 
-(d) Of the sum appropriated in any fiscal year under this section, a portion, in an amount determined under section 159(b) of this title, shall be derived from fees authorized by section 159 of this title.
+(d) Of the sum appropriated in any fiscal year under this section, a portion, in an amount determined under section 159(b) of this title, shallbe derived from fees authorized by section 159 of this title.
 
 (June 19, 1934, ch. 652, title I, §6, as added Pub. L. 97–35, title XII, §1251(a), Aug. 13, 1981, 95 Stat. 738; amended Pub. L. 98–214, §2(a), Dec. 8, 1983, 97 Stat. 1467; Pub. L. 99–272, title V, §5002(a)(1), Apr. 7, 1986, 100 Stat. 117; Pub. L. 100–594, §2(a), Nov. 3, 1988, 102 Stat. 3021; Pub. L. 101–396, §2(a), Sept. 28, 1990, 104 Stat. 848; Pub. L. 103–66, title VI, §6003(b), Aug. 10, 1993, 107 Stat. 401.)
 
 #### Amendments
 
-1993—Subsec. (d). Pub. L. 103–66 added subsec. (d).
+<b>1993</b>—Subsec. (d). Pub. L. 103–66 added subsec. (d).
 
-1990—Pub. L. 101–396 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated for the administration of this chapter by the Commission $107,250,000 for fiscal year 1988 and $109,250,000 for fiscal year 1989, together with such sums as may be necessary for increases resulting from adjustments in salary, pay, retirement, other employee benefits required by law, and other nondiscretionary costs, for each of the fiscal years 1988 and 1989.”
+<b>1990</b>—Pub. L. 101–396 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated for the administration of this chapter by the Commission $107,250,000 for fiscal year 1988 and $109,250,000 for fiscal year 1989, together with such sums as may be necessary for increases resulting from adjustments in salary, pay, retirement, other employee benefits required by law, and other nondiscretionary costs, for each of the fiscal years 1988 and 1989.”
 
-1988—Pub. L. 100–594 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated for the administration of this chapter by the Commission $98,100,000 for fiscal year 1986 and $97,600,000 for fiscal year 1987, together with such sums as may be necessary for increases resulting from adjustments in salary, pay, retirement, other employee benefits required by law, and other nondiscretionary costs, for each of the fiscal years 1986 and 1987.”
+<b>1988</b>—Pub. L. 100–594 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated for the administration of this chapter by the Commission $98,100,000 for fiscal year 1986 and $97,600,000 for fiscal year 1987, together with such sums as may be necessary for increases resulting from adjustments in salary, pay, retirement, other employee benefits required by law, and other nondiscretionary costs, for each of the fiscal years 1986 and 1987.”
 
-1986—Pub. L. 99–272 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated for the administration of this chapter by the Commission $91,156,000, together with such sums as may be necessary for increases resulting from adjustments in salary, pay, retirement, other employee benefits required by law, and other nondiscretionary costs, for each of the fiscal years 1984 and 1985.”
+<b>1986</b>—Pub. L. 99–272 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated for the administration of this chapter by the Commission $91,156,000, together with such sums as may be necessary for increases resulting from adjustments in salary, pay, retirement, other employee benefits required by law, and other nondiscretionary costs, for each of the fiscal years 1984 and 1985.”
 
-1983—Pub. L. 98–214 substituted provisions authorizing appropriations of $91,156,000 for each of the fiscal years 1984 and 1985 for provisions authorizing appropriations of $76,900,000 for each of the fiscal years 1982 and 1983.
+<b>1983</b>—Pub. L. 98–214 substituted provisions authorizing appropriations of $91,156,000 for each of the fiscal years 1984 and 1985 for provisions authorizing appropriations of $76,900,000 for each of the fiscal years 1982 and 1983.
 
 #### Effective Date of 1988 Amendment
 

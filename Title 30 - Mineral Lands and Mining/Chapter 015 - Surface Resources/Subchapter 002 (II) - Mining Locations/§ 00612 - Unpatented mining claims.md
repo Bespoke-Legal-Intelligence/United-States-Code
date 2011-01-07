@@ -14,7 +14,3 @@ Except to the extent required for the mining claimant's prospecting, mining or p
 
 (July 23, 1955, ch. 375, §4, 69 Stat. 368.)
 
-#### References in Text
-
-The mining laws of the United States, referred to in text, are classified generally to this title.
-

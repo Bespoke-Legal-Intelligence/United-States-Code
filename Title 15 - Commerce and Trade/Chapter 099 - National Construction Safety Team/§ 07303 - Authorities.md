@@ -24,7 +24,7 @@ An inspection, test, or other action taken by a Team under this section shall be
 
 #### (1) With search and rescue efforts
 
-&emsp;A Team shall not impede, and shall coordinate its investigation with, any search and rescue efforts being undertaken at the site of the building failure.
+&emsp;A Team shall not impede, and shall coordinate its investigation with, any search andrescue efforts being undertaken at the site of the building failure.
 
 #### (2) With other research
 

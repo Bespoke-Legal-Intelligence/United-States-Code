@@ -60,6 +60,10 @@ The amount of fees assessed by accrediting entities for the costs of accreditati
 
 (Pub. L. 106–279, title II, §202, Oct. 6, 2000, 114 Stat. 831.)
 
+#### References in Text
+
+This subchapter, referred to in subsec. (a)(1), was in the original “this title”, meaning title II of Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 830, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
 #### Effective Date
 
 Section effective Oct. 6, 2000, with transition rule, see section 505(a)(1), (b) of Pub. L. 106–279, set out as an Effective Dates; Transition Rule note under section 14901 of this title.

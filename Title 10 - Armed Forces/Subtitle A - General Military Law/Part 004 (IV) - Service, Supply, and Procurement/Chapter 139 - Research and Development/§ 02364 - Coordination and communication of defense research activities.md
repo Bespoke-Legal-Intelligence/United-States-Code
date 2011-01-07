@@ -38,7 +38,7 @@ Definitions.—In this section:
 
 #### Amendments
 
-1996—Subsec. (b)(5). Pub. L. 104–106, §805(1), substituted “acquisition program” for “milestone O, milestone I, and milestone II”.
+<b>1996</b>—Subsec. (b)(5). Pub. L. 104–106, §805(1), substituted “acquisition program” for “milestone O, milestone I, and milestone II”.
 
 Subsec. (c)(2) to (4). Pub. L. 104–106, §805(2), added par. (2) and struck out former pars. (2) to (4) which read as follows:
 
@@ -48,7 +48,7 @@ Subsec. (c)(2) to (4). Pub. L. 104–106, §805(2), added par. (2) and struck ou
 
 “(4) The term ‘milestone II decision’ means the decision by an appropriate official of the Department of Defense approving the full-scale development of a new major weapon system.”
 
-1987—Pub. L. 100–26, §3(1)(A), made technical amendment to directory language of section 234(c)(1) of Pub. L. 99–661, which enacted this section.
+<b>1987</b>—Pub. L. 100–26, §3(1)(A), made technical amendment to directory language of section 234(c)(1) of Pub. L. 99–661, which enacted this section.
 
 Pub. L. 100–180, §1231(10)(B), substituted “defense” for “Defense” in section catchline.
 
@@ -90,7 +90,7 @@ Purpose.—The purpose of this section is to strengthen coordination among Depar
 
 “(b)
 
-Findings.—The Congress finds that centralized coordination of the collection and dissemination of technological data among research facilities and other organizations within the Department of Defense is necessary—
+Findings.—The Congress finds that centralized coordination of the collection and dissemination oftechnological data among research facilities and other organizations within the Department of Defense is necessary—
 
 &emsp;“(1) to ensure that personnel of the Department are currently informed about emerging technology for defense systems; and
 

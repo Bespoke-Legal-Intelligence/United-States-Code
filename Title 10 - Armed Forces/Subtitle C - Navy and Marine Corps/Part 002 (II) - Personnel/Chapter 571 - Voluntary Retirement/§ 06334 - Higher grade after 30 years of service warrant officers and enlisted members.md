@@ -25,5 +25,5 @@
 
 #### Amendments
 
-1989—Subsec. (a). Pub. L. 101–189 substituted “December 4, 1987” for “the date of the enactment of this section”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189 substituted “December 4, 1987” for “the date of the enactment of this section”.
 

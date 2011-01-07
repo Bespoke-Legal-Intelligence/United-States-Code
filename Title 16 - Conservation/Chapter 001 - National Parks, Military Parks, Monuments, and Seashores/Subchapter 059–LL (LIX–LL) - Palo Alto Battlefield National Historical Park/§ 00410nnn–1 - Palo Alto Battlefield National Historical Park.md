@@ -28,7 +28,7 @@ In order to preserve for the education, benefit, and inspiration of present and 
 
 #### Amendments
 
-2009—Pub. L. 111–11, §7113(a)(3)(B), substituted “National Historical Park” for “National Historic Site” in section catchline.
+<b>2009</b>—Pub. L. 111–11, §7113(a)(3)(B), substituted “National Historical Park” for “National Historic Site” in section catchline.
 
 Subsec. (a). Pub. L. 111–11, §7113(a)(3)(A), (C), substituted “National Historical Park” for “National Historic Site” and “historical park” for “historic site”.
 
@@ -46,7 +46,7 @@ Pub. L. 111–11, §7113(b)(2), redesignated par. (2) as (3).
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives onJan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
 #### Establishment of Palo Alto Battlefield National Historic Site
 

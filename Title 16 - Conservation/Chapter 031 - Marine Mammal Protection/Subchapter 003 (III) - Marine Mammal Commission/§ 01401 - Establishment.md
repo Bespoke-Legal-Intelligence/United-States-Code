@@ -20,19 +20,15 @@ Members of the Commission shall each be compensated at a rate equal to the daily
 
 #### (e) Executive Director
 
-The Commission shall have an Executive Director, who shall be appointed (without regard to the provisions of title 5 governing appointments in the competitive service) by the Chairman with the approval of the Commission and shall be paid at a rate not in excess of the rate for GS–18 of the General Schedule under section 5332 of title 5. The Executive Director shall have such duties as the Chairman may assign.
+The Commission shall have an Executive Director, who shall be appointed (without regard to the provisions of title 5 governing appointments in the competitive service) by the Chairman with the approval of the Commission and shall be paid at a rate not in excess of the rate for GS–18 of the General Schedule under section5332 of title 5. The Executive Director shall have such duties as the Chairman may assign.
 
 (Pub. L. 92–522, title II, §201, Oct. 21, 1972, 86 Stat. 1043; Pub. L. 97–389, title II, §202, Dec. 29, 1982, 96 Stat. 1951; Pub. L. 98–364, title I, §103(a), July 17, 1984, 98 Stat. 441.)
 
-#### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (e), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 #### Amendments
 
-1984—Subsec. (b)(1). Pub. L. 98–364 substituted “The President shall make his selection from a list of individuals knowledgeable in the fields of marine ecology and resource management, and who are not in a position to profit from the taking of marine mammals. Such list shall be submitted to him by the Chairman of the Council on Environmental Quality and unanimously agreed to by that Chairman, the Secretary of the Smithsonian Institution, the Director of the National Science Foundation and the Chairman of the National Academy of Sciences” for “The President shall make his selection from a list, submitted to him by the Chairman of the Council on Environmental Quality, the Secretary of the Smithsonian Institution, the Director of the National Science Foundation, and the Chairman of the National Academy of Sciences, of individuals knowledgeable in the fields of marine ecology and resource management, and who are not in a position to profit from the taking of marine mammals”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–364 substituted “The President shall make his selection from a list of individuals knowledgeable in the fields of marine ecology and resource management, and who are not in a position to profit from the taking of marine mammals. Such list shall be submitted to him by the Chairman of the Council on Environmental Quality and unanimously agreed to by that Chairman, the Secretary of the Smithsonian Institution, the Director of the National Science Foundation and the Chairman of the National Academy of Sciences” for “The President shall make his selection from a list, submitted to him by the Chairman of the Council on Environmental Quality, the Secretary of the Smithsonian Institution, the Director of the National Science Foundation, and the Chairman of the National Academy of Sciences, of individuals knowledgeable in the fields of marine ecology and resource management, and who are not in a position to profit from the taking of marine mammals”.
 
-1982—Subsec. (b)(1). Pub. L. 97–389 inserted requirement that, effective Sept. 1, 1982, the three members ofthe Commission be appointed by and with the advice and consent of the Senate.
+<b>1982</b>—Subsec. (b)(1). Pub. L. 97–389 inserted requirement that, effective Sept. 1, 1982, the three members of the Commission be appointed by and with the advice and consent of the Senate.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

@@ -4,11 +4,13 @@
 
 #### (f) Application of laws on interest of Members of Congress in contracts
 
-The provisions of section 22 of title 41 shall not apply to any crop insurance agreements made under this subchapter.
+The provisions of section 6306 of title 41 shall not apply to any crop insurance agreements made under this subchapter.
 
 (Feb. 16, 1938, ch. 30, title V, §514, 52 Stat. 76; June 25, 1948, ch. 645, §§4, 21, 62 Stat. 859, 862; Pub. L. 110–234, title XII, §12033(c)(2)(B), May 22, 2008, 122 Stat. 1405; Pub. L. 110–246, §4(a), title XII, §12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2167.)
 
 #### Codification
+
+In subsec. (f), “section 6306 of title 41” substituted for “section 3741 of the Revised Statutes (U.S.C., title 41, sec. 22)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 

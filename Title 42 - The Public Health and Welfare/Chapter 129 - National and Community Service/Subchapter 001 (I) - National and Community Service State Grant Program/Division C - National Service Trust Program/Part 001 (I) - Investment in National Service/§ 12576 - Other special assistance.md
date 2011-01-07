@@ -20,7 +20,7 @@
 
 #### (B) Amounts greater than $100,000
 
-&emsp;&emsp;For grant amounts of more than $100,000 and not more than $250,000 provided by the Corporation, the State shall agree to provide matching funds from non-Federal sources of not less than $1 for every $2 provided by the Corporation, in excess of $100,000.
+&emsp;&emsp;For grant amounts of more than $100,000 and not more than $250,000 provided by the Corporation, the State shall agree to provide matching funds from non-Federal sources ofnot less than $1 for every $2 provided by the Corporation, in excess of $100,000.
 
 #### (C) Amounts greater than $250,000
 
@@ -74,7 +74,7 @@ Section 12580, Pub. L. 101–610, title I, §150, Nov. 16, 1990, 104 Stat. 3156,
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–13, §1305(1)(A), substituted “$250,000 and $1,000,000” for “$125,000 and $750,000” and “12681(a)(5)” for “12681(a)(4)”.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–13, §1305(1)(A), substituted “$250,000 and $1,000,000” for “$125,000 and $750,000” and “12681(a)(5)” for “12681(a)(4)”.
 
 Subsec. (a)(2), (3). Pub. L. 111–13, §1305(1)(B), added pars. (2) and (3) and struck out former par. (2). Text of former par. (2) read as follows: “Notwithstanding the amounts specified in paragraph (1), the amount of a grant that may be provided to a State Commission under this subsection, together with other Federal funds available to establish or operate the State Commission, may not exceed—
 

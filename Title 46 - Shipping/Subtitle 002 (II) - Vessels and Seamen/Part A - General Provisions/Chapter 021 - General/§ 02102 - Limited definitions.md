@@ -18,13 +18,13 @@ Section 2102 contains a number of definitions that are limited to recreational v
 
 #### Amendments
 
-2006—Pub. L. 109–304 redesignated subsec. (b) as entire section, substituted “west” for “West” and “east” for “East”, and struck out subsec. (a) which defined “eligible State”, “State”, “United States”, and “State recreational boating safety program” in chapters 37, 43, 51, and 123 of this title and part I of this subtitle.
+<b>2006</b>—Pub. L. 109–304 redesignated subsec. (b) as entire section, substituted “west” for “West” and “east” for “East”, and struck out subsec. (a) which defined “eligible State”, “State”, “United States”, and “State recreational boating safety program” in chapters 37, 43, 51, and 123 of this title and part I of this subtitle.
 
-1990—Pub. L. 101–595 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1990</b>—Pub. L. 101–595 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1986—Pub. L. 99–509 inserted reference to chapters 37 and 51.
+<b>1986</b>—Pub. L. 99–509 inserted reference to chapters 37 and 51.
 
-1984—Par. (1). Pub. L. 98–369, §1011(a)(1), struck out “and facilities improvement” after “recreational boating safety”.
+<b>1984</b>—Par. (1). Pub. L. 98–369, §1011(a)(1), struck out “and facilities improvement” after “recreational boating safety”.
 
 Par. (3). Pub. L. 98–369, §1011(a)(2), (3), redesignated par. (5) as (3) and struck out former par. (3) which defined a State recreational boating facilities improvement program.
 

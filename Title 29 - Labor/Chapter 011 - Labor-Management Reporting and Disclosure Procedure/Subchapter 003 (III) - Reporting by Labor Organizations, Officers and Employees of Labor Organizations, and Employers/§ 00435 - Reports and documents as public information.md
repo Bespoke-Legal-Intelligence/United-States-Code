@@ -16,5 +16,5 @@ The Secretary shall by regulation provide for the furnishing by the Department o
 
 #### Amendments
 
-1965—Pub. L. 89–216 inserted references to section 441 of this title.
+<b>1965</b>—Pub. L. 89–216 inserted references to section 441 of this title.
 

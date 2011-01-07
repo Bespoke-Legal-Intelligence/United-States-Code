@@ -50,7 +50,7 @@ In this chapter:
 
 &emsp;&emsp;(A) result in laws, regulations, policies, practices, procedures, or organizational structures that promote consumer-responsive programs or entities; and
 
-&emsp;&emsp;(B) facilitate and increase access to, provision of, and funding for, assistive technologydevices and assistive technology services, in order to empower individuals with disabilities to achieve greater independence, productivity, and integration and inclusion within the community and the workforce.
+&emsp;&emsp;(B) facilitate and increase access to, provision of, and funding for, assistive technology devices and assistive technology services, in order to empower individuals with disabilities to achieve greater independence, productivity, and integration and inclusion within the community and the workforce.
 
 #### (7) Comprehensive statewide program of technology-related assistance
 
@@ -190,9 +190,9 @@ The Protection and Advocacy for Individuals with Mental Illness Act, referred to
 
 #### Amendments
 
-2008—Par. (11). Pub. L. 110–315 substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
+<b>2008</b>—Par. (11). Pub. L. 110–315 substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 
-2004—Pub. L. 108–364 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to definitions and references.
+<b>2004</b>—Pub. L. 108–364 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to definitions and references.
 
-2000—Subsec. (a)(11)(A). Pub. L. 106–402 substituted “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.)”.
+<b>2000</b>—Subsec. (a)(11)(A). Pub. L. 106–402 substituted “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.)”.
 

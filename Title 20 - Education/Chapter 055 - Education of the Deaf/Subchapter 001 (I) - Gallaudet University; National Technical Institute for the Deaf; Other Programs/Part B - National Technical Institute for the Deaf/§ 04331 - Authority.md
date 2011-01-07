@@ -6,7 +6,7 @@ For the purpose of providing a residential facility for postsecondary technical 
 
 #### Amendments
 
-1993—Pub. L. 103–73 substituted “part” for “subchapter”.
+<b>1993</b>—Pub. L. 103–73 substituted “part” for “subchapter”.
 
 #### Prior Provisions
 

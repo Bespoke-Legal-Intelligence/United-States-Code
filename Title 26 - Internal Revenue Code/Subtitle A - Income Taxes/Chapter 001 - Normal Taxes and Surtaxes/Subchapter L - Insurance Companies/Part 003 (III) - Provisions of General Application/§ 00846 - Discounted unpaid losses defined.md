@@ -188,7 +188,7 @@ For purposes of this section—
 
 #### (6) Special rule for certain accident and health insurance lines of business
 
-&emsp;Any determination under subsection (a) with respect to unpaid losses relating to accident and health insurance lines of businesses (other than credit disability insurance) shall be made—
+&emsp;Any determination under subsection (a) with respect to unpaid losses relating to accidentand health insurance lines of businesses (other than credit disability insurance) shall be made—
 
 &emsp;&emsp;(A) in the case of unpaid losses relating to disability income, by using the general rules prescribed under section 807(d) applicable to noncancellable accident and health insurance contracts and using a mortality or morbidity table reflecting the taxpayer's experience; except that—
 
@@ -210,9 +210,9 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-1990—Subsec. (g). Pub. L. 101–508 inserted “and” at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which required regulations providing proper treatment of salvage and reinsurance recoverable attributable to unpaid losses.
+<b>1990</b>—Subsec. (g). Pub. L. 101–508 inserted “and” at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which required regulations providing proper treatment of salvage and reinsurance recoverable attributable to unpaid losses.
 
-1988—Subsec. (f)(6)(B). Pub. L. 100–647, §1010(e)(1), substituted “paid in the middle of the year” for “paid during the year”.
+<b>1988</b>—Subsec. (f)(6)(B). Pub. L. 100–647, §1010(e)(1), substituted “paid in the middle of the year” for “paid during the year”.
 
 Subsec. (g)(3). Pub. L. 100–647, §1010(e)(2), added par. (3).
 

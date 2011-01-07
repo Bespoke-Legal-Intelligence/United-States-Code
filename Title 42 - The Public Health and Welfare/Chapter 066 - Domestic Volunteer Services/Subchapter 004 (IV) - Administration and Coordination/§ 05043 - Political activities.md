@@ -36,9 +36,13 @@ The Director, after consultation with the Office of Personnel Management, shall 
 
 (Pub. L. 93–113, title IV, §403, Oct. 1, 1973, 87 Stat. 408; Pub. L. 96–143, §§8, 18(c)(1), Dec. 13, 1979, 93 Stat. 1077, 1083; Pub. L. 96–187, title I, §112(e)(1), Jan. 8, 1980, 93 Stat. 1366; Pub. L. 99–551, §10(i)(6), Oct. 27, 1986, 100 Stat. 3078; Pub. L. 103–82, title III, §363, title IV, §405(a)(7), Sept. 21, 1993, 107 Stat. 907, 920.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a) to (c), was in the original “this Act”, meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–82, §405(a)(7), substituted “administered by the Corporation under this chapter” for “administered by the ACTION Agency” and “of the Corporation” for “of the ACTION Agency”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–82, §405(a)(7), substituted “administered by the Corporation under this chapter” for “administered by the ACTION Agency” and “of the Corporation” for “of the ACTION Agency”.
 
 Subsec. (b)(1). Pub. L. 103–82, §363(3), added par. (1) and struck out former par. (1) which read as follows: “Programs assisted under this chapter shall not be carried on in a manner involving the use of funds, the provision of services, or the employment or assignment of personnel in a manner supporting or resulting in the identification of such programs with (A) any partisan or non-partisan political activity or any other political activity associated with a candidate, or contending faction or group, in an election for public or party office, (B) any activity to provide voters or prospective voters with transportation to the polls or similar assistance in connection with any such election, or (C) any voter registration activity.”
 
@@ -48,11 +52,11 @@ Subsec. (c). Pub. L. 103–82, §363(1), (2), redesignated subsec. (b)(2) as sub
 
 Subsec. (d). Pub. L. 103–82, §363(1), redesignated subsec. (c) as (d).
 
-1986—Subsec. (a). Pub. L. 99–551 substituted “an official capacity” for “his official capacity”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–551 substituted “an official capacity” for “his official capacity”.
 
-1980—Subsec. (a). Pub. L. 96–187 substituted “section 431(1) of title 2” and “section 431(3) of title 2” for “section 431(a) of title 2” and “section 431(c) of title 2”, respectively.
+<b>1980</b>—Subsec. (a). Pub. L. 96–187 substituted “section 431(1) of title 2” and “section 431(3) of title 2” for “section 431(a) of title 2” and “section 431(c) of title 2”, respectively.
 
-1979—Pub. L. 96–143, §8(a), inserted “or the outcome of any election to any State or local public office,” after “Federal office,” and “(when referring to an election for Federal office)” before “has the same meaning”.
+<b>1979</b>—Pub. L. 96–143, §8(a), inserted “or the outcome of any election to any State or local public office,” after “Federal office,” and “(when referring to an election for Federal office)” before “has the same meaning”.
 
 Subsec. (b). Pub. L. 96–143, §8(b), designated existing provisions as par. (1), cls. (1) to (3) thereof as cls. (A) to (C), and last sentence thereof as subsec. (c), and added par. (2).
 

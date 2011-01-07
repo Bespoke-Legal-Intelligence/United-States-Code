@@ -22,7 +22,7 @@ Another prior section 305 of act July 14, 1955, ch. 360, title III, formerly §1
 
 #### Amendments
 
-1977—Pub. L. 95–95 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1977</b>—Pub. L. 95–95 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1977 Amendment
 

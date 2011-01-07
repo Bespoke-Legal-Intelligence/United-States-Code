@@ -52,7 +52,7 @@ All meetings of the board of directors will be conducted in accordance with the 
 
 #### Amendments
 
-1988—Subsec. (a)(1). Pub. L. 100–242, §520(a)(1), inserted “or a member of the Federal Home Loan Bank Board to be designated by the Chairman” before semicolon.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–242, §520(a)(1), inserted “or a member of the Federal Home Loan Bank Board to be designated by the Chairman” before semicolon.
 
 Subsec. (a)(3). Pub. L. 100–242, §520(a)(2), added par. (3) and struck out former par. (3) which read as follows: “a member of the Board of Governors of the Federal Reserve System, to be designated by the Chairman of the Board of Governors of the Federal Reserve System;”.
 
@@ -62,7 +62,7 @@ Subsec. (a)(6). Pub. L. 100–628 struck out second of the two periods at end.
 
 Pub. L. 100–242, §520(a)(4), substituted “Chairman” for “Administrator” and inserted “or a member of the Board of the National Credit Union Administration to be designated by the Chairman.” before period.
 
-1982—Subsecs. (f) to (i). Pub. L. 97–320 added subsec. (f), redesignated former subsecs. (f) to (h) as (g) to (i), respectively, and in subsec. (g) inserted “, or their representatives as provided in subsection (f) of this section,”.
+<b>1982</b>—Subsecs. (f) to (i). Pub. L. 97–320 added subsec. (f), redesignated former subsecs. (f) to (h) as (g) to (i), respectively, and in subsec. (g) inserted “, or their representatives as provided in subsection (f) of this section,”.
 
 #### Transfer of Functions
 

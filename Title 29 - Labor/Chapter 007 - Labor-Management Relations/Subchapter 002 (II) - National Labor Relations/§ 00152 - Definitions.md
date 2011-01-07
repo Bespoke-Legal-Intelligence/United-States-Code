@@ -42,13 +42,13 @@ The Railway Labor Act, referred to in pars. (2) and (3), is act May 20, 1926, ch
 
 #### Amendments
 
-1978—Par. (1). Pub. L. 95–598 substituted “cases under title 11” for “bankruptcy”.
+<b>1978</b>—Par. (1). Pub. L. 95–598 substituted “cases under title 11” for “bankruptcy”.
 
-1974—Par. (2). Pub. L. 93–360, §1(a), struck out provisions which had excepted from definition of “employer” corporations and associations operating hospitals if no part of the net earnings inured to the benefit of any private shareholder or individual.
+<b>1974</b>—Par. (2). Pub. L. 93–360, §1(a), struck out provisions which had excepted from definition of “employer” corporations and associations operating hospitals if no part of the net earnings inured to the benefit of any private shareholder or individual.
 
 Par. (14). Pub. L. 93–360, §1(b), added par. (14).
 
-1947—Act June 23, 1947, amended section generally to redefine terms used in this subchapter and to define several new terms.
+<b>1947</b>—Act June 23, 1947, amended section generally to redefine terms used in this subchapter and to define several new terms.
 
 #### Effective Date of 1978 Amendment
 

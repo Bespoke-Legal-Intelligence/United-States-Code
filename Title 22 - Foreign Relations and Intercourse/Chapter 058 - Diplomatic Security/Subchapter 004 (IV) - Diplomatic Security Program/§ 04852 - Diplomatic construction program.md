@@ -42,7 +42,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(G) has the existing technical and financial resources in the United States to perform the contract; and
 
-&emsp;(3) the term “qualified United States joint venture person” means a joint venture in which a United States person or persons ownsat least 51 percent of the assets of the joint venture.
+&emsp;(3) the term “qualified United States joint venture person” means a joint venture in which a United States person or persons owns at least 51 percent of the assets of the joint venture.
 
 #### (d) American minority contractors
 
@@ -64,11 +64,11 @@ Title II of the State Department Basic Authorities Act of 1956, referred to in s
 
 #### Amendments
 
-2002—Subsec. (c)(2)(D). Pub. L. 107–228 inserted “or at a United States diplomatic or consular establishment abroad” after “United States”.
+<b>2002</b>—Subsec. (c)(2)(D). Pub. L. 107–228 inserted “or at a United States diplomatic or consular establishment abroad” after “United States”.
 
-1994—Subsec. (a)(2). Pub. L. 103–236 substituted “Secretary of State” for “Assistant Secretary for Diplomatic Security”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–236 substituted “Secretary of State” for “Assistant Secretary for Diplomatic Security”.
 
-1991—Subsec. (a)(1). Pub. L. 102–138, §131(1), substituted “$10,000,000” for “$5,000,000”.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–138, §131(1), substituted “$10,000,000” for “$5,000,000”.
 
 Subsec. (a)(2). Pub. L. 102–138, §131(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “bid on a diplomatic construction or design project which involves physical or technical security, unless the project—
 
@@ -78,7 +78,7 @@ Subsec. (a)(2). Pub. L. 102–138, §131(2), amended par. (2) generally. Prior t
 
 &emsp;“(C) does not exceed a total value of $500,000.”
 
-1990—Subsec. (a)(2). Pub. L. 101–246 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “bid on a diplomatic construction or design project which involves physical or technical security.”
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–246 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “bid on a diplomatic construction or design project which involves physical or technical security.”
 
 #### Effective Date of 1994 Amendment
 

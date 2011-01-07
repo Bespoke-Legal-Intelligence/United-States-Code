@@ -1,6 +1,6 @@
 ### §9411. Establishment: purpose
 
-The Secretary of the Air Force may maintain schools and camps for the military instructionand training of persons selected, upon their application, from warrant officers and enlisted members of the Air Force and civilians, to qualify them for appointment as reserve officers, or enlistment as reserve noncommissioned officers, for service in the Air Force Reserve.
+The Secretary of the Air Force may maintain schools and camps for the military instruction and training of persons selected, upon their application, from warrant officers and enlisted members of the Air Force and civilians, to qualify them for appointment as reserve officers, or enlistment as reserve noncommissioned officers, for service in the Air Force Reserve.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 571.)
 

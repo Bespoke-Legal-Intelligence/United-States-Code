@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The boundaries of the Hopewell Culture National Historical Park (referred to as the“park”) are revised to include the lands within the areas marked for inclusion in the monument as generally depicted on—
+The boundaries of the Hopewell Culture National Historical Park (referred to as the “park”) are revised to include the lands within the areas marked for inclusion in the monument as generally depicted on—
 
 &emsp;(1) the map entitled “Hopeton Earthworks” numbered 353–80025 and dated July 1987;
 
@@ -40,7 +40,7 @@ The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 
 
 #### Amendments
 
-2009—Subsec. (a)(5). Pub. L. 111–11, §7104(1)–(3), added par. (5).
+<b>2009</b>—Subsec. (a)(5). Pub. L. 111–11, §7104(1)–(3), added par. (5).
 
 Subsec. (d)(3). Pub. L. 111–11, §7104(4), added par. (3).
 

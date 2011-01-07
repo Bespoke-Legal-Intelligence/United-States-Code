@@ -2,7 +2,7 @@
 
 #### (a) Special projects
 
-(1) Of the amounts appropriated under section 701(a) of this title for a fiscal year that are not in excess of $600,000,000, the Secretary shall retain an amount equal to 15 percent for the purpose of carrying out activities described in section 701(a)(2) of this title. The authority of the Secretary to enter into any contracts under this subchapter is effective for any fiscal year only to such extent or in such amounts as are provided in appropriations Acts.
+(1) Of the amounts appropriated under section 701(a) of this title for a fiscal year that are not in excess of $600,000,000, the Secretary shall retain an amount equal to 15 percent for the purpose of carrying out activities described in section 701(a)(2) of this title. The authority of theSecretary to enter into any contracts under this subchapter is effective for any fiscal year only to such extent or in such amounts as are provided in appropriations Acts.
 
 (2) For purposes of paragraph (1)—
 
@@ -14,13 +14,13 @@
 
 #### (b) Excess funds; preference
 
-(1)(A) Of the amounts appropriated under section 701(a) of this title for a fiscal year in excess of $600,000,000 the Secretary shall retain an amount equal to 123/4 percent thereof for the projects described in subparagraphs (A) through (F) of section 701(a)(3) of this title.
+(1)(A) Of the amounts appropriated under section 701(a) of this title for a fiscal year in excess of $600,000,000 the Secretary shall retain an amount equal to 12¾ percent thereof for the projects described in subparagraphs (A) through (F) of section 701(a)(3) of this title.
 
 (B) Any amount appropriated under section 701(a) of this title for a fiscal year in excess of $600,000,000 that remains after the Secretary has retained the applicable amount (if any) under subparagraph (A) shall be retained by the Secretary in accordance with subsection (a) of this section and allocated to the States in accordance with subsection (c) of this section.
 
 (2)(A) Of the amounts retained for the purpose of carrying out activities described in section 701(a)(3)(A), (B), (C), (D) and (E) of this title, the Secretary shall provide preference to qualified applicants which demonstrate that the activities to be carried out with such amounts shall be in areas with a high infant mortality rate (relative to the average infant mortality rate in the United States or in the State in which the area is located).
 
-(B) In carrying out activities described in section 701(a)(3)(D) of this title, the Secretary shallnot provide for developing or expanding a maternal and child health center unless the Secretary has received satisfactory assurances that there will be applied, towards the costs of such development or expansion, non-Federal funds in an amount at least equal to the amount of funds provided under this subchapter toward such development or expansion.
+(B) In carrying out activities described in section 701(a)(3)(D) of this title, the Secretary shall not provide for developing or expanding a maternal and child health center unless the Secretary has received satisfactory assurances that there will be applied, towards the costs of such development or expansion, non-Federal funds in an amount at least equal to the amount of funds provided under this subchapter toward such development or expansion.
 
 #### (c) Allotments to States
 
@@ -48,7 +48,7 @@ From the remaining amounts appropriated under section 701(a) of this title for a
 
 (2) To the extent that all the funds appropriated under this subchapter for a fiscal year are not otherwise allotted to States because some State allotments are offset under section 706(b)(2) of this title, such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this paragraph.
 
-(Aug. 14, 1935, ch. 531, title V, §502, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 819; amended Pub. L. 99–272, title IX, §9527(d), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(b), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 101–239, title VI, §§6502(a), 6503(c)(1), (4), Dec. 19, 1989, 103 Stat. 2275, 2278.)
+(Aug. 14, 1935, ch. 531, title V, §502, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 819; amended Pub. L. 99–272, title IX, §9527(d),Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(b), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 101–239, title VI, §§6502(a), 6503(c)(1), (4), Dec. 19, 1989, 103 Stat. 2275, 2278.)
 
 #### Prior Provisions
 
@@ -58,7 +58,7 @@ Another prior section 702, acts Aug. 14, 1935, ch. 531, title V, §502, 49 Stat.
 
 #### Amendments
 
-1989—Subsec. (a)(1). Pub. L. 101–239, §6502(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “Of the amounts appropriated under section 701(a) of this title for a fiscal year that are not in excess of $478,000,000, the Secretary shall retain an amount equal to 15 percent thereof in the case of fiscal year 1982, and an amount equal to not less than 10, nor more than 15, percent thereof in the case of each fiscal year thereafter, for the purpose of carrying out (through grants, contracts, or otherwise) special projects of regional and national significance, training, and research and for the funding of genetic disease testing, counseling, and information development and dissemination programs and of comprehensive hemophilia diagnostic and treatment centers.”
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–239, §6502(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “Of the amounts appropriated under section 701(a) of this title for a fiscal year that are not in excess of $478,000,000, the Secretary shall retain an amount equal to 15 percent thereof in the case of fiscal year 1982, and an amount equal to not less than 10, nor more than 15, percent thereof in the case of each fiscal year thereafter, for the purpose of carrying out (through grants, contracts, or otherwise) special projects of regional and national significance, training, and research and for the funding of genetic disease testing, counseling, and information development and dissemination programs and of comprehensive hemophilia diagnostic and treatment centers.”
 
 Subsec. (a)(3). Pub. L. 101–239, §6502(a)(2), inserted “or subsection (b) of this section” after “this subsection”.
 
@@ -76,7 +76,7 @@ Subsec. (c)(2). Pub. L. 101–239, §6502(a)(4)(B), amended par. (2) generally, 
 
 Subsec. (d)(1). Pub. L. 101–239, §6503(c)(4), substituted “705(a)” for “705” in two places.
 
-1986—Subsec. (a)(1). Pub. L. 99–509, §9441(b)(1), substituted “amounts appropriated under section 701(a) ofthis title for a fiscal year that are not in excess of $478,000,000” for “amount appropriated under section 701(a) of this title”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–509, §9441(b)(1), substituted “amounts appropriated under section 701(a) of this title for a fiscal year that are not in excess of $478,000,000” for “amount appropriated under section 701(a) of this title”.
 
 Subsec. (a)(2)(B). Pub. L. 99–272 substituted “programs for children with special health care needs” for “crippled children's programs” and “services for children with special health care needs” for “crippled children's services”.
 

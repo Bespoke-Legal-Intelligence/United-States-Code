@@ -38,7 +38,7 @@ Section was formerly classified to section 12555 of this title prior to renumber
 
 #### Amendments
 
-1994—Pub. L. 103–304 amended directory language of Pub. L. 103–82, §101(a)(3), which renumbered section 135 of Pub. L. 101–610 as section 199O.
+<b>1994</b>—Pub. L. 103–304 amended directory language of Pub. L. 103–82, §101(a)(3), which renumbered section 135 of Pub. L. 101–610 as section 199O.
 
 #### Effective Date of 1994 Amendment
 
@@ -47,4 +47,6 @@ Amendment by Pub. L. 103–304 effective as of Oct. 1, 1993, see section 3(b)(10
 #### Transfer of Functions
 
 For transfer of functions of Director of ACTION Agency (including all related functions of any officer or employee of ACTION Agency) to Corporation for National and Community Service, and effective date of such transfer, see section 203(c), (d) of Pub. L. 103–82, set out as a note under section 12651 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “provisions”.</i>
 

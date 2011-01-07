@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(C) which does not constitute guidance, advice, counsel, or training provided for management officials or supervisors, relating to collective bargaining; and
 
-&emsp;(5) if agreement is reached, to execute on the request of any party to the negotiation a written document embodying the agreed terms, and to take such steps as are necessary to implement such agreement.
+&emsp;(5) if agreement is reached, to execute on the request of any party to the negotiation a written document embodying the agreed terms,and to take such steps as are necessary to implement such agreement.
 
 (c)(1) An agreement between any agency and an exclusive representative shall be subject to approval by the head of the agency.
 

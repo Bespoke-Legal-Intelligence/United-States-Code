@@ -1,6 +1,6 @@
 ### §2005. Obligations
 
-(a)(1) The Postal Service is authorized to borrow money and to issue and sell such obligations as it determines necessary to carry out the purposes of this title, other than any of the purposes for which the corresponding authority is available to the Postal Service under section 2011. The aggregate amount of obligations issued by the Postal Service which may be outstanding at any one time shall not exceed the maximum amount then allowable under paragraph (2) of this subsection. In any one fiscal year, the net increase in the amount of obligations outstanding issued for the purpose of capital improvements and the net increase in the amount of obligations outstanding issued for the purpose of defraying operating expenses of the Postal Service shall not exceed a combined total of $3,000,000,000.
+(a)(1) The Postal Service is authorized to borrow money and to issue and sell such obligations as it determines necessary to carry out the purposes of this title, other than any of the purposes for which the corresponding authority is available to the Postal Service under section 2011. The aggregate amount of obligations issuedby the Postal Service which may be outstanding at any one time shall not exceed the maximum amount then allowable under paragraph (2) of this subsection. In any one fiscal year, the net increase in the amount of obligations outstanding issued for the purpose of capital improvements and the net increase in the amount of obligations outstanding issued for the purpose of defraying operating expenses of the Postal Service shall not exceed a combined total of $3,000,000,000.
 
 (2) The maximum amount allowable under this paragraph is—
 
@@ -56,7 +56,7 @@
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–435, §502(c)(2), substituted “obligations issued by the Postal Service which may be” for “any such obligations” in second sentence.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–435, §502(c)(2), substituted “obligations issued by the Postal Service which may be” for “any such obligations” in second sentence.
 
 Pub. L. 109–435, §502(b), substituted third sentence for former third sentence which read: “In any one fiscal year the net increase in the amount of obligations outstanding issued for the purpose of capital improvements shall not exceed $2,000,000,000, and the net increase in the amount of obligations outstanding issued for the purpose of defraying operating expenses of the Postal Service shall not exceed $1,000,000,000.”
 
@@ -66,7 +66,7 @@ Subsec. (a)(3). Pub. L. 109–435, §502(c)(1), added par. (3).
 
 Subsec. (b). Pub. L. 109–435, §502(d), substituted “obligations issued by the Postal Service under this section,” for “such obligations,”, designated existing provisions as par. (1), and added par. (2).
 
-1989—Subsec. (a). Pub. L. 101–227 designated existing provisions as par. (1), substituted “the maximum amount then allowable under paragraph (2) of this subsection” for “$10,000,000,000”, “$2,000,000,000” for “$1,500,000,000”, and “$1,000,000,000” for “$500,000,000” and added par. (2).
+<b>1989</b>—Subsec. (a). Pub. L. 101–227 designated existing provisions as par. (1), substituted “the maximum amount then allowable under paragraph (2) of this subsection” for “$10,000,000,000”, “$2,000,000,000” for “$1,500,000,000”, and “$1,000,000,000” for “$500,000,000” and added par. (2).
 
 #### Effective Date of 1989 Amendment
 

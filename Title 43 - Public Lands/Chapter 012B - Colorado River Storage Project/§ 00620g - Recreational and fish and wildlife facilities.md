@@ -6,7 +6,7 @@ In connection with the development of the Colorado River storage project and of 
 
 #### Amendments
 
-1976—Pub. L. 94–579 struck out provisions authorizing withdrawal of public lands from entry or other disposition under the public land laws.
+<b>1976</b>—Pub. L. 94–579 struck out provisions authorizing withdrawal of public lands from entry or other disposition under the public land laws.
 
 #### Effective Date of 1976 Amendment
 

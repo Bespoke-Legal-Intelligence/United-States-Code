@@ -66,27 +66,27 @@ If it is a device for which an exemption has been granted under section 360j(g) 
 
 #### Amendments
 
-1997—Par. (a)(2)(C). Pub. L. 105–115, §121(b)(1), inserted “; or (C) if it is a compounded positron emission tomography drug and the methods used in, or the facilities and controls used for, its compounding, processing, packing, or holding do not conform to or are not operated or administered in conformity with the positron emission tomography compounding standards and the official monographs of the United States Pharmacopoeia to assure that such drug meets the requirements of this chapter as to safety and has the identity and strength, and meets the quality and purity characteristics, that it purports or is represented to possess;” before “or (3)”.
+<b>1997</b>—Par. (a)(2)(C). Pub. L. 105–115, §121(b)(1), inserted “; or (C) if it is a compounded positron emission tomography drug and the methods used in, or the facilities and controls used for, its compounding, processing, packing, or holding do not conform to or are not operated or administered in conformity with the positron emission tomography compounding standards and the official monographs of the United States Pharmacopoeia to assure that such drug meets the requirements of this chapter as to safety and has the identity and strength, and meets the quality and purity characteristics, that it purports or is represented to possess;” before “or (3)”.
 
 Par. (e). Pub. L. 105–115, §204(c), designated existing provisions as subpar. (1) and added subpar. (2).
 
-1992—Par. (a)(4). Pub. L. 102–571 substituted “379e(a)” for “376(a)” in cls. (A) and (B).
+<b>1992</b>—Par. (a)(4). Pub. L. 102–571 substituted “379e(a)” for “376(a)” in cls. (A) and (B).
 
-1990—Par. (f)(1). Pub. L. 101–629, §9(b), which directed the amendment of subpars. (A) to (C) of par. (f), was executed by making the amendments in cls. (A) to (C) of subpar. (1) of par. (f) as follows to reflect the probable intent of Congress: in cl. (A)(ii)(II), substituted “, suspended, or withdrawn” for “or withdrawn”; in cl. (B)(ii), substituted “which has an application which has been suspended or is otherwise not in effect” for “which does not have such an application in effect”; and in cl. (C), substituted “which has an application which has been suspended or is otherwise not in effect” for “which does not have such an application in effect”.
+<b>1990</b>—Par. (f)(1). Pub. L. 101–629, §9(b), which directed the amendment of subpars. (A) to (C) of par. (f), was executed by making the amendments in cls. (A) to (C) of subpar. (1) of par. (f) as follows to reflect the probable intent of Congress: in cl. (A)(ii)(II), substituted “, suspended, or withdrawn” for “or withdrawn”; in cl. (B)(ii), substituted “which has an application which has been suspended or is otherwise not in effect” for “which does not have such an application in effect”; and in cl. (C), substituted “which has an application which has been suspended or is otherwise not in effect” for “which does not have such an application in effect”.
 
-1976—Par. (a). Pub. L. 94–295, §9(b)(1), substituted “(3) if its” for “(3) if it is a drug and its” in cl. (3), substituted “(4) if (A) it bears or contains” for “(4) if (A) it is a drug which bears or contains” in cl. (4)(A), and substituted “drugs or devices” for “drugs” in cl. (4)(B).
+<b>1976</b>—Par. (a). Pub. L. 94–295, §9(b)(1), substituted “(3) if its” for “(3) if it is a drug and its” in cl. (3), substituted “(4) if (A) it bears or contains” for “(4) if (A) it is a drug which bears or contains” in cl. (4)(A), and substituted “drugs or devices” for “drugs” in cl. (4)(B).
 
 Pars. (e) to (i). Pub. L. 94–295, §3(d), added pars. (e) to (i).
 
-1968—Par. (a). Pub. L. 90–399 added cls. (5) and (6).
+<b>1968</b>—Par. (a). Pub. L. 90–399 added cls. (5) and (6).
 
-1962—Par. (a). Pub. L. 87–781 designated existing provisions of cl. (2) as (A) and added (B).
+<b>1962</b>—Par. (a). Pub. L. 87–781 designated existing provisions of cl. (2) as (A) and added (B).
 
-1960—Par. (a). Pub. L. 86–618 substituted provisions in cl. (4) relating to unsafe color additives for provisions which related to a coal-tar color other than one from a batch that has been certified in accordance with regulations as provided by section 354 of this title.
+<b>1960</b>—Par. (a). Pub. L. 86–618 substituted provisions in cl. (4) relating to unsafe color additives for provisions which related to a coal-tar color other than one from a batch that has been certified in accordance with regulations as provided by section 354 of this title.
 
 #### Effective and Termination Dates of 1997 Amendment
 
-Section 121(b)(2) of Pub. L. 105–115 provided that: “Section 501(a)(2)(C) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 351(a)(2)(C)) shall not apply 4 years after the date of enactment of this Act \[Nov. 21, 1997\] or 2 years after the date on which the Secretary of Health and Human Services establishes the requirements described in subsection (c)(1)(B) \[section 121(c)(1)(B) of Pub. L. 105–115, set out as a note under section 355 of this title\], whichever is later.”
+Section 121(b)(2) of Pub. L. 105–115 provided that: “Section 501(a)(2)(C) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 351(a)(2)(C)) shall not apply 4 years after the date of enactment of this Act \[Nov. 21,1997\] or 2 years after the date on which the Secretary of Health and Human Services establishes the requirements described in subsection (c)(1)(B) \[section 121(c)(1)(B) of Pub. L. 105–115, set out as a note under section 355 of this title\], whichever is later.”
 
 Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as an Effective Date of 1997 Amendment note under section 321 of this title.
 

@@ -12,7 +12,7 @@ The Director shall promote innovation in evidence-based health care practices an
 
 &emsp;(4) promoting education and training and providing technical assistance in the use of health care practice and technology assessment methodologies and results; and
 
-&emsp;(5) working with the National Library of Medicine and the public and private sector todevelop an electronic clearinghouse of currently available assessments and those in progress.
+&emsp;(5) working with the National Library of Medicine and the public and private sector to develop an electronic clearinghouse of currently available assessments and those in progress.
 
 #### (b) Specification of process
 
@@ -22,7 +22,7 @@ The Director shall promote innovation in evidence-based health care practices an
 
 #### (2) Consultations
 
-&emsp;In carrying out this subsection, the Director shall cooperate and consult with the Assistant Secretary for Health, the Administrator of the Centers for Medicare \& Medicaid Services, the Director of the National Institutes of Health, the Commissioner of Food and Drugs, and the heads of any other interested Federal department or agency, and shall seek input, where appropriate, from professional societies and other private and public entities.
+&emsp;In carrying out this subsection, the Director shall cooperate and consult with the Assistant Secretary for Health, the Administrator of the Centers for Medicare \& Medicaid Services, the Director of the National Institutes of Health, the Commissioner of Food and Drugs, and the heads of any other interested Federal department or agency, and shall seek input, whereappropriate, from professional societies and other private and public entities.
 
 #### (3) Methodology
 
@@ -74,5 +74,5 @@ The Director shall promote innovation in evidence-based health care practices an
 
 #### Amendments
 
-2003—Subsecs. (b)(2), (c)(2). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
+<b>2003</b>—Subsecs. (b)(2), (c)(2). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
 

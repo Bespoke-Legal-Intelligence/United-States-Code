@@ -44,13 +44,13 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
-1981—Subsec. (b). Pub. L. 97–113, §734(a)(1), struck out subsec. (b) which limited contributions to United Nations Development Program and restricted assistance to Cuba. See section 2370(f) of this title.
+<b>1981</b>—Subsec. (b). Pub. L. 97–113, §734(a)(1), struck out subsec. (b) which limited contributions to United Nations Development Program and restricted assistance to Cuba. See section 2370(f) of this title.
 
 Subsec. (e)(3). Pub. L. 97–113, §734(a)(1), struck out par. (3) which required reports by the President and the General Accounting Office of their evaluation of reports of international organizations to United States representatives on those organizations. See section 2394 of this title.
 
 Subsec. (h). Pub. L. 97–113, §311(a), added subsec. (h).
 
-1980—Subsec. (d). Pub. L. 96–533, §702(a), required the Comptroller General to report to Congress and the President the results of the audits.
+<b>1980</b>—Subsec. (d). Pub. L. 96–533, §702(a), required the Comptroller General to report to Congress and the President the results of the audits.
 
 Subsec. (e)(1). Pub. L. 96–533, §702(b)(1)–(3), substituted “organizations of external, professionally” for “organizations a single professionally”, “groups” for “group” in three places, “evaluation, and audits” for “and evaluation”, and “evaluation, or audit” for “and evaluation”.
 
@@ -58,25 +58,25 @@ Subsec. (e)(2). Pub. L. 96–533, §702(b)(4), (5), required audits of programs 
 
 Subsec. (e)(3). Pub. L. 96–533, §702(b)(6), required the Comptroller General to include in the reports to Congress and the President his evaluation of the reports received by the United States representatives to the international organizations and related information.
 
-1978—Subsec. (a). Pub. L. 95–424 substituted “section 2151t(b) of this title” for “section 2161(d) of this title”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–424 substituted “section 2151t(b) of this title” for “section 2161(d) of this title”.
 
 Subsec. (g). Pub. L. 95–424 added subsec. (g).
 
-1975—Subsec. (f). Pub. L. 94–161 added subsec. (f).
+<b>1975</b>—Subsec. (f). Pub. L. 94–161 added subsec. (f).
 
-1973—Subsec. (e). Pub. L. 93–189 added subsec. (e).
+<b>1973</b>—Subsec. (e). Pub. L. 93–189 added subsec. (e).
 
-1969—Subsec. (c). Pub. L. 91–175 omitted provisions dealing with Israel and Arab governments taking steps toward repatriation of refugees and the extent and success of the United Nations and Arab governments to rectify refugees relief rolls, as criteria for the President to use in determining whether to furnish assistance for such refugees through contributions to the United Nations, omitted provisions dealing with amount of contribution for the fiscal year 1967, and expanded prohibition against the inclusion of members of other guerrilla type organizations or refugees engaged in any act of terrorism.
+<b>1969</b>—Subsec. (c). Pub. L. 91–175 omitted provisions dealing with Israel and Arab governments taking steps toward repatriation of refugees and the extent and success of the United Nations and Arab governments to rectify refugees relief rolls, as criteria for the President to use in determining whether to furnish assistance for such refugees through contributions to the United Nations, omitted provisions dealing with amount of contribution for the fiscal year 1967, and expanded prohibition against the inclusion of members of other guerrilla type organizations or refugees engaged in any act of terrorism.
 
-1967—Subsec. (d). Pub. L. 90–137 added subsec. (d).
+<b>1967</b>—Subsec. (d). Pub. L. 90–137 added subsec. (d).
 
-1966—Subsec. (a). Pub. L. 89–583, §107(a), authorized in the case of the Indus Basin Development Executive grants and loans payable as to principal and interest in United States dollars and subject to the provisions of section 2161(d) of this title.
+<b>1966</b>—Subsec. (a). Pub. L. 89–583, §107(a), authorized in the case of the Indus Basin Development Executive grants and loans payable as to principal and interest in United States dollars and subject to the provisions of section 2161(d) of this title.
 
 Subsec. (b). Pub. L. 89–583, §107(b), substituted “United Nations Development Program” for “United Nations Expanded Program of Technical Assistance and the United States Special Fund” and restricted economic or technical assistance to Cuba.
 
 Subsec. (c). Pub. L. 89–583, §107(c), substituted provisions limiting contributions by the United States for fiscal year 1967 to $13,300,000, for provisions limiting contributions for calendar year 1966 to $15,200,000 and prohibited the making of contributions assisting any refugee who is receiving military training as a member of the Palestine Liberation Army.
 
-1965—Subsec. (c). Pub. L. 89–171 limited contributions by the United States to the United Nations Relief and Works Agency for Palestine Refugees in the Near East to $15,200,000 for the calendar year 1966.
+<b>1965</b>—Subsec. (c). Pub. L. 89–171 limited contributions by the United States to the United Nations Relief and Works Agency for Palestine Refugees in the Near East to $15,200,000 for the calendar year 1966.
 
 #### Effective Date of 1978 Amendment
 

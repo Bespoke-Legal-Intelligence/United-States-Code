@@ -18,7 +18,7 @@ The Governor or Governor's designee of each State shall, within 3 years of June 
 
 #### (b) Public participation
 
-To the maximum extent possible, each State shall establish procedures, including but not limited to the establishment of technical and citizens’ advisory committees, to encourage the public to participate in developing the protection program for wellhead areas and source water assessment programs under section 300j–13 of this title. Such procedures shall include notice and opportunity for public hearing on the State program before it is submitted to the Administrator.
+To the maximum extent possible, each State shall establish procedures, including but notlimited to the establishment of technical and citizens’ advisory committees, to encourage the public to participate in developing the protection program for wellhead areas and source water assessment programs under section 300j–13 of this title. Such procedures shall include notice and opportunity for public hearing on the State program before it is submitted to the Administrator.
 
 #### (c) Disapproval
 
@@ -28,7 +28,7 @@ To the maximum extent possible, each State shall establish procedures, including
 
 #### (2) Modification and resubmission
 
-&emsp;Within 6 months after receipt of the Administrator's written notice under paragraph (1)that any proposed State program (or portion thereof) is disapproved, the Governor or Governor's designee, shall modify the program based upon the recommendations of the Administrator and resubmit the modified program to the Administrator.
+&emsp;Within 6 months after receipt of the Administrator's written notice under paragraph (1) that any proposed State program (or portion thereof) is disapproved, the Governor or Governor's designee, shall modify the program based upon the recommendations of the Administrator and resubmit the modified program to the Administrator.
 
 #### (d) Federal assistance
 
@@ -54,7 +54,7 @@ Each State shall make every reasonable effort to implement the State wellhead ar
 
 #### (h) Federal agencies
 
-Each department, agency, and instrumentality of the executive, legislative, and judicial branches of the Federal Government having jurisdiction over any potential source of contaminants identified by a State program pursuant to the provisions of subsection (a)(3) of this section shall be subject to and comply with all requirements of the State program developed according to subsection (a)(4) of this section applicable to such potential source of contaminants, both substantive and procedural, in the same manner, and to the same extent, as any other person is subject to such requirements, including payment of reasonable charges and fees. The President may exempt any potential source under the jurisdiction of any department, agency, or instrumentality in the executive branch if the President determines it to be in the paramount interest of the United States to do so. No such exemption shall be granted due to the lack of an appropriation unless the President shall have specifically requested such appropriation as part of the budgetary process and the Congress shall have failed to make available such requested appropriations.
+Each department, agency, and instrumentality of the executive, legislative, and judicial branches of the Federal Government having jurisdiction over any potential source of contaminants identified by a State program pursuant to the provisions of subsection (a)(3) of this section shall be subject to and comply with all requirements of the State program developed according to subsection (a)(4) of this section applicable to such potential source of contaminants, both substantive and procedural, in the same manner, and to the same extent, as any other person is subject to such requirements, including payment of reasonable charges and fees. The President may exempt any potential source under the jurisdiction of any department, agency, or instrumentality in the executive branch if the President determines it to be in the paramount interest of the United States to do so. No suchexemption shall be granted due to the lack of an appropriation unless the President shall have specifically requested such appropriation as part of the budgetary process and the Congress shall have failed to make available such requested appropriations.
 
 #### (i) Additional requirement
 
@@ -105,7 +105,7 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 
 #### Amendments
 
-1996—Pub. L. 104–182, §501(f)(4), made technical amendment to section catchline and subsec. (a) designation.
+<b>1996</b>—Pub. L. 104–182, §501(f)(4), made technical amendment to section catchline and subsec. (a) designation.
 
 Subsec. (b). Pub. L. 104–182, §132(b)(4), inserted before period at end of first sentence “and source water assessment programs under section 300j–13 of this title”.
 
@@ -119,5 +119,5 @@ Subsec. (c)(2). Pub. L. 104–182, §132(b)(3), substituted “is disapproved”
 
 Subsec. (k). Pub. L. 104–182, §120(b), inserted table item relating to fiscal years 1992 through 2003.
 
-1986—Subsec. (k). Pub. L. 99–339, §301(e), added subsec. (k).
+<b>1986</b>—Subsec. (k). Pub. L. 99–339, §301(e), added subsec. (k).
 

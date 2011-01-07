@@ -1,6 +1,6 @@
 ### §103. Applicability of chapters
 
-(a) Except as provided in section 1161 of this title, chapters 1, 3, and 5 of this title apply in a case under chapter 7, 11, 12, or 13 of this title, and this chapter, sections 307, 362(n), 555 through 557, and 559 through 562 apply in a case under chapter 15.
+(a) Except as provided in section 1161 of this title, chapters 1, 3, and 5 of this title apply in a case under chapter 7, 11, 12, or 13 of this title, and this chapter, sections 307, 362(<i>o</i>), 555 through 557, and 559 through 562 apply in a case under chapter 15.
 
 (b) Subchapters I and II of chapter 7 of this title apply only in a case under such chapter.
 
@@ -28,7 +28,7 @@ Scope of Application.—Subchapter V of chapter 7 of this title shall apply only
 
 &emsp;(2) section 1509 applies whether or not a case under this title is pending.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 97–222, §2, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §423, July 10, 1984, 98 Stat. 369; Pub. L. 99–554, title II, §252, Oct. 27, 1986, 100 Stat. 3104; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(5)(A)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–394; Pub. L. 109–8, title VIII, §802(a), Apr. 20, 2005, 119 Stat. 145.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 97–222, §2, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §423, July 10, 1984, 98 Stat. 369; Pub. L. 99–554, title II, §252, Oct. 27, 1986, 100 Stat. 3104; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(5)(A)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–394; Pub. L. 109–8, title VIII, §802(a), Apr. 20, 2005, 119 Stat. 145; Pub. L. 111–327, §2(a)(2), Dec. 22, 2010, 124 Stat. 3557.)
 
 #### Historical and Revision Notes
 
@@ -43,6 +43,8 @@ Section 25A of the Federal Reserve Act, referred to in subsec. (e), popularly kn
 Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsec. (e), is classified to section 4422 of Title 12, Banks and Banking.
 
 #### Amendments
+
+2010—Subsec. (a). Pub. L. 111–327 substituted “362(<i>o</i>)” for “362(n)”.
 
 2005—Subsec. (a). Pub. L. 109–8, §802(a)(1), inserted “, and this chapter, sections 307, 362(n), 555 through 557, and 559 through 562 apply in a case under chapter 15” before period.
 

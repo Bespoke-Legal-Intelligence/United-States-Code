@@ -20,5 +20,5 @@ Treatment of Transportation as Use by Military Departments.—For the purposes o
 
 #### Amendments
 
-2002—Subsec. (d). Pub. L. 107–217 substituted “section 501 of title 40” for “section 201(a) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(a))”.
+<b>2002</b>—Subsec. (d). Pub. L. 107–217 substituted “section 501 of title 40” for “section 201(a) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(a))”.
 

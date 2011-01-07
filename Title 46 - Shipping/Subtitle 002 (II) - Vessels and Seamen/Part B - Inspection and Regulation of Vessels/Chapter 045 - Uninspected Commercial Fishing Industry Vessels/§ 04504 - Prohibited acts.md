@@ -6,5 +6,5 @@ A person may not operate a vessel in violation of this chapter or a regulation p
 
 #### Amendments
 
-1988—Pub. L. 100–424 amended section generally, substituting “Prohibited acts” for “Penalties” in section catchline, and provisions prohibiting operation of vessel in violation of this chapter, for provisions which imposed civil penalty not more than $1,000 for operation of vessel in violation of chapter, and liability in rem for penalty.
+<b>1988</b>—Pub. L. 100–424 amended section generally, substituting “Prohibited acts” for “Penalties” in section catchline, and provisions prohibiting operation of vessel in violation of this chapter, for provisions which imposed civil penalty not more than $1,000 for operation of vessel in violation of chapter, and liability in rem for penalty.
 

@@ -10,7 +10,7 @@ As soon as practicable, after December 19, 1980, the Secretary of Agriculture sh
 
 #### (c) Adjustment in boundaries
 
-Following timely notice in writing to the Committee on Natural Resources of the House ofRepresentatives and the Committee on Energy and Natural Resources of the Senate of his intention to do so, the Secretary may make minor adjustments in the boundaries of the research site to provide for more effective management or to encourage further research activity. For the purposes of this subsection, minor boundary adjustments shall not increase or decrease the amount of land within the research site by more than seven thousand acres.
+Following timely notice in writing to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate of his intention to do so, the Secretary may make minor adjustments in the boundaries of the research site to provide for more effective management or to encourage further research activity. For the purposes of this subsection, minor boundary adjustments shall not increase or decrease the amount of land within the research site by more than seven thousand acres.
 
 #### (d) Consultation with other public interest groups
 
@@ -40,7 +40,7 @@ The National Forest Management Act of 1976, referred to in subsec. (b), is Pub. 
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “principal”.</i>
 

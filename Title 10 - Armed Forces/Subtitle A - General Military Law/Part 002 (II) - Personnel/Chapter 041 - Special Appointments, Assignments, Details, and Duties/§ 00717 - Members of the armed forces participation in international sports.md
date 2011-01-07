@@ -44,7 +44,7 @@ Act
 
 Mar. 14, 1955, ch. 11 (less last 2 pars.), 69 Stat. 11.
 
-In subsection (a), the first 27 words are substituted for section 1 of the source statute. The reference to the Second Pan-American Games, the Seventh Olympic Winter Games, and the Games of the XVI Olympiad are omitted as covered by clause (1) of the revised subsection. The words “subject to the limitation contained in subsection (b) herein” are omitted as covered by revised subsection (b). The words “any other” are substituted for the words “other not specified in (1) above”.
+In subsection (a), the first 27 words are substituted for section 1 of the source statute. The reference to the Second Pan-American Games, the Seventh Olympic Winter Games, and the Games of the XVI Olympiad are omitted as covered by clause (1) of the revised subsection. The words “subject to the limitation contained in subsection (b) herein” are omitted as covered by revised subsection (b). The words “any other” are substituted for the words “other \* \* \* not specified in (1) above”.
 
 In subsection (b), the word “entry” is substituted for the word “commitment” for clarity. The words “or the Secretary of the Treasury, as the case may be” are inserted since, under subsection (a), the Secretary of the Treasury has the prescribed authority with respect to members of the Coast Guard when it is not operating as a service in the Navy.
 
@@ -56,7 +56,7 @@ This section corrects a duplication in numbering occasioned by the addition of a
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–163 substituted “participate in any of the following sports competitions:
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted “participate in any of the following sports competitions:
 
 &emsp;“(1) The Pan-American Games and the Olympic Games, and qualifying events and preparatory competition for those games.
 
@@ -70,9 +70,9 @@ This section corrects a duplication in numbering occasioned by the addition of a
 
 &emsp;“(2) any other”.
 
-2002—Subsecs. (a), (b), (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsecs. (a), (b), (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1984—Subsec. (a)(1). Pub. L. 98–525, §1534(1), included qualifying events and preparatory competition.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–525, §1534(1), included qualifying events and preparatory competition.
 
 Subsec. (a)(2). Pub. L. 98–525, §1534(2), included qualifying events and preparatory competition.
 
@@ -82,7 +82,7 @@ Subsec. (c). Pub. L. 98–525, §1534(4), (6), designated existing provisions as
 
 Subsecs. (d), (e). Pub. L. 98–525, §1534(7), redesignated subsec. (e) as (d). Former subsec. (d) redesignated par. (2) of subsec. (c).
 
-1980—Subsec. (a). Pub. L. 96–513, §511(22)(A), substituted “Transportation” for “the Treasury”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513, §511(22)(A), substituted “Transportation” for “the Treasury”.
 
 Subsec. (b). Pub. L. 96–513, §511(22), redesignated subsec. (c) as (b) and substituted reference to subsec. (c) for reference to subsec. (f), and “Transportation” for “the Treasury”.
 
@@ -90,9 +90,9 @@ Subsecs. (c), (d). Pub. L. 96–513, §511(22)(C), redesignated subsecs. (d) and
 
 Subsecs. (e), (f). Pub. L. 96–513, §511(22) (A), (C), redesignated subsec. (f) as (e) and substituted “Transportation” for “the Treasury”. Former subsection (e) redesignated (d).
 
-1966—Subsec. (b). Pub. L. 89–718 repealed subsec. (b) which required the Secretary of Defense or the Secretary of the Treasury to report to the Committees on Armed Services of the Senate and House of Representatives the details of the proposed participation by members of the Armed Forces under his jurisdiction in international amateur sports competition. See also Pub. L. 89–348, §1(12), Nov. 8, 1965, 79 Stat. 1311, which earlier repealed the reporting requirement of subsec. (b).
+<b>1966</b>—Subsec. (b). Pub. L. 89–718 repealed subsec. (b) which required the Secretary of Defense or the Secretary of the Treasury to report to the Committees on Armed Services of the Senate and House of Representatives the details of the proposed participation by members of the Armed Forces under his jurisdiction in international amateur sports competition. See also Pub. L. 89–348, §1(12), Nov. 8, 1965, 79 Stat. 1311, which earlier repealed the reporting requirement of subsec. (b).
 
-1965—Subsec. (b). Pub. L. 89–348 repealed provision of subsec. (b) which required the Secretary of Defense or the Secretary of the Treasury, as the case may be, to report to the Committees on the Armed Services of the Senate and House of Representatives the details of the proposed participation by members of the Armed Forces under his jurisdiction in international amateur sports competition.
+<b>1965</b>—Subsec. (b). Pub. L. 89–348 repealed provision of subsec. (b) which required the Secretary of Defense or the Secretary of the Treasury, as the case may be, to report to the Committees on the Armed Services of the Senate and House of Representatives the details of the proposed participation by members of the Armed Forces under his jurisdiction in international amateur sports competition.
 
 #### Effective Date of 2002 Amendment
 

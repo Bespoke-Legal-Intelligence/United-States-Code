@@ -22,7 +22,7 @@ If the amount of an estimated countervailing duty deposited under section 1671e(
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–465 substituted “1671b(d)(1)(B)” for “1671b(d)(2)” in heading and text.
+<b>1994</b>—Subsec. (a). Pub. L. 103–465 substituted “1671b(d)(1)(B)” for “1671b(d)(2)” in heading and text.
 
 #### Effective Date of 1994 Amendment
 

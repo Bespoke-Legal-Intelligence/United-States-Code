@@ -16,9 +16,9 @@ The Chief Executive Officer shall prescribe such rules and regulations as are ne
 
 #### Amendments
 
-2009—Subsec. (b). Pub. L. 111–13 inserted “, plus 3 percent” before period at end.
+<b>2009</b>—Subsec. (b). Pub. L. 111–13 inserted “, plus 3 percent” before period at end.
 
-1993—Subsec. (c). Pub. L. 103–82, §203(a)(1)(B), which directed amendment of section 193(c) of subtitle I of the National and Community Service Act of 1990 by substituting “the national service laws” for “this chapter”, was executed to subsec. (c) of this section, which is section 193 of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress.
+<b>1993</b>—Subsec. (c). Pub. L. 103–82, §203(a)(1)(B), which directed amendment of section 193(c) of subtitle I of the National and Community Service Act of 1990 by substituting “the national service laws” for “this chapter”, was executed to subsec. (c) of this section, which is section 193 of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress.
 
 #### Effective Date of 2009 Amendment
 

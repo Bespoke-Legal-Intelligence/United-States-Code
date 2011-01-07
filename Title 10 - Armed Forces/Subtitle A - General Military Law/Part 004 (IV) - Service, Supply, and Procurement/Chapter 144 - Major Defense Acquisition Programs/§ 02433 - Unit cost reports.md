@@ -2,9 +2,9 @@
 
 (a) In this section:
 
-&emsp;(1) Except as provided in section 2430a(c) <sup>1</sup> of this title, the terms “program acquisition unit cost”, “procurement unit cost”, and “major contract” have the same meanings as provided in section 2432(a) of this title.
+&emsp;(1) Except as provided in section 2430a(d) of this title, the terms “program acquisition unit cost”, “procurement unit cost”, and “major contract” have the same meanings as provided in section 2432(a) of this title.
 
-&emsp;(2) The term “Baseline Estimate”, with respect to a unit cost report that is submitted under this section to the service acquisitionexecutive designated by the Secretary concerned on a major defense acquisition program or designated major subprogram, means the cost estimate included in the baseline description for the program or subprogram under section 2435 of this title.
+&emsp;(2) The term “Baseline Estimate”, with respect to a unit cost report that is submitted under this section to the service acquisition executive designated by the Secretary concerned on a major defense acquisition program or designated major subprogram, means the cost estimate included in the baseline description for the program or subprogram under section 2435 of this title.
 
 &emsp;(3) The term “procurement program” means a program for which funds for procurement are authorized to be appropriated in a fiscal year.
 
@@ -52,7 +52,7 @@
 
 (c) If the program manager of a major defense acquisition program for which a unit cost report has previously been submitted under subsection (b) determines at any time during a quarter that there is reasonable cause to believe that the program acquisition unit cost for the program (or for a designated major subprogram under the program) or the procurement unit cost for the program (or for such a subprogram), as applicable, has increased by a percentage equal to or greater than the significant cost growth threshold; and if a unit cost report indicating an increase of such percentage or more has not previously been submitted to the service acquisition executive designated by the Secretary concerned, then the program manager shall immediately submit to such service acquisition executive a unit cost report containing the information, determined as of the date of the report, required under subsection (b).
 
-(d)(1) When a unit cost report is submitted to the service acquisition executive designated by the Secretary concerned under this section with respect to a major defense acquisition program or any designated major subprogram under the program, the service acquisition executive shalldetermine whether the current program acquisition unit cost for the program or subprogram has increased by a percentage equal to or greater than the significant cost growth threshold, or the critical cost growth threshold, for the program or subprogram.
+(d)(1) When a unit cost report is submitted to the service acquisition executive designated by the Secretary concerned under this section with respect to a major defense acquisition program or any designated major subprogram under the program, the service acquisition executive shall determine whether the current program acquisition unit cost for the program or subprogram has increased by a percentage equal to or greater than the significant cost growth threshold, or the critical cost growth threshold, for the program or subprogram.
 
 (2) When a unit cost report is submitted to the service acquisition executive designated by the Secretary concerned under this section with respect to a major defense acquisition program or any designated major subprogram under the program that is a procurement program, the service acquisition executive, in addition to the determination under paragraph (1), shall determine whether the procurement unit cost for the program or subprogram has increased by a percentage equal to or greater than the significant cost growth threshold, or the critical cost growth threshold, for the program or subprogram.
 
@@ -64,7 +64,7 @@
 
 (2) If the program acquisition unit cost or procurement unit cost of a major defense acquisition program or designated major subprogram (as determined by the Secretary under subsection (d)) increases by a percentage equal to or greater than the critical cost growth threshold for the program or subprogram, the Secretary of Defense shall take actions consistent with the requirements of section 2433a of this title.
 
-(3) If a determination of an increase by a percentage equal to or greater than the significant cost growth threshold is made by the Secretary under subsection (d) and a Selected Acquisition Report containing the information described in subsection (g) is not submitted to Congress under paragraph (1), or if a determination of an increase by a percentage equal to or greater than the critical cost growth threshold is made by the Secretary under subsection (d) and the certification of the Secretary of Defense is not submitted to Congress under paragraph (2), funds appropriated for military construction, for research, development, test, and evaluation, and for procurement may not be obligated for a major contract under the program. The prohibition on the obligation of funds for a major defense acquisition program shall cease to apply at the end of a period of 30 days of continuous session of Congress (as determined under section 7307(b)(2) of this title) beginning on the date—
+(3) If a determination of an increase by a percentage equal to or greater than the significant cost growth threshold is made by the Secretary under subsection (d) and a Selected Acquisition Report containing the information described in subsection (g) is not submitted to Congress under paragraph (1), or if a determination of an increase by a percentage equal to or greater than the critical cost growth threshold is made by the Secretary under subsection (d) and thecertification of the Secretary of Defense is not submitted to Congress under paragraph (2), funds appropriated for military construction, for research, development, test, and evaluation, and for procurement may not be obligated for a major contract under the program. The prohibition on the obligation of funds for a major defense acquisition program shall cease to apply at the end of a period of 30 days of continuous session of Congress (as determined under section 7307(b)(2) of this title) beginning on the date—
 
 &emsp;(A) on which Congress receives the Selected Acquisition Report under paragraph (1) or (2)(B) with respect to that program, in the case of a determination of an increase by a percentage equal to or greater than the significant cost growth threshold (as determined in subsection (d)); or
 
@@ -124,7 +124,7 @@
 
 (h) Reporting under this section shall not apply if a program has received a limited reporting waiver under section 2432(h) of this title.
 
-(Added Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat. 741, §139b; amended Pub. L. 98–94, title XII, §1268(1), Sept. 24, 1983, 97 Stat. 705; Pub. L. 98–525, title XII, §1242(b), Oct. 19, 1984, 98 Stat. 2607; Pub. L. 99–145, title XIII, §1303(a)(2), Nov. 8, 1985, 99 Stat. 738; renumbered §2433 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(14), (g)(8), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, §101(c) \[title X, §961(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–176, and Pub. L. 99–591, §101(c) \[title X, §961(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–176; Pub. L. 99–661, div. A, title IX, formerly title IV, §961(b), Nov. 14, 1986, 100 Stat. 3956, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(b)(4), (k)(7), Apr. 21, 1987, 101 Stat. 279, 284; Pub. L. 100–180, div. A, title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–189, div. A, title VIII, §811(a), Nov. 29, 1989, 103 Stat. 1490; Pub. L. 101–510, div. A, title XIV, §1484(k)(10), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–484, div. A, title VIII, §817(d), Oct. 23, 1992, 106 Stat. 2456; Pub. L. 103–35, title II, §201(i)(2), May 31, 1993, 107 Stat. 100; Pub. L. 103–355, title III, §§3002(a)(2), 3003, Oct. 13, 1994, 108 Stat. 3328, 3329; Pub. L. 105–85, div. A, title VIII, §833, Nov. 18, 1997, 111 Stat. 1842; Pub. L. 108–375, div. A, title VIII, §801(a), (b)(1), Oct. 28, 2004, 118 Stat. 2004; Pub. L. 109–163, div. A, title VIII, §802(a)–(c), (d)(2), Jan. 6, 2006, 119 Stat. 3367–3370; Pub. L. 109–364, div. A, title II, §213(a), Oct. 17, 2006, 120 Stat. 2121; Pub. L. 110–181, div. A, title IX, §942(e), Jan. 28, 2008,122 Stat. 288; Pub. L. 110–417, \[div. A\], title VIII, §811(c), Oct. 14, 2008, 122 Stat. 4522; Pub. L. 111–23, title II, §206(a)(3), May 22, 2009, 123 Stat. 1728; Pub. L. 111–84, div. A, title X, §1073(c)(4), Oct. 28, 2009, 123 Stat. 2474.)
+(Added Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat. 741, §139b; amended Pub. L. 98–94, title XII, §1268(1), Sept. 24, 1983, 97 Stat. 705; Pub. L. 98–525, title XII, §1242(b), Oct. 19, 1984, 98 Stat. 2607; Pub. L. 99–145, title XIII, §1303(a)(2), Nov. 8, 1985, 99 Stat. 738; renumbered §2433 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(14), (g)(8), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, §101(c) \[title X, §961(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–176, and Pub. L. 99–591, §101(c) \[title X, §961(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–176; Pub. L. 99–661, div. A, title IX, formerly title IV, §961(b), Nov. 14, 1986, 100 Stat. 3956, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(b)(4), (k)(7), Apr. 21, 1987, 101 Stat. 279, 284; Pub. L. 100–180, div. A, title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–189, div. A, title VIII, §811(a), Nov. 29, 1989, 103 Stat. 1490; Pub. L. 101–510, div. A, title XIV, §1484(k)(10), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–484, div. A, title VIII, §817(d), Oct. 23, 1992, 106 Stat. 2456; Pub. L. 103–35, title II, §201(i)(2), May 31, 1993, 107 Stat. 100; Pub. L. 103–355, title III, §§3002(a)(2), 3003, Oct. 13, 1994, 108 Stat. 3328, 3329; Pub. L. 105–85, div. A, title VIII, §833, Nov. 18, 1997, 111 Stat. 1842; Pub. L. 108–375, div. A, title VIII, §801(a), (b)(1), Oct. 28, 2004, 118 Stat. 2004; Pub. L. 109–163, div. A, title VIII, §802(a)–(c), (d)(2), Jan. 6, 2006, 119 Stat. 3367–3370; Pub. L. 109–364, div. A, title II, §213(a), Oct. 17, 2006, 120 Stat. 2121; Pub. L. 110–181, div. A, title IX, §942(e), Jan. 28, 2008, 122 Stat. 288; Pub. L. 110–417, \[div. A\], title VIII, §811(c), Oct. 14, 2008, 122 Stat. 4522; Pub. L. 111–23, title II, §206(a)(3), May 22, 2009, 123 Stat. 1728; Pub. L. 111–84, div. A, title X, §1073(c)(4), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, §1075(b)(34), Jan. 7, 2011, 124 Stat. 4371.)
 
 #### Codification
 
@@ -132,11 +132,13 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-2009—Subsec. (e)(2). Pub. L. 111–23 amended par. (2) generally. Prior to amendment, par. (2) related to cost growths in major defense acquisition programs or designated major subprograms.
+Subsec. (a)(1). Pub. L. 111–383 substituted “section 2430a(d)” for “section 2430a(c)”.
+
+<b>2009</b>—Subsec. (e)(2). Pub. L. 111–23 amended par. (2) generally. Prior to amendment, par. (2) related to cost growths in major defense acquisition programs or designated major subprograms.
 
 Subsec. (g)(1)(G). Pub. L. 111–84 made technical amendment to directory language of Pub. L. 110–417, §811(c)(6)(A)(iv)(I). See 2008 Amendment note below.
 
-2008—Subsec. (a)(1). Pub. L. 110–417, §811(c)(1)(A), substituted “Except as provided in section 2430a(c) of this title, the terms” for “The terms”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–417, §811(c)(1)(A), substituted “Except as provided in section 2430a(c) of this title, the terms” for “The terms”.
 
 Subsec. (a)(2). Pub. L. 110–417, §811(c)(1)(B), inserted “or designated major subprogram” after “major defense acquisition program” and “or subprogram” after “the program”.
 
@@ -176,7 +178,7 @@ Subsec. (g)(1)(H). Pub. L. 110–417, §811(c)(6)(A)(v), inserted “and each de
 
 Subsec. (g)(1)(J). Pub. L. 110–417, §811(c)(6)(A)(vi), inserted “for the program (or for each designated major subprogram under the program)” after “program acquisition unit cost”.
 
-Subsec. (g)(1)(K). Pub. L. 110–417, §811(c)(6)(A)(vii), inserted “for the program (or for each designated major subprogram under the program)” after “procurement unit cost” in two places.
+Subsec. (g)(1)(K). Pub. L. 110–417, §811(c)(6)(A)(vii), inserted “for the program (or for each designated majorsubprogram under the program)” after “procurement unit cost” in two places.
 
 Subsec. (g)(1)(O). Pub. L. 110–417, §811(c)(6)(A)(viii), inserted “for the program (or for any designated major subprogram under the program)” before period at end.
 
@@ -186,7 +188,7 @@ Subsec. (g)(1)(Q). Pub. L. 110–417, §811(c)(6)(A)(x), inserted “or any desi
 
 Subsec. (g)(2). Pub. L. 110–417, §811(c)(6)(B), inserted “or designated major subprogram” after “major defense acquisition program” and “or subprogram” after “the entire program” and after “cancellation of a program”.
 
-2006—Subsec. (a)(4), (5). Pub. L. 109–163, §802(a), added pars. (4) and (5).
+<b>2006</b>—Subsec. (a)(4), (5). Pub. L. 109–163, §802(a), added pars. (4) and (5).
 
 Subsec. (a)(6). Pub. L. 109–163, §802(d)(2), added par. (6).
 
@@ -200,7 +202,7 @@ Subsec. (d)(1). Pub. L. 109–163, §802(b)(2)(A), substituted “by a percentag
 
 Subsec. (d)(2). Pub. L. 109–163, §802(b)(2)(B), substituted “by a percentage equal to or greater than the significant cost growth threshold, or the critical cost growth threshold, for the program” for “by at least 15 percent, or by at least 25 percent, over the procurement unit cost for the program as reflected in the Baseline Estimate”.
 
-Subsec. (d)(3). Pub. L. 109–163, §802(b)(2)(C), substituted “by a percentage equal to or greater than the significant cost growth threshold or critical cost growth threshold or that” for “by at least 15 percent, or by at least 25 percent, as determined under paragraph (1) or that” and “by a percentage equal to or greater than the significant cost growth threshold or critical cost growth threshold, the Secretary” for “byat least 15 percent, or by at least 25 percent, as determined under paragraph (2), the Secretary”.
+Subsec. (d)(3). Pub. L. 109–163, §802(b)(2)(C), substituted “by a percentage equal to or greater than the significant cost growth threshold or critical cost growth threshold or that” for “by at least 15 percent, or by at least 25 percent, as determined under paragraph (1) or that” and “by a percentage equal to or greater than the significant cost growth threshold or critical cost growth threshold, the Secretary” for “by at least 15 percent, or by at least 25 percent, as determined under paragraph (2), the Secretary”.
 
 Subsec. (e)(1)(A). Pub. L. 109–163, §802(b)(3)(A), substituted “by a percentage equal to or greater than the significant cost growth threshold for the program” for “by at least 15 percent”.
 
@@ -216,17 +218,17 @@ Subsec. (e)(3). Pub. L. 109–163, §802(b)(3)(C)(ii), substituted “by a perce
 
 Pub. L. 109–163, §802(b)(3)(C)(i), substituted “by a percentage equal to or greater than the significant cost growth threshold” for “of at least 15 percent” in introductory provisions and subpar. (A).
 
-2004—Subsec. (b)(5). Pub. L. 108–375, §801(a), added par. (5).
+<b>2004</b>—Subsec. (b)(5). Pub. L. 108–375, §801(a), added par. (5).
 
 Subsec. (g)(1)(Q). Pub. L. 108–375, §801(b)(1), added subpar. (Q).
 
-1997—Subsec. (c). Pub. L. 105–85, §833(a), in concluding provisions, struck out “during the current fiscal year (other than the last quarterly unit cost report under subsection (b) for the preceding fiscal year)” after “designated by the Secretary concerned”.
+<b>1997</b>—Subsec. (c). Pub. L. 105–85, §833(a), in concluding provisions, struck out “during the current fiscal year (other than the last quarterly unit cost report under subsection (b) for the preceding fiscal year)” after “designated by the Secretary concerned”.
 
 Subsec. (c)(1) to (3). Pub. L. 105–85, §833(b), inserted “or” at end of par. (1), struck out “or” at end of par. (2), and struck out par. (3), which read as follows: “that cost variances or schedule variances of a major contract under the program have resulted in an increase in the cost of the contract of at least 15 percent over the cost of the contract as of the time the contract was made;”.
 
 Subsec. (d)(3). Pub. L. 105–85, §833(c), struck out “(for the first time since the beginning of the current fiscal year)” after “the Secretary concerned determines”.
 
-1994—Subsec. (a)(2). Pub. L. 103–355, §3003(a)(1)(A), substituted “Baseline Estimate” for “Baseline Selected Acquisition Report” and “cost estimate included in the baseline description for the program under section 2435 of this title.” for “Selected Acquisition Report in which information on the program is first included or the comprehensive annual Selected Acquisition Report for the fiscal year immediately before the fiscal year containing the quarter with respect to which the unit cost report is submitted, whichever is later.”
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–355, §3003(a)(1)(A), substituted “Baseline Estimate” for “Baseline Selected Acquisition Report” and “cost estimate included in the baseline description for the program under section 2435 of this title.” for “Selected Acquisition Report in which information on the program is first included or the comprehensive annual Selected Acquisition Report for the fiscal year immediately before the fiscal year containing the quarter with respect to which the unit cost report is submitted, whichever is later.”
 
 Subsec. (a)(4). Pub. L. 103–355, §3003(a)(1)(B), struck out par. (4) which defined “Baseline Report”.
 
@@ -246,9 +248,9 @@ Subsec. (f). Pub. L. 103–355, §3003(d), substituted “be stated in terms of 
 
 Subsec. (g)(1)(I). Pub. L. 103–355, §3003(e), amended subpar. (I) generally. Prior to amendment, subpar. (I) read as follows: “The type of the Baseline Report (under subsection (a)(4)) and the date of the Baseline Report.”
 
-1993—Subsec. (e)(3). Pub. L. 103–35 substituted “an increase of at least 15 percent” for “a at least 15 percent increase” in introductory provisions and in subpar. (A), and substituted “an increase of at least 25 percent” for “a at least 25 percent increase” in introductory provisions and in subpar. (B).
+<b>1993</b>—Subsec. (e)(3). Pub. L. 103–35 substituted “an increase of at least 15 percent” for “a at least 15 percent increase” in introductory provisions and in subpar. (A), and substituted “an increase of at least 25 percent” for“a at least 25 percent increase” in introductory provisions and in subpar. (B).
 
-1992—Subsec. (a)(4)(C). Pub. L. 102–484, §817(d)(1), substituted “(e)(2)(B)” for “(e)(2)(B)(ii)”.
+<b>1992</b>—Subsec. (a)(4)(C). Pub. L. 102–484, §817(d)(1), substituted “(e)(2)(B)” for “(e)(2)(B)(ii)”.
 
 Subsec. (b). Pub. L. 102–484, §817(d)(2), substituted “30 calendar days” for “7 days (excluding Saturdays, Sundays, and legal public holidays)” in second sentence.
 
@@ -264,13 +266,13 @@ Subsec. (e)(2). Pub. L. 102–484, §817(d)(5)(B), substituted “program acquis
 
 Subsec. (e)(3). Pub. L. 102–484, §817(d)(5)(C), substituted “at least” for “more than” wherever appearing.
 
-1990—Subsec. (c). Pub. L. 101–510 struck out “the” before “such service acquisition executive” wherever appearing.
+<b>1990</b>—Subsec. (c). Pub. L. 101–510 struck out “the” before “such service acquisition executive” wherever appearing.
 
-1989—Subsec. (a)(2). Pub. L. 101–189, §811(a)(1)(A), inserted “the service acquisition executive designated by” before “the Secretary concerned”.
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–189, §811(a)(1)(A), inserted “the service acquisition executive designated by” before “the Secretary concerned”.
 
 Subsec. (a)(4). Pub. L. 101–189, §811(a)(1)(B)(i), inserted “the service acquisition executive designated by” before “the Secretary concerned” in introductory provisions.
 
-Subsec. (a)(4)(A). Pub. L. 101–189, §811(a)(1)(B)(ii), substituted “Selected Acquisition Report submitted undersubsection (e)(2)(B) that includes information on” for “unit cost report submitted under subsection (e)(2)(B)(ii) with respect to”.
+Subsec. (a)(4)(A). Pub. L. 101–189, §811(a)(1)(B)(ii), substituted “Selected Acquisition Report submitted under subsection (e)(2)(B) that includes information on” for “unit cost report submitted under subsection (e)(2)(B)(ii) with respect to”.
 
 Subsec. (a)(4)(B). Pub. L. 101–189, §811(a)(1)(B)(iii), substituted “subsection (e)(2)(B) with respect to the program during that three-quarter period, the most recent Selected Acquisition Report submitted under subsection (e)(1) that includes information on the program” for “subsection (e)(2)(B)(ii) with respect to the program during that three-quarter period, the most recent unit cost report submitted under subsection (e)(1) with respect to the program”.
 
@@ -294,7 +296,7 @@ Subsec. (e)(3). Pub. L. 101–189, §811(a)(5)(B), in introductory provisions, i
 
 Subsec. (g)(2). Pub. L. 101–189, §811(a)(6), inserted at end “The certification of the Secretary of Defense under subsection (e) is not required to be submitted for termination or cancellation of a program.”
 
-1987—Pub. L. 100–180 made technical amendment to directory language of Pub. L. 99–433, §101(a)(5). See 1986 Amendment note below.
+<b>1987</b>—Pub. L. 100–180 made technical amendment to directory language of Pub. L. 99–433, §101(a)(5). See 1986 Amendment note below.
 
 Subsec. (a)(1). Pub. L. 100–26, §7(b)(4), substituted “(1) The terms ‘program’ ” for “(1) ‘Major defense acquisition program’, ‘program’ ”.
 
@@ -304,7 +306,7 @@ Subsec. (a)(3). Pub. L. 100–26, §7(k)(7)(B), substituted “The term ‘procu
 
 Subsec. (a)(4). Pub. L. 100–26, §7(k)(7)(A), inserted “The term” after par. designation.
 
-1986—Pub. L. 99–433, §101(a)(5), as amended by Pub. L. 100–180, §1314(a)(1), renumbered section 139b of this title as this section.
+<b>1986</b>—Pub. L. 99–433, §101(a)(5), as amended by Pub. L. 100–180, §1314(a)(1), renumbered section 139b of this title as this section.
 
 Pub. L. 99–433, §110(d)(14), substituted “Unit cost reports” for “Oversight of cost growth of major programs: unit cost reports” in section catchline.
 
@@ -316,9 +318,9 @@ Pub. L. 99–433, §110(g)(8)(B), substituted “section 2432(b)(3)” for “se
 
 Subsec. (h). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§961(b)(2)\], Pub. L. 99–661, §961(b)(2), amended section identically, adding subsec. (h).
 
-1985—Subsec. (d)(3)(B)(i). Pub. L. 99–145 inserted “percent” after “15”.
+<b>1985</b>—Subsec. (d)(3)(B)(i). Pub. L. 99–145 inserted “percent” after “15”.
 
-1984—Subsec. (a)(4). Pub. L. 98–525, §1242(b)(1), added par. (4).
+<b>1984</b>—Subsec. (a)(4). Pub. L. 98–525, §1242(b)(1), added par. (4).
 
 Subsec. (b). Pub. L. 98–525, §1242(b)(2)(A), (B), struck out “not more than 7 days” before “after the end of that quarter” and inserted “Each report for the first quarter of a fiscal year shall be submitted not more than 7 days after the date on which the President transmits the Budget to Congress for the following fiscal year, and each report for other quarters shall be submitted not more than 7 days after the end of that quarter.”
 
@@ -352,7 +354,7 @@ Subsec. (g)(1)(I). Pub. L. 98–525, §1242(b)(6)(A), substituted “The type of
 
 Subsec. (g)(1)(K). Pub. L. 98–525, §1242(b)(6)(B), required the report to include the procurement unit cost for the succeeding fiscal year expressed in constant base-year dollars and in current year dollars.
 
-1983—Subsec. (g)(2). Pub. L. 98–94 substituted “procurement” for “procurment”.
+<b>1983</b>—Subsec. (g)(2). Pub. L. 98–94 substituted “procurement” for “procurment”.
 
 #### Effective Date of 2009 Amendment
 
@@ -395,6 +397,4 @@ Amendment by Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 effective 
 #### Effective Date
 
 Section effective Jan. 1, 1983, and applicable beginning with respect to reports for first quarter of fiscal year 1983, see section 1107(c) of Pub. L. 97–252, set out as a note under section 2432 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “2430a(d)”.</i>
 

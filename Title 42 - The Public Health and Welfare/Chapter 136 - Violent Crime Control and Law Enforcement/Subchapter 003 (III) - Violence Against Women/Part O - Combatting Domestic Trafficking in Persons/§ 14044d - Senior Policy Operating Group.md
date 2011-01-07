@@ -14,5 +14,5 @@ Section was enacted as part of the Trafficking Victims Protection Reauthorizatio
 
 #### Amendments
 
-2008—Pub. L. 110–457 struck out “, as the department or agency determines appropriate,” before “apprise the Senior Policy Operating Group”.
+<b>2008</b>—Pub. L. 110–457 struck out “, as the department or agency determines appropriate,” before “apprise the Senior Policy Operating Group”.
 

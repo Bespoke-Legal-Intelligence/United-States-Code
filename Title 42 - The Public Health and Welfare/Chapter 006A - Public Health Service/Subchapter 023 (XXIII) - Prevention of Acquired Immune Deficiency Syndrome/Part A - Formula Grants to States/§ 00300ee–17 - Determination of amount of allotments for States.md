@@ -64,9 +64,9 @@ A prior section 2507 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-1989—Subsec. (a). Pub. L. 101–93, §5(e)(2), substituted “Subject to the extent of amounts made available in appropriation Acts, the allotment” for “The allotment”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–93, §5(e)(2), substituted “Subject to the extent of amounts made available in appropriation Acts, the allotment” for “The allotment”.
 
-1988—Subsec. (a)(1). Pub. L. 100–690, §2619(e)(1) \[(f)(1)\], substituted “applicable amount specified” for “amount described”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–690, §2619(e)(1) \[(f)(1)\], substituted “applicable amount specified” for “amount described”.
 
 Subsec. (b)(1). Pub. L. 100–690, §2619(e)(2)(A)(i) \[(f)(2)(A)(i)\], made technical amendment to reference to section 300ee–24(a) of this title to correct reference to corresponding provision of original act.
 

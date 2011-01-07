@@ -2,7 +2,7 @@
 
 (a) Except as provided in subsection (b), (c), or (d) of this section, a rehabilitation program may not be afforded to a veteran under this chapter after the end of the twelve-year period beginning on the date of such veteran's discharge or release from active military, naval, or air service.
 
-(b)(1) In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility prescribed in subsection (a) of this section because a medical condition of such veteran made it infeasible for such veteran to participate in such a program, the twelve-year period of eligibility shall not run during the period of time that such veteran was so prevented from participating in such a program, and such period of eligibility shall again begin to run on the first day following such veteran's recovery from such condition on which it is reasonably feasible, as determined under regulations which the Secretary shall prescribe, for such veteran to participate in such a program.
+(b)(1) In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility prescribed in subsection (a) of this section because a medical condition of such veteran made it infeasible for such veteran to participate in such a program, the twelve-year period of eligibility shall not run during the period of time that such veteran was so prevented from participating in such a program, and such period of eligibility shall again begin to run on the first day following such veteran's recovery fromsuch condition on which it is reasonably feasible, as determined under regulations which the Secretary shall prescribe, for such veteran to participate in such a program.
 
 (2) In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility prescribed in subsection (a) of this section because—
 
@@ -34,11 +34,11 @@ Prior section 3103 was renumbered section 5303 of this title.
 
 #### Amendments
 
-2002—Subsec. (e). Pub. L. 107–330 made technical correction to directory language of Pub. L. 107–103. See 2001 Amendment note below.
+<b>2002</b>—Subsec. (e). Pub. L. 107–330 made technical correction to directory language of Pub. L. 107–103. See 2001 Amendment note below.
 
-2001—Subsec. (e). Pub. L. 107–103, as amended by Pub. L. 107–330, added subsec. (e).
+<b>2001</b>—Subsec. (e). Pub. L. 107–103, as amended by Pub. L. 107–330, added subsec. (e).
 
-1996—Subsec. (b)(3). Pub. L. 104–275, §101(c)(1), substituted “rated at 10 percent or more” for “described in section 3102(1)(A)(i) of this title”.
+<b>1996</b>—Subsec. (b)(3). Pub. L. 104–275, §101(c)(1), substituted “rated at 10 percent or more” for “described in section 3102(1)(A)(i) of this title”.
 
 Subsec. (c). Pub. L. 104–275, §101(c)(2)(A), substituted “current” for “particular” in introductory provisions.
 
@@ -46,21 +46,21 @@ Subsec. (c)(2). Pub. L. 104–275, §101(c)(2)(B), substituted “veteran's curr
 
 Subsec. (d). Pub. L. 104–275, §101(c)(3), substituted “in accordance with the provisions of section 3120 of this title” for “under this chapter”.
 
-1994—Subsec. (b)(3). Pub. L. 103–446 substituted “section 3102(1)(A)(i)” for “section 3102(1)(A)”.
+<b>1994</b>—Subsec. (b)(3). Pub. L. 103–446 substituted “section 3102(1)(A)(i)” for “section 3102(1)(A)”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1503 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1503 of this title as this section.
 
 Subsec. (b)(2)(B). Pub. L. 102–40 substituted “5303” for “3103”.
 
 Subsec. (b)(3). Pub. L. 102–83, §5(c)(1), substituted “3102(1)(A)” for “1502(1)(A)”.
 
-1989—Subsecs. (b) to (d). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Subsecs. (b) to (d). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1986—Subsec. (d). Pub. L. 99–576 inserted “currently” after “goal”.
+<b>1986</b>—Subsec. (d). Pub. L. 99–576 inserted “currently” after “goal”.
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–330, title III, §308(h), Dec. 6, 2002, 116 Stat. 2829, provided that the amendment made by section 308(h) of Pub. L. 107–330 is effective as of Dec. 27, 2001, and as if included in section 103(c) of the Veterans Education and Benefits Expansion Act of 2001, Pub. L. 107–103, as originally enacted.
+Pub. L. 107–330, title III, §308(h), Dec. 6, 2002, 116 Stat. 2829, provided that the amendment made by section308(h) of Pub. L. 107–330 is effective as of Dec. 27, 2001, and as if included in section 103(c) of the Veterans Education and Benefits Expansion Act of 2001, Pub. L. 107–103, as originally enacted.
 
 #### Effective Date of 2001 Amendment
 

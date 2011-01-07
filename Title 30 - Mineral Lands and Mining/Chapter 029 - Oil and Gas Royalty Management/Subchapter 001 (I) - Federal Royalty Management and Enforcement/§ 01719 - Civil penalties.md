@@ -74,7 +74,7 @@ If any person fails to pay an assessment of a civil penalty under this chapterâ€
 
 &emsp;(2) after a court in an action brought under subsection (j) of this section has entered a final judgment in favor of the Secretary,
 
-> the court shall have jurisdiction to award the amount assessed plus interest from the date of the expiration of the 90-day period referred to in subsection (j) of this section. Judgment by the court shall include an order to pay.
+> the court shall have jurisdiction to award the amount assessed plus interest from the date ofthe expiration of the 90-day period referred to in subsection (j) of this section. Judgment by the court shall include an order to pay.
 
 #### (<i>l</i>) Nonliability for leases automatically terminated
 

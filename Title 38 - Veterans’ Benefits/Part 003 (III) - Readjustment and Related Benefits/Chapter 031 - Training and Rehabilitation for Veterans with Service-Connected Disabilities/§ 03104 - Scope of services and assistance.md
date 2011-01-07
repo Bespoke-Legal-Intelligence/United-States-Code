@@ -52,7 +52,7 @@ Prior section 3104 was renumbered section 5304 of this title.
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–275, §101(d)(1)(A), substituted “the veteran has an employment handicap or” for “such veteran's disability or disabilities cause” and inserted “reasonably” after “goal is”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–275, §101(d)(1)(A), substituted “the veteran has an employment handicap or” for “such veteran's disability or disabilities cause” and inserted “reasonably” after “goal is”.
 
 Subsec. (a)(7)(A). Pub. L. 104–275, §101(d)(1)(B), struck out “(i)” after “assistance, including” and “, and (ii) job-readiness skills development and counseling under section 14(a)(2) of the Veterans’ Job Training Act (29 U.S.C. 1721 note) for a participant in a program of training under such Act” after “individual case”.
 
@@ -60,7 +60,7 @@ Subsec. (a)(12). Pub. L. 104–275, §101(d)(1)(C), substituted “For veterans 
 
 Subsecs. (b), (c). Pub. L. 104–275, §101(d)(2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “A program of independent living services and assistance may include the types of services and assistance described in section 702 of the Rehabilitation Act of 1973 (29 U.S.C. 796a).”
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1504 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1504 of this title as this section.
 
 Subsec. (a)(3). Pub. L. 102–83, §5(c)(1), substituted “3108” for “1508”.
 
@@ -72,9 +72,9 @@ Subsec. (a)(8). Pub. L. 102–83, §5(c)(1), substituted “3112” for “1512�
 
 Subsec. (b). Pub. L. 102–54 substituted “(29 U.S.C. 796a)” for “(29 U.S.C. 796)”.
 
-1989—Subsecs. (a), (c). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Subsecs. (a), (c). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1988—Subsec. (a)(7). Pub. L. 100–323 designated existing provisions as subpar. (A) and added subpar. (B).
+<b>1988</b>—Subsec. (a)(7). Pub. L. 100–323 designated existing provisions as subpar. (A) and added subpar. (B).
 
 #### Effective Date of 1996 Amendment
 

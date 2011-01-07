@@ -40,3 +40,7 @@ Sections 101, 212, and 219 of the Immigration and Nationality Act, referred to i
 
 Section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989, referred to in subsec. (a), is classified to section 2656f(d)(2) of Title 22, Foreign Relations and Intercourse.
 
+<i><sup>1</sup></i><i> So in original. The word “section” probably should appear after “in”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be section “2332a(c)(2)”.</i>
+

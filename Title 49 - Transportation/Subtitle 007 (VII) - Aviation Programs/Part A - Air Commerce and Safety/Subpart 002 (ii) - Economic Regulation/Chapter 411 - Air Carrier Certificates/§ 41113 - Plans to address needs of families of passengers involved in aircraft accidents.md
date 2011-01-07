@@ -66,11 +66,11 @@ Statutory Construction.—Nothing in this section may be construed as limiting t
 
 #### Amendments
 
-2003—Subsec. (b)(16). Pub. L. 108–176, §809(a)(1), struck out “the air carrier” after “major loss of life,”.
+<b>2003</b>—Subsec. (b)(16). Pub. L. 108–176, §809(a)(1), struck out “the air carrier” after “major loss of life,”.
 
 Subsec. (b)(17), (18). Pub. L. 108–176, §809(a)(2), added pars. (17) and (18).
 
-2000—Subsec. (a). Pub. L. 106–181, §402(a)(5)(A), substituted “Each air carrier” for “Not later than 6 months after the date of the enactment of this section, each air carrier”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–181, §402(a)(5)(A), substituted “Each air carrier” for “Not later than 6 months after the date of the enactment of this section, each air carrier”.
 
 Subsec. (b)(14) to (16). Pub. L. 106–181, §402(a)(1)–(3), added pars. (14) to (16).
 

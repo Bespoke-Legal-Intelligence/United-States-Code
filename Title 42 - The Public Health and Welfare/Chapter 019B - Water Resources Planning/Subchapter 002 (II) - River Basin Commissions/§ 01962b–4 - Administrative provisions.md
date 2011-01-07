@@ -26,7 +26,7 @@ The chairman of a river basin commission, or any member of such commission desig
 
 #### (c) Records; public inspection
 
-To the extent permitted by law, all appropriate records and papers of each river basin commission shall be made available for public inspection during ordinary office hours.
+To the extent permitted by law, all appropriate records and papers of each river basincommission shall be made available for public inspection during ordinary office hours.
 
 #### (d) Information and personnel from other Federal agencies
 
@@ -40,7 +40,7 @@ The chairman of each river basin commission shall, with the concurrence of the v
 
 #### Amendments
 
-1975—Subsec. (a)(4). Pub. L. 94–112 substituted “not in excess of the daily equivalent of the rate prescribed for grade GS–18 under section 5332 of title 5” for “not to exceed $100 per diem”.
+<b>1975</b>—Subsec. (a)(4). Pub. L. 94–112 substituted “not in excess of the daily equivalent of the rate prescribed for grade GS–18 under section 5332 of title 5” for “not to exceed $100 per diem”.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

@@ -14,7 +14,7 @@ Executive Committee.—The executive committee of the corporation consists of—
 
 (c)
 
-Officers.—(1) The officers of the corporation are a national commander, two national vice commanders, a finance officer, a judge advocate, a chaplain, six national district commanders, and a provost marshal.
+Officers.—(1) The officers of the corporation are a national commander, two nationalvice commanders, a finance officer, a judge advocate, a chaplain, six national district commanders, and a provost marshal.
 
 (2) The officers shall be elected by the delegates at the annual national convention.
 
@@ -64,5 +64,5 @@ In subsection (c), the words “each official delegate casting one vote” are o
 
 #### Amendments
 
-2002—Subsec. (c)(1). Pub. L. 107–241 substituted “two national vice commanders, a finance officer, a judge advocate, a chaplain, six national district commanders,” for “seven national vice commanders, one of whom shall be a woman, a finance officer, an adjutant, a judge advocate,”.
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–241 substituted “two national vice commanders, a finance officer, a judge advocate, a chaplain, six national district commanders,” for “seven national vice commanders, one of whom shall be a woman, a finance officer, an adjutant, a judge advocate,”.
 

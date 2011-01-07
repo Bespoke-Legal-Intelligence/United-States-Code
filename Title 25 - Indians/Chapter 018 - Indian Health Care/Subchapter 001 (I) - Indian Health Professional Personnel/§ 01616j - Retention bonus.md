@@ -44,7 +44,7 @@ The Secretary may pay a retention bonus to any physician or nurse employed by an
 
 &emsp;(2) necessary for providing health care services to Indians.
 
-(Pub. L. 94–437, title I, §117, as added Pub. L. 100–713, title I, §109, Nov. 23, 1988, 102 Stat. 4799;amended Pub. L. 102–573, title I, §104(d), Oct. 29, 1992, 106 Stat. 4533.)
+(Pub. L. 94–437, title I, §117, as added Pub. L. 100–713, title I, §109, Nov. 23, 1988, 102 Stat. 4799; amended Pub. L. 102–573, title I, §104(d), Oct. 29, 1992, 106 Stat. 4533.)
 
 #### References in Text
 
@@ -52,5 +52,5 @@ The Indian Self-Determination Act, referred to in subsec. (f), is title I of Pub
 
 #### Amendments
 
-1992—Subsecs. (b) to (f). Pub. L. 102–573 added subsec. (b), redesignated former subsecs. (b) to (e) as (c) to (f), respectively, and amended subsec. (f) generally, substituting provisions relating to physicians and nurses employed under the Indian Self-Determination Act for provisions which authorized appropriations for fiscal years 1990 to 1992.
+<b>1992</b>—Subsecs. (b) to (f). Pub. L. 102–573 added subsec. (b), redesignated former subsecs. (b) to (e) as (c) to (f), respectively, and amended subsec. (f) generally, substituting provisions relating to physicians and nurses employed under the Indian Self-Determination Act for provisions which authorized appropriations for fiscal years 1990 to 1992.
 

@@ -8,7 +8,7 @@ Subject to section 1300d–27(e) of this title, the Secretary shall, in the mann
 
 #### (1) In general
 
-&emsp;Subject to section 1300d–27(e) of this title, if the number of individuals on the final roll of lineal descendants certified by the Secretary under section 1300d–3(b) of this title is less than 2,588, the Secretary shall distribute a reduced aggregate amount to the lineal descendants referred to in subsection (a) of this section, determined by decreasing—
+&emsp;Subject to section 1300d–27(e) of this title, if the number of individuals on the final roll oflineal descendants certified by the Secretary under section 1300d–3(b) of this title is less than 2,588, the Secretary shall distribute a reduced aggregate amount to the lineal descendants referred to in subsection (a) of this section, determined by decreasing—
 
 &emsp;&emsp;(A) the percentage specified in section 1300d–23(a)(B)(ii) <sup>1</sup> of this title by a percentage amount equal to—
 

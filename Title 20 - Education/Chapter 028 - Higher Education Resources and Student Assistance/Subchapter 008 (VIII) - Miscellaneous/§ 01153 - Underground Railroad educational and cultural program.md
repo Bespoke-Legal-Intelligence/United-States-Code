@@ -46,9 +46,9 @@ Section was enacted as part of the Higher Education Amendments of 1998, and not 
 
 #### Amendments
 
-2009—Subsec. (c). Pub. L. 111–39 inserted “this section” after “to carry out”.
+<b>2009</b>—Subsec. (c). Pub. L. 111–39 inserted “this section” after “to carry out”.
 
-2008—Subsec. (a). Pub. L. 110–315, §933(1), inserted “, including the lessons to be drawn from such history” after “Underground Railroad”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §933(1), inserted “, including the lessons to be drawn from such history” after “Underground Railroad”.
 
 Subsec. (b)(1), (2). Pub. L. 110–315, §933(2)(A), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 

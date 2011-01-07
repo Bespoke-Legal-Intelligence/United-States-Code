@@ -44,7 +44,7 @@ A manufacturer may request review under section 360bbb–1 of this title of any 
 
 #### Amendments
 
-2007—Pub. L. 110–85, §307(1), made technical amendment to section catchline.
+<b>2007</b>—Pub. L. 110–85, §307(1), made technical amendment to section catchline.
 
 Subsec. (a). Pub. L. 110–85, §307(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary may by order require a manufacturer to conduct postmarket surveillance for any device of the manufacturer which is a class II or class III device the failure of which would be reasonably likely to have serious adverse health consequences or which is intended to be—
 
@@ -56,9 +56,9 @@ Subsec. (b). Pub. L. 110–85, §307(3), designated existing provisions as par. 
 
 Subsec. (c). Pub. L. 110–85, §307(3)(D), added subsec. (c).
 
-1997—Pub. L. 105–115 amended section generally, substituting present provisions for former provisions which related to required surveillance, discretionary surveillance, and surveillance approval.
+<b>1997</b>—Pub. L. 105–115 amended section generally, substituting present provisions for former provisions which related to required surveillance, discretionary surveillance, and surveillance approval.
 
-1992—Subsec. (b). Pub. L. 102–300 substituted “(a)(1)” for “(a)”, inserted comma after “commerce”, and inserted after first sentence “Each manufacturer required to conduct a surveillance of a device under subsection (a)(2) of this section shall, within 30 days after receiving notice that the manufacturer is required to conduct such surveillance, submit, for the approval of the Secretary, a protocol for the required surveillance.”
+<b>1992</b>—Subsec. (b). Pub. L. 102–300 substituted “(a)(1)” for “(a)”, inserted comma after “commerce”, and inserted after first sentence “Each manufacturer required to conduct a surveillance of a device under subsection (a)(2) of this section shall, within 30 days after receiving notice that the manufacturer is required to conduct such surveillance, submit, for the approval of the Secretary, a protocol for the required surveillance.”
 
 #### Effective Date of 1997 Amendment
 

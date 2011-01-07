@@ -28,15 +28,15 @@ Congressional Notification Requirements.—(1) When seeking to establish degree 
 
 #### Amendments
 
-2008—Pub. L. 110–417 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) relating to the authority of Air University to confer academic degrees and regulations under which authority would be exercised.
+<b>2008</b>—Pub. L. 110–417 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) relating to the authority of Air University to confer academic degrees and regulations under which authority would be exercised.
 
 Subsec. (a)(4), (5). Pub. L. 110–181 added par. (4) and redesignated former par. (4) as (5).
 
-2004—Pub. L. 108–375, §556(c)(1), substituted “conferral of degrees” for “graduate-level degrees” in section catchline.
+<b>2004</b>—Pub. L. 108–375, §556(c)(1), substituted “conferral of degrees” for “graduate-level degrees” in section catchline.
 
-Subsec. (a). Pub. L. 108–375, §556(a), substituted “may confer academic degrees as follows:” for “may confer—” in introductory provisions, “The” for “the” in pars.\(1) to (3), period for semicolon in par. (1), and period for “; and” in par. (2) and added par. (4).
+Subsec. (a). Pub. L. 108–375, §556(a), substituted “may confer academic degrees as follows:” for “may confer—” in introductory provisions, “The” for “the” in pars. (1) to (3), period for semicolon in par. (1), and period for “; and” in par. (2) and added par. (4).
 
-1999—Pub. L. 106–65, §543(b)(1), substituted “graduate-level degrees” for “master of airpower art and science” in section catchline.
+<b>1999</b>—Pub. L. 106–65, §543(b)(1), substituted “graduate-level degrees” for “master of airpower art and science” in section catchline.
 
 Subsec. (a). Pub. L. 106–65, §543(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Upon the recommendation of the faculty of the School of Advanced Airpower Studies of the Air University, the Commander of the university may confer the degree of master of airpower art and science upon graduates of the school who fulfill the requirements for the degree.”
 

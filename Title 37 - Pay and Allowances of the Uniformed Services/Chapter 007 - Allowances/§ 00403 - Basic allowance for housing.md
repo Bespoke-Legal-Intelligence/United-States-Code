@@ -78,7 +78,7 @@ Basic Allowance for Housing When Dependents Do Not Accompany Member.—(1) A mem
 
 &emsp;(B) If the member's assignment to duty in that area is under the conditions of a low-cost or no-cost permanent change of station or permanent change of assignment, the amount of the basic allowance for housing for the member shall be based on the member's last duty station if the Secretary concerned determines that it would be inequitable to base the allowance on the cost of housing in the area to which the member is reassigned.
 
-&emsp;(C) If the member is reassigned for a permanent change of station or permanent change ofassignment from a duty station in the United States to another duty station in the United States for a period of not more than one year for the purpose of participating in professional military education or training classes, the amount of the basic allowance for housing for the member may be based on whichever of the following areas the Secretary concerned determines will provide the more equitable basis for the allowance:
+&emsp;(C) If the member is reassigned for a permanent change of station or permanent change of assignment from a duty station in the United States to another duty station in the United States for a period of not more than one year for the purpose of participating in professional military education or training classes, the amount of the basic allowance for housing for the member may be based on whichever of the following areas the Secretary concerned determines will provide the more equitable basis for the allowance:
 
 &emsp;&emsp;(i) The area of the duty station to which the member is reassigned.
 
@@ -120,7 +120,7 @@ Reserve Members.—(1) A member of a reserve component without dependents who is
 
 &emsp;(B) which is owned by the member or for which the member is responsible for rental payments.
 
-(2) The Secretary concerned may provide a basic allowance for housing to a member described in paragraph (1) at a monthly rate equal to the rate of the basic allowance for housing established under subsection (b) or the overseas basic allowance for housing established under subsection (c), whichever applies to the location at which the member is serving, for members inthe same grade at that location without dependents. The member may receive both a basic allowance for housing under paragraph (1) and under this paragraph for the same month, but may not receive the portion of the allowance authorized under section 404 of this title, if any, for lodging expenses if a basic allowance for housing is provided under this paragraph.
+(2) The Secretary concerned may provide a basic allowance for housing to a member described in paragraph (1) at a monthly rate equal to the rate of the basic allowance for housing established under subsection (b) or the overseas basic allowance for housing established under subsection (c), whichever applies to the location at which the member is serving, for members in the same grade at that location without dependents. The member may receive both a basic allowance for housing under paragraph (1) and under this paragraph for the same month, but may not receive the portion of the allowance authorized under section 404 of this title, if any, for lodging expenses if a basic allowance for housing is provided under this paragraph.
 
 (3) Paragraphs (1) and (2) shall not apply if the member is authorized transportation of household goods under section 406 of this title as part of the call or order to active duty described in such paragraph.
 
@@ -260,11 +260,11 @@ In subsection (g), the word “including” is substituted for the words “and 
 
 #### Amendments
 
-2008—Subsec. (b)(7)(E). Pub. L. 110–181, §603(b), substituted “December 31, 2009” for “December 31, 2008”.
+<b>2008</b>—Subsec. (b)(7)(E). Pub. L. 110–181, §603(b), substituted “December 31, 2009” for “December 31, 2008”.
 
 Subsec. (g)(1). Pub. L. 110–181, §602(a), inserted “to attend accession training,” after “called or ordered to active duty” and inserted a comma after “contingency operation” the first time appearing.
 
-2006—Subsec. (b)(7). Pub. L. 109–163, §609(a), added par. (7).
+<b>2006</b>—Subsec. (b)(7). Pub. L. 109–163, §609(a), added par. (7).
 
 Subsec. (g)(1). Pub. L. 109–163, §610(b), inserted “or for a period of more than 30 days” after “in support of a contingency operation” in two places in introductory provisions.
 
@@ -284,9 +284,9 @@ Subsec. (<i>l</i>). Pub. L. 109–163, §611, substituted “365 days” for “
 
 Subsec. (<i>l</i>)(3), (4). Pub. L. 109–364, §605(a), added par. (3) and redesignated former par. (3) as (4).
 
-2005—Subsec. (<i>l</i>). Pub. L. 109–13, §1022, temporarily substituted “365 days” for “180 days” wherever appearing. See Effective and Termination Dates of 2005 Amendments note below.
+<b>2005</b>—Subsec. (<i>l</i>). Pub. L. 109–13, §1022, temporarily substituted “365 days” for “180 days” wherever appearing. See Effective and Termination Dates of 2005 Amendments note below.
 
-2004—Subsec. (d). Pub. L. 108–375, §604(1), substituted “
+<b>2004</b>—Subsec. (d). Pub. L. 108–375, §604(1), substituted “
 
 Do Not” for “
 
@@ -298,17 +298,17 @@ Subsec. (d)(3)(C). Pub. L. 108–375, §604(2), added subpar. (C).
 
 Subsec. (d)(4). Pub. L. 108–375, §603(2), inserted first sentence and struck out former first sentence which read as follows: “The family separation basic allowance for housing under this subsection shall be in addition to any other allowance or per diem that the member is otherwise entitled to receive under this title.”
 
-2003—Subsec. (f)(2)(C). Pub. L. 108–136 substituted “are each entitled to a basic allowance for housing” for “are jointly entitled to one basic allowance for housing” in first sentence, inserted second sentence, and struck out former second and third sentences which read as follows: “The amount of the allowance shall be based on the without dependents rate for the pay grade of the senior member of the couple. However, this subparagraph shall not apply to a couple if one or both of the members are entitled to a basic allowance for housing under subparagraph (B).”
+<b>2003</b>—Subsec. (f)(2)(C). Pub. L. 108–136 substituted “are each entitled to a basic allowance for housing” for “are jointly entitled to one basic allowance for housing” in first sentence, inserted second sentence, and struck out former second and third sentences which read as follows: “The amount of the allowance shall be based on the without dependents rate for the pay grade of the senior member of the couple. However, this subparagraph shall not apply to a couple if one or both of the members are entitled to a basic allowance for housing under subparagraph (B).”
 
-2002—Subsec. (b)(7). Pub. L. 107–314, §602(1), redesignated par. (7) as subsec. (<i>o</i>).
+<b>2002</b>—Subsec. (b)(7). Pub. L. 107–314, §602(1), redesignated par. (7) as subsec. (<i>o</i>).
 
 Subsecs. (f)(3), (<i>l</i>)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” wherever appearing.
 
 Subsec. (<i>o</i>). Pub. L. 107–314 redesignated subsec. (b)(7) as subsec. (<i>o</i>), inserted heading, substituted “In the case of a member who is assigned to duty at a location or under circumstances that make it necessary for the member to be” for “In the case of a member who is assigned to duty inside the United States, the location or the circumstances of which make it necessary that the member be”, and inserted “for the purposes of this section” after “may be treated”.
 
-2001—Subsec. (i). Pub. L. 107–107 struck out “who is in a pay grade E–4 (4 or more years of service) or above” after “A member of a uniformed service”.
+<b>2001</b>—Subsec. (i). Pub. L. 107–107 struck out “who is in a pay grade E–4 (4 or more years of service) or above” after “A member of a uniformed service”.
 
-2000—Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title VI, §605(a)(3)\], added par. (1). Former par. (1) redesignated (2).
+<b>2000</b>—Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title VI, §605(a)(3)\], added par. (1). Former par. (1) redesignated (2).
 
 Subsec. (b)(2). Pub. L. 106–398, §1 \[\[div. A\], title VI, §607(a)\], inserted at end “After June 30, 2001, the Secretary may not differentiate between members with dependents in pay grades E–1 through E–4 in determining what constitutes adequate housing for members.”
 
@@ -344,21 +344,21 @@ Subsec. (f)(3). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(b)(2)\], su
 
 Subsec. (m)(1)(B). Pub. L. 106–398, §1 \[\[div. A\], title VI, §608(b)\], substituted “E–3” for “E–4”.
 
-1998—Subsec. (c)(3). Pub. L. 105–261 added par. (3).
+<b>1998</b>—Subsec. (c)(3). Pub. L. 105–261 added par. (3).
 
-1997—Pub. L. 105–85 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (m) relating to basic allowances for quarters.
+<b>1997</b>—Pub. L. 105–85 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (m) relating to basic allowances for quarters.
 
-1996—Subsec. (b). Pub. L. 104–106, §603(a), designated first sentence as par. (1), designated second sentence as par. (2) and substituted “Subject” for “However, subject”, and added par. (3).
+<b>1996</b>—Subsec. (b). Pub. L. 104–106, §603(a), designated first sentence as par. (1), designated second sentence as par. (2) and substituted “Subject” for “However, subject”, and added par. (3).
 
 Subsec. (b)(3). Pub. L. 104–201, §605, substituted “Subject to the provisions of subsection (j), a member” for “A member”.
 
-Subsec. (c)(2). Pub. L. 104–201, §604(a)–(c), designated first sentence as subpar. (A) and substituted “Except as provided in subparagraphs (B) and (C), a member” for “A member”, added subpars. (B) and (C), and struck out former second sentence which read as follows: “A member of a uniformed service without dependents who is in a pay grade above E–5 who is assigned to sea duty under a permanent change of station is not entitled to a basic allowance for quarters if the unit to which the member is ordered is deployed and the permanent station of the unit is different than the permanent station from which the member is reporting.”
+Subsec. (c)(2). Pub. L. 104–201, §604(a)–(c), designated first sentence as subpar. (A) and substituted “Except asprovided in subparagraphs (B) and (C), a member” for “A member”, added subpars. (B) and (C), and struck out former second sentence which read as follows: “A member of a uniformed service without dependents who is in a pay grade above E–5 who is assigned to sea duty under a permanent change of station is not entitled to a basic allowance for quarters if the unit to which the member is ordered is deployed and the permanent station of the unit is different than the permanent station from which the member is reporting.”
 
 Pub. L. 104–106, §604(a), substituted “E–6” for “E–7” in first sentence and “E–5” for “E–6” in second sentence.
 
-1994—Subsec. (<i>l</i>). Pub. L. 103–337 substituted “180 days” for “90 days” wherever appearing.
+<b>1994</b>—Subsec. (<i>l</i>). Pub. L. 103–337 substituted “180 days” for “90 days” wherever appearing.
 
-1991—Subsec. (a). Pub. L. 102–190, §604(a)(1), designated existing provisions as par. (1) and added par. (2).
+<b>1991</b>—Subsec. (a). Pub. L. 102–190, §604(a)(1), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (b). Pub. L. 102–25, §702(b)(1), struck out “of this section” after “subsection (j)”.
 
@@ -370,9 +370,9 @@ Subsec. (j)(2). Pub. L. 102–25, §702(b)(1), struck out “of this section” 
 
 Subsec. (m). Pub. L. 102–190, §602(a), added subsec. (m).
 
-1987—Subsec. (<i>l</i>)(1). Pub. L. 100–26 substituted “armed forces” for “Armed Forces”.
+<b>1987</b>—Subsec. (<i>l</i>)(1). Pub. L. 100–26 substituted “armed forces” for “Armed Forces”.
 
-1985—Subsec. (a). Pub. L. 99–145, §1303(b)(6), inserted “or as otherwise prescribed by law” after “of this title”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–145, §1303(b)(6), inserted “or as otherwise prescribed by law” after “of this title”.
 
 Pub. L. 99–145, §604(a), inserted provision permitting the allowance authorized by this section to be paid in advance.
 
@@ -386,17 +386,17 @@ Subsec. (k). Pub. L. 99–145, §809(b), substituted “25-year period” for �
 
 Subsec. (<i>l</i>). Pub. L. 99–227 added subsec. (<i>l</i>).
 
-1984—Pub. L. 98–525, §602(c)(2), struck out “; variable housing allowance” in section catchline.
+<b>1984</b>—Pub. L. 98–525, §602(c)(2), struck out “; variable housing allowance” in section catchline.
 
 Subsec. (a). Pub. L. 98–525, §602(c)(1), struck out designation for par. (1) preceding “Except as otherwise provided by law” and struck out par. (2) which related to variable housing allowances.
 
 Subsec. (j)(2). Pub. L. 98–525, §604(a), inserted reference to training missions.
 
-1983—Subsec. (a)(2)(A), (D). Pub. L. 98–94 substituted “Except as provided in subparagraph (D) of this paragraph, a member” for “A member” at beginning of subpar. (A), and added subpar. (D).
+<b>1983</b>—Subsec. (a)(2)(A), (D). Pub. L. 98–94 substituted “Except as provided in subparagraph (D) of this paragraph, a member” for “A member” at beginning of subpar. (A), and added subpar. (D).
 
-1981—Subsec. (b). Pub. L. 97–22 substituted “pay grade E–6” for “pay grade F–6”.
+<b>1981</b>—Subsec. (b). Pub. L. 97–22 substituted “pay grade E–6” for “pay grade F–6”.
 
-1980—Pub. L. 96–343, §4(a)(2), substituted “for quarters; variable housing allowance” for “for quarters” in section catchline.
+<b>1980</b>—Pub. L. 96–343, §4(a)(2), substituted “for quarters; variable housing allowance” for “for quarters” in section catchline.
 
 Subsec. (a). Pub. L. 96–343, §4(a)(1), designated existing provisions as par. (1) and added par. (2).
 
@@ -412,9 +412,9 @@ Pub. L. 96–513, §516(10)(B), substituted “terms” for “words”.
 
 Subsec. (k). Pub. L. 96–579, §7, added subsec. (k).
 
-1974—Subsec. (a). Pub. L. 93–419 substituted reference to section 1009 of this title for provisions setting out in tables the rates of basic allowance for quarters for members of uniformed services.
+<b>1974</b>—Subsec. (a). Pub. L. 93–419 substituted reference to section 1009 of this title for provisions setting out in tables the rates of basic allowance for quarters for members of uniformed services.
 
-1973—Subsec. (a). Pub. L. 93–64, §105(1), (2), substituted in table provisions reading:
+<b>1973</b>—Subsec. (a). Pub. L. 93–64, §105(1), (2), substituted in table provisions reading:
 
 &nbsp;
 
@@ -437,7 +437,7 @@ Subsec. (b). Pub. L. 93–64, §105(3), in second sentence substituted reference
 
 Subsecs. (g) to (j). Pub. L. 93–64, §105(4), (5), added subsecs. (g) to (i) and redesignated former subsec. (g) as (j).
 
-1971—Subsec. (a). Pub. L. 92–129 increased quarters allowances as shown in table. Prior to this amendment the table was set out as follows:
+<b>1971</b>—Subsec. (a). Pub. L. 92–129 increased quarters allowances as shown in table. Prior to this amendment the table was set out as follows:
 
 &nbsp;
 
@@ -468,9 +468,9 @@ Subsecs. (g) to (j). Pub. L. 93–64, §105(4), (5), added subsecs. (g) to (i) a
 | E–2 | 45\.00 | 45\.00 |
 | E–1 | 45\.00 | 45\.00” |
 
-1967—Subsec. (f). Pub. L. 90–207 substituted provisions authorizing the payment of a basic allowance for quarters to a member of a uniformed service without dependents who is in pay grade E–4 (four or more years’ service) or above for the period he is in a travel or leave status between permanent duty stations for provisions which precluded the payment of a basic allowance for quarters to a member of a uniformed service without dependents while in a permanent change of station status.
+<b>1967</b>—Subsec. (f). Pub. L. 90–207 substituted provisions authorizing the payment of a basic allowance for quarters to a member of a uniformed service without dependents who is in pay grade E–4 (four or more years’ service) or above for the period he is in a travel or leave status between permanent duty stations for provisions which precluded the payment of a basic allowance forquarters to a member of a uniformed service without dependents while in a permanent change of station status.
 
-1966—Subsec. (a). Pub. L. 89–718 increased the quarters allowances as shown on the table. Prior to this amendment the table was set out as follows:
+<b>1966</b>—Subsec. (a). Pub. L. 89–718 increased the quarters allowances as shown on the table. Prior to this amendment the table was set out as follows:
 
 &nbsp;
 
@@ -503,7 +503,7 @@ Subsecs. (g) to (j). Pub. L. 93–64, §105(4), (5), added subsecs. (g) to (i) a
 
 Subsec. (e). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
 
-1963—Subsec. (b). Pub. L. 88–132 authorized election by certain officers without dependents not to occupy government quarters.
+<b>1963</b>—Subsec. (b). Pub. L. 88–132 authorized election by certain officers without dependents not to occupy government quarters.
 
 #### Effective Date of 2008 Amendment
 
@@ -551,7 +551,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VI, §605(f)\], Oct. 30, 2000, 114 St
 
 “(1) The amendments made by this section \[amending this section and provisions set out as a note below\] shall take effect on October 1, 2000.
 
-“(2) In the case of the amendment made by subsection (c)(2) \[amending this section\], the amendmentshall apply with respect to pay periods beginning on and after October 1, 2000, for a member of the uniformed services covered by the provision of law so amended regardless of the date on which the member was first reassigned to duty under the conditions of a low-cost or no-cost permanent change of station or permanent change of assignment.
+“(2) In the case of the amendment made by subsection (c)(2) \[amending this section\], the amendment shall apply with respect to pay periods beginning on and after October 1, 2000, for a member of the uniformed services covered by the provision of law so amended regardless of the date on which the member was first reassigned to duty under the conditions of a low-cost or no-cost permanent change of station or permanent change of assignment.
 
 “(3) In the case of the amendment made by subsection (d) \[amending this section\], the amendment shall apply with respect to pay periods beginning on and after October 1, 2000, for a member of the uniformed services covered by the provision of law so amended regardless of the date on which the member was first assigned to duty in an area that is different from the area in which the member's dependents reside.”
 
@@ -623,7 +623,7 @@ Section 604(b) of Pub. L. 98–525 provided that: “The amendment made by subse
 
 #### Effective Date of 1983 Amendment
 
-Section 907(b) of Pub. L. 98–94 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply only with respect to members called or ordered to active duty after September 30, 1983.”
+Section 907(b) of Pub. L. 98–94 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to members called or ordered to active duty after September 30, 1983.”
 
 #### Effective Date of 1981 Amendment
 
@@ -701,7 +701,7 @@ Section 602(a) of Pub. L. 98–525, as amended by Pub. L. 99–661, div. A, titl
 
 #### Freeze of Variable Housing Allowance at Fiscal Year 1983 Rates
 
-Section 906 of Pub. L. 98–94, as amended by Pub. L. 98–525, title VI, §602(b)(2), Oct. 19, 1984, 98 Stat. 2534, provided that during the period beginning on Oct. 1, 1983, and ending on Jan. 1, 1985, the rates at which the variable housing allowance under subsec. (a)(2) of this section was paid was to be the same as the rates in effect on Sept. 30, 1983.
+Section 906 of Pub. L. 98–94, as amended by Pub. L. 98–525, title VI, §602(b)(2), Oct. 19, 1984, 98 Stat. 2534, provided that during the period beginning on Oct. 1, 1983, and ending on Jan. 1, 1985, the rates at which thevariable housing allowance under subsec. (a)(2) of this section was paid was to be the same as the rates in effect on Sept. 30, 1983.
 
 #### Variable Housing Allowance During Fiscal Year 1981; Amount; Regulations
 

@@ -104,15 +104,15 @@ Oct. 18, 1951, ch. 512, title VI, §628, 65 Stat. 449.
 
 #### Amendments
 
-2004—Pub. L. 108–375 renumbered section 2484 of this title as this section.
+<b>2004</b>—Pub. L. 108–375 renumbered section 2484 of this title as this section.
 
-2003—Subsec. (a). Pub. L. 108–136, §654(a)(1), substituted “shall” for “may”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §654(a)(1), substituted “shall” for “may”.
 
 Subsec. (b). Pub. L. 108–136, §654(a)(2), substituted “shall” for “may” in introductory provisions.
 
 Subsec. (c). Pub. L. 108–136, §654(b), added subsec. (c).
 
-2000—Pub. L. 106–398 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (d) providing that funds available to the Department of Defense could be used to pay for certain costs in connection with the operation of commissarystores only on a reimbursable basis and allowed transportation and utilities to be furnished for the operation of those stores outside of the United States or in Alaska and Hawaii.
+<b>2000</b>—Pub. L. 106–398 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (d) providing that funds available to the Department of Defense could be used to pay for certain costs in connection with the operation of commissary stores only on a reimbursable basis and allowed transportation and utilities to be furnished for the operation of those stores outside of the United States or in Alaska and Hawaii.
 
 #### Effective Date of 2000 Amendment
 

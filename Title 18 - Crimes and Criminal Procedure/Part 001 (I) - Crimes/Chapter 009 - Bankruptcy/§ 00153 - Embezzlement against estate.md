@@ -8,7 +8,7 @@ Offense.—A person described in subsection (b) who knowingly and fraudulently a
 
 Person to Whom Section Applies.—A person described in this subsection is one who has access to property or documents belonging to an estate by virtue of the person's participation in the administration of the estate as a trustee, custodian, marshal, attorney, or other officer of the court or as an agent, employee, or other person engaged by such an officer to perform a service with respect to the estate.
 
-(June 25, 1948, ch. 645, 62 Stat. 690; Pub. L. 95–598, title III, §314(a)(1), (d)(1), (2), Nov. 6, 1978, 92 Stat. 2676, 2677; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–394, title III, §312(a)(1)(A), Oct. 22, 1994, 108 Stat. 4139; Pub. L. 104–294, title VI, §601(a)(1), Oct. 11, 1996, 110 Stat. 3497.)
+(June 25, 1948, ch. 645, 62 Stat. 690; Pub. L. 95–598, title III, §314(a)(1), (d)(1), (2), Nov. 6, 1978, 92 Stat. 2676, 2677; Pub. L. 103–322, title XXXIII,§330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–394, title III, §312(a)(1)(A), Oct. 22, 1994, 108 Stat. 4139; Pub. L. 104–294, title VI, §601(a)(1), Oct. 11, 1996, 110 Stat. 3497.)
 
 #### Historical and Revision Notes
 
@@ -18,13 +18,13 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–294 substituted “fined under this title” for “fined not more than $5,000”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–294 substituted “fined under this title” for “fined not more than $5,000”.
 
-1994—Pub. L. 103–394 amended section generally. Prior to amendment, section read as follows: “Whoever knowingly and fraudulently appropriates to his own use, embezzles, spends, or transfers any property or secretes or destroys any document belonging to the estate of a debtor which came into his charge as trustee, custodian, marshal, or other officer of the court, shall be fined under this title or imprisoned not more than five years, or both.”
+<b>1994</b>—Pub. L. 103–394 amended section generally. Prior to amendment, section read as follows: “Whoever knowingly and fraudulently appropriates to his own use, embezzles, spends, or transfers any property or secretes or destroys any document belonging to the estate of a debtor which came into his charge as trustee, custodian, marshal, or other officer of the court, shall be fined under this title or imprisoned not more than five years, or both.”
 
 Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-1978—Pub. L. 95–598 struck out “, receiver” after “trustee” in section catchline and in text struck out “receiver,” before “custodian” and substituted “debtor” for “bankrupt”.
+<b>1978</b>—Pub. L. 95–598 struck out “, receiver” after “trustee” in section catchline and in text struck out “receiver,” before “custodian” and substituted “debtor” for “bankrupt”.
 
 #### Effective Date of 1994 Amendment
 

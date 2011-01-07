@@ -32,7 +32,7 @@ Maximum Amounts and Methods of Payment.—
 
 Skill incentive pay.—(A) Skill incentive pay under subsection (a) may not exceed $1,000 a month.
 
-&emsp;(B) If a member does not satisfy the eligibility requirements specified in paragraphs (1) and (2) of subsection (a) for an entire monthfor receipt of skill incentive pay, the Secretary concerned may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month. A member of a reserve component entitled to compensation under section 206 of this title who is authorized skill incentive pay under subsection (a) may be paid an amount of such pay that is proportionate to the compensation received by the member under section 206 of this title for inactive-duty training.
+&emsp;(B) If a member does not satisfy the eligibility requirements specified in paragraphs (1) and (2) of subsection (a) for an entire month for receipt of skill incentive pay, the Secretary concerned may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month. A member of a reserve component entitled to compensation under section 206 of this title who is authorized skill incentive pay under subsection (a) may be paid an amount of such pay that is proportionate to the compensation received by the member under section 206 of this title for inactive-duty training.
 
 &emsp;(2)
 
@@ -92,9 +92,9 @@ Relationship to Other Pays and Allowances.—A member may not be paid more than 
 
 (i)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2010.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2011.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 175; amended Pub. L. 110–417, \[div. A\], title VI, §619(a), Oct. 14, 2008, 122 Stat. 4487; Pub. L. 111–84, div. A, title VI, §§614(8), 618(d), Oct. 28, 2009, 123 Stat. 2354, 2356.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 175; amended Pub. L. 110–417, \[div. A\], title VI, §619(a), Oct. 14, 2008, 122 Stat. 4487; Pub. L. 111–84, div. A, title VI, §§614(8), 618(d), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(8), Jan. 7, 2011, 124 Stat. 4237.)
 
 #### References in Text
 
@@ -102,7 +102,9 @@ Subsection (g)(2), referred to in subsec. (b)(2), was redesignated subsec. (f)(2
 
 #### Amendments
 
-2009—Subsec. (c)(1). Pub. L. 111–84, §618(d)(2), added par. (1) and struck out former par. (1) which provided that skill incentive pay was not to exceed $1,000 per month.
+<b>2011</b>—Subsec. (i). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+
+<b>2009</b>—Subsec. (c)(1). Pub. L. 111–84, §618(d)(2), added par. (1) and struck out former par. (1) which provided that skill incentive pay was not to exceed $1,000 per month.
 
 Subsecs. (f) to (i). Pub. L. 111–84, §618(d)(1), redesignated subsecs. (g) to (j) as (f) to (i), respectively, and struck out former subsec. (f) which related to reserve component members performing inactive duty training.
 
@@ -110,7 +112,7 @@ Subsec. (j). Pub. L. 111–84, §618(d)(1), redesignated subsec. (j) as (i).
 
 Pub. L. 111–84, §614(8), substituted “December 31, 2010” for “December 31, 2009”.
 
-2008—Subsec. (b). Pub. L. 110–417, §619(a)(1), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary concerned may pay a proficiency bonus to a member of a regular or reserve component of the uniformed services who—
+<b>2008</b>—Subsec. (b). Pub. L. 110–417, §619(a)(1), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary concerned may pay a proficiency bonus to a member of a regular or reserve component of the uniformed services who—
 
 &emsp;“(1) is entitled to basic pay under section 204 of this title or compensation under section 206 of this title; and
 
@@ -136,7 +138,7 @@ Reporting requirement.—Not later than March 31, 2012, the Secretary shall subm
 
 #### Expedited Implementation
 
-Pub. L. 110–417, \[div. A\], title VI, §619(d), Oct. 14, 2008, 122 Stat. 4489, provided that: “Notwithstanding section 662 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 180; 37 U.S.C. 301 note), the Secretary of a military department may immediately implement the amendments made by subsection (a) \[amending this section\] in order to ensure the prompt availability of proficiency bonuses and incentive pay under section 353 of title 37, United States Code, as amended by such subsections \[sic\], for persons enrolled in officer training programs.”
+Pub. L. 110–417, \[div. A\], title VI, §619(d), Oct. 14, 2008, 122 Stat. 4489, as amended by Pub. L. 111–383, div. A, title X, §1075(e)(10), Jan. 7, 2011, 124 Stat. 4375, provided that: “Notwithstanding section 662 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 180; 37 U.S.C. 301 note), the Secretary of a military department may immediately implement the amendments made by subsection (a) \[amending this section\] in order to ensure the prompt availability of proficiency bonuses and incentive payunder section 353 of title 37, United States Code, as amended by such subsection, for persons enrolled in officer training programs.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -70,7 +70,7 @@ The items referred to in subsection (a) are:
 
 #### (5) Inventories
 
-&emsp;In any case in which inventories are received by the acquiring corporation, such inventories shall be taken by such corporation (in determining its income) on the same basis on which such inventories were taken by the distributor or transferor corporation, unless different methods were used by several distributor or transferor corporations or by a distributor or transferor corporation and the acquiring corporation. If different methods were used, the acquiring corporation shall use the method or combination of methods of taking inventory adopted pursuant to regulations prescribed by the Secretary.
+&emsp;In any case in which inventories are received by the acquiring corporation, such inventories shall be taken by such corporation (in determining its income) on the same basis on whichsuch inventories were taken by the distributor or transferor corporation, unless different methods were used by several distributor or transferor corporations or by a distributor or transferor corporation and the acquiring corporation. If different methods were used, the acquiring corporation shall use the method or combination of methods of taking inventory adopted pursuant to regulations prescribed by the Secretary.
 
 #### (6) Method of computing depreciation allowance
 
@@ -124,7 +124,7 @@ The items referred to in subsection (a) are:
 
 #### (18) Percentage depletion on extraction of ores or minerals from the waste or residue of prior mining
 
-&emsp;The acquiring corporation shall be considered to be the distributor or transferor corporation for the purpose of determining the applicability of section 613(c)(3) (relating to extraction of ores or minerals from the ground).
+&emsp;The acquiring corporation shall be considered to be the distributor or transferor corporation for the purpose of determining theapplicability of section 613(c)(3) (relating to extraction of ores or minerals from the ground).
 
 #### (19) Charitable contributions in excess of prior years’ limitation
 
@@ -160,23 +160,23 @@ The items referred to in subsection (a) are:
 
 #### Amendments
 
-1996—Subsec. (c)(26), (27). Pub. L. 104–188 amended directory language of Pub. L. 101–239. See 1989 Amendment note below.
+<b>1996</b>—Subsec. (c)(26), (27). Pub. L. 104–188 amended directory language of Pub. L. 101–239. See 1989 Amendment note below.
 
-1993—Subsec. (c)(26). Pub. L. 103–66 added par. (26).
+<b>1993</b>—Subsec. (c)(26). Pub. L. 103–66 added par. (26).
 
-1990—Subsec. (c)(6). Pub. L. 101–508, §11812(b)(6)(A), substituted “sections 167 and 168” for “subsections (b), (j), and (k) of section 167”.
+<b>1990</b>—Subsec. (c)(6). Pub. L. 101–508, §11812(b)(6)(A), substituted “sections 167 and 168” for “subsections (b), (j), and (k) of section 167”.
 
 Subsec. (c)(15). Pub. L. 101–508, §11801(c)(10)(A), struck out par. (15) “Indebtedness of certain personal holding companies” which read as follows: “The acquiring corporation shall be considered to be the distributor or transferor corporation for the purpose of determining the applicability of subsection (c) of section 545, relating to deduction with respect to payment of certain indebtedness.”
 
 Subsec. (c)(24) to (26). Pub. L. 101–508, §11812(b)(6)(B), redesignated pars. (25) and (26) as (24) and (25), respectively, and struck out former par. (24) “Method of computing depreciation deduction” which read as follows: “The acquiring corporation shall be treated as the distributor or transferor corporation for purposes of computing the deduction allowable under section 168(a) on property acquired in a distribution or transfer with respect to so much of the basis in the hands of the acquiring corporation as does not exceed the adjusted basis in the hands of the distributor or transferor corporation.”
 
-1989—Subsec. (c)(26), (27). Pub. L. 101–239, as amended by Pub. L. 104–188, redesignated par. (27) as (26).
+<b>1989</b>—Subsec. (c)(26), (27). Pub. L. 101–239, as amended by Pub. L. 104–188, redesignated par. (27) as (26).
 
-1988—Subsec. (c)(24). Pub. L. 100–647 substituted “depreciation deduction” for “recovery allowance for recovery property” in heading.
+<b>1988</b>—Subsec. (c)(24). Pub. L. 100–647 substituted “depreciation deduction” for “recovery allowance for recovery property” in heading.
 
-1987—Subsec. (c)(8). Pub. L. 100–203 struck out “or 453A” after “section 453” in two places.
+<b>1987</b>—Subsec. (c)(8). Pub. L. 100–203 struck out “or 453A” after “section 453” in two places.
 
-1986—Subsec. (c)(10). Pub. L. 99–514, §411(b)(2)(C)(iii), struck out last sentence which read: “For the purpose of applying the limitation provided in section 617(h), if, for any taxable year, the distributor or transferor corporation was allowed a deduction under section 617(a), the acquiring corporation shall be deemed to have been allowed such deduction.”
+<b>1986</b>—Subsec. (c)(10). Pub. L. 99–514, §411(b)(2)(C)(iii), struck out last sentence which read: “For the purpose of applying the limitation provided in section 617(h), if, for any taxable year, the distributor or transferor corporation was allowed a deduction under section 617(a), the acquiring corporation shall be deemed to have been allowed such deduction.”
 
 Subsec. (c)(12). Pub. L. 99–514, §1812(a)(3), amended par. (12) generally. Prior to amendment, par. (12), recovery of bad debts, prior taxes, or delinquency amounts, read as follows: “If the acquiring corporation is entitled to the recovery of bad debts, prior taxes, or delinquency amounts previously deducted or credited by the distributor or transferor corporation, the acquiring corporation shall include in its income such amounts as would have been includible by the distributor or transferor corporation in accordance with section 111 (relating to the recovery of bad debts, prior taxes, and delinquency amounts).”
 
@@ -184,7 +184,7 @@ Subsec. (c)(25), (26). Pub. L. 99–514, §231(d)(3)(F), redesignated par. (26) 
 
 Subsec. (c)(27). Pub. L. 99–514, §701(e)(1), added par. (27).
 
-1984—Subsec. (c)(23). Pub. L. 98–369, §474(r)(11)(B), redesignated par. (25) as (23). Former par. (23), relating to credit under section 38 for investment in certain depreciable property, was struck out.
+<b>1984</b>—Subsec. (c)(23). Pub. L. 98–369, §474(r)(11)(B), redesignated par. (25) as (23). Former par. (23), relating to credit under section 38 for investment in certain depreciable property, was struck out.
 
 Subsec. (c)(24). Pub. L. 98–369, §474(r)(11)(B), redesignated par. (28) as (24). Former par. (24), relating to credit under section 40 for work incentive program expenses, was struck out.
 
@@ -200,19 +200,19 @@ Subsec. (c)(30). Pub. L. 98–369, §474(r)(11)(A), struck out par. (30) relatin
 
 Subsec. (d). Pub. L. 98–369, §211(b)(4), substituted “section 810” for “section 812(f)”.
 
-1983—Subsec. (c)(28), (29). Pub. L. 97–448, §102(h)(3), redesignated par. (28), relating to credit under section 44F, as (29). Former par. (29) redesignated (30).
+<b>1983</b>—Subsec. (c)(28), (29). Pub. L. 97–448, §102(h)(3), redesignated par. (28), relating to credit under section 44F, as (29). Former par. (29) redesignated (30).
 
 Subsec. (c)(30). Pub. L. 97–448, §103(g)(2)(F), redesignated former par. (29), relating to credit under section 44G, as (30).
 
-1982—Subsec. (a)(1). Pub. L. 97–248 struck out “, except in a case in which the basis of the assets distributed is determined under section 334(b)(2)” after “applies”.
+<b>1982</b>—Subsec. (a)(1). Pub. L. 97–248 struck out “, except in a case in which the basis of the assets distributed is determined under section 334(b)(2)” after “applies”.
 
-1981—Subsec. (c)(28). Pub. L. 97–34, §208, added par. (28) relating to recovery allowance for recovery property.
+<b>1981</b>—Subsec. (c)(28). Pub. L. 97–34, §208, added par. (28) relating to recovery allowance for recovery property.
 
 Pub. L. 97–34, §221(b)(1)(B), added par. (28) relating to credit under section 44F.
 
 Subsec. (c)(29). Pub. L. 97–34, §331(d)(1)(B), added par. (29).
 
-1980—Subsec. (a). Pub. L. 96–589, §4(g)(2), inserted provisions that a reorganization shall be treated as meeting the requirements of subparagraph (D) or (G) of section 368(a)(1) only if the requirements of subparagraphs (A) and (B) of section 354(b)(1) are met.
+<b>1980</b>—Subsec. (a). Pub. L. 96–589, §4(g)(2), inserted provisions that a reorganization shall be treated as meeting the requirements of subparagraph (D) or (G) of section 368(a)(1) only if the requirements of subparagraphs (A) and (B) of section 354(b)(1) are met.
 
 Subsec. (a)(2). Pub. L. 96–589, §4(g)(1), substituted “subparagraph (A), (C), (D), (F), or (G) of section 368(a)(1)” for “subparagraph (A), (C), (D) (but only if the requirements of subparagraphs (A) and (B) of section 354(b)(1) are met), or (F) of section 368(a)(1)”.
 
@@ -220,11 +220,11 @@ Subsec. (c)(8). Pub. L. 96–471 substituted “reports on the installment basis
 
 Subsec. (c)(27). Pub. L. 96–223 added par. (27).
 
-1978—Subsec. (c)(25). Pub. L. 95–600 substituted “regulated investment company or real estate investment trust” for “real estate investment trust” in heading, and in text “section 860(f)” for “section 859(d)” and “section 860” for “section 859”.
+<b>1978</b>—Subsec. (c)(25). Pub. L. 95–600 substituted “regulated investment company or real estate investment trust” for “real estate investment trust” in heading, and in text “section 860(f)” for “section 859(d)” and “section 860” for “section 859”.
 
-1977—Subsec. (c)(26). Pub. L. 95–30 added par. (26).
+<b>1977</b>—Subsec. (c)(26). Pub. L. 95–30 added par. (26).
 
-1976—Subsec. (b)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (c)(3). Pub. L. 94–455, §1901(b)(33)(N), substituted in subpars. (B) and (C) “capital gain net income” for “net capital gain”.
 
@@ -242,31 +242,31 @@ Subsec. (c)(22) to (24). Pub. L. 94–455, §1906(b)(13)(A), struck out “or hi
 
 Subsec. (c)(25). Pub. L. 94–455, §1601(e), added par. (25).
 
-1971—Subsec. (c)(24). Pub. L. 92–178 added par. (24).
+<b>1971</b>—Subsec. (c)(24). Pub. L. 92–178 added par. (24).
 
-1969—Subsec. (b)(3). Pub. L. 91–172, §512(c), substituted “a net operating loss or a net capital loss” for “a net operating loss”.
+<b>1969</b>—Subsec. (b)(3). Pub. L. 91–172, §512(c), substituted “a net operating loss or a net capital loss” for “a net operating loss”.
 
 Subsec. (c)(6). Pub. L. 91–172, §521(f), substituted “subsections (b), (j) and (k) of section 167” for “paragraphs (2), (3) and (4) of section 167(b)” and inserted reference to adjusted basis in the hand of the distributor or transferor corporation.
 
 Subsec. (c)(10). Pub. L. 91–172, §504(c)(2), substituted “Treatment of certain mining exploration and development expenses of distributor or transferor corporation” for “Treatment of certain expenses deferred by the election of distributor or transferor corporation” in heading, limited deduction of expenses deferred under sections 615 and 616 of this title by the acquiring corporation as if it were the distributor or transferor corporation to pre-1970 exploration and development expenditures, and inserted provision that if distributor or transferor corporation, for any taxable year, was allowed the deduction in sections 615(a) or 617(a) of this title or made the election provided in section 615(b) of this title, acquiring corporation shall be deemed to have been allowed such deduction or deductions or to have made such election, as the case may be, for the purpose of applying the limitation provided in section 617 of this title.
 
-1968—Subsec. (c)(22). Pub. L. 90–240 substituted successor insurance companies for successor life insurance companies as the business enterprise covered, substituted reference to insurance companies taxable under subchapter L for reference to life insurance companies as defined in section 801(a), and substituted reference to the purposes of this section and of subchapter L for reference to the purposes of this section and part I of subchapter L.
+<b>1968</b>—Subsec. (c)(22). Pub. L. 90–240 substituted successor insurance companies for successor life insurance companies as the business enterprise covered, substituted reference to insurance companies taxable under subchapter L for reference to life insurance companies as defined in section 801(a), and substituted reference to the purposes of this section and of subchapter L for reference to the purposes of this section and part I of subchapter L.
 
-1964—Subsec. (c)(15). Pub. L. 88–272, §225(i)(3), substituted “subsections (b)(7) and (c) of section 545, relating to deductions with respect to payment of certain indebtedness” for “section 545(b)(7), relating to a deduction for payment of certain indebtedness incurred before Jan. 1, 1934”.
+<b>1964</b>—Subsec. (c)(15). Pub. L. 88–272, §225(i)(3), substituted “subsections (b)(7) and (c) of section 545, relating to deductions with respect to payment of certain indebtedness” for “section 545(b)(7), relating to a deduction for payment of certain indebtedness incurred before Jan. 1, 1934”.
 
 Subsec. (c)(19). Pub. L. 88–272, §209(d)(2), permitted deductions for contributions made in the taxable year and in 4 prior taxable years, instead of one prior taxable year, and provided that each taxable year beginning on or before the distribution or transfer date shall be treated as a prior taxable year with reference to the acquiring corporation's taxable years beginning after such date.
 
-1962—Subsec. (c)(23). Pub. L. 87–834 added par. (23).
+<b>1962</b>—Subsec. (c)(23). Pub. L. 87–834 added par. (23).
 
-1959—Subsec. (c)(22). Pub. L. 86–69, §3(c)(1), added par. (22).
+<b>1959</b>—Subsec. (c)(22). Pub. L. 86–69, §3(c)(1), added par. (22).
 
 Subsec. (d). Pub. L. 86–69, §3(c)(2), added subsec. (d).
 
-1958—Subsec. (c)(21). Pub. L. 85–866 added par. (21).
+<b>1958</b>—Subsec. (c)(21). Pub. L. 85–866 added par. (21).
 
-1956—Subsec. (c)(20). Act Jan. 28, 1956 added par. (20).
+<b>1956</b>—Subsec. (c)(20). Act Jan. 28, 1956 added par. (20).
 
-1955—Subsec. (c)(7). Act June 15, 1955, repealed par. (7) which related to carryover of prepaid income.
+<b>1955</b>—Subsec. (c)(7). Act June 15, 1955, repealed par. (7) which related to carryover of prepaid income.
 
 #### Effective Date of 1990 Amendment
 
@@ -278,7 +278,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to dispositions in taxable years beginning after Dec. 31, 1987,with special rules for nondealers and coordination with Tax Reform Act of 1986, see section 10202(e)(1), (3), (5) of Pub. L. 100–203, set out as a note under section 453 of this title.
+Amendment by Pub. L. 100–203 applicable to dispositions in taxable years beginning after Dec. 31, 1987, with special rules for nondealers and coordination with Tax Reform Act of 1986, see section 10202(e)(1), (3), (5) of Pub. L. 100–203, set out as a note under section 453 of this title.
 
 #### Effective Date of 1986 Amendment
 

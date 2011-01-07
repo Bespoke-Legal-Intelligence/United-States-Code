@@ -100,7 +100,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 &emsp;(G) establishes procedures to assure public access to information relating to such activities;
 
-&emsp;(H) provides that such grant recipient will make reports to the Chairperson, in such form, at such times, and containing such information, as the Chairperson may require, including a description of the progress made toward achieving the goals of the plan;
+&emsp;(H) provides that such grant recipient will make reports to the Chairperson, in such form,at such times, and containing such information, as the Chairperson may require, including a description of the progress made toward achieving the goals of the plan;
 
 &emsp;(I) provides—
 
@@ -222,7 +222,7 @@ In subsec. (j), “sections 3141–3144, 3146, and 3147 of title 40” substitut
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–512, §318 \[title I, §107(a)\], substituted “the” for “a” after “Foundation”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–512, §318 \[title I, §107(a)\], substituted “the” for “a” after “Foundation”.
 
 Subsec. (c). Pub. L. 101–512, §318 \[title I, §107(b)(1)\], inserted “enter into arrangements, including contracts, grants, loans, and other forms of assistance, to” after “is authorized to”.
 
@@ -254,9 +254,9 @@ Subsec. (k). Pub. L. 101–512, §318 \[title I, §107(g)\], inserted “ongoing
 
 Subsecs. (<i>l</i>), (m). Pub. L. 101–512, §318 \[title I, §107(h)\], added subsecs. (<i>l</i>) and (m) and struck out former subsec. (<i>l</i>) which related to reports and plans required by regulation or directives and the transmittal of such reports and plans to the Equal Employment Opportunity Commission.
 
-1985—Subsec. (b). Pub. L. 99–194, §107(1), (5), substituted “chairperson” for “chairman” in par. (1), and in par. (2), substituted “Chairperson” for “Chairman” and “the Chairperson's” for “his” wherever appearing.
+<b>1985</b>—Subsec. (b). Pub. L. 99–194, §107(1), (5), substituted “chairperson” for “chairman” in par. (1), and in par. (2), substituted “Chairperson” for “Chairman” and “the Chairperson's” for “his” wherever appearing.
 
-Subsec. (c). Pub. L. 99–194, §107(2), (5), substituted “Chairperson” for “Chairman” wherever appearing, substituted “workshops” for “workships” in cl. (3), added cls. (4) and (5) and redesignated existing cls. (4) to (7) as (6) to (9), respectively, substituted “clause (8)” for “clause (6)” in second sentence, and inserted at end “In selecting individuals and groups of exceptional talent as recipients of financial assistance to be provided under this subsection, the Chairperson shall give particular regard to scholars, and educational and cultural institutions, that have traditionally been underrepresented.”
+Subsec. (c). Pub. L. 99–194, §107(2), (5), substituted “Chairperson” for “Chairman” wherever appearing, substituted “workshops” for “workships” in cl. (3),added cls. (4) and (5) and redesignated existing cls. (4) to (7) as (6) to (9), respectively, substituted “clause (8)” for “clause (6)” in second sentence, and inserted at end “In selecting individuals and groups of exceptional talent as recipients of financial assistance to be provided under this subsection, the Chairperson shall give particular regard to scholars, and educational and cultural institutions, that have traditionally been underrepresented.”
 
 Subsec. (d). Pub. L. 99–194, §107(5), substituted “Chairperson” for “Chairman”.
 
@@ -268,7 +268,7 @@ Subsecs. (h)(1), (2)(B), (3), (i). Pub. L. 99–194, §107(5), substituted “Ch
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 99–194, §107(6), added subsecs. (j) to (<i>l</i>).
 
-1980—Subsec. (c). Pub. L. 96–496, §109(c), substituted “Committee on Labor and Human Resources” for “Committee on Labor and Public Welfare” in last sentence.
+<b>1980</b>—Subsec. (c). Pub. L. 96–496, §109(c), substituted “Committee on Labor and Human Resources” for “Committee on Labor and Public Welfare” in last sentence.
 
 Subsec. (f)(2). Pub. L. 96–496, §104(a)(1), substituted provisions relating to the designation of State humanities councils as State administrative agencies, requiring matching State funding and submission by States wishing to designate administrative State agencies of grant applications and accompanying administrative plans, and prescribing a grant recipient application procedure for provisions requiring entities desiring to receive financial assistance under this subsection to submit grant applications and accompanying administrative plans.
 
@@ -290,21 +290,21 @@ Subsec. (g). Pub. L. 96–496, §104(b), substituted “State agency or” for �
 
 Subsec. (i). Pub. L. 96–496, §104(c), added subsec. (i).
 
-1976—Subsecs. (f), (g). Pub. L. 94–462, §§104(a), 105, added subsecs. (f) and (g).
+<b>1976</b>—Subsecs. (f), (g). Pub. L. 94–462, §§104(a), 105, added subsecs. (f) and (g).
 
 Subsec. (h). Pub. L. 94–462, §301(b), added subsec. (h).
 
-1973—Subsec. (c). Pub. L. 93–133, §2(a)(6), in provisions preceding cl. (1) struck out reference to the Federal Council on the Arts and the Humanities, in cl. (2) inserted proviso that loans made by the Endowment shall be made in accordance with terms and conditions approved by the Secretary of the Treasury, in cl. (6) struck out reference to section 111 of title 44, and added cl. (7) and provisions following cl. (7).
+<b>1973</b>—Subsec. (c). Pub. L. 93–133, §2(a)(6), in provisions preceding cl. (1) struck out reference to the Federal Council on the Arts and the Humanities, in cl. (2) inserted proviso that loans made by the Endowment shall be made in accordance with terms and conditions approved by the Secretary of the Treasury, in cl. (6) struck out reference to section 111 of title 44, and added cl. (7) and provisions following cl. (7).
 
 Subsec. (d). Pub. L. 93–133, §3, required the Chairman to correlate the programs of the National Endowment for the Humanities with designated State humanities agencies.
 
-1970—Subsec. (b)(2). Pub. L. 91–346, §8(a), provided that upon expiration of his term of office the Chairman shall serve until his successor shall have been appointed and shall have qualified.
+<b>1970</b>—Subsec. (b)(2). Pub. L. 91–346, §8(a), provided that upon expiration of his term of office the Chairman shall serve until his successor shall have been appointed and shall have qualified.
 
 Subsec. (c)(2). Pub. L. 91–346, §8(b), announced intention of the Endowment for the Humanities to strengthen teaching potential as well as research potential and authorized the Endowment to make contracts as well as grants etc., in its efforts to accomplish its goals.
 
 Subsec. (c)(5). Pub. L. 91–346, §8(c), announced intention to foster education in as well as public understanding and appreciation of the humanities.
 
-1967—Subsec. (b)(1). Pub. L. 90–83 struck out provision setting the compensation of the Chairman at the level prescribed by law for the Director of the National Science Foundation.
+<b>1967</b>—Subsec. (b)(1). Pub. L. 90–83 struck out provision setting the compensation of the Chairman at the level prescribed by law for the Director of the National Science Foundation.
 
 #### Change of Name
 

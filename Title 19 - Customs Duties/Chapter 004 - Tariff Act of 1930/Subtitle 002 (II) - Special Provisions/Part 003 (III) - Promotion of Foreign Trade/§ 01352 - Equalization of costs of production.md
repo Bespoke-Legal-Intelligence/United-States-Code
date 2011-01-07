@@ -22,31 +22,31 @@ The Trade Act of 1974, referred to in subsec. (a), is Pub. L. 93–618, Jan. 3, 
 
 #### Amendments
 
-1979—Subsec. (a). Pub. L. 96–39 amended directory language of Pub. L. 93–618, §602(a), to correct a typographical error, and did not involve any change in text. See 1975 Amendment note below.
+<b>1979</b>—Subsec. (a). Pub. L. 96–39 amended directory language of Pub. L. 93–618, §602(a), to correct a typographical error, and did not involve any change in text. See 1975 Amendment note below.
 
-1975—Subsec. (a). Pub. L. 93–618, as amended by Pub. L. 96–39, inserted reference to the Trade Act of 1974.
+<b>1975</b>—Subsec. (a). Pub. L. 93–618, as amended by Pub. L. 96–39, inserted reference to the Trade Act of 1974.
 
-1962—Subsec. (a). Pub. L. 87–794 inserted references to agreements concluded pursuant to the Trade Expansion Act of 1962.
+<b>1962</b>—Subsec. (a). Pub. L. 87–794 inserted references to agreements concluded pursuant to the Trade Expansion Act of 1962.
 
-1955—Subsec. (c). Act June 21, 1955, substituted “June 30, 1958” for “June 12, 1955”.
+<b>1955</b>—Subsec. (c). Act June 21, 1955, substituted “June 30, 1958” for “June 12, 1955”.
 
-1954—Subsec. (c). Act July 1, 1954, substituted “1955” for “1954”.
+<b>1954</b>—Subsec. (c). Act July 1, 1954, substituted “1955” for “1954”.
 
-1953—Subsec. (c). Act Aug. 7, 1953, substituted “1954” for “1953”.
+<b>1953</b>—Subsec. (c). Act Aug. 7, 1953, substituted “1954” for “1953”.
 
-1951—Subsec. (a). Act June 16, 1951, substituted “section 1336 of this title” for “sections 1336 and 1516(b) of this title”.
+<b>1951</b>—Subsec. (a). Act June 16, 1951, substituted “section 1336 of this title” for “sections 1336 and 1516(b) of this title”.
 
 Subsec. (c). Act June 16, 1951, substituted “1953” for “1951”.
 
-1949—Subsec. (c). Act Sept. 26, 1949, §3, substituted “1953” for “1948”.
+<b>1949</b>—Subsec. (c). Act Sept. 26, 1949, §3, substituted “1953” for “1948”.
 
-1945—Subsec. (c). Act. July 5, 1945, substituted “1948” for “1945”.
+<b>1945</b>—Subsec. (c). Act. July 5, 1945, substituted “1948” for “1945”.
 
-1943—Subsec. (c). Joint Res. June 7, 1943, substituted “1945” for “1943”.
+<b>1943</b>—Subsec. (c). Joint Res. June 7, 1943, substituted “1945” for “1943”.
 
-1940—Subsec. (c). Joint Res. Apr. 12, 1940, substituted “1943” for “1940”.
+<b>1940</b>—Subsec. (c). Joint Res. Apr. 12, 1940, substituted “1943” for “1940”.
 
-1937—Subsec. (c). Act Mar. 1, 1937, substituted “1937” for “1934”.
+<b>1937</b>—Subsec. (c). Act Mar. 1, 1937, substituted “1937” for “1934”.
 
 #### Repeals
 

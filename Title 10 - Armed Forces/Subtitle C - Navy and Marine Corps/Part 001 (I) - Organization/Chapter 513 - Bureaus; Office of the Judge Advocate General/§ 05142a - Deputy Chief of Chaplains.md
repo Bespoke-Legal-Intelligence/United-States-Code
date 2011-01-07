@@ -6,5 +6,5 @@ The Secretary of the Navy may detail as the Deputy Chief of Chaplains an officer
 
 #### Amendments
 
-1997—Pub. L. 105–85 struck out “, who is not on the retired list,” after “who is on active duty”.
+<b>1997</b>—Pub. L. 105–85 struck out “, who is not on the retired list,” after “who is on active duty”.
 

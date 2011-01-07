@@ -42,7 +42,7 @@ In subsection (a), the words “is as provided in” are substituted for “shal
 
 #### Amendments
 
-1998—Subsec. (b)(1), (2). Pub. L. 105–277, §142(e)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+<b>1998</b>—Subsec. (b)(1), (2). Pub. L. 105–277, §142(e)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) amateur sports organizations recognized as national governing bodies under section 220521 of this title;
 

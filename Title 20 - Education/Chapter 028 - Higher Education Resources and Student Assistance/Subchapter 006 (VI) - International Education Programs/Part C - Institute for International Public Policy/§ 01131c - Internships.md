@@ -42,7 +42,7 @@ The Institute shall enter into agreements with institutions of higher education 
 
 &emsp;&emsp;(C) promote policies in each department and agency participating in the Committee that are designed to carry out the objectives of this part.
 
-(Pub. L. 89–329, title VI, §625, formerly §624, as added Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 735; renumbered §625, and amended Pub. L. 105–244, title VI, §603(b)(1), (d), Oct. 7, 1998, 112 Stat. 1783, 1784; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(j), Oct. 21, 1998, 112 Stat. 2681–788; Pub. L. 110–315, title VI, §616, Aug. 14, 2008, 122 Stat. 3341.)
+(Pub. L. 89–329, title VI, §625, formerly §624, as added Pub. L. 102–325, title VI, §601, July 23, 1992,106 Stat. 735; renumbered §625, and amended Pub. L. 105–244, title VI, §603(b)(1), (d), Oct. 7, 1998, 112 Stat. 1783, 1784; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(j), Oct. 21, 1998, 112 Stat. 2681–788; Pub. L. 110–315, title VI, §616, Aug. 14, 2008, 122 Stat. 3341.)
 
 #### Prior Provisions
 
@@ -50,13 +50,13 @@ A prior section 625 of Pub. L. 89–329 was renumbered section 626 and is classi
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–315, §616(1), struck out “as defined in section 1061 of this title” after “Black colleges and universities” and substituted “tribally controlled colleges or universities, Alaska Native-serving, Native Hawaiian-serving, and Hispanic-serving institutions” for “tribally controlled Indian community colleges as defined in the Tribally Controlled Community College Assistance Act of 1978”, “international,” for “an international”, and “the Department of State” for “the United States Information Agency” after “Development,”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §616(1), struck out “as defined in section 1061 of this title” after “Black colleges and universities” and substituted “tribally controlled colleges or universities, Alaska Native-serving, Native Hawaiian-serving, and Hispanic-serving institutions” for “tribally controlled Indian community colleges as defined in the Tribally Controlled Community College Assistance Act of 1978”, “international,” for “an international”, and “the Department of State” for “the United States Information Agency” after “Development,”.
 
 Subsec. (b)(2) to (4). Pub. L. 110–315, §616(2), inserted “and” after semicolon at end of par. (2), substituted a period for “; and” at end of par. (3), and struck out par. (4) which read as follows: “be assisted by the Interagency Committee on Minority Careers in International Affairs established under subsection (c) of this section.”
 
 Subsec. (c)(1)(E) to (G). Pub. L. 110–315, §616(3), inserted “and” after semicolon at end of subpar. (E), substituted a period for “; and” at end of subpar. (F), and struck out subpar. (G) which read as follows: “the Associate Director for Educational and Cultural Affairs of the United States Information Agency, or the Associate Director's designee.”
 
-1998—Pub. L. 105–244, §603(d), designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+<b>1998</b>—Pub. L. 105–244, §603(d), designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
 Subsec. (a). Pub. L. 105–277, which directed the amendment of “section 624 of Pub. L. 89–329 (20 U.S.C. 1131c)” by striking “the United States Information Agency,” after “Agency for International Development,”, could not be executed because of the intervening amendment by Pub. L. 105–244 which renumbered section 624 of Pub. L. 89–329 as section 625.
 

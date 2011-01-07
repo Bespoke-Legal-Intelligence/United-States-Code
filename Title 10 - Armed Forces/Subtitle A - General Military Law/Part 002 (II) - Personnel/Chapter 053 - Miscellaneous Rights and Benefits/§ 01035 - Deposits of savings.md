@@ -20,7 +20,7 @@
 
 &emsp;(3) The term “Persian Gulf conflict” means the period beginning on January 16, 1991, and ending on the date thereafter prescribed by Presidential proclamation or by law.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 89–538, §1(1), Aug. 14, 1966, 80 Stat. 347; Pub. L. 90–122, §1, Nov. 3, 1967, 81 Stat. 361; Pub. L. 91–200, Feb. 26, 1970, 84 Stat. 16; Pub. L. 98–525, title XIV, §1405(20), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–661, div. A, title XIII, §1343(a)(3), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 102–25, title III, §310, Apr. 6, 1991, 105 Stat. 84; Pub. L. 102–190, div. A, title VI, §639, Dec. 5, 1991, 105 Stat. 1384.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 89–538, §1(1), Aug. 14, 1966, 80 Stat. 347; Pub. L.90–122, §1, Nov. 3, 1967, 81 Stat. 361; Pub. L. 91–200, Feb. 26, 1970, 84 Stat. 16; Pub. L. 98–525, title XIV, §1405(20), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–661, div. A, title XIII, §1343(a)(3), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 102–25, title III, §310, Apr. 6, 1991, 105 Stat. 84; Pub. L. 102–190, div. A, title VI, §639, Dec. 5, 1991, 105 Stat. 1384.)
 
 Historical and Revision Notes
 
@@ -78,7 +78,7 @@ In subsection (c), the words “not less than $5” are omitted as surplusage.
 
 #### Amendments
 
-1991—Subsec. (b). Pub. L. 102–190, §639(a), substituted “, the Persian Gulf conflict, or a contingency operation” for “or during the Persian Gulf conflict” before period at end of second sentence and struck out at end “For purposes of this subsection, the Vietnam conflict begins on February 28, 1961, and ends on May 7, 1975, and the Persian Gulf conflict begins on January 16, 1991, and ends on the date thereafter prescribed by Presidential proclamation or by law.”
+<b>1991</b>—Subsec. (b). Pub. L. 102–190, §639(a), substituted “, the Persian Gulf conflict, or a contingency operation” for “or during the Persian Gulf conflict” before period at end of second sentence and struck out at end “For purposes of this subsection, the Vietnam conflict begins on February 28, 1961, and ends on May 7, 1975, and the Persian Gulf conflict begins on January 16, 1991, and ends on the date thereafter prescribed by Presidential proclamation or by law.”
 
 Pub. L. 102–25, §310(a), (c)(1), struck out “, as defined in section 551(2) of title 37,” after “missing status”, inserted “or during the Persian Gulf conflict” before period at end of second sentence, and substituted “May 7, 1975, and the Persian Gulf conflict begins on January 16, 1991, and ends on the date thereafter prescribed by Presidential proclamation or by law” for “the date designated by the President by Executive order as the date of the termination of combatant activities in Vietnam”.
 
@@ -90,15 +90,15 @@ Pub. L. 102–25, §310(b), added subsec. (f).
 
 Subsec. (g). Pub. L. 102–190, §639(b)(1), (c), redesignated subsec. (f) as (g) and amended it generally. Prior to amendment, subsec. (g) read as follows: “In this section, the term ‘missing status’ has the meaning given such term in section 551(2) of title 37.”
 
-1986—Subsec. (a). Pub. L. 99–661 substituted “armed forces” for “armed force”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–661 substituted “armed forces” for “armed force”.
 
-1984—Subsec. (b). Pub. L. 98–525 substituted “percent” for “per centum”, “subsection” for “Act” after “paid under this”, and “90” for “ninety”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–525 substituted “percent” for “per centum”, “subsection” for “Act” after “paid under this”, and “90” for “ninety”.
 
-1970—Subsec. (b). Pub. L. 91–200 permitted accrual of interest on savings above $10,000 ceiling in case of soldiers involved in Vietnam conflicts who have made deposits on or after Sept. 1, 1966, and who are in missing status contemplated by section 551(2) of Title 37, and set out duration of Vietnam conflict as starting Feb. 28, 1961, and ending on the date that the President may designate by Executive order.
+<b>1970</b>—Subsec. (b). Pub. L. 91–200 permitted accrual of interest on savings above $10,000 ceiling in case of soldiers involved in Vietnam conflicts who have made deposits on or after Sept. 1, 1966, and who are in missing status contemplated by section 551(2) of Title 37, and set out duration of Vietnam conflict as starting Feb. 28, 1961, and ending on the date that the President may designate by Executive order.
 
-1967—Subsec. (e). Pub. L. 90–122 added subsec. (e).
+<b>1967</b>—Subsec. (e). Pub. L. 90–122 added subsec. (e).
 
-1966—Subsec. (a). Pub. L. 89–538 permitted not only enlisted personnel but any member of the armed forces, provided he is on permanent duty outside the United States, to participate in the savings program organized under this section and changed the fund into which such savings deposits are made.
+<b>1966</b>—Subsec. (a). Pub. L. 89–538 permitted not only enlisted personnel but any member of the armed forces, provided he is on permanent duty outside the United States, to participate in the savings program organized under this section and changed the fund into which such savings deposits are made.
 
 Subsec. (b). Pub. L. 89–538 changed rate of interest from 4 per centum per annum to a rate prescribed by the President, not to exceed 10 per centum per annum, did away with the necessity that amounts be on deposit for six months or more, set a maximum of $10,000 upon which interest shall be paid, and provided for termination of interest 90 days after the member's return to the United States or its possessions.
 
@@ -124,7 +124,7 @@ Sec. 2. The Secretary of the military department concerned, or his designee, sha
 
 “
 
-Sec. 3. All payments heretofore made which would, but for the fact of such payment, be payable under this Act are validated. However, if such a payment has been repaid to the United States, the fact of payment shall not affect entitlement under this Act.”
+Sec. 3. All payments heretofore made which would, but for the fact of such payment, be payable under thisAct are validated. However, if such a payment has been repaid to the United States, the fact of payment shall not affect entitlement under this Act.”
 
 #### Rates of Interest on Deposits Made Before Aug. 14, 1966
 
@@ -132,7 +132,7 @@ Section 2 of Pub. L. 89–538 provided that:
 
 “(a) Notwithstanding the first section of this Act \[amending this section\], an amount on deposit under section 1035 of title 10, United States Code, on the date of enactment of this Act \[Aug. 14, 1966\], shall accrue interest at the rate and under the conditions in effect on the day before the date of enactment of this Act \[Aug. 14, 1966\], until the member's current enlistment terminates or earlier, as may be jointly prescribed by the Secretaries concerned. However, a member who is on a permanent duty assignment outside the United States or its possessions on the date of enactment of this Act \[Aug. 14, 1966\], or who reports for that duty on or after that date but before the termination of his current enlistment, will be entitled to interest on such deposit, on and after that date, at the rate and under the conditions prescribed pursuant to section 1 \[amending this section\]. Payments of deposits, and interest thereon, may be made to the member's heirs or legal representatives.
 
-“(b) Any amounts deposited between May 4, 1966, and the date of enactment of this Act \[Aug. 14, 1966\] while a member was assigned to permanent duty within the United States and its possessions, and any amounts deposited between May 4, 1966, and the date of enactment of this Act \[Aug. 14, 1966\] by a member on permanent duty assignment outside the United States and its possessions which are in excess of his unallotted pay andallowances for that period, shall accrue interest at the rate in effect before enactment of this Act.”
+“(b) Any amounts deposited between May 4, 1966, and the date of enactment of this Act \[Aug. 14, 1966\] while a member was assigned to permanent duty within the United States and its possessions, and any amounts deposited between May 4, 1966, and the date of enactment of this Act \[Aug. 14, 1966\] by a member on permanent duty assignment outside the United States and its possessions which are in excess of his unallotted pay and allowances for that period, shall accrue interest at the rate in effect before enactment of this Act.”
 
 #### Extension of Coverage to Public Health Service and Coast and Geodetic Survey Personnel; Rules and Regulations
 

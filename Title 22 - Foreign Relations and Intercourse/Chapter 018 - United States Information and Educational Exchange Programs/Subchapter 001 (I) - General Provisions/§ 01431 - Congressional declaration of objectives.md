@@ -10,7 +10,7 @@ The Congress declares that the objectives of this chapter are to enable the Gove
 
 #### Amendments
 
-1961—Pub. L. 87–256 repealed par. (2) which authorized an educational exchange service to cooperate with other nations in the interchange of persons, knowledge, and skills, in the rendering of technical and other services, and in the interchange of developments in the field of education, the arts, and sciences. See section 2451 et seq. of this title.
+<b>1961</b>—Pub. L. 87–256 repealed par. (2) which authorized an educational exchange service to cooperate with other nations in the interchange of persons, knowledge, and skills, in the rendering of technical and other services, and in the interchange of developments in the field of education, the arts, and sciences. See section 2451 et seq. of this title.
 
 #### Termination of Chapter
 
@@ -34,7 +34,7 @@ Section 1010 of act Jan. 27, 1948, provided that: “If any provision of this Ac
 
 #### Transfer of Functions
 
-All functions vested in the President, the Secretary of State, the Department of State, the United States Information Agency, or the Director thereof, under this chapter, were transferred to the Director of the International Communication Agency by Reorg. Plan No. 2 of 1977, §7(a)(1), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by the President, except to the extent that such functions were vested in the President under sections 1452, 1456, and 1467 of this title. The International Communication Agency, and the Director thereof, were redesignated the United States Information Agency, and the Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. United States Information Agency (other thanBroadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+All functions vested in the President, the Secretary of State, the Department of State, the United States Information Agency, or the Director thereof, under this chapter, were transferred to the Director of the International Communication Agency by Reorg. Plan No. 2 of 1977, §7(a)(1), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by the President, except to the extent that such functions were vested in the President under sections 1452, 1456, and 1467 of this title. The International Communication Agency, and the Director thereof, were redesignated the United States Information Agency, and the Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
 #### Promotion of Free Media and Other American Values
 

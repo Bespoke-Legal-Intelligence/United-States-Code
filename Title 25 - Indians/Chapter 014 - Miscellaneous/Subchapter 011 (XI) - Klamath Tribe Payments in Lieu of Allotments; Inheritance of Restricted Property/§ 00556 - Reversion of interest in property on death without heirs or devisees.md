@@ -4,3 +4,5 @@ If any enrolled member of the Klamath Tribe dies without lawful heirs or devises
 
 (June 1, 1938, ch. 310, §6, 52 Stat. 606.)
 
+<i><sup>1</sup></i><i> So in original. Probably should be “devisees,”.</i>
+

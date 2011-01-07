@@ -54,7 +54,7 @@ Sole Source of Funds for Environmental Remediation at Certain Base Realignment a
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–163, §1056(c)(7), substituted “In this subsection, the terms ‘discarded military munitions’ and” for “For purposes of the preceding sentence, the terms ‘unexploded ordnance’, ‘discarded military munitions’, and”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–163, §1056(c)(7), substituted “In this subsection, the terms ‘discarded military munitions’ and” for “For purposes of the preceding sentence, the terms ‘unexploded ordnance’, ‘discarded military munitions’, and”.
 
 Subsec. (g)(1). Pub. L. 109–163, §312(b)(1), substituted “Except as provided in subsection (h), the sole source” for “The sole source”.
 
@@ -62,9 +62,9 @@ Subsec. (h). Pub. L. 109–364 substituted “section 2701(d)(1)” for “subse
 
 Pub. L. 109–163, §312(b)(2), added subsec. (h).
 
-2004—Subsec. (b). Pub. L. 108–375 substituted “For purposes of the preceding sentence, the terms” for “The terms”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–375 substituted “For purposes of the preceding sentence, the terms” for “The terms”.
 
-2003—Subsec. (c)(1). Pub. L. 108–136, §313(a)(1), substituted “only to carry out the environmental restoration functions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law.” for “only—
+<b>2003</b>—Subsec. (c)(1). Pub. L. 108–136, §313(a)(1), substituted “only to carry out the environmental restoration functions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law.” for “only—
 
 &emsp;“(A) to carry out the environmental restoration functions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law; and
 
@@ -92,19 +92,19 @@ Subsec. (c)(3). Pub. L. 108–136, §313(a)(2), struck out par. (3) which read a
 
 Subsec. (c)(4). Pub. L. 108–136, §313(a)(3), redesignated par. (4) as (2).
 
-2001—Subsecs. (b) to (g). Pub. L. 107–107 added subsec. (b) and redesignated former subsecs. (b) to (f) as (c) to (g), respectively.
+<b>2001</b>—Subsecs. (b) to (g). Pub. L. 107–107 added subsec. (b) and redesignated former subsecs. (b) to (f) as (c) to (g), respectively.
 
-2000—Subsec. (a)(5). Pub. L. 106–398, §1 \[\[div. A\], title III, §311(a)\], added par. (5).
+<b>2000</b>—Subsec. (a)(5). Pub. L. 106–398, §1 \[\[div. A\], title III, §311(a)\], added par. (5).
 
 Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title III, §312\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Funds authorized for deposit in an account under subsection (a) may be obligated or expended from the account only in order to carry out the environmental restoration functions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law. Funds so authorized shall remain available until expended.”
 
 Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title III, §311(b)\], added subsec. (f).
 
-1999—Subsec. (c). Pub. L. 106–65, §1066(a)(27), struck out “United States Code,” after “title 31,”.
+<b>1999</b>—Subsec. (c). Pub. L. 106–65, §1066(a)(27), struck out “United States Code,” after “title 31,”.
 
 Subsec. (e). Pub. L. 106–65, §321, substituted “through 2010,” for “through 1999,” in two places.
 
-1996—Pub. L. 104–201 substituted “accounts” for “transfer account” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (f) establishing the Defense Environmental Restoration Account and providing for deposits into and withdrawals from the Account.
+<b>1996</b>—Pub. L. 104–201 substituted “accounts” for “transfer account” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (f) establishing the Defense Environmental Restoration Account and providing for deposits into and withdrawals from the Account.
 
 Subsec. (e). Pub. L. 104–106 amended subsec. (e) generally, substituting
 
@@ -120,7 +120,7 @@ Amounts Recovered.—The following amounts shall be credited to the transfer acc
 
 Amounts Recovered Under CERCLA.—Amounts recovered under section 107 of CERCLA for response actions of the Secretary shall be credited to the transfer account.”
 
-1994—Subsec. (f). Pub. L. 103–337 added subsec. (f).
+<b>1994</b>—Subsec. (f). Pub. L. 103–337 added subsec. (f).
 
 #### Effective Date of 2003 Amendment
 

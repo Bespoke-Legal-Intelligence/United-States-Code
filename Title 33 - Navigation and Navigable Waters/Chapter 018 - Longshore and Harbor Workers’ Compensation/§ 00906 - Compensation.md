@@ -14,27 +14,27 @@ No compensation shall be allowed for the first three days of the disability, exc
 
 #### (c) Applicability of determinations
 
-Determinations under subsection (b)(3) of this section with respect to a period shall apply toemployees or survivors currently receiving compensation for permanent total disability or death benefits during such period, as well as those newly awarded compensation during such period.
+Determinations under subsection (b)(3) of this section with respect to a period shall apply to employees or survivors currently receiving compensation for permanent total disability or death benefits during such period, as well as those newly awarded compensation during such period.
 
 (Mar. 4, 1927, ch. 509, §6, 44 Stat. 1426; June 24, 1948, ch. 623, §1, 62 Stat. 602; July 26, 1956, ch. 735, §1, 70 Stat. 654; Pub. L. 87–87, §1, July 14, 1961, 75 Stat. 203; Pub. L. 92–576, §§4, 5(a), Oct. 27, 1972, 86 Stat. 1252; Pub. L. 98–426, §6, Sept. 28, 1984, 98 Stat. 1641.)
 
 #### Amendments
 
-1984—Subsec. (b)(1). Pub. L. 98–426, §6(a), substituted provisions setting a maximum compensation for disability on death of 200 per centum of the applicable national average weekly wage as determined by the Secretary for former provisions which had set out a schedule of progressive percentages of 125 per centum or $167, whichever is greater, during the period ending September 30, 1973, 150 per centum during the period beginning October 1, 1973, and ending September 30, 1974, 175 per centum during the period beginning October 1, 1974, and ending September 30, 1975, and 200 per centum beginning October 1, 1975.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–426, §6(a), substituted provisions setting a maximum compensation for disability on death of 200 per centum of the applicable national average weekly wage as determined by the Secretary for former provisions which had set out a schedule of progressive percentages of 125 per centum or $167, whichever is greater, during the period ending September 30, 1973, 150 per centum during the period beginning October 1, 1973, and ending September 30, 1974, 175 per centum during the period beginning October 1, 1974, and ending September 30, 1975, and 200 per centum beginning October 1, 1975.
 
 Subsecs. (c), (d). Pub. L. 98–426, §6(b), redesignated subsec. (d) as (c) and substituted “under subsection (b)(3) of this section” for “under this subsection”. Former subsec. (c), which had directed that the maximum rate of compensation for a nonappropriated fund instrumentality employee be equal to 662/3 per centum of the maximum rate of basic pay established for a Federal employee in grade GS–12 by section 5332 of title 5 and the minimum rate of compensation for such an employee be equal to 662/3 per centum of the minimum rate of basic pay established for a Federal employee in grade GS–2 by such section, was struck out.
 
-1972—Subsec. (a). Pub. L. 92–576, §4, substituted “fourteen days” for “twenty-eight days”.
+<b>1972</b>—Subsec. (a). Pub. L. 92–576, §4, substituted “fourteen days” for “twenty-eight days”.
 
 Subsecs. (b) to (d). Pub. L. 92–576, §5(a) added subsecs. (b) to (d) and struck out former subsec. (b) compensation for disability provisions which prescribed a $70 per week limit, a $18 per week minimum for total disability, and provided that if the employee's average weekly wages, as computed under section 910 of this title, were less than $18 per week he should receive as compensation for total disability his average weekly wages.
 
-1961—Subsec. (b). Pub. L. 87–87 increased limitation on compensation for disability from “$54” to “$70” per week.
+<b>1961</b>—Subsec. (b). Pub. L. 87–87 increased limitation on compensation for disability from “$54” to “$70” per week.
 
-1956—Subsec. (a). Act July 26, 1956, substituted “three days” for “seven days” and “twenty-eight days” for “forty-nine days”.
+<b>1956</b>—Subsec. (a). Act July 26, 1956, substituted “three days” for “seven days” and “twenty-eight days” for “forty-nine days”.
 
 Subsec. (b). Act July 26, 1956, substituted “$54” for “$35”, and “$18” for “$12” in two places.
 
-1948—Subsec. (b). Act June 24, 1948, increased maximum weekly compensation from $25 to $35 and the minimum from $9 to $12 in two places.
+<b>1948</b>—Subsec. (b). Act June 24, 1948, increased maximum weekly compensation from $25 to $35 and the minimum from $9 to $12 in two places.
 
 #### Effective Date of 1984 Amendment
 

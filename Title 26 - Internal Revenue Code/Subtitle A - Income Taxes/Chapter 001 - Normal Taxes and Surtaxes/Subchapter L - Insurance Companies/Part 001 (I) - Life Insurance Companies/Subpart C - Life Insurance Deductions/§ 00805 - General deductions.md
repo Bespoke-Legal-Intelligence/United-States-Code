@@ -192,17 +192,17 @@ Another prior section 805, acts Aug. 16, 1954, ch. 736, 68A Stat. 258; Mar. 13, 
 
 #### Amendments
 
-1997—Subsec. (a)(4)(C)(ii). Pub. L. 105–34, §1084(b)(1)(A), inserted “, or out of the increase for the taxable year in policy cash values (within the meaning of subparagraph (F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,” after “tax-exempt interest”.
+<b>1997</b>—Subsec. (a)(4)(C)(ii). Pub. L. 105–34, §1084(b)(1)(A), inserted “, or out of the increase for the taxable year in policy cash values (within the meaning of subparagraph (F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,” after “tax-exempt interest”.
 
 Subsec. (a)(4)(D)(iii). Pub. L. 105–34, §1084(b)(1)(B), substituted “, the increase for the taxable year in policy cash values (within the meaning of subparagraph (F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies, and” for “and”.
 
 Subsec. (a)(4)(F). Pub. L. 105–34, §1084(b)(1)(C), added subpar. (F).
 
-1996—Subsec. (a)(4)(E). Pub. L. 104–188 substituted “243(b)(2)” for “243(b)(5)”.
+<b>1996</b>—Subsec. (a)(4)(E). Pub. L. 104–188 substituted “243(b)(2)” for “243(b)(5)”.
 
-1987—Subsec. (a)(4)(B). Pub. L. 100–203 substituted “shall be the percentage determined under section 246(b)(3) of the life insurance company taxable income (and such limitation shall be applied as provided in section 246(b)(3))” for “shall be 80 percent of the life insurance company taxable income”.
+<b>1987</b>—Subsec. (a)(4)(B). Pub. L. 100–203 substituted “shall be the percentage determined under section 246(b)(3) of the life insurance company taxable income (and such limitation shall be applied as provided in section 246(b)(3))” for “shall be 80 percent of the life insurance company taxable income”.
 
-1986—Subsec. (a)(4)(B). Pub. L. 99–514, §611(a)(5), substituted “80 percent” for “85 percent” in introductory provisions.
+<b>1986</b>—Subsec. (a)(4)(B). Pub. L. 99–514, §611(a)(5), substituted “80 percent” for “85 percent” in introductory provisions.
 
 Subsec. (a)(4)(B)(i). Pub. L. 99–514, §1011(b)(4), struck out “the special life insurance company deduction and” before “the small life”.
 

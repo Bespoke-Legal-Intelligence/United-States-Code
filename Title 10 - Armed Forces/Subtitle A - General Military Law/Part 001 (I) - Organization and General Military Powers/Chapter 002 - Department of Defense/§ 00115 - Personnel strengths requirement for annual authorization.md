@@ -72,7 +72,7 @@ End-of-Quarter Strength Levels.—(1) The Secretary of Defense shall prescribe a
 
 Authority for Secretary of Defense Variances for Active-Duty and Selected Reserve Strengths.—Upon determination by the Secretary of Defense that such action is in the national interest, the Secretary may—
 
-&emsp;(1) increase the end strength authorized pursuant to subsection (a)(1)(A) for a fiscal year for any of the armed forces by a number equalto not more than 3 percent of that end strength;
+&emsp;(1) increase the end strength authorized pursuant to subsection (a)(1)(A) for a fiscal year for any of the armed forces by a number equal to not more than 3 percent of that end strength;
 
 &emsp;(2) increase the end strength authorized pursuant to subsection (a)(1)(B) for a fiscal year for any of the armed forces by a number equal to not more than 2 percent of that end strength;
 
@@ -120,7 +120,7 @@ Certain Personnel Excluded From Counting for Active-Duty End Strengths.—In cou
 
 &emsp;(11) Members of a reserve component on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) for the administration of the Selective Service System.
 
-&emsp;(12) Members of the National Guard on full-time National Guard duty for the purpose of providing command, administrative, training, or support services for the National Guard Challenge Program authorized by section 509 of title 32.
+&emsp;(12) Members of the National Guard on full-time National Guard duty for the purpose ofproviding command, administrative, training, or support services for the National Guard Challenge Program authorized by section 509 of title 32.
 
 &emsp;(13) Members of the National Guard on full-time National Guard duty involuntarily and performing homeland defense activities under chapter 9 of title 32.
 
@@ -128,23 +128,23 @@ Certain Personnel Excluded From Counting for Active-Duty End Strengths.—In cou
 
 #### Prior Provisions
 
-A prior section 115, added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 612, §138(b)–(d); amended Pub. L. 94–361, title III, §302, July 14, 1976, 90 Stat. 924;Pub. L. 96–107, title III, §303(b), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–513, title I, §102, Dec. 12, 1980, 94 Stat. 2840; Pub. L. 97–22, §2(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IX, §§902, 903, Dec. 1, 1981, 95 Stat. 1113, 1114; Pub. L. 97–252, title IV, §402(a), Sept. 8, 1982, 96 Stat. 725; Pub. L. 97–295, §1(3), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 99–145, title XII, §1208, Nov. 8, 1985, 99 Stat. 723; renumbered §115, Pub. L. 99–433, title I, §§101(a)(2), 110(b)(4), (5), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 99–661, div. A, title IV, §§411(c) \[(d)\], 413, Nov. 14, 1986, 100 Stat. 3861, 3862; Pub. L. 100–26, §7(j)(2), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–456, div. A, title VI, §641, Sept. 29, 1988, 102 Stat. 1987, related to annual authorization of personnel strengths and annual manpower requirements reports, prior to repeal and reenactment as sections 115, 115a, 115b \[now 10541\], 123a, and 129a of this title by Pub. L. 101–510, §1483(a), (b).
+A prior section 115, added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 612, §138(b)–(d); amended Pub. L. 94–361, title III, §302, July 14, 1976, 90 Stat. 924; Pub. L. 96–107, title III, §303(b), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–513, title I, §102, Dec. 12, 1980, 94 Stat. 2840; Pub. L. 97–22, §2(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IX, §§902, 903, Dec. 1, 1981, 95 Stat. 1113, 1114; Pub. L. 97–252, title IV, §402(a), Sept. 8, 1982, 96 Stat. 725; Pub. L. 97–295, §1(3), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 99–145, title XII, §1208, Nov. 8, 1985, 99 Stat. 723; renumbered §115, Pub. L. 99–433, title I, §§101(a)(2), 110(b)(4), (5), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 99–661, div. A, title IV, §§411(c) \[(d)\], 413, Nov. 14, 1986, 100 Stat. 3861, 3862; Pub. L. 100–26, §7(j)(2), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–456, div. A, title VI, §641, Sept. 29, 1988, 102 Stat. 1987, related to annual authorization of personnel strengths and annual manpower requirements reports, prior to repeal and reenactment as sections 115, 115a, 115b \[now 10541\], 123a, and 129a of this title by Pub. L. 101–510, §1483(a), (b).
 
 #### Amendments
 
-2009—Subsec. (g). Pub. L. 111–84 amended subsec. (g) generally. Prior to amendment, subsec. (g) related to authority for service secretary variances for active-duty end strengths.
+<b>2009</b>—Subsec. (g). Pub. L. 111–84 amended subsec. (g) generally. Prior to amendment, subsec. (g) related to authority for service secretary variances for active-duty end strengths.
 
-2008—Subsec. (b)(4). Pub. L. 110–181, §416(b), added par. (4).
+<b>2008</b>—Subsec. (b)(4). Pub. L. 110–181, §416(b), added par. (4).
 
 Subsec. (f)(3). Pub. L. 110–181, §417, substituted “3 percent” for “2 percent”.
 
-2006—Subsec. (a)(1)(A). Pub. L. 109–364, §1071(g)(1)(A), made technical correction to directory language of Pub. L. 108–375, §416(a)(1). See 2004 Amendment note below.
+<b>2006</b>—Subsec. (a)(1)(A). Pub. L. 109–364, §1071(g)(1)(A), made technical correction to directory language of Pub. L. 108–375, §416(a)(1). See 2004 Amendment note below.
 
 Subsec. (i). Pub. L. 109–364, §1071(a)(1)(A), struck out heading and text of subsec. (i) enacted by Pub. L. 108–375, §512(b). Text read as follows: “In counting full-time National Guard duty personnel for the purpose of end-strengths authorized pursuant to subsection (a)(1), persons involuntarily performing homeland defense activities under chapter 9 of title 32 shall be excluded.”
 
 Subsec. (i)(13). Pub. L. 109–364, §1071(a)(1)(B), added par. (13).
 
-2004—Subsec. (a)(1)(A). Pub. L. 108–375, §416(a)(1), as amended by Pub. L. 109–364, §1071(g)(1)(A), inserted “unless on active duty pursuant to subsection (b)” after “funds appropriated for active-duty personnel”.
+<b>2004</b>—Subsec. (a)(1)(A). Pub. L. 108–375, §416(a)(1), as amended by Pub. L. 109–364, §1071(g)(1)(A), inserted “unless on active duty pursuant to subsection (b)” after “funds appropriated for active-duty personnel”.
 
 Subsec. (a)(1)(B). Pub. L. 108–375, §416(a)(2), inserted “unless on active duty or full-time National Guard duty pursuant to subsection (b)” after “reserve personnel”.
 
@@ -180,7 +180,7 @@ Pub. L. 108–375, §416(d)(3), amended heading and text of subsec. (i) generall
 
 Pub. L. 108–375, §416(a)(3), redesignated subsec. (h) as (i).
 
-2003—Subsecs. (a), (b). Pub. L. 108–136, §403(b)(1), (2), inserted headings.
+<b>2003</b>—Subsecs. (a), (b). Pub. L. 108–136, §403(b)(1), (2), inserted headings.
 
 Subsec. (c). Pub. L. 108–136, §403(a)(1), (b)(3), redesignated subsec. (g) as (c), transferred it to appear after subsec. (b), and inserted heading. Former subsec. (c) redesignated (e).
 
@@ -194,23 +194,23 @@ Subsec. (g). Pub. L. 108–136, §403(a)(1), (b)(6), redesignated subsec. (e) as
 
 Subsec. (h). Pub. L. 108–136, §403(a)(2), (b)(7), redesignated subsec. (d) as (h), transferred it to appear at end of section, and inserted heading.
 
-2002—Subsec. (c)(1). Pub. L. 107–314, §403(a), substituted “3 percent” for “2 percent”.
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–314, §403(a), substituted “3 percent” for “2 percent”.
 
 Subsec. (f). Pub. L. 107–314, §403(b), added subsec. (f).
 
-2001—Subsec. (c)(1). Pub. L. 107–107, §421(a), substituted “2 percent” for “1 percent”.
+<b>2001</b>—Subsec. (c)(1). Pub. L. 107–107, §421(a), substituted “2 percent” for “1 percent”.
 
 Subsec. (d)(10), (11). Pub. L. 107–107, §422, added pars. (10) and (11).
 
-2000—Subsec. (d)(9). Pub. L. 106–398 added par. (9).
+<b>2000</b>—Subsec. (d)(9). Pub. L. 106–398 added par. (9).
 
-1999—Subsec. (c)(3). Pub. L. 106–65 added par. (3).
+<b>1999</b>—Subsec. (c)(3). Pub. L. 106–65 added par. (3).
 
-1997—Subsec. (g). Pub. L. 105–85, §522(i)(1), inserted “(dual status)” after “military technicians” in first sentence and after “military technician” in second sentence.
+<b>1997</b>—Subsec. (g). Pub. L. 105–85, §522(i)(1), inserted “(dual status)” after “military technicians” in first sentence and after “military technician” in second sentence.
 
 Pub. L. 105–85, §413(b), inserted at end “In each budget submitted by the President to Congress under section 1105 of title 31, the end strength requested for military technicians (dual status) for each reserve component of the Army and Air Force shall be specifically set forth.”
 
-1996—Subsec. (a)(3). Pub. L. 104–106, §1061(c)(1), struck out par. (3) which read as follows: “The average military training student loads for each of the armed forces (other than the Coast Guard).”
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–106, §1061(c)(1), struck out par. (3) which read as follows: “The average military training student loads for each of the armed forces (other than the Coast Guard).”
 
 Subsec. (b). Pub. L. 104–106, §1061(c)(2), inserted “or” at end of par. (1), substituted a period for “; or” at end of par. (2), and struck out par. (3) which read as follows: “training military personnel in the training categories described in subsection (f) of any of the armed forces (other than the Coast Guard) unless the average student load of that armed force for that fiscal year has been authorized by law.”
 
@@ -236,7 +236,7 @@ Subsec. (f). Pub. L. 104–106, §1061(c)(3), struck out subsec. (f) which read 
 
 Subsec. (g). Pub. L. 104–106, §513(a)(1), added subsec. (g).
 
-1991—Subsec. (a)(4). Pub. L. 102–190, §312(a)(1), struck out par. (4) which read as follows: “The end strength for civilian personnel for each component of the Department of Defense.”
+<b>1991</b>—Subsec. (a)(4). Pub. L. 102–190, §312(a)(1), struck out par. (4) which read as follows: “The end strength for civilian personnel for each component of the Department of Defense.”
 
 Subsec. (b)(2) to (4). Pub. L. 102–190, §312(a)(2), inserted “or” at end of par. (2), substituted a period for “; or” at end of par. (3), and struck out par. (4) which read as follows: “the use of the civilian personnel of any component of the Department of Defense unless the end strength for civilian personnel of that component for that fiscal year has been authorized by law.”
 
@@ -296,7 +296,7 @@ Pub. L. 104–106, div. A, title V, §513(b), Feb. 10, 1996, 110 Stat. 305.
 
 #### Comptroller General Review of Proposed Army End Strength Allocations
 
-Pub. L. 104–106, title V, §552, Feb. 10, 1996, 110 Stat. 319, provided that, during fiscal years 1996 through 2001, the Comptroller General was (1) to analyze the plans of the Secretary of the Army for the allocation of assigned active component end strengths for the Army through the requirements process known as Total Army Analysis 2003 and through any subsequent similar requirements process of the Army that was conducted before 2002, (2) to consider whether the proposed active component end strengths and planned allocation of forces for that period was sufficient to implement the national military strategy, and (3) to submit to Congress an annual report by Mar. 1 of each year through 2002 on the Comptroller General's findings and conclusions, prior to repeal by Pub. L. 107–107, div. A, title V, §595, Dec. 28, 2001, 115 Stat. 1126.
+Pub. L. 104–106, title V, §552, Feb. 10, 1996, 110 Stat. 319, provided that, during fiscal years 1996 through 2001,the Comptroller General was (1) to analyze the plans of the Secretary of the Army for the allocation of assigned active component end strengths for the Army through the requirements process known as Total Army Analysis 2003 and through any subsequent similar requirements process of the Army that was conducted before 2002, (2) to consider whether the proposed active component end strengths and planned allocation of forces for that period was sufficient to implement the national military strategy, and (3) to submit to Congress an annual report by Mar. 1 of each year through 2002 on the Comptroller General's findings and conclusions, prior to repeal by Pub. L. 107–107, div. A, title V, §595, Dec. 28, 2001, 115 Stat. 1126.
 
 #### Effect of Reserve Component on Computation of End Strength Limitation for Active Forces for Fiscal Year 1995
 
@@ -304,7 +304,7 @@ Pub. L. 103–337, div. A, title XIII, §1316(c), Oct. 5, 1994, 108 Stat. 2899, 
 
 #### End Strengths for Active Forces
 
-Pub. L. 109–163, div. A, title IV, §401, Jan. 6, 2006, 119 Stat. 3218, which authorized specified strengths for Armed Forces active duty personnel as of Sept. 30, 2006, and provided that costs for that fiscal year of active duty personnel of the Army and the Marine Corps in excess of specified amounts would be paid out of funds authorized to be appropriated for that fiscal year for acontingent emergency reserve fund or as an emergency supplemental appropriation, was from the National Defense Authorization Act for Fiscal Year 2006 and was repeated in provisions of subsequent authorization acts which are not set out in the Code. Similar provisions were contained in the following prior authorization acts:
+Pub. L. 109–163, div. A, title IV, §401, Jan. 6, 2006, 119 Stat. 3218, which authorized specified strengths for Armed Forces active duty personnel as of Sept. 30, 2006, and provided that costs for that fiscal year of active duty personnel of the Army and the Marine Corps in excess of specified amounts would be paid out of funds authorized to be appropriated for that fiscal year for a contingent emergency reserve fund or as an emergency supplemental appropriation, was from the National Defense Authorization Act for Fiscal Year 2006 and was repeated in provisions of subsequent authorization acts which are not set out in the Code. Similar provisions were contained in the following prior authorization acts:
 
 Pub. L. 108–375, div. A, title IV, §401, Oct. 28, 2004, 118 Stat. 1862.
 

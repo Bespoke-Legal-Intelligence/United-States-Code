@@ -20,3 +20,4 @@
 - [&sect; 03177 - Repealed. Pub. L. 99&#8211;198, title XIV, &sect;1413, Dec. 23, 1985, 99 Stat. 1549](%C2%A7%2003177%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93198%2C%20title%20XIV%2C%20%C2%A71413%2C%20Dec.%2023%2C%201985%2C%2099%20Stat.%201549.md)
 - [&sect; 03178 - Nutritional status monitoring](%C2%A7%2003178%20-%20Nutritional%20status%20monitoring.md)
 - [&sect; 03178a - Nutrition monitoring](%C2%A7%2003178a%20-%20Nutrition%20monitoring.md)
+- [&sect; 03179 - Research on strategies to promote the selection and consumption of healthy foods](%C2%A7%2003179%20-%20Research%20on%20strategies%20to%20promote%20the%20selection%20and%20consumption%20of%20healthy%20foods.md)

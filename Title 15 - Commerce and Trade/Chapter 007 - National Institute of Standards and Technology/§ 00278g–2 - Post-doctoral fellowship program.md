@@ -1,8 +1,8 @@
 ### §278g–2. Post-doctoral fellowship program
 
-The Institute, in conjunction with the National Academy of Sciences, shall establish and conduct a post-doctoral fellowship program, subject to the availability of appropriations, which shall be organized and carried out in substantially the same manner as the National Academy of Sciences/National Research Council Post-Doctoral Research Associate Program that was in effect prior to 1986, and which shall include not less than twenty nor more than 120 new fellows per fiscal year.
+The Institute shall establish and conduct a post-doctoral fellowship program, subject to the availability of appropriations, which shall be organized and carried out in substantially the same manner as the National Academy of Sciences/National Research Council Post-Doctoral Research Associate Program that was in effect prior to 1986, and which shall include not less than twenty nor more than 120 new fellows per fiscal year. In evaluating applications for fellowships under this section, the Director shall give consideration to the goal of promoting the participation of underrepresented minorities in research areas supported by the Institute.
 
-(Mar. 3, 1901, ch. 872, §19, as added Pub. L. 99–574, §8(a), Oct. 28, 1986, 100 Stat. 3238; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–113, §8(3), Mar. 7, 1996, 110 Stat. 779; Pub. L. 110–69, title III, §3015, Aug. 9, 2007, 121 Stat. 599.)
+(Mar. 3, 1901, ch. 872, §19, as added Pub. L. 99–574, §8(a), Oct. 28, 1986, 100 Stat. 3238; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–113, §8(3), Mar. 7, 1996, 110 Stat. 779; Pub. L. 110–69, title III, §3015, Aug. 9, 2007, 121 Stat. 599; Pub. L. 111–358, title IV, §§406(b), 407(a), Jan. 4, 2011, 124 Stat. 4004.)
 
 #### Prior Provisions
 
@@ -10,11 +10,15 @@ A prior section 19 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and i
 
 #### Amendments
 
-2007—Pub. L. 110–69 substituted “nor more than 120 new fellows” for “nor more than 60 new fellows”.
+<b>2011</b>—Pub. L. 111–358, §407(a), struck out “, in conjunction with the National Academy of Sciences,” after “The Institute”.
 
-1996—Pub. L. 104–113 inserted “, subject to the availability of appropriations,” after “post-doctoral fellowship program” and substituted “nor more than 60” for “nor more than forty”.
+Pub. L. 111–358, §406(b), inserted at end “In evaluating applications for fellowships under this section, the Director shall give consideration to the goal of promoting the participation of underrepresented minorities in research areas supported by the Institute.”
 
-1988—Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards”.
+<b>2007</b>—Pub. L. 110–69 substituted “nor more than 120 new fellows” for “nor more than 60 new fellows”.
+
+<b>1996</b>—Pub. L. 104–113 inserted “, subject to the availability of appropriations,” after “post-doctoral fellowship program” and substituted “nor more than 60” for “nor more than forty”.
+
+<b>1988</b>—Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards”.
 
 #### Effective Date
 

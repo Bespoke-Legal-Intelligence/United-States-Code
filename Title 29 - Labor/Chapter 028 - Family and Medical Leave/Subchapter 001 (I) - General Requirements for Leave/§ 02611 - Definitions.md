@@ -22,7 +22,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(i) any Federal officer or employee covered under subchapter V of chapter 63 of title 5; or
 
-&emsp;&emsp;&emsp;(ii) any employee of an employer who is employed at a worksite at which such employer employs less than 50 employees if the total number of employees employedby that employer within 75 miles of that worksite is less than 50.
+&emsp;&emsp;&emsp;(ii) any employee of an employer who is employed at a worksite at which such employer employs less than 50 employees if the total number of employees employed by that employer within 75 miles of that worksite is less than 50.
 
 #### (C) Determination
 
@@ -32,7 +32,7 @@ As used in this subchapter:
 
 #### (i) Determination
 
-&emsp;&emsp;&emsp;For purposes of determining whether an employee who is a flight attendant or flight crewmember (as such terms are defined in regulations of the Federal Aviation Administration) meets the hours of service requirement specified in subparagraph (A)(ii), the employee will be considered to meet the requirement if—
+&emsp;&emsp;&emsp;For purposes of determining whether an employee who is a flight attendant orflight crewmember (as such terms are defined in regulations of the Federal Aviation Administration) meets the hours of service requirement specified in subparagraph (A)(ii), the employee will be considered to meet the requirement if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the employee has worked or been paid for not less than 60 percent of the applicable total monthly guarantee, or the equivalent, for the previous 12-month period, for or by the employer with respect to whom leave is requested under section 2612 of this title; and
 
@@ -116,7 +116,7 @@ As used in this subchapter:
 
 #### (12) Son or daughter
 
-&emsp;The term “son or daughter” means a biological, adopted, or foster child, a stepchild, alegal ward, or a child of a person standing in loco parentis, who is—
+&emsp;The term “son or daughter” means a biological, adopted, or foster child, a stepchild, a legal ward, or a child of a person standing in loco parentis, who is—
 
 &emsp;&emsp;(A) under 18 years of age; or
 
@@ -170,7 +170,7 @@ As used in this subchapter:
 
 #### Amendments
 
-2009—Par. (2)(D). Pub. L. 111–119 added subpar. (D).
+<b>2009</b>—Par. (2)(D). Pub. L. 111–119 added subpar. (D).
 
 Par. (14). Pub. L. 111–84, §565(a)(1)(A)(i), added par. (14) and struck out former par. (14). Prior to amendment, text read as follows: “The term ‘active duty’ means duty under a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10.”
 
@@ -188,19 +188,19 @@ Par. (19). Pub. L. 111–84, §565(a)(3), added par. (19).
 
 Pub. L. 111–84, §565(a)(1)(A)(ii), redesignated par. (19) as (18).
 
-2008—Pars. (14) to (19). Pub. L. 110–181 added pars. (14) to (19).
+<b>2008</b>—Pars. (14) to (19). Pub. L. 110–181 added pars. (14) to (19).
 
-2004—Par. (4)(A)(iv). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Par. (4)(A)(iv). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1995—Par. (4)(A)(iv). Pub. L. 104–1 added cl. (iv).
+<b>1995</b>—Par. (4)(A)(iv). Pub. L. 104–1 added cl. (iv).
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–1 effective one year after transmission to Congress of the study under section1371 of Title 2, The Congress, see section 1312(e)(2) of Title 2. The study required under section 1371 of Title 2, dated Dec. 31, 1996, was transmitted to Congress by the Board of Directors of the Office of Compliance on Dec. 30, 1996.
+Amendment by Pub. L. 104–1 effective one year after transmission to Congress of the study under section 1371 of Title 2, The Congress, see section 1312(e)(2) of Title 2. The study required under section 1371 of Title 2, dated Dec. 31, 1996, was transmitted to Congress by the Board of Directors of the Office of Compliance on Dec. 30, 1996.
 
 #### Effective Date
 
-Subchapter effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, subchapter applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under section 2601 of this title.
+Subchapter effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, subchapter applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 monthsafter Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under section 2601 of this title.
 
 #### Regulations
 

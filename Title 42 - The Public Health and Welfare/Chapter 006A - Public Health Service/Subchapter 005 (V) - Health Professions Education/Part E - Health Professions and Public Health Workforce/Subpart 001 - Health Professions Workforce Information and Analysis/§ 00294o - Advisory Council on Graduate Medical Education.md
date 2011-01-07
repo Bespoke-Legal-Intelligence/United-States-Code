@@ -16,9 +16,15 @@ There is established the Council on Graduate Medical Education (in this section 
 
 &emsp;&emsp;(E) appropriate efforts to be carried out by hospitals, schools of medicine, schools of osteopathic medicine, and accrediting bodies with respect to the matters specified in subparagraphs (A), (B), and (C), including efforts for changes in undergraduate and graduate medical education programs; and
 
-&emsp;&emsp;(F) deficiencies in, and needs for improvements in, existing data bases concerning the supply and distribution of, and postgraduate training programs for, physicians in the United States and steps that should be taken to eliminate those deficiencies; and
+&emsp;&emsp;(F) deficiencies in, and needs for improvements in, existing data bases concerning thesupply and distribution of, and postgraduate training programs for, physicians in the United States and steps that should be taken to eliminate those deficiencies;
 
-&emsp;(2) encourage entities providing graduate medical education to conduct activities to voluntarily achieve the recommendations of the Council under paragraph (1)(E).
+&emsp;(2) encourage entities providing graduate medical education to conduct activities to voluntarily achieve the recommendations of the Council under paragraph (1)(E);
+
+&emsp;(3) develop, publish, and implement performance measures for programs under this subchapter, except for programs under part C or D;
+
+&emsp;(4) develop and publish guidelines for longitudinal evaluations (as described in section 294n(d)(2) of this title) for programs under this subchapter, except for programs under part C or D; and
+
+&emsp;(5) recommend appropriation levels for programs under this subchapter, except for programs under part C or D.
 
 #### (b) Composition
 
@@ -74,7 +80,7 @@ Each member of the Council who is not otherwise employed by the United States Go
 
 #### (2) Coordination of activities
 
-&emsp;The Council shall coordinate its activities with the activities of the Secretary under section 295k of this title. The Secretary shall, in cooperation with the Council and pursuant to the recommendations of the Council, take such steps as are practicable to eliminate deficiencies in the data base established undersection 295k of this title and shall make available in its reports such comprehensive data sets as are developed pursuant to this section.
+&emsp;The Council shall coordinate its activities with the activities of the Secretary under section 295k of this title. The Secretary shall, in cooperation with the Council and pursuant to the recommendations of the Council, take such steps as are practicable to eliminate deficiencies in the data base established under section 295k of this title and shall make available in its reports such comprehensive data sets as are developed pursuant to this section.
 
 #### (i) Requirement regarding reports
 
@@ -92,7 +98,7 @@ The Council shall terminate September 30, 2003.
 
 Amounts otherwise appropriated under this subchapter may be utilized by the Secretary to support the activities of the Council.
 
-(July 1, 1944, ch. 373, title VII, §762, formerly Pub. L. 102–408, title III, §301, Oct. 13, 1992, 106 Stat. 2080, as amended Pub. L. 102–531, title III, §313(b), Oct. 27, 1992, 106 Stat. 3507; renumbered §762 of act July 1, 1944, and amended Pub. L. 105–392, title I, §104(b), Nov. 13, 1998, 112 Stat. 3552; Pub. L. 107–251, title V, §502, Oct. 26, 2002, 116 Stat. 1664.)
+(July 1, 1944, ch. 373, title VII, §762, formerly Pub. L. 102–408, title III, §301, Oct. 13, 1992, 106 Stat. 2080, as amended Pub. L. 102–531, title III,§313(b), Oct. 27, 1992, 106 Stat. 3507; renumbered §762 of act July 1, 1944, and amended Pub. L. 105–392, title I, §104(b), Nov. 13, 1998, 112 Stat. 3552; Pub. L. 107–251, title V, §502, Oct. 26, 2002, 116 Stat. 1664; Pub. L. 111–148, title V, §5103(d)(3), Mar. 23, 2010, 124 Stat. 606.)
 
 #### Codification
 
@@ -110,15 +116,17 @@ Another prior section 762 of act July 1, 1944, was classified to section 295a of
 
 #### Amendments
 
-2002—Subsec. (k). Pub. L. 107–251 substituted “2003” for “2002”.
+<b>2010</b>—Subsec. (a)(3) to (5). Pub. L. 111–148 added pars. (3) to (5).
 
-1998—Subsec. (j). Pub. L. 105–392, §104(b)(1), substituted “2002” for “1995”.
+<b>2002</b>—Subsec. (k). Pub. L. 107–251 substituted “2003” for “2002”.
+
+<b>1998</b>—Subsec. (j). Pub. L. 105–392, §104(b)(1), substituted “2002” for “1995”.
 
 Subsec. (k). Pub. L. 105–392, §104(b)(2), substituted “2002” for “1995”.
 
 Subsec. (<i>l</i>). Pub. L. 105–392, §104(b)(3), added subsec. (<i>l</i>).
 
-1992—Subsec. (a)(2). Pub. L. 102–531 substituted “voluntarily” for “voluntary”.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–531 substituted “voluntarily” for “voluntary”.
 
 #### Change of Name
 

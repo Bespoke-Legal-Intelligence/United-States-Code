@@ -60,21 +60,21 @@
 
 Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) does not apply to the assessment or collection of any penalty imposed by this section.
 
-(Added Pub. L. 93–406, title II, §2002(f), Sept. 2, 1974, 88 Stat. 967; amended Pub. L. 96–222, title I, §101(a)(10)(H), Apr. 1, 1980, 94 Stat. 203; Pub. L. 98–369, div. A, title I, §147(b), July 18, 1984, 98 Stat. 687; Pub. L. 99–514, title XI, §1102(d)(1), (2)(A), (B), Oct. 22, 1986, 100 Stat. 2416; Pub. L. 100–647, title I, §1011(b)(4)(A), (B)(i), Nov. 10, 1988, 102 Stat. 3456, 3457; Pub. L. 104–188, title I, §§1421(b)(4)(B), 1455(d)(3), Aug. 20, 1996, 110 Stat. 1796, 1818; Pub. L. 104–191, title III, §301(g), Aug. 21, 1996, 110 Stat. 2052; Pub. L. 105–34, title II, §§211(e)(2)(B), (C), 213(c), title XVI, §§1601(d)(1)(C)(ii), 1602(a)(4), Aug. 5, 1997, 111 Stat. 812, 816, 1087, 1094; Pub. L. 105–277, div. J, title IV, §4006(c)(4), Oct. 21, 1998, 112 Stat. 2681–913; Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(2)(E)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title IV, §402(a)(4)(A), June 7, 2001, 115 Stat. 60; Pub. L. 107–22, §1(b)(2)(C), July 26, 2001, 115 Stat. 197; Pub. L. 108–173, title XII, §1201(g), Dec. 8, 2003, 117 Stat. 2479.)
+(Added Pub. L. 93–406, title II, §2002(f), Sept. 2, 1974, 88 Stat. 967; amended Pub. L. 96–222, title I, §101(a)(10)(H), Apr. 1, 1980, 94 Stat. 203; Pub. L. 98–369, div. A, title I, §147(b), July 18, 1984, 98 Stat. 687; Pub. L. 99–514, title XI, §1102(d)(1), (2)(A), (B), Oct. 22, 1986, 100 Stat. 2416; Pub. L. 100–647, title I, §1011(b)(4)(A), (B)(i), Nov. 10, 1988, 102 Stat. 3456, 3457; Pub. L. 104–188, title I, §§1421(b)(4)(B), 1455(d)(3), Aug. 20, 1996, 110 Stat. 1796, 1818; Pub. L. 104–191, title III, §301(g), Aug. 21, 1996, 110 Stat. 2052; Pub. L. 105–34, title II, §§211(e)(2)(B), (C), 213(c), title XVI, §§1601(d)(1)(C)(ii), 1602(a)(4), Aug. 5, 1997, 111 Stat. 812, 816, 1087, 1094; Pub. L. 105–277, div. J, title IV, §4006(c)(4), Oct. 21, 1998, 112 Stat. 2681–913; Pub. L. 106–554, §1(a)(7) \[title II,§202(b)(2)(E)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title IV, §402(a)(4)(A), June 7, 2001, 115 Stat. 60; Pub. L. 107–22, §1(b)(2)(C), July 26, 2001, 115 Stat. 197; Pub. L. 108–173, title XII, §1201(g), Dec. 8, 2003, 117 Stat. 2479.)
 
 #### Amendments
 
-2003—Subsec. (a)(2)(C) to (E). Pub. L. 108–173 added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
+<b>2003</b>—Subsec. (a)(2)(C) to (E). Pub. L. 108–173 added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 
-2001—Subsec. (a)(2)(C). Pub. L. 107–16 substituted “qualified tuition” for “qualified State tuition”.
+<b>2001</b>—Subsec. (a)(2)(C). Pub. L. 107–16 substituted “qualified tuition” for “qualified State tuition”.
 
 Subsec. (a)(2)(D). Pub. L. 107–22 substituted “Coverdell education savings” for “education individual retirement”.
 
-2000—Subsec. (a)(2)(B). Pub. L. 106–554 substituted “Archer MSAs” for “medical savings accounts”.
+<b>2000</b>—Subsec. (a)(2)(B). Pub. L. 106–554 substituted “Archer MSAs” for “medical savings accounts”.
 
-1998—Subsec. (a)(2)(C), (D). Pub. L. 105–277 substituted “section” for “Section”.
+<b>1998</b>—Subsec. (a)(2)(C), (D). Pub. L. 105–277 substituted “section” for “Section”.
 
-1997—Pub. L. 105–34, §211(e)(2)(C), substituted “certain tax-favored” for “individual retirement” in section catchline.
+<b>1997</b>—Pub. L. 105–34, §211(e)(2)(C), substituted “certain tax-favored” for “individual retirement” in section catchline.
 
 Subsec. (a). Pub. L. 105–34, §1602(a)(4), inserted concluding provisions.
 
@@ -84,13 +84,13 @@ Subsec. (a)(2)(D). Pub. L. 105–34, §213(c), added subpar. (D).
 
 Subsec. (c)(2). Pub. L. 105–34, §1601(d)(1)(C)(ii), inserted “and issuer” before “penalties” in heading and “or issuer” before “who fails” in introductory provisions.
 
-1996—Subsec. (a). Pub. L. 104–191 inserted heading and amended text generally. Prior to amendment, text read as follows: “The person required by subsection (i) or (<i>l</i>) of section 408 to file a report regarding an individual retirement account or individual retirement annuity at the time and in the manner required by such subsection shall pay a penalty of $50 for each failure unless it is shown that such failure is due to reasonable cause. This subsection shall not apply to any report which is an information return described in section 6724(d)(1)(C)(i) or a payee statement described in section 6724(d)(2)(W).”
+<b>1996</b>—Subsec. (a). Pub. L. 104–191 inserted heading and amended text generally. Prior to amendment, text read as follows: “The person required by subsection (i) or (<i>l</i>) of section 408 to file a report regarding an individual retirement account or individual retirement annuity at the time and in the manner required by such subsection shall pay a penalty of $50 for each failure unless it is shown that such failure is due to reasonable cause. This subsection shall not apply to any report which is an information return described in section 6724(d)(1)(C)(i) or a payee statement described in section 6724(d)(2)(W).”
 
 Pub. L. 104–188, §1455(d)(3), inserted at end “This subsection shall not apply to any report which is an information return described in section 6724(d)(1)(C)(i) or a payee statement described in section 6724(d)(2)(W).”
 
 Subsecs. (c), (d). Pub. L. 104–188, §1421(b)(4)(B), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1988—Pub. L. 100–647, §1011(b)(4)(B)(i), substituted “penalties relating to” for “overstatement of” in section catchline.
+<b>1988</b>—Pub. L. 100–647, §1011(b)(4)(B)(i), substituted “penalties relating to” for “overstatement of” in section catchline.
 
 Subsec. (b). Pub. L. 100–647, §1011(b)(4)(A), substituted “Penalties relating to” for “Overstatement of designated” in heading and amended text generally. Prior to amendment, text read as follows: “Any individual who—
 
@@ -100,15 +100,15 @@ Subsec. (b). Pub. L. 100–647, §1011(b)(4)(A), substituted “Penalties relati
 
 > shall pay a penalty of $100 for each such overstatement unless it is shown that such overstatement is due to reasonable cause.”
 
-1986—Pub. L. 99–514, §1102(d)(2)(B), inserted “; overstatement of designated nondeductible contributions” in section catchline.
+<b>1986</b>—Pub. L. 99–514, §1102(d)(2)(B), inserted “; overstatement of designated nondeductible contributions” in section catchline.
 
 Subsec. (b). Pub. L. 99–514, §1102(d)(1), added subsec. (b). Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 99–514, §1102(d)(1), (2)(A), redesignated former subsec. (b) as (c) and substituted “this section” for “subsection (a)”.
 
-1984—Subsec. (a). Pub. L. 98–369 substituted “$50” for “$10”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted “$50” for “$10”.
 
-1980—Subsec. (a). Pub. L. 96–222 substituted “subsection (i) or (<i>l</i>) of section 408 to file” for “section 408(i) to file”, and “such subsection shall pay” for “section 408(i) shall pay”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–222 substituted “subsection (i) or (<i>l</i>) of section 408 to file” for “section 408(i) to file”, and “such subsection shall pay” for “section 408(i) shall pay”.
 
 #### Effective Date of 2003 Amendment
 
@@ -126,7 +126,7 @@ Amendment by section 211(e)(2)(B), (C) of Pub. L. 105–34 effective Jan. 1, 199
 
 Amendment by section 213(c) of Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 213(f) of Pub. L. 105–34, set out as a note under section 26 of this title.
 
-Amendment by section 1601(d)(1)(C)(ii) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by section 1601(d)(1)(C)(ii) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
 
 Amendment by section 1602(a)(4) of Pub. L. 105–34 effective as if included in the provisions of the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104–191, to which such amendment relates, see section 1602(i) of Pub. L. 105–34, set out as a note under section 26 of this title.
 
@@ -152,7 +152,7 @@ Amendment by Pub. L. 98–369 applicable to failures occurring after July 18, 19
 
 #### Effective Date of 1980 Amendment
 
-Section 101(b)(1)(F) of Pub. L. 96–222 provided that: “The amendment made by subparagraph (I) of subsection (a)(10) \[probably means subpar. (H) of subsec. (a)(10), which amended this section\] shall apply with respect to failures occuring \[sic\] after the date of the enactment of this Act \[Apr. 1, 1980\].”
+Section 101(b)(1)(F) of Pub. L. 96–222 provided that: “The amendment made by subparagraph (I) of subsection (a)(10) \[probably means subpar. (H) of subsec.\(a)(10), which amended this section\] shall apply with respect to failures occuring \[sic\] after the date of the enactment of this Act \[Apr. 1, 1980\].”
 
 #### Effective Date
 

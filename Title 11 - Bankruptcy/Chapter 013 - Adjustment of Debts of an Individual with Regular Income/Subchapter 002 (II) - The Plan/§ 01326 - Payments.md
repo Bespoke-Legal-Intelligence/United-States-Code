@@ -20,7 +20,7 @@
 
 &emsp;(2) if a standing trustee appointed under section 586(b) of title 28 is serving in the case, the percentage fee fixed for such standing trustee under section 586(e)(1)(B) of title 28; and
 
-&emsp;(3) if a chapter 7 trustee has been allowed compensation due to the conversion or dismissal of the debtor's prior case pursuant to section 707(b), and some portion of that compensation remains unpaid in a case converted to this chapter or in the case dismissed under section 707(b) and refiled under this chapter,the amount of any such unpaid compensation, which shall be paid monthly—
+&emsp;(3) if a chapter 7 trustee has been allowed compensation due to the conversion or dismissal of the debtor's prior case pursuant to section 707(b), and some portion of that compensation remains unpaid in a case converted to this chapter or in the case dismissed under section 707(b) and refiled under this chapter, the amount of any such unpaid compensation, which shall be paid monthly—
 
 &emsp;&emsp;(A) by prorating such amount over the remaining duration of the plan; and
 
@@ -39,6 +39,10 @@
 &emsp;(2) such compensation is payable in a case under this chapter only to the extent permitted by subsection (b)(3).
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2650; Pub. L. 98–353, title III, §§318(a), 531, July 10, 1984, 98 Stat. 357, 389; Pub. L. 99–554, title II, §§230, 283(z), Oct. 27, 1986, 100 Stat. 3103, 3118; Pub. L. 103–394, title III, §307, Oct. 22, 1994, 108 Stat. 4135; Pub. L. 109–8, title III, §309(c)(2), title XII, §1224, title XV, §1502(a)(10), Apr. 20, 2005, 119 Stat. 83, 199, 217.)
+
+#### Adjustment of Dollar Amounts
+
+<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.</i>
 
 #### Historical and Revision Notes
 
@@ -88,7 +92,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commencedunder this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -102,5 +106,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsec. (b)(3) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
+The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
+
+By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (b)(3)(B), dollar amount “25” was adjusted to “25”. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (b)(3), dollar amount “25” was adjusted to “25”.
 

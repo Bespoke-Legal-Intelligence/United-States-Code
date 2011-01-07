@@ -34,9 +34,9 @@ Section 4081 of the Internal Revenue Code of 1986, referred to in subsec. (a), i
 
 #### Amendments
 
-2006—Pub. L. 109–364 renumbered section 2398 of this title as this section.
+<b>2006</b>—Pub. L. 109–364 renumbered section 2398 of this title as this section.
 
-1996—Subsec. (a). Pub. L. 104–106, §1061(h)(1), (2)(A), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “
+<b>1996</b>—Subsec. (a). Pub. L. 104–106, §1061(h)(1), (2)(A), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “
 
 DOD Motor Vehicles.—To the maximum extent feasible and consistent with overall defense needs and vehicle management practices prescribed by the Secretary of Defense, the Secretary shall make contracts, by competitive bid and subject to appropriations, to purchase domestically produced alcohol or alcohol-gasoline blends containing at least 10 percent domestically produced alcohol for use in motor vehicles owned or operated by the Department of Defense.”
 
@@ -44,7 +44,7 @@ Subsec. (b). Pub. L. 104–106, §1061(h)(2), redesignated subsec. (c) as (b) an
 
 Subsec. (c). Pub. L. 104–106, §1061(h)(2)(A), redesignated subsec. (c) as (b).
 
-1991—Pub. L. 102–190 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+<b>1991</b>—Pub. L. 102–190 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
 #### Effective Date of 1991 Amendment
 

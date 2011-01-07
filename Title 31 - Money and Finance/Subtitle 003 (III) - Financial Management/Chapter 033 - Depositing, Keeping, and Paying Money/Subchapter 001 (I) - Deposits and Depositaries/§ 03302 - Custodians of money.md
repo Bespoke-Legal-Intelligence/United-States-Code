@@ -12,7 +12,7 @@
 
 (b) Except as provided in section 3718(b) <sup>1</sup> of this title, an official or agent of the Government receiving money for the Government from any source shall deposit the money in the Treasury as soon as practicable without deduction for any charge or claim.
 
-(c)(1) A person having custody or possession of public money, including a disbursing official having public money not for current expenditure, shall deposit the money without delay in the Treasury or with a depositary designated by the Secretary of the Treasury under law. Except as provided in paragraph (2), money required to be deposited pursuant to this subsection shall bedeposited not later than the third day after the custodian receives the money. The Secretary or a depositary receiving a deposit shall issue duplicate receipts for the money deposited. The original receipt is for the Secretary and the duplicate is for the custodian.
+(c)(1) A person having custody or possession of public money, including a disbursing official having public money not for current expenditure, shall deposit the money without delay in the Treasury or with a depositary designated by the Secretary of the Treasury under law. Except as provided in paragraph (2), money required to be deposited pursuant to this subsection shall be deposited not later than the third day after the custodian receives the money. The Secretary or a depositary receiving a deposit shall issue duplicate receipts for the money deposited. The original receipt is for the Secretary and the duplicate is for the custodian.
 
 (2) The Secretary of the Treasury may by regulation prescribe that a person having custody or possession of money required by this subsection to be deposited shall deposit such money during a period of time that is greater or lesser than the period of time specified by the second sentence of paragraph (1).
 
@@ -80,7 +80,7 @@ In subsection (a), before clause (1), the words “Except as provided by another
 
 In subsection (b), the words “any abatement or” are omitted as surplus. The words “for any charge or claim” are substituted for “on account of salary, fees, costs, charges, expenses, or claim of any description whatever”, and the words “shall deposit the money in the Treasury” are substituted for “The gross amount of all moneys received from whatever source for the use of the United States, . . . shall be paid . . . into the Treasury”, to eliminate unnecessary words. The words “except as otherwise provided in section 487 of this title” are omitted because 31:487 is obsolete. The text of 31:484(last sentence) is omitted as superseded by title 39.
 
-In subsection (c), the word “Secretary” is substituted for “Treasurer” because of the source provisions restated in section 321(c) of the revised title. The balance of subsection (c) is substituted for 31:495(words before proviso) for clarity and consistency. The text of 31:495(proviso) is omitted as superseded by title 39.
+In subsection (c), the word “Secretary” is substituted for “Treasurer” because of the source provisions restated in section 321(c) of the revised title. The balance of subsection (c) is substituted for 31:495(words beforeproviso) for clarity and consistency. The text of 31:495(proviso) is omitted as superseded by title 39.
 
 Subsection (d) is substituted for 31:490 for clarity and consistency.
 
@@ -116,11 +116,11 @@ Section 3718(b) of this title, referred to in subsec. (b), was redesignated sect
 
 #### Amendments
 
-1994—Subsec. (c)(1). Pub. L. 103–272, as amended by Pub. L. 103–429, substituted a period for a comma at end of second sentence.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–272, as amended by Pub. L. 103–429, substituted a period for a comma at end of second sentence.
 
-1984—Subsec. (c). Pub. L. 98–369 designated existing provisions as par. (1), struck out “, but not later than the 30th day after the custodian receives the money,” after “without delay” in first sentence, inserted after first sentence “Except as provided in paragraph (2), money required to be deposited pursuant to this subsection shall be deposited not later than the third day after the custodian receives the money,”, and added par. (2).
+<b>1984</b>—Subsec. (c). Pub. L. 98–369 designated existing provisions as par. (1), struck out “, but not later than the 30th day after the custodian receives the money,” after “without delay” in first sentence, inserted after first sentence “Except as provided in paragraph (2), money required to be deposited pursuant to this subsection shall be deposited not later than the third day after the custodian receives the money,”, and added par. (2).
 
-1983—Subsec. (b). Pub. L. 97–452 inserted exception relating to section 3718(b) of this title.
+<b>1983</b>—Subsec. (b). Pub. L. 97–452 inserted exception relating to section 3718(b) of this title.
 
 #### Effective Date of 1994 Amendment
 

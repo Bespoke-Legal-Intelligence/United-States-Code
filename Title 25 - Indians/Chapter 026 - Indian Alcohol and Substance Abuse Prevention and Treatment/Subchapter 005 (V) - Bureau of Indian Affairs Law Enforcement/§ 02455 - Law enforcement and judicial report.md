@@ -18,5 +18,9 @@ In carrying out this section, the Secretary shall insure that the data is compil
 
 The Indian Self-Determination Act, referred to in subsec. (a), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
-Section 2477 of this title, referred to in subsec. (b), was repealed by Pub. L. 102–573, title VII, §702(b)(2), Oct. 29, 1992, 106 Stat. 4582. See section 1665f of this title.
+Section 2477 of this title, referred to in subsec. (b), was repealed by Pub. L. 102–573, title VII, §702(b)(2), Oct. 29, 1992, 106 Stat. 4582.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “service”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

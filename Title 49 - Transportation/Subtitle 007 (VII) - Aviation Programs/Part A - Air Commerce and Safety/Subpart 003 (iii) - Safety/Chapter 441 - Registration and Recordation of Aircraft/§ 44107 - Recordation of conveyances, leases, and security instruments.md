@@ -164,7 +164,7 @@ In subsection (d), the words “lease, and instrument” are substituted for “
 
 #### Amendments
 
-2004—Subsec. (a)(2)(A). Pub. L. 108–297, §3(a)(1), substituted “550” for “750”.
+<b>2004</b>—Subsec. (a)(2)(A). Pub. L. 108–297, §3(a)(1), substituted “550” for “750”.
 
 Subsec. (a)(3). Pub. L. 108–297, §3(a)(2), substituted “paragraph (1) or (2)” for “clause (1) or (2) of this subsection”.
 

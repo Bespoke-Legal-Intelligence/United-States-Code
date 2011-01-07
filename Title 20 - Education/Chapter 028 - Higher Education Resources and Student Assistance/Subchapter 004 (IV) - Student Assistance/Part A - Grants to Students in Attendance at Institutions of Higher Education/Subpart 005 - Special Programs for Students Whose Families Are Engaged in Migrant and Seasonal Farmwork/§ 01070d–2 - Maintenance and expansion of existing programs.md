@@ -14,7 +14,7 @@ The services authorized by this subpart for the high school equivalency program 
 
 &emsp;&emsp;(ii) who are beyond the age of compulsory school attendance in the State in which such persons reside and are not enrolled in school;
 
-&emsp;&emsp;(B)(i) who themselves, or whose immediate family, have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork; or
+&emsp;&emsp;(B)(i) who themselves, or whose immediate family, have spent a minimum of 75 daysduring the past 24 months in migrant and seasonal farmwork; or
 
 &emsp;&emsp;(ii) who are eligible to participate, or have participated within the preceding 2 years, in programs under part C of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6391 et seq.\] or section 2912 of title 29; and
 
@@ -112,7 +112,7 @@ Each project application shall include a management plan which contains assuranc
 
 #### (e) Five-year grant period; consideration of prior experience
 
-Except under extraordinary circumstances, the Secretary shall award grants for a 5-year period. For the purpose of making grants under this subpart, the Secretary shall consider the prior experience of service delivery under the particular project for which funds are sought by each applicant. Such prior experience shall be awarded the same level of consideration given this factor for applicants for programs in accordance with section 1070a–11(c)(2) of this title.
+Except under extraordinary circumstances, the Secretary shall award grants for a 5-year period. For the purpose of making grants underthis subpart, the Secretary shall consider the prior experience of service delivery under the particular project for which funds are sought by each applicant. Such prior experience shall be awarded the same level of consideration given this factor for applicants for programs in accordance with section 1070a–11(c)(2) of this title.
 
 #### (f) Minimum allocations
 
@@ -126,7 +126,7 @@ The Secretary shall not allocate an amount less than—
 
 From the amounts made available under subsection (i), the Secretary—
 
-&emsp;(1) may reserve not more than a total of 1/2 of one percent for outreach activities, technical assistance, and professional development programs relating to the programs under subsection (a);
+&emsp;(1) may reserve not more than a total of ½ of one percent for outreach activities, technical assistance, and professional development programs relating to the programs under subsection (a);
 
 &emsp;(2) for any fiscal year for which the amount appropriated to carry out this section is equal to or greater than $40,000,000, shall, in awarding grants from the remainder of such amounts—
 
@@ -152,7 +152,7 @@ The Secretary shall—
 
 For the purpose of making grants and contracts under this section, there are authorized to be appropriated $75,000,000 for fiscal year 2009 and such sums as may be necessary for the each of the five succeeding fiscal years.
 
-(Pub. L. 89–329, title IV, §418A, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1341; amended Pub. L. 100–50, §7, June 3, 1987, 101Stat. 340; Pub. L. 102–325, title IV, §405, July 23, 1992, 106 Stat. 507; Pub. L. 103–382, title III, §391(e)(1), (2), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §408, Oct. 7, 1998, 112 Stat. 1667; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(A), (f)(12)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 110–315, title IV, §408, Aug. 14, 2008, 122 Stat. 3223.)
+(Pub. L. 89–329, title IV, §418A, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1341; amended Pub. L. 100–50, §7, June 3, 1987, 101 Stat. 340; Pub. L. 102–325, title IV, §405, July 23, 1992, 106 Stat. 507; Pub. L. 103–382, title III, §391(e)(1), (2), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §408, Oct. 7, 1998, 112 Stat. 1667; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(A), (f)(12)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 110–315, title IV, §408, Aug. 14, 2008, 122 Stat. 3223.)
 
 #### References in Text
 
@@ -168,7 +168,7 @@ A prior section 1070d–3, Pub. L. 89–329, title IV, §418B, as added Pub. L. 
 
 #### Amendments
 
-2008—Subsec. (b)(1)(B)(i). Pub. L. 110–315, §408(1)(A), substituted “immediate family” for “parents”.
+<b>2008</b>—Subsec. (b)(1)(B)(i). Pub. L. 110–315, §408(1)(A), substituted “immediate family” for “parents”.
 
 Subsec. (b)(3)(B). Pub. L. 110–315, §408(1)(B), inserted “(including preparation for college entrance examinations)” after “junior college program”.
 
@@ -190,7 +190,7 @@ Subsec. (c)(1)(E) to (G). Pub. L. 110–315, §408(2)(A)(iii)–(vi), struck out
 
 Subsec. (c)(2)(A). Pub. L. 110–315, §408(2)(B)(i), struck out “and” after semicolon.
 
-Subsec. (c)(2)(B). Pub. L. 110–315, §408(2)(B)(ii), substituted “, and coordinating such services, assistance, and aid with other non-program services, assistance, and aid, including services, assistance, and aid provided by community-based organizations, which may include mentoring and guidance; and” for period at end.
+Subsec. (c)(2)(B). Pub. L. 110–315, §408(2)(B)(ii), substituted “, and coordinating such services, assistance,and aid with other non-program services, assistance, and aid, including services, assistance, and aid provided by community-based organizations, which may include mentoring and guidance; and” for period at end.
 
 Subsec. (c)(2)(C). Pub. L. 110–315, §408(2)(B)(iii), added subpar. (C).
 
@@ -202,7 +202,7 @@ Subsecs. (g) to (i). Pub. L. 110–315, §408(6)–(8), added subsecs. (g) to (i
 
 Pub. L. 110–315, §408(5), redesignated subsecs. (g) and (h) as (h) and (i), respectively.
 
-1998—Subsecs. (b)(1)(B)(ii), (c)(1)(A). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(12)(A)\], struck out “section 1672 of title 29 or” before “section 2912 of title 29”.
+<b>1998</b>—Subsecs. (b)(1)(B)(ii), (c)(1)(A). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(12)(A)\], struck out “section 1672 of title 29 or” before “section 2912 of title 29”.
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(15)(A)\], substituted “section 1672 of title 29 or section 2912 of title 29” for “section 1672 of title 29”.
 
@@ -216,11 +216,11 @@ Pub. L. 105–244, §408(b), substituted “1999” for “1993” in pars. (1) 
 
 Subsec. (h). Pub. L. 105–244, §408(c)(1), redesignated subsec. (g) as (h).
 
-1994—Subsec. (b)(1)(B)(ii). Pub. L. 103–382, §391(e)(1), substituted “part C” for “subpart 1 of part D of chapter 1”.
+<b>1994</b>—Subsec. (b)(1)(B)(ii). Pub. L. 103–382, §391(e)(1), substituted “part C” for “subpart 1 of part D of chapter 1”.
 
 Subsec. (c)(1)(A). Pub. L. 103–382, §391(e)(2), substituted “part C” for “subpart 1 of part D of chapter 1” and inserted “(or such part's predecessor authority)” after “1965”.
 
-1992—Subsec. (b)(1). Pub. L. 102–325, §405(a)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “recruitment services to reach persons who are 17 years of age and over, who themselves or whose parents have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork, and who lack a high school diploma or its equivalent;”.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–325, §405(a)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “recruitment services to reach persons who are 17 years of age and over, who themselves or whose parents have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork, and who lack a high school diploma or its equivalent;”.
 
 Subsec. (b)(4). Pub. L. 102–325, §405(a)(1)(B), inserted comma after “concerning” and after “obtaining”.
 
@@ -230,11 +230,11 @@ Subsec. (e). Pub. L. 102–325, §405(c), substituted “Five-year” for “Thr
 
 Subsec. (g). Pub. L. 102–325, §405(d), amended subsec. (g) generally, substituting present provisions for former provisions which authorized appropriations for fiscal years 1987 through 1991.
 
-1987—Subsec. (g). Pub. L. 100–50 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “There is authorized to be appropriated for this part $9,000,000 for fiscal year 1987, and such sums as may be necessary for the 4 succeeding fiscal years.”
+<b>1987</b>—Subsec. (g). Pub. L. 100–50 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “There is authorized to be appropriated for this part $9,000,000 for fiscal year 1987, and such sums as may be necessary for the 4 succeeding fiscal years.”
 
 #### Effective Date of 1998 Amendments
 
-Amendment by section 101(f) \[title VIII, §405(d)(15)(A)\] of Pub. L. 105–277 effective Oct. 21, 1998,and amendment by section 101(f) \[title VIII, §405(f)(12)(A)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) \[title VIII, §405(d)(15)(A)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(12)(A)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 

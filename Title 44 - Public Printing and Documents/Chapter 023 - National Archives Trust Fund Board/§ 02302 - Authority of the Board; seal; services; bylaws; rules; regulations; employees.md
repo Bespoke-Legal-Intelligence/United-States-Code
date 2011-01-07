@@ -22,7 +22,7 @@ The laws governing appointments in the civil service, referred to in par. (4), a
 
 #### Amendments
 
-1984—Pub. L. 98–497 amended section generally. Prior to amendment, section read as follows: “In carrying out the purposes of this chapter, the Board may—
+<b>1984</b>—Pub. L. 98–497 amended section generally. Prior to amendment, section read as follows: “In carrying out the purposes of this chapter, the Board may—
 
 &emsp;“(1) adopt an official seal, which shall be judicially noticed;
 

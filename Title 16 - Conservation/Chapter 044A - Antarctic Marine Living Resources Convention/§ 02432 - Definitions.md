@@ -40,7 +40,7 @@ For purposes of this chapter—
 
 #### (8) Person
 
-&emsp;The term “person” means an individual, partnership, corporation, trust, association,and any other entity subject to the jurisdiction of the United States.
+&emsp;The term “person” means an individual, partnership, corporation, trust, association, and any other entity subject to the jurisdiction of the United States.
 
 #### (9) Scientific Committee
 

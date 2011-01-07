@@ -4,5 +4,5 @@ Section, added Pub. L. 101–510, div. A, title VIII, §837(a)(1), Nov. 5, 1990,
 
 #### Effective Date of Repeal
 
-For effective date and applicability of repeal, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of repeal, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 2302 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Allowance of deduction
 
-In the case of a tenant-stockholder (as defined in subsection (b)(2)), there shall be allowed as a deduction amounts (not otherwise deductible) paid or accrued to a cooperative housing corporation within the taxable year, but only to the extent that such amounts represent the tenant-stockholder's proportionate share of—
+In the case of a tenant-stockholder (as defined in subsection (b)(2)), there shall be allowed as a deduction amounts (not otherwise deductible) paid or accrued to a cooperative housing corporation within the taxable year, but only tothe extent that such amounts represent the tenant-stockholder's proportionate share of—
 
 &emsp;(1) the real estate taxes allowable as a deduction to the corporation under section 164 which are paid or incurred by the corporation on the houses or apartment building and on the land on which such houses (or building) are situated, or
 
@@ -72,7 +72,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) In any case where a person other than an individual acquires stock of a cooperative housing corporation.
 
-&emsp;&emsp;(C) In any case where the original seller acquires any stock of the cooperative housing corporation from the corporation not later than 1 year after the date on which the apartments or houses (or leaseholds therein) are transferred by the original seller to the corporation.
+&emsp;&emsp;(C) In any case where the original seller acquires any stock of the cooperative housing corporation from the corporation notlater than 1 year after the date on which the apartments or houses (or leaseholds therein) are transferred by the original seller to the corporation.
 
 #### (6) Original seller defined
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;So much of the stock of a tenant-stockholder in a cooperative housing corporation as is allocable, under regulations prescribed by the Secretary, to a proprietary lease or right of tenancy in property subject to the allowance for depreciation under section 167(a) shall, to the extent such proprietary lease or right of tenancy is used by such tenant-stockholder in a trade or business or for the production of income, be treated as property subjectto the allowance for depreciation under section 167(a). The preceding sentence shall not be construed to limit or deny a deduction for depreciation under section 167(a) by a cooperative housing corporation with respect to property owned by such a corporation and leased to tenant-stockholders.
+&emsp;So much of the stock of a tenant-stockholder in a cooperative housing corporation as is allocable, under regulations prescribed by the Secretary, to a proprietary lease or right of tenancy in property subject to the allowance for depreciation under section 167(a) shall, to the extent such proprietary lease or right of tenancy is used by such tenant-stockholder in a trade or business or for the production of income, be treated as property subject to the allowance for depreciation under section 167(a). The preceding sentence shall not be construed to limit or deny a deduction for depreciation under section 167(a) by a cooperative housing corporation with respect to property owned by such a corporation and leased to tenant-stockholders.
 
 #### (2) Deduction limited to adjusted basis in stock
 
@@ -106,15 +106,15 @@ Except as provided in regulations no gain or loss shall be recognized on the dis
 
 #### Amendments
 
-2007—Subsec. (b)(1)(D). Pub. L. 110–142 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “80 percent or more of the gross income of which for the taxable year in which the taxes and interest described in subsection (a) are paid or incurred is derived from tenant-stockholders.”
+<b>2007</b>—Subsec. (b)(1)(D). Pub. L. 110–142 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “80 percent or more of the gross income of which for the taxable year in which the taxes and interest described in subsection (a) are paid or incurred is derived from tenant-stockholders.”
 
-1997—Subsec. (e). Pub. L. 105–34 substituted “such dwelling unit is used as his principal residence (within the meaning of section 121)” for “such exchange qualifies for nonrecognition of gain under section 1034(f)”.
+<b>1997</b>—Subsec. (e). Pub. L. 105–34 substituted “such dwelling unit is used as his principal residence (within the meaning of section 121)” for “such exchange qualifies for nonrecognition of gain under section 1034(f)”.
 
-1990—Subsec. (e). Pub. L. 101–508 substituted “corporations” for “associations” in heading and “corporation” for “association” after “housing” in text.
+<b>1990</b>—Subsec. (e). Pub. L. 101–508 substituted “corporations” for “associations” in heading and “corporation” for “association” after “housing” in text.
 
-1988—Subsec. (e). Pub. L. 100–647 added subsec. (e).
+<b>1988</b>—Subsec. (e). Pub. L. 100–647 added subsec. (e).
 
-1986—Subsec. (b)(2). Pub. L. 99–514, §644(a)(1), substituted “a person” and “such person” for “an individual” and “such individual”, respectively.
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–514, §644(a)(1), substituted “a person” and “such person” for “an individual” and “such individual”, respectively.
 
 Subsec. (b)(3). Pub. L. 99–514, §644(d), added heading and amended text generally. Prior to amendment, text read as follows: “The term ‘tenant-stockholder's proportionate share’ means that proportion which the stock of the cooperative housing corporation owned by the tenant-stockholder is of the total outstanding stock of the corporation (including any stock held by the corporation).”
 
@@ -122,25 +122,25 @@ Subsec. (b)(5). Pub. L. 99–514, §644(a)(2), substituted “Prior approval of 
 
 Subsec. (b)(6). Pub. L. 99–514, §644(a)(2), amended par. (6) generally, substituting provisions defining “original seller” for purposes of par. (5) for provisions relating to stock owned by person from whom corporation acquired its property, subpar. (A) thereof providing for general rule, subpar. (B) providing that stock acquisition must take place not later than 1 year after transfer of dwelling units, subpar. (C) providing that original seller must have right to occupy apartment or house, and subpar. (D) defining “original seller” for purposes of former par. (6).
 
-Subsec. (c). Pub. L. 99–514, §644(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “So much of the stock of a tenant-stockholder in a cooperative housing corporation as is allocable, under regulations prescribed by the Secretary, to a proprietary lease or right of tenancy in property subject to the allowance for depreciation under section 167(a) shall, to the extent such proprietary lease or right of tenancy is used by such tenant-stockholder in a trade or business or for the production of income, be treated as property subject to the allowance for depreciation under section 167(a). The preceding sentence shall not be construed to limit or deny a deduction for depreciation under 167(a) by a cooperative housing corporation with respect to property owned by such a corporation and leased to tenant-stockholders.”
+Subsec. (c). Pub. L. 99–514, §644(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read asfollows: “So much of the stock of a tenant-stockholder in a cooperative housing corporation as is allocable, under regulations prescribed by the Secretary, to a proprietary lease or right of tenancy in property subject to the allowance for depreciation under section 167(a) shall, to the extent such proprietary lease or right of tenancy is used by such tenant-stockholder in a trade or business or for the production of income, be treated as property subject to the allowance for depreciation under section 167(a). The preceding sentence shall not be construed to limit or deny a deduction for depreciation under 167(a) by a cooperative housing corporation with respect to property owned by such a corporation and leased to tenant-stockholders.”
 
 Subsec. (d). Pub. L. 99–514, §644(c), added subsec. (d).
 
-1980—Subsec. (b)(6)(A). Pub. L. 96–222, §105(a)(6)(A), added subpar. (A). Former subpar. (A), which required the original seller who acquired stock of the corporation from the corporation by purchase or foreclosure to be treated as a tenant-stockholder for a period not to exceed 3 years from the date of acquisition, was struck out.
+<b>1980</b>—Subsec. (b)(6)(A). Pub. L. 96–222, §105(a)(6)(A), added subpar. (A). Former subpar. (A), which required the original seller who acquired stock of the corporation from the corporation by purchase or foreclosure to be treated as a tenant-stockholder for a period not to exceed 3 years from the date of acquisition, was struck out.
 
 Subsec. (b)(6)(B) to (D). Pub. L. 96–222, §105(a)(6)(A), (B), added subpar. (B), redesignated former subpars. (B) and (C) as (C) and (D), and, in subpar. (D) as so redesignated, inserted provisions requiring that the estate of the original seller succeed to, and take into account, the tax treatment of the original seller under this paragraph.
 
-1978—Subsec. (b)(6). Pub. L. 95–600, added par. (6).
+<b>1978</b>—Subsec. (b)(6). Pub. L. 95–600, added par. (6).
 
-1976—Subsec. (b)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (b)(5). Pub. L. 94–455, §2101(f), added par. (5).
 
 Subsec. (c). Pub. L. 94–455, §§1906(b)(13)(A), 2101(b), struck out “or his delegate” after “Secretary” and inserted at end “The preceding sentence shall not be construed to limit or deny a deduction for depreciation under 167(a) by a cooperative housing corporation with respect to property owned by such corporation and leased to tenant-stockholders.”
 
-1969—Subsec. (b)(4). Pub. L. 91–172 added par. (4).
+<b>1969</b>—Subsec. (b)(4). Pub. L. 91–172 added par. (4).
 
-1962—Pub. L. 87–834 substituted “Deduction of taxes, interest, and business depreciation by cooperative housing corporation tenant-stockholders” for “Amounts representing taxes and interest paid to cooperative housing corporation” in section catchline, and added subsec. (c).
+<b>1962</b>—Pub. L. 87–834 substituted “Deduction of taxes, interest, and business depreciation by cooperative housing corporation tenant-stockholders” for “Amounts representing taxes and interest paid to cooperative housing corporation” in section catchline, and added subsec. (c).
 
 #### Effective Date of 2007 Amendment
 

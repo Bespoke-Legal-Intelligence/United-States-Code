@@ -22,11 +22,11 @@ A prior section 1087gg, Pub. L. 89–329, title IV, §467, as added Pub. L. 96�
 
 #### Amendments
 
-2009—Subsec. (b). Pub. L. 111–39 substituted “paragraph (4) or (5)” for “paragraph (5)(A), (5)(B)(i), or (6)”.
+<b>2009</b>—Subsec. (b). Pub. L. 111–39 substituted “paragraph (4) or (5)” for “paragraph (5)(A), (5)(B)(i), or (6)”.
 
-1998—Subsec. (c). Pub. L. 105–244 struck out heading and text of subsec. (c) which established the Perkins Loan Revolving Fund and provided for deposits into and payments from the Fund.
+<b>1998</b>—Subsec. (c). Pub. L. 105–244 struck out heading and text of subsec. (c) which established the Perkins Loan Revolving Fund and provided for deposits into and payments from the Fund.
 
-1992—Pub. L. 102–325 amended section catchline generally, inserting “: Perkins Loan Revolving Fund” after “loans” and added subsec. (c).
+<b>1992</b>—Pub. L. 102–325 amended section catchline generally, inserting “: Perkins Loan Revolving Fund” after “loans” and added subsec. (c).
 
 #### Effective Date of 2009 Amendment
 

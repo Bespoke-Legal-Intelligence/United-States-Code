@@ -21,7 +21,7 @@
 | 403–1a. | Assignment of responsibilities relating to analytic integrity. |
 | 403–1b. | Additional education and training requirements. |
 | 403–1c. | National Intelligence Reserve Corps. |
-| 403–2. | Intelligence Community contracting. |
+| 403–2. | Intelligence community contracting. |
 | 403–2a. | Construction of intelligence community facilities; Presidential authorization. |
 | 403–2b. | Limitation on construction of facilities to be used primarily by intelligence community. |
 | 403–3. | Office of the Director of National Intelligence. |
@@ -32,9 +32,12 @@
 | 403–3e. | Director of Science and Technology. |
 | 403–3f. | National Counterintelligence Executive. |
 | 403–3g. | Chief Information Officer. |
+| 403–3h. | Inspector General of the Intelligence Community. |
+| 403–3i. | Chief Financial Officer of the Intelligence Community. |
 | 403–4. | Central Intelligence Agency. |
 | 403–4a. | Director of the Central Intelligence Agency. |
 | 403–4b. | Transformation of Central Intelligence Agency. |
+| 403–4c. | Deputy Director of the Central Intelligence Agency. |
 | 403–5. | Responsibilities of Secretary of Defense pertaining to National Intelligence Program. |
 | 403–5a. | Assistance to United States law enforcement agencies. |
 | 403–5b. | Disclosure of foreign intelligence acquired in criminal investigations; notice of criminal investigations of foreign intelligence sources. |
@@ -44,6 +47,7 @@
 | 403–6. | Appointment of officials responsible for intelligence-related activities. |
 | 403–7. | Prohibition on using journalists as agents or assets. |
 | 403–8. | Reaffirmation of longstanding prohibition against drug trafficking by employees of the intelligence community. |
+| 403–9. | Information access by the Comptroller General of the United States. |
 | [403a.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000403a%20-%20Definitions%20relating%20to%20Central%20Intelligence%20Agency.md) | Definitions relating to Central Intelligence Agency. |
 | [403b.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000403b%20-%20Seal%20of%20office%20of%20Central%20Intelligence%20Agency.md) | Seal of office of Central Intelligence Agency. |
 | [403c.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000403c%20-%20Procurement%20authority%20of%20Central%20Intelligence%20Agency.md) | Procurement authority of Central Intelligence Agency. |
@@ -72,20 +76,21 @@
 | [403x.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000403x%20-%20Separation%20pay%20program%20for%20voluntary%20separation%20from%20service.md) | Separation pay program for voluntary separation from service. |
 | [404\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404%20-%20Emergency%20preparedness.md) | Emergency preparedness. |
 | [404a.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404a%20-%20Annual%20national%20security%20strategy%20report.md) | Annual national security strategy report. |
-| [404b.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404b%20-%20Multiyear%20national%20foreign%20intelligence%20program.md) | Multiyear national foreign intelligence program. |
+| [404b.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404b%20-%20Multiyear%20national%20intelligence%20program.md) | Multiyear national intelligence program. |
 | [404c.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404c%20-%20Annual%20report%20on%20United%20States%20security%20arrangements%20and%20commitments%20with%20other%20nations.md) | Annual report on United States security arrangements and commitments with other nations. |
-| [404d.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404d%20-%20Annual%20report%20on%20intelligence.md) | Annual report on intelligence. |
+| [404d.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404d%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93259%2C%20title%20III%2C%20%C2%A7347%28a%29%2C%20Oct.%207%2C%202010%2C%20124%20Stat.%202698.md) | Repealed. |
 | 404d–1. | Transferred. |
 | [404e.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404e%20-%20National%20mission%20of%20National%20Geospatial-Intelligence%20Agency.md) | National mission of National Geospatial-Intelligence Agency. |
 | [404f.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404f%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93458%2C%20title%20I%2C%20%C2%A71075%2C%20Dec.%2017%2C%202004%2C%20118%20Stat.%203694.md) | Repealed. |
 | [404g.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404g%20-%20Restrictions%20on%20intelligence%20sharing%20with%20United%20Nations.md) | Restrictions on intelligence sharing with United Nations. |
 | [404h.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404h%20-%20Detail%20of%20intelligence%20community%20personnel%E2%80%94Intelligence%20Community%20Assignment%20Program.md) | Detail of intelligence community personnel—Intelligence Community Assignment Program. |
+| 404h–1. | Detail of other personnel. |
 | [404i.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404i%20-%20Additional%20annual%20reports%20from%20the%20Director%20of%20National%20Intelligence.md) | Additional annual reports from the Director of National Intelligence. |
-| 404i–1. | Annual report on improvement of financial statements for auditing purposes. |
+| 404i–1. | Repealed. |
 | [404j.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404j%20-%20Limitation%20on%20establishment%20or%20operation%20of%20diplomatic%20intelligence%20support%20centers.md) | Limitation on establishment or operation of diplomatic intelligence support centers. |
 | [404k.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404k%20-%20Travel%20on%20any%20common%20carrier%20for%20certain%20intelligence%20collection%20personnel.md) | Travel on any common carrier for certain intelligence collection personnel. |
 | 404<i>l.</i> | POW/MIA analytic capability. |
-| [404m.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404m%20-%20Semiannual%20report%20on%20financial%20intelligence%20on%20terrorist%20assets.md) | Semiannual report on financial intelligence on terrorist assets. |
+| [404m.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404m%20-%20Annual%20report%20on%20financial%20intelligence%20on%20terrorist%20assets.md) | Annual report on financial intelligence on terrorist assets. |
 | [404n.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404n%20-%20National%20Virtual%20Translation%20Center.md) | National Virtual Translation Center. |
 | 404n–1. | Foreign Terrorist Asset Tracking Center. |
 | 404n–2. | Terrorist Identification Classification System. |
@@ -127,9 +132,17 @@
 | [415a.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000415a%20-%20Specificity%20of%20National%20Intelligence%20Program%20budget%20amounts%20for%20counterterrorism%2C%20counterproliferation%2C%20counternarcotics%2C%20and%E2%80%A6.md) | Specificity of National Intelligence Program budget amounts for counterterrorism, counterproliferation, counternarcotics, and counterintelligence. |
 | 415a–1. | Budget treatment of costs of acquisition of major systems by the intelligence community. |
 | 415a–2. | Exhibits for inclusion with budget justification books. |
-| 415a–3. | Future-years intelligence program: submission to Congress. |
+| 415a–3. | Repealed. |
+| 415a–4. | Annual personnel level assessments for the intelligence community. |
+| 415a–5. | Vulnerability assessments of major systems. |
+| 415a–6. | Intelligence community business system transformation. |
+| 415a–7. | Reports on the acquisition of major systems. |
+| 415a–8. | Critical cost growth in major systems. |
+| 415a–9. | Future budget projections. |
+| 415a–10. | Reports on security clearances. |
 | [415b.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000415b%20-%20Dates%20for%20submittal%20of%20various%20annual%20and%20semiannual%20reports%20to%20the%20congressional%20intelligence%20committees.md) | Dates for submittal of various annual and semiannual reports to the congressional intelligence committees. |
 | [415c.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000415c%20-%20Availability%20to%20public%20of%20certain%20intelligence%20funding%20information.md) | Availability to public of certain intelligence funding information. |
+| [415d.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000415d%20-%20Certification%20of%20compliance%20with%20oversight%20requirements.md) | Certification of compliance with oversight requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -155,6 +168,7 @@
 | [432a.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Operational%20Files/%C2%A7%2000432a%20-%20Operational%20files%20of%20the%20National%20Reconnaissance%20Office.md) | Operational files of the National Reconnaissance Office. |
 | [432b.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Operational%20Files/%C2%A7%2000432b%20-%20Operational%20files%20of%20the%20National%20Security%20Agency.md) | Operational files of the National Security Agency. |
 | [432c.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Operational%20Files/%C2%A7%2000432c%20-%20Omitted.md) | Omitted. |
+| [432d.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Operational%20Files/%C2%A7%2000432d%20-%20Protection%20of%20certain%20files%20of%20the%20Office%20of%20the%20Director%20of%20National%20Intelligence.md) | Protection of certain files of the Office of the Director of National Intelligence. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -166,6 +180,7 @@
 | [435a.](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/%C2%A7%2000435a%20-%20Limitation%20on%20handling%2C%20retention%2C%20and%20storage%20of%20certain%20classified%20materials%20by%20the%20Department%20of%20State.md) | Limitation on handling, retention, and storage of certain classified materials by the Department of State. |
 | [435b.](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/%C2%A7%2000435b%20-%20Security%20clearances.md) | Security clearances. |
 | [435c.](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/%C2%A7%2000435c%20-%20Security%20clearances%3B%20limitations.md) | Security clearances; limitations. |
+| [435d.](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/%C2%A7%2000435d%20-%20Classification%20training%20program.md) | Classification training program. |
 | [436\.](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/%C2%A7%2000436%20-%20Requests%20by%20authorized%20investigative%20agencies.md) | Requests by authorized investigative agencies. |
 | [437\.](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/%C2%A7%2000437%20-%20Exceptions.md) | Exceptions. |
 | [438\.](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/%C2%A7%2000438%20-%20Definitions.md) | Definitions. |
@@ -192,7 +207,7 @@
 | :--- | ---: |
 | [441g.](Subchapter%20007%E2%80%93A%20%28VII%E2%80%93A%29%20-%20Education%20in%20Support%20of%20National%20Intelligence/Part%20A%20-%20Science%20and%20Technology/%C2%A7%2000441g%20-%20Scholarships%20and%20work-study%20for%20pursuit%20of%20graduate%20degrees%20in%20science%20and%20technology.md) | Scholarships and work-study for pursuit of graduate degrees in science and technology. |
 | 441g–1. | Framework for cross-disciplinary education and training. |
-| 441g–2. | Intelligence Community Scholarship Program. |
+| 441g–2. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -213,6 +228,9 @@
 |  |  |
 | :--- | ---: |
 | [441m.](Subchapter%20007%E2%80%93A%20%28VII%E2%80%93A%29%20-%20Education%20in%20Support%20of%20National%20Intelligence/Part%20C%20-%20Additional%20Education%20Provisions/%C2%A7%2000441m%20-%20Assignment%20of%20intelligence%20community%20personnel%20as%20language%20students.md) | Assignment of intelligence community personnel as language students. |
+| [441n.](Subchapter%20007%E2%80%93A%20%28VII%E2%80%93A%29%20-%20Education%20in%20Support%20of%20National%20Intelligence/Part%20C%20-%20Additional%20Education%20Provisions/%C2%A7%2000441n%20-%20Program%20on%20recruitment%20and%20training.md) | Program on recruitment and training. |
+| 441<i>o.</i> | Educational scholarship program. |
+| [441p.](Subchapter%20007%E2%80%93A%20%28VII%E2%80%93A%29%20-%20Education%20in%20Support%20of%20National%20Intelligence/Part%20C%20-%20Additional%20Education%20Provisions/%C2%A7%2000441p%20-%20Intelligence%20officer%20training%20program.md) | Intelligence officer training program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -222,6 +240,7 @@
 | :--- | ---: |
 | [442\.](Subchapter%20008%20%28VIII%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2000442%20-%20Applicability%20to%20United%20States%20intelligence%20activities%20of%20Federal%20laws%20implementing%20international%20treaties%20and%20agreements.md) | Applicability to United States intelligence activities of Federal laws implementing international treaties and agreements. |
 | [442a.](Subchapter%20008%20%28VIII%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2000442a%20-%20Counterintelligence%20initiatives.md) | Counterintelligence initiatives. |
+| [442b.](Subchapter%20008%20%28VIII%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2000442b%20-%20Misuse%20of%20the%20Office%20of%20the%20Director%20of%20National%20Intelligence%20name%2C%20initials%2C%20or%20seal.md) | Misuse of the Office of the Director of National Intelligence name, initials, or seal. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

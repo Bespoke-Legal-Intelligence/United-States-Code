@@ -16,7 +16,7 @@ For purposes of this chapter, the term—
 
 &emsp;&emsp;(D) “cultural patrimony” which shall mean an object having ongoing historical, traditional, or cultural importance central to the Native American group or culture itself, rather than property owned by an individual Native American, and which, therefore, cannot be alienated, appropriated, or conveyed by any individual regardless of whether or not the individual is a member of the Indian tribe or Native Hawaiian organization and such object shall have been considered inalienable by such Native American group at the time the object was separated from such group.
 
-&emsp;(4) “Federal agency” means any department, agency, or instrumentality of the UnitedStates. Such term does not include the Smithsonian Institution.
+&emsp;(4) “Federal agency” means any department, agency, or instrumentality of the United States. Such term does not include the Smithsonian Institution.
 
 &emsp;(5) “Federal lands” means any land other than tribal lands which are controlled or owned by the United States, including lands selected by but not yet conveyed to Alaska Native Corporations and groups organized pursuant to the Alaska Native Claims Settlement Act of 1971 \[43 U.S.C. 1601 et seq.\].
 
@@ -70,7 +70,7 @@ Section 4 of Public Law 86–3, referred to in par. (15)(C), is section 4 of Pub
 
 #### Amendments
 
-1992—Par. (13). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Par. (13). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 #### Effective Date of 1992 Amendment
 

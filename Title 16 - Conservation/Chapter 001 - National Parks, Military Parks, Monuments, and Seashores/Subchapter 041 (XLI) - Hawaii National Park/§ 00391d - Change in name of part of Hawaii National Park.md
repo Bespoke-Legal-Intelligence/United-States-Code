@@ -6,7 +6,7 @@ Effective September 22, 1961, the portion of the Hawaii National Park situated o
 
 #### Amendments
 
-2000—Pub. L. 106–510 substituted “Hawai‘i Volcanoes National Park” for “Hawaii Volcanoes National Park”.
+<b>2000</b>—Pub. L. 106–510 substituted “Hawai‘i Volcanoes National Park” for “Hawaii Volcanoes National Park”.
 
 #### Change of Name
 

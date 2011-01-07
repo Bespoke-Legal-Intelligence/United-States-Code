@@ -12,7 +12,7 @@ There is hereby imposed on the undistributed income of a private foundation for 
 
 &emsp;&emsp;(B) such amount is distributed as qualifying distributions (within the meaning of subsection (g)) by the foundation during the allowable distribution period (as defined in subsection (j)(2)),
 
-&emsp;&emsp;(C) the foundation notifies the Secretary that such amount has been distributed\(within the meaning of subparagraph (B)) to correct such failure, and
+&emsp;&emsp;(C) the foundation notifies the Secretary that such amount has been distributed (within the meaning of subparagraph (B)) to correct such failure, and
 
 &emsp;&emsp;(D) such distribution is treated under subsection (h)(2) as made out of the undistributed income for the taxable year for which a tax would (except for this paragraph) have been imposed under this subsection.
 
@@ -96,7 +96,7 @@ For purposes of this section, the term “distributable amount” means, with re
 
 &emsp;The deduction modifications referred to in paragraph (1)(B) are as follows:
 
-&emsp;&emsp;(A) no deduction shall be allowed other than all the ordinary and necessary expenses paid or incurred for the production or collection of gross income or for the management,conservation, or maintenance of property held for the production of such income and the allowances for depreciation and depletion determined under section 4940(c)(3)(B), and
+&emsp;&emsp;(A) no deduction shall be allowed other than all the ordinary and necessary expenses paid or incurred for the production or collection of gross income or for the management, conservation, or maintenance of property held for the production of such income and the allowances for depreciation and depletion determined under section 4940(c)(3)(B), and
 
 &emsp;&emsp;(B) section 265 (relating to expenses and interest relating to tax-exempt interest) shall not apply.
 
@@ -128,7 +128,7 @@ For purposes of this section, the term “distributable amount” means, with re
 
 &emsp;&emsp;&emsp;(ii)(I) the project will not be completed before the end of the taxable year of the foundation in which the set-aside is made,
 
-&emsp;&emsp;&emsp;(II) the private foundation in each taxable year beginning after December 31, 1975 (or after the end of the fourth taxable year following the year of its creation, whichever is later), distributes amounts, in cash or its equivalent, equal to not less than the distributable amount determined under subsection (d) (without regard to subsection (i)) for purposes described in section 170(c)(2)(B) (including but not limited to payments with respect to set-asides which were treated as qualifying distributions in one or more prior years), and
+&emsp;&emsp;&emsp;(II) the private foundation in each taxable year beginning after December 31, 1975 (or after the end of the fourth taxable year following the year of its creation, whichever is later), distributes amounts, in cash or its equivalent, equal to not less than the distributable amount determined under subsection (d) (without regard to subsection (i)) for purposes described insection 170(c)(2)(B) (including but not limited to payments with respect to set-asides which were treated as qualifying distributions in one or more prior years), and
 
 &emsp;&emsp;&emsp;(III) the private foundation has distributed (including but not limited to payments with respect to set-asides which were treated as qualifying distributions in one or more prior years) during the four taxable years immediately preceding its first taxable year beginning after December 31, 1975, or the fifth taxable year following the year of its creation, whichever is later, an aggregate amount, in cash or its equivalent, of not less than the sum of the following: 80 percent of the first preceding taxable year's distributable amount; 60 percent of the second preceding taxable year's distributable amount; 40 percent of the third preceding taxable year's distributable amount; and 20 percent of the fourth preceding taxable year's distributable amount.
 
@@ -278,15 +278,15 @@ Sections 1212(b) and 1244(a) of Pub. L. 109–280, which directed the amendment 
 
 #### Amendments
 
-2007—Subsec. (i)(1)(A). Pub. L. 110–172 substituted “section 170(b)(1)(F)(ii)” for “section 170(b)(1)(E)(ii)”.
+<b>2007</b>—Subsec. (i)(1)(A). Pub. L. 110–172 substituted “section 170(b)(1)(F)(ii)” for “section 170(b)(1)(E)(ii)”.
 
-2006—Subsec. (a). Pub. L. 109–280, §1212(b), substituted “30 percent” for “15 percent” in introductory provisions. See Codification note above.
+<b>2006</b>—Subsec. (a). Pub. L. 109–280, §1212(b), substituted “30 percent” for “15 percent” in introductory provisions. See Codification note above.
 
 Subsec. (g)(4). Pub. L. 109–280, §1244(a), amended heading and text of par. (4) generally, substituting provisions relating to limitation on distributions by nonoperating private foundations to supporting organizations for provisions relating to limitation on administrative expenses allocable to making of contributions, gifts, and grants. See Codification note above.
 
-1986—Subsec. (f)(2)(A). Pub. L. 99–514 substituted “(relating to State and local bonds)” for “(relating to interest on certain governmental obligations)”.
+<b>1986</b>—Subsec. (f)(2)(A). Pub. L. 99–514 substituted “(relating to State and local bonds)” for “(relating to interest on certain governmental obligations)”.
 
-1984—Subsec. (a)(2)(B). Pub. L. 98–369, §314(a)(1), substituted “subsection (j)(2)” for “subsection (j)(4)”.
+<b>1984</b>—Subsec. (a)(2)(B). Pub. L. 98–369, §314(a)(1), substituted “subsection (j)(2)” for “subsection (j)(4)”.
 
 Subsec. (d)(1). Pub. L. 98–369, §304(b), substituted “the sum of the minimum investment return plus the amounts described in subsection (f)(2)(C), reduced by” for “the minimum investment return reduced by”.
 
@@ -298,13 +298,13 @@ Subsec. (g)(2)(C)(ii). Pub. L. 98–369, §305(b)(4), substituted “section 496
 
 Subsec. (g)(4). Pub. L. 98–369, §304(a)(1), added par. (4).
 
-1983—Subsec. (j)(3)(A)(i). Pub. L. 97–448 substituted “or” for “and” at the end.
+<b>1983</b>—Subsec. (j)(3)(A)(i). Pub. L. 97–448 substituted “or” for “and” at the end.
 
-1981—Subsec. (d)(1). Pub. L. 97–34, §823(a)(1), struck out “or the adjusted net income (whichever is higher)” after “return”.
+<b>1981</b>—Subsec. (d)(1). Pub. L. 97–34, §823(a)(1), struck out “or the adjusted net income (whichever is higher)” after “return”.
 
 Subsec. (j)(3). Pub. L. 97–34, §823(a)(2), (3), inserted in subpar. (A) “the lesser of” after “substantially all of”, designated existing provisions as cl. (i), added cl. (ii), and inserted provision respecting applicability of subpar. (A)(ii).
 
-1980—Subsec. (b). Pub. L. 96–596, §2(a)(1)(C), substituted “taxable period” for “correction period”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–596, §2(a)(1)(C), substituted “taxable period” for “correction period”.
 
 Subsec. (g)(2)(C)(ii). Pub. L. 96–596, §2(a)(4)(A), substituted “the correction period (as defined in section 4962(e))” for “the initial correction period provided in subsection (j)(2)”.
 
@@ -316,9 +316,9 @@ Subsec. (j)(3)(B)(i). Pub. L. 96–596, §2(a)(3)(B)(ii), substituted “paragra
 
 Subsec. (j)(4) to (6). Pub. L. 96–596, §2(a)(3)(B)(iii), (iv), redesignated pars. (5) and (6) as (4) and (5), respectively.
 
-1978—Subsec. (j)(6). Pub. L. 95–600 added par. (6).
+<b>1978</b>—Subsec. (j)(6). Pub. L. 95–600 added par. (6).
 
-1976—Subsec. (a)(2)(C). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a)(2)(C). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (e). Pub. L. 94–455, §1303(a), among other changes, substituted provisions establishing a fixed percentage rate to be used in computing the minimum investment return for any private foundation for provisions establishing a variable applicable percentage rate of 7 percent in 1970 and an applicable rate to be determined by the Secretary after 1970, for use in computing the minimum investment return for any private foundation and inserted provisions relating to reduction in value for blockage or similar factors.
 

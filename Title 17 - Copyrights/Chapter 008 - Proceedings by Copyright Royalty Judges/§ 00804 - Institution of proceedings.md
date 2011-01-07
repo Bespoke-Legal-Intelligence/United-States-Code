@@ -10,9 +10,9 @@ Timing of Proceedings.—
 
 &emsp;(1)
 
-Section 111 proceedings.—(A) A petition described in subsection (a) to initiate proceedings under section 801(b)(2) concerning the adjustment of royalty rates under section 111 to which subparagraph (A) or (D) of section 801(b)(2) applies may be filed during the year 2005 and in each subsequent fifth calendar year.
+Section 111 proceedings.—(A) A petition described in subsection (a) to initiate proceedings under section 801(b)(2) concerning the adjustment of royalty rates under section 111 to which subparagraph (A) or (D) of section 801(b)(2) applies may be filed during the year 2015 and in each subsequent fifth calendar year.
 
-&emsp;(B) In order to initiate proceedings under section 801(b)(2) concerning the adjustment of royalty rates under section 111 to which subparagraph (B) or (C) of section 801(b)(2) applies, within 12 months after an event described in either of those subsections, any owner or user of a copyrighted work whose royalty rates are specified by section 111, or by a rate established under this chapter before or after the enactment of the Copyright Royalty and Distribution Reform Act of 2004, may file a petition with the Copyright Royalty Judges declaring that the petitioner requests an adjustment of the rate. The Copyright Royalty Judges shall then proceed as set forth in subsection (a) of this section. Any change in royalty rates made under this chapter pursuant to this subparagraph may be reconsidered in the year 2005, and each fifth calendar year thereafter, in accordance with the provisions in section 801(b)(2)(B) or (C), as the case may be. A petition for adjustment of rates established by section 111(d)(1)(B) as a result of a change in the rules and regulations of the Federal Communications Commission shall set forth the change on which the petition is based.
+&emsp;(B) In order to initiate proceedings under section 801(b)(2) concerning the adjustment of royalty rates under section 111 to which subparagraph (B) or (C) of section 801(b)(2) applies, within 12 months after an event described in either of those subsections, any owner or user of a copyrighted work whose royalty rates are specified by section 111, or by a rate established under this chapter before or after the enactment of the Copyright Royalty and Distribution Reform Act of 2004, may file a petition with the Copyright Royalty Judges declaring that the petitioner requests an adjustment of the rate. The Copyright Royalty Judges shall then proceed as set forth in subsection (a) of this section. Any change in royalty rates made under this chapter pursuant to this subparagraph may be reconsidered in the year 2015, and each fifth calendar year thereafter, in accordance with the provisions in section 801(b)(2)(B) or (C), as the case may be. A petition for adjustment of rates established by section 111(d)(1)(B) as a result of a change in the rules and regulations of the Federal Communications Commission shall set forth the change on which the petition is based.
 
 &emsp;(C) Any adjustment of royalty rates under section 111 shall take effect as of the first accounting period commencing after the publication of the determination of the Copyright Royalty Judges in the Federal Register, or on such other date as is specified in that determination.
 
@@ -66,7 +66,7 @@ Section 1004 proceedings.—A petition described in subsection (a) to initiate p
 
 Proceedings concerning distribution of royalty fees.—With respect to proceedings under section 801(b)(3) concerning the distribution of royalty fees in certain circumstances under section 111, 119, or 1007, the Copyright Royalty Judges shall, upon a determination that a controversy exists concerning such distribution, cause to be published in the Federal Register notice of commencement of proceedings under this chapter.
 
-(Added Pub. L. 108–419, §3(a), Nov. 30, 2004, 118 Stat. 2357; amended Pub. L. 109–303, §3(12), (13), Oct. 6, 2006, 120 Stat. 1481.)
+(Added Pub. L. 108–419, §3(a), Nov. 30, 2004, 118 Stat. 2357; amended Pub. L. 109–303, §3(12), (13), Oct. 6, 2006, 120 Stat. 1481; Pub. L. 111–175, title I, §104(f), May 27, 2010, 124 Stat. 1238.)
 
 #### References in Text
 
@@ -78,13 +78,19 @@ A prior section 804 was renumbered section 803 of this title prior to the genera
 
 #### Amendments
 
-2006—Subsec. (b)(1)(B). Pub. L. 109–303, §3(12), substituted “801(b)(2)(B) or (C)” for “801(b)(3)(B) or (C)” and “change in” for “change is”.
+<b>2010</b>—Subsec. (b)(1)(A), (B). Pub. L. 111–175 substituted “2015” for “2005”.
+
+<b>2006</b>—Subsec. (b)(1)(B). Pub. L. 109–303, §3(12), substituted “801(b)(2)(B) or (C)” for “801(b)(3)(B) or (C)” and “change in” for “change is”.
 
 Subsec. (b)(3)(A). Pub. L. 109–303, §3(13)(A), substituted “date of enactment” for “effective date”.
 
 Subsec. (b)(3)(C)(ii). Pub. L. 109–303, §3(13)(B)(i), substituted “is filed” for “that is filed”.
 
 Subsec. (b)(3)(C)(iii). Pub. L. 109–303, §3(13)(B)(ii), substituted “subsections (b)” for “such subsections (b)”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–175 effective Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as a note under section 111 of this title.
 
 #### Effective Date of 2006 Amendment
 

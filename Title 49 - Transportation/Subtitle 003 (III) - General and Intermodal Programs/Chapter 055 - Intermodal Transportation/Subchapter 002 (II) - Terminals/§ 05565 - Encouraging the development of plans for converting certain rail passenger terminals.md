@@ -56,7 +56,7 @@ In subsection (a), before clause (1), the word “authority” is substituted fo
 
 In subsection (b), the words “carried out” are substituted for “implemented and effectuated” for consistency in the revised title.
 
-In subsection (c)(2), the words “The Secretary of Transportation may not make a grant” are substituted for “The amount of the Federal share of any grant . . . shall not exceed” for clarity and consistency in this chapter. The word “undertaking” is omitted as being included in “project”.
+In subsection (c)(2), the words “The Secretary of Transportation may not make a grant” are substitutedfor “The amount of the Federal share of any grant . . . shall not exceed” for clarity and consistency in this chapter. The word “undertaking” is omitted as being included in “project”.
 
 #### Pub. L. 103–429
 
@@ -64,7 +64,7 @@ This amends 49:5565 to correct an erroneous section catchline.
 
 #### Amendments
 
-1994—Pub. L. 103–429 inserted “certain” after “converting” in section catchline.
+<b>1994</b>—Pub. L. 103–429 inserted “certain” after “converting” in section catchline.
 
 #### Effective Date of 1994 Amendment
 

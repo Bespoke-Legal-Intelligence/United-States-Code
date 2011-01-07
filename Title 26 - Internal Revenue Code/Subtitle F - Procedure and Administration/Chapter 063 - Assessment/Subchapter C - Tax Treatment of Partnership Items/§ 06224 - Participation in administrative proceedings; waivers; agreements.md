@@ -48,7 +48,7 @@ In the absence of a showing of fraud, malfeasance, or misrepresentation of fact�
 
 #### Amendments
 
-2002—Subsec. (c)(1), (2). Pub. L. 107–147 inserted “or the Attorney General (or his delegate)” after “Secretary” wherever appearing.
+<b>2002</b>—Subsec. (c)(1), (2). Pub. L. 107–147 inserted “or the Attorney General (or his delegate)” after “Secretary” wherever appearing.
 
 #### Effective Date of 2002 Amendment
 

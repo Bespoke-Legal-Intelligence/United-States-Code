@@ -32,5 +32,5 @@ June 6, 1924, ch. 270, §2(a)(2), as added July 19, 1952, ch. 949, §1, 66 Stat.
 
 #### Amendments
 
-2006—Subsec. (a)(2). Pub. L. 109–284 inserted “of this title” after “sections 5101 and 5102”.
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–284 inserted “of this title” after “sections 5101 and 5102”.
 

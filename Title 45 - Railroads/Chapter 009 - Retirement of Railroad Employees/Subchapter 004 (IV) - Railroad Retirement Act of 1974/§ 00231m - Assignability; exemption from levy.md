@@ -8,7 +8,7 @@
 
 (3)(A) Payments made pursuant to paragraph (2) of this subsection shall not require that the employee be entitled to an annuity under section 231a(a)(1) of this title: Provided, however, That where an employee is not entitled to such an annuity, payments made pursuant to paragraph (2) may not begin before the month in which the following three conditions are satisfied:
 
-&emsp;(i) The employee has completed ten years of service in the railroad industry or, five yearsof service all of which accrues after December 31, 1995.
+&emsp;(i) The employee has completed ten years of service in the railroad industry or, five years of service all of which accrues after December 31, 1995.
 
 &emsp;(ii) The spouse or former spouse attains age 62.
 
@@ -22,11 +22,11 @@
 
 #### Amendments
 
-2008—Subsec. (b)(3). Pub. L. 110–458 added par. (3).
+<b>2008</b>—Subsec. (b)(3). Pub. L. 110–458 added par. (3).
 
-1986—Subsecs. (a), (b)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsecs. (a), (b)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1983—Subsec. (a). Pub. L. 98–76, §419(a)(1), substituted “(a) Except as provided in subsection (b) of this section and the Internal Revenue Code of 1954, notwithstanding” for “Notwithstanding”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–76, §419(a)(1), substituted “(a) Except as provided in subsection (b) of this section and the Internal Revenue Code of 1954, notwithstanding” for “Notwithstanding”.
 
 Subsec. (b)(1). Pub. L. 98–76, §419(a)(2), substituted “(b)(1) This” for “: <i>Provided, however</i>, That the provisions of this”.
 

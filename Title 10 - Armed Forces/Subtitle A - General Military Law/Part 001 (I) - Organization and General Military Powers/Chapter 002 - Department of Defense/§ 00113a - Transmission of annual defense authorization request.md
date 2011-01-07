@@ -20,5 +20,5 @@ Defense Authorization Request Defined.—In this section, the term “defense au
 
 #### Amendments
 
-2003—Subsec. (b)(3), (4). Pub. L. 108–136 added par. (3) and redesignated former par. (3) as (4).
+<b>2003</b>—Subsec. (b)(3), (4). Pub. L. 108–136 added par. (3) and redesignated former par. (3) as (4).
 

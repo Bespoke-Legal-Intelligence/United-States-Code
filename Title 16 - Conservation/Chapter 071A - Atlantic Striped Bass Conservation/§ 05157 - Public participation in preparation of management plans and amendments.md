@@ -12,5 +12,5 @@ Subsection (a) of this section shall apply to management plans and amendments ad
 
 #### Amendments
 
-1997—Pub. L. 105–146 amended section catchline and text generally, substituting provisions relating to public participation in preparation of management plans and amendments for provisions requiring the Secretaries to review the existing Plan and report to the Commission and Committees of Congress on its adequacy.
+<b>1997</b>—Pub. L. 105–146 amended section catchline and text generally, substituting provisions relating to public participation in preparation of management plans and amendments for provisions requiring the Secretaries to review the existing Plan and report to the Commission and Committees of Congress on its adequacy.
 

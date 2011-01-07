@@ -10,9 +10,11 @@ For the purpose of this subchapter and part C of subchapter I of chapter 34 of t
 
 &emsp;&emsp;(A) shall be an allowance determined by the institution for a student without dependents residing at home with parents;
 
-&emsp;&emsp;(B) for students without dependents residing in institutionally owned or operated housing, shall be a standard allowance determined by the institution based on the amount normally assessed most of its residents for room and board; and
+&emsp;&emsp;(B) for students without dependents residing in institutionally owned or operated housing, shall be a standard allowance determined by the institution based on the amount normally assessed most of its residents for room and board;
 
-&emsp;&emsp;(C) for all other students shall be an allowance based on the expenses reasonably incurred by such students for room and board;
+&emsp;&emsp;(C) for students who live in housing located on a military base or for which a basic allowance is provided under section 403(b) of title 37, shall be an allowance based on the expenses reasonably incurred by such students for board but not for room; and
+
+&emsp;&emsp;(D) for all other students shall be an allowance based on the expenses reasonably incurred by such students for room and board;
 
 &emsp;(4) for less than half-time students (as determined by the institution), tuition and fees and an allowance for only—
 
@@ -46,25 +48,15 @@ For the purpose of this subchapter and part C of subchapter I of chapter 34 of t
 
 (Pub. L. 89–329, title IV, §472, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1454; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 585; Pub. L. 103–208, §2(g)(1), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §471, Oct. 7, 1998, 112 Stat. 1729; Pub. L. 109–171, title VIII, §8016, Feb. 8, 2006, 120 Stat. 172; Pub. L. 110–315, title IV, §471(a), Aug. 14, 2008, 122 Stat. 3269.)
 
-#### Amendment of Paragraph (3)
-
-<i>Pub. L. 110–315, title IV, §471, Aug. 14, 2008, 122 Stat. 3269, provided that, effective July 1, 2010, paragraph (3) of this section is amended—</i>
-
-<i>(1) in subparagraph (B), by striking “and” after the semicolon;</i>
-
-<i>(2) by redesignating subparagraph (C) as subparagraph (D); and</i>
-
-<i>(3) by inserting after subparagraph (B), as amended by paragraph (1), the following:</i>
-
-<i>“(C) for students who live in housing located on a military base or for which a basic allowance is provided under section 403(b) of title 37, shall be an allowance based on the expenses reasonably incurred by such students for board but not for room; and”.</i>
-
 #### Amendments
 
-2006—Par. (4). Pub. L. 109–171, §8016(1), added par. (4) and struck out former par. (4), which read as follows: “for less than half-time students (as determined by the institution) tuition and fees and an allowance for only books, supplies, and transportation (as determined by the institution) and dependent care expenses (in accordance with paragraph (8));”.
+<b>2008</b>—Par. (3)(C), (D). Pub. L. 110–315 added subpar. (C) and redesignated former subpar. (C) as (D).
+
+<b>2006</b>—Par. (4). Pub. L. 109–171, §8016(1), added par. (4) and struck out former par. (4), which read as follows: “for less than half-time students (as determined by the institution) tuition and fees and an allowance for only books, supplies, and transportation (as determined by the institution) and dependent care expenses (in accordance with paragraph (8));”.
 
 Par. (13). Pub. L. 109–171, §8016(2)–(4), added par. (13).
 
-1998—Par. (2). Pub. L. 105–244, §471(1), inserted “, including a reasonable allowance for the documented rental or purchase of a personal computer,” after “personal expenses”.
+<b>1998</b>—Par. (2). Pub. L. 105–244, §471(1), inserted “, including a reasonable allowance for the documented rental or purchase of a personal computer,” after “personal expenses”.
 
 Par. (3)(A). Pub. L. 105–244, §471(2)(A), substituted “determined by the institution” for “of not less than $1,500”.
 
@@ -74,9 +66,9 @@ Par. (10). Pub. L. 105–244, §471(3), substituted a semicolon for “, but th
 
 Par. (11). Pub. L. 105–244, §471(4), substituted “engaged” for “placed”.
 
-1993—Par. (12). Pub. L. 103–208 added par. (12).
+<b>1993</b>—Par. (12). Pub. L. 103–208 added par. (12).
 
-1992—Pub. L. 102–325 amended section generally, revising and restating as pars. (1) to (11) provisions formerly contained in pars. (1) to (9).
+<b>1992</b>—Pub. L. 102–325 amended section generally, revising and restating as pars. (1) to (11) provisions formerly contained in pars. (1) to (9).
 
 #### Effective Date of 2008 Amendment
 

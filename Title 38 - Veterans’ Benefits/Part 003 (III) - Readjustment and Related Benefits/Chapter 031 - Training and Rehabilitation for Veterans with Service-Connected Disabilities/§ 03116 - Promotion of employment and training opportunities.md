@@ -20,11 +20,11 @@ Prior section 3116 was renumbered section 5316 of this title.
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1516 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1516 of this title as this section.
 
 Subsec. (b)(2), (3). Pub. L. 102–83, §5(c)(1), substituted “3687” for “1787” in par. (2) and “4212” for “2012” in par. (3).
 
-1989—Subsecs. (a), (b)(1), (3). Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
+<b>1989</b>—Subsecs. (a), (b)(1), (3). Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
 #### Effective Date
 

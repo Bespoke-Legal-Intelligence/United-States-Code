@@ -6,7 +6,7 @@ Subject to subsections (g) and (h) of this section and after receipt by the Secr
 
 #### (b) Response by Secretary
 
-(1) The Secretary of Energy shall transmit to the Board, in writing, a statement on whetherthe Secretary accepts or rejects, in whole or in part, the recommendations submitted to him by the Board under section 2286a of this title, a description of the actions to be taken in response to the recommendations, and his views on such recommendations. The Secretary of Energy shall transmit his response to the Board within 45 days after the date of the publication, under subsection (a) of this section, of the notice with respect to such recommendations or within such additional period, not to exceed 45 days, as the Board may grant.
+(1) The Secretary of Energy shall transmit to the Board, in writing, a statement on whether the Secretary accepts or rejects, in whole or in part, the recommendations submitted to him by the Board under section 2286a of this title, a description of the actions to be taken in response to the recommendations, and his views on such recommendations. The Secretary of Energy shall transmit his response to the Board within 45 days after the date of the publication, under subsection (a) of this section, of the notice with respect to such recommendations or within such additional period, not to exceed 45 days, as the Board may grant.
 
 (2) At the same time as the Secretary of Energy transmits his response to the Board under paragraph (1), the Secretary, subject to subsection (h) of this section, shall publish such response, together with a request for public comment on his response, in the Federal Register.
 

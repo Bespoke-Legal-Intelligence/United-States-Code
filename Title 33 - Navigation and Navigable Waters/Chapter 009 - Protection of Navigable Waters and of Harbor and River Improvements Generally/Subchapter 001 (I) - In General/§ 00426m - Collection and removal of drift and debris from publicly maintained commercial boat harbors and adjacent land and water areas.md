@@ -34,7 +34,7 @@ There is authorized to be appropriated to carry out this section such sums as ma
 
 #### Amendments
 
-1986—Subsec. (f). Pub. L. 99–662 amended subsec. (f) generally, substituting “such sums as may be necessary for fiscal years beginning after Sept. 30, 1986” for “not to exceed $4,000,000 per fiscal year for fiscal years 1978 and 1979”.
+<b>1986</b>—Subsec. (f). Pub. L. 99–662 amended subsec. (f) generally, substituting “such sums as may be necessary for fiscal years beginning after Sept. 30, 1986” for “not to exceed $4,000,000 per fiscal year for fiscal years 1978 and 1979”.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -524,7 +524,7 @@ The date of the enactment of the Retirement Protection Act of 1994, referred to 
 
 #### Amendments
 
-2008—Subsec. (a)(1)(D)(i). Pub. L. 110–458, §108(b), substituted “431(c)(6)(D)” for “431(c)(6)(C)”.
+<b>2008</b>—Subsec. (a)(1)(D)(i). Pub. L. 110–458, §108(b), substituted “431(c)(6)(D)” for “431(c)(6)(C)”.
 
 Subsec. (a)(2). Pub. L. 110–245 substituted “(31), and (37)” for “and (31)”.
 
@@ -536,7 +536,7 @@ Subsec. (<i>o</i>)(2)(A)(ii). Pub. L. 110–458, §108(a)(1)(A), substituted “
 
 Subsec. (<i>o</i>)(4)(B). Pub. L. 110–458, §108(a)(1)(B), substituted “412(d)(3)” for “412(f)(4)”.
 
-2006—Subsec. (a)(1)(A). Pub. L. 109–280, §801(a)(1), (c)(1), inserted “in the case of a defined benefit plan other than a multiemployer plan, in an amount determined under subsection (<i>o</i>), and in the case of any other plan” after “section 501(a),” in introductory provisions and substituted “431” for “412” in two places in concluding provisions.
+<b>2006</b>—Subsec. (a)(1)(A). Pub. L. 109–280, §801(a)(1), (c)(1), inserted “in the case of a defined benefit plan other than a multiemployer plan, in an amount determined under subsection (<i>o</i>), and in the case of any other plan” after “section 501(a),” in introductory provisions and substituted “431” for “412” in two places in concluding provisions.
 
 Subsec. (a)(1)(B). Pub. L. 109–280, §801(c)(2), in introductory provisions, substituted “In the case of a multiemployer plan” for “In the case of a plan”, “431(c)(6)” for “412(c)(7)”, “431(c)(6)(A)(ii)” for “412(c)(7)(B)”, “431(c)(6)(A)(i)” for “412(c)(7)(A)”, and “431” for “412”, and, in cl. (i), substituted “431(c)(6)” for “412(c)(7)”.
 
@@ -558,9 +558,9 @@ Subsec. (a)(7)(D). Pub. L. 109–280, §801(c)(3)(B), added subpar. (D) and stru
 
 Subsec. (<i>o</i>). Pub. L. 109–280, §801(a)(2), added subsec. (<i>o</i>).
 
-2004—Subsec. (a)(1)(F). Pub. L. 108–218 added subpar. (F).
+<b>2004</b>—Subsec. (a)(1)(F). Pub. L. 108–218 added subpar. (F).
 
-2002—Subsec. (a)(1)(D)(iv). Pub. L. 107–147, §411(s), substituted “Special rule for terminating plans” for “Plans maintained by professional service employers” in heading.
+<b>2002</b>—Subsec. (a)(1)(D)(iv). Pub. L. 107–147, §411(s), substituted “Special rule for terminating plans” for “Plans maintained by professional service employers” in heading.
 
 Subsec. (a)(7)(C). Pub. L. 107–147, §411(<i>l</i>)(4), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “This paragraph shall not have the effect of reducing the amount otherwise deductible under paragraphs (1), (2), and (3), if no employee is a beneficiary under more than 1 trust or under a trust and an annuity plan.”
 
@@ -576,7 +576,7 @@ Subsec. (k)(7). Pub. L. 107–147, §411(w)(2), added par. (7).
 
 Subsec. (n). Pub. L. 107–147, §411(<i>l</i>)(2), substituted “subsection (a) or paragraph (1)(C) of subsection (h)” for “subsection (a),”.
 
-2001—Subsec. (a)(1)(A). Pub. L. 107–16, §616(a)(2)(B)(i), inserted “(other than a trust to which paragraph (3) applies)” after “pension trust” in introductory provisions.
+<b>2001</b>—Subsec. (a)(1)(A). Pub. L. 107–16, §616(a)(2)(B)(i), inserted “(other than a trust to which paragraph (3) applies)” after “pension trust” in introductory provisions.
 
 Subsec. (a)(1)(D). Pub. L. 107–16, §652(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In the case of any defined benefit plan (other than a multiemployer plan) which has more than 100 participants for the plan year, except as provided in regulations, the maximum amount deductible under the limitations of this paragraph shall not be less than the unfunded current liability determined under section 412(<i>l</i>). For purposes of determining whether a plan has more than 100 participants, all defined benefit plans maintained by the same employer (or any member of such employer's controlled group (within the meaning of section 412(<i>l</i>)(8)(C))) shall be treated as 1 plan, but only employees of such member or employer shall be taken into account.”
 
@@ -602,17 +602,17 @@ Subsec. (<i>l</i>). Pub. L. 107–16, §611(c)(1), substituted “$200,000” fo
 
 Subsec. (n). Pub. L. 107–16, §614(a), added subsec. (n).
 
-1998—Subsec. (a)(9)(C), (D). Pub. L. 105–206, §6015(d), redesignated subpar. (C), relating to qualified gratuitous transfers, as (D) and inserted heading.
+<b>1998</b>—Subsec. (a)(9)(C), (D). Pub. L. 105–206, §6015(d), redesignated subpar. (C), relating to qualified gratuitous transfers, as (D) and inserted heading.
 
 Subsec. (a)(11). Pub. L. 105–206, §7001(a), added par. (11).
 
-1997—Subsec. (a)(3)(A)(i). Pub. L. 105–34, §1601(d)(2)(C)(i), substituted “not in excess of the greater of—” and subcls. (I) and (II) for “not in excess of 15 percent of the compensation otherwise paid or accrued during the taxable year to the beneficiaries under the stock bonus or profit-sharing plan.”
+<b>1997</b>—Subsec. (a)(3)(A)(i). Pub. L. 105–34, §1601(d)(2)(C)(i), substituted “not in excess of the greater of—” and subcls. (I) and (II) for “not in excess of 15 percent of the compensation otherwise paid or accrued during the taxable year to the beneficiaries under the stock bonus or profit-sharing plan.”
 
 Subsec. (a)(3)(A)(ii). Pub. L. 105–34, §1601(d)(2)(C)(ii), substituted “the amount described in subclause (I) or (II) of clause (i), whichever is greater, with respect to such taxable year.” for “15 percent of the compensation otherwise paid or accrued during such taxable year to the beneficiaries under the plan.”
 
 Subsec. (a)(9)(C). Pub. L. 105–34, §1530(c)(2), added subpar. (C) relating to qualified gratuitous transfers.
 
-1996—Subsec. (a)(2). Pub. L. 104–188, §1704(t)(76), struck out “(18),” after “(17),”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–188, §1704(t)(76), struck out “(18),” after “(17),”.
 
 Subsec. (a)(9)(C). Pub. L. 104–188, §1316(d)(1), added subpar. (C) relating to S corporations.
 
@@ -626,19 +626,19 @@ Subsec. (<i>l</i>). Pub. L. 104–188, §1431(b)(3), struck out at end “In det
 
 Subsec. (m). Pub. L. 104–188, §1421(b)(2), added subsec. (m).
 
-1994—Subsec. (g)(4). Pub. L. 103–465 substituted “the Retirement Protection Act of 1994” for “the Single-Employer Pension Plan Amendments Act of 1986”.
+<b>1994</b>—Subsec. (g)(4). Pub. L. 103–465 substituted “the Retirement Protection Act of 1994” for “the Single-Employer Pension Plan Amendments Act of 1986”.
 
-1993—Subsec. (<i>l</i>). Pub. L. 103–66 substituted “$150,000” for “$200,000” in first sentence and “The Secretary shall adjust the $150,000 amount at the same time, and by the same amount, as any adjustment under section 401(a)(17)(B).” for “The Secretary shall adjust the $200,000 amount at the same time and in the same manner as under section 415(d).”
+<b>1993</b>—Subsec. (<i>l</i>). Pub. L. 103–66 substituted “$150,000” for “$200,000” in first sentence and “The Secretary shall adjust the $150,000 amount at the same time, and by the same amount, as any adjustment under section 401(a)(17)(B).” for “The Secretary shall adjust the $200,000 amount at the same time and in the same manner as under section 415(d).”
 
-1992—Subsec. (a)(2). Pub. L. 102–318 substituted “(27), and (31)” for “and (27)”.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–318 substituted “(27), and (31)” for “and (27)”.
 
-1990—Subsec. (a)(1)(C). Pub. L. 101–508 substituted “section 168(i)(10)(C)” for “section 167(<i>l</i>)(3)(A)(iii)”.
+<b>1990</b>—Subsec. (a)(1)(C). Pub. L. 101–508 substituted “section 168(i)(10)(C)” for “section 167(<i>l</i>)(3)(A)(iii)”.
 
-1989—Subsec. (g)(1). Pub. L. 101–239, §7841(b)(1), inserted “4041(b),” after “under section”.
+<b>1989</b>—Subsec. (g)(1). Pub. L. 101–239, §7841(b)(1), inserted “4041(b),” after “under section”.
 
 Subsec. (k). Pub. L. 101–239, §7302(a), amended subsec. (k) generally, substituting “Deduction for dividends paid on certain employer securities” for “Dividends paid deductions” in heading and pars. (1) to (6) for former pars. (1) and (2) and concluding provisions.
 
-1988—Subsec. (a)(1)(D). Pub. L. 100–647, §2005(b)(3), struck out “(without regard to any reduction by the credit balance in the funding standard account)” after “under section 412(<i>l</i>)”.
+<b>1988</b>—Subsec. (a)(1)(D). Pub. L. 100–647, §2005(b)(3), struck out “(without regard to any reduction by the credit balance in the funding standard account)” after “under section 412(<i>l</i>)”.
 
 Pub. L. 100–647, §2005(b)(1), substituted “For purposes of determining whether a plan has more than 100 participants” for “For purposes of this subparagraph”.
 
@@ -664,7 +664,7 @@ Subsec. (<i>l</i>). Pub. L. 100–647, §1011(d)(4), inserted at end “In deter
 
 Pub. L. 100–647, §1011(d)(1), inserted at end “For purposes of clause (i), (ii), or (iii) of subsection (a)(1)(A), and in computing the full funding limitation, any adjustment under the preceding sentence shall not be taken into account for any year before the year for which such adjustment first takes effect.”
 
-1987—Subsec. (a)(1)(A)(iii). Pub. L. 100–203, §9307(d), inserted “the unfunded costs attributable to” after “to amortize”.
+<b>1987</b>—Subsec. (a)(1)(A)(iii). Pub. L. 100–203, §9307(d), inserted “the unfunded costs attributable to” after “to amortize”.
 
 Subsec. (a)(1)(D), (E). Pub. L. 100–203, §9307(c), added subpar. (D) and redesignated former subpar. (D) as (E).
 
@@ -676,7 +676,7 @@ Subsec. (b)(2)(B). Pub. L. 100–203, §10201(b)(2), substituted “Exception”
 
 &emsp;“(ii) any benefit with respect to which an election under section 463 applies.”
 
-1986—Subsec. (a). Pub. L. 99–514, §1851(b)(2)(C)(i), substituted “this chapter; but, if they would otherwise be deductible” for “section 162 (relating to trade or business expenses) or section 212 (relating to expenses for the production of income); but, if they satisfy the conditions of either of such sections”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1851(b)(2)(C)(i), substituted “this chapter; but, if they would otherwise be deductible” for “section 162 (relating to trade or business expenses) or section 212 (relating to expenses for the production of income); but, if they satisfy the conditions of either of such sections”.
 
 Subsec. (a)(2). Pub. L. 99–514, §1136(b), substituted “(26), and (27)” for “and (26)”.
 
@@ -726,7 +726,7 @@ Subsec. (k)(2)(C). Pub. L. 99–514, §1173(a)(1), added subpar. (C).
 
 Subsec. (<i>l</i>). Pub. L. 99–514, §1106(d)(2), added subsec. (<i>l</i>).
 
-1984—Subsec. (a)(8)(D). Pub. L. 98–369, §713(d)(6), inserted “(determined without regard to the deductions allowed by this section and section 405(c))”.
+<b>1984</b>—Subsec. (a)(8)(D). Pub. L. 98–369, §713(d)(6), inserted “(determined without regard to the deductions allowed by this section and section 405(c))”.
 
 Subsec. (a)(9), (10). Pub. L. 98–369, §713(d)(4)(A), struck out par. (9) relating to plans benefiting self-employed individuals and redesignated par. (10) as (9).
 
@@ -742,7 +742,7 @@ Subsec. (i). Pub. L. 98–369, §474(r)(14), in par. (1), substituted “If any 
 
 Subsec. (k). Pub. L. 98–369, §542(a), added subsec. (k).
 
-1982—Subsec. (a)(2). Pub. L. 97–248, §237(e)(2), substituted “(8), (9)” for “(8)”, and “401(a)(10) and of section 401(d)” for “401(a)(9), (10), (17), and (18) and of section 401(d) (other than paragraph (1))”.
+<b>1982</b>—Subsec. (a)(2). Pub. L. 97–248, §237(e)(2), substituted “(8), (9)” for “(8)”, and “401(a)(10) and of section 401(d)” for “401(a)(9), (10), (17), and (18) and of section 401(d) (other than paragraph (1))”.
 
 Subsec. (a)(3)(B). Pub. L. 97–248, §253(b), inserted provision that “compensation otherwise paid or accrued during the taxable year to all employees” shall include any amount with respect to which an election under section 415(c)(3)(C) is in effect, but only to the extent that any contribution with respect to such amount is nonforfeitable.
 
@@ -750,17 +750,17 @@ Subsec. (e). Pub. L. 97–248, §238(a), amended subsec. (e) generally, substitu
 
 Subsec. (j). Pub. L. 97–248, §235(f), added subsec. (j).
 
-1981—Subsec. (a)(10). Pub. L. 97–34, §333(a), added par. (10).
+<b>1981</b>—Subsec. (a)(10). Pub. L. 97–34, §333(a), added par. (10).
 
 Subsec. (e). Pub. L. 97–34, §312(a), substituted in pars. (1) and (2)(A) “$15,000” for “$7,500”.
 
 Subsec. (i). Pub. L. 97–34, §331(b), added subsec. (i).
 
-1980—Subsec. (g). Pub. L. 96–364 redesignated existing provisions as par. (1), inserted applicability to part 1 of subtitle E of title IV of Employee Retirement Income Security Act of 1974, and added pars. (2) and (3).
+<b>1980</b>—Subsec. (g). Pub. L. 96–364 redesignated existing provisions as par. (1), inserted applicability to part 1 of subtitle E of title IV of Employee Retirement Income Security Act of 1974, and added pars. (2) and (3).
 
 Subsec. (h). Pub. L. 96–222 inserted “or shareholder employees” after “individuals” in heading, and in par. (4) “or described in section 1379(b)(1)” after “of subsection (e)” and “or a shareholder-employee (as defined in section 1379(d))” after “section 401(c)(1)” and substituted in pars. (2) to (4) “paragraph (1)” for “subparagraph (1)”.
 
-1978—Subsec. (a)(2). Pub. L. 95–600, §141(f)(9), substituted “(20), and (22)” for “and (20)”.
+<b>1978</b>—Subsec. (a)(2). Pub. L. 95–600, §141(f)(9), substituted “(20), and (22)” for “and (20)”.
 
 Subsec. (b). Pub. L. 95–600, §133(b), substituted “other plan” for “similar plan”.
 
@@ -768,7 +768,7 @@ Subsec. (d). Pub. L. 95–600, §133(a), added subsec. (d).
 
 Subsec. (h). Pub. L. 95–600, §152(f), added subsec. (h).
 
-1976—Subsecs. (a)(1)(B), (8)(C). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (a)(1)(B), (8)(C). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (a)(2). Pub. L. 94–267 substituted “(19), and (20)” for “and (19)”.
 
@@ -778,7 +778,7 @@ Subsecs. (e)(2)(B), (3). Pub. L. 94–455, §1906(b)(13)(A), struck out “or hi
 
 Subsec. (e)(4). Pub. L. 94–455, §1502(a)(2), inserted provisions following subpar. (B).
 
-1974—Subsec. (a)(1). Pub. L. 93–406, §1013(c)(1), expanded subpars. (A), (B), and (C) to accommodate the increased minimum funding standards required by section 412.
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–406, §1013(c)(1), expanded subpars. (A), (B), and (C) to accommodate the increased minimum funding standards required by section 412.
 
 Subsec. (a)(2). Pub. L. 93–406, §§1016(a)(3), 2001(g)(2)(E), 2004(c)(1), inserted references to the requirements of section 401(a)(11), (12), (13), (14), (15), (16), (17), (18), and (19), and, if applicable, the requirements of section 401(a)(17) and (18).
 
@@ -800,13 +800,13 @@ Subsec. (e)(4). Pub. L. 93–406, §2001(a)(3), added par. (4).
 
 Subsec. (g). Pub. L. 93–406, §4081(a), added subsec. (g).
 
-1969—Subsec. (a)(5). Pub. L. 91–172 substituted “If the plan is not one included in paragraph (1), (2), or (3), in the taxable year in which an amount attributable to the contribution is includible in the gross income of employees participating in the plan, but, in the case of a plan in which more than one employee participates only if separate accounts are maintained for each employee” for “In the taxable year when paid, if the plan is not one included in paragraph (1), (2), or (3), if the employees’ rights to or derived from such employer's contribution or such compensation are nonforfeitable at the time the contribution or compensation is paid”.
+<b>1969</b>—Subsec. (a)(5). Pub. L. 91–172 substituted “If the plan is not one included in paragraph (1), (2), or (3), in the taxable year in which an amount attributable to the contribution is includible in the gross income of employees participating in the plan, but, in the case of a plan in which more than one employee participates only if separate accounts are maintained for each employee” for “In the taxable year when paid, if the plan is not one included in paragraph (1), (2), or (3), if the employees’ rights to or derived from such employer's contribution or such compensation are nonforfeitable at the time the contribution or compensation is paid”.
 
-1966—Subsec. (a). Pub. L. 89–809, §204(a), repealed par. (10) which provided for a special limitation on the amount allowed as a deduction for self-employed individuals.
+<b>1966</b>—Subsec. (a). Pub. L. 89–809, §204(a), repealed par. (10) which provided for a special limitation on the amount allowed as a deduction for self-employed individuals.
 
 Subsec. (e). Pub. L. 89–809, §204(b)(2), (3), struck out references to par. (10) of subsec. (a) wherever appearing.
 
-1962—Subsec. (a)(2). Pub. L. 87–863 inserted “, or retirement annuities and medical benefits as described in section 401(h),” after “purchase of retirement annuities”, and “, or such retirement annuities and medical benefits” after “such retirement annuities.”
+<b>1962</b>—Subsec. (a)(2). Pub. L. 87–863 inserted “, or retirement annuities and medical benefits as described in section 401(h),” after “purchase of retirement annuities”, and “, or such retirement annuities and medical benefits” after “such retirement annuities.”
 
 Pub. L. 87–792, §3(a)(1), substituted “(5), (6), (7), and (8), and, if applicable, the requirements of section 401(a)(9) and (10) and of section 401(d) (other than paragraph (1)),” for “(5), and (6),”.
 
@@ -814,7 +814,7 @@ Subsecs. (a)(8) to (10). Pub. L. 87–792, §3(a)(2), added pars. (8) to (10).
 
 Subsecs. (e), (f). Pub. L. 87–792, §3(b), added subsecs. (e) and (f).
 
-1958—Subsec. (a). Pub. L. 85–866 substituted “income); but, if” for “income) but if” preceding par. (1).
+<b>1958</b>—Subsec. (a). Pub. L. 85–866 substituted “income); but, if” for “income) but if” preceding par. (1).
 
 #### Effective Date of 2008 Amendment
 
@@ -896,7 +896,7 @@ Change in method of accounting.—In the case of any taxpayer required by the am
 
 Amendment by section 1530(c)(2) of Pub. L. 105–34 applicable to transfers made by trusts to, or for the use of, an employee stock ownership plan after Aug. 5, 1997, see section 1530(d) of Pub. L. 105–34, set out as a note under section 401 of this title.
 
-Amendment by section 1601(d)(2)(C) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by section 1601(d)(2)(C) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Limitation on discretionary powers
 
-Subject to the provisions and procedures set forth in this chapter, the Administrator shall beresponsible for such actions as are taken to assure that adequate provision is made to meet the energy needs of the Nation. To that end, he shall make such plans and direct and conduct such programs related to the production, conservation, use, control, distribution, rationing, and allocation of all forms of energy as are appropriate in connection with only those authorities or functions—
+Subject to the provisions and procedures set forth in this chapter, the Administrator shall be responsible for such actions as are taken to assure that adequate provision is made to meet the energy needs of the Nation. To that end, he shall make such plans and direct and conduct such programs related to the production, conservation, use, control, distribution, rationing, and allocation of all forms of energy as are appropriate in connection with only those authorities or functions—
 
 &emsp;(1) specifically transferred to or vested in him by or pursuant to this chapter;
 
@@ -52,7 +52,7 @@ Sections 753, 754, and 760a of this title, referred to in subsec. (c)(1), were o
 
 #### Amendments
 
-1976—Subsec. (c). Pub. L. 94–385 added subsec. (c).
+<b>1976</b>—Subsec. (c). Pub. L. 94–385 added subsec. (c).
 
 #### Transfer of Functions
 

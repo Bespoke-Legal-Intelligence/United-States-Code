@@ -48,7 +48,7 @@ Production Certificates.—The Administrator shall issue a production certificat
 
 (d)
 
-Airworthiness Certificates.—(1) The registered owner of an aircraft may apply to the Administrator for an airworthiness certificate for the aircraft. The Administrator shall issue an airworthiness certificate when the Administrator finds that the aircraft conforms to its type certificate and, after inspection, is in condition for safe operation. The Administrator shall register each airworthiness certificate and may include appropriate information in the certificate. The certificate number or other individual designation the Administrator requiresshall be displayed on the aircraft. The Administrator may include in an airworthiness certificate terms required in the interest of safety.
+Airworthiness Certificates.—(1) The registered owner of an aircraft may apply to the Administrator for an airworthiness certificate for the aircraft. The Administrator shall issue an airworthiness certificate when the Administrator finds that the aircraft conforms to its type certificate and, after inspection, is in condition for safe operation. The Administrator shall register each airworthiness certificate and may include appropriate information in the certificate. The certificate number or other individual designation the Administrator requires shall be displayed on the aircraft. The Administrator may include in an airworthiness certificate terms required in the interest of safety.
 
 (2) A person applying for the issuance or renewal of an airworthiness certificate for an aircraft for which ownership has not been recorded under section 44107 or 44110 of this title must submit with the application information related to the ownership of the aircraft the Administrator decides is necessary to identify each person having a property interest in the aircraft and the kind and extent of the interest.
 
@@ -154,17 +154,17 @@ The date of enactment of this subsection, referred to in subsec. (e)(1), is the 
 
 #### Amendments
 
-2005—Subsec. (a)(1) to (3). Pub. L. 109–59, §4405(1)–(3), (5), (6), inserted par. headings, realigned margins, and substituted “Except as provided in paragraph (4), if” for “If” in par. (3).
+<b>2005</b>—Subsec. (a)(1) to (3). Pub. L. 109–59, §4405(1)–(3), (5), (6), inserted par. headings, realigned margins, and substituted “Except as provided in paragraph (4), if” for “If” in par. (3).
 
 Subsec. (a)(4). Pub. L. 109–59, §4405(4), added par. (4).
 
-2003—Pub. L. 108–176, §227(e)(1), added section catchline and struck out former section catchline which read as follows: “Type certificates, production certificates, and airworthiness certificates”.
+<b>2003</b>—Pub. L. 108–176, §227(e)(1), added section catchline and struck out former section catchline which read as follows: “Type certificates, production certificates, and airworthiness certificates”.
 
 Subsec. (a)(3). Pub. L. 108–176, §811, added par. (3).
 
 Subsec. (e). Pub. L. 108–176, §227(b)(2), added subsec. (e).
 
-1996—Subsecs. (b) to (d). Pub. L. 104–264 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+<b>1996</b>—Subsecs. (b) to (d). Pub. L. 104–264 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
 #### Effective Date of 2003 Amendment
 
@@ -176,5 +176,5 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 #### Plan for Development and Oversight of System for Certification of Design Organizations
 
-Pub. L. 108–176, title II, §227(b)(1), Dec. 12, 2003, 117 Stat. 2531, provided that: “Not later than 4 years after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan for the development and oversight of a system for certification of design organizations to certify compliance with the requirements and minimum standards prescribed under section 44701(a) of title 49, United States Code, for the type certification of aircraft, aircraft engines, propellers, or appliances.”
+Pub. L. 108–176, title II, §227(b)(1), Dec. 12, 2003, 117 Stat. 2531, provided that: “Not later than 4 years afterthe date of enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan for the development and oversight of a system for certification of design organizations to certify compliance with the requirements and minimum standards prescribed under section 44701(a) of title 49, United States Code, for the type certification of aircraft, aircraft engines, propellers, or appliances.”
 

@@ -20,9 +20,9 @@ Section 1973d of this title, referred to in subsec. (a), was repealed by Pub. L.
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–246 substituted “observers” for “examiners” wherever appearing.
+<b>2006</b>—Subsec. (a). Pub. L. 109–246 substituted “observers” for “examiners” wherever appearing.
 
-1975—Subsec. (a). Pub. L. 94–73 inserted reference to fourteenth amendment in three places, and substituted “voting guarantees” for “guarantees” in three places, “Attorney General or an aggrieved person” for “Attorney General”, and “on account of race or color or in contravention of the voting guarantees set forth in section 1973b(f)(2) of this title” for “on account of race or color”.
+<b>1975</b>—Subsec. (a). Pub. L. 94–73 inserted reference to fourteenth amendment in three places, and substituted “voting guarantees” for “guarantees” in three places, “Attorney General or an aggrieved person” for “Attorney General”, and “on account of race or color or in contravention of the voting guarantees set forth in section 1973b(f)(2) of this title” for “on account of race or color”.
 
 Subsec. (b). Pub. L. 94–73 substituted “Attorney General or an aggrieved person under any statute to enforce the voting guarantees of the fourteenth or fifteenth amendment” for “Attorney General under any statute to enforce the guarantees of the fifteenth amendment”, and “on account of race or color, or in contravention of the voting guarantees set forth in section 1973b(f)(2) of this title” for “on account of race or color”.
 

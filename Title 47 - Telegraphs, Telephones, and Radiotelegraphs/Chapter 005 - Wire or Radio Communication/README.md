@@ -15,6 +15,7 @@
 | [159\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000159%20-%20Regulatory%20fees.md) | Regulatory fees. |
 | [160\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000160%20-%20Competition%20in%20provision%20of%20telecommunications%20service.md) | Competition in provision of telecommunications service. |
 | [161\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000161%20-%20Regulatory%20reform.md) | Regulatory reform. |
+| [162\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000162%20-%20Additional%20research%20authorities%20of%20the%20FCC.md) | Additional research authorities of the FCC. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -141,6 +142,7 @@
 | [339\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000339%20-%20Carriage%20of%20distant%20television%20stations%20by%20satellite%20carriers.md) | Carriage of distant television stations by satellite carriers. |
 | [340\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000340%20-%20Significantly%20viewed%20signals%20permitted%20to%20be%20carried.md) | Significantly viewed signals permitted to be carried. |
 | [341\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000341%20-%20Carriage%20of%20television%20signals%20to%20certain%20subscribers.md) | Carriage of television signals to certain subscribers. |
+| [342\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000342%20-%20Process%20for%20issuing%20qualified%20carrier%20certification.md) | Process for issuing qualified carrier certification. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -181,7 +183,7 @@
 
 #### Part IV—Assistance for Planning and Construction of Public Telecommunications Facilities; Telecommunications Demonstrations; Corporation for Public Broadcasting; General Provisions
 
-I74subpart a—assistance for planning and construction of public telecommunications facilities
+#### subpart a—assistance for planning and construction of public telecommunications facilities
 
 |  |  |
 | :--- | ---: |
@@ -362,6 +364,13 @@ I74subpart a—assistance for planning and construction of public telecommunicat
 | [615a.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000615a%20-%20Service%20provider%20parity%20of%20protection.md) | Service provider parity of protection. |
 | 615a–1. | Duty to provide 9–1–1 and enhanced 9–1–1 service. |
 | [615b.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000615b%20-%20Definitions.md) | Definitions. |
+| [615c.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000615c%20-%20Emergency%20Access%20Advisory%20Committee.md) | Emergency Access Advisory Committee. |
+| [616\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000616%20-%20Internet%20protocol-based%20relay%20services.md) | Internet protocol-based relay services. |
+| [617\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000617%20-%20Access%20to%20advanced%20communications%20services%20and%20equipment.md) | Access to advanced communications services and equipment. |
+| [618\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000618%20-%20Enforcement%20and%20recordkeeping%20obligations.md) | Enforcement and recordkeeping obligations. |
+| [619\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000619%20-%20Internet%20browsers%20built%20into%20telephones%20used%20with%20public%20mobile%20services.md) | Internet browsers built into telephones used with public mobile services. |
+| [620\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000620%20-%20Relay%20services%20for%20deaf-blind%20individuals.md) | Relay services for deaf-blind individuals. |
+| [621\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000621%20-%20Rulemaking%20on%20loud%20commercials%20required.md) | Rulemaking on loud commercials required. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

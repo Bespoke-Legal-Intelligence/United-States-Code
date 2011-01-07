@@ -6,5 +6,5 @@ There is hereby authorized to be appropriated from time to time, out of any mone
 
 #### Amendments
 
-1946—Act Aug. 14, 1946, amended section generally to provide for the necessary appropriations to carry out the purposes of sections 661 to 666c of this title.
+<b>1946</b>—Act Aug. 14, 1946, amended section generally to provide for the necessary appropriations to carry out the purposes of sections 661 to 666c of this title.
 

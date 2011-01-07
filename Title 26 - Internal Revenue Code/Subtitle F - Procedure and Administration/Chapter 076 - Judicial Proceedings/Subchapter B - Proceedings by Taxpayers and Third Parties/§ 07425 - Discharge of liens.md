@@ -74,9 +74,9 @@ A prior section 7425 was renumbered 7434 of this title.
 
 #### Amendments
 
-1986—Subsec. (c)(4). Pub. L. 99–514 added par. (4).
+<b>1986</b>—Subsec. (c)(4). Pub. L. 99–514 added par. (4).
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 1986 Amendment
 
@@ -84,5 +84,5 @@ Section 1572(b) of Pub. L. 99–514 provided that: “The amendment made by subs
 
 #### Effective Date
 
-Section applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as an Effective Date of 1966 Amendment note under section 6323 of this title.
+Section applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lienor interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as an Effective Date of 1966 Amendment note under section 6323 of this title.
 

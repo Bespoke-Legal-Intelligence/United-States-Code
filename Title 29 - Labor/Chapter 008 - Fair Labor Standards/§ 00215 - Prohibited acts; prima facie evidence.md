@@ -18,7 +18,7 @@
 
 #### Amendments
 
-1949—Subsec. (a)(1). Act Oct. 26, 1949, §13(a), inserted provision protecting purchaser in good faith in sale of goods produced in violation of this chapter.
+<b>1949</b>—Subsec. (a)(1). Act Oct. 26, 1949, §13(a), inserted provision protecting purchaser in good faith in sale of goods produced in violation of this chapter.
 
 Subsec. (a)(5). Act Oct. 26, 1949, §13(b), inserted “or any regulation or order made or continued in effect under the provisions of section 211(d) of this title” after “211(c) of this title”.
 

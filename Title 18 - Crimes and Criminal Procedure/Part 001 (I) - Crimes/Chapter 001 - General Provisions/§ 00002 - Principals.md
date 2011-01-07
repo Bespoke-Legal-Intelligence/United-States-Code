@@ -22,7 +22,7 @@ This accords with the following decisions: <i>Rothenburg v. United States</i>, 1
 
 #### Amendments
 
-1951—Subsec. (a). Act Oct. 31, 1951, inserted “punishable as”.
+<b>1951</b>—Subsec. (a). Act Oct. 31, 1951, inserted “punishable as”.
 
 Subsec. (b). Act Oct. 31, 1951, inserted “willfully” before “causes”, and “or another” after “him”, and substituted “is punishable as a principal” for “is also a principal and punishable as such”.
 

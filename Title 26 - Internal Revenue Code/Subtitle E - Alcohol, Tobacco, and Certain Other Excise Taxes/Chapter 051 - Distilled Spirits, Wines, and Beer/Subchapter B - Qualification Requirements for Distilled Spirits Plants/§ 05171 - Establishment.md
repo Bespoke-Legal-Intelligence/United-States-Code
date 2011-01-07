@@ -16,7 +16,7 @@ A distilled spirits plant may be established only by a person who intends to con
 
 #### (2) Application required where new operations are added
 
-&emsp;No operation in addition to those set forth in the application made pursuant to paragraph\(1) may be conducted at a distilled spirits plant until the person has made application to the Secretary for, and received notice of, the registration of such additional operation.
+&emsp;No operation in addition to those set forth in the application made pursuant to paragraph (1) may be conducted at a distilled spirits plant until the person has made application to the Secretary for, and received notice of, the registration of such additional operation.
 
 #### (3) Secretary may establish minimum capacity and level of activity requirements
 
@@ -66,7 +66,7 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 627 to 
 
 #### Amendments
 
-1979—Subsecs. (a), (b). Pub. L. 96–39 added subsecs. (a) and (b) and redesignated former subsecs. (a) and (b) as (c) and (d), respectively.
+<b>1979</b>—Subsecs. (a), (b). Pub. L. 96–39 added subsecs. (a) and (b) and redesignated former subsecs. (a) and (b) as (c) and (d), respectively.
 
 Subsec. (c). Pub. L. 96–39 redesignated former subsec. (a) as (c) and inserted provisions relating to an application requirement where new operations are added and permitting the Secretary to establish minimum capacity and level of activity requirements. Former subsec. (c) redesignated (e).
 
@@ -74,7 +74,7 @@ Subsec. (d). Pub. L. 96–39 redesignated former subsec. (b) as (d) and substitu
 
 Subsec. (e). Pub. L. 96–39 redesignated former subsec. (c) as (e) and substituted reference to processor for reference to rectifier and reference to warehouseman for reference to bonded warehouseman and struck out reference to bottler.
 
-1976—Subsec. (b)(1). Pub. L. 94–455, §§1905(a)(13)(A), 1906(b)(13)(A), struck out “49 Stat. 978;” before “27 U.S.C. 203, 204” in parenthetical provisions after “Federal Alcohol Administration Act” and struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b)(1). Pub. L. 94–455, §§1905(a)(13)(A), 1906(b)(13)(A), struck out “49 Stat. 978;” before “27 U.S.C. 203, 204” in parenthetical provisions after “Federal Alcohol Administration Act” and struck out “or his delegate” after “Secretary”.
 
 Subsec. (b)(3). Pub. L. 94–455, §1905(a)(13)(B), struck out par. (3) under which persons who were qualified on June 30, 1959, to perform operations for which a permit was required covering operations not required to be covered by a basic permit under the Federal Alcohol Administration Act had been allowed to continue operations pending a reasonable opportunity to make application for a permit.
 
@@ -104,7 +104,7 @@ In general.—For purposes of section 5171 of the Internal Revenue Code of 1986 
 
 &emsp;“(2)
 
-Current registration to remain in effect.—Notwithstanding paragraph (1), the registration ofany person under section 5171 of the Internal Revenue Code of 1986 which is in effect on December 31, 1979, shall remain in effect until final action on the application required by paragraph (1).
+Current registration to remain in effect.—Notwithstanding paragraph (1), the registration of any person under section 5171 of the Internal Revenue Code of 1986 which is in effect on December 31, 1979, shall remain in effect until final action on the application required by paragraph (1).
 
 “(b)
 

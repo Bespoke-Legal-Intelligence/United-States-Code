@@ -100,7 +100,7 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 #### Amendments
 
-1998—Subsecs. (d), (e). Pub. L. 105–362 redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d) which related to reports to Congress.
+<b>1998</b>—Subsecs. (d), (e). Pub. L. 105–362 redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d) which related to reports to Congress.
 
-1995—Subsec. (d). Pub. L. 104–66 substituted “Not later than October 24, 1995, and biennially thereafter” for “Not later than 2 years after October 24, 1992, and annually thereafter” in introductory provisions and added par. (6).
+<b>1995</b>—Subsec. (d). Pub. L. 104–66 substituted “Not later than October 24, 1995, and biennially thereafter” for “Not later than 2 years after October 24, 1992, and annually thereafter” in introductory provisions and added par. (6).
 

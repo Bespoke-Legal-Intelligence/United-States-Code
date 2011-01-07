@@ -32,13 +32,13 @@ The date of the enactment of the Veterans Millennium Health Care and Benefits Ac
 
 #### Amendments
 
-1999—Subsecs. (a), (b). Pub. L. 106–117, §207(a)(1)–(3), added subsec. (a), redesignated former subsec. (a) as (b) and struck out introductory provisions and par. (1) which authorized Secretary to prescribe number of beds needed for adequate nursing home care of veterans, and redesignated former pars. (2) and (3) of subsec. (a) as pars. (1) and (2), respectively, of subsec. (b). Former subsec. (b) redesignated (c).
+<b>1999</b>—Subsecs. (a), (b). Pub. L. 106–117, §207(a)(1)–(3), added subsec. (a), redesignated former subsec. (a) as (b)and struck out introductory provisions and par. (1) which authorized Secretary to prescribe number of beds needed for adequate nursing home care of veterans, and redesignated former pars. (2) and (3) of subsec. (a) as pars. (1) and (2), respectively, of subsec. (b). Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 106–117, §207(a)(1), (4), redesignated subsec. (b) as (c) and substituted “subsection (b)(2)” for “subsection (a)(3)”.
 
 Subsec. (d). Pub. L. 106–117, §207(a)(5), added subsec. (d).
 
-1991—Pub. L. 102–40 renumbered section 5034 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5034 of this title as this section.
 
 Pub. L. 102–83, §5(c)(1), substituted “1720(b)” for “620(b)” in subsec. (a)(3).
 
@@ -46,19 +46,19 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 Pub. L. 102–54 amended section as in effect immediately before the enactment of Pub. L. 102–40 by inserting “(a)” before “Within six months”, substituting “any amendment to this section” for “this section or any amendment to it”, designating sentence at end of par. (3) as subsec. (b), realigning such sentence, and substituting “the standards prescribed under subsection (a)(3)” for “such standards” at end of such sentence.
 
-1984—Pars. (2), (3). Pub. L. 98–528 inserted “or acquired” after “constructed” wherever appearing.
+<b>1984</b>—Pars. (2), (3). Pub. L. 98–528 inserted “or acquired” after “constructed” wherever appearing.
 
-1980—Par. (1). Pub. L. 96–330 struck out “, which number shall not exceed two and one-half beds per thousand veteran population in the case of any State” after “residing in each State”.
+<b>1980</b>—Par. (1). Pub. L. 96–330 struck out “, which number shall not exceed two and one-half beds per thousand veteran population in the case of any State” after “residing in each State”.
 
-1977—Par. (2). Pub. L. 95–62, §3(5), substituted “repair, and equipment for facilities constructed” for “repairs, modernization, alteration, and equipment for facilities for furnishing nursing home care which are constructed”.
+<b>1977</b>—Par. (2). Pub. L. 95–62, §3(5), substituted “repair, and equipment for facilities constructed” for “repairs, modernization, alteration, and equipment for facilities for furnishing nursing home care which are constructed”.
 
 Par. (3). Pub. L. 95–62, §3(6), substituted “furnishing of care” for “furnishing of nursing home care”.
 
-1976—Pub. L. 94–581 substituted “date of enactment of this section or any amendment to it with respect to such amendment” for “date of enactment of this subchapter” in provisions preceding par. (1), substituted “veterans” and “veteran” for “war veterans” and “war veteran”, respectively, in par. (1), and added par. (3).
+<b>1976</b>—Pub. L. 94–581 substituted “date of enactment of this section or any amendment to it with respect to such amendment” for “date of enactment of this subchapter” in provisions preceding par. (1), substituted “veterans” and “veteran” for “war veterans” and “war veteran”, respectively, in par. (1), and added par. (3).
 
-1973—Par. (1). Pub. L. 93–82 substituted “two and one-half beds” for “one and one-half beds”.
+<b>1973</b>—Par. (1). Pub. L. 93–82 substituted “two and one-half beds” for “one and one-half beds”.
 
-1965—Par. (1). Pub. L. 89–311 substituted “one and one-half beds” for “one-half bed”.
+<b>1965</b>—Par. (1). Pub. L. 89–311 substituted “one and one-half beds” for “one-half bed”.
 
 #### Effective Date of 1977 Amendment
 

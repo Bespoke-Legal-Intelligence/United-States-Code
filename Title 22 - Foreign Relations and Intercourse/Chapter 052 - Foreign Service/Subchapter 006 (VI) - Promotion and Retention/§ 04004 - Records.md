@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1999—Pub. L. 106–113, in section catchline, substituted “Records” for “Confidentiality of records”, designated existing provisions as subsec. (a), and added subsec. (b).
+<b>1999</b>—Pub. L. 106–113, in section catchline, substituted “Records” for “Confidentiality of records”, designated existing provisions as subsec. (a), and added subsec. (b).
 
 #### Effective Date of 1999 Amendment
 

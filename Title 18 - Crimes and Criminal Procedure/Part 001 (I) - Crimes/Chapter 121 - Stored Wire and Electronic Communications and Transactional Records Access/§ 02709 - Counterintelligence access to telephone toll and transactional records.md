@@ -2,7 +2,7 @@
 
 (a)
 
-Duty to Provide.—A wire or electronic communication service provider shall comply with a request for subscriber information and toll billing records information, or electronic communication transactional records in its custody or possession made by the Director of the Federal Bureau of Investigation under subsection (b) of this section.
+Duty to Provide.—A wire or electronic communication service provider shall complywith a request for subscriber information and toll billing records information, or electronic communication transactional records in its custody or possession made by the Director of the Federal Bureau of Investigation under subsection (b) of this section.
 
 (b)
 
@@ -40,13 +40,13 @@ Libraries.—A library (as that term is defined in section 213(1) of the Library
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–177 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “No wire or electronic communication service provider, or officer, employee, or agent thereof, shall disclose to any person that the Federal Bureau of Investigation has sought or obtained access to information or records under this section.”
+<b>2006</b>—Subsec. (c). Pub. L. 109–177 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “No wire or electronic communication service provider, or officer, employee, or agent thereof, shall disclose to any person that the Federal Bureau of Investigation has sought or obtained access to information or records under this section.”
 
 Subsec. (c)(4). Pub. L. 109–178, §4(b), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under this section shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform the Director or such designee that the person intends to consult an attorney to obtain legal advice or legal assistance.”
 
 Subsec. (f). Pub. L. 109–178, §5, added subsec. (f).
 
-2001—Subsec. (b). Pub. L. 107–56, §505(a)(1), inserted “at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director” after “Deputy Assistant Director” in introductory provisions.
+<b>2001</b>—Subsec. (b). Pub. L. 107–56, §505(a)(1), inserted “at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director” after “Deputy Assistant Director” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 107–56, §505(a)(2), struck out “in a position not lower than Deputy Assistant Director” after “(or his designee” and substituted “made that the name, address, length of service, and toll billing records sought are relevant to an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely on the basis of activities protected by the first amendment to the Constitution of the United States; and” for “made that—
 
@@ -54,7 +54,7 @@ Subsec. (b)(1). Pub. L. 107–56, §505(a)(2), struck out “in a position not l
 
 &emsp;“(B) there are specific and articulable facts giving reason to believe that the person or entity to whom the information sought pertains is a foreign power or an agent of a foreign power as defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801); and”.
 
-Subsec. (b)(2). Pub. L. 107–56, §505(a)(3), struck out “in a position not lower than Deputy Assistant Director” after “(or his designee” and substituted “made that the information sought is relevant to an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person isnot conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for “made that—
+Subsec. (b)(2). Pub. L. 107–56, §505(a)(3), struck out “in a position not lower than Deputy Assistant Director” after “(or his designee” and substituted “made that the information sought is relevant to an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for “made that—
 
 &emsp;“(A) the information sought is relevant to an authorized foreign counterintelligence investigation; and
 
@@ -64,9 +64,9 @@ Subsec. (b)(2). Pub. L. 107–56, §505(a)(3), struck out “in a position not l
 
 &emsp;&emsp;“(ii) a foreign power or an agent of a foreign power under circumstances giving reason to believe that the communication concerned international terrorism as defined in section 101(c) of the Foreign Intelligence Surveillance Act or clandestine intelligence activities that involve or may involve a violation of the criminal statutes of the United States.”
 
-1996—Subsec. (b)(1). Pub. L. 104–293 inserted “local and long distance” before “toll billing records”.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–293 inserted “local and long distance” before “toll billing records”.
 
-1993—Subsec. (b). Pub. L. 103–142, §1, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “
+<b>1993</b>—Subsec. (b). Pub. L. 103–142, §1, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “
 
 Required Certification.—The Director of the Federal Bureau of Investigation (or an individual within the Federal Bureau of Investigation designated for this purpose by the Director) may request any such information and records if the Director (or the Director's designee) certifies in writing to the wire or electronic communication service provider to which the request is made that—
 

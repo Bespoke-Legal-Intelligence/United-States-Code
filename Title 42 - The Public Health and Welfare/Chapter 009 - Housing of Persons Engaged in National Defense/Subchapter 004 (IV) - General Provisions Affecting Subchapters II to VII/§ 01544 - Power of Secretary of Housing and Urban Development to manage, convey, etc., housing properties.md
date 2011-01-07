@@ -14,9 +14,9 @@ In text, “section 1302 of title 40” substituted for “section 321 of the Ac
 
 #### Amendments
 
-1950—Act Apr. 20, 1950, substituted “Housing and Home Finance Administrator” for “National Housing Administrator” wherever appearing.
+<b>1950</b>—Act Apr. 20, 1950, substituted “Housing and Home Finance Administrator” for “National Housing Administrator” wherever appearing.
 
-1942—Act Apr. 10, 1942, inserted last sentence.
+<b>1942</b>—Act Apr. 10, 1942, inserted last sentence.
 
 Act Jan. 21, 1942, amended second proviso.
 

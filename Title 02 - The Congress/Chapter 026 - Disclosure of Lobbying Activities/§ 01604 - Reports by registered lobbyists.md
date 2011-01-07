@@ -60,7 +60,7 @@ For purposes of this section, estimates of income or expenses shall be made as f
 
 > &emsp;&emsp;except that this subparagraph shall not apply if the funds are provided to a person who is required to report the receipt of the funds under section 434 of this title;
 
-&emsp;&emsp;(F) the name of each Presidential library foundation, and each Presidential inauguralcommittee, to whom contributions equal to or exceeding $200 were made by the person or organization, or a political committee established or controlled by the person or organization, within the semiannual period, and the date and amount of each such contribution within the semiannual period; and
+&emsp;&emsp;(F) the name of each Presidential library foundation, and each Presidential inaugural committee, to whom contributions equal to or exceeding $200 were made by the person or organization, or a political committee established or controlled by the person or organization, within the semiannual period, and the date and amount of each such contribution within the semiannual period; and
 
 &emsp;&emsp;(G) a certification by the person or organization filing the report that the person or organization—
 

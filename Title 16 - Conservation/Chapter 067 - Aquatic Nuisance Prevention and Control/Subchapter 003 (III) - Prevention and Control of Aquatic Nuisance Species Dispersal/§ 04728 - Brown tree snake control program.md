@@ -6,5 +6,7 @@ The Task Force shall, within the program developed under subsection (a),<sup>1</
 
 #### Amendments
 
-1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §1209, which enacted this section.
+<b>1996</b>—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §1209, which enacted this section.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection (a) of section 4722 of this title,”.</i>
 

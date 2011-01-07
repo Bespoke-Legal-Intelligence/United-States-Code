@@ -8,7 +8,7 @@
 
 &emsp;(3) sanctions for nonobservance.
 
-(b) The rate of compensation to be paid for each type of freight car shall be determined by the expense of owning and maintaining that type of freight car, including a fair return on its cost giving consideration to current costs of capital, repairs, materials, parts, and labor. In determining the rate of compensation, the Board shall consider the transportation use of each type of freight car, the national level of ownership of each type of freight car, and other factors that affect the adequacy of the national freight car supply.
+(b) The rate of compensation to be paid for each type of freight car shall be determined by the expense of owning and maintaining that type of freight car, including a fair return on itscost giving consideration to current costs of capital, repairs, materials, parts, and labor. In determining the rate of compensation, the Board shall consider the transportation use of each type of freight car, the national level of ownership of each type of freight car, and other factors that affect the adequacy of the national freight car supply.
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 832.)
 

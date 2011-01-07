@@ -6,11 +6,11 @@ To enable the Foundation to carry out its powers and duties, only such sums may 
 
 #### Amendments
 
-1980—Pub. L. 96–516 amended subsec. (a) generally, striking out specific dollar amounts for fiscal years ending June 30, 1969, and June 30, 1970, reference to subsequent fiscal years, and provisions relating to sums as additional to sums under section 1122(b)(1) of title 33, and struck out subsec. (b) which related to availability of sums for obligation and expenditure.
+<b>1980</b>—Pub. L. 96–516 amended subsec. (a) generally, striking out specific dollar amounts for fiscal years ending June 30, 1969, and June 30, 1970, reference to subsequent fiscal years, and provisions relating to sums as additional to sums under section 1122(b)(1) of title 33, and struck out subsec. (b) which related to availability of sums for obligation and expenditure.
 
-1968—Subsec. (a). Pub. L. 90–407, §14, substituted provisions authorizing the appropriation of funds for the fiscal year ending June 30, 1969, June 30, 1970, and each subsequent fiscal year, such sums to be in addition to sums authorized by section 1122(b)(1) of title 33, for provisions authorizing the appropriation of such sums as may be necessary to carry out the provisions of this chapter out of any money in the Treasury not otherwise appropriated.
+<b>1968</b>—Subsec. (a). Pub. L. 90–407, §14, substituted provisions authorizing the appropriation of funds for the fiscal year ending June 30, 1969, June 30, 1970, and each subsequent fiscal year, such sums to be in addition to sums authorized by section 1122(b)(1) of title 33, for provisions authorizing the appropriation of such sums as may be necessary to carry out the provisions of this chapter out of any money in the Treasury not otherwise appropriated.
 
-1953—Subsec. (a). Act Aug. 8, 1953, removed the $15 million limitation on the amount of the annual appropriations.
+<b>1953</b>—Subsec. (a). Act Aug. 8, 1953, removed the $15 million limitation on the amount of the annual appropriations.
 
 #### Drug-Free Workplace
 
@@ -20,7 +20,7 @@ Pub. L. 100–570, title I, §118, Oct. 31, 1988, 102 Stat. 2873, provided that:
 
 “(b) No funds authorized to be appropriated to the Foundation for fiscal years 1989 through 1993 shall be available for payment in connection with any grant, contract, or other agreement, unless the recipient of such grant, contractor, or party to such agreement, as the case may be, has in place and will continue to administer in good faith a written policy, adopted by the board of directors or other governing authority of such recipient, contractor, or party, satisfactory to the Director of the Foundation, designed to ensure that all of the workplaces of such recipient, contractor, or party are free from the illegal use, possession, or distribution of controlled substances (as defined in the Controlled Substances Act) by the officers and employees of such recipient, contractor, or party.”
 
-\[Section 118 of Pub. L. 100–570, set out above, effective Jan. 16, 1989, see section 215(c) of Pub. L. 100–685, set out as a note under section 2459 of this title.\]
+\[Section 118 of Pub. L. 100–570, set out above, effective Jan. 16, 1989, see section 215(c) of Pub. L. 100–685, set out as a note under section 5110 of Title 15, Commerce and Trade.\]
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 

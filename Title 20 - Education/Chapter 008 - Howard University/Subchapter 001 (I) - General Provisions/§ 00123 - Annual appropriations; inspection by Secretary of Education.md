@@ -6,11 +6,11 @@ Annual appropriations are authorized to aid in the construction, development, im
 
 #### Amendments
 
-1984—Pub. L. 98–480 inserted “endowment,” after “improvement,”.
+<b>1984</b>—Pub. L. 98–480 inserted “endowment,” after “improvement,”.
 
-1946—Act Aug. 7, 1946, repealed third sentence which required that an annual report of the affairs of the university be presented to Congress in the report of Office of Education.
+<b>1946</b>—Act Aug. 7, 1946, repealed third sentence which required that an annual report of the affairs of the university be presented to Congress in the report of Office of Education.
 
-1928—Act Dec. 13, 1928, authorized annual appropriations for the university, prohibited use of funds for religious instruction, made the university subject to inspection at least once a year by the Bureau of Education, and substituted provision that the annual report of the university's affairs be presented to Congress by the Bureau for provision that the Board of Trustees publish such an annual report.
+<b>1928</b>—Act Dec. 13, 1928, authorized annual appropriations for the university, prohibited use of funds for religious instruction, made the university subject to inspection at least once a year by the Bureau of Education, and substituted provision that the annual report of the university's affairs be presented to Congress by the Bureau for provision that the Board of Trustees publish such an annual report.
 
 #### Effective Date of 1984 Amendment
 

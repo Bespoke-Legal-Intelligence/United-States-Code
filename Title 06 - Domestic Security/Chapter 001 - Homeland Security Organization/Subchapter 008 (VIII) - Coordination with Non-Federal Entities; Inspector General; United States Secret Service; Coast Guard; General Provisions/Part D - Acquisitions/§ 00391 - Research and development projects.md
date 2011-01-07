@@ -10,7 +10,7 @@ Until September 30, 2010, and subject to subsection (d), the Secretary may carry
 
 #### (2) Prototype projects
 
-&emsp;The Secretary may, under the authority of paragraph (1), carry out prototype projects in accordance with the requirements and conditions provided for carrying out prototype projects under section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160). In applying the authorities of that section 845, subsection (c) of that section shall apply with respect to prototypeprojects under this paragraph, and the Secretary shall perform the functions of the Secretary of Defense under subsection (d) thereof.
+&emsp;The Secretary may, under the authority of paragraph (1), carry out prototype projects inaccordance with the requirements and conditions provided for carrying out prototype projects under section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160). In applying the authorities of that section 845, subsection (c) of that section shall apply with respect to prototype projects under this paragraph, and the Secretary shall perform the functions of the Secretary of Defense under subsection (d) thereof.
 
 #### (b) Report
 

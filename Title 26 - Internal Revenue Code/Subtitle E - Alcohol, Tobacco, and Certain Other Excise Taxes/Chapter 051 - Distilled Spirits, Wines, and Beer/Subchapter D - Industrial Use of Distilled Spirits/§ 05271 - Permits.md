@@ -12,7 +12,7 @@ No person shall—
 
 #### (b) Form of application and permit
 
-(1) The application required by subsection (a) shall be in such form, shall be submitted at such times, and shall contain such information, as the Secretary shall by regulations prescribe.
+(1) The application required by subsection (a) shall be in such form, shall be submitted at suchtimes, and shall contain such information, as the Secretary shall by regulations prescribe.
 
 (2) Permits under this section shall, under such regulations as the Secretary shall prescribe, designate and limit the acts which are permitted, and the place where and time when such acts may be performed. Such permits shall be issued in such form and under such conditions as the Secretary may by regulations prescribe.
 
@@ -76,7 +76,7 @@ Provisions similar to those comprising subsecs. (a) to (f) and (h) of this secti
 
 #### Amendments
 
-1976—Subsecs. (a) to (e), (h). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a) to (e), (h). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date
 

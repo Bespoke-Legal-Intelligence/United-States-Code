@@ -40,7 +40,7 @@ Applicability.—(1) An agreement entered into with a shipbuilder under subsecti
 
 #### Amendments
 
-1999—Subsec. (d)(2). Pub. L. 106–65 substituted “November 18, 1997,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998”.
+<b>1999</b>—Subsec. (d)(2). Pub. L. 106–65 substituted “November 18, 1997,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998”.
 
 #### Procedures for Applications and for Consideration of Agreements
 

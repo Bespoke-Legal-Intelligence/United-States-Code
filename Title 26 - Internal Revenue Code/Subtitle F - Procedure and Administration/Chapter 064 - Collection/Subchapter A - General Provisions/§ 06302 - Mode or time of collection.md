@@ -12,9 +12,9 @@ Whether or not the method of collecting any tax imposed by chapter 21, 31, 32, o
 
 The Secretary may authorize Federal Reserve banks, and incorporated banks, trust companies, domestic building and loan associations, or credit unions which are depositaries or financial agents of the United States, to receive any tax imposed under the internal revenue laws, in such manner, at such times, and under such conditions as he may prescribe; and he shall prescribe the manner, times, and conditions under which the receipt of such tax by such banks, trust companies, domestic building and loan associations, and credit unions is to be treated as payment of such tax to the Secretary.
 
-#### (d) Time for payment of manufacturers’ excise tax on sporting goods
+#### (d) Time for payment of manufacturers’ excise tax on recreational equipment
 
-The taxes imposed by subsections (a) and (b) of section 4161 (relating to taxes on sporting goods) shall be due and payable on the date for filing the return for such taxes.
+The taxes imposed by subchapter D of chapter 32 of this title (relating to taxes on recreational equipment) shall be due and payable on the date for filing the return for such taxes.
 
 #### (e) Time for deposit of taxes on communications services and airline tickets
 
@@ -156,19 +156,19 @@ If, under regulations prescribed by the Secretary, a person is required to make 
 
 &emsp;&emsp;Under regulations, any tax required to be paid by electronic fund transfer under section 5061(e) or 5703(b) shall be paid in such a manner as to ensure that the requirements of the second sentence of paragraph (1)(A) of this subsection are satisfied.
 
-#### (i) Cross references
-
-&emsp;&emsp;<b>For treatment of earned income advance amounts as payment of withholding and FICA taxes, see section 3507(d).</b>
-
-(Aug. 16, 1954, ch. 736, 68A Stat. 775; June 29, 1956, ch. 462, title II, §206(b), 70 Stat. 391; Pub. L. 94–455, title XIX, §1906(a)(17), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1825, 1834; Pub. L. 95–147, §3(a), Oct. 28, 1977, 91 Stat. 1228; Pub. L. 95–600, title I, §105(e), Nov. 6, 1978, 92 Stat. 2776; Pub. L. 96–223, title I, §101(c)(2), Apr. 2, 1980, 94 Stat. 250; Pub. L. 98–369, div. A, title X, §1015(c), July 18, 1984, 98 Stat. 1018; Pub. L. 100–418, title I, §1941(b)(2)(G), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title VI, §6107(a), Nov. 10, 1988, 102 Stat. 3712; Pub. L. 101–239, title VII, §§7502(a), 7507(a), 7632(a), Dec. 19, 1989, 103 Stat. 2362, 2369, 2379; Pub. L. 101–508, title XI, §§11217(b)(1), 11334(a), 11801(c)(22)(A), Nov. 5, 1990, 104 Stat. 1388–437, 1388–470, 1388–528; Pub. L. 103–66, title XIII, §13242(d)(15), Aug. 10, 1993, 107 Stat. 524; Pub. L. 103–182, title V, §523(a), Dec. 8, 1993, 107 Stat. 2161; Pub. L. 103–465, title VII, §712(a), (d), Dec. 8, 1994, 108 Stat. 4999, 5001; Pub. L. 104–188, title I, §§1702(c)(3), 1704(t)(52), Aug. 20, 1996, 110 Stat. 1869, 1890.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 775; June 29, 1956, ch. 462, title II, §206(b), 70 Stat. 391; Pub. L. 94–455, title XIX, §1906(a)(17), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1825, 1834; Pub. L. 95–147, §3(a), Oct. 28, 1977, 91 Stat. 1228; Pub. L. 95–600, title I, §105(e), Nov. 6, 1978, 92 Stat. 2776; Pub. L. 96–223, title I, §101(c)(2), Apr. 2, 1980, 94 Stat. 250; Pub. L. 98–369, div. A, title X, §1015(c), July 18, 1984, 98 Stat. 1018; Pub. L. 100–418, title I, §1941(b)(2)(G), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title VI, §6107(a), Nov. 10, 1988, 102 Stat. 3712; Pub. L. 101–239, title VII, §§7502(a), 7507(a), 7632(a), Dec. 19, 1989, 103 Stat. 2362, 2369, 2379; Pub. L. 101–508, title XI, §§11217(b)(1), 11334(a), 11801(c)(22)(A), Nov. 5, 1990, 104 Stat. 1388–437, 1388–470, 1388–528; Pub. L. 103–66, title XIII, §13242(d)(15), Aug. 10, 1993, 107 Stat. 524; Pub. L. 103–182, title V, §523(a), Dec. 8, 1993, 107 Stat. 2161; Pub. L. 103–465, title VII, §712(a), (d), Dec. 8, 1994, 108 Stat. 4999, 5001; Pub. L. 104–188, title I, §§1702(c)(3), 1704(t)(52), Aug. 20, 1996, 110 Stat. 1869, 1890; Pub. L. 111–226, title II, §219(b)(2), Aug. 10, 2010, 124 Stat. 2403; Pub. L. 111–237, §2(a), Aug. 16, 2010, 124 Stat. 2497.)
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–188, §1704(t)(52), provided that section 11801(c)(22)(A) of Pub. L. 101–508 shall be applied as if “chapters 21” appeared instead of “chapter 21” in the material to be stricken. See 1990 Amendment note below.
+<b>2010</b>—Subsec. (d). Pub. L. 111–237 amended subsec. (d) generally. Prior to amendment, text read as follows: “The taxes imposed by subsections (a) and (b) of section 4161 (relating to taxes on sporting goods) shall be due and payable on the date for filing the return for such taxes.”
+
+Subsec. (i). Pub. L. 111–226 struck out subsec. (i). Text read as follows: “For treatment of earned income advance amounts as payment of withholding and FICA taxes, see section 3507(d).”
+
+<b>1996</b>—Subsec. (b). Pub. L. 104–188, §1704(t)(52), provided that section 11801(c)(22)(A) of Pub. L. 101–508 shall be applied as if “chapters 21” appeared instead of “chapter 21” in the material to be stricken. See 1990 Amendment note below.
 
 Subsec. (g). Pub. L. 104–188, §1702(c)(3), inserted “, 22,” after “chapters 21”.
 
-1994—Subsec. (e). Pub. L. 103–465, §712(d), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If, under regulations prescribed by the Secretary, a person is required to make deposits of any tax imposed by section 4251 or subsection (a) or (b) of section 4261 with respect to amounts considered collected by such person during any semimonthly period, such deposit shall be made not later than the 3rd day (not including Saturdays, Sundays, or legal holidays) after the close of the 1st week of the 2nd semimonthly period following the period to which such amounts relate.”
+<b>1994</b>—Subsec. (e). Pub. L. 103–465, §712(d), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If, under regulations prescribed by the Secretary, a person is required to make deposits of any tax imposed by section 4251 or subsection (a) or (b) of section 4261 with respect to amounts considered collected by such person during any semimonthly period, such deposit shall be made not later than the 3rd day (not including Saturdays, Sundays, or legal holidays) after the close of the 1st week of the 2nd semimonthly period following the period to which such amounts relate.”
 
 Subsec. (f). Pub. L. 103–465, §712(a), substituted “certain excise taxes” for “taxes on gasoline and diesel fuel” in heading and amended text generally. Prior to amendment, text read as follows:
 
@@ -180,17 +180,17 @@ General rule.—Notwithstanding section 518 of the Highway Revenue Act of 1982, 
 
 Special rule where due date falls on saturday, sunday, or holiday.—If, but for this paragraph, the due date under paragraph (1) would fall on a Saturday, Sunday, or holiday in the District of Columbia, such due date shall be deemed to be the immediately preceding day which is not a Saturday, Sunday, or such a holiday.”
 
-1993—Subsec. (f). Pub. L. 103–66 inserted “and diesel fuel” after “gasoline” in heading.
+<b>1993</b>—Subsec. (f). Pub. L. 103–66 inserted “and diesel fuel” after “gasoline” in heading.
 
 Subsecs. (h), (i). Pub. L. 103–182 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1990—Subsec. (b). Pub. L. 101–508, §11801(c)(22)(A), which directed the substitution of “chapter 21, 31, 32, or 33, or by section 4481” for “chapter 21” and all that follows down through “chapter 37,”, was executed by making the substitution for “chapters 21, 31, 32, 33, section 4481 of chapter 36, section 4501(a) of chapter 37” to reflect the probable intent of Congress. See 1996 Amendment note above.
+<b>1990</b>—Subsec. (b). Pub. L. 101–508, §11801(c)(22)(A), which directed the substitution of “chapter 21, 31, 32, or 33, or by section 4481” for “chapter 21” and all that follows down through “chapter 37,”, was executed by making the substitution for “chapters 21, 31, 32, 33, section 4481 of chapter 36, section 4501(a) of chapter 37” to reflect the probable intent of Congress. See 1996 Amendment note above.
 
 Subsec. (e). Pub. L. 101–508, §11217(b)(1), inserted “communications services and” before “airline” in heading and “section 4251 or” after “imposed by” in text.
 
-Subsec. (g). Pub. L. 101–508, §11334(a), amended subsec. (g) generally, striking out par. (1) designation and striking heading, striking out “, for the years specified in paragraph (2),” after “such person shall”, substituting “on the 1st banking day” for “on the applicable banking day”, and striking out par. (2), which provided that for purposes of par. (1) the applicable banking day for 1990 is the 1st, for 1991 the 2nd, for 1992 the 3rd, for 1993 the 1st, and for 1994 the 1st.
+Subsec. (g). Pub. L. 101–508, §11334(a), amended subsec. (g) generally, striking out par. (1) designation andstriking heading, striking out “, for the years specified in paragraph (2),” after “such person shall”, substituting “on the 1st banking day” for “on the applicable banking day”, and striking out par. (2), which provided that for purposes of par. (1) the applicable banking day for 1990 is the 1st, for 1991 the 2nd, for 1992 the 3rd, for 1993 the 1st, and for 1994 the 1st.
 
-1989—Subsec. (e). Pub. L. 101–239, §7502(a), added subsec. (e). Former subsec. (e) redesignated (f).
+<b>1989</b>—Subsec. (e). Pub. L. 101–239, §7502(a), added subsec. (e). Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 101–239, §7507(a), added subsec. (f). Former subsec. (f) redesignated (g).
 
@@ -202,25 +202,31 @@ Pub. L. 101–239, §7507(a), redesignated former subsec. (f) as (g).
 
 Subsec. (h). Pub. L. 101–239, §7632(a), redesignated former subsec. (g) as (h).
 
-1988—Subsec. (d). Pub. L. 100–647 substituted “Time for payment of manufacturers’ excise tax on sporting goods” for “Time for payment of manufacturers excise tax on sport fishing equipment” in heading and amended text generally. Prior to amendment, subsec. (d) read as follows: “The tax imposed by section 4161(a) (relating to manufacturers excise tax on sport fishing equipment) shall be due and payable on the date for filing the return for such tax.”
+<b>1988</b>—Subsec. (d). Pub. L. 100–647 substituted “Time for payment of manufacturers’ excise tax on sporting goods” for “Time for payment of manufacturers excise tax on sport fishing equipment” in heading and amended text generally. Prior to amendment, subsec. (d) read as follows: “The tax imposed by section 4161(a) (relating to manufacturers excise tax on sport fishing equipment) shall be due and payable on the date for filing the return for such tax.”
 
 Subsec. (e). Pub. L. 100–418 substituted “For” for “(1) For” and struck out par. (2) which read as follows: “For depositary requirements applicable to the windfall profit tax imposed by section 4986, see section 4995(b).”
 
-1984—Subsecs. (d), (e). Pub. L. 98–369 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1984</b>—Subsecs. (d), (e). Pub. L. 98–369 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1980—Subsec. (d). Pub. L. 96–223 designated existing cross reference as par. (1), substituted “For treatment of earned income advance amounts” for “For treatment of payment of earned income advance amounts”, and added par. (2).
+<b>1980</b>—Subsec. (d). Pub. L. 96–223 designated existing cross reference as par. (1), substituted “For treatment of earned income advance amounts” for “For treatment of payment of earned income advance amounts”, and added par. (2).
 
-1978—Subsec. (d). Pub. L. 95–600 added subsec. (d).
+<b>1978</b>—Subsec. (d). Pub. L. 95–600 added subsec. (d).
 
-1977—Subsec. (c). Pub. L. 95–147 substituted “, trust companies, domestic building and loan associations, or credit unions” for “or trust companies” and “, trust companies, domestic building and loan associations, and credit unions” for “and trust companies”.
+<b>1977</b>—Subsec. (c). Pub. L. 95–147 substituted “, trust companies, domestic building and loan associations, or credit unions” for “or trust companies” and “, trust companies, domestic building and loan associations, and credit unions” for “and trust companies”.
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (b). Pub. L. 94–455, §1906(a)(17), (b)(13)(A), substituted “section 4501(a) of chapter 37” for “sections 4501(a) or 4511 of chapter 37, or section 4701 or 4721 of chapter 39” and struck out “or his delegate” after “Secretary”.
 
 Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-1956—Subsec. (b). Act June 29, 1956, inserted reference to section 4481 of chapter 36.
+<b>1956</b>—Subsec. (b). Act June 29, 1956, inserted reference to section 4481 of chapter 36.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–237, §2(b), Aug. 16, 2010, 124 Stat. 2497, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to articles sold by the manufacturer, producer, or importer after the date of the enactment of this Act \[Aug. 16, 2010\].”
+
+Amendment by Pub. L. 111–226 applicable to taxable years beginning after Dec. 31, 2010, see section 219(c) of Pub. L. 111–226, set out as a note under section 32 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -272,7 +278,7 @@ Amendment by Pub. L. 96–223 applicable to periods after Feb. 29, 1980, see sec
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 effective with respect to remuneration paid after June 30, 1979, see section 105(g)(2) of Pub. L. 95–600, set out as an Effective Date note under section 3507 of this title.
+Amendment by Pub. L. 95–600 effective with respect to remuneration paid after June 30, 1979, see section 105(g)(2) of Pub. L. 95–600, set out as a note under section 6051 of this title.
 
 #### Effective Date of 1977 Amendment
 
@@ -280,7 +286,7 @@ Section 3(c) of Pub. L. 95–147 provided that: “The amendments made by this s
 
 #### Regulations
 
-Section 523(b)(2) of Pub. L. 103–182 provided that: “Not later than 210 days after the date of enactment of this Act \[Dec. 8, 1993\], the Secretary of the Treasury or his delegate shall prescribe temporary regulations under section 6302(h) of the Internal Revenue Code of 1986 (as added by this section).”
+Section 523(b)(2) of Pub. L. 103–182 provided that: “Not later than 210 days after the date of enactment ofthis Act \[Dec. 8, 1993\], the Secretary of the Treasury or his delegate shall prescribe temporary regulations under section 6302(h) of the Internal Revenue Code of 1986 (as added by this section).”
 
 #### Savings Provision
 

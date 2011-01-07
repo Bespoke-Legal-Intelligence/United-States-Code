@@ -22,9 +22,9 @@ For purposes of this section, the term “extended trails” means trails or tra
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–333 struck out subsec. (c) which read as follows: “On October 1, 1982, and at the beginning of each odd numbered fiscal year thereafter, the Secretary of the Interior shall submit to the Speaker of the United States House of Representatives and to the President of the United States Senate, an initial and revised (respectively) National Trails System plan. Such comprehensive plan shall indicate the scope and extent of a completed nationwide system of trails, to include (1) desirable nationally significant scenic and historic components which are considered necessary to complete a comprehensive national system, and (2) other trails which would balance out a complete and comprehensive nationwide system of trails. Such plan, and the periodic revisions thereto, shall be prepared in full consultation with the Secretary of Agriculture, the Governors of the various States, and the trails community.”
+<b>1996</b>—Subsec. (c). Pub. L. 104–333 struck out subsec. (c) which read as follows: “On October 1, 1982, and at the beginning of each odd numbered fiscal year thereafter, the Secretary of the Interior shall submit to the Speaker of the United States House of Representatives and to the President of the United States Senate, an initial and revised (respectively) National Trails System plan. Such comprehensive plan shall indicate the scope and extent of a completed nationwide system of trails, to include (1) desirable nationally significant scenic and historic components which are considered necessary to complete a comprehensive national system, and (2) other trails which would balance out a complete and comprehensive nationwide system of trails. Such plan, and the periodic revisions thereto, shall be prepared in full consultation with the Secretary of Agriculture, the Governors of the various States, and the trails community.”
 
-1983—Subsec. (a). Pub. L. 98–11, §203(1), (2), designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (d) as pars. (1) to (4), respectively, and, in provisions preceding par. (1), substituted “shall be composed  of  the  following:”  for  “shall  be  composed of—”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–11, §203(1), (2), designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (d) as pars. (1) to (4), respectively, and, in provisions preceding par. (1), substituted “shall be composed  of  the  following:”  for  “shall  be  composed of—”.
 
 Subsec. (a)(2). Pub. L. 98–11, §203(3), inserted provision authorizing the location of national scenic trails so as to represent desert, marsh, grassland, mountain, canyon, river, forest, and other areas, as well as landforms which exhibit significant characteristics of the physiographic regions of the Nation.
 
@@ -32,5 +32,5 @@ Subsec. (a)(3). Pub. L. 98–11, §203(4), (5), substituted “in this chapter a
 
 Subsecs. (b), (c). Pub. L. 98–11, §203(6), added subsecs. (b) and (c).
 
-1978—Subsecs. (c), (d). Pub. L. 95–625, §551(4), (5), added subsec. (c), redesignated former subsec. (c) as (d), and substituted “, national scenic or national historic” for “or national scenic”.
+<b>1978</b>—Subsecs. (c), (d). Pub. L. 95–625, §551(4), (5), added subsec. (c), redesignated former subsec. (c) as (d), and substituted “, national scenic or national historic” for “or national scenic”.
 

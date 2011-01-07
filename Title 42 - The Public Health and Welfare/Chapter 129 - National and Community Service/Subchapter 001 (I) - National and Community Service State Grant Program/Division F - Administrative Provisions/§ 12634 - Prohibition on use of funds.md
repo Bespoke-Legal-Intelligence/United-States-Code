@@ -24,7 +24,7 @@ A program may not receive assistance under the national service laws for the sol
 
 #### Amendments
 
-2009—Subsec. (d). Pub. L. 111–13 added subsec. (d).
+<b>2009</b>—Subsec. (d). Pub. L. 111–13 added subsec. (d).
 
 #### Effective Date of 2009 Amendment
 

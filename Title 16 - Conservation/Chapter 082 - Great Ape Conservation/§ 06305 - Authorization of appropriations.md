@@ -6,5 +6,5 @@ There are authorized to be appropriated to the Fund $5,000,000 for each of fisca
 
 #### Amendments
 
-2006—Pub. L. 109–363 substituted “fiscal years 2006 through 2010” for “fiscal years 2001 through 2005”.
+<b>2006</b>—Pub. L. 109–363 substituted “fiscal years 2006 through 2010” for “fiscal years 2001 through 2005”.
 

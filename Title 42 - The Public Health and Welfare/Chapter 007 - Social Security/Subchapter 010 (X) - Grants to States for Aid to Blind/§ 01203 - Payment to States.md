@@ -16,7 +16,7 @@ The method of computing and paying such amounts shall be as follows:
 
 &emsp;(1) The Secretary of Health and Human Services shall, prior to the beginning of each quarter, estimate the amount to be paid to the State for such quarter under the provisions of subsection (a) of this section, such estimate to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in such quarter in accordance with the provisions of such subsection, and stating the amount appropriated or made available by the State and its political subdivisions for such expenditures in such quarter, and if such amount is less than the State's proportionate share of the total sum of such estimated expenditures, the source or sources from which the difference is expected to be derived, (B) records showing the number of blind individuals in the State, and (C) such other investigation as the Secretary may find necessary.
 
-&emsp;(2) The Secretary of Health and Human Services shall then certify to the Secretary of the Treasury the amount so estimated by the Secretary of Health and Human Services, (A) reduced or increased, as the case may be, by any sum by which he finds that his estimate for any prior quarter was greater or less than the amount which should have been paid to the State under subsection (a) of this section for such quarter, and (B) reduced by a sum equivalent to the pro rata share to which the United States is equitably entitled, as determined by the Secretary of Health and Human Services, of the net amount recovered during a prior quarter by the State or any political subdivision thereof with respect to aid to the blind furnished under the State plan; except that such increases or reductions shall not be made to the extent that such sums have been applied to make the amount certified for any prior quarter greater or less than the amount estimated by the Secretary of Health and Human Services for such prior quarter: <i>Provided</i>, That any part of the amount recovered from the estate of a deceased recipient which is not in excess of the amount expended by the State or any political subdivision thereof for the funeral expenses of the deceased shall not be considered as a basis for reduction under clause (B) of this paragraph.
+&emsp;(2) The Secretary of Health and Human Services shall then certify to the Secretary of the Treasury the amount so estimated by the Secretary of Health and Human Services, (A) reduced or increased, as the case may be, by any sum by which he finds that his estimate for any prior quarter was greater or less than the amount which should have been paid to the State under subsection (a) of this section for such quarter, and (B) reduced by a sum equivalent to the pro rata share to which the United States is equitably entitled, as determined by the Secretary of Health and Human Services, of the net amount recovered during a prior quarter by the State or any political subdivision thereof with respect to aid to the blind furnished under the State plan; except that such increases or reductions shall not be made to the extent that such sums have been applied to make the amount certified for any prior quarter greater or less than the amount estimated by the Secretary of Health and Human Services for such prior quarter: <i>Provided</i>, That any part of the amount recovered from the estate of a deceased recipient whichis not in excess of the amount expended by the State or any political subdivision thereof for the funeral expenses of the deceased shall not be considered as a basis for reduction under clause (B) of this paragraph.
 
 &emsp;(3) The Secretary of the Treasury shall thereupon, through the Fiscal Service of the Treasury Department, and prior to audit or settlement by the Government Accountability Office, pay to the State, at the time or times fixed by the Secretary of Health and Human Services, the amount so certified.
 
@@ -28,9 +28,9 @@ The method of computing and paying such amounts shall be as follows:
 
 #### Amendments
 
-2004—Subsec. (b)(3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b)(3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1993—Subsec. (a)(3). Pub. L. 103–66 substituted “50 percent of the total amounts expended during such quarter as found necessary by the Secretary for the proper and efficient administration of the State plan.” for “the sum of the following proportions of the total amounts expended during such quarter as found necessary by the Secretary of Health and Human Services for the proper and efficient administration of the State plan—
+<b>1993</b>—Subsec. (a)(3). Pub. L. 103–66 substituted “50 percent of the total amounts expended during such quarter as found necessary by the Secretary for the proper and efficient administration of the State plan.” for “the sum of the following proportions of the total amounts expended during such quarter as found necessary by the Secretary of Health and Human Services for the proper and efficient administration of the State plan—
 
 &emsp;“(A) 75 per centum of so much of such expenditures as are for the training (including both short- and long-term training at educational institutions through grants to such institutions or by direct financial assistance to students enrolled in such institutions) of personnel employed or preparing for employment by the State agency or by the local agency administering the plan in the political subdivision; plus
 
@@ -38,33 +38,33 @@ The method of computing and paying such amounts shall be as follows:
 
 &emsp;“(C) one-half of the remainder of such expenditures.”
 
-1986—Subsec. (a)(3)(B), (C). Pub. L. 99–603 added subpar. (B) and redesignated former subpar. (B) as (C).
+<b>1986</b>—Subsec. (a)(3)(B), (C). Pub. L. 99–603 added subpar. (B) and redesignated former subpar. (B) as (C).
 
-1981—Subsec. (a)(1). Pub. L. 97–35, §2184(c)(2)(A), struck out par. (1) which provided for computation of amounts payable in the case of any State other than Puerto Rico, the Virgin Islands, and Guam.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–35, §2184(c)(2)(A), struck out par. (1) which provided for computation of amounts payable in the case of any State other than Puerto Rico, the Virgin Islands, and Guam.
 
 Subsec. (a)(2). Pub. L. 97–35, §2184(c)(2)(B), struck out “(including expenditures for premiums under part B of subchapter XVIII of this chapter for individuals who are recipients of money payments under such plan and other insurance premiums for medical or any other type of remedial care or the cost thereof)” after “under the State plan”.
 
-Subsec. (a)(3). Pub. L. 97–35, §2353(e)(1)(A), redesignated subpar. (A)(iv) as subpar. (A), struck out former subpars. (A)(i), which included services prescribed pursuant to subsec. (c)(1) of this section and provided to applicants for or recipients of aid to the blind to help them attain self-support, (A)(ii), which included other services, specified by the Secretary as likely to prevent or reduce dependency, and (A)(iii), which included any of the services in subpars. (A)(i) and (ii) deemed appropriate for individuals likely to become applicants for or recipients of aid to the blind, redesignated former subpar. (C) as (B), and struck out former subpar. (B), whichincluded one-half of so much of the expenditures, not included in subpar. (A), as are for services for applicants for or recipients of aid to the blind or individuals likely to become such applicants or recipients, and subpars. (D) and (E) and provision following subpar. (E), which specified what services were includible.
+Subsec. (a)(3). Pub. L. 97–35, §2353(e)(1)(A), redesignated subpar. (A)(iv) as subpar. (A), struck out former subpars. (A)(i), which included services prescribed pursuant to subsec. (c)(1) of this section and provided to applicants for or recipients of aid to the blind to help them attain self-support, (A)(ii), which included other services, specified by the Secretary as likely to prevent or reduce dependency, and (A)(iii), which included any of the services in subpars. (A)(i) and (ii) deemed appropriate for individuals likely to become applicants for or recipients of aid to the blind, redesignated former subpar. (C) as (B), and struck out former subpar. (B), which included one-half of so much of the expenditures, not included in subpar. (A), as are for services for applicants for or recipients of aid to the blind or individuals likely to become such applicants or recipients, and subpars. (D) and (E) and provision following subpar. (E), which specified what services were includible.
 
 Subsec. (a)(4). Pub. L. 97–35, §2353(e)(1)(B), struck out par. (4) which provided payment, in the case of any State whose plan approved under section 1202 of this title did not meet the requirements of subsec. (c)(1) of this section, of an amount equal to one-half of the total of the sums expended during the quarter as found necessary by the Secretary for the proper and efficient administration of the State plan.
 
 Subsec. (c). Pub. L. 97–35, §2353(e)(2), struck out subsec. (c) which prescribed eligibility requirements for payments.
 
-1975—Subsec. (a). Pub. L. 93–647, §3(e)(2), struck out “(subject to section 1320b of this title)” after “the Secretary of the Treasury shall”.
+<b>1975</b>—Subsec. (a). Pub. L. 93–647, §3(e)(2), struck out “(subject to section 1320b of this title)” after “the Secretary of the Treasury shall”.
 
 Subsec. (a)(3)(A)(iv). Pub. L. 93–647, §5(c), inserted “(including both short- and long-term training at educational institutions through grants to such institutions or by direct financial assistance to students enrolled in such institutions)” after “training”.
 
-1972—Subsec. (a). Pub. L. 92–512, §301(d), substituted “shall (subject to section 1320b of this title) pay” for “shall pay” in provisions preceding par. (1).
+<b>1972</b>—Subsec. (a). Pub. L. 92–512, §301(d), substituted “shall (subject to section 1320b of this title) pay” for “shall pay” in provisions preceding par. (1).
 
 Subsec. (a)(3)(E). Pub. L. 92–512, §301(b), substituted “under conditions which shall be” for “subject to limitations”.
 
-1968—Subsec. (a)(3)(D). Pub. L. 90–248 inserted “, except to the extent specified by the Secretary” after “shall” in introductory text to subpar. (D).
+<b>1968</b>—Subsec. (a)(3)(D). Pub. L. 90–248 inserted “, except to the extent specified by the Secretary” after “shall” in introductory text to subpar. (D).
 
-1965—Subsec. (a)(1). Pub. L. 89–97, §§122, 401(d), inserted “premiums under part B of subchapter XVIII of this chapter for individuals who are recipients of money payments under such plan and other” after “expenditures for” in parenthetical phrase appearing in so much of par. (1) as precedes cl. (A); and substituted “31/37” and “$37” for “29/35” and “$35” in subpar. (A) and “$75” for “$70” in subpar. (B), respectively.
+<b>1965</b>—Subsec. (a)(1). Pub. L. 89–97, §§122, 401(d), inserted “premiums under part B of subchapter XVIII of this chapter for individuals who are recipients of money payments under such plan and other” after “expenditures for” in parenthetical phrase appearing in so much of par. (1) as precedes cl. (A); and substituted “31/37” and “$37” for “29/35” and “$35” in subpar. (A) and “$75” for “$70” in subpar. (B), respectively.
 
 Subsec. (a)(2). Pub. L. 89–97, §122, inserted “premiums under part B of subchapter XVIII of this chapter for individuals who are recipients of money payments under such plan and other” after “expenditures for” in parenthetical phrase.
 
-1962—Subsec. (a)(1). Pub. L. 87–543, §132(b), substituted “29/35” and “$35” for “four-fifths” and “$31”, respectively, in subpar. (A) and “$70” for “$66” in subpar. (B).
+<b>1962</b>—Subsec. (a)(1). Pub. L. 87–543, §132(b), substituted “29/35” and “$35” for “four-fifths” and “$31”, respectively, in subpar. (A) and “$70” for “$66” in subpar. (B).
 
 Subsec. (a)(2). Pub. L. 87–543, §132(b), substituted “$37.50” for “$35.50”.
 
@@ -74,31 +74,31 @@ Subsec. (a)(4). Pub. L. 87–543, §101(b)(3)(B), added par. (4).
 
 Subsec. (c). Pub. L. 87–543, §101(b)(3)(C), added subsec. (c).
 
-1961—Subsec. (a). Pub. L. 87–64 substituted “$31” for “$30” and “$66” for “$65” in cl. (1), and “$35.50” for “$35” in cl. (2).
+<b>1961</b>—Subsec. (a). Pub. L. 87–64 substituted “$31” for “$30” and “$66” for “$65” in cl. (1), and “$35.50” for “$35” in cl. (2).
 
-1958—Subsec. (a). Pub. L. 85–840 increased the payments to the States to four-fifths of the first $30 of the average monthly payment per recipient including assistance in the form of money payments and in the form of medical or any other type of remedial care, plus the Federal percentage of the amount by which the expenditures exceed the maximum which may be counted under cl. (A), but excluding that part of the average monthly payment per recipient in excess of $65, increased the average monthly payment to Puerto Rico and the Virgin Islands from $30 to $35, excluded Guam from the provisions which authorize an average monthly payment of $65 and included Guam within the provisions which authorize an average monthly payment of $35, and permitted the counting of individuals with respect to whom expenditures were made as old-age assistance in the form of medical or any other type of remedial care in determining the total number of recipients.
+<b>1958</b>—Subsec. (a). Pub. L. 85–840 increased the payments to the States to four-fifths of the first $30 of the average monthly payment per recipient including assistance in the form of money payments and in the form of medical or any other type of remedial care, plus the Federal percentage of the amount by which the expenditures exceed the maximum which may be counted under cl. (A), but excluding that part of the average monthly payment per recipient in excess of $65, increased the average monthly payment to Puerto Rico and the Virgin Islands from $30 to $35, excluded Guam from the provisions which authorize an average monthly payment of $65 and included Guam within the provisions which authorize an average monthly payment of $35, and permitted the counting of individuals with respect to whom expenditures were made as old-age assistance in the form of medical or any other type of remedial care in determining the total number of recipients.
 
-1956—Subsec. (a). Act Aug. 1, 1956, §303, substituted “during such quarter as aid to the blind in the form of money payments under the State plan” for “during such quarter as aid to the blind under the State plan” in cls. (1) and (2), “who received aid to the blind in the form of money payments for such month” for “who received aid to the blind for such month” in par. (a) of cl. (1), and inserted cl. (4).
+<b>1956</b>—Subsec. (a). Act Aug. 1, 1956, §303, substituted “during such quarter as aid to the blind in the form of money payments under the State plan” for “during such quarter as aid to the blind under the State plan” in cls. (1) and (2), “who received aid to the blind in the form of money payments for such month” for “who received aid to the blind for such month” in par. (a) of cl. (1), and inserted cl. (4).
 
 Act Aug. 1, 1956, §313(c), struck out “, which shall be used exclusively as aid to the blind,” after “the Virgin Islands, an amount” in cls. (1) and (2), and substituted “including services which are provided by the staff of the State agency (or of the local agency administering the State plan in the political subdivision) to applicants for and recipients of aid to the blind to help them attain self-support or self-care” for “which amount shall be used for paying the costs of administering the State plan or for aid to the blind, or both, and for no other purpose” in cl. (3).
 
 Act Aug. 1, 1956, §343, substituted “October 1, 1956” for “October 1, 1952”, struck out “, which shall be used exclusively as aid to the blind,” after “the Virgin Islands, an amount” in cls. (1) and (2), substituted “$60” for “$55,” “the product of $30” for “the product of $25”, “Secretary of Health, Education, and Welfare” for “Secretary”, and “including services which are provided by the staff of the State agency (or of the local agency administering the State plan in the political subdivision) to applicants for and recipients of aid to the blind to help them attain self-support or self-care” for “which amount shall be used for paying the costs of administering the State plan or for aid to the blind, or both, and for no other purpose”.
 
-1954—Subsec. (b)(1). Act Sept. 1, 1954, substituted “the State's proportionate share” for “one-half”.
+<b>1954</b>—Subsec. (b)(1). Act Sept. 1, 1954, substituted “the State's proportionate share” for “one-half”.
 
-1952—Subsec. (a). Act July 18, 1952, increased the Federal share of the State's average monthly payment to four-fifths of the first $25 plus one-half of the remainder within individual maximums of $55, and changed formulas for computing the Federal share of public assistance for Puerto Rico and the Virgin Islands.
+<b>1952</b>—Subsec. (a). Act July 18, 1952, increased the Federal share of the State's average monthly payment to four-fifths of the first $25 plus one-half of the remainder within individual maximums of $55, and changed formulas for computing the Federal share of public assistance for Puerto Rico and the Virgin Islands.
 
-1950—Subsec. (a). Act Aug. 28, 1950, §342(a), provided a new method of computation of the Federal portion of aid to the blind.
+<b>1950</b>—Subsec. (a). Act Aug. 28, 1950, §342(a), provided a new method of computation of the Federal portion of aid to the blind.
 
 Subsec. (b). Act Aug. 28, 1950, §361(c), (d), substituted “Administrator” for “Board”.
 
-1948—Subsec. (a). Act June 14, 1948, substituted “$50” for “$45” and “$20” for “$15”.
+<b>1948</b>—Subsec. (a). Act June 14, 1948, substituted “$50” for “$45” and “$20” for “$15”.
 
-1946—Subsec. (a). Act Aug. 10, 1946, §503(a), temporarily increased the maximum monthly State expenditure to which the Federal government will contribute from $40 to $45 and increased the Federal contribution for aid to the blind from one-half the State's expenditure to two-thirds such expenditure up to $15 monthlyper individual plus one-half the State's expenditure over $15. See Effective and Termination Date of 1946 Amendment note below.
+<b>1946</b>—Subsec. (a). Act Aug. 10, 1946, §503(a), temporarily increased the maximum monthly State expenditure to which the Federal government will contribute from $40 to $45 and increased the Federal contribution for aid to the blind from one-half the State's expenditure to two-thirds such expenditure up to $15 monthly per individual plus one-half the State's expenditure over $15. See Effective and Termination Date of 1946 Amendment note below.
 
 Subsec. (b). Act Aug. 10, 1946, §503(b), temporarily substituted “the State's proportionate share” for “one-half” in par. (1). See Effective and Termination Date of 1946 Amendment note below.
 
-1939—Act Aug. 10. 1939, amended section generally.
+<b>1939</b>—Act Aug. 10. 1939, amended section generally.
 
 #### Effective Date of 1993 Amendment
 
@@ -178,7 +178,7 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 
 #### Nonduplication of Payments to States, Prohibition of Payments After December 31, 1969
 
-Prohibition of payments under this subchapter to States with respect to aid or assistance in form of medical or other type of remedial care for any period for which States received payments under subchapter XIXof this chapter or for any period after Dec. 31, 1969, see section 121(b) of Pub. L. 89–97, set out as a note under section 1396b of this title.
+Prohibition of payments under this subchapter to States with respect to aid or assistance in form of medical or other type of remedial care for any period for which States received payments under subchapter XIX of this chapter or for any period after Dec. 31, 1969, see section 121(b) of Pub. L. 89–97, set out as a note under section 1396b of this title.
 
 #### Election of Payments Under Combined State Plan Rather Than Separate Plans
 

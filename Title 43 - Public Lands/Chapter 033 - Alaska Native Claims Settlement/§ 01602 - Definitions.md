@@ -62,9 +62,9 @@ Section 6(g) of the Alaska Statehood Act, as amended, referred to in subsec. (e)
 
 #### Amendments
 
-2000—Subsec. (t)(2). Pub. L. 106–194 substituted “benefit of shareholders, Natives, and descendants of Natives,” for “sole benefit of the holders of the corporation's Settlement Common Stock”.
+<b>2000</b>—Subsec. (t)(2). Pub. L. 106–194 substituted “benefit of shareholders, Natives, and descendants of Natives,” for “sole benefit of the holders of the corporation's Settlement Common Stock”.
 
-1988—Subsec. (h). Pub. L. 100–241, §3(1), inserted “group,” after “individual,”.
+<b>1988</b>—Subsec. (h). Pub. L. 100–241, §3(1), inserted “group,” after “individual,”.
 
 Subsec. (k). Pub. L. 100–241, §3(2), struck out “and” at end.
 
@@ -74,7 +74,7 @@ Subsec. (m). Pub. L. 100–241, §3(4), substituted “Group Corporation;” for
 
 Subsecs. (n) to (t). Pub. L. 100–241, §3(5), added subsecs. (n) to (t).
 
-1980—Subsec. (m). Pub. L. 96–487 added subsec. (m).
+<b>1980</b>—Subsec. (m). Pub. L. 96–487 added subsec. (m).
 
 #### Definitions
 

@@ -22,7 +22,7 @@ There are authorized to be appropriated to carry out this section $5,000,000 for
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–271, §2(b), which directed amendment of section 1167 of the Violence Against Women Act of 2005, Pub. L. 109–162, by substituting “2007 through 2011” for “2006 through 2010”, was executed to subsec. (c) of this section, which is section 40152 of the Violence Against Women Act of 1994, as amended by section 1167 of Pub. L. 109–162, to reflect the probable intent of Congress. See below.
+<b>2006</b>—Subsec. (c). Pub. L. 109–271, §2(b), which directed amendment of section 1167 of the Violence Against Women Act of 2005, Pub. L. 109–162, by substituting “2007 through 2011” for “2006 through 2010”, was executed to subsec. (c) of this section, which is section 40152 of the Violence Against Women Act of 1994, as amended by section 1167 of Pub. L. 109–162, to reflect the probable intent of Congress. See below.
 
 Pub. L. 109–162, §1167, added subsec. (c) and struck out heading and text of former subsec. (c) which authorized appropriations to carry out this section for fiscal years 1996 and 1997.
 

@@ -32,7 +32,7 @@ Any member of the Commission may be removed by the President for inefficiency, n
 
 #### (f) Transfer of licensing and regulatory functions of Atomic Energy Commission
 
-There are hereby transferred to the Commission all the licensing and related regulatory functions of the Atomic Energy Commission, the Chairman and members of the Commission, the General Counsel, and other officers and components of the Commission—which functions officers, components, and personnel are excepted from the transfer to the Administrator by section 5814(c) of this title.
+There are hereby transferred to the Commission all the licensing and related regulatoryfunctions of the Atomic Energy Commission, the Chairman and members of the Commission, the General Counsel, and other officers and components of the Commission—which functions officers, components, and personnel are excepted from the transfer to the Administrator by section 5814(c) of this title.
 
 #### (g) Additional transfers
 
@@ -52,11 +52,11 @@ The Atomic Energy Act of 1954, as amended, referred to in subsec. (g), is act Au
 
 #### Amendments
 
-1986—Subsec. (h). Pub. L. 99–386 struck out subsec. (h) which related to quarterly reports on compliance with equal employment requirements for grades GS–11 or above.
+<b>1986</b>—Subsec. (h). Pub. L. 99–386 struck out subsec. (h) which related to quarterly reports on compliance with equal employment requirements for grades GS–11 or above.
 
-1977—Subsec. (h). Pub. L. 95–209 added subsec. (h).
+<b>1977</b>—Subsec. (h). Pub. L. 95–209 added subsec. (h).
 
-1975—Subsec. (a). Pub. L. 94–79, §201, designated existing provisions as par. (1) and added pars. (2) to (5).
+<b>1975</b>—Subsec. (a). Pub. L. 94–79, §201, designated existing provisions as par. (1) and added pars. (2) to (5).
 
 Subsec. (c). Pub. L. 94–79, §§202, 203, provided for appointment for remainder of term where vacancy occurs prior to expiration of term of predecessor appointee and designated July 1, 1975, as commencement date of initial appointees for purpose of determining expiration date of terms of office.
 
@@ -118,7 +118,7 @@ Testing Results: Reports and Public Disclosure.—The Nuclear Regulatory Commiss
 
 “(f)
 
-Alternative Routes and Means of Transportation.—With respect to any shipments of plutonium from a foreign nation to a foreign nation which are subject to United States consent rights contained in an Agreement for Peaceful Nuclear Cooperation, the President is authorized to make every effort to pursue and conclude arrangements for alternative routes and means of transportation, including sea shipment. All such arrangements shall be subject to stringent physical security conditions, and other conditions designed to protect the public health and safety, and provisions of this section, and all other applicable laws.
+Alternative Routes and Means of Transportation.—With respect to any shipments of plutoniumfrom a foreign nation to a foreign nation which are subject to United States consent rights contained in an Agreement for Peaceful Nuclear Cooperation, the President is authorized to make every effort to pursue and conclude arrangements for alternative routes and means of transportation, including sea shipment. All such arrangements shall be subject to stringent physical security conditions, and other conditions designed to protect the public health and safety, and provisions of this section, and all other applicable laws.
 
 “(g)
 
@@ -164,11 +164,11 @@ Pub. L. 97–415, §13, Jan. 4, 1983, 96 Stat. 2074, provided that:
 
 > the Commission shall undertake a pilot program to review and evaluate programs that include one or more of the alternative concepts identified in subsection (b) for the purposes of assessing the feasibility and benefits of their implementation. The pilot program shall include programs that use independent inspectors for auditing quality assurance responsibilities of the licensee for the construction of commercial nuclear powerplants, as described in paragraph (5) of subsection (b). The pilot program shall include at least three sites at which commercial nuclear powerplants are under construction. The Commission shall select at least one site at which quality assurance and quality control programs have operated satisfactorily, and at least two sites with remedial programs underway at which major construction, quality assurance, or quality control deficiencies (or any combination thereof) have been identified in the past. The Commission may require any changes in existing quality assurance and quality control organizations and relationships that may be necessary at the selected sites to implement the pilot program.
 
-“(d) Not later than fifteen months after the date of the enactment of this Act \[Jan. 4, 1983\], the Commission shall complete the study required under subsection (b) and submit to the United States Senate and House of Representatives a report setting forth the results of the study. The report shall include a brief summary of the information received from the public and from other persons referred to in subsection (b) and a statement of the Commission's response to the significant comments received. The report shall also set forth an analysis of the results of the pilot program required under subsection (c). The report shall be accompanied by the recommendations of the Commission, including any legislative recommendations, and a description of any administrative actions that the Commission hasundertaken or intends to undertake, for improving quality assurance and quality control programs that are applicable during the construction of nuclear powerplants.”
+“(d) Not later than fifteen months after the date of the enactment of this Act \[Jan. 4, 1983\], the Commission shall complete the study required under subsection (b) and submit to the United States Senate and House of Representatives a report setting forth the results of the study. The report shall include a brief summary of the information received from the public and from other persons referred to in subsection (b) and a statement of the Commission's response to the significant comments received. The report shall also set forth an analysis of the results of the pilot program required under subsection (c). The report shall be accompanied by the recommendations of the Commission, including any legislative recommendations, and a description of any administrative actions that the Commission has undertaken or intends to undertake, for improving quality assurance and quality control programs that are applicable during the construction of nuclear powerplants.”
 
 #### Transportation of Nuclear Waste With Potential for Significant Public Health and Safety Hazards; Regulations for Notice to Governor
 
-Pub. L. 96–295, title III, §301, June 30, 1980, 94 Stat. 789, directed Nuclear Regulatory Commission, within 90 days of June 30, 1980, to promulgate regulations providing for timely notification to the Governor of any State prior to the transport of nuclear waste, including spent nuclear fuel, to, through, or across the boundaries of such State, and provided that such notification requirement would not apply to nuclear waste in such quantities and of such types as the Commission specifically determined did not pose a potentially significant hazard to the health and safety of the public.
+Pub. L. 96–295, title III, §301, June 30, 1980, 94 Stat. 789, directed Nuclear Regulatory Commission, within 90 days of June 30, 1980, to promulgate regulations providing for timely notification to the Governor of any State prior to the transport of nuclear waste, including spent nuclear fuel, to, through, or across the boundaries of such State, and provided that such notificationrequirement would not apply to nuclear waste in such quantities and of such types as the Commission specifically determined did not pose a potentially significant hazard to the health and safety of the public.
 
 #### Review of Selection and Training of Members of Atomic Safety and Licensing Boards; Report to Congress
 
@@ -332,7 +332,7 @@ To the Congress of the United States:
 
 I herewith transmit the following amendments to Reorganization Plan No. 1 of 1980, which I sent to the Congress on March 27, 1980.
 
-The amendments to Reorganization Plan No. 1 are consistent with my original intent of strengthening the management of the Nuclear Regulatory Commission inorder to improve safety in all of the agency's activities, while preserving the advantages of the Commission form. The amendments reinforce the purpose of the Plan in two respects. First, the amended Plan gives the Commission a greater role in selection of key program officers of the agency by adding four positions to the list of appointments initiated by the Chairman for the Commission's advice and consent. These are the Executive Director for Operations, the Director of Inspection and Enforcement, the Director of Nuclear Regulatory Research, and the Director of Standards Development. Each of these positions contributes to nuclear safety regulation, and each performs functions that help determine the policy and performance of the agency.
+The amendments to Reorganization Plan No. 1 are consistent with my original intent of strengthening the management of the Nuclear Regulatory Commission in order to improve safety in all of the agency's activities, while preserving the advantages of the Commission form. The amendments reinforce the purpose of the Plan in two respects. First, the amended Plan gives the Commission a greater role in selection of key program officers of the agency by adding four positions to the list of appointments initiated by the Chairman for the Commission's advice and consent. These are the Executive Director for Operations, the Director of Inspection and Enforcement, the Director of Nuclear Regulatory Research, and the Director of Standards Development. Each of these positions contributes to nuclear safety regulation, and each performs functions that help determine the policy and performance of the agency.
 
 The Advisory Committee on Reactor Safeguards advises the Commission as a whole. Since its members serve renewable 4-year terms, another amendment provides that a Commission member, as well as the Chairman, can initiate an appointment to the Advisory Committee on Reactor Safeguards for approval by the Commission.
 

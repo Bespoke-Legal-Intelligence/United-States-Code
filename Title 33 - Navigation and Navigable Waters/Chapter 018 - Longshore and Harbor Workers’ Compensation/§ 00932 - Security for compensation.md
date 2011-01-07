@@ -12,7 +12,7 @@
 
 #### Amendments
 
-1984—Subsec. (a)(1). Pub. L. 98–426, §27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–426, §27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
 
 Subsec. (a)(2). Pub. L. 98–426, §20, inserted “based on the employer's financial condition, the employer's previous record of payments, and other relevant factors,” after “in an amount determined by the commission,”.
 

@@ -22,7 +22,7 @@ An organization is a qualified community organization which is eligible to recei
 
 &emsp;&emsp;(B) providing services to the community in which the organization is located,
 
-&emsp;&emsp;(C) developing and managing services and techniques to recruit individuals to becomemembers of a police department and to assist such individuals in meeting the membership requirements of police departments,
+&emsp;&emsp;(C) developing and managing services and techniques to recruit individuals to become members of a police department and to assist such individuals in meeting the membership requirements of police departments,
 
 &emsp;&emsp;(D) developing and managing services and techniques to assist in the retention of applicants to police departments, and
 

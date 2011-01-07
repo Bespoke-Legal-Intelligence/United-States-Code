@@ -12,7 +12,7 @@ For purposes of this subtitle, the term “adjusted gross income” means, in th
 
 #### (A) Reimbursed expenses of employees
 
-&emsp;&emsp;The deductions allowed by part VI (section 161 and following) which consist of expensespaid or incurred by the taxpayer, in connection with the performance by him of services as an employee, under a reimbursement or other expense allowance arrangement with his employer. The fact that the reimbursement may be provided by a third party shall not be determinative of whether or not the preceding sentence applies.
+&emsp;&emsp;The deductions allowed by part VI (section 161 and following) which consist of expenses paid or incurred by the taxpayer, in connection with the performance by him of services as an employee, under a reimbursement or other expense allowance arrangement with his employer. The fact that the reimbursement may be provided by a third party shall not be determinative of whether or not the preceding sentence applies.
 
 #### (B) Certain expenses of performing artists
 
@@ -24,7 +24,7 @@ For purposes of this subtitle, the term “adjusted gross income” means, in th
 
 #### (D) Certain expenses of elementary and secondary school teachers
 
-&emsp;&emsp;In the case of taxable years beginning during 2002, 2003, 2004, 2005, 2006, 2007, 2008, or 2009, the deductions allowed by section 162 which consist of expenses, not in excess of $250, paid or incurred by an eligible educator in connection with books, supplies (other than nonathletic supplies for courses of instruction in health or physical education), computer equipment (including related software and services) and other equipment, and supplementary materials used by the eligible educator in the classroom.
+&emsp;&emsp;In the case of taxable years beginning during 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, or 2011, the deductions allowed by section 162 which consist of expenses, not in excess of $250, paid or incurred by an eligible educator in connection with books, supplies (other than nonathletic supplies for courses of instruction in health or physical education), computer equipment (including related software and services) and other equipment, and supplementary materials used by the eligible educator in the classroom.
 
 #### (E) Certain expenses of members of reserve components of the Armed Forces of the United States
 
@@ -54,7 +54,7 @@ For purposes of this subtitle, the term “adjusted gross income” means, in th
 
 #### (9) Penalties forfeited because of premature withdrawal of funds from time savings accounts or deposits
 
-&emsp;The deductions allowed by section 165 for losses incurred in any transaction entered into for profit, though not connected with a trade or business, to the extent that such losses include amounts forfeited to a bank, mutual savings bank, savings and loan association, building and loan association, cooperative bank or homestead association as a penalty for premature withdrawal of funds from a time savings account, certificate of deposit, or similar class of deposit.
+&emsp;The deductions allowed by section 165 for losses incurred in any transaction entered into for profit, though not connected with a trade or business, to the extent that such losses include amounts forfeited to a bank, mutual savings bank, savings and loan association,building and loan association, cooperative bank or homestead association as a penalty for premature withdrawal of funds from a time savings account, certificate of deposit, or similar class of deposit.
 
 #### (10) Alimony
 
@@ -214,7 +214,7 @@ For purposes of subsection (a)(20), the term “unlawful discrimination” means
 
 &emsp;&emsp;(ii) regulating any aspect of the employment relationship, including claims for wages, compensation, or benefits, or prohibiting the discharge of an employee, the discrimination against an employee, or any other form of retaliation or reprisal against an employee for asserting rights or taking other actions permitted by law.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 17; Pub. L. 87–792, §7(b), Oct. 10, 1962, 76 Stat. 828; Pub. L. 88–272, title II, §213(b), Feb. 26, 1964, 78 Stat. 52; Pub. L. 91–172, title V, §531(b), Dec. 30, 1969, 83 Stat. 655; Pub. L. 93–406, title II, §§2002(a)(2), 2005(c)(9), Sept. 2, 1974, 88 Stat. 959, 992; Pub. L. 93–483, §6(a), Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title V, §502(a), title XV, §1501(b)(1), title XIX, §1901(a)(8), (9), Oct. 4, 1976, 90 Stat. 1559, 1735, 1765; Pub. L. 95–615, §203(b), Nov. 8, 1978, 92 Stat. 3106; Pub. L. 96–451, title III, §301(b), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 96–608, §3(a), Dec. 28, 1980, 94 Stat. 3551; Pub. L. 97–34, title I, §§103(b), 112(b)(2), title III, §311(h)(1), Aug. 13, 1981, 95 Stat. 187, 195, 282; Pub. L. 97–354, §5(a)(17), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title IV, §491(d)(2), July 18, 1984, 98 Stat. 849; Pub. L. 99–514, title I, §§131(b)(1), 132(b), (c), title III, §301(b)(1), title XVIII, §1875(c)(3), Oct. 22, 1986, 100 Stat. 2113, 2115, 2116, 2217, 2894; Pub. L. 100–485, title VII, §702(a), Oct. 13, 1988, 102 Stat. 2426; Pub. L. 100–647, title I, §1001(b)(3)(A), title VI, §6007(b), Nov. 10, 1988, 102 Stat. 3349, 3687; Pub. L. 101–508, title XI, §11802(e)(1), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 102–318, title V, §521(b)(2), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(a)(2), Oct. 24, 1992, 106 Stat. 3019; Pub. L. 103–66, title XIII, §13213(c)(1), Aug. 10, 1993, 107 Stat. 474; Pub. L. 104–188, title I, §1401(b)(4), Aug. 20, 1996, 110 Stat. 1788; Pub. L. 104–191, title III, §301(b), Aug. 21, 1996, 110 Stat. 2048; Pub. L. 105–34, title II, §202(b), title IX, §975(a), Aug. 5, 1997, 111 Stat. 808, 898; Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title IV, §431(b), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §406(a), (b), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–121, title I, §109(b), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–173, title XII, §1201(b), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 108–311, title III, §307(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 108–357, title VII, §703(a), (b), Oct. 22, 2004, 118 Stat. 1546, 1547; Pub. L. 109–135, title IV, §412(q), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–432, div. A, title I, §108(a), title IV, §406(a)(3), Dec. 20, 2006, 120 Stat. 2939, 2959; Pub. L. 110–343, div. C, title II, §203(a), Oct. 3, 2008, 122 Stat. 3864.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 17; Pub. L. 87–792, §7(b), Oct. 10, 1962, 76 Stat. 828; Pub. L. 88–272, title II, §213(b), Feb. 26, 1964, 78 Stat. 52; Pub. L. 91–172, title V, §531(b), Dec. 30, 1969, 83 Stat. 655; Pub. L. 93–406, title II, §§2002(a)(2), 2005(c)(9), Sept. 2, 1974, 88 Stat. 959, 992; Pub. L. 93–483, §6(a), Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title V, §502(a), title XV, §1501(b)(1), title XIX, §1901(a)(8), (9), Oct. 4, 1976, 90 Stat. 1559, 1735, 1765; Pub. L. 95–615, §203(b), Nov. 8, 1978, 92 Stat. 3106; Pub. L. 96–451, title III, §301(b), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 96–608, §3(a), Dec. 28, 1980, 94 Stat. 3551; Pub. L. 97–34, title I, §§103(b), 112(b)(2), title III, §311(h)(1), Aug. 13, 1981, 95 Stat. 187, 195, 282; Pub. L. 97–354, §5(a)(17), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title IV, §491(d)(2), July 18, 1984, 98 Stat. 849; Pub. L. 99–514, title I, §§131(b)(1), 132(b), (c), title III, §301(b)(1), title XVIII, §1875(c)(3), Oct. 22, 1986, 100 Stat. 2113, 2115, 2116, 2217, 2894; Pub. L. 100–485, title VII, §702(a), Oct. 13, 1988, 102 Stat. 2426; Pub. L. 100–647, title I, §1001(b)(3)(A), title VI, §6007(b), Nov. 10, 1988, 102 Stat. 3349, 3687; Pub. L. 101–508, title XI, §11802(e)(1), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 102–318, title V, §521(b)(2), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(a)(2), Oct. 24, 1992, 106 Stat. 3019; Pub. L. 103–66, title XIII, §13213(c)(1), Aug. 10, 1993, 107 Stat. 474; Pub. L. 104–188, title I, §1401(b)(4), Aug. 20, 1996, 110 Stat. 1788; Pub. L. 104–191, title III, §301(b), Aug. 21, 1996, 110 Stat. 2048; Pub. L. 105–34, title II, §202(b), title IX, §975(a), Aug. 5, 1997, 111 Stat. 808, 898; Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title IV, §431(b), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §406(a), (b), Mar. 9, 2002, 116 Stat. 43;Pub. L. 108–121, title I, §109(b), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–173, title XII, §1201(b), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 108–311, title III, §307(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 108–357, title VII, §703(a), (b), Oct. 22, 2004, 118 Stat. 1546, 1547; Pub. L. 109–135, title IV, §412(q), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–432, div. A, title I, §108(a), title IV, §406(a)(3), Dec. 20, 2006, 120 Stat. 2939, 2959; Pub. L. 110–343, div. C, title II, §203(a), Oct. 3, 2008, 122 Stat. 3864; Pub. L. 111–312, title VII, §721(a), Dec. 17, 2010, 124 Stat. 3316.)
 
 #### Amendment of Section
 
@@ -230,65 +230,67 @@ The Fair Labor Standards Act of 1938, referred to in subsec. (e)(4), is act June
 
 The Education Amendments of 1972, referred to in subsec. (e)(8), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 
-The Employee Polygraph Protection Act of 1988, referred to in subsec. (e)(9), is Pub. L. 100–347, June 27, 1988, 102 Stat. 646, as amended, which is classified generally to chapter 22 (§2001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, seeShort Title note set out under section 2001 of Title 29 and Tables.
+The Employee Polygraph Protection Act of 1988, referred to in subsec. (e)(9), is Pub. L. 100–347, June 27, 1988, 102 Stat. 646, as amended, which is classified generally to chapter 22 (§2001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 29 and Tables.
 
 The Worker Adjustment and Retraining Notification Act, referred to in subsec. (e)(10), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, as amended, which is classified generally to chapter 23 (§2101 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 29 and Tables.
 
 #### Amendments
 
-2008—Subsec. (a)(2)(D). Pub. L. 110–343 substituted “2007, 2008, or 2009” for “or 2007”.
+<b>2010</b>—Subsec. (a)(2)(D). Pub. L. 111–312 substituted “2009, 2010, or 2011” for “or 2009”.
 
-2006—Subsec. (a)(2)(D). Pub. L. 109–432, §108(a), substituted “2005, 2006, or 2007” for “or 2005”.
+<b>2008</b>—Subsec. (a)(2)(D). Pub. L. 110–343 substituted “2007, 2008, or 2009” for “or 2007”.
+
+<b>2006</b>—Subsec. (a)(2)(D). Pub. L. 109–432, §108(a), substituted “2005, 2006, or 2007” for “or 2005”.
 
 Subsec. (a)(21). Pub. L. 109–432, §406(a)(3), added par. (21).
 
-2005—Subsec. (a)(19), (20). Pub. L. 109–135, §412(q)(1), redesignated par. (19) relating to costs involving discrimination suits, etc., as par. (20) and moved to follow par. (19) relating to health savings accounts.
+<b>2005</b>—Subsec. (a)(19), (20). Pub. L. 109–135, §412(q)(1), redesignated par. (19) relating to costs involving discrimination suits, etc., as par. (20) and moved to follow par. (19) relating to health savings accounts.
 
 Subsec. (e). Pub. L. 109–135, §412(q)(2), substituted “subsection (a)(20)” for “subsection (a)(19)” in introductory provisions.
 
-2004—Subsec. (a)(2)(D). Pub. L. 108–311 substituted “, 2003, 2004, or 2005” for “or 2003”.
+<b>2004</b>—Subsec. (a)(2)(D). Pub. L. 108–311 substituted “, 2003, 2004, or 2005” for “or 2003”.
 
 Subsec. (a)(19). Pub. L. 108–357, §703(a), added par. (19) relating to costs involving discrimination suits, etc.
 
 Subsec. (e). Pub. L. 108–357, §703(b), added subsec. (e).
 
-2003—Subsec. (a)(2)(E). Pub. L. 108–121 added subpar. (E).
+<b>2003</b>—Subsec. (a)(2)(E). Pub. L. 108–121 added subpar. (E).
 
 Subsec. (a)(19). Pub. L. 108–173 added par. (19).
 
-2002—Subsec. (a)(2)(D). Pub. L. 107–147, §406(a), added subpar. (D).
+<b>2002</b>—Subsec. (a)(2)(D). Pub. L. 107–147, §406(a), added subpar. (D).
 
 Subsec. (d). Pub. L. 107–147, §406(b), added subsec. (d).
 
-2001—Subsec. (a)(18). Pub. L. 107–16, §§431(b), 901, temporarily added par. (18). See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (a)(18). Pub. L. 107–16, §§431(b), 901, temporarily added par. (18). See Effective and Termination Dates of 2001 Amendment note below.
 
-2000—Subsec. (a)(16). Pub. L. 106–554 amended heading and text of par. (16) generally. Prior to amendment, text read as follows: “The deduction allowed by section 220.”
+<b>2000</b>—Subsec. (a)(16). Pub. L. 106–554 amended heading and text of par. (16) generally. Prior to amendment, text read as follows: “The deduction allowed by section 220.”
 
-1997—Subsec. (a)(2)(C). Pub. L. 105–34, §975(a), added subpar. (C).
+<b>1997</b>—Subsec. (a)(2)(C). Pub. L. 105–34, §975(a), added subpar. (C).
 
 Subsec. (a)(17). Pub. L. 105–34, §202(b), added par. (17).
 
-1996—Subsec. (a)(8). Pub. L. 104–188 struck out par. (8) which read as follows: “
+<b>1996</b>—Subsec. (a)(8). Pub. L. 104–188 struck out par. (8) which read as follows: “
 
 Certain portion of lump-sum distributions from pension plans taxed under section 402(d).—The deduction allowed by section 402(d)(3).”
 
 Subsec. (a)(16). Pub. L. 104–191 added par. (16).
 
-1993—Subsec. (a)(15). Pub. L. 103–66 added par. (15).
+<b>1993</b>—Subsec. (a)(15). Pub. L. 103–66 added par. (15).
 
-1992—Subsec. (a)(8). Pub. L. 102–318 substituted “402(d)” for “402(e)” in heading and in text.
+<b>1992</b>—Subsec. (a)(8). Pub. L. 102–318 substituted “402(d)” for “402(e)” in heading and in text.
 
 Subsec. (a)(14). Pub. L. 102–486 added par. (14).
 
-1990—Subsec. (a)(13). Pub. L. 101–508, §11802(e)(1), amended par. (13) generally. Prior to amendment, par. (13) read as follows: “The deduction allowed by section 220.”
+<b>1990</b>—Subsec. (a)(13). Pub. L. 101–508, §11802(e)(1), amended par. (13) generally. Prior to amendment, par. (13) read as follows: “The deduction allowed by section 220.”
 
-1988—Subsec. (a)(2)(A). Pub. L. 100–647, §1001(b)(3)(A), inserted at end “The fact that the reimbursement may be provided by a third party shall not be determinative of whether or not the preceding sentence applies.”
+<b>1988</b>—Subsec. (a)(2)(A). Pub. L. 100–647, §1001(b)(3)(A), inserted at end “The fact that the reimbursement may be provided by a third party shall not be determinative of whether or not the preceding sentence applies.”
 
 Subsec. (a)(13). Pub. L. 100–647, §6007(b), added par. (13).
 
 Subsec. (c). Pub. L. 100–485 added subsec. (c).
 
-1986—Subsec. (a). Pub. L. 99–514, §132(b)(2)(A), designated existing provisions as subsec. (a) and added heading.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §132(b)(2)(A), designated existing provisions as subsec. (a) and added heading.
 
 Subsec. (a)(2). Pub. L. 99–514, §132(b)(1), amended par. (2) generally, substituting “Certain trade” for “Trade” in heading and inserting “of employees” in subpar. (A) heading, substituting provision relating to deduction of certain expenses of performing artists for provision relating to deduction of expenses for travel away from home in subpar. (B), and striking out subpar. (C) relating to deduction of travel expenses and subpar. (D) relating to deduction of expenses of outside salesmen.
 
@@ -310,11 +312,11 @@ Subsec. (a)(16). Pub. L. 99–514, §131(b)(1), struck out par. (16) which relat
 
 Subsec. (b). Pub. L. 99–514, §132(b)(2)(B), added subsec. (b).
 
-1984—Par. (7). Pub. L. 98–369, §491(d)(2), substituted “and annuity” for “annuity, and bond purchase” in heading, and substituted “the deduction allowed by section 404” for “the deductions allowed by section 404 and section 405(c)” in text.
+<b>1984</b>—Par. (7). Pub. L. 98–369, §491(d)(2), substituted “and annuity” for “annuity, and bond purchase” in heading, and substituted “the deduction allowed bysection 404” for “the deductions allowed by section 404 and section 405(c)” in text.
 
-1983—Par. (9). Pub. L. 97–354 repealed par. (9) relating to the deduction allowed by section 1379(b)(3).
+<b>1983</b>—Par. (9). Pub. L. 97–354 repealed par. (9) relating to the deduction allowed by section 1379(b)(3).
 
-1981—Par. (10). Pub. L. 97–34, §311(h)(1), struck out “and the deduction allowed by section 220 (relating to retirement savings for certain married individuals)” after “retirement savings”.
+<b>1981</b>—Par. (10). Pub. L. 97–34, §311(h)(1), struck out “and the deduction allowed by section 220 (relating to retirement savings for certain married individuals)” after “retirement savings”.
 
 Par. (14). Pub. L. 97–34, §112(b)(2), redesignated par. (15) as (14). Former par. (14), relating to deduction for certain expenses of living abroad, was struck out.
 
@@ -322,27 +324,31 @@ Par. (15). Pub. L. 97–34, §112(b)(2), redesignated par. (16) as (15). Former 
 
 Par. (16). Pub. L. 97–34, §§103(b), 112(b)(2), added par. (16). Former par. (16) redesignated (15).
 
-1980—Par. (15). Pub. L. 96–451 added par. (15).
+<b>1980</b>—Par. (15). Pub. L. 96–451 added par. (15).
 
 Par. (16). Pub. L. 96–608 added par. (16).
 
-1978—Par. (14). Pub. L. 95–615 added par. (14).
+<b>1978</b>—Par. (14). Pub. L. 95–615 added par. (14).
 
-1976—Par. (10). Pub. L. 94–455, §1501(b)(1), inserted reference to the deduction allowed by section 220 (relating to retirement savings for certain married individuals).
+<b>1976</b>—Par. (10). Pub. L. 94–455, §1501(b)(1), inserted reference to the deduction allowed by section 220 (relating to retirement savings for certain married individuals).
 
 Pars. (11), (12). Pub. L. 94–455, §1901(a)(8), (9), redesignated par. (11) relating to penalties forfeited because of premature withdrawal of funds from time savings accounts or deposits, as par. (12), and substituted “trade or business, to the extent” for “trade or business to the extent”.
 
 Par. (13). Pub. L. 94–455, §502(a), added par. (13).
 
-1974—Par. (10). Pub. L. 93–406, §2002(a)(2), added par. (10).
+<b>1974</b>—Par. (10). Pub. L. 93–406, §2002(a)(2), added par. (10).
 
 Par. (11). Pub. L. 93–483 added par. (11) relating to penalties forfeited because of premature withdrawal of funds from time savings accounts or deposits. Another par. (11) relating to certain portions of lump-sum distributions from pension plans taxed under section 402(e) of this title, was added by Pub. L. 93–406, §2005(c)(9).
 
-1969—Par. (9). Pub. L. 91–172 added par. (9).
+<b>1969</b>—Par. (9). Pub. L. 91–172 added par. (9).
 
-1964—Par. (8). Pub. L. 88–272 added par. (8).
+<b>1964</b>—Par. (8). Pub. L. 88–272 added par. (8).
 
-1962—Par. (7). Pub. L. 87–792 added par. (7).
+<b>1962</b>—Par. (7). Pub. L. 87–792 added par. (7).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title VII, §721(b), Dec. 17, 2010, 124 Stat. 3316, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009.”
 
 #### Effective Date of 2008 Amendment
 
@@ -374,7 +380,7 @@ Pub. L. 107–147, title IV, §406(c), Mar. 9, 2002, 116 Stat. 44, provided that
 
 Pub. L. 107–16, title IV, §431(d), June 7, 2001, 115 Stat. 69, provided that: “The amendments made by this section \[enacting section 222 of this title, amending this section and sections 86, 135, 137, 219, 221, and 469 of this title, and renumbering former section 222 of this title as 223\] shall apply to payments made in taxable years beginning after December 31, 2001.”
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -398,7 +404,7 @@ Section 13213(e) of Pub. L. 103–66 provided that: “The amendments made by th
 
 #### Effective Date of 1992 Amendments
 
-Amendment by Pub. L. 102–486 applicable to property placed in service after June 30, 1993, see section 1913(c) of Pub. L. 102–486, set out as an Effective Date note under section 30 of this title.
+Amendment by Pub. L. 102–486 applicable to property placed in service after June 30, 1993, see section 1913(c)of Pub. L. 102–486, set out as an Effective Date note under section 30 of this title.
 
 Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, see section 521(e) of Pub. L. 102–318, set out as a note under section 402 of this title.
 
@@ -472,7 +478,7 @@ Amendment by Pub. L. 87–792 applicable to taxable years beginning after Dec. 3
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items ofincome, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Plan Amendments Not Required Until January 1, 1998
 
@@ -490,7 +496,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Pub. L. 95–427, §2, Oct. 7, 1978, 92 Stat. 996, as amended by Pub. L. 96–167, §2, Dec. 29, 1979, 93 Stat. 1275, provided that with respect to transportation costs paid or incurred after December 31, 1976, and on or before May 31, 1981, the application of sections 62, 162, and 262 and of chapters 21, 23, and 24 of the Internal Revenue Code of 1954 \[now 1986\] to transportation expenses in traveling between a taxpayer's residence and place of work be determined without regard to Revenue Ruling 76–453 or any other regulation, ruling, or decision reaching the same or similar result, and with full regard to the rules in effect before that Revenue Ruling.
 
-Pub. L. 95–615, §2, Nov. 8, 1978, 92 Stat. 3097, provided that with respect to transportation costs paid or incurred after Dec. 31, 1976, and before Apr. 30, 1978, the application of sections 62, 162, and 262 and chapters 21, 23, and 24 of the Internal Revenue Code of 1954 \[now 1986\] to transportation expenses in traveling between a taxpayer's residence and place of work be determinedwithout regard to Revenue Ruling 76–453 or any other regulation, ruling or decision reaching the same or similar result, and with full regard to the rules in effect before that Revenue Ruling, and ceased to have effect on the day after Nov. 8, 1978 pursuant to section 210(a) of that Act.
+Pub. L. 95–615, §2, Nov. 8, 1978, 92 Stat. 3097, provided that with respect to transportation costs paid or incurred after Dec. 31, 1976, and before Apr. 30, 1978, the application of sections 62, 162, and 262 and chapters 21, 23, and 24 of the Internal Revenue Code of 1954 \[now 1986\] to transportation expenses in traveling between a taxpayer's residence and place of work be determined without regard to Revenue Ruling 76–453 or any other regulation, ruling or decision reaching the same or similar result, and with full regard to the rules in effect before that Revenue Ruling, and ceased to have effect on the day after Nov. 8, 1978 pursuant to section 210(a) of that Act.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

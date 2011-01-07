@@ -54,6 +54,7 @@
 | [7456A.](Subchapter%20004%20%28IV%29%20-%20Pay%20for%20Nurses%20and%20Other%20Health-Care%20Personnel/%C2%A7%2007456A%20-%20Nurses%20alternate%20work%20schedules.md) | Nurses: alternate work schedules. |
 | [7457\.](Subchapter%20004%20%28IV%29%20-%20Pay%20for%20Nurses%20and%20Other%20Health-Care%20Personnel/%C2%A7%2007457%20-%20On-call%20pay.md) | On-call pay. |
 | [7458\.](Subchapter%20004%20%28IV%29%20-%20Pay%20for%20Nurses%20and%20Other%20Health-Care%20Personnel/%C2%A7%2007458%20-%20Recruitment%20and%20retention%20bonus%20pay.md) | Recruitment and retention bonus pay. |
+| [7459\.](Subchapter%20004%20%28IV%29%20-%20Pay%20for%20Nurses%20and%20Other%20Health-Care%20Personnel/%C2%A7%2007459%20-%20Nursing%20staff%20special%20rules%20for%20overtime%20duty.md) | Nursing staff: special rules for overtime duty. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -81,9 +82,11 @@
 
 #### Amendments
 
-2004—Pub. L. 108–445, §§3(g), 4(a)(2), Dec. 3, 2004, 118 Stat. 2643, 2645, substituted “PAY FOR PHYSICIANS AND DENTISTS” for “SPECIAL PAY FOR PHYSICIANS AND DENTISTS” in item for subchapter III, “Pay” for “Special pay: authority” in item 7431, “Pay of Under Secretary for Health” for “Special pay: written agreements” in item 7432, “Administrative matters” for “Special pay: full-time physicians” in item 7433, struck out items 7434 “Special pay: part-time physicians”, 7435 “Special pay: full-time dentists”, 7436 “Special pay: part-time dentists”, 7437 “Special pay: general provisions”, 7438 “Special pay: coordination with other benefits laws”, 7439 “Periodic review of pay of physicians and dentists; quadrennial report”, and 7440 “Annual report”, and added item 7456A.
+<b>2010</b>—Pub. L. 111–163, title VI, §602(a)(2), May 5, 2010, 124 Stat. 1173, added item 7459.
 
-1991—Pub. L. 102–40, title I, §§102, 103(a)(2), title II, §203(b), title IV, §401(b)(1), May 7, 1991, 105 Stat. 187, 199, 207, 221, added chapter heading and analysis.
+<b>2004</b>—Pub. L. 108–445, §§3(g), 4(a)(2), Dec. 3, 2004, 118 Stat. 2643, 2645, substituted “PAY FOR PHYSICIANS AND DENTISTS” for “SPECIAL PAY FOR PHYSICIANS AND DENTISTS” in item for subchapter III, “Pay” for “Special pay: authority” in item 7431, “Pay of Under Secretary for Health” for “Special pay: written agreements” in item 7432, “Administrative matters” for “Special pay: full-time physicians” in item 7433, struck out items 7434 “Special pay: part-time physicians”, 7435 “Special pay: full-time dentists”, 7436 “Special pay: part-time dentists”, 7437 “Special pay: general provisions”, 7438 “Special pay: coordination with other benefits laws”, 7439 “Periodic review of pay of physicians and dentists; quadrennial report”, and 7440 “Annual report”, and added item 7456A.
+
+<b>1991</b>—Pub. L. 102–40, title I, §§102, 103(a)(2), title II, §203(b), title IV, §401(b)(1), May 7, 1991, 105 Stat. 187, 199, 207, 221, added chapter heading and analysis.
 
 
 ---

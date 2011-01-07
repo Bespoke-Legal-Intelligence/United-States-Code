@@ -74,6 +74,7 @@
 | 262p–9. | Reform of the “Doing Business” Report of the World Bank. |
 | 262p–10. | Enhancing the transparency and effectiveness of the Inspection Panel process of the World Bank. |
 | 262p–11. | Opposition to loans or funds for countries that support terrorism. |
+| 262p–12. | Cancellation of Haiti's debts to international financial institutions. |
 | [262q.](%C2%A7%2000262q%20-%20Transferred.md) | Transferred. |
 | [262r.](%C2%A7%2000262r%20-%20Annual%20report%20by%20Chairman%20of%20National%20Advisory%20Council%20on%20International%20Monetary%20and%20Financial%20Policies.md) | Annual report by Chairman of National Advisory Council on International Monetary and Financial Policies. |
 | 262r–1. | Transmission to the Congress of operating summaries of the multilateral development banks. |
@@ -391,6 +392,7 @@
 | 283z–9. | Multilateral Investment Fund. |
 | 283z–10. | Focus on low-income areas of Latin America and Caribbean. |
 | 283z–11. | First replenishment of the resources of the Enterprise for the Americas Multilateral Investment Fund. |
+| 283z–12. | Authority to vote for and contribute to an increase in resources of the Fund for Special Operations; providing debt relief to Haiti. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -559,6 +561,7 @@
 | [286qq.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286qq%20-%20Quota%20increase%20to%204%2C973%2C100%2C000%20Special%20Drawing%20Rights.md) | Quota increase to 4,973,100,000 Special Drawing Rights. |
 | [286rr.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286rr%20-%20Approval%20to%20sell%20a%20limited%20amount%20of%20the%20Fund%27s%20gold.md) | Approval to sell a limited amount of the Fund's gold. |
 | [286ss.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286ss%20-%20Acceptance%20of%20amendment%20to%20Articles%20of%20Agreement%20of%20Fund%20approved%20on%20October%2022%2C%201997.md) | Acceptance of amendment to Articles of Agreement of Fund approved on October 22, 1997. |
+| [286tt.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286tt%20-%20Restrictions%20on%20use%20of%20United%20States%20funds%20for%20foreign%20governments%3B%20protection%20of%20American%20taxpayers.md) | Restrictions on use of United States funds for foreign governments; protection of American taxpayers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -618,6 +621,7 @@
 | 288f–4. | International Union for Conservation of Nature and Natural Resources; extension of privileges, exemptions, and immunities. |
 | 288f–5. | European Central Bank; extension of privileges, exemptions, and immunities. |
 | 288f–6. | Global Fund to Fight AIDS, Tuberculosis and Malaria; extension of privileges, exemptions, and immunities. |
+| 288f–7. | Office of the High Representative in Bosnia and Herzegovina and the International Civilian Office in Kosovo; extension of privileges, exemptions, and immunities. |
 | [288g.](Subchapter%20018%20%28XVIII%29%20-%20Privileges%20and%20Immunities%20of%20International%20Organizations/%C2%A7%2000288g%20-%20Organization%20of%20American%20States%3B%20extension%20of%20privileges%20and%20immunities%20to%20members.md) | Organization of American States; extension of privileges and immunities to members. |
 | [288h.](Subchapter%20018%20%28XVIII%29%20-%20Privileges%20and%20Immunities%20of%20International%20Organizations/%C2%A7%2000288h%20-%20Commission%20of%20European%20Communities%3B%20extension%20of%20privileges%20and%20immunities%20to%20members.md) | Commission of European Communities; extension of privileges and immunities to members. |
 | [288i.](Subchapter%20018%20%28XVIII%29%20-%20Privileges%20and%20Immunities%20of%20International%20Organizations/%C2%A7%2000288i%20-%20Liaison%20Office%20of%20the%20People%27s%20Republic%20of%20China%3B%20extension%20of%20privileges%20and%20immunities%20to%20members.md) | Liaison Office of the People's Republic of China; extension of privileges and immunities to members. |
@@ -810,6 +814,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER XXXI—INTERNATIONAL RENEWABLE ENERGY AGENCY
+
+|  |  |
+| :--- | ---: |
+| [290p.](Subchapter%20031%20%28XXXI%29%20-%20International%20Renewable%20Energy%20Agency/%C2%A7%2000290p%20-%20Acceptance%20of%20statute%20and%20membership.md) | Acceptance of statute and membership. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -887,6 +899,7 @@
 - [&sect; 00262p&#8211;9 - Reform of the &#8220;Doing Business&#8221; Report of the World Bank](%C2%A7%2000262p%E2%80%939%20-%20Reform%20of%20the%20%E2%80%9CDoing%20Business%E2%80%9D%20Report%20of%20the%20World%20Bank.md)
 - [&sect; 00262p&#8211;10 - Enhancing the transparency and effectiveness of the Inspection Panel process of the World Bank](%C2%A7%2000262p%E2%80%9310%20-%20Enhancing%20the%20transparency%20and%20effectiveness%20of%20the%20Inspection%20Panel%20process%20of%20the%20World%20Bank.md)
 - [&sect; 00262p&#8211;11 - Opposition to loans or funds for countries that support terrorism](%C2%A7%2000262p%E2%80%9311%20-%20Opposition%20to%20loans%20or%20funds%20for%20countries%20that%20support%20terrorism.md)
+- [&sect; 00262p&#8211;12 - Cancellation of Haiti's debts to international financial institutions](%C2%A7%2000262p%E2%80%9312%20-%20Cancellation%20of%20Haiti%27s%20debts%20to%20international%20financial%20institutions.md)
 - [&sect; 00262q - Transferred](%C2%A7%2000262q%20-%20Transferred.md)
 - [&sect; 00262r - Annual report by Chairman of National Advisory Council on International Monetary and Financial Policies](%C2%A7%2000262r%20-%20Annual%20report%20by%20Chairman%20of%20National%20Advisory%20Council%20on%20International%20Monetary%20and%20Financial%20Policies.md)
 - [&sect; 00262r&#8211;1 - Transmission to the Congress of operating summaries of the multilateral development banks](%C2%A7%2000262r%E2%80%931%20-%20Transmission%20to%20the%20Congress%20of%20operating%20summaries%20of%20the%20multilateral%20development%20banks.md)
@@ -976,3 +989,4 @@
 - [Subchapter 028 (XXVIII) - North American Development Bank and Related Provisions](Subchapter%20028%20%28XXVIII%29%20-%20North%20American%20Development%20Bank%20and%20Related%20Provisions/README.md)
 - [Subchapter 029 (XXIX) - United States-Mexico Border Health Commission](Subchapter%20029%20%28XXIX%29%20-%20United%20States-Mexico%20Border%20Health%20Commission/README.md)
 - [Subchapter 030 (XXX) - Middle East Development Bank](Subchapter%20030%20%28XXX%29%20-%20Middle%20East%20Development%20Bank/README.md)
+- [Subchapter 031 (XXXI) - International Renewable Energy Agency](Subchapter%20031%20%28XXXI%29%20-%20International%20Renewable%20Energy%20Agency/README.md)

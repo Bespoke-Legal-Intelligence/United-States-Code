@@ -90,7 +90,7 @@ Beginning with fiscal year 1992, the Secretary may allocate funds appropriated p
 
 #### (e) Supplementary financial assistance to grant recipients
 
-(1)(A) Beginning with fiscal year 1992, the Secretary may allocate, from funds appropriated pursuant to section 6872(b) <sup>2</sup> of this title, among the States an equal amount for each State notto exceed $100,000 per State. Each State shall make available amounts received under this subsection to provide supplementary financial assistance to recipients of grants under this part that have achieved the best performance during the previous fiscal year in advancing the purposes of this part.
+(1)(A) Beginning with fiscal year 1992, the Secretary may allocate, from funds appropriated pursuant to section 6872(b) <sup>2</sup> of this title, among the States an equal amount for each State not to exceed $100,000 per State. Each State shall make available amounts received under this subsection to provide supplementary financial assistance to recipients of grants under this part that have achieved the best performance during the previous fiscal year in advancing the purposes of this part.
 
 (B) None of the funds made available under this subsection may be used by any State for administrative purposes.
 
@@ -106,17 +106,17 @@ Section 6872 of this title, referred to in subsecs. (d) and (e)(1)(A), was amend
 
 #### Amendments
 
-2009—Subsec. (c)(1). Pub. L. 111–5, §407(b), substituted “$6,500” for “$2,500” in introductory provisions.
+<b>2009</b>—Subsec. (c)(1). Pub. L. 111–5, §407(b), substituted “$6,500” for “$2,500” in introductory provisions.
 
 Subsec. (c)(2). Pub. L. 111–5, §407(e), substituted “September 30, 1994” for “September 30, 1979”.
 
-2005—Subsec. (c)(1). Pub. L. 109–58, §206(a)(1), substituted “in paragraphs (3) and (4)” for “in paragraph (3)” in introductory provisions.
+<b>2005</b>—Subsec. (c)(1). Pub. L. 109–58, §206(a)(1), substituted “in paragraphs (3) and (4)” for “in paragraph (3)” in introductory provisions.
 
 Subsec. (c)(3). Pub. L. 109–58, §206(a)(2), substituted “dwelling unit averages provided in paragraphs (1) and (4)” for “$2,500 per dwelling unit average provided in paragraph (1)” in introductory provisions.
 
 Subsec. (c)(4) to (6). Pub. L. 109–58, §206(a)(3), added pars. (4) to (6).
 
-2000—Subsec. (a)(1). Pub. L. 106–469, §601(b)(1), struck out first sentence which read as follows: “Except as provided in paragraph (2), an average of at least forty percent of the funds provided in a State under this part for weatherization materials, labor, and related matters described in subsection (c) of this section shall be spent for weatherization materials.”
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–469, §601(b)(1), struck out first sentence which read as follows: “Except as provided in paragraph (2), an average of at least forty percent of the funds provided in a State under this part for weatherization materials, labor, and related matters described in subsection (c) of this section shall be spent for weatherization materials.”
 
 Subsec. (a)(2). Pub. L. 106–469, §601(b)(2)(C), struck out subpar. (B) which read as follows: “The Secretary shall make information on energy audit procedures and techniques available to States applying for a waiver under subparagraph (A) and shall provide training for State and local agencies in the implementation of such procedures and techniques.”
 
@@ -132,7 +132,7 @@ Subsec. (c)(3). Pub. L. 106–469, §601(b)(4), in introductory provisions, subs
 
 Subsec. (c)(4). Pub. L. 106–469, §601(b)(5), struck out par. (4), which required the Secretary, upon State application, to establish a separate average per dwelling unit limitation for dwelling units in the State.
 
-1990—Subsec. (a). Pub. L. 101–440, §7(d), substituted “(1) Except as provided in paragraph (2), an average” for “An average”, inserted before period at end “, and a State may provide in the plan adopted pursuant to subsection (b) of this section for recipients of grants of less than $350,000 to use up to an additional 5 percent of such grant for administration if the State has determined that such recipient requires such additional amount to implement effectively the administrative requirements established by the Secretary pursuant to this part”, and added par. (2).
+<b>1990</b>—Subsec. (a). Pub. L. 101–440, §7(d), substituted “(1) Except as provided in paragraph (2), an average” for “An average”, inserted before period at end “, and a State may provide in the plan adopted pursuant to subsection (b) of this section for recipients of grants of less than $350,000 to use up to an additional 5 percent of such grant for administration if the State has determined that such recipient requires such additional amount to implement effectively the administrative requirements established by the Secretary pursuant to this part”, and added par. (2).
 
 Subsec. (c)(1). Pub. L. 101–440, §7(e)(1), substituted “Except as provided in paragraphs (3) and (4), the expenditure” for “The expenditure”.
 
@@ -144,13 +144,13 @@ Pub. L. 101–440, §7(f), struck out subsec. (d) which established a performanc
 
 Subsec. (e). Pub. L. 101–440, §7(i), added subsec. (e).
 
-1984—Subsec. (a). Pub. L. 98–558, §403(1), substituted provisions that an average of at least forty percent of the funds provided shall be spent for weatherization for former provisions which directed the Secretary to use funds to the maximum extent practicable.
+<b>1984</b>—Subsec. (a). Pub. L. 98–558, §403(1), substituted provisions that an average of at least forty percent of the funds provided shall be spent for weatherization for former provisions which directed the Secretary to use funds to the maximum extent practicable.
 
-Subsec. (c). Pub. L. 98–558, §403(2), in amending subsec. (c) generally, substituted provisions that expenditures shall not exceed an average of $1,600 per dwelling unit for former provisions which provided for an $800 per dwelling unit limit in par. (1), struck out “(not to exceed $150)” after “the cost” in par. (1)(D), substituted provisions that dwelling units partially weatherized between certain dates could receive further financial assistance under this part for former provisions that $800 limit would not apply if the State policy advisory council requested greater amounts from the Secretary and the Secretary gave approval in par. (2), and deleted former par. (3) which provided that in areas where the Secretary, after consultation with the Secretary of Labor, determined that there was an insufficient number of volunteers and training participants and public service employment workers, assisted pursuant to the Comprehensive Employment and Training Act of 1973, available to work on weatherization projects under the supervision of qualified supervisors and foremen, the Secretary could increase the limitation of $800 to not more than $1,600 to cover the costs of paying persons who would install the weatherization materials and, to the maximum extent practicable, who would otherwisebe able to participate as training participants and public service employment workers pursuant to the Comprehensive Employment and Training Act of 1973.
+Subsec. (c). Pub. L. 98–558, §403(2), in amending subsec. (c) generally, substituted provisions that expenditures shall not exceed an average of $1,600 per dwelling unit for former provisions which provided for an $800 per dwelling unit limit in par. (1), struck out “(not to exceed $150)” after “the cost” in par. (1)(D), substituted provisions that dwelling units partially weatherized between certain dates could receive further financial assistance under this part for former provisions that $800 limit would not apply if the State policy advisory council requested greater amounts from the Secretary and the Secretary gave approval in par. (2), and deleted former par. (3) which provided that in areas where the Secretary, after consultation with the Secretary of Labor, determined that there was an insufficient number of volunteers and training participants and public service employment workers, assisted pursuant to the Comprehensive Employment and Training Act of 1973, available to work on weatherization projects under the supervision of qualified supervisors and foremen, the Secretary could increase the limitation of $800 to not more than $1,600 to cover the costs of paying persons who would install the weatherization materials and, to the maximum extent practicable, who would otherwise be able to participate as training participants and public service employment workers pursuant to the Comprehensive Employment and Training Act of 1973.
 
 Subsec. (d). Pub. L. 98–558, §404, added subsec. (d).
 
-1980—Subsec. (a). Pub. L. 96–294, §§571, 577(2), substituted “Secretary” for “Administrator” and provisions limiting amounts used for administrative purposes in any grant made by the Secretary under this part for provisions limiting amounts used for administrative purposes in any grant made pursuant to section 6863(a) of this title and any allocations under this section.
+<b>1980</b>—Subsec. (a). Pub. L. 96–294, §§571, 577(2), substituted “Secretary” for “Administrator” and provisions limiting amounts used for administrative purposes in any grant made by the Secretary under this part for provisions limiting amounts used for administrative purposes in any grant made pursuant to section 6863(a) of this title and any allocations under this section.
 
 Subsec. (b). Pub. L. 96–294, §§573(a), 577(2), substituted in provision preceding par. (1) “Secretary” for “Administrator”, redesignated former par. (2)(C) as (B), and struck out former par. (2)(B), which related to funds allocated for carrying out weatherization projects under this part in the geographical area served by the emergency program.
 
@@ -160,7 +160,7 @@ Subsec. (c)(2). Pub. L. 96–294, §577(2), substituted “Secretary” for “A
 
 Subsec. (c)(3). Pub. L. 96–294, §572(2), added par. (3).
 
-1978—Subsec. (a). Pub. L. 95–619, §231(c)(1), authorized expenditure of allocations under this part for costs related to weatherization of a dwelling unit as provided in subsec. (c) of this section and substituted an administrative expenses limitation of five percent of any allocation under this section for a similar limitation of ten percent of any such allocation.
+<b>1978</b>—Subsec. (a). Pub. L. 95–619, §231(c)(1), authorized expenditure of allocations under this part for costs related to weatherization of a dwelling unit as provided in subsec. (c) of this section and substituted an administrative expenses limitation of five percent of any allocation under this section for a similar limitation of ten percent of any such allocation.
 
 Subsec. (c). Pub. L. 95–619, §231(c)(2), included expenditure of financial assistance provided under this section for costs related to procurement and installation of weatherization materials in dwelling units in the maximum amount available per dwelling unit and increased such maximum amount to $800 per unit.
 

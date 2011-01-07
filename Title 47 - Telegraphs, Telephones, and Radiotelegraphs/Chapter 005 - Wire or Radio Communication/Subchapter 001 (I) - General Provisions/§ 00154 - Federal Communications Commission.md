@@ -190,13 +190,9 @@ For the purpose of obtaining maximum effectiveness from the use of radio and wir
 
 Level III and level IV of the Executive Schedule, referred to in subsec. (d), are set out in sections 5314 and 5315, respectively, of Title 5, Government Organization and Employees.
 
-The civil-service laws, referred to in subsec. (f)(1), (2), are set forth in Title 5. See particularly, section 3301 et seq. of Title 5.
-
 Part II of subchapter III of this chapter, referred to in subsec. (f)(3), is classified to section 351 et seq. of this title.
 
 Provisions of part III of title 5, referred to in subsec. (f)(4)(E), are classified to section 2101 et seq. of Title 5, Government Organization and Employees.
-
-Federal law on income taxes, estate taxes, and gift taxes, referred to in subsec. (g)(3)(C), is classified generally to Title 26, Internal Revenue Code.
 
 #### Codification
 
@@ -206,7 +202,7 @@ In subsec. (f)(4)(E), “section 1342 of title 31” substituted for “section 
 
 #### Amendments
 
-1996—Subsec. (f)(3). Pub. L. 104–104, §403(b), inserted before period at end “: and <i>Provided further</i>, That, in the alternative, an entity designated by the Commission may make the inspections referred to in this paragraph”.
+<b>1996</b>—Subsec. (f)(3). Pub. L. 104–104, §403(b), inserted before period at end “: and <i>Provided further</i>, That, in the alternative, an entity designated by the Commission may make the inspections referred to in this paragraph”.
 
 Subsec. (f)(4)(A). Pub. L. 104–104, §403(a)(1), in first sentence, inserted “or administering” after “for purposes of preparing”, “of” after “than the class”, and “or administered” after “being prepared”.
 
@@ -222,31 +218,31 @@ Subsec. (f)(4)(I). Pub. L. 104–104, §403(a)(5), redesignated subpar. (J) as (
 
 Subsec. (f)(4)(J). Pub. L. 104–104, §403(a)(4), (5), redesignated subpar. (J) as (I) and substituted “subparagraph (A) of this paragraph” for “subparagraph (A) or (B) of this paragraph” and struck out last sentence which read as follows: “The total amount of allowable cost reimbursement per examinee shall not exceed $4, adjusted annually every January 1 for changes in the Department of Labor Consumer Price Index.”
 
-1995—Subsec. (f)(4)(J). Pub. L. 104–66 struck out at end “Such individuals and organizations shall maintain records of out-of-pocket expenditures and shall certify annually to the Commission that all costs for which reimbursement was obtained were necessarily and prudently incurred.”
+<b>1995</b>—Subsec. (f)(4)(J). Pub. L. 104–66 struck out at end “Such individuals and organizations shall maintain records of out-of-pocket expenditures and shall certify annually to the Commission that all costs for which reimbursement was obtained were necessarily and prudently incurred.”
 
-1994—Subsec. (f)(3). Pub. L. 103–414 substituted “overtime extends beyond” for “overtime exceeds beyond”.
+<b>1994</b>—Subsec. (f)(3). Pub. L. 103–414 substituted “overtime extends beyond” for “overtime exceeds beyond”.
 
-1992—Subsec. (g)(2)(D). Pub. L. 102–538, §201, substituted “1994” for “1992”.
+<b>1992</b>—Subsec. (g)(2)(D). Pub. L. 102–538, §201, substituted “1994” for “1992”.
 
 Subsec. (g)(3). Pub. L. 102–538, §208, added par. (3).
 
-1990—Subsec. (f)(5). Pub. L. 101–396, §3, added par. (5).
+<b>1990</b>—Subsec. (f)(5). Pub. L. 101–396, §3, added par. (5).
 
 Subsec. (g)(2)(D). Pub. L. 101–396, §4, substituted “1992” for “1989”.
 
-1988—Subsec. (g)(2)(D). Pub. L. 100–594 substituted “1989” for “1987”.
+<b>1988</b>—Subsec. (g)(2)(D). Pub. L. 100–594 substituted “1989” for “1987”.
 
-1986—Subsec. (c). Pub. L. 99–334 substituted “five years” for “seven years”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–334 substituted “five years” for “seven years”.
 
 Subsec. (g)(2)(D). Pub. L. 99–272, §5002(b)(1), substituted “1987” for “1985”.
 
 Subsec. (g)(2)(E). Pub. L. 99–272, §5002(b)(2), added subpar. (E).
 
-1983—Subsec. (f)(4)(E) to (I). Pub. L. 98–214, §10, added subpar. (E) and redesignated existing subpars. (E) to (H) as (F) to (I), respectively.
+<b>1983</b>—Subsec. (f)(4)(E) to (I). Pub. L. 98–214, §10, added subpar. (E) and redesignated existing subpars. (E) to (H) as (F) to (I), respectively.
 
 Subsec. (f)(4)(J). Pub. L. 98–214, §11, added subpar. (J).
 
-1982—Subsec. (a). Pub. L. 97–253, §501(b)(1), substituted “five” for “seven”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–253, §501(b)(1), substituted “five” for “seven”.
 
 Subsec. (b). Pub. L. 97–259, §102, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each member of the Commission shall be a citizen of the United States. No member of the Commission or person in its employ shall be financially interested in the manufacture or sale of radio apparatus or of apparatus for wire or radio communication; in communication by wire or radio or in radio transmission of energy; in any company furnishing services or such apparatus to any company engaged in communication by wire or radio or to any company manufacturing or selling apparatus used for communication by wire or radio; or in any company owning stocks, bonds, or other securities of any such company; nor be in the employ of or hold any official relation to any person subject to any of the provisions of this chapter, nor own stocks, bonds, or other securities of any corporation subject to any of the provisions of this chapter. Such commissioners shall not engage in any other business, vocation, profession, or employment. Any such commissioner serving as such after one year from July 16, 1952, shall not for a period of one year following the termination of his services as a commissioner represent any person before the Commission in a professional capacity, except that this restriction shall not apply to any commissioner who has served the full term for which he was appointed. Not more than four members of the Commission shall be members of the same political party.”
 
@@ -270,17 +266,17 @@ Subsec. (k)(3). Pub. L. 97–259, §103(f), redesignated par. (4) as (3).
 
 Subsec. (k)(4), (5). Pub. L. 97–259, §103(f), (g), redesignated par. (5) as (4) and substituted “Office of Management and Budget” for “Bureau of the Budget”. Former par. (4) redesignated (3).
 
-1981—Subsec. (g). Pub. L. 97–35 substituted requirement respecting authorizations under section 156 of this title, for provisions respecting appropriations from time to time.
+<b>1981</b>—Subsec. (g). Pub. L. 97–35 substituted requirement respecting authorizations under section 156 of this title, for provisions respecting appropriations from time to time.
 
-1960—Subsec. (b). Pub. L. 86–752 struck out provision that permitted commissioners to accept “reasonable honorarium or compensation” for “the presentation or delivery of publications or papers”.
+<b>1960</b>—Subsec. (b). Pub. L. 86–752 struck out provision that permitted commissioners to accept “reasonable honorarium or compensation” for “the presentation or delivery of publications or papers”.
 
 Subsec. (c). Pub. L. 86–619 provided for continuation in office of the commissioners upon termination of their term until their successors are appointed and have qualified, not beyond expiration of next session of Congress subsequent to the expiration of said fixed term of office.
 
 Subsec. (k)(3). Pub. L. 86–533 repealed par. (3) which required the report to contain information with respect to all persons taken into the employment of the Commission during the preceding year, together with the names of those persons who left the employ of the Commission during the year.
 
-1954—Subsec. (f)(3). Act Aug. 13, 1954, substituted “engineers” for “inspectors” and “Field Engineering and Monitoring Bureau of the Federal Communications Commission” for “Field Division of the Engineering Department of the Federal Communications Commission” and extended provisions to include inspections required pursuant to the Great Lakes Agreement.
+<b>1954</b>—Subsec. (f)(3). Act Aug. 13, 1954, substituted “engineers” for “inspectors” and “Field Engineering and Monitoring Bureau of the Federal Communications Commission” for “Field Division of the Engineering Department of the Federal Communications Commission” and extended provisions to include inspections required pursuant to the Great Lakes Agreement.
 
-1952—Subsec. (b). Act July 16, 1952, §3(a), prohibited commissioners from engaging in any other work except that they may present or deliver papers for an honorarium, and prohibited any commissioner from appearing before the Commission in a professional capacity for 1 year after termination of his services except that this prohibition would not apply where commissioner has completed his full term.
+<b>1952</b>—Subsec. (b). Act July 16, 1952, §3(a), prohibited commissioners from engaging in any other work except that they may present or deliver papers for an honorarium, and prohibited any commissioner from appearing before the Commission in a professional capacity for 1 year after termination of his services except that this prohibition would not apply where commissioner has completed his full term.
 
 Subsec. (f). Act July 16, 1952, §3(b), authorized Commission to appoint employees, allowed each commissioner to appoint a legal assistant, and a secretary, and allowed the Chairman to appoint an administrative assistant.
 
@@ -288,13 +284,13 @@ Subsec. (g). Act July 16, 1952, §3(c), authorized Commission to acquire land fo
 
 Subsec. (k). Act July 16, 1952, §3(d), required Commission to make more detailed reports to Congress.
 
-1941—Subsec. (f). Act Mar. 23, 1941, designated existing provisions as par. (1) and added par. (2).
+<b>1941</b>—Subsec. (f). Act Mar. 23, 1941, designated existing provisions as par. (1) and added par. (2).
 
-1937—Subsec. (k). Act May 20, 1937, inserted provisions that the Commission report to Congress annually at the beginning session of the Congress whether new wire or radio communication legislation is necessaryand make specific recommendations thereof to Congress.
+<b>1937</b>—Subsec. (k). Act May 20, 1937, inserted provisions that the Commission report to Congress annually at the beginning session of the Congress whether new wire or radio communication legislation is necessary and make specific recommendations thereof to Congress.
 
 Subsec. (<i>o</i>). Act May 20, 1937, added subsec. (<i>o</i>).
 
-1936—Subsec. (f). Act Jan. 22, 1936, inserted references to a chief accountant and three assistants.
+<b>1936</b>—Subsec. (f). Act Jan. 22, 1936, inserted references to a chief accountant and three assistants.
 
 #### Effective Date of 1986 Amendment
 

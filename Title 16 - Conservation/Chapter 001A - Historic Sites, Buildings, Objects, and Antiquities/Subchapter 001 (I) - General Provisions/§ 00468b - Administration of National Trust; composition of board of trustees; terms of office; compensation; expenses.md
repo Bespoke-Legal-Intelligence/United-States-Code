@@ -6,5 +6,5 @@ The affairs of the National Trust shall be under the general direction of a boar
 
 #### Amendments
 
-1953—Act July 28, 1953, provided that the general trustees be elected by members of the trust rather than by the National Council for Historic Sites and Buildings.
+<b>1953</b>—Act July 28, 1953, provided that the general trustees be elected by members of the trust rather than by the National Council for Historic Sites and Buildings.
 

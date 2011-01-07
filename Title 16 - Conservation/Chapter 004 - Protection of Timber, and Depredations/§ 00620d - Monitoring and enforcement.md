@@ -4,7 +4,7 @@
 
 In accordance with regulations issued under this section—
 
-&emsp;(1) each person who acquires, either directly or indirectly, unprocessed timber originating from Federal lands west of the 100th meridian in the contiguous 48 States shall report the receipt and disposition of such timber to the Secretary concerned, in such form as such Secretary may by rule prescribe; except that nothing in this paragraph shall be construed to hold any person responsible for the reporting of the disposition of any such timber held by subsequent persons;
+&emsp;(1) each person who acquires, either directly or indirectly, unprocessed timber originating from Federal lands west of the 100th meridian in the contiguous 48 States shall report the receipt and disposition of such timber to theSecretary concerned, in such form as such Secretary may by rule prescribe; except that nothing in this paragraph shall be construed to hold any person responsible for the reporting of the disposition of any such timber held by subsequent persons;
 
 &emsp;(2) each person who transfers to another person unprocessed timber originating from Federal lands west of the 100th meridian in the contiguous 48 States shall, before completing such transfer—
 
@@ -60,7 +60,7 @@ Using the information gathered under subsection (a) of this section, the Secreta
 
 &emsp;(A) If the Secretary concerned finds, on the record and after an opportunity for a hearing, that a person has violated any provision of sections 620 to 620j of this title or any regulation issued under sections 620 to 620j of this title relating to lands which they administer (notwithstanding that such violation may not have caused the export of unprocessed Federal timber in violation of sections 620 to 620j of this title), such Secretary may—
 
-&emsp;&emsp;(i) assess against such person a civil penalty of not more than $75,000 for each violation if the Secretary determines that the person committed such violation in disregard of such provision or regulation;
+&emsp;&emsp;(i) assess against such person a civil penalty of not more than $75,000 for each violation if the Secretary determines that theperson committed such violation in disregard of such provision or regulation;
 
 &emsp;&emsp;(ii) assess against such person a civil penalty of not more than $50,000 for each violation if the Secretary determines that the person should have known that the action constituted a violation; or
 
@@ -108,7 +108,7 @@ Contractural <sup>1</sup> remedies.—In the case of a minor violation of secti
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;No person may be debarred from bidding for or entering into a contract for the purchase of unprocessed timber from Federal lands under subparagraph (A) unless the head of the appropriate Federal department or agency first finds, on the recordand after an opportunity for a hearing, that debarment is warranted.
+&emsp;&emsp;&emsp;No person may be debarred from bidding for or entering into a contract for the purchase of unprocessed timber from Federal lands under subparagraph (A) unless the head of the appropriate Federal department or agency first finds, on the record and after an opportunity for a hearing, that debarment is warranted.
 
 #### (ii) Withholding of awards during debarment proceedings
 
@@ -126,11 +126,11 @@ Subsections (c) and (d) of this section do not apply to violations of section 62
 
 #### Amendments
 
-1997—Subsec. (c)(2)(C). Pub. L. 105–83, §603(1), added subpar. (C).
+<b>1997</b>—Subsec. (c)(2)(C). Pub. L. 105–83, §603(1), added subpar. (C).
 
 Subsec. (d)(1). Pub. L. 105–83, §603(2), inserted subpar. (A) designation and heading, substituted “Subject to subparagraph (B), the head” for “The head”, and added subpar. (B).
 
-1993—Subsec. (a)(3), (4). Pub. L. 103–45, §3(a), added pars. (3) and (4).
+<b>1993</b>—Subsec. (a)(3), (4). Pub. L. 103–45, §3(a), added pars. (3) and (4).
 
 Subsec. (c)(1). Pub. L. 103–45, §3(b)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 

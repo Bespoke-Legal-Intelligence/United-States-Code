@@ -24,17 +24,19 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Continuation of National Emergency Declared by Proc. No. 7463
 
-Notice of President of the United States, dated Sept. 10, 2009, 74 F.R. 46883, provided:
+Notice of President of the United States, dated Sept. 10, 2010, 75 F.R. 55661, provided:
 
-Consistent with section 202(d) of the National Emergencies Act, 50 U.S.C. 1622(d), I am continuing for 1 year the national emergency declared on September 14, 2001, in Proclamation 7463, with respect to the terrorist attacks of September 11, 2001, and the continuing and immediate threat of further attacks on the United States.
+Consistent with section 202(d) of the National Emergencies Act, 50 U.S.C. 1622(d), I am continuing for 1 year the national emergency previously declared on September 14, 2001, in Proclamation 7463, with respect to the terrorist attacks of September 11, 2001, and the continuing and immediate threat of further attacks on the United States.
 
-Because the terrorist threat continues, the national emergency declared on September 14, 2001, and the powers and authorities adopted to deal with that emergency, must continue in effect beyond September 14, 2009. Therefore, I am continuing in effect for an additional year the national emergency the former President declared on September 14, 2001, with respect to the terrorist threat.
+Because the terrorist threat continues, the national emergency declared on September 14, 2001, and the powers and authorities adopted to deal with that emergency must continue in effect beyond September 14, 2010. Therefore, I am continuing in effect for an additional year the national emergency that was declared on September 14, 2001, with respect to the terrorist threat.
 
 This notice shall be published in the Federal Register and transmitted to the Congress.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior continuations of national emergency declared by Proc. No. 7463 were contained in the following:
+
+Notice of President of the United States, dated Sept. 10, 2009, 74 F.R. 46883.
 
 Notice of President of the United States, dated Aug. 28, 2008, 73 F.R. 51211.
 

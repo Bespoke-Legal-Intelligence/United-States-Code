@@ -50,7 +50,7 @@
 
 #### (2) Penalty claim
 
-&emsp;After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a) of this section, as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, it shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, it shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vi) of paragraph (1)(A). Such person shall have a reasonable opportunity under section 1618 of this title to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under such section 1618, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
+&emsp;After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violationof subsection (a) of this section, as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, it shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, it shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vi) of paragraph (1)(A). Such person shall have a reasonable opportunity under section 1618 of this title to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under such section 1618, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
 
 #### (c) Maximum penalties
 
@@ -266,17 +266,17 @@ Act June 22, 1874, ch. 391, §16, 18 Stat. 189, required special findings as to 
 
 #### Amendments
 
-2007—Subsec. (c)(10), (11). Pub. L. 110–138, §§107(c), 205(a)(1), temporarily added par. (10) and redesignated former par. (10) as (11). See Effective and Termination Dates of 2007 Amendment note below.
+<b>2007</b>—Subsec. (c)(10), (11). Pub. L. 110–138, §§107(c), 205(a)(1), temporarily added par. (10) and redesignated former par. (10) as (11). See Effective and Termination Dates of 2007 Amendment note below.
 
 Subsec. (i). Pub. L. 110–138, §§107(c), 205(a)(2), temporarily added subsec. (i). See Effective and Termination Dates of 2007 Amendment note below.
 
-2005—Subsec. (c)(9), (10). Pub. L. 109–53, §§107(d), 206(a)(1), temporarily added par. (9) and redesignated former par. (9) as (10). See Effective and Termination Dates of 2005 Amendment note below.
+<b>2005</b>—Subsec. (c)(9), (10). Pub. L. 109–53, §§107(d), 206(a)(1), temporarily added par. (9) and redesignated former par. (9) as (10). See Effective and Termination Dates of 2005 Amendment note below.
 
 Subsec. (h). Pub. L. 109–53, §§107(d), 206(a)(2), temporarily added subsec. (h). See Effective and Termination Dates of 2005 Amendment note below.
 
-2004—Subsec. (c)(8), (9). Pub. L. 108–286, §§106(c), 205, temporarily added par. (8) and redesignated former par. (8) as (9). See Effective and Termination Dates of 2004 Amendment note below.
+<b>2004</b>—Subsec. (c)(8), (9). Pub. L. 108–286, §§106(c), 205, temporarily added par. (8) and redesignated former par. (8) as (9). See Effective and Termination Dates of 2004 Amendment note below.
 
-2003—Subsec. (c)(6). Pub. L. 108–77, §§107(c), 205(a)(1)(B), temporarily added par. (6). Former par. (6) redesignated (7). See Effective and Termination Dates of 2003 Amendments note below.
+<b>2003</b>—Subsec. (c)(6). Pub. L. 108–77, §§107(c), 205(a)(1)(B), temporarily added par. (6). Former par. (6) redesignated (7). See Effective and Termination Dates of 2003 Amendments note below.
 
 Subsec. (c)(7). Pub. L. 108–78, §§107(c), 204(2), temporarily added par. (7). Former par. (7) redesignated (8). See Effective and Termination Dates of 2003 Amendments note below.
 
@@ -286,9 +286,9 @@ Subsec. (c)(8). Pub. L. 108–78, §§107(c), 204(1), temporarily redesignated p
 
 Subsec. (g). Pub. L. 108–77, §§107(c), 205(a)(2), temporarily added subsec. (g). See Effective and Termination Dates of 2003 Amendments note below.
 
-1999—Subsec. (c)(4)(A)(i), (B). Pub. L. 106–36 amended Pub. L. 103–182, §621(4)(A). See 1993 Amendment notes below.
+<b>1999</b>—Subsec. (c)(4)(A)(i), (B). Pub. L. 106–36 amended Pub. L. 103–182, §621(4)(A). See 1993 Amendment notes below.
 
-1996—Subsec. (a)(1). Pub. L. 104–295, §3(a)(4)(A), substituted “lawful duty, tax, or fee” for “lawful duty”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–295, §3(a)(4)(A), substituted “lawful duty, tax, or fee” for “lawful duty”.
 
 Subsecs. (b)(1)(A)(vi), (c)(2)(A)(ii), (3)(A)(ii). Pub. L. 104–295, §3(a)(4)(B), substituted “lawful duties, taxes, and fees” for “lawful duties”.
 
@@ -300,13 +300,13 @@ Subsec. (d). Pub. L. 104–295, §21(e)(13), inserted comma after “taxes” in
 
 Pub. L. 104–295, §3(a)(5), substituted “and fees be restored” for “or fees be restored”.
 
-1993—Subsec. (a)(1)(A)(i). Pub. L. 103–182, §621(1), inserted “or electronically transmitted data or information” after “document”.
+<b>1993</b>—Subsec. (a)(1)(A)(i). Pub. L. 103–182, §621(1), inserted “or electronically transmitted data or information” after “document”.
 
 Subsec. (a)(2). Pub. L. 103–182, §621(2), inserted at end “The mere nonintentional repetition by an electronic system of an initial clerical error does not constitute a pattern of negligent conduct.”
 
 Subsec. (b)(1)(A). Pub. L. 103–182, §621(3)(A), substituted “the Customs Service” for “the appropriate customs officer”, “it shall issue” for “he shall issue” and “its intention” for “his intention” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 103–182, §621(3)(B), substituted “the Customs Service shall determine” for “the appropriate customs officer shall determine”, “the Customs Service determines” for “such officer determines” in two places, “it shall” for “he shall” in two places, and “the Customs Service shall provide” for “the appropriate customs officer shall provide”.
+Subsec. (b)(2). Pub. L. 103–182, §621(3)(B), substituted “the Customs Service shall determine” for “the appropriate customs officer shall determine”, “the Customs Service determines” for “such officer determines” intwo places, “it shall” for “he shall” in two places, and “the Customs Service shall provide” for “the appropriate customs officer shall provide”.
 
 Subsec. (c)(4). Pub. L. 103–182, §621(4)(B), inserted at end “For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) of this section existed.”
 
@@ -320,13 +320,13 @@ Subsec. (d). Pub. L. 103–182, §621(5), inserted “, taxes or fees” after 
 
 Subsec. (f). Pub. L. 103–182, §205(c)(2), added subsec. (f).
 
-1986—Subsec. (c)(4)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (c)(4)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1980—Subsec. (e). Pub. L. 96–417 substituted in heading “Court of International Trade” for “District court” and in text “proceeding commenced by the United States in the Court of International Trade” for “proceeding in a United States district court commenced by the United States pursuant to section 1604 of this title”.
+<b>1980</b>—Subsec. (e). Pub. L. 96–417 substituted in heading “Court of International Trade” for “District court” and in text “proceeding commenced by the United States in the Court of International Trade” for “proceeding in a United States district court commenced by the United States pursuant to section 1604 of this title”.
 
-1978—Pub. L. 95–410 substituted subsecs. (a) to (e) relating to penalties for fraud, gross negligence, and negligence for prior provisions which: provided for forfeiture of merchandise, or recovery of value thereof, where entry or attempted entry of the merchandise was made using fraudulent or false invoice, declaration, affidavit, letter, paper, or false statement, written or verbal, false or fraudulent practice or appliance, or false statement in a declaration on entry without reasonable cause to believe the truth of the statement or aided or procured the making any such false statement as to any material matter without reasonable cause to believe the truth of the statement, regardless of deprivation of lawful duties, or guilty of any willful act or omission when there was a deprivation of such duties; made the forfeiture applicable to the whole of the merchandise or the value thereof where package contained the particular articles to which the fraud or false paper or statement related; and defined attempt to enter the merchandise without an actual entry having been made or offered.
+<b>1978</b>—Pub. L. 95–410 substituted subsecs. (a) to (e) relating to penalties for fraud, gross negligence, and negligence for prior provisions which: provided for forfeiture of merchandise, or recovery of value thereof, where entry or attempted entry of the merchandise was made using fraudulent or false invoice, declaration, affidavit, letter, paper, or false statement, written or verbal, false or fraudulent practice or appliance, or false statement in a declaration on entry without reasonable cause to believe the truth of the statement or aided or procured the making any such false statement as to any material matter without reasonable cause to believe the truth of the statement, regardless of deprivation of lawful duties, or guilty of any willful act or omission when there was a deprivation of such duties; made the forfeiture applicable to the whole of the merchandise or the value thereof where package contained the particular articles to which the fraud or false paper or statement related; and defined attempt to enter the merchandise without an actual entry having been made or offered.
 
-1935—Act Aug. 5, 1935, inserted “whether or not the United States shall or may be deprived of the lawful duties, or any portion thereof, accruing upon the merchandise, or any portion thereof, embraced or referred to in such invoice, declaration, affidavit, letter, paper, or statement;”.
+<b>1935</b>—Act Aug. 5, 1935, inserted “whether or not the United States shall or may be deprived of the lawful duties, or any portion thereof, accruing upon the merchandise, or any portion thereof, embraced or referred to in such invoice, declaration, affidavit, letter, paper, or statement;”.
 
 #### Effective and Termination Dates of 2007 Amendment
 

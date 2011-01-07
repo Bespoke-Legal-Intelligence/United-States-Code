@@ -18,7 +18,7 @@ Compliance.—
 
 &emsp;(1)
 
-Actions to gain compliance.—The Secretary may make inspections, hold hearings, issue orders, and make decisions based on findings of fact as the Secretary considers necessary to gain compliance with this section and any health and safety standard the Secretary prescribes under subsection (a). For those purposes the Secretary and the United States district courts have the authority and jurisdiction provided by sections 4 and 5 of the Walsh-Healey Act (41 U.S.C. 38, 39).
+Actions to gain compliance.—The Secretary may make inspections, hold hearings, issue orders, and make decisions based on findings of fact as the Secretary considers necessary to gain compliance with this section and any health and safety standard the Secretary prescribes under subsection (a). For those purposes the Secretary and the United States district courts have the authority and jurisdiction provided by sections 6506 and 6507 of title 41.
 
 &emsp;(2)
 
@@ -86,7 +86,7 @@ Experts and consultants.—The Secretary may appoint special advisory and techni
 
 Compensation and expenses.—Committee members are entitled to receive compensation at rates the Secretary fixes, but not more than $100 a day, including traveltime, when performing Committee business, and expenses under section 5703 of title 5.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1172; Pub. L. 109–284, §6(16), (17), Sept. 27, 2006, 120 Stat. 1213.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1172; Pub. L. 109–284, §6(16), (17), Sept. 27, 2006, 120 Stat. 1213; Pub. L. 111–350, §5(<i>l</i>)(20), Jan. 4, 2011, 124 Stat. 3852.)
 
 Historical and Revision Notes
 
@@ -134,7 +134,9 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a)(1), is Reorg
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–284, §6(16), inserted “of title 5” after “authorized by section 553”.
+<b>2011</b>—Subsec. (b)(1). Pub. L. 111–350 substituted “sections 6506 and 6507 of title 41” for “sections 4 and 5 of the Walsh-Healey Act (41 U.S.C. 38, 39)”.
+
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–284, §6(16), inserted “of title 5” after “authorized by section 553”.
 
 Subsec. (a)(2). Pub. L. 109–284, §6(17), struck out “of this section” after “subsection (d)”.
 

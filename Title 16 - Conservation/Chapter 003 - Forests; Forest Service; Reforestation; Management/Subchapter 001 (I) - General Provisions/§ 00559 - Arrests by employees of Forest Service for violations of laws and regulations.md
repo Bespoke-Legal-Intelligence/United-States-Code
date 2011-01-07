@@ -14,7 +14,7 @@ That part of act Mar. 3, 1905, which related to arrests by employees of the Nati
 
 #### Amendments
 
-1976—Pub. L. 91–383, §10(a)(2), as added Pub. L. 94–458, struck out “and national parks” after “national forests” and “or national park” after “jurisdiction the forest”.
+<b>1976</b>—Pub. L. 91–383, §10(a)(2), as added Pub. L. 94–458, struck out “and national parks” after “national forests” and “or national park” after “jurisdiction the forest”.
 
 #### Change of Name
 

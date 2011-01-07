@@ -15,7 +15,7 @@
 
 #### Amendments
 
-2008—Pub. L. 110–252, title V, §5006(e)(3), June 30, 2008, 122 Stat. 2386, added item 16163a.
+<b>2008</b>—Pub. L. 110–252, title V, §5006(e)(3), June 30, 2008, 122 Stat. 2386, added item 16163a.
 
 Pub. L. 110–181, div. A, title V, §528(b)(2), Jan. 28, 2008, 122 Stat. 109, added item 16162a.
 

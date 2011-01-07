@@ -6,7 +6,7 @@ The Secretary of the Interior be, and he is hereby, authorized, in his discretio
 
 #### Amendments
 
-1992—Pub. L. 102–575 inserted before period at end “: <i>Provided further</i>, That concessions for recreation and fish and wildlife purposes on San Carlos Lake may be granted only by the governing body of the San Carlos Apache Tribe upon such conditions and subject to such limitations as may be set forth in the constitution and bylaws of such Tribe”.
+<b>1992</b>—Pub. L. 102–575 inserted before period at end “: <i>Provided further</i>, That concessions for recreation and fish and wildlife purposes on San Carlos Lake may be granted only by the governing body of the San Carlos Apache Tribe upon such conditions and subject to such limitations as may be set forth in the constitution and bylaws of such Tribe”.
 
 #### Effective and Termination Dates of 1992 Amendment
 
@@ -50,5 +50,5 @@ In general.—The amendment made by subsection (a) \[amending section 3711 of Pu
 
 \[“(2)
 
-Lapsed provisions of law and contracts.—The provisions of subsections (c) and (d) of section 3704 \[106Stat. 4743\], subsections (a) and (b) of section 3705 \[106 Stat. 4744\], section 3706 \[106 Stat. 4745\], subsections (a)(2), (c), (d), and (f) of section 3707 \[106 Stat. 4747\], subsections (b) and (c) of section 3708 \[106 Stat. 4748\], and subsections (a), (b), (c), (d), (e), (g), (h), (j), and (<i>l</i>) of section 3710 of such Act \[106 Stat. 4750, subsec. (e) amends this section\], together with each contract entered into pursuant to any such section or subsection (with the consent of the non-Federal parties thereto), shall be effective on and after the date of enactment of this Act \[Jan. 6, 1996\], subject to the December 31, 1996, deadline specified in such section 3711(b)(1), as amended by subsection (a) of this section \[section 3711(b)(1) of Pub. L. 102–575, set out above\].”\]
+Lapsed provisions of law and contracts.—The provisions of subsections (c) and (d) of section 3704 \[106 Stat. 4743\], subsections (a) and (b) of section 3705 \[106 Stat. 4744\], section 3706 \[106 Stat. 4745\], subsections (a)(2), (c), (d), and (f) of section 3707 \[106 Stat. 4747\], subsections (b) and (c) of section 3708 \[106 Stat. 4748\], and subsections (a), (b), (c), (d), (e), (g), (h), (j), and (<i>l</i>) of section 3710 of such Act \[106 Stat. 4750, subsec. (e) amends this section\], together with each contract entered into pursuant to any such section or subsection (with the consent of the non-Federal parties thereto), shall be effective on and after the date of enactment of this Act \[Jan. 6, 1996\], subject to the December 31, 1996, deadline specified in such section 3711(b)(1), as amended by subsection (a) of this section \[section 3711(b)(1) of Pub. L. 102–575, set out above\].”\]
 

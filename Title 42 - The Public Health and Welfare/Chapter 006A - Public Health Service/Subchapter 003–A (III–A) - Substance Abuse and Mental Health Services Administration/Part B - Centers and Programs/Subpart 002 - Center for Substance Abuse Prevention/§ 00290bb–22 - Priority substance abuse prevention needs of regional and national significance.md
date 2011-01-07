@@ -38,7 +38,7 @@ The Secretary shall address priority substance abuse prevention needs of regiona
 
 #### (3) Matching funds
 
-&emsp;The Secretary may, for projects carried out under subsection (a) of this section, require that entities that apply for grants, contracts, or cooperative agreements under that project provide non-Federal matching funds, as determined appropriate by the Secretary, to ensure the institutional commitment of the entity to the projects funded under the grant, contract, or cooperative agreement. Such non-Federal matching funds may be provided directly or through donations from public or private entities and may be in cash or in kind, fairly evaluated, including plant, equipment, or services.
+&emsp;The Secretary may, for projects carried out under subsection (a) of this section, require that entities that apply for grants, contracts, or cooperative agreements under that project provide non-Federal matching funds, as determined appropriate by the Secretary, to ensure the institutional commitment of the entity to the projects funded under the grant, contract,or cooperative agreement. Such non-Federal matching funds may be provided directly or through donations from public or private entities and may be in cash or in kind, fairly evaluated, including plant, equipment, or services.
 
 #### (4) Maintenance of effort
 
@@ -68,9 +68,9 @@ A prior section 516 of act July 1, 1944, was classified to section 290cc–1 of 
 
 #### Amendments
 
-2000—Pub. L. 106–310 amended section catchline and text generally, substituting provisions relating to priority substance abuse prevention needs of regional and national significance for provisions relating to community programs.
+<b>2000</b>—Pub. L. 106–310 amended section catchline and text generally, substituting provisions relating to priority substance abuse prevention needs of regional and national significance for provisions relating to community programs.
 
-1992—Pub. L. 102–321, §113(f)(4), amended section generally, substituting provisions relating to community programs for provisions relating to alcohol and drug abuse information clearinghouse.
+<b>1992</b>—Pub. L. 102–321, §113(f)(4), amended section generally, substituting provisions relating to community programs for provisions relating to alcohol and drug abuse information clearinghouse.
 
 #### Effective Date of 1992 Amendment
 

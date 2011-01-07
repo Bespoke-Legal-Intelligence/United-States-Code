@@ -190,7 +190,7 @@ Section 1110(e) of the Transportation Equity Act for the 21st Century, referred 
 
 #### Amendments
 
-2005—Subsec. (b). Pub. L. 109–59, §1808(a), inserted “or is required to prepare, and file with the Administrator of the Environmental Protection Agency, maintenance plans under the Clean Air Act (42 U.S.C. 7401 et seq.)” after “1997,” in introductory provisions.
+<b>2005</b>—Subsec. (b). Pub. L. 109–59, §1808(a), inserted “or is required to prepare, and file with the Administrator of the Environmental Protection Agency, maintenance plans under the Clean Air Act (42 U.S.C. 7401 et seq.)” after “1997,” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 109–59, §1808(b)(1), added par. (1) and struck out former par. (1) which read as follows:
 
@@ -214,7 +214,7 @@ Subsec. (c)(2). Pub. L. 109–59, §1808(c)(2), substituted “for any project i
 
 Subsecs. (f) to (h). Pub. L. 109–59, §1808(d)–(f), added subsecs. (f) to (h).
 
-1998—Subsec. (a). Pub. L. 105–178, §1110(a), substituted “shall establish and implement” for “shall establish”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §1110(a), substituted “shall establish and implement” for “shall establish”.
 
 Subsec. (b). Pub. L. 105–178, §1110(b)(1), in introductory provisions, substituted “that is or was designated as a nonattainment area for ozone, carbon monoxide, or particulate matter under section 107(d) of the Clean Air Act (42 U.S.C. 7407(d)) and classified pursuant to section 181(a), 186(a), 188(a), or 188(b) of the Clean Air Act (42 U.S.C. 7511(a), 7512(a), 7513(a), or 7513(b)) or is or was designated as a nonattainment area under such section 107(d) after December 31, 1997,” for “that was designated as a nonattainment area under section 107(d) of the Clean Air Act (42 U.S.C. 7407(d)) during any part of fiscal year 1994”.
 
@@ -228,7 +228,7 @@ Subsec. (c). Pub. L. 105–178, §1110(c), added subsec. (c) and struck out head
 
 Subsec. (e). Pub. L. 105–178, §1110(d)(1), added subsec. (e).
 
-1995—Subsec. (b). Pub. L. 104–59, §319(a)(1)(A), in introductory provisions, inserted “if the project or program is for an area in the State that was designated as a nonattainment area under section 107(d) of the Clean Air Act (42 U.S.C. 7407(d)) during any part of fiscal year 1994 and” after “project or program”.
+<b>1995</b>—Subsec. (b). Pub. L. 104–59, §319(a)(1)(A), in introductory provisions, inserted “if the project or program is for an area in the State that was designated as a nonattainment area under section 107(d) of the Clean Air Act (42 U.S.C. 7407(d)) during any part of fiscal year 1994 and” after “project or program”.
 
 Subsec. (b)(1)(A). Pub. L. 104–59, §319(a)(1)(B), substituted “contribute to—” and cls. (i) and (ii) for “contribute to the attainment of a national ambient air quality standard; or”.
 
@@ -242,9 +242,9 @@ Subsec. (b)(4). Pub. L. 104–88, §405(b)(2), substituted a period for “; or
 
 Pub. L. 104–59, §319(b)(3), as amended by Pub. L. 104–88, §405(a)(2), added par. (4).
 
-1992—Subsec. (b). Pub. L. 102–388 inserted at end “In areas of a State which are nonattainment for ozone or carbon monoxide, or both, and for PM–10 resulting from transportation activities, the State may obligate such funds for any project or program under paragraph (1) or (2) without regard to any limitation of the Department of Transportation relating to the type of ambient air quality standard such project or program addresses.”
+<b>1992</b>—Subsec. (b). Pub. L. 102–388 inserted at end “In areas of a State which are nonattainment for ozone or carbon monoxide, or both, and for PM–10 resulting from transportation activities, the State may obligate such funds for any project or program under paragraph (1) or (2) without regard to any limitation of the Department of Transportation relating to the type of ambient air quality standard such project or program addresses.”
 
-1991—Pub. L. 102–240 substituted section catchline for one which read: “Truck lanes” and amended text generally. Prior to amendment, text read as follows: “The Secretary may approve as a project on any Federal-aid system the construction of exclusive or preferential truck lanes.”
+<b>1991</b>—Pub. L. 102–240 substituted section catchline for one which read: “Truck lanes” and amended text generally. Prior to amendment, text read as follows: “The Secretary may approve as a project on any Federal-aid system the construction of exclusive or preferential truck lanes.”
 
 #### Effective Date of 1995 Amendment
 
@@ -266,7 +266,7 @@ Pub. L. 105–178, title I, §1110(e), June 9, 1998, 112 Stat. 144, provided tha
 
 “(1)
 
-In general.—The Secretary and the Administrator of the Environmental Protection Agency shall enter into arrangements with the National Academy of Sciences to complete, by not later than January 1, 2001, a study of the congestion mitigation and air qualityimprovement program under section 149 of title 23, United States Code. The study shall, at a minimum—
+In general.—The Secretary and the Administrator of the Environmental Protection Agency shall enter into arrangements with the National Academy of Sciences to complete, by not later than January 1, 2001, a study of the congestion mitigation and air quality improvement program under section 149 of title 23, United States Code. The study shall, at a minimum—
 
 &emsp;“(A) evaluate the air quality impacts of emissions from motor vehicles;
 
@@ -338,7 +338,7 @@ In general.—There are authorized to be appropriated to the Secretary from the 
 
 &emsp;“(B)
 
-Set-aside for projects not involving highway tolls.—Of the amounts made available to carry out this subsection, $3,000,000 for each of fiscal years 2006 through 2009 shall be available only for congestion pricing pilot projects that do not involve highway tolls.
+Set-aside for projects not involving highway tolls.—Of the amounts made available to carry out this subsection, $3,000,000 for each of fiscal years2006 through 2009 shall be available only for congestion pricing pilot projects that do not involve highway tolls.
 
 &emsp;“(C)
 

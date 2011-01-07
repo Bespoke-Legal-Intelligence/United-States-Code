@@ -32,7 +32,7 @@ For purposes of this section, the term “rare disease” means any disease or c
 
 #### Amendments
 
-2007—Subsec. (b)(1)(F), (G). Pub. L. 109–482, §104(b)(1)(B), struck out subpars. (F) and (G) which read as follows:
+<b>2007</b>—Subsec. (b)(1)(F), (G). Pub. L. 109–482, §104(b)(1)(B), struck out subpars. (F) and (G) which read as follows:
 
 “(F) The Director shall biennially prepare a report that describes the research and education activities on rare diseases being conducted or supported through the national research institutes and centers, and that identifies particular projects or types of projects that should in the future be conducted or supported by the national research institutes and centers or other entities in the field of research on rare diseases.
 
@@ -60,7 +60,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(4) The Orphan Drug Act \[Pub. L. 97–414, see Short Title of 1983 Amendments note set out under section 301 of Title 21, Food and Drugs\] created financial incentives for the research and production of such orphan drugs. New Federal programs at the National Institutes of Health and the Food and Drug Administration encouraged clinical research and commercial product development for products that target rare diseases. An Orphan Products Board was established to promote the development of drugs and devices for rare diseases or disorders.
 
-&emsp;“(5) Before 1983, some 38 orphan drugs had been developed. Since the enactment of the Orphan Drug Act \[Jan. 4, 1983\], more than 220 new orphan drugs have been approved and marketed in the United States and more than 800 additional drugs are in the research pipeline.
+&emsp;“(5) Before 1983, some 38 orphan drugs had been developed. Since the enactment of the Orphan Drug Act\[Jan. 4, 1983\], more than 220 new orphan drugs have been approved and marketed in the United States and more than 800 additional drugs are in the research pipeline.
 
 &emsp;“(6) Despite the tremendous success of the Orphan Drug Act, rare diseases and disorders deserve greater emphasis in the national biomedical research enterprise. The Office of Rare Diseases at the National Institutes of Health was created in 1993, but lacks a statutory authorization.
 

@@ -4,7 +4,7 @@
 
 In General.—A railroad carrier engaged in interstate or foreign commerce, a contractor or a subcontractor of such a railroad carrier, or an officer or employee of such a railroad carrier, may not discharge, demote, suspend, reprimand, or in any other way discriminate against an employee if such discrimination is due, in whole or in part, to the employee's lawful, good faith act done, or perceived by the employer to have been done or about to be done—
 
-&emsp;(1) to provide information, directly cause information to be provided, or otherwise directly assist in any investigation regarding any conduct which the employee reasonably believes constitutes a violation of any Federal law, rule, or regulation relating to railroad safety or security, or gross fraud, waste, or abuse of Federal grants or other public funds intended to be used for railroad safety or security, if the information or assistance is provided to or an investigation stemming from the provided information is conducted by—
+&emsp;(1) to provide information, directly cause information to be provided, or otherwise directly assist in any investigation regarding any conduct which the employee reasonably believes constitutes a violation of any Federal law, rule, or regulation relating to railroad safety or security, or gross fraud, waste, or abuse of Federal grants or other public fundsintended to be used for railroad safety or security, if the information or assistance is provided to or an investigation stemming from the provided information is conducted by—
 
 &emsp;&emsp;(A) a Federal, State, or local regulatory or law enforcement agency (including an office of the Inspector General under the Inspector General Act of 1978 (5 U.S.C. App.; Public Law 95–452);
 
@@ -44,7 +44,7 @@ Hazardous Safety or Security Conditions.—(1) A railroad carrier engaged in int
 
 &emsp;&emsp;(ii) the urgency of the situation does not allow sufficient time to eliminate the danger without such refusal; and
 
-&emsp;(C) the employee, where possible, has notified the railroad carrier of the existence of thehazardous condition and the intention not to perform further work, or not to authorize the use of the hazardous equipment, track, or structures, unless the condition is corrected immediately or the equipment, track, or structures are repaired properly or replaced.
+&emsp;(C) the employee, where possible, has notified the railroad carrier of the existence of the hazardous condition and the intention not to perform further work, or not to authorize the use of the hazardous equipment, track, or structures, unless the condition is corrected immediately or the equipment, track, or structures are repaired properly or replaced.
 
 (3) In this subsection, only paragraph (1)(A) shall apply to security personnel employed by a railroad carrier to protect individuals and property transported by railroad.
 
@@ -78,7 +78,7 @@ In general.—Any action under paragraph (1) shall be governed under the rules a
 
 &emsp;&emsp;&emsp;(i)
 
-Burdens of proof.—Any action brought under (d)(1) <sup>1</sup> shall be governed by the legal burdens of proof set forth in section 42121(b).
+Burdens of proof.—Any action brought under (d)(1) <sup>1</sup> shall be governed bythe legal burdens of proof set forth in section 42121(b).
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -230,7 +230,7 @@ The Inspector General Act of 1978, referred to in subsec. (a)(1)(A), is Pub. L. 
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–432, §419(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
+<b>2008</b>—Subsec. (c). Pub. L. 110–432, §419(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 110–432, §419(a)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
@@ -250,7 +250,7 @@ Subsec. (e)(3). Pub. L. 110–432, §419(b)(2)(D), substituted “(d)” for “
 
 Subsecs. (f) to (j). Pub. L. 110–432, §419(a)(1), redesignated subsecs. (e) to (i) as (f) to (j), respectively.
 
-2007—Pub. L. 110–53 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to prohibition against discharge or discrimination for filing of complaints or testifying, prohibition against discharge or discrimination for refusal to work because of hazardous conditions, dispute resolution, election of remedies, and nondisclosure of identity of employee who had provided information regarding a violation.
+<b>2007</b>—Pub. L. 110–53 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to prohibition against discharge or discrimination for filing of complaints or testifying, prohibition against discharge or discrimination for refusal to work because of hazardous conditions, dispute resolution, election of remedies, and nondisclosure of identity of employee who had provided information regarding a violation.
 
 #### Critical Incident Stress Plan
 

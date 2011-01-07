@@ -2,7 +2,7 @@
 
 #### (a) Application requirements; contents; restrictions
 
-(1) Except as provided in paragraph (3) of this section,<sup>1</sup> any person may file with the Secretary an application for conditional approval of a new animal drug intended for a minor use or a minor species. Such an application may not be a supplement to an application approved under section 360b of this title. Such application must comply in all respects with the provisions of section 360b of this title except sections 360b(a)(4), 360b(b)(2), 360b(c)(1), 360b(c)(2), 360b(c)(3), 360b(d)(1), 360b(e), 360b(h), and 360b(n) of this title unless otherwise stated in this section, and any additional provisions of this section. New animal drugs are subject to application of the same safety standards that would be applied to such drugs under section 360b(d) of this title (including, for antimicrobial new animal drugs, with respect to antimicrobial resistance).
+(1) Except as provided in paragraph (3) of this section,<sup>1</sup> any person may file with the Secretary an application for conditional approval of a new animal drug intended for a minor use or a minor species. Such an application may not be a supplement to an application approved under section 360b of this title. Such application must comply in all respects with the provisions of section 360b of this title except sections 360b(a)(4), 360b(b)(2), 360b(c)(1), 360b(c)(2), 360b(c)(3), 360b(d)(1), 360b(e), 360b(h), and 360b(n) of this title unless otherwise stated in this section, and any additional provisions of this section. New animal drugs are subject to application of thesame safety standards that would be applied to such drugs under section 360b(d) of this title (including, for antimicrobial new animal drugs, with respect to antimicrobial resistance).
 
 (2) The applicant shall submit to the Secretary as part of an application for the conditional approval of a new animal drug—
 
@@ -50,7 +50,7 @@ If the Secretary finds, after giving the applicant notice and an opportunity for
 
 A conditional approval under this section is effective for a 1-year period and is thereafter renewable by the Secretary annually for up to 4 additional 1-year terms. A conditional approval shall be in effect for no more than 5 years from the date of approval under subsection (b)(1) or (c) of this section unless extended as provided for in subsection (h) of this section. The following shall also apply:
 
-&emsp;(1) No later than 90 days from the end of the 1-year period for which the original or renewedconditional approval is effective, the applicant may submit a request to renew a conditional approval for an additional 1-year term.
+&emsp;(1) No later than 90 days from the end of the 1-year period for which the original or renewed conditional approval is effective, the applicant may submit a request to renew a conditional approval for an additional 1-year term.
 
 &emsp;(2) A conditional approval shall be deemed renewed at the end of the 1-year period, or at the end of a 90-day extension that the Secretary may, at the Secretary's discretion, grant by letter in order to complete review of the renewal request, unless the Secretary determines before the expiration of the 1-year period or the 90-day extension that—
 
@@ -60,7 +60,7 @@ A conditional approval under this section is effective for a 1-year period and i
 
 &emsp;&emsp;&emsp;(i) the applicant is making sufficient progress toward meeting approval requirements under section 360b(d)(1)(E) of this title, and is likely to be able to fulfill those requirements and obtain an approval under section 360b of this title before the expiration of the 5-year maximum term of the conditional approval;
 
-&emsp;&emsp;&emsp;(ii) the quantity of the drug that has been distributed is consistent with the conditionally approved intended use and conditions of use, unless there is adequate explanation that ensures that the drug is only used for its intended purpose; or
+&emsp;&emsp;&emsp;(ii) the quantity of the drug that has been distributed is consistent with theconditionally approved intended use and conditions of use, unless there is adequate explanation that ensures that the drug is only used for its intended purpose; or
 
 &emsp;&emsp;&emsp;(iii) the same drug in the same dosage form for the same intended use has not received approval under section 360b of this title, or if such a drug has been approved, that the holder of the approved application is unable to assure the availability of sufficient quantities of the drug to meet the needs for which the drug is intended; or
 
@@ -102,7 +102,7 @@ A conditionally approved new animal drug application may not be amended or suppl
 
 &emsp;(2) give the applicant an opportunity for a hearing before the Secretary under section 360b(d) of this title on the question whether such application can be approved.
 
-> Upon issuance of an order approving the application, product labeling and administrative records of approval shall be modified accordingly. If the Secretary has not issued an order under section 360b(c) of this title approving such application prior to the termination date established under subsection (d) of this section, the conditional approval issued under this section is no longer in effect unless the Secretary grants an extension of an additional 180-day period so that the Secretary can complete review of the application. The decision to grant an extensionis committed to the discretion of the Secretary and not subject to judicial review.
+> Upon issuance of an order approving the application, product labeling and administrative records of approval shall be modified accordingly. If the Secretary has not issued an order under section 360b(c) of this title approving such application prior to the termination date established under subsection (d) of this section, the conditional approval issued under this section is no longer in effect unless the Secretary grants an extension of an additional 180-day period so that the Secretary can complete review of the application. The decision to grant an extension is committed to the discretion of the Secretary and not subject to judicial review.
 
 #### (i) Judicial review
 

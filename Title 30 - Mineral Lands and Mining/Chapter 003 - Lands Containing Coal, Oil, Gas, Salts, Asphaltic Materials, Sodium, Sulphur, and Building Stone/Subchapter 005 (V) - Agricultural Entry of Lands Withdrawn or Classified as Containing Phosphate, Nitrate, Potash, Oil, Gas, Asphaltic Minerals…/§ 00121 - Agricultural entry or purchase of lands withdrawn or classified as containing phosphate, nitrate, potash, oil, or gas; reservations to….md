@@ -6,7 +6,7 @@ Lands withdrawn or classified as phosphate, nitrate, potash, oil, gas, or asphal
 
 #### Amendments
 
-1955—Act June 16, 1955, removed 160-acre limitation on desert entry.
+<b>1955</b>—Act June 16, 1955, removed 160-acre limitation on desert entry.
 
 #### Additional Desert-Land Entry
 

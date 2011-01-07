@@ -20,7 +20,7 @@ Amendment.—At least once every 7 years, the Secretary shall conduct an evaluat
 
 (4)(A) With respect to small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks to which standards are applicable under section 6313 of this title, the test procedures shall be those generally accepted industry testing procedures or rating procedures developed or recognized by the Air-Conditioning and Refrigeration Institute or by the American Society of Heating, Refrigerating and Air Conditioning Engineers, as referenced in ASHRAE/IES Standard 90.1 and in effect on June 30, 1992.
 
-(B) If such an industry test procedure or rating procedure for small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, or unfired hot water storage tanks is amended, the Secretary shall amend the test procedure for the product as necessary to be consistent with the amended industry test procedure or rating procedure unless the Secretary determines, by rule, published in the Federal Register and supported by clear and convincingevidence, that to do so would not meet the requirements for test procedures described in paragraphs (2) and (3) of this subsection.
+(B) If such an industry test procedure or rating procedure for small commercial package airconditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, or unfired hot water storage tanks is amended, the Secretary shall amend the test procedure for the product as necessary to be consistent with the amended industry test procedure or rating procedure unless the Secretary determines, by rule, published in the Federal Register and supported by clear and convincing evidence, that to do so would not meet the requirements for test procedures described in paragraphs (2) and (3) of this subsection.
 
 (C) If the Secretary prescribes a rule containing such a determination, the rule may establish an amended test procedure for such product that meets the requirements of paragraphs (2) and (3) of this subsection. In establishing any amended test procedure under this subparagraph or subparagraph (B), the Secretary shall follow the procedures and meet the requirements specified in section 6293(e) of this title.
 
@@ -38,7 +38,7 @@ Amendment.—At least once every 7 years, the Secretary shall conduct an evaluat
 
 (ii) In the case of self-contained refrigerators, freezers, and refrigerator-freezers to which standards are applicable under paragraphs (2) and (3) of section 6313(c) of this title, the initial test procedures shall be the ASHRAE 117 test procedure that is in effect on January 1, 2005.
 
-(B)(i) <sup>2</sup> In the case of commercial refrigerators, freezers, and refrigerator-freezers with doors covered by the standards adopted in February 2002, by the California Energy Commission, the rating temperatures shall be the integrated average temperature of 38 degrees F (G6�1B 2 degrees F) for refrigerator compartments and 0 degrees F (G6�1B 2 degrees F) for freezer compartments.
+(B)(i) <sup>2</sup> In the case of commercial refrigerators, freezers, and refrigerator-freezers with doors covered by the standards adopted in February 2002, by the California Energy Commission, the rating temperatures shall be the integrated average temperature of 38 degrees F (± 2 degrees F) for refrigerator compartments and 0 degrees F (± 2 degrees F) for freezer compartments.
 
 (C) The Secretary shall issue a rule in accordance with paragraphs (2) and (3) to establish the appropriate rating temperatures for the other products for which standards will be established under section 6313(c)(4) of this title.
 
@@ -132,17 +132,17 @@ The Secretary may direct the National Institute of Standards and Technology to p
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–140, §302(b), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “The Secretary may conduct an evaluation of a class of covered equipment and may prescribe test procedures for such class in accordance with the provisions of this section.”
+<b>2007</b>—Subsec. (a). Pub. L. 110–140, §302(b), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “The Secretary may conduct an evaluation of a class of covered equipment and may prescribe test procedures for such class in accordance with the provisions of this section.”
 
 Subsec. (a)(9). Pub. L. 110–140, §312(c), added par. (9).
 
-2005—Subsec. (a)(4)(A), (B). Pub. L. 109–58, §136(f)(1)(A), inserted “very large commercial package air conditioning and heating equipment,” after “large commercial package air conditioning and heating equipment,”.
+<b>2005</b>—Subsec. (a)(4)(A), (B). Pub. L. 109–58, §136(f)(1)(A), inserted “very large commercial package air conditioning and heating equipment,” after “large commercial package air conditioning and heating equipment,”.
 
 Subsec. (a)(6) to (8). Pub. L. 109–58, §136(f)(1)(B), added pars. (6) to (8).
 
-Subsec. (d)(1). Pub. L. 109–58, §136(f)(2), inserted “very large commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers,” after “large commercial package air conditioning and heating equipment,” in introductory provisions.
+Subsec. (d)(1). Pub. L. 109–58, §136(f)(2), inserted “very large commercial package air conditioning and heatingequipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers,” after “large commercial package air conditioning and heating equipment,” in introductory provisions.
 
-1992—Subsec. (a)(1). Pub. L. 102–486, §122(b)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “If the Secretary has conducted an evaluation of a class of covered equipment under section 6313 of this title, he may prescribe test procedures for such class in accordance with the following provisions of this section.”
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–486, §122(b)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “If the Secretary has conducted an evaluation of a class of covered equipment under section 6313 of this title, he may prescribe test procedures for such class in accordance with the following provisions of this section.”
 
 Subsec. (a)(4), (5). Pub. L. 102–486, §122(b)(1)(B), added pars. (4) and (5).
 
@@ -150,7 +150,7 @@ Subsecs. (c), (d). Pub. L. 102–486, §122(f)(2), redesignated subsec. (d), rel
 
 Subsec. (d)(1). Pub. L. 102–486, §122(b)(2), inserted “(or, in the case of small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks, 360 days)” after “180 days”.
 
-1988—Subsec. (e). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+<b>1988</b>—Subsec. (e). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
 #### Effective Date of 2007 Amendment
 

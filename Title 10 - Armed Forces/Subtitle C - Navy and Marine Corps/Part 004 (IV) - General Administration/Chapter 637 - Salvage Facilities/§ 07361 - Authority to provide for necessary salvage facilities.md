@@ -10,7 +10,7 @@ Coordination With Secretary of Homeland Security.—The Secretary shall submit t
 
 (c)
 
-Limitation.—The Secretary of the Navy may enter into a term contract under subsection\(a) only if the Secretary determines that available commercial salvage facilities are inadequate to meet the requirements of national defense.
+Limitation.—The Secretary of the Navy may enter into a term contract under subsection (a) only if the Secretary determines that available commercial salvage facilities are inadequate to meet the requirements of national defense.
 
 (d)
 
@@ -28,9 +28,9 @@ A prior section 7361, acts Aug. 10, 1956, ch. 1041, 70A Stat. 455; Aug. 6, 1981,
 
 #### Amendments
 
-2003—Subsec. (e). Pub. L. 108–136 added subsec. (e).
+<b>2003</b>—Subsec. (e). Pub. L. 108–136 added subsec. (e).
 
-2002—Subsec. (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in heading and in two places in text.
+<b>2002</b>—Subsec. (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in heading and in two places in text.
 
 #### Effective Date of 2002 Amendment
 

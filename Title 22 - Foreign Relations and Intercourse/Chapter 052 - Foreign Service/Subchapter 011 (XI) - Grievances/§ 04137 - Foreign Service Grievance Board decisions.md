@@ -60,9 +60,9 @@ The Board shall, with respect to any grievance based on an alleged violation of 
 
 #### Amendments
 
-1991—Subsec. (f). Pub. L. 102–138 added subsec. (f).
+<b>1991</b>—Subsec. (f). Pub. L. 102–138 added subsec. (f).
 
-1987—Subsec. (d). Pub. L. 100–204, §181(a), (b), designated existing provisions as par. (1), inserted “, tenure” after “promotion” in first sentence, and added pars. (2) and (3).
+<b>1987</b>—Subsec. (d). Pub. L. 100–204, §181(a), (b), designated existing provisions as par. (1), inserted “, tenure” after “promotion” in first sentence, and added pars. (2) and (3).
 
 Subsec. (e). Pub. L. 100–204, §182, added subsec. (e).
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 102–138 not applicable with respect to any grievance, wit
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–204 not applicable with respect to any grievance in which the Board has issued a final decision pursuant to this section before Dec. 22,1987, see section 181(e) of Pub. L. 100–204, set out as a note under section 3946 of this title.
+Amendment by Pub. L. 100–204 not applicable with respect to any grievance in which the Board has issued a final decision pursuant to this section before Dec. 22, 1987, see section 181(e) of Pub. L. 100–204, set out as a note under section 3946 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

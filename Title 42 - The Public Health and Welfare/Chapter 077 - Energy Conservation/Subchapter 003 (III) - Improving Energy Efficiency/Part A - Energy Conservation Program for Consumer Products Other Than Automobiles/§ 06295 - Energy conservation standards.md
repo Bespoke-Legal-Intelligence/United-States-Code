@@ -108,7 +108,7 @@ Amended standards.—The final rule shall contain any amended standards.
 
 &emsp;(B) Single Package Systems: 6.6 for products manufactured on or after January 1, 1993.
 
-(3)(A) The Secretary shall publish a final rule no later than January 1, 1994, to determine whether the standards established under paragraph (1) should be amended. Such rule shallcontain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 1999. The Secretary shall publish a final rule no later than January 1, 1994, to determine whether the standards established under paragraph (2) shall be amended. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 2002.
+(3)(A) The Secretary shall publish a final rule no later than January 1, 1994, to determine whether the standards established under paragraph (1) should be amended. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 1999. The Secretary shall publish a final rule no later than January 1, 1994, to determine whether the standards established under paragraph (2) shall be amended. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 2002.
 
 (B) The Secretary shall publish a final rule after January 1, 1994, and no later than January 1, 2001, to determine whether the standards in effect for central air conditioners and central air conditioning heat pumps should be amended. Such rule shall provide that any amendment shall apply to products manufactured on or after January 1, 2006.
 
@@ -279,7 +279,7 @@ Exception.—A boiler that is manufactured to operate without any need for elect
 | two F96T12HO lamps | 120 | 220 | 0\.390 |
 | &nbsp; | 277 | 220 | 0\.390 |
 
-(6) The standards described in paragraph (5) do not apply to (A) a ballast which is designed for dimming or for use in ambient temperatures of 0° F or less, or (B) a ballast which has a powerfactor of less than 0.90 and is designed and labeled for use only in residential building applications.
+(6) The standards described in paragraph (5) do not apply to (A) a ballast which is designed for dimming or for use in ambient temperatures of 0° F or less, or (B) a ballast which has a power factor of less than 0.90 and is designed and labeled for use only in residential building applications.
 
 (7)(A) The Secretary shall publish a final rule no later than January 1, 1992, to determine if the standards established under paragraph (5) should be amended, including whether such standards should be amended so that they would be applicable to ballasts described in paragraph (6) and other fluorescent lamp ballasts. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 1995.
 
@@ -394,7 +394,7 @@ Standards.—
 
 &emsp;(A)
 
-Definition of effective date.—In this paragraph (other than subparagraph (D)), theterm “effective date” means, with respect to each type of lamp specified in a table contained in subparagraph (B), the last day of the period of months corresponding to that type of lamp (as specified in the table) that follows October 24, 1992.
+Definition of effective date.—In this paragraph (other than subparagraph (D)), the term “effective date” means, with respect to each type of lamp specified in a table contained in subparagraph (B), the last day of the period of months corresponding to that type of lamp (as specified in the table) that follows October 24, 1992.
 
 &emsp;(B)
 
@@ -404,14 +404,14 @@ FLUORESCENT LAMPS
 
 | Lamp Type | Nominal Lamp Wattage | Minimum CRI | Minimum Average Lamp Efficacy (LPW) | Effective Date (Period of Months) |
 | :--- | :---: | :---: | :---: | ---: |
-| 4-foot medium bi-pin | G6\>35 W | 69 | 75\.0 | 36 |
-|  | g806�35 W | 45 | 75\.0 | 36 |
-| 2-foot U-shaped | G6\>35 W | 69 | 68\.0 | 36 |
-|  | g806�35 W | 45 | 64\.0 | 36 |
+| 4-foot medium bi-pin | \>35 W | 69 | 75\.0 | 36 |
+|  | ≤35 W | 45 | 75\.0 | 36 |
+| 2-foot U-shaped | \>35 W | 69 | 68\.0 | 36 |
+|  | ≤35 W | 45 | 64\.0 | 36 |
 | 8-foot slimline | 65 W | 69 | 80\.0 | 18 |
-|  | g806�65 W | 45 | 80\.0 | 18 |
-| 8-foot high output | G6\>100 W | 69 | 80\.0 | 18 |
-|  | g806�100 W | 45 | 80\.0 | 18 |
+|  | ≤65 W | 45 | 80\.0 | 18 |
+| 8-foot high output | \>100 W | 69 | 80\.0 | 18 |
+|  | ≤100 W | 45 | 80\.0 | 18 |
 
 INCANDESCENT REFLECTOR LAMPS
 
@@ -540,7 +540,7 @@ Phased-in effective dates.—The Secretary shall consider phased-in effective da
 
 #### (j) Standards for showerheads and faucets
 
-(1) The maximum water use allowed for any showerhead manufactured after January 1, 1994, is 2.5 gallons per minute when measured at a flowing water pressure of 80 pounds per square inch. Any such showerhead shall also meet therequirements of ASME/ANSI A112.18.1M–1989, 7.4.3(a).
+(1) The maximum water use allowed for any showerhead manufactured after January 1, 1994, is 2.5 gallons per minute when measured at a flowing water pressure of 80 pounds per square inch. Any such showerhead shall also meet the requirements of ASME/ANSI A112.18.1M–1989, 7.4.3(a).
 
 (2) The maximum water use allowed for any of the following faucets manufactured after January 1, 1994, when measured at a flowing water pressure of 80 pounds per square inch, is as follows:
 
@@ -576,7 +576,7 @@ Phased-in effective dates.—The Secretary shall consider phased-in effective da
 
 &emsp;(II) is applicable to any sale or installation of all products in such type or class of showerhead or faucet.
 
-(C) If, after any period of five consecutive years, the maximum flow rate requirements of the ASME/ANSI standard for showerheads are not amended to improve the efficiency of water use of such products, or after any such period such requirements for faucets are not amended to improve the efficiency of water use of such products, the Secretary shall, not later than six months after the end of such five-year period, publish a final rule waiving the provisions of section 6297(c) of this title with respect to any State regulation concerning the water use or water efficiency of such type or class of showerhead or faucet if such State regulation—
+(C) If, after any period of five consecutive years, the maximum flow rate requirements ofthe ASME/ANSI standard for showerheads are not amended to improve the efficiency of water use of such products, or after any such period such requirements for faucets are not amended to improve the efficiency of water use of such products, the Secretary shall, not later than six months after the end of such five-year period, publish a final rule waiving the provisions of section 6297(c) of this title with respect to any State regulation concerning the water use or water efficiency of such type or class of showerhead or faucet if such State regulation—
 
 &emsp;(i) is more stringent than the standards in effect for such type of class of showerhead or faucet; and
 
@@ -618,7 +618,7 @@ Phased-in effective dates.—The Secretary shall consider phased-in effective da
 
 &emsp;(iii) is not consistent with the purposes of this chapter.
 
-(B)(i) As part of the rulemaking conducted under subparagraph (A), the Secretary shall also determine if adoption of a uniform national standard for any type or class of low consumption water closet or low consumption urinalmore stringent than such amended ASME/ANSI Standard A112.19.6 for such product—
+(B)(i) As part of the rulemaking conducted under subparagraph (A), the Secretary shall also determine if adoption of a uniform national standard for any type or class of low consumption water closet or low consumption urinal more stringent than such amended ASME/ANSI Standard A112.19.6 for such product—
 
 &emsp;(I) would result in additional conservation of energy or water;
 
@@ -830,7 +830,7 @@ Backstop requirement.—If the Secretary imposes a backstop requirement as a res
 
 &emsp;&emsp;Except as provided in subparagraph (B), an amendment prescribed under this subsection shall apply to—
 
-&emsp;&emsp;&emsp;(i) with respect to refrigerators, refrigerator-freezers, freezers, room air conditioners, dishwashers, clothes washers, clothes dryers, fluorescent lamp ballasts, and kitchen ranges and ovens, such a product that is manufactured after the date that is 3 years after publication of the final rule establishing an applicable standard; and
+&emsp;&emsp;&emsp;(i) with respect to refrigerators, refrigerator-freezers, freezers, room air conditioners, dishwashers, clothes washers,clothes dryers, fluorescent lamp ballasts, and kitchen ranges and ovens, such a product that is manufactured after the date that is 3 years after publication of the final rule establishing an applicable standard; and
 
 &emsp;&emsp;&emsp;(ii) with respect to central air conditioners, heat pumps, water heaters, pool heaters, direct heating equipment, and furnaces, such a product that is manufactured after the date that is 5 years after publication of the final rule establishing an applicable standard.
 
@@ -982,7 +982,7 @@ In general.—In any subsequent rulemaking for any product for which a regional 
 
 &emsp;&emsp;(ii)
 
-Regional standard no longer appropriate.—Except as provided in clause (iii), if the Secretary determines that regional standards are no longer appropriate for a product, beginning on the effective date of the amended standard for the product—
+Regional standard no longer appropriate.—Except as provided in clause (iii), if the Secretary determines that regional standards are no longer appropriate for aproduct, beginning on the effective date of the amended standard for the product—
 
 &emsp;&emsp;&emsp;(I) there shall be 1 base national standard for the product with Federal enforcement; and
 
@@ -1038,7 +1038,7 @@ Enforcement plan.—Not later than 90 days after the date of the issuance of a f
 
 &emsp;&emsp;&emsp;(II)
 
-Responsible entities.—Any rules regarding enforcement of a regional standard shall clearly specify which entities arelegally responsible for compliance with the standards and for making any required information or labeling disclosures.
+Responsible entities.—Any rules regarding enforcement of a regional standard shall clearly specify which entities are legally responsible for compliance with the standards and for making any required information or labeling disclosures.
 
 &emsp;&emsp;&emsp;(III)
 
@@ -1172,7 +1172,7 @@ Compliance with, and performance under, the energy conservation standards (excep
 
 (C) The assessment under subparagraph (B)(ii) shall include—
 
-&emsp;(i) estimates of the significance of potential energy savings from technical improvementsto battery chargers and external power supplies; and
+&emsp;(i) estimates of the significance of potential energy savings from technical improvements to battery chargers and external power supplies; and
 
 &emsp;(ii) suggested product classes for energy conservation standards.
 
@@ -1208,7 +1208,7 @@ Efficiency standards for class a external power supplies.—
 
 &emsp;(A)
 
-In general.—Subject to subparagraphs (B) through (D), a class A external power supply manufactured on or after the later of July 1, 2008, or December 19, 2007, shall meet the following standards:
+In general.—Subject to subparagraphs (B) through (E), a class A external power supply manufactured on or after the later of July 1, 2008, or December 19, 2007, shall meet the following standards:
 
 | <b>Active Mode</b> |  |
 | --- | --- |
@@ -1276,6 +1276,52 @@ Administration.—The final rule shall—
 
 &emsp;&emsp;&emsp;&emsp;(bb) apply to products manufactured on or after July 1, 2017.
 
+&emsp;(E)
+
+Nonapplication of no-load mode energy efficiency standards to external power supplies for certain security or life safety alarms or surveillance systems.—
+
+&emsp;&emsp;(i)
+
+Definition of security or life safety alarm or surveillance system.—In this subparagraph:
+
+&emsp;&emsp;&emsp;(I)
+
+In general.—The term “security or life safety alarm or surveillance system” means equipment designed and marketed to perform any of the following functions (on a continuous basis):
+
+&emsp;&emsp;&emsp;&emsp;(aa) Monitor, detect, record, or provide notification of intrusion or access to real property or physical assets or notification of threats to life safety.
+
+&emsp;&emsp;&emsp;&emsp;(bb) Deter or control access to real property or physical assets, or prevent the unauthorized removal of physical assets.
+
+&emsp;&emsp;&emsp;&emsp;(cc) Monitor, detect, record, or provide notification of fire, gas, smoke, flooding, or other physical threats to real property, physical assets, or life safety.
+
+&emsp;&emsp;&emsp;(II)
+
+Exclusion.—The term “security or life safety alarm or surveillance system” does not include any product with a principal function other than life safety, security, or surveillance that—
+
+&emsp;&emsp;&emsp;&emsp;(aa) is designed and marketed with a built-in alarm or theft-deterrent feature; or
+
+&emsp;&emsp;&emsp;&emsp;(bb) does not operate necessarily and continuously in active mode.
+
+&emsp;&emsp;(ii)
+
+Nonapplication of no-load mode requirements.—The No-Load Mode energy efficiency standards established by this paragraph shall not apply to an external power supply manufactured before July 1, 2017, that—
+
+&emsp;&emsp;&emsp;(I) is an AC-to-AC external power supply;
+
+&emsp;&emsp;&emsp;(II) has a nameplate output of 20 watts or more;
+
+&emsp;&emsp;&emsp;(III) is certified to the Secretary as being designed to be connected to a security or life safety alarm or surveillance system component; and
+
+&emsp;&emsp;&emsp;(IV) on establishment within the External Power Supply International Efficiency Marking Protocol, as referenced in the “Energy Star Program Requirements for Single Voltage External Ac–Dc and Ac–Ac Power Supplies”, published by the Environmental Protection Agency, of a distinguishing mark for products described in this clause, is permanently marked with the distinguishing mark.
+
+&emsp;&emsp;(iii)
+
+Administration.—In carrying out this subparagraph, the Secretary shall—
+
+&emsp;&emsp;&emsp;(I) require, with appropriate safeguard for the protection of confidential business information, the submission of unit shipment data on an annual basis; and
+
+&emsp;&emsp;&emsp;(II) restrict the eligibility of external power supplies for the exemption provided under this subparagraph on a finding that a substantial number of the external power supplies are being marketed to or installed in applications other than security or life safety alarm or surveillance systems.
+
 (7) <sup>5</sup>
 
 End-use products.—An energy conservation standard for external power supplies shall not constitute an energy conservation standard for the separate end-use product to which the external power supplies is connected.
@@ -1290,7 +1336,7 @@ End-use products.—An energy conservation standard for external power supplies 
 
 #### (w) Illuminated exit signs
 
-An illuminated exit sign manufactured on or after January 1, 2006, shall meet the version 2.0 Energy Star Program performance requirementsfor illuminated exit signs prescribed by the Environmental Protection Agency.
+An illuminated exit sign manufactured on or after January 1, 2006, shall meet the version 2.0Energy Star Program performance requirements for illuminated exit signs prescribed by the Environmental Protection Agency.
 
 #### (x) Torchieres
 
@@ -1627,7 +1673,7 @@ Section 6297 of this title applies—
 
 &emsp;(2) to products for which energy conservation standards are established under subsections (w) through (hh) of this section on August 8, 2005, except that any State or local standard prescribed or enacted before August 8, 2005, shall not be preempted until the energy conservation standards established under subsections (w) through (hh) of this section take effect.
 
-(Pub. L. 94–163, title III, §325, Dec. 22, 1975, 89 Stat. 923; Pub. L. 94–385, title I, §161, Aug. 14, 1976, 90 Stat. 1140; Pub. L. 95–619, title IV, §422, Nov. 9, 1978, 92 Stat. 3259; Pub. L. 100–12, §5, Mar. 17, 1987, 101 Stat. 107; Pub. L. 100–357, §2(e), June 28, 1988, 102 Stat. 673; Pub. L. 102–486, title I, §123(f), Oct. 24, 1992, 106 Stat. 2824; Pub. L. 105–388, §5(a)(5), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §135(c), Aug. 8, 2005, 119 Stat.628; Pub. L. 110–140, title III, §§301(c), 303–305(a), 306(a), 307, 308(a), 309–311(a), 316(c)(2), (d), 321(a)(3), 322(b), 324(e), Dec. 19, 2007, 121 Stat. 1550, 1552, 1553, 1556, 1559–1561, 1563, 1573, 1577, 1588, 1593.)
+(Pub. L. 94–163, title III, §325, Dec. 22, 1975, 89 Stat. 923; Pub. L. 94–385, title I, §161, Aug. 14, 1976, 90 Stat. 1140; Pub. L. 95–619, title IV, §422, Nov. 9, 1978, 92 Stat. 3259; Pub. L. 100–12, §5, Mar. 17, 1987, 101 Stat. 107; Pub. L. 100–357, §2(e), June 28, 1988, 102 Stat. 673; Pub. L. 102–486, title I, §123(f), Oct. 24, 1992, 106 Stat. 2824; Pub. L. 105–388, §5(a)(5), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §135(c), Aug. 8, 2005, 119 Stat.628; Pub. L. 110–140, title III, §§301(c), 303–305(a), 306(a), 307, 308(a), 309–311(a), 316(c)(2), (d), 321(a)(3), 322(b), 324(e), Dec. 19, 2007, 121 Stat. 1550, 1552, 1553, 1556, 1559–1561, 1563, 1573, 1577, 1588, 1593; Pub. L. 111–360, §1, Jan. 4, 2011, 124 Stat. 4051.)
 
 #### References in Text
 
@@ -1641,7 +1687,11 @@ Subsection (i), referred to in subsec. (<i>l</i>)(4)(F)(ii)(I), was amended by P
 
 #### Amendments
 
-2007—Subsec. (b)(4). Pub. L. 110–140, §311(a)(3), added par. (4).
+<b>2011</b>—Subsec. (u)(3)(A). Pub. L. 111–360, §1(1), substituted “(E)” for “(D)”.
+
+Subsec. (u)(3)(E). Pub. L. 111–360, §1(2), added subpar. (E).
+
+<b>2007</b>—Subsec. (b)(4). Pub. L. 110–140, §311(a)(3), added par. (4).
 
 Subsec. (f). Pub. L. 110–140, §303(1), inserted “and boilers” after “furnaces” in heading.
 
@@ -1699,7 +1749,7 @@ Subsec. (cc)(2). Pub. L. 110–140, §311(a)(1), added par. (2) and struck out f
 
 Subsec. (ee). Pub. L. 110–140, §316(c)(2), inserted “(other than specialty application mercury vapor lamp ballasts)” before “shall”.
 
-Subsec. (ff)(1)(A)(iii), (iv). Pub. L. 110–140, §316(d)(2)(A), redesignated cl. (iv) as (iii), inserted “fanssold for” before “outdoor” in subcl. (II), and struck out former cl. (iii) which read as follows: “Adjustable speed controls (either more than 1 speed or variable speed).”
+Subsec. (ff)(1)(A)(iii), (iv). Pub. L. 110–140, §316(d)(2)(A), redesignated cl. (iv) as (iii), inserted “fans sold for” before “outdoor” in subcl. (II), and struck out former cl. (iii) which read as follows: “Adjustable speed controls (either more than 1 speed or variable speed).”
 
 Subsec. (ff)(4)(C). Pub. L. 110–140, §316(d)(2)(B)(i), substituted “date specified in subparagraph (A)” for “date specified in subparagraph (B)” in introductory provisions.
 
@@ -1717,7 +1767,7 @@ Pub. L. 110–140, §310(2), (4), redesignated subsec. (gg) as (hh) and substitu
 
 Subsec. (ii). Pub. L. 110–140, §324(e)(1), (3), redesignated subsec. (hh) as (ii) and substituted “(hh)” for “(gg)” in two places in par. (2).
 
-2005—Subsec. (f)(3)(D). Pub. L. 109–58, §135(c)(1), added subpar. (D).
+<b>2005</b>—Subsec. (f)(3)(D). Pub. L. 109–58, §135(c)(1), added subpar. (D).
 
 Subsec. (g)(6)(B). Pub. L. 109–58, §135(c)(2)(A), inserted “and labeled” after “designed”.
 
@@ -1727,11 +1777,11 @@ Subsec. (<i>o</i>)(5). Pub. L. 109–58, §135(c)(3), added par. (5).
 
 Subsecs. (u) to (gg). Pub. L. 109–58, §135(c)(4), added subsecs. (u) to (gg).
 
-1998—Subsec. (e)(4)(A). Pub. L. 105–388, §5(a)(5)(A), substituted “paragraph” for “paragraphs”.
+<b>1998</b>—Subsec. (e)(4)(A). Pub. L. 105–388, §5(a)(5)(A), substituted “paragraph” for “paragraphs”.
 
 Subsec. (g). Pub. L. 105–388, §5(a)(5)(B), substituted “ballasts” for “ballasts;” in heading.
 
-1992—Subsecs. (i) to (k). Pub. L. 102–486, §123(f)(2), added subsecs. (i) to (k). Former subsecs. (i) to (k) redesignated (<i>l</i>) to (n), respectively.
+<b>1992</b>—Subsecs. (i) to (k). Pub. L. 102–486, §123(f)(2), added subsecs. (i) to (k). Former subsecs. (i) to (k) redesignated (<i>l</i>) to (n), respectively.
 
 Subsec. (<i>l</i>). Pub. L. 102–486, §123(f)(1), redesignated subsec. (i) as (<i>l</i>). Former subsec. (<i>l</i>) redesignated (<i>o</i>).
 
@@ -1771,7 +1821,7 @@ Subsec. (p)(3)(A). Pub. L. 102–486, §123(f)(7), substituted “subsection (<i
 
 Subsecs. (q) to (t). Pub. L. 102–486, §123(f)(1), redesignated subsecs. (n) to (q) as (q) to (t), respectively.
 
-1988—Subsec. (e)(1)(C). Pub. L. 100–357, §2(e)(3), inserted “Volume” after “Rated Storage”.
+<b>1988</b>—Subsec. (e)(1)(C). Pub. L. 100–357, §2(e)(3), inserted “Volume” after “Rated Storage”.
 
 Subsec. (g). Pub. L. 100–357, §2(e)(1)(A), inserted “; fluorescent lamp ballasts;” in heading.
 
@@ -1785,19 +1835,19 @@ Subsec. (k)(1). Pub. L. 100–357, §2(e)(4)(B)(i), inserted “and in paragraph
 
 Subsec. (k)(3)(B). Pub. L. 100–357, §2(e)(4)(B)(ii), inserted “fluorescent lamp ballasts,” after “clothes dryers,”.
 
-1987—Pub. L. 100–12 amended section generally, revising and restating as subsecs. (a) to (q) provisions formerly contained in subsecs. (a) to (j).
+<b>1987</b>—Pub. L. 100–12 amended section generally, revising and restating as subsecs. (a) to (q) provisions formerly contained in subsecs. (a) to (j).
 
-1978—Subsec. (a). Pub. L. 95–619 substituted provisions authorizing Secretary to prescribe an energy efficiency standard for each type of covered product specified in section 6292(a)(1) to (13) of this title, authorizing such prescription for any type of covered product specified in section 6292(a)(14) of this title where certain conditions are found to exist, and requiring publication of a list of those types of covered products considered subject to prescribed standards in the Federal Register not later than two years after Nov. 9, 1978, for provisions requiring the Administrator, meaning the Administrator of the Federal Energy Administration, to direct the National Bureau of Standards to develop an energy efficiency improvement target for each type of covered product listed in section 6292(a)(1) to (10) of this title, requiring prescription of such a target by the Administrator not later than ninety days after Aug. 14, 1976, requiring such targets be designed to exceed by 1980 by at least twenty percent the aggregate energy efficiency of the covered products as manufactured in 1972, requiring similar energy efficiency targets be prescribed for covered products specified in section 6292(a)(11) to (13) of this title not later than one year after Aug. 14, 1976, authorizing the Administrator to modify periodically any established targets, requiring the manufacturers of any covered products to submit reports as requested by the Administrator to help in establishing and reaching such targets, authorizing the Administrator to commence proceedings in certain situations to prescribe initial or revised targets, specifying when improvements of energy efficiency are economically justified, and authorizing the Attorney General to determine any negative effects on competition so as to make certain improvements economically unjustified.
+<b>1978</b>—Subsec. (a). Pub. L. 95–619 substituted provisions authorizing Secretary to prescribe an energy efficiency standard for each type of covered product specified in section 6292(a)(1) to (13) of this title, authorizing such prescription for any type of covered product specified in section 6292(a)(14) of this title where certain conditions are found to exist, and requiring publication of a list of those types of covered products considered subject to prescribed standards in the Federal Register not later than two years after Nov. 9, 1978, for provisions requiring the Administrator, meaning the Administrator of the Federal Energy Administration, to direct the National Bureau of Standards to develop an energy efficiency improvement target for each type of covered product listed in section 6292(a)(1) to (10) of this title, requiring prescription of such a target by the Administrator not later than ninety days after Aug. 14, 1976, requiring such targets be designed to exceed by 1980 by at least twenty percent the aggregate energy efficiency of the covered products as manufactured in 1972, requiring similar energy efficiency targets be prescribed for covered products specified in section 6292(a)(11) to (13) of this title not later than one year after Aug. 14, 1976, authorizing the Administrator to modify periodically any established targets, requiring the manufacturers of any covered products to submit reports as requested by the Administrator to help in establishing and reaching such targets, authorizing the Administrator to commence proceedings in certain situations to prescribe initial or revised targets, specifying when improvements of energy efficiency are economically justified, and authorizing the Attorney General to determine any negative effects on competition so as to make certain improvements economically unjustified.
 
 Subsec. (b). Pub. L. 95–619 substituted provisions specifying preconditions for prescription of a standard for a type or class of covered products for provisions specifying the procedure to be followed in prescribing energy efficiency standards.
 
-Subsec. (c). Pub. L. 95–619 substituted provisions requiring energy efficiency standards for each type of covered products be designed to achieve the maximum improvement in energy efficiency which the Secretary determines feasible and justified and requiring such standards be phased in over a period not to exceed five years for provisions relating to the prescription of test procedures and the requirements necessary to meet minimum energy efficiency levels.
+Subsec. (c). Pub. L. 95–619 substituted provisions requiring energy efficiency standards for each type ofcovered products be designed to achieve the maximum improvement in energy efficiency which the Secretary determines feasible and justified and requiring such standards be phased in over a period not to exceed five years for provisions relating to the prescription of test procedures and the requirements necessary to meet minimum energy efficiency levels.
 
 Subsec. (d). Pub. L. 95–619 substituted provisions relating to a determination by the Secretary of the economic justification of any particular energy efficiency standard and a determination by the Attorney General of the impact on competition of any proposed standard for provisions relating to labeling rules.
 
 Subsecs. (e) to (j). Pub. L. 95–619 added subsecs. (e) to (j).
 
-1976—Subsec. (a)(1)(A). Pub. L. 94–385, §161(a), transferred authority to determine energy targets from the Administrator to the National Bureau of Standards and substituted 90 days after August 14, 1976, for 180 days after December 22, 1975, for the promulgation of rules by the Administrator.
+<b>1976</b>—Subsec. (a)(1)(A). Pub. L. 94–385, §161(a), transferred authority to determine energy targets from the Administrator to the National Bureau of Standards and substituted 90 days after August 14, 1976, for 180 days after December 22, 1975, for the promulgation of rules by the Administrator.
 
 Subsec. (a)(2). Pub. L. 94–385, §161(b), transferred authority to determine energy targets from the Administrator to the National Bureau of Standards and substituted one year after August 14, 1976, for one year after December 22, 1975, for the promulgation of rules by the Administrator.
 

@@ -302,7 +302,7 @@
 
 #### (B) Number and project areas
 
-&emsp;&emsp;Not later than 2 years after February 4, 2009, the Secretary shall award 1 grant that is specifically designed to determine whether programs similar to programs to be conducted by other grantees under this subsection should be implemented with respect to the general population of children who are eligible for child health assistance under State child health plans under subchapter XXI in order to reduce the incidence of childhood obesity among such population.
+&emsp;&emsp;Not later than 2 years after February 4, 2009, the Secretary shall award 1 grant that is specifically designed to determine whether programs similar to programs to be conducted by other grantees under this subsection should be implemented with respectto the general population of children who are eligible for child health assistance under State child health plans under subchapter XXI in order to reduce the incidence of childhood obesity among such population.
 
 #### (6) Report to Congress
 
@@ -352,9 +352,9 @@
 
 &emsp;&emsp;&emsp;(iii) to provide the information described in clause (i) to a health care provider, if designated by the target individual to receive such information.
 
-#### (8) Authorization of appropriations
+#### (8) Appropriation
 
-&emsp;There is authorized to be appropriated to carry out this subsection, $25,000,000 for the period of fiscal years 2009 through 2013.
+&emsp;Out of any funds in the Treasury not otherwise appropriated, there is appropriated to carry out this subsection, $25,000,000 for the period of fiscal years 2010 through 2014.
 
 #### (f) Development of model electronic health record format for children enrolled in Medicaid or CHIP
 
@@ -362,7 +362,7 @@
 
 &emsp;Not later than January 1, 2010, the Secretary shall establish a program to encourage the development and dissemination of a model electronic health record format for children enrolled in the State plan under subchapter XIX or the State child health plan under subchapter XXI that is—
 
-&emsp;&emsp;(A) subject to State laws, accessible to parents, caregivers, and other consumers forthe sole purpose of demonstrating compliance with school or leisure activity requirements, such as appropriate immunizations or physicals;
+&emsp;&emsp;(A) subject to State laws, accessible to parents, caregivers, and other consumers for the sole purpose of demonstrating compliance with school or leisure activity requirements, such as appropriate immunizations or physicals;
 
 &emsp;&emsp;(B) designed to allow interoperable exchanges that conform with Federal and State privacy and security requirements;
 
@@ -400,11 +400,13 @@ Notwithstanding any other provision in this section, no evidence based quality m
 
 Out of any funds in the Treasury not otherwise appropriated, there is appropriated for each of fiscal years 2009 through 2013, $45,000,000 for the purpose of carrying out this section (other than subsection (e)). Funds appropriated under this subsection shall remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title XI, §1139A, as added and amended Pub. L. 111–3, title IV, §401(a), title V, §501(g), Feb. 4, 2009, 123 Stat. 72, 88.)
+(Aug. 14, 1935, ch. 531, title XI, §1139A, as added and amended Pub. L. 111–3, title IV, §401(a), title V, §501(g), Feb. 4, 2009, 123 Stat. 72, 88; Pub. L. 111–148, title IV, §4306, Mar. 23, 2010, 124 Stat. 587.)
 
 #### Amendments
 
-2009—Subsec. (a)(3)(B)(ii). Pub. L. 111–3, §501(g)(1), inserted “and, with respect to dental care, conditions requiring the restoration of teeth, relief of pain and infection, and maintenance of dental health” after “chronic conditions”.
+<b>2010</b>—Subsec. (e)(8). Pub. L. 111–148 amended par. (8) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this subsection, $25,000,000 for the period of fiscal years 2009 through 2013.”
+
+<b>2009</b>—Subsec. (a)(3)(B)(ii). Pub. L. 111–3, §501(g)(1), inserted “and, with respect to dental care, conditions requiring the restoration of teeth, relief of pain and infection, and maintenance of dental health” after “chronic conditions”.
 
 Subsec. (a)(6)(A)(ii). Pub. L. 111–3, §501(g)(2), inserted “dental care,” after “preventive health services,”.
 

@@ -4,7 +4,7 @@
 
 Designation of Offices on Military Installations as Voter Assistance Offices.—Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010 and under regulations prescribed by the Secretary of Defense under subsection (f), the Secretaries of the military departments shall designate offices on installations under their jurisdiction to provide absent uniformed services voters, particularly those individuals described in subsection (b), and their family members with the following:
 
-&emsp;(1) Information on voter registration procedures and absentee ballot procedures (including the official post card form prescribed under section 101 of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff) <sup>1</sup>.
+&emsp;(1) Information on voter registration procedures and absentee ballot procedures (including the official post card form prescribed under section 101 of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff)).
 
 &emsp;(2) Information and assistance, if requested, including access to the Internet where practicable, to register to vote in an election for Federal office.
 
@@ -62,7 +62,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term “Presidential designee” means the official designated by the President under section 101(a) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff(a)).
 
-(Added Pub. L. 111–84, div. A, title V, §583(b)(1), Oct. 28, 2009, 123 Stat. 2328.)
+(Added Pub. L. 111–84, div. A, title V, §583(b)(1), Oct. 28, 2009, 123 Stat. 2328; amended Pub. L. 111–383, div. A, title X, §1075(b)(21), Jan. 7, 2011, 124 Stat. 4370.)
 
 #### References in Text
 
@@ -72,5 +72,7 @@ The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. 
 
 The National Voter Registration Act of 1993, referred to in subsec. (e), is Pub. L. 103–31, May 20, 1993, 107 Stat. 77, which is classified principally to subchapter I–H (§1973gg et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of Title 42 and Tables.
 
-<i><sup>1</sup></i><i> So in original. There should probably be a second closed parenthesis.</i>
+#### Amendments
+
+<b>2011</b>—Subsec. (a)(1). Pub. L. 111–383 inserted closing parenthesis before period at end.
 

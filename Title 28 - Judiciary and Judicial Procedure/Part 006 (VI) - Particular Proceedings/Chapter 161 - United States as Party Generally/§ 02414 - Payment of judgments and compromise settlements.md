@@ -1,12 +1,12 @@
 ### §2414. Payment of judgments and compromise settlements
 
-Except as provided by the Contract Disputes Act of 1978, payment of final judgments rendered by a district court or the Court of International Trade against the United States shall be made on settlements by the Secretary of the Treasury. Payment of final judgments rendered by a State or foreign court or tribunal against the United States, or against its agencies or officials upon obligations or liabilities of the United States, shall be made on settlements by the Secretary of the Treasury after certification by the Attorney General that it is in the interest of the United States to pay the same.
+Except as provided by chapter 71 of title 41, payment of final judgments rendered by a district court or the Court of International Trade against the United States shall be made on settlements by the Secretary of the Treasury. Payment of final judgments rendered by a State or foreign court or tribunal against the United States, or against its agencies or officials upon obligations or liabilities of the United States, shall be made on settlements by the Secretary of the Treasury after certification by the Attorney General that it is in the interest of the United States to pay the same.
 
 Whenever the Attorney General determines that no appeal shall be taken from a judgment or that no further review will be sought from a decision affirming the same, he shall so certify and the judgment shall be deemed final.
 
 Except as otherwise provided by law, compromise settlements of claims referred to the Attorney General for defense of imminent litigation or suits against the United States, or against its agencies or officials upon obligations or liabilities of the United States, made by the Attorney General or any person authorized by him, shall be settled and paid in a manner similar to judgments in like causes and appropriations or funds available for the payment of such judgments are hereby made available for the payment of such compromise settlements.
 
-(June 25, 1948, ch. 646, 62 Stat. 974; Pub. L. 87–187, §1, Aug. 30, 1961, 75 Stat. 415; Pub. L. 95–563, §14(d), Nov. 1, 1978, 92 Stat. 2390; Pub. L. 96–417, title V, §512, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 104–316, title II, §202(k), Oct. 19, 1996, 110 Stat. 3843.)
+(June 25, 1948, ch. 646, 62 Stat. 974; Pub. L. 87–187, §1, Aug. 30, 1961, 75 Stat. 415; Pub. L. 95–563, §14(d), Nov. 1, 1978, 92 Stat. 2390; Pub. L. 96–417, title V, §512, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 104–316, title II, §202(k), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 111–350, §5(g)(10), Jan. 4, 2011, 124 Stat. 3848.)
 
 #### Historical and Revision Notes
 
@@ -18,19 +18,17 @@ The second paragraph was added to make clear that the payment of judgments not a
 
 Changes were made in phraseology.
 
-#### References in Text
-
-The Contract Disputes Act of 1978, referred to in first paragraph, is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 41 and Tables.
-
 #### Amendments
 
-1996—Pub. L. 104–316 in first par. substituted “Secretary of the Treasury” for “General Accounting Office” in two places.
+<b>2011</b>—Pub. L. 111–350 substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978” in first par.
 
-1980—Pub. L. 96–417 provided for payment of final judgments rendered by the Court of International Trade against the United States on settlements by the General Accounting Office.
+<b>1996</b>—Pub. L. 104–316 in first par. substituted “Secretary of the Treasury” for “General Accounting Office” in two places.
 
-1978—Pub. L. 95–563 inserted Contract Disputes Act of 1978 exception.
+<b>1980</b>—Pub. L. 96–417 provided for payment of final judgments rendered by the Court of International Trade against the United States on settlements by the General Accounting Office.
 
-1961—Pub. L. 87–187 provided for payment of final judgments rendered by a State or foreign court against the United States, its agencies or officials and compromise settlements and substituted “and compromise settlements” for “against the United States” in section catchline.
+<b>1978</b>—Pub. L. 95–563 inserted Contract Disputes Act of 1978 exception.
+
+<b>1961</b>—Pub. L. 87–187 provided for payment of final judgments rendered by a State or foreign court against the United States, its agencies or officials and compromise settlements and substituted “and compromise settlements” for “against the United States” in section catchline.
 
 #### Effective Date of 1980 Amendment
 
@@ -38,5 +36,5 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–563 effective with respect to contracts entered into 120 days after Nov. 1, 1978,and, at the election of the contractor, with respect to any claim pending at such time before the contracting officer or initiated thereafter, see section 16 of Pub. L. 95–563, set out as an Effective Date note under section 601 of Title 41, Public Contracts.
+Amendment by Pub. L. 95–563 effective with respect to contracts entered into 120 days after Nov. 1, 1978, and, at the election of the contractor, with respect to any claim pending at such time before the contracting officer or initiated thereafter, see section 16 of Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2391, formerly set out as an Effective Date note under section 601 of former Title 41, Public Contracts.
 

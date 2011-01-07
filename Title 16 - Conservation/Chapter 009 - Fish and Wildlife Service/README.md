@@ -12,7 +12,7 @@
 | 742d–1. | Studies of effects in use of chemicals. |
 | [742e.](%C2%A7%2000742e%20-%20Transfer%20of%20functions%20to%20Secretary.md) | Transfer of functions to Secretary. |
 | [742f.](%C2%A7%2000742f%20-%20Powers%20of%20Secretaries%20of%20the%20Interior%20and%20Commerce.md) | Powers of Secretaries of the Interior and Commerce. |
-| 742f–1. | Projects. |
+| 742f–1. | National Volunteer Coordination Program. |
 | [742g.](%C2%A7%2000742g%20-%20Cooperation%20with%20State%20Department.md) | Cooperation with State Department. |
 | [742h.](%C2%A7%2000742h%20-%20Reports%20on%20fishery%20products.md) | Reports on fishery products. |
 | [742i.](%C2%A7%2000742i%20-%20Effect%20on%20rights%20of%20States%20and%20international%20commissions.md) | Effect on rights of States and international commissions. |
@@ -61,7 +61,7 @@
 - [&sect; 00742d&#8211;1 - Studies of effects in use of chemicals](%C2%A7%2000742d%E2%80%931%20-%20Studies%20of%20effects%20in%20use%20of%20chemicals.md)
 - [&sect; 00742e - Transfer of functions to Secretary](%C2%A7%2000742e%20-%20Transfer%20of%20functions%20to%20Secretary.md)
 - [&sect; 00742f - Powers of Secretaries of the Interior and Commerce](%C2%A7%2000742f%20-%20Powers%20of%20Secretaries%20of%20the%20Interior%20and%20Commerce.md)
-- [&sect; 00742f&#8211;1 - Projects](%C2%A7%2000742f%E2%80%931%20-%20Projects.md)
+- [&sect; 00742f&#8211;1 - National Volunteer Coordination Program](%C2%A7%2000742f%E2%80%931%20-%20National%20Volunteer%20Coordination%20Program.md)
 - [&sect; 00742g - Cooperation with State Department](%C2%A7%2000742g%20-%20Cooperation%20with%20State%20Department.md)
 - [&sect; 00742h - Reports on fishery products](%C2%A7%2000742h%20-%20Reports%20on%20fishery%20products.md)
 - [&sect; 00742i - Effect on rights of States and international commissions](%C2%A7%2000742i%20-%20Effect%20on%20rights%20of%20States%20and%20international%20commissions.md)

@@ -42,7 +42,7 @@ Gross income does not include amounts received as prizes and awards made primari
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–514, §123(b)(1), which directed that subsec. (a) be amended by substituting “(relating to qualified scholarships)” for “(relating to scholarship and fellowship grants)”, was executed by making the substitution for “(relating to scholarships and fellowship grants)” to reflect the probable intent of Congress.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §123(b)(1), which directed that subsec. (a) be amended by substituting “(relating to qualified scholarships)” for “(relating to scholarship and fellowship grants)”, was executed by making the substitution for “(relating to scholarships and fellowship grants)” to reflect the probable intent of Congress.
 
 Pub. L. 99–514, §122(a)(1)(A), substituted “Except as otherwise provided in this section or” for “Except as provided in subsection (b) and”.
 

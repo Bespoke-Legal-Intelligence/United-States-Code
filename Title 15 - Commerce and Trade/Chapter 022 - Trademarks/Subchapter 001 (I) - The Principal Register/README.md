@@ -12,7 +12,7 @@
 - [&sect; 01055 - Use by related companies affecting validity and registration](%C2%A7%2001055%20-%20Use%20by%20related%20companies%20affecting%20validity%20and%20registration.md)
 - [&sect; 01056 - Disclaimer of unregistrable matter](%C2%A7%2001056%20-%20Disclaimer%20of%20unregistrable%20matter.md)
 - [&sect; 01057 - Certificates of registration](%C2%A7%2001057%20-%20Certificates%20of%20registration.md)
-- [&sect; 01058 - Duration](%C2%A7%2001058%20-%20Duration.md)
+- [&sect; 01058 - Duration, affidavits and fees](%C2%A7%2001058%20-%20Duration%2C%20affidavits%20and%20fees.md)
 - [&sect; 01059 - Renewal of registration](%C2%A7%2001059%20-%20Renewal%20of%20registration.md)
 - [&sect; 01060 - Assignment](%C2%A7%2001060%20-%20Assignment.md)
 - [&sect; 01061 - Execution of acknowledgments and verifications](%C2%A7%2001061%20-%20Execution%20of%20acknowledgments%20and%20verifications.md)

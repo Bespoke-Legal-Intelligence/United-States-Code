@@ -88,7 +88,7 @@ A prior section 155 of Pub. L. 101–610 was classified to section 12591 of this
 
 #### Amendments
 
-2009—Pub. L. 111–13, §1505(1), amended section catchline generally.
+<b>2009</b>—Pub. L. 111–13, §1505(1), amended section catchline generally.
 
 Subsec. (a). Pub. L. 111–13, §1505(2), substituted “National Civilian Community Corps Program” for “Civilian Community Corps Demonstration Program” and “the National Civilian Community Corps shall” for “the Civilian Community Corps shall”.
 
@@ -118,9 +118,9 @@ Subsec. (f)(2)(B). Pub. L. 111–13, §1505(6)(B)(iii), substituted “campus di
 
 Subsec. (f)(3). Pub. L. 111–13, §1505(6)(C), substituted “campus director” for “camp superintendent”.
 
-1994—Subsec. (e). Pub. L. 103–304 substituted “camps” for “Corps” in heading.
+<b>1994</b>—Subsec. (e). Pub. L. 103–304 substituted “camps” for “Corps” in heading.
 
-1993—Subsec. (a). Pub. L. 103–82, §403(b), substituted “Director” for “Director of the Civilian Community Corps”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–82, §403(b), substituted “Director” for “Director of the Civilian Community Corps”.
 
 Pub. L. 103–82, §104(e)(2)(C)(i), substituted “section 12619(c)(1)” for “section 12653h(c)(1)”.
 

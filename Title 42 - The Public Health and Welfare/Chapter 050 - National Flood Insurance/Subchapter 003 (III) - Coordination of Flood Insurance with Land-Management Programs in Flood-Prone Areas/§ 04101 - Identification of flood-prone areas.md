@@ -10,11 +10,11 @@ The Director is authorized to consult with, receive information from, and enter 
 
 #### (b) Accelerated identification of flood-risk zones; authority of Director: grants, technical assistance, transactions, and payments
 
-The Director is directed to accelerate the identification of risk zones within flood-prone and mudslide-prone areas, as provided by subsection (a)(2) of this section, in order to make known the degree of hazard within each such zone at the earliest possible date. To accomplish this objective, the Director is authorized, without regard to subsections (a) and (b) of section 3324 of title 31 and section 5 of title 41, to make grants, provide technical assistance, and enter into contracts, cooperative agreements, or other transactions, on such terms as he may deem appropriate, or consent to modifications thereof, and to make advance or progress payments in connection therewith.
+The Director is directed to accelerate the identification of risk zones within flood-prone and mudslide-prone areas, as provided by subsection (a)(2) of this section, in order to make known the degree of hazard within each such zone at the earliest possible date. To accomplish this objective, the Director is authorized, without regard to subsections (a) and (b) of section 3324 of title 31 and section 6101 of title 41, to make grants, provide technical assistance, and enter into contracts, cooperative agreements, or other transactions, on such terms as he may deem appropriate, or consent to modifications thereof, and to make advance or progress payments in connection therewith.
 
 #### (c) Priority in allocation of manpower and other available resources for identification and mapping of flood hazard areas and flood-risk zones
 
-The Secretary of Defense (through the Army Corps of Engineers), the Secretary of the Interior (through the United States Geological Survey), the Secretary of Agriculture (through the Soil Conservation Service), the Secretary of Commerce (through the National Oceanic and Atmospheric Administration), the head of the Tennessee Valley Authority, and the heads of all other Federal agencies engaged in the identification or delineation of flood-risk zones within the several States shall, in consultation with the Director, give the highest practicable priority in the allocation of available manpower and other available resources to the identification and mapping of flood hazard areas and flood-risk zones, in order to assist the Director to meet the deadline established by this section.
+The Secretary of Defense (through the Army Corps of Engineers), the Secretary of the Interior (through the United States Geological Survey), the Secretary of Agriculture (through the Soil Conservation Service), the Secretary of Commerce (through the National Oceanic and Atmospheric Administration), the head of the Tennessee Valley Authority, and the heads of all other Federal agencies engaged in the identification or delineation of flood-risk zones within the several States shall, in consultation withthe Director, give the highest practicable priority in the allocation of available manpower and other available resources to the identification and mapping of flood hazard areas and flood-risk zones, in order to assist the Director to meet the deadline established by this section.
 
 #### (d) Plan for bringing communities with flood-risk zones into full program status
 
@@ -54,15 +54,19 @@ In the implementation of revisions to and updates of flood insurance rate maps, 
 
 This chapter, referred to in subsec. (g), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
+#### Codification
+
+In subsec. (b), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-1994—Subsecs. (e) to (j). Pub. L. 103–325 added subsecs. (e) to (j).
+<b>1994</b>—Subsecs. (e) to (j). Pub. L. 103–325 added subsecs. (e) to (j).
 
-1989—Subsec. (a)(2). Pub. L. 101–137 added par. (2) and struck out former par. (2) which read as follows: “establish flood-risk zones in all such areas, and make estimates with respect to the rates of probable flood-caused loss for the various flood-risk zones for each of these areas, by September 30, 1989.”
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–137 added par. (2) and struck out former par. (2) which read as follows: “establish flood-risk zones in all such areas, and make estimates with respect to the rates of probable flood-caused loss for the various flood-risk zones for each of these areas, by September 30, 1989.”
 
-1988—Subsec. (a)(2). Pub. L. 100–242 substituted “September 30, 1989” for “March 15, 1988”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–242 substituted “September 30, 1989” for “March 15, 1988”.
 
-1987—Subsec. (a)(2). Pub. L. 100–200 substituted “March 15, 1988” for “December 16, 1987”.
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–200 substituted “March 15, 1988” for “December 16, 1987”.
 
 Pub. L. 100–179 substituted “December 16, 1987” for “December 2, 1987”.
 
@@ -72,7 +76,7 @@ Pub. L. 100–154 substituted “November 15, 1987” for “October 31, 1987”
 
 Pub. L. 100–122 substituted “October 31, 1987” for “September 30, 1987”.
 
-1986—Subsec. (a)(2). Pub. L. 99–430 substituted “September 30, 1987” for “September 30, 1986”.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–430 substituted “September 30, 1987” for “September 30, 1986”.
 
 Pub. L. 99–345 substituted “September 30, 1986” for “June 6, 1986”.
 
@@ -82,15 +86,15 @@ Pub. L. 99–272 directed amendment identical to Pub. L. 99–219 substituting �
 
 Pub. L. 99–267 substituted “April 30, 1986” for “March 17, 1986”.
 
-1985—Subsec. (a)(2). Pub. L. 99–219 substituted “March 17, 1986” for “December 15, 1985”.
+<b>1985</b>—Subsec. (a)(2). Pub. L. 99–219 substituted “March 17, 1986” for “December 15, 1985”.
 
 Pub. L. 99–156 substituted “December 15, 1985” for “November 14, 1985”.
 
 Pub. L. 99–120 substituted “November 14, 1985” for “September 30, 1985”.
 
-1984—Subsec. (b). Pub. L. 98–479 substituted reference to subsections (a) and (b) of section 3324 of title 31 for reference to section 3648 of the Revised Statutes, as amended (31 U.S.C. 529).
+<b>1984</b>—Subsec. (b). Pub. L. 98–479 substituted reference to subsections (a) and (b) of section 3324 of title 31 for reference to section 3648 of the Revised Statutes, as amended (31 U.S.C. 529).
 
-1983—Subsec. (a). Pub. L. 98–181, §451(d)(1), in provisions preceding par. (1) substituted “Director” for “Secretary”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–181, §451(d)(1), in provisions preceding par. (1) substituted “Director” for “Secretary”.
 
 Subsec. (a)(2). Pub. L. 98–181, §451(d)(6), substituted “by September 30, 1985” for “within fifteen years following such date”.
 
@@ -98,7 +102,7 @@ Subsecs. (b), (c). Pub. L. 98–181, §451(d)(1), substituted “Director” for
 
 Subsec. (d). Pub. L. 98–181, §451(d)(7), added subsec. (d).
 
-1973—Pub. L. 93–234 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1973</b>—Pub. L. 93–234 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 #### Transfer of Functions
 
@@ -108,7 +112,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 #### Geospatial Digital Flood Hazard Data
 
-Pub. L. 108–264, title I, §107, June 30, 2004, 118 Stat. 724, provided that: “For the purposes of flood insurance and floodplain management activities conducted pursuant to the National Flood Insurance Program under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.), geospatial digital flood hazard data distributed by the Federal Emergency Management Agency, or itsdesignee, or the printed products derived from that data, are interchangeable and legally equivalent for the determination of the location of 1 in 100 year and 1 in 500 year flood planes \[sic\], provided that all other geospatial data shown on the printed product meets or exceeds any accuracy standard promulgated by the Federal Emergency Management Agency.”
+Pub. L. 108–264, title I, §107, June 30, 2004, 118 Stat. 724, provided that: “For the purposes of flood insurance and floodplain management activities conducted pursuant to the National Flood Insurance Program under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.), geospatial digital flood hazard data distributed by the Federal Emergency Management Agency, or its designee, or the printed products derived from that data, are interchangeable and legally equivalent for the determination of the location of 1 in 100 year and 1 in 500 year flood planes \[sic\], provided that all other geospatial data shown on the printed product meets or exceeds any accuracy standard promulgated by the Federal Emergency Management Agency.”
 
 #### Reiteration of FEMA Responsibility to Map Mudslides
 

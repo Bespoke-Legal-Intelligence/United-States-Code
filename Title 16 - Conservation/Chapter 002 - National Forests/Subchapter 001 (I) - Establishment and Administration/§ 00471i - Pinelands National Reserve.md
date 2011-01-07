@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(3) a primary responsibility for protecting and enhancing these benefits resides with the State of New Jersey and the various local units of government having jurisdiction over the area;
 
-&emsp;(4) in view of the longstanding Federal practice of assisting the States in creating, protecting, preserving, and enhancing areas of significant regional and urban importance, and in view of the national significance of this resource, the Federal Government has an interest in assisting the State of New Jersey and its local units of government in fulfilling their responsibilities and in avoiding adverse Federally approved or assisted impacts before these responsibilities can be undertaken;
+&emsp;(4) in view of the longstanding Federal practice of assisting the States in creating, protecting, preserving, and enhancing areas of significant regional and urban importance, and in view of the national significance of this resource, the Federal Government has an interest in assisting the State of New Jersey andits local units of government in fulfilling their responsibilities and in avoiding adverse Federally approved or assisted impacts before these responsibilities can be undertaken;
 
 &emsp;(5) the State of New Jersey and its local units of government have authority to prevent or minimize adverse uses of the land and water resources of the Pinelands area and can, to a great extent, protect the health, safety, and general welfare by the use of such authority; and
 
@@ -58,7 +58,7 @@ The comprehensive management plan for the Pinelands National Reserve shall inclu
 
 &emsp;(1) A resource assessment which:
 
-&emsp;&emsp;(A) determines the amount and type of human development and activity which the ecosystem can sustain while still maintaining the overall ecological values described in this section with special reference to (i) ground and surface water supply and quality; (ii) natural hazards, including fire; (iii) endangered, unique and unusual plants and animals and biotic communities; (iv) ecological factors relating to the protection and enhancement of blueberry and cranberry production and other agricultural activity; (v) air quality; and (vi) other appropriate considerations affecting the ecological integrity of the area; and
+&emsp;&emsp;(A) determines the amount and type of human development and activity which theecosystem can sustain while still maintaining the overall ecological values described in this section with special reference to (i) ground and surface water supply and quality; (ii) natural hazards, including fire; (iii) endangered, unique and unusual plants and animals and biotic communities; (iv) ecological factors relating to the protection and enhancement of blueberry and cranberry production and other agricultural activity; (v) air quality; and (vi) other appropriate considerations affecting the ecological integrity of the area; and
 
 &emsp;&emsp;(B) includes an assessment of scenic, aesthetic, cultural, open space, and outdoor recreation resources of the area together with a determination of overall policies required to maintain and enhance these resources.
 
@@ -102,7 +102,7 @@ The comprehensive management plan for the Pinelands National Reserve shall inclu
 
 &emsp;(A) the planning entity has afforded adequate opportunity, including public hearings, for public and governmental involvement in the preparation and review of the plan, and whether such review and comment thereon were considered in the plan or revision as presented to him;
 
-&emsp;(B) he has received adequate assurances from appropriate State officials that the recommended implementation program identified in the plan will be initiated within a reasonable time after the date of approval of the plan and such program will insure effective implementation of the State and local aspects of the plan;
+&emsp;(B) he has received adequate assurances from appropriate State officials that the recommended implementation program identifiedin the plan will be initiated within a reasonable time after the date of approval of the plan and such program will insure effective implementation of the State and local aspects of the plan;
 
 &emsp;(C) provision is made for the participation of a Federal representative in the implementation program;
 
@@ -126,11 +126,11 @@ The comprehensive management plan for the Pinelands National Reserve shall inclu
 
 (1)(A) During the development of the management plan, the Secretary is authorized to make grants to the State of New Jersey for the acquisition of lands and waters or interests therein within the Pinelands National Reserve that he determines, in consultation with the State planning entity, have critical ecological values which are in immediate danger of being adversely affected or destroyed.
 
-(B) The grants authorized by subsection (h)(1)(A) of this section together with the grants made under paragraph (4) of this subsection, shall (i) be made in a manner consistent with the requirements of the Land and Water Conservation Fund Act \[16 U.S.C. 460<i>l</i>–4 et seq.\]; (ii) not exceed 75 percent of the total cost of all property acquired by the State pursuant to this subsection; (iii) be supplemental to any otherFederal financial assistance for any other program; and (iv) be subject to such additional terms and conditions as the Secretary may deem necessary to effectuate the purposes of this section.
+(B) The grants authorized by subsection (h)(1)(A) of this section together with the grants made under paragraph (4) of this subsection, shall (i) be made in a manner consistent with the requirements of the Land and Water Conservation Fund Act \[16 U.S.C. 460<i>l</i>–4 et seq.\]; (ii) not exceed 75 percent of the total cost of all property acquired by the State pursuant to this subsection; (iii) be supplemental to any other Federal financial assistance for any other program; and (iv) be subject to such additional terms and conditions as the Secretary may deem necessary to effectuate the purposes of this section.
 
 (2) In the event the State elects not to make acquisitions as authorized under subsection (h)(1) of this section, the Secretary, during the development of the management plan, is authorized to acquire such lands, waters or interests therein by donation, purchase with donated or appropriated funds, exchange, or otherwise, and to administer such property under the laws generally applicable to units of the National Park System or National Wildlife Refuge System in a manner to carry out the purposes of this section.
 
-(3) After his approval of the management plan, the Secretary (A) is authorized to convey property acquired pursuant to subsection (h)(2) of this section to State or local authorities in accordance with the management plan, under such terms and conditions as he may deem appropriate, which shall include (i) a requirement that where the Secretary transfers land acquired with appropriated funds, the State or local government shall repay not less than 25 percent of the cost of such lands to the Secretary under such terms and conditions as he may deem appropriate, and (ii) a retention of a right of reversion of title to the United States, and (B) shall accept from the State those lands acquired pursuant to subsection (h)(1) of this section, which are identified in the management plan as being appropriate for Federal ownership and management: <i>Provided</i>, That the Secretary shall reimburse to the State such sums as are necessary to (i) cover 100 percent of the original cost of acquisition as to each parcel of land so transferred and (ii) assure that as to the remainder of lands acquired pursuant to subsection (h)(1) of this section not transferred under this subsection, the total Federal land acquisition cost does not exceed 75 percent of the purchase price of such lands.
+(3) After his approval of the management plan, the Secretary (A) is authorized to convey property acquired pursuant to subsection (h)(2) of this section to State or local authorities in accordance with the management plan, under such terms and conditions as he may deem appropriate, which shall include (i) a requirement that where the Secretary transfers land acquired with appropriated funds, the State or local government shall repay not less than 25 percent of the cost of such lands to the Secretary under such terms and conditions as he may deem appropriate, and (ii) a retention of a right of reversion of title to the United States, and (B) shall accept from the State those lands acquired pursuant to subsection (h)(1) of this section, which are identified in the management plan as being appropriate for Federal ownership and management: <i>Provided</i>, That the Secretary shall reimburse to the State such sums as are necessary to (i) cover 100 percent of the original cost of acquisition as to each parcel of land sotransferred and (ii) assure that as to the remainder of lands acquired pursuant to subsection (h)(1) of this section not transferred under this subsection, the total Federal land acquisition cost does not exceed 75 percent of the purchase price of such lands.
 
 (4) Upon approval of the management plan, the Secretary is authorized to make grants for the acquisition within the Pinelands National Reserve of lands and waters or interests therein in a manner consistent with the management plan. All applications for such grants shall be made within ten years from the date of implementation of the management plan.
 
@@ -152,7 +152,7 @@ Nothing in this section shall be construed to limit or prohibit any Federal acti
 
 &emsp;(B) lands that are within the areas protected by the management plan and that are threatened by adverse development or have critical ecological values; or
 
-&emsp;(C) lands that have limited practical use because of their location in the Reserve and that are held by landowners who both own less than50 acres in the Reserve and have exhausted existing remedies to secure relief.
+&emsp;(C) lands that have limited practical use because of their location in the Reserve and that are held by landowners who both own less than 50 acres in the Reserve and have exhausted existing remedies to secure relief.
 
 > Additional funds contributed by the State to the Pinelands Development Bank after enactment of this Act, not to exceed $5,000,000, may be counted as part of the State share of land acquisition funds.
 
@@ -168,7 +168,7 @@ Nothing in this section shall be construed to limit or prohibit any Federal acti
 
 &emsp;&emsp;(A) Interpretative and informational materials, exhibits, films, lectures, and other devices and educational methods.
 
-&emsp;&emsp;(B) A plan to provide for educational and interpretative programs for the Reserve, considering among other things the improvement of existing facilities and interpretative programs in the Reserve, including the possible use of existing facilities such as Whitesbog, Batsto, Double Trouble State Park and Stockton State College.
+&emsp;&emsp;(B) A plan to provide for educational and interpretative programs for the Reserve, considering among other things the improvement of existing facilities and interpretative programs in the Reserve, including the possible use of existing facilities such asWhitesbog, Batsto, Double Trouble State Park and Stockton State College.
 
 &emsp;&emsp;(C) The use and enhancement of existing fire towers in the Reserve to serve as observation platforms.
 
@@ -202,7 +202,7 @@ Enactment of this Act, referred to in subsec. (k)(2), probably means date of ena
 
 #### Amendments
 
-1988—Subsec. (k). Pub. L. 100–486, §2, designated existing provisions as par. (1) and added par. (2).
+<b>1988</b>—Subsec. (k). Pub. L. 100–486, §2, designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (<i>l</i>). Pub. L. 100–486, §1, added subsec. (<i>l</i>).
 

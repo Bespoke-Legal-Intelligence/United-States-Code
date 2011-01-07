@@ -2,13 +2,13 @@
 
 (a) There are authorized to be appropriated—
 
-&emsp;(1) for the purpose of providing for the expenses of the National Institute on Disability and Rehabilitation Research under section 762 of this title, which shall include the expenses of the Rehabilitation Research Advisory Council under section 765 of this title, and shall not include the expenses of such Institute to carry out section 764 of this title, such sums as may be necessary for each of fiscal years 1999 through 2003; and
+&emsp;(1) for the purpose of providing for the expenses of the National Institute on Disabilityand Rehabilitation Research under section 762 of this title, which shall include the expenses of the Rehabilitation Research Advisory Council under section 765 of this title, and shall not include the expenses of such Institute to carry out section 764 of this title, such sums as may be necessary for each of fiscal years 1999 through 2003; and
 
 &emsp;(2) to carry out section 764 of this title, such sums as may be necessary for each of fiscal years 1999 through 2003.
 
 (b) Funds appropriated under this subchapter shall remain available until expended.
 
-(Pub. L. 93–112, title II, §201, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1168;amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412.)
+(Pub. L. 93–112, title II, §201, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1168; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412.)
 
 #### Prior Provisions
 
@@ -22,5 +22,5 @@ Section 761b, Pub. L. 93–112, title II, §203, as added Pub. L. 95–602, titl
 
 #### Amendments
 
-1998—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, §405, which enacted this section.
+<b>1998</b>—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, §405, which enacted this section.
 

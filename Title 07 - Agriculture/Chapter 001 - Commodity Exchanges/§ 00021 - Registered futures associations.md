@@ -218,7 +218,11 @@ Consistent with this chapter, each futures association registered under this sec
 
 &emsp;(2) similar rules of national securities associations registered pursuant to section 78<i>o</i>–3(a) of title 15 involving security futures products.
 
-(Sept. 21, 1922, ch. 369, §17, as added Pub. L. 93–463, title III, §301, Oct. 23, 1974, 88 Stat. 1406; amended Pub. L. 95–405, §22, Sept. 30, 1978, 92 Stat. 876; Pub. L. 97–444, title II, §§217(b), 233, Jan. 11, 1983, 96 Stat. 2307, 2320; Pub. L. 99–641, title I, §§107, 108, 110(6), (7), Nov. 10, 1986, 100 Stat. 3558, 3559, 3561; Pub. L. 102–546, title II, §§204(a), 206(b), 209(b)(8), 222(c), 228, title IV, §402(12), Oct. 28, 1992, 106 Stat. 3600, 3602, 3607, 3616, 3619, 3625; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(24), title II, §251(g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–410, 2763A–444; Pub. L. 110–234, title XIII, §13105(f), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, §4(a), title XIII, §13105(f), June 18, 2008, 122 Stat. 1664, 2196.)
+(Sept. 21, 1922, ch. 369, §17, as added Pub. L. 93–463, title III, §301, Oct. 23, 1974, 88 Stat. 1406; amended Pub. L. 95–405, §22, Sept. 30, 1978, 92 Stat. 876; Pub. L. 97–444, title II, §§217(b), 233, Jan. 11, 1983, 96 Stat. 2307, 2320; Pub. L. 99–641, title I, §§107, 108, 110(6), (7), Nov. 10, 1986, 100 Stat. 3558, 3559, 3561; Pub. L. 102–546, title II, §§204(a), 206(b), 209(b)(8), 222(c), 228, title IV, §402(12), Oct. 28, 1992, 106 Stat. 3600, 3602, 3607, 3616, 3619, 3625; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(24), title II, §251(g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–410, 2763A–444; Pub. L. 110–234, title XIII, §13105(f), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, §4(a), title XIII, §13105(f), June 18, 2008, 122 Stat. 1664, 2196; Pub. L. 111–203, title VII, §749(g), July 21, 2010, 124 Stat. 1748.)
+
+#### Amendment of Subsection (r)(1)
+
+<i>Pub. L. 111–203, title VII, §§749(g), 754, July 21, 2010, 124 Stat. 1748, 1754, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, subsection (r)(1) of this section is amended by striking “section 6d(c) of this title” and inserting “section 6d(e) of this title”.</i>
 
 #### Codification
 
@@ -266,11 +270,11 @@ Subsec. (i). Pub. L. 99–641, §107, amended subsec. (i) generally. Prior to am
 
 &emsp;“(A) finds that such member or person has engaged in such acts or practices, or has omitted such act, as the association has found him to have engaged in or omitted, and
 
-&emsp;“(B) determines that such acts or practices, or omission to act, are in violation of such rules of the association as have been designated in the determination of the association, the Commission shall by order dismiss the proceeding, unless it appears to the Commission that such action should be modified in accordance with paragraph (2) of this subsection. The Commission shall likewise determine whether the acts or practices prohibited, or the omission of any act required, by any such rule constitute conduct inconsistent with just and equitable principles of trade, and shall so declare. If it appears to the Commission that the evidence does not warrant the finding required in clause (A), or if the Commission determines that such acts or practices as are found to have been engaged in are not prohibited by the designated rule or rules of the association, or that such act as is found to have been omitted is not required by such designated rule or rules, the Commission shall by order set aside the action of the association.
+&emsp;“(B) determines that such acts or practices, or omission to act, are in violation of such rules of the association as have been designated in the determination of the association, the Commission shall by order dismiss the proceeding, unless it appears to the Commission that such action should be modified in accordance with paragraph (2) of this subsection. The Commission shall likewise determine whether the acts or practices prohibited, or the omission of any act required, by any such rule constitute conduct inconsistent with just and equitable principles of trade, and shall so declare. If it appears to the Commission that the evidence does not warrant the finding required in clause (A), or if the Commission determinesthat such acts or practices as are found to have been engaged in are not prohibited by the designated rule or rules of the association, or that such act as is found to have been omitted is not required by such designated rule or rules, the Commission shall by order set aside the action of the association.
 
 “(2) If, after appropriate notice and opportunity for hearing, the Commission finds that any penalty imposed upon a member or person associated with a member is excessive or oppressive, having due regard to the public interest, the Commission shall by order cancel, reduce, or require the remission of such penalty.
 
-“(3) In any proceeding to review the denial of membership in a registered futures association or the barring of any person from being associated with a member, if the Commission, after appropriate notice andhearing, and upon consideration of the record before the association and such other evidence as it may deem relevant, determines that the specific grounds on which such denial or bar is based exist in fact and are valid under this section, the Commission shall by order dismiss the proceeding; otherwise, the Commission shall by order set aside the action of the association and require it to admit the applicant to membership therein, or to permit such person to be associated with a member.”
+“(3) In any proceeding to review the denial of membership in a registered futures association or the barring of any person from being associated with a member, if the Commission, after appropriate notice and hearing, and upon consideration of the record before the association and such other evidence as it may deem relevant, determines that the specific grounds on which such denial or bar is based exist in fact and are valid under this section, the Commission shall by order dismiss the proceeding; otherwise, the Commission shall by order set aside the action of the association and require it to admit the applicant to membership therein, or to permit such person to be associated with a member.”
 
 Subsec. (j). Pub. L. 99–641, §108, struck out sentence which read as follows: “The Commission shall approve such rules within thirty days of their receipt if Commission approval is requested under this subsection or within thirty days after the Commission determines to review for approval any other rules unless the Commission notifies the registered futures association of its inability to complete such approval or review within such period of time.”
 
@@ -296,6 +300,10 @@ Subsec. (<i>l</i>)(1), (2)(A). Pub. L. 95–405, §22(3), substituted “chapter
 
 Subsecs. (m), (n). Pub. L. 95–405, §22(4), added subsec. (m) and redesignated former subsec. (m) as (n).
 
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
@@ -314,7 +322,7 @@ For effective date of section, see section 418 of Pub. L. 93–463, set out as a
 
 #### Implementation
 
-Section 204(b) of Pub. L. 102–546 provided that: “The guidelines required under section 17(p)(4) of the Commodity Exchange Act \[7 U.S.C. 21(p)(4)\] (as added by subsection (a) of this section) shall be submitted by a futures association registered with the Commodity Futures Trading Commission on the date of enactment of this Act \[Oct. 28, 1992\] to the Commission for the approval of the Commission not later than one hundred and eighty days after the date of enactment of this Act.”
+Section 204(b) of Pub. L. 102–546 provided that: “The guidelines required under section 17(p)(4) of the Commodity Exchange Act \[7 U.S.C. 21(p)(4)\] (as added bysubsection (a) of this section) shall be submitted by a futures association registered with the Commodity Futures Trading Commission on the date of enactment of this Act \[Oct. 28, 1992\] to the Commission for the approval of the Commission not later than one hundred and eighty days after the date of enactment of this Act.”
 
 #### Study on Computerized Futures Trading
 

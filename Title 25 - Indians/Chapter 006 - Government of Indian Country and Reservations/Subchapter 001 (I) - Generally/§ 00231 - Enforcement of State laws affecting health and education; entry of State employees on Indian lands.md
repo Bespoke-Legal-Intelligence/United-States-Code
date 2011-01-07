@@ -6,7 +6,7 @@ The Secretary of the Interior, under such rules and regulations as he may prescr
 
 #### Amendments
 
-1946—Act Aug. 9, 1946, permitted proper State officers to invoke penalties of State compulsory school attendance against Indian children, their parents, or other persons in loco parentis.
+<b>1946</b>—Act Aug. 9, 1946, permitted proper State officers to invoke penalties of State compulsory school attendance against Indian children, their parents, or other persons in loco parentis.
 
 #### Transfer of Functions
 

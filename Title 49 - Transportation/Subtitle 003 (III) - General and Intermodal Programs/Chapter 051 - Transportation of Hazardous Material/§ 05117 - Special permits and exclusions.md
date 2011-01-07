@@ -90,7 +90,7 @@ The Ports and Waterways Safety Act of 1972, referred to in subsec. (d)(1)(C), is
 
 #### Amendments
 
-2005—Pub. L. 109–59, §7115(a)(1), substituted “Special permits and exclusions” for “Exemptions and exclusions” in section catchline.
+<b>2005</b>—Pub. L. 109–59, §7115(a)(1), substituted “Special permits and exclusions” for “Exemptions and exclusions” in section catchline.
 
 Subsec. (a). Pub. L. 109–59, §7115(b), substituted “Issue Special Permits” for “Exempt” in heading.
 
@@ -106,5 +106,5 @@ Subsec. (c). Pub. L. 109–59, §7115(f), substituted “the special permit” f
 
 Subsec. (e). Pub. L. 109–59, §7115(g), substituted “a special permit” for “an exemption” and “be granted a variance” for “be exempt”.
 
-1994—Subsecs. (c) to (e). Pub. L. 103–311 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+<b>1994</b>—Subsecs. (c) to (e). Pub. L. 103–311 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 

@@ -42,11 +42,11 @@ A prior section 6 of Pub. L. 101–592 was classified to section 5405 of this ti
 
 #### Amendments
 
-1999—Subsec. (b)(3). Pub. L. 106–34, §6(1), substituted “of this subsection” for “of this section”.
+<b>1999</b>—Subsec. (b)(3). Pub. L. 106–34, §6(1), substituted “of this subsection” for “of this section”.
 
 Subsec. (b)(4). Pub. L. 106–34, §6(2), inserted “arbitrate,” after “Secretary may”.
 
 Subsec. (d). Pub. L. 106–34, §6(3), designated existing provisions as par. (1) and added par. (2).
 
-1996—Subsec. (d). Pub. L. 104–113 added subsec. (d).
+<b>1996</b>—Subsec. (d). Pub. L. 104–113 added subsec. (d).
 

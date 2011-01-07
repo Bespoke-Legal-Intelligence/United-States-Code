@@ -6,5 +6,5 @@ Sections 2274 to 2278b of this title shall not exclude the applicable provisions
 
 #### Amendments
 
-1956—Act Aug. 6, 1956, §7, substituted “2274 to 2278b” for “2274 to 2278”.
+<b>1956</b>—Act Aug. 6, 1956, §7, substituted “2274 to 2278b” for “2274 to 2278”.
 

@@ -52,7 +52,7 @@ The Support Anti-Terrorism by Fostering Effective Technologies Act of 2002, refe
 
 #### Amendments
 
-2005—Subsec. (g). Pub. L. 109–90 added subsec. (g).
+<b>2005</b>—Subsec. (g). Pub. L. 109–90 added subsec. (g).
 
 #### Transfer of Functions
 

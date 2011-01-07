@@ -14,7 +14,7 @@ The Administrator is authorized to provide for participation of military personn
 
 #### (d) Status of military personnel unaffected
 
-Appointment, detail, or assignment to, acceptance of, and service in, any appointive or otherposition in the Administration under this section shall in no way affect the status, office, rank, or grade which such officers or enlisted men may occupy or hold, or any emolument, perquisite, right, privilege, or benefit incident to or arising out of any such status, office, rank, or grade. A member so appointed, detailed, or assigned shall not be subject to direction or control by his Armed Force, or any officer thereof, directly or indirectly, with respect to the responsibilities exercised in the position to which appointed, detailed, or assigned.
+Appointment, detail, or assignment to, acceptance of, and service in, any appointive or other position in the Administration under this section shall in no way affect the status, office, rank, or grade which such officers or enlisted men may occupy or hold, or any emolument, perquisite, right, privilege, or benefit incident to or arising out of any such status, office, rank, or grade. A member so appointed, detailed, or assigned shall not be subject to direction or control by his Armed Force, or any officer thereof, directly or indirectly, with respect to the responsibilities exercised in the position to which appointed, detailed, or assigned.
 
 #### (e) Transportation and per diem expenses
 

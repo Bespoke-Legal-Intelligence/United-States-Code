@@ -90,5 +90,5 @@ Section 313 of the Adult Education Act (as such Act was in effect on the day bef
 
 #### Amendments
 
-1998—Subsec. (d)(1). Pub. L. 105–277 struck out “, but less than 61 years of age” after “16 years of age”.
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–277 struck out “, but less than 61 years of age” after “16 years of age”.
 

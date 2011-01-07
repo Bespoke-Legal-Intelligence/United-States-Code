@@ -4,7 +4,7 @@
 
 &emsp;(1) there is a substantial imbalance in international wine trade resulting, in part, from the relative accessibility enjoyed by foreign wines to the United States market while the United States wine industry faces restrictive tariff and nontariff barriers in virtually every existing or potential foreign market;
 
-&emsp;(2) the restricted access to foreign markets and the continued low prices for United Stateswine and grape products adversely affect the economic position of our Nation's winemakers and grape growers, as well as all other domestic sectors that depend upon wine production;
+&emsp;(2) the restricted access to foreign markets and the continued low prices for United States wine and grape products adversely affect the economic position of our Nation's winemakers and grape growers, as well as all other domestic sectors that depend upon wine production;
 
 &emsp;(3) the competitive position of United States wine in international trade has been weakened by foreign trade practices, high domestic interest rates, and unfavorable foreign exchange rates;
 

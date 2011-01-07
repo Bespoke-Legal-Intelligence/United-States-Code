@@ -10,9 +10,9 @@ Provisions similar to those comprising this section were contained in Pub. L. 85
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 1782 of this title as this section and substituted “3674A” for “1774A”.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1782 of this title as this section and substituted “3674A” for “1774A”.
 
-1988—Pub. L. 100–323 substituted “Except as provided in section 1774A of this title, no” for “No”.
+<b>1988</b>—Pub. L. 100–323 substituted “Except as provided in section 1774A of this title, no” for “No”.
 
-1972—Pub. L. 92–540 inserted “this chapter or” before “chapter 34 or 35”.
+<b>1972</b>—Pub. L. 92–540 inserted “this chapter or” before “chapter 34 or 35”.
 

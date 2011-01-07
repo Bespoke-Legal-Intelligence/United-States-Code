@@ -4,7 +4,7 @@
 
 (1) Except as provided by subsection (b) of this section, it shall be unlawful for any person in any State to distribute or sell to any person—
 
-&emsp;(A) any pesticide that is not registered under section 136a of this title or whose registration has been canceled or suspended, except to the extent that distribution or sale otherwise has been authorized by the Administrator under this subchapter;
+&emsp;(A) any pesticide that is not registered under section 136a of this title or whose registrationhas been canceled or suspended, except to the extent that distribution or sale otherwise has been authorized by the Administrator under this subchapter;
 
 &emsp;(B) any registered pesticide if any claims made for it as a part of its distribution or sale substantially differ from any claims made for it as a part of the statement required in connection with its registration under section 136a of this title;
 
@@ -66,7 +66,7 @@
 
 The penalties provided for a violation of paragraph (1) of subsection (a) of this section shall not apply to—
 
-&emsp;(1) any person who establishes a guaranty signed by, and containing the name and address of, the registrant or person residing in the United States from whom the person purchased or received in good faith the pesticide in the same unbroken package, to the effect that the pesticide was lawfully registered at the time of sale and delivery to the person, and that it complies with the other requirements of this subchapter, and in such case the guarantor shall be subject to the penalties which would otherwise attach to the person holding the guaranty under the provisions of this subchapter;
+&emsp;(1) any person who establishes a guaranty signed by, and containing the name and address of, the registrant or person residing in the United States from whom the person purchased or received in good faith the pesticide in the same unbroken package, to the effect that the pesticide was lawfully registered atthe time of sale and delivery to the person, and that it complies with the other requirements of this subchapter, and in such case the guarantor shall be subject to the penalties which would otherwise attach to the person holding the guaranty under the provisions of this subchapter;
 
 &emsp;(2) any carrier while lawfully shipping, transporting, or delivering for shipment any pesticide or device, if such carrier upon request of any officer or employee duly designated by the Administrator shall permit such officer or employee to copy all of its records concerning such pesticide or device;
 

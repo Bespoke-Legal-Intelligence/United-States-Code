@@ -6,7 +6,7 @@ The maintenance and repair of a real property facility for an activity or agency
 
 #### Amendments
 
-1982—Pub. L. 97–214 substituted “maintenance and repair” for “construction, maintenance, rehabilitation, repair, alteration, addition, expansion, or extension”.
+<b>1982</b>—Pub. L. 97–214 substituted “maintenance and repair” for “construction, maintenance, rehabilitation, repair, alteration, addition, expansion, or extension”.
 
 #### Effective Date of 1982 Amendment
 

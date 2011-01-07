@@ -46,7 +46,7 @@ An application submitted under subsection (a) of this section shall set forth as
 
 Each general application submitted under this section shall remain in effect for the duration of any program it covers. The Secretary shall not require the resubmission or amendment of that application unless required by changes in Federal or State law or by other significant changes in the circumstances affecting an assurance in that application.
 
-(Pub. L. 90–247, title IV, §441, formerly §435, as added Pub. L. 95–561, title XII, §1231(a)(3), Nov. 1, 1978, 92 Stat. 2343; amended Pub. L. 98–511, title VII, §706(a), Oct. 19, 1984, 98 Stat. 2406; Pub. L. 100–297, title III, §3501(c), Apr. 28, 1988, 102 Stat. 357; renumbered §441 and amended Pub. L. 103–382, title II, §§212(b)(1), (3)(A), 261(f), Oct. 20, 1994, 108 Stat. 3913, 3928; Pub. L. 107–110, title X, §1062(2), Jan. 8, 2002, 115 Stat. 2087.)
+(Pub. L. 90–247, title IV, §441, formerly §435, as added Pub. L. 95–561, title XII, §1231(a)(3), Nov. 1,1978, 92 Stat. 2343; amended Pub. L. 98–511, title VII, §706(a), Oct. 19, 1984, 98 Stat. 2406; Pub. L. 100–297, title III, §3501(c), Apr. 28, 1988, 102 Stat. 357; renumbered §441 and amended Pub. L. 103–382, title II, §§212(b)(1), (3)(A), 261(f), Oct. 20, 1994, 108 Stat. 3913, 3928; Pub. L. 107–110, title X, §1062(2), Jan. 8, 2002, 115 Stat. 2087.)
 
 #### References in Text
 
@@ -62,9 +62,9 @@ Another prior section 441 of Pub. L. 90–247 was classified to section 1233 of 
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–110 made technical correction to directory language of Pub. L. 100–297. See 1988 Amendment note below.
+<b>2002</b>—Subsec. (a). Pub. L. 107–110 made technical correction to directory language of Pub. L. 100–297. See 1988 Amendment note below.
 
-1994—Pub. L. 103–382, §261(f)(1), substituted “Secretary” for “Commissioner” wherever appearing.
+<b>1994</b>—Pub. L. 103–382, §261(f)(1), substituted “Secretary” for “Commissioner” wherever appearing.
 
 Subsec. (a). Pub. L. 103–382, §261(f)(2)(C), substituted “part C of title V of the Elementary and Secondary Education Act of 1965” for “title V of such Act”.
 
@@ -74,9 +74,9 @@ Pub. L. 103–382, §261(f)(2)(A), struck out the comma after “submits a plan�
 
 Subsec. (b)(6). Pub. L. 103–382, §212(b)(3), made technical amendment to reference to section 1232f of this title to reflect renumbering of corresponding section of original act.
 
-1988—Subsec. (a). Pub. L. 100–297, as amended by Pub. L. 107–110, substituted “chapter 1 and chapter 2 of title I of the Elementary and Secondary Education Act of 1965)” for “titles I and IV of the Elementary and Secondary Education Act of 1965”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–297, as amended by Pub. L. 107–110, substituted “chapter 1 and chapter 2 of title I of the Elementary and Secondary Education Act of 1965)” for “titles I and IV of the Elementary and Secondary Education Act of 1965”.
 
-1984—Subsec. (b)(8). Pub. L. 98–511 added par. (8).
+<b>1984</b>—Subsec. (b)(8). Pub. L. 98–511 added par. (8).
 
 #### Effective Date of 2002 Amendment
 
@@ -84,7 +84,7 @@ Pub. L. 107–110, title X, §1062(2), Jan. 8, 2002, 115 Stat. 2087, provided th
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not applicable to recipients receivingwritten notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as a note under section 1234 of this title.
+Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as a note under section 1234 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -134,7 +134,7 @@ Oct. 12, 1949, ch. 681, §501(a) (45 words before proviso), (e) (less applicabil
 
 In subsection (a), the words “in the amount set forth in subsection (d)” are substituted for the words “in such amounts . . . as are provided in this section”.
 
-In subsection (b), the words “on a daily basis” are substituted for the last sentence of section 251(a) of existing title 37. The words “United States” are substituted for the word “Government”, in the 2d sentence of section 251(a) of existing title 37, section 251(b) of existing title 37, and section 251(e) of existing title 37. The word “confined” is substituted for the word “sick” for clarity. The last 16 words of the third sentence are substituted for section 251(b) (proviso) of existing title 37. The fourth sentence is substituted for section 251(a) of existing title 37. The last sentence is substituted for section 301(a) (45 words before proviso) of existing title 37 and section 301(e) (less applicability to basic pay, incentive pay, administrative pay, and duty without pay). In that sentence, the words “of a reserve component of a uniformed service, or of the National Guard” are substituted for the enumeration of the organizations concerned.
+In subsection (b), the words “on a daily basis” are substituted for the last sentence of section 251(a) of existing title 37. The words “United States” are substituted for the word “Government”, in the 2d sentence of section 251(a) of existing title 37, section 251(b) of existing title 37, and section 251(e) of existing title 37. The word “confined” is substituted for the word “sick” for clarity. The last 16 words of the third sentence are substituted for section 251(b) (proviso) of existing title 37. The fourth sentence is substituted for section 251(a) of existing title 37. The last sentence is substituted forsection 301(a) (45 words before proviso) of existing title 37 and section 301(e) (less applicability to basic pay, incentive pay, administrative pay, and duty without pay). In that sentence, the words “of a reserve component of a uniformed service, or of the National Guard” are substituted for the enumeration of the organizations concerned.
 
 In subsection (c), the words “who are entitled to basic pay” are inserted to reflect the 1st sentence of section 251(a) of existing title 37.
 
@@ -144,19 +144,19 @@ In subsection (e), the words “Effective April 15, 1955,” are omitted as exec
 
 #### Amendments
 
-2008—Subsec. (h)(1). Pub. L. 110–417, §602(1), struck out before period at end “during any month covered by paragraph (3) in which the member is entitled to a basic allowance for subsistence under this section”.
+<b>2008</b>—Subsec. (h)(1). Pub. L. 110–417, §602(1), struck out before period at end “during any month covered by paragraph (3) in which the member is entitled to a basic allowance for subsistence under this section”.
 
 Subsec. (h)(3). Pub. L. 110–417, §602(2), struck out par. (3) which read as follows: “This subsection shall apply to months beginning during the period beginning on October 1, 2005, and ending on December 31, 2008.”
 
 Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
 
-2006—Subsec. (h). Pub. L. 109–163, §607(a)(2), added subsec. (h). Former subsec. (h) redesignated (i).
+<b>2006</b>—Subsec. (h). Pub. L. 109–163, §607(a)(2), added subsec. (h). Former subsec. (h) redesignated (i).
 
 Subsec. (h)(3). Pub. L. 109–364 substituted “December 31, 2007” for “December 31, 2006”.
 
 Subsec. (i). Pub. L. 109–163, §607(a)(1), redesignated subsec. (h) as (i).
 
-2003—Subsec. (b)(1). Pub. L. 108–136, §1045(b)(2)(A)(i)–(iii), redesignated par. (2) as (1), substituted “The” for “On and after January 1, 2002, the”, and struck out former par. (1) which read as follows: “Through December 31, 2001, the monthly rate of basic allowance for subsistence to be in effect for an enlisted member for a year (beginning on January 1 of that year) shall be the amount that is halfway between the following amounts, which are determined by the Secretary of Agriculture as of October 1 of the preceding year:
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §1045(b)(2)(A)(i)–(iii), redesignated par. (2) as (1), substituted “The” for “On and after January 1, 2002, the”, and struck out former par. (1) which read as follows: “Through December 31, 2001, the monthly rate of basic allowance for subsistence to be in effect for an enlisted member for a year (beginning on January 1 of that year) shall be the amount that is halfway between the following amounts, which are determined by the Secretary of Agriculture as of October 1 of the preceding year:
 
 &emsp;“(A) The amount equal to the monthly cost of a moderate-cost food plan for a male in the United States who is between 20 and 50 years of age.”
 
@@ -170,7 +170,7 @@ Subsec. (d). Pub. L. 108–136, §1045(b)(2)(B), substituted “subsection (b)(1
 
 Subsecs. (f) to (h). Pub. L. 108–136, §604, added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-2002—Subsec. (d). Pub. L. 107–314 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
+<b>2002</b>—Subsec. (d). Pub. L. 107–314 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
 
 “(1) In areas prescribed by the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, an enlisted member described in paragraph (2) is entitled to not more than the pro rata allowance in effect under paragraph (1) or (2) of subsection (b) for each meal the member buys from a source other than a messing facility of the United States.
 
@@ -178,39 +178,39 @@ Subsecs. (f) to (h). Pub. L. 108–136, §604, added subsec. (f) and redesignate
 
 Pub. L. 107–296, which directed amendment of subsec. (d) by substituting “of Homeland Security” for “of Transportation”, could not be executed because the words “of Transportation” did not appear subsequent to amendment by Pub. L. 107–314, see above and Effective Date of 2002 Amendment note below.
 
-2001—Subsec. (b)(4). Pub. L. 107–107 added par. (4).
+<b>2001</b>—Subsec. (b)(4). Pub. L. 107–107 added par. (4).
 
-2000—Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title VI, §603(a)(1)\], substituted “Through December 31, 2001, the monthly rate” for “The monthly rate” in introductory provisions.
+<b>2000</b>—Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title VI, §603(a)(1)\], substituted “Through December 31, 2001, the monthly rate” for “The monthly rate” in introductory provisions.
 
 Subsec. (b)(2), (3). Pub. L. 106–398, §1 \[\[div. A\], title VI, §603(a)(2), (3)\], added par. (2) and redesignated former par. (2) as (3).
 
 Subsec. (d)(1). Pub. L. 106–398, §1 \[\[div. A\], title VI, §603(b)\], substituted “in effect under paragraph (1) or (2) of subsection (b)” for “established under subsection (b)(1)”.
 
-1998—Subsecs. (e) to (g). Pub. L. 105–261 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+<b>1998</b>—Subsecs. (e) to (g). Pub. L. 105–261 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
-1997—Pub. L. 105–85 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to basic allowance for subsistence for members of the uniformed services.
+<b>1997</b>—Pub. L. 105–85 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to basic allowance for subsistence for members of the uniformed services.
 
-1996—Subsec. (b). Pub. L. 104–106, §602(a), (b), designated first sentence as par. (1), redesignated former pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, of par. (1), designated second to fourth sentences as par. (2), designated fifth and sixth sentences as par. (3), and added par. (4).
+<b>1996</b>—Subsec. (b). Pub. L. 104–106, §602(a), (b), designated first sentence as par. (1), redesignated former pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, of par. (1), designated second to fourth sentences as par. (2), designated fifth and sixth sentences as par. (3), and added par. (4).
 
 Subsec. (e)(1). Pub. L. 104–106, §602(c)(1)(A), substituted “subsection (b)(2)” for “the third sentence of subsection (b)”.
 
 Subsec. (e)(2). Pub. L. 104–106, §602(c)(1)(B), substituted “subsection (b)(2)” for “subsection (b)”.
 
-1991—Subsec. (e). Pub. L. 102–25 struck out “of this section” after “subsection (b)” in pars. (1) and (2).
+<b>1991</b>—Subsec. (e). Pub. L. 102–25 struck out “of this section” after “subsection (b)” in pars. (1) and (2).
 
-1985—Subsec. (b). Pub. L. 99–145 inserted “or as otherwise prescribed by law” after “title” at end of fourth sentence.
+<b>1985</b>—Subsec. (b). Pub. L. 99–145 inserted “or as otherwise prescribed by law” after “title” at end of fourth sentence.
 
-1984—Subsec. (b). Pub. L. 98–525 inserted “The Secretary concerned may provide an enlisted member who could be provided rations in kind under the preceding sentence with a commutation when rations in kind are not available.”
+<b>1984</b>—Subsec. (b). Pub. L. 98–525 inserted “The Secretary concerned may provide an enlisted member who could be provided rations in kind under the preceding sentence with a commutation when rations in kind are not available.”
 
 Subsec. (d). Pub. L. 98–557 inserted provisions relating to Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy.
 
-1983—Subsec. (e). Pub. L. 98–94 designated existing provisions as par. (1) and added par. (2).
+<b>1983</b>—Subsec. (e). Pub. L. 98–94 designated existing provisions as par. (1) and added par. (2).
 
-1980—Subsec. (b). Pub. L. 96–513, §411(a), inserted provisions authorizing an allowance while performing travel under orders, and struck out provisions prohibiting an allowance while being subsisted at the expense of United States.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513, §411(a), inserted provisions authorizing an allowance while performing travel under orders, and struck out provisions prohibiting an allowance while being subsisted at the expense of United States.
 
 Subsec. (e). Pub. L. 96–513, §411(b), inserted reference to definitions of “field duty” and “sea duty”.
 
-1974—Subsec. (a). Pub. L. 93–419, §3(1), struck out “this section or by another” after “otherwise provided by” and substituted “as set forth in this section” for “in the amount set forth in subsection (d) of this section”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–419, §3(1), struck out “this section or by another” after “otherwise provided by” and substituted “as set forth in this section” for “in the amount set forth in subsection (d) of this section”.
 
 Subsec. (b). Pub. L. 93–419, §3(2), substituted provisions for allowance for enlisted members authorized to receive basic allowance for subsistence under this subsection by reference to section 1009 of this title for provisions for allowance for enlisted members on leave or were authorized to mess separately at an amount equal to the cost of ration to be determined by the Secretary of Defense.
 
@@ -218,7 +218,7 @@ Subsec. (c). Pub. L. 93–419, §3(3), inserted reference to section 1009 of thi
 
 Subsecs. (d) to (f). Pub. L. 93–419, §3(4), (5), struck out subsec. (d) which related to basic allowance for subsistence for members of the uniformed services, and redesignated subsecs. (e) and (f) as (d) and (e), respectively.
 
-1966—Subsec. (c). Pub. L. 89–444 extended to aviation cadets of the Coast Guard the entitlement to the same basic allowance for subsistence as is provided for an officer of the Coast Guard.
+<b>1966</b>—Subsec. (c). Pub. L. 89–444 extended to aviation cadets of the Coast Guard the entitlement to the same basic allowance for subsistence as is provided for an officer of the Coast Guard.
 
 #### Effective Date of 2008 Amendment
 

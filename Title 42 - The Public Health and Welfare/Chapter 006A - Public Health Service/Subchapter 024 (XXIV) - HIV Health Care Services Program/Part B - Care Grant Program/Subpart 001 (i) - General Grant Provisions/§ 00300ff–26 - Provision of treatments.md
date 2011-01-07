@@ -46,7 +46,7 @@ For purposes of subsection (c)(1), the Secretary shall develop and maintain a li
 
 #### (2) Limitation
 
-&emsp;The authority established in paragraph (1) applies only to the extent that, for the fiscal year involved, the costs of the health insurance or plans to be purchased or maintained under such paragraph do not exceed the costs of otherwise providing therapeutics described in subsection (a) of this section.
+&emsp;The authority established in paragraph (1) applies only to the extent that, for the fiscal year involved, the costs of the health insurance or plans to be purchased or maintained under such paragraph do not exceed the costsof otherwise providing therapeutics described in subsection (a) of this section.
 
 #### (g) Drug rebate program
 
@@ -60,9 +60,9 @@ Section 300ff–22 of this title, referred to in subsec. (d), was amended genera
 
 #### Amendments
 
-2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+<b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 Subsec. (a). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” in two places.
 
@@ -86,11 +86,11 @@ Pub. L. 109–415, §204(a), substituted “section 300ff–21 of this title” 
 
 Subsec. (g). Pub. L. 109–415, §202(b), added subsec. (g).
 
-2000—Subsec. (c). Pub. L. 106–345, §204(a), added par. (6) and concluding provisions.
+<b>2000</b>—Subsec. (c). Pub. L. 106–345, §204(a), added par. (6) and concluding provisions.
 
 Subsec. (e). Pub. L. 106–345, §204(b), added subsec. (e).
 
-1996—Subsec. (a). Pub. L. 104–146, §3(c)(3)(A), substituted “shall use a portion of the amounts” for “may use amounts” and “section 300ff–22(a)(5) of this title to provide therapeutics to treat HIV disease” for “section 300ff–22(a)(4) of this title to provide treatments that have been determined to prolong life” and inserted before period “, including measures for the prevention and treatment of opportunistic infections”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–146, §3(c)(3)(A), substituted “shall use a portion of the amounts” for “may use amounts” and “section 300ff–22(a)(5) of this title to provide therapeutics to treat HIV disease” for “section 300ff–22(a)(4) of this title to provide treatments that have been determined to prolong life” and inserted before period “, including measures for the prevention and treatment of opportunistic infections”.
 
 Subsec. (c)(5). Pub. L. 104–146, §3(c)(3)(B), added par. (5).
 

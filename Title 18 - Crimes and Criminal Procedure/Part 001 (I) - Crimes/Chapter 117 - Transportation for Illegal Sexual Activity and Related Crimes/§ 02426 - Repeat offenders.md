@@ -20,7 +20,7 @@ Definitions.—In this section—
 
 #### Amendments
 
-2008—Subsec. (b)(1)(A). Pub. L. 110–457 substituted “chapter 110, or section 1591” for “or chapter 110”.
+<b>2008</b>—Subsec. (b)(1)(A). Pub. L. 110–457 substituted “chapter 110, or section 1591” for “or chapter 110”.
 
-2003—Subsec. (a). Pub. L. 108–21 inserted “, unless section 3559(e) applies” before period at end.
+<b>2003</b>—Subsec. (a). Pub. L. 108–21 inserted “, unless section 3559(e) applies” before period at end.
 

@@ -52,13 +52,13 @@ In subsection (c), the words “or reinsured” are added for consistency. The w
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–176, §106(c), substituted “by the insurance carrier” for “by the air carrier”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–176, §106(c), substituted “by the insurance carrier” for “by the air carrier”.
 
 Subsec. (c). Pub. L. 108–176, §106(e), made technical correction to directory language of Pub. L. 107–71, §124(b). See 2001 Amendment note below.
 
-2002—Subsec. (c). Pub. L. 107–296 made technical correction to directory language of Pub. L. 107–71, §147. See 2001 Amendment note below.
+<b>2002</b>—Subsec. (c). Pub. L. 107–296 made technical correction to directory language of Pub. L. 107–71, §147. See 2001 Amendment note below.
 
-2001—Subsec. (b). Pub. L. 107–42, §201(d)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+<b>2001</b>—Subsec. (b). Pub. L. 107–42, §201(d)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub.L. 107–71, §147, as amended by Pub. L. 107–296, substituted “1 year” for “60 days” in two places.
 
@@ -68,7 +68,7 @@ Pub. L. 107–42, §201(d)(1), redesignated subsec. (b) as (c). Former subsec. (
 
 Subsec. (d). Pub. L. 107–42, §201(d)(1), redesignated subsec. (c) as (d).
 
-1997—Subsec. (c). Pub. L. 105–137 substituted “as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry.” for “as determined by the Secretary.”
+<b>1997</b>—Subsec. (c). Pub. L. 105–137 substituted “as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry.” for “as determined by the Secretary.”
 
 #### Effective Date of 2003 Amendment
 

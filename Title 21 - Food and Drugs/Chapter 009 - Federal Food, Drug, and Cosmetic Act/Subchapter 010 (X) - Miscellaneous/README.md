@@ -4,8 +4,6 @@
 
 Former subchapter IX of this chapter was redesignated as this subchapter.
 
-<i><sup>1</sup></i><i> So in original. Probably should be plural.</i>
-
 
 ---
 
@@ -20,5 +18,8 @@ Former subchapter IX of this chapter was redesignated as this subchapter.
 - [&sect; 00396 - Practice of medicine](%C2%A7%2000396%20-%20Practice%20of%20medicine.md)
 - [&sect; 00397 - Contracts for expert review](%C2%A7%2000397%20-%20Contracts%20for%20expert%20review.md)
 - [&sect; 00398 - Notices to States regarding imported food](%C2%A7%2000398%20-%20Notices%20to%20States%20regarding%20imported%20food.md)
-- [&sect; 00399 - Grants to States for inspections](%C2%A7%2000399%20-%20Grants%20to%20States%20for%20inspections.md)
+- [&sect; 00399 - Grants to enhance food safety](%C2%A7%2000399%20-%20Grants%20to%20enhance%20food%20safety.md)
 - [&sect; 00399a - Office of the Chief Scientist](%C2%A7%2000399a%20-%20Office%20of%20the%20Chief%20Scientist.md)
+- [&sect; 00399b - Office of Women's Health](%C2%A7%2000399b%20-%20Office%20of%20Women%27s%20Health.md)
+- [&sect; 00399c - Improving the training of State, local, territorial, and tribal food safety officials](%C2%A7%2000399c%20-%20Improving%20the%20training%20of%20State%2C%20local%2C%20territorial%2C%20and%20tribal%20food%20safety%20officials.md)
+- [&sect; 00399d - Employee protections](%C2%A7%2000399d%20-%20Employee%20protections.md)

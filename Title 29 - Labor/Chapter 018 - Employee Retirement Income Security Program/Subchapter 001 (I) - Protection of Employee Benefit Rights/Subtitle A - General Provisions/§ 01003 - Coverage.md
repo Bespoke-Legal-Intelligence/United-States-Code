@@ -38,17 +38,17 @@ Part 5 of subtitle B of this subchapter, referred to in subsec. (c), was in the 
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–147 inserted “and part 5 of subtitle B of this subchapter (relating to administration and enforcement)” after “co-fiduciary responsibilities)” and “Such provisions shall apply to such accounts and annuities in a manner similar to their application to a simplified employee pension under section 408(k) of title 26.” at end.
+<b>2002</b>—Subsec. (c). Pub. L. 107–147 inserted “and part 5 of subtitle B of this subchapter (relating to administration and enforcement)” after “co-fiduciary responsibilities)” and “Such provisions shall apply to such accounts and annuities in a manner similar to their application to a simplified employee pension under section 408(k) of title 26.” at end.
 
-2001—Subsec. (a). Pub. L. 107–16, §602(b)(2), inserted “or (c)” after “subsection (b)” in introductory provisions.
+<b>2001</b>—Subsec. (a). Pub. L. 107–16, §602(b)(2), inserted “or (c)” after “subsection (b)” in introductory provisions.
 
 Subsec. (c). Pub. L. 107–16, §602(b)(1), added subsec. (c).
 
-1996—Subsec. (b). Pub. L. 104–204, in concluding provisions, made technical amendment to references in original act which appear in text as references to section 1191b of this title.
+<b>1996</b>—Subsec. (b). Pub. L. 104–204, in concluding provisions, made technical amendment to references in original act which appear in text as references to section 1191b of this title.
 
 Pub. L. 104–191 inserted at end “The provisions of part 7 of subtitle B of this subchapter shall not apply to a health insurance issuer (as defined in section 1191b(b)(2) of this title) solely by reason of health insurance coverage (as defined in section 1191b(b)(1) of this title) provided by such issuer in connection with a group health plan (as defined in section 1191b(a)(1) of this title) if the provisions of this subchapter do not apply to such group health plan.”
 
-1989—Subsec. (b)(2). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1989</b>—Subsec. (b)(2). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Effective Date of 2002 Amendment
 
@@ -67,4 +67,6 @@ Amendment by Pub. L. 104–191 applicable with respect to group health plans for
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

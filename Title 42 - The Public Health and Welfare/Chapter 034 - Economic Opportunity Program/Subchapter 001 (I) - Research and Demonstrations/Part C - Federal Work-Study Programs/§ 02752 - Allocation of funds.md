@@ -14,7 +14,7 @@
 
 &emsp;(i) $5,000;
 
-&emsp;(ii) an amount equal to (I) 90 percent of the amount received and used under this part in the second preceding fiscal year by eligible institutions offering comparable programs of instruction, divided by (II) the number of students enrolled at such comparable institutions in such fiscal year, multiplied by (III) the number of students enrolled at the applicant institution in such fiscal year; or
+&emsp;(ii) an amount equal to (I) 90 percent of the amount received and used under this part in the second preceding fiscal year by eligible institutions offering comparable programs of instruction, divided by (II) the number of students enrolled at such comparable institutionsin such fiscal year, multiplied by (III) the number of students enrolled at the applicant institution in such fiscal year; or
 
 &emsp;(iii) 90 percent of the institution's allocation under this part for the preceding fiscal year.
 
@@ -58,7 +58,7 @@
 
 &emsp;(A) establish various income categories for dependent and independent undergraduate students;
 
-&emsp;(B) establish an expected family contribution for each income category of dependent and independent undergraduate students, determined on the basis of the average expected family contribution (computed in accordance with part F of this title \[20 U.S.C. 1087kk etseq.\]) of a representative sample within each income category for the second preceding fiscal year;
+&emsp;(B) establish an expected family contribution for each income category of dependent and independent undergraduate students, determined on the basis of the average expected family contribution (computed in accordance with part F of this title \[20 U.S.C. 1087kk et seq.\]) of a representative sample within each income category for the second preceding fiscal year;
 
 &emsp;(C) compute 25 percent of the average cost of attendance for all undergraduate students;
 
@@ -112,7 +112,7 @@
 
 The Secretary shall, from time to time, set dates before which institutions must file applications for allocations under this part.
 
-(Pub. L. 89–329, title IV, §442, formerly title I, §142, as added, renumbered, and amended Pub. L. 90–575, title I, §§131(a), (b)(1), (3), 133(a), 135, Oct. 16, 1968, 82 Stat. 1028, 1029; Pub. L. 92–318, title I, §135B, June 23, 1972, 86 Stat. 270; Pub. L. 96–374, title IV, §§432, 433, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1433, 1503; Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1429; Pub. L. 100–50, §11(a), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §442, July 23, 1992, 106 Stat. 564; Pub. L. 103–208, §2(d)(1), (2), Dec. 20, 1993, 107Stat. 2470; Pub. L. 105–244, title IV, §442(a), (b), Oct. 7, 1998, 112 Stat. 1712; Pub. L. 110–315, title IV, §442, Aug. 14, 2008, 122 Stat. 3258.)
+(Pub. L. 89–329, title IV, §442, formerly title I, §142, as added, renumbered, and amended Pub. L. 90–575, title I, §§131(a), (b)(1), (3), 133(a), 135, Oct. 16, 1968, 82 Stat. 1028, 1029; Pub. L. 92–318, title I, §135B, June 23, 1972, 86 Stat. 270; Pub. L. 96–374, title IV, §§432, 433, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1433, 1503; Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1429; Pub. L. 100–50, §11(a), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §442, July 23, 1992, 106 Stat. 564; Pub. L. 103–208, §2(d)(1), (2), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 105–244, title IV, §442(a), (b), Oct. 7, 1998, 112 Stat. 1712; Pub. L. 110–315, title IV, §442, Aug. 14, 2008, 122 Stat. 3258.)
 
 #### References in Text
 
@@ -126,9 +126,9 @@ Under Pub. L. 90–575, title I, §131(a), Oct. 16, 1968, 82 Stat. 1028, section
 
 #### Amendments
 
-2008—Subsec. (c)(4)(D). Pub. L. 110–315 substituted “$600” for “$450”.
+<b>2008</b>—Subsec. (c)(4)(D). Pub. L. 110–315 substituted “$600” for “$450”.
 
-1998—Subsec. (a)(1). Pub. L. 105–244, §442(a)(1), substituted “received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year)” for “received and used under this part for fiscal year 1985”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–244, §442(a)(1), substituted “received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year)” for “received and used under this part for fiscal year 1985”.
 
 Subsec. (a)(2)(A), (B). Pub. L. 105–244, §442(a)(2)(A), substituted “1999” for “1985” in introductory provisions.
 
@@ -150,11 +150,11 @@ Subsec. (d)(1). Pub. L. 105–244, §442(b)(6), substituted “5 percent” for 
 
 Subsecs. (e), (f). Pub. L. 105–244, §442(b)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-1993—Subsec. (d)(4)(C). Pub. L. 103–208, §2(d)(1), substituted “150 percent of the difference between the income protection allowance for a family of five with one in college and the income protection allowance for a family of six with one in college” for “three-fourths in the Pell Grant family size offset”.
+<b>1993</b>—Subsec. (d)(4)(C). Pub. L. 103–208, §2(d)(1), substituted “150 percent of the difference between the income protection allowance for a family of five with one in college and the income protection allowance for a family of six with one in college” for “three-fourths in the Pell Grant family size offset”.
 
 Subsec. (e). Pub. L. 103–208, §2(d)(2), designated existing provisions as par. (1) and added par. (2).
 
-1992—Subsec. (a)(4). Pub. L. 102–325, §442(a), added par. (4).
+<b>1992</b>—Subsec. (a)(4). Pub. L. 102–325, §442(a), added par. (4).
 
 Subsec. (e). Pub. L. 102–325, §442(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows:
 
@@ -162,11 +162,11 @@ Subsec. (e). Pub. L. 102–325, §442(b), amended subsec. (e) generally. Prior t
 
 “(2) The Secretary shall reallot not to exceed 25 percent of the amount available pursuant to paragraph (1) to eligible institutions for use in initiating, improving, and expanding programs of community service-learning conducted in accordance with section 2756a of this title. The Secretary shall allocate the remainder of the amounts available pursuant to paragraph (1) to eligible institutions based upon the criteria described in section 2756a(c) of this title.”
 
-1987—Subsec. (e)(2). Pub. L. 100–50, substituted “not to exceed 25 percent” for “25 percent” and “section 2756a(c) of this title” for “subsection (c) of this section”, and made technical amendment to reference to section 2756a of this title to correct numerical designation of corresponding section of original act.
+<b>1987</b>—Subsec. (e)(2). Pub. L. 100–50, substituted “not to exceed 25 percent” for “25 percent” and “section 2756a(c) of this title” for “subsection (c) of this section”, and made technical amendment to reference to section 2756a of this title to correct numerical designation of corresponding section of original act.
 
-1986—Pub. L. 99–498 amended section generally, substituting provisions relating to allocation of funds for provisions relating to allotments to States.
+<b>1986</b>—Pub. L. 99–498 amended section generally, substituting provisions relating to allocation of funds for provisions relating to allotments to States.
 
-1980—Subsec. (a). Pub. L. 96–374, §§432(1)–(3), 1391(a)(1), substituted “Secretary” for “Commissioner” in provisions preceding cl. (1), substituted “1 per centum” for “2 per centum” and struck out reference to Puerto Rico in cl. (1), and substituted “subsection (f) of this section” for “subsection (e) of this section” in cl. (2).
+<b>1980</b>—Subsec. (a). Pub. L. 96–374, §§432(1)–(3), 1391(a)(1), substituted “Secretary” for “Commissioner” in provisions preceding cl. (1), substituted “1 per centum” for “2 per centum” and struck out reference to Puerto Rico in cl. (1), and substituted “subsection (f) of this section” for “subsection (e) of this section” in cl. (2).
 
 Subsecs. (b)(1), (2), (c). Pub. L. 96–374, §1391(a)(1), substituted “Secretary” for “Commissioner”.
 
@@ -176,11 +176,11 @@ Subsec. (e). Pub. L. 96–374, §432(5), struck out reference to Puerto Rico.
 
 Subsec. (f). Pub. L. 96–374, §1391(a)(1), substituted “Secretary” for “Commissioner”.
 
-1972—Subsec. (a). Pub. L. 92–318, §135B(a)(2), substituted “Ninety per centum of the remainder” for “The remainder”.
+<b>1972</b>—Subsec. (a). Pub. L. 92–318, §135B(a)(2), substituted “Ninety per centum of the remainder” for “The remainder”.
 
 Subsecs. (c) to (f). Pub. L. 92–318, §135B(a)(2), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
-1968—Subsec. (a). Pub. L. 90–575, §§131(b)(3), 135(a), struck out reference to reservation of an amount needed for making grants under section 2753 of this title and inserted reference to reservation of amount provided by subsec. (e).
+<b>1968</b>—Subsec. (a). Pub. L. 90–575, §§131(b)(3), 135(a), struck out reference to reservation of an amount needed for making grants under section 2753 of this title and inserted reference to reservation of amount provided by subsec. (e).
 
 Subsec. (c). Pub. L. 90–575, §133(a), substituted “eligible institution” for “institution of higher education”.
 
@@ -214,5 +214,5 @@ Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub
 
 Pub. L. 98–8, title I, §100, Mar. 24, 1983, 97 Stat. 27, provided that notwithstanding subsecs. (a), (b), (c), and (e) of this section and section 11 of Public Law 97–301, set out as a note below, the Secretary should allot the sums appropriated pursuant to section 2751(b) of this title for fiscal year 1983 among the States so that each State's allotment bore the same ratio to the total amount appropriated as that State's allotment in fiscal year 1981 bore to the total amount appropriated pursuant to that section for fiscal year 1981.
 
-Pub. L. 97–301, §11, Oct. 13, 1982, 96 Stat. 1403, which provided that notwithstanding subsecs. (a), (b), (c), and (e) of this section, if in fiscal year 1983, fiscal year 1984, or fiscal year 1985 the sums appropriated pursuant to section 2751(b) of this title were less than the sums appropriated pursuant to such section for the fiscal year 1981, the Secretary should allot the sums appropriated pursuant to that section for such fiscal year among the States so that each State's allotment bore the same ratio to the total amount appropriated as that State's allotment in fiscal year 1981 bore to the total amount appropriated pursuant to that section for fiscal year 1981 was repealed by Pub. L. 99–498, title IV, §408(b), Oct. 17, 1986, 100 Stat. 1495, eff. with respect to any academic year beginning on or after July 1, 1988.
+Pub. L. 97–301, §11, Oct. 13, 1982, 96 Stat. 1403, which provided that notwithstanding subsecs. (a), (b), (c), and\(e) of this section, if in fiscal year 1983, fiscal year 1984, or fiscal year 1985 the sums appropriated pursuant to section 2751(b) of this title were less than the sums appropriated pursuant to such section for the fiscal year 1981, the Secretary should allot the sums appropriated pursuant to that section for such fiscal year among the States so that each State's allotment bore the same ratio to the total amount appropriated as that State's allotment in fiscal year 1981 bore to the total amount appropriated pursuant to that section for fiscal year 1981 was repealed by Pub. L. 99–498, title IV, §408(b), Oct. 17, 1986, 100 Stat. 1495, eff. with respect to any academic year beginning on or after July 1, 1988.
 

@@ -32,21 +32,21 @@ The words “officers of the Regular Army in that corps” are substituted for t
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–314 substituted “major general” for “brigadier general”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–314 substituted “major general” for “brigadier general”.
 
-1996—Pub. L. 104–201, §502(a)(3), inserted “; grade” at end of section catchline.
+<b>1996</b>—Pub. L. 104–201, §502(a)(3), inserted “; grade” at end of section catchline.
 
 Subsec. (b). Pub. L. 104–201, §502(a)(1), substituted “lieutenant colonel” for “major” in first sentence, inserted “An appointee who holds a lower regular grade shall be appointed in the regular grade of brigadier general.” after first sentence, and inserted “to the same position” before period at end of last sentence.
 
 Subsec. (c). Pub. L. 104–201, §502(a)(2), substituted “lieutenant colonel” for “major”.
 
-1967—Pub. L. 90–130 divided existing provisions into subsecs. (a), (b), and (c), made minor changes in phraseology, inserted provision for the appointment and service of an assistant chief, struck out limitation restricting membership in the Corps to grades of second lieutenant through colonel, and struck out provision entitling the Chief to the temporary grade of colonel while serving as Chief.
+<b>1967</b>—Pub. L. 90–130 divided existing provisions into subsecs. (a), (b), and (c), made minor changes in phraseology, inserted provision for the appointment and service of an assistant chief, struck out limitation restricting membership in the Corps to grades of second lieutenant through colonel, and struck out provision entitling the Chief to the temporary grade of colonel while serving as Chief.
 
-1966—Pub. L. 89–609 combined third and fourth sentences, substituting “, and” for period at end of third sentence and introductory word “She” to fourth sentence, and substituted “the regular grade held, the Chief” for “her regular grade, she” in fifth sentence.
+<b>1966</b>—Pub. L. 89–609 combined third and fourth sentences, substituting “, and” for period at end of third sentence and introductory word “She” to fourth sentence, and substituted “the regular grade held, the Chief” for “her regular grade, she” in fifth sentence.
 
-1962—Pub. L. 87–649 struck out provisions which authorized the pay and allowances of a colonel for Chief of the Army Nurse Corps.
+<b>1962</b>—Pub. L. 87–649 struck out provisions which authorized the pay and allowances of a colonel for Chief of the Army Nurse Corps.
 
-1957—Pub. L. 85–155 substituted “second lieutenant through colonel” for “second lieutenant through lieutenant colonel”, “major” for “captain”, and “entitled to the temporary grade and the pay and allowances of a colonel while so serving and ranks above all other colonels in that corps” for “entitled to the rank, pay and allowances of a colonel so serving”.
+<b>1957</b>—Pub. L. 85–155 substituted “second lieutenant through colonel” for “second lieutenant through lieutenant colonel”, “major” for “captain”, and “entitled to the temporary grade and the pay and allowances of a colonel while so serving and ranks above all other colonels in that corps” for “entitled to the rank, pay and allowances of a colonel so serving”.
 
 #### Effective Date of 1962 Amendment
 

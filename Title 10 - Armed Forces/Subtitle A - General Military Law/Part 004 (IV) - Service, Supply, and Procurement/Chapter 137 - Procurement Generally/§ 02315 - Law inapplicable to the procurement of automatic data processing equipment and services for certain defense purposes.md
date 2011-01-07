@@ -6,15 +6,15 @@ For purposes of subtitle III of title 40, the term “national security system�
 
 #### Amendments
 
-2006—Pub. L. 109–364 amended text generally. Prior to amendment, section consisted of subsecs. (a) and (b) defining “national security systems” as meaning telecommunications and information systems operated by the Department of Defense, the functions, operation or use of which involves intelligence or cryptologic activities, command and control of military forces, or equipment that is an integral part of a weapons system or is critical to military or intelligence missions but is not equipment or services to be used for routine administrative and business applications.
+<b>2006</b>—Pub. L. 109–364 amended text generally. Prior to amendment, section consisted of subsecs. (a) and (b) defining “national security systems” as meaning telecommunications and information systems operated by the Department of Defense, the functions, operation or use of which involves intelligence or cryptologic activities, command and control of military forces, or equipment that is an integral part of a weapons system or is critical to military or intelligence missions but is not equipment or services to be used for routine administrative and business applications.
 
-2002—Subsec. (a). Pub. L. 107–217 substituted “subtitle III of title 40” for “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” in introductory provisions.
+<b>2002</b>—Subsec. (a). Pub. L. 107–217 substituted “subtitle III of title 40” for “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” in introductory provisions.
 
-1997—Subsec. (a). Pub. L. 105–85 substituted “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” for “the Information Technology Management Reform Act of 1996”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–85 substituted “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” for “the Information Technology Management Reform Act of 1996”.
 
-1996—Subsec. (a). Pub. L. 104–106, as amended by Pub. L. 104–201, substituted “For the purposes of the Information Technology Management Reform Act of 1996, the term ‘national security systems’ means those telecommunications and information systems operated by the Department of Defense, the functions, operation or use of which” for “Section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759) is not applicable to the procurement by the Department of Defense of automatic data processing equipment or services if the function, operation, or use of the equipment or services”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106, as amended by Pub. L. 104–201, substituted “For the purposes of the Information Technology Management Reform Act of 1996, the term ‘national security systems’ means those telecommunications and information systems operated by the Department of Defense, the functions, operation or use of which” for “Section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759) is not applicable to the procurement by the Department of Defense of automatic data processing equipment or services if the function, operation, or use of the equipment or services”.
 
-1982—Subsec. (a). Pub. L. 97–295 substituted “(40 U.S.C. 759)” for “(40 U.S.C. 795)”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–295 substituted “(40 U.S.C. 759)” for “(40 U.S.C. 795)”.
 
 #### Effective Date of 1996 Amendment
 
@@ -48,7 +48,7 @@ Definitions.—In this section:
 
 &emsp;“(2) The term ‘Executive agency’ has the meaning given such term in section 105 of title 5, United States Code.
 
-&emsp;“(3) The term ‘procurement’ has the meaning given such term in section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403).
+&emsp;“(3) The term ‘procurement’ has the meaning given such term in section 4 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 403) \[see 41 U.S.C. 111\].
 
 “(c)
 

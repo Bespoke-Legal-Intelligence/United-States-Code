@@ -32,7 +32,7 @@ Requirements.—Each project selected under this section shall include at least 
 
 #### (4) Advisory Committee
 
-&emsp;(A) The Secretary shall establish an Advisory Committee on Demonstration and Commercial Application of Renewable Energy and Energy Efficiency Technologies (in this chapter referred to as the “Advisory Committee”) to advise the Secretary on the development ofthe solicitation and evaluation criteria for projects under this section, and on otherwise carrying out his responsibilities under this section. The Secretary shall appoint members to the Advisory Committee, including at least one member representing—
+&emsp;(A) The Secretary shall establish an Advisory Committee on Demonstration and Commercial Application of Renewable Energy and Energy Efficiency Technologies (in this chapter referred to as the “Advisory Committee”) to advise the Secretary on the development of the solicitation and evaluation criteria for projects under this section, and on otherwise carrying out his responsibilities under this section. The Secretary shall appoint members to the Advisory Committee, including at least one member representing—
 
 &emsp;&emsp;(i) the Secretary of Commerce;
 
@@ -128,9 +128,13 @@ There are authorized to be appropriated to the Secretary for carrying out this s
 
 (Pub. L. 101–218, §6, Dec. 11, 1989, 103 Stat. 1863; Pub. L. 102–486, title XII, §1202(a), Oct. 24, 1992, 106 Stat. 2956.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (b)(4)(A), was in the original “this Act”, meaning Pub. L. 101–218, Dec. 11, 1989, 103 Stat. 1859, known as the Renewable Energy and Energy Efficiency Technology Competitiveness Act of 1989, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12001 of this title and Tables.
+
 #### Amendments
 
-1992—Pub. L. 102–486 amended section generally, substituting provisions relating to demonstration and commercial application projects for renewable energy and energy efficiency technologies for provisions relating to use of joint ventures to further commercialization of renewable energy and energy efficiency technologies.
+<b>1992</b>—Pub. L. 102–486 amended section generally, substituting provisions relating to demonstration and commercial application projects for renewable energy and energy efficiency technologies for provisions relating to use of joint ventures to further commercialization of renewable energy and energy efficiency technologies.
 
 #### Termination of Advisory Committees
 

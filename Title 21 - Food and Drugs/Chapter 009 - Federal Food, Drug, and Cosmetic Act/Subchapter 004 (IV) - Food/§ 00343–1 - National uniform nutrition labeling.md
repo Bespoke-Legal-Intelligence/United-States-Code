@@ -8,7 +8,7 @@
 
 &emsp;(3) any requirement for the labeling of food of the type required by section 343(b), 343(d), 343(f), 343(h), 343(i)(1), or 343(k) of this title that is not identical to the requirement of such section, except that this paragraph does not apply to a requirement of a State or political subdivision of a State that is of the type required by section 343(h)(1) of this title and that is applicable to maple syrup,
 
-&emsp;(4) any requirement for nutrition labeling of food that is not identical to the requirement of section 343(q) of this title, except a requirement for nutrition labeling of food which is exempt under subclause (i) or (ii) of section 343(q)(5)(A) of this title, or
+&emsp;(4) any requirement for nutrition labeling of food that is not identical to the requirement of section 343(q) of this title, except that this paragraph does not apply to food that is offered for sale in a restaurant or similar retail food establishment that is not part of a chain with 20 or more locations doing business under the same name (regardless of the type of ownership of the locations) and offering for sale substantially the same menu items unless such restaurant or similar retail food establishment complies with the voluntary provision of nutrition information requirements under section 343(q)(5)(H)(ix) of this title, or
 
 &emsp;(5) any requirement respecting any claim of the type described in section 343(r)(1) of this title made in the label or labeling of food that is not identical to the requirement of section 343(r) of this title, except a requirement respecting a claim made in the label or labeling of food which is exempt under section 343(r)(5)(B) of this title.
 
@@ -22,7 +22,7 @@
 
 &emsp;(3) is designed to address a particular need for information which need is not met by the requirements of the sections referred to in subsection (a) of this section.
 
-(June 25, 1938, ch. 675, §403A, as added Pub. L. 101–535, §6(a), Nov. 8, 1990, 104 Stat. 2362; amended Pub. L. 102–108, §2(b), Aug. 17, 1991, 105 Stat. 549; Pub. L. 103–396, §3(a), Oct. 22, 1994, 108 Stat. 4154; Pub. L. 108–282, title II, §203(c)(2), Aug. 2, 2004, 118 Stat. 908.)
+(June 25, 1938, ch. 675, §403A, as added Pub. L. 101–535, §6(a), Nov. 8, 1990, 104 Stat. 2362; amended Pub. L. 102–108, §2(b), Aug. 17, 1991, 105 Stat. 549; Pub. L. 103–396, §3(a), Oct. 22, 1994, 108 Stat. 4154; Pub. L. 108–282, title II, §203(c)(2), Aug. 2, 2004, 118 Stat. 908; Pub. L. 111–148, title IV, §4205(c), Mar. 23, 2010, 124 Stat. 576.)
 
 #### References in Text
 
@@ -30,15 +30,17 @@ Section 6(b) of the Nutrition Labeling and Education Act of 1990 \[Pub. L. 101�
 
 #### Amendments
 
-2004—Subsec. (a)(2). Pub. L. 108–282 substituted “343(i)(2), 343(w), or 343(x)” for “or 343(i)(2)”.
+<b>2010</b>—Subsec. (a)(4). Pub. L. 111–148 substituted “except that this paragraph does not apply to food that is offered for sale in a restaurant or similar retail food establishment that is not part of a chain with 20 or more locations doing business under the same name (regardless of the type of ownership of the locations) and offering for sale substantially the same menu items unless such restaurant or similar retail food establishment complies with the voluntary provision of nutrition information requirements under section 343(q)(5)(H)(ix) of this title” for “except a requirement for nutrition labeling of food which is exempt under subclause (i) or (ii) of section 343(q)(5)(A) of this title”.
 
-1994—Subsec. (a)(1). Pub. L. 103–396, §3(a)(1), inserted at end “except that this paragraph does not apply to a standard of identity of a State or political subdivision of a State for maple syrup that is of the type required by sections 341 and 343(g) of this title,”.
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–282 substituted “343(i)(2), 343(w), or 343(x)” for “or 343(i)(2)”.
+
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–396, §3(a)(1), inserted at end “except that this paragraph does not apply to a standard of identity of a State or political subdivision of a State for maple syrup that is of the type required by sections 341 and 343(g) of this title,”.
 
 Subsec. (a)(2). Pub. L. 103–396, §3(a)(2), inserted at end “except that this paragraph does not apply to a requirement of a State or political subdivision of a State that is of the type required by section 343(c) of this title and that is applicable to maple syrup,”.
 
 Subsec. (a)(3). Pub. L. 103–396, §3(a)(3), inserted at end “except that this paragraph does not apply to a requirement of a State or political subdivision of a State that is of the type required by section 343(h)(1) of this title and that is applicable to maple syrup,”.
 
-1991—Subsec. (a)(5). Pub. L. 102–108 substituted “section 343(r)(5)(B) of this title” for “clause (B) of such section”.
+<b>1991</b>—Subsec. (a)(5). Pub. L. 102–108 substituted “section 343(r)(5)(B) of this title” for “clause (B) of such section”.
 
 #### Effective Date of 2004 Amendment
 
@@ -88,9 +90,9 @@ Section 6(b) of Pub. L. 101–535 provided that:
 
 “(3)(A) Within 9 months of the date of the enactment of this Act, the Secretary shall publish a proposed list of sections which are adequately being implemented by regulations as determined under paragraph (1)(B) and sections which are not adequately being implemented by regulations as so determined. After publication of the lists, the Secretary shall provide 60 days for comments on such lists.
 
-“(B) Within 24 months of the date of the enactment of this Act, the Secretary shall publish a final list of sections which are adequately being implemented by regulations and a list of sections which are not adequately being implemented by regulations. With respect to a section which is found by the Secretary to be adequately implemented, no State or political subdivision of a State may establish or continue in effect as to any food in interstate commerce any requirement which is not identical to the requirement of such section.
+“(B) Within 24 months of the date of the enactment of this Act, the Secretary shall publish a final list ofsections which are adequately being implemented by regulations and a list of sections which are not adequately being implemented by regulations. With respect to a section which is found by the Secretary to be adequately implemented, no State or political subdivision of a State may establish or continue in effect as to any food in interstate commerce any requirement which is not identical to the requirement of such section.
 
-“(C) Within 24 months of the date of the enactment of this Act, the Secretary shall publish proposed revisions to the regulations found to be inadequate under subparagraph (B) and within 30 months of such dateshall issue final revisions. Upon the effective date of such final revisions, no State or political subdivision may establish or continue in effect any requirement which is not identical to the requirement of the section which had its regulations revised in accordance with this subparagraph.
+“(C) Within 24 months of the date of the enactment of this Act, the Secretary shall publish proposed revisions to the regulations found to be inadequate under subparagraph (B) and within 30 months of such date shall issue final revisions. Upon the effective date of such final revisions, no State or political subdivision may establish or continue in effect any requirement which is not identical to the requirement of the section which had its regulations revised in accordance with this subparagraph.
 
 “(D)(i) If the Secretary does not issue a final list in accordance with subparagraph (B), the proposed list issued under subparagraph (A) shall be considered the final list and States and political subdivisions shall be preempted with respect to sections found to be adequate in such proposed list in accordance with subparagraph (B).
 

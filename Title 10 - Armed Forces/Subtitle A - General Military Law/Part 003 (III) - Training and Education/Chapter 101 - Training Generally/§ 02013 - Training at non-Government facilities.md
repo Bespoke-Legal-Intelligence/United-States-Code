@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Enter Into Agreements.—(1) The Secretary concerned, without regard to section 3709 of the Revised Statutes (41 U.S.C. 5), may make agreements or other arrangements for the training of members of the uniformed services under the jurisdiction of that Secretary by, in, or through non-Government facilities.
+Authority To Enter Into Agreements.—(1) The Secretary concerned, without regard to section 6101(b)–(d) of title 41, may make agreements or other arrangements for the training of members of the uniformed services under the jurisdiction of that Secretary by, in, or through non-Government facilities.
 
 (2) In this section, the term “non-Government facility” means any of the following:
 
@@ -42,7 +42,11 @@ Expenses.—The Secretary concerned, from appropriations or other funds availabl
 
 Certain Expenses Excluded.—The expenses of training do not include membership fees except to the extent that the fee is a necessary cost directly related to the training itself or that payment of the fee is a condition precedent to undergoing the training.
 
-(Added Pub. L. 104–201, div. A, title III, §362(a)(1), Sept. 23, 1996, 110 Stat. 2491.)
+(Added Pub. L. 104–201, div. A, title III, §362(a)(1), Sept. 23, 1996, 110 Stat. 2491; amended Pub. L. 111–350, §5(b)(2), Jan. 4, 2011, 124 Stat. 3842.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (a)(1). Pub. L. 111–350 substituted “section 6101(b)–(d) of title 41” for “section 3709 of the Revised Statutes (41 U.S.C. 5)”.
 
 #### Effective Date
 

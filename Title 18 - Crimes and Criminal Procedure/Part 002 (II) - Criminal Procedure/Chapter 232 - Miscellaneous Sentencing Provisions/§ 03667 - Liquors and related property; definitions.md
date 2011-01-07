@@ -16,7 +16,3 @@ Definition of “State” in section 222 of title 27 U.S.C., 1940 ed., as meanin
 
 Changes made in phraseology.
 
-#### References in Text
-
-The internal-revenue laws, referred to in text, are classified generally to Title 26, Internal Revenue Code.
-

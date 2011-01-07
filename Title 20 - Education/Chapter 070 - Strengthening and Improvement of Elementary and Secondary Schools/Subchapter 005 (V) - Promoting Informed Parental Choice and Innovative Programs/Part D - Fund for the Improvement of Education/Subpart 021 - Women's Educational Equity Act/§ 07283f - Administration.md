@@ -2,7 +2,7 @@
 
 #### (a) Evaluation and dissemination
 
-Not later than January 1, 2005, the Secretary shall evaluate and disseminate materials and programs developed under this subpart and shall report to Congress regarding such evaluation materials and programs.
+Not later than January 1, 2005, the Secretary shall evaluate and disseminate materials andprograms developed under this subpart and shall report to Congress regarding such evaluation materials and programs.
 
 #### (b) Program operations
 

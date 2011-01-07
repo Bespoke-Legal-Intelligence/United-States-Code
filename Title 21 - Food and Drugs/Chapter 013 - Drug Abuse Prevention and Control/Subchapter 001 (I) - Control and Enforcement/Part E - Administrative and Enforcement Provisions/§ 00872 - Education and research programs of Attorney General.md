@@ -4,7 +4,7 @@
 
 The Attorney General is authorized to carry out educational and research programs directly related to enforcement of the laws under his jurisdiction concerning drugs or other substances which are or may be subject to control under this subchapter. Such programs may include—
 
-&emsp;(1) educational and training programs on drug abuse and controlled substances law enforcement for local, State, and Federal personnel;
+&emsp;(1) educational and training programs on drug abuse and controlled substances law enforcement for local, State, tribal, and Federal personnel;
 
 &emsp;(2) studies or special projects designed to compare the deterrent effects of various enforcement strategies on drug use and abuse;
 
@@ -12,17 +12,17 @@ The Attorney General is authorized to carry out educational and research program
 
 &emsp;(4) studies or special projects designed to evaluate the nature and sources of the supply of illegal drugs throughout the country;
 
-&emsp;(5) studies or special projects to develop more effective methods to prevent diversion ofcontrolled substances into illegal channels; and
+&emsp;(5) studies or special projects to develop more effective methods to prevent diversion of controlled substances into illegal channels; and
 
 &emsp;(6) studies or special projects to develop information necessary to carry out his functions under section 811 of this title.
 
 #### (b) Contracts
 
-The Attorney General may enter into contracts for such educational and research activities without performance bonds and without regard to section 5 of title 41.
+The Attorney General may enter into contracts for such educational and research activities without performance bonds and without regard to section 6101 of title 41.
 
 #### (c) Identification of research populations; authorization to withhold
 
-The Attorney General may authorize persons engaged in research to withhold the names and other identifying characteristics of persons who are the subjects of such research. Persons who obtain this authorization may not be compelled in any Federal, State, or local civil, criminal, administrative, legislative, or other proceeding to identify the subjects of research for which such authorization was obtained.
+The Attorney General may authorize persons engaged in research to withhold the names and other identifying characteristics of persons who are the subjects of such research. Persons who obtain this authorization may not be compelled in any Federal, State, tribal, or local civil, criminal, administrative, legislative, or other proceeding to identify the subjects of research for which such authorization was obtained.
 
 #### (d) Affect of treaties and other international agreements on confidentiality
 
@@ -36,13 +36,19 @@ The Attorney General, on his own motion or at the request of the Secretary, may 
 
 The Attorney General shall maintain an active program, both domestic and international, to curtail the diversion of precursor chemicals and essential chemicals used in the illicit manufacture of controlled substances.
 
-(Pub. L. 91–513, title II, §502, Oct. 27, 1970, 84 Stat. 1271; Pub. L. 95–633, title I, §108(a), Nov. 10, 1978, 92 Stat. 3773; Pub. L. 100–690, title VI, §6060, Nov. 18, 1988, 102 Stat. 4320.)
+(Pub. L. 91–513, title II, §502, Oct. 27, 1970, 84 Stat. 1271; Pub. L. 95–633, title I, §108(a), Nov. 10, 1978, 92 Stat. 3773; Pub. L. 100–690, title VI, §6060, Nov. 18, 1988, 102 Stat. 4320; Pub. L. 111–211, title II, §232(a), July 29, 2010, 124 Stat. 2278.)
+
+#### Codification
+
+In subsec. (b), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-1988—Subsec. (f). Pub. L. 100–690 added subsec. (f).
+<b>2010</b>—Subsecs. (a)(1), (c). Pub. L. 111–211 inserted “tribal,” after “State,”.
 
-1978—Subsecs. (d), (e). Pub. L. 95–633 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1988</b>—Subsec. (f). Pub. L. 100–690 added subsec. (f).
+
+<b>1978</b>—Subsecs. (d), (e). Pub. L. 95–633 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 #### Effective Date of 1988 Amendment
 
@@ -51,6 +57,16 @@ Amendment by Pub. L. 100–690 effective 120 days after Nov. 18, 1988, see secti
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters into force in the United States \[July 15, 1980\], see section 112 of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
+
+#### Effect of Grants
+
+Pub. L. 111–211, title II, §232(e), July 29, 2010, 124 Stat. 2279, provided that: “Nothing in this section \[amending this section and sections 872a, 873, and 878 of this title\] or any amendment made by this section—
+
+&emsp;“(1) allows the grant to be made to, or used by, an entity for law enforcement activities that the entity lacks jurisdiction to perform; or
+
+&emsp;“(2) has any effect other than to authorize, award, or deny a grant of funds to a federally recognized Indian tribe for the purposes described in the relevant grant program.”
+
+\[For definition of “Indian tribe” as used in section 232(e) of Pub. L. 111–211, set out above, see section 203(a)of Pub. L. 111–211, set out as a note under section 2801 of Title 25, Indians.\]
 
 #### Training for Drug Enforcement Administration and State and Local Law Enforcement Personnel Relating to Clandestine Laboratories
 

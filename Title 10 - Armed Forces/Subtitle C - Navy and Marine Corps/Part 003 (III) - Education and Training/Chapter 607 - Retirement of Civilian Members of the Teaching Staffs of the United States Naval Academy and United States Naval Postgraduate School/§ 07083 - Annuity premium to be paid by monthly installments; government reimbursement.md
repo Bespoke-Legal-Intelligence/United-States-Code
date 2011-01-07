@@ -22,5 +22,5 @@ The words “Chief, Field Branch, Bureau of Supplies and Accounts” are substit
 
 #### Amendments
 
-1966—Pub. L. 89–718 removed requirement that the 10 percent monthly allotment be made through the Chief, Field Branch, Bureau of Supplies and Accounts.
+<b>1966</b>—Pub. L. 89–718 removed requirement that the 10 percent monthly allotment be made through the Chief, Field Branch, Bureau of Supplies and Accounts.
 

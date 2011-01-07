@@ -12,7 +12,7 @@ The President shall ensure that any illegal intelligence activity is reported pr
 
 #### (c) Procedures for reporting information
 
-The President and the congressional intelligence committees shall each establish such procedures as may be necessary to carry out the provisions of this subchapter.
+The President and the congressional intelligence committees shall each establish such written procedures as may be necessary to carry out the provisions of this subchapter.
 
 #### (d) Procedures to protect from unauthorized disclosure
 
@@ -26,7 +26,7 @@ Nothing in this Act shall be construed as authority to withhold information from
 
 As used in this section, the term “intelligence activities” includes covert actions as defined in section 413b(e) of this title, and includes financial intelligence activities.
 
-(July 26, 1947, ch. 343, title V, §501, as added Pub. L. 102–88, title VI, §602(a)(2), Aug. 14, 1991, 105 Stat. 441; amended Pub. L. 107–306, title III, §§342(b), 353(b)(3)(A), (7), Nov. 27, 2002, 116 Stat. 2399, 2402; Pub. L. 108–458, title I, §1071(a)(1)(V), Dec. 17, 2004, 118 Stat. 3689.)
+(July 26, 1947, ch. 343, title V, §501, as added Pub. L. 102–88, title VI, §602(a)(2), Aug. 14, 1991, 105 Stat. 441; amended Pub. L. 107–306, title III, §§342(b), 353(b)(3)(A), (7), Nov. 27, 2002, 116 Stat. 2399, 2402; Pub. L. 108–458, title I, §1071(a)(1)(V), Dec. 17, 2004, 118 Stat. 3689; Pub. L. 111–259, title III, §331(a), Oct. 7, 2010, 124 Stat. 2685.)
 
 #### References in Text
 
@@ -38,9 +38,11 @@ A prior section 413, act July 26, 1947, ch. 343, title V, §501, as added Oct. 1
 
 #### Amendments
 
-2004—Subsec. (d). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+<b>2010</b>—Subsec. (c). Pub. L. 111–259 substituted “such written procedures” for “such procedures”.
 
-2002—Subsec. (a). Pub. L. 107–306, §353(b)(3)(A), substituted “congressional intelligence committees” for “intelligence committees” wherever appearing.
+<b>2004</b>—Subsec. (d). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+
+<b>2002</b>—Subsec. (a). Pub. L. 107–306, §353(b)(3)(A), substituted “congressional intelligence committees” for “intelligence committees” wherever appearing.
 
 Subsec. (a)(2), (3). Pub. L. 107–306, §353(b)(7), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “As used in this subchapter, the term ‘congressional intelligence committees’ means the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.”
 

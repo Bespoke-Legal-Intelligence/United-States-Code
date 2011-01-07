@@ -26,7 +26,7 @@ General.—(1) Not more than $2,313,000,000 may be appropriated to the Secretary
 
 &emsp;&emsp;(vi) rehabilitate bridges between the District of Columbia and New York, New York (including Hi line);
 
-&emsp;&emsp;(vii) develop a maintenance of way equipment repair facility between the District ofColumbia and New York, New York, and build maintenance of way bases at Philadelphia, Pennsylvania, Sunnyside, New York, and Cedar Hill, Connecticut;
+&emsp;&emsp;(vii) develop a maintenance of way equipment repair facility between the District of Columbia and New York, New York, and build maintenance of way bases at Philadelphia, Pennsylvania, Sunnyside, New York, and Cedar Hill, Connecticut;
 
 &emsp;&emsp;(viii) stabilize the roadbed between the District of Columbia and New York, New York;
 

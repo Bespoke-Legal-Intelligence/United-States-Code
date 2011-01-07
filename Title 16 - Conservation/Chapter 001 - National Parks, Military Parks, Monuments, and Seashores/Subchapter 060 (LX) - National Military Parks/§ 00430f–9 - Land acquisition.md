@@ -24,5 +24,5 @@ Land may be acquired only by donation from—
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–161 substituted “described in section 430f–8(b) of this title” for “as depicted on the Map” in introductory provisions.
+<b>2007</b>—Subsec. (a). Pub. L. 110–161 substituted “described in section 430f–8(b) of this title” for “as depicted on the Map” in introductory provisions.
 

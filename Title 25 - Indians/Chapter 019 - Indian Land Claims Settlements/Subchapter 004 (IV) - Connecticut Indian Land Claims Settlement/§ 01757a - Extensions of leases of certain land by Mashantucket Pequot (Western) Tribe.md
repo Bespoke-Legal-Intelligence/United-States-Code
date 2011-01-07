@@ -10,7 +10,7 @@ The United States shall not be liable to any party for any loss resulting from a
 
 #### (c) Prohibition on gaming activities
 
-No entity may conduct any gaming activity (within the meaning of section 4 of the Indian Gaming Regulatory Act (25 U.S.C. 2703)) pursuant to a claim of inherent authority or any Federal law (including the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.) and any regulations promulgated by the Secretary of the Interior or the National Indian Gaming Commission pursuant to that Act) on any land that isleased with an option to renew the lease in accordance with this section.
+No entity may conduct any gaming activity (within the meaning of section 4 of the Indian Gaming Regulatory Act (25 U.S.C. 2703)) pursuant to a claim of inherent authority or any Federal law (including the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.) and any regulations promulgated by the Secretary of the Interior or the National Indian Gaming Commission pursuant to that Act) on any land that is leased with an option to renew the lease in accordance with this section.
 
 (Pub. L. 110–228, §1, May 8, 2008, 122 Stat. 753.)
 

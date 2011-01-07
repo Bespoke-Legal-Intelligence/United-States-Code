@@ -16,7 +16,7 @@ For the purposes of this section, the term “United States” includes the seve
 
 #### References in Text
 
-The International Regulations for Preventing Collisions at Sea, referred to in subsec. (a), are maintained and published by the United States Coast Guard, U.S. Department of Homeland Security, in the publication <i>Navigation Rules</i>, which is available for sale by the Superintendent of Documents, U.S. Government Printing Office, Washington, D.C. 20402. See International Regulations for Preventing Collisions at Sea, 1972 note under section 1602 of this title.
+The International Regulations for Preventing Collisions at Sea, referred to in subsec. (a), came into effect pursuant to the Convention on the International Regulations for Preventing Collisions at Sea, 1972. See International Regulations for Preventing Collisions at Sea, 1972 note under section 1602 of this title.
 
 #### Codification
 
@@ -24,7 +24,7 @@ Section was not enacted as part of act June 7, 1897, ch. 4, 30 Stat. 96, which c
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–324 designated existing provisions as subsec. (a), substituted provision authorizing the Secretary of the Department in which the Coast Guard is operating to establish demarcation lines for provision authorizing the Secretary of the Treasury to establish demarcation lines, and inserted provision specifying the purpose of establishing demarcation lines as determining the applicability of special navigational rules in lieu of the International Regulations for Preventing Collisions at Sea.
+<b>1980</b>—Subsec. (a). Pub. L. 96–324 designated existing provisions as subsec. (a), substituted provision authorizing the Secretary of the Department in which the Coast Guard is operating to establish demarcation lines for provision authorizing the Secretary of the Treasury to establish demarcation lines, and inserted provision specifying the purpose of establishing demarcation lines as determining the applicability of special navigational rules in lieu of the International Regulations for Preventing Collisions at Sea.
 
 Subsec. (b). Pub. L. 96–324 added subsec. (b).
 

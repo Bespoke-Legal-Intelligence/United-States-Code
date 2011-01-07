@@ -24,7 +24,7 @@ Corporate Board of Directors.—(1) The members of the board of directors of the
 
 (d)
 
-Transfers From Nonappropriated Fund Operation.—The Secretary of the Air Force may, subject to the acceptance of the corporation, transfer to the corporation all title to and ownership of the assets and liabilities of the Air Force nonappropriated fund instrumentality whose functions include providing support for the athletic programs of the Academy, includingbank accounts and financial reserves in its accounts, equipment, supplies, and other personal property, but excluding any interest in real property.
+Transfers From Nonappropriated Fund Operation.—The Secretary of the Air Force may, subject to the acceptance of the corporation, transfer to the corporation all title to and ownership of the assets and liabilities of the Air Force nonappropriated fund instrumentality whose functions include providing support for the athletic programs of the Academy, including bank accounts and financial reserves in its accounts, equipment, supplies, and other personal property, but excluding any interest in real property.
 
 (e)
 

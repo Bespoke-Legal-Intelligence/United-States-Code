@@ -12,7 +12,7 @@
 
 &emsp;(ii) the maximum amount of guaranty entitlement available to the veteran as specified in subparagraph (B) of this paragraph.
 
-(B) The maximum amount of guaranty entitlement available to a veteran for purposes specified in section 3710 of this title shall be $36,000, or in the case of a loan described in subparagraph (A)(i)(IV) of this paragraph, the maximum guaranty amount (as defined in subparagraph (C)), reduced by the amount of entitlement previously used by the veteran under this chapterand not restored as a result of the exclusion in section 3702(b) of this title.
+(B) The maximum amount of guaranty entitlement available to a veteran for purposes specified in section 3710 of this title shall be $36,000, or in the case of a loan described in subparagraph (A)(i)(IV) of this paragraph, the maximum guaranty amount (as defined in subparagraph (C)), reduced by the amount of entitlement previously used by the veteran under this chapter and not restored as a result of the exclusion in section 3702(b) of this title.
 
 (C) In this paragraph, the term “maximum guaranty amount” means the dollar amount that is equal to 25 percent of the Freddie Mac conforming loan limit limitation determined under section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454(a)(2)) for a single-family residence, as adjusted for the year involved.
 
@@ -78,7 +78,7 @@
 
 (f) The application for or obtaining of a loan made, insured, or guaranteed under this chapter shall not be subject to reporting requirements applicable to requests for, or receipts of, Federal contracts, grants, loans, loan guarantees, loan insurance, or cooperative agreements except to the extent that such requirements are provided for in, or by the Secretary pursuant to, this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1205, 1212, §1803; Pub. L. 86–73, §2, June 30, 1959, 73 Stat. 156; Pub. L. 86–665, §1, July 14, 1960, 74 Stat. 531; Pub. L. 87–84, §1(a), July 6, 1961, 75 Stat. 201; Pub. L. 89–358, §5(d), Mar. 3, 1966, 80 Stat. 26; Pub. L. 90–77, title IV, §403(b), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–22, §4, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §2(b), (c), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–75, July 26, 1973, 87 Stat. 176; Pub. L. 93–569, §§2(c), 8(1)–(5), Dec. 31, 1974, 88 Stat. 1863, 1866; Pub. L. 94–324, §7(6), (16), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §103, Oct. 18, 1978, 92 Stat. 1498; Pub. L. 96–385, title IV, §401(c)(1), Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–66, title V, §501(a), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 97–72, title III, §303(c), (e), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(61), (63), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title IV, §406(b), Oct. 14, 1982, 96 Stat. 1444; Pub. L. 98–223, title II, §205(c), Mar. 2, 1984, 98 Stat. 43; Pub. L. 100–198, §3(a)(1), Dec. 21, 1987, 101 Stat. 1315; Pub. L. 100–253, §3(a), Feb. 29, 1988, 102 Stat. 20; Pub. L. 100–322, title IV, §415(a)(3), (c)(2), (d)(1), May 20, 1988, 102 Stat. 550–552; Pub. L. 101–237, title III, §§304(a), 306(a), 313(b)(1), (6), Dec. 18, 1989, 103 Stat. 2073, 2074, 2077; Pub. L. 102–54, §§4(b), 6, June 13, 1991, 105 Stat. 268; renumbered §3703 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §10(a), Oct. 28, 1992, 106 Stat. 3643; Pub. L. 103–78, §6, Aug. 13, 1993, 107 Stat. 769; Pub. L. 103–353, §7, Oct. 13, 1994, 108 Stat. 3175; Pub. L. 104–110, title I, §101(d), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–368, title VI, §602(e)(1)(A), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 107–103, title IV, §401, Dec. 27, 2001, 115 Stat. 993; Pub. L. 107–330, title III, §308(f)(1), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–454, title IV, §403, Dec. 10, 2004, 118 Stat. 3616; Pub. L. 110–389, title V, §504(a), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 111–22, div. A, title I, §102(a), May 20, 2009, 123 Stat. 1636.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1205, 1212, §1803; Pub. L. 86–73, §2, June 30, 1959, 73 Stat. 156; Pub. L. 86–665, §1, July 14, 1960, 74 Stat. 531; Pub. L. 87–84, §1(a), July 6, 1961, 75 Stat. 201; Pub. L. 89–358, §5(d), Mar. 3, 1966, 80 Stat. 26; Pub. L. 90–77, title IV, §403(b), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–22, §4, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §2(b), (c), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–75, July 26, 1973, 87 Stat. 176; Pub. L. 93–569, §§2(c), 8(1)–(5), Dec. 31, 1974, 88 Stat. 1863, 1866;Pub. L. 94–324, §7(6), (16), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §103, Oct. 18, 1978, 92 Stat. 1498; Pub. L. 96–385, title IV, §401(c)(1), Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–66, title V, §501(a), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 97–72, title III, §303(c), (e), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(61), (63), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title IV, §406(b), Oct. 14, 1982, 96 Stat. 1444; Pub. L. 98–223, title II, §205(c), Mar. 2, 1984, 98 Stat. 43; Pub. L. 100–198, §3(a)(1), Dec. 21, 1987, 101 Stat. 1315; Pub. L. 100–253, §3(a), Feb. 29, 1988, 102 Stat. 20; Pub. L. 100–322, title IV, §415(a)(3), (c)(2), (d)(1), May 20, 1988, 102 Stat. 550–552; Pub. L. 101–237, title III, §§304(a), 306(a), 313(b)(1), (6), Dec. 18, 1989, 103 Stat. 2073, 2074, 2077; Pub. L. 102–54, §§4(b), 6, June 13, 1991, 105 Stat. 268; renumbered §3703 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §10(a), Oct. 28, 1992, 106 Stat. 3643; Pub. L. 103–78, §6, Aug. 13, 1993, 107 Stat. 769; Pub. L. 103–353, §7, Oct. 13, 1994, 108 Stat. 3175; Pub. L. 104–110, title I, §101(d), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–368, title VI, §602(e)(1)(A), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 107–103, title IV, §401, Dec. 27, 2001, 115 Stat. 993; Pub. L. 107–330, title III, §308(f)(1), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–454, title IV, §403, Dec. 10, 2004, 118 Stat. 3616; Pub. L. 110–389, title V, §504(a), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 111–22, div. A, title I, §102(a), May 20, 2009, 123 Stat. 1636.)
 
 #### References in Text
 
@@ -86,35 +86,35 @@ The Servicemen's Readjustment Act of 1944, referred to in subsec. (c)(2), is act
 
 #### Amendments
 
-2009—Subsec. (d)(1). Pub. L. 111–22 inserted “at the time of origination” after “loan”.
+<b>2009</b>—Subsec. (d)(1). Pub. L. 111–22 inserted “at the time of origination” after “loan”.
 
-2008—Subsec. (a)(1)(A)(i)(IV). Pub. L. 110–389 inserted “(5),” after “(3),”.
+<b>2008</b>—Subsec. (a)(1)(A)(i)(IV). Pub. L. 110–389 inserted “(5),” after “(3),”.
 
-2004—Subsec. (a)(1)(A)(i)(IV), (B). Pub. L. 108–454, §403(a), substituted “the maximum guaranty amount (as defined in subparagraph (C))” for “$60,000”.
+<b>2004</b>—Subsec. (a)(1)(A)(i)(IV), (B). Pub. L. 108–454, §403(a), substituted “the maximum guaranty amount (as defined in subparagraph (C))” for “$60,000”.
 
 Subsec. (a)(1)(C). Pub. L. 108–454, §403(b), added subpar. (C).
 
-2002—Subsec. (e)(2)(A). Pub. L. 107–330 substituted “3729(b)(2)(I)” for “3729(b)”.
+<b>2002</b>—Subsec. (e)(2)(A). Pub. L. 107–330 substituted “3729(b)(2)(I)” for “3729(b)”.
 
-2001—Subsec. (a)(1)(A)(i)(IV), (B). Pub. L. 107–103 substituted “$60,000” for “$50,750”.
+<b>2001</b>—Subsec. (a)(1)(A)(i)(IV), (B). Pub. L. 107–103 substituted “$60,000” for “$50,750”.
 
-1998—Subsec. (e)(1). Pub. L. 105–368 substituted “3729(c)” for “3729(c)(1)”.
+<b>1998</b>—Subsec. (e)(1). Pub. L. 105–368 substituted “3729(c)” for “3729(c)(1)”.
 
-1996—Subsec. (c)(4)(D). Pub. L. 104–110 struck out subpar. (D) which read as follows: “This paragraph shall expire on December 31, 1995.”
+<b>1996</b>—Subsec. (c)(4)(D). Pub. L. 104–110 struck out subpar. (D) which read as follows: “This paragraph shall expire on December 31, 1995.”
 
-1994—Subsec. (a)(1)(A)(i)(IV), (B). Pub. L. 103–353 substituted “$50,750” for “$46,000”.
+<b>1994</b>—Subsec. (a)(1)(A)(i)(IV), (B). Pub. L. 103–353 substituted “$50,750” for “$46,000”.
 
-1993—Subsec. (c)(4)(B). Pub. L. 103–78 in second sentence substituted “Except in the case of a loan for the purpose specified in section 3710(a)(8), 3710(b)(7), or 3712(a)(1)(F) of this title, discount” for “Discount”.
+<b>1993</b>—Subsec. (c)(4)(B). Pub. L. 103–78 in second sentence substituted “Except in the case of a loan for the purpose specified in section 3710(a)(8), 3710(b)(7), or 3712(a)(1)(F) of this title, discount” for “Discount”.
 
-1992—Subsec. (c)(1). Pub. L. 102–547, §10(a)(1), in first sentence substituted “applicable to” for “the Secretary of Housing and Urban Development considers necessary to meet the mortgage market for” and struck out “, and, to the maximum extent practicable, carry out a coordinated policy on interest rates on loans insured under such section 203(b) and on loans guaranteed or insured under this chapter” after “(12 U.S.C. 1709(b))”.
+<b>1992</b>—Subsec. (c)(1). Pub. L. 102–547, §10(a)(1), in first sentence substituted “applicable to” for “the Secretary of Housing and Urban Development considers necessary to meet the mortgage market for” and struck out “, and, to the maximum extent practicable, carry out a coordinated policy on interest rates on loans insured under such section 203(b) and on loans guaranteed or insured under this chapter” after “(12 U.S.C. 1709(b))”.
 
 Subsec. (c)(4). Pub. L. 102–547, §10(a)(2), added par. (4).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1803 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1803 of this title as this section.
 
 Subsec. (a)(1)(A). Pub. L. 102–83, §5(c)(1), substituted “3710” for “1810” in introductory provisions.
 
-Subsec. (a)(1)(A)(i)(III). Pub. L. 102–54, §6(1), inserted “except as provided in subclause (IV) of this clause,”after “(III)” and struck out “but not more than $144,000,” after “$56,250,”.
+Subsec. (a)(1)(A)(i)(III). Pub. L. 102–54, §6(1), inserted “except as provided in subclause (IV) of this clause,” after “(III)” and struck out “but not more than $144,000,” after “$56,250,”.
 
 Subsec. (a)(1)(A)(i)(IV). Pub. L. 102–83, §5(c)(1), substituted “3710(a)” for “1810(a)”.
 
@@ -132,7 +132,7 @@ Subsec. (e)(2). Pub. L. 102–83, §5(c)(1), substituted “3729(b)” for “18
 
 Subsec. (f). Pub. L. 102–54, §4(b), added subsec. (f).
 
-1989—Subsec. (a)(1)(A)(i). Pub. L. 101–237, §306(a)(1), added subcls. (II) to (IV) and struck out former subcl. (II) which read as follows: “in the case of any loan of more than $45,000, the lesser of $36,000 or 40 percent of the loan, except that the amount of such guaranty for any such loan shall not be less than $22,500; or”.
+<b>1989</b>—Subsec. (a)(1)(A)(i). Pub. L. 101–237, §306(a)(1), added subcls. (II) to (IV) and struck out former subcl. (II) which read as follows: “in the case of any loan of more than $45,000, the lesser of $36,000 or 40 percent of the loan, except that the amount of such guaranty for any such loan shall not be less than $22,500; or”.
 
 Subsec. (a)(1)(B). Pub. L. 101–237, §306(a)(2), inserted “, or in the case of a loan described in subparagraph (A)(i)(IV) of this paragraph, $46,000,” after “$36,000”.
 
@@ -148,7 +148,7 @@ Subsec. (d)(2)(B), (C), (3). Pub. L. 101–237, §313(b)(1), substituted “Secr
 
 Subsec. (e). Pub. L. 101–237, §304(a), added subsec. (e).
 
-1988—Pub. L. 100–322, §415(a)(3)(B), inserted “and insurance” in section catchline.
+<b>1988</b>—Pub. L. 100–322, §415(a)(3)(B), inserted “and insurance” in section catchline.
 
 Subsec. (a)(1). Pub. L. 100–322, §415(d)(1), inserted “as specified in subparagraph (B) of this paragraph” before period at end of cl. (A)(ii) and substituted “for purposes specified in section 1810 of this title” for “under section 1810 of this chapter” in cl. (B).
 
@@ -166,13 +166,13 @@ Subsec. (c)(3)(A). Pub. L. 100–322, §415(c)(2)(A), substituted “1812(a)(1)(
 
 Subsec. (c)(3)(E). Pub. L. 100–322, §415(c)(2)(B), substituted “1812(a)(1)(G)” for “1819(a)(1)(G)”.
 
-1987—Subsec. (a)(1). Pub. L. 100–198 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Any loan to a veteran eligible for benefits under this chapter, if made for any of the purposes, and in compliance with the provisions, specified in this chapter is automatically guaranteed by the United States in an amount not more than 60 percent of the loan if the loan is made for any of the purposes specified in section 1810 of this title.”
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–198 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Any loan to a veteran eligible for benefits under this chapter, if made for any of the purposes, and in compliance with the provisions, specified in this chapter is automatically guaranteed by the United States in an amount not more than 60 percent of the loan if the loan is made for any of the purposes specified in section 1810 of this title.”
 
-1984—Subsec. (c)(3)(A). Pub. L. 98–223, §205(c)(1), substituted “, (8), or (9)(B)(i)” for “or (8)”.
+<b>1984</b>—Subsec. (c)(3)(A). Pub. L. 98–223, §205(c)(1), substituted “, (8), or (9)(B)(i)” for “or (8)”.
 
 Subsec. (c)(3)(E). Pub. L. 98–223, §205(c)(2), inserted “1810(a)(9)(B)(ii) or” after “section”.
 
-1982—Subsec. (a)(1). Pub. L. 97–295, §4(61), substituted “percent” for “per centum”.
+<b>1982</b>—Subsec. (a)(1). Pub. L. 97–295, §4(61), substituted “percent” for “per centum”.
 
 Subsec. (a)(2). Pub. L. 97–295, §4(63)(A), substituted “before October 23, 1970,” for “prior to the date of enactment of the Veterans’ Housing Act of 1970”.
 
@@ -184,7 +184,7 @@ Subsec. (c)(3)(E). Pub. L. 97–306, §406(b)(2)–(4), added cl. (E).
 
 Subsec. (d)(3). Pub. L. 97–295, §4(63)(C), substituted “June 6, 1969” for “the effective date of this amendment”.
 
-1981—Subsec. (a)(2)(A) \[formerly §1815(a)\]. Pub. L. 97–72, §303(e), substituted “Any housing loan” for “Any loan”. See 1988 Amendment note above.
+<b>1981</b>—Subsec. (a)(2)(A) \[formerly §1815(a)\]. Pub. L. 97–72, §303(e), substituted “Any housing loan” for “Any loan”. See 1988 Amendment note above.
 
 Subsec. (d)(1). Pub. L. 97–72, §303(c)(1), substituted “any housing loan” for “any loan”.
 
@@ -192,23 +192,23 @@ Subsec. (d)(2). Pub. L. 97–66 designated existing provisions as subpar. (A) an
 
 Subsec. (d)(3). Pub. L. 97–72, §303(c)(2), substituted “Any real estate housing loan” for “Any real estate loan”.
 
-1980—Subsec. (c)(3)(A). Pub. L. 96–385 substituted “clause (5) or (8) of section 1810(a) of this title or section 1819(a)(1)(F) of this title” for “section 1810(a)(5)”.
+<b>1980</b>—Subsec. (c)(3)(A). Pub. L. 96–385 substituted “clause (5) or (8) of section 1810(a) of this title or section 1819(a)(1)(F) of this title” for “section 1810(a)(5)”.
 
-1978—Subsec. (a)(1). Pub. L. 95–476, §103(a), substituted provision extending loan guarantees under this section to veterans eligible for benefits under this chapter for provision limiting such guarantees to World War II or Korean conflict veterans.
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–476, §103(a), substituted provision extending loan guarantees under this section to veterans eligible for benefits under this chapter for provision limiting such guarantees to World War II or Korean conflict veterans.
 
 Subsec. (c)(1). Pub. L. 95–476, §103(b)(1), inserted provision authorizing the Administrator in establishing rates of interest under this paragraph for purposes of cls. (4) to (7) of section 1810(a) of this title to establish rates higher than the rate specified for other purposes under such section but not in excess of the rate the Administrator may find the loan market demands for loans for such purposes.
 
 Subsec. (c)(3)(B). Pub. L. 95–476, §103(b)(2), substituted “clauses (4) and (7) of section 1810(a) of this title” for “section 1810(a)(4)”.
 
-1976—Subsec. (a)(2)(A) \[formerly §1815(a)\]. Pub. L. 94–324, §7(16), substituted “the Administrator will” for “he will”. See 1988 Amendment note above.
+<b>1976</b>—Subsec. (a)(2)(A) \[formerly §1815(a)\]. Pub. L. 94–324, §7(16), substituted “the Administrator will” for “he will”. See 1988 Amendment note above.
 
 Subsec. (d)(3). Pub. L. 94–324, §7(6), substituted “the Administrator determines” for “he determines”.
 
-1974—Subsec. (a)(1). Pub. L. 93–569, §8(1), struck out “and not more than 50 per centum of the loan if the loan is for any of the purposes specified in section 1812, 1813, or 1814 of this title” after “section 1810 of this title”.
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–569, §8(1), struck out “and not more than 50 per centum of the loan if the loan is for any of the purposes specified in section 1812, 1813, or 1814 of this title” after “section 1810 of this title”.
 
 Subsec. (a)(2)(B) \[formerly §1815(b)\]. Pub. L. 93–569, §8(5), struck out provision authorizing the Administrator to fix maximum interest rate payable on non-real-estate loans at not in excess of 3 percent discount rate or an equivalent straight interest rate on unamortized loans.
 
-Pub. L. 93–569, §8(2), struck out provision that, except as provided in sections 1810, 1811, and 1819, the aggregate amount guaranteed should not be more than $2,000 in the case of non-real-estate loans, nor $4,000 in thecase of real-estate loans or a prorated portion thereof in a combination loan.
+Pub. L. 93–569, §8(2), struck out provision that, except as provided in sections 1810, 1811, and 1819, the aggregate amount guaranteed should not be more than $2,000 in the case of non-real-estate loans, nor $4,000 in the case of real-estate loans or a prorated portion thereof in a combination loan.
 
 Subsec. (c)(3). Pub. L. 93–569, §2(c), added par. (3).
 
@@ -216,25 +216,25 @@ Subsec. (d)(1). Pub. L. 93–569, §8(3), substituted provision that the maturit
 
 Subsec. (d)(3). Pub. L. 93–569, §8(4), struck out provision that any non-real-estate loan should be secured by personalty to the extent legal and practicable.
 
-1973—Subsec. (c)(1). Pub. L. 93–75 substituted provisions requiring the Administrator to consult with the Secretary of Housing and Urban Development regarding the establishment of the rate of interest the Secretary considers necessary to meet the mortgage market for home loans insured under section 203(b) of the National Housing Act, and to carry out a coordinated policy on interest rates on loans insured under such section 203(b) and on loans guaranteed or insured under this chapter, for former provision limiting rate of interest to rate in effect under section 203(b)(5) of the National Housing Act.
+<b>1973</b>—Subsec. (c)(1). Pub. L. 93–75 substituted provisions requiring the Administrator to consult with the Secretary of Housing and Urban Development regarding the establishment of the rate of interest the Secretary considers necessary to meet the mortgage market for home loans insured under section 203(b) of the National Housing Act, and to carry out a coordinated policy on interest rates on loans insured under such section 203(b) and on loans guaranteed or insured under this chapter, for former provision limiting rate of interest to rate in effect under section 203(b)(5) of the National Housing Act.
 
-1970—Subsec. (a). Pub. L. 91–506, §2(b), struck out loan eligibility expiration dates for World War II and Korean conflict veterans and inserted provision restoring expired entitlements of World War II and Korean conflict veterans and providing that such entitlements shall not expire until used.
+<b>1970</b>—Subsec. (a). Pub. L. 91–506, §2(b), struck out loan eligibility expiration dates for World War II and Korean conflict veterans and inserted provision restoring expired entitlements of World War II and Korean conflict veterans and providing that such entitlements shall not expire until used.
 
 Subsec. (b). Pub. L. 91–506, §2(c)(1), substituted “1810, 1811, and 1819” for “1810 and 1811”.
 
 Subsec. (d)(1). Pub. L. 91–506, §2(c)(2), limited maturity of non-real-estate loan to not more than ten years except as provided in section 1819 of this title.
 
-1969—Subsec. (d)(3). Pub. L. 91–22 authorized the Administrator, in determining whether a Government loan is secured by a first lien on realty, to disregard a superior lien created by a duly recorded covenant which secures a veteran homeowner's share of the costs of managing, operating or maintaining property, services or programs common to the community in which the veteran's home is located, provided the interests of the Government and the veteran borrower are not prejudiced.
+<b>1969</b>—Subsec. (d)(3). Pub. L. 91–22 authorized the Administrator, in determining whether a Government loan is secured by a first lien on realty, to disregard a superior lien created by a duly recorded covenant which secures a veteran homeowner's share of the costs of managing, operating or maintaining property, services or programs common to the community in which the veteran's home is located, provided the interests of the Government and the veteran borrower are not prejudiced.
 
-1967—Subsec. (a)(3)(A). Pub. L. 90–77 extended in cls. (i) and (ii) loan program for certain World War II veterans from July 25, 1967 to July 25, 1970.
+<b>1967</b>—Subsec. (a)(3)(A). Pub. L. 90–77 extended in cls. (i) and (ii) loan program for certain World War II veterans from July 25, 1967 to July 25, 1970.
 
-1966—Subsec. (c)(1). Pub. L. 89–358 struck out provision for approval of rate of interest by the Secretary of the Treasury and substituted provision for a rate not in excess of that in effect under section 203(b)(5) of the National Housing Act, section 1709(b)(5) of Title 12, for former limitation of 51/4 per centum per annum.
+<b>1966</b>—Subsec. (c)(1). Pub. L. 89–358 struck out provision for approval of rate of interest by the Secretary of the Treasury and substituted provision for a rate not in excess of that in effect under section 203(b)(5) of the National Housing Act, section 1709(b)(5) of Title 12, for former limitation of 5¼ per centum per annum.
 
-1961—Subsec. (a). Pub. L. 87–84 substituted “to a World War II or Korean conflict veteran, if made within the applicable period prescribed in paragraph (3) of this subsection” for “made to a World War II veteran, if made before July 26, 1962 (or, in the case of a veteran described in section 1801(a)(1)(B) of this title, before the expiration of fifteen years after World War II is deemed to have ended with respect to him), or to a Korean conflict veteran, if made before February 1, 1965,” in par. (1), and “is received by the Administrator before the date of the expiration of the veteran's entitlement, the loan” for “to a World War II veteran, whose entitlement would otherwise expire on July 25, 1962, has been received by the Administrator before July 26, 1962, such loan” in par. (2), and added par. (3).
+<b>1961</b>—Subsec. (a). Pub. L. 87–84 substituted “to a World War II or Korean conflict veteran, if made within the applicable period prescribed in paragraph (3) of this subsection” for “made to a World War II veteran, if made before July 26, 1962 (or, in the case of a veteran described in section 1801(a)(1)(B) of this title, before the expiration of fifteen years after World War II is deemed to have ended with respect to him), or to a Korean conflict veteran, if made before February 1, 1965,” in par. (1), and “is received by the Administrator before the date of the expiration of the veteran's entitlement, the loan” for “to a World War II veteran, whose entitlement would otherwise expire on July 25, 1962, has been received by the Administrator before July 26, 1962, such loan” in par. (2), and added par. (3).
 
-1960—Subsec. (a). Pub. L. 86–665 substituted “1962” for “1960” in three places, “fifteen” for “thirteen” years, and “after such date” for “before July 26, 1961”.
+<b>1960</b>—Subsec. (a). Pub. L. 86–665 substituted “1962” for “1960” in three places, “fifteen” for “thirteen” years, and “after such date” for “before July 26, 1961”.
 
-1959—Subsec. (c)(1). Pub. L. 86–73 struck out requirement that the interest rate on a Veterans’ Administration guarantee for direct loan be at least one-half of one percent below the prevailing rate on FHA-insured sales housing loans and increased the interest rate ceiling from 43/4 to 51/4 percent.
+<b>1959</b>—Subsec. (c)(1). Pub. L. 86–73 struck out requirement that the interest rate on a Veterans’ Administration guarantee for direct loan be at least one-half of one percent below the prevailing rate on FHA-insured sales housing loans and increased the interest rate ceiling from 4¾ to 5¼ percent.
 
 #### Effective Date of 2002 Amendment
 
@@ -284,7 +284,7 @@ Amendment by Pub. L. 93–569 effective Dec. 31, 1974, see section 10 of Pub. L.
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten daysafter Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
+Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
 
 #### Implementation of Amendment by Pub. L. 111–22
 

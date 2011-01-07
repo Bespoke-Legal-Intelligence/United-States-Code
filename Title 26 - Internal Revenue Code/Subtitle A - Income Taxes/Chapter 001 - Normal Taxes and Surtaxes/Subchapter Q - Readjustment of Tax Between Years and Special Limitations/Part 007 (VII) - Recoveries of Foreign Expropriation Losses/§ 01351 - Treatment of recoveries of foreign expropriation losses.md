@@ -28,7 +28,7 @@ For purposes of this section, the term “foreign expropriation loss” means an
 
 #### (1) In general
 
-&emsp;That part of the amount of a recovery of a foreign expropriation loss to which this section applies which, when added to the aggregate of the amounts of previous recoveries with respect to such loss, does not exceed the allowable deductions in prior taxable years on account of such loss shall be excluded from gross income for the taxable year of the recovery for purposes of computing the tax under this subtitle; but there shall be added to, and assessed and collected as a part of, the tax under this subtitle for such taxable year an amount equal to the total increase in the tax under this subtitle for all taxable years which would result by decreasing, in an amount equal to such part of the recovery so excluded, the deductions allowable in the prior taxable years on account of such loss. For purposes of this paragraph, if the loss to which the recovery relates was taken into account as a loss from the sale or exchange of a capital asset, the amount of the loss shall be treated as an allowable deduction even though there were no gains against which to allow such loss.
+&emsp;That part of the amount of a recovery of a foreign expropriation loss to which this section applies which, when added to the aggregate of the amounts of previous recoveries with respect to such loss, does not exceed the allowable deductions in prior taxable years on account of such loss shall be excluded from gross income for the taxable year of the recovery for purposes of computing the tax under this subtitle; but there shall be added to, and assessed and collected as a part of, the tax under this subtitle for such taxable year an amount equal to the total increase in the tax under this subtitle for all taxable years which would result by decreasing, in an amount equal to such part of the recovery so excluded, the deductions allowable in the prior taxable years on account of such loss. For purposes ofthis paragraph, if the loss to which the recovery relates was taken into account as a loss from the sale or exchange of a capital asset, the amount of the loss shall be treated as an allowable deduction even though there were no gains against which to allow such loss.
 
 #### (2) Computation
 
@@ -84,9 +84,9 @@ For purposes of this subtitle, proper adjustment shall be made, under regulation
 
 #### Amendments
 
-1986—Subsec. (d)(2). Pub. L. 99–514 substituted “relating to recovery of tax benefit items” for “relating to recovery of bad debts, etc.”.
+<b>1986</b>—Subsec. (d)(2). Pub. L. 99–514 substituted “relating to recovery of tax benefit items” for “relating to recovery of bad debts, etc.”.
 
-1984—Subsec. (a)(1). Pub. L. 98–369, §211(b)(18)(A), substituted “801” for “802” in two places.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–369, §211(b)(18)(A), substituted “801” for “802” in two places.
 
 Subsec. (c)(2). Pub. L. 98–369, §211(b)(18)(B), substituted “section 807(c)” for “section 810(c)”.
 
@@ -98,9 +98,9 @@ Subsec. (i)(2). Pub. L. 98–369, §474(r)(25)(B), substituted “section 38 (re
 
 Subsec. (i)(3). Pub. L. 98–369, §211(b)(18)(C), substituted “section 810” for “section 812”.
 
-1978—Subsec. (d)(4). Pub. L. 95–600 substituted “the rates of tax specified in section 11(b)” for “the normal tax rate provided by section 11(b) and the surtax rate provided by section 11(c) which are in effect”.
+<b>1978</b>—Subsec. (d)(4). Pub. L. 95–600 substituted “the rates of tax specified in section 11(b)” for “the normal tax rate provided by section 11(b) and the surtax rate provided by section 11(c) which are in effect”.
 
-1976—Subsecs. (a)(2), (d)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (a)(2), (d)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (d)(3). Pub. L. 94–455, §1031(b)(3), struck out provisions relating to an election to have limitation provided by section 904(a)(2) apply and to revocation of such an election previously made.
 
@@ -128,7 +128,7 @@ Amendment by section 1031(b)(3) of Pub. L. 94–455 applicable to taxable years 
 
 #### Effective Date
 
-Section 2 of Pub. L. 89–384, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by section 1 (except subsection (b)) \[enacting this section and section 6167 of this title and amending sections 46, 901, 6503, and 6601 of thistitle\] shall apply with respect to amounts received after December 31, 1964, in respect of foreign expropriation losses (as defined in section 1351(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] added by section 1(a)) sustained after December 31, 1958.”
+Section 2 of Pub. L. 89–384, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by section 1 (except subsection (b)) \[enacting this section and section 6167 of this title and amending sections 46, 901, 6503, and 6601 of this title\] shall apply with respect to amounts received after December 31, 1964, in respect of foreign expropriation losses (as defined in section 1351(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] added by section 1(a)) sustained after December 31, 1958.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

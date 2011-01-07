@@ -74,7 +74,7 @@ Each recipient of assistance for a project under this chapter shall submit to th
 
 #### Amendments
 
-2006—Subsec. (c)(2). Pub. L. 109–363, §302(d), inserted “Canada,” after “United States,”.
+<b>2006</b>—Subsec. (c)(2). Pub. L. 109–363, §302(d), inserted “Canada,” after “United States,”.
 
 Subsec. (e)(2)(B). Pub. L. 109–363, §302(e), amended subpar. (B) generally. Prior to amendment, text read as follows:
 

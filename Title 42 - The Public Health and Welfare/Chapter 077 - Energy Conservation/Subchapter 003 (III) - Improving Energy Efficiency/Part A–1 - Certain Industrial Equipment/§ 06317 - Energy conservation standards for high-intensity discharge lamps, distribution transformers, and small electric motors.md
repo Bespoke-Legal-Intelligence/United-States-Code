@@ -18,7 +18,7 @@
 
 #### (c) Consideration of criteria under other law
 
-In establishing any standard under this section, the Secretary shall take into considerationthe criteria contained in section 6295(n) of this title.
+In establishing any standard under this section, the Secretary shall take into consideration the criteria contained in section 6295(n) of this title.
 
 #### (d) Prescription of labeling requirements by Secretary
 
@@ -42,7 +42,7 @@ Beginning on the date which occurs six months after the date on which a labeling
 
 #### Amendments
 
-1992—Pub. L. 102–486 amended section generally, substituting provisions requiring energy conservation standards for high-intensity discharge lamps, distribution transformers, and small electric motors, for provisions authorizing appropriations for fiscal years 1978 and 1979.
+<b>1992</b>—Pub. L. 102–486 amended section generally, substituting provisions requiring energy conservation standards for high-intensity discharge lamps, distribution transformers, and small electric motors, for provisions authorizing appropriations for fiscal years 1978 and 1979.
 
 #### Study of Utility Distribution Transformers; Report to Congress
 

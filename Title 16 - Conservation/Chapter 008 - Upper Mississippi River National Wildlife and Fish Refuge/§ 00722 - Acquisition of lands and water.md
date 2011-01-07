@@ -10,9 +10,9 @@ Section is a combination provision, the latter portion beginning with the words 
 
 #### Amendments
 
-1998—Pub. L. 105–312, which directed the amendment of section 2 of the Upper Mississippi River Wild Life and Fish Refuge Act by substituting “National Wildlife” for “Wild Life”, was executed to the part of this section based on section 3 of the act, to reflect the probable intent of Congress. See Codification note above.
+<b>1998</b>—Pub. L. 105–312, which directed the amendment of section 2 of the Upper Mississippi River Wild Life and Fish Refuge Act by substituting “National Wildlife” for “Wild Life”, was executed to the part of this section based on section 3 of the act, to reflect the probable intent of Congress. See Codification note above.
 
-1934—Act June 18, 1934, struck out “which are subject to overflow by such river” after “Mississippi River”.
+<b>1934</b>—Act June 18, 1934, struck out “which are subject to overflow by such river” after “Mississippi River”.
 
 #### Transfer of Functions
 

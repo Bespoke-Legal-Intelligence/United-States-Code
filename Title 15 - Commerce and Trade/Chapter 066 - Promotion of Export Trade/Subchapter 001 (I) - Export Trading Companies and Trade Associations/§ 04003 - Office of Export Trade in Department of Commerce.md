@@ -6,5 +6,5 @@ The Secretary of Commerce shall establish within the Department of Commerce an o
 
 #### Amendments
 
-1988—Pub. L. 100–418 inserted requirement that the office establish a program to encourage and assist operation of other export intermediaries, including existing and newly formed export management companies.
+<b>1988</b>—Pub. L. 100–418 inserted requirement that the office establish a program to encourage and assist operation of other export intermediaries, including existing and newly formed export management companies.
 

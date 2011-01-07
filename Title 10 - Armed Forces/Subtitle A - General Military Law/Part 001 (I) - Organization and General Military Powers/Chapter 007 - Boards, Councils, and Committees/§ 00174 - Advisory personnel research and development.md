@@ -54,7 +54,7 @@ In subsection (b), the words “or panel” are inserted for clarity. The words 
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–106 substituted “Other members and part-time advisers shall (except as otherwise specifically authorized by law) serve without compensation for such service.” for “Other members and part-time advisers may serve without compensation or may be paid not more than $50 for each day of service, as the Secretary concerned determines.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–106 substituted “Other members and part-time advisers shall (except as otherwise specifically authorized by law) serve without compensation for such service.” for “Other members and part-time advisers may serve without compensation or may be paid not more than $50 for each day of service, as the Secretary concerned determines.”
 
 #### Termination of Advisory Committees
 

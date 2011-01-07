@@ -1,6 +1,6 @@
 ### §41301. Requirement for a permit
 
-A foreign air carrier may provide foreign air transportation only if the foreign air carrierholds a permit issued under this chapter authorizing the foreign air transportation.
+A foreign air carrier may provide foreign air transportation only if the foreign air carrier holds a permit issued under this chapter authorizing the foreign air transportation.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1126.)
 

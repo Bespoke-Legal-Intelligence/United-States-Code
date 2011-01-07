@@ -62,7 +62,7 @@ Grants under this section shall be used for the following:
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B) and section 11433(a)(2)(B)(ii) of this title, in providing a free public education to a homeless child or youth, no State receiving funds under this part shall segregate such child or youth in a separate school, or in a separateprogram within a school, based on such child's or youth's status as homeless.
+&emsp;&emsp;Except as provided in subparagraph (B) and section 11433(a)(2)(B)(ii) of this title, in providing a free public education to a homeless child or youth, no State receiving funds under this part shall segregate such child or youth in a separate school, or in a separate program within a school, based on such child's or youth's status as homeless.
 
 #### (B) Exception
 
@@ -76,7 +76,7 @@ Grants under this section shall be used for the following:
 
 #### (C) School requirements
 
-&emsp;&emsp;For the State to be eligible under subparagraph (B) to receive funds under this part, the school described in such subparagraph shall—
+&emsp;&emsp;For the State to be eligible under subparagraph (B) to receive funds under this part,the school described in such subparagraph shall—
 
 &emsp;&emsp;&emsp;(i) provide written notice, at the time any child or youth seeks enrollment in such school, and at least twice annually while the child or youth is enrolled in such school, to the parent or guardian of the child or youth (or, in the case of an unaccompanied youth, the youth) that—
 
@@ -144,7 +144,7 @@ Grants under this section shall be used for the following:
 
 #### (i) Preparation
 
-&emsp;&emsp;&emsp;The Secretary shall prepare a report on the separate schools and local educational agencies described in subparagraph (B) that receive funds under this part in accordance with this paragraph. The report shall contain, at a minimum, information on—
+&emsp;&emsp;&emsp;The Secretary shall prepare a report on the separate schools and local educational agencies described in subparagraph (B) that receive funds under this part in accordance with this paragraph. The reportshall contain, at a minimum, information on—
 
 &emsp;&emsp;&emsp;&emsp;(I) compliance with all requirements of this paragraph;
 
@@ -208,7 +208,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;Each State shall submit to the Secretary a plan to provide for the education of homeless children and youths within the State. Such plan shall include the following:
 
-&emsp;&emsp;(A) A description of how such children and youths are (or will be) given the opportunityto meet the same challenging State academic achievement standards all students are expected to meet.
+&emsp;&emsp;(A) A description of how such children and youths are (or will be) given the opportunity to meet the same challenging State academic achievement standards all students are expected to meet.
 
 &emsp;&emsp;(B) A description of the procedures the State educational agency will use to identify such children and youths in the State and to assess their special needs.
 
@@ -286,7 +286,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;&emsp;(ii) provide a written explanation, including a statement regarding the right to appeal under subparagraph (E), to the homeless child's or youth's parent or guardian, if the local educational agency sends such child or youth to a school other than the school of origin or a school requested by the parent or guardian; and
 
-&emsp;&emsp;&emsp;(iii) in the case of an unaccompanied youth, ensure that the homeless liaison designated under paragraph (1)(J)(ii) assists in placement or enrollment decisions under this subparagraph, considers the views of such unaccompanied youth, and provides notice to such youth of the right to appeal under subparagraph (E).
+&emsp;&emsp;&emsp;(iii) in the case of an unaccompanied youth, ensure that the homeless liaison designated under paragraph (1)(J)(ii) assists in placement or enrollment decisionsunder this subparagraph, considers the views of such unaccompanied youth, and provides notice to such youth of the right to appeal under subparagraph (E).
 
 #### (C) Enrollment
 
@@ -348,7 +348,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;Each local educational agency serving homeless children and youths that receives assistance under this part shall coordinate—
 
-&emsp;&emsp;&emsp;(i) the provision of services under this part with local social services agencies and other agencies or programs providing services to homeless children and youths and their families, including services and programs funded under the Runaway andHomeless Youth Act (42 U.S.C. 5701 et seq.); and
+&emsp;&emsp;&emsp;(i) the provision of services under this part with local social services agencies and other agencies or programs providing services to homeless children and youths and their families, including services and programs funded under the Runaway and Homeless Youth Act (42 U.S.C. 5701 et seq.); and
 
 &emsp;&emsp;&emsp;(ii) with other local educational agencies on interdistrict issues, such as transportation or transfer of school records.
 
@@ -420,7 +420,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 #### (C) Eligible individuals
 
-&emsp;&emsp;Funds made available under this subsection shall be used to provide such activities for eligible individuals, consisting of homeless children and youths, and their families, who have become homeless due tohome foreclosure, including children and youths, and their families, who became homeless when lenders foreclosed on properties rented by the families.
+&emsp;&emsp;Funds made available under this subsection shall be used to provide such activities for eligible individuals, consisting of homeless children and youths, and their families, who have become homeless due to home foreclosure, including children and youths, and their families, who became homeless when lenders foreclosed on properties rented by the families.
 
 #### (2) Grants to State educational agencies
 
@@ -434,7 +434,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 #### (3) Subgrants to local educational agencies
 
-&emsp;A State educational agency that receives a grant under paragraph (2) shall use the funds made available through the grant to make subgrants to local educational agencies. The State educational agency shall make the subgrants to local educational agencies based on need, consistent with the number of eligible individuals described in paragraph (1)(C) in the areas served by the local educational agencies, as determined by the State educational agency.
+&emsp;A State educational agency that receives a grant under paragraph (2) shall use the fundsmade available through the grant to make subgrants to local educational agencies. The State educational agency shall make the subgrants to local educational agencies based on need, consistent with the number of eligible individuals described in paragraph (1)(C) in the areas served by the local educational agencies, as determined by the State educational agency.
 
 #### (4) Restriction
 
@@ -464,7 +464,7 @@ Another prior section 11432, Pub. L. 100–77, title VII, §722, July 22, 1987, 
 
 #### Amendments
 
-2008—Subsec. (h). Pub. L. 110–289 added subsec. (h).
+<b>2008</b>—Subsec. (h). Pub. L. 110–289 added subsec. (h).
 
 #### Change of Name
 

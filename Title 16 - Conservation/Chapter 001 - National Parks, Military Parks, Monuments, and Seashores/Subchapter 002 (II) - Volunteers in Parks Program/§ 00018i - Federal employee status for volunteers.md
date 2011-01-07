@@ -20,5 +20,5 @@ For the purpose of claims relating to damage to, or loss of, personal property o
 
 #### Amendments
 
-1990—Subsec. (d). Pub. L. 101–286 added subsec. (d).
+<b>1990</b>—Subsec. (d). Pub. L. 101–286 added subsec. (d).
 

@@ -8,7 +8,7 @@
 
 &emsp;(2) if there is not any such law, rule, or regulation, such acceptance or rejection was solicited after disclosure to such holder of adequate information, as defined in section 1125(a) of this title.
 
-(c) A class of claims has accepted a plan if such plan has been accepted by creditors, other than any entity designated under subsection (e) of this section, that hold at least two-thirds in amount and more than one-half in number of the allowed claims of such class held by creditors, other than any entity designated under subsection (e) of this section, that have accepted or rejected such plan.
+(c) A class of claims has accepted a plan if such plan has been accepted by creditors, other than any entity designated under subsection (e) of this section, that hold at least two-thirds in amount and more than one-half in number ofthe allowed claims of such class held by creditors, other than any entity designated under subsection (e) of this section, that have accepted or rejected such plan.
 
 (d) A class of interests has accepted a plan if such plan has been accepted by holders of such interests, other than any entity designated under subsection (e) of this section, that hold at least two-thirds in amount of the allowed interests of such class held by holders of such interests, other than any entity designated under subsection (e) of this section, that have accepted or rejected such plan.
 

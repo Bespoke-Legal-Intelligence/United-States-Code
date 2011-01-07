@@ -152,9 +152,9 @@ Hereafter, referred to in subsec. (h)(3), probably means on and after the date o
 
 #### Amendments
 
-2006—Subsec. (h). Pub. L. 109–347 added subsec. (h).
+<b>2006</b>—Subsec. (h). Pub. L. 109–347 added subsec. (h).
 
-2002—Subsec. (a)(3). Pub. L. 107–210, §311(d), added par. (3).
+<b>2002</b>—Subsec. (a)(3). Pub. L. 107–210, §311(d), added par. (3).
 
 Subsec. (b)(1)(A). Pub. L. 107–210, §311(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “$516,217,000 for fiscal year 1991.”
 
@@ -168,9 +168,9 @@ Subsec. (b)(3)(A). Pub. L. 107–210, §311(c)(1), added subpar. (A) and struck 
 
 Subsec. (b)(3)(B). Pub. L. 107–210, §311(c)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “$150,199,000 for fiscal year 1992.”
 
-1990—Subsec. (b). Pub. L. 101–382, amended subsec. (b) generally, in par. (1), substituting provisions authorizing $516,217,000 and $542,091,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $418,822,000 for fiscal year 1990, of which at least $26,240,000 was to be used to hire at least 435 additional inspectors and other drug interdiction personnel, in par. (2), designating existing provisions as subpar. (A) and substituting provisions authorizing $672,021,000 and $705,793,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $656,468,000 for fiscal year 1990, striking out provisions relating to Customs User Fee Account, and adding subpar. (B), and in par. (3), substituting provisions authorizing $143,047,000 and $150,199,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $128,128,000 for fiscal year 1990.
+<b>1990</b>—Subsec. (b). Pub. L. 101–382, amended subsec. (b) generally, in par. (1), substituting provisions authorizing $516,217,000 and $542,091,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $418,822,000 for fiscal year 1990, of which at least $26,240,000 was to be used to hire at least 435 additional inspectors and other drug interdiction personnel, in par. (2), designating existing provisions as subpar. (A) and substituting provisions authorizing $672,021,000 and $705,793,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $656,468,000 for fiscal year 1990, striking out provisions relating to Customs User Fee Account, and adding subpar. (B), and in par. (3), substituting provisions authorizing $143,047,000 and $150,199,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $128,128,000 for fiscal year 1990.
 
-1989—Subsec. (b)(1). Pub. L. 101–207, §3(a)(1), (2), substituted “1990” for “1989” and “$418,822,000” for “$440,504,000”.
+<b>1989</b>—Subsec. (b)(1). Pub. L. 101–207, §3(a)(1), (2), substituted “1990” for “1989” and “$418,822,000” for “$440,504,000”.
 
 Subsec. (b)(2). Pub. L. 101–207, §3(a)(1), (3), substituted “1990” for “1989” and “$656,468,000” for “$615,247,000”.
 
@@ -178,7 +178,7 @@ Subsec. (b)(3). Pub. L. 101–207, §3(a)(1), (4), substituted “1990” for �
 
 Subsec. (b)(4). Pub. L. 101–207, §3(a)(5), struck out par. (4) which read as follows: “There are authorized to be appropriated to the Secretary of the Treasury for fiscal year 1989, $1,600,000 for payment to the Customs Cooperation Council.”
 
-1988—Subsec. (b)(1). Pub. L. 100–690, §7361(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are authorized to be appropriated for fiscal year 1988 not to exceed $348,192,000 for the salaries and expenses of the United States Customs Service that are incurred in noncommercial operations, of which $171,857.06 shall be available only for concluding Contract TC–82–54 that was awarded for the development and testing of an automatic license plate reader.”
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–690, §7361(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are authorized to be appropriated for fiscal year 1988 not to exceed $348,192,000 for the salaries and expenses of the United States Customs Service that are incurred in noncommercial operations, of which $171,857.06 shall be available only for concluding Contract TC–82–54 that was awarded for the development and testing of an automatic license plate reader.”
 
 Subsec. (b)(2). Pub. L. 100–690, §7361(a)(2)(A), (B), substituted authorization of appropriation of $615,247,000 for fiscal year 1989 for authorization of appropriation of $615,000,000 for fiscal year 1988.
 
@@ -188,13 +188,13 @@ Subsec. (b)(4). Pub. L. 100–690, §7361(a)(2)(D), added par. (4).
 
 Subsec. (g)(3). Pub. L. 100–690, §7361(b), added par. (3).
 
-1987—Subsec. (b). Pub. L. 100–203, §9503(a), amended subsec. (b) generally, revising and restating as pars. (1) to (3) provisions of former pars. (1) and (2).
+<b>1987</b>—Subsec. (b). Pub. L. 100–203, §9503(a), amended subsec. (b) generally, revising and restating as pars. (1) to (3) provisions of former pars. (1) and (2).
 
 Subsec. (f). Pub. L. 100–203, §9503(b)(1), struck out heading which is now editorially supplied.
 
 Subsec. (g). Pub. L. 100–203, §9503(b)(2), (3), struck out heading which is now editorially supplied, designated existing provisions as par. (1), and added par. (2).
 
-1986—Subsec. (a). Pub. L. 99–509, §8102(1), designated existing provisions as par. (1) and added par. (2).
+<b>1986</b>—Subsec. (a). Pub. L. 99–509, §8102(1), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (b). Pub. L. 99–570, title III, §3141(a), Oct. 27, 1986, 100 Stat. 3207–92, which directed an amendment to subsec. (b) of this section did not become effective pursuant to Pub. L. 99–570, title III, §3141(b), which provided that the amendment made by section 3141(a) would not be effective if H.R. 5300 was enacted with an identical amendment. H.R. 5300 was enacted as Pub. L. 99–509 with an identical amendment in section 8102(2). See below.
 
@@ -230,11 +230,11 @@ Pub. L. 99–272, §13022(a)(1), amended subsec. (b) generally. Prior to amendme
 
 Subsecs. (f), (g). Pub. L. 99–272, §13022(a)(2), added subsecs. (f) and (g).
 
-1984—Subsec. (b). Pub. L. 98–573, §702(1), amended subsec. (b) generally, which prior to amendment read as follows: “There are authorized to be appropriated to the Department of the Treasury not to exceed $564,224,000 for the salaries and expenses of the United States Customs Service for fiscal year 1983, of which not to exceed $31,464,000 is for salary and expenses for the enforcement of the alcohol and tobacco revenue laws.”
+<b>1984</b>—Subsec. (b). Pub. L. 98–573, §702(1), amended subsec. (b) generally, which prior to amendment read as follows: “There are authorized to be appropriated to the Department of the Treasury not to exceed $564,224,000 for the salaries and expenses of the United States Customs Service for fiscal year 1983, of which not to exceed $31,464,000 is for salary and expenses for the enforcement of the alcohol and tobacco revenue laws.”
 
 Subsecs. (d), (e). Pub. L. 98–573, §702(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1983—Pub. L. 97–456 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
+<b>1983</b>—Pub. L. 97–456 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
 
 #### Effective Date of 2002 Amendment
 

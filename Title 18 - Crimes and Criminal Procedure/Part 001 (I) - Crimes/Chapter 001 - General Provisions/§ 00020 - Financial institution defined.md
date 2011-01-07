@@ -20,7 +20,7 @@ As used in this title, the term “financial institution” means—
 
 &emsp;(9) a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978); or
 
-&emsp;(10) a mortgage lending business (as defined in section 27 of this title) or any person or entity that makes in whole or in part a federally related mortgage loan as defined in section 3 of the Real Estate Settlement Procedures Act of 1974.
+&emsp;(10) a mortgage lending business (as defined in section 27 of this title) or any person or entity that makes in whole or in part a federally related mortgage loan as defined in section 3of the Real Estate Settlement Procedures Act of 1974.
 
 (Added Pub. L. 98–473, title II, §1107(a), Oct. 12, 1984, 98 Stat. 2145, §215(b); amended Pub. L. 99–370, §2, Aug. 4, 1986, 100 Stat. 779; renumbered §20 and amended Pub. L. 101–73, title IX, §962(e)(1), (2), Aug. 9, 1989, 103 Stat. 503; Pub. L. 101–647, title XXV, §2597(a), Nov. 29, 1990, 104 Stat. 4908; Pub. L. 111–21, §2(a), May 20, 2009, 123 Stat. 1617.)
 
@@ -42,11 +42,11 @@ A prior section 20 was renumbered section 17 of this title.
 
 #### Amendments
 
-2009—Par. (10). Pub. L. 111–21 added par. (10).
+<b>2009</b>—Par. (10). Pub. L. 111–21 added par. (10).
 
-1990—Pars. (7) to (9). Pub. L. 101–647 added pars. (7) to (9).
+<b>1990</b>—Pars. (7) to (9). Pub. L. 101–647 added pars. (7) to (9).
 
-1989—Pub. L. 101–73, §962(e)(1), (2)(A)–(C), redesignated subsec. (b) of section 215 of this title as this section, inserted section catchline, struck out subsec. (b) designation before “As used”, and substituted “used in this title” for “used in this section”.
+<b>1989</b>—Pub. L. 101–73, §962(e)(1), (2)(A)–(C), redesignated subsec. (b) of section 215 of this title as this section, inserted section catchline, struck out subsec. (b) designation before “As used”, and substituted “used in this title” for “used in this section”.
 
 Par. (1). Pub. L. 101–73, §962(e)(2)(D), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “a bank with deposits insured by the Federal Deposit Insurance Corporation;”.
 
@@ -62,7 +62,7 @@ Pars. (6), (7). Pub. L. 101–73, §962(e)(2)(G), (H), redesignated par. (7) as 
 
 Par. (8). Pub. L. 101–73, §962(e)(2)(E), struck out par. (8) which read as follows: “a savings and loan holding company as defined in section 408 of the National Housing Act (12 U.S.C. 1730a).”
 
-1986—Pub. L. 99–370 amended subsec. (b) \[formerly §215(b)\] generally expanding provisions formerly contained in subsec. (c) \[former §215(c)\] defining “financial institution”.
+<b>1986</b>—Pub. L. 99–370 amended subsec. (b) \[formerly §215(b)\] generally expanding provisions formerly contained in subsec. (c) \[former §215(c)\] defining “financial institution”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

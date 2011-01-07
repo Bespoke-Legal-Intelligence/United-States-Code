@@ -40,7 +40,7 @@ Procedures Described.—Two-phase selection procedures consist of the following:
 
 &emsp;&emsp;&emsp;(ii) cost or price information.
 
-&emsp;(3) The evaluation factors to be used in evaluating phase-one proposals are stated in the solicitation and include specialized experience and technical competence, capability to perform, past performance of the offeror's team (including the architect-engineer and construction members of the team) and other appropriate factors, except that cost-related orprice-related evaluation factors are not permitted. Each solicitation establishes the relative importance assigned to the evaluation factors and subfactors that must be considered in the evaluation of phase-one proposals. The agency evaluates phase-one proposals on the basis of the phase-one evaluation factors set forth in the solicitation.
+&emsp;(3) The evaluation factors to be used in evaluating phase-one proposals are stated in the solicitation and include specialized experience and technical competence, capability to perform, past performance of the offeror's team (including the architect-engineer and construction members of the team) and other appropriate factors, except that cost-related or price-related evaluation factors are not permitted. Each solicitation establishes the relative importance assigned to the evaluation factors and subfactors that must be considered in the evaluation of phase-one proposals. The agency evaluates phase-one proposals on the basis of the phase-one evaluation factors set forth in the solicitation.
 
 &emsp;(4) The contracting officer selects as the most highly qualified the number of offerors specified in the solicitation to provide the property or services under the contract and requests the selected offerors to submit phase-two competitive proposals that include technical proposals and cost or price information. Each solicitation establishes with respect to phase two—
 
@@ -74,7 +74,7 @@ Special Authority for Military Construction Projects.—(1) The Secretary of a m
 
 (3) For each fiscal year during which the authority provided by this subsection is in effect, the Secretary of a military department may select not more than two military construction projects to include the accelerated design effort authorized by paragraph (1) for each armed force under the jurisdiction of the Secretary. To be eligible for selection under this subsection, a request for the authorization of the project, and for the authorization of appropriations for the project, must have been included in the annual budget of the President for a fiscal year submitted to Congress under section 1105(a) of title 31.
 
-(4) Not later than March 1, 2008, the Secretary of Defense shall submit to the congressional defense committees a report evaluating the usefulness of the authority provided by this subsection in expediting the design and construction of military construction projects. The authority provided by this subsection expires September 30, 2008, except that, if the report required by this paragraph is not submitted by March 1, 2008, the authority shall expire on that date.
+(4) Not later than March 1, 2008, the Secretary of Defense shall submit to the congressional defense committees a report evaluating the usefulness of the authority provided by this subsection in expediting the design and construction ofmilitary construction projects. The authority provided by this subsection expires September 30, 2008, except that, if the report required by this paragraph is not submitted by March 1, 2008, the authority shall expire on that date.
 
 (Added Pub. L. 104–106, div. D, title XLI, §4105(a)(1), Feb. 10, 1996, 110 Stat. 645; amended Pub. L. 105–85, div. A, title X, §1073(a)(44), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 107–217, §3(b)(4), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 108–178, §4(b)(3), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 108–375, div. B, title XXVIII, §2807, Oct. 28, 2004, 118 Stat. 2123; Pub. L. 109–163, div. B, title XXVIII, §2807, Jan. 6, 2006, 119 Stat. 3508.)
 
@@ -84,17 +84,17 @@ A prior section 2305a was renumbered section 2438 of this title.
 
 #### Amendments
 
-2006—Subsec. (f)(2). Pub. L. 109–163, §2807(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any military construction contract that provides for an accelerated design effort, as authorized by paragraph (1), shall include as a condition of the contract that the liability of the United States in a termination for convenience may not exceed the actual costs incurred as of the termination date.”
+<b>2006</b>—Subsec. (f)(2). Pub. L. 109–163, §2807(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any military construction contract that provides for an accelerated design effort, as authorized by paragraph (1), shall include as a condition of the contract that the liability of the United States in a termination for convenience may not exceed the actual costs incurred as of the termination date.”
 
 Subsec. (f)(4). Pub. L. 109–163, §2807(b), substituted “2008” for “2007” wherever appearing.
 
-2004—Subsec. (f). Pub. L. 108–375 added subsec. (f).
+<b>2004</b>—Subsec. (f). Pub. L. 108–375 added subsec. (f).
 
-2003—Subsec. (c)(1). Pub. L. 108–178 substituted “chapter 11 of title 40” for “the Brooks Architect-Engineers Act (40 U.S.C. 541 et seq.)”.
+<b>2003</b>—Subsec. (c)(1). Pub. L. 108–178 substituted “chapter 11 of title 40” for “the Brooks Architect-Engineers Act (40 U.S.C. 541 et seq.)”.
 
-2002—Subsec. (a). Pub. L. 107–217 substituted “chapter 11 of title 40” for “the Brooks Architect-Engineers Act (40 U.S.C. 541 et seq.)”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–217 substituted “chapter 11 of title 40” for “the Brooks Architect-Engineers Act (40 U.S.C. 541 et seq.)”.
 
-1997—Subsec. (a). Pub. L. 105–85 substituted “(40 U.S.C.” for “(41 U.S.C.”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–85 substituted “(40 U.S.C.” for “(41 U.S.C.”.
 
 #### Effective Date of 2003 Amendment
 
@@ -102,5 +102,5 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
 #### Effective Date
 
-For effective date and applicability of section, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of section, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under section 2302 of this title.
 

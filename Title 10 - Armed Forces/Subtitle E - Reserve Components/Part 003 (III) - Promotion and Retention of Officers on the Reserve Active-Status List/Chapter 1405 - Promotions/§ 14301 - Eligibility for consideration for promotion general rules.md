@@ -66,21 +66,21 @@ Officers on Educational Delay.—An officer on the reserve active-status list is
 
 #### Amendments
 
-2002—Subsec. (g). Pub. L. 107–314 amended subsec. (g) generally. Prior to amendment, text read as follows: “A reserve component brigadier general of the Army or the Air Force who is in an inactive status is eligible (notwithstanding subsection (a)) for consideration for promotion to major general by a promotion board convened under section 14101(a) of this title if the officer—
+<b>2002</b>—Subsec. (g). Pub. L. 107–314 amended subsec. (g) generally. Prior to amendment, text read as follows: “A reserve component brigadier general of the Army or the Air Force who is in an inactive status is eligible (notwithstanding subsection (a)) for consideration for promotion to major general by a promotion board convened under section 14101(a) of this title if the officer—
 
 &emsp;“(1) has been in an inactive status for less than one year as of the date of the convening of the promotion board; and
 
 &emsp;“(2) had continuously served for at least one year on the reserve active status list or the active duty list (or a combination of both) immediately before the officer's most recent transfer to an inactive status.”
 
-2001—Subsec. (c)(5). Pub. L. 107–107 added par. (5).
+<b>2001</b>—Subsec. (c)(5). Pub. L. 107–107 added par. (5).
 
-1999—Subsec. (g)(1), (2). Pub. L. 106–65, §1066(a)(32), substituted “one year” for “1 year”.
+<b>1999</b>—Subsec. (g)(1), (2). Pub. L. 106–65, §1066(a)(32), substituted “one year” for “1 year”.
 
 Subsec. (h). Pub. L. 106–65, §513(a), added subsec. (h).
 
-1998—Subsec. (g). Pub. L. 105–261 added subsec. (g).
+<b>1998</b>—Subsec. (g). Pub. L. 105–261 added subsec. (g).
 
-1997—Subsec. (c). Pub. L. 105–85, §503(b)(1), substituted “grade any of the following officers:” for “grade—” in introductory provisions.
+<b>1997</b>—Subsec. (c). Pub. L. 105–85, §503(b)(1), substituted “grade any of the following officers:” for “grade—” in introductory provisions.
 
 Subsec. (c)(1). Pub. L. 105–85, §503(b)(2), (3), substituted “An officer” for “an officer” and “title.” for “title;”.
 

@@ -24,7 +24,7 @@ The Secretary may not make a grant under section 280c–3(a) of this title to a 
 
 &emsp;(2) with respect to carrying out the purpose for which the grant is to be made, provide assurances of compliance satisfactory to the Secretary; and
 
-&emsp;(3) otherwise be in such form, be made in such manner, and contain such informationand agreements as the Secretary determines to be necessary to carry out this subpart.
+&emsp;(3) otherwise be in such form, be made in such manner, and contain such information and agreements as the Secretary determines to be necessary to carry out this subpart.
 
 #### (d) Evaluations and report by Secretary
 
@@ -42,7 +42,7 @@ For the purpose of carrying out this subpart, there are authorized to be appropr
 
 #### Amendments
 
-1998—Subsec. (e). Pub. L. 105–392 substituted “1991, such sums” for “1991, and such sums” and inserted before period at end “, $8,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002”.
+<b>1998</b>—Subsec. (e). Pub. L. 105–392 substituted “1991, such sums” for “1991, and such sums” and inserted before period at end “, $8,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002”.
 
-1990—Subsec. (e). Pub. L. 101–557 substituted “there are” for “there is” and inserted before period at end “, $7,500,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 and 1993”.
+<b>1990</b>—Subsec. (e). Pub. L. 101–557 substituted “there are” for “there is” and inserted before period at end “, $7,500,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 and 1993”.
 

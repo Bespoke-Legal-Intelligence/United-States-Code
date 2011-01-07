@@ -4,7 +4,7 @@
 
 No person may—
 
-&emsp;(1) make any statement, or counsel or advise any consumer to make any statement, which is untrue or misleading (or which, upon the exercise of reasonable care, should be known by the credit repair organization, officer, employee, agent, or other person to be untrue or misleading) with respect to any consumer's credit worthiness,<sup>1</sup> credit standing, or credit capacity to—
+&emsp;(1) make any statement, or counsel or advise any consumer to make any statement, which is untrue or misleading (or which, upon the exercise of reasonable care, should be known by the credit repair organization, officer, employee, agent, or other person to be untrue or misleading) with respect to any consumer's credit worthiness, credit standing, or credit capacity to—
 
 &emsp;&emsp;(A) any consumer reporting agency (as defined in section 1681a(f) of this title); or
 
@@ -37,6 +37,4 @@ No credit repair organization may charge or receive any money or other valuable 
 #### Prior Provisions
 
 For a prior section 404 of Pub. L. 90–321, see note set out under section 1679 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “creditworthiness,”.</i>
 

@@ -32,11 +32,11 @@ The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch
 
 #### Amendments
 
-2001—Subsec. (a)(1). Pub. L. 107–90 in introductory provisions, inserted after first sentence “On or beforeMay 1 of each year beginning in 2003, the Railroad Retirement Board shall compute its projection of the account benefits ratio and the average account benefits ratio (as defined by section 3241(c) of the Internal Revenue Code of 1986) for each of the next succeeding five fiscal years.” and substituted “the projections prepared pursuant to the preceding two sentences” for “the projection prepared pursuant to the preceding sentence”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–90 in introductory provisions, inserted after first sentence “On or before May 1 of each year beginning in 2003, the Railroad Retirement Board shall compute its projection of the account benefits ratio and the average account benefits ratio (as defined by section 3241(c) of the Internal Revenue Code of 1986) for each of the next succeeding five fiscal years.” and substituted “the projections prepared pursuant to the preceding two sentences” for “the projection prepared pursuant to the preceding sentence”.
 
-1995—Subsec. (a)(1). Pub. L. 104–66 substituted “May 1” and “July 1” for “February 1” and “April 1”, respectively, in introductory provisions.
+<b>1995</b>—Subsec. (a)(1). Pub. L. 104–66 substituted “May 1” and “July 1” for “February 1” and “April 1”, respectively, in introductory provisions.
 
-1983—Subsec. (a). Pub. L. 98–76 amended subsec. (a) generally, substituting provisions requiring Railroad Retirement Board to annually prepare and report on a five-year projection of ability of Railroad Retirement Account to pay benefits during five-year period for provisions which required Board to prepare a report in any fiscal year in which it determined that more than 50 percent of borrowing authority under this subchapter would be used.
+<b>1983</b>—Subsec. (a). Pub. L. 98–76 amended subsec. (a) generally, substituting provisions requiring Railroad Retirement Board to annually prepare and report on a five-year projection of ability of Railroad Retirement Account to pay benefits during five-year period for provisions which required Board to prepare a report in any fiscal year in which it determined that more than 50 percent of borrowing authority under this subchapter would be used.
 
 #### Effective Date
 

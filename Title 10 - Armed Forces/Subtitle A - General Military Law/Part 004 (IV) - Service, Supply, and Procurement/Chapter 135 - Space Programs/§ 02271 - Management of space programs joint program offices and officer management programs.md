@@ -20,6 +20,18 @@ Officer Management Programs.—(1) The Secretary of Defense shall take appropria
 
 A prior section 2271, act Aug. 10, 1956, ch. 1041, 70A Stat. 123, related to competitions for designs of aircraft, aircraft parts, and aeronautical accessories, prior to repeal by Pub. L. 103–160, div. A, title VIII, §821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
+#### Integrated Space Architectures
+
+Pub. L. 111–383, div. A, title IX, §911, Jan. 7, 2011, 124 Stat. 4328, provided that: “The Secretary of Defense and the Director of National Intelligence shall develop an integrated process for national security space architecture planning, development, coordination, and analysis that—
+
+&emsp;“(1) encompasses defense and intelligence space plans, programs, budgets, and organizations;
+
+&emsp;“(2) provides mid-term to long-term recommendations to guide space-related defense and intelligence acquisitions, requirements, and investment decisions;
+
+&emsp;“(3) is independent of, but coordinated with, the space architecture planning, development, coordination, and analysis activities of each military department and each element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4))); and
+
+&emsp;“(4) makes use of, to the maximum extent practicable, joint duty assignment (as defined in section 668 of title 10, United States Code) positions.”
+
 #### Space Protection Strategy
 
 Pub. L. 110–181, div. A, title IX, §911(a)–(f), Jan. 28, 2008, 122 Stat. 279, 280, provided that:

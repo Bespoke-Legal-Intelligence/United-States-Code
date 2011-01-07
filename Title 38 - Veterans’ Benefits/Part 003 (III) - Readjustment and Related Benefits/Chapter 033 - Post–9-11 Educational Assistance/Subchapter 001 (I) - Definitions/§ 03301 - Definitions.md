@@ -8,9 +8,15 @@ In this chapter:
 
 &emsp;&emsp;(B) In the case of members of the reserve components of the Armed Forces, service on active duty under a call or order to active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10.
 
+&emsp;&emsp;(C) In the case of a member of the Army National Guard of the United States or Air National Guard of the United States, in addition to service described in subparagraph (B), full-time service—
+
+&emsp;&emsp;&emsp;(i) in the National Guard of a State for the purpose of organizing, administering, recruiting, instructing, or training the National Guard; or
+
+&emsp;&emsp;&emsp;(ii) in the National Guard under section 502(f) of title 32 when authorized by the President or the Secretary of Defense for the purpose of responding to a national emergency declared by the President and supported by Federal funds.
+
 &emsp;(2) The term “entry level and skill training” means the following:
 
-&emsp;&emsp;(A) In the case of members of the Army, Basic Combat Training and Advanced Individual Training.
+&emsp;&emsp;(A) In the case of members of the Army, Basic Combat Training and Advanced Individual Training or One Station Unit Training.
 
 &emsp;&emsp;(B) In the case of members of the Navy, Recruit Training (or Boot Camp) and Skill Training (or so-called “A” School).
 
@@ -18,17 +24,41 @@ In this chapter:
 
 &emsp;&emsp;(D) In the case of members of the Marine Corps, Recruit Training and Marine Corps Training (or School of Infantry Training).
 
-&emsp;&emsp;(E) In the case of members of the Coast Guard, Basic Training.
+&emsp;&emsp;(E) In the case of members of the Coast Guard, Basic Training and Skill Training (or so-called “A” School).
 
 &emsp;(3) The term “program of education” has the meaning given such term in section 3002, except to the extent otherwise provided in section 3313.
 
 &emsp;(4) The term “Secretary of Defense” means the Secretary of Defense, except that the term means the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–377, title I, §101(a), Jan. 4, 2011, 124 Stat. 4107.)
+
+#### Amendments
+
+<b>2011</b>—Par. (1)(C). Pub. L. 111–377, §101(a)(1), added subpar. (C).
+
+Par. (2)(A). Pub. L. 111–377, §101(a)(2), inserted “or One Station Unit Training” before period at end.
+
+Par. (2)(E). Pub. L. 111–377, §101(a)(3), inserted “and Skill Training (or so-called ‘A’ School)” before period at end.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–377, title I, §101(d)(1)–(3), Jan. 4, 2011, 124 Stat. 4108, provided that:
+
+“(1)
+
+Service in national guard as active duty.—The amendment made by subsection (a)(1) \[amending this section\] shall take effect on August 1, 2009, as if included in the enactment of chapter 33 of title 38, United States Code, pursuant to the Post-9/11 Veterans Educational Assistance Act of 2008 (title V of Public Law 110–252) \[see Short Title of 2008 Amendment note set out under section 101 of this title\]. However, no benefits otherwise payable by reason of such amendment for the period beginning on August 1, 2009, and ending on September 30, 2011, may be paid before October 1, 2011.
+
+“(2)
+
+One station unit training.—The amendment made by subsection (a)(2) \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 4, 2011\].
+
+“(3)
+
+Entry level and skill training for the coast guard.—The amendment made by subsection (a)(3) \[amending this section\] shall take effect on the date ofthe enactment of this Act, and shall apply with respect to individuals entering service on or after that date.”
 
 #### Effective Date
 
-Chapter effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008Amendment note under section 16163 of Title 10, Armed Forces.
+Chapter effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under section 16163 of Title 10, Armed Forces.
 
 #### Findings
 
@@ -116,7 +146,7 @@ In general.—In the event educational assistance to which an individual making 
 
 &emsp;“(B)
 
-Charge for use of entitlement.—The utilization by an individual of entitlement under subparagraph (A) shall be chargeable against the entitlement of the individual to educational assistance under chapter 33 of title 38, United States Code (as so added), at the rate of one month of entitlement under such chapter 33 for each month of entitlement utilized by the individual under subparagraph (A) (as determined as if such entitlement were utilized under the provisions of chapter 30 of title 38, United States Code, or chapter 107, 1606, or 1607 of title 10, United States Code, as applicable).
+Charge for use of entitlement.—The utilization by an individual of entitlement under subparagraph (A) shall be chargeable against the entitlement of the individual to educational assistance under chapter 33 of title 38, United States Code (as so added), at the rate of one month of entitlement undersuch chapter 33 for each month of entitlement utilized by the individual under subparagraph (A) (as determined as if such entitlement were utilized under the provisions of chapter 30 of title 38, United States Code, or chapter 107, 1606, or 1607 of title 10, United States Code, as applicable).
 
 “(6)
 

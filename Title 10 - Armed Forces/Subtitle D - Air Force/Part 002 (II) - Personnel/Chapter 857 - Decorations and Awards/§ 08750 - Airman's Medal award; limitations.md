@@ -32,7 +32,7 @@ In subsection (b), the words “that would otherwise justify” are substituted 
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–85 designated existing provisions as par. (1) and added par. (2).
+<b>1997</b>—Subsec. (a). Pub. L. 105–85 designated existing provisions as par. (1) and added par. (2).
 
-1960—Pub. L. 86–593 substituted “Airman's Medal” for “Soldier's Medal” in section catchline and wherever appearing in text.
+<b>1960</b>—Pub. L. 86–593 substituted “Airman's Medal” for “Soldier's Medal” in section catchline and wherever appearing in text.
 

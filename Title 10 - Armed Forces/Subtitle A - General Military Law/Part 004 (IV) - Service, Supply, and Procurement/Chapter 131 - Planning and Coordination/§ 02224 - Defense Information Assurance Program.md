@@ -36,17 +36,17 @@ Information Assurance Test Bed.—The Secretary shall develop an information ass
 
 &emsp;(1) an integrated organization structure to plan and facilitate the conduct of simulations, war games, exercises, experiments, and other activities to prepare and inform the Department regarding information warfare threats; and
 
-&emsp;(2) organization and planning means for the conduct by the Department of the integrated or joint exercises and experiments with elements of the national information systems infrastructure and other non-Department of Defense organizations that are responsible forthe oversight and management of critical information systems and infrastructures on which the Department, the armed forces, and supporting activities depend for the conduct of daily operations and operations during crisis.
+&emsp;(2) organization and planning means for the conduct by the Department of the integrated or joint exercises and experiments with elements of the national information systems infrastructure and other non-Department of Defense organizations that are responsible for the oversight and management of critical information systems and infrastructures on which the Department, the armed forces, and supporting activities depend for the conduct of daily operations and operations during crisis.
 
 (Added Pub. L. 106–65, div. A, title X, §1043(a), Oct. 5, 1999, 113 Stat. 760; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1063\], Oct. 30, 2000, 114 Stat. 1654, 1654A–274; Pub. L. 107–296, title X, §1001(c)(1)(B), Nov. 25, 2002, 116 Stat. 2267; Pub. L. 107–347, title III, §301(c)(1)(B), Dec. 17, 2002, 116 Stat. 2955; Pub. L. 108–136, div. A, title X, §1031(a)(12), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 108–375, div. A, title X, §1084(d)(17), Oct. 28, 2004, 118 Stat. 2062.)
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–375 substituted “subchapter II” for “subtitle II” in introductory provisions.
+<b>2004</b>—Subsec. (c). Pub. L. 108–375 substituted “subchapter II” for “subtitle II” in introductory provisions.
 
-2003—Subsec. (e). Pub. L. 108–136 struck out subsec. (e) which directed the Secretary of Defense to annually submit to Congress a report on the Defense Information Assurance Program.
+<b>2003</b>—Subsec. (e). Pub. L. 108–136 struck out subsec. (e) which directed the Secretary of Defense to annually submit to Congress a report on the Defense Information Assurance Program.
 
-2002—Subsec. (b). Pub. L. 107–296, §1001(c)(1)(B)(i), and Pub. L. 107–347, §301(c)(1)(B)(i), amended subsec. (b) identically, substituting “Objectives of the Program” for “Objectives and Minimum Requirements” in heading and striking out par. (1) designation before “The objectives”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–296, §1001(c)(1)(B)(i), and Pub. L. 107–347, §301(c)(1)(B)(i), amended subsec. (b) identically, substituting “Objectives of the Program” for “Objectives and Minimum Requirements” in heading and striking out par. (1) designation before “The objectives”.
 
 Subsec. (b)(2). Pub. L. 107–347, §301(c)(1)(B)(ii), struck out par. (2) which read as follows: “The program shall at a minimum meet the requirements of sections 3534 and 3535 of title 44.”
 
@@ -56,7 +56,7 @@ Subsec. (c). Pub. L. 107–347, §301(c)(1)(B)(iii), inserted “, including th
 
 Pub. L. 107–296, §1001(c)(1)(B)(iii), inserted “, including through compliance with subtitle II of chapter 35 of title 44” after “infrastructure” in introductory provisions.
 
-2000—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title X, §1063(a)\], substituted “
+<b>2000</b>—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title X, §1063(a)\], substituted “
 
 Objectives and Minimum Requirements” for “
 
@@ -71,6 +71,78 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, set out as an Effective Date note under section 3531 of Title 44, Public Printing and Documents.
+
+#### Strategy on Computer Software Assurance
+
+Pub. L. 111–383, div. A, title IX, §932, Jan. 7, 2011, 124 Stat. 4335, provided that:
+
+“(a)
+
+Strategy Required.—The Secretary of Defense shall develop and implement, by not later than October 1, 2011, a strategy for assuring the security of software and software-based applications for all covered systems.
+
+“(b)
+
+Covered Systems.—For purposes of this section, a covered system is any critical information system or weapon system of the Department of Defense, including the following:
+
+&emsp;“(1) A major system, as that term is defined in section 2302(5) of title 10, United States Code.
+
+&emsp;“(2) A national security system, as that term is defined in section 3542(b)(2) of title 44, United States Code.
+
+&emsp;“(3) Any Department of Defense information system categorized as Mission Assurance Category I.
+
+&emsp;“(4) Any Department of Defense information system categorized as Mission Assurance Category II in accordance with Department of Defense Directive 8500.01E.
+
+“(c)
+
+Elements.—The strategy required by subsection (a) shall include the following:
+
+&emsp;“(1) Policy and regulations on the following:
+
+&emsp;&emsp;“(A) Software assurance generally.
+
+&emsp;&emsp;“(B) Contract requirements for software assurance for covered systems in development and production.
+
+&emsp;&emsp;“(C) Inclusion of software assurance in milestone reviews and milestone approvals.
+
+&emsp;&emsp;“(D) Rigorous test and evaluation of software assurance in development, acceptance, and operational tests.
+
+&emsp;&emsp;“(E) Certification and accreditation requirements for software assurance for new systems and for updates for legacy systems, including mechanisms to monitor and enforce reciprocity of certification and accreditation processes among the military departments and Defense Agencies.
+
+&emsp;&emsp;“(F) Remediation in legacy systems of critical software assurance deficiencies that are defined as critical in accordance with the Application Security Technical Implementation Guide of the Defense Information Systems Agency.
+
+&emsp;“(2) Allocation of adequate facilities and other resources for test and evaluation and certification and accreditation of software to meet applicable requirements for research and development, systems acquisition, and operations.
+
+&emsp;“(3) Mechanisms for protection against compromise of information systems through the supply chain or cyber attack by acquiring and improving automated tools for—
+
+&emsp;&emsp;“(A) assuring the security of software and software applications during software development;
+
+&emsp;&emsp;“(B) detecting vulnerabilities during testing of software; and
+
+&emsp;&emsp;“(C) detecting intrusions during real-time monitoring of software applications.
+
+&emsp;“(4) Mechanisms providing the Department of Defense with the capabilities—
+
+&emsp;&emsp;“(A) to monitor systems and applications in order to detect and defeat attempts to penetrate or disable such systems and applications; and
+
+&emsp;&emsp;“(B) to ensure that such monitoring capabilities are integrated into the Department of Defense system of cyber defense-in-depth capabilities.
+
+&emsp;“(5) An update to Committee for National Security Systems Instruction No. 4009, entitled ‘National Information Assurance Glossary’, to include a standard definition for software security assurance.
+
+&emsp;“(6) Either—
+
+&emsp;&emsp;“(A) mechanisms to ensure that vulnerable Mission Assurance Category III information systems, if penetrated, cannot be used as a foundation for penetration of protected covered systems, and means for assessing the effectiveness of such mechanisms; or
+
+&emsp;&emsp;“(B) plans to address critical vulnerabilities in Mission Assurance Category III information systems to prevent their use for intrusions of Mission Assurance Category I systems and Mission Assurance Category II systems.
+
+&emsp;“(7) A funding mechanism for remediation of critical software assurance vulnerabilities in legacy systems.
+
+“(d)
+
+Report.—Not later than October 1, 2011, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the strategy required by subsection (a). The report shall include the following:
+
+&emsp;“(1) A description of the current status of the strategy required by subsection (a) and of the implementation of the strategy, including a description of the role of the strategy in the risk management by the Department regarding the supply chain and in operational planning for cyber security.
+
+&emsp;“(2) A description of the risks, if any, that the Department will accept in the strategy due to limitations on funds or other applicable constraints.”
 
 #### Institute for Defense Computer Security and Information Protection
 

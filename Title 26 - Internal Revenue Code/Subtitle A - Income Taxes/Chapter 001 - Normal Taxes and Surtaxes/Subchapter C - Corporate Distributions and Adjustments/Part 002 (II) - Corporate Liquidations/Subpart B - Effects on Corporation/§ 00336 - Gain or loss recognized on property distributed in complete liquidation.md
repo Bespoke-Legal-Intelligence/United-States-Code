@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Except as otherwise provided in this section or section 337, gain or loss shall be recognized to a liquidating corporation on the distribution of property in complete liquidation as if such property were sold to the distributee at its fair market value.
+Except as otherwise provided in this section or section 337, gain or loss shall be recognized to a liquidating corporation on the distribution ofproperty in complete liquidation as if such property were sold to the distributee at its fair market value.
 
 #### (b) Treatment of liabilities
 
@@ -80,7 +80,7 @@ A prior section 336, acts Aug. 16, 1954, ch. 736, 68A Stat. 106; Apr. 2, 1980, P
 
 #### Amendments
 
-1988—Subsec. (b). Pub. L. 100–647, §1006(e)(21)(A), substituted “liabilities” for “liabilities in excess of basis” in heading.
+<b>1988</b>—Subsec. (b). Pub. L. 100–647, §1006(e)(21)(A), substituted “liabilities” for “liabilities in excess of basis” in heading.
 
 Subsec. (c). Pub. L. 100–647, §1018(d)(5)(D), substituted “liquidations which are part of a reorganization” for “certain liquidations to which part III applies” in heading and amended text generally. Prior to amendment, text read as follows: “This section shall not apply with respect to any distribution of property to the extent there is nonrecognition of gain or loss with respect to such property to the recipient under part III.”
 
@@ -310,7 +310,7 @@ Other Transitional Rules.—
 
 &emsp;&emsp;“(i) if—
 
-&emsp;&emsp;&emsp;“(I) an option agreement to sell substantially all of the assets of a selling corporation organized under the laws of Massachusetts on October 20, 1976, is executed before August 1, 1986, the corporation adopts (by approval of its shareholders) a conditional plan of liquidation before August 1, 1986 to become effective upon the exercise of such option agreement (or modification thereto), and the assets are sold pursuant to the exercise of the option (as originally executed or subsequentlymodified provided that the purchase price is not thereby increased), or
+&emsp;&emsp;&emsp;“(I) an option agreement to sell substantially all of the assets of a selling corporation organized under the laws of Massachusetts on October 20, 1976, is executed before August 1, 1986, the corporation adopts (by approval of its shareholders) a conditional plan of liquidation before August 1, 1986 to become effective upon the exercise of such option agreement (or modification thereto), and the assets are sold pursuant to the exercise of the option (as originally executed or subsequently modified provided that the purchase price is not thereby increased), or
 
 &emsp;&emsp;&emsp;“(II) in the event that the optionee does not acquire substantially all the assets of the corporation, the optionor corporation sells substantially all its assets to another purchaser at a purchase price not greater than that contemplated by such option agreement pursuant to an effective plan of liquidation, and
 

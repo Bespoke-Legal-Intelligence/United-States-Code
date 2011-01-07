@@ -2,7 +2,7 @@
 
 (a)
 
-Adoption of Department-wide, Open Protocol, Energy Monitoring and Utility Control System Specification.—(1) The Secretary of Defense shall adopt an open protocol energy monitoring and utility control system specification for use throughout the Department of Defense in connection with a military construction project, military family housing activity, or other activity under this chapter for the purposeof monitoring and controlling, with respect to the project or activity, the items specified in paragraph (2) with the goal of establishing installation-wide energy monitoring and utility control systems.
+Adoption of Department-wide, Open Protocol, Energy Monitoring and Utility Control System Specification.—(1) The Secretary of Defense shall adopt an open protocol energy monitoring and utility control system specification for use throughout the Department of Defense in connection with a military construction project, military family housing activity, or other activity under this chapter for the purpose of monitoring and controlling, with respect to the project or activity, the items specified in paragraph (2) with the goal of establishing installation-wide energy monitoring and utility control systems.
 
 (2) The energy monitoring and utility control system specification required by paragraph (1) shall cover the following:
 

@@ -30,7 +30,7 @@ Notwithstanding the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 
 
 #### (c) Encouragement of use of excess personal property by State and local fire forces receiving assistance; cooperation and assistance of Administrator of General Services
 
-The Secretary, with the cooperation and assistance of the Administrator of General Services, shall encourage the use of excess personal property (within the meaning of the Federal Property and Administrative Services Act of 1949) by State and local fire forces receiving assistance under this section.
+The Secretary, with the cooperation and assistance of the Administrator of General Services, shall encourage the use of excess personal property (within the meaning of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41) by State and local fire forces receiving assistance under this section.
 
 #### (d) Coordination of assistance with assistance of Secretary of Commerce under Federal fire prevention and control provisions
 
@@ -64,11 +64,13 @@ As used in this section—
 
 #### References in Text
 
-The Federal Fire Prevention and Control Act of 1974, referred to in subsecs. (b) and (d), is Pub. L. 93–498, Oct. 29, 1974, 88 Stat. 1535, as amended, which is classifiedprincipally to chapter 49 (§2201 et seq.) of Title 15, Commerce and Trade. For complete classification of the Act to the Code, see Short Title note set out under section 2201 of Title 15 and Tables.
+The Federal Fire Prevention and Control Act of 1974, referred to in subsecs. (b) and (d), is Pub. L. 93–498, Oct. 29, 1974, 88 Stat. 1535, as amended, which is classified principally to chapter 49 (§2201 et seq.) of Title 15, Commerce and Trade. For complete classification of the Act to the Code, see Short Title note set out under section 2201 of Title 15 and Tables.
 
 Section 1926(a)(7) of title 7, referred to in subsec. (b)(3), was repealed by Pub. L. 107–171, title VI, §6020(b)(1), May 13, 2002, 116 Stat. 363.
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+#### Codification
+
+In subsec. (c), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
 
@@ -76,9 +78,9 @@ A prior section 10 of Pub. L. 95–313 was renumbered section 13 and is classifi
 
 #### Amendments
 
-1991—Subsec. (g)(2). Pub. L. 102–237 substituted “firefighting organization” for “fire fighting organization”.
+<b>1991</b>—Subsec. (g)(2). Pub. L. 102–237 substituted “firefighting organization” for “fire fighting organization”.
 
-1990—Subsec. (b)(4). Pub. L. 101–624, §1220(a), added par. (4).
+<b>1990</b>—Subsec. (b)(4). Pub. L. 101–624, §1220(a), added par. (4).
 
 Subsec. (e). Pub. L. 101–624, §1220(b), designated existing provisions as par. (1), inserted reference to paragraphs (1), (2), and (3) of subsec. (b), and added par. (2).
 

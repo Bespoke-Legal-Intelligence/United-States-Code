@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (c) Recalling of retired judges
 
-At or after his retirement, any individual who has elected to receive retired pay under subsection (d) may be called upon by the chief judge of the Tax Court to perform such judicial duties with the Tax Court as may be requested of him for any period or periods specified by the chief judge; except that in the case of any such individual—
+At or after his retirement, any individual who has elected to receive retired pay under subsection (d) may be called upon by the chief judge of the Tax Court to perform such judicial dutieswith the Tax Court as may be requested of him for any period or periods specified by the chief judge; except that in the case of any such individual—
 
 &emsp;(1) the aggregate of such periods in any one calendar year shall not (without his consent) exceed 90 calendar days; and
 
@@ -126,7 +126,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 &emsp;&emsp;&emsp;(i) paragraphs (1) and (2) (and subsection (c)) shall not apply to such individual beginning on the date such election takes effect, and
 
-&emsp;&emsp;&emsp;(ii) the retired pay under subsection (d) payable to such individual for periods beginning on or after the date such election takes effect shall be equal to the retired pay to which such individual would be entitled without regard to this clause at the time of such election.
+&emsp;&emsp;&emsp;(ii) the retired pay under subsection (d) payable to such individual for periods beginning on or after the date such electiontakes effect shall be equal to the retired pay to which such individual would be entitled without regard to this clause at the time of such election.
 
 #### (B) Election
 
@@ -170,7 +170,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (e)(2), an individual who has filed an election to receive retired pay under subsection (d) may revokesuch election at any time before the first day on which retired pay (or compensation under subsection (c) in lieu of retired pay) would (but for such revocation) begin to accrue with respect to such individual.
+&emsp;Notwithstanding subsection (e)(2), an individual who has filed an election to receive retired pay under subsection (d) may revoke such election at any time before the first day on which retired pay (or compensation under subsection (c) in lieu of retired pay) would (but for such revocation) begin to accrue with respect to such individual.
 
 #### (2) Manner of revoking
 
@@ -242,11 +242,11 @@ In the case of an individual for whom an election to receive retired pay under s
 
 #### Amendments
 
-2006—Subsec. (j). Pub. L. 109–280 added subsec. (j).
+<b>2006</b>—Subsec. (j). Pub. L. 109–280 added subsec. (j).
 
-1988—Subsec. (d). Pub. L. 100–647 inserted at end “In computing the rate of the retired pay under paragraph (1) of this subsection for any individual who is entitled thereto, any period during which such individual performs services under subsection (c) on a substantially full-time basis shall be treated as a period during which he has served as a judge.”
+<b>1988</b>—Subsec. (d). Pub. L. 100–647 inserted at end “In computing the rate of the retired pay under paragraph (1) of this subsection for any individual who is entitled thereto, any period during which such individual performs services under subsection (c) on a substantially full-time basis shall be treated as a period during which he has served as a judge.”
 
-1986—Subsec. (a)(2), (3), (5). Pub. L. 99–514, §1557(d)(1), redesignated pars. (3) and (5) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “The term ‘Civil Service Commission’ means the United States Civil Service Commission.”
+<b>1986</b>—Subsec. (a)(2), (3), (5). Pub. L. 99–514, §1557(d)(1), redesignated pars. (3) and (5) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “The term ‘Civil Service Commission’ means the United States Civil Service Commission.”
 
 Subsec. (b)(2). Pub. L. 99–514, §1557(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any judge who has attained the age of 65 may retire any time after serving as judge for 15 years or more.”
 
@@ -262,19 +262,19 @@ Subsec. (f). Pub. L. 99–514, §1557(b), amended subsec. (f) generally. Prior t
 
 Subsec. (g)(2)(C). Pub. L. 99–514, §1557(d)(3), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-1982—Subsec. (b). Pub. L. 97–362 inserted provision that any judge who retires shall be designated “senior judge”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–362 inserted provision that any judge who retires shall be designated “senior judge”.
 
-1978—Subsec. (i). Pub. L. 95–472 added subsec. (i).
+<b>1978</b>—Subsec. (i). Pub. L. 95–472 added subsec. (i).
 
-1971—Subsec. (c). Pub. L. 92–41 substituted “At or after his retirement, any individual who has elected to receive” for “Any individual who is receiving”.
+<b>1971</b>—Subsec. (c). Pub. L. 92–41 substituted “At or after his retirement, any individual who has elected to receive” for “Any individual who is receiving”.
 
-1969—Subsec. (a)(4). Pub. L. 91–172, §954(e)(1), struck out par. (4) which defined the term “Civil Service Retirement Act”.
+<b>1969</b>—Subsec. (a)(4). Pub. L. 91–172, §954(e)(1), struck out par. (4) which defined the term “Civil Service Retirement Act”.
 
 Subsec. (a)(1). Pub. L. 91–172, §960(c), substituted “United States Tax Court” for “Tax Court of the United States”.
 
 Subsec. (a)(5). Pub. L. 91–172, §960(d), inserted reference to service as a judge of the Tax Court of the United States.
 
-Subsec. (b). Pub. L. 91–172, §954(a), substituted provisions authorizing retirement at age 70, or age 65 after serving 15 years, or when any judge has become permanently disabled, authorizing any judge not reappointed who has served 15 years or more to retire under enumerated condition, and rendering section 8335(a) of title 5 not applicable to judges, for provisions authorizing retirement after a judge has served 18 years, requiring anyone who served as a judge for 10 years or more and attained the age of 70 years to retire no later than the close of the third month beginning after the month in which he attained 70 years or the month completing the tenth year of service or August 1953, and rendering section 2(a) of the Civil Service Retirement Act not applicable to judges.
+Subsec. (b). Pub. L. 91–172, §954(a), substituted provisions authorizing retirement at age 70, or age 65 after serving 15 years, or when any judge has become permanently disabled, authorizing any judge not reappointed who has served 15 years or more to retire under enumerated condition, and rendering section 8335(a) of title 5 not applicable to judges, for provisions authorizing retirement after a judge has served 18 years, requiring anyone who served as a judge for 10 years or moreand attained the age of 70 years to retire no later than the close of the third month beginning after the month in which he attained 70 years or the month completing the tenth year of service or August 1953, and rendering section 2(a) of the Civil Service Retirement Act not applicable to judges.
 
 Subsec. (d). Pub. L. 91–172, §954(b), substituted provisions specifying methods of computation of retirement pay under subsec. (b) of this section so as to conform such provisions to subsec. (b) (relating to conditions for retiring), for provisions specifying methods of computation for retirement pay under former subsec. (b) of this section (relating to conditions for retiring).
 
@@ -288,7 +288,7 @@ Subsec. (g)(4). Pub. L. 91–172, §954(c), struck out par. (4) which provided t
 
 Subsec. (h). Pub. L. 91–172, §954(d), added subsec. (h).
 
-1966—Subsec. (d). Pub. L. 89–354 substituted “during any period at a rate which bears the same ratio to the rate of the salary payable to a judge during such period” for “at a rate which bears the same ratio to the rate of the salary payable to him as judge at the time he ceases to be a judge” and “the rate of such salary for such period” for “the rate of such salary” wherever appearing.
+<b>1966</b>—Subsec. (d). Pub. L. 89–354 substituted “during any period at a rate which bears the same ratio to the rate of the salary payable to a judge during such period” for “at a rate which bears the same ratio to the rate of the salary payable to him as judge at the time he ceases to be a judge” and “the rate of such salary for such period” for “the rate of such salary” wherever appearing.
 
 #### Effective Date of 2006 Amendment
 
@@ -316,7 +316,7 @@ Section 2(a) of Pub. L. 95–472 provided that: “The amendment made by the fir
 
 #### Effective Date of 1971 Amendment
 
-Section 4(c)(1) of Pub. L. 92–41, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the date of its enactment \[July 1, 1971\]. Provisions having the same effect as such amendment shall be treated as having been included in the Internal Revenue Codeof 1939 \[section 1106(c)\] effective on and after August 7, 1953.”
+Section 4(c)(1) of Pub. L. 92–41, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the date of its enactment \[July 1, 1971\]. Provisions having the same effect as such amendment shall be treated as having been included in the Internal Revenue Code of 1939 \[section 1106(c)\] effective on and after August 7, 1953.”
 
 #### Effective Date of 1969 Amendment
 

@@ -51,7 +51,7 @@
 | 80a–44. | Disclosure of information filed with Commission; copies. |
 | 80a–45. | Reports by Commission; hiring and leasing authority. |
 | 80a–46. | Validity of contracts. |
-| 80a–47. | Violation of subchapter. |
+| 80a–47. | Liability of controlling persons; preventing compliance with subchapter. |
 | 80a–48. | Penalties. |
 | 80a–49. | Construction with other laws. |
 | 80a–50. | Separability. |
@@ -99,6 +99,8 @@
 | 80b–17. | Penalties. |
 | 80b–18. | Hiring and leasing authority of Commission. |
 | 80b–18a. | State regulation of investment advisers. |
+| 80b–18b. | Custody of client accounts. |
+| 80b–18c. | Rule of construction relating to the Commodities Exchange Act. |
 | 80b–19. | Separability. |
 | 80b–20. | Short title. |
 | 80b–21. | Effective date. |

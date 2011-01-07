@@ -38,13 +38,13 @@ The Commission shall cease to exist 40 years from January 8, 1971.
 
 #### Amendments
 
-2000—Subsec. (g). Pub. L. 106–554 substituted “40” for “thirty”.
+<b>2000</b>—Subsec. (g). Pub. L. 106–554 substituted “40” for “thirty”.
 
-1990—Subsec. (c). Pub. L. 101–320, §1(a), inserted at end “A member may serve after the expiration of his term until his successor has taken office.”
+<b>1990</b>—Subsec. (c). Pub. L. 101–320, §1(a), inserted at end “A member may serve after the expiration of his term until his successor has taken office.”
 
 Subsec. (g). Pub. L. 101–320, §1(b), substituted “thirty” for “twenty”.
 
-1980—Subsec. (g). Pub. L. 96–555 substituted “twenty” for “ten”.
+<b>1980</b>—Subsec. (g). Pub. L. 96–555 substituted “twenty” for “ten”.
 
 #### Transfer of Functions
 

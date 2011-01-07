@@ -66,7 +66,7 @@ July 9, 1952, ch. 608, §§233 (less (b) and (f)), 234 (1st sentence), 66 Stat. 
 
 50:961(e).
 
-In subsection (a), the word “hereafter” is omitted as surplusage. The words “there are not enough who are” are substituted for the words “adequate numbers of are not”. The words “without the consent of the persons affected” and “under the jurisdiction of that Secretary” are inserted for clarity. The words “and the members thereof” are omitted as surplusage.
+In subsection (a), the word “hereafter” is omitted as surplusage. The words “there are not enough \* \* \* who are” are substituted for the words “adequate numbers of \* \* \* are not”. The words “without the consent of the persons affected” and “under the jurisdiction of that Secretary” are inserted for clarity. The words “and the members thereof” are omitted as surplusage.
 
 In subsection (b), the words “without the consent of the persons affected” are substituted for the words “without his consent”, since units as well as individuals are covered by the revised subsection. The words “and the members thereof”, “and required to perform”, “or required to serve on”, and “in the service of the United States” are omitted as surplusage.
 
@@ -104,33 +104,33 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–375, §514(a)(1), struck out “(other than for training)” after “that Secretary to active duty”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–375, §514(a)(1), struck out “(other than for training)” after “that Secretary to active duty”.
 
 Subsec. (c). Pub. L. 108–375, §514(a)(2), substituted “as provided in subsection (a)” for “(other than for training)” and “so ordered to active duty” for “ordered to active duty (other than for training)”.
 
 Subsec. (e). Pub. L. 108–375, §514(a)(3), substituted “as provided in subsection (a)” for “(other than for training)”.
 
-1999—Subsec. (h). Pub. L. 106–65 added subsec. (h).
+<b>1999</b>—Subsec. (h). Pub. L. 106–65 added subsec. (h).
 
-1994—Pub. L. 103–337, §1662(e)(2), renumbered section 672 of this title as this section.
+<b>1994</b>—Pub. L. 103–337, §1662(e)(2), renumbered section 672 of this title as this section.
 
 Subsec. (b). Pub. L. 103–337, §1675(c)(1)(A), substituted “(or, in the case of the District of Columbia National Guard, the commanding general of the District of Columbia National Guard)” for “or Territory or Puerto Rico or the commanding general of the District of Columbia National Guard, as the case may be”.
 
 Subsec. (d). Pub. L. 103–337, §1675(c)(1)(B), struck out “or Territory, Puerto Rico, or the District of Columbia, whichever is” after “authority of the State”.
 
-1988—Subsec. (b). Pub. L. 100–456, §1234(a)(2), substituted “or Puerto Rico” for “, Puerto Rico, or the Canal Zone,”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–456, §1234(a)(2), substituted “or Puerto Rico” for “, Puerto Rico, or the Canal Zone,”.
 
 Subsec. (d). Pub. L. 100–456, §1234(a)(1), struck out “the Canal Zone,” after “Puerto Rico,”.
 
-1986—Subsec. (f). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§9122\], Pub. L. 99–661, §522, amended section identically adding subsec. (f).
+<b>1986</b>—Subsec. (f). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§9122\], Pub. L. 99–661, §522, amended section identically adding subsec. (f).
 
 Subsec. (g). Pub. L. 99–661, §524(a), added subsec. (g).
 
-1980—Subsec. (a). Pub. L. 96–357 struck out cl. (1) designation for second sentence and cl. (2) prohibition against ordering a member of the Standby Reserve to active duty unless the Director of Selective Service determined that the member was available for active duty.
+<b>1980</b>—Subsec. (a). Pub. L. 96–357 struck out cl. (1) designation for second sentence and cl. (2) prohibition against ordering a member of the Standby Reserve to active duty unless the Director of Selective Service determined that the member was available for active duty.
 
 Subsec. (e). Pub. L. 96–584 substituted provisions respecting determination of the allowable time in terms of military requirements for provisions authorizing a reasonable time.
 
-1958—Subsec. (a). Pub. L. 85–861, §§1(13), 33(a)(5), inserted “(other than for training)” after “active duty”, substituted “inactive National Guard” for “inactive Army National Guard or in the inactive Air National Guard”, and inserted provisions prohibiting a member of the Standby Reserve from being ordered to active duty under this subsection unless the Director of Selective Service determines that the member is available for active duty.
+<b>1958</b>—Subsec. (a). Pub. L. 85–861, §§1(13), 33(a)(5), inserted “(other than for training)” after “active duty”, substituted “inactive National Guard” for “inactive Army National Guard or in the inactive Air National Guard”, and inserted provisions prohibiting a memberof the Standby Reserve from being ordered to active duty under this subsection unless the Director of Selective Service determines that the member is available for active duty.
 
 Subsec. (c). Pub. L. 85–861, §33(a)(5), inserted “(other than for training)” after “active duty”.
 
@@ -156,7 +156,7 @@ Pub. L. 110–181, div. A, title V, §515, Jan. 28, 2008, 122 Stat. 99, provided
 
 “(a)
 
-Advance Notice Required.—The Secretary of a military department shall ensure that a member of a reserve component under the jurisdiction of that Secretary who will be called or ordered to active duty fora period of more than 30 days in support of a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) receives notice in advance of the mobilization date. In so far as is practicable, the notice shall be provided not less than 30 days before the mobilization date, but with a goal of 90 days before the mobilization date.
+Advance Notice Required.—The Secretary of a military department shall ensure that a member of a reserve component under the jurisdiction of that Secretary who will be called or ordered to active duty for a period of more than 30 days in support of a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) receives notice in advance of the mobilization date. In so far as is practicable, the notice shall be provided not less than 30 days before the mobilization date, but with a goal of 90 days before the mobilization date.
 
 “(b)
 

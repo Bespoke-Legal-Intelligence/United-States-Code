@@ -6,5 +6,5 @@ No distribution of the assets made under the provisions of this subchapter shall
 
 #### Amendments
 
-1956—Act Aug. 2, 1956, included within exception clause provisions respecting exemption from corporate income taxes.
+<b>1956</b>—Act Aug. 2, 1956, included within exception clause provisions respecting exemption from corporate income taxes.
 

@@ -14,9 +14,9 @@ No person shall be prosecuted, tried, or punished for a violation of, or a consp
 
 #### Amendments
 
-1994—Par. (1). Pub. L. 103–322 struck out “1008,” after “1007,” and inserted “1033,” after “1014,”.
+<b>1994</b>—Par. (1). Pub. L. 103–322 struck out “1008,” after “1007,” and inserted “1033,” after “1014,”.
 
-1990—Par. (3). Pub. L. 101–647 added par. (3).
+<b>1990</b>—Par. (3). Pub. L. 101–647 added par. (3).
 
 #### Effective Date of 1990 Amendment
 

@@ -32,7 +32,7 @@ Section 1973e of this title, referred to in subsec. (d), was repealed by Pub. L.
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–246, §3(e)(2), struck out “1973e,” after “1973c,”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–246, §3(e)(2), struck out “1973e,” after “1973c,”.
 
 Subsec. (b). Pub. L. 109–246, §3(d)(3), substituted “an observer has been assigned” for “an examiner has been appointed”.
 
@@ -40,7 +40,7 @@ Subsec. (c). Pub. L. 109–246, §3(e)(2), struck out “1973e,” after “1973
 
 Subsec. (e). Pub. L. 109–246, §3(d)(4), substituted “observers” for “examiners” and substituted “observer” for “examiner” in two places.
 
-1968—Subsecs. (a), (c). Pub. L. 90–284 struck out reference to violation of section 1973i(b) of this title.
+<b>1968</b>—Subsecs. (a), (c). Pub. L. 90–284 struck out reference to violation of section 1973i(b) of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

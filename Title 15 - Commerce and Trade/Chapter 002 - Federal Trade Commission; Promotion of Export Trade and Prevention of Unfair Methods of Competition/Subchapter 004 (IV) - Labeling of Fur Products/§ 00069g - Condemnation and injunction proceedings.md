@@ -18,10 +18,6 @@ Whenever the Commission has reason to believe that—
 
 (Aug. 8, 1951, ch. 298, §9, 65 Stat. 180.)
 
-#### References in Text
-
-The Federal Trade Commission Act, referred to in subsec. (b)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
-
 #### Transfer of Functions
 
 For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.

@@ -190,7 +190,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (g)(8), are set out
 
 #### Amendments
 
-1997—Subsec. (a)(1)(B)(i). Pub. L. 105–119, §123(a)(1)(A), substituted “requires” for “permits”.
+<b>1997</b>—Subsec. (a)(1)(B)(i). Pub. L. 105–119, §123(a)(1)(A), substituted “requires” for “permits”.
 
 Subsec. (a)(3)(A). Pub. L. 105–119, §123(a)(1)(B)(i), substituted “no court shall enter a prisoner release order unless” for “no prisoner release order shall be entered unless”.
 
@@ -204,7 +204,7 @@ Subsec. (e)(2). Pub. L. 105–119, §123(a)(3)(B), substituted “Any motion to 
 
 Subsec. (e)(3), (4). Pub. L. 105–119, §123(a)(3)(C), added pars. (3) and (4).
 
-1996—Pub. L. 104–134 amended section generally, substituting provisions relating to appropriate remedies with respect to prison conditions for former provisions relating to appropriate remedies with respect to prison crowding.
+<b>1996</b>—Pub. L. 104–134 amended section generally, substituting provisions relating to appropriate remedies with respect to prison conditions for former provisions relating to appropriate remedies with respect to prison crowding.
 
 #### Effective Date of 1997 Amendment
 

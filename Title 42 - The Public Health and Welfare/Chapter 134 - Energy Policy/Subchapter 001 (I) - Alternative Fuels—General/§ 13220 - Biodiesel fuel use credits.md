@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall allocate one credit under this section to a fleet or covered person for each qualifying volume of the biodieselcomponent of fuel containing at least 20 percent biodiesel by volume purchased after the date of the enactment of this section, for use by the fleet or covered person in vehicles owned or operated by the fleet or covered person that weigh more than 8,500 pounds gross vehicle weight rating.
+&emsp;The Secretary shall allocate one credit under this section to a fleet or covered person for each qualifying volume of the biodiesel component of fuel containing at least 20 percent biodiesel by volume purchased after the date of the enactment of this section, for use by the fleet or covered person in vehicles owned or operated by the fleet or covered person that weigh more than 8,500 pounds gross vehicle weight rating.
 
 #### (2) Exceptions
 
@@ -70,11 +70,15 @@ For purposes of this section—
 
 The date of the enactment of this section, referred to in subsec. (a)(1), probably means October 21, 1998, the date of the enactment of this section by Pub. L. 105–277, rather than Nov. 13, 1998, the date of the enactment of this section by Pub. L. 105–388.
 
+This subchapter, referred to in subsec. (b), was in the original “this title”, meaning title III of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2866, which enacted this subchapter, amended section 6374 of this title, and repealed provisions set out as a note under section 6374 of this title. For complete classification of title III to the Code, see Tables.
+
+Subchapter II of this chapter, referred to in subsec. (b), was in the original “title IV”, meaning title IV of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2875, which enacted subchapter II (§13231 et seq.) of this chapter, amended sections 6374a and 6374b and former section 6374c of this title and sections 717, 717a, 2001, 2002, 2006, and 2013 of Title 15, Commerce and Trade, enacted provisions set out as notes under former section 79b and section 717 of Title 15, and repealed provisions set out as a note under section 717c of Title 15. For complete classification of title IV to the Code, see Tables.
+
 #### Codification
 
 Pub. L. 105–277 and Pub. L. 105–388 enacted identical sections.
 
 #### Amendments
 
-2005—Subsec. (f)(1). Pub. L. 109–58 inserted dash after “ ‘biodiesel’ ”, designated remainder of existing provisions as subpar. (A), and added subpar. (B).
+<b>2005</b>—Subsec. (f)(1). Pub. L. 109–58 inserted dash after “ ‘biodiesel’ ”, designated remainder of existing provisions as subpar. (A), and added subpar. (B).
 

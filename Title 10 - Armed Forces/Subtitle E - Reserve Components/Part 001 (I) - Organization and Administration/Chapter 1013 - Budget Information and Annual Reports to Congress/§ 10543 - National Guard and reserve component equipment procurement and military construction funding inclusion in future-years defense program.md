@@ -28,9 +28,9 @@ Report.—(1) If the aggregate of the amounts specified in paragraphs (1) and (2
 
 #### Amendments
 
-2000—Subsec. (c)(3). Pub. L. 106–398 added par. (3).
+<b>2000</b>—Subsec. (c)(3). Pub. L. 106–398 added par. (3).
 
-1997—Pub. L. 105–85 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+<b>1997</b>—Pub. L. 105–85 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
 #### Effective Date
 

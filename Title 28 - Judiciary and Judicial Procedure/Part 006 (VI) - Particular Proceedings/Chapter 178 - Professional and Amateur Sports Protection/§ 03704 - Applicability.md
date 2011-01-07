@@ -4,7 +4,7 @@
 
 &emsp;(1) a lottery, sweepstakes, or other betting, gambling, or wagering scheme in operation in a State or other governmental entity, to the extent that the scheme was conducted by that State or other governmental entity at any time during the period beginning January 1, 1976, and ending August 31, 1990;
 
-&emsp;(2) a lottery, sweepstakes, or other betting, gambling, or wagering scheme in operation ina State or other governmental entity where both—
+&emsp;(2) a lottery, sweepstakes, or other betting, gambling, or wagering scheme in operation in a State or other governmental entity where both—
 
 &emsp;&emsp;(A) such scheme was authorized by a statute as in effect on October 2, 1991; and
 

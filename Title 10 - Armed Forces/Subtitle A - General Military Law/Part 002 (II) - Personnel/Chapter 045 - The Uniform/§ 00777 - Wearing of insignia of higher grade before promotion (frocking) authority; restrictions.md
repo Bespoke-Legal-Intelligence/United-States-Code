@@ -16,7 +16,7 @@ Restrictions.—An officer may not be authorized to wear the insignia for a grad
 
 &emsp;&emsp;(A) authority for that officer to wear the insignia of that grade has been approved by the Secretary of Defense (or a civilian officer within the Office of the Secretary of Defense whose appointment was made with the advice and consent of the Senate and to whom the Secretary delegates such approval authority); and
 
-&emsp;&emsp;(B) the Secretary of Defense has submitted to Congress a written notification of the intent to authorize the officer to wear the insignia for that grade and a period of 30 days has elapsed after the date of the notification.
+&emsp;&emsp;(B) the Secretary of Defense has submitted to Congress a written notification of the intent to authorize the officer to wear the insignia for that grade.
 
 (c)
 
@@ -38,21 +38,23 @@ Limitation on Number of Officers Frocked to Specified Grades.—(1) The total nu
 
 (2) The number of officers of an armed force on the active-duty list who are authorized as described in subsection (a) to wear the insignia for a grade to which a limitation on total number applies under section 523(a) of this title for a fiscal year may not exceed 1 percent, or, for the grades of colonel and Navy captain, 2 percent, of the total number provided for the officers in that grade in that armed force in the administration of the limitation under that section for that fiscal year.
 
-(Added Pub. L. 104–106, div. A, title V, §503(a)(1), Feb. 10, 1996, 110 Stat. 294; amended Pub. L.105–85, div. A, title V, §505, Nov. 18, 1997, 111 Stat. 1726; Pub. L. 106–65, div. A, title V, §502, Oct. 5, 1999, 113 Stat. 590; Pub. L. 108–136, div. A, title V, §509(a), Nov. 24, 2003, 117 Stat. 1458; Pub. L. 108–375, div. A, title V, §503, Oct. 28, 2004, 118 Stat. 1875; Pub. L. 109–163, div. A, title V, §§503(c), 504, Jan. 6, 2006, 119 Stat. 3226.)
+(Added Pub. L. 104–106, div. A, title V, §503(a)(1), Feb. 10, 1996, 110 Stat. 294; amended Pub. L. 105–85, div. A, title V, §505, Nov. 18, 1997, 111 Stat. 1726; Pub. L. 106–65, div. A, title V, §502,Oct. 5, 1999, 113 Stat. 590; Pub. L. 108–136, div. A, title V, §509(a), Nov. 24, 2003, 117 Stat. 1458; Pub. L. 108–375, div. A, title V, §503, Oct. 28, 2004, 118 Stat. 1875; Pub. L. 109–163, div. A, title V, §§503(c), 504, Jan. 6, 2006, 119 Stat. 3226; Pub. L. 111–383, div. A, title V, §505(b), Jan. 7, 2011, 124 Stat. 4210.)
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–163, §503(c), inserted “in a grade below the grade of major general or, in the case of the Navy, rear admiral,” after “An officer” in first sentence.
+<b>2011</b>—Subsec. (b)(3)(B). Pub. L. 111–383 struck out “and a period of 30 days has elapsed after the date of the notification” after “grade”.
+
+<b>2006</b>—Subsec. (a). Pub. L. 109–163, §503(c), inserted “in a grade below the grade of major general or, in the case of the Navy, rear admiral,” after “An officer” in first sentence.
 
 Subsec. (d)(1). Pub. L. 109–163, §504(1), substituted “colonels, Navy captains, brigadier generals, and rear admirals (lower half)” for “brigadier generals and Navy rear admirals (lower half)” and “the next higher grade may not exceed 85” for “the grade of major general or rear admiral, as the case may be, may not exceed 30”.
 
 Subsec. (d)(2), (3). Pub. L. 109–163, §504(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The total number of colonels and Navy captains on the active-duty list who are authorized as described in subsection (a) to wear the insignia for the grade of brigadier general or rear admiral (lower half), as the case may be, may not exceed 55.”
 
-2004—Subsec. (d). Pub. L. 108–375 added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+<b>2004</b>—Subsec. (d). Pub. L. 108–375 added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
-2003—Subsec. (b)(3). Pub. L. 108–136 added par. (3).
+<b>2003</b>—Subsec. (b)(3). Pub. L. 108–136 added par. (3).
 
-1999—Subsec. (d)(1). Pub. L. 106–65 substituted “55.” for “the following:” and struck out subpars. (A) to (C) which read as follows:
+<b>1999</b>—Subsec. (d)(1). Pub. L. 106–65 substituted “55.” for “the following:” and struck out subpars. (A) to (C) which read as follows:
 
 “(A) During fiscal years 1996 and 1997, 75.
 
@@ -60,7 +62,7 @@ Subsec. (d)(2), (3). Pub. L. 109–163, §504(2), (3), redesignated par. (3) as 
 
 “(C) After fiscal year 1998, 35.”
 
-1997—Subsec. (d)(2). Pub. L. 105–85 inserted “, or, for the grades of colonel and Navy captain, 2 percent,” after “1 percent”.
+<b>1997</b>—Subsec. (d)(2). Pub. L. 105–85 inserted “, or, for the grades of colonel and Navy captain, 2 percent,” after “1 percent”.
 
 #### Effective Date of 2003 Amendment
 

@@ -26,5 +26,5 @@ The word “territorial” is substituted for the words “military or naval”,
 
 #### Amendments
 
-1982—Par. (2). Pub. L. 97–258 substituted “official” for “officer”.
+<b>1982</b>—Par. (2). Pub. L. 97–258 substituted “official” for “officer”.
 

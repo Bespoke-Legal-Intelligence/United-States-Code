@@ -28,7 +28,7 @@ General rule.—Subject to paragraphs (2) and (3), the percentage to be used und
 
 &emsp;(2)
 
-Reduction applicable to certain new-retirement members with less than 30 years of service.—In the case of a member who first became a member of a uniformed service after July 31, 1986, has elected to receive a bonus under section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or section 354 of title 37, has less than 30 years of creditable service, and is under the age of 62 at the time of retirement, the percentage determined under paragraph (1) shall be reduced by—
+Reduction applicable to certain new-retirement members with less than 30 yearsof service.—In the case of a member who first became a member of a uniformed service after July 31, 1986, has elected to receive a bonus under section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or section 354 of title 37, has less than 30 years of creditable service, and is under the age of 62 at the time of retirement, the percentage determined under paragraph (1) shall be reduced by—
 
 &emsp;&emsp;(A) 1 percentage point for each full year that the member's years of creditable service are less than 30; and
 
@@ -66,15 +66,15 @@ Section 322 of title 37 (as in effect before the enactment of the National Defen
 
 #### Amendments
 
-2008—Subsec. (b)(2). Pub. L. 110–181, in introductory provisions, substituted “section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or section 354” for “section 322”.
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–181, in introductory provisions, substituted “section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or section 354” for “section 322”.
 
-2006—Subsec. (b)(3). Pub. L. 109–364 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “In the case of a member with more than 30 years of creditable service, the percentage to be used under subsection (a) is 75 percent.”
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–364 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “In the case of a member with more than 30 years of creditable service, the percentage to be used under subsection (a) is 75 percent.”
 
-1999—Subsec. (b)(2). Pub. L. 106–65 inserted “certain” after “Reduction applicable to” in heading and “has elected to receive a bonus under section 322 of title 37,” after “July 31, 1986,” in introductory provisions.
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–65 inserted “certain” after “Reduction applicable to” in heading and “has elected to receive a bonus under section 322 of title 37,” after “July 31, 1986,” in introductory provisions.
 
-1994—Subsec. (a)(1)(B). Pub. L. 103–337 substituted “chapter 1223” for “chapter 67”.
+<b>1994</b>—Subsec. (a)(1)(B). Pub. L. 103–337 substituted “chapter 1223” for “chapter 67”.
 
-1989—Subsec. (a)(1). Pub. L. 101–189 substituted “who is entitled to that pay” for “who is retired” in introductory provisions.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–189 substituted “who is entitled to that pay” for “who is retired” in introductory provisions.
 
 #### Effective Date of 1999 Amendment
 

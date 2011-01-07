@@ -22,7 +22,7 @@ At least once during every 2-year period, the Secretary shall prepare and submit
 
 &emsp;(7) information concerning Head Start staff, including salaries, education, training, experience, and staff turnover;
 
-&emsp;(8) information concerning children participating in programs that receive Head Start funding, including information on family income, racial and ethnic background, homelessness, whether the child is in foster care or wasreferred by a child welfare agency, disability, and receipt of benefits under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\];
+&emsp;(8) information concerning children participating in programs that receive Head Start funding, including information on family income, racial and ethnic background, homelessness, whether the child is in foster care or was referred by a child welfare agency, disability, and receipt of benefits under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\];
 
 &emsp;(9) the use and source of funds to extend Head Start services to operate full-day and year round;
 
@@ -94,7 +94,7 @@ The Individuals with Disabilities Education Act, referred to in subsec. (d)(1), 
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–134, §21(1)(A), (G), substituted, in introductory provisions, “Education and Labor” for “Education and the Workforce”, “Health, Education, Labor, and Pensions” for “Labor and Human Resources”, and “(including children with disabilities, limited English proficient children, homeless children, children in foster care, and children participating in Indian Head Start programs and migrant or seasonal Head Start programs)” for “(including disabled and non-English language background children)” and, in concluding provisions, “Education and Labor” for “Education and the Workforce” and “Health, Education, Labor, and Pensions” for “Labor and Human Resources”.
+<b>2007</b>—Subsec. (a). Pub. L. 110–134, §21(1)(A), (G), substituted, in introductory provisions, “Education and Labor” for “Education and the Workforce”, “Health, Education, Labor, and Pensions” for “Labor and Human Resources”, and “(including children with disabilities, limited English proficient children, homeless children, children in foster care, and children participating in Indian Head Start programs and migrant or seasonal Head Start programs)” for “(including disabled and non-English language background children)” and, in concluding provisions, “Education and Labor” for “Education and the Workforce” and “Health, Education, Labor, and Pensions” for “Labor and Human Resources”.
 
 Subsec. (a)(2). Pub. L. 110–134, §21(1)(B), inserted “, and information on the number of children served under this subsection, disaggregated by type of eligibility criterion” before semicolon at end.
 
@@ -110,21 +110,21 @@ Subsec. (b). Pub. L. 110–134, §21(2), substituted “Education and Labor” f
 
 Subsecs. (c) to (e). Pub. L. 110–134, §21(3), added subsecs. (c) to (e).
 
-1998—Pub. L. 105–285 designated existing provisions as subsec. (a), inserted heading, substituted “Education and the Workforce” for “Education and Labor” in introductory and concluding provisions, and added subsec. (b).
+<b>1998</b>—Pub. L. 105–285 designated existing provisions as subsec. (a), inserted heading, substituted “Education and the Workforce” for “Education and Labor” in introductory and concluding provisions, and added subsec. (b).
 
-1994—Pub. L. 103–252, §118(a)(1), substituted “Reports” for “Evaluation” in section catchline.
+<b>1994</b>—Pub. L. 103–252, §118(a)(1), substituted “Reports” for “Evaluation” in section catchline.
 
 Subsecs. (a) to (f). Pub. L. 103–252, §118(a)(1), struck out subsecs. (a) to (f) which related to evaluations of programs under this subchapter to determine impact and effectiveness, adherence to Head Start performance standards, persons or entities assisting in evaluations, Secretary obtaining views of program participants, publication and submission of results to congressional committees, and all studies and evaluation material remaining property of the United States.
 
 Subsec. (g). Pub. L. 103–252, §118(a)(2)–(4), struck out subsec. (g) designation, substituted “monitoring conducted under section 9836a(c) of this title” for “evaluations conducted under section 9836(c)(2) of this title” in par. (10), and added pars. (13) and (14).
 
-1992—Subsec. (g). Pub. L. 102–401 struck out “(1)” before “At least” at beginning of subsec. and substituted “physical” for “physicial” in par. (12).
+<b>1992</b>—Subsec. (g). Pub. L. 102–401 struck out “(1)” before “At least” at beginning of subsec. and substituted “physical” for “physicial” in par. (12).
 
-1990—Subsec. (c)(2). Pub. L. 101–501, §118, inserted at end “The Secretary is encouraged to provide funds for community-based cooperative research efforts to enable Head Start directors to conduct evaluations of their programs with the assistance of qualified researchers not directly involved in the administration of the program or project operation.”
+<b>1990</b>—Subsec. (c)(2). Pub. L. 101–501, §118, inserted at end “The Secretary is encouraged to provide funds for community-based cooperative research efforts to enable Head Start directors to conduct evaluations of their programs with the assistance of qualified researchers not directly involved in the administration of the program or project operation.”
 
 Subsec. (g). Pub. L. 101–501, §119, added subsec. (g).
 
-1984—Subsec. (b). Pub. L. 98–558 substituted “not result in the elimination of nor any reduction in the scope or types of health, education, parental involvement, social or other services required to be provided under the standards” for “result in standards which are no less comprehensive than those” in second sentence.
+<b>1984</b>—Subsec. (b). Pub. L. 98–558 substituted “not result in the elimination of nor any reduction in the scope or types of health, education, parental involvement, social or other services required to be provided under the standards” for “result in standards which are no less comprehensive than those” in second sentence.
 
 #### Effective Date of 1994 Amendment
 

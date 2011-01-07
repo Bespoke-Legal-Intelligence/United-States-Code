@@ -34,7 +34,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(6) setting forth procedures for determining the average exchange rate for any period.
 
-(Added Pub. L. 99–514, title XII, §1261(a), Oct. 22, 1986, 100 Stat. 2590; amended Pub. L. 100–647, title I, §1012(v)(5), Nov. 10, 1988, 102 Stat. 3529; Pub. L.103–66, title XIII, §13231(c)(4)(C), Aug. 10, 1993, 107 Stat. 499; Pub. L. 104–188, title I, §1501(b)(9), Aug. 20, 1996, 110 Stat. 1826; Pub. L. 105–34, title XI, §1102(b)(2), (3), Aug. 5, 1997, 111 Stat. 966; Pub. L. 108–357, title IV, §413(c)(17), Oct. 22, 2004, 118 Stat. 1508.)
+(Added Pub. L. 99–514, title XII, §1261(a), Oct. 22, 1986, 100 Stat. 2590; amended Pub. L. 100–647, title I, §1012(v)(5), Nov. 10, 1988, 102 Stat. 3529; Pub. L. 103–66, title XIII, §13231(c)(4)(C), Aug. 10, 1993, 107 Stat. 499; Pub. L. 104–188, title I, §1501(b)(9), Aug. 20, 1996, 110 Stat. 1826; Pub. L. 105–34, title XI, §1102(b)(2), (3), Aug. 5, 1997, 111 Stat. 966; Pub. L. 108–357, title IV, §413(c)(17), Oct. 22, 2004, 118 Stat. 1508.)
 
 #### References in Text
 
@@ -42,17 +42,17 @@ The enactment of this subpart, referred to in subsec. (c)(1), probably means the
 
 #### Amendments
 
-2004—Subsec. (b)(3). Pub. L. 108–357 struck out “, 551(a),” after “section 951(a)(1)(A)”.
+<b>2004</b>—Subsec. (b)(3). Pub. L. 108–357 struck out “, 551(a),” after “section 951(a)(1)(A)”.
 
-1997—Subsec. (b)(3), (4). Pub. L. 105–34, §1102(b)(3), struck out “weighted” before “average exchange rate”.
+<b>1997</b>—Subsec. (b)(3), (4). Pub. L. 105–34, §1102(b)(3), struck out “weighted” before “average exchange rate”.
 
 Subsec. (c)(6). Pub. L. 105–34, §1102(b)(2), added par. (6).
 
-1996—Subsec. (b). Pub. L. 104–188 substituted “section 951(a)(1)(B)” for “subparagraph (B) or (C) of section 951(a)(1)” in closing provisions.
+<b>1996</b>—Subsec. (b). Pub. L. 104–188 substituted “section 951(a)(1)(B)” for “subparagraph (B) or (C) of section 951(a)(1)” in closing provisions.
 
-1993—Subsec. (b). Pub. L. 103–66 substituted “subparagraph (B) or (C) of section 951(a)(1)” for “section 951(a)(1)(B)” in last sentence.
+<b>1993</b>—Subsec. (b). Pub. L. 103–66 substituted “subparagraph (B) or (C) of section 951(a)(1)” for “section 951(a)(1)(B)” in last sentence.
 
-1988—Subsec. (b). Pub. L. 100–647 substituted in par. (3) “section 951(a)(1)(A)” for “section 951(a)” and inserted at end “For purposes of the preceding sentence, any amount included in income under section 951(a)(1)(B) shall be treated as an actual distribution made on the last day of the taxable year for which such amount was so included.”
+<b>1988</b>—Subsec. (b). Pub. L. 100–647 substituted in par. (3) “section 951(a)(1)(A)” for “section 951(a)” and inserted at end “For purposes of the preceding sentence, any amount included in income under section 951(a)(1)(B) shall be treated as an actual distribution made on the last day of the taxable year for which such amount was so included.”
 
 #### Effective Date of 2004 Amendment
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 103–66 applicable to taxable years of foreign corporation
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date
 

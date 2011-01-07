@@ -18,17 +18,17 @@ For the purpose of carrying out this part, there is authorized to be appropriate
 
 #### Prior Provisions
 
-A prior section 290cc–36, act July 1, 1944, ch. 373, title V, §536, as added July 22, 1987, Pub. L. 100–77, title VI, §611(3), 101 Stat. 523, and amended Nov. 4, 1988, Pub. L. 100–607, title VIII, §§802(b)(3), 812(a), 102 Stat. 3169, 3170; Nov. 7, 1988, Pub. L. 100–628, title VI, §§602(b)(3), 612(a), 102 Stat. 3242, 3243; Nov. 18, 1988, Pub. L. 100–690, title II, §2614(b), 102 Stat. 4239; Aug. 16, 1989, Pub. L. 101–93, §5(t)(1), 103 Stat. 615, defined terms used in this part, prior to the general revision of this part by Pub. L. 101–645.
+A prior section 290cc–36, act July 1, 1944, ch. 373, title V, §536, as added July 22, 1987, Pub. L. 100–77, title VI,§611(3), 101 Stat. 523, and amended Nov. 4, 1988, Pub. L. 100–607, title VIII, §§802(b)(3), 812(a), 102 Stat. 3169, 3170; Nov. 7, 1988, Pub. L. 100–628, title VI, §§602(b)(3), 612(a), 102 Stat. 3242, 3243; Nov. 18, 1988, Pub. L. 100–690, title II, §2614(b), 102 Stat. 4239; Aug. 16, 1989, Pub. L. 101–93, §5(t)(1), 103 Stat. 615, defined terms used in this part, prior to the general revision of this part by Pub. L. 101–645.
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–310 substituted “fiscal years 2001 through 2003” for “fiscal years 1991 through 1994”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–310 substituted “fiscal years 2001 through 2003” for “fiscal years 1991 through 1994”.
 
-1990—Pub. L. 101–645 amended section generally, substituting present provisions for similar provisions authorizing appropriations and providing for minimum allotments.
+<b>1990</b>—Pub. L. 101–645 amended section generally, substituting present provisions for similar provisions authorizing appropriations and providing for minimum allotments.
 
-1989—Pub. L. 101–93 directed that this section as similarly amended by title VIII of Pub. L. 100–607 and title VI of Pub. L. 100–628 be amended to read as if the amendments made by title VI of Pub. L. 100–628 had not been enacted. See 1988 Amendment note below.
+<b>1989</b>—Pub. L. 101–93 directed that this section as similarly amended by title VIII of Pub. L. 100–607 and title VI of Pub. L. 100–628 be amended to read as if the amendments made by title VI of Pub. L. 100–628 had not been enacted. See 1988 Amendment note below.
 
-1988—Pub. L. 100–607 and Pub. L. 100–628 made identical amendments, amending section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to carry out this part $35,000,000 for fiscal year 1987 and such sums as may be necessary for fiscal year 1988.”
+<b>1988</b>—Pub. L. 100–607 and Pub. L. 100–628 made identical amendments, amending section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to carry out this part $35,000,000 for fiscal year 1987 and such sums as may be necessary for fiscal year 1988.”
 
 #### Effective Date of 1988 Amendments
 

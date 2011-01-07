@@ -46,9 +46,9 @@ In subsection (d), the words “No property may be issued to \* \* \* unless t
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands” for “State or Territory or Puerto Rico”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands” for “State or Territory or Puerto Rico”.
 
-1988—Subsec. (a). Pub. L. 100–456, §1234(b)(4), substituted “Territory or Puerto Rico” for “Territory, Puerto Rico, or the Canal Zone,”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–456, §1234(b)(4), substituted “Territory or Puerto Rico” for “Territory, Puerto Rico, or the Canal Zone,”.
 
 Subsecs. (b) to (d). Pub. L. 100–456, §1234(b)(1), struck out “the Canal Zone,” after “Puerto Rico,”.
 

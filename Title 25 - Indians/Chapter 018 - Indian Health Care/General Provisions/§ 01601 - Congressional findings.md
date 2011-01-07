@@ -2,19 +2,31 @@
 
 The Congress finds the following:
 
-(a) Federal health services to maintain and improve the health of the Indians are consonant with and required by the Federal Government's historical and unique legal relationship with, and resulting responsibility to, the American Indian people.
+&emsp;(1) Federal health services to maintain and improve the health of the Indians are consonant with and required by the Federal Government's historical and unique legal relationship with, and resulting responsibility to, the American Indian people.
 
-(b) A major national goal of the United States is to provide the quantity and quality of health services which will permit the health status of Indians to be raised to the highest possible level and to encourage the maximum participation of Indians in the planning and management of those services.
+&emsp;(2) A major national goal of the United States is to provide the resources, processes, and structure that will enable Indian tribes and tribal members to obtain the quantity and quality of health care services and opportunities that will eradicate the health disparities between Indians and the general population of the United States.
 
-(c) Federal health services to Indians have resulted in a reduction in the prevalence and incidence of preventable illnesses among, and unnecessary and premature deaths of, Indians.
+&emsp;(3) A major national goal of the United States is to provide the quantity and quality of health services which will permit the health status of Indians to be raised to the highest possible level and to encourage the maximumparticipation of Indians in the planning and management of those services.
 
-(d) Despite such services, the unmet health needs of the American Indian people are severe and the health status of the Indians is far below that of the general population of the United States.
+&emsp;(4) Federal health services to Indians have resulted in a reduction in the prevalence and incidence of preventable illnesses among, and unnecessary and premature deaths of, Indians.
 
-(Pub. L. 94–437, §2, Sept. 30, 1976, 90 Stat. 1400; Pub. L. 102–573, §3(a), Oct. 29, 1992, 106 Stat. 4526.)
+&emsp;(5) Despite such services, the unmet health needs of the American Indian people are severe and the health status of the Indians is far below that of the general population of the United States.
+
+(Pub. L. 94–437, §2, Sept. 30, 1976, 90 Stat. 1400; Pub. L. 102–573, §3(a), Oct. 29, 1992, 106 Stat. 4526; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+
+#### Codification
+
+Amendment by Pub. L. 111–148 is based on section 102 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 #### Amendments
 
-1992—Pub. L. 102–573 substituted “finds the following:” for “finds that—” in introductory provisions and struck out last sentence of subsec. (d) which compared death rates of Indians to those of all Americans for tuberculosis, influenza and pneumonia, and compared death rates for infants, subsec. (e) which related to threat to fulfillment of Federal responsibility to Indians posed by low health status of American Indian people, subsec. (f) which enumerated causes imperiling improvements in Indian health, and subsec. (g) which related to confidence of Indian people in Federal Indian health services.
+<b>2010</b>—Pub. L. 111–148 redesignated subsecs. (a), (b), (c), and (d) as pars. (1), (3), (4), and (5), respectively, realigned margins, and added par. (2).
+
+<b>1992</b>—Pub. L. 102–573 substituted “finds the following:” for “finds that—” in introductory provisions and struck out last sentence of subsec. (d) which compared death rates of Indians to those of all Americans for tuberculosis, influenza and pneumonia, and compared death rates for infants, subsec. (e) which related to threat to fulfillment of Federal responsibility to Indians posed by low health status of American Indian people, subsec. (f) which enumerated causes imperiling improvements in Indian health, and subsec. (g) which related to confidence of Indian people in Federal Indian health services.
+
+#### Short Title of 2010 Amendment
+
+Section 1(a) of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935, provided that: “This Act \[probably means S. 1790 as enacted into law by Pub. L. 111–148, enacting subchapter V–A of this chapter, sections 1616p to 1616r, 1621y, 1638a, 1638e to 1638g, 1647 to 1647d, 1660d to 1660h, 1663, 1663a, 1675, 1678, 1678a, 1679, and 1680p to 1680v of this title, amending sections 1601 to 1603, 1615, 1616<i>l</i>, 1621, 1621a, 1621c to 1621f, 1621h, 1621j to 1621m, 1621<i>o</i> to 1621q, 1621t to 1621v, 1631, 1637, 1638b, 1641, 1642, 1644, 1645, 1652, 1659, 1660b, 1661, 1680b, 1680c, 1680<i>l</i>, and 1680<i>o</i> of this title and sections 1395<i>l</i>, 1395qq, 11705, 11706, 11709, and 11711 of Title 42, The Public Health and Welfare, repealing sections 1616p, 1621w, 1638a, 1647, 1660d, 1663, 1675, 1678, 1679, and 1680k of this title, and enacting provisions set out as a note under section 11705 of Title 42\] may be cited as the ‘Indian Health Care Improvement Reauthorization and Extension Act of 2009’.”
 
 #### Short Title of 2000 Amendment
 
@@ -46,7 +58,7 @@ Section 1 of Pub. L. 94–437 provided: “That this Act \[enacting this chapter
 
 #### Separability
 
-Pub. L. 100–713, title VIII, §801, Nov. 23, 1988, 102 Stat. 4839, provided that: “If any provision of this Act, anyamendment made by this Act \[see Short Title of 1988 Amendment note above\], or the application of such provision or amendment to any person or circumstances is held to be invalid, the remainder of this Act, the remaining amendments made by this Act, and the application of such provision or amendment to persons or circumstances other than those to which it is held invalid, shall not be affected thereby.”
+Pub. L. 100–713, title VIII, §801, Nov. 23, 1988, 102 Stat. 4839, provided that: “If any provision of this Act, any amendment made by this Act \[see Short Title of 1988 Amendment note above\], or the application of such provision or amendment to any person or circumstances is held to be invalid, the remainder of this Act, the remaining amendments made by this Act, and the application of such provision or amendment to persons or circumstances other than those to which it is held invalid, shall not be affected thereby.”
 
 #### Availability of Appropriations
 

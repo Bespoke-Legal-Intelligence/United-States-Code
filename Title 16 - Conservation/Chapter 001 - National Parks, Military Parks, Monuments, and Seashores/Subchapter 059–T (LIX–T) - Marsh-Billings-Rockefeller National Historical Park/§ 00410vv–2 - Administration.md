@@ -26,5 +26,5 @@ The primary purposes of the historic zone shall be preservation, education, and 
 
 #### Amendments
 
-1998—Subsec. (d)(1). Pub. L. 105–277 substituted “Marsh-Billings-Rockefeller” for “Marsh-Billings”.
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–277 substituted “Marsh-Billings-Rockefeller” for “Marsh-Billings”.
 

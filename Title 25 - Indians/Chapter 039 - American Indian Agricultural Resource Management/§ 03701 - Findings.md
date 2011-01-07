@@ -4,7 +4,7 @@ The Congress finds and declares that—
 
 &emsp;(1) the United States and Indian tribes have a government to government relationship;
 
-&emsp;(2) the United States has a trust responsibility to protect, conserve, utilize, and manage Indian agricultural lands consistent with its fiduciary obligation and its unique relationship with Indian tribes;
+&emsp;(2) the United States has a trust responsibility to protect, conserve, utilize, and manage Indian agricultural lands consistent with itsfiduciary obligation and its unique relationship with Indian tribes;
 
 &emsp;(3) Indian agricultural lands are renewable and manageable natural resources which are vital to the economic, social, and cultural welfare of many Indian tribes and their members; and
 

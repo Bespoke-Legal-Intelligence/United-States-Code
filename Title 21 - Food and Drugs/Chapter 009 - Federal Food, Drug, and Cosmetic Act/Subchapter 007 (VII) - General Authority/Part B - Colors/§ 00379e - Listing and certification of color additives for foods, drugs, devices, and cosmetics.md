@@ -92,21 +92,21 @@ In subsec. (d)(2), “section 556(d) of title 5” substituted for “section 7(
 
 #### Amendments
 
-1993—Subsec. (b)(5)(D). Pub. L. 103–80 substituted “section 5703” for “section 5703(b)”.
+<b>1993</b>—Subsec. (b)(5)(D). Pub. L. 103–80 substituted “section 5703” for “section 5703(b)”.
 
-1992—Subsec. (b)(5)(C)(i). Pub. L. 102–300 struck out “of Health, Education, and Welfare” after “representatives of the Department”.
+<b>1992</b>—Subsec. (b)(5)(C)(i). Pub. L. 102–300 struck out “of Health, Education, and Welfare” after “representatives of the Department”.
 
-1976—Subsec. (a). Pub. L. 94–295, §9(a)(2), (3), inserted reference to devices and inserted provisions directing that color additives for use in or on devices be subject to this section only if the color additives come in direct contact with the body of man or other animals for a significant period of time and authorizing the Secretary to designate by regulation the uses of color additives in or on devices which are subject to this section.
+<b>1976</b>—Subsec. (a). Pub. L. 94–295, §9(a)(2), (3), inserted reference to devices and inserted provisions directing that color additives for use in or on devices be subject to this section only if the color additives come in direct contact with the body of man or other animals for a significant period of time and authorizing the Secretary to designate by regulation the uses of color additives in or on devices which are subject to this section.
 
 Subsec. (b). Pub. L. 94–295, §9(a)(1), (2), substituted “drug or device” for “drug” and “drugs or devices” for “drugs” wherever appearing.
 
 Subsec. (f). Pub. L. 94–295, §9(a)(1), substituted “drug or device” for “drug”.
 
-1970—Subsec. (b)(5)(D). Pub. L. 91–515 substituted provisions authorizing members of an advisory committee to receive compensation at rates fixed by the Secretary, with a specific maximum amount, and travel expenses, including per diem in lieu of subsistence, as authorized by section 5703(b) of Title 5, for provisions authorizing such members to receive as compensation a reasonable per diem for time actually spent on committee work, and necessary traveling and subsistence expenses while serving away from their places of residence.
+<b>1970</b>—Subsec. (b)(5)(D). Pub. L. 91–515 substituted provisions authorizing members of an advisory committee to receive compensation at rates fixed by the Secretary, with a specific maximum amount, and travel expenses, including per diem in lieu of subsistence, as authorized by section 5703(b) of Title 5, for provisions authorizing such members to receive as compensation a reasonable per diem for time actually spent on committee work, and necessary traveling and subsistence expenses while serving away from their places of residence.
 
-1962—Subsec. (b)(5)(B). Pub. L. 87–781 provided that clause (i) of this subparagraph shall not apply to a color additive in feed of animals raised for food production, if under the conditions of use specified in proposed labeling, and which conditions are reasonably certain to be followed in practice, such additive will not adversely affect the animals and no residue will be found in any edible portion of such animal after slaughter or in any food from the living animal.
+<b>1962</b>—Subsec. (b)(5)(B). Pub. L. 87–781 provided that clause (i) of this subparagraph shall not apply to a color additive in feed of animals raised for food production, if under the conditions of use specified in proposed labeling, and which conditions are reasonably certain to be followed in practice, such additive will not adversely affect the animals and no residue will be found in any edible portion of such animal after slaughter or in any food from the living animal.
 
-1960—Pub. L. 86–618 amended section generally. Prior to amendment, section read as follows: “The admitting to listing and certification of coal-tar colors, in accordance with regulations prescribed under this chapter, shall be performed only upon payment of such fees, which shall be specified in such regulations, as may be necessary to provide, maintain, and equip an adequate service for such purposes.”
+<b>1960</b>—Pub. L. 86–618 amended section generally. Prior to amendment, section read as follows: “The admitting to listing and certification of coal-tar colors, in accordance with regulations prescribed under this chapter, shall be performed only upon payment of such fees, which shall be specified in such regulations, as may be necessary to provide, maintain, and equip an adequate service for such purposes.”
 
 #### Effective Date of 1962 Amendment
 

@@ -6,7 +6,7 @@ The trail shall include public roads linking El Malpais National Monument as est
 
 #### Amendments
 
-1990—Pub. L. 101–313 inserted reference to Petroglyph National Monument.
+<b>1990</b>—Pub. L. 101–313 inserted reference to Petroglyph National Monument.
 
-1988—Pub. L. 100–567, which directed substitution of “Gila Cliff Dwellings National Monument, and Zuni-Cibola National Historical Park” for “and Gila Cliff Dwelling National Monument” was executed by making substitution for “and Gila Cliff Dwellings National Monument” as the probable intent of Congress.
+<b>1988</b>—Pub. L. 100–567, which directed substitution of “Gila Cliff Dwellings National Monument, and Zuni-Cibola National Historical Park” for “and Gila Cliff Dwelling National Monument” was executed by making substitution for “and Gila Cliff Dwellings National Monument” as the probable intent of Congress.
 

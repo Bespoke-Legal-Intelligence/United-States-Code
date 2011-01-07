@@ -72,7 +72,7 @@ From amounts authorized under subsection (b), the following sums are authorized:
 
 #### (d) Extended authorization
 
-There are authorized to be appropriated to the Secretary to carry out section 16192 of this title$50,000,000 for each of fiscal years 2010 through 2013.
+There are authorized to be appropriated to the Secretary to carry out section 16192 of this title $50,000,000 for each of fiscal years 2010 through 2013.
 
 #### (e) Limitations
 
@@ -98,7 +98,7 @@ The National Energy Conservation Policy Act, referred to in subsec. (e)(4), is P
 
 #### Amendments
 
-2007—Subsec. (a)(2)(E). Pub. L. 110–140 added subpar. (E).
+<b>2007</b>—Subsec. (a)(2)(E). Pub. L. 110–140 added subpar. (E).
 
 #### Effective Date of 2007 Amendment
 

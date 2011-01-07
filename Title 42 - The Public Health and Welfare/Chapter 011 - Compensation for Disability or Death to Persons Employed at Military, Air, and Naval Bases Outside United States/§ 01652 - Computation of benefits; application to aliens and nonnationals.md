@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1984—Subsecs. (a), (b). Pub. L. 98–426 substituted references to sections of the Longshore and Harbor Workers’ Compensation Act for sections of the Longshoremen's and Harbor Workers’ Compensation Act, which references have been translated to sections of title 33, thus requiring no change in text.
+<b>1984</b>—Subsecs. (a), (b). Pub. L. 98–426 substituted references to sections of the Longshore and Harbor Workers’ Compensation Act for sections of the Longshoremen's and Harbor Workers’ Compensation Act, which references have been translated to sections of title 33, thus requiring no change in text.
 
 #### Effective Date of 1984 Amendment
 

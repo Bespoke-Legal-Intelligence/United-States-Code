@@ -25,3 +25,4 @@ Part A—Information and Analysis and Infrastructure Protection; Access to Infor
 - [&sect; 00124j - Rural Policing Institute](%C2%A7%2000124j%20-%20Rural%20Policing%20Institute.md)
 - [&sect; 00124k - Interagency Threat Assessment and Coordination Group](%C2%A7%2000124k%20-%20Interagency%20Threat%20Assessment%20and%20Coordination%20Group.md)
 - [&sect; 00124l - National asset database](%C2%A7%2000124l%20-%20National%20asset%20database.md)
+- [&sect; 00124m - Classified Information Advisory Officer](%C2%A7%2000124m%20-%20Classified%20Information%20Advisory%20Officer.md)

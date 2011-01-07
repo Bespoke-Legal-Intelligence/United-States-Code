@@ -102,7 +102,7 @@
 
 &emsp;&emsp;(B) as of October 1, 2011, a 3-year waiver of the requirements of paragraph (3)(B) for a Head Start agency that can demonstrate that—
 
-&emsp;&emsp;&emsp;(i) the agency has attempted unsuccessfully to recruit an individual who has the qualifications described in clause (i) or (ii) of such paragraph, with respect to an individual who is enrolled in a program that grants a degree described in clause (i) or\(ii) of such paragraph and will receive such degree in a reasonable time; and
+&emsp;&emsp;&emsp;(i) the agency has attempted unsuccessfully to recruit an individual who has the qualifications described in clause (i) or (ii) of such paragraph, with respect to an individual who is enrolled in a program that grants a degree described in clause (i) or (ii) of such paragraph and will receive such degree in a reasonable time; and
 
 &emsp;&emsp;&emsp;(ii) each Head Start classroom has a teacher who has, at a minimum—
 
@@ -174,7 +174,7 @@ To improve the quality and effectiveness of staff providing in-home and other se
 
 &emsp;&emsp;Fellowship positions under the fellowship program may be located (subject to subparagraphs (B) and (C))—
 
-&emsp;&emsp;&emsp;(i) in agencies of the Department of Health and Human Services administeringprograms authorized under this subchapter (in national or regional offices of such agencies);
+&emsp;&emsp;&emsp;(i) in agencies of the Department of Health and Human Services administering programs authorized under this subchapter (in national or regional offices of such agencies);
 
 &emsp;&emsp;&emsp;(ii) in local Head Start agencies and programs;
 
@@ -240,9 +240,9 @@ Before a Head Start agency employs an individual, such agency shall—
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–134, §19(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to qualification and development requirements for Head Start teachers in center-based programs and gave Secretary limited authority to waive alternative credentialing requirements.
+<b>2007</b>—Subsec. (a). Pub. L. 110–134, §19(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to qualification and development requirements for Head Start teachers in center-based programs and gave Secretary limited authority to waive alternative credentialing requirements.
 
-Subsec. (c). Pub. L. 110–134, §19(2), amended subsec. (c) generally. Prior to amendment, text of subsec. (c) read as follows: “In order to improve the quality and effectiveness of staff providing in-home and other services (including needs assessment, development of service plans, family advocacy, and coordination of service delivery) to families of children participating in Head Start programs, the Secretary, in coordination with concerned public and private agencies and organizations examining the issues of standards and training for family service workers, shall—
+Subsec. (c). Pub. L. 110–134, §19(2), amended subsec. (c) generally. Prior to amendment, text of subsec. (c)read as follows: “In order to improve the quality and effectiveness of staff providing in-home and other services (including needs assessment, development of service plans, family advocacy, and coordination of service delivery) to families of children participating in Head Start programs, the Secretary, in coordination with concerned public and private agencies and organizations examining the issues of standards and training for family service workers, shall—
 
 &emsp;“(1) review and, as necessary, revise or develop new qualification standards for Head Start staff providing such services;
 
@@ -252,11 +252,11 @@ Subsec. (c). Pub. L. 110–134, §19(2), amended subsec. (c) generally. Prior to
 
 Subsec. (d)(3)(C). Pub. L. 110–134, §19(3)(A), inserted “(including a center)” after “agency”.
 
-Subsec. (d)(6). Pub. L. 110–134, §19(3)(B), substituted “amounts made available under section 9835(a)(2)(E) ofthis title” for “amounts appropriated under this subchapter and allotted under section 9835(a)(2)(D) of this title”.
+Subsec. (d)(6). Pub. L. 110–134, §19(3)(B), substituted “amounts made available under section 9835(a)(2)(E) of this title” for “amounts appropriated under this subchapter and allotted under section 9835(a)(2)(D) of this title”.
 
 Subsecs. (f), (g). Pub. L. 110–134, §19(4), added subsecs. (f) and (g).
 
-1998—Subsec. (a). Pub. L. 105–285, §115(1), amended heading and text of subsec. (a) generally. Prior to amendment, subsec. (a) required Secretary to ensure that not later than Sept. 30, 1996, each Head Start classroom in a center-based program was assigned a teacher with certain specified credentials and gave Secretary limited authority to waive that requirement.
+<b>1998</b>—Subsec. (a). Pub. L. 105–285, §115(1), amended heading and text of subsec. (a) generally. Prior to amendment, subsec. (a) required Secretary to ensure that not later than Sept. 30, 1996, each Head Start classroom in a center-based program was assigned a teacher with certain specified credentials and gave Secretary limited authority to waive that requirement.
 
 Subsec. (b)(2)(B). Pub. L. 105–285, §115(2), substituted “staff or that are” for “staff, that are” and struck out “, or that lack staff of a similar cultural background to that of the participating children and their families” before semicolon.
 

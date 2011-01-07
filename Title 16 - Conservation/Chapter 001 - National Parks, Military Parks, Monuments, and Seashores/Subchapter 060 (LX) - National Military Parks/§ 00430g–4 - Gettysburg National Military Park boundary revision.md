@@ -16,7 +16,7 @@ Lands and interests in lands outside of the boundary so depicted as “Park Boun
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–290, §1(2), added subsec. (b). Former subsec. (b) redesignated (c).
+<b>2000</b>—Subsec. (b). Pub. L. 106–290, §1(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 106–290, §1(1), (3), redesignated subsec. (b) as (c) and substituted “maps referred to in subsections (a) and (b) of this section” for “map referred to in subsection (a) of this section”.
 

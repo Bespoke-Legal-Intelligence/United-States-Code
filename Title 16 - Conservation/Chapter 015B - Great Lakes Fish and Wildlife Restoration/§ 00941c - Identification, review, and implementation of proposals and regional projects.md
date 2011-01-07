@@ -114,7 +114,7 @@ Subject to subsection (b)(2), the Director—
 
 The Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, referred to in subsec. (b)(2)(B)(iv), is title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, which is classified principally to chapter 67 (§4701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of this title and Tables.
 
-Executive Order 13340, referred to in subsec. (b)(2)(B)(vi), is Ex. Ord. No. 13340, May 18, 2004, 69 F.R. 29043, which is set out as a note under section 1268 of Title 33, Navigation and Navigable Waters.
+Executive Order 13340, referred to in subsec. (b)(2)(B)(vi), is Ex. Ord. No. 13340, May 18, 2004, 69 F.R.29043, which is set out as a note under section 1268 of Title 33, Navigation and Navigable Waters.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(4), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
@@ -124,9 +124,9 @@ Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substanti
 
 #### Amendments
 
-2006—Pub. L. 109–326 amended section generally. Prior to amendment, section related to identification, review, and implementation of proposals.
+<b>2006</b>—Pub. L. 109–326 amended section generally. Prior to amendment, section related to identification, review, and implementation of proposals.
 
-1998—Pub. L. 105–265 amended section generally, substituting present provisions for provisions requiring a Great Lakes fishery resources restoration study and development of proposals for implementing recommendations.
+<b>1998</b>—Pub. L. 105–265 amended section generally, substituting present provisions for provisions requiring a Great Lakes fishery resources restoration study and development of proposals for implementing recommendations.
 
-1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §2005, which enacted this section.
+<b>1996</b>—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §2005, which enacted this section.
 

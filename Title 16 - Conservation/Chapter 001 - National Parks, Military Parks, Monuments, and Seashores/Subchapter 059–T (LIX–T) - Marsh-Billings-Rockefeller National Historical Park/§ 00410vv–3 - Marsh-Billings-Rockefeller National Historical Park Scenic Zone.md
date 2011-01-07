@@ -16,5 +16,5 @@ Within the boundaries of the scenic zone, the Secretary is authorized only to ac
 
 #### Amendments
 
-1998—Pub. L. 105–277 substituted “Marsh-Billings-Rockefeller” for “Marsh-Billings” in section catchline and wherever appearing in subsecs. (a) and (b).
+<b>1998</b>—Pub. L. 105–277 substituted “Marsh-Billings-Rockefeller” for “Marsh-Billings” in section catchline and wherever appearing in subsecs. (a) and (b).
 

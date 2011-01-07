@@ -22,9 +22,9 @@ The Congress finds and declares—
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–295 substituted “safety, protection of the marine environment, and safety and security of United States ports and waterways” for “safety and protection of the marine environment”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–295 substituted “safety, protection of the marine environment, and safety and security of United States ports and waterways” for “safety and protection of the marine environment”.
 
-1978—Pub. L. 95–474 substituted provision relating to Congressional declaration of findings for provision relating to the authority of the Secretary of the department in which the Coast Guard is operating to prevent damage to vessels, bridges, and other structures and to protect navigable waters from environmental harm.
+<b>1978</b>—Pub. L. 95–474 substituted provision relating to Congressional declaration of findings for provision relating to the authority of the Secretary of the department in which the Coast Guard is operating to prevent damage to vessels, bridges, and other structures and to protect navigable waters from environmental harm.
 
 #### Short Title of 1986 Amendment
 

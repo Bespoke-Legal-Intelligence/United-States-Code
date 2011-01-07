@@ -12,7 +12,7 @@ The Secretary of Health and Human Services may designate a priority countermeasu
 
 #### (b) Use of animal trials
 
-A drug for which approval is sought under section 355(b) of this title or section 262 of title 42 on the basis of evidence of effectiveness that is derived from animal studies pursuant to section 123 <sup>1</sup> may be designated as a fast track product for purposes of this section.
+A drug for which approval is sought under section 355(b) of this title or section 262 of title 42on the basis of evidence of effectiveness that is derived from animal studies pursuant to section 123 <sup>1</sup> may be designated as a fast track product for purposes of this section.
 
 #### (c) Priority review of drugs and biological products
 

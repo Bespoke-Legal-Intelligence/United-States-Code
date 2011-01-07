@@ -1,7 +1,5 @@
 Part O—Fetal Alcohol Syndrome Prevention and Services Program
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

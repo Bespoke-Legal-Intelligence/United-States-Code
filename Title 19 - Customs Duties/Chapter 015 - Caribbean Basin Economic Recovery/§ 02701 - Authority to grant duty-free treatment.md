@@ -10,7 +10,11 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 #### Amendments
 
-2000—Pub. L. 106–200 inserted “(or other preferential treatment)” after “treatment”.
+<b>2000</b>—Pub. L. 106–200 inserted “(or other preferential treatment)” after “treatment”.
+
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–171, §1, May 24, 2010, 124 Stat. 1194, provided that: “This Act \[amending sections 58c, 2703, and 2703a of this title and enacting provisions set out as notes under section 2703a of this title and section 6655 of Title 26, Internal Revenue Code\] may be cited as the ‘Haiti Economic Lift Program Act of 2010’.”
 
 #### Short Title of 2008 Amendment
 

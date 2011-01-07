@@ -6,7 +6,7 @@ In the case of property acquired by a corporation, during a period of affiliatio
 
 #### Amendments
 
-1976—Pub. L. 94–455, §1901(a)(131), struck out last two sentences relating to the basis and adjustment of the basis of corporate property where a consolidated return was filed.
+<b>1976</b>—Pub. L. 94–455, §1901(a)(131), struck out last two sentences relating to the basis and adjustment of the basis of corporate property where a consolidated return was filed.
 
 Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 

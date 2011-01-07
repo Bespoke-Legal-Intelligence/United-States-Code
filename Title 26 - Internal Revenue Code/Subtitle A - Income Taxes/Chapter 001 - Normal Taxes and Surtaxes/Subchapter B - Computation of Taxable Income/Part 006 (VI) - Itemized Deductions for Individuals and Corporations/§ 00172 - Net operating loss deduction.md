@@ -128,7 +128,7 @@ There shall be allowed as a deduction for the taxable year an amount equal to th
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The amount of any net operating loss which may be carried back to the 5th taxable year preceding the taxable year of such loss under clause (i) shall not exceed 50 percent of the taxpayer's taxable income (computed without regard to the net operating loss for the loss year or any taxable year thereafter) for such preceding taxable year.
+&emsp;&emsp;&emsp;&emsp;The amount of any net operating loss which may be carried back to the 5thtaxable year preceding the taxable year of such loss under clause (i) shall not exceed 50 percent of the taxpayer's taxable income (computed without regard to the net operating loss for the loss year or any taxable year thereafter) for such preceding taxable year.
 
 #### (II) Carrybacks and carryovers to other taxable years
 
@@ -196,7 +196,7 @@ There shall be allowed as a deduction for the taxable year an amount equal to th
 
 &emsp;&emsp;(A) with the modifications specified in subsection (d) other than paragraphs (1), (4), and (5) thereof, and
 
-&emsp;&emsp;(B) by determining the amount of the net operating loss deduction without regard tothe net operating loss for the loss year or for any taxable year thereafter,
+&emsp;&emsp;(B) by determining the amount of the net operating loss deduction without regard to the net operating loss for the loss year or for any taxable year thereafter,
 
 > &emsp;and the taxable income so computed shall not be considered to be less than zero.
 
@@ -256,7 +256,7 @@ The modifications referred to in this section are as follows:
 
 &emsp;&emsp;(A) the net operating loss for such taxable year shall be computed by taking into account the adjustments described in section 857(b)(2) (other than the deduction for dividends paid described in section 857(b)(2)(B)); and
 
-&emsp;&emsp;(B) where such taxable year is a “prior taxable year” referred to in paragraph (2) of subsection (b), the term “taxable income” in such paragraph shall mean “real estate investment trust taxable income” (as defined in section 857(b)(2)).
+&emsp;&emsp;(B) where such taxable year is a “prior taxable year” referred to in paragraph (2) of subsection (b), the term “taxable income” insuch paragraph shall mean “real estate investment trust taxable income” (as defined in section 857(b)(2)).
 
 #### (7) Manufacturing deduction
 
@@ -280,7 +280,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) expenses incurred in the investigation or settlement of, or opposition to, claims against the taxpayer on account of product liability.
 
-&emsp;&emsp;(B)(i) Any amount allowable as a deduction under this chapter (other than section468(a)(1) or 468A(a)) which is in satisfaction of a liability under a Federal or State law requiring—
+&emsp;&emsp;(B)(i) Any amount allowable as a deduction under this chapter (other than section 468(a)(1) or 468A(a)) which is in satisfaction of a liability under a Federal or State law requiring—
 
 &emsp;&emsp;&emsp;(I) the reclamation of land,
 
@@ -374,7 +374,7 @@ For purposes of this section—
 
 #### (D) De minimis rule
 
-&emsp;&emsp;A taxpayer shall be treated as having no allocable interest deductions for any taxableyear if the amount of such deductions (without regard to this subparagraph) is less than $1,000,000.
+&emsp;&emsp;A taxpayer shall be treated as having no allocable interest deductions for any taxable year if the amount of such deductions (without regard to this subparagraph) is less than $1,000,000.
 
 #### (E) Special rule for certain unforeseeable events
 
@@ -448,7 +448,7 @@ For purposes of this section—
 
 #### (A) Ordering rule
 
-&emsp;&emsp;For purposes of paragraph (1), in determining the allocable interest deductions taken into account in computing the net operating loss for any taxable year, taxable income for such taxable year shall be treated as having been computed by taking allocable interest deductions into account after all other deductions.
+&emsp;&emsp;For purposes of paragraph (1), in determining the allocable interest deductions taken into account in computing the net operating loss for any taxable year, taxable income for such taxable year shall be treated as havingbeen computed by taking allocable interest deductions into account after all other deductions.
 
 #### (B) Coordination with subsection (b)(2)
 
@@ -532,7 +532,7 @@ For purposes of this section—
 
 &emsp;&emsp;<b>(2) For special limitation on net operating loss carryovers in case of a corporate change of ownership, see section 382.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 63; Pub. L. 85–866, title I, §§14(a), (b), 64(b), title II, §203(a), (b), Sept. 2, 1958, 72 Stat. 1611, 1656, 1678; Pub. L. 87–710, §1, Sept. 27, 1962, 76 Stat. 648; Pub. L. 87–792, §7(f), Oct. 10, 1962, 76 Stat. 829; Pub. L. 87–794, title III, §317(b), Oct. 11, 1962, 76 Stat. 889; Pub. L. 88–272, title II, §§210(a), (b), 234(b)(5), Feb. 26, 1964, 78 Stat. 47, 48, 115; Pub. L. 90–225, §3(a), Dec. 27, 1967, 81 Stat. 732; Pub. L. 91–172, title IV, §431(b), Dec. 30, 1969, 83 Stat. 619; Pub. L. 91–677, §2(a)–(c), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 94–455, title VIII, §806(a)–(c), title X, §1052(c)(3), title XVI, §1606(b), (c), title XIX, §§1901(a)(29), 1906(b)(13)(A), title XXI, §2126, Oct. 4, 1976, 90 Stat. 1598, 1648, 1755, 1756, 1769, 1834, 1920; Pub. L. 95–30, title I, §102(b)(2), May 23, 1977, 91 Stat. 137; Pub. L. 95–600, title III, §371(a), (b), title VI, §601(b)(1), title VII, §§701(d)(1), 703(p)(1), Nov. 6, 1978, 92 Stat. 2859, 2896, 2900, 2943; Pub. L. 96–222, title I, §§103(a)(15), 106(a)(1), (6), (7), Apr. 1, 1980, 94 Stat. 214, 221; Pub. L. 96–595, §1(a), Dec. 24, 1980, 94 Stat. 3464; Pub. L. 97–34, title II, §207(a), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–354, §5(a)(22), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–362, title I, §102(a)–(c), Oct. 25, 1982, 96 Stat. 1727, 1728; Pub. L. 98–369, div. A, title I, §§91(d), 177(c), title IV, §491(d)(5), title VII, §722(a)(4), July 18, 1984, 98 Stat. 606, 710, 849, 973; Pub. L. 99–514, title I, §104(b)(4), title III, §301(b)(3), title IX, §§901(d)(4)(B), 903(a), (b), title XIII, §1303(b)(1), (2), title XVIII, §1899A(6), Oct. 22, 1986, 100 Stat. 2105, 2217, 2380, 2383, 2658, 2958; Pub. L. 100–647, title I, §§1003(a)(1), 1009(c), Nov. 10, 1988, 102 Stat. 3382, 3449; Pub. L. 101–239, title VII, §7211(a), (b), Dec. 19, 1989, 103 Stat. 2342, 2343; Pub. L. 101–508, title XI, §§11324(a), 11701(d), 11704(a)(2), 11811(a)–(b)(2)(A), (3), (4), Nov. 5, 1990, 104 Stat. 1388–465, 1388–507, 1388–518, 1388–530, 1388–532 to 1388–534; Pub. L. 103–66, title XIII, §13113(d)(1), Aug. 10, 1993, 107 Stat. 429; Pub. L. 104–188, title I, §§1702(h)(2), (16), 1704(t)(5), (30), Aug. 20, 1996, 110 Stat. 1873, 1874, 1887, 1889; Pub. L. 105–34, title X, §1082(a), (b), Aug. 5, 1997, 111 Stat. 950; Pub. L. 105–277, div. J, title II, §2013(a)–(c), title III, §3004(a), title IV, §§4003(h), 4004(a), Oct. 21, 1998, 112 Stat. 2681–902, 2681–905,2681–910; Pub. L. 107–147, title I, §102(a), (b), title IV, §417(8), Mar. 9, 2002, 116 Stat. 25, 56; Pub. L. 108–311, title IV, §403(b)(1), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 109–58, title XIII, §1311, Aug. 8, 2005, 119 Stat. 1009; Pub. L. 109–135, title IV, §§402(f), 403(a)(17), Dec. 21, 2005, 119 Stat. 2611, 2619; Pub. L. 110–343, div. C, title VII, §§706(a)(2)(D)(v), (vi), 708(a), (b), (d), Oct. 3, 2008, 122 Stat. 3922, 3924, 3925; Pub. L. 111–5, div. B, title I, §1211(a), (b), Feb. 17, 2009, 123 Stat. 335, 336; Pub. L. 111–92, §13(a), Nov. 6, 2009, 123 Stat. 2992.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 63; Pub. L. 85–866, title I, §§14(a), (b), 64(b), title II, §203(a), (b), Sept. 2, 1958, 72 Stat. 1611, 1656, 1678; Pub. L. 87–710, §1, Sept. 27, 1962, 76 Stat. 648; Pub. L. 87–792, §7(f), Oct. 10, 1962, 76 Stat. 829; Pub. L. 87–794, title III, §317(b), Oct. 11, 1962, 76 Stat. 889; Pub. L. 88–272, title II, §§210(a), (b), 234(b)(5), Feb. 26, 1964, 78 Stat. 47, 48, 115; Pub. L. 90–225, §3(a), Dec. 27, 1967, 81 Stat. 732; Pub. L. 91–172, title IV, §431(b), Dec. 30, 1969, 83 Stat. 619; Pub. L. 91–677, §2(a)–(c), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 94–455, title VIII, §806(a)–(c), title X,§1052(c)(3), title XVI, §1606(b), (c), title XIX, §§1901(a)(29), 1906(b)(13)(A), title XXI, §2126, Oct. 4, 1976, 90 Stat. 1598, 1648, 1755, 1756, 1769, 1834, 1920; Pub. L. 95–30, title I, §102(b)(2), May 23, 1977, 91 Stat. 137; Pub. L. 95–600, title III, §371(a), (b), title VI, §601(b)(1), title VII, §§701(d)(1), 703(p)(1), Nov. 6, 1978, 92 Stat. 2859, 2896, 2900, 2943; Pub. L. 96–222, title I, §§103(a)(15), 106(a)(1), (6), (7), Apr. 1, 1980, 94 Stat. 214, 221; Pub. L. 96–595, §1(a), Dec. 24, 1980, 94 Stat. 3464; Pub. L. 97–34, title II, §207(a), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–354, §5(a)(22), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–362, title I, §102(a)–(c), Oct. 25, 1982, 96 Stat. 1727, 1728; Pub. L. 98–369, div. A, title I, §§91(d), 177(c), title IV, §491(d)(5), title VII, §722(a)(4), July 18, 1984, 98 Stat. 606, 710, 849, 973; Pub. L. 99–514, title I, §104(b)(4), title III, §301(b)(3), title IX, §§901(d)(4)(B), 903(a), (b), title XIII, §1303(b)(1), (2), title XVIII, §1899A(6), Oct. 22, 1986, 100 Stat. 2105, 2217, 2380, 2383, 2658, 2958; Pub. L. 100–647, title I, §§1003(a)(1), 1009(c), Nov. 10, 1988, 102 Stat. 3382, 3449; Pub. L. 101–239, title VII, §7211(a), (b), Dec. 19, 1989, 103 Stat. 2342, 2343; Pub. L. 101–508, title XI, §§11324(a), 11701(d), 11704(a)(2), 11811(a)–(b)(2)(A), (3), (4), Nov. 5, 1990, 104 Stat. 1388–465, 1388–507, 1388–518, 1388–530, 1388–532 to 1388–534; Pub. L. 103–66, title XIII, §13113(d)(1), Aug. 10, 1993, 107 Stat. 429; Pub. L. 104–188, title I, §§1702(h)(2), (16), 1704(t)(5), (30), Aug. 20, 1996, 110 Stat. 1873, 1874, 1887, 1889; Pub. L. 105–34, title X, §1082(a), (b), Aug. 5, 1997, 111 Stat. 950; Pub. L. 105–277, div. J, title II, §2013(a)–(c), title III, §3004(a), title IV, §§4003(h), 4004(a), Oct. 21, 1998, 112 Stat. 2681–902, 2681–905, 2681–910; Pub. L. 107–147, title I, §102(a), (b), title IV, §417(8), Mar. 9, 2002, 116 Stat. 25, 56; Pub. L. 108–311, title IV, §403(b)(1), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 109–58, title XIII, §1311, Aug. 8, 2005, 119 Stat. 1009; Pub. L. 109–135, title IV, §§402(f), 403(a)(17), Dec. 21, 2005, 119 Stat. 2611, 2619; Pub. L. 110–343, div. C, title VII, §§706(a)(2)(D)(v), (vi), 708(a), (b), (d), Oct. 3, 2008, 122 Stat. 3922, 3924, 3925; Pub. L. 111–5, div. B, title I, §1211(a), (b), Feb. 17, 2009, 123 Stat. 335, 336; Pub. L. 111–92, §13(a), Nov. 6, 2009, 123 Stat. 2992.)
 
 #### References in Text
 
@@ -542,13 +542,13 @@ The date of the enactment of the Energy Tax Incentives Act of 2005, referred to 
 
 #### Amendments
 
-2009—Subsec. (b)(1)(H). Pub. L. 111–92 amended subpar. (H) generally. Prior to amendment, subpar. (H) provided for carryback for 2008 net operating losses of small businesses.
+<b>2009</b>—Subsec. (b)(1)(H). Pub. L. 111–92 amended subpar. (H) generally. Prior to amendment, subpar. (H) provided for carryback for 2008 net operating losses of small businesses.
 
 Pub. L. 111–5, §1211(a), amended subpar. (H) generally. Prior to amendment, subpar. (H) read as follows: “In the case of a net operating loss for any taxable year ending during 2001 or 2002, subparagraph (A)(i) shall be applied by substituting ‘5’ for ‘2’ and subparagraph (F) shall not apply.”
 
 Subsecs. (k), (<i>l</i>). Pub. L. 111–5, §1211(b), redesignated subsec. (<i>l</i>) as (k) and struck out former subsec. (k). Prior to amendment, text read as follows: “Any taxpayer entitled to a 5-year carryback under subsection (b)(1)(H) from any loss year may elect to have the carryback period with respect to such loss year determined without regard to subsection (b)(1)(H). Such election shall be made in such manner as may be prescribed by the Secretary and shall be made by the due date (including extensions of time) for filing the taxpayer's return for the taxable year of the net operating loss. Such election, once made for any taxable year, shall be irrevocable for such taxable year.”
 
-2008—Subsec. (b)(1)(F)(ii). Pub. L. 110–343, §708(d)(1), inserted “or qualified disaster loss (as defined in subsection (j))” before period at end of concluding provisions.
+<b>2008</b>—Subsec. (b)(1)(F)(ii). Pub. L. 110–343, §708(d)(1), inserted “or qualified disaster loss (as defined in subsection (j))” before period at end of concluding provisions.
 
 Subsec. (b)(1)(F)(ii)(II). Pub. L. 110–343, §706(a)(2)(D)(v), substituted “federally declared disasters (as defined by subsection (h)(3)(C)(i))” for “Presidentially declared disasters (as defined in section 1033(h)(3))”.
 
@@ -560,7 +560,7 @@ Subsec. (i)(1). Pub. L. 110–343, §708(d)(2), inserted concluding provisions.
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 110–343, §708(b), added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (<i>l</i>), respectively.
 
-2005—Subsec. (b)(1)(I). Pub. L. 109–58 added subpar. (I).
+<b>2005</b>—Subsec. (b)(1)(I). Pub. L. 109–58 added subpar. (I).
 
 Subsec. (b)(1)(I)(i). Pub. L. 109–135, §402(f)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “At the election of the taxpayer in any taxable year ending after December 31, 2005, and before January 1, 2009, in the case of a net operating loss in a taxable year ending after December 31, 2002, and before January 1, 2006, there shall be a net operating loss carryback to each of the 5 years preceding the taxable year of such loss to the extent that such loss does not exceed 20 percent of the sum of electric transmission property capital expenditures and pollution control facility capital expenditures of the taxpayer for the taxable year preceding the taxable year in which such election is made.”
 
@@ -578,15 +578,15 @@ Special rules relating to refund.—For purposes of a net operating loss to whic
 
 Subsec. (d)(7). Pub. L. 109–135, §403(a)(17), added par. (7).
 
-2004—Subsec. (b)(1)(H). Pub. L. 108–311 struck out “a taxpayer which has” after “In the case of”.
+<b>2004</b>—Subsec. (b)(1)(H). Pub. L. 108–311 struck out “a taxpayer which has” after “In the case of”.
 
-2002—Subsec. (b)(1)(F)(i). Pub. L. 107–147, §417(8), substituted “3 taxable years” for “3 years” and “2 taxable years” for ‘2 years”.
+<b>2002</b>—Subsec. (b)(1)(F)(i). Pub. L. 107–147, §417(8), substituted “3 taxable years” for “3 years” and “2 taxable years” for ‘2 years”.
 
 Subsec. (b)(1)(H). Pub. L. 107–147, §102(a), added subpar. (H).
 
 Subsecs. (j), (k). Pub. L. 107–147, §102(b), added subsec. (j) and redesignated former subsec. (j) as (k).
 
-1998—Subsec. (b)(1)(F)(ii). Pub. L. 105–277, §2013(c), inserted concluding provisions.
+<b>1998</b>—Subsec. (b)(1)(F)(ii). Pub. L. 105–277, §2013(c), inserted concluding provisions.
 
 Subsec. (b)(1)(F)(iv). Pub. L. 105–277, §4003(h), added cl. (iv).
 
@@ -604,13 +604,13 @@ Subsec. (f)(1)(B). Pub. L. 105–277, §3004(a), amended subpar. (B) generally. 
 
 Subsecs. (i), (j). Pub. L. 105–277, §2013(b), added subsec. (i) and redesignated former subsec. (i) as (j).
 
-1997—Subsec. (b)(1)(A)(i). Pub. L. 105–34, §1082(a)(1), substituted “2” for “3”.
+<b>1997</b>—Subsec. (b)(1)(A)(i). Pub. L. 105–34, §1082(a)(1), substituted “2” for “3”.
 
 Subsec. (b)(1)(A)(ii). Pub. L. 105–34, §1082(a)(2), substituted “20” for “15”.
 
 Subsec. (b)(1)(F). Pub. L. 105–34, §1082(b), added subpar. (F).
 
-1996—Subsec. (b)(1)(E)(ii). Pub. L. 104–188, §1702(h)(2), substituted “subsection (h)” for “subsection (m)”.
+<b>1996</b>—Subsec. (b)(1)(E)(ii). Pub. L. 104–188, §1702(h)(2), substituted “subsection (h)” for “subsection (m)”.
 
 Subsec. (h)(3)(B)(i). Pub. L. 104–188, §1704(t)(5), substituted “corporation.” for “corporation,” at end.
 
@@ -618,11 +618,11 @@ Subsec. (h)(4)(B). Pub. L. 104–188, §1704(t)(30), substituted “For purposes
 
 Subsec. (h)(4)(C). Pub. L. 104–188, §1702(h)(16), substituted “(b)(1)(E)” for “(b)(1)(M)”.
 
-1993—Subsec. (d)(2). Pub. L. 103–66, §13113(d)(1)(A), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In the case of a taxpayer other than a corporation, the amount deductible on account of losses from sales or exchanges of capital assets shall not exceed the amount includible on account of gains from sales or exchanges of capital assets.”
+<b>1993</b>—Subsec. (d)(2). Pub. L. 103–66, §13113(d)(1)(A), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In the case of a taxpayer other than a corporation, the amount deductible on account of losses from sales or exchanges of capital assets shall not exceed the amount includible on account of gains from sales or exchanges of capital assets.”
 
 Subsec. (d)(4)(B). Pub. L. 103–66, §13113(d)(1)(B), which directed the insertion of “, (2)(B),” after “paragraph (1)”, was executed by making the insertion after “paragraphs (1)” to reflect the probable intent of Congress.
 
-1990—Subsec. (b). Pub. L. 101–508, §11811(a), amended subsec. (b) generally, substituting present provisions for provisions delineating years to which loss may be carried, relating to amount of carrybacks and carryovers, and providing for special rules for foreign expropriation losses.
+<b>1990</b>—Subsec. (b). Pub. L. 101–508, §11811(a), amended subsec. (b) generally, substituting present provisions for provisions delineating years to which loss may be carried, relating to amount of carrybacks and carryovers, and providing for special rules for foreign expropriation losses.
 
 Subsec. (b)(1)(M)(iii). Pub. L. 101–508, §11701(d), struck out “a C corporation” after “means” in introductory provisions, substituted “a C corporation which acquires” for “which acquires” in subcl. (I), “a C corporation” for “a corporation” in subcl. (II), and “any C corporation which is a successor” for “any successor corporation” in subcl. (III).
 
@@ -652,11 +652,11 @@ Subsec. (k). Pub. L. 101–508, §11811(b)(1), struck out subsec. (k) which rela
 
 Subsecs. (<i>l</i>) to (n). Pub. L. 101–508, §11811(b)(1), redesignated subsecs. (<i>l</i>) to (n) as (g) to (i), respectively.
 
-1989—Subsec. (b)(1)(M). Pub. L. 101–239, §7211(a), added subpar. (M).
+<b>1989</b>—Subsec. (b)(1)(M). Pub. L. 101–239, §7211(a), added subpar. (M).
 
 Subsecs. (m), (n). Pub. L. 101–239, §7211(b), added subsec. (m) and redesignated former subsec. (m) as (n).
 
-1988—Subsec. (b)(1)(A). Pub. L. 100–647, §1009(c)(2), substituted “Except as otherwise provided in this paragraph, a net operating loss” for “Except as provided in subparagraphs (D), (E), (F), (G), (H), (I), (J), (K), (L), and (M), a net operating loss”.
+<b>1988</b>—Subsec. (b)(1)(A). Pub. L. 100–647, §1009(c)(2), substituted “Except as otherwise provided in this paragraph, a net operating loss” for “Except as provided in subparagraphs (D), (E), (F), (G), (H), (I), (J), (K), (L), and (M), a net operating loss”.
 
 Subsec. (b)(1)(B). Pub. L. 100–647, §1009(c)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Except as provided in subparagraphs (C), (D), and (E), a net operating loss for any taxable year ending after December 31, 1955, shall be a net operating loss carryover to each of the 5 taxable years following the taxable year of such loss. Except as provided in subparagraphs (C), (D), (E), (F), (G), (H), (J), (L), and (M), a net operating loss for any taxable year ending after December 31, 1975, shall be a net operating loss carryover to each of the 15 taxable years following the taxable year of such loss.”
 
@@ -664,7 +664,7 @@ Subsec. (b)(1)(K) to (M). Pub. L. 100–647, §1009(c)(1), redesignated subpars.
 
 Subsec. (d)(4)(B). Pub. L. 100–647, §1003(a)(1), substituted “paragraphs (1) and (3)” for “paragraphs (1), (2)(B), and (3)”.
 
-1986—Subsec. (b)(1)(A), (B). Pub. L. 99–514, §903(b)(2)(A), (B), inserted reference to subpars. (L) and (M).
+<b>1986</b>—Subsec. (b)(1)(A), (B). Pub. L. 99–514, §903(b)(2)(A), (B), inserted reference to subpars. (L) and (M).
 
 Subsec. (b)(1)(F). Pub. L. 99–514, §903(a)(1), inserted “and before January 1, 1987,”.
 
@@ -698,7 +698,7 @@ Subsec. (k)(2), (4). Pub. L. 99–514, §1303(b)(2), substituted “subsection (
 
 Subsecs. (<i>l</i>), (m). Pub. L. 99–514, §903(b)(2)(C), added subsec. (<i>l</i>) and redesignated former subsec. (<i>l</i>) as (m).
 
-1984—Subsec. (b)(1)(A). Pub. L. 98–369, §91(d)(3)(A), substituted “(J), and (K)” for “and (J)”.
+<b>1984</b>—Subsec. (b)(1)(A). Pub. L. 98–369, §91(d)(3)(A), substituted “(J), and (K)” for “and (J)”.
 
 Subsec. (b)(1)(H). Pub. L. 98–369, §177(c)(1)(A), inserted “, or a net operating loss of the Federal Home Loan Mortgage Corporation for any taxable year beginning after December 31, 1984” in introductory provisions.
 
@@ -720,7 +720,7 @@ Subsec. (j). Pub. L. 98–369, §91(d)(3)(B), substituted “this section” for
 
 Subsecs. (k), (<i>l</i>). Pub. L. 98–369, §91(d)(2), added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
 
-1982—Subsec. (b)(1)(A). Pub. L. 97–362, §102(c)(1), substituted “(H), (I), and (J)” for “(H), and (I)”.
+<b>1982</b>—Subsec. (b)(1)(A). Pub. L. 97–362, §102(c)(1), substituted “(H), (I), and (J)” for “(H), and (I)”.
 
 Subsec. (b)(1)(B). Pub. L. 97–362, §102(c)(2), substituted “(H), and (J)” for “and (I)”.
 
@@ -738,7 +738,7 @@ Subsec. (j). Pub. L. 97–362, §102(b), (c)(4), redesignated former subsec. (i)
 
 Subsec. (k). Pub. L. 97–362, §102(b), redesignated former subsec. (j) as (k).
 
-1981—Subsec. (b)(1)(B). Pub. L. 97–34, §207(a)(1), substituted “15 taxable years” for “7 taxable years”.
+<b>1981</b>—Subsec. (b)(1)(B). Pub. L. 97–34, §207(a)(1), substituted “15 taxable years” for “7 taxable years”.
 
 Subsec. (b)(1)(C). Pub. L. 97–34, §207(a)(2)(A), substituted “ending after December 31, 1955, and before January 1, 1976, shall” for “ending after December 31, 1955, shall” and struck out provision that, for any taxable year ending after Dec. 31, 1975, the preceding sentence was to be applied by substituting “9 taxable years” for “7 taxable years”.
 
@@ -748,7 +748,7 @@ Subsec. (b)(1)(E)(ii). Pub. L. 97–34, §207(a)(2)(B)(ii), struck out designati
 
 Subsec. (g)(3)(C). Pub. L. 97–34, §207(a)(2)(C), struck out subpar. (C) which provided that, in the case of a net operating loss carryover from a loss year ending after Dec. 31, 1975, subpars. (A) and (B) were to be applied by substituting “8th taxable year” for “6th taxable year” and “9th taxable year” for “7th taxable year”.
 
-1980—Subsec. (b)(1)(A). Pub. L. 96–222, §106(a)(6), substituted “, (H), and (I)” for “and (H)”.
+<b>1980</b>—Subsec. (b)(1)(A). Pub. L. 96–222, §106(a)(6), substituted “, (H), and (I)” for “and (H)”.
 
 Pub. L. 96–222, §103(a)(15), amended directory language of Pub. L. 95–600, §371(a)(2), to correct an error, and did not involve any change in text. See 1978 Amendment note for subsec. (b)(1)(A) below.
 
@@ -758,7 +758,7 @@ Subsec. (b)(1)(E). Pub. L. 96–595 generally revised subpar. (E) to permit a tr
 
 Subsec. (b)(1)(I). Pub. L. 96–222, §106(a)(1), redesignated former subpar. (H), added by section 601(b) of Pub. L. 95–600 relating to an electing GSOC, as (I).
 
-1978—Subsec. (b)(1)(A). Pub. L. 95–600, §371(a)(2), as amended by Pub. L. 96–222, §103(a)(15), substituted “(G), and (H)” for “and (G)”.
+<b>1978</b>—Subsec. (b)(1)(A). Pub. L. 95–600, §371(a)(2), as amended by Pub. L. 96–222, §103(a)(15), substituted “(G), and (H)” for “and (G)”.
 
 Pub. L. 95–600, §703(p)(1)(A), struck out provisions relating to net operating loss carryback with respect to a taxable year ending on or after Dec. 31, 1962, for which a certification has been issued under section 317 of the Trade Expansion Act of 1962.
 
@@ -778,9 +778,9 @@ Subsec. (b)(3)(D), (E). Pub. L. 95–600, §703(p)(1)(B), redesignated subpars. 
 
 Subsecs. (i), (j). Pub. L. 95–600, §371(b), added subsec. (i) and redesignated former subsec. (i) as (j).
 
-1977—Subsec. (d)(8). Pub. L. 95–30 added par. (8).
+<b>1977</b>—Subsec. (d)(8). Pub. L. 95–30 added par. (8).
 
-1976—Subsec. (b)(1)(B). Pub. L. 94–455, §806(a), inserted “Except as provided in subparagraphs (C), (D), (E), and (F), a net operating loss for any taxable year ending after December 31, 1975, shall be a net operating loss carryover to each of the 7 taxable years following the taxable year of such loss” after “year of such loss”.
+<b>1976</b>—Subsec. (b)(1)(B). Pub. L. 94–455, §806(a), inserted “Except as provided in subparagraphs (C), (D), (E), and (F), a net operating loss for any taxable year ending after December 31, 1975, shall be a net operating loss carryover to each of the 7 taxable years following the taxable year of such loss” after “year of such loss”.
 
 Subsec. (b)(1)(C). Pub. L. 94–455, §§806(b)(1), 1901(a)(29)(C)(ii), inserted “For any taxable year ending after December 31, 1975, the preceding sentence shall be applied by substituting ‘9 taxable years’ for ‘7 taxable years’ ” after “year of such loss”, substituted “subsection (g)(1)” for “subsection (j)(1)” after “as defined in” and “subsection (g)” for “subsection (j)” after “as provided in”.
 
@@ -824,25 +824,25 @@ Subsec. (i). Pub. L. 94–455, §1901(a)(29)(C)(i), redesignated subsec. (<i>l</
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 94–455, §1901(a)(29)(C)(i), redesignated subsecs. (j) to (<i>l</i>) as (g) to (i), respectively.
 
-1971—Subsec. (b)(1)(D). Pub. L. 91–677, §2(a), inserted “(or, with respect to that portion of the net operating loss for such year attributable to a Cuban expropriation loss, to each of the 15 taxable years following the taxable year of such loss)” after “the 10 taxable years following the taxable year of such loss”.
+<b>1971</b>—Subsec. (b)(1)(D). Pub. L. 91–677, §2(a), inserted “(or, with respect to that portion of the net operating loss for such year attributable to a Cuban expropriation loss, to each of the 15 taxable years following the taxable year of such loss)” after “the 10 taxable years following the taxable year of such loss”.
 
 Subsec. (b)(2). Pub. L. 91–677, §2(b), inserted provisions relating to treatment of Cuban expropriation losses.
 
 Subsec. (k)(3). Pub. L. 91–677, §2(c), added par. (3).
 
-1969—Subsec. (b)(1). Pub. L. 91–172 substituted “(E), (F), and (G)”, for “and (E)” in subpar. (A)(i) and added subpars. (F) and (G).
+<b>1969</b>—Subsec. (b)(1). Pub. L. 91–172 substituted “(E), (F), and (G)”, for “and (E)” in subpar. (A)(i) and added subpars. (F) and (G).
 
-1967—Subsec. (b)(1). Pub. L. 90–225, §3(a)(1)–(3), inserted reference to subpar. (E) in subpars. (A)(i) and (B), and added subpar. (E).
+<b>1967</b>—Subsec. (b)(1). Pub. L. 90–225, §3(a)(1)–(3), inserted reference to subpar. (E) in subpars. (A)(i) and (B), and added subpar. (E).
 
 Subsec. (b)(3)(E), (F). Pub. L. 90–225, §3(a)(4), added subpars. (E) and (F).
 
-1964—Subsec. (b). Pub. L. 88–272, §210(a)(1)–(4), (b), inserted subpar. (D) in par. (1), references to such subpar. (D) in par. (1)(A)(i) and (1)(B), subpars. (C) and (D) in par. (3), provided that the net operating loss deduction in par. (2)(B) be determined without regard to that portion of a net operating loss due to a foreign expropriation loss, if such portion may not, under par. (1)(D), be carried back to such prior taxable year, and that if a portion of the net operating loss is attributable to foreign expropriation to which par. (1)(D) applied, such portion shall be considered a separate loss for such year to be applied after the other portion of such net operating loss.
+<b>1964</b>—Subsec. (b). Pub. L. 88–272, §210(a)(1)–(4), (b), inserted subpar. (D) in par. (1), references to such subpar. (D) in par. (1)(A)(i) and (1)(B), subpars. (C) and (D) in par. (3), provided that the net operating loss deduction in par. (2)(B) be determined without regard to that portion of a net operating loss due to a foreign expropriation loss, if such portion may not, under par. (1)(D), be carried back to such prior taxable year, and that if a portion of the net operating loss is attributable to foreign expropriation to which par. (1)(D) applied, such portion shall be considered a separate loss for such year to be applied after the other portion of such net operating loss.
 
 Subsec. (j)(1), (2), Pub. L. 88–272, §234(b)(5), substituted references to section 7701(a)(33) for references to section 1503(c)(1) or (2), wherever appearing.
 
 Subsecs. (k), (<i>l</i>). Pub. L. 88–272, §210(a)(5), added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
 
-1962—Subsec. (b)(1). Pub. L. 87–794 designated existing provisions as cl. (A)(i) and struck out provisions therefrom which authorized a net operating loss for any taxable year ending after Dec. 31, 1957, to be a net operating loss carryover to each of the 5 taxable years following the taxable year of such loss, and added cls. (A)(ii), (B), and (C).
+<b>1962</b>—Subsec. (b)(1). Pub. L. 87–794 designated existing provisions as cl. (A)(i) and struck out provisions therefrom which authorized a net operating loss for any taxable year ending after Dec. 31, 1957, to be a net operating loss carryover to each of the 5 taxable years following the taxable year of such loss, and added cls. (A)(ii), (B), and (C).
 
 Subsec. (b)(2). Pub. L. 87–794 inserted reference to subsection (j), and substituted “shall be carried to the earliest of the taxable years to which (by reason of paragraph (1))” for “shall be carried to the earliest of the 8 taxable years to which (by reason of subparagraphs (A) and (B) of paragraph (1))”, and “each of the other taxable years” for “each of the other 7 taxable years”.
 
@@ -854,7 +854,7 @@ Subsec. (d)(4)(D). Pub. L. 87–792 added subpar. (D).
 
 Subsecs. (j), (k). Pub. L. 87–710, §1(b), added subsec. (j) and redesignated former subsec. (j) as (k).
 
-1958—Subsec. (b). Pub. L. 85–866, §203(a), substituted “1957” for “1953”, and “3” for “2” in par. (1), and substituted “subsection (i)” for “subsection (f)”, “8” for “7”, and “7” for “6” in par. (2).
+<b>1958</b>—Subsec. (b). Pub. L. 85–866, §203(a), substituted “1957” for “1953”, and “3” for “2” in par. (1), and substituted “subsection (i)” for “subsection (f)”, “8” for “7”, and “7” for “6” in par. (2).
 
 Subsecs. (f)(3), (4). Pub. L. 85–866, §14(a), added pars. (3) and (4).
 
@@ -892,7 +892,7 @@ Amendment by section 708(a), (b), (d) of Pub. L. 110–343 applicable to losses 
 
 #### Effective Date of 2005 Amendment
 
-Amendment by 402(f) of Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
+Amendment by 402(f) of Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
 
 Amendment by section 403(a)(17) of Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
@@ -968,7 +968,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 104(b)(4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by section 104(b)(4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 Amendment by section 301(b)(3) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 301(c) of Pub. L. 99–514, set out as a note under section 62 of this title.
 
@@ -1062,7 +1062,7 @@ In general.—The Federal Home Loan Mortgage Corporation shall not be allowed an
 
 &emsp;“(B)
 
-Replacement obligation defined.—For purposes of subparagraph (A), the term ‘replacement obligation’ means any obligation to any person created after March 15, 1984, which the Secretary of the Treasury or his delegate determines replaces any equity or debt interest of a Federal Home Loan Bank or any other person in the Federal Home Loan Mortgage Corporation existing on such date. The preceding sentence shall not apply to any obligation with respect to which the Federal Home Loan Mortgage Corporation establishes that there is no tax avoidance effect.”
+Replacement obligation defined.—For purposes of subparagraph (A), the term ‘replacement obligation’ means any obligation to any person created after March 15, 1984, which the Secretary of the Treasury or his delegate determines replaces any equity or debt interest of a Federal Home Loan Bank or any other person in the Federal Home Loan Mortgage Corporation existing on such date. The preceding sentence shall not apply to any obligation with respectto which the Federal Home Loan Mortgage Corporation establishes that there is no tax avoidance effect.”
 
 Amendment by section 491(d)(5) of Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
 
@@ -1076,7 +1076,7 @@ Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to net operating losses in taxable years ending after Dec. 31, 1975, with special effective date for the amendment by section 207(a)(2)(B)(i) of Pub. L. 97–34, and net operating loss for any taxable year ending on or before Dec. 31, 1975, which could be a net operating loss carryover to a taxable year ending in 1981 by reason of subsec. (b)(1)(E)(ii) (as in effect before the date of enactment of Pub. L. 97–34 and as modified by section 1(b) of Pub. L. 96–595), to be a net operating loss carryover under this section to each of the 15 taxable years following thetaxable year of such loss, see section 209(c)(1) of Pub. L. 97–34, set out as an Effective Date note under section 168 of this title.
+Amendment by Pub. L. 97–34 applicable to net operating losses in taxable years ending after Dec. 31, 1975, with special effective date for the amendment by section 207(a)(2)(B)(i) of Pub. L. 97–34, and net operating loss for any taxable year ending on or before Dec. 31, 1975, which could be a net operating loss carryover to a taxable year ending in 1981 by reason of subsec. (b)(1)(E)(ii) (as in effect before the date of enactment of Pub. L. 97–34 and as modified by section 1(b) of Pub. L. 96–595), to be a net operating loss carryover under this section to each of the 15 taxable years following the taxable year of such loss, see section 209(c)(1) of Pub. L. 97–34, set out as an Effective Date note under section 168 of this title.
 
 #### Effective Date of 1980 Amendments
 
@@ -1142,7 +1142,7 @@ Section 64(e) of Pub. L. 85–866 provided that: “The amendments made by this 
 
 #### Anti-Abuse Rules
 
-Pub. L. 111–92, §13(d), Nov. 6, 2009, 123 Stat. 2994, provided that: “The Secretary of \[the\] Treasury or the Secretary's designee shall prescribe such rules as are necessary to prevent the abuse of the purposes of the amendments made by this section \[amending this section and sections 56 and 810 of this title\], including anti-stuffing rules, anti-churning rules (including rulesrelating to sale-leasebacks), and rules similar to the rules under section 1091 of the Internal Revenue Code of 1986 relating to losses from wash sales.”
+Pub. L. 111–92, §13(d), Nov. 6, 2009, 123 Stat. 2994, provided that: “The Secretary of \[the\] Treasury or the Secretary's designee shall prescribe such rules as are necessary to prevent the abuse of the purposes of the amendments made by this section \[amending this section and sections 56 and 810 of this title\], including anti-stuffing rules, anti-churning rules (including rules relating to sale-leasebacks), and rules similar to the rules under section 1091 of the Internal Revenue Code of 1986 relating to losses from wash sales.”
 
 Pub. L. 111–5, div. B, title I, §1211(c), Feb. 17, 2009, 123 Stat. 336, provided that: “The Secretary of \[the\] Treasury or the Secretary's designee shall prescribe such rules as are necessary to prevent the abuse of the purposes of the amendments made by this section \[amending this section\], including anti-stuffing rules, anti-churning rules (including rules relating to sale-leasebacks), and rules similar to the rules under section 1091 of the Internal Revenue Code of 1986 relating to losses from wash sales.”
 
@@ -1276,7 +1276,7 @@ Payments to Non-Amtrak States.—
 
 &emsp;“(1)
 
-In general.—Within 30 days after receipt of any refund of any payment described in subsection\(a)(1), the Corporation shall pay to each non-Amtrak State an amount equal to 1 percent of the amount of such refund.
+In general.—Within 30 days after receipt of any refund of any payment described in subsection (a)(1), the Corporation shall pay to each non-Amtrak State an amount equal to 1 percent of the amount of such refund.
 
 &emsp;“(2)
 

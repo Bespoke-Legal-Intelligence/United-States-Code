@@ -6,7 +6,7 @@ The Office of Personnel Management shall—
 
 &emsp;(2) evaluate the research programs established under paragraph (1) of this section;
 
-&emsp;(3) establish and maintain a program for the collection and public dissemination of information relating to personnel management research and for encouraging and facilitating the exchange of information among interested persons and entities; and
+&emsp;(3) establish and maintain a program for the collection and public dissemination of information relating to personnel management research and for encouraging and facilitatingthe exchange of information among interested persons and entities; and
 
 &emsp;(4) carry out the preceding functions directly or through agreement or contract.
 

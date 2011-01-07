@@ -26,7 +26,7 @@ The North Pacific Council may prepare, in consultation with the Secretary, a fis
 
 &emsp;(B) be fair and equitable to all participants in the fisheries under the jurisdiction of the Council, including the Northern Pacific halibut fishery;
 
-&emsp;(C) provide that fees collected not be used to pay any costs of administrative overhead or other costs not directly incurred in carrying out the plan;
+&emsp;(C) provide that fees collected not be used to pay any costs of administrative overhead orother costs not directly incurred in carrying out the plan;
 
 &emsp;(D) not be used to offset amounts authorized under other provisions of law;
 
@@ -54,7 +54,7 @@ The North Pacific Council may prepare, in consultation with the Secretary, a fis
 
 #### (d) Fishery Observer Fund
 
-There is established in the Treasury a North Pacific Fishery Observer Fund. The Fund shall be available, without appropriation or fiscal year limitation, only to the Secretary for the purpose of carrying out the provisions of this section, subject to the restrictions in subsection (b)(2) of this section. The Fund shall consist ofall monies deposited into it in accordance with this section. Sums in the Fund that are not currently needed for the purposes of this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
+There is established in the Treasury a North Pacific Fishery Observer Fund. The Fund shall be available, without appropriation or fiscal year limitation, only to the Secretary for the purpose of carrying out the provisions of this section, subject to the restrictions in subsection (b)(2) of this section. The Fund shall consist of all monies deposited into it in accordance with this section. Sums in the Fund that are not currently needed for the purposes of this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
 #### (e) Special provisions regarding observers
 
@@ -100,7 +100,7 @@ In implementing section 1853(a)(11) of this title and this section, the North Pa
 
 #### (j) Bering Sea and Aleutian Islands crab rationalization
 
-(1) By not later than January 1, 2005, the Secretary shall approve and hereafter <sup>2</sup> implement by regulation the Voluntary Three-Pie Cooperative Program for crab fisheries of the Bering Sea and Aleutian Islands approved by the North Pacific Fishery Management Council between June 2002 and April 2003, and all trailing amendments including those reported to Congress on May 6, 2003. This section shall not preclude the Secretary from approving by January 1, 2005, andimplementing any subsequent program amendments approved by the Council.
+(1) By not later than January 1, 2005, the Secretary shall approve and hereafter <sup>2</sup> implement by regulation the Voluntary Three-Pie Cooperative Program for crab fisheries of the Bering Sea and Aleutian Islands approved by the North Pacific Fishery Management Council between June 2002 and April 2003, and all trailing amendments including those reported to Congress on May 6, 2003. This section shall not preclude the Secretary from approving by January 1, 2005, and implementing any subsequent program amendments approved by the Council.
 
 (2) Notwithstanding any other provision of this chapter, in carrying out paragraph (1) the Secretary shall approve all parts of the Program referred to in such paragraph. Further, no part of such Program may be implemented if, as approved by the North Pacific Fishery Management Council, individual fishing quotas, processing quotas, community development quota allocation, voluntary cooperatives, binding arbitration, regional landing and processing requirements, community protections, economic data collection, or the loan program for crab fishing vessel captains and crew members, is invalidated subject to a judicial determination not subject to judicial appeal. If the Secretary determines that a processor has leveraged its Individual Processor Quota shares to acquire a harvesters open-delivery “B shares”, the processor's Individual Processor Quota shares shall be forfeited.
 
@@ -132,7 +132,7 @@ In subsec. (j)(4), “sections 53735 and 53702(b) of title 46” substituted for
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 109–479, §214(1), substituted “any fishery under the Council's jurisdiction except a salmon fishery” for “all fisheries under the Council's jurisdiction except salmon fisheries” in introductory provisions.
+<b>2007</b>—Subsec. (a). Pub. L. 109–479, §214(1), substituted “any fishery under the Council's jurisdiction except a salmon fishery” for “all fisheries under the Council's jurisdiction except salmon fisheries” in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 109–479, §214(2), added par. (2) and struck out former par. (2) which read as follows: “establishes a system of fees to pay for the costs of implementing the plan.”
 
@@ -144,15 +144,15 @@ Subsec. (b)(2)(F). Pub. L. 109–479, §214(5), (6), inserted “some or” afte
 
 Subsec. (b)(2)(I), (J). Pub. L. 109–479, §214(7), (8), added subpar. (I) and redesignated former subpar. (I) as (J).
 
-2004—Subsec. (j). Pub. L. 108–199 added subsec. (j).
+<b>2004</b>—Subsec. (j). Pub. L. 108–199 added subsec. (j).
 
-1996—Pub. L. 104–297, §117(a)(1), substituted “conservation” for “research plan” in section catchline.
+<b>1996</b>—Pub. L. 104–297, §117(a)(1), substituted “conservation” for “research plan” in section catchline.
 
 Subsec. (a). Pub. L. 104–297, §117(a)(2), substituted “North Pacific Council” for “North Pacific Fishery Management Council” in introductory provisions.
 
 Subsecs. (f) to (i). Pub. L. 104–297, §117(a)(3), added subsecs. (f) to (i).
 
-1992—Subsec. (b)(2)(E). Pub. L. 102–582 substituted “2 percent, of the unprocessed ex-vessel” for “one percentum, of the”.
+<b>1992</b>—Subsec. (b)(2)(E). Pub. L. 102–582 substituted “2 percent, of the unprocessed ex-vessel” for “one percentum, of the”.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

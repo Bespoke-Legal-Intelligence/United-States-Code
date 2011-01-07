@@ -36,7 +36,7 @@ Section 3501 requires that a vessel carrying passengers, including a passenger v
 
 #### Amendments
 
-1985—Subsec. (a). Pub. L. 99–36, §1(a)(2)(A), struck out the comma after “(except a ferry)”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–36, §1(a)(2)(A), struck out the comma after “(except a ferry)”.
 
 Subsec. (c). Pub. L. 99–36, §1(a)(2)(B), substituted “carries more passengers than the number of passengers permitted by the certificate of inspection” for “violates subsection (b) of this section”.
 

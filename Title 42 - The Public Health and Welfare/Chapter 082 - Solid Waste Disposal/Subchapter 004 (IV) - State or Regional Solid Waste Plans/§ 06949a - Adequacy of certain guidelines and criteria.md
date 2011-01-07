@@ -66,9 +66,11 @@ Not later than thirty-six months after November 8, 1984, the Administrator shall
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–119 designated existing provisions as par. (1), inserted heading, and added pars. (2) to (6).
+<b>1996</b>—Subsec. (c). Pub. L. 104–119 designated existing provisions as par. (1), inserted heading, and added pars. (2) to (6).
 
 #### Reinstatement of Regulatory Exemption
 
 Section 3(b) of Pub. L. 104–119 provided that: “It is the intent of section 4010(c)(2) of the Solid Waste Disposal Act \[42 U.S.C. 6949a(c)(2)\], as added by subsection (a), to immediately reinstate subpart E of part 258 of title 40, Code of Federal Regulations, as added by the final rule published at 56 Federal Register 50798 on October 9, 1991.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “no-migration”.</i>
 

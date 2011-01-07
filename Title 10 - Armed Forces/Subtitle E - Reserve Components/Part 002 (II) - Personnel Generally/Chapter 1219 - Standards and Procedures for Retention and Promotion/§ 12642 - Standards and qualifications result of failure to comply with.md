@@ -1,6 +1,6 @@
 ### §12642. Standards and qualifications: result of failure to comply with
 
-(a) To be retained in an active status, a reserve commissioned officer must, in any applicable yearly period, attain the number of points under section 12732(a)(2) of this title prescribed by the Secretary concerned, with the approval of the Secretary of Defense in the case of a Secretary of a military department, and must conform to such other standards and qualifications as the Secretary concerned may prescribe. The Secretary may not prescribe a minimum of more than 50 points under this subsection.
+(a) To be retained in an active status, a reserve commissioned officer must, in any applicable yearly period, attain the number of points under section 12732(a)(2) of this title prescribedby the Secretary concerned, with the approval of the Secretary of Defense in the case of a Secretary of a military department, and must conform to such other standards and qualifications as the Secretary concerned may prescribe. The Secretary may not prescribe a minimum of more than 50 points under this subsection.
 
 (b) Subject to section 12645 of this title, a reserve commissioned officer who fails to attain the number of points, or to conform to the standards and qualifications, prescribed in subsection (a) shall—
 
@@ -52,15 +52,15 @@ In subsection (a), the word “minimum” is omitted as surplusage. The last sen
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–163 struck out “and Territories” after “States”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–163 struck out “and Territories” after “States”.
 
-1994—Pub. L. 103–337, §1662(h)(2), renumbered section 1002 of this title as this section.
+<b>1994</b>—Pub. L. 103–337, §1662(h)(2), renumbered section 1002 of this title as this section.
 
 Subsec. (a). Pub. L. 103–337, §1675(d)(1)(A), substituted “12732(a)(2)” for “1332(a)(2)”.
 
 Subsec. (b). Pub. L. 103–337, §1675(d)(1)(B), substituted “12645” for “1005”.
 
-1988—Subsec. (c). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
 #### Effective Date of 1994 Amendment
 

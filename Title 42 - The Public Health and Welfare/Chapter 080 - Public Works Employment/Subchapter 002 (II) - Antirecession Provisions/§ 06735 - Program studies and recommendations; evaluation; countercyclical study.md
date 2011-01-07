@@ -18,7 +18,7 @@
 
 #### Amendments
 
-1977—Subsec. (c). Pub. L. 95–30 added subsec. (c).
+<b>1977</b>—Subsec. (c). Pub. L. 95–30 added subsec. (c).
 
 #### Termination of Trust Territory of the Pacific Islands
 

@@ -32,7 +32,7 @@ Mar. 26, 1938, ch. 52, §5, 52 Stat. 119.
 
 #### Amendments
 
-2000—Pub. L. 106–398 amended section catchline and text generally. Prior to amendment, section related to acceptance and administration of gifts, bequests, and loans for the benefit of the Naval Academy Museum.
+<b>2000</b>—Pub. L. 106–398 amended section catchline and text generally. Prior to amendment, section related to acceptance and administration of gifts, bequests, and loans for the benefit of the Naval Academy Museum.
 
 #### Consolidation of Naval Academy General Gift Fund and Naval Academy Museum Fund
 

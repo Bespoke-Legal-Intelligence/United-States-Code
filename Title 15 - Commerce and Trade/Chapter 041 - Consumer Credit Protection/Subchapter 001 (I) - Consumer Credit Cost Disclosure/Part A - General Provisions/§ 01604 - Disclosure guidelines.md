@@ -14,7 +14,7 @@ Model disclosure forms and clauses shall be adopted by the Board after notice du
 
 #### (d) Effective dates of regulations containing new disclosure requirements
 
-Any regulation of the Board, or any amendment or interpretation thereof, requiring any disclosure which differs from the disclosures previously required by this part, part D, or part E of this subchapter or by any regulation of the Board promulgated thereunder shall have an effective date of that October 1 which follows by at least six months the date of promulgation, except that the Board may at its discretion take interim action by regulation, amendment, or interpretation to lengthen the period of time permitted for creditors or lessors to adjust their forms to accommodate new requirements or shorten the length of time for creditors or lessors to make such adjustments when it makes a specific finding that such action is necessary to comply with the findings of a court or to prevent unfair or deceptive disclosure practices. Notwithstanding the previous sentence, any creditor or lessor may comply with any such newly promulgated disclosure requirements prior to the effective date of the requirements.
+Any regulation of the Board, or any amendment or interpretation thereof, requiring any disclosure which differs from the disclosures previously required by this part, part D, or part E of this subchapter or by any regulation of the Board promulgated thereunder shall have an effective date of that October 1 which follows by at least six months the date of promulgation, except that the Board may at its discretion take interim action by regulation, amendment, or interpretation to lengthen the period of time permitted for creditors or lessors to adjust their forms to accommodate new requirements orshorten the length of time for creditors or lessors to make such adjustments when it makes a specific finding that such action is necessary to comply with the findings of a court or to prevent unfair or deceptive disclosure practices. Notwithstanding the previous sentence, any creditor or lessor may comply with any such newly promulgated disclosure requirements prior to the effective date of the requirements.
 
 #### (f) <sup>1</sup> Exemption authority
 
@@ -60,17 +60,55 @@ Any regulation of the Board, or any amendment or interpretation thereof, requiri
 
 &emsp;The Board, at its discretion, may adjust the annual earned income and net asset requirements of paragraph (1) for inflation.
 
-(Pub. L. 90–321, title I, §105, May 29, 1968, 82 Stat. 148; Pub. L. 96–221, title VI, §605, Mar. 31, 1980, 94 Stat. 170; Pub. L. 103–325, title I, §152(e)(2)(A), Sept. 23, 1994, 108 Stat. 2194; Pub. L. 104–208, div. A, title II, §§2102(b), 2104, Sept. 30, 1996, 110 Stat. 3009–399, 3009–401.)
+(Pub. L. 90–321, title I, §105, May 29, 1968, 82 Stat. 148; Pub. L. 96–221, title VI, §605, Mar. 31, 1980, 94 Stat. 170; Pub. L. 103–325, title I, §152(e)(2)(A), Sept. 23, 1994, 108 Stat. 2194; Pub. L. 104–208, div. A, title II, §§2102(b), 2104, Sept. 30, 1996, 110 Stat. 3009–399, 3009–401; Pub. L. 111–203, title X, §1100A(2), (4)–(7), title XIV, §1472(c), July 21, 2010, 124 Stat. 2107, 2108, 2190.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1100A(2), (4)–(7), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended—</i>
+
+<i>(1) by striking “Board” each place that term appears, other than in subsection (i), set out below, and inserting “Bureau”;</i>
+
+<i>(2) in subsection (a), in the second sentence—</i>
+
+<i>(A) by striking “Except in the case of a mortgage referred to in section 1602(aa) of this title, these regulations may contain such” and inserting “Except with respect to the provisions of section 1639 of this title that apply to a mortgage referred to in section 1602(aa) of this title, such regulations may contain such additional requirements,”; and</i>
+
+<i>(B) by inserting “all or” after “exceptions for”;</i>
+
+<i>(3) in subsection (b), by striking the first sentence and inserting the following: “The Bureau shall publish a single, integrated disclosure for mortgage loan transactions (including real estate settlement cost statements) which includes the disclosure requirements of this subchapter in conjunction with the disclosure requirements of the Real Estate Settlement Procedures Act of 1974 that, taken together, may apply to a transaction that is subject to both or either provisions of law. The purpose of such model disclosure shall be to facilitate compliance with the disclosure requirements of this subchapter and the Real Estate Settlement Procedures Act of 1974, and to aid the borrower or lessee in understanding the transaction by utilizing readily understandable language to simplify the technical nature of the disclosures.”;</i>
+
+<i>(4) in subsection (f)(1), by inserting “all or” after “from all or part of this subchapter”; and</i>
+
+<i>(5) by adding at the end the following:</i>
+
+#### <i>“(i) Authority of the Board to prescribe rules</i>
+
+<i>“Notwithstanding subsection (a), the Board shall have authority to prescribe rules under this subchapter with respect to a person described in section 5519(a) of title 12. Regulations prescribed under this subsection may contain such classifications, differentiations, or other provisions, as in the judgment of the Board are necessary or proper to effectuate the purposes of this subchapter, to prevent circumvention or evasion thereof, or to facilitate compliance therewith.”</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
+
+<i>Pub. L. 111–203, title XIV, §§1400(c), 1472(c), July 21, 2010, 124 Stat. 2136, 2190, provided that, effective on the date on which final regulations</i><i>implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, this section is amended by adding at the end the following:</i>
+
+#### <i>“(h) Deference</i>
+
+<i>“Notwithstanding any power granted to any Federal agency under this subchapter, the deference that a court affords to the Bureau with respect to a determination made by the Bureau relating to the meaning or interpretation of any provision of this subchapter, other than section 1639e or 1639h of this title, shall be applied as if the Bureau were the only agency authorized to apply, enforce, interpret, or administer the provisions of this subchapter.”</i>
+
+<i>See Effective Date of 2010 Amendment notes below.</i>
 
 #### Amendments
 
-1996—Subsec. (f). Pub. L. 104–208, §2102(b), added subsec. (f).
+<b>1996</b>—Subsec. (f). Pub. L. 104–208, §2102(b), added subsec. (f).
 
 Subsec. (g). Pub. L. 104–208, §2104, added subsec. (g).
 
-1994—Subsec. (a). Pub. L. 103–325 substituted “Except in the case of a mortgage referred to in section 1602(aa) of this title, these” for “These” in second sentence.
+<b>1994</b>—Subsec. (a). Pub. L. 103–325 substituted “Except in the case of a mortgage referred to in section 1602(aa) of this title, these” for “These” in second sentence.
 
-1980—Pub. L. 96–221 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
+<b>1980</b>—Pub. L. 96–221 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 1100A(2), (4)–(7) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+
+Amendment by section 1472(c) of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of this title.
 
 #### Effective Date of 1980 Amendment
 

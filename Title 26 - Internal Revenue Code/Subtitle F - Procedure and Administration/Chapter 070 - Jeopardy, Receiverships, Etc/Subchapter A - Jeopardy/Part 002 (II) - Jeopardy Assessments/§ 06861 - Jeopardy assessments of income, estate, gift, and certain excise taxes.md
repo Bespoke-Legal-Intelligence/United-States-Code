@@ -10,7 +10,7 @@ If the jeopardy assessment is made before any notice in respect of the tax to wh
 
 #### (c) Amount assessable before decision of Tax Court
 
-The jeopardy assessment may be made in respect of a deficiency greater or less than that notice of which has been mailed to the taxpayer, despite the provisions of section 6212(c) prohibiting the determination of additional deficiencies, and whether or not the taxpayer has theretofore filed a petition with the Tax Court. The Secretary may, at any time before the decision of the Tax Court is rendered, abate such assessment, or any unpaid portion thereof, to the extent that he believes the assessment to be excessive in amount. The Secretary shall notify the Tax Court of the amount of such assessment, or abatement, if the petition is filed with the Tax Court before the making of the assessment or is subsequently filed, and the Tax Court shall have jurisdiction to redetermine the entire amount of the deficiency and of all amounts assessed at the same time in connection therewith.
+The jeopardy assessment may be made in respect of a deficiency greater or less than that notice of which has been mailed to the taxpayer, despite the provisions of section 6212(c) prohibiting the determination of additional deficiencies, and whether or not the taxpayer has theretofore filed a petition with the Tax Court. The Secretary may, at any time before the decision of the Tax Court is rendered, abate such assessment, or any unpaid portion thereof, to the extent that he believes the assessment to be excessive in amount. The Secretary shall notify the Tax Court of the amount of such assessment, or abatement, if the petition is filed with the TaxCourt before the making of the assessment or is subsequently filed, and the Tax Court shall have jurisdiction to redetermine the entire amount of the deficiency and of all amounts assessed at the same time in connection therewith.
 
 #### (d) Amount assessable after decision of Tax Court
 
@@ -38,9 +38,9 @@ The Secretary may abate the jeopardy assessment if he finds that jeopardy does n
 
 #### Amendments
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1974—Pub. L. 93–406 substituted “, gift, and certain excise taxes” for “and gift taxes” in section catchline.
+<b>1974</b>—Pub. L. 93–406 substituted “, gift, and certain excise taxes” for “and gift taxes” in section catchline.
 
 #### Effective Date of 1974 Amendment
 

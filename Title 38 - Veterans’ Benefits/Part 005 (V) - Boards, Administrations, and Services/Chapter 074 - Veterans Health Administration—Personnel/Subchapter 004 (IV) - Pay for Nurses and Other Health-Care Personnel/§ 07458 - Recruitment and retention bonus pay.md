@@ -18,7 +18,7 @@
 
 (2)(A) The Secretary may make a payment in an amount not in excess of 25 percent of the total bonus in a lump sum at the time that the period of obligated service commences under the agreement.
 
-(B) If the Secretary makes a lump-sum payment under subparagraph (A) of this paragraph, the remaining balance of the bonus shall be paid in equal installments after each year of serviceis completed throughout the period of obligated service specified in the agreement.
+(B) If the Secretary makes a lump-sum payment under subparagraph (A) of this paragraph, the remaining balance of the bonus shall be paid in equal installments after each year of service is completed throughout the period of obligated service specified in the agreement.
 
 (d)(1) A bonus paid to any individual under this section shall be in addition to any pay or allowance to which the individual is entitled.
 
@@ -42,13 +42,13 @@
 
 #### Amendments
 
-2008—Subsec. (b)(2). Pub. L. 110–387 substituted “pro-rated” for “pro rated”.
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–387 substituted “pro-rated” for “pro rated”.
 
-1994—Pub. L. 103–446 substituted “Recruitment and retention bonus pay” for “Recruitment and retention bonus pay for nurses and certain other health-care personnel” as section catchline.
+<b>1994</b>—Pub. L. 103–446 substituted “Recruitment and retention bonus pay” for “Recruitment and retention bonus pay for nurses and certain other health-care personnel” as section catchline.
 
-1992—Subsec. (e). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+<b>1992</b>—Subsec. (e). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1991—Pub. L. 102–40 renumbered section 4120 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4120 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 

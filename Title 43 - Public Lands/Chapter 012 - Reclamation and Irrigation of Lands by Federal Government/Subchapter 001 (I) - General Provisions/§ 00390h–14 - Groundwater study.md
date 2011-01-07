@@ -8,7 +8,7 @@ In furtherance of the High Plains Groundwater Demonstration Program Act of 1983 
 
 &emsp;(2) a description of methods for optimizing Bureau of Reclamation project operations to ameliorate adverse impacts on groundwater,<sup>1</sup> and
 
-&emsp;(3) the Secretary's recommendations, along with the recommendations of the Governors of the affected States, concerning the establishment of a groundwater management and technical assistance program in the Department of the Interior in order to assist Federal and non-Federal entity development and implementation of groundwater management plans and activities.
+&emsp;(3) the Secretary's recommendations, along with the recommendations of the Governors of the affected States, concerning the establishment of a groundwater management and technical assistance program in the Department ofthe Interior in order to assist Federal and non-Federal entity development and implementation of groundwater management plans and activities.
 
 #### (b) Consultation with Governors
 
@@ -26,9 +26,9 @@ The High Plains Groundwater Demonstration Program Act of 1983, referred to in su
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–266, §2(b)(2), made technical amendment to reference in original act which appears in text as reference to section 390h–15 of this title.
+<b>1996</b>—Subsec. (c). Pub. L. 104–266, §2(b)(2), made technical amendment to reference in original act which appears in text as reference to section 390h–15 of this title.
 
-1994—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House”.
 
 #### Change of Name
 

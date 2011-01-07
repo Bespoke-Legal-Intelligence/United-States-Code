@@ -10,7 +10,7 @@
 
 #### (B) Extension of period to reinvestigate
 
-&emsp;&emsp;Except as provided in subparagraph (C), the 30-day period described in subparagraph (A) may be extended for not more than 15 additional days if the consumer reportingagency receives information from the consumer during that 30-day period that is relevant to the reinvestigation.
+&emsp;&emsp;Except as provided in subparagraph (C), the 30-day period described in subparagraph (A) may be extended for not more than 15 additional days if the consumer reporting agency receives information from the consumer during that 30-day period that is relevant to the reinvestigation.
 
 #### (C) Limitations on extension of period to reinvestigate
 
@@ -108,7 +108,7 @@
 
 #### (7) Description of reinvestigation procedure
 
-&emsp;A consumer reporting agency shall provide to a consumer a description referred to in paragraph (6)(B)(iii) by not later than 15 days after receiving a request from the consumer for that description.
+&emsp;A consumer reporting agency shall provide to a consumer a description referred to inparagraph (6)(B)(iii) by not later than 15 days after receiving a request from the consumer for that description.
 
 #### (8) Expedited dispute resolution
 
@@ -138,7 +138,7 @@ Following any deletion of information which is found to be inaccurate or whose a
 
 &emsp;The Commission shall—
 
-&emsp;&emsp;(A) compile all complaints that it receives that a file of a consumer that is maintainedby a consumer reporting agency described in section 1681a(p) of this title contains incomplete or inaccurate information, with respect to which, the consumer appears to have disputed the completeness or accuracy with the consumer reporting agency or otherwise utilized the procedures provided by subsection (a) of this section; and
+&emsp;&emsp;(A) compile all complaints that it receives that a file of a consumer that is maintained by a consumer reporting agency described in section 1681a(p) of this title contains incomplete or inaccurate information, with respect to which, the consumer appears to have disputed the completeness or accuracy with the consumer reporting agency or otherwise utilized the procedures provided by subsection (a) of this section; and
 
 &emsp;&emsp;(B) transmit each such complaint to each consumer reporting agency involved.
 
@@ -194,7 +194,21 @@ Following any deletion of information which is found to be inaccurate or whose a
 
 &emsp;No provision of this subsection shall be construed as prohibiting a reseller from conducting a reinvestigation of a consumer dispute directly.
 
-(Pub. L. 90–321, title VI, §611, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, §2409, Sept. 30, 1996, 110 Stat. 3009–439; Pub. L. 105–347, §6(5), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title III, §§313(a), 314(a), 316, 317, Dec. 4, 2003, 117 Stat. 1994–1996, 1998.)
+(Pub. L. 90–321, title VI, §611, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, §2409, Sept. 30, 1996, 110 Stat. 3009–439; Pub. L. 105–347, §6(5), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title III, §§313(a), 314(a), 316, 317, Dec. 4, 2003, 117 Stat. 1994–1996, 1998; Pub. L. 111–203, title X, §1088(a)(2)(C), (6), July 21, 2010, 124 Stat. 2087.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1088(a)(2)(C), (6), 1100H, July 21, 2010, 124 Stat. 2087, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
+
+<i>(1) by striking “the Commission” each place that term appears and inserting “the Bureau”; and</i>
+
+<i>(2) in subsection (e), by striking paragraph (2) and inserting the following:</i>
+
+#### <i>“(2) Exclusion</i>
+
+&emsp;<i>“Complaints received or obtained by the Bureau pursuant to its investigative authority under the Consumer Financial Protection Act of 2010 shall not be subject to paragraph (1).”</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -202,7 +216,7 @@ The Federal Trade Commission Act, referred to in subsec. (e)(2), is act Sept. 26
 
 #### Amendments
 
-2003—Subsec. (a)(1)(A). Pub. L. 108–159, §317, substituted “shall, free of charge, conduct a reasonable reinvestigation to determine whether the disputed information is inaccurate” for “shall reinvestigate free of charge”.
+<b>2003</b>—Subsec. (a)(1)(A). Pub. L. 108–159, §317, substituted “shall, free of charge, conduct a reasonable reinvestigation to determine whether the disputed information is inaccurate” for “shall reinvestigate free of charge”.
 
 Pub. L. 108–159, §316(a)(1), substituted “Subject to subsection (f) of this section, if the completeness” for “If the completeness” and inserted “, or indirectly through a reseller,” after “notifies the agency directly” and “or reseller” before period at end.
 
@@ -218,11 +232,15 @@ Subsec. (e). Pub. L. 108–159, §313(a), added subsec. (e).
 
 Subsec. (f). Pub. L. 108–159, §316(b), added subsec. (f).
 
-1998—Subsec. (a)(7). Pub. L. 105–347 substituted “(6)(B)(iii)” for “(6)(B)(iv)”.
+<b>1998</b>—Subsec. (a)(7). Pub. L. 105–347 substituted “(6)(B)(iii)” for “(6)(B)(iv)”.
 
-1996—Subsec. (a). Pub. L. 104–208, §2409(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “If the completeness or accuracy of any item of information contained in his file is disputed by a consumer, and such dispute is directly conveyed to the consumer reporting agency by the consumer, the consumer reporting agency shall within a reasonable period of time reinvestigate and record the current status of that information unless it has reasonable grounds to believe that the dispute by the consumer is frivolous or irrelevant. If after such reinvestigation such information is found to be inaccurate or can no longer be verified, the consumer reporting agency shall promptly delete such information. The presence of contradictory information in the consumer's file does not in and of itself constitute reasonable grounds for believing the dispute is frivolous or irrelevant.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2409(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “If the completeness or accuracy of any item of information contained in his file is disputed by a consumer, and such dispute is directly conveyed to the consumer reporting agency by the consumer, the consumer reporting agency shall within a reasonable period of time reinvestigate and record the current status of that information unless it has reasonable grounds to believe that the dispute by the consumer is frivolous or irrelevant. If after such reinvestigation such information is found to be inaccurate or can no longer be verified, the consumer reporting agency shall promptly delete such information. The presence of contradictory information in the consumer's file does not in and of itself constitute reasonable grounds for believing the dispute is frivolous or irrelevant.”
 
 Subsec. (d). Pub. L. 104–208, §2409(b), struck out at end “The consumer reporting agency shall clearly and conspicuously disclose to the consumer his rights to make such a request. Such disclosure shall be made at or prior to the time the information is deleted or the consumer's statement regarding the disputed information is received.”
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2003 Amendment
 
@@ -234,7 +252,7 @@ Amendment by Pub. L. 105–347 deemed to have same effective date as amendments 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
+Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance,see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
 
 #### Prompt Investigation of Disputed Consumer Information
 

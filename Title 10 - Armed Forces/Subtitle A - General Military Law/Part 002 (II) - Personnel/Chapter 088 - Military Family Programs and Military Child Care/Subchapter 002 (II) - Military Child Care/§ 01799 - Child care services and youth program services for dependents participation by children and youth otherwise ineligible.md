@@ -22,7 +22,7 @@ Objectives.—The objectives for authorizing participation in a program under su
 
 #### Amendments
 
-2002—Subsec. (d). Pub. L. 107–314 struck out heading and text of subsec. (d). Text read as follows:
+<b>2002</b>—Subsec. (d). Pub. L. 107–314 struck out heading and text of subsec. (d). Text read as follows:
 
 “(1) Every two years the Secretary of Defense shall submit to Congress a report on the exercise of authority under this section. The report shall include an evaluation of the effectiveness of that authority for achieving the objectives set out under subsection (c). The report may include any recommendations for legislation that the Secretary considers appropriate to enhance the capability of the Department of Defense to attain those objectives.
 

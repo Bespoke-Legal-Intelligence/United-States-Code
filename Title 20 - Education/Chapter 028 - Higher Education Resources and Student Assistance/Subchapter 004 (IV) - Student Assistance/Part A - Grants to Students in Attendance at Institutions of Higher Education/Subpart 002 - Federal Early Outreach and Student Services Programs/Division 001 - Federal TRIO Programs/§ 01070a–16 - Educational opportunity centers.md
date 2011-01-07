@@ -54,7 +54,7 @@ In approving applications for educational opportunity centers under this section
 
 #### Amendments
 
-2008—Subsec. (a)(3). Pub. L. 110–315, §403(f)(1), added par. (3).
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–315, §403(f)(1), added par. (3).
 
 Subsec. (b)(5), (6). Pub. L. 110–315, §403(f)(2)(A), (B), added par. (5) and redesignated former par. (5) as (6). Former par. (6) redesignated (7).
 

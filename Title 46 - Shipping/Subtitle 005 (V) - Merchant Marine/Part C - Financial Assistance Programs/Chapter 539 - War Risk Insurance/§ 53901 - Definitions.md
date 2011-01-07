@@ -18,7 +18,7 @@ Cargo.—The term “cargo” includes a loaded or empty container on a vessel.
 
 &emsp;(3)
 
-Transportation in the waterborne commerce of the united states.—The term“transportation in the waterborne commerce of the United States” includes the operation of a vessel in the fisheries, except only for sport fishing.
+Transportation in the waterborne commerce of the united states.—The term “transportation in the waterborne commerce of the United States” includes the operation of a vessel in the fisheries, except only for sport fishing.
 
 &emsp;(4)
 

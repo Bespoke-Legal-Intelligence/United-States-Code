@@ -28,7 +28,7 @@ For the purposes of this Act, the term—
 
 &emsp;(13) “guarantor” means any person, other than the responsible party, who provides evidence of financial responsibility for a responsible party under this Act;
 
-&emsp;(14) “incident” means any occurrence or series of occurrences having the same origin, involving one or more vessels, facilities, or anycombination thereof, resulting in the discharge or substantial threat of discharge of oil;
+&emsp;(14) “incident” means any occurrence or series of occurrences having the same origin, involving one or more vessels, facilities, or any combination thereof, resulting in the discharge or substantial threat of discharge of oil;
 
 &emsp;(15) “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, but not including any Alaska Native regional or village corporation, which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians and has governmental authority over lands belonging to or controlled by the tribe;
 
@@ -114,7 +114,7 @@ For the purposes of this Act, the term—
 
 &emsp;(28) “permittee” means a person holding an authorization, license, or permit for geological exploration issued under section 11 of the Outer Continental Shelf Lands Act (43 U.S.C. 1340) or applicable State law;
 
-&emsp;(29) “public vessel” means a vessel owned or bareboat chartered and operated by the United States, or by a State or political subdivision thereof, or by a foreign nation, except when the vessel is engaged in commerce;
+&emsp;(29) “public vessel” means a vessel owned or bareboat chartered and operated by the United States, or by a State or political subdivisionthereof, or by a foreign nation, except when the vessel is engaged in commerce;
 
 &emsp;(30) “remove” or “removal” means containment and removal of oil or a hazardous substance from water and shorelines or the taking of other actions as may be necessary to minimize or mitigate damage to the public health or welfare, including, but not limited to, fish, shellfish, wildlife, and public and private property, shorelines, and beaches;
 
@@ -124,7 +124,7 @@ For the purposes of this Act, the term—
 
 &emsp;&emsp;(A)
 
-Vessels.—In the case of a vessel, any person owning, operating, or demise chartering the vessel.
+Vessels.—In the case of a vessel, any person owning, operating, or demise chartering the vessel. In the case of a vessel, the term “responsible party” also includes the owner of oil being transported in a tank vessel with a single hull after December 31, 2010 (other than a vessel described in section 3703a(b)(3) of title 46).
 
 &emsp;&emsp;(B)
 
@@ -204,7 +204,7 @@ Abandonment.—In the case of an abandoned vessel, onshore facility, deepwater p
 
 &emsp;(44) “security interest” has the meaning provided in section 101(20)(G)(vi) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (42 U.S.C. 9601(20)(G)(vi)).
 
-(Pub. L. 101–380, title I, §1001, Aug. 18, 1990, 104 Stat. 486; Pub. L. 105–383, title III, §307(a), Nov. 13, 1998, 112 Stat. 3421; Pub. L. 108–293, title VII, §703(a), (b), Aug. 9, 2004, 118 Stat. 1069, 1071.)
+(Pub. L. 101–380, title I, §1001, Aug. 18, 1990, 104 Stat. 486; Pub. L. 105–383, title III, §307(a), Nov. 13, 1998, 112 Stat. 3421; Pub. L. 108–293, title VII, §703(a), (b), Aug. 9, 2004, 118 Stat. 1069, 1071; Pub. L. 111–281, title VII, §713, Oct. 15, 2010, 124 Stat. 2988.)
 
 #### References in Text
 
@@ -220,11 +220,13 @@ The Comprehensive Environmental Response, Compensation, and Liability Act, refer
 
 #### Amendments
 
-2004—Par. (26). Pub. L. 108–293, §703(a), amended par. (26) generally. Prior to amendment, par. (26) read as follows: “ ‘owner or operator’ means (A) in the case of a vessel, any person owning, operating, or chartering by demise, the vessel, and (B) in the case of an onshore facility, and an offshore facility, any person owning or operating such onshore facility or offshore facility, and (C) in the case of any abandoned offshore facility, the person who owned or operated such facility immediately prior to such abandonment;”.
+<b>2010</b>—Par. (32)(A). Pub. L. 111–281 inserted “In the case of a vessel, the term ‘responsible party’ also includes the owner of oil being transported in a tank vessel with a single hull after December 31, 2010 (other than a vessel described in section 3703a(b)(3) of title 46).” after “chartering the vessel.”
+
+<b>2004</b>—Par. (26). Pub. L. 108–293, §703(a), amended par. (26) generally. Prior to amendment, par. (26) read as follows: “ ‘owner or operator’ means (A) in the case of a vessel, any person owning, operating, or chartering by demise, the vessel, and (B) in the case of an onshore facility, and an offshore facility, any person owning or operating such onshore facility or offshore facility, and (C) in the case of any abandoned offshore facility, the person who owned or operated such facility immediately prior to such abandonment;”.
 
 Pars. (38) to (44). Pub. L. 108–293, §703(b), added pars. (38) to (44).
 
-1998—Par. (23). Pub. L. 105–383 amended par. (23) generally. Prior to amendment, par. (23) read as follows: “ ‘oil’ means oil of any kind or in any form, including, but not limited to, petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes other than dredged spoil, but does not include petroleum, including crude oil or any fraction thereof, which is specifically listed or designated as a hazardous substance under subparagraphs (A) through (F) of section 101(14) of the Comprehensive Environmental Response, Compensation, and Liability Act (42 U.S.C. 9601) and which is subject to the provisions of that Act;”.
+<b>1998</b>—Par. (23). Pub. L. 105–383 amended par. (23) generally. Prior to amendment, par. (23) read as follows: “ ‘oil’ means oil of any kind or in any form, including, but not limited to, petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes other than dredged spoil, but does not include petroleum, including crude oil or any fraction thereof, which is specifically listed or designated as a hazardous substance under subparagraphs (A) through (F) of section 101(14) of the Comprehensive Environmental Response, Compensation, and Liability Act (42 U.S.C. 9601) and which is subject to the provisions of that Act;”.
 
 #### Effective Date
 
@@ -244,7 +246,7 @@ Pub. L. 101–537, title II, §2001, Nov. 8, 1990, 104 Stat. 2375, and Pub. L. 1
 
 #### Short Title
 
-Section 1 of Pub. L. 101–380 provided that: “This Act \[enacting this chapter, sections 1642 and 1656 of Title 43, Public Lands, sections 3703a and 7505 of Title 46, Shipping, and section 1274a of the Appendix to Title 46, amending sections 1223, 1228, 1232, 1236, 1319, 1321, 1481, 1486, 1503, 1514, and 1908 of this title, section 3145 of Title 16, Conservation, sections 4612 and 9509 of Title 26, Internal Revenue Code, sections 1334, 1350, and 1653 of Title 43, sections 2101, 2302, 3318, 3715, 3718, 5116, 6101, 7101, 7106, 7107, 7109, 7302, 7502, 7503, 7701 to 7703, 8101, 8104, 8502, 8503, 8702, 9101, 9102, 9302, 9308, and 12106 of Title 46, and section 1274 of the Appendix to Title 46, repealing section 1517 of this title and sections 1811 and 1812 to 1824 of Title 43, enacting provisions set out as notes under this section, sections 1203, 1223, and 1321, of this title, section 92 of Title 14, Coast Guard, section 9509 of Title 26, sections 1334, 1651, and 1653 of Title 43, sections 3703, 3703a, and 7106 of Title 46, and section 1295 of the Appendix to Title 46, amending provisions set out as a note under section 401 of Title 23, Highways, and repealing provisions set out as a note under section 1811 of Title 43\] may be cited as the ‘Oil Pollution Act of 1990’.”
+Section 1 of Pub. L. 101–380 provided that: “This Act \[enacting this chapter, sections 1642 and 1656 of Title 43, Public Lands, sections 3703a and 7505 of Title 46, Shipping, and section 1274a of the Appendix to Title 46, amending sections 1223, 1228, 1232, 1236, 1319, 1321, 1481, 1486, 1503, 1514, and 1908 of this title, section 3145 of Title 16, Conservation, sections 4612 and 9509 of Title 26, Internal Revenue Code, sections 1334, 1350, and 1653 of Title 43, sections 2101, 2302, 3318, 3715, 3718, 5116, 6101, 7101, 7106, 7107, 7109, 7302, 7502, 7503, 7701 to 7703, 8101, 8104, 8502, 8503, 8702, 9101, 9102, 9302, 9308, and 12106 of Title 46, and section 1274 of the Appendix to Title 46, repealing section 1517 of this title and sections 1811 and 1812 to 1824 of Title 43, enacting provisions set out as notes under this section, sections 1203, 1223, and 1321, of this title, section 92 of Title 14, Coast Guard, section 9509 of Title 26, sections 1334, 1651, and 1653 of Title 43, sections 3703, 3703a, and 7106 of Title 46, and section 1295 of the Appendix to Title 46, amending provisions setout as a note under section 401 of Title 23, Highways, and repealing provisions set out as a note under section 1811 of Title 43\] may be cited as the ‘Oil Pollution Act of 1990’.”
 
 #### Transfer of Functions
 

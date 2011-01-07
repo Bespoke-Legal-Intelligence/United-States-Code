@@ -6,7 +6,7 @@
 
 (2) Notwithstanding the percentage limitation contained in paragraph (1) of this subsection—
 
-&emsp;(A) utilizing the definition of average pay contained in section 8331(4) of title 5, the annuity of a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development, who was appointed to a law enforcementposition, as defined in section 8331(20) of title 5, prior to January 1, 1984, and would have been eligible to retire pursuant to section 8336(c) of that title, after attaining 50 years of age and completing 20 years as a law enforcement officer had the employee remained in the civil service shall be computed in the same manner as that of a law enforcement officer pursuant to section 8339(d) of that title, except as provided in paragraph (3); and
+&emsp;(A) utilizing the definition of average pay contained in section 8331(4) of title 5, the annuity of a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development, who was appointed to a law enforcement position, as defined in section 8331(20) of title 5, prior to January 1, 1984, and would have been eligible to retire pursuant to section 8336(c) of that title, after attaining 50 years of age and completing 20 years as a law enforcement officer had the employee remained in the civil service shall be computed in the same manner as that of a law enforcement officer pursuant to section 8339(d) of that title, except as provided in paragraph (3); and
 
 &emsp;(B) the annuity of a Foreign Service criminal investigator/inspector of such office, who was appointed to a law enforcement position as defined in section 8401(17) of that title on or after January 1, 1984, and who would have been eligible to retire pursuant to section 8412(d) of that title, after attaining 50 years of age and completing 20 years of service as such a law enforcement officer, had the employee remained in the civil service, shall be computed in the same manner as that of a law enforcement officer pursuant to section 8415(d) of that title.
 
@@ -50,13 +50,13 @@
 
 (1)(A) Except to the extent provided otherwise under a written election under subparagraph (B) or (C), if at the time of retirement a participant or former participant is married (or has a former spouse who has not remarried before attaining age 60), the participant shall receive a reduced annuity and provide a survivor annuity for his or her spouse under this subsection or former spouse under section 4054(b) of this title, or a combination of such annuities, as the case may be.
 
-(B) At the time of retirement, a married participant or former participant and his or her spouse may jointly elect in writing to waive a survivor annuity for that spouse under this section (or under section 4054(b) of this title if the spouse later qualifies as a former spouse undersection 4044(6) of this title), or to reduce such survivor annuity under this section (or section 4054(b) of this title) by designating a portion of the annuity of the participant as the base for the survivor benefit. In the event the marriage is dissolved following an election for such a reduced annuity and the spouse qualifies as a former spouse, the base used in calculating any annuity of the former spouse under section 4054(b) of this title may not exceed the portion of the participant's annuity designated under this subparagraph.
+(B) At the time of retirement, a married participant or former participant and his or her spouse may jointly elect in writing to waive a survivor annuity for that spouse under this section (or under section 4054(b) of this title if the spouse later qualifies as a former spouse under section 4044(6) of this title), or to reduce such survivor annuity under this section (or section 4054(b) of this title) by designating a portion of the annuity of the participant as the base for the survivor benefit. In the event the marriage is dissolved following an election for such a reduced annuity and the spouse qualifies as a former spouse, the base used in calculating any annuity of the former spouse under section 4054(b) of this title may not exceed the portion of the participant's annuity designated under this subparagraph.
 
 (C) If a participant or former participant has a former spouse, the participant and such former spouse may jointly elect by spousal agreement under section 4060(b)(1) of this title to waive a survivor annuity under section 4054(b) of this title for that former spouse if the election is made (i) before the end of the 24-month period after the divorce or annulment involving that former spouse becomes final or (ii) at the time of retirement, whichever occurs first.
 
 (D) The Secretary of State may prescribe regulations under which a participant or former participant may make an election under subparagraph (B) or (C) without the participant's spouse or former spouse if the participant establishes to the satisfaction of the Secretary of State that the participant does not know, and has taken all reasonable steps to determine, the whereabouts of the spouse or former spouse.
 
-(2) The annuity of a participant or former participant providing a survivor benefit under this section (or section 4054(b) of this title), excluding any portion of the annuity not designated or committed as a base for any survivor annuity, shall be reduced by 21/2 percent of the first $3,600 plus 10 percent of any amount over $3,600. The reduction under this paragraph shall be calculated before any reduction under section 4054(a)(5) of this title.
+(2) The annuity of a participant or former participant providing a survivor benefit under this section (or section 4054(b) of this title), excluding any portion of the annuity not designated or committed as a base for any survivor annuity, shall be reduced by 2½ percent of the first $3,600 plus 10 percent of any amount over $3,600. The reduction under this paragraph shall be calculated before any reduction under section 4054(a)(5) of this title.
 
 (3)(A) If a former participant entitled to receive a reduced annuity under this subsection dies and is survived by a spouse, a survivor annuity shall be paid to the surviving spouse equal to 55 percent of the full amount of the participant's annuity computed under subsection (a) of this section, or 55 percent of any lesser amount elected as the base for the survivor benefit under paragraph (1)(B).
 
@@ -94,7 +94,7 @@ The annuity payable to a child under subsection (c) or (d) of this section shall
 
 #### (f) Unmarried participants
 
-At the time of retirement an unmarried participant who does not have a former spouse for whose benefit a reduction is made under subsection (b) of this section may elect to receive a reduced annuity and to provide for an annuity equal to 55 percent of the reduced annuity payable after his or her death to a beneficiary whose name is designated in writing to the Secretary of State. The annuity payable to a participant making such election shall be reduced by 10 percent of an annuity computed under subsection (a) of this section and by 5 percent of an annuity so computed for each full 5 years the designated beneficiary is younger than the retiring participant, but such total reduction shall not exceed 40 percent. No such election of a reduced annuity payable to a beneficiary shall be valid until the participant has satisfactorily passed a physical examination as prescribed by the Secretary of State. The annuity payable to a beneficiary under this subsection shall beginon the day after the annuitant dies and shall terminate on the last day of the month preceding the death of the beneficiary. An annuity which is reduced under this subsection (or any similar prior provision of law) shall, effective the first day of the month following the death of the beneficiary named under this subsection, be recomputed and paid as if the annuity had not been so reduced.
+At the time of retirement an unmarried participant who does not have a former spouse for whose benefit a reduction is made under subsection (b) of this section may elect to receive a reduced annuity and to provide for an annuity equal to 55 percent of the reduced annuity payable after his or her death to a beneficiary whose name is designated in writing to the Secretary of State. The annuity payable to a participant making such election shall be reduced by 10 percent of an annuity computed under subsection (a) of this section and by 5 percent of an annuity so computed for each full 5 years the designated beneficiary is younger than the retiring participant, but such total reduction shall not exceed 40 percent. No such election of a reduced annuity payable to a beneficiary shall be valid until the participant has satisfactorily passed a physical examination as prescribed by the Secretary of State. The annuity payable to a beneficiary under this subsection shall begin on the day after the annuitant dies and shall terminate on the last day of the month preceding the death of the beneficiary. An annuity which is reduced under this subsection (or any similar prior provision of law) shall, effective the first day of the month following the death of the beneficiary named under this subsection, be recomputed and paid as if the annuity had not been so reduced.
 
 #### (g) Marriage after retirement
 
@@ -108,7 +108,7 @@ A surviving spouse or surviving former spouse of any participant or former parti
 
 (1) Any married annuitant who reverts to retired status with entitlement to a supplemental annuity under section 4063 of this title shall, unless the annuitant and his or her spouse jointly elect in writing to the contrary at that time, have the supplemental annuity reduced by 10 percent to provide a supplemental survivor annuity for his or her spouse. Such supplemental survivor annuity shall be equal to 55 percent of the supplemental annuity of the annuitant and shall be payable to a surviving spouse to whom the annuitant was married at the time of reversion to retired status or whom the annuitant subsequently married.
 
-(2) The Secretary of State shall issue regulations to provide for the application of paragraph (1) of this subsection and of section 4063 of this title in any case in which an annuitant has a former spouse who was married to the participant at any time during a period of recall service and who qualifies for an annuity under this part.
+(2) The Secretary of State shall issue regulations to provide for the application of paragraph (1) of this subsection and of section 4063 of this title in any case in which an annuitant has aformer spouse who was married to the participant at any time during a period of recall service and who qualifies for an annuity under this part.
 
 #### (j) Recomputation upon dissolution of marriage; election after remarriage
 
@@ -166,7 +166,7 @@ The retirement, disability, or survivor annuity payable to any person based on t
 
 (5) Rights and obligations resulting from the election of a reduced annuity under this subsection shall be the same as the rights and obligations which would have resulted had the participant involved elected such annuity at the time of retiring.
 
-(Pub. L. 96–465, title I, §806, Oct. 17, 1980, 94 Stat. 2106; Pub. L. 99–335, title IV, §§402(a)(2), (3), 406, 407, June 6, 1986, 100 Stat. 609–611; Pub. L. 99–556, title IV, §402, Oct. 27, 1986, 100 Stat. 3136; Pub. L. 100–238, title II, §§213, 214(a), 217(c)(1), Jan. 8, 1988, 101 Stat. 1774, 1775; Pub. L. 101–513, title V, §587(a), Nov. 5, 1990, 104 Stat. 2055; Pub. L. 102–499, §4(d), Oct. 24, 1992, 106 Stat. 3266; Pub. L. 105–382, §2(d)(1)–(3)(A), Nov. 13, 1998, 112 Stat. 3407, 3408; Pub. L. 107–228, div. A, title III, §322(a)(1), Sept. 30, 2002, 116 Stat. 1383.)
+(Pub. L. 96–465, title I, §806, Oct. 17, 1980, 94 Stat. 2106; Pub. L. 99–335, title IV, §§402(a)(2), (3), 406, 407, June 6, 1986, 100 Stat. 609–611; Pub. L. 99–556, title IV, §402, Oct. 27, 1986, 100 Stat. 3136; Pub. L. 100–238, title II, §§213, 214(a), 217(c)(1), Jan. 8, 1988, 101 Stat. 1774, 1775; Pub. L. 101–513, title V,§587(a), Nov. 5, 1990, 104 Stat. 2055; Pub. L. 102–499, §4(d), Oct. 24, 1992, 106 Stat. 3266; Pub. L. 105–382, §2(d)(1)–(3)(A), Nov. 13, 1998, 112 Stat. 3407, 3408; Pub. L. 107–228, div. A, title III, §322(a)(1), Sept. 30, 2002, 116 Stat. 1383.)
 
 #### Amendment of Section
 
@@ -182,19 +182,19 @@ The Social Security Act, referred to in subsec. (m)(2), is act Aug. 14, 1935, ch
 
 #### Amendments
 
-2002—Subsec. (a)(9). Pub. L. 107–228 added par. (9).
+<b>2002</b>—Subsec. (a)(9). Pub. L. 107–228 added par. (9).
 
-1998—Subsec. (a)(6). Pub. L. 105–382, §2(d)(1), added par. (6). Former par. (6) redesignated (7).
+<b>1998</b>—Subsec. (a)(6). Pub. L. 105–382, §2(d)(1), added par. (6). Former par. (6) redesignated (7).
 
 Subsec. (a)(7). Pub. L. 105–382, §2(d)(2)(B), added par. (7). Former par. (7) redesignated (8).
 
 Subsec. (a)(8). Pub. L. 105–382, §2(d)(2)(A), (3)(A), redesignated par. (7) as (8) and substituted “(4), and (6)” for “and (4)”.
 
-1992—Subsec. (a)(6). Pub. L. 102–499 substituted “section 5545(c)(2)” for “section 5545(a)(2)”.
+<b>1992</b>—Subsec. (a)(6). Pub. L. 102–499 substituted “section 5545(c)(2)” for “section 5545(a)(2)”.
 
-1990—Subsec. (a). Pub. L. 101–513 designated existing provisions as par. (1) and added pars. (2) to (6).
+<b>1990</b>—Subsec. (a). Pub. L. 101–513 designated existing provisions as par. (1) and added pars. (2) to (6).
 
-1988—Subsec. (b)(1)(C). Pub. L. 100–238, §213(a), substituted “24-month” for “12-month”.
+<b>1988</b>—Subsec. (b)(1)(C). Pub. L. 100–238, §213(a), substituted “24-month” for “12-month”.
 
 Subsec. (c)(1), (2). Pub. L. 100–238, §214(a)(1), inserted “or a former spouse who is the natural or adoptive parent of a surviving child of the annuitant” after “survived by a spouse”.
 
@@ -204,7 +204,7 @@ Subsec. (i)(2). Pub. L. 100–238, §213(b), substituted “this part” for “
 
 Subsec. (<i>l</i>). Pub. L. 100–238, §217(c)(1), struck out subsec. (<i>l</i>) which set minimum rates for annuities paid under this part.
 
-1986—Subsecs. (b)(3)(C), (h). Pub. L. 99–335, §402(a)(3), inserted “under this part” after “payable from the Fund”.
+<b>1986</b>—Subsecs. (b)(3)(C), (h). Pub. L. 99–335, §402(a)(3), inserted “under this part” after “payable from the Fund”.
 
 Subsec. (<i>l</i>)(1), (2). Pub. L. 99–335, §402(a)(2), substituted “part” for “subchapter”.
 

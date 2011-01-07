@@ -92,8 +92,6 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### References in Text
 
-Immigration law, referred to in subsec. (b)(4), is classified generally to this title. See also section 1101(a)(17) of this title.
-
 Section 3 of the Immigration and Naturalization Service Data Management Improvement Act of 2000, referred to in subsec. (g), is section 3 of Pub. L. 106–215, set out as a note below.
 
 #### Codification

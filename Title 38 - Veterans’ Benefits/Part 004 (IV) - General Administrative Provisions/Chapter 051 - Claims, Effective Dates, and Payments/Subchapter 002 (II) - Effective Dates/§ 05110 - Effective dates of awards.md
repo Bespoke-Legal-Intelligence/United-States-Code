@@ -6,7 +6,7 @@
 
 (2) The effective date of an award of increased compensation shall be the earliest date as of which it is ascertainable that an increase in disability had occurred, if application is received within one year from such date.
 
-(3)(A) The effective date of an award of disability pension to a veteran described in subparagraph (B) of this paragraph shall be the date ofapplication or the date on which the veteran became permanently and totally disabled, if the veteran applies for a retroactive award within one year from such date, whichever is to the advantage of the veteran.
+(3)(A) The effective date of an award of disability pension to a veteran described in subparagraph (B) of this paragraph shall be the date of application or the date on which the veteran became permanently and totally disabled, if the veteran applies for a retroactive award within one year from such date, whichever is to the advantage of the veteran.
 
 (B) A veteran referred to in subparagraph (A) of this paragraph is a veteran who is permanently and totally disabled and who is prevented by a disability from applying for disability pension for a period of at least 30 days beginning on the date on which the veteran became permanently and totally disabled.
 
@@ -16,7 +16,7 @@
 
 (e)(1) Except as provided in paragraph (2) of this subsection, the effective date of an award of dependency and indemnity compensation to a child shall be the first day of the month in which the child's entitlement arose if application therefor is received within one year from such date.
 
-(2) In the case of a child who is eighteen years of age or over and who immediately before becoming eighteen years of age was counted under section 1311(b) of this title in determining the amount of the dependency and indemnity compensation of a surviving spouse, the effective date of an award of dependency and indemnity compensation to such child shall be the date the child attains the age of eighteen years if application therefor is received within one year from such date.
+(2) In the case of a child who is eighteen years of age or over and who immediately before becoming eighteen years of age was counted under section 1311(b) of this title in determining theamount of the dependency and indemnity compensation of a surviving spouse, the effective date of an award of dependency and indemnity compensation to such child shall be the date the child attains the age of eighteen years if application therefor is received within one year from such date.
 
 (f) An award of additional compensation on account of dependents based on the establishment of a disability rating in the percentage evaluation specified by law for the purpose shall be payable from the effective date of such rating; but only if proof of dependents is received within one year from the date of notification of such rating action.
 
@@ -36,15 +36,15 @@
 
 (n) The effective date of the award of any benefit or any increase therein by reason of marriage or the birth or adoption of a child shall be the date of such event if proof of such event is received by the Secretary within one year from the date of the marriage, birth, or adoption.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1226, §3010; Pub. L. 87–674, §3, Sept. 19, 1962, 76 Stat. 558; Pub. L. 87–825, §1, Oct. 15, 1962, 76 Stat. 948; Pub. L. 91–376, §7, Aug. 12, 1970, 84 Stat. 790; Pub. L. 91–584, §13, Dec. 24, 1970, 84 Stat. 1578; Pub. L. 93–177, §6(a), Dec. 6, 1973, 87 Stat. 696; Pub. L. 93–527, §9(b), Dec. 21, 1974, 88 Stat. 1705; Pub. L. 94–71, title I, §104, Aug. 5, 1975, 89 Stat. 396; Pub. L. 97–66, title II, §204(b), Oct. 17, 1981, 95 Stat. 1029; Pub. L. 98–160, title VII, §703(1), Nov. 21,1983, 97 Stat. 1010; Pub. L. 98–223, title II, §213(3), Mar. 2, 1984, 98 Stat. 46; Pub. L. 98–369, div. B, title V, §2501(a), July 18, 1984, 98 Stat. 1116; Pub. L. 99–576, title VII, §701(63), Oct. 28, 1986, 100 Stat. 3296; renumbered §5110 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(2)(A)(vi), (b)(4)(B), 5(c)(1), Aug. 6, 1991, 105 Stat. 403, 405, 406; Pub. L. 103–446, title XII, §1201(i)(8), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 108–454, title III, §305, Dec. 10, 2004, 118 Stat. 3611.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1226, §3010; Pub. L. 87–674, §3, Sept. 19, 1962, 76 Stat. 558; Pub. L. 87–825, §1, Oct. 15, 1962, 76 Stat. 948; Pub. L. 91–376, §7, Aug. 12, 1970, 84 Stat. 790; Pub. L. 91–584, §13, Dec. 24, 1970, 84 Stat. 1578; Pub. L. 93–177, §6(a), Dec. 6, 1973, 87 Stat. 696; Pub. L. 93–527, §9(b), Dec. 21, 1974, 88 Stat. 1705; Pub. L. 94–71, title I, §104, Aug. 5, 1975, 89 Stat. 396; Pub. L. 97–66, title II, §204(b), Oct. 17, 1981, 95 Stat. 1029; Pub. L. 98–160, title VII, §703(1), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 98–223, title II, §213(3), Mar. 2, 1984, 98 Stat. 46; Pub. L. 98–369, div. B, title V, §2501(a), July 18, 1984, 98 Stat. 1116; Pub. L. 99–576, title VII, §701(63), Oct. 28, 1986, 100 Stat. 3296; renumbered §5110 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(2)(A)(vi), (b)(4)(B), 5(c)(1), Aug. 6, 1991, 105 Stat. 403, 405, 406; Pub. L. 103–446, title XII, §1201(i)(8), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 108–454, title III, §305, Dec. 10, 2004, 118 Stat. 3611.)
 
 #### Amendments
 
-2004—Subsec. (d). Pub. L. 108–454 struck out par. (1) designation after subsec. (d) designation, substituted “death compensation, dependency and indemnity compensation, or death pension” for “death compensation or dependency and indemnity compensation”, and struck out par.(2) which read as follows: “The effective date of an award of death pension for which application is received within 45 days from the date of death shall be the first day of the month in which the death occurred.”
+<b>2004</b>—Subsec. (d). Pub. L. 108–454 struck out par. (1) designation after subsec. (d) designation, substituted “death compensation, dependency and indemnity compensation, or death pension” for “death compensation or dependency and indemnity compensation”, and struck out par.(2) which read as follows: “The effective date of an award of death pension for which application is received within 45 days from the date of death shall be the first day of the month in which the death occurred.”
 
-1994—Subsec. (m). Pub. L. 103–446 struck out subsec. (m) which read as follows: “The effective date of an award of benefits to a surviving spouse based upon termination of actions described in section 103(d)(3) of this title shall not be earlier than the date of receipt of application therefor filed after termination of such actions and after December 31, 1970.”
+<b>1994</b>—Subsec. (m). Pub. L. 103–446 struck out subsec. (m) which read as follows: “The effective date of an award of benefits to a surviving spouse based upon termination of actions described in section 103(d)(3) of this title shall not be earlier than the date of receipt of application therefor filed after termination of such actions and after December 31, 1970.”
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 3010 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 3010 of this title as this section.
 
 Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “1151” for “351”.
 
@@ -56,29 +56,29 @@ Subsec. (j). Pub. L. 102–83, §4(b)(4)(B), substituted “that Secretary” fo
 
 Subsec. (n). Pub. L. 102–83, §4(a)(2)(A)(vi), substituted “Secretary” for “Veterans’ Administration”.
 
-1986—Subsec. (b)(1). Pub. L. 99–576 substituted “the veteran's” for “his”.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–576 substituted “the veteran's” for “his”.
 
-1984—Subsec. (b)(3)(A). Pub. L. 98–369, §2501(a)(1), designated existing provisions as subpar. (A), inserted “described in subparagraph (B) of this paragraph” after “to a veteran”, substituted “the veteran applies for a retroactive award” for “an application therefor is received”, and added subpar. (B).
+<b>1984</b>—Subsec. (b)(3)(A). Pub. L. 98–369, §2501(a)(1), designated existing provisions as subpar. (A), inserted “described in subparagraph (B) of this paragraph” after “to a veteran”, substituted “the veteran applies for a retroactive award” for “an application therefor is received”, and added subpar. (B).
 
 Subsec. (d). Pub. L. 98–369, §2501(a)(2), designated existing provisions as par. (1), substituted “dependency and indemnity compensation for which application is received” for “, dependency and indemnity compensation, or death pension, where application is received”, and added par. (2).
 
 Subsec. (m). Pub. L. 98–223 substituted “section” for “subsection”.
 
-1983—Subsecs. (k) to (m). Pub. L. 98–160 substituted “surviving spouse” for “widow” wherever appearing.
+<b>1983</b>—Subsecs. (k) to (m). Pub. L. 98–160 substituted “surviving spouse” for “widow” wherever appearing.
 
-1981—Subsec. (e). Pub. L. 97–66 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2) of this subsection, the” for “The”, and added par. (2).
+<b>1981</b>—Subsec. (e). Pub. L. 97–66 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2) of this subsection, the” for “The”, and added par. (2).
 
-1975—Subsec. (b)(2), (3). Pub. L. 94–71 added par. (2) and redesignated former par. (2) as (3).
+<b>1975</b>—Subsec. (b)(2), (3). Pub. L. 94–71 added par. (2) and redesignated former par. (2) as (3).
 
-1974—Subsec. (<i>l</i>). Pub. L. 93–527 inserted provisions relating to an award or increase of benefits based on recognition of a child upon termination of the child's marriage by death or divorce.
+<b>1974</b>—Subsec. (<i>l</i>). Pub. L. 93–527 inserted provisions relating to an award or increase of benefits based on recognition of a child upon termination of the child's marriage by death or divorce.
 
-1973—Subsec. (b). Pub. L. 93–177 designated existing provisions as par. (1) and added par. (2).
+<b>1973</b>—Subsec. (b). Pub. L. 93–177 designated existing provisions as par. (1) and added par. (2).
 
-1970—Subsecs. (<i>l</i>), (m). Pub. L. 91–376 added subsecs. (<i>l</i>) and (m).
+<b>1970</b>—Subsecs. (<i>l</i>), (m). Pub. L. 91–376 added subsecs. (<i>l</i>) and (m).
 
 Subsec. (n). Pub. L. 91–584 added subsec. (n).
 
-1962—Subsec. (a). Pub. L. 87–825 inserted “based on an original claim, a claim reopened after final adjudication, or a claim for increase”.
+<b>1962</b>—Subsec. (a). Pub. L. 87–825 inserted “based on an original claim, a claim reopened after final adjudication, or a claim for increase”.
 
 Subsec. (c). Pub. L. 87–825 added subsec. (c). Former subsec. (c) redesignated (d).
 

@@ -16,7 +16,7 @@ This part, referred to in text, was in the original “this subtitle”, meaning
 
 #### Amendments
 
-1996—Pub. L. 104–295 substituted “subsection (d)(1)(C)(i) of section 2252” for “section 2252(d)(1)(C)(i) of section 2252”.
+<b>1996</b>—Pub. L. 104–295 substituted “subsection (d)(1)(C)(i) of section 2252” for “section 2252(d)(1)(C)(i) of section 2252”.
 
 #### Transfer of Functions
 

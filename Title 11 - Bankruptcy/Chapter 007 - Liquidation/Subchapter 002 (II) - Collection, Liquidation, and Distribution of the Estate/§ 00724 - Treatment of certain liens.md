@@ -6,7 +6,7 @@
 
 &emsp;(1) first, to any holder of an allowed claim secured by a lien on such property that is not avoidable under this title and that is senior to such tax lien;
 
-&emsp;(2) second, to any holder of a claim of a kind specified in section 507(a)(1) (except that such expenses, other than claims for wages, salaries, or commissions that arise after the date of the filing of the petition, shall be limited to expenses incurred under chapter 7 of this title and shall not include expenses incurred under chapter 11 of this title), 507(a)(2), 507(a)(3), 507(a)(4), 507(a)(5), 507(a)(6), or 507(a)(7) of this title, to the extent of the amount of such allowed tax claim that is secured by such tax lien;
+&emsp;(2) second, to any holder of a claim of a kind specified in section 507(a)(1)(C) or 507(a)(2) (except that such expenses under each such section, other than claims for wages, salaries, or commissions that arise after the date of the filing of the petition, shall be limited to expenses incurred under this chapter and shall not include expenses incurred under chapter 11 of this title), 507(a)(1)(A), 507(a)(1)(B), 507(a)(3),507(a)(4), 507(a)(5), 507(a)(6), or 507(a)(7) of this title, to the extent of the amount of such allowed tax claim that is secured by such tax lien;
 
 &emsp;(3) third, to the holder of such tax lien, to any extent that such holder's allowed tax claim that is secured by such tax lien exceeds any amount distributed under paragraph (2) of this subsection;
 
@@ -16,7 +16,7 @@
 
 &emsp;(6) sixth, to the estate.
 
-(c) If more than one holder of a claim is entitled to distribution under a particular paragraph of subsection (b) of this section, distribution to such holders under such paragraph shall be in the same order as distribution to suchholders would have been other than under this section.
+(c) If more than one holder of a claim is entitled to distribution under a particular paragraph of subsection (b) of this section, distribution to such holders under such paragraph shall be in the same order as distribution to such holders would have been other than under this section.
 
 (d) A statutory lien the priority of which is determined in the same manner as the priority of a tax lien under section 6323 of the Internal Revenue Code of 1986 shall be treated under subsection (b) of this section the same as if such lien were a tax lien.
 
@@ -32,7 +32,7 @@
 
 &emsp;(2) Claims for contributions to an employee benefit plan entitled to priority under section 507(a)(5).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2607; Pub. L. 98–353, title III, §477, July 10, 1984, 98 Stat. 381; Pub. L. 99–554, title II, §283(r), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 103–394, title III, §304(h)(4), title V, §501(d)(23), Oct. 22, 1994, 108 Stat. 4134, 4146; Pub. L. 109–8, title VII, §701(a), Apr. 20, 2005, 119 Stat. 124.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2607; Pub. L. 98–353, title III, §477, July 10, 1984, 98 Stat. 381; Pub. L. 99–554, title II, §283(r), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 103–394, title III, §304(h)(4), title V, §501(d)(23), Oct. 22, 1994, 108 Stat. 4134, 4146; Pub. L. 109–8, title VII, §701(a), Apr. 20, 2005, 119 Stat. 124; Pub. L. 111–327, §2(a)(27), Dec. 22, 2010, 124 Stat. 3560.)
 
 #### Historical and Revision Notes
 
@@ -60,6 +60,8 @@ Section 6323 of the Internal Revenue Code of 1986, referred to in subsec. (d), i
 
 #### Amendments
 
+2010—Subsec. (b)(2). Pub. L. 111–327 substituted “507(a)(1)(C) or 507(a)(2)” for “507(a)(1)”, “this chapter” for “chapter 7 of this title”, and “507(a)(1)(A), 507(a)(1)(B),” for “507(a)(2),” and inserted “under each such section” after “such expenses”.
+
 2005—Subsec. (b). Pub. L. 109–8, §701(a)(1), inserted “(other than to the extent that there is a properly perfected unavoidable tax lien arising in connection with an ad valorem tax on real or personal property of the estate)” after “under this title” in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 109–8, §701(a)(2), inserted “(except that such expenses, other than claims for wages, salaries, or commissions that arise after the date of the filing of the petition, shall be limited to expenses incurred under chapter 7 of this title and shall not include expenses incurred under chapter 11 of this title)” after “section 507(a)(1)”.
@@ -74,7 +76,7 @@ Subsec. (d). Pub. L. 103–394, §501(d)(23), substituted “Internal Revenue Co
 
 1984—Subsec. (b). Pub. L. 98–353, §477(a)(1), substituted “a tax” for “taxes” in provisions preceding par. (1).
 
-Subsec. (b)(2). Pub. L. 98–353, §477(a)(2), substituted “any holder of a claim of a kind specified” for “claimsspecified”, “section 507(a)(1)” for “sections 507(a)(1)”, and “or 507(a)(5) of this title” for “and 507(a)(5) of this title”.
+Subsec. (b)(2). Pub. L. 98–353, §477(a)(2), substituted “any holder of a claim of a kind specified” for “claims specified”, “section 507(a)(1)” for “sections 507(a)(1)”, and “or 507(a)(5) of this title” for “and 507(a)(5) of this title”.
 
 Subsec. (b)(3). Pub. L. 98–353, §477(a)(3), substituted “allowed tax claim” for “allowed claim”.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority of Secretary.—The Secretary may require a motor carrier providingtransportation subject to jurisdiction under subchapter I of chapter 135 that uses motor vehicles not owned by it to transport property under an arrangement with another party to—
+General Authority of Secretary.—The Secretary may require a motor carrier providing transportation subject to jurisdiction under subchapter I of chapter 135 that uses motor vehicles not owned by it to transport property under an arrangement with another party to—
 
 &emsp;(1) make the arrangement in writing signed by the parties specifying its duration and the compensation to be paid by the motor carrier;
 

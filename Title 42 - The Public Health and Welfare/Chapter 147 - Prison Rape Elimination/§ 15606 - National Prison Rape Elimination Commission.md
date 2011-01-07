@@ -212,7 +212,7 @@ The Commission may secure directly from any Federal department or agency such in
 
 #### (3) Procurement of temporary and intermittent services
 
-&emsp;Upon the request of the Commission, the Attorney General shall provide reasonable and appropriate office space, supplies, and administrative assistance.
+&emsp;Upon the request of the Commission, the Attorney General shall provide reasonable andappropriate office space, supplies, and administrative assistance.
 
 #### (j) Contracts for research
 
@@ -258,13 +258,13 @@ The Federal Advisory Committee Act, referred to in subsec. (n), is Pub. L. 92–
 
 #### Amendments
 
-2008—Subsec. (d)(3)(A). Pub. L. 110–199 substituted “5 years” for “3 years” in introductory provisions.
+<b>2008</b>—Subsec. (d)(3)(A). Pub. L. 110–199 substituted “5 years” for “3 years” in introductory provisions.
 
-2006—Subsec. (d)(3)(A). Pub. L. 109–162 made amendment identical to that made by Pub. L. 109–108. See 2005 Amendment note below.
+<b>2006</b>—Subsec. (d)(3)(A). Pub. L. 109–162 made amendment identical to that made by Pub. L. 109–108. See 2005 Amendment note below.
 
-2005—Subsec. (d)(3)(A). Pub. L. 109–108 substituted “3 years” for “2 years”.
+<b>2005</b>—Subsec. (d)(3)(A). Pub. L. 109–108 substituted “3 years” for “2 years”.
 
-2004—Pub. L. 108–447 substituted “Elimination” for “Reduction” in section catchline and in text of subsec. (a).
+<b>2004</b>—Pub. L. 108–447 substituted “Elimination” for “Reduction” in section catchline and in text of subsec. (a).
 
 #### Construction of 2008 Amendment
 

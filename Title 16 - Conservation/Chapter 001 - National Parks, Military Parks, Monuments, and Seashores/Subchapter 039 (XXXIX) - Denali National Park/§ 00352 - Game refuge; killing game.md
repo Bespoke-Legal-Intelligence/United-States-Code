@@ -6,5 +6,5 @@ The said park is established as a game refuge, and no person shall kill any game
 
 #### Amendments
 
-1928—Act May 21, 1928, struck out provision that prospectors and miners could kill game or birds needed for actual necessities when short of food.
+<b>1928</b>—Act May 21, 1928, struck out provision that prospectors and miners could kill game or birds needed for actual necessities when short of food.
 

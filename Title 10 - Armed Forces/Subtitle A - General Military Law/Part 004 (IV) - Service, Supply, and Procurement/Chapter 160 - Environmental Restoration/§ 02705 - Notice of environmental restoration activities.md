@@ -46,7 +46,7 @@ Technical Assistance.—(1) The Secretary may, upon the request of the technical
 
 (2) The commander of an installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) may obtain technical assistance under paragraph (1) for a technical review committee or restoration advisory board only if—
 
-&emsp;(A) the technical review committee or restoration advisory board demonstrates that the Federal, State, and local agencies responsible for overseeing environmental restoration at the installation, and available Department of Defense personnel, do not have the technical expertise necessary for achieving the objective for which the technical assistance is to be obtained; or
+&emsp;(A) the technical review committee or restoration advisory board demonstrates that the Federal, State, and local agencies responsible for overseeing environmental restoration at the installation, and available Department of Defense personnel, do not have the technicalexpertise necessary for achieving the objective for which the technical assistance is to be obtained; or
 
 &emsp;(B) the technical assistance—
 
@@ -84,7 +84,7 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(2)(C), is Pub. L.
 
 #### Amendments
 
-2003—Subsec. (d)(2)(C). Pub. L. 108–136, §317(b), added subpar. (C).
+<b>2003</b>—Subsec. (d)(2)(C). Pub. L. 108–136, §317(b), added subpar. (C).
 
 Subsec. (h). Pub. L. 108–136, §1043(c)(5), struck out heading and text of subsec. (h). Text read as follows: “In this section, the term ‘base closure law’ means the following:
 
@@ -94,9 +94,9 @@ Subsec. (h). Pub. L. 108–136, §1043(c)(5), struck out heading and text of sub
 
 &emsp;“(3) Section 2687 of this title.”
 
-1996—Subsec. (d)(2). Pub. L. 104–106, §324(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall prescribe regulations regarding the characteristics, composition, funding, and establishment of restoration advisory boards pursuant to this subsection. However, the issuance of regulations shall not be a precondition to the establishment of a restoration advisory board or affect the existence or operation of a restoration advisory board established before the date of the enactment of this section.”
+<b>1996</b>—Subsec. (d)(2). Pub. L. 104–106, §324(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall prescribe regulations regarding the characteristics, composition, funding, and establishment of restoration advisory boards pursuant to this subsection. However, the issuance of regulations shall not be a precondition to the establishment of a restoration advisory board or affect the existence or operation of a restoration advisory board established before the date of the enactment of this section.”
 
-Subsec. (d)(3). Pub. L. 104–106, §324(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary may provide for the payment of routine administrative expenses of a restoration advisory board from funds available for the operation andmaintenance of the installation (or installations) for which the board is established or from the funds available under subsection (e)(3).”
+Subsec. (d)(3). Pub. L. 104–106, §324(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary may provide for the payment of routine administrative expenses of a restoration advisory board from funds available for the operation and maintenance of the installation (or installations) for which the board is established or from the funds available under subsection (e)(3).”
 
 Subsec. (e). Pub. L. 104–106, §324(c), added subsec. (e) and struck out former subsec. (e) which authorized Secretary to make technical assistance grants under section 9617(e) of title 42 in connection with installations containing facilities listed on the National Priorities List and to make funds available to facilitate participation on technical review committees and restoration advisory boards relating to environmental restoration activities at other installations.
 
@@ -106,7 +106,7 @@ Subsec. (g)(1). Pub. L. 104–201 substituted “the environmental restoration a
 
 Subsec. (h). Pub. L. 104–106, §324(e), added subsec. (h).
 
-1994—Subsecs. (d) to (f). Pub. L. 103–337 added subsecs. (d) to (f).
+<b>1994</b>—Subsecs. (d) to (f). Pub. L. 103–337 added subsecs. (d) to (f).
 
 #### Effective Date of 1996 Amendment
 
@@ -126,7 +126,7 @@ Pub. L. 108–136, div. A, title III, §317(a), Nov. 24, 2003, 117 Stat. 1432, p
 
 &emsp;“(3) Timely notice of each meeting of a restoration advisory board shall be published in a local newspaper of general circulation.
 
-&emsp;“(4) Interested persons may appear before or file statements with a restoration advisory board, subject to such reasonable restrictions as the Secretary may prescribe.
+&emsp;“(4) Interested persons may appear before or file statements with a restoration advisory board, subjectto such reasonable restrictions as the Secretary may prescribe.
 
 &emsp;“(5) Subject to section 552 of title 5, United States Code, the records, reports, minutes, appendixes, working papers, drafts, studies, agenda, or other documents that were made available to, prepared for, or prepared by each restoration advisory board shall be available for public inspection and copying at a single, publicly accessible location, such as a public library or an appropriate office of the military installation for which the restoration advisory board is established, at least until the restoration advisory board is terminated.
 

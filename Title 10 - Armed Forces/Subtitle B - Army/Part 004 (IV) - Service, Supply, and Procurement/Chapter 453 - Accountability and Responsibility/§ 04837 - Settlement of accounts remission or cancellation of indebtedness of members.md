@@ -12,7 +12,7 @@ Retroactive Applicability to Certain Debts.—The authority in subsection (a) ma
 
 Regulations.—This section shall be administered under regulations prescribed by the Secretary of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 273; Pub. L. 85–861, §33(a)(27), Sept. 2, 1958, 72 Stat. 1566; Pub. L. 87–649, §14c(10), Sept. 7, 1962, 76 Stat. 501; Pub. L. 96–513, title V, §512(24)(A), (B), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 109–163, div. A, title VI, §683(a)(1), Jan. 6, 2006, 119 Stat. 3322; Pub. L. 109–364, div. A, title VI, §673(a)(1), (2), (e)(1), Oct. 17, 2006, 120 Stat. 2271, 2272; Pub. L. 110–181, div. A, title X, §1063(c)(7)(A), Jan. 28, 2008, 122 Stat. 323.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 273; Pub. L. 85–861, §33(a)(27), Sept. 2, 1958, 72 Stat. 1566; Pub. L. 87–649, §14c(10), Sept. 7, 1962, 76 Stat. 501; Pub. L. 96–513, title V, §512(24)(A), (B), Dec. 12, 1980, 94Stat. 2930; Pub. L. 109–163, div. A, title VI, §683(a)(1), Jan. 6, 2006, 119 Stat. 3322; Pub. L. 109–364, div. A, title VI, §673(a)(1), (2), (e)(1), Oct. 17, 2006, 120 Stat. 2271, 2272; Pub. L. 110–181, div. A, title X, §1063(c)(7)(A), Jan. 28, 2008, 122 Stat. 323.)
 
 Historical and Revision Notes<br>1956
 
@@ -76,7 +76,7 @@ In subsection (b), the last sentence is substituted for 10:875a (1st and 2d prov
 
 In subsection (c), the words “Subject to subsection (b)” are substituted for the words “in the proportions hereinbefore indicated”.
 
-In subsection (d), the words “If he considers it in the best interest of the United States” are substituted for the words “when in his opinion the interests of the Government are best served by such action”. The words “before, or at the time of” are substituted for the words “either on or prior thereto”.
+In subsection (d), the words “If he considers it in the best interest of the United States” are substituted for the words “when in his opinion the interests of the Government are best served by such action”. The words “before, or at the time of” are substituted for the words “either on \* \* \* or prior thereto”.
 
 In subsection (e), the words “member” and “his” are substituted for the words “officer or soldier”. The words “or implement” are omitted as surplusage.
 
@@ -92,9 +92,9 @@ The change \[in subsec. (f)\] reflects the opinion of the Assistant General Coun
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181 made technical correction to directory language of Pub. L. 109–364, §673(a)(1). See 2006 Amendment note below.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181 made technical correction to directory language of Pub. L. 109–364, §673(a)(1). See 2006 Amendment note below.
 
-2006—Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text read as follows: “If he considers it in the best interest of the United States, the Secretary may have remitted or cancelled any part of an enlisted member's indebtedness to the United States or any of its instrumentalities remaining unpaid before, or at the time of, that member's honorable discharge.”
+<b>2006</b>—Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text read as follows: “If he considers it in the best interest of the United States, the Secretary may have remitted or cancelled any part of an enlisted member's indebtedness to the United States or any of its instrumentalities remaining unpaid before, or at the time of, that member's honorable discharge.”
 
 Subsec. (a). Pub. L. 109–364, §673(e)(1), substituted “The Secretary of the Army” for “If the Secretary considers it to be in the best interest of the United States, the Secretary” and inserted “, but only if the Secretary considers such action to be in the best interest of the United States” before period at end.
 
@@ -108,11 +108,11 @@ Subsecs. (b) to (d). Pub. L. 109–364, §673(a)(2), redesignated subsecs. (c) a
 
 &emsp;“(3) if released from active status in a reserve component, during the one-year period beginning on the date of such release.”
 
-1980—Pub. L. 96–513, substituted “remission or cancellation of indebtedness of enlisted members” for “deductions from pay” in section catchline, and in text substituted “If he” for “(d) If he”.
+<b>1980</b>—Pub. L. 96–513, substituted “remission or cancellation of indebtedness of enlisted members” for “deductions from pay” in section catchline, and in text substituted “If he” for “(d) If he”.
 
-1962—Pub. L. 87–649 repealed subsecs. (a) to (c) and (e) to (g) which related to deductions from pay. See subsecs. (b) to (g), respectively, of section 1007 of Title 37, Pay and Allowances of the Uniformed Services.
+<b>1962</b>—Pub. L. 87–649 repealed subsecs. (a) to (c) and (e) to (g) which related to deductions from pay. See subsecs. (b) to (g), respectively, of section 1007 of Title 37, Pay and Allowances of the Uniformed Services.
 
-1958—Subsec. (b). Pub. L. 85–861, §33(a)(27)(A), substituted “his pay for that month” for “his basic pay for that month”.
+<b>1958</b>—Subsec. (b). Pub. L. 85–861, §33(a)(27)(A), substituted “his pay for that month” for “his basic pay for that month”.
 
 Subsec. (f). Pub. L. 85–861, §33(a)(27)(B), substituted “an officer” for “a commissioned officer” in two places.
 
@@ -138,5 +138,5 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 
 #### Regulations
 
-Pub. L. 109–364, div. A, title VI, §673(d), Oct. 17, 2006, 120 Stat. 2272, provided that: “The Secretary of Defense shall prescribe the regulations required for purposes of sections 4837, 6161, and 9837 of title 10, United States Code, as amended by this section, not later than March 1, 2007.”
+Pub. L. 109–364, div. A, title VI, §673(d), Oct. 17, 2006, 120 Stat. 2272, provided that: “The Secretary of Defenseshall prescribe the regulations required for purposes of sections 4837, 6161, and 9837 of title 10, United States Code, as amended by this section, not later than March 1, 2007.”
 

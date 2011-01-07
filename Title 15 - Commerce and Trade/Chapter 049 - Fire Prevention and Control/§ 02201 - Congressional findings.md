@@ -132,7 +132,7 @@ Findings.—Congress finds that—
 
 &emsp;“(4) some State and local governments and the hotel industry need to act more rapidly to require the installation and use of automatic sprinkler systems in hotels; and
 
-&emsp;“(5) through the United States Fire Administration and the Center for Fire Research, the Federal Government has helped to develop and promote the use of residential sprinkler systems and other means of fire prevention and control.
+&emsp;“(5) through the United States Fire Administration and the Center for Fire Research, the Federal Government has helped to develop and promote the use ofresidential sprinkler systems and other means of fire prevention and control.
 
 “(b)
 
@@ -186,7 +186,7 @@ There are hereby transferred to the Director all functions vested in the Secreta
 
 #### Sec. 202. Flood and Other Matters
 
-There are hereby transferred to the Director all functions vested in the Secretary of Housing and Urban Development pursuant to the National Flood Insurance Act of 1968, as amended, and the Flood Disaster Protection Act of 1973, as amended, (42 U.S.C. 2414 and 42 U.S.C. 4001 through 4128), and Section 1 of the NationalInsurance Development Act of 1975, as amended, (89 Stat. 68) \[set out as a note under 12 U.S.C. 1749bbb\].
+There are hereby transferred to the Director all functions vested in the Secretary of Housing and Urban Development pursuant to the National Flood Insurance Act of 1968, as amended, and the Flood Disaster Protection Act of 1973, as amended, (42 U.S.C. 2414 and 42 U.S.C. 4001 through 4128), and Section 1 of the National Insurance Development Act of 1975, as amended, (89 Stat. 68) \[set out as a note under 12 U.S.C. 1749bbb\].
 
 #### Sec. 203. Emergency Broadcast System
 
@@ -248,7 +248,7 @@ This reorganization rests on several fundamental principles:
 
 <i>First, Federal authorities to anticipate, prepare for, and respond to major civil emergencies should be supervised by one official responsible to the President and given attention by other officials at the highest levels.</i>
 
-The new Agency would be in this position. To increase White House oversight and involvement still further, I shall establish by Executive Order an Emergency Management Committee, to be chaired by the Federal Emergency Management Agency Director. Its membership shall be comprised of the Assistants to the President for National Security, Domestic Affairs and Policy and Intergovernmental Relations, and the Director, Office of Management and Budget. It will advisethe President on ways to meet national civil emergencies. It will also oversee and provide guidance on the management of all Federal emergency authorities, advising the President on alternative approaches to improve performance and avoid excessive costs.
+The new Agency would be in this position. To increase White House oversight and involvement still further, I shall establish by Executive Order an Emergency Management Committee, to be chaired by the Federal Emergency Management Agency Director. Its membership shall be comprised of the Assistants to the President for National Security, Domestic Affairs and Policy and Intergovernmental Relations, and the Director, Office of Management and Budget. It will advise the President on ways to meet national civil emergencies. It will also oversee and provide guidance on the management of all Federal emergency authorities, advising the President on alternative approaches to improve performance and avoid excessive costs.
 
 <i>Second, an effective civil defense system requires the most efficient use of all available emergency resources</i>. At the same time, civil defense systems, organization, and resources must be prepared to cope with any disasters which threaten our people. The Congress has clearly recognized this principle in recent changes in the civil defense legislation.
 
@@ -290,7 +290,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 1–104. The functions transferred from the Department of Housing and Urban Development are those vested in the Secretary of Housing and Urban Development pursuant to Section 15(e) of the Federal Flood Insurance Act of 1956, as amended (42 U.S.C. 2414(e)), and the National Flood Insurance Act of 1968, as amended \[42 U.S.C. 4001 et seq.\] and the Flood Disaster Protection Act of 1973, as amended (42 U.S.C. 4001 et seq.), and Section 520(b) of the National Housing Act, as amended (12 U.S.C. 1735d(b)), to the extent necessary to borrow from the Treasury to make payments for reinsured and directly insured losses, and Title XII of the National Housing Act, as amended (\[formerly\] 12 U.S.C. 1749bbb et seq., and as explained in Section 1 of the National Insurance Development Act of 1975 (Section 1 of Public Law 94–13 \[formerly\] at 12 U.S.C. 1749bbb note)). (Section 202 of the Plan.)
 
-1–105. The functions transferred from the President are those concerning the Emergency Broadcast System which were transferred to the President by Section 5 of Reorganization Plan No. 1 of 1977 (42 FR 56101; implemented by Executive Order No. 12046 of March 27, 1978)\[set out in Title 5, Appendix, Government Organization and Employees; set out as a note under section 305 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\]. (Section 203 of the Plan.)
+1–105. The functions transferred from the President are those concerning the Emergency Broadcast System which were transferred to the President by Section 5 of Reorganization Plan No. 1 of 1977 (42 FR 56101; implemented by Executive Order No. 12046 of March 27, 1978) \[set out in Title 5, Appendix, Government Organization and Employees; set out as a note under section 305 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\]. (Section 203 of the Plan.)
 
 1–106. This Order shall be effective Sunday, April 1, 1979.
 

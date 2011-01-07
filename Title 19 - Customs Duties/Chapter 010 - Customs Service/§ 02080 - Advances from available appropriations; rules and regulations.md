@@ -6,11 +6,9 @@ Advances pursuant to this Act, in connection with the enforcement of the customs
 
 #### References in Text
 
-This Act, referred to in text, is act Mar. 28, 1928, ch. 266, 45 Stat. 374, as amended, which enacted sections 2077 to 2080 of this title and sections 529a and 529g of former Title 31, Money and Finance.
+This Act, referred to in text, is act Mar. 28, 1928, ch. 266, 45 Stat. 374, which enacted sections 2077 to 2080 of this title and sections 529a and 529g of former Title 31, Money and Finance.
 
 Sections 529a and 529g of former Title 31 were repealed by sections 1101(a)(3) and 1101(a)(6), respectively, of Pub. L. 91–513, title III, Oct. 27, 1970, 84 Stat. 1291, 1292.
-
-The customs laws, referred to in text, are classified generally to this title.
 
 #### Codification
 
@@ -20,7 +18,7 @@ Section was formerly classified to section 529f of Title 31 prior to the general
 
 #### Amendments
 
-1970—Pub. L. 91–513 struck out reference to enforcement of narcotics laws.
+<b>1970</b>—Pub. L. 91–513 struck out reference to enforcement of narcotics laws.
 
 #### Effective Date of 1970 Amendment
 

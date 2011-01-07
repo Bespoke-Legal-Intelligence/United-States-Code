@@ -24,7 +24,7 @@ The program under this section shall—
 
 &emsp;(2) promote and improve community outreach and education networks and programs to ensure community readiness, including the development of comprehensive coastal risk and vulnerability assessment training and decision support tools, implementation of technical training and public education programs, and providing for certification of prepared communities;
 
-&emsp;(3) integrate tsunami preparedness and mitigation programs into ongoing hazard warning and risk management activities, emergency response plans, and mitigation programs in affected areas, including integrating information to assist in tsunami evacuation route planning;
+&emsp;(3) integrate tsunami preparedness and mitigation programs into ongoing hazard warningand risk management activities, emergency response plans, and mitigation programs in affected areas, including integrating information to assist in tsunami evacuation route planning;
 
 &emsp;(4) promote the adoption of tsunami warning and mitigation measures by Federal, State, tribal, and local governments and nongovernmental entities, including educational programs to discourage development in high-risk areas; and
 

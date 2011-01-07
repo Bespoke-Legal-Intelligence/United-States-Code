@@ -28,5 +28,5 @@ In subsec. (a)(2)(A), “section 2101 of title 46” substituted for “section 
 
 #### Amendments
 
-1978—Pub. L. 95–474 substituted provisions relating to waterfront safety for provision requiring the Secretary to report to Congress within one year his recommendations for legislation to achieve coordination between functions authorized under Pub. L. 92–340 and the functions of any other agencies and to eliminate duplication of these functions.
+<b>1978</b>—Pub. L. 95–474 substituted provisions relating to waterfront safety for provision requiring the Secretary to report to Congress within one year his recommendations for legislation to achieve coordination between functions authorized under Pub. L. 92–340 and the functions of any other agencies and to eliminate duplication of these functions.
 

@@ -30,7 +30,7 @@ Geographic proximity of conflict resolution provision.—In providing assessment
 
 &emsp;(A) Scholarships shall be awarded to outstanding undergraduate students who intend to pursue careers related to the environment and to outstanding Native American and Alaska Native undergraduate students who intend to pursue careers in health care and tribal public policy.
 
-&emsp;(B) An eligible individual awarded a scholarship under this chapter may receive payments under this chapter only during such periods as the Foundation finds that the eligible individual is maintaining satisfactory proficiency and devoting full time to study or research and is not engaging in gainful employment other than employment approved by the Foundation pursuant to regulations of the Board.
+&emsp;(B) An eligible individual awarded a scholarship under this chapter may receive paymentsunder this chapter only during such periods as the Foundation finds that the eligible individual is maintaining satisfactory proficiency and devoting full time to study or research and is not engaging in gainful employment other than employment approved by the Foundation pursuant to regulations of the Board.
 
 &emsp;(C) The Foundation may require reports containing such information, in such form, and to be filed at such times as the Foundation determines to be necessary from any eligible individual awarded a scholarship under this chapter. Such reports shall be accompanied by a certificate from an appropriate official at the institution of higher education, approved by the Foundation, stating that such individual is making satisfactory progress in, and is devoting essentially full time to study or research, except as otherwise provided in this subsection.
 
@@ -74,7 +74,7 @@ Geographic proximity of conflict resolution provision.—In providing assessment
 
 #### (b) Udall Scholars
 
-Recipients of scholarships, fellowships, and internships under this chapter shall be known as“Udall Scholars”, “Udall Fellows”, and “Udall Interns”, respectively.
+Recipients of scholarships, fellowships, and internships under this chapter shall be known as “Udall Scholars”, “Udall Fellows”, and “Udall Interns”, respectively.
 
 #### (c) Program priorities
 
@@ -84,11 +84,11 @@ The Foundation shall determine the priority of the programs to be carried out un
 
 #### Amendments
 
-2009—Subsec. (a)(5)(E). Pub. L. 111–90, §6(1), added subpar. (E).
+<b>2009</b>—Subsec. (a)(5)(E). Pub. L. 111–90, §6(1), added subpar. (E).
 
 Subsec. (b). Pub. L. 111–90, §6(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Recipients of scholarships, fellowships, internships, and grants under this chapter shall be known as ‘Morris K. Udall Scholars’.”
 
-1998—Subsec. (a)(1)(D). Pub. L. 105–156, §5(1), added subpar. (D).
+<b>1998</b>—Subsec. (a)(1)(D). Pub. L. 105–156, §5(1), added subpar. (D).
 
 Subsec. (a)(6). Pub. L. 105–156, §9(b), substituted “Trust Fund” for “Fund”.
 

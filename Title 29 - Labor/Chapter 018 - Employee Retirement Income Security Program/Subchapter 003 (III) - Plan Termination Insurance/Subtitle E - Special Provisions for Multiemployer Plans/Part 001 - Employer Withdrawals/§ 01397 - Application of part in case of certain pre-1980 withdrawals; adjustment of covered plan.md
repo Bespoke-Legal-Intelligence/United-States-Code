@@ -14,5 +14,5 @@
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–369, §558(b)(1)(A), (B), substituted “September 25, 1980” for “April 28, 1980” in provisions preceding par. (1) and “September 26, 1980” for “April 29, 1980” in pars. (1) and (2).
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §558(b)(1)(A), (B), substituted “September 25, 1980” for “April 28, 1980” in provisions preceding par. (1) and “September 26, 1980” for “April 29, 1980” in pars. (1) and (2).
 

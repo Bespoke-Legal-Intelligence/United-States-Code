@@ -46,7 +46,7 @@ Section 778 of this title, referred to in subsec. (d)(3)(D), was repealed by Pub
 
 #### Amendments
 
-1976—Subsec. (d). Pub. L. 94–210 added subsec. (d).
+<b>1976</b>—Subsec. (d). Pub. L. 94–210 added subsec. (d).
 
 #### Change of Name
 

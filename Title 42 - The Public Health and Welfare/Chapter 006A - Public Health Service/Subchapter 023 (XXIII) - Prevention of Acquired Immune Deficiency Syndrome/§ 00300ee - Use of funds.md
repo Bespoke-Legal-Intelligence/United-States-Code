@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The purpose of this subchapter is to provide for the establishment of education and information programs to prevent and reduce exposureto, and the transmission of, the etiologic agent for acquired immune deficiency syndrome.
+The purpose of this subchapter is to provide for the establishment of education and information programs to prevent and reduce exposure to, and the transmission of, the etiologic agent for acquired immune deficiency syndrome.
 
 #### (b) Contents of programs
 
@@ -20,7 +20,7 @@ Subsection (c) of this section may not be construed to restrict the ability of a
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–690 substituted “this subchapter” for “this part”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–690 substituted “this subchapter” for “this part”.
 
 #### Effective Date of 1988 Amendment
 

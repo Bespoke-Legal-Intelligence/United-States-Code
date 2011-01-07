@@ -150,7 +150,7 @@ The Administrator, in coordination with the Director and with the Director of th
 
 #### (A) Failure to implement program activities
 
-&emsp;&emsp;If a grant recipient under this section substantially fails in the implementation of theprogram activities, the Administrator shall not discontinue funding until reasonable notice and an opportunity for reconsideration is given.
+&emsp;&emsp;If a grant recipient under this section substantially fails in the implementation of the program activities, the Administrator shall not discontinue funding until reasonable notice and an opportunity for reconsideration is given.
 
 #### (B) Solicitation of new proposals
 
@@ -206,7 +206,7 @@ A prior section 213 of Pub. L. 101–647 was renumbered section 214A and is clas
 
 #### Amendments
 
-2003—Subsec. (c)(4). Pub. L. 108–21, §381(a)(1), struck out “and” at end of cl. (ii) of subpar. (B), substituted “board” for “Board” in cl. (iii) of subpar. (B), and redesignated subpars. (C) and (D) as cls. (iv) and (v), respectively, of subpar. (B).
+<b>2003</b>—Subsec. (c)(4). Pub. L. 108–21, §381(a)(1), struck out “and” at end of cl. (ii) of subpar. (B), substituted “board” for “Board” in cl. (iii) of subpar. (B), and redesignated subpars. (C) and (D) as cls. (iv) and (v), respectively, of subpar. (B).
 
 Subsec. (e)(1)(B)(ii), (2)(A), (3). Pub. L. 108–21, §381(a)(2), substituted “board” for “Board”.
 

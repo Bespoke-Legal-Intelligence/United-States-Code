@@ -4,13 +4,13 @@ Section, added Pub. L. 98–525, title XII, §1234(a), Oct. 19, 1984, 98 Stat. 2
 
 #### Effective Date of Repeal
 
-Section 810(b) of Pub. L. 105–85 provided that:
+Pub. L. 105–85, div. A, title VIII, §810(b), Nov. 18, 1997, 111 Stat. 1839, provided that:
 
 “(1) Except as provided in paragraph (2), the repeal made by subsection (a) \[repealing this section\] shall be effective with respect to claims, requests for equitable adjustment, and demands for payment under shipbuilding contracts that have been or are submitted before, on, or after the date of the enactment of this Act \[Nov. 18, 1997\].
 
 “(2) Section 2405 of title 10, United States Code, as in effect immediately before the date of the enactment of this Act, shall continue to apply to a contractor's claim, request for equitable adjustment, or demand for payment under a shipbuilding contract that was submitted before such date if—
 
-&emsp;“(A) a contracting officer denied the claim, request, or demand, and the period for appealing the decision to a court or board under the Contract Disputes Act of 1978 \[41 U.S.C. 601 et seq.\] expired before such date;
+&emsp;“(A) a contracting officer denied the claim, request, or demand, and the period for appealing the decision to a court or board under the Contract Disputes Act of 1978 \[see 41 U.S.C. 7101 et seq.\] expired before such date;
 
 &emsp;“(B) a court or board of contract appeals considering the claim, request, or demand (including any appeal of a decision of a contracting officer to deny the claim, request, or demand) denied or dismissed the claim, request, or demand (or the appeal), and the action of the court or board became final and unappealable before such date; or
 

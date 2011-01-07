@@ -26,9 +26,9 @@ The following costs are not allowable under a covered contract:
 
 #### (b) Regulations; costs of information provided to Congress or State legislatures and related costs
 
-(1) Not later than 150 days after November 8, 1985, the Secretary of Energy shall prescribe regulations to implement this section. Such regulations may establish appropriate definitions, exclusions, limitations, and qualifications. Such regulations shall be published in accordance with section 418b of title 41.
+(1) Not later than 150 days after November 8, 1985, the Secretary of Energy shall prescribe regulations to implement this section. Such regulations may establish appropriate definitions, exclusions, limitations, and qualifications. Such regulations shall be published in accordance with section 1707 of title 41.
 
-(2) In any regulations implementing subsection (a)(2), the Secretary may not treat asnot allowable (by reason of such subsection) the following costs of a contractor:
+(2) In any regulations implementing subsection (a)(2), the Secretary may not treat as not allowable (by reason of such subsection) the following costs of a contractor:
 
 &emsp;(A) Costs of providing to Congress or a State legislature, in response to a request from Congress or a State legislature, information of a factual, technical, or scientific nature, or advice of experts, with respect to topics directly related to the performance of the contract.
 
@@ -46,15 +46,17 @@ Subsection (a) shall apply with respect to costs incurred under a covered contra
 
 #### Codification
 
+In subsec. (b)(1), “section 1707 of title 41” substituted for “section 22 of the Office of Federal Procurement Policy Act (41 U.S.C. 418b)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 Section was formerly classified to section 7256a of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
 
-2003—Pub. L. 108–136, §3141(k)(2)(D)(i), made technical amendment to section catchline.
+<b>2003</b>—Pub. L. 108–136, §3141(k)(2)(D)(i), made technical amendment to section catchline.
 
 Subsec. (b)(1). Pub. L. 108–136, §3141(k)(2)(D)(ii), substituted “November 8, 1985,” for “the date of the enactment of this Act,” in the original, which for purposes of codification had been changed to “November 8, 1985,” thus requiring no change in text.
 
-1987—Subsec. (b). Pub. L. 100–180 designated existing provisions as par. (1) and added par. (2).
+<b>1987</b>—Subsec. (b). Pub. L. 100–180 designated existing provisions as par. (1) and added par. (2).
 
 #### Regulations
 

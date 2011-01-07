@@ -34,7 +34,7 @@ A prior section 41907, Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1155, 
 
 #### Amendments
 
-2008—Pub. L. 110–405, §2(b)(7)(B), renumbered section 41910 of this title as this section.
+<b>2008</b>—Pub. L. 110–405, §2(b)(7)(B), renumbered section 41910 of this title as this section.
 
 Pub. L. 110–405, §2(b)(6), substituted “The United States Postal Service may weigh mail transported by aircraft between places in Alaska and make statistical and –administrative computations necessary in the interest of mail service.” for “The United States Postal Service may weigh mail transported by aircraft and make statistical and administrative computations necessary in the interest of mail service.”
 

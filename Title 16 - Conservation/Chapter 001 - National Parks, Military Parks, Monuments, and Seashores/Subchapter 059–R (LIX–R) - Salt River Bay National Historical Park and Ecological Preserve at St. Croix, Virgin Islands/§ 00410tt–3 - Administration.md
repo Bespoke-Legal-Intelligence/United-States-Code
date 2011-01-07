@@ -34,13 +34,13 @@ During the 10-year period beginning on February 24, 1992, the Secretary shall, s
 
 This subchapter, referred to in subsec. (a) after “the provisions of” in two places and in subsec. (b), was in the original “this Act” and was translated as reading “this title”, meaning title I of Pub. L. 102–247, known as the Salt River Bay National Historical Park and Ecological Preserve at St. Croix, Virgin Islands, Act of 1992, to reflect the probable intent of Congress.
 
-The Archaeological Resources Protection Act of 1979, referred to in subsec. (c)(2)(C), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, as amended, which is classified generally to chapter 1B (§470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of this title and Tables.
+The Archaeological Resources Protection Act of 1979, referred to in subsec. (c)(2)(C), is Pub. L. 96–95, Oct. 31,1979, 93 Stat. 721, as amended, which is classified generally to chapter 1B (§470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of this title and Tables.
 
 The National Historic Preservation Act, referred to in subsec. (c)(2)(C), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of this title. For complete classification of this Act to the Code, see section 470(a) of this title and Tables.
 
 #### Amendments
 
-1994—Subsec. (c)(1). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Archaeological”.</i>
 

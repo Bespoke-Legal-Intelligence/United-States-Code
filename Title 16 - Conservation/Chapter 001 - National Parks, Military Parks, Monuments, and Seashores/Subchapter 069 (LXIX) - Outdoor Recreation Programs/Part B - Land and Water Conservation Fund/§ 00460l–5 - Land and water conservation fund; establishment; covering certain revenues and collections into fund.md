@@ -4,7 +4,7 @@ During the period ending September 30, 2015, there shall be covered into the lan
 
 #### (a) Surplus property sales
 
-All proceeds (except so much thereof as may be otherwise obligated, credited, or paid under authority of those provisions of law set forth in section 572(a) or 574(a)–(c) of title 40 or the Independent Offices Appropriation Act, 1963 (76 Stat. 725) or in any later appropriation Act) hereafter received from any disposal of surplus real property and related personal property under the Federal Property and Administrative ServicesAct of 1949, as amended, notwithstanding any provision of law that such proceeds shall be credited to miscellaneous receipts of the Treasury. Nothing in this part shall affect existing laws or regulations concerning disposal of real or personal surplus property to schools, hospitals, and States and their political subdivisions.
+All proceeds (except so much thereof as may be otherwise obligated, credited, or paid under authority of those provisions of law set forth in section 572(a) or 574(a)–(c) of title 40 or the Independent Offices Appropriation Act, 1963 (76 Stat. 725) or in any later appropriation Act) hereafter received from any disposal of surplus real property and related personal property under chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, notwithstanding any provision of law that such proceeds shall be credited to miscellaneous receipts of the Treasury. Nothing in this part shall affect existing laws or regulations concerning disposal of real or personal surplus property to schools, hospitals, and States and their political subdivisions.
 
 #### (b) Motorboat fuels tax
 
@@ -22,23 +22,23 @@ The amounts provided for in section 460<i>l</i>–11 of this title.
 
 The provisions of the Independent Offices Appropriation Act, referred to in subsec. (a), are the provisions of Pub. L. 87–741, Oct. 3, 1962, 76 Stat. 716, appearing under the heading “Operating Expenses, Utilization and Disposal Service” which were not classified to the Code.
 
-The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
-
 This part, referred to in subsecs. (a) and (c)(2), was in the original “this Act”, meaning Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which is classified principally to this part. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
 
 The Outer Continental Shelf Lands Act, referred to in subsec. (c)(2), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
 
 #### Codification
 
-“Section 572(a) or 574(a)–(c) of title 40” substituted in subsec. (a) for “section 485(b)(e), title 40, United States Code,” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (a), “Section 572(a) or 574(a)–(c) of title 40” substituted for “section 485(b)(e), title 40, United States Code,” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works.
+
+In subsec. (a), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-1987—Pub. L. 100–203 substituted “2015” for “1989” in introductory provisions and in subsec. (c)(1).
+<b>1987</b>—Pub. L. 100–203 substituted “2015” for “1989” in introductory provisions and in subsec. (c)(1).
 
-1977—Subsec. (c)(1). Pub. L. 95–42 substituted “and $900,000,000 for fiscal year 1978” for “$600,000,000 for fiscal year 1978, $750,000,000 for fiscal year 1979, and $900,000,000 for fiscal year 1980”.
+<b>1977</b>—Subsec. (c)(1). Pub. L. 95–42 substituted “and $900,000,000 for fiscal year 1978” for “$600,000,000 for fiscal year 1978, $750,000,000 for fiscal year 1979, and $900,000,000 for fiscal year 1980”.
 
-1976—Pub. L. 94–422 struck out “, and during such additional period as may be required to repay any advances made pursuant to section 460<i>l</i>–7(b) of this title” after “September 30, 1989” in provisions preceding subsec. (a).
+<b>1976</b>—Pub. L. 94–422 struck out “, and during such additional period as may be required to repay any advances made pursuant to section 460<i>l</i>–7(b) of this title” after “September 30, 1989” in provisions preceding subsec. (a).
 
 Pub. L. 94–273 substituted “September” for “June” wherever appearing.
 
@@ -50,21 +50,21 @@ Subsec. (c)(1). Pub. L. 94–422 substituted “$300,000,000 for fiscal year 197
 
 Subsec. (c)(2). Pub. L. 94–422 substituted “equivalent to the amounts” for “amount to $200,000,000 or $300,000,000 for each of such fiscal years, as”.
 
-1970—Subsec. (a)(i). Pub. L. 91–308 purported to substitute “not more than $10” for “not more than $7”. See 1968 Amendment note below.
+<b>1970</b>—Subsec. (a)(i). Pub. L. 91–308 purported to substitute “not more than $10” for “not more than $7”. See 1968 Amendment note below.
 
 Subsec. (c)(1). Pub. L. 91–485, §1(a), substituted “fiscal years 1968, 1969, and 1970, and not less than $300,000,000 for each fiscal year thereafter through June 30, 1989” for “five fiscal years beginning July 1, 1968, and ending June 30, 1973”.
 
 Subsec. (c)(2). Pub. L. 91–485, §1(b), substituted “$200,000,000 or $300,000,000 for each of such fiscal years, as provided in cl. (1),” for “$200,000,000 for each of such fiscal years,”.
 
-1968—Subsec. (a). Pub. L. 90–401, §1(a), redesignated subsec. (b) as (a). Former subsec. (a), except for the fourth paragraph thereof, established a system of admission and user fees for all Federal recreation areas and was eliminated. The fourth paragraph covering the repeal of provisions prohibiting the collection of recreation fees and user charges was redesignated as section 10 of Pub. L. 88–587 and is set out as section 460<i>l</i>–10c.
+<b>1968</b>—Subsec. (a). Pub. L. 90–401, §1(a), redesignated subsec. (b) as (a). Former subsec. (a), except for thefourth paragraph thereof, established a system of admission and user fees for all Federal recreation areas and was eliminated. The fourth paragraph covering the repeal of provisions prohibiting the collection of recreation fees and user charges was redesignated as section 10 of Pub. L. 88–587 and is set out as section 460<i>l</i>–10c.
 
 Subsecs. (b), (c). Pub. L. 90–401, §§1(a), 2, added subsec. (c) and redesignated former subsecs. (b) and (c) as (a) and (b), respectively.
 
-1965—Subsec. (a). Pub. L. 89–72 substituted “notwithstanding any other provision of law:” for “notwithstanding any provision of law that such proceeds shall be credited to miscellaneous receipts of the Treasury:” and “or affect any contract heretofore entered into by the United States that provides that such revenues collected at particular Federal areas shall be credited to specific purposes” for “of any provision of law that provides that any fees or charges collected at particular Federal areas shall be used for or credited to specific purposes or special funds as authorized by that provision of law.”
+<b>1965</b>—Subsec. (a). Pub. L. 89–72 substituted “notwithstanding any other provision of law:” for “notwithstanding any provision of law that such proceeds shall be credited to miscellaneous receipts of the Treasury:” and “or affect any contract heretofore entered into by the United States that provides that such revenues collected at particular Federal areas shall be credited to specific purposes” for “of any provision of law that provides that any fees or charges collected at particular Federal areas shall be used for or credited to specific purposes or special funds as authorized by that provision of law.”
 
 #### Effective Date of 1968 Amendment
 
-Section 1(d) of Pub. L. 90–401, as amended by section 1 of Pub. L. 91–308, provided that: “The provisions ofsubsections (a) and (c) of this section \[amending this section\] shall be effective December 31, 1971. Until that date revenues derived from the subsection (a) that is repealed by this section shall continue to be covered into the fund.”
+Section 1(d) of Pub. L. 90–401, as amended by section 1 of Pub. L. 91–308, provided that: “The provisions of subsections (a) and (c) of this section \[amending this section\] shall be effective December 31, 1971. Until that date revenues derived from the subsection (a) that is repealed by this section shall continue to be covered into the fund.”
 
 #### Elimination of System of Admission and User Fees for Federal Recreation Areas
 
@@ -114,11 +114,11 @@ Sec. 3. <i>Criteria for designation of areas</i>. Areas shall, in accordance wit
 
 (b) Areas designated as those at which recreation user fees shall be charged shall hereafter in this Order be referred to as “designated areas.”
 
-Sec. 4. <i>Posting of designated areas</i>. The heads of administering agencies and departments shall provide for the posting of signs at all designated areas such as will clearly notify the visiting public that recreation user fees are charged therein. All areas designated pursuant to Sections 1 and 2 of this Order shall be so posted prior to the beginning of the recreation season or as soon as practicable following designation. No recreation user fee established pursuant to this Order shall be effective with respect to any designated area until that designated area has been posted.
+Sec. 4. <i>Posting of designated areas</i>. The heads of administering agencies and departments shall provide for the posting of signs at all designated areas such as will clearly notify the visiting public that recreation user fees are charged therein. All areas designated pursuant to Sections 1 and 2 of this Order shall be so posted prior to the beginning of the recreation season or as soon as practicable following designation. No recreation userfee established pursuant to this Order shall be effective with respect to any designated area until that designated area has been posted.
 
 Sec. 5. <i>Establishment of fees</i>. (a) Each official described in Section 1(b) of this Order shall, subject to the criteria prescribed by the Secretary of the Interior, establish a recreation user fee for each designated area administered under his jurisdiction by selecting from a schedule of fees, prescribed by the Secretary of the Interior pursuant to Section 6 of this Order, the fee which is appropriate for each such designated area under criteria prescribed by the Secretary pursuant to that section. Each such official shall also specify which designated areas shall be excluded from the coverage of the annual fee described in Section 2(a)(1) of the Act \[subsec. (a)(i) of this section\] and which, as a result of that exclusion will be subject to the fee described in Section 2(a)(iii) of the Act \[subsec. (a)(iii) of this section\]. The range of recreation user fees to be charged and the criteria for their selection shall be established under the procedures prescribed by Section 6 of this Order.
 
-(b) The Secretary of the Interior shall prescribe the procedures for the production, distribution, and sale of the Land and Water Conservation Fund Sticker, whichshall be issued to those individuals who elect to pay the annual fees. The Secretary of the Interior shall also prescribe the manner in which the Sticker shall be displayed. The conditions under which it may be used shall be determinated under the procedures prescribed by Section 6 of this Order.
+(b) The Secretary of the Interior shall prescribe the procedures for the production, distribution, and sale of the Land and Water Conservation Fund Sticker, which shall be issued to those individuals who elect to pay the annual fees. The Secretary of the Interior shall also prescribe the manner in which the Sticker shall be displayed. The conditions under which it may be used shall be determinated under the procedures prescribed by Section 6 of this Order.
 
 Sec. 6. <i>Coordination</i>. (a) The Secretary of the Interior shall after consultation with the heads of other affected departments and agencies, adopt such coordination measures as are necessary to carry out the purposes of Sections 2(a) and 4(a) of the Act \[subsec. (a) of this section and section 460<i>l</i>–7(a) of this title\] and the provisions of this order.
 

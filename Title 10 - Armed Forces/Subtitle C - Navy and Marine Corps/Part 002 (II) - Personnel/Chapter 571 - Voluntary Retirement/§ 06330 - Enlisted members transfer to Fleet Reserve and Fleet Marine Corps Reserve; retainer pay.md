@@ -8,7 +8,7 @@
 
 (2) A member may recompute his retainer pay under section 1402 or 1402a of this title, as appropriate, to reflect active duty after transfer.
 
-(3) If the member has been credited by the Secretary of the Navy with extraordinary heroism in the line of duty, which determination by theSecretary is final and conclusive for all purposes, his retainer pay shall be increased by 10 percent.
+(3) If the member has been credited by the Secretary of the Navy with extraordinary heroism in the line of duty, which determination by the Secretary is final and conclusive for all purposes, his retainer pay shall be increased by 10 percent.
 
 (d)(1) For the purposes of subsection (c), each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded.
 
@@ -60,41 +60,41 @@ June 25, 1938, ch. 690, §204 (less 4th, 5th, 6th (as applicable to §203 of the
 
 June 25, 1938, ch. 690, §202 (less provisos), 52 Stat. 1178.
 
-In subsection (a) the words “officers” and “assigned” are omitted, since they are applicable only to the proviso in 34 U.S.C. 854, which is recommended for repeal as obsolete. (See Table 2A.) The words “including (a) those former members of the Fleet Reserve who were transferred but before the expiration of three months following discharge”, appearing in §803 of the Armed Forces Reserve Act of 1952, 66 Stat. 505 (34 U.S.C. 854 (note)) are omitted as surplusage. These words merely illustrate the class of persons transferred to the Fleet Reserve under the Naval Reserve Act of 1938, 52 Stat. 1178, as referred to in the section from which these words were taken, and in no way limit that class or impose a citizenship requirement for membership in it. (See the opinion of the Judge Advocate General of the Navy, JAG:II:1:JFG:imz of February 17, 1953.)
+In subsection (a) the words “officers” and “assigned” are omitted, since they are applicable only to the proviso in 34 U.S.C. 854, which is recommended for repeal as obsolete. (See Table 2A.) The words “including (a) those former members of the Fleet Reserve who were transferred \* \* \* but before the expiration of three months following discharge”, appearing in §803 of the Armed Forces Reserve Act of 1952, 66 Stat. 505 (34 U.S.C. 854 (note)) are omitted as surplusage. These words merely illustrate the class of persons transferred to the Fleet Reserve under the Naval Reserve Act of 1938, 52 Stat. 1178, as referred to in the section from which these words were taken, and in no way limit that class or impose a citizenship requirement for membership in it. (See the opinion of the Judge Advocate General of the Navy, JAG:II:1:JFG:imz of February 17, 1953.)
 
 In subsection (b) reference to the date July 1, 1925, is omitted, since members who were in the naval service on or before that date may, if they are qualified and so elect, be transferred to the Fleet Reserve or to the Fleet Marine Corps Reserve under 34 U.S.C. 854c instead of under 34 U.S.C. 854b, as provided in the fifth proviso of 34 U.S.C. 854c. That proviso and the provisions of 34 U.S.C. 854b, which are applicable only to persons who were in the naval service in 1925, are not codified because they relate to a small closed class and are therefore of limited interest. They are not repealed, however. (See Table 2D.)
 
 In subsections (b) and (c) the term “active service in the armed forces” is substituted for the term “active Federal service” to execute the definition in the last sentence of 34 U.S.C. 854c.
 
-In subsection (c) the words “is entitled, when not on active duty, to retainer pay at the rate of 21/2 percent of the basic pay that he received at the time of transfer” are substituted for the words “except when on active duty, shall be paid at the annual rate of 21/2 per centum of the annual base and longevity pay they are receiving at the time of transfer” to conform to the terminology of the Career Compensation Act of 1949 (37 U.S.C. 231 et seq.).
+In subsection (c) the words “is entitled, when not on active duty, to retainer pay at the rate of 21/2 percentof the basic pay that he received at the time of transfer” are substituted for the words “except when on active duty, shall be paid at the annual rate of 21/2 per centum of the annual base and longevity pay they are receiving at the time of transfer” to conform to the terminology of the Career Compensation Act of 1949 (37 U.S.C. 231 et seq.).
 
 Subsection (d) states the rule as to the method of counting minority and short-term enlistments, in connection with determining active service, in accordance with <i>White v. United States</i>, 97 F. Supp. 698.
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-1989—Subsec. (a). Pub. L. 101–189 substituted “under this section.” for “under—
+<b>1989</b>—Subsec. (a). Pub. L. 101–189 substituted “under this section.” for “under—
 
 &emsp;“(1) Title II of the Naval Reserve Act of 1938 (52 Stat. 1178), as amended; or
 
 &emsp;“(2) this section.”
 
-1986—Subsec. (c)(1). Pub. L. 99–348, §203(b)(6)(A), substituted provision that retainer pay be computed under section 6333 for provision that retainer pay, in the case of a member who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 21/2 percent of the basic pay that he received at the time of transfer or, in the case of a member who served as master chief petty officer of the Navy or sergeant major of the Marine Corps, of the highest basic pay to which he was entitled while so serving, if that basic pay is higher than the basic pay received at the time of transfer, or in the case of a member who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at the rate of 21/2 percent of the monthly retainer pay base computed under section 1407(d), which rates were to be multiplied by the number of years of active service in the armed forces.
+<b>1986</b>—Subsec. (c)(1). Pub. L. 99–348, §203(b)(6)(A), substituted provision that retainer pay be computed under section 6333 for provision that retainer pay, in the case of a member who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 21/2 percent of the basic pay that he received at the time of transfer or, in the case of a member who served as master chief petty officer of the Navy or sergeant major of the Marine Corps, of the highest basic pay to which he was entitled while so serving, if that basic pay is higher than the basic pay received at the time of transfer, or in the case of a member who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at the rate of 21/2 percent of the monthly retainer pay base computed under section 1407(d), which rates were to be multiplied by the number of years of active service in the armed forces.
 
 Subsec. (c)(4). Pub. L. 99–348, §203(b)(6)(B), struck out par. (4) which provided that in no case could a member's retainer pay be more than 75 percent of the basic pay or monthly retainer pay base upon which computation of retainer pay was based.
 
-Subsec. (d). Pub. L. 99–348, §305(a)(1), designated existing provisions as par. (1), struck out provision that a completed minority enlistment be counted as four years of active service and an enlistment terminated within three months before the end of the term becounted as active service for the full term, and added pars. (2) and (3).
+Subsec. (d). Pub. L. 99–348, §305(a)(1), designated existing provisions as par. (1), struck out provision that a completed minority enlistment be counted as four years of active service and an enlistment terminated within three months before the end of the term be counted as active service for the full term, and added pars. (2) and (3).
 
-1983—Subsec. (d). Pub. L. 98–94 substituted “For the purposes of subsection (c), each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “For the purposes of subsections (b) and (c), a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded”.
+<b>1983</b>—Subsec. (d). Pub. L. 98–94 substituted “For the purposes of subsection (c), each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “For the purposes of subsections (b) and (c), a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded”.
 
-1980—Subsec. (c). Pub. L. 96–513 substituted “September 8, 1980” for “the date of the enactment of the Department of Defense Authorization Act, 1981” wherever appearing, and “master chief petty officer” for “senior enlisted advisor”.
+<b>1980</b>—Subsec. (c). Pub. L. 96–513 substituted “September 8, 1980” for “the date of the enactment of the Department of Defense Authorization Act, 1981” wherever appearing, and “master chief petty officer” for “senior enlisted advisor”.
 
 Pub. L. 96–342 amended subsec. (c) generally, designating existing provisions as pars. (1) to (4) and, as so amended, in par. (1) designated existing provisions as subpar. (A), as so designated, inserted provision limiting applicability to persons who became members of the uniformed services before the date of the enactment of the Department of Defense Authorization Act, 1981, and added subpar. (B), in par. (2) inserted reference to section 1402a of this title, and in par. (4) added applicability to monthly retainer pay base.
 
-1967—Subsec. (c). Pub. L. 90–207 inserted “, except that in the case of a member who has served as senior enlisted advisor of the Navy or sergeant major of the Marine Corps, retainer pay shall be computed on the basis of the highest basic pay to which he was entitled while so serving, if that basic pay is higher than the basic pay received at the time of transfer” after “armed forces”.
+<b>1967</b>—Subsec. (c). Pub. L. 90–207 inserted “, except that in the case of a member who has served as senior enlisted advisor of the Navy or sergeant major of the Marine Corps, retainer pay shall be computed on the basis of the highest basic pay to which he was entitled while so serving, if that basic pay is higher than the basic pay received at the time of transfer” after “armed forces”.
 
-1958—Subsec. (a). Pub. L. 85–583, §1(2), substituted “naval service” for “Regular Navy and the Regular Marine Corps, respectively,”.
+<b>1958</b>—Subsec. (a). Pub. L. 85–583, §1(2), substituted “naval service” for “Regular Navy and the Regular Marine Corps, respectively,”.
 
 Subsec. (b). Pub. L. 85–583, §1(3), inserted “or the Naval Reserve” after “Regular Navy” and “or the Marine Corps Reserve” after “Regular Marine Corps”.
 
@@ -130,7 +130,7 @@ Act July 24, 1956, ch. 683, 70 Stat. 626, provided: “Upon application by any f
 
 “
 
-Sec. 2. Each person appointed to the Fleet Reserve or Fleet Marine Corps Reserve under the first section of this Act shall be transferred to the appropriate retired list (1) on the first day of the first calendar month beginning after such appointment, if his last discharge occurred ten or more years prior to the date of such appointment, and (2) in the case of individuals appointed under such section before the expiration of ten years from their last discharge, on the first day of the first calendar month, beginning after the expiration of ten years from the date of such discharge.
+Sec. 2. Each person appointed to the Fleet Reserve or Fleet Marine Corps Reserve under the first section of this Act shall be transferred to the appropriate retired list (1) on the first day of the first calendar month beginning after such appointment, if his last discharge occurred ten or more years prior to the date of such appointment, and (2) in the case of individuals appointed under such section before the expiration of ten years from their last discharge, on the first day of the firstcalendar month, beginning after the expiration of ten years from the date of such discharge.
 
 “
 

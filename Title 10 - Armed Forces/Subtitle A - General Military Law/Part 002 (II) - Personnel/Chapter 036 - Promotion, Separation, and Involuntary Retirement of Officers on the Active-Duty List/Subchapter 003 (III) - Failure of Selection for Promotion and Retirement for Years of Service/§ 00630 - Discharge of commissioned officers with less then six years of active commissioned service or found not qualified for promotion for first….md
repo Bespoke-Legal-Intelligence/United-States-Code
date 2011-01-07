@@ -14,15 +14,15 @@ The Secretary of the military department concerned, under regulations prescribed
 
 #### Amendments
 
-2008—Pub. L. 110–181, §503(a)(2), substituted “six years” for “five years” in section catchline.
+<b>2008</b>—Pub. L. 110–181, §503(a)(2), substituted “six years” for “five years” in section catchline.
 
 Par. (1)(A). Pub. L. 110–181, §503(a)(1), substituted “six years” for “five years”.
 
-2003—Par. (2). Pub. L. 108–136 substituted “paragraph” for “clause”.
+<b>2003</b>—Par. (2). Pub. L. 108–136 substituted “paragraph” for “clause”.
 
-2001—Pub. L. 107–107, §505(d)(4)(A), struck out “regular” before “commissioned officers” in section catchline.
+<b>2001</b>—Pub. L. 107–107, §505(d)(4)(A), struck out “regular” before “commissioned officers” in section catchline.
 
 Par. (1). Pub. L. 107–107, §505(d)(2), struck out “regular” before “officer” in introductory provisions and before “grade of first lieutenant” in subpar. (B).
 
-1984—Par. (2). Pub. L. 98–525 substituted “18-month” for “eighteen-month”.
+<b>1984</b>—Par. (2). Pub. L. 98–525 substituted “18-month” for “eighteen-month”.
 

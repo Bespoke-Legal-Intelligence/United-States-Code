@@ -20,7 +20,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-21701(a)D36:41.DSept. 16, 1919, ch. 59, §§1, 2, 41 Stat. 284.
+21701(a)
+
+36:41.
+
+Sept. 16, 1919, ch. 59, §§1, 2, 41 Stat. 284.
 
 &nbsp;
 

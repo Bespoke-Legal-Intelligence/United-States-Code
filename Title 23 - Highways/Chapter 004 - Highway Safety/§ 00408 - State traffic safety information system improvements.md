@@ -98,13 +98,13 @@ The date of enactment of the SAFETEA–LU, referred to in subsec. (e)(3), is the
 
 #### Amendments
 
-2005—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to State traffic safety information system improvements for provisions relating to alcohol traffic safety programs.
+<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to State traffic safety information system improvements for provisions relating to alcohol traffic safety programs.
 
-1987—Subsec. (c). Pub. L. 100–17, §203(a), substituted “5” for “three” in introductory provisions and “third, fourth, and fifth fiscal years” for “third fiscal year” in par. (3).
+<b>1987</b>—Subsec. (c). Pub. L. 100–17, §203(a), substituted “5” for “three” in introductory provisions and “third, fourth, and fifth fiscal years” for “third fiscal year” in par. (3).
 
 Subsec. (g). Pub. L. 100–17, §203(b), inserted “and except that sums authorized by this subsection shall remain available until expended” before period at end of second sentence.
 
-1984—Subsec. (a). Pub. L. 98–363, §§4(a), 7(a), struck out “basic and supplemental” after “Secretary shall make” and inserted “or a controlled substance” after “alcohol”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–363, §§4(a), 7(a), struck out “basic and supplemental” after “Secretary shall make” and inserted “or a controlled substance” after “alcohol”.
 
 Subsec. (c)(1). Pub. L. 98–363, §4(b), inserted “and controlled substance” after “alcohol”.
 

@@ -68,7 +68,7 @@ Section was formerly classified to section 7274q of Title 42, The Public Health 
 
 #### Amendments
 
-2003—Subsec. (b)(2)(D). Pub. L. 108–137, §504(a), which directed that subsec. (b)(2) of section 3158 of the National Defense Authorization Act for Fiscal Year 1998 (42 U.S.C. 7274q(b)(2)) be amended by adding a subpar. (D), was executed to that section as renumbered by Pub. L. 108–136 to reflect the probable intent of Congress. See Amendment note below and Effective Date of 2003 Amendment note below.
+<b>2003</b>—Subsec. (b)(2)(D). Pub. L. 108–137, §504(a), which directed that subsec. (b)(2) of section 3158 of the National Defense Authorization Act for Fiscal Year 1998 (42 U.S.C. 7274q(b)(2)) be amended by adding a subpar. (D), was executed to that section as renumbered by Pub. L. 108–136 to reflect the probable intent of Congress. See Amendment note below and Effective Date of 2003 Amendment note below.
 
 Pub. L. 108–7, which directed the amendment of “Title 42 U.S.C. 7274g” by adding subpar. (D) to subsec. (b)(2), was probably intended to amend section 3158 of Pub. L. 105–85, which was formerly classified to section 7274q of title 42 prior to renumbering and transfer to this section by Pub. L. 108–136. However, the amendment was not executed in view of the enactment of section 504 of Pub. L. 108–137 which added a substantially identical subpar. (D). See Amendment note above and Effective Date of 2003 Amendment note below.
 

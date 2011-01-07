@@ -50,7 +50,7 @@
 
 (4) Amounts necessary to adjust for deficiencies in the account of a disbursing official because of transactions under subsection (a) of this section are authorized to be appropriated.
 
-(d) The Secretary of the Treasury and, with the approval of the Secretary, the head of an agency having jurisdiction over a disbursing official, may issue regulations to carry out this section. However, under conditions the Secretary decides are necessary, the Secretary may delegate to the head of an agency the authority to issue regulations applying to a disbursing official that is an officer or employee of the agency.
+(d) The Secretary of the Treasury and, with the approval of the Secretary, the head of an agency having jurisdiction over a disbursing official, may issue regulations to carry out this section. However, under conditions the Secretary decides are necessary, the Secretary may delegate to the head of an agency the authorityto issue regulations applying to a disbursing official that is an officer or employee of the agency.
 
 (e) Regulations prescribed under subsection (d) shall include regulations that define the terms “dependent” and “sponsor” for the purposes of this section. In the regulations, the term “dependent”, with respect to a member of a uniformed service, shall have the meaning given that term in section 401 of title 37.
 
@@ -106,7 +106,7 @@ In subsection (d), the words “rules and . . . governing the disbursing offic
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–136, §1224(b)(1), substituted “only for the following:” for “only for—” in introductory provisions.
+<b>2003</b>—Subsec. (b). Pub. L. 108–136, §1224(b)(1), substituted “only for the following:” for “only for—” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 108–136, §1224(b)(2), (5), substituted “An” for “an” and period for semicolon at end.
 
@@ -120,9 +120,9 @@ Subsec. (b)(7). Pub. L. 108–136, §1224(b)(4), (7), substituted “A” for �
 
 Subsec. (b)(8). Pub. L. 108–136, §1224(a), added par. (8).
 
-1999—Subsec. (f). Pub. L. 106–65 added subsec. (f).
+<b>1999</b>—Subsec. (f). Pub. L. 106–65 added subsec. (f).
 
-1996—Subsec. (b)(3). Pub. L. 104–201, §1011(1), substituted a semicolon for the period at end.
+<b>1996</b>—Subsec. (b)(3). Pub. L. 104–201, §1011(1), substituted a semicolon for the period at end.
 
 Pub. L. 104–106, §1090(a)(2), added par. (3). Former par. (3) redesignated (4).
 

@@ -10,7 +10,7 @@ Designation of Communities.—
 
 &emsp;(1)
 
-In general.—The Secretary may not designate any community under this section unless it is located within 100 miles by road of a hub airport and is not located in a noncontiguous State. In making the designation, the Secretary may take into consideration the total traveltime between a community and the nearest hub airport, taking into account terrain, traffic, weather, road conditions, and other relevant factors.
+In general.—The Secretary may not designate any community under this section unless it is located within 100 miles by road of a hub airport and is not located in a noncontiguous State. In making the designation, theSecretary may take into consideration the total traveltime between a community and the nearest hub airport, taking into account terrain, traffic, weather, road conditions, and other relevant factors.
 
 &emsp;(2)
 

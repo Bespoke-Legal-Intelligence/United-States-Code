@@ -30,7 +30,7 @@
 
 (3) An association between the occurrence of an illness in humans or animals and exposure to an agent, hazard, or medicine or vaccine shall be considered to be positive for purposes of this subsection if the credible evidence for the association is equal to or outweighs the credible evidence against the association.
 
-(c)(1) Not later than 60 days after the date on which the Secretary receives a report from the National Academy of Sciences under section 1603 of the Persian Gulf War Veterans Act of 1998, the Secretary shall determine whether or not a presumption of service connection is warranted for each illness, if any, covered by the report.
+(c)(1) Not later than 60 days after the date on which the Secretary receives a report from the National Academy of Sciences under section 1603 of the Persian Gulf War Veterans Act of 1998, theSecretary shall determine whether or not a presumption of service connection is warranted for each illness, if any, covered by the report.
 
 (2) If the Secretary determines under this subsection that a presumption of service connection is warranted, the Secretary shall, not later than 60 days after making the determination, issue proposed regulations setting forth the Secretary's determination.
 
@@ -56,7 +56,7 @@ Section 1603 of the Persian Gulf War Veterans Act of 1998, referred to in subsec
 
 #### Amendments
 
-2001—Subsec. (a)(4). Pub. L. 107–103, §202(b)(2), added par. (4).
+<b>2001</b>—Subsec. (a)(4). Pub. L. 107–103, §202(b)(2), added par. (4).
 
 Subsec. (e). Pub. L. 107–103, §202(d)(1), substituted “on September 30, 2011” for “10 years after the first day of the fiscal year in which the National Academy of Sciences submits to the Secretary the first report under section 1603 of the Persian Gulf War Veterans Act of 1998”.
 

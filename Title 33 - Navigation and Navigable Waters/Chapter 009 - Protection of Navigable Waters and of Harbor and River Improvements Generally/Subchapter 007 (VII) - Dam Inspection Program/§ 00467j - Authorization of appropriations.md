@@ -58,17 +58,17 @@ A prior section 13 of Pub. L. 92–367 was classified to section 467<i>l</i> of 
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–460, §1(d)(1), substituted “$6,500,000 for fiscal year 2007, $7,100,000 for fiscal year 2008, $7,600,000 for fiscal year 2009, $8,300,000 for fiscal year 2010, and $9,200,000 for fiscal year 2011” for “$6,000,000 for each of fiscal years 2003 through 2006”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–460, §1(d)(1), substituted “$6,500,000 for fiscal year 2007, $7,100,000 for fiscal year 2008, $7,600,000 for fiscal year 2009, $8,300,000 for fiscal year 2010, and $9,200,000 for fiscal year 2011” for “$6,000,000 for each of fiscal years 2003 through 2006”.
 
 Subsec. (b). Pub. L. 109–460, §1(d)(2), substituted “$650,000 for fiscal year 2007, $700,000 for fiscal year 2008, $750,000 for fiscal year 2009, $800,000 for fiscal year 2010, and $850,000 for fiscal year 2011” for “$500,000 for each fiscal year”.
 
 Subsec. (c). Pub. L. 109–460, §1(d)(3), substituted “$1,600,000 for fiscal year 2007, $1,700,000 for fiscal year 2008, $1,800,000 for fiscal year 2009, $1,900,000 for fiscal year 2010, and $2,000,000 for fiscal year 2011” for “$1,500,000 for each of fiscal years 2003 through 2006”.
 
-Subsec. (d). Pub. L. 109–460, §1(d)(4), substituted “$550,000 for fiscal year 2007, $600,000 for fiscal year 2008, $650,000 for fiscal year 2009, $700,000 for fiscal year 2010,and $750,000 for fiscal year 2011” for “$500,000 for each of fiscal years 2003 through 2006”.
+Subsec. (d). Pub. L. 109–460, §1(d)(4), substituted “$550,000 for fiscal year 2007, $600,000 for fiscal year 2008, $650,000 for fiscal year 2009, $700,000 for fiscal year 2010, and $750,000 for fiscal year 2011” for “$500,000 for each of fiscal years 2003 through 2006”.
 
 Subsec. (e). Pub. L. 109–460, §1(d)(5), substituted “$700,000 for fiscal year 2007, $800,000 for fiscal year 2008, $900,000 for fiscal year 2009, $1,000,000 for fiscal year 2010, and $1,100,000 for fiscal year 2011” for “$600,000 for each of fiscal years 2003 through 2006”.
 
-2002—Subsec. (a)(1). Pub. L. 107–310, §7(a)(2), substituted “$6,000,000 for each of fiscal years 2003 through 2006, to remain available until expended” for “$1,000,000 for fiscal year 1998, $2,000,000 for fiscal year 1999, $4,000,000 for fiscal year 2000, $4,000,000 for fiscal year 2001, and $4,000,000 for fiscal year 2002”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–310, §7(a)(2), substituted “$6,000,000 for each of fiscal years 2003 through 2006, to remain available until expended” for “$1,000,000 for fiscal year 1998, $2,000,000 for fiscal year 1999, $4,000,000 for fiscal year 2000, $4,000,000 for fiscal year 2001, and $4,000,000 for fiscal year 2002”.
 
 Pub. L. 107–310, §7(a)(1), made technical amendment to reference in original act which appears in text as reference to section 467h of this title.
 

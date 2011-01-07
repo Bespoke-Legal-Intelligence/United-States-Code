@@ -8,7 +8,7 @@
 
 &emsp;(B) the income of such individual, other than income excluded pursuant to section 1382a(b) of this title, is not equal to or in excess of the amount which would cause him to be ineligible for payments under section 1382 of this title and such individual meets all other non-disability-related requirements for eligibility for benefits under this subchapter.
 
-(2) The Commissioner of Social Security shall make a determination under paragraph (1)(A) with respect to an individual not later than 12 months after the first month for which the individual qualifies for a benefit under this subsection.
+(2) The Commissioner of Social Security shall make a determination under paragraph (1)(A) with respect to an individual not later than 12months after the first month for which the individual qualifies for a benefit under this subsection.
 
 #### (b) Blind or disabled individuals receiving supplemental security income benefits
 
@@ -24,7 +24,7 @@
 
 (2)(A) Determinations made under paragraph (1)(D) shall be based on information and data updated no less frequently than annually.
 
-(B) In determining an individual's earnings for purposes of paragraph (1)(D), there shall be excluded from such earnings an amount equal to the sum of any amounts which are or would be excluded under clauses (ii) and (iv) of section1382a(b)(4)(B) of this title (or under clauses (ii) and (iii) of section 1382a(b)(4)(A) of this title) in determining his or her income.
+(B) In determining an individual's earnings for purposes of paragraph (1)(D), there shall be excluded from such earnings an amount equal to the sum of any amounts which are or would be excluded under clauses (ii) and (iv) of section 1382a(b)(4)(B) of this title (or under clauses (ii) and (iii) of section 1382a(b)(4)(A) of this title) in determining his or her income.
 
 (3) In the case of a State that exercises the option under section 1396a(f) of this title, any individual who—
 
@@ -48,17 +48,17 @@ The Commissioner of Social Security and the Secretary of Education shall jointly
 
 #### Amendments
 
-1994—Subsecs. (a)(1), (2), (b)(1). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
+<b>1994</b>—Subsecs. (a)(1), (2), (b)(1). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
 
 Subsec. (b)(1)(B). Pub. L. 103–296, §205(a), inserted “and increases pursuant to section 415(i) of this title in the level of monthly insurance benefits to which the individual is entitled under subchapter II of this chapter that occur while such individual is considered to be receiving supplemental security income benefits by reason of this subsection” after “earnings”.
 
 Subsec. (d). Pub. L. 103–296, §107(a)(1), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” in two places.
 
-1990—Subsec. (b)(1). Pub. L. 101–508, §5032(a), struck out “under age 65” after “any individual” in introductory provisions.
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–508, §5032(a), struck out “under age 65” after “any individual” in introductory provisions.
 
 Subsecs. (c), (d). Pub. L. 101–508, §5039(a), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1986—Subsec. (a). Pub. L. 99–643, §4(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any individual who is an eligible individual (or eligible spouse) by reason of being under a disability and was eligible to receive benefits under section 1382(b) of this title or under this section for the month preceding the month for which eligibility for benefits under this section is now being determined, and who would otherwise be denied benefits by reason of section 1382(e)(4) of this title or ceases to be an eligible individual (or eligible spouse) because his earnings have demonstrated a capacity to engage in substantial gainful activity, shall nevertheless qualify for a monthly benefit equal to an amount determined under section 1382(b)(1) of this title (or, in the case of an individual who has an eligible spouse, under section 1382(b)(2) of this title), and for purposes of subchapter XIX of this chapter shall be considered a disabled individual receiving supplemental security income benefits under this subchapter, for so long as the Secretary determines that—
+<b>1986</b>—Subsec. (a). Pub. L. 99–643, §4(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) readas follows: “Any individual who is an eligible individual (or eligible spouse) by reason of being under a disability and was eligible to receive benefits under section 1382(b) of this title or under this section for the month preceding the month for which eligibility for benefits under this section is now being determined, and who would otherwise be denied benefits by reason of section 1382(e)(4) of this title or ceases to be an eligible individual (or eligible spouse) because his earnings have demonstrated a capacity to engage in substantial gainful activity, shall nevertheless qualify for a monthly benefit equal to an amount determined under section 1382(b)(1) of this title (or, in the case of an individual who has an eligible spouse, under section 1382(b)(2) of this title), and for purposes of subchapter XIX of this chapter shall be considered a disabled individual receiving supplemental security income benefits under this subchapter, for so long as the Secretary determines that—
 
 &emsp;“(1) such individual continues to have the disabling physical or mental impairment on the basis of which such individual was found to be under a disability, and continues to meet all non-disability-related requirements for eligibility for benefits under this subchapter; and
 
@@ -84,9 +84,9 @@ Subsec. (b)(2). Pub. L. 99–643, §4(b)(5), added par. (2).
 
 Subsec. (b)(3). Pub. L. 99–643, §7(a), added par. (3).
 
-1984—Subsec. (c). Pub. L. 98–460 added subsec. (c).
+<b>1984</b>—Subsec. (c). Pub. L. 98–460 added subsec. (c).
 
-1981—Subsec. (a). Pub. L. 97–35, §2353(<i>o</i>)(1), substituted in provision preceding par. (1) “subchapter XIX of this chapter” for “subchapters XIX and XX of this chapter”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2353(<i>o</i>)(1), substituted in provision preceding par. (1) “subchapter XIX of this chapter” for “subchapters XIX and XX of this chapter”.
 
 Subsec. (b). Pub. L. 97–35, §2353(<i>o</i>), substituted in provision preceding cl. (i) and in par. (4) “subchapter XIX of this chapter” for “subchapters XIX and XX of this chapter” and in par. (3) “subchapter XIX of this chapter” for “subchapter XIX or XX of this chapter”.
 

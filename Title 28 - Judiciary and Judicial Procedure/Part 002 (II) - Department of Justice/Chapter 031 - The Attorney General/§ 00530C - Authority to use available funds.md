@@ -42,7 +42,7 @@ General permitted uses.—Funds available to the Attorney General (i.e., all fun
 
 &emsp;&emsp;&emsp;(iii) advances of public moneys under section 3324 of title 31: <i>Provided</i>, That travel advances of such moneys to law enforcement personnel engaged in undercover activity shall be considered to be public money for purposes of section 3527 of title 31.
 
-&emsp;&emsp;(H) Contracting with individuals for personal services abroad, except that such individuals shall not be regarded as employees of the United States for the purpose of any law administered by the Office of Personnel Management.
+&emsp;&emsp;(H) Contracting with individuals for personal services abroad, except that such individuals shall not be regarded as employees of the United States for the purpose of any lawadministered by the Office of Personnel Management.
 
 &emsp;&emsp;(I) Payment of interpreters and translators who are not citizens of the United States, in accordance with procedures established and rules issued by the Attorney General.
 
@@ -174,7 +174,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Amendments
 
-2004—Subsec. (b)(2)(A), (B). Pub. L. 108–199 inserted “for the Bureau of Alcohol, Tobacco, Firearms and Explosives,” after “Marshals Service,”.
+<b>2004</b>—Subsec. (b)(2)(A), (B). Pub. L. 108–199 inserted “for the Bureau of Alcohol, Tobacco, Firearms and Explosives,” after “Marshals Service,”.
 
 #### Use of Federal Training Facilities
 
@@ -186,5 +186,5 @@ Federal Training Facilities.—Unless authorized in writing by the Attorney Gene
 
 “(b)
 
-Annual Report.—The Attorney General shall prepare an annual report to the Chairmen and ranking minority members of the Committees on the Judiciary of the Senate and of the House of Representatives that details each training and conference meeting authorized under subsection (a). The report shall include an explanation of why the facility was chosen, and a breakdown of any expenditures incurred in excess of the cost of conducting the training or meeting at a facility that did not require such authorization.”
+Annual Report.—The Attorney General shall prepare an annual report to the Chairmen and rankingminority members of the Committees on the Judiciary of the Senate and of the House of Representatives that details each training and conference meeting authorized under subsection (a). The report shall include an explanation of why the facility was chosen, and a breakdown of any expenditures incurred in excess of the cost of conducting the training or meeting at a facility that did not require such authorization.”
 

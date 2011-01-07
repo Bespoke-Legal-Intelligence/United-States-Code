@@ -96,9 +96,9 @@ Section was enacted as part of the USEC Privatization Act and also as part of th
 
 #### Amendments
 
-2005—Subsec. (a)(8). Pub. L. 109–58 added par. (8).
+<b>2005</b>—Subsec. (a)(8). Pub. L. 109–58 added par. (8).
 
-1996—Subsec. (b)(3). Pub. L. 104–206 which directed the amendment of subsec. (b) by inserting par. (3), was executed to reflect the probable intent of Congress by substituting par. (3) for former par. (3) which read as follows: “The Corporation shall pay to the Thrift Savings Fund such employee and agency contributions as are required by section 8432 of title 5 for those employees who elect to retain their coverage under FERS pursuant to paragraph (1).”
+<b>1996</b>—Subsec. (b)(3). Pub. L. 104–206 which directed the amendment of subsec. (b) by inserting par. (3), was executed to reflect the probable intent of Congress by substituting par. (3) for former par. (3) which read as follows: “The Corporation shall pay to the Thrift Savings Fund such employee and agency contributions as are required by section 8432 of title 5 for those employees who elect to retain their coverage under FERS pursuant to paragraph (1).”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

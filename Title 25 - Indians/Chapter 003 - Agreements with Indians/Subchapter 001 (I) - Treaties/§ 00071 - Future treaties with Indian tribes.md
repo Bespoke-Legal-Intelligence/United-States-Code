@@ -10,7 +10,7 @@ R.S. §2079 derived from act Mar. 3, 1871, ch. 120, §1, 16 Stat. 566.
 
 #### Amendments
 
-1988—Pub. L. 100–647 inserted sentence at end relating to State tax treatment of income derived by Indians from exercise of fishing rights secured by treaties, Executive orders, or Acts of Congress.
+<b>1988</b>—Pub. L. 100–647 inserted sentence at end relating to State tax treatment of income derived by Indians from exercise of fishing rights secured by treaties, Executive orders, or Acts of Congress.
 
 #### Effective Date of 1988 Amendment
 

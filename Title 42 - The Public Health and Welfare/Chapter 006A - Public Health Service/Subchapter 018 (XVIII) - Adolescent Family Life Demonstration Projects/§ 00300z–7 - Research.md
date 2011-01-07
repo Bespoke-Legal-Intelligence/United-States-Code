@@ -54,7 +54,7 @@ The Secretary shall, where appropriate, coordinate research and dissemination ac
 
 #### Amendments
 
-1984—Subsec. (g). Pub. L. 98–512 struck out subsec. (g) which provided for collection of survey data used primarily for generation of national population estimates.
+<b>1984</b>—Subsec. (g). Pub. L. 98–512 struck out subsec. (g) which provided for collection of survey data used primarily for generation of national population estimates.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “dissemination”.</i>
 

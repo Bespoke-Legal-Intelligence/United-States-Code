@@ -18,9 +18,13 @@ The provisions of sections 8432 and 8433 of this title shall not be construed to
 
 (Pub. L. 95–620, title VII, §721, Nov. 9, 1978, 92 Stat. 3333; Pub. L. 100–42, §1(c)(18), May 21, 1987, 101 Stat. 313.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
+
 #### Amendments
 
-1987—Subsec. (c). Pub. L. 100–42 struck out subsec. (c) which read as follows: “No person shall be subject to any penalty under this part with respect to the operation of any powerplant in excess of that allowed by an exemption granted on the basis of the operation of such powerplant as a peakload powerplant if it is demonstrated to the Secretary that such operation was necessary to meet peakload demand and that other peakload powerplants within the same system as such powerplant—
+<b>1987</b>—Subsec. (c). Pub. L. 100–42 struck out subsec. (c) which read as follows: “No person shall be subject to any penalty under this part with respect to the operation of any powerplant in excess of that allowed by an exemption granted on the basis of the operation of such powerplant as a peakload powerplant if it is demonstrated to the Secretary that such operation was necessary to meet peakload demand and that other peakload powerplants within the same system as such powerplant—
 
 &emsp;“(1) were unavailable for service—
 

@@ -18,7 +18,7 @@ Additional General Officers.—(1) In addition to the Chief of the National Guar
 
 &emsp;(ii) is determined by the Chairman of the Joint Chiefs of Staff, in accordance with criteria and as a result of a process established by the Chairman, to have significant joint duty experience.
 
-(C) An officer on active duty for service as the Director, Army National Guard, or the Director, Air National Guard, shall be counted for purposes of the grade limitations under sections 525 and 526 of this title.
+(C) An officer on active duty for service as the Director, Army National Guard, or the Director,Air National Guard, shall be counted for purposes of the grade limitations under sections 525 and 526 of this title.
 
 (D) Until December 31, 2006, the Secretary of Defense may waive clause (ii) of subparagraph (B) with respect to the appointment of an officer as Director, Army National Guard, or as Director, Air National Guard, if the Secretary of the military department concerned requests the waiver and, in the judgment of the Secretary of Defense—
 
@@ -38,17 +38,17 @@ Other Officers.—There are in the National Guard Bureau a legal counsel, a comp
 
 #### Amendments
 
-2004—Subsec. (a)(1). Pub. L. 108–375, §508(b)(4), substituted “Chief of the National Guard Bureau and the Director of the Joint Staff of the National Guard Bureau” for “Chief and Vice Chief of the National Guard Bureau” in introductory provisions.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–375, §508(b)(4), substituted “Chief of the National Guard Bureau and the Director of the Joint Staff of the National Guard Bureau” for “Chief and Vice Chief of the National Guard Bureau” in introductory provisions.
 
 Subsec. (a)(3)(D). Pub. L. 108–375, §536(a), substituted “December 31, 2006” for “December 31, 2004”.
 
-2002—Subsec. (a)(3)(D). Pub. L. 107–314 substituted “December 31, 2004” for “October 1, 2003”.
+<b>2002</b>—Subsec. (a)(3)(D). Pub. L. 107–314 substituted “December 31, 2004” for “October 1, 2003”.
 
-2000—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title V, §507(e)(1)\], substituted “shall be appointed in accordance with paragraph (3), shall hold the grade of lieutenant general while so serving, and shall” for “while so serving shall hold the grade of major general or, if appointed to that position in accordance with section 12505(a)(2) of this title, the grade of lieutenant general, and” in subpars. (A) and (B).
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title V, §507(e)(1)\], substituted “shall be appointed in accordance with paragraph (3), shall hold the grade of lieutenant general while so serving, and shall” for “while so serving shall hold the grade of major general or, if appointed to that position in accordance with section 12505(a)(2) of this title, the grade of lieutenant general, and” in subpars. (A) and (B).
 
 Subsec. (a)(3). Pub. L. 106–398, §1 \[\[div. A\], title V, §507(e)(2)\], added par. (3).
 
-1999—Subsec. (a)(1)(A), (B). Pub. L. 106–65 inserted “or, if appointed to that position in accordance withsection 12505(a)(2) of this title, the grade of lieutenant general,” after “major general”.
+<b>1999</b>—Subsec. (a)(1)(A), (B). Pub. L. 106–65 inserted “or, if appointed to that position in accordance with section 12505(a)(2) of this title, the grade of lieutenant general,” after “major general”.
 
 #### Effective Date of 1999 Amendment; Applicability to Incumbents
 

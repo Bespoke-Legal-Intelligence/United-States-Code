@@ -16,9 +16,9 @@ Grants made under this section in any State in any year shall be made in accorda
 
 #### (d) Technical assistance costs
 
-(1) The Secretary may make grants to States for paying technical assistance costs. Schools in any State shall not be allocated less than 30 percent of the funds for energy conservation projects within such State and hospitals in any State shall not be allocated less than 30 percent of such funds.
+(1) The Secretary may make grants to States for paying technical assistance costs. Schools in any State shall not be allocated less than 30 percent of the funds for energy conservation projects within such State and hospitals in anyState shall not be allocated less than 30 percent of such funds.
 
-(2) A State may utilize up to 100 percent of the funds provided by the Secretary under this part for any fiscal year for program and technical assistance and up to 50 percent of such funds for marketing and other costs associated with leveraging of non-Federal funds for carrying outthis part and may administer a continuous and consecutive application and award procedure for providing program and technical assistance under this part in accordance with regulations that the Secretary shall establish, if the State—
+(2) A State may utilize up to 100 percent of the funds provided by the Secretary under this part for any fiscal year for program and technical assistance and up to 50 percent of such funds for marketing and other costs associated with leveraging of non-Federal funds for carrying out this part and may administer a continuous and consecutive application and award procedure for providing program and technical assistance under this part in accordance with regulations that the Secretary shall establish, if the State—
 
 &emsp;(A) has adopted a State plan in accordance with section 6371c of this title, the administration of which is in accordance with applicable regulations; and
 
@@ -28,7 +28,7 @@ Grants made under this section in any State in any year shall be made in accorda
 
 #### Amendments
 
-1990—Subsec. (b)(1). Pub. L. 101–440, §6(a), inserted at end “The non-Federal share of the costs of any such energy conservation project may be provided by using programs of innovative financing for energy conservation projects (including, but not limited to, loan programs and performance contracting), even if, pursuant to such financing, clear title to the equipment does not pass to the school or hospital until after the grant is completed.”
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–440, §6(a), inserted at end “The non-Federal share of the costs of any such energy conservation project may be provided by using programs of innovative financing for energy conservation projects (including, but not limited to, loan programs and performance contracting), even if, pursuant to such financing, clear title to the equipment does not pass to the school or hospital until after the grant is completed.”
 
 Subsec. (d). Pub. L. 101–440, §6(d), designated existing provisions as par. (1) and added par. (2).
 

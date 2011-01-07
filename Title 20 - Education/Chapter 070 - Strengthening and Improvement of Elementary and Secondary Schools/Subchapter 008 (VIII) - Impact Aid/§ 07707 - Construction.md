@@ -8,7 +8,7 @@
 
 #### (2) Additional requirements
 
-&emsp;A local educational agency that receives a basic support payment under section 7703(b)(1) of this title shall also meet at least one of the following requirements:
+&emsp;A local educational agency that receives a basic support payment under section 7703(b)(1)of this title shall also meet at least one of the following requirements:
 
 &emsp;&emsp;(A) The number of children determined under section 7703(a)(1)(C) of this title for the agency for the preceding school year constituted at least 50 percent of the total student enrollment in the schools of the agency during the preceding school year.
 
@@ -52,7 +52,7 @@
 
 #### (2) Priority
 
-&emsp;In approving applications from local educational agencies for emergency grants andmodernization grants under this subsection, the Secretary shall give priority to applications in accordance with the following:
+&emsp;In approving applications from local educational agencies for emergency grants and modernization grants under this subsection, the Secretary shall give priority to applications in accordance with the following:
 
 &emsp;&emsp;(A) The Secretary shall first give priority to applications for emergency grants from local educational agencies that meet the requirements of paragraph (3)(A) and, among such applications for emergency grants, shall give priority to those applications of local educational agencies based on the severity of the emergency, as determined by the Secretary.
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) has minimal capacity to issue bonds and is at not less than 75 percent of the agency's limit of bonded indebtedness; or
 
-&emsp;&emsp;&emsp;&emsp;(III) does not meet the requirements of subclauses (I) and (II) but is eligible to receive funds under section 7703(b)(2) of this title for the fiscal year; and
+&emsp;&emsp;&emsp;&emsp;(III) does not meet the requirements of subclauses (I) and (II) but is eligible toreceive funds under section 7703(b)(2) of this title for the fiscal year; and
 
 &emsp;&emsp;&emsp;(ii) the agency is eligible to receive assistance under subsection (a) of this section for the fiscal year and has a school facility emergency, as determined by the Secretary, that poses a health or safety hazard to the students and school personnel assigned to the school facility.
 
@@ -108,7 +108,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any school described in clause (ii) that desires to receive an emergency grant or amodernization grant under subparagraph (B) or (D) of paragraph (2), respectively, shall, except as provided in the following sentence, submit an application in accordance with paragraph (6), and shall otherwise be treated as a local educational agency for the purpose of this subsection. The school shall submit an application for the grant to the local educational agency of such school and the agency shall submit the application on behalf of the school to the Secretary.
+&emsp;&emsp;&emsp;Any school described in clause (ii) that desires to receive an emergency grant or a modernization grant under subparagraph (B) or (D) of paragraph (2), respectively, shall, except as provided in the following sentence, submit an application in accordance with paragraph (6), and shall otherwise be treated as a local educational agency for the purpose of this subsection. The school shall submit an application for the grant to the local educational agency of such school and the agency shall submit the application on behalf of the school to the Secretary.
 
 #### (ii) School described
 
@@ -208,7 +208,7 @@
 
 #### (B) Emergency grants; prohibition on use of funds
 
-&emsp;&emsp;A local educational agency that is awarded an emergency grant under this subsection may not use amounts under the grant for the complete or partial replacement of an existing school facility unless such replacement is less expensive or more cost-effective than correcting the identified emergency.
+&emsp;&emsp;A local educational agency that is awarded an emergency grant under this subsectionmay not use amounts under the grant for the complete or partial replacement of an existing school facility unless such replacement is less expensive or more cost-effective than correcting the identified emergency.
 
 #### (6) Application
 
@@ -256,11 +256,11 @@
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–110 amended heading and text generally, reorganizing and revising provisions relating to emergency and modernization grants.
+<b>2002</b>—Subsec. (b). Pub. L. 107–110 amended heading and text generally, reorganizing and revising provisions relating to emergency and modernization grants.
 
-2000—Pub. L. 106–398 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) authorizing payments to certain local educational agencies for construction.
+<b>2000</b>—Pub. L. 106–398 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) authorizing payments to certain local educational agencies for construction.
 
-1996—Subsec. (a)(2)(B). Pub. L. 104–134 struck out “and in which the agency at any 2 times during the four fiscal years preceding October 20, 1994, was denied by a vote of the agency's eligible voters a bond referendum for the purposes of school construction or renovation” before semicolon at end.
+<b>1996</b>—Subsec. (a)(2)(B). Pub. L. 104–134 struck out “and in which the agency at any 2 times during the four fiscal years preceding October 20, 1994, was denied by a vote of the agency's eligible voters a bond referendum for the purposes of school construction or renovation” before semicolon at end.
 
 #### Change of Name
 

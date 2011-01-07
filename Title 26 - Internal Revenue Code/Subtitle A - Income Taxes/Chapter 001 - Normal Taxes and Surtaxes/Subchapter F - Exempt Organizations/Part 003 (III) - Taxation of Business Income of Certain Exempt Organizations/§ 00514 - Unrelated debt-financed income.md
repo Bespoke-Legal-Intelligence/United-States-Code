@@ -6,7 +6,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (1) Percentage of income taken into account
 
-&emsp;There shall be included with respect to each debt-financed property as an item of gross income derived from an unrelated trade or business an amount which is the same percentage (but not in excess of 100 percent) of the total gross income derived during the taxable yearfrom or on account of such property as (A) the average acquisition indebtedness (as defined in subsection (c)(7)) for the taxable year with respect to the property is of (B) the average amount (determined under regulations prescribed by the Secretary) of the adjusted basis of such property during the period it is held by the organization during such taxable year.
+&emsp;There shall be included with respect to each debt-financed property as an item of gross income derived from an unrelated trade or business an amount which is the same percentage (but not in excess of 100 percent) of the total gross income derived during the taxable year from or on account of such property as (A) the average acquisition indebtedness (as defined in subsection (c)(7)) for the taxable year with respect to the property is of (B) the average amount (determined under regulations prescribed by the Secretary) of the adjusted basis of such property during the period it is held by the organization during such taxable year.
 
 #### (2) Percentage of deductions taken into account
 
@@ -52,7 +52,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 &emsp;&emsp;&emsp;(ii) the organization (for the period after the first 5 years of the 10-year period) is unable to establish to the satisfaction of the Secretary that it is reasonably certain that the land will be used in the manner described in paragraph (1)(A) before the expiration of the 10-year period,
 
-> &emsp;&emsp;but the land is converted to such use by the organization within the 10-year period, thereal property (subject to the provisions of subparagraph (D)) shall not be treated as debt-financed property for any period before such conversion. For purposes of this subparagraph, land shall not be treated as used in the manner described in paragraph (1)(A) by reason of the use made of any structure which was on the land when acquired by the organization.
+> &emsp;&emsp;but the land is converted to such use by the organization within the 10-year period, the real property (subject to the provisions of subparagraph (D)) shall not be treated as debt-financed property for any period before such conversion. For purposes of this subparagraph, land shall not be treated as used in the manner described in paragraph (1)(A)by reason of the use made of any structure which was on the land when acquired by the organization.
 
 #### (C) Limitations
 
@@ -262,7 +262,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (iii) Disqualified holder
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “disqualified holder” means anyshareholder (or beneficiary) which is not described in clause (i) or (ii) of subparagraph (C).
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “disqualified holder” means any shareholder (or beneficiary) which is not described in clause (i) or (ii) of subparagraph (C).
 
 #### (G) Special rules for purposes of the exceptions
 
@@ -328,9 +328,9 @@ For purposes of this section, the term “real property” includes personal pro
 
 #### (g) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry outthe purposes of this section, including regulations to prevent the circumvention of any provision of this section through the use of segregated asset accounts.
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations to prevent the circumvention of any provision of this section through the use of segregated asset accounts.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 172; Pub. L. 86–667, §5, July 14, 1960, 74 Stat. 536; Pub. L. 91–172, title I, §121(d)(1), (3)(A), (B), Dec. 30, 1969, 83 Stat. 543, 548; Pub. L. 93–625, §7(b)(2), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIII, §1308(a), title XIX, §§1901(a)(72), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1729, 1776, 1834; Pub. L. 95–345, §2(c), Aug. 15, 1978, 92 Stat. 482; Pub. L. 96–605, title I, §110(a), Dec. 28, 1980, 94 Stat. 3525; Pub. L. 98–369, div. A, title I, §174(b)(5)(B), title X, §1034(a), (b), July 18, 1984, 98 Stat. 707, 1039, 1040; Pub. L. 99–514, title II, §201(d)(9), title XVI, §1603(b), title XVIII, §1878(e), Oct. 22, 1986, 100 Stat. 2141, 2768, 2903; Pub. L. 100–203, title X, §10214(a), (b), Dec. 22, 1987, 101 Stat. 1330–407; Pub. L. 100–647, title I, §§1016(a)(5)(A), (6), 1018(u)(13), title II, §2004(h), Nov. 10, 1988, 102 Stat. 3574, 3575, 3590, 3603; Pub. L. 101–239, title VII, §7811(<i>l</i>), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 103–66, title XIII, §13144(a), (b), Aug. 10, 1993, 107 Stat. 441, 442; Pub. L. 108–357, title II, §247(a), title VII, §702(b), Oct. 22, 2004, 118 Stat. 1449, 1546; Pub. L. 109–135, title IV, §412(ee)(2), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title VIII, §866(a), Aug. 17, 2006, 120 Stat. 1025.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 172; Pub. L. 86–667, §5, July 14, 1960, 74 Stat. 536; Pub. L. 91–172, title I, §121(d)(1), (3)(A), (B), Dec. 30, 1969, 83 Stat. 543, 548; Pub. L. 93–625, §7(b)(2), Jan. 3,1975, 88 Stat. 2115; Pub. L. 94–455, title XIII, §1308(a), title XIX, §§1901(a)(72), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1729, 1776, 1834; Pub. L. 95–345, §2(c), Aug. 15, 1978, 92 Stat. 482; Pub. L. 96–605, title I, §110(a), Dec. 28, 1980, 94 Stat. 3525; Pub. L. 98–369, div. A, title I, §174(b)(5)(B), title X, §1034(a), (b), July 18, 1984, 98 Stat. 707, 1039, 1040; Pub. L. 99–514, title II, §201(d)(9), title XVI, §1603(b), title XVIII, §1878(e), Oct. 22, 1986, 100 Stat. 2141, 2768, 2903; Pub. L. 100–203, title X, §10214(a), (b), Dec. 22, 1987, 101 Stat. 1330–407; Pub. L. 100–647, title I, §§1016(a)(5)(A), (6), 1018(u)(13), title II, §2004(h), Nov. 10, 1988, 102 Stat. 3574, 3575, 3590, 3603; Pub. L. 101–239, title VII, §7811(<i>l</i>), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 103–66, title XIII, §13144(a), (b), Aug. 10, 1993, 107 Stat. 441, 442; Pub. L. 108–357, title II, §247(a), title VII, §702(b), Oct. 22, 2004, 118 Stat. 1449, 1546; Pub. L. 109–135, title IV, §412(ee)(2), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title VIII, §866(a), Aug. 17, 2006, 120 Stat. 1025.)
 
 #### References in Text
 
@@ -342,23 +342,23 @@ The Small Business Investment Act of 1958, referred to in subsec. (c)(6)(A)(ii),
 
 #### Amendments
 
-2006—Subsec. (c)(9)(C)(iv). Pub. L. 109–280 added cl. (iv).
+<b>2006</b>—Subsec. (c)(9)(C)(iv). Pub. L. 109–280 added cl. (iv).
 
-2005—Subsec. (b)(1)(E). Pub. L. 109–135 substituted “section 512(b)(19)” for “section 512(b)(18)”.
+<b>2005</b>—Subsec. (b)(1)(E). Pub. L. 109–135 substituted “section 512(b)(19)” for “section 512(b)(18)”.
 
-2004—Subsec. (b)(1)(E). Pub. L. 108–357, §702(b), added subpar. (E).
+<b>2004</b>—Subsec. (b)(1)(E). Pub. L. 108–357, §702(b), added subpar. (E).
 
 Subsec. (c)(6). Pub. L. 108–357, §247(a), reenacted heading without change and amended text of par. (6) generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘acquisition indebtedness’ does not include an obligation, to the extent that it is insured by the Federal Housing Administration, to finance the purchase, rehabilitation, or construction of housing for low and moderate income persons.”
 
-1993—Subsec. (c)(9)(A). Pub. L. 103–66, §13144(b)(1), inserted at end “For purposes of this paragraph, an interest in a mortgage shall in no event be treated as real property.”
+<b>1993</b>—Subsec. (c)(9)(A). Pub. L. 103–66, §13144(b)(1), inserted at end “For purposes of this paragraph, an interest in a mortgage shall in no event be treated as real property.”
 
 Subsec. (c)(9)(B). Pub. L. 103–66, §13144(b)(2), struck out at end “For purposes of this paragraph, an interest in a mortgage shall in no event be treated as real property.”
 
 Subsec. (c)(9)(G), (H). Pub. L. 103–66, §13144(a), added subpars. (G) and (H).
 
-1989—Subsec. (c)(9)(E), (F). Pub. L. 101–239 redesignated the subpar. (E), relating to special rules for organizations described in section 501(c)(25), as (F).
+<b>1989</b>—Subsec. (c)(9)(E), (F). Pub. L. 101–239 redesignated the subpar. (E), relating to special rules for organizations described in section 501(c)(25), as (F).
 
-1988—Subsec. (c)(9)(B). Pub. L. 100–647, §1016(a)(6), substituted “this paragraph” for “clause (vi)” in last sentence.
+<b>1988</b>—Subsec. (c)(9)(B). Pub. L. 100–647, §1016(a)(6), substituted “this paragraph” for “clause (vi)” in last sentence.
 
 Pub. L. 100–647, §1018(u)(13)(A), amended directory language of Pub. L. 99–514, §1878(e)(1), (3), to clarify that general amendment by section 1878(e)(3) included concluding provision as well as cl. (vi) and that amendment by section 1878(e)(1) should have been to the concluding provisions as amended by section 1878(e)(3).
 
@@ -368,7 +368,7 @@ Subsec. (c)(9)(E)(i). Pub. L. 100–647, §2004(h)(2), in subsec. (c)(9)(E), rel
 
 Subsec. (c)(9)(E)(iii). Pub. L. 100–647, §2004(h)(1), in subsec. (c)(9)(E) relating to certain allocations permitted, added cl. (iii).
 
-1987—Subsec. (c)(9)(B)(vi). Pub. L. 100–203, §10214(a), amended cl. (vi) generally. Prior to amendment, cl. (vi) read as follows: “the real property is held by a partnership (which does not fail to meet the requirements of clauses (i) through (v)), and—
+<b>1987</b>—Subsec. (c)(9)(B)(vi). Pub. L. 100–203, §10214(a), amended cl. (vi) generally. Prior to amendment, cl. (vi) read as follows: “the real property is held by a partnership (which does not fail to meet the requirements of clauses (i) through (v)), and—
 
 &emsp;“(I) any partner of the partnership is not a qualified organization, and
 
@@ -376,7 +376,7 @@ Subsec. (c)(9)(E)(iii). Pub. L. 100–647, §2004(h)(1), in subsec. (c)(9)(E) re
 
 Subsec. (c)(9)(E). Pub. L. 100–203, §10214(b), added subpar. (E).
 
-1986—Subsec. (c)(9)(B). Pub. L. 99–514, §1878(e)(1), as amended by Pub. L. 100–647, §1018(u)(13)(A), which directed amendment of penultimate sentence by substituting “is unrelated business taxable income” for “would be unrelated business taxable income (determined without regard to this paragraph)”, was executed by making the substitution for “would be unrelated business taxable income (determined without regard to this paragraph”, as the probable intent of Congress.
+<b>1986</b>—Subsec. (c)(9)(B). Pub. L. 99–514, §1878(e)(1), as amended by Pub. L. 100–647, §1018(u)(13)(A), which directed amendment of penultimate sentence by substituting “is unrelated business taxable income” for “would be unrelated business taxable income (determined without regard to this paragraph)”, was executed by making the substitution for “would be unrelated business taxable income (determined without regard to this paragraph”, as the probable intent of Congress.
 
 Pub. L. 99–514, §1878(e)(3), as amended by Pub. L. 100–647, §1018(u)(13)(B), amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “For purposes of clause (vi)(I), an organization shall not be treated as a qualified organization if any income of such organization would be unrelated business taxable income (determined without regard to this paragraph).”
 
@@ -392,17 +392,17 @@ Subsec. (c)(9)(C)(i). Pub. L. 99–514, §1878(e)(2), substituted “section 509
 
 Subsec. (c)(9)(C)(iii). Pub. L. 99–514, §1603(b), added cl. (iii).
 
-1984—Subsec. (c)(9). Pub. L. 98–369, §1034(a), amended par. (9) generally, substituting provisions relating to real property acquired by a qualified organization for provisions relating to real property acquired by a qualified trust, with “qualified organization” expanded toinclude trusts constituting qualified trusts under section 401 of this title as well as organizations described in section 170(b)(1)(A)(ii) of this title and their affiliated support organizations described in section 509(a) of this title.
+<b>1984</b>—Subsec. (c)(9). Pub. L. 98–369, §1034(a), amended par. (9) generally, substituting provisions relating to real property acquired by a qualified organization for provisions relating to real property acquired by a qualified trust, with “qualified organization” expanded to include trusts constituting qualified trusts under section 401 of this title as well as organizations described in section 170(b)(1)(A)(ii) of this title and their affiliated support organizations described in section 509(a) of this title.
 
 Subsec. (c)(9)(B)(iii). Pub. L. 98–369, §174(b)(5)(B), inserted reference to section 707(b).
 
 Subsec. (g). Pub. L. 98–369, §1034(b), added subsec. (g).
 
-1980—Subsec. (c)(9). Pub. L. 96–605 added par. (9).
+<b>1980</b>—Subsec. (c)(9). Pub. L. 96–605 added par. (9).
 
-1978—Subsec. (c)(8). Pub. L. 95–345 added par. (8).
+<b>1978</b>—Subsec. (c)(8). Pub. L. 95–345 added par. (8).
 
-1976—Subsecs. (a)(1), (b)(3)(A), (B)(ii). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (a)(1), (b)(3)(A), (B)(ii). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (b)(3)(C)(iii). Pub. L. 94–455, §1901(a)(72)(C), substituted “(as defined in this section immediately before the enactment of the Tax Reform Act of 1976)” for “as (defined in subsection (f))” after “is a business lease”.
 
@@ -418,9 +418,9 @@ Subsec. (g). Pub. L. 94–455, §1901(a)(72)(B), struck out subsec. (g) relating
 
 Subsec. (h). Pub. L. 94–455, §1901(a)(72)(B), redesignated subsec. (h) as (f).
 
-1975—Subsec. (b)(3)(D). Pub. L. 93–625 struck out last sentence providing for allowance and payment of interest on any overpayment for a taxable year resulting from application of subpar. (B) after actual use condition was satisfied at rate of 4 in lieu of 6 percent per annum.
+<b>1975</b>—Subsec. (b)(3)(D). Pub. L. 93–625 struck out last sentence providing for allowance and payment of interest on any overpayment for a taxable year resulting from application of subpar. (B) after actual use condition was satisfied at rate of 4 in lieu of 6 percent per annum.
 
-1969—Subsec. (a). Pub. L. 91–172, §121(d)(1), substituted “Unrelated debt-financed income” for “Business leases” in heading and substituted in text material covering unrelated debt-financed income and deductions for material covering business lease rents and deductions.
+<b>1969</b>—Subsec. (a). Pub. L. 91–172, §121(d)(1), substituted “Unrelated debt-financed income” for “Business leases” in heading and substituted in text material covering unrelated debt-financed income and deductions for material covering business lease rents and deductions.
 
 Subsecs. (b) to (e). Pub. L. 91–172, §121(d)(1), (3)(A), added subsecs. (b), (c), (d) and (e). Former subsecs. (b), (c), and (d) redesignated (f), (g), and (h), respectively.
 
@@ -428,7 +428,7 @@ Subsec. (f). Pub. L. 91–172, §121(d)(3)(A), (B), redesignated subsec. (b) as 
 
 Subsecs. (g), (h). Pub. L. 91–172, §121(d)(3)(A), redesignated subsecs. (c) and (d) as (g) and (h), respectively.
 
-1960—Subsec. (c)(8). Pub. L. 86–667 added par. (8).
+<b>1960</b>—Subsec. (c)(8). Pub. L. 86–667 added par. (8).
 
 #### Effective Date of 2006 Amendment
 
@@ -482,7 +482,7 @@ Amendment by section 201(d)(9) of Pub. L. 99–514 not applicable to any propert
 
 Amendment by section 1603(b) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1603(c) of Pub. L. 99–514, set out as a note under section 501 of this title.
 
-Amendment by section 1878(e) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1878(e) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 

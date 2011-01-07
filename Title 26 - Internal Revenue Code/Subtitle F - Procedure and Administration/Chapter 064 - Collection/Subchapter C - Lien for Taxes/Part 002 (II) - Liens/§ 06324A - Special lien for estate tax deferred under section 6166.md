@@ -34,7 +34,7 @@ The agreement referred to in this subsection is a written agreement signed by ea
 
 &emsp;(1) consenting to the creation of the lien under this section with respect to such property, and
 
-&emsp;(2) designating a responsible person who shall be the agent for the beneficiaries of the estate and for the persons who have consented to the creation of the lien in dealings with the Secretary on matters arising under section 6166 or this section.
+&emsp;(2) designating a responsible person who shall be the agent for the beneficiaries of theestate and for the persons who have consented to the creation of the lien in dealings with the Secretary on matters arising under section 6166 or this section.
 
 #### (d) Special rules
 
@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### Amendments
 
-1981—Pub. L. 97–34, §422(e)(6)(C), struck out “or 6166A” after “section 6166” in section catchline.
+<b>1981</b>—Pub. L. 97–34, §422(e)(6)(C), struck out “or 6166A” after “section 6166” in section catchline.
 
 Subsecs. (a), (c)(2). Pub. L. 97–34, §422(e)(6)(A), struck out “or 6166A” after “section 6166”.
 
@@ -108,7 +108,7 @@ Subsec. (d)(3), (5). Pub. L. 97–34, §422(e)(6)(B), struck out “or 6166A(h)�
 
 Subsec. (e)(1), (3), (4). Pub. L. 97–34, §422(e)(6)(A), struck out “or 6166A” after “section 6166”.
 
-1978—Subsec. (b)(2)(B). Pub. L. 95–600, §702(e)(1)(B), substituted “required interest amount” for “aggregate interest amount”.
+<b>1978</b>—Subsec. (b)(2)(B). Pub. L. 95–600, §702(e)(1)(B), substituted “required interest amount” for “aggregate interest amount”.
 
 Subsec. (d)(5). Pub. L. 95–600, §702(e)(1)(C), substituted “required interest amount” for “aggregate interest amount”.
 

@@ -34,5 +34,5 @@ In subsection (b), the word “Mayor” is used because of Reorganization Plan N
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–447 inserted at end “A copy of each report shall also be transmitted to the Comptroller General on the same date the report is transmitted to the President and Congress.”
+<b>2004</b>—Subsec. (b). Pub. L. 108–447 inserted at end “A copy of each report shall also be transmitted to the Comptroller General on the same date the report is transmitted to the President and Congress.”
 

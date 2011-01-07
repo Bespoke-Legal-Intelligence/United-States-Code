@@ -28,9 +28,9 @@ An application for any payment under this subchapter shall be made and filed in 
 
 (1) An individual's entitlement to an annuity under paragraph (i), (ii), or (iii) of section 231a(a)(1) of this title or to a supplemental annuity under section 231a(b) of this title shall end with the month preceding the month in which he dies.
 
-(2) An individual's entitlement to an annuity under paragraph (iv) or (v) of section 231a(a)(1)of this title shall end on (A) the last day of the second month following the month in which he ceases to be disabled as provided for purposes of such paragraphs, (B) the last day of the month preceding the month in which he attains retirement age (as defined in section 216(<i>l</i>) of the Social Security Act \[42 U.S.C. 416(<i>l</i>)\]) or (C) the last day of the month preceding the month in which he dies, whichever first occurs.
+(2) An individual's entitlement to an annuity under paragraph (iv) or (v) of section 231a(a)(1) of this title shall end on (A) the last day of the second month following the month in which he ceases to be disabled as provided for purposes of such paragraphs, (B) the last day of the month preceding the month in which he attains retirement age (as defined in section 216(<i>l</i>) of the Social Security Act \[42 U.S.C. 416(<i>l</i>)\]) or (C) the last day of the month preceding the month in which he dies, whichever first occurs.
 
-(3) The entitlement of a spouse of an individual to an annuity under section 231a(c) of this title shall end on the last day of the month preceding the month in which (A) the spouse or the individual dies, (B) the spouse and the individual are absolutely divorced, or (C) in the case of a wife who does not satisfy the requirements of clause (ii)(A) or (ii)(B) of section 231a(c)(1) of this title (other than a wife who is receiving such annuity by reason of an election under section 231a(c)(2) of this title), such wife no longer has in her care a child described in clause (ii)(C) of section 231a(c)(1) of this title, whichever first occurs. The entitlement of the divorced wife of an individual to an annuity under section 231a(c) of this title shall end on the last day of the month preceding the month in which (A) the divorced wife or the individual dies or (B) the divorced wife remarries.
+(3) The entitlement of a spouse of an individual to an annuity under section 231a(c) of this title shall end on the last day of the month preceding the month in which (A) the spouse or the individual dies, (B) the spouse and the individual are absolutely divorced, or (C) in the case of a wife who does not satisfy the requirements of clause (ii)(A) or (ii)(B) of section 231a(c)(1) of this title (other than a wife who is receivingsuch annuity by reason of an election under section 231a(c)(2) of this title), such wife no longer has in her care a child described in clause (ii)(C) of section 231a(c)(1) of this title, whichever first occurs. The entitlement of the divorced wife of an individual to an annuity under section 231a(c) of this title shall end on the last day of the month preceding the month in which (A) the divorced wife or the individual dies or (B) the divorced wife remarries.
 
 (4) The entitlement of a widow or widower of a deceased employee to an annuity under paragraph (i) of section 231a(d)(1) of this title on the basis of age shall end on (A) the last day of the month preceding the month in which she or he dies or (B) the last day of the month preceding the month in which she or he remarries after the employee's death, whichever first occurs.
 
@@ -48,7 +48,7 @@ An application for any payment under this subchapter shall be made and filed in 
 
 &emsp;(B) if such individual is later determined to have been alive during any of such months, recovery of any benefits paid on the basis of such individual's compensation under section 231a(d) of this title for the months in which such individual was not known to be alive, minus the total of the amounts that would have been paid as a spouse's annuity during such months (treating the application for a widow's or widower's annuity as an application for spouse's annuity), shall be made in accordance with section 231<i>l</i> of this title.
 
-> For purposes of the payment of benefits under this subchapter, the death of an individual shall be presumed based on such individual's unexplained absence of not less than seven years, except that whenever the death of an individual is so established, such individual shall be deemed to have died in the month in which such individual disappeared.
+> For purposes of the payment of benefits under this subchapter, the death of an individual shall be presumed based on such individual's unexplained absence of not less than seven years, except that whenever the death of an individual is so established, such individual shall be deemedto have died in the month in which such individual disappeared.
 
 (Aug. 29, 1935, ch. 812, §5, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1332; amended Pub. L. 97–35, title XI, §1120, Aug. 13, 1981, 95 Stat. 636; Pub. L. 98–76, title I, §§103(a), 104(c), 106(i), (j), Aug. 12, 1983, 97 Stat. 415, 416, 418; Pub. L. 107–90, title I, §103(f), Dec. 21, 2001, 115 Stat. 881; Pub. L. 109–280, title X, §1003(a), Aug. 17, 2006, 120 Stat. 1053; Pub. L. 110–458, title I, §110(a)(2), Dec. 23, 2008, 122 Stat. 5112.)
 
@@ -58,13 +58,13 @@ The Social Security Act, referred to in subsecs. (a) and (b), is act Aug. 14, 19
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–458, which directed repeal of subsec. (d) of section 5 of the Railroad Retirement Act, was executed by striking out subsec. (d) of this section, which is section 5 of the Railroad Retirement Act of 1974, to reflect the probable intent of Congress. Text read as follows: “Notwithstanding any other provision of law, the payment of any portion of an annuity computed under section 231b(b) of this title to a surviving former spouse in accordance with a court decree of divorce, annulment, or legal separation or the terms of any court-approved property settlement incident to any such court decree shall not be terminated upon the death of the individual who performed the service with respect to which such annuity is so computed unless such termination is otherwise required by the terms of such court decree.”
+<b>2008</b>—Subsec. (d). Pub. L. 110–458, which directed repeal of subsec. (d) of section 5 of the Railroad Retirement Act, was executed by striking out subsec. (d) of this section, which is section 5 of the Railroad Retirement Act of 1974, to reflect the probable intent of Congress. Text read as follows: “Notwithstanding any other provision of law, the payment of any portion of an annuity computed under section 231b(b) of this title to a surviving former spouse in accordance with a court decree of divorce, annulment, or legal separation or the terms of any court-approved property settlement incident to any such court decree shall not be terminated upon the death of the individual who performed the service with respect to which such annuity is so computed unless such termination is otherwise required by the terms of such court decree.”
 
-2006—Subsec. (d). Pub. L. 109–280 added subsec. (d).
+<b>2006</b>—Subsec. (d). Pub. L. 109–280 added subsec. (d).
 
-2001—Subsec. (b). Pub. L. 107–90 inserted second and third sentences and struck out former second sentence which read as follows: “An application filed with the Board for an annuity under this subchapter shall, unless the applicant specifies otherwise, be deemed to be an application for any benefit to which such applicant may be entitled under this subchapter or title II of the Social Security Act.”
+<b>2001</b>—Subsec. (b). Pub. L. 107–90 inserted second and third sentences and struck out former second sentence which read as follows: “An application filed with the Board for an annuity under this subchapter shall, unless the applicant specifies otherwise, be deemed to be an application for any benefit to which such applicant may be entitled under this subchapter or title II of the Social Security Act.”
 
-1983—Subsec. (a). Pub. L. 98–76, §103(a)(1), substituted “Subject to the limitations set forth below, an annuity” for “An annuity” in provisions preceding cl. (i).
+<b>1983</b>—Subsec. (a). Pub. L. 98–76, §103(a)(1), substituted “Subject to the limitations set forth below, an annuity” for “An annuity” in provisions preceding cl. (i).
 
 Pub. L. 98–76, §103(a)(3), inserted provision following cl. (vii) that for purpose of determining annuity amounts provided under sections 231b(a), 231c(a), and 231c(f) of this title, provisions with respect to beginning dates of annuities set forth in this subsection shall be deemed to govern beginning dates of monthly benefits provided under Social Security Act.
 
@@ -80,7 +80,7 @@ Subsec. (c)(7)(D)(i). Pub. L. 98–76, §104(c)(1), substituted “full-time ele
 
 Subsec. (c)(7)(D)(ii). Pub. L. 98–76, §104(c)(2), substituted “19” for “22”.
 
-1981—Subsec. (a)(iv) to (vii). Pub. L. 97–35, §1120(a), added pars. (iv) to (vii).
+<b>1981</b>—Subsec. (a)(iv) to (vii). Pub. L. 97–35, §1120(a), added pars. (iv) to (vii).
 
 Subsec. (b). Pub. L. 97–35, §1120(b), substituted “title II of the Social Security Act” for “the Social Security Act”.
 
@@ -106,7 +106,7 @@ Section 103(b) of Pub. L. 98–76 provided that: “The amendments made by this 
 
 Amendment by section 104(c) of Pub. L. 98–76 effective with respect to annuities accruing for months after Aug. 1983, with certain exceptions, see section 104(d) of Pub. L. 98–76, set out as a note under section 231a of this title.
 
-Amendment by section 106(i), (j) of Pub. L. 98–76 effective Aug. 12, 1983, except such amendment inapplicableto certain annuity amounts, see section 106(k) of Pub. L. 98–76, set out as a note under section 231a of this title.
+Amendment by section 106(i), (j) of Pub. L. 98–76 effective Aug. 12, 1983, except such amendment inapplicable to certain annuity amounts, see section 106(k) of Pub. L. 98–76, set out as a note under section 231a of this title.
 
 #### Effective Date of 1981 Amendment
 

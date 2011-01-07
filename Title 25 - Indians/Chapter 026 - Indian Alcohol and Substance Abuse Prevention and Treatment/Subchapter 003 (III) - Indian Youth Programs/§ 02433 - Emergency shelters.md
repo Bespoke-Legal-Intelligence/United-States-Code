@@ -24,9 +24,9 @@ The Assistant Secretary of Indian Affairs shall, as part of the development of t
 
 #### (e) Authorization
 
-(1) For the planning and design, construction, and renovation of, or purchase or lease of land or facilities for, emergency shelters and half-way houses to provide emergency care for Indian youth, there are authorized to be appropriated $10,000,000 for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
+(1) For the planning and design, construction, and renovation of, or purchase or lease of land or facilities for, emergency shelters and half-way houses to provide emergency care for Indian youth, there are authorized to be appropriated $10,000,000 for each of fiscal years 2011 through 2015.
 
-(2) For the staffing and operation of emergency shelters and half-way houses, there are authorized to be appropriated $5,000,000 for fiscal year 1993 and $7,000,000 for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
+(2) For the staffing and operation of emergency shelters and half-way houses, there are authorized to be appropriated $5,000,000 for fiscal year 1993 and $7,000,000 for each of fiscal years 2011 through 2015.
 
 (3) The Secretary of the Interior shall allocate funds appropriated pursuant to this subsection on the basis of priority of need of the various Indian tribes and such funds, when allocated, shall be subject to contracting or available for grants pursuant to the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\].
 
@@ -36,13 +36,13 @@ The Assistant Secretary of Indian Affairs shall, as part of the development of t
 
 &emsp;(B) the Indian tribe or tribal organization enters into an agreement with the Secretary of the Interior that requires the Indian tribe or tribal organization to use the land or facilities for emergency shelters or half-way houses described in subsection (a) of this section.
 
-(5) Nothing in this chapter <sup>2</sup> may be construed—
+(5) Nothing in this Act may be construed—
 
 &emsp;(A) to limit the authority for contracts with, or grants to, Indian tribes or tribal organizations under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\] for the construction, improvement, renovation, operation, repair, land acquisition, or maintenance of tribal juvenile detention facilities, emergency shelters, or half-way houses, or
 
 &emsp;(B) to require a lease of tribal facilities to the United States to qualify for financial assistance for the facilities under this chapter or any other Act.
 
-(Pub. L. 99–570, title IV, §4213, Oct. 27, 1986, 100 Stat. 3207–144; Pub. L. 100–690, title II, §2207, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 101–272, Apr. 18, 1990, 104 Stat. 137; Pub. L. 102–573, title VII, §703(5), Oct. 29, 1992, 106 Stat. 4583.)
+(Pub. L. 99–570, title IV, §4213, Oct. 27, 1986, 100 Stat. 3207–144; Pub. L. 100–690, title II, §2207, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 101–272, Apr. 18, 1990, 104 Stat. 137; Pub. L. 102–573, title VII, §703(5), Oct. 29, 1992, 106 Stat. 4583; Pub. L. 111–211, title II, §241(c), July 29, 2010, 124 Stat. 2290.)
 
 #### References in Text
 
@@ -50,27 +50,35 @@ The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subs
 
 The Indian Self-Determination Act, referred to in subsec. (e)(3), (5)(A), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
-This chapter, referred to in subsec. (e)(5), was in the original “this Act” and was translated as reading “this subtitle”, meaning subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, as amended, known as the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, which is classified generally to this chapter, to reflect the probable intent of Congress. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
+This Act, referred to in subsec. (e)(5), is Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207, known as the Anti-Drug Abuse Act of 1986. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 801 of Title 21, Food and Drugs, and Tables.
+
+#### Codification
+
+The introductory provisions of subsec. (e)(5) are set out in this supplement to undo a translation appearing in the main edition.
 
 #### Amendments
 
-1992—Subsec. (e)(1), (2). Pub. L. 102–573 amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
+<b>2010</b>—Subsec. (e)(1). Pub. L. 111–211, §241(c)(1), substituted “each of fiscal years 2011 through 2015.” for “fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.”
+
+Subsec. (e)(2). Pub. L. 111–211, §241(c)(2), substituted “each of fiscal years 2011 through 2015.” for “each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.”
+
+Subsec. (e)(4), (5). Pub. L. 111–211, §241(c)(3), realigned margins.
+
+<b>1992</b>—Subsec. (e)(1), (2). Pub. L. 102–573 amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
 
 “(1) For the planning and design, construction, and renovation of, or purchase or lease of land or facilities for, emergency shelters or half-way houses to provide emergency care for Indian youth, there is authorized to be appropriated $5,000,000 for the fiscal year 1989 and $3,000,000 for each of the fiscal years 1990, 1991, and 1992.
 
 “(2) For the staffing and operation of emergency shelters and half-way houses, there is authorized to be appropriated $3,000,000 for the fiscal year 1989 and $3,000,000 for fiscal year 1990. An amount equal to the amount of funds appropriated pursuant to this paragraph for fiscal year 1990 shall be included in the base budget of the Bureau of Indian Affairs and funding thereafter shall be pursuant to section 13 of this title.”
 
-1990—Subsec. (e)(1). Pub. L. 101–272, §1(1), inserted “, or purchase or lease of land or facilities for,” after “renovation of”.
+<b>1990</b>—Subsec. (e)(1). Pub. L. 101–272, §1(1), inserted “, or purchase or lease of land or facilities for,” after “renovation of”.
 
 Subsec. (e)(3). Pub. L. 101–272, §1(2), inserted “or available for grants” after “subject to contracting”.
 
 Subsec. (e)(4), (5). Pub. L. 101–272, §1(3), added pars. (4) and (5).
 
-1988—Subsec. (a). Pub. L. 100–690, §2207(a), inserted provisions which permitted half-way houses to be used as either intake facilities or aftercare facilities, and authorized Indian Health Service, Bureau of Indian Affairs, and tribes to use resources to staff and operate such facilities.
+<b>1988</b>—Subsec. (a). Pub. L. 100–690, §2207(a), inserted provisions which permitted half-way houses to be used as either intake facilities or aftercare facilities, and authorized Indian Health Service, Bureau of Indian Affairs, and tribes to use resources to staff and operate such facilities.
 
 Subsec. (e). Pub. L. 100–690, §2207(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “For the planning and design, construction, and renovation of emergency shelters or half-way houses to provide emergency care for Indian youth, there is authorized to be appropriated $5,000,000 for each of the fiscal years 1987, 1988, and 1989. For the operation of emergency shelters or half-way houses there is authorized to be appropriated $3,000,000 for each of the fiscal years 1987, 1988, and 1989. The Secretary of the Interior shall allocate funds appropriated pursuant to this subsection on the basis of priority of need of the various Indian tribes and such funds, when allocated, shall be subject to contracting pursuant to the Indian Self-Determination Act.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “half-way”.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

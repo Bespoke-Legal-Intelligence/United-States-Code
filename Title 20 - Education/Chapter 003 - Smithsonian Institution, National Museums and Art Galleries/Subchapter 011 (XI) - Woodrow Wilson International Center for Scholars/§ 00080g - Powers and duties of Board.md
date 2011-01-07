@@ -20,17 +20,15 @@ In administering the Center, the Board shall have all necessary and proper power
 
 #### (b) Relocation assistance and programs
 
-The Board shall, in connection with acquisition of any site authorized by Congress, as provided for in paragraph (4) of subsection (a) of this section, provide, to businesses and residents displaced from any such site, relocation assistance, including payments and other benefits, equivalent to that authorized to displace businesses and residents under the Housing Act of1949, as amended \[42 U.S.C. 1441 et seq.\]. The Board shall develop a relocation program for existing businesses and residents within the site and submit such program to the government of the District of Columbia for a determination as to its adequacy and feasibility. In providing such relocation assistance and developing such relocation program the Board shall utilize to the maximum extent the services and facilities of the appropriate Federal and local agencies.
+The Board shall, in connection with acquisition of any site authorized by Congress, as provided for in paragraph (4) of subsection (a) of this section, provide, to businesses and residents displaced from any such site, relocation assistance, including payments and other benefits, equivalent to that authorized to displace businesses and residents under the Housing Act of 1949, as amended \[42 U.S.C. 1441 et seq.\]. The Board shall develop a relocation program for existing businesses and residents within the site and submit such program to the government of the District of Columbia for a determination as to its adequacy and feasibility. In providing such relocation assistance and developing such relocation program the Board shall utilize to the maximum extent the services and facilities of the appropriate Federal and local agencies.
 
 (Pub. L. 90–637, §4, Oct. 24, 1968, 82 Stat. 1358; Pub. L. 95–286, §2, May 26, 1978, 92 Stat. 279.)
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (a)(6), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
-
-The Housing Act of 1949, as amended, referred to in subsec. (b), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, as amended, referred to in subsec. (b), is act July 15, 1949, ch. 338, 63 Stat. 413, which is classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
 #### Amendments
 
-1978—Subsec. (a)(2). Pub. L. 95–286 substituted “devises” for “devices”.
+<b>1978</b>—Subsec. (a)(2). Pub. L. 95–286 substituted “devises” for “devices”.
 

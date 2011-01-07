@@ -22,7 +22,7 @@
 
 (e) With respect to transmission programs that have been fixed and transmitted to the public in the United States but have not been published, the Register of Copyrights shall, after consulting with the Librarian of Congress and other interested organizations and officials, establish regulations governing the acquisition, through deposit or otherwise, of copies or phonorecords of such programs for the collections of the Library of Congress.
 
-&emsp;(1) The Librarian of Congress shall be permitted, under the standards and conditions set forth in such regulations, to make a fixation of a transmission program directly from a transmission to the public, and to reproduceone copy or phonorecord from such fixation for archival purposes.
+&emsp;(1) The Librarian of Congress shall be permitted, under the standards and conditions set forth in such regulations, to make a fixation of a transmission program directly from a transmission to the public, and to reproduce one copy or phonorecord from such fixation for archival purposes.
 
 &emsp;(2) Such regulations shall also provide standards and procedures by which the Register of Copyrights may make written demand, upon the owner of the right of transmission in the United States, for the deposit of a copy or phonorecord of a specific transmission program. Such deposit may, at the option of the owner of the right of transmission in the United States, be accomplished by gift, by loan for purposes of reproduction, or by sale at a price not to exceed the cost of reproducing and supplying the copy or phonorecord. The regulations established under this clause shall provide reasonable periods of not less than three months for compliance with a demand, and shall allow for extensions of such periods and adjustments in the scope of the demand or the methods for fulfilling it, as reasonably warranted by the circumstances. Willful failure or refusal to comply with the conditions prescribed by such regulations shall subject the owner of the right of transmission in the United States to liability for an amount, not to exceed the cost of reproducing and supplying the copy or phonorecord in question, to be paid into a specially designated fund in the Library of Congress.
 
@@ -34,7 +34,7 @@
 
 #### Historical and Revision Notes
 
-I74house report no. 94–1476
+#### house report no. 94–1476
 
 The provisions of sections 407 through 411 of the bill mark another departure from the present law. Under the 1909 statute, deposit of copies for the collections of the Library of Congress and deposit of copies for purposes of copyright registration have been treated as the same thing. The bill's basic approach is to regard deposit and registration as separate though closely related: deposit of copies or phonorecords for the Library of Congress is mandatory, but exceptions can be made for material the Library neither needs nor wants; copyright registration is not generally mandatory, but is a condition of certain remedies for copyright infringement. Deposit for the Library of Congress can be, and in the bulk of cases undoubtedly will be, combined with copyright registration.
 
@@ -58,9 +58,9 @@ The Committee also amended section 407 \[this section\] by adding a new subsecti
 
 #### Amendments
 
-1997—Subsec. (d)(2). Pub. L. 105–80 substituted “cost to the Library of Congress” for “cost of the Library of Congress”.
+<b>1997</b>—Subsec. (d)(2). Pub. L. 105–80 substituted “cost to the Library of Congress” for “cost of the Library of Congress”.
 
-1988—Subsec. (a). Pub. L. 100–568 struck out “with notice of copyright” before “in the United States”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–568 struck out “with notice of copyright” before “in the United States”.
 
 #### Effective Date of 1988 Amendment
 

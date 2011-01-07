@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—Subject to this section and the availability of amounts, the Secretary of Transportation may make grants to States for the development or implementation of programs for improving motor carrier safety and the enforcement of regulations, standards,and orders of the United States Government on commercial motor vehicle safety, hazardous materials transportation safety, and compatible State regulations, standards, and orders.
+General Authority.—Subject to this section and the availability of amounts, the Secretary of Transportation may make grants to States for the development or implementation of programs for improving motor carrier safety and the enforcement of regulations, standards, and orders of the United States Government on commercial motor vehicle safety, hazardous materials transportation safety, and compatible State regulations, standards, and orders.
 
 (b)
 
@@ -136,7 +136,7 @@ In this section, the word “rules” is omitted as being synonymous with “reg
 
 In subsection (a), the words “Subject to this section and the availability of amounts” are substituted for “Under the terms and conditions of this section, subject to the availability of funds” to eliminate unnecessary words.
 
-In subsection (b)(1), before clause (A), the word “prescribe” is substituted for “formulate” for consistency in the revised title. Clause (D) is substituted for 49 App.:2302(d) to state the requirements of a plan in oneplace and to eliminate unnecessary words. In clause (K), the words “into law and practice” are omitted a unnecessary. In clause (O)(i), the words “highways of the United States” are substituted for “our Nation's highways” for consistency in the revised title and with other titles of the United States Code. In subclause (iii), the word “especially” is omitted as unnecessary.
+In subsection (b)(1), before clause (A), the word “prescribe” is substituted for “formulate” for consistency in the revised title. Clause (D) is substituted for 49 App.:2302(d) to state the requirements of a plan in one place and to eliminate unnecessary words. In clause (K), the words “into law and practice” are omitted a unnecessary. In clause (O)(i), the words “highways of the United States” are substituted for “our Nation's highways” for consistency in the revised title and with other titles of the United States Code. In subclause (iii), the word “especially” is omitted as unnecessary.
 
 In subsection (b)(3)(B), the words “Government financing” are substituted for “Federal funding” for clarity and consistency in the revised title.
 
@@ -146,7 +146,7 @@ In subsection (d), the words “the regulations, standards, or orders” are sub
 
 #### Amendments
 
-2005—Subsec. (b)(1)(A). Pub. L. 109–59, §4106(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “implements performance-based activities by fiscal year 2000;”.
+<b>2005</b>—Subsec. (b)(1)(A). Pub. L. 109–59, §4106(a)(1), added subpar. (A) and struck out former subpar. (A)which read as follows: “implements performance-based activities by fiscal year 2000;”.
 
 Subsec. (b)(1)(E). Pub. L. 109–59, §4106(a)(2), added subpar. (E) and struck out former subpar. (E) which read as follows: “provides that the total expenditure of amounts of the State and its political subdivisions (not including amounts of the Government) for commercial motor vehicle safety programs for enforcement of commercial motor vehicle size and weight limitations, drug interdiction, and State traffic safety laws and regulations under subsection (c) of this section will be maintained at a level at least equal to the average level of that expenditure for its last 3 full fiscal years before December 18, 1991;”.
 
@@ -168,11 +168,11 @@ Subsec. (c). Pub. L. 109–59, §4106(b)(1), added subsec. (c) and struck out he
 
 Subsec. (e). Pub. L. 109–59, §4106(b)(2), added subsec. (e).
 
-1999—Subsec. (b)(1)(A). Pub. L. 106–159, §207(1), realigned subpar. (A) margins.
+<b>1999</b>—Subsec. (b)(1)(A). Pub. L. 106–159, §207(1), realigned subpar. (A) margins.
 
 Subsec. (b)(1)(R). Pub. L. 106–159, §207(2), added subpar. (R) and struck out former subpar. (R) which read as follows: “ensures that the State will cooperate in the enforcement of registration and financial responsibility requirements under sections 31138 and 31139, or regulations issued thereunder;”.
 
-1998—Subsec. (a). Pub. L. 105–178, §4003(b)(1), inserted “improving motor carrier safety and” after “implementation of programs for” and “, hazardous materials transportation safety,” after “commercial motor vehicle safety”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §4003(b)(1), inserted “improving motor carrier safety and” after “implementation of programs for” and “, hazardous materials transportation safety,” after “commercial motor vehicle safety”.
 
 Subsec. (b)(1). Pub. L. 105–178, §4003(b)(2), in introductory provisions, substituted “assume responsibility for improving motor carrier safety and to adopt and enforce” for “adopt and assume responsibility for enforcing” and inserted “, hazardous materials transportation safety,” after “commercial motor vehicle safety”.
 
@@ -206,7 +206,7 @@ Subsec. (b)(1)(P). Pub. L. 105–178, §4003(c)(6), redesignated subpar. (O) as 
 
 Pub. L. 105–178, §4003(c)(4), added subpar. (P) and struck out former subpar. (P) which read as follows: “provides satisfactory assurances that the State will promote effective—
 
-&emsp;“(i) interdiction activities affecting the transportation of controlled substances by commercial motorvehicle drivers and training on appropriate strategies for carrying out those interdiction activities; and
+&emsp;“(i) interdiction activities affecting the transportation of controlled substances by commercial motor vehicle drivers and training on appropriate strategies for carrying out those interdiction activities; and
 
 &emsp;“(ii) use of trained and qualified officers and employees of political subdivisions and local governments, under the supervision and direction of the State motor vehicle safety agency, in the enforcement of regulations affecting commercial motor vehicle safety and hazardous material transportation safety; and”.
 
@@ -218,7 +218,7 @@ Subsec. (b)(1)(R). Pub. L. 105–178, §4003(c)(6), redesignated subpar. (Q) as 
 
 Subsec. (b)(1)(S), (T). Pub. L. 105–178, §4003(c)(5)(B), (8), added subpars. (S) and (T).
 
-1995—Subsec. (b)(1)(Q). Pub. L. 104–88 added subpar. (Q).
+<b>1995</b>—Subsec. (b)(1)(Q). Pub. L. 104–88 added subpar. (Q).
 
 #### Effective Date of 1995 Amendment
 

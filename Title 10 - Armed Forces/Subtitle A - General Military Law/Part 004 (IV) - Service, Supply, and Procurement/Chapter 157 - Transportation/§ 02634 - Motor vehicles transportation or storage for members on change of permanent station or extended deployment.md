@@ -1,6 +1,6 @@
 ### §2634. Motor vehicles: transportation or storage for members on change of permanent station or extended deployment
 
-(a) When a member of an armed force is ordered to make a change of permanent station, one motor vehicle that is owned or leased by the member (or a dependent of the member) and is for the personal use of the member or his dependents may, unless a motor vehicle owned or leased by him (or a dependent of his) was transported in advance of that change of permanentstation under section 406(h) of title 37, be transported, at the expense of the United States, to his new station or such other place as the Secretary concerned may authorize—
+(a) When a member of an armed force is ordered to make a change of permanent station, one motor vehicle that is owned or leased by the member (or a dependent of the member) and is for the personal use of the member or his dependents may, unless a motor vehicle owned or leased by him (or a dependent of his) was transported in advance of that change of permanent station under section 406(h) of title 37, be transported, at the expense of the United States, to his new station or such other place as the Secretary concerned may authorize—
 
 &emsp;(1) on a vessel owned, leased, or chartered by the United States;
 
@@ -70,9 +70,9 @@ The new section 2634 of title 10 combines sections 4748, 6157, and 9748 of this 
 
 #### Amendments
 
-2003—Subsecs. (h), (i). Pub. L. 108–136 added subsec. (h) and redesignated former subsec. (h) as (i).
+<b>2003</b>—Subsecs. (h), (i). Pub. L. 108–136 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-2002—Subsec. (b)(1), (2). Pub. L. 107–314, §575(a), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+<b>2002</b>—Subsec. (b)(1), (2). Pub. L. 107–314, §575(a), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) In lieu of transportation authorized by this section, if a member is ordered to make a change of permanent station to a foreign country and the laws, regulations, or other restrictions imposed by the foreign country or the United States preclude entry of a motor vehicle described in subsection (a) into that country, or would require extensive modification of the vehicle as a condition to entry, the member may elect to have the vehicle stored at the expense of the United States at a location approved by the Secretary concerned.
 
@@ -82,15 +82,15 @@ Subsec. (e). Pub. L. 107–296 substituted “of Homeland Security” for “of 
 
 Subsec. (h)(3). Pub. L. 107–314, §575(b), added par. (3).
 
-2001—Subsec. (b)(4). Pub. L. 107–107, §594(a), added par. (4).
+<b>2001</b>—Subsec. (b)(4). Pub. L. 107–107, §594(a), added par. (4).
 
 Subsec. (h)(1). Pub. L. 107–107, §594(b), substituted “includes the following:” and subpars. (A) and (B) for “includes an authorized change in home port of a vessel, or a transfer or assignment between two permanent stations in the continental United States when the member cannot, because of injury or the conditions of the order, drive the motor vehicle between the permanent duty stations.”
 
-1998—Subsec. (d). Pub. L. 105–261, §631(b)(2), substituted “section 406(j)” for “section 406(k)”.
+<b>1998</b>—Subsec. (d). Pub. L. 105–261, §631(b)(2), substituted “section 406(j)” for “section 406(k)”.
 
 Subsecs. (g), (h). Pub. L. 105–261, §653(a), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-1996—Pub. L. 104–201, §368(a)(2)(A), substituted “Motor vehicles: transportation or storage for members on change of permanent station or extended deployment” for “Motor vehicles: for members on change of permanent station” in section catchline.
+<b>1996</b>—Pub. L. 104–201, §368(a)(2)(A), substituted “Motor vehicles: transportation or storage for members on change of permanent station or extended deployment” for “Motor vehicles: for members on change of permanent station” in section catchline.
 
 Subsec. (b). Pub. L. 104–201, §368(a)(1)(C), added subsec. (b). Former subsec. (b) redesignated (g).
 
@@ -98,9 +98,9 @@ Subsec. (d). Pub. L. 104–106 substituted “section 406(k) of title 37” for 
 
 Subsec. (g). Pub. L. 104–201, §368(a)(1)(A), (B), redesignated subsec. (b) as (g) and transferred it to end of section.
 
-1992—Subsec. (f). Pub. L. 102–484 added subsec. (f).
+<b>1992</b>—Subsec. (f). Pub. L. 102–484 added subsec. (f).
 
-1987—Subsec. (a). Pub. L. 100–180, §616(a)(1), inserted “or leased” after “owned” in two places in introductory text.
+<b>1987</b>—Subsec. (a). Pub. L. 100–180, §616(a)(1), inserted “or leased” after “owned” in two places in introductory text.
 
 Subsec. (d). Pub. L. 100–26 redesignated subsec. (f) as (d).
 
@@ -108,21 +108,21 @@ Subsec. (e). Pub. L. 100–180, §616(a)(2), added subsec. (e).
 
 Subsec. (f). Pub. L. 100–26 redesignated subsec. (f) as (d).
 
-1986—Subsec. (a). Pub. L. 99–661, §611(a), substituted “by other surface transportation” for “in the case of movement, the major portion of which is by shipping services described in clause (1) or (2), by other surface transportation between customary ports of embarkation and debarkation” in par. (4), and struck out “, or his designee,” after “When the Secretary concerned” in last sentence.
+<b>1986</b>—Subsec. (a). Pub. L. 99–661, §611(a), substituted “by other surface transportation” for “in the case of movement, the major portion of which is by shipping services described in clause (1) or (2), by other surface transportation between customary ports of embarkation and debarkation” in par. (4), and struck out “, or his designee,” after “When the Secretary concerned” in last sentence.
 
 Subsec. (b). Pub. L. 99–661, §611(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In this section, ‘change of permanent station’ means the transfer or assignment of a member of the armed forces from one permanent station to another. It includes the change from home or from the place from which ordered to active duty to first station upon appointment, call to active duty, enlistment, or induction, and from last duty station to home or to the place from which ordered to active duty upon separation from the service, placement upon the temporary disability retired list, release from active duty, or retirement. It also includes an authorized change in home yard or home port of a vessel.”
 
 Subsec. (f). Pub. L. 99–661, §620(b)(2), added subsec. (f).
 
-1981—Subsec. (a). Pub. L. 97–60 substituted “one motor vehicle that is owned by the member (or a dependent of the member) and is for the personal use of the member or his dependents may, unless a motor vehicle owned by him (or a dependent of his) was transported” for “one motor vehicle owned by him and for his personal use or the use of his dependents may, unless a motor vehicle owned by him was transported” in provisions preceding par. (1) and, in provisions following par. (4), inserted “(or a dependent of the member)” after “one additional motor vehicle of the member”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–60 substituted “one motor vehicle that is owned by the member (or a dependent of the member) and is for the personal use of the member or his dependents may, unless a motor vehicle owned by him (or a dependent of his) was transported” for “one motor vehicle owned by him and for his personal use or the use of his dependents may, unless a motor vehicle owned by him was transported” in provisions preceding par. (1) and, in provisions following par. (4), inserted “(or a dependent of the member)” after “one additional motor vehicle of the member”.
 
-1974—Subsec. (a)(4). Pub. L. 93–548, §1, added par. (4).
+<b>1974</b>—Subsec. (a)(4). Pub. L. 93–548, §1, added par. (4).
 
 Subsec. (c). Pub. L. 93–548, §2, added subsec. (c).
 
-1965—Pub. L. 89–101 substituted “change of permanent station” for “permanent change of station” in section catchline, designated existing provisions as subsec. (a),substituted “change of permanent station” for “permanent change of station” in two places, inserted “or for the use of his dependents” and “or such other place as the Secretary concerned may authorize”, added cl. 3, provided for the transportation of one additional motor vehicle when replacement is necessary, and added subsec. (b).
+<b>1965</b>—Pub. L. 89–101 substituted “change of permanent station” for “permanent change of station” in section catchline, designated existing provisions as subsec. (a), substituted “change of permanent station” for “permanent change of station” in two places, inserted “or for the use of his dependents” and “or such other place as the Secretary concerned may authorize”, added cl. 3, provided for the transportation of one additional motor vehicle when replacement is necessary, and added subsec. (b).
 
-1964—Pub. L. 88–431 inserted “, leased, or chartered” and “unless a motor vehicle owned by him was transported in advance of that permanent change of station under section 406(h) of title 37”.
+<b>1964</b>—Pub. L. 88–431 inserted “, leased, or chartered” and “unless a motor vehicle owned by him was transported in advance of that permanent change of station under section 406(h) of title 37”.
 
 #### Effective Date of 2002 Amendments
 

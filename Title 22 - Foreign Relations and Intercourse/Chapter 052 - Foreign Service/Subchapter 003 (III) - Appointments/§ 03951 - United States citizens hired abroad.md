@@ -24,7 +24,7 @@ Nonfamily member United States citizens employed under this section shall not be
 
 #### Amendments
 
-1994—Pub. L. 103–415 substituted “United States citizens hired abroad” for “Employment of family members of Government employees” as section catchline and inserted “by reason of such employment” after “eligible” in subsec. (d).
+<b>1994</b>—Pub. L. 103–415 substituted “United States citizens hired abroad” for “Employment of family members of Government employees” as section catchline and inserted “by reason of such employment” after “eligible” in subsec. (d).
 
 Pub. L. 103–236 amended section generally. Prior to amendment, section read as follows:
 

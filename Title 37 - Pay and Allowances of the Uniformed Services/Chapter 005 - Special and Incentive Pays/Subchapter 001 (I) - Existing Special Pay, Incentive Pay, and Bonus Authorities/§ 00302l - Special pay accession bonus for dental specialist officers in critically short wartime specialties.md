@@ -30,15 +30,17 @@ Coordination With Other Accession Bonus Authority.—A person eligible to execut
 
 (g)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2010.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2011.
 
-(Added Pub. L. 109–364, div. A, title VI, §617(c), Oct. 17, 2006, 120 Stat. 2250; amended Pub. L. 110–181, div. A, title VI, §612(i), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §612(i), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §612(b)(8), Oct. 28, 2009, 123 Stat. 2353.)
+(Added Pub. L. 109–364, div. A, title VI, §617(c), Oct. 17, 2006, 120 Stat. 2250; amended Pub. L. 110–181, div. A, title VI, §612(i), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §612(i), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §612(b)(8), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(8), Jan. 7, 2011, 124 Stat. 4236.)
 
 #### Amendments
 
-2009—Subsec. (g). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+<b>2011</b>—Subsec. (g). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
-2008—Subsec. (g). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+<b>2009</b>—Subsec. (g). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+
+<b>2008</b>—Subsec. (g). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
 
 Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
 

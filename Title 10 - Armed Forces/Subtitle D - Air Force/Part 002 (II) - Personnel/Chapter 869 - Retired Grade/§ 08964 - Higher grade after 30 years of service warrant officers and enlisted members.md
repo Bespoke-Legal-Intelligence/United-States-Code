@@ -54,11 +54,11 @@ May 31, 1956, ch. 348, §1, 70 Stat. 222.
 
 #### Amendments
 
-1987—Pub. L. 100–180 substituted “warrant officers and enlisted members” for “Air Force warrant officers; regular enlisted members” in section catchline, and amended text generally. Prior to amendment, text read as follows: “Each warrant officer of the Air Force, and each enlisted member of the Regular Air Force, who is retired before or after this title is enacted is entitled, when his active service plus his service on the retired list totals 30 years, to be advanced on the retired list to the grade that is equal to the highest grade in which he served on active duty satisfactorily, as determined by the Secretary of the Air Force.”
+<b>1987</b>—Pub. L. 100–180 substituted “warrant officers and enlisted members” for “Air Force warrant officers; regular enlisted members” in section catchline, and amended text generally. Prior to amendment, text read as follows: “Each warrant officer of the Air Force, and each enlisted member of the Regular Air Force, who is retired before or after this title is enacted is entitled, when his active service plus his service on the retired list totals 30 years, to be advanced on the retired list to the grade that is equal to the highest grade in which he served on active duty satisfactorily, as determined by the Secretary of the Air Force.”
 
-1984—Pub. L. 98–525 substituted “highest grade” for “highest temporary grade”.
+<b>1984</b>—Pub. L. 98–525 substituted “highest grade” for “highest temporary grade”.
 
-1958—Pub. L. 85–861 struck out “after September 8, 1940 and before July 1, 1946” after “Secretary of the Air Force”.
+<b>1958</b>—Pub. L. 85–861 struck out “after September 8, 1940 and before July 1, 1946” after “Secretary of the Air Force”.
 
 #### Effective Date of 1987 Amendment
 

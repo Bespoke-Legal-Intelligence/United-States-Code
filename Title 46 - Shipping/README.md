@@ -1,5 +1,5 @@
 
-46 U.S.C.<br>United States Code, 2009 Edition<br>Title 46 - SHIPPING<br>From the U.S. Government Publishing Office, www.gpo.gov
+46 U.S.C.<br>United States Code, 2010 Edition<br>Title 46 - SHIPPING<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 46—SHIPPING
 
@@ -20,15 +20,15 @@
 
 #### Amendments
 
-2006—Pub. L. 109–304, §3, Oct. 6, 2006, 120 Stat. 1485, amended title analysis generally, adding item IV, substituting “50101” for “53101” in item V, adding item VI, substituting “SECURITY AND DRUG ENFORCEMENT” for “MISCELLANEOUS” in item VII, and adding item VIII.
+<b>2006</b>—Pub. L. 109–304, §3, Oct. 6, 2006, 120 Stat. 1485, amended title analysis generally, adding item IV, substituting “50101” for “53101” in item V, adding item VI, substituting “SECURITY AND DRUG ENFORCEMENT” for “MISCELLANEOUS” in item VII, and adding item VIII.
 
 Pub. L. 109–241, title IX, §901(k)(2), July 11, 2006, 120 Stat. 565, redesignated item VI “MISCELLANEOUS” as item VII.
 
-2003—Pub. L. 108–136, div. C, title XXXV, §3531(b), Nov. 24, 2003, 117 Stat. 1817, added item V.
+<b>2003</b>—Pub. L. 108–136, div. C, title XXXV, §3531(b), Nov. 24, 2003, 117 Stat. 1817, added item V.
 
-2002—Pub. L. 107–295, title I, §102(b), Nov. 25, 2002, 116 Stat. 2084, added item VI.
+<b>2002</b>—Pub. L. 107–295, title I, §102(b), Nov. 25, 2002, 116 Stat. 2084, added item VI.
 
-1988—Pub. L. 100–710, title I, §102(b), Nov. 23, 1988, 102 Stat. 4738, amended title analysis generally, substituting “GENERAL” for “\[Reserved—general\]” in item I and adding item III.
+<b>1988</b>—Pub. L. 100–710, title I, §102(b), Nov. 23, 1988, 102 Stat. 4738, amended title analysis generally, substituting “GENERAL” for “\[Reserved—general\]” in item I and adding item III.
 
 Disposition Table<br>(Showing Disposition of Former Sections of Title 46 or Title 46 Appendix)
 

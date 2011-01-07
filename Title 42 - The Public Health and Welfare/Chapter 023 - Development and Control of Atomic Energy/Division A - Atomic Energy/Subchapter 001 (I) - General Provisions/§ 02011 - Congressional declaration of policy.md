@@ -26,7 +26,7 @@ Pub. L. 104–134, title III, §3101, Apr. 26, 1996, 110 Stat. 1321–335, provi
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–408, §1, Aug. 20, 1988, 102 Stat. 1066, provided that: “This Act \[enacting section 2282a of thistitle, amending sections 2014, 2210, and 2273 of this title, and enacting provisions set out as notes under sections 2014 and 2210 of this title\] may be cited as the ‘Price-Anderson Amendments Act of 1988’.”
+Pub. L. 100–408, §1, Aug. 20, 1988, 102 Stat. 1066, provided that: “This Act \[enacting section 2282a of this title, amending sections 2014, 2210, and 2273 of this title, and enacting provisions set out as notes under sections 2014 and 2210 of this title\] may be cited as the ‘Price-Anderson Amendments Act of 1988’.”
 
 #### Short Title of 1964 Amendment
 

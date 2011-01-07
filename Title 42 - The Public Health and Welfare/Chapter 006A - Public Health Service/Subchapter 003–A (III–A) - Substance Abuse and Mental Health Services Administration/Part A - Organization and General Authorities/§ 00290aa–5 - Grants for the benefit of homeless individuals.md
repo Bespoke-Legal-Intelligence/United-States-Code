@@ -52,13 +52,13 @@ A prior section 506 of act July 1, 1944, which was classified to section 224 of 
 
 #### Amendments
 
-2000—Pub. L. 106–310 amended section catchline and text generally, substituting present provisions for provisions, in subsec. (a), authorizing Secretary to make grants for benefit of homeless individuals through the Administrator of Substance Abuse and Mental Health Services Administration, in subsec. (b), relating to preferences for grants to entities providing integrated primary health, substance abuse, and mental health services, in subsec. (c), relating to services for certainindividuals, in subsec. (d), relating to 5-year grants with renewals, and in subsec. (e), authorizing appropriations for fiscal years 1993 and 1994.
+<b>2000</b>—Pub. L. 106–310 amended section catchline and text generally, substituting present provisions for provisions, in subsec. (a), authorizing Secretary to make grants for benefit of homeless individuals through the Administrator of Substance Abuse and Mental Health Services Administration, in subsec. (b), relating to preferences for grants to entities providing integrated primary health, substance abuse, and mental health services, in subsec. (c), relating to services for certain individuals, in subsec. (d), relating to 5-year grants with renewals, and in subsec. (e), authorizing appropriations for fiscal years 1993 and 1994.
 
 Subsec. (a). Pub. L. 106–400 made technical amendment to reference in original act which appears in text as reference to section 11311 of this title.
 
-1992—Pub. L. 102–321 amended section generally, substituting provisions relating to grants for benefit of homeless individuals for provisions relating to alcohol abuse and alcoholism demonstration projects.
+<b>1992</b>—Pub. L. 102–321 amended section generally, substituting provisions relating to grants for benefit of homeless individuals for provisions relating to alcohol abuse and alcoholism demonstration projects.
 
-1987—Subsecs. (c), (d). Pub. L. 100–77 added subsec. (c), redesignated former subsec. (c) as (d), and substituted “subsection (a) or (c)” for “subsection (a)”.
+<b>1987</b>—Subsecs. (c), (d). Pub. L. 100–77 added subsec. (c), redesignated former subsec. (c) as (d), and substituted “subsection (a) or (c)” for “subsection (a)”.
 
 #### Change of Name
 

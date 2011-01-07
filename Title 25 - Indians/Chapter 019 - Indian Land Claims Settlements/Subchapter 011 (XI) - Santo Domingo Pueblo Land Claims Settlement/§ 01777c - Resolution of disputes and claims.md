@@ -54,7 +54,7 @@
 
 #### (5) Effective date
 
-&emsp;The provisions of paragraphs (1), (3), and (4) shall take effect upon the entry of a compromise final judgment, in a form and manner acceptable to the Attorney General, in theamount of $8,000,000 in the case of Pueblo of Santo Domingo v. United States (Indian Claims Commission docket No. 355). The judgment so entered shall be paid from funds appropriated pursuant to section 1304 of title 31.
+&emsp;The provisions of paragraphs (1), (3), and (4) shall take effect upon the entry of a compromise final judgment, in a form and manner acceptable to the Attorney General, in the amount of $8,000,000 in the case of Pueblo of Santo Domingo v. United States (Indian Claims Commission docket No. 355). The judgment so entered shall be paid from funds appropriated pursuant to section 1304 of title 31.
 
 #### (b) Trust funds; authorization of appropriations
 

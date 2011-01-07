@@ -6,11 +6,11 @@ The Secretary, through the Service, shall develop procedures to evaluate complia
 
 #### (b) Annual onsite evaluation
 
-The Secretary, through the Service, shall conduct an annual onsite evaluation of each urban Indian organization which has entered into acontract or received a grant under section 1653 of this title for purposes of determining the compliance of such organization with, and evaluating the performance of such organization under, such contract or the terms of such grant.
+The Secretary, through the Service, shall conduct an annual onsite evaluation of each urban Indian organization which has entered into a contract or received a grant under section 1653 of this title for purposes of determining the compliance of such organization with, and evaluating the performance of such organization under, such contract or the terms of such grant.
 
 #### (c) Noncompliance or unsatisfactory performance
 
-If, as a result of the evaluations conducted under this section, the Secretary determines that an urban Indian organization has not complied with the requirements of a grant or complied with or satisfactorily performed a contract under section 1653 of this title, the Secretary shall, prior to renewing such contract or grant, attempt to resolve with such organization the areas of noncompliance or unsatisfactory performance and modify such contract or grant to prevent future occurrences of such noncompliance or unsatisfactory performance. If the Secretary determines that such noncompliance or unsatisfactory performance cannot be resolved and prevented in the future, the Secretary shall not renew such contract or grant with such organization and is authorized to enter into a contract or make a grant under section 1653 of this title with another urban Indian organization which is situated in the same urban center as the urban Indian organization whose contract or grant is not renewed under this section.
+If, as a result of the evaluations conducted under this section, the Secretary determines that an urban Indian organization has not complied with the requirements of a grant or complied with or satisfactorily performed a contract under section 1653 of this title, the Secretary shall, prior to renewing such contract or grant, attempt to resolve with such organization the areas of noncompliance or unsatisfactory performance and modify such contract or grant to prevent future occurrences of such noncompliance or unsatisfactory performance. If the Secretary determines that such noncompliance or unsatisfactory performance cannot be resolved and prevented in the future, the Secretary shall not renew such contract or grant with such organization and is authorized to enter into a contract or make a grant under section 1653 of this title with another urban Indian organizationwhich is situated in the same urban center as the urban Indian organization whose contract or grant is not renewed under this section.
 
 #### (d) Contract and grant renewals
 
@@ -24,7 +24,7 @@ A prior section 1655, Pub. L. 94–437, title V, §505, Sept. 30, 1976, 90 Stat.
 
 #### Amendments
 
-1992—Pub. L. 102–573, §501(b)(3)(E), substituted “renewals” for “contract renewals” in section catchline.
+<b>1992</b>—Pub. L. 102–573, §501(b)(3)(E), substituted “renewals” for “contract renewals” in section catchline.
 
 Subsec. (a). Pub. L. 102–573, §501(b)(3)(A), inserted “compliance with grant requirements under this subchapter and” before “compliance with, and”.
 

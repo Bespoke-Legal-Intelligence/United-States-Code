@@ -6,7 +6,7 @@ Limited Acquisition Authority for Commander of Certain Unified Combatant Command
 
 (b)
 
-Command Described.—The commander to whom authority is delegated under subsection (a) is the commander of the unified combatantcommand that has the mission for joint warfighting experimentation, as assigned by the Secretary of Defense.
+Command Described.—The commander to whom authority is delegated under subsection (a) is the commander of the unified combatant command that has the mission for joint warfighting experimentation, as assigned by the Secretary of Defense.
 
 (c)
 
@@ -44,13 +44,13 @@ Termination.—The Secretary may delegate the authority referred to in subsectio
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181, §825(a)(1), substituted “, acquire, and maintain” for “and acquire”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §825(a)(1), substituted “, acquire, and maintain” for “and acquire”.
 
 Subsec. (f). Pub. L. 110–181, §825(a)(3), added subsec. (f). Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 110–181, §825(a)(2), (b), redesignated subsec. (f) as (g) and substituted “through 2010” for “through 2008” and “September 30, 2010” for “September 30, 2008”.
 
-2006—Subsec. (f). Pub. L. 109–163 substituted “through 2008” for “through 2006” and “September 30, 2008” for “September 30, 2006”.
+<b>2006</b>—Subsec. (f). Pub. L. 109–163 substituted “through 2008” for “through 2006” and “September 30, 2008” for “September 30, 2006”.
 
 #### Comptroller General Report
 

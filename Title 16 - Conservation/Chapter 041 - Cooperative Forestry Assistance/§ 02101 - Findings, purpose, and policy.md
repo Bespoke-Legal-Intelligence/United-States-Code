@@ -6,7 +6,7 @@ Congress finds that—
 
 &emsp;(1) most of the productive forest land of the United States is in private, State, and local governmental ownership, and the capacity of the United States to produce renewable forest resources is significantly dependent on such non-Federal forest lands;
 
-&emsp;(2) adequate supplies of timber and other forest resources are essential to the United States, and adequate supplies are dependent on efficient methods for establishing, managing, and harvesting trees and processing, marketing, and using wood and wood products;
+&emsp;(2) adequate supplies of timber and other forest resources are essential to the UnitedStates, and adequate supplies are dependent on efficient methods for establishing, managing, and harvesting trees and processing, marketing, and using wood and wood products;
 
 &emsp;(3) nearly one-half of the wood supply of the United States comes from nonindustrial private timberlands and such percentage could rise with expanded assistance programs;
 
@@ -100,13 +100,13 @@ Pub. L. 101–513 and Pub. L. 101–624 were approved by the President after Con
 
 #### Amendments
 
-2008—Subsecs. (c) to (f). Pub. L. 110–246, §8001, added subsecs. (c) and (d) and redesignated former subsecs. (c) and (d) as (e) and (f), respectively.
+<b>2008</b>—Subsecs. (c) to (f). Pub. L. 110–246, §8001, added subsecs. (c) and (d) and redesignated former subsecs. (c) and (d) as (e) and (f), respectively.
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions which set forth Congressional findings and declarations, and statements of purpose and national interest, and which related to application with forest and rangeland renewable resources provisions. See Codification note above.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions which set forth Congressional findings and declarations, and statements of purpose and national interest, and which related to application with forest and rangeland renewable resources provisions. See Codification note above.
 
 Pub. L. 101–513, §607(b)(1), directed the amendment of subsec. (a) by striking out “and” at end of par. (16), substituting “; and” for period at end of par. (17), and adding par. (18) at end. The amendment of pars. (16) and (17) was executed to pars. (15) and (16) to reflect the probable intent of Congress. See Codification note above.
 
-Pub. L. 101–513, §607(b)(2), which directed the amendment of subsec. (b) by inserting “in the United States,and forest lands in foreign countries,” after “non-Federal forest lands,” the first place it appears and in paragraph (10), was executed by making the insertion after “non-Federal forest lands” to reflect the probable intent of Congress. See Codification note above.
+Pub. L. 101–513, §607(b)(2), which directed the amendment of subsec. (b) by inserting “in the United States, and forest lands in foreign countries,” after “non-Federal forest lands,” the first place it appears and in paragraph (10), was executed by making the insertion after “non-Federal forest lands” to reflect the probable intent of Congress. See Codification note above.
 
 #### Effective Date of 2008 Amendment
 
@@ -192,7 +192,7 @@ Use of Funds.—Funds made available pursuant to subsection (d) shall be granted
 
 “(f)
 
-Interest.—Notwithstanding any other provision of law, the Foundation may hold funds made available pursuant to subsection (e) in interest-bearing accounts prior to the disbursement of the funds for purposesspecified in subsection (a) and may retain to carry out such purposes any interest earned on the deposits.
+Interest.—Notwithstanding any other provision of law, the Foundation may hold funds made available pursuant to subsection (e) in interest-bearing accounts prior to the disbursement of the funds for purposes specified in subsection (a) and may retain to carry out such purposes any interest earned on the deposits.
 
 “(g)
 
@@ -264,7 +264,7 @@ Audits.—
 
 &emsp;“(1)
 
-Independent audits.—For the fiscal year in which the Foundation receives the grant awarded under subsection (e), and for the succeeding 5 fiscal years, the accounts of the Foundation shall be audited annually in accordance with generally accepted auditing standards by an independent certified public accountant or an independent licensed public accountant certified or licensed by a regulatory authority of a State or other political subdivision of the United States. The report of each such independent audit shall be included in the annual report required by subsection (n).
+Independent audits.—For the fiscal year in which the Foundation receives the grant awardedunder subsection (e), and for the succeeding 5 fiscal years, the accounts of the Foundation shall be audited annually in accordance with generally accepted auditing standards by an independent certified public accountant or an independent licensed public accountant certified or licensed by a regulatory authority of a State or other political subdivision of the United States. The report of each such independent audit shall be included in the annual report required by subsection (n).
 
 &emsp;“(2)
 

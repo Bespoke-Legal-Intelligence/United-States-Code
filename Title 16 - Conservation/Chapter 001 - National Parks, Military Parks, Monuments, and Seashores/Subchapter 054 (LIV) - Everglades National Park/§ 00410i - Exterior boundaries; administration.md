@@ -154,7 +154,7 @@ Notwithstanding section 410 of this title, or any action taken pursuant to autho
 
 &emsp;thence easterly along the south right-of-way line of United States Highway Numbered 41, also known as the Tamiami Trail, through sections 19, 20, 21, 22, 23, and 24, township 54 south, range 36 east, to the east township line of township 54 south, range 36 east;
 
-&emsp;thence easterly along the south right-of-way line of United States Highway Numbered 41, also known as the Tamiami Trail, across township 361/2 east to the intersection of the west line of township 54 south, range 37 east, the point of beginning;
+&emsp;thence easterly along the south right-of-way line of United States Highway Numbered 41, also known as the Tamiami Trail, across township 36½ east to the intersection of the west line of township 54 south, range 37 east, the point of beginning;
 
 &emsp;(2) Land acquired by the United States of America for furthering administration and use of the park by deeds dated January 25, 1954 (2), and February 27, 1954 (2), recorded in the public records of Monroe County, Florida, book OR–3, pages 302 to 308, inclusive, and book OR–2, pages 378 to 381, inclusive, respectively; and accepted by the National Park Service on April 7, 1954 (2), and April 5, 1954 (2), respectively; and
 

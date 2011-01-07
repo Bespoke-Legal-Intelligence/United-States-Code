@@ -26,7 +26,7 @@ If—
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–324 designated existing provisions as par. (1) and added par. (2).
+<b>1996</b>—Subsec. (b). Pub. L. 104–324 designated existing provisions as par. (1) and added par. (2).
 
 #### Delegation of Functions
 

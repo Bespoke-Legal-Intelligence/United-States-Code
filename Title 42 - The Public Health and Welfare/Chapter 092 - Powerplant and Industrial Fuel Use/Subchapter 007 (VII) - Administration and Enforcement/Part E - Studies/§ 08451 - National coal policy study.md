@@ -18,7 +18,7 @@ The President, acting through the Secretary and the Administrator of the Environ
 
 &emsp;(7) existing and prospective governmental policies and laws affecting the coal industry with the view of determining what, if any, changes in and implementation of such policies and laws may be advisable in order to consolidate, coordinate, and provide an effective and equitable national energy policy consistent with other national policies; and
 
-&emsp;(8) the most efficient use of the Nation's coal resources considering economic (including capital and consumer costs, and balance ofpayments), social (including employment), environmental, technological, national defense, and other aspects.
+&emsp;(8) the most efficient use of the Nation's coal resources considering economic (including capital and consumer costs, and balance of payments), social (including employment), environmental, technological, national defense, and other aspects.
 
 #### (b) Report
 

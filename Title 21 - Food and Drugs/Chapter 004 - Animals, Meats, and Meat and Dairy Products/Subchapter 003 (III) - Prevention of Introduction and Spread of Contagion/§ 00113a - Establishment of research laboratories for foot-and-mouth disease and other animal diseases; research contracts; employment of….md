@@ -10,11 +10,11 @@ Provisions that authorized the Secretary to employ technical experts and scienti
 
 #### Amendments
 
-1990—Pub. L. 101–624 substituted “United States (except” for “United States except” and “tunnel) unless the Secretary determines that it is necessary and in the public interest for the conduct of research and study in the United States (except at Brookhaven National Laboratory in Upton, New York) and issues a permit under such rules as the Secretary shall promulgate to protect animal health,” for “tunnel, and”.
+<b>1990</b>—Pub. L. 101–624 substituted “United States (except” for “United States except” and “tunnel) unless the Secretary determines that it is necessary and in the public interest for the conduct of research and study in the United States (except at Brookhaven National Laboratory in Upton, New York) and issues a permit under such rules as the Secretary shall promulgate to protect animal health,” for “tunnel, and”.
 
-1962—Pub. L. 87–793 substituted “shall not exceed the highest rate of grade 18 of the General Schedule” for “shall not exceed $19,000 per annum”.
+<b>1962</b>—Pub. L. 87–793 substituted “shall not exceed the highest rate of grade 18 of the General Schedule” for “shall not exceed $19,000 per annum”.
 
-1958—Pub. L. 85–573 inserted in proviso clause of first sentence the exception clause respecting transportation of virus in original package across mainland under adequate safeguards.
+<b>1958</b>—Pub. L. 85–573 inserted in proviso clause of first sentence the exception clause respecting transportation of virus in original package across mainland under adequate safeguards.
 
 #### Effective Date of 1962 Amendment
 

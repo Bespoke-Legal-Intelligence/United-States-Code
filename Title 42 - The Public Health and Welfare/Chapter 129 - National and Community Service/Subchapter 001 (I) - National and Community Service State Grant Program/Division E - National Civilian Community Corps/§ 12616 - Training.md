@@ -40,7 +40,7 @@ A prior section 156 of Pub. L. 101–610 was classified to section 12601 of this
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–13, §1506(1), inserted “National” before “Civilian Community Corps” and inserted at end “The Director shall ensure that, to the extent practicable, each member of the Corps is trained in CPR, first aid, and other skills related to disaster preparedness and response.”
+<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1506(1), inserted “National” before “Civilian Community Corps” and inserted at end “The Director shall ensure that, to the extent practicable, each member of the Corps is trained in CPR, first aid, and other skills related to disaster preparedness and response.”
 
 Subsec. (b)(1). Pub. L. 111–13, §1506(2), inserted before period at end “, including a focus on energy conservation, environmental stewardship or conservation, infrastructure improvement, urban and rural development, or disaster preparedness needs, as appropriate”.
 
@@ -48,7 +48,7 @@ Subsec. (c)(2). Pub. L. 111–13, §1506(3), amended par. (2) generally. Prior t
 
 Subsec. (d). Pub. L. 111–13, §1506(4), substituted “section 12622(c)” for “section 12622(a)(3)”.
 
-1993—Subsec. (c)(1). Pub. L. 103–82, §104(e)(2)(D)(i), substituted “section 12619(c)(2)” for “section 12653h(c)(2)”.
+<b>1993</b>—Subsec. (c)(1). Pub. L. 103–82, §104(e)(2)(D)(i), substituted “section 12619(c)(2)” for “section 12653h(c)(2)”.
 
 Subsec. (d). Pub. L. 103–82, §104(e)(2)(D)(ii), substituted “section 12622(a)(3)” for “section 12653k(a)(3)”.
 

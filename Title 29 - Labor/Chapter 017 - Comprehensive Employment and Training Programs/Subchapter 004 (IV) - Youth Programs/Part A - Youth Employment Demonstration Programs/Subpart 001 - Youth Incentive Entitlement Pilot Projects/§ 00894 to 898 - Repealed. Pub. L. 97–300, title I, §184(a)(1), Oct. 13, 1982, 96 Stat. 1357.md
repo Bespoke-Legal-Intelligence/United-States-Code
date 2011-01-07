@@ -52,7 +52,7 @@ A prior section 418 of Pub. L. 93–203, title IV, Dec. 28, 1973, 87 Stat. 873, 
 
 Provisions similar to those comprising this section were contained in former section 892b of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-Section 897, Pub. L. 93–203, title IV, §419, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1978, related tospecial provisions for development of participant's role as a member of the community and for restrictions on use of funds for youth incentive entitlement projects.
+Section 897, Pub. L. 93–203, title IV, §419, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1978, related to special provisions for development of participant's role as a member of the community and for restrictions on use of funds for youth incentive entitlement projects.
 
 A prior section 419 of Pub. L. 93–203, title IV, Dec. 28, 1973, 87 Stat. 873; Pub. L. 93–567, title I, §101, Dec. 31, 1974, 88 Stat. 1845, which provided for administrative provisions, was classified to former section 929 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

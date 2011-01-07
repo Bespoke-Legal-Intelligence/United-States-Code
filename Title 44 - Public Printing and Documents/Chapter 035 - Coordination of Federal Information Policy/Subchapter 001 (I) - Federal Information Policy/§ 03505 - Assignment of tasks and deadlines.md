@@ -92,11 +92,11 @@ Another prior section 3505, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1303, proh
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–347, added subsec. (c) relating to inventory of major information systems.
+<b>2002</b>—Subsec. (c). Pub. L. 107–347, added subsec. (c) relating to inventory of major information systems.
 
 Pub. L. 107–296 added subsec. (c) relating to inventory of information systems.
 
-2000—Subsec. (a). Pub. L. 106–398 substituted “subchapter” for “chapter” in introductory provisions and pars. (2) and (3)(B)(iii).
+<b>2000</b>—Subsec. (a). Pub. L. 106–398 substituted “subchapter” for “chapter” in introductory provisions and pars. (2) and (3)(B)(iii).
 
 #### Effective Date of 2002 Amendment
 

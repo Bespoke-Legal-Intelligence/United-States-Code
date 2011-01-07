@@ -24,7 +24,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-110301D36:911.DSept. 2, 1958, Pub. L. 85–903, §§1, 2, 4(a), 72 Stat. 1738, 1739.
+110301
+
+36:911.
+
+Sept. 2, 1958, Pub. L. 85–903, §§1, 2, 4(a), 72 Stat. 1738, 1739.
 
 &nbsp;
 

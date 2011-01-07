@@ -72,7 +72,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 #### (B) Temporary reduction based on outstanding balance
 
-&emsp;&emsp;Notwithstanding subparagraph (A), during the 2-year period beginning on the date thatis 90 days after May 28, 2004, the Administration shall allow the certified development company to withdraw from the loss reserve such amounts as are in excess of 1 percent of the aggregate outstanding balances of debentures to which such loss reserve relates. The preceding sentence shall not apply with respect to any debenture before 100 percent of the contribution described in paragraph (4) with respect to such debenture has been made.
+&emsp;&emsp;Notwithstanding subparagraph (A), during the 2-year period beginning on the date that is 90 days after May 28, 2004, the Administration shall allow the certified development company to withdraw from the loss reserve such amounts as are in excess of 1 percent of the aggregate outstanding balances of debentures to which such loss reserve relates. The preceding sentence shall not apply with respect to any debenture before 100 percent of the contribution described in paragraph (4) with respect to such debenture has been made.
 
 #### (7) Alternative loss reserve
 
@@ -230,7 +230,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 #### (f) Review
 
-After the issuance and sale of debentures under this section, the Administration, at intervals not greater than 12 months, shall review the financings made by each premier certified lender. The review shall include the lender's credit decisions and general compliance with the eligibility requirements for each financing approved under the program authorized under thissection. The Administration shall consider the findings of the review in carrying out its responsibilities under subsection (g) of this section, but such review shall not affect any outstanding debenture guarantee.
+After the issuance and sale of debentures under this section, the Administration, at intervals not greater than 12 months, shall review the financings made by each premier certified lender. The review shall include the lender's credit decisions and general compliance with the eligibility requirements for each financing approved under the program authorized under this section. The Administration shall consider the findings of the review in carrying out its responsibilities under subsection (g) of this section, but such review shall not affect any outstanding debenture guarantee.
 
 #### (g) Suspension or revocation
 
@@ -274,7 +274,7 @@ October 22, 1994, referred to in subsec. (j), was in the original “the date of
 
 #### Amendments
 
-2004—Subsec. (b)(2)(C). Pub. L. 108–232, §3(b), inserted “(15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) of this section for such company)” before “; and”.
+<b>2004</b>—Subsec. (b)(2)(C). Pub. L. 108–232, §3(b), inserted “(15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) of this section for such company)” before “; and”.
 
 Subsec. (b)(2)(D). Pub. L. 108–232, §3(c)(1), substituted “subsection (c)” for “subsection (c)(2)”.
 
@@ -284,7 +284,7 @@ Subsec. (c)(6). Pub. L. 108–232, §2, designated existing provisions as subpar
 
 Subsec. (c)(7), (8). Pub. L. 108–232, §3(a), added pars. (7) and (8).
 
-2000—Pub. L. 106–554, §1(a)(9) \[title III, §305\], repealed Pub. L. 103–403, §217(b). See 1994 Amendment note below.
+<b>2000</b>—Pub. L. 106–554, §1(a)(9) \[title III, §305\], repealed Pub. L. 103–403, §217(b). See 1994 Amendment note below.
 
 Subsec. (a). Pub. L. 106–554, §1(a)(9) \[title III, §306(1)\], substituted “The” for “On a pilot program basis, the”.
 
@@ -298,7 +298,7 @@ Subsec. (h). Pub. L. 106–554, §1(a)(9) \[title III, §306(2), (4)\], redesign
 
 Subsecs. (i), (j). Pub. L. 106–554, §1(a)(9) \[title III, §306(2)\], redesignated subsecs. (h) and (i) as (i) and (j), respectively.
 
-1997—Subsec. (a). Pub. L. 105–135, §223(a)(1), struck out “not more than 15” before “certified development companies”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–135, §223(a)(1), struck out “not more than 15” before “certified development companies”.
 
 Subsec. (b)(2). Pub. L. 105–135, §223(a)(2)(A)(i), struck out “if such company” after “premier certified lender” in introductory provisions.
 
@@ -352,7 +352,7 @@ Subsec. (h). Pub. L. 105–135, §223(a)(7), added subsec. (h) and struck out he
 
 Subsec. (i)(3). Pub. L. 105–135, §223(a)(8), substituted “other lenders, specifically comparing default rates and recovery rates on liquidations” for “other lenders”.
 
-1994—Pub. L. 103–403, §217(b), which directed repeal of this section effective Oct. 1, 2000, and was repealed by section 1(a)(9) \[title III, §305\] of Pub. L. 106–554, was not executed to reflect the probable intent of Congress and the amendments to this section by section 1(a)(9) \[title III, §306\] of Pub. L. 106–554. See Termination Date note below.
+<b>1994</b>—Pub. L. 103–403, §217(b), which directed repeal of this section effective Oct. 1, 2000, and was repealed by section 1(a)(9) \[title III, §305\] of Pub. L. 106–554, was not executed to reflect the probable intent of Congress and the amendments to this section by section 1(a)(9) \[title III, §306\] of Pub. L. 106–554. See Termination Date note below.
 
 #### Change of Name
 

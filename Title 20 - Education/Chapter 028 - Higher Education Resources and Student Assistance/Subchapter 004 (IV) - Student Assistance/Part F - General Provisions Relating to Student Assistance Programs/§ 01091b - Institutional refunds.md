@@ -10,7 +10,7 @@
 
 #### (A) Leave not treated as withdrawal
 
-&emsp;&emsp;In the case of a student who takes 1 or more leaves of absence from an institutionfor not more than a total of 180 days in any 12-month period, the institution may consider the student as not having withdrawn from the institution during the leave of absence, and not calculate the amount of grant and loan assistance provided under this subchapter and part C of subchapter I of chapter 34 of title 42 that is to be returned in accordance with this section if—
+&emsp;&emsp;In the case of a student who takes 1 or more leaves of absence from an institution for not more than a total of 180 days in any 12-month period, the institution may consider the student as not having withdrawn from the institution during the leave of absence, and not calculate the amount of grant and loan assistance provided under this subchapter and part C of subchapter I of chapter 34 of title 42 that is to be returned in accordance with this section if—
 
 &emsp;&emsp;&emsp;(i) the institution has a formal policy regarding leaves of absence;
 
@@ -64,13 +64,13 @@
 
 &emsp;The institution shall return not later than 45 days from the determination of withdrawal, in the order specified in paragraph (3), the lesser of—
 
-&emsp;&emsp;(A) the amount of grant and loan assistance awarded under this subchapter and part C of subchapter I of chapter 34 of title 42 that has not been earned by the student, as calculated under subsection (a)(3)(C) of this section; or
+&emsp;&emsp;(A) the amount of grant and loan assistance awarded under this subchapter and partC of subchapter I of chapter 34 of title 42 that has not been earned by the student, as calculated under subsection (a)(3)(C) of this section; or
 
 &emsp;&emsp;(B) an amount equal to—
 
 &emsp;&emsp;&emsp;(i) the total institutional charges incurred by the student for the payment period or period of enrollment for which such assistance was awarded; multiplied by
 
-&emsp;&emsp;&emsp;(ii) the percentage of grant and loan assistance awarded under this subchapterand part C of subchapter I of chapter 34 of title 42 that has not been earned by the student, as described in subsection (a)(3)(C)(i) of this section.
+&emsp;&emsp;&emsp;(ii) the percentage of grant and loan assistance awarded under this subchapter and part C of subchapter I of chapter 34 of title 42 that has not been earned by the student, as described in subsection (a)(3)(C)(i) of this section.
 
 #### (2) Responsibility of the student
 
@@ -138,7 +138,7 @@
 
 &emsp;&emsp;&emsp;(iv) To outstanding balances on subsidized loans made under part C of this subchapter for the payment period or period of enrollment for which a return of funds is required.
 
-&emsp;&emsp;&emsp;(v) To outstanding balances on loans made under part D of this subchapter for the payment period or period of enrollment for which a return of funds is required.
+&emsp;&emsp;&emsp;(v) To outstanding balances on loans made under part D of this subchapter forthe payment period or period of enrollment for which a return of funds is required.
 
 &emsp;&emsp;&emsp;(vi) To outstanding balances on loans made under section 1078–2 of this title for the payment period or period of enrollment for which a return of funds is required.
 
@@ -198,7 +198,7 @@ A prior section 1091b, Pub. L. 89–329, title V, §503, as added Pub. L. 90–3
 
 #### Amendments
 
-2006—Subsec. (a)(2)(A). Pub. L. 109–171, §8022(1), substituted “1 or more leaves of” for “a leave of” in introductory provisions.
+<b>2006</b>—Subsec. (a)(2)(A). Pub. L. 109–171, §8022(1), substituted “1 or more leaves of” for “a leave of” in introductory provisions.
 
 Subsec. (a)(3)(B)(ii). Pub. L. 109–171, §8022(2), inserted “(as determined in accordance with subsection (d))” after “student has completed”.
 
@@ -214,15 +214,15 @@ Subsec. (d). Pub. L. 109–171, §8022(7), (8), in introductory provisions, subs
 
 &emsp;“(A) completed by the student in that period as of the day the student withdrew; or
 
-&emsp;“(B) scheduled to be completed as of the day the student withdrew, if the clock hours completed in theperiod are not less than a percentage, to be determined by the Secretary in regulations, of the hours that were scheduled to be completed by the student in the period.”
+&emsp;“(B) scheduled to be completed as of the day the student withdrew, if the clock hours completed in the period are not less than a percentage, to be determined by the Secretary in regulations, of the hours that were scheduled to be completed by the student in the period.”
 
-2005—Subsec. (b)(2)(D). Pub. L. 109–66 added subpar. (D).
+<b>2005</b>—Subsec. (b)(2)(D). Pub. L. 109–66 added subpar. (D).
 
 Subsec. (b)(2)(E). Pub. L. 109–67 added subpar. (E).
 
-1998—Pub. L. 105–244 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (c) requiring each institution of higher education participating in a program under this subchapter and part C of subchapter I of chapter 34 of title 42 to have in effect a fair and equitable refund policy for refunding unearned tuition, fees, room and board, and other charges to students or parents who received grant or loan assistance under this subchapter or part C of subchapter I of chapter 34 of title 42.
+<b>1998</b>—Pub. L. 105–244 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (c) requiring each institution of higher education participating in a program under this subchapter and part C of subchapter I of chapter 34 of title 42 to have in effect a fair and equitable refund policy for refunding unearned tuition, fees, room and board, and other charges to students or parents who received grant or loan assistance under this subchapter or part C of subchapter I of chapter 34 of title 42.
 
-1993—Subsec. (a). Pub. L. 103–208, §2(h)(26), substituted “grant or loan assistance” for “grant, loan, or work assistance” in introductory provisions.
+<b>1993</b>—Subsec. (a). Pub. L. 103–208, §2(h)(26), substituted “grant or loan assistance” for “grant, loan, or work assistance” in introductory provisions.
 
 Subsec. (b)(3). Pub. L. 103–208, §2(h)(27), substituted “subsection (c) of this section” for “subsection (d) of this section”.
 

@@ -64,11 +64,11 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1988—Subsec. (f). Pub. L. 100–702 added subsec. (f).
+<b>1988</b>—Subsec. (f). Pub. L. 100–702 added subsec. (f).
 
-1978—Pub. L. 95–598 struck out references to referees in bankruptcy in section catchline and in subsecs. (a) and (e).
+<b>1978</b>—Pub. L. 95–598 struck out references to referees in bankruptcy in section catchline and in subsecs. (a) and (e).
 
-1974—Pub. L. 93–512 substituted “Disqualification of justice, judge, magistrate, or referee in bankruptcy” for “Interest of justice or judge” in section catchline, reorganized structure of provisions, and expanded applicability to include magistrates and referees in bankruptcy and grounds for which disqualification may be based, and inserted provisions relating to waiver of disqualification.
+<b>1974</b>—Pub. L. 93–512 substituted “Disqualification of justice, judge, magistrate, or referee in bankruptcy” for “Interest of justice or judge” in section catchline, reorganized structure of provisions, and expanded applicability to include magistrates and referees in bankruptcy and grounds for which disqualification may be based, and inserted provisions relating to waiver of disqualification.
 
 #### Change of Name
 

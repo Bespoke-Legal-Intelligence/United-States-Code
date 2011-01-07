@@ -10,5 +10,5 @@ In order to insure that all Federal programs related to areawide development are
 
 #### Amendments
 
-1968—Pub. L. 90–448 substituted “areawide” for “metropolitan” wherever appearing.
+<b>1968</b>—Pub. L. 90–448 substituted “areawide” for “metropolitan” wherever appearing.
 

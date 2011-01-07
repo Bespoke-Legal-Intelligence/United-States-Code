@@ -124,7 +124,7 @@ For purposes of this section—
 
 #### (1) Reserve must be nondiscriminatory
 
-&emsp;No reserve may be taken into account under subsection (c)(2) for post-retirement medicalbenefits or life insurance benefits to be provided to covered employees unless the plan meets the requirements of section 505(b) with respect to such benefits (whether or not such requirements apply to such plan). The preceding sentence shall not apply to any plan maintained pursuant to an agreement between employee representatives and 1 or more employers if the Secretary finds that such agreement is a collective bargaining agreement and that post-retirement medical benefits or life insurance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
+&emsp;No reserve may be taken into account under subsection (c)(2) for post-retirement medical benefits or life insurance benefits to be provided to covered employees unless the plan meets the requirements of section 505(b) with respect to such benefits (whether or not such requirements apply to such plan). The preceding sentence shall not apply to any plan maintained pursuant to an agreement between employee representatives and 1 or more employers if the Secretary finds that such agreement is a collective bargaining agreement and that post-retirement medical benefits or life insurance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
 
 #### (2) Limitation on amount of life insurance benefits
 
@@ -274,17 +274,17 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 #### Amendments
 
-2006—Subsec. (c)(6). Pub. L. 109–280 added par. (6).
+<b>2006</b>—Subsec. (c)(6). Pub. L. 109–280 added par. (6).
 
-1996—Subsec. (c)(3). Pub. L. 104–188 substituted “severance” for “severence” in heading.
+<b>1996</b>—Subsec. (c)(3). Pub. L. 104–188 substituted “severance” for “severence” in heading.
 
-1988—Subsec. (a). Pub. L. 100–647, §1018(u)(12), made technical amendment to directory language of Pub. L. 99–514, §1851(a)(6)(B). See 1986 Amendment note below.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1018(u)(12), made technical amendment to directory language of Pub. L. 99–514, §1851(a)(6)(B). See 1986 Amendment note below.
 
 Subsec. (f)(5). Pub. L. 100–647, §1018(t)(2)(A), repealed Pub. L. 99–514, §1851(a)(4). See 1986 Amendment note below.
 
 Pub. L. 100–647, §1018(t)(1)(C), substituted “account” for “accounts”.
 
-1986—Subsec. (a). Pub. L. 99–514, §1851(a)(6)(B), as amended by Pub. L. 100–647, §1018(u)(12), inserted “and section 512” after “this subpart”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1851(a)(6)(B), as amended by Pub. L. 100–647, §1018(u)(12), inserted “and section 512” after “this subpart”.
 
 Subsec. (c)(5)(A). Pub. L. 99–514, §1851(a)(5), substituted “under this subsection” for “under paragraph (1)”.
 
@@ -306,7 +306,7 @@ Pub. L. 99–514, §1851(a)(4), which directed amendment of par. (5) by substitu
 
 Subsec. (f)(7)(C), (D). Pub. L. 99–514, §1851(a)(7), added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “For purposes of this paragraph, the term ‘existing excess reserve’ means the excess (if any) of—
 
-&emsp;“(i) the amount of assets set aside for purposes described in subsection (a) as of the close of the first taxable year ending after the date of the enactment of the Tax Reform Act of 1984, over
+&emsp;“(i) the amount of assets set aside for purposes described in subsection (a) as of the close of the firsttaxable year ending after the date of the enactment of the Tax Reform Act of 1984, over
 
 &emsp;“(ii) the account limit which would have applied under this section to such taxable year if this section had applied to such taxable year.”
 
@@ -333,4 +333,6 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Application of Section 419A(e) to Group-Term Life Insurance
 
 Section 1851(a)(3)(B) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1018(t)(2)(D), Nov. 10, 1988, 102 Stat. 3587, provided that: “Subsection (e) of section 419A, section 505, and section 4976(b)(1)(B) of the Internal Revenue Code of 1954 \[now 1986\] (as amended by subparagraph (A)) shall not apply to any group-term life insurance to the extent that the amendments made by section 223(a) of the Tax Reform Act of 1984 \[section 223(a) of Pub. L. 98–369, amending section 79 of this title\] do not apply to such insurance by reason of paragraph (2) of section 223(d) of such Act \[set out as a note under section 79 of this title\].”
+
+<i><sup>1</sup></i><i> So in original. The period probably should be preceded by an additional closing parenthesis.</i>
 

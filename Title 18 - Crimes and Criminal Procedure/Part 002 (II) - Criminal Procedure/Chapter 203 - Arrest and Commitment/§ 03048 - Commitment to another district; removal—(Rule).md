@@ -8,7 +8,7 @@ Arrest in nearby or distant districts; informative statement by judge or magistr
 
 #### Amendments
 
-1968—Pub. L. 90–578 substituted “magistrate” for “commissioner”.
+<b>1968</b>—Pub. L. 90–578 substituted “magistrate” for “commissioner”.
 
 #### Change of Name
 

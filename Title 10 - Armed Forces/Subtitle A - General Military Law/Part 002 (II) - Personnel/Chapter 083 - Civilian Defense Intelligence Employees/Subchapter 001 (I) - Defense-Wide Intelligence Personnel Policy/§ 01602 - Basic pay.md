@@ -18,9 +18,9 @@ Provisions similar to those in this section were contained in sections 1590(b) a
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–364 made technical correction to directory language of Pub. L. 108–375, §1103(a)(1). See 2004 Amendment note below.
+<b>2006</b>—Subsec. (a). Pub. L. 109–364 made technical correction to directory language of Pub. L. 108–375, §1103(a)(1). See 2004 Amendment note below.
 
-2004—Subsec. (a). Pub. L. 108–375, §1103(a)(1), as amended by Pub. L. 109–364, substituted “in relation to the rates of pay provided for comparable positions in the Department of Defense and subject to the same limitations on maximum rates of pay established for employees of the Department of Defense by law or regulation” for “in relation to the rates of basic pay provided in subpart D of part III of title 5 for positions subject to that subpart which have corresponding levels of duties and responsibilities”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–375, §1103(a)(1), as amended by Pub. L. 109–364, substituted “in relation to the rates of pay provided for comparable positions in the Department of Defense and subject to the same limitations on maximum rates of pay established for employees of the Department of Defense by law or regulation” for “in relation to the rates of basic pay provided in subpart D of part III of title 5 for positions subject to that subpart which have corresponding levels of duties and responsibilities”.
 
 Subsecs. (b), (c). Pub. L. 108–375, §1103(a)(2), (3), redesignated subsec. (c) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “A rate of basic pay fixed under subsection (a) for a position established under section 1601 of this title may not (except as otherwise provided by law) exceed—
 
@@ -32,7 +32,7 @@ Subsecs. (b), (c). Pub. L. 108–375, §1103(a)(2), (3), redesignated subsec. (c
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–364, div. A, title X, §1071(g), Oct. 17, 2006, 120 Stat. 2402, provided that the amendment made bysection 1071(g)(12) is effective as of Oct. 28, 2004, and as if included in Pub. L. 108–375 as enacted.
+Pub. L. 109–364, div. A, title X, §1071(g), Oct. 17, 2006, 120 Stat. 2402, provided that the amendment made by section 1071(g)(12) is effective as of Oct. 28, 2004, and as if included in Pub. L. 108–375 as enacted.
 
 #### Effective Date
 

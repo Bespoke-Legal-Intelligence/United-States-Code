@@ -8,5 +8,5 @@
 
 #### Amendments
 
-1989—Subsec. (b). Pub. L. 101–240 struck out subsec. (b) which related to contents of National Advisory Council reports provided for in section 286b of this title.
+<b>1989</b>—Subsec. (b). Pub. L. 101–240 struck out subsec. (b) which related to contents of National Advisory Council reports provided for in section 286b of this title.
 

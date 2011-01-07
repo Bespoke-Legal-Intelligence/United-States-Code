@@ -32,9 +32,9 @@ Section was formerly set out as a note under section 11601 of this title.
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–228 struck out “during the period ending September 30, 2001” after “every 12 months thereafter” in introductory provisions.
+<b>2002</b>—Subsec. (a). Pub. L. 107–228 struck out “during the period ending September 30, 2001” after “every 12 months thereafter” in introductory provisions.
 
-1999—Subsec. (a). Pub. L. 106–113, §1000(a)(7) \[div. A, title II, §202(1)\], substituted “2001,” for “1999,” in first sentence of introductory provisions.
+<b>1999</b>—Subsec. (a). Pub. L. 106–113, §1000(a)(7) \[div. A, title II, §202(1)\], substituted “2001,” for “1999,” in first sentence of introductory provisions.
 
 Subsec. (a)(1). Pub. L. 106–113, §1000(a)(7) \[div. A, title II, §202(2)\], substituted “applicants in the United States” for “United States citizens”.
 

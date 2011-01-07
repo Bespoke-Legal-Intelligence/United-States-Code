@@ -6,7 +6,7 @@ The Secretary is authorized and directed to administer and enforce all of the pr
 
 #### (b) Primary enforcement responsibility
 
-Enforcement activities at sea under the provisions of this chapter for fishing vessels subject to the jurisdiction of the United States shall be primarily the responsibility of the Secretary of the department in which the Coast Guard is operating, in cooperation with the Secretary and the United States Customs Service. The Secretary after consultation with the Secretary of the department in which the Coast Guard is operating, shall adopt such regulations as may be necessary to provide for procedures and methods of enforcement pursuant to article IX of the Convention.
+Enforcement activities at sea under the provisions of this chapter for fishing vessels subjectto the jurisdiction of the United States shall be primarily the responsibility of the Secretary of the department in which the Coast Guard is operating, in cooperation with the Secretary and the United States Customs Service. The Secretary after consultation with the Secretary of the department in which the Coast Guard is operating, shall adopt such regulations as may be necessary to provide for procedures and methods of enforcement pursuant to article IX of the Convention.
 
 #### (c) Regulations and other measures to carry out Commission recommendations
 
@@ -16,7 +16,7 @@ Enforcement activities at sea under the provisions of this chapter for fishing v
 
 (C) Regulations promulgated under this paragraph shall, to the extent practicable, be consistent with fishery management plans prepared and implemented under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
 
-(2) To promulgate regulations referred to in paragraph (1) of this subsection, the Secretary shall publish in the Federal Register a general notice of proposed rulemaking and shall afford interested persons an opportunity to participatein the rulemaking through (A) submission of written data, views, or arguments, and (B) oral presentation at a public hearing. Such regulations shall be published in the Federal Register and shall be accompanied by a statement of the considerations involved in the issuance of the regulations, and by a statement, based on inquiries and investigations, assessing the nature and effectiveness of the measures for the implementation of the Commission's recommendations which are being or will be carried out by countries whose vessels engage in fishing the species subject to such recommendations within the waters to which the Convention applies. After publication in the Federal Register, such regulations shall be applicable to all vessels and persons subject to the jurisdiction of the United States on such date as the Secretary shall prescribe. The Secretary shall suspend at any time the application of any such regulation when, after consultation with the Secretary of State and the United States Commissioners, he determines that fishing operations in the Convention area of a contracting party for whom the regulations are effective are such as to constitute a serious threat to the achievement of the Commission's recommendations.
+(2) To promulgate regulations referred to in paragraph (1) of this subsection, the Secretary shall publish in the Federal Register a general notice of proposed rulemaking and shall afford interested persons an opportunity to participate in the rulemaking through (A) submission of written data, views, or arguments, and (B) oral presentation at a public hearing. Such regulations shall be published in the Federal Register and shall be accompanied by a statement of the considerations involved in the issuance of the regulations, and by a statement, based on inquiries and investigations, assessing the nature and effectiveness of the measures for the implementation of the Commission's recommendations which are being or will be carried out by countries whose vessels engage in fishing the species subject to such recommendations within the waters to which the Convention applies. After publication in the Federal Register, such regulations shall be applicable to all vessels and persons subject to the jurisdiction of the United States on such date as the Secretary shall prescribe. The Secretary shall suspend at any time the application of any such regulation when, after consultation with the Secretary of State and the United States Commissioners, he determines that fishing operations in the Convention area of a contracting party for whom the regulations are effective are such as to constitute a serious threat to the achievement of the Commission's recommendations.
 
 (3) The regulations required to be promulgated under paragraph (1) of this subsection may—
 
@@ -48,7 +48,7 @@ Enforcement activities at sea under the provisions of this chapter for fishing v
 
 &emsp;(A) the entry into the United States of fish in any form of those species which are subject to regulation pursuant to a recommendation of the Commission and which were taken from the Convention area in such manner or in such circumstances as would tend to diminish the effectiveness of the conservation recommendations of the Commission; and
 
-&emsp;(B) the entry into the United States, from any country when the vessels of such country are being used in the conduct of fishing operations in the Convention area in such manner or in such circumstances as would tend to diminish the effectiveness of the conservation recommendations of the Commission, of fish in any form of those species which are subject to regulation pursuant to a recommendation of the Commission and which were taken from the Convention area.
+&emsp;(B) the entry into the United States, from any country when the vessels of such country are being used in the conduct of fishing operations in the Convention area in such manner or in such circumstances as would tend to diminish the effectiveness of the conservationrecommendations of the Commission, of fish in any form of those species which are subject to regulation pursuant to a recommendation of the Commission and which were taken from the Convention area.
 
 (5) In the case of repeated and flagrant fishing operations in the Convention area by the vessels of any country which seriously threaten the achievement of the objectives of the Commission's recommendations, the Secretary with the concurrence of the Secretary of State, may by regulations promulgated pursuant to paragraph (2) of this subsection prohibit the entry in any form from such country of other species covered by the Convention as may be under investigation by the Commission and which were taken in the Convention area. Any such prohibition shall continue until the Secretary is satisfied that the condition warranting the prohibition no longer exists, except that all fish in any form of the species under regulation which were previously prohibited from entry shall continue to be prohibited from entry.
 
@@ -64,7 +64,7 @@ Identification and notification.—
 
 &emsp;&emsp;(iii) publish a list of those Nations identified under clause (i).
 
-&emsp;(B) In identifying those Nations, the Secretary shall consider, based on the best available information, whether those Nations havemeasures in place for reporting, monitoring, and enforcement, and whether those measures diminish the effectiveness of any conservation recommendation.
+&emsp;(B) In identifying those Nations, the Secretary shall consider, based on the best available information, whether those Nations have measures in place for reporting, monitoring, and enforcement, and whether those measures diminish the effectiveness of any conservation recommendation.
 
 (7)
 
@@ -92,13 +92,13 @@ Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act, refer
 
 #### Amendments
 
-1998—Subsec. (c)(1)(C). Pub. L. 105–384, §202(b)(1)(F), substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+<b>1998</b>—Subsec. (c)(1)(C). Pub. L. 105–384, §202(b)(1)(F), substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
 Subsecs. (c)(6)(A)(iii), (B). Pub. L. 105–384, §202(b)(1)(C), substituted “clause (i)” for “subparagraph (A)” in cl. (iii), and redesignated last sentence of subpar. (A) as subpar. (B) and realigned margin.
 
 Subsec. (d)(1). Pub. L. 105–384, §202(b)(1)(F), substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
-1995—Subsec. (a). Pub. L. 104–43, §303(3), substituted “exclusive economic zone” for “fisheries zone” after “any vessel in the” in third sentence.
+<b>1995</b>—Subsec. (a). Pub. L. 104–43, §303(3), substituted “exclusive economic zone” for “fisheries zone” after “any vessel in the” in third sentence.
 
 Subsec. (c). Pub. L. 104–43, §305(1), inserted “and other measures” after “Regulations” in heading.
 
@@ -106,7 +106,7 @@ Subsec. (c)(3). Pub. L. 104–43, §305(2), inserted “or fishing mortality lev
 
 Subsec. (c)(6), (7). Pub. L. 104–43, §305(3), added pars. (6) and (7).
 
-1990—Subsec. (c)(1). Pub. L. 101–627, §206(a), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+<b>1990</b>—Subsec. (c)(1). Pub. L. 101–627, §206(a), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
 Subsec. (c)(3). Pub. L. 101–627, §206(b), added subpars. (I) to (K) and concluding provisions and struck out former subpar. (I) which read as follows: “impose such other requirements and provide for such other measures as the Secretary may deem necessary to implement any recommendation of the Commission.”
 

@@ -14,5 +14,5 @@ As used in this chapter, unless the context otherwise requires:
 
 #### Amendments
 
-1986—Pub. L. 99–272 added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
+<b>1986</b>—Pub. L. 99–272 added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
 

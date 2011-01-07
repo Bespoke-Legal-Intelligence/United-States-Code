@@ -16,13 +16,13 @@ Section 5042 of this title, referred to in subsec. (a), was repealed by Pub. L. 
 
 #### Amendments
 
-1989—Subsec. (a). Pub. L. 101–204 substituted “30 percent” for “16 per centum”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–204 substituted “30 percent” for “16 per centum”.
 
-1984—Subsec. (a). Pub. L. 98–288, §8(1), (2), substituted “1984” for “1977”, and struck out “During the fiscal year ending September 30, 1980—(1) in no event may in excess of $5,800,000 be used pursuant to grants and contracts under this part for the direct cost of supporting such volunteers; and (2) funds obligated pursuant tosuch grants and contracts for such cost may be used to support no greater number of years of volunteer service than the number of such years supported during the fiscal year ending September 30, 1979, pursuant to grants and contracts for such cost.”
+<b>1984</b>—Subsec. (a). Pub. L. 98–288, §8(1), (2), substituted “1984” for “1977”, and struck out “During the fiscal year ending September 30, 1980—(1) in no event may in excess of $5,800,000 be used pursuant to grants and contracts under this part for the direct cost of supporting such volunteers; and (2) funds obligated pursuant to such grants and contracts for such cost may be used to support no greater number of years of volunteer service than the number of such years supported during the fiscal year ending September 30, 1979, pursuant to grants and contracts for such cost.”
 
 Subsec. (b)(2). Pub. L. 98–288, §8(3), struck out “human, social, or environmental” after “poverty-related”.
 
-1979—Subsec. (a). Pub. L. 96–143, §4, designated existing provisions as subsec. (a) and, in subsec. (a) as so designated, substituted “16” for “20”, inserted “During the fiscal year ending September 30, 1980”, and added pars. (1) and (2).
+<b>1979</b>—Subsec. (a). Pub. L. 96–143, §4, designated existing provisions as subsec. (a) and, in subsec. (a) as so designated, substituted “16” for “20”, inserted “During the fiscal year ending September 30, 1980”, and added pars. (1) and (2).
 
 Subsec. (b). Pub. L. 96–143, §4(b), added subsec. (b).
 

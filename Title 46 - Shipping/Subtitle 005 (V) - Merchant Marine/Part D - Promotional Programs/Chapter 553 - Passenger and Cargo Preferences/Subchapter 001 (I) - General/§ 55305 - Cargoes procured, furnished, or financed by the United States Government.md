@@ -20,7 +20,7 @@ Waivers.—The President, the Secretary of Defense, or Congress (by concurrent r
 
 Programs of Other Agencies.—
 
-&emsp;(1) Each department or agency that has responsibility for a program under this section shall administer that program with respect tothis section under regulations and guidance issued by the Secretary of Transportation. The Secretary, after consulting with the department or agency or organization or person involved, shall have the sole responsibility for determining if a program is subject to the requirements of this section.
+&emsp;(1) Each department or agency that has responsibility for a program under this section shall administer that program with respect to this section under regulations and guidance issued by the Secretary of Transportation. The Secretary, after consulting with the department or agency or organization or person involved, shall have the sole responsibility for determining if a program is subject to the requirements of this section.
 
 &emsp;(2) The Secretary—
 
@@ -30,7 +30,7 @@ Programs of Other Agencies.—
 
 &emsp;&emsp;(C) may impose on any person that violates this section, or a regulation prescribed under this section, a civil penalty of not more than $25,000 for each violation willfully and knowingly committed, with each day of a continuing violation following the date of shipment to be a separate violation; and
 
-&emsp;&emsp;(D) may take other measures as appropriate under the Federal Acquisition Regulations issued pursuant to section 25(c)(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 421(c)(1) <sup>1</sup> or contract with respect to each violation.
+&emsp;&emsp;(D) may take other measures as appropriate under the Federal Acquisition Regulations issued pursuant to section 25(c)(1) <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 421(c)(1) <sup>2</sup> or contract with respect to each violation.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1642; Pub. L. 110–417, div. C, title XXXV, §3511(a), (b), Oct. 14, 2008, 122 Stat. 4769.)
 
@@ -66,13 +66,21 @@ In this section, the words “commercial vessels of the United States” are sub
 
 In subsection (a), the words “the provisions of this subsection shall not apply to cargoes carried in the vessels of the Panama Canal Company” are omitted as obsolete. The words “Nothing herein shall repeal or otherwise modify the provisions of section 1241–1 of this Appendix” are omitted as unnecessary. The last proviso in 46 App. U.S.C. 1241(b)(1) is omitted as obsolete.
 
+#### References in Text
+
+Section 25(c)(1) of the Office of Federal Procurement Policy Act, referred to in subsec. (d)(2)(D), was classified to section 421(c)(1) of former Title 41, Public Contracts, and was repealed and restated as section 1303(a)(1) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Fordisposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–417, §3511(a), substituted “foreign country, organization, or persons” for “foreign country”, “commodities, or provides financing in any way with Federal funds for the account of any persons unless otherwise exempted, within” for “commodities, within”, and “furnishing or obtaining” for “furnishing”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–417, §3511(a), substituted “foreign country, organization, or persons” for “foreign country”, “commodities, or provides financing in any way with Federal funds for the account of any persons unless otherwise exempted, within” for “commodities, within”, and “furnishing or obtaining” for “furnishing”.
 
 Subsec. (d). Pub. L. 110–417, §3511(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “An agency having responsibility under this section shall administer its programs with respect to this section under regulations prescribed by the Secretary of Transportation. The Secretary shall review the administration of those programs and report annually to Congress on their administration.”
 
 #### Regulations
 
 Pub. L. 110–417, div. C, title XXXV, §3511(c), Oct. 14, 2008, 122 Stat. 4770, provided that: “The Secretary of Transportation shall prescribe such rules as are necessary to carry out section 55305(d) of title 46, United States Code. The Secretary may prescribe interim rules necessary to carry out section 55305(d) of such title. An interim rule prescribed under this subsection shall remain in effect until superseded by a final rule.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a second closing parenthesis.</i>
 

@@ -12,7 +12,7 @@ Section 300a of title 5, U.S.C., 1940 ed., Executive Departments and Government 
 
 #### Amendments
 
-1951—Act Jan. 10, 1951, included within its provisions the Associate Director and the Assistant to the Director.
+<b>1951</b>—Act Jan. 10, 1951, included within its provisions the Associate Director and the Assistant to the Director.
 
 #### Transfer of Functions
 

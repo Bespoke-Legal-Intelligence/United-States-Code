@@ -34,13 +34,15 @@
 
 &emsp;&emsp;(A) the lowest amount of gross income for which an income tax return is required under section 6012(a) of the Internal Revenue Code of 1986, to be filed by an individual who is not married (as determined under section 7703 of such Code), is not a surviving spouse (as defined in section 2(a) of such Code), and is not a head of household (as defined in section 2(b) of such Code); and
 
-&emsp;&emsp;(B) if the child is pursuing a course of postsecondary education or vocational rehabilitation or training, the amount paid by such child for such course of education or vocational rehabilitation or training, including the amount paid for tuition, fees, books, and materials; and
+&emsp;&emsp;(B) if the child is pursuing a course of postsecondary education or vocational rehabilitation or training, the amount paid by such child for such course of education or vocational rehabilitation or training, includingthe amount paid for tuition, fees, books, and materials;
 
-&emsp;(11) lump-sum proceeds of any life insurance policy on a veteran, for purposes of pension under subchapter III of this chapter.
+&emsp;(11) payment of a monetary amount of up to $5,000 to a veteran from a State or municipality that is paid as a veterans’ benefit due to injury or disease; and
+
+&emsp;(12) lump-sum proceeds of any life insurance policy on a veteran, for purposes of pension under subchapter III of this chapter.
 
 (b) Where a fraction of a dollar is involved, annual income shall be fixed at the next lower dollar.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, §503; Pub. L. 86–211, §2(a), Aug. 29, 1959, 73 Stat. 432;Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 88–664, §1, Oct. 13, 1964, 78 Stat. 1094; Pub. L. 90–77, title I, §103, Aug. 31, 1967, 81 Stat. 178; Pub. L. 91–588, §7, Dec. 24, 1970, 84 Stat. 1584; Pub. L. 92–198, §2, Dec. 15, 1971, 85 Stat. 664; Pub. L. 92–425, §6(2), Sept. 21, 1972, 86 Stat. 713; Pub. L. 94–169, title I, §§101(2)(A), 106(3)–(8), Dec. 23, 1975, 89 Stat. 1013, 1017; Pub. L. 95–588, title I, §102, Nov. 4, 1978, 92 Stat. 2497; Pub. L. 97–295, §4(13), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–687, div. B, title XIV, §1402(b), Nov. 18, 1988, 102 Stat. 4130; Pub. L. 102–54, §14(b)(5), June 13, 1991, 105 Stat. 283; renumbered §1503 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–454, title III, §303, Dec. 10, 2004, 118 Stat. 3611.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, §503; Pub. L. 86–211, §2(a), Aug. 29, 1959, 73 Stat. 432; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 88–664, §1, Oct. 13, 1964, 78 Stat. 1094; Pub. L. 90–77, title I, §103, Aug. 31, 1967, 81 Stat. 178; Pub. L. 91–588, §7, Dec. 24, 1970, 84 Stat. 1584; Pub. L. 92–198, §2, Dec. 15, 1971, 85 Stat. 664; Pub. L. 92–425, §6(2), Sept. 21, 1972, 86 Stat. 713; Pub. L. 94–169, title I, §§101(2)(A), 106(3)–(8), Dec. 23, 1975, 89 Stat. 1013, 1017; Pub. L. 95–588, title I, §102, Nov. 4, 1978, 92 Stat. 2497; Pub. L. 97–295, §4(13), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–687, div. B, title XIV, §1402(b), Nov. 18, 1988, 102 Stat. 4130; Pub. L. 102–54, §14(b)(5), June 13, 1991, 105 Stat. 283; renumbered §1503 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–454, title III, §303, Dec. 10, 2004, 118 Stat. 3611; Pub. L. 111–275, title VI, §604(a), Oct. 13, 2010, 124 Stat. 2885.)
 
 #### References in Text
 
@@ -56,9 +58,11 @@ Another prior section 1503, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1171, was 
 
 #### Amendments
 
-2004—Subsec. (a)(11). Pub. L. 108–454 added par. (11).
+<b>2010</b>—Subsec. (a)(11), (12). Pub. L. 111–275 added par. (11) and redesignated former par. (11) as (12).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 503 of this title as this section.
+<b>2004</b>—Subsec. (a)(11). Pub. L. 108–454 added par. (11).
+
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 503 of this title as this section.
 
 Subsec. (a)(5). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
@@ -66,11 +70,11 @@ Subsec. (a)(8). Pub. L. 102–54, §14(b)(5)(A), substituted “percent” for �
 
 Subsec. (a)(10)(A). Pub. L. 102–54, §14(b)(5)(B), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954 (26 U.S.C. 6012(a))” and “section 7703” for “section 143”.
 
-1988—Subsec. (a)(5). Pub. L. 100–687 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “proceeds of fire insurance policies;”.
+<b>1988</b>—Subsec. (a)(5). Pub. L. 100–687 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “proceeds of fire insurance policies;”.
 
-1982—Subsec. (a)(10)(A). Pub. L. 97–295 inserted “(26 U.S.C. 6012(a))” after “Code of 1954”.
+<b>1982</b>—Subsec. (a)(10)(A). Pub. L. 97–295 inserted “(26 U.S.C. 6012(a))” after “Code of 1954”.
 
-1978—Subsec. (a)(1). Pub. L. 95–588, §102(a)(1), (2), redesignated par. (2) as (1) and struck out former par. (1) which related to payments of six-months death gratuity.
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–588, §102(a)(1), (2), redesignated par. (2) as (1) and struck out former par. (1) which related to payments of six-months death gratuity.
 
 Subsec. (a)(2). Pub. L. 95–588, §102(a)(3), redesignated par. (3) as (2) and, as so redesignated, struck out “, and chapters 11 and 13 (except section 412(a)) of this title” after “chapter”. Former par. (2) redesignated (1).
 
@@ -98,7 +102,7 @@ Subsec. (a)(16), (17). Pub. L. 95–588, §102(a)(12), struck out pars. (16) and
 
 Subsec. (c). Pub. L. 95–588, §102(b), struck out former subsec. (c) which related to the power of the Administrator to exclude from income amounts paid by a veteran, surviving spouse, or child for unusual medical expenses.
 
-1975—Subsec. (a)(7). Pub. L. 94–169, §106(3), (4), substituted “spouse” for “wife”, “such veteran's” for “his” and “surviving spouse” for “widow” in introductory clause and “such veteran's” for “his” in subcls. (A), (B) and (C).
+<b>1975</b>—Subsec. (a)(7). Pub. L. 94–169, §106(3), (4), substituted “spouse” for “wife”, “such veteran's” for “his” and “surviving spouse” for “widow” in introductory clause and “such veteran's” for “his” in subcls. (A), (B) and (C).
 
 Subsec. (a)(9). Pub. L. 94–169, §106(5), substituted “such veteran's” for “his” in subcl. (A) and “surviving spouse” and “spouse” for “widow” and “wife”, respectively, in subcl. (B).
 
@@ -108,25 +112,29 @@ Subsec. (a)(16). Pub. L. 94–169, §§101(2)(A), 106(7), inserted “and” aft
 
 Subsec. (c). Pub. L. 94–169, §106(8), substituted “surviving spouse” for “widow”.
 
-1972—Par. (17). Pub. L. 92–425 substituted “subchapter I of chapter 73 of title 10” for “chapter 73 of title 10”.
+<b>1972</b>—Par. (17). Pub. L. 92–425 substituted “subchapter I of chapter 73 of title 10” for “chapter 73 of title 10”.
 
-1971—Pub. L. 92–198 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1971</b>—Pub. L. 92–198 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
-1970—Par. (4). Pub. L. 91–588, §7(1), inserted reference to servicemen's group life insurance.
+<b>1970</b>—Par. (4). Pub. L. 91–588, §7(1), inserted reference to servicemen's group life insurance.
 
 Pars. (14) to (17). Pub. L. 91–588, §7(3), added pars. (14) to (17).
 
-1967—Par. (7). Pub. L. 90–77, §103(a), provided for exclusion of amounts paid by a wife of a veteran for the expenses of his past illness.
+<b>1967</b>—Par. (7). Pub. L. 90–77, §103(a), provided for exclusion of amounts paid by a wife of a veteran for the expenses of his past illness.
 
 Par. (9). Pub. L. 90–77, §103(b), designated existing provisions as subpar. (A) and added subpar. (B).
 
-1964—Par. (6). Pub. L. 88–664, §1(a), inserted “10 per centum of the amount of” before “payments” and struck out “equal to his contributions thereto” after “programs”.
+<b>1964</b>—Par. (6). Pub. L. 88–664, §1(a), inserted “10 per centum of the amount of” before “payments” and struck out “equal to his contributions thereto” after “programs”.
 
 Pars. (9) to (13). Pub. L. 88–664, §1(b), added pars. (9) to (13).
 
-1961—Pub. L. 87–268 substituted “section 412(a)” for “section 412”.
+<b>1961</b>—Pub. L. 87–268 substituted “section 412(a)” for “section 412”.
 
-1959—Pub. L. 86–211 among other changes, required the inclusion of all payments of any kind or from any source (including salary, retirement or annuity payments, or similar income, which has been waived), and permitted the exclusion of donations from public or private relief or welfare organizations, payments under policies of United States Government life insurance or National Service Life Insurance, and payments of servicemen's indemnity, lump sum death payments, payments to an individual under public or private retirement, annuity, endowment, or similar plans or programs equal to his contributions thereto, amounts equal to amounts paid by a widow or child for the veteran's just debts, expenses of his last illness, and expenses of his burial to the extent such expenses are notreimbursed under chapter 23 of this title, and proceeds of life insurance policies.
+<b>1959</b>—Pub. L. 86–211 among other changes, required the inclusion of all payments of any kind or from any source (including salary, retirement or annuity payments, or similar income, which has been waived), and permitted the exclusion of donations from public or private relief or welfare organizations, payments under policies of United States Government life insurance or National Service Life Insurance, and payments of servicemen's indemnity, lump sum death payments, payments to an individual under public or private retirement, annuity, endowment, or similar plans or programs equal to his contributions thereto, amounts equal to amounts paid by a widow or child for the veteran's just debts, expenses of his last illness, and expenses of his burial to the extent such expenses are not reimbursed under chapter 23 of this title, and proceeds of life insurance policies.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–275, title VI, §604(b), Oct. 13, 2010, 124 Stat. 2885, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to determinations of income for calendar years beginning after October 1, 2011.”
 
 #### Effective Date of 1978 Amendment
 

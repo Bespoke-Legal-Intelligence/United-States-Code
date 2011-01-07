@@ -24,7 +24,7 @@ For purposes of this chapter—
 
 &emsp;(7) if it has been intentionally subjected to radiation, unless the use of the radiation was in conformity with a regulation or exemption in effect pursuant to section 348 of this title; or
 
-&emsp;(8) if any valuable constituent has been in whole or in part omitted or abstracted therefrom; or if any substance has been substituted,wholly or in part therefor; or if damage or inferiority has been concealed in any manner; or if any substance has been added thereto or mixed or packed therewith so as to increase its bulk or weight, or reduce its quality or strength, or make it appear better or of greater value than it is.
+&emsp;(8) if any valuable constituent has been in whole or in part omitted or abstracted therefrom; or if any substance has been substituted, wholly or in part therefor; or if damage or inferiority has been concealed in any manner; or if any substance has been added thereto or mixed or packed therewith so as to increase its bulk or weight, or reduce its quality or strength, or make it appear better or of greater value than it is.
 
 (b) The term “capable of use as human food” shall apply to any egg or egg product, unless it is denatured, or otherwise identified, as required by regulations prescribed by the Secretary to deter its use as human food.
 
@@ -48,7 +48,7 @@ For purposes of this chapter—
 
 (3) The term “dirty egg” means an egg that has a shell that is unbroken and has adhering dirt or foreign material.
 
-(4) The term “incubator reject” means an egg that has been subjected to incubation and has been removed from incubation during the hatching operations as infertile or otherwise unhatchable.
+(4) The term “incubator reject” means an egg that has been subjected to incubation and hasbeen removed from incubation during the hatching operations as infertile or otherwise unhatchable.
 
 (5) The term “inedible” means eggs of the following descriptions: black rots, yellow rots, white rots, mixed rots (addled eggs), sour eggs, eggs with green whites, eggs with stuck yolks, moldy eggs, musty eggs, eggs showing blood rings, and eggs containing embryo chicks (at or beyond the blood ring stage).
 
@@ -84,7 +84,7 @@ For purposes of this chapter—
 
 (r) The term “official standards” means the standards of quality, grades, and weight classes for eggs, in effect upon the effective date of this chapter, or as thereafter amended, under the Agricultural Marketing Act of 1946 (60 Stat. 1087, as amended; 7 U.S.C. 1621 et seq.).
 
-(s) The term “pasteurize” means the subjecting of each particle of egg products to heat orother treatments to destroy harmful viable micro-organisms by such processes as may be prescribed by regulations of the Secretary.
+(s) The term “pasteurize” means the subjecting of each particle of egg products to heat or other treatments to destroy harmful viable micro-organisms by such processes as may be prescribed by regulations of the Secretary.
 
 (t) The term “person” means any individual, partnership, corporation, association, or other business unit.
 
@@ -104,15 +104,17 @@ For purposes of this chapter—
 
 #### References in Text
 
-The Fair Packaging and Labeling Act, referred to in subsec. (h), is Pub. L. 89–755, Nov. 3, 1966, 80 Stat. 1296, as amended, which is classified generally to chapter 39 (§1451 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 15 and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (i) and (u), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Fair Packaging and Labeling Act, referred to in subsec. (h), is Pub. L. 89–755, Nov. 3, 1966, 80 Stat. 1296, which is classified generally to chapter 39 (§1451 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 15 and Tables.
+
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (i) and (u), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 The effective date of this chapter, referred to in subsec. (r), means the effective date of Pub. L. 91–597. For such effective date, see Effective Date note set out under section 1031 of this title.
 
-The Agricultural Marketing Act of 1946, referred to in subsec. (r), is title II of act Aug. 14, 1946, ch. 966, 60 Stat. 1087, as amended, which is classified generally to chapter 38 (§1621 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of Title 7 and Tables.
+The Agricultural Marketing Act of 1946, referred to in subsec. (r), is title II of act Aug. 14, 1946, ch. 966, 60 Stat. 1087, which is classified generally to chapter 38 (§1621 et seq.) of Title 7, Agriculture. For completeclassification of this Act to the Code, see Short Title note set out under section 1621 of Title 7 and Tables.
 
 #### Amendments
 
-1992—Subsec. (a)(2)(D). Pub. L. 102–571 substituted “379e” for “376”.
+<b>1992</b>—Subsec. (a)(2)(D). Pub. L. 102–571 substituted “379e” for “376”.
 

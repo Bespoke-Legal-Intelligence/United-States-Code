@@ -52,7 +52,7 @@ In subsection (c), 10:1036g (last 32 words of last sentence) and 34:440<i>o</i> 
 
 #### Amendments
 
-1994—Pub. L. 103–337 renumbered section 1335 of this title as this section and amended text generally, making changes in style.
+<b>1994</b>—Pub. L. 103–337 renumbered section 1335 of this title as this section and amended text generally, making changes in style.
 
 #### Effective Date of 1994 Amendment
 

@@ -12,5 +12,5 @@ In subsec. (a), “sections 556(b) and 557(b) of title 5” substituted for “s
 
 #### Amendments
 
-1970—Subsec. (a). Pub. L. 91–560 required that two members of the board should have such technical or other qualifications the Commission deems appropriate to the issues to be decided.
+<b>1970</b>—Subsec. (a). Pub. L. 91–560 required that two members of the board should have such technical or other qualifications the Commission deems appropriate to the issues to be decided.
 

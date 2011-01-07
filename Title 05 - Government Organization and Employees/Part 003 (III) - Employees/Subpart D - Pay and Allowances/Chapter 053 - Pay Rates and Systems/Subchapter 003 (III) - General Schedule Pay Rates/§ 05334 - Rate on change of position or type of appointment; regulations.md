@@ -1,6 +1,6 @@
 ### §5334. Rate on change of position or type of appointment; regulations
 
-(a) The rate of basic pay to which an employee is entitled is governed by regulations prescribed by the Office of Personnel Management in conformity with this subchapter and chapter 51 of this title when—
+(a) The rate of basic pay to which an employee is entitled is governed by regulations prescribedby the Office of Personnel Management in conformity with this subchapter and chapter 51 of this title when—
 
 &emsp;(1) he is transferred from a position in the legislative, judicial, or executive branch to which this subchapter does not apply;
 
@@ -50,7 +50,7 @@
 
 (f)(1) An employee of a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard described in section 2105(c) who moves, without a break in service of more than 3 days, to a position in the Department of Defense or the Coast Guard, respectively, that is subject to this subchapter, may have such employee's initial rate of basic pay fixed at the minimum rate of the appropriate grade or at any step of such grade that does not exceed—
 
-&emsp;(A) if the highest previous rate of basic pay received by that employee during the employee's service described in section 2105(c) is equalto a rate of the appropriate grade, such rate of the appropriate grade;
+&emsp;(A) if the highest previous rate of basic pay received by that employee during the employee's service described in section 2105(c) is equal to a rate of the appropriate grade, such rate of the appropriate grade;
 
 &emsp;(B) if the employee's highest previous rate of basic pay (as described in subparagraph (A)) is between two rates of the appropriate grade, the higher of those two rates; or
 
@@ -220,5 +220,5 @@ Section 6 of Pub. L. 90–623 provided that:
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

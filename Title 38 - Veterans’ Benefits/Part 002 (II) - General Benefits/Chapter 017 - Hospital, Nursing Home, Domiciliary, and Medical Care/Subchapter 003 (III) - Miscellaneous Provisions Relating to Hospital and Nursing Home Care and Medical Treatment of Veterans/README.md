@@ -2,7 +2,7 @@
 
 #### Amendments
 
-1976—Pub. L. 94–581, title II, §202(i), Oct. 21, 1976, 90 Stat. 2856, inserted “AND NURSING HOME” in subchapter heading.
+<b>1976</b>—Pub. L. 94–581, title II, §202(i), Oct. 21, 1976, 90 Stat. 2856, inserted “AND NURSING HOME” in subchapter heading.
 
 
 ---
@@ -22,3 +22,4 @@
 - [&sect; 01729A - Department of Veterans Affairs Medical Care Collections Fund](%C2%A7%2001729A%20-%20Department%20of%20Veterans%20Affairs%20Medical%20Care%20Collections%20Fund.md)
 - [&sect; 01729B - Consolidated patient accounting centers](%C2%A7%2001729B%20-%20Consolidated%20patient%20accounting%20centers.md)
 - [&sect; 01730 - Community residential care](%C2%A7%2001730%20-%20Community%20residential%20care.md)
+- [&sect; 01730A - Prohibition on collection of copayments from catastrophically disabled veterans](%C2%A7%2001730A%20-%20Prohibition%20on%20collection%20of%20copayments%20from%20catastrophically%20disabled%20veterans.md)

@@ -1,6 +1,6 @@
 ### §10508. General penalties
 
-(a) A master who carries a seaman on a voyage without first making the agreement required by section 10502 of this title shall pay to the seaman the highest wage that was paid for a similar voyage within the 3 months before the time of engagement at the port or place at which theseaman was engaged. A seaman who has not signed an agreement is not bound by the applicable regulations, penalties, or forfeitures.
+(a) A master who carries a seaman on a voyage without first making the agreement required by section 10502 of this title shall pay to the seaman the highest wage that was paid for a similar voyage within the 3 months before the time of engagement at the port or place at which the seaman was engaged. A seaman who has not signed an agreement is not bound by the applicable regulations, penalties, or forfeitures.
 
 (b) A master engaging a seaman in violation of this chapter or a regulation prescribed under this chapter is liable to the United States Government for a civil penalty of not more than $5,000. The vessel also is liable in rem for the penalty.
 
@@ -20,5 +20,5 @@ Section 10508 provides for a fair wage to be paid to a seaman who was engaged wi
 
 #### Amendments
 
-1993—Subsec. (b). Pub. L. 103–206 substituted “not more than $5,000” for “$20”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–206 substituted “not more than $5,000” for “$20”.
 

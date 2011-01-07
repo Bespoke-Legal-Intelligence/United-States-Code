@@ -20,9 +20,9 @@ Any territory, possession, or Commonwealth of the United States, and any foreign
 
 #### Amendments
 
-2009—Subsec. (d). Pub. L. 111–84 added subsec. (d).
+<b>2009</b>—Subsec. (d). Pub. L. 111–84 added subsec. (d).
 
-1984—Subsecs. (a), (b). Pub. L. 98–623, §207, substituted “Secretary of Transportation” for “Secretary of Commerce” and “obsolete ships” for “Liberty ships”, wherever appearing.
+<b>1984</b>—Subsecs. (a), (b). Pub. L. 98–623, §207, substituted “Secretary of Transportation” for “Secretary of Commerce” and “obsolete ships” for “Liberty ships”, wherever appearing.
 
 #### Environmental Best Management Practices for Preparing Vessels for Use as Artificial Reefs
 

@@ -32,7 +32,7 @@ Screening and Foreign Air Carrier and Airport Security.—The Under Secretary sh
 
 &emsp;(2) that includes a summary of the assessments conducted under section 44907(a)(1) and (2) of this title; and
 
-&emsp;(3) that includes an assessment of the steps being taken, and the progress being made, in ensuring compliance with section 44906 of this title for each foreign air carrier security program at airports outside the United States—
+&emsp;(3) that includes an assessment of the steps being taken, and the progress being made, inensuring compliance with section 44906 of this title for each foreign air carrier security program at airports outside the United States—
 
 &emsp;&emsp;(A) at which the Under Secretary decides that Foreign Security Liaison Officers are necessary for air transportation security; and
 
@@ -84,19 +84,19 @@ In subsection (b)(3), before clause (A), the words “that includes” are subst
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–71, §101(f)(7), (9), in introductory provisions, substituted “Under Secretary” for “Administrator” in two places and “of Transportation for Security” for “of the Federal Aviation Administration”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–71, §101(f)(7), (9), in introductory provisions, substituted “Under Secretary” for “Administrator” in two places and “of Transportation for Security” for “of the Federal Aviation Administration”.
 
 Subsec. (a)(9). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator”.
 
 Subsec. (b). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” in introductory provisions and par. (3)(A).
 
-1998—Subsec. (a). Pub. L. 105–362, §1502(b)(1), in second sentence of introductory provisions, substituted “biennial report” for “annual report” and inserted “in each year the Administrator submits the biennial report” after “subsection (b) of this section”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–362, §1502(b)(1), in second sentence of introductory provisions, substituted “biennial report” for “annual report” and inserted “in each year the Administrator submits the biennial report” after “subsection (b) of this section”.
 
 Subsec. (b). Pub. L. 105–362, §1502(b)(2), substituted “biennially” for “annually” in introductory provisions.
 
 Subsec. (c). Pub. L. 105–362, §1502(b)(3), struck out heading and text of subsec. (c). Text read as follows: “The Administrator shall submit to Congress an annual report for each of the calendar years 1991 and 1992 on the progress being made, and the problems occurring, in carrying out section 44904 of this title. The report shall include recommendations for improving domestic air transportation security.”
 
-1994—Subsec. (a). Pub. L. 103–305 substituted “March 31” for “December 31”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–305 substituted “March 31” for “December 31”.
 
 #### Termination of Reporting Requirements
 

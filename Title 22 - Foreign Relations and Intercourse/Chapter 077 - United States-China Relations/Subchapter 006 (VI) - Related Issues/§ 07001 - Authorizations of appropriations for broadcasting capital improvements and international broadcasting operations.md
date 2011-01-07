@@ -24,7 +24,7 @@ In addition to such sums as may otherwise be authorized to be appropriated, ther
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–228, §121(b)(1), substituted “2003” for “2001”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–228, §121(b)(1), substituted “2003” for “2001”.
 
 Subsec. (b)(1). Pub. L. 107–228, §121(b)(2), substituted “2001, 2002, and 2003” for “2001 and 2002”.
 

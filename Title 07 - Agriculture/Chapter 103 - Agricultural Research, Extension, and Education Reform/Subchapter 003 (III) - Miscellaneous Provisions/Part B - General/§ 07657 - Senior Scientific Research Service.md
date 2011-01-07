@@ -28,7 +28,7 @@ There is established in the Department of Agriculture the Senior Scientific Rese
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B) and subsection (d)(2) of this section, the Secretarymay appoint and employ a member of the Service without regard to—
+&emsp;&emsp;Subject to subparagraph (B) and subsection (d)(2) of this section, the Secretary may appoint and employ a member of the Service without regard to—
 
 &emsp;&emsp;&emsp;(i) the provisions of title 5 governing appointments in the competitive service;
 
@@ -105,8 +105,6 @@ The Secretary shall develop a performance appraisal system for members of the Se
 #### References in Text
 
 The General Schedule, referred to in subsecs. (b)(2)(C), (4)(A)(iv), (B), (d)(2)(A), and (f)(1)(A), is set out under section 5332 of Title 5, Government Organization and Employees.
-
-The provisions of title 5 governing appointment in the competitive service, referred to in subsecs. (b)(4)(A)(i) and (f)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 Level I of the Executive Schedule, referred to in subsec. (d)(2)(B), is set out in section 5312 of Title 5, Government Organization and Employees.
 

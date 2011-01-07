@@ -56,21 +56,21 @@ In subsection (a), the words “an Air Staff consisting of—” are substituted
 
 In subsection (b), 10:1811(b) (proviso) is omitted as superseded by section 264(c) of this title.
 
-In subsection (c), the third sentence is substituted for 10:1811(c) (1st 13 words and 1st proviso). The words “officers and employees or under the jurisdiction of” are omitted as surplusage.
+In subsection (c), the third sentence is substituted for 10:1811(c) (1st 13 words and 1st proviso). The words “officers and employees \* \* \* or under the jurisdiction of” are omitted as surplusage.
 
-In subsections (c) and (d), the word “hereafter” is omitted, since all wars and emergencies declared byCongress before September 19, 1951, have been terminated.
+In subsections (c) and (d), the word “hereafter” is omitted, since all wars and emergencies declared by Congress before September 19, 1951, have been terminated.
 
 In subsection (d), the words “now or hereafter” are omitted as surplusage and as executed. The second sentence is substituted for 10:1811(d) (last 31 words of 1st sentence). The third sentence is substituted for 10:1811(d) (2d sentence). 10:1811(d) (1st 13 words of last sentence) is omitted as executed. The words “This subsection does not apply” are substituted for the words “and shall be inapplicable”.
 
 #### Amendments
 
-1986—Pub. L. 99–433 amended section generally, substituting “The Air Staff: function; composition” for “Composition: assignment and detail of members of Air Force and civilians” in section catchline and substituting in text provisions relating to establishment and composition of the Air Staff and authorizing the Secretary to prescribe the organization, duties, and titles of the Air Staff for provisions relating to establishment and composition of the Air Staff, authorizing the Secretary to prescribe the organization, duties, and titles of the Air Staff, and limiting the number of officers who may be assigned or detailed to permanent duty in the executive part of the Department of the Air Force.
+<b>1986</b>—Pub. L. 99–433 amended section generally, substituting “The Air Staff: function; composition” for “Composition: assignment and detail of members of Air Force and civilians” in section catchline and substituting in text provisions relating to establishment and composition of the Air Staff and authorizing the Secretary to prescribe the organization, duties, and titles of the Air Staff for provisions relating to establishment and composition of the Air Staff, authorizing the Secretary to prescribe the organization, duties, and titles of the Air Staff, and limiting the number of officers who may be assigned or detailed to permanent duty in the executive part of the Department of the Air Force.
 
-1984—Subsec. (d). Pub. L. 98–525 struck out subsec. (d) which had provided that no commissioned officer who was assigned or detailed to duty in the executive part of the Department of the Air Force could serve for a tour of duty of more than four years, but that the Secretary could extend such a tour of duty if he made a special finding that the extension was necessary in the public interest, that no officer could be assigned or detailed to duty in the executive part of the Department of the Air Force within two years after relief from that duty, except upon a special finding by the Secretary that the assignment or detail was necessary in the public interest, and that the subsection did not apply in time of war, or of national emergency declared by Congress.
+<b>1984</b>—Subsec. (d). Pub. L. 98–525 struck out subsec. (d) which had provided that no commissioned officer who was assigned or detailed to duty in the executive part of the Department of the Air Force could serve for a tour of duty of more than four years, but that the Secretary could extend such a tour of duty if he made a special finding that the extension was necessary in the public interest, that no officer could be assigned or detailed to duty in the executive part of the Department of the Air Force within two years after relief from that duty, except upon a special finding by the Secretary that the assignment or detail was necessary in the public interest, and that the subsection did not apply in time of war, or of national emergency declared by Congress.
 
-1975—Subsec. (c). Pub. L. 93–608 struck out requirement of annual report to Congress on the number of officers in the executive part of the Department of the Air Force and the justification therefor.
+<b>1975</b>—Subsec. (c). Pub. L. 93–608 struck out requirement of annual report to Congress on the number of officers in the executive part of the Department of the Air Force and the justification therefor.
 
-1966—Subsec. (c). Pub. L. 89–718 changed the reporting requirement from quarterly to annually.
+<b>1966</b>—Subsec. (c). Pub. L. 89–718 changed the reporting requirement from quarterly to annually.
 
 #### Effective Date of 1984 Amendment
 

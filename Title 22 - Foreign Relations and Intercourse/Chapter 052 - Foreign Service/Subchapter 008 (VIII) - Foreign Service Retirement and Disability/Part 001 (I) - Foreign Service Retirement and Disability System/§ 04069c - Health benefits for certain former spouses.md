@@ -42,7 +42,7 @@ For purposes of this section the term “health benefits plan” means an approv
 
 #### (f) Former spouses of United States Information Agency and Agency for International Development employees
 
-Any individual who on February 14, 1981, was an otherwise qualified former spouse pursuant to subsections (a), (b), and (c) of this section, but who was married to a former Foreign Service employee of the United States Information Agency or of the Agency for International Development, shall be entitled to benefits under this section if—
+Any individual who on February 14, 1981, was an otherwise qualified former spouse pursuantto subsections (a), (b), and (c) of this section, but who was married to a former Foreign Service employee of the United States Information Agency or of the Agency for International Development, shall be entitled to benefits under this section if—
 
 &emsp;(1) the former employee retired from the Civil Service Retirement and Disability System on a date before his employing agency could legally participate in the Foreign Service Retirement and Disability System; and
 
@@ -56,7 +56,7 @@ Another section 832 of the Foreign Service Act of 1980 was enacted by Pub. L. 10
 
 #### Amendments
 
-1990—Subsec. (f). Pub. L. 101–246 added subsec. (f).
+<b>1990</b>—Subsec. (f). Pub. L. 101–246 added subsec. (f).
 
 #### Transfer of Functions
 

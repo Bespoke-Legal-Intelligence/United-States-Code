@@ -14,7 +14,7 @@ Each institution of higher education that offers a program described in subsecti
 
 &emsp;(1) determine, for the four academic years preceding the academic year for which the determination is made, the average number of matriculated nursing program students, in each of the institution's accredited associate, baccalaureate, or advanced nursing degree programs at such institution for such academic years;
 
-&emsp;(2) submit an application to the Secretary at such time, in such manner, and accompaniedby such information as the Secretary may require, including the average number in each of the institution's accredited nursing programs determined under paragraph (1); and
+&emsp;(2) submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require, including the average number in each of the institution's accredited nursing programs determined under paragraph (1); and
 
 &emsp;(3) with respect to the partnerships described in subsection (c)(2)(B), provide assurances that—
 
@@ -128,7 +128,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### Amendments
 
-2009—Subsec. (d). Pub. L. 111–39 substituted “Definitions” for “Definition” in heading, added par. (2), and struck out former par. (2). Prior to amendment, text read as follows: “The terms ‘accredited school of nursing’ and ‘accredited nursing program’ have the meaning given those terms in section 296 of title 42.”
+<b>2009</b>—Subsec. (d). Pub. L. 111–39 substituted “Definitions” for “Definition” in heading, added par. (2), and struck out former par. (2). Prior to amendment, text read as follows: “The terms ‘accredited school of nursing’ and ‘accredited nursing program’ have the meaning given those terms in section 296 of title 42.”
 
 #### Effective Date of 2009 Amendment
 

@@ -6,5 +6,5 @@ No part of any funds appropriated for the Forest Service shall be used to pay th
 
 #### Amendments
 
-1958—Pub. L. 85–464 made prohibition inapplicable to scientific or technical articles prepared for or published in scientific publications.
+<b>1958</b>—Pub. L. 85–464 made prohibition inapplicable to scientific or technical articles prepared for or published in scientific publications.
 

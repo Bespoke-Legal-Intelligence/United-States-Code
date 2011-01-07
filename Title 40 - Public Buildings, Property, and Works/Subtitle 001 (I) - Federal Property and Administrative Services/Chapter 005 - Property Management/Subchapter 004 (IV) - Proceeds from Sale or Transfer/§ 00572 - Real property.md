@@ -44,7 +44,7 @@ Transfer to miscellaneous receipts.—At least once each year, excess amounts be
 
 &emsp;(4)
 
-Report.—A report of receipts, disbursements, and transfers to miscellaneous receiptsunder this subsection shall be made annually, in connection with the budget estimate, to the Director and to Congress.
+Report.—A report of receipts, disbursements, and transfers to miscellaneous receipts under this subsection shall be made annually, in connection with the budget estimate, to the Director and to Congress.
 
 (b)
 
@@ -96,7 +96,7 @@ Deposit in special account.—For a transfer or disposition of property pursuant
 
 &emsp;&emsp;(B)
 
-Availability of amount deposited.—To the extent provided in an appropriation law, an amount deposited in a special account under subparagraph (A) is available for facility maintenance and repair or environmental restoration as follows:
+Availability of amount deposited.—To the extent provided in an appropriationlaw, an amount deposited in a special account under subparagraph (A) is available for facility maintenance and repair or environmental restoration as follows:
 
 &emsp;&emsp;&emsp;(i) In the case of property located at a military installation that is closed, the amount is available for facility maintenance and repair or environmental restoration by the military department that had jurisdiction over the property before the closure of the military installation.
 
@@ -138,9 +138,9 @@ In subsection (b)(4), the words “section 13(g) of the Surplus Property Act of 
 
 #### Amendments
 
-2006—Subsec. (b)(1)(B). Pub. L. 109–163 substituted “section 101(a)(17) of title 10” for “section 2667(h)(2) of title 10”.
+<b>2006</b>—Subsec. (b)(1)(B). Pub. L. 109–163 substituted “section 101(a)(17) of title 10” for “section 2667(h)(2) of title 10”.
 
-2005—Subsec. (a)(2)(A)(ii). Pub. L. 109–13 made technical correction to directory language of Pub. L. 108–447, §408. See 2004 Amendment note below.
+<b>2005</b>—Subsec. (a)(2)(A)(ii). Pub. L. 109–13 made technical correction to directory language of Pub. L. 108–447, §408. See 2004 Amendment note below.
 
-2004—Subsec. (a)(2)(A)(ii). Pub. L. 108–447, §408, as amended by Pub. L. 109–13, inserted “, highest and best use of property studies, utilization of property studies, deed compliance inspection, and the expenses incurred in a relocation” before period at end.
+<b>2004</b>—Subsec. (a)(2)(A)(ii). Pub. L. 108–447, §408, as amended by Pub. L. 109–13, inserted “, highest and best use of property studies, utilization of property studies, deed compliance inspection, and the expenses incurred in a relocation” before period at end.
 

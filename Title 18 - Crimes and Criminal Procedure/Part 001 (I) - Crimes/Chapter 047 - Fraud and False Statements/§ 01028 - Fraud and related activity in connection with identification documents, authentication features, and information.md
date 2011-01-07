@@ -22,7 +22,7 @@
 
 (b) The punishment for an offense under subsection (a) of this section is—
 
-&emsp;(1) except as provided in paragraphs (3) and (4), a fine under this title or imprisonment for not more than 15 years, or both, if the offense is—
+&emsp;(1) except as provided in paragraphs (3) and (4), a fine under this title or imprisonment fornot more than 15 years, or both, if the offense is—
 
 &emsp;&emsp;(A) the production or transfer of an identification document, authentication feature, or false identification document that is or appears to be—
 
@@ -84,7 +84,7 @@
 
 &emsp;(5) the term “false authentication feature” means an authentication feature that—
 
-&emsp;&emsp;(A) is genuine in origin, but, without the authorization of the issuing authority, has been tampered with or altered for purposes of deceit;
+&emsp;&emsp;(A) is genuine in origin, but, without the authorization of the issuing authority, hasbeen tampered with or altered for purposes of deceit;
 
 &emsp;&emsp;(B) is genuine, but has been distributed, or is intended for distribution, without the authorization of the issuing authority and not in connection with a lawfully made identification document, document-making implement, or means of identification to which such authentication feature is intended to be affixed or embedded by the respective issuing authority; or
 
@@ -142,15 +142,15 @@ Rule of Construction.—For purpose of subsection (a)(7), a single identificatio
 
 #### Amendments
 
-2006—Subsecs. (a)(6), (c)(1). Pub. L. 109–177, §603(1), (2), inserted “or a sponsoring entity of an event designated as a special event of national significance” after “United States”.
+<b>2006</b>—Subsecs. (a)(6), (c)(1). Pub. L. 109–177, §603(1), (2), inserted “or a sponsoring entity of an event designated as a special event of national significance” after “United States”.
 
 Subsec. (d)(3). Pub. L. 109–177, §603(3), inserted “a sponsoring entity of an event designated as a special event of national significance,” after “political subdivision of a State,”.
 
 Subsec. (d)(4)(B), (6)(B). Pub. L. 109–177, §603(4), inserted “a sponsoring entity of an event designated by the President as a special event of national significance,” after “political subdivision of a State,”.
 
-2005—Subsec. (a)(8). Pub. L. 109–13 substituted “false or actual authentication features” for “false authentication features”.
+<b>2005</b>—Subsec. (a)(8). Pub. L. 109–13 substituted “false or actual authentication features” for “false authentication features”.
 
-2004—Subsec. (a)(7). Pub. L. 108–275, §3(1), substituted “transfers, possesses,” for “transfers” and “abet, or in connection with,” for “abet,”.
+<b>2004</b>—Subsec. (a)(7). Pub. L. 108–275, §3(1), substituted “transfers, possesses,” for “transfers” and “abet, or in connection with,” for “abet,”.
 
 Subsec. (b)(1)(D). Pub. L. 108–275, §3(2), substituted “transfer, possession,” for “transfer”.
 
@@ -162,7 +162,7 @@ Pub. L. 108–275, §3(4), inserted “an act of domestic terrorism (as defined 
 
 Subsec. (d). Pub. L. 108–275, §2(c), inserted “and section 1028A” after “In this section” in introductory provisions.
 
-2003—Pub. L. 108–21, §607(b)(6), inserted “, authentication features,” after “documents” in section catchline.
+<b>2003</b>—Pub. L. 108–21, §607(b)(6), inserted “, authentication features,” after “documents” in section catchline.
 
 Subsec. (a)(1). Pub. L. 108–21, §607(b)(1)(A), inserted “, authentication feature,” after “an identification document”.
 
@@ -194,13 +194,13 @@ Subsec. (d). Pub. L. 108–21, §607(b)(4), added pars. (1), (5), (6) and (12), 
 
 Subsecs. (h), (i). Pub. L. 108–21, §607(b)(5), added subsec. (h) and redesignated former subsec. (h) as (i).
 
-2000—Subsec. (c)(3)(A). Pub. L. 106–578, §3(1), inserted “, including the transfer of a document by electronic means” after “commerce”.
+<b>2000</b>—Subsec. (c)(3)(A). Pub. L. 106–578, §3(1), inserted “, including the transfer of a document by electronic means” after “commerce”.
 
 Subsec. (d)(1). Pub. L. 106–578, §3(2)(A), inserted “template, computer file, computer disc,” after “impression,”.
 
 Subsec. (d)(3) to (8). Pub. L. 106–578, §3(2)(B)–(F), added pars. (3) and (7) and redesignated former pars. (3), (4), (5), and (6) as (4), (5), (6), and (8), respectively.
 
-1998—Pub. L. 105–318, §3(h)(1), inserted “and information” at end of section catchline.
+<b>1998</b>—Pub. L. 105–318, §3(h)(1), inserted “and information” at end of section catchline.
 
 Subsec. (a). Pub. L. 105–318, §3(a)(3), struck out “or attempts to do so,” before “shall be punished” in concluding provisions.
 
@@ -226,7 +226,7 @@ Subsec. (g). Pub. L. 105–318, §3(f), added subsec. (g).
 
 Subsec. (h). Pub. L. 105–318, §3(g), added subsec. (h).
 
-1996—Subsec. (a)(4), (5). Pub. L. 104–294, §601(p), struck out “or” after semicolon in par. (4) and inserted “or” after semicolon in par. (5).
+<b>1996</b>—Subsec. (a)(4), (5). Pub. L. 104–294, §601(p), struck out “or” after semicolon in par. (4) and inserted “or” after semicolon in par. (5).
 
 Subsec. (b). Pub. L. 104–294, §601(a)(3), substituted “fine under this title” for “fine of under this title” wherever appearing.
 
@@ -236,17 +236,17 @@ Subsec. (b)(2). Pub. L. 104–208, §211(a)(1)(B), inserted “except as provide
 
 Subsec. (b)(3) to (5). Pub. L. 104–208, §211(a)(1)(C), (D), added pars. (3) and (4) and redesignated former par. (3) as (5).
 
-1994—Subsec. (b)(1). Pub. L. 103–322, §330016(1)(O), substituted “under this title” for “not more than $25,000”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–322, §330016(1)(O), substituted “under this title” for “not more than $25,000”.
 
 Subsec. (b)(2). Pub. L. 103–322, §330016(1)(M), substituted “under this title” for “not more than $15,000”.
 
 Subsec. (b)(3). Pub. L. 103–322, §330016(1)(K), substituted “under this title” for “not more than $5,000”.
 
-1990—Subsec. (d)(5). Pub. L. 101–647 inserted “commonwealth,” before “possession or territory of the United States”.
+<b>1990</b>—Subsec. (d)(5). Pub. L. 101–647 inserted “commonwealth,” before “possession or territory of the United States”.
 
-1988—Subsec. (a)(6). Pub. L. 100–690 inserted “knowingly” before “possesses”, “lawful” before first reference to “authority”, and “such” before second reference to “authority”.
+<b>1988</b>—Subsec. (a)(6). Pub. L. 100–690 inserted “knowingly” before “possesses”, “lawful” before first reference to “authority”, and “such” before second reference to “authority”.
 
-1986—Subsec. (e). Pub. L. 99–646 substituted “chapter 224 of this title” for “title V of the Organized Crime Control Act of 1970 (18 U.S.C. note prec. 3481)”.
+<b>1986</b>—Subsec. (e). Pub. L. 99–646 substituted “chapter 224 of this title” for “title V of the Organized Crime Control Act of 1970 (18 U.S.C. note prec. 3481)”.
 
 #### Effective Date of 2000 Amendment
 

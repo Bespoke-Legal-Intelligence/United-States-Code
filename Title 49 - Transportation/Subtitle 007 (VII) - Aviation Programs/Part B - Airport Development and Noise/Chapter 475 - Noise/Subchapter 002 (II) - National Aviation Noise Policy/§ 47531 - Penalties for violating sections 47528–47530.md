@@ -28,7 +28,7 @@ This amends 49:47531 to correct a grammatical error and erroneous cross-referenc
 
 #### Amendments
 
-1994—Pub. L. 103–429 substituted “section 47528” for “sections 47528” and inserted “any of” before “those” and “any of sections” before “44702–44716”.
+<b>1994</b>—Pub. L. 103–429 substituted “section 47528” for “sections 47528” and inserted “any of” before “those” and “any of sections” before “44702–44716”.
 
 #### Effective Date of 1994 Amendment
 

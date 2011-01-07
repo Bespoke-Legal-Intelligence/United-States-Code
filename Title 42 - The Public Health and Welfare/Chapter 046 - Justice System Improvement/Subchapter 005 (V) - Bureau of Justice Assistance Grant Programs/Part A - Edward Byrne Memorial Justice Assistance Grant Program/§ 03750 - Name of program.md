@@ -32,7 +32,7 @@ For other prior sections 3750 to 3750d of this title, see note set out preceding
 
 #### Amendments
 
-2006—Pub. L. 109–162 substituted “Name of program” for “Name of programs” in section catchline and amended text generally. Prior to amendment, text read as follows: “The grant programs established under this subchapter shall be known as the ‘Edward Byrne Memorial State and Local Law Enforcement Assistance Programs’.”
+<b>2006</b>—Pub. L. 109–162 substituted “Name of program” for “Name of programs” in section catchline and amended text generally. Prior to amendment, text read as follows: “The grant programs established under this subchapter shall be known as the ‘Edward Byrne Memorial State and Local Law Enforcement Assistance Programs’.”
 
 #### Effective Date of 2006 Amendment
 

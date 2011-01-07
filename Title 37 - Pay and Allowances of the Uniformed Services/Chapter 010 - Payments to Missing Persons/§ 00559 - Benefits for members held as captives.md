@@ -8,7 +8,7 @@
 
 (b)(1) The Secretary of the Treasury shall establish a savings fund to which the Secretary concerned may allot all or any portion of the pay and allowances of any member of the uniformed services who is in a captive status to the extent that such pay and allowances are not subject to an allotment under section 553 of this title or any other provision of law.
 
-(2) Amounts so allotted shall bear interest at a rate which, for any calendar quarter, shall beequal to the average rate paid on United States Treasury bills with three-month maturities issued during the preceding calendar quarter. Such interest shall be computed quarterly.
+(2) Amounts so allotted shall bear interest at a rate which, for any calendar quarter, shall be equal to the average rate paid on United States Treasury bills with three-month maturities issued during the preceding calendar quarter. Such interest shall be computed quarterly.
 
 (3) Amounts in the savings fund credited to a member shall be considered as pay and allowances for purposes of section 553(c) of this title and shall otherwise be subject to withdrawal under procedures which the Secretary of the Treasury shall establish.
 
@@ -48,7 +48,7 @@
 
 (d) A determination by the President under subsection (a)(1) or (c) is final and is not subject to judicial review.
 
-(Added Pub. L. 99–399, title VIII, §806(a)(1), Aug. 27, 1986, 100 Stat. 884; amended Pub. L. 100–26, §8(e)(11), Apr. 21, 1987, 101 Stat. 287; Pub. L. 101–510, div. A, title XIV, §1484(d)(4), (e)(2), Nov. 5, 1990, 104 Stat. 1717; Pub. L. 102–25, title VII, §702(b)(1)–(4), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title X, §1054(a)(6), (c)(2), Oct. 23, 1992, 106 Stat. 2502.)
+(Added Pub. L. 99–399, title VIII, §806(a)(1), Aug. 27, 1986, 100 Stat. 884; amended Pub. L. 100–26,§8(e)(11), Apr. 21, 1987, 101 Stat. 287; Pub. L. 101–510, div. A, title XIV, §1484(d)(4), (e)(2), Nov. 5, 1990, 104 Stat. 1717; Pub. L. 102–25, title VII, §702(b)(1)–(4), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title X, §1054(a)(6), (c)(2), Oct. 23, 1992, 106 Stat. 2502.)
 
 #### References in Text
 
@@ -56,11 +56,11 @@ Section 802 of the Victims of Terrorism Compensation Act, referred to in subsec.
 
 #### Amendments
 
-1992—Subsec. (c)(3)(A)(i). Pub. L. 102–484, §1054(c)(2), made technical correction to directory language of Pub. L. 102–25, §702(b)(4). See 1991 Amendment note below.
+<b>1992</b>—Subsec. (c)(3)(A)(i). Pub. L. 102–484, §1054(c)(2), made technical correction to directory language of Pub. L. 102–25, §702(b)(4). See 1991 Amendment note below.
 
 Pub. L. 102–484, §1054(a)(6), made amendment identical to amendment by Pub. L. 102–25, §702(b)(4). See 1991 Amendment note below.
 
-1991—Subsec. (c)(1). Pub. L. 102–25, §702(b)(2), struck out “of this subsection” after “paragraph (3)”.
+<b>1991</b>—Subsec. (c)(1). Pub. L. 102–25, §702(b)(2), struck out “of this subsection” after “paragraph (3)”.
 
 Subsec. (c)(3)(A)(i). Pub. L. 102–25, §702(b)(4), as amended by Pub. L. 102–484, §1054(c)(2), struck out “of this subparagraph” after “clause (ii)”.
 
@@ -70,11 +70,11 @@ Subsec. (c)(6). Pub. L. 102–25, §702(b)(2), struck out “of this subsection�
 
 Subsec. (d). Pub. L. 102–25, §702(b)(1), struck out “of this section” after “(c)”.
 
-1990—Subsec. (a)(1). Pub. L. 101–510, §1484(d)(4), substituted “August 27, 1986” for “the date of the enactment of the Victims of Terrorism Compensation Act”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–510, §1484(d)(4), substituted “August 27, 1986” for “the date of the enactment of the Victims of Terrorism Compensation Act”.
 
 Subsec. (c)(2). Pub. L. 101–510, §1484(e)(2), inserted “(5 U.S.C. 5569 note)” after “Terrorism Compensation Act”.
 
-1987—Subsec. (a). Pub. L. 100–26 substituted “In this section:” for “In this section—”, inserted “The term” at beginning of pars. (1) and (2), and substituted period for “; and” at end of par. (1).
+<b>1987</b>—Subsec. (a). Pub. L. 100–26 substituted “In this section:” for “In this section—”, inserted “The term” at beginning of pars. (1) and (2), and substituted period for “; and” at end of par. (1).
 
 #### Effective Date; Payments; Interest
 

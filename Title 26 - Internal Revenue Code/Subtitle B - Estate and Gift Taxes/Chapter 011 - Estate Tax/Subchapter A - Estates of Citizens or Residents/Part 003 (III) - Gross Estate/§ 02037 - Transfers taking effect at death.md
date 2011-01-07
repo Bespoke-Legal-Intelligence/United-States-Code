@@ -22,9 +22,9 @@ For purposes of this section, the term “reversionary interest” includes a po
 
 #### Amendments
 
-1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1962—Subsec. (a). Pub. L. 87–834 struck out provisions which excepted real property situated outside of the United States.
+<b>1962</b>—Subsec. (a). Pub. L. 87–834 struck out provisions which excepted real property situated outside of the United States.
 
 #### Effective Date of 1962 Amendment
 

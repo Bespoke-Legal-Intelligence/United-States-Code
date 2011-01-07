@@ -28,7 +28,7 @@ Buy America.—(1) The Secretary of Transportation may obligate an amount that m
 
 &emsp;(A) has an agreement with the United States Government under which the Secretary has waived the requirement of this subsection; and
 
-&emsp;(B) has violated the agreement by discriminating against goods to which this subsectionapplies that are produced in the United States and to which the agreement applies.
+&emsp;(B) has violated the agreement by discriminating against goods to which this subsection applies that are produced in the United States and to which the agreement applies.
 
 (7) A person is ineligible to receive a contract or subcontract made with amounts authorized under this chapter if a court or department, agency, or instrumentality of the Government decides the person intentionally—
 
@@ -144,7 +144,7 @@ Section 5302(6) of this title, referred to in subsec. (e)(1), probably means sec
 
 #### Assistance With Buy America Waiver Requests
 
-Pub. L. 110–432, div. B, title III, §301(c), Oct. 16, 2008, 122 Stat. 4946, provided that: “In implementing section 24405(a) of title 49, United States Code, the Federal Highway Administration shall, upon request by the Federal Railroad Administration, assist the Federal Railroad Administration in developing a process for posting on its website or distributing via email notices of waiver requests received pursuant to such subsectionand soliciting public comments on the intent to issue a waiver. The Federal Railroad Administration's development of such a process does not relieve the Federal Railroad Administration of the requirements under paragraph (4) of such subsection.”
+Pub. L. 110–432, div. B, title III, §301(c), Oct. 16, 2008, 122 Stat. 4946, provided that: “In implementing section 24405(a) of title 49, United States Code, the Federal Highway Administration shall, upon request by the Federal Railroad Administration, assist the Federal Railroad Administration in developing a process for posting on its website or distributing via email notices of waiver requests received pursuant to such subsection and soliciting public comments on the intent to issue a waiver. The Federal Railroad Administration's development of such a process does not relieve the Federal Railroad Administration of the requirements under paragraph (4) of such subsection.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(45”.</i>
 

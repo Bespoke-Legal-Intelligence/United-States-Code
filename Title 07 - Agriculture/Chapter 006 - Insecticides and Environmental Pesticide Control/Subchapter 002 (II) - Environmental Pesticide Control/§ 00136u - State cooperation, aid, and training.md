@@ -26,7 +26,7 @@ The Administrator shall, in cooperation with the Secretary of Agriculture, use t
 
 Subsec. (b). Pub. L. 95–396 authorized contracts with Indian tribal agencies.
 
-Subsec. (c). Pub. L. 95–396 substituted “shall” for “may”, substituted “use” for “utilize”, and “to inform and educate pesticide users about accepted uses and other regulations” for “for informing farmers of accepted uses and other regulations”.
+Subsec. (c). Pub. L. 95–396 substituted “shall” for “may”, substituted “use” for “utilize”, and “to informand educate pesticide users about accepted uses and other regulations” for “for informing farmers of accepted uses and other regulations”.
 
 #### Effective Date
 

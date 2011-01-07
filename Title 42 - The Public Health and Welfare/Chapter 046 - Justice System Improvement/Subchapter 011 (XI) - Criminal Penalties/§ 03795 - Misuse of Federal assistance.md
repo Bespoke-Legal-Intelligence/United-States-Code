@@ -4,15 +4,17 @@ Whoever embezzles, willfully misapplies, steals, or obtains by fraud or endeavor
 
 (Pub. L. 90–351, title I, §1101, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1219; amended Pub. L. 98–473, title II, §609E(a), Oct. 12, 1984, 98 Stat. 2097.)
 
+#### Codification
+
+Another section 1101 of Pub. L. 90–351, title VI, June 19, 1968, 82 Stat. 236, is classified as a note under section 532 of Title 28, Judiciary and Judicial Procedure.
+
 #### Prior Provisions
 
 A prior section 3795, Pub. L. 90–351, title I, §670, as added Pub. L. 91–644, title I, §12, Jan. 2, 1971, 84 Stat. 1889; amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 218, related to reports to Congress and President, prior to the general amendment of this chapter by Pub. L. 96–157. See section 3789e of this title.
 
-A prior section 1101 of Pub. L. 90–351, title VI, June 19, 1968, 82 Stat. 236, was classified as a note under section 532 of Title 28, Judiciary and Judicial Procedure.
-
 #### Amendments
 
-1984—Pub. L. 98–473 substituted “Office of Justice Programs, Bureau of Justice Assistance” for “Law Enforcement Assistance Administration”.
+<b>1984</b>—Pub. L. 98–473 substituted “Office of Justice Programs, Bureau of Justice Assistance” for “Law Enforcement Assistance Administration”.
 
 #### Effective Date of 1984 Amendment
 

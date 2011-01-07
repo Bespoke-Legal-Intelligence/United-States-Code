@@ -10,13 +10,13 @@ With respect to any undercover investigative operation of the United States Cust
 
 &emsp;&emsp;&emsp;(i) sections 1341 and 3324 of title 31,
 
-&emsp;&emsp;&emsp;(ii) sections 11(a) and 22 of title 41,
+&emsp;&emsp;&emsp;(ii) sections 6301(a) and (b)(1) to (3) and 6306 of title 41,
 
-&emsp;&emsp;&emsp;(iii) section 255 of title 41,
+&emsp;&emsp;&emsp;(iii) chapter 45 of title 41,
 
 &emsp;&emsp;&emsp;(iv) section 8141 of title 40, and
 
-&emsp;&emsp;&emsp;(v) section 254(a) of title 41, and
+&emsp;&emsp;&emsp;(v) section 3901 of title 41, and
 
 &emsp;&emsp;(B) to establish or to acquire proprietary corporations or business entities as part of the undercover operation, and to operate such corporations or business entities on a commercial basis, without regard to sections 9102 and 9103 of title 31;
 
@@ -24,7 +24,7 @@ With respect to any undercover investigative operation of the United States Cust
 
 &emsp;(3) the proceeds from the undercover operation may be used to offset necessary and reasonable expenses incurred in such operation without regard to the provisions of section 3302 of title 31;
 
-> only upon the written certification of the Commissioner of Customs (or, if designated by theCommissioner the Deputy or an Assistant Commissioner of Customs) that any action authorized by paragraph (1), (2), or (3) of this subsection is necessary for the conduct of such undercover operation.
+> only upon the written certification of the Commissioner of Customs (or, if designated by the Commissioner the Deputy or an Assistant Commissioner of Customs) that any action authorized by paragraph (1), (2), or (3) of this subsection is necessary for the conduct of such undercover operation.
 
 #### (b) Liquidation of corporations and business entities
 
@@ -78,15 +78,21 @@ For purposes of subsection (d) of this section—
 
 #### Codification
 
-“Section 8141 of title 40” substituted in subsec. (a)(1)(A)(iv) for “the third undesignated paragraph under the heading ‘Miscellaneous’ of the Act of March 3, 1877 (19 Stat. 370; 40 U.S.C. 34)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (a)(1)(A)(ii), “sections 6301(a) and (b)(1) to (3) and 6306 of title 41,” substituted for “sections 3732(a) and 3741 of the Revised Statutes of the United States (41 U.S.C. 11(a) and 22),” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (a)(1)(A)(iii), “chapter 45 of title 41,” substituted for “section 305 of the Act of June 30, 1949 (63 Stat. 396; 41 U.S.C. 255),” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (a)(1)(A)(iv), “Section 8141 of title 40” substituted for “the third undesignated paragraph under the heading ‘Miscellaneous’ of the Act of March 3, 1877 (19 Stat. 370; 40 U.S.C. 34)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works.
+
+In subsec. (a)(1)(A)(v), “section 3901 of title 41, and” substituted for “section 304(a) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254(a)), and” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-1996—Subsec. (a)(1)(A)(v). Pub. L. 104–201 struck out “and (c)” after “section 254(a)”.
+<b>1996</b>—Subsec. (a)(1)(A)(v). Pub. L. 104–201 struck out “and (c)” after “section 254(a)”.
 
 Subsec. (b). Pub. L. 104–316 struck out “and the Comptroller General” after “the Secretary of the Treasury”.
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 

@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(B) the reinsuring of risks,
 
-> &emsp;by an insurer, including all acts necessary or incidental to such writing or reinsuring and the activities of persons who act as, or are, officers, directors, agents, or employees of insurers or who are other persons authorized to act on behalf of such persons;
+> &emsp;by an insurer, including all acts necessary or incidental to such writing or reinsuring andthe activities of persons who act as, or are, officers, directors, agents, or employees of insurers or who are other persons authorized to act on behalf of such persons;
 
 &emsp;(2) the term “insurer” means any entity the business activity of which is the writing of insurance or the reinsuring of risks, and includes any person who acts as, or is, an officer, director, agent, or employee of that business;
 

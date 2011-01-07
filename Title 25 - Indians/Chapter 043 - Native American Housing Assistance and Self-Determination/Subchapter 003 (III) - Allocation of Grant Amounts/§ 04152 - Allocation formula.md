@@ -90,11 +90,11 @@ Subchapter V of this chapter, referred to in subsec. (c)(2), was in the original
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–411, §301(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
+<b>2008</b>—Subsec. (a). Pub. L. 110–411, §301(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Subsec. (b)(1). Pub. L. 110–411, §301(2), added par. (1) and struck out former par. (1) which read as follows: “The number of low-income housing dwelling units owned or operated at the time pursuant to a contract between an Indian housing authority for the tribe and the Secretary.”
 
-2000—Subsec. (d)(1). Pub. L. 106–568, §1003(g)(1), and Pub. L. 106–569, §503(f)(1), which directed identical amendment of par. (1) by substituting subpar. (A) designation, heading, and “Except with respect to an Indian tribe described in subparagraph (B), the formula” for “The formula,”, were executed by making the substitution for “The formula” to reflect the probable intent of Congress.
+<b>2000</b>—Subsec. (d)(1). Pub. L. 106–568, §1003(g)(1), and Pub. L. 106–569, §503(f)(1), which directed identical amendment of par. (1) by substituting subpar. (A) designation, heading, and “Except with respect to an Indian tribe described in subparagraph (B), the formula” for “The formula,”, were executed by making the substitution for “The formula” to reflect the probable intent of Congress.
 
 Subsec. (d)(1)(B). Pub. L. 106–568, §1003(g)(2), and Pub. L. 106–569, §503(f)(2), amended par. (1) identically, adding subpar. (B).
 

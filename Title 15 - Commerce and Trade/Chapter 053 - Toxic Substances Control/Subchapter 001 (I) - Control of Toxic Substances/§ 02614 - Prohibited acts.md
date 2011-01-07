@@ -2,7 +2,7 @@
 
 It shall be unlawful for any person to—
 
-&emsp;(1) fail or refuse to comply with (A) any rule promulgated or order issued under section 2603 of this title, (B) any requirement prescribed bysection 2604 or 2605 of this title, (C) any rule promulgated or order issued under section 2604 or 2605 of this title, or (D) any requirement of subchapter II of this chapter or any rule promulgated or order issued under subchapter II of this chapter;
+&emsp;(1) fail or refuse to comply with (A) any rule promulgated or order issued under section 2603 of this title, (B) any requirement prescribed by section 2604 or 2605 of this title, (C) any rule promulgated or order issued under section 2604 or 2605 of this title, or (D) any requirement of subchapter II of this chapter or any rule promulgated or order issued under subchapter II of this chapter;
 
 &emsp;(2) use for commercial purposes a chemical substance or mixture which such person knew or had reason to know was manufactured, processed, or distributed in commerce in violation of section 2604 or 2605 of this title, a rule or order under section 2604 or 2605 of this title, or an order issued in action brought under section 2604 or 2606 of this title;
 
@@ -14,5 +14,5 @@ It shall be unlawful for any person to—
 
 #### Amendments
 
-1986—Par. (1)(D). Pub. L. 99–519 added cl. (D).
+<b>1986</b>—Par. (1)(D). Pub. L. 99–519 added cl. (D).
 

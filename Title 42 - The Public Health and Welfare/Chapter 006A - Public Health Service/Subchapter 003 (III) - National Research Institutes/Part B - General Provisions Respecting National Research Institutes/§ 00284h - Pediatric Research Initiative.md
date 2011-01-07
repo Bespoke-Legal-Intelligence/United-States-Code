@@ -36,7 +36,7 @@ Another section 409D of act July 1, 1944, was renumbered section 409H and is cla
 
 #### Amendments
 
-2007—Subsec. (c)(1). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
+<b>2007</b>—Subsec. (c)(1). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
 
 Subsecs. (d), (e). Pub. L. 109–482 redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated $50,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005.”
 

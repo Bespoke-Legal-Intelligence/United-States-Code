@@ -66,7 +66,7 @@ The Supreme Court Grounds Transfer Act of 2005, referred to in subsec. (b)(2), i
 
 #### Amendments
 
-2006—Subsec. (b)(2). Pub. L. 109–214 inserted “and that parcel transferred under the Supreme Court Grounds Transfer Act of 2005” before period at end.
+<b>2006</b>—Subsec. (b)(2). Pub. L. 109–214 inserted “and that parcel transferred under the Supreme Court Grounds Transfer Act of 2005” before period at end.
 
 #### Effective Date of 2006 Amendment
 

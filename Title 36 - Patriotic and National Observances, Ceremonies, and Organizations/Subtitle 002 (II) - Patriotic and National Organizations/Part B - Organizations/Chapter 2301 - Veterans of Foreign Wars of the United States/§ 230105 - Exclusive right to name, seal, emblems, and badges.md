@@ -14,7 +14,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-230105D36:114 (words between 4th and 5th semicolons).DMay 28, 1936, ch. 471, §§4 (words between 4th and 5th semicolons), 7, 49 Stat. 1391.
+230105
+
+36:114 (words between 4th and 5th semicolons).
+
+May 28, 1936, ch. 471, §§4 (words between 4th and 5th semicolons), 7, 49 Stat. 1391.
 
 &nbsp;
 

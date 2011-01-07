@@ -36,7 +36,7 @@ In this chapter:
 
 #### Amendments
 
-2006—Par. (1). Pub. L. 109–363, §302(h)(3)(A), added par. (1) and struck out former par. (1). Text read as follows: “The term ‘Account’ means the Neotropical Migratory Bird Conservation Account established by section 6108(a) of this title.”
+<b>2006</b>—Par. (1). Pub. L. 109–363, §302(h)(3)(A), added par. (1) and struck out former par. (1). Text read as follows: “The term ‘Account’ means the Neotropical Migratory Bird Conservation Account established by section 6108(a) of this title.”
 
 Pars. (2) to (5). Pub. L. 109–363, §302(c), added pars. (2) and (4) and redesignated former pars. (2) and (3) as (3) and (5), respectively.
 

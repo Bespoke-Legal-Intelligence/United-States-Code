@@ -108,7 +108,7 @@ Encryption Research.—
 
 Definitions.—For purposes of this subsection—
 
-&emsp;&emsp;(A) the term “encryption research” means activities necessary to identify and analyzeflaws and vulnerabilities of encryption technologies applied to copyrighted works, if these activities are conducted to advance the state of knowledge in the field of encryption technology or to assist in the development of encryption products; and
+&emsp;&emsp;(A) the term “encryption research” means activities necessary to identify and analyze flaws and vulnerabilities of encryption technologies applied to copyrighted works, if these activities are conducted to advance the state of knowledge in the field of encryption technology or to assist in the development of encryption products; and
 
 &emsp;&emsp;(B) the term “encryption technology” means the scrambling and descrambling of information using mathematical formulas or algorithms.
 
@@ -180,7 +180,7 @@ Circumvention permitted.—Notwithstanding the provisions of subsection (a)(1)(A
 
 &emsp;(2)
 
-Inapplicability to certain technological measures.—This subsection does not apply to a technological measure, or a work it protects, that does not collect or disseminatepersonally identifying information and that is disclosed to a user as not having or using such capability.
+Inapplicability to certain technological measures.—This subsection does not apply to a technological measure, or a work it protects, that does not collect or disseminate personally identifying information and that is disclosed to a user as not having or using such capability.
 
 (j)
 
@@ -188,7 +188,7 @@ Security Testing.—
 
 &emsp;(1)
 
-Definition.—For purposes of this subsection, the term “security testing” means accessing a computer, computer system, or computer network, solely for the purpose of good faith testing, investigating, or correcting, a security flaw or vulnerability, with the authorization of the owner or operator of such computer, computer system, or computer network.
+Definition.—For purposes of this subsection, the term “security testing” meansaccessing a computer, computer system, or computer network, solely for the purpose of good faith testing, investigating, or correcting, a security flaw or vulnerability, with the authorization of the owner or operator of such computer, computer system, or computer network.
 
 &emsp;(2)
 
@@ -238,7 +238,7 @@ Certain analog devices.—
 
 Certain encoding restrictions.—No person shall apply the automatic gain control copy control technology or colorstripe copy control technology to prevent or limit consumer copying except such copying—
 
-&emsp;&emsp;(A) of a single transmission, or specified group of transmissions, of live events or ofaudiovisual works for which a member of the public has exercised choice in selecting the transmissions, including the content of the transmissions or the time of receipt of such transmissions, or both, and as to which such member is charged a separate fee for each such transmission or specified group of transmissions;
+&emsp;&emsp;(A) of a single transmission, or specified group of transmissions, of live events or of audiovisual works for which a member of the public has exercised choice in selecting the transmissions, including the content of the transmissions or the time of receipt of such transmissions, or both, and as to which such member is charged a separate fee for eachsuch transmission or specified group of transmissions;
 
 &emsp;&emsp;(B) from a copy of a transmission of a live event or an audiovisual work if such transmission is provided by a channel or service where payment is made by a member of the public for such channel or service in the form of a subscription fee that entitles the member of the public to receive all of the programming contained in such channel or service;
 
@@ -290,7 +290,7 @@ The Computer Fraud and Abuse Act of 1986, referred to in subsecs. (g)(2)(D) and 
 
 #### Amendments
 
-1999—Subsec. (a)(1)(C). Pub. L. 106–113 struck out “on the record” after “determination in a rulemaking proceeding” in first sentence.
+<b>1999</b>—Subsec. (a)(1)(C). Pub. L. 106–113 struck out “on the record” after “determination in a rulemaking proceeding” in first sentence.
 
 <i><sup>1</sup></i><i> So in original. Probably should be subsection “(a)(2),”.</i>
 

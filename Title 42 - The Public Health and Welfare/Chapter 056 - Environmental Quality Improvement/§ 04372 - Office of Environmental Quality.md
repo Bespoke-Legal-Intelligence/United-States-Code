@@ -10,7 +10,7 @@ The compensation of the Deputy Director shall be fixed by the President at a rat
 
 #### (c) Employment of personnel, experts, and consultants; compensation
 
-The Director is authorized to employ such officers and employees (including experts and consultants) as may be necessary to enable the Office to carry out its functions under this chapter and Public Law 91–190, except that he may employ no more than ten specialists and other experts without regard to the provisions of title 5, governing appointments in the competitive service, and pay such specialists and experts without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, but no such specialist or expert shall be paid at a rate in excess of the maximum rate for GS–18 of the General Schedule under section 5332 of title 5.
+The Director is authorized to employ such officers and employees (including experts and consultants) as may be necessary to enable the Office to carry out its functions under this chapter and Public Law 91–190, except that he may employ no more than ten specialists and other experts without regard to the provisions of title 5, governing appointments in the competitive service, and pay such specialists and experts without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates,but no such specialist or expert shall be paid at a rate in excess of the maximum rate for GS–18 of the General Schedule under section 5332 of title 5.
 
 #### (d) Duties and functions of Director
 
@@ -32,7 +32,7 @@ In carrying out his functions the Director shall assist and advise the President
 
 #### (e) Authority of Director to contract
 
-The Director is authorized to contract with public or private agencies, institutions, and organizations and with individuals without regard to section 3324(a) and (b) of title 31 and section 5 of title 41 in carrying out his functions.
+The Director is authorized to contract with public or private agencies, institutions, and organizations and with individuals without regard to section 3324(a) and (b) of title 31 and section 6101 of title 41 in carrying out his functions.
 
 (Pub. L. 91–224, title II, §203, Apr. 3, 1970, 84 Stat. 114; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085.)
 
@@ -40,13 +40,11 @@ The Director is authorized to contract with public or private agencies, institut
 
 Public Law 91–190, referred to in subsecs. (a), (c), and (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, known as the National Environmental Policy Act of 1969, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
-The provisions of title 5, governing appointments in the competitive service, referred to in subsec. (c), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 The General Schedule, referred to in subsec. (c), is set out under section 5332 of Title 5.
 
 #### Codification
 
-In subsec. (e), “section 3324(a) and (b) of title 31” substituted for reference to section 3648 of the Revised Statutes (31 U.S.C. 529) on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (e), “section 3324(a) and (b) of title 31 and section 6101 of title 41” substituted for “sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529; 41 U.S.C. 5)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Transfer of Functions
 

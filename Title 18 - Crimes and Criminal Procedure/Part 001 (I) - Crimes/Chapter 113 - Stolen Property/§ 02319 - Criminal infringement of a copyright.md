@@ -56,13 +56,13 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (e)(1), are set 
 
 #### Amendments
 
-2008—Subsecs. (b)(2), (c)(2). Pub. L. 110–403, §208(1), (2), inserted “is a felony and” after “the offense” and substituted “subsection (a)” for “paragraph (1)”.
+<b>2008</b>—Subsecs. (b)(2), (c)(2). Pub. L. 110–403, §208(1), (2), inserted “is a felony and” after “the offense” and substituted “subsection (a)” for “paragraph (1)”.
 
 Subsec. (d)(3). Pub. L. 110–403, §208(3), inserted “is a felony and” after “the offense” and “under subsection (a)” before the semicolon.
 
 Subsec. (d)(4). Pub. L. 110–403, §208(4), inserted “is a felony and” after “the offense”.
 
-2005—Subsec. (a). Pub. L. 109–9, §103(b)(1), substituted “Any person who” for “Whoever” and “, (c), and (d)” for “and (c) of this section”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–9, §103(b)(1), substituted “Any person who” for “Whoever” and “, (c), and (d)” for “and (c) of this section”.
 
 Subsec. (b). Pub. L. 109–9, §103(b)(2), substituted “section 506(a)(1)(A)” for “section 506(a)(1)” in introductory provisions.
 
@@ -72,9 +72,9 @@ Subsecs. (d), (e). Pub. L. 109–9, §103(b)(4), (5), added subsec. (d) and rede
 
 Subsec. (f). Pub. L. 109–9, §103(b)(4), (6), redesignated subsec. (e) as (f) and added pars. (3) and (4).
 
-2002—Subsec. (e)(2). Pub. L. 107–273 substituted “107 through 122” for “107 through 120”.
+<b>2002</b>—Subsec. (e)(2). Pub. L. 107–273 substituted “107 through 122” for “107 through 120”.
 
-1997—Subsec. (a). Pub. L. 105–147, §2(d)(1), substituted “subsections (b) and (c)” for “subsection (b)”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–147, §2(d)(1), substituted “subsections (b) and (c)” for “subsection (b)”.
 
 Subsec. (b). Pub. L. 105–147, §2(d)(2)(A), substituted “section 506(a)(1) of title 17” for “subsection (a) of this section” in introductory provisions.
 
@@ -84,7 +84,7 @@ Pub. L. 105–80, substituted “at least 10 copies” for “at last 10 copies�
 
 Subsecs. (c) to (e). Pub. L. 105–147, §2(d)(3), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
-1992—Subsec. (b). Pub. L. 102–561, §1, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Any person who commits an offense under subsection (a) of this section—
+<b>1992</b>—Subsec. (b). Pub. L. 102–561, §1, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Any person who commits an offense under subsection (a) of this section—
 
 &emsp;“(1) shall be fined not more than $250,000 or imprisoned for not more than five years, or both, if the offense—
 

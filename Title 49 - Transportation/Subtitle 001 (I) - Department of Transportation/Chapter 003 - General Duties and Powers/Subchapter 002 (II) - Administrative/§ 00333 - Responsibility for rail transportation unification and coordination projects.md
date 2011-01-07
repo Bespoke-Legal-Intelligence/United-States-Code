@@ -96,7 +96,7 @@ Section 203 of the Regional Rail Reorganization Act of 1973, referred to in subs
 
 #### Amendments
 
-1995—Subsec. (c)(2). Pub. L. 104–88, §308(b)(1), substituted “11904” for “11910(a)(1)”.
+<b>1995</b>—Subsec. (c)(2). Pub. L. 104–88, §308(b)(1), substituted “11904” for “11910(a)(1)”.
 
 Subsec. (e). Pub. L. 104–88, §308(b)(2), substituted “11323(a)” for “11343(a)” and “11324(b)” for “11344(b)”.
 

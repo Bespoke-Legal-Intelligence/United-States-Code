@@ -16,7 +16,7 @@ Subject to the conditions described in subsection (b)(1) of this section, an Ind
 
 &emsp;&emsp;Until the Secretary removes a lien from an interest in land under paragraph (1)—
 
-&emsp;&emsp;&emsp;(i) any lease, resource sale contract, right-of-way, or other document evidencing a transaction affecting the interest shall contain a clause providing that all revenue derived from the interest shall be paid to the Secretary; and
+&emsp;&emsp;&emsp;(i) any lease, resource sale contract, right-of-way, or other document evidencing a transaction affecting the interestshall contain a clause providing that all revenue derived from the interest shall be paid to the Secretary; and
 
 &emsp;&emsp;&emsp;(ii) any revenue derived from any interest acquired by the Secretary in accordance with section 2212 of this title shall be deposited in the fund created under section 2215 of this title.
 
@@ -60,7 +60,7 @@ Section 2215 of this title, referred to in the original in subsec. (b)(4), proba
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–374 added subsec. (b) and struck out heading and text of former subsec. (b) which related to conditions applicable to the administration by Indian tribes of acquired fractional interests in trust or restricted lands.
+<b>2004</b>—Subsec. (b). Pub. L. 108–374 added subsec. (b) and struck out heading and text of former subsec. (b) which related to conditions applicable to the administration by Indian tribes of acquired fractional interests in trust or restricted lands.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

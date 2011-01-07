@@ -1,6 +1,6 @@
 ### §8122. Authority to procure and dispose of property and to negotiate for common services
 
-(a)(1) The Secretary may lease for a term not exceeding three years lands or buildings, or parts or parcels thereof, belonging to the United States and under the Secretary's control. Any lease made pursuant to this subsection to any public or nonprofit organization may be made without regard to the provisions of section 3709 of the Revised Statutes (41 U.S.C. 5). Notwithstanding section 1302 of title 40, or any other provision of law, a lease made pursuant to this subsection to any public or nonprofit organization may provide for the maintenance, protection, or restoration, by the lessee, of the property leased, as a part or all of the consideration for the lease. Prior to the execution of any such lease, the Secretary shall give appropriate public notice of the Secretary's intention to do so in the newspaper of the community in which the lands or buildings to be leased are located. The proceeds from such leases, less expenses for maintenance, operation, and repair of buildings leased for living quarters, shall be covered into the Treasury of the United States as miscellaneous receipts.
+(a)(1) The Secretary may lease for a term not exceeding three years lands or buildings, or parts or parcels thereof, belonging to the United States and under the Secretary's control. Any lease made pursuant to this subsection to any public or nonprofit organization may be made without regard to the provisions of section 6101(b) to (d) of title 41. Notwithstanding section 1302 of title 40, or any other provision of law, a lease made pursuant to this subsection to any public or nonprofit organization may provide for the maintenance, protection, or restoration, by the lessee, of the property leased, as a part or all of the consideration for the lease. Prior to the execution of any such lease, the Secretary shall give appropriate public notice of the Secretary's intention to do so in the newspaper of the community in which the lands or buildings to be leased are located. The proceeds from such leases, less expenses for maintenance, operation, and repair of buildings leased for living quarters, shall be covered into the Treasury of the United States as miscellaneous receipts.
 
 (2) Except as provided in paragraph (3), the Secretary may not during any fiscal year transfer to any other department or agency of the United States or to any other entity real property that is owned by the United States and administered by the Secretary unless the proposed transfer is described in the budget submitted to Congress pursuant to section 1105 of title 31 for that fiscal year.
 
@@ -10,7 +10,7 @@
 
 &emsp;(i) the Secretary has determined that the State has provided sufficient assurance that it has the resources (including any resources which are reasonably likely to be available to the State under subchapter III of chapter 81 of this title and section 1741 of this title) necessary to construct and operate a State home nursing or domiciliary care facility; and
 
-&emsp;(ii) the transfer is made subject to the conditions (I) that the property be used by the State for a nursing-home or domiciliary care facility in accordance with the conditions and limitations applicable to State home facilities constructed with assistance under subchapterIII of chapter 81 of this title, and (II) that, if the property is used at any time for any other purpose, all right, title, and interest in and to the property shall revert to the United States.
+&emsp;(ii) the transfer is made subject to the conditions (I) that the property be used by the State for a nursing-home or domiciliary care facility in accordance with the conditions and limitations applicable to State home facilities constructed with assistance under subchapter III of chapter 81 of this title, and (II) that, if the property is used at any time for any other purpose, all right, title, and interest in and to the property shall revert to the United States.
 
 (C) A transfer of real property may not be made under this paragraph until—
 
@@ -24,7 +24,7 @@
 
 (b) The Secretary may, for the purpose of extending benefits to veterans and dependents, and to the extent the Secretary deems necessary, procure the necessary space for administrative purposes by lease, purchase, or construction of buildings, or by condemnation or declaration of taking, pursuant to law.
 
-(c) The Secretary may procure laundry services, and other common services as specifically approved by the Secretary from nonprofit, tax-exempt educational, medical or community institutions, without regard to the requirements of section 302(c) <sup>1</sup> of the Federal Property and Administrative Services Act of 1949, as amended (41 U.S.C. 252(c)), whenever such services are not reasonably available from private commercial sources. Notwithstanding this exclusion, the provisions of section 304 of that Act (41 U.S.C. 254) shall apply to procurement authorized by this subsection.
+(c) The Secretary may procure laundry services, and other common services as specifically approved by the Secretary from nonprofit, tax-exempt educational, medical or community institutions, without regard to the requirements of section 302(c) <sup>1</sup> of the Federal Property and Administrative Services Act of 1949, as amended, whenever such services are not reasonably available from private commercial sources. Notwithstanding this exclusion, the provisions of sections 3901 and 3905 of title 41 shall apply to procurement authorized by this subsection.
 
 (d)(1) Real property under the jurisdiction of the Secretary may not be declared excess by the Secretary and disposed of by the General Services Administration or any other entity of the Federal Government unless the Secretary determines that the property is no longer needed by the Department in carrying out its functions and is not suitable for use for the provision of services to homeless veterans by the Department or by another entity under an enhanced-use lease of such property under section 8162 of this title.
 
@@ -38,15 +38,19 @@
 
 &emsp;(D) after such 30-day period has elapsed, notifies the congressional veterans’ affairs committees of the Secretary's intention to dispose of the property and waits for 60 days to elapse from the date of that notice.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1253, §5012; amended Pub. L. 89–785, title II, §202(a), (b), Nov. 7, 1966, 80 Stat. 1373; Pub. L. 93–82, title III, §302(2), Aug. 2, 1973, 87 Stat. 195; Pub. L. 94–581, title II, §210(e)(7), Oct. 21, 1976, 90 Stat. 2865; renumbered §5022 and amended Pub. L. 96–22, title III, §301(b), June 13, 1979, 93 Stat. 61; Pub. L. 96–330, title IV, §403(a), Aug. 26, 1980, 94 Stat. 1052; Pub. L. 97–295, §4(91), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–160, title IV, §401, Nov. 21, 1983, 97 Stat. 1004; Pub. L. 100–322, title IV, §421(a)(1), May 20, 1988, 102 Stat. 552; Pub. L. 100–687, div. B, title XV, §1505, Nov. 18, 1988, 102 Stat. 4135; renumbered §8122 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(f)(5), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §§4(a)(1), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 107–95, §10(a), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–217, §3(j)(3), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–422, title IV, §411(e)(1), (2), Nov. 30, 2004, 118 Stat. 2389, 2390.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1253, §5012; amended Pub. L. 89–785, title II, §202(a), (b), Nov.7, 1966, 80 Stat. 1373; Pub. L. 93–82, title III, §302(2), Aug. 2, 1973, 87 Stat. 195; Pub. L. 94–581, title II, §210(e)(7), Oct. 21, 1976, 90 Stat. 2865; renumbered §5022 and amended Pub. L. 96–22, title III, §301(b), June 13, 1979, 93 Stat. 61; Pub. L. 96–330, title IV, §403(a), Aug. 26, 1980, 94 Stat. 1052; Pub. L. 97–295, §4(91), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–160, title IV, §401, Nov. 21, 1983, 97 Stat. 1004; Pub. L. 100–322, title IV, §421(a)(1), May 20, 1988, 102 Stat. 552; Pub. L. 100–687, div. B, title XV, §1505, Nov. 18, 1988, 102 Stat. 4135; renumbered §8122 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(f)(5), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §§4(a)(1), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 107–95, §10(a), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–217, §3(j)(3), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–422, title IV, §411(e)(1), (2), Nov. 30, 2004, 118 Stat. 2389, 2390; Pub. L. 111–350, §5(j)(6), Jan. 4, 2011, 124 Stat. 3850.)
 
 #### References in Text
 
-Subsection (c) of section 302 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252(c)), referred to in subsec. (c), was struck out by section 2714(a)(1)(B) of Pub. L. 98–369 and the provisions formerly contained in subsec. (e) were restated in subsec. (c)(1) of section 302 of the 1949 Act.
+Section 302(c) of the Federal Property and Administrative Services Act of 1949, referred to in subsec. (c), was section 302(c) of act June 30, 1949, ch. 288, 63 Stat. 393, which was classified to section 252(c) of former Title 41, Public Contracts, and was struck out by Pub. L. 98–369, div. B, title VII, §2714(a)(1)(B), July 18, 1984, 98 Stat. 1184.
 
 #### Amendments
 
-2004—Subsec. (a)(2). Pub. L. 108–422, §411(e)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+<b>2011</b>—Subsec. (a)(1). Pub. L. 111–350, §5(j)(6)(A), substituted “section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes (41 U.S.C. 5)”.
+
+Subsec. (c). Pub. L. 111–350, §5(j)(6)(B), struck out “(41 U.S.C. 252(c))” after “1949, as amended” and substituted “sections 3901 and 3905 of title 41” for “section 304 of that Act (41 U.S.C. 254)”.
+
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–422, §411(e)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
 “(2)(A) Except as provided in paragraph (3) of this subsection, the Secretary may not during any fiscal year transfer to another Federal agency or to a State (or any political subdivision of a State) any interest in real property described in subparagraph (B) of this paragraph unless (i) the transfer (as proposed) was described in the budget for that fiscal year submitted to Congress pursuant to section 1105 of title 31, and (ii) the Department receives compensation equal to the fair market value of the property.
 
@@ -56,11 +60,11 @@ Subsection (c) of section 302 of the Federal Property and Administrative Service
 
 Subsec. (d). Pub. L. 108–422, §411(e)(2), designated existing provisions as par. (1) and added par. (2).
 
-2002—Subsec. (a)(1). Pub. L. 107–217 substituted “section 1302 of title 40” for “section 321 of the Act of June 30, 1932 (40 U.S.C. 303b)”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–217 substituted “section 1302 of title 40” for “section 321 of the Act of June 30, 1932 (40 U.S.C. 303b)”.
 
-2001—Subsec. (d). Pub. L. 107–95 inserted before period at end “and is not suitable for use for the provision of services to homeless veterans by the Department or by another entity under an enhanced-use lease of such property under section 8162 of this title”.
+<b>2001</b>—Subsec. (d). Pub. L. 107–95 inserted before period at end “and is not suitable for use for the provision of services to homeless veterans by the Department or by another entity under an enhanced-use lease of such property under section 8162 of this title”.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 5022 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 5022 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1741” for “641” in par. (3)(B)(i).
 
@@ -80,7 +84,7 @@ Subsec. (d). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” fo
 
 Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-1988—Subsec. (a)(2). Pub. L. 100–687, §1505(1), substituted “Except as provided in paragraph (3) of this subsection, the” for “The” at beginning.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–687, §1505(1), substituted “Except as provided in paragraph (3) of this subsection, the” for “The” at beginning.
 
 Pub. L. 100–322 amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
@@ -92,27 +96,27 @@ Pub. L. 100–322 amended par. (2) generally. Prior to amendment, par. (2) read 
 
 Subsec. (a)(3). Pub. L. 100–687, §1505(2), added par. (3).
 
-1983—Subsec. (a)(2)(A). Pub. L. 98–160, §401(1), substituted “180 days” for “30 days”.
+<b>1983</b>—Subsec. (a)(2)(A). Pub. L. 98–160, §401(1), substituted “180 days” for “30 days”.
 
 Subsec. (d). Pub. L. 98–160, §401(2), added subsec. (d).
 
-1982—Subsec. (a). Pub. L. 97–295, §4(91)(A), substituted “of” for “entitled ‘An Act making appropriations for the legislative branch of the Government for the fiscal year ending June 30, 1933, and for other purposes,’ approved” after “section 321 of the Act”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–295, §4(91)(A), substituted “of” for “entitled ‘An Act making appropriations for the legislative branch of the Government for the fiscal year ending June 30, 1933, and for other purposes,’ approved” after “section 321 of the Act”.
 
 Subsec. (c). Pub. L. 97–295, §4(91)(B), inserted “(41 U.S.C. 254)” after “section 304 of that Act”.
 
-1980—Subsec. (a). Pub. L. 96–330 designated existing provisions as par. (1) and added par. (2).
+<b>1980</b>—Subsec. (a). Pub. L. 96–330 designated existing provisions as par. (1) and added par. (2).
 
-1979—Subsec. (b). Pub. L. 96–22 substituted “necessary space for administrative purposes by lease” for “necessary space for administrative, clinical, medical, and outpatient treatment purposes by lease”.
+<b>1979</b>—Subsec. (b). Pub. L. 96–22 substituted “necessary space for administrative purposes by lease” for “necessary space for administrative, clinical, medical, and outpatient treatment purposes by lease”.
 
-1976—Subsec. (a). Pub. L. 94–581, §210(e)(7)(A), substituted “under the Administrator's control” for “under his control” and “notice of the Administrator's intention” for “notice of his intention”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–581, §210(e)(7)(A), substituted “under the Administrator's control” for “under his control” and “notice of the Administrator's intention” for “notice of his intention”.
 
 Subsec. (b). Pub. L. 94–581, §210(e)(7)(B), substituted “the Administrator” for “he”.
 
 Subsec. (c). Pub. L. 94–581, §210(e)(7)(C), substituted “the Administrator” for “him”.
 
-1973—Subsec. (a). Pub. L. 93–82 inserted provisions that leases under this subsection may be made without regard to section 5 of title 41, that notwithstanding section 303b of title 40 or any other provision of law, such leases may provide for the maintenance, protection, or restoration, by the lessee, of the property leased, as a part or all of the consideration for the lease and that prior to the execution of the leases, the Administrator shall give notice of his intention in the local newspaper.
+<b>1973</b>—Subsec. (a). Pub. L. 93–82 inserted provisions that leases under this subsection may be made without regard to section 5 of title 41, that notwithstanding section 303b of title 40 or any other provision of law, such leases may provide for the maintenance, protection, or restoration, by the lessee, of the property leased, as a part or all of the consideration for the lease and thatprior to the execution of the leases, the Administrator shall give notice of his intention in the local newspaper.
 
-1966—Pub. L. 89–785 inserted “and to negotiate for common services” in section catchline and added subsec. (c).
+<b>1966</b>—Pub. L. 89–785 inserted “and to negotiate for common services” in section catchline and added subsec. (c).
 
 #### Effective Date of 1979 Amendment
 

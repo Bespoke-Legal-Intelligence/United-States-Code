@@ -112,7 +112,7 @@ In subsection (a)(3), the words “military department” are substituted for �
 
 #### Amendments
 
-1994—Subsec. (d). Pub. L. 103–305 added subsec. (d).
+<b>1994</b>—Subsec. (d). Pub. L. 103–305 added subsec. (d).
 
 #### Assessment of Wake Turbulence Research and Development Program
 
@@ -190,7 +190,7 @@ Limitation on Grant Amounts.—No eligible project may receive more than $15,000
 
 “(e)
 
-Funding.—The Secretary shall use amounts appropriated under section 48101(a) of title 49, UnitedStates Code, for fiscal years 2001 through 2003 to carry out the program.
+Funding.—The Secretary shall use amounts appropriated under section 48101(a) of title 49, United States Code, for fiscal years 2001 through 2003 to carry out the program.
 
 “(f)
 

@@ -16,13 +16,13 @@
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–106 added subsec. (e).
+<b>1996</b>—Subsec. (e). Pub. L. 104–106 added subsec. (e).
 
-1994—Subsec. (a). Pub. L. 103–337 struck out “in the Army, Navy, Air Force, or Marine Corps” after “A regular warrant officer”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337 struck out “in the Army, Navy, Air Force, or Marine Corps” after “A regular warrant officer”.
 
-1992—Subsec. (d)(2). Pub. L. 102–484 substituted “board” for “Board” in two places in first sentence.
+<b>1992</b>—Subsec. (d)(2). Pub. L. 102–484 substituted “board” for “Board” in two places in first sentence.
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective on the first day of the fourth month beginning after Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as a note under section 571 of this title.
+Amendment by Pub. L. 103–337 effective on the first day of the fourth month beginning after Oct. 5, 1994, seesection 541(h) of Pub. L. 103–337, set out as a note under section 571 of this title.
 

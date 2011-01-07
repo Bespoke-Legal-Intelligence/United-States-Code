@@ -12,15 +12,15 @@ The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 5056 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5056 of this title as this section.
 
 Pub. L. 102–83 substituted “The Secretary” for “The Administrator”.
 
-1982—Pub. L. 97–295, §4(95)(A), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+<b>1982</b>—Pub. L. 97–295, §4(95)(A), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
 Pub. L. 97–295, §4(93), inserted “(42 U.S.C. 300t et seq.)” after “part F of title XVI of the Public Health Service Act”.
 
-1976—Pub. L. 94–581 substituted “health services development activities carried out under the National Health Planning and Resources Development Act of 1974” for “programs carried out under the Heart Disease, Cancer, and Stroke Amendments of 1965” in section catchline and “part F of title XVI” for “title IX” in text.
+<b>1976</b>—Pub. L. 94–581 substituted “health services development activities carried out under the National Health Planning and Resources Development Act of 1974” for “programs carried out under the Heart Disease, Cancer, and Stroke Amendments of 1965” in section catchline and “part F of title XVI” for “title IX” in text.
 
 #### Effective Date of 1976 Amendment
 

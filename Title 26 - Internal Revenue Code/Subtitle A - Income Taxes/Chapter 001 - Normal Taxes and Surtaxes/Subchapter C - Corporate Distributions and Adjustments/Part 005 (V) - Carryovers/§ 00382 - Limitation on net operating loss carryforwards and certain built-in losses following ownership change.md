@@ -64,7 +64,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) any net operating loss carryforward of the old loss corporation to the taxable year ending with the ownership change or in which the change date occurs, and
 
-&emsp;&emsp;(B) the net operating loss of the old loss corporation for the taxable year in which the ownership change occurs to the extent such loss is allocable to the period in such year on or before the change date.
+&emsp;&emsp;(B) the net operating loss of the old loss corporation for the taxable year in whichthe ownership change occurs to the extent such loss is allocable to the period in such year on or before the change date.
 
 > &emsp;Except as provided in subsection (h)(5) and in regulations, the net operating loss shall, for purposes of subparagraph (B), be allocated ratably to each day in the year.
 
@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The long-term tax-exempt rate shall be the highest of the adjusted Federal long-termrates in effect for any month in the 3-calendar-month period ending with the calendar month in which the change date occurs.
+&emsp;The long-term tax-exempt rate shall be the highest of the adjusted Federal long-term rates in effect for any month in the 3-calendar-month period ending with the calendar month in which the change date occurs.
 
 #### (2) Adjusted Federal long-term rate
 
@@ -338,7 +338,7 @@ For purposes of this section—
 
 #### (3) Shorter period where all losses arise after 3-year period begins
 
-&emsp;The testing period shall not begin before the earlier of the 1st day of the 1st taxable year from which there is a carryforward of a loss or of an excess credit to the 1st post-change year or the taxable year in which the transaction being tested occurs. Except as provided in regulations, this paragraph shall not apply to any loss corporation which has a net unrealized built-in loss (determined after application of subsection (h)(3)(B)).
+&emsp;The testing period shall not begin before the earlier of the 1st day of the 1st taxable year from which there is a carryforward of a loss or of an excess credit to the 1st post-change year or the taxable year in which the transaction being tested occurs. Except as provided in regulations, this paragraph shall not apply to anyloss corporation which has a net unrealized built-in loss (determined after application of subsection (h)(3)(B)).
 
 #### (j) Change date
 
@@ -528,7 +528,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the old loss corporation is (immediately before such ownership change) under the jurisdiction of the court in a title 11 or similar case, and
 
-&emsp;&emsp;&emsp;(ii) the shareholders and creditors of the old loss corporation (determined immediately before such ownership change) own (after such ownership change and as a result of being shareholders or creditors immediately before such change) stock of the new loss corporation (or stock of a controlling corporation if also in bankruptcy) which meets the requirements of section 1504(a)(2) (determined by substituting “50 percent” for “80 percent” each place it appears).
+&emsp;&emsp;&emsp;(ii) the shareholders and creditors of the old loss corporation (determined immediately before such ownership change) own (after such ownership change and as a result of being shareholders or creditors immediately before such change) stock of thenew loss corporation (or stock of a controlling corporation if also in bankruptcy) which meets the requirements of section 1504(a)(2) (determined by substituting “50 percent” for “80 percent” each place it appears).
 
 #### (B) Reduction for interest payments to creditors becoming shareholders
 
@@ -636,7 +636,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### (A) In general
 
-&emsp;&emsp;Paragraph (1) shall not apply in the case of any ownership change if, immediately aftersuch ownership change, any person (other than a voluntary employees’ beneficiary association under section 501(c)(9)) owns stock of the new loss corporation possessing 50 percent or more of the total combined voting power of all classes of stock entitled to vote, or of the total value of the stock of such corporation.
+&emsp;&emsp;Paragraph (1) shall not apply in the case of any ownership change if, immediately after such ownership change, any person (other than a voluntary employees’ beneficiary association under section 501(c)(9)) owns stock of the new loss corporation possessing 50 percent or more of the total combined voting power of all classes of stock entitled to vote, or of the total value of the stock of such corporation.
 
 #### (B) Treatment of related persons
 
@@ -662,13 +662,13 @@ The Emergency Economic Stabilization Act of 2008, referred to in subsec. (n)(1)(
 
 #### Amendments
 
-2009—Subsec. (n). Pub. L. 111–5 added subsec. (n).
+<b>2009</b>—Subsec. (n). Pub. L. 111–5 added subsec. (n).
 
-2004—Subsec. (<i>l</i>)(4)(B)(ii). Pub. L. 108–357 substituted “or a REMIC to which part IV of subchapter M applies,” for “a REMIC to which part IV of subchapter M applies, or a FASIT to which part V of subchapter M applies,”.
+<b>2004</b>—Subsec. (<i>l</i>)(4)(B)(ii). Pub. L. 108–357 substituted “or a REMIC to which part IV of subchapter M applies,” for “a REMIC to which part IV of subchapter M applies, or a FASIT to which part V of subchapter M applies,”.
 
-1996—Subsec. (<i>l</i>)(4)(B)(ii). Pub. L. 104–188 substituted “a REMIC to which part IV of subchapter M applies, or a FASIT to which part V of subchapter M applies” for “or a REMIC to which part IV of subchapter M applies”.
+<b>1996</b>—Subsec. (<i>l</i>)(4)(B)(ii). Pub. L. 104–188 substituted “a REMIC to which part IV of subchapter M applies, or a FASIT to which part V of subchapter M applies” for “or a REMIC to which part IV of subchapter M applies”.
 
-1993—Subsec. (<i>l</i>)(5)(C). Pub. L. 103–66 amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows:
+<b>1993</b>—Subsec. (<i>l</i>)(5)(C). Pub. L. 103–66 amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows:
 
 “(i)
 
@@ -678,7 +678,7 @@ In general.—In any case to which subparagraph (A) applies, 50 percent of the a
 
 Clarification with subparagraph (b).—In applying clause (i), there shall not be taken into account any indebtedness for interest described in subparagraph (B).”
 
-1989—Subsec. (h)(3)(B)(i). Pub. L. 101–239, §7205(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “If the amount of the net unrealized built-in gain or net unrealized built-in loss (determined without regard to this subparagraph) of any old loss corporation is not greater than 25 percent of the amount determined for purposes of subparagraph (A)(i)(I), the net unrealized built-in gain or net unrealized built-in loss shall be zero.”
+<b>1989</b>—Subsec. (h)(3)(B)(i). Pub. L. 101–239, §7205(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “If the amount of the net unrealized built-in gain or net unrealized built-in loss (determined without regard to this subparagraph) of any old loss corporation is not greater than 25 percent of the amount determined for purposes of subparagraph (A)(i)(I), the net unrealized built-in gain or net unrealized built-in loss shall be zero.”
 
 Subsec. (h)(6)(B). Pub. L. 101–239, §7811(c)(5)(A)(i), inserted “(determined without regard to any carryover)” after “during the recognition period”.
 
@@ -694,7 +694,7 @@ Subsec. (<i>l</i>)(3)(D). Pub. L. 101–239, §7304(d)(1), redesignated subpar. 
 
 Subsec. (<i>l</i>)(5)(F). Pub. L. 101–73 substituted “on or after May 10, 1989” for “after December 31, 1989” in last sentence.
 
-1988—Subsec. (e)(2). Pub. L. 100–647, §1006(d)(1)(A), inserted “or other corporate contraction” after “redemption” in heading and in two places in text.
+<b>1988</b>—Subsec. (e)(2). Pub. L. 100–647, §1006(d)(1)(A), inserted “or other corporate contraction” after “redemption” in heading and in two places in text.
 
 Subsec. (e)(3). Pub. L. 100–647, §1006(d)(17)(A), added par. (3).
 
@@ -716,7 +716,7 @@ Pub. L. 100–647, §1006(d)(1)(B), inserted “or other corporate contractions�
 
 Subsec. (h)(3)(B)(ii). Pub. L. 100–647, §1006(d)(26), inserted “except as provided in regulations,” after “under clause (i),”.
 
-Subsec. (h)(4). Pub. L. 100–647, §1006(d)(20), substituted “allowed as a carryforward” for “treated as a net operating loss” in heading and inserted “(or to the extent the amount so disallowed is attributable to capital losses, under rules similar to the rules for the carryingforward of net capital losses)” after “net operating losses” in subpar. (A).
+Subsec. (h)(4). Pub. L. 100–647, §1006(d)(20), substituted “allowed as a carryforward” for “treated as a net operating loss” in heading and inserted “(or to the extent the amount so disallowed is attributable to capital losses, under rules similar to the rules for the carrying forward of net capital losses)” after “net operating losses” in subpar. (A).
 
 Subsec. (h)(5)(A). Pub. L. 100–647, §1006(d)(3)(B), substituted “recognized built-in gains to the extent such gains increased the section 382 limitation for the year (or recognized built-in losses to the extent such losses are treated as pre-change losses)” for “recognized built-in gains and losses”.
 
@@ -770,23 +770,23 @@ Subsec. (m)(5). Pub. L. 100–647, §1006(d)(24), added par. (5).
 
 Pub. L. 100–647, §1006(d)(1)(C), redesignated former par. (5) as (4).
 
-1987—Subsec. (g)(4)(D). Pub. L. 100–203, §10225(a), added subpar. (D).
+<b>1987</b>—Subsec. (g)(4)(D). Pub. L. 100–203, §10225(a), added subpar. (D).
 
 Subsec. (h)(2)(B). Pub. L. 100–203, §10225(b), inserted at end “Such term includes any amount allowable as depreciation, amortization, or depletion for any period within the recognition period except to the extent the new loss corporation establishes that the amount so allowable is not attributable to the excess described in clause (ii).”
 
-1986—Pub. L. 99–514, §621(a), in amending section generally, in subsec. (a), substituted provisions setting forth general rule that amount of taxable income of any new loss corporation for any post-change year which may be offset by pre-change losses shall not exceed section 382 limitation for such year for provisions relating to change in ownership of corporation and change in its business, description of persons owning corporation, attribution of ownership, and definition of “purchase”, in subsec. (b), substituted provisions relating to section 382 limitation for provisions relating to change in ownership as result of reorganization, in subsec. (c), substituted provisions relating to disallowance of carryforwards if continuity of business requirements are not met for provisions defining stock as all shares except nonvoting stock which is limited and preferred as to dividends, and added subsecs. (d) to (m).
+<b>1986</b>—Pub. L. 99–514, §621(a), in amending section generally, in subsec. (a), substituted provisions setting forth general rule that amount of taxable income of any new loss corporation for any post-change year which may be offset by pre-change losses shall not exceed section 382 limitation for such year for provisions relating to change in ownership of corporation and change in its business, description of persons owning corporation, attribution of ownership, and definition of “purchase”, in subsec. (b), substituted provisions relating to section 382 limitation for provisions relating to change in ownership as result of reorganization, in subsec. (c), substituted provisions relating to disallowance of carryforwards if continuity of business requirements are not met for provisions defining stock as all shares except nonvoting stock which is limited and preferred as to dividends, and added subsecs. (d) to (m).
 
 Pub. L. 99–514, §621(e)(1), repealed amendment by Pub. L. 94–455, §806(e). See 1976 Amendment note below.
 
-1984—Subsec. (b)(1). Pub. L. 98–369, in section as amended by Pub. L. 94–455, substituted “subparagraph (A), (B), (C), or (F) of section 368(a)(1) or subparagraph (D) or (G) of section 368(a)(1) (but only if the requirements of section 354(b)(1) are met)” for “section 368(a)(1)(A), (B), (C), (D) (but only if the requirements of section 354(b)(1) are met, or (F)”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369, in section as amended by Pub. L. 94–455, substituted “subparagraph (A), (B), (C), or (F) of section 368(a)(1) or subparagraph (D) or (G) of section 368(a)(1) (but only if the requirements of section 354(b)(1) are met)” for “section 368(a)(1)(A), (B), (C), (D) (but only if the requirements of section 354(b)(1) are met, or (F)”.
 
-1981—Subsec. (b)(7). Pub. L. 97–34 designated existing provisions as subpar. (A) and added subpar. (B).
+<b>1981</b>—Subsec. (b)(7). Pub. L. 97–34 designated existing provisions as subpar. (A) and added subpar. (B).
 
-1980—Subsec. (b)(7). Pub. L. 96–589 added par. (7).
+<b>1980</b>—Subsec. (b)(7). Pub. L. 96–589 added par. (7).
 
-1976—Pub. L. 94–455, §806(e), which amended section generally, substituting provisions relating to special limitations on net operating loss carryovers based on continuity of trade or business conducted, for provisions relating to special limitations on net operating loss carryovers based on continuity of ownership, was repealed by Pub. L. 99–514, §621(e)(1). See Effective Date of 1986 and 1976 Amendment notes below.
+<b>1976</b>—Pub. L. 94–455, §806(e), which amended section generally, substituting provisions relating to special limitations on net operating loss carryovers based on continuity of trade or business conducted, for provisions relating to special limitations on net operating loss carryovers based on continuity of ownership, was repealed by Pub. L. 99–514, §621(e)(1). See Effective Date of 1986 and 1976 Amendment notes below.
 
-1964—Subsec. (a)(3). Pub. L. 88–554 inserted reference to section 318(a)(3)(C) of this title.
+<b>1964</b>—Subsec. (a)(3). Pub. L. 88–554 inserted reference to section 318(a)(3)(C) of this title.
 
 #### Effective Date of 2009 Amendment
 
@@ -846,7 +846,7 @@ Subsection (a).—The amendment made by subsection (a) \[amending this section\]
 
 “(2)
 
-Subsection (b).—The amendment made by subsection (b) \[amending this section\] shall apply in the case of ownership changes (as defined in section 382 of the Internal Revenue Code of 1986 as amended by subsection (a)) after December 15, 1987; except that such amendment shall not apply in the case of any ownership change pursuant to a binding written contract which was in effect on December 15, 1987, and at all times thereafter before such ownership change.”
+Subsection (b).—The amendment made by subsection (b) \[amending this section\] shall apply in thecase of ownership changes (as defined in section 382 of the Internal Revenue Code of 1986 as amended by subsection (a)) after December 15, 1987; except that such amendment shall not apply in the case of any ownership change pursuant to a binding written contract which was in effect on December 15, 1987, and at all times thereafter before such ownership change.”
 
 #### Effective Date of 1986 Amendment; Savings Provisions
 

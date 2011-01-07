@@ -48,17 +48,17 @@ This chapter, referred to in par. (6), was in the original “this Act”, which
 
 #### Amendments
 
-2008—Par. (4). Pub. L. 110–453, §207(a)(1), designated existing provisions as cls. (i) and (ii) and, in cl. (ii), substituted “an interest in land, the title to which interest” for “an interest in land, title to which”.
+<b>2008</b>—Par. (4). Pub. L. 110–453, §207(a)(1), designated existing provisions as cls. (i) and (ii) and, in cl. (ii), substituted “an interest in land, the title to which interest” for “an interest in land, title to which”.
 
 Par. (7). Pub. L. 110–453, §207(a)(2), added par. (7) and struck out former par. (7) which read as follows: “ ‘land’ means any real property, and includes within its meaning for purposes of this chapter improvements permanently affixed to real property;”.
 
-2004—Par. (2). Pub. L. 108–374, §6(b)(1), added par. (2) and struck out former par. (2) which read as follows: “ ‘Indian’ means any person who is a member of any Indian tribe or is eligible to become a member of any Indian tribe, or any person who has been found to meet the definition of ‘Indian’ under a provision of Federal law if the Secretary determines that using such law's definition of Indian is consistent with the purposes of this chapter;”.
+<b>2004</b>—Par. (2). Pub. L. 108–374, §6(b)(1), added par. (2) and struck out former par. (2) which read as follows: “ ‘Indian’ means any person who is a member of any Indian tribe or is eligible to become a member of any Indian tribe, or any person who has been found to meet the definition of ‘Indian’ under a provision of Federal law if the Secretary determines that using such law's definition of Indian is consistent with the purposes of this chapter;”.
 
 Par. (4). Pub. L. 108–374, §6(b)(2), added par. (4) and struck out former par. (4) which read as follows: “ ‘trust or restricted lands’ means lands, title to which is held by the United States in trust for an Indian or an Indian tribe or lands title to which is held by Indians or an Indian tribe subject to a restriction by the United States against alienation; and”.
 
 Pars. (6) to (10). Pub. L. 108–374, §6(b)(3), added pars. (6) to (10).
 
-2000—Par. (1). Pub. L. 106–462, §103(1)(A), substituted “(1)‘Indian tribe’ or ‘tribe’ ” for “(1) ‘tribe’ ”.
+<b>2000</b>—Par. (1). Pub. L. 106–462, §103(1)(A), substituted “(1)‘Indian tribe’ or ‘tribe’ ” for “(1) ‘tribe’ ”.
 
 Par. (2). Pub. L. 106–462, §103(1)(B), added par. (2) and struck out former par. (2) which read as follows: “ ‘Indian’ means any person who is a member of a tribe or any person who is recognized as an Indian by the Secretary of the Interior;”.
 
@@ -132,7 +132,7 @@ Pub. L. 109–157, §1, Dec. 30, 2005, 119 Stat. 2949, provided that: “This Ac
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–374, §1, Oct. 27, 2004, 118 Stat. 1773, provided that: “This Act \[enacting sections 2220 and 2221 ofthis title, amending this section and sections 348, 464, 2204 to 2206, 2212 to 2216, and 2218 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘American Indian Probate Reform Act of 2004’.”
+Pub. L. 108–374, §1, Oct. 27, 2004, 118 Stat. 1773, provided that: “This Act \[enacting sections 2220 and 2221 of this title, amending this section and sections 348, 464, 2204 to 2206, 2212 to 2216, and 2218 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘American Indian Probate Reform Act of 2004’.”
 
 #### Short Title of 2000 Amendment
 
@@ -152,7 +152,7 @@ Pub. L. 108–374, §10, Oct. 27, 2004, 118 Stat. 1810, provided that: “The Se
 
 #### Severability
 
-Pub. L. 108–374, §9, Oct. 27, 2004, 118 Stat. 1810, as amended by Pub. L. 109–157, §8(a)(2), Dec. 30, 2005, 119 Stat. 2952, provided that: “If any provision of this Act \[see Short Title of 2004 Amendment note above\] or of any amendment made by this Act, or the application of any such provision to any person or circumstance, is held to be invalid for any reason, the remainder of this Act and of amendments made by this Act, and the application of the provisions and of the amendments made by this Act to any other person or circumstance shall not be affected by such holding, except that each of subclauses (II), (III), and (IV) of section 205(c)(2)(I)(i) of the Indian Land Consolidation Act (25 U.S.C. 2204(c)(2)(I)(i)) is deemed to be inseverable from the other 2, such that if any 1 of those 3 subclauses is held to be invalid for any reason, neither of the other 2 of such subclauses shall be given effect.”
+Pub. L. 108–374, §9, Oct. 27, 2004, 118 Stat. 1810, as amended by Pub. L. 109–157, §8(a)(2), Dec. 30, 2005, 119Stat. 2952, provided that: “If any provision of this Act \[see Short Title of 2004 Amendment note above\] or of any amendment made by this Act, or the application of any such provision to any person or circumstance, is held to be invalid for any reason, the remainder of this Act and of amendments made by this Act, and the application of the provisions and of the amendments made by this Act to any other person or circumstance shall not be affected by such holding, except that each of subclauses (II), (III), and (IV) of section 205(c)(2)(I)(i) of the Indian Land Consolidation Act (25 U.S.C. 2204(c)(2)(I)(i)) is deemed to be inseverable from the other 2, such that if any 1 of those 3 subclauses is held to be invalid for any reason, neither of the other 2 of such subclauses shall be given effect.”
 
 #### Congressional Findings
 
@@ -212,7 +212,7 @@ Pub. L. 106–462, title I, §101, Nov. 7, 2000, 114 Stat. 1991, provided that: 
 
 &emsp;“(9) the fractional interests described in this section often provide little or no return to the beneficial owners of those interests and the administrative costs borne by the United States for those interests are inordinately high;
 
-&emsp;“(10) in Babbitt v. Youpee (117 S\[.\] Ct. 727 (1997)), the United States Supreme Court found the application of section 207 of the Indian Land Consolidation Act (25 U.S.C. 2206) to the facts presented in that caseto be unconstitutional, forcing the Department of the Interior to address the status of thousands of undivided interests in trust and restricted lands;
+&emsp;“(10) in Babbitt v. Youpee (117 S\[.\] Ct. 727 (1997)), the United States Supreme Court found the application of section 207 of the Indian Land Consolidation Act (25 U.S.C. 2206) to the facts presented in that case to be unconstitutional, forcing the Department of the Interior to address the status of thousands of undivided interests in trust and restricted lands;
 
 &emsp;“(11)(A) on February 19, 1999, the Secretary of the Interior issued a Secretarial Order which officially reopened the probate of all estates where an interest in land was ordered to escheat to an Indian tribe pursuant to section 207 of the Indian Land Consolidation Act (25 U.S.C. 2206); and
 

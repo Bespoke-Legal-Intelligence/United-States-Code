@@ -48,15 +48,15 @@ Section 1102(1) of the Arms Control, Non-Proliferation, and Security Assistance 
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–228 substituted “April 15” for “January 31” in introductory provisions.
+<b>2002</b>—Subsec. (a). Pub. L. 107–228 substituted “April 15” for “January 31” in introductory provisions.
 
-1999—Subsec. (a)(4). Pub. L. 106–113, §1000(a)(7) \[title XI, §1113(a)(1)(A)–(C)\], in introductory provisions, inserted “or commitments, including the Missile Technology Control Regime,” before “to which”, “or commitments” before “, and shall”, and “or commitment” before “about which”.
+<b>1999</b>—Subsec. (a)(4). Pub. L. 106–113, §1000(a)(7) \[title XI, §1113(a)(1)(A)–(C)\], in introductory provisions, inserted “or commitments, including the Missile Technology Control Regime,” before “to which”, “or commitments” before “, and shall”, and “or commitment” before “about which”.
 
 Subsec. (a)(6). Pub. L. 106–113, §1000(a)(7) \[title XI, §1113(a)(1)(D), (2), (3)\], added par. (6).
 
 Subsec. (d). Pub. L. 106–113, §1000(a)(7) \[title XI, §1113(b)\], added subsec. (d).
 
-1998—Subsec. (a). Pub. L. 105–277, §1223(15)(A)(ii), (iii), in introductory provisions, substituted “Secretary of State with the concurrence of the Director of Central Intelligence and in consultation with” for “Director, in consultation with the Secretary of State,” and “and the Chairman of the Joint Chiefs of Staff” for “the Chairman of the Joint Chiefs of Staff, and the Director of Central Intelligence”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §1223(15)(A)(ii), (iii), in introductory provisions, substituted “Secretary of State with the concurrence of the Director of Central Intelligence and in consultation with” for “Director, in consultation with the Secretary of State,” and “and the Chairman of the Joint Chiefs of Staff” for “the Chairman of the Joint Chiefs of Staff, and the Director of Central Intelligence”.
 
 Subsec. (a)(1). Pub. L. 105–277, §1223(15)(A)(i), inserted “, nonproliferation,” after “arms control”.
 
@@ -72,7 +72,7 @@ Subsec. (a)(5) to (7). Pub. L. 105–277, §1223(15)(A)(v), redesignated pars. (
 
 Subsec. (b). Pub. L. 105–277, §1223(15)(B), inserted at end “The portions of this report described in paragraphs (4) and (5) of subsection (a) of this section shall summarize in detail, at least in classified annexes, the information, analysis, and conclusions relevant to possible noncompliance by other nations that are provided by United States intelligence agencies.”
 
-1994—Subsec. (a)(5) to (7). Pub. L. 103–236, §828(a)(1)–(3), struck out “and” at end of par. (5), substituted “; and” for period at end of par. (6), and added par. (7).
+<b>1994</b>—Subsec. (a)(5) to (7). Pub. L. 103–236, §828(a)(1)–(3), struck out “and” at end of par. (5), substituted “; and” for period at end of par. (6), and added par. (7).
 
 Subsec. (c). Pub. L. 103–236, §828(a)(4), added subsec. (c).
 

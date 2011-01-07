@@ -8,7 +8,7 @@
 
 #### (b) Program authorized
 
-The Secretary of Energy may carry out a program to undertake an accelerated, comprehensive worldwide effort to mitigate the threats posed by high-risk, proliferation-attractivefissile materials, radiological materials, and related equipment located at sites potentially vulnerable to theft or diversion.
+The Secretary of Energy may carry out a program to undertake an accelerated, comprehensive worldwide effort to mitigate the threats posed by high-risk, proliferation-attractive fissile materials, radiological materials, and related equipment located at sites potentially vulnerable to theft or diversion.
 
 #### (c) Program elements
 
@@ -28,7 +28,7 @@ The Secretary of Energy may carry out a program to undertake an accelerated, com
 
 &emsp;(G) The management of proliferation-attractive fissile materials, radiological materials, and related equipment at secure facilities.
 
-&emsp;(H) Actions to ensure that security, including security upgrades at sites and facilities for the storage or disposition of proliferation-attractive fissile materials, radiological materials, and related equipment, continues to function as intended.
+&emsp;(H) Actions to ensure that security, including security upgrades at sites and facilities forthe storage or disposition of proliferation-attractive fissile materials, radiological materials, and related equipment, continues to function as intended.
 
 &emsp;(I) The provision of technical support to the International Atomic Energy Agency (IAEA), other countries, and other entities to facilitate removal of, and security upgrades to facilities that contain, proliferation-attractive fissile materials, radiological materials, and related equipment worldwide.
 
@@ -70,7 +70,7 @@ Amounts authorized to be appropriated to the Secretary of Energy for defense nuc
 
 #### (1) In general
 
-&emsp;The Secretary of Energy may, with the concurrence of the Secretary of State, enter intoone or more agreements with any person (including a foreign government, international organization, or multinational entity) that the Secretary of Energy considers appropriate under which the person contributes funds for purposes of the programs described in paragraph (2).
+&emsp;The Secretary of Energy may, with the concurrence of the Secretary of State, enter into one or more agreements with any person (including a foreign government, international organization, or multinational entity) that the Secretary of Energy considers appropriate under which the person contributes funds for purposes of the programs described in paragraph (2).
 
 #### (2) Programs covered
 
@@ -138,7 +138,7 @@ Section was enacted as part of the Ronald W. Reagan National Defense Authorizati
 
 #### Amendments
 
-2006—Subsecs. (f), (g). Pub. L. 109–364 added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>2006</b>—Subsecs. (f), (g). Pub. L. 109–364 added subsec. (f) and redesignated former subsec. (f) as (g).
 
 #### “Congressional Defense Committees” Defined
 

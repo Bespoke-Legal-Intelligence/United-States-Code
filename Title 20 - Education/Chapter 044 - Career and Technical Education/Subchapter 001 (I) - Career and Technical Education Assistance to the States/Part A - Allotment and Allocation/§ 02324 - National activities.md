@@ -138,7 +138,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) academic, secondary and postsecondary instruction;
 
-&emsp;&emsp;&emsp;&emsp;(II) education technology and distance learning approaches and strategies that are effective with respect to career and technical education;
+&emsp;&emsp;&emsp;&emsp;(II) education technology and distance learning approaches and strategies thatare effective with respect to career and technical education;
 
 &emsp;&emsp;&emsp;&emsp;(III) State adjusted levels of performance and State levels of performance that serve to improve career and technical education programs and student achievement;
 

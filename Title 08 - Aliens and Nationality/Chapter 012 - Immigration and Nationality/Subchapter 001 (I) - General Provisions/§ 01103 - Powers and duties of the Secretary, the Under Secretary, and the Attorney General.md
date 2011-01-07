@@ -8,7 +8,7 @@
 
 (3) He shall establish such regulations; prescribe such forms of bond, reports, entries, and other papers; issue such instructions; and perform such other acts as he deems necessary for carrying out his authority under the provisions of this chapter.
 
-(4) He may require or authorize any employee of the Service or the Department of Justice toperform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon any other employee of the Service.
+(4) He may require or authorize any employee of the Service or the Department of Justice to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon any other employee of the Service.
 
 (5) He shall have the power and duty to control and guard the boundaries and borders of the United States against the illegal entry of aliens and shall, in his discretion, appoint for that purpose such number of employees of the Service as to him shall appear necessary and proper.
 
@@ -73,6 +73,8 @@ The Attorney General shall allocate to each State not fewer than 10 full-time ac
 (June 27, 1952, ch. 477, title I, §103, 66 Stat. 173; Pub. L. 100–525, §9(c), Oct. 24, 1988, 102 Stat. 2619; Pub. L. 101–649, title I, §142, Nov. 29, 1990, 104 Stat. 5004; Pub. L. 104–208, div. C, title I, §§102(d), 125, 134(a), title III, §§308(d)(4)(C), (e)(4), 372, 373, Sept. 30, 1996, 110 Stat. 3009–555, 3009–562, 3009–564, 3009–618, 3009–620, 3009–646, 3009–647; Pub. L. 107–296, title XI, §1102, Nov. 25, 2002, 116 Stat. 2273; Pub. L. 108–7, div. L, §105(a)(1), (2), Feb. 20, 2003, 117 Stat. 531; Pub. L. 108–458, title V, §5505(a), Dec. 17, 2004, 118 Stat. 3741; Pub. L. 111–122, §2(a), Dec. 22, 2009, 123 Stat. 3480.)
 
 #### References in Text
+
+This chapter, referred to in text, was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 The Immigration Reform, Accountability and Security Enhancement Act of 2002, referred to in subsec. (g)(1), was S. 2444 of the 107th Congress, as introduced on May 2, 2002, which was not enacted into law. Provisions relating to the Executive Office for Immigration Review are contained in section 521 of Title 6, Domestic Security.
 
@@ -210,7 +212,7 @@ Prompt acquisition of necessary easements.—The Attorney General, acting under 
 
 &emsp;“(3)
 
-Safety features.—The Attorney General, while constructing the additional fencing under this subsection, shall incorporate such safety features into the design of the fence system as are necessary to ensure the well-being of border patrol agents deployed within or in near proximity to the system.
+Safety features.—The Attorney General, while constructing the additional fencing under this subsection, shall incorporate such safety featuresinto the design of the fence system as are necessary to ensure the well-being of border patrol agents deployed within or in near proximity to the system.
 
 &emsp;“(4)
 

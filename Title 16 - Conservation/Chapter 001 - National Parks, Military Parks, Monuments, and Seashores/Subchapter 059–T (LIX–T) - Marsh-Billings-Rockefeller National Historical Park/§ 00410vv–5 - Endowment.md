@@ -14,5 +14,5 @@ In accordance with the provisions of subsection (b) of this section, the Secreta
 
 #### Amendments
 
-1998—Subsec. (b)(1). Pub. L. 105–277 substituted “Marsh-Billings-Rockefeller” for “Marsh-Billings”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–277 substituted “Marsh-Billings-Rockefeller” for “Marsh-Billings”.
 

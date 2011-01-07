@@ -18,7 +18,7 @@ Conditions on Providing Access.—Before providing a person access to the Motor 
 
 &emsp;(2) ensure that such person will not conduct a screening without the operator-applicant's written consent;
 
-&emsp;(3) ensure that any information that is released to such person will not be released to any person or entity, other than the motor carrier requesting the screening services or the operator-applicant, unless expressly authorized or required by law; and
+&emsp;(3) ensure that any information that is released to such person will not be released toany person or entity, other than the motor carrier requesting the screening services or the operator-applicant, unless expressly authorized or required by law; and
 
 &emsp;(4) provide a procedure for the operator-applicant to correct inaccurate information in the System in a timely manner.
 

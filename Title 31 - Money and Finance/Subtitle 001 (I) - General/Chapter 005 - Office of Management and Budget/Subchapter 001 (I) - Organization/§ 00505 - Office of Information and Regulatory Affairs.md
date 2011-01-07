@@ -20,5 +20,5 @@ The section is included to provide in subchapter I of chapter 5 of the revised t
 
 #### Amendments
 
-1990—Pub. L. 101–576 renumbered section 503 of this title as this section.
+<b>1990</b>—Pub. L. 101–576 renumbered section 503 of this title as this section.
 

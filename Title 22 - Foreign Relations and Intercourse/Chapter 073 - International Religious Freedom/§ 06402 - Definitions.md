@@ -94,3 +94,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “Presidential”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+

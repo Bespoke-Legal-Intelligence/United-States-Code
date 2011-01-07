@@ -10,5 +10,5 @@ Provisions similar to those in this section were contained in Pub. L. 101–165,
 
 #### Amendments
 
-2000—Pub. L. 106–398 renumbered section 2550 of this title as this section.
+<b>2000</b>—Pub. L. 106–398 renumbered section 2550 of this title as this section.
 

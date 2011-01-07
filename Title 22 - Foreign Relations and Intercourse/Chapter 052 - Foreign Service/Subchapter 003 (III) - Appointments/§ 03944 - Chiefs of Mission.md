@@ -20,5 +20,5 @@
 
 #### Amendments
 
-1999—Subsec. (c). Pub. L. 106–113 struck out subsec. (c) which read as follows: “Within 6 months after assuming the position, the chief of mission to a foreign country shall submit, to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, a report describing his or her own foreign language competence and the foreign language competence of the mission staff in the principal language or other dialect of that country.”
+<b>1999</b>—Subsec. (c). Pub. L. 106–113 struck out subsec. (c) which read as follows: “Within 6 months after assuming the position, the chief of mission to a foreign country shall submit, to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, a report describing his or her own foreign language competence and the foreign language competence of the mission staff in the principal language or other dialect of that country.”
 

@@ -58,13 +58,13 @@ The Director shall award grants for the establishment of centers of excellence, 
 
 #### (2) Outreach grants
 
-&emsp;The Director shall make grants to associate-degree-granting colleges with outstandingmathematics and science programs to strengthen relationships with secondary schools in the community served by the college by improving mathematics and science education and encouraging the interest and aptitude of secondary school students for careers in science and advanced-technology fields through such means as developing agreements with local educational agencies to enable students to satisfy entrance and course requirements at the associate-degree-granting college.
+&emsp;The Director shall make grants to associate-degree-granting colleges with outstanding mathematics and science programs to strengthen relationships with secondary schools in the community served by the college by improving mathematics and science education and encouraging the interest and aptitude of secondary school students for careers in science and advanced-technology fields through such means as developing agreements with local educational agencies to enable students to satisfy entrance and course requirements at the associate-degree-granting college.
 
 #### (3) Mentor training grants
 
 &emsp;The Director shall—
 
-&emsp;&emsp;(A) establish a program to encourage and make grants available to institutions of higher education that award associate degrees to recruit and train individuals from the fields of science, technology, engineering, and mathematics to mentor students who are described in section 1885a or 1885b of this title in order to assist those students in identifying, qualifying for, and entering higher-paying technical jobs in those fields; and
+&emsp;&emsp;(A) establish a program to encourage and make grants available to institutions of higher education that award associate degrees to recruit and train individuals from the fields of science, technology, engineering, and mathematics to mentor students who are described in section 1885a or 1885b of this title in order to assist those students in identifying, qualifying for, and enteringhigher-paying technical jobs in those fields; and
 
 &emsp;&emsp;(B) make grants available to associate-degree-granting colleges to carry out the program identified in subsection <sup>2</sup> (A).
 
@@ -124,13 +124,13 @@ Section was enacted as part of the Scientific and Advanced-Technology Act of 199
 
 #### Amendments
 
-2007—Subsec. (a)(3)(A). Pub. L. 110–69, §7031(a)(1)(A), which directed striking out “and” after the semicolon, was executed by striking out “and” after the comma, to reflect the probable intent of Congress.
+<b>2007</b>—Subsec. (a)(3)(A). Pub. L. 110–69, §7031(a)(1)(A), which directed striking out “and” after the semicolon, was executed by striking out “and” after the comma, to reflect the probable intent of Congress.
 
 Subsec. (a)(3)(B), (C). Pub. L. 110–69, §7031(a)(1)(B), (C), substituted “; and” for semicolon in subpar. (B) and added subpar. (C).
 
 Subsec. (c)(3). Pub. L. 110–69, §7031(a)(2), added par. (3).
 
-2002—Subsec. (a). Pub. L. 107–368, §21(a)(1), inserted “, and to improve the quality of their core education courses in science and mathematics” after “education in advanced-technology fields” in introductory provisions.
+<b>2002</b>—Subsec. (a). Pub. L. 107–368, §21(a)(1), inserted “, and to improve the quality of their core education courses in science and mathematics” after “education in advanced-technology fields” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 107–368, §21(a)(2), inserted “and in core science and mathematics courses” after “advanced-technology fields”.
 
@@ -138,7 +138,7 @@ Subsec. (a)(2). Pub. L. 107–368, §21(a)(3), substituted “who provide instru
 
 Subsec. (c)(1)(B)(iii), (iv). Pub. L. 107–368, §21(b), added cls. (iii) and (iv).
 
-1998—Subsec. (g)(2), (3). Pub. L. 105–244 substituted “section 101 of the Higher Education Act of 1965” for “section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a))”.
+<b>1998</b>—Subsec. (g)(2), (3). Pub. L. 105–244 substituted “section 101 of the Higher Education Act of 1965” for “section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a))”.
 
 #### Effective Date of 1998 Amendment
 

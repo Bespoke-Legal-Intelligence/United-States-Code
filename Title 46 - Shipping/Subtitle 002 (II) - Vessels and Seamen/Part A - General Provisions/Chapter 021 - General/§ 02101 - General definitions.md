@@ -10,7 +10,7 @@ In this subtitle—
 
 &emsp;&emsp;&emsp;(ii) a marine safety article intended for use on board a recreational vessel; but
 
-&emsp;&emsp;(B) does not include radio equipment.
+&emsp;&emsp;(B) with the exception of emergency locator beacons for recreational vessels operating beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured or beyond 3 nautical miles from the coastline of the Great Lakes, does not include radio equipment.
 
 &emsp;\[(2) to (3a) Repealed. Pub. L. 109–304, §15(2)(A), Oct. 6, 2006, 120 Stat. 1702.\]
 
@@ -96,7 +96,7 @@ In this subtitle—
 
 &emsp;(18) “oceanographic research vessel” means a vessel that the Secretary finds is being employed only in instruction in oceanography or limnology, or both, or only in oceanographic or limnological research, including studies about the sea such as seismic, gravity meter, and magnetic exploration and other marine geophysical or geological surveys, atmospheric research, and biological research.
 
-&emsp;(19) “offshore supply vessel” means a motor vessel of more than 15 gross tons but less than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that regularly carries goods, supplies, individuals in addition to the crew, or equipment in support of exploration, exploitation, or production of offshore mineral or energy resources.
+&emsp;(19) “offshore supply vessel” means a motor vessel that regularly carries goods, supplies, individuals in addition to the crew, or equipment in support of exploration, exploitation, or production of offshore mineral or energy resources.
 
 &emsp;(20) “oil” includes oil of any type or in any form, including petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes except dredged spoil.
 
@@ -254,7 +254,7 @@ In this subtitle—
 
 &emsp;&emsp;(C) transfers oil or hazardous material in a port or place subject to the jurisdiction of the United States.
 
-&emsp;(40) “towing vessel” means a commercial vessel engaged in or intending to engage in theservice of pulling, pushing, or hauling along side, or any combination of pulling, pushing, or hauling along side.
+&emsp;(40) “towing vessel” means a commercial vessel engaged in or intending to engage in the service of pulling, pushing, or hauling along side, or any combination of pulling, pushing, or hauling along side.
 
 &emsp;\[(41) Repealed. Pub. L. 109–304, §15(2)(A), Oct. 6, 2006, 120 Stat. 1702.\]
 
@@ -288,7 +288,7 @@ In this subtitle—
 
 &emsp;(48) “wing-in-ground craft” means a vessel that is capable of operating completely above the surface of the water on a dynamic air cushion created by aerodynamic lift due to the ground effect between the vessel and the water's surface.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 501; Pub. L. 98–364, title IV, §402(1), July 17, 1984, 98 Stat. 445; Pub. L. 98–454, title III, §301(a), Oct. 5, 1984, 98 Stat. 1734; Pub. L. 98–557, §34(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–307, §1(1), (2), May 19, 1986, 100 Stat. 444; Pub. L. 99–509, title V, §5102(b)(1), Oct. 21, 1986, 100 Stat. 1926; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–640, §§10(b)(1), 11(a), 13(d), Nov. 10, 1986, 100 Stat. 3549–3551; Pub. L. 100–239, §6(a)(1), Jan. 11, 1988, 101 Stat. 1781; Pub. L. 100–424, §8(c)(1), Sept. 9, 1988, 102 Stat. 1593; Pub. L. 100–710, title I, §104(a)(1), (2), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 101–225, title II, §209, Dec. 12, 1989, 103 Stat. 1913; Pub. L. 101–380, title IV, §4103(a)(2)(A), Aug. 18, 1990, 104 Stat. 511; Pub. L. 101–595, title VI, §603(1), Nov. 16, 1990, 104 Stat. 2993; Pub. L. 102–587, title V, §5208(a), Nov. 4, 1992, 106 Stat. 5075; Pub. L. 103–206, title V, §§502–510, Dec. 20, 1993, 107 Stat. 2439–2441; Pub. L. 103–272, §5(<i>l</i>), July 5, 1994, 108 Stat. 1375; Pub. L. 104–324, title VII, §709, title XI, §1104(a), Oct. 19, 1996, 110 Stat. 3934, 3966; Pub. L. 105–383, title III, §301(b)(1), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 107–217, §3(m)(1), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 107–295, title IV, §419, Nov. 25, 2002, 116 Stat. 2124; Pub. L. 109–241, title III, §§301, 312(b), July 11, 2006, 120 Stat. 526, 533; Pub. L. 109–304, §15(2), Oct. 6, 2006, 120 Stat. 1702.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 501; Pub. L. 98–364, title IV, §402(1), July 17, 1984, 98 Stat. 445; Pub. L. 98–454, title III, §301(a), Oct. 5, 1984, 98 Stat. 1734; Pub. L. 98–557, §34(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–307, §1(1), (2), May 19, 1986, 100 Stat. 444; Pub. L. 99–509, title V, §5102(b)(1), Oct. 21, 1986, 100 Stat. 1926; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–640, §§10(b)(1), 11(a), 13(d), Nov. 10, 1986, 100 Stat. 3549–3551; Pub. L. 100–239, §6(a)(1), Jan. 11, 1988, 101 Stat. 1781; Pub. L. 100–424, §8(c)(1), Sept. 9, 1988, 102 Stat. 1593; Pub. L. 100–710, title I, §104(a)(1), (2), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 101–225, title II, §209, Dec. 12, 1989, 103 Stat. 1913; Pub. L. 101–380, title IV, §4103(a)(2)(A), Aug. 18, 1990, 104 Stat. 511; Pub. L. 101–595, title VI, §603(1), Nov. 16, 1990, 104 Stat. 2993; Pub. L. 102–587, title V, §5208(a), Nov. 4, 1992, 106 Stat. 5075; Pub. L. 103–206, title V, §§502–510, Dec. 20, 1993, 107 Stat. 2439–2441; Pub. L. 103–272, §5(<i>l</i>), July 5, 1994, 108 Stat. 1375; Pub. L. 104–324, title VII, §709, title XI, §1104(a), Oct. 19, 1996, 110 Stat. 3934, 3966; Pub. L. 105–383, title III, §301(b)(1), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 107–217, §3(m)(1), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 107–295, title IV, §419, Nov. 25, 2002, 116 Stat. 2124; Pub. L. 109–241, title III, §§301, 312(b), July 11, 2006, 120 Stat. 526, 533; Pub. L. 109–304, §15(2), Oct. 6, 2006, 120 Stat. 1702; Pub. L. 111–281, title VI, §§617(a)(1)(A), 618, Oct. 15, 2010, 124 Stat. 2972, 2975; Pub. L. 111–330, §1(9), Dec. 22, 2010, 124 Stat. 3570.)
 
 #### Historical and Revision Notes
 
@@ -413,7 +413,7 @@ Section 2101(36) defines “State” as a State, territory or possession of the 
 
 Section 2101(37) defines a “steam vessel” as a vessel propelled by steam. However, steam vessels of not more than 40 feet that are used exclusively for pleasure are not included.
 
-Section 2101(38) defines “tanker” as a self-propelled tank vessel that has been constructed or primarily adapted to carry oil or hazardous material in bulk in the cargo spaces. This vessel is a subclass of tank vessel, which is defined in section 2101(39). This subclassdefinition is necessary because certain statutory minimum requirements that are consistent with internationally accepted standards are solely applicable to these vessels.
+Section 2101(38) defines “tanker” as a self-propelled tank vessel that has been constructed or primarily adapted to carry oil or hazardous material in bulk in the cargo spaces. This vessel is a subclass of tank vessel, which is defined in section 2101(39). This subclass definition is necessary because certain statutory minimum requirements that are consistent with internationally accepted standards are solely applicable to these vessels.
 
 Section 2101(39) defines a “tank vessel” as a vessel carrying oil or hazardous materials in bulk or residue including a tanker as defined in section 2101(38).
 
@@ -437,7 +437,11 @@ Presidential Proclamation No. 5928, referred to in par. (17a), is set out under 
 
 #### Amendments
 
-2006—Pars. (2) to (3a). Pub. L. 109–304, §15(2)(A), struck out pars. (2), (3), and (3a), which defined “barge”, “Boundary Line”, and “citizen of the United States”, respectively. See sections 102, 103, and 104 of this title.
+<b>2010</b>—Par. (1)(B). Pub. L. 111–281, §618, as amended by Pub. L. 111–330, inserted “with the exception of emergency locator beacons for recreational vessels operating beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured or beyond 3 nautical miles from the coastline of the Great Lakes,” before “does not include”.
+
+Par. (19). Pub. L. 111–281, §617(a)(1)(A), struck out “of more than 15 gross tons but less than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “means a motor vessel”.
+
+<b>2006</b>—Pars. (2) to (3a). Pub. L. 109–304, §15(2)(A), struck out pars. (2), (3), and (3a), which defined “barge”, “Boundary Line”, and “citizen of the United States”, respectively. See sections 102, 103, and 104 of this title.
 
 Par. (6). Pub. L. 109–304, §15(2)(A), struck out par. (6) which read as follows: “ ‘consular officer’ means an officer or employee of the United States Government designated under regulations to grant visas.” See section 105 of this title.
 
@@ -467,17 +471,17 @@ Par. (41). Pub. L. 109–304, §15(2)(A), struck out par. (41) which read as fol
 
 Pars. (44) to (46). Pub. L. 109–304, §15(2)(A), struck out pars. (44) to (46), which defined “United States”, “vessel”, and “vessel of the United States”, respectively. See sections 114, 115, and 116 of this title.
 
-2002—Par. (17). Pub. L. 107–217 substituted “section 558 of title 40” for “section 13 of the Coast Guard Authorization Act of 1986”.
+<b>2002</b>—Par. (17). Pub. L. 107–217 substituted “section 558 of title 40” for “section 13 of the Coast Guard Authorization Act of 1986”.
 
 Par. (35). Pub. L. 107–295, §419(a), inserted “a wing-in-ground craft, regardless of tonnage, carrying at least one passenger for hire, and” after “ ‘small passenger vessel’ means” in introductory provisions.
 
 Par. (48). Pub. L. 107–295, §419(b), added par. (48).
 
-1998—Pars. (17a), (17b). Pub. L. 105–383 added par. (17a) and redesignated former par. (17a) as (17b).
+<b>1998</b>—Pars. (17a), (17b). Pub. L. 105–383 added par. (17a) and redesignated former par. (17a) as (17b).
 
-1996—Par. (13). Pub. L. 104–324, §709(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “15 gross tons”.
+<b>1996</b>—Par. (13). Pub. L. 104–324, §709(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “15 gross tons”.
 
-Par. (13a). Pub. L. 104–324, §709(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “3,500 gross tons”.
+Par. (13a). Pub. L. 104–324, §709(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title asprescribed by the Secretary under section 14104 of this title” after “3,500 gross tons”.
 
 Par. (19). Pub. L. 104–324, §709(3), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons”.
 
@@ -497,9 +501,9 @@ Par. (35). Pub. L. 104–324, §709(8), inserted “as measured under section 14
 
 Par. (42). Pub. L. 104–324, §709(9), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons” in subpars. (A) and (B).
 
-1994—Par. (14)(C). Pub. L. 103–272 substituted “section 5103(a) of title 49” for “section 104 of the Hazardous Materials Transportation Act (49 App. U.S.C. 1803)”.
+<b>1994</b>—Par. (14)(C). Pub. L. 103–272 substituted “section 5103(a) of title 49” for “section 104 of the Hazardous Materials Transportation Act (49 App. U.S.C. 1803)”.
 
-1993—Par. (5a). Pub. L. 103–206, §507, added par. (5a).
+<b>1993</b>—Par. (5a). Pub. L. 103–206, §507, added par. (5a).
 
 Par. (19). Pub. L. 103–206, §508, inserted “individuals in addition to the crew,” after “supplies,” and struck out “and is not a small passenger vessel” after “resources”.
 
@@ -517,15 +521,15 @@ Par. (37a). Pub. L. 103–206, §510, added par. (37a).
 
 Par. (42). Pub. L. 103–206, §505, amended par. (42) generally. Prior to amendment, par. (42) read as follows: “ ‘uninspected passenger vessel’ means an uninspected vessel carrying not more than 6 passengers.”
 
-1992—Par. (13a). Pub. L. 102–587 added par. (13a).
+<b>1992</b>—Par. (13a). Pub. L. 102–587 added par. (13a).
 
-1990—Par. (8a). Pub. L. 101–380 added par. (8a).
+<b>1990</b>—Par. (8a). Pub. L. 101–380 added par. (8a).
 
 Par. (14)(C). Pub. L. 101–595 substituted “(49 App. U.S.C. 1803)” for “(49 U.S.C. 1803)”.
 
-1989—Par. (17a). Pub. L. 101–225 added par. (17a).
+<b>1989</b>—Par. (17a). Pub. L. 101–225 added par. (17a).
 
-1988—Par. (10a). Pub. L. 100–239 added par. (10a).
+<b>1988</b>—Par. (10a). Pub. L. 100–239 added par. (10a).
 
 Par. (14a). Pub. L. 100–424 added par. (14a).
 
@@ -533,7 +537,7 @@ Par. (34). Pub. L. 100–710, §104(a)(1), inserted “, except in part H,” b
 
 Par. (46). Pub. L. 100–710, §104(a)(2), inserted “or titled under the law of a State” before period at end.
 
-1986—Par. (11b). Pub. L. 99–640, §10(b)(1), inserted “freezing,”.
+<b>1986</b>—Par. (11b). Pub. L. 99–640, §10(b)(1), inserted “freezing,”.
 
 Par. (14)(C). Pub. L. 99–307, §1(1), substituted “Materials” for “Material”.
 
@@ -561,7 +565,7 @@ Par. (30)(D). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” f
 
 Par. (47). Pub. L. 99–509, §5102(b)(1)(B), added par. (47).
 
-1984—Par. (3a). Pub. L. 98–454 added par. (3a).
+<b>1984</b>—Par. (3a). Pub. L. 98–454 added par. (3a).
 
 Par. (11). Pub. L. 98–364, §402(1)(A), substituted “ ‘fish’ means finfish, mollusks, crustaceans, and all other forms of marine animal and plant lift, except marine mammals and birds” for “ ‘fisheries’ includes planting, cultivating, catching, taking, or harvesting fish, shellfish, marine animals, pearls, shells, or marine vegetation at a place in the fishery conservation zone established by section 101 of the Magnuson Fishery Conservation and Management Act of 1976 (16 U.S.C. 1811)”, which is now covered in section 12101 of this title.
 
@@ -572,6 +576,10 @@ Par. (21)(B). Pub. L. 98–557, §34(a)(1), inserted reference to a sailing scho
 Par. (21)(E). Pub. L. 98–364, §402(1)(C), added subpar. (E).
 
 Par. (27). Pub. L. 98–557, §34(a)(2), designated existing provisions as subpar. (A) and added subpar. (B).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–330, §1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(9) is effective with the enactment of Pub. L. 111–281.
 
 #### Effective Date of 1992 Amendment
 
@@ -641,13 +649,13 @@ Operation of Vessel During Extension Period.—The owner of a vessel receiving a
 
 #### Tank Vessel Definition Clarification
 
-Pub. L. 102–587, title V, §5209, Nov. 4, 1992, 106 Stat. 5076, as amended by Pub. L. 105–383, title IV, §422, Nov. 13, 1998, 112 Stat. 3439, provided that:
+Pub. L. 102–587, title V, §5209, Nov. 4, 1992, 106 Stat. 5076, as amended by Pub. L. 105–383, title IV, §422, Nov. 13, 1998, 112 Stat. 3439; Pub. L. 111–281, title VI, §617(a)(1)(B), Oct. 15, 2010, 124 Stat. 2972, provided that:
 
 “(a) In this section, ‘offshore supply vessel’, ‘fish tender vessel’, ‘fishing vessel’, and ‘tank vessel’ have the meanings given those terms under section 2101 of title 46, United States Code.
 
 “(b) The following vessels are deemed not to be a tank vessel for the purposes of any law:
 
-&emsp;“(1) An offshore supply vessel.
+&emsp;“(1) An offshore supply vessel of less than 500 gross tons as measured under section 14502, or an alternate tonnage measured under section 14302 of such title as prescribed by the Secretary under section 14104 of such title.
 
 &emsp;“(2) A fishing or fish tender vessel of not more than 750 gross tons that transfers without charge to a fishing vessel owned by the same person.
 

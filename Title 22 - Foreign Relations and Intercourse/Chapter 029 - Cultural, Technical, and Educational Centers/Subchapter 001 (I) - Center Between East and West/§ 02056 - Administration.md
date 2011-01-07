@@ -20,9 +20,9 @@ The United States Information and Educational Exchange Act of 1948, as amended, 
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–132 substituted “George P. Shultz National Foreign Affairs Training Center” for “Foreign Service Institute”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–132 substituted “George P. Shultz National Foreign Affairs Training Center” for “Foreign Service Institute”.
 
-1980—Subsec. (b). Pub. L. 96–465 substituted reference to section 2697 of this title for reference to section 809 of this title.
+<b>1980</b>—Subsec. (b). Pub. L. 96–465 substituted reference to section 2697 of this title for reference to section 809 of this title.
 
 Subsec. (c). Pub. L. 96–470 substituted provision requiring the Director to make periodic reports, as he deems necessary, for provision requiring the Director to make an annual report.
 

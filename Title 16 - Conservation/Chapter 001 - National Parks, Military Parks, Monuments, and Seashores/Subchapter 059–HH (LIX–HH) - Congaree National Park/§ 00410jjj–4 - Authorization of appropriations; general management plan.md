@@ -26,7 +26,7 @@ The effective date of this subchapter, referred to in subsec. (b), probably mean
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–524, §6(a), inserted sentence at end relating to expenditure of additional sums for acquisition of lands.
+<b>1988</b>—Subsec. (a). Pub. L. 100–524, §6(a), inserted sentence at end relating to expenditure of additional sums for acquisition of lands.
 
 Subsec. (c). Pub. L. 100–524, §6(b), added subsec. (c).
 

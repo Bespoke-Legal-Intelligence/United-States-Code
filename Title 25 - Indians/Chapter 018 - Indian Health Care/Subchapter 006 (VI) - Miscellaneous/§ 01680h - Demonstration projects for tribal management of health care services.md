@@ -22,7 +22,7 @@ The Secretary may waive such provisions of Federal procurement law as are necess
 
 #### (e) Joint venture demonstration projects
 
-(1) The Secretary, acting through the Service, shall make arrangements with Indian tribes to establish joint venture demonstration projects under which an Indian tribe shall expend tribal, private, or other available nontribal funds, for the acquisition or construction of a health facility for a minimum of 20 years, under a no-cost lease, in exchange for agreement by the Service to provide the equipment, supplies, and staffing for the operation and maintenance of such a health facility. A tribe may utilize tribal funds, private sector, or other available resources, including loan guarantees, to fulfill its commitment under this subsection.
+(1) The Secretary, acting through the Service, shall make arrangements with Indian tribes to establish joint venture demonstration projects under which an Indian tribe shall expend tribal,private, or other available nontribal funds, for the acquisition or construction of a health facility for a minimum of 20 years, under a no-cost lease, in exchange for agreement by the Service to provide the equipment, supplies, and staffing for the operation and maintenance of such a health facility. A tribe may utilize tribal funds, private sector, or other available resources, including loan guarantees, to fulfill its commitment under this subsection.
 
 (2) The Secretary shall make such an arrangement with an Indian tribe only if the Secretary first determines that the Indian tribe has the administrative and financial capabilities necessary to complete the timely acquisition or construction of the health facility described in paragraph (1).
 
@@ -36,7 +36,7 @@ The Public Health Service Act, referred to in subsec. (b), is act July 1, 1944, 
 
 #### Amendments
 
-1992—Subsec. (d)(1). Pub. L. 102–573, §808(1)(A), inserted before period at end “, or, in the case of a demonstration project for which a grant is made after September 30, 1990, three years after the date on which such grant is made”.
+<b>1992</b>—Subsec. (d)(1). Pub. L. 102–573, §808(1)(A), inserted before period at end “, or, in the case of a demonstration project for which a grant is made after September 30, 1990, three years after the date on which such grant is made”.
 
 Subsec. (d)(2). Pub. L. 102–573, §808(1)(B), substituted “1996” for “1994”.
 

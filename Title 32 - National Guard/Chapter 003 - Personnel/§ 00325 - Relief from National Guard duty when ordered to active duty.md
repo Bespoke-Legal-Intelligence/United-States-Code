@@ -44,19 +44,19 @@ In subsection (b), the words “upon relief from that duty” are substituted fo
 
 #### Amendments
 
-2008—Subsec. (a)(2). Pub. L. 110–417, §517(a), struck out “in command of a National Guard unit” after “active duty” in introductory provisions.
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–417, §517(a), struck out “in command of a National Guard unit” after “active duty” in introductory provisions.
 
 Subsecs. (b), (c). Pub. L. 110–417, §517(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-2006—Subsec. (a). Pub. L. 109–163 substituted “State, or of the Commonwealth of Puerto Rico, Guam, or the Virgin Islands” for “State or Territory, or of Puerto Rico” in par. (1) and introductory provisions of par. (2) and “State or Territory or Puerto Rico” in par. (2)(B).
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted “State, or of the Commonwealth of Puerto Rico, Guam, or the Virgin Islands” for “State or Territory, or of Puerto Rico” in par. (1) and introductory provisions of par. (2) and “State or Territory or Puerto Rico” in par. (2)(B).
 
-2003—Subsec. (a). Pub. L. 108–136, §516(a), substituted “(a)
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §516(a), substituted “(a)
 
 Relief Required.—(1) Except as provided in paragraph (2), each” for “(a) Each” and added par. (2).
 
 Subsec. (b). Pub. L. 108–136, §516(b), inserted heading.
 
-1988—Subsec. (a). Pub. L. 100–456 struck out “, the Canal Zone,” after “Puerto Rico”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–456 struck out “, the Canal Zone,” after “Puerto Rico”.
 
 #### National Guard Support for 2004 Democratic and Republican National Conventions and Other Appropriate Events
 
@@ -64,7 +64,7 @@ Memorandum of President of the United States, July 23, 2004, 69 F.R. 46397, prov
 
 Memorandum for the Secretary of Defense
 
-By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority of the President contained in section 325 of title 32, United States Code, with respect to activities related to the 2004 Democratic and Republican National Conventions, and other appropriate events as you determine from time to time in consultation with the Assistant to the President for Homeland Security.
+By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority of the President contained in section 325 of title 32, United States Code, with respect to activities related to the2004 Democratic and Republican National Conventions, and other appropriate events as you determine from time to time in consultation with the Assistant to the President for Homeland Security.
 
 You are further authorized and directed to make necessary arrangements to fund this activity from the proper appropriations and to publish this memorandum in the Federal Register.
 

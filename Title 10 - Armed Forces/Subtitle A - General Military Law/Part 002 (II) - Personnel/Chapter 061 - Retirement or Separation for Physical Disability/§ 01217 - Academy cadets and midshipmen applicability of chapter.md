@@ -1,6 +1,6 @@
 ### §1217. Academy cadets and midshipmen: applicability of chapter
 
-(a) This chapter applies to cadets at the United States Military Academy, the UnitedStates Air Force Academy, and the United States Coast Guard Academy and midshipmen of the United States Naval Academy, but only with respect to physical disabilities incurred after October 28, 2004.
+(a) This chapter applies to cadets at the United States Military Academy, the United States Air Force Academy, and the United States Coast Guard Academy and midshipmen of the United States Naval Academy, but only with respect to physical disabilities incurred after October 28, 2004.
 
 (b) Monthly cadet pay and monthly midshipman pay under section 203(c) of title 37 shall be considered to be basic pay for purposes of this chapter and the computation of retired pay and severance and separation pay to which entitlement is established under this chapter.
 
@@ -30,11 +30,11 @@ Aviation cadets were omitted from chapter 61 because Title IV of the Career Comp
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–364 substituted “October 28, 2004” for “the date of the enactment of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–364 substituted “October 28, 2004” for “the date of the enactment of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005”.
 
-2004—Pub. L. 108–375 amended section catchline and text generally. Prior to amendment, text read as follows: “This chapter does not apply to cadets at the United States Military Academy, the United States Air Force Academy, or the Coast Guard Academy, or to midshipmen of the Navy.”
+<b>2004</b>—Pub. L. 108–375 amended section catchline and text generally. Prior to amendment, text read as follows: “This chapter does not apply to cadets at the United States Military Academy, the United States Air Force Academy, or the Coast Guard Academy, or to midshipmen of the Navy.”
 
-1958—Pub. L. 85–861 struck out provisions which made chapter inapplicable to aviation cadets.
+<b>1958</b>—Pub. L. 85–861 struck out provisions which made chapter inapplicable to aviation cadets.
 
 #### Effective Date of 1958 Amendment
 

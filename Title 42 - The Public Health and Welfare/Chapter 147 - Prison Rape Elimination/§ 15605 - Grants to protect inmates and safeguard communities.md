@@ -48,7 +48,7 @@ Amounts received by a grantee under this section may be used by the grantee, dir
 
 #### (3) Matching
 
-&emsp;The Federal share of a grant under this section may not exceed 50 percent of the total costs of the project described in the application submitted under subsection (d) for the fiscal year for which the grant was made under this section.
+&emsp;The Federal share of a grant under this section may not exceed 50 percent of the totalcosts of the project described in the application submitted under subsection (d) for the fiscal year for which the grant was made under this section.
 
 #### (d) Applications
 

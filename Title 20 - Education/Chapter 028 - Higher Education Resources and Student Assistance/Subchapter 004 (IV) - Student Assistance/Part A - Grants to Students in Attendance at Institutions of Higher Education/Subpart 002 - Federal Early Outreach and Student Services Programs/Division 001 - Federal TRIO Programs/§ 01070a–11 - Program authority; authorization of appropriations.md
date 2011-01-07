@@ -8,7 +8,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (1) Recipients
 
-&emsp;For the purposes described in subsection (a) of this section, the Secretary is authorized, without regard to section 5 of title 41, to make grants to, and contracts with, institutions of higher education, public and private agencies and organizations, including community-based organizations with experience in serving disadvantaged youth, combinations of such institutions, agencies and organizations, and, as appropriate to the purposes of the program, secondary schools, for planning, developing, or carrying out one or more of the services assisted under this division.
+&emsp;For the purposes described in subsection (a) of this section, the Secretary is authorized, without regard to section 6101 of title 41, to make grants to, and contracts with, institutions of higher education, public and private agencies and organizations, including community-based organizations with experience in serving disadvantaged youth, combinations of such institutions, agencies and organizations, and, as appropriate to the purposes of the program, secondary schools, for planning, developing, or carrying out one or more of the services assisted under this division.
 
 #### (2) Duration
 
@@ -104,7 +104,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 &emsp;&emsp;&emsp;&emsp;(I) review such evidence and provide a timely response to the applicant; and
 
-&emsp;&emsp;&emsp;&emsp;(II) if the Secretary determines that a scoring error was made by the Department or a peer reviewer, adjust the prior experience points or final score of the application appropriately and quickly, so as not to interfere with the timelyawarding of grants for the applicable grant competition.
+&emsp;&emsp;&emsp;&emsp;(II) if the Secretary determines that a scoring error was made by the Department or a peer reviewer, adjust the prior experience points or final score of the application appropriately and quickly, so as not to interfere with the timely awarding of grants for the applicable grant competition.
 
 #### (iv) Error in peer review process
 
@@ -228,7 +228,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 &emsp;&emsp;&emsp;(ii) such students’ school performance, as measured by the grade point average, or its equivalent;
 
-&emsp;&emsp;&emsp;(iii) such students’ academic performance, as measured by standardized tests, including tests required by the students’ State;
+&emsp;&emsp;&emsp;(iii) such students’ academic performance, as measured by standardized tests,including tests required by the students’ State;
 
 &emsp;&emsp;&emsp;(iv) the retention in, and graduation from, secondary school of such students;
 
@@ -256,7 +256,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 &emsp;&emsp;(D) For programs authorized under section 1070a–15 of this title, the extent to which the entity met or exceeded the entity's objectives for such program regarding—
 
-&emsp;&emsp;&emsp;(i) the delivery of service to a total number of students served by the program, asagreed upon by the entity and the Secretary for the period;
+&emsp;&emsp;&emsp;(i) the delivery of service to a total number of students served by the program, as agreed upon by the entity and the Secretary for the period;
 
 &emsp;&emsp;&emsp;(ii) the provision of appropriate scholarly and research activities for the students served by the program;
 
@@ -280,7 +280,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (g) Authorization of appropriations
 
-For the purpose of making grants and contracts under this division, there are authorized to be appropriated $900,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years. Of the amount appropriated under this division, the Secretary may use no more than 1/2 of 1 percent of such amount to obtain additional qualified readers and additional staff to review applications, to increase the level of oversight monitoring, to support impact studies, program assessments and reviews, and to provide technical assistance to potential applicants and current grantees. In expending these funds, the Secretary shall give priority to the additional administrative requirements provided in the Higher Education Amendments of 1992, to outreach activities, and to obtaining additional readers.
+For the purpose of making grants and contracts under this division, there are authorized to be appropriated $900,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years. Of the amount appropriated under this division, the Secretary may use no more than ½ of 1 percent of such amount to obtain additional qualified readers and additional staff to review applications, to increase the level of oversight monitoring, to support impact studies, program assessments and reviews, and to provide technical assistance to potential applicants and current grantees. In expending these funds, the Secretary shall give priority to the additional administrative requirements provided in the Higher Education Amendments of 1992, to outreach activities, and to obtaining additional readers.
 
 #### (h) Definitions
 
@@ -344,13 +344,17 @@ The Higher Education Amendments of 1992, referred to in subsec. (g), is Pub. L. 
 
 Section 402(b) of Pub. L. 102–325 provided that: “Reference in any provision of law (other than the Act \[20 U.S.C. 1001 et seq.\]) to subpart 2, 3, or 4 of part A of title IV of the Act shall, after the date of enactment of this Act \[July 23, 1992\], be deemed to refer to subpart 3 \[20 U.S.C. 1070b et seq.\], 4 \[20 U.S.C. 1070c et seq.\], or 2 \[20 U.S.C. 1070a–11 et seq.\] of such part, respectively.”
 
+#### Codification
+
+In subsec. (b)(1), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-2009—Subsec. (b)(1). Pub. L. 111–39, §401(a)(4)(A), substituted “organizations, including” for “organizations including”.
+<b>2009</b>—Subsec. (b)(1). Pub. L. 111–39, §401(a)(4)(A), substituted “organizations, including” for “organizations including”.
 
 Subsec. (c)(8)(C)(iv)(I). Pub. L. 111–39, §401(a)(4)(B), inserted “to be” after “determined”.
 
-2008—Subsec. (b)(1). Pub. L. 110–315, §403(a)(1)(A), inserted “including community-based organizations with experience in serving disadvantaged youth” after “private agencies and organizations” and substituted “, as appropriate to the purposes of the program” for “in exceptional circumstances”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–315, §403(a)(1)(A), inserted “including community-based organizations with experience in serving disadvantaged youth” after “private agencies and organizations” and substituted “, as appropriate to the purposes of the program” for “in exceptional circumstances”.
 
 Subsec. (b)(2). Pub. L. 110–315, §403(a)(1)(B)(i), substituted “5 years” for “4 years” in introductory provisions.
 
@@ -380,7 +384,7 @@ Subsec. (e)(3). Pub. L. 110–315, §403(a)(3)(B), added par. (3).
 
 Subsec. (f). Pub. L. 110–315, §403(a)(5), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 110–315, §403(a)(6), substituted “$900,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years” for “$700,000,000 for fiscal year 1999, and such sums as may be necessary for each of the 4 succeeding fiscal years” and struck out last sentence which read as follows: “The Secretary shall report to Congress by October 1, 1994, on the use of these funds.”
+Subsec. (g). Pub. L. 110–315, §403(a)(6), substituted “$900,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years” for “$700,000,000 for fiscal year 1999, and suchsums as may be necessary for each of the 4 succeeding fiscal years” and struck out last sentence which read as follows: “The Secretary shall report to Congress by October 1, 1994, on the use of these funds.”
 
 Pub. L. 110–315, §403(a)(4), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
@@ -396,7 +400,7 @@ Subsec. (h)(5)(C), (D). Pub. L. 110–315, §403(a)(7)(C)(iii), added subpars. (
 
 Subsec. (h)(6). Pub. L. 110–315, §403(a)(7)(D), substituted “subparagraph (A), (B), or (C) of paragraph (5)” for “subparagraph (A) or (B) of paragraph (3)”.
 
-1998—Subsec. (b)(2)(C). Pub. L. 105–244, §402(a)(1), added subpar. (C).
+<b>1998</b>—Subsec. (b)(2)(C). Pub. L. 105–244, §402(a)(1), added subpar. (C).
 
 Subsec. (b)(3). Pub. L. 105–244, §402(a)(2), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “In any year in which the appropriations authorized under this division exceed the prior year appropriation as adjusted for inflation, the Secretary shall use 80 percent of the amount appropriated above the current services level to bring each award up to the minimum grant level or the amount requested by the institution or agency, whichever is less. The minimum grant level (A) for programs authorized under section 1070a–14 or 1070a–17 of this title, shall not be less than $170,000 for fiscal year 1993; (B) for programs authorized under section 1070a–12 or 1070a–16 of this title shall not be less than $180,000 for fiscal year 1994; and (C) for programs authorized under section 1070a–13 or 1070a–15 of this title shall not be less than $190,000 for fiscal year 1995.”
 
@@ -408,7 +412,7 @@ Subsec. (f). Pub. L. 105–244, §402(a)(4), substituted “$700,000,000 for fis
 
 Subsec. (g)(4). Pub. L. 105–244, §402(a)(5), added par. (4).
 
-1993—Subsec. (b)(2). Pub. L. 103–208, §2(b)(6), added par. (2) and struck out former par. (2) which read as follows: “Grants or contracts made under this division shall be awarded for a period of 4 years, except that the Secretary shall award such grants or contracts for 5 years to applicants whose peer review scores were in the highest 10 percent of scores of all applicants receiving grants or contracts in each program competition for the same award year.”
+<b>1993</b>—Subsec. (b)(2). Pub. L. 103–208, §2(b)(6), added par. (2) and struck out former par. (2) which read as follows: “Grants or contracts made under this division shall be awarded for a period of 4 years, except that the Secretary shall award such grants or contracts for 5 years to applicants whose peer review scores were in the highest 10 percent of scores of all applicants receiving grants or contracts in each program competition for the same award year.”
 
 Subsec. (c)(1). Pub. L. 103–208, §2(b)(7), inserted before period at end of second sentence “, except that in the case of the programs authorized in sections 1070a–15 and 1070a–17 of this title, the level of consideration given to prior experience shall be the same as the level of consideration given this factor in the other programs authorized in this division”.
 

@@ -2,19 +2,37 @@
 
 (a)
 
-In General.—An individual entitled to educational assistance under this chapter shall also be entitled to payment for one licensing or certification test described in section 3452(b).
+In General.—An individual entitled to educational assistance under this chapter shall also be entitled to payment for licensing or certification tests described in section 3452(b).
 
 (b)
 
 Limitation on Amount.—The amount payable under subsection (a) for a licensing or certification test may not exceed the lesser of—
 
-&emsp;(1) $2,000; or
+&emsp;(1) $2,000;
 
-&emsp;(2) the fee charged for the test.
+&emsp;(2) the fee charged for the test; or
+
+&emsp;(3) the amount of entitlement available to the individual under this chapter at the time of payment for the test under this section.
 
 (c)
 
-No Charge Against Entitlement.—Any amount paid an individual under subsection (a) is in addition to any other educational assistance benefits provided the individual under this chapter.
+Charge Against Entitlement.—The charge against an individual's entitlement under this chapter for payment for a licensing or certification test shall be determined at the rate of one month (rounded to the nearest whole month) for each amount paid that equals—
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2367.)
+&emsp;(1) for the academic year beginning on August 1, 2011, $1,460; or
+
+&emsp;(2) for an academic year beginning on any subsequent August 1, the amount for the previous academic year beginning on August 1 under this subsection, as increased by the percentage increase equal to the most recent percentage increase determined under section 3015(h).
+
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2367; amended Pub. L. 111–377, title I, §107(a), (b), Jan. 4, 2011, 124 Stat. 4118.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 111–377, §107(a), substituted “licensing or certification tests” for “one licensing or certification test”.
+
+Subsec. (b)(3). Pub. L. 111–377, §107(b)(2), added par. (3).
+
+Subsec. (c). Pub. L. 111–377, §107(b)(1), amended subsec. (c) generally. Prior to amendment, text read as follows: “Any amount paid an individual under subsection (a) is in addition to any other educational assistance benefits provided the individual under this chapter.”
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–377, title I, §107(c), Jan. 4, 2011, 124 Stat. 4118, provided that: “The amendments made by this section \[amending this section\] shall take effect on August 1, 2011, and shall apply with respect to licensure and certification tests taken on or after that date.”
 

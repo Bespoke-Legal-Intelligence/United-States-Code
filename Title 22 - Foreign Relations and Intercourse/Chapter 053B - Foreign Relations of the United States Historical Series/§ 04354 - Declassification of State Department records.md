@@ -16,7 +16,7 @@ Subsection (a) of this section shall not apply to any record (or portion thereof
 
 &emsp;(3) would demonstrably impede current diplomatic negotiations or other ongoing official activities of the United States Government or would demonstrably impair the national security of the United States; or
 
-&emsp;(4) would disclose matters that are related solely to the internal personnel rules and practices of the Department of State or arecontained in personnel, medical, or similar files the disclosure of which would constitute a clearly unwarranted invasion of personal privacy.
+&emsp;(4) would disclose matters that are related solely to the internal personnel rules and practices of the Department of State or are contained in personnel, medical, or similar files the disclosure of which would constitute a clearly unwarranted invasion of personal privacy.
 
 #### (c) Review
 
@@ -54,7 +54,7 @@ The Advisory Committee shall annually submit to the Secretary of State and to th
 
 #### Amendments
 
-2002—Subsec. (d). Pub. L. 107–228, §205(a), substituted “Annual reports by the Advisory Committee” for “Reporting requirement” in heading and inserted “and to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives” after “Secretary of State” in text.
+<b>2002</b>—Subsec. (d). Pub. L. 107–228, §205(a), substituted “Annual reports by the Advisory Committee” for “Reporting requirement” in heading and inserted “and to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives” after “Secretary of State” in text.
 
 Subsec. (e). Pub. L. 107–228, §205(b), substituted “Annual reports by the Secretary” for “Report to Congress” in heading and amended text generally. Prior to amendment, text read as follows: “Not later than 180 days after October 28, 1991, the Secretary of State shall prepare and submit a written report to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate on factors relevant to compliance with this section, and the procedures to be used for implementing the requirements of this section.”
 

@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (B) Income in subsequent years
 
-&emsp;&emsp;If any taxpayer has any loss for any taxable year from a working interest in any oil or gas property which is treated as a loss which is not from a passive activity, then any net income from such property (or any property the basis of which is determined in whole or in part by reference to the basis of such property) for any succeeding taxable year shall be treated as income of the taxpayer which is not from a passive activity. If the preceding sentence applies to the net income from any property for any taxable year, any credits allowable under subpart B (other than section 27(a)) or D of part IV of subchapter A for such taxable year which are attributable to such property shall be treated as credits not from a passive activity to the extent the amount of such credits does not exceed the regular tax liability of the taxpayer for the taxable year which is allocable to such net income.
+&emsp;&emsp;If any taxpayer has any loss for any taxable year from a working interest in any oil or gas property which is treated as a loss which is not from a passive activity, then any net income from such property (or any property the basis of which is determined in whole or in part by reference to the basis of such property) for any succeeding taxable year shall be treated as income of the taxpayer which is not from a passive activity. If the preceding sentence applies to the net income from any property for any taxable year, any credits allowable under subpart B (other than section 27(a)) or D of part IV of subchapter A for such taxable year which are attributable to such property shall betreated as credits not from a passive activity to the extent the amount of such credits does not exceed the regular tax liability of the taxpayer for the taxable year which is allocable to such net income.
 
 #### (4) Material participation not required for paragraphs (2) and (3)
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) any—
 
-&emsp;&emsp;&emsp;&emsp;(I) gross income from interest, dividends, annuities, or royalties not derivedin the ordinary course of a trade or business,
+&emsp;&emsp;&emsp;&emsp;(I) gross income from interest, dividends, annuities, or royalties not derived in the ordinary course of a trade or business,
 
 &emsp;&emsp;&emsp;&emsp;(II) expenses (other than interest) which are clearly and directly allocable to such gross income, and
 
@@ -236,13 +236,13 @@ If during the taxable year a taxpayer disposes of his entire interest in any pas
 
 #### (C) Income from prior years
 
-&emsp;&emsp;To the extent provided in regulations, income or gain from the activity for preceding taxable years shall be taken into account under subparagraph (A)(ii) for the taxableyear to the extent necessary to prevent the avoidance of this section.
+&emsp;&emsp;To the extent provided in regulations, income or gain from the activity for preceding taxable years shall be taken into account under subparagraph (A)(ii) for the taxable year to the extent necessary to prevent the avoidance of this section.
 
 #### (2) Disposition by death
 
 &emsp;If an interest in the activity is transferred by reason of the death of the taxpayer—
 
-&emsp;&emsp;(A) paragraph (1)(A) shall apply to losses described in paragraph (1)(A) to the extent such losses are greater than the excess (if any) of—
+&emsp;&emsp;(A) paragraph (1)(A) shall apply to losses described in paragraph (1)(A) to the extentsuch losses are greater than the excess (if any) of—
 
 &emsp;&emsp;&emsp;(i) the basis of such property in the hands of the transferee, over
 
@@ -525,9 +525,9 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;&emsp;The portion of the passive activity loss (or passive activity credit) for any taxable year which is attributable to pre-enactment interests is the lesser of—
 
-&emsp;&emsp;&emsp;(i) the amount of the passive activity loss (or passive activity credit) which isdisallowed for the taxable year under subsection (a) (without regard to this subsection), or
+&emsp;&emsp;&emsp;(i) the amount of the passive activity loss (or passive activity credit) which is disallowed for the taxable year under subsection (a) (without regard to this subsection), or
 
-&emsp;&emsp;&emsp;(ii) the amount of the passive activity loss (or passive activity credit) which would be disallowed for the taxable year (without regard to this subsection and without regard to any amount allocable to an activity for the taxable year under subsection (b)) taking into account only pre-enactment interests.
+&emsp;&emsp;&emsp;(ii) the amount of the passive activity loss (or passive activity credit) which would be disallowed for the taxable year\(without regard to this subsection and without regard to any amount allocable to an activity for the taxable year under subsection (b)) taking into account only pre-enactment interests.
 
 #### (B) Pre-enactment interest
 
@@ -559,11 +559,11 @@ The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. 
 
 #### Amendments
 
-2004—Subsec. (i)(3)(F)(iii). Pub. L. 108–357, §102(d)(5), inserted “199,” before “219,”.
+<b>2004</b>—Subsec. (i)(3)(F)(iii). Pub. L. 108–357, §102(d)(5), inserted “199,” before “219,”.
 
 Subsec. (k)(4). Pub. L. 108–357, §331(g), added par. (4).
 
-2002—Subsec. (i)(3)(E)(ii) to (iv). Pub. L. 107–147 added cls. (ii) to (iv) and struck out former cls. (ii) to (iv) which read as follows:
+<b>2002</b>—Subsec. (i)(3)(E)(ii) to (iv). Pub. L. 107–147 added cls. (ii) to (iv) and struck out former cls. (ii) to (iv) which read as follows:
 
 “(ii) second to the portion of the passive activity credit to which subparagraph (B) or (D) does not apply,
 
@@ -571,9 +571,9 @@ Subsec. (k)(4). Pub. L. 108–357, §331(g), added par. (4).
 
 “(iv) fourth to the portion of such loss to which subparagraph (C) applies, and”.
 
-2001—Subsec. (i)(3)(F)(iii). Pub. L. 107–16, §§431(c)(3), 901, temporarily substituted “, 221, and 222” for “and 221”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (i)(3)(F)(iii). Pub. L. 107–16, §§431(c)(3), 901, temporarily substituted “, 221, and 222” for “and 221”. See Effective and Termination Dates of 2001 Amendment note below.
 
-2000—Subsec. (i)(3)(C) to (F). Pub. L. 106–554, §1(a)(7) \[title I, §101(b)(1), (2)\], added subpar. (C), redesignated former subpars. (C) to (E) as (D) to (F), respectively, and generally amended heading and text of subpar. (E), as redesignated. Prior to amendment, text read as follows: “If subparagraph (B) or (C) applies for any taxable year, paragraph (1) shall be applied—
+<b>2000</b>—Subsec. (i)(3)(C) to (F). Pub. L. 106–554, §1(a)(7) \[title I, §101(b)(1), (2)\], added subpar. (C), redesignated former subpars. (C) to (E) as (D) to (F), respectively, and generally amended heading and text of subpar. (E), as redesignated. Prior to amendment, text read as follows: “If subparagraph (B) or (C) applies for any taxable year, paragraph (1) shall be applied—
 
 &emsp;“(i) first to the passive activity loss,
 
@@ -587,9 +587,9 @@ Subsec. (i)(6)(B). Pub. L. 106–554, §1(a)(7) \[title I, §101(b)(3)(B)\], sub
 
 Subsec. (i)(6)(B)(iii). Pub. L. 106–554, §1(a)(7) \[title I, §101(b)(3)(A)\], added cl. (iii).
 
-1998—Subsec. (i)(3)(E)(iii). Pub. L. 105–277 amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “any amount allowable as a deduction under section 219, and”.
+<b>1998</b>—Subsec. (i)(3)(E)(iii). Pub. L. 105–277 amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “any amount allowable as a deduction under section 219, and”.
 
-1996—Subsec. (c)(3)(B). Pub. L. 104–188, §1704(d)(1), inserted at end “If the preceding sentence applies to the net income from any property for any taxable year, any credits allowable under subpart B (other than section 27(a)) or D of part IV of subchapter A for such taxable year which are attributable to such property shall be treated as credits not from a passive activity to the extent the amount of such credits does not exceed the regular tax liability of the taxpayer for the taxable year which is allocable to such net income.”
+<b>1996</b>—Subsec. (c)(3)(B). Pub. L. 104–188, §1704(d)(1), inserted at end “If the preceding sentence applies to the net income from any property for any taxable year, any credits allowable under subpart B (other than section 27(a)) or D of part IV of subchapter A for such taxable year which are attributable to such property shall be treated as credits not from a passive activity to the extent the amount of such credits does not exceed the regular tax liability of the taxpayer for the taxable year which is allocable to such net income.”
 
 Subsec. (g)(1)(A). Pub. L. 104–188, §1704(e)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If all gain or loss realized on such disposition is recognized, the excess of—
 
@@ -605,19 +605,19 @@ Subsec. (g)(1)(A). Pub. L. 104–188, §1704(e)(1), reenacted heading without ch
 
 Subsec. (i)(3)(E)(ii). Pub. L. 104–188, §1807(c)(4), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the amount excludable from gross income under section 135,”.
 
-1993—Subsec. (c)(2). Pub. L. 103–66, §13143(b)(1), substituted “Except as provided in paragraph (7), the” for “The”.
+<b>1993</b>—Subsec. (c)(2). Pub. L. 103–66, §13143(b)(1), substituted “Except as provided in paragraph (7), the” for “The”.
 
 Subsec. (c)(7). Pub. L. 103–66, §13143(a), added par. (7).
 
 Subsec. (i)(3)(E)(iv). Pub. L. 103–66, §13143(b)(2), inserted “or any loss allowable by reason of subsection (c)(7)” after “loss”.
 
-1990—Subsec. (i)(3)(B), (6)(B)(ii). Pub. L. 101–508, §11813(b)(16)(A), substituted “rehabilitation credit determined under section 47” for “rehabilitation investment credit (within the meaning of section 48(<i>o</i>))”.
+<b>1990</b>—Subsec. (i)(3)(B), (6)(B)(ii). Pub. L. 101–508, §11813(b)(16)(A), substituted “rehabilitation credit determined under section 47” for “rehabilitation investment credit (within the meaning of section 48(<i>o</i>))”.
 
 Subsec. (k)(1). Pub. L. 101–508, §11813(b)(16)(B), substituted “rehabilitation credit determined under section 47” for “rehabilitation investment credit (within the meaning of section 48(<i>o</i>))”.
 
 Subsec. (m)(3)(A). Pub. L. 101–508, §11704(a)(6), substituted “pre-enactment” for “preenactment”.
 
-1989—Subsec. (i)(3)(B), (C). Pub. L. 101–239 added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
+<b>1989</b>—Subsec. (i)(3)(B), (C). Pub. L. 101–239 added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
 
 “(B)
 
@@ -635,7 +635,7 @@ Ordering rule to reflect separate phase-outs.—If subparagraph (B) applies for 
 
 Subsec. (i)(3)(D), (E). Pub. L. 101–239 added subpar. (D) and redesignated former subpar. (D) as (E).
 
-1988—Subsec. (e)(1)(A)(ii). Pub. L. 100–647, §1005(a)(1), inserted “not derived in the ordinary course of a trade or business which is” after “gain or loss”.
+<b>1988</b>—Subsec. (e)(1)(A)(ii). Pub. L. 100–647, §1005(a)(1), inserted “not derived in the ordinary course of a trade or business which is” after “gain or loss”.
 
 Subsec. (g)(1)(A). Pub. L. 100–647, §1005(a)(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “If all gain or loss realized on such disposition is recognized, any loss from such activity which has not previously been allowed as a deduction (and in the case of a passive activity for the taxable year, any loss realized on such disposition) shall not be treated as a passive activity loss and shall be allowable as a deduction against income in the following order:
 
@@ -687,7 +687,7 @@ Subsec. (m)(3)(A). Pub. L. 100–647, §1005(a)(12), added subpar. (A) and struc
 
 > For purposes of this subparagraph, the deduction equivalent (within the meaning of subsection (j)(5)) of a passive activity credit shall be taken into account.”
 
-1987—Subsecs. (k) to (m). Pub. L. 100–203 added subsec. (k) and redesignated former subsecs. (k) and (<i>l</i>) as (<i>l</i>) and (m), respectively.
+<b>1987</b>—Subsecs. (k) to (m). Pub. L. 100–203 added subsec. (k) and redesignated former subsecs. (k) and (<i>l</i>) as (<i>l</i>) and (m), respectively.
 
 #### Effective Date of 2004 Amendment
 
@@ -703,7 +703,7 @@ Amendment by Pub. L. 107–147 effective as if included in the provisions of the
 
 Amendment by Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -711,11 +711,11 @@ Amendment by Pub. L. 105–277 effective as if included in the provision of the 
 
 #### Effective Date of 1996 Amendment
 
-Section 1704(d)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply to taxable years beginning after December 31, 1986.”
+Section 1704(d)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
 Section 1704(e)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
-Amendment by section 1807(c)(4) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1807(e) of Pub. L. 104–188, set out as an Effective Date note under section 23 of this title.
+Amendment by section 1807(c)(4) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1807(e) of Pub. L. 104–188, set out as an Effective Date note under section 36C of this title.
 
 #### Effective Date of 1993 Amendment
 

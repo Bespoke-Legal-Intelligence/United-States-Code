@@ -6,7 +6,7 @@ It shall be unlawful—
 
 &emsp;(1) for any manufacturer or private labeler to distribute in commerce any new covered product to which a rule under section 6294 of this title applies, unless such covered product is labeled in accordance with such rule;
 
-&emsp;(2) for any manufacturer, distributor, retailer, or private labeler to remove from anynew covered product or render illegible any label required to be provided with such product under a rule under section 6294 of this title;
+&emsp;(2) for any manufacturer, distributor, retailer, or private labeler to remove from any new covered product or render illegible any label required to be provided with such product under a rule under section 6294 of this title;
 
 &emsp;(3) for any manufacturer to fail to permit access to, or copying of, records required to be supplied under this part, or fail to make reports or provide other information required to be supplied under this part;
 
@@ -30,7 +30,7 @@ For purposes of this section, the term “new covered product” means a covered
 
 #### Amendments
 
-2007—Subsec. (a)(4). Pub. L. 110–140, §321(e)(1), which directed the striking out of “or” after semicolon at end, could not be executed after amendment by Pub. L. 110–140, §306(b)(1). See below.
+<b>2007</b>—Subsec. (a)(4). Pub. L. 110–140, §321(e)(1), which directed the striking out of “or” after semicolon at end, could not be executed after amendment by Pub. L. 110–140, §306(b)(1). See below.
 
 Pub. L. 110–140, §306(b)(1), struck out “or” after semicolon at end.
 
@@ -42,7 +42,7 @@ Subsec. (a)(6). Pub. L. 110–140, §321(e)(3), added par. (6) relating to prohi
 
 Pub. L. 110–140, §306(b)(3), added par. (6) relating to sale of a product to a distributor, contractor, or dealer with knowledge that the entity routinely violates a regional standard.
 
-1987—Subsec. (a). Pub. L. 100–12, §11(b)(5)(A), inserted heading.
+<b>1987</b>—Subsec. (a). Pub. L. 100–12, §11(b)(5)(A), inserted heading.
 
 Subsec. (a)(5). Pub. L. 100–12, §11(a)(3), substituted “energy conservation standard established in or prescribed under” for “energy efficiency standard prescribed under”.
 

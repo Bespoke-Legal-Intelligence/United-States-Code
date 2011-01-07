@@ -36,7 +36,7 @@
 
 &emsp;(2) the formulation of policies and programs by the Department of the Army that are fully consistent with national security objectives and policies established by the President or the Secretary of Defense;
 
-&emsp;(3) the effective and timely implementation of policy, program, and budget decisions andinstructions of the President or the Secretary of Defense relating to the functions of the Department of the Army;
+&emsp;(3) the effective and timely implementation of policy, program, and budget decisions and instructions of the President or the Secretary of Defense relating to the functions of the Department of the Army;
 
 &emsp;(4) carrying out the functions of the Department of the Army so as to fulfill the current and future operational requirements of the unified and specified combatant commands;
 
@@ -70,9 +70,9 @@ Another prior section 3013 was renumbered section 3014 of this title and subsequ
 
 #### Amendments
 
-2003—Subsec. (c)(4). Pub. L. 108–136 struck out “(to the maximum extent practicable)” after “fulfill”.
+<b>2003</b>—Subsec. (c)(4). Pub. L. 108–136 struck out “(to the maximum extent practicable)” after “fulfill”.
 
-1986—Subsec. (a)(2). Pub. L. 99–661 substituted “five years” for “10 years”.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–661 substituted “five years” for “10 years”.
 
 #### Expansion of First Sergeants Barracks Initiative
 
@@ -136,7 +136,7 @@ Elements.—The report under paragraph (1) shall include the following:
 
 &emsp;&emsp;“(B) A discussion and description of the training ranges and other essential elements required to support the training strategy.
 
-&emsp;&emsp;“(C) A list of the funding requirements, shown by fiscal year and set forth in a format consistent with the future-years defense program to accompany thebudget of the President under section 221 of title 10, United States Code, necessary to meet the requirements of the training ranges and other essential elements described under subparagraph (B).
+&emsp;&emsp;“(C) A list of the funding requirements, shown by fiscal year and set forth in a format consistent with the future-years defense program to accompany the budget of the President under section 221 of title 10, United States Code, necessary to meet the requirements of the training ranges and other essential elements described under subparagraph (B).
 
 &emsp;&emsp;“(D) A schedule for the implementation of the training strategy.
 

@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 R.S. 5299.
 
-The words “armed forces” are substituted for the words “land or naval forces of the United States”. The word “shall” is substituted for the words “it shall be lawful for and it shall be his duty”.
+The words “armed forces” are substituted for the words “land or naval forces of the United States”. The word “shall” is substituted for the words “it shall be lawful for \* \* \* and it shall be his duty”.
 
 #### Derivation
 
@@ -32,9 +32,9 @@ Act Apr. 20, 1871, ch. 22, §3, 17 Stat. 14.
 
 #### Amendments
 
-2008—Pub. L. 110–181 amended section generally, substituting provisions directing the President to suppress certain insurrections and domestic violence in a State for provisions authorizing the President to employ the armed forces during a natural disaster or terrorist attack or to suppress an insurrection in a State and requiring notice to Congress during the exercise of such authority.
+<b>2008</b>—Pub. L. 110–181 amended section generally, substituting provisions directing the President to suppress certain insurrections and domestic violence in a State for provisions authorizing the President to employ the armed forces during a natural disaster or terrorist attack or to suppress an insurrection in a State and requiring notice to Congress during the exercise of such authority.
 
-2006—Pub. L. 109–364 amended section catchline and text generally, substituting provisions authorizing the President to employ the armed forces during a natural disaster or terrorist attack or to suppress an insurrection in a State and requiring notice to Congress during the exercise of such authority for provisions directing the President to suppress certain insurrections and domestic violence in a State.
+<b>2006</b>—Pub. L. 109–364 amended section catchline and text generally, substituting provisions authorizing the President to employ the armed forces during a natural disaster or terrorist attack or to suppress an insurrection in a State and requiring notice to Congress during the exercise of such authority for provisions directing the President to suppress certain insurrections and domestic violence in a State.
 
 #### Effective Date of 2008 Amendment
 

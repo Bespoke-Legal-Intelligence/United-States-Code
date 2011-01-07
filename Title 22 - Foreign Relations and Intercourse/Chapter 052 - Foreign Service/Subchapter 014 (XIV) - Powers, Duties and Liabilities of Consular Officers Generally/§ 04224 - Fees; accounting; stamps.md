@@ -16,7 +16,7 @@ Section was formerly classified to section 812 of this title, and prior thereto 
 
 #### Amendments
 
-1931—Act Feb. 23, 1931, substituted “shall apply to diplomatic officers below the grade of minister and to consular officers” for “shall include both branches of the Foreign Service”.
+<b>1931</b>—Act Feb. 23, 1931, substituted “shall apply to diplomatic officers below the grade of minister and to consular officers” for “shall include both branches of the Foreign Service”.
 
 #### Effective Date of 1931 Amendment
 

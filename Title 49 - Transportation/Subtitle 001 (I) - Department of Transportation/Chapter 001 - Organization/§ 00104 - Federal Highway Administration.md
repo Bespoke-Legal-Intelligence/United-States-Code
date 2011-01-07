@@ -74,7 +74,7 @@ In subsection (b)(1), the words “Each of these components” are omitted as su
 
 In subsection (b)(2), the words “In addition to the Administrator of the Federal Highway Administration authorized by section 3(e) of the Department of Transportation Act” in 23:303(a)(1) (1st sentence) are omitted as surplus.
 
-In subsection (b)(3), the words “in the competitive service” are substituted for “under the classified civil service” to conform to 5:2102. The text of 23:303(b), (c) is omitted as unnecessary because sections 322 and 323 of the revised title restate the authority of the Secretary of Transportation.
+In subsection (b)(3), the words “in the competitive service” are substituted for “under the classified civilservice” to conform to 5:2102. The text of 23:303(b), (c) is omitted as unnecessary because sections 322 and 323 of the revised title restate the authority of the Secretary of Transportation.
 
 In subsection (c), the source provisions are consolidated. The words “The Administrator shall carry out duties and powers” are substituted for “The Secretary shall carry out through the Federal Highway Administration those provisions of the Highway Safety Act of 1966 . . . for” in 23:401 (note) and “carry out the functions, powers, and duties of the Secretary” in 49:1655(f)(3)(B) as being more precise, to eliminate unnecessary words, and for consistency. The words “vested in the Secretary” are substituted for “as set forth in the statutes transferred to the Secretary” in 49:1655(f)(3)(B) for clarity and consistency.
 
@@ -86,13 +86,13 @@ The Truman-Hobbs Act, referred to in subsec. (d), is act June 21, 1940, ch. 409,
 
 #### Amendments
 
-1999—Subsec. (c). Pub. L. 106–159, §101(c)(2)(A), substituted “; and” for the semicolon at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “duties and powers related to motor carrier safety vested in the Secretary by chapters 5 and 315 of this title; and”.
+<b>1999</b>—Subsec. (c). Pub. L. 106–159, §101(c)(2)(A), substituted “; and” for the semicolon at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “duties and powers related to motor carrier safety vested in the Secretary by chapters 5 and 315 of this title; and”.
 
 Subsecs. (d), (e). Pub. L. 106–159, §101(c)(2)(B), (C), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “A duty or power specified by subsection (c)(2) of this section may be transferred to another part of the Department only when specifically provided by law or a reorganization plan submitted under chapter 9 of title 5. A decision of the Administrator in carrying out those duties or powers and involving notice and hearing required by law is administratively final.”
 
-1996—Subsec. (e). Pub. L. 104–324 added subsec. (e).
+<b>1996</b>—Subsec. (e). Pub. L. 104–324 added subsec. (e).
 
-1994—Subsec. (b)(1). Pub. L. 103–272, §4(j)(2), substituted “Administrator” for “Admininstrator” before “who is”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–272, §4(j)(2), substituted “Administrator” for “Admininstrator” before “who is”.
 
 Subsec. (c)(2). Pub. L. 103–272, §5(m)(2), substituted “315” for “31”.
 

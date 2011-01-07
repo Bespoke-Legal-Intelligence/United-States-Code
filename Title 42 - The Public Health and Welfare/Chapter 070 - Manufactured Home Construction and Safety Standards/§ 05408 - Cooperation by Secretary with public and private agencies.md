@@ -10,5 +10,5 @@ The Secretary is authorized to advise, assist, and cooperate with other Federal 
 
 #### Amendments
 
-1980—Pub. L. 96–399 substituted “manufactured home” for “mobile home” in two places.
+<b>1980</b>—Pub. L. 96–399 substituted “manufactured home” for “mobile home” in two places.
 

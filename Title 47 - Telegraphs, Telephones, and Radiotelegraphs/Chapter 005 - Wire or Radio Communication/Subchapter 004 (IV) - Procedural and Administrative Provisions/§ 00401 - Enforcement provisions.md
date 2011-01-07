@@ -6,7 +6,7 @@ The district courts of the United States shall have jurisdiction, upon applicati
 
 #### (b) Orders of Commission
 
-If any person fails or neglects to obey any order of the Commission other than for the payment of money, while the same is in effect, the Commission or any party injured thereby, or theUnited States, by its Attorney General, may apply to the appropriate district court of the United States for the enforcement of such order. If, after hearing, that court determines that the order was regularly made and duly served, and that the person is in disobedience of the same, the court shall enforce obedience to such order by a writ of injunction or other proper process, mandatory or otherwise, to restrain such person or the officers, agents, or representatives of such person, from further disobedience of such order, or to enjoin upon it or them obedience to the same.
+If any person fails or neglects to obey any order of the Commission other than for the payment of money, while the same is in effect, the Commission or any party injured thereby, or the United States, by its Attorney General, may apply to the appropriate district court of the United States for the enforcement of such order. If, after hearing, that court determines that the order was regularly made and duly served, and that the person is in disobedience of the same, the court shall enforce obedience to such order by a writ of injunction or other proper process, mandatory or otherwise, to restrain such person or the officers, agents, or representatives of such person, from further disobedience of such order, or to enjoin upon it or them obedience to the same.
 
 #### (c) Duty to prosecute
 
@@ -20,7 +20,7 @@ This chapter, referred to in subsecs. (a) and (c), was in the original “this A
 
 #### Amendments
 
-1974—Subsec. (d). Pub. L. 93–528 repealed subsec. (d) which provided that the provisions of sections 28 and 29 of title 15, section 345(1) of title 28, and sections 44 and 45 of title 49, shall be held to apply to any suit in equity arising under sections 201 to 222 of this title, wherein the United States is complainant.
+<b>1974</b>—Subsec. (d). Pub. L. 93–528 repealed subsec. (d) which provided that the provisions of sections 28 and 29 of title 15, section 345(1) of title 28, and sections 44 and 45 of title 49, shall be held to apply to any suit in equity arising under sections 201 to 222 of this title, wherein the United States is complainant.
 
 #### Change of Name
 

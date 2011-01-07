@@ -56,15 +56,15 @@ Section was formerly classified to section 4571 of this title prior to renumberi
 
 #### Amendments
 
-1992—Pub. L. 102–321 amended section generally, substituting provisions relating to substance abuse among government and other employees for provisions relating to technical assistance to States relative to alcohol abuse and alcoholism programs.
+<b>1992</b>—Pub. L. 102–321 amended section generally, substituting provisions relating to substance abuse amonggovernment and other employees for provisions relating to technical assistance to States relative to alcohol abuse and alcoholism programs.
 
-1989—Subsec. (a)(4). Pub. L. 101–93 directed that subsec. (a)(4) of this section as similarly amended by title VIII of Pub. L. 100–607 and title VI of Pub. L. 100–628 be amended to read as if the amendments made by title VI of Pub. L. 100–628 had not been enacted. See 1988 Amendment note below.
+<b>1989</b>—Subsec. (a)(4). Pub. L. 101–93 directed that subsec. (a)(4) of this section as similarly amended by title VIII of Pub. L. 100–607 and title VI of Pub. L. 100–628 be amended to read as if the amendments made by title VI of Pub. L. 100–628 had not been enacted. See 1988 Amendment note below.
 
-1988—Subsec. (a)(4). Pub. L. 100–607 and Pub. L. 100–628 made identical technical amendments to reference to section 290dd–2 of this title to reflect renumbering of corresponding section of original act.
+<b>1988</b>—Subsec. (a)(4). Pub. L. 100–607 and Pub. L. 100–628 made identical technical amendments to reference to section 290dd–2 of this title to reflect renumbering of corresponding section of original act.
 
-1984—Pub. L. 98–509 amended directory language of Pub. L. 98–24, §2(b)(13). See 1983 Amendment note below.
+<b>1984</b>—Pub. L. 98–509 amended directory language of Pub. L. 98–24, §2(b)(13). See 1983 Amendment note below.
 
-1983—Pub. L. 98–24, §2(b)(13), as amended by Pub. L. 98–509 renumbered section 4571 of this title as this section.
+<b>1983</b>—Pub. L. 98–24, §2(b)(13), as amended by Pub. L. 98–509 renumbered section 4571 of this title as this section.
 
 Subsec. (a). Pub. L. 98–24, §2(b)(13)(A)(i), substituted “the National Institute on Alcohol Abuse and Alcoholism” for “the Institute”.
 
@@ -72,15 +72,15 @@ Subsec. (a)(4). Pub. L. 98–24, §2(b)(13)(A)(ii), substituted “section 290dd
 
 Subsec. (b). Pub. L. 98–24, §2(b)(13)(A)(iii), substituted “this subchapter” for references to “this chapter”, meaning chapter 60 (§4541 et seq.) of this title, and the Drug Abuse Prevention, Treatment, and Rehabilitation Act \[21 U.S.C. 1101 et seq.\].
 
-1981—Pub. L. 97–35 restructured provisions and substituted provisions relating to technical assistance for enumerated activities, and improvement of coordination with Drug Abuse Prevention, Treatment, and Rehabilitation Act, for provisions authorizing appropriations through fiscal year ending Sept. 30, 1981, for covered activities.
+<b>1981</b>—Pub. L. 97–35 restructured provisions and substituted provisions relating to technical assistance for enumerated activities, and improvement of coordination with Drug Abuse Prevention, Treatment, and Rehabilitation Act, for provisions authorizing appropriations through fiscal year ending Sept. 30, 1981, for covered activities.
 
-1980—Pub. L. 96–180 authorized appropriation of $60,000,000 and $65,000,000 for fiscal years ending Sept. 30, 1980, and 1981.
+<b>1980</b>—Pub. L. 96–180 authorized appropriation of $60,000,000 and $65,000,000 for fiscal years ending Sept. 30, 1980, and 1981.
 
-1976—Pub. L. 94–371 struck out “and” after “1975” and inserted provisions authorizing $70,000,000 to be appropriated for fiscal year ending Sept. 30, 1977, $77,000,000 to be appropriated for fiscal year ending Sept. 30, 1978, and $85,000,000 to be appropriated for fiscal year ending Sept. 30, 1979.
+<b>1976</b>—Pub. L. 94–371 struck out “and” after “1975” and inserted provisions authorizing $70,000,000 to be appropriated for fiscal year ending Sept. 30, 1977, $77,000,000 to be appropriated for fiscal year ending Sept. 30, 1978, and $85,000,000 to be appropriated for fiscal year ending Sept. 30, 1979.
 
-1974—Pub. L. 93–282 authorized appropriation of $80,000,000 for fiscal years ending June 30, 1975 and June 30, 1976.
+<b>1974</b>—Pub. L. 93–282 authorized appropriation of $80,000,000 for fiscal years ending June 30, 1975 and June 30, 1976.
 
-1972—Pub. L. 92–554 substituted “for each of the next two fiscal years” for “for the fiscal year ending June 30, 1973”.
+<b>1972</b>—Pub. L. 92–554 substituted “for each of the next two fiscal years” for “for the fiscal year ending June 30, 1973”.
 
 #### Effective Date of 1992 Amendment
 

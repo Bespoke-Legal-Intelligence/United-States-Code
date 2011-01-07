@@ -14,7 +14,7 @@ In this chapter—
 
 #### Amendments
 
-1996—Par. (1). Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons”.
+<b>1996</b>—Par. (1). Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons”.
 
 #### Application to Certain Barges
 

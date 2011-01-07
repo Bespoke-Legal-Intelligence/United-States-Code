@@ -6,7 +6,7 @@
 
 &emsp;The Secretary shall provide for an adjustment, as appropriate, in the base acres for covered commodities for a farm whenever any of the following circumstances occurs:
 
-&emsp;&emsp;(A) A conservation reserve contract entered into under section 1231 of the Food Security Act of 1985 (16 U.S.C. 3831) with respect to the farm expires or is voluntarilyterminated, or was terminated or expired during the period beginning on October 1, 2007, and ending on the date of enactment of this Act.
+&emsp;&emsp;(A) A conservation reserve contract entered into under section 1231 of the Food Security Act of 1985 (16 U.S.C. 3831) with respect to the farm expires or is voluntarily terminated, or was terminated or expired during the period beginning on October 1, 2007, and ending on the date of enactment of this Act.
 
 &emsp;&emsp;(B) Cropland is released from coverage under a conservation reserve contract by the Secretary, or was released during the period beginning on October 1, 2007, and ending on the date of enactment of this Act.
 

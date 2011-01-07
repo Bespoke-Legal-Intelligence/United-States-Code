@@ -60,7 +60,7 @@ There is authorized to be appropriated $3,000,000 for fiscal year 1970, and $10,
 
 #### Amendments
 
-1977—Subsec. (a). Pub. L. 95–164, §303(c)(1), inserted reference to mines and mining other than coal mines and coal mining and substituted “Secretary of the Interior” for “Secretary of Labor”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–164, §303(c)(1), inserted reference to mines and mining other than coal mines and coal mining and substituted “Secretary of the Interior” for “Secretary of Labor”.
 
 Subsecs. (b), (f), (g). Pub. L. 95–164, §303(c)(1), inserted references to mines and mining other than coal mines and coal mining.
 
@@ -68,9 +68,9 @@ Subsec. (h). Pub. L. 95–164, §303(c)(2), substituted “$10,000,000” for �
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L.96–88 which is classified to section 3508(b) of Title 20, Education.
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under section 801 of this title.
+Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section307 of Pub. L. 95–164, set out as a note under section 801 of this title.
 

@@ -140,7 +140,7 @@ A prior section 121 of Pub. L. 101–610 was renumbered section 199A, and is cla
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–13, §1301(1)(A), inserted “territories,” after “subdivisions of States,” in introductory provisions.
+<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1301(1)(A), inserted “territories,” after “subdivisions of States,” in introductory provisions.
 
 Subsec. (a)(1), (2). Pub. L. 111–13, §1301(1)(B), substituted “subsection (a), (b), or (c) of section 12572” for “section 12572(a)”.
 

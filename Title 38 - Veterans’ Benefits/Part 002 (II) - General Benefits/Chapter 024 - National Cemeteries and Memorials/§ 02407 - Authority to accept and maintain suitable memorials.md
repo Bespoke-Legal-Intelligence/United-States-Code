@@ -6,9 +6,9 @@ Subject to such restrictions as the Secretary may prescribe, the Secretary may a
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 1007 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1007 of this title as this section.
 
-1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1986—Pub. L. 99–576 substituted “the Administrator” for “he” in two places and “The Administrator” for “He”.
+<b>1986</b>—Pub. L. 99–576 substituted “the Administrator” for “he” in two places and “The Administrator” for “He”.
 

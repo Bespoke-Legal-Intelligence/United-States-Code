@@ -4,7 +4,7 @@
 
 Sovereignty and Public Right of Transit.—(1) The United States Government has exclusive sovereignty of airspace of the United States.
 
-(2) A citizen of the United States has a public right of transit through the navigable airspace. To further that right, the Secretary of Transportation shall consult with the Architectural and Transportation Barriers Compliance Board established under section 502 of the Rehabilitation Act of 1973 (29 U.S.C. 792) before prescribing a regulation or issuing an order or procedure that will have a significant impact on the accessibility of commercial airports or commercial air transportation for handicapped individuals.
+(2) A citizen of the United States has a public right of transit through the navigable airspace. To further that right, the Secretary of Transportation shall consult with the Architecturaland Transportation Barriers Compliance Board established under section 502 of the Rehabilitation Act of 1973 (29 U.S.C. 792) before prescribing a regulation or issuing an order or procedure that will have a significant impact on the accessibility of commercial airports or commercial air transportation for handicapped individuals.
 
 (b)
 
@@ -146,7 +146,7 @@ Subsection (c) is added for clarity.
 
 In subsection (d), the words “including the Canal Zone” are omitted because of the Panama Canal Treaty of 1977.
 
-In subsection (e), before clause (1), the words “any landing area” are omitted as being included in the definition of “air navigation facility” in section 40102(a) of the revised title. The word “only” is added for clarity. In clause (2), the words “on September 3, 1982” are added for clarity.
+In subsection (e), before clause (1), the words “any landing area” are omitted as being included in the definition of “air navigation facility” in section 40102(a) of the revised title. The word “only” is added for clarity.In clause (2), the words “on September 3, 1982” are added for clarity.
 
 #### Regulations
 

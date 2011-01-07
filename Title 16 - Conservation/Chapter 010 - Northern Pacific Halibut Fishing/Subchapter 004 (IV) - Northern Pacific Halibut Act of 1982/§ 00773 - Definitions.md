@@ -40,7 +40,7 @@ Proclamation Numbered 5030, referred to in subsec. (c), is Proc. No. 5030, Mar. 
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1811 of this title.
+<b>1996</b>—Subsec. (c). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1811 of this title.
 
 #### Effective Date of 1996 Amendment
 

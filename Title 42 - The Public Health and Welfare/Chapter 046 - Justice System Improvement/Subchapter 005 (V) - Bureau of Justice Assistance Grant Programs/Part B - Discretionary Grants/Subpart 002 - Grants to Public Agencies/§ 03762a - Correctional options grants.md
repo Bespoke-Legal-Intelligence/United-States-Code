@@ -4,7 +4,7 @@
 
 The Director, in consultation with the Director of the National Institute of Corrections, may make—
 
-&emsp;(1) 4 grants in each fiscal year, in various geographical areas throughout the UnitedStates, to public agencies for correctional options (including the cost of construction) that provide alternatives to traditional modes of incarceration and offender release programs—
+&emsp;(1) 4 grants in each fiscal year, in various geographical areas throughout the United States, to public agencies for correctional options (including the cost of construction) that provide alternatives to traditional modes of incarceration and offender release programs—
 
 &emsp;&emsp;(A) to provide more appropriate intervention for youthful offenders who are not career criminals, but who, without such intervention, are likely to become career criminals or more serious offenders;
 
@@ -60,11 +60,11 @@ For prior section 515 of Pub. L. 90–351, see note set out preceding section 37
 
 #### Amendments
 
-2008—Subsec. (a)(4). Pub. L. 110–177, §302(a)(1), added par. (4).
+<b>2008</b>—Subsec. (a)(4). Pub. L. 110–177, §302(a)(1), added par. (4).
 
 Subsec. (b). Pub. L. 110–177, §302(a)(2), inserted concluding provisions.
 
-1994—Subsec. (b). Pub. L. 103–322, in introductory provisions substituted “paragraphs (1) and (2) of subsection (a)” for “subsection (a)(1) and (2)”, and in par. (2) substituted “public agencies” for “States”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–322, in introductory provisions substituted “paragraphs (1) and (2) of subsection (a)” for “subsection (a)(1) and (2)”, and in par. (2) substituted “public agencies” for “States”.
 
 #### Transfer of Functions
 

@@ -36,5 +36,5 @@ In subsection (b), the words “Superior Court of the District of Columbia” ar
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–356 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Prosecution for a violation described in subsection (a) shall be in the Superior Court of the District of Columbia, on information by the United States Attorney or an Assistant United States Attorney.”
+<b>2004</b>—Subsec. (b). Pub. L. 108–356 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Prosecution for a violation described in subsection (a) shall be in the Superior Court of the District of Columbia, on information by the United States Attorney or an Assistant United States Attorney.”
 

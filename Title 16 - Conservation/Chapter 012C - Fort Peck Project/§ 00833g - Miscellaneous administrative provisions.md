@@ -16,7 +16,7 @@ The Federal Power Act, referred to in subsec. (a), was in the original the “Fe
 
 #### Amendments
 
-1954—Subsec. (c). Act Aug. 30, 1954, repealed subsec. (c) which required the Secretary of the Interior to submit an annual financial statement and report to Congress concerning the transmission and sale of electric energy generated at the Fort Peck project.
+<b>1954</b>—Subsec. (c). Act Aug. 30, 1954, repealed subsec. (c) which required the Secretary of the Interior to submit an annual financial statement and report to Congress concerning the transmission and sale of electric energy generated at the Fort Peck project.
 
 #### Transfer of Functions
 

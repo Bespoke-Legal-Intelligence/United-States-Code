@@ -18,5 +18,5 @@ Provisions of section 196 of title 28, U.S.C., 1940 ed., for appointment of depu
 
 #### Amendments
 
-1984—Pub. L. 98–353 provided for holding court at Jackson.
+<b>1984</b>—Pub. L. 98–353 provided for holding court at Jackson.
 

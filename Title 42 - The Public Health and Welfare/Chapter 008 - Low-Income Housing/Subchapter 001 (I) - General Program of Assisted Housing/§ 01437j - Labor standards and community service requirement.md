@@ -2,7 +2,7 @@
 
 #### (a) Payment of wages prevailing in locality
 
-Any contract for loans, contributions, sale, or lease pursuant to this chapter shall contain a provision requiring that not less than the wages prevailing in the locality, as determined or adopted (subsequent to a determination under applicable State or local law) by the Secretary, shall be paid to all architects, technical engineers, draftsmen, and technicians employed in the development, and all maintenance laborers and mechanics employed in the operation, of the low-income housing project involved; and shall also contain a provision that not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to sections 3141–3144, 3146, and 3147 of title 40, shall be paid to all laborers and mechanics employed in the development of the project involved (including a project with nine or more units assisted under section 1437f of this title, where the public housing agency or the Secretary and the builder or sponsor enter into agreement for such use before construction or rehabilitation is commenced), and the Secretary shall require certification as to compliance with the provisions of this section prior to making any payment under such contract.
+Any contract for loans, contributions, sale, or lease pursuant to this chapter shall contain a provision requiring that not less than the wages prevailing in the locality, as determined or adopted (subsequent to a determination under applicable State or local law) by the Secretary, shall be paid to all architects, technical engineers, draftsmen, and technicians employed in the development, and all maintenance laborers and mechanics employed in the operation, of the low-income housing project involved; and shall also contain a provision that not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to sections 3141–3144, 3146, and 3147 of title 40, shall be paid to all laborers and mechanics employedin the development of the project involved (including a project with nine or more units assisted under section 1437f of this title, where the public housing agency or the Secretary and the builder or sponsor enter into agreement for such use before construction or rehabilitation is commenced), and the Secretary shall require certification as to compliance with the provisions of this section prior to making any payment under such contract.
 
 #### (b) Exception for volunteers
 
@@ -20,7 +20,7 @@ Subsection (a) of this section and the provisions relating to wages (pursuant to
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2) and notwithstanding any other provision of law, eachadult resident of a public housing project shall—
+&emsp;Except as provided in paragraph (2) and notwithstanding any other provision of law, each adult resident of a public housing project shall—
 
 &emsp;&emsp;(A) contribute 8 hours per month of community service (not including political activities) within the community in which that adult resides; or
 
@@ -164,17 +164,17 @@ A prior section 12 of act Sept. 1, 1937, ch. 896, 50 Stat. 894, as amended, auth
 
 #### Amendments
 
-1998—Pub. L. 105–276, §512(a)(1), inserted “and community service requirement” after “Labor standards” in section catchline.
+<b>1998</b>—Pub. L. 105–276, §512(a)(1), inserted “and community service requirement” after “Labor standards” in section catchline.
 
 Subsecs. (c) to (g). Pub. L. 105–276, §512(a)(2), added subsecs. (c) to (g).
 
-1990—Pub. L. 101–625, §955(b), designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1990</b>—Pub. L. 101–625, §955(b), designated existing provisions as subsec. (a) and added subsec. (b).
 
 Pub. L. 101–625, §572(2), substituted “low-income housing” for “lower income housing”.
 
-1988—Pub. L. 100–242 struck out “annual” before “contributions”.
+<b>1988</b>—Pub. L. 100–242 struck out “annual” before “contributions”.
 
-1981—Pub. L. 97–35 substituted reference to lower income for reference to low-income.
+<b>1981</b>—Pub. L. 97–35 substituted reference to lower income for reference to low-income.
 
 #### Effective Date of 1998 Amendment
 

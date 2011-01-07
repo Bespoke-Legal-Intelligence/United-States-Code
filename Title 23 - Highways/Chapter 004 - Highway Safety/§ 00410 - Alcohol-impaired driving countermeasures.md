@@ -20,7 +20,7 @@ Federal share.—The Federal share of the cost of implementing and enforcing in 
 
 &emsp;&emsp;(B) in each of the third and fourth fiscal years in which the State receives a grant under this section, 50 percent; and
 
-&emsp;&emsp;(C) in each of the fifth, sixth,,<sup>1</sup> seventh, and eighth fiscal years in which the State receives a grant under this section, 25 percent.
+&emsp;&emsp;(C) in each of the fifth through tenth fiscal years in which the State receives a grant under this section, 25 percent.
 
 (b)
 
@@ -32,7 +32,7 @@ Eligibility Requirements.—To be eligible for a grant under subsection (a), a S
 
 &emsp;(B) for fiscal year 2007 by carrying out 4 of the programs and activities under subsection (c); or
 
-&emsp;(C) for fiscal years 2008 and 2009 by carrying out 5 of the programs and activities under subsection (c).
+&emsp;(C) for fiscal years 2008, 2009, 2010, and 2011 by carrying out 5 of the programs and activities under subsection (c).
 
 (c)
 
@@ -70,7 +70,7 @@ High risk drivers.—A law that establishes stronger sanctions or additional pen
 
 &emsp;&emsp;&emsp;(ii) only in an automobile equipped with a certified alcohol ignition interlock device; and
 
-&emsp;&emsp;(B) a mandatory assessment by a certified substance abuse official of whether the individual has an alcohol abuse problem with possible referral to counseling if the officialdetermines that such a referral is appropriate.
+&emsp;&emsp;(B) a mandatory assessment by a certified substance abuse official of whether the individual has an alcohol abuse problem with possible referral to counseling if the official determines that such a referral is appropriate.
 
 &emsp;(5)
 
@@ -106,7 +106,7 @@ Administrative license revocation.—An administrative driver's license suspensi
 
 &emsp;&emsp;&emsp;(ii) suspend the driver's license of such individual for a period of not less than 1 year, or revoke such license, if such individual is a repeat offender in such 5–year period; except that such individual to operate a motor vehicle, after the 45-day period beginning on the date of the suspension or revocation, to and from employment, school, or an alcohol treatment program if an ignition interlock device is installed on each of the motor vehicles owned or operated, or both, by the individual; and
 
-&emsp;&emsp;(B) the suspension and revocation referred to under clauses (i) and (ii) <sup>2</sup> take effect not later than 30 days after the date on which the individual refused to submit to a chemical test or received notice of having been determined to be driving under the influence of alcohol, in accordance with the procedures of the State.
+&emsp;&emsp;(B) the suspension and revocation referred to under clauses (i) and (ii) <sup>1</sup> take effect not later than 30 days after the date on which the individual refused to submit to a chemical test or received notice of having been determined to be driving under the influence of alcohol, in accordance with the procedures of the State.
 
 &emsp;(8)
 
@@ -204,7 +204,7 @@ Impaired operator.—The term “impaired operator” means a person who, while 
 
 Impaired driving related fatality rate.—The term “impaired driving related fatality rate” means the rate of alcohol related fatalities, as calculated in accordance with regulations which the Administrator of the National Highway Traffic Safety Administration shall prescribe.
 
-(Added Pub. L. 100–690, title IX, §9002(a), Nov. 18, 1988, 102 Stat. 4521; amended Pub. L. 101–516, title III, §336, Nov. 5, 1990, 104 Stat. 2186; Pub. L. 102–240, title II, §2004(a), Dec. 18, 1991, 105 Stat. 2073; Pub. L. 102–388, title VI, §§601–606, Oct. 6, 1992, 106 Stat. 1569, 1570; Pub. L. 104–59, title III, §324, Nov. 28, 1995, 109 Stat. 591; Pub. L. 105–18, title II, §8003, June 12, 1997, 111 Stat. 195; Pub. L. 105–130, §6(b), Dec. 1, 1997, 111 Stat. 2558; Pub. L. 105–178, title II, §2004(a), June 9, 1998, 112 Stat. 328; Pub. L. 108–88, §6(e)(1), Sept. 30, 2003, 117 Stat. 1120; Pub. L. 108–310, §6(e)(1), Sept. 30, 2004, 118 Stat. 1152; Pub. L. 109–59, title II, §2007(a), (b), Aug. 10, 2005, 119 Stat. 1529; Pub. L. 110–244, title III, §303(c)(2), (3), June 6, 2008, 122 Stat. 1619.)
+(Added Pub. L. 100–690, title IX, §9002(a), Nov. 18, 1988, 102 Stat. 4521; amended Pub. L. 101–516, title III, §336, Nov. 5, 1990, 104 Stat. 2186; Pub. L. 102–240, title II, §2004(a), Dec. 18, 1991, 105 Stat. 2073; Pub. L. 102–388, title VI, §§601–606, Oct. 6, 1992, 106 Stat. 1569, 1570; Pub. L. 104–59, title III, §324, Nov. 28, 1995, 109 Stat. 591; Pub. L. 105–18, title II, §8003, June 12, 1997, 111 Stat. 195; Pub. L. 105–130, §6(b), Dec. 1, 1997, 111 Stat. 2558; Pub. L. 105–178, title II, §2004(a), June 9, 1998, 112 Stat. 328; Pub. L. 108–88, §6(e)(1), Sept. 30, 2003, 117 Stat. 1120; Pub. L. 108–310, §6(e)(1), Sept. 30, 2004, 118 Stat. 1152; Pub. L. 109–59, title II, §2007(a), (b), Aug. 10, 2005, 119 Stat. 1529; Pub. L. 110–244, title III, §303(c)(2), (3), June 6, 2008, 122 Stat. 1619; Pub. L. 111–147, title IV, §421(f)(1), Mar. 18, 2010, 124 Stat. 85.)
 
 #### References in Text
 
@@ -214,7 +214,11 @@ The date of enactment of the Transportation Equity Act for the 21st Century, ref
 
 #### Amendments
 
-2008—Subsec. (a)(3). Pub. L. 110–244, §303(c)(2)(A), (B), amended Pub. L. 109–59, §2007(b)(1)(A), (B). See 2005 Amendment note below.
+<b>2010</b>—Subsec. (a)(3)(C). Pub. L. 111–147, §421(f)(1)(A), which directed the substitution of “fifth through tenth” for “fifth, sixth, seventh, and eighth”, was executed by making the substitution for “fifth, sixth,, seventh, and eighth” to reflect the probable intent of Congress.
+
+Subsec. (b)(2)(C). Pub. L. 111–147, §421(f)(1)(B), substituted “2008, 2009, 2010, and 2011” for “2008 and 2009”.
+
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–244, §303(c)(2)(A), (B), amended Pub. L. 109–59, §2007(b)(1)(A), (B). See 2005 Amendment note below.
 
 Subsec. (a)(3)(C). Pub. L. 110–244, §303(c)(2)(C), repealed amendment by Pub. L. 109–59, §2007(b)(1)(C). See 2005 Amendment note below.
 
@@ -222,7 +226,7 @@ Subsec. (a)(4). Pub. L. 110–244, §303(c)(2)(B), amended Pub. L. 109–59, §2
 
 Subsec. (c)(7)(B). Pub. L. 110–244, §303(c)(3), substituted “clauses (i) and (ii)” for “clause (i)”.
 
-2005—Subsec. (a)(2). Pub. L. 109–59, §2007(a), substituted “under this subsection” for “under this section” and “SAFETEA–LU” for “Transportation Equity Act for the 21st Century”.
+<b>2005</b>—Subsec. (a)(2). Pub. L. 109–59, §2007(a), substituted “under this subsection” for “under this section” and “SAFETEA–LU” for “Transportation Equity Act for the 21st Century”.
 
 Subsec. (a)(3). Pub. L. 109–59, §2007(b)(1)(A), (B), as amended by Pub. L. 110–244, §303(c)(2)(A), (B), redesignated par. (4) as (3) and struck out heading and text of former par. (3). Text read as follows: “No State may receive grants under this section in more than 8 fiscal years beginning after September 30, 1997.”
 
@@ -232,17 +236,17 @@ Subsec. (a)(4). Pub. L. 109–59, §2007(b)(1)(B), as amended by Pub. L. 110–2
 
 Subsec. (b) to (i). Pub. L. 109–59, §2007(b)(2)–(4), added subsecs. (b) to (g), redesignated former subsecs. (e) and (f) as (h) and (i), respectively, added pars. (4) and (5) to subsec. (i), and struck out former subsecs. (b) to (d), which related to eligibility for basic grant, supplemental grants, and administrative expenses, respectively.
 
-2004—Subsec. (a)(3). Pub. L. 108–310, §6(e)(1)(A), substituted “8” for “7”.
+<b>2004</b>—Subsec. (a)(3). Pub. L. 108–310, §6(e)(1)(A), substituted “8” for “7”.
 
 Subsec. (a)(4)(C). Pub. L. 108–310, §6(e)(1)(B), substituted “, seventh, and eighth” for “and seventh”.
 
-2003—Subsec. (a)(3). Pub. L. 108–88, §6(e)(1)(A), substituted “7” for “6”.
+<b>2003</b>—Subsec. (a)(3). Pub. L. 108–88, §6(e)(1)(A), substituted “7” for “6”.
 
 Subsec. (a)(4)(C). Pub. L. 108–88, §6(e)(1)(B), substituted “, sixth, and seventh” for “and sixth”.
 
-1998—Pub. L. 105–178 reenacted section catchline without change and amended text generally. Prior to amendment, section related to alcohol-impaired driving countermeasures, providing for general authority in subsec. (a), maintenance of effort in subsec. (b), maximum period of eligibility and Federal share for grants in subsec. (c), basic grant eligibility in subsec. (d),amount of basic grant in subsec. (e), supplemental grants in subsec. (f), administrative expenses in subsec. (g), applicability of chapter 1 of this title in subsec. (h), definitions in subsec. (i), and authorization of appropriations in subsec. (j).
+<b>1998</b>—Pub. L. 105–178 reenacted section catchline without change and amended text generally. Prior to amendment, section related to alcohol-impaired driving countermeasures, providing for general authority in subsec. (a), maintenance of effort in subsec. (b), maximum period of eligibility and Federal share for grants in subsec. (c), basic grant eligibility in subsec. (d), amount of basic grant in subsec. (e), supplemental grants in subsec. (f), administrative expenses in subsec. (g), applicability of chapter 1 of this title in subsec. (h), definitions in subsec. (i), and authorization of appropriations in subsec. (j).
 
-1997—Subsec. (c). Pub. L. 105–130, §6(b)(1)(A), substituted “6 fiscal years” for “5 fiscal years” in introductory provisions.
+<b>1997</b>—Subsec. (c). Pub. L. 105–130, §6(b)(1)(A), substituted “6 fiscal years” for “5 fiscal years” in introductory provisions.
 
 Subsec. (c)(3). Pub. L. 105–130, §6(b)(1)(B), substituted “fifth, and sixth fiscal years” for “and fifth fiscal years”.
 
@@ -252,7 +256,7 @@ Subsec. (j). Pub. L. 105–130, §6(b)(3), substituted “1997,” for “1997, 
 
 Pub. L. 105–18 inserted “, and an additional $500,000 for fiscal year 1997” after “1997”.
 
-1995—Subsec. (d)(1)(E). Pub. L. 104–59, §324(a), substituted “December 18, 1991” for “the date of enactment of this section” in introductory provisions.
+<b>1995</b>—Subsec. (d)(1)(E). Pub. L. 104–59, §324(a), substituted “December 18, 1991” for “the date of enactment of this section” in introductory provisions.
 
 Subsec. (d)(3). Pub. L. 104–59, §324(b)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -264,7 +268,7 @@ Subsec. (f). Pub. L. 104–59, §324(c), redesignated pars. (2) to (7) as (1) to
 
 Blood alcohol concentration for persons under age 21.—Subject to subsection (c), a State shall be eligible to receive a supplemental grant in a fiscal year of 5 percent of the amount apportioned to the State in fiscal year 1992 under section 402 of this title if the State is eligible for a basic grant in the fiscal year and provides that any person under age 21 with a blood alcohol concentration of 0.02 percent or greater when driving a motor vehicle shall be deemed to be driving while intoxicated.”
 
-1992—Subsec. (c). Pub. L. 102–388, §601(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1992</b>—Subsec. (c). Pub. L. 102–388, §601(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 Subsec. (d). Pub. L. 102–388, §§601(2), 602, redesignated subsec. (c) as (d), substituted “5 or more of the following” for “4 or more of the following” in introductory provisions, struck out “within the time period specified in subparagraph (F)” after “revocation” in par. (1)(C), and added par. (6). Former subsec. (d) redesignated (e).
 
@@ -280,9 +284,9 @@ Subsec. (j). Pub. L. 102–388, §606, amended subsec. (j) generally. Prior to a
 
 Funding for Fiscal Years 1993–1997.—From sums made available to carry out section 402 of this title, the Secretary shall make available $25,000,000 for each of fiscal years 1993 through 1997 to carry out this section.”
 
-1991—Pub. L. 102–240 substituted section catchline for one which read: “Drunk driving prevention programs” and amended text generally, substituting present provisions for provisions authorizing grants to those States which adopt and implement drunk driving prevention programs described in this section, requiring States to maintain expenditures for drunk driving prevention programs, providing for Federal share payable, maximum amount of basic grants and eligibility for basic grants, providing for supplemental grants to States which implement specific measures to fight drunk driving, and providing for definitions and appropriations for this section.
+<b>1991</b>—Pub. L. 102–240 substituted section catchline for one which read: “Drunk driving prevention programs” and amended text generally, substituting present provisions for provisions authorizing grants to those States which adopt and implement drunk driving prevention programs described in this section, requiring States to maintain expenditures for drunk driving prevention programs, providing for Federal share payable, maximum amount of basic grants and eligibility for basic grants, providing for supplemental grants to States which implement specific measures to fight drunk driving, and providing for definitions and appropriations for this section.
 
-1990—Subsec. (e)(1)(C). Pub. L. 101–516 struck out “within the time period specified in subparagraph (F)” after “revocation”.
+<b>1990</b>—Subsec. (e)(1)(C). Pub. L. 101–516 struck out “within the time period specified in subparagraph (F)” after “revocation”.
 
 Subsec. (e)(2). Pub. L. 101–516 inserted “a significant portion of” after “under which” and substituted “apprehended and fined for” for “convicted of”.
 
@@ -386,7 +390,5 @@ Authorization of Appropriation.—There is authorized to be appropriated to carr
 
 Pub. L. 97–424, title II, §209, Jan. 6, 1983, 96 Stat. 2140, provided that: “The Congress strongly encourages each State to prohibit the sale of alcoholic beverages to persons who are less than 21 years of age.”
 
-<i><sup>1</sup></i><i> So in original.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “clauses (i) and (ii) of subparagraph (A)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “clauses (i) and (ii) of subparagraph (A)”.</i>
 

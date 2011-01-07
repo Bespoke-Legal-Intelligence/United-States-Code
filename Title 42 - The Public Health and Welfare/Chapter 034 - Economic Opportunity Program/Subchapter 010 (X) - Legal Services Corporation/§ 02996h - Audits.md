@@ -34,11 +34,11 @@ In subsec. (b)(2), “section 3523(c) of title 31” substituted for “section 
 
 #### Amendments
 
-2004—Subsecs. (a)(3), (b)(1), (2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
+<b>2004</b>—Subsecs. (a)(3), (b)(1), (2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
 
-1995—Subsec. (c)(2). Pub. L. 104–66 substituted “Upon request, the” for “The” in first sentence.
+<b>1995</b>—Subsec. (c)(2). Pub. L. 104–66 substituted “Upon request, the” for “The” in first sentence.
 
-1977—Subsec. (b)(2). Pub. L. 95–222 inserted provisions relating to duration of retention of books, etc., by Corporation.
+<b>1977</b>—Subsec. (b)(2). Pub. L. 95–222 inserted provisions relating to duration of retention of books, etc., by Corporation.
 
 #### Effective Date of 1977 Amendment
 

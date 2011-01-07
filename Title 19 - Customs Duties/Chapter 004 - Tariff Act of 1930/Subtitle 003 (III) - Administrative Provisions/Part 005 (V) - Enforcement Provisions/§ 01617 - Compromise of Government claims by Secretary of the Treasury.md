@@ -4,17 +4,13 @@ Upon a report by a customs officer, United States attorney, or any special attor
 
 (June 17, 1930, ch. 497, title IV, §617, 46 Stat. 757; May 10, 1934, ch. 277, §512(b), 48 Stat. 759; June 25, 1948, ch. 646, §1, 62 Stat. 869; Pub. L. 91–271, title III, §301(gg), June 2, 1970, 84 Stat. 291.)
 
-#### References in Text
-
-The customs laws, referred to in text, are classified generally to this title.
-
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §617, 42 Stat. 987. That section was superseded by section 617 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 
-1970—Pub. L. 91–271 substituted reference to customs officer for reference to collector and struck out reference to customs agents.
+<b>1970</b>—Pub. L. 91–271 substituted reference to customs officer for reference to collector and struck out reference to customs agents.
 
 #### Change of Name
 

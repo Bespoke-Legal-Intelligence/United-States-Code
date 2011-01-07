@@ -12,9 +12,9 @@ Based on 44 U.S. Code, 1964 ed., §398 (June 30, 1949, ch. 288, title V, §508, 
 
 #### Amendments
 
-1984—Pub. L. 98–497, §107(a)(8), amended section generally, inserting reference to Archivist and striking out reference to chapter 27 of this title.
+<b>1984</b>—Pub. L. 98–497, §107(a)(8), amended section generally, inserting reference to Archivist and striking out reference to chapter 27 of this title.
 
-1976—Subsec. (b). Pub. L. 94–575 inserted reference to chapter 33 of this title.
+<b>1976</b>—Subsec. (b). Pub. L. 94–575 inserted reference to chapter 33 of this title.
 
 #### Effective Date of 1984 Amendment
 

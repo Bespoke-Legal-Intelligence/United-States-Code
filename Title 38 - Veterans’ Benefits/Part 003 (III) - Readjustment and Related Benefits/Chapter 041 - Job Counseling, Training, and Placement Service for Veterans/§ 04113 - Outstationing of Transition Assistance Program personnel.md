@@ -26,7 +26,7 @@ A prior section 4113, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 89
 
 #### Amendments
 
-2006—Subsec. (a)(2). Pub. L. 109–233 substituted “section 6304(a)” for “section 7723(a)”.
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–233 substituted “section 6304(a)” for “section 7723(a)”.
 
 #### Deadline for Implementation
 

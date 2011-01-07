@@ -34,7 +34,7 @@ For any fiscal year in which the amount appropriated to carry out this section i
 
 #### (2) Allotments
 
-&emsp;For any such fiscal year, after the reservations required by paragraph (1) have been made, the Commissioner shall make allotments from the remainder of such amount in accordance with paragraph (3) to eligible systems within States to enable such systems to carry out protection and advocacy programs authorized under this section for individuals referred to in subsection (b) of this section.
+&emsp;For any such fiscal year, after the reservations required by paragraph (1) have beenmade, the Commissioner shall make allotments from the remainder of such amount in accordance with paragraph (3) to eligible systems within States to enable such systems to carry out protection and advocacy programs authorized under this section for individuals referred to in subsection (b) of this section.
 
 #### (3) Systems within States
 
@@ -142,25 +142,25 @@ The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred t
 
 The Assistive Technology Act of 1998, referred to in subsec. (a)(2), is Pub. L. 105–394, Nov. 13, 1998, 112 Stat. 3627, which is classified principally to chapter 31 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
-The Older Americans Act of 1965, referred to in subsec. (f)(5)(B), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
+The Older Americans Act of 1965, referred to in subsec. (f)(5)(B), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35\(§3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
 Section 142 of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042), referred to in subsec. (m)(2), was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737.
 
 #### Amendments
 
-2000—Subsecs. (a)(1)(B)(i), (f)(2). Pub. L. 106–402, §401(b)(3)(C), substituted “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.)”.
+<b>2000</b>—Subsecs. (a)(1)(B)(i), (f)(2). Pub. L. 106–402, §401(b)(3)(C), substituted “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.)”.
 
 Subsec. (f)(5)(B). Pub. L. 106–402, §401(b)(3)(D), substituted “Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.)”.
 
 Subsec. (m)(1). Pub. L. 106–402, §401(b)(3)(C), substituted “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.)”.
 
-1998—Pub. L. 105–220 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (n) relating to protection and advocacy of individual rights.
+<b>1998</b>—Pub. L. 105–220 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (n) relating to protection and advocacy of individual rights.
 
 Subsec. (a)(2). Pub. L. 105–394 substituted “the Assistive Technology Act of 1998” for “the Technology-Related Assistance for Individuals With Disabilities Act of 1988 (42 U.S.C. 2201 et seq.)”.
 
-1997—Subsec. (f)(8). Pub. L. 105–12 added par. (8).
+<b>1997</b>—Subsec. (f)(8). Pub. L. 105–12 added par. (8).
 
-1993—Subsec. (a)(1). Pub. L. 103–73, §112(c)(1), added par. (1) and struck out former par. (1) which read as follows: “are ineligible for client assistance programs under section 732 of this title; and”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–73, §112(c)(1), added par. (1) and struck out former par. (1) which read as follows: “are ineligible for client assistance programs under section 732 of this title; and”.
 
 Subsec. (b). Pub. L. 103–73, §112(c)(2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 
@@ -170,7 +170,7 @@ Allotments.—For any fiscal year in which the amount appropriated to carry out 
 
 “(2)
 
-Other jurisdictions.—For the purposes of this subsection, Guam, American Samoa, the United StatesVirgin Islands, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau shall not be considered to be States.”
+Other jurisdictions.—For the purposes of this subsection, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau shall not be considered to be States.”
 
 Subsec. (c)(4)(A). Pub. L. 103–73, §112(c)(3)(A)(i), substituted “paragraph (3)(B)” for “this subsection”.
 
@@ -203,4 +203,8 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–12 effective Apr. 30, 1997, applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, and also applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of Title 42, The Public Health and Welfare.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

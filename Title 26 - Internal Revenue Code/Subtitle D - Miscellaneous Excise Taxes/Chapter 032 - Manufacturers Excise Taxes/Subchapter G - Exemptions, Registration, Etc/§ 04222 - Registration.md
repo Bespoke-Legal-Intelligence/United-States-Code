@@ -16,7 +16,7 @@ Except as provided in subsection (b), section 4221 shall not apply with respect 
 
 #### (3) Certain purchases and sales by the United States
 
-&emsp;Subsection (a) shall apply to purchases and sales by the United States only to the extent provided by regulations prescribed by the Secretary.
+&emsp;Subsection (a) shall apply to purchases and sales by the United States only to the extentprovided by regulations prescribed by the Secretary.
 
 #### \[(4) Repealed. Pub. L. 89–44, title II, §208(e), June 21, 1965, 79 Stat. 141\]
 
@@ -50,31 +50,31 @@ A prior section 4222, act Aug. 16, 1954, ch. 736, 68 Stat. 495, related to exemp
 
 #### Amendments
 
-1998—Subsec. (d). Pub. L. 105–206 substituted “4053(6)” for “4053(a)(6)”.
+<b>1998</b>—Subsec. (d). Pub. L. 105–206 substituted “4053(6)” for “4053(a)(6)”.
 
-1997—Subsec. (b)(2). Pub. L. 105–34 substituted “Under regulations” for “Export” in heading and struck out “in the case of any sale or resale for export,” after “this paragraph,” in text.
+<b>1997</b>—Subsec. (b)(2). Pub. L. 105–34 substituted “Under regulations” for “Export” in heading and struck out “in the case of any sale or resale for export,” after “this paragraph,” in text.
 
-1993—Subsec. (d). Pub. L. 103–66 substituted “4001(d)” for “4002(b), 4003(c), 4004(a)”.
+<b>1993</b>—Subsec. (d). Pub. L. 103–66 substituted “4001(d)” for “4002(b), 4003(c), 4004(a)”.
 
-1990—Subsec. (c). Pub. L. 101–508, §11212(b)(2), substituted “Denial, revocation, or suspension” for “Revocation or suspension” in heading, “denied, revoked, or suspended” for “revoked or suspended” in introductory provisions, and “denial, revocation, or suspension” for “revocation or suspension” in par. (2) and concluding provisions.
+<b>1990</b>—Subsec. (c). Pub. L. 101–508, §11212(b)(2), substituted “Denial, revocation, or suspension” for “Revocation or suspension” in heading, “denied, revoked, or suspended” for “revoked or suspended” in introductory provisions, and “denial, revocation, or suspension” for “revocation or suspension” in par. (2) and concluding provisions.
 
 Subsec. (d). Pub. L. 101–508, §11221(d)(3), substituted “sections 4001(c), 4002(b), 4003(c), 4004(a), 4053(a)(6)” for “sections 4053(a)(6)”.
 
-1988—Subsec. (d). Pub. L. 100–647 substituted “4101” for “4083”.
+<b>1988</b>—Subsec. (d). Pub. L. 100–647 substituted “4101” for “4083”.
 
-1984—Subsec. (d). Pub. L. 98–369 substituted “4053(a)(6)” for “4063(a)(7), 4063(b), 4063(e)”.
+<b>1984</b>—Subsec. (d). Pub. L. 98–369 substituted “4053(a)(6)” for “4063(a)(7), 4063(b), 4063(e)”.
 
-1983—Subsec. (d). Pub. L. 97–424 struck out “4093,” after “4083,”.
+<b>1983</b>—Subsec. (d). Pub. L. 97–424 struck out “4093,” after “4083,”.
 
-1978—Subsec. (d). Pub. L. 95–618 substituted “4063(a)(7), 4063(b), 4064(b)(1)(C),” for “4063(a)(6) and (7), 4063(b),”.
+<b>1978</b>—Subsec. (d). Pub. L. 95–618 substituted “4063(a)(7), 4063(b), 4064(b)(1)(C),” for “4063(a)(6) and (7), 4063(b),”.
 
 Pub. L. 95–600 substituted “4063(b), 4063(e),” for “4063(b),”.
 
-1976—Subsecs. (a) to (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a) to (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1971—Subsec. (d). Pub. L. 92–178 inserted reference to section 4063(a)(6) and (7).
+<b>1971</b>—Subsec. (d). Pub. L. 92–178 inserted reference to section 4063(a)(6) and (7).
 
-1965—Subsec. (b)(4). Pub. L. 89–44, §208(e), struck out par. (4) which related to mechanical pencils, fountain pens, and ball point pens.
+<b>1965</b>—Subsec. (b)(4). Pub. L. 89–44, §208(e), struck out par. (4) which related to mechanical pencils, fountain pens, and ball point pens.
 
 Subsec. (b)(5). Pub. L. 89–44, §802(c), added par. (5).
 

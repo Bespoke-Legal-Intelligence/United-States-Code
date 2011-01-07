@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the term “appreciated financial position” means any position with respect to any stock, debt instrument, or partnership interest if therewould be gain were such position sold, assigned, or otherwise terminated at its fair market value.
+&emsp;Except as provided in paragraph (2), the term “appreciated financial position” means any position with respect to any stock, debt instrument, or partnership interest if there would be gain were such position sold, assigned, or otherwise terminated at its fair market value.
 
 #### (2) Exceptions
 
@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In applying this section, there shall be disregarded any transaction (which would otherwise cause a constructive sale) during the taxable year if—
+&emsp;&emsp;In applying this section, there shall be disregarded any transaction (which wouldotherwise cause a constructive sale) during the taxable year if—
 
 &emsp;&emsp;&emsp;(i) such transaction is closed on or before the 30th day after the close of such taxable year,
 
@@ -144,7 +144,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-2004—Subsec. (c)(2). Pub. L. 108–311, §406(e)(1), substituted “A taxpayer shall not be treated as having made a constructive sale solely because the taxpayer enters into a contract” for “The term ‘constructive sale’ shall not include any contract”.
+<b>2004</b>—Subsec. (c)(2). Pub. L. 108–311, §406(e)(1), substituted “A taxpayer shall not be treated as having made a constructive sale solely because the taxpayer enters into a contract” for “The term ‘constructive sale’ shall not include any contract”.
 
 Subsec. (c)(3)(A). Pub. L. 108–311, §406(e)(2), substituted “cause a constructive sale” for “be treated as a constructive sale” in introductory provisions.
 
@@ -160,7 +160,7 @@ Subsec. (c)(3)(B)(ii)(I). Pub. L. 108–311, §406(e)(5), amended subcl. (I) gen
 
 Subsec. (c)(3)(B)(ii)(II). Pub. L. 108–311, §406(e)(6), inserted “on or” before “before the 30th day”.
 
-1998—Subsec. (b)(2)(A)(i) to (iii). Pub. L. 105–206, §6010(a)(1)(A), substituted “position” for “debt”.
+<b>1998</b>—Subsec. (b)(2)(A)(i) to (iii). Pub. L. 105–206, §6010(a)(1)(A), substituted “position” for “debt”.
 
 Subsec. (b)(2)(B), (C). Pub. L. 105–206, §6010(a)(1)(B), (C), added subpar. (B) and redesignated former subpar. (B) as (C).
 

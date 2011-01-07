@@ -70,7 +70,7 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 #### (2) Supportive services
 
-&emsp;A local program under this section shall provide appropriate supportive services under this paragraph to each participating family entering into a contract of participation under paragraph (1). The supportive services shall be provided during the period the family is receiving assistance under section 1437f of this title or residing in public housing, and may include—
+&emsp;A local program under this section shall provide appropriate supportive services under this paragraph to each participating family entering into a contract of participation under paragraph (1). The supportive services shall beprovided during the period the family is receiving assistance under section 1437f of this title or residing in public housing, and may include—
 
 &emsp;&emsp;(A) child care;
 
@@ -168,7 +168,7 @@ Any increase in the earned income of a family during the participation of the fa
 
 #### (2) Performance funding system
 
-&emsp;Notwithstanding any provision of section 1437g of this title, the Secretary shall provide for inclusion under the performance funding system under section 1437g of this title of reasonable and eligible administrative costs (including the costs of employing a full-time service coordinator) incurred by public housing agencies carrying out local programs under this section. The Secretary shall include an estimate of the administrative costs likely to be incurred by participating public housing agencies in the annual budget request for the Department of Housing and Urban Development for public housing operating assistance under section 1437g of this title and shall include a request for such amounts in the budget request. Of any amounts appropriated under section 1437g(c) of this title for fiscal year 1993, $25,000,000 is authorized to be used for costs under this paragraph, and of any amounts appropriated under such section for fiscal year 1994, $25,900,000 is authorized to be used for costs under this paragraph.
+&emsp;Notwithstanding any provision of section 1437g of this title, the Secretary shall provide for inclusion under the performance funding system under section 1437g of this title of reasonable and eligible administrative costs (including the costs of employing a full-time service coordinator) incurred by public housing agencies carrying out local programs under this section. The Secretary shall includean estimate of the administrative costs likely to be incurred by participating public housing agencies in the annual budget request for the Department of Housing and Urban Development for public housing operating assistance under section 1437g of this title and shall include a request for such amounts in the budget request. Of any amounts appropriated under section 1437g(c) of this title for fiscal year 1993, $25,000,000 is authorized to be used for costs under this paragraph, and of any amounts appropriated under such section for fiscal year 1994, $25,900,000 is authorized to be used for costs under this paragraph.
 
 #### (i) Public housing agency incentive award allocation
 
@@ -178,7 +178,7 @@ Any increase in the earned income of a family during the participation of the fa
 
 #### (2) Criteria
 
-&emsp;The competition shall be based on successful and outstanding implementation by public housing agencies of a local self-sufficiencyprogram under this section. The Secretary shall establish perfomance <sup>3</sup> criteria for public housing agencies carrying out such local programs and the Secretary shall cause such criteria to be published in the Federal Register.
+&emsp;The competition shall be based on successful and outstanding implementation by public housing agencies of a local self-sufficiency program under this section. The Secretary shall establish perfomance <sup>3</sup> criteria for public housing agencies carrying out such local programs and the Secretary shall cause such criteria to be published in the Federal Register.
 
 #### (3) Use
 
@@ -258,7 +258,7 @@ Section 1437g(c) of this title, referred to in subsec. (h)(2), was amended gener
 
 #### Amendments
 
-1998—Subsec. (b)(1)(A). Pub. L. 105–276, §509(a)(1)(A)(i), struck out “and” at end.
+<b>1998</b>—Subsec. (b)(1)(A). Pub. L. 105–276, §509(a)(1)(A)(i), struck out “and” at end.
 
 Subsec. (b)(1)(B). Pub. L. 105–276, §509(a)(1)(A)(ii), substituted “, subject to the limitations in paragraph (4); and” for period at end.
 
@@ -288,7 +288,7 @@ Subsec. (g)(3)(H). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(23)(C)(ii)
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(31)(C)(ii)\], substituted “programs under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 and any other” for “program under the Job Training Partnership Act and any other”.
 
-1996—Subsec. (m). Pub. L. 104–316 substituted “may” for “shall” after “United States”, struck out “(1)
+<b>1996</b>—Subsec. (m). Pub. L. 104–316 substituted “may” for “shall” after “United States”, struck out “(1)
 
 In general.—” before “The Comptroller General”, and struck out par. (2) which read as follows:
 
@@ -302,7 +302,7 @@ Timing.—The Comptroller General shall submit the following reports under this 
 
 Subsec. (<i>o</i>)(2). Pub. L. 104–330 struck out heading and text of par. (2). Text read as follows: “Notwithstanding any other provision of law, the provisions of this section shall be optional for Indian housing authorities.”
 
-1992—Subsec. (b)(2). Pub. L. 102–550, §106(b), added subpars. (A) to (D) and concluding provisions and struck out former subpars. (A) to (D) which read as follows:
+<b>1992</b>—Subsec. (b)(2). Pub. L. 102–550, §106(b), added subpars. (A) to (D) and concluding provisions and struck out former subpars. (A) to (D) which read as follows:
 
 “(A) lack of supportive services funding;
 

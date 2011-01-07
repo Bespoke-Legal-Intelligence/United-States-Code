@@ -6,7 +6,7 @@ The Secretary of Transportation shall consult with the Secretary to limit, to th
 
 #### (b) Transportation costs study
 
-Within 1 year after August 3, 2007, the Secretary of Transportation, in conjunction with the Secretary, shall study to what extent the insurance, security, and safety costs borne by railroad carriers, motor carriers, pipeline carriers, air carriers, and maritime carriers associated with the transportation of hazardous materials are reflected in the rates paid by offerors of such commodities as compared to the costs and rates,respectively, for the transportation of nonhazardous materials.
+Within 1 year after August 3, 2007, the Secretary of Transportation, in conjunction with the Secretary, shall study to what extent the insurance, security, and safety costs borne by railroad carriers, motor carriers, pipeline carriers, air carriers, and maritime carriers associated with the transportation of hazardous materials are reflected in the rates paid by offerors of such commodities as compared to the costs and rates, respectively, for the transportation of nonhazardous materials.
 
 (Pub. L. 110–53, title XV, §1555, Aug. 3, 2007, 121 Stat. 475.)
 

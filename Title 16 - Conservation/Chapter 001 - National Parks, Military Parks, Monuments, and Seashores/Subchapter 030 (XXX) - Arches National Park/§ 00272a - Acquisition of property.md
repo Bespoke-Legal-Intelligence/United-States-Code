@@ -12,5 +12,5 @@ As soon as practicable after October 30, 1998, the Secretary shall transfer juri
 
 #### Amendments
 
-1998—Pub. L. 105–329 inserted section catchline and subsec. (a) designation and heading and added subsec. (b).
+<b>1998</b>—Pub. L. 105–329 inserted section catchline and subsec. (a) designation and heading and added subsec. (b).
 

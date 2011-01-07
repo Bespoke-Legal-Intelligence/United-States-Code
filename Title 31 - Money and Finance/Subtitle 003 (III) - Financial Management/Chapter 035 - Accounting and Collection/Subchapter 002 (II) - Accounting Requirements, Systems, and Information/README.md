@@ -1,7 +1,5 @@
 ### SUBCHAPTER II—ACCOUNTING REQUIREMENTS, SYSTEMS, AND INFORMATION
 
-<i><sup>1</sup></i><i> So in original.</i>
-
 
 ---
 

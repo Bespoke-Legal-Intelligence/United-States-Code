@@ -17,27 +17,27 @@
 
 #### Amendments
 
-2009—Pub. L. 111–84, div. A, title V, §525(a)(3)(B), title IX, §901(b), Oct. 28, 2009, 123 Stat. 2286, 2423, added items 2167a and 2169.
+<b>2009</b>—Pub. L. 111–84, div. A, title V, §525(a)(3)(B), title IX, §901(b), Oct. 28, 2009, 123 Stat. 2286, 2423, added items 2167a and 2169.
 
-2008—Pub. L. 110–417, \[div. A\], title V, §543(a)(2), (b)(2), Oct. 14, 2008, 122 Stat. 4457, 4458, added items 2161 and 2163 and struck out former items 2161 “Joint Military Intelligence College: academic degrees” and 2163 “National Defense University: master's degree programs”.
+<b>2008</b>—Pub. L. 110–417, \[div. A\], title V, §543(a)(2), (b)(2), Oct. 14, 2008, 122 Stat. 4457, 4458, added items 2161and 2163 and struck out former items 2161 “Joint Military Intelligence College: academic degrees” and 2163 “National Defense University: master's degree programs”.
 
 Pub. L. 110–181, div. A, title V, §526(b)(2), Jan. 28, 2008, 122 Stat. 105, added item 2163 and struck out former item 2163 “National Defense University: master of science degrees”.
 
-2006—Pub. L. 109–163, div. A, title V, §521(b), Jan. 6, 2006, 119 Stat. 3240, substituted “National Defense University: master of science degrees” for “National Defense University: masters of science in national security strategy and in national resource strategy” in item 2163.
+<b>2006</b>—Pub. L. 109–163, div. A, title V, §521(b), Jan. 6, 2006, 119 Stat. 3240, substituted “National Defense University: master of science degrees” for “National Defense University: masters of science in national security strategy and in national resource strategy” in item 2163.
 
-2001—Pub. L. 107–107, div. A, title V, §§528(a)(2), 531(b), Dec. 28, 2001, 115 Stat. 1103, 1104, added items 2167 and 2168.
+<b>2001</b>—Pub. L. 107–107, div. A, title V, §§528(a)(2), 531(b), Dec. 28, 2001, 115 Stat. 1103, 1104, added items 2167 and 2168.
 
-2000—Pub. L. 106–398, §1 \[\[div. A\], title IX, §911(c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–228, added item 2166.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title IX, §911(c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–228, added item 2166.
 
-1997—Pub. L. 105–107, title V, §501(b), Nov. 20, 1997, 111 Stat. 2262, substituted “Joint Military Intelligence College: academic degrees” for “Defense Intelligence School; master of science of strategic intelligence” in item 2261.
+<b>1997</b>—Pub. L. 105–107, title V, §501(b), Nov. 20, 1997, 111 Stat. 2262, substituted “Joint Military Intelligence College: academic degrees” for “Defense Intelligence School; master of science of strategic intelligence” in item 2261.
 
 Pub. L. 105–85, div. A, title IX, §921(a)(2), Nov. 18, 1997, 111 Stat. 1862, added item 2165.
 
-1994—Pub. L. 103–337, div. A, title III, §351(b), Oct. 5, 1994, 108 Stat. 2730, added item 2164.
+<b>1994</b>—Pub. L. 103–337, div. A, title III, §351(b), Oct. 5, 1994, 108 Stat. 2730, added item 2164.
 
-1993—Pub. L. 103–160, div. A, title IX, §922(b), Nov. 30, 1993, 107 Stat. 1731, added item 2163.
+<b>1993</b>—Pub. L. 103–160, div. A, title IX, §922(b), Nov. 30, 1993, 107 Stat. 1731, added item 2163.
 
-1990—Pub. L. 101–510, div. A, title IX, §911(b)(1), (2), Nov. 5, 1990, 104 Stat. 1626, substituted “DEPARTMENTOF DEFENSE SCHOOLS” for “GRANTING OF ADVANCED DEGREES AT DEPARTMENT OF DEFENSE SCHOOLS” as chapter heading and added item 2162.
+<b>1990</b>—Pub. L. 101–510, div. A, title IX, §911(b)(1), (2), Nov. 5, 1990, 104 Stat. 1626, substituted “DEPARTMENT OF DEFENSE SCHOOLS” for “GRANTING OF ADVANCED DEGREES AT DEPARTMENT OF DEFENSE SCHOOLS” as chapter heading and added item 2162.
 
 #### Asia-Pacific Center for Security Studies: Reimbursement Waiver for Personnel of Foreign Nations
 

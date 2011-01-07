@@ -50,7 +50,7 @@ Variance procedures.—An employing office may request from the Secretary of Lab
 
 &emsp;(5)
 
-Judicial review.—Any person or employing office aggrieved by a final decision of the Occupational Safety and Health Review Commission under paragraph (3) or the Secretary of Labor under paragraph (4) may file a petition for review with the United States Courtof Appeals for the Federal Circuit under section 1296 of title 28.
+Judicial review.—Any person or employing office aggrieved by a final decision of the Occupational Safety and Health Review Commission under paragraph (3) or the Secretary of Labor under paragraph (4) may file a petition for review with the United States Court of Appeals for the Federal Circuit under section 1296 of title 28.
 
 &emsp;(6)
 

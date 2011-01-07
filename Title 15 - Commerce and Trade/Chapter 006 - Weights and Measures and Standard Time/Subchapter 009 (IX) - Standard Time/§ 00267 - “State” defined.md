@@ -10,5 +10,5 @@ This Act, referred to in text, is Pub. L. 89–387, Apr. 13, 1966, 80 Stat. 107,
 
 #### Amendments
 
-2000—Pub. L. 106–564 inserted “Guam, the Commonwealth of the Northern Mariana Islands,” after “Puerto Rico,”.
+<b>2000</b>—Pub. L. 106–564 inserted “Guam, the Commonwealth of the Northern Mariana Islands,” after “Puerto Rico,”.
 

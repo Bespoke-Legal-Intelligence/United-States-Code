@@ -1,0 +1,44 @@
+### §1647d. Navajo Nation medicaid agency feasibility study
+
+#### (a) Study
+
+The Secretary shall conduct a study to determine the feasibility of treating the Navajo Nation as a State for the purposes of title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], to provide services to Indians living within the boundaries of the Navajo Nation through an entity established having the same authority and performing the same functions as single-State medicaid agencies responsible for the administration of the State plan under title XIX of the Social Security Act.
+
+#### (b) Considerations
+
+In conducting the study, the Secretary shall consider the feasibility of—
+
+&emsp;(1) assigning and paying all expenditures for the provision of services and related administration funds, under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], to Indians living within the boundaries of the Navajo Nation that are currently paid to or would otherwise be paid to the State of Arizona, New Mexico, or Utah;
+
+&emsp;(2) providing assistance to the Navajo Nation in the development and implementation of such entity for the administration, eligibility, payment, and delivery of medical assistance under title XIX of the Social Security Act;
+
+&emsp;(3) providing an appropriate level of matching funds for Federal medical assistance with respect to amounts such entity expends for medical assistance for services and related administrative costs; and
+
+&emsp;(4) authorizing the Secretary, at the option of the Navajo Nation, to treat the Navajo Nation as a State for the purposes of title XIX <sup>1</sup> of the Social Security Act (relating to the State children's health insurance program) under terms equivalent to those described in paragraphs (2) through (4).<sup>2</sup>
+
+#### (c) Report
+
+Not later then 3 years after March 23, 2010, the Secretary shall submit to the Committee on Indian Affairs and Committee on Finance of the Senate and the Committee on Natural Resources and Committee on Energy and Commerce of the House of Representatives a report that includes—
+
+&emsp;(1) the results of the study under this section;
+
+&emsp;(2) a summary of any consultation that occurred between the Secretary and the Navajo Nation, other Indian Tribes, the States of Arizona, New Mexico, and Utah, counties which include Navajo Lands, and other interested parties, in conducting this study;
+
+&emsp;(3) projected costs or savings associated with establishment of such entity, and any estimated impact on services provided as described in this section in relation to probable costs or savings; and
+
+&emsp;(4) legislative actions that would be required to authorize the establishment of such entity if such entity is determined by the Secretary to be feasible.
+
+(Pub. L. 94–437, title IV, §411, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+
+#### References in Text
+
+The Social Security Act, referred to in subsecs. (a) and (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Title XIX of the Social Security Act (relating to the State children's health insurance program), referred to in subsec. (b)(4), probably means title XXI of the Act, which is classified generally to subchapter XXI (§1397aa et seq.) of chapter 7 of Title 42 and relates to the State Children's Health Insurance Program. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+#### Codification
+
+Section 411 of Pub. L. 94–437 is based on section 159 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be paragraphs “(1) through (3).”.</i>
+

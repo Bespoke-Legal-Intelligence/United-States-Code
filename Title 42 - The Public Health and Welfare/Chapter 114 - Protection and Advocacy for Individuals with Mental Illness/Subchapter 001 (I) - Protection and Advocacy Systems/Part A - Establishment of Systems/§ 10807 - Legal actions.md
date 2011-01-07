@@ -8,5 +8,7 @@
 
 #### Amendments
 
-1991—Pub. L. 102–173 substituted “individual with mental illness” for “mentally ill individual” in subsecs. (a) and (b).
+<b>1991</b>—Pub. L. 102–173 substituted “individual with mental illness” for “mentally ill individual” in subsecs. (a) and (b).
+
+<i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

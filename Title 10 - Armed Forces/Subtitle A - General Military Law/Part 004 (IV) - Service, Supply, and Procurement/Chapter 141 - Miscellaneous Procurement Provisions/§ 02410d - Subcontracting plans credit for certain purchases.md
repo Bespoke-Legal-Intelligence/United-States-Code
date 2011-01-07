@@ -8,17 +8,17 @@ Purchases Benefiting Severely Handicapped Persons.—In the case of a business c
 
 Definitions.—In this section:
 
-&emsp;(1) The term “small business subcontracting plan” means a plan negotiated pursuant to section 8(d) of the Small Business Act (15 U.S.C. 637(d)) that establishes a goal for the participation of small business concerns as subcontractors under a contract.
+&emsp;(1) The term “small business subcontracting plan” means a plan negotiated pursuant tosection 8(d) of the Small Business Act (15 U.S.C. 637(d)) that establishes a goal for the participation of small business concerns as subcontractors under a contract.
 
 &emsp;(2) The term “qualified nonprofit agency for the blind or other severely handicapped” means—
 
-&emsp;&emsp;(A) a qualified nonprofit agency for the blind, as defined in section 5(3) of the Javits-Wagner-O'Day Act (41 U.S.C. 48b(3));
+&emsp;&emsp;(A) a qualified nonprofit agency for the blind, as defined in section 8501(7) of title 41;
 
-&emsp;&emsp;(B) a qualified nonprofit agency for other severely handicapped, as defined in section 5(4) of such Act (41 U.S.C. 48b(4)); and
+&emsp;&emsp;(B) a qualified nonprofit agency for other severely disabled, as defined in section 8501(6) of title 41; and
 
-&emsp;&emsp;(C) a central nonprofit agency designated by the Committee for Purchase from PeopleWho Are Blind or Severely Disabled under section 2(c) of such Act (41 U.S.C. 47(c)).
+&emsp;&emsp;(C) a central nonprofit agency designated by the Committee for Purchase from People Who Are Blind or Severely Disabled under section 8503(c) of title 41.
 
-(Added Pub. L. 102–484, div. A, title VIII, §808(b)(1), Oct. 23, 1992, 106 Stat. 2449; amended Pub. L. 103–337, div. A, title VIII, §804, Oct. 5, 1994, 108 Stat. 2815; Pub. L. 104–106, div. D, title XLIII, §4321(b)(15), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title VIII, §835, Nov. 18, 1997, 111 Stat. 1843; Pub. L. 106–65, div. A, title VIII, §807, Oct. 5, 1999, 113 Stat. 705.)
+(Added Pub. L. 102–484, div. A, title VIII, §808(b)(1), Oct. 23, 1992, 106 Stat. 2449; amended Pub. L. 103–337, div. A, title VIII, §804, Oct. 5, 1994, 108 Stat. 2815; Pub. L. 104–106, div. D, title XLIII, §4321(b)(15), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title VIII, §835, Nov. 18, 1997, 111 Stat. 1843; Pub. L. 106–65, div. A, title VIII, §807, Oct. 5, 1999, 113 Stat. 705; Pub. L. 111–350, §5(b)(29), Jan. 4, 2011, 124 Stat. 3845.)
 
 #### Codification
 
@@ -26,13 +26,19 @@ Another section 2410d was renumbered section 2410k of this title.
 
 #### Amendments
 
-1999—Subsec. (c). Pub. L. 106–65 struck out heading and text of subsec. (c). Text read as follows: “Subsection (a) shall cease to be effective at the end of September 30, 1999.”
+<b>2011</b>—Subsec. (b)(2)(A). Pub. L. 111–350, §5(b)(29)(A), substituted “section 8501(7) of title 41” for “section 5(3) of the Javits-Wagner-O'Day Act (41 U.S.C. 48b(3))”.
 
-1997—Subsec. (c). Pub. L. 105–85 substituted “September 30, 1999” for “September 30, 1997”.
+Subsec. (b)(2)(B). Pub. L. 111–350, §5(b)(29)(B), substituted “disabled, as defined in section 8501(6) of title 41” for “handicapped, as defined in section 5(4) of such Act (41 U.S.C. 48b(4))”.
 
-1996—Subsec. (b)(3). Pub. L. 104–106 struck out par. (3) which read as follows: “The term ‘Javits-Wagner-O'Day Act’ means the Act entitled ‘An Act to create a Committee on Purchases of Blind-made Products, and for other purposes’, approved June 25, 1938 (41 U.S.C. 46–48c), commonly referred to as the Wagner-O'Day Act, that was revised and reenacted in the Act of June 23, 1971 (85 Stat. 77), commonly referred to as the Javits-Wagner-O'Day Act.”
+Subsec. (b)(2)(C). Pub. L. 111–350, §5(b)(29)(C), substituted “section 8503(c) of title 41” for “section 2(c) of such Act (41 U.S.C. 47(c))”.
 
-1994—Subsec. (b)(2)(C). Pub. L. 103–337, §804(1)(A), added subpar. (C).
+<b>1999</b>—Subsec. (c). Pub. L. 106–65 struck out heading and text of subsec. (c). Text read as follows: “Subsection (a) shall cease to be effective at the end of September 30, 1999.”
+
+<b>1997</b>—Subsec. (c). Pub. L. 105–85 substituted “September 30, 1999” for “September 30, 1997”.
+
+<b>1996</b>—Subsec. (b)(3). Pub. L. 104–106 struck out par. (3) which read as follows: “The term ‘Javits-Wagner-O'Day Act’ means the Act entitled ‘An Act to create a Committee on Purchases of Blind-made Products, and for other purposes’, approved June 25, 1938 (41 U.S.C. 46–48c), commonly referred to as the Wagner-O'Day Act, that was revised and reenacted in the Act of June 23, 1971 (85 Stat. 77), commonly referred to as the Javits-Wagner-O'Day Act.”
+
+<b>1994</b>—Subsec. (b)(2)(C). Pub. L. 103–337, §804(1)(A), added subpar. (C).
 
 Subsec. (b)(3), (4). Pub. L. 103–337, §804(1)(B), (C), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The terms ‘approved commodity’ and ‘approved service’ mean a commodity and a service, respectively, that has been determined by the Committee for Purchase from the Blind and Other Severely Handicapped under section 2 of such Act (41 U.S.C. 47) to be suitable for procurement by the Federal Government.”
 
@@ -44,7 +50,7 @@ Section 835 of Pub. L. 105–85 provided that the amendment made by that section
 
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2302 of this title.
 
 #### Effective Date
 
@@ -58,7 +64,7 @@ Pub. L. 108–87, title VIII, §8025, Sept. 30, 2003, 117 Stat. 1077, provided t
 
 “(b) During the current fiscal year and hereafter, a business concern which has negotiated with a military service or defense agency a subcontracting plan for the participation by small business concerns pursuant to section 8(d) of the Small Business Act (15 U.S.C. 637(d)) shall be given credit toward meeting that subcontracting goal for any purchases made from qualified nonprofit agencies for the blind or other severely handicapped.
 
-“(c) For the purpose of this section, the phrase ‘qualified nonprofit agency for the blind or other severely handicapped’ means a nonprofit agency for the blind or other severely handicapped that has been approved by the Committee for the Purchase from the Blind and Other Severely Handicapped under the Javits-Wagner-O'Day Act (41 U.S.C. 46–48) \[41 U.S.C. 46–48c\].”
+“(c) For the purpose of this section, the phrase ‘qualified nonprofit agency for the blind or other severely handicapped’ means a nonprofit agency for the blind or other severely handicapped that has been approved by the Committee for the Purchase from the Blind and Other Severely Handicapped under the Javits-Wagner-O'Day Act (\[former\] 41 U.S.C. 46–48\[c\]) \[now 41 U.S.C. 8501 et seq.\].”
 
 Similar provisions were contained in the following prior appropriation acts:
 

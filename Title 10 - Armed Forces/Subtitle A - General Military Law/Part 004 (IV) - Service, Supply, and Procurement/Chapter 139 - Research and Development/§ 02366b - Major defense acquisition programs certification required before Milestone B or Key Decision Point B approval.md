@@ -24,35 +24,35 @@ Certification.—A major defense acquisition program may not receive Milestone B
 
 &emsp;&emsp;(C) the Joint Requirements Oversight Council has accomplished its duties with respect to the program pursuant to section 181(b) of this title, including an analysis of the operational requirements for the program;
 
-&emsp;&emsp;(D) the technology in the program has been demonstrated in a relevant environment, as determined by the Milestone Decision Authority on the basis of an independent review and assessment by the Director of Defense Research and Engineering; and
+&emsp;&emsp;(D) the technology in the program has been demonstrated in a relevant environment, as determined by the Milestone Decision Authority on the basis of an independent review and assessment by the Assistant Secretary of Defense for Research and Engineering; and
 
 &emsp;&emsp;(E) the program complies with all relevant policies, regulations, and directives of the Department of Defense.
 
 (b)
 
-Changes to Certification.—(1) The program manager for a major defense acquisition program that has received certification under subsection (a) shall immediately notify the milestone decision authority of any changes to the program that—
+Changes to Certification.—(1) The program manager for a major defense acquisition program that has received certification under subsection (a) shall immediately notify the milestone decision authority of any changes to the program or a designated major subprogram of such program that—
 
 &emsp;(A) alter the substantive basis for the certification of the milestone decision authority relating to any component of such certification specified in paragraph (1) or (2) of subsection (a); or
 
-&emsp;(B) otherwise cause the program to deviate significantly from the material provided to the milestone decision authority in support of such certification.
+&emsp;(B) otherwise cause the program or subprogram to deviate significantly from the material provided to the milestone decision authority in support of such certification.
 
 (2) Upon receipt of information under paragraph (1), the milestone decision authority may withdraw the certification concerned or rescind Milestone B approval (or Key Decision Point B approval in the case of a space program) if the milestone decision authority determines that such certification or approval is no longer valid.
 
 (c)
 
-Submission to Congress.—(1) The certification required under subsection (a) with respect to a major defense acquisition programshall be submitted to the congressional defense committees with the first Selected Acquisition Report submitted under section 2432 of this title after completion of the certification.
+Submission to Congress.—(1) The certification required under subsection (a) with respect to a major defense acquisition program shall be submitted to the congressional defense committees with the first Selected Acquisition Report submitted under section 2432 of this title after completion of the certification.
 
-(2) A summary of any information provided to the milestone decision authority pursuant to subsection (b) and a description of the actions taken as a result of such information shall be submitted with the first Selected Acquisition Report submitted under section 2432 of this title after receipt of such information by the milestone decision authority.
+(2) A summary of any information provided to the milestone decision authority pursuant to subsection (b) and a description of the actions taken as a result of such information shall besubmitted with the first Selected Acquisition Report submitted under section 2432 of this title after receipt of such information by the milestone decision authority.
 
 (d)
 
-Waiver for National Security.—(1) The milestone decision authority may, at the time of Milestone B approval (or Key Decision Point B approval in the case of a space program) or at the time that such milestone decision authority withdraws a certification or rescinds Milestone B approval (or Key Decision Point B approval in the case of a space program) pursuant to subsection (b)(2), waive the applicability to a major defense acquisition program of one or more components (as specified in paragraph (1) or (2) of subsection (a)) of the certification requirement if the milestone decision authority determines that, but for such a waiver, the Department would be unable to meet critical national security objectives.
+Waiver for National Security.—(1) The milestone decision authority may, at the time of Milestone B approval (or Key Decision Point B approval in the case of a space program) or at the time that such milestone decision authority withdraws a certification or rescinds Milestone B approval (or Key Decision Point B approval in the case of a space program) pursuant to subsection (b)(2), waive the applicability to a major defense acquisition program of one or more components (as specified in paragraph (1), (2), or (3) of subsection (a)) of the certification requirement if the milestone decision authority determines that, but for such a waiver, the Department would be unable to meet critical national security objectives.
 
 (2) Whenever the milestone decision authority makes such a determination and authorizes such a waiver—
 
 &emsp;(A) the waiver, the determination, and the reasons for the determination shall be submitted in writing to the congressional defense committees within 30 days after the waiver is authorized; and
 
-&emsp;(B) the milestone decision authority shall review the program not less often than annually to determine the extent to which such program currently satisfies the certification components specified in paragraphs (1) and (2) of subsection (a) until such time as the milestone decision authority determines that the program satisfies all such certification components.
+&emsp;(B) the milestone decision authority shall review the program not less often than annually to determine the extent to which such program currently satisfies the certification components specified in paragraphs (1), (2), and (3) of subsection (a) until such time as the milestone decision authority determines that the program satisfies all such certification components.
 
 (e)
 
@@ -68,13 +68,15 @@ Definitions.—In this section:
 
 &emsp;(1) The term “major defense acquisition program” means a Department of Defense acquisition program that is a major defense acquisition program for purposes of section 2430 of this title.
 
-&emsp;(2) The term “milestone decision authority”, with respect to a major defense acquisition program, means the individual within the Department of Defense designated with overall responsibility for the program.
+&emsp;(2) The term “designated major subprogram” means a major subprogram of a major defense acquisition program designated under section 2430a(a)(1) of this title.
 
-&emsp;(3) The term “Milestone B approval” has the meaning provided that term in section 2366(e)(7) of this title.
+&emsp;(3) The term “milestone decision authority”, with respect to a major defense acquisition program, means the individual within the Department of Defense designated with overall responsibility for the program.
 
-&emsp;(4) The term “Key Decision Point B” means the official program initiation of a National Security Space program of the Department of Defense, which triggers a formal review to determine maturity of technology and the program's readiness to begin the preliminary system design.
+&emsp;(4) The term “Milestone B approval” has the meaning provided that term in section 2366(e)(7) of this title.
 
-(Added Pub. L. 109–163, div. A, title VIII, §801(a), Jan. 6, 2006, 119 Stat. 3366, §2366a; amended Pub. L. 109–364, div. A, title VIII, §805, Oct. 17, 2006, 120 Stat. 2314; Pub. L. 110–181, div. A, title VIII, §812, Jan. 28, 2008, 122 Stat. 219; renumbered §2366b, Pub. L. 110–417, \[div. A\], title VIII, §813(a), (b), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §101(d)(4), title II, §§201(f), 205(a), May 22, 2009, 123 Stat. 1710, 1720, 1724.)
+&emsp;(5) The term “Key Decision Point B” means the official program initiation of a National Security Space program of the Department of Defense, which triggers a formal review to determine maturity of technology and the program's readiness to begin the preliminary system design.
+
+(Added Pub. L. 109–163, div. A, title VIII, §801(a), Jan. 6, 2006, 119 Stat. 3366, §2366a; amended Pub. L. 109–364, div. A, title VIII, §805, Oct. 17, 2006, 120 Stat. 2314; Pub. L. 110–181, div. A, title VIII, §812, Jan. 28, 2008, 122 Stat. 219; renumbered §2366b, Pub. L. 110–417, \[div. A\], title VIII, §813(a), (b), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §101(d)(4), title II, §§201(f), 205(a), May 22, 2009, 123 Stat. 1710, 1720, 1724; Pub. L. 111–383, div. A, title VIII, §§813(d)(1), 814(c), title IX, §901(j)(4), title X, §1075(k)(1), Jan. 7, 2011, 124 Stat. 4265, 4266, 4324, 4378.)
 
 #### Prior Provisions
 
@@ -82,7 +84,21 @@ A prior section 2366b was renumbered section 2366a of this title.
 
 #### Amendments
 
-2009—Subsec. (a)(1)(B). Pub. L. 111–23, §201(f), inserted “appropriate trade-offs among cost, schedule, and performance objectives have been made to ensure that” before “the program is affordable”.
+<b>2011</b>—Subsec. (a)(3)(D). Pub. L. 111–383, §901(j)(4), substituted “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering”.
+
+Subsec. (b)(1). Pub. L. 111–383, §814(c)(1)(A), substituted “any changes to the program or a designated major subprogram of such program” for “any changes to the program” in introductory provisions.
+
+Subsec. (b)(1)(B). Pub. L. 111–383, §814(c)(1)(B), substituted “otherwise cause the program or subprogram” for “otherwise cause the program”.
+
+Subsec. (d)(1). Pub. L. 111–383, §813(d)(1)(A), substituted “(as specified in paragraph (1), (2), or (3) of subsection (a))” for “(as specified in paragraph (1) or (2) of subsection (a))”.
+
+Subsec. (d)(2)(B). Pub. L. 111–383, §1075(k)(1), which directed amendment of directory language of Pub. L. 111–23, §205(a)(1)(B), resulting in substitution of “paragraphs (1), (2), and (3)” for “paragraphs (1) and (2)” in text, was not executed because of the prior identical amendment by Pub. L. 111–383, §813(d)(1)(B). See below.
+
+Pub. L. 111–383, §813(d)(1)(B), substituted “specified in paragraphs (1), (2), and (3) of subsection (a)” for “specified in paragraphs (1) and (2) of subsection (a)”.
+
+Subsec. (g)(2) to (5). Pub. L. 111–383, §814(c)(2), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
+
+<b>2009</b>—Subsec. (a)(1)(B). Pub. L. 111–23, §201(f), inserted “appropriate trade-offs among cost, schedule, and performance objectives have been made to ensure that” before “the program is affordable”.
 
 Subsec. (a)(1)(C). Pub. L. 111–23, §101(d)(4), inserted “, with the concurrence of the Director of Cost Assessment and Program Evaluation,” before “the product”.
 
@@ -98,7 +114,7 @@ Subsec. (d). Pub. L. 111–23, §205(a)(1), designated existing provisions as pa
 
 Subsecs. (e) to (g). Pub. L. 111–23, §205(a)(2), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
-2008—Pub. L. 110–417, §813(a), (b), renumbered section 2366a of this title as this section.
+<b>2008</b>—Pub. L. 110–417, §813(a), (b), renumbered section 2366a of this title as this section.
 
 Subsec. (a). Pub. L. 110–181, §812(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) consisted of pars. (1) to (10) relating to required certifications by milestone decision authority for major defense acquisition program to receive Milestone B approval, or Key Decision Point B approval in the case of a space program.
 
@@ -118,7 +134,7 @@ Pub. L. 110–181, §812(2), redesignated subsec. (d) as (e). Former subsec. (e)
 
 Subsec. (f). Pub. L. 110–181, §812(2), redesignated subsec. (e) as (f).
 
-2006—Subsec. (a)(1) to (7). Pub. L. 109–364, §805(a)(1)–(3), added par. (1) and redesignated former pars. (1) to (6) as (2) to (7), respectively. Former par. (7) redesignated (10).
+<b>2006</b>—Subsec. (a)(1) to (7). Pub. L. 109–364, §805(a)(1)–(3), added par. (1) and redesignated former pars. (1) to (6) as (2) to (7), respectively. Former par. (7) redesignated (10).
 
 Subsec. (a)(8), (9). Pub. L. 109–364, §805(a)(4), (5), added pars. (8) and (9).
 
@@ -126,13 +142,21 @@ Subsec. (a)(10). Pub. L. 109–364, §805(a)(1), redesignated par. (7) as (10).
 
 Subsec. (c). Pub. L. 109–364, §805(b), substituted “(5), (6), (7), (8), or (9)” for “(5), or (6)”.
 
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–383, div. A, title VIII, §813(d)(1), Jan. 7, 2011, 124 Stat. 4265, provided that the amendment made by section 813(d)(1) is effective as of May 22, 2009.
+
+Amendment by section 901(j)(4) of Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under section 131 of this title.
+
+Pub. L. 111–383, div. A, title X, §1075(k), Jan. 7, 2011, 124 Stat. 4378, provided that the amendment made by section 1075(k)(1) is effective as of May 22, 2009, and as if included in Pub. L. 111–23 as enacted.
+
 #### Certification and Review of Programs Entering Development Prior to Enactment of Section 2366b of Title 10
 
-Pub. L. 111–23, title II, §205(b), May 22, 2009, 123 Stat. 1725, provided that:
+Pub. L. 111–23, title II, §205(b), May 22, 2009, 123 Stat. 1725, as amended by Pub. L. 111–383, div. A, title VIII, §813(d)(2), Jan. 7, 2011, 124 Stat. 4266, provided that:
 
 “(1)
 
-Determination.—Not later than 270 days after the date of the enactment of this Act \[May 22, 2009\], for each major defense acquisition program that received Milestone B approval before January 6, 2006, and has not received Milestone C approval, and for each space program that received Key Decision Point B approval before January 6, 2006, and has not received Key Decision Point C approval, the Milestone Decision Authority shall determine whether or not such program satisfies all of the certification components specified in paragraphs (1) and (2) of subsection (a) of section 2366b of title 10, United States Code (as amended by subsection (a) of this section).
+Determination.—Not later than 270 days after the date of the enactment of this Act \[May 22, 2009\], for each major defense acquisition program that received Milestone B approval before January 6, 2006, and has not received Milestone C approval, and for each space program that received Key Decision Point B approval before January 6, 2006, and has not received Key Decision Point C approval, the Milestone Decision Authority shall determine whether or not such program satisfies all of the certification components specified in paragraphs (1), (2), and (3) of subsection (a) of section 2366b of title 10, United States Code (as amended by subsection (a) of this section).
 
 “(2)
 
@@ -141,6 +165,8 @@ Annual review.—The Milestone Decision Authority shall review any program deter
 “(3)
 
 Designation of certification status in budget documentation.—Any budget request, budget justification material, budget display, reprogramming request, Selected Acquisition Report, or other budget documentation or performance report submitted by the Secretary of Defense to the President regarding a major defense acquisition program which the Milestone Decision Authority determines under paragraph (1) does not satisfy all of the certification components of subsection (a) of section 2366b of title 10, United States Code, (as so amended) shall prominently and clearly indicate that such program has not fully satisfied such certification components until such time as the Milestone Decision Authority makes the determination that such program has satisfied all such certification components.”
+
+\[Pub. L. 111–383, div. A, title VIII, §813(d)(2), Jan. 7, 2011, 124 Stat. 4266, provided that the amendment made by section 813(d)(2) to section 205(b) of Pub. L. 111–23, set out above, is effective as of May 22, 2009, and as if included in Pub. L. 111–23 as enacted.\]
 
 \[For definition of “major defense acquisition program” as used in section 205(b) of Pub. L. 111–23, set out above, see section 2(2) of Pub. L. 111–23, set out as a note under section 2430 of this title.\]
 

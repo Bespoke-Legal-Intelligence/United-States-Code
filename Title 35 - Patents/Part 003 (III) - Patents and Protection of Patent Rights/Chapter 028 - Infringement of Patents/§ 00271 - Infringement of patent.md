@@ -12,11 +12,15 @@
 
 (2) It shall be an act of infringement to submit—
 
-&emsp;(A) an application under section 505(j) of the Federal Food, Drug, and Cosmetic Act or described in section 505(b)(2) of such Act for a drug claimed in a patent or the use of which is claimed in a patent, or
+&emsp;(A) an application under section 505(j) of the Federal Food, Drug, and Cosmetic Act or described in section 505(b)(2) of such Act for a drug claimed in a patent or the use of which is claimed in a patent,
 
-&emsp;(B) an application under section 512 of such Act or under the Act of March 4, 1913 (21 U.S.C. 151–158) for a drug or veterinary biological product which is not primarily manufactured using recombinant DNA, recombinant RNA, hybridoma technology, or other processes involving site specific genetic manipulation techniques and which is claimed in a patent or the use of which is claimed in a patent,
+&emsp;(B) an application under section 512 of such Act or under the Act of March 4, 1913 (21 U.S.C. 151–158) for a drug or veterinary biological product which is not primarily manufactured using recombinant DNA, recombinant RNA, hybridoma technology, or other processes involving site specific genetic manipulation techniques and which is claimed in a patent or the use of which is claimed in a patent, or
 
-> if the purpose of such submission is to obtain approval under such Act to engage in the commercial manufacture, use, or sale of a drug or veterinary biological product claimed in a patent or the use of which is claimed in a patent before the expiration of such patent.
+&emsp;(C)(i) with respect to a patent that is identified in the list of patents described in section 351(<i>l</i>)(3) of the Public Health Service Act (including as provided under section 351(<i>l</i>)(7) of such Act), an application seeking approval of a biological product, or
+
+&emsp;(ii) if the applicant for the application fails to provide the application and information required under section 351(<i>l</i>)(2)(A) of such Act, an application seeking approval of a biological product for a patent that could be identified pursuant to section 351(<i>l</i>)(3)(A)(i) of such Act,
+
+> if the purpose of such submission is to obtain approval under such Act to engage in the commercial manufacture, use, or sale of a drug, veterinary biological product, or biological product claimed in a patent or the use of which is claimed in a patent before the expiration of such patent.
 
 (3) In any action for patent infringement brought under this section, no injunctive or other relief may be granted which would prohibit the making, using, offering to sell, or selling within the United States or importing into the United States of a patented invention under paragraph (1).
 
@@ -24,19 +28,35 @@
 
 &emsp;(A) the court shall order the effective date of any approval of the drug or veterinary biological product involved in the infringement to be a date which is not earlier than the date of the expiration of the patent which has been infringed,
 
-&emsp;(B) injunctive relief may be granted against an infringer to prevent the commercial manufacture, use, offer to sell, or sale within the United States or importation into the United States of an approved drug or veterinary biological product, and
+&emsp;(B) injunctive relief may be granted against an infringer to prevent the commercial manufacture, use, offer to sell, or sale within the United States or importation into the United States of an approved drug, veterinary biological product, or biological product,
 
-&emsp;(C) damages or other monetary relief may be awarded against an infringer only if there has been commercial manufacture, use, offer to sell, or sale within the United States or importation into the United States of an approved drug or veterinary biological product.
+&emsp;(C) damages or other monetary relief may be awarded against an infringer only if there has been commercial manufacture, use, offer to sell, or sale within the United States or importation into the United States of an approved drug, veterinary biological product, or biological product, and
 
-> The remedies prescribed by subparagraphs (A), (B), and (C) are the only remedies which may be granted by a court for an act of infringement described in paragraph (2), except that a court may award attorney fees under section 285.
+&emsp;(D) the court shall order a permanent injunction prohibiting any infringement of the patent by the biological product involved in the infringement until a date which is not earlier than the date of the expiration of the patent that has been infringed under paragraph (2)(C), provided the patent is the subject of a final court decision, as defined in section 351(k)(6) of the Public Health Service Act, in an action for infringement of the patent under section 351(<i>l</i>)(6) of such Act, and the biological product has not yet been approved because of section 351(k)(7) of such Act.
 
-(5) Where a person has filed an application described in paragraph (2) that includes a certification under subsection (b)(2)(A)(iv) or (j)(2)(A)(vii)(IV) of section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355), and neither the owner of the patent that is the subject of the certification nor the holder of the approved application under subsection (b) of such section for the drug that is claimed by the patent or a use of which is claimed by the patent brought an action for infringement of such patent before the expiration of 45 days after the date on which the notice given under subsection (b)(3) or (j)(2)(B) of such section was received, the courts of the United States shall, to the extent consistent with the Constitution, have subject matter jurisdiction in any action brought by such person under section 2201 of title 28 for a declaratory judgment that such patent is invalid or not infringed.
+> The remedies prescribed by subparagraphs (A), (B), (C), and (D) are the only remedies which may be granted by a court for an act of infringement described in paragraph (2), except that a court may award attorney fees under section 285.
+
+(5) Where a person has filed an application described in paragraph (2) that includes a certification under subsection (b)(2)(A)(iv) or (j)(2)(A)(vii)(IV) of section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355), and neither the owner of the patent that is the subject of the certification nor the holder of the approved application under subsection (b) of such section for the drug that is claimed by the patent or a use of which is claimed by the patent brought an action for infringement of such patent before the expiration of 45 days after the date on which the notice given under subsection (b)(3) or (j)(2)(B) of such section was received, the courts of the United States shall, to the extent consistent with the Constitution, have subject matter jurisdiction in any action broughtby such person under section 2201 of title 28 for a declaratory judgment that such patent is invalid or not infringed.
+
+(6)(A) Subparagraph (B) applies, in lieu of paragraph (4), in the case of a patent—
+
+&emsp;(i) that is identified, as applicable, in the list of patents described in section 351(<i>l</i>)(4) of the Public Health Service Act or the lists of patents described in section 351(<i>l</i>)(5)(B) of such Act with respect to a biological product; and
+
+&emsp;(ii) for which an action for infringement of the patent with respect to the biological product—
+
+&emsp;&emsp;(I) was brought after the expiration of the 30-day period described in subparagraph (A) or (B), as applicable, of section 351(<i>l</i>)(6) of such Act; or
+
+&emsp;&emsp;(II) was brought before the expiration of the 30-day period described in subclause (I), but which was dismissed without prejudice or was not prosecuted to judgment in good faith.
+
+(B) In an action for infringement of a patent described in subparagraph (A), the sole and exclusive remedy that may be granted by a court, upon a finding that the making, using, offering to sell, selling, or importation into the United States of the biological product that is the subject of the action infringed the patent, shall be a reasonable royalty.
+
+(C) The owner of a patent that should have been included in the list described in section 351(<i>l</i>)(3)(A) of the Public Health Service Act, including as provided under section 351(<i>l</i>)(7) of such Act for a biological product, but was not timely included in such list, may not bring an action under this section for infringement of the patent with respect to the biological product.
 
 (f)(1) Whoever without authority supplies or causes to be supplied in or from the United States all or a substantial portion of the components of a patented invention, where such components are uncombined in whole or in part, in such manner as to actively induce the combination of such components outside of the United States in a manner that would infringe the patent if such combination occurred within the United States, shall be liable as an infringer.
 
 (2) Whoever without authority supplies or causes to be supplied in or from the United States any component of a patented invention that is especially made or especially adapted for use in the invention and not a staple article or commodity of commerce suitable for substantial noninfringing use, where such component is uncombined in whole or in part, knowing that such component is so made or adapted and intending that such component will be combined outside of the United States in a manner that would infringe the patent if such combination occurred within the United States, shall be liable as an infringer.
 
-(g) Whoever without authority imports into the United States or offers to sell, sells, or useswithin the United States a product which is made by a process patented in the United States shall be liable as an infringer, if the importation, offer to sell, sale, or use of the product occurs during the term of such process patent. In an action for infringement of a process patent, no remedy may be granted for infringement on account of the noncommercial use or retail sale of a product unless there is no adequate remedy under this title for infringement on account of the importation or other use, offer to sell, or sale of that product. A product which is made by a patented process will, for purposes of this title, not be considered to be so made after—
+(g) Whoever without authority imports into the United States or offers to sell, sells, or uses within the United States a product which is made by a process patented in the United States shall be liable as an infringer, if the importation, offer to sell, sale, or use of the product occurs during the term of such process patent. In an action for infringement of a process patent, no remedy may be granted for infringement on account of the noncommercial use or retail sale of a product unless there is no adequate remedy under this title for infringement on account of the importation or other use, offer to sell, or sale of that product. A product which is made by a patented process will, for purposes of this title, not be considered to be so made after—
 
 &emsp;(1) it is materially changed by subsequent processes; or
 
@@ -46,7 +66,7 @@
 
 (i) As used in this section, an “offer for sale” or an “offer to sell” by a person other than the patentee, or any designee of the patentee, is that in which the sale will occur before the expiration of the term of the patent.
 
-(July 19, 1952, ch. 950, 66 Stat. 811; Pub. L. 98–417, title II, §202, Sept. 24, 1984, 98 Stat. 1603; Pub. L. 98–622, title I, §101(a), Nov. 8, 1984, 98 Stat. 3383; Pub. L. 100–418, title IX, §9003, Aug. 23, 1988, 102 Stat. 1563; Pub. L. 100–670, title II, §201(i), Nov. 16, 1988, 102 Stat. 3988; Pub. L. 100–703, title II, §201, Nov. 19, 1988, 102 Stat. 4676; Pub. L. 102–560, §2(a)(1), Oct. 28, 1992, 106 Stat. 4230; Pub. L. 103–465, title V, §533(a), Dec. 8, 1994, 108 Stat. 4988; Pub. L. 108–173, title XI, §1101(d), Dec. 8, 2003, 117 Stat. 2457.)
+(July 19, 1952, ch. 950, 66 Stat. 811; Pub. L. 98–417, title II, §202, Sept. 24, 1984, 98 Stat. 1603; Pub. L. 98–622, title I, §101(a), Nov. 8, 1984, 98 Stat. 3383; Pub. L. 100–418, title IX, §9003, Aug. 23, 1988, 102 Stat. 1563; Pub. L. 100–670, title II, §201(i), Nov. 16, 1988, 102 Stat. 3988; Pub. L. 100–703, title II, §201, Nov. 19, 1988, 102 Stat. 4676; Pub. L. 102–560, §2(a)(1), Oct. 28, 1992, 106 Stat. 4230; Pub. L. 103–465, title V, §533(a), Dec. 8, 1994, 108 Stat. 4988; Pub. L. 108–173, title XI, §1101(d), Dec. 8, 2003, 117 Stat. 2457; Pub. L. 111–148, title VII, §7002(c)(1), Mar. 23, 2010, 124 Stat. 815.)
 
 #### Historical and Revision Notes
 
@@ -56,15 +76,31 @@ Paragraphs (b) and (c) define and limit contributory infringement of a patent an
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (e)(1), (2), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. Sections 505 and 512 of the Act are classified to sections 355 and 360b, respectively, of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (e)(1), (2), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. Sections 505 and 512 of the Act are classified to sections 355 and 360b, respectively, of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-Act of March 4, 1913, referred to in subsec. (e)(1), (2), is act Mar. 4, 1913, ch. 145, 37 Stat. 828, as amended. The provisions of such act relating to viruses, etc., applicable to domestic animals, popularly known as the Virus-Serum-Toxin Act, are contained in the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, at 37 Stat. 832, and are classified generally to chapter 5 (§151 et seq.) of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
+Act of March 4, 1913, referred to in subsec. (e)(1), (2), is act Mar. 4, 1913, ch. 145, 37 Stat. 828. The provisions of such act relating to viruses, etc., applicable to domestic animals, popularly known as the Virus-Serum-Toxin Act, are contained in the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, at 37 Stat. 832, and are classified generally to chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
+
+Section 351 of the Public Health Service Act, referred to in subsec. (e)(2)(C), (4)(D), (6)(A), (C), is classified to section 262 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
-2003—Subsec. (e)(5). Pub. L. 108–173 added par. (5).
+<b>2010</b>—Subsec. (e)(2). Pub. L. 111–148, §7002(c)(1)(A)(iv), substituted “, veterinary biological product, or biological product” for “or veterinary biological product” in concluding provisions.
 
-1994—Subsec. (a). Pub. L. 103–465, §533(a)(1), inserted “, offers to sell,” after “uses” and “or imports into the United States any patented invention” after “the United States”.
+Subsec. (e)(2)(C). Pub. L. 111–148, §7002(c)(1)(A)(i)–(iii), added subpar. (C).
+
+Subsec. (e)(4). Pub. L. 111–148, §7002(c)(1)(B)(iv), substituted “(C), and (D)” for “and (C)” in concluding provisions.
+
+Subsec. (e)(4)(B). Pub. L. 111–148, §7002(c)(1)(B)(i), substituted “, veterinary biological product, or biological product” for “or veterinary biological product” and struck out “and” at end.
+
+Subsec. (e)(4)(C). Pub. L. 111–148, §7002(c)(1)(B)(ii), substituted “, veterinary biological product, or biological product” for “or veterinary biological product” and “, and” for period at end.
+
+Subsec. (e)(4)(D). Pub. L. 111–148, §7002(c)(1)(B)(iii), added subpar. (D).
+
+Subsec. (e)(6). Pub. L. 111–148, §7002(c)(1)(C), added par. (6).
+
+<b>2003</b>—Subsec. (e)(5). Pub. L. 108–173 added par. (5).
+
+<b>1994</b>—Subsec. (a). Pub. L. 103–465, §533(a)(1), inserted “, offers to sell,” after “uses” and “or imports into the United States any patented invention” after “the United States”.
 
 Subsec. (c). Pub. L. 103–465, §533(a)(2), substituted “offers to sell or sells within the United States or imports into the United States” for “sells”.
 
@@ -78,9 +114,9 @@ Subsec. (g). Pub. L. 103–465, §533(a)(4), substituted “offers to sell, sell
 
 Subsec. (i). Pub. L. 103–465, §533(a)(5), added subsec. (i).
 
-1992—Subsec. (h). Pub. L. 102–560 added subsec. (h).
+<b>1992</b>—Subsec. (h). Pub. L. 102–560 added subsec. (h).
 
-1988—Subsec. (d). Pub. L. 100–703 added cls. (4) and (5).
+<b>1988</b>—Subsec. (d). Pub. L. 100–703 added cls. (4) and (5).
 
 Subsec. (e)(1). Pub. L. 100–670, §201(i)(1), inserted “which is primarily manufactured using recombinant DNA, recombinant RNA, hybridoma technology, or other processes involving site specific genetic manipulation techniques” after “March 4, 1913)” and “or veterinary biological products” after “sale of drugs”.
 
@@ -90,7 +126,7 @@ Subsec. (e)(4). Pub. L. 100–670, §201(i)(3), inserted “or veterinary biolog
 
 Subsec. (g). Pub. L. 100–418 added subsec. (g).
 
-1984—Subsec. (e). Pub. L. 98–417 added subsec. (e).
+<b>1984</b>—Subsec. (e). Pub. L. 98–417 added subsec. (e).
 
 Subsec. (f). Pub. L. 98–622 added subsec. (f).
 

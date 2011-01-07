@@ -116,25 +116,25 @@
 
 #### Amendments
 
-2006—Pub. L. 109–304, §15(1), Oct. 6, 2006, 120 Stat. 1702, in each chapter item, capitalized first letter of each word containing 4 or more letters, struck out item for chapter 39 “Carriage of animals”, and substituted “Uninspected Commercial Fishing Industry Vessels” for “Fish processing vessels” in item 45.
+<b>2006</b>—Pub. L. 109–304, §15(1), Oct. 6, 2006, 120 Stat. 1702, in each chapter item, capitalized first letter of each word containing 4 or more letters, struck out item for chapter 39 “Carriage of animals”, and substituted “Uninspected Commercial Fishing Industry Vessels” for “Fish processing vessels” in item 45.
 
-2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(6)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, substituted “mariner benefits” for “Mariner Benefits” in item 112.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(6)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, substituted “mariner benefits” for “Mariner Benefits” in item 112.
 
-1998—Pub. L. 105–368, title IV, §402(b), Nov. 11, 1998, 112 Stat. 3337, added item 112.
+<b>1998</b>—Pub. L. 105–368, title IV, §402(b), Nov. 11, 1998, 112 Stat. 3337, added item 112.
 
-1996—Pub. L. 104–324, title VI, §602(b), Oct. 19, 1996, 110 Stat. 3930, added item 32.
+<b>1996</b>—Pub. L. 104–324, title VI, §602(b), Oct. 19, 1996, 110 Stat. 3930, added item 32.
 
-1992—Pub. L. 102–587, title V, §5304, Nov. 4, 1992, 106 Stat. 5083, added item 47.
+<b>1992</b>—Pub. L. 102–587, title V, §5304, Nov. 4, 1992, 106 Stat. 5083, added item 47.
 
-1988—Pub. L. 100–710, title I, §101(b), Nov. 23, 1988, 102 Stat. 4738, added item 125.
+<b>1988</b>—Pub. L. 100–710, title I, §101(b), Nov. 23, 1988, 102 Stat. 4738, added item 125.
 
 Pub. L. 100–424, §6(b), Sept. 9, 1988, 102 Stat. 1592, added item 106.
 
-1986—Pub. L. 99–509, title V, §5101(1), Oct. 21, 1986, 100 Stat. 1913, inserted items for parts C and J.
+<b>1986</b>—Pub. L. 99–509, title V, §5101(1), Oct. 21, 1986, 100 Stat. 1913, inserted items for parts C and J.
 
-1985—Pub. L. 99–36, §1(a)(9)(A), May 15, 1985, 99 Stat. 67, substituted “Merchant Seamen Licenses, Certifications, and” for “Licenses, Certificates, and Merchant Mariners’ ” in heading for part E.
+<b>1985</b>—Pub. L. 99–36, §1(a)(9)(A), May 15, 1985, 99 Stat. 67, substituted “Merchant Seamen Licenses, Certifications, and” for “Licenses, Certificates, and Merchant Mariners’ ” in heading for part E.
 
-1984—Pub. L. 98–364, title IV, §402(7)(A), July 17, 1984, 98 Stat. 446, inserted “generally” in item 41, reenacted item 43 without change, and added item 45.
+<b>1984</b>—Pub. L. 98–364, title IV, §402(7)(A), July 17, 1984, 98 Stat. 446, inserted “generally” in item 41, reenacted item 43 without change, and added item 45.
 
 
 ---

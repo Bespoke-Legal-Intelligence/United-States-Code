@@ -22,7 +22,7 @@ Commencing October 4, 1988, any and all right, title, interest, and estate of th
 
 #### (e) Release and quitclaim; conditions; sale; proceeds
 
-(1) The Secretary of the Interior is authorized where appropriate to release and quitclaim to a unit of government or to another entity meeting the requirements of this subsection any and all right, title, and interest in the surface estate of any portion of any right-of-way to the extent any such right, title, and interest was retained by the United States pursuant to subsection (c) of this section, if such portion is not located within the boundaries of any conservation system unit or National Forest. Such release and quitclaim shall be made only in response to an application therefor by a unit of State or local government or another entity which the Secretary of the Interior determines to be legally and financially qualified to manage the relevant portion for public recreational purposes. Upon receipt of such an application, the Secretary shall publish a notice concerning such application in a newspaper of general circulation in the area where the relevant portion is located. Such release and quitclaim shall be on the following conditions:
+(1) The Secretary of the Interior is authorized where appropriate to release and quitclaim to a unit of government or to another entity meeting the requirements of this subsection any and all right, title, and interest in the surface estate of any portion of any right-of-way to the extent any such right, title, and interest was retained by the United States pursuant to subsection (c)of this section, if such portion is not located within the boundaries of any conservation system unit or National Forest. Such release and quitclaim shall be made only in response to an application therefor by a unit of State or local government or another entity which the Secretary of the Interior determines to be legally and financially qualified to manage the relevant portion for public recreational purposes. Upon receipt of such an application, the Secretary shall publish a notice concerning such application in a newspaper of general circulation in the area where the relevant portion is located. Such release and quitclaim shall be on the following conditions:
 
 &emsp;(A) If such unit or entity attempts to sell, convey, or otherwise transfer such right, title, or interest or attempts to permit the use of any part of such portion for any purpose incompatible with its use for public recreation, then any and all right, title, and interest released and quitclaimed by the Secretary pursuant to this subsection shall revert to the United States.
 
@@ -30,7 +30,7 @@ Commencing October 4, 1988, any and all right, title, interest, and estate of th
 
 &emsp;(C) Notwithstanding any other provision of law, the United States shall be under no duty to inspect such portion prior to such release and quitclaim, and shall incur no legal liability with respect to any hazard or any unsafe condition existing on such portion at the time of such release and quitclaim.
 
-(2) The Secretary is authorized to sell any portion of a right-of-way retained by the UnitedStates pursuant to subsection (c) of this section located outside the boundaries of a conservation system unit or National Forest if any such portion is—
+(2) The Secretary is authorized to sell any portion of a right-of-way retained by the United States pursuant to subsection (c) of this section located outside the boundaries of a conservation system unit or National Forest if any such portion is—
 
 &emsp;(A) not adjacent to or contiguous with any portion of the public lands; or
 
@@ -60,9 +60,9 @@ The Alaska National Interest Lands Conservation Act, referred to in subsec. (f)(
 
 #### Amendments
 
-1995—Subsec. (b). Pub. L. 104–88 substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
+<b>1995</b>—Subsec. (b). Pub. L. 104–88 substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
 
-1988—Subsecs. (c) to (f). Pub. L. 100–470 added subsecs. (c) to (f).
+<b>1988</b>—Subsecs. (c) to (f). Pub. L. 100–470 added subsecs. (c) to (f).
 
 #### Effective Date of 1995 Amendment
 

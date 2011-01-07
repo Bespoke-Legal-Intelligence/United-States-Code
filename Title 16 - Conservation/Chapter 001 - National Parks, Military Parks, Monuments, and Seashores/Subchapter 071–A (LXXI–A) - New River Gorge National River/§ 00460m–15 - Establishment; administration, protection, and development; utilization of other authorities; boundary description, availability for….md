@@ -6,11 +6,11 @@ For the purpose of conserving and interpreting outstanding natural, scenic, and 
 
 #### Amendments
 
-2002—Pub. L. 107–356 substituted “NERI 80,034, dated May 2001” for “NERI–80,028A, dated March 1996”.
+<b>2002</b>—Pub. L. 107–356 substituted “NERI 80,034, dated May 2001” for “NERI–80,028A, dated March 1996”.
 
-1996—Pub. L. 104–333 substituted “NERI–80,028A, dated March 1996” for “NERI–80,023, dated January 1987”.
+<b>1996</b>—Pub. L. 104–333 substituted “NERI–80,028A, dated March 1996” for “NERI–80,023, dated January 1987”.
 
-1988—Pub. L. 100–534 substituted “NERI–80,023, dated January 1987” for “NERI–20,002, dated July 1978”.
+<b>1988</b>—Pub. L. 100–534 substituted “NERI–80,023, dated January 1987” for “NERI–20,002, dated July 1978”.
 
 #### Short Title of 2002 Amendment
 

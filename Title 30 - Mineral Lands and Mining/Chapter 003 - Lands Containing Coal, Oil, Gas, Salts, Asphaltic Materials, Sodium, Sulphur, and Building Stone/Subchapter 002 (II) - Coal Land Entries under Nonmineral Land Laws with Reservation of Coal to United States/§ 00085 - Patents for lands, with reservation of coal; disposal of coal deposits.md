@@ -4,10 +4,6 @@ Upon satisfactory proof of full compliance with the provisions of the laws under
 
 (June 22, 1910, ch. 318, §3, 36 Stat. 584.)
 
-#### References in Text
-
-The land laws, referred to in text, are classified generally to Title 43, Public Lands.
-
 #### Supplemental Provisions
 
 See note set out under section 83 of this title.

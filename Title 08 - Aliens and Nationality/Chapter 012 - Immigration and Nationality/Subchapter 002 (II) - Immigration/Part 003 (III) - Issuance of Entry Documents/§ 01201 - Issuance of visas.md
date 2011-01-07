@@ -12,7 +12,7 @@
 
 #### (b) Registration; photographs; waiver of requirement
 
-Each alien who applies for a visa shall be registered in connection with his application, and shall furnish copies of his photograph signed by him for such use as may be by regulations required. The requirements of this subsection may be waived in the discretion of the Secretary of State in the case of any alien who is within that class of nonimmigrants enumerated in sections 1101(a)(15)(A), and 1101(a)(15)(G) of this title, or in the case of any alien who is granted a diplomatic visa on a diplomatic passport or on the equivalent thereof.
+Each alien who applies for a visa shall be registered in connection with his application, and shall furnish copies of his photograph signed by him for such use as may be by regulations required. The requirements of this subsection may be waived in the discretion of the Secretary of State in the case of any alien who is within thatclass of nonimmigrants enumerated in sections 1101(a)(15)(A), and 1101(a)(15)(G) of this title, or in the case of any alien who is granted a diplomatic visa on a diplomatic passport or on the equivalent thereof.
 
 #### (c) Period of validity; requirement of visa
 
@@ -43,6 +43,10 @@ Nothing in this chapter shall be construed to entitle any alien, to whom a visa 
 After the issuance of a visa or other documentation to any alien, the consular officer or the Secretary of State may at any time, in his discretion, revoke such visa or other documentation. Notice of such revocation shall be communicated to the Attorney General, and such revocation shall invalidate the visa or other documentation from the date of issuance: <i>Provided</i>, That carriers or transportation companies, and masters, commanding officers, agents, owners, charterers, or consignees, shall not be penalized under section 1323(b) of this title for action taken in reliance on such visas or other documentation, unless they received due notice of such revocation prior to the alien's embarkation. There shall be no means of judicial review (including review pursuant to section 2241 of title 28 or any other habeas corpus provision, and sections 1361 and 1651 of such title) of a revocation under this subsection, except in the context of a removal proceeding if such revocation provides the sole ground for removal under section 1227(a)(1)(B) of this title.
 
 (June 27, 1952, ch. 477, title II, ch. 3, §221, 66 Stat. 191; Pub. L. 87–301, §4, Sept. 26, 1961, 75 Stat. 651; Pub. L. 89–236, §§11(a), (b), 17, Oct. 3, 1965, 79 Stat. 918, 919; Pub. L. 97–116, §18(f), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 99–653, §5(a), formerly §5(a)(a)–(c), Nov. 14, 1986, 100 Stat. 3656, renumbered §5(a), Pub. L. 100–525, §8(d)(1), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 101–649, title VI, §603(a)(9), Nov. 29, 1990, 104 Stat. 5083; Pub. L. 102–232, title III, §302(e)(8)(C), Dec. 12, 1991, 105 Stat. 1746; Pub. L. 104–208, div. C, title III, §308(d)(4)(G), (f)(2)(B), title VI, §631, Sept. 30, 1996, 110 Stat. 3009–618, 3009–621, 3009–700; Pub. L. 107–173, title III, §301, May 14, 2002, 116 Stat. 552; Pub. L. 108–458, title V, §5304(a), Dec. 17, 2004, 118 Stat. 3736.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(1), (g), and (h), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 
@@ -96,7 +100,7 @@ Amendment by Pub. L. 101–649 applicable to individuals entering United States 
 
 #### Effective Date of 1986 Amendment
 
-Section 23(b) of Pub. L. 99–653, as added by Pub. L. 100–525, §8(r), Oct. 24, 1988, 102 Stat. 2619, provided that: “The amendments made by sections 5, 6, 8, 9, and 10 \[amending this section and sections 1202, 1301, 1302, and 1304 of this title and repealing section 1201a of this title\] apply to applications for immigrant visas made, and visas issued, on or after November 14, 1986.”
+Section 23(b) of Pub. L. 99–653, as added by Pub. L. 100–525, §8(r), Oct. 24, 1988, 102 Stat. 2619, provided that: “The amendments made by sections 5, 6, 8, 9, and 10\[amending this section and sections 1202, 1301, 1302, and 1304 of this title and repealing section 1201a of this title\] apply to applications for immigrant visas made, and visas issued, on or after November 14, 1986.”
 
 #### Effective Date of 1981 Amendment
 
@@ -182,7 +186,7 @@ Aliens Covered.—An alien is described in this subsection if the alien—
 
 &emsp;“(1)(A) is chargeable under section 202 of the Immigration and Nationality Act \[8 U.S.C. 1152\] to Hong Kong or China, and
 
-&emsp;“(B)(i) is residing in Hong Kong as of the date of the enactment of this Act \[Nov. 29, 1990\] and is issued an immigrant visa under paragraph (1), (2), (4), or (5) of section 203(a) of the Immigration and Nationality Act \[8 U.S.C. 1153(a)\] (as in effect on the date of theenactment of this Act) or under section 203(a) or 203(b)(1) of such Act (as in effect on and after October 1, 1991), or (ii) is the spouse or child (as defined in subsection (d)) of an alien described in clause (i), if accompanying or following to join the alien in coming to the United States; or
+&emsp;“(B)(i) is residing in Hong Kong as of the date of the enactment of this Act \[Nov. 29, 1990\] and is issued an immigrant visa under paragraph (1), (2), (4), or (5) of section 203(a) of the Immigration and Nationality Act \[8 U.S.C. 1153(a)\] (as in effect on the date of the enactment of this Act) or under section 203(a) or 203(b)(1) of such Act (as in effect on and after October 1, 1991), or (ii) is the spouse or child (as defined in subsection (d)) of an alien described in clause (i), if accompanying or following to join the alien in coming to the United States; or
 
 &emsp;“(2) is issued a visa under section 124 of this Act \[enacting provisions set out as a note under section 1153 of this title\].
 

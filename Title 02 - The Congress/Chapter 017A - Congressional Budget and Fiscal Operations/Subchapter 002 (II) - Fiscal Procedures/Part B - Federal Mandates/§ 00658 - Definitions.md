@@ -104,7 +104,7 @@ For purposes of this part:
 
 #### (11) Small government
 
-&emsp;The term “small government” means any small governmental jurisdictions defined in section 601(5) of title 5 and any tribal government.
+&emsp;The term “small government” means any small governmental jurisdictions defined insection 601(5) of title 5 and any tribal government.
 
 #### (12) State
 

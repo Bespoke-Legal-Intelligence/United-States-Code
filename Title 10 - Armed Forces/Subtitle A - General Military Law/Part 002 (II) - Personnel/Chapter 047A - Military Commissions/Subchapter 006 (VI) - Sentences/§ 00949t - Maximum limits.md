@@ -1,6 +1,6 @@
 ### §949t. Maximum limits
 
-The punishment which a military commission under this chapter may direct for an offense may not exceed such limits as the President or Secretary of Defense may prescribe for that offense.
+The punishment which a military commission under this chapter may direct for an offensemay not exceed such limits as the President or Secretary of Defense may prescribe for that offense.
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2598.)
 

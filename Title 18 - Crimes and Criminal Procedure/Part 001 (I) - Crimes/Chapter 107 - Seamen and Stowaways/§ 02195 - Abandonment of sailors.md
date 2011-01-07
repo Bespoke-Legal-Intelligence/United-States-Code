@@ -10,5 +10,5 @@ Based on title 18, U.S.C., 1940 ed., §486 (Mar. 4, 1909, ch. 321, §295, 35 Sta
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 

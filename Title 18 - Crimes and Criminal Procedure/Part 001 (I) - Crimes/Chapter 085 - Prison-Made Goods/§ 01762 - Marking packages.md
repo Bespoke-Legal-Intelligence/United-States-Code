@@ -22,9 +22,9 @@ Minor changes were made in translations and phraseology.
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–294 substituted “fined under this title” for “fined not more than $50,000”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–294 substituted “fined under this title” for “fined not more than $50,000”.
 
-1994—Pub. L. 103–322, which directed the amendment of this section by substituting “under this title” for “not more than $1,000”, could not be executed because the phrase “not more than $1,000” did not appear in text subsequent to amendment of subsec. (b) by Pub. L. 102–393. See 1992 Amendment note below.
+<b>1994</b>—Pub. L. 103–322, which directed the amendment of this section by substituting “under this title” for “not more than $1,000”, could not be executed because the phrase “not more than $1,000” did not appear in text subsequent to amendment of subsec. (b) by Pub. L. 102–393. See 1992 Amendment note below.
 
-1992—Subsec. (b). Pub. L. 102–393 substituted “$50,000” for “$1,000”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–393 substituted “$50,000” for “$1,000”.
 

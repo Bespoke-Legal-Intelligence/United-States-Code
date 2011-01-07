@@ -52,7 +52,7 @@ If an application is made under this chapter for a license to construct a deepwa
 
 (2) No license shall be issued, transferred, or renewed under this chapter unless the licensee or transferee first agrees in writing that (A) there will be no substantial change from the plans, operational systems, and methods, procedures, and safeguards set forth in his license, as approved, without prior approval in writing from the Secretary; and (B) he will comply with any condition the Secretary may prescribe in accordance with the provisions of this chapter.
 
-(3) The Secretary shall establish such bonding requirements or other assurances as he deems necessary to assure that, upon the revocation or termination of a license, the licensee will remove all components of the deepwater port. In the case of components lying in the subsoil below the seabed, the Secretary is authorized to waive the removal requirements if he finds that such removal is not otherwise necessary and that the remaining components do not constitute any threat to navigation or to the environment. At the request of the licensee, the Secretary, after consultation with the Secretary of the Interior, is authorized to waive the removal requirement as to any components which he determines may be utilized in connection with the transportation of oil, natural gas, or other minerals, pursuant to a lease granted under the provisions of the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\], after which waiver the utilization of such components shall be governed by the terms of the Outer Continental Shelf Lands Act.
+(3) The Secretary shall establish such bonding requirements or other assurances as he deems necessary to assure that, upon the revocation or termination of a license, the licensee will remove all components of the deepwater port. Inthe case of components lying in the subsoil below the seabed, the Secretary is authorized to waive the removal requirements if he finds that such removal is not otherwise necessary and that the remaining components do not constitute any threat to navigation or to the environment. At the request of the licensee, the Secretary, after consultation with the Secretary of the Interior, is authorized to waive the removal requirement as to any components which he determines may be utilized in connection with the transportation of oil, natural gas, or other minerals, pursuant to a lease granted under the provisions of the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\], after which waiver the utilization of such components shall be governed by the terms of the Outer Continental Shelf Lands Act.
 
 #### (f) Amendments, transfers, and reinstatements
 
@@ -88,11 +88,11 @@ The Outer Continental Shelf Lands Act, referred to in subsec. (e)(3), is act Aug
 
 #### Amendments
 
-2006—Subsec. (i). Pub. L. 109–241 added subsec. (i).
+<b>2006</b>—Subsec. (i). Pub. L. 109–241 added subsec. (i).
 
-2002—Subsec. (a). Pub. L. 107–295 inserted “or natural gas” after “oil”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–295 inserted “or natural gas” after “oil”.
 
-1996—Subsec. (a). Pub. L. 104–324, §504(a), struck out at end “A deepwater port, licensed pursuant to the provisions of this chapter, may not be utilized—
+<b>1996</b>—Subsec. (a). Pub. L. 104–324, §504(a), struck out at end “A deepwater port, licensed pursuant to the provisions of this chapter, may not be utilized—
 
 &emsp;“(1) for the loading and unloading of commodities or materials (other than oil) transported from the United States, other than materials to be used in the construction, maintenance, or operation of the high seas oil port, to be used as ship supplies, including bunkering for vessels utilizing the high seas oil port,
 
@@ -106,11 +106,11 @@ Subsec. (e)(1). Pub. L. 104–324, §504(c), substituted “In issuing a license
 
 Subsec. (e)(2). Pub. L. 104–324, §504(d), substituted “his license” for “his application”.
 
-Subsec. (f). Pub. L. 104–324, §504(e), inserted heading and amended text generally. Prior to amendment, text read as follows: “The Secretary may amend, transfer, or reinstate a license issued under this chapter if the amendment, transfer, or reinstatement is consistent with the findings made at the time the license was issued.”
+Subsec. (f). Pub. L. 104–324, §504(e), inserted heading and amended text generally. Prior to amendment, textread as follows: “The Secretary may amend, transfer, or reinstate a license issued under this chapter if the amendment, transfer, or reinstatement is consistent with the findings made at the time the license was issued.”
 
-1990—Subsec. (c)(1). Pub. L. 101–380 substituted “section 2716 of this title” for “section 1517(<i>l</i>) of this title;”.
+<b>1990</b>—Subsec. (c)(1). Pub. L. 101–380 substituted “section 2716 of this title” for “section 1517(<i>l</i>) of this title;”.
 
-1984—Subsec. (b). Pub. L. 98–419, §2(b), substituted provisions authorizing the Secretary, on application, to issue a license for the ownership, construction, and operation of a deepwater port and, on petition of the licensee, to amend, transfer, or reinstate a license issued under this chapter for provisions which had authorized the Secretary, upon application and in accordance with the provisions of this chapter, to issue, transfer, amend, or renew a license for the ownership, construction, and operation of a deepwater port.
+<b>1984</b>—Subsec. (b). Pub. L. 98–419, §2(b), substituted provisions authorizing the Secretary, on application, to issue a license for the ownership, construction, and operation of a deepwater port and, on petition of the licensee, to amend, transfer, or reinstate a license issued under this chapter for provisions which had authorized the Secretary, upon application and in accordance with the provisions of this chapter, to issue, transfer, amend, or renew a license for the ownership, construction, and operation of a deepwater port.
 
 Subsec. (e)(1). Pub. L. 98–419, §2(e), inserted provision that on petition of a licensee, the Secretary shall review any condition of a license issued under this chapter to determine if that condition is uniform, insofar as practicable, with the conditions of other licenses issued under this chapter and is reasonable, and necessary to meet the objectives of this chapter, and that the Secretary shall amend or rescind any condition that is no longer necessary or otherwise required by any Federal department or agency under this chapter.
 

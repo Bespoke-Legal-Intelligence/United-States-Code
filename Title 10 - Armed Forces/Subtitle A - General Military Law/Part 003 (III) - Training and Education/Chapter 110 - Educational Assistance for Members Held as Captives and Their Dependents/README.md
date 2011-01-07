@@ -12,9 +12,9 @@
 
 #### Amendments
 
-1990—Pub. L. 101–510, div. A, title XIV, §1484(i)(5), Nov. 5, 1990, 104 Stat. 1718, inserted “administered by” after “programs” in item 2185.
+<b>1990</b>—Pub. L. 101–510, div. A, title XIV, §1484(i)(5), Nov. 5, 1990, 104 Stat. 1718, inserted “administered by” after “programs” in item 2185.
 
-1989—Pub. L. 101–189, div. A, title XVI, §1621(a)(7)(B), Nov. 29, 1989, 103 Stat. 1603, substituted “programs the Department of Veterans Affairs” for “programs administered by the Veterans’ Administration” in item 2185.
+<b>1989</b>—Pub. L. 101–189, div. A, title XVI, §1621(a)(7)(B), Nov. 29, 1989, 103 Stat. 1603, substituted “programs the Department of Veterans Affairs” for “programs administered by the Veterans’ Administration” in item 2185.
 
 
 ---

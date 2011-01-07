@@ -24,7 +24,7 @@ Sections 3782(a), 3782(c), and 3787 of this title shall apply with respect to th
 
 #### (d) Rules, regulations, and procedures
 
-The Administrator is authorized, after appropriate consultation with representatives of States and units of local government, to establish such rules, regulations, and procedures as are necessary for the exercise of the functions of the Office and only to the extent necessary to ensure that there is compliance with the specific requirements of this subchapter or to respond to requests for clarification and guidance relating to such compliance.
+The Administrator is authorized, after appropriate consultation with representatives of States and units of local government, to establish such rules, regulations, and procedures asare necessary for the exercise of the functions of the Office and only to the extent necessary to ensure that there is compliance with the specific requirements of this subchapter or to respond to requests for clarification and guidance relating to such compliance.
 
 #### (e) Presumption of State compliance
 
@@ -34,23 +34,23 @@ If a State requires by law compliance with the requirements described in paragra
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b) and (c), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
+This chapter, referred to in subsecs. (b) and (c), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
 
 #### Amendments
 
-2002—Subsec. (d). Pub. L. 107–273, §12214(1), substituted “only to the extent necessary to ensure that there is compliance with the specific requirements of this subchapter or to respond to requests for clarification and guidance relating to such compliance” for “as are consistent with the purpose of this chapter”.
+<b>2002</b>—Subsec. (d). Pub. L. 107–273, §12214(1), substituted “only to the extent necessary to ensure that there is compliance with the specific requirements of this subchapter or to respond to requests for clarification and guidance relating to such compliance” for “as are consistent with the purpose of this chapter”.
 
 Subsec. (e). Pub. L. 107–273, §12214(2), added subsec. (e).
 
-1984—Subsec. (a). Pub. L. 98–473, in amending subsec. (a) generally, substituted provisions setting forth the administrative authority of the Office for former provisions which incorporated other administrative provisions into this chapter as well as construing certain references as authorizing the Administrator of the Office of Juvenile Justice and Delinquency Prevention to perform the same actions as other officials.
+<b>1984</b>—Subsec. (a). Pub. L. 98–473, in amending subsec. (a) generally, substituted provisions setting forth the administrative authority of the Office for former provisions which incorporated other administrative provisions into this chapter as well as construing certain references as authorizing the Administrator of the Office of Juvenile Justice and Delinquency Prevention to perform the same actions as other officials.
 
 Subsec. (b). Pub. L. 98–473, in amending subsec. (b) generally, substituted provisions relating to the applicability of other provisions to this chapter as well as defining certain references therein for former provisions which directed the Office of Justice Assistance, Research and Statistics to provide staff support and coordinate the activities of the Office of Juvenile Justice and Delinquency Prevention.
 
 Subsecs. (c), (d). Pub. L. 98–473, in amending section generally, added subsecs. (c) and (d).
 
-1980—Pub. L. 96–509 brought relevant applicable administrative provisions of the Omnibus Crime Control and Safe Streets Act of 1968 into conformance subsequent to the Justice System Improvement Amendments of 1979 and provided that the Office of Justice Assistance, Research, and Statistics provide staff support to, and coordinate the activities of the Office in the same manner as it does for the Law Enforcement Assistance Administration, National Institute of Justice, and Bureau of Justice Statistics pursuant to 3781(b) of this title.
+<b>1980</b>—Pub. L. 96–509 brought relevant applicable administrative provisions of the Omnibus Crime Control and Safe Streets Act of 1968 into conformance subsequent to the Justice System Improvement Amendments of 1979 and provided that the Office of Justice Assistance, Research, and Statistics provide staff support to, and coordinate the activities of the Office in the same manner as it does for the Law Enforcement Assistance Administration, National Institute of Justice, and Bureau of Justice Statistics pursuant to 3781(b) of this title.
 
-1977—Pub. L. 95–115 substituted provisions setting forth applicability of specified statutory requirements, for provisions setting forth prohibitions against discrimination and required terms in grants, contracts, and agreements and enforcement procedures thereof.
+<b>1977</b>—Pub. L. 95–115 substituted provisions setting forth applicability of specified statutory requirements, for provisions setting forth prohibitions against discrimination and required terms in grants, contracts, and agreements and enforcement procedures thereof.
 
 #### Effective Date of 2002 Amendment
 

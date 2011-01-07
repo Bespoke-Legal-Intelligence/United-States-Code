@@ -10,7 +10,7 @@ Notwithstanding the acquisition authority contained in subsection (a) of this se
 
 #### (c) Privately owned lands on Santa Rosa Island
 
-With respect to the privately owned lands on Santa Rosa Island, the Secretary shall acquire such lands as expeditiously as possible after March 5, 1980. The acquisition of these lands shall take priority over the acquisition of other privately owned lands within the park.
+With respect to the privately owned lands on Santa Rosa Island, the Secretary shall acquiresuch lands as expeditiously as possible after March 5, 1980. The acquisition of these lands shall take priority over the acquisition of other privately owned lands within the park.
 
 #### (d) Retention of rights by owners; compatible use under lease
 
@@ -38,5 +38,5 @@ This subchapter, referred to in subsec. (b), was in the original “this Act”,
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–333 added subsec. (e).
+<b>1996</b>—Subsec. (e). Pub. L. 104–333 added subsec. (e).
 

@@ -10,7 +10,7 @@
 
 &emsp;(B) by that alteration or servicing, intentionally renders that equipment unsafe and unfit for the purpose for which it is intended.
 
-(c) A person that employs a means or device whereby a boiler may be subjected to a pressuregreater than allowed by the terms of the vessel's certificate of inspection commits a class D felony.
+(c) A person that employs a means or device whereby a boiler may be subjected to a pressure greater than allowed by the terms of the vessel's certificate of inspection commits a class D felony.
 
 (d) A person that deranges or hinders the operation of any machinery or device employed on a vessel to denote the state of steam or water in any boiler or to give warning of approaching danger, or permits the water level of any boiler when in operation of a vessel to fall below its prescribed low-water line, commits a class D felony.
 
@@ -90,15 +90,15 @@ Section 3318 provides for a number of specific civil and criminal penalties.
 
 #### Amendments
 
-2006—Subsec. (f). Pub. L. 109–304 struck out period after “felony”.
+<b>2006</b>—Subsec. (f). Pub. L. 109–304 struck out period after “felony”.
 
-1996—Subsec. (a). Pub. L. 104–324, §713(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–324, §713(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons”.
 
 Subsec. (b)(1). Pub. L. 104–324, §310, designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (j)(1). Pub. L. 104–324, §713(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “1,600 gross tons”.
 
-1990—Subsec. (b). Pub. L. 101–380, §4302(b)(1), substituted “commits a class D felony” for “shall be finednot more than $10,000, imprisoned for not more than 5 years, or both”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–380, §4302(b)(1), substituted “commits a class D felony” for “shall be fined not more than $10,000, imprisoned for not more than 5 years, or both”.
 
 Subsec. (c). Pub. L. 101–380, §4302(b)(2), substituted “commits a class D felony” for “shall be fined not more than $5,000, imprisoned for not more than 5 years, or both”.
 
@@ -108,9 +108,9 @@ Subsec. (e). Pub. L. 101–380, §4302(b)(4), substituted “commits a class A m
 
 Subsec. (f). Pub. L. 101–380, §4302(b)(5), substituted “commits a class D felony.” for “shall be fined not less than $1,000 but not more than $10,000, and imprisoned for not less than 2 years but not more than 5 years,”.
 
-1986—Subsec. (f). Pub. L. 99–307 in provision preceding par. (1) substituted “than” for “then” in two places.
+<b>1986</b>—Subsec. (f). Pub. L. 99–307 in provision preceding par. (1) substituted “than” for “then” in two places.
 
-1984—Subsec. (a). Pub. L. 98–498, §211(c)(1), substituted “Except as otherwise provided in this part, the” for “The” and “not more than $5,000” for “$1,000, except that when the violation involves operation of a barge, the penalty is $500”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–498, §211(c)(1), substituted “Except as otherwise provided in this part, the” for “The” and “not more than $5,000” for “$1,000, except that when the violation involves operation of a barge, the penalty is $500”.
 
 Subsec. (c). Pub. L. 98–498, §211(c)(2), substituted “$5,000” for “$2,000”.
 

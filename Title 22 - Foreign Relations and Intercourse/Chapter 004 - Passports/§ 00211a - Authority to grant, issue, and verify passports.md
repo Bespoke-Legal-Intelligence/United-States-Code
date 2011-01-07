@@ -6,13 +6,13 @@ The Secretary of State may grant and issue passports, and cause passports to be 
 
 #### Amendments
 
-1994—Pub. L. 103–415, §1(b)(1), substituted “such other employees” for “such employees”.
+<b>1994</b>—Pub. L. 103–415, §1(b)(1), substituted “such other employees” for “such employees”.
 
 Pub. L. 103–415, §1(b)(2), which directed the amendment of this section by substituting “United States” for “United States,” was executed by making the substitution after “who are citizens of the”, to reflect the probable intent of Congress.
 
 Pub. L. 103–236 substituted “by diplomatic and consular officers of the United States, and by other employees of the Department of State who are citizens of the United States,” for “by diplomatic representatives of the United States, and by such consul generals, consuls, or vice consuls when in charge,”.
 
-1978—Pub. L. 95–426 inserted provision prohibiting passport restrictions except for countries with which the United States is at war, where armed hostilities are in progress or there is imminent danger to the public health or physical safety of United States travellers.
+<b>1978</b>—Pub. L. 95–426 inserted provision prohibiting passport restrictions except for countries with which the United States is at war, where armed hostilities are in progress or there is imminent danger to the public health or physical safety of United States travellers.
 
 #### Short Title of 2006 Amendment
 

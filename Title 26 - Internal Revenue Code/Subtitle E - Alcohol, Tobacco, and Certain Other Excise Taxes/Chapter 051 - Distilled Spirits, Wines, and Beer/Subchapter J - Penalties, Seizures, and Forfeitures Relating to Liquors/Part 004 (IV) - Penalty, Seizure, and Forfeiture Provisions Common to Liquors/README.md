@@ -21,7 +21,7 @@ A prior part IV consisted of sections 5681 to 5690 of this title, prior to the g
 
 #### Amendments
 
-1976—Pub. L. 94–455, title XIX, §1905(b)(2)(E)(ii), Oct. 4, 1976, 90 Stat. 1822, struck out item 5689 “Penalty and forfeiture for tampering with a stamp machine”.
+<b>1976</b>—Pub. L. 94–455, title XIX, §1905(b)(2)(E)(ii), Oct. 4, 1976, 90 Stat. 1822, struck out item 5689 “Penalty and forfeiture for tampering with a stamp machine”.
 
 
 ---

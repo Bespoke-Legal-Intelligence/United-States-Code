@@ -4,7 +4,7 @@
 
 Prerequisite of Completion of Joint Professional Military Education Phase I Program of Instruction.—(1) After September 30, 2009, an officer of the armed forces may not be accepted for, or assigned to, a program of instruction designated by the Secretary of Defense as joint professional military education Phase II unless the officer has successfully completed a program of instruction designated by the Secretary of Defense as joint professional military education Phase I.
 
-(2) The Chairman of the Joint Chiefs of Staff may grant exceptions to the requirement under paragraph (1). Such an exception may be granted only on a case-by-case basis under exceptional circumstances, as determined by the Chairman. An officer selected to receive such an exception shall have knowledge of joint matters and other aspects of the Phase I curriculum that, to the satisfaction of the Chairman, qualifies the officer to meet the minimum requirements established for entry into Phase II instruction without first completing Phase I instruction. The number of officers selected to attend an offering of the principal course of instruction at the Joint Forces Staff College or a senior level service school designated by the Secretary of Defense as a joint professional military education institution who have not completed Phase I instruction should comprise no more than 10 percent of the total number of officers selected.
+(2) The Chairman of the Joint Chiefs of Staff may grant exceptions to the requirement under paragraph (1). Such an exception may be granted only on a case-by-case basis under exceptional circumstances, as determined by the Chairman. An officer selected to receive such an exceptionshall have knowledge of joint matters and other aspects of the Phase I curriculum that, to the satisfaction of the Chairman, qualifies the officer to meet the minimum requirements established for entry into Phase II instruction without first completing Phase I instruction. The number of officers selected to attend an offering of the principal course of instruction at the Joint Forces Staff College or a senior level service school designated by the Secretary of Defense as a joint professional military education institution who have not completed Phase I instruction should comprise no more than 10 percent of the total number of officers selected.
 
 (b)
 
@@ -16,7 +16,7 @@ Phase II Requirements.—The Secretary shall require that the curriculum for Pha
 
 &emsp;&emsp;(A) so as to adequately prepare students to perform effectively in an assignment to a joint, multiservice organization; and
 
-&emsp;&emsp;(B) so that students progress from a basic knowledge of joint matters learned in PhaseI instruction to the level of expertise necessary for successful performance in the joint arena.
+&emsp;&emsp;(B) so that students progress from a basic knowledge of joint matters learned in Phase I instruction to the level of expertise necessary for successful performance in the joint arena.
 
 (c)
 
@@ -42,7 +42,7 @@ Student Ratio; Faculty Ratio.—Not later than September 30, 2009, for courses o
 
 #### Amendments
 
-2006—Pub. L. 109–364, §1071(a)(13), substituted “Phase” for “phase” in section catchline.
+<b>2006</b>—Pub. L. 109–364, §1071(a)(13), substituted “Phase” for “phase” in section catchline.
 
 Subsec. (a). Pub. L. 109–364, §1071(a)(14), inserted “Phase” after “Education” in heading.
 

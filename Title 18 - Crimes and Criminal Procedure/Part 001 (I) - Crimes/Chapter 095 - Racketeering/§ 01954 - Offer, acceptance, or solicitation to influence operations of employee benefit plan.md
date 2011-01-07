@@ -26,11 +26,11 @@ Section (3)(16) of the Employee Retirement Income Security Act of 1974, referred
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in first par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in first par.
 
-1974—Pub. L. 93–406 substituted “any employee welfare benefit plan or employee pension benefit plan, respectively, subject to any provision of title I of the Employee Retirement Income Security Act of 1974” for “any such plan subject to the provisions of the Welfare and Pension Plans Disclosure Act, as amended” and “sections 3(4) and (3)(16) of the Employee Retirement Income Security Act of 1974” for “sections 3(3) and5(b)(1) and (2) of the Welfare and Pension Plans Disclosure Act, as amended”.
+<b>1974</b>—Pub. L. 93–406 substituted “any employee welfare benefit plan or employee pension benefit plan, respectively, subject to any provision of title I of the Employee Retirement Income Security Act of 1974” for “any such plan subject to the provisions of the Welfare and Pension Plans Disclosure Act, as amended” and “sections 3(4) and (3)(16) of the Employee Retirement Income Security Act of 1974” for “sections 3(3) and 5(b)(1) and (2) of the Welfare and Pension Plans Disclosure Act, as amended”.
 
-1970—Pub. L. 91–452 struck out letter designation “(a)” preceding first sentence and struck out subsec. (b) which related to the immunity from prosecution of any witness compelled to testify or produce evidence after claiming his privilege against self-incrimination. See section 6001 et seq. of this title.
+<b>1970</b>—Pub. L. 91–452 struck out letter designation “(a)” preceding first sentence and struck out subsec. (b) which related to the immunity from prosecution of any witness compelled to testify or produce evidence after claiming his privilege against self-incrimination. See section 6001 et seq. of this title.
 
 #### Effective Date of 1974 Amendment
 

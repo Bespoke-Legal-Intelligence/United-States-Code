@@ -32,7 +32,7 @@ The Director of the Institute shall, under such conditions as the Secretary may 
 
 #### (2) Use of funds
 
-&emsp;Amounts made available under a grant or cooperative agreement under paragraph (1) for drug abuse and addiction may be used for research and clinical trials relating to—
+&emsp;Amounts made available under a grant or cooperative agreement under paragraph (1) fordrug abuse and addiction may be used for research and clinical trials relating to—
 
 &emsp;&emsp;(A) the effects of drug abuse on the human body, including the brain;
 
@@ -62,13 +62,13 @@ Section 292a of this title, referred to in subsec. (b), was in the original a re
 
 #### Amendments
 
-2007—Subsec. (c)(4). Pub. L. 109–482 struck out par. (4) which authorized appropriations and provided they were supplemental to other funding of research on drug abuse.
+<b>2007</b>—Subsec. (c)(4). Pub. L. 109–482 struck out par. (4) which authorized appropriations and provided they were supplemental to other funding of research on drug abuse.
 
-2002—Subsec. (c). Pub. L. 107–273 amended heading and text of subsec. (c) generally, substituting provisions relating to grants or cooperative agreements for research and clinical trials relating to drug abuse and addiction for similar provisions relating to grants or cooperative agreements for research and clinical trials relating to methamphetamine abuse and addiction.
+<b>2002</b>—Subsec. (c). Pub. L. 107–273 amended heading and text of subsec. (c) generally, substituting provisions relating to grants or cooperative agreements for research and clinical trials relating to drug abuse and addiction for similar provisions relating to grants or cooperative agreements for research and clinical trials relating to methamphetamine abuse and addiction.
 
-2000—Subsec. (c). Pub. L. 106–310 added subsec. (c).
+<b>2000</b>—Subsec. (c). Pub. L. 106–310 added subsec. (c).
 
-1992—Subsec. (b). Pub. L. 102–352 substituted “292a(1)” for “292a(2)”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–352 substituted “292a(1)” for “292a(2)”.
 
 #### Effective Date of 2007 Amendment
 

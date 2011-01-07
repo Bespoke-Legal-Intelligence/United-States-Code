@@ -6,7 +6,7 @@ Collection of Information on Foreign-Controlled Contractors.—The Secretary of 
 
 (b)
 
-Annual Report to Congress.—The Secretary of Defense, the Secretary of Energy, and the Secretary of Commerce shall submit to the Congress, by March 31 of each year, beginning in 1994, a report containing a summary and analysis of the information collected under subsection (a) for the year covered by the report. The report shall include an analysis of accumulated foreign ownership of United States firms engaged in the development of defense critical technologies.
+Annual Report to Congress.—The Secretary of Defense, the Secretary of Energy, and the Secretary of Commerce shall submit to the Congress, by March 31 of each year, beginning in1994, a report containing a summary and analysis of the information collected under subsection (a) for the year covered by the report. The report shall include an analysis of accumulated foreign ownership of United States firms engaged in the development of defense critical technologies.
 
 (c)
 
@@ -26,9 +26,9 @@ Technology Risk Assessment Requirement.—(1) If the Secretary of Defense is act
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–314 substituted “$10,000,000” for “$100,000”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–314 substituted “$10,000,000” for “$100,000”.
 
-1993—Subsec. (a). Pub. L. 103–35, §201(d)(5), substituted “respectively, that” for “respectively, which”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–35, §201(d)(5), substituted “respectively, that” for “respectively, which”.
 
 Subsec. (d). Pub. L. 103–35, §201(h)(2), struck out subsec. (d) which read as follows: “In this section, the term ‘defense critical technology’ has the meaning provided that term by section 2491(8) of this title.”
 

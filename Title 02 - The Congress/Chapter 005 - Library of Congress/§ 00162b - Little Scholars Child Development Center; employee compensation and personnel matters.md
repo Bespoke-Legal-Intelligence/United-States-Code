@@ -32,7 +32,7 @@ An individual who is employed by the Center shall be deemed an employee under se
 
 #### (d) Government contributions by Librarian from available appropriations
 
-Government contributions for individuals receiving benefits under this section, as computed under sections 8423, 8432, 8708, and 8906 <sup>2</sup> shall be made by the Librarian of Congress from any appropriations available to the Library of Congress.
+Government contributions for individuals receiving benefits under this section, as computed under sections 8423, 8432, 8708, and 8906 <sup>2</sup> shall bemade by the Librarian of Congress from any appropriations available to the Library of Congress.
 
 #### (e) Payroll and personnel functions of Library of Congress
 

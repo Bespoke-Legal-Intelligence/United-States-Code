@@ -24,7 +24,7 @@ Subsec. (d) of this section, which required the head of the designated agency to
 
 #### Amendments
 
-1978—Subsecs. (c), (d). Pub. L. 95–238 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1978</b>—Subsecs. (c), (d). Pub. L. 95–238 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 #### Transfer of Functions
 

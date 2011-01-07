@@ -26,9 +26,9 @@ Use of Amounts Collected.—Amounts collected under subsection (a) for administr
 
 #### Amendments
 
-2002—Subsec. (b)(5). Pub. L. 107–314 added par. (5).
+<b>2002</b>—Subsec. (b)(5). Pub. L. 107–314 added par. (5).
 
-1999—Subsec. (b). Pub. L. 106–65 inserted “involving real property under the control of the Secretary of a military department” after “transactions” in introductory provisions and added par. (4).
+<b>1999</b>—Subsec. (b). Pub. L. 106–65 inserted “involving real property under the control of the Secretary of a military department” after “transactions” in introductory provisions and added par. (4).
 
 #### Administrative Costs of Land Conveyances
 

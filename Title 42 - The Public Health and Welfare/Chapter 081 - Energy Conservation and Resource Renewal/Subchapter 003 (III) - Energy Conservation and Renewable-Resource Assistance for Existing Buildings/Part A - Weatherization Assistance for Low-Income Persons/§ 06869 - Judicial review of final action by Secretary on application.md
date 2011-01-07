@@ -16,5 +16,5 @@ The court shall have jurisdiction to affirm the action of the Secretary or to se
 
 #### Amendments
 
-1980—Subsecs. (a) to (c). Pub. L. 96–294 substituted “Secretary” for “Administrator” wherever appearing, and “Secretary's” for “Administrator's”.
+<b>1980</b>—Subsecs. (a) to (c). Pub. L. 96–294 substituted “Secretary” for “Administrator” wherever appearing, and “Secretary's” for “Administrator's”.
 

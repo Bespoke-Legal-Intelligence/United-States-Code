@@ -58,7 +58,7 @@ For purposes of section 38, the renewable electricity production credit for any 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii) or clause (iii), in the case of any facility described in paragraph (3), (4), (5), (6), or (7)of subsection (d), the 5-year period beginning on the date the facility was originally placed in service shall be substituted for the 10-year period in subsection (a)(2)(A)(ii).
+&emsp;&emsp;&emsp;Except as provided in clause (ii) or clause (iii), in the case of any facility described in paragraph (3), (4), (5), (6), or (7) of subsection (d), the 5-year period beginning on the date the facility was originally placed in service shall be substituted for the 10-year period in subsection (a)(2)(A)(ii).
 
 #### (ii) Certain open-loop biomass facilities
 
@@ -140,7 +140,7 @@ For purposes of this section:
 
 #### (6) Municipal solid waste
 
-&emsp;The term “municipal solid waste” has the meaning given the term “solid waste” under section 2(27) <sup>1</sup> of the Solid Waste Disposal Act (42 U.S.C. 6903).
+&emsp;The term “municipal solid waste” has the meaning given the term “solid waste” undersection 2(27) <sup>1</sup> of the Solid Waste Disposal Act (42 U.S.C. 6903).
 
 #### (7) Refined coal
 
@@ -246,7 +246,7 @@ For purposes of this section:
 
 #### (1) Wind facility
 
-&emsp;In the case of a facility using wind to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after December 31, 1993, and before January 1, 2013. Such term shall not include any facility withrespect to which any qualified small wind energy property expenditure (as defined in subsection (d)(4) of section 25D) is taken into account in determining the credit under such section.
+&emsp;In the case of a facility using wind to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after December 31, 1993, and before January 1, 2013. Such term shall not include any facility with respect to which any qualified small wind energy property expenditure (as defined in subsection (d)(4) of section 25D) is taken into account in determining the credit under such section.
 
 #### (2) Closed-loop biomass facility
 
@@ -298,7 +298,7 @@ For purposes of this section:
 
 #### (5) Small irrigation power facility
 
-&emsp;In the case of a facility using small irrigation power to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and before October 3, 2008.
+&emsp;In the case of a facility using small irrigation power to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed inservice after the date of the enactment of this paragraph and before October 3, 2008.
 
 #### (6) Landfill gas facilities
 
@@ -314,7 +314,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) with respect to a facility producing steel industry fuel, any facility (or any modification to a facility) which is placed in service before January 1, 2010, and
 
-&emsp;&emsp;(B) with respect to any other facility producing refined coal, any facility placed in service after the date of the enactment of the American Jobs Creation Act of 2004 and before January 1, 2010.
+&emsp;&emsp;(B) with respect to any other facility producing refined coal, any facility placed in service after the date of the enactment of the American Jobs Creation Act of 2004 and before January 1, 2012.
 
 #### (9) Qualified hydropower facility
 
@@ -554,7 +554,7 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of this section the term “eligible cooperative” means a cooperative organization described in section 1381(a) which is owned more than 50 percent by agricultural producers or by entities owned by agricultural producers. For this purpose an entity owned by an agricultural producer is one that is more than 50 percent owned by agricultural producers.
 
-(Added Pub. L. 102–486, title XIX, §1914(a), Oct. 24, 1992, 106 Stat. 3020; amended Pub. L. 106–170, title V, §507(a)–(c), Dec. 17, 1999, 113 Stat. 1922; Pub. L. 106–554, §1(a)(7) \[title III, §319(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–147, title VI, §603(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title III, §313(a), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 108–357, title VII, §710(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1552–1557; Pub. L. 109–58, title XIII, §§1301(a)–(f)(4), 1302(a), 1322(a)(3)(C), Aug. 8, 2005, 119 Stat. 986–990, 1011; Pub. L. 109–135, title IV, §§402(b), 403(t), 412(j), Dec. 21, 2005, 119 Stat. 2610, 2628, 2637; Pub. L. 109–432, div. A, title II, §201, Dec. 20, 2006, 120 Stat. 2944; Pub. L. 110–172, §§7(b), 9(a), Dec. 29, 2007, 121 Stat. 2482, 2484; Pub. L. 110–343, div. B, title I, §§101(a)–(e), 102(a)–(e), 106(c)(3)(B), 108(a)–(d)(1), Oct. 3, 2008, 122 Stat. 3808–3810, 3815, 3819–3821; Pub. L. 111–5, div. B, title I, §1101(a), (b), Feb. 17, 2009, 123 Stat. 319.)
+(Added Pub. L. 102–486, title XIX, §1914(a), Oct. 24, 1992, 106 Stat. 3020; amended Pub. L. 106–170, title V, §507(a)–(c), Dec. 17, 1999, 113 Stat. 1922; Pub. L. 106–554, §1(a)(7) \[title III, §319(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–147, title VI, §603(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title III, §313(a), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 108–357, title VII, §710(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1552–1557; Pub. L. 109–58, title XIII, §§1301(a)–(f)(4), 1302(a), 1322(a)(3)(C), Aug. 8, 2005, 119 Stat. 986–990, 1011; Pub. L. 109–135, title IV, §§402(b), 403(t), 412(j), Dec. 21, 2005, 119 Stat. 2610, 2628, 2637; Pub. L. 109–432, div. A, title II, §201, Dec. 20, 2006, 120 Stat. 2944; Pub. L. 110–172, §§7(b), 9(a), Dec. 29, 2007, 121 Stat. 2482, 2484; Pub. L. 110–343, div. B, title I, §§101(a)–(e), 102(a)–(e), 106(c)(3)(B), 108(a)–(d)(1), Oct. 3, 2008, 122 Stat. 3808–3810, 3815, 3819–3821; Pub. L. 111–5, div. B, title I, §1101(a), (b), Feb. 17, 2009, 123 Stat. 319; Pub. L. 111–312, title VII, §702(a), Dec. 17, 2010, 124 Stat. 3311.)
 
 #### Inflation Adjusted Items for Certain Tax Years
 
@@ -582,7 +582,9 @@ A prior section 45 was renumbered section 37 of this title.
 
 #### Amendments
 
-2009—Subsec. (d)(1). Pub. L. 111–5, §1101(a)(1), substituted “2013” for “2010”.
+<b>2010</b>—Subsec. (d)(8)(B). Pub. L. 111–312 substituted “January 1, 2012” for “January 1, 2010”.
+
+<b>2009</b>—Subsec. (d)(1). Pub. L. 111–5, §1101(a)(1), substituted “2013” for “2010”.
 
 Subsec. (d)(2)(A)(i), (ii), (3)(A)(i)(I), (ii), (4). Pub. L. 111–5, §1101(a)(2), substituted “2014” for “2011”.
 
@@ -592,7 +594,7 @@ Subsec. (d)(6), (7), (9)(A), (B). Pub. L. 111–5, §1101(a)(2), substituted “
 
 Subsec. (d)(11)(B). Pub. L. 111–5, §1101(a)(3), substituted “2014” for “2012”.
 
-2008—Subsec. (b)(2). Pub. L. 110–343, §108(b)(2), inserted “the $3 amount in subsection (e)(8)(D)(ii)(I),” after “subsection (e)(8)(A),”.
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–343, §108(b)(2), inserted “the $3 amount in subsection (e)(8)(D)(ii)(I),” after “subsection (e)(8)(A),”.
 
 Subsec. (b)(4)(A). Pub. L. 110–343, §102(d), substituted “(9), or (11)” for “or (9)”.
 
@@ -646,15 +648,15 @@ Subsec. (e)(8)(D). Pub. L. 110–343, §108(b)(1), added subpar. (D).
 
 Subsec. (e)(9)(B). Pub. L. 110–343, §108(d)(1), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
-2007—Subsec. (c)(3)(A)(ii). Pub. L. 110–172, §7(b)(1), struck out “which is segregated from other waste materials and” after “lignin material”.
+<b>2007</b>—Subsec. (c)(3)(A)(ii). Pub. L. 110–172, §7(b)(1), struck out “which is segregated from other waste materials and” after “lignin material”.
 
 Subsec. (d)(2)(B)(i) to (iii). Pub. L. 110–172, §7(b)(2), inserted “and” at the end of cl. (i), redesignated cl. (iii) as (ii), and struck out former cl. (ii) which read as follows: “the amount of the credit determined under subsection (a) with respect to the facility shall be an amount equal to the amount determined without regard to this clause multiplied by the ratio of the thermal content of the closed-loop biomass used in such facility to the thermal content of all fuels used in such facility, and”.
 
 Subsec. (e)(7)(A)(i). Pub. L. 110–172, §9(a), substituted “originally placed in service” for “placed in service by the taxpayer”.
 
-2006—Subsec. (d)(1) to (7), (9). Pub. L. 109–432 substituted “January 1, 2009” for “January 1, 2008” wherever appearing.
+<b>2006</b>—Subsec. (d)(1) to (7), (9). Pub. L. 109–432 substituted “January 1, 2009” for “January 1, 2008” wherever appearing.
 
-2005—Subsec. (b)(4)(A). Pub. L. 109–58, §1301(c)(2), substituted “(7), or (9)” for “or (7)”.
+<b>2005</b>—Subsec. (b)(4)(A). Pub. L. 109–58, §1301(c)(2), substituted “(7), or (9)” for “or (7)”.
 
 Subsec. (b)(4)(B)(i). Pub. L. 109–58, §1301(b)(1), inserted “or clause (iii)” after “clause (ii)”.
 
@@ -708,7 +710,7 @@ Subsec. (e)(10). Pub. L. 109–58, §1301(d)(1), added par. (10).
 
 Subsec. (e)(11). Pub. L. 109–58, §1302(a), added par. (11).
 
-2004—Pub. L. 108–357, §710(b)(3)(B), inserted “, etc” after “resources” in section catchline.
+<b>2004</b>—Pub. L. 108–357, §710(b)(3)(B), inserted “, etc” after “resources” in section catchline.
 
 Subsec. (b)(2). Pub. L. 108–357, §710(b)(3)(C), substituted “The 1.5 cent amount in subsection (a), the 8 cent amount in paragraph (1), the $4.375 amount in subsection (e)(8)(A), and in subsection (e)(8)(B)(i) the reference price of fuel used as a feedstock (within the meaning of subsection (c)(7)(A)) in 2002” for “The 1.5 cent amount in subsection (a) and the 8 cent amount in paragraph (1)”.
 
@@ -730,17 +732,21 @@ Subsec. (e)(8). Pub. L. 108–357, §710(b)(2), added par. (8).
 
 Subsec. (e)(9). Pub. L. 108–357, §710(d), added par. (9).
 
-2002—Subsec. (c)(3). Pub. L. 107–147 substituted “2004” for “2002” in subpars. (A) to (C).
+<b>2002</b>—Subsec. (c)(3). Pub. L. 107–147 substituted “2004” for “2002” in subpars. (A) to (C).
 
-2000—Subsec. (d)(7)(A)(i). Pub. L. 106–554 substituted “subsection (c)(3)(A)” for “paragraph (3)(A)”.
+<b>2000</b>—Subsec. (d)(7)(A)(i). Pub. L. 106–554 substituted “subsection (c)(3)(A)” for “paragraph (3)(A)”.
 
-1999—Subsec. (c)(1)(C). Pub. L. 106–170, §507(b)(1), added subpar. (C).
+<b>1999</b>—Subsec. (c)(1)(C). Pub. L. 106–170, §507(b)(1), added subpar. (C).
 
 Subsec. (c)(3). Pub. L. 106–170, §507(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘qualified facility’ means any facility owned by the taxpayer which is originally placed in service after December 31, 1993 (December 31, 1992, in the case of a facility using closed-loop biomass to produce electricity), and before July 1, 1999.”
 
 Subsec. (c)(4). Pub. L. 106–170, §507(b)(2), added par. (4).
 
 Subsec. (d)(6), (7). Pub. L. 106–170, §507(c), added pars. (6) and (7).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title VII, §702(b), Dec. 17, 2010, 124 Stat. 3311, provided that: “The amendment made by this section \[amending this section\] shall apply to facilities placed in service after December 31, 2009.”
 
 #### Effective Date of 2009 Amendment
 
@@ -776,7 +782,7 @@ Expansion of biomass facilities.—The amendments made by subsection (d) \[amend
 
 Pub. L. 110–343, div. B, title I, §102(f), Oct. 3, 2008, 122 Stat. 3811, provided that: “The amendments made by this section \[amending this section\] shall apply to electricity produced and sold after the date of the enactment of this Act \[Oct. 3, 2008\], in taxable years ending after such date.”
 
-Amendment by section 106(c)(3)(B) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31,2007, see section 106(f)(1) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 23 of this title.
+Amendment by section 106(c)(3)(B) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2007, see section 106(f)(1) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 36C of this title.
 
 Pub. L. 110–343, div. B, title I, §108(e), Oct. 3, 2008, 122 Stat. 3821, provided that: “The amendments made by this section \[amending this section and section 45K of this title\] shall apply to fuel produced and sold after September 30, 2008.”
 
@@ -788,7 +794,7 @@ Pub. L. 110–172, §9(c), Dec. 29, 2007, 121 Stat. 2484, provided that: “The 
 
 #### Effective Date of 2005 Amendments
 
-Amendment by section 402(b) of Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
+Amendment by section 402(b) of Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
 
 Amendment by section 403(t) of Pub. L. 109–135 effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
@@ -848,33 +854,35 @@ Section applicable to taxable years ending after Dec. 31, 1992, see section 1914
 
 Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following:
 
-2009—Internal Revenue Notice 2009–40.
+<b>2010</b>—Internal Revenue Notice 2010–37.
 
-2008—Internal Revenue Notice 2008–48.
+<b>2009</b>—Internal Revenue Notice 2009–40.
 
-2007—Internal Revenue Notice 2007–40.
+<b>2008</b>—Internal Revenue Notice 2008–48.
 
-2006—Internal Revenue Notice 2006–51.
+<b>2007</b>—Internal Revenue Notice 2007–40.
 
-2005—Internal Revenue Notice 2005–37.
+<b>2006</b>—Internal Revenue Notice 2006–51.
 
-2004—Internal Revenue Notice 2004–29.
+<b>2005</b>—Internal Revenue Notice 2005–37.
 
-2003—Internal Revenue Notice 2003–29.
+<b>2004</b>—Internal Revenue Notice 2004–29.
 
-2002—Internal Revenue Notice 2002–39.
+<b>2003</b>—Internal Revenue Notice 2003–29.
 
-2001—Internal Revenue Notice 2001–33.
+<b>2002</b>—Internal Revenue Notice 2002–39.
 
-2000—Internal Revenue Notice 2000–52.
+<b>2001</b>—Internal Revenue Notice 2001–33.
 
-1999—Internal Revenue Notice 99–26.
+<b>2000</b>—Internal Revenue Notice 2000–52.
 
-1998—Internal Revenue Notice 98–27.
+<b>1999</b>—Internal Revenue Notice 99–26.
 
-1997—Internal Revenue Notice 97–30.
+<b>1998</b>—Internal Revenue Notice 98–27.
 
-1996—Internal Revenue Notice 96–25.
+<b>1997</b>—Internal Revenue Notice 97–30.
+
+<b>1996</b>—Internal Revenue Notice 96–25.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

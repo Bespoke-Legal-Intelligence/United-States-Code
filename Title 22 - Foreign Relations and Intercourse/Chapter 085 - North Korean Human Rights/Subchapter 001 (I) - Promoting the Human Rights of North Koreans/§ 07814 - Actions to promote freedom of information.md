@@ -22,7 +22,7 @@ Not later than 1 year after October 18, 2004, and annually through 2012, the Sec
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–346, §7(1), substituted “2012” for “2008”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–346, §7(1), substituted “2012” for “2008”.
 
 Subsec. (c). Pub. L. 110–346, §7(2), substituted “annually through 2012” for “in each of the 3 years thereafter”.
 

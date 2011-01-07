@@ -38,19 +38,19 @@ The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
-2008—Pub. L. 110–246, §2711, which directed the general amendment of section 1262 of the “Farm Security Act of 1985”, was executed by making the amendment to this section, which is section 1262 of the Food Security Act of 1985, to reflect the probable intent of Congress. Prior to amendment, section consisted of subsecs. (a) to (d) which related to general responsibilities of committees established under section 3861 of this title, wetland and wildlife habitat protection guidelines, provision of assistance and recommendations with respect to enumerated technical aspects, authority of committees, and FACA requirements.
+<b>2008</b>—Pub. L. 110–246, §2711, which directed the general amendment of section 1262 of the “Farm Security Act of 1985”, was executed by making the amendment to this section, which is section 1262 of the Food Security Act of 1985, to reflect the probable intent of Congress. Prior to amendment, section consisted of subsecs. (a) to (d) which related to general responsibilities of committees established under section 3861 of this title, wetland and wildlife habitat protection guidelines, provision of assistance and recommendations with respect to enumerated technical aspects, authority of committees, and FACA requirements.
 
-1996—Subsec. (a). Pub. L. 104–127, §342(b)(1), inserted at end “Each State technical committee shall provide public notice of, and permit public attendance at meetings considering, issues of concern related to carrying out this chapter.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §342(b)(1), inserted at end “Each State technical committee shall provide public notice of, and permit public attendance at meetings considering, issues of concern related to carrying out this chapter.”
 
 Subsec. (b)(1). Pub. L. 104–127, §342(b)(2), inserted at end “Each State technical committee shall establish criteria and guidelines for evaluating petitions by agricultural producers regarding new conservation practices and systems not already described in field office technical guides.”
 
 Subsec. (c)(7) to (9). Pub. L. 104–127, §342(b)(3), struck out “and” at end of par. (7), added par. (8), and redesignated former par. (8) as (9).
 
-1994—Subsec. (e). Pub. L. 103–354 added subsec. (e).
+<b>1994</b>—Subsec. (e). Pub. L. 103–354 added subsec. (e).
 
 #### Effective Date of 2008 Amendment
 

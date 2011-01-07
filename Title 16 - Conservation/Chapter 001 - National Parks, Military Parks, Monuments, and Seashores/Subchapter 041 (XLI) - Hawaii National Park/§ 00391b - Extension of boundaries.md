@@ -68,7 +68,7 @@ Footprint extension: Beginning at the northeast corner of this tract of land, at
 
 5\. Two hundred and twenty degrees and forty minutes exactly one thousand seven hundred and eighty-seven feet crossing the Government main road to a spike in large boulder in stone wall about one hundred and twenty-five feet north of the Government main road; thence
 
-6\. Along stone wall over the lava flows, the boundary following the wall in its turns andwindings, the direct azimuth and distance being: two hundred and nineteen degrees twenty-two minutes and forty-five seconds exactly eighteen thousand one hundred and twenty-one feet to a point in said stone wall.
+6\. Along stone wall over the lava flows, the boundary following the wall in its turns and windings, the direct azimuth and distance being: two hundred and nineteen degrees twenty-two minutes and forty-five seconds exactly eighteen thousand one hundred and twenty-one feet to a point in said stone wall.
 
 7\. Two hundred and thirty-eight degrees and seven minutes exactly two hundred and fifty feet partly along stone wall to a pipe in the middle of a corral;
 
@@ -92,9 +92,9 @@ Footprint extension: Beginning at the northeast corner of this tract of land, at
 
 #### Amendments
 
-2000—Pub. L. 106–510 substituted at end “park. Land (including the land depicted on the map entitled ‘NPS–PAC 1997HW’) may be acquired by the Secretary through donation, exchange, or purchase with donated or appropriated funds.” for “park: <i>Provided</i>, That the United States shall not purchase, by appropriation of public moneys, any land within the aforesaid area, but such lands shall be secured by the United States only by public and private donations, except for the land depicted on the map entitled ‘NPS–PAC 1997HW’, which may be purchased with donated or appropriated funds.”
+<b>2000</b>—Pub. L. 106–510 substituted at end “park. Land (including the land depicted on the map entitled ‘NPS–PAC 1997HW’) may be acquired by the Secretary through donation, exchange, or purchase with donated or appropriated funds.” for “park: <i>Provided</i>, That the United States shall not purchase, by appropriation ofpublic moneys, any land within the aforesaid area, but such lands shall be secured by the United States only by public and private donations, except for the land depicted on the map entitled ‘NPS–PAC 1997HW’, which may be purchased with donated or appropriated funds.”
 
-1998—Pub. L. 105–380 inserted before period at end “, except for the land depicted on the map entitled ‘NPS–PAC 1997HW’, which may be purchased with donated or appropriated funds”.
+<b>1998</b>—Pub. L. 105–380 inserted before period at end “, except for the land depicted on the map entitled ‘NPS–PAC 1997HW’, which may be purchased with donated or appropriated funds”.
 
 #### Change of Name
 

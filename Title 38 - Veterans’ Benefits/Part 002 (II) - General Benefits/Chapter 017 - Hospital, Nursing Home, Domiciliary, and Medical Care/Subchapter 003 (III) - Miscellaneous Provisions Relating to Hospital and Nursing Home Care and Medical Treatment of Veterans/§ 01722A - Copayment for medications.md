@@ -24,33 +24,33 @@
 
 #### Amendments
 
-2003—Subsec. (a)(3)(B), (C). Pub. L. 108–170 added subpar. (B) and redesignated former subpar. (B) as (C).
+<b>2003</b>—Subsec. (a)(3)(B), (C). Pub. L. 108–170 added subpar. (B) and redesignated former subpar. (B) as (C).
 
 Subsec. (c). Pub. L. 108–7, §113(c)(1), substituted “under this section” for “under subsection (a)” in first sentence and struck out second sentence which read as follows: “Amounts collected through use of the authority under subsection (b) shall be deposited in the Department of Veterans Affairs Health Services Improvement Fund.”
 
 Subsec. (d). Pub. L. 108–7, §113(c)(2), struck out subsec. (d) which read as follows: “The provisions of subsection (a) expire on September 30, 2002.”
 
-1999—Subsec. (b). Pub. L. 106–117, §201(a)(1), (2), added subsec. (b). Former subsec. (b) redesignated (c).
+<b>1999</b>—Subsec. (b). Pub. L. 106–117, §201(a)(1), (2), added subsec. (b). Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 106–117, §201(a)(1), (3), redesignated subsec. (b) as (c), substituted “subsection (a)” for “this section”, and inserted at end “Amounts collected through use of the authority under subsection (b) shall be deposited in the Department of Veterans Affairs Health Services Improvement Fund.” Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 106–117, §201(a)(1), redesignated subsec. (c) as (d).
 
-1997—Subsec. (b). Pub. L. 105–33, §8023(b)(3), substituted “Medical Care Collections Fund” for “Medical-Care Cost Recovery Fund”.
+<b>1997</b>—Subsec. (b). Pub. L. 105–33, §8023(b)(3), substituted “Medical Care Collections Fund” for “Medical-Care Cost Recovery Fund”.
 
 Subsec. (c). Pub. L. 105–33, §8021(b), substituted “September 30, 2002” for “September 30, 1998”.
 
-1994—Subsec. (a)(1). Pub. L. 103–446 substituted “veteran to pay” for “veteran) to pay”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–446 substituted “veteran to pay” for “veteran) to pay”.
 
-1993—Subsec. (c). Pub. L. 103–66 substituted “1998” for “1992” in first sentence and struck out at end “Notwithstanding the preceding sentence, the provisions of subsection (a) shall be in effect through September 30, 1997.”
+<b>1993</b>—Subsec. (c). Pub. L. 103–66 substituted “1998” for “1992” in first sentence and struck out at end “Notwithstanding the preceding sentence, the provisions of subsection (a) shall be in effect through September 30, 1997.”
 
-1992—Subsec. (a)(1). Pub. L. 102–568, §605(a)(1), struck out “(other than a veteran with a service-connected disability rated 50 percent or more” after “require a veteran”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–568, §605(a)(1), struck out “(other than a veteran with a service-connected disability rated 50 percent or more” after “require a veteran”.
 
 Subsec. (a)(3). Pub. L. 102–568, §605(a)(2), added par. (3).
 
 Subsec. (c). Pub. L. 102–568, §606(a), inserted at end “Notwithstanding the preceding sentence, the provisions of subsection (a) shall be in effect through September 30, 1997.”
 
-1991—Pub. L. 102–83 renumbered section 622A of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 622A of this title as this section.
 
 Subsec. (c). Pub. L. 102–139, as amended by Pub. L. 102–229, substituted “September 30, 1992” for “September 30, 1991”.
 

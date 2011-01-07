@@ -22,7 +22,7 @@ A prior section 7 of Pub. L. 92–367 was classified to section 467f of this tit
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–310 substituted “Federal programs” for “Federal and State programs” and “through coordination and information exchange among Federal agencies concerning implementation of the Federal Guidelines for Dam Safety.” for “through—
+<b>2002</b>—Subsec. (b). Pub. L. 107–310 substituted “Federal programs” for “Federal and State programs” and “through coordination and information exchange among Federal agencies concerning implementation of the Federal Guidelines for Dam Safety.” for “through—
 
 &emsp;“(1) coordination and information exchange among Federal agencies and State dam safety agencies; and
 

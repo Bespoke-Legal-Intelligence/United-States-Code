@@ -17,6 +17,7 @@
 | [3313\.](Subchapter%20002%20%28II%29%20-%20Educational%20Assistance/%C2%A7%2003313%20-%20Educational%20assistance%20amount%3B%20payment.md) | Educational assistance: amount; payment. |
 | [3314\.](Subchapter%20002%20%28II%29%20-%20Educational%20Assistance/%C2%A7%2003314%20-%20Tutorial%20assistance.md) | Tutorial assistance. |
 | [3315\.](Subchapter%20002%20%28II%29%20-%20Educational%20Assistance/%C2%A7%2003315%20-%20Licensure%20and%20certification%20tests.md) | Licensure and certification tests. |
+| [3315A.](Subchapter%20002%20%28II%29%20-%20Educational%20Assistance/%C2%A7%2003315A%20-%20National%20tests.md) | National tests. |
 | [3316\.](Subchapter%20002%20%28II%29%20-%20Educational%20Assistance/%C2%A7%2003316%20-%20Supplemental%20educational%20assistance%20members%20with%20critical%20skills%20or%20specialty%3B%20members%20serving%20additional%20service.md) | Supplemental educational assistance: members with critical skills or specialty; members serving additional service. |
 | [3317\.](Subchapter%20002%20%28II%29%20-%20Educational%20Assistance/%C2%A7%2003317%20-%20Public-private%20contributions%20for%20additional%20educational%20assistance.md) | Public-private contributions for additional educational assistance. |
 | [3318\.](Subchapter%20002%20%28II%29%20-%20Educational%20Assistance/%C2%A7%2003318%20-%20Additional%20assistance%20relocation%20or%20travel%20assistance%20for%20individual%20relocating%20or%20traveling%20significant%20distance%20for%20pursuit%20of%20a%20program%E2%80%A6.md) | Additional assistance: relocation or travel assistance for individual relocating or traveling significant distance for pursuit of a program of education. |
@@ -34,6 +35,10 @@
 | [3324\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003324%20-%20Allocation%20of%20administration%20and%20costs.md) | Allocation of administration and costs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+<b>2011</b>—Pub. L. 111–377, title I, §108(a)(2), Jan. 4, 2011, 124 Stat. 4119, added item 3315A.
 
 
 ---

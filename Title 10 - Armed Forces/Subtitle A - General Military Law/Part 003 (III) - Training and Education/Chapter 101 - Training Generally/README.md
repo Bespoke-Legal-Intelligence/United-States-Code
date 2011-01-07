@@ -25,37 +25,37 @@
 
 #### Amendments
 
-2009—Pub. L. 111–84, div. A, title V, §§521(b), 525(b)(2), Oct. 28, 2009, 123 Stat. 2285, 2287, added items 2004b and 2016.
+<b>2009</b>—Pub. L. 111–84, div. A, title V, §§521(b), 525(b)(2), Oct. 28, 2009, 123 Stat. 2285, 2287, added items 2004b and 2016.
 
-2006—Pub. L. 109–364, div. A, title V, §536(b), Oct. 17, 2006, 120 Stat. 2209, added item 2004a.
+<b>2006</b>—Pub. L. 109–364, div. A, title V, §536(b), Oct. 17, 2006, 120 Stat. 2209, added item 2004a.
 
 Pub. L. 109–163, div. A, title V, §538(b), Jan. 6, 2006, 119 Stat. 3250, added item 2015.
 
-1997—Pub. L. 105–85, div. A, title III, §325(b), Nov. 18, 1997, 111 Stat. 1679, added item 2014.
+<b>1997</b>—Pub. L. 105–85, div. A, title III, §325(b), Nov. 18, 1997, 111 Stat. 1679, added item 2014.
 
-1996—Pub. L. 104–201, div. A, title III, §362(a)(2), Sept. 23, 1996, 110 Stat. 2493, added item 2013.
+<b>1996</b>—Pub. L. 104–201, div. A, title III, §362(a)(2), Sept. 23, 1996, 110 Stat. 2493, added item 2013.
 
 Pub. L. 104–106, div. A, title V, §572(b), Feb. 10, 1996, 110 Stat. 355, added item 2012.
 
-1994—Pub. L. 103–337, div. A, title XVI, §1671(b)(12), Oct. 5, 1994, 108 Stat. 3014, struck out item 2001 “Reserve components”.
+<b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1671(b)(12), Oct. 5, 1994, 108 Stat. 3014, struck out item 2001 “Reserve components”.
 
-1991—Pub. L. 102–190, div. A, title X, §1052(a)(2), Dec. 5, 1991, 105 Stat. 1471, added item 2011.
+<b>1991</b>—Pub. L. 102–190, div. A, title X, §1052(a)(2), Dec. 5, 1991, 105 Stat. 1471, added item 2011.
 
-1990—Pub. L. 101–510, div. A, title XIV, §1484(i)(3)(B), (4)(B), Nov. 5, 1990, 104 Stat. 1718, struck out “of the military departments” after “officers” in item 2004 and substituted “Payment” for “Limitation on payment” in item 2007.
+<b>1990</b>—Pub. L. 101–510, div. A, title XIV, §1484(i)(3)(B), (4)(B), Nov. 5, 1990, 104 Stat. 1718, struck out “of the military departments” after “officers” in item 2004 and substituted “Payment” for “Limitation on payment” in item 2007.
 
-1986—Pub. L. 99–661, div. A, title XIII, §1321(a)(2), Nov. 14, 1986, 100 Stat. 3988, added item 2010.
+<b>1986</b>—Pub. L. 99–661, div. A, title XIII, §1321(a)(2), Nov. 14, 1986, 100 Stat. 3988, added item 2010.
 
-1984—Pub. L. 98–525, title VII, §706(a)(2), title XIV, §§1401(g)(2), 1405(31), Oct. 19, 1984, 98 Stat. 2570, 2619, 2624, substituted a colon for a semicolon in item 2003 and added items 2006 to 2009.
+<b>1984</b>—Pub. L. 98–525, title VII, §706(a)(2), title XIV, §§1401(g)(2), 1405(31), Oct. 19, 1984, 98 Stat. 2570, 2619, 2624, substituted a colon for a semicolon in item 2003 and added items 2006 to 2009.
 
-1980—Pub. L. 96–357, §2(b), Sept. 24, 1980, 94 Stat. 1182, added item 2005.
+<b>1980</b>—Pub. L. 96–357, §2(b), Sept. 24, 1980, 94 Stat. 1182, added item 2005.
 
-1973—Pub. L. 93–155, title VIII, §817(b), Nov. 16, 1973, 87 Stat. 622, added item 2004.
+<b>1973</b>—Pub. L. 93–155, title VIII, §817(b), Nov. 16, 1973, 87 Stat. 622, added item 2004.
 
-1971—Pub. L. 92–168, §4(2), Nov. 24, 1971, 85 Stat. 489, added item 2003.
+<b>1971</b>—Pub. L. 92–168, §4(2), Nov. 24, 1971, 85 Stat. 489, added item 2003.
 
-1970—Pub. L. 91–278, §2(3), June 12, 1970, 84 Stat. 306, substituted “armed forces” for “Army, Navy, Air Force, or Marine Corps” in item 2002.
+<b>1970</b>—Pub. L. 91–278, §2(3), June 12, 1970, 84 Stat. 306, substituted “armed forces” for “Army, Navy, Air Force, or Marine Corps” in item 2002.
 
-1965—Pub. L. 89–160, §1(2), Sept. 1, 1965, 79 Stat. 615, added item 2002.
+<b>1965</b>—Pub. L. 89–160, §1(2), Sept. 1, 1965, 79 Stat. 615, added item 2002.
 
 #### Language Training Centers for Members of the Armed Forces and Civilian Employees of the Department of Defense
 
@@ -91,7 +91,7 @@ Coordination.—The Secretary of Defense shall ensure that the language training
 
 “(e)
 
-Report.—Not later than one year after the date of the establishment of the program authorized by subsection (a), the Secretary of Defense shall submit tothe congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the program. The report shall include the following:
+Report.—Not later than one year after the date of the establishment of the program authorized by subsection (a), the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the program. The report shall include the following:
 
 &emsp;“(1) A description of each language training center established under the program.
 

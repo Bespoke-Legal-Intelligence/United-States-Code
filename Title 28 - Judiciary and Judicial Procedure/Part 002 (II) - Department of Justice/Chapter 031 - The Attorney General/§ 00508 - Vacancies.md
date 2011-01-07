@@ -26,9 +26,9 @@ The last sentence of R.S. §347 is cited as authority inasmuch as the function c
 
 #### Prior Provisions
 
-A prior section 508, acts June 25, 1948, ch. 646, 62 Stat. 910; Mar. 2, 1955, ch. 9, §2(a), 69 Stat. 10; Oct. 11, 1962,Pub. L. 87–793, §1003(a), 76 Stat. 865; Aug. 14, 1964, Pub. L. 88–426, title III, §306(a)(1), 78 Stat. 428; Oct. 6, 1964, Pub. L. 88–631, §3(b), 78 Stat. 1008, related to salaries of United States attorneys, assistant United States attorneys, and special attorneys, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 548 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 508, acts June 25, 1948, ch. 646, 62 Stat. 910; Mar. 2, 1955, ch. 9, §2(a), 69 Stat. 10; Oct. 11, 1962, Pub. L. 87–793, §1003(a), 76 Stat. 865; Aug. 14, 1964, Pub. L. 88–426, title III, §306(a)(1), 78 Stat. 428; Oct. 6, 1964, Pub. L. 88–631, §3(b), 78 Stat. 1008, related to salaries of United States attorneys, assistant United States attorneys, and special attorneys, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 548 of this title by section 4(c) of Pub. L. 89–554.
 
 #### Amendments
 
-1977—Subsec. (b). Pub. L. 95–139 substituted “the Associate Attorney General shall act as Attorney General. The Attorney General may designate the Solicitor General and the Assistant Attorneys General, in further order of succession, to act as Attorney General” for “the Assistant Attorneys General and the Solicitor General, in such order of succession as the Attorney General may from time to time prescribe, shall act as Attorney General”.
+<b>1977</b>—Subsec. (b). Pub. L. 95–139 substituted “the Associate Attorney General shall act as Attorney General. The Attorney General may designate the Solicitor General and the Assistant Attorneys General, in further order of succession, to act as Attorney General” for “the Assistant Attorneys General and the Solicitor General, in such order of succession as the Attorney General may from time to time prescribe, shall act as Attorney General”.
 

@@ -48,11 +48,11 @@ This section shall not apply to a debt which is evidenced by a security as defin
 
 #### Amendments
 
-1988—Subsec. (d)(1)(A). Pub. L. 100–647, §1008(d)(1), substituted “subsection (a)” for “subsections (a) and (c)”.
+<b>1988</b>—Subsec. (d)(1)(A). Pub. L. 100–647, §1008(d)(1), substituted “subsection (a)” for “subsections (a) and (c)”.
 
 Subsecs. (f), (g). Pub. L. 100–647, §1008(d)(2), made clarifying amendment to directory language of Pub. L. 99–514, §805(b), see 1986 Amendment note below.
 
-1986—Subsec. (c). Pub. L. 99–514, §805(a), struck out subsec. (c), reserve for bad debts, which read as follows: “In lieu of any deduction under subsection (a), there shall be allowed (in the discretion of the Secretary) a deduction for a reasonable addition to a reserve for bad debts.”
+<b>1986</b>—Subsec. (c). Pub. L. 99–514, §805(a), struck out subsec. (c), reserve for bad debts, which read as follows: “In lieu of any deduction under subsection (a), there shall be allowed (in the discretion of the Secretary) a deduction for a reasonable addition to a reserve for bad debts.”
 
 Subsec. (f). Pub. L. 99–514, §805(b), as amended by Pub. L. 100–647, §1008(d)(2), redesignated subsec. (g) as (f) and struck out former subsec. (f) which related to reserve for certain guaranteed debt obligations, par. (1) thereof providing for allowance of deduction, par. (2) disallowing deduction in other cases, par. (3) relating to opening balance of reserve, and par. (4) relating to suspense account.
 
@@ -64,9 +64,9 @@ Pub. L. 99–514, §901(d)(4)(A), struck out pars. (3) and (4) which read as fol
 
 “(4) For special rule for bad debt reserves of banks, small business investment-companies, etc., see sections 585 and 586.”
 
-1984—Subsec. (d)(1)(B). Pub. L. 98–369 substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+<b>1984</b>—Subsec. (d)(1)(B). Pub. L. 98–369 substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-1976—Subsecs. (a)(2), (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (a)(2), (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (d)(1)(B). Pub. L. 94–455, §1401(b)(1)(A), (2), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977, and “9 months” would be changed to “1 year” for taxable years beginning after Dec. 31, 1977.
 
@@ -74,11 +74,11 @@ Subsec. (f). Pub. L. 94–455, §§605(a), 1906(b)(13)(A), redesignated subsec. 
 
 Subsecs. (g), (h). Pub. L. 94–455, §605(a), redesignated subsecs. (g) and (h) as (f) and (g), respectively.
 
-1969—Subsec. (h)(4). Pub. L. 91–172 added par. (4).
+<b>1969</b>—Subsec. (h)(4). Pub. L. 91–172 added par. (4).
 
-1966—Subsecs. (g), (h). Pub. L. 89–722 added subsec. (g) and redesignated former subsec. (g) as (h).
+<b>1966</b>—Subsecs. (g), (h). Pub. L. 89–722 added subsec. (g) and redesignated former subsec. (g) as (h).
 
-1958—Subsec. (d)(2)(A). Pub. L. 85–866 substituted “a trade or business of the taxpayer” for “a taxpayer's trade or business”.
+<b>1958</b>—Subsec. (d)(2)(A). Pub. L. 85–866 substituted “a trade or business of the taxpayer” for “a taxpayer's trade or business”.
 
 #### Effective Date of 1988 Amendment
 
@@ -142,7 +142,7 @@ Section 2 of Pub. L. 89–722, as amended by Pub. L. 99–514, §2, Oct. 22, 198
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending afterAug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
+Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
 #### Establishment of Reserve for Taxable Year Ending After Oct. 21, 1965, and Beginning Before Aug. 2, 1966
 

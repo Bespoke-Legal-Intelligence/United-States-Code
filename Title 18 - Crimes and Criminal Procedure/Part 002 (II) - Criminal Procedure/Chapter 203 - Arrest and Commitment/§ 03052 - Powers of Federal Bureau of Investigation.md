@@ -14,7 +14,7 @@ Minor changes were made in phraseology particularly with respect to omission of 
 
 #### Amendments
 
-1951—Act Jan. 10, 1951, allowed F. B. I. personnel to make arrests without a warrant for any offense against the United States committed in their presence.
+<b>1951</b>—Act Jan. 10, 1951, allowed F. B. I. personnel to make arrests without a warrant for any offense against the United States committed in their presence.
 
 #### Transfer of Functions
 

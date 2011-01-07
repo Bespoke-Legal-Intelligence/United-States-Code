@@ -6,7 +6,7 @@ None of the revenues granted by section 1605 of this title, and none of the land
 
 #### (b) Patents for homesteads, headquarters sites, trade and manufacturing sites, or small tract sites; use and occupancy protection
 
-The Secretary is directed to promptly issue patents to all persons who have made a lawful entry on the public lands in compliance with the public land laws for the purpose of gaining title to homesteads, headquarters sites, trade and manufacturing sites, or small tract sites (43 U.S.C. 682 <sup>1</sup>), and who have fulfilled all requirements of the law prerequisite to obtaining a patent. Any person who has made a lawful entry prior to August 31, 1971, for any of the foregoing purposes shall be protected in his right of use and occupancy until all the requirements of law for a patent have been met even though the lands involved have been reserved or withdrawn in accordance with Public Land Order 4582, as amended, or the withdrawal provisions of this chapter: <i>Provided</i>, That occupancy must have been maintained in accordance with the appropriate public land law: <i>Provided further</i>, That any person who entered on public lands in violation of Public Land Order 4582, as amended, shall gain no rights.
+The Secretary is directed to promptly issue patents to all persons who have made a lawful entry on the public lands in compliance with the public land laws for the purpose of gaining title to homesteads, headquarters sites, trade and manufacturing sites, or small tract sites (43 U.S.C. 682 <sup>1</sup>), and who have fulfilled all requirements of the law prerequisite to obtaining a patent. Any person who has made a lawful entry prior to August 31, 1971, for any of the foregoing purposes shall be protected in his right of use and occupancy until all the requirements of law for a patent have been met even though the lands involved have been reserved or withdrawn in accordance with Public Land Order 4582, as amended, or the withdrawal provisions of this chapter: <i>Provided</i>, That occupancy must havebeen maintained in accordance with the appropriate public land law: <i>Provided further</i>, That any person who entered on public lands in violation of Public Land Order 4582, as amended, shall gain no rights.
 
 #### (c) Mining claims; possessory rights, protection
 
@@ -36,7 +36,7 @@ If land within the National Wildlife Refuge System is selected by a Village Corp
 
 #### (f) Land exchanges
 
-The Secretary, the Secretary of Defense, the Secretary of Agriculture, and the State of Alaska are authorized to exchange lands or interests therein, including Native selection rights, with the corporations organized by Native groups, Village Corporations, Regional Corporations, and the corporations organized by Natives residing in Juneau, Sitka, Kodiak, and Kenai, all as defined in this chapter, and other municipalities and corporations or individuals, the State (acting free of the restrictions of section 6(i) of the Alaska Statehood Act), or any Federal agency for the purpose of effecting land consolidations or to facilitate the management or development of the land, or for other public purposes. Exchanges shall be on the basis of equal value, and either party to the exchange may pay or accept cash in order to equalize the value of the property exchanged: <i>Provided</i>, That when the parties agree to an exchange and the appropriate Secretary determines it is in the public interest, such exchanges may be made for other than equal value.
+The Secretary, the Secretary of Defense, the Secretary of Agriculture, and the State of Alaska are authorized to exchange lands or interests therein, including Native selection rights, with the corporations organized by Native groups, Village Corporations, Regional Corporations, and the corporations organized by Natives residing in Juneau, Sitka, Kodiak, and Kenai, all as defined in this chapter, and other municipalities and corporations or individuals, the State (acting free of the restrictions of section 6(i) of the Alaska Statehood Act), or any Federal agency for the purpose of effecting land consolidations or to facilitate the management or development of the land, or for other public purposes. Exchanges shall be on the basis of equal value, and either party to the exchange may pay or accept cash in order to equalize the value of the property exchanged: <i>Provided</i>, That when the partiesagree to an exchange and the appropriate Secretary determines it is in the public interest, such exchanges may be made for other than equal value.
 
 #### (g) National Wildlife Refuge System lands subject of patents; Federal reservation of first refusal rights; provision in patents for continuing application of laws and regulations governing Refuge
 
@@ -84,15 +84,11 @@ Notwithstanding any provision of this chapter, no Village or Regional Corporatio
 
 An Alaska Native regional corporation organized pursuant to this chapter, or an affiliate thereof, that holds a Federal Communications Commission license in the personal communications service as of the date of enactment of this section <sup>2</sup> and has either paid for such license in full or has complied with the payment schedules for such license shall be permitted to transfer or assign without penalty such license to any transferee or assignee. No economic penalties shall apply to any transfer or assignment authorized under this section. Any amounts owed to the United States for the initial grant of such licenses shall become immediately due and payable upon the consummation of any such transfer or assignment. Any application for such a transfer or assignment shall be deemed granted if not denied by the Commission within 90 days of the date on which it was initially filed. Any provision of law or regulation to the contrary is hereby amended.
 
-(Pub. L. 92–203, §22, Dec. 18, 1971, 85 Stat. 713; Pub. L. 94–204, §17, Jan. 2, 1976, 89 Stat. 1156; Pub. L. 96–487, title XIV, §1410, Dec. 2, 1980, 94 Stat. 2496; Pub. L. 102–415, §14, Oct. 14, 1992, 106 Stat. 2121; Pub. L. 104–42, title I, §102, Nov. 2, 1995, 109 Stat. 353; Pub. L. 105–333, §7, Oct. 31,1998, 112 Stat. 3133; Pub. L. 106–259, title VIII, §8149, Aug. 9, 2000, 114 Stat. 706; Pub. L. 108–452, title II, §208, Dec. 10, 2004, 118 Stat. 3586.)
+(Pub. L. 92–203, §22, Dec. 18, 1971, 85 Stat. 713; Pub. L. 94–204, §17, Jan. 2, 1976, 89 Stat. 1156; Pub. L. 96–487, title XIV, §1410, Dec. 2, 1980, 94 Stat. 2496; Pub. L. 102–415, §14, Oct. 14, 1992, 106 Stat. 2121; Pub. L. 104–42, title I, §102, Nov. 2, 1995, 109 Stat. 353; Pub. L. 105–333, §7, Oct. 31, 1998, 112 Stat. 3133; Pub. L. 106–259, title VIII, §8149, Aug. 9, 2000, 114 Stat. 706; Pub. L. 108–452, title II, §208, Dec. 10, 2004, 118 Stat. 3586.)
 
 #### References in Text
 
-The public land laws, referred to in subsec. (b), are classified generally to this title.
-
 Section 682 of this title, referred to in subsec. (b), probably means section 682a of this title which was repealed by Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787.
-
-The general mining laws, referred to in subsec. (c), are classified generally to Title 30, Mineral Lands and Mining.
 
 The Alaska National Interest Lands Conservation Act, referred to in subsec. (c)(2)(A)(i), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 16, Conservation, and Tables.
 
@@ -102,19 +98,19 @@ The date of enactment of this section, referred to in subsec. (m), probably mean
 
 #### Amendments
 
-2004—Subsec. (j)(3). Pub. L. 108–452 added par. (3).
+<b>2004</b>—Subsec. (j)(3). Pub. L. 108–452 added par. (3).
 
-2000—Subsec. (m). Pub. L. 106–259, which directed the addition of subsec. (m) at the end of section 1621 of Public Law 92–204, was executed by adding subsec. (m) at the end of this section, which is section 22 of Pub. L. 92–203, to reflect the probable intent of Congress.
+<b>2000</b>—Subsec. (m). Pub. L. 106–259, which directed the addition of subsec. (m) at the end of section 1621 of Public Law 92–204, was executed by adding subsec. (m) at the end of this section, which is section 22 of Pub. L. 92–203, to reflect the probable intent of Congress.
 
-1998—Subsec. (c)(3). Pub. L. 105–333 substituted “Regional Corporation” for “regional corporation” wherever appearing and inserted at end “The provisions of this section shall apply to Haida Corporation and the Haida Traditional Use Sites, which shall be treated as a Regional Corporation for the purposes of this paragraph, except that any revenues remitted to Haida Corporation under this section shall not be subject to distribution pursuant to section 1606(i) of this title.”
+<b>1998</b>—Subsec. (c)(3). Pub. L. 105–333 substituted “Regional Corporation” for “regional corporation” wherever appearing and inserted at end “The provisions of this section shall apply to Haida Corporation and the Haida Traditional Use Sites, which shall be treated as a Regional Corporation for the purposes of this paragraph, except that any revenues remitted to Haida Corporation under this section shall not be subject to distribution pursuant to section 1606(i) of this title.”
 
-1995—Subsec. (c)(3). Pub. L. 104–42 added par. (3).
+<b>1995</b>—Subsec. (c)(3). Pub. L. 104–42 added par. (3).
 
-1992—Subsec. (c). Pub. L. 102–415 designated existing provisions as par. (1) and added par. (2).
+<b>1992</b>—Subsec. (c). Pub. L. 102–415 designated existing provisions as par. (1) and added par. (2).
 
-1980—Subsec. (j). Pub. L. 96–487 substituted provision authorizing Secretary to convey lands by interim conveyance when the lands have not been surveyed, upon survey to issue a patent and redescribe the lands if necessary, and, where lands selected and conveyed, or to be conveyed, to a Village Corporation are insufficient to fulfill the Corporation's entitlement, to withdraw twice the amount of unfulfilled entitlement and provide the Village Corporation 90 days from receipt of notice to select from the lands withdrawn the land it desires to fulfill its entitlement for provision authorizing the Secretary, in any area of Alaska for which protraction diagrams do not exist, which does not conform to the United States Land Survey System, or which has not been adequately surveyed to permit selection, to take such actions as are necessary to accomplish the purposes of this chapter.
+<b>1980</b>—Subsec. (j). Pub. L. 96–487 substituted provision authorizing Secretary to convey lands by interim conveyance when the lands have not been surveyed, upon survey to issue a patent and redescribe the lands if necessary, and, where lands selected and conveyed, or to be conveyed, to a Village Corporation are insufficient to fulfill the Corporation's entitlement, to withdraw twice the amount of unfulfilled entitlement and provide the Village Corporation 90 days from receipt of notice to select from the lands withdrawn the land it desires to fulfill its entitlement for provision authorizing the Secretary, in any area of Alaska for which protraction diagrams do not exist, which does not conform to the United States Land Survey System, or which has not been adequately surveyed to permit selection, to take such actions as are necessary to accomplish the purposes of this chapter.
 
-1976—Subsec. (f). Pub. L. 94–204 authorized State of Alaska to make direct exchanges of land between it and Native Corporations, authorized State to transfer mineral interests, notwithstanding section 6(i) of the Alaska Statehood Act, to Federal agencies in such exchanges, and authorized exchanges on a basis other than equal value, by agreement of the parties or if deemed in the public interest.
+<b>1976</b>—Subsec. (f). Pub. L. 94–204 authorized State of Alaska to make direct exchanges of land between it and Native Corporations, authorized State to transfer mineral interests, notwithstanding section 6(i) of the Alaska Statehood Act, to Federal agencies in such exchanges, and authorized exchanges on a basis other than equal value, by agreement of the parties or if deemed in the public interest.
 
 <i><sup>1</sup></i><i> So in original. See References in Text note below.</i>
 

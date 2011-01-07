@@ -30,7 +30,7 @@
 
 #### References in Text
 
-Section 321 of the International Development and Food Assistance Act of 1975, referred to in subsec.\(a)(3)(B), is section 321 of Pub. L. 94–161, which is set out as a note under section 2220a of this title.
+Section 321 of the International Development and Food Assistance Act of 1975, referred to in subsec. (a)(3)(B), is section 321 of Pub. L. 94–161, which is set out as a note under section 2220a of this title.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 

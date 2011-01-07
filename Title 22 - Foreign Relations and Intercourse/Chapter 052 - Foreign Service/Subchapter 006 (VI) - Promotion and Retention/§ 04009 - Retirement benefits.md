@@ -28,7 +28,7 @@ Any member of the Service (other than a member to whom subsection (a) of this se
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–277, §2312(a)(2), inserted “or section 4071d of this title, as appropriate” after “section 4046 of this title” in concluding provisions.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §2312(a)(2), inserted “or section 4071d of this title, as appropriate” after “section 4046 of this title” in concluding provisions.
 
 Subsec. (a)(2)(A). Pub. L. 105–277, §2312(a)(1), inserted “or any other applicable provision of chapter 84 of title 5” after “section 4051 of this title”.
 
@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 105–277, §2312(a)(4), inserted “(for participants in t
 
 Subsec. (b)(2). Pub. L. 105–277, §2312(a)(3), designated existing provisions as subpar. (A), inserted “for those participants in the Foreign Service Retirement and Disability System,” before “a refund”, and added subpar. (B).
 
-1994—Subsecs. (a)(2), (b). Pub. L. 103–236 inserted “or 4010a” after “4008(b)”.
+<b>1994</b>—Subsecs. (a)(2), (b). Pub. L. 103–236 inserted “or 4010a” after “4008(b)”.
 
 #### Effective Date of 1998 Amendment
 
@@ -56,7 +56,7 @@ Pub. L. 95–105, title IV, §411, Aug. 17, 1977, 91 Stat. 855, as amended by Pu
 
 “(a) Subject to the conditions established in subsection (b), any Foreign Service officer—
 
-&emsp;“(1) who was retired under section 633(a)(1) of the Foreign Service Act of 1946 \[former section 1003(a)(1) of this title, see section 4007(a) of this title\] before the date of enactment of this section, \[Aug. 17, 1977\];
+&emsp;“(1) who was retired under section 633(a)(1) of the Foreign Service Act of 1946 \[former section 1003(a)(1)of this title, see section 4007(a) of this title\] before the date of enactment of this section, \[Aug. 17, 1977\];
 
 &emsp;“(2) who was not in class 1, 2, or 3 at the time of retirement;
 

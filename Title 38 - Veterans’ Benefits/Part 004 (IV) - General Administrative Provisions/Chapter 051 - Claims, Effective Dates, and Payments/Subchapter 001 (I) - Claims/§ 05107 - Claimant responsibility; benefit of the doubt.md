@@ -2,7 +2,7 @@
 
 (a)
 
-Claimant Responsibility.—Except as otherwise provided by law, a claimant has the responsibility to present and support a claim for benefits under laws administered by the Secretary.
+Claimant Responsibility.—Except as otherwise provided by law, a claimant has the responsibility to present and support a claim forbenefits under laws administered by the Secretary.
 
 (b)
 
@@ -12,7 +12,7 @@ Benefit of the Doubt.—The Secretary shall consider all information and lay and
 
 #### Amendments
 
-2000—Pub. L. 106–475 substituted “Claimant responsibility; benefit of the doubt” for “Burden of proof; benefit of the doubt” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>2000</b>—Pub. L. 106–475 substituted “Claimant responsibility; benefit of the doubt” for “Burden of proof; benefit of the doubt” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) Except when otherwise provided by the Secretary in accordance with the provisions of this title, a person who submits a claim for benefits under a law administered by the Secretary shall have the burden of submitting evidence sufficient to justify a belief by a fair and impartial individual that the claim is well grounded. The Secretary shall assist such a claimant in developing the facts pertinent to the claim. Such assistance shall include requesting information as described in section 5106 of this title.
 
@@ -20,7 +20,7 @@ Benefit of the Doubt.—The Secretary shall consider all information and lay and
 
 Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(a)\], directed the general amendment of the section catchline and text. Pub. L. 106–419, §104(c)(2), provided that, as of the enactment of Pub. L. 106–419, the amendment made by Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(a)\], was deemed for all purposes not to have taken effect and that Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(a)\], ceased to be in effect.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 3007 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 3007 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 

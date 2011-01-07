@@ -20,7 +20,7 @@ Pub. L. 109–2, §7, Feb. 18, 2005, 119 Stat. 13, provided that: “Notwithstan
 
 #### Modification of Amendments to Federal Rules of Criminal Procedure Proposed April 29, 2002; Effective Date
 
-Pub. L. 107–273, div. C, title I, §11019(a), Nov. 2, 2002, 116 Stat. 1825, provided that: “The proposed amendments to the Federal Rules of Criminal Procedure thatare embraced by an order entered by the Supreme Court of the United States on April 29, 2002, shall take effect on December 1, 2002, as otherwise provided by law, but with the amendments made in subsection (b) \[amending Rule 16 of the Federal Rules of Criminal Procedure\].”
+Pub. L. 107–273, div. C, title I, §11019(a), Nov. 2, 2002, 116 Stat. 1825, provided that: “The proposed amendments to the Federal Rules of Criminal Procedure that are embraced by an order entered by the Supreme Court of the United States on April 29, 2002, shall take effect on December 1, 2002, as otherwise provided by law, but with the amendments made in subsection (b) \[amending Rule 16 of the Federal Rules of Criminal Procedure\].”
 
 #### Modification of Amendments to Federal Rules of Evidence Proposed April 29, 1994; Effective Date
 
@@ -72,7 +72,7 @@ Pub. L. 97–462, §5, Jan. 12, 1983, 96 Stat. 2530, provided that: “The amend
 
 Pub. L. 97–227, Aug. 2, 1982, 96 Stat. 246, provided: “That notwithstanding the provisions of section 2072 of title 28, United States Code, the amendments to rule 4 of the Federal Rules of Civil Procedure as proposed by the Supreme Court of the United States and transmitted to the Congress by the Chief Justice on April 28, 1982, shall take effect on October 1, 1983, unless previously approved, disapproved, or modified by Act of Congress.
 
-“Sec. 2. This Act shall be effective as of August 1, 1982, but shall not apply to the service of process that takes place between August 1, 1982, and the date of enactment of this Act \[Aug. 2, 1982\].”
+“Sec. 2. This Act shall be effective as of August 1, 1982, but shall not apply to the service of process thattakes place between August 1, 1982, and the date of enactment of this Act \[Aug. 2, 1982\].”
 
 #### Amendments to Criminal Rules and Rules of Evidence Proposed April 30, 1979; Postponement of Effective Date
 
@@ -100,7 +100,7 @@ Pub. L. 95–78, §4, July 30, 1977, 91 Stat. 322, provided that:
 
 #### Approval and Effective Date of Rules Governing Section 2254 Cases and Section 2255 Proceedings for United States District Courts
 
-Pub. L. 94–426, §1, Sept. 28, 1976, 90 Stat. 1334, provided: “That the rules governing section 2254 cases in the United States district courts and the rules governing section 2255 proceedings for the United States district courts, as proposed by the United States Supreme Court, which were delayed by the Act entitled ‘An Act to delay the effective date of certain proposed amendments to the Federal Rules of Criminal Procedure and certain other rules promulgated by the United States Supreme Court’ (Public Law 94–349), are approved withthe amendments set forth in section 2 of this Act and shall take effect as so amended, with respect to petitions under section 2254 and motions under section 2255 of title 28 of the United States Code filed on or after February 1, 1977.”
+Pub. L. 94–426, §1, Sept. 28, 1976, 90 Stat. 1334, provided: “That the rules governing section 2254 cases in the United States district courts and the rules governing section 2255 proceedings for the United States district courts, as proposed by the United States Supreme Court, which were delayed by the Act entitled ‘An Act to delay the effective date of certain proposed amendments to the Federal Rules of Criminal Procedure and certain other rules promulgated by the United States Supreme Court’ (Public Law 94–349), are approved with the amendments set forth in section 2 of this Act and shall take effect as so amended, with respect to petitions under section 2254 and motions under section 2255 of title 28 of the United States Code filed on or after February 1, 1977.”
 
 #### Amendments to Criminal Rules Under Supreme Court Order of April 26, 1976; Postponement of Effective Date
 

@@ -108,9 +108,9 @@ In this title the following definitions shall apply:
 
 &emsp;(13A) The term “debtor's principal residence”—
 
-&emsp;&emsp;(A) means a residential structure, including incidental property, without regard to whether that structure is attached to real property; and
+&emsp;&emsp;(A) means a residential structure if used as the principal residence by the debtor, including incidental property, without regard to whether that structure is attached to real property; and
 
-&emsp;&emsp;(B) includes an individual condominium or cooperative unit, a mobile or manufactured home, or trailer.
+&emsp;&emsp;(B) includes an individual condominium or cooperative unit, a mobile or manufactured home, or trailer if used as the principal residence by the debtor.
 
 &emsp;(14) The term “disinterested person” means a person that—
 
@@ -138,7 +138,7 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(iii) a determination made in accordance with applicable nonbankruptcy law by a governmental unit; and
 
-&emsp;&emsp;(D) not assigned to a nongovernmental entity, unless that obligation is assigned voluntarily by the spouse, former spouse, child of the debtor, or such child's parent, legal guardian, or responsible relative for the purpose of collecting the debt.
+&emsp;&emsp;(D) not assigned to a nongovernmental entity, unless that obligation is assigned voluntarily by the spouse, former spouse, child of the debtor, or such child's parent, legalguardian, or responsible relative for the purpose of collecting the debt.
 
 &emsp;(15) The term “entity” includes person, estate, trust, governmental unit, and United States trustee.
 
@@ -202,7 +202,7 @@ In this title the following definitions shall apply:
 
 &emsp;(21A) The term “farmout agreement” means a written agreement in which—
 
-&emsp;&emsp;(A) the owner of a right to drill, produce, or operate liquid or gaseous hydrocarbons on property agrees or has agreed to transfer orassign all or a part of such right to another entity; and
+&emsp;&emsp;(A) the owner of a right to drill, produce, or operate liquid or gaseous hydrocarbons on property agrees or has agreed to transfer or assign all or a part of such right to another entity; and
 
 &emsp;&emsp;(B) such other entity (either directly or through its agents or its assigns), as consideration, agrees to perform drilling, reworking, recompleting, testing, or similar or related operations, to develop or produce liquid or gaseous hydrocarbons on the property.
 
@@ -242,7 +242,7 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;(D) a master agreement that provides for an agreement or transaction referred to in subparagraph (A), (B), or (C), together with all supplements to any such master agreement, without regard to whether such master agreement provides for an agreement or transaction that is not a forward contract under this paragraph, except that such master agreement shall be considered to be a forward contract under this paragraph only with respect to each agreement or transaction under such master agreement that is referred to in subparagraph (A), (B), or (C); or
 
-&emsp;&emsp;(E) any security agreement or arrangement, or other credit enhancement related to any agreement or transaction referred toin subparagraph (A), (B), (C), or (D), including any guarantee or reimbursement obligation by or to a forward contract merchant or financial participant in connection with any agreement or transaction referred to in any such subparagraph, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562.
+&emsp;&emsp;(E) any security agreement or arrangement, or other credit enhancement related to any agreement or transaction referred to in subparagraph (A), (B), (C), or (D), including any guarantee or reimbursement obligation by or to a forward contract merchant or financial participant in connection with any agreement or transaction referred to in any such subparagraph, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562.
 
 &emsp;(26) The term “forward contract merchant” means a Federal reserve bank, or an entity the business of which consists in whole or in part of entering into forward contracts as or with merchants in a commodity (as defined in section 761) or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade.
 
@@ -350,7 +350,7 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(ii) property that may be exempted from property of the estate under section 522 of this title;
 
-&emsp;&emsp;(B) with reference to a partnership, financial condition such that the sum of such partnership's debts is greater than the aggregate of, at a fair valuation—
+&emsp;&emsp;(B) with reference to a partnership, financial condition such that the sum of suchpartnership's debts is greater than the aggregate of, at a fair valuation—
 
 &emsp;&emsp;&emsp;(i) all of such partnership's property, exclusive of property of the kind specified in subparagraph (A)(i) of this paragraph; and
 
@@ -374,7 +374,7 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;(A) has the meaning given it in section 3(c)(2) of the Federal Deposit Insurance Act; and
 
-&emsp;&emsp;(B) includes an insured credit union (except in the case of paragraphs (23) and (35) of this subsection).
+&emsp;&emsp;(B) includes an insured credit union (except in the case of paragraphs (21B) and (33)(A) of this subsection).
 
 &emsp;(35A) The term “intellectual property” means—
 
@@ -418,7 +418,7 @@ In this title the following definitions shall apply:
 
 &emsp;(40A) The term “patient” means any individual who obtains or receives services from a health care business.
 
-&emsp;(40B) The term “patient records” means any written document relating to a patient or a record recorded in a magnetic, optical, or other form of electronic medium.
+&emsp;(40B) The term “patient records” means any record relating to a patient, including a written document or a record recorded in a magnetic, optical, or other form of electronic medium.
 
 &emsp;(41) The term “person” includes individual, partnership, and corporation, but does not include governmental unit, except that a governmental unit that—
 
@@ -460,7 +460,7 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(ii) any other information concerning an identified individual that, if disclosed, will result in contacting or identifying such individual physically or electronically.
 
-&emsp;(42) The term “petition” means petition filed under section 301, 302, 303, or 304 <sup>2</sup> of this title, as the case may be, commencing a case under this title.
+&emsp;(42) The term “petition” means petition filed under section 301, 302, 303 and <sup>2</sup> 1504 of this title, as the case may be, commencing a case under this title.
 
 &emsp;(42A) The term “production payment” means a term overriding royalty satisfiable in cash or in kind—
 
@@ -492,7 +492,7 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;(B) does not include a repurchase obligation under a participation in a commercial mortgage loan.
 
-&emsp;(48) The term “securities clearing agency” means person that is registered as a clearing agency under section 17A of the Securities Exchange Act of 1934, or exempt from such registration under such section pursuant to an order of the Securities and Exchange Commission, or whose business is confined to the performance of functions of a clearing agency with respect to exempted securities, as defined in section 3(a)(12) of such Act for the purposes of such section 17A.
+&emsp;(48) The term “securities clearing agency” means person that is registered as a clearingagency under section 17A of the Securities Exchange Act of 1934, or exempt from such registration under such section pursuant to an order of the Securities and Exchange Commission, or whose business is confined to the performance of functions of a clearing agency with respect to exempted securities, as defined in section 3(a)(12) of such Act for the purposes of such section 17A.
 
 &emsp;(48A) The term “securities self regulatory organization” means either a securities association registered with the Securities and Exchange Commission under section 15A of the Securities Exchange Act of 1934 or a national securities exchange registered with the Securities and Exchange Commission under section 6 of the Securities Exchange Act of 1934.
 
@@ -552,13 +552,13 @@ In this title the following definitions shall apply:
 
 &emsp;(51A) The term “settlement payment” means, for purposes of the forward contract provisions of this title, a preliminary settlement payment, a partial settlement payment, an interim settlement payment, a settlement payment on account, a final settlement payment, a net settlement payment, or any other similar payment commonly used in the forward contract trade.
 
-&emsp;(51B) The term “single asset real estate” means real property constituting a single property or project, other than residential real property with fewer than 4 residential units, which generates substantially all of the gross income of a debtor who is not a family farmer and on which no substantial business is being conducted by a debtor other than the business of operating the real property and activities incidental.
+&emsp;(51B) The term “single asset real estate” means real property constituting a single property or project, other than residential real property with fewer than 4 residential units, which generates substantially all of the gross income of a debtor who is not a family farmer and on which no substantial business is being conducted by a debtor other than the business of operating the real property and activities incidental thereto.
 
 &emsp;(51C) The term “small business case” means a case filed under chapter 11 of this title in which the debtor is a small business debtor.
 
 &emsp;(51D) The term “small business debtor”—
 
-&emsp;&emsp;(A) subject to subparagraph (B), means a person engaged in commercial or business activities (including any affiliate of such person that is also a debtor under this title and excluding a person whose primary activity is the business of owning or operating real property or activities incidental thereto) that has aggregate noncontingent liquidated secured and unsecured debts as of the date of the petition or the date of the order for relief in an amount not more than $2,000,000 (excluding debts owed to 1 or more affiliates or insiders) for a case in which the United States trustee has not appointed under section 1102(a)(1) a committee of unsecured creditors or where the court has determined that the committee of unsecured creditors is not sufficiently active and representative to provide effective oversight of the debtor; and
+&emsp;&emsp;(A) subject to subparagraph (B), means a person engaged in commercial or business activities (including any affiliate of such person that is also a debtor under this title and excluding a person whose primary activity is the business of owning or operating real property or activities incidental thereto) that has aggregate noncontingent liquidated secured and unsecured debts as of the date of the filing of the petition or the date of the order for relief in an amount not more than $2,000,000 (excluding debts owed to 1 or more affiliates or insiders) for a case in which the United States trustee has not appointed under section 1102(a)(1) a committee of unsecured creditors or where the court has determined that the committee of unsecured creditors is not sufficiently active and representative to provide effective oversight of the debtor; and
 
 &emsp;&emsp;(B) does not include any member of a group of affiliated debtors that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $2,000,000 (excluding debt owed to 1 or more affiliates or insiders).
 
@@ -642,7 +642,11 @@ In this title the following definitions shall apply:
 
 &emsp;(55) The term “United States”, when used in a geographical sense, includes all locations where the judicial jurisdiction of the United States extends, including territories and possessions of the United States.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549; Pub. L. 97–222, §1, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§391, 401, 421, July 10, 1984, 98 Stat. 364, 366, 367; Pub. L. 99–554, title II, §§201, 251, 283(a), Oct. 27, 1986, 100 Stat. 3097, 3104, 3116; Pub. L. 100–506, §1(a), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 100–597, §1, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 101–311, title I, §101, title II, §201, June 25, 1990, 104 Stat. 267, 268; Pub. L. 101–647, title XXV, §2522(e), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 102–486, title XXX, §3017(a), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title I, §106, title II, §§208(a), 215, 217(a), 218(a), title III, §304(a), title V, §501(a), (b)(1), (d)(1), Oct. 22, 1994, 108 Stat. 4111, 4124, 4126–4128, 4132, 4141–4143; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(3), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–394; Pub. L. 109–8, title I, §102(b), (k), title II, §§211, 226(a), 231(b), title III, §306(c), title IV, §§401(a), 414, 432(a), title VIII, §802(b), title IX, §907(a)(1), (b), (c), title X, §§1004, 1005, 1007(a), title XI, §1101(a), (b), title XII, §1201, Apr. 20, 2005, 119 Stat. 32, 35, 50, 66, 73, 80, 104, 107, 110, 145, 170, 175, 186, 187, 189, 192; Pub. L. 109–390, §5(a)(1), Dec. 12, 2006, 120 Stat. 2695.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549; Pub. L. 97–222, §1, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§391, 401, 421, July 10, 1984, 98 Stat. 364, 366, 367; Pub. L. 99–554, title II, §§201, 251, 283(a), Oct. 27, 1986, 100 Stat. 3097, 3104, 3116; Pub. L. 100–506, §1(a), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 100–597, §1, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 101–311, title I, §101, title II, §201, June 25, 1990, 104 Stat. 267, 268; Pub. L. 101–647, title XXV, §2522(e), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 102–486, title XXX, §3017(a), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title I, §106, title II, §§208(a), 215, 217(a), 218(a), title III, §304(a), title V, §501(a), (b)(1), (d)(1), Oct. 22, 1994, 108 Stat. 4111, 4124, 4126–4128, 4132, 4141–4143; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(3), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–394; Pub. L. 109–8, title I, §102(b), (k), title II, §§211, 226(a), 231(b), title III, §306(c), title IV, §§401(a), 414, 432(a), title VIII, §802(b), title IX, §907(a)(1), (b), (c), title X, §§1004, 1005, 1007(a), title XI, §1101(a), (b), title XII, §1201, Apr. 20, 2005, 119 Stat. 32, 35, 50, 66, 73, 80, 104, 107, 110, 145, 170, 175, 186, 187, 189, 192; Pub. L. 109–390, §5(a)(1), Dec. 12, 2006, 120 Stat. 2695; Pub. L. 111–327, §2(a)(1), Dec. 22, 2010, 124 Stat. 3557.)
+
+#### Adjustment of Dollar Amounts
+
+<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.</i>
 
 #### Historical and Revision Notes
 
@@ -666,7 +670,7 @@ Section 101(9) of the Senate amendment contained a definition of “court.” Th
 
 Section 101(11) defines “debt” to mean liability on a claim, as was contained in the House-passed version of H.R. 8200. The Senate amendment contained language indicating that “debt” does not include a policy loan made by a life insurance company to the debtor. That language is deleted in the House amendment as unnecessary since a life insurance company clearly has no right to have a policy loan repaid by the debtor, although such company does have a right of offset with respect to such policy loan. Clearly, then, a “debt” does not include a policy loan made by a life insurance company. Inclusion of the language contained in the Senate amendment would have required elaboration of other legal relationships not arising by a liability on a claim. Further the language would have required clarification that interest on a policy loan made by a life insurance company is a debt, and that the insurance company does have right to payment to that interest.
 
-Section 101(14) adopts the definition of “entity” contained in the Senate-passed version of H.R. 8200. Since the Senate amendment to H.R. 8200 deleted the U.S. trustee, a corresponding definitional change is made in chapter 15 of the House amendment for U.S. trustees under the pilot program. Adoption by the House amendment of a pilot program for U.S. trustees under chapter 15 requires insertion of “United States trustee” in many sections. Several provisions in chapter 15 of the House amendment that relate to the U.S. trustee were not contained in the Senate amendment in the nature of a substitute.
+Section 101(14) adopts the definition of “entity” contained in the Senate-passed version of H.R. 8200. Since the Senate amendment to H.R. 8200 deleted the U.S.trustee, a corresponding definitional change is made in chapter 15 of the House amendment for U.S. trustees under the pilot program. Adoption by the House amendment of a pilot program for U.S. trustees under chapter 15 requires insertion of “United States trustee” in many sections. Several provisions in chapter 15 of the House amendment that relate to the U.S. trustee were not contained in the Senate amendment in the nature of a substitute.
 
 Section 101(17) defines “farmer,” as in the Senate amendment with an income limitation percentage of 80 percent instead of 75 percent.
 
@@ -710,7 +714,7 @@ Paragraph (10) \[enacted as (9)\] defines “creditor” to include holders of p
 
 Paragraph (11) \[enacted as (10)\] defines “custodian.” There is no similar definition in current law. It is defined to facilitate drafting, and means a prepetition liquidator of the debtor's property, such as an assignee for the benefit of creditors, a receiver of the debtor's property, or administrator of the debtor's property. The definition of custodian to include a receiver or trustee is descriptive, and not meant to be limited to court officers with those titles. The definition is intended to include other officers of the court if their functions are substantially similar to those of a receiver or trustee.
 
-“Debt” is defined in paragraph (12) \[enacted as (11)\] as a liability on a claim. The terms “debt” and “claim” are coextensive: a creditor has a “claim” against the debtor; the debtor owes a “debt” to the creditor. This definition of “debt” and the definition of “claim” on which it is based, proposed 11 U.S.C. 101(4), does not include a transaction such as a policy loan on an insurance policy. Under that kind of transaction, the debtor is not liable to the insurance company for repayment; the amount owed is merely available to the company for setoff against any benefits that become payable under the policy. As such, the loan is not a claim (it is not a right to payment) that the company can assert against the estate; nor is the debtor's obligation a debt (a liability on a claim) that will be discharged under proposed 11 U.S.C. 523 or 524.
+“Debt” is defined in paragraph (12) \[enacted as (11)\] as a liability on a claim. The terms “debt” and “claim” are coextensive: a creditor has a “claim” against the debtor; the debtor owes a “debt” to the creditor. This definition of “debt” and the definition of “claim” on which it is based, proposed 11 U.S.C. 101(4), does not include a transaction such as a policy loan on an insurance policy. Under that kind of transaction, the debtor is not liable to the insurance company for repayment; the amount owed is merely available to the company for setoff against any benefits that become payableunder the policy. As such, the loan is not a claim (it is not a right to payment) that the company can assert against the estate; nor is the debtor's obligation a debt (a liability on a claim) that will be discharged under proposed 11 U.S.C. 523 or 524.
 
 Paragraph (13) \[enacted as (12)\] defines “debtor.” Debtor means person or municipality concerning which a case under title II has been commenced. This is a change in terminology from present law, which identifies the person by or against whom a petition is filed in a straight bankruptcy liquidation case as the “bankrupt”, and a person or municipality that is proceeding under a debtor rehabilitation chapter (chapters VIII through XIII of the Bankruptcy Act) \[chapters 8 through 13 of former title 11\] as a “debtor.” The term “debtor” is used for both kinds of cases in this bill, for ease of reference in chapters 1, 3, and 5 (which apply to straight bankruptcy and reorganization cases).
 
@@ -768,7 +772,7 @@ Paragraph (40) defines “transfer.” It is derived and adapted, with stylistic
 
 #### References in Text
 
-The Social Security Act, referred to in par. (10A)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in par. (10A)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Internal Revenue Code of 1986, referred to in pars. (12A)(B) and (41)(C), is classified generally to Title 26, Internal Revenue Code.
 
@@ -776,23 +780,35 @@ Section 3 of the Federal Deposit Insurance Act, referred to in pars. (12A)(D), (
 
 Sections 101 and 206(r) of the Federal Credit Union Act, referred to in pars. (12A)(D), (33)(B), and (34), are classified to sections 1752 and 1786(r), respectively, of Title 12, Banks and Banking.
 
-The Investment Company Act of 1940, referred to in par. (22)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in par. (22)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 Section 402 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in par. (22A)(B), is classified to section 4402 of Title 12, Banks and Banking.
 
-Section 304 of this title, referred to in par. (42), was repealed by Pub. L. 109–8, title VIII, §802(d)(3), Apr. 20, 2005, 119 Stat. 146.
+The Securities Exchange Act of 1934, referred to in pars. (47)(A)(i), (48), (48A), and (53B)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. Sections 3, 6, 15A, and 17A of the Act are classified to sections 78c, 78f, 78<i>o</i>–3 and 78q–1, respectively, of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-The Securities Exchange Act of 1934, referred to in pars. (47)(A)(i), (48), (48A), and (53B)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. Sections 3, 6, 15A, and 17A of the Act are classified to sections 78c, 78f, 78<i>o</i>–3 and 78q–1, respectively, of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Act of 1933, referred to in par. (49)(A)(xii), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade.Section 3(b) of the Act is classified to section 77c(b) of Title 15. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
-The Securities Act of 1933, referred to in par. (49)(A)(xii), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. Section 3(b) of the Act is classified to section 77c(b) of Title 15. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Gramm-Leach-Bliley Act, referred to in par. (53B)(B), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
-The Gramm-Leach-Bliley Act, referred to in par. (53B)(B), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, as amended. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
+The Legal Certainty for Bank Products Act of 2000, referred to in par. (53B)(B), is title IV of H.R. 5660, as enacted by Pub. L. 106–554, §1(a)(5), Dec. 21, 2000, 114 Stat. 2763, 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1 of Title 7 and Tables.
 
-The Legal Certainty for Bank Products Act of 2000, referred to in par. (53B)(B), is title IV of H.R. 5660, as enacted by Pub. L. 106–554, §1(a)(5), Dec. 21, 2000, 114Stat. 2763, 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1 of Title 7 and Tables.
-
-The Commodity Exchange Act, referred to in par. (53B)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in par. (53B)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 #### Amendments
+
+2010—Par. (13A)(A). Pub. L. 111–327, §2(a)(1)(A)(i), inserted “if used as the principal residence by the debtor” after “a residential structure”.
+
+Par. (13A)(B). Pub. L. 111–327, §2(a)(1)(A)(ii), inserted “if used as the principal residence by the debtor” before period at end.
+
+Par. (35)(B). Pub. L. 111–327, §2(a)(1)(B), substituted “paragraphs (21B) and (33)(A)” for “paragraphs (23) and (35)”.
+
+Par. (40B). Pub. L. 111–327, §2(a)(1)(C), substituted “record relating to a patient, including a written document or a” for “written document relating to a patient or a”.
+
+Par. (42). Pub. L. 111–327, §2(a)(1)(D), which directed substitution of “303 and 1504” for “303, and 304”, was executed by making the substitution for “303, or 304” to reflect the probable intent of Congress.
+
+Par. (51B). Pub. L. 111–327, §2(a)(1)(E), inserted “thereto” before period at end.
+
+Par. (51D)(A). Pub. L. 111–327, §2(a)(1)(F), inserted “of the filing” after “as of the date”.
 
 2006—Par. (22)(A). Pub. L. 109–390, §5(a)(1)(A), struck out “(domestic or foreign)” after “an entity” and inserted “(whether or not a ‘customer’, as defined in section 741)” after “custodian for a customer”.
 
@@ -1212,7 +1228,7 @@ Par. (38). Pub. L. 98–353, §§391(2), 421(j)(2), added par. (35) and redesign
 
 Par. (39). Pub. L. 98–353, §§391(2), 421(j)(2), added par. (36) and redesignated such par. (36) as (39). Former par. (39) redesignated successively as (41) and again as (45).
 
-Par. (40). Pub. L. 98–353, §§391(1), 421(j)(2), redesignated successively former par. (35) as (37) and again as\(40). Former par. (40) redesignated successively as (42) and again as (46).
+Par. (40). Pub. L. 98–353, §§391(1), 421(j)(2), redesignated successively former par. (35) as (37) and again as (40). Former par. (40) redesignated successively as (42) and again as (46).
 
 Par. (41). Pub. L. 98–353, §§391(1), 401(1), 421(h), (j)(2), redesignated successively former par. (36) as (38) and again as (41), and, in subpar. (B)(vi), substituted “certificate of a kind specified in subparagraph (A)(xii)” for “certificate specified in clause (xii) of subparagraph (A)” and substituted “required to be the subject of a registration statement” for “the subject of such registration statement”. Former par. (41) redesignated successively as (43), again as (44), and again as (48).
 
@@ -1332,6 +1348,10 @@ Section 552, formerly §553, of title III (§§301–553) of Pub. L. 98–353, a
 
 “(c) The amendments made by subtitle J \[enacting section 1113 of this title\], shall become effective as provided in section 541(c) \[set out as an Effective Date note under section 1113 of this title\].”
 
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–327, §1, Dec. 22, 2010, 124 Stat. 3557, provided that: “This Act \[amending this section, sections 103, 105 to 107, 109 to 111, 303, 308, 348, 362, 363, 505, 507, 521 to 524, 526, 527, 541, 554, 704, 707, 723, 724, 726, 901, 1104, 1106, 1111, 1112, 1127, 1129, 1141, 1145, 1202, 1302, 1304, 1307, 1308, 1322, 1325, 1511, 1519, 1521, and 1529 of this title, section 157 of Title 18, Crimes and Criminal Procedure, sections 158, 159, and 586 of Title 28, Judiciary and Judicial Procedure, and provisions set out as a note under section 507 of this title\] may be cited as the ‘Bankruptcy Technical Corrections Act of 2010’.”
+
 #### Short Title of 2009 Amendment
 
 Pub. L. 111–16, §1, May 7, 2009, 123 Stat. 1607, provided that: “This Act \[amending sections 109, 322, 332, 342, 521, 704, 749, and 764 of this title, sections 983, 1514, 1963, 2252A, 2339B, 3060, 3432, 3509, and 3771 of Title 18, Crimes and Criminal Procedure, section 7 of the Classified Information Procedures Act set out in the Appendix to Title 18, section 853 of Title 21, Food and Drugs, and sections 636, 1453, and 2107 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under section 109 of this title\] may be cited as the ‘Statutory Time-Periods Technical Amendments Act of 2009’.”
@@ -1410,11 +1430,15 @@ Pub. L. 109–8, title XII, §1226, Apr. 20, 2005, 119 Stat. 199, provided that:
 
 #### Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in pars. (3), (18), (19A), and (51D) of this section by the Judicial Conference of the United States, see notes set out under section 104 of this title.
+The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
+
+By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in par. (3), dollar amount “164,250” was adjusted to “175,750”; in par. (18)(A), (B)(ii), dollar amount “3,544,525” was adjusted to “3,792,650” each time it appeared; in par. (19A)(A)(i), (B)(ii)(II), dollar amount “1,642,500” was adjusted to “1,757,475” each time it appeared; and, in par. (51D)(A), (B), dollar amount “2,190,000” was adjusted to “2,343,300” each time it appeared. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in par. (3), dollar amount “150,000” was adjusted to “164,250”; in par. (18), dollar amount “3,237,000” was adjusted to “3,544,525” each time it appeared; in par. (19A), dollar amount “1,500,000” was adjusted to “1,642,500” each time it appeared; and, in par. (51D), dollar amount “2,000,000” was adjusted to “2,190,000” each time it appeared.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “or”. See 2010 Amendment note below.</i>
 
 <i><sup>3</sup></i><i> So in original.</i>
 

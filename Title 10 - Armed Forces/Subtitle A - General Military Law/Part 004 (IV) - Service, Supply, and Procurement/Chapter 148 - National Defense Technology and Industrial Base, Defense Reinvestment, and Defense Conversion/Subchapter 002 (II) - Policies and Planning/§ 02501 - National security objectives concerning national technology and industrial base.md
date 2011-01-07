@@ -4,7 +4,7 @@
 
 National Security Objectives for National Technology and Industrial Base.—It is the policy of Congress that the national technology and industrial base be capable of meeting the following national security objectives:
 
-&emsp;(1) Supplying and equipping the force structure of the armed forces that is necessary to achieve—
+&emsp;(1) Supplying, equipping, and supporting the force structure of the armed forces that is necessary to achieve—
 
 &emsp;&emsp;(A) the objectives set forth in the national security strategy report submitted to Congress by the President pursuant to section 108 of the National Security Act of 1947 (50 U.S.C. 404a);
 
@@ -12,15 +12,19 @@ National Security Objectives for National Technology and Industrial Base.—It i
 
 &emsp;&emsp;(C) the future-years defense program submitted to Congress by the Secretary of Defense pursuant to section 221 of this title.
 
-&emsp;(2) Sustaining production, maintenance, repair, and logistics for military operations of various durations and intensity.
+&emsp;(2) Sustaining production, maintenance, repair, logistics, and other activities in support of military operations of various durations and intensity.
 
 &emsp;(3) Maintaining advanced research and development activities to provide the armed forces with systems capable of ensuring technological superiority over potential adversaries.
 
-&emsp;(4) Reconstituting within a reasonable period the capability to develop and produce supplies and equipment, including technologically advanced systems, in sufficient quantities to prepare fully for a war, national emergency, or mobilization of the armed forces before the commencement of that war, national emergency, or mobilization.
+&emsp;(4) Reconstituting within a reasonable period the capability to develop, produce, and support supplies and equipment, including technologically advanced systems, in sufficient quantities to prepare fully for a war, national emergency, or mobilization of the armed forces before the commencement of that war, national emergency, or mobilization.
 
-&emsp;(5) Providing for the development, manufacture, and supply of items and technologies critical to the production and sustainment of advanced military weapon systems within the national technology and industrial base.
+&emsp;(5) Providing for the development, manufacture, and supply of items and technologies critical to the production and sustainment ofadvanced military weapon systems within the national technology and industrial base.
 
-&emsp;(6) Maintaining critical design skills to ensure that the armed forces are provided with systems capable of ensuring technological superiority over potential adversaries.
+&emsp;(6) Providing for the generation of services capabilities that are not core functions of the armed forces and that are critical to military operations within the national technology and industrial base.
+
+&emsp;(7) Providing for the development, production, and integration of information technology within the national technology and industrial base.
+
+&emsp;(8) Maintaining critical design skills to ensure that the armed forces are provided with systems capable of ensuring technological superiority over potential adversaries.
 
 (b)
 
@@ -32,7 +36,7 @@ Civil-Military Integration Policy.—It is the policy of Congress that the Unite
 
 &emsp;(3) Reducing Federal Government barriers to the use of commercial products, processes, and standards.
 
-(Added Pub. L. 102–484, div. D, title XLII, §4211, Oct. 23, 1992, 106 Stat. 2662; amended Pub. L. 103–35, title II, §201(c)(7), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title XI, §1182(a)(10), title XIII, §1313, Nov. 30, 1993, 107 Stat. 1771, 1786; Pub. L. 104–106, div. A, title X, §1081(a), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, §829(a), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, §303(a), May 22, 2009, 123 Stat. 1731.)
+(Added Pub. L. 102–484, div. D, title XLII, §4211, Oct. 23, 1992, 106 Stat. 2662; amended Pub. L. 103–35, title II, §201(c)(7), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title XI, §1182(a)(10), title XIII, §1313, Nov. 30, 1993, 107 Stat. 1771, 1786; Pub. L. 104–106, div. A, title X, §1081(a), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, §829(a), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, §303(a), May 22, 2009, 123 Stat. 1731; Pub. L. 111–383, div. A, title VIII, §895(b), Jan. 7, 2011, 124 Stat. 4314.)
 
 #### Prior Provisions
 
@@ -42,9 +46,17 @@ Another prior section 2501 was renumbered section 2533 of this title.
 
 #### Amendments
 
-2009—Subsec. (a)(6). Pub. L. 111–23 added par. (6).
+<b>2011</b>—Subsec. (a)(1). Pub. L. 111–383, §895(b)(1), substituted “Supplying, equipping, and supporting” for “Supplying and equipping” in introductory provisions.
 
-1996—Pub. L. 104–106, §1081(a)(2), substituted “National security objectives concerning national technology and industrial base” for “Congressional defense policy concerning national technology and industrial base, reinvestment, and conversion” as section catchline.
+Subsec. (a)(2). Pub. L. 111–383, §895(b)(2), substituted “logistics, and other activities in support of” for “and logistics for”.
+
+Subsec. (a)(4). Pub. L. 111–383, §895(b)(3), substituted “, produce, and support” for “and produce”.
+
+Subsec. (a)(6) to (8). Pub. L. 111–383, §895(b)(4), added pars. (6) and (7) and redesignated former par. (6) as (8).
+
+<b>2009</b>—Subsec. (a)(6). Pub. L. 111–23 added par. (6).
+
+<b>1996</b>—Pub. L. 104–106, §1081(a)(2), substituted “National security objectives concerning national technology and industrial base” for “Congressional defense policy concerning national technology and industrial base, reinvestment, and conversion” as section catchline.
 
 Subsec. (a). Pub. L. 104–106, §1081(a)(1)(A)(i), substituted “National Security” for “Defense Policy” in heading.
 
@@ -54,11 +66,39 @@ Pub. L. 104–106, §1081(a)(1)(A)(ii), struck out par. (5) which read as follow
 
 Subsecs. (b), (c). Pub. L. 104–106, §1081(a)(1)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which stated policy objectives of Congress relating to defense reinvestment, diversification, and conversion.
 
-1993—Subsec. (a)(1)(A). Pub. L. 103–35 substituted “section 108” for “section 104”.
+<b>1993</b>—Subsec. (a)(1)(A). Pub. L. 103–35 substituted “section 108” for “section 104”.
 
 Subsec. (a)(5). Pub. L. 103–160, §1313, added par. (5).
 
 Subsec. (b)(2). Pub. L. 103–160, §1182(a)(10), substituted “that, by reducing the public sector demand for capital, increases the amount of capital available” for “and thereby free up capital”.
+
+#### Expansion of the Industrial Base
+
+Pub. L. 111–383, div. A, title VIII, §891, Jan. 7, 2011, 124 Stat. 4310, provided that:
+
+“(a)
+
+Program To Expand Industrial Base Required.—The Secretary of Defense shall establish a program to expand the industrial base of the Department of Defense to increase the Department's access to innovation and the benefits of competition.
+
+“(b)
+
+Identifying and Communicating With Firms That Are Not Traditional Suppliers.—The program established under subsection (a) shall use tools and resources available within the Federal Government and available from the private sector to provide a capability for identifying and communicating with firms that are not traditional suppliers, including commercial firms and firms of all business sizes, that are engaged in markets of importance to the Department of Defense in which such firms can make a significant contribution.
+
+“(c)
+
+Outreach to Local Firms Near Defense Installations.—The program established under subsection (a) shall include outreach, using procurement technical assistance centers, to firms of all business sizes in the vicinity of Department of Defense installations regarding opportunities to obtain contracts and subcontracts to perform work at such installations.
+
+“(d)
+
+Industrial Base Review.—The program established under subsection (a) shall include a continuous effort to review the industrial base supporting the Department of Defense, including the identification of markets of importance to the Department of Defense in which firms that are not traditional suppliers can make a significant contribution.
+
+“(e)
+
+Firms That Are Not Traditional Suppliers.—For purposes of this section, a firm is not a traditional supplier of the Department of Defense if it does not currently have contracts and subcontracts to perform work for the Department of Defense with a total combined value in excess of $500,000.
+
+“(f)
+
+Procurement Technical Assistance Center.—In this section, the term ‘procurement technical assistance center’ means a center operating under a cooperative agreement with the Defense Logistics Agency to provide procurement technical assistance pursuant to the authority provided in chapter 142 of title 10, United States Code.”
 
 #### Executive Agent for Printed Circuit Board Technology
 
@@ -74,7 +114,7 @@ Roles, Responsibilities, and Authorities.—
 
 &emsp;“(1)
 
-Establishment.—Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], and in accordance with Directive 5101.1, the Secretary of Defense shall prescribe the roles, responsibilities, and authorities of the executive agent designated under subsection (a).
+Establishment.—Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\],and in accordance with Directive 5101.1, the Secretary of Defense shall prescribe the roles, responsibilities, and authorities of the executive agent designated under subsection (a).
 
 &emsp;“(2)
 
@@ -136,7 +176,7 @@ Use of Existing Data.—(1) At a minimum, with respect to each prime contract wi
 
 &emsp;“(D) The dollar value of the contract.
 
-“(2) The Federal Procurement Data System described in section 6(d)(4)(A) of the Office of Federal Procurement Policy Act (41 U.S.C. 405(d)(4)(A)), or any successor system, shall collect from contracts described in paragraph (1) the information specified in that paragraph.
+“(2) The Federal Procurement Data System described in section 6(d)(4)(A) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 405(d)(4)(A)) \[now 41 U.S.C. 1122(a)(4)(A)\], or any successor system, shall collect from contracts described in paragraph (1) the information specified in that paragraph.
 
 “(3) Information obtained in the implementation of this section is subject to the same limitations on disclosure, and penalties for violation of such limitations, as is provided under section 2507 of title 10, United States Code. Such information also shall be exempt from release under section 552 of title 5, United States Code.
 
@@ -158,7 +198,7 @@ Annual Report.—(1) Not later than February 1 of each year, the Secretary of De
 
 &emsp;“(v) The dollar value of any articles, materials, or supplies purchased that were manufactured outside of the United States.
 
-&emsp;“(vi) An itemized list of all waivers granted with respect to such articles, materials, or supplies under the Buy American Act (41 U.S.C. 10a et seq.).
+&emsp;“(vi) An itemized list of all waivers granted with respect to such articles, materials, or supplies under the Buy American Act (\[former\] 41 U.S.C. 10a et seq.) \[see 41 U.S.C. 8301 et seq.\].
 
 &emsp;“(vii) A summary of—
 
@@ -274,7 +314,7 @@ Requirement.—The Secretary of the Air Force, in cooperation with the National 
 
 Matters Studied.—(1) The study shall review and assess whether such changes as a whole are sufficient to ensure the following:
 
-&emsp;“(A) That the concerns about the management of the science and technology program that have been raised by Congress, the Defense Science Board, the Air Force Science Advisory Board, and the Air Force Association have been adequately addressed.
+&emsp;“(A) That the concerns about the management of the science and technology program that have been raised by Congress, the Defense Science Board, theAir Force Science Advisory Board, and the Air Force Association have been adequately addressed.
 
 &emsp;“(B) That appropriate and sufficient technology is available to ensure the military superiority of the United States and counter future high-risk threats.
 
@@ -524,7 +564,7 @@ Navy's affordability through commonality program.—Enhanced support by the Secr
 
 &emsp;“(4)
 
-Navy's manufacturing technology and technology base programs.—Enhanced support by the Secretary of Defense for, and strengthened funding for, that portion of the Manufacturing Technology program of the Navy, and that portion of the Technology Base program of the Navy, that are in theareas of shipbuilding technologies and ship repair technologies.
+Navy's manufacturing technology and technology base programs.—Enhanced support by the Secretary of Defense for, and strengthened funding for, that portion of the Manufacturing Technology program of the Navy, and that portion of the Technology Base program of the Navy, that are in the areas of shipbuilding technologies and ship repair technologies.
 
 #### “SEC. 1353. DEPARTMENT OF DEFENSE PROGRAM MANAGEMENT THROUGH DEFENSE ADVANCED RESEARCH PROJECTS AGENCY.
 
@@ -616,7 +656,7 @@ Contractor Notice to Employees and State Dislocated Worker Unit.—Not later tha
 
 “(d)
 
-Constructive Notice.—The notice of termination of, or substantial reduction in, a defense contract provided under subsection (c)(1) to an employee of a contractor shall have the same effect as a notice of termination to such employee for the purposes of determining whether such employee is eligible to participate in employment and training activities carried out under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], except in a case in which the employer has specified that the termination of, or substantial reduction in, the contract is not likely to result in plant closure or mass layoff.
+Constructive Notice.—The notice of termination of, or substantial reduction in, a defense contract provided under subsection (c)(1) to an employee ofa contractor shall have the same effect as a notice of termination to such employee for the purposes of determining whether such employee is eligible to participate in employment and training activities carried out under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], except in a case in which the employer has specified that the termination of, or substantial reduction in, the contract is not likely to result in plant closure or mass layoff.
 
 “(e)
 

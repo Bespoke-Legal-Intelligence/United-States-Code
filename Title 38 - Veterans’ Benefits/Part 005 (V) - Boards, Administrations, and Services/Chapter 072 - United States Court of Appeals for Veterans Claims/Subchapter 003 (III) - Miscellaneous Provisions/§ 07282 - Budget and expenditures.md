@@ -2,7 +2,7 @@
 
 (a) The budget of the Court of Appeals for Veterans Claims as submitted by the Court for inclusion in the budget of the President for any fiscal year shall be included in that budget without review within the executive branch.
 
-(b) The Court may make such expenditures (including expenditures for personal services and rent at the seat of Government and elsewhere, and for law books, books of reference, and periodicals) as may be necessary to execute efficiently the functions vested in the Court.
+(b) The Court may make such expenditures (including expenditures for personal services andrent at the seat of Government and elsewhere, and for law books, books of reference, and periodicals) as may be necessary to execute efficiently the functions vested in the Court.
 
 (c) All expenditures of the Court shall be allowed and paid upon presentation of itemized vouchers signed by the certifying officer designated by the chief judge. Except as provided in section 7285 of this title, all such expenditures shall be paid out of moneys appropriated for purposes of the Court.
 
@@ -10,13 +10,13 @@
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 4082 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 4082 of this title as this section.
 
 Subsec. (c). Pub. L. 102–40, §402(d)(1), substituted “7285” for “4085”.
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov.11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
+Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 

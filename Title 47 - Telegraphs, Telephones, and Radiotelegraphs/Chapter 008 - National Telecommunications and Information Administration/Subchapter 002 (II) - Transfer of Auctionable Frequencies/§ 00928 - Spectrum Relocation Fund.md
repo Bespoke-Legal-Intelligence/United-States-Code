@@ -30,7 +30,7 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 #### (3) Reversion of unused funds
 
-&emsp;Any auction proceeds in the Fund that are remaining after the payment of the relocation costs that are payable from the Fund shall revert to and be deposited in the general fund of the Treasury not later than 8 years after the date of the deposit of such proceeds to the Fund.
+&emsp;Any auction proceeds in the Fund that are remaining after the payment of the relocationcosts that are payable from the Fund shall revert to and be deposited in the general fund of the Treasury not later than 8 years after the date of the deposit of such proceeds to the Fund.
 
 #### (e) Transfer to eligible Federal entities
 
@@ -56,7 +56,7 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 #### Amendments
 
-2009—Subsec. (e)(1)(B)(ii) to (iv). Pub. L. 111–8 inserted “and” after semicolon in cl. (ii), substituted period for “; and” in cl. (iii), and struck out cl. (iv) which read as follows: “the Comptroller General shall, within 30 days after receiving such plan, review such plan and submit to such committees an assessment of the explanation for the subsequent transfer or transfers.”
+<b>2009</b>—Subsec. (e)(1)(B)(ii) to (iv). Pub. L. 111–8 inserted “and” after semicolon in cl. (ii), substituted period for “; and” in cl. (iii), and struck out cl. (iv) which read as follows: “the Comptroller General shall, within 30 days after receiving such plan, review such plan and submit to such committees an assessment of the explanation for the subsequent transfer or transfers.”
 
 #### Annual Report
 

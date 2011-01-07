@@ -47,11 +47,11 @@ The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. 
 
 #### Amendments
 
-1986—Subsec. (a)(1)(A). Pub. L. 99–514 substituted “(as in effect on the day before the date of the enactment of the Tax Reform Act of 1986)” for “(relating to expenditures by farmers for clearing land)”.
+<b>1986</b>—Subsec. (a)(1)(A). Pub. L. 99–514 substituted “(as in effect on the day before the date of the enactment ofthe Tax Reform Act of 1986)” for “(relating to expenditures by farmers for clearing land)”.
 
-1984—Subsec. (a)(1). Pub. L. 98–369 struck out “, except that this section shall not apply to the extent section 1251 applies to such gain” after “of this subtitle” in last sentence.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–369 struck out “, except that this section shall not apply to the extent section 1251 applies to such gain” after “of this subtitle” in last sentence.
 
-1976—Subsec. (a)(1). Pub. L. 94–455, §1901(b)(3)(K), substituted “ordinary income” for “gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–455, §1901(b)(3)(K), substituted “ordinary income” for “gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231”.
 
 Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 

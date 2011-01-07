@@ -58,7 +58,7 @@ No funds made available by the Corporation under this subchapter, either by gran
 
 &emsp;(1) to provide legal assistance (except in accordance with guidelines promulgated by the Corporation) with respect to any fee-generating case (which guidelines shall not preclude the provision of legal assistance in cases in which a client seeks only statutory benefits and appropriate private representation is not available);
 
-&emsp;(2) to provide legal assistance with respect to any criminal proceeding, except to provide assistance to a person charged with a misdemeanor or lesser offense or its equivalent in an Indian tribal court;
+&emsp;(2) to provide legal assistance with respect to any criminal proceeding, except to provide assistance to a person charged with an offense in an Indian tribal court;
 
 &emsp;(3) to provide legal assistance in civil actions to persons who have been convicted of a criminal charge where the civil action arises out of alleged acts or failures to act and the action is brought against an officer of the court or against a law enforcement official for the purpose of challenging the validity of the criminal conviction;
 
@@ -114,11 +114,11 @@ The Corporation shall conduct a study on whether eligible clients who are—
 
 > have special difficulties of access to legal services or special legal problems which are not being met. The Corporation shall report to Congress not later than January 1, 1979, on the extent and nature of any such problems and difficulties and shall include in the report and implement appropriate recommendations.
 
-(Pub. L. 88–452, title X, §1007, as added Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 383; amended Pub. L. 95–222, §§7(b), 9(a), (b)(1), (c), 10–13, Dec. 28, 1977, 91 Stat. 1620–1623; Pub. L. 105–12, §9(<i>o</i>), Apr. 30, 1997, 111 Stat. 28; Pub. L. 106–185, §2(d), Apr. 25, 2000, 114 Stat. 211.)
+(Pub. L. 88–452, title X, §1007, as added Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 383; amended Pub. L. 95–222, §§7(b), 9(a), (b)(1), (c), 10–13, Dec. 28, 1977, 91 Stat. 1620–1623; Pub. L. 105–12, §9(<i>o</i>), Apr. 30, 1997, 111 Stat. 28; Pub. L. 106–185, §2(d), Apr. 25, 2000, 114 Stat. 211; Pub. L. 111–211, title II, §234(d), July 29, 2010, 124 Stat. 2282.)
 
 #### References in Text
 
-The Military Selective Service Act, referred to in subsec. (b)(10), is act June 24, 1948, ch. 625, 62 Stat. 604, as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under section 451 of Title 50, Appendix and Tables.
+The Military Selective Service Act, referred to in subsec. (b)(10), is act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under section 451 of Title 50, Appendix and Tables.
 
 The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (b)(11), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§14401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of this title and Tables.
 
@@ -126,11 +126,13 @@ Section 2809 of this title, referred to in subsec. (c), was repealed by Pub. L. 
 
 #### Amendments
 
-2000—Subsec. (a)(11). Pub. L. 106–185 added par. (11).
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–211 added par. (2) and struck out former par. (2) which read as follows: “to provide legal assistance with respect to any criminal proceeding, except to provide assistance to a person charged with a misdemeanor or lesser offense or its equivalent in an Indian tribal court;”.
 
-1997—Subsec. (b)(11). Pub. L. 105–12 added par. (11).
+<b>2000</b>—Subsec. (a)(11). Pub. L. 106–185 added par. (11).
 
-1977—Subsec. (a)(2)(B)(iv). Pub. L. 95–222, §9(a), substituted provisions setting forth factors which may be included in determining financial ability, for provisions setting forth factors required to be included in determining financial ability.
+<b>1997</b>—Subsec. (b)(11). Pub. L. 105–12 added par. (11).
+
+<b>1977</b>—Subsec. (a)(2)(B)(iv). Pub. L. 95–222, §9(a), substituted provisions setting forth factors which may be included in determining financial ability, for provisions setting forth factors required to be included in determining financial ability.
 
 Subsec. (a)(2)(C). Pub. L. 95–222, §9(b)(1), expanded existing provisions by requiring the Corporation to establish procedures for determining and implementing priorities and criteria for such priorities, and inserted provisions relating to appropriate training and support services.
 
@@ -162,7 +164,7 @@ Section 17(a)(1) of Pub. L. 95–222 provided that: “The amendment made by sec
 
 #### Implementation of System for Competitive Award of Grants and Contracts
 
-Pub. L. 101–515, title VI, §607 (part), Nov. 5, 1991, 104 Stat. 2153, provided: “That after October 1, 1991, (but not before) the Board of Directors of the Legal Services Corporation shall develop and implement a system for the competitive award of all grants and contracts, including support centers, except that nothing herein shall prohibit the Corporation Board, members, or staff from engaging in in-house reviews of or holding hearings on proposals for a system for the competitive award of all grants and contracts, including support centers, and that nothing herein shall apply to any competitive awards program currently in existence”.
+Pub. L. 101–515, title VI, §607 (part), Nov. 5, 1991, 104 Stat. 2153, provided: “That after October 1, 1991, (but not before) the Board of Directors of the Legal Services Corporation shall develop and implement a system for the competitive award of all grants and contracts, including support centers, except that nothing herein shall prohibit the Corporation Board, members, or stafffrom engaging in in-house reviews of or holding hearings on proposals for a system for the competitive award of all grants and contracts, including support centers, and that nothing herein shall apply to any competitive awards program currently in existence”.
 
 Pub. L. 101–162, title VI, §608 (part), Nov. 21, 1989, 103 Stat. 1036, provided: “That none of the funds appropriated under this Act or under any prior Acts for the Legal Services Corporation shall be used to consider, develop, or implement any system for the competitive award of grants or contracts until such action is authorized pursuant to a majority vote of a Board of Directors of the Legal Services Corporation composed of eleven individuals nominated by the President after January 20, 1989, and subsequently confirmed by the United States Senate, except that nothing herein shall prohibit the Corporation Board, members, or staff from engaging in in-house reviews of or holding hearings on proposals for a system for the competitive award of all grants and contracts, including support centers, and that nothing herein shall apply to any competitive awards program currently in existence; subsequent to confirmation such new Board of Directors shall develop and implement a proposed system for the competitive award of all grants and contracts”.
 

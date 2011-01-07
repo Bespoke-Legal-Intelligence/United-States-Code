@@ -22,9 +22,9 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### Amendments
 
-1989—Subsec. (a)(2). Pub. L. 101–239 substituted “a prior taxable year” for “the taxable year”.
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–239 substituted “a prior taxable year” for “the taxable year”.
 
-1986—Subsec. (a). Pub. L. 99–514, §1024(c)(12), added subsec. (a) and struck out former subsec. (a) which read as follows: “If an insurance company—
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1024(c)(12), added subsec. (a) and struck out former subsec. (a) which read as follows: “If an insurance company—
 
 &emsp;“(1) is subject to the tax imposed by part I, II, or III of this subchapter for the taxable year, and
 
@@ -40,11 +40,11 @@ Subsec. (b). Pub. L. 99–514, §1024(c)(12), added subsec. (b) and struck out f
 
 &emsp;“(2) section 810(b)(1)(C) (relating to additional years to which losses may be carried by new life insurance companies) shall not apply.”
 
-1984—Subsec. (a). Pub. L. 98–369, §211(b)(11)(A), substituted “section 810 (or the corresponding provisions of prior law),” for “section 812” and “section 810(a)” for “section 812(a)” in provisions following par. (2).
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §211(b)(11)(A), substituted “section 810 (or the corresponding provisions of prior law),” for “section 812” and “section 810(a)” for “section 812(a)” in provisions following par. (2).
 
-Subsec. (b). Pub. L. 98–369, §211(b)(11)(B), substituted “section 810(a)” for “section 812(a)” in introductory provisions, and “section 810(b)(1)(C)” for “section 812(b)(1)(C)” in par. (2).
+Subsec. (b). Pub. L. 98–369, §211(b)(11)(B), substituted “section 810(a)” for “section 812(a)” in introductoryprovisions, and “section 810(b)(1)(C)” for “section 812(b)(1)(C)” in par. (2).
 
-1976—Subsec. (b)(2). Pub. L. 94–455, §1901(b)(25), substituted “section 812(b)(1)(C)” for “section 812(b)(1)(A)(iii)”.
+<b>1976</b>—Subsec. (b)(2). Pub. L. 94–455, §1901(b)(25), substituted “section 812(b)(1)(C)” for “section 812(b)(1)(A)(iii)”.
 
 Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -58,7 +58,7 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(b)(25) of Pub. L. 94–455, effective for taxable years beginning after Dec. 31, 1976,see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(b)(25) of Pub. L. 94–455, effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Effective Date
 

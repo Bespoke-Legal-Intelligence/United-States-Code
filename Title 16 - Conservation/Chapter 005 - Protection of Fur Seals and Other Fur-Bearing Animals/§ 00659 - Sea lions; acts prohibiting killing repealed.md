@@ -6,7 +6,7 @@ All Acts and parts of Acts making it unlawful to kill sea lions, as game animals
 
 #### Amendments
 
-1972—Pub. L. 92–522 struck out proviso prohibiting killing of sea lions in waters of Alaska except under rules and regulations prescribed by Secretary of the Interior.
+<b>1972</b>—Pub. L. 92–522 struck out proviso prohibiting killing of sea lions in waters of Alaska except under rules and regulations prescribed by Secretary of the Interior.
 
 #### Transfer of Functions
 

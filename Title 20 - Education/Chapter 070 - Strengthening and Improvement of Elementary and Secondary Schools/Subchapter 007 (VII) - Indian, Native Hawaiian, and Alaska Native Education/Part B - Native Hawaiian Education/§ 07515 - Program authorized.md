@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(ii) activities that involve the parents of those students in a manner designed to assist in the students’ educational progress;
 
-&emsp;&emsp;(F) the development of academic and vocational curricula to address the needs of Native Hawaiian children and adults, includingcurriculum materials in the Hawaiian language and mathematics and science curricula that incorporate Native Hawaiian tradition and culture;
+&emsp;&emsp;(F) the development of academic and vocational curricula to address the needs of Native Hawaiian children and adults, including curriculum materials in the Hawaiian language and mathematics and science curricula that incorporate Native Hawaiian tradition and culture;
 
 &emsp;&emsp;(G) professional development activities for educators, including—
 

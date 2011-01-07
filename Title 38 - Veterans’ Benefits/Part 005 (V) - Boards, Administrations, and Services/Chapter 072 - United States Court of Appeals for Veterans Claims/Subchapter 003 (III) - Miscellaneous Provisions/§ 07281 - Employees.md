@@ -26,15 +26,15 @@ The provisions of title 5 governing appointment in the competitive service, refe
 
 #### Amendments
 
-1999—Subsec. (g). Pub. L. 106–117 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The Chief Judge of the Court may exercise the authority of the Court under this section whenever there are not at least two associate judges of the Court.”
+<b>1999</b>—Subsec. (g). Pub. L. 106–117 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The Chief Judge of the Court may exercise the authority of the Court under this section whenever there are not at least two associate judges of the Court.”
 
-1998—Subsec. (a). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-1991—Pub. L. 102–40 renumbered section 4081 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4081 of this title as this section.
 
 Subsec. (i). Pub. L. 102–82 added subsec. (i).
 
-1989—Pub. L. 101–94 amended section generally. Prior to amendment, section read as follows: “The Court of Veterans Appeals may appoint such employees as may be necessary to execute the functions vested in the Court. Such appointments shall be made in accordance with the provisions of title 5 governing appointment in the competitive service, except that the Court may classify such positions based upon the classification of comparable positions in the judicial branch. The basic pay of such employees shall be fixed in accordance with subchapter III of chapter 53 of title 5.”
+<b>1989</b>—Pub. L. 101–94 amended section generally. Prior to amendment, section read as follows: “The Court of Veterans Appeals may appoint such employees as may be necessary to execute the functions vested in the Court. Such appointments shall be made in accordance with the provisions of title 5 governing appointment in the competitive service, except that the Court may classify such positions based upon the classification of comparable positions in the judicial branch. The basic pay of such employees shall be fixed in accordance with subchapter III of chapter 53 of title 5.”
 
 #### Effective Date of 1999 Amendment
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Construction Work In General.—The construction of any Federal-aid highway or a portion of a Federal-aid highway shall be undertaken by the respective State transportation departments or under their direct supervision. The Secretary shall have the right to conduct such inspections and take such corrective action as the Secretary determines to be appropriate. The construction work and labor in each State shall be performed under the direct supervision of theState transportation department and in accordance with the laws of that State and applicable Federal laws. Construction may be begun as soon as funds are available for expenditure pursuant to subsection (a) of section 118 of this title. After July 1, 1973, the State transportation department shall not erect on any project where actual construction is in progress and visible to highway users any informational signs other than official traffic control devices conforming with standards developed by the Secretary of Transportation.
+Construction Work In General.—The construction of any Federal-aid highway or a portion of a Federal-aid highway shall be undertaken by the respective State transportation departments or under their direct supervision. The Secretary shall have the right to conduct such inspections and take such corrective action as the Secretary determines to be appropriate. The construction work and labor in each State shall be performed under the direct supervision of the State transportation department and in accordance with the laws of that State and applicable Federal laws. Construction may be begun as soon as funds are available for expenditure pursuant to subsection (a) of section 118 of this title. After July 1, 1973, the State transportation department shall not erect on any project where actual construction is in progress and visible to highway users any informational signs other than official traffic control devices conforming with standards developed by the Secretary of Transportation.
 
 (b)
 
@@ -70,29 +70,29 @@ Remote.—The term “remote”, as used with respect to a project, means that t
 
 Resident.—The term “resident”, as used with respect to a project, means a person living within 65 road miles of the midpoint of the project for at least 12 consecutive months prior to the award of the project.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 896; Pub. L. 86–657, §8(f), July 14, 1960, 74 Stat. 525; Pub. L. 93–87, title I, §115, Aug. 13, 1973, 87 Stat. 258; Pub. L. 97–424, title I, §148, Jan. 6, 1983, 96 Stat. 2131; Pub. L. 98–473, title II, §226, Oct. 12, 1984, 98 Stat. 2030; Pub. L. 100–17, title I, §112(a), (b)(1), Apr. 2, 1987, 101 Stat. 148; Pub. L. 102–240, title I, §1019, Dec. 18, 1991, 105 Stat. 1948; Pub. L. 105–178, title I, §1212(a)(2)(A), June 9, 1998, 112 Stat. 193; Pub. L. 109–59, title I, §§1409(d), 1904(b), Aug. 10, 2005, 119 Stat. 1232, 1467.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 896; Pub. L. 86–657, §8(f), July 14, 1960, 74 Stat. 525; Pub. L. 93–87, title I, §115, Aug. 13, 1973, 87 Stat. 258; Pub. L. 97–424, title I, §148, Jan. 6, 1983, 96 Stat. 2131; Pub. L. 98–473, title II, §226, Oct. 12, 1984, 98 Stat. 2030; Pub. L. 100–17, title I, §112(a), (b)(1), Apr. 2, 1987, 101 Stat. 148; Pub. L. 102–240, title I, §1019, Dec. 18, 1991, 105 Stat. 1948; Pub. L. 105–178, title I, §1212(a)(2)(A), June 9, 1998, 112 Stat. 193; Pub.L. 109–59, title I, §§1409(d), 1904(b), Aug. 10, 2005, 119 Stat. 1232, 1467.)
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–59, §1904(b), substituted “Federal-aid highway or a portion of a Federal-aid highway” for “highways or portions of highways located on a Federal-aid system” and “The Secretary shall have the right to conduct such inspections and take such corrective action as the Secretary determines to be appropriate.” for “Except as provided in section 117 of this title, such construction shall be subject to the inspection and approval of the Secretary.”
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §1904(b), substituted “Federal-aid highway or a portion of a Federal-aid highway” for “highways or portions of highways located on a Federal-aid system” and “The Secretary shall have the right to conduct such inspections and take such corrective action as the Secretary determines to be appropriate.” for “Except as provided in section 117 of this title, such construction shall be subject to the inspection and approval of the Secretary.”
 
 Subsec. (c). Pub. L. 109–59, §1409(d), added subsec. (c).
 
-1998—Subsec. (a). Pub. L. 105–178 substituted “State transportation department” for “State highway department” in two places and “State transportation departments” for “State highway departments”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–178 substituted “State transportation department” for “State highway department” in two places and “State transportation departments” for “State highway departments”.
 
-1991—Subsec. (b)(2). Pub. L. 102–240, inserted “after July 1, 1991,” after “Materials produced” in introductory provisions.
+<b>1991</b>—Subsec. (b)(2). Pub. L. 102–240, inserted “after July 1, 1991,” after “Materials produced” in introductory provisions.
 
-1987—Subsec. (a). Pub. L. 100–17, §112(b)(1), inserted heading.
+<b>1987</b>—Subsec. (a). Pub. L. 100–17, §112(b)(1), inserted heading.
 
 Subsec. (b). Pub. L. 100–17, §112(b)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Convict labor or materials produced by convict labor shall not be used in such construction unless it is labor performed by convicts who are on parole or probation.”
 
-1984—Subsec. (b). Pub. L. 98–473 which directed the insertion of “, supervised release,” after “parole” effective Nov. 1, 1987, was not executed, because of intervening general amendment of subsec. (b) by Pub. L. 100–17, §112(a), which contained “, supervised release,” after “parole” wherever appearing.
+<b>1984</b>—Subsec. (b). Pub. L. 98–473 which directed the insertion of “, supervised release,” after “parole” effective Nov. 1, 1987, was not executed, because of intervening general amendment of subsec. (b) by Pub. L. 100–17, §112(a), which contained “, supervised release,” after “parole” wherever appearing.
 
-1983—Subsec. (b). Pub. L. 97–424 inserted “or materials produced by convict labor” after “Convict labor”.
+<b>1983</b>—Subsec. (b). Pub. L. 97–424 inserted “or materials produced by convict labor” after “Convict labor”.
 
-1973—Subsec. (a). Pub. L. 93–87 amended last sentence generally. Prior to amendment, last sentence read as follows: “On any project where actual construction is in progress and visible to highway users, the State highway department shall erect such informational sign or signs as prescribed by the Secretary, identifying the project and the respective amounts contributed therefor by the State and Federal Governments.”
+<b>1973</b>—Subsec. (a). Pub. L. 93–87 amended last sentence generally. Prior to amendment, last sentence read as follows: “On any project where actual construction is in progress and visible to highway users, the State highway department shall erect such informational sign or signs as prescribed by the Secretary, identifying the project and the respective amounts contributed therefor by the State and Federal Governments.”
 
-1960—Subsec. (a). Pub. L. 86–657 required State highway departments to erect, on any project where actual construction is in progress and visible to highway users, such informational sign or signs as prescribed by the Secretary, identifying the project and the respective contributions therefor by the State and Federal Governments.
+<b>1960</b>—Subsec. (a). Pub. L. 86–657 required State highway departments to erect, on any project where actual construction is in progress and visible to highway users, such informational sign or signs as prescribed by the Secretary, identifying the project and the respective contributions therefor by the State and Federal Governments.
 
 #### Effective Date of 1991 Amendment
 

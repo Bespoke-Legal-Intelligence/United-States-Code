@@ -14,7 +14,7 @@ Provisions similar to those in this section were contained in section 274 of thi
 
 #### Amendments
 
-2001—Par. (2). Pub. L. 107–107 struck out “upon their request” after “Retired Reserve”.
+<b>2001</b>—Par. (2). Pub. L. 107–107 struck out “upon their request” after “Retired Reserve”.
 
 #### Effective Date of 2001 Amendment
 

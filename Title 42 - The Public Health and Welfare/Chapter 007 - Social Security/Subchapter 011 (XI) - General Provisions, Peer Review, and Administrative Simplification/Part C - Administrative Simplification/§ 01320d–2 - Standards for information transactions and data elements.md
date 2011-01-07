@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the financial and administrative transactions described in paragraph (2); and
 
-&emsp;&emsp;(B) other financial and administrative transactions determined appropriate by the Secretary, consistent with the goals of improving the operation of the health care system and reducing administrative costs.
+&emsp;&emsp;(B) other financial and administrative transactions determined appropriate by the Secretary, consistent with the goals of improving the operation of the health care system and reducing administrative costs, and subject to the requirements under paragraph (5).
 
 #### (2) Transactions
 
@@ -32,9 +32,47 @@
 
 &emsp;&emsp;(I) Referral certification and authorization.
 
+&emsp;&emsp;(J) Electronic funds transfers.
+
 #### (3) Accommodation of specific providers
 
 &emsp;The standards adopted by the Secretary under paragraph (1) shall accommodate the needs of different types of health care providers.
+
+#### (4) Requirements for financial and administrative transactions
+
+#### (A) In general
+
+&emsp;&emsp;The standards and associated operating rules adopted by the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) to the extent feasible and appropriate, enable determination of an individual's eligibility and financial responsibility for specific services prior to or at the point of care;
+
+&emsp;&emsp;&emsp;(ii) be comprehensive, requiring minimal augmentation by paper or other communications;
+
+&emsp;&emsp;&emsp;(iii) provide for timely acknowledgment, response, and status reporting that supports a transparent claims and denial management process (including adjudication and appeals); and
+
+&emsp;&emsp;&emsp;(iv) describe all data elements (including reason and remark codes) in unambiguous terms, require that such data elements be required or conditioned upon set values in other fields, and prohibit additional conditions (except where necessary to implement State or Federal law, or to protect against fraud and abuse).
+
+#### (B) Reduction of clerical burden
+
+&emsp;&emsp;In adopting standards and operating rules for the transactions referred to under paragraph (1), the Secretary shall seek to reduce the number and complexity of forms (including paper and electronic forms) and data entry required by patients and providers.
+
+#### (5) Consideration of standardization of activities and items
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of carrying out paragraph (1)(B), the Secretary shall solicit, not later than January 1, 2012, and not less than every 3 years thereafter, input from entities described in subparagraph (B) on—
+
+&emsp;&emsp;&emsp;(i) whether there could be greater uniformity in financial and administrative activities and items, as determined appropriate by the Secretary; and
+
+&emsp;&emsp;&emsp;(ii) whether such activities should be considered financial and administrative transactions (as described in paragraph (1)(B)) for which the adoption of standardsand operating rules would improve the operation of the health care system and reduce administrative costs.
+
+#### (B) Solicitation of input
+
+&emsp;&emsp;For purposes of subparagraph (A), the Secretary shall seek input from—
+
+&emsp;&emsp;&emsp;(i) the National Committee on Vital and Health Statistics, the Health Information Technology Policy Committee, and the Health Information Technology Standards Committee; and
+
+&emsp;&emsp;&emsp;(ii) standard setting organizations and stakeholders, as determined appropriate by the Secretary.
 
 #### (b) Unique health identifiers
 
@@ -108,11 +146,311 @@
 
 The Secretary shall adopt standards for transferring among health plans appropriate standard data elements needed for the coordination of benefits, the sequential processing of claims, and other data elements for individuals who have more than one health plan.
 
-(Aug. 14, 1935, ch. 531, title XI, §1173, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2024.)
+#### (g) Operating rules
+
+#### (1) In general
+
+&emsp;The Secretary shall adopt a single set of operating rules for each transaction referred to under subsection (a)(1) with the goal of creating as much uniformity in the implementation of the electronic standards as possible. Such operating rules shall be consensus-based and reflect the necessary business rules affecting health plans and health care providers and the manner in which they operate pursuant to standards issued under Health Insurance Portability and Accountability Act of 1996.
+
+#### (2) Operating rules development
+
+&emsp;In adopting operating rules under this subsection, the Secretary shall consider recommendations for operating rules developed by a qualified nonprofit entity that meets the following requirements:
+
+&emsp;&emsp;(A) The entity focuses its mission on administrative simplification.
+
+&emsp;&emsp;(B) The entity demonstrates a multi-stakeholder and consensus-based process for development of operating rules, including representation by or participation from health plans, health care providers, vendors, relevant Federal agencies, and other standard development organizations.
+
+&emsp;&emsp;(C) The entity has a public set of guiding principles that ensure the operating rules and process are open and transparent, and supports nondiscrimination and conflict of interest policies that demonstrate a commitment to open, fair, and nondiscriminatory practices.
+
+&emsp;&emsp;(D) The entity builds on the transaction standards issued under Health Insurance Portability and Accountability Act of 1996.
+
+&emsp;&emsp;(E) The entity allows for public review and updates of the operating rules.
+
+#### (3) Review and recommendations
+
+&emsp;The National Committee on Vital and Health Statistics shall—
+
+&emsp;&emsp;(A) advise the Secretary as to whether a nonprofit entity meets the requirements under paragraph (2);
+
+&emsp;&emsp;(B) review the operating rules developed and recommended by such nonprofit entity;
+
+&emsp;&emsp;(C) determine whether such operating rules represent a consensus view of the health care stakeholders and are consistent with and do not conflict with other existing standards;
+
+&emsp;&emsp;(D) evaluate whether such operating rules are consistent with electronic standards adopted for health information technology; and
+
+&emsp;&emsp;(E) submit to the Secretary a recommendation as to whether the Secretary should adopt such operating rules.
+
+#### (4) Implementation
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall adopt operating rules under this subsection, by regulation in accordance with subparagraph (C), following consideration of the operating rules developed by the non-profit entity described in paragraph (2) and the recommendation submitted by the National Committee on Vital and Health Statistics under paragraph (3)(E) and having ensured consultation with providers.
+
+#### (B) Adoption requirements; effective dates
+
+#### (i) Eligibility for a health plan and health claim status
+
+&emsp;&emsp;&emsp;The set of operating rules for eligibility for a health plan and health claim status transactions shall be adopted not later than July 1, 2011, in a manner ensuring that such operating rules are effective not later than January 1, 2013, and may allow for the use of a machine readable identification card.
+
+#### (ii) Electronic funds transfers and health care payment and remittance advice
+
+&emsp;&emsp;&emsp;The set of operating rules for electronic funds transfers and health care payment and remittance advice transactions shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) allow for automated reconciliation of the electronic payment with the remittance advice; and
+
+&emsp;&emsp;&emsp;&emsp;(II) be adopted not later than July 1, 2012, in a manner ensuring that such operating rules are effective not later than January 1, 2014.
+
+#### (iii) Health claims or equivalent encounter information, enrollment and disenrollment in a health plan, health plan premium payments, referral certification and authorization
+
+&emsp;&emsp;&emsp;The set of operating rules for health claims or equivalent encounter information, enrollment and disenrollment in a health plan, health plan premium payments, and referral certification and authorization transactions shall be adopted not later than July 1, 2014, in a manner ensuring that such operating rules are effective not later than January 1, 2016.
+
+#### (C) Expedited rulemaking
+
+&emsp;&emsp;The Secretary shall promulgate an interim final rule applying any standard or operating rule recommended by the National Committee on Vital and Health Statistics pursuant to paragraph (3). The Secretary shall accept and consider public comments on any interim final rule published under this subparagraph for 60 days after the date of such publication.
+
+#### (h) Compliance
+
+#### (1) Health plan certification
+
+#### (A) Eligibility for a health plan, health claim status, electronic funds transfers, health care payment and remittance advice
+
+&emsp;&emsp;Not later than December 31, 2013, a health plan shall file a statement with the Secretary, in such form as the Secretary may require, certifying that the data and information systems for such plan are in compliance with any applicable standards (as described under paragraph (7) of section 1320d of this title) and associated operating rules (as described under paragraph (9) of such section) for electronic funds transfers, eligibility for a health plan, health claim status, and health care payment and remittance advice, respectively.
+
+#### (B) Health claims or equivalent encounter information, enrollment and disenrollment in a health plan, health plan premium payments, health claims attachments, referral certification and authorization
+
+&emsp;&emsp;Not later than December 31, 2015, a health plan shall file a statement with the Secretary, in such form as the Secretary may require, certifying that the data and information systems for such plan are in compliance with any applicable standards and associated operating rules for health claims or equivalent encounter information, enrollment and disenrollment in a health plan, health plan premium payments, health claims attachments, and referral certification and authorization, respectively. A health plan shall provide the same level of documentation to certify compliance with such transactions as is required to certify compliance with the transactions specified in subparagraph (A).
+
+#### (2) Documentation of compliance
+
+&emsp;A health plan shall provide the Secretary, in such form as the Secretary may require, with adequate documentation of compliance with the standards and operating rules described under paragraph (1). A health plan shall not be considered to have provided adequate documentation and shall not be certified as being in compliance with such standards, unless the health plan—
+
+&emsp;&emsp;(A) demonstrates to the Secretary that the plan conducts the electronic transactions specified in paragraph (1) in a manner that fully complies with the regulations of the Secretary; and
+
+&emsp;&emsp;(B) provides documentation showing that the plan has completed end-to-end testing for such transactions with their partners, such as hospitals and physicians.
+
+#### (3) Service contracts
+
+&emsp;A health plan shall be required to ensure that any entities that provide services pursuant to a contract with such health plan shall comply with any applicable certification and compliance requirements (and provide the Secretary with adequate documentation of such compliance) under this subsection.
+
+#### (4) Certification by outside entity
+
+&emsp;The Secretary may designate independent, outside entities to certify that a health plan has complied with the requirements under this subsection, provided that the certification standards employed by such entities are in accordance with any standards or operating rules issued by the Secretary.
+
+#### (5) Compliance with revised standards and operating rules
+
+#### (A) In general
+
+&emsp;&emsp;A health plan (including entities described under paragraph (3)) shall file a statement with the Secretary, in such form as the Secretary may require, certifying that the data and information systems for such plan are in compliance with any applicable revised standards and associated operating rules under this subsection for any interim final rule promulgated by the Secretary under subsection (i) that—
+
+&emsp;&emsp;&emsp;(i) amends any standard or operating rule described under paragraph (1) of this subsection; or
+
+&emsp;&emsp;&emsp;(ii) establishes a standard (as described under subsection (a)(1)(B)) or associated operating rules (as described under subsection (i)(5)) for any other financial and administrative transactions.
+
+#### (B) Date of compliance
+
+&emsp;&emsp;A health plan shall comply with such requirements not later than the effective date of the applicable standard or operating rule.
+
+#### (6) Audits of health plans
+
+&emsp;The Secretary shall conduct periodic audits to ensure that health plans (including entities described under paragraph (3)) are in compliance with any standards and operating rules that are described under paragraph (1) or subsection (i)(5).
+
+#### (i) Review and amendment of standards and operating rules
+
+#### (1) Establishment
+
+&emsp;Not later than January 1, 2014, the Secretary shall establish a review committee (as described under paragraph (4)).
+
+#### (2) Evaluations and reports
+
+#### (A) Hearings
+
+&emsp;&emsp;Not later than April 1, 2014, and not less than biennially thereafter, the Secretary, acting through the review committee, shall conduct hearings to evaluate and review the adopted standards and operating rules established under this section.
+
+#### (B) Report
+
+&emsp;&emsp;Not later than July 1, 2014, and not less than biennially thereafter, the review committee shall provide recommendations for updating and improving such standards and operating rules. The review committee shall recommend a single set of operating rules per transaction standard and maintain the goal of creating as much uniformity as possible in the implementation of the electronic standards.
+
+#### (3) Interim final rulemaking
+
+#### (A) In general
+
+&emsp;&emsp;Any recommendations to amend adopted standards and operating rules that have been approved by the review committee and reported to the Secretary under paragraph (2)(B) shall be adopted by the Secretary through promulgation of an interim final rule not later than 90 days after receipt of the committee's report.
+
+#### (B) Public comment
+
+#### (i) Public comment period
+
+&emsp;&emsp;&emsp;The Secretary shall accept and consider public comments on any interim final rule published under this paragraph for 60 days after the date of such publication.
+
+#### (ii) Effective date
+
+&emsp;&emsp;&emsp;The effective date of any amendment to existing standards or operating rules that is adopted through an interim final rule published under this paragraph shall be 25 months following the close of such public comment period.
+
+#### (4) Review committee
+
+#### (A) Definition
+
+&emsp;&emsp;For the purposes of this subsection, the term “review committee’ means a committee chartered by or within the Department of Health and Human services that has been designated by the Secretary to carry out this subsection, including—
+
+&emsp;&emsp;&emsp;(i) the National Committee on Vital and Health Statistics; or
+
+&emsp;&emsp;&emsp;(ii) any appropriate committee as determined by the Secretary.
+
+#### (B) Coordination of hit standards
+
+&emsp;&emsp;In developing recommendations under this subsection, the review committee shall ensure coordination, as appropriate, with thestandards that support the certified electronic health record technology approved by the Office of the National Coordinator for Health Information Technology.
+
+#### (5) Operating rules for other standards adopted by the Secretary
+
+&emsp;The Secretary shall adopt a single set of operating rules (pursuant to the process described under subsection (g)) for any transaction for which a standard had been adopted pursuant to subsection (a)(1)(B).
+
+#### (j) Penalties
+
+#### (1) Penalty fee
+
+#### (A) In general
+
+&emsp;&emsp;Not later than April 1, 2014, and annually thereafter, the Secretary shall assess a penalty fee (as determined under subparagraph (B)) against a health plan that has failed to meet the requirements under subsection (h) with respect to certification and documentation of compliance with—
+
+&emsp;&emsp;&emsp;(i) the standards and associated operating rules described under paragraph (1) of such subsection; and
+
+&emsp;&emsp;&emsp;(ii) a standard (as described under subsection (a)(1)(B)) and associated operating rules (as described under subsection (i)(5)) for any other financial and administrative transactions.
+
+#### (B) Fee amount
+
+&emsp;&emsp;Subject to subparagraphs (C), (D), and (E), the Secretary shall assess a penalty fee against a health plan in the amount of $1 per covered life until certification is complete. The penalty shall be assessed per person covered by the plan for which its data systems for major medical policies are not in compliance and shall be imposed against the health plan for each day that the plan is not in compliance with the requirements under subsection (h).
+
+#### (C) Additional penalty for misrepresentation
+
+&emsp;&emsp;A health plan that knowingly provides inaccurate or incomplete information in a statement of certification or documentation of compliance under subsection (h) shall be subject to a penalty fee that is double the amount that would otherwise be imposed under this subsection.
+
+#### (D) Annual fee increase
+
+&emsp;&emsp;The amount of the penalty fee imposed under this subsection shall be increased on an annual basis by the annual percentage increase in total national health care expenditures, as determined by the Secretary.
+
+#### (E) Penalty limit
+
+&emsp;&emsp;A penalty fee assessed against a health plan under this subsection shall not exceed, on an annual basis—
+
+&emsp;&emsp;&emsp;(i) an amount equal to $20 per covered life under such plan; or
+
+&emsp;&emsp;&emsp;(ii) an amount equal to $40 per covered life under the plan if such plan has knowingly provided inaccurate or incomplete information (as described under subparagraph (C)).
+
+#### (F) Determination of covered individuals
+
+&emsp;&emsp;The Secretary shall determine the number of covered lives under a health plan based upon the most recent statements and filings that have been submitted by such plan to the Securities and Exchange Commission.
+
+#### (2) Notice and dispute procedure
+
+&emsp;The Secretary shall establish a procedure for assessment of penalty fees under this subsection that provides a health plan with reasonable notice and a dispute resolution procedure prior to provision of a notice of assessment by the Secretary of the Treasury (as described under paragraph (4)(B)).
+
+#### (3) Penalty fee report
+
+&emsp;Not later than May 1, 2014, and annually thereafter, the Secretary shall provide the Secretary of the Treasury with a report identifying those health plans that have been assessed a penalty fee under this subsection.
+
+#### (4) Collection of penalty fee
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary of the Treasury, acting through the Financial Management Service, shall administer the collection of penalty fees from health plans that have been identified by the Secretary in the penalty fee report provided under paragraph (3).
+
+#### (B) Notice
+
+&emsp;&emsp;Not later than August 1, 2014, and annually thereafter, the Secretary of the Treasury shall provide notice to each health plan that has been assessed a penalty fee by the Secretary under this subsection. Such notice shall include the amount of the penalty fee assessed by the Secretary and the due date for payment of such fee to the Secretary of the Treasury (as described in subparagraph (C)).
+
+#### (C) Payment due date
+
+&emsp;&emsp;Payment by a health plan for a penalty fee assessed under this subsection shall be made to the Secretary of the Treasury not later than November 1, 2014, and annually thereafter.
+
+#### (D) Unpaid penalty fees
+
+&emsp;&emsp;Any amount of a penalty fee assessed against a health plan under this subsection for which payment has not been made by the due date provided under subparagraph (C) shall be—
+
+&emsp;&emsp;&emsp;(i) increased by the interest accrued on such amount, as determined pursuant to the underpayment rate established under section 6621 of the Internal Revenue Code of 1986; and
+
+&emsp;&emsp;&emsp;(ii) treated as a past-due, legally enforceable debt owed to a Federal agency for purposes of section 6402(d) of the Internal Revenue Code of 1986.
+
+#### (E) Administrative fees
+
+&emsp;&emsp;Any fee charged or allocated for collection activities conducted by the Financial Management Service will be passed on to a health plan on a pro-rata basis and added to any penalty fee collected from the plan.
+
+(Aug. 14, 1935, ch. 531, title XI, §1173, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2024; amended Pub. L. 111–148, title I, §1104(b)(2), title X, §10109(a), Mar. 23, 2010, 124 Stat. 147, 915.)
+
+#### References in Text
+
+The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (g)(1), (2)(D), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of this title and Tables.
+
+The Internal Revenue Code of 1986, referred to in subsec. (j)(4)(D)(i), (ii), is classified generally to Title 26, Internal Revenue Code.
 
 #### Prior Provisions
 
 A prior section 1173 of act Aug. 14, 1935, was classified to section 1320c–22 of this title prior to the general amendment of part B of this subchapter by Pub. L. 97–248.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (a)(1)(B). Pub. L. 111–148, §10109(a)(1)(A), inserted before period at end “, and subject to the requirements under paragraph (5)”.
+
+Subsec. (a)(2)(J). Pub. L. 111–148, §1104(b)(2)(A), added subpar. (J).
+
+Subsec. (a)(4). Pub. L. 111–148, §1104(b)(2)(B), added par. (4).
+
+Subsec. (a)(5). Pub. L. 111–148, §10109(a)(1)(B), added par. (5).
+
+Subsecs. (g) to (j). Pub. L. 111–148, §1104(b)(2)(C), added subsecs. (g) to (j).
+
+#### Promulgation of Rules
+
+Pub. L. 111–148, title I, §1104(c), Mar. 23, 2010, 124 Stat. 153, provided that:
+
+“(1)
+
+Unique health plan identifier.—The Secretary \[of Health and Human Services\] shall promulgate a final rule to establish a unique health plan identifier (as described in section 1173(b) of the Social Security Act (42 U.S.C. 1320d–2(b))) based on the input of the National Committee on Vital and Health Statistics. The Secretary may do so on an interim final basis and such rule shall be effective not later than October 1, 2012.
+
+“(2)
+
+Electronic funds transfer.—The Secretary shall promulgate a final rule to establish a standard for electronic funds transfers (as described in section 1173(a)(2)(J) of the Social Security Act, as added by subsection (b)(2)(A)). The Secretary may do so on an interim final basis and shall adopt such standard not later than January 1, 2012, in a manner ensuring that such standard is effective not later than January 1, 2014.
+
+“(3)
+
+Health claims attachments.—The Secretary shall promulgate a final rule to establish a transaction standard and a single set of associated operating rules for health claims attachments (as described in section 1173(a)(2)(B) of the Social Security Act (42 U.S.C. 1320d–2(a)(2)(B))) that is consistent with the X12 Version 5010 transaction standards. The Secretary may do so on an interim final basis and shall adopt a transaction standard and a single set of associated operating rules not later than January 1, 2014, in a manner ensuring that such standard is effective not later than January 1, 2016.”
+
+#### Activities and Items for Initial Consideration; ICD Coding Crosswalks
+
+Pub. L. 111–148, title X, §10109(b), (c), Mar. 23, 2010, 124 Stat. 916, provided that:
+
+“(b)
+
+Activities and Items for Initial Consideration.—For purposes of section 1173(a)(5) of the Social Security Act \[42 U.S.C. 1320d–2(a)(5)\], as added by subsection (a), the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall, not later than January 1, 2012, seek input on activities and items relating to the following areas:
+
+&emsp;“(1) Whether the application process, including the use of a uniform application form, for enrollment of health care providers by health plans could be made electronic and standardized.
+
+&emsp;“(2) Whether standards and operating rules described in section 1173 of the Social Security Act should apply to the health care transactions of automobile insurance, worker's compensation, and other programs or persons not described in section 1172(a) of such Act (42 U.S.C. 1320d–1(a)).
+
+&emsp;“(3) Whether standardized forms could apply to financial audits required by health plans, Federal and State agencies (including State auditors, the Office of the Inspector General of the Department of Health and Human Services, and the Centers for Medicare \& Medicaid Services), and other relevant entities as determined appropriate by the Secretary.
+
+&emsp;“(4) Whether there could be greater transparency and consistency of methodologies and processes used to establish claim edits used by health plans (as described in section 1171(5) of the Social Security Act (42 U.S.C. 1320d(5))).
+
+&emsp;“(5) Whether health plans should be required to publish their timeliness of payment rules.
+
+“(c) ICD
+
+Coding Crosswalks.—
+
+&emsp;“(1) ICD–9
+
+to icd–10 crosswalk.—The Secretary shall task the ICD–9–CM Coordination and Maintenance Committee to convene a meeting, not later than January 1, 2011, to receive input from appropriate stakeholders (including health plans, health care providers, and clinicians) regarding the crosswalk between the Ninth and Tenth Revisions of the International Classification of Diseases (ICD–9 and ICD–10, respectively) that is posted on the website of the Centers for Medicare \& Medicaid Services, and make recommendations about appropriate revisions to such crosswalk.
+
+&emsp;“(2)
+
+Revision of crosswalk.—For purposes of the crosswalk described in paragraph (1), the Secretary shall make appropriate revisions and post any such revised crosswalk on the website of the Centers for Medicare \& Medicaid Services.
+
+&emsp;“(3)
+
+Use of revised crosswalk.—For purposes of paragraph (2), any revised crosswalk shall be treated as a code set for which a standard has been adopted by the Secretary for purposes of section 1173(c)(1)(B) of the Social Security Act (42 U.S.C. 1320d–2(c)(1)(B)).
+
+&emsp;“(4)
+
+Subsequent crosswalks.—For subsequent revisions of the International Classification of Diseases that are adopted by the Secretary as a standard code set under section 1173(c) of the Social Security Act (42 U.S.C. 1320d–2(c)), the Secretary shall, after consultation with the appropriate stakeholders, post on the website of the Centers for Medicare \& Medicaid Services a crosswalk between the previous and subsequent version of the International Classification of Diseases not later than the date of implementation of such subsequent revision.”
 
 #### Recommendations With Respect to Privacy of Certain Health Information
 
@@ -180,7 +518,7 @@ Sec. 3. <i>Implementation.</i>
 
 (a) Protected health information concerning an individual patient discovered during the course of health oversight activities shall not be used against that individual patient in an unrelated civil, administrative, or criminal investigation of a non-health oversight matter unless the Deputy Attorney General of the U.S Department of Justice, or insofar as the protected health information involves members of the Armed Forces, the General Counsel of the U.S. Department of Defense, has authorized such use.
 
-(b) In assessing whether protected health information should be used under subparagraph (a) of this section, the Deputy Attorney General shall permit such use upon concluding that the balance of relevant factors weighs clearly in favor of its use. That is, the Deputy Attorney General shall permit disclosure if the public interest and the need for disclosure clearly outweigh the potential for injury to the patient, to the physician-patient relationship, and to the treatment services.
+(b) In assessing whether protected health information should be used under subparagraph (a) of this section, the Deputy Attorney General shall permit such use upon concluding that the balance of relevant factorsweighs clearly in favor of its use. That is, the Deputy Attorney General shall permit disclosure if the public interest and the need for disclosure clearly outweigh the potential for injury to the patient, to the physician-patient relationship, and to the treatment services.
 
 (c) Upon the decision to use protected health information under subparagraph (a) of this section, the Deputy Attorney General, in determining the extent to which this information should be used, shall impose appropriate safeguards against unauthorized use.
 

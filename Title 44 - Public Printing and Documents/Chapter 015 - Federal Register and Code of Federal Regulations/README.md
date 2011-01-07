@@ -18,7 +18,7 @@
 
 #### Amendments
 
-1977—Pub. L. 95–94, title IV, §408(a)(2), Aug. 5, 1977, 91 Stat. 683, substituted “Costs of publication, etc.” for “Cost of publication; appropriations authorized; penalty mail privilege” in item 1509.
+<b>1977</b>—Pub. L. 95–94, title IV, §408(a)(2), Aug. 5, 1977, 91 Stat. 683, substituted “Costs of publication, etc.” for “Cost of publication; appropriations authorized; penalty mail privilege” in item 1509.
 
 #### Federal Records Management Provisions Without Effect on Chapter
 

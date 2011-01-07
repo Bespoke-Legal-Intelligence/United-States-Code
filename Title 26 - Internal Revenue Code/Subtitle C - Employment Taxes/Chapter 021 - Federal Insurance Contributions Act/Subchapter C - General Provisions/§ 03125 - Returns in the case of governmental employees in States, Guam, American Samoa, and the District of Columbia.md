@@ -24,15 +24,15 @@ A prior section 3125 was renumbered section 3128 of this title.
 
 #### Amendments
 
-1993—Pub. L. 103–66 which directed the amendment of this section by substituting “contribution and benefit base limitation” for “applicable contribution base limitation” without specifying where the substitution was to be made, was executed by making the substitution in subsecs. (a) to (d) to reflect the probable intent of Congress.
+<b>1993</b>—Pub. L. 103–66 which directed the amendment of this section by substituting “contribution and benefit base limitation” for “applicable contribution base limitation” without specifying where the substitution was to be made, was executed by making the substitution in subsecs. (a) to (d) to reflect the probable intent of Congress.
 
-1990—Pub. L. 101–508 substituted “applicable contribution base limitation” for “contribution and benefit base limitation” in subsecs. (a) to (d).
+<b>1990</b>—Pub. L. 101–508 substituted “applicable contribution base limitation” for “contribution and benefit base limitation” in subsecs. (a) to (d).
 
-1986—Pub. L. 99–272 inserted “States” in section catchline, added subsec. (a), and redesignated former subsecs. (a) to (c) as (b) to (d), respectively.
+<b>1986</b>—Pub. L. 99–272 inserted “States” in section catchline, added subsec. (a), and redesignated former subsecs. (a) to (c) as (b) to (d), respectively.
 
-1976—Subsec. (c). Pub. L. 94–455 substituted “Mayor of the District of Columbia or such agents as he may designate” for “Commissioners of the District of Columbia or such agents as they may designate”.
+<b>1976</b>—Subsec. (c). Pub. L. 94–455 substituted “Mayor of the District of Columbia or such agents as he may designate” for “Commissioners of the District of Columbia or such agents as they may designate”.
 
-1973—Pub. L. 93–233, §5(b)(4), effective with respect to remuneration paid after 1973, substituted “$13,200” for “$12,600” wherever appearing.
+<b>1973</b>—Pub. L. 93–233, §5(b)(4), effective with respect to remuneration paid after 1973, substituted “$13,200” for “$12,600” wherever appearing.
 
 Pub. L. 93–233, §5(d), applicable only with respect to remuneration paid after, and taxable years beginning after, 1973 (as provided in section 5(e) of Pub. L. 93–233, set out as a note under section 409 of Title 42), amended section 203(b)(4)(C) of Pub. L. 92–336 (set out as 1973 Amendment note hereunder) substituting “$13,200” for “$12,600”.
 
@@ -40,17 +40,17 @@ Pub. L. 93–66, §203(b)(4), effective with respect to remuneration paid after 
 
 Pub. L. 93–66, §203(d), applicable only with respect to remuneration paid after, and taxable years beginning after, 1973 (as provided in section 203(e) of Pub. L. 93–66, set out as a note under section 409 of Title 42), amended section 203(b)(4)(C) of Pub. L. 92–336 (set out as 1972 Amendment note hereunder) substituting “$12,600” for “$12,000”.
 
-1972—Pub. L. 92–336, §203(b)(4)(A), substituted “$10,800” for “$9,000” wherever appearing.
+<b>1972</b>—Pub. L. 92–336, §203(b)(4)(A), substituted “$10,800” for “$9,000” wherever appearing.
 
 Pub. L. 92–336, §203(b)(4)(B), effective with respect to remuneration paid after 1973, substituted “$12,000” for “$10,800” wherever appearing.
 
 Pub. L. 92–336, §203(b)(4)(C), effective with respect to remuneration paid after 1974, substituted “contribution and benefit base” for “$12,000”.
 
-1971—Pub. L. 92–5 substituted “$9,000” for “$7,800” wherever appearing.
+<b>1971</b>—Pub. L. 92–5 substituted “$9,000” for “$7,800” wherever appearing.
 
-1968—Pub. L. 90–248 substituted “$7,800” for “$6,600” wherever appearing.
+<b>1968</b>—Pub. L. 90–248 substituted “$7,800” for “$6,600” wherever appearing.
 
-1965—Subsecs. (a), (b). Pub. L. 89–97, §320(b)(4), substituted “$6,600” for “$4,800”.
+<b>1965</b>—Subsecs. (a), (b). Pub. L. 89–97, §320(b)(4), substituted “$6,600” for “$4,800”.
 
 Subsec. (c). Pub. L. 89–97, §317(c)(1), added subsec. (c) and inserted reference to District of Columbia in section catchline.
 
@@ -92,5 +92,5 @@ Amendment by section 320(b)(4) of Pub. L. 89–97 applicable with respect to rem
 
 #### Effective Date
 
-Section applicable only with respect to (1) service in the employ of the Government of Guam or any political subdivision thereof, or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of Guam that legislation has been enacted by the Government of Guam expressing its desire to have the insurance system established by title II of the Social Security Act (42 U.S.C. 401 et seq.) extended to the officers and employees of such Government and such political subdivisions and instrumentalities, and (2) service in the employ of the Government of American Samoa or any political subdivision thereof or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of American Samoa that the Government of American Samoa desires to have the insurance system established by title II of the Social Security Act extended to the officers and employees of such Government and such political subdivisions and instrumentalities, see section 103(v)(1) of Pub. L. 86–778, set out as an Effective Date of 1960 Amendment note under section 402 of Title 42, The Public Health and Welfare.
+Section applicable only with respect to (1) service in the employ of the Government of Guam or any political subdivision thereof, or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of Guam that legislation has been enacted by the Government of Guam expressing its desire to have the insurance system established by title II of the Social Security Act (42 U.S.C. 401 et seq.) extended to the officers and employees of such Government and such political subdivisions and instrumentalities, and (2) service in the employ of the Government of American Samoa or any political subdivision thereof or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of American Samoa that the Government of American Samoa desires to have the insurance systemestablished by title II of the Social Security Act extended to the officers and employees of such Government and such political subdivisions and instrumentalities, see section 103(v)(1) of Pub. L. 86–778, set out as an Effective Date of 1960 Amendment note under section 402 of Title 42, The Public Health and Welfare.
 

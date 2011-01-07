@@ -50,9 +50,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §2203(b), substituted “during the preceding 7-year period” for “in the preceding 12 months” in introductory provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §2203(b), substituted “during the preceding 7-year period” for “in the preceding 12 months” in introductory provisions.
 
-2002—Subsec. (a)(2). Pub. L. 107–171 added par. (2) and struck out former par. (2) which read as follows: “the new ownership was acquired before January 1, 1990; or”.
+<b>2002</b>—Subsec. (a)(2). Pub. L. 107–171 added par. (2) and struck out former par. (2) which read as follows: “the new ownership was acquired before January 1, 1990; or”.
 
 #### Effective Date of 2008 Amendment
 

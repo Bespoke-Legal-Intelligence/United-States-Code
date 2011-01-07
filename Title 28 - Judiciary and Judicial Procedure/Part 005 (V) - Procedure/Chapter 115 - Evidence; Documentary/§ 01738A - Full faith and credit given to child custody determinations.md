@@ -28,7 +28,7 @@
 
 &emsp;(2) one of the following conditions is met:
 
-&emsp;&emsp;(A) such State (i) is the home State of the child on the date of the commencement of the proceeding, or (ii) had been the child's home State within six months before the date of the commencement of the proceeding and the child is absent from such State because of his removal or retention by a contestant or for other reasons, and a contestant continues to live in such State;
+&emsp;&emsp;(A) such State (i) is the home State of the child on the date of the commencement of the proceeding, or (ii) had been the child's home State within six months before the date of the commencement of the proceedingand the child is absent from such State because of his removal or retention by a contestant or for other reasons, and a contestant continues to live in such State;
 
 &emsp;&emsp;(B)(i) it appears that no other State would have jurisdiction under subparagraph (A), and (ii) it is in the best interest of the child that a court of such State assume jurisdiction because (I) the child and his parents, or the child and at least one contestant, have a significant connection with such State other than mere physical presence in such State, and (II) there is available in such State substantial evidence concerning the child's present or future care, protection, training, and personal relationships;
 
@@ -52,13 +52,13 @@
 
 (h) A court of a State may not modify a visitation determination made by a court of another State unless the court of the other State no longer has jurisdiction to modify such determination or has declined to exercise jurisdiction to modify such determination.
 
-(Added Pub. L. 96–611, §8(a), Dec. 28, 1980, 94 Stat. 3569; amended Pub. L. 105–374, §1, Nov. 12,1998, 112 Stat. 3383; Pub. L. 106–386, div. B, title III, §1303(d), Oct. 28, 2000, 114 Stat. 1512.)
+(Added Pub. L. 96–611, §8(a), Dec. 28, 1980, 94 Stat. 3569; amended Pub. L. 105–374, §1, Nov. 12, 1998, 112 Stat. 3383; Pub. L. 106–386, div. B, title III, §1303(d), Oct. 28, 2000, 114 Stat. 1512.)
 
 #### Amendments
 
-2000—Subsec. (c)(2)(C)(ii). Pub. L. 106–386 substituted “the child, a sibling, or parent of the child” for “he”.
+<b>2000</b>—Subsec. (c)(2)(C)(ii). Pub. L. 106–386 substituted “the child, a sibling, or parent of the child” for “he”.
 
-1998—Subsec. (a). Pub. L. 105–374, §1(a), substituted “subsections (f), (g), and (h) of this section, any custody determination or visitation determination” for “subsection (f) of this section, any child custody determination”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–374, §1(a), substituted “subsections (f), (g), and (h) of this section, any custody determination or visitation determination” for “subsection (f) of this section, any child custody determination”.
 
 Subsec. (b)(2). Pub. L. 105–374, §1(b), inserted “or grandparent” after “parent”.
 

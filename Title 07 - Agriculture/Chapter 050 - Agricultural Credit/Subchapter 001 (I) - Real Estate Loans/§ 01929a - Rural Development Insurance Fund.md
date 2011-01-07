@@ -46,7 +46,7 @@ The Secretary may utilize the Insurance Fund—
 
 When any loan is sold out of the Insurance Fund as an insured loan, the interest or other income thereon paid to an insured holder shall be included in gross income for purposes of chapter 1 of title 26.
 
-(Pub. L. 87–128, title III, §309A, as added Pub. L. 92–419, title I, §116, Aug. 30, 1972, 86 Stat. 661; amended Pub. L. 95–113, title XV, §1510(b), Sept.29, 1977, 91 Stat. 1022; Pub. L. 95–334, title I, §§107(b), 110, Aug. 4, 1978, 92 Stat. 422, 424; Pub. L. 99–509, title I, §1001(b), Oct. 21, 1986, 100 Stat. 1874; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–500, title III, §381(b), Oct. 18, 1986, 100 Stat. 1783–369, and Pub. L. 99–591, title III, §381(b), Oct. 30, 1986, 100 Stat. 3341–372; Pub. L. 104–127, title VI, §661(c), title VII, §§741(b), 745, Apr. 4, 1996, 110 Stat. 1106, 1124, 1125.)
+(Pub. L. 87–128, title III, §309A, as added Pub. L. 92–419, title I, §116, Aug. 30, 1972, 86 Stat. 661; amended Pub. L. 95–113, title XV, §1510(b), Sept. 29, 1977, 91 Stat. 1022; Pub. L. 95–334, title I, §§107(b), 110, Aug. 4, 1978, 92 Stat. 422, 424; Pub. L. 99–509, title I, §1001(b), Oct. 21, 1986, 100 Stat. 1874; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–500, title III, §381(b), Oct. 18, 1986, 100 Stat. 1783–369, and Pub. L. 99–591, title III, §381(b), Oct. 30, 1986, 100 Stat. 3341–372; Pub. L. 104–127, title VI, §661(c), title VII, §§741(b), 745, Apr. 4, 1996, 110 Stat. 1106, 1124, 1125.)
 
 #### References in Text
 
@@ -146,7 +146,7 @@ Sales Required.—The Secretary of Agriculture, under such terms as the Secretar
 
 “(c)
 
-Contract Provisions.—Consistent with section 309A(e) of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1929a(e)\], as amended by subsection (b), any sale of notes or other obligations, as described in subsection (a), shall not alter the terms specified inthe note or other obligation, except that, on sale, a note or other obligation shall not be subject to the provisions of section 333(c) of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1983(c)\].
+Contract Provisions.—Consistent with section 309A(e) of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1929a(e)\], as amended by subsection (b), any sale of notes or other obligations, as described in subsection (a), shall not alter the terms specified in the note or other obligation, except that, on sale, a note or other obligation shall not be subject to the provisions of section 333(c) of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1983(c)\].
 
 “(d)
 
@@ -208,7 +208,7 @@ Applicability of Prohibition on Curtailment or Limitation of Service.—Section 
 
 &emsp;“(B) otherwise meet all eligibility criteria, as such criteria existed immediately prior to May 9, 1989, at the time the purchase occurs under this subsection.
 
-“(3) The opportunity to purchase any such note or other obligation shall be held open, under the policies and procedures in effect under subsections (f)(2) and (f)(3) immediately prior to May 9, 1989, for 150 days after the date of enactment of this subsection \[Dec. 12, 1989\]. The Secretary shall not require any further good faith deposit from issuers who qualify under this subsection. The Secretary shall notify eligible issuers of the opportunity afforded under this subsection within 30 days after the date of enactment of this subsection and may require such issuers to express an intention to purchase their note or other obligation by a date certain.”
+“(3) The opportunity to purchase any such note or other obligation shall be held open, under the policies and procedures in effect under subsections (f)(2) and (f)(3) immediately prior to May 9, 1989, for 150 daysafter the date of enactment of this subsection \[Dec. 12, 1989\]. The Secretary shall not require any further good faith deposit from issuers who qualify under this subsection. The Secretary shall notify eligible issuers of the opportunity afforded under this subsection within 30 days after the date of enactment of this subsection and may require such issuers to express an intention to purchase their note or other obligation by a date certain.”
 
 Section 381 of Pub. L. 99–500 and Pub. L. 99–591 provided that:
 

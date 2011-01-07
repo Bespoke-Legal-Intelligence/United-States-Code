@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In addition to any other grant or contract under this chapter, the Secretary may makegrants to, or enter into contracts with, Papa Ola Lokahi for—
+In addition to any other grant or contract under this chapter, the Secretary may make grants to, or enter into contracts with, Papa Ola Lokahi for—
 
 &emsp;(1) coordination, implementation, and updating (as appropriate) of the comprehensive health care master plan developed pursuant to section 11703 of this title;
 
@@ -26,11 +26,13 @@ In addition to any other grant or contract under this chapter, the Secretary may
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated such sums as may be necessary for fiscal years 1993 through 2001 to carry out subsection (a) of this section.
+There are authorized to be appropriated such sums as may be necessary for fiscal years 1993 through 2019 to carry out subsection (a) of this section.
 
-(Pub. L. 100–579, §7, Oct. 31, 1988, 102 Stat. 2921; Pub. L. 100–690, title II, §2307, Nov. 18, 1988, 102 Stat. 4227; Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948.)
+(Pub. L. 100–579, §7, Oct. 31, 1988, 102 Stat. 2921; Pub. L. 100–690, title II, §2307, Nov. 18, 1988, 102 Stat. 4227; Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 #### Codification
+
+Amendment by Pub. L. 111–148 is based on section 202(a) of title II of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, and enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on “September 12, 1992”, has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
 
@@ -38,5 +40,7 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections.
 
 #### Amendments
 
-1992—Pub. L. 102–396 amended section generally. Prior to amendment, section related to assignment of personnel.
+<b>2010</b>—Subsec. (b). Pub. L. 111–148, which directed the amendment of section 7(b) of the Native Hawaiian Health Care Act of 1988 by substituting “2019” for “2001”, was executed by making the amendment to this section, which is section 7 of the Native Hawaiian Health Care Improvement Act, to reflect the probable intent of Congress.
+
+<b>1992</b>—Pub. L. 102–396 amended section generally. Prior to amendment, section related to assignment of personnel.
 

@@ -22,7 +22,7 @@ Subsection (b) requires the Secretary to analyze the information that is receive
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–557 inserted provisions relating to alcohol as a contributing factor to the casualty.
+<b>1984</b>—Subsec. (a). Pub. L. 98–557 inserted provisions relating to alcohol as a contributing factor to the casualty.
 
 #### Plan To Increase Marine Casualty Reporting
 

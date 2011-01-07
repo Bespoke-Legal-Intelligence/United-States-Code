@@ -26,7 +26,7 @@ Penalty.—
 
 &emsp;(1)
 
-In general.—On October 1, 2003, and October 1 of each fiscal year thereafter, if a State has not enacted or is not enforcing a law described in subsection (a), the Secretary shall withhold from amounts apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) an amount equal to the amount specified in paragraph (2).
+In general.—On October 1, 2003, and October 1 of each fiscal year thereafter, if aState has not enacted or is not enforcing a law described in subsection (a), the Secretary shall withhold from amounts apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) an amount equal to the amount specified in paragraph (2).
 
 &emsp;(2)
 
@@ -42,7 +42,7 @@ Amount to be withheld.—If a State is subject to a penalty under paragraph (1),
 
 &emsp;(3)
 
-Failure to comply.—If, within 4 years from the date that an apportionment for a State is withheld in accordance with this subsection, the Secretary determines that the State has enacted and is enforcing a law described in subsection (a), the apportionment of the State shall be increased by an amountequal to the amount withheld. If, at the end of such 4-year period, any State has not enacted or is not enforcing a law described in subsection (a) any amounts so withheld from such State shall lapse.
+Failure to comply.—If, within 4 years from the date that an apportionment for a State is withheld in accordance with this subsection, the Secretary determines that the State has enacted and is enforcing a law described in subsection (a), the apportionment of the State shall be increased by an amount equal to the amount withheld. If, at the end of such 4-year period, any State has not enacted or is not enforcing a law described in subsection (a) any amounts so withheld from such State shall lapse.
 
 (f)
 
@@ -60,7 +60,7 @@ Availability of funds.—Notwithstanding section 118(b)(2), the funds authorized
 
 #### Amendments
 
-2005—Subsec. (e). Pub. L. 109–59, §1407(a)(2), added subsec. (e). Former subsec. (e) redesignated (f).
+<b>2005</b>—Subsec. (e). Pub. L. 109–59, §1407(a)(2), added subsec. (e). Former subsec. (e) redesignated (f).
 
 Subsec. (e)(1). Pub. L. 109–40 substituted “$91,315,068 for the period of October 1, 2004, through July 30, 2005” for “$90,410,958 for the period of October 1, 2004, through July 27, 2005”.
 
@@ -76,7 +76,7 @@ Subsec. (f). Pub. L. 109–59, §1407(a)(1), redesignated subsec. (e) as (f).
 
 Subsec. (f)(1). Pub. L. 109–59, §1407(b), substituted “2004, and $110,000,000 for fiscal year 2005” for “2004, and”.
 
-2004—Subsec. (e)(1). Pub. L. 108–310 struck out “and” after “2003,” and inserted “, and $73,333,333 for the period of October 1, 2004, through May 31, 2005” before period at end.
+<b>2004</b>—Subsec. (e)(1). Pub. L. 108–310 struck out “and” after “2003,” and inserted “, and $73,333,333 for the period of October 1, 2004, through May 31, 2005” before period at end.
 
 Pub. L. 108–280 substituted “$110,000,000 for fiscal year 2004” for “$100,000,000 for the period of October 1, 2003, through July 31, 2004”.
 
@@ -86,7 +86,7 @@ Pub. L. 108–224 substituted “$90,000,000 for the period of October 1, 2003, 
 
 Pub. L. 108–202 substituted “$70,000,000 for the period of October 1, 2003, through April 30, 2004” for “$50,000,000 for the period of October 1, 2003, through February 29, 2004”.
 
-2003—Subsec. (e)(1). Pub. L. 108–88 struck out “and” after “2002,” and inserted before period at end “, and $50,000,000 for the period of October 1, 2003, through February 29, 2004”.
+<b>2003</b>—Subsec. (e)(1). Pub. L. 108–88 struck out “and” after “2002,” and inserted before period at end “, and $50,000,000 for the period of October 1, 2003, through February 29, 2004”.
 
 #### Withholding of Funds for Failure To Enact and Enforce Laws Relating to Driving While Intoxicated
 

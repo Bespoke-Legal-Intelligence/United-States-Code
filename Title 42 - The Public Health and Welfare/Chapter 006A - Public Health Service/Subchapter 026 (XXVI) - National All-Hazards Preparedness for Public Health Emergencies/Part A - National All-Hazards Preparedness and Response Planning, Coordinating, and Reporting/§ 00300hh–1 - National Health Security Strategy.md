@@ -4,7 +4,7 @@
 
 #### (1) Preparedness and response regarding public health emergencies
 
-&emsp;Beginning in 2009 and every four years thereafter, the Secretary shall prepare and submit to the relevant committees of Congress a coordinated strategy (to be known as the National Health Security Strategy) and any revisions thereof, and an accompanying implementation plan for public health emergency preparedness and response. Such National Health Security Strategy shall identify the process for achieving the preparedness goals described in subsection (b) and shall be consistent with theNational Preparedness Goal, the National Incident Management System, and the National Response Plan developed pursuant to section 314(6) <sup>1</sup> of title 6, or any successor plan.
+&emsp;Beginning in 2009 and every four years thereafter, the Secretary shall prepare and submit to the relevant committees of Congress a coordinated strategy (to be known as the National Health Security Strategy) and any revisions thereof, and an accompanying implementation plan for public health emergency preparedness and response. Such National Health Security Strategy shall identify the process for achieving the preparedness goals described in subsection (b) and shall be consistent with the National Preparedness Goal, the National Incident Management System, and the National Response Plan developed pursuant to section 314(6) <sup>1</sup> of title 6, or any successor plan.
 
 #### (2) Evaluation of progress
 
@@ -82,7 +82,7 @@ Section 1. <i>Policy</i>. It is the policy of the United States to plan and prep
 
 This policy would seek to: (1) mitigate illness and prevent death; (2) sustain critical infrastructure; and (3) complement and supplement State, local, territorial, and tribal government medical countermeasure distribution capacity.
 
-Sec. 2. <i>United States Postal Service Delivery of Medical Countermeasures</i>. (a) The U.S. Postal Service has the capacity for rapid residential delivery of medical countermeasures for self administration across all communities in the United States. The Federal Governmentshall pursue a national U.S. Postal Service medical countermeasures dispensing model to respond to a large-scale biological attack.
+Sec. 2. <i>United States Postal Service Delivery of Medical Countermeasures</i>. (a) The U.S. Postal Service has the capacity for rapid residential delivery of medical countermeasures for self administration across all communities in the United States. The Federal Government shall pursue a national U.S. Postal Service medical countermeasures dispensing model to respond to a large-scale biological attack.
 
 (b) The Secretaries of Health and Human Services and Homeland Security, in coordination with the U.S. Postal Service, within 180 days of the date of this order, shall establish a national U.S. Postal Service medical countermeasures dispensing model for U.S. cities to respond to a large-scale biological attack, with anthrax as the primary threat consideration.
 
@@ -106,7 +106,7 @@ Sec. 5. <i>General Provisions</i>.
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against theUnited States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

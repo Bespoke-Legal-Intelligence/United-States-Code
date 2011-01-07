@@ -14,7 +14,7 @@ Subject to the provisions of subsections (a), (b), and (c) of this section, the 
 
 (3) Any such numbered school section which is surveyed on or after July 11, 1956, and on which there is outstanding at the time of such survey a mineral lease or leases entered into by the United States, shall (unless excluded from the provisions of this section by subsection (c) of this section for a reason other than the existence of an outstanding lease) be granted to the State concerned immediately upon completion of such survey; and the State shall succeed to the position of the United States as lessor under such lease or leases.
 
-(4) The Secretary of the Interior shall, upon application by a State, issue patents to theState for the lands granted by this section and section 871 of this title, in accordance with section 871a <sup>1</sup> of this title. Such patent shall, if the lease is then outstanding, include a statement that the State succeeded to the position of the United States as lessor at the time the title vested in the State.
+(4) The Secretary of the Interior shall, upon application by a State, issue patents to the State for the lands granted by this section and section 871 of this title, in accordance with section 871a <sup>1</sup> of this title. Such patent shall, if the lease is then outstanding, include a statement that the State succeeded to the position of the United States as lessor at the time the title vested in the State.
 
 (5) Where at the time rents, royalties, and bonuses accrue the lands or deposits covered by a single lease are owned in part by the State and in part by the United States, the rents, royalties, and bonuses shall be allocated between them in proportion to the acreage in said lease owned by each.
 
@@ -28,13 +28,13 @@ Section 871a of this title, referred to in subsec. (d)(4), was repealed by Pub. 
 
 #### Amendments
 
-1956—Subsec. (d). Act July 11, 1956, provided that numbered school sections under mineral leases may be granted to a State, whether or not the sections are mineral in character, and added subpar. (6).
+<b>1956</b>—Subsec. (d). Act July 11, 1956, provided that numbered school sections under mineral leases may be granted to a State, whether or not the sections are mineral in character, and added subpar. (6).
 
-1954—Subsec. (c). Act Apr. 22, 1954, §2, substituted “Except as provided in subsection (d) of this section, any” for “any”.
+<b>1954</b>—Subsec. (c). Act Apr. 22, 1954, §2, substituted “Except as provided in subsection (d) of this section, any” for “any”.
 
 Subsec. (d). Act Apr. 22, 1954, §1, added subsec. (d).
 
-1932—Subsec. (b). Act May 2, 1932, inserted “hereafter” in two places and “not heretofore disposed of by the State” after “mineral deposits in such lands”.
+<b>1932</b>—Subsec. (b). Act May 2, 1932, inserted “hereafter” in two places and “not heretofore disposed of by the State” after “mineral deposits in such lands”.
 
 Subsec. (c). Act May 2, 1932, inserted “reservation” before “application”.
 

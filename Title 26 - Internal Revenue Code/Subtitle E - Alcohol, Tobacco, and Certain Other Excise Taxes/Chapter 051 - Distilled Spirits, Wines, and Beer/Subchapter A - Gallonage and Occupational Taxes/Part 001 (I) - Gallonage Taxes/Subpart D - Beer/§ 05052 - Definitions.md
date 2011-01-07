@@ -32,9 +32,9 @@ A prior section 5052, act Aug. 16, 1954, ch. 736, 68A Stat. 612, consisted of pr
 
 #### Amendments
 
-2005—Subsec. (d). Pub. L. 109–59 amended subsec. (d) generally. Prior to amendment, text read as follows: “For definition of brewer, see section 5092.”
+<b>2005</b>—Subsec. (d). Pub. L. 109–59 amended subsec. (d) generally. Prior to amendment, text read as follows: “For definition of brewer, see section 5092.”
 
-1971—Subsec. (c)(2). Pub. L. 91–673 struck out proviso that removal of beer shall not include beer returned to the brewery on the same day such beer is removed from the brewery.
+<b>1971</b>—Subsec. (c)(2). Pub. L. 91–673 struck out proviso that removal of beer shall not include beer returned to the brewery on the same day such beer is removed from the brewery.
 
 #### Effective Date of 2005 Amendment
 

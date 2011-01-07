@@ -22,7 +22,7 @@ In the case of any entity—
 
 #### (b) Advertising
 
-No State may establish or enforce any law which prevents a health maintenance organization for which a grant, contract, loan, or loan guarantee was made under this subchapter or which is a qualified health maintenance organization for purposes of section 300e–9 of this title (relating to employees’ health benefits plans),from soliciting members through advertising its services, charges, or other nonprofessional aspects of its operation. This subsection does not authorize any advertising which identifies, refers to, or makes any qualitative judgement concerning, any health professional who provides services for a health maintenance organization.
+No State may establish or enforce any law which prevents a health maintenance organization for which a grant, contract, loan, or loan guarantee was made under this subchapter or which is a qualified health maintenance organization for purposes of section 300e–9 of this title (relating to employees’ health benefits plans), from soliciting members through advertising its services, charges, or other nonprofessional aspects of its operation. This subsection does not authorize any advertising which identifies, refers to, or makes any qualitative judgement concerning, any health professional who provides services for a health maintenance organization.
 
 #### (c) Digest of State laws, regulations, and practices; legal consultative assistance
 
@@ -36,11 +36,11 @@ A prior section 1311 of act July 1, 1944, was classified to section 211a of this
 
 #### Amendments
 
-1988—Subsec. (a)(1)(E). Pub. L. 100–517 added subpar. (E).
+<b>1988</b>—Subsec. (a)(1)(E). Pub. L. 100–517 added subpar. (E).
 
-1986—Subsec. (c). Pub. L. 99–660 substituted “annually” for “quarterly” after “at least”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–660 substituted “annually” for “quarterly” after “at least”.
 
-1976—Subsec. (c). Pub. L. 94–460 added subsec. (c).
+<b>1976</b>—Subsec. (c). Pub. L. 94–460 added subsec. (c).
 
 #### Effective Date of 1986 Amendment
 

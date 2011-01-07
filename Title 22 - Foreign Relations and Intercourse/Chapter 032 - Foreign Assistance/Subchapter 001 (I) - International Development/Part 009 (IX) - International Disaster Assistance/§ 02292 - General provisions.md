@@ -2,7 +2,7 @@
 
 #### (a) Congressional policy
 
-The Congress, recognizing that prompt United States assistance to alleviate human suffering caused by natural and manmade disasters is an important expression of the humanitarian concern and tradition of the people of the United States, affirms the willingness of the United States to provide assistance for the relief and rehabilitation of people and countries affected by such disasters.
+The Congress, recognizing that prompt United States assistance to alleviate human sufferingcaused by natural and manmade disasters is an important expression of the humanitarian concern and tradition of the people of the United States, affirms the willingness of the United States to provide assistance for the relief and rehabilitation of people and countries affected by such disasters.
 
 #### (b) General authority
 
@@ -24,9 +24,9 @@ A prior section 491 of Pub. L. 87–195, pt. I, as added Pub. L. 92–226, pt. I
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96–533 substituted “limitations” for “limitation on appropriations”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–533 substituted “limitations” for “limitation on appropriations”.
 
-1978—Subsec. (b). Pub. L. 95–424 substituted “, international organization, or private voluntary organization” for “or international organization”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–424 substituted “, international organization, or private voluntary organization” for “or international organization”.
 
 #### Effective Date of 1978 Amendment
 

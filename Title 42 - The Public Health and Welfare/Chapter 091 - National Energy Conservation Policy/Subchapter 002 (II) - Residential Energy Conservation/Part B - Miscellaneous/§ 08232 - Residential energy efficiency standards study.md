@@ -30,7 +30,7 @@ In conducting such study, the Secretary shall consider at least the following fa
 
 The Secretary shall incorporate into such study comments by the Secretary of Energy on the effects on the economy as a whole and on the Nation's security which may result from the requirement described in subsection (a) of this section as compared to the impact on the credit and housing markets likely to be caused by such a requirement. In addition, the Secretary shall incorporate into such study the following findings by the Secretary of Energy:
 
-&emsp;(1) the savings in energy costs resulting from the requirement described in subsection (a) of this section throughout the estimated remaining useful life of the existing residential buildings to which such requirement would apply; and
+&emsp;(1) the savings in energy costs resulting from the requirement described in subsection (a) ofthis section throughout the estimated remaining useful life of the existing residential buildings to which such requirement would apply; and
 
 &emsp;(2) the total cost per barrel of oil equivalent, in obtaining the energy savings likely to result from such requirement, computed for each class of existing residential buildings to which such requirement would apply.
 
@@ -48,5 +48,5 @@ The Federal Disaster Protection Act of 1973, referred to in subsec. (b)(5), prob
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 

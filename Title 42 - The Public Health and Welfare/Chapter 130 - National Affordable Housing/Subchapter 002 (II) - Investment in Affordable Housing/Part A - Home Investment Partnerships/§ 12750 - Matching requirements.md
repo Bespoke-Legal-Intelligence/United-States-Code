@@ -90,7 +90,7 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–233 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Each participating jurisdiction shall make contributions to housing that qualifies as affordable housing under this subchapter that total, throughout a fiscal year, not less than—
+<b>1994</b>—Subsec. (a). Pub. L. 103–233 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Each participating jurisdiction shall make contributions to housing that qualifies as affordable housing under this subchapter that total, throughout a fiscal year, not less than—
 
 &emsp;“(1) 25 percent of the total funds drawn from the jurisdiction's HOME Investment Trust Fund in that fiscal year with respect to rental assistance, housing rehabilitation and substantial rehabilitation; and
 
@@ -98,7 +98,7 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 > Such contributions shall be in addition to any amounts made available under section 12746(3)(A)(ii) of this title.”
 
-1992—Subsec. (a). Pub. L. 102–550, §210(a)(4), substituted “housing that qualifies as affordable housing under this subchapter” for “affordable housing assisted under this subchapter” in introductory provisions.
+<b>1992</b>—Subsec. (a). Pub. L. 102–550, §210(a)(4), substituted “housing that qualifies as affordable housing under this subchapter” for “affordable housing assisted under this subchapter” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 102–550, §210(a)(1), substituted “, housing rehabilitation and substantial rehabilitation; and” for “and housing rehabilitation;”.
 

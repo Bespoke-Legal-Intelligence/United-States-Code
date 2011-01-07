@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1987—Subsec. (a). Pub. L. 100–17 substituted “any Federal-aid system,” for “the Federal-aid primary or secondary systems or on the Interstate System, including extensions thereof within urban areas,”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–17 substituted “any Federal-aid system,” for “the Federal-aid primary or secondary systems or on the Interstate System, including extensions thereof within urban areas,”.
 
 #### Study of Procurement Practices and Project Delivery
 

@@ -34,7 +34,7 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–465, §270(a)(1)(H), substituted “countervailable subsidy” for “subsidy”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–465, §270(a)(1)(H), substituted “countervailable subsidy” for “subsidy”.
 
 Subsec. (a)(2) to (4). Pub. L. 103–465, §§233(a)(5)(O), 265, redesignated par. (3) as (2) and substituted “subject merchandise” for “class or kind of merchandise to which it applies”, redesignated par. (4) as (3), and struck out former par. (2) which read as follows:
 
@@ -50,9 +50,9 @@ Subsec. (b)(1). Pub. L. 103–465, §264(c)(9), substituted “1671b(d)(2)” fo
 
 Subsec. (c). Pub. L. 103–465, §218(b)(1), added subsec. (c).
 
-1986—Subsec. (a)(2). Pub. L. 99–514 realigned the margins in provisions following subpar. (B), which realignment had been editorially supplied, thereby requiring no change in text.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514 realigned the margins in provisions following subpar. (B), which realignment had been editorially supplied, thereby requiring no change in text.
 
-1984—Subsec. (a)(2) to (4). Pub. L. 98–573 added par. (2) and redesignated pars. (2) and (3) as (3) and (4), respectively.
+<b>1984</b>—Subsec. (a)(2) to (4). Pub. L. 98–573 added par. (2) and redesignated pars. (2) and (3) as (3) and (4), respectively.
 
 #### Effective Date of 1994 Amendment
 

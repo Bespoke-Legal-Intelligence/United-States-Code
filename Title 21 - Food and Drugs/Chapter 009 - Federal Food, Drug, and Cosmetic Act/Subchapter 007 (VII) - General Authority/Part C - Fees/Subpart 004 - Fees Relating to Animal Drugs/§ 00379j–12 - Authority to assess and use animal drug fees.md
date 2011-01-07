@@ -240,7 +240,7 @@ The Secretary shall—
 
 #### Amendments
 
-2008—Subsec. (a)(1)(A)(i). Pub. L. 110–316, §§103(a)(1), 108(a), temporarily inserted “, except an animal drug application subject to the criteria set forth in section 360b(d)(4) of this title” after “for an animal drug application”. See Effective and Termination Dates of 2008 Amendment note below.
+<b>2008</b>—Subsec. (a)(1)(A)(i). Pub. L. 110–316, §§103(a)(1), 108(a), temporarily inserted “, except an animal drug application subject to the criteria set forth in section 360b(d)(4) of this title” after “for an animal drug application”. See Effective and Termination Dates of 2008 Amendment note below.
 
 Subsec. (a)(1)(A)(ii). Pub. L. 110–316, §§103(a)(2), 108(a), temporarily amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “A fee established in subsection (b) of this section for a supplemental animal drug application for which safety or effectiveness data are required, in an amount that is equal to 50 percent of the amount of the fee under clause (i).” See Effective and Termination Dates of 2008 Amendment note below.
 

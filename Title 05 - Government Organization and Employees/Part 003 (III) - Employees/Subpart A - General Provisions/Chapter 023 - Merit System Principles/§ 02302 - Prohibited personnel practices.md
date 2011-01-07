@@ -84,7 +84,7 @@
 
 > &emsp;&emsp;if such disclosure is not specifically prohibited by law and if such information is not specifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs; or
 
-&emsp;&emsp;(B) any disclosure to the Special Counsel, or to the Inspector General of an agency or another employee designated by the head ofthe agency to receive such disclosures, of information which the employee or applicant reasonably believes evidences—
+&emsp;&emsp;(B) any disclosure to the Special Counsel, or to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures, of information which the employee or applicant reasonably believes evidences—
 
 &emsp;&emsp;&emsp;(i) a violation of any law, rule, or regulation, or
 
@@ -144,11 +144,9 @@
 
 (2) Notwithstanding any other provision of this title, no authority to order corrective action shall be available in connection with a prohibited personnel practice described in subsection (b)(11). Nothing in this paragraph shall be considered to affect any authority under section 1215 (relating to disciplinary action).
 
-(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, §4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, §5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, §2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, §8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, §501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, §5, Oct. 29, 1994, 108 Stat. 4363; Pub. L. 104–197, title III, §315(b)(2), Sept. 16, 1996, 110Stat. 2416, Pub. L. 104–201, div. A, title XI, §1122(a)(1), title XVI, §1615(b), Sept. 23, 1996, 110 Stat. 2687, 2741; Pub. L. 105–339, §6(a), (b), (c)(2), Oct. 31, 1998, 112 Stat. 3187, 3188; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575.)
+(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, §4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, §5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, §2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, §8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, §501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, §5, Oct. 29, 1994, 108 Stat. 4363; Pub. L. 104–197, title III, §315(b)(2), Sept. 16, 1996, 110 Stat. 2416, Pub. L. 104–201, div. A, title XI, §1122(a)(1), title XVI, §1615(b), Sept. 23, 1996, 110 Stat. 2687, 2741; Pub. L. 105–339, §6(a), (b), (c)(2), Oct. 31, 1998, 112 Stat. 3187, 3188; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575.)
 
 #### References in Text
-
-The civil service laws, referred to in subsec. (c), are set out in this title. See, particularly, section 3301 et seq. of this title.
 
 Section 1308(b) of the Alaska National Interest Lands Conservation Act, referred to in subsec. (e)(1)(C), is classified to section 3198(b) of Title 16, Conservation.
 
@@ -234,7 +232,7 @@ Memorandum of President of the United States, June 17, 2009, 74 F.R. 29393, prov
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-Millions of hard-working, dedicated, and patriotic public servants are employed by the Federal Government as part of the civilian workforce, and many of these devoted Americans have same-sex domestic partners. Leading companies in the private sector are free to provide to same-sex domestic partners the same benefits they provide to married people of the opposite sex. Executive departments and agencies, however, may only provide benefits on that basis if they have legal authorization to do so. My Administration is not authorized by Federal law to extend a number of available Federal benefits to the same-sex partners of Federal employees. Within existing law, however, my Administration, in consultation with the Secretary of State, who oversees our Foreign Service employees, and the Director of the Office of Personnel Management, who oversees human resource management for our civil service employees, has identified areas in which statutory authority exists to achieve greater equality for the Federal workforce through extension to same-sex domestic partners of benefits currently available to married people of the opposite sex. Extending available benefits will help the Federal Government compete with the private sector to recruit and retain the best and the brightest employees.
+Millions of hard-working, dedicated, and patriotic public servants are employed by the Federal Government as part of the civilian workforce, and many of these devoted Americans have same-sex domestic partners. Leading companies in the private sector are free to provide to same-sex domestic partners the same benefits they provide to married people of the opposite sex. Executive departments and agencies, however, may only provide benefits on that basis if they have legal authorization to do so. My Administration is not authorized by Federal law to extend a number of available Federal benefits to the same-sex partners of Federal employees. Within existing law, however, my Administration, in consultation with the Secretary of State, who oversees our Foreign Service employees, and theDirector of the Office of Personnel Management, who oversees human resource management for our civil service employees, has identified areas in which statutory authority exists to achieve greater equality for the Federal workforce through extension to same-sex domestic partners of benefits currently available to married people of the opposite sex. Extending available benefits will help the Federal Government compete with the private sector to recruit and retain the best and the brightest employees.
 
 I hereby request the following:
 
@@ -255,6 +253,60 @@ Sec. 4. <i>General Provisions</i>. (a) Nothing in this memorandum shall be const
 (c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Sec. 5. <i>Publication</i>. The Director of the Office of Personnel Management is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Extension of Benefits to Same-Sex Domestic Partners of Federal Employees
+
+Memorandum of President of the United States, June 2, 2010, 75 F.R. 32247, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+For far too long, many of our Government's hard-working, dedicated LGBT employees have been denied equal access to the basic rights and benefits their colleagues enjoy. This kind of systemic inequality undermines the health, well-being, and security not just of our Federal workforce, but also of their families and communities. That is why, last June, I directed the heads of executive departments and agencies (agencies), in consultation with the Office of Personnel Management (OPM), to conduct a thorough review of the benefits they provide and to identify any that could be extended to LGBT employees and their partners and families. Although legislative action is necessary to provide full equality to LGBT Federal employees, the agencies have identified a number of benefits that can be extended under existing law. OPM, in consultation with the Department of Justice, has provided me with a report recommending that all of the identified benefits be extended.
+
+Accordingly, I hereby direct the following:
+
+Section 1. <i>Immediate Actions To Extend Benefits</i>. Agencies should immediately take the following actions, consistent with existing law, in order to extend benefits to the same-sex domestic partners of Federal employees, and, where applicable, to the children of same-sex domestic partners of Federal employees:
+
+(a) The Director of OPM should take appropriate action to:
+
+(i) clarify that the children of employees’ same-sex domestic partners fall within the definition of “child” for purposes of Federal child-care subsidies, and, where appropriate, for child-care services;
+
+(ii) clarify that, for purposes of employee assistance programs, same-sex domestic partners and their children qualify as “family members”;
+
+(iii) issue a proposed rule that would clarify that employees’ same-sex domestic partners qualify as “family members” for purposes of noncompetitive appointments made pursuant to Executive Order 12721 of July 30, 1990;
+
+(iv) issue a proposed rule that would add a Federal retiree's same-sex domestic partner to the list of individuals presumed to have an insurable interest in the employee pursuant to 5 U.S.C. 8339(k)(1), 8420;
+
+(v) clarify that under appropriate circumstances, employees’ same-sex domestic partners and their children qualify as dependents for purposes of evacuation payments made under 5 U.S.C. 5522–5523; Folio: 1632 \[sic\]
+
+(vi) amend its guidance on implementing President Clinton's April 11, 1997, memorandum to heads of executive departments and agencies on “Expanded Family and Medical Leave Policies” to specify that the 24 hours of unpaid leave made available to Federal employees in connection with (i) school and early childhood educational activities; (ii) routine family medical purposes; and (iii) elderly relatives’ health or care needs, may be used to meet the needs of an employee's same-sex domestic partner or the same-sex domestic partner's children; and
+
+(vii) clarify that employees’ same-sex domestic partners qualify as dependents for purposes of calculating the extra allowance payable under 5 U.S.C. 5942a to assist employees stationed on Johnston Island, subject to any limitations applicable to spouses.
+
+(b) The Administrator of General Services should take appropriate action to amend the definitions of “immediate family” and “dependent” appearing in the Federal Travel Regulations, 41 C.F.R. Chs. 300–304, to include same-sex domestic partners and their children, so that employees and their domestic partners and children can obtain the full benefits available under applicable law, including certain travel, relocation, and subsistence payments.
+
+(c) All agencies offering any of the benefits specified by OPM in implementing guidance under section 3 of this memorandum, including credit union membership, access to fitness facilities, and access to planning and counseling services, should take all appropriate action to provide the same level of benefits that is provided to employees’ spouses and their children to employees’ same-sex domestic partners and their children.
+
+(d) All agencies with authority to provide benefits to employees outside of the context of title 5, United States Code should take all appropriate actions to ensure that the benefits being provided to employees’ spouses and their children are also being provided, at an equivalent level wherever permitted by law, to their employees’ same-sex domestic partners and their children.
+
+Sec. 2. <i>Continuing Obligation To Provide New Benefits</i>. In the future, all agencies that provide new benefits to the spouses of Federal employees and their children should, to the extent permitted by law, also provide them to the same-sex domestic partners of their employees and those same-sex domestic partners’ children. This section applies to appropriated and nonappropriated fund instrumentalities of such agencies.
+
+Sec. 3. <i>Monitoring and Guidance</i>. The Director of OPM shall monitor compliance with this memorandum, and may instruct agencies to provide the Director with reports on the status of their compliance, and prescribe the form Folio: 1633 \[sic\] and manner of such reports. The Director of OPM shall also issue guidance to ensure consistent and appropriate implementation.
+
+Sec. 4. <i>Reporting</i>. By April 1, 2011, and annually thereafter, the Director of OPM shall provide the President with a report on the progress of the agencies in implementing this memorandum until such time as all recommendations have been appropriately implemented.
+
+Sec. 5. <i>General Provisions</i>. (a) Except as expressly stated herein, nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) authority granted by law or Executive Order to an agency, or the head thereof; or
+
+(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 6. <i>Publication</i>. The Director of OPM is hereby authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

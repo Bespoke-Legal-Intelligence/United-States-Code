@@ -12,7 +12,7 @@
 
 &emsp;(4) The term “veteran” also includes an individual serving on active duty.
 
-&emsp;(5)(A) The term “veteran” also includes an individual who is not otherwise eligible for thebenefits of this chapter and (i) who has completed a total service of at least 6 years in the Selected Reserve and, following the completion of such service, was discharged from service with an honorable discharge, was placed on the retired list, was transferred to the Standby Reserve or an element of the Ready Reserve other than the Selected Reserve after service in the Selected Reserve characterized by the Secretary concerned as honorable service, or continues serving in the Selected Reserve, or (ii) who was discharged or released from the Selected Reserve before completing 6 years of service because of a service-connected disability.
+&emsp;(5)(A) The term “veteran” also includes an individual who is not otherwise eligible for the benefits of this chapter and (i) who has completed a total service of at least 6 years in the Selected Reserve and, following the completion of such service, was discharged from service with an honorable discharge, was placed on the retired list, was transferred to the Standby Reserve or an element of the Ready Reserve other than the Selected Reserve after service in the Selected Reserve characterized by the Secretary concerned as honorable service, or continues serving in the Selected Reserve, or (ii) who was discharged or released from the Selected Reserve before completing 6 years of service because of a service-connected disability.
 
 &emsp;(B) The term “Selected Reserve” means the Selected Reserve of the Ready Reserve of any of the reserve components (including the Army National Guard of the United States and the Air National Guard of the United States) of the Armed Forces, as required to be maintained under section 10143(a) of title 10.
 
@@ -26,35 +26,35 @@ The Servicemen's Readjustment Act of 1944, referred to in subsec. (c), is act Ju
 
 #### Amendments
 
-1996—Subsec. (b)(5)(B). Pub. L. 104–106 substituted “section 10143(a) of title 10” for “section 268(b) of title 10”.
+<b>1996</b>—Subsec. (b)(5)(B). Pub. L. 104–106 substituted “section 10143(a) of title 10” for “section 268(b) of title 10”.
 
-1994—Subsec. (b)(2). Pub. L. 103–446, §901(b), inserted “or service in the Selected Reserve” after “duty” in two places and substituted “deceased spouse shall” for “spouse shall”.
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–446, §901(b), inserted “or service in the Selected Reserve” after “duty” in two places and substituted “deceased spouse shall” for “spouse shall”.
 
 Subsec. (b)(5)(A). Pub. L. 103–446, §901(a), inserted “(i)” before “who has” and substituted “, or” and cl. (ii) for the period at end.
 
-1992—Subsec. (b)(5). Pub. L. 102–547 added par. (5).
+<b>1992</b>—Subsec. (b)(5). Pub. L. 102–547 added par. (5).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1801 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1801 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “3710(a) and 3712(a)(1)” for “1810(a) and 1812(a)(1)”.
 
-1989—Subsec. (b)(4). Pub. L. 101–237 added par. (4).
+<b>1989</b>—Subsec. (b)(4). Pub. L. 101–237 added par. (4).
 
-1988—Subsec. (a). Pub. L. 100–322 substituted “1812(a)(1)” for “1819(a)(1)”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–322 substituted “1812(a)(1)” for “1819(a)(1)”.
 
-1982—Subsec. (b)(3). Pub. L. 97–295 substituted “member shall be deemed” for “spouse shall be deemed”, and “member is no longer listed” for “spouse is no longer listed”.
+<b>1982</b>—Subsec. (b)(3). Pub. L. 97–295 substituted “member shall be deemed” for “spouse shall be deemed”, and “member is no longer listed” for “spouse is no longer listed”.
 
-1981—Subsec. (a). Pub. L. 97–72, §303(a)(2), added subsec. (a). Former subsec. (a) redesignated (b).
+<b>1981</b>—Subsec. (a). Pub. L. 97–72, §303(a)(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
 Subsec. (b). Pub. L. 97–72, §303(a)(1), (3), redesignated subsec. (a) as (b) and substituted “For the purposes of housing loans under this chapter” for “For the purposes of this chapter”. Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 97–72, §303(a)(1), (4), redesignated subsec. (b) as (c) and substituted “National Oceanic and Atmospheric Administration (or predecessor entity)” for “Coast and Geodetic Survey”.
 
-1976—Subsec. (a)(2). Pub. L. 94–324, §7(1), substituted “surviving spouse”, “the spouse's own”, and “the spouse” for “widow”, “her own”, and “her husband”, respectively, wherever appearing.
+<b>1976</b>—Subsec. (a)(2). Pub. L. 94–324, §7(1), substituted “surviving spouse”, “the spouse's own”, and “the spouse” for “widow”, “her own”, and “her husband”, respectively, wherever appearing.
 
 Subsec. (a)(3). Pub. L. 94–324, §7(2), substituted “spouse” and “the spouse” for “wife” and “her husband”, respectively, wherever appearing.
 
-1970—Subsec. (a)(3). Pub. L. 91–584 added par. (3).
+<b>1970</b>—Subsec. (a)(3). Pub. L. 91–584 added par. (3).
 
 #### Effective Date of 1996 Amendment
 

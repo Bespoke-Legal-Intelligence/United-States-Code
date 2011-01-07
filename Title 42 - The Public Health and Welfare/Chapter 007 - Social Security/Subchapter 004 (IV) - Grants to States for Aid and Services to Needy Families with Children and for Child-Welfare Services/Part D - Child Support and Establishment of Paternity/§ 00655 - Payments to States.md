@@ -24,7 +24,7 @@
 
 (3)(A) The Secretary shall pay to each State, for each quarter in fiscal years 1996 and 1997, 90 percent of so much of the State expenditures described in paragraph (1)(B) as the Secretary finds are for a system meeting the requirements specified in section 654(16) of this title (as in effect on September 30, 1995) but limited to the amount approved for States in the advance planning documents of such States submitted on or before September 30, 1995.
 
-(B)(i) The Secretary shall pay to each State or system described in clause (iii), for each quarter in fiscal years 1996 through 2001, the percentage specified in clause (ii) of so much of the State or system expenditures described in paragraph (1)(B) as the Secretary finds are for a system meeting the requirements of sections 654(16) and 654a of this title.
+(B)(i) The Secretary shall pay to each State or system described in clause (iii), for each quarterin fiscal years 1996 through 2001, the percentage specified in clause (ii) of so much of the State or system expenditures described in paragraph (1)(B) as the Secretary finds are for a system meeting the requirements of sections 654(16) and 654a of this title.
 
 (ii) The percentage specified in this clause is 80 percent.
 
@@ -36,7 +36,7 @@
 
 &emsp;(II) the State has submitted to the Secretary a corrective compliance plan that describes how, by when, and at what cost the State will achieve such compliance, which has been approved by the Secretary,
 
-> then the Secretary shall not disapprove the State plan under section 654 of this title, and the Secretary shall reduce the amount otherwisepayable to the State under paragraph (1)(A) of this subsection for the fiscal year by the penalty amount.
+> then the Secretary shall not disapprove the State plan under section 654 of this title, and the Secretary shall reduce the amount otherwise payable to the State under paragraph (1)(A) of this subsection for the fiscal year by the penalty amount.
 
 (ii) All failures of a State during a fiscal year to comply with any of the requirements referred to in the same subparagraph of section 654(24) of this title shall be considered a single failure of the State to comply with that subparagraph during the fiscal year for purposes of this paragraph.
 
@@ -96,7 +96,7 @@
 
 &emsp;(ii) The term “penalty base” means, with respect to a failure of a State to comply with subparagraphs (A) and (B)(i) of section 654(27) of this title during a fiscal year, the amount otherwise payable to the State under paragraph (1)(A) of this subsection for the preceding fiscal year.
 
-(C)(i) The Secretary shall waive all penalties imposed against a State under this paragraph for any failure of the State to comply with subparagraphs (A) and (B)(i) of section 654(27) ofthis title if the Secretary determines that, before April 1, 2000, the State has achieved such compliance.
+(C)(i) The Secretary shall waive all penalties imposed against a State under this paragraph for any failure of the State to comply with subparagraphs (A) and (B)(i) of section 654(27) of this title if the Secretary determines that, before April 1, 2000, the State has achieved such compliance.
 
 (ii) If a State with respect to which a reduction is required to be made under this paragraph with respect to a failure to comply with subparagraphs (A) and (B)(i) of section 654(27) of this title achieves such compliance on or after April 1, 2000, and on or before September 30, 2000, then the penalty amount applicable to the State shall be 1 percent of the penalty base with respect to the failure involved.
 
@@ -132,7 +132,7 @@ Notwithstanding any other provision of law, no amount shall be paid to any State
 
 The Secretary may make direct payments under this part to an Indian tribe or tribal organization that demonstrates to the satisfaction of the Secretary that it has the capacity to operate a child support enforcement program meeting the objectives of this part, including establishment of paternity, establishment, modification, and enforcement of support orders, and location of absent parents. The Secretary shall promulgate regulations establishing the requirements which must be met by an Indian tribe or tribal organization to be eligible for a grant under this subsection.
 
-(Aug. 14, 1935, ch. 531, title IV, §455, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2355; amended Pub. L. 94–88, title II, §§201(c), 205, Aug. 9, 1975, 89 Stat. 433, 435; Pub. L. 94–365, §3, July14, 1976, 90 Stat. 990; Pub. L. 95–59, §4, June 30, 1977, 91 Stat. 255; Pub. L. 96–178, §2(a), Jan. 2, 1980, 93 Stat. 1295; Pub. L. 96–265, title IV, §§404(a), 405(a), 407(a), (b), June 9, 1980, 94 Stat. 463, 467; Pub. L. 96–611, §§9(c), 11(c), Dec. 28, 1980, 94 Stat. 3573, 3574; Pub. L. 97–35, title XXIII, §2333(c), Aug. 13, 1981, 95 Stat. 863; Pub. L. 97–248, title I, §§171(b)(2), 174(a), (b), Sept. 3, 1982, 96 Stat. 401, 403; Pub. L. 98–378, §§4(a), 6(b), 8, Aug. 16, 1984, 98 Stat. 1311, 1314, 1315; Pub. L. 100–485, title I, §§112(a), 123(c), Oct. 13, 1988, 102 Stat. 2350, 2352; Pub. L. 104–193, title III, §§344(b)(1), (c), 375(b), 395(d)(1)(E), Aug. 22, 1996, 110 Stat. 2236, 2237, 2256, 2259; Pub. L. 105–33, title V, §§5546(b), (c), 5555(a), Aug. 5, 1997, 111 Stat. 631, 632, 636; Pub. L. 105–200, title I, §§101(a), 102(b), title II, §201(f)(2)(B), July 16, 1998, 112 Stat. 646, 648, 658; Pub. L. 105–306, §4(a)(1), Oct. 28, 1998, 112 Stat. 2926; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §807(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–286; Pub. L. 106–169, title IV, §401(i), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 109–171, title VII, §§7308(a), 7309(a), Feb. 8, 2006, 120 Stat. 147.)
+(Aug. 14, 1935, ch. 531, title IV, §455, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2355; amended Pub. L. 94–88, title II, §§201(c), 205, Aug. 9, 1975, 89 Stat. 433, 435; Pub. L. 94–365, §3, July 14, 1976, 90 Stat. 990; Pub. L. 95–59, §4, June 30, 1977, 91 Stat. 255; Pub. L. 96–178, §2(a), Jan. 2, 1980, 93 Stat. 1295; Pub. L. 96–265, title IV, §§404(a), 405(a), 407(a), (b), June 9, 1980, 94 Stat. 463, 467; Pub. L. 96–611, §§9(c), 11(c), Dec. 28, 1980, 94 Stat. 3573, 3574; Pub. L. 97–35, title XXIII, §2333(c), Aug. 13, 1981, 95 Stat. 863; Pub. L. 97–248, title I, §§171(b)(2), 174(a), (b), Sept. 3, 1982, 96 Stat. 401, 403; Pub. L. 98–378, §§4(a), 6(b), 8, Aug. 16, 1984, 98 Stat. 1311, 1314, 1315; Pub. L. 100–485, title I, §§112(a), 123(c), Oct. 13, 1988, 102 Stat. 2350, 2352; Pub. L. 104–193, title III, §§344(b)(1), (c), 375(b), 395(d)(1)(E), Aug. 22, 1996, 110 Stat. 2236, 2237, 2256, 2259; Pub. L. 105–33, title V, §§5546(b), (c), 5555(a), Aug. 5, 1997, 111 Stat. 631, 632, 636; Pub. L. 105–200, title I, §§101(a), 102(b), title II, §201(f)(2)(B), July 16, 1998, 112 Stat. 646, 648, 658; Pub. L. 105–306, §4(a)(1), Oct. 28, 1998, 112 Stat. 2926; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §807(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–286; Pub. L. 106–169, title IV, §401(i), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 109–171, title VII, §§7308(a), 7309(a), Feb. 8, 2006, 120 Stat. 147.)
 
 #### References in Text
 
@@ -142,15 +142,15 @@ Section 658(b) of this title (as amended by section 5(a) of the Child Support En
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–171, §7309(a), inserted “from amounts paid to the State under section 658a of this title or” before “to carry out an agreement” in concluding provisions.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–171, §7309(a), inserted “from amounts paid to the State under section 658a of this title or” before “to carry out an agreement” in concluding provisions.
 
 Subsec. (a)(1)(C). Pub. L. 109–171, §7308(a), substituted “66 percent” for “90 percent (rather than the percentage specified in subparagraph (A))”.
 
-1999—Subsec. (a)(1)(B). Pub. L. 106–169 amended Pub. L. 104–193, §344(b)(1)(A). See 1996 Amendment note below.
+<b>1999</b>—Subsec. (a)(1)(B). Pub. L. 106–169 amended Pub. L. 104–193, §344(b)(1)(A). See 1996 Amendment note below.
 
 Subsec. (a)(5). Pub. L. 106–113 added par. (5).
 
-1998—Subsec. (a)(1)(D). Pub. L. 105–200, §102(b), added subpar. (D).
+<b>1998</b>—Subsec. (a)(1)(D). Pub. L. 105–200, §102(b), added subpar. (D).
 
 Subsec. (a)(4). Pub. L. 105–200, §101(a), added par. (4).
 
@@ -158,7 +158,7 @@ Subsec. (a)(4)(C)(iii). Pub. L. 105–306 added cl. (iii).
 
 Pub. L. 105–200, §201(f)(2)(B), made technical amendments to references in original act which appear in text as references to section 658a(b)(4), section 658a(b)(6), and section 658a(b)(5)(B) of this title.
 
-1997—Subsec. (a)(3)(B)(i). Pub. L. 105–33, §5555(a)(1), inserted “or system described in clause (iii)” after “each State” and “or system” after “the State”.
+<b>1997</b>—Subsec. (a)(3)(B)(i). Pub. L. 105–33, §5555(a)(1), inserted “or system described in clause (iii)” after “each State” and “or system” after “the State”.
 
 Subsec. (a)(3)(B)(iii). Pub. L. 105–33, §5555(a)(2), added cl. (iii).
 
@@ -168,7 +168,7 @@ Subsec. (f). Pub. L. 105–33, §5546(c), amended heading and text of subsec. (f
 
 Pub. L. 105–33, §5546(b), redesignated subsec. (b), relating to direct Federal funding to Indian tribes and tribal organizations, as (f).
 
-1996—Subsec. (a)(1). Pub. L. 104–193, §344(c), which directed repeal of Pub. L. 100–485, §123(c), was executed by restoring the provisions of this section amended by §123(c) to read as if §123(c) had not been enacted, to reflect the probable intent of Congress. See 1988 Amendment note below.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–193, §344(c), which directed repeal of Pub. L. 100–485, §123(c), was executed by restoring the provisions of this section amended by §123(c) to read as if §123(c) had not been enacted, to reflect the probable intent of Congress. See 1988 Amendment note below.
 
 Subsec. (a)(1)(B). Pub. L. 104–193, §344(b)(1)(A), as amended by Pub. L. 106–169, added subpar. (B) and struck out former subpar. (B) which read as follows: “equal to 90 percent (rather than the percent specified in subparagraph (A)) of so much of the sums expended during such quarter as are attributable to the planning, design, development, installation or enhancement of an automatic data processing and information retrieval system (including in such sums the full cost of the hardware components of such system) which the Secretary finds meets the requirements specified in section 654(16) of this title, or meets such requirements without regard to clause (D) thereof, and”.
 
@@ -178,11 +178,11 @@ Subsec. (b). Pub. L. 104–193, §375(b), added subsec. (b) relating to direct F
 
 Subsec. (e)(1). Pub. L. 104–193, §395(d)(1)(E), substituted “noncustodial parents” for “absent parents”.
 
-1988—Subsec. (a)(1). Pub. L. 100–485, §123(c), which directed striking subpars. (A) and (B), redesignating subpar. (C) as (A), striking “(rather than the percentage specified in subparagraph (A))” and inserting “and” after the semicolon in subpar. (A), and adding new subpar. (B) which read “equal to the percent specified in paragraph (2) of the total amounts expended by such State during such quarter for the operation of the plan approved under section 654 of this title;”, was repealed by Pub. L. 104–193, §344(c).
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–485, §123(c), which directed striking subpars. (A) and (B), redesignating subpar. (C) as (A), striking “(rather than the percentage specified in subparagraph (A))” and inserting “and” after the semicolon in subpar. (A), and adding new subpar. (B) which read “equal to the percent specified inparagraph (2) of the total amounts expended by such State during such quarter for the operation of the plan approved under section 654 of this title;”, was repealed by Pub. L. 104–193, §344(c).
 
 Subsec. (a)(1)(C). Pub. L. 100–485, §112(a), added subpar. (C).
 
-1984—Subsec. (a)(1). Pub. L. 98–378, §4(a)(1)–(5), designated existing provisions as par. (1) and in par. (1) as so designated, struck out “, beginning with the quarter commencing July 1, 1975,” after “for each quarter”, substituted subpar. (A) for former par. (1) which provided for an amount equal to 70 percent of the total amounts expended by the State during the quarter for the operation of the plan approved under section 654 of this title, struck out former par. (2) which provided for an amount equal to 50 percent of the total amounts expended by the State during the quarter for the operation of a plan which met the conditions of section 654 of this title except as was provided by a waiver by the Secretary which was granted pursuant to specific authority set forth in the law, redesignated former par. (3) as subpar. (B) of par. (1), and in subpar. (B) as so redesignated, substituted “subparagraph (A)” for “clause (1) or (2)”, and inserted “(including in such sums the full cost of the hardware components of such system)” and “, or meets such requirements without regard to clause (D) thereof”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–378, §4(a)(1)–(5), designated existing provisions as par. (1) and in par. (1) as so designated, struck out “, beginning with the quarter commencing July 1, 1975,” after “for each quarter”, substituted subpar. (A) for former par. (1) which provided for an amount equal to 70 percent of the total amounts expended by the State during the quarter for the operation of the plan approved under section 654 of this title, struck out former par. (2) which provided for an amount equal to 50 percent of the total amounts expended by the State during the quarter for the operation of a plan which met the conditions of section 654 of this title except as was provided by a waiver by the Secretary which was granted pursuant to specific authority set forth in the law, redesignated former par. (3) as subpar. (B) of par. (1), and in subpar. (B) as so redesignated, substituted “subparagraph (A)” for “clause (1) or (2)”, and inserted “(including in such sums the full cost of the hardware components of such system)” and “, or meets such requirements without regard to clause (D) thereof”.
 
 Subsec. (a)(2). Pub. L. 98–378, §4(a)(6), added par. (2). Former par. (2) was struck out.
 
@@ -190,13 +190,13 @@ Subsec. (a)(3). Pub. L. 98–378, §4(a)(3), redesignated par. (3) of subsec. (a
 
 Subsec. (e). Pub. L. 98–378, §8, added subsec. (e).
 
-1982—Subsec. (a)(1). Pub. L. 97–248, §174(a), substituted “70 percent” for “75 percent”.
+<b>1982</b>—Subsec. (a)(1). Pub. L. 97–248, §174(a), substituted “70 percent” for “75 percent”.
 
-Subsec. (c). Pub. L. 97–248, §174(b), struck out subsec. (c) which had provided that expenditures of courts of a State or its political subdivisions in connection with performance of services related to the operation of a plan approved under section 654 of this title, would be included in determining the amounts expended by a State during any quarter for the operation of suchplan, that the aggregate amount of such expenditures would be reduced by the total amount of those expenditures made by a State for the 12-month period beginning on Jan. 1, 1978, and that a State agency could, under State law, pay the courts of the State from amounts received under subsec. (a) of this section.
+Subsec. (c). Pub. L. 97–248, §174(b), struck out subsec. (c) which had provided that expenditures of courts of a State or its political subdivisions in connection with performance of services related to the operation of a plan approved under section 654 of this title, would be included in determining the amounts expended by a State during any quarter for the operation of such plan, that the aggregate amount of such expenditures would be reduced by the total amount of those expenditures made by a State for the 12-month period beginning on Jan. 1, 1978, and that a State agency could, under State law, pay the courts of the State from amounts received under subsec. (a) of this section.
 
-1981—Subsec. (a). Pub. L. 97–35, as amended by Pub. L. 97–248, §171(b)(2), inserted provision that in determining the total amounts expended by any State during a quarter, for purposes of this subsection, there be excluded an amount equal to the total of any fees collected or other income resulting from services provided under the plan approved under this part.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, as amended by Pub. L. 97–248, §171(b)(2), inserted provision that in determining the total amounts expended by any State during a quarter, for purposes of this subsection, there be excluded an amount equal to the total of any fees collected or other income resulting from services provided under the plan approved under this part.
 
-1980—Subsec. (a). Pub. L. 96–611, §9(c), inserted provision following par. (3) that no amount shall be paid to any State on account of amounts expended to carry out an agreement which it has entered into pursuant to section 663 of this title.
+<b>1980</b>—Subsec. (a). Pub. L. 96–611, §9(c), inserted provision following par. (3) that no amount shall be paid to any State on account of amounts expended to carry out an agreement which it has entered into pursuant to section 663 of this title.
 
 Pub. L. 96–611, §11(c), which was intended to make a technical correction in par. (3) by substituting a period for the semicolon at the end thereof, was not executed in view of the amendment by section 9(c) of Pub. L. 96–611 inserting provision following par. (3).
 
@@ -208,11 +208,11 @@ Subsec. (b)(2). Pub. L. 96–265, §407(a), substituted “Subject to subsection
 
 Subsecs. (c), (d). Pub. L. 96–265, §§404(a), 407(b), added subsecs. (c) and (d).
 
-1977—Subsec. (a). Pub. L. 95–59 substituted “September 30, 1978” for “June 30, 1977” in provisions following par. (2).
+<b>1977</b>—Subsec. (a). Pub. L. 95–59 substituted “September 30, 1978” for “June 30, 1977” in provisions following par. (2).
 
-1976—Subsec. (a). Pub. L. 94–365 substituted “June 30, 1977” for “June 30, 1976”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–365 substituted “June 30, 1977” for “June 30, 1976”.
 
-1975—Subsec. (a). Pub. L. 94–88, §§201(c), 205, designated existing provisions as subsec. (a), and inserted provisions authorizing Secretary to pay to each State for each quarter beginning with the quarter commencing July 1, 1975, an amount equal to 50 per cent of the total amounts expended by such State during such quarter for the operation of a plan which meets the conditions of section 654 of this title except as is provided by a waiver by the Secretary which is granted pursuant to specific authority set forth in the law.
+<b>1975</b>—Subsec. (a). Pub. L. 94–88, §§201(c), 205, designated existing provisions as subsec. (a), and inserted provisions authorizing Secretary to pay to each State for each quarter beginning with the quarter commencing July 1, 1975, an amount equal to 50 per cent of the total amounts expended by such State during such quarter for the operation of a plan which meets the conditions of section 654 of this title except as is provided by a waiver by the Secretary which is granted pursuant to specific authority set forth in the law.
 
 Subsec. (b). Pub. L. 94–88, §205, added subsec. (b).
 
@@ -252,7 +252,7 @@ Section 123(c) of Pub. L. 100–485 which provided that the amendment made by th
 
 Amendment by section 4(a) of Pub. L. 98–378 applicable to fiscal years after fiscal year 1983, see section 4(c) of Pub. L. 98–378, set out as a note under section 652 of this title.
 
-Amendment by section 6(b) of Pub. L. 98–378 applicable with respect to quarters beginning on or after Oct. 1, 1984, see section 6(c) of Pub. L. 98–378, set out as a note under section 654 of this title.
+Amendment by section 6(b) of Pub. L. 98–378 applicable with respect to quarters beginning on or after Oct.1, 1984, see section 6(c) of Pub. L. 98–378, set out as a note under section 654 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -270,7 +270,7 @@ Section 404(b) of Pub. L. 96–265 provided that: “The amendment made by subse
 
 Amendment by section 405(a) of Pub. L. 96–265 effective July 1, 1981, and to be effective only with respect to expenditures, referred to in subsec. (a)(3) of this section, made on or after such date, see section 405(e) of Pub. L. 96–265, set out as a note under section 652 of this title.
 
-Section 407(d) of Pub. L. 96–265 provided that: “The amendments made by this section \[amending this section and section 603 of this title\] shall be effective inthe case of calendar quarters commencing on or after January 1, 1981.”
+Section 407(d) of Pub. L. 96–265 provided that: “The amendments made by this section \[amending this section and section 603 of this title\] shall be effective in the case of calendar quarters commencing on or after January 1, 1981.”
 
 Section 2(b) of Pub. L. 96–178, as amended Pub. L. 96–272, title III, §301(a), June 17, 1980, 94 Stat. 527, provided that: “This section \[amending this section\] shall become effective on the date of the enactment of this Act \[Jan. 2, 1980\], and shall apply with respect to services furnished on or after October 1, 1978.”
 

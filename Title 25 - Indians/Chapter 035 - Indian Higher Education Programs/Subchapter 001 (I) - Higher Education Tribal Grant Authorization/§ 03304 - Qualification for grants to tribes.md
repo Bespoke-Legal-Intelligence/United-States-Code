@@ -20,7 +20,7 @@ Any Indian tribe that is not eligible to qualify for a grant under this subchapt
 
 #### (1) Continuing eligibility presumed
 
-&emsp;An Indian tribe which has qualified under subsection (a) or (b) of this section for a grant under this subchapter for any fiscal year shallcontinue to be eligible for such a grant for each succeeding fiscal year unless the Secretary revokes such eligibility for a cause described in paragraph (2).
+&emsp;An Indian tribe which has qualified under subsection (a) or (b) of this section for a grant under this subchapter for any fiscal year shall continue to be eligible for such a grant for each succeeding fiscal year unless the Secretary revokes such eligibility for a cause described in paragraph (2).
 
 #### (2) Causes for loss of eligibility
 

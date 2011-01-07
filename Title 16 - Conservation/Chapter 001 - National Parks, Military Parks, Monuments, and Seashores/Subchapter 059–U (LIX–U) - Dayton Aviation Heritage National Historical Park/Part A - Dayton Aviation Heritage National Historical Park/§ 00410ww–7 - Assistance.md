@@ -16,5 +16,5 @@ The Secretary is authorized to publish interpretative materials for historic avi
 
 #### Amendments
 
-2009—Subsecs. (b), (c). Pub. L. 111–11 added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>2009</b>—Subsecs. (b), (c). Pub. L. 111–11 added subsec. (b) and redesignated former subsec. (b) as (c).
 

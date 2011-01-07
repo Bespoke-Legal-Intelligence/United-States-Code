@@ -24,7 +24,7 @@ The Federal Power Act, referred to in subsec. (a), is act June 10, 1920, ch. 285
 
 #### Amendments
 
-1960—Subsec. (b). Pub. L. 86–507 inserted “or certified mail” after “registered mail”.
+<b>1960</b>—Subsec. (b). Pub. L. 86–507 inserted “or certified mail” after “registered mail”.
 
 #### Short Title
 

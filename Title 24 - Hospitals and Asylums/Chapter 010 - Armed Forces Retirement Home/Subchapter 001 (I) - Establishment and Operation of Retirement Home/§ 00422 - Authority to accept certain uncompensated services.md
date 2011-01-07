@@ -48,7 +48,7 @@ The Chief Operating Officer or the Director of a facility accepting services und
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–107, §1404(b)(4)(A), substituted “Chief Operating Officer or the Director of a facility” for “Chairman of the Retirement Home Board or the Director of each establishment” and struck out “unless the acceptance of the voluntary services is disapproved by the Retirement Home Board” before period at end.
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §1404(b)(4)(A), substituted “Chief Operating Officer or the Director of a facility” for “Chairman of the Retirement Home Board or the Director of each establishment” and struck out “unless the acceptance of the voluntary services is disapproved by the Retirement Home Board” before period at end.
 
 Subsec. (b)(1). Pub. L. 107–107, §1404(b)(4)(B), substituted “Chief Operating Officer or the Director of a facility” for “Chairman of the Retirement Home Board or the Director of the establishment” and inserted “offering the services” after “notify the person”.
 

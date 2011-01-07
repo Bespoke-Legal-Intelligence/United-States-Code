@@ -32,13 +32,13 @@ The Advisory Council shall make an annual report of its findings and recommendat
 
 #### (e) Alternate members
 
-Whenever a member of the Council appointed under clauses (1) through (5) is unable to attenda meeting, that member shall appoint an appropriate alternate to represent him for that meeting.
+Whenever a member of the Council appointed under clauses (1) through (5) is unable to attend a meeting, that member shall appoint an appropriate alternate to represent him for that meeting.
 
 (Pub. L. 95–87, title VIII, §805, Aug. 3, 1977, 91 Stat. 528; Pub. L. 95–617, title VI, §604(c), Nov. 9, 1978, 92 Stat. 3167; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 
 #### Amendments
 
-1978—Pub. L. 95–617 substituted “Secretary of Energy” for “Administrator” wherever appearing.
+<b>1978</b>—Pub. L. 95–617 substituted “Secretary of Energy” for “Administrator” wherever appearing.
 
 #### Change of Name
 

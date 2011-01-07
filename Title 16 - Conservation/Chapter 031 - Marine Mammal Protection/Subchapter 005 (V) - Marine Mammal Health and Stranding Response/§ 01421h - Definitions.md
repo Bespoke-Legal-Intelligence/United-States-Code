@@ -38,7 +38,7 @@ In this subchapter, the following definitions apply:
 
 #### Amendments
 
-1994—Par. (1). Pub. L. 103–238, §24(c)(7), made technical amendment to reference to section 1421d(a) of this title to reflect renumbering of corresponding section of original act.
+<b>1994</b>—Par. (1). Pub. L. 103–238, §24(c)(7), made technical amendment to reference to section 1421d(a) of this title to reflect renumbering of corresponding section of original act.
 
 Par. (5). Pub. L. 103–238, §24(c)(8), made technical amendment to reference to section 1421f(a) of this title to reflect renumbering of corresponding section of original act.
 

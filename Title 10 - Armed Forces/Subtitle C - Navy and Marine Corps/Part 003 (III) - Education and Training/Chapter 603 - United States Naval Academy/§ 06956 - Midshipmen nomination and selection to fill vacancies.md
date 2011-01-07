@@ -10,7 +10,7 @@
 
 > is not filled, the Secretary may fill the vacancies by nominating for appointment other candidates from any of these sources who were found best qualified on examination for admission and not otherwise nominated.
 
-(b) If it is determined that, upon the admission of a new class to the Academy, the numberof midshipmen at the Academy will be below the authorized number, the Secretary may fill the vacancies by nominating additional midshipmen from qualified candidates designated as alternates and from other qualified candidates who competed for nomination and are recommended and found qualified by the Academic Board. At least three-fourths of those nominated under this subsection shall be from qualified alternates under clauses (2) through (8) of section 6954(a) of this title, and the remainder shall be from qualified candidates who competed for appointment under any other provision of law. An appointment of a nominee under this subsection is an additional appointment and is not in place of an appointment otherwise authorized by law.
+(b) If it is determined that, upon the admission of a new class to the Academy, the number of midshipmen at the Academy will be below the authorized number, the Secretary may fill the vacancies by nominating additional midshipmen from qualified candidates designated as alternates and from other qualified candidates who competed for nomination and are recommended and found qualified by the Academic Board. At least three-fourths of those nominated under this subsection shall be from qualified alternates under clauses (2) through (8) of section 6954(a) of this title, and the remainder shall be from qualified candidates who competed for appointment under any other provision of law. An appointment of a nominee under this subsection is an additional appointment and is not in place of an appointment otherwise authorized by law.
 
 (c) The failure of a member of a graduating class to complete the course with his class does not delay the appointment of his successor.
 
@@ -58,9 +58,9 @@ In subsection (f) the word “admission” is changed to the word “appointment
 
 #### Amendments
 
-2006—Subsec. (a)(2). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-1990—Subsec. (a). Pub. L. 101–510, §1322(a)(14), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “The Secretary of the Navy shall, as soon as possible after the first of June of each year, notify in writing each Senator, Representative, and delegate in Congress of any vacancy that will exist at the Naval Academy because of graduation in the following year, or that may occur for other reasons, for which the member or delegate is entitled to nominate a candidate and nine alternates.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–510, §1322(a)(14), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “The Secretary of the Navy shall, as soon as possible after the first of June of each year, notify in writing each Senator, Representative, and delegate in Congress of any vacancy that will exist at the Naval Academy because of graduation in the following year, or that may occur for other reasons, for which the member or delegate is entitled to nominate a candidate and nine alternates.”
 
 Subsec. (b). Pub. L. 101–510, §1322(a)(14)(B), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 
@@ -70,15 +70,15 @@ Pub. L. 101–510, §532(b)(2), substituted “clauses (2) through (8)” for �
 
 Subsec. (d). Pub. L. 101–510, §1322(a)(14)(B), redesignated subsec. (d) as (c).
 
-1981—Subsecs. (b) to (d). Pub. L. 97–60 redesignated subsecs. (d), (e), and (f) as (b), (c), and (d), respectively. Former subsec. (b) providing that a nomination following notification under subsection (a) be made by the fourth of March of the year following that in which notice of the vacancy was given and that, if the candidate died or declined the nomination, or if the nomination could not be made by reason of a vacancy in the membership of the Senate or the House of Representatives, the nomination could be made, as determined by the Secretary, not later than the date of the final entrance examination for that year, and former subsec. (c) providing that the nomination of candidates to fill vacancies for the District of Columbia, and selection of all candidates at large, be made by the fourth of March of the year in which the candidates were to enter the Academy, were struck out.
+<b>1981</b>—Subsecs. (b) to (d). Pub. L. 97–60 redesignated subsecs. (d), (e), and (f) as (b), (c), and (d), respectively. Former subsec. (b) providing that a nomination following notification under subsection (a) be made by the fourth of March of the year following that in which notice of the vacancy was given and that, if the candidate died or declined the nomination, or if the nomination could not be made by reason of a vacancy in the membership of the Senate or the House of Representatives, the nomination could be made, as determined by the Secretary, not later than the date of the final entrance examination for that year, and former subsec. (c) providing that the nomination of candidates to fill vacancies for the District of Columbia, and selection of all candidates at large, be made by the fourth of March of the year in which the candidates were to enter the Academy, were struck out.
 
-1975—Subsec. (d). Pub. L. 94–106 substituted “enlisted members” for “enlisted men” in pars. (1) and (2).
+<b>1975</b>—Subsec. (d). Pub. L. 94–106 substituted “enlisted members” for “enlisted men” in pars. (1) and (2).
 
-1973—Subsec. (e). Pub. L. 93–171 substituted reference to clauses (2)–(9) of section 6954(a) for reference to clauses (2)–(8) of section 6954(a).
+<b>1973</b>—Subsec. (e). Pub. L. 93–171 substituted reference to clauses (2)–(9) of section 6954(a) for reference to clauses (2)–(8) of section 6954(a).
 
-1968—Subsec. (a). Pub. L. 90–374 substituted “nine alternates” for “five alternates”.
+<b>1968</b>—Subsec. (a). Pub. L. 90–374 substituted “nine alternates” for “five alternates”.
 
-1964—Subsec. (a). Pub. L. 88–276, §3(1), substituted “five alternates” for “one or more alternates”.
+<b>1964</b>—Subsec. (a). Pub. L. 88–276, §3(1), substituted “five alternates” for “one or more alternates”.
 
 Subsec. (e). Pub. L. 88–276, §3(2), substituted “three-fourths of those nominated” for “two-thirds of those nominated”.
 

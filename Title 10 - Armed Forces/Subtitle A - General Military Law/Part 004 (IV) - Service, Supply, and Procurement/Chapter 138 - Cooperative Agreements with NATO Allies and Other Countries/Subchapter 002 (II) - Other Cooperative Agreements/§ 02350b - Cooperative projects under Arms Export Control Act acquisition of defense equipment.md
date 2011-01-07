@@ -12,7 +12,7 @@
 
 &emsp;(B) terms and conditions to be included in contracts;
 
-&emsp;(C) requirements for or preferences to be given to goods grown, produced, or manufactured in the United States or in United StatesGovernment-owned facilities or for services to be performed in the United States; or
+&emsp;(C) requirements for or preferences to be given to goods grown, produced, or manufactured in the United States or in United States Government-owned facilities or for services to be performed in the United States; or
 
 &emsp;(D) requirements regulating the performance of contracts.
 
@@ -46,13 +46,13 @@ The Arms Export Control Act, referred to in subsec. (c)(1), is Pub. L. 90–629,
 
 #### Amendments
 
-2006—Subsec. (g)(2). Pub. L. 109–304 substituted “section 55305 of title 46” for “section 901(b) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(b))”.
+<b>2006</b>—Subsec. (g)(2). Pub. L. 109–304 substituted “section 55305 of title 46” for “section 901(b) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(b))”.
 
-2004—Subsec. (g). Pub. L. 108–375, §1084(d)(19)(A), inserted “the Secretary of Defense” after “authorizing” in introductory provisions.
+<b>2004</b>—Subsec. (g). Pub. L. 108–375, §1084(d)(19)(A), inserted “the Secretary of Defense” after “authorizing” in introductory provisions.
 
 Subsec. (g)(1). Pub. L. 108–375, §1084(d)(19)(B), struck out “the Secretary of Defense” before “to waive”.
 
-1996—Subsec. (c)(1). Pub. L. 104–106, §4321(b)(10)(A), inserted “prescribes” after “specifically” in introductory provisions and struck out “prescribe” before “procedures” in subpar. (A), before “terms” in subpar. (B), and before “requirements” in subpars. (C) and (D).
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–106, §4321(b)(10)(A), inserted “prescribes” after “specifically” in introductory provisions and struck out “prescribe” before “procedures” in subpar. (A), before “terms” in subpar. (B), and before “requirements” in subpars. (C) and (D).
 
 Subsec. (d)(1). Pub. L. 104–106, §4321(b)(10)(B), struck out “to” after “subcontract”.
 
@@ -60,9 +60,9 @@ Subsec. (e)(1). Pub. L. 104–106, §1335(1), inserted “or a NATO organization
 
 Subsec. (e)(2). Pub. L. 104–106, §1335(2), substituted “such a cooperative project or a NATO organization” for “a cooperative project”.
 
-1989—Pub. L. 101–189 renumbered section 2407 of this title as this section and substituted “Cooperative projects under Arms Export Control Act: acquisition of defense equipment” for “Acquisition of defense equipment under cooperative projects” as section catchline.
+<b>1989</b>—Pub. L. 101–189 renumbered section 2407 of this title as this section and substituted “Cooperative projects under Arms Export Control Act: acquisition of defense equipment” for “Acquisition of defense equipment under cooperative projects” as section catchline.
 
-1986—Pub. L. 99–661, §1103(b)(2)(A), struck out “North Atlantic Treaty Organization” before “cooperative projects” in section catchline.
+<b>1986</b>—Pub. L. 99–661, §1103(b)(2)(A), struck out “North Atlantic Treaty Organization” before “cooperative projects” in section catchline.
 
 Subsec. (a)(1). Pub. L. 99–661, §1103(b)(1)(A), struck out “North Atlantic Treaty Organization (NATO)” before “cooperative projects”.
 
@@ -74,5 +74,5 @@ Subsec. (g)(2). Pub. L. 99–661, §1343(a)(15), substituted “section 2631 of 
 
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by section 4321(b)(10) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by section 4321(b)(10) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2302 of this title.
 

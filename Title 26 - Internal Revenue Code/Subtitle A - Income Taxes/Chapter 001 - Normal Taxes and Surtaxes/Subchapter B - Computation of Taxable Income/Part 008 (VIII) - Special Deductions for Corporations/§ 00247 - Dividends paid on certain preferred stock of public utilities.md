@@ -42,7 +42,7 @@ For purposes of this section and section 244—
 
 #### (D) Issuance of stock
 
-&emsp;&emsp;For purposes of subparagraph (B), issuance of stock includes issuance either by the same or another corporation in a transaction which is a reorganization (as defined in section 368(a)) or a transaction subject to part VI of subchapter O as in effect beforeits repeal (relating to exchanges in SEC obedience orders), or the respectively corresponding provisions of the Internal Revenue Code of 1939.
+&emsp;&emsp;For purposes of subparagraph (B), issuance of stock includes issuance either by the same or another corporation in a transaction which is a reorganization (as defined in section 368(a)) or a transaction subject to part VI of subchapter O as in effect before its repeal (relating to exchanges in SEC obedience orders), or the respectively corresponding provisions of the Internal Revenue Code of 1939.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 75; Pub. L. 94–455, title XIX, §1901(a)(35), Oct. 4, 1976, 90 Stat. 1770; Pub. L. 95–600, title III, §301(b)(4), Nov. 6, 1978, 92 Stat. 2820; Pub. L. 101–508, title XI, §11801(c)(8)(C), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 104–188, title I, §1704(t)(49), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 109–135, title IV, §402(a)(5), Dec. 21, 2005, 119 Stat. 2610.)
 
@@ -52,19 +52,19 @@ The Internal Revenue Code of 1939, referred to in subsec. (b)(2)(D), is act Feb.
 
 #### Amendments
 
-2005—Subsec. (b)(2)(D). Pub. L. 109–135 inserted “as in effect before its repeal” after “part VI of subchapter O”.
+<b>2005</b>—Subsec. (b)(2)(D). Pub. L. 109–135 inserted “as in effect before its repeal” after “part VI of subchapter O”.
 
-1996—Subsec. (b)(2)(D). Pub. L. 104–188 provided that section 11801(c)(8)(C) of Pub. L. 101–508 shall be applied as if “reorganizations” appeared instead of “reorganization” in the material proposed to be stricken. See 1990 Amendment note below.
+<b>1996</b>—Subsec. (b)(2)(D). Pub. L. 104–188 provided that section 11801(c)(8)(C) of Pub. L. 101–508 shall be applied as if “reorganizations” appeared instead of “reorganization” in the material proposed to be stricken. See 1990 Amendment note below.
 
-1990—Subsec. (b)(2)(D). Pub. L. 101–508 which directed that “, a transaction to which section 371 (relating to insolvency reorganization) applies,” be struck out was executed by striking out “, a transaction to which section 371 (relating to insolvency reorganizations) applies,” after “(as defined in section 368(a))”. See 1996 Amendment note above.
+<b>1990</b>—Subsec. (b)(2)(D). Pub. L. 101–508 which directed that “, a transaction to which section 371 (relating to insolvency reorganization) applies,” be struck out was executed by striking out “, a transaction to which section 371 (relating to insolvency reorganizations) applies,” after “(as defined in section 368(a))”. See 1996 Amendment note above.
 
-1978—Subsec. (a)(2)(B). Pub. L. 95–600 substituted “the highest rate of tax specified in section 11(b)” for “the sum of the normal tax rate and the surtax rate for the taxable year specified in section 11”.
+<b>1978</b>—Subsec. (a)(2)(B). Pub. L. 95–600 substituted “the highest rate of tax specified in section 11(b)” for “the sum of the normal tax rate and the surtax rate for the taxable year specified in section 11”.
 
-1976—Subsec. (b)(2). Pub. L. 94–455 divided existing provisions into subpars. (A), (B), (C), and (D), added headings for subpars. (A), (B), (C), and (D), and, in subpar. (C) as so redesignated, substituted “prescribed by the Secretary” for “prescribed by the Secretary or his delegate”.
+<b>1976</b>—Subsec. (b)(2). Pub. L. 94–455 divided existing provisions into subpars. (A), (B), (C), and (D), added headings for subpars. (A), (B), (C), and (D), and, in subpar. (C) as so redesignated, substituted “prescribed by the Secretary” for “prescribed by the Secretary or his delegate”.
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
 
 #### Effective Date of 1978 Amendment
 

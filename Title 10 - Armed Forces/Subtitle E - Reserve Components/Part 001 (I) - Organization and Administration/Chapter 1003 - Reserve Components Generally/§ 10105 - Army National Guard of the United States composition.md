@@ -18,7 +18,7 @@ Pub. L. 103–160, div. A, title V, §515, Nov. 30, 1993, 107 Stat. 1650, provid
 
 “(a)
 
-Requirement To Establish.—The Secretary of the Army shall, not later than September 30, 1995, establish one or more active-component units of theArmy with the primary mission of providing training support to reserve units. Each such unit shall be part of the active Army force structure and shall have a commander who is on the active-duty list of the Army.
+Requirement To Establish.—The Secretary of the Army shall, not later than September 30, 1995, establish one or more active-component units of the Army with the primary mission of providing training support to reserve units. Each such unit shall be part of the active Army force structure and shall have a commander who is on the active-duty list of the Army.
 
 “(b)
 
@@ -46,7 +46,7 @@ Additional Prior Active Duty Officers.—The Secretary of the Army shall increas
 
 “(b)
 
-Additional Prior Active Duty Enlisted Members.—The Secretary of the Army shall increase the number of qualified prior active-duty enlisted members in the Army National Guard through the use of enlistments as described in section 8020 of the Department of Defense Appropriations Act, 1994 (Public Law 103–139) \[107 Stat. 1441\]. The Secretary shall enlist not fewer than 1,000 new enlisted members each year under enlistments described in that section.
+Additional Prior Active Duty Enlisted Members.—The Secretary of the Army shall increase the number of qualified prior active-duty enlisted membersin the Army National Guard through the use of enlistments as described in section 8020 of the Department of Defense Appropriations Act, 1994 (Public Law 103–139) \[107 Stat. 1441\]. The Secretary shall enlist not fewer than 1,000 new enlisted members each year under enlistments described in that section.
 
 “(c)
 
@@ -134,7 +134,7 @@ Time for Qualification for Deployment.—(1) If at the end of 24 months after a 
 
 #### “SEC. 1121. DEPLOYABILITY RATING SYSTEM.
 
-“The Secretary of the Army shall modify the readiness rating system for units of the Army Reserve and Army National Guard to ensure that the rating system provides an accurate assessment of the deployability of a unit and those shortfalls of a unit that require the provision of additional resources. In making such modifications, the Secretary shall ensure that the unit readiness rating system is designed so—
+“The Secretary of the Army shall modify the readiness rating system for units of the Army Reserve andArmy National Guard to ensure that the rating system provides an accurate assessment of the deployability of a unit and those shortfalls of a unit that require the provision of additional resources. In making such modifications, the Secretary shall ensure that the unit readiness rating system is designed so—
 
 &emsp;“(1) that the personnel readiness rating of a unit reflects—
 

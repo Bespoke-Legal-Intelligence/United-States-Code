@@ -16,7 +16,7 @@ General.—It is the policy of the United States—
 
 &emsp;(6) that airport development projects under this subchapter provide for the protection and enhancement of natural resources and the quality of the environment of the United States;
 
-&emsp;(7) that airport construction and improvement projects that increase the capacity of facilities to accommodate passenger and cargo traffic be undertaken to the maximum feasible extent so that safety and efficiency increase and delays decrease;
+&emsp;(7) that airport construction and improvement projects that increase the capacity of facilities to accommodate passenger and cargotraffic be undertaken to the maximum feasible extent so that safety and efficiency increase and delays decrease;
 
 &emsp;(8) to ensure that nonaviation usage of the navigable airspace be accommodated but not allowed to decrease the safety and capacity of the airspace and airport system;
 
@@ -64,7 +64,7 @@ Consistency With Air Commerce and Safety Policies.—Each airport and airway pro
 
 (e)
 
-Adequacy of Navigation Aids and Airport Facilities.—This subchapter should be carried out to provide adequate navigation aids and airport facilities for places at which scheduled commercial air service is provided. The facilities provided may include—
+Adequacy of Navigation Aids and Airport Facilities.—This subchapter should be carriedout to provide adequate navigation aids and airport facilities for places at which scheduled commercial air service is provided. The facilities provided may include—
 
 &emsp;(1) reliever airports; and
 
@@ -266,19 +266,19 @@ This amends 49:47101(a)(12) to translate a cross-reference to the Airport and Ai
 
 #### Amendments
 
-2000—Subsec. (a)(5). Pub. L. 106–181, §137(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “to encourage the development of transportation systems that use various modes of transportation in a way that will serve the States and local communities efficiently and effectively;”.
+<b>2000</b>—Subsec. (a)(5). Pub. L. 106–181, §137(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “to encourage the development of transportation systems that use various modes of transportation in a way that will serve the States and local communities efficiently and effectively;”.
 
 Subsec. (a)(11). Pub. L. 106–181, §121(a), inserted “(including integrated in-pavement lighting systems for runways and taxiways and other runway and taxiway incursion prevention devices)” after “employ innovative technology”.
 
 Subsec. (f)(11). Pub. L. 106–181, §121(b), added par. (11).
 
-1996—Subsec. (g). Pub. L. 104–264 substituted “
+<b>1996</b>—Subsec. (g). Pub. L. 104–264 substituted “
 
 Intermodal Planning” for “
 
 Cooperation” in heading and amended text generally. Prior to amendment, text read as follows: “To carry out the policy of subsection (a)(5) of this section, the Secretary of Transportation shall cooperate with State and local officials in developing airport plans and programs that are based on overall transportation needs. The airport plans and programs shall be developed in coordination with other transportation planning and considering comprehensive long-range land-use plans and overall social, economic, environmental, system performance, and energy conservation objectives. The process of developing airport plans and programs shall be continuing, cooperative, and comprehensive to the degree appropriate to the complexity of the transportation problems.”
 
-1994—Subsec. (a)(11). Pub. L. 103–305, §104, added par. (11).
+<b>1994</b>—Subsec. (a)(11). Pub. L. 103–305, §104, added par. (11).
 
 Subsec. (a)(12). Pub. L. 103–429 substituted “subchapter” for “Act”.
 
@@ -308,7 +308,7 @@ Pub. L. 106–181, title I, §158, Apr. 5, 2000, 114 Stat. 90, provided that: �
 
 #### Innovative Financing Techniques
 
-Pub. L. 104–264, title I, §148, Oct. 9, 1996, 110 Stat. 3223, authorized the Secretary of Transportation until Sept. 30, 1998, to carry out a demonstration program to provide information on the use of innovative financing techniques for airport development projects to Congress and the National Civil Aviation Review Commission. See section 47135 of this title.
+Pub. L. 104–264, title I, §148, Oct. 9, 1996, 110 Stat. 3223, authorized the Secretary of Transportation until Sept. 30, 1998, to carry out a demonstration program to provide information on the use of innovative financingtechniques for airport development projects to Congress and the National Civil Aviation Review Commission. See section 47135 of this title.
 
 #### Authority To Close Airport Located Near Closed or Realigned Military Base
 

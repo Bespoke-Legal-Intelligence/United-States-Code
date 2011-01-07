@@ -22,7 +22,7 @@ Vacancy Promotion Boards.—Consideration for promotion under this section shall
 
 (d)
 
-Effect of Nonselection.—An officer who is considered for promotion under this section and is not selected shall not be considered to have failed of selection for promotion.
+Effect of Nonselection.—An officer who is considered for promotion under this sectionand is not selected shall not be considered to have failed of selection for promotion.
 
 (e)
 
@@ -36,15 +36,15 @@ Provisions similar to those in this section were contained in sections 3384 and 
 
 #### Amendments
 
-2003—Subsec. (a)(1). Pub. L. 108–136 substituted “under regulations prescribed by the Secretary concerned, has been recommended” for “as determined by the Secretary concerned, is available”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136 substituted “under regulations prescribed by the Secretary concerned, has been recommended” for “as determined by the Secretary concerned, is available”.
 
-2000—Subsec. (b)(1)(A). Pub. L. 106–398, §1 \[\[div. A\], title V, §501(1)\], inserted “or is recommended for such an assignment under regulations prescribed by the Secretary of the Army” after “Army Reserve”.
+<b>2000</b>—Subsec. (b)(1)(A). Pub. L. 106–398, §1 \[\[div. A\], title V, §501(1)\], inserted “or is recommended for such an assignment under regulations prescribed by the Secretary of the Army” after “Army Reserve”.
 
 Subsec. (b)(2)(A). Pub. L. 106–398, §1 \[\[div. A\], title V, §501(2)\], inserted “or is recommended for such an assignment under regulations prescribed by the Secretary of the Air Force” after “reserve grade”.
 
-1997—Subsec. (b)(1)(A). Pub. L. 105–85 substituted “duties of a general officer of the next higher reserve grade in the Army Reserve,” for “duties of a general officer of the next higher reserve grade in a unit of the Army Reserve organized to serve as a unit,”.
+<b>1997</b>—Subsec. (b)(1)(A). Pub. L. 105–85 substituted “duties of a general officer of the next higher reserve grade in the Army Reserve,” for “duties of a general officer of the next higher reserve grade in a unit of the Army Reserve organized to serve as a unit,”.
 
-1996—Subsec. (a). Pub. L. 104–106 substituted “or a reserve officer” for “or a Reserve officer” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106 substituted “or a reserve officer” for “or a Reserve officer” in introductory provisions.
 
 #### Effective Date of 1996 Amendment
 

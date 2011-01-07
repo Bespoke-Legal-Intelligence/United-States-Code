@@ -14,7 +14,7 @@ In order to strengthen the administrative capability and financial responsibilit
 
 &emsp;&emsp;(C) institutions with a significant fluctuation in Federal Stafford Loan volume, Federal Direct Stafford/Ford Loan volume, or Federal Pell Grant award volume, or any combination thereof, in the year for which the determination is made, compared to the year prior to such year, that are not accounted for by changes in the Federal Stafford Loan program, the Federal Direct Stafford/Ford Loan program, or the Pell Grant program, or any combination thereof;
 
-&emsp;&emsp;(D) institutions reported to have deficiencies or financial aid problems by the State licensing or authorizing agency, or by the appropriate accrediting agency or association;
+&emsp;&emsp;(D) institutions reported to have deficiencies or financial aid problems by theState licensing or authorizing agency, or by the appropriate accrediting agency or association;
 
 &emsp;&emsp;(E) institutions with high annual dropout rates; and
 
@@ -34,7 +34,7 @@ In order to strengthen the administrative capability and financial responsibilit
 
 #### (b) Special administrative rules
 
-In carrying out paragraphs (1) and (2) of subsection (a) of this section and any other relevantprovisions of this subchapter and part C of subchapter I of chapter 34 of title 42, the Secretary shall—
+In carrying out paragraphs (1) and (2) of subsection (a) of this section and any other relevant provisions of this subchapter and part C of subchapter I of chapter 34 of title 42, the Secretary shall—
 
 &emsp;(1) establish guidelines designed to ensure uniformity of practice in the conduct of program reviews of institutions of higher education;
 
@@ -74,9 +74,9 @@ The provisions of section 3403(b) of this title shall not apply to Secretarial d
 
 #### Amendments
 
-2008—Subsec. (b)(6) to (8). Pub. L. 110–315 added pars. (6) to (8).
+<b>2008</b>—Subsec. (b)(6) to (8). Pub. L. 110–315 added pars. (6) to (8).
 
-1998—Subsec. (a)(2). Pub. L. 105–244, §494(1)(A)(i), substituted “shall” for “may” in introductory provisions.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–244, §494(1)(A)(i), substituted “shall” for “may” in introductory provisions.
 
 Subsec. (a)(2)(C). Pub. L. 105–244, §494(1)(A)(ii), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “institutions with a significant fluctuation in Federal Stafford Loan volume or Federal Pell Grant awards, or both, in the year for which the determination is made compared to the year prior to such year;”.
 
@@ -98,7 +98,7 @@ Subsec. (b). Pub. L. 105–244, §494(2), amended heading and text of subsec. (b
 
 “(2) The Secretary shall review the regulations of the Department and the application of such regulations to ensure the uniformity of interpretation and application of the regulations.”
 
-1993—Subsec. (e). Pub. L. 103–208 struck out comma after “title”.
+<b>1993</b>—Subsec. (e). Pub. L. 103–208 struck out comma after “title”.
 
 #### Effective Date of 1998 Amendment
 

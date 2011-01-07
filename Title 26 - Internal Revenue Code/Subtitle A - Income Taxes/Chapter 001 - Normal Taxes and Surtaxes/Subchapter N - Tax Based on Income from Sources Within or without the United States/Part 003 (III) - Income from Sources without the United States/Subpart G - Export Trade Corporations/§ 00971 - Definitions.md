@@ -32,7 +32,7 @@ For the purposes of this subpart, the term “export trade income” means net i
 
 &emsp;(4) interest from export trade assets described in subsection (c)(4).
 
-> For purposes of paragraph (3), if a controlled foreign corporation receives income from an unrelated person attributable to the use of export property in the rendition of services to such unrelated person together with income attributable to the rendition of other services to such unrelated person, including personal services, the amount of such aggregate income which shall be considered to be attributable to the useof the export property shall (if such amount cannot be established by reference to transactions between unrelated persons) be that part of such aggregate income which the cost of the export property consumed in the rendition of such services (including a reasonable allowance for depreciation) bears to the total cost and expenses attributable to such aggregate income.
+> For purposes of paragraph (3), if a controlled foreign corporation receives income from an unrelated person attributable to the use of export property in the rendition of services to such unrelated person together with income attributable to the rendition of other services to such unrelated person, including personal services, the amount of such aggregate income which shall be considered to be attributable to the use of the export property shall (if such amount cannot be established by reference to transactions between unrelated persons) be that part of such aggregate income which the cost of the export property consumed in the rendition of such services (including a reasonable allowance for depreciation) bears to the total cost and expenses attributable to such aggregate income.
 
 #### (c) Export trade assets
 
@@ -72,7 +72,7 @@ For purposes of this subpart, the term “unrelated person” means a person oth
 
 #### Amendments
 
-1971—Subsec. (a)(3). Pub. L. 92–178 added par. (3).
+<b>1971</b>—Subsec. (a)(3). Pub. L. 92–178 added par. (3).
 
 #### Treatment of Certain Former Export Trade Corporations
 

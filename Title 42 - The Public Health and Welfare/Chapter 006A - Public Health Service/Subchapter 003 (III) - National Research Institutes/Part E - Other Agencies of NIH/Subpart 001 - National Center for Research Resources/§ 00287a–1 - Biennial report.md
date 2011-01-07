@@ -6,5 +6,5 @@ The Director of the Center, after consultation with the advisory council for the
 
 #### Amendments
 
-1993—Pub. L. 103–43 substituted “the Center” for “the Division of Research Resources” and “the Center” for “the Division” wherever appearing.
+<b>1993</b>—Pub. L. 103–43 substituted “the Center” for “the Division of Research Resources” and “the Center” for “the Division” wherever appearing.
 

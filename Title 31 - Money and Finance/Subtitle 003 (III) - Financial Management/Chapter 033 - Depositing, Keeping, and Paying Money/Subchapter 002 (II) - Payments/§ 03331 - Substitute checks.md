@@ -76,7 +76,7 @@ R.S. §3646(a)–(c), (f), (g); Feb. 16, 1885, ch. 123, 23 Stat. 306; Mar. 23, 1
 
 31:528(b), (c)(1st sentence 196th–236th words).
 
-In subsection (a), before clause (1), the words “The term . . . wherever used” are omitted as unnecessary. In clause (1), before subclause (A), the words “check, warrant, or other” are omitted as surplus. In subclause (C), the word “duly” is omitted as surplus. The words “disbursing official or agent” are substituted for “officer or agent” for consistency in the revised title. The words “any wholly owned or mixed-ownership Government corporation” are omitted as already being included in the restated source provisions and because of section 101 of the revised title. Therefore, the text is not meant to exclude employees of wholly owned Government corporations and mixed-ownership Government corporations. The words “the District of Columbia, or the District Unemployment Compensation Board” are omitted because of section 448 of the Act of December 24, 1973 (Pub. L. 93–198, 87 Stat. 801). The words “or by any entity owned or controlled by the United States” are omitted as unnecessary. In subclause (D), the words “and covered . . . or deposited with the Treasurer of the United States” are omitted as surplus. The words “or another account available for payment” are added for clarity and consistency in the revised section. In clause (2), the word “money” is omitted as being covered by “coins and currency”.
+In subsection (a), before clause (1), the words “The term . . . wherever used” are omitted as unnecessary. In clause (1), before subclause (A), the words “check, warrant, or other” are omitted as surplus. In subclause\(C), the word “duly” is omitted as surplus. The words “disbursing official or agent” are substituted for “officer or agent” for consistency in the revised title. The words “any wholly owned or mixed-ownership Government corporation” are omitted as already being included in the restated source provisions and because of section 101 of the revised title. Therefore, the text is not meant to exclude employees of wholly owned Government corporations and mixed-ownership Government corporations. The words “the District of Columbia, or the District Unemployment Compensation Board” are omitted because of section 448 of the Act of December 24, 1973 (Pub. L. 93–198, 87 Stat. 801). The words “or by any entity owned or controlled by the United States” are omitted as unnecessary. In subclause (D), the words “and covered . . . or deposited with the Treasurer of the United States” are omitted as surplus. The words “or another account available for payment” are added for clarity and consistency in the revised section. In clause (2), the word “money” is omitted as being covered by “coins and currency”.
 
 In subsections (b) and (c), the words “When the Secretary is satisfied” are substituted for “whenever it is clearly proved to the satisfaction of the Secretary” to eliminate unnecessary words. The words “mutilated or” are omitted as being covered by “defaced”.
 
@@ -96,11 +96,11 @@ The words “terms and” are omitted as surplus. The words “duties and powers
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–134, §31001(x)(2)(A), substituted “subsection (c) or (f)” for “subsection (c)”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–134, §31001(x)(2)(A), substituted “subsection (c) or (f)” for “subsection (c)”.
 
 Subsecs. (f), (g). Pub. L. 104–134, §31001(x)(2)(B), (C), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1983—Subsec. (f). Pub. L. 97–452 added subsec. (f).
+<b>1983</b>—Subsec. (f). Pub. L. 97–452 added subsec. (f).
 
 #### Effective Date of 1983 Amendment
 

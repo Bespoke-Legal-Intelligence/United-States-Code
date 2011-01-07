@@ -4,6 +4,12 @@ There is established in the executive branch of the Government an independent ag
 
 (May 10, 1950, ch. 171, §2, 64 Stat. 149.)
 
+#### Short Title of 2011 Amendment
+
+Pub. L. 111–358, §1(a), Jan. 4, 2011, 124 Stat. 3982, provided that: “this \[probably should be “This”\] Act \[see Tables for classification\] may be cited as the ‘America COMPETES Reauthorization Act of 2010’ or the ‘America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010’.”
+
+Pub. L. 111–358, title V, §501, Jan. 4, 2011, 124 Stat. 4005, provided that: “This subtitle \[subtitle A (§§501–527) of title V of Pub. L. 111–358, enacting sections 1862p to 1862p–15 of this title, amending sections 1862n–1a, 1862n–5, 1863, and 1869 of this title, and enacting provisions set out as notes under sections 1862p and 1869 of this title\] may be cited as the ‘National Science Foundation Authorization Act of 2010’.”
+
 #### Short Title of 2002 Amendment
 
 Pub. L. 107–368, §1, Dec. 19, 2002, 116 Stat. 3034, provided that: “This Act \[enacting sections 1862n to 1862n–10 of this title, amending sections 1862i, 1862<i>l</i>, 1863, 1873, and 1885 of this title, enacting provisions set out as notes under sections 1862b, 1862g, 1862n, 1864, and 1885c of this title, and amending provisions set out as a note under section 1862k of this title\] may be cited as the ‘National Science Foundation Authorization Act of 2002’.”
@@ -18,11 +24,11 @@ Pub. L. 102–476, §1, Oct. 23, 1992, 106 Stat. 2297, provided that: “This Ac
 
 #### Short Title of 1988 Amendments
 
-Pub. L. 100–570, §1, Oct. 31, 1988, 102 Stat. 2865, provided that: “This Act \[enacting sections 1862a to 1862g,1870a, and 1881b of this title, amending sections 1863, 1873, 1874, and 1885c of this title and sections 3011 to 3013 of Title 20, Education, repealing former sections 1862a and 1862b of this title, enacting provisions set out as notes under sections 1861, 1875, and 7704 of this title and section 3911 of Title 20, and repealing provisions set out as a note under section 1861 of this title\] may be cited as the ‘National Science Foundation Authorization Act of 1988’.”
+Pub. L. 100–570, §1, Oct. 31, 1988, 102 Stat. 2865, provided that: “This Act \[enacting sections 1862a to 1862g, 1870a, and 1881b of this title, amending sections 1863, 1873, 1874, and 1885c of this title and sections 3011 to 3013 of Title 20, Education, repealing former sections 1862a and 1862b of this title, enacting provisions set out as notes under sections 1861, 1875, and 7704 of this title and section 3911 of Title 20, and repealing provisions set out as a note under section 1861 of this title\] may be cited as the ‘National Science Foundation Authorization Act of 1988’.”
 
 Pub. L. 100–570, title II, §201, Oct. 31, 1988, 102 Stat. 2873, provided that: “This title \[enacting sections 1862a to 1862d of this title, repealing former sections 1862a and 1862b of this title, and repealing provisions set out as a note under section 1861 of this title\] may be cited as the ‘Academic Research Facilities Modernization Act of 1988’.”
 
-Pub. L. 100–418, title VI, §6401, Aug. 23, 1988, 102 Stat. 1542, which provided that subtitle E (§§6401–6403) of title VI of Pub. L. 100–418, enacting sections 1862a and 1862b of this title, was to be cited as the “National Science Foundation University Infrastructure Act of 1988”, was repealed by Pub. L. 100–570, title II, §206, Oct. 31, 1988, 102 Stat. 2878.
+Pub. L. 100–418, title VI, §6401, Aug. 23, 1988, 102 Stat. 1542, which provided that subtitle E (§§6401–6403) of title VI of Pub. L. 100–418, enacting sections 1862a and 1862bof this title, was to be cited as the “National Science Foundation University Infrastructure Act of 1988”, was repealed by Pub. L. 100–570, title II, §206, Oct. 31, 1988, 102 Stat. 2878.
 
 #### Short Title of 1986 Amendment
 
@@ -78,9 +84,9 @@ Sec. 4. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472
 
 #### Part II—National Science Foundation
 
-I74Section 21. Executive Committee
+#### Section 21. Executive Committee
 
-(a) There is hereby established the Executive Committee of the National Science Board, hereafter in this Part referred to as the Executive Committee, which shall be composed of five voting members. Four of themembers shall be elected as hereinafter provided. The Director provided for in section 22 of this reorganization plan, ex officio, shall be the fifth member and the chairman of the Executive Committee.
+(a) There is hereby established the Executive Committee of the National Science Board, hereafter in this Part referred to as the Executive Committee, which shall be composed of five voting members. Four of the members shall be elected as hereinafter provided. The Director provided for in section 22 of this reorganization plan, ex officio, shall be the fifth member and the chairman of the Executive Committee.
 
 (b) At its annual meeting held in 1964 and at each of its succeeding annual meetings the National Science Board, hereafter in this Part referred to as the Board, shall elect two of its members as members of the Executive Committee, and the Executive Committee members so elected shall hold office for two years from the date of their election. Any person who has been a member of the Executive Committee (established by this reorganization plan) for six consecutive years shall thereafter be ineligible for service as a member thereof during the two-year period following the expiration of such sixth year. For the purposes of this subsection, the period between any two consecutive annual meetings of the Board shall be deemed to be one year.
 
@@ -118,7 +124,7 @@ I74Section 21. Executive Committee
 
 #### Part III. Transitional Provisions
 
-I74Section 31. Incidental Transfers
+#### Section 31. Incidental Transfers
 
 (a) So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, held, used, available, or to be made available, in connection with the functions transferred by the provisions of section 3 of this reorganization plan as the Director of the Bureau of the Budget shall determine shall be transferred to the Office of Science and Technology at such time or times as the said Director shall direct.
 
@@ -132,7 +138,7 @@ I74Section 31. Incidental Transfers
 
 (c) The President may authorize any person who serves in an acting capacity under the foregoing provisions of this section to receive the compensation attached to the office in respect of which he so serves. Such compensation, if authorized, shall be in lieu of, but not in addition to, other compensation from the United States to which such person may be entitled.
 
-\[Amendments by Pub. L. 90–407, July 18, 1968, 82 Stat. 360, intended to continue in effect the existing offices,procedures, and organization of the National Science Foundation as provided by this chapter, part II of Reorg. Plan No. 2 of 1962, and Reorg. Plan No. 5 of 1965, but on and after July 18, 1968, part II of Reorg. Plan No. 2 of 1962, and Reorg. Plan No. 5 of 1965, as being of no force or effect, and nothing in Pub. L. 90–407 as altering or affecting any transfers of functions made by part I of Reorg. Plan No. 2 of 1962, see section 16 of Pub. L. 90–407, set out as Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation note under section 1862 of this title.\]
+\[Amendments by Pub. L. 90–407, July 18, 1968, 82 Stat. 360, intended to continue in effect the existing offices, procedures, and organization of the National Science Foundation as provided by this chapter, part II of Reorg. Plan No. 2 of 1962, and Reorg. Plan No. 5 of 1965, but on and after July 18, 1968, part II of Reorg. Plan No. 2 of 1962, and Reorg. Plan No. 5 of 1965, as being of no force or effect, and nothing in Pub. L. 90–407 as altering or affecting any transfers of functions made by part I of Reorg. Plan No. 2 of 1962, see section 16 of Pub. L. 90–407, set out as Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation note under section 1862 of this title.\]
 
 #### Message of the President
 
@@ -140,7 +146,7 @@ I74Section 31. Incidental Transfers
 
 I transmit herewith Reorganization Plan No. 2 of 1962, prepared in accordance with the provisions of the Reorganization Act of 1949, as amended, and providing for certain reorganizations in the field of science and technology.
 
-Part I of the reorganization plan establishes the Office of Science and Technology as a new unit within the Executive Office of the President; places at the head thereof a Director appointed by the President by and with the advice and consent of the Senate and makes provision for a Deputy Director similarly appointed; and transfers to the Director certain functions of the National Science Foundation under sections 3(a)(1) and 3(a)(6) of the National Science Foundation Act of 1950.
+Part I of the reorganization plan establishes the Office of Science and Technology as a new unit within theExecutive Office of the President; places at the head thereof a Director appointed by the President by and with the advice and consent of the Senate and makes provision for a Deputy Director similarly appointed; and transfers to the Director certain functions of the National Science Foundation under sections 3(a)(1) and 3(a)(6) of the National Science Foundation Act of 1950.
 
 The new arrangements incorporated in part I of the reorganization plan will constitute an important development in executive branch organization for science and technology. Under those arrangements the President will have permanent staff resources capable of advising and assisting him on matters of national policy affected by or pertaining to science and technology. Considering the rapid growth and far-reaching scope of Federal activities in science and technology, it is imperative that the President have adequate staff support in developing policies and evaluating programs in order to assure that science and technology are used most effectively in the interests of national security and general welfare.
 

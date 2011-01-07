@@ -44,7 +44,133 @@ Historical and Revision Notes
 
 46:391a(12)
 
-Section 3703 requires the Secretary to issue regulations to implement this section. Specific items are listed to be included within the regulations issued. The regulatory authority must be exercised under the Administrative Procedure Act and, in prescribing theseregulations, the Secretary must consider the kinds and grades of cargo carried on board. Furthermore, in addition to any requirements of the Administrative Procedure Act, the Secretary must establish specific consultation procedures for considering the views of various specified interested officials, groups, and individuals. The procedures are intended to provide for consultation as early as possible in the regulatory process.
+Section 3703 requires the Secretary to issue regulations to implement this section. Specific items are listed to be included within the regulations issued. The regulatory authority must be exercised under the Administrative Procedure Act and, in prescribing these regulations, the Secretary must consider the kinds and grades of cargo carried on board. Furthermore, in addition to any requirements of the Administrative Procedure Act, the Secretary must establish specific consultation procedures for considering the views of various specified interested officials, groups, and individuals. The procedures are intended to provide for consultation as early as possible in the regulatory process.
+
+#### Oil Fuel Tank Protection
+
+Pub. L. 111–281, title VI, §617(e), Oct. 15, 2010, 124 Stat. 2973, provided that:
+
+“(1)
+
+Application.—An offshore supply vessel of at least 6,000 gross tons as measured under section 14302 of title 46, United States Code, that is constructed under a contract entered into after the date of enactment of this Act \[Oct. 15, 2010\], or that is delivered after August 1, 2010, with an aggregate capacity of 600 cubic meters or more of oil fuel, shall comply with the requirements of Regulation 12A under Annex I to the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973, entitled Oil Fuel Tank Protection, regardless of whether such vessel is engaged in the coastwise trade or on an international voyage.
+
+“(2)
+
+Definition.—In this subsection the term ‘oil fuel’ means any oil used as fuel in connection with the propulsion and auxiliary machinery of the vessel in which such oil is carried.”
+
+#### Regulations for Offshore Supply Vessels of at Least 6,000 Gross Tons
+
+Pub. L. 111–281, title VI, §617(f), Oct. 15, 2010, 124 Stat. 2974, as amended by Pub. L. 111–330, §1(8), Dec. 22, 2010, 124 Stat. 3569, provided that:
+
+“(1)
+
+In general.—Not later than January 1, 2012, the Secretary of the department in which the Coast Guard is operating shall promulgate regulations to implement the amendments and authorities enacted by this section \[amending sections 2101, 3702, 7312, and 8104 of this title, enacting provisions set out as a note under this section, and amending provisions set out as a note under section 2101 of this title\] for offshore supply vessels of at least 6,000 gross tons as measured under section 14302 of title 46, United States Code, and to ensure the safe carriage of oil, hazardous substances, and individuals in addition to the crew on such vessels. The final rule issued pursuant to such rulemaking may supersede the interim final rule promulgated under paragraph (2) of this subsection. In promulgating regulations under this subsection, the Secretary shall take into consideration the characteristics of offshore supply vessels, their methods of operation, and their service in support of exploration, exploitation, or production of offshore mineral or energy resources.
+
+“(2)
+
+Interim final rule authority.—As soon as is practicable and without regard to the provisions of chapters 5 and 6 of title 5, United States Code, the Secretary shall issue an interim final rule as a temporary regulation implementing this section (including the amendments made by this section) for offshore supply vessels of at least 6,000 gross tons as measured under section 14302 of title 46, United States Code, and to ensure the safe carriage of oil, hazardous substances, and individuals in addition to the crew on such vessels.
+
+“(3)
+
+Interim period.—After the effective date of this Act \[Oct. 15, 2010\], prior to the effective date of the regulations prescribed by paragraph (2) of this subsection, and without regard to the provisions of chapters 5 and 6 of title 5, United States Code, and the offshore supply vessel tonnage limits of applicable regulations and policy guidance promulgated prior to the date of enactment of this Act \[Oct. 15, 2010\], the Secretary of the department in which the Coast Guard is operating may—
+
+&emsp;“(A) issue a certificate of inspection under section 3309 of title 46, United States Code, to an offshore supply vessel of at least 6,000 gross tons as measured under section 14302 of that title if the Secretary determines that such vessel's arrangements and equipment meet the current Coast Guard requirements for certification as a cargo and miscellaneous vessel;
+
+&emsp;“(B) authorize a master, mate, or engineer who possesses an ocean or near coastal license and endorsement under part 11 of subchapter B of title 46, Code of Federal Regulations, (or any successor regulation) that qualifies the licensed officer for service on offshore supply vessels of at least 3,000 gross tons but less than 6,000 gross tons, as measured under section 14302 of title 46, United States Code, to operate offshore supply vessels of at least 6,000 gross tons, as measured under such section; and
+
+&emsp;“(C) authorize any such master, mate, or engineer who also possesses an ocean or near coastal license and endorsement under such part that qualifies the licensed officer for service on non trade-restricted vessels of at least 1,600 gross tons but less than 3,000 gross tons, as measured under such section, to increase the tonnage limitation of such license and endorsement under section 11.402(c) of such part, using service on vessels certificated under both subchapters I and L of such title and measured only under such section, except that such tonnage limitation shall not exceed 10,000 gross tons as measured under such section.”
+
+#### Oil Transfers From Vessels
+
+Pub. L. 111–281, title VII, §702, Oct. 15, 2010, 124 Stat. 2980, as amended by Pub. L. 111–330, §1(10), Dec. 22, 2010, 124 Stat. 3570, provided that:
+
+“(a)
+
+Regulations.—Within 1 year after the date of enactment of this Act \[Oct. 15, 2010\], the Secretary of the department in which the Coast Guard is operating shall promulgate regulations to reduce the risks of oil spills in operations involving the transfer of oil from or to a tank vessel. The regulations—
+
+&emsp;“(1) shall focus on operations that have the highest risks of discharge, including operations at night and in inclement weather;
+
+&emsp;“(2) shall consider—
+
+&emsp;&emsp;“(A) requirements for the use of equipment, such as putting booms in place for transfers, safety, and environmental impacts;
+
+&emsp;&emsp;“(B) operational procedures such as manning standards, communications protocols, and restrictions on operations in high-risk areas; or
+
+&emsp;&emsp;“(C) both such requirements and operational procedures; and
+
+&emsp;“(3) shall take into account the safety of personnel and effectiveness of available procedures and equipment for preventing or mitigating transfer spills.
+
+“(b)
+
+Application With State Laws.—The regulations promulgated under subsection (a) do not preclude the enforcement of any State law or regulation the requirements of which are at least as stringent as requirements under the regulations (as determined by the Secretary) that—
+
+&emsp;“(1) applies in State waters; and
+
+&emsp;“(2) does not conflict with, or interfere with the enforcement of, requirements and operational procedures under the regulations.”
+
+#### Improvements To Reduce Human Error and Near Miss Incidents
+
+Pub. L. 111–281, title VII, §703, Oct. 15, 2010, 124 Stat. 2981, as amended by Pub. L. 111–330, §1(11), Dec. 22, 2010, 124 Stat. 3570, provided that:
+
+“(a)
+
+Report.—Within 1 year after the date of enactment of this Act \[Oct. 15, 2010\], the Secretary of the department in which the Coast Guard is operating shall transmit a report to the Senate Committee on Commerce, Science, and Transportation and the House Committee on Transportation and Infrastructure that, using available data—
+
+&emsp;“(1) identifies the types of human errors that, combined, could cause oil spills, with particular attention to human error caused by fatigue, in the past 10 years;
+
+&emsp;“(2) in consultation with representatives of industry and labor and experts in the fields of marine casualties and human factors, identifies the most frequent types of near-miss oil spill incidents involving vessels such as collisions, allisions, groundings, and loss of propulsion in the past 10 years;
+
+&emsp;“(3) describes the extent to which there are gaps in the data required under paragraphs (1) and (2), including gaps in the ability to define and identify fatigue, and explains the reason for those gaps; and
+
+&emsp;“(4) includes recommendations by the Secretary and representatives of industry and labor and experts in the fields of marine casualties and human factors to address the identified types of errors and any such gaps in the data.
+
+“(b)
+
+Measures.—Based on the findings contained in the report required by subsection (a), the Secretary shall take appropriate action to reduce the risk of oil spills caused by human error.
+
+“(c)
+
+Confidentiality of Voluntarily Submitted Information.—The identity of a person making a voluntary disclosure under this section, and any information obtained from any such voluntary disclosure, shall be treated as confidential.
+
+“(d)
+
+Discovery of Voluntarily Submitted Information.—
+
+&emsp;“(1)
+
+In general.—Except as provided in this subsection, a party in a judicial proceeding may not use discovery to obtain information or data collected or received by the Secretary for use in the report required in subsection (a).
+
+&emsp;“(2)
+
+Exception.—
+
+&emsp;&emsp;“(A) Notwithstanding paragraph (1), a court may allow discovery by a party in a judicial proceeding of data described in paragraph (1) if, after an in camera review of the information or data, the court decides that there is a compelling reason to allow the discovery.
+
+&emsp;&emsp;“(B) When a court allows discovery in a judicial proceeding as permitted under this paragraph, the court shall issue a protective order—
+
+&emsp;&emsp;&emsp;“(i) to limit the use of the data to the judicial proceeding; and
+
+&emsp;&emsp;&emsp;“(ii) to prohibit dissemination of the data to any person who does not need access to the data for the proceeding.
+
+&emsp;&emsp;“(C) A court may allow data it has decided is discoverable under this paragraph to be admitted into evidence in a judicial proceeding only if the court places the data under seal to prevent the use of the data for a purpose other than for the proceeding.
+
+&emsp;“(3)
+
+Application.—Paragraph (1) shall not apply to—
+
+&emsp;&emsp;“(A) any disclosure made with actual knowledge that the disclosure was false, inaccurate, or misleading; or
+
+&emsp;&emsp;“(B) any disclosure made with reckless disregard as to the truth or falsity of that disclosure.
+
+“(e)
+
+Restriction on Use of Data.—Data that is voluntarily submitted for the purpose of the study required under subsection (a) shall not be used in an administrative action under chapter 77 of title 46, United States Code.”
+
+\[Pub. L. 111–330, §1(11), Dec. 22, 2010, 124 Stat. 3570, which directed amendment of section 703(a) of Pub. L. 111–281, set out above, by inserting “of the department in which the Coast Guard is operating” after “Secretary”, was executed by making the insertion after “Secretary” the first place appearing, to reflect the probable intent of Congress.\]
+
+#### Preservation of State Authority
+
+Pub. L. 111–281, title VII, §711(c), Oct. 15, 2010, 124 Stat. 2987, provided that: “Nothing in this Act \[see Tables for classification\] or in any other provision of Federal law related to the regulation of maritime transportation of oil shall affect, or be construed or interpreted as preempting, the authority of any State or political subdivision thereof which require the escort by one or more tugs of laden oil tankers in the areas which are specified in section 4116(c) of the Oil Pollution Act of 1990 \[Pub. L. 101–380\] (46 U.S.C. 3703 note).”
 
 #### Studies Addressing Various Sources of Oil Spill Risk
 
@@ -80,7 +206,7 @@ Report.—Not later than 18 months after the date of enactment of this Act \[Oct
 
 &emsp;“(5)
 
-Rulemaking.—If the Secretary of Transportation determines, based on the results of the study under this subsection, that there are significant risks to public health or the environment resulting from the actual or threatened discharge of group-5 fuel oil from a vessel or facility that cannot be technologically or economically addressed by existing or anticipated cleanup efforts, the Secretary may initiate a rulemaking to take such action as is necessary to abate the threat.
+Rulemaking.—If the Secretary of Transportation determines, based on the results of the study under this subsection, that there are significant risks to public health or the environment resulting from the actual or threatened discharge of group-5 fuel oilfrom a vessel or facility that cannot be technologically or economically addressed by existing or anticipated cleanup efforts, the Secretary may initiate a rulemaking to take such action as is necessary to abate the threat.
 
 “(b)
 
@@ -158,7 +284,7 @@ Use.—No sooner than 1 year after the Secretary prescribes regulations under su
 
 &emsp;“(2) tank level or pressure monitoring devices,
 
-> which are referred to in subsection (a) and which meet any standards established by the Secretary under subsection (a), on vessels constructed or adapted to carry, or that carry, oil in bulk as cargo or cargo residue on the navigable waters and the waters of the exclusive economic zone.”
+> which are referred to in subsection (a) and which meet any standards established by the Secretary under subsection (a), on vessels constructed or adapted to carry, or that carry, oil in bulk as cargo or cargo residue onthe navigable waters and the waters of the exclusive economic zone.”
 
 #### Tanker Navigation Safety Standards Study
 
@@ -170,13 +296,31 @@ Pub. L. 101–380, title IV, §4114(a), Aug. 18, 1990, 104 Stat. 517, provided t
 
 #### Regulations Requiring Escorts for Certain Tankers; “Tanker” Defined
 
-Pub. L. 101–380, title IV, §4116(c), (d), Aug. 18, 1990, 104 Stat. 523, provided that:
+Pub. L. 101–380, title IV, §4116(c), (d), Aug. 18, 1990, 104 Stat. 523, as amended by Pub. L. 111–281, title VII, §711(b)(1), Oct. 15, 2010, 124 Stat. 2987, provided that:
 
 “(c)
 
-Escorts for Certain Tankers.—Not later than 6 months after the date of the enactment of this Act \[Aug. 18, 1990\], the Secretary shall initiate issuance of regulations under section 3703(a)(3) of title 46, United States Code, to define those areas, including Prince William Sound, Alaska, and Rosario Strait and Puget Sound, Washington (including those portions of the Strait of Juan de Fuca east of Port Angeles, Haro Strait, and the Strait of Georgia subject to United States jurisdiction), on which single hulled tankers over 5,000 gross tons transporting oil in bulk shall be escorted by at least two towing vessels (as defined under section 2101 of title 46, United States Code) or other vessels considered appropriate by the Secretary.
+Escorts for Certain Tankers.—
+
+&emsp;“(1)
+
+In general.—The Secretary shall initiate issuance of regulations under section 3703(a)(3) of title 46, United States Code, to define those areas, including Prince William Sound, Alaska, and Rosario Strait and Puget Sound, Washington (including those portions of the Strait of Juan de Fuca east of Port Angeles, Haro Strait, and the Strait of Georgia subject to United States jurisdiction), on which single hulled tankers over 5,000 gross tons transporting oil in bulk shall be escorted by at least two towing vessels (as defined under section 2101 of title 46, United States Code) or other vessels considered appropriate by the Secretary.
+
+&emsp;“(2)
+
+Prince william sound, alaska.—
+
+&emsp;&emsp;“(A)
+
+In general.—The requirement in paragraph (1) relating to single hulled tankers in Prince William Sound, Alaska, described in that paragraph being escorted by at least 2 towing vessels or other vessels considered to be appropriate by the Secretary (including regulations promulgated in accordance with section 3703(a)(3) of title 46, United States Code, as set forth in part 168 of title 33, Code of Federal Regulations (as in effect on March 1, 2009) implementing this subsection with respect to those tankers) shall apply to double hulled tankers over 5,000 gross tons transporting oil in bulk in Prince William Sound, Alaska.
+
+&emsp;&emsp;“(B)
+
+Implementation of requirements.—The Secretary of the department in which the Coast Guard is operating shall prescribe interim final regulations to carry out subparagraph (A) as soon as practicable without notice and hearing pursuant to section 553 of title 5 of the United States Code.”
 
 “(d)
 
 Tanker Defined.—In this section \[amending section 8502 of this title\] the term ‘tanker’ has the same meaning the term has in section 2101 of title 46, United States Code.”
+
+\[Pub. L. 111–281, title VII, §711(b)(2), Oct. 15, 2010, 124 Stat. 2987, provided that: “The amendments made by subsection (b) \[amending section 4116(c) of Pub. L. 101–380, set out above\] take effect on the date that is 90 days after the date of enactment of this Act \[Oct. 15, 2010\].”\]
 

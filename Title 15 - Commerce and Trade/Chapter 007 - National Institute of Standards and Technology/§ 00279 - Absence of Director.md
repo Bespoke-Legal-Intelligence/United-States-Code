@@ -10,7 +10,7 @@ Section was not enacted as part of the National Institute of Standards and Techn
 
 #### Amendments
 
-1988—Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “Bureau of Standards” and “Institute” for “bureau”.
+<b>1988</b>—Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “Bureau of Standards” and “Institute” for “bureau”.
 
 #### Change of Name
 

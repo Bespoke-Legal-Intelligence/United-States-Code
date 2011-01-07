@@ -10,7 +10,11 @@ At a minimum, the regulations promulgated under subsection (a) shall preclude a 
 
 #### (c) Covered contracts
 
-This section applies to any cost-reimbursement type contract or task or delivery order in an amount greater than the simplified acquisition threshold (as defined by section 403 of title 41) entered into by the Department to facilitate response to or recovery from a natural disaster or act of terrorism or other man-made disaster.
+This section applies to any cost-reimbursement type contract or task or delivery order in an amount greater than the simplified acquisition threshold (as defined by section 134 of title 41) entered into by the Department to facilitate response to or recovery from a natural disaster or act of terrorism or other man-made disaster.
 
 (Pub. L. 109–295, title VI, §692, Oct. 4, 2006, 120 Stat. 1458.)
+
+#### Codification
+
+In subsec. (c), “section 134 of title 41” substituted for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

@@ -4,7 +4,7 @@
 
 Notwithstanding any other provision of this chapter, the Secretary may not deny approval of a State plan for a covered State, or an application of a covered State for financial assistance, under this chapter or find a covered State (including a State board or Governor), or a local area (including a local board or chief elected official) in a covered State, in violation of a provision of this chapter, on the basis that—
 
-&emsp;(1)(A) the State proposes to allocate or disburse, allocates, or disburses, within the State, funds made available to the State under section 2852 or 2862 of this title in accordance with the allocation formula for the type of activities involved, or in accordance with a disbursal procedure or process, used by the State under prior consistent State laws; or
+&emsp;(1)(A) the State proposes to allocate or disburse, allocates, or disburses, within theState, funds made available to the State under section 2852 or 2862 of this title in accordance with the allocation formula for the type of activities involved, or in accordance with a disbursal procedure or process, used by the State under prior consistent State laws; or
 
 &emsp;(B) a local board in the State proposes to disburse, or disburses, within the local area, funds made available to a State under section 2852 or 2862 of this title in accordance with a disbursal procedure or process used by a private industry council under prior consistent State law;
 

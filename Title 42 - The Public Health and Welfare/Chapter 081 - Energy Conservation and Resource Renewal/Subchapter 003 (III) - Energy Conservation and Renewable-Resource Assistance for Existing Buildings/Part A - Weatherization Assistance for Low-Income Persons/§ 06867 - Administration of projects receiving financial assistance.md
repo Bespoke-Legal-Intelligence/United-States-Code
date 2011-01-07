@@ -20,5 +20,5 @@ Payments under this part may be made in installments and in advance, or by way o
 
 #### Amendments
 
-1980—Subsecs. (a) to (c). Pub. L. 96–294 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1980</b>—Subsecs. (a) to (c). Pub. L. 96–294 substituted “Secretary” for “Administrator” wherever appearing.
 

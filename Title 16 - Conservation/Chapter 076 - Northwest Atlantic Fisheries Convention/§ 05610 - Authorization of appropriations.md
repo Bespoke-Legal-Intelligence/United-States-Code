@@ -6,9 +6,9 @@ There are authorized to be appropriated to carry out this chapter, including use
 
 #### Amendments
 
-2007—Pub. L. 109–479 substituted “2012” for “2006”.
+<b>2007</b>—Pub. L. 109–479 substituted “2012” for “2006”.
 
-2002—Pub. L. 107–372 substituted “2006” for “2001”.
+<b>2002</b>—Pub. L. 107–372 substituted “2006” for “2001”.
 
-1998—Pub. L. 105–384 substituted “for each fiscal year through fiscal year 2001” for “for each of the fiscal years 1995, 1996, 1997, and 1998”.
+<b>1998</b>—Pub. L. 105–384 substituted “for each fiscal year through fiscal year 2001” for “for each of the fiscal years 1995, 1996, 1997, and 1998”.
 

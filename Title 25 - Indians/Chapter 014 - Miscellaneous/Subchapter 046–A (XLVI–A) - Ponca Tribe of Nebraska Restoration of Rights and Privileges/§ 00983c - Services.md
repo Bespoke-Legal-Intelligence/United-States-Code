@@ -6,5 +6,5 @@ Notwithstanding any other provision of law, the Tribe and its members shall be e
 
 #### Amendments
 
-1996—Pub. L. 104–109 inserted “Sarpy, Burt, Platte, Stanton, Holt, Hall, Wayne,” before “Knox” and substituted “, Woodbury or Pottawattomie Counties of Iowa, or Charles Mix County” for “or Charles Mix County”.
+<b>1996</b>—Pub. L. 104–109 inserted “Sarpy, Burt, Platte, Stanton, Holt, Hall, Wayne,” before “Knox” and substituted “, Woodbury or Pottawattomie Counties of Iowa, or Charles Mix County” for “or Charles Mix County”.
 

@@ -24,7 +24,7 @@ In fiscal year 2004, the Secretary shall collect information from the States des
 
 #### (c) Submission of reports to Congress
 
-The Secretary shall submit to the appropriate committees of the Congress reports describingthe information collected under subsection (b) of this section.
+The Secretary shall submit to the appropriate committees of the Congress reports describing the information collected under subsection (b) of this section.
 
 (July 1, 1944, ch. 373, title XXVI, §2628, as added Pub. L. 106–345, title II, §213, Oct. 20, 2000, 114 Stat. 1342; amended Pub. L. 109–415, title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
@@ -38,9 +38,9 @@ A prior section 2628 of act July 1, 1944, was classified to section 300ff–36 o
 
 #### Amendments
 
-2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+<b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 Subsec. (a)(1)(B). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease”.
 

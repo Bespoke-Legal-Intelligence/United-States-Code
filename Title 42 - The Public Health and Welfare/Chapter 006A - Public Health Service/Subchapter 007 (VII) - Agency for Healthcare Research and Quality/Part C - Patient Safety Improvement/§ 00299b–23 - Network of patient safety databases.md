@@ -20,7 +20,7 @@ The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 5
 
 #### Prior Provisions
 
-A prior section 923 of act July 1, 1944, was renumbered section 933 and is classified to section 299c–2 of this title.
+A prior section 923 of act July 1, 1944, was renumbered section 943 and is classified to section 299c–2 of this title.
 
 Another prior section 923 of act July 1, 1944, was classified to section 299c–2 of this title prior to the general amendment of this subchapter by Pub. L. 106–129.
 

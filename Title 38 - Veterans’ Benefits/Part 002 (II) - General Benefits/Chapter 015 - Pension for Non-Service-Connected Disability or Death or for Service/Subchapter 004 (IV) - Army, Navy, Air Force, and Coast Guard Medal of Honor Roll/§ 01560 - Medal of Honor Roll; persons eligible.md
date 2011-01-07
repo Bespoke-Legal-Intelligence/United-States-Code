@@ -6,25 +6,25 @@
 
 (c) Applications for entry on such roll shall be made in the form and under regulations prescribed by the Secretary concerned, and shall indicate whether or not the applicant desires to receive the special pension provided by section 1562 of this title. Proper blanks and instructions shall be furnished by the Secretary concerned, without charge upon the request of any person claiming the benefits of this subchapter.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1139, §560; Pub. L. 87–138, §1, Aug. 14, 1961, 75 Stat. 338; Pub. L. 88–77, §5(1), July 25, 1963, 77 Stat. 95; Pub. L. 88–651, Oct. 13, 1964, 78 Stat. 1078; Pub. L. 89–311, §4, Oct. 31, 1965, 79 Stat. 1156; Pub. L. 91–24, §5, June 11, 1969, 83 Stat. 33; Pub. L. 94–169, title I, §106(41), Dec. 23, 1975, 89 Stat. 1019; renumbered §1560 and amended Pub. L. 102–83, §§4(b)(4)(A), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 405, 406; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1139, §560; Pub. L. 87–138, §1, Aug. 14, 1961, 75 Stat. 338; Pub.L. 88–77, §5(1), July 25, 1963, 77 Stat. 95; Pub. L. 88–651, Oct. 13, 1964, 78 Stat. 1078; Pub. L. 89–311, §4, Oct. 31, 1965, 79 Stat. 1156; Pub. L. 91–24, §5, June 11, 1969, 83 Stat. 33; Pub. L. 94–169, title I, §106(41), Dec. 23, 1975, 89 Stat. 1019; renumbered §1560 and amended Pub. L. 102–83, §§4(b)(4)(A), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 405, 406; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315.)
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 560 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 560 of this title as this section.
 
 Subsec. (b). Pub. L. 102–83, §4(b)(4)(A), substituted “that Secretary” for second reference to “the Secretary”.
 
 Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “1562” for “562”.
 
-1975—Subsec. (b). Pub. L. 94–169 substituted “such person” for “himself” and “such person's” for “his”.
+<b>1975</b>—Subsec. (b). Pub. L. 94–169 substituted “such person” for “himself” and “such person's” for “his”.
 
-1969—Subsec. (a). Pub. L. 91–24 substituted “Department of Transportation” for “Department of the Treasury”.
+<b>1969</b>—Subsec. (a). Pub. L. 91–24 substituted “Department of Transportation” for “Department of the Treasury”.
 
-1965—Subsec. (b). Pub. L. 89–311 struck out requirement that prospective enrollees have attained the age of forty before being eligible for entry on the roll.
+<b>1965</b>—Subsec. (b). Pub. L. 89–311 struck out requirement that prospective enrollees have attained the age of forty before being eligible for entry on the roll.
 
-1964—Subsec. (b). Pub. L. 88–651 substituted “forty years” for “fifty years” and “beyond the call of duty while so serving” for “beyond the call of duty—
+<b>1964</b>—Subsec. (b). Pub. L. 88–651 substituted “forty years” for “fifty years” and “beyond the call of duty while so serving” for “beyond the call of duty—
 
 &emsp;“(1) while engaged in action against an enemy of the United States;
 
@@ -32,11 +32,11 @@ Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “1562” for “562”.
 
 &emsp;“(3) while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.”
 
-1963—Subsec. (a). Pub. L. 88–77 inserted references to Department of the Treasury and to Coast Guard.
+<b>1963</b>—Subsec. (a). Pub. L. 88–77 inserted references to Department of the Treasury and to Coast Guard.
 
 Subsec. (b). Pub. L. 88–77 enlarged the authority to enter and record names on the Medal of Honor Roll, which was limited to persons who served in the active military, naval or air service of the United States in any war, and who distinguished themselves by gallantry or intrepidity in action involving actual conflict with an enemy, to permit entering and recording names of persons who served on active duty in the Armed Forces of the United States distinguish themselves by gallantry and intrepidity while engaged in action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 
-1961—Subsec. (b). Pub. L. 87–138, §1(a), reduced the age requirement for entry on the Medal of Honor Roll from 65 to 50 years and struck out requirement that such person must have received an honorable discharge.
+<b>1961</b>—Subsec. (b). Pub. L. 87–138, §1(a), reduced the age requirement for entry on the Medal of Honor Roll from 65 to 50 years and struck out requirement that such person must have received an honorable discharge.
 
 Subsec. (c). Pub. L. 87–138, §1(b), required applicants to indicate if they wished to receive the pension provided by section 562 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Employer
 
-For purposes of this chapter, the term “employer” means any carrier (as defined in subsection (g)), and any company which is directly or indirectly owned or controlled by one or more such carriers or under common control therewith, and which operates any equipment or facility or performs any service (except trucking service, casual service, and the casual operation of equipment or facilities) in connection with the transportation of passengers or property by railroad, or the receipt, delivery, elevation, transfer in transit, refrigeration or icing, storage, or handling of property transported by railroad, and any receiver, trustee, or other individual or body, judicial or otherwise, when in the possession of the property or operating all or any part of the business of any such employer; except that the term “employer” shall not include any street, interurban, or suburban electric railway, unless such railway is operating as a part of a general steam-railroad system of transportation, but shall not exclude any part of the general steam-railroad system of transportation now or hereafter operated by any othermotive power. The Surface Transportation Board is hereby authorized and directed upon request of the Secretary, or upon complaint of any party interested, to determine after hearing whether any line operated by electric power falls within the terms of this exception. The term “employer” shall also include railroad associations, traffic associations, tariff bureaus, demurrage bureaus, weighing and inspection bureaus, collection agencies and other associations, bureaus, agencies, or organizations controlled and maintained wholly or principally by two or more employers as hereinbefore defined and engaged in the performance of services in connection with or incidental to railroad transportation; and railway labor organizations, national in scope, which have been or may be organized in accordance with the provisions of the Railway Labor Act, as amended (45 U.S.C., chapter 8), and their State and National legislative committees and their general committees and their insurance departments and their local lodges and divisions, established pursuant to the constitutions and bylaws of such organizations. The term “employer” shall not include any company by reason of its being engaged in the mining of coal, the supplying of coal to an employer where delivery is not beyond the mine tipple, and the operation of equipment or facilities therefor, or in any of such activities.
+For purposes of this chapter, the term “employer” means any carrier (as defined in subsection (g)), and any company which is directly or indirectly owned or controlled by one or more such carriers or under common control therewith, and which operates any equipment or facility or performs any service (except trucking service, casual service, and the casual operation of equipment or facilities) in connection with the transportation of passengers or property by railroad, or the receipt, delivery, elevation, transfer in transit, refrigeration or icing, storage, or handling of property transported by railroad, and any receiver, trustee, or other individual or body, judicial or otherwise, when in the possession of the property or operating all or any part of the business of any such employer; except that the term “employer” shall not include any street, interurban, or suburban electric railway, unless such railway is operating as a part of a general steam-railroad system of transportation, but shall not exclude any part of the general steam-railroad system of transportation now or hereafter operated by any other motive power. The Surface Transportation Board is hereby authorized and directed upon request of the Secretary, or upon complaint of any party interested, to determine after hearing whether any line operated by electric power falls within the terms of this exception. The term “employer” shall also include railroad associations, traffic associations, tariff bureaus, demurrage bureaus, weighing and inspection bureaus, collection agencies and other associations, bureaus, agencies, or organizations controlled and maintained wholly or principally by two or more employers as hereinbefore defined and engaged in the performance of services in connection with or incidental to railroad transportation; and railway labor organizations, national in scope, which have been or may be organized in accordance with the provisions of the Railway Labor Act, as amended (45 U.S.C., chapter 8), and their State and National legislative committees and their general committees and their insurance departments and their local lodges and divisions, established pursuant to theconstitutions and bylaws of such organizations. The term “employer” shall not include any company by reason of its being engaged in the mining of coal, the supplying of coal to an employer where delivery is not beyond the mine tipple, and the operation of equipment or facilities therefor, or in any of such activities.
 
 #### (b) Employee
 
@@ -36,7 +36,7 @@ For purposes of this chapter, an individual is in the service of an employer whe
 
 &emsp;(2) he renders such service for compensation;
 
-> except that an individual shall be deemed to be in the service of an employer, other than a local lodge or division or a general committee of arailway-labor-organization employer, not conducting the principal part of its business in the United States, only when he is rendering service to it in the United States; and an individual shall be deemed to be in the service of such a local lodge or division only if—
+> except that an individual shall be deemed to be in the service of an employer, other than a local lodge or division or a general committee of a railway-labor-organization employer, not conducting the principal part of its business in the United States, only when he is rendering service to it in the United States; and an individual shall be deemed to be in the service of such a local lodge or division only if—
 
 &emsp;(3) all, or substantially all, the individuals constituting its membership are employees of an employer conducting the principal part of its business in the United States; or
 
@@ -48,7 +48,7 @@ For purposes of this chapter, an individual is in the service of an employer whe
 
 &emsp;(6) all, or substantially all, the individuals represented by it are employees of an employer conducting the principal part of its business in the United States; or
 
-&emsp;(7) he acts in the capacity of a general chairman or an assistant general chairman of a general committee which represents individuals rendering service in the United States to an employer, but in such case if his office or headquarters is not located in the United States and the individuals represented by such general committee are employees of an employer not conducting the principal part of its business in the United States, only such proportion of the remuneration for such service shall be regarded as compensation as the proportion which the mileage in the United States under the jurisdiction of such general committee bears to the total mileage under its jurisdiction, unless such mileage formula is inapplicable, in which case such other formula as the Railroad Retirement Board may have prescribed pursuant to section 1(c) of the Railroad Retirement Act of 1937 (45 U.S.C. 228a) shall be applicable, and if the application of such mileage formula, or such other formula as the Board may prescribe, would result in the compensation of the individual being less than 10 percent of his remuneration for such service, no part of such remuneration shall be regarded as compensation;
+&emsp;(7) he acts in the capacity of a general chairman or an assistant general chairman of ageneral committee which represents individuals rendering service in the United States to an employer, but in such case if his office or headquarters is not located in the United States and the individuals represented by such general committee are employees of an employer not conducting the principal part of its business in the United States, only such proportion of the remuneration for such service shall be regarded as compensation as the proportion which the mileage in the United States under the jurisdiction of such general committee bears to the total mileage under its jurisdiction, unless such mileage formula is inapplicable, in which case such other formula as the Railroad Retirement Board may have prescribed pursuant to section 1(c) of the Railroad Retirement Act of 1937 (45 U.S.C. 228a) shall be applicable, and if the application of such mileage formula, or such other formula as the Board may prescribe, would result in the compensation of the individual being less than 10 percent of his remuneration for such service, no part of such remuneration shall be regarded as compensation;
 
 > <i>Provided however</i>, That an individual not a citizen or resident of the United States shall not be deemed to be in the service of an employer when rendering service outside the United States to an employer who is required under the laws applicable in the place where the service is rendered to employ therein, in whole or in part, citizens or residents thereof; and the laws applicable on August 29, 1935, in the place where the service is rendered shall be deemed to have been applicable there at all times prior to that date.
 
@@ -64,7 +64,7 @@ For purposes of this chapter—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “compensation” does not include that part of remuneration paid during any calendar year to an individual by an employer after remuneration equal tothe applicable base has been paid during such calendar year to such individual by such employer for services rendered as an employee to such employer.
+&emsp;&emsp;&emsp;The term “compensation” does not include that part of remuneration paid during any calendar year to an individual by an employer after remuneration equal to the applicable base has been paid during such calendar year to such individual by such employer for services rendered as an employee to such employer.
 
 #### (ii) Remuneration not treated as compensation excluded
 
@@ -190,45 +190,45 @@ Section 2(a) of the Railroad Unemployment Insurance Act, referred to in subsec. 
 
 #### Amendments
 
-2004—Subsec. (e)(5). Pub. L. 108–357, §320(b)(2), inserted “108(f)(4),” after “74(c),”.
+<b>2004</b>—Subsec. (e)(5). Pub. L. 108–357, §320(b)(2), inserted “108(f)(4),” after “74(c),”.
 
 Subsec. (e)(12). Pub. L. 108–357, §251(a)(2), added par. (12).
 
-2003—Subsec. (e)(11). Pub. L. 108–173 added par. (11).
+<b>2003</b>—Subsec. (e)(11). Pub. L. 108–173 added par. (11).
 
-2001—Subsec. (e)(2)(A)(iii)(II). Pub. L. 107–90, §204(e)(3), substituted “3211(a)” for “3211(a)(1)”.
+<b>2001</b>—Subsec. (e)(2)(A)(iii)(II). Pub. L. 107–90, §204(e)(3), substituted “3211(a)” for “3211(a)(1)”.
 
 Subsec. (e)(2)(B)(ii)(I). Pub. L. 107–90, §204(e)(4), substituted “3211(b)” for “3211(a)(2)”.
 
 Subsec. (e)(4)(A). Pub. L. 107–90, §204(e)(3), substituted “3211(a)” for “3211(a)(1)”.
 
-2000—Subsec. (e)(10). Pub. L. 106–554 substituted “Archer MSA” for “Medical savings account” in heading.
+<b>2000</b>—Subsec. (e)(10). Pub. L. 106–554 substituted “Archer MSA” for “Medical savings account” in heading.
 
-1996—Subsec. (e)(10). Pub. L. 104–191 added par. (10).
+<b>1996</b>—Subsec. (e)(10). Pub. L. 104–191 added par. (10).
 
-1995—Subsec. (a). Pub. L. 104–88, §304(d)(1), substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
+<b>1995</b>—Subsec. (a). Pub. L. 104–88, §304(d)(1), substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
 
 Subsec. (g). Pub. L. 104–88, §304(d)(2), substituted “a rail carrier subject to part A of subtitle IV” for “an express carrier, sleeping car carrier, or rail carrier providing transportation subject to subchapter I of chapter 105”.
 
-1994—Subsec. (e)(1). Pub. L. 103–296 substituted “(J), (M), or (Q)” for “(J), or (M)” in two places.
+<b>1994</b>—Subsec. (e)(1). Pub. L. 103–296 substituted “(J), (M), or (Q)” for “(J), or (M)” in two places.
 
-1993—Subsec. (e)(2)(A)(iii). Pub. L. 103–66, §13207(c)(1), added cl. (iii).
+<b>1993</b>—Subsec. (e)(2)(A)(iii). Pub. L. 103–66, §13207(c)(1), added cl. (iii).
 
 Subsec. (e)(2)(B)(i). Pub. L. 103–66, §13207(c)(2), amended heading and text of cl. (i) generally. Prior to amendment, text read as follows:
 
 “(I)
 
-In general.—Except as provided in subclause (II) of this clause and in clause (ii), the term ‘applicable base’ means for any calendar year the contribution and benefit base determined under section 230 of the Social Security Act for such calendar year.
+In general.—Except as provided in subclause (II) of this clause and in clause (ii), the term ‘applicablebase’ means for any calendar year the contribution and benefit base determined under section 230 of the Social Security Act for such calendar year.
 
 “(II)
 
 Hospital insurance taxes.—For purposes of applying so much of the rate applicable under section 3201(a) or 3221(a) (as the case may be) as does not exceed the rate of tax in effect under section 3101(b), and for purposes of applying so much of the rate of tax applicable under section 3211(a)(1) as does not exceed the rate of tax in effect under section 1401(b), the term ‘applicable base’ means for any calendar year the applicable contribution base determined under section 3121(x)(2) for such calendar year.”
 
-1990—Subsec. (e)(2)(B)(i). Pub. L. 101–508, §11331(c), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “Except as provided in clause (ii), the term ‘applicable base’ means for any calendar year the contribution and benefit base determined under section 230 of the Social Security Act for such calendar year.”
+<b>1990</b>—Subsec. (e)(2)(B)(i). Pub. L. 101–508, §11331(c), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “Except as provided in clause (ii), the term ‘applicable base’ means for any calendar year the contribution and benefit base determined under section 230 of the Social Security Act for such calendar year.”
 
 Subsec. (e)(8) to (10). Pub. L. 101–508, §11704(a)(19), redesignated pars. (9) and (10) as (8) and (9), respectively.
 
-1989—Subsec. (e)(1). Pub. L. 101–239, §10207(b), inserted at end “Nothing in the regulations prescribed for purposes of chapter 24 (relating to wage withholding) which provides an exclusion from ‘wages’ as used in such chapter shall be construed to require a similar exclusion from ‘compensation’ in regulations prescribed for purposes of this chapter.”
+<b>1989</b>—Subsec. (e)(1). Pub. L. 101–239, §10207(b), inserted at end “Nothing in the regulations prescribed for purposes of chapter 24 (relating to wage withholding) which provides an exclusion from ‘wages’ as used in such chapter shall be construed to require a similar exclusion from ‘compensation’ in regulations prescribed for purposes of this chapter.”
 
 Pub. L. 101–239, §10206(a), substituted “(iii)” for “or (iii)” and inserted “, or (iv) any remuneration which would not (if chapter 21 applied to such remuneration) be treated as wages (as defined in section 3121(a)) by reason of section 3121(a)(5)”.
 
@@ -240,21 +240,21 @@ Subsec. (e)(9). Pub. L. 101–239, §10206(b), added par. (9).
 
 Subsec. (e)(10). Pub. L. 101–239, §10207(a), added par. (10).
 
-1988—Subsec. (e)(1). Pub. L. 100–647, §1001(d)(2)(C)(ii), substituted “(F), (J), or (M)” for “(F) or (J)” in two places.
+<b>1988</b>—Subsec. (e)(1). Pub. L. 100–647, §1001(d)(2)(C)(ii), substituted “(F), (J), or (M)” for “(F) or (J)” in two places.
 
 Subsec. (e)(8). Pub. L. 100–647, §1011B(a)(22)(B), added par. (8).
 
-1986—Subsec. (e)(5). Pub. L. 99–514, §122(e)(2), inserted reference to section 74(c).
+<b>1986</b>—Subsec. (e)(5). Pub. L. 99–514, §122(e)(2), inserted reference to section 74(c).
 
 Subsec. (e)(6), (7). Pub. L. 99–514, §1899A(41), redesignated par. (6), relating to amounts excludable under section 120, as (7).
 
-1984—Subsec. (e)(5). Pub. L. 98–369, §531(d)(2), added par. (5).
+<b>1984</b>—Subsec. (e)(5). Pub. L. 98–369, §531(d)(2), added par. (5).
 
 Subsec. (e)(6). Pub. L. 98–611 added par. (6) relating to amounts excludable under section 127.
 
 Pub. L. 98–612 added par. (6) relating to amounts excludable under section 120.
 
-1983—Subsec. (e)(1). Pub. L. 98–76, §225(a)(3), struck out provisions that compensation which was paid in one calendar month but which would be payable in a prior or subsequent taxable month but for the fact prescribed date of payment would fall on a Saturday, Sunday or legal holiday would be deemed to have been paid in such prior or subsequent taxable month and that compensation which was earned during the period for which the Secretary would require a return of taxes under this chapter to be made and which was payable during the calendar month following such period would be deemed to have been paid during such period only.
+<b>1983</b>—Subsec. (e)(1). Pub. L. 98–76, §225(a)(3), struck out provisions that compensation which was paid in one calendar month but which would be payable in a prior or subsequent taxable month but for the fact prescribed date of payment would fall on a Saturday, Sunday or legal holiday would be deemed to have been paid in such prior or subsequent taxable month and that compensation which was earned during the period for which the Secretary would require a return of taxes under this chapter to be made and which was payable during the calendar month following such period would be deemed to have been paid during such period only.
 
 Subsec. (e)(2). Pub. L. 98–76, §225(a)(1), amended par. (2) generally, substituting provisions which exclude compensation in excess of applicable base, which define “applicable base”, and which provide for the applicability of successor employer provisions to this paragraph, for provisions that a payment made by an employer to an individual through the employer's payroll would be presumed, in the absence of evidence to the contrary, to be compensation for service rendered by such individual as an employee of the employer in the period with respect to which the payment was made, that an employee receiving retroactive wage payments would be deemed to be paid compensation in the period during which such compensation was earned only upon a written request by such employee, made within six months following the payment, and a showing that such compensation was earned during a period other than the period in which it was paid, that an employee would be deemed to be paid “for time lost” the amount he was paid by an employer with respect to an identifiable period of absence from the active service of the employer, including absence on account of personal injury, and the amount he was paid by the employer for loss of earnings resulting from his displacement to a less remunerative position or occupation, and that if a payment was made by an employer with respect to a personal injury and included pay for time lost, the total payment would be deemed to be paid for time lost unless, at the time of payment, a part of such payment was specifically apportioned to factors other than time lost, in which event only such part of the payment as was not so apportioned would be deemed to be paid for time lost.
 
@@ -266,17 +266,17 @@ Subsec. (h). Pub. L. 98–76, §225(c)(8), substituted “taxes imposed by secti
 
 Subsec. (i). Pub. L. 98–76, §225(b), added subsec. (i).
 
-1981—Subsec. (e)(1). Pub. L. 97–34, §743(a), inserted after third sentence provision that “Compensation which is paid in one calendar month but which would be payable in a prior or subsequent taxable month but for the fact that prescribed date of payment would fall on a Saturday, Sunday or legal holiday shall be deemed to have been paid in such prior or subsequent taxable month.”
+<b>1981</b>—Subsec. (e)(1). Pub. L. 97–34, §743(a), inserted after third sentence provision that “Compensation which is paid in one calendar month but which would be payable in a prior or subsequent taxable month but for the fact that prescribed date of payment would fall on a Saturday, Sunday or legal holiday shall be deemed to have been paid in such prior or subsequent taxable month.”
 
 Pub. L. 97–34, §741(d)(2), struck out cl. (iii) exclusion from term “compensation” the voluntary payment by an employer, without deduction from the remuneration of the employee, of the tax imposed on such employee by section 3201, redesignated as cl. (iii) provisions formerly designated (iv).
 
-Subsec. (e)(2). Pub. L. 97–34, §743(b), (c), inserted first sentence respecting presumption of a payment throughthe employer's payroll as being compensation for services rendered as an employee in the period with respect to which payment is made, and in second sentence following “an employee” inserted “receiving retroactive wage payments”.
+Subsec. (e)(2). Pub. L. 97–34, §743(b), (c), inserted first sentence respecting presumption of a payment through the employer's payroll as being compensation for services rendered as an employee in the period with respect to which payment is made, and in second sentence following “an employee” inserted “receiving retroactive wage payments”.
 
 Subsec. (e)(4). Pub. L. 97–123 added par. (4).
 
-1978—Subsec. (g). Pub. L. 95–473 substituted “express carrier, sleeping car carrier, or rail carrier providing transportation subject to subchapter I of chapter 105 of title 49” for “express company, sleeping-car company, or carrier by railroad, subject to part I of the Interstate Commerce Act (49 U.S.C., chapter 1)”.
+<b>1978</b>—Subsec. (g). Pub. L. 95–473 substituted “express carrier, sleeping car carrier, or rail carrier providing transportation subject to subchapter I of chapter 105 of title 49” for “express company, sleeping-car company, or carrier by railroad, subject to part I of the Interstate Commerce Act (49 U.S.C., chapter 1)”.
 
-1976—Subsec. (a). Pub. L. 94–455, §§1903(a)(10)(A), 1906(b)(13)(A), struck out “44 Stat. 577;” before “45 U.S.C., chapter 8” and “or his delegate” after “Secretary”, respectively.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1903(a)(10)(A), 1906(b)(13)(A), struck out “44 Stat. 577;” before “45 U.S.C., chapter 8” and “or his delegate” after “Secretary”, respectively.
 
 Subsec. (b). Pub. L. 94–455, §1903(a)(10)(B), struck out in provisions following par. (4) “50 Stat. 312;” before “45 U.S.C. 228f”.
 
@@ -288,21 +288,21 @@ Subsec. (e)(1). Pub. L. 94–547 provided that “compensation” not include am
 
 Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1975—Subsec. (e)(1). Pub. L. 94–93, §204, substituted “paid to an individual for services rendered as an employee to one or more employers” for “earned by an individual for services rendered as an employee to one or more employers, or as an employee representative, including remuneration paid for time lost as an employee, but remuneration paid for time lost shall be deemed earned in the month in which such time is lost”.
+<b>1975</b>—Subsec. (e)(1). Pub. L. 94–93, §204, substituted “paid to an individual for services rendered as an employee to one or more employers” for “earned by an individual for services rendered as an employee to one or more employers, or as an employee representative, including remuneration paid for time lost as an employee, but remuneration paid for time lost shall be deemed earned in the month in which such time is lost”.
 
 Pub. L. 94–92 increased from $3 to $25 amount of compensation earned in the service of a local lodge or division of a railway-labor-organization employer to be disregarded with respect to any calendar month in the determination of amount of taxes under sections 3201 and 3221.
 
 Subsec. (e)(2). Pub. L. 94–93, §§205, 206, substituted provision that an employee shall be deemed to be paid compensation in the period during which such compensation is earned only upon a written request by such employee, made within six months following the payment, and a showing that such compensation was earned during a period other than the period in which it was paid for provision that a payment made by an employer to an individual through the employer's payroll shall be presumed, in the absence of evidence to the contrary, to be compensation for service rendered by such individual as an employee of the employer in the period with respect to which payment is made.
 
-1968—Subsec. (e)(1). Pub. L. 90–624 inserted provision excluding remuneration for service performed by nonresident alien individuals temporarily in the United States as participants in a cultural exchange or training program.
+<b>1968</b>—Subsec. (e)(1). Pub. L. 90–624 inserted provision excluding remuneration for service performed by nonresident alien individuals temporarily in the United States as participants in a cultural exchange or training program.
 
-1965—Subsec. (e)(1). Pub. L. 89–212, §2(b)(1), inserted “(except as is provided under paragraph (3))”.
+<b>1965</b>—Subsec. (e)(1). Pub. L. 89–212, §2(b)(1), inserted “(except as is provided under paragraph (3))”.
 
 Subsec. (e)(3). Pub. L. 89–212, §2(b)(2), added par. (3).
 
 Subsec. (h). Pub. L. 89–212, §2(b)(3), added subsec. (h).
 
-1954—Subsec. (e)(1). Act Aug. 31, 1954, excluded from taxation compensation, for service as a delegate to a national or international convention of a railway labor organization, of any person who has no other previous creditable service.
+<b>1954</b>—Subsec. (e)(1). Act Aug. 31, 1954, excluded from taxation compensation, for service as a delegate to a national or international convention of a railway labor organization, of any person who has no other previous creditable service.
 
 #### Effective Date of 2004 Amendment
 
@@ -352,7 +352,7 @@ In general.—Except as provided in paragraph (2), the amendment made by subsect
 
 “(2)
 
-Exception.—The amendment made by subsection (a) shall not apply with respect to payments by the employer (or a successor of such employer) for group-term life insurance for such employer's former employees who separated from employment with the employer on or before December 31, 1989, to the extent that suchpayments are not for coverage for any such employee for any period for which such employee is employed by such employer (or a successor of such employer) after the date of such separation.
+Exception.—The amendment made by subsection (a) shall not apply with respect to payments by the employer (or a successor of such employer) for group-term life insurance for such employer's former employees who separated from employment with the employer on or before December 31, 1989, to the extent that such payments are not for coverage for any such employee for any period for which such employee is employed by such employer (or a successor of such employer) after the date of such separation.
 
 “(3)
 

@@ -8,7 +8,7 @@
 
 (iii) After receiving a request for a hearing under clause (i), the Commission expeditiously shall either deny or grant the request. If the request is granted, the Commission shall determine, after considering petitioners’ prima facie showing and any answers thereto, whether during a period of interim operation, there will be reasonable assurance of adequate protection of the public health and safety. If the Commission determines that there is such reasonable assurance, it shall allow operation during an interim period under the combined license.
 
-(iv) The Commission, in its discretion, shall determine appropriate hearing procedures,whether informal or formal adjudicatory, for any hearing under clause (i), and shall state its reasons therefor.
+(iv) The Commission, in its discretion, shall determine appropriate hearing procedures, whether informal or formal adjudicatory, for any hearing under clause (i), and shall state its reasons therefor.
 
 (v) The Commission shall, to the maximum possible extent, render a decision on issues raised by the hearing request within 180 days of the publication of the notice provided by clause (i) or the anticipated date for initial loading of fuel into the reactor, whichever is later. Commencement of operation under a combined license is not subject to subparagraph (A).
 
@@ -38,19 +38,19 @@ The USEC Privatization Act, referred to in subsec. (b)(3), (4), is subchapter A 
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–134 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Any final order entered in any proceeding of the kind specified in subsection (a) of this section or any final order allowing or prohibiting a facility to begin operating under a combined construction and operating license shall be subject to judicial review in the manner prescribed in the Act of December 29, 1950, as amended (ch. 1189, 64 Stat. 1129), and to the provisions of section 10 of the Administrative Procedure Act, as amended.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–134 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Any final order entered in any proceeding of the kind specified in subsection (a) of this section or any final order allowing or prohibiting a facility to begin operating under a combined construction and operating license shall be subject to judicial review in the manner prescribed in the Act of December 29, 1950, as amended (ch. 1189, 64 Stat. 1129), and to the provisions of section 10 of the Administrative Procedure Act, as amended.”
 
-1992—Subsec. (a)(1). Pub. L. 102–486, §2802, designated existing provisions as subpar. (A) and added subpar. (B).
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–486, §2802, designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (a)(2)(A), (C). Pub. L. 102–486, §2804, inserted “or any amendment to a combined construction and operating license” after “any amendment to an operating license”.
 
 Subsec. (b). Pub. L. 102–486, §2805, inserted “or any final order allowing or prohibiting a facility to begin operating under a combined construction and operating license” before “shall be subject to judicial review”.
 
-1983—Subsec. (a). Pub. L. 97–415 designated existing provisions as par. (1) and added par. (2).
+<b>1983</b>—Subsec. (a). Pub. L. 97–415 designated existing provisions as par. (1) and added par. (2).
 
-1962—Subsec. (a). Pub. L. 87–615 substituted “construction permit for a facility” and “construction permit for a testing facility” for “license for a facility” and “license for a testing facility” respectively, and authorized the commission in cases where a permit has been issued following a hearing, and in the absence of a request therefor by anyone whose interest may be affected, to issue an operating license or an amendment to a construction permit or an operating license without a hearing upon thirty days’ notice and publication once in the Federal Register of its intent to do so, and to dispense with such notice and publication with respect to any application for an amendment to a construction permit or to an operating license upon its determination that the amendment involves no significant hazards consideration.
+<b>1962</b>—Subsec. (a). Pub. L. 87–615 substituted “construction permit for a facility” and “construction permit for a testing facility” for “license for a facility” and “license for a testing facility” respectively, and authorized the commission in cases where a permit has been issued following a hearing, and in the absence of a request therefor by anyone whose interest may be affected, to issue an operating license or an amendment to a construction permit or an operating license without a hearing upon thirty days’ notice and publication once in the Federal Register of its intent to do so, and to dispense with such notice and publication with respect to any application for an amendment to a construction permit or to an operating license upon its determination that the amendment involves no significant hazards consideration.
 
-1957—Subsec. (a). Pub. L. 85–256 required the Commission to hold a hearing after 30 days notice and publication once in the Federal Register on an application for a license for a facility or a testing facility.
+<b>1957</b>—Subsec. (a). Pub. L. 85–256 required the Commission to hold a hearing after 30 days notice and publication once in the Federal Register on an application for a license for a facility or a testing facility.
 
 #### Effective Date of 1992 Amendment
 

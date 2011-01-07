@@ -62,11 +62,11 @@ The Military Selective Service Act, referred to in subsec. (a)(5)(B), is act Jun
 
 #### Amendments
 
-1986—Subsec. (a)(3). Pub. L. 99–661 struck out “from an injury incurred by him after December 31, 1956,” before “while traveling directly to or from”.
+<b>1986</b>—Subsec. (a)(3). Pub. L. 99–661 struck out “from an injury incurred by him after December 31, 1956,” before “while traveling directly to or from”.
 
-1980—Subsec. (a)(5)(B). Pub. L. 96–513 substituted “Military Selective Service Act (50 U.S.C. App. 451 et seq.)” for “Universal Military Training and Service Act (50 App. U.S.C. 451 et seq.)”.
+<b>1980</b>—Subsec. (a)(5)(B). Pub. L. 96–513 substituted “Military Selective Service Act (50 U.S.C. App. 451 et seq.)” for “Universal Military Training and Service Act (50 App. U.S.C. 451 et seq.)”.
 
-1964—Subsec. (a)(4). Pub. L. 88–647 inserted provisions covering applicants for membership in a reserve officers’ training corps while attending, or in travel to or from field training or a practice cruise.
+<b>1964</b>—Subsec. (a)(4). Pub. L. 88–647 inserted provisions covering applicants for membership in a reserve officers’ training corps while attending, or in travel to or from field training or a practice cruise.
 
 #### Effective Date of 1986 Amendment
 

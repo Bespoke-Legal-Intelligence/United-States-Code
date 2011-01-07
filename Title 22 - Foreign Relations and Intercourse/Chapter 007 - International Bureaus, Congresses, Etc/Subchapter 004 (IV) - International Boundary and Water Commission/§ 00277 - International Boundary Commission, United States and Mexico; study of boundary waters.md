@@ -6,9 +6,9 @@ The President is authorized to designate the American Commissioner on the Intern
 
 #### Amendments
 
-1935—Act Aug. 19, 1935, created the International Boundary Commission to take the place of the three special commissioners.
+<b>1935</b>—Act Aug. 19, 1935, created the International Boundary Commission to take the place of the three special commissioners.
 
-1927—Act Mar. 3, 1927, provided for a study of Tia Juana River in addition to the lower Rio Grande and Colorado Rivers.
+<b>1927</b>—Act Mar. 3, 1927, provided for a study of Tia Juana River in addition to the lower Rio Grande and Colorado Rivers.
 
 #### Change of Name
 

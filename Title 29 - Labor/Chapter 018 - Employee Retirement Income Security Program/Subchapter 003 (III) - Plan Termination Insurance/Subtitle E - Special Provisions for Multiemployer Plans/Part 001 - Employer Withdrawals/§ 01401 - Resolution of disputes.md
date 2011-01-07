@@ -48,7 +48,7 @@ Payments shall be made by an employer in accordance with the determinations made
 
 &emsp;&emsp;&emsp;(ii) an employer is liable for withdrawal liability payments with respect to the complete or partial withdrawal of an employer from the plan,
 
-&emsp;&emsp;(B) such determination is based in whole or in part on a finding by the plan sponsorunder section 1392(c) of this title that a principal purpose of a transaction that occurred before January 1, 1999, was to evade or avoid withdrawal liability under this subtitle, and
+&emsp;&emsp;(B) such determination is based in whole or in part on a finding by the plan sponsor under section 1392(c) of this title that a principal purpose of a transaction that occurred before January 1, 1999, was to evade or avoid withdrawal liability under this subtitle, and
 
 &emsp;&emsp;(C) such transaction occurred at least 5 years before the date of the complete or partial withdrawal,
 
@@ -114,17 +114,17 @@ Controlled group.—Any group treated as a single employer under subsection (b)(
 
 Additional security pending resolution of dispute.—If a withdrawal liability dispute to which this subsection applies is not concluded by 12 months after the electing person posts the bond or escrow described in paragraph (2), the electing person shall, at the start of each succeeding 12-month period, provide an additional bond or amount held in escrow equal to the sum of the withdrawal liability payments that would otherwise be payable to the plan during that period.
 
-(5) The liability of the party furnishing a bond or escrow under this subsection shall be reduced,upon the payment of the bond or escrow to the plan, by the amount thereof.
+(5) The liability of the party furnishing a bond or escrow under this subsection shall be reduced, upon the payment of the bond or escrow to the plan, by the amount thereof.
 
 (Pub. L. 93–406, title IV, §4221, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1239; amended Pub. L. 108–218, title II, §202(a), Apr. 10, 2004, 118 Stat. 608; Pub. L. 109–280, title II, §204(d)(1), Aug. 17, 2006, 120 Stat. 887; Pub. L. 110–458, title I, §105(b)(2), Dec. 23, 2008, 122 Stat. 5105.)
 
 #### Amendments
 
-2008—Subsecs. (e) to (g). Pub. L. 110–458 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e). Prior to amendment, text read as follows: “If any employer requests in writing that the plan sponsor make available to the employer general information necessary for the employer to compute its withdrawal liability with respect to the plan (other than information which is unique to that employer), the plan sponsor shall furnish the information to the employer without charge. If any employer requests in writing that the plan sponsor make an estimate of such employer's potential withdrawal liability with respect to the plan or to provide information unique to that employer, the plan sponsor may require the employer to pay the reasonable cost of making such estimate or providing such information.”
+<b>2008</b>—Subsecs. (e) to (g). Pub. L. 110–458 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e). Prior to amendment, text read as follows: “If any employer requests in writing that the plan sponsor make available to the employer general information necessary for the employer to compute its withdrawal liability with respect to the plan (other than information which is unique to that employer), the plan sponsor shall furnish the information to the employer without charge. If any employer requests in writing that the plan sponsor make an estimate of such employer's potential withdrawal liability with respect to the plan or to provide information unique to that employer, the plan sponsor may require the employer to pay the reasonable cost of making such estimate or providing such information.”
 
-2006—Subsec. (g). Pub. L. 109–280 added subsec. (g).
+<b>2006</b>—Subsec. (g). Pub. L. 109–280 added subsec. (g).
 
-2004—Subsec. (f). Pub. L. 108–218 added subsec. (f).
+<b>2004</b>—Subsec. (f). Pub. L. 108–218 added subsec. (f).
 
 #### Effective Date of 2008 Amendment
 

@@ -56,11 +56,11 @@ Provisions similar to those in this section were contained in Pub. L. 97–86, t
 
 #### Amendments
 
-1993—Subsec. (d). Pub. L. 103–160 struck out subsec. (d) which read as follows: “
+<b>1993</b>—Subsec. (d). Pub. L. 103–160 struck out subsec. (d) which read as follows: “
 
 Expiration.—The authority provided by this section expires on September 30, 1993.”
 
-1991—Subsec. (c)(3), (4). Pub. L. 102–190, §1051(1), added par. (3) and redesignated former par. (3) as (4).
+<b>1991</b>—Subsec. (c)(3), (4). Pub. L. 102–190, §1051(1), added par. (3) and redesignated former par. (3) as (4).
 
 Subsec. (d). Pub. L. 102–190, §1051(2), substituted “1993” for “1991”.
 

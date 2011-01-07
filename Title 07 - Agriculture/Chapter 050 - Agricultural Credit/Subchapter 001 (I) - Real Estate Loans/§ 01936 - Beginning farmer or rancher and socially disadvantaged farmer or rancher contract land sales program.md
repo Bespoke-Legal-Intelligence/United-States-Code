@@ -62,7 +62,7 @@ The period during which a loan guarantee under this section is in effect shall b
 
 #### (1) In general
 
-&emsp;The Secretary may phase-in the implementation of the changes to the Beginning Farmer and Rancher and Socially Disadvantaged Farmer or Rancher Contract Land Sales Program provided for in this section.
+&emsp;The Secretary may phase-in the implementation of the changes to the Beginning Farmerand Rancher and Socially Disadvantaged Farmer or Rancher Contract Land Sales Program provided for in this section.
 
 #### (2) Limitation
 

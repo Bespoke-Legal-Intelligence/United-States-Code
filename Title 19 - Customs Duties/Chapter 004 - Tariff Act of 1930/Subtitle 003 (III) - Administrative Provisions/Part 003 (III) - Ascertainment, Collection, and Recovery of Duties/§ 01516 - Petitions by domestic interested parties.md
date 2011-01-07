@@ -28,7 +28,7 @@ If, after receipt and consideration of a petition filed by such an interested pa
 
 #### (c) Contest by petitioner of appraised value, classification, or rate of duty
 
-If the Secretary determines that the appraised value, classification, or rate of duty with respect to which a petition was filed pursuant to subsection (a) of this section is correct, he shall notify the petitioner. If dissatisfied with the determination of the Secretary, the petitioner may file with the Secretary, not later than thirty days after the date of the notification, notice that it desires to contest the appraised value, classification, or rate of duty. Upon receipt of notice from the petitioner, the Secretary shall cause publication to be made of his determination as to the proper appraised value, classification, or rate of duty and of the petitioner's desire to contest, and shall thereafter furnish the petitioner with such information as to the entries and consignees of such merchandise, entered after the publication of the determination of the Secretary, at such ports of entry designated by the petitioner in his notice of desire to contest, as will enable the petitioner to contest the appraised value, classification, or rate of duty imposed upon such merchandise in the liquidation of one such entry at such port. The Secretary shall direct the appropriate customs officer at such ports to immediately notify the petitioner by mail when the first of such entries is liquidated.
+If the Secretary determines that the appraised value, classification, or rate of duty with respect to which a petition was filed pursuant to subsection (a) of this section is correct, he shall notify the petitioner. If dissatisfied with the determination of the Secretary, the petitioner may file with the Secretary, not later than thirty days after the date of the notification, notice that it desires to contest the appraised value, classification, or rate of duty. Upon receipt of notice from the petitioner, the Secretary shall cause publication to be made of his determination as to the proper appraised value, classification, or rate of duty and of the petitioner's desire to contest, and shall thereafter furnish the petitioner with such information as to the entries and consignees of such merchandise, entered after the publication of the determination of the Secretary, at such ports of entry designated by the petitioner in his notice of desire to contest, as will enable the petitioner to contest the appraised value, classification, or rate of duty imposed upon such merchandise in the liquidation of one such entry at such port. The Secretary shall direct the appropriate customsofficer at such ports to immediately notify the petitioner by mail when the first of such entries is liquidated.
 
 #### (d) Appraisal, classification, and liquidation of entries of merchandise covered by published decisions of Secretary
 
@@ -56,27 +56,27 @@ Application of subsection (b) of this section to complaints. Section 17(b) of ac
 
 #### Amendments
 
-1988—Subsec. (a)(3). Pub. L. 100–418 added par. (3).
+<b>1988</b>—Subsec. (a)(3). Pub. L. 100–418 added par. (3).
 
-1986—Subsec. (a)(2). Pub. L. 99–514 inserted “Such term includes an association, a majority of whose members is composed of persons described in subparagraph (A), (B), or (C).”
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514 inserted “Such term includes an association, a majority of whose members is composed of persons described in subparagraph (A), (B), or (C).”
 
-1982—Subsecs. (d), (f). Pub. L. 97–164 substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
+<b>1982</b>—Subsecs. (d), (f). Pub. L. 97–164 substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
 
-1980—Subsec. (a). Pub. L. 96–417, §607(a), designated existing provisions as par. (1), redesignated as subpars. (A), (B), and (C), former pars. (1), (2), and (3), struck out “(as defined in section 1677(9)(C), (D), and (E) of this title)” after “interested party”, covered in par. (2), and added par. (2).
+<b>1980</b>—Subsec. (a). Pub. L. 96–417, §607(a), designated existing provisions as par. (1), redesignated as subpars. (A), (B), and (C), former pars. (1), (2), and (3), struck out “(as defined in section 1677(9)(C), (D), and (E) of this title)” after “interested party”, covered in par. (2), and added par. (2).
 
 Subsec. (d). Pub. L. 96–417, §§601(6), 607(b), redesignated the United States Customs Court as the United States Court of International Trade and substituted reference to chapter 169 for section 2632 of title 28.
 
 Subsecs. (e), (f). Pub. L. 96–417, §601(6), redesignated the United States Customs Court as the United States Court of International Trade.
 
-1979—Pub. L. 96–39 completely revised the section to provide an expedited process for judicial review of an appealable determination, expanded the size of the group of parties having standing to obtain review of an appealable determination, and, in the process, revised subsecs. (a), (b), and (c), redesignated former subsecs. (e), (f), (g), and (h) as (d), (e), (f), and (g), and struck out former subsec. (d) relating to the contest of the Secretary's determination that foreign merchandise was not being sold in the United States at less than fair value or that bounty or grant was not being paid.
+<b>1979</b>—Pub. L. 96–39 completely revised the section to provide an expedited process for judicial review of an appealable determination, expanded the size of the group of parties having standing to obtain review of an appealable determination, and, in the process, revised subsecs. (a), (b), and (c), redesignated former subsecs. (e), (f), (g), and (h) as (d), (e), (f), and (g), and struck out former subsec. (d) relating to the contest of the Secretary's determination that foreign merchandise was not being sold in the United States at less than fair value or that bounty or grant was not being paid.
 
-1975—Subsec. (a). Pub. L. 93–618, §331(b), inserted provisions relating to additional duty described in section 1303 of this title (to be known as “countervailing duties”) and to special duty described in section 161 of this title (to be known as “antidumping duties”).
+<b>1975</b>—Subsec. (a). Pub. L. 93–618, §331(b), inserted provisions relating to additional duty described in section 1303 of this title (to be known as “countervailing duties”) and to special duty described in section 161 of this title (to be known as “antidumping duties”).
 
 Subsecs. (b), (c). Pub. L. 93–618, §331(b), inserted provisions relating to countervailing duties and antidumping duties.
 
 Subsecs. (d) to (h). Pub. L. 93–618, §321(f)(1), added subsec. (d) and redesignated subsecs. (d) to (g) as (e) to (h), respectively.
 
-1970—Subsec. (a). Pub. L. 91–271 substituted provisions requiring the Secretary to furnish to the American manufacturer, producer, or wholesaler the classification, and the rate of duty, if any, imposed upon designated imported merchandise, and provisions authorizing the American manufacturer, etc., to file a protest with the Secretary if the appraised value is too low, the classification is not correct, or the proper rate of duty is not being assessed, for provisions setting forth the procedure for the determination of a protest by an American manufacturer, producer, or wholesaler that the appraised value of any imported merchandise of a class or kind manufactured, produced, or sold at wholesale by him is too low.
+<b>1970</b>—Subsec. (a). Pub. L. 91–271 substituted provisions requiring the Secretary to furnish to the American manufacturer, producer, or wholesaler the classification, and the rate of duty, if any, imposed upon designated imported merchandise, and provisions authorizing the American manufacturer, etc., to file a protest with the Secretary if the appraised value is too low, the classification is not correct, or the proper rate of duty is not being assessed, for provisions setting forth the procedure for the determination of a protest by an American manufacturer, producer, or wholesaler that the appraised value of any imported merchandise of a class or kind manufactured, produced, or sold at wholesale by him is too low.
 
 Subsec. (b). Pub. L. 91–271 substituted provisions authorizing the Secretary to determine the proper appraised value, classification, or rate of duty of the imported merchandise, and to notify the American manufacturer, producer, or wholesaler of his determination, for provision setting forth the procedure for the determination of a protest by an American manufacturer, producer, or wholesaler that the classification of, and the rate of duty, if any, is not proper.
 
@@ -84,13 +84,13 @@ Subsec. (c). Pub. L. 91–271 substituted provisions setting forth the procedure
 
 Subsecs. (d) to (g). Pub. L. 91–271 added subsecs. (d) to (g).
 
-1948—Subsec. (b). Act June 25, 1948, repealed last sentence relating to procedure of proceeding over all other cases on Customs Court docket. See sections 2602 and 2638 of Title 28, Judiciary and Judicial Procedure.
+<b>1948</b>—Subsec. (b). Act June 25, 1948, repealed last sentence relating to procedure of proceeding over all other cases on Customs Court docket. See sections 2602 and 2638 of Title 28, Judiciary and Judicial Procedure.
 
 Subsec. (c). Act June 25, 1948, repealed last sentence relating to finality of Customs Court's decision. See section 2637 of Title 28.
 
 Subsec. (d). Act June 25, 1948, repealed subsec. (d) relating to inspection of documents. See section 2634 of Title 28.
 
-1938—Subsec. (b). Act June 25, 1938, amended subsec. (b) generally.
+<b>1938</b>—Subsec. (b). Act June 25, 1938, amended subsec. (b) generally.
 
 #### Effective Date of 1988 Amendment
 
@@ -138,7 +138,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Section 17(b), (c) of act of June 25, 1938, as amended by act June 16, 1951, ch. 141, §9(b), 65 Stat. 75, provided that:
 
-“(b) The provisions of subsection (b) of section 516 of the Tariff Act of 1930 \[this section\], as amended by thisact, shall apply only in the case of complaints filed after the effective date of this act \[see Effective Date of 1938 Amendment note set out under section 1401 of this title\]. The provisions of subsection (b) of section 516 of the Tariff Act of 1930, as in force prior to the effective date of this act, shall continue in force with respect to any proceedings commenced by the filing of a complaint thereunder, except that upon the expiration of thirty days after the effective date of this act, or upon the expiration of thirty days after the date of a decision of the Secretary adverse to the complainant, whichever is the later, any such proceedings in which a protest has not been duly filed shall be deemed to have been terminated unless the complainant shall have filed with the Secretary after the effective date of this act a notice that he desires to protest the classification of, or rate of duty assessed upon, the merchandise.
+“(b) The provisions of subsection (b) of section 516 of the Tariff Act of 1930 \[this section\], as amended by this act, shall apply only in the case of complaints filed after the effective date of this act \[see Effective Date of 1938 Amendment note set out under section 1401 of this title\]. The provisions of subsection (b) of section 516 of the Tariff Act of 1930, as in force prior to the effective date of this act, shall continue in force with respect to any proceedings commenced by the filing of a complaint thereunder, except that upon the expiration of thirty days after the effective date of this act, or upon the expiration of thirty days after the date of a decision of the Secretary adverse to the complainant, whichever is the later, any such proceedings in which a protest has not been duly filed shall be deemed to have been terminated unless the complainant shall have filed with the Secretary after the effective date of this act a notice that he desires to protest the classification of, or rate of duty assessed upon, the merchandise.
 
 “(c) \[Repealed. June 16, 1951, ch. 141, §9(b), 65 Stat. 75.\]”
 

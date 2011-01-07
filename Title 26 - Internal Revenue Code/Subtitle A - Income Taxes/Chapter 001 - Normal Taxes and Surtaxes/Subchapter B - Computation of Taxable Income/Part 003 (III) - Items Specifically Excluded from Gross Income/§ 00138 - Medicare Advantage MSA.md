@@ -104,13 +104,13 @@ A prior section 138 was renumbered section 140 of this title.
 
 #### Amendments
 
-2004—Pub. L. 108–311, §408(a)(5)(A)–(D), substituted “Medicare Advantage” for “Medicare+Choice” wherever appearing in section catchline, headings, and text.
+<b>2004</b>—Pub. L. 108–311, §408(a)(5)(A)–(D), substituted “Medicare Advantage” for “Medicare+Choice” wherever appearing in section catchline, headings, and text.
 
 Subsec. (c)(2)(C)(i). Pub. L. 108–311, §408(a)(5)(E), substituted “Medicare Advantage MSAs” for “Medicare+Choice MSAs”.
 
 Subsec. (f). Pub. L. 108–311, §408(a)(5)(F), substituted “Medicare Advantage MSAs” for “Medicare+Choice MSA's”.
 
-2000—Subsec. (b). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(10)\], substituted “an Archer MSA” for “a Archer MSA” in introductory provisions.
+<b>2000</b>—Subsec. (b). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(10)\], substituted “an Archer MSA” for “a Archer MSA” in introductory provisions.
 
 Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(3)\], substituted “Archer MSA” for “medical savings account” in introductory provisions.
 

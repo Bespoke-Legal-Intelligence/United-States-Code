@@ -112,7 +112,7 @@ Except as provided in subsection (d), leave granted under subsection (a) may con
 
 #### Amendments
 
-2009—Subsec. (a)(1)(E). Pub. L. 111–84, §565(a)(1)(B)(i), substituted “covered active duty” for “active duty” in two places and struck out “in support of a contingency operation” before period.
+<b>2009</b>—Subsec. (a)(1)(E). Pub. L. 111–84, §565(a)(1)(B)(i), substituted “covered active duty” for “active duty” in two places and struck out “in support of a contingency operation” before period.
 
 Subsec. (a)(5). Pub. L. 111–119 added par. (5).
 
@@ -120,15 +120,15 @@ Subsec. (e)(2)(A). Pub. L. 111–84, §565(a)(4), substituted “parent, or cove
 
 Subsec. (e)(3). Pub. L. 111–84, §565(a)(1)(B)(ii), substituted “covered active duty” for “active duty” in heading and in two places in text and struck out “in support of a contingency operation” before “, the employee shall provide”.
 
-2008—Subsec. (a)(1)(E). Pub. L. 110–181, §585(a)(2)(A), added subpar. (E).
+<b>2008</b>—Subsec. (a)(1)(E). Pub. L. 110–181, §585(a)(2)(A), added subpar. (E).
 
 Subsec. (a)(3), (4). Pub. L. 110–181, §585(a)(2)(B), added pars. (3) and (4).
 
-Subsec. (b)(1). Pub. L. 110–181, §585(a)(3)(A)(i), (ii), in second sentence, substituted “subsection (b)(5) or (f) (asappropriate) of section 2613” for “section 2613(b)(5)” and inserted “or under subsection (a)(3)” after “subsection (a)(1)” and, after second sentence, inserted “Subject to subsection (e)(3) and section 2613(f) of this title, leave under subsection (a)(1)(E) may be taken intermittently or on a reduced leave schedule.”
+Subsec. (b)(1). Pub. L. 110–181, §585(a)(3)(A)(i), (ii), in second sentence, substituted “subsection (b)(5) or (f) (as appropriate) of section 2613” for “section 2613(b)(5)” and inserted “or under subsection (a)(3)” after “subsection (a)(1)” and, after second sentence, inserted “Subject to subsection (e)(3) and section 2613(f) of this title, leave under subsection (a)(1)(E) may be taken intermittently or on a reduced leave schedule.”
 
 Subsec. (b)(2). Pub. L. 110–181, §585(a)(3)(A)(iii), inserted “or under subsection (a)(3)” after “subsection (a)(1)”.
 
-Subsec. (d)(1). Pub. L. 110–181, §585(a)(3)(B)(i), inserted “(or 26 workweeks in the case of leave provided under subsection (a)(3))” after “fewer than 12 workweeks” and “(or 26 workweeks, as appropriate)” after “attain the 12 workweeks”.
+Subsec. (d)(1). Pub. L. 110–181, §585(a)(3)(B)(i), inserted “(or 26 workweeks in the case of leave provided undersubsection (a)(3))” after “fewer than 12 workweeks” and “(or 26 workweeks, as appropriate)” after “attain the 12 workweeks”.
 
 Subsec. (d)(2)(A). Pub. L. 110–181, §585(a)(3)(B)(ii), substituted “(C), or (E)” for “or (C)”.
 

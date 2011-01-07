@@ -26,5 +26,5 @@ A prior section 525 of act July 1, 1944, was renumbered section 546 by section 6
 
 #### Amendments
 
-1990—Pub. L. 101–645 amended section generally, substituting provisions relating to conversion to categorical program in event of failure of State regarding expenditure of grants for provisions relating to restrictions on use of payments.
+<b>1990</b>—Pub. L. 101–645 amended section generally, substituting provisions relating to conversion to categorical program in event of failure of State regarding expenditure of grants for provisions relating to restrictions on use of payments.
 

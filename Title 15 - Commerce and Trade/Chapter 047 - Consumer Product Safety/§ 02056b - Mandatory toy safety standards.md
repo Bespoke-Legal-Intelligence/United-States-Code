@@ -62,7 +62,7 @@ If ASTM International (or its successor entity) proposes to revise ASTM F963–0
 
 #### (1) Exemption of State law from preemption
 
-&emsp;Upon application of a State or political subdivision of a State, the Commission shall, after notice and opportunity for oral presentation of views, consider a rulemaking to exempt from the provisions of section 2075(a) of this title (under such conditions as it may impose in the rule) any proposed safety standardor regulation which is described in such application and which is designed to protect against a risk of injury associated with a children's product subject to the consumer product safety standards described in subsection (a) or any rule promulgated under this section. The Commission shall grant such an exemption if the State or political subdivision standard or regulation—
+&emsp;Upon application of a State or political subdivision of a State, the Commission shall, after notice and opportunity for oral presentation of views, consider a rulemaking to exempt from the provisions of section 2075(a) of this title (under such conditions as it may impose in the rule) any proposed safety standard or regulation which is described in such application and which is designed to protect against a risk of injury associated with a children's product subject to the consumer product safety standards described in subsection (a) or any rule promulgated under this section. The Commission shall grant such an exemption if the State or political subdivision standard or regulation—
 
 &emsp;&emsp;(A) provides a significantly higher degree of protection from such risk of injury than the consumer product safety standard or rule under this section; and
 
@@ -76,7 +76,7 @@ If ASTM International (or its successor entity) proposes to revise ASTM F963–0
 
 #### (i) Judicial review
 
-The issuance of any rule under this section is subject to judicial review as provided in section 2060(g) of this title, as added by section 236 of this Act.
+The issuance of any rule under this section is subject to judicial review as provided in section2060(g) of this title, as added by section 236 of this Act.
 
 (Pub. L. 110–314, title I, §106, Aug. 14, 2008, 122 Stat. 3033.)
 

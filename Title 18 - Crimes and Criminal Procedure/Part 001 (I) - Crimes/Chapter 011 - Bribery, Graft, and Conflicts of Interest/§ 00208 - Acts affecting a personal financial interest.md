@@ -24,7 +24,7 @@ Shall be subject to the penalties set forth in section 216 of this title.
 
 (c)(1) For the purpose of paragraph (1) of subsection (b), in the case of class A and B directors of Federal Reserve banks, the Board of Governors of the Federal Reserve System shall be deemed to be the Government official responsible for appointment.
 
-(2) The potential availability of an exemption under any particular paragraph of subsection (b)does not preclude an exemption being granted pursuant to another paragraph of subsection (b).
+(2) The potential availability of an exemption under any particular paragraph of subsection (b) does not preclude an exemption being granted pursuant to another paragraph of subsection (b).
 
 (d)(1) Upon request, a copy of any determination granting an exemption under subsection (b)(1) or (b)(3) shall be made available to the public by the agency granting the exemption pursuant to the procedures set forth in section 105 of the Ethics in Government Act of 1978. In making such determination available, the agency may withhold from disclosure any information contained in the determination that would be exempt from disclosure under section 552 of title 5. For purposes of determinations under subsection (b)(3), the information describing each financial interest shall be no more extensive than that required of the individual in his or her financial disclosure report under the Ethics in Government Act of 1978.
 
@@ -52,11 +52,11 @@ Provisions similar to those comprising this section were contained in section 43
 
 #### Amendments
 
-1994—Subsec. (b)(4). Pub. L. 103–322, §330008(6), inserted “if” after “(4)”.
+<b>1994</b>—Subsec. (b)(4). Pub. L. 103–322, §330008(6), inserted “if” after “(4)”.
 
 Subsec. (c)(1). Pub. L. 103–322, §330002(b), substituted “banks” for “Banks”.
 
-1990—Subsec. (a). Pub. L. 101–280, §5(e)(2), made technical correction to directory language of Pub. L. 101–194, §405(1)(C). See 1989 Amendment note below.
+<b>1990</b>—Subsec. (a). Pub. L. 101–280, §5(e)(2), made technical correction to directory language of Pub. L. 101–194, §405(1)(C). See 1989 Amendment note below.
 
 Subsec. (b)(2). Pub. L. 101–280, §5(e)(1)(A), substituted “subsection (a)” for “paragraph (1)”.
 
@@ -64,13 +64,13 @@ Subsec. (b)(3). Pub. L. 101–280, §5(e)(1)(B), struck out “section 107 of”
 
 Subsec. (d)(1). Pub. L. 101–280, §5(e)(1)(C), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “A copy of any determination by other than the Director of the Office of Government Ethics granting an exemption pursuant to subsection (b)(1) or (b)(3) shall be submitted to the Director, who shall make all determinations available to the public pursuant to section 105 of the Ethics in Government Act of 1978. For determinations pursuant to subsection (b)(3), the information from the financial disclosure report of the officer or employee involved describing the asset or assets that necessitated the waiver shall also be made available to the public. This subsection shall not apply, however, if the head of the agency or his or her designee determines that the determination under subsection (b)(1) or (b)(3), as the case may be, involves classified information.”
 
-1989—Subsec. (a). Pub. L. 101–194, §405(1), as amended by Pub. L. 101–280, §5(e)(2), inserted “or” after “United States Government,” and “an officer or employee” before “of the District of Columbia”, substituted “general partner” for “partner” in two places, and substituted “Shall be subject to the penalties set forth in section 216 of this title” for “Shall be fined not more than $10,000, or imprisoned not more than two years, or both”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–194, §405(1), as amended by Pub. L. 101–280, §5(e)(2), inserted “or” after “United States Government,” and “an officer or employee” before “of the District of Columbia”, substituted “general partner” for “partner” in two places, and substituted “Shall be subject to the penalties set forth in section 216 of this title” for “Shall be fined not more than $10,000, or imprisoned not more than two years, or both”.
 
-Subsec. (b). Pub. L. 101–194, §405(2), added subsec. (b) and struck out former subsec. (b), which read as follows: “Subsection (a) hereof shall not apply (1) if the officer or employee first advises the Government official responsible for appointment to his position of the nature and circumstances of the judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter and makes full disclosure of the financial interest and receives in advance a written determination made by such official that the interest is not so substantial as to be deemed likely to affect the integrity of the services which the Government may expect from such officer or employee, or (2) if, by general rule or regulation published in the Federal Register, the financial interest has been exempted from the requirements of clause (1) hereof as being too remote or too inconsequential to affect the integrity of Government officers’ or employees’ services. In the case of class A and B directors of Federal Reserve banks, the Board of Governors of the Federal Reserve System shall be the Government official responsible for appointment.”
+Subsec. (b). Pub. L. 101–194, §405(2), added subsec. (b) and struck out former subsec. (b), which read as follows: “Subsection (a) hereof shall not apply (1) if the officer or employee first advises the Government official responsible for appointment to his position of the nature and circumstances of the judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter and makes full disclosure of the financial interest and receives in advance a written determination made by such official that the interest is not so substantial as to be deemed likely to affect the integrity of the services which the Government may expect from such officer or employee, or (2) if, by general rule or regulation published in the Federal Register, the financial interest has been exempted from the requirements of clause (1) hereof as being too remote or too inconsequential to affect theintegrity of Government officers’ or employees’ services. In the case of class A and B directors of Federal Reserve banks, the Board of Governors of the Federal Reserve System shall be the Government official responsible for appointment.”
 
 Subsecs. (c), (d). Pub. L. 101–194, §405(2), added subsecs. (c) and (d).
 
-1977—Subsec. (a). Pub. L. 95–188, §205(a), extended conflicts of interest prohibition to a Federal Reserve bank director, officer, or employee.
+<b>1977</b>—Subsec. (a). Pub. L. 95–188, §205(a), extended conflicts of interest prohibition to a Federal Reserve bank director, officer, or employee.
 
 Subsec. (b). Pub. L. 95–188, §205(b), inserted at end “In the case of class A and B directors of Federal Reserve banks, the Board of Governors of the Federal Reserve System shall be the Government official responsible for appointment.”
 
@@ -84,7 +84,7 @@ Exemptions from former section 434 of this title deemed to be exemptions from th
 
 #### Regulations
 
-Responsibility of Office of Government Ethics for promulgating regulations and interpreting this section, see section 201(c) of Ex. Ord. No. 12674, Apr. 12, 1989, 54F.R. 15159, as amended, set out as a note under section 7301 of Title 5, Government Organization and Employees.
+Responsibility of Office of Government Ethics for promulgating regulations and interpreting this section, see section 201(c) of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5, Government Organization and Employees.
 
 #### Delegation of Authority
 

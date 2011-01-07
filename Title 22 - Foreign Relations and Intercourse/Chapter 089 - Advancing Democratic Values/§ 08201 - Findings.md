@@ -10,7 +10,7 @@ Congress finds the following:
 
 &emsp;(4) Democratic countries have a number of instruments available for supporting democratic reformers who are committed to promoting effective, nonviolent change in nondemocratic countries and who are committed to keeping their countries on the path to democracy.
 
-&emsp;(5) United States efforts to promote democracy and protect human rights can bestrengthened to improve assistance for such reformers, including through an enhanced role for United States diplomats when properly trained and given the right incentives.
+&emsp;(5) United States efforts to promote democracy and protect human rights can be strengthened to improve assistance for such reformers, including through an enhanced role for United States diplomats when properly trained and given the right incentives.
 
 &emsp;(6) The promotion of democracy requires a broad-based effort with cooperation between all democratic countries, including through the Community of Democracies.
 

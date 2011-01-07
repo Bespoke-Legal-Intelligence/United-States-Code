@@ -2,7 +2,7 @@
 
 #### Amendments
 
-1976—Pub. L. 94–581, title II, §202(c), Oct. 21, 1976, 90 Stat. 2855, inserted “, NURSING HOME,” in subchapter heading.
+<b>1976</b>—Pub. L. 94–581, title II, §202(c), Oct. 21, 1976, 90 Stat. 2855, inserted “, NURSING HOME,” in subchapter heading.
 
 
 ---
@@ -33,3 +33,4 @@
 - [&sect; 01720D - Counseling and treatment for sexual trauma](%C2%A7%2001720D%20-%20Counseling%20and%20treatment%20for%20sexual%20trauma.md)
 - [&sect; 01720E - Nasopharyngeal radium irradiation](%C2%A7%2001720E%20-%20Nasopharyngeal%20radium%20irradiation.md)
 - [&sect; 01720F - Comprehensive program for suicide prevention among veterans](%C2%A7%2001720F%20-%20Comprehensive%20program%20for%20suicide%20prevention%20among%20veterans.md)
+- [&sect; 01720G - Assistance and support services for caregivers](%C2%A7%2001720G%20-%20Assistance%20and%20support%20services%20for%20caregivers.md)

@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(iii) a statement of the debtor's financial affairs and, if section 342(b) applies, a certificate—
 
-&emsp;&emsp;&emsp;&emsp;(I) of an attorney whose name is indicated on the petition as the attorney forthe debtor, or a bankruptcy petition preparer signing the petition under section 110(b)(1), indicating that such attorney or the bankruptcy petition preparer delivered to the debtor the notice required by section 342(b); or
+&emsp;&emsp;&emsp;&emsp;(I) of an attorney whose name is indicated on the petition as the attorney for the debtor, or a bankruptcy petition preparer signing the petition under section 110(b)(1), indicating that such attorney or the bankruptcy petition preparer delivered to the debtor the notice required by section 342(b); or
 
 &emsp;&emsp;&emsp;&emsp;(II) if no attorney is so indicated, and no bankruptcy petition preparer signed the petition, of the debtor that such notice was received and read by the debtor;
 
@@ -26,15 +26,15 @@
 
 &emsp;(2) if an individual debtor's schedule of assets and liabilities includes debts which are secured by property of the estate—
 
-&emsp;&emsp;(A) within thirty days after the date of the filing of a petition under chapter 7 of this title or on or before the date of the meeting of creditors, whichever is earlier, or within such additional time as the court, for cause, within such period fixes, the debtor shall file with the clerk a statement of his intention with respect to the retention or surrender of such property and, if applicable, specifying that such property is claimed as exempt, that the debtor intends to redeem such property, or that the debtor intends to reaffirm debts secured by such property;
+&emsp;&emsp;(A) within thirty days after the date of the filing of a petition under chapter 7 of this title or on or before the date of the meeting of creditors, whichever is earlier, or within such additional time as the court, for cause, within such period fixes, file with the clerk a statement of his intention with respect to the retention or surrender of such property and, if applicable, specifying that such property is claimed as exempt, that the debtor intends to redeem such property, or that the debtor intends to reaffirm debts secured by such property; and
 
-&emsp;&emsp;(B) within 30 days after the first date set for the meeting of creditors under section 341(a), or within such additional time as the court, for cause, within such 30-day period fixes, the debtor shall perform his intention with respect to such property, as specified by subparagraph (A) of this paragraph; and
+&emsp;&emsp;(B) within 30 days after the first date set for the meeting of creditors under section 341(a), or within such additional time as the court, for cause, within such 30-day period fixes, perform his intention with respect to such property, as specified by subparagraph (A) of this paragraph;
 
-&emsp;&emsp;(C) nothing in subparagraphs (A) and (B) of this paragraph shall alter the debtor's or the trustee's rights with regard to such property under this title, except as provided in section 362(h);
+> &emsp;except that nothing in subparagraphs (A) and (B) of this paragraph shall alter the debtor's or the trustee's rights with regard to such property under this title, except as provided in section 362(h);
 
-&emsp;(3) if a trustee is serving in the case or an auditor serving under section 586(f) of title 28, cooperate with the trustee as necessary to enable the trustee to perform the trustee's duties under this title;
+&emsp;(3) if a trustee is serving in the case or an auditor is serving under section 586(f) of title28, cooperate with the trustee as necessary to enable the trustee to perform the trustee's duties under this title;
 
-&emsp;(4) if a trustee is serving in the case or an auditor serving under section 586(f) of title 28, surrender to the trustee all property of the estate and any recorded information, including books, documents, records, and papers, relating to property of the estate, whether or not immunity is granted under section 344 of this title;
+&emsp;(4) if a trustee is serving in the case or an auditor is serving under section 586(f) of title 28, surrender to the trustee all property of the estate and any recorded information, including books, documents, records, and papers, relating to property of the estate, whether or not immunity is granted under section 344 of this title;
 
 &emsp;(5) appear at the hearing required under section 524(d) of this title;
 
@@ -78,7 +78,7 @@
 
 (f) At the request of the court, the United States trustee, or any party in interest in a case under chapter 7, 11, or 13, a debtor who is an individual shall file with the court—
 
-&emsp;(1) at the same time filed with the taxing authority, a copy of each Federal income tax return required under applicable law (or at the election of the debtor, a transcript of such tax return) with respect to each tax year of the debtor ending while the case is pending under such chapter;
+&emsp;(1) at the same time filed with the taxing authority, a copy of each Federal income tax return required under applicable law (or at the election of the debtor, a transcript of such tax return) with respect to each tax year of thedebtor ending while the case is pending under such chapter;
 
 &emsp;(2) at the same time filed with the taxing authority, each Federal income tax return required under applicable law (or at the election of the debtor, a transcript of such tax return) that had not been filed with such authority as of the date of the commencement of the case and that was subsequently filed for any tax year of the debtor ending in the 3-year period ending on the date of the commencement of the case;
 
@@ -114,13 +114,13 @@
 
 (3) Subject to paragraph (4) and upon request of the debtor made within 45 days after the date of the filing of the petition described in paragraph (1), the court may allow the debtor an additional period of not to exceed 45 days to file the information required under subsection (a)(1) if the court finds justification for extending the period for the filing.
 
-(4) Notwithstanding any other provision of this subsection, on the motion of the trustee filed before the expiration of the applicable period of time specified in paragraph (1), (2), or (3), and after notice and a hearing, the court maydecline to dismiss the case if the court finds that the debtor attempted in good faith to file all the information required by subsection (a)(1)(B)(iv) and that the best interests of creditors would be served by administration of the case.
+(4) Notwithstanding any other provision of this subsection, on the motion of the trustee filed before the expiration of the applicable period of time specified in paragraph (1), (2), or (3), and after notice and a hearing, the court may decline to dismiss the case if the court finds that the debtor attempted in good faith to file all the information required by subsection (a)(1)(B)(iv) and that the best interests of creditors would be served by administration of the case.
 
 (j)(1) Notwithstanding any other provision of this title, if the debtor fails to file a tax return that becomes due after the commencement of the case or to properly obtain an extension of the due date for filing such return, the taxing authority may request that the court enter an order converting or dismissing the case.
 
 (2) If the debtor does not file the required return or obtain the extension referred to in paragraph (1) within 90 days after a request is filed by the taxing authority under that paragraph, the court shall convert or dismiss the case, whichever is in the best interests of creditors and the estate.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2586; Pub. L. 98–353, title III, §§305, 452, July 10, 1984, 98 Stat. 352, 375; Pub. L. 99–554, title II, §283(h), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 109–8, title I, §106(d), title II, §225(b), title III, §§304(1), 305(2), 315(b), 316, title IV, §446(a), title VI, §603(c), title VII, §720, Apr. 20, 2005, 119 Stat. 38, 66, 78, 80, 89, 92, 118, 123, 133; Pub. L. 111–16, §2(5), (6), May 7, 2009, 123 Stat. 1607.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2586; Pub. L. 98–353, title III, §§305, 452, July 10, 1984, 98 Stat. 352, 375; Pub. L. 99–554, title II, §283(h), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 109–8, title I, §106(d), title II, §225(b), title III, §§304(1), 305(2), 315(b), 316, title IV, §446(a), title VI, §603(c), title VII, §720, Apr. 20, 2005, 119 Stat. 38, 66, 78, 80, 89, 92, 118, 123, 133; Pub. L. 111–16, §2(5), (6), May 7, 2009, 123 Stat. 1607; Pub. L. 111–327, §2(a)(16), Dec. 22, 2010, 124 Stat. 3559.)
 
 #### Historical and Revision Notes
 
@@ -130,7 +130,7 @@ Section 521 of the House amendment modifies a comparable provision contained in 
 
 #### senate report no. 95–989
 
-This section lists three duties of the debtor in a bankruptcy case. The Rules of Bankruptcy Procedure will specify the means of carrying out these duties. The first duty is to file with the court a list of creditors and, unless the court orders otherwise, a schedule of assets and liabilities and a statement of his financial affairs. Second, the debtor is required to cooperate with the trustee as necessary to enable the trustee to perform the trustee's duties. Finally, the debtor must surrender to the trustee all property of the estate, and any recorded information, including books, documents, records, and papers, relating to property of the estate. This phrase “recorded information, including books, documents, records, and papers,” has been used here and throughout the bill as a more general term, and includes such other forms of recorded information as  data  in  computer  storage  or  in  other  machine readable forms.
+This section lists three duties of the debtor in a bankruptcy case. The Rules of Bankruptcy Procedure will specify the means of carrying out these duties. The first duty is to file with the court a list of creditors and, unless the court orders otherwise, a schedule of assets and liabilities and a statement of his financial affairs. Second, the debtor is required to cooperate with the trustee as necessary to enable the trustee to perform the trustee's duties. Finally, the debtor must surrender to the trustee all property of the estate, and any recorded information, including books, documents, records, and papers, relating to property of the estate. This phrase “recorded information, including books, documents, records, and papers,” has been used hereand throughout the bill as a more general term, and includes such other forms of recorded information as  data  in  computer  storage  or  in  other  machine readable forms.
 
 The list in this section is not exhaustive of the debtor's duties. Others are listed elsewhere in proposed title 11, such as in section 343, which requires the debtor to submit to examination, or in the Rules of Bankruptcy Procedure, as continued by §404(a) of S. 2266, such as the duty to attend any hearing on discharge, Rule 402(2).
 
@@ -143,6 +143,14 @@ Sections 530(b)(1) and 529(b)(1) of the Internal Revenue Code of 1986, referred 
 Section 315(c) of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, referred to in subsec. (g)(2), is section 315(c) of Pub. L. 109–8, which is set out as a note under this section.
 
 #### Amendments
+
+2010—Subsec. (a)(2). Pub. L. 111–327, §2(a)(16)(A)(iii), in subpar. (C) substituted “except that” for subpar. (C) designation.
+
+Subsec. (a)(2)(A). Pub. L. 111–327, §2(a)(16)(A)(i), struck out “the debtor shall” after “period fixes,” and inserted “and” after semicolon at end.
+
+Subsec. (a)(2)(B). Pub. L. 111–327, §2(a)(16)(A)(ii), struck out “the debtor shall” after “period fixes,” and “and” after semicolon at end.
+
+Subsec. (a)(3), (4). Pub. L. 111–327, §2(a)(16)(B), inserted “is” after “auditor”.
 
 2009—Subsec. (e)(3)(B). Pub. L. 111–16, §2(5), substituted “7 days” for “5 days”.
 
@@ -198,7 +206,7 @@ Amendment by sections 106(d), 225(b), 304(1), 305(2), 315(b), 316, 446(a), and 7
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554, set outas a note under section 581 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1984 Amendment
 

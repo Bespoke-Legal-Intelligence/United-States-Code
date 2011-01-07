@@ -10,7 +10,7 @@ Act July 26, 1947, ch. 340, 61 Stat. 494, provided that notwithstanding any prov
 
 #### Fort Peck Indian Irrigation Project
 
-In accordance with sections 389 to 389e of this title, the order of the Secretary of the Interior canceling delinquent irrigation operation and maintenance charges of $461.40 and accrued interest thereon for certain lands adjacent to but outside the Fort Peck Indian irrigation project, $206,902.21 against lands within the Fort Peckproject, and $118,266.64 of unassessed construction costs allocable against both Indian and non-Indian owned lands in the Fraiser-Wolf Point unit of the Fort Peck project, was approved by Pub. L. 90–143, Nov. 16, 1967, 81 Stat. 465.
+In accordance with sections 389 to 389e of this title, the order of the Secretary of the Interior canceling delinquent irrigation operation and maintenance charges of $461.40 and accrued interest thereon for certain lands adjacent to but outside the Fort Peck Indian irrigation project, $206,902.21 against lands within the Fort Peck project, and $118,266.64 of unassessed construction costs allocable against both Indian and non-Indian owned lands in the Fraiser-Wolf Point unit of the Fort Peck project, was approved by Pub. L. 90–143, Nov. 16, 1967, 81 Stat. 465.
 
 #### Klamath Indian Irrigation Project
 

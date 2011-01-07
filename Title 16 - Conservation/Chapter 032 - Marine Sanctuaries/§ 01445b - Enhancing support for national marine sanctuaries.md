@@ -54,7 +54,7 @@ The Secretary may authorize the use of a symbol adopted by the Secretary under s
 
 #### (1) In general
 
-&emsp;The Secretary may enter into an agreement with a non-profit partner organization authorizing it to assist in the administration of the sponsorship program established under this section. Under an agreement entered into under this paragraph, the Secretary may authorize the non-profit partner organization tosolicit persons to be official sponsors of the national marine sanctuary system or of individual national marine sanctuaries, upon such terms as the Secretary deems reasonable and will contribute to the successful administration of the sanctuary system. The Secretary may also authorize the non-profit partner organization to collect the statutory contribution from the sponsor, and, subject to paragraph (2), transfer the contribution to the Secretary.
+&emsp;The Secretary may enter into an agreement with a non-profit partner organization authorizing it to assist in the administration of the sponsorship program established under this section. Under an agreement entered into under this paragraph, the Secretary may authorize the non-profit partner organization to solicit persons to be official sponsors of the national marine sanctuary system or of individual national marine sanctuaries, upon such terms as the Secretary deems reasonable and will contribute to the successful administration of the sanctuary system. The Secretary may also authorize the non-profit partner organization to collect the statutory contribution from the sponsor, and, subject to paragraph (2), transfer the contribution to the Secretary.
 
 #### (2) Reimbursement for administrative costs
 
@@ -76,7 +76,7 @@ Section was set out as a note under section 1442 of this title prior to renumber
 
 #### Amendments
 
-2000—Subsec. (a)(1). Pub. L. 106–513, §17(1), inserted “or the System” after “sanctuaries”.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–513, §17(1), inserted “or the System” after “sanctuaries”.
 
 Subsec. (a)(4). Pub. L. 106–513, §17(2), substituted “manufacture, reproduction, or other use of any symbol published under paragraph (1), including the sale of items bearing such a symbol,” for “use of any symbol published under paragraph (1)”.
 
@@ -84,7 +84,7 @@ Subsec. (e)(3). Pub. L. 106–513, §17(3), amended par. (3) generally. Prior to
 
 Subsecs. (f), (g). Pub. L. 106–513, §17(4), added subsecs. (f) and (g).
 
-1996—Subsec. (a). Pub. L. 104–283, §6(b)(7), inserted at end “Monetary and in-kind contributions raised through the sale, marketing, or use of symbols and products related to an individual national marine sanctuary shall be used to support that sanctuary.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–283, §6(b)(7), inserted at end “Monetary and in-kind contributions raised through the sale, marketing, or use of symbols and products related to an individual national marine sanctuary shall be used to support that sanctuary.”
 
 Pub. L. 104–283, §6(b)(2), substituted “Authority” for “Project” as heading and “The Secretary may establish a program consisting of” for “The project shall consist of” in introductory provisions.
 

@@ -14,7 +14,7 @@ Competitive Process.—The Secretary concerned shall ensure that the time, metho
 
 (d)
 
-Terms and Conditions.—(1) The conveyance or lease of property or facilities under this section shall be for such consideration and upon such terms and conditions as the Secretary concerned considers appropriate for the purposes of this subchapter and to protect the interests of the United States.
+Terms and Conditions.—(1) The conveyance or lease of property or facilities under thissection shall be for such consideration and upon such terms and conditions as the Secretary concerned considers appropriate for the purposes of this subchapter and to protect the interests of the United States.
 
 (2) As part or all of the consideration for a conveyance or lease under this section, the purchaser or lessor (as the case may be) shall enter into an agreement with the Secretary to ensure that a suitable preference will be afforded members of the armed forces and their dependents in the lease or sublease of a reasonable number of the housing units covered by the conveyance or lease, as the case may be, or in the lease of other suitable housing units made available by the purchaser or lessee.
 
@@ -24,29 +24,27 @@ Inapplicability of Certain Property Management Laws.—The conveyance or lease o
 
 &emsp;(1) Section 2667 of this title.
 
-&emsp;(2) Subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.).
+&emsp;(2) Subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 &emsp;(3) Section 1302 of title 40.
 
 &emsp;(4) Section 501 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411).
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 547; amended Pub. L. 105–85, div. A, title X, §1073(a)(60), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. B, title XXVIII, §2803(g), Oct. 5, 1999, 113 Stat. 849; Pub. L. 107–107, div. A, title X, §1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, §3(b)(23), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 110–417, div. B, title XXVIII, §2805(d), Oct. 14, 2008, 122 Stat. 4723.)
-
-#### References in Text
-
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (e)(2), is act June 30, 1949, ch. 288, 63 Stat. 377. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 547; amended Pub. L. 105–85, div. A, title X, §1073(a)(60), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. B, title XXVIII, §2803(g), Oct. 5, 1999, 113 Stat. 849; Pub. L. 107–107, div. A, title X, §1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, §3(b)(23), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 110–417, div. B, title XXVIII, §2805(d), Oct. 14, 2008, 122 Stat. 4723; Pub. L. 111–350, §5(b)(50), Jan. 4, 2011, 124 Stat. 3846.)
 
 #### Amendments
 
-2008—Subsecs. (c) to (e). Pub. L. 110–417 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+<b>2011</b>—Subsec. (e)(2). Pub. L. 111–350, which directed substitution of “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” in subsec. (d)(2), was executed by making the substitution in subsec. (e)(2) to reflect the probable intent of Congress and the amendment by Pub. L. 110–417. See 2008 Amendment note below.
 
-2002—Subsec. (d)(2). Pub. L. 107–217, §3(b)(23)(A), substituted “Subtitle I of title 40 and title III of the” for “The” and “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
+<b>2008</b>—Subsecs. (c) to (e). Pub. L. 110–417 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
+<b>2002</b>—Subsec. (d)(2). Pub. L. 107–217, §3(b)(23)(A), substituted “Subtitle I of title 40 and title III of the” for “The” and “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
 
 Subsec. (d)(3). Pub. L. 107–217, §3(b)(23)(B), substituted “Section 1302 of title 40” for “Section 321 of the Act of June 30, 1932 (commonly known as the Economy Act) (40 U.S.C. 303b)”.
 
-2001—Subsec. (d)(4). Pub. L. 107–107 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
+<b>2001</b>—Subsec. (d)(4). Pub. L. 107–107 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
-1999—Subsec. (a). Pub. L. 106–65 substituted “eligible entities” for “private persons”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–65 substituted “eligible entities” for “private persons”.
 
-1997—Subsec. (d)(4). Pub. L. 105–85 substituted “11411” for “11401”.
+<b>1997</b>—Subsec. (d)(4). Pub. L. 105–85 substituted “11411” for “11401”.
 

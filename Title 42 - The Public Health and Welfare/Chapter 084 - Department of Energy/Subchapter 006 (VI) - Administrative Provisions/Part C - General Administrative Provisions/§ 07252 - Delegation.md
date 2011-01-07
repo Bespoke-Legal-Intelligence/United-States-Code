@@ -4,6 +4,10 @@ Except as otherwise expressly prohibited by law, and except as otherwise provide
 
 (Pub. L. 95–91, title VI, §642, Aug. 4, 1977, 91 Stat. 599.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+
 #### Reorganization of Field Activities and Management of National Security Functions
 
 Pub. L. 104–206, title III, §302, Sept. 30, 1996, 110 Stat. 2999, provided that: “None of the funds appropriated by this or any other Act may be used to implement section 3140 of H.R. 3230 as reported by the Committee of Conference on July 30, 1996 \[Pub. L. 104–201, set out below\]. The Secretary of Energy shall develop a plan to reorganize the field activities and management of the national security functions of the Department of Energy and shall submit such plan to the Congress not later than 120 days after the date of enactment of this Act \[Sept. 30, 1996\]. The plan will specifically identify all significant functions performed by the Department's national security operations and area offices and make recommendations as to where those functions should be performed.”

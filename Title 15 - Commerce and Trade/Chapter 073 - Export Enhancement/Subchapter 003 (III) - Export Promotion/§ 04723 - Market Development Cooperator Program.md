@@ -24,7 +24,7 @@ The Secretary of Commerce shall carry out the Market Development Cooperator Prog
 
 &emsp;(A) As part of the Market Development Cooperator Program established under subsection (a) of this section, the Secretary of Commerce shall establish a partnership program with cooperators under which a cooperator may detail individuals, subject to the approval of the Secretary, to the United States and Foreign Commercial Service for a period of not less than 1 year or more than 2 years to supplement the Commercial Service.
 
-&emsp;(B) Any individual detailed to the United States and Foreign Commercial Service underthis subsection shall be responsible for such duties as the Secretary may prescribe in order to carry out the purpose of the Market Development Cooperator Program set forth in subsection (a) of this section.
+&emsp;(B) Any individual detailed to the United States and Foreign Commercial Service under this subsection shall be responsible for such duties as the Secretary may prescribe in order to carry out the purpose of the Market Development Cooperator Program set forth in subsection (a) of this section.
 
 &emsp;(C) Individuals detailed to the United States and Foreign Commercial Service under this subsection shall not be considered to be employees of the United States for the purposes of any law administered by the Office of Personnel Management, except that the Secretary of State may determine the applicability to such individuals of section 2669(f) of title 22 and of any other law administered by the Secretary of State concerning the detail of such individuals abroad.
 

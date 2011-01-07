@@ -6,7 +6,7 @@
 
 (c) Members of the Army appointed in or assigned to one branch may be detailed for duty with any other branch.
 
-(d) Members of the Army while not on active duty may be assigned to any basic or specialbranch, or to such other branches or groups, and to such organizations, as the Secretary considers appropriate.
+(d) Members of the Army while not on active duty may be assigned to any basic or special branch, or to such other branches or groups, and to such organizations, as the Secretary considers appropriate.
 
 (e) No officer of the Army may be assigned to perform technical, scientific, or other professional duties unless he is qualified to perform those duties and meets professional qualifications at least as strict as those in effect on June 28, 1950. If the duties to which an officer is assigned involve professional work that is the same as or is similar to that usually performed in civil life by a member of a learned profession, such as engineering, law, medicine, or theology, the officer must have the qualifications, by education, training, or experience, equal to or similar to those usually required of members of that profession, unless the exigencies of the situation prevent.
 
@@ -54,5 +54,5 @@ In subsection (b), the word “specified” is substituted for the words “desi
 
 In subsection (d), the words “basic or special branch” are substituted for the words “branches of the Army provided for in this section”. The word “considers” is substituted for the words “may deem to be”.
 
-In subsection (e), the words “No officer may be unless he is” are substituted for the words “officers of the Army shall possess”. The last 16 words of the first sentence are substituted for the Act of June 28, 1950, ch. 383, Title IV, §404(e), 64 Stat. 274. The last sentence is substituted for 10:1g(f) (1st 9 words).
+In subsection (e), the words “No officer \* \* \* may be \* \* \* unless he is” are substituted for the words “officers of the Army \* \* \* shall \* \* \* possess”. The last 16 words of the first sentence are substituted for the Act of June 28, 1950, ch. 383, Title IV, §404(e), 64 Stat. 274. The last sentence is substituted for 10:1g(f) (1st 9 words).
 

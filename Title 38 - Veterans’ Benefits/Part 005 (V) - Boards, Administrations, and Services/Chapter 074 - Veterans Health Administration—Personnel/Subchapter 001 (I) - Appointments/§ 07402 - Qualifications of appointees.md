@@ -142,7 +142,7 @@ Provisions similar to those in this section were contained in sections 4105 and 
 
 #### Amendments
 
-2008—Subsec. (b)(11). Pub. L. 110–387, §405(a)(1), redesignated par. (11) relating to other health care positions as (14).
+<b>2008</b>—Subsec. (b)(11). Pub. L. 110–387, §405(a)(1), redesignated par. (11) relating to other health care positions as (14).
 
 Subsec. (b)(13). Pub. L. 110–387, §405(a)(2), added par. (13).
 
@@ -150,17 +150,17 @@ Subsec. (b)(14). Pub. L. 110–387, §405(a)(1), redesignated par. (11) relating
 
 Subsec. (g). Pub. L. 110–387, §405(b), added subsec. (g).
 
-2006—Subsec. (b)(10) to (12). Pub. L. 109–461 added par. (10) and the par. (11) relating to licensed professional health counselor and redesignated former par. (10) as (12).
+<b>2006</b>—Subsec. (b)(10) to (12). Pub. L. 109–461 added par. (10) and the par. (11) relating to licensed professional health counselor and redesignated former par. (10) as (12).
 
-2003—Subsec. (b)(10), (11). Pub. L. 108–170 added par. (10) and redesignated former par. (10) as (11).
+<b>2003</b>—Subsec. (b)(10), (11). Pub. L. 108–170 added par. (10) and redesignated former par. (10) as (11).
 
-2000—Subsec. (b)(9). Pub. L. 106–419 substituted “a person must—” and subpars. (A) and (B) for “a person must hold a master's degree in social work from a college or university approved by the Secretary and satisfy the social worker licensure, certification, or registration requirements, if any, of the State in which the social worker is to be employed, except that the Secretary may waive the licensure, certification, or registration requirement of this paragraph for an individual social worker for a reasonable period, not to exceed 3 years, in order for the social worker to take any actions necessary to satisfy the licensure, certification, or registration requirements of such State.”
+<b>2000</b>—Subsec. (b)(9). Pub. L. 106–419 substituted “a person must—” and subpars. (A) and (B) for “a person must hold a master's degree in social work from a college or university approved by the Secretary and satisfy the social worker licensure, certification, or registration requirements, if any, of the State in which the social worker is to be employed, except that the Secretary may waive the licensure, certification, or registration requirement of this paragraph for an individual social worker for a reasonable period, not to exceed 3 years, in order for the social worker to take any actions necessary to satisfy the licensure, certification, or registration requirements of such State.”
 
-1999—Subsec. (f). Pub. L. 106–117 added subsec. (f).
+<b>1999</b>—Subsec. (f). Pub. L. 106–117 added subsec. (f).
 
-1992—Subsec. (d). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in two places.
+<b>1992</b>—Subsec. (d). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in two places.
 
-1991—Subsec. (b)(9), (10). Pub. L. 102–86 added par. (9) and redesignated former par. (9) as (10).
+<b>1991</b>—Subsec. (b)(9), (10). Pub. L. 102–86 added par. (9) and redesignated former par. (9) as (10).
 
 #### Effective Date of 2003 Amendment
 

@@ -36,7 +36,7 @@ A prior section 3131, Pub. L. 89–136, title I, §101, Aug. 26, 1965, 79 Stat. 
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–373, §103(1), substituted “multi-State regional organizations, and nonprofit organizations” for “and multi-State regional organizations” in introductory provisions.
+<b>2004</b>—Subsec. (b). Pub. L. 108–373, §103(1), substituted “multi-State regional organizations, and nonprofit organizations” for “and multi-State regional organizations” in introductory provisions.
 
 Subsec. (d)(1). Pub. L. 108–373, §103(2), struck out “adjoining” before “States” in two places.
 

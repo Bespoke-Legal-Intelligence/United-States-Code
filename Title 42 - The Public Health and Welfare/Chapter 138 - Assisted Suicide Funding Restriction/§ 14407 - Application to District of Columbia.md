@@ -6,11 +6,13 @@ For purposes of this chapter, the term “funds appropriated by Congress” incl
 
 #### References in Text
 
-The District of Columbia Home Rule Act, referred to in text, is Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 774, as amended. Title V of the Act was classified to the District of Columbia Code prior to repeal by Pub. L. 105–33, title XI, §11601, Aug. 5, 1997, 111 Stat. 777.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, known as the Assisted Suicide Funding Restriction Act of 1997, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of this title and Tables.
+
+The District of Columbia Home Rule Act, referred to in text, is Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 774, asamended. Title V of the Act was classified to the District of Columbia Code prior to repeal by Pub. L. 105–33, title XI, §11601, Aug. 5, 1997, 111 Stat. 777.
 
 #### Amendments
 
-1997—Pub. L. 105–33 substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
+<b>1997</b>—Pub. L. 105–33 substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
 
 #### Effective Date of 1997 Amendment
 

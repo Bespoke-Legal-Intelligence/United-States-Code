@@ -10,5 +10,5 @@ Section was formerly classified to section 488a of Title 31 prior to the general
 
 #### Amendments
 
-1974—Pub. L. 93–318 struck out “under the provisions of section 711 of title 18” after “relating to ‘Smokey Bear’.”
+<b>1974</b>—Pub. L. 93–318 struck out “under the provisions of section 711 of title 18” after “relating to ‘Smokey Bear’.”
 

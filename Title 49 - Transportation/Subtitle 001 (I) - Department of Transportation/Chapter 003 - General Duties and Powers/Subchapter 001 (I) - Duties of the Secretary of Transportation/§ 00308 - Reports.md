@@ -28,7 +28,7 @@
 
 (2) In reporting to Congress under this subsection, the Secretary shall prepare a complete assessment of public transportation facilities in the United States. The Secretary also shall assess future needs for those facilities and estimate future capital requirements and operation and maintenance requirements for one-year, 5-year, and 10-year periods at specified levels of service.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2422; Pub. L. 98–216, §2(1)(A), Feb. 14, 1984, 98 Stat. 4; Pub. L. 104–66, title I, §1121(h), Dec. 21, 1995, 109 Stat. 724; Pub. L. 105–362, title XV, §1502(c), Nov. 10, 1998, 112 Stat. 3295.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2422; Pub. L. 98–216, §2(1)(A), Feb. 14, 1984, 98 Stat. 4;Pub. L. 104–66, title I, §1121(h), Dec. 21, 1995, 109 Stat. 724; Pub. L. 105–362, title XV, §1502(c), Nov. 10, 1998, 112 Stat. 3295.)
 
 Historical and Revision Notes
 
@@ -98,11 +98,11 @@ In subsection (e)(1), the words “January of each even-numbered year” are sub
 
 #### Amendments
 
-1998—Subsec. (e)(1). Pub. L. 105–362 substituted “submit to Congress in March 1998, and in March of each even-numbered year thereafter, a report” for “submit a report to Congress in January of each even-numbered year”.
+<b>1998</b>—Subsec. (e)(1). Pub. L. 105–362 substituted “submit to Congress in March 1998, and in March of each even-numbered year thereafter, a report” for “submit a report to Congress in January of each even-numbered year”.
 
-1995—Subsec. (d). Pub. L. 104–66 struck out subsec. (d) which related to reports to Congress listing assistance provided by Government to railroad industry.
+<b>1995</b>—Subsec. (d). Pub. L. 104–66 struck out subsec. (d) which related to reports to Congress listing assistance provided by Government to railroad industry.
 
-1984—Pub. L. 98–216, §2(1)(A)(i), substituted “Reports” for “Annual reports” in section catchline.
+<b>1984</b>—Pub. L. 98–216, §2(1)(A)(i), substituted “Reports” for “Annual reports” in section catchline.
 
 Subsec. (a). Pub. L. 98–216, §2(1)(A)(ii), struck out requirement that the report include a complete statement on the effectiveness of the United States Railway Association and the Consolidated Rail Corporation in carrying out the purposes of the Regional Rail Reorganization Act of 1973.
 

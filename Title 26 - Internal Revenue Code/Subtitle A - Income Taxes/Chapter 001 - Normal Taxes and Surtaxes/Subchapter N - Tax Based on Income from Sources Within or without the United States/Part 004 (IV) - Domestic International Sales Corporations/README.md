@@ -9,7 +9,9 @@
 
 #### Amendments
 
-1971—Pub. L. 92–178, title V, §501, Dec. 10, 1971, 85 Stat. 535, added part IV to subchapter N of chapter 1.
+<b>1971</b>—Pub. L. 92–178, title V, §501, Dec. 10, 1971, 85 Stat. 535, added part IV to subchapter N of chapter 1.
+
+<i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
 
 
 ---

@@ -10,7 +10,7 @@ A prior section 813 of Pub. L. 90–351 was classified to section 3789b of this 
 
 #### Amendments
 
-1984—Pub. L. 98–473, §609B(m), struck out subsec. (a) relating to programs concerned with juvenile delinquency and administered by the Law Enforcement Assistance Administration and struck out subsec. (b) designation.
+<b>1984</b>—Pub. L. 98–473, §609B(m), struck out subsec. (a) relating to programs concerned with juvenile delinquency and administered by the Law Enforcement Assistance Administration and struck out subsec. (b) designation.
 
 #### Effective Date of 1984 Amendment
 

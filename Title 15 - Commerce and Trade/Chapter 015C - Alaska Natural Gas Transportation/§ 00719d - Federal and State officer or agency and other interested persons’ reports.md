@@ -2,7 +2,7 @@
 
 #### (a) Federal officer or agency comments; submittal to President; public availability
 
-Not later than July 1, 1977, any Federal officer or agency may submit written comments to the President with respect to the recommendation and report of the Commission and alternativemethods for transportation of Alaska natural gas for delivery to the contiguous States. Such comments shall be made available to the public by the President when submitted to him, unless expressly exempted from this requirement in whole or in part by the President, under section 552(b)(1) of title 5. Any such written comment shall include information within the competence of such Federal officer or agency with respect to—
+Not later than July 1, 1977, any Federal officer or agency may submit written comments to the President with respect to the recommendation and report of the Commission and alternative methods for transportation of Alaska natural gas for delivery to the contiguous States. Such comments shall be made available to the public by the President when submitted to him, unless expressly exempted from this requirement in whole or in part by the President, under section 552(b)(1) of title 5. Any such written comment shall include information within the competence of such Federal officer or agency with respect to—
 
 &emsp;(1) environmental considerations, including air and water quality and noise impacts;
 

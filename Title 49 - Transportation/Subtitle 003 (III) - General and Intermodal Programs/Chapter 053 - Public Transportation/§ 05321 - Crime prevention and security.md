@@ -22,7 +22,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §24; added Apr. 2, 1987, Pub. L. 
 
 #### Amendments
 
-2005—Pub. L. 109–59 substituted “public transportation” for “mass transportation”.
+<b>2005</b>—Pub. L. 109–59 substituted “public transportation” for “mass transportation”.
 
 #### Regulations
 

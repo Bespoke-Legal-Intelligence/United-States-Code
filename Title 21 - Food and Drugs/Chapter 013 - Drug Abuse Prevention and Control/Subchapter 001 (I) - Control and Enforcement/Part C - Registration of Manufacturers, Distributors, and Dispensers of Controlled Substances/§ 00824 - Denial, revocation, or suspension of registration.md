@@ -8,7 +8,7 @@ A registration pursuant to section 823 of this title to manufacture, distribute,
 
 &emsp;(2) has been convicted of a felony under this subchapter or subchapter II of this chapter or any other law of the United States, or of any State, relating to any substance defined in this subchapter as a controlled substance or a list I chemical;
 
-&emsp;(3) has had his State license or registration suspended, revoked, or denied by competent State authority and is no longer authorized by State law to engage in the manufacturing, distribution, or dispensing of controlled substances or list I chemicals or has had the suspension, revocation, or denial of his registration recommended by competent State authority;
+&emsp;(3) has had his State license or registration suspended, revoked, or denied by competent State authority and is no longer authorized byState law to engage in the manufacturing, distribution, or dispensing of controlled substances or list I chemicals or has had the suspension, revocation, or denial of his registration recommended by competent State authority;
 
 &emsp;(4) has committed such acts as would render his registration under section 823 of this title inconsistent with the public interest as determined under such section; or
 
@@ -26,7 +26,7 @@ Before taking action pursuant to this section, or pursuant to a denial of regist
 
 #### (d) Suspension of registration in cases of imminent danger
 
-The Attorney General may, in his discretion, suspend any registration simultaneously with the institution of proceedings under this section, in cases where he finds that there is an imminent danger to the public health or safety. A failure to comply with a standard referred to in section 823(g)(1) of this title may be treated under this subsection as grounds for immediate suspension of a registration granted under such section. A suspension under this subsection shallcontinue in effect until the conclusion of such proceedings, including judicial review thereof, unless sooner withdrawn by the Attorney General or dissolved by a court of competent jurisdiction.
+The Attorney General may, in his discretion, suspend any registration simultaneously with the institution of proceedings under this section, in cases where he finds that there is an imminent danger to the public health or safety. A failure to comply with a standard referred to in section 823(g)(1) of this title may be treated under this subsection as grounds for immediate suspension of a registration granted under such section. A suspension under this subsection shall continue in effect until the conclusion of such proceedings, including judicial review thereof, unless sooner withdrawn by the Attorney General or dissolved by a court of competent jurisdiction.
 
 #### (e) Suspension and revocation of quotas
 
@@ -50,13 +50,13 @@ Subchapter II of this chapter, referred to in subsec. (a)(1), (2), was in the or
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–310, §3502(b)(1), substituted “section 823(g)(1) of this title” for “section 823(g) of this title” in two places in concluding provisions.
+<b>2000</b>—Subsec. (a). Pub. L. 106–310, §3502(b)(1), substituted “section 823(g)(1) of this title” for “section 823(g) of this title” in two places in concluding provisions.
 
 Subsec. (d). Pub. L. 106–310, §3502(b)(2), substituted “section 823(g)(1) of this title” for “section 823(g) of this title”.
 
-1994—Subsec. (g). Pub. L. 103–322 inserted “or chemical” after “such substance” in last sentence.
+<b>1994</b>—Subsec. (g). Pub. L. 103–322 inserted “or chemical” after “such substance” in last sentence.
 
-1993—Subsec. (a). Pub. L. 103–200, §3(d)(1), inserted “or a list I chemical” after “controlled substance” in introductory provisions and par. (2) and inserted “or list I chemicals” after “controlled substances” in par. (3).
+<b>1993</b>—Subsec. (a). Pub. L. 103–200, §3(d)(1), inserted “or a list I chemical” after “controlled substance” in introductory provisions and par. (2) and inserted “or list I chemicals” after “controlled substances” in par. (3).
 
 Subsec. (b). Pub. L. 103–200, §3(d)(2), inserted “or list I chemical” after “controlled substance”.
 
@@ -64,9 +64,9 @@ Subsec. (f). Pub. L. 103–200, §3(d)(3), inserted “or list I chemicals” af
 
 Subsec. (g). Pub. L. 103–200, §3(d)(4), inserted “or list I chemicals” after “controlled substances” in two places and “or list I chemical” after “controlled substance” wherever appearing.
 
-1987—Subsec. (a)(5). Pub. L. 100–93 added par. (5).
+<b>1987</b>—Subsec. (a)(5). Pub. L. 100–93 added par. (5).
 
-1984—Subsec. (a)(3). Pub. L. 98–473, §512(1), inserted provisions relating to suspension, etc., recommended by competent State authority.
+<b>1984</b>—Subsec. (a)(3). Pub. L. 98–473, §512(1), inserted provisions relating to suspension, etc., recommended by competent State authority.
 
 Subsec. (a)(4). Pub. L. 98–473, §512(2), added par. (4).
 
@@ -74,7 +74,7 @@ Subsec. (f). Pub. L. 98–473, §304, inserted provisions relating to vesting of
 
 Subsec. (g). Pub. L. 98–473, §513, added subsec. (g).
 
-1974—Subsec. (a). Pub. L. 93–281, §4(a), provided for revocation or suspension of a registration pursuant to section 823(g) of this title for failure of a registrant to comply with standards referred to in such section 823(g).
+<b>1974</b>—Subsec. (a). Pub. L. 93–281, §4(a), provided for revocation or suspension of a registration pursuant to section 823(g) of this title for failure of a registrant to comply with standards referred to in such section 823(g).
 
 Subsec. (d). Pub. L. 93–281, §4(b), substituted “A suspension under this subsection” for “Such suspension” in third sentence.
 

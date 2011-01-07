@@ -14,11 +14,11 @@
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-1990—Subsec. (e). Pub. L. 101–647 inserted “commonwealth,” before “territory or possession of the United States”.
+<b>1990</b>—Subsec. (e). Pub. L. 101–647 inserted “commonwealth,” before “territory or possession of the United States”.
 
-1988—Subsec. (b). Pub. L. 100–690, §7024(a), inserted “or foreign country” after “State” in two places.
+<b>1988</b>—Subsec. (b). Pub. L. 100–690, §7024(a), inserted “or foreign country” after “State” in two places.
 
 Subsec. (c). Pub. L. 100–690, §7024(b)(2), struck out “, Commonwealth of Puerto Rico, territory, possession, or the District of Columbia” after “State”.
 

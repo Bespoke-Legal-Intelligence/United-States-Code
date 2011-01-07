@@ -2,7 +2,7 @@
 
 #### (a) Authorization of Secretary
 
-Subject to the provisions of the Federal Property and Administrative Services Act of 1949,<sup>1</sup> the Secretary is authorized to make, enter into, and perform such contracts, grants, leases, cooperative agreements, or other similar transactions with Federal or other public agencies (including State and local governments) and private organizations and persons, and to make such payments, by way of advance or reimbursement, as the Secretary may determine necessary or appropriate to carry out functions of the Secretary or the Department.
+Subject to the provisions of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, the Secretary is authorized to make, enter into, and perform such contracts, grants, leases, cooperative agreements, or other similar transactions with Federal or other public agencies (including State and local governments) and private organizations and persons, and to make such payments, by way of advance or reimbursement, as the Secretary may determine necessary or appropriate to carry out functions of the Secretary or the Department.
 
 #### (b) Limitations
 
@@ -10,9 +10,7 @@ Notwithstanding any other provision of this chapter, no authority to enter into 
 
 (Pub. L. 96–88, title IV, §415, Oct. 17, 1979, 93 Stat. 685.)
 
-#### References in Text
+#### Codification
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+In subsec. (a), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

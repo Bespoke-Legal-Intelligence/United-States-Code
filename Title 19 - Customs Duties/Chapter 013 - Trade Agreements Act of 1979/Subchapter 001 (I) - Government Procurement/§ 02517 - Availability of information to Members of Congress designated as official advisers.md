@@ -6,7 +6,7 @@ The United States Trade Representative shall make available to the Members of Co
 
 #### Amendments
 
-1994—Pub. L. 103–465 substituted “article XIX(5)” for “part VI, paragraph 9,”.
+<b>1994</b>—Pub. L. 103–465 substituted “article XIX(5)” for “part VI, paragraph 9,”.
 
 #### Change of Name
 

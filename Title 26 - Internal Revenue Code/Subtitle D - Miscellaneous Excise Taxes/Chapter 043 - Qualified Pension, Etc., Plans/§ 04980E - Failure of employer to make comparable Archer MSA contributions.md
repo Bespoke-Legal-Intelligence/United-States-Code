@@ -64,9 +64,9 @@ Terms used in this section which are also used in section 220 have the respectiv
 
 #### Amendments
 
-2002—Pub. L. 107–147 substituted “Archer MSA contributions” for “medical savings account contributions” in section catchline.
+<b>2002</b>—Pub. L. 107–147 substituted “Archer MSA contributions” for “medical savings account contributions” in section catchline.
 
-2000—Subsec. (a). Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(8)\], substituted “Archer MSA” for “medical savings account”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(8)\], substituted “Archer MSA” for “medical savings account”.
 
 Subsecs. (b), (d)(1). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(2)(D)\], substituted “Archer MSAs” for “medical savings accounts”.
 

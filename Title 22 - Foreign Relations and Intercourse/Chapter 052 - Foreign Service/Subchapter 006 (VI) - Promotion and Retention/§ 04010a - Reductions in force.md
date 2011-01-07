@@ -30,7 +30,7 @@ A prior section 611 of Pub. L. 96–465 was renumbered section 612 and is classi
 
 #### Amendments
 
-1994—Pub. L. 103–415 made technical amendment relating to style of section catchline.
+<b>1994</b>—Pub. L. 103–415 made technical amendment relating to style of section catchline.
 
 #### Employment Assistance Referral System for Certain Members of Foreign Service
 

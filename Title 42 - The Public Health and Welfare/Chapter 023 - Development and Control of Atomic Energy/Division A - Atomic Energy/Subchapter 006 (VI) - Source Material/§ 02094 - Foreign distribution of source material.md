@@ -6,7 +6,7 @@ The Commission is authorized to cooperate with any nation by distributing source
 
 #### Amendments
 
-1978—Pub. L. 95–242 provided that the authority to distribute source material under this section other than under an export license granted by the Nuclear Regulatory Commission shall in no case extend to quantities of source material in excess of three metric tons per year per recipient.
+<b>1978</b>—Pub. L. 95–242 provided that the authority to distribute source material under this section other than under an export license granted by the Nuclear Regulatory Commission shall in no case extend to quantities of source material in excess of three metric tons per year per recipient.
 
 #### Effective Date of 1978 Amendment
 

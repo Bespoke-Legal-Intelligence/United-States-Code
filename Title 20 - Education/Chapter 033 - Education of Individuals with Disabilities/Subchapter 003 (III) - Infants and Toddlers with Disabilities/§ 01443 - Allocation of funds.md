@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall, subject to this subsection, make payments to the Secretary of the Interior to be distributed to tribes, tribalorganizations (as defined under section 450b of title 25), or consortia of the above entities for the coordination of assistance in the provision of early intervention services by the States to infants and toddlers with disabilities and their families on reservations served by elementary schools and secondary schools for Indian children operated or funded by the Department of the Interior. The amount of such payment for any fiscal year shall be 1.25 percent of the aggregate of the amount available to all States under this subchapter for such fiscal year.
+&emsp;The Secretary shall, subject to this subsection, make payments to the Secretary of the Interior to be distributed to tribes, tribal organizations (as defined under section 450b of title 25), or consortia of the above entities for the coordination of assistance in the provision of early intervention services by the States to infants and toddlers with disabilities and their families on reservations served by elementary schools and secondary schools for Indian children operated or funded by the Department of the Interior. The amount of such payment for any fiscal year shall be 1.25 percent of the aggregate of the amount available to all States under this subchapter for such fiscal year.
 
 #### (2) Allocation
 
@@ -46,7 +46,7 @@
 
 &emsp;Except as provided in paragraph (3), no State shall receive an amount under this section for any fiscal year that is less than the greater of—
 
-&emsp;&emsp;(A) 1/2 of 1 percent of the remaining amount described in paragraph (1); or
+&emsp;&emsp;(A) ½ of 1 percent of the remaining amount described in paragraph (1); or
 
 &emsp;&emsp;(B) $500,000.
 
@@ -82,7 +82,7 @@ If a State elects not to receive its allotment under subsection (c), the Secreta
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraphs (2) and (3) of subsection (c), the Secretary shall provide agrant to each State under paragraph (1) in an amount that bears the same ratio to the amount reserved under such paragraph as the number of infants and toddlers in the State bears to the number of infants and toddlers in all States receiving grants under such paragraph.
+&emsp;&emsp;Notwithstanding paragraphs (2) and (3) of subsection (c), the Secretary shall provide a grant to each State under paragraph (1) in an amount that bears the same ratio to the amount reserved under such paragraph as the number of infants and toddlers in the State bears to the number of infants and toddlers in all States receiving grants under such paragraph.
 
 #### (B) Maximum amount
 

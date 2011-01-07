@@ -126,9 +126,9 @@ In subsection (e), the words “the membership of” and “in the case of” ar
 
 #### Amendments
 
-2008—Pub. L. 110–432 amended section generally. Prior to amendment, section related, in subsec. (a), to establishment, duties, membership, and confirmation procedure of Reform Board, in subsec. (b), to selection of the Board of Directors, and in subsec. (c), to authority of Reform Board to recommend to Congress a plan to implement transfer of Amtrak's infrastructure assets and responsibilities to a new separately governed corporation.
+<b>2008</b>—Pub. L. 110–432 amended section generally. Prior to amendment, section related, in subsec. (a), to establishment, duties, membership, and confirmation procedure of Reform Board, in subsec. (b), to selection of the Board of Directors, and in subsec. (c), to authority of Reform Board to recommend to Congress a plan to implement transfer of Amtrak's infrastructure assets and responsibilities to a new separately governed corporation.
 
-1997—Pub. L. 105–134 amended section generally. Prior to amendment, section related, in subsec. (a), to composition and terms of Amtrak board of directors, in subsec. (b), to cumulative voting by stockholders, in subsec. (c), to conflicts of interest of directors, in subsec. (d), to pay and expenses of directors, in subsec. (e), to vacancies on board, and in subsec. (f), to bylaws of board.
+<b>1997</b>—Pub. L. 105–134 amended section generally. Prior to amendment, section related, in subsec. (a), to composition and terms of Amtrak board of directors, in subsec. (b), to cumulative voting by stockholders, in subsec. (c), to conflicts of interest of directors, in subsec. (d), to pay and expenses of directors, in subsec. (e), to vacancies on board, and in subsec. (f), to bylaws of board.
 
 #### Effective Date of 2008 Amendment
 

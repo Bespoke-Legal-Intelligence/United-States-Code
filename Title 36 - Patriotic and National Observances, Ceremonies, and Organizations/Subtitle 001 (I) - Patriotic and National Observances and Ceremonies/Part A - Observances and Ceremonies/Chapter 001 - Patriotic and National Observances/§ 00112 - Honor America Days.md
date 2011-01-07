@@ -20,7 +20,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-112(a)D36:157b (words before comma).DJune 13, 1975, Pub. L. 94–33, 89 Stat. 211.
+112(a)
+
+36:157b (words before comma).
+
+June 13, 1975, Pub. L. 94–33, 89 Stat. 211.
 
 112(b)
 

@@ -8,7 +8,7 @@ Title to the lands and the improvements thereon, lying and situated within the S
 
 The National Industrial Recovery Act, referred to in text, is act June 16, 1933, ch. 90, 48 Stat. 195, as amended. Title II of the Act was classified principally to subchapter I (§401 et seq.) of chapter 8 of former Title 40, Public Buildings, Property, and Works, and was terminated June 30, 1943, by act June 27, 1942, ch. 450, §1, 56 Stat. 410. Provisions of title II of the Act which were classified to former Title 40 were repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304. For complete classification of this Act to the Code, see Tables.
 
-The Emergency Relief Appropriation Act of April 8, 1935 (49 Stat. 115), referred to in text, is act Apr. 8, 1935,ch. 48, 49 Stat. 115, which was set out as a note under section 728 of Title 15, Commerce and Trade.
+The Emergency Relief Appropriation Act of April 8, 1935 (49 Stat. 115), referred to in text, is act Apr. 8, 1935, ch. 48, 49 Stat. 115, which was set out as a note under section 728 of Title 15, Commerce and Trade.
 
 Section 55 of title I of the Act of August 24, 1935 (49 Stat. 750, 781), referred to in text, is section 5 of act Aug. 24, 1935, ch. 641, title I, 49 Stat. 781, which was not classified to the Code but was listed in the Supplementary Legislation note under section 721 of Title 15.
 

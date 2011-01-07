@@ -2,9 +2,9 @@ Part E—Student Loans
 
 #### Amendments
 
-1998—Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562, redesignated subpart II of part B as part E.
+<b>1998</b>—Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562, redesignated subpart II of part B as part E.
 
-1975—Pub. L. 94–63, title IX, §941(g)(3), July 29, 1975, 89 Stat. 365, inserted subpart II heading.
+<b>1975</b>—Pub. L. 94–63, title IX, §941(g)(3), July 29, 1975, 89 Stat. 365, inserted subpart II heading.
 
 
 ---
@@ -23,3 +23,4 @@ Part E—Student Loans
 - [&sect; 00297i - Procedures for appeal of terminations](%C2%A7%2000297i%20-%20Procedures%20for%20appeal%20of%20terminations.md)
 - [&sect; 00297n - Loan repayment and scholarship programs](%C2%A7%2000297n%20-%20Loan%20repayment%20and%20scholarship%20programs.md)
 - [&sect; 00297n&#8211;1 - Nurse faculty loan program](%C2%A7%2000297n%E2%80%931%20-%20Nurse%20faculty%20loan%20program.md)
+- [&sect; 00297o - Eligible individual student loan repayment](%C2%A7%2000297o%20-%20Eligible%20individual%20student%20loan%20repayment.md)

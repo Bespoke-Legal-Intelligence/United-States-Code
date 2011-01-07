@@ -10,14 +10,15 @@
 | [6406\.](%C2%A7%2006406%20-%20Prohibition%20of%20administrative%20review%20of%20decisions.md) | Prohibition of administrative review of decisions. |
 | [6407\.](%C2%A7%2006407%20-%20Date%20of%20allowance%20of%20refund%20or%20credit.md) | Date of allowance of refund or credit. |
 | [6408\.](%C2%A7%2006408%20-%20State%20escheat%20laws%20not%20to%20apply.md) | State escheat laws not to apply. |
+| [6409\.](%C2%A7%2006409%20-%20Refunds%20disregarded%20in%20the%20administration%20of%20Federal%20programs%20and%20federally%20assisted%20programs.md) | Refunds disregarded in the administration of Federal programs and federally assisted programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1987—Pub. L. 100–203, title X, §10621(b), Dec. 22, 1987, 101 Stat. 1330–452, added item 6408.
+<b>2010</b>—Pub. L. 111–312, title VII, §728(b), Dec. 17, 2010, 124 Stat. 3317, added item 6409.
 
-<i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
+<b>1987</b>—Pub. L. 100–203, title X, §10621(b), Dec. 22, 1987, 101 Stat. 1330–452, added item 6408.
 
 
 ---
@@ -32,3 +33,4 @@
 - [&sect; 06406 - Prohibition of administrative review of decisions](%C2%A7%2006406%20-%20Prohibition%20of%20administrative%20review%20of%20decisions.md)
 - [&sect; 06407 - Date of allowance of refund or credit](%C2%A7%2006407%20-%20Date%20of%20allowance%20of%20refund%20or%20credit.md)
 - [&sect; 06408 - State escheat laws not to apply](%C2%A7%2006408%20-%20State%20escheat%20laws%20not%20to%20apply.md)
+- [&sect; 06409 - Refunds disregarded in the administration of Federal programs and federally assisted programs](%C2%A7%2006409%20-%20Refunds%20disregarded%20in%20the%20administration%20of%20Federal%20programs%20and%20federally%20assisted%20programs.md)

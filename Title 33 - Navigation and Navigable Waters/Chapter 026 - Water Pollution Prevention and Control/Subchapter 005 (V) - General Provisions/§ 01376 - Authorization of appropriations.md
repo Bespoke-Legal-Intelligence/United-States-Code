@@ -10,11 +10,11 @@ Section 1321(k) of this title, referred to in text, was repealed by Pub. L. 101�
 
 #### Amendments
 
-1987—Pub. L. 100–4 struck out “and” after “1981,” and inserted “, such sums as may be necessary for fiscal years 1983 through 1985, and $135,000,000 per fiscal year for each of the fiscal years 1986 through 1990” after “1982”.
+<b>1987</b>—Pub. L. 100–4 struck out “and” after “1981,” and inserted “, such sums as may be necessary for fiscal years 1983 through 1985, and $135,000,000 per fiscal year for each of the fiscal years 1986 through 1990” after “1982”.
 
-1980—Pub. L. 96–483 inserted authorization of $150,000,000 for fiscal year ending Sept. 30, 1981 and $161,000,000 for fiscal year ending Sept. 30, 1982.
+<b>1980</b>—Pub. L. 96–483 inserted authorization of $150,000,000 for fiscal year ending Sept. 30, 1981 and $161,000,000 for fiscal year ending Sept. 30, 1982.
 
-1977—Pub. L. 95–217 substituted “$350,000,000 for the fiscal year ending June 30, 1975, $100,000,000 for the fiscal year ending September 30, 1977, $150,000,000 for the fiscal year ending September 30, 1978, $150,000,000 for the fiscal year ending September 30, 1979, and $150,000,000 for the fiscal year ending September 30, 1980” for “and $350,000,000 for the fiscal year ending June 30, 1975”.
+<b>1977</b>—Pub. L. 95–217 substituted “$350,000,000 for the fiscal year ending June 30, 1975, $100,000,000 for the fiscal year ending September 30, 1977, $150,000,000 for the fiscal year ending September 30, 1978, $150,000,000 for the fiscal year ending September 30, 1979, and $150,000,000 for the fiscal year ending September 30,1980” for “and $350,000,000 for the fiscal year ending June 30, 1975”.
 
 #### Authorization Approval for Funds Appropriated Before December 27, 1977, for Expenditures Through Fiscal Year Ending September 30, 1977
 

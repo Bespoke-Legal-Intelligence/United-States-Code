@@ -16,7 +16,7 @@ No action shall be maintained under section 1709 of this title to enforce a righ
 
 #### Amendments
 
-1979—Pub. L. 96–153 designated existing provisions as subsec. (a), substituted provisions setting forth limitations relating to any action maintained under section 1709 of this title, for provisions setting forth limitations relating to any action maintained to enforce any liability created under section 1709(a) or (b)(2) of this title, and added subsec. (b).
+<b>1979</b>—Pub. L. 96–153 designated existing provisions as subsec. (a), substituted provisions setting forth limitations relating to any action maintained under section 1709 of this title, for provisions setting forth limitations relating to any action maintained to enforce any liability created under section 1709(a) or (b)(2) of this title, and added subsec. (b).
 
 #### Effective Date of 1979 Amendment
 

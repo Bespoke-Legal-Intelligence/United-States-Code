@@ -14,7 +14,7 @@
 | :--- | ---: |
 | [202\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000202%20-%20Administration%20and%20supervision%20of%20Service.md) | Administration and supervision of Service. |
 | [203\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000203%20-%20Organization%20of%20Service.md) | Organization of Service. |
-| [204\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000204%20-%20Commissioned%20corps%3B%20composition%3B%20appointment%20of%20Regular%20and%20Reserve%20officers%3B%20appointment%20and%20status%20of%20warrant%20officers.md) | Commissioned corps; composition; appointment of Regular and Reserve officers; appointment and status of warrant officers. |
+| [204\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000204%20-%20Commissioned%20Corps%20and%20Ready%20Reserve%20Corps.md) | Commissioned Corps and Ready Reserve Corps. |
 | [204a.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000204a%20-%20Deployment%20readiness.md) | Deployment readiness. |
 | [205\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000205%20-%20Appointment%20and%20tenure%20of%20office%20of%20Surgeon%20General%3B%20reversion%20in%20rank.md) | Appointment and tenure of office of Surgeon General; reversion in rank. |
 | [206\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000206%20-%20Assignment%20of%20officers.md) | Assignment of officers. |
@@ -52,6 +52,7 @@
 | [235\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000235%20-%20Administration%20of%20grants%20in%20multigrant%20projects%3B%20promulgation%20of%20regulations.md) | Administration of grants in multigrant projects; promulgation of regulations. |
 | [236\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000236%20-%20Orphan%20Products%20Board.md) | Orphan Products Board. |
 | [237\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000237%20-%20Silvio%20O.%20Conte%20Senior%20Biomedical%20Research%20Service.md) | Silvio O. Conte Senior Biomedical Research Service. |
+| [237a.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000237a%20-%20Health%20and%20Human%20Services%20Office%20on%20Women%27s%20Health.md) | Health and Human Services Office on Women's Health. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -96,6 +97,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Part D—United States Public Health Sciences Track
+
+|  |  |
+| :--- | ---: |
+| 239<i>l.</i> | Establishment. |
+| 239<i>l</i>–1. | Administration. |
+| 239<i>l</i>–2. | Students; selection; obligation. |
+| 239<i>l</i>–3. | Funding. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER II—GENERAL POWERS AND DUTIES
 
 #### Part A—Research and Investigations
@@ -120,6 +132,7 @@
 | 242q–4. | Definitions. |
 | 242q–5. | Authorization of appropriations. |
 | [242r.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20A%20-%20Research%20and%20Investigations/%C2%A7%2000242r%20-%20Improvement%20and%20publication%20of%20data%20on%20food-related%20allergic%20responses.md) | Improvement and publication of data on food-related allergic responses. |
+| [242s.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20A%20-%20Research%20and%20Investigations/%C2%A7%2000242s%20-%20Centers%20for%20Disease%20Control%20and%20Prevention%20Office%20of%20Women%27s%20Health.md) | Centers for Disease Control and Prevention Office of Women's Health. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -151,6 +164,7 @@
 | 247b–7. | Loan repayment program. |
 | 247b–8. | Fellowship and training programs. |
 | 247b–9. | Diabetes in children and youth. |
+| 247b–9a. | Better diabetes care. |
 | 247b–10. | Compilation of data on asthma. |
 | 247b–11. | Effects of folic acid in prevention of birth defects. |
 | 247b–12. | Safe motherhood. |
@@ -218,13 +232,16 @@
 
 #### Part D—Primary Health Care
 
-I74subpart i—health centers
+#### subpart i—health centers
 
 |  |  |
 | :--- | ---: |
 | [254b.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20001%20%28i%29%20-%20Health%20Centers/%C2%A7%2000254b%20-%20Health%20centers.md) | Health centers. |
+| 254b–1. | State grants to health care providers who provide services to a high percentage of medically underserved populations or other special populations. |
+| 254b–2. | Community health centers and the National Health Service Corps Fund. |
 | [254c.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20001%20%28i%29%20-%20Health%20Centers/%C2%A7%2000254c%20-%20Rural%20health%20care%20services%20outreach%2C%20rural%20health%20network%20development%2C%20and%20small%20health%20care%20provider%20quality%20improvement%20grant%20programs.md) | Rural health care services outreach, rural health network development, and small health care provider quality improvement grant programs. |
 | 254c–1. | Grants for health services for Pacific Islanders. |
+| 254c–1a. | Grants to nurse-managed health clinics. |
 | 254c–2. | Special diabetes programs for type I diabetes. |
 | 254c–3. | Special diabetes programs for Indians. |
 | 254c–4. | Centers for strategies on facilitating utilization of preventive health services among various populations. |
@@ -296,6 +313,7 @@ I74subpart i—health centers
 | :--- | ---: |
 | [256\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20005%20%28v%29%20-%20Healthy%20Communities%20Access%20Program/%C2%A7%2000256%20-%20Grants%20to%20strengthen%20the%20effectiveness%2C%20efficiency%2C%20and%20coordination%20of%20services%20for%20the%20uninsured%20and%20underinsured.md) | Grants to strengthen the effectiveness, efficiency, and coordination of services for the uninsured and underinsured. |
 | [256a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20005%20%28v%29%20-%20Healthy%20Communities%20Access%20Program/%C2%A7%2000256a%20-%20Patient%20navigator%20grants.md) | Patient navigator grants. |
+| 256a–1. | Establishing community health teams to support the patient-centered medical home. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -330,6 +348,23 @@ I74subpart i—health centers
 | :--- | ---: |
 | [256f.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20010%20%28x%29%20-%20Primary%20Dental%20Programs/%C2%A7%2000256f%20-%20Designated%20dental%20health%20professional%20shortage%20area.md) | Designated dental health professional shortage area. |
 | [256g.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20010%20%28x%29%20-%20Primary%20Dental%20Programs/%C2%A7%2000256g%20-%20Grants%20for%20innovative%20programs.md) | Grants for innovative programs. |
+| 256g–1. | Demonstration program to increase access to dental health care services. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart xi—support of graduate medical education in qualified teaching health centers
+
+|  |  |
+| :--- | ---: |
+| [256h.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20011%20%28xi%29%20-%20Support%20of%20Graduate%20Medical%20Education%20in%20Qualified%20Teaching%20Health%20Centers/%C2%A7%2000256h%20-%20Program%20of%20payments%20to%20teaching%20health%20centers%20that%20operate%20graduate%20medical%20education%20programs.md) | Program of payments to teaching health centers that operate graduate medical education programs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart xii—community-based collaborative care network program
+
+|  |  |
+| :--- | ---: |
+| [256i.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20012%20%28xii%29%20-%20Community-Based%20Collaborative%20Care%20Network%20Program/%C2%A7%2000256i%20-%20Community-based%20collaborative%20care%20network%20program.md) | Community-based collaborative care network program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -343,7 +378,7 @@ I74subpart i—health centers
 
 #### Part F—Licensing of Biological Products and Clinical Laboratories
 
-I74subpart 1—biological products
+#### subpart 1—biological products
 
 |  |  |
 | :--- | ---: |
@@ -458,7 +493,7 @@ I74subpart 1—biological products
 
 #### Part K—Health Care Services in the Home
 
-I74subpart i—grants for demonstration projects
+#### subpart i—grants for demonstration projects
 
 |  |  |
 | :--- | ---: |
@@ -529,7 +564,7 @@ I74subpart i—grants for demonstration projects
 |  |  |
 | :--- | ---: |
 | [280g.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20P%20-%20Additional%20Programs/%C2%A7%2000280g%20-%20Children%27s%20asthma%20treatment%20grants%20program.md) | Children's asthma treatment grants program. |
-| 280g–1. | Early detection, diagnosis, and treatment regarding hearing loss in infants. |
+| 280g–1. | Early detection, diagnosis, and treatment regarding hearing loss in newborns and infants. |
 | 280g–2. | Childhood malignancies. |
 | 280g–3. | .Controlled substance monitoring program. |
 | 280g–4. | Grants to foster public health responses to domestic violence, dating violence, sexual assault, and stalking. |
@@ -538,6 +573,13 @@ I74subpart i—grants for demonstration projects
 | 280g–7. | Amyotrophic lateral sclerosis registry. |
 | 280g–8. | Support for patients receiving a positive diagnosis of Down syndrome or other prenatally or postnatally diagnosed conditions. |
 | 280g–9. | Programs to improve quality of life for persons with paralysis and other physical disabilities. |
+| 280g–10. | Community Preventive Services Task Force. |
+| 280g–11. | Grants to promote positive health behaviors and outcomes. |
+| 280g–12. | Primary Care Extension Program. |
+| 280g–13. | National Congenital Heart Disease Surveillance System. |
+| 280g–14. | National diabetes prevention program. |
+| 280g–15. | State demonstration programs to evaluate alternatives to current medical tort litigation. |
+| 280g–16. | Food Safety Integrated Centers of Excellence. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -549,6 +591,8 @@ I74subpart i—grants for demonstration projects
 | 280h–1. | Applied research program. |
 | 280h–2. | Education campaign. |
 | 280h–3. | Health professional education and training. |
+| 280h–4. | Grants for the establishment of school-based health centers. |
+| 280h–5. | School-based health centers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -564,6 +608,49 @@ I74subpart i—grants for demonstration projects
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Part S—Health Care Quality Programs
+
+#### subpart i—national strategy for quality improvement in health care
+
+|  |  |
+| :--- | ---: |
+| [280j.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20S%20-%20Health%20Care%20Quality%20Programs/Subpart%20001%20%28i%29%20-%20National%20Strategy%20for%20Quality%20Improvement%20in%20Health%20Care/%C2%A7%2000280j%20-%20National%20strategy%20for%20quality%20improvement%20in%20health%20care.md) | National strategy for quality improvement in health care. |
+| 280j–1. | Collection and analysis of data for quality and resource use measures. |
+| 280j–2. | Public reporting of performance information. |
+| 280j–3. | Quality improvement program for hospitals with a high severity adjusted readmission rate. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part T—Oral Healthcare Prevention Activities
+
+|  |  |
+| :--- | ---: |
+| [280k.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20T%20-%20Oral%20Healthcare%20Prevention%20Activities/%C2%A7%2000280k%20-%20Oral%20healthcare%20prevention%20education%20campaign.md) | Oral healthcare prevention education campaign. |
+| 280k–1. | Research-based dental caries disease management. |
+| 280k–2. | Authorization of appropriations. |
+| 280k–3. | Updating national oral healthcare surveillance activities. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part U—Employer-Based Wellness Program
+
+|  |  |
+| :--- | ---: |
+| 280<i>l.</i> | Technical assistance for employer-based wellness programs. |
+| 280<i>l</i>–1. | National worksite health policies and programs study. |
+| 280<i>l</i>–2. | Prioritization of evaluation by Secretary. |
+| 280<i>l</i>–3. | Prohibition of Federal workplace wellness requirements. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part V—Programs Relating to Breast Health and Cancer
+
+|  |  |
+| :--- | ---: |
+| [280m.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20V%20-%20Programs%20Relating%20to%20Breast%20Health%20and%20Cancer/%C2%A7%2000280m%20-%20Young%20women%27s%20breast%20health%20awareness%20and%20support%20of%20young%20women%20diagnosed%20with%20breast%20cancer.md) | Young women's breast health awareness and support of young women diagnosed with breast cancer. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER III—NATIONAL RESEARCH INSTITUTES
 
 #### Part A—National Institutes of Health
@@ -575,6 +662,7 @@ I74subpart i—grants for demonstration projects
 | [282a.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000282a%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [282b.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000282b%20-%20Electronic%20coding%20of%20grants%20and%20activities.md) | Electronic coding of grants and activities. |
 | [282c.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000282c%20-%20Public%20access%20to%20funded%20investigators%E2%80%99%20final%20manuscripts.md) | Public access to funded investigators’ final manuscripts. |
+| [282d.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000282d%20-%20Cures%20Acceleration%20Network.md) | Cures Acceleration Network. |
 | [283\.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283%20-%20Biennial%20reports%20of%20Director%20of%20NIH.md) | Biennial reports of Director of NIH. |
 | [283a.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283a%20-%20Annual%20reporting%20to%20increase%20interagency%20collaboration%20and%20coordination.md) | Annual reporting to increase interagency collaboration and coordination. |
 | 283a–1. | Annual reporting to prevent fraud and abuse. |
@@ -613,12 +701,13 @@ I74subpart i—grants for demonstration projects
 | [284n.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284n%20-%20Certain%20demonstration%20projects.md) | Certain demonstration projects. |
 | 284<i>o.</i> | Activities of the National Institutes of Health with respect to research on paralysis. |
 | [284p.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284p%20-%20Activities%20of%20the%20National%20Institutes%20of%20Health%20with%20respect%20to%20research%20with%20implications%20for%20enhancing%20daily%20function%20for%20persons%20with%E2%80%A6.md) | Activities of the National Institutes of Health with respect to research with implications for enhancing daily function for persons with paralysis. |
+| [284q.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284q%20-%20Pain%20research.md) | Pain research. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Part C—Specific Provisions Respecting National Research Institutes
 
-I74subpart 1—national cancer institute
+#### subpart 1—national cancer institute
 
 |  |  |
 | :--- | ---: |
@@ -654,7 +743,7 @@ I74subpart 1—national cancer institute
 | 285b–7a. | Heart attack, stroke, and other cardiovascular diseases in women. |
 | 285b–7b. | Coordination of Federal asthma activities. |
 | 285b–7c. | Tuberculosis. |
-| 285b–8. | Repealed. |
+| 285b–8. | Congenital heart disease. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -730,7 +819,7 @@ I74subpart 1—national cancer institute
 | :--- | ---: |
 | [285g.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20C%20-%20Specific%20Provisions%20Respecting%20National%20Research%20Institutes/Subpart%20007%20-%20Eunice%20Kennedy%20Shriver%20National%20Institute%20of%20Child%20Health%20and%20Human%20Development/%C2%A7%2000285g%20-%20Purpose%20of%20Institute.md) | Purpose of Institute. |
 | 285g–1. | Sudden infant death syndrome research. |
-| 285g–2. | Mental retardation research. |
+| 285g–2. | Research on intellectual disabilities. |
 | 285g–3. | Associate Director for Prevention; appointment; function. |
 | 285g–4. | National Center for Medical Rehabilitation Research. |
 | 285g–5. | Research centers with respect to contraception and infertility. |
@@ -866,9 +955,20 @@ I74subpart 1—national cancer institute
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### subpart 20—national institute on minority health and health disparities
+
+|  |  |
+| :--- | ---: |
+| [285t.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20C%20-%20Specific%20Provisions%20Respecting%20National%20Research%20Institutes/Subpart%20020%20-%20National%20Institute%20on%20Minority%20Health%20and%20Health%20Disparities/%C2%A7%2000285t%20-%20Purpose%20of%20Institute.md) | Purpose of Institute. |
+| 285t–1. | Centers of excellence for research education and training. |
+| 285t–2. | Loan repayment program for minority health disparities research. |
+| 285t–3. | General provisions regarding the Institute. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Part D—National Library of Medicine
 
-I74subpart 1—general provisions
+#### subpart 1—general provisions
 
 |  |  |
 | :--- | ---: |
@@ -913,7 +1013,7 @@ I74subpart 1—general provisions
 
 #### Part E—Other Agencies of NIH
 
-I74subpart 1—national center for research resources
+#### subpart 1—national center for research resources
 
 |  |  |
 | :--- | ---: |
@@ -959,14 +1059,11 @@ I74subpart 1—national center for research resources
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### subpart 6—national center on minority health and health disparities
+#### subpart 6—transferred
 
-|  |  |
-| :--- | ---: |
-| 287c–31. | Purpose of Center. |
-| 287c–32. | Centers of excellence for research education and training. |
-| 287c–33. | Loan repayment program for minority health disparities research. |
-| 287c–34. | General provisions regarding the Center. |
+|  |
+| :--- |
+| 287c–31 to 287c–34. Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1016,6 +1113,7 @@ I74subpart 1—national center for research resources
 | 289g–1. | Research on transplantation of fetal tissue. |
 | 289g–2. | Prohibitions regarding human fetal tissue. |
 | 289g–3. | Breast implant research. |
+| 289g–4. | Support for emergency medicine research. |
 | [289h.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20H%20-%20General%20Provisions/%C2%A7%2000289h%20-%20Repealed.%20Pub.%20L.%20103%E2%80%9343%2C%20title%20I%2C%20%C2%A7121%28b%29%282%29%2C%20June%2010%2C%201993%2C%20107%20Stat.%20133.md) | Repealed. |
 | [290\.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20H%20-%20General%20Provisions/%C2%A7%2000290%20-%20National%20Institutes%20of%20Health%20Management%20Fund%3B%20establishment%3B%20advancements%3B%20availability%3B%20final%20adjustments%20of%20advances.md) | National Institutes of Health Management Fund; establishment; advancements; availability; final adjustments of advances. |
 | [290a.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20H%20-%20General%20Provisions/%C2%A7%2000290a%20-%20Victims%20of%20fire.md) | Victims of fire. |
@@ -1052,7 +1150,7 @@ I74subpart 1—national center for research resources
 
 #### Part B—Centers and Programs
 
-I74subpart 1—center for substance abuse treatment
+#### subpart 1—center for substance abuse treatment
 
 |  |  |
 | :--- | ---: |
@@ -1093,7 +1191,7 @@ I74subpart 1—center for substance abuse treatment
 | :--- | ---: |
 | 290bb–31. | Center for Mental Health Services. |
 | 290bb–32. | Priority mental health needs of regional and national significance. |
-| 290bb–33. | Repealed. |
+| 290bb–33. | National centers of excellence for depression. |
 | 290bb–34. | Youth interagency research, training, and technical assistance centers. |
 | 290bb–35. | Services for youth offenders. |
 | 290bb–36. | Youth suicide early intervention and prevention strategies. |
@@ -1104,6 +1202,7 @@ I74subpart 1—center for substance abuse treatment
 | 290bb–39. | Improving outcomes for children and adolescents through services integration between child welfare and mental health services. |
 | 290bb–40. | Grants for the integrated treatment of serious mental illness and co-occurring substance abuse. |
 | 290bb–41. | Training grants. |
+| 290bb–42. | Awards for co-locating primary and specialty care in community-based mental health settings. |
 | 290cc to 290cc–13. Repealed or Transferred. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1268,7 +1367,7 @@ I74subpart 1—center for substance abuse treatment
 
 #### Part A—Student Loans
 
-I74subpart i–insured health education assistance loans to graduate students
+#### subpart i–insured health education assistance loans to graduate students
 
 |  |  |
 | :--- | ---: |
@@ -1323,12 +1422,25 @@ I74subpart i–insured health education assistance loans to graduate students
 
 #### Part C—Training in Family Medicine, General Internal Medicine, General Pediatrics, Physician Assistants, General Dentistry, and Pediatric Dentistry
 
+#### subpart 1—medical training generally
+
 |  |  |
 | :--- | ---: |
-| [293j.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20C%20-%20Training%20in%20Family%20Medicine%2C%20General%20Internal%20Medicine%2C%20General%20Pediatrics%2C%20Physician%20Assistants%2C%20General%20Dentistry%2C%20and%20Pediatric%20Dentistry/%C2%A7%2000293j%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93392%2C%20title%20I%2C%20%C2%A7102%282%29%2C%20Nov.%2013%2C%201998%2C%20112%20Stat.%203537.md) | Repealed. |
-| [293k.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20C%20-%20Training%20in%20Family%20Medicine%2C%20General%20Internal%20Medicine%2C%20General%20Pediatrics%2C%20Physician%20Assistants%2C%20General%20Dentistry%2C%20and%20Pediatric%20Dentistry/%C2%A7%2000293k%20-%20Family%20medicine%2C%20general%20internal%20medicine%2C%20general%20pediatrics%2C%20general%20dentistry%2C%20pediatric%20dentistry%2C%20and%20physician%20assistants.md) | Family medicine, general internal medicine, general pediatrics, general dentistry, pediatric dentistry, and physician assistants. |
+| [293j.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20C%20-%20Training%20in%20Family%20Medicine%2C%20General%20Internal%20Medicine%2C%20General%20Pediatrics%2C%20Physician%20Assistants%2C%20General%20Dentistry%2C%20and%20Pediatric%20Dentistry/Subpart%20001%20-%20Medical%20Training%20Generally/%C2%A7%2000293j%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93392%2C%20title%20I%2C%20%C2%A7102%282%29%2C%20Nov.%2013%2C%201998%2C%20112%20Stat.%203537.md) | Repealed. |
+| [293k.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20C%20-%20Training%20in%20Family%20Medicine%2C%20General%20Internal%20Medicine%2C%20General%20Pediatrics%2C%20Physician%20Assistants%2C%20General%20Dentistry%2C%20and%20Pediatric%20Dentistry/Subpart%20001%20-%20Medical%20Training%20Generally/%C2%A7%2000293k%20-%20Primary%20care%20training%20and%20enhancement.md) | Primary care training and enhancement. |
+| 293k–1. | Training opportunities for direct care workers. |
+| 293k–2. | Training in general, pediatric, and public health dentistry. |
 | 293<i>l</i>. | Advisory Committee on Training in Primary Care Medicine and Dentistry. |
-| 293m to 293p. | Repealed. |
+| 293<i>l</i>–1. | Teaching health centers development grants. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 2—training in underserved communities
+
+|  |  |
+| :--- | ---: |
+| [293m.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20C%20-%20Training%20in%20Family%20Medicine%2C%20General%20Internal%20Medicine%2C%20General%20Pediatrics%2C%20Physician%20Assistants%2C%20General%20Dentistry%2C%20and%20Pediatric%20Dentistry/Subpart%20002%20-%20Training%20in%20Underserved%20Communities/%C2%A7%2000293m%20-%20Rural%20physician%20training%20grants.md) | Rural physician training grants. |
+| 293n to 293p. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1338,25 +1450,30 @@ I74subpart i–insured health education assistance loans to graduate students
 | :--- | ---: |
 | [294\.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294%20-%20General%20provisions.md) | General provisions. |
 | [294a.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294a%20-%20Area%20health%20education%20centers.md) | Area health education centers. |
-| [294b.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294b%20-%20Health%20education%20and%20training%20centers.md) | Health education and training centers. |
+| [294b.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294b%20-%20Continuing%20educational%20support%20for%20health%20professionals%20serving%20in%20underserved%20communities.md) | Continuing educational support for health professionals serving in underserved communities. |
 | [294c.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294c%20-%20Education%20and%20training%20relating%20to%20geriatrics.md) | Education and training relating to geriatrics. |
 | [294d.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294d%20-%20Quentin%20N.%20Burdick%20program%20for%20rural%20interdisciplinary%20training.md) | Quentin N. Burdick program for rural interdisciplinary training. |
 | [294e.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294e%20-%20Allied%20health%20and%20other%20disciplines.md) | Allied health and other disciplines. |
+| 294e–1. | Mental and behavioral health education and training grants. |
 | [294f.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294f%20-%20Advisory%20Committee%20on%20Interdisciplinary%2C%20Community-Based%20Linkages.md) | Advisory Committee on Interdisciplinary, Community-Based Linkages. |
-| [294g.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294g%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [294g.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294g%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93148%2C%20title%20V%2C%20%C2%A75306%28a%29%281%29%2C%20Mar.%2023%2C%202010%2C%20124%20Stat.%20626.md) | Repealed. |
 | [294h.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294h%20-%20Interdisciplinary%20training%20and%20education%20on%20domestic%20violence%20and%20other%20types%20of%20violence%20and%20abuse.md) | Interdisciplinary training and education on domestic violence and other types of violence and abuse. |
+| [294i.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294i%20-%20Program%20for%20education%20and%20training%20in%20pain%20care.md) | Program for education and training in pain care. |
+| [294j.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294j%20-%20Demonstration%20program%20to%20integrate%20quality%20improvement%20and%20patient%20safety%20training%20into%20clinical%20education%20of%20health%20professionals.md) | Demonstration program to integrate quality improvement and patient safety training into clinical education of health professionals. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Part E—Health Professions and Public Health Workforce
 
-I74subpart 1—health professions workforce information and analysis
+#### subpart 1—health professions workforce information and analysis
 
 |  |  |
 | :--- | ---: |
 | [294n.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20001%20-%20Health%20Professions%20Workforce%20Information%20and%20Analysis/%C2%A7%2000294n%20-%20Health%20professions%20workforce%20information%20and%20analysis.md) | Health professions workforce information and analysis. |
 | 294<i>o</i>. | Advisory Council on Graduate Medical Education. |
 | [294p.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20001%20-%20Health%20Professions%20Workforce%20Information%20and%20Analysis/%C2%A7%2000294p%20-%20Pediatric%20rheumatology.md) | Pediatric rheumatology. |
+| [294q.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20001%20-%20Health%20Professions%20Workforce%20Information%20and%20Analysis/%C2%A7%2000294q%20-%20National%20Health%20Care%20Workforce%20Commission.md) | National Health Care Workforce Commission. |
+| [294r.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20001%20-%20Health%20Professions%20Workforce%20Information%20and%20Analysis/%C2%A7%2000294r%20-%20State%20health%20care%20workforce%20development%20grants.md) | State health care workforce development grants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1367,9 +1484,20 @@ I74subpart 1—health professions workforce information and analysis
 | [295\.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20002%20-%20Public%20Health%20Workforce/%C2%A7%2000295%20-%20General%20provisions.md) | General provisions. |
 | [295a.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20002%20-%20Public%20Health%20Workforce/%C2%A7%2000295a%20-%20Public%20health%20training%20centers.md) | Public health training centers. |
 | [295b.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20002%20-%20Public%20Health%20Workforce/%C2%A7%2000295b%20-%20Public%20health%20traineeships.md) | Public health traineeships. |
-| [295c.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20002%20-%20Public%20Health%20Workforce/%C2%A7%2000295c%20-%20Preventive%20medicine%3B%20dental%20public%20health.md) | Preventive medicine; dental public health. |
+| [295c.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20002%20-%20Public%20Health%20Workforce/%C2%A7%2000295c%20-%20Preventive%20medicine%20and%20public%20health%20training%20grant%20program.md) | Preventive medicine and public health training grant program. |
 | [295d.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20002%20-%20Public%20Health%20Workforce/%C2%A7%2000295d%20-%20Health%20administration%20traineeships%20and%20special%20projects.md) | Health administration traineeships and special projects. |
 | [295e.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20002%20-%20Public%20Health%20Workforce/%C2%A7%2000295e%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 3—recruitment and retention programs
+
+|  |  |
+| :--- | ---: |
+| [295f.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20003%20-%20Recruitment%20and%20Retention%20Programs/%C2%A7%2000295f%20-%20Investment%20in%20tomorrow%27s%20pediatric%20health%20care%20workforce.md) | Investment in tomorrow's pediatric health care workforce. |
+| 295f–1. | Public Health Workforce Loan Repayment Program. |
+| 295f–2. | Training for mid-career public and allied health professionals. |
+| 295f–3. | Fellowship training in applied public health epidemiology, public health laboratory science, public health informatics, and expansion of the Epidemic Intelligence Service. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1414,6 +1542,7 @@ I74subpart 1—health professions workforce information and analysis
 |  |  |
 | :--- | ---: |
 | [296j.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20B%20-%20Nurse%20Practitioners%2C%20Nurse%20Midwives%2C%20Nurse%20Anesthetists%2C%20and%20Other%20Advanced%20Education%20Nurses/%C2%A7%2000296j%20-%20Advanced%20education%20nursing%20grants.md) | Advanced education nursing grants. |
+| 296j–1. | Demonstration grants for family nurse practitioner training programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1429,7 +1558,8 @@ I74subpart 1—health professions workforce information and analysis
 
 |  |  |
 | :--- | ---: |
-| [296p.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20D%20-%20Strengthening%20Capacity%20for%20Basic%20Nurse%20Education%20and%20Practice/%C2%A7%2000296p%20-%20Nurse%20education%2C%20practice%2C%20and%20retention%20grants.md) | Nurse education, practice, and retention grants. |
+| [296p.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20D%20-%20Strengthening%20Capacity%20for%20Basic%20Nurse%20Education%20and%20Practice/%C2%A7%2000296p%20-%20Nurse%20education%2C%20practice%2C%20and%20quality%20grants.md) | Nurse education, practice, and quality grants. |
+| 296p–1. | Nurse retention grants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1448,39 +1578,40 @@ I74subpart 1—health professions workforce information and analysis
 | [297i.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20E%20-%20Student%20Loans/%C2%A7%2000297i%20-%20Procedures%20for%20appeal%20of%20terminations.md) | Procedures for appeal of terminations. |
 | [297n.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20E%20-%20Student%20Loans/%C2%A7%2000297n%20-%20Loan%20repayment%20and%20scholarship%20programs.md) | Loan repayment and scholarship programs. |
 | 297n–1. | Nurse faculty loan program. |
+| 297<i>o.</i> | Eligible individual student loan repayment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part F—Funding
+#### Part F—National Advisory Council on Nurse Education and Practice
 
 |  |  |
 | :--- | ---: |
-| [297q.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20F%20-%20Funding/%C2%A7%2000297q%20-%20Funding.md) | Funding. |
+| [297t.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20F%20-%20National%20Advisory%20Council%20on%20Nurse%20Education%20and%20Practice/%C2%A7%2000297t%20-%20National%20Advisory%20Council%20on%20Nurse%20Education%20and%20Practice.md) | National Advisory Council on Nurse Education and Practice. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part G—National Advisory Council on Nurse Education and Practice
+#### Part G—Public Service Announcements
 
 |  |  |
 | :--- | ---: |
-| [297t.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20G%20-%20National%20Advisory%20Council%20on%20Nurse%20Education%20and%20Practice/%C2%A7%2000297t%20-%20National%20Advisory%20Council%20on%20Nurse%20Education%20and%20Practice.md) | National Advisory Council on Nurse Education and Practice. |
+| [297w.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20G%20-%20Public%20Service%20Announcements/%C2%A7%2000297w%20-%20Public%20service%20announcements.md) | Public service announcements. |
+| [297x.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20G%20-%20Public%20Service%20Announcements/%C2%A7%2000297x%20-%20State%20and%20local%20public%20service%20announcements.md) | State and local public service announcements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part H—Public Service Announcements
+#### Part H—Comprehensive Geriatric Education
 
 |  |  |
 | :--- | ---: |
-| [297w.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20H%20-%20Public%20Service%20Announcements/%C2%A7%2000297w%20-%20Public%20service%20announcements.md) | Public service announcements. |
-| [297x.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20H%20-%20Public%20Service%20Announcements/%C2%A7%2000297x%20-%20State%20and%20local%20public%20service%20announcements.md) | State and local public service announcements. |
+| [298\.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20H%20-%20Comprehensive%20Geriatric%20Education/%C2%A7%2000298%20-%20Comprehensive%20geriatric%20education.md) | Comprehensive geriatric education. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part I—Comprehensive Geriatric Education
+#### Part I—Funding
 
 |  |  |
 | :--- | ---: |
-| [298\.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20I%20-%20Comprehensive%20Geriatric%20Education/%C2%A7%2000298%20-%20Comprehensive%20geriatric%20education.md) | Comprehensive geriatric education. |
+| [298d.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20I%20-%20Funding/%C2%A7%2000298d%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1521,16 +1652,39 @@ I74subpart 1—health professions workforce information and analysis
 | 299b–22. | Privilege and confidentiality protections. |
 | 299b–23. | Network of patient safety databases. |
 | 299b–24. | Patient safety organization certification and listing. |
+| 299b–24a. | Activities regarding women's health. |
 | 299b–25. | Technical assistance. |
 | 299b–26. | Severability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part D—General Provisions
+#### Part D—Health Care Quality Improvement
+
+#### subpart 1—quality measure development
 
 |  |  |
 | :--- | ---: |
-| [299c.](Subchapter%20007%20%28VII%29%20-%20Agency%20for%20Healthcare%20Research%20and%20Quality/Part%20D%20-%20General%20Provisions/%C2%A7%2000299c%20-%20Advisory%20Council%20for%20Healthcare%20Research%20and%20Quality.md) | Advisory Council for Healthcare Research and Quality. |
+| 299b–31. | Quality measure development. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 2—health care quality improvement programs
+
+|  |  |
+| :--- | ---: |
+| 299b–33. | Health care delivery system research. |
+| 299b–34. | Quality improvement technical assistance and implementation. |
+| 299b–35. | Grants or contracts to implement medication management services in treatment of chronic diseases. |
+| 299b–36. | Program to facilitate shared decisionmaking. |
+| 299b–37. | Dissemination and building capacity for research. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part E—General Provisions
+
+|  |  |
+| :--- | ---: |
+| [299c.](Subchapter%20007%20%28VII%29%20-%20Agency%20for%20Healthcare%20Research%20and%20Quality/Part%20E%20-%20General%20Provisions/%C2%A7%2000299c%20-%20Advisory%20Council%20for%20Healthcare%20Research%20and%20Quality.md) | Advisory Council for Healthcare Research and Quality. |
 | 299c–1. | Peer review with respect to grants and contracts. |
 | 299c–2. | Certain provisions with respect to development, collection, and dissemination of data. |
 | 299c–3. | Dissemination of information. |
@@ -1630,7 +1784,8 @@ I74subpart 1—health professions workforce information and analysis
 | 300d–1, 300d–2. | Repealed. |
 | 300d–3. | Establishment of programs for improving trauma care in rural areas. |
 | 300d–4. | Emergency medical services. |
-| 300d–5. | Competitive grants for the improvement of trauma care. |
+| 300d–5. | Competitive grants for trauma systems for the improvement of trauma care. |
+| 300d–6. | Competitive grants for regionalized systems for emergency care response. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1672,6 +1827,7 @@ I74subpart 1—health professions workforce information and analysis
 | 300d–43. | Certain agreements. |
 | 300d–44. | General provisions. |
 | 300d–45. | Authorization of appropriations. |
+| 300d–46. | Definition. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1701,6 +1857,15 @@ I74subpart 1—health professions workforce information and analysis
 | 300d–72. | Nationwide media campaign to promote poison control center utilization. |
 | 300d–73. | Maintenance of the poison control center grant program. |
 | 300d–74. | Rule of construction. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part H—Trauma Service Availability
+
+|  |  |
+| :--- | ---: |
+| 300d–81. | Grants to States. |
+| 300d–82. | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1916,9 +2081,16 @@ I74subpart 1—health professions workforce information and analysis
 | 300u–4. | Status reports to President and Congress; study of health education and preventive health services with respect to insurance coverage. |
 | 300u–5. | Centers for research and demonstration of health promotion and disease prevention. |
 | 300u–6. | Office of Minority Health. |
+| 300u–6a. | Individual offices of minority health within the Department. |
 | 300u–7. | Office of Adolescent Health. |
 | 300u–8. | Biennial report regarding nutrition and health. |
 | 300u–9. | Education regarding DES. |
+| 300u–10. | National Prevention, Health Promotion and Public Health Council. |
+| 300u–11. | Prevention and Public Health Fund. |
+| 300u–12. | Education and outreach campaign regarding preventive benefits. |
+| 300u–13. | Community transformation grants. |
+| 300u–14. | Healthy aging, living well; evaluation of community-based prevention and wellness programs for Medicare beneficiaries. |
+| 300u–15. | Research on optimizing the delivery of public health services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1955,7 +2127,7 @@ I74subpart 1—health professions workforce information and analysis
 
 #### Part B—Block Grants Regarding Mental Health and Substance Abuse
 
-I74subpart i—block grants for community mental health services
+#### subpart i—block grants for community mental health services
 
 |  |  |
 | :--- | ---: |
@@ -2020,7 +2192,7 @@ I74subpart i—block grants for community mental health services
 
 #### Part C—Certain Programs Regarding Mental Health and Substance Abuse
 
-I74subpart i—data infrastructure development
+#### subpart i—data infrastructure development
 
 |  |  |
 | :--- | ---: |
@@ -2071,7 +2243,7 @@ I74subpart i—data infrastructure development
 
 #### Part 2—National Vaccine Injury Compensation Program
 
-I74subpart a—program requirements
+#### subpart a—program requirements
 
 |  |  |
 | :--- | ---: |
@@ -2175,7 +2347,7 @@ I74subpart a—program requirements
 
 #### Part D—Office of AIDS Research
 
-I74subpart i—interagency coordination of activities
+#### subpart i—interagency coordination of activities
 
 |  |  |
 | :--- | ---: |
@@ -2297,7 +2469,7 @@ I74subpart i—interagency coordination of activities
 
 #### Part A—Emergency Relief for Areas With Substantial Need for Services
 
-I74subpart i—general grant provisions
+#### subpart i—general grant provisions
 
 |  |  |
 | :--- | ---: |
@@ -2330,7 +2502,7 @@ I74subpart i—general grant provisions
 
 #### Part B—Care Grant Program
 
-I74subpart i—general grant provisions
+#### subpart i—general grant provisions
 
 |  |  |
 | :--- | ---: |
@@ -2432,7 +2604,7 @@ I74subpart i—general grant provisions
 
 #### Part F—Demonstration and Training
 
-I74subpart i—special projects of national significance
+#### subpart i—special projects of national significance
 
 |  |  |
 | :--- | ---: |
@@ -2475,51 +2647,60 @@ I74subpart i—special projects of national significance
 
 #### SUBCHAPTER XXV—REQUIREMENTS RELATING TO HEALTH INSURANCE COVERAGE
 
-#### Part A—Group Market Reforms
+#### Part A—Individual and Group Market Reforms
 
-I74subpart 1—portability, access, and renewability requirements
-
-|  |  |
-| :--- | ---: |
-| [300gg.](Subchapter%20025%20%28XXV%29%20-%20Requirements%20Relating%20to%20Health%20Insurance%20Coverage/Part%20A%20-%20Group%20Market%20Reforms/Subpart%20001%20-%20Portability%2C%20Access%2C%20and%20Renewability%20Requirements/%C2%A7%2000300gg%20-%20Increased%20portability%20through%20limitation%20on%20preexisting%20condition%20exclusions.md) | Increased portability through limitation on preexisting condition exclusions. |
-| 300gg–1. | Prohibiting discrimination against individual participants and beneficiaries based on health status. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### subpart 2—other requirements
+#### subpart i—general reform
 
 |  |  |
 | :--- | ---: |
-| 300gg–4. | Standards relating to benefits for mothers and newborns. |
-| 300gg–5. | Parity in mental health and substance use disorder benefits. |
-| 300gg–6. | Required coverage for reconstructive surgery following mastectomies. |
-| 300gg–7. | Coverage of dependent students on medically necessary leave of absence. |
+| [300gg.](Subchapter%20025%20%28XXV%29%20-%20Requirements%20Relating%20to%20Health%20Insurance%20Coverage/Part%20A%20-%20Individual%20and%20Group%20Market%20Reforms/Subpart%20001%20-%20General%20Reform/%C2%A7%2000300gg%20-%20Fair%20health%20insurance%20premiums.md) | Fair health insurance premiums. |
+| 300gg–1. | Guaranteed availability of coverage. |
+| 300gg–2. | Guaranteed renewability of coverage. |
+| 300gg–3. | Prohibition of preexisting condition exclusions or other discrimination based on health status. |
+| 300gg–4. | Prohibiting discrimination against individual participants and beneficiaries based on health status. |
+| 300gg–5. | Non-discrimination in health care. |
+| 300gg–6. | Comprehensive health insurance coverage. |
+| 300gg–7. | Prohibition on excessive waiting periods. |
+| 300gg–8. | Coverage for individuals participating in approved clinical trials. |
+| 300gg–9. | Disclosure of information. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### subpart 3—provisions applicable only to health insurance issuers
+#### subpart ii—improving coverage
 
 |  |  |
 | :--- | ---: |
-| 300gg–11. | Guaranteed availability of coverage for employers in group market. |
-| 300gg–12. | Guaranteed renewability of coverage for employers in group market. |
-| 300gg–13. | Disclosure of information. |
+| 300gg–11. | No lifetime or annual limits. |
+| 300gg–12. | Prohibition on rescissions. |
+| 300gg–13. | Coverage of preventive health services. |
+| 300gg–14. | Extension of dependent coverage. |
+| 300gg–15. | Development and utilization of uniform explanation of coverage documents and standardized definitions. |
+| 300gg–15a. | Provision of additional information. |
+| 300gg–16. | Prohibition on discrimination in favor of highly compensated individuals. |
+| 300gg–17. | Ensuring the quality of care. |
+| 300gg–18. | Bringing down the cost of health care coverage. |
+| 300gg–19. | Appeals process. |
+| 300gg–19a. | Patient protections. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### subpart 4—exclusion of plans; enforcement; preemption
+#### subpart 2—exclusion of plans; enforcement; preemption
 
 |  |  |
 | :--- | ---: |
 | 300gg–21. | Exclusion of certain plans. |
 | 300gg–22. | Enforcement. |
 | 300gg–23. | Preemption; State flexibility; construction. |
+| 300gg–25. | Standards relating to benefits for mothers and newborns. |
+| 300gg–26. | Parity in mental health and substance use disorder benefits. |
+| 300gg–27. | Required coverage for reconstructive surgery following mastectomies. |
+| 300gg–28. | Coverage of dependent students on medically necessary leave of absence. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Part B—Individual Market Rules
 
-I74subpart 1—portability, access, and renewability requirements
+#### subpart 1—portability, access, and renewability requirements
 
 |  |  |
 | :--- | ---: |
@@ -2547,7 +2728,7 @@ I74subpart 1—portability, access, and renewability requirements
 |  |  |
 | :--- | ---: |
 | 300gg–61. | Enforcement. |
-| 300gg–62. | Preemption. |
+| 300gg–62. | Preemption and application. |
 | 300gg–63. | General exceptions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2558,6 +2739,9 @@ I74subpart 1—portability, access, and renewability requirements
 | :--- | ---: |
 | 300gg–91. | Definitions. |
 | 300gg–92. | Regulations. |
+| 300gg–93. | Health insurance consumer information. |
+| 300gg–94. | Ensuring that consumers get value for their dollars. |
+| 300gg–95. | Uniform fraud and abuse referral format. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2585,6 +2769,14 @@ I74subpart 1—portability, access, and renewability requirements
 | 300hh–15. | Volunteer Medical Reserve Corps. |
 | 300hh–16. | At-risk individuals. |
 | 300hh–17. | Emergency response coordination of primary care providers. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part C—Strengthening Public Health Surveillance Systems
+
+|  |  |
+| :--- | ---: |
+| 300hh–31. | Epidemiology-laboratory capacity grants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2639,6 +2831,102 @@ I74subpart 1—portability, access, and renewability requirements
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Part C—Other Provisions
+
+|  |  |
+| :--- | ---: |
+| 300jj–51. | Health information technology enrollment standards and protocols. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER XXIX—DATA COLLECTION, ANALYSIS, AND QUALITY
+
+|  |  |
+| :--- | ---: |
+| [300kk.](Subchapter%20029%20%28XXIX%29%20-%20Data%20Collection%2C%20Analysis%2C%20and%20Quality/%C2%A7%2000300kk%20-%20Data%20collection%2C%20analysis%2C%20and%20quality.md) | Data collection, analysis, and quality. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER XXX—COMMUNITY LIVING ASSISTANCE SERVICES AND SUPPORTS
+
+|  |  |
+| :--- | ---: |
+| 300<i>ll.</i> | Purpose. |
+| 300<i>ll</i>–1. | Definitions. |
+| 300<i>ll</i>–2. | CLASS Independence Benefit Plan. |
+| 300<i>ll</i>–3. | Enrollment and disenrollment requirements. |
+| 300<i>ll</i>–4. | Benefits. |
+| 300<i>ll</i>–5. | CLASS Independence Fund. |
+| 300<i>ll</i>–6. | CLASS Independence Advisory Council. |
+| 300<i>ll</i>–7. | Solvency and fiscal independence; regulations; annual report. |
+| 300<i>ll</i>–8. | Inspector General's report. |
+| 300<i>ll</i>–9. | Tax treatment of program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER XXXI—WORLD TRADE CENTER HEALTH PROGRAM
+
+#### Part A—Establishment of Program; Advisory Committee
+
+|  |  |
+| :--- | ---: |
+| [300mm.](Subchapter%20031%20%28XXXI%29%20-%20World%20Trade%20Center%20Health%20Program/Part%20A%20-%20Establishment%20of%20Program%3B%20Advisory%20Committee/%C2%A7%2000300mm%20-%20Establishment%20of%20World%20Trade%20Center%20Health%20Program.md) | Establishment of World Trade Center Health Program. |
+| 300mm–1. | WTC Health Program Scientific/Technical Advisory Committee; WTC Health Program Steering Committees. |
+| 300mm–2. | Education and outreach. |
+| 300mm–3. | Uniform data collection and analysis. |
+| 300mm–4. | Clinical Centers of Excellence and Data Centers. |
+| 300mm–5. | Definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part B—Program of Monitoring, Initial Health Evaluations, and Treatment
+
+#### subpart 1—wtc responders
+
+|  |  |
+| :--- | ---: |
+| 300mm–21. | Identification of WTC responders and provision of WTC-related monitoring services. |
+| 300mm–22. | Treatment of enrolled WTC responders for WTC-related health conditions. |
+| 300mm–23. | National arrangement for benefits for eligible individuals outside New York. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 2—wtc survivors
+
+|  |  |
+| :--- | ---: |
+| 300mm–31. | Identification and initial health evaluation of screening-eligible and certified-eligible WTC survivors. |
+| 300mm–32. | Followup monitoring and treatment of certified-eligible WTC survivors for WTC-related health conditions. |
+| 300mm–33. | Followup monitoring and treatment of other individuals with WTC-related health conditions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 3—payor provisions
+
+|  |  |
+| :--- | ---: |
+| 300mm–41. | Payment of claims. |
+| 300mm–42. | Administrative arrangement authority. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part C—Research Into Conditions
+
+|  |  |
+| :--- | ---: |
+| 300mm–51. | Research regarding certain health conditions related to September 11 terrorist attacks. |
+| 300mm–52. | World Trade Center Health Registry. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part D—Funding
+
+|  |  |
+| :--- | ---: |
+| 300mm–61. | World Trade Center Health Program Fund. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -2674,3 +2962,6 @@ I74subpart 1—portability, access, and renewability requirements
 - [Subchapter 026 (XXVI) - National All-Hazards Preparedness for Public Health Emergencies](Subchapter%20026%20%28XXVI%29%20-%20National%20All-Hazards%20Preparedness%20for%20Public%20Health%20Emergencies/README.md)
 - [Subchapter 027 (XXVII) - Lifespan Respite Care](Subchapter%20027%20%28XXVII%29%20-%20Lifespan%20Respite%20Care/README.md)
 - [Subchapter 028 (XXVIII) - Health Information Technology and Quality](Subchapter%20028%20%28XXVIII%29%20-%20Health%20Information%20Technology%20and%20Quality/README.md)
+- [Subchapter 029 (XXIX) - Data Collection, Analysis, and Quality](Subchapter%20029%20%28XXIX%29%20-%20Data%20Collection%2C%20Analysis%2C%20and%20Quality/README.md)
+- [Subchapter 030 (XXX) - Community Living Assistance Services and Supports](Subchapter%20030%20%28XXX%29%20-%20Community%20Living%20Assistance%20Services%20and%20Supports/README.md)
+- [Subchapter 031 (XXXI) - World Trade Center Health Program](Subchapter%20031%20%28XXXI%29%20-%20World%20Trade%20Center%20Health%20Program/README.md)

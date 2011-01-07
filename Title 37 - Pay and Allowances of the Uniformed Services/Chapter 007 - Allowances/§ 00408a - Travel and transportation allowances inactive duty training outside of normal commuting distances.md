@@ -24,9 +24,13 @@ Regulations.—The Secretary concerned shall prescribe regulations to carry out 
 
 (e)
 
-Termination.—No reimbursement may be provided under this section for travel that occurs after December 31, 2010.
+Termination.—No reimbursement may be provided under this section for travel that occurs after December 31, 2011.
 
-(Added Pub. L. 110–181, div. A, title VI, §631(a)(1), Jan. 28, 2008, 122 Stat. 153.)
+(Added Pub. L. 110–181, div. A, title VI, §631(a)(1), Jan. 28, 2008, 122 Stat. 153; amended Pub. L. 111–383, div. A, title VI, §621, Jan. 7, 2011, 124 Stat. 4238.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (e). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
 #### Effective Date
 

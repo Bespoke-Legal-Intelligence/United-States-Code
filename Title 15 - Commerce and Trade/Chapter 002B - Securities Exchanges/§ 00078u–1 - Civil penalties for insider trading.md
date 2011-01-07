@@ -4,7 +4,7 @@
 
 #### (1) Judicial actions by Commission authorized
 
-&emsp;Whenever it shall appear to the Commission that any person has violated any provision of this chapter or the rules or regulations thereunder by purchasing or selling a security or security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) while in possession of material, nonpublic information in, or has violated any such provision by communicating such information in connection with, a transaction on or through the facilities of a national securities exchange or from or through a broker or dealer, and which is not part of a public offering by an issuer of securities other than standardized options or security futures products, the Commission—
+&emsp;Whenever it shall appear to the Commission that any person has violated any provision ofthis chapter or the rules or regulations thereunder by purchasing or selling a security or security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) while in possession of material, nonpublic information in, or has violated any such provision by communicating such information in connection with, a transaction on or through the facilities of a national securities exchange or from or through a broker or dealer, and which is not part of a public offering by an issuer of securities other than standardized options or security futures products, the Commission—
 
 &emsp;&emsp;(A) may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, a civil penalty to be paid by the person who committed such violation; and
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) such controlling person knew or recklessly disregarded the fact that such controlled person was likely to engage in the act or acts constituting the violation and failed to take appropriate steps to prevent such act or acts before they occurred; or
 
-&emsp;&emsp;(B) such controlling person knowingly or recklessly failed to establish, maintain, or enforce any policy or procedure required under section 78<i>o</i>(f) of this title or section 80b–4a of this title and such failure substantially contributed to or permitted the occurrence of the act or acts constituting the violation.
+&emsp;&emsp;(B) such controlling person knowingly or recklessly failed to establish, maintain, or enforce any policy or procedure required under section 78<i>o</i>(f) <sup>1</sup> of this title or section 80b–4a of this title and such failure substantially contributed to or permitted the occurrence of the act or acts constituting the violation.
 
 #### (2) Additional restrictions on liability
 
@@ -40,7 +40,7 @@ The Commission, by such rules, regulations, and orders as it considers necessary
 
 #### (1) Payment of penalty to Treasury
 
-&emsp;A penalty imposed under this section shall (subject to subsection (e) of this section) be payable into the Treasury of the United States, except as otherwise provided in section 7246 of this title.
+&emsp;A penalty imposed under this section shall be payable into the Treasury of the United States, except as otherwise provided in section 7246 of this title and section 78u–6 of this title.
 
 #### (2) Collection of penalties
 
@@ -58,37 +58,53 @@ The Commission, by such rules, regulations, and orders as it considers necessary
 
 &emsp;No action may be brought under this section more than 5 years after the date of the purchase or sale. This section shall not be construed to bar or limit in any manner any action by the Commission or the Attorney General under any other provision of this chapter, nor shall it bar or limit in any manner any action to recover penalties, or to seek any other order regarding penalties, imposed in an action commenced within 5 years of such transaction.
 
-#### (e) Authority to award bounties to informants
-
-Notwithstanding the provisions of subsection (d)(1) of this section, there shall be paid from amounts imposed as a penalty under this section and recovered by the Commission or the Attorney General, such sums, not to exceed 10 percent of such amounts, as the Commission deems appropriate, to the person or persons who provide information leading to the imposition of such penalty. Any determinations under this subsection, including whether, to whom, or in what amount to make payments, shall be in the sole discretion of the Commission, except that no such payment shall be made to any member, officer, or employee of any appropriate regulatory agency, the Department of Justice, or a self-regulatory organization. Any such determination shall be final and not subject to judicial review.
-
-#### (f) Definition
+#### (e) Definition
 
 For purposes of this section, “profit gained” or “loss avoided” is the difference between the purchase or sale price of the security and the value of that security as measured by the trading price of the security a reasonable period after public dissemination of the nonpublic information.
 
-#### (g) Limitation on Commission authority
+#### (f) Limitation on Commission authority
 
 The authority of the Commission under this section with respect to security-based swap agreements (as defined in section 206B of the Gramm-Leach-Bliley Act) shall be subject to the restrictions and limitations of section 78c–1(b) of this title.
 
-(June 6, 1934, ch. 404, title I, §21A, as added Pub. L. 100–704, §3(a)(2), Nov. 19, 1988, 102 Stat. 4677; amended Pub. L. 101–429, title II, §202(b), Oct. 15, 1990, 104 Stat. 938; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(4), title III, §303(k), (<i>l</i>)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–426, 2763A–456, 2763A–457; Pub. L. 107–204, title III, §308(d)(2), July 30, 2002, 116 Stat. 785.)
+(June 6, 1934, ch. 404, title I, §21A, as added Pub. L. 100–704, §3(a)(2), Nov. 19, 1988, 102 Stat. 4677; amended Pub. L. 101–429, title II, §202(b), Oct. 15, 1990, 104 Stat. 938; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(4), title III, §303(k), (<i>l</i>)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–426, 2763A–456, 2763A–457; Pub. L. 107–204, title III, §308(d)(2), July 30, 2002, 116 Stat. 785; Pub. L. 111–203, title VII, §762(d)(7), title IX, §923(b)(2), July 21, 2010, 124 Stat. 1761, 1850.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title VII, §§762(d)(7), 774, July 21, 2010, 124 Stat. 1761, 1802, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, subsections (a)(1) and (g) of this section are amended by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)”.</i>
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (d)(4), (5), was in the original “this title”. See References in Text note set out under section 78a of this title.
 
-Section 206B of the Gramm-Leach-Bliley Act, referred to in subsecs. (a)(1) and (g), is section 206B of Pub. L. 106–102, which is set out in a note under section 78c of this title.
+Section 206B of the Gramm-Leach-Bliley Act, referred to in subsecs. (a)(1) and (f), is section 206B of Pub. L. 106–102, which is set out in a note under section 78c of this title.
+
+Subsec. (f) of section 78<i>o</i> of this title, referred to in subsec. (b)(1)(B), was redesignated (g) by Pub. L. 111–203, title IX, §929X(c)(1), July 21, 2010, 124 Stat. 1870.
 
 #### Amendments
 
-2002—Subsec. (d)(1). Pub. L. 107–204 inserted “, except as otherwise provided in section 7246 of this title” before period at end.
+<b>2010</b>—Subsec. (d)(1). Pub. L. 111–203, §923(b)(2)(A), struck out “(subject to subsection (e) of this section)” after “shall” and inserted “and section 78u–6 of this title” after “section 7246 of this title”.
 
-2000—Subsec. (a)(1). Pub. L. 106–554, §1(a)(5) \[title III, §303(k)\], inserted “or security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act)” after “purchasing or selling a security” in introductory provisions.
+Subsec. (e). Pub. L. 111–203, §923(b)(2)(B), (C), redesignated subsec. (f) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “Notwithstanding the provisions of subsection (d)(1) of this section, there shall be paid from amounts imposed as a penalty under this section and recovered by the Commission or the Attorney General, such sums, not to exceed 10 percent of such amounts, as the Commission deems appropriate, to the person or persons who provide information leading to the imposition of such penalty. Any determinations under this subsection, including whether, to whom, or in what amount to make payments, shall be in the sole discretion of the Commission, except that no such payment shall be made to any member, officer, or employee of any appropriate regulatory agency, the Department of Justice, or a self-regulatory organization. Any such determination shall be final and not subject to judicial review.”
+
+Subsec. (f). Pub. L. 111–203, §923(b)(2)(C), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+Subsec. (g). Pub. L. 111–203, §923(b)(2)(C), redesignated subsec. (g) as (f).
+
+<b>2002</b>—Subsec. (d)(1). Pub. L. 107–204 inserted “, except as otherwise provided in section 7246 of this title” before period at end.
+
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–554, §1(a)(5) \[title III, §303(k)\], inserted “or security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act)” after “purchasing or selling a security” in introductory provisions.
 
 Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(4)\], substituted “standardized options or security futures products, the Commission—” for “standardized options, the Commission—” in introductory provisions.
 
 Subsec. (g). Pub. L. 106–554, §1(a)(5) \[title III, §303(<i>l</i>)\], added subsec. (g).
 
-1990—Pub. L. 101–429 inserted “for insider trading” in section catchline.
+<b>1990</b>—Pub. L. 101–429 inserted “for insider trading” in section catchline.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 923(b)(2) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
+Amendment by section 762(d)(7) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -111,4 +127,6 @@ Section 2 of Pub. L. 100–704 provided that: “The Congress finds that—
 #### Commission Recommendations for Additional Civil Penalty Authority Required
 
 Section 3(c) of Pub. L. 100–704 provided that: “The Securities and Exchange Commission shall, within 60 days after the date of enactment of this Act \[Nov. 19, 1988\], submit to each House of the Congress any recommendations the Commission considers appropriate with respect to the extension of the Commission's authority to seek civil penalties or impose administrative fines for violations other than those described in section 21A of the Securities Exchange Act of 1934 \[15 U.S.C. 78u–1\] (as added by this section).”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

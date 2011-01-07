@@ -32,10 +32,6 @@ The Commission shall reimburse all appropriate Government agencies for the cost 
 
 (Pub. L. 105–292, title II, §204, as added Pub. L. 106–55, §1(b)(3), Aug. 17, 1999, 113 Stat. 402.)
 
-#### References in Text
-
-The civil service laws, referred to in subsec. (a), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Prior Provisions
 
 A prior section 204 of Pub. L. 105–292 was renumbered section 206 and is classified to section 6434 of this title.

@@ -18,7 +18,7 @@ Except as otherwise specifically provided, when used in this chapter:
 
 (8) The term “territorial seas” means the belt of the seas measured from the line of ordinary low water along that portion of the coast which is in direct contact with the open sea and the line marking the seaward limit of inland waters, and extending seaward a distance of three miles.
 
-(9) The term “contiguous zone” means the entire zone established or to be established by the United States under article 24 of the Convention of the Territorial Sea and the Contiguous Zone.
+(9) The term “contiguous zone” means the entire zone established or to be established by theUnited States under article 24 of the Convention of the Territorial Sea and the Contiguous Zone.
 
 (10) The term “ocean” means any portion of the high seas beyond the contiguous zone.
 
@@ -112,25 +112,25 @@ Exclusion.—The term “recreational vessel” does not include a vessel that i
 
 &emsp;&emsp;(ii) carries paying passengers.
 
-(June 30, 1948, ch. 758, title V, §502, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 886; amended Pub. L. 95–217, §33(b), Dec. 27, 1977, 91 Stat. 1577; Pub. L. 100–4, title V, §§502(a), 503, Feb. 4, 1987, 101 Stat. 75; Pub. L. 100–688, title III, §3202(a), Nov. 18, 1988, 102 Stat. 4154; Pub. L. 104–106, div. A, title III, §325(c)(3), Feb. 10, 1996, 110 Stat. 259; Pub. L. 106–284, §5, Oct. 10, 2000, 114 Stat. 875; Pub. L. 109–58, title III, §323, Aug. 8, 2005, 119 Stat. 694; Pub. L. 110–288, §3, July 29, 2008, 122 Stat. 2650.)
+(June 30, 1948, ch. 758, title V, §502, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 886; amended Pub. L. 95–217, §33(b), Dec. 27, 1977, 91 Stat. 1577; Pub. L. 100–4, title V, §§502(a), 503, Feb. 4, 1987, 101 Stat. 75; Pub. L. 100–688, title III, §3202(a), Nov. 18, 1988, 102 Stat. 4154; Pub. L. 104–106, div. A, title III, §325(c)(3), Feb. 10, 1996, 110 Stat. 259; Pub. L. 106–284, §5, Oct. 10, 2000, 114 Stat. 875;Pub. L. 109–58, title III, §323, Aug. 8, 2005, 119 Stat. 694; Pub. L. 110–288, §3, July 29, 2008, 122 Stat. 2650.)
 
 #### Amendments
 
-2008—Par. (25). Pub. L. 110–288 added par. (25).
+<b>2008</b>—Par. (25). Pub. L. 110–288 added par. (25).
 
-2005—Par. (24). Pub. L. 109–58 added par. (24).
+<b>2005</b>—Par. (24). Pub. L. 109–58 added par. (24).
 
-2000—Pars. (21) to (23). Pub. L. 106–284 added pars. (21) to (23).
+<b>2000</b>—Pars. (21) to (23). Pub. L. 106–284 added pars. (21) to (23).
 
-1996—Par. (6)(A). Pub. L. 104–106 substituted “ ‘sewage from vessels or a discharge incidental to the normal operation of a vessel of the Armed Forces’ ” for “ ‘sewage from vessels’ ”.
+<b>1996</b>—Par. (6)(A). Pub. L. 104–106 substituted “ ‘sewage from vessels or a discharge incidental to the normal operation of a vessel of the Armed Forces’ ” for “ ‘sewage from vessels’ ”.
 
-1988—Par. (20). Pub. L. 100–688 added par. (20).
+<b>1988</b>—Par. (20). Pub. L. 100–688 added par. (20).
 
-1987—Par. (3). Pub. L. 100–4, §502(a), inserted “the Commonwealth of the Northern Mariana Islands,” after “Samoa,”.
+<b>1987</b>—Par. (3). Pub. L. 100–4, §502(a), inserted “the Commonwealth of the Northern Mariana Islands,” after “Samoa,”.
 
 Par. (14). Pub. L. 100–4, §503, inserted “agricultural stormwater discharges and” after “does not include”.
 
-1977—Par. (14). Pub. L. 95–217 inserted provision that “point source” does not include return flows from irrigated agriculture.
+<b>1977</b>—Par. (14). Pub. L. 95–217 inserted provision that “point source” does not include return flows from irrigated agriculture.
 
 #### Termination of Trust Territory of the Pacific Islands
 

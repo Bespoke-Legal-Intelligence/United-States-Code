@@ -50,7 +50,7 @@ An alien, if otherwise qualified, may seek admission to Guam or to the Commonwea
 
 &emsp;Notwithstanding the treaty requirements in section 101(a)(15)(E) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(E)), during the transition period, the Secretary of Homeland Security may, upon the application of an alien, classify an alien as a CNMI-only nonimmigrant under section 101(a)(15)(E)(ii) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(E)(ii)) if the alien—
 
-&emsp;&emsp;(A) has been admitted to the Commonwealth in long-term investor status underthe immigration laws of the Commonwealth before the transition program effective date;
+&emsp;&emsp;(A) has been admitted to the Commonwealth in long-term investor status under the immigration laws of the Commonwealth before the transition program effective date;
 
 &emsp;&emsp;(B) has continuously maintained residence in the Commonwealth under long-term investor status;
 
@@ -74,7 +74,7 @@ An alien who is seeking to enter the Commonwealth as a nonimmigrant worker may b
 
 &emsp;(4) Such an alien shall be permitted to transfer between employers in the Commonwealth during the period of such alien's authorized stay therein, without permission of the employee's current or prior employer, within the alien's occupational category or another occupational category the Secretary of Homeland Security has found requires alien workers to supplement the resident workforce.
 
-&emsp;(5)(A) Not later than 180 days prior to the expiration of the transition period, or any extension thereof, the Secretary of Labor, in consultation with the Secretary of Homeland Security, the Secretary of Defense, the Secretary of the Interior, and the Governor of the Commonwealth, shall ascertain the current and anticipated labor needs of the Commonwealth and determine whether an extension of up to 5 years of the provisions of this subsection is necessary to ensure an adequate number of workers will be available for legitimate businesses in the Commonwealth. For the purpose of this subparagraph, a business shall not be considered legitimate if it engages directly or indirectly in prostitution, trafficking in minors, or any other activity that is illegal under Federal or local law. The determinations of whether a business is legitimate and to what extent, if any, it may require alien workers to supplement the resident workforce, shall be made by the Secretary of Homeland Security, in the Secretary's sole discretion.
+&emsp;(5)(A) Not later than 180 days prior to the expiration of the transition period, or any extension thereof, the Secretary of Labor, in consultation with the Secretary of Homeland Security, the Secretary of Defense, the Secretary of the Interior, and the Governor of the Commonwealth, shall ascertain the current and anticipated labor needs of the Commonwealth and determine whether an extension of up to 5 years of the provisions of this subsection is necessary to ensure an adequate number of workers will be available for legitimate businesses in the Commonwealth. For the purpose of this subparagraph, a business shall not be considered legitimate if it engages directly or indirectly in prostitution, trafficking in minors, or any other activity that is illegal under Federal or local law. The determinations of whether a business is legitimate and to what extent, if any, it may requirealien workers to supplement the resident workforce, shall be made by the Secretary of Homeland Security, in the Secretary's sole discretion.
 
 &emsp;(B) If the Secretary of Labor determines that such an extension is necessary to ensure an adequate number of workers for legitimate businesses in the Commonwealth, the Secretary of Labor may, through notice published in the Federal Register, provide for an additional extension period of up to 5 years.
 
@@ -132,7 +132,7 @@ An alien who is seeking to enter the Commonwealth as a nonimmigrant worker may b
 
 #### (5) Prior orders of removal
 
-&emsp;The Secretary of Homeland Security may execute any administratively final order of exclusion, deportation or removal issued under authority of the immigration laws of the United States before, on, or after the transition period effective date, or under authority of the immigration laws of the Commonwealth before the transition period effective date, upon any subject of such order found in the Commonwealth on or after the transition period effective date, regardless whether the alien has previously been removed from the United States or the Commonwealth pursuant to such order.
+&emsp;The Secretary of Homeland Security may execute any administratively final order of exclusion, deportation or removal issued under authority of the immigration laws of the United States before, on, or after the transition period effective date, or under authority of the immigration laws of the Commonwealth before the transition period effective date,upon any subject of such order found in the Commonwealth on or after the transition period effective date, regardless whether the alien has previously been removed from the United States or the Commonwealth pursuant to such order.
 
 #### (f) Effect on other laws
 
@@ -200,7 +200,7 @@ Immigration and Growth.—In recognition of the need to ensure uniform adherence
 
 &emsp;&emsp;“(B) recognizing local self-government, as provided for in the Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America through consultation with the Governor of the Commonwealth;
 
-&emsp;&emsp;“(C) assisting the Commonwealth in achieving a progressively higher standard of living for citizens of the Commonwealth through the provision of technical and other assistance;
+&emsp;&emsp;“(C) assisting the Commonwealth in achieving a progressively higher standard of living for citizensof the Commonwealth through the provision of technical and other assistance;
 
 &emsp;&emsp;“(D) providing opportunities for individuals authorized to work in the United States, including citizens of the freely associated states; and
 
@@ -216,7 +216,7 @@ Pub. L. 110–229, title VII, §702(h)(1), (2), May 8, 2008, 122 Stat. 864, prov
 
 “(1)
 
-In general.—Not later than March 1 of the first year that is at least 2 full years after the date of enactment of this subtitle \[May 8, 2008\], and annually thereafter, the President shall submit to the Committee on Energy and Natural Resources and the Committee on the Judiciary of the Senate and the Committee on Natural Resources and the Committee on the Judiciary of the House of Representatives a report that evaluates the overall effect of the transition program established under section 6 \[48 U.S.C. 1806\] of the Joint Resolution entitled ‘A Joint Resolution to approve the “Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States ofAmerica”, and for other purposes’, approved March 24, 1976 (Public Law 94–241), as added by subsection (a), and the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) on the Commonwealth.
+In general.—Not later than March 1 of the first year that is at least 2 full years after the date of enactment of this subtitle \[May 8, 2008\], and annually thereafter, the President shall submit to the Committee on Energy and Natural Resources and the Committee on the Judiciary of the Senate and the Committee on Natural Resources and the Committee on the Judiciary of the House of Representatives a report that evaluates the overall effect of the transition program established under section 6 \[48 U.S.C. 1806\] of the Joint Resolution entitled ‘A Joint Resolution to approve the “Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America”, and for other purposes’, approved March 24, 1976 (Public Law 94–241), as added by subsection (a), and the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) on the Commonwealth.
 
 “(2)
 

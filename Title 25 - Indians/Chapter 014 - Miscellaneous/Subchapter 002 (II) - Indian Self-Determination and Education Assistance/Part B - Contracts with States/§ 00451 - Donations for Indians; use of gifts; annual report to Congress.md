@@ -10,7 +10,7 @@ Section was not enacted as part of the Johnson-O'Malley Act which comprises this
 
 #### Amendments
 
-1968—Pub. L. 90–333 expanded area of permissible uses to which Secretary may put donated property by substituting provisions allowing inclusion of programs otherwise authorized by law intended to benefit Indians for provisions limiting permissible uses to programs otherwise authorized by law only if it could be shown that property would benefit a particular Indian institution or individual, and inserted provisions for an annual report to Congress on donations received and allocations made from such donations.
+<b>1968</b>—Pub. L. 90–333 expanded area of permissible uses to which Secretary may put donated property by substituting provisions allowing inclusion of programs otherwise authorized by law intended to benefit Indians for provisions limiting permissible uses to programs otherwise authorized by law only if it could be shown that property would benefit a particular Indian institution or individual, and inserted provisions for an annual report to Congress on donations received and allocations made from such donations.
 
 #### Termination of Reporting Requirements
 

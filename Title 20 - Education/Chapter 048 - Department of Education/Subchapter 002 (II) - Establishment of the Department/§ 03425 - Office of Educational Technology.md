@@ -30,8 +30,6 @@ The Secretary may obtain the services of experts and consultants in accordance w
 
 Section 5862 of this title, referred to in subsec. (b)(3), was repealed by Pub. L. 103–382, title III, §361(a), Oct. 20, 1994, 108 Stat. 3974.
 
-The provisions of title 5 (governing appointments in the competitive service), referred to in subsec. (c), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 #### Transfer of Office of Training Technology Transfer
 
 Section 236(a)(1) of Pub. L. 103–227 provided that: “The Office of Training Technology Transfer as established under section 6103 of the Training Technology Transfer Act of 1988 (\[former\] 20 U.S.C. 5093) is transferred to and established in the Office of Educational Technology.”

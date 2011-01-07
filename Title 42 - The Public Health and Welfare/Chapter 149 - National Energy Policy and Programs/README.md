@@ -235,7 +235,7 @@
 
 #### Part B—Hybrid Vehicles, Advanced Vehicles, and Fuel Cell Buses
 
-I74subpart 1—hybrid vehicles
+#### subpart 1—hybrid vehicles
 
 |  |  |
 | :--- | ---: |
@@ -301,8 +301,8 @@ I74subpart 1—hybrid vehicles
 |  |  |
 | :--- | ---: |
 | [16131\.](Subchapter%20007%20%28VII%29%20-%20Vehicles%20and%20Fuels/Part%20F%20-%20Diesel%20Emissions%20Reduction/%C2%A7%2016131%20-%20Definitions.md) | Definitions. |
-| [16132\.](Subchapter%20007%20%28VII%29%20-%20Vehicles%20and%20Fuels/Part%20F%20-%20Diesel%20Emissions%20Reduction/%C2%A7%2016132%20-%20National%20grant%20and%20loan%20programs.md) | National grant and loan programs. |
-| [16133\.](Subchapter%20007%20%28VII%29%20-%20Vehicles%20and%20Fuels/Part%20F%20-%20Diesel%20Emissions%20Reduction/%C2%A7%2016133%20-%20State%20grant%20and%20loan%20programs.md) | State grant and loan programs. |
+| [16132\.](Subchapter%20007%20%28VII%29%20-%20Vehicles%20and%20Fuels/Part%20F%20-%20Diesel%20Emissions%20Reduction/%C2%A7%2016132%20-%20National%20grant%2C%20rebate%2C%20and%20loan%20programs.md) | National grant, rebate, and loan programs. |
+| [16133\.](Subchapter%20007%20%28VII%29%20-%20Vehicles%20and%20Fuels/Part%20F%20-%20Diesel%20Emissions%20Reduction/%C2%A7%2016133%20-%20State%20grant%2C%20rebate%2C%20and%20loan%20programs.md) | State grant, rebate, and loan programs. |
 | [16134\.](Subchapter%20007%20%28VII%29%20-%20Vehicles%20and%20Fuels/Part%20F%20-%20Diesel%20Emissions%20Reduction/%C2%A7%2016134%20-%20Evaluation%20and%20report.md) | Evaluation and report. |
 | [16135\.](Subchapter%20007%20%28VII%29%20-%20Vehicles%20and%20Fuels/Part%20F%20-%20Diesel%20Emissions%20Reduction/%C2%A7%2016135%20-%20Outreach%20and%20incentives.md) | Outreach and incentives. |
 | [16136\.](Subchapter%20007%20%28VII%29%20-%20Vehicles%20and%20Fuels/Part%20F%20-%20Diesel%20Emissions%20Reduction/%C2%A7%2016136%20-%20Effect%20of%20part.md) | Effect of part. |

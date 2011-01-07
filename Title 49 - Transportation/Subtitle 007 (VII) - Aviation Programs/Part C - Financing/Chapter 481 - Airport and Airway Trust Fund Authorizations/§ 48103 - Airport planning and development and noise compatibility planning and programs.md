@@ -12,13 +12,17 @@ The total amounts which shall be available after September 30, 2003, to the Secr
 
 &emsp;(5) $3,675,000,000 for fiscal year 2008;
 
-&emsp;(6) $3,900,000,000 for fiscal year 2009; and
+&emsp;(6) $3,900,000,000 for fiscal year 2009;
 
-&emsp;(7) $2,000,000,000 for the 6-month period beginning on October 1, 2009.
+&emsp;(7) $3,515,000,000 for fiscal year 2010; and
+
+&emsp;(8) <sup>1</sup> $1,850,000,000 for the 6-month period beginning on October 1, 2010.
+
+&emsp;(8) <sup>1</sup> $925,000,000 for the 3-month period beginning on October 1, 2010.
 
 > Such sums shall remain available until expended.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1296; Pub. L. 103–305, title I, §101(a), Aug. 23, 1994, 108 Stat. 1570; Pub. L. 104–264, title I, §101(a), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 105–277, div. C, title I, §110(b)(1), Oct. 21, 1998, 112 Stat. 2681–587; Pub. L. 106–6, §2(a), Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(a), May 21, 1999, 113 Stat. 113; Pub. L. 106–59, §1(a), Sept. 29, 1999, 113 Stat. 482; Pub. L. 106–181, title I, §101(a), Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §101(a), Dec. 12, 2003, 117 Stat. 2494; Pub. L. 110–190, §4(a)(1), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, §4(a), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §4(a)(1), Sept. 30, 2008, 122 Stat. 3717; Pub. L. 111–12, §4(a), Mar. 30, 2009, 123 Stat. 1457; Pub. L. 111–69, §4(a)(1), Oct. 1, 2009, 123 Stat. 2054; Pub. L. 111–116, §4(a)(1), Dec. 16, 2009, 123 Stat. 3031.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1296; Pub. L. 103–305, title I, §101(a), Aug. 23, 1994, 108 Stat. 1570; Pub. L. 104–264, title I, §101(a), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 105–277, div. C, title I, §110(b)(1), Oct. 21, 1998, 112 Stat. 2681–587; Pub. L. 106–6, §2(a), Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(a), May 21, 1999, 113 Stat. 113; Pub. L. 106–59, §1(a), Sept. 29, 1999, 113 Stat. 482; Pub. L. 106–181, title I, §101(a), Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §101(a), Dec. 12, 2003, 117 Stat. 2494; Pub. L. 110–190, §4(a)(1), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, §4(a), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §4(a)(1), Sept. 30, 2008, 122 Stat. 3717; Pub. L. 111–12, §4(a), Mar. 30, 2009, 123 Stat. 1457; Pub. L. 111–69, §4(a)(1), Oct. 1, 2009, 123 Stat. 2054; Pub. L.111–116, §4(a)(1), Dec. 16, 2009, 123 Stat. 3031; Pub. L. 111–153, §4(a)(1), Mar. 31, 2010, 124 Stat. 1084; Pub. L. 111–161, §4(a)(1), Apr. 30, 2010, 124 Stat. 1126; Pub. L. 111–197, §4(a)(1), July 2, 2010, 124 Stat. 1353; Pub. L. 111–249, §4(a)(1), Sept. 30, 2010, 124 Stat. 2627; Pub. L. 111–329, §4(a)(1), Dec. 22, 2010, 124 Stat. 3566.)
 
 Historical and Revision Notes
 
@@ -46,19 +50,37 @@ In this section, references to the aggregate amounts for fiscal years ending bef
 
 #### Amendments
 
-2009—Par. (6). Pub. L. 111–12 substituted “$3,900,000,000 for fiscal year 2009” for “$1,950,000,000 for the 6-month period beginning on October 1, 2008”.
+<b>2010</b>—Par. (6). Pub. L. 111–329, §4(a)(1)(A), which directed striking out “and” at the end, could not be executed because the word “and” did not appear subsequent to amendment by Pub. L. 111–249.
+
+Pub. L. 111–249, §4(a)(1)(A), struck out “and” at the end.
+
+Par. (7). Pub. L. 111–329, §4(a)(1)(B), which directed substitution of “; and” for the period at the end, could not be executed because no period appeared subsequent to amendment by Pub. L. 111–249.
+
+Pub. L. 111–249, §4(a)(1)(B), substituted “; and” for the period at the end.
+
+Pub. L. 111–197 amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$3,024,657,534 for the period beginning on October 1, 2009, and ending on July 3, 2010.”
+
+Pub. L. 111–161 amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$2,333,333,333 for the 7-month period beginning on October 1, 2009.”
+
+Pub. L. 111–153 amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$2,000,000,000 for the 6-month period beginning on October 1, 2009.”
+
+Par. (8). Pub. L. 111–329, §4(a)(1)(C), added par. (8) relating to the 6-month period beginning on October 1, 2010.
+
+Pub. L. 111–249, §4(a)(1)(C), added par. (8) relating to the 3-month period beginning on October 1, 2010.
+
+<b>2009</b>—Par. (6). Pub. L. 111–12 substituted “$3,900,000,000 for fiscal year 2009” for “$1,950,000,000 for the 6-month period beginning on October 1, 2008”.
 
 Par. (7). Pub. L. 111–116 amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$1,000,000,000 for the 3-month period beginning on October 1, 2009.”
 
 Par. (7). Pub. L. 111–69 added par. (7).
 
-2008—Par. (5). Pub. L. 110–253 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “$2,756,250,000 for the 9-month period beginning October 1, 2007.”
+<b>2008</b>—Par. (5). Pub. L. 110–253 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “$2,756,250,000 for the 9-month period beginning October 1, 2007.”
 
 Pub. L. 110–190 added par. (5).
 
 Par. (6). Pub. L. 110–330 added par. (6).
 
-2003—Pub. L. 108–176, §101(a)(1), substituted “September 30, 2003” for “September 30, 1998” in introductory provisions.
+<b>2003</b>—Pub. L. 108–176, §101(a)(1), substituted “September 30, 2003” for “September 30, 1998” in introductory provisions.
 
 Pars. (1) to (5). Pub. L. 108–176, §101(a)(2), added pars. (1) to (4) and struck out former pars. (1) to (5) which read as follows:
 
@@ -72,19 +94,19 @@ Pars. (1) to (5). Pub. L. 108–176, §101(a)(2), added pars. (1) to (4) and str
 
 “(5) $3,400,000,000 for fiscal year 2003.”
 
-2000—Pub. L. 106–181 substituted “shall be—” along with pars. (1) to (5) and concluding provisions for “shall be $2,410,000,000 for the fiscal year ending September 30, 1999.”
+<b>2000</b>—Pub. L. 106–181 substituted “shall be—” along with pars. (1) to (5) and concluding provisions for “shall be $2,410,000,000 for the fiscal year ending September 30, 1999.”
 
-1999—Pub. L. 106–59 substituted “$2,410,000,000 for the fiscal year ending September 30, 1999.” for “$2,050,000,000 for the period beginning October 1, 1998 and ending August 6, 1999.”
+<b>1999</b>—Pub. L. 106–59 substituted “$2,410,000,000 for the fiscal year ending September 30, 1999.” for “$2,050,000,000 for the period beginning October 1, 1998 and ending August 6, 1999.”
 
 Pub. L. 106–31 substituted “$2,050,000,000 for the period beginning October 1, 1998 and ending August 6, 1999.” for “$1,607,000,000 for the 8-month period beginning October 1, 1998.”.
 
 Pub. L. 106–6 substituted “$1,607,000,000 for the 8-month period beginning October 1, 1998.” for “$1,205,000,000 for the six-month period beginning October 1, 1998”.
 
-1998—Pub. L. 105–277 substituted “September 30, 1998” for “September 30, 1996” and “$1,205,000,000 for the six-month period beginning October 1, 1998” for “$2,280,000,000 for fiscal years ending before October 1, 1997, and $4,627,000,000 for fiscal years ending before October 1, 1998.”
+<b>1998</b>—Pub. L. 105–277 substituted “September 30, 1998” for “September 30, 1996” and “$1,205,000,000 for the six-month period beginning October 1, 1998” for “$2,280,000,000 for fiscal years ending before October 1, 1997, and $4,627,000,000 for fiscal years ending before October 1, 1998.”
 
-1996—Pub. L. 104–264 substituted “September 30, 1996” for “September 30, 1981” and “$2,280,000,000 for fiscalyears ending before October 1, 1997, and $4,627,000,000 for fiscal years ending before October 1, 1998.” for “$17,583,500,000 for fiscal years ending before October 1, 1994, $19,744,500,000 for fiscal years ending before October 1, 1995, and $21,958,500,000 for fiscal years ending before October 1, 1996.”
+<b>1996</b>—Pub. L. 104–264 substituted “September 30, 1996” for “September 30, 1981” and “$2,280,000,000 for fiscal years ending before October 1, 1997, and $4,627,000,000 for fiscal years ending before October 1, 1998.” for “$17,583,500,000 for fiscal years ending before October 1, 1994, $19,744,500,000 for fiscal years ending before October 1, 1995, and $21,958,500,000 for fiscal years ending before October 1, 1996.”
 
-1994—Pub. L. 103–305 substituted “The total amounts which shall be available after September 30, 1981, to the Secretary of Transportation” for “Not more than a total of $15,966,700,000 is available to the Secretary of Transportation for the fiscal years ending September 30, 1982–1993,” and inserted before period at end “shall be $17,583,500,000 for fiscal years ending before October 1, 1994, $19,744,500,000 for fiscal years ending before October 1, 1995, and $21,958,500,000 for fiscal years ending before October 1, 1996”.
+<b>1994</b>—Pub. L. 103–305 substituted “The total amounts which shall be available after September 30, 1981, to the Secretary of Transportation” for “Not more than a total of $15,966,700,000 is available to the Secretary of Transportation for the fiscal years ending September 30, 1982–1993,” and inserted before period at end “shall be $17,583,500,000 for fiscal years ending before October 1, 1994, $19,744,500,000 for fiscal years ending before October 1, 1995, and $21,958,500,000 for fiscal years ending before October 1, 1996”.
 
 #### Effective Date of 2008 Amendment
 
@@ -113,4 +135,6 @@ Timely Announcement.—The Secretary \[of Transportation\] shall announce a gran
 “(b)
 
 Notice to Committees.—If the Secretary provides any committee of Congress advance notice of a grant to be made with funds made available under section 48103 of title 49, United States Code, the Secretary shall provide, on the same date, such notice to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
+
+<i><sup>1</sup></i><i> So in original. Two pars. (8) have been enacted.</i>
 

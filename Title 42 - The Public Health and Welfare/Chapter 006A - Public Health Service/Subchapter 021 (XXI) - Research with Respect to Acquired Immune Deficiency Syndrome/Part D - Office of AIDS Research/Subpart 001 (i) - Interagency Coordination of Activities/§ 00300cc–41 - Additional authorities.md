@@ -16,7 +16,7 @@ In carrying out AIDS research, the Director of the Office—
 
 &emsp;&emsp;(C) the training of American scientists abroad and foreign scientists in the United States;
 
-&emsp;(4) may encourage and coordinate AIDS research conducted by any industrial concernthat evidences a particular capability for the conduct of such research;
+&emsp;(4) may encourage and coordinate AIDS research conducted by any industrial concern that evidences a particular capability for the conduct of such research;
 
 &emsp;(5)(A) may acquire, improve, repair, operate, and maintain laboratories, other research facilities, equipment, and such other real or personal property as the Director of the Office determines necessary;
 
@@ -24,7 +24,7 @@ In carrying out AIDS research, the Director of the Office—
 
 &emsp;(C) may acquire, without regard to section 8141 of title 40 by lease or otherwise through the Administrator of General Services, buildings or parts of buildings in the District of Columbia or communities located adjacent to the District of Columbia for the use of the National Institutes of Health for a period not to exceed ten years; and
 
-&emsp;(6) subject to section 284(b)(2) of this title and without regard to section 3324 of title 31 and section 5 of title 41, may enter into such contracts and cooperative agreements with any public agency, or with any person, firm, association, corporation, or educational institution, as may be necessary to expedite and coordinate research relating to acquired immune deficiency syndrome.
+&emsp;(6) subject to section 284(b)(2) of this title and without regard to section 3324 of title 31 and section 6101 of title 41, may enter into such contracts and cooperative agreements with any public agency, or with any person, firm, association, corporation, or educational institution, as may be necessary to expedite and coordinate research relating to acquired immune deficiency syndrome.
 
 #### (b) Projects for cooperation among public and private health entities
 
@@ -36,9 +36,11 @@ In carrying out subsection (a) of this section, the Director of the Office shall
 
 In subsec. (a)(5)(C), “section 8141 of title 40” substituted for “the Act of March 3, 1877 (40 U.S.C. 34)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
+In subsec. (a)(6), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-2007—Subsecs. (b), (c). Pub. L. 109–482 redesignated subsec. (c) as (b) and struck out former subsec. (b). Subsec. (b) text read as follows: “The Director of the Office shall each fiscal year prepare and submit to the Secretary, for inclusion in the comprehensive report required in section 300cc(a) of this title, a report—
+<b>2007</b>—Subsecs. (b), (c). Pub. L. 109–482 redesignated subsec. (c) as (b) and struck out former subsec. (b). Subsec. (b) text read as follows: “The Director of the Office shall each fiscal year prepare and submit to the Secretary, for inclusion in the comprehensive report required in section 300cc(a) of this title, a report—
 
 &emsp;“(1) describing and evaluating the progress made in such fiscal year in research, treatment, and training with respect to acquired immune deficiency syndrome conducted or supported by the Institutes;
 
@@ -46,7 +48,7 @@ In subsec. (a)(5)(C), “section 8141 of title 40” substituted for “the Act 
 
 &emsp;“(3) containing such recommendations as the Director considers appropriate.”
 
-1993—Pub. L. 103–43, §1801(b)(1), substituted “Additional” for “Establishment of” in section catchline.
+<b>1993</b>—Pub. L. 103–43, §1801(b)(1), substituted “Additional” for “Establishment of” in section catchline.
 
 Subsec. (a). Pub. L. 103–43, §1801(b)(2)(A), in introductory provisions substituted “AIDS research, the Director of the Office” for “research with respect to acquired immune deficiency syndrome, the Secretary, acting through the Director of the National Institutes of Health”.
 
@@ -56,7 +58,7 @@ Subsec. (a)(1). Pub. L. 103–43, §1801(b)(2)(B), redesignated par. (3) as (1) 
 
 “(B) shall provide administrative support and support services to the Director of such Office;”.
 
-Subsec. (a)(2). Pub. L. 103–43, §1801(b)(2)(B), (E), redesignated par. (4) as (2), substituted “AIDS research” for “research relating to acquired immune deficiency syndrome”, and struck out former par. (2) which read as follows: “shall coordinate activities relating to acquired immune deficiency syndrome conducted by the national research institutes and the agencies of the National Institutes of Health;”.
+Subsec. (a)(2). Pub. L. 103–43, §1801(b)(2)(B), (E), redesignated par. (4) as (2), substituted “AIDS research” for“research relating to acquired immune deficiency syndrome”, and struck out former par. (2) which read as follows: “shall coordinate activities relating to acquired immune deficiency syndrome conducted by the national research institutes and the agencies of the National Institutes of Health;”.
 
 Subsec. (a)(3). Pub. L. 103–43, §1801(b)(2)(B), (C), (E), redesignated par. (5) as (3), struck out “, in consultation with the advisory council for the appropriate national research institute of the National Institutes of Health,” after “may” in introductory provisions, and substituted “AIDS research” for “research relating to acquired immune deficiency syndrome” in subpar. (A). Former par. (3) redesignated (1).
 

@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(4) there is a widespread practice of treating Native Americans <sup>1</sup> languages as if they were anachronisms;
 
-&emsp;(5) there is a lack of clear, comprehensive, and consistent Federal policy on treatment ofNative American languages which has often resulted in acts of suppression and extermination of Native American languages and cultures;
+&emsp;(5) there is a lack of clear, comprehensive, and consistent Federal policy on treatment of Native American languages which has often resulted in acts of suppression and extermination of Native American languages and cultures;
 
 &emsp;(6) there is convincing evidence that student achievement and performance, community and school pride, and educational opportunity is clearly and directly tied to respect for, and support of, the first language of the child or student;
 

@@ -2,7 +2,7 @@
 
 #### (a) Taxation under this subchapter
 
-If a foreign company carrying on an insurance business within the United States would qualify under part I or II of this subchapter for the taxable year if (without regard to income not effectively connected with the conduct of any trade or business within the United States) it were a domestic corporation, such company shall betaxable under such part on its income effectively connected with its conduct of any trade or business within the United States. With respect to the remainder of its income which is from sources within the United States, such a foreign company shall be taxable as provided in section 881.
+If a foreign company carrying on an insurance business within the United States would qualify under part I or II of this subchapter for the taxable year if (without regard to income not effectively connected with the conduct of any trade or business within the United States) it were a domestic corporation, such company shall be taxable under such part on its income effectively connected with its conduct of any trade or business within the United States. With respect to the remainder of its income which is from sources within the United States, such a foreign company shall be taxable as provided in section 881.
 
 #### (b) Minimum effectively connected net investment income
 
@@ -88,7 +88,7 @@ If a foreign company carrying on an insurance business within the United States 
 
 #### (A) In general
 
-&emsp;&emsp;The tax under section 881 (determined without regard to this paragraph) shall be reduced (but not below zero) by an amount which bears the same ratio to such tax as—
+&emsp;&emsp;The tax under section 881 (determined without regard to this paragraph) shall bereduced (but not below zero) by an amount which bears the same ratio to such tax as—
 
 &emsp;&emsp;&emsp;(i) the amount of the increase in effectively connected income of the company resulting from subsection (b), bears to
 
@@ -100,7 +100,7 @@ If a foreign company carrying on an insurance business within the United States 
 
 #### (3) Data used in determining domestic asset/liability percentages and domestic investment yields
 
-&emsp;Each domestic asset/liability percentage, and each domestic investment yield, for anytaxable year shall be based on such representative data with respect to domestic insurance companies for the second preceding taxable year as the Secretary considers appropriate.
+&emsp;Each domestic asset/liability percentage, and each domestic investment yield, for any taxable year shall be based on such representative data with respect to domestic insurance companies for the second preceding taxable year as the Secretary considers appropriate.
 
 #### (d) Regulations
 
@@ -118,29 +118,29 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-2004—Subsec. (c)(3), (4). Pub. L. 108–218 redesignated par. (4) as (3) and struck out heading and text of former par. (3). Text read as follows: “For purposes of section 809, the equity base of any foreign mutual life insurance company as of the close of any taxable year shall be increased by the excess of—
+<b>2004</b>—Subsec. (c)(3), (4). Pub. L. 108–218 redesignated par. (4) as (3) and struck out heading and text of former par. (3). Text read as follows: “For purposes of section 809, the equity base of any foreign mutual life insurance company as of the close of any taxable year shall be increased by the excess of—
 
 &emsp;“(A) the required United States assets of the company (determined under subsection (b)(2)), over
 
 &emsp;“(B) the mean of the assets held in the United States during the taxable year.”
 
-1989—Subsec. (c)(4). Pub. L. 101–239 substituted “yields” for “yeilds” in heading.
+<b>1989</b>—Subsec. (c)(4). Pub. L. 101–239 substituted “yields” for “yeilds” in heading.
 
-1988—Subsec. (b)(3)(B). Pub. L. 100–647, §2004(q)(2)(A), struck out “held for the production of such income” after “same companies”.
+<b>1988</b>—Subsec. (b)(3)(B). Pub. L. 100–647, §2004(q)(2)(A), struck out “held for the production of such income” after “same companies”.
 
 Subsec. (b)(4)(B)(ii). Pub. L. 100–647, §2004(q)(2)(B), struck out “held for the production of investment income” after “United States)”.
 
 Subsec. (d)(4). Pub. L. 100–647, §2004(q)(3), added par. (4).
 
-1987—Pub. L. 100–203 substituted “companies” for “corporations” in section catchline and amended text generally. Prior to amendment, text read as follows: “If a foreign corporation carrying on an insurance business within the United States would qualify under part I or II of this subchapter for the taxable year if (without regard to income not effectively connected with the conduct of any trade or business within the United States) it were a domestic corporation, such corporation shall be taxable under such part on its income effectively connected with its conduct of any trade or business within the United States. With respect to the remainder of its income, which is from sources within the United States, such a foreign corporation shall be taxable as provided in section 881.”
+<b>1987</b>—Pub. L. 100–203 substituted “companies” for “corporations” in section catchline and amended text generally. Prior to amendment, text read as follows: “If a foreign corporation carrying on an insurance business within the United States would qualify under part I or II of this subchapter for the taxable year if (without regard to income not effectively connected with the conduct of any trade or business within the United States) it were a domestic corporation, such corporation shall be taxable under such part on its income effectively connected with its conduct of any trade or business within the United States. With respect to the remainder of its income, which is from sources within the United States, such a foreign corporation shall be taxable as provided in section 881.”
 
-1986—Pub. L. 99–514 struck out reference to part III of this subchapter.
+<b>1986</b>—Pub. L. 99–514 struck out reference to part III of this subchapter.
 
-1966—Pub. L. 89–809 substituted provisions covering the taxability of foreign corporations that are carrying on an insurance business within the United States which would qualify under part I, II, or III of this subchapter for the taxable year if (without regard to income not effectively connected with the conduct of any trade or business within the United States) it were a domestic corporation for provisions that the gross income of insurance companies subject to the tax imposed by section 802 or 831 shall not be determined in the manner provided in part I of subchapter N (relating to determination of sources of income).
+<b>1966</b>—Pub. L. 89–809 substituted provisions covering the taxability of foreign corporations that are carrying on an insurance business within the United States which would qualify under part I, II, or III of this subchapter for the taxable year if (without regard to income not effectively connected with the conduct of any trade or business within the United States) it were a domestic corporation for provisions that the gross income of insurance companies subject to the tax imposed by section 802 or 831 shall not be determined in the manner provided in part I of subchapter N (relating to determination of sources of income).
 
-1959—Pub. L. 86–69 struck out reference to section 811.
+<b>1959</b>—Pub. L. 86–69 struck out reference to section 811.
 
-1956—Act Mar. 13, 1956, inserted reference to section 811.
+<b>1956</b>—Act Mar. 13, 1956, inserted reference to section 811.
 
 #### Effective Date of 2004 Amendment
 

@@ -16,3 +16,4 @@ Part A—General
 - [&sect; 01908 - Legal representation authority](%C2%A7%2001908%20-%20Legal%20representation%20authority.md)
 - [&sect; 01909 - Inspector General for the United States Capitol Police](%C2%A7%2001909%20-%20Inspector%20General%20for%20the%20United%20States%20Capitol%20Police.md)
 - [&sect; 01910 - Report of disbursements](%C2%A7%2001910%20-%20Report%20of%20disbursements.md)
+- [&sect; 01911 - General Counsel to the Chief of Police and the United States Capitol Police](%C2%A7%2001911%20-%20General%20Counsel%20to%20the%20Chief%20of%20Police%20and%20the%20United%20States%20Capitol%20Police.md)

@@ -6,7 +6,7 @@
 
 (c) Nothing in this chapter shall be construed as requiring the Commission or the Commission <sup>1</sup> to report minor violations of this chapter for prosecution, whenever it appears that the public interest does not require such action.
 
-(Sept. 21, 1922, ch. 369, §13, as added Pub. L. 90–258, §26, Feb. 19, 1968, 82 Stat. 34; amended Pub. L. 93–463, title I, §103(a), (b), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 97–444, title II, §230, Jan. 11, 1983, 96 Stat. 2319; Pub. L. 102–546, title IV, §402(1)(D), (9)(C), Oct. 28, 1992, 106 Stat. 3624, 3625.)
+(Sept. 21, 1922, ch. 369, §13, as added Pub. L. 90–258, §26, Feb. 19, 1968, 82 Stat. 34; amendedPub. L. 93–463, title I, §103(a), (b), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 97–444, title II, §230, Jan. 11, 1983, 96 Stat. 2319; Pub. L. 102–546, title IV, §402(1)(D), (9)(C), Oct. 28, 1992, 106 Stat. 3624, 3625.)
 
 #### Amendments
 

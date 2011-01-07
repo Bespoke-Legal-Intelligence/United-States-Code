@@ -12,5 +12,5 @@ There are authorized to be appropriated—
 
 #### Amendments
 
-2000—Par. (2). Pub. L. 106–386 inserted “and $500,000 for each of the fiscal years 2001 through 2005” after “1996”.
+<b>2000</b>—Par. (2). Pub. L. 106–386 inserted “and $500,000 for each of the fiscal years 2001 through 2005” after “1996”.
 

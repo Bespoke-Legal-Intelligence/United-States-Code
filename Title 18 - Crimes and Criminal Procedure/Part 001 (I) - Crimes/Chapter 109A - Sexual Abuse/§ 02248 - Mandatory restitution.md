@@ -50,7 +50,7 @@ Definition.—For purposes of this section, the term “victim” means the indi
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–132, §205(b)(1), inserted “or 3663A” after “3663”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–132, §205(b)(1), inserted “or 3663A” after “3663”.
 
 Subsec. (b)(1). Pub. L. 104–132, §205(b)(2)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The order of restitution under this section shall direct that—
 
@@ -58,7 +58,7 @@ Subsec. (b)(1). Pub. L. 104–132, §205(b)(2)(A), reenacted heading without cha
 
 &emsp;“(B) the United States Attorney enforce the restitution order by all available and reasonable means.”
 
-Subsec. (b)(2). Pub. L. 104–132, §205(b)(2)(B), struck out “by victim” after “Enforcement” in heading and amended text generally. Prior to amendment, text read as follows: “An order of restitution also may be enforced by a victim named in the order to receive the restitution in the same manner as a judgment in a civil action.”
+Subsec. (b)(2). Pub. L. 104–132, §205(b)(2)(B), struck out “by victim” after “Enforcement” in heading andamended text generally. Prior to amendment, text read as follows: “An order of restitution also may be enforced by a victim named in the order to receive the restitution in the same manner as a judgment in a civil action.”
 
 Subsec. (b)(4)(C), (D). Pub. L. 104–132, §205(b)(2)(C), struck out subpars. (C) and (D), which related to court's consideration of economic circumstances of defendant in determining schedule of payment of restitution orders, and court's entry of nominal restitution awards where economic circumstances of defendant do not allow for payment of restitution, respectively.
 

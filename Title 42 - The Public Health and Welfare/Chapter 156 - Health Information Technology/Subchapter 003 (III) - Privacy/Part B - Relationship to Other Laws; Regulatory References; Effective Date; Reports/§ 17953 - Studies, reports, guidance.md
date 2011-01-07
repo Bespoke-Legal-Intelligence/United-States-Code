@@ -30,7 +30,7 @@
 
 &emsp;Not later than one year after February 17, 2009, the Secretary, in consultation with the Federal Trade Commission, shall conduct a study, and submit a report under paragraph (2), on privacy and security requirements for entities that are not covered entities or business associates as of February 17, 2009, including—
 
-&emsp;&emsp;(A) requirements relating to security, privacy, and notification in the case of a breach of security or privacy (including the applicability of an exemption to notification in the case of individually identifiable health information that has been rendered unusable, unreadable, or indecipherable through technologies or methodologies recognized by appropriate professional organization or standard setting bodies to provide effective security for the information) that should be applied to—
+&emsp;&emsp;(A) requirements relating to security, privacy, and notification in the case of a breachof security or privacy (including the applicability of an exemption to notification in the case of individually identifiable health information that has been rendered unusable, unreadable, or indecipherable through technologies or methodologies recognized by appropriate professional organization or standard setting bodies to provide effective security for the information) that should be applied to—
 
 &emsp;&emsp;&emsp;(i) vendors of personal health records;
 

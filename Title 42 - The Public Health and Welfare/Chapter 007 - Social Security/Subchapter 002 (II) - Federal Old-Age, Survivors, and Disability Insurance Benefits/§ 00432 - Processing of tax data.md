@@ -10,7 +10,7 @@ Part III of subchapter A of chapter 61 of subtitle F of the Internal Revenue Cod
 
 #### Amendments
 
-1994—Pub. L. 103–296, §321(c)(6)(L), substituted “1986” for “1954” after “Code of” wherever appearing.
+<b>1994</b>—Pub. L. 103–296, §321(c)(6)(L), substituted “1986” for “1954” after “Code of” wherever appearing.
 
 Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing, except where appearing before “of the Treasury” and substituted “available to the Commissioner” for “available to him”.
 

@@ -6,7 +6,7 @@
 
 Beginning 180 days after the date of enactment of this Act \[November 6, 2000\], or October 31, 2000, whichever is later, and on October 31 of each year thereafter, the Secretary shall submit a report to the appropriate congressional committees on—
 
-&emsp;(1) the actions taken by recipient countries, as a result of the assistance allocated to them by the multilateral development banks under programs referred to in section 802(b),<sup>1</sup> tostrengthen governance and reduce the opportunity for bribery and corruption; and
+&emsp;(1) the actions taken by recipient countries, as a result of the assistance allocated to them by the multilateral development banks under programs referred to in section 802(b),<sup>1</sup> to strengthen governance and reduce the opportunity for bribery and corruption; and
 
 &emsp;(2) how International Development Association-financed projects contribute to the eventual graduation of a representative sample of countries from reliance on financing on concessionary terms and international development assistance.
 
@@ -32,7 +32,7 @@ Section is comprised of section 101(a) \[title VIII, §803\] of Pub. L. 106–42
 
 #### Amendments
 
-2004—Pub. L. 108–199 repealed heading and text of subsec. (a). Text read as follows: “Beginning 180 days after the date of enactment of this Act, or October 31, 2000, whichever is later, and on October 31 of each year thereafter, the Comptroller General of the United States shall submit to the appropriate congressional committees a report on the sufficiency of audits of the financial operations of each multilateral development bank conducted by persons or entities outside such bank.”
+<b>2004</b>—Pub. L. 108–199 repealed heading and text of subsec. (a). Text read as follows: “Beginning 180 days after the date of enactment of this Act, or October 31, 2000, whichever is later, and on October 31 of each year thereafter, the Comptroller General of the United States shall submit to the appropriate congressional committees a report on the sufficiency of audits of the financial operations of each multilateral development bank conducted by persons or entities outside such bank.”
 
 #### Definitions
 

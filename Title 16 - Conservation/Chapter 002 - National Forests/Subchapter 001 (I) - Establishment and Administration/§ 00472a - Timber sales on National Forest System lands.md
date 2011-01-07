@@ -10,7 +10,7 @@ All advertised timber sales shall be designated on maps, and a prospectus shall 
 
 #### (c) Terms and conditions of contract
 
-The length and other terms of the contract shall be designed to promote orderly harvesting consistent with the principles set out in section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974, as amended \[16 U.S.C. 1604\]. Unless there is a finding by the Secretary of Agriculture that better utilization of the various forest resources (consistent with the provisions of the Multiple-Use Sustained-Yield Act of 1960 \[16 U.S.C. 528–531\]) will result, sales contracts shall be for a period not to exceed ten years: <i>Provided</i>, That such period may be adjusted at the discretion of the Secretary to provide additional time due to time delays caused by an act of an agent of the United States or by other circumstances beyond the control of the purchaser. The Secretary shall require the purchaser to file as soon as practicable after execution of a contract for any advertised sale with a term of two years or more, a plan of operation, which shall be subject to concurrence by the Secretary. The Secretary shall not extend any contract period with an original term of two years or more unless he finds (A) that the purchaser has diligently performed in accordancewith an approved plan of operation or (B) that the substantial overriding public interest justifies the extension.
+The length and other terms of the contract shall be designed to promote orderly harvesting consistent with the principles set out in section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974, as amended \[16 U.S.C. 1604\]. Unless there is a finding by the Secretary of Agriculture that better utilization of the various forest resources (consistent with the provisions of the Multiple-Use Sustained-Yield Act of 1960 \[16 U.S.C. 528–531\]) will result, sales contracts shall be for a period not to exceed ten years: <i>Provided</i>, That such period may be adjusted at the discretion of the Secretary to provide additional time due to time delays caused by an act of an agent of the United States or by other circumstances beyond the control of the purchaser. The Secretary shall require the purchaser to file as soon as practicable after execution of a contract for any advertised sale with a term of two years or more, a plan of operation, which shall be subject to concurrence by the Secretary. The Secretary shall not extend any contract period with an original term of two years or more unless he finds (A) that the purchaser has diligently performed in accordance with an approved plan of operation or (B) that the substantial overriding public interest justifies the extension.
 
 #### (d) Advertisement of sales; exceptions
 
@@ -28,7 +28,7 @@ The Secretary of Agriculture shall advertise all sales unless he determines that
 
 &emsp;(D) are consistent with the objectives of this Act and other Federal statutes.
 
-> The Secretary shall select or alter the bidding method or methods as he determines necessary to achieve the objectives stated in clauses (A), (B), (C), and (D) of this paragraph.
+> The Secretary shall select or alter the bidding method or methods as he determines necessaryto achieve the objectives stated in clauses (A), (B), (C), and (D) of this paragraph.
 
 (2) In those instances when the Secretary selects oral auction as the bidding method for the sale of any national forest materials, he shall require that all prospective purchasers submit written sealed qualifying bids. Only prospective purchasers whose written sealed qualifying bids are equal to or in excess of the appraised value of such national forest materials may participate in the oral bidding process.
 
@@ -68,15 +68,15 @@ The Multiple-Use Sustained-Yield Act of 1960, referred to in subsecs. (a) and (c
 
 The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (a), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
-This Act, referred to in subsec. (e)(1)(D), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, known as the National Forest Management Act of 1976. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
+This Act, referred to in subsec. (e)(1)(D), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, known as the National Forest Management Act of 1976. For complete classification of this Act to the Code, see ShortTitle of 1976 Amendment note set out under section 1600 of this title and Tables.
 
 The Small Business Act, referred to in subsec. (i)(1), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 #### Amendments
 
-1990—Subsec. (i)(1). Pub. L. 101–626 struck out proviso that this subsec. not apply to sales of timber on National Forest System lands in the State of Alaska.
+<b>1990</b>—Subsec. (i)(1). Pub. L. 101–626 struck out proviso that this subsec. not apply to sales of timber on National Forest System lands in the State of Alaska.
 
-1978—Subsec. (e). Pub. L. 95–233 substituted provisions authorizing the Secretary of Agriculture to select bidding method or methods to achieve the purposes of par. (1) of this subsec., procedures for use of oral auction as the bidding method, and procedures for monitoring and enforcement to prevent collusive practices, for provisions authorizing the Secretary to take such action as deemed necessary to prevent collusive practices, and setting forth requirements for enforcement.
+<b>1978</b>—Subsec. (e). Pub. L. 95–233 substituted provisions authorizing the Secretary of Agriculture to select bidding method or methods to achieve the purposes of par. (1) of this subsec., procedures for use of oral auction as the bidding method, and procedures for monitoring and enforcement to prevent collusive practices, for provisions authorizing the Secretary to take such action as deemed necessary to prevent collusive practices, and setting forth requirements for enforcement.
 
 #### Application of Amendments by Pub. L. 101–626 to Certain Long-Term Timber Sale Contracts
 

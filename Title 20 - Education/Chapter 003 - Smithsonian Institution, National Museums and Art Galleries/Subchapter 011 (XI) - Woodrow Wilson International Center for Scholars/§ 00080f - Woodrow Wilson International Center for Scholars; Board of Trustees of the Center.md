@@ -28,11 +28,11 @@ The Board of Trustees shall be composed of 17 members as follows:
 
 #### (c) Appointment of alternate members by members of Board
 
-Each member of the Board of Trustees specified in paragraphs (1) through (8) of subsection\(b) of this section may designate another official to serve on the Board of Trustees in his stead.
+Each member of the Board of Trustees specified in paragraphs (1) through (8) of subsection (b) of this section may designate another official to serve on the Board of Trustees in his stead.
 
 #### (d) Terms of office; vacancies; reappointment
 
-Each member of the Board of Trustees appointed under paragraph (10) of subsection (b) of this section shall serve for a term of six years from the expiration of his predecessor's term; except that (1) any trustee appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, and (2) the terms of office of the trustees first taking office shall begin on October 24, 1968, and shall expire as designated at the time of appointment, two at the end of two years, three at the end of four years, and three at the end of six years. No trustee of the Board chosen from private life shall be eligible to serve in excess of two consecutive terms, except that a trustee whose term has expired may serve until his successor has qualified.
+Each member of the Board of Trustees appointed under paragraph (10) of subsection (b) of this section shall serve for a term of six years from the expiration of his predecessor's term; except that (1) any trustee appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointedshall be appointed for the remainder of such term, and (2) the terms of office of the trustees first taking office shall begin on October 24, 1968, and shall expire as designated at the time of appointment, two at the end of two years, three at the end of four years, and three at the end of six years. No trustee of the Board chosen from private life shall be eligible to serve in excess of two consecutive terms, except that a trustee whose term has expired may serve until his successor has qualified.
 
 #### (e) Chairman and Vice Chairman of Board
 
@@ -42,13 +42,13 @@ The President shall designate a Chairman and a Vice Chairman from among the memb
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–277, §1335(i)(1)(A), substituted “17” for “19” in introductory provisions.
+<b>1998</b>—Subsec. (b). Pub. L. 105–277, §1335(i)(1)(A), substituted “17” for “19” in introductory provisions.
 
 Subsec. (b)(7) to (10). Pub. L. 105–277, §1335(i)(1)(B)–(D), redesignated pars. (8) to (10) as (7) to (9), respectively, in par. (9) substituted “9” for “10”, and struck out former par. (7) which read as follows: “the Director of the United States Information Agency;”.
 
 Subsec. (c). Pub. L. 105–277, §1335(i)(2), substituted “(8)” for “(9)”.
 
-1990—Subsec. (b). Pub. L. 101–268, §1, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Board of Trustees shall be composed of sixteen members as follows:
+<b>1990</b>—Subsec. (b). Pub. L. 101–268, §1, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Board of Trustees shall be composed of sixteen members as follows:
 
 &emsp;“(1) the Secretary of State;
 
@@ -72,7 +72,7 @@ Subsec. (c). Pub. L. 101–268, §2(1), substituted “(9)” for “(8)”.
 
 Subsec. (d). Pub. L. 101–268, §2(2), substituted “(10)” for “(9)”.
 
-1978—Subsec. (b). Pub. L. 95–426, §206(a)(1), substituted “sixteen” for “fifteen”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–426, §206(a)(1), substituted “sixteen” for “fifteen”.
 
 Subsec. (b)(2) to (9). Pub. L. 95–426, §206(a)(2), (3), designated pars. (2) to (8) as (3) to (9), respectively, and added a new par. (2) “the Director of the International Communication Agency”.
 

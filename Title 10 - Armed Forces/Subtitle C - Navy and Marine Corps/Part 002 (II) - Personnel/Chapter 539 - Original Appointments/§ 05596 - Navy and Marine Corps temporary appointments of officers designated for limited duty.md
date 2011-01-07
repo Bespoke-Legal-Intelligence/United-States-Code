@@ -122,21 +122,21 @@ Since appointments under this section are either made, or not made, in the discr
 
 In subsections (b) and (c) the words “and above” have been executed by naming the grades they imply, to wit, chief petty officers and master and technical sergeants. In the statement of the grades to which appointments may be made, the words “including the grades of warrant officer and commissioned warrant officer” are omitted as surplusage. In the list of persons who may be appointed, reference to commissioned warrant officers is omitted because they are included within the term “warrant officers”.
 
-In subsection (f) the words “do not change the status” are substituted for the words “appointments shall not be vacated.” The word “advancement”, the words “in accordance with laws relating to the Regular Navy or Marine Corps”, and the words “privileges and gratuities” are omitted as surplusage. The first proviso is omitted as unnecessary in view of the Career Compensation Act of 1949.
+In subsection (f) the words “do not change the \* \* \* status” are substituted for the words “appointments \* \* \* shall not be vacated.” The word “advancement”, the words “in accordance with laws relating to the Regular Navy or Marine Corps”, and the words “privileges and gratuities” are omitted as surplusage. The first proviso is omitted as unnecessary in view of the Career Compensation Act of 1949.
 
 In subsection (g)(2) that portion of 34 U.S.C. 3c(a) which excludes officers on the retired list from the definition of the word “officers” is treated as precluding the appointment of such officers under this section. There is no express statement of law making retired enlisted members ineligible for such appointments; however, the context indicates this to be the intent of Congress. In subsection (g)(3) that portion of 34 U.S.C. 3c(a) which excludes officers on active duty for training from the definition of the word “officers” is treated as precluding the appointment of persons on training duty under this section. While there is no statement of law making enlisted members of the Naval Reserve and the Marine Corps Reserve on active duty for training ineligible for appointments under this section, the context indicates this to be the intent of Congress and clause (3) is thus written. The exception as to the Fleet Reserve is omitted as unnecessary inasmuch as, pursuant to the Armed Forces Reserve Act of 1952, the Fleet Reserve is no longer a part of the Naval Reserve but is a separate and distinct component of the Navy.
 
 #### Amendments
 
-2006—Subsec. (c)(2) to (4). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” wherever appearing.
+<b>2006</b>—Subsec. (c)(2) to (4). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” wherever appearing.
 
-1991—Pub. L. 102–190, §1113(d)(2)(A), struck out “warrant officers and” before “officers designated” in section catchline.
+<b>1991</b>—Pub. L. 102–190, §1113(d)(2)(A), struck out “warrant officers and” before “officers designated” in section catchline.
 
 Subsec. (a). Pub. L. 102–190, §1113(c)(1), reorganized subsec. (a), striking out par. (1) relating to warrant officer grades, and striking out par. (2) designation.
 
 Subsec. (d). Pub. L. 102–190, §1113(c)(2), substituted “subsection (a)” for “subsection (a)(2)”.
 
-1980—Subsec. (a). Pub. L. 96–513 substituted provisions authorizing the Secretary of the Navy to make temporary appointments in warrant officer grades and of certain officers designated for limited duty for provisions authorizing such appointments only when the number of male officers serving on active duty in the grade of ensign and above in the line of the Navy exceeded the number of male officers on the active list in the line of the Navy.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted provisions authorizing the Secretary of the Navy to make temporary appointments in warrant officer grades and of certain officers designated for limited duty for provisions authorizing such appointments only when the number of male officers serving on active duty in the grade of ensign and above in the line of the Navy exceeded the number of male officers on the active list in the line of the Navy.
 
 Subsec. (b). Pub. L. 96–513 redesignated subsec. (f) as (b) and struck out former subsec. (b) which described persons eligible for temporary appointments in the Regular Navy, except in the Nurse Corps, in grades not above lieutenant and in the Regular Marine Corps in grades not above captain.
 

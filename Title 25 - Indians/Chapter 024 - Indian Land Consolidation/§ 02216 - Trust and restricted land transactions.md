@@ -50,7 +50,7 @@ Notwithstanding any other provision of law, the names and mailing addresses of t
 
 &emsp;(1) other owners of interests in trust or restricted lands within the same reservation;
 
-&emsp;(2) the tribe that exercises jurisdiction over the land where the parcel is located or any person who is eligible for membership in that tribe; and
+&emsp;(2) the tribe that exercises jurisdiction over the land where the parcel is located or anyperson who is eligible for membership in that tribe; and
 
 &emsp;(3) any person that is leasing, using, or consolidating, or is applying to lease, use, or consolidate, such trust or restricted land or the interest in trust or restricted lands.
 
@@ -78,9 +78,9 @@ Notwithstanding any other provision of law, the names and mailing addresses of t
 
 #### Amendments
 
-2005—Subsec. (e). Pub. L. 109–157 substituted “be made available to—” for “be made available to”.
+<b>2005</b>—Subsec. (e). Pub. L. 109–157 substituted “be made available to—” for “be made available to”.
 
-2004—Subsec. (b)(1)(B). Pub. L. 108–374, §6(a)(9)(A), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “The requirement for an estimate of value under subparagraph (A) may be waived in writing by an Indian selling, exchanging, or conveying by gift deed for no or nominal consideration an interest in land with an Indian person who is the owner's spouse, brother, sister, lineal ancestor of Indian blood, lineal descendant, or collateral heir.”
+<b>2004</b>—Subsec. (b)(1)(B). Pub. L. 108–374, §6(a)(9)(A), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “The requirement for an estimate of value under subparagraph (A) may be waived in writing by an Indian selling, exchanging, or conveying by gift deed for no or nominal consideration an interest in land with an Indian person who is the owner's spouse, brother, sister, lineal ancestor of Indian blood, lineal descendant, or collateral heir.”
 
 Subsec. (e). Pub. L. 108–374, §6(a)(9)(B), added introductory provisions and struck out former introductory provisions which read as follows: “Notwithstanding any other provision of law, the names and mailing addresses of the Indian owners of trust or restricted lands, and information on the location of the parcel and the percentage of undivided interest owned by each individual, or of any interest in trust or restricted lands, shall, upon written request, be made available to—”.
 

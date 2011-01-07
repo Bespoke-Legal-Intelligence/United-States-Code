@@ -6,5 +6,5 @@ A military protective order issued by a military commander shall remain in effec
 
 #### Amendments
 
-2009—Pub. L. 111–84 made technical amendment to section catchline.
+<b>2009</b>—Pub. L. 111–84 made technical amendment to section catchline.
 

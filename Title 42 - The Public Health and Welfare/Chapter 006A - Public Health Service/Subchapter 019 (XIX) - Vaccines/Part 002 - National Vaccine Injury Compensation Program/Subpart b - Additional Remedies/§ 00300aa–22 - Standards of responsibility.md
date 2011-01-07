@@ -38,5 +38,5 @@ In subsecs. (b)(1), (c), “October 1, 1988” was substituted for “the effect
 
 #### Amendments
 
-1987—Subsecs. (b)(1), (c). Pub. L. 100–203 substituted “effective date of this subpart” for “effective date of this part”.
+<b>1987</b>—Subsecs. (b)(1), (c). Pub. L. 100–203 substituted “effective date of this subpart” for “effective date of this part”.
 

@@ -32,9 +32,9 @@ For a prior section 3564, applicable to offenses committed prior to Nov. 1, 1987
 
 #### Amendments
 
-1987—Subsec. (c). Pub. L. 100–182 inserted “, pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation,” after “may”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–182 inserted “, pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation,” after “may”.
 
-1986—Subsec. (b). Pub. L. 99–646 substituted provision that the term of probation does not run while the defendant is imprisoned in connection with a conviction for a Federal, State, or local crime unless the imprisonment is for a period of less than thirty consecutive days, for provision that the term of probation does not run during any period in which the defendant is imprisoned for a period of at least thirty consecutive days in connection with a conviction for a Federal, State, or local crime.
+<b>1986</b>—Subsec. (b). Pub. L. 99–646 substituted provision that the term of probation does not run while the defendant is imprisoned in connection with a conviction for a Federal, State, or local crime unless the imprisonment is for a period of less than thirty consecutive days, for provision that the term of probation does not run during any period in which the defendant is imprisoned for a period of at least thirty consecutive days in connection with a conviction for a Federal, State, or local crime.
 
 #### Effective Date of 1987 Amendment
 

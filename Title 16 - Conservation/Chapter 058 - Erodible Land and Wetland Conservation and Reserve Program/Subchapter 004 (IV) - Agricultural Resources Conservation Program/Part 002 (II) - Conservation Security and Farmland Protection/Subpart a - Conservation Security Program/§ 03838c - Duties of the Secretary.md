@@ -62,7 +62,7 @@ The Secretary shall make payments under a conservation security contract as soon
 
 &emsp;&emsp;&emsp;(i) An amount equal to 15 percent of the base payment for land covered by the conservation security contract.
 
-&emsp;&emsp;&emsp;(ii) An amount that does not exceed 75 percent (or, in the case of a beginningfarmer or rancher, 90 percent) of the average county cost of adopting or maintaining practices for the 2001 crop year that are included in the conservation security contract, as described in subparagraph (C)(ii).
+&emsp;&emsp;&emsp;(ii) An amount that does not exceed 75 percent (or, in the case of a beginning farmer or rancher, 90 percent) of the average county cost of adopting or maintaining practices for the 2001 crop year that are included in the conservation security contract, as described in subparagraph (C)(ii).
 
 &emsp;&emsp;&emsp;(iii) An enhanced payment that is determined in accordance with subparagraph (C)(iii).
 

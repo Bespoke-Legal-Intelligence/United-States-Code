@@ -50,13 +50,13 @@ Section 1476(a) of this title, referred to in subsec. (h)(4), was repealed by Pu
 
 #### Amendments
 
-1982—Subsec. (h)(4). Pub. L. 97–241, §304(f), added par. (4).
+<b>1982</b>—Subsec. (h)(4). Pub. L. 97–241, §304(f), added par. (4).
 
-1959—Subsec. (a). Pub. L. 86–108 provided that the purpose of making informational media guaranties shall be the achievement of the foreign policy objectives of the United States, including the objective mentioned in former sections 1933(b)(4)(A) and 1933(b)(4)(G) of this title, now covered by section 2351 of this title.
+<b>1959</b>—Subsec. (a). Pub. L. 86–108 provided that the purpose of making informational media guaranties shall be the achievement of the foreign policy objectives of the United States, including the objective mentioned in former sections 1933(b)(4)(A) and 1933(b)(4)(G) of this title, now covered by section 2351 of this title.
 
-1958—Subsec. (h). Pub. L. 85–477 added subsec. (h).
+<b>1958</b>—Subsec. (h). Pub. L. 85–477 added subsec. (h).
 
-1956—Subsec. (a). Act Aug. 26, 1954, §544(g), as added by act July 18, 1956, designated as subsec. (a) the entire former section and amended it to eliminate provisions which permitted the Director to make guaranties against funds made available by notes issued pursuant to section 1509(c)(2) of this title and which limited the amount of such guaranties in any fiscal year to not more than $10,000,000. Such provisions were covered by subsecs. (b) to (g) of this section.
+<b>1956</b>—Subsec. (a). Act Aug. 26, 1954, §544(g), as added by act July 18, 1956, designated as subsec. (a) the entire former section and amended it to eliminate provisions which permitted the Director to make guaranties against funds made available by notes issued pursuant to section 1509(c)(2) of this title and which limited the amount of such guaranties in any fiscal year to not more than $10,000,000. Such provisions were covered by subsecs. (b) to (g) of this section.
 
 Subsecs. (b) to (g). Act Aug. 26, 1954, §544(g), as added by act July 18, 1956, added subsecs (b) to (g).
 

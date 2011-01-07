@@ -1,6 +1,6 @@
 ### §8105. Structural requirements
 
-(a) Each medical facility (including each nursing home facility for which the Secretary contracts under section 1720 of this title and each State home facility constructed or altered under subchapter III of this chapter) shall be of fire, earthquake, and other natural disaster resistant construction in accordance with standards which the Secretary shall prescribe on a State or regional basis after surveying appropriate State and local laws, ordinances, and buildingcodes and climatic and seismic conditions pertinent to each such facility. When an existing structure is acquired for use as a medical facility, it shall be altered to comply with such standards.
+(a) Each medical facility (including each nursing home facility for which the Secretary contracts under section 1720 of this title and each State home facility constructed or altered under subchapter III of this chapter) shall be of fire, earthquake, and other natural disaster resistant construction in accordance with standards which the Secretary shall prescribe on a State or regional basis after surveying appropriate State and local laws, ordinances, and building codes and climatic and seismic conditions pertinent to each such facility. When an existing structure is acquired for use as a medical facility, it shall be altered to comply with such standards.
 
 (b)(1) In order to carry out this section, the Secretary shall appoint an advisory committee to be known as the “Advisory Committee on Structural Safety of Department Facilities”, on which shall serve at least one architect and one structural engineer who are experts in structural resistance to fire, earthquake, and other natural disasters and who are not employees of the Federal Government.
 
@@ -12,9 +12,9 @@
 
 #### Amendments
 
-1992—Subsec. (b)(3). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in two places.
+<b>1992</b>—Subsec. (b)(3). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in two places.
 
-1991—Pub. L. 102–40 renumbered section 5005 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5005 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1720” for “620”.
 
@@ -24,7 +24,7 @@ Subsec. (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” fo
 
 Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-1979—Subsec. (a). Pub. L. 96–128 substituted “subchapter III of this chapter” for “section 5031 of this title”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–128 substituted “subchapter III of this chapter” for “section 5031 of this title”.
 
 #### Effective Date of 1979 Amendment
 

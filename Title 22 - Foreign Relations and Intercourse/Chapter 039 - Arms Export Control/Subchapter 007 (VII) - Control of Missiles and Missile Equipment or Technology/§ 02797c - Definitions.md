@@ -4,7 +4,7 @@
 
 For purposes of this subchapter—
 
-&emsp;(1) the term “missile” means a category I system as defined in the MTCR Annex, and any other unmanned delivery system of similar capability, as well as the specially designed production facilities for these systems;
+&emsp;(1) the term “missile” means a category I system as defined in the MTCR Annex, andany other unmanned delivery system of similar capability, as well as the specially designed production facilities for these systems;
 
 &emsp;(2) the term “Missile Technology Control Regime” or “MTCR” means the policy statement, between the United States, the United Kingdom, the Federal Republic of Germany, France, Italy, Canada, and Japan, announced on April 16, 1987, to restrict sensitive missile-relevant transfers based on the MTCR Annex, and any amendments thereto;
 
@@ -38,11 +38,15 @@ For purposes of subsection (a)(3) of this section, as it relates to any internat
 
 (Pub. L. 90–629, ch. 7, §74, as added Pub. L. 101–510, div. A, title XVII, §1703, Nov. 5, 1990, 104 Stat. 1748; amended Pub. L. 102–138, title III, §323(b), (c), Oct. 28, 1991, 105 Stat. 711; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1136(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–495.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+
 #### Amendments
 
-1999—Pub. L. 106–113 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>1999</b>—Pub. L. 106–113 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1991—Par. (8)(B). Pub. L. 102–138, §323(b), substituted “countries with non-market economies (excluding former members of the Warsaw Pact)” for “countries where it may be impossible to identify a specific governmental entity referred to in subparagraph (A)”.
+<b>1991</b>—Par. (8)(B). Pub. L. 102–138, §323(b), substituted “countries with non-market economies (excluding former members of the Warsaw Pact)” for “countries where it may be impossible to identify a specific governmental entity referred to in subparagraph (A)”.
 
 Par. (8)(B)(ii). Pub. L. 102–138, §323(c), substituted “electronics, space systems or equipment, and military aircraft” for “aircraft, electronics, and space systems or equipment”.
 

@@ -7,8 +7,8 @@ A tax is hereby imposed on the use of any highway motor vehicle which (together 
 &nbsp;
 
 | <b>Taxable gross weight:</b> | <b>Rate of tax:</b> |
-| --- | --- |
-| &nbsp;At least 55,000 pounds, but not over 75,000 poundsD$100 per year plus $22 for each 1,000 pounds (or fraction thereof) in excess of 55,000 pounds. |  |
+| :--- | ---: |
+| &nbsp;At least 55,000 pounds, but not over 75,000 pounds | $100 per year plus $22 for each 1,000 pounds (or fraction thereof) in excess of 55,000 pounds. |
 | Over 75,000 pounds | $550. |
 
 #### (b) By whom paid
@@ -49,7 +49,7 @@ Any taxpayer who files a return under this section with respect to 25 or more ve
 
 The tax imposed by this section shall apply only to use before October 1, 2011.
 
-(Added June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 390; amended Pub. L. 87–61, title II, §203(a), (b)(1), (2)(A), (B), June 29, 1961, 75 Stat. 124; Pub. L. 91–605, title III, §303(a)(7), (8), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(7), (8), May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §502(a)(6), (7), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 97–424, title V, §§513(a), (d), 516(a)(4), Jan. 6, 1983, 96 Stat. 2177, 2179, 2182; Pub. L. 98–369, div. A, title VII, §734(f), title IX, §901(a), July 18, 1984, 98 Stat. 980, 1003; Pub. L. 100–17, title V, §§502(a)(5), 507(a), Apr. 2, 1987, 101 Stat. 256, 260; Pub. L. 101–508, title XI, §11211(c)(5), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 104–188, title I, §1704(t)(57), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–178, title IX, §9002(a)(1)(G), June 9, 1998, 112 Stat. 499; Pub. L. 108–357, title VIII, §867(a), (c), Oct. 22, 2004, 118 Stat. 1622; Pub. L. 109–14, §9(c)(1), May 31, 2005, 119 Stat. 336; Pub. L. 109–59, title XI, §11101(a)(2)(A), Aug. 10, 2005, 119 Stat. 1944.)
+(Added June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 390; amended Pub. L. 87–61, title II, §203(a), (b)(1), (2)(A), (B), June 29, 1961, 75 Stat. 124; Pub. L. 91–605, title III, §303(a)(7), (8), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(7), (8), May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §502(a)(6), (7), Nov. 6, 1978, 92 Stat. 2756; Pub. L.97–424, title V, §§513(a), (d), 516(a)(4), Jan. 6, 1983, 96 Stat. 2177, 2179, 2182; Pub. L. 98–369, div. A, title VII, §734(f), title IX, §901(a), July 18, 1984, 98 Stat. 980, 1003; Pub. L. 100–17, title V, §§502(a)(5), 507(a), Apr. 2, 1987, 101 Stat. 256, 260; Pub. L. 101–508, title XI, §11211(c)(5), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 104–188, title I, §1704(t)(57), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–178, title IX, §9002(a)(1)(G), June 9, 1998, 112 Stat. 499; Pub. L. 108–357, title VIII, §867(a), (c), Oct. 22, 2004, 118 Stat. 1622; Pub. L. 109–14, §9(c)(1), May 31, 2005, 119 Stat. 336; Pub. L. 109–59, title XI, §11101(a)(2)(A), Aug. 10, 2005, 119 Stat. 1944.)
 
 #### References in Text
 
@@ -57,29 +57,29 @@ Section 6156, referred to in subsec. (d)(2), was repealed by Pub. L. 108–357, 
 
 #### Amendments
 
-2005—Subsec. (f). Pub. L. 109–59 substituted “2011” for “2006”.
+<b>2005</b>—Subsec. (f). Pub. L. 109–59 substituted “2011” for “2006”.
 
 Pub. L. 109–14 substituted “2006” for “2005”.
 
-2004—Subsec. (c)(2). Pub. L. 108–357, §867(a)(2), substituted “sold, destroyed, or stolen” for “destroyed or stolen” in heading.
+<b>2004</b>—Subsec. (c)(2). Pub. L. 108–357, §867(a)(2), substituted “sold, destroyed, or stolen” for “destroyed or stolen” in heading.
 
 Subsec. (c)(2)(A). Pub. L. 108–357, §867(a)(1), substituted “sold, destroyed, or stolen” for “destroyed or stolen” in two places.
 
 Subsecs. (e), (f). Pub. L. 108–357, §867(c), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1998—Subsec. (e). Pub. L. 105–178 substituted “2005” for “1999”.
+<b>1998</b>—Subsec. (e). Pub. L. 105–178 substituted “2005” for “1999”.
 
-1996—Subsec. (e). Pub. L. 104–188 provided that section 8002(a)(5) of Pub. L. 102–240 shall be applied as if “4481(e)” appeared instead of “4481(c)”. See 1991 Amendment note below.
+<b>1996</b>—Subsec. (e). Pub. L. 104–188 provided that section 8002(a)(5) of Pub. L. 102–240 shall be applied as if “4481(e)” appeared instead of “4481(c)”. See 1991 Amendment note below.
 
-1991—Subsec. (e). Pub. L. 102–240, which directed the substitution of “1999” for “1995” in subsec. (c), was executed by making the substitution in subsec. (e). See 1996 Amendment note above.
+<b>1991</b>—Subsec. (e). Pub. L. 102–240, which directed the substitution of “1999” for “1995” in subsec. (c), was executed by making the substitution in subsec. (e). See 1996 Amendment note above.
 
-1990—Subsec. (e). Pub. L. 101–508 substituted “1995” for “1993”.
+<b>1990</b>—Subsec. (e). Pub. L. 101–508 substituted “1995” for “1993”.
 
-1987—Subsec. (b). Pub. L. 100–17, §507(a), inserted “or contiguous foreign country” after “State”.
+<b>1987</b>—Subsec. (b). Pub. L. 100–17, §507(a), inserted “or contiguous foreign country” after “State”.
 
 Subsec. (e). Pub. L. 100–17, §502(a)(5), substituted “1993” for “1988”.
 
-1984—Subsec. (a). Pub. L. 98–369, §901(a), in amending subsec. (a) generally, substituted “55,000” for “33,000” in provisions preceding table, struck out heading “(1) In general”, substituted table provisions for former table which provided:
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §901(a), in amending subsec. (a) generally, substituted “55,000” for “33,000” in provisions preceding table, struck out heading “(1) In general”, substituted table provisions for former table which provided:
 
 &nbsp;
 
@@ -94,25 +94,25 @@ Subsec. (e). Pub. L. 100–17, §502(a)(5), substituted “1993” for “1988�
 
 Pub. L. 98–369, §734(f), struck out from subsec. (a), as subsec. (a) was in effect before the amendments made by section 513(a) of Pub. L. 97–424: “In case of the taxable period beginning on July 1, 1984, and ending on September 30, 1984, the tax shall be at the rate of 75 cents for such period for each 1,000 pounds of taxable gross weight or fraction thereof.” See 1983 Amendment note below.
 
-1983—Subsec. (a). Pub. L. 97–424, §513(a), substituted “at least 33,000 pounds at the rate specified in the following table:” for “more than 26,000 pounds, at the rate of $3.00 a year for each 1,000 pounds of taxable gross weight or fraction thereof.”, and added pars. (1) and (2).
+<b>1983</b>—Subsec. (a). Pub. L. 97–424, §513(a), substituted “at least 33,000 pounds at the rate specified in the following table:” for “more than 26,000 pounds, at the rate of $3.00 a year for each 1,000 pounds of taxable gross weight or fraction thereof.”, and added pars. (1) and (2).
 
 Subsec. (c). Pub. L. 97–424, §513(d), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (e). Pub. L. 97–424, §516(a)(4), substituted “1988” for “1984” after “October 1,”.
 
-1978—Subsec. (a). Pub. L. 95–599, §502(a)(6), substituted “1984” for “1979” in two places.
+<b>1978</b>—Subsec. (a). Pub. L. 95–599, §502(a)(6), substituted “1984” for “1979” in two places.
 
 Subsec. (e). Pub. L. 95–599, §502(a)(7), substituted “1984” for “1979”.
 
-1976—Subsec. (a). Pub. L. 94–280, §303(a)(7), substituted “1979” for “1977” in two places.
+<b>1976</b>—Subsec. (a). Pub. L. 94–280, §303(a)(7), substituted “1979” for “1977” in two places.
 
 Subsec. (e). Pub. L. 94–280, §303(a)(8), substituted “1979” for “1977”.
 
-1970—Subsec. (a). Pub. L. 91–605, §303(a)(7), substituted “1977” for “1972” in two places.
+<b>1970</b>—Subsec. (a). Pub. L. 91–605, §303(a)(7), substituted “1977” for “1972” in two places.
 
 Subsec. (e). Pub. L. 91–605, §303(a)(8), substituted “1977” for “1972”.
 
-1961—Subsec. (a). Pub. L. 87–61, §203(a), (b)(2)(A), increased rate of tax from $1.50 to $3.00 a year, and provided for a tax at the rate of 75 cents for each 1,000 pounds during the period beginning on July 1, 1972, and ending on September 30, 1972.
+<b>1961</b>—Subsec. (a). Pub. L. 87–61, §203(a), (b)(2)(A), increased rate of tax from $1.50 to $3.00 a year, and provided for a tax at the rate of 75 cents for each 1,000 pounds during the period beginning on July 1, 1972, and ending on September 30, 1972.
 
 Subsec. (c). Pub. L. 87–61, §203(b)(2)(B), substituted “any taxable period” for “any year”, “after the first month in such period” for “after July 31”, and “the last day in such taxable period” for “the last day of June following”.
 

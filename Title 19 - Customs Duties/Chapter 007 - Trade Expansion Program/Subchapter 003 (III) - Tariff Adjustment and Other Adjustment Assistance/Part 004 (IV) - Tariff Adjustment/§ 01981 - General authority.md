@@ -64,7 +64,7 @@ Section 7 of the Trade Agreements Extension Act of 1951, referred to in subsecs.
 
 #### Amendments
 
-1975—Pub. L. 93–618, §171(b), substituted “United States International Trade Commission” for “United States Tariff Commission” wherever appearing.
+<b>1975</b>—Pub. L. 93–618, §171(b), substituted “United States International Trade Commission” for “United States Tariff Commission” wherever appearing.
 
 Subsec. (c)(1)(B). Pub. L. 93–618, §602(c), substituted “unless extended under section 2253 of this title.” for “unless extended under paragraph (2),”.
 

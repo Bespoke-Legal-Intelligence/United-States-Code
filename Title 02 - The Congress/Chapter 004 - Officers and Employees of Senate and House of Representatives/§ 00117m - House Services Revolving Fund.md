@@ -12,13 +12,13 @@ There is hereby established in the Treasury of the United States a revolving fun
 
 &emsp;(4) The provision of mail services to entities which are not part of the House of Representatives.
 
-&emsp;(5) The payment of fees for the use of the exercise facility described in section 103(a).
+&emsp;(5) The payment of fees for the use of the exercise facility described in section 103(a).<sup>1</sup>
 
 &emsp;(6) The collection of promotional rebates and incentives on credit card purchases, balances, and payments.
 
 #### (b) Use of amounts in Fund
 
-Amounts in the Revolving Funds <sup>1</sup> shall be used for any purpose designated by the Chief Administrative Officer, including purposes relating to energy and water conservation and environmental activities carried out in buildings, facilities, and grounds under the Chief Administrative Officer's jurisdiction, which is approved by the Committee on Appropriations of the House of Representatives.
+Amounts in the Revolving Funds <sup>2</sup> shall be used for any purpose designated by the Chief Administrative Officer, including purposes relating to energy and water conservation and environmental activities carried out in buildings, facilities, and grounds under the Chief Administrative Officer's jurisdiction, which is approved by the Committee on Appropriations of the House of Representatives.
 
 #### (c) Transfer authority
 
@@ -78,5 +78,11 @@ Pub. L. 110–161, div. H, title I, §104(b), Dec. 26, 2007, 121 Stat. 2225, pro
 
 Pub. L. 109–13, div. A, title III, §3401(c), May 11, 2005, 119 Stat. 272, provided that: “The amendments made by this section \[amending this section\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2005 \[Pub. L. 108–447, div. G\].”
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Fund”.</i>
+#### Membership in House of Representatives Exercise Facility for Active Duty Armed Forces Members Assigned to Congressional Liaison Office
+
+Pub. L. 111–248, §1, Sept. 30, 2010, 124 Stat. 2625, provided that: “Any active duty member of the Armed Forces who is assigned to a congressional liaison office of the Armed Forces at the House of Representatives may obtain membership in the exercise facility established for employees of the House of Representatives (as described in section 103(a) of the Legislative Branch Appropriations Act, 2005 \[118 Stat. 3174\]) in the same manner as an employee of the House of Representatives, in accordance with such regulations as the Committee on House Administration may promulgate.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “Fund”.</i>
 

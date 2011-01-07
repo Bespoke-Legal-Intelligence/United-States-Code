@@ -30,7 +30,7 @@ Exports of medicines or medical supplies, instruments, or equipment to Cuba shal
 
 #### (2) Licenses
 
-&emsp;Exports permitted under subsection (c) of this section shall be made pursuant to specificlicenses issued by the United States Government.
+&emsp;Exports permitted under subsection (c) of this section shall be made pursuant to specific licenses issued by the United States Government.
 
 #### (e) Telecommunications services and facilities
 
@@ -54,7 +54,7 @@ Exports of medicines or medical supplies, instruments, or equipment to Cuba shal
 
 #### (5) Prohibition on investment in domestic telecommunications services
 
-&emsp;Nothing in this subsection shall be construed to authorize the investment by any United States person in the domestic telecommunications network within Cuba. For purposes of this paragraph, an “investment” in the domestic telecommunications network within Cuba includes the contribution (including by donation) of funds or anything of value to or for, and the making of loans to or for, such network.
+&emsp;Nothing in this subsection shall be construed to authorize the investment by any United States person in the domestic telecommunications network within Cuba. For purposes of this paragraph, an “investment”in the domestic telecommunications network within Cuba includes the contribution (including by donation) of funds or anything of value to or for, and the making of loans to or for, such network.
 
 #### (6) Reports to Congress
 
@@ -82,7 +82,7 @@ The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96
 
 #### Amendments
 
-1996—Subsec. (e)(5), (6). Pub. L. 104–114, §102(g), added pars. (5) and (6).
+<b>1996</b>—Subsec. (e)(5), (6). Pub. L. 104–114, §102(g), added pars. (5) and (6).
 
 #### Delegation of Functions
 

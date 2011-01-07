@@ -76,7 +76,7 @@
 
 #### (B) Definition
 
-&emsp;&emsp;For purposes of subparagraph (A), a plan fully subsidizes the costs of a benefit if under the plan the failure to waive such benefit by a participant would not result in a decrease in any plan benefits with respect to such participant and would not result in increased contributions from such participant.
+&emsp;&emsp;For purposes of subparagraph (A), a plan fully subsidizes the costs of a benefit ifunder the plan the failure to waive such benefit by a participant would not result in a decrease in any plan benefits with respect to such participant and would not result in increased contributions from such participant.
 
 #### (6) Applicable election period defined
 
@@ -148,7 +148,7 @@ For purposes of this section and section 401(a)(11)—
 
 #### (3) Security interests taken into account
 
-&emsp;For purposes of paragraphs (1) and (2), any security interest held by the plan by reason of a loan outstanding to the participant shall be taken into account in determining the amount of the qualified preretirement survivor annuity.
+&emsp;For purposes of paragraphs (1) and (2), any security interest held by the plan by reason ofa loan outstanding to the participant shall be taken into account in determining the amount of the qualified preretirement survivor annuity.
 
 #### (d) Survivor annuities need not be provided if participant and spouse married less than 1 year
 
@@ -240,7 +240,7 @@ For purposes of this section and section 401(a)(11)—
 
 #### (B) Special rule for disability benefits
 
-&emsp;&emsp;For purposes of subparagraph (A), the first day of the first period for which a benefit is to be received by reason of disability shall be treated as the annuity starting date only if such benefit is not an auxiliary benefit.
+&emsp;&emsp;For purposes of subparagraph (A), the first day of the first period for which a benefit isto be received by reason of disability shall be treated as the annuity starting date only if such benefit is not an auxiliary benefit.
 
 #### (3) Earliest retirement age
 
@@ -292,9 +292,9 @@ For purposes of this section and section 401(a)(11)—
 
 #### Amendments
 
-2008—Subsec. (e)(3)(D)(i). Pub. L. 110–458 substituted “subparagraph (C)” for “clause (ii)”.
+<b>2008</b>—Subsec. (e)(3)(D)(i). Pub. L. 110–458 substituted “subparagraph (C)” for “clause (ii)”.
 
-2006—Subsec. (a)(1)(A)(ii), (iii). Pub. L. 109–280, §1004(a)(1), added cl. (ii) and redesignated former cl. (ii) as (iii).
+<b>2006</b>—Subsec. (a)(1)(A)(ii), (iii). Pub. L. 109–280, §1004(a)(1), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
 Subsec. (a)(3)(A)(i). Pub. L. 109–280, §1004(a)(3), inserted “and of the qualified optional survivor annuity” before comma at end.
 
@@ -304,21 +304,21 @@ Subsec. (e)(3). Pub. L. 109–280, §302(b), reenacted heading without change an
 
 Subsec. (g). Pub. L. 109–280, §1004(a)(2), added subsec. (g).
 
-2002—Subsec. (e)(1). Pub. L. 107–147, §411(r)(1)(A), substituted “exceed the amount that can be distributed without the participant's consent under section 411(a)(11)” for “exceed the dollar limit under section 411(a)(11)(A)”.
+<b>2002</b>—Subsec. (e)(1). Pub. L. 107–147, §411(r)(1)(A), substituted “exceed the amount that can be distributed without the participant's consent under section 411(a)(11)” for “exceed the dollar limit under section 411(a)(11)(A)”.
 
 Subsec. (e)(2)(A). Pub. L. 107–147, §411(r)(1)(B), substituted “exceeds the amount that can be distributed without the participant's consent under section 411(a)(11)” for “exceeds the dollar limit under section 411(a)(11)(A)”.
 
-1997—Subsec. (e)(1), (2). Pub. L. 105–34 substituted “dollar limit” for “$3,500” in headings of pars. (1) and (2) and “the dollar limit under section 411(a)(11)(A)” for “$3,500” in text of pars. (1) and (2)(A).
+<b>1997</b>—Subsec. (e)(1), (2). Pub. L. 105–34 substituted “dollar limit” for “$3,500” in headings of pars. (1) and (2) and “the dollar limit under section 411(a)(11)(A)” for “$3,500” in text of pars. (1) and (2)(A).
 
-1996—Subsec. (a)(7). Pub. L. 104–188 added par. (7).
+<b>1996</b>—Subsec. (a)(7). Pub. L. 104–188 added par. (7).
 
-1994—Subsec. (e)(3). Pub. L. 103–465 amended par. (3) generally, substituting present provisions for provisions directing that present value be calculated by using a rate no greater than the applicable interest rate or 120 percent of such rate, depending upon amount of vested accrued benefit, and defining “applicable interest rate”.
+<b>1994</b>—Subsec. (e)(3). Pub. L. 103–465 amended par. (3) generally, substituting present provisions for provisions directing that present value be calculated by using a rate no greater than the applicable interest rate or 120 percent of such rate, depending upon amount of vested accrued benefit, and defining “applicable interest rate”.
 
-1989—Subsec. (a)(3)(B)(ii). Pub. L. 101–239 added sentence at end and struck out former subcl. (V) which read as follows: “A reasonable period after separation from service in case of a participant who separates before attaining age 35.”
+<b>1989</b>—Subsec. (a)(3)(B)(ii). Pub. L. 101–239 added sentence at end and struck out former subcl. (V) which read as follows: “A reasonable period after separation from service in case of a participant who separates before attaining age 35.”
 
-1988—Subsec. (e)(3)(A). Pub. L. 100–647 substituted “clause (ii)” for “subclause (II)” in last sentence.
+<b>1988</b>—Subsec. (e)(3)(A). Pub. L. 100–647 substituted “clause (ii)” for “subclause (II)” in last sentence.
 
-1986—Subsec. (a)(1). Pub. L. 99–514, §1898(b)(15)(A), substituted “section 401(a)(11)” for “section 401(a)(ii)”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1898(b)(15)(A), substituted “section 401(a)(11)” for “section 401(a)(ii)”.
 
 Subsec. (a)(1)(B). Pub. L. 99–514, §1898(b)(4)(A)(i), substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
 
@@ -404,7 +404,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1139(b) of Pub. L. 99–514 applicable to distributions in plan years beginning after Dec. 31, 1984, except that such amendments shall not apply to any distributions in plan years beginning after Dec. 31, 1984, and before Jan. 1, 1987, if such distributions were made in accordance with the requirements of the regulations issued under the Retirement Equity Act of 1984, Pub. L. 98–397, with additional provisions relating to reductions in accrued benefits, see section 1139(d) of Pub. L. 99–514, set out as a note under section 411 of this title.
+Amendment by section 1139(b) of Pub. L. 99–514 applicable to distributions in plan years beginning after Dec. 31, 1984, except that such amendments shall not apply to any distributions in plan years beginning after Dec. 31, 1984, and before Jan. 1, 1987, if such distributions were made in accordance with the requirements of the regulations issued under the Retirement EquityAct of 1984, Pub. L. 98–397, with additional provisions relating to reductions in accrued benefits, see section 1139(d) of Pub. L. 99–514, set out as a note under section 411 of this title.
 
 Section 1898(b)(4)(C) of Pub. L. 99–514 provided that:
 
@@ -416,7 +416,7 @@ Section 1898(b)(4)(C) of Pub. L. 99–514 provided that:
 
 Section 1898(b)(6)(C) of Pub. L. 99–514 provided that: “The amendments made by this paragraph \[amending this section and section 1055 of Title 29, Labor\] shall apply to plan years beginning after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
-Section 1898(b)(8)(C) of Pub. L. 99–514, as added by Pub. L. 101–239, title VII, §7862(d)(2), Dec. 19, 1989, 103 Stat. 2434, provided that: “The amendments made by this paragraph \[amending this section and section 1055of Title 29, Labor\] shall apply to distributions after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Section 1898(b)(8)(C) of Pub. L. 99–514, as added by Pub. L. 101–239, title VII, §7862(d)(2), Dec. 19, 1989, 103 Stat. 2434, provided that: “The amendments made by this paragraph \[amending this section and section 1055 of Title 29, Labor\] shall apply to distributions after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 Amendment by section 1898(b)(1)(A), (5)(A), (9)(A), (10)(A), (11)(A), (12)(A), (15)(A), (B) of Pub. L. 99–514 effective as if included in the provision of the Retirement Equity Act of 1984, Pub. L. 98–397, to which such amendment relates, except as otherwise provided, see section 1898(j) of Pub. L. 99–514, set out as a note under section 401 of this title.
 

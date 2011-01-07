@@ -16,9 +16,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $100”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $100”.
 
-1970—Pub. L. 91–375 substituted “Postal Service officer or employee” for “postmaster or Postal Service employee”.
+<b>1970</b>—Pub. L. 91–375 substituted “Postal Service officer or employee” for “postmaster or Postal Service employee”.
 
 #### Effective Date of 1970 Amendment
 

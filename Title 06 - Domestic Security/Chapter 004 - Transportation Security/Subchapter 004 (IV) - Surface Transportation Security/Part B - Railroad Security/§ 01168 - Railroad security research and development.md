@@ -66,7 +66,7 @@ The Secretary—
 
 #### (1) Consultation
 
-&emsp;In carrying out research and development projects under this section, the Secretary shall consult with the Chief Privacy Officer of the Department and the Officer for Civil Rights and Civil Liberties of the Departmentas appropriate and in accordance with section 142 of this title.
+&emsp;In carrying out research and development projects under this section, the Secretary shall consult with the Chief Privacy Officer of the Department and the Officer for Civil Rights and Civil Liberties of the Department as appropriate and in accordance with section 142 of this title.
 
 #### (2) Privacy impact assessments
 

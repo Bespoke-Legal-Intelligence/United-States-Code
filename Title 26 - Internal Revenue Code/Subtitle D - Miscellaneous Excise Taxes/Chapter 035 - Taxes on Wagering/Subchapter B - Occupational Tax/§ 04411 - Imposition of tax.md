@@ -16,9 +16,9 @@ Subsection (a) shall be applied by substituting “$50” for “$500” in the 
 
 #### Amendments
 
-1982—Pub. L. 97–362 designated existing provisions as subsec. (a), in subsec. (a), as so designated, substituted “liable for the tax imposed” for “liable for tax”, and added subsec. (b).
+<b>1982</b>—Pub. L. 97–362 designated existing provisions as subsec. (a), in subsec. (a), as so designated, substituted “liable for the tax imposed” for “liable for tax”, and added subsec. (b).
 
-1974—Pub. L. 93–499 substituted “$500” for “$50”.
+<b>1974</b>—Pub. L. 93–499 substituted “$500” for “$50”.
 
 #### Effective Date of 1982 Amendment
 

@@ -32,7 +32,7 @@ For purposes of this chapter, the term “wages” means all remuneration (other
 
 &emsp;(C) for services for an employer (other than the United States or any agency thereof) performed by a citizen of the United States within Puerto Rico, if it is reasonable to believe that during the entire calendar year the employee will be a bona fide resident of Puerto Rico; or
 
-&emsp;(D) for services for the United States (or any agency thereof) performed by a citizen of the United States within a possession of the United States to the extent the United States (or such agency) withholds taxes on such remuneration pursuant to an agreement with such possession; or
+&emsp;(D) for services for the United States (or any agency thereof) performed by a citizen of the United States within a possession of the United States to the extent the United States\(or such agency) withholds taxes on such remuneration pursuant to an agreement with such possession; or
 
 &emsp;(9) for services performed by a duly ordained, commissioned, or licensed minister of a church in the exercise of his ministry or by a member of a religious order in the exercise of duties required by such order; or
 
@@ -92,7 +92,7 @@ For purposes of this chapter, the term “employee” includes an officer, emplo
 
 For purposes of this chapter, the term “employer” means the person for whom an individual performs or performed any service, of whatever nature, as the employee of such person, except that—
 
-&emsp;(1) if the person for whom the individual performs or performed the services does not have control of the payment of the wages for such services, the term “employer” (except for purposes of subsection (a)) means the person having control of the payment of such wages, and
+&emsp;(1) if the person for whom the individual performs or performed the services does not have control of the payment of the wages for suchservices, the term “employer” (except for purposes of subsection (a)) means the person having control of the payment of such wages, and
 
 &emsp;(2) in the case of a person paying wages on behalf of a nonresident alien individual, foreign partnership, or foreign corporation, not engaged in trade or business within the United States, the term “employer” (except for purposes of subsection (a)) means such person.
 
@@ -102,7 +102,7 @@ For purposes of this chapter, the term “number of withholding exemptions claim
 
 #### (f) Tips
 
-For purposes of subsection (a), the term “wages” includes tips received by an employeein the course of his employment. Such wages shall be deemed to be paid at the time a written statement including such tips is furnished to the employer pursuant to section 6053(a) or (if no statement including such tips is so furnished) at the time received.
+For purposes of subsection (a), the term “wages” includes tips received by an employee in the course of his employment. Such wages shall be deemed to be paid at the time a written statement including such tips is furnished to the employer pursuant to section 6053(a) or (if no statement including such tips is so furnished) at the time received.
 
 #### (g) Crew leader rules to apply
 
@@ -130,27 +130,27 @@ Sections 5(c) and 6(1) of the Peace Corps Act, referred to in subsec. (a)(13), a
 
 #### Amendments
 
-2008—Subsec. (a)(23). Pub. L. 110–245, §115(c), added par. (23).
+<b>2008</b>—Subsec. (a)(23). Pub. L. 110–245, §115(c), added par. (23).
 
 Subsec. (h). Pub. L. 110–245, §105(a)(1), added subsec. (h).
 
-2005—Subsecs. (g), (h). Pub. L. 109–135 redesignated subsec. (h) as (g).
+<b>2005</b>—Subsecs. (g), (h). Pub. L. 109–135 redesignated subsec. (h) as (g).
 
-2004—Subsec. (a). Pub. L. 108–357, §885(b)(2), inserted concluding provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–357, §885(b)(2), inserted concluding provisions.
 
 Subsec. (a)(18). Pub. L. 108–375 substituted “134(b)(4), or 134(b)(5)” for “or 134(b)(4)”.
 
 Subsec. (a)(19). Pub. L. 108–357, §320(b)(4), inserted “108(f)(4),” after “74(c),”.
 
-2003—Subsec. (a)(18). Pub. L. 108–121 substituted “, 129, or 134(b)(4)” for “or 129”.
+<b>2003</b>—Subsec. (a)(18). Pub. L. 108–121 substituted “, 129, or 134(b)(4)” for “or 129”.
 
 Subsec. (a)(22). Pub. L. 108–173 added par. (22).
 
-2001—Subsec. (a)(12)(E). Pub. L. 107–16 added subpar. (E).
+<b>2001</b>—Subsec. (a)(12)(E). Pub. L. 107–16 added subpar. (E).
 
-1998—Subsec. (a)(19), (21). Pub. L. 105–206 inserted “for” after par. designation.
+<b>1998</b>—Subsec. (a)(19), (21). Pub. L. 105–206 inserted “for” after par. designation.
 
-1996—Subsec. (a)(1). Pub. L. 104–188, §1704(t)(4)(C), substituted “combat zone compensation” for “combat pay”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–188, §1704(t)(4)(C), substituted “combat zone compensation” for “combat pay”.
 
 Pub. L. 104–117 inserted before semicolon “to the extent remuneration for such service is excludable from gross income under such section”.
 
@@ -158,15 +158,15 @@ Subsec. (a)(12)(D). Pub. L. 104–188, §1421(b)(8)(D), added subpar. (D).
 
 Subsec. (a)(21). Pub. L. 104–191 added par. (21).
 
-1990—Subsec. (a)(20). Pub. L. 101–508 added par. (20).
+<b>1990</b>—Subsec. (a)(20). Pub. L. 101–508 added par. (20).
 
-1989—Subsec. (a)(2). Pub. L. 101–239, §7631(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “for agricultural labor (as defined in section 3121(g)); or”.
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–239, §7631(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “for agricultural labor (as defined in section 3121(g)); or”.
 
 Subsec. (g). Pub. L. 101–140 amended this section to read as if amendments by Pub. L. 100–647, §1011B(a)(22)(D), had not been enacted, see 1988 Amendment note below.
 
 Subsec. (h). Pub. L. 101–239, §7631(b), added subsec. (h).
 
-1988—Subsec. (a)(12)(C). Pub. L. 100–647, §1011(f)(9), substituted “section 402(h)(1) and (2)” for “section 219” and “an exclusion” for “a deduction”.
+<b>1988</b>—Subsec. (a)(12)(C). Pub. L. 100–647, §1011(f)(9), substituted “section 402(h)(1) and (2)” for “section 219” and “an exclusion” for “a deduction”.
 
 Subsec. (a)(15). Pub. L. 100–647, §1001(g)(4)(B)(iii), inserted “(determined without regard to section 274(n))” after “section 217”.
 
@@ -174,19 +174,19 @@ Subsec. (a)(19), (20). Pub. L. 100–647, §1011B(a)(33), redesignated par. (20)
 
 Subsec. (g). Pub. L. 100–647, §1011B(a)(22)(D), added subsec. (g) relating to benefits provided under certain employee benefit plans.
 
-1986—Subsec. (a)(8)(D). Pub. L. 99–514, §1272(c), added subpar. (D).
+<b>1986</b>—Subsec. (a)(8)(D). Pub. L. 99–514, §1272(c), added subpar. (D).
 
 Subsec. (a)(20). Pub. L. 99–514, §122(e)(4), inserted reference to section 74(c).
 
-1984—Subsec. (a). Pub. L. 98–369, §531(d)(4)(A), inserted “(including benefits)” in introductory provisions.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §531(d)(4)(A), inserted “(including benefits)” in introductory provisions.
 
 Subsec. (a)(12). Pub. L. 98–369, §491(d)(38), struck out subpar. (C) which provided: “under or to a bond purchase plan which, at the time of such payment, is a qualified bond purchase plan described in section 405(a);” and redesignated subpar. (D) as (C).
 
 Subsec. (a)(20). Pub. L. 98–369, §531(d)(4)(B), added par. (20).
 
-1983—Subsec. (a)(12)(D). Pub. L. 97–448 substituted “section 219” for “section 219(a)”.
+<b>1983</b>—Subsec. (a)(12)(D). Pub. L. 97–448 substituted “section 219” for “section 219(a)”.
 
-1981—Subsec. (a)(12)(D). Pub. L. 97–34, §311(h)(6), substituted “section 219(a)” for “section 219(a) or 220(a)”.
+<b>1981</b>—Subsec. (a)(12)(D). Pub. L. 97–34, §311(h)(6), substituted “section 219(a)” for “section 219(a) or 220(a)”.
 
 Subsec. (a)(18). Pub. L. 97–34, §124(e)(2)(A), substituted “section 127 or 129” for “section 127”.
 
@@ -194,13 +194,13 @@ Pub. L. 97–34, §112(b)(5), redesignated par. (19) as (18). Former par. (18), 
 
 Subsec. (a)(19), (20). Pub. L. 97–34, §112(b)(5), redesignated par. (20) as (19). Former par. (19) redesignated (18).
 
-1980—Subsec. (a)(18) to (20). Pub. L. 96–222 redesignated par. (18), added by Pub. L. 95–600, as (19), in par. (19) as so redesignated, substituted “section 127; or” for “section 124.”, and added par. (20).
+<b>1980</b>—Subsec. (a)(18) to (20). Pub. L. 96–222 redesignated par. (18), added by Pub. L. 95–600, as (19), in par. (19) as so redesignated, substituted “section 127; or” for “section 124.”, and added par. (20).
 
-1978—Subsec. (a)(18). Pub. L. 95–615 added par. (18) relating to payments or benefits excludable from income under section 124.
+<b>1978</b>—Subsec. (a)(18). Pub. L. 95–615 added par. (18) relating to payments or benefits excludable from income under section 124.
 
 Pub. L. 95–600 added par. (18) relating to remuneration for which a corresponding deduction is allowable under section 913.
 
-1976—Subsec. (a)(6). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a)(6). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (a)(12)(D). Pub. L. 94–455, §1501(b)(7), inserted “or 220(a)” after “section 219(a)”.
 
@@ -208,27 +208,27 @@ Subsec. (a)(17). Pub. L. 94–455, §1207(e)(1)(C), added par. (17).
 
 Subsec. (c). Pub. L. 94–455, §1903(c), struck out “Territory” after “a State”.
 
-1974—Subsec. (a)(12)(D). Pub. L. 93–406 added subpar. (D).
+<b>1974</b>—Subsec. (a)(12)(D). Pub. L. 93–406 added subpar. (D).
 
-1972—Subsec. (a)(1). Pub. L. 92–279 struck out “as a member of the Armed Forces of the United States” after “active service”, substituted “employee” for “member”, and parenthetical text “(relating to certain combat pay of members of the Armed Forces of the United States)”.
+<b>1972</b>—Subsec. (a)(1). Pub. L. 92–279 struck out “as a member of the Armed Forces of the United States” after “active service”, substituted “employee” for “member”, and parenthetical text “(relating to certain combat pay of members of the Armed Forces of the United States)”.
 
-1966—Subsec. (a)(6), (7). Pub. L. 89–809, §103(k), struck out par. (6) dealing with services performed by nonresident alien individuals other than residents of contiguous countries who enter and leave the United States at frequent intervals, residents of Puerto Rico if such services are performed as an employee of the United States or any agency thereof, or individuals temporarily present in the United States as nonimmigrants under certain conditions, redesignated par. (7) as (6), and in par (6) as so redesignated, struck out “who is a resident of a contiguous country and who enters and leaves the United States at frequent intervals” after “nonresident alien individual”.
+<b>1966</b>—Subsec. (a)(6), (7). Pub. L. 89–809, §103(k), struck out par. (6) dealing with services performed by nonresident alien individuals other than residents of contiguous countries who enter and leave the United States at frequent intervals, residents of Puerto Rico if such services are performed as an employee of the United States or any agency thereof, or individuals temporarily present in the United States as nonimmigrants under certain conditions, redesignated par. (7) as (6), and in par (6) as so redesignated, struck out “who is a resident of a contiguous country and who enters and leaves the United States at frequent intervals” after “nonresident alien individual”.
 
-1965—Subsec. (a)(16). Pub. L. 89–97, §313(d)(2), added par. (16).
+<b>1965</b>—Subsec. (a)(16). Pub. L. 89–97, §313(d)(2), added par. (16).
 
 Subsec. (f). Pub. L. 89–97, §313(d)(1), added subsec. (f).
 
-1964—Subsec. (a)(14). Pub. L. 88–272, §204(b), added par. (14).
+<b>1964</b>—Subsec. (a)(14). Pub. L. 88–272, §204(b), added par. (14).
 
 Subsec. (a)(15). Pub. L. 88–272, §213(c), added par. (15).
 
-1962—Subsec. (a)(12)(B), (C). Pub. L. 87–792 substituted “is a plan described in section 403(a)” for “meets the requirements of section 401(a)(3), (4), (5), and (6)”, in subpar. (B), and added subpar. (C).
+<b>1962</b>—Subsec. (a)(12)(B), (C). Pub. L. 87–792 substituted “is a plan described in section 403(a)” for “meets the requirements of section 401(a)(3), (4), (5), and (6)”, in subpar. (B), and added subpar. (C).
 
-1961—Subsec. (a)(6)(C). Pub. L. 87–256 added subpar. (C).
+<b>1961</b>—Subsec. (a)(6)(C). Pub. L. 87–256 added subpar. (C).
 
 Subsec. (a)(13). Pub. L. 87–293 added par. (13).
 
-1955—Subsec. (a). Act Aug. 9, 1955, excluded from definition of wages, remuneration paid for services performed in a possession of the United States by a United States citizen if the employer is required by the law of the possession to withhold income tax on the remuneration.
+<b>1955</b>—Subsec. (a). Act Aug. 9, 1955, excluded from definition of wages, remuneration paid for services performed in a possession of the United States by a United States citizen if the employer is required by the law of the possession to withhold income tax on the remuneration.
 
 #### Effective Date of 2008 Amendment
 
@@ -258,7 +258,7 @@ Amendment by Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, s
 
 Amendment by Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 301(j) of Pub. L. 104–191, set out as a note under section 62 of this title.
 
-Amendment by section 1421(b)(8)(D) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
+Amendment by section 1421(b)(8)(D) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31,1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
 
 Amendment by Pub. L. 104–117 applicable to remuneration paid after Mar. 20, 1996, see section 1(e) of Pub. L. 104–117, set out in a Treatment of Certain Individuals Performing Services in Certain Hazardous Duty Areas; Effective Date note under section 112 of this title.
 
@@ -354,7 +354,7 @@ Pub. L. 89–368, §1, Mar. 15, 1966, 80 Stat. 38, provided that: “This Act \[
 
 #### Repeals; Amendments and Application of Amendments Unaffected
 
-Section 201(c) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of the repealed provisions,see section 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22, Foreign Relations and Intercourse.
+Section 201(c) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22, Foreign Relations and Intercourse.
 
 #### No Inference To Be Drawn From Amendment by Pub. L. 108–121
 

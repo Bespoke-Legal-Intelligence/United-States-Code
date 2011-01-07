@@ -36,7 +36,7 @@ Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Y
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–277, §1335(b)(1), (2), substituted “Department of State” for “United States Information Agency” and inserted “for carrying out its overseas public diplomacy functions” after “grants”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §1335(b)(1), (2), substituted “Department of State” for “United States Information Agency” and inserted “for carrying out its overseas public diplomacy functions” after “grants”.
 
 Subsec. (b). Pub. L. 105–277, §1335(b)(1), (3)(A), in introductory provisions, substituted “Department of State” for “United States Information Agency” and “an overseas public diplomacy grant” for “a grant”.
 
@@ -53,4 +53,6 @@ Subsec. (d). Pub. L. 105–277, §1335(b)(6), struck out heading and text of sub
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Department”.</i>
 

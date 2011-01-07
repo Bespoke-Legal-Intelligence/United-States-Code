@@ -12,9 +12,9 @@ Remedies.—In a suit described in subsection (a) for a violation described in t
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–273 substituted “122” for “121”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273 substituted “122” for “121”.
 
-1999—Subsec. (a). Pub. L. 106–44 substituted “121” for “119”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–44 substituted “121” for “119”.
 
 #### Effective Date
 

@@ -12,11 +12,11 @@ In addition to the funds authorized by subsection (a) of this section, there are
 
 #### Amendments
 
-2000—Pub. L. 106–554 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2000</b>—Pub. L. 106–554 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1978—Pub. L. 95–625 substituted “$24,224,000 for development.” for “$17,774,000 (June 1970 prices) for development, plus or minus such amounts, if any, as may be justified by reason of ordinary fluctuations in construction costs as indicated by engineering cost indices applicable to the types of construction involved herein.”
+<b>1978</b>—Pub. L. 95–625 substituted “$24,224,000 for development.” for “$17,774,000 (June 1970 prices) for development, plus or minus such amounts, if any, as may be justified by reason of ordinary fluctuations in construction costs as indicated by engineering cost indices applicable to the types of construction involved herein.”
 
-1976—Pub. L. 94–578 substituted “$22,162,000” for “$3,462,000”.
+<b>1976</b>—Pub. L. 94–578 substituted “$22,162,000” for “$3,462,000”.
 
-1972—Pub. L. 92–275 increased appropriations authorization for lands and land interests from $3,120,000 to $3,462,000 and for development from $14,779,000 (1970 prices) to $17,774,000 (June 1970 prices).
+<b>1972</b>—Pub. L. 92–275 increased appropriations authorization for lands and land interests from $3,120,000 to $3,462,000 and for development from $14,779,000 (1970 prices) to $17,774,000 (June 1970 prices).
 

@@ -330,19 +330,19 @@ The Social Security Act, referred to in subsec. (b)(1)(B), (2)(B)(i), is act Aug
 
 #### Amendments
 
-2006—Subsec. (e). Pub. L. 109–280, §844(c), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to treatment of coverage provided as part of a life insurance contract.
+<b>2006</b>—Subsec. (e). Pub. L. 109–280, §844(c), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to treatment of coverage provided as part of a life insurance contract.
 
 Subsec. (e)(1). Pub. L. 109–280, §844(f), substituted “title” for “section”.
 
-2004—Subsec. (f)(2)(C)(iii). Pub. L. 108–311 substituted “subparagraphs (A) through (G) of section 152(d)(2)” for “paragraphs (1) through (8) of section 152(a)”.
+<b>2004</b>—Subsec. (f)(2)(C)(iii). Pub. L. 108–311 substituted “subparagraphs (A) through (G) of section 152(d)(2)” for “paragraphs (1) through (8) of section 152(a)”.
 
-1998—Subsec. (e)(2). Pub. L. 105–206 inserted “section” after “Application of” in heading.
+<b>1998</b>—Subsec. (e)(2). Pub. L. 105–206 inserted “section” after “Application of” in heading.
 
-1997—Subsec. (c)(2)(B). Pub. L. 105–34, §1602(b), inserted “described in subparagraph (A)(i)” after “chronically ill individual” in concluding provisions.
+<b>1997</b>—Subsec. (c)(2)(B). Pub. L. 105–34, §1602(b), inserted “described in subparagraph (A)(i)” after “chronically ill individual” in concluding provisions.
 
 Subsec. (g)(4)(B)(ii), (iii)(IV). Pub. L. 105–34, §1602(e), substituted “appropriate State regulatory agency” for “Secretary”.
 
-1996—Subsec. (g). Pub. L. 104–191, §325, added subsec. (g).
+<b>1996</b>—Subsec. (g). Pub. L. 104–191, §325, added subsec. (g).
 
 #### Effective Date of 2006 Amendment
 
@@ -372,7 +372,7 @@ General effective date.—
 
 &emsp;“(A)
 
-In general.—Except as provided in subparagraph (B), the amendments made by this section \[enacting this section and amending sections 106, 125, 807, and 4980B of this title, section 1167 of Title 29, Labor, and section 300bb–8 of Title 42, The Public Health and Welfare\] shall apply to contracts issued after December 31, 1996.
+In general.—Except as provided in subparagraph (B), the amendments made by this section \[enacting this section and amending sections 106, 125, 807, and 4980B of this title, section 1167 of Title 29, Labor, and section 300bb–8 of Title 42, The PublicHealth and Welfare\] shall apply to contracts issued after December 31, 1996.
 
 &emsp;“(B)
 

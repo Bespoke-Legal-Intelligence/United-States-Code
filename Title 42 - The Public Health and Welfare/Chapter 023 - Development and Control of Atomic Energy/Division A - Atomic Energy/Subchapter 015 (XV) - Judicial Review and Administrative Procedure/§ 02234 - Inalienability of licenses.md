@@ -6,5 +6,5 @@ No license granted hereunder and no right to utilize or produce special nuclear 
 
 #### Amendments
 
-1964—Pub. L. 88–489 inserted “or special nuclear material,” after “lien upon any facility” and substituted “interest in such facility” for “interest in such property”.
+<b>1964</b>—Pub. L. 88–489 inserted “or special nuclear material,” after “lien upon any facility” and substituted “interest in such facility” for “interest in such property”.
 

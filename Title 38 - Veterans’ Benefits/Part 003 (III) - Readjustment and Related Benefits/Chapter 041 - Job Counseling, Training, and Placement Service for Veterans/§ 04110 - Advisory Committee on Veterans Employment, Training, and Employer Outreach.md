@@ -68,7 +68,7 @@
 
 &emsp;(A) an assessment of the employment and training needs of veterans and their integration into the workforce;
 
-&emsp;(B) an assessment of the outreach activities carried out by the Secretary of Labor to employers with respect to the training and skills of veterans and the advantages afforded employers by hiring veterans;
+&emsp;(B) an assessment of the outreach activities carried out by the Secretary of Labor to employers with respect to the training and skillsof veterans and the advantages afforded employers by hiring veterans;
 
 &emsp;(C) an evaluation of the extent to which the programs and activities of the Department of Labor are meeting such needs;
 
@@ -92,9 +92,9 @@ Prior section 4110, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1246; Pub. L. 88�
 
 #### Amendments
 
-2008—Subsec. (c)(1). Pub. L. 110–387 substituted “16” for “15” in introductory provisions.
+<b>2008</b>—Subsec. (c)(1). Pub. L. 110–387 substituted “16” for “15” in introductory provisions.
 
-2006—Pub. L. 109–233, §202(a)(2), amended section catchline generally, substituting “Advisory Committee on Veterans Employment, Training, and Employer Outreach” for “Advisory Committee on Veterans Employment and Training”.
+<b>2006</b>—Pub. L. 109–233, §202(a)(2), amended section catchline generally, substituting “Advisory Committee on Veterans Employment, Training, and Employer Outreach” for “Advisory Committee on Veterans Employment and Training”.
 
 Subsec. (a)(1). Pub. L. 109–233, §202(a)(1), substituted “Advisory Committee on Veterans Employment, Training, and Employer Outreach” for “Advisory Committee on Veterans Employment and Training”.
 
@@ -116,23 +116,23 @@ Subsec. (f)(1)(A). Pub. L. 109–233, §202(d)(2), inserted “and their integra
 
 Subsec. (f)(1)(B) to (F). Pub. L. 109–233, §202(d)(3)–(6), added subpars. (B), (D), and (E), and redesignated former subpars. (B) and (C) as (C) and (F), respectively.
 
-1994—Subsec. (c)(1). Pub. L. 103–446, §1201(g)(3), substituted “shall appoint” for “shall, within 90 days after the date of the enactment of this section, appoint”.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–446, §1201(g)(3), substituted “shall appoint” for “shall, within 90 days after the date of the enactment of this section, appoint”.
 
 Subsec. (d)(9). Pub. L. 103–446, §1201(a)(5), substituted “Administrator of the Small Business Administration” for “Secretary of the Small Business Administration”.
 
 Subsec. (e)(3)(B). Pub. L. 103–446, §1201(i)(7), struck out “, United States Code,” after “title 5” and substituted “the advisory committee” for “the Board”.
 
-1992—Subsec. (c)(1)(A). Pub. L. 102–568 struck out “are chartered by Federal law and” after “that”.
+<b>1992</b>—Subsec. (c)(1)(A). Pub. L. 102–568 struck out “are chartered by Federal law and” after “that”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 2010 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 2010 of this title as this section.
 
 Pub. L. 102–16 amended section generally, substituting present catchline and text consisting of subsecs. (a) to (h) for former catchline which read “Secretary of Labor's Committee on Veterans’ Employment” and former text consisting of subsecs. (a) to (c).
 
 Subsec. (d)(9). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1989—Subsec. (b)(1)(A). Pub. L. 101–237 substituted “Secretary of Veterans Affairs” for “Administrator”.
+<b>1989</b>—Subsec. (b)(1)(A). Pub. L. 101–237 substituted “Secretary of Veterans Affairs” for “Administrator”.
 
-1988—Subsec. (b). Pub. L. 100–323, §15(b)(1), inserted “and Training” after “for Veterans’ Employment”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–323, §15(b)(1), inserted “and Training” after “for Veterans’ Employment”.
 
 Pub. L. 100–323, §15(a)(3), substituted “Notwithstanding section 2002A(b) of this title, the” for “The”.
 
@@ -150,7 +150,7 @@ Amendment by section 10 of Pub. L. 100–323 effective on 60th day after May 20,
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of reporting provisions in subsec. (g) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 125 of House Document No. 103–7.
+For termination, effective May 15, 2000, of reporting provisions in subsec. (g) of this section, see section 3003of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 125 of House Document No. 103–7.
 
 #### Termination of Advisory Committees
 

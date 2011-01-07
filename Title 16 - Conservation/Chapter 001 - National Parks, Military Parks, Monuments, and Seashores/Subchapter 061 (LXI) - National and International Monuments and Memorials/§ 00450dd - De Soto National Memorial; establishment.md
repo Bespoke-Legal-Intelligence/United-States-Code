@@ -6,7 +6,7 @@ For the purpose of establishing an appropriate memorial to Hernando De Soto, the
 
 #### Amendments
 
-1960—Pub. L. 86–728 increased limitation on acquisition of land from twenty-five to thirty acres.
+<b>1960</b>—Pub. L. 86–728 increased limitation on acquisition of land from twenty-five to thirty acres.
 
 #### Authorization of Appropriations
 

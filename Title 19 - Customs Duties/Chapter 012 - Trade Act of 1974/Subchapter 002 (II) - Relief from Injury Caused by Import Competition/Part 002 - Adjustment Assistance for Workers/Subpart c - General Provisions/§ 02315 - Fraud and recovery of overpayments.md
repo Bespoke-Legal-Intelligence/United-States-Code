@@ -36,11 +36,11 @@ Any amount recovered under this section shall be returned to the Treasury of the
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–5, §§1855(1), 1893, in introductory provisions, temporarily substituted “shall waive” for “may waive” and struck out “, in accordance with guidelines prescribed by the Secretary,” before “that—”. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–5, §§1855(1), 1893, in introductory provisions, temporarily substituted “shall waive” for “may waive” and struck out “, in accordance with guidelines prescribed by the Secretary,” before “that—”. See Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (a)(1)(B). Pub. L. 111–5, §§1855(2), 1893, temporarily substituted “would cause a financial hardship for the individual (or the individual's household, if applicable) when taking into consideration the income and resources reasonably available to the individual (or household) and other ordinary living expenses of the individual (or household)” for “would be contrary to equity and good conscience”. See Effective and Termination Dates of 2009 Amendment note below.
 
-1981—Subsec. (a). Pub. L. 97–35 designated existing provisions as par. (1), revised provisions, made changes in nomenclature and, among other changes, inserted provisions respecting waiver, and added par. (2).
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 designated existing provisions as par. (1), revised provisions, made changes in nomenclature and, among other changes, inserted provisions respecting waiver, and added par. (2).
 
 Subsec. (b). Pub. L. 97–35 substituted provisions relating to ineligibility for other payments for provisions relating to deposit, return, and credit of repayments.
 
@@ -48,9 +48,9 @@ Subsecs. (c), (d). Pub. L. 97–35 added subsecs. (c) and (d).
 
 #### Effective and Termination Dates of 2009 Amendment
 
-Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 
@@ -58,5 +58,5 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, with transition provisions
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2010, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

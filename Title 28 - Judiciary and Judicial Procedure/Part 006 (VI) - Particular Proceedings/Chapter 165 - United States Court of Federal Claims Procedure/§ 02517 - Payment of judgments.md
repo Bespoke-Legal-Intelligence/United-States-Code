@@ -1,10 +1,10 @@
 ### §2517. Payment of judgments
 
-(a) Except as provided by the Contract Disputes Act of 1978, every final judgment rendered by the United States Court of Federal Claims against the United States shall be paid out of any general appropriation therefor, on presentation to the Secretary of the Treasury of a certification of the judgment by the clerk and chief judge of the court.
+(a) Except as provided by chapter 71 of title 41, every final judgment rendered by the United States Court of Federal Claims against the United States shall be paid out of any general appropriation therefor, on presentation to the Secretary of the Treasury of a certification of the judgment by the clerk and chief judge of the court.
 
 (b) Payment of any such judgment and of interest thereon shall be a full discharge to the United States of all claims and demands arising out of the matters involved in the case or controversy, unless the judgment is designated a partial judgment, in which event only the matters described therein shall be discharged.
 
-(June 25, 1948, ch. 646, 62 Stat. 979; Pub. L. 95–563, §14(e), (f), Nov. 1, 1978, 92 Stat. 2390; Pub. L. 97–164, title I, §139(k), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–316, title II, §202(<i>l</i>), Oct. 19, 1996, 110 Stat. 3843.)
+(June 25, 1948, ch. 646, 62 Stat. 979; Pub. L. 95–563, §14(e), (f), Nov. 1, 1978, 92 Stat. 2390; Pub. L. 97–164, title I, §139(k), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–316, title II, §202(<i>l</i>), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 111–350, §5(g)(11), Jan. 4, 2011, 124 Stat. 3848.)
 
 #### Historical and Revision Notes
 
@@ -20,21 +20,19 @@ Provisions of section 228 of title 31, U.S.C., 1940 ed., for payment of district
 
 Changes were made in phraseology.
 
-#### References in Text
-
-The Contract Disputes Act of 1978, referred to in subsec. (a), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 41 and Tables.
-
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–316 substituted “Secretary of the Treasury” for “General Accounting Office”.
+<b>2011</b>—Subsec. (a). Pub. L. 111–350 substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978”.
 
-1992—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–316 substituted “Secretary of the Treasury” for “General Accounting Office”.
 
-1982—Subsec. (a). Pub. L. 97–164, §139(k)(1), substituted “United States Claims Court” for “Court of Claims”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+
+<b>1982</b>—Subsec. (a). Pub. L. 97–164, §139(k)(1), substituted “United States Claims Court” for “Court of Claims”.
 
 Subsec. (b). Pub. L. 97–164, §139(k)(2), struck out the comma after “shall be discharged” thereby correcting a technical error in the directory language in Pub. L. 95–563 which placed both a comma and a period after “shall be discharged”.
 
-1978—Subsec. (a). Pub. L. 95–563, §14(e), inserted Contract Disputes Act of 1978 exception.
+<b>1978</b>—Subsec. (a). Pub. L. 95–563, §14(e), inserted Contract Disputes Act of 1978 exception.
 
 Subsec. (b). Pub. L. 95–563, §14(f), inserted provision relating to discharge of partial judgments.
 
@@ -48,5 +46,5 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–563 effective with respect to contracts entered into 120 days after Nov. 1, 1978, and, at the election of the contractor, with respect to any claim pending at such time before the contracting officer or initiated thereafter, see section 16 of Pub. L. 95–563, set out as an Effective Date note under section 601 of Title 41, Public Contracts.
+Amendment by Pub. L. 95–563 effective with respect to contracts entered into 120 days after Nov. 1, 1978, and, at the election of the contractor, with respect to any claim pending at such time before the contracting officer or initiated thereafter, see section 16 of Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2391, formerly set out as an Effective Date note under section 601 of former Title 41, Public Contracts.
 

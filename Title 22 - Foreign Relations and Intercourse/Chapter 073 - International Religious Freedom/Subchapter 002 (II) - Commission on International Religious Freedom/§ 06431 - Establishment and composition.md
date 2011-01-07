@@ -38,7 +38,7 @@ There is established the United States Commission on International Religious Fre
 
 #### (1) In general
 
-&emsp;The term of office of each member of the Commission shall be 2 years. The term of each member of the Commission appointed to the first two-year term of the Commission shall be considered to have begun on May 15, 1999, and shall end on May 14, 2001, regardless of the date of appointment to the Commission. The term of each member of the Commission appointed to the second two-year term of the Commission shall begin on May 15, 2001, and shall end on May 14, 2003, regardless of the date of appointment to the Commission. In the case in which a vacancy in the membership of the Commission is filled during a two-year term of the Commission, such membership on the Commission shall terminate at the end of that two-year term of the Commission. Members of the Commission shall be eligible for reappointment to a second term.
+&emsp;The term of office of each member of the Commission shall be 2 years. The term of each member of the Commission appointed to the first two-year term of the Commission shall be considered to have begun on May 15, 1999, and shall end on May 14, 2001, regardless of thedate of appointment to the Commission. The term of each member of the Commission appointed to the second two-year term of the Commission shall begin on May 15, 2001, and shall end on May 14, 2003, regardless of the date of appointment to the Commission. In the case in which a vacancy in the membership of the Commission is filled during a two-year term of the Commission, such membership on the Commission shall terminate at the end of that two-year term of the Commission. Members of the Commission shall be eligible for reappointment to a second term.
 
 #### (2) Establishment of staggered terms
 
@@ -48,7 +48,7 @@ There is established the United States Commission on International Religious Fre
 
 #### (B) Presidential appointments
 
-&emsp;&emsp;Of the three members of the Commission appointed by the President under subsection\(b)(1)(B)(i) of this section, two shall be appointed to a 1-year term and one shall be appointed to a 2-year term.
+&emsp;&emsp;Of the three members of the Commission appointed by the President under subsection (b)(1)(B)(i) of this section, two shall be appointed to a 1-year term and one shall be appointed to a 2-year term.
 
 #### (C) Appointments by the President pro tempore of the Senate
 
@@ -94,13 +94,13 @@ Members of the Commission shall be allowed travel expenses, including per diem i
 
 #### Amendments
 
-2002—Subsec. (c)(2). Pub. L. 107–228, §681(b), added par. (2).
+<b>2002</b>—Subsec. (c)(2). Pub. L. 107–228, §681(b), added par. (2).
 
 Subsec. (d). Pub. L. 107–228, §681(c), substituted “after May 30 of each” for “in each calendar”.
 
 Subsec. (g). Pub. L. 107–228, §681(d), inserted at end “A member may serve after the expiration of that member's term until a successor has taken office. Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term.”
 
-1999—Pub. L. 106–55, §1(a)(2), which directed amendment of section by inserting after first sentence “The term of each member of the Commission appointed to the first two-year term of the Commission shall be considered to have begun on May 15, 1999, and shall end on May 14, 2001, regardless of the date of appointment to the Commission. The term of each member of the Commission appointed to the second two-year term of the Commission shall begin on May 15, 2001, and shall end on May 14, 2003, regardless of the date of appointment to the Commission. In the case in which a vacancy in the membership of the Commission is filled during a two-year term of the Commission, such membership on the Commission shall terminate at the end of that two-year term of the Commission.”, was executed by making the insertion after the first sentence of subsec. (c)(1) to reflect the probable intent of Congress.
+<b>1999</b>—Pub. L. 106–55, §1(a)(2), which directed amendment of section by inserting after first sentence “The term of each member of the Commission appointed to the first two-year term of the Commission shall be considered to have begun on May 15, 1999, and shall end onMay 14, 2001, regardless of the date of appointment to the Commission. The term of each member of the Commission appointed to the second two-year term of the Commission shall begin on May 15, 2001, and shall end on May 14, 2003, regardless of the date of appointment to the Commission. In the case in which a vacancy in the membership of the Commission is filled during a two-year term of the Commission, such membership on the Commission shall terminate at the end of that two-year term of the Commission.”, was executed by making the insertion after the first sentence of subsec. (c)(1) to reflect the probable intent of Congress.
 
 Subsec. (b)(1)(B)(iii). Pub. L. 106–55, §2(b), substituted “Three” for “three”.
 

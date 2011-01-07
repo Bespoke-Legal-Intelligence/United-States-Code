@@ -32,19 +32,19 @@ Use of Fees.—Fees received under subsections (a)(3) and (a)(4) may be credited
 
 #### Amendments
 
-2008—Subsec. (a)(4). Pub. L. 110–181, §232(1), added par. (4).
+<b>2008</b>—Subsec. (a)(4). Pub. L. 110–181, §232(1), added par. (4).
 
 Subsec. (c). Pub. L. 110–181, §232(2), struck out “for services” before “made available” and substituted “subsections (a)(3) and (a)(4)” for “subsection (a)(3)”.
 
 Subsec. (d). Pub. L. 110–181, §232(3), struck out “for services made available” after “Fees received” and substituted “subsections (a)(3) and (a)(4)” for “subsection (a)(3)”.
 
-1999—Subsec. (a). Pub. L. 106–65 substituted “Secretaries of the military departments” for “secretaries of the military departments”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–65 substituted “Secretaries of the military departments” for “secretaries of the military departments”.
 
-1996—Subsec. (a). Pub. L. 104–106, §4321(a)(8), made technical correction to Pub. L. 103–355, §3022. See 1994 Amendment note below.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106, §4321(a)(8), made technical correction to Pub. L. 103–355, §3022. See 1994 Amendment note below.
 
 Subsec. (c). Pub. L. 104–106, §804, inserted “and indirect” after “recoup the direct”.
 
-1994—Pub. L. 103–337 renumbered section 2541 of this title as this section.
+<b>1994</b>—Pub. L. 103–337 renumbered section 2541 of this title as this section.
 
 Subsec. (a). Pub. L. 103–355, §3022, as amended by Pub. L. 104–106, §4321(a)(8), inserted “rent,” after “sell,” in par. (1) and “, rent,” after “sell” in par. (2).
 

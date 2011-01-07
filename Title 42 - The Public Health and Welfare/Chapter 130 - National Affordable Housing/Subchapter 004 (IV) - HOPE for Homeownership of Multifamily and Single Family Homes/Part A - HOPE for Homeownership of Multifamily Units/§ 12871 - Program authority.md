@@ -20,7 +20,7 @@ This part, referred to in subsec. (b), was in the original “this subtitle”, 
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–550 struck out subsec. (c) which read as follows: “
+<b>1992</b>—Subsec. (c). Pub. L. 102–550 struck out subsec. (c) which read as follows: “
 
 Authorization of Appropriations.—There is authorized to be appropriated for grants under this part $51,000,000 for fiscal year 1991 and $280,000,000 for fiscal year 1992. Any amounts appropriated pursuant to this subsection shall remain available until expended.”
 

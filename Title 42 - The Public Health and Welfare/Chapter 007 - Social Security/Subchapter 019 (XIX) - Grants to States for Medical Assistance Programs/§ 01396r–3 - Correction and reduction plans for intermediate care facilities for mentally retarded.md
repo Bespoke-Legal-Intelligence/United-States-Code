@@ -76,7 +76,7 @@ A prior section 1922 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–647, §8433(a)(1), inserted “(including failure to provide active treatment)” after “residents” in introductory provisions.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §8433(a)(1), inserted “(including failure to provide active treatment)” after “residents” in introductory provisions.
 
 Subsec. (c)(5). Pub. L. 100–647, §8433(a)(2), inserted “, and to provide active treatment for,” after “safety of”.
 

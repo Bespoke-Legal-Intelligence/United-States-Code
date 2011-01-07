@@ -112,7 +112,7 @@ No credit shall be determined under subsection (a) for the taxable year if the t
 
 #### Amendments
 
-2007—Subsec. (b)(1)(A). Pub. L. 110–172, §7(a)(3)(A), substituted “qualified costs” for “qualified capital costs”.
+<b>2007</b>—Subsec. (b)(1)(A). Pub. L. 110–172, §7(a)(3)(A), substituted “qualified costs” for “qualified capital costs”.
 
 Subsec. (c)(2). Pub. L. 110–172, §7(a)(3)(B), struck out “capital” before “costs” in heading.
 

@@ -12,7 +12,7 @@ The purpose of this subchapter is to establish a program of information regardin
 
 #### Livestock Mandatory Reporting
 
-Pub. L. 106–78, title IX, Oct. 22, 1999, 113 Stat. 1188, as amended by Pub. L. 108–444, §1, Dec. 3, 2004, 118 Stat.2635; Pub. L. 109–296, §1(b), Oct. 5, 2006, 120 Stat. 1464, provided that:
+Pub. L. 106–78, title IX, Oct. 22, 1999, 113 Stat. 1188, as amended by Pub. L. 108–444, §1, Dec. 3, 2004, 118 Stat. 2635; Pub. L. 109–296, §1(b), Oct. 5, 2006, 120 Stat. 1464; Pub. L. 111–239, §2(a)(2), Sept. 27, 2010, 124 Stat. 2501, provided that:
 
 #### “SEC. 901. SHORT TITLE.
 
@@ -114,7 +114,7 @@ Correlation Study and Report.—The study and report shall—
 
 &emsp;“(2) analyze slaughter inspection procedures that could be improved so that trimming procedures and policies of the Secretary are uniform to the maximum extent determined practicable by the Secretary;
 
-&emsp;“(3) determine how the Secretary may be able to foster improved breeding techniques and animal handling and transportation procedures through training programs made available to swine producers so as to minimize trim loss in slaughter processing; and
+&emsp;“(3) determine how the Secretary may be able to foster improved breeding techniques and animal handling and transportation procedures through trainingprograms made available to swine producers so as to minimize trim loss in slaughter processing; and
 
 &emsp;“(4) make recommendations that are designed to effect changes in the pork industry so as to achieve continuous improvement in average trim losses and discounts.
 
@@ -154,7 +154,7 @@ Submission of Reports to Congress, Producers, Packers, and Others.—The reports
 
 “(a)
 
-In General.—Not later than 180 days after the date of the enactment of this Act \[Oct. 22, 1999\], the Secretary of Agriculture shall publish final regulationsto implement this title and the amendments made by this title.
+In General.—Not later than 180 days after the date of the enactment of this Act \[Oct. 22, 1999\], the Secretary of Agriculture shall publish final regulations to implement this title and the amendments made by this title.
 
 “(b)
 
@@ -170,5 +170,5 @@ Final Regulations.—Not later than 60 days after the conclusion of the comment 
 
 #### “SEC. 942. TERMINATION OF AUTHORITY.
 
-“The authority provided by this title \[enacting sections 198 to 198b and 1635 to 1636h of this title and this note, amending sections 192 and 5712 of this title, repealing section 229a of this title, and amending provisions set out as a note under section 1421 of this title\] and the amendments made by this title (other than section 911 of subtitle A \[enacting this subchapter\] and the amendments made by that section) terminate on September 30, 2010.”
+“The authority provided by this title \[enacting sections 198 to 198b and 1635 to 1636h of this title and this note, amending sections 192 and 5712 of this title, repealing section 229a of this title, and amending provisions set out as a note under section 1421 of this title\] and the amendments made by this title (other than section 911 of subtitle A \[enacting this subchapter\] and the amendments made by that section) terminate on September 30, 2015.”
 

@@ -26,13 +26,13 @@ A prior section 5044, act Aug. 16, 1954, ch. 736, 68A Stat. 611, consisted of pr
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–206 substituted “removed from a bonded wine cellar” for “produced in the United States” in introductory provisions.
+<b>1998</b>—Subsec. (a). Pub. L. 105–206 substituted “removed from a bonded wine cellar” for “produced in the United States” in introductory provisions.
 
-1997—Pub. L. 105–34, §1416(b)(2), struck out “unmerchantable” after “tax on” in section catchline.
+<b>1997</b>—Pub. L. 105–34, §1416(b)(2), struck out “unmerchantable” after “tax on” in section catchline.
 
 Subsec. (a). Pub. L. 105–34, §1416(a), struck out “as unmerchantable” after “to bond” in introductory provisions.
 
-1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 1998 Amendment
 

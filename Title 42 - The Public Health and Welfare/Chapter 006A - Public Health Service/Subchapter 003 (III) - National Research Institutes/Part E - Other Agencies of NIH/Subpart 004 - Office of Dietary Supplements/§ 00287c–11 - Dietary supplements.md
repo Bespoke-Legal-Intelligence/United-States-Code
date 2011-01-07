@@ -48,7 +48,7 @@ As used in this section, the term “dietary supplement” has the meaning given
 
 #### Amendments
 
-2007—Subsec. (e). Pub. L. 109–482 struck out heading and text of subsec. (e). Text read as follows: “There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 1994 and such sums as may be necessary for each subsequent fiscal year.”
+<b>2007</b>—Subsec. (e). Pub. L. 109–482 struck out heading and text of subsec. (e). Text read as follows: “There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 1994 and such sums as may be necessary for each subsequent fiscal year.”
 
 #### Effective Date of 2007 Amendment
 

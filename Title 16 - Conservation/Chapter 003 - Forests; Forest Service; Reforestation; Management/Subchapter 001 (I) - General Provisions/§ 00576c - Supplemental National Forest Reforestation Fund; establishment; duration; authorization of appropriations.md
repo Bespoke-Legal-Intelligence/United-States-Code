@@ -6,5 +6,5 @@ Notwithstanding any other provision of law, the Secretary of Agriculture shall e
 
 #### Amendments
 
-1976—Pub. L. 94–273 substituted “September” for “June”.
+<b>1976</b>—Pub. L. 94–273 substituted “September” for “June”.
 

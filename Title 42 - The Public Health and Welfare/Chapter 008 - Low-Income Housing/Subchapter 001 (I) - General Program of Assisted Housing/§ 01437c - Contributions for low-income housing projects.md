@@ -24,7 +24,7 @@ The Secretary may prescribe regulations fixing the maximum contributions availab
 
 (5) During such period as the Secretary may prescribe for starting construction, the Secretary may approve the conversion of public housing development authority for use under section 1437g of this title or for use for the acquisition and rehabilitation of property to be used in public housing, if the public housing agency, after consultation with the unit of local government, certifies that such assistance would be more effectively used for such purpose, and if the total number of units assisted will not be less than 90 per centum of the units covered by the original reservation.
 
-(6) The aggregate amount of budget authority which may be obligated for contracts for annual contributions and for grants under section 1437<i>o</i> of this title is increased by $9,912,928,000 on October 1, 1983, and by such sums as may be approved in appropriation Acts on October 1, 1984. The aggregate amount of budget authority that may be obligated for contracts for annual contributions for assistance under section 1437f of this title, for contracts referred to in paragraphs (7)(A)(iv) and (7)(B)(iv), for grants for public housing, for comprehensive improvement assistance, and for amendments to existing contracts, is increased (to the extent approved in appropriation Acts) by $7,167,000,000 on October 1, 1987, and by $7,300,945,000 on October 1, 1988. The aggregate amount of budget authority that may be obligated for assistance referred to in paragraph (7) is increased (to the extent approved in appropriation Acts) by $16,194,000,000 on October 1, 1990, and by $14,709,400,000 on October 1, 1991. The aggregate amount of budget authority that may be obligated for assistance referred to in paragraph (7) is increased (to the extent approved in appropriation Acts) by $14,710,990,520 on October 1, 1992, and by $15,328,852,122 on October 1993.
+(6) The aggregate amount of budget authority which may be obligated for contracts for annualcontributions and for grants under section 1437<i>o</i> of this title is increased by $9,912,928,000 on October 1, 1983, and by such sums as may be approved in appropriation Acts on October 1, 1984. The aggregate amount of budget authority that may be obligated for contracts for annual contributions for assistance under section 1437f of this title, for contracts referred to in paragraphs (7)(A)(iv) and (7)(B)(iv), for grants for public housing, for comprehensive improvement assistance, and for amendments to existing contracts, is increased (to the extent approved in appropriation Acts) by $7,167,000,000 on October 1, 1987, and by $7,300,945,000 on October 1, 1988. The aggregate amount of budget authority that may be obligated for assistance referred to in paragraph (7) is increased (to the extent approved in appropriation Acts) by $16,194,000,000 on October 1, 1990, and by $14,709,400,000 on October 1, 1991. The aggregate amount of budget authority that may be obligated for assistance referred to in paragraph (7) is increased (to the extent approved in appropriation Acts) by $14,710,990,520 on October 1, 1992, and by $15,328,852,122 on October 1993.
 
 (7)(A) Using the additional budget authority provided under paragraph (6) and the balances of budget authority that become available during fiscal year 1993, the Secretary shall, to the extent approved in appropriation Acts, reserve authority to enter into obligations aggregating—
 
@@ -70,7 +70,7 @@ The Secretary may prescribe regulations fixing the maximum contributions availab
 
 &emsp;(x) for grants under section 1437v of this title for revitalization of severely distressed public housing, not more than $312,600,000.
 
-(C)(i) Any amount available for the conversion of a project to assistance under section 1437f(b)(1) of this title, if not required for suchpurpose, shall be used for assistance under section 1437f(b)(1) of this title.
+(C)(i) Any amount available for the conversion of a project to assistance under section 1437f(b)(1) of this title, if not required for such purpose, shall be used for assistance under section 1437f(b)(1) of this title.
 
 (ii) Any amount available for assistance under section 1437f of this title for property disposition, if not required for such purpose, shall be used for assistance under section 1437f(b)(1) of this title.
 
@@ -104,7 +104,7 @@ In addition to the authority of the Secretary under subsection (a) of this secti
 
 #### (2) Withholding of amounts for audits under Single Audit Act
 
-&emsp;The Secretary may, in the sole discretion of the Secretary, arrange for and pay the costs of an audit required under chapter 75 of title 31. In such circumstances, the Secretary may withhold, from assistance otherwise payable to the agency under this chapter, amounts sufficient to pay for the reasonable costs of conducting an acceptable audit, including, when appropriate, the reasonable costs of accounting services necessary to place the agency's books and records in auditable condition. As agreed to by the Secretary and the Inspector General, the Inspector General may arrange for an audit under this paragraph.
+&emsp;The Secretary may, in the sole discretion of the Secretary, arrange for and pay the costs of an audit required under chapter 75 of title 31. In such circumstances, the Secretary may withhold, from assistance otherwise payable to the agency under this chapter, amounts sufficient to pay for the reasonable costs of conducting an acceptable audit, including, whenappropriate, the reasonable costs of accounting services necessary to place the agency's books and records in auditable condition. As agreed to by the Secretary and the Inspector General, the Inspector General may arrange for an audit under this paragraph.
 
 #### (i) Prohibition on use of funds
 
@@ -128,7 +128,7 @@ A prior section 5 of act Sept. 1, 1937, ch. 896, 50 Stat. 890, as amended, enume
 
 #### Amendments
 
-1998—Subsec. (c)(5). Pub. L. 105–276, §522(b)(1), substituted “for use under section 1437g of this title” for “for use under section 1437<i>l</i> of this title”.
+<b>1998</b>—Subsec. (c)(5). Pub. L. 105–276, §522(b)(1), substituted “for use under section 1437g of this title” for “for use under section 1437<i>l</i> of this title”.
 
 Subsec. (e)(2). Pub. L. 105–276, §518(b), inserted before period at end “; the Secretary shall require that each such agreement shall provide that, notwithstanding any order, judgment, or decree of any court (including any settlement order), before making any amounts that are provided pursuant to any contract for contributions under this subchapter available for use for the development of any housing or other property not previously used as public housing, the public housing agency shall (A) notify the chief executive officer (or other appropriate official) of the unit of general local government in which the public housing for which such amounts are to be so used is located (or to be located) of such use, and (B) pursuant to the request of such unit of general local government, provide such information as may reasonably be requested by such unit of general local government regarding the public housing to be so assisted (except to the extent otherwise prohibited by law)”.
 
@@ -144,17 +144,17 @@ Subsec. (<i>l</i>). Pub. L. 105–276, §518(a)(1)(B), redesignated subsec. (<i>
 
 Pub. L. 105–276, §510, added subsec. (<i>l</i>).
 
-1996—Subsec. (j)(1). Pub. L. 104–330, §501(b)(2)(A), struck out “(other than for Indian families)” after “for public housing” in introductory provisions.
+<b>1996</b>—Subsec. (j)(1). Pub. L. 104–330, §501(b)(2)(A), struck out “(other than for Indian families)” after “for public housing” in introductory provisions.
 
-Subsec. (<i>l</i>). Pub. L. 104–330, §501(b)(2)(B), struck out subsec. (<i>l</i>) which read as follows: “The Secretary may not use as a criterion for distributing assistance under this section the progress made by an Indian publichousing agency in collecting rents owed by tenants unless—
+Subsec. (<i>l</i>). Pub. L. 104–330, §501(b)(2)(B), struck out subsec. (<i>l</i>) which read as follows: “The Secretary may not use as a criterion for distributing assistance under this section the progress made by an Indian public housing agency in collecting rents owed by tenants unless—
 
 &emsp;“(1) such criterion is used as 1 of several criteria that are weighted proportionally and is established by regulations issued after public notice and opportunity to comment in accordance with section 553 of title 5; or
 
 &emsp;“(2) the Secretary determines that the Indian public housing agency has demonstrated a pattern of substantial noncompliance with requirements governing the collection of rents.”
 
-1995—Subsec. (h). Pub. L. 104–19 struck out at end “Any such sale shall be subject to the restrictions contained in section 1437aaa–3(g) of this title.”
+<b>1995</b>—Subsec. (h). Pub. L. 104–19 struck out at end “Any such sale shall be subject to the restrictions contained in section 1437aaa–3(g) of this title.”
 
-1992—Subsec. (c)(6). Pub. L. 102–550, §101(a), inserted at end “The aggregate amount of budget authority that may be obligated for assistance referred to in paragraph (7) is increased (to the extent approved in appropriation Acts) by $14,710,990,520 on October 1, 1992, and by $15,328,852,122 on October 1993.”
+<b>1992</b>—Subsec. (c)(6). Pub. L. 102–550, §101(a), inserted at end “The aggregate amount of budget authority thatmay be obligated for assistance referred to in paragraph (7) is increased (to the extent approved in appropriation Acts) by $14,710,990,520 on October 1, 1992, and by $15,328,852,122 on October 1993.”
 
 Subsec. (c)(7)(A), (B). Pub. L. 102–550, §101(b), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which directed Secretary to reserve authority to enter into certain obligations aggregating specified amounts using par. (6) budget authority and balances of such authority available in fiscal years 1991 and 1992.
 
@@ -170,7 +170,7 @@ Pub. L. 102–550, §111(a), amended par. (2) generally. Prior to amendment, par
 
 Subsec. (j)(3). Pub. L. 102–550, §624(b), added par. (3).
 
-1990—Subsec. (a)(3). Pub. L. 101–625, §572(2), substituted “low-income housing” for “lower income housing”.
+<b>1990</b>—Subsec. (a)(3). Pub. L. 101–625, §572(2), substituted “low-income housing” for “lower income housing”.
 
 Subsec. (c)(6). Pub. L. 101–625, §571(a), inserted at end “The aggregate amount of budget authority that may be obligated for assistance referred to in paragraph (7) is increased (to the extent approved in appropriation Acts) by $16,194,000,000 on October 1, 1990, and by $14,709,400,000 on October 1, 1991.”
 
@@ -182,7 +182,7 @@ Subsec. (h). Pub. L. 101–625, §572(2), substituted “low-income housing” f
 
 Pub. L. 101–625, §417(a), inserted at end “Any such sale shall be subject to the restrictions contained in section 1437aaa–3(g) of this title.”
 
-1988—Pub. L. 100–242, §112(b)(1)(A), substituted “Contributions” for “Annual contributions” in section catchline.
+<b>1988</b>—Pub. L. 100–242, §112(b)(1)(A), substituted “Contributions” for “Annual contributions” in section catchline.
 
 Subsec. (a). Pub. L. 100–242, §112(a), amended subsec. (a) generally, revising and restating as pars. (1) to (3) provisions formerly contained in a single unnumbered par.
 
@@ -196,7 +196,7 @@ Subsec. (e)(2). Pub. L. 100–242, §112(b)(1)(B), struck out “annual” befor
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 100–242, §§113–115, added subsecs. (j) to (<i>l</i>).
 
-1983—Subsec. (c)(1). Pub. L. 98–181, §201(b)(1), struck out concluding provision requiring the Secretary, in utilizing the additional authority to enter into contracts on and after Oct. 1, 1980, to administer the authorized programs to provide assistance, to the maximum extent practicable, consistent with section 1439(d) of this title.
+<b>1983</b>—Subsec. (c)(1). Pub. L. 98–181, §201(b)(1), struck out concluding provision requiring the Secretary, in utilizing the additional authority to enter into contracts on and after Oct. 1, 1980, to administer the authorized programs to provide assistance, to the maximum extent practicable, consistent with section 1439(d) of this title.
 
 Subsec. (c)(2). Pub. L. 98–181, §201(b)(2), redesignated par. (4) as (2), and struck out former par. (2) which from funds made available on Oct. 1, 1980, had required at least $100,000,000 be available for section 1437<i>l</i> projects, and from remaining difference limited use of funds to 37.5 and 62.5 per centum for existing section 1437f projects and for newly constructed and substantially rehabilitated units.
 
@@ -206,27 +206,27 @@ Subsec. (c)(4). Pub. L. 98–181, §201(b)(2), redesignated par. (6) as (4). For
 
 Subsec. (c)(5) to (7). Pub. L. 98–181, §201(b)(3), added pars. (5) to (7). Former pars. (5) and (6) redesignated (3) and (4), respectively.
 
-1981—Subsec. (a). Pub. L. 97–35, §322(c), substituted references to lower income for references to low-income wherever appearing.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §322(c), substituted references to lower income for references to low-income wherever appearing.
 
 Subsec. (c). Pub. L. 97–35, §321(a)–(c), in par. (1) inserted provisions relating to increases on Oct. 1, 1981, and amount respecting additional authority as of Oct. 1, 1981, added par. (3), and redesignated former pars. (3) to (5) as (4) to (6), respectively.
 
 Subsecs. (d) to (f), (h). Pub. L. 97–35, §322(c), substituted references to lower income for references to low-income wherever appearing.
 
-1980—Subsec. (c). Pub. L. 96–399, §201(a), redesignated existing provisions as par. (1), among other changes, substituted provisions relating to the discretionary power of the Secretary to enter into contracts for annual contributions for provisions authorizing the Secretary to enter into such contracts, deleted references to contributions for assistance to Indian tribes, and added pars. (2) to (5).
+<b>1980</b>—Subsec. (c). Pub. L. 96–399, §201(a), redesignated existing provisions as par. (1), among other changes, substituted provisions relating to the discretionary power of the Secretary to enter into contracts for annual contributions for provisions authorizing the Secretary to enter into such contracts, deleted references to contributions for assistance to Indian tribes, and added pars. (2) to (5).
 
 Subsec. (i). Pub. L. 96–399, §210, added subsec. (i).
 
-1979—Subsec. (c). Pub. L. 96–153 authorized increase in aggregate contractual contributions by $1,140,661,000 on Oct. 1, 1979, and inserted requirements that out of such additional authority not more than $195,053,000 be authorized to be approved in appropriation acts for units assisted under this chapter other than under section 1437f of this title and that not less than $50,000,000 of the later amount be authorized to be approved for modernization of the units.
+<b>1979</b>—Subsec. (c). Pub. L. 96–153 authorized increase in aggregate contractual contributions by $1,140,661,000 on Oct. 1, 1979, and inserted requirements that out of such additional authority not more than $195,053,000 be authorized to be approved in appropriation acts for units assisted under this chapter other than under section 1437f of this title and that not less than $50,000,000 of the later amount be authorized to be approved for modernization of the units.
 
-1978—Subsec. (c). Pub. L. 95–619 authorized the Secretary to enter into annual contribution contracts aggregating not more than $10,000,000 per annum for financing the purchase and installation of energy conserving improvement in existing low-income housing projects which the Secretary determined had the greatest need for such improvements.
+<b>1978</b>—Subsec. (c). Pub. L. 95–619 authorized the Secretary to enter into annual contribution contracts aggregating not more than $10,000,000 per annum for financing the purchase and installation of energy conserving improvement in existing low-income housing projects which the Secretary determined had the greatest need for such improvements.
 
 Pub. L. 95–557 inserted “and by $1,195,043,000 on October 1, 1978” after “October 1, 1977”, “and on and after October 1, 1978” after “October 1, 1976” and “Of the additional authority to enter into contracts for annual contributions provided on October 1, 1978, and approved in appropriation Acts, the Secretary shall make available not less than $50,000,000 for modernization of low-income housing projects” after “pursuant to section 5304(a)(4) of this title”, and struck out provisions after “only such amounts as may be approved in appropriations Acts” mandating that of the additional authority to enter into contracts provided on October 1, 1976, at least $60,000,000 be made available for modernization of low-income housing projects and at least $140,000,000 to assist in financing low-income housing projects for ownership by public housing agencies other than under section 1437f, of which not less than $100,000,000 shall be available only for the purpose of financing the construction or rehabilitation of low-income housing projects, and provision after “plans prepared pursuant to section 5304(a)(4) of this title” mandating that of the additional authority to enter into contracts for annual contributions provided on Oct. 1, 1977, not less than $42,500,000 shall be made available for low-income housing projects, not less than $197,139,200 for low-income housing projects permanently financed by loans from State housing finance or State development agencies, and not less than $120,000,000 for low-income housing projects permanently financed by loans pursuant to section 1701q of title 12.
 
-1977—Subsec. (c). Pub. L. 95–128 authorized increase in aggregate contractual contributions by $1,159,995,000 on Oct. 1, 1977, and required the Secretary to make available therefrom minimum amounts of $42,500,000 for modernization of low-income housing projects, $197,139,200 for such projects financed by loans from State housing finance or State development agencies, and $120,000,000 for such projects financed by loans pursuant to section 1701q of title 12.
+<b>1977</b>—Subsec. (c). Pub. L. 95–128 authorized increase in aggregate contractual contributions by $1,159,995,000 on Oct. 1, 1977, and required the Secretary to make available therefrom minimum amounts of $42,500,000 for modernization of low-income housing projects, $197,139,200 for such projects financed by loans from State housing finance or State development agencies, and $120,000,000 for such projects financed by loans pursuant to section 1701q of title 12.
 
 Pub. L. 95–24 substituted “and by $1,228,050,000 on October 1, 1976” for “and by $850,000,000 on October 1, 1976”.
 
-1976—Subsec. (c). Pub. L. 94–375 substituted “$1,524,000,000 per annum, which limit shall be increased by $965,000,000 on July 1, 1974, by $662,300,000 on July 1, 1975, and by $850,000,000 on October 1, 1976, except that the additional authority to enter into contracts for annual contributions provided on or after July 1, 1975, shall be effective only in such amounts as may be approved in appropriation Acts” for “$1,199,250,000 per annum, which limit shall be increased by $225,000,000 on July 1, 1971, by $150,000,000 on July 1, 1972, by $400,000,000 on July 1, 1973, and by $965,000,000 on July 1, 1974”, provision requiring the Secretary make available a total of at least $200,000,000 for modernization and financing of low-income housing projects under the additional authority to enter into contracts for annual contributions provided on Oct. 1, 1976, for provision which required the Secretary to enter into contracts for annual contributions of at least $150,000,000 to assist in financing the development or acquisition cost of low-income housing projects, inserted “and by not less than $17,000,000 per annum on October 1, 1976,” after “not less than $15,000,000 per annum, on July 1, 1975”, and struck out “to the amounts of contracts for annual contributions required to be entered into by the Secretary under the second sentence of this subsection” after “In addition”.
+<b>1976</b>—Subsec. (c). Pub. L. 94–375 substituted “$1,524,000,000 per annum, which limit shall be increased by $965,000,000 on July 1, 1974, by $662,300,000 on July 1, 1975, and by $850,000,000 on October 1, 1976, except that the additional authority to enter into contracts for annual contributions provided on or after July 1, 1975, shall be effective only in such amounts as may be approved in appropriation Acts” for “$1,199,250,000 per annum, which limit shall be increased by $225,000,000 on July 1, 1971, by $150,000,000 on July 1, 1972, by $400,000,000 on July 1, 1973, and by $965,000,000 on July 1, 1974”, provision requiring the Secretary make available a total of at least $200,000,000 for modernization and financing of low-income housing projects under the additional authority to enter into contracts for annual contributions provided on Oct. 1, 1976, for provision which required the Secretary to enter into contracts for annual contributions of at least $150,000,000 to assist in financing the development or acquisition cost of low-income housing projects, inserted “and by not less than $17,000,000 per annum on October 1, 1976,” after “not less than $15,000,000 per annum, on July 1, 1975”, and struck out “to the amounts of contracts for annual contributions required to be entered into by the Secretary under the second sentence of this subsection” after “In addition”.
 
 #### Effective Date of 1998 Amendment
 

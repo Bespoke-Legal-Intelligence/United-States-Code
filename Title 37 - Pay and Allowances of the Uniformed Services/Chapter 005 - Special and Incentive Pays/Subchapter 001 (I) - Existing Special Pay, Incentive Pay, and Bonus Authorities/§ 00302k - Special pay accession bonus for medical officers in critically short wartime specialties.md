@@ -22,19 +22,21 @@ Agreement.—The agreement referred to in subsection (a) shall provide that, con
 
 (e)
 
-Repayment.—A person who, after executing an agreement under subsection (a) is not commissioned as an officer of the armed forces, does not become licensed as a doctor or osteopath, as the case may be, or does not complete the period of active duty in a specialty specified in the agreement, shall be subject to the repayment provisions of section 303a(e) of this title.
+Repayment.—A person who, after executing an agreement under subsection (a) is not commissioned as an officer of the armed forces, does not become licensed as a doctor or osteopath, as the case may be, or does not complete the period of active duty in a specialty specifiedin the agreement, shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (f)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2010.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2011.
 
-(Added Pub. L. 109–364, div. A, title VI, §617(b), Oct. 17, 2006, 120 Stat. 2249; amended Pub. L. 110–181, div. A, title VI, §612(h), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §612(h), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §612(b)(7), Oct. 28, 2009, 123 Stat. 2353.)
+(Added Pub. L. 109–364, div. A, title VI, §617(b), Oct. 17, 2006, 120 Stat. 2249; amended Pub. L. 110–181, div. A, title VI, §612(h), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §612(h), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §612(b)(7), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(7), Jan. 7, 2011, 124 Stat. 4236.)
 
 #### Amendments
 
-2009—Subsec. (f). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+<b>2011</b>—Subsec. (f). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
-2008—Subsec. (f). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+<b>2009</b>—Subsec. (f). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+
+<b>2008</b>—Subsec. (f). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
 
 Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
 

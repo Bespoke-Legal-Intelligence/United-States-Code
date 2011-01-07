@@ -190,11 +190,11 @@ Section was enacted as part of the Floyd D. Spence National Defense Authorizatio
 
 #### Amendments
 
-2007—Subsec. (c)(1). Pub. L. 110–161 substituted “December” for “June”.
+<b>2007</b>—Subsec. (c)(1). Pub. L. 110–161 substituted “December” for “June”.
 
-2005—Subsec. (g). Pub. L. 109–108 amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.”
+<b>2005</b>—Subsec. (g). Pub. L. 109–108 amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.”
 
-2003—Pub. L. 108–7, §2(b)(1)(A), inserted “Economic and” before “Security” in section catchline.
+<b>2003</b>—Pub. L. 108–7, §2(b)(1)(A), inserted “Economic and” before “Security” in section catchline.
 
 Subsec. (a)(1), (2). Pub. L. 108–7, §2(b)(1)(B), inserted “Economic and” before “Security”.
 
@@ -210,11 +210,11 @@ Subsec. (b)(3)(H), (4), (e)(1), (2). Pub. L. 108–7, §2(b)(1)(C)(iii)(II), (iv
 
 Subsec. (e)(3). Pub. L. 108–7, §2(b)(1)(D)(iii)(II), inserted “Economic and” before “Security” in second sentence.
 
-Pub. L. 108–7, §2(b)(1)(D)(iii)(I), which directed the amendment of first sentence by inserting “Economic and” before “Security”, could not be executed because “Security” does not appear.
+Pub. L. 108–7, §2(b)(1)(D)(iii)(I), which directed the amendment of first sentence by inserting “Economicand” before “Security”, could not be executed because “Security” does not appear.
 
 Subsec. (e)(4), (6). Pub. L. 108–7, §2(b)(1)(D)(iv), (v), which directed the amendment of pars. (4) and (6) by inserting “Economic and” before “Security”, could not be executed because “Security” does not appear.
 
-2001—Subsec. (c)(1). Pub. L. 107–67, §648, substituted “June” for “March”.
+<b>2001</b>—Subsec. (c)(1). Pub. L. 107–67, §648, substituted “June” for “March”.
 
 Subsec. (e)(3). Pub. L. 107–67, §645(a), inserted at end “The executive director and any personnel who are employees of the United States-China Security Review Commission shall be employees under section 2105 of title 5 for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.”
 

@@ -44,5 +44,5 @@ No member or employee of a boxing commission, no person who administers or enfor
 
 #### Amendments
 
-2000—Pub. L. 106–210, §5, designated existing provisions as subsec. (a), inserted subsec. heading, and added subsecs. (b) and (c).
+<b>2000</b>—Pub. L. 106–210, §5, designated existing provisions as subsec. (a), inserted subsec. heading, and added subsecs. (b) and (c).
 

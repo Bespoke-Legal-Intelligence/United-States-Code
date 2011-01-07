@@ -24,7 +24,7 @@ Provisions similar to this section were contained in Pub. L. 100–204, title II
 
 #### Amendments
 
-1998—Pub. L. 105–277, §1335(a)(5)(D), substituted “Overseas public diplomacy” for “USIA” in section catchline.
+<b>1998</b>—Pub. L. 105–277, §1335(a)(5)(D), substituted “Overseas public diplomacy” for “USIA” in section catchline.
 
 Subsec. (a). Pub. L. 105–277, §1335(a)(5)(A), (B), substituted “Department of State” for “United States Information Agency” and “overseas public diplomacy post” for “United States Information Agency post”.
 

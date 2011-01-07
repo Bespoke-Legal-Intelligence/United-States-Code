@@ -14,7 +14,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-20501D36:3201.DAug. 25, 1937, ch. 762, §§1, 7, 50 Stat. 798, 799.
+20501
+
+36:3201.
+
+Aug. 25, 1937, ch. 762, §§1, 7, 50 Stat. 798, 799.
 
 &nbsp;
 

@@ -102,13 +102,13 @@ The Secretary may by regulation require that the administrator of any employee b
 
 #### Amendments
 
-2008—Subsec. (b)(3). Pub. L. 110–458, §105(c)(1)(A)(ii), which directed substitution of “the administrator” for “the administrators” in par. (3), could not be executed because the words “the administrators” did not appear.
+<b>2008</b>—Subsec. (b)(3). Pub. L. 110–458, §105(c)(1)(A)(ii), which directed substitution of “the administrator” for “the administrators” in par. (3), could not be executed because the words “the administrators” did not appear.
 
 Pub. L. 110–458, §105(c)(1)(A)(i), substituted “section 1021(f)” for “section 1023(f)”.
 
 Subsec. (d)(1)(E)(ii). Pub. L. 110–458, §105(c)(1)(B), inserted “funding” after “plan's”.
 
-2006—Pub. L. 109–280, §503(d)(1), substituted “participants and certain employers” for “participants” in section catchline.
+<b>2006</b>—Pub. L. 109–280, §503(d)(1), substituted “participants and certain employers” for “participants” in section catchline.
 
 Subsec. (b)(3). Pub. L. 109–280, §503(c)(1), which directed amendment of par. (3) by inserting “(other than an administrator of a defined benefit plan to which the requirements of section 1023(f) of this title applies)” after “the administrators”, was executed by making the insertion after “the administrator”, to reflect the probable intent of Congress.
 
@@ -116,7 +116,7 @@ Subsec. (b)(5). Pub. L. 109–280, §504(a), added par. (5).
 
 Subsecs. (d), (e). Pub. L. 109–280, §503(d)(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1997—Subsec. (a)(1). Pub. L. 105–34, §1503(c)(1), amended par. (1) generally, substituting present provisions for provisions requiring filing of annual report, plan description, summary plan description, as well as modifications and changes in plan descriptions.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–34, §1503(c)(1), amended par. (1) generally, substituting present provisions for provisions requiring filing of annual report, plan description, summary plan description, as well as modifications and changes in plan descriptions.
 
 Subsec. (a)(6). Pub. L. 105–34, §1503(c)(2)(A), added par. (6).
 
@@ -126,17 +126,17 @@ Subsec. (b)(2). Pub. L. 105–34, §1503(d)(2), substituted “the latest update
 
 Subsec. (b)(4). Pub. L. 105–34, §1503(d)(3), struck out “plan description” before “, plan description, and the latest annual report”.
 
-1996—Subsec. (b)(1). Pub. L. 104–204 made technical amendment to references in original act which appear in text as references to section 1191b of this title.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–204 made technical amendment to references in original act which appear in text as references to section 1191b of this title.
 
 Pub. L. 104–191, in closing provisions, substituted “1022(a)(1) of this title (other than a material reduction in covered services or benefits provided in the case of a group health plan (as defined in section 1191b(a)(1) of this title)),” for “1022(a)(1) of this title,” and inserted at end “If there is a modification or change described in section 1022(a)(1) of this title that is a material reduction in covered services or benefits provided under a group health plan (as defined in section 1191b(a)(1) of this title), a summary description of such modification or change shall be furnished to participants and beneficiaries not later than 60 days after the date of the adoption of the modification or change. In the alternative, the plan sponsors may provide such description at regular intervals of not more than 90 days. The Secretary shall issue regulations within 180 days after August 21, 1996, providing alternative mechanisms to delivery by mail through which group health plans (as so defined) may notify participants and beneficiaries of material reductions in covered services or benefits.”
 
-1989—Subsec. (a)(5)(B). Pub. L. 101–239, §7894(b)(3), substituted a comma for period at end.
+<b>1989</b>—Subsec. (a)(5)(B). Pub. L. 101–239, §7894(b)(3), substituted a comma for period at end.
 
 Subsec. (b)(1). Pub. L. 101–239, §7894(b)(4), struck out comma after “summary”.
 
-1987—Subsec. (b)(3). Pub. L. 100–203 inserted “(including the percentage determined under section 1023(d)(11) of this title)” after “material”.
+<b>1987</b>—Subsec. (b)(3). Pub. L. 100–203 inserted “(including the percentage determined under section 1023(d)(11) of this title)” after “material”.
 
-1986—Subsec. (a)(2)(A). Pub. L. 99–272 struck out provision permitting the Secretary to waive or modify the requirements of section 1023(d)(6) of this title if he found that the interests of the plan participants were not harmed and the expense of compliance was not justified by the needs of the participants, the Pension Benefit Guaranty Corporation, and the Department of Labor for some portion or all of the information otherwise required under section 1023(d)(6) of this title.
+<b>1986</b>—Subsec. (a)(2)(A). Pub. L. 99–272 struck out provision permitting the Secretary to waive or modify the requirements of section 1023(d)(6) of this title if he found that the interests of the plan participants were not harmed and the expense of compliance was not justified by the needs of the participants, the Pension Benefit Guaranty Corporation, and the Department of Labor for some portion or all of the information otherwise required under section 1023(d)(6) of this title.
 
 #### Effective Date of 2008 Amendment
 

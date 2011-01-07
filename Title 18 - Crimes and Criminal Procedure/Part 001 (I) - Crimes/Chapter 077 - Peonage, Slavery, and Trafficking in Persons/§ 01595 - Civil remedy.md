@@ -12,7 +12,7 @@
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–457, §221(2)(A), struck out “of section 1589, 1590, or 1591” after “victim of a violation” and inserted “(or whoever knowingly benefits, financially or by receiving anything of value from participation in a venture which that person knew or should have known has engaged in an act in violation of this chapter)” after “perpetrator”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–457, §221(2)(A), struck out “of section 1589, 1590, or 1591” after “victim of a violation” and inserted “(or whoever knowingly benefits, financially or by receiving anything of value from participation in a venture which that person knew or should have known has engaged in an act in violation of this chapter)” after “perpetrator”.
 
 Subsec. (c). Pub. L. 110–457, §221(2)(B), added subsec. (c).
 

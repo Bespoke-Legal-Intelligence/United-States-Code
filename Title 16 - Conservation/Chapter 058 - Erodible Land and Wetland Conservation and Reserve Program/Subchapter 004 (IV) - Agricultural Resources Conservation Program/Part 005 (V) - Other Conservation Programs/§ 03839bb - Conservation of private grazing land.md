@@ -142,9 +142,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–246, §2601, substituted “2012” for “2007”.
+<b>2008</b>—Subsec. (e). Pub. L. 110–246, §2601, substituted “2012” for “2007”.
 
-2002—Pub. L. 107–171 amended section catchline and text generally. Prior to amendment, section required the Secretary to establish conservation farm option pilot programs for producers of wheat, feed grains, cotton, and rice.
+<b>2002</b>—Pub. L. 107–171 amended section catchline and text generally. Prior to amendment, section required the Secretary to establish conservation farm option pilot programs for producers of wheat, feed grains, cotton, and rice.
 
 #### Effective Date of 2008 Amendment
 

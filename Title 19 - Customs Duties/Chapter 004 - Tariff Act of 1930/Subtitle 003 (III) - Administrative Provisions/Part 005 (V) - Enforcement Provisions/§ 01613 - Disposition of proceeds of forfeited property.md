@@ -24,23 +24,17 @@ In any judicial or administrative proceeding to forfeit property under any law e
 
 (June 17, 1930, ch. 497, title IV, §613, 46 Stat. 756; June 25, 1938, ch. 679, §29, 52 Stat. 1089; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 95–410, title I, §110(c), Oct. 3, 1978, 92 Stat. 896; Pub. L. 98–473, title II, §§316, 321, Oct. 12, 1984, 98 Stat. 2054, 2056; Pub. L. 98–573, title II, §213(a)(10), Oct. 30, 1984, 98 Stat. 2986; Pub. L. 99–570, title III, §3124, Oct. 27, 1986, 100 Stat. 3207–88.)
 
-#### References in Text
-
-The customs laws, referred to in text, are classified generally to this title.
-
-The navigation laws, referred to in text, are classified generally to Title 33, Navigation and Navigable Waters.
-
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §613, 42 Stat. 986. That section was superseded by section 613 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Provisions authorizing applications to the Secretary of the Treasury for remission of forfeitures and restoration of the proceeds of sales, and provisions substantially the same as those in this section concerning the granting of such applications, were contained in R.S. §3078. R.S. §3079 provided that if no application was made within three months the proceeds should be distributed in the same manner as if the property had been condemned and sold under a decree of court. R.S. §3090, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 248, also specified how the proceeds of fines, penalties, and forfeitures incurred under customs laws, should be applied and distributed. All these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+Provisions authorizing applications to the Secretary of the Treasury for remission of forfeitures and restoration of the proceeds of sales, and provisions substantially the same as those in this section concerning the granting of such applications, were contained in R.S. §3078. R.S. §3079 provided that if no application was made within three months the proceeds should be distributed in the same manner as if the property had been condemned and sold under a decree of court. R.S.§3090, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 248, also specified how the proceeds of fines, penalties, and forfeitures incurred under customs laws, should be applied and distributed. All these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 #### Amendments
 
-1986—Subsecs. (c), (d). Pub. L. 99–570 added subsecs. (c) and (d).
+<b>1986</b>—Subsecs. (c), (d). Pub. L. 99–570 added subsecs. (c) and (d).
 
-1984—Subsec. (a). Pub. L. 98–573, §213(a)(10)(A), and Pub. L. 98–473, §321, inserted reference to aircraft in provisions preceding par. (1).
+<b>1984</b>—Subsec. (a). Pub. L. 98–573, §213(a)(10)(A), and Pub. L. 98–473, §321, inserted reference to aircraft in provisions preceding par. (1).
 
 Subsec. (a)(3). Pub. L. 98–573, §213(a)(10)(B), substituted “in the general fund of the Treasury of the United States” for “with the Treasurer of the United States as a customs or navigation fine”.
 
@@ -48,13 +42,13 @@ Pub. L. 98–473, §316, which directed the substitution of “The residue shall
 
 Subsec. (b). Pub. L. 98–573, §213(a)(10)(C), inserted “or subsection (a)(1), (a)(3), or (a)(4) of section 1613b of this title”.
 
-1978—Subsec. (a). Pub. L. 95–410, §110(c)(1), designated existing provisions as subsec. (a) and substituted “Except as provided in subsection (b) of this section, any” for “Any”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–410, §110(c)(1), designated existing provisions as subsec. (a) and substituted “Except as provided in subsection (b) of this section, any” for “Any”.
 
 Subsec. (b). Pub. L. 95–410, §110(c)(2), added subsec. (b).
 
-1970—Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector.
+<b>1970</b>—Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector.
 
-1938—Act June 25, 1938, inserted “and” at end of subd. (2), struck out subd. (3), and redesignated subd. (4) as (3).
+<b>1938</b>—Act June 25, 1938, inserted “and” at end of subd. (2), struck out subd. (3), and redesignated subd. (4) as (3).
 
 #### Effective Date of 1984 Amendment
 
@@ -70,9 +64,9 @@ Amendment by act June 25, 1938, effective on thirtieth day following June 25, 19
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 
 Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in section 3 of Title 14. See section 108 of Title 49, Transportation.
 

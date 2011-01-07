@@ -16,7 +16,7 @@ Provisions of par. (b) authorizing the Secretary of the Interior to employ “wi
 
 #### Amendments
 
-1949—Par. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+<b>1949</b>—Par. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
 #### Repeals
 

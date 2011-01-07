@@ -44,3 +44,5 @@ Pub. L. 106–386, div. B, title II, §1207, Oct. 28, 2000, 114 Stat. 1507, dire
 
 Pub. L. 106–386, div. B, title II, §1208, Oct. 28, 2000, 114 Stat. 1508, directed the Secretary of Labor, in consultation with the Attorney General, to conduct a national study to identify the impact of State unemployment compensation laws on victims of domestic violence when the victim's separation from employment is a direct result of the domestic violence and to submit to Congress a report and recommendations based on that study not later than 1 year after Oct. 28, 2000.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

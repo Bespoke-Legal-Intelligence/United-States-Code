@@ -44,11 +44,11 @@ For purposes of this section, a securitization partnership (as defined in sectio
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–135, §403(bb)(1), inserted “with respect to such distribution” before period at end.
+<b>2005</b>—Subsec. (a). Pub. L. 109–135, §403(bb)(1), inserted “with respect to such distribution” before period at end.
 
 Subsec. (b). Pub. L. 109–135, §403(bb)(2), reenacted heading without change and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “In the case of a distribution of property to a partner, a partnership, with respect to which the election provided in section 754 is in effect or unless there is a substantial basis reduction, shall—”.
 
-2004—Pub. L. 108–357, §833(c)(5)(A), substituted “Adjustment to basis of undistributed partnership property where section 754 election or substantial basis reduction” for “Optional adjustment to basis of undistributed partnership property” in section catchline.
+<b>2004</b>—Pub. L. 108–357, §833(c)(5)(A), substituted “Adjustment to basis of undistributed partnership property where section 754 election or substantial basis reduction” for “Optional adjustment to basis of undistributed partnership property” in section catchline.
 
 Subsec. (a). Pub. L. 108–357, §833(c)(1), inserted “or unless there is a substantial basis reduction” before period at end.
 
@@ -58,7 +58,7 @@ Subsec. (d). Pub. L. 108–357, §833(c)(3), added subsec. (d).
 
 Subsec. (e). Pub. L. 108–357, §833(c)(4), added subsec. (e).
 
-1984—Subsec. (b). Pub. L. 98–369 inserted at end “Paragraph (1)(B) shall not apply to any distributed property which is an interest in another partnership with respect to which the election provided in section 754 is not in effect.”
+<b>1984</b>—Subsec. (b). Pub. L. 98–369 inserted at end “Paragraph (1)(B) shall not apply to any distributed property which is an interest in another partnership with respect to which the election provided in section 754 is not in effect.”
 
 #### Effective Date of 2005 Amendment
 

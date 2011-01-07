@@ -10,21 +10,13 @@ In addition to the broadcast signals that subscribers may receive under section�
 
 #### (b) Limitations
 
-#### (1) Analog service limited to subscribers taking local-into-local service
+#### (1) Service limited to subscribers taking local-into-local service
 
-&emsp;With respect to a signal that originates as an analog signal of a network station, this section shall apply only to retransmissions to subscribers of a satellite carrier who receive retransmissions of a signal that originates as an analog signal of a local network station from that satellite carrier pursuant to section 338 of this title.
+&emsp;This section shall apply only to retransmissions to subscribers of a satellite carrier who receive retransmissions of a signal from that satellite carrier pursuant to section 338 of this title.
 
-#### (2) Digital service limitations
+#### (2) Service limitations
 
-&emsp;With respect to a signal that originates as a digital signal of a network station, this section shall apply only if—
-
-&emsp;&emsp;(A) the subscriber receives from the satellite carrier pursuant to section 338 of this title the retransmission of the digital signal of a network station in the subscriber's local market that is affiliated with the same television network; and
-
-&emsp;&emsp;(B) either—
-
-&emsp;&emsp;&emsp;(i) the retransmission of the local network station occupies at least the equivalent bandwidth as the digital signal retransmitted pursuant to this section; or
-
-&emsp;&emsp;&emsp;(ii) the retransmission of the local network station is comprised of the entire bandwidth of the digital signal broadcast by such local network station.
+&emsp;A satellite carrier may retransmit to a subscriber in high definition format the signal of a station determined by the Commission to be significantly viewed under subsection (a) only if such carrier also retransmits in high definition format the signal of a station located in the local market of such subscriber and affiliated with the same network whenever such format is available from such station.
 
 #### (3) Limitation not applicable where no network affiliates
 
@@ -56,7 +48,7 @@ In addition to the broadcast signals that subscribers may receive under section�
 
 &emsp;In addition to cable operators and television broadcast station licensees, the Commission shall permit a satellite carrier to petition for decisions and orders—
 
-&emsp;&emsp;(A) by which stations may be added to those that are eligible for retransmission under subsection (a) of this section, and by which communities may be added in which such stations are eligible for such retransmission; and
+&emsp;&emsp;(A) by which stations may be added to those that are eligible for retransmission under subsection (a) of this section, and by which communities may be added in whichsuch stations are eligible for such retransmission; and
 
 &emsp;&emsp;(B) by which network nonduplication or syndicated exclusivity regulations are applied to the retransmission in accordance with subsection (e) of this section.
 
@@ -78,7 +70,7 @@ In addition to the broadcast signals that subscribers may receive under section�
 
 #### (2) Limitation
 
-&emsp;Nothing in this subsection or Commission regulations shall permit the application of network nonduplication or syndicated exclusivity regulations to the retransmission of distant signals of network stations that are carried by a satellite carrier pursuant to a statutory license under section 119(a)(2)(A) or (B) of title 17, with respect to persons who reside in unserved households, under <sup>3</sup> 119(a)(4)(A), or under section 119(a)(12), of such title.
+&emsp;Nothing in this subsection or Commission regulations shall permit the application of network nonduplication or syndicated exclusivity regulations to the retransmission of distant signals of network stations that are carried by a satellite carrier pursuant to a statutory license under section 119(a)(2)(A) or (B) of title 17, with respect to persons who reside in unserved households, under <sup>3</sup> 119(a)(4)(A),<sup>4</sup> or under section 119(a)(12),<sup>4</sup> of such title.
 
 #### (f) Enforcement
 
@@ -122,7 +114,7 @@ Each satellite carrier that proposes to commence the retransmission of a station
 
 #### (2) Unified negotiations
 
-&emsp;In revising its regulations as required by paragraph (1), the Commission shall provide that any such station shall conduct a unified negotiation for the entire portion of its local market for which retransmission consent is elected.
+&emsp;In revising its regulations as required by paragraph (1), the Commission shall providethat any such station shall conduct a unified negotiation for the entire portion of its local market for which retransmission consent is elected.
 
 #### (3) Additional provisions
 
@@ -170,25 +162,41 @@ As used in this section:
 
 &emsp;&emsp;(B) a satellite community, as determined under such rules, regulations, and authorizations (or revisions thereof) as the Commission may prescribe in implementing the requirements of this section.
 
-#### (4) Bandwidth
+(June 19, 1934, ch. 652, title III, §340, as added Pub. L. 108–447, div. J, title IX \[title II, §202(a)\], Dec. 8, 2004, 118 Stat. 3409; amended Pub. L. 111–175, title II, §§203(a), 204(c), May 27, 2010, 124 Stat. 1245, 1250.)
 
-&emsp;The terms “equivalent bandwidth” and “entire bandwidth” shall be defined by the Commission by regulation, except that this paragraph shall not be construed—
+#### References in Text
 
-&emsp;&emsp;(A) to prevent a satellite operator from using compression technology;
+Section 119(a)(4)(A) and section 119(a)(12) of title 17, referred to in subsec. (e)(2), were redesignated as sections 119(a)(3)(A) and 119(a)(11) of title 17, respectively, by Pub. L. 111–175, title I, §102(h)(1)(B), May 27, 2010, 124 Stat. 1224.
 
-&emsp;&emsp;(B) to require a satellite operator to use the identical bandwidth or bit rate as thelocal or distant broadcaster whose signal it is retransmitting;
+#### Amendments
 
-&emsp;&emsp;(C) to require a satellite operator to use the identical bandwidth or bit rate for a local network station as it does for a distant network station;
+<b>2010</b>—Subsec. (b)(1), (2). Pub. L. 111–175, §203(a), amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) related to limitations for certain analog and digital services, respectively.
 
-&emsp;&emsp;(D) to affect a satellite operator's obligations under subsection (a)(1) of this section; or
+Subsec. (i)(4). Pub. L. 111–175, §204(c), struck out par. (4). Text read as follows: “The terms ‘equivalent bandwidth’ and ‘entire bandwidth’ shall be defined by the Commission by regulation, except that this paragraph shall not be construed—
 
-&emsp;&emsp;(E) to affect the definitions of “program related” and “primary video”.
+&emsp;“(A) to prevent a satellite operator from using compression technology;
 
-(June 19, 1934, ch. 652, title III, §340, as added Pub. L. 108–447, div. J, title IX \[title II, §202(a)\], Dec. 8, 2004, 118 Stat. 3409.)
+&emsp;“(B) to require a satellite operator to use the identical bandwidth or bit rate as the local or distant broadcaster whose signal it is retransmitting;
+
+&emsp;“(C) to require a satellite operator to use the identical bandwidth or bit rate for a local network station as it does for a distant network station;
+
+&emsp;“(D) to affect a satellite operator's obligations under subsection (a)(1) of this section; or
+
+&emsp;“(E) to affect the definitions of ‘program related’ and ‘primary video’.”
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–175 effective Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as a note under section 111 of Title 17, Copyrights.
+
+#### Rulemaking Required
+
+Pub. L. 111–175, title II, §203(b), May 27, 2010, 124 Stat. 1245, provided that: “Within 270 days after the date of the enactment of this Act \[deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section111 of Title 17, Copyrights\], the Federal Communications Commission shall take all actions necessary to promulgate a rule to implement the amendments made by subsection (a) \[amending this section\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “paragraphs”.</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be followed by “section”.</i>
+
+<i><sup>4</sup></i><i> See References in Text note below.</i>
 

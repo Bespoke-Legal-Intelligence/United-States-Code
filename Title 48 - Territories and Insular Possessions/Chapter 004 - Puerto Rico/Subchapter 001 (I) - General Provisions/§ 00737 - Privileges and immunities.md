@@ -6,11 +6,11 @@ The rights, privileges, and immunities of citizens of the United States shall be
 
 #### Amendments
 
-1950—Act July 3, 1950, repealed all of section relating to bill of rights and restrictions except last paragraph.
+<b>1950</b>—Act July 3, 1950, repealed all of section relating to bill of rights and restrictions except last paragraph.
 
-1947—Act Aug. 5, 1947, inserted privileges and immunities provisions.
+<b>1947</b>—Act Aug. 5, 1947, inserted privileges and immunities provisions.
 
-1934—Act Mar. 2, 1934, repealed so much of former provisions of twentieth paragraph of this section making it unlawful to import, manufacture, sell or give away, or to expose for sale or gift any intoxicating liquors. The penalty formerly contained in such paragraph, related only to violation of such provisions.
+<b>1934</b>—Act Mar. 2, 1934, repealed so much of former provisions of twentieth paragraph of this section making it unlawful to import, manufacture, sell or give away, or to expose for sale or gift any intoxicating liquors. The penalty formerly contained in such paragraph, related only to violation of such provisions.
 
 #### Effective Date of 1950 Amendment
 

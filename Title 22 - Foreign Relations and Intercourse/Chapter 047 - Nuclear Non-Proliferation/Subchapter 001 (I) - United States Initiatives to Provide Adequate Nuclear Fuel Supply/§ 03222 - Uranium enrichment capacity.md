@@ -6,7 +6,7 @@ The Secretary of Energy is directed to initiate construction planning and design
 
 #### Amendments
 
-1998—Pub. L. 105–277 substituted “and the Secretary of State” for “, the Secretary of State, and the Director of the Arms Control and Disarmament Agency”.
+<b>1998</b>—Pub. L. 105–277 substituted “and the Secretary of State” for “, the Secretary of State, and the Director of the Arms Control and Disarmament Agency”.
 
 #### Effective Date of 1998 Amendment
 

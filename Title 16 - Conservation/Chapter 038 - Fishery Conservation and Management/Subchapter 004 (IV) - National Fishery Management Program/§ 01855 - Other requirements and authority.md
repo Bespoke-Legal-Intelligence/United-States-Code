@@ -56,7 +56,7 @@
 
 &emsp;(B) shall, except as provided in subparagraph (C), remain in effect for not more than 180 days after the date of publication, and may be extended by publication in the Federal Register for one additional period of not more than 186 days, provided the public has had an opportunity to comment on the emergency regulation or interim measure, and, in the case of a Council recommendation for emergency regulations or interim measures, the Council is actively preparing a fishery management plan, plan amendment, or proposed regulations to address the emergency or overfishing on a permanent basis;
 
-&emsp;(C) that responds to a public health emergency or an oil spill may remain in effect until the circumstances that created the emergency no longer exist, <i>Provided</i>, That the public has an opportunity to comment after the regulation is published, and, in the case of a public health emergency, the Secretary of Health and Human Services concurs with the Secretary's action; and
+&emsp;(C) that responds to a public health emergency or an oil spill may remain in effect until the circumstances that created the emergencyno longer exist, <i>Provided</i>, That the public has an opportunity to comment after the regulation is published, and, in the case of a public health emergency, the Secretary of Health and Human Services concurs with the Secretary's action; and
 
 &emsp;(D) may be terminated by the Secretary at an earlier date by publication in the Federal Register of a notice of termination, except for emergency regulations or interim measures promulgated under paragraph (2) in which case such early termination may be made only upon the agreement of the Secretary and the Council concerned.
 
@@ -98,11 +98,11 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 (1) Within 6 months after October 11, 1996, the Secretary shall establish an exclusive central registry system (which may be administered on a regional basis) for limited access system permits established under section 1853(b)(6) of this title or other Federal law, including limited access privileges, which shall provide for the registration of title to, and interests in, such permits, as well as for procedures for changes in the registration of title to such permits upon the occurrence of involuntary transfers, judicial or nonjudicial foreclosure of interests, enforcement of judgments thereon, and related matters deemed appropriate by the Secretary. Such registry system shall—
 
-&emsp;(A) provide a mechanism for filing notice of a nonjudicial foreclosure or enforcement of a judgment by which the holder of a senior security interest acquires or conveys ownership of a permit, and in the event of a nonjudicial foreclosure, by which the interests of the holders of junior security interests are released when the permit is transferred;
+&emsp;(A) provide a mechanism for filing notice of a nonjudicial foreclosure or enforcement of a judgment by which the holder of a senior security interest acquires or conveys ownership of a permit, and in the event of a nonjudicialforeclosure, by which the interests of the holders of junior security interests are released when the permit is transferred;
 
 &emsp;(B) provide for public access to the information filed under such system, notwithstanding section 1881a(b) of this title; and
 
-&emsp;(C) provide such notice and other requirements of applicable law that the Secretarydeems necessary for an effective registry system.
+&emsp;(C) provide such notice and other requirements of applicable law that the Secretary deems necessary for an effective registry system.
 
 (2) The Secretary shall promulgate such regulations as may be necessary to carry out this subsection, after consulting with the Councils and providing an opportunity for public comment. The Secretary is authorized to contract with non-Federal entities to administer the central registry system.
 
@@ -160,7 +160,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 #### (C) Allocations to entities
 
-&emsp;&emsp;Each entity eligible to participate in the program shall be authorized under the program to harvest annually the same percentage of each species allocated to the program under subparagraph (B) that it was authorized by the Secretary to harvest of such species annually as of March 1, 2006, except to the extent that its allocation is adjustedunder subparagraph (H). Such allocation shall include all processing rights and any other rights and privileges associated with such allocations as of March 1, 2006. Voluntary transfers by and among eligible entities shall be allowed, whether before or after harvesting. Notwithstanding the first sentence of this subparagraph, seven-tenths of one percent of the total allowable catch, guideline harvest level, or other annual catch limit, within the amount allocated to the program by subclause (I) or subclause (II) of subparagraph (B)(ii), shall be allocated among the eligible entities by the panel established in subparagraph (G), or allocated by the Secretary based on the nontarget needs of eligible entities in the absence of a panel decision.
+&emsp;&emsp;Each entity eligible to participate in the program shall be authorized under the program to harvest annually the same percentage of each species allocated to the program under subparagraph (B) that it was authorized by the Secretary to harvest of such species annually as of March 1, 2006, except to the extent that its allocation is adjusted under subparagraph (H). Such allocation shall include all processing rights and any other rights and privileges associated with such allocations as of March 1, 2006. Voluntary transfers by and among eligible entities shall be allowed, whether before or after harvesting. Notwithstanding the first sentence of this subparagraph, seven-tenths of one percent of the total allowable catch, guideline harvest level, or other annual catch limit, within the amount allocated to the program by subclause (I) or subclause (II) of subparagraph (B)(ii), shall be allocated among the eligible entities by the panel established in subparagraph (G), or allocated by the Secretary based on the nontarget needs of eligible entities in the absence of a panel decision.
 
 #### (D) Eligible villages
 
@@ -298,7 +298,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 &emsp;(ii) meet criteria developed by the Western Pacific Council, approved by the Secretary and published in the Federal Register;
 
-&emsp;(iii) consist of community residents who are descended from the aboriginal people indigenous to the area who conducted commercial or subsistence fishing using traditional fishingpractices in the waters of the Western Pacific region;
+&emsp;(iii) consist of community residents who are descended from the aboriginal people indigenous to the area who conducted commercial or subsistence fishing using traditional fishing practices in the waters of the Western Pacific region;
 
 &emsp;(iv) not have previously developed harvesting or processing capability sufficient to support substantial participation in fisheries in the Western Pacific Regional Fishery Management Area; and
 
@@ -348,9 +348,9 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 #### (2) Cure
 
-&emsp;If the Secretary makes a determination that such actions are not consistent with the plan, the Secretary shall, in consultation with the Council, and after notifying the affected State, develop and implement measures to cure the inconsistency pursuant to section 1856(b) of this title.
+&emsp;If the Secretary makes a determination that such actions are not consistent with the plan,the Secretary shall, in consultation with the Council, and after notifying the affected State, develop and implement measures to cure the inconsistency pursuant to section 1856(b) of this title.
 
-(Pub. L. 94–265, title III, §305, Apr. 13, 1976, 90 Stat. 354; Pub. L. 96–561, title II, §235, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, §8, Jan. 12, 1983, 96 Stat. 2490; Pub. L. 101–627, title I, §§110(b)(2), 111(a)(1), (b), Nov. 28, 1990, 104 Stat. 4451, 4452; Pub. L. 104–297, title I, §§110(a)–(d), 111(a), Oct. 11, 1996, 110 Stat. 3587–3590, 3592; Pub. L. 109–241,title IV, §416(a), July 11, 2006, 120 Stat. 540; Pub. L. 109–479, §3(d)(3), title I, §§108–110, 116(b)(1), Jan. 12, 2007, 120 Stat. 3578, 3594–3596, 3606.)
+(Pub. L. 94–265, title III, §305, Apr. 13, 1976, 90 Stat. 354; Pub. L. 96–561, title II, §235, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, §8, Jan. 12, 1983, 96 Stat. 2490; Pub. L. 101–627, title I, §§110(b)(2), 111(a)(1), (b), Nov. 28, 1990, 104 Stat. 4451, 4452; Pub. L. 104–297, title I, §§110(a)–(d), 111(a), Oct. 11, 1996, 110 Stat. 3587–3590, 3592; Pub. L. 109–241, title IV, §416(a), July 11, 2006, 120 Stat. 540; Pub. L. 109–479, §3(d)(3), title I, §§108–110, 116(b)(1), Jan. 12, 2007, 120 Stat. 3578, 3594–3596, 3606.)
 
 #### References in Text
 
@@ -366,7 +366,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (h)(3), is classified 
 
 #### Amendments
 
-2007—Subsec. (c)(3)(B). Pub. L. 109–479, §108(a), which directed substitution of “186 days,” for “180 days,” the second time appearing, was executed by making the substitution the only place that phrase appeared, to reflect the probable intent of Congress.
+<b>2007</b>—Subsec. (c)(3)(B). Pub. L. 109–479, §108(a), which directed substitution of “186 days,” for “180 days,” the second time appearing, was executed by making the substitution the only place that phrase appeared, to reflect the probable intent of Congress.
 
 Subsec. (c)(3)(D). Pub. L. 109–479, §108(b), inserted “or interim measures” after “emergency regulations”.
 
@@ -384,9 +384,9 @@ Subsec. (j). Pub. L. 109–479, §109, added subsec. (j).
 
 Subsec. (k). Pub. L. 109–479, §110, added subsec. (k).
 
-2006—Subsec. (i)(1). Pub. L. 109–241 added par. (1) and struck out former par. (1) which related to the western Alaska community development quota program.
+<b>2006</b>—Subsec. (i)(1). Pub. L. 109–241 added par. (1) and struck out former par. (1) which related to the western Alaska community development quota program.
 
-1996—Pub. L. 104–297, §110(a)(1), (3), substituted “Other requirements and authority” for “Implementation of fishery management plans” as section catchline.
+<b>1996</b>—Pub. L. 104–297, §110(a)(1), (3), substituted “Other requirements and authority” for “Implementation of fishery management plans” as section catchline.
 
 Subsec. (a). Pub. L. 104–297, §110(a)(1), (3), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary shall promulgate each regulation that is necessary to carry out a plan or amendment—
 
@@ -424,13 +424,13 @@ Subsecs. (g), (h). Pub. L. 104–297, §110(d), added subsecs. (g) and (h).
 
 Subsec. (i). Pub. L. 104–297, §111(a), added subsec. (i).
 
-1990—Subsec. (a). Pub. L. 101–627, §§110(b)(2), 111(a)(1)(A), redesignated subsec. (c) as (a) and substituted “section 1854(c) or (f)(3)” for “section 1854(c)”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–627, §§110(b)(2), 111(a)(1)(A), redesignated subsec. (c) as (a) and substituted “section 1854(c) or (f)(3)” for “section 1854(c)”.
 
 Subsec. (b). Pub. L. 101–627, §111(a)(1)(A), (b), redesignated subsec. (d) as (b) and amended it generally. Prior to amendment, subsec. (b) read as follows: “Regulations promulgated by the Secretary under this chapter shall be subject to judicial review to the extent authorized by, and in accordance with, chapter 7 of title 5, if a petition for such review is filed within 30 days after the date on which the regulations are promulgated; except that (1) section 705 of such title is not applicable, and (2) the appropriate court shall only set aside any such regulation on a ground specified in section 706(2)(A), (B), (C), or (D) of such title.”
 
 Subsecs. (c) to (e), (g), (h). Pub. L. 101–627, §111(a)(1), redesignated subsecs. (e), (g), and (h) as (c), (d), and (e), respectively.
 
-1983—Subsec. (a). Pub. L. 97–453, §8(1), struck out subsec. (a) which had provided that, as soon as practicable after the Secretary approved pursuant to section 1854(a) and (b) of this title any fishery management plan or amendment or prepared pursuant to section 1854(c) of this title any fishery management plan or amendment, the Secretary was to publish a notice of availability of such plan or amendment and any regulations which he proposed to promulgate to implement such plan or amendment in the Federal Register, and that interested persons were to be afforded a period of not less than 45 days after such publication within which to submit in writing data, views, or comments on the plan or amendment, and on the proposed regulations.
+<b>1983</b>—Subsec. (a). Pub. L. 97–453, §8(1), struck out subsec. (a) which had provided that, as soon as practicable after the Secretary approved pursuant to section 1854(a) and (b) of this title any fishery management plan or amendment or prepared pursuant to section 1854(c) of this title any fishery management plan or amendment, the Secretary was to publish a notice of availability of such plan or amendment and any regulations which he proposed to promulgate to implement such plan or amendment in the Federal Register, and that interested persons were to be afforded a period of not less than 45 days after such publication within which to submit in writing data, views, or comments on the plan or amendment, and on the proposed regulations.
 
 Subsec. (b). Pub. L. 97–453, §8(1), struck out subsec. (b) which had provided that the Secretary might schedule a hearing, in accordance with section 553 of title 5, on any fishery management plan, any amendment to any such plan, any regulations to implement any such plan or amendment and that if any such hearing was scheduled, the Secretary could postpone the effective date of the regulations proposed to implement such plan or amendment, or take such other action as he deemed appropriate to preserve the rights or status of any person, pending its outcome.
 
@@ -442,7 +442,7 @@ Subsec. (f). Pub. L. 97–453, §8(4), struck out subsec. (f) which had directed
 
 Subsec. (h). Pub. L. 97–453, §8(5), added subsec. (h).
 
-1980—Subsec. (a). Pub. L. 96–561 inserted “a notice of availability of” after “Federal Register (A)”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–561 inserted “a notice of availability of” after “Federal Register (A)”.
 
 #### Effective Date of 2007 Amendment
 

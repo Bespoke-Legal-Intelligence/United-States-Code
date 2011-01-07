@@ -36,7 +36,7 @@ The Secretary of the Interior shall enforce the provisions of this section and s
 
 #### (e) Forfeiture
 
-All birds, fish, or other animals shot or captured contrary to the provisions of this section, or of any regulation issued hereunder, and all guns, aircraft, and other equipment used to aid in the shooting, attempting to shoot, capturing, or harassing of any bird, fish, or other animal in violation of this section or of any regulation issued hereunder shall be subject to forfeiture to the United States.
+All birds, fish, or other animals shot or captured contrary to the provisions of this section, or of any regulation issued hereunder, and all guns, aircraft, and other equipment used to aidin the shooting, attempting to shoot, capturing, or harassing of any bird, fish, or other animal in violation of this section or of any regulation issued hereunder shall be subject to forfeiture to the United States.
 
 #### (f) Certain customs laws applied
 
@@ -44,13 +44,9 @@ All provisions of law relating to the seizure, forfeiture, and condemnation of a
 
 (Aug. 8, 1956, ch. 1036, §13, as added Pub. L. 92–159, §1, Nov. 18, 1971, 85 Stat. 480; amended Pub. L. 92–502, Oct. 18, 1972, 86 Stat. 905; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
-#### References in Text
-
-The customs laws, referred to in subsec. (f), are classified generally to Title 19, Customs Duties.
-
 #### Amendments
 
-1972—Subsecs. (d) to (f). Pub. L. 92–502 added subsecs. (d) to (f).
+<b>1972</b>—Subsecs. (d) to (f). Pub. L. 92–502 added subsecs. (d) to (f).
 
 #### Change of Name
 

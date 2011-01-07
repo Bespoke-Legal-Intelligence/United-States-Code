@@ -16,5 +16,5 @@ This section requires that the Secretary make available information maintained i
 
 #### Amendments
 
-1989—Pub. L. 101–225 substituted “Secretary of Transportation, the Secretary” for “Secretary, the Secretary of Transportation”.
+<b>1989</b>—Pub. L. 101–225 substituted “Secretary of Transportation, the Secretary” for “Secretary, the Secretary of Transportation”.
 

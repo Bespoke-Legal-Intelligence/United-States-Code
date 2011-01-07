@@ -78,13 +78,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (f). Pub. L. 110–246, §8204(a)(1), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The terms ‘plant’ and ‘plants’ mean any wild member of the plant kingdom, including roots, seeds, and other parts thereof (but excluding common food crops and cultivars) which is indigenous to any State and which is either (A) listed on an appendix to the Convention on International Trade in Endangered Species of Wild Fauna and Flora, or (B) listed pursuant to any State law that provides for the conservation of species threatened with extinction.”
+<b>2008</b>—Subsec. (f). Pub. L. 110–246, §8204(a)(1), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The terms ‘plant’ and ‘plants’ mean any wild member of the plant kingdom, including roots, seeds, and other parts thereof (but excluding common food crops and cultivars) which is indigenous to any State and which is either (A) listed on an appendix to the Convention on International Trade in Endangered Species of Wild Fauna and Flora, or (B) listed pursuant to any State law that provides for the conservation of species threatened with extinction.”
 
 Subsec. (h). Pub. L. 110–246, §8204(a)(2), substituted “plants, the term also means” for “plants the term means”.
 
 Subsec. (j). Pub. L. 110–246, §8204(a)(3), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “The term ‘taken’ means captured, killed, or collected.”
 
-2003—Subsecs. (g) to (k). Pub. L. 108–191 added subsec. (g) and redesignated former subsecs. (g) to (j) as (h) to (k), respectively.
+<b>2003</b>—Subsecs. (g) to (k). Pub. L. 108–191 added subsec. (g) and redesignated former subsecs. (g) to (j) as (h) to (k), respectively.
 
 #### Effective Date of 2008 Amendment
 

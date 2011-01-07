@@ -34,7 +34,7 @@ Except as provided in this section, a cardholder incurs no liability from the un
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–221 revised existing provisions into pars. (1) and (2) and, as so revised, in par. (1) made changes in structure and phraseology and revised means of notice and verification, and in par. (2) made changes in phraseology.
+<b>1980</b>—Subsec. (a). Pub. L. 96–221 revised existing provisions into pars. (1) and (2) and, as so revised, in par. (1) made changes in structure and phraseology and revised means of notice and verification, and in par. (2) made changes in phraseology.
 
 #### Effective Date of 1980 Amendment
 

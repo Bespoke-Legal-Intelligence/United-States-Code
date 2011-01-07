@@ -4,7 +4,7 @@ Whoever, being an officer, director, agent or employee of, or connected in any c
 
 As used in this section, the term “national bank” is synonymous with “national banking association”; “member bank” means and includes any national bank, state bank, or bank and trust company which has become a member of one of the Federal Reserve banks; “insured bank” includes any bank, banking association, trust company, savings bank, or other banking institution, the deposits of which are insured by the Federal Deposit Insurance Corporation; and the term “branch or agency of a foreign bank” means a branch or agency described in section 20(9) of this title. For purposes of this section, the term “depository institution holding company” has the meaning given such term in section 3 of the Federal Deposit Insurance Act.
 
-(June 25, 1948, ch. 645, 62 Stat. 729; Pub. L. 101–73, title IX, §961(b), Aug. 9, 1989, 103 Stat. 499; Pub. L. 101–647, title XXV, §§2504(b), 2595(a)(1), 2597(f), Nov. 29, 1990, 104 Stat. 4861, 4906, 4909; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §§601(f)(1), 606(a), Oct. 11, 1996, 110 Stat. 3499, 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 729; Pub. L. 101–73, title IX, §961(b), Aug. 9, 1989, 103 Stat. 499; Pub. L. 101–647, title XXV, §§2504(b), 2595(a)(1), 2597(f), Nov. 29, 1990, 104 Stat. 4861, 4906, 4909; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994,108 Stat. 2147; Pub. L. 104–294, title VI, §§601(f)(1), 606(a), Oct. 11, 1996, 110 Stat. 3499, 3511.)
 
 #### Historical and Revision Notes
 
@@ -48,11 +48,11 @@ Section 3 of the Federal Deposit Insurance Act, referred to in text, is classifi
 
 #### Amendments
 
-1996—Pub. L. 104–294, in first par., substituted “Federal Reserve Act,” for “Federal Reserve Act,,” and “$1,000” for “$100”.
+<b>1996</b>—Pub. L. 104–294, in first par., substituted “Federal Reserve Act,” for “Federal Reserve Act,,” and “$1,000” for “$100”.
 
-1994—Pub. L. 103–322, in first par., substituted “fined under this title” for “fined not more than $1,000” after “he shall be”.
+<b>1994</b>—Pub. L. 103–322, in first par., substituted “fined under this title” for “fined not more than $1,000” after “he shall be”.
 
-1990—Pub. L. 101–647, §2597(f)(1), in first par., directed substitution of “national bank, insured bank, branch or agency of a foreign bank, or organization operating under section 25 or section 25(a) of the Federal Reserve Act,” for “national bank, or insured bank” which was executed by making the substitution for “national bank or insured bank” to reflect the probable intent of Congress, and inserted “insured bank, branch, agency, or organization” after “receiver of a national bank,”, “, branch, agency, or organization” after “misapplies any of the moneys, funds or credits of such bank”, and “branch, agency, or organization” after “custody or care of such bank,”.
+<b>1990</b>—Pub. L. 101–647, §2597(f)(1), in first par., directed substitution of “national bank, insured bank, branch or agency of a foreign bank, or organization operating under section 25 or section 25(a) of the Federal Reserve Act,” for “national bank, or insured bank” which was executed by making the substitution for “national bank or insured bank” to reflect the probable intent of Congress, and inserted “insured bank, branch, agency, or organization” after “receiver of a national bank,”, “, branch, agency, or organization” after “misapplies any of the moneys, funds or credits of such bank”, and “branch, agency, or organization” after “custody or care of such bank,”.
 
 Pub. L. 101–647, §2595(a)(1)(A), (B), in first par., inserted “depository institution holding company,” after “Federal Reserve Bank, member bank,” and “or holding company” after “such bank” in two places.
 
@@ -62,7 +62,7 @@ Pub. L. 101–647, §2597(f)(2), in second par., struck out “and” after “o
 
 Pub. L. 101–647, §2595(a)(1)(C), in second par., inserted at end “For purposes of this section, the term ‘depository institution holding company’ has the meaning given such term in section 3 of the Federal Deposit Insurance Act.”
 
-1989—Pub. L. 101–73, in first par., substituted “$1,000,000” for “$5,000” and “20 years” for “five years”.
+<b>1989</b>—Pub. L. 101–73, in first par., substituted “$1,000,000” for “$5,000” and “20 years” for “five years”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

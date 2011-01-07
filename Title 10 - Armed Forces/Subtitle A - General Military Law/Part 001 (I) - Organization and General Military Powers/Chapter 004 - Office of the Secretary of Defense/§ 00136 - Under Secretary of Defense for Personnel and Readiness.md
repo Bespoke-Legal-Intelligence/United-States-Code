@@ -16,9 +16,9 @@ A prior section 136 was renumbered section 138 of this title.
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–65, §1066(a)(1), inserted “advice and” after “by and with the”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–65, §1066(a)(1), inserted “advice and” after “by and with the”.
 
 Subsec. (d). Pub. L. 106–65, §923(a), added subsec. (d).
 
-1996—Subsec. (c). Pub. L. 104–106 substituted “Under Secretary of Defense (Comptroller)” for “Comptroller”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–106 substituted “Under Secretary of Defense (Comptroller)” for “Comptroller”.
 

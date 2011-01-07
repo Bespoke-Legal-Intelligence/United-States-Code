@@ -28,7 +28,7 @@ In order to encourage and facilitate participation by private enterprise to the 
 
 (1) There is hereby established an International Private Investment Advisory Council on Foreign Aid to be composed of such number of leading American business specialists as may be selected, from time to time, by the Administrator of the Agency for International Development for the purpose of carrying out the provisions of this subsection. The members of the Council shall serve at the pleasure of the Administrator, who shall designate one member to serve as Chairman.
 
-(2) It shall be the duty of the Council, at the request of the Administrator, to make recommendations to the Administrator with respect to particular aspects of programs and activities under this chapter where private enterprise can play a contributing role and to act as liaison for the Administrator to involve specific private enterprises in such programs and activities.
+(2) It shall be the duty of the Council, at the request of the Administrator, to make recommendations to the Administrator with respect to particular aspects of programs and activities under this chapter where private enterprise canplay a contributing role and to act as liaison for the Administrator to involve specific private enterprises in such programs and activities.
 
 (3) The members of the Advisory Council shall receive no compensation for their services but shall be entitled to reimbursement in accordance with section 5703 of title 5 for travel and other expenses incurred by them in the performance of their functions under this subsection.
 
@@ -56,23 +56,23 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
-1981—Subsec. (e)(2). Pub. L. 97–113 struck out par. (2) which required reports to Congress on Agency for International Development contracts over $100,000 entered into without competitive selection. See section 2394(a)(2)(F) of this title.
+<b>1981</b>—Subsec. (e)(2). Pub. L. 97–113 struck out par. (2) which required reports to Congress on Agency for International Development contracts over $100,000 entered into without competitive selection. See section 2394(a)(2)(F) of this title.
 
-1978—Subsec. (b)(5). Pub. L. 95–424 substituted “section 2151t” for “section 2161”.
+<b>1978</b>—Subsec. (b)(5). Pub. L. 95–424 substituted “section 2151t” for “section 2161”.
 
 Subsec. (e). Pub. L. 95–424 added subsec. (e).
 
-1967—Subsec. (c)(3). Pub. L. 90–137 substituted reference to section 5703 for former section 73b–2 of title 5.
+<b>1967</b>—Subsec. (c)(3). Pub. L. 90–137 substituted reference to section 5703 for former section 73b–2 of title 5.
 
-1966—Subsec. (b)(2) to (8). Pub. L. 89–583, §301(a)(1)–(3), added par. (2), redesignated former pars. (2) to (6) as (3) to (7), respectively, and added par. (8).
+<b>1966</b>—Subsec. (b)(2) to (8). Pub. L. 89–583, §301(a)(1)–(3), added par. (2), redesignated former pars. (2) to (6) as (3) to (7), respectively, and added par. (8).
 
 Subsec. (c). Pub. L. 89–583, §301(a)(4), substituted provisions relating to International Private Investment Advisory Council on Foreign Aid for former provisions relating to Advisory Committee on Private Enterprise in Foreign Aid.
 
-1964—Subsec. (c)(4). Pub. L. 88–633, §301(a), substituted “June 30, 1965” for “December 31, 1964”.
+<b>1964</b>—Subsec. (c)(4). Pub. L. 88–633, §301(a), substituted “June 30, 1965” for “December 31, 1964”.
 
 Subsec. (d). Pub. L. 88–633, §301(b), added subsec. (d).
 
-1963—Subsec. (b). Pub. L. 88–205, §301(a), substituted “to the maximum extent practicable” for “wherever appropriate” in par. (4), and added pars. (5) and (6).
+<b>1963</b>—Subsec. (b). Pub. L. 88–205, §301(a), substituted “to the maximum extent practicable” for “wherever appropriate” in par. (4), and added pars. (5) and (6).
 
 Subsec. (c). Pub. L. 88–205, §301(b), added subsec. (c).
 

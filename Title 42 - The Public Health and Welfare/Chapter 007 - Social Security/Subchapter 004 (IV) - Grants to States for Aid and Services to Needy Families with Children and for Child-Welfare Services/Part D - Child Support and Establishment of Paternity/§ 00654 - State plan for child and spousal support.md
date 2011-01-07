@@ -6,7 +6,7 @@ A State plan for child and spousal support must—
 
 &emsp;(2) provide for financial participation by the State;
 
-&emsp;(3) provide for the establishment or designation of a single and separate organizational unit, which meets such staffing and organizational requirements as the Secretary may by regulation prescribe, within the State to administer the plan;
+&emsp;(3) provide for the establishment or designation of a single and separate organizational unit, which meets such staffing and organizational requirements as the Secretary may byregulation prescribe, within the State to administer the plan;
 
 &emsp;(4) provide that the State will—
 
@@ -22,7 +22,7 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;&emsp;(ii) the custodial parent of such a child;
 
-&emsp;(5) provide that (A) in any case in which support payments are collected for an individual with respect to whom an assignment pursuant to section 608(a)(3) of this title is effective, such payments shall be made to the State for distribution pursuant to section 657 of this title and shall not be paid directly to the family, and the individual will be notified on amonthly basis (or on a quarterly basis for so long as the Secretary determines with respect to a State that requiring such notice on a monthly basis would impose an unreasonable administrative burden) of the amount of the support payments collected, and (B) in any case in which support payments are collected for an individual pursuant to the assignment made under section 1396k of this title, such payments shall be made to the State for distribution pursuant to section 1396k of this title, except that this clause shall not apply to such payments for any month after the month in which the individual ceases to be eligible for medical assistance;
+&emsp;(5) provide that (A) in any case in which support payments are collected for an individual with respect to whom an assignment pursuant to section 608(a)(3) of this title is effective, such payments shall be made to the State for distribution pursuant to section 657 of this title and shall not be paid directly to the family, and the individual will be notified on a monthly basis (or on a quarterly basis for so long as the Secretary determines with respect to a State that requiring such notice on a monthly basis would impose an unreasonable administrative burden) of the amount of the support payments collected, and (B) in any case in which support payments are collected for an individual pursuant to the assignment made under section 1396k of this title, such payments shall be made to the State for distribution pursuant to section 1396k of this title, except that this clause shall not apply to such payments for any month after the month in which the individual ceases to be eligible for medical assistance;
 
 &emsp;(6) provide that—
 
@@ -44,7 +44,7 @@ A State plan for child and spousal support must—
 
 &emsp;(7) provide for entering into cooperative arrangements with appropriate courts and law enforcement officials and Indian tribes or tribal organizations (as defined in subsections (e) and (<i>l</i>) of section 450b of title 25) (A) to assist the agency administering the plan, including the entering into of financial arrangements with such courts and officials in order to assure optimum results under such program, and (B) with respect to any other matters of common concern to such courts or officials and the agency administering the plan;
 
-&emsp;(8) provide that, for the purpose of establishing parentage, establishing, setting the amount of, modifying, or enforcing child support obligations, or making or enforcing a child custody or visitation determination, as defined in section 663(d)(1) of this title the agency administering the plan will establish a service to locate parents utilizing—
+&emsp;(8) provide that, for the purpose of establishing parentage, establishing, setting the amount of, modifying, or enforcing child support obligations, or making or enforcing achild custody or visitation determination, as defined in section 663(d)(1) of this title the agency administering the plan will establish a service to locate parents utilizing—
 
 &emsp;&emsp;(A) all sources of information and available records; and
 
@@ -62,7 +62,7 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;(D) in carrying out other functions required under a plan approved under this part; and
 
-&emsp;&emsp;(E) not later than March 1, 1997, in using the forms promulgated pursuant to section652(a)(11) of this title for income withholding, imposition of liens, and issuance of administrative subpoenas in interstate child support cases;
+&emsp;&emsp;(E) not later than March 1, 1997, in using the forms promulgated pursuant to section 652(a)(11) of this title for income withholding, imposition of liens, and issuance of administrative subpoenas in interstate child support cases;
 
 &emsp;(10) provide that the State will maintain a full record of collections and disbursements made under the plan and have an adequate reporting system;
 
@@ -100,7 +100,7 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;(B) shall enforce any such child support obligations which are owed by such an individual but are not being met—
 
-&emsp;&emsp;&emsp;(i) through an agreement with such individual to have specified amounts withheld from compensation otherwise payable tosuch individual and by submitting a copy of any such agreement to the State agency administering the unemployment compensation law; or
+&emsp;&emsp;&emsp;(i) through an agreement with such individual to have specified amounts withheld from compensation otherwise payable to such individual and by submitting a copy of any such agreement to the State agency administering the unemployment compensation law; or
 
 &emsp;&emsp;&emsp;(ii) in the absence of such an agreement, by bringing legal process (as defined in section 659(i)(5) of this title) to require the withholding of amounts from such compensation;
 
@@ -170,13 +170,13 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;(B) the certification by the State agency is furnished to the Secretary in such format, and accompanied by such supporting documentation, as the Secretary may require;
 
-&emsp;(32)(A) provide that any request for services under this part by a foreign reciprocating country or a foreign country with which the State has an arrangement described in section 659a(d) of this title shall be treated as a request by a State;
+&emsp;(32)(A) provide that any request for services under this part by a foreign reciprocatingcountry or a foreign country with which the State has an arrangement described in section 659a(d) of this title shall be treated as a request by a State;
 
 &emsp;(B) provide, at State option, notwithstanding paragraph (4) or any other provision of this part, for services under the plan for enforcement of a spousal support order not described in paragraph (4)(B) entered by such a country (or subdivision); and
 
 &emsp;(C) provide that no applications will be required from, and no costs will be assessed for such services against, the foreign reciprocating country or foreign obligee (but costs may at State option be assessed against the obligor);
 
-&emsp;(33) provide that a State that receives funding pursuant to section 628 of this title and that has within its borders Indian country (as defined in section 1151 of title 18) may enter into cooperative agreements with an Indian tribe or tribal organization (as defined in subsections (e) and (<i>l</i>) of section 450b of title 25), if the Indian tribe or tribal organization demonstrates that such tribe or organization has an established tribal court system or a Court of Indian Offenses with the authority to establish paternity, establish, modify, or enforce support orders, or to enter support orders in accordance with child support guidelines established or adopted by such tribe or organization, under which the State and tribe or organization shall provide for the cooperative delivery of child support enforcement services in Indian country and for the forwarding of all collections pursuant to the functions performed by the tribe or organization to the State agency, or conversely, by the State agency to the tribe or organization, whichshall distribute such collections in accordance with such agreement; and
+&emsp;(33) provide that a State that receives funding pursuant to section 628 of this title and that has within its borders Indian country (as defined in section 1151 of title 18) may enter into cooperative agreements with an Indian tribe or tribal organization (as defined in subsections (e) and (<i>l</i>) of section 450b of title 25), if the Indian tribe or tribal organization demonstrates that such tribe or organization has an established tribal court system or a Court of Indian Offenses with the authority to establish paternity, establish, modify, or enforce support orders, or to enter support orders in accordance with child support guidelines established or adopted by such tribe or organization, under which the State and tribe or organization shall provide for the cooperative delivery of child support enforcement services in Indian country and for the forwarding of all collections pursuant to the functions performed by the tribe or organization to the State agency, or conversely, by the State agency to the tribe or organization, which shall distribute such collections in accordance with such agreement; and
 
 &emsp;(34) include an election by the State to apply section 657(a)(2)(B) of this title or former section 657(a)(2)(B) of this title (as in effect for the State immediately before the date this paragraph first applies to the State) to the distribution of the amounts which are the subject of such sections and, for so long as the State elects to so apply such former section, the amendments made by subsection (b)(1) of section 7301 of the Deficit Reduction Act of 2005 shall not apply with respect to the State, notwithstanding subsection (e) of such section 7301.
 
@@ -200,19 +200,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pars. (4)(A)(i)(IV), (6)(B)(i). Pub. L. 110–246, §4002(b)(1)(B), (2)(V), made technical amendment to references in original act which appear in text as references to sections 2015(<i>l</i>)(1) and 2015 of title 7.
+<b>2008</b>—Pars. (4)(A)(i)(IV), (6)(B)(i). Pub. L. 110–246, §4002(b)(1)(B), (2)(V), made technical amendment to references in original act which appear in text as references to sections 2015(<i>l</i>)(1) and 2015 of title 7.
 
 Par. (29)(A), (D), (E). Pub. L. 110–246, §4115(c)(2)(H), which directed substitution of “section 2012(<i>l</i>)” for “section 2012(h)” wherever appearing in section “531 of the Social Security Act (42 U.S.C. 654)”, was executed by making the substitution wherever appearing in this section, which is section 454 of the Act, to reflect the probable intent of Congress.
 
-Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(V), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing and made technical amendment to references in original act which appear in text as references to sections 2012(h) and 2015(<i>l</i>)(2) of title 7.
+Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(V), substituted “supplemental nutrition assistance program” for “foodstamp program” wherever appearing and made technical amendment to references in original act which appear in text as references to sections 2012(h) and 2015(<i>l</i>)(2) of title 7.
 
-2006—Par. (6)(B). Pub. L. 109–171, §7310(a), designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), and added cl. (ii).
+<b>2006</b>—Par. (6)(B). Pub. L. 109–171, §7310(a), designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), and added cl. (ii).
 
 Par. (31). Pub. L. 109–171, §7303(b), substituted “$2,500” for “$5,000” in introductory provisions.
 
 Par. (34). Pub. L. 109–171, §7301(b)(1)(C), added par. (34).
 
-1999—Par. (6)(E)(i). Pub. L. 106–169, §401(g)(1), substituted “; or” for “, or” at end.
+<b>1999</b>—Par. (6)(E)(i). Pub. L. 106–169, §401(g)(1), substituted “; or” for “, or” at end.
 
 Par. (9)(A) to (C). Pub. L. 106–169, §401(g)(2), substituted semicolon for comma at end.
 
@@ -224,7 +224,7 @@ Par. (24)(A). Pub. L. 106–169, §401(g)(3), substituted “; and” for “,�
 
 Par. (24)(B). Pub. L. 106–169, §401(h), made technical amendment to reference in original act which appears in text as reference to August 22, 1996.
 
-1997—Par. (4)(A)(i)(IV). Pub. L. 105–33, §5548(a), added subcl. (IV).
+<b>1997</b>—Par. (4)(A)(i)(IV). Pub. L. 105–33, §5548(a), added subcl. (IV).
 
 Par. (6)(B). Pub. L. 105–33, §5531(a), substituted “an individual, other than an individual receiving assistance under a State program funded under part A or E of this subchapter, or under a State plan approved under subchapter XIX of this chapter, or who is required by the State to cooperate with the State agency administering the program under this part pursuant to subsection (<i>l</i>) or (m) of section 2015 of title 7, and” for “individuals not receiving assistance under any State program funded under part A of this subchapter, which”.
 
@@ -270,13 +270,13 @@ Par. (32)(A). Pub. L. 105–33, §5545, substituted “section 659a(d)” for �
 
 Par. (33). Pub. L. 105–33, §5546(a), substituted “or enforce support orders, or” for “and enforce support orders, and”, “guidelines established or adopted by such tribe or organization” for “guidelines established by such tribe or organization”, “all collections” for “all funding collected”, and “such collections” for “such funding”.
 
-1996—Pub. L. 104–193, §375(a)(4), inserted at end of closing provisions “Nothing in paragraph (33) shall void any provision of any cooperative agreement entered into before August 22, 1996, nor shall such paragraph deprive any State of jurisdiction over Indian country (as so defined) that is lawfully exercised under section 1322 of title 25.”
+<b>1996</b>—Pub. L. 104–193, §375(a)(4), inserted at end of closing provisions “Nothing in paragraph (33) shall void any provision of any cooperative agreement entered into before August 22, 1996, nor shall such paragraph deprive any State of jurisdiction over Indian country (as so defined) that is lawfully exercised under section 1322 of title 25.”
 
 Par. (4). Pub. L. 104–193, §301(a)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “provide that such State will undertake—
 
 &emsp;“(A) in the case of a child born out of wedlock with respect to whom an assignment under section 602(a)(26) of this title or section 1396k of this title is effective, to establish the paternity of such child, unless the agency administering the plan of the State under part A of this subchapter determines in accordance with the standards prescribed by the Secretary pursuant to section 602(a)(26)(B) of this title that it is against the best interests of the child to do so, or, in the case of such a child with respect to whom an assignment under section 1396k of this title is in effect, the State agency administering the plan approved under subchapter XIX of this chapter determines pursuant to section 1396k(a)(1)(B) of this title that it is against the best interests of the child to do so, and
 
-&emsp;“(B) in the case of any child with respect to whom such assignment is effective, including an assignment with respect to a child on whose behalf a State agency is making foster care maintenance payments under part E of this subchapter, to secure support for such child from his parent (or from any other person legally liable for such support), and from such parent for his spouse (or former spouse) receiving aid to families with dependent children or medical assistance under a State plan approved under subchapter XIX of this chapter (but only if a support obligation has been established with respect to such spouse, and only if the support obligation established with respect to the child is being enforced under the plan), utilizing any reciprocal arrangements adopted with other States (unless the agency administering the plan of the State under part A or E of this subchapter determines in accordance with the standards prescribed by the Secretary pursuant to section 602(a)(26)(B) of this title that it is against the best interests of the child to do so), except that when such arrangements and other means have proven ineffective, the State may utilize the Federal courts to obtain or enforce court orders for support;”.
+&emsp;“(B) in the case of any child with respect to whom such assignment is effective, including an assignment with respect to a child on whose behalf a State agency is making foster care maintenance payments under part E of this subchapter, to secure support for such child from his parent (or from any other person legally liable for such support), and from such parent for his spouse (or former spouse) receiving aid to families with dependent children or medical assistance under a State plan approved under subchapter XIX of this chapter (but only if a support obligation has been established with respect to such spouse, and only if the support obligation established with respect to the child is being enforced under the plan), utilizing any reciprocal arrangements adopted with other States (unless the agency administering the plan of the State under part A or E of this subchapterdetermines in accordance with the standards prescribed by the Secretary pursuant to section 602(a)(26)(B) of this title that it is against the best interests of the child to do so), except that when such arrangements and other means have proven ineffective, the State may utilize the Federal courts to obtain or enforce court orders for support;”.
 
 Par. (5)(A). Pub. L. 104–193, §108(c)(11), substituted “pursuant to section 608(a)(3) of this title” for “under section 602(a)(26) of this title” and “payments collected,” for “payments collected; except that this paragraph shall not apply to such payments for any month following the first month in which the amount collected is sufficient to make such family ineligible for assistance under the State plan approved under part A of this subchapter;”.
 
@@ -350,9 +350,9 @@ Par. (32). Pub. L. 104–193, §371(b), added par. (32).
 
 Par. (33). Pub. L. 104–193, §375(a)(1)–(3), added par. (33).
 
-1995—Par. (24)(B). Pub. L. 104–35 substituted “1997” for “1995”.
+<b>1995</b>—Par. (24)(B). Pub. L. 104–35 substituted “1997” for “1995”.
 
-1988—Par. (5)(A). Pub. L. 100–485, §104(a), substituted “on a monthly basis (or on a quarterly basis for so long as the Secretary determines with respect to a State that requiring such notice on a monthly basis would impose an unreasonable administrative burden)” for “at least annually”.
+<b>1988</b>—Par. (5)(A). Pub. L. 100–485, §104(a), substituted “on a monthly basis (or on a quarterly basis for so long as the Secretary determines with respect to a State that requiring such notice on a monthly basis would impose an unreasonable administrative burden)” for “at least annually”.
 
 Par. (6)(D), (E). Pub. L. 100–485, §111(c), added cl. (D) and redesignated former cl. (D) as (E).
 
@@ -362,7 +362,7 @@ Pub. L. 100–485, §123(a)(2), substituted “a statewide automated” for “a
 
 Par. (24). Pub. L. 100–485, §123(a)(1), added par. (24).
 
-1987—Par. (4)(A). Pub. L. 100–203, §9142(a)(1)(A), (B), substituted “an assignment under section 602(a)(26) of this title or section 1396k of this title” for “an assignment under section 602(a)(26) of this title” and “, or, in the case of such a child with respect to whom an assignment under section 1396k of this title is in effect, the State agency administering the plan approved under subchapter XIX of this chapter determines pursuant to section 1396k(a)(1)(B) of this title that it is against the best interests of the child to do so, and” for “, and”.
+<b>1987</b>—Par. (4)(A). Pub. L. 100–203, §9142(a)(1)(A), (B), substituted “an assignment under section 602(a)(26) of this title or section 1396k of this title” for “an assignment under section 602(a)(26) of this title” and “, or, in the case of such a child with respect to whom an assignment under section 1396k of this title is in effect, the State agency administering the plan approved under subchapter XIX of this chapter determines pursuant to section 1396k(a)(1)(B) of this title that it is against the best interests of the child to do so, and” for “, and”.
 
 Par. (4)(B). Pub. L. 100–203, §9142(a)(1)(C), inserted “or medical assistance under a State plan approved under subchapter XIX of this chapter” after “children”.
 
@@ -370,7 +370,7 @@ Par. (5). Pub. L. 100–203, §9142(a)(2), substituted “provide that (A)” fo
 
 Pub. L. 100–203, §9141(a)(2), struck out “(except as provided in section 657(c) of this title)” after “apply to such payments”.
 
-1984—Par. (4)(B). Pub. L. 98–378, §11(b)(1), inserted “including an assignment with respect to a child on whose behalf a State agency is making foster care maintenance payments under part E of this subchapter,” after “such assignment is effective,” and inserted “or E” after “part A”.
+<b>1984</b>—Par. (4)(B). Pub. L. 98–378, §11(b)(1), inserted “including an assignment with respect to a child on whose behalf a State agency is making foster care maintenance payments under part E of this subchapter,” after “such assignment is effective,” and inserted “or E” after “part A”.
 
 Par. (4)(B). Pub. L. 98–378, §12(a), substituted “, and” for “and, at the option of the State,” before “from such parent” and inserted “, and only if the support obligation established with respect to the child is being enforced under the plan”.
 
@@ -404,13 +404,13 @@ Par. (23). Pub. L. 98–378, §14(a), added par. (23).
 
 Pub. L. 98–378, §3(f), inserted after numbered paragraphs provision that the State may allow the jurisdiction which makes the collection involved to retain any application fee under par. (6)(B) or any late payment fee under par. (21).
 
-1982—Par. (5). Pub. L. 97–248, §173(a), inserted “following the first month” after “for any month”.
+<b>1982</b>—Par. (5). Pub. L. 97–248, §173(a), inserted “following the first month” after “for any month”.
 
 Par. (6). Pub. L. 97–248, §171(a), in cl. (A) inserted provisions relating to inclusion of, at the option of the State, support collection services for the spouse or former spouse, in cl. (B) substituted “such services” for “services under the State plan (other than collection of support)”, and in cl. (C) substituted provisions relating to collection of any costs in excess of the fee imposed, for provisions relating to the State retaining any fee imposed under State law as required under former par. (19).
 
 Pars. (18) to (20). Pub. L. 97–248, §171(b)(1), inserted “and” at end of par. (18), struck out par. (19) relating to imposition of a fee on an individual who owes child or spousal support obligation, and redesignated par. (20) as (19).
 
-1981—Pub. L. 97–35, §2332(d)(2), substituted in provision preceding par. (1) “child and spousal support” for “child support”.
+<b>1981</b>—Pub. L. 97–35, §2332(d)(2), substituted in provision preceding par. (1) “child and spousal support” for “child support”.
 
 Par. (4)(B). Pub. L. 97–35, §2332(d)(3), substituted “such support) and, at the option of the State, from such parent for his spouse (or former spouse) receiving aid to families with dependent children (but only if a support obligation has been established with respect to such spouse), utilizing” for “such support), utilizing”.
 
@@ -432,13 +432,13 @@ Par. (19). Pub. L. 97–35, §2333(b), added par. (19).
 
 Par. (20). Pub. L. 97–35, §2335(a), added par. (20).
 
-1980—Par. (16). Pub. L. 96–265 added par. (16).
+<b>1980</b>—Par. (16). Pub. L. 96–265 added par. (16).
 
 Par. (17). Pub. L. 96–611 added par. (17).
 
-1977—Pars. (14), (15). Pub. L. 95–30 added pars. (14) and (15).
+<b>1977</b>—Pars. (14), (15). Pub. L. 95–30 added pars. (14) and (15).
 
-1975—Par. (4)(A). Pub. L. 94–88, §208(b), substituted “to establish the paternity of such child, unless the agency administering the plan of the State under part A of this subchapter determines in accordance with the standards prescribed by the Secretary pursuant to section 602(a)(26)(B) of this title that it is against the best interests of the child to do so” for “to establish the paternity of such child”.
+<b>1975</b>—Par. (4)(A). Pub. L. 94–88, §208(b), substituted “to establish the paternity of such child, unless the agency administering the plan of the State under part A of this subchapter determines in accordance with the standards prescribed by the Secretary pursuant to section 602(a)(26)(B) of this title that it is against the best interests of the child to do so” for “to establish the paternity of such child”.
 
 Par. (4)(B). Pub. L. 94–88, §208(c), substituted “reciprocal arrangements adopted with other States (unless the agency administering the plan of the State under part A of this subchapter determines in accordance with the standards prescribed by the Secretary pursuant to section 602(a)(26)(B) of this title that it is against the best interests of the child to do so)” for “reciprocal arrangements adopted with other States”.
 
@@ -598,5 +598,5 @@ Section 15 of Pub. L. 98–378 provided that:
 
 #### Delayed Effective Date in Cases Requiring State Legislation
 
-Section 176 of Pub. L. 97–248 provided that: “In the case of a State with respect to which the Secretary ofHealth and Human Services has determined that State legislation is required in order to conform the State plan approved under part D of title IV of the Social Security Act \[this part\] to the requirements imposed by any amendment made by this subtitle \[subtitle E (§§171–176) of title I of Pub. L. 97–248, see Tables for classification\], the State plan shall not be regarded as failing to comply with the requirements of such part solely by reason of its failure to meet the requirements imposed by such amendment prior to the end of the first session of the State legislature which begins after October 1, 1982, or which began prior to October 1, 1982, and remained in session for at least twenty-five calendar days after such date. For purposes of the preceding sentence, the term ‘session’ means a regular, special, budget, or other session of a State legislature.”
+Section 176 of Pub. L. 97–248 provided that: “In the case of a State with respect to which the Secretary of Health and Human Services has determined that State legislation is required in order to conform the State plan approved under part D of title IV of the Social Security Act \[this part\] to the requirements imposed by any amendment made by this subtitle \[subtitle E (§§171–176) of title I of Pub. L. 97–248, see Tables for classification\], the State plan shall not be regarded as failing to comply with the requirements of such part solely by reason of its failure to meet the requirements imposed by such amendment prior to the end of the first session of the State legislature which begins after October 1, 1982, or which began prior to October 1, 1982, and remained in session for at least twenty-five calendar days after such date. For purposes of the preceding sentence, the term ‘session’ means a regular, special, budget, or other session of a State legislature.”
 

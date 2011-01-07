@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(i) was in a population specified by the declaration; and
 
-&emsp;&emsp;&emsp;(ii) was at the time of administration physically present in a geographic areaspecified by the declaration or had a connection to such area specified in the declaration.
+&emsp;&emsp;&emsp;(ii) was at the time of administration physically present in a geographic area specified by the declaration or had a connection to such area specified in the declaration.
 
 #### (4) Applicability of certain conditions
 
@@ -92,7 +92,7 @@
 
 #### (C) Additional period for certain strategic national stockpile countermeasures
 
-&emsp;&emsp;With respect to a covered countermeasure that is in the stockpile under section 247d–6b of this title, if such countermeasure was the subject of a declaration under paragraph (1)at the time that it was obtained for the stockpile, the effective period of such declaration shall include a period when the countermeasure is administered or used pursuant to a distribution or release from the stockpile.
+&emsp;&emsp;With respect to a covered countermeasure that is in the stockpile under section 247d–6b of this title, if such countermeasure was the subject of a declaration under paragraph (1) at the time that it was obtained for the stockpile, the effective period of such declaration shall include a period when the countermeasure is administered or used pursuant to a distribution or release from the stockpile.
 
 #### (4) Amendments to declaration
 
@@ -120,7 +120,7 @@
 
 #### (9) Report to Congress
 
-&emsp;Within 30 days after making a declaration under paragraph (1), the Secretary shall submit to the appropriate committees of the Congress a report that provides an explanation of the reasons for issuing the declaration and the reasons underlying the determinations of the Secretary with respect to paragraph (2). Within 30 days after making an amendment under paragraph (4), the Secretary shall submit to such committees a report that provides the reasons underlying the determination of the Secretary to make the amendment.
+&emsp;Within 30 days after making a declaration under paragraph (1), the Secretary shall submit to the appropriate committees of the Congress a report that provides an explanation ofthe reasons for issuing the declaration and the reasons underlying the determinations of the Secretary with respect to paragraph (2). Within 30 days after making an amendment under paragraph (4), the Secretary shall submit to such committees a report that provides the reasons underlying the determination of the Secretary to make the amendment.
 
 #### (c) Definition of willful misconduct
 
@@ -160,7 +160,7 @@
 
 #### (3) Proof of willful misconduct
 
-&emsp;In an action under subsection (d) of this section, the plaintiff shall have the burden of proving by clear and convincing evidence willful misconduct by each covered person suedand that such willful misconduct caused death or serious physical injury.
+&emsp;In an action under subsection (d) of this section, the plaintiff shall have the burden of proving by clear and convincing evidence willful misconduct by each covered person sued and that such willful misconduct caused death or serious physical injury.
 
 #### (4) Defense for acts or omissions taken pursuant to Secretary's declaration
 
@@ -184,7 +184,7 @@
 
 #### (i) Enforcement action
 
-&emsp;&emsp;&emsp;The term “enforcement action” means a criminal prosecution, an action seeking an injunction, a seizure action, a civil monetary proceeding based on willful misconduct, a mandatory recall of a product because voluntary recall was refused, a proceeding to compel repair or replacement of a product, a termination of an exemption under section 505(i) or 520(g) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i), 360j(g)\], a debarment proceeding, an investigator disqualification proceeding where an investigator is an employee or agent of the manufacturer, a revocation, based on willful misconduct, of an authorization under section 564 of such Act \[21 U.S.C. 360bbb–3\], or a suspension or withdrawal, based on willful misconduct, of an approval or clearance under chapter V of such Act \[21 U.S.C. 351 et seq.\] or of a licensure under section 262 of this title.
+&emsp;&emsp;&emsp;The term “enforcement action” means a criminal prosecution, an action seeking an injunction, a seizure action, a civil monetary proceeding based on willful misconduct, a mandatory recall of a product because voluntary recall was refused, a proceeding to compel repair or replacement of a product, a termination of an exemption under section 505(i) or 520(g) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i), 360j(g)\], a debarment proceeding, an investigator disqualification proceeding where an investigator is an employee or agent of the manufacturer, a revocation, based on willful misconduct, of an authorization under section 564 of such Act \[21 U.S.C. 360bbb–3\], or a suspension or withdrawal, based on willful misconduct,of an approval or clearance under chapter V of such Act \[21 U.S.C. 351 et seq.\] or of a licensure under section 262 of this title.
 
 #### (ii) Covered remedy
 
@@ -288,7 +288,7 @@
 
 #### (B) Standard
 
-&emsp;&emsp;Notwithstanding any other provision of law, the court in an action under subsection\(d) of this section shall permit discovery only with respect to matters directly related to material issues contested in such action, and the court shall compel a response to a discovery request (including a request for admission, an interrogatory, a request for production of documents, or any other form of discovery request) under Rule 37, Federal Rules of Civil Procedure, only if the court finds that the requesting party needs the information sought to prove or defend as to a material issue contested in such action and that the likely benefits of a response to such request equal or exceed the burden or cost for the responding party of providing such response.
+&emsp;&emsp;Notwithstanding any other provision of law, the court in an action under subsection (d) of this section shall permit discovery only with respect to matters directly related to material issues contested in such action, and the court shall compel a response to a discovery request (including a request for admission, an interrogatory, a request for production of documents, or any other form of discovery request) under Rule 37, Federal Rules of Civil Procedure, only if the court finds that the requesting party needs the information sought to prove or defend as to a material issue contested in such action and that the likely benefits of a response to such request equal or exceed the burden or cost for the responding party of providing such response.
 
 #### (7) Reduction in award of damages for collateral source benefits
 
@@ -348,7 +348,7 @@ In this section:
 
 &emsp;&emsp;(B) a security countermeasure (as defined in section 247d–6b(c)(1)(B) of this title); or
 
-&emsp;&emsp;(C) a drug (as such term is defined in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1)), biologicalproduct (as such term is defined by section 262(i) of this title), or device (as such term is defined by section 201(h) of the Federal Food, Drug and Cosmetic Act (21 U.S.C. 321(h)) that is authorized for emergency use in accordance with section 564 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360bbb–3\].
+&emsp;&emsp;(C) a drug (as such term is defined in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1)), biological product (as such term is defined by section 262(i) of this title), or device (as such term is defined by section 201(h) of the Federal Food, Drug and Cosmetic Act (21 U.S.C. 321(h)) that is authorized for emergency use in accordance with section 564 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360bbb–3\].
 
 #### (2) Covered person
 

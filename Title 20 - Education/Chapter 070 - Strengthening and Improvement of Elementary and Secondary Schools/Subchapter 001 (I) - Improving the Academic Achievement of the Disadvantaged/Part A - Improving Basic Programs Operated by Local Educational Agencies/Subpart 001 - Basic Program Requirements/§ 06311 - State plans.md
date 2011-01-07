@@ -208,7 +208,7 @@
 
 &emsp;&emsp;&emsp;(vi) involve multiple up-to-date measures of student academic achievement, including measures that assess higher-order thinking skills and understanding;
 
-&emsp;&emsp;&emsp;(vii) beginning not later than school year 2005–2006, measure the achievement of students against the challenging State academic content and student academic achievement standards in each of grades 3through 8 in, at a minimum, mathematics, and reading or language arts, except that the Secretary may provide the State 1 additional year if the State demonstrates that exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State, prevented full implementation of the academic assessments by that deadline and that the State will complete implementation within the additional 1-year period;
+&emsp;&emsp;&emsp;(vii) beginning not later than school year 2005–2006, measure the achievement of students against the challenging State academic content and student academic achievement standards in each of grades 3 through 8 in, at a minimum, mathematics, and reading or language arts, except that the Secretary may provide the State 1 additional year if the State demonstrates that exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State, prevented full implementation of the academic assessments by that deadline and that the State will complete implementation within the additional 1-year period;
 
 &emsp;&emsp;&emsp;(viii) at the discretion of the State, measure the proficiency of students in academic subjects not described in clauses (v), (vi), (vii) in which the State has adopted challenging academic content and academic achievement standards;
 
@@ -246,7 +246,7 @@
 
 #### (4) Special rule
 
-&emsp;Academic assessment measures in addition to those in paragraph (3) that do not meet the requirements of such paragraph may be included in the assessment under paragraph (3)as additional measures, but may not be used in lieu of the academic assessments required under paragraph (3). Such additional assessment measures may not be used to reduce the number of or change, the schools that would otherwise be subject to school improvement, corrective action, or restructuring under section 6316 of this title if such additional indicators were not used, but may be used to identify additional schools for school improvement or in need of corrective action or restructuring except as provided in paragraph (2)(I)(i).
+&emsp;Academic assessment measures in addition to those in paragraph (3) that do not meet the requirements of such paragraph may be included in the assessment under paragraph (3) as additional measures, but may not be used in lieu of the academic assessments required under paragraph (3). Such additional assessment measures may not be used to reduce the number of or change, the schools that would otherwise be subject to school improvement, corrective action, or restructuring under section 6316 of this title if such additional indicators were not used, but may be used to identify additional schools for school improvement or in need of corrective action or restructuring except as provided in paragraph (2)(I)(i).
 
 #### (5) State authority
 
@@ -304,7 +304,7 @@ Each State plan shall contain assurances that—
 
 &emsp;(3) the State educational agency, in consultation with the Governor, will include, as a component of the State plan, a plan to carry out the responsibilities of the State under sections 6316 and 6317 of this title, including carrying out the State educational agency's statewide system of technical assistance and support for local educational agencies;
 
-&emsp;(4) the State educational agency will work with other agencies, including educational service agencies or other local consortia, and institutions to provide technical assistance to local educational agencies and schools, including technical assistance in providing professional development under section 6319 of this title, technical assistance under section 6317 of this title, and technical assistance relating to parental involvement under section 6318 of this title;
+&emsp;(4) the State educational agency will work with other agencies, including educational service agencies or other local consortia, and institutions to provide technical assistance to local educational agencies and schools, including technical assistance in providing professional development under section 6319 of this title, technical assistance under section 6317 of this title, and technical assistance relating toparental involvement under section 6318 of this title;
 
 &emsp;(5)(A) where educational service agencies exist, the State educational agency will consider providing professional development and technical assistance through such agencies; and
 
@@ -414,7 +414,7 @@ Each State plan shall describe how the State educational agency will support the
 
 &emsp;&emsp;The State shall include in its annual State report card—
 
-&emsp;&emsp;&emsp;(i) information, in the aggregate, on student achievement at each proficiency level on the State academic assessments described in subsection (b)(3) of this section (disaggregated by race, ethnicity, gender, disability status, migrant status, English proficiency, and status as economically disadvantaged, except that such disaggregation shall not be required in acase in which the number of students in a category is insufficient to yield statistically reliable information or the results would reveal personally identifiable information about an individual student);
+&emsp;&emsp;&emsp;(i) information, in the aggregate, on student achievement at each proficiency level on the State academic assessments described in subsection (b)(3) of this section (disaggregated by race, ethnicity, gender, disability status, migrant status, English proficiency, and status as economically disadvantaged, except that such disaggregation shall not be required in a case in which the number of students in a category is insufficient to yield statistically reliable information or the results would reveal personally identifiable information about an individual student);
 
 &emsp;&emsp;&emsp;(ii) information that provides a comparison between the actual achievement levels of each group of students described in subsection (b)(2)(C)(v) of this section and the State's annual measurable objectives for each such group of students on each of the academic assessments required under this part;
 
@@ -498,7 +498,7 @@ Each State plan shall describe how the State educational agency will support the
 
 &emsp;&emsp;(A) beginning with school year 2002–2003, information on the State's progress in developing and implementing the academic assessments described in subsection (b)(3) of this section;
 
-&emsp;&emsp;(B) beginning not later than school year 2002–2003, information on the achievement of students on the academic assessments required by subsection (b)(3) of this section, including the disaggregated results for the categories of students identified in subsection (b)(2)(C)(v) of this section;
+&emsp;&emsp;(B) beginning not later than school year 2002–2003, information on the achievement of students on the academic assessments required by subsection (b)(3) of this section, including the disaggregated results for thecategories of students identified in subsection (b)(2)(C)(v) of this section;
 
 &emsp;&emsp;(C) in any year before the State begins to provide the information described in subparagraph (B), information on the results of student academic assessments (including disaggregated results) required under this section;
 
@@ -566,7 +566,7 @@ In determining the assessments to be used by each operated or funded by BIA scho
 
 &emsp;(3) Each such school that is accredited by a tribal accrediting agency or tribal division of education shall use an assessment developed by such agency or division, except that the Secretary of the Interior shall ensure that such assessment meets the requirements of this section.
 
-(Pub. L. 89–10, title I, §1111, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1444; amended Pub. L. 107–279, title IV, §404(d)(1), Nov. 5, 2002, 116 Stat. 1985; Pub. L. 108–446, title III, §305(g)(1), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 109–270, §2(f)(1), Aug. 12, 2006, 120 Stat. 747.)
+(Pub. L. 89–10, title I, §1111, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1444; amended Pub. L. 107–279, title IV, §404(d)(1), Nov.5, 2002, 116 Stat. 1985; Pub. L. 108–446, title III, §305(g)(1), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 109–270, §2(f)(1), Aug. 12, 2006, 120 Stat. 747.)
 
 #### References in Text
 
@@ -592,11 +592,11 @@ A prior section 1111 of Pub. L. 89–10 was classified to section 2768 of this t
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
 
-2004—Subsec. (b)(2)(I)(ii). Pub. L. 108–446 substituted “section 612(a)(16)(A)” for “section 612(a)(17)(A)”.
+<b>2004</b>—Subsec. (b)(2)(I)(ii). Pub. L. 108–446 substituted “section 612(a)(16)(A)” for “section 612(a)(17)(A)”.
 
-2002—Subsec. (c)(2). Pub. L. 107–279 substituted “section 9622(b)(2) of this title” for “section 9010(b)(2) of this title”.
+<b>2002</b>—Subsec. (c)(2). Pub. L. 107–279 substituted “section 9622(b)(2) of this title” for “section 9010(b)(2) of this title”.
 
 #### Change of Name
 

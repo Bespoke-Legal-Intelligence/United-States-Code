@@ -38,7 +38,7 @@ For fiscal years 2009 through 2013, not less than 10 percent of the amounts appr
 
 #### (c) Funding allocation
 
-For each of the fiscal years 2009 through 2013, more than half of the amounts appropriated for bilateral global HIV/AIDS assistance pursuantto section 7671 of this title shall be expended for—
+For each of the fiscal years 2009 through 2013, more than half of the amounts appropriated for bilateral global HIV/AIDS assistance pursuant to section 7671 of this title shall be expended for—
 
 &emsp;(1) antiretroviral treatment for HIV/AIDS;
 
@@ -70,7 +70,7 @@ This chapter, referred to in subsec. (a)(2)(A), was in the original “this Act�
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–293, §403(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “For fiscal years 2006 through 2008, not less than 55 percent of the amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS assistance for each such fiscal year shall be expended for therapeutic medical care of individuals infected with HIV, of which such amount at least 75 percent should be expended for the purchase and distribution of antiretroviral pharmaceuticals and at least 25 percent should be expended for related care. For fiscal years 2006 through 2008, not less than 33 percent of the amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS prevention consistent with section 2151b–2(d) of this title for each such fiscal year shall be expended for abstinence-until-marriage programs.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–293, §403(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “For fiscal years 2006 through 2008, not less than 55 percent of the amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS assistance for each such fiscal year shall be expended for therapeutic medical care of individuals infected with HIV, of which such amount at least 75 percent should be expended for the purchase and distribution of antiretroviral pharmaceuticals and at least 25 percent should be expended for related care. For fiscal years 2006 through 2008, not less than 33 percent of the amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS prevention consistent with section 2151b–2(d) of this title for each such fiscal year shall be expended for abstinence-until-marriage programs.”
 
 Subsec. (b). Pub. L. 110–293, §403(2), substituted “fiscal years 2009 through 2013” for “fiscal years 2006 through 2008” and “other children affected by, or vulnerable to,” for “vulnerable children affected by”.
 

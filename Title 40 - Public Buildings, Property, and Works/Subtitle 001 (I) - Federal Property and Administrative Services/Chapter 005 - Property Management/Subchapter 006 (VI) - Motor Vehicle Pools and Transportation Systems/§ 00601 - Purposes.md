@@ -102,7 +102,7 @@ Sec. 9. <i>Motor vehicles exempted from inclusion in interagency motor-vehicle p
 
 (5) Motor vehicles which, because of their design or the special purposes for which they are used, or for other reasons, cannot advantageously be incorporated in an interagency motor-vehicle pool or system if the exemption thereof has been mutually agreed upon by the Administrator and the head of the executive agency concerned.
 
-(6) Motor vehicles exempted by an agency which has authority to make such an exemption under the provisions of the Act \[probably means the Federal Property and Administrative Services Act of 1949, now chapters 1 to 11 of this title and title III of the Act of June 30, 1949 (41 U.S.C. 251 et seq.)\].
+(6) Motor vehicles exempted by an agency which has authority to make such an exemption under the provisions of the Act \[probably means the Federal Property and Administrative Services Act of 1949, now chapters 1 to 11 of this title and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\].
 
 Sec. 10. <i>Optional use arrangements</i>. Nothing in these regulations shall be construed as precluding the establishment or operation of interagency motor-vehicle pools or systems on the basis of optional use by executive or other Federal agencies.
 

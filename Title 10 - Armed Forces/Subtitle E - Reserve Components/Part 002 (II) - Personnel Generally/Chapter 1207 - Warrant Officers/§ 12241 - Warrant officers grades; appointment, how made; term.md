@@ -2,11 +2,11 @@
 
 (a) The permanent reserve warrant officer grades in each armed force are those prescribed for regular warrant officers by section 571(a) of this title.
 
-(b) Appointments made in the permanent reserve grade of warrant officer, W–1, shall be made by warrant by the Secretary concerned. Appointments made in a permanent reserve grade of chief warrant officer shall be made by commission by the Secretary concerned.
+(b) Appointments in permanent reserve warrant officer grades shall be made in the same manner as is prescribed for regular warrant officer grades by section 571(b) of this title.
 
 (c) Appointments as Reserves in permanent warrant officer grades are for an indefinite term and are held during the pleasure of the Secretary concerned.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 26, §597; Pub. L. 99–145, title V, §531(b), Nov. 8, 1985, 99 Stat. 633; Pub. L. 102–190, div. A, title XI, §1131(2), Dec. 5, 1991, 105 Stat. 1505; renumbered §12241, Pub. L. 103–337, div. A, title XVI, §1662(d)(2), Oct. 5, 1994, 108 Stat. 2991.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 26, §597; Pub. L. 99–145, title V, §531(b), Nov. 8, 1985, 99 Stat. 633; Pub. L. 102–190, div. A, title XI, §1131(2), Dec. 5, 1991, 105 Stat. 1505; renumbered §12241, Pub. L. 103–337, div. A, title XVI, §1662(d)(2), Oct. 5, 1994, 108 Stat. 2991; Pub. L. 111–383, div. A, title V, §502(b), Jan. 7, 2011, 124 Stat. 4207.)
 
 Historical and Revision Notes
 
@@ -56,11 +56,13 @@ In subsection (c), the words “After July 9, 1952” are omitted as executed. 5
 
 #### Amendments
 
-1994—Pub. L. 103–337 renumbered section 597 of this title as this section.
+<b>2011</b>—Subsec. (b). Pub. L. 111–383 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Appointments made in the permanent reserve grade of warrant officer, W–1, shall be made by warrant by the Secretary concerned. Appointments made in a permanent reserve grade of chief warrant officer shall be made by commission by the Secretary concerned.”
 
-1991—Subsec. (a). Pub. L. 102–190 substituted “section 571(a)” for “section 555(a)”.
+<b>1994</b>—Pub. L. 103–337 renumbered section 597 of this title as this section.
 
-1985—Subsec. (b). Pub. L. 99–145 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Reserve chief warrant officers of the Army and the Air Force shall be appointed in those grades, by warrant, by the Secretary concerned. Permanent reserve chief warrant officers of the Navy, Marine Corps, and Coast Guard shall be appointed in those grades, by commission, by the Secretary concerned. Permanent reserve warrant officers, W-1, shall be appointed in those grades, by warrant, by the Secretary concerned.”
+<b>1991</b>—Subsec. (a). Pub. L. 102–190 substituted “section 571(a)” for “section 555(a)”.
+
+<b>1985</b>—Subsec. (b). Pub. L. 99–145 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Reserve chief warrant officers of the Army and the Air Force shall be appointed in those grades, bywarrant, by the Secretary concerned. Permanent reserve chief warrant officers of the Navy, Marine Corps, and Coast Guard shall be appointed in those grades, by commission, by the Secretary concerned. Permanent reserve warrant officers, W-1, shall be appointed in those grades, by warrant, by the Secretary concerned.”
 
 #### Effective Date of 1991 Amendment
 
@@ -77,4 +79,8 @@ Section 531(c) of Pub. L. 99–145 provided that:
 “(1) The amendments made by subsections (a) and (b) \[amending this section and section 555 of this title\] apply to any appointment of a warrant officer or chief warrant officer on or after the effective date of this section \[see Effective Date of 1985 Amendment note above\].
 
 “(2) An officer who on the effective date of this section is serving in a chief warrant officer grade under an appointment by warrant may be appointed in that grade by commission under section 555(b) or 597(b) \[now 12241(b)\] of title 10, United States Code, as appropriate. The date of rank of an officer who receives an appointment under this paragraph is the date of rank for the officer's appointment by warrant to that grade.”
+
+#### Presidential Functions
+
+Pub. L. 111–383, div. A, title V, §502(c), Jan. 7, 2011, 124 Stat. 4207, provided that: “Except as otherwise provided by the President by Executive order, the provisions of Executive Order 13384 (10 U.S.C. 531 note) relating to the functions of the President under the second sentence of section 571(b) of title 10, United States Code, shall apply in the same manner to the functions of the President under section 12241(b) of title 10, United States Code.”
 

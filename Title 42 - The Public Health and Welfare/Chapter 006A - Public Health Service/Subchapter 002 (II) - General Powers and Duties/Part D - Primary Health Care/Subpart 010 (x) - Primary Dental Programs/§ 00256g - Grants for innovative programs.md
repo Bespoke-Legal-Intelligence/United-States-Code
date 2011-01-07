@@ -80,5 +80,5 @@ The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch
 
 #### Amendments
 
-2008—Subsec. (f). Pub. L. 110–355 substituted “$25,000,000” for “$50,000,000” and “2008” for “2002”.
+<b>2008</b>—Subsec. (f). Pub. L. 110–355 substituted “$25,000,000” for “$50,000,000” and “2008” for “2002”.
 

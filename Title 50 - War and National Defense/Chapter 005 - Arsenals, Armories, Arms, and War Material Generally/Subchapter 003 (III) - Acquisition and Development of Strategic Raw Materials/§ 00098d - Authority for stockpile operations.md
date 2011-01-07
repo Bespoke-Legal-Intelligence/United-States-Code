@@ -24,19 +24,19 @@ Provisions similar to those in this section were contained in former sections 98
 
 #### Amendments
 
-1993—Subsec. (a)(2). Pub. L. 103–160 substituted “and a period of 45 days has passed from the date of the receipt of such statement by such committees.” for “and a period of 30 days has passed from the date of the receipt of such statement by such committees. In computing any 30-day period for the purpose of the preceding sentence, there shall be excluded any day on which either House of Congress is not in session because of an adjournment of more than three days to a day certain.”
+<b>1993</b>—Subsec. (a)(2). Pub. L. 103–160 substituted “and a period of 45 days has passed from the date of the receipt of such statement by such committees.” for “and a period of 30 days has passed from the date of the receipt of such statement by such committees. In computing any 30-day period for the purpose of the preceding sentence, there shall be excluded any day on which either House of Congress is not in session because of an adjournment of more than three days to a day certain.”
 
-1992—Subsec. (b). Pub. L. 102–484 struck out “(1)” after “the stockpile” and “, or (2) if the disposal would result in there being an unobligated balance in the National Defense Stockpile Transaction Fund in excess of $100,000,000” after “authorized by law”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–484 struck out “(1)” after “the stockpile” and “, or (2) if the disposal would result in there being an unobligated balance in the National Defense Stockpile Transaction Fund in excess of $100,000,000” after “authorized by law”.
 
-1987—Subsec. (a)(2). Pub. L. 100–180 struck out “or until each such committee, before the expiration of such period, notifies the President that it has no objection to the proposed transaction” before period at end of first sentence.
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–180 struck out “or until each such committee, before the expiration of such period, notifies the President that it has no objection to the proposed transaction” before period at end of first sentence.
 
-1986—Subsec. (b). Pub. L. 99–661 substituted “paragraph (3), (4), or (5)” for “paragraph (4) or (5)”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–661 substituted “paragraph (3), (4), or (5)” for “paragraph (4) or (5)”.
 
-1984—Subsec. (b)(2). Pub. L. 98–525, §903(b), substituted “$100,000,000” for “$250,000,000”.
+<b>1984</b>—Subsec. (b)(2). Pub. L. 98–525, §903(b), substituted “$100,000,000” for “$250,000,000”.
 
 Pub. L. 98–525, §903(a), substituted “an unobligated balance” for “a balance” where first appearing and “$250,000,000” for “$1,000,000,000 or, in the case of a disposal to be made after September 30, 1983, if the disposal would result in there being a balance in the fund in excess of $500,000,000”.
 
-1981—Subsec. (a). Pub. L. 97–35, §203(a), designated existing provisions as par. (1), inserted applicability to other incidental expenses, substituted “until expended, unless otherwise” for “for a period of five fiscal years, if so”, and added par. (2).
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §203(a), designated existing provisions as par. (1), inserted applicability to other incidental expenses, substituted “until expended, unless otherwise” for “for a period of five fiscal years, if so”, and added par. (2).
 
 Subsec. (b). Pub. L. 97–35, §203(b), inserted designation for cl. (1) and added cl. (2).
 
@@ -70,7 +70,7 @@ Pub. L. 107–107, div. C, title XXXIII, §§3301, 3303, 3306(a), Dec. 28, 2001,
 
 Pub. L. 106–398, §1 \[div. C, title XXXIII, §3303\], Oct. 30, 2000, 114 Stat. 1654, 1654A–483.
 
-Pub. L. 106–65, div. C, title XXXIV, §3402(a)–(e), Oct. 5, 1999, 113 Stat. 972, 973; Pub. L. 108–136, div. C, title XXXIII, §3302, Nov. 24, 2003, 117 Stat. 1788; Pub. L. 109–163, div. C, title XXXIII, §3302(b), Jan. 6, 2006, 119 Stat. 3546; Pub. L. 110–181, div. A, title XIV, §1412(a), Jan. 28, 2008, 122 Stat. 418.
+Pub. L. 106–65, div. C, title XXXIV, §3402(a)–(e), Oct. 5, 1999, 113 Stat. 972, 973; Pub. L. 108–136, div. C, title XXXIII, §3302, Nov. 24, 2003, 117 Stat. 1788; Pub. L. 109–163, div. C, title XXXIII, §3302(b), Jan. 6, 2006, 119 Stat. 3546; Pub. L. 110–181, div. A, title XIV, §1412(a), Jan. 28, 2008, 122 Stat. 418; Pub. L. 111–383, div. A, title XIV, §1412, Jan. 7, 2011, 124 Stat. 4412.
 
 Pub. L. 106–31, title I, §303, May 21, 1999, 113 Stat. 67.
 

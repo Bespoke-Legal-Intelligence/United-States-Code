@@ -46,7 +46,7 @@ The State educational agency for a State that receives a grant under section 661
 
 &emsp;(6) Providing professional development for teachers and principals and, in cases in which a State educational agency determines support to be appropriate, supporting the participation of pupil services personnel in the same type of professional development activities as are made available to teachers and principals.
 
-&emsp;(7) Developing systems to measure the effectiveness of specific professional development programs and strategies to document gains in student academic achievement or increases in teacher mastery of the academic subjects the teachers teach.
+&emsp;(7) Developing systems to measure the effectiveness of specific professional developmentprograms and strategies to document gains in student academic achievement or increases in teacher mastery of the academic subjects the teachers teach.
 
 &emsp;(8) Fulfilling the State educational agency's responsibilities concerning proper and efficient administration of the programs carried out under this part, including provision of technical assistance to local educational agencies.
 
@@ -95,4 +95,6 @@ The Higher Education Act of 1965, referred to in subsec. (c)(5), is Pub. L. 89�
 The No Child Left Behind Act of 2001, referred to in subsec. (c)(15), is Pub. L. 107–110, Jan. 8, 2002, 115 Stat. 1425. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 6301 of this title and Tables.
 
 Section 202 of the Higher Education Act of 1965, referred to in subsec. (e), which was classified to section 1022 of this title, was repealed by Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3133. Pub. L. 110–315 enacted a new section 202 of the Act, relating to partnership grants, which is classified to section 1022a of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

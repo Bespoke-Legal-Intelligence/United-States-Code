@@ -26,7 +26,7 @@ The Commission is authorized—
 
 #### (c) Purchase of supplies without advertising
 
-The Commission may (1) make arrangements pursuant to this section, without regard to the provisions of section 5 of title 41, upon certification by the Commission that such action is necessary in the interest of the common defense and security, or upon a showing by the Commission that advertising is not reasonably practicable; (2) make partial and advance payments under such arrangements; and (3) make available for use in connection therewith such of its equipment and facilities as it may deem desirable.
+The Commission may (1) make arrangements pursuant to this section, without regard to the provisions of section 6101 of title 41, upon certification by the Commission that such action is necessary in the interest of the common defense and security, or upon a showing by the Commission that advertising is not reasonably practicable; (2) make partial and advance payments under such arrangements; and (3) make available for use in connection therewith such of its equipment and facilities as it may deem desirable.
 
 #### (d) Prevention of dissemination of information prohibited; other conditions of agreements
 
@@ -34,19 +34,23 @@ The arrangements made pursuant to this section shall contain such provisions (1)
 
 (Aug. 1, 1946, ch. 724, title I, §31, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 927; amended Aug. 6, 1956, ch. 1015, §§2, 3, 70 Stat. 1069; Pub. L. 91–560, §1, Dec. 19, 1970, 84 Stat. 1472; Pub. L. 92–84, title II, §201(a), Aug. 11, 1971, 85 Stat. 307; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 109–58, title VI, §651(c)(1), Aug. 8, 2005, 119 Stat. 801.)
 
+#### Codification
+
+In subsec. (c)(1), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes, as amended” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 1803(a) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Amendments
 
-2005—Subsec. (b). Pub. L. 109–58 inserted heading, inserted par. (1) designation before “to make grants”, in introductory provisions substituted “authorized—” for “further authorized”, and added par. (2).
+<b>2005</b>—Subsec. (b). Pub. L. 109–58 inserted heading, inserted par. (1) designation before “to make grants”, inintroductory provisions substituted “authorized—” for “further authorized”, and added par. (2).
 
-1971—Subsec. (a)(6). Pub. L. 92–84 added par. (6).
+<b>1971</b>—Subsec. (a)(6). Pub. L. 92–84 added par. (6).
 
-1970—Subsec. (a)(4). Pub. L. 91–560 inserted commercial uses as an additional purpose and substituted “demonstration of advances in the commercial or industrial application of atomic energy” for “demonstration of the practical value of utilization or production facilities for industrial or commercial purposes”.
+<b>1970</b>—Subsec. (a)(4). Pub. L. 91–560 inserted commercial uses as an additional purpose and substituted “demonstration of advances in the commercial or industrial application of atomic energy” for “demonstration of the practical value of utilization or production facilities for industrial or commercial purposes”.
 
-1956—Subsec. (a). Act Aug. 6, 1956, §2, inserted “and training” after “development” in first sentence.
+<b>1956</b>—Subsec. (a). Act Aug. 6, 1956, §2, inserted “and training” after “development” in first sentence.
 
 Subsecs. (b) to (d). Act Aug. 6, 1956, §3, added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 

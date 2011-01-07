@@ -62,21 +62,21 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2009—Par. (1). Pub. L. 111–5, §§1881(1), 1893, temporarily amended par. (1) generally. Prior to amendment,text read as follows: “The term ‘agricultural commodity’ means any agricultural commodity (including livestock) in its raw or natural state.” See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Par. (1). Pub. L. 111–5, §§1881(1), 1893, temporarily amended par. (1) generally. Prior to amendment,text read as follows: “The term ‘agricultural commodity’ means any agricultural commodity (including livestock) in its raw or natural state.” See Effective and Termination Dates of 2009 Amendment note below.
 
 Par. (2). Pub. L. 111–5, §§1881(2), 1893, temporarily amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘agricultural commodity producer’ has the same meaning as the term ‘person’ as prescribed by regulations promulgated under section 1308(e) of title 7 (before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008).” See Effective and Termination Dates of 2009 Amendment note below.
 
 Par. (7). Pub. L. 111–5, §§1881(3), 1893, temporarily added par. (7). See Effective and Termination Dates of 2009 Amendment note below.
 
-2008—Par. (2). Pub. L. 110–246, §1603(g)(6), inserted “(before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008)” before period at end.
+<b>2008</b>—Par. (2). Pub. L. 110–246, §1603(g)(6), inserted “(before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008)” before period at end.
 
-2006—Par. (2). Pub. L. 109–280 substituted “1308(e)” for “1308(5)”.
+<b>2006</b>—Par. (2). Pub. L. 109–280 substituted “1308(e)” for “1308(5)”.
 
 #### Effective and Termination Dates of 2009 Amendment
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -92,5 +92,5 @@ Pub. L. 107–210, div. A, title I, §141(b), Aug. 6, 2002, 116 Stat. 953, as am
 
 #### Termination Date
 
-Except as otherwise provided, technical assistance and financial assistance may not be provided under this part after Dec. 31, 2010, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and financial assistance may not be provided under this section after Feb. 12, 2011, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

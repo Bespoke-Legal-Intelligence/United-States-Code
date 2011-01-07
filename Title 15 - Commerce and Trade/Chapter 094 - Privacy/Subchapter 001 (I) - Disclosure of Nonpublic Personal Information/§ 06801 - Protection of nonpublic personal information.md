@@ -14,11 +14,19 @@ In furtherance of the policy in subsection (a) of this section, each agency or a
 
 &emsp;(3) to protect against unauthorized access to or use of such records or information which could result in substantial harm or inconvenience to any customer.
 
-(Pub. L. 106–102, title V, §501, Nov. 12, 1999, 113 Stat. 1436.)
+(Pub. L. 106–102, title V, §501, Nov. 12, 1999, 113 Stat. 1436; Pub. L. 111–203, title X, §1093(1), July 21, 2010, 124 Stat. 2095.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 111–203, title X, §§1093(1), 1100H, July 21, 2010, 124 Stat. 2095, 2113, provided that, effective on the designated transfer date, subsection (b) of this section is amended by inserting “, other than the Bureau of Consumer Financial Protection,” after “6805(a) of this title”. See Effective Date of 2010 Amendment note below.</i>
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date
 
-Pub. L. 106–102, title V, §510, Nov. 12, 1999, 113 Stat. 1445, provided that: “This subtitle \[subtitle A (§§501–510) of title V of Pub. L. 106–102, enacting this subchapter and amending section 1681s of this title\] shall take effect 6 months after the date on which rules are required to be prescribed under section 504(a)(3) \[15 U.S.C. 6804(a)(3)\], except—
+Pub. L. 106–102, title V, §510, Nov. 12, 1999, 113 Stat. 1445, provided that: “This subtitle \[subtitle A\(§§501–510) of title V of Pub. L. 106–102, enacting this subchapter and amending section 1681s of this title\] shall take effect 6 months after the date on which rules are required to be prescribed under section 504(a)(3) \[15 U.S.C. 6804(a)(3)\], except—
 
 &emsp;“(1) to the extent that a later date is specified in the rules prescribed under section 504; and
 

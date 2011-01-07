@@ -10,17 +10,17 @@ References to sections 2151a through 2151d of this title are deemed to include a
 
 #### Amendments
 
-1985—Pub. L. 99–83 struck out subsec. (a) designation, and struck out subsec. (b) which set forth funding limits for grant assistance under sections 2151a to 2151d of this title.
+<b>1985</b>—Pub. L. 99–83 struck out subsec. (a) designation, and struck out subsec. (b) which set forth funding limits for grant assistance under sections 2151a to 2151d of this title.
 
-1978—Subsec. (a). Pub. L. 94–424 struck out provision, following “on an ‘in-kind’ basis”, relating to waiver by the President of cost-sharing requirement in case of a project or activity in a country determined to be relatively least developed by the agency primarily responsible for administering subchapter I of this chapter.
+<b>1978</b>—Subsec. (a). Pub. L. 94–424 struck out provision, following “on an ‘in-kind’ basis”, relating to waiver by the President of cost-sharing requirement in case of a project or activity in a country determined to be relatively least developed by the agency primarily responsible for administering subchapter I of this chapter.
 
 Subsec. (b). Pub. L. 95–424 substituted “No” for “Except for grants to countries determined to be relatively least developed based on the United Nations Conference on Trade and Development list of ‘relatively least developed countries’, no”.
 
-1977—Subsec. (a). Pub. L. 95–88, §106(1), substituted “sections 2151a through 2151d” for “sections 2151a through 2151e”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–88, §106(1), substituted “sections 2151a through 2151d” for “sections 2151a through 2151e”.
 
 Subsec. (b). Pub. L. 95–88, §106(2), inserted provisions creating an exception for grants to countries determined to be relatively least developed based on the United Nations Conference on Trade and Development list of “relatively least developed countries” and substituted “sections 2151a through 2151d” for “sections 2151a through 2151e”.
 
-1975—Subsec. (a). Pub. L. 94–161 authorized Presidential waiver of cost-sharing as a condition for being furnished project or activity assistance in the case of a relatively least developed country.
+<b>1975</b>—Subsec. (a). Pub. L. 94–161 authorized Presidential waiver of cost-sharing as a condition for being furnished project or activity assistance in the case of a relatively least developed country.
 
 #### Effective Date of 1985 Amendment
 

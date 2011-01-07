@@ -170,7 +170,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (B) Improvements to establish secure system
 
-&emsp;&emsp;To the extent that the system established under subsection (b) of this section is found not to be a secure system to determine employment eligibility in the United States, the President shall, subject to paragraph (3) and taking into account the results of anydemonstration projects conducted under paragraph (4), implement such changes in (including additions to) the requirements of subsection (b) of this section as may be necessary to establish a secure system to determine employment eligibility in the United States. Such changes in the system may be implemented only if the changes conform to the requirements of paragraph (2).
+&emsp;&emsp;To the extent that the system established under subsection (b) of this section is found not to be a secure system to determine employment eligibility in the United States, the President shall, subject to paragraph (3) and taking into account the results of any demonstration projects conducted under paragraph (4), implement such changes in (including additions to) the requirements of subsection (b) of this section as may be necessary to establish a secure system to determine employment eligibility in the United States. Such changes in the system may be implemented only if the changes conform to the requirements of paragraph (2).
 
 #### (2) Restrictions on changes in system
 
@@ -220,7 +220,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;&emsp;&emsp;(iii) two years, in the case of a major change described in clause (i) or (ii) of subparagraph (D),
 
-> &emsp;&emsp;before the date of implementation of the change, the President has prepared and transmitted to the Committee on the Judiciary of the House of Representatives and to the Committee on the Judiciary of the Senate a written report setting forth the proposed change. If the President proposes to make any change regarding social security account number cards, the President shall transmit to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate a written report setting forth the proposed change. The President promptly shall cause to have printed in the Federal Register the substance of any major change (described in subparagraph (D)) proposed and reported to Congress.
+> &emsp;&emsp;before the date of implementation of the change, the President has prepared and transmitted to the Committee on the Judiciary of the House of Representatives and to the Committee on the Judiciary of the Senate a written report setting forth the proposed change. If the President proposes to make any change regarding social security account number cards, the President shall transmit to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate a written report setting forth the proposed change. The President promptly shall cause to have printed in the Federal Register thesubstance of any major change (described in subparagraph (D)) proposed and reported to Congress.
 
 #### (B) Contents of report
 
@@ -244,7 +244,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;&emsp;&emsp;(ii) provide for a telephone verification system under which an employer, recruiter, or referrer must transmit to a Federal official information concerning the immigration status of prospective employees and the official transmits to the person, and the person must record, a verification code, or
 
-&emsp;&emsp;&emsp;(iii) require any change in any card used for accounting purposes under the SocialSecurity Act \[42 U.S.C. 301 et seq.\], including any change requiring that the only social security account number cards which may be presented in order to comply with subsection (b)(1)(C)(i) of this section are such cards as are in a counterfeit-resistant form consistent with the second sentence of section 205(c)(2)(D) of the Social Security Act \[42 U.S.C. 405(c)(2)(D)\].
+&emsp;&emsp;&emsp;(iii) require any change in any card used for accounting purposes under the Social Security Act \[42 U.S.C. 301 et seq.\], including any change requiring that the only social security account number cards which may be presented in order to comply with subsection (b)(1)(C)(i) of this section are such cards as are in a counterfeit-resistant form consistent with the second sentence of section 205(c)(2)(D) of the Social Security Act \[42 U.S.C. 405(c)(2)(D)\].
 
 #### (E) General revenue funding of social security card changes
 
@@ -294,7 +294,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (B) Conduct of hearing
 
-&emsp;&emsp;Any hearing so requested shall be conducted before an administrative law judge. The hearing shall be conducted in accordance with the requirements of section 554 of title 5. The hearing shall be held at the nearest practicable place to the place where the person or entity resides or of the place where the alleged violation occurred. If no hearing is so requested, the Attorney General's imposition of the order shall constitute a final and unappealable order.
+&emsp;&emsp;Any hearing so requested shall be conducted before an administrative law judge.The hearing shall be conducted in accordance with the requirements of section 554 of title 5. The hearing shall be held at the nearest practicable place to the place where the person or entity resides or of the place where the alleged violation occurred. If no hearing is so requested, the Attorney General's imposition of the order shall constitute a final and unappealable order.
 
 #### (C) Issuance of orders
 
@@ -314,7 +314,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;&emsp;(B) may require the person or entity—
 
-&emsp;&emsp;&emsp;(i) to comply with the requirements of subsection (b) of this section (or subsection (d) of this section if applicable) with respect to individuals hired (or recruited or referred for employment for afee) during a period of up to three years, and
+&emsp;&emsp;&emsp;(i) to comply with the requirements of subsection (b) of this section (or subsection (d) of this section if applicable) with respect to individuals hired (or recruited or referred for employment for a fee) during a period of up to three years, and
 
 &emsp;&emsp;&emsp;(ii) to take such other remedial action as is appropriate.
 
@@ -348,7 +348,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (2) Enjoining of pattern or practice violations
 
-&emsp;Whenever the Attorney General has reasonable cause to believe that a person or entity is engaged in a pattern or practice of employment, recruitment, or referral in violation of paragraph (1)(A) or (2) of subsection (a) of this section, the Attorney General may bring a civil action in the appropriate district court of the United States requesting such relief, including a permanent or temporary injunction, restraining order, or other order against the person or entity, as the Attorney General deems necessary.
+&emsp;Whenever the Attorney General has reasonable cause to believe that a person or entity is engaged in a pattern or practice of employment, recruitment, or referral in violation ofparagraph (1)(A) or (2) of subsection (a) of this section, the Attorney General may bring a civil action in the appropriate district court of the United States requesting such relief, including a permanent or temporary injunction, restraining order, or other order against the person or entity, as the Attorney General deems necessary.
 
 #### (g) Prohibition of indemnity bonds
 
@@ -368,7 +368,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (2) Preemption
 
-&emsp;The provisions of this section preempt any State or local law imposing civil or criminal sanctions (other than through licensing andsimilar laws) upon those who employ, or recruit or refer for a fee for employment, unauthorized aliens.
+&emsp;The provisions of this section preempt any State or local law imposing civil or criminal sanctions (other than through licensing and similar laws) upon those who employ, or recruit or refer for a fee for employment, unauthorized aliens.
 
 #### (3) Definition of unauthorized alien
 
@@ -377,6 +377,8 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 (June 27, 1952, ch. 477, title II, ch. 8, §274A, as added Pub. L. 99–603, title I, §101(a)(1), Nov. 6, 1986, 100 Stat. 3360; amended Pub. L. 100–525, §2(a)(1), Oct. 24, 1988, 102 Stat. 2609; Pub. L. 101–649, title V, §§521(a), 538(a), Nov. 29, 1990, 104 Stat. 5053, 5056; Pub. L. 102–232, title III, §§306(b)(2), 309(b)(11), Dec. 12, 1991, 105 Stat. 1752, 1759; Pub. L. 103–416, title II, §§213, 219(z)(4), Oct. 25, 1994, 108 Stat. 4314, 4318; Pub. L. 104–208, div. C, title III, §379(a), title IV, §§411(a), 412(a)–(d), 416, Sept. 30, 1996, 110 Stat. 3009–649, 3009–666 to 3009–669; Pub. L. 108–390, §1(a), Oct. 30, 2004, 118 Stat. 2242.)
 
 #### References in Text
+
+This chapter, referred to in subsecs. (b)(2), (5), (d)(2)(F), (G), and (h)(3), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 The Social Security Act, referred to in subsec. (d)(3)(D)(iii), (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -898,7 +900,7 @@ Design and Operation of System.—The confirmation system shall be designed and 
 
 &emsp;&emsp;“(B) the use of the system prior to an offer of employment; or
 
-&emsp;&emsp;“(C) the exclusion of certain individuals from consideration for employment as a result of a perceived likelihood that additional verification will be required, beyond what is required for most job applicants.
+&emsp;&emsp;“(C) the exclusion of certain individuals from consideration for employment as a result of a perceived likelihood that additional verification willbe required, beyond what is required for most job applicants.
 
 “(e)
 
@@ -974,7 +976,7 @@ Report Required.—The Attorney General shall report to the Committees on the Ju
 
 #### Interim Regulations
 
-Section 101(a)(2) of Pub. L. 99–603 provided that: “The Attorney General shall, not later than the first day of the seventh month beginning after the date of the enactment of this Act \[Nov. 6, 1986\], first issue, on an interim or other basis, such regulations as may be necessary in order to implement this section \[enacting this section, amending sections 1802, 1813, 1816, and 1851 of Title 29, Labor, and enacting provisions set out as notes under this section, section 1802 of Title 29, and section 405 of Title 42, The Public Health and Welfare\].”
+Section 101(a)(2) of Pub. L. 99–603 provided that: “The Attorney General shall, not later than the first day of the seventh month beginning after the date of the enactment of this Act \[Nov. 6, 1986\], first issue, on an interim or other basis, such regulations as may be necessary in order to implement this section \[enacting this section, amending sections 1802, 1813, 1816, and 1851 ofTitle 29, Labor, and enacting provisions set out as notes under this section, section 1802 of Title 29, and section 405 of Title 42, The Public Health and Welfare\].”
 
 #### Grandfather Provision for Current Employees
 
@@ -1052,7 +1054,7 @@ Sec. 3. Using the procedures established pursuant to 8 U.S.C. 1324a(e): (a) the 
 
 (c) the Attorney General shall hold such hearings as are required under 8 U.S.C. 1324a(e) to determine whether an entity covered under section 3(a) is not in compliance with the INA employment provisions.
 
-Sec. 4. (a) Whenever the Secretary of Homeland Security or the Attorney General determines that a contractor or an organizational unit thereof is not in compliance with the INA employment provisions, the Secretary of Homeland Security or the Attorney General shall transmit that determination to the appropriate contracting agency and such other Federal agencies as the Secretary of Homeland Security or the AttorneyGeneral may determine. Upon receipt of such determination from the Secretary of Homeland Security or the Attorney General, the head of the appropriate contracting agency shall consider the contractor or an organizational unit thereof for debarment as well as for such other action as may be appropriate in accordance with the procedures and standards prescribed by the Federal Acquisition Regulation.
+Sec. 4. (a) Whenever the Secretary of Homeland Security or the Attorney General determines that a contractor or an organizational unit thereof is not in compliance with the INA employment provisions, the Secretary of Homeland Security or the Attorney General shall transmit that determination to the appropriate contracting agency and such other Federal agencies as the Secretary of Homeland Security or the Attorney General may determine. Upon receipt of such determination from the Secretary of Homeland Security or the Attorney General, the head of the appropriate contracting agency shall consider the contractor or an organizational unit thereof for debarment as well as for such other action as may be appropriate in accordance with the procedures and standards prescribed by the Federal Acquisition Regulation.
 
 (b) The head of the contracting agency may debar the contractor or an organizational unit thereof based on the determination of the Secretary of Homeland Security or the Attorney General that it is not in compliance with the INA employment provisions. Such determination shall not be reviewable in the debarment proceedings.
 

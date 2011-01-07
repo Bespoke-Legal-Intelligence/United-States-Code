@@ -8,7 +8,7 @@ Any State desiring to avail itself of the benefits of this chapter shall, by its
 
 (2) A State may elect to avail itself of the benefits of this chapter by its State fish and game department submitting to the Secretary of the Interior full and detailed statements of any fish restoration and management project proposed for that State. If the Secretary of the Interior finds that such project meets with the standards set by him and approves said project, the State fish and game department shall furnish to him such surveys, plans, specifications, and estimates therefor as he may require. If the Secretary of the Interior approves the plans, specifications, and estimates for the project, he shall notify the State fish and game department and immediately set aside so much of said appropriation as represents the share of the United States payable under this chapter on account of such project, which sum so set aside shall not exceed 75 per centum of the total estimated cost thereof.
 
-The Secretary of the Interior shall approve only such comprehensive plans or projects as may be substantial in character and design and the expenditure of funds hereby authorized shall be applied only to such approved comprehensive fishery plan or projects and if otherwise applied they shall be replaced by the State before it may participate in any further apportionment under this chapter. No payment of any money apportioned under this chapter shall be made on any comprehensive fishery plan or project until an agreement to participate therein shall have been submitted to and approved by the Secretary of the Interior.
+The Secretary of the Interior shall approve only such comprehensive plans or projects as may be substantial in character and design and the expenditure of funds hereby authorized shall be applied only to such approved comprehensive fishery plan or projects and if otherwise applied they shall be replaced by the State before it may participate in any further apportionment under this chapter. No payment of any money apportioned under this chapter shall be made on any comprehensive fishery plan or project untilan agreement to participate therein shall have been submitted to and approved by the Secretary of the Interior.
 
 #### (b) “Project” defined
 
@@ -26,9 +26,9 @@ The Secretary of the Interior may enter into agreements to finance up to 75 per 
 
 #### Amendments
 
-1984—Subsec. (d). Pub. L. 98–369 added subsec. (d).
+<b>1984</b>—Subsec. (d). Pub. L. 98–369 added subsec. (d).
 
-1970—Subsec. (a). Pub. L. 91–503 added an alternative method of application for funds by submission of a comprehensive fish and wildlife resource management plan for a period of five years based on projections for fifteen years, to be updated every three years, laid down a maximum limit of assistance of 75 percent of the estimated cost of the implementation of plan, and in existing method of application struck out reference to Secretary of the Treasury and requirement that State pay 10 percent of costs.
+<b>1970</b>—Subsec. (a). Pub. L. 91–503 added an alternative method of application for funds by submission of a comprehensive fish and wildlife resource management plan for a period of five years based on projections for fifteen years, to be updated every three years, laid down a maximum limit of assistance of 75 percent of the estimated cost of the implementation of plan, and in existing method of application struck out reference to Secretary of the Treasury and requirement that State pay 10 percent of costs.
 
 Subsecs. (b), (c). Pub. L. 91–503 added subsecs. (b) and (c).
 

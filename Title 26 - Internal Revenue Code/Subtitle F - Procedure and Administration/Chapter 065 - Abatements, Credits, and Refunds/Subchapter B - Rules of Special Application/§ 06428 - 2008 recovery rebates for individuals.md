@@ -28,7 +28,7 @@ In the case of an eligible individual, there shall be allowed as a credit agains
 
 &emsp;&emsp;&emsp;(i) net income tax liability which is greater than zero, and
 
-&emsp;&emsp;&emsp;(ii) gross income which is greater than the sum of the basic standard deduction plus the exemption amount (twice the exemption amount in the case of a joint return).
+&emsp;&emsp;&emsp;(ii) gross income which is greater than the sum of the basic standard deductionplus the exemption amount (twice the exemption amount in the case of a joint return).
 
 #### (c) Treatment of credit
 
@@ -126,7 +126,7 @@ For purposes of this section—
 
 &emsp;Paragraph (1) shall not apply to a joint return where at least 1 spouse was a member of the Armed Forces of the United States at any time during the taxable year.
 
-(Added Pub. L. 107–16, title I, §101(b)(1), June 7, 2001, 115 Stat. 42; amended Pub. L. 107–147, title IV, §411(a), Mar. 9, 2002, 116 Stat. 44; Pub. L. 110–185, title I, §101(a), Feb. 13, 2008, 122 Stat. 613; Pub. L. 110–245, title I, §§101(a), 102(b), June 17, 2008, 122 Stat. 1625.)
+(Added Pub. L. 107–16, title I, §101(b)(1), June 7, 2001, 115 Stat. 42; amended Pub. L. 107–147, title IV, §411(a), Mar. 9, 2002, 116 Stat. 44; Pub. L.110–185, title I, §101(a), Feb. 13, 2008, 122 Stat. 613; Pub. L. 110–245, title I, §§101(a), 102(b), June 17, 2008, 122 Stat. 1625.)
 
 #### Termination of Section
 
@@ -138,13 +138,13 @@ A prior section 6428, added Pub. L. 94–12, title I, §101(a), Mar. 29, 1975, 8
 
 #### Amendments
 
-2008—Pub. L. 110–185 amended section generally. Prior to amendment, section allowed eligible individuals a tax credit for the 2001 tax year and provided for certain advance refunds for the 2000 tax year.
+<b>2008</b>—Pub. L. 110–185 amended section generally. Prior to amendment, section allowed eligible individuals a tax credit for the 2001 tax year and provided for certain advance refunds for the 2000 tax year.
 
 Subsec. (e)(4). Pub. L. 110–245, §102(b), substituted “except that” for “except that—”, struck out “(B)” before “such term shall”, and struck out subpar. (A) which read as follows: “subclause (II) of subparagraph (B)(vi) thereof shall be applied by substituting ‘January 1, 2009’ for ‘January 1, 2008’, and”.
 
 Subsec. (h)(3). Pub. L. 110–245, §101(a), added par. (3).
 
-2002—Subsec. (b). Pub. L. 107–147, §411(a)(1), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The credit allowed by subsection (a) shall not exceed the excess (if any) of—
+<b>2002</b>—Subsec. (b). Pub. L. 107–147, §411(a)(1), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The credit allowed by subsection (a) shall not exceed the excess (if any) of—
 
 &emsp;“(1) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
@@ -184,7 +184,7 @@ Amendment by Pub. L. 107–147 effective as if included in the provisions of the
 
 Section applicable to taxable years beginning after Dec. 31, 2000, see section 101(d)(1) of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
 
-Section inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if it had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
+Section inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if it had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
 
 #### Economic Recovery Payment to Recipients of Social Security, Supplemental Security Income, Railroad Retirement Benefits, and Veterans Disability Compensation or Pension Benefits
 
@@ -320,7 +320,7 @@ Payment not considered income for purposes of taxation.—A payment under subsec
 
 &emsp;“(3)
 
-Payments protected from assignment.—The provisions of sections 207 and 1631(d)(1) of the SocialSecurity Act (42 U.S.C. 407, 1383(d)(1)), section 14(a) of the Railroad Retirement Act of 1974 (45 U.S.C. 231m(a)), and section 5301 of title 38, United States Code, shall apply to any payment made under subsection (a) as if such payment was a benefit payment or cash benefit to such individual under the applicable program described in subparagraph (B) or (C) of subsection (a)(1).
+Payments protected from assignment.—The provisions of sections 207 and 1631(d)(1) of the Social Security Act (42 U.S.C. 407, 1383(d)(1)), section 14(a) of the Railroad Retirement Act of 1974 (45 U.S.C. 231m(a)), and section 5301 of title 38, United States Code, shall apply to any payment made under subsection (a) as if such payment was a benefit payment or cash benefit to such individual under the applicable program described in subparagraph (B) or (C) of subsection (a)(1).
 
 &emsp;“(4)
 
@@ -344,7 +344,7 @@ Payment on the basis of a title ii or ssi benefit.—Section 1129(a)(3) of the S
 
 &emsp;&emsp;“(B)
 
-Payment on the basis of a railroad retirement benefit.—Section 13 of the Railroad Retirement Act \[of 1974\] (45 U.S.C. 231<i>l</i>) shall apply to any payment made on the basis of an entitlement to a benefit specified in paragraph (1)(B)(ii) of subsection (a) in the same manner as such section applies to a payment under such Act \[45 U.S.C. 231 et seq.\].
+Payment on the basis of a railroad retirement benefit.—Section 13 of the Railroad Retirement Act \[of 1974\] (45 U.S.C. 231<i>l</i>) shall apply to anypayment made on the basis of an entitlement to a benefit specified in paragraph (1)(B)(ii) of subsection (a) in the same manner as such section applies to a payment under such Act \[45 U.S.C. 231 et seq.\].
 
 &emsp;&emsp;“(C)
 
@@ -428,7 +428,7 @@ Deficiency rules.—For purposes of section 6211(b)(4)(A) of the Internal Revenu
 
 “(d)
 
-Refunds Disregarded in the Administration of Federal Programs and Federally Assisted Programs.—Any credit or refund allowed or made to any individual by reason of this section shall not be taken into account as income and shall not be taken into account as resources for the month of receipt and the following 2 months, for purposes of determining the eligibility of such individual or any other individual forbenefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds.”
+Refunds Disregarded in the Administration of Federal Programs and Federally Assisted Programs.—Any credit or refund allowed or made to any individual by reason of this section shall not be taken into account as income and shall not be taken into account as resources for the month of receipt and the following 2 months, for purposes of determining the eligibility of such individual or any other individual for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds.”
 
 #### Treatment of Possessions
 

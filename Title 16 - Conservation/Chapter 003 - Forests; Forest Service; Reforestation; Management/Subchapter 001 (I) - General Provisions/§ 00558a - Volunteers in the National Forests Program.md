@@ -4,15 +4,9 @@ The Secretary of Agriculture (hereinafter referred to as the “Secretary”) is
 
 (Pub. L. 92–300, §1, May 18, 1972, 86 Stat. 147; Pub. L. 103–82, title IV, §405(d), Sept. 21, 1993, 107 Stat. 921.)
 
-#### References in Text
-
-The civil service laws, referred to in text, are set out in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
-The classification laws, referred to in text, are classified to chapter 51 (§5101 et seq.) and subchapter III (§5331 et seq.) of chapter 53 of Title 5.
-
 #### Amendments
 
-1993—Pub. L. 103–82 substituted “the Corporation for National and Community Service” for “ACTION”.
+<b>1993</b>—Pub. L. 103–82 substituted “the Corporation for National and Community Service” for “ACTION”.
 
 #### Effective Date of 1993 Amendment
 

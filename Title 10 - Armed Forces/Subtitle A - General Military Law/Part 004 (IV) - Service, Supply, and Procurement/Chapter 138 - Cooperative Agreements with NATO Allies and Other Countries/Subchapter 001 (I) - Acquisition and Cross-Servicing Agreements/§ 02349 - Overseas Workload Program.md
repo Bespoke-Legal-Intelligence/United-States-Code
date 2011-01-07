@@ -38,5 +38,5 @@ Pub. L. 100–180, div. A, title X, §1021, Dec. 4, 1987, 101 Stat. 1143.
 
 #### Amendments
 
-2004—Subsec. (d). Pub. L. 108–375 substituted “section 2350a(i)(2)” for “section 2350a(i)(3)”.
+<b>2004</b>—Subsec. (d). Pub. L. 108–375 substituted “section 2350a(i)(2)” for “section 2350a(i)(3)”.
 

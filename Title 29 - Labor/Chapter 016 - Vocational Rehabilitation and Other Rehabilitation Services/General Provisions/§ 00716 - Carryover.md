@@ -32,5 +32,5 @@ Another prior section 19 of Pub. L. 93–112 was classified to section 718 of th
 
 #### Amendments
 
-1998—Pub. L. 105–277, §101(f) \[title VIII, §402(b)(4)\], made technical amendment in the original to section designation and catchline.
+<b>1998</b>—Pub. L. 105–277, §101(f) \[title VIII, §402(b)(4)\], made technical amendment in the original to section designation and catchline.
 

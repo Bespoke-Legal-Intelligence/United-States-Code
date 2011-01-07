@@ -20,7 +20,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-130501D36:1071.DJuly 16, 1964, Pub. L. 88–378, §§1, 2, 78 Stat. 325.
+130501
+
+36:1071.
+
+July 16, 1964, Pub. L. 88–378, §§1, 2, 78 Stat. 325.
 
 &nbsp;
 

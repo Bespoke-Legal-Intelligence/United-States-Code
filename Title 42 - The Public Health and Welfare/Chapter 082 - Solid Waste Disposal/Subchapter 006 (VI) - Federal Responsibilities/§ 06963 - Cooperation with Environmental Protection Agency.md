@@ -12,7 +12,7 @@ The Administrator shall collect, maintain, and disseminate information concernin
 
 #### Amendments
 
-1980—Pub. L. 96–482 designated existing provision as subsec. (a), substituted provision that information be provided in a format determined by the Administrator for provision that information be furnished on a reimbursable basis, and added subsec. (b).
+<b>1980</b>—Pub. L. 96–482 designated existing provision as subsec. (a), substituted provision that information be provided in a format determined by the Administrator for provision that information be furnished on a reimbursable basis, and added subsec. (b).
 
 #### Transfer of Functions
 

@@ -132,9 +132,9 @@ A prior section, act June 17, 1930, ch. 497, title VII, §739, as added July 26,
 
 #### Amendments
 
-1994—Subsec. (b)(2)(B)(ii), (3)(A)(i), (B)(i). Pub. L. 103–465 substituted “normal value” for “foreign market value” and “export price (or the constructed export price)” for “United States price”.
+<b>1994</b>—Subsec. (b)(2)(B)(ii), (3)(A)(i), (B)(i). Pub. L. 103–465 substituted “normal value” for “foreign market value” and “export price (or the constructed export price)” for “United States price”.
 
-1990—Subsec. (a)(1)(B)(v). Pub. L. 101–382 substituted “Harmonized Tariff Schedule” for “Tariff Schedules”.
+<b>1990</b>—Subsec. (a)(1)(B)(v). Pub. L. 101–382 substituted “Harmonized Tariff Schedule” for “Tariff Schedules”.
 
 #### Effective Date of 1994 Amendment
 

@@ -24,21 +24,21 @@ The words “is not effective after” are substituted for “shall expire at th
 
 #### Amendments
 
-2008—Pub. L. 110–181 substituted “December 31, 2013” for “March 30, 2008”.
+<b>2008</b>—Pub. L. 110–181 substituted “December 31, 2013” for “March 30, 2008”.
 
-2003—Pub. L. 108–176 substituted “March 30, 2008” for “December 31, 2004”.
+<b>2003</b>—Pub. L. 108–176 substituted “March 30, 2008” for “December 31, 2004”.
 
 Pub. L. 108–11, substituted “2004” for “2003”.
 
-2000—Pub. L. 106–181 substituted “after December 31, 2003.” for “after August 6, 1999.”
+<b>2000</b>—Pub. L. 106–181 substituted “after December 31, 2003.” for “after August 6, 1999.”
 
-1999—Pub. L. 106–31 substituted “August 6, 1999” for “May 31, 1999”.
+<b>1999</b>—Pub. L. 106–31 substituted “August 6, 1999” for “May 31, 1999”.
 
 Pub. L. 106–6 substituted “May” for “March”.
 
-1998—Pub. L. 105–277 substituted “March 31, 1999” for “December 31, 1998”.
+<b>1998</b>—Pub. L. 105–277 substituted “March 31, 1999” for “December 31, 1998”.
 
-1997—Pub. L. 105–137 substituted “December 31, 1998” for “September 30, 2002”.
+<b>1997</b>—Pub. L. 105–137 substituted “December 31, 1998” for “September 30, 2002”.
 
 Pub. L. 105–85 substituted “September 30, 2002” for “September 30, 1997”.
 

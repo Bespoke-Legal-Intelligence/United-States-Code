@@ -6,15 +6,15 @@
 
 &emsp;Gross income of an employee does not include amounts paid or expenses incurred by the employer for qualified adoption expenses in connection with the adoption of a child by an employee if such amounts are furnished pursuant to an adoption assistance program.
 
-#### (2) $10,000 exclusion for adoption of child with special needs regardless of expenses
+#### (2) $13,170 exclusion for adoption of child with special needs regardless of expenses
 
-&emsp;In the case of an adoption of a child with special needs which becomes final during a taxable year, the qualified adoption expenses with respect to such adoption for such year shall be increased by an amount equal to the excess (if any) of $10,000 over the actual aggregate qualified adoption expenses with respect to such adoption during such taxable year and all prior taxable years.
+&emsp;In the case of an adoption of a child with special needs which becomes final during a taxable year, the qualified adoption expenses with respect to such adoption for such year shall be increased by an amount equal to the excess (if any) of $13,170 over the actual aggregate qualified adoption expenses with respect to such adoption during such taxable year and all prior taxable years.
 
 #### (b) Limitations
 
 #### (1) Dollar limitation
 
-&emsp;The aggregate of the amounts paid or expenses incurred which may be taken into account under subsection (a) for all taxable years with respect to the adoption of a child by the taxpayer shall not exceed $10,000.
+&emsp;The aggregate of the amounts paid or expenses incurred which may be taken into account under subsection (a) for all taxable years with respect to the adoption of a child by the taxpayer shall not exceed $13,170.
 
 #### (2) Income limitation
 
@@ -44,29 +44,43 @@ For purposes of this section, an adoption assistance program is a separate writt
 
 #### (d) Qualified adoption expenses
 
-For purposes of this section, the term “qualified adoption expenses” has the meaning given such term by section 23(d) (determined without regard to reimbursements under this section).
+For purposes of this section, the term “qualified adoption expenses” has the meaning givensuch term by section 36C(d) (determined without regard to reimbursements under this section).
 
 #### (e) Certain rules to apply
 
-Rules similar to the rules of subsections (e), (f), and (g) of section 23 shall apply for purposes of this section.
+Rules similar to the rules of subsections (e), (f), and (g) of section 36C shall apply for purposes of this section.
 
 #### (f) Adjustments for inflation
 
-In the case of a taxable year beginning after December 31, 2002, each of the dollar amounts in subsection (a)(2) and paragraphs (1) and (2)(A) of subsection (b) shall be increased by an amount equal to—
+#### (1) Dollar limitations
 
-&emsp;(1) such dollar amount, multiplied by
+&emsp;In the case of a taxable year beginning after December 31, 2010, each of the dollar amounts in subsections (a)(2) and (b)(1) shall be increased by an amount equal to—
 
-&emsp;(2) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2001” for “calendar year 1992” in subparagraph (B) thereof.
+&emsp;&emsp;(A) such dollar amount, multiplied by
 
-> If any amount as increased under the preceding sentence is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2009” for “calendar year 1992” in subparagraph (B) thereof.
 
-(Added Pub. L. 104–188, title I, §1807(b), Aug. 20, 1996, 110 Stat. 1901; amended Pub. L. 105–34, title XVI, §1601(h)(2)(C), Aug. 5, 1997, 111 Stat. 1092; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(C), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title II, §202(a)(2), (b)(1)(B), (2)(B), (d)(2), (e)(2), title IV, §431(c)(1), June 7, 2001, 115 Stat. 47, 48, 68; Pub. L. 107–147, title IV, §§411(c)(2), 418(a)(2), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–311, title IV, §403(e), Oct. 4, 2004, 118 Stat. 1188; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428.)
+> &emsp;If any amount as increased under the preceding sentence is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10.
+
+#### (2) Income limitation
+
+&emsp;In the case of a taxable year beginning after December 31, 2002, the dollar amount in subsection (b)(2)(A) shall be increased by an amount equal to—
+
+&emsp;&emsp;(A) such dollar amount, multiplied by
+
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2001” for “calendar year 1992” in subparagraph <sup>1</sup> thereof.
+
+> &emsp;If any amount as increased under the preceding sentence is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10.
+
+(Added Pub. L. 104–188, title I, §1807(b), Aug. 20, 1996, 110 Stat. 1901; amended Pub. L. 105–34, title XVI, §1601(h)(2)(C), Aug. 5, 1997, 111 Stat. 1092; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(C), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title II, §202(a)(2), (b)(1)(B), (2)(B), (d)(2), (e)(2), title IV, §431(c)(1), June 7, 2001, 115 Stat. 47, 48, 68; Pub. L. 107–147, title IV, §§411(c)(2), 418(a)(2), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–311, title IV, §403(e), Oct. 4, 2004, 118 Stat. 1188; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 111–148, title X, §10909(a)(2), (b)(2)(J), (c), Mar. 23, 2010, 124 Stat. 1022, 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 10909(c) of Pub. L. 111–148, see Effective and Termination Dates of 2010 Amendment note below.</i>
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
@@ -76,11 +90,29 @@ A prior section 137 was renumbered section 140 of this title.
 
 #### Amendments
 
-2004—Subsec. (b)(1). Pub. L. 108–311 amended directory language of Pub. L. 107–147, §411(c)(2)(B). See 2002 Amendment note below.
+<b>2010</b>—Subsec. (a)(2). Pub. L. 111–148, §10909(a)(2)(B), (c), as amended by Pub. L. 111–312, temporarily substituted “$13,170” for “$10,000” in heading and text. See Effective and Termination Dates of 2010 Amendment note below.
+
+Subsec. (b)(1). Pub. L. 111–148, §10909(a)(2)(A), (c), as amended by Pub. L. 111–312, temporarily substituted “$13,170” for “$10,000”. See Effective and Termination Dates of 2010 Amendment note below.
+
+Subsec. (d). Pub. L. 111–148, §10909(b)(2)(J)(i), (c), as amended by Pub. L. 111–312, temporarily substituted “section 36C(d)” for “section 23(d)”. See Effective and Termination Dates of 2010 Amendment note below.
+
+Subsec. (e). Pub. L. 111–148, §10909(b)(2)(J)(ii), (c), as amended by Pub. L. 111–312, temporarily substituted “section 36C” for “section 23”. See Effective and Termination Dates of 2010 Amendment note below.
+
+Subsec. (f). Pub. L. 111–148, §10909(a)(2)(C), (c), as amended by Pub. L. 111–312, temporarily amended subsec. (f) generally. See Effective and Termination Dates of 2010 Amendment note below. Prior to amendment subsec. (f) read as follows: “
+
+Adjustments for inflation.—In the case of a taxable year beginning after December 31, 2002, each of the dollar amounts in subsection (a)(2) and paragraphs (1) and (2)(A) of subsection (b) shall be increased by an amount equal to—
+
+&emsp;“(1) such dollar amount, multiplied by
+
+&emsp;“(2) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting ‘calendar year 2001’ for ‘calendar year 1992’ in subparagraph (B) thereof.
+
+> If any amount as increased under the preceding sentence is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10.”
+
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–311 amended directory language of Pub. L. 107–147, §411(c)(2)(B). See 2002 Amendment note below.
 
 Subsec. (b)(3)(A). Pub. L. 108–357 inserted “199,” before “221”.
 
-2002—Subsec. (a). Pub. L. 107–147, §411(c)(2)(A), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Gross income of an employee does not include amounts paid or expenses incurred by the employer for adoption expenses in connection with the adoption of a child by an employee if such amounts are furnished pursuant to an adoption assistance program. The amount of the exclusion shall be—
+<b>2002</b>—Subsec. (a). Pub. L. 107–147, §411(c)(2)(A), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Gross income of an employee does not include amounts paid or expenses incurred by the employer for adoption expenses in connection with the adoption of a child by an employee if such amounts are furnished pursuant to an adoption assistance program. The amount of the exclusion shall be—
 
 &emsp;“(1) in the case of an adoption of a child other than a child with special needs, the amount of the qualified adoption expenses paid or incurred by the taxpayer, and
 
@@ -90,7 +122,7 @@ Subsec. (b)(1). Pub. L. 107–147, §411(c)(2)(B), as amended by Pub. L. 108–3
 
 Subsec. (f). Pub. L. 107–147, §418(a)(2), inserted at end “If any amount as increased under the preceding sentence is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10.”
 
-2001—Subsec. (a). Pub. L. 107–16, §§202(a)(2), 901, temporarily reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Gross income of an employee does not include amounts paid or expenses incurred by the employer for qualified adoption expenses in connection with the adoption of a child by an employee if such amounts are furnished pursuant to an adoption assistance program.” See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (a). Pub. L. 107–16, §§202(a)(2), 901, temporarily reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Gross income of an employee does not include amounts paid or expenses incurred by the employer for qualified adoption expenses in connection with the adoption of a child by an employee if such amounts are furnished pursuant to an adoption assistance program.” See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (b)(1). Pub. L. 107–16, §§202(b)(1)(B), 901, temporarily substituted “subsection (a)(1)” for “subsection (a)” and “$10,000” for “$5,000 ($6,000, in the case of a child with special needs)”. See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -100,9 +132,15 @@ Subsec. (b)(3)(A). Pub. L. 107–16, §§431(c)(1), 901, temporarily inserted �
 
 Subsec. (f). Pub. L. 107–16, §§202(d)(2), (e)(2), 901, temporarily added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “This section shall not apply to amounts paid or expenses incurred after December 31, 2001.” See Effective and Termination Dates of 2001 Amendment note below.
 
-1998—Subsec. (b)(3)(A). Pub. L. 105–277 inserted “221,” after “and sections”.
+<b>1998</b>—Subsec. (b)(3)(A). Pub. L. 105–277 inserted “221,” after “and sections”.
 
-1997—Subsec. (b)(1). Pub. L. 105–34 substituted “of the amounts paid or expenses incurred which may be taken into account” for “amount excludable from gross income”.
+<b>1997</b>—Subsec. (b)(1). Pub. L. 105–34 substituted “of the amounts paid or expenses incurred which may be taken into account” for “amount excludable from gross income”.
+
+#### Effective and Termination Dates of 2010 Amendment
+
+Amendment by Pub. L. 111–148 terminated applicable to taxable years beginning after Dec. 31, 2011, and section is amended to read as if such amendment had never been enacted, see section 10909(c) of Pub. L. 111–148, set out as a note under section 1 of this title.
+
+Amendment by Pub. L. 111–148 applicable to taxable years beginning after Dec. 31, 2009, see section 10909(d) of Pub. L. 111–148, set out as a note under section 1 of this title.
 
 #### Effective Date of 2004 Amendments
 
@@ -112,19 +150,19 @@ Amendment by Pub. L. 108–311 effective as if included in the provisions of the
 
 #### Effective Date of 2002 Amendment
 
-Amendment by section 411(c)(2) of Pub. L. 107–147 applicable to taxable years beginning after Dec. 31, 2002, except that amendment by section 411(c)(2)(B) applicable to taxable years beginning after Dec. 31, 2001, see section 411(c)(3) of Pub. L. 107–147, set out as a note under section 23 of this title.
+Amendment by section 411(c)(2) of Pub. L. 107–147 applicable to taxable years beginning after Dec. 31, 2002, except that amendment by section 411(c)(2)(B) applicable to taxable years beginning after Dec. 31, 2001, see section 411(c)(3) of Pub. L. 107–147, set out as a note under section 36C of this title.
 
 Amendment by section 418(a)(2) of Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 418(c) of Pub. L. 107–147, set out as a note under section 21 of this title.
 
 #### Effective and Termination Dates of 2001 Amendment
 
-Amendment by section 202(b)(1)(B), (2)(B), (d)(2), (e)(2) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 202(g)(1) of Pub. L. 107–16, set out as a note under section 23 of this title.
+Amendment by section 202(b)(1)(B), (2)(B), (d)(2), (e)(2) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 202(g)(1) of Pub. L. 107–16, set out as a note under section 36C of this title.
 
-Amendment by section 202(a)(2) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2002, see section 202(g)(2) of Pub. L. 107–16, set out as a note under section 23 of this title.
+Amendment by section 202(a)(2) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2002, see section 202(g)(2) of Pub. L. 107–16, set out as a note under section 36C of this title.
 
 Amendment by section 431(c)(1) of Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -132,13 +170,15 @@ Amendment by Pub. L. 105–277 effective as if included in the provision of the 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
 
 #### Effective Date
 
-Section applicable to taxable years beginning after Dec. 31, 1996, see section 1807(e) of Pub. L. 104–188, set out as a note under section 23 of this title.
+Section applicable to taxable years beginning after Dec. 31, 1996, see section 1807(e) of Pub. L. 104–188, set out as a note under section 36C of this title.
 
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “(B)”.</i>
 

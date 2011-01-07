@@ -22,7 +22,7 @@ The Secretary of Commerce and the Secretary of Labor shall establish and maintai
 
 #### Amendments
 
-2009—Pub. L. 111–5, §§1804(a)(1), 1893, temporarily substituted “and data collection” for “system” in section catchline. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Pub. L. 111–5, §§1804(a)(1), 1893, temporarily substituted “and data collection” for “system” in section catchline. See Effective and Termination Dates of 2009 Amendment note below.
 
 Pub. L. 111–5, §§1804(a)(2), (3), 1893, temporarily designated existing provisions as subsec. (a), inserted heading, inserted “and services” after “imports of articles”, “and domestic supply of services” after “domestic production”, “or supplying services” after “producing articles”, and “, or supply of services,” after “changes in production”, and added subsec. (b). See Effective and Termination Dates of 2009 Amendment note below.
 
@@ -32,5 +32,5 @@ Pub. L. 111–5, div. B, title I, §1804(c), Feb. 17, 2009, 123 Stat. 373, provi
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 

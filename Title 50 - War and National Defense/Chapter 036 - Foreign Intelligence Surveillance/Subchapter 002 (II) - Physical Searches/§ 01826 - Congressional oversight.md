@@ -1,6 +1,6 @@
 ### §1826. Congressional oversight
 
-On a semiannual basis the Attorney General shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, and the Committee on the Judiciary of the Senate, concerning all physical searches conducted pursuant to this subchapter. On a semiannual basis the Attorney General shall also provide to those committees and the Committee on the Judiciary of the House of Representatives a report setting forth with respect to the preceding six-month period—
+On a semiannual basis the Attorney General shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, and the Committee on the Judiciary of the Senate, concerning all physical searches conducted pursuant to this subchapter. On a semiannual basis the Attorney General shall also provide to those committees and theCommittee on the Judiciary of the House of Representatives a report setting forth with respect to the preceding six-month period—
 
 &emsp;(1) the total number of applications made for orders approving physical searches under this subchapter;
 
@@ -14,7 +14,7 @@ On a semiannual basis the Attorney General shall fully inform the Permanent Sele
 
 #### Amendments
 
-2006—Pub. L. 109–177, §109(a)(1), (2), in introductory provisions, inserted “, and the Committee on the Judiciary of the Senate,” after “Select Committee on Intelligence of the Senate” and substituted “and the Committee on the Judiciary of the House of Representatives” for “and the Committees on the Judiciary of the House of Representatives and the Senate”.
+<b>2006</b>—Pub. L. 109–177, §109(a)(1), (2), in introductory provisions, inserted “, and the Committee on the Judiciary of the Senate,” after “Select Committee on Intelligence of the Senate” and substituted “and the Committee on the Judiciary of the House of Representatives” for “and the Committees on the Judiciary of the House of Representatives and the Senate”.
 
 Par. (4). Pub. L. 109–177, §109(a)(3)–(5), added par. (4).
 

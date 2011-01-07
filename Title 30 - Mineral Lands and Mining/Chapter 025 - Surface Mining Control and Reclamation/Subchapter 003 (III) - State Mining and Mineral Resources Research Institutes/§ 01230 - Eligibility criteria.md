@@ -6,7 +6,7 @@
 
 &emsp;(2) evidence of institutional commitment for the purposes of this subchapter;
 
-&emsp;(3) evidence that such institution has or can obtain significant industrial cooperation inactivities within the scope of this subchapter; and
+&emsp;(3) evidence that such institution has or can obtain significant industrial cooperation in activities within the scope of this subchapter; and
 
 &emsp;(4) the presence of an engineering program in mining or minerals extraction that is accredited by the Accreditation Board for Engineering and Technology, or evidence of equivalent institutional capability as determined by the Committee.
 
@@ -18,7 +18,7 @@
 
 #### References in Text
 
-The Mining and Mineral Resources Research Institute Amendments of 1988, referred to in subsec. (b), is Pub. L. 100–483, Oct. 12, 1988, 102 Stat. 2339. Section 11(a)(2) and (3) of the Mining and Mineral Resources Research Institute Amendments of 1988 is set out as a note under section 1229 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 1201 of this title and Tables.
+The Mining and Mineral Resources Research Institute Amendments of 1988, referred to in subsec. (b), is Pub. L. 100–483, Oct. 12, 1988, 102 Stat. 2339. Section11(a)(2) and (3) of the Mining and Mineral Resources Research Institute Amendments of 1988 is set out as a note under section 1229 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 1201 of this title and Tables.
 
 #### Codification
 
@@ -26,5 +26,5 @@ Section was enacted as part of the Mining and Mineral Resources Research Institu
 
 #### Amendments
 
-1988—Subsec. (b). Pub. L. 100–483 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Notwithstanding the provisions of subsection (a) of this section, those colleges or universities which, on August 29, 1984, have a mining or mineral resources research institute program which has been found to be eligible pursuant to title III of the Surface Mining Control and Reclamation Act of 1977 (91 Stat. 445) shall continue to be eligible pursuant to this subchapter for a period of four fiscal years beginning October 1, 1984.”
+<b>1988</b>—Subsec. (b). Pub. L. 100–483 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Notwithstanding the provisions of subsection (a) of this section, those colleges or universities which, on August 29, 1984, have a mining or mineral resources research institute program which has been found to be eligible pursuant to title III of the Surface Mining Control and Reclamation Act of 1977 (91 Stat. 445) shall continue to be eligible pursuant to this subchapter for a period of four fiscal years beginning October 1, 1984.”
 

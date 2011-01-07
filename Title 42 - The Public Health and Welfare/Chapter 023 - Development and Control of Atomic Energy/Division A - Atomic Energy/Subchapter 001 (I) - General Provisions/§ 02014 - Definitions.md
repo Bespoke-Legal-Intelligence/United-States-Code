@@ -66,7 +66,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (w) The term “public liability” means any legal liability arising out of or resulting from a nuclear incident or precautionary evacuation (including all reasonable additional costs incurred by a State, or a political subdivision of a State, in the course of responding to a nuclear incident or a precautionary evacuation), except: (i) claims under State or Federal workmen's compensation acts of employees of persons indemnified who are employed at the site of and in connection with the activity where the nuclear incident occurs; (ii) claims arising out of an act of war; and (iii) whenever used in subsections (a), (c), and (k) of section 2210 of this title, claims for loss of, or damage to, or loss of use of property which is located at the site of and used in connection with the licensed activity where the nuclear incident occurs. “Public liability” also includes damage to property of persons indemnified: <i>Provided</i>, That such property is covered under the terms of the financial protection required, except property which is located at the site of and used in connection with the activity where the nuclear incident occurs.
 
-(x) The term “research and development” means (1) theoretical analysis, exploration, or experimentation; or (2) the extension of investigative findings and theories of a scientific or technical nature into practical application for experimental and demonstration purposes, including the experimental production and testing of models, devices, equipment, materials, and processes.
+(x) The term “research and development” means (1) theoretical analysis, exploration, orexperimentation; or (2) the extension of investigative findings and theories of a scientific or technical nature into practical application for experimental and demonstration purposes, including the experimental production and testing of models, devices, equipment, materials, and processes.
 
 (y) The term “Restricted Data” means all data concerning (1) design, manufacture, or utilization of atomic weapons; (2) the production of special nuclear material; or (3) the use of special nuclear material in the production of energy, but shall not include data declassified or removed from the Restricted Data category pursuant to section 2162 of this title.
 
@@ -110,17 +110,17 @@ Provisions similar to those comprising this section were contained in section 18
 
 #### Amendments
 
-2005—Subsec. (e). Pub. L. 109–58 substituted “means—” for “means”, realigned margins of pars. (1) and (2), and added pars. (3) and (4).
+<b>2005</b>—Subsec. (e). Pub. L. 109–58 substituted “means—” for “means”, realigned margins of pars. (1) and (2), and added pars. (3) and (4).
 
-1996—Subsec. (v). Pub. L. 104–134, which directed the amendment of subsec. (v) by striking out “or the construction and operation of a uranium enrichment facility using Atomic Vapor Laser Isotope Separation technology”, was executed by striking out “or the construction and operation of a uranium enrichment production facility using Atomic Vapor Laser Isotope Separation technology” before “, such term as used”, to reflect the probable intent of Congress.
+<b>1996</b>—Subsec. (v). Pub. L. 104–134, which directed the amendment of subsec. (v) by striking out “or the construction and operation of a uranium enrichment facility using Atomic Vapor Laser Isotope Separation technology”, was executed by striking out “or the construction and operation of a uranium enrichment production facility using Atomic Vapor Laser Isotope Separation technology” before “, such term as used”, to reflect the probable intent of Congress.
 
-1994—Subsec. (<i>o</i>). Pub. L. 103–437 substituted “ ‘Energy Committees’ means the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives” for “ ‘Joint Committee’ means the Joint Committee on Atomic Energy”.
+<b>1994</b>—Subsec. (<i>o</i>). Pub. L. 103–437 substituted “ ‘Energy Committees’ means the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives” for “ ‘Joint Committee’ means the Joint Committee on Atomic Energy”.
 
-1992—Subsec. (v). Pub. L. 102–486 amended last sentence generally. Prior to amendment, last sentence read as follows: “Except with respect to the export of a uranium enrichment production facility, such term as used in subchapters IX and XV of this division shall not include any equipment or device (or important component part especially designed for such equipment or device) capable of separating the isotopes of uranium or enriching uranium in the isotope 235.”
+<b>1992</b>—Subsec. (v). Pub. L. 102–486 amended last sentence generally. Prior to amendment, last sentence read as follows: “Except with respect to the export of a uranium enrichment production facility, such term as used in subchapters IX and XV of this division shall not include any equipment or device (or important component part especially designed for such equipment or device) capable of separating the isotopes of uranium or enriching uranium in the isotope 235.”
 
-1990—Subsec. (v). Pub. L. 101–575 inserted at end “Except with respect to the export of a uranium enrichment production facility, such term as used in subchapters IX and XV of this chapter shall not include any equipment or device (or important component part especially designed for such equipment or device) capable of separating the isotopes of uranium or enriching uranium in the isotope 235.”
+<b>1990</b>—Subsec. (v). Pub. L. 101–575 inserted at end “Except with respect to the export of a uranium enrichment production facility, such term as used in subchapters IX and XV of this chapter shall not include any equipment or device (or important component part especially designed for such equipment or device) capable of separating the isotopes of uranium or enriching uranium in the isotope 235.”
 
-1988—Subsecs. (j), (m). Pub. L. 100–408, §16(b)(1), substituted “Nuclear Regulatory Commission or the Secretary of Energy, as appropriate,” for “Commission” wherever appearing.
+<b>1988</b>—Subsecs. (j), (m). Pub. L. 100–408, §16(b)(1), substituted “Nuclear Regulatory Commission or the Secretary of Energy, as appropriate,” for “Commission” wherever appearing.
 
 Subsec. (q). Pub. L. 100–408, §16(d)(1), substituted “section” for “subsection” in three places, which for purposes of codification was translated as “section”, thus requiring no change in text.
 
@@ -142,13 +142,13 @@ Subsec. (hh). Pub. L. 100–408, §11(b), added subsec. (hh).
 
 Subsec. (jj). Pub. L. 100–408, §11(d)(2), added subsec. (jj).
 
-1978—Subsec. (e). Pub. L. 95–604 designated existing provisions as cl. (1) and added cl. (2).
+<b>1978</b>—Subsec. (e). Pub. L. 95–604 designated existing provisions as cl. (1) and added cl. (2).
 
-1975—Subsec. (q). Pub. L. 94–197 substituted “source, special nuclear, or byproduct material” for “facility or device” and inserted proviso to include within term as used in section 2210(c) of this title any occurrence outside both the United States and any other nation.
+<b>1975</b>—Subsec. (q). Pub. L. 94–197 substituted “source, special nuclear, or byproduct material” for “facility or device” and inserted proviso to include within term as used in section 2210(c) of this title any occurrence outside both the United States and any other nation.
 
 Subsec. (t). Pub. L. 94–197 expanded definition to include nuclear incidents occurring outside the United States as the term is used in section 2210(c) of this title and inserted reference to person required to maintain financial protection.
 
-1966—Subsec. (j). Pub. L. 89–645, §1(a)(2), added subsec. (j). Former subsec. (j) redesignated (k).
+<b>1966</b>—Subsec. (j). Pub. L. 89–645, §1(a)(2), added subsec. (j). Former subsec. (j) redesignated (k).
 
 Subsecs. (k), (<i>l</i>). Pub. L. 89–645, §1(a)(1), redesignated former subsecs. (j) and (k) as (k) and (<i>l</i>), respectively. Former subsec. (<i>l</i>) redesignated (n).
 
@@ -160,17 +160,17 @@ Subsec. (q). Pub. L. 89–645, §1(a)(1), (4), redesignated former subsec. (<i>o
 
 Subsecs. (r) to (cc). Pub. L. 89–645, §1(a)(1), redesignated former subsecs. (p) to (aa) as (r) to (cc), respectively.
 
-1962—Subsec. (<i>o</i>). Pub. L. 87–615, §4, enlarged definition of “nuclear incident” to include any occurrence within the United States causing any of the listed injuries and damages within or outside the United States, provided that as used in section 2210(<i>l</i>) of this title, term shall “include” instead of “mean” any such occurrence outside the United States, and that as used in section 2210(d) of this title, the term shall include any such occurrence outside the United States if such occurrence involves a facility or devise owned by, and used by or under contract with, the United States.
+<b>1962</b>—Subsec. (<i>o</i>). Pub. L. 87–615, §4, enlarged definition of “nuclear incident” to include any occurrence within the United States causing any of the listed injuries and damages within or outside the United States, provided that as used in section 2210(<i>l</i>) of this title, term shall “include” instead of “mean” any such occurrence outside the United States, and that as used in section 2210(d) of this title, the term shall include any such occurrence outside the United States if such occurrence involves a facility or devise owned by, and used by or under contract with, the United States.
 
 Subsec. (r). Pub. L. 87–615, §5, limited definition of “person indemnified” to nuclear incidents occurring within the United States, or in connection with the nuclear ship Savannah, and inserted provisions with respect to nuclear incidents occurring outside the United States.
 
-1961—Subsec. (b). Pub. L. 87–206, §2, included section 2121(c) of this title in enumeration.
+<b>1961</b>—Subsec. (b). Pub. L. 87–206, §2, included section 2121(c) of this title in enumeration.
 
 Subsec. (u). Pub. L. 87–206, §3, designated existing provisions as cls. (i) and (ii) and added cl. (iii).
 
-1958—Subsec. (<i>o</i>). Pub. L. 85–602 inserted proviso defining “nuclear incident” as it is used in section 2210(<i>l</i>) of this title.
+<b>1958</b>—Subsec. (<i>o</i>). Pub. L. 85–602 inserted proviso defining “nuclear incident” as it is used in section 2210(<i>l</i>) of this title.
 
-1957—Subsec. (j). Pub. L. 85–256 added subsec. (j). Former subsec. (j) redesignated (k).
+<b>1957</b>—Subsec. (j). Pub. L. 85–256 added subsec. (j). Former subsec. (j) redesignated (k).
 
 Subsecs. (k) to (m). Pub. L. 85–256, redesignated former subsecs. (j) to (<i>l</i>) as (k) to (m), respectively. Former subsec. (m) redesignated (p).
 
@@ -188,7 +188,7 @@ Subsec. (u). Pub. L. 85–256 added subsec. (u). Former subsec. (u) redesignated
 
 Subsecs. (v) to (aa). Pub. L. 85–256 redesignated former subsecs. (q) to (v) as (v) to (aa), respectively.
 
-1956—Subsec. (u). Act Aug. 6, 1956, substituted “the Canal Zone and Puerto Rico” for “and the Canal Zone”.
+<b>1956</b>—Subsec. (u). Act Aug. 6, 1956, substituted “the Canal Zone and Puerto Rico” for “and the Canal Zone”.
 
 #### Change of Name
 

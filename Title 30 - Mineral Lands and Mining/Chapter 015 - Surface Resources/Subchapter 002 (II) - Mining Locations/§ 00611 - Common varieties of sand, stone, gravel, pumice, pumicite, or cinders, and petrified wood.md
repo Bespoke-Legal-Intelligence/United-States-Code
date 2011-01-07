@@ -4,13 +4,9 @@ No deposit of common varieties of sand, stone, gravel, pumice, pumicite, or cind
 
 (July 23, 1955, ch. 375, §3, 69 Stat. 368; Pub. L. 87–713, §1, Sept. 28, 1962, 76 Stat. 652.)
 
-#### References In Text
-
-The mining laws of the United States, referred to in text, are classified generally to this title.
-
 #### Amendments
 
-1962—Pub. L. 87–713 defined “petrified wood”, and provided that no deposit of petrified wood shall be deemed a valuable mineral deposit within the mining laws of the United States.
+<b>1962</b>—Pub. L. 87–713 defined “petrified wood”, and provided that no deposit of petrified wood shall be deemed a valuable mineral deposit within the mining laws of the United States.
 
 #### Regulations for Removal of Limited Quantities of Petrified Wood
 

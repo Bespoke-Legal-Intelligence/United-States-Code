@@ -46,7 +46,7 @@ May 29, 1954, ch. 249, §§2(d) (as applicable to §14(b) (less (1)–(3))), 14(
 
 In subsection (a), the words “has at least” are substituted for the words “has attained”. The words “has at least” are substituted for the words “having completed not less than”. The words “on that date which” are omitted as surplusage. 10:600<i>l</i>(b) (15 words before (1)) and 34:430(b) (15 words before (1)) are omitted as covered by section 1275 of this title.
 
-In subsection (b), the words “The Secretary concerned may defer” are substituted for the words “may, in the discretion of the Secretary, be deferred”. The words “determination of his” are inserted for clarity. The words “not more than” are substituted for the words “a period not to exceed”. The words “he would otherwise be required to retire under this section” are substituted for the words “retirement would otherwise be required”. The words “which is required”, “possible”, “proper”, and “a period of” are omitted as surplusage.
+In subsection (b), the words “The Secretary concerned may defer” are substituted for the words “may, in the discretion of the Secretary, be deferred”. The words “determination of his” are inserted for clarity. The words “not more than” are substituted for the words “a period not to exceed”. The words “he would otherwise be required to retire under this section” are substituted for the words “retirement \* \* \* would otherwise be required”. The words “which is required”, “possible”, “proper”, and “a period of” are omitted as surplusage.
 
 #### References in Text
 
@@ -54,13 +54,13 @@ Section 511 of the Career Compensation Act of 1949, referred to in subsec. (a), 
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–484 substituted “580 note” for “564 note”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–484 substituted “580 note” for “564 note”.
 
-1980—Subsec. (a). Pub. L. 96–513 substituted “511 of the Career Compensation Act of 1949, as amended (70 Stat. 114; 10 U.S.C. 564 note)” for “311 of title 37”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “511 of the Career Compensation Act of 1949, as amended (70 Stat. 114; 10 U.S.C. 564 note)” for “311 of title 37”.
 
-1967—Subsec. (a). Pub. L. 90–130 struck out reference to section 1255 of this title.
+<b>1967</b>—Subsec. (a). Pub. L. 90–130 struck out reference to section 1255 of this title.
 
-1966—Subsec. (a). Pub. L. 89–718 substituted “8301” for “47a”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted “8301” for “47a”.
 
 #### Effective Date of 1980 Amendment
 

@@ -22,11 +22,11 @@ The Surgeon General shall designate the Assistant Surgeon General who shall serv
 
 #### Amendments
 
-1979—Subsec. (b). Pub. L. 96–76, §302(b), inserted provisions relating to assignment of Chief Nurse Officer and Chief Pharmacist Officer, and substituted “eight” for “six”.
+<b>1979</b>—Subsec. (b). Pub. L. 96–76, §302(b), inserted provisions relating to assignment of Chief Nurse Officer and Chief Pharmacist Officer, and substituted “eight” for “six”.
 
 Subsec. (c). Pub. L. 96–76, §303, designated existing provisions as par. (1), struck out provisions relating to maximum number of special temporary positions, and added par. (2).
 
-1948—Subsec. (b). Act June 16, 1948, substituted “National Institutes of Health” for “National Institute of Health”.
+<b>1948</b>—Subsec. (b). Act June 16, 1948, substituted “National Institutes of Health” for “National Institute of Health”.
 
 Subsecs. (c), (d). Act Feb. 28, 1948, added subsec. (c) and redesignated former subsec. (c) as (d).
 

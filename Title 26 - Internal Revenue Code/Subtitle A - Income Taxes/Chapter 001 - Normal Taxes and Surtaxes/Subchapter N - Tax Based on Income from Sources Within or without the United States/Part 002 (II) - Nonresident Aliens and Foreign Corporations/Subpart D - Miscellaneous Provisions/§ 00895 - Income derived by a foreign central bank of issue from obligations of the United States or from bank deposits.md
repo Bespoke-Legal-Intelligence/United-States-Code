@@ -6,7 +6,7 @@ Income derived by a foreign central bank of issue from obligations of the United
 
 #### Amendments
 
-1966—Pub. L. 89–809 exempted income derived from obligations of agencies or instrumentalities of the United States and income derived from interest on deposits with persons carrying on the banking business, inserted “(including beneficial interests, participations, and other instruments issued under section 302(c) of the Federal National Mortgage Association Charter Act (12 U.S.C. 1717)),” and inserted sentence requiring the Bank for International Settlements to be treated as a foreign central bank of issue.
+<b>1966</b>—Pub. L. 89–809 exempted income derived from obligations of agencies or instrumentalities of the United States and income derived from interest on deposits with persons carrying on the banking business, inserted “(including beneficial interests, participations, and other instruments issued under section 302(c) of the Federal National Mortgage Association Charter Act (12 U.S.C. 1717)),” and inserted sentence requiring the Bank for International Settlements to be treated as a foreign central bank of issue.
 
 #### Effective Date of 1966 Amendment
 

@@ -5,6 +5,4 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 05631 - Continued Federal research and development](%C2%A7%2005631%20-%20Continued%20Federal%20research%20and%20development.md)
-- [&sect; 05632 - Availability of federally gathered unenhanced data](%C2%A7%2005632%20-%20Availability%20of%20federally%20gathered%20unenhanced%20data.md)
-- [&sect; 05633 - Technology demonstration program](%C2%A7%2005633%20-%20Technology%20demonstration%20program.md)
+- [&sect; 05631 to 5633 - Repealed. Pub. L. 111&#8211;314, &sect;6, Dec. 18, 2010, 124 Stat. 3444](%C2%A7%2005631%20to%205633%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93314%2C%20%C2%A76%2C%20Dec.%2018%2C%202010%2C%20124%20Stat.%203444.md)

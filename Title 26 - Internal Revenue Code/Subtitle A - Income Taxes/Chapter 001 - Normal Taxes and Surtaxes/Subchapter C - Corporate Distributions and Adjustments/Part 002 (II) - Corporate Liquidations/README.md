@@ -15,11 +15,11 @@
 
 #### Amendments
 
-2003—Pub. L. 108–27, title III, §§302(e)(4)(B)(iii), 303, May 28, 2003, 117 Stat. 764, temporarily struck out item for subpart C “Collapsible corporations”.
+<b>2003</b>—Pub. L. 108–27, title III, §§302(e)(4)(B)(iii), 303, May 28, 2003, 117 Stat. 764, temporarily struck out item for subpart C “Collapsible corporations”.
 
-1982—Pub. L. 97–248, title II, §222(e)(8)(B), Sept. 3, 1982, 96 Stat. 481, inserted “and special rule” in item for subpart D.
+<b>1982</b>—Pub. L. 97–248, title II, §222(e)(8)(B), Sept. 3, 1982, 96 Stat. 481, inserted “and special rule” in item for subpart D.
 
-1976—Pub. L. 94–455, title XIX, §1901(b)(12)(B), Oct. 4, 1976, 90 Stat. 1795, struck out in table of subparts for part II of subchapter C of chapter 1 in subpart (C) “; foreign personal holding companies” after “corporations”.
+<b>1976</b>—Pub. L. 94–455, title XIX, §1901(b)(12)(B), Oct. 4, 1976, 90 Stat. 1795, struck out in table of subparts for part II of subchapter C of chapter 1 in subpart (C) “; foreign personal holding companies” after “corporations”.
 
 
 ---

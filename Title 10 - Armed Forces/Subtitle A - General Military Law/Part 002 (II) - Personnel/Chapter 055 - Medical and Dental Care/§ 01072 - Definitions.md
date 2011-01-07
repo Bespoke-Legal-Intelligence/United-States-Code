@@ -114,23 +114,23 @@ A prior section 1072, act Aug. 10, 1956, ch. 1041, 70A Stat. 81, defined terms u
 
 #### Amendments
 
-2008—Par. (10). Pub. L. 110–181 added par. (10).
+<b>2008</b>—Par. (10). Pub. L. 110–181 added par. (10).
 
-2006—Par. (2)(I)(i). Pub. L. 109–163, §1057(a)(2), struck out “or a Territory” before “or possession”.
+<b>2006</b>—Par. (2)(I)(i). Pub. L. 109–163, §1057(a)(2), struck out “or a Territory” before “or possession”.
 
 Par. (6)(D)(i). Pub. L. 109–163, §592(b), inserted “, or by any other source authorized by State or local law to provide adoption placement,” after “(recognized by the Secretary of Defense)”.
 
-2001—Pars. (8), (9). Pub. L. 107–107 added pars. (8) and (9).
+<b>2001</b>—Pars. (8), (9). Pub. L. 107–107 added pars. (8) and (9).
 
-1997—Par. (7). Pub. L. 105–85 added par. (7).
+<b>1997</b>—Par. (7). Pub. L. 105–85 added par. (7).
 
-1994—Par. (2)(D). Pub. L. 103–337, §701(a)(1), substituted “a child who” for “an unmarried legitimate child, including an adopted child or stepchild, who” in introductory provisions.
+<b>1994</b>—Par. (2)(D). Pub. L. 103–337, §701(a)(1), substituted “a child who” for “an unmarried legitimate child, including an adopted child or stepchild, who” in introductory provisions.
 
 Par. (6). Pub. L. 103–337, §701(a)(2), added par. (6).
 
-1993—Par. (2)(I). Pub. L. 103–160 added subpar. (I).
+<b>1993</b>—Par. (2)(I). Pub. L. 103–160 added subpar. (I).
 
-1992—Par. (2)(D). Pub. L. 102–484 added subpar. (D) and struck out former subpar. (D) which read as follows: “an unmarried legitimate child, including an adopted child or a stepchild, who either—
+<b>1992</b>—Par. (2)(D). Pub. L. 102–484 added subpar. (D) and struck out former subpar. (D) which read as follows: “an unmarried legitimate child, including an adopted child or a stepchild, who either—
 
 &emsp;“(i) has not passed his twenty-first birthday;
 
@@ -138,9 +138,9 @@ Par. (6). Pub. L. 103–337, §701(a)(2), added par. (6).
 
 &emsp;“(iii) has not passed his twenty-third birthday, is enrolled in a full-time course of study in an institution of higher learning approved by the administering Secretary and is, or was at the time of the member's or former member's death, in fact dependent on him for over one-half of his support;”.
 
-1989—Par. (2)(H). Pub. L. 101–189 added subpar. (H).
+<b>1989</b>—Par. (2)(H). Pub. L. 101–189 added subpar. (H).
 
-1986—Par. (1). Pub. L. 99–661, §701(b)(1), substituted “The term ‘uniformed services’ means” for “ ‘Uniformed services’ means”.
+<b>1986</b>—Par. (1). Pub. L. 99–661, §701(b)(1), substituted “The term ‘uniformed services’ means” for “ ‘Uniformed services’ means”.
 
 Par. (2). Pub. L. 99–661, §701(b)(2), substituted “The term ‘dependent’, with respect to” for “ ‘Dependent’, with respect to”.
 
@@ -148,21 +148,21 @@ Par. (3). Pub. L. 99–661, §701(b)(3), substituted “The term ‘administerin
 
 Pars. (4), (5). Pub. L. 99–661, §701(b)(4), added pars. (4) and (5).
 
-1984—Par. (2)(D)(iii). Pub. L. 98–557, §19(1)(A), substituted reference to the administering Secretary for reference to the Secretary of Defense or the Secretary of Health and Human Services.
+<b>1984</b>—Par. (2)(D)(iii). Pub. L. 98–557, §19(1)(A), substituted reference to the administering Secretary for reference to the Secretary of Defense or the Secretary of Health and Human Services.
 
 Par. (2)(G). Pub. L. 98–525 added subpar. (G).
 
 Par. (3). Pub. L. 98–557, §19(1)(B), added par. (3).
 
-1982—Par. (2)(F). Pub. L. 97–252 added cl. (F).
+<b>1982</b>—Par. (2)(F). Pub. L. 97–252 added cl. (F).
 
-1980—Pub. L. 96–513, §511(34)(A), substituted in introductory material reference to this chapter for reference to sections 1071–1087 of this title.
+<b>1980</b>—Pub. L. 96–513, §511(34)(A), substituted in introductory material reference to this chapter for reference to sections 1071–1087 of this title.
 
 Par. (1). Pub. L. 96–513, §511(35), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
 Par. (2). Pub. L. 96–513, §§115(b), 511(36), substituted “spouse” for “wife” in cl. (A), struck out cl. (C) “the husband, if he is in fact dependent on the member or former member for over one-half of his support;”, redesignated cls. (D), (E), and (F) as (C), (D), and (E), respectively, in cl. (C) as so redesignated, struck out “, if, because of mental or physical incapacity he was in fact dependent on the member or former member at the time of her death for over one-half of his support” after “the unremarried widower”, and in cl. (D)(iii) as so redesignated, substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-1966—Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey” in clause (1).
+<b>1966</b>—Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey” in clause (1).
 
 Pub. L. 89–614 substituted “1087” for “1085” in introductory phrase.
 

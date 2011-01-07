@@ -32,15 +32,15 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96–465, §2203(c), among other changes, substituted references to the Foreign Service Act of 1980 for references to the Foreign Service Act of 1946 and section 2385(d) of this title.
+<b>1980</b>—Subsec. (b). Pub. L. 96–465, §2203(c), among other changes, substituted references to the Foreign Service Act of 1980 for references to the Foreign Service Act of 1946 and section 2385(d) of this title.
 
 Subsec. (c). Pub. L. 96–465, §2203(d), among other changes, substituted references to the Foreign Service Act of 1980, for references to the Foreign Service Act of 1946, and inserted provisions relating to employee status for purposes of chapters 81, 83, 87 and 89 of title 5.
 
-1977—Subsec. (d). Pub. L. 95–92 substituted reference to subchapter I of this chapter for reference to thischapter and struck out provisions requiring administration of assistance by the senior military officer of the mission for assistance under subchapter II of this chapter.
+<b>1977</b>—Subsec. (d). Pub. L. 95–92 substituted reference to subchapter I of this chapter for reference to thischapter and struck out provisions requiring administration of assistance by the senior military officer of the mission for assistance under subchapter II of this chapter.
 
-1965—Subsec. (d). Pub. L. 89–171 added subsec. (d).
+<b>1965</b>—Subsec. (d). Pub. L. 89–171 added subsec. (d).
 
-1963—Subsec. (c). Pub. L. 88–205 added subsec. (c).
+<b>1963</b>—Subsec. (c). Pub. L. 88–205 added subsec. (c).
 
 #### Effective Date of 1980 Amendment
 

@@ -78,7 +78,7 @@ In any case in which a termination, reduction, or suspension of financial assist
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–134, §16(1), struck out “procedures to assure that” after “prescribe” in introductory provisions.
+<b>2007</b>—Subsec. (a). Pub. L. 110–134, §16(1), struck out “procedures to assure that” after “prescribe” in introductory provisions.
 
 Subsec. (a)(1), (2). Pub. L. 110–134, §16(2), inserted “procedures to assure that” after the par. designation.
 
@@ -96,11 +96,11 @@ Subsec. (a)(3) to (6). Pub. L. 110–134, §16(3), added pars. (3) to (6) and st
 
 &emsp;“(B) avoid the need for an administrative hearing on an adverse action.”
 
-1994—Subsec. (a)(4). Pub. L. 103–252, §113(a), added par. (4).
+<b>1994</b>—Subsec. (a)(4). Pub. L. 103–252, §113(a), added par. (4).
 
 Subsecs. (b) to (e). Pub. L. 103–252, §113(b), added subsecs. (b) to (e) and struck out former subsec. (b) which read as follows: “The Secretary may not prescribe any procedure that would modify the operation of section 1303.21 or 1303.33, or any of subdivisions (a) through (f) of section 1303.35, of title 45 of the Code of Federal Regulations as in effect on April 1, 1990.”
 
-1990—Subsec. (a). Pub. L. 101–501, §115(1), (2), designated existing provisions as subsec. (a) and inserted “or reduced” after “terminated” in par. (3).
+<b>1990</b>—Subsec. (a). Pub. L. 101–501, §115(1), (2), designated existing provisions as subsec. (a) and inserted “or reduced” after “terminated” in par. (3).
 
 Subsec. (b). Pub. L. 101–501, §115(3), added subsec. (b).
 

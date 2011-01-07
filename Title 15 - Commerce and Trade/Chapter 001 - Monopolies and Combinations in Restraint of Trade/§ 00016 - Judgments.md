@@ -28,7 +28,7 @@ The United States shall also cause to be published, commencing at least 60 days 
 
 &emsp;(ii) a summary of the competitive impact statement filed under subsection (b) of this section,
 
-&emsp;(iii) and a list of the materials and documents under subsection (b) of this sectionwhich the United States shall make available for purposes of meaningful public comment, and the place where such materials and documents are available for public inspection.
+&emsp;(iii) and a list of the materials and documents under subsection (b) of this section which the United States shall make available for purposes of meaningful public comment, and the place where such materials and documents are available for public inspection.
 
 #### (d) Consideration of public comments by Attorney General and publication of response
 
@@ -60,7 +60,7 @@ In making its determination under subsection (e) of this section, the court may�
 
 #### (g) Filing of written or oral communications with the district court
 
-Not later than 10 days following the date of the filing of any proposal for a consent judgment under subsection (b) of this section, each defendant shall file with the district court a description of any and all written or oral communications by or on behalf of such defendant, including any and all written or oral communications on behalf of such defendant by any officer, director, employee, or agent of such defendant, or other person, with any officer or employee of the United States concerning or relevant to such proposal, except that any such communications made by counsel of record alone with the Attorney General or the employees of the Department of Justice alone shall be excluded from the requirements of this subsection. Prior to the entry of any consent judgment pursuant to the antitrust laws, each defendant shall certify to the district court that the requirements of this subsection have been complied with and that such filing is a true and complete description of such communications known to the defendant or which the defendant reasonably should have known.
+Not later than 10 days following the date of the filing of any proposal for a consent judgment under subsection (b) of this section, each defendant shall file with the district court a description of any and all written or oral communications by or on behalf of such defendant, including any and all written or oral communications on behalf of such defendant by any officer, director, employee, or agent of such defendant,or other person, with any officer or employee of the United States concerning or relevant to such proposal, except that any such communications made by counsel of record alone with the Attorney General or the employees of the Department of Justice alone shall be excluded from the requirements of this subsection. Prior to the entry of any consent judgment pursuant to the antitrust laws, each defendant shall certify to the district court that the requirements of this subsection have been complied with and that such filing is a true and complete description of such communications known to the defendant or which the defendant reasonably should have known.
 
 #### (h) Inadmissibility as evidence of proceedings before the district court and the competitive impact statement
 
@@ -78,7 +78,7 @@ The antitrust laws, referred to in subsecs. (a), (b), and (g) to (i), are define
 
 #### Amendments
 
-2004—Subsec. (d). Pub. L. 108–237, §221(b)(1), inserted at end “Upon application by the United States, the district court may, for good cause (based on a finding that the expense of publication in the Federal Register exceeds the public interest benefits to be gained from such publication), authorize an alternative method of public dissemination of the public comments received and the response to those comments.”
+<b>2004</b>—Subsec. (d). Pub. L. 108–237, §221(b)(1), inserted at end “Upon application by the United States, the district court may, for good cause (based on a finding that the expense of publication in the Federal Register exceeds the public interest benefits to be gained from such publication), authorize an alternative method of public dissemination of the public comments received and the response to those comments.”
 
 Subsec. (e). Pub. L. 108–237, §221(b)(2), designated introductory provisions as par. (1), substituted “court shall” for “court may”, added subpars. (A) and (B) and par. (2), and struck out former pars. (1) and (2) which read as follows:
 
@@ -88,13 +88,13 @@ Subsec. (e). Pub. L. 108–237, §221(b)(2), designated introductory provisions 
 
 Subsec. (g). Pub. L. 108–237, §221(b)(3), inserted “by any officer, director, employee, or agent of such defendant” before “, or other person” in first sentence.
 
-1980—Subsec. (a). Pub. L. 96–349 made collateral estoppel inapplicable in any action or proceeding brought under the antitrust laws to any finding made by the Commission under the antitrust laws or under section 45 of this title which could give rise to a claim for relief under the antitrust laws; struck out “or by the United States under section 15a of this title,” after “under said laws”; and deleted from proviso “or to judgments or decrees entered in actions under section 15a of this title” after “testimony has been taken”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–349 made collateral estoppel inapplicable in any action or proceeding brought under the antitrust laws to any finding made by the Commission under the antitrust laws or under section 45 of this title which could give rise to a claim for relief under the antitrust laws; struck out “or by the United States under section 15a of this title,” after “under said laws”; and deleted from proviso “or to judgments or decrees entered in actions under section 15a of this title” after “testimony has been taken”.
 
-1976—Pub. L. 94–435 substituted “private or State right of action” for “private right of action” and “section 15 or 15c” for “section 15”.
+<b>1976</b>—Pub. L. 94–435 substituted “private or State right of action” for “private right of action” and “section 15 or 15c” for “section 15”.
 
-1974—Subsecs. (b) to (i). Pub. L. 93–528 added subsecs. (b) to (h) and redesignated former subsec. (b) as (i).
+<b>1974</b>—Subsecs. (b) to (i). Pub. L. 93–528 added subsecs. (b) to (h) and redesignated former subsec. (b) as (i).
 
-1955—Act July 7, 1955, substituted subsec. (a) for first paragraph, to provide that final judgments in actions under the antitrust laws by the United States shall be prima facie evidence in damage suits by the United States as well as in private damage suits, and substituted subsec. (b) for second paragraph, to provide for a one-year suspension of limitations.
+<b>1955</b>—Act July 7, 1955, substituted subsec. (a) for first paragraph, to provide that final judgments in actions under the antitrust laws by the United States shall be prima facie evidence in damage suits by the United States as well as in private damage suits, and substituted subsec. (b) for second paragraph, to provide for a one-year suspension of limitations.
 
 #### Effective Date of 1980 Amendment
 

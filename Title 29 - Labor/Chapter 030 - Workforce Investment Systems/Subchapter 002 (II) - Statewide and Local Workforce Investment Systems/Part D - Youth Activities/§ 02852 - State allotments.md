@@ -38,7 +38,7 @@ The Secretary shall—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;From the amount made available under subsection (a)(2) of this section for a fiscal year, the Secretary shall reserve not more than 1/4 of 1 percent of the amount appropriated under section 2872(a) of this title for the fiscal year—
+&emsp;&emsp;&emsp;From the amount made available under subsection (a)(2) of this section for a fiscal year, the Secretary shall reserve not more than ¼ of 1 percent of the amount appropriated under section 2872(a) of this title for the fiscal year—
 
 &emsp;&emsp;&emsp;&emsp;(I) to provide assistance to the outlying areas to carry out youth activities and statewide workforce investment activities; and
 
@@ -66,7 +66,7 @@ The Secretary shall—
 
 #### (IV) Termination of eligibility
 
-&emsp;&emsp;&emsp;&emsp;Notwithstanding any other provision of law, the Freely Associated States shall not receive any assistance underthis subparagraph for any program year that begins after September 30, 2001.
+&emsp;&emsp;&emsp;&emsp;Notwithstanding any other provision of law, the Freely Associated States shall not receive any assistance under this subparagraph for any program year that begins after September 30, 2001.
 
 #### (V) Administrative costs
 
@@ -146,7 +146,7 @@ The Secretary shall—
 
 #### (C) Disadvantaged youth
 
-&emsp;&emsp;Subject to paragraph (3), the term “disadvantaged youth” means an individual who is age 16 through 21 who received an income, or is a member of a family that received a total family income, that, in relation to family size, does not exceed the higher of—
+&emsp;&emsp;Subject to paragraph (3), the term “disadvantaged youth” means an individual whois age 16 through 21 who received an income, or is a member of a family that received a total family income, that, in relation to family size, does not exceed the higher of—
 
 &emsp;&emsp;&emsp;(i) the poverty line; or
 

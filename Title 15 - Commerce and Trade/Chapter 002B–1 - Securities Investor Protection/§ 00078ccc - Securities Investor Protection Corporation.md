@@ -24,7 +24,7 @@
 
 #### (B) Commission review
 
-&emsp;&emsp;SIPC shall file with the Commission a copy of any determination made pursuant to subparagraph (A)(i). Within thirty days after the date of such filing, or within such longer period as the Commission may designate of not more than ninety days after such date if it finds such longer period to be appropriate and publishes its reasons for so finding, the Commission shall, consistent with the public interest and the purposes of this chapter, affirm, reverse, or amend any such determination of SIPC.
+&emsp;&emsp;SIPC shall file with the Commission a copy of any determination made pursuant tosubparagraph (A)(i). Within thirty days after the date of such filing, or within such longer period as the Commission may designate of not more than ninety days after such date if it finds such longer period to be appropriate and publishes its reasons for so finding, the Commission shall, consistent with the public interest and the purposes of this chapter, affirm, reverse, or amend any such determination of SIPC.
 
 #### (C) Additional members
 
@@ -118,7 +118,7 @@ The Board of Directors shall meet at the call of its Chairman, or as otherwise p
 
 #### (1) Proposed bylaw changes
 
-&emsp;The Board of Directors of SIPC shall file with the Commission a copy of any proposedbylaw or any proposed amendment to or repeal of any bylaw of SIPC (hereinafter in this paragraph collectively referred to as a “proposed bylaw change”), accompanied by a concise general statement of the basis and purpose of such proposed bylaw change. Each such proposed bylaw change shall take effect thirty days after the date of the filing of a copy thereof with the Commission, or upon such later date as SIPC may designate or such earlier date as the Commission may determine, unless—
+&emsp;The Board of Directors of SIPC shall file with the Commission a copy of any proposed bylaw or any proposed amendment to or repeal of any bylaw of SIPC (hereinafter in this paragraph collectively referred to as a “proposed bylaw change”), accompanied by a concise general statement of the basis and purpose of such proposed bylaw change. Each such proposed bylaw change shall take effect thirty days after the date of the filing of a copy thereof with the Commission, or upon such later date as SIPC may designate or such earlier date as the Commission may determine, unless—
 
 &emsp;&emsp;(A) the Commission, by notice to SIPC setting forth the reasons therefor, disapproves such proposed bylaw change as being contrary to the public interest or contrary to the purposes of this chapter; or
 
@@ -144,7 +144,7 @@ The Board of Directors shall meet at the call of its Chairman, or as otherwise p
 
 #### (D) Grounds for approval or disapproval
 
-&emsp;&emsp;The Commission shall approve a proposed rule change if it finds that such proposed rule change is in the public interest and is consistent with the purposes of this chapter, and any proposed rule change so approved shall be given force and effect as if promulgated by the Commission. The Commission shall disapprove a proposed rule change if it does not make the finding referred to in the preceding sentence. The Commission shall not approve any proposed rule change prior to thirty days after the date of publication of notice of the filing thereof, unless the Commission finds good cause for so doing and publishes its reasons for so finding.
+&emsp;&emsp;The Commission shall approve a proposed rule change if it finds that such proposed rule change is in the public interest and is consistent with the purposes of this chapter, and any proposed rule change so approved shall be given force and effect as if promulgated by the Commission. The Commission shall disapprove a proposed rule change if it does not make the finding referred to in the preceding sentence. The Commission shallnot approve any proposed rule change prior to thirty days after the date of publication of notice of the filing thereof, unless the Commission finds good cause for so doing and publishes its reasons for so finding.
 
 #### (E) Exception
 
@@ -158,7 +158,7 @@ The Board of Directors shall meet at the call of its Chairman, or as otherwise p
 
 #### (3) Action required by Commission
 
-&emsp;The Commission may, by such rules as it determines to be necessary or appropriate in thepublic interest or to carry out the purposes of this chapter, require SIPC to adopt, amend, or repeal any SIPC bylaw or rule, whenever adopted.
+&emsp;The Commission may, by such rules as it determines to be necessary or appropriate in the public interest or to carry out the purposes of this chapter, require SIPC to adopt, amend, or repeal any SIPC bylaw or rule, whenever adopted.
 
 (Pub. L. 91–598, §3, Dec. 30, 1970, 84 Stat. 1637; Pub. L. 95–283, §§2–5, May 21, 1978, 92 Stat. 249–251; Pub. L. 106–554, §1(a)(5) \[title II, §203(d)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–424.)
 
@@ -170,9 +170,9 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(1
 
 #### Amendments
 
-2000—Subsec. (a)(2)(A)(iii). Pub. L. 106–554 added cl. (iii).
+<b>2000</b>—Subsec. (a)(2)(A)(iii). Pub. L. 106–554 added cl. (iii).
 
-1978—Subsec. (a). Pub. L. 95–283, §2(a), substituted “Creation and membership” for “Creation” in heading, redesignated introductory text and cls. (1) and (3) as par. (1), and added par. 2 which incorporated provisions formerly contained in cl. (2) as par. (2)(A).
+<b>1978</b>—Subsec. (a). Pub. L. 95–283, §2(a), substituted “Creation and membership” for “Creation” in heading, redesignated introductory text and cls. (1) and (3) as par. (1), and added par. 2 which incorporated provisions formerly contained in cl. (2) as par. (2)(A).
 
 Subsec. (b). Pub. L. 95–283, §3, in par. (1) substituted “State, Federal, or other court” for “court, State, or Federal”, in par. (3) substituted provisions relating to adoption, etc., of bylaws by the Board of Directors, for provisions relating to adoption, etc., of bylaws and rules by the Board of Directors, added par. (4), and redesignated former pars. (4) to (8) as (5) to (9), respectively.
 

@@ -46,7 +46,7 @@ Subsections (a) and (b) of this section shall be effective 1 year after January 
 
 #### References in Text
 
-The Fair Labor Standards Act of 1938, referred to in subsec. (c)(3), is act June 25, 1938, ch. 676, 52 Stat. 1060,as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (c)(3), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 #### Codification
 

@@ -17,7 +17,7 @@
 
 #### Historical and Revision Notes
 
-I74house report no. 94–1476
+#### house report no. 94–1476
 
 Chapter 7 entitled “Copyright Office,” sets forth the administrative and housekeeping provisions of the bill.
 
@@ -47,9 +47,9 @@ Subsection (e) of section 704 establishes a new procedure under which a copyrigh
 
 #### Amendments
 
-2000—Pub. L. 106–379, §3(a)(1), Oct. 27, 2000, 114 Stat. 1445, struck out item 710 “Reproduction for use of the blind and physically handicapped: Voluntary licensing forms and procedures.”
+<b>2000</b>—Pub. L. 106–379, §3(a)(1), Oct. 27, 2000, 114 Stat. 1445, struck out item 710 “Reproduction for use of the blind and physically handicapped: Voluntary licensing forms and procedures.”
 
-1997—Pub. L. 105–80, §12(a)(17), Nov. 13, 1997, 111 Stat. 1535, substituted “Reproduction” for “Reproductions” in item 710.
+<b>1997</b>—Pub. L. 105–80, §12(a)(17), Nov. 13, 1997, 111 Stat. 1535, substituted “Reproduction” for “Reproductions” in item 710.
 
 
 ---

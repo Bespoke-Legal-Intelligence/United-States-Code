@@ -10,7 +10,7 @@
 
 &emsp;As part of the plan described in section 6311 of this title, each State educational agency receiving assistance under this part shall develop a plan to ensure that all teachers teaching in core academic subjects within the State are highly qualified not later than the end of the 2005–2006 school year. Such plan shall establish annual measurable objectives for each local educational agency and school that, at a minimum—
 
-&emsp;&emsp;(A) shall include an annual increase in the percentage of highly qualified teachers at each local educational agency and school, to ensure that all teachers teaching in core academic subjects in each public elementary school and secondary school are highly qualified not later than the end of the 2005–2006 school year;
+&emsp;&emsp;(A) shall include an annual increase in the percentage of highly qualified teachers ateach local educational agency and school, to ensure that all teachers teaching in core academic subjects in each public elementary school and secondary school are highly qualified not later than the end of the 2005–2006 school year;
 
 &emsp;&emsp;(B) shall include an annual increase in the percentage of teachers who are receiving high-quality professional development to enable such teachers to become highly qualified and successful classroom teachers; and
 
@@ -44,7 +44,7 @@
 
 #### (1) In general
 
-&emsp;Each local educational agency receiving assistance under this part shall ensure that allparaprofessionals hired after January 8, 2002, and working in a program supported with funds under this part shall have—
+&emsp;Each local educational agency receiving assistance under this part shall ensure that all paraprofessionals hired after January 8, 2002, and working in a program supported with funds under this part shall have—
 
 &emsp;&emsp;(A) completed at least 2 years of study at an institution of higher education;
 
@@ -136,7 +136,7 @@ Except as provided in subsection (<i>l</i>) of this section, no State educationa
 
 #### (<i>l</i>) Minimum expenditures
 
-Each local educational agency that receives funds under this part shall use not less than 5percent, or more than 10 percent, of such funds for each of fiscal years 2002 and 2003, and not less than 5 percent of the funds for each subsequent fiscal year, for professional development activities to ensure that teachers who are not highly qualified become highly qualified not later than the end of the 2005–2006 school year.
+Each local educational agency that receives funds under this part shall use not less than 5 percent, or more than 10 percent, of such funds for each of fiscal years 2002 and 2003, and not less than 5 percent of the funds for each subsequent fiscal year, for professional development activities to ensure that teachers who are not highly qualified become highly qualified not later than the end of the 2005–2006 school year.
 
 (Pub. L. 89–10, title I, §1119, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1505.)
 

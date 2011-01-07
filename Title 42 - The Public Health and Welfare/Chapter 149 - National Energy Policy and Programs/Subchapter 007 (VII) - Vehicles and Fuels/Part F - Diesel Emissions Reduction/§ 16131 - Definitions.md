@@ -28,17 +28,23 @@ In this part:
 
 &emsp;The term “eligible entity” means—
 
-&emsp;&emsp;(A) a regional, State, local, or tribal agency or port authority with jurisdiction over transportation or air quality; and
+&emsp;&emsp;(A) a regional, State, local, or tribal agency or port authority with jurisdiction over transportation or air quality;
 
 &emsp;&emsp;(B) a nonprofit organization or institution that—
 
 &emsp;&emsp;&emsp;(i) represents or provides pollution reduction or educational services to persons or organizations that own or operate diesel fleets; or
 
-&emsp;&emsp;&emsp;(ii) has, as its principal purpose, the promotion of transportation or air quality.
+&emsp;&emsp;&emsp;(ii) has, as its principal purpose, the promotion of transportation or air quality; and
+
+&emsp;&emsp;(C) any private individual or entity that—
+
+&emsp;&emsp;&emsp;(i) is the owner of record of a diesel vehicle or fleet operated pursuant to a contract, license, or lease with a Federal department or agency or an entity described in subparagraph (A); and
+
+&emsp;&emsp;&emsp;(ii) meets such timely and appropriate requirements as the Administrator may establish for vehicle use and for notice to and approval by the Federal department or agency or entity described in subparagraph (A) with respect to which the owner has entered into a contract, license, or lease as described in clause (i).
 
 #### (4) Emerging technology
 
-&emsp;The term “emerging technology” means a technology that is not certified or verified by the Administrator or the California Air Resources Board but for which an approvable application and test plan has been submitted for verification to the Administrator or the California Air Resources Board.
+&emsp;The term “emerging technology” means a technology that is not currently, or has not been previously, certified or verified by the Administrator or the California Air ResourcesBoard but for which an approvable application and test plan has been submitted for verification to the Administrator or the California Air Resources Board.
 
 #### (5) Fleet
 
@@ -52,21 +58,45 @@ In this part:
 
 &emsp;The term “medium-duty truck” has such meaning as shall be determined by the Administrator, by regulation.
 
-#### (8) Verified technology
+#### (8) State
 
-&emsp;The term “verified technology” means a pollution control technology, including a retrofit technology, advanced truckstop electrification system, or auxiliary power unit, that has been verified by—
+&emsp;The term “State” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the United States Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+
+#### (9) Verified technology
+
+&emsp;The term “verified technology” means a pollution control technology, including a retrofit technology or auxiliary power unit, that has been verified by—
 
 &emsp;&emsp;(A) the Administrator; or
 
 &emsp;&emsp;(B) the California Air Resources Board.
 
-#### (9) Definition of State
-
-&emsp;The term “State” includes the District of Columbia.
-
-(Pub. L. 109–58, title VII, §791, Aug. 8, 2005, 119 Stat. 838; Pub. L. 110–255, §3(a), June 30, 2008, 122 Stat. 2423.)
+(Pub. L. 109–58, title VII, §791, Aug. 8, 2005, 119 Stat. 838; Pub. L. 110–255, §3(a), June 30, 2008, 122 Stat. 2423; Pub. L. 111–364, §2(a), Jan. 4, 2011, 124 Stat. 4056.)
 
 #### Amendments
 
-2008—Par. (9). Pub. L. 110–255 added par. (9).
+<b>2011</b>—Par. (3)(C). Pub. L. 111–364, §2(a)(1), added subpar. (C).
+
+Par. (4). Pub. L. 111–364, §2(a)(2), inserted “currently, or has not been previously,” after “that is not”.
+
+Par. (8). Pub. L. 111–364, §2(a)(6), added par. (8). Former par. (8) redesignated (9).
+
+Par. (9). Pub. L. 111–364, §2(a)(5), struck out “, advanced truckstop electrification system,” after “retrofit technology” in introductory provisions.
+
+Pub. L. 111–364, §2(a)(4), redesignated par. (8) as (9). Former par. (9) struck out.
+
+Pub. L. 111–364, §2(a)(3), struck out par. (9) which defined “State” to include the District of Columbia.
+
+<b>2008</b>—Par. (9). Pub. L. 110–255 added par. (9).
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–364, §4, Jan. 4, 2011, 124 Stat. 4061, provided that:
+
+“(a)
+
+General Rule.—Except as provided in subsection (b), the amendments made by section 2 \[amending this section and sections 16132 to 16134 and 16137 of this title\] shall take effect on October 1, 2011.
+
+“(b)
+
+Exception.—The amendments made by subsections (a)(4) and (6) and (c)(4) of section 2 \[amending this section and section 16133 of this title\] shall take effect on the date of enactment of this Act \[Jan. 4, 2011\].”
 

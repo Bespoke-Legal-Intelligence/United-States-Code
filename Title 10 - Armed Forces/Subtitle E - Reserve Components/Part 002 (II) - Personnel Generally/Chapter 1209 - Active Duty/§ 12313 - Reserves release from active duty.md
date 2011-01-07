@@ -38,5 +38,5 @@ Subsection (b) is substituted for 50:967(b). Clause (3) is inserted, since other
 
 #### Amendments
 
-1994—Pub. L. 103–337 renumbered section 681 of this title as this section.
+<b>1994</b>—Pub. L. 103–337 renumbered section 681 of this title as this section.
 

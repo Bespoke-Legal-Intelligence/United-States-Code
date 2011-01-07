@@ -306,19 +306,19 @@ The date of the enactment of this section, referred to in subsec. (i), is the da
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–304, §17(e)(6)(A), substituted “chapter 535 of title 46 of the United States Code” for “section 607 of the Merchant Marine Act, 1936”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–304, §17(e)(6)(A), substituted “chapter 535 of title 46 of the United States Code” for “section 607 of the Merchant Marine Act, 1936”.
 
 Subsecs. (a)(2), (c)(1)(A), (D). Pub. L. 109–304, §17(e)(6)(B), substituted “chapter 535 of title 46, United States Code” for “section 607 of the Merchant Marine Act, 1936”.
 
 Subsec. (g)(3)(C)(iii). Pub. L. 109–304, §17(e)(6)(C), substituted “Merchant Marine Act, 1936,” for “Merchant Marine Act of 1936”.
 
-2003—Subsec. (g)(6)(A). Pub. L. 108–27, §§301(a)(2)(D), 303, temporarily substituted “15 percent” for “20 percent” in concluding provisions. See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (g)(6)(A). Pub. L. 108–27, §§301(a)(2)(D), 303, temporarily substituted “15 percent” for “20 percent” in concluding provisions. See Effective and Termination Dates of 2003 Amendment note below.
 
-1997—Subsec. (g)(6)(A). Pub. L. 105–34 substituted “20 percent” for “28 percent” in concluding provisions.
+<b>1997</b>—Subsec. (g)(6)(A). Pub. L. 105–34 substituted “20 percent” for “28 percent” in concluding provisions.
 
-1990—Subsec. (g)(6)(A). Pub. L. 101–508 substituted “section 1(h)” for “section 1(j)” in last sentence.
+<b>1990</b>—Subsec. (g)(6)(A). Pub. L. 101–508 substituted “section 1(h)” for “section 1(j)” in last sentence.
 
-1988—Subsec. (g)(1). Pub. L. 100–647, §1018(u)(23), substituted “not a qualified withdrawal” for “not qualified withdrawal”.
+<b>1988</b>—Subsec. (g)(1). Pub. L. 100–647, §1018(u)(23), substituted “not a qualified withdrawal” for “not qualified withdrawal”.
 
 Subsec. (g)(6)(A). Pub. L. 100–647, §1002(m)(1), substituted “section 1(j)” for “section 1(i)”.
 
@@ -326,7 +326,7 @@ Subsec. (g)(6)(A). Pub. L. 100–647, §1002(m)(1), substituted “section 1(j)�
 
 Amendment by Pub. L. 108–27 applicable to taxable years ending on or after May 6, 2003, see section 301(d) of Pub. L. 108–27, set out as a note under section 1 of this title.
 
-Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
+Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

@@ -14,7 +14,7 @@ During a moratorium period, it is unlawful for any person—
 
 &emsp;(3) to land lawfully harvested Atlantic striped bass within the boundaries of a coastal State when a moratorium declared under subsection (a) of this section applies to that State; or
 
-&emsp;(4) to fail to return to the water Atlantic striped bass to which the moratorium applies that are caught incidental to harvesting that occurs in the course of commercial or recreational fish catching activities, regardless of the physical condition of the striped bass when caught.
+&emsp;(4) to fail to return to the water Atlantic striped bass to which the moratorium applies that are caught incidental to harvesting thatoccurs in the course of commercial or recreational fish catching activities, regardless of the physical condition of the striped bass when caught.
 
 #### (c) Civil penalties
 
@@ -44,15 +44,15 @@ The Secretaries may issue regulations to implement this section.
 
 #### Amendments
 
-1997—Pub. L. 105–146 amended section catchline and text generally. Prior to amendment, section defined terms “moratorium area” and “moratorium period”, prohibited acts during moratorium, and provided for penalties, forfeitures, and enforcement.
+<b>1997</b>—Pub. L. 105–146 amended section catchline and text generally. Prior to amendment, section defined terms “moratorium area” and “moratorium period”, prohibited acts during moratorium, and provided for penalties, forfeitures, and enforcement.
 
-1996—Subsec. (e)(2). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+<b>1996</b>—Subsec. (e)(2). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
-1991—Subsec. (e). Pub. L. 102–130 designated existing provisions as par. (1) and added pars. (2) and (3).
+<b>1991</b>—Subsec. (e). Pub. L. 102–130 designated existing provisions as par. (1) and added pars. (2) and (3).
 
-1988—Subsecs. (c)(2), (d)(2). Pub. L. 100–589 substituted “Magnuson Act” for “Act of 1976”.
+<b>1988</b>—Subsecs. (c)(2), (d)(2). Pub. L. 100–589 substituted “Magnuson Act” for “Act of 1976”.
 
-1986—Pub. L. 99–432, §3(b), which directed the substitution of “Secretaries” for “Secretary”, was executed by making the substitution in subsec. (a)(2), in three places in subsec. (c), and in two places in subsec. (e) to reflect the probable intent of Congress.
+<b>1986</b>—Pub. L. 99–432, §3(b), which directed the substitution of “Secretaries” for “Secretary”, was executed by making the substitution in subsec. (a)(2), in three places in subsec. (c), and in two places in subsec. (e) to reflect the probable intent of Congress.
 
 Pub. L. 99–432, §3(a), which directed the substitution of “section 5153(b)” for “section 5153(d)”, was executed by making the substitution in subsecs. (a)(1), (2), (b)(3), and (e) to reflect the probable intent of Congress.
 

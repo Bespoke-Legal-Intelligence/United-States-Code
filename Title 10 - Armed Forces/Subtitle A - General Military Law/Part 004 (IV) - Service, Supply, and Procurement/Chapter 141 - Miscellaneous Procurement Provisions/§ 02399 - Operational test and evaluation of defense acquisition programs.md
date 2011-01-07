@@ -2,13 +2,13 @@
 
 (a)
 
-Condition for Proceeding Beyond Low-Rate Initial Production.—(1) The Secretary of Defense shall provide that a major defense acquisition program may not proceed beyond low-rate initial production until initial operational test and evaluation of the program is completed.
+Condition for Proceeding Beyond Low-rate Initial Production.—(1) The Secretary of Defense shall provide that a covered major defense acquisition program or a covered designated major subprogram may not proceed beyond low-rate initial production until initial operational test and evaluation of the program or subprogram is completed.
 
-(2) In this subsection, the term “major defense acquisition program” means a conventional weapons system that—
+(2) In this subsection:
 
-&emsp;(A) is a major system within the meaning of that term in section 2302(5) of this title; and
+&emsp;(A) The term “covered major defense acquisition program” means a major defense acquisition program that involves the acquisition of a weapon system that is a major system within the meaning of that term in section 2302(5) of this title.
 
-&emsp;(B) is designed for use in combat.
+&emsp;(B) The term “covered designated major subprogram” means a major subprogram designated under section 2430a(a)(1) of this title that is a major subprogram of a covered major defense acquisition program.
 
 (b)
 
@@ -28,7 +28,7 @@ Operational Test and Evaluation.—(1) Operational testing of a major defense ac
 
 (4) A final decision within the Department of Defense to proceed with a major defense acquisition program beyond low-rate initial production may not be made until the Director has submitted to the Secretary of Defense the report with respect to that program under paragraph (2) and the congressional defense committees have received that report.
 
-(5) If, before a final decision described in paragraph (4) is made for a major defense acquisition program, a decision is made within the Department of Defense to proceed to operational use of that program or to make procurement funds available for that program, the Director shall submit to the Secretary of Defense and the congressional defense committees the report with respect to that program under paragraph (2) as soon as practicable after the decision described in this paragraph is made.
+(5) If, before a final decision described in paragraph (4) is made for a major defense acquisition program, a decision is made within the Department of Defense to proceed to operational use of that program or to make procurement funds available for that program, the Director shall submit to the Secretary of Defense and the congressional defense committees the report with respect to that program under paragraph (2) assoon as practicable after the decision described in this paragraph is made.
 
 (6) In this subsection, the term “major defense acquisition program” has the meaning given that term in section 139(a)(2)(B) of this title.
 
@@ -72,7 +72,7 @@ Operational Test and Evaluation Defined.—In this section, the term “operatio
 
 &emsp;(3) an analysis of system requirements, engineering proposals, design specifications, or any other information contained in program documents.
 
-(Added Pub. L. 101–189, div. A, title VIII, §802(a)(1), Nov. 29, 1989, 103 Stat. 1484; amended Pub. L. 102–484, div. A, title VIII, §819, Oct. 23, 1992, 106 Stat. 2458; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, §1070(a)(11), (f), Oct. 5, 1994, 108 Stat. 2856, 2859; Pub. L. 104–106, div. A, title XV, §1502(a)(19), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title X, §1062(a)(9), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, §1043(b)(14), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 109–364, div. A, title II, §231(a), Oct. 17, 2006, 120 Stat. 2131.)
+(Added Pub. L. 101–189, div. A, title VIII, §802(a)(1), Nov. 29, 1989, 103 Stat. 1484; amended Pub. L. 102–484, div. A, title VIII, §819, Oct. 23, 1992, 106 Stat. 2458; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, §1070(a)(11), (f), Oct. 5, 1994, 108 Stat. 2856, 2859; Pub. L. 104–106, div. A, title XV, §1502(a)(19), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title X, §1062(a)(9), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, §1043(b)(14), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 109–364, div. A, title II, §231(a), Oct. 17, 2006, 120 Stat. 2131; Pub. L. 111–383, div. A, title VIII, §814(d), Jan. 7, 2011, 124 Stat. 4267.)
 
 #### Prior Provisions
 
@@ -80,7 +80,17 @@ A prior section 2399, added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat
 
 #### Amendments
 
-2006—Subsec. (b)(2). Pub. L. 109–364, §231(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Director shall analyze the results of the operational test and evaluation conducted for each major defense acquisition program. At the conclusion of such testing, the Director shall prepare a report stating the opinion of the Director as to—
+<b>2011</b>—Subsec. (a). Pub. L. 111–383 amended subsec. (a) generally. Prior to amendment, text read as follows:
+
+“(1) The Secretary of Defense shall provide that a major defense acquisition program may not proceed beyond low-rate initial production until initial operational test and evaluation of the program is completed.
+
+“(2) In this subsection, the term ‘major defense acquisition program’ means a conventional weapons system that—
+
+&emsp;“(A) is a major system within the meaning of that term in section 2302(5) of this title; and
+
+&emsp;“(B) is designed for use in combat.”
+
+<b>2006</b>—Subsec. (b)(2). Pub. L. 109–364, §231(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Director shall analyze the results of the operational test and evaluation conducted for each major defense acquisition program. At the conclusion of such testing, the Director shall prepare a report stating the opinion of the Director as to—
 
 &emsp;“(A) whether the test and evaluation performed were adequate; and
 
@@ -88,17 +98,17 @@ A prior section 2399, added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat
 
 Subsec. (b)(5), (6). Pub. L. 109–364, §231(a)(2), (3), added par. (5) and redesignated former par. (5) as (6).
 
-2003—Subsec. (h). Pub. L. 108–136 substituted “Operational Test and Evaluation Defined” for “Definitions” in heading, struck out introductory provisions which read “In this section:”, substituted “In this section, the term” for “(1) The term”, redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, realigned margins, and struck out former par. (2) which defined “congressional defense committees” to mean the Committees on Armed Services and Appropriations of the Senate and the House of Representatives.
+<b>2003</b>—Subsec. (h). Pub. L. 108–136 substituted “Operational Test and Evaluation Defined” for “Definitions” in heading, struck out introductory provisions which read “In this section:”, substituted “In this section, the term” for “(1) The term”, redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, realigned margins, and struck out former par. (2) which defined “congressional defense committees” to mean the Committees on Armed Services and Appropriations of the Senate and the House of Representatives.
 
-2002—Subsec. (a)(2). Pub. L. 107–314 substituted “means a conventional weapons system that” for “means” in introductory provisions and struck out “a conventional weapons system that” before “is a major system” in subpar. (A).
+<b>2002</b>—Subsec. (a)(2). Pub. L. 107–314 substituted “means a conventional weapons system that” for “means” in introductory provisions and struck out “a conventional weapons system that” before “is a major system” in subpar. (A).
 
-2001—Subsec. (b)(3). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+<b>2001</b>—Subsec. (b)(3). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
-1999—Subsec. (h)(2)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+<b>1999</b>—Subsec. (h)(2)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1996—Subsec. (h)(2). Pub. L. 104–106 substituted “means—” and subpars. (A) and (B) for “means the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives.”
+<b>1996</b>—Subsec. (h)(2). Pub. L. 104–106 substituted “means—” and subpars. (A) and (B) for “means the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives.”
 
-1994—Subsecs. (b)(5), (c)(1). Pub. L. 103–337, §1070(a)(11)(A), substituted “139(a)(2)(B)” for “138(a)(2)(B)”.
+<b>1994</b>—Subsecs. (b)(5), (c)(1). Pub. L. 103–337, §1070(a)(11)(A), substituted “139(a)(2)(B)” for “138(a)(2)(B)”.
 
 Subsec. (e)(3)(B). Pub. L. 103–337, §1070(f), substituted “solely in testing for” for “solely as a representative of”.
 
@@ -106,9 +116,9 @@ Subsec. (g). Pub. L. 103–337, §1070(a)(11)(B), substituted “139” for “1
 
 Subsec. (h)(1). Pub. L. 103–337, §1070(a)(11)(C), substituted “139(a)(2)(A)” for “138(a)(2)(A)”.
 
-1993—Subsec. (b)(3). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
+<b>1993</b>—Subsec. (b)(3). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 
-1992—Subsec. (e)(3). Pub. L. 102–484 designated existing provisions as subpar. (A) and added subpar. (B).
+<b>1992</b>—Subsec. (e)(3). Pub. L. 102–484 designated existing provisions as subpar. (A) and added subpar. (B).
 
 #### Assessment of Risk in Concurrent Development of Major Defense Acquisition Systems
 

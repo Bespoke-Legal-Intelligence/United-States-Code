@@ -60,7 +60,7 @@ A prior section 11123, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1422; Pub. L. 9
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–199, §150(1)(A)(i), inserted “failure of existing commuter rail passenger transportation operations caused by a cessation of service by the National Railroad Passenger Corporation,” after “cessation of operations,” in introductory provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–199, §150(1)(A)(i), inserted “failure of existing commuter rail passenger transportation operations caused by a cessation of service by the National Railroad Passenger Corporation,” after “cessation of operations,” in introductory provisions.
 
 Subsec. (a)(5). Pub. L. 108–199, §150(1)(A)(ii)–(iv), added par. (5).
 

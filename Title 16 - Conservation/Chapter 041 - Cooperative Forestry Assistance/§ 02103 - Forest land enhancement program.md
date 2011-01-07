@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) to provide financial assistance to State foresters; and
 
-&emsp;&emsp;(B) to encourage the long-term sustainability of nonindustrial private forest landsin the United States by assisting the owners of nonindustrial private forest lands, through State foresters, in more actively managing the nonindustrial private forest lands and related resources of those owners through the use of State, Federal, and private sector resource management expertise, financial assistance, and educational programs.
+&emsp;&emsp;(B) to encourage the long-term sustainability of nonindustrial private forest lands in the United States by assisting the owners of nonindustrial private forest lands, through State foresters, in more actively managing the nonindustrial private forest lands and related resources of those owners through the use of State, Federal, and private sector resource management expertise, financial assistance, and educational programs.
 
 #### (2) Coordination and consultation
 
@@ -84,7 +84,7 @@ In implementing the program, the Secretary shall target resources to achieve the
 
 #### (2) Lands covered
 
-&emsp;At a minimum, the management plan shall apply to those portions of the nonindustrialprivate forest lands of the owner on which any project or activity funded under the program will be carried out. In a case in which a project or activity may affect acreage outside the portion of the land on which the project or activity is carried out, the management plan shall apply to all lands of the owner that are in forest cover and may be affected by the project or activity.
+&emsp;At a minimum, the management plan shall apply to those portions of the nonindustrial private forest lands of the owner on which any project or activity funded under the program will be carried out. In a case in which a project or activity may affect acreage outside the portion of the land on which the project or activity is carried out, the management plan shall apply to all lands of the owner that are in forest cover and may be affected by the project or activity.
 
 #### (f) Approved activities
 
@@ -234,7 +234,7 @@ A prior section 2103, Pub. L. 95–313, §4, July 1, 1978, 92 Stat. 367; Pub. L.
 
 #### Use of Remaining Funds
 
-Pub. L. 107–171, title VIII, §8001(b), May 13, 2002, 116 Stat. 468, provided that: “Notwithstanding the amendment made by subsection (a) \[repealing former sections 2103 and 2103b of this title\], the Secretary of Agriculture may use funds appropriated for fiscal year 2002 for the forestry incentives program or the stewardship incentive program, but not expended before the date of enactment of this Act \[May 13, 2002\], to carry out sections 4 and 6 of the Cooperative Forestry Assistance Act of 1978 \[former sections 2103 and 2103b of this title\], as in effect on the date before the date of enactment of this Act.”
+Pub. L. 107–171, title VIII, §8001(b), May 13, 2002, 116 Stat. 468, provided that: “Notwithstanding the amendment made by subsection (a) \[repealing former sections 2103 and 2103b of this title\], the Secretary of Agriculture may use funds appropriated for fiscal year 2002 for the forestry incentives program or the stewardship incentive program, but not expended before the date of enactment of this Act \[May 13, 2002\], to carry out sections 4 and 6 of the Cooperative Forestry Assistance Act of 1978 \[former sections 2103 and 2103b of this title\],as in effect on the date before the date of enactment of this Act.”
 
 #### Purposes of Forest Land Enhancement Program
 

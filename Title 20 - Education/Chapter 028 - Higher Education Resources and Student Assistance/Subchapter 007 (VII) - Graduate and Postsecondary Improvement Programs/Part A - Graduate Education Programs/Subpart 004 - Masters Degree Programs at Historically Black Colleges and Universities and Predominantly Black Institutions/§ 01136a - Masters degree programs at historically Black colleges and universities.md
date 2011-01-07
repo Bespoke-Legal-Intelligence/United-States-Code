@@ -16,7 +16,7 @@
 
 #### (4) Duration of grants
 
-&emsp;A grant awarded under this section shall be for a period of not more than six years, but may be periodically renewed for a period to be determined by the Secretary.
+&emsp;A grant awarded under this section shall be for a period of not more than six years, butmay be periodically renewed for a period to be determined by the Secretary.
 
 #### (b) Institutional eligibility
 
@@ -120,7 +120,7 @@ A grant under this section may be used for—
 
 #### (e) Interaction with other grant programs
 
-No institution that is eligible for and receives an award under section 1063b, 1102a, or 1136b of this title for a fiscal year shall be eligible to apply for a grant, or receive grant funds, under this section for the same fiscal year.
+No institution that is eligible for and receives an award under section 1063b, 1102a, or 1136b ofthis title for a fiscal year shall be eligible to apply for a grant, or receive grant funds, under this section for the same fiscal year.
 
 #### (f) Funding rule
 
@@ -128,7 +128,7 @@ Subject to subsection (g), of the amount appropriated to carry out this section 
 
 &emsp;(1) the first $9,000,000 (or any lesser amount appropriated) shall be available only for the purposes of making minimum grants under subsection (a)(3) to eligible institutions listed in subparagraphs (A) through (R) of subsection (b)(1), except that if the amount appropriated is not sufficient to pay the minimum grant awards to all such eligible institutions, the amount of the minimum award to each such eligible institution shall be ratably reduced;
 
-&emsp;(2) after the application of paragraph (1), an amount shall be available for the purpose of making minimum grants under subsection (a)(3) to eligible institutions listed in subsection (b)(1) that do not receive a grant under paragraph (1), if any, except that if the amount appropriated is not sufficient to paythe minimum grant awards to all such eligible institutions, the amount of the minimum award to each such eligible institution shall be ratably reduced; and
+&emsp;(2) after the application of paragraph (1), an amount shall be available for the purpose of making minimum grants under subsection (a)(3) to eligible institutions listed in subsection (b)(1) that do not receive a grant under paragraph (1), if any, except that if the amount appropriated is not sufficient to pay the minimum grant awards to all such eligible institutions, the amount of the minimum award to each such eligible institution shall be ratably reduced; and
 
 &emsp;(3) any amount in excess of $9,000,000 shall be made available to each of the eligible institutions identified in subparagraphs (A) through (R) of subsection (b)(1), pursuant to a formula developed by the Secretary that uses the following elements:
 
@@ -166,7 +166,7 @@ A prior section 723 of Pub. L. 89–329 was renumbered section 343, and is class
 
 #### Amendments
 
-2009—Subsec. (b)(1)(P). Pub. L. 111–39 substituted “State” for “Sate”.
+<b>2009</b>—Subsec. (b)(1)(P). Pub. L. 111–39 substituted “State” for “Sate”.
 
 #### Effective Date of 2009 Amendment
 

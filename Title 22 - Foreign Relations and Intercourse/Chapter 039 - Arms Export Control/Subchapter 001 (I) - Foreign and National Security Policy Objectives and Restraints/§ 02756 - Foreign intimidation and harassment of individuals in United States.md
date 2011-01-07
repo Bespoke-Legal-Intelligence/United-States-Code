@@ -4,3 +4,7 @@ No letters of offer may be issued, no credits or guarantees may be extended, and
 
 (Pub. L. 90–629, ch. 1, §6, as added Pub. L. 97–113, title I, §115, Dec. 29, 1981, 95 Stat. 1528.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+

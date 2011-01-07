@@ -28,7 +28,7 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-2002—Pub. L. 107–273 inserted “under this title” after “warrant, shall be fined” and struck out “not more than $1,000” after “for a first offense”.
+<b>2002</b>—Pub. L. 107–273 inserted “under this title” after “warrant, shall be fined” and struck out “not more than $1,000” after “for a first offense”.
 
-1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000”.
+<b>1996</b>—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000”.
 

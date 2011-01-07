@@ -32,7 +32,7 @@ Upon a determination under subsection (a) of this section—
 
 &emsp;(3) the President
 
-> may by rule or order prohibit any such major fuel burning stationary source (or class or category thereof) from using fuels other than locally or regionally available coal or coal derivatives to comply with implementation plan requirements. In taking any action under this subsection, the Governor, the President, or the President's designee as the case may be, shall take into account, the final cost to the consumer of such an action.
+> may by rule or order prohibit any such major fuel burning stationary source (or class or category thereof) from using fuels other than locally or regionally available coal or coal derivatives to comply with implementation plan requirements. In taking any action under this subsection, the Governor, the President, or thePresident's designee as the case may be, shall take into account, the final cost to the consumer of such an action.
 
 #### (c) Contracts; schedules
 

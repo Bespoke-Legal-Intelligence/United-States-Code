@@ -66,7 +66,7 @@ Revision of courses offered.—The Institute shall periodically—
 
 &emsp;(4)
 
-Set-aside; federal share.—Not to exceed 1/2 of 1 percent of the funds apportioned to a State under section 104(b)(3) for the surface transportation program shall be available for expenditure by the State transportation department for the payment of not to exceed 80 percent of the cost of tuition and direct educational expenses (excluding salaries) in connection with the education and training of employees of State and local transportation agencies in accordance with this subsection.
+Set-aside; federal share.—Not to exceed ½ of 1 percent of the funds apportioned to a State under section 104(b)(3) for the surface transportation program shall be available for expenditure by the State transportation department for the payment of not to exceed 80 percent of the cost of tuition and direct educational expenses (excluding salaries) in connection with the education and training of employees of State and local transportation agencies in accordance with this subsection.
 
 &emsp;(5)
 
@@ -340,7 +340,7 @@ A prior section 504, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 831, 
 
 #### Amendments
 
-2005—Subsec. (a)(3). Pub. L. 109–59, §5204(a)(1), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “The Institute may develop and administer courses in modern developments, techniques, methods, regulations, management, and procedures relating to surface transportation, environmental mitigation and compliance, acquisition of rights-of-way, relocation assistance, engineering, safety, construction, maintenance and operations, contract administration, motor carrier safety activities, inspection, and highway finance.”
+<b>2005</b>—Subsec. (a)(3). Pub. L. 109–59, §5204(a)(1), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “The Institute may develop and administer courses in modern developments, techniques, methods, regulations, management, and procedures relating to surface transportation, environmental mitigation and compliance, acquisition of rights-of-way, relocation assistance, engineering, safety, construction, maintenance and operations, contract administration, motor carrier safety activities, inspection, and highway finance.”
 
 Subsec. (b). Pub. L. 109–59, §5204(b), reenacted heading without change and amended text of subsec. (b) generally, substituting provisions relating to authority to carry out a local technical assistance program, authority to make grants and enter into cooperative agreements and contracts, and Federal share of the cost of activities carried out by tribal technical assistance centers, consisting of pars. (1) to (3), for provisions relating to authority to carry out a local technical assistance program and authority to make grants and enter into cooperative agreements and contracts, consisting of pars. (1) and (2).
 

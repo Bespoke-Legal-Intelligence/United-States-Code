@@ -106,7 +106,7 @@ Interest shall be allowed at the overpayment rate established under section 6621
 
 #### Amendments
 
-1998—Subsec. (a)(4). Pub. L. 105–206, §3106(b)(1), added par. (4).
+<b>1998</b>—Subsec. (a)(4). Pub. L. 105–206, §3106(b)(1), added par. (4).
 
 Subsec. (b)(5). Pub. L. 105–206, §3106(b)(2)(A), added par. (5).
 
@@ -114,13 +114,13 @@ Subsec. (g)(3). Pub. L. 105–206, §3106(b)(2)(B), added par. (3).
 
 Subsecs. (h), (i). Pub. L. 105–206, §3102(b), added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1986—Subsec. (g). Pub. L. 99–514 substituted “the overpayment rate established under section 6621” for “an annual rate established under section 6621”.
+<b>1986</b>—Subsec. (g). Pub. L. 99–514 substituted “the overpayment rate established under section 6621” for “an annual rate established under section 6621”.
 
-1982—Subsec. (b)(2)(C). Pub. L. 97–248 inserted “if such property was sold,” before “grant a judgment” and “the greater of—” after “not exceeding”, redesignated remaining provisions as cl. (i), and added cl. (ii).
+<b>1982</b>—Subsec. (b)(2)(C). Pub. L. 97–248 inserted “if such property was sold,” before “grant a judgment” and “the greater of—” after “not exceeding”, redesignated remaining provisions as cl. (i), and added cl. (ii).
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1975—Subsec. (g). Pub. L. 93–625 substituted “an annual rate established under section 6621” for “the rate of 6 percent per annum”.
+<b>1975</b>—Subsec. (g). Pub. L. 93–625 substituted “an annual rate established under section 6621” for “the rate of 6 percent per annum”.
 
 #### Effective Date of 1998 Amendment
 
@@ -130,7 +130,7 @@ Amendment by section 3106(b)(1), (2) of Pub. L. 105–206 effective July 22, 199
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986,see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
+Amendment by Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986, see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
 
 #### Effective Date of 1982 Amendment
 

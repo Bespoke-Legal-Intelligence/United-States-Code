@@ -12,7 +12,7 @@ In subsecs. (a) and (b), “chapter 51 of title 49” substituted for “the Haz
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–499, §202(a), substituted “within 30 days after October 17, 1986” for “within ninety days after December 11, 1980” and inserted “and regulated” before “as a hazardous material”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–499, §202(a), substituted “within 30 days after October 17, 1986” for “within ninety days after December 11, 1980” and inserted “and regulated” before “as a hazardous material”.
 
 Subsec. (b). Pub. L. 99–499, §202(b), inserted “and regulation” after “prior to the effective date of the listing”.
 

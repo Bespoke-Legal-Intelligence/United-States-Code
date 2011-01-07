@@ -36,5 +36,5 @@ Before clause (1), the text of 49 App.:1805(a) (last sentence) is omitted as bei
 
 #### Amendments
 
-2005—Pub. L. 109–59 substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
+<b>2005</b>—Pub. L. 109–59 substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
 

@@ -50,17 +50,19 @@ Except as may otherwise be provided in law, the unexpended balances of appropria
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Chief of the Capitol Police, in carrying out the duties of office, is authorized to appoint, hire, discharge, and set the terms, conditions, and privileges of employment of employees of the Capitol Police, subject to and in accordance with applicable laws and regulations.
+&emsp;&emsp;The Chief of the Capitol Police, in carrying out the duties of office, is authorized to appoint, hire, suspend with or without pay, discipline, discharge, and set the terms, conditions, and privileges of employment of employees of the Capitol Police, subject to and in accordance with applicable laws and regulations.
 
-#### (B) Review and approval
+#### (B) Special rule for terminations
 
-&emsp;&emsp;In carrying out the authority under this paragraph, the Chief of the Capitol Policeshall be subject to the following requirements:
+&emsp;&emsp;The Chief may terminate an officer, member, or employee only after the Chief hasprovided notice of the termination to the Capitol Police Board (in such manner as the Board may from time to time require) and the Board has approved the termination, except that if the Board has not disapproved the termination prior to the expiration of the 30-day period which begins on the date the Board receives the notice, the Board shall be deemed to have approved the termination.
 
-&emsp;&emsp;&emsp;(i) The appointment and termination of any officer, member, or employee shall be subject to the approval of the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate.
+#### (C) Notice or approval
 
-&emsp;&emsp;&emsp;(ii) The promotion of any noncivilian officer, member, or employee to any rank higher than Private First Class, and the promotion of any civilian employee to any position, shall be subject to the approval of the Committees referred to in clause (i).
+&emsp;&emsp;The Chief of the Capitol Police shall provide notice or receive approval, as required by the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives, as each Committee determines appropriate for—
 
-&emsp;&emsp;&emsp;(iii) The establishment of any new position for officers, members, or employees shall be subject to the approval of the Committees referred to in clause (i).
+&emsp;&emsp;&emsp;(i) the exercise of any authority under subparagraph (A); or
+
+&emsp;&emsp;&emsp;(ii) the establishment of any new position for officers, members, or employees of the Capitol Police, for reclassification of existing positions, for reorganization plans, or for hiring, termination, or promotion for officers, members, or employees of the Capitol Police.
 
 #### (2) Benefits
 
@@ -92,7 +94,7 @@ Except as may otherwise be provided in law, the unexpended balances of appropria
 
 This section and the amendments made by this section shall take effect on February 20, 2003, and shall apply to fiscal year 2003 and each fiscal year thereafter.
 
-(Pub. L. 108–7, div. H, title I, §1018, Feb. 20, 2003, 117 Stat. 366.)
+(Pub. L. 108–7, div. H, title I, §1018, Feb. 20, 2003, 117 Stat. 366; Pub. L. 111–145, §2(a)(4)(A), Mar. 4, 2010, 124 Stat. 49.)
 
 #### References in Text
 
@@ -103,4 +105,8 @@ For the amendments made by this section, referred to in subsec. (i), see Codific
 Section is comprised of section 1018 of div. H of Pub. L. 108–7. Subsec. (h) of section 1018 of Pub. L. 108–7 amended sections 1901 and 1905a of this title and repealed section 1921 of this title.
 
 Section is from the Legislative Branch Appropriations Act, 2003, which is div. H of Pub. L. 108–7.
+
+#### Amendments
+
+2010—Subsec. (e)(1). Pub. L. 111–145 added par. (1) and struck out former par. (1) which authorized the Chief of the Capitol Police to appoint, hire, discharge, and set the terms, conditions, and privileges of employment of employees of the Capitol Police, subject to review and approval.
 

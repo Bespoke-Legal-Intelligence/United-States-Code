@@ -12,15 +12,15 @@ The Secretary of State shall make a determination and certification under subsec
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–364, §302(a)(1), substituted “Secretary of State in the amount determined and certified by him” for “Secretary of the Treasury in the amount certified to him by the Secretary of State”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–364, §302(a)(1), substituted “Secretary of State in the amount determined and certified by him” for “Secretary of the Treasury in the amount certified to him by the Secretary of State”.
 
 Subsec. (b). Pub. L. 98–364, §302(a)(2), inserted “determination and” before “certification” in first sentence, and substituted “State” for “the Treasury” in second and third sentences.
 
-1976—Subsec. (a). Pub. L. 94–265 inserted definition of “other direct charge”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–265 inserted definition of “other direct charge”.
 
-1972—Pub. L. 92–569 designated existing provisions as subsec. (a), inserted provision that reimbursement under this section shall be made from the Fishermen's Protective Fund, and added subsec. (b).
+<b>1972</b>—Pub. L. 92–569 designated existing provisions as subsec. (a), inserted provision that reimbursement under this section shall be made from the Fishermen's Protective Fund, and added subsec. (b).
 
-1968—Pub. L. 90–482 inserted “, license fee, registration fee, or any other direct charge” after “fine” wherever appearing.
+<b>1968</b>—Pub. L. 90–482 inserted “, license fee, registration fee, or any other direct charge” after “fine” wherever appearing.
 
 #### Effective Date of 1976 Amendment
 

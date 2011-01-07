@@ -88,7 +88,7 @@ Provisions similar to those in this section were contained in sections 10751 and
 
 #### Amendments
 
-2005—Subsec. (d). Pub. L. 109–59 designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
+<b>2005</b>—Subsec. (d). Pub. L. 109–59 designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
 
 #### Effective Date
 

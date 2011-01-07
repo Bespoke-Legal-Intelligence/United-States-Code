@@ -14,5 +14,5 @@
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–201 added subsec. (e).
+<b>1996</b>—Subsec. (e). Pub. L. 104–201 added subsec. (e).
 

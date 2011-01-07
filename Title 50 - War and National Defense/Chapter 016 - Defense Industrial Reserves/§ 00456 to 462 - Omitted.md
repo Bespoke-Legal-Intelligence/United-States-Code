@@ -4,7 +4,7 @@
 
 Sections 456 to 462 were omitted in the general amendment of act July 2, 1948, ch. 811 by Pub. L. 93–155, title VIII, §809, Nov. 16, 1973, 87 Stat. 617. See sections 453 to 455 of this title.
 
-Section 456, act July 2, 1948, ch. 811, §7, 62 Stat. 1227, related to powers of Secretary of Defense respectingproperty in national industrial reserve. See section 453 of this title.
+Section 456, act July 2, 1948, ch. 811, §7, 62 Stat. 1227, related to powers of Secretary of Defense respecting property in national industrial reserve. See section 453 of this title.
 
 Section 457, act July 2, 1948, ch. 811, §8, 62 Stat. 1227, related to transportation, maintenance, disposition, etc., of transferred property. See section 453 of this title.
 

@@ -38,7 +38,7 @@
 
 (b) The purposes of this chapter are—
 
-&emsp;(1) to establish national policy, priorities, and goals and to provide a Federal program plan for basic and applied scientific research with respect to the Arctic, including natural resources and materials, physical, biological and health sciences, and social and behavioral sciences;
+&emsp;(1) to establish national policy, priorities, and goals and to provide a Federal program plan for basic and applied scientific research with respect to the Arctic, including naturalresources and materials, physical, biological and health sciences, and social and behavioral sciences;
 
 &emsp;(2) to establish an Arctic Research Commission to promote Arctic research and to recommend Arctic research policy;
 
@@ -50,7 +50,7 @@
 
 #### Amendments
 
-1993—Subsec. (a)(2). Pub. L. 103–199, §601(1), struck out “as the Nation's only common border with the Soviet Union,” before “the Arctic”.
+<b>1993</b>—Subsec. (a)(2). Pub. L. 103–199, §601(1), struck out “as the Nation's only common border with the Soviet Union,” before “the Arctic”.
 
 Subsec. (a)(10). Pub. L. 103–199, §601(2), struck out “, particularly the Soviet Union,” after “countries”.
 

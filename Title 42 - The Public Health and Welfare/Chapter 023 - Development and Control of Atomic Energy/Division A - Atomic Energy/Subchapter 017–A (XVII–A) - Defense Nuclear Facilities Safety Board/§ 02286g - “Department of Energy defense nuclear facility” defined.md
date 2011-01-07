@@ -14,7 +14,7 @@ As used in this subchapter, the term “Department of Energy defense nuclear fac
 
 &emsp;(2) A nuclear waste storage facility under the control or jurisdiction of the Secretary of Energy, but the term does not include a facility developed pursuant to the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101 et seq.) and licensed by the Nuclear Regulatory Commission.
 
-(Aug. 1, 1946, ch. 724, title I, §318, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2083; amended Pub. L. 102–190, div. C, title XXXII, §3202(b)(1), Dec. 5, 1991, 105 Stat. 1582; renumbered title I and amended Pub. L. 102–486, title IX, §902(a)(7), (8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §318, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29,1988, 102 Stat. 2083; amended Pub. L. 102–190, div. C, title XXXII, §3202(b)(1), Dec. 5, 1991, 105 Stat. 1582; renumbered title I and amended Pub. L. 102–486, title IX, §902(a)(7), (8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### References in Text
 
@@ -24,9 +24,9 @@ The Nuclear Waste Policy Act of 1982, referred to in par. (2), is Pub. L. 97–4
 
 #### Amendments
 
-1992—Par. (1)(D). Pub. L. 102–486, §902(a)(7), added subpar. (D).
+<b>1992</b>—Par. (1)(D). Pub. L. 102–486, §902(a)(7), added subpar. (D).
 
-1991—Par. (1)(B). Pub. L. 102–190 struck out “with the assembly or testing of nuclear explosives or” after “involved”.
+<b>1991</b>—Par. (1)(B). Pub. L. 102–190 struck out “with the assembly or testing of nuclear explosives or” after “involved”.
 
 #### References to United States Enrichment Corporation
 

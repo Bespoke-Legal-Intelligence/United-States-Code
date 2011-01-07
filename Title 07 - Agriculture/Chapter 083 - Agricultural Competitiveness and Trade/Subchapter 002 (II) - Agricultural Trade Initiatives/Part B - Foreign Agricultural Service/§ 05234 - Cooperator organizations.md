@@ -6,7 +6,7 @@ It is the sense of Congress that the foreign market development cooperator progr
 
 #### (b) Commodities for cooperator organizations
 
-The Secretary of Agriculture may make available to cooperator organizations agricultural commodities owned by the Commodity Credit Corporation, for use by such cooperators in projects designed to expand markets for United States agricultural commodities and products.
+The Secretary of Agriculture may make available to cooperator organizations agriculturalcommodities owned by the Commodity Credit Corporation, for use by such cooperators in projects designed to expand markets for United States agricultural commodities and products.
 
 #### (c) Relation to funds
 
@@ -14,7 +14,7 @@ Commodities made available to cooperator organizations under this section shall 
 
 #### (d) Conflicts of interest
 
-The Secretary shall take appropriate action to prevent conflicts of interest among cooperatororganizations participating in the cooperator program.
+The Secretary shall take appropriate action to prevent conflicts of interest among cooperator organizations participating in the cooperator program.
 
 #### (e) Evaluation
 

@@ -54,19 +54,19 @@ In subsec. (e), “section 558(c) of title 5” substituted for “section 1008(
 
 #### Amendments
 
-2004—Subsec. (g). Pub. L. 108–447 inserted before period at end “, except that the Commission may extend or reinstate such station license if the holder of the station license prevails in an administrative or judicial appeal, the applicable law changes, or for any other reason to promote equity and fairness. Any broadcast license revoked or terminated in Alaska in a proceeding related to broadcasting via translator, microwave, or other alternative signal delivery is reinstated”.
+<b>2004</b>—Subsec. (g). Pub. L. 108–447 inserted before period at end “, except that the Commission may extend or reinstate such station license if the holder of the station license prevails in an administrative or judicial appeal, the applicable law changes, or for any other reason to promote equity and fairness. Any broadcast license revoked or terminated in Alaska in a proceeding related to broadcasting via translator, microwave, or other alternative signal delivery is reinstated”.
 
-2000—Subsec. (a)(7). Pub. L. 106–554 inserted “, other than a non-commercial educational broadcast station,” after “use of a broadcasting station”.
+<b>2000</b>—Subsec. (a)(7). Pub. L. 106–554 inserted “, other than a non-commercial educational broadcast station,” after “use of a broadcasting station”.
 
-1996—Subsec. (g). Pub. L. 104–104 added subsec. (g).
+<b>1996</b>—Subsec. (g). Pub. L. 104–104 added subsec. (g).
 
-1982—Subsec. (f). Pub. L. 97–259 added subsec. (f).
+<b>1982</b>—Subsec. (f). Pub. L. 97–259 added subsec. (f).
 
-1972—Subsec. (a)(7). Pub. L. 92–225 added par. (7).
+<b>1972</b>—Subsec. (a)(7). Pub. L. 92–225 added par. (7).
 
-1960—Subsecs. (a), (b). Pub. L. 86–752 inserted provisions referring to sections 1304, 1343 and 1464 of title 18.
+<b>1960</b>—Subsecs. (a), (b). Pub. L. 86–752 inserted provisions referring to sections 1304, 1343 and 1464 of title 18.
 
-1952—Act July 16, 1952, amended section generally to provide for revocation of licenses and permits only for acts willfully and knowingly committed or for disregarding cease and desist orders, and to authorize the Commission to issue cease and desist orders.
+<b>1952</b>—Act July 16, 1952, amended section generally to provide for revocation of licenses and permits only for acts willfully and knowingly committed or for disregarding cease and desist orders, and to authorize the Commission to issue cease and desist orders.
 
 #### Repeals
 

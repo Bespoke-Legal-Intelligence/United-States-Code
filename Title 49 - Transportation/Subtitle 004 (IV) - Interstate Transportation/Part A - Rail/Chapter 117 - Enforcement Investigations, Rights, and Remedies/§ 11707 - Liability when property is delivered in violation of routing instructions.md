@@ -26,5 +26,5 @@ Section 11710, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1455, related to liabil
 
 Section 11711, added Pub. L. 96–454, §7(a)(1), Oct. 15, 1980, 94 Stat. 2016; amended Pub. L. 97–261, §6(d)(2), Sept. 20, 1982, 96 Stat. 1107, related to dispute settlement program for household goods carriers. See section 14708 of this title.
 
-Section 11712, added Pub. L. 103–180, §4(a), Dec. 3, 1993, 107 Stat. 2049, related to tariff reconciliation rules for motor common carriers of property. See section 14709 of this title.
+Section 11712, added Pub. L. 103–180, §4(a), Dec. 3, 1993, 107 Stat. 2049, related to tariff reconciliation rules formotor common carriers of property. See section 14709 of this title.
 

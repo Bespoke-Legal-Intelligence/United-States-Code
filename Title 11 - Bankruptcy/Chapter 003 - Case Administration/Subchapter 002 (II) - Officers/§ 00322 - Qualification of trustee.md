@@ -46,13 +46,13 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 ofPub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 
 Effective date and applicability of amendment by section 207 of Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
-Amendment by section 257 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to casescommenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554.
+Amendment by section 257 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554.
 
 #### Effective Date of 1984 Amendment
 

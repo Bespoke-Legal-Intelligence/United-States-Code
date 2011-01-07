@@ -2,19 +2,23 @@
 
 A person who, having devised or intending to devise a scheme or artifice to defraud and for the purpose of executing or concealing such a scheme or artifice or attempting to do so—
 
-&emsp;(1) files a petition under title 11, including a fraudulent involuntary bankruptcy petition under section 303 of such title;
+&emsp;(1) files a petition under title 11, including a fraudulent involuntary petition under section 303 of such title;
 
-&emsp;(2) files a document in a proceeding under title 11, including a fraudulent involuntary bankruptcy petition under section 303 of such title; or
+&emsp;(2) files a document in a proceeding under title 11; or
 
-&emsp;(3) makes a false or fraudulent representation, claim, or promise concerning or in relation to a proceeding under title 11, including a fraudulent involuntary bankruptcy petition under section 303 of such title, at any time before or after the filing of the petition, or in relation to a proceeding falsely asserted to be pending under such title,
+&emsp;(3) makes a false or fraudulent representation, claim, or promise concerning or in relation to a proceeding under title 11, at any time before or after the filing of the petition, or in relation to a proceeding falsely asserted to be pending under such title,
 
 > shall be fined under this title, imprisoned not more than 5 years, or both.
 
-(Added Pub. L. 103–394, title III, §312(a)(1)(B), Oct. 22, 1994, 108 Stat. 4140; amended Pub. L. 109–8, title III, §332(c), Apr. 20, 2005, 119 Stat. 103.)
+(Added Pub. L. 103–394, title III, §312(a)(1)(B), Oct. 22, 1994, 108 Stat. 4140; amended Pub. L. 109–8, title III, §332(c), Apr. 20, 2005, 119 Stat. 103; Pub. L. 111–327, §2(b), Dec. 22, 2010, 124 Stat. 3562.)
 
 #### Amendments
 
-2005—Pars. (1) to (3). Pub. L. 109–8, which directed insertion of “, including a fraudulent involuntary bankruptcy petition under section 303 of such title” after “title 11”, was executed by making the insertion after “title 11” wherever appearing, to reflect the probable intent of Congress.
+<b>2010</b>—Par. (1). Pub. L. 111–327, §2(b)(1), struck out “bankruptcy” after “involuntary”.
+
+Pars. (2), (3). Pub. L. 111–327, §2(b)(2), struck out “, including a fraudulent involuntary bankruptcy petition under section 303 of such title” after “title 11”.
+
+<b>2005</b>—Pars. (1) to (3). Pub. L. 109–8, which directed insertion of “, including a fraudulent involuntary bankruptcy petition under section 303 of such title” after “title 11”, was executed by making the insertion after “title 11” wherever appearing, to reflect the probable intent of Congress.
 
 #### Effective Date of 2005 Amendment
 

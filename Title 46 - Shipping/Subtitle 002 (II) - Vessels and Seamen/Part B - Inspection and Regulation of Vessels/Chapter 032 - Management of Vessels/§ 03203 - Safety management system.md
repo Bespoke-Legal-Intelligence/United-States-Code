@@ -20,9 +20,17 @@ In General.—The Secretary shall prescribe regulations which establish a safety
 
 Compliance With Code.—Regulations prescribed under this section shall be consistent with the International Safety Management Code with respect to vessels to which this chapter applies under section 3202(a) of this title.
 
-(Added Pub. L. 104–324, title VI, §602(a), Oct. 19, 1996, 110 Stat. 3928; amended Pub. L. 108–293, title IV, §405(b), Aug. 9, 2004, 118 Stat. 1043.)
+(c) In prescribing regulations for passenger vessels and small passenger vessels, the Secretary shall consider—
+
+&emsp;(1) the characteristics, methods of operation, and nature of the service of these vessels; and
+
+&emsp;(2) with respect to vessels that are ferries, the sizes of the ferry systems within which the vessels operate.
+
+(Added Pub. L. 104–324, title VI, §602(a), Oct. 19, 1996, 110 Stat. 3928; amended Pub. L. 108–293, title IV, §405(b), Aug. 9, 2004, 118 Stat. 1043; Pub. L. 111–281, title VI, §610(b), Oct. 15, 2010, 124 Stat. 2969.)
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–293 substituted “vessels to which this chapter applies under section 3202(a) of this title” for “vessels engaged on a foreign voyage”.
+<b>2010</b>—Subsec. (c). Pub. L. 111–281 added subsec. (c).
+
+<b>2004</b>—Subsec. (b). Pub. L. 108–293 substituted “vessels to which this chapter applies under section 3202(a) of this title” for “vessels engaged on a foreign voyage”.
 

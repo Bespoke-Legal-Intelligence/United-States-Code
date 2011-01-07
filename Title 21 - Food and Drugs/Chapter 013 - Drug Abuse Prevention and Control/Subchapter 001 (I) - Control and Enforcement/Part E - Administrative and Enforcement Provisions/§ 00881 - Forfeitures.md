@@ -112,7 +112,7 @@ The provisions of section 981(g) of title 18 regarding the stay of a civil forfe
 
 #### (j) Venue
 
-In addition to the venue provided for in section 1395 of title 28 or any other provision of law, in the case of property of a defendant charged with a violation that is the basis for forfeiture of the property under this section, a proceeding for forfeiture under this section may be brought in the judicial district in which the defendant owning such property is found or in the judicial district in which the criminal prosecution is brought.
+In addition to the venue provided for in section 1395 of title 28 or any other provision of law, in the case of property of a defendant charged with a violation that is the basis for forfeitureof the property under this section, a proceeding for forfeiture under this section may be brought in the judicial district in which the defendant owning such property is found or in the judicial district in which the criminal prosecution is brought.
 
 #### (<i>l</i>) <sup>1</sup> Agreement between Attorney General and Postal Service for performance of functions
 
@@ -124,15 +124,13 @@ The functions of the Attorney General under this section shall be carried out by
 
 Subchapter II of this chapter, referred to in subsec. (a)(9), was in the original “title III”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
-The customs laws, referred to in subsec. (d), are classified generally to Title 19, Customs Duties.
-
 Schedules I and II, referred to in subsecs. (f) and (g), are set out in section 812(c) of this title.
 
 #### Amendments
 
-2002—Subsec. (a)(10). Pub. L. 107–273 substituted “section 863 of this title” for “section 1822 of the Mail Order Drug Paraphernalia Control Act”.
+<b>2002</b>—Subsec. (a)(10). Pub. L. 107–273 substituted “section 863 of this title” for “section 1822 of the Mail Order Drug Paraphernalia Control Act”.
 
-2000—Subsec. (a)(4). Pub. L. 106–185, §2(c)(2), struck out before period at end “, except that—
+<b>2000</b>—Subsec. (a)(4). Pub. L. 106–185, §2(c)(2), struck out before period at end “, except that—
 
 &emsp;“(A) no conveyance used by any person as a common carrier in the transaction of business as a common carrier shall be forfeited under the provisions of this section unless it shall appear that the owner or other person in charge of such conveyance was a consenting party or privy to a violation of this subchapter or subchapter II of this chapter;
 
@@ -148,17 +146,17 @@ Subsec. (b). Pub. L. 106–185, §5(b), inserted heading and amended text of sub
 
 Subsec. (i). Pub. L. 106–185, §8(b), inserted heading and amended text of subsec. (i) generally. Prior to amendment, text read as follows: “The filing of an indictment or information alleging a violation of this subchapter or subchapter II of this chapter, or a violation of State or local law that could have been charged under this subchapter or subchapter II of this chapter, which is also related to a civil forfeiture proceeding under this section shall, upon motion of the United States and for good cause shown, stay the civil forfeiture proceeding.”
 
-1996—Subsec. (a)(2), (6). Pub. L. 104–237, §201(b)(1), inserted “or listed chemical” after “controlled substance”.
+<b>1996</b>—Subsec. (a)(2), (6). Pub. L. 104–237, §201(b)(1), inserted “or listed chemical” after “controlled substance”.
 
 Subsec. (a)(9). Pub. L. 104–237, §201(b)(2), substituted “possessed, distributed, dispensed, acquired, or intended to be distributed, dispensed, acquired,” for “possessed, distributed, or intended to be distributed,” and struck out “a felony provision of” after “in violation of”.
 
-1994—Subsec. (e)(1)(E)(iii). Pub. L. 103–447 substituted “section 2291j(b) of title 22” for “section 2291(h) of title 22”.
+<b>1994</b>—Subsec. (e)(1)(E)(iii). Pub. L. 103–447 substituted “section 2291j(b) of title 22” for “section 2291(h) of title 22”.
 
-1991—Subsec. (e)(1)(B). Pub. L. 102–239, §2(1), substituted “except as provided in paragraph (4), sell” for “sell”.
+<b>1991</b>—Subsec. (e)(1)(B). Pub. L. 102–239, §2(1), substituted “except as provided in paragraph (4), sell” for “sell”.
 
 Subsec. (e)(4). Pub. L. 102–239, §2(2), added par. (4).
 
-1990—Subsec. (a)(10). Pub. L. 101–647, §2007, added par. (10).
+<b>1990</b>—Subsec. (a)(10). Pub. L. 101–647, §2007, added par. (10).
 
 Subsec. (a)(11). Pub. L. 101–647, §2008, added par. (11).
 
@@ -166,9 +164,9 @@ Subsec. (e)(1)(B). Pub. L. 101–647, §2003, inserted “, by public sale or a
 
 Subsec. (f). Pub. L. 101–647, §2004, inserted “; all dangerous, toxic, or hazardous raw materials or products subject to forfeiture under subsection (a)(2) of this section; and any equipment or container subject to forfeiture under subsection (a)(2) or (3) of this section which cannot be separated safely from such raw materials or products” after “this subchapter” in pars. (1) and (2).
 
-1989—Subsec. (e)(3)(B). Pub. L. 101–189 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “is not so transferred to circumvent any requirement of State law that prohibits forfeiture or limits use or disposition of property forfeited to State or local agencies.”
+<b>1989</b>—Subsec. (e)(3)(B). Pub. L. 101–189 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “is not so transferred to circumvent any requirement of State law that prohibits forfeiture or limits use or disposition of property forfeited to State or local agencies.”
 
-1988—Subsec. (a)(3). Pub. L. 100–690, §6059(b), inserted reference to par. (9).
+<b>1988</b>—Subsec. (a)(3). Pub. L. 100–690, §6059(b), inserted reference to par. (9).
 
 Subsec. (a)(4). Pub. L. 100–690, §§6059(b), 6075, inserted in introductory provisions reference to par. (9) and added subpar. (C).
 
@@ -186,7 +184,7 @@ Subsec. (e)(3). Pub. L. 100–690, §6077(a), added par. (3).
 
 Subsec. (<i>l</i>). Pub. L. 100–690, §6253(a), added subsec. (<i>l</i>).
 
-1986—Subsec. (b). Pub. L. 99–570, §1865(1)–(3), and Pub. L. 99–646, §74(1)–(3), in making identical amendments in introductory provision and par. (4), struck out “or criminal” after “subject to civil” and inserted paragraph permitting the Government to request issuance of a warrant authorizing seizure of property subject to forfeiture under this section in the same manner as provided for a search warrant under the Federal Rules of Criminal Procedure.
+<b>1986</b>—Subsec. (b). Pub. L. 99–570, §1865(1)–(3), and Pub. L. 99–646, §74(1)–(3), in making identical amendments in introductory provision and par. (4), struck out “or criminal” after “subject to civil” and inserted paragraph permitting the Government to request issuance of a warrant authorizing seizure of property subject to forfeiture under this section in the same manner as provided for a search warrant under the Federal Rules of Criminal Procedure.
 
 Subsec. (e). Pub. L. 99–570, §1992, designated existing provisions as par. (1) and former pars. (1) to (4) as subpars. (A) to (D), respectively, and added par. (2) in lieu of former concluding provisions which read as follows: “The Attorney General shall ensure the equitable transfer pursuant to paragraph (1) of any forfeited property to the appropriate State or local law enforcement agency so as to reflect generally the contribution of any such agency participating directly in any of the acts which led to the seizure or forfeiture of such property. A decision by the Attorney General pursuant to paragraph (1) shall not be subject to review. The proceeds from any sale under paragraph (2) and any moneys forfeited under this subchapter shall be used to pay all proper expenses of the proceedings for forfeiture and sale including expenses of seizure, maintenance of custody, advertising, and court costs. The Attorney General shall forward to the Treasurer of the United States for deposit in accordance with section 524(c) of title 28 any amounts of such moneys and proceeds remaining after payment of such expenses.”
 
@@ -194,7 +192,7 @@ Subsec. (f). Pub. L. 99–570, §1006(c), which directed the amendment of sectio
 
 Subsec. (i). Pub. L. 99–570, §1865(b) and Pub. L. 99–646, §74(b), made identical amendments, inserting “, or a violation of State or local law that could have been charged under this subchapter or subchapter II of this chapter,”.
 
-1984—Subsec. (a)(7). Pub. L. 98–473, §306(a), added par. (7).
+<b>1984</b>—Subsec. (a)(7). Pub. L. 98–473, §306(a), added par. (7).
 
 Subsec. (a)(8). Pub. L. 98–473, §518, added par. (8).
 
@@ -212,11 +210,11 @@ Subsec. (e). Pub. L. 98–473, §§306(e), 309, inserted “civilly or criminall
 
 Subsecs. (h) to (j). Pub. L. 98–473, §306(f), added subsecs. (h) to (j).
 
-1979—Subsec. (d). Pub. L. 96–132 substituted “The provisions” for “All provisions” and struck out “and the award of compensation to informers in respect of such forfeitures” after “compromise of claims”.
+<b>1979</b>—Subsec. (d). Pub. L. 96–132 substituted “The provisions” for “All provisions” and struck out “and the award of compensation to informers in respect of such forfeitures” after “compromise of claims”.
 
-1978—Subsec. (a)(6). Pub. L. 95–633, §301(1), added par. (6).
+<b>1978</b>—Subsec. (a)(6). Pub. L. 95–633, §301(1), added par. (6).
 
-Subsec. (e). Pub. L. 95–633, §301(a)(2), (3), struck out of cl. (2) provisions relating to use of proceeds of sale andinserted last sentence relating to the forwarding by the Attorney General of money and proceeds remaining after payment of expenses.
+Subsec. (e). Pub. L. 95–633, §301(a)(2), (3), struck out of cl. (2) provisions relating to use of proceeds of sale and inserted last sentence relating to the forwarding by the Attorney General of money and proceeds remaining after payment of expenses.
 
 #### Effective Date of 2000 Amendment
 
@@ -246,7 +244,7 @@ Section 6079 of Pub. L. 100–690 provided that:
 
 “(a)
 
-In General.—Not later than 90 days after the date of enactment of this Act \[Nov. 18, 1988\], the Attorney General and the Secretary of the Treasury shall consult, and after providing a 30-day public comment period, shall prescribe regulations for expedited administrative procedures for seizures under section 511(a)(4), (6), and (7) of the Controlled Substances Act (21 U.S.C. 881(a)(4), (6), and (7)); section 596 of the Tariff Act of 1930 (19 U.S.C. 1595a(a)); and section 2 of the Act of August 9, 1939 (53 Stat. 1291; 49 U.S.C. App. 782 \[now 49 U.S.C. 80303\]) for violations involving the possession of personal use quantities of a controlled substance.
+In General.—Not later than 90 days after the date of enactment of this Act \[Nov. 18, 1988\], the Attorney General and the Secretary of the Treasury shall consult, and after providing a 30-day public comment period, shall prescribe regulations for expedited administrative procedures for seizures under section 511(a)(4), (6), and (7) of the Controlled Substances Act (21 U.S.C. 881(a)(4), (6), and (7)); section 596 of the Tariff Act of 1930 (19 U.S.C. 1595a(a)); and section 2 of the Act of August 9, 1939 (53 Stat. 1291; 49 U.S.C. App. 782 \[now 49U.S.C. 80303\]) for violations involving the possession of personal use quantities of a controlled substance.
 
 “(b)
 

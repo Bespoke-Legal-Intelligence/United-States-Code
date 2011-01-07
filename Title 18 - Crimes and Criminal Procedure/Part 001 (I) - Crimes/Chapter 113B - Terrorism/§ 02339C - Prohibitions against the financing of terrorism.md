@@ -78,13 +78,13 @@ Concealment.—Whoever—
 
 &emsp;(1)(A) is in the United States; or
 
-&emsp;(B) is outside the United States and is a national of the United States or a legal entity organized under the laws of the United States (including any of its States, districts, commonwealths, territories, or possessions); and
+&emsp;(B) is outside the United States and is a national of the United States or a legal entityorganized under the laws of the United States (including any of its States, districts, commonwealths, territories, or possessions); and
 
 &emsp;(2) knowingly conceals or disguises the nature, location, source, ownership, or control of any material support or resources, or any funds or proceeds of such funds—
 
 &emsp;&emsp;(A) knowing or intending that the support or resources are to be provided, or knowing that the support or resources were provided, in violation of section 2339B of this title; or
 
-&emsp;&emsp;(B) knowing or intending that any such funds are to be provided or collected, orknowing that the funds were provided or collected, in violation of subsection (a),
+&emsp;&emsp;(B) knowing or intending that any such funds are to be provided or collected, or knowing that the funds were provided or collected, in violation of subsection (a),
 
 > shall be punished as prescribed in subsection (d)(2).
 
@@ -162,9 +162,9 @@ Section 1365(g)(3), referred to in subsec. (e)(11), was redesignated section 136
 
 #### Amendments
 
-2006—Pub. L. 109–177 amended directory language of Pub. L. 108–458, §6604. See 2004 Amendment notes below.
+<b>2006</b>—Pub. L. 109–177 amended directory language of Pub. L. 108–458, §6604. See 2004 Amendment notes below.
 
-2004—Subsec. (c)(2). Pub. L. 108–458, §6604(a)(1), as amended by Pub. L. 109–177, §408(1), substituted “or resources, or any funds or proceeds of such funds” for “, resources, or funds” in introductory provisions.
+<b>2004</b>—Subsec. (c)(2). Pub. L. 108–458, §6604(a)(1), as amended by Pub. L. 109–177, §408(1), substituted “or resources, or any funds or proceeds of such funds” for “, resources, or funds” in introductory provisions.
 
 Subsec. (c)(2)(A). Pub. L. 108–458, §6604(a)(2), as amended by Pub. L. 109–177, §408(1), substituted “are to be provided, or knowing that the support or resources were provided,” for “were provided”.
 
@@ -172,7 +172,7 @@ Subsec. (c)(2)(B). Pub. L. 108–458, §6604(a)(3), as amended by Pub. L. 109–
 
 Subsec. (e)(13), (14). Pub. L. 108–458, §6604(b), as amended by Pub. L. 109–177, §408(2), added par. (13) and redesignated former par. (13) as (14).
 
-2002—Subsec. (a)(1). Pub. L. 107–273 substituted “described in subsection (b)” for “described in subsection (c)”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–273 substituted “described in subsection (b)” for “described in subsection (c)”.
 
 #### Effective Date of 2006 Amendment
 

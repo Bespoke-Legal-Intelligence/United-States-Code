@@ -16,7 +16,7 @@ Appointment, Supervision, and Removal.—
 
 &emsp;(1) The Office of the Inspector General shall be headed by an Inspector General, who shall be appointed by the Comptroller General without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations. The Inspector General shall report to, and be under the general supervision of, the Comptroller General.
 
-&emsp;(2) The Inspector General may be removed from office by the Comptroller General. TheComptroller General shall, promptly upon such removal, communicate in writing the reasons for any such removal to each House of Congress.
+&emsp;(2) The Inspector General may be removed from office by the Comptroller General. The Comptroller General shall, promptly upon such removal, communicate in writing the reasons for any such removal to each House of Congress.
 
 &emsp;(3) The Inspector General shall be paid at an annual rate of pay equal to $5,000 less than the annual rate of pay of the Comptroller General, and may not receive any cash award or bonus, including any award under chapter 45 of title 5.
 
@@ -46,7 +46,7 @@ Complaints by Employees.—
 
 &emsp;(1) The Inspector General—
 
-&emsp;&emsp;(A) subject to subparagraph (B), may receive, review, and investigate, as the Inspector General considers appropriate, complaints or information from an employee of the Government Accountability Office concerning the possible existence of an activity constituting a violation of any law, rule, or regulation, mismanagement, or a gross waste of funds; and
+&emsp;&emsp;(A) subject to subparagraph (B), may receive, review, and investigate, as the Inspector General considers appropriate, complaints or information from an employee of the Government Accountability Office concerning the possible existence of an activity constituting a violation of any law, rule, orregulation, mismanagement, or a gross waste of funds; and
 
 &emsp;&emsp;(B) shall refer complaints or information concerning violations of personnel law, rules, or regulations to established investigative and adjudicative entities of the Government Accountability Office.
 
@@ -78,7 +78,7 @@ Authority for Staff.—
 
 &emsp;(1)
 
-In general.—The Inspector General shall select, appoint, and employ (including fixing and adjusting the rates of pay of) such personnel as may be necessary to carry out this section consistent with the provisions of this title governing selections, appointments, and employment (including the fixing and adjusting the rates of pay) in the Government Accountability Office. Such personnel shall be appointed, promoted, and assigned only on the basis of merit and fitness, but without regard to those provisions of title 5 governing appointments and other personnel actions in the competitive service, except that no personnelof the Office may be paid at an annual rate greater than $1,000 less than the annual rate of pay of the Inspector General.
+In general.—The Inspector General shall select, appoint, and employ (including fixing and adjusting the rates of pay of) such personnel as may be necessary to carry out this section consistent with the provisions of this title governing selections, appointments, and employment (including the fixing and adjusting the rates of pay) in the Government Accountability Office. Such personnel shall be appointed, promoted, and assigned only on the basis of merit and fitness, but without regard to those provisions of title 5 governing appointments and other personnel actions in the competitive service, except that no personnel of the Office may be paid at an annual rate greater than $1,000 less than the annual rate of pay of the Inspector General.
 
 &emsp;(2)
 

@@ -6,7 +6,7 @@ In General.—There is a Legal Counsel to the Chairman of the Joint Chiefs of St
 
 (b)
 
-Selection for Appointment.—Under regulations prescribed by the Secretary of Defense, the officer selected for appointment to serve as Legal Counsel to the Chairman of the Joint Chiefs of Staff shall be recommended by a board of officers convened by the Secretary of Defense that, insofar as practicable, is subject to theprocedures applicable to selection boards convened under chapter 36 of this title.
+Selection for Appointment.—Under regulations prescribed by the Secretary of Defense, the officer selected for appointment to serve as Legal Counsel to the Chairman of the Joint Chiefs of Staff shall be recommended by a board of officers convened by the Secretary of Defense that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
 
 (c)
 
@@ -22,9 +22,9 @@ Duties.—(1) The Legal Counsel of the Chairman of the Joint Chiefs of Staff sha
 
 #### Amendments
 
-2009—Subsec. (c). Pub. L. 111–84 substituted “be appointed in the regular” for “, while so serving, hold the”.
+<b>2009</b>—Subsec. (c). Pub. L. 111–84 substituted “be appointed in the regular” for “, while so serving, hold the”.
 
-2008—Subsec. (d). Pub. L. 110–417 designated existing provisions as par. (1) and added par. (2).
+<b>2008</b>—Subsec. (d). Pub. L. 110–417 designated existing provisions as par. (1) and added par. (2).
 
 #### Effective Date of 2009 Amendment
 

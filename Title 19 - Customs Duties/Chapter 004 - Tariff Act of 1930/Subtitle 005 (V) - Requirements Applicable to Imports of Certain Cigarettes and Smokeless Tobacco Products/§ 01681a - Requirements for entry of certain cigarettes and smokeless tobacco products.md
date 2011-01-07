@@ -36,7 +36,7 @@ Cigarettes or smokeless tobacco products satisfying the conditions of any of the
 
 &emsp;&emsp;(A) for which the owner of such United States trademark registration for cigarettes or smokeless tobacco products (or a person authorized to act on behalf of such owner) has consented to the importation of such cigarettes or smokeless tobacco products into the United States; and
 
-&emsp;&emsp;(B) for which the importer submits a certificate signed by the manufacturer or export warehouse (or a person authorized by such manufacturer or export warehouse) to which such cigarettes or smokeless tobacco products are to be delivered (as provided in subparagraph (A)) stating, under penalties of perjury, with respect to those cigarettes or smokeless tobacco products, that it will not distribute those cigarettes or smokeless tobacco products into domestic commerce unless prior to such distribution all steps have been taken to comply with paragraphs (1), (2), and (3) of subsection (a) of this section, and, to the extent applicable, section 5754(a)(1)(B) and (C) of title 26.
+&emsp;&emsp;(B) for which the importer submits a certificate signed by the manufacturer or export warehouse (or a person authorized by such manufacturer or export warehouse) to which such cigarettes or smokeless tobacco products are to be delivered (as provided in subparagraph (A)) stating, under penalties of perjury, with respect to those cigarettes or smokeless tobacco products, that it will not distribute those cigarettes or smokeless tobacco products into domestic commerce unless prior to such distribution all steps have been taken to comply with paragraphs (1),\(2), and (3) of subsection (a) of this section, and, to the extent applicable, section 5754(a)(1)(B) and (C) of title 26.
 
 > For purposes of this section, a trademark is registered in the United States if it is registered in the United States Patent and Trademark Office under the provisions of title I of the Act of July 5, 1946 \[15 U.S.C. 1051 et seq.\] (popularly known as the “Trademark Act of 1946”), and a copy of the certificate of registration of such mark has been filed with the Secretary. The Secretary shall make available to interested parties a current list of the marks so filed.
 
@@ -86,7 +86,7 @@ Another section 802 of act June 17, 1930, is classified to section 1683 of this 
 
 #### Amendments
 
-2006—Pub. L. 109–432, §401(e)(4)(B), inserted “and smokeless tobacco products” after “cigarettes” in section catchline.
+<b>2006</b>—Pub. L. 109–432, §401(e)(4)(B), inserted “and smokeless tobacco products” after “cigarettes” in section catchline.
 
 Subsec. (a). Pub. L. 109–432, §401(e)(1), inserted “or smokeless tobacco products” after “cigarettes” in introductory provisions.
 

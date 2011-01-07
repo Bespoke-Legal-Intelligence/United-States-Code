@@ -38,7 +38,7 @@ Section was formerly classified to section 11282 of this title prior to renumber
 
 #### Amendments
 
-1988—Pub. L. 100–607, §142(a), renumbered section 11282 of this title as this section.
+<b>1988</b>—Pub. L. 100–607, §142(a), renumbered section 11282 of this title as this section.
 
 Subsecs. (a), (d). Pub. L. 100–607, §142(d)(5), substituted “the Institute” for “the National Institute on Aging”.
 

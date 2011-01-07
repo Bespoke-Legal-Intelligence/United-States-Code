@@ -16,7 +16,7 @@
 
 &emsp;(7) may appoint and fix the compensation, in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5, of such officers, attorneys, and employees as may be necessary for the conduct of its business, define their authority and duties, and delegate to them such of the powers vested in the Corporation as the Administrator may determine;
 
-&emsp;(8) may acquire, by purchase, lease, condemnation, or donation such real and personal property and any interest therein, and may sell, lease, or otherwise dispose of such realand personal property, as the Administrator deems necessary for the conduct of its business;
+&emsp;(8) may acquire, by purchase, lease, condemnation, or donation such real and personal property and any interest therein, and may sell, lease, or otherwise dispose of such real and personal property, as the Administrator deems necessary for the conduct of its business;
 
 &emsp;(9) shall determine the character of and the necessity for its obligations and expenditures, and the manner in which they shall be incurred, allowed and paid, subject to provisions of law specifically applicable to Government corporations;
 
@@ -40,13 +40,13 @@ In subsec. (a)(7), “chapter 51 and subchapter III of chapter 53 of title 5” 
 
 #### Amendments
 
-1986—Subsec. (a)(13). Pub. L. 99–662 added par. (13) relating to acceptance of amounts transferred to the Corporation under section 9505(c) of title 26.
+<b>1986</b>—Subsec. (a)(13). Pub. L. 99–662 added par. (13) relating to acceptance of amounts transferred to the Corporation under section 9505(c) of title 26.
 
-1982—Subsec. (a)(10) to (13). Pub. L. 97–369 added par. (10) and redesignated former pars. (10) to (12) as (11) to (13), respectively.
+<b>1982</b>—Subsec. (a)(10) to (13). Pub. L. 97–369 added par. (10) and redesignated former pars. (10) to (12) as (11) to (13), respectively.
 
-1972—Subsec. (a)(7). Pub. L. 92–310 struck out provisions which empowered the Corporation to require bonds from such officers, attorneys, and employees as the Administrator might designate.
+<b>1972</b>—Subsec. (a)(7). Pub. L. 92–310 struck out provisions which empowered the Corporation to require bonds from such officers, attorneys, and employees as the Administrator might designate.
 
-1957—Subsecs. (a)(10) to (12), (b). Pub. L. 85–108 added pars. (10) to (12) and subsec. (b).
+<b>1957</b>—Subsecs. (a)(10) to (12), (b). Pub. L. 85–108 added pars. (10) to (12) and subsec. (b).
 
 #### Effective Date of 1986 Amendment
 

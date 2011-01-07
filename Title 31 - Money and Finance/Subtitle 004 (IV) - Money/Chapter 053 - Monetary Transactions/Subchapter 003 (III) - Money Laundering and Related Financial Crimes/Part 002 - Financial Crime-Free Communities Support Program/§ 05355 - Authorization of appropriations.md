@@ -18,5 +18,5 @@ There are authorized to be appropriated the following amounts for the following 
 
 #### Amendments
 
-2004—Pub. L. 108–458 in table inserted items specifying amounts authorized for fiscal years 2004 and 2005.
+<b>2004</b>—Pub. L. 108–458 in table inserted items specifying amounts authorized for fiscal years 2004 and 2005.
 

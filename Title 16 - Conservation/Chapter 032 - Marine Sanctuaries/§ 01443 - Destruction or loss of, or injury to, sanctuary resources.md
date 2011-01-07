@@ -40,7 +40,7 @@
 
 #### (c) Civil actions for response costs and damages
 
-(1) The Attorney General, upon request of the Secretary, may commence a civil action against any person or vessel who may be liable under subsection (a) of this section for response costs and damages. The Secretary, acting as trustee for sanctuary resources for the United States, shall submit a request for such an action to the Attorney General whenever a person may be liable for such costs or damages.
+(1) The Attorney General, upon request of the Secretary, may commence a civil action against any person or vessel who may be liable under subsection (a) of this section for response costs and damages. The Secretary, acting as trustee for sanctuary resources for the United States, shall submit a request for such an action to theAttorney General whenever a person may be liable for such costs or damages.
 
 (2) An action under this subsection may be brought in the United States district court for any district in which—
 
@@ -68,7 +68,7 @@ Response costs and damages recovered by the Secretary under this section shall b
 
 &emsp;&emsp;(A) to restore, replace, or acquire the equivalent of the sanctuary resources that were the subject of the action, including for costs of monitoring and the costs of curation and conservation of archeological, historical, and cultural sanctuary resources;
 
-&emsp;&emsp;(B) to restore degraded sanctuary resources of the national marine sanctuary that was the subject of the action, givingpriority to sanctuary resources and habitats that are comparable to the sanctuary resources that were the subject of the action; and
+&emsp;&emsp;(B) to restore degraded sanctuary resources of the national marine sanctuary that was the subject of the action, giving priority to sanctuary resources and habitats that are comparable to the sanctuary resources that were the subject of the action; and
 
 &emsp;&emsp;(C) to restore degraded sanctuary resources of other national marine sanctuaries.
 
@@ -92,7 +92,7 @@ In subsec. (a)(4), “section 30706 of title 46” substituted for “section 3 
 
 #### Amendments
 
-2000—Subsec. (a)(1). Pub. L. 106–513, §19(c), amended par. (1) heading.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–513, §19(c), amended par. (1) heading.
 
 Subsec. (c). Pub. L. 106–513, §13(a), designated existing provisions as par. (1), struck out “in the United States district court for the appropriate district” after “civil action”, and added par. (2).
 
@@ -114,9 +114,9 @@ Restoration, replacement, management, and improvement.—Amounts remaining after
 
 Subsec. (e). Pub. L. 106–513, §13(c), added subsec. (e).
 
-1996—Subsec. (b)(1). Pub. L. 104–283 made technical amendment to directory language of Pub. L. 102–587, §2110(d). See 1992 Amendment note below.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–283 made technical amendment to directory language of Pub. L. 102–587, §2110(d). See 1992 Amendment note below.
 
-1992—Subsec. (a)(1). Pub. L. 102–587, §2110(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–587, §2110(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “
 
 In general.—Subject to paragraph (3), any person who destroys, causes the loss of, or injures any sanctuary resource is liable to the United States for response costs and damages resulting from such destruction, loss, or injury.”
 
@@ -128,7 +128,7 @@ Subsec. (b)(1). Pub. L. 102–587, §2110(d), as amended by Pub. L. 104–283, i
 
 Subsec. (d). Pub. L. 102–587, §2107(d)(1), struck out “and civil penalties under section 1437 of this title” after “Secretary under this section”.
 
-Subsec. (d)(3), (4). Pub. L. 102–587, §§2107(d)(2), 2110(e), redesignated par. (4) as (3), inserted “the court decree or settlement agreement and” after “in accordance with”, and struck out former par. (3) which read as follows: “Amounts recovered under section 1437 of this title in the form of civil penalties shall be used by the Secretary in accordance with section 1437(e) of this title and paragraphs (2)(B) and (C) of this subsection.”
+Subsec. (d)(3), (4). Pub. L. 102–587, §§2107(d)(2), 2110(e), redesignated par. (4) as (3), inserted “the court decree or settlement agreement and” after “in accordance with”, and struck out former par. (3) which read as follows: “Amounts recovered under section 1437 of this title in the form of civil penalties shall be used by theSecretary in accordance with section 1437(e) of this title and paragraphs (2)(B) and (C) of this subsection.”
 
 #### Effective Date
 

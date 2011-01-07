@@ -46,7 +46,7 @@ As used in sections 544 to 544p of this title, the term—
 
 &emsp;&emsp;(2) fish and wildlife habitat;
 
-&emsp;&emsp;(3) lands which support plant species that are endemic to the scenic area or which are listed as rare, threatened or endangered species pursuant to State or Federal Endangered Species Acts;
+&emsp;&emsp;(3) lands which support plant species that are endemic to the scenic area or which arelisted as rare, threatened or endangered species pursuant to State or Federal Endangered Species Acts;
 
 &emsp;&emsp;(4) ecologically and scientifically significant natural areas;
 
@@ -82,7 +82,7 @@ Federal Endangered Species Acts, referred to in subsec. (<i>l</i>)(3), are class
 
 #### Amendments
 
-1994—Subsec. (g). Pub. L. 103–435 substituted “Yakama Indian Nation” for “Yakima Indian Nation”.
+<b>1994</b>—Subsec. (g). Pub. L. 103–435 substituted “Yakama Indian Nation” for “Yakima Indian Nation”.
 
 #### Short Title
 

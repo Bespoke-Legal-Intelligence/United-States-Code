@@ -1,0 +1,62 @@
+### §70108. Foreign port assessment
+
+(a)
+
+In General.—The Secretary shall assess the effectiveness of the antiterrorism measures maintained at—
+
+&emsp;(1) a foreign port—
+
+&emsp;&emsp;(A) served by vessels documented under chapter 121 of this title; or
+
+&emsp;&emsp;(B) from which foreign vessels depart on a voyage to the United States; and
+
+&emsp;(2) any other foreign port the Secretary believes poses a security risk to international maritime commerce.
+
+(b)
+
+Procedures.—In conducting an assessment under subsection (a), the Secretary shall assess the effectiveness of—
+
+&emsp;(1) screening of containerized and other cargo and baggage;
+
+&emsp;(2) security measures to restrict access to cargo, vessels, and dockside property to authorized personnel only;
+
+&emsp;(3) additional security on board vessels;
+
+&emsp;(4) licensing or certification of compliance with appropriate security standards;
+
+&emsp;(5) the security management program of the foreign port; and
+
+&emsp;(6) other appropriate measures to deter terrorism against the United States.
+
+(c)
+
+Consultation.—In carrying out this section, the Secretary shall consult with—
+
+&emsp;(1) the Secretary of Defense and the Secretary of State—
+
+&emsp;&emsp;(A) on the terrorist threat that exists in each country involved; and
+
+&emsp;&emsp;(B) to identify foreign ports that pose a high risk of introducing terrorism to international maritime commerce;
+
+&emsp;(2) appropriate authorities of foreign governments; and
+
+&emsp;(3) operators of vessels.
+
+(d)
+
+Periodic Reassessment.—The Secretary, acting through the Commandant of the Coast Guard, shall reassess the effectiveness of antiterrorism measures maintained at ports as described under subsection (a) and of procedures described in subsection (b) not less than once every 3 years.
+
+(e)
+
+Limitation on Statutory Construction.—The absence of an inspection of a foreign port shall not bar the Secretary from making a finding that a port in a foreign country does not maintain effective antiterrorism measures.
+
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2079; amended Pub. L. 109–347, titleII, §234, Oct. 13, 2006, 120 Stat. 1918; Pub. L. 111–281, title VIII, §806(a)(1), (c)(2)(B), Oct. 15, 2010, 124 Stat. 2992, 2993.)
+
+#### Amendments
+
+<b>2010</b>—Subsec. (c)(2) to (4). Pub. L. 111–281, §806(c)(2)(B), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “the Secretary of the Treasury;”.
+
+Subsec. (e). Pub. L. 111–281, §806(a)(1), added subsec. (e).
+
+<b>2006</b>—Subsec. (d). Pub. L. 109–347 added subsec. (d).
+

@@ -64,23 +64,29 @@ The following sections of this chapter shall apply to States under this subchapt
 
 &emsp;(C) Section 1396a(a)(73) of this title (relating to requiring certain States to seek advice from designees of Indian Health Programs and Urban Indian Organizations).
 
-&emsp;(D) Section 1396a(e)(13) of this title (relating to the State option to rely on findings from an Express Lane agency to help evaluate a child's eligibility for medical assistance).
+&emsp;(D) Subsections (a)(77) and (kk) of section 1396a of this title (relating to provider and supplier screening, oversight, and reporting requirements).
 
-&emsp;(E) Section 1396a(bb) of this title (relating to payment for services provided by Federally-qualified health centers and rural health clinics).
+&emsp;(E) Section 1396a(e)(13) of this title (relating to the State option to rely on findings from an Express Lane agency to help evaluate a child's eligibility for medical assistance).
 
-&emsp;(F) Section 1396a(ff) of this title (relating to disregard of certain property for purposes of making eligibility determinations).
+&emsp;(F) Section 1396a(e)(14) of this title (relating to income determined using modified adjusted gross income and household income).
 
-&emsp;(G) Paragraphs (2), (16), and (17) of section 1396b(i) of this title (relating to limitations on payment).
+&emsp;(G) Section 1396a(bb) of this title (relating to payment for services provided by Federally-qualified health centers and rural health clinics).
 
-&emsp;(H) Paragraph (4) of section 1396b(v) of this title (relating to optional coverage of categories of lawfully residing immigrant children or pregnant women), but only if the State has elected to apply such paragraph with respect to such category of children or pregnant women under subchapter XIX.
+&emsp;(H) Section 1396a(ff) of this title (relating to disregard of certain property for purposes of making eligibility determinations).
 
-&emsp;(I) Section 1396b(w) of this title (relating to limitations on provider taxes and donations).
+&emsp;(I) Paragraphs (2), (16), and (17) of section 1396b(i) of this title (relating to limitations on payment).
 
-&emsp;(J) Section 1396r–1a of this title (relating to presumptive eligibility for children).
+&emsp;(J) Paragraph (4) of section 1396b(v) of this title (relating to optional coverage of categories of lawfully residing immigrant children or pregnant women), but only if the State has elected to apply such paragraph with respect to such category of children or pregnant women under subchapter XIX.
 
-&emsp;(K) Subsections (a)(2)(C) and (h) of section 1396u–2 of this title.
+&emsp;(K) Section 1396b(w) of this title (relating to limitations on provider taxes and donations).
 
-&emsp;(L) Section 1396w–2 of this title (relating to authorization to receive data directly relevant to eligibility determinations).
+&emsp;(L) Section 1396r–1a of this title (relating to presumptive eligibility for children).
+
+&emsp;(M) Subsections (a)(2)(C) and (h) of section 1396u–2 of this title.
+
+&emsp;(N) Section 1396w–2 of this title (relating to authorization to receive data directly relevant to eligibility determinations).
+
+&emsp;(O) Section 1396w–3(b) of this title (relating to coordination with State Exchanges and the State Medicaid agency).
 
 #### (2) Subchapter XI provisions
 
@@ -106,7 +112,7 @@ Notwithstanding subsection (e)(2)(A) and section 1315(a) of this title:
 
 &emsp;(2) The Secretary may not approve, extend, renew, or amend a waiver, experimental, pilot, or demonstration project with respect to a State after February 4, 2009, that would waive or modify the requirements of section 1397kk of this title.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2107, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 565; amended Pub. L. 106–554, §1(a)(6) \[title VIII, §803\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 109–171, title VI, §6102(a), Feb. 8, 2006, 120 Stat. 131; Pub. L. 111–3, title I, §112(a)(2)(A), title II, §§203(a)(2), (d)(2), 214(b), title V, §§501(d)(2), 503(a)(1), Feb. 4, 2009, 123 Stat. 33, 46, 49, 57, 87, 89; Pub. L. 111–5, div. B, title V, §5006(b)(2), (d)(2), (e)(2)(B), Feb. 17, 2009, 123 Stat. 506, 510.)
+(Aug. 14, 1935, ch. 531, title XXI, §2107, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 565; amended Pub. L. 106–554, §1(a)(6) \[title VIII, §803\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 109–171, title VI, §6102(a), Feb. 8, 2006, 120 Stat. 131; Pub. L. 111–3, title I, §112(a)(2)(A), title II, §§203(a)(2), (d)(2), 214(b), title V, §§501(d)(2), 503(a)(1), Feb. 4, 2009, 123 Stat. 33, 46, 49, 57, 87, 89; Pub. L. 111–5, div. B, title V, §5006(b)(2), (d)(2), (e)(2)(B), Feb. 17, 2009, 123 Stat. 506, 510; Pub. L. 111–148, title II, §2101(d)(2), (e), title VI, §6401(c), Mar. 23, 2010, 124 Stat. 287, 753; Pub. L. 111–152, title I, §1004(b)(2)(B), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 111–309, title II, §205(f)(2), Dec. 15, 2010, 124 Stat. 3291.)
 
 #### Codification
 
@@ -114,7 +120,33 @@ Amendment by section 501(d)(2) of Pub. L. 111–3 executed after amendment by se
 
 #### Amendments
 
-2009—Subsec. (e)(1). Pub. L. 111–5, §5006(e)(2)(B)(ii), rearranged subpars. into alphabetical order.
+<b>2010</b>—Subsec. (e)(1)(D). Pub. L. 111–309, §205(f)(2)(A), substituted “(kk)” for “(ii)”.
+
+Pub. L. 111–148, §6401(c)(2), added subpar. (D). Former subpar. (D) redesignated (E).
+
+Subsec. (e)(1)(E). Pub. L. 111–148, §6401(c)(1), redesignated subpar. (D) as (E). Former subpar. (E) redesignated (F).
+
+Pub. L. 111–148, §2101(d)(2)(B), added subpar. (E). Former subpar. (E) redesignated (F).
+
+Subsec. (e)(1)(F). Pub. L. 111–152, which directed the substitution of “modified adjusted gross income” for “modified gross income” in subpar. (E), as added by section 2101(d)(2) of Pub. L. 111–148, was executed to subpar. (F) to reflect the probable intent of Congress and the redesignation of subpar. (E) as (F) by Pub. L. 111–148, §6401(c)(1). See below.
+
+Pub. L. 111–148, §6401(c)(1), redesignated subpar. (E) as (F). Former subpar. (F) redesignated (G).
+
+Pub. L. 111–148, §2101(d)(2)(A), redesignated subpar. (E) as (F). Former subpar. (F) redesignated (G).
+
+Subsec. (e)(1)(G) to (M). Pub. L. 111–148, §6401(c)(1), redesignated subpars. (F) to (L) as (G) to (M), respectively. Former subpar. (M) redesignated (N).
+
+Pub. L. 111–148, §2101(d)(2)(A), redesignated subpars. (F) to (L) as (G) to (M), respectively.
+
+Subsec. (e)(1)(N). Pub. L. 111–309 redesignated subpar. (N) relating to section 1396w–3 of this title as (O).
+
+Pub. L. 111–148, §6401(c)(1), redesignated subpar. (M), relating to section 1396w–2 of this title, as (N).
+
+Pub. L. 111–148, §2101(e), added subpar. (N) relating to section 1396w–3(b) of this title.
+
+Subsec. (e)(1)(O). Pub. L. 111–309 redesignated subpar. (N) relating to section 1396w–3 of this title as (O).
+
+<b>2009</b>—Subsec. (e)(1). Pub. L. 111–5, §5006(e)(2)(B)(ii), rearranged subpars. into alphabetical order.
 
 Subsec. (e)(1)(B). Pub. L. 111–5, §5006(e)(2)(B)(i), redesignated subpar. (D) as (B). Former subpar. (B) redesignated (D).
 
@@ -200,9 +232,9 @@ Subsec. (f)(1). Pub. L. 111–3, §112(a)(2)(A)(ii), (iii), inserted “or a par
 
 Subsec. (f)(2). Pub. L. 111–3, §112(a)(2)(A)(iv), added par. (2).
 
-2006—Subsec. (f). Pub. L. 109–171 added subsec. (f).
+<b>2006</b>—Subsec. (f). Pub. L. 109–171 added subsec. (f).
 
-2000—Subsec. (e)(1)(D). Pub. L. 106–554 added subpar. (D).
+<b>2000</b>—Subsec. (e)(1)(D). Pub. L. 106–554 added subpar. (D).
 
 #### Effective Date of 2009 Amendment
 

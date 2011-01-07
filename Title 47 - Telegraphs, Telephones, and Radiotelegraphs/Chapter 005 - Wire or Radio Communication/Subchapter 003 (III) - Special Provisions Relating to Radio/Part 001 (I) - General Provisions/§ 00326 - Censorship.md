@@ -6,7 +6,7 @@ Nothing in this chapter shall be understood or construed to give the Commission 
 
 #### Amendments
 
-1948—Act June 25, 1948, repealed last sentence relating to use of indecent language. See section 1464 of Title 18, Crimes and Criminal Procedure.
+<b>1948</b>—Act June 25, 1948, repealed last sentence relating to use of indecent language. See section 1464 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 1948 Amendment
 

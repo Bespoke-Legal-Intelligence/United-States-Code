@@ -96,7 +96,7 @@ In carrying out this section, the Secretary shall develop—
 
 #### (2) Cooperative educational activities
 
-&emsp;In disseminating findings and guidelines under paragraph (1), and in providing for education under such paragraph, the Secretary shall work with professional associations,medical specialty and subspecialty organizations, and other relevant groups to identify and implement effective means to educate physicians, other providers, consumers, and others in using such findings and guidelines, including training for physician managers within provider organizations.
+&emsp;In disseminating findings and guidelines under paragraph (1), and in providing for education under such paragraph, the Secretary shall work with professional associations, medical specialty and subspecialty organizations, and other relevant groups to identify and implement effective means to educate physicians, other providers, consumers, and others in using such findings and guidelines, including training for physician managers within provider organizations.
 
 #### (f) Evaluations
 
@@ -160,9 +160,9 @@ Another section 1142 of act Aug. 14, 1935, was renumbered section 1143 by Pub. L
 
 #### Amendments
 
-2003—Subsec. (b)(3). Pub. L. 108–173, §900(e)(1)(C), substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
+<b>2003</b>—Subsec. (b)(3). Pub. L. 108–173, §900(e)(1)(C), substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
 
-1999—Subsec. (a)(1). Pub. L. 106–129 substituted “Director of the Agency for Healthcare Research and Quality” for “Administrator for Health Care Policy and Research” in introductory provisions.
+<b>1999</b>—Subsec. (a)(1). Pub. L. 106–129 substituted “Director of the Agency for Healthcare Research and Quality” for “Administrator for Health Care Policy and Research” in introductory provisions.
 
 #### AHCPR Study on Effect of Credentialing of Technologists and Sonographers on Quality of Ultrasound
 

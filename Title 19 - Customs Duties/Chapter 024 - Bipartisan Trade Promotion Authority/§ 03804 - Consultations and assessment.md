@@ -48,7 +48,7 @@ The President, with respect to any agreement that is subject to the provisions o
 
 #### (c) Negotiations regarding textiles
 
-Before initiating or continuing negotiations the subject matter of which is directly relatedto textiles and apparel products with any country, the President shall assess whether United States tariffs on textile and apparel products that were bound under the Uruguay Round Agreements are lower than the tariffs bound by that country and whether the negotiation provides an opportunity to address any such disparity. The President shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate concerning the results of the assessment, whether it is appropriate for the United States to agree to further tariff reductions based on the conclusions reached in the assessment, and how all applicable negotiating objectives will be met.
+Before initiating or continuing negotiations the subject matter of which is directly related to textiles and apparel products with any country, the President shall assess whether United States tariffs on textile and apparel products that were bound under the Uruguay Round Agreements are lower than the tariffs bound by that country and whether the negotiation provides an opportunity to address any such disparity. The President shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate concerning the results of the assessment, whether it is appropriate for the United States to agree to further tariff reductions based on the conclusions reached in the assessment, and how all applicable negotiating objectives will be met.
 
 #### (d) Consultation with Congress before agreements entered into
 
@@ -90,7 +90,7 @@ Before initiating or continuing negotiations the subject matter of which is dire
 
 &emsp;&emsp;(i) At any time after the transmission of the report under subparagraph (A), if a resolution is introduced with respect to that report in either House of Congress, the procedures set forth in clauses (iii) through (vi) shall apply to that resolution if—
 
-&emsp;&emsp;&emsp;(I) no other resolution with respect to that report has previously been reported in that House of Congress by the Committee on Ways and Means or the Committee on Finance, as the case may be, pursuant to those procedures; and
+&emsp;&emsp;&emsp;(I) no other resolution with respect to that report has previously been reported in that House of Congress by the Committeeon Ways and Means or the Committee on Finance, as the case may be, pursuant to those procedures; and
 
 &emsp;&emsp;&emsp;(II) no procedural disapproval resolution under section 3805(b) of this title introduced with respect to a trade agreement entered into pursuant to the negotiations to which the report under subparagraph (A) relates has previously been reported in that House of Congress by the Committee on Ways and Means or the Committee on Finance, as the case may be.
 

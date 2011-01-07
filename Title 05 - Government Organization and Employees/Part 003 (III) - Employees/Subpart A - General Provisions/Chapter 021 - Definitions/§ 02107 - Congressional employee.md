@@ -8,7 +8,7 @@ For the purpose of this title, “Congressional employee” means—
 
 &emsp;(3) the Legislative Counsel of either House and an employee of his office;
 
-&emsp;(4) a member of the Capitol Police;
+&emsp;(4) a member or employee of the Capitol Police;
 
 &emsp;(5) an employee of a Member of Congress if the pay of the employee is paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives;
 
@@ -20,7 +20,7 @@ For the purpose of this title, “Congressional employee” means—
 
 &emsp;(9) an employee of the Office of Congressional Accessibility Services.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–83, §1(5), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–510, title IV, §442(a), Oct. 26, 1970, 84 Stat. 1191; Pub. L. 104–186, title II, §215(1), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 110–437, title IV, §422(c), Oct. 20, 2008, 122 Stat. 4997.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–83, §1(5), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–510, title IV, §442(a), Oct. 26, 1970, 84 Stat. 1191; Pub. L. 104–186, title II, §215(1), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 110–437, title IV, §422(c), Oct. 20, 2008, 122 Stat. 4997; Pub. L. 111–145, §7(a), Mar. 4, 2010, 124 Stat. 55.)
 
 #### Historical and Revision Notes
 
@@ -56,11 +56,17 @@ In paragraph (8), based on the act of September 26, 1966 (5 App. U.S.C. 2251(c))
 
 #### Amendments
 
+2010—Par. (4). Pub. L. 111–145, inserted “or employee” after “member”.
+
 2008—Par. (9). Pub. L. 110–437 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “an employee of the Capitol Guide Service.”
 
 1996—Par. (5). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
 1970—Par. (9). Pub. L. 91—510 added par. (9).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–145, §7(d), Mar. 4, 2010, 124 Stat. 56, provided that: “The amendments made by this section \[amending this section and sections 5515, 5531, 5533, and 5537 of this title\] shall take effect as though enacted as part of section 1018 of the Legislative Branch Appropriations Act, 2003 (2 U.S.C. 1907).”
 
 #### Effective Date of 2008 Amendment
 

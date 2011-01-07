@@ -48,7 +48,7 @@ A prior section 13 of Pub. L. 85–874 was renumbered section 14 and is classifi
 
 #### Amendments
 
-2008—Subsecs. (a), (b). Pub. L. 110–338, §4(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
+<b>2008</b>—Subsecs. (a), (b). Pub. L. 110–338, §4(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
 “(a) Maintenance, repair, and security.—There are authorized to be appropriated to the Board to carry out section 76j(a)(1)(H) of this title—
 
@@ -68,11 +68,11 @@ A prior section 13 of Pub. L. 85–874 was renumbered section 14 and is classifi
 
 Subsecs. (d), (e). Pub. L. 110–338, §4(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-2006—Subsec. (a). Pub. L. 109–306, §1(a), struck out “and” at end of par. (1), substituted “and 2006; and” for “, 2006, and 2007.” in par. (2), and added par. (3).
+<b>2006</b>—Subsec. (a). Pub. L. 109–306, §1(a), struck out “and” at end of par. (1), substituted “and 2006; and” for “, 2006, and 2007.” in par. (2), and added par. (3).
 
 Subsec. (b). Pub. L. 109–306, §1(b), struck out “and” at end of par. (1), substituted “and 2006; and” for “, 2006, and 2007.” in par. (2), and added par. (3).
 
-2004—Subsecs. (a), (b). Pub. L. 108–410 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
+<b>2004</b>—Subsecs. (a), (b). Pub. L. 108–410 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
 “(a)
 
@@ -94,9 +94,9 @@ Capital Projects.—There are authorized to be appropriated to the Board to carr
 
 &emsp;“(3) $17,000,000 for fiscal year 2003.”
 
-2002—Subsecs. (c), (d). Pub. L. 107–224, §3, added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>2002</b>—Subsecs. (c), (d). Pub. L. 107–224, §3, added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1998—Subsecs. (a), (b). Pub. L. 105–226 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
+<b>1998</b>—Subsecs. (a), (b). Pub. L. 105–226 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
 “(a)
 

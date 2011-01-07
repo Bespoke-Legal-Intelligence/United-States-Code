@@ -1,6 +1,6 @@
 ### §1007. Deductions from pay
 
-(a) The pay of an officer of an armed force may be withheld, under section 5512 of title 5, only for an indebtedness to the United States admitted by the officer or shown by the judgment of a court, or upon a special order issued in the discretion of the Secretary of Defense (or the Secretary of Homeland Security, in the case of anofficer of the Coast Guard when the Coast Guard is not operating as a service in the Navy), or upon the denial of relief of an officer pursuant to section 3527 of title 31.
+(a) The pay of an officer of an armed force may be withheld, under section 5512 of title 5, only for an indebtedness to the United States admitted by the officer or shown by the judgment of a court, or upon a special order issued in the discretion of the Secretary of Defense (or the Secretary of Homeland Security, in the case of an officer of the Coast Guard when the Coast Guard is not operating as a service in the Navy), or upon the denial of relief of an officer pursuant to section 3527 of title 31.
 
 (b) An amount due to the United States from an enlisted member of the Army or the Air Force for articles sold to him on credit under section 4621(a)(1) or 9621(a)(1) of title 10, as the case may be, shall be deducted from the next pay due him after the sale is reported.
 
@@ -44,13 +44,11 @@
 
 (2) Amounts deducted under paragraph (1) shall be deposited in the Armed Forces Retirement Home Trust Fund.
 
-(3) The Secretary of Defense, after consultation with the Armed Forces Retirement Home Board, shall determine from time to time the amount to be deducted under paragraph (1) from the pay of enlisted members, warrant officers,and limited duty officers on the basis of the financial needs of the Armed Forces Retirement Home. The amount to be deducted may be fixed at different amounts on the basis of grade or length of service, or both.
+(3) The Secretary of Defense or, in the case of the Coast Guard, the Commandant, after consultation with the Armed Forces Retirement Home Board, shall determine from time to time the amount to be deducted under paragraph (1) from the pay of enlisted members, warrant officers, and limited duty officers on the basis of the financial needs of the Armed Forces Retirement Home. The amount to be deducted may be fixed at different amounts on the basis of grade or length of service, or both.
 
-(4) In this subsection, the term “armed forces” does not include the Coast Guard when it is not operating as a service in the Navy.
+(4) This subsection does not apply to an enlisted member, warrant officer, or limited duty officer of a reserve component.
 
-(5) This subsection does not apply to an enlisted member, warrant officer, or limited duty officer of a reserve component.
-
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 491; Pub. L. 89–718, §§71, 72, Nov. 2, 1966, 80 Stat. 1124; Pub. L. 90–83, §5(3), Sept. 11, 1967, 81 Stat. 221; Pub. L. 98–525, title XIII, §1305, Oct. 19, 1984, 98 Stat. 2613; Pub. L. 99–145, title VI, §684, Nov. 8, 1985, 99 Stat. 666; Pub. L. 100–180, div. A, title VI, §633(a), Dec. 4, 1987, 101 Stat. 1105; Pub. L. 101–189, div. A, title III, §343(a), Nov. 29, 1989, 103 Stat. 1420; Pub. L. 101–510, div. A, title XV, §1533(b), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title X, §1054(a)(7), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 103–337, div. A, title III, §371(a), Oct. 5, 1994, 108 Stat. 2735; Pub. L. 104–106, div. A, title IX, §913(c)(2), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–201, div. A, title X, §1009(c)(1), Sept. 23, 1996, 110 Stat. 2635; Pub. L. 106–65, div. A, title X, §1066(d)(5), Oct. 5, 1999, 113 Stat. 773; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title X, §1006(b), Dec. 2, 2002, 116 Stat. 2633; Pub. L. 109–364, div. A, title VI, §674, Oct. 17, 2006, 120 Stat. 2272; Pub. L. 111–84, div. A, title VI, §661(a)–(c), Oct. 28, 2009, 123 Stat. 2370.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 491; Pub. L. 89–718, §§71, 72, Nov. 2, 1966, 80 Stat. 1124; Pub. L. 90–83, §5(3), Sept. 11, 1967, 81 Stat. 221; Pub. L. 98–525, title XIII, §1305, Oct. 19, 1984, 98 Stat. 2613; Pub. L. 99–145, title VI, §684, Nov. 8, 1985, 99 Stat. 666; Pub. L. 100–180, div. A, title VI, §633(a), Dec. 4, 1987, 101 Stat. 1105; Pub. L. 101–189, div. A, title III, §343(a), Nov. 29, 1989, 103 Stat. 1420; Pub. L. 101–510, div. A, title XV, §1533(b), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title X, §1054(a)(7), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 103–337, div. A, title III, §371(a), Oct. 5, 1994, 108 Stat. 2735; Pub. L. 104–106, div. A, title IX, §913(c)(2), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–201, div. A, title X, §1009(c)(1), Sept. 23, 1996, 110 Stat. 2635; Pub. L. 106–65, div. A, title X, §1066(d)(5), Oct. 5, 1999, 113 Stat. 773; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title X, §1006(b), Dec. 2, 2002, 116 Stat. 2633; Pub. L. 109–364, div. A, title VI, §674, Oct. 17, 2006, 120 Stat. 2272; Pub. L. 111–84, div. A, title VI, §661(a)–(c), Oct. 28, 2009, 123 Stat. 2370; Pub. L. 111–281, title II, §205(b)(2), Oct. 15, 2010, 124 Stat. 2911.)
 
 Historical and Revision Notes
 
@@ -150,7 +148,11 @@ Provisions similar to those in subsec. (i) of this section were contained in sec
 
 #### Amendments
 
-2009—Subsec. (c)(3). Pub. L. 111–84, §661(a), (b), designated existing provisions as subpar. (A), substituted “15 percent” for “20 percent”, and added subpar. (B).
+<b>2010</b>—Subsec. (i)(3). Pub. L. 111–281, §205(b)(2)(A), inserted “or, in the case of the Coast Guard, the Commandant” after “Secretary of Defense”.
+
+Subsec. (i)(4), (5). Pub. L. 111–281, §205(b)(2)(B), (C), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “In this subsection, the term ‘armed forces’ does not include the Coast Guard when it is not operating as a service in the Navy.”
+
+<b>2009</b>—Subsec. (c)(3). Pub. L. 111–84, §661(a), (b), designated existing provisions as subpar. (A), substituted “15 percent” for “20 percent”, and added subpar. (B).
 
 Subsec. (c)(4). Pub. L. 111–84, §661(c), amended par. (4) generally. Prior to amendment, text read as follows: “If a member of the uniformed services is injured or wounded under the circumstances described in section 310(a)(2)(C) of this title or, while in the line of duty, incurs a wound, injury, or illness in a combat operation or combat zone designated by the Secretary of Defense, any overpayment of pay or allowances made to the member while the member recovers from the wound, injury, or illness may not be deducted from the member's pay until—
 
@@ -158,25 +160,25 @@ Subsec. (c)(4). Pub. L. 111–84, §661(c), amended par. (4) generally. Prior to
 
 &emsp;“(B) such earlier date as may be requested or agreed to by the member.”
 
-2006—Subsec. (c). Pub. L. 109–364 designated existing provisions as pars. (1) and (2), in pars. (1) and (2) substituted “the member's pay” for “his pay”, in par. (2) substituted “After” for “However, after” and inserted “by a member of the uniformed services” after “actually received”, and added pars. (3) and (4).
+<b>2006</b>—Subsec. (c). Pub. L. 109–364 designated existing provisions as pars. (1) and (2), in pars. (1) and (2) substituted “the member's pay” for “his pay”, in par. (2) substituted “After” for “However, after” and inserted “by a member of the uniformed services” after “actually received”, and added pars. (3) and (4).
 
-2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 Subsec. (e). Pub. L. 107–314 substituted “Army, Navy, Air Force, or Marine Corps” for “Army or the Air Force”.
 
-1999—Subsec. (b). Pub. L. 106–65 struck out at end “An amount due the United States from an enlisted member of the Army or the Air Force for tobacco sold to him by the United States under section 4623 or 9623 of title 10 shall be deducted from his pay in the manner provided for the settlement of clothing accounts.”
+<b>1999</b>—Subsec. (b). Pub. L. 106–65 struck out at end “An amount due the United States from an enlisted member of the Army or the Air Force for tobacco sold to him by the United States under section 4623 or 9623 of title 10 shall be deducted from his pay in the manner provided for the settlement of clothing accounts.”
 
-1996—Subsec. (a). Pub. L. 104–201 inserted “(or the Secretary of Transportation, in the case of an officer of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “Secretary of Defense”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201 inserted “(or the Secretary of Transportation, in the case of an officer of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “Secretary of Defense”.
 
 Pub. L. 104–106 substituted “Secretary of Defense, or upon the denial of relief of an officer pursuant to section 3527 of title 31” for “Secretary concerned”.
 
-1994—Subsec. (i)(1). Pub. L. 103–337 substituted “$1.00” for “50 cents”.
+<b>1994</b>—Subsec. (i)(1). Pub. L. 103–337 substituted “$1.00” for “50 cents”.
 
-1992—Subsec. (i)(3). Pub. L. 102–484 substituted “, warrant officers, and limited duty officers” for “and warrant officers”.
+<b>1992</b>—Subsec. (i)(3). Pub. L. 102–484 substituted “, warrant officers, and limited duty officers” for “and warrant officers”.
 
-1991—Subsec. (d). Pub. L. 102–25 struck out “of this section” after “subsection (c)”.
+<b>1991</b>—Subsec. (d). Pub. L. 102–25 struck out “of this section” after “subsection (c)”.
 
-1990—Subsec. (i)(1). Pub. L. 101–510, §1533(b)(1), substituted “, warrant officer, and limited duty officer” for “and warrant officer”.
+<b>1990</b>—Subsec. (i)(1). Pub. L. 101–510, §1533(b)(1), substituted “, warrant officer, and limited duty officer” for “and warrant officer”.
 
 Subsec. (i)(2). Pub. L. 101–510, §1533(b)(2), added par. (2) and struck out former par. (2) which read as follows: “Amounts deducted under paragraph (1) shall be—
 
@@ -192,17 +194,17 @@ Pub. L. 101–510, §1533(b)(1), which directed amendment of par. (3) by substit
 
 Subsec. (i)(5). Pub. L. 101–510, §1533(b)(4), substituted “, warrant officer, or limited duty officer” for “or warrant officer”.
 
-1989—Subsec. (i). Pub. L. 101–189 added subsec. (i).
+<b>1989</b>—Subsec. (i). Pub. L. 101–189 added subsec. (i).
 
-1987—Subsec. (h). Pub. L. 100–180 added subsec. (h).
+<b>1987</b>—Subsec. (h). Pub. L. 100–180 added subsec. (h).
 
-1985—Subsec. (c). Pub. L. 99–145 substituted “uniformed services” for “armed forces”.
+<b>1985</b>—Subsec. (c). Pub. L. 99–145 substituted “uniformed services” for “armed forces”.
 
-1984—Subsec. (c). Pub. L. 98–525 substituted “a member of the armed forces” for “an enlisted member of the Army or the Air Force”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–525 substituted “a member of the armed forces” for “an enlisted member of the Army or the Air Force”.
 
-1967—Subsec. (b). Pub. L. 90–83 struck out requirement that, in case of a member of the Army, the report be made to Chief of Finance.
+<b>1967</b>—Subsec. (b). Pub. L. 90–83 struck out requirement that, in case of a member of the Army, the report be made to Chief of Finance.
 
-1966—Subsec. (a). Pub. L. 89–718, §71, substituted “section 5512 of title 5” for “section 82 of title 5”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–718, §71, substituted “section 5512 of title 5” for “section 82 of title 5”.
 
 Subsec. (c). Pub. L. 89–718, §72, substituted “pay” for “basic pay” as the amount which cannot be reduced below one-third through deductions from enlisted men of the Army or Air Force who have been administratively determined to owe the United States, payable by deductions in monthly installments.
 
@@ -238,5 +240,5 @@ Section 633(b) of Pub. L. 100–180 provided that: “Subsection (h) of section 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 

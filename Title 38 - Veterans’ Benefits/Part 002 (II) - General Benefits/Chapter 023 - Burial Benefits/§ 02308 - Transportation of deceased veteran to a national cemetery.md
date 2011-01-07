@@ -6,9 +6,9 @@ Where a veteran dies as the result of a service-connected disability, or is in r
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 908 of this title as this section and substituted “2302 or 2307” for “902 or 907”.
+<b>1991</b>—Pub. L. 102–83 renumbered section 908 of this title as this section and substituted “2302 or 2307” for “902 or 907”.
 
-1989—Pub. L. 101–237 substituted “Secretary” for “Administrator”.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” for “Administrator”.
 
 #### Effective Date
 

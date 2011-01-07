@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1958—Subsec. (b). Pub. L. 85–604 provided that it shall not be construed so as to exclude from eligibility a claim based upon a direct ownership interest in a corporation, association, or other entity, or the property thereof, for loss by reason of the nationalization, compulsory liquidation, or other taking, and permitted allowance of such claim without regard to the per centum of ownership vested in the claimant.
+<b>1958</b>—Subsec. (b). Pub. L. 85–604 provided that it shall not be construed so as to exclude from eligibility a claim based upon a direct ownership interest in a corporation, association, or other entity, or the property thereof, for loss by reason of the nationalization, compulsory liquidation, or other taking, and permitted allowance of such claim without regard to the per centum of ownership vested in the claimant.
 
 #### Reconsideration of Claims
 

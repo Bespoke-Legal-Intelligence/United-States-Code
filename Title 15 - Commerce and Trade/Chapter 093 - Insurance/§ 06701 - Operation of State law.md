@@ -40,7 +40,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 #### (A) In general
 
-&emsp;&emsp;In accordance with the legal standards for preemption set forth in the decision of the Supreme Court of the United States inBarnett Bank of Marion County N.A. v. Nelson, 517 U.S. 25 (1996), no State may, by statute, regulation, order, interpretation, or other action, prevent or significantly interfere with the ability of a depository institution, or an affiliate thereof, to engage, directly or indirectly, either by itself or in conjunction with an affiliate or any other person, in any insurance sales, solicitation, or crossmarketing activity.
+&emsp;&emsp;In accordance with the legal standards for preemption set forth in the decision of the Supreme Court of the United States in Barnett Bank of Marion County N.A. v. Nelson, 517 U.S. 25 (1996), no State may, by statute, regulation, order, interpretation, or other action, prevent or significantly interfere with the ability of a depository institution, or an affiliate thereof, to engage, directly or indirectly, either by itself or in conjunction with an affiliate or any other person, in any insurance sales, solicitation, or crossmarketing activity.
 
 #### (B) Certain State laws preserved
 
@@ -74,7 +74,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;&emsp;(II) from informing a customer or prospective customer that insurance is required in order to obtain a loan or credit, that loan or credit approval is contingent upon the procurement by the customer of acceptable insurance, or that insurance is available from the depository institution or an affiliate of the depository institution.
 
-&emsp;&emsp;&emsp;(ix) Restrictions requiring, when an application by a consumer for a loan or other extension of credit from a depository institution is pending, and insurance is offered or sold to the consumer or is required inconnection with the loan or extension of credit by the depository institution or any affiliate thereof, that a written disclosure be provided to the consumer or prospective customer indicating that the customer's choice of an insurance provider will not affect the credit decision or credit terms in any way, except that the depository institution may impose reasonable requirements concerning the creditworthiness of the insurer and scope of coverage chosen.
+&emsp;&emsp;&emsp;(ix) Restrictions requiring, when an application by a consumer for a loan or other extension of credit from a depository institution is pending, and insurance is offered or sold to the consumer or is required in connection with the loan or extension of credit by the depository institution or any affiliate thereof, that a written disclosure be provided to the consumer or prospective customer indicating that the customer's choice of an insurance provider will not affect the credit decision or credit terms in any way, except that the depository institution may impose reasonable requirements concerning the creditworthiness of the insurer and scope of coverage chosen.
 
 &emsp;&emsp;&emsp;(x) Restrictions requiring clear and conspicuous disclosure, in writing, where practicable, to the customer prior to the sale of any insurance policy that such policy—
 
@@ -200,7 +200,7 @@ For purposes of this section, the following definitions shall apply:
 
 The McCarran-Ferguson Act, referred to in subsecs. (a) and (d)(3)(A), is act Mar. 9, 1945, ch. 20, 59 Stat. 33, which is classified generally to chapter 20 (§1011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1011 of this title and Tables.
 
-This Act, referred to in subsecs. (c)(1), (d)(1), (4)(D)(iii), (iv), (e), and (f)(2), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-BlileyAct. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
+This Act, referred to in subsecs. (c)(1), (d)(1), (4)(D)(iii), (iv), (e), and (f)(2), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
 Section 106 of the Bank Holding Company Act Amendments of 1970, referred to in subsec. (d)(2)(B)(viii)(I), is Pub. L. 91–607, title I, §106, Dec. 31, 1970, 84 Stat. 1766, as amended, which is classified generally to chapter 22 (§1971 et seq.) of Title 12, Banks and Banking.
 
@@ -630,7 +630,7 @@ Recoupment of federal share.—
 
 &emsp;&emsp;“(A)
 
-Mandatory recoupment amount.—For purposes of this paragraph, the mandatory recoupment amount for each of the periods referred to in subparagraphs (A) through (E) of paragraph (6) shall be the difference between—
+Mandatory recoupment amount.—For purposes of this paragraph, the mandatory recoupmentamount for each of the periods referred to in subparagraphs (A) through (E) of paragraph (6) shall be the difference between—
 
 &emsp;&emsp;&emsp;“(i) the insurance marketplace aggregate retention amount under paragraph (6) for such period; and
 
@@ -734,7 +734,7 @@ Reinsurance to Cover Exposure.—
 
 &emsp;“(1)
 
-Obtaining coverage.—This title may not be construed to limit or prevent insurers from obtaining reinsurance coverage for insurer deductibles or insured losses retained by insurers pursuant to this section, nor shall the obtaining of such coverage affect the calculation of such deductibles or retentions.
+Obtaining coverage.—This title may not be construed to limit or prevent insurers from obtainingreinsurance coverage for insurer deductibles or insured losses retained by insurers pursuant to this section, nor shall the obtaining of such coverage affect the calculation of such deductibles or retentions.
 
 &emsp;“(2)
 
@@ -806,7 +806,7 @@ Civil Penalties.—
 
 In general.—The Secretary may assess a civil monetary penalty in an amount not exceeding the amount under paragraph (2) against any insurer that the Secretary determines, on the record after opportunity for a hearing—
 
-&emsp;&emsp;“(A) has failed to charge, collect, or remit terrorism loss risk-spreading premiums under section103(e) in accordance with the requirements of, or regulations issued under, this title;
+&emsp;&emsp;“(A) has failed to charge, collect, or remit terrorism loss risk-spreading premiums under section 103(e) in accordance with the requirements of, or regulations issued under, this title;
 
 &emsp;&emsp;“(B) has intentionally provided to the Secretary erroneous information regarding premium or loss amounts;
 

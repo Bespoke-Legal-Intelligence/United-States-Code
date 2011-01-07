@@ -28,7 +28,7 @@ The Congress finds that—
 
 #### (b) Purpose
 
-The purpose of this chapter is to assist in the conservation of marine turtles and the nesting habitats of marine turtles in foreign countries by supporting and providing financial resources for projects to conserve the nesting habitats, conserve marine turtles in those habitats, and address other threats to the survival of marine turtles.
+The purpose of this chapter is to assist in the conservation of marine turtles and the nestinghabitats of marine turtles in foreign countries by supporting and providing financial resources for projects to conserve the nesting habitats, conserve marine turtles in those habitats, and address other threats to the survival of marine turtles.
 
 (Pub. L. 108–266, §2, July 2, 2004, 118 Stat. 791.)
 

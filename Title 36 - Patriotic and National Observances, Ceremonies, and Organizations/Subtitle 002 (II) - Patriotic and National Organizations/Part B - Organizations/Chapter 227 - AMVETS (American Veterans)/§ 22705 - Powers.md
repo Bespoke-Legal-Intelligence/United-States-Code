@@ -26,7 +26,7 @@ General.—The corporation may—
 
 (b)
 
-Powers Granted to Other Organizations.—The provisions, privileges, and prerogatives granted before July 24, 1947, to other national veterans’ organizations because of theirincorporation by Congress are granted to the corporation.
+Powers Granted to Other Organizations.—The provisions, privileges, and prerogatives granted before July 24, 1947, to other national veterans’ organizations because of their incorporation by Congress are granted to the corporation.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1307.)
 
@@ -40,7 +40,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-22705(a)D36:67c (less perpetual succession).DJuly 23, 1947, ch. 298, §§4 (less perpetual succession), 8, 10(2)–(5), 61 Stat. 406, 407.
+22705(a)
+
+36:67c (less perpetual succession).
+
+July 23, 1947, ch. 298, §§4 (less perpetual succession), 8, 10(2)–(5), 61 Stat. 406, 407.
 
 &nbsp;
 

@@ -20,5 +20,5 @@ It is the purpose of the Congress in this chapter to reduce the risks of life an
 
 #### Amendments
 
-1990—Pub. L. 101–614 inserted sentence at end, listing objectives of program.
+<b>1990</b>—Pub. L. 101–614 inserted sentence at end, listing objectives of program.
 

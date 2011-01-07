@@ -28,7 +28,7 @@ The compensation provided under this section, when authorized or approved by the
 
 &emsp;(A) If the covered employee is survived by a spouse who is living at the time of payment, such payment shall be made to such surviving spouse.
 
-&emsp;(B) If there is no surviving spouse described in subparagraph (A), such payment shall bemade in equal shares to all children of the covered employee who are living at the time of payment.
+&emsp;(B) If there is no surviving spouse described in subparagraph (A), such payment shall be made in equal shares to all children of the covered employee who are living at the time of payment.
 
 &emsp;(C) If there is no surviving spouse described in subparagraph (A) and if there are no children described in subparagraph (B), such payment shall be made in equal shares to the parents of the covered employee who are living at the time of payment.
 
@@ -66,7 +66,7 @@ This section shall take effect on July 31, 2001, unless Congress otherwise provi
 
 #### Amendments
 
-2001—Subsec. (e). Pub. L. 107–107 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows:
+<b>2001</b>—Subsec. (e). Pub. L. 107–107 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows:
 
 “(1) Subject to the provisions of this section, if a covered employee dies before the effective date specified in subsection (f) of this section, whether or not the death is a result of that employee's occupational illness, a survivor of that employee may, on behalf of that survivor and any other survivors of that employee, receive the compensation provided for under this section.
 

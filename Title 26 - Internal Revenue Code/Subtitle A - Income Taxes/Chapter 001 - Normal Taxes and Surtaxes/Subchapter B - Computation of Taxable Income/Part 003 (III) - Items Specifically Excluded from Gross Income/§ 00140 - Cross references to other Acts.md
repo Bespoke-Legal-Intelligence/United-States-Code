@@ -24,55 +24,55 @@ Section 9 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742), referred
 
 #### Amendments
 
-2006—Subsec. (a)(4). Pub. L. 109–304 substituted “section 53507 of title 46, United States Code” for “section 607(d) of the Merchant Marine Act, 1936 (46 U.S.C. 1177)”.
+<b>2006</b>—Subsec. (a)(4). Pub. L. 109–304 substituted “section 53507 of title 46, United States Code” for “section 607(d) of the Merchant Marine Act, 1936 (46 U.S.C. 1177)”.
 
-2002—Pub. L. 107–134 renumbered section 139 of this title as this section.
+<b>2002</b>—Pub. L. 107–134 renumbered section 139 of this title as this section.
 
-1997—Pub. L. 105–33 renumbered section 138 of this title as this section.
+<b>1997</b>—Pub. L. 105–33 renumbered section 138 of this title as this section.
 
-1996—Pub. L. 104–188 renumbered section 137 of this title as this section.
+<b>1996</b>—Pub. L. 104–188 renumbered section 137 of this title as this section.
 
-1992—Pub. L. 102–486 renumbered section 136 of this title as this section.
+<b>1992</b>—Pub. L. 102–486 renumbered section 136 of this title as this section.
 
-1991—Subsec. (a)(3). Pub. L. 102–40 substituted “5301” for “3101”.
+<b>1991</b>—Subsec. (a)(3). Pub. L. 102–40 substituted “5301” for “3101”.
 
 Subsec. (a)(6). Pub. L. 102–83 substituted “1562(a)–(c)” for “562(a)–(c)”.
 
-1988—Pub. L. 100–647 renumbered section 135 of this title as this section.
+<b>1988</b>—Pub. L. 100–647 renumbered section 135 of this title as this section.
 
-1986—Pub. L. 99–514 renumbered section 134 of this title as this section.
+<b>1986</b>—Pub. L. 99–514 renumbered section 134 of this title as this section.
 
-1984—Pub. L. 98–369, §§531(a)(1), 543(a), successively renumbered sections 132 and 133 of this title as this section.
+<b>1984</b>—Pub. L. 98–369, §§531(a)(1), 543(a), successively renumbered sections 132 and 133 of this title as this section.
 
 Subsec. (a)(6) to (8). Pub. L. 98–369, §2661(<i>o</i>)(2), struck out par. (6) relating to railroad retirement annuities and pensions, struck out par. (7) relating to railroad unemployment benefits, and redesignated par. (8) as (6).
 
-1983—Pub. L. 97–473 successively renumbered sections 130 and 131 of this title as this section.
+<b>1983</b>—Pub. L. 97–473 successively renumbered sections 130 and 131 of this title as this section.
 
-1981—Pub. L. 97–34 successively renumbered sections 128 and 129 of this title as this section.
+<b>1981</b>—Pub. L. 97–34 successively renumbered sections 128 and 129 of this title as this section.
 
-1980—Subsec. (a). Pub. L. 96–589 redesignated pars. (2) to (9) as (1) to (8), respectively. Former par. (1), relating to section 1079 of title 11 for adjustments of indebtedness under wage earners’ plans, was struck out.
+<b>1980</b>—Subsec. (a). Pub. L. 96–589 redesignated pars. (2) to (9) as (1) to (8), respectively. Former par. (1), relating to section 1079 of title 11 for adjustments of indebtedness under wage earners’ plans, was struck out.
 
 Subsec. (a)(8). Pub. L. 96–222 substituted “benefits which are not includible in gross income under section 85,” for “benefits, see”.
 
-1978—Pub. L. 95–600 successively renumbered sections 125, 126, and 127 of this title as this section.
+<b>1978</b>—Pub. L. 95–600 successively renumbered sections 125, 126, and 127 of this title as this section.
 
 Pub. L. 95–618 renumbered section 124 of this title as this section.
 
-1976—Subsec. (a). Pub. L. 94–455, §1901(a)(21), struck out pars. (4), (5), (6), (9), (10), (11), (12), (13), and (17) relating to: benefits under World War Adjustment Compensation Act; benefits under World War Veteran's Act 1924; dividends and interest derived from certain preferred stock by Reconstruction Finance Corporation; income derived from Ogdensburg bridge; income derived from Owensburg bridge and ferries; income from Saint Clair River bridge and ferries; leave compensation payments under section 6 of Armed Forces Leave Act of 1946; mustering-out payments under Mustering-Out Payment Act of 1944; and gain derived from sale or other disposition of Treasury Bills issued after June 17, 1930, under the Second Liberty Bond Act, respectively, renumbered pars. (7), (8), (14), (15), (16), and (18) as pars. (5), (6), (7), (8), (9), and (4), respectively, struck out references to Statutes at Large, and updated cross references to the United States Code.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1901(a)(21), struck out pars. (4), (5), (6), (9), (10), (11), (12), (13), and (17) relating to: benefits under World War Adjustment Compensation Act; benefits under World War Veteran's Act 1924; dividends and interest derived from certain preferred stock by Reconstruction Finance Corporation; income derived from Ogdensburg bridge; income derived from Owensburg bridge and ferries; income from Saint Clair River bridge and ferries; leave compensation payments under section 6 of Armed Forces Leave Act of 1946; mustering-out payments under Mustering-Out Payment Act of 1944; and gain derived from sale or other disposition of Treasury Bills issued after June 17, 1930, under the Second Liberty Bond Act, respectively, renumbered pars. (7), (8), (14), (15), (16), and (18) as pars. (5), (6), (7), (8), (9), and (4), respectively, struck out references to Statutes at Large, and updated cross references to the United States Code.
 
 Subsec. (b). Pub. L. 94–455, §1901(a)(21), struck out “58 Stat. 689;” after “Health Service Act”.
 
-1969—Pub. L. 91–172 renumbered section 123 of this title as this section.
+<b>1969</b>—Pub. L. 91–172 renumbered section 123 of this title as this section.
 
-1966—Pub. L. 89–365 renumbered section 122 of this title as this section.
+<b>1966</b>—Pub. L. 89–365 renumbered section 122 of this title as this section.
 
-1964—Pub. L. 88–272 renumbered section 121 of this title as this section.
+<b>1964</b>—Pub. L. 88–272 renumbered section 121 of this title as this section.
 
-1958—Subsec. (a)(18). Pub. L. 85–857 substituted “section 3101 of title 38, United States Code” for “section 1001 of the Veterans’ Benefits Act of 1957”.
+<b>1958</b>—Subsec. (a)(18). Pub. L. 85–857 substituted “section 3101 of title 38, United States Code” for “section 1001 of the Veterans’ Benefits Act of 1957”.
 
-1957—Subsec. (a)(18). Pub. L. 85–56 substituted provisions relating to benefits under laws administered by Veterans’ Administration, for provisions which related to dependency and indemnity compensation.
+<b>1957</b>—Subsec. (a)(18). Pub. L. 85–56 substituted provisions relating to benefits under laws administered by Veterans’ Administration, for provisions which related to dependency and indemnity compensation.
 
-1956—Subsec. (a). Act Aug. 1, 1956, added par. (18) relating to dependency and indemnity compensation.
+<b>1956</b>—Subsec. (a). Act Aug. 1, 1956, added par. (18) relating to dependency and indemnity compensation.
 
 #### Change of Name
 
@@ -95,4 +95,6 @@ Amendment by Pub. L. 94–455 applicable with respect to taxable years beginning
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–857 effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as an Effective Date note preceding Part I of Title 38, Veterans’ Benefits.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

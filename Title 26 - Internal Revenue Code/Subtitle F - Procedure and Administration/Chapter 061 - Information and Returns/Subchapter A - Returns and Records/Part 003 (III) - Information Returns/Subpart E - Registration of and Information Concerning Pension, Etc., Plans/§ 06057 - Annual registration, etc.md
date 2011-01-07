@@ -82,17 +82,17 @@ Section 203 of part 2 of subtitle B of title I of the Employee Retirement Income
 
 #### Amendments
 
-1994—Subsecs. (d), (f)(1). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” in heading and text of subsec. (d) and in text of subsec. (f)(1).
+<b>1994</b>—Subsecs. (d), (f)(1). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” in heading and text of subsec. (d) and in text of subsec. (f)(1).
 
-1986—Subsec. (g). Pub. L. 99–514 substituted “section 6652(d)” for “section 6652(e)”.
+<b>1986</b>—Subsec. (g). Pub. L. 99–514 substituted “section 6652(d)” for “section 6652(e)”.
 
-1984—Subsec. (d). Pub. L. 98–369 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+<b>1984</b>—Subsec. (d). Pub. L. 98–369 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
 Subsec. (e). Pub. L. 98–397 inserted provision that such statement shall also include a notice to the participant of any benefits which are forfeitable if the participant dies before a certain date.
 
 Subsec. (f). Pub. L. 98–369 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 1994 Amendment
 

@@ -7,7 +7,8 @@
 | [8103\.](%C2%A7%2008103%20-%20Citizenship%20and%20Navy%20Reserve%20requirements.md) | Citizenship and Navy Reserve requirements. |
 | [8104\.](%C2%A7%2008104%20-%20Watches.md) | Watches. |
 | [8105\.](%C2%A7%2008105%20-%20Fishing%20vessel%20exemption.md) | Fishing vessel exemption. |
-| [8106\.](%C2%A7%2008106%20-%20Riding%20gangs.md) | Riding gangs <sup>1</sup> |
+| [8106\.](%C2%A7%2008106%20-%20Riding%20gangs.md) | Riding gangs. |
+| [8107\.](%C2%A7%2008107%20-%20Use%20of%20force%20against%20piracy.md) | Use of force against piracy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -17,15 +18,15 @@ Chapter 81 provides for the composition, citizenship, working hours, and other l
 
 #### Amendments
 
-2006—Pub. L. 109–241, title III, §312(d), July 11, 2006, 120 Stat. 534, added item 8106.
+<b>2010</b>—Pub. L. 111–281, title IX, §§903(c)(1), 912(b), Oct. 15, 2010, 124 Stat. 3011, 3017, inserted period at end of item 8106 and added item 8107.
+
+<b>2006</b>—Pub. L. 109–241, title III, §312(d), July 11, 2006, 120 Stat. 534, added item 8106.
 
 Pub. L. 109–163, div. A, title V, §515(f)(3)(C), Jan. 6, 2006, 119 Stat. 3236, substituted “Citizenship and Navy Reserve requirements” for “Citizenship and Naval Reserve requirements” in item 8103.
 
-1996—Pub. L. 104–324, title XI, §1146(b), Oct. 19, 1996, 110 Stat. 3993, added item 8105.
+<b>1996</b>—Pub. L. 104–324, title XI, §1146(b), Oct. 19, 1996, 110 Stat. 3993, added item 8105.
 
-1990—Pub. L. 101–595, title VI, §603(7)(B), Nov. 16, 1990, 104 Stat. 2993, struck out item 8105 “Regulations”.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+<b>1990</b>—Pub. L. 101–595, title VI, §603(7)(B), Nov. 16, 1990, 104 Stat. 2993, struck out item 8105 “Regulations”.
 
 
 ---
@@ -38,3 +39,4 @@ Pub. L. 109–163, div. A, title V, §515(f)(3)(C), Jan. 6, 2006, 119 Stat. 3236
 - [&sect; 08104 - Watches](%C2%A7%2008104%20-%20Watches.md)
 - [&sect; 08105 - Fishing vessel exemption](%C2%A7%2008105%20-%20Fishing%20vessel%20exemption.md)
 - [&sect; 08106 - Riding gangs](%C2%A7%2008106%20-%20Riding%20gangs.md)
+- [&sect; 08107 - Use of force against piracy](%C2%A7%2008107%20-%20Use%20of%20force%20against%20piracy.md)

@@ -12,7 +12,7 @@
 
 (2) The person transferring contractual interests pursuant to subsection (a)(1) of this section and the person to whom such interests are transferred may agree on the amount of, or method of determining, the consideration to be paid for such transfer and certify such consideration to the Commission. Except as provided in paragraph (4), such agreed-upon consideration shall not exceed the consideration determined by application of the guidelines prescribed by the Commission under paragraph (1).
 
-(3) In the event the person transferring contractual interests pursuant to subsection (a)(1) of this section and the person to whom such interests are to be transferred fail to agree, under paragraph (2), on the amount of, or method of determining, the consideration to be paid for such transfer, the Commission may, at the request of both such persons, prescribe the amount of, or method of determining, such consideration. Upon the request of either such person, the Commission shall make such determinationon the record, after an opportunity for agency hearing. In any such latter case, the determination of the Commission shall be binding upon the party requesting that such determination be made on the record of the agency hearing. The consideration prescribed by the Commission shall not exceed the maximum consideration permitted as just compensation under this section. In prescribing the amount of, or method of determining, consideration under this paragraph, to the maximum extent practicable, the Commission shall utilize any liquidated damages provision set forth in the applicable contract, but in no event may the Commission prescribe consideration in excess of the maximum consideration permitted as just compensation under this section.
+(3) In the event the person transferring contractual interests pursuant to subsection (a)(1) of this section and the person to whom such interests are to be transferred fail to agree, under paragraph (2), on the amount of, or method of determining, the consideration to be paid for such transfer, the Commission may, at the request of both such persons, prescribe the amount of, or method of determining, such consideration. Upon the request of either such person, the Commission shall make such determination on the record, after an opportunity for agency hearing. In any such latter case, the determination of the Commission shall be binding upon the party requesting that such determination be made on the record of the agency hearing. The consideration prescribed by the Commission shall not exceed the maximum consideration permitted as just compensation under this section. In prescribing the amount of, or method of determining, consideration under this paragraph, to the maximum extent practicable, the Commission shall utilize any liquidated damages provision set forth in the applicable contract, but in no event may the Commission prescribe consideration in excess of the maximum consideration permitted as just compensation under this section.
 
 (4) In the event that the consideration agreed upon under paragraph (2) exceeds the consideration determined by application of the guidelines prescribed by the Commission under paragraph (1), the Commission may approve such agreed-upon consideration if the Commission determines such agreed-upon consideration does not exceed the maximum consideration permitted as just compensation under this section.
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (f) Coordination with Natural Gas Act
 
-(1) Consideration paid by any interstate pipeline pursuant to this section shall be deemedjust and reasonable for purposes of sections 4, 5, and 7 of the Natural Gas Act \[15 U.S.C. 717c, 717d, 717f\]. The Commission shall not deny a passthrough by such interstate pipeline of such consideration based upon the amount of such consideration paid pursuant to this section.
+(1) Consideration paid by any interstate pipeline pursuant to this section shall be deemed just and reasonable for purposes of sections 4, 5, and 7 of the Natural Gas Act \[15 U.S.C. 717c, 717d, 717f\]. The Commission shall not deny a passthrough by such interstate pipeline of such consideration based upon the amount of such consideration paid pursuant to this section.
 
 (2) No person shall be subject to the jurisdiction of the Commission under the Natural Gas Act \[15 U.S.C. 717 et seq.\] or to regulation as a common carrier under any provision of Federal or State law solely by reason of making any sale, or engaging in any transportation, of natural gas with respect to which the transfer of contractual interests is authorized under subsection (a)(1) of this section.
 
@@ -92,9 +92,11 @@ The Natural Gas Act, referred to in subsecs. (e)(5) and (f)(2), (3), is act June
 
 #### Amendments
 
-1987—Subsec. (a)(1). Pub. L. 100–42, §1(c)(21)(A), struck out reference to subchapter II of this chapter.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–42, §1(c)(21)(A), struck out reference to subchapter II of this chapter.
 
 Subsec. (e)(1). Pub. L. 100–42, §1(c)(21)(B), struck out “or major fuel-burning installation” after “powerplant” in subpar. (A) and “or major fuel-burning installation” after “powerplant” in last sentence.
 
 Subsec. (g)(3). Pub. L. 100–42, §1(c)(21)(A), struck out reference to subchapter II of this chapter.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “jurisdiction”.</i>
 

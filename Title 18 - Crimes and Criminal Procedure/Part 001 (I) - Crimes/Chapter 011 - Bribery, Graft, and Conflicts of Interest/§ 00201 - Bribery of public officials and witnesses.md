@@ -26,9 +26,9 @@
 
 &emsp;&emsp;(C) being induced to do or omit to do any act in violation of the official duty of such official or person;
 
-&emsp;(3) directly or indirectly, corruptly gives, offers, or promises anything of value to any person, or offers or promises such person to give anything of value to any other person or entity, with intent to influence the testimony under oath or affirmation of such first-mentioned person as a witness upon a trial, hearing, or other proceeding, before any court, any committee of either House or both Houses of Congress, or any agency, commission, or officer authorized by the laws of the United States to hear evidence or take testimony, or with intent to influence such person to absent himself therefrom;
+&emsp;(3) directly or indirectly, corruptly gives, offers, or promises anything of value to any person, or offers or promises such person to give anything of value to any other person or entity, with intent to influence the testimony under oath or affirmation of such first-mentioned person as a witness upon a trial, hearing, or other proceeding, before any court, anycommittee of either House or both Houses of Congress, or any agency, commission, or officer authorized by the laws of the United States to hear evidence or take testimony, or with intent to influence such person to absent himself therefrom;
 
-&emsp;(4) directly or indirectly, corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally or for anyother person or entity in return for being influenced in testimony under oath or affirmation as a witness upon any such trial, hearing, or other proceeding, or in return for absenting himself therefrom;
+&emsp;(4) directly or indirectly, corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally or for any other person or entity in return for being influenced in testimony under oath or affirmation as a witness upon any such trial, hearing, or other proceeding, or in return for absenting himself therefrom;
 
 &emsp;shall be fined under this title or not more than three times the monetary equivalent of the thing of value, whichever is greater, or imprisoned for not more than fifteen years, or both, and may be disqualified from holding any office of honor, trust, or profit under the United States.
 
@@ -58,13 +58,13 @@ A prior section 201, act June 25, 1948, ch. 645, 62 Stat. 691, prescribed penalt
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–322, §330016(2)(D), which directed the amendment of “section 201” by inserting “under this title or” after “be fined” and “whichever is greater,” before “or imprisoned”, was executed by making the insertions in text of last par. of subsec. (b), and not in last par. of subsec. (c), to reflect the probable intent of Congress.
+<b>1994</b>—Subsec. (b). Pub. L. 103–322, §330016(2)(D), which directed the amendment of “section 201” by inserting “under this title or” after “be fined” and “whichever is greater,” before “or imprisoned”, was executed by making the insertions in text of last par. of subsec. (b), and not in last par. of subsec. (c), to reflect the probable intent of Congress.
 
 Pub. L. 103–322, §330011(b)(A), amended Pub. L. 99–646, §46(b)(1). See 1986 Amendment note below.
 
 Subsec. (b)(1). Pub. L. 103–322, §330011(b), amended Pub. L. 99–646, §46(b). See 1986 Amendment note below.
 
-1986—Pub. L. 99–646, §46(<i>l</i>), provided for alignment of margins of each subsection, paragraph, and subparagraph of this section.
+<b>1986</b>—Pub. L. 99–646, §46(<i>l</i>), provided for alignment of margins of each subsection, paragraph, and subparagraph of this section.
 
 Subsec. (a). Pub. L. 99–646, §46(a), substituted “section—” for “section:”, designated provision defining “public official” as par. (1), inserted “the term” after “(1)”, and substituted “Delegate” for “Delegate from the District of Columbia”, “after such official has qualified” for “after he has qualified”, and “juror;” for “juror; and”; designated provision defining “person who has been selected to be a public official” as par. (2), inserted “the term” after “(2)”, and substituted “such person” for “he”; and designated provision defining “official act” as par. (3), inserted “the term” after “(3)”, and substituted “in such official's official capacity, or in such official's” for “in his official capacity, or in his”.
 
@@ -74,11 +74,11 @@ Pub. L. 99–646, §46(e)(5), redesignated the undesignated par. which followed 
 
 Subsec. (b)(1). Pub. L. 99–646, §46(b), as amended by Pub. L. 103–322, §330011(b), redesignated former subsec. (b) as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and realigned their margins, and in subpar. (C) substituted “the lawful duty of such official or person;” for “his lawful duty, or”.
 
-Subsec. (b)(2). Pub. L. 99–646, §46(c), redesignated former subsec. (c) as par. (2), struck out “Whoever,” before “being”, substituted “corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally” for “corruptly asks, demands, exacts, solicits, seeks, accepts, receives, or agrees to receive anything of value for himself”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and realigned their margins, in subpar. (A) substituted “the performance” for “his performance” and struck out “or” after “act;”, and in subpar. (C) substituted “the official duty of such official or person;” for “his official duty; or”.
+Subsec. (b)(2). Pub. L. 99–646, §46(c), redesignated former subsec. (c) as par. (2), struck out “Whoever,” before “being”, substituted “corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally” for “corruptly asks, demands, exacts, solicits, seeks, accepts, receives, or agrees to receive anything of value for himself”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and realigned their margins, in subpar. (A)substituted “the performance” for “his performance” and struck out “or” after “act;”, and in subpar. (C) substituted “the official duty of such official or person;” for “his official duty; or”.
 
 Subsec. (b)(3). Pub. L. 99–646, §46(d), redesignated former subsec. (d) as par. (3) and substituted “directly” for “Whoever, directly” and “therefrom;” for “therefrom; or”.
 
-Subsec. (b)(4). Pub. L. 99–646, §46(e), redesignated former subsec. (e) as par. (4), substituted “directly” for “Whoever, directly”, “demands, seeks, receives, accepts, or agrees to receive or accept anything of valuepersonally” for “asks, demands, exacts, solicits, seeks, accepts, receives, or agrees to receive anything of value for himself”, “in testimony” for “in his testimony”, and “therefrom;” for “therefrom—”.
+Subsec. (b)(4). Pub. L. 99–646, §46(e), redesignated former subsec. (e) as par. (4), substituted “directly” for “Whoever, directly”, “demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally” for “asks, demands, exacts, solicits, seeks, accepts, receives, or agrees to receive anything of value for himself”, “in testimony” for “in his testimony”, and “therefrom;” for “therefrom—”.
 
 Subsec. (c). Pub. L. 99–646, §46(f), (g)(1), (h)(1), (i)(1), redesignated former subsecs. (f) to (i) as subsec. (c)(1)(A), (B), (2), and (3), respectively. Former subsec. (c) redesignated (b)(2).
 
@@ -94,7 +94,7 @@ Subsec. (d). Pub. L. 99–646, §46(j), redesignated former subsec. (j) as (d), 
 
 Subsecs. (e) to (k). Pub. L. 99–646, §46(f)–(k), redesignated former subsecs. (e) to (k) as (b)(4), (c)(1)(A), (B), (2), (3), (d), and (e), respectively.
 
-1970—Subsec. (a). Pub. L. 91–405 included Delegate from District of Columbia in definition of “public official”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–405 included Delegate from District of Columbia in definition of “public official”.
 
 #### Effective Date of 1994 Amendment
 
@@ -146,7 +146,7 @@ Robert F. Kennedy,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Memorandum re the Conflict of Interest Provisions of Public Law 87–849, 76 Stat. 1119, Approved October 23, 1962
 
-I74Introduction
+#### Introduction
 
 Public Law 87–849, which came into force January 21, 1963, affected seven statutes which applied to officers and employees of the Government and were generally spoken of as the “conflict of interest” laws. These included six sections of the criminal code, 18 U.S.C. 216, 281, 283, 284, 434 and 1914, and a statute containing no penalties, section 190 of the Revised Statutes (5 U.S.C. 99). Public Law 87–849 (sometimes referred to hereinafter as “the Act”) repealed section 190 and one of the criminal statutes, 18 U.S.C. 216, without replacing them.<sup>1</sup> In addition it repealed and supplanted the other five criminal statutes. It is the purpose of this memorandum to summarize the new law and to describe the principal differences between it and the legislation it has replaced.
 

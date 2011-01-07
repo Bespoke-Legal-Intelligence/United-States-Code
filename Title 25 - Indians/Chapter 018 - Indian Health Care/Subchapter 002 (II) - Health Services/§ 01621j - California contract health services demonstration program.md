@@ -6,7 +6,7 @@ The Secretary shall establish a demonstration program to evaluate the use of a c
 
 #### (b) Agreement with California Rural Indian Health Board
 
-(1) In establishing such program, the Secretary shall enter into an agreement with the California Rural Indian Health Board to reimburse the Board for costs (including reasonable administrative costs) incurred, during the period of the demonstration program, in providing medical treatment under contract to California Indians described in section 1679(b) of this title throughout the California contract health services delivery area described in section 1680 of this title with respect to high-cost contract care cases.
+(1) In establishing such program, the Secretary shall enter into an agreement with the California Rural Indian Health Board to reimburse the Board for costs (including reasonable administrative costs) incurred, during the period of the demonstration program, in providing medical treatment under contract to California Indians described in section 1679(b) <sup>1</sup> of this title throughout the California contract health services delivery area described in section 1680 of this title with respect to high-cost contract care cases.
 
 (2) Not more than 5 percent of the amounts provided to the Board under this section for any fiscal year may be for reimbursement for administrative expenses incurred by the Board during such fiscal year.
 
@@ -14,7 +14,7 @@ The Secretary shall establish a demonstration program to evaluate the use of a c
 
 #### (c) Advisory board
 
-There is hereby established an advisory board which shall advise the California Rural Indian Health Board in carrying out the demonstration pursuant to this section. The advisory board shall be composed of representatives, selected by the California Rural Indian Health Board, from not less than 8 tribal health programs serving California Indians covered under such demonstration, at least one half of whom are not affiliated with the California Rural Indian Health Board.
+There is hereby established an advisory board which shall advise the California Rural IndianHealth Board in carrying out the demonstration pursuant to this section. The advisory board shall be composed of representatives, selected by the California Rural Indian Health Board, from not less than 8 tribal health programs serving California Indians covered under such demonstration, at least one half of whom are not affiliated with the California Rural Indian Health Board.
 
 #### (d) Commencement and termination dates
 
@@ -34,21 +34,31 @@ Not later than July 1, 1998, the California Rural Indian Health Board shall subm
 
 For the purposes of this section, the term “high-cost contract care cases” means those cases in which the cost of the medical treatment provided to an individual—
 
-&emsp;(1) would otherwise be eligible for reimbursement from the Catastrophic Health Emergency Fund established under section 1621a of this title, except that the cost of such treatment does not meet the threshold cost requirement established pursuant to section 1621a(b)(2) of this title; and
+&emsp;(1) would otherwise be eligible for reimbursement from the Catastrophic Health Emergency Fund established under section 1621a of this title, except that the cost of such treatment does not meet the threshold cost requirement established pursuant to section 1621a(b)(2) <sup>1</sup> of this title; and
 
 &emsp;(2) exceeds $1,000.
 
-#### (g) Authorization of appropriations
+(Pub. L. 94–437, title II, §211, as added Pub. L. 102–573, title II, §206(c), Oct. 29, 1992, 106 Stat. 4549; amended Pub. L. 104–313, §2(c), Oct. 19, 1996, 110 Stat. 3822; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
-There are authorized to be appropriated for each of the fiscal years 1996 through 2000 such sums as may be necessary to carry out the purposes of this section.
+#### References in Text
 
-(Pub. L. 94–437, title II, §211, as added Pub. L. 102–573, title II, §206(c), Oct. 29, 1992, 106 Stat. 4549; amended Pub. L. 104–313, §2(c), Oct. 19, 1996, 110 Stat. 3822.)
+Section 1679 of this title, referred to in subsec. (b)(1), was repealed and a new section 1679 was enacted by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935. Provisions describing California Indians, similar to those that appeared in former section 1679(b) are now contained in new section 1679(a).
+
+Section 1621a of this title, referred to in subsec. (f)(1), was amended generally by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains a subsec. (b)(2).
+
+#### Codification
+
+Amendment by Pub. L. 111–148 is based on section 101(b)(3) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 #### Amendments
 
-1996—Subsec. (g). Pub. L. 104–313 substituted “1996 through 2000” for “1993, 1994, 1995, 1996, and 1997”.
+<b>2010</b>—Subsec. (g). Pub. L. 111–148 struck out subsec. (g) which authorized appropriations for fiscal years 1996 through 2000.
+
+<b>1996</b>—Subsec. (g). Pub. L. 104–313 substituted “1996 through 2000” for “1993, 1994, 1995, 1996, and 1997”.
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise providedby law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

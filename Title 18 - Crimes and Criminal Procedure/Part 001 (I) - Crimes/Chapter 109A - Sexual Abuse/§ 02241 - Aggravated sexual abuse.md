@@ -40,9 +40,9 @@ Pub. L. 99–646 and Pub. L. 99–654 added identical sections 2241.
 
 #### Amendments
 
-2007—Subsecs. (a) to (c). Pub. L. 110–161 substituted “the head of any Federal department or agency” for “the Attorney General”.
+<b>2007</b>—Subsecs. (a) to (c). Pub. L. 110–161 substituted “the head of any Federal department or agency” for “the Attorney General”.
 
-2006—Subsecs. (a), (b). Pub. L. 109–248, §207(2), inserted comma after “Attorney General” in introductory provisions.
+<b>2006</b>—Subsecs. (a), (b). Pub. L. 109–248, §207(2), inserted comma after “Attorney General” in introductory provisions.
 
 Pub. L. 109–162, §1177(a)(1), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in introductory provisions.
 
@@ -50,11 +50,11 @@ Subsec. (c). Pub. L. 109–248 inserted comma after “Attorney General” and s
 
 Pub. L. 109–162, §1177(a)(2), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in first sentence.
 
-1998—Subsec. (c). Pub. L. 105–314 substituted “younger than the person so engaging” for “younger than that person”.
+<b>1998</b>—Subsec. (c). Pub. L. 105–314 substituted “younger than the person so engaging” for “younger than that person”.
 
-1996—Subsec. (c). Pub. L. 104–208 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, knowingly engages in a sexual act with another person who has not attained the age of 12 years, or attempts to do so, shall be fined under this title, imprisoned for any term of years or life, or both.”
+<b>1996</b>—Subsec. (c). Pub. L. 104–208 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, knowingly engages in a sexual act with another person who has not attained the age of 12 years, or attempts to do so, shall be fined under this title, imprisoned for any term of years or life, or both.”
 
-1994—Subsec. (a)(2). Pub. L. 103–322 substituted “kidnapping” for “kidnaping”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–322 substituted “kidnapping” for “kidnaping”.
 
 #### Effective Date
 

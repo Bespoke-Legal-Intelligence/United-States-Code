@@ -18,7 +18,7 @@ A prior section 1070d–35, Pub. L. 89–329, title IV, §419E, as added Pub. L.
 
 #### Amendments
 
-1992—Par. (3). Pub. L. 102–325, §406(g)(2)(A), inserted “and” after semicolon.
+<b>1992</b>—Par. (3). Pub. L. 102–325, §406(g)(2)(A), inserted “and” after semicolon.
 
 Par. (4). Pub. L. 102–325, §406(g)(2)(B), substituted “$1,500.” for “$1,500 at an awards ceremony in accordance with section 1070d–39 of this title; and”.
 

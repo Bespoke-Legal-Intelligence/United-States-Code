@@ -6,19 +6,19 @@ The Secretary of the Treasury may authorize exemption from the taxes imposed by 
 
 #### Amendments
 
-1990—Pub. L. 101–508 inserted “subchapter A of chapter 31,” before “section 4041”.
+<b>1990</b>—Pub. L. 101–508 inserted “subchapter A of chapter 31,” before “section 4041”.
 
-1988—Pub. L. 100–647 inserted reference to section 4051 of this title.
+<b>1988</b>—Pub. L. 100–647 inserted reference to section 4051 of this title.
 
-1978—Pub. L. 95–618 substituted “taxes imposed by sections 4064 and 4121” for “tax imposed by section 4121”.
+<b>1978</b>—Pub. L. 95–618 substituted “taxes imposed by sections 4064 and 4121” for “tax imposed by section 4121”.
 
 Pub. L. 95–502 substituted “section 4041, chapter 32” for “chapters 31 and 32”.
 
 Pub. L. 95–227 inserted “(other than the tax imposed by section 4121)” after “chapters 31 and 32”.
 
-1976—Pub. L. 94–455 substituted “Secretary of the Treasury” for “Secretary” after “The”.
+<b>1976</b>—Pub. L. 94–455 substituted “Secretary of the Treasury” for “Secretary” after “The”.
 
-1970—Pub. L. 91–258 substituted “subchapter B” for “subchapters B and C”.
+<b>1970</b>—Pub. L. 91–258 substituted “subchapter B” for “subchapters B and C”.
 
 #### Effective Date of 1990 Amendment
 

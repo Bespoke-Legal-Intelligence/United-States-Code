@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (1) Production attributable to the taxpayer
 
-&emsp;In the case of a qualified marginal well in which there is more than one owner of operating interests in the well and the crude oil ornatural gas production exceeds the limitation under subsection (c)(2), qualifying crude oil production or qualifying natural gas production attributable to the taxpayer shall be determined on the basis of the ratio which taxpayer's revenue interest in the production bears to the aggregate of the revenue interests of all operating interest owners in the production.
+&emsp;In the case of a qualified marginal well in which there is more than one owner of operating interests in the well and the crude oil or natural gas production exceeds the limitation under subsection (c)(2), qualifying crude oil production or qualifying natural gas production attributable to the taxpayer shall be determined on the basis of the ratio which taxpayer's revenue interest in the production bears to the aggregate of the revenue interests of all operating interest owners in the production.
 
 #### (2) Operating interest required
 
@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### Amendments
 
-2005—Subsec. (a)(2). Pub. L. 109–135 substituted “qualified crude oil production” for “qualified credit oil production”.
+<b>2005</b>—Subsec. (a)(2). Pub. L. 109–135 substituted “qualified crude oil production” for “qualified credit oil production”.
 
 Subsec. (b)(2)(C)(i). Pub. L. 109–58, §1322(a)(3)(B), substituted “section 45K(d)(2)(C)” for “section 29(d)(2)(C)”.
 

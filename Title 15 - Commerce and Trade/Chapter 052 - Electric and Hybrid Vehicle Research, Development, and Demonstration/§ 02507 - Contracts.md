@@ -10,7 +10,7 @@ In addition to the requirements of sections 2503 and 2504 of this title, the Sec
 
 #### (c) Rules of Secretary of Energy; funding applications; required advertising
 
-Each contract under this section shall be entered into in accordance with such rules as the Secretary of Energy may prescribe in accordance with the provisions of this section. Each application for funding shall be made in writing in such form and with such content and other submissions as the Secretary of Energy shall require. The Secretary of Energy may enter into contracts under this section without regard to section 5 of title 41.
+Each contract under this section shall be entered into in accordance with such rules as the Secretary of Energy may prescribe in accordance with the provisions of this section. Each application for funding shall be made in writing in such form and with such content and other submissions as the Secretary of Energy shall require. The Secretary of Energy may enter into contracts under this section without regard to section 6101 of title 41.
 
 #### (d) Purchase or lease of demonstration vehicles pursuant to agreements and utilization of Federal forms of assistance and participation authorized under other statutory provisions
 
@@ -18,7 +18,7 @@ In addition to contracting for the purchase or lease of vehicles when conducting
 
 #### (e) Cost-sharing and use of American materials for demonstrations
 
-When contracting and otherwise using Federal funds to conduct demonstrations under this chapter, the Secretary of Energy shall seek cost-sharing with others to the maximum extent practical. During the first 2 years of demonstration activities the Secretary of Energy may enter into procurement or lease contracts for purposes of carrying out demonstrations under this chapter without regard to the provisions of title III of the Act of March 3, 1933 (47 Stat. 1520; 41 U.S.C. 10a–10c).
+When contracting and otherwise using Federal funds to conduct demonstrations under this chapter, the Secretary of Energy shall seek cost-sharing with others to the maximum extent practical. During the first 2 years of demonstration activities the Secretary of Energy may enter into procurement or lease contracts for purposes of carrying out demonstrations under this chapter without regard to the provisions of chapter 83 of title 41.
 
 (Pub. L. 94–413, §8, Sept. 17, 1976, 90 Stat. 1266; Pub. L. 95–91, title III, §301(a), Aug. 4, 1977, 91 Stat. 577; Pub. L. 95–238, title VI, §602, Feb. 25, 1978, 92 Stat. 92.)
 
@@ -28,15 +28,17 @@ The Energy Reorganization Act of 1974 (Public Law 93–438), referred to in subs
 
 The Federal Nonnuclear Energy Research and Development Act of 1974 (Public Law 93–577), referred to in subsec. (d), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§5901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
 
-Title III of the Act of March 3, 1933 (47 Stat. 1520; 41 U.S.C. 10a–10c), referred to in subsec. (e), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, as amended, known as the Buy American Act, which is classified generally to sections 10a, 10b, and 10c of Title 41, PublicContracts. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
-
 #### Codification
 
 In subsec. (b), the words “the Federal Energy Administration,” which followed “Environmental Protection Agency,” have been omitted from the Code in view of the termination of the Federal Energy Administration and the transfer of the functions of the Administration to the Secretary of Energy pursuant to sections 301(a) and 703 of Pub. L. 95–91 which are classified to sections 7151(a) and 7293 of Title 42, The Public Health and Welfare. This transfer would result in this phrase being redundant in that it would provide for the Secretary of Energy to consult with the Secretary of Energy.
 
+In subsec. (c), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (e), “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 (47 Stat. 1520; 41 U.S.C. 10a–10c)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-1978—Subsecs. (d), (e). Pub. L. 95–238 added subsecs. (d) and (e).
+<b>1978</b>—Subsecs. (d), (e). Pub. L. 95–238 added subsecs. (d) and (e).
 
 #### Transfer of Functions
 

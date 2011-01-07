@@ -64,7 +64,7 @@ Completion.—Amtrak shall give the highest priority to completing the program.
 
 Applicable Procedures.—No State or local building, zoning, subdivision, or similar or related law, nor any other State or local law from which a project would be exempt if undertaken by the Federal Government or an agency thereof within a Federal enclave wherein Federal jurisdiction is exclusive, including without limitation with respect to all such laws referenced herein above requirements for permits, actions, approvals or filings, shall apply in connection with the construction, ownership, use, operation, financing, leasing, conveying, mortgaging or enforcing a mortgage of (i) any improvement undertaken by or for the benefit of Amtrak as part of, or in furtherance of, the Northeast Corridor Improvement Project (including without limitation maintenance, service, inspection or similar facilities acquired, constructed or used for high speed trainsets) or chapter 241, 243, or 247 of this title or (ii) any land (and right, title or interest created with respect thereto) on which such improvement is located and adjoining, surrounding or any related land. These exemptions shall remain in effect and be applicable with respect to such land and improvements for the benefit of any mortgagee before, upon and after coming into possession of such improvements or land, any third party purchasers thereof in foreclosure (or through a deed in lieu of foreclosure), and their respective successors and assigns, in each case to the extent the land or improvements are used, or held for use, for railroad purposes or purposes accessory thereto. This subsection shall not apply to any improvement or related land unless Amtrak receives a Federal operating subsidy in the fiscal year in which Amtrak commits to or initiates such improvement.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 930; Pub. L. 104–205, title III, §334, Sept. 30, 1996, 110 Stat. 2974; Pub. L. 105–134, title IV, §405(b)(1), Dec. 2, 1997, 111 Stat. 2586.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 930; Pub. L. 104–205, title III, §334, Sept. 30, 1996, 110Stat. 2974; Pub. L. 105–134, title IV, §405(b)(1), Dec. 2, 1997, 111 Stat. 2586.)
 
 Historical and Revision Notes
 
@@ -242,7 +242,7 @@ In subsection (c)(2)(B), the words “and in the amounts” are omitted as surpl
 
 In subsection (d), the words “department, agencies, and instrumentalities of the United States Government” are substituted for “relevant Federal agencies, including the Federal Communications Commission” for consistency in the revised title and with other titles of the United States Code. The words “shall assist Amtrak under subsection (a)(6) of this section” are substituted for “shall take such actions as are necessary to achieve this goal” for clarity. The words “including necessary licensing, construction, operation, and maintenance” are omitted as surplus.
 
-In subsection (e), before clause (1), the words “of priority” are added for clarity. In clause (2), the words “Potential ridership should be considered” are omittedas surplus. In clause (5), the words “Reducing maintenance cost levels is desirable” are omitted as surplus. The words “before other improvements” are added for clarity.
+In subsection (e), before clause (1), the words “of priority” are added for clarity. In clause (2), the words “Potential ridership should be considered” are omitted as surplus. In clause (5), the words “Reducing maintenance cost levels is desirable” are omitted as surplus. The words “before other improvements” are added for clarity.
 
 In subsection (f), the words “accomplished in a manner which is”, “the accomplishment in the . . . of additional”, and “levels” are omitted as surplus.
 
@@ -258,7 +258,7 @@ In subsection (j)(2), the words “including the provision of service use of tra
 
 In subsection (j)(3), the words “other parties” are substituted for “involved rail freight carriers” to eliminate unnecessary words. The words “conditions and” are omitted as surplus.
 
-In subsection (k)(1), before clause (A), the words “take all steps necessary to” are omitted as surplus. In clause (A), the words “all”, “implementation of”, and “under this subchapter” are omitted as surplus. Clause (B) is substituted for 45:854(c)(2) to eliminate surplus and obsolete words.
+In subsection (k)(1), before clause (A), the words “take all steps necessary to” are omitted as surplus. Inclause (A), the words “all”, “implementation of”, and “under this subchapter” are omitted as surplus. Clause (B) is substituted for 45:854(c)(2) to eliminate surplus and obsolete words.
 
 #### References in Text
 
@@ -266,9 +266,9 @@ Section 703(1)(E) of the Railroad Revitalization and Regulatory Reform Act of 19
 
 #### Amendments
 
-1997—Pub. L. 105–134 redesignated subsec. (b) as (a) and subsecs. (e) to (m) as (b) to (j), respectively, in subsec. (j) struck out “(m)” after “This subsection”, and struck out former subsecs. (a), (c), and (d) which related to Northeast Corridor improvement plan, cost sharing for nonoperational facilities, and passenger radio mobile telephone service, respectively.
+<b>1997</b>—Pub. L. 105–134 redesignated subsec. (b) as (a) and subsecs. (e) to (m) as (b) to (j), respectively, in subsec. (j) struck out “(m)” after “This subsection”, and struck out former subsecs. (a), (c), and (d) which related to Northeast Corridor improvement plan, cost sharing for nonoperational facilities, and passenger radio mobile telephone service, respectively.
 
-1996—Subsec. (m). Pub. L. 104–205 added subsec. (m).
+<b>1996</b>—Subsec. (m). Pub. L. 104–205 added subsec. (m).
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

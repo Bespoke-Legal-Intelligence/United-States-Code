@@ -84,7 +84,7 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 #### (ii) Post accident communications
 
-&emsp;&emsp;&emsp;Not later than 3 years after June 15, 2006, a plan shall, to be approved, provide for post accident communication between underground and surface personnel via a wireless two-way medium, and provide for an electronic tracking system permitting surface personnel to determine the location of any persons trapped underground or set forth within the plan the reasons such provisions can not be adopted. Wheresuch plan sets forth the reasons such provisions can not be adopted, the plan shall also set forth the operator's alternative means of compliance. Such alternative shall approximate, as closely as possible, the degree of functional utility and safety protection provided by the wireless two-way medium and tracking system referred to in this subpart.<sup>1</sup>
+&emsp;&emsp;&emsp;Not later than 3 years after June 15, 2006, a plan shall, to be approved, provide for post accident communication between underground and surface personnel via a wireless two-way medium, and provide for an electronic tracking system permitting surface personnel to determine the location of any persons trapped underground or set forth within the plan the reasons such provisions can not be adopted. Where such plan sets forth the reasons such provisions can not be adopted, the plan shall also set forth the operator's alternative means of compliance. Such alternative shall approximate, as closely as possible, the degree of functional utility and safety protection provided by the wireless two-way medium and tracking system referred to in this subpart.<sup>1</sup>
 
 #### (G) Plan dispute resolution
 
@@ -94,7 +94,7 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 #### (ii) Disputes
 
-&emsp;&emsp;&emsp;In the event of a dispute or refusal described in clause (i), the Secretary shall issue a citation which shall be immediately referred to a Commission Administrative Law Judge. The Secretary and the operator shall submit all relevant material regarding the dispute to the Administrative Law Judge within 15 days of the date of the referral. The Administrative Law Judge shall render his or her decision with respect to the plan content dispute within 15 days of the receipt of the submission.
+&emsp;&emsp;&emsp;In the event of a dispute or refusal described in clause (i), the Secretary shallissue a citation which shall be immediately referred to a Commission Administrative Law Judge. The Secretary and the operator shall submit all relevant material regarding the dispute to the Administrative Law Judge within 15 days of the date of the referral. The Administrative Law Judge shall render his or her decision with respect to the plan content dispute within 15 days of the receipt of the submission.
 
 #### (iii) Further appeals
 
@@ -112,7 +112,7 @@ This chapter, referred to in subsec. (b)(2)(C)(iv), (H), was in the original “
 
 #### Amendments
 
-2006—Pub. L. 109–236 inserted “and emergency response plans” after “locations” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
+<b>2006</b>—Pub. L. 109–236 inserted “and emergency response plans” after “locations” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
 

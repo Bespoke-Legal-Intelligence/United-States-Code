@@ -4,7 +4,7 @@
 
 The Congress makes the following findings:
 
-&emsp;(1) Consumers have a vital interest in establishing and maintaining their credit worthiness <sup>1</sup> and credit standing in order to obtain and use credit. As a result, consumers who have experienced credit problems may seek assistance from credit repair organizations which offer to improve the credit standing of such consumers.
+&emsp;(1) Consumers have a vital interest in establishing and maintaining their credit worthiness and credit standing in order to obtain and use credit. As a result, consumers who have experienced credit problems may seek assistance from credit repair organizations which offer to improve the credit standing of such consumers.
 
 &emsp;(2) Certain advertising and business practices of some companies engaged in the business of credit repair services have worked a financial hardship upon consumers, particularly those of limited economic means and who are inexperienced in credit matters.
 
@@ -26,5 +26,7 @@ A prior title IV of Pub. L. 90–321, May 29, 1968, 82 Stat. 164, as amended by 
 
 Section 413 of title IV of Pub. L. 90–321, as added by Pub. L. 104–208, div. A, title II, §2451, Sept. 30, 1996, 110 Stat. 3009–462, provided that: “This title \[enacting this subchapter\] shall apply after the end of the 6-month period beginning on the date of the enactment of the Credit Repair Organizations Act \[Sept. 30, 1996\], except with respect to contracts entered into by a credit repair organization before the end of such period.”
 
-<i><sup>1</sup></i><i> So in original. Probably should be “creditworthiness”.</i>
+#### Short Title
+
+This subchapter known as the “Credit Repair Organizations Act”, see Short Title note set out under section 1601 of this title.
 

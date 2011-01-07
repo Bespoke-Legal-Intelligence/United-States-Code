@@ -44,15 +44,15 @@ The penalty imposed by this section shall be in addition to any other penalty pr
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–357 inserted at end of concluding provisions “Notwithstanding the first sentence, if an activity with respect to which a penalty imposed under this subsection involves a statement described in paragraph (2)(A), the amount of the penalty shall be equal to 50 percent of the gross income derived (or to be derived) from such activity by the person on which the penalty is imposed.”
+<b>2004</b>—Subsec. (a). Pub. L. 108–357 inserted at end of concluding provisions “Notwithstanding the first sentence, if an activity with respect to which a penalty imposed under this subsection involves a statement described in paragraph (2)(A), the amount of the penalty shall be equal to 50 percent of the gross income derived (or to be derived) from such activity by the person on which the penalty is imposed.”
 
-1989—Subsec. (a). Pub. L. 101–239, §7734(a)(3), added concluding provision and struck out former concluding provision which read as follows: “shall pay a penalty equal to the greater of $1,000 or 20 percent of the gross income derived or to be derived by such person from such activity.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7734(a)(3), added concluding provision and struck out former concluding provision which read as follows: “shall pay a penalty equal to the greater of $1,000 or 20 percent of the gross income derived or to be derived by such person from such activity.”
 
 Subsec. (a)(1)(B). Pub. L. 101–239, §7734(a)(1), inserted “(directly or indirectly)” after “participates”.
 
 Subsec. (a)(2). Pub. L. 101–239, §7734(a)(2), inserted “or causes another person to make or furnish” after “makes or furnishes” in introductory provisions.
 
-1984—Subsec. (a). Pub. L. 98–369 substituted “20 percent” for “10 percent”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted “20 percent” for “10 percent”.
 
 #### Effective Date of 2004 Amendment
 

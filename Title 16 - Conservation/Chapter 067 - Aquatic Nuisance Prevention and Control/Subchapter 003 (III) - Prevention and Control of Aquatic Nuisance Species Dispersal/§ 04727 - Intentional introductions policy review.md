@@ -6,7 +6,7 @@ Within one year of November 29, 1990, the Task Force shall, in consultation with
 
 #### Amendments
 
-1996—Pub. L. 104–332, §2(h)(1), made technical amendment to Pub. L. 101–646, §1207, which enacted this section.
+<b>1996</b>—Pub. L. 104–332, §2(h)(1), made technical amendment to Pub. L. 101–646, §1207, which enacted this section.
 
 Pub. L. 104–332, §2(g), substituted “Congress” for “appropriate Committees”.
 

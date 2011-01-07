@@ -40,7 +40,7 @@
 
 #### (2) Attribution of income
 
-&emsp;In determining the income of an institutionalized spouse or community spouse for purposes of the post-eligibility income determination described in subsection (d) of this section, except as otherwise provided in thissection and regardless of any State laws relating to community property or the division of marital property, the following rules apply:
+&emsp;In determining the income of an institutionalized spouse or community spouse for purposes of the post-eligibility income determination described in subsection (d) of this section, except as otherwise provided in this section and regardless of any State laws relating to community property or the division of marital property, the following rules apply:
 
 #### (A) Non-trust property
 
@@ -84,7 +84,7 @@
 
 &emsp;&emsp;&emsp;(i) the total value of the resources to the extent either the institutionalized spouse or the community spouse has an ownership interest, and
 
-&emsp;&emsp;&emsp;(ii) a spousal share which is equal to 1/2 of such total value.
+&emsp;&emsp;&emsp;(ii) a spousal share which is equal to ½ of such total value.
 
 #### (B) Assessment
 
@@ -100,7 +100,7 @@
 
 #### (3) Assignment of support rights
 
-&emsp;The institutionalized spouse shall not be ineligible by reason of resources determined under paragraph (2) to be available for the cost of care where—
+&emsp;The institutionalized spouse shall not be ineligible by reason of resources determinedunder paragraph (2) to be available for the cost of care where—
 
 &emsp;&emsp;(A) the institutionalized spouse has assigned to the State any rights to support from the community spouse;
 
@@ -182,7 +182,7 @@
 
 #### (5) Court ordered support
 
-&emsp;If a court has entered an order against an institutionalized spouse for monthly income forthe support of the community spouse, the community spouse monthly income allowance for the spouse shall be not less than the amount of the monthly income so ordered.
+&emsp;If a court has entered an order against an institutionalized spouse for monthly income for the support of the community spouse, the community spouse monthly income allowance for the spouse shall be not less than the amount of the monthly income so ordered.
 
 #### (6) Application of “income first” rule to revision of community spouse resource allowance
 
@@ -284,19 +284,19 @@ A prior section 1924 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 #### Amendments
 
-2008—Subsec. (d)(4)(B). Pub. L. 110–246, §4002(b)(1)(B), (2)(V), made technical amendment to reference in original act which appears in text as reference to section 2014(e) of title 7.
+<b>2008</b>—Subsec. (d)(4)(B). Pub. L. 110–246, §4002(b)(1)(B), (2)(V), made technical amendment to reference in original act which appears in text as reference to section 2014(e) of title 7.
 
-2006—Subsec. (d)(6). Pub. L. 109–171 added par. (6).
+<b>2006</b>—Subsec. (d)(6). Pub. L. 109–171 added par. (6).
 
-1997—Subsec. (a)(5). Pub. L. 105–33, in heading substituted “under PACE programs” for “from organizations receiving certain waivers” and in text substituted “under a PACE demonstration waiver program (as defined in section 1396u–4(a)(7) of this title) or under a PACE program under section 1396u–4 or 1395eee of this title.” for “from any organization receiving a frail elderly demonstration project waiver under section 9412(b) of the Omnibus Budget Reconciliation Act of 1986 or a waiver under section 603(c) of the Social Security Amendments of 1983.”
+<b>1997</b>—Subsec. (a)(5). Pub. L. 105–33, in heading substituted “under PACE programs” for “from organizations receiving certain waivers” and in text substituted “under a PACE demonstration waiver program (as defined in section 1396u–4(a)(7) of this title) or under a PACE program under section 1396u–4 or 1395eee of this title.” for “from any organization receiving a frail elderly demonstration project waiver under section 9412(b) of the Omnibus Budget Reconciliation Act of 1986 or a waiver under section 603(c) of the Social Security Amendments of 1983.”
 
-1994—Subsec. (d)(3)(A)(i). Pub. L. 103–252 substituted “section 9902(2)” for “sections 9847 and 9902(2)”.
+<b>1994</b>—Subsec. (d)(3)(A)(i). Pub. L. 103–252 substituted “section 9902(2)” for “sections 9847 and 9902(2)”.
 
-1993—Subsec. (a)(5). Pub. L. 103–66, §13643(c)(1), substituted “1986 or a waiver under section 603(c) of the Social Security Amendments of 1983” for “1986”.
+<b>1993</b>—Subsec. (a)(5). Pub. L. 103–66, §13643(c)(1), substituted “1986 or a waiver under section 603(c) of the Social Security Amendments of 1983” for “1986”.
 
 Subsec. (b)(2)(B)(i). Pub. L. 103–66, §13611(d)(2), substituted “1396p(d) of this title” for “1396a(k) of this title”.
 
-1990—Subsec. (a)(5). Pub. L. 101–508, §4744(b)(1), added par. (5).
+<b>1990</b>—Subsec. (a)(5). Pub. L. 101–508, §4744(b)(1), added par. (5).
 
 Subsec. (b)(2). Pub. L. 101–508, §4714(a), substituted “for purposes of the post-eligibility income determination described in subsection (d) of this section” for “, after the institutionalized spouse has been determined or redetermined to be eligible for medical assistance”.
 
@@ -304,9 +304,9 @@ Subsec. (c)(1). Pub. L. 101–508, §4714(c), substituted “the beginning of th
 
 Subsec. (f)(1). Pub. L. 101–508, §4714(b), substituted “section 1396p(c)(1)” for “section 1396p”.
 
-1989—Subsecs. (b)(2), (d)(1). Pub. L. 101–239 inserted “or redetermined” after “determined”.
+<b>1989</b>—Subsecs. (b)(2), (d)(1). Pub. L. 101–239 inserted “or redetermined” after “determined”.
 
-1988—Subsec. (c)(1)(B). Pub. L. 100–485, §608(d)(16)(A)(i), substituted “will have a right to a fair hearing under subsection (e)(2) of this section” for “has right to a fair hearing under subsection (e)(2)(E) of this section with respect to the determination of the community spouse resource allowance, to provide for an allowance adequate to raise the spouse's income to the minimum monthly maintenance needs allowance”.
+<b>1988</b>—Subsec. (c)(1)(B). Pub. L. 100–485, §608(d)(16)(A)(i), substituted “will have a right to a fair hearing under subsection (e)(2) of this section” for “has right to a fair hearing under subsection (e)(2)(E) of this section with respect to the determination of the community spouse resource allowance, to provide for an allowance adequate to raise the spouse's income to the minimum monthly maintenance needs allowance”.
 
 Subsec. (c)(2)(B). Pub. L. 100–485, §608(d)(16)(A)(ii), substituted “resources shall be considered to be available to an institutionalized spouse, but only to the extent that the amount of such resources exceeds” for “resources shall not be considered to be available to an institutionalized spouse, to the extent that the amount of such resources does not exceed”.
 
@@ -371,4 +371,8 @@ Section 303(g) of Pub. L. 100–360, as amended by Pub. L. 100–485, title VI, 
 “(5) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this section (other than paragraphs (1) and (5) of subsection (e) \[amending section 1396a of this title\]), the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.
 
 “(6) The amendments made by paragraphs (1) and (5) of subsection (e) \[amending section 1396a of this title\] shall apply to medical assistance furnished on or after October 1, 1982.”
+
+#### Protection for Recipients of Home and Community-Based Services Against Spousal Impoverishment
+
+Pub. L. 111–148, title II, §2404, Mar. 23, 2010, 124 Stat. 305, provided that: “During the 5-year period that begins on January 1, 2014, section 1924(h)(1)(A) of the Social Security Act (42 U.S.C. 1396r–5(h)(1)(A)) shall be applied as though ‘is eligible for medical assistance for home and community-based services provided under subsection (c), (d), or (i) of section 1915 \[42 U.S.C. 1396n\], under a waiver approved under section 1115 \[42 U.S.C. 1315\], or who is eligible for such medical assistance by reason of being determined eligible under section 1902(a)(10)(C) \[42 U.S.C. 1396a(a)(10)(C)\] or by reason of section 1902(f) \[42 U.S.C. 1396a(f)\] or otherwise on the basis of a reduction of income based on costs incurred for medical or other remedial care, or who is eligible for medical assistance for home and community-based attendant services and supports under section 1915(k) \[42 U.S.C. 1396n(k)\]’ were substituted in such section for ‘(at the option of the State) is described in section 1902(a)(10)(A)(ii)(VI) \[42 U.S.C. 1396a(a)(10)(A)(ii)(VI)\]’.”
 

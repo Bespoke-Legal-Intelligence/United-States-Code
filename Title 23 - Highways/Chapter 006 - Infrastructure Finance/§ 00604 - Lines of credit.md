@@ -62,7 +62,7 @@ Rights of third-party creditors.—
 
 &emsp;&emsp;(A)
 
-Against federal government.—A third-party creditor of the obligor shall not have any right against the Federal Government with respect to any draw on the line of credit.
+Against federal government.—A third-party creditor of the obligor shall nothave any right against the Federal Government with respect to any draw on the line of credit.
 
 &emsp;&emsp;(B)
 
@@ -96,7 +96,7 @@ Timing.—All repayments of principal or interest on a direct loan under this se
 
 #### Amendments
 
-2005—Pub. L. 109–59, §1602(d), renumbered section 184 of this title as this section.
+<b>2005</b>—Pub. L. 109–59, §1602(d), renumbered section 184 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 109–59, §1602(b)(4)(A), substituted “602” for “182”.
 

@@ -12,7 +12,7 @@
 
 &emsp;(5) will provide for the maintenance of said highway after its completion in condition adequately to serve the needs of present and future traffic.
 
-(b) The survey and construction work authorized by this section shall be under the administration of the Secretary, who shall consult with the appropriate officials of the Department of State with respect to matters involving the foreign relations of this Government, and such negotiations with the Governments of the American Republics named in subsection (a) of thissection as may be required to carry out the purposes of this section shall be conducted through, or as authorized by, the Department of State.
+(b) The survey and construction work authorized by this section shall be under the administration of the Secretary, who shall consult with the appropriate officials of the Department of State with respect to matters involving the foreign relations of this Government, and such negotiations with the Governments of the American Republics named in subsection (a) of this section as may be required to carry out the purposes of this section shall be conducted through, or as authorized by, the Department of State.
 
 (c) The provisions of this section shall not create nor authorize the creation of any obligations on the part of the Government of the United States with respect to any expenditures for highway construction or survey heretofore or hereafter undertaken in any of the countries enumerated in subsection (a) of this section, other than the expenditures authorized by the provisions of this section.
 

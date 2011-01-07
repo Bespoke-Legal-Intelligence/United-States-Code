@@ -30,7 +30,7 @@ For definition of Canal Zone, referred to in subsec. (h), see section 3602(b) of
 
 #### Amendments
 
-1972—Subsec. (h). Pub. L. 92–359 inserted provision that new automobiles delivered to ultimate purchasers within the United States and other enumerated areas shall be deemed to have been distributed in commerce.
+<b>1972</b>—Subsec. (h). Pub. L. 92–359 inserted provision that new automobiles delivered to ultimate purchasers within the United States and other enumerated areas shall be deemed to have been distributed in commerce.
 
 #### Effective Date
 

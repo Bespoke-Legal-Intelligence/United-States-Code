@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1997—Pub. L. 105–34, title II, §226(a), Aug. 5, 1997, 111 Stat. 820, added part IV heading and item 1397E. Former part IV, consisting of section 1397D, redesignated V.
+<b>1997</b>—Pub. L. 105–34, title II, §226(a), Aug. 5, 1997, 111 Stat. 820, added part IV heading and item 1397E. Former part IV, consisting of section 1397D, redesignated V.
 
 
 ---

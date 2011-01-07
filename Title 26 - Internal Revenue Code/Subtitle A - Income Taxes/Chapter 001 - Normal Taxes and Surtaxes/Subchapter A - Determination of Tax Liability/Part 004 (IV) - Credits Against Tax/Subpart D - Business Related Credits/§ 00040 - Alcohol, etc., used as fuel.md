@@ -146,6 +146,16 @@ For purposes of this section, and except as provided in subsection (h)—
 
 &emsp;&emsp;&emsp;Such term shall not include any alcohol with a proof of less than 150. The determination of the proof of any alcohol shall be made without regard to any added denaturants.
 
+#### (iii) Exclusion of certain fuels
+
+&emsp;&emsp;&emsp;The term “cellulosic biofuel” shall not include any fuel if—
+
+&emsp;&emsp;&emsp;&emsp;(I) more than 4 percent of such fuel (determined by weight) is any combination of water and sediment,
+
+&emsp;&emsp;&emsp;&emsp;(II) the ash content of such fuel is more than 1 percent (determined by weight), or
+
+&emsp;&emsp;&emsp;&emsp;(III) such fuel has an acid number greater than 25.
+
 #### (F) Allocation of cellulosic biofuel producer credit to patrons of cooperative
 
 &emsp;&emsp;Rules similar to the rules under subsection (g)(6) shall apply for purposes of this paragraph.
@@ -236,7 +246,7 @@ For purposes of this section—
 
 #### (4) Volume of alcohol
 
-&emsp;For purposes of determining under subsection (a) the number of gallons of alcohol with respect to which a credit is allowable under subsection (a), the volume of alcohol shall include the volume of any denaturant (including gasoline) which is added under any formulas approved by the Secretary to the extent that such denaturants do not exceed 2 percent of the volume of such alcohol (including denaturants).
+&emsp;For purposes of determining under subsection (a) the number of gallons of alcohol with respect to which a credit is allowable under subsection (a), the volume of alcohol shall include the volume of any denaturant (including gasoline) which is added under any formulas approved by the Secretary to the extent that such denaturants do not exceed 2percent of the volume of such alcohol (including denaturants).
 
 #### (5) Pass-thru in the case of estates and trusts
 
@@ -256,9 +266,9 @@ For purposes of this section—
 
 &emsp;This section shall not apply to any sale or use—
 
-&emsp;&emsp;(A) for any period after December 31, 2010, or
+&emsp;&emsp;(A) for any period after December 31, 2011, or
 
-&emsp;&emsp;(B) for any period before January 1, 2011, during which the rates of tax under section 4081(a)(2)(A) are 4.3 cents per gallon.
+&emsp;&emsp;(B) for any period before January 1, 2012, during which the rates of tax under section 4081(a)(2)(A) are 4.3 cents per gallon.
 
 #### (2) No carryovers to certain years after expiration
 
@@ -300,7 +310,7 @@ For purposes of this section—
 
 #### (4) Allocation
 
-&emsp;For purposes of this subsection, in the case of a facility in which more than 1 person hasan interest, productive capacity shall be allocated among such persons in such manner as the Secretary may prescribe.
+&emsp;For purposes of this subsection, in the case of a facility in which more than 1 person has an interest, productive capacity shall be allocated among such persons in such manner as the Secretary may prescribe.
 
 #### (5) Regulations
 
@@ -320,7 +330,7 @@ For purposes of this section—
 
 #### (ii) Form and effect of election
 
-&emsp;&emsp;&emsp;An election under clause (i) for any taxable year shall be made on a timely filed return for such year. Such election, once made, shall be irrevocable for such taxable year. Such election shall not take effect unless the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section 1382(d).
+&emsp;&emsp;&emsp;An election under clause (i) for any taxable year shall be made on a timely filedreturn for such year. Such election, once made, shall be irrevocable for such taxable year. Such election shall not take effect unless the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section 1382(d).
 
 #### (B) Treatment of organizations and patrons
 
@@ -346,7 +356,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;In the case of any alcohol mixture credit or alcohol credit with respect to any sale or use of alcohol which is ethanol during calendar years 2001 through 2010—
+&emsp;In the case of any alcohol mixture credit or alcohol credit with respect to any sale or use of alcohol which is ethanol during calendar years 2001 through 2011—
 
 &emsp;&emsp;(A) subsections (b)(1)(A) and (b)(2)(A) shall be applied by substituting “the blender amount” for “60 cents”,
 
@@ -365,7 +375,7 @@ For purposes of this section—
 | 2001 or 2002 | &nbsp;53 cents | 39\.26 cents&nbsp;&nbsp; |
 | 2003 or 2004 | &nbsp;52 cents | 38\.52 cents&nbsp;&nbsp; |
 | 2005, 2006, 2007, or 2008 | &nbsp;51 cents | 37\.78 cents&nbsp;&nbsp; |
-| 2009 through 2010 | &nbsp;45 cents | 33\.33 cents. |
+| 2009 through 2011 | &nbsp;45 cents | 33\.33 cents. |
 
 #### (3) Reduction delayed until annual production or importation of 7,500,000,000 gallons
 
@@ -377,7 +387,7 @@ For purposes of this section—
 
 &emsp;&emsp;A determination described in this subparagraph with respect to any calendar year is a determination, in consultation with the Administrator of the Environmental Protection Agency, that an amount less than 7,500,000,000 gallons of ethanol (including cellulosic ethanol) has been produced in or imported into the United States in such year.
 
-(Added Pub. L. 96–223, title II, §232(b)(1), Apr. 2, 1980, 94 Stat. 273, §44E; amended Pub. L. 97–34, title II §207(c)(3), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–354, §5(a)(2), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–424, title V, §511(b)(2), (d)(3), Jan. 6, 1983, 96 Stat. 2170, 2171; renumbered §40 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(k), title IX, §§912(c), (f), 913(b), July 18, 1984, 98 Stat.826, 832, 1007, 1008; Pub. L. 100–203, title X, §10502(d)(1), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, §11502(a)–(f), Nov. 5, 1990, 104 Stat. 1388–480 to 1388–482; Pub. L. 104–188, title I, §1703(j), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–178, title IX, §9003(a)(3), (b)(1), June 9, 1998, 112 Stat. 502; Pub. L. 108–357, title III, §§301(c)(1)–(4), 313(a), Oct. 22, 2004, 118 Stat. 1461, 1467; Pub. L. 109–58, title XIII, §1347(a), (b), Aug. 8, 2005, 119 Stat. 1056; Pub. L. 110–234, title XV, §§15321(a)–(b)(2), (3)(B), (c)–(e), 15331(a), 15332(a), May 22, 2008, 122 Stat. 1512–1516; Pub. L. 110–246, §4(a), title XV, §§15321(a)–(b)(2), (3)(B), (c)–(e), 15331(a), 15332(a), June 18, 2008, 122 Stat. 1664, 2274–2278; Pub. L. 110–343, div. B, title II, §203(a), Oct. 3, 2008, 122 Stat. 3833.)
+(Added Pub. L. 96–223, title II, §232(b)(1), Apr. 2, 1980, 94 Stat. 273, §44E; amended Pub. L. 97–34, title II §207(c)(3), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–354, §5(a)(2), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–424, title V, §511(b)(2), (d)(3), Jan. 6, 1983, 96 Stat. 2170, 2171; renumbered §40 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(k), title IX, §§912(c), (f), 913(b), July 18, 1984, 98 Stat. 826, 832, 1007, 1008; Pub. L. 100–203, title X, §10502(d)(1), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, §11502(a)–(f), Nov. 5, 1990, 104 Stat. 1388–480 to 1388–482; Pub. L. 104–188, title I, §1703(j), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–178, title IX, §9003(a)(3), (b)(1), June 9, 1998, 112 Stat. 502; Pub. L. 108–357, title III, §§301(c)(1)–(4), 313(a), Oct. 22, 2004, 118 Stat. 1461, 1467; Pub. L. 109–58, title XIII, §1347(a), (b), Aug. 8, 2005, 119 Stat. 1056; Pub. L. 110–234, title XV, §§15321(a)–(b)(2), (3)(B), (c)–(e), 15331(a), 15332(a), May 22, 2008, 122 Stat. 1512–1516; Pub. L. 110–246, §4(a), title XV, §§15321(a)–(b)(2), (3)(B), (c)–(e), 15331(a), 15332(a), June 18, 2008, 122 Stat. 1664, 2274–2278; Pub. L. 110–343, div. B, title II, §203(a), Oct. 3, 2008, 122 Stat. 3833; Pub. L. 111–152, title I, §1408(a), Mar. 30, 2010, 124 Stat. 1067; Pub. L. 111–240, title II, §2121(a), Sept. 27, 2010, 124 Stat. 2567; Pub. L. 111–312, title VII, §708(a)(1), (2), Dec. 17, 2010, 124 Stat. 3312.)
 
 #### Codification
 
@@ -391,7 +401,19 @@ Another prior section 40 was renumbered section 37 of this title.
 
 #### Amendments
 
-2008—Pub. L. 110–246, §15321(b)(3)(B), inserted “, etc.,” after “Alcohol” in section catchline.
+<b>2010</b>—Subsec. (b)(6)(E)(iii). Pub. L. 111–240, §2121(a)(4), substituted “certain” for “unprocessed” in heading.
+
+Pub. L. 111–152 added cl. (iii).
+
+Subsec. (b)(6)(E)(iii)(III). Pub. L. 111–240, §2121(a)(1)–(3), added subcl. (III).
+
+Subsec. (e)(1)(A). Pub. L. 111–312, §708(a)(1)(A), substituted “December 31, 2011” for “December 31, 2010”.
+
+Subsec. (e)(1)(B). Pub. L. 111–312, §708(a)(1)(B), substituted “January 1, 2012” for “January 1, 2011”.
+
+Subsec. (h)(1), (2). Pub. L. 111–312, §708(a)(2), substituted “2011” for “2010”.
+
+<b>2008</b>—Pub. L. 110–246, §15321(b)(3)(B), inserted “, etc.,” after “Alcohol” in section catchline.
 
 Subsec. (a)(4). Pub. L. 110–246, §15321(a), added par. (4).
 
@@ -421,11 +443,11 @@ Subsec. (h)(2). Pub. L. 110–246, §15331(a)(1), in table, substituted “2005,
 
 Subsec. (h)(3). Pub. L. 110–246, §15331(a)(2), added par. (3).
 
-2005—Subsec. (g)(1), (2), (5)(A). Pub. L. 109–58, §1347(a), substituted “60,000,000” for “30,000,000”.
+<b>2005</b>—Subsec. (g)(1), (2), (5)(A). Pub. L. 109–58, §1347(a), substituted “60,000,000” for “30,000,000”.
 
 Subsec. (g)(6)(A)(ii). Pub. L. 109–58, §1347(b), inserted at end “Such election shall not take effect unless the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section 1382(d).”
 
-2004—Subsec. (c). Pub. L. 108–357, §301(c)(1), substituted “section 4041(b)(2), section 6426, or section 6427(e)” for “subsection (b)(2), (k), or (m) of section 4041, section 4081(c), or section 4091(c)”.
+<b>2004</b>—Subsec. (c). Pub. L. 108–357, §301(c)(1), substituted “section 4041(b)(2), section 6426, or section 6427(e)” for “subsection (b)(2), (k), or (m) of section 4041, section 4081(c), or section 4091(c)”.
 
 Subsec. (d)(4). Pub. L. 108–357, §301(c)(2), reenacted heading without change and amended text of par. (4) generally, substituting provisions relating to determination of the number of gallons of alcohol with respect to which a credit is allowable under subsec. (a) for provisions relating to determination of the number of gallons of alcohol with respect to which a credit is allowable under subsec. (a) or the percentage of any mixture which consists of alcohol under section 4041(k) or 4081(c).
 
@@ -439,7 +461,7 @@ Subsec. (h)(1). Pub. L. 108–357, §301(c)(4)(A), substituted “2010” for �
 
 Subsec. (h)(2). Pub. L. 108–357, §301(c)(4)(B), substituted “through 2010” for “, 2006, or 2007” in table.
 
-1998—Subsec. (e)(1). Pub. L. 105–178, §9003(a)(3), substituted “December 31, 2007” for “December 31, 2000” in subpar. (A) and “January 1, 2008” for “January 1, 2001” in subpar. (B).
+<b>1998</b>—Subsec. (e)(1). Pub. L. 105–178, §9003(a)(3), substituted “December 31, 2007” for “December 31, 2000” in subpar. (A) and “January 1, 2008” for “January 1, 2001” in subpar. (B).
 
 Subsec. (h). Pub. L. 105–178, §9003(b)(1), reenacted heading without change and amended text of subsec. (h) generally. Prior to amendment, text read as follows: “In the case of any alcohol mixture credit or alcohol credit with respect to any alcohol which is ethanol—
 
@@ -449,9 +471,9 @@ Subsec. (h). Pub. L. 105–178, §9003(b)(1), reenacted heading without change a
 
 &emsp;“(3) subparagraphs (A) and (B) of subsection (d)(3) shall be applied by substituting ‘54 cents’ for ‘60 cents’ and ‘40 cents’ for ‘45 cents’.”
 
-1996—Subsec. (e)(1)(B). Pub. L. 104–188 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “for any period before January 1, 2001, during which the Highway Trust Fund financing rate under section 4081(a)(2) is not in effect.”
+<b>1996</b>—Subsec. (e)(1)(B). Pub. L. 104–188 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “for any period before January 1, 2001, during which the Highway Trust Fund financing rate under section 4081(a)(2) is not in effect.”
 
-1990—Subsec. (a)(2). Pub. L. 101–508, §11502(a)(1), substituted “, plus” for period at end.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–508, §11502(a)(1), substituted “, plus” for period at end.
 
 Subsec. (a)(3). Pub. L. 101–508, §11502(a)(2), added par. (3).
 
@@ -469,9 +491,9 @@ Subsec. (g). Pub. L. 101–508, §11502(c), added subsec. (g).
 
 Subsec. (h). Pub. L. 101–508, §11502(e)(1), added subsec. (h).
 
-1987—Subsec. (c). Pub. L. 100–203 substituted “, section 4081(c), or section 4091(c)” for “or section 4081(c)”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–203 substituted “, section 4081(c), or section 4091(c)” for “or section 4081(c)”.
 
-1984—Pub. L. 98–369, §471(c), renumbered section 44E of this title as this section.
+<b>1984</b>—Pub. L. 98–369, §471(c), renumbered section 44E of this title as this section.
 
 Subsec. (a). Pub. L. 98–369, §474(k)(1), substituted “For purposes of section 38, the alcohol fuels credit determined under this section for the taxable year is an amount equal to the sum of” for “There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of” in introductory provisions.
 
@@ -499,7 +521,7 @@ Subsec. (e)(2). Pub. L. 98–369, §474(k)(5), substituted “section 39 by reas
 
 Subsec. (f). Pub. L. 98–369, §474(k)(6), added subsec. (f). Former subsec. (f) redesignated (e).
 
-1983—Subsec. (b)(1)(A), (2)(A). Pub. L. 97–424, §511(d)(3)(A), substituted “50 cents” for “40 cents”.
+<b>1983</b>—Subsec. (b)(1)(A), (2)(A). Pub. L. 97–424, §511(d)(3)(A), substituted “50 cents” for “40 cents”.
 
 Subsec. (b)(3). Pub. L. 97–424, §511(d)(3), substituted “50 cents” for “40 cents” and “37.5 cents” for “30 cents”.
 
@@ -507,9 +529,17 @@ Subsec. (c). Pub. L. 97–424, §511(b)(2), substituted “subsection (b)(2) or 
 
 Subsec. (d)(3)(A), (B). Pub. L. 97–424, §511(d)(3), substituted “50 cents” for “40 cents” and “37.5 cents” for “30 cents”.
 
-1982—Subsec. (d)(5). Pub. L. 97–354 substituted “Pass-thru in the case of estates and trusts” for “Pass-through in the case of subchapter S corporations, etc.” in par. heading, and substituted provisions relating to the applicability of rules similar to rules of subsec. (d) of section 52 for provisions relating to the applicability of rules similar to rules of subsecs. (d) and (e) of section 52.
+<b>1982</b>—Subsec. (d)(5). Pub. L. 97–354 substituted “Pass-thru in the case of estates and trusts” for “Pass-through in the case of subchapter S corporations, etc.” in par. heading, and substituted provisions relating to the applicability of rules similar to rules of subsec. (d) of section 52 for provisions relating to the applicability of rules similar to rules of subsecs. (d) and (e) of section 52.
 
-1981—Subsec. (e)(2)(A). Pub. L. 97–34 substituted “15” for “7” in two places, and “14” for “6” in one place.
+<b>1981</b>—Subsec. (e)(2)(A). Pub. L. 97–34 substituted “15” for “7” in two places, and “14” for “6” in one place.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title VII, §708(a)(3), Dec. 17, 2010, 124 Stat. 3312, provided that: “The amendments made by this subsection \[amending this section\] shall apply to periods after December 31, 2010.”
+
+Pub. L. 111–240, title II, §2121(b), Sept. 27, 2010, 124 Stat. 2567, provided that: “The amendments made by this section \[amending this section\] shall apply to fuels sold or used on or after January 1, 2010.”
+
+Pub. L. 111–152, title I, §1408(b), Mar. 30, 2010, 124 Stat. 1067, provided that: “The amendment made by this section \[amending this section\] shall apply to fuels sold or used on or after January 1, 2010.”
 
 #### Effective Date of 2008 Amendment
 
@@ -573,7 +603,7 @@ Section 11502(h) of Pub. L. 101–508 provided that:
 
 #### Effective Date of 1987 Amendment
 
-Section 10502(e) of Pub. L. 100–203 provided that: “The amendments made by this section \[enacting sections 4091 to 4093 of this title, amending this section and sections 4041, 4081, 4101, 4221, 6206, 6416, 6421, 6427, 6652, 9502, 9503, and 9508 of this title, and enacting provisions set out as notes under sections 4091 and 9502 of this title\] shall apply to sales after March 31, 1988.”
+Section 10502(e) of Pub. L. 100–203 provided that: “The amendments made by this section \[enacting sections 4091 to 4093 of this title, amending this section and sections 4041, 4081, 4101, 4221, 6206, 6416, 6421, 6427, 6652, 9502,9503, and 9508 of this title, and enacting provisions set out as notes under sections 4091 and 9502 of this title\] shall apply to sales after March 31, 1988.”
 
 #### Effective Date of 1984 Amendment
 

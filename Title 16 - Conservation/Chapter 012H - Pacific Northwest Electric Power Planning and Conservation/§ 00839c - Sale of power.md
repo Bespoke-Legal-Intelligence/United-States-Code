@@ -66,7 +66,7 @@ No resale.—A public body or cooperative to which a joint operating entity sell
 
 &emsp;(A) the cost of additional resources in an amount sufficient to serve any new large single load of the utility;
 
-&emsp;(B) the cost of additional resources in an amount sufficient to meet any additional loadoutside the region occurring after December 5, 1980; and
+&emsp;(B) the cost of additional resources in an amount sufficient to meet any additional load outside the region occurring after December 5, 1980; and
 
 &emsp;(C) any costs of any generating facility which is terminated prior to initial commercial operation.
 
@@ -96,7 +96,7 @@ No resale.—A public body or cooperative to which a joint operating entity sell
 
 (C)(i) Where a new contract is offered in accordance with subsection (g) of this section to any existing direct service industrial customer which has not received electric power prior to December 5, 1980, from the Administrator pursuant to a contract with the Administrator existing on December 5, 1980, electric power delivered under such new contract shall be conditioned on the Administrator reasonably acquiring, in accordance with this chapter and within such estimated period of time (as specified in the contract) as he deems reasonable, sufficient resources to meet, on a planning basis, the load requirement of such customer. Such contract shall also provide that the obligation of the Administrator to acquire such resources to meet such load requirement shall, except as provided in clause (ii) of this subparagraph, apply only to such customer and shall not be sold or exchanged by such customer to any other person.
 
-(ii) Rights under a contract described in clause (i) of this subparagraph may be transferred by an existing direct service industrial customer referred to in clause (i) to a successor in interest in connection with a reorganization or other transfer of all major assets of such customer. Following such a transfer, such successor in interest (or any other subsequent successor in interest) may also transfer rights under such a contract only in connection with a reorganization or other transfer of all assets of such successor in interest.
+(ii) Rights under a contract described in clause (i) of this subparagraph may be transferred by an existing direct service industrial customer referred to in clause (i) to a successor in interest in connection with a reorganization or othertransfer of all major assets of such customer. Following such a transfer, such successor in interest (or any other subsequent successor in interest) may also transfer rights under such a contract only in connection with a reorganization or other transfer of all assets of such successor in interest.
 
 (iii) The limitations of clause (i) of this subparagraph shall not apply to any customer referred to in clause (i) whenever the Administrator determines that such customer is receiving electric power pursuant to a contract referred to in such clause (ii).
 
@@ -114,11 +114,11 @@ No resale.—A public body or cooperative to which a joint operating entity sell
 
 (2) Any contractual entitlement to firm power which is based on electric power acquired from, or on behalf of, a customer pursuant to section 839d of this title shall be in addition to any other contractual entitlement to firm power not subject to restriction that such customer may have under this section. For the purposes of this subsection, references to amounts of power acquired by the Administrator pursuant to section 839d of this title shall be deemed to mean the amounts specified in the resource acquisition contracts exclusive of any amounts recognized in such contracts as replacement for Federal base system resources.
 
-(3) The Administrator shall, consistent with the provisions of this chapter, insure that any restrictions upon any particular customer class made pursuant to this subsection and subsection\(b) of this section are distributed equitably throughout the region.
+(3) The Administrator shall, consistent with the provisions of this chapter, insure that any restrictions upon any particular customer class made pursuant to this subsection and subsection (b) of this section are distributed equitably throughout the region.
 
 #### (f) Surplus power
 
-The Administrator is authorized to sell, or otherwise dispose of, electric power, including power acquired pursuant to this and other Acts, that is surplus to his obligations incurred pursuant to subsections (b), (c), and (d) of this section in accordance with this and other Acts applicable to the Administrator, including the Bonneville Projects Act of 1937 (16 U.S.C. 832 and following), the Federal Columbia River Transmission System Act (16 U.S.C. 838 and following), and the Act of August 31, 1964 (16 U.S.C. 837–837h).
+The Administrator is authorized to sell, or otherwise dispose of, electric power, including power acquired pursuant to this and other Acts, that is surplus to his obligations incurred pursuant to subsections (b), (c), and (d) of this section in accordance with this and other Acts applicable to the Administrator, including the Bonneville Project Act of 1937 (16 U.S.C. 832 and following), the Federal Columbia River Transmission System Act (16 U.S.C. 838 and following), and the Act of August 31, 1964 (16 U.S.C. 837–837h).
 
 #### (g) Long-term contracts
 
@@ -148,13 +148,13 @@ The Administrator is authorized to sell, or otherwise dispose of, electric power
 
 #### References in Text
 
-The Bonneville Project Act of 1937, referred to in subsecs. (a), (b)(1), and (f), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, as amended, which is classified generally to chapter 12B (§832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables.
+The Bonneville Project Act of 1937, referred to in subsecs. (a), (b)(1), and (f), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, which is classified generally to chapter 12B (§832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables.
 
-The Federal Columbia River Transmission System Act, referred to in subsec. (f), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, as amended, which is classified generally to chapter 12G (§838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
+The Federal Columbia River Transmission System Act, referred to in subsec. (f), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
 
-Act of August 31, 1964, referred to in subsec. (f), is Pub. L. 88–552, Aug. 31, 1964, 78 Stat. 756, as amended, which is classified generally to chapter 12F (§837 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+Act of August 31, 1964, referred to in subsec. (f), is Pub. L. 88–552, Aug. 31, 1964, 78 Stat. 756, which is classified generally to chapter 12F (§837 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-2000—Subsec. (b)(7). Pub. L. 106–273 added par. (7).
+<b>2000</b>—Subsec. (b)(7). Pub. L. 106–273 added par. (7).
 

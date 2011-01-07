@@ -94,7 +94,7 @@ Not later than 30 days after October 30, 2000, the Secretary of Defense shall su
 
 &emsp;(4) A summary of past, current, and planned United States efforts to work cooperatively with Russia to account for, secure, and reduce Russia's stockpile of tactical nuclear warheads and associated fissile material.
 
-(Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1308\], Oct. 30, 2000, 114 Stat. 1654, 1654A–341; Pub. L. 107–107, div. A, title XIII, §§1307, 1309, Dec. 28, 2001, 115 Stat. 1256, 1257; Pub. L. 107–314, div. A,title XIII, §1304(a), Dec. 2, 2002, 116 Stat. 2672; Pub. L. 108–136, div. A, title X, §1045(c)(2), Nov. 24, 2003, 117 Stat. 1613; Pub. L. 109–163, div. A, title XIII, §1305, Jan. 6, 2006, 119 Stat. 3474; Pub. L. 111–84, div. A, title XIII, §1306(b), Oct. 28, 2009, 123 Stat. 2560.)
+(Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1308\], Oct. 30, 2000, 114 Stat. 1654, 1654A–341; Pub. L. 107–107, div. A, title XIII, §§1307, 1309, Dec. 28, 2001, 115 Stat. 1256, 1257; Pub. L. 107–314, div. A, title XIII, §1304(a), Dec. 2, 2002, 116 Stat. 2672; Pub. L. 108–136, div. A, title X, §1045(c)(2), Nov. 24, 2003, 117 Stat. 1613; Pub. L. 109–163, div. A, title XIII, §1305, Jan. 6, 2006, 119 Stat. 3474; Pub. L. 111–84, div. A, title XIII, §1306(b), Oct. 28, 2009, 123 Stat. 2560; Pub. L. 111–383, div. A, title X, §1075(d)(20), Jan. 7, 2011, 124 Stat. 4374.)
 
 #### References in Text
 
@@ -108,17 +108,19 @@ Section was enacted as part of the Floyd D. Spence National Defense Authorizatio
 
 #### Amendments
 
-2009—Subsec. (c)(8). Pub. L. 111–84, §1306(b)(1), inserted “, including under the Defense and Military Contacts program,” after “programs” in introductory provisions.
+<b>2011</b>—Subsec. (c)(8). Pub. L. 111–383 made technical correction to directory language of Pub. L. 111–84, §1306(b). See 2009 Amendment notes below.
 
-Subsec. (c)(8)(B). Pub. L. 111–84, §1306(b)(2), substituted “the strategy” for “the purposes”.
+<b>2009</b>—Subsec. (c)(8). Pub. L. 111–84, §1306(b)(1), as amended by Pub. L. 111–383, inserted “, including under the Defense and Military Contacts program,” after “programs” in introductory provisions.
 
-2006—Subsec. (e). Pub. L. 109–163 struck out heading and text of subsec. (e). Text read as follows: “Not later than 90 days after the date on which a report is submitted to Congress under subsection (a) of this section, the Comptroller General shall submit to Congress a report setting forth the Comptroller General's assessment of the information described in paragraphs (2) and (4) of subsection (c) of this section.”
+Subsec. (c)(8)(B). Pub. L. 111–84, §1306(b)(2), as amended by Pub. L. 111–383, substituted “the strategy” for “the purposes”.
 
-2003—Subsec. (c)(6) to (8). Pub. L. 108–136 redesignated par. (6), relating to description of how revenue is being utilized, monitored, and accounted for, and par. (7), as (7) and (8), respectively.
+<b>2006</b>—Subsec. (e). Pub. L. 109–163 struck out heading and text of subsec. (e). Text read as follows: “Not later than 90 days after the date on which a report is submitted to Congress under subsection (a) of this section, the Comptroller General shall submit to Congress a report setting forth the Comptroller General's assessment of the information described in paragraphs (2) and (4) of subsection (c) of this section.”
 
-2002—Subsec. (c)(6), (7). Pub. L. 107–314 added par. (6), relating to description of how revenue is being utilized, monitored, and accounted for, and par. (7).
+<b>2003</b>—Subsec. (c)(6) to (8). Pub. L. 108–136 redesignated par. (6), relating to description of how revenue is being utilized, monitored, and accounted for, and par. (7), as (7) and (8), respectively.
 
-2001—Subsec. (c)(4). Pub. L. 107–107, §1307(1), in introductory provisions, substituted “means (including program management, audits, examinations, and other means) used” for “audits, examinations, and other efforts, such as on-site inspections, conducted” and “, that such assistance is being used for its intended purpose, and that such assistance is being used efficiently and effectively” for “and that such assistance is being used for its intended purpose”.
+<b>2002</b>—Subsec. (c)(6), (7). Pub. L. 107–314 added par. (6), relating to description of how revenue is being utilized, monitored, and accounted for, and par. (7).
+
+<b>2001</b>—Subsec. (c)(4). Pub. L. 107–107, §1307(1), in introductory provisions, substituted “means (including program management, audits, examinations, and other means) used” for “audits, examinations, and other efforts, such as on-site inspections, conducted” and “, that such assistance is being used for its intended purpose, and that such assistance is being used efficiently and effectively” for “and that such assistance is being used for its intended purpose”.
 
 Subsec. (c)(4)(C). Pub. L. 107–107, §1307(2), inserted “and an assessment of whether the assistance being provided is being used effectively and efficiently” before semicolon.
 
@@ -129,6 +131,10 @@ Subsec. (c)(6). Pub. L. 107–107, §1309, added par. (6).
 #### Change of Name
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–383, div. A, title X, §1075(d), Jan. 7, 2011, 124 Stat. 4372, provided that the amendment by section 1075(d)(20) is effective as of Oct. 28, 2009, and as if included in Pub. L. 111–84 as enacted.
 
 #### Effective Date of 2002 Amendment
 
@@ -180,7 +186,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1301(a), (b)\], Oct. 30, 2000
 
 “(a)
 
-Specification of CTR Programs.—For purposes of section 301 \[114 Stat. 1654A–52\] and other provisionsof this Act \[H.R. 5408, as enacted by section 1 of Pub. L. 106–398, see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note).
+Specification of CTR Programs.—For purposes of section 301 \[114 Stat. 1654A–52\] and other provisions of this Act \[H.R. 5408, as enacted by section 1 of Pub. L. 106–398, see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note).
 
 “(b)
 

@@ -198,7 +198,7 @@ A prior section 481C of act July 1, 1944, was renumbered section 481D and is cla
 
 #### Amendments
 
-2007—Subsec. (d)(2)(J). Pub. L. 110–170, §2(a)(1), struck out at end “If any chimpanzee is removed from a sanctuary facility for purposes of research authorized under paragraph (3)(A)(ii), the chimpanzee shall be returned immediately upon the completion of that research. All costs associated with the removal of the chimpanzee from the facility, with the care of the chimpanzee during such absence from the facility, and with the return of the chimpanzee to the facility shall be the responsibility of the entity that obtains approval under such paragraph regarding use of the chimpanzee and removes the chimpanzee from the sanctuary facility.”
+<b>2007</b>—Subsec. (d)(2)(J). Pub. L. 110–170, §2(a)(1), struck out at end “If any chimpanzee is removed from a sanctuary facility for purposes of research authorized under paragraph (3)(A)(ii), the chimpanzee shall be returned immediately upon the completion of that research. All costs associated with the removal of the chimpanzee from the facility, with the care of the chimpanzee during such absence from the facility, and with the return of the chimpanzee to the facility shall be the responsibility of the entity that obtains approval under such paragraph regarding use of the chimpanzee and removes the chimpanzee from the sanctuary facility.”
 
 Subsec. (d)(3)(A). Pub. L. 110–170, §2(a)(2)(A), substituted “except that the chimpanzee may be used for noninvasive behavioral studies” for “except as provided in clause (i) or (ii), as follows:
 

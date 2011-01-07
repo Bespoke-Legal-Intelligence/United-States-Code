@@ -16,7 +16,7 @@ In determining, for the purposes of this chapter, the price for which an article
 
 &emsp;&emsp;(C) sold (otherwise than through an arm's length transaction) at less than the fair market price,
 
-> &emsp;the tax under this chapter shall (if based on the price for which the article is sold) be computed on the price for which such articles are sold, in the ordinary course of trade, by manufacturers or producers thereof, as determined by the Secretary. In the case of an article sold at retail, the computation under the preceding sentence shall be on whichever of the following prices is the lower: (i) the price for which such article is sold, or (ii) the highest price forwhich such articles are sold to wholesale distributors, in the ordinary course of trade, by manufacturers or producers thereof, as determined by the Secretary. This paragraph shall not apply if paragraph (2) applies.
+> &emsp;the tax under this chapter shall (if based on the price for which the article is sold) be computed on the price for which such articles are sold, in the ordinary course of trade, by manufacturers or producers thereof, as determined by the Secretary. In the case of an article sold at retail, the computation under the preceding sentence shall be on whichever of the following prices is the lower: (i) the price for which such article is sold, or (ii) the highest price for which such articles are sold to wholesale distributors, in the ordinary course of trade, by manufacturers or producers thereof, as determined by the Secretary. This paragraph shall not apply if paragraph (2) applies.
 
 #### (2) Special rule
 
@@ -80,7 +80,7 @@ If installment accounts, with respect to payments on which tax is being computed
 
 &emsp;(1) there shall be paid an amount equal to the difference between (A) the tax previously paid on the payments on such installment accounts, and (B) the total tax which would be payable if such installment accounts had not been sold or otherwise disposed of (computed as provided in subsection (c)); except that
 
-&emsp;(2) if any such sale is pursuant to the order of, or subject to the approval of, a court ofcompetent jurisdiction in a bankruptcy or insolvency proceeding, the amount computed under paragraph (1) shall not exceed the sum of the amounts computed by multiplying (A) the proportionate share of the amount for which such accounts are sold which is allocable to each unpaid installment payment by (B) the rate of tax under this chapter in effect on the date such unpaid installment payment is or was due.
+&emsp;(2) if any such sale is pursuant to the order of, or subject to the approval of, a court of competent jurisdiction in a bankruptcy or insolvency proceeding, the amount computed under paragraph (1) shall not exceed the sum of the amounts computed by multiplying (A) the proportionate share of the amount for which such accounts are sold which is allocable to each unpaid installment payment by (B) the rate of tax under this chapter in effect on the date such unpaid installment payment is or was due.
 
 > The sum of the amounts payable under this subsection and subsection (c) in respect of the sale of any article shall not exceed the total tax.
 
@@ -126,7 +126,7 @@ If installment accounts, with respect to payments on which tax is being computed
 
 #### Amendments
 
-1984—Subsec. (b)(1). Pub. L. 98–369, §735(c)(6)(A), in provisions following subpar. (C) struck out “(other than an article the sale of which is taxable under section 4061(a))” in second sentence, before “the computation under the preceding sentence”, and struck out provision that in the case of an article the sale of which is taxable under section 4061(a) and which is sold at retail, the computation under the first sentence of this paragraph shall be a percentage (not greater than 100 percent) of the actual selling price based on the highest price for which such articles are sold by manufacturers and producers in the ordinary course of trade (determined without regard to any individual manufacturer's or producer's cost).
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369, §735(c)(6)(A), in provisions following subpar. (C) struck out “(other than an article the sale of which is taxable under section 4061(a))” in second sentence, before “the computation under the preceding sentence”, and struck out provision that in the case of an article the sale of which is taxable under section 4061(a) and which is sold at retail, the computation under the first sentence of this paragraph shall be a percentage (not greater than 100 percent) of the actual selling price based on the highest price for which such articles are sold by manufacturers and producers in the ordinary course of trade (determined without regard to any individual manufacturer's or producer's cost).
 
 Subsec. (b)(2)(B) to (D). Pub. L. 98–369, §735(c)(6)(B), inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which related to articles upon which tax is imposed under section 4061(a) of this title.
 
@@ -136,27 +136,27 @@ Subsec. (b)(5), (6). Pub. L. 98–369, §735(c)(6)(C), (E), redesignated par. (6
 
 Subsec. (f). Pub. L. 98–369, §735(c)(6)(F), struck out subsec. (f) which related to certain trucks incorporating used components.
 
-1978—Subsec. (b)(1). Pub. L. 95–458 substituted “article sold at retail (other than an article the sale of which is taxable under section 4061(a)), the computation” for “article sold at retail, the computation” and inserted provision requiring the computation of tax on articles taxable under section 4061(a) which are sold at retail to be a percentage, but not greater than 100% of the actual selling price based on the highest price for which the articles are sold by manufacturers and producers in the ordinary course of trade, determined without regard to individual manufacturer's or producer's cost.
+<b>1978</b>—Subsec. (b)(1). Pub. L. 95–458 substituted “article sold at retail (other than an article the sale of which is taxable under section 4061(a)), the computation” for “article sold at retail, the computation” and inserted provision requiring the computation of tax on articles taxable under section 4061(a) which are sold at retail to be a percentage, but not greater than 100% of the actual selling price based on the highest price for which the articles are sold by manufacturers and producers in the ordinary course of trade, determined without regard to individual manufacturer's or producer's cost.
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (b). Pub. L. 94–455, §§1904(a)(2)(B), 1906(b)(13)(A), struck out “or his delegate” after “Secretary” in two places in par. (1), and substituted “subsections (a) and (e)” for “subsections (a) and (f)” in pars. (3), (4), and (5), after “or readjustments under”.
 
 Subsecs. (d) to (g). Pub. L. 94–455, §1904(a)(2)(A), redesignated subsecs. (e) to (g) as (d) to (f), respectively.
 
-1971—Subsec. (b)(2)(C), (5). Pub. L. 92–178, §401(g)(4)(A), substituted “(relating to trucks, buses, tractor, etc.)” for “(relating to automobiles, trucks, etc.)”.
+<b>1971</b>—Subsec. (b)(2)(C), (5). Pub. L. 92–178, §401(g)(4)(A), substituted “(relating to trucks, buses, tractor, etc.)” for “(relating to automobiles, trucks, etc.)”.
 
 Subsec. (g). Pub. L. 92–178, §401(g)(4)(B), inserted reference to “tractors,” after “buses,”.
 
-1970—Subsec. (b)(3). Pub. L. 91–614, §301(b), substituted “Constructive sale price” for “Fair market price” in heading, “constructive sale price” for “fair market price” three places in text, substituted “paragraphs (4) and (5)” for “paragraph (4)” and “paragraph (1)” for “paragraph (1)(C)”.
+<b>1970</b>—Subsec. (b)(3). Pub. L. 91–614, §301(b), substituted “Constructive sale price” for “Fair market price” in heading, “constructive sale price” for “fair market price” three places in text, substituted “paragraphs (4) and (5)” for “paragraph (4)” and “paragraph (1)” for “paragraph (1)(C)”.
 
 Subsec. (b)(4). Pub. L. 91–614, §301(b)(2), substituted “Constructive sale price” for “Fair market price” in heading, “constructive sale price” for “fair market price” in text, and “paragraph (1)” for “paragraph (1)(C)”.
 
 Subsec. (b)(5), (6). Pub. L. 91–614, §301(a), added pars. (5) and (6).
 
-1969—Subsec. (b)(3), (4). Pub. L. 91–172 added pars. (3) and (4).
+<b>1969</b>—Subsec. (b)(3), (4). Pub. L. 91–172 added pars. (3) and (4).
 
-1965—Subsec. (b)(2). Pub. L. 89–44, §208(a), struck out reference to special dealers and to articles upon which tax is imposed under section 4191 or 4211 of this title.
+<b>1965</b>—Subsec. (b)(2). Pub. L. 89–44, §208(a), struck out reference to special dealers and to articles upon which tax is imposed under section 4191 or 4211 of this title.
 
 Subsec. (b)(3). Pub. L. 89–44, §208(b), struck out par. (3) which related to special dealers.
 
@@ -168,13 +168,13 @@ Subsec. (e)(2). Pub. L. 89–44, §207(b)(2), substituted, as factor (A) in the 
 
 Subsec. (g). Pub. L. 89–44, §801(b), added subsec. (g).
 
-1962—Subsec. (b)(2)(C). Pub. L. 87–858 inserted “in the case of articles upon which tax is imposed under section 4061(a) (relating to automobiles, trucks, etc.), 4191 (relating to business machines), or 4211 (relating to matches),” before “the normal method”.
+<b>1962</b>—Subsec. (b)(2)(C). Pub. L. 87–858 inserted “in the case of articles upon which tax is imposed under section 4061(a) (relating to automobiles, trucks, etc.), 4191 (relating to business machines), or 4211 (relating to matches),” before “the normal method”.
 
 Subsec. (f)(4)(C). Pub. L. 87–770 substituted “, appears in a newspaper or magazine, or is displayed by means of an outdoor advertising sign or poster” for “or appears in a newspaper”.
 
-1960—Subsec. (f). Pub. L. 86–781 added subsec. (f).
+<b>1960</b>—Subsec. (f). Pub. L. 86–781 added subsec. (f).
 
-1958—Subsec. (b). Pub. L. 85–859, §115, inserted provisions in par. (1) requiring, in the case of an article sold at retail, the computation to be on either the price for which the article is sold, or the highest price for which the articles are sold to wholesale distributors, in the ordinary course of trade, by manufacturers or producers thereof, whichever is lower, and added pars. (2) and (3).
+<b>1958</b>—Subsec. (b). Pub. L. 85–859, §115, inserted provisions in par. (1) requiring, in the case of an article sold at retail, the computation to be on either the price for which the article is sold, or the highest price for which the articles are sold to wholesale distributors, in the ordinary course of trade, by manufacturers or producers thereof, whichever is lower, and added pars. (2) and (3).
 
 Subsec. (c). Pub. L. 85–859, §117(b), substituted “section 4217(b)” for “subsection (d)”.
 
@@ -182,7 +182,7 @@ Subsec. (d). Pub. L. 85–859, §117(b), repealed subsec. (d) which related to t
 
 Subsec. (e). Pub. L. 85–859, §116, added subsec. (e).
 
-1955—Subsec. (c)(1). Act Aug. 9, 1955, §1, inserted “(other than a lease to which subsection (d) applies)”.
+<b>1955</b>—Subsec. (c)(1). Act Aug. 9, 1955, §1, inserted “(other than a lease to which subsection (d) applies)”.
 
 Subsec. (d). Act Aug. 9, 1955, §2, added subsec. (d).
 

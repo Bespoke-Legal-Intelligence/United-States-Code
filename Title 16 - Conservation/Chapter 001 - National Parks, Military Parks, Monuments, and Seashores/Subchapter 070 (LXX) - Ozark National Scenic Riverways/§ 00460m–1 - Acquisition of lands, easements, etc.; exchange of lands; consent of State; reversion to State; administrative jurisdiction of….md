@@ -6,5 +6,5 @@ The Secretary may, within the area designated or altered pursuant to section 460
 
 #### Amendments
 
-1972—Pub. L. 92–272 substituted provisions authorizing lands and waters owned by the State of Missouri to be acquired with the consent of the State, subject to reversion to such State conditioned upon the continued use of the property for the National Scenic Riverway, for provisions authorizing lands and waters owned by the State of Missouri to be acquired only with the consent of the State.
+<b>1972</b>—Pub. L. 92–272 substituted provisions authorizing lands and waters owned by the State of Missouri to be acquired with the consent of the State, subject to reversion to such State conditioned upon the continued use of the property for the National Scenic Riverway, for provisions authorizing lands and waters owned by the State of Missouri to be acquired only with the consent of the State.
 

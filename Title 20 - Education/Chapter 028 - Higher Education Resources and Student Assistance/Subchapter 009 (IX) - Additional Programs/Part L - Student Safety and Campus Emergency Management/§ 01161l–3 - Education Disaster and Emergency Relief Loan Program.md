@@ -88,13 +88,11 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### References in Text
 
-This chapter, referred to in subsec. (f)(4), was in the original “this Act”, meaning Pub. L. 89–329, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
-
 Section 209 of the Higher Education Hurricane Relief Act of 2005, referred to in subsec. (g)(2), is section 209 of title IV of div. B of Pub. L. 109–148, 119 Stat. 2808, which is not classified to the Code.
 
 #### Amendments
 
-2009—Subsec. (f)(3)(A). Pub. L. 111–39, §801(7)(A), inserted “a” after “submitting”.
+<b>2009</b>—Subsec. (f)(3)(A). Pub. L. 111–39, §801(7)(A), inserted “a” after “submitting”.
 
 Subsec. (f)(3)(C). Pub. L. 111–39, §801(7)(B), substituted “pursuing” for “pursing”.
 

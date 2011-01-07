@@ -10,7 +10,7 @@ The Administrator shall conduct a study of all Federal laws administered by the 
 
 &emsp;(3) be completed and submitted to Congress within two years from the effective date of enactment of this chapter.
 
-> The General Accounting Office shall review the adequacy of the study submitted to Congresspursuant to paragraph (3) and shall report the results of its review to the Congress within six months of the date such study is submitted to Congress.
+> The General Accounting Office shall review the adequacy of the study submitted to Congress pursuant to paragraph (3) and shall report the results of its review to the Congress within six months of the date such study is submitted to Congress.
 
 #### (b) Classification, storage, and retrieval study
 

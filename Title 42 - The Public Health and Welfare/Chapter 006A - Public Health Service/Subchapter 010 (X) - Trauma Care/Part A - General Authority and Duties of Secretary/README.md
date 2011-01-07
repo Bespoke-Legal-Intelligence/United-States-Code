@@ -10,4 +10,5 @@ Part A—General Authority and Duties of Secretary
 - [&sect; 00300d&#8211;2 - Repealed. Pub. L. 110&#8211;23, &sect;3(1), May 3, 2007, 121 Stat. 90](%C2%A7%2000300d%E2%80%932%20-%20Repealed.%20Pub.%20L.%20110%E2%80%9323%2C%20%C2%A73%281%29%2C%20May%203%2C%202007%2C%20121%20Stat.%2090.md)
 - [&sect; 00300d&#8211;3 - Establishment of programs for improving trauma care in rural areas](%C2%A7%2000300d%E2%80%933%20-%20Establishment%20of%20programs%20for%20improving%20trauma%20care%20in%20rural%20areas.md)
 - [&sect; 00300d&#8211;4 - Emergency medical services](%C2%A7%2000300d%E2%80%934%20-%20Emergency%20medical%20services.md)
-- [&sect; 00300d&#8211;5 - Competitive grants for the improvement of trauma care](%C2%A7%2000300d%E2%80%935%20-%20Competitive%20grants%20for%20the%20improvement%20of%20trauma%20care.md)
+- [&sect; 00300d&#8211;5 - Competitive grants for trauma systems for the improvement of trauma care](%C2%A7%2000300d%E2%80%935%20-%20Competitive%20grants%20for%20trauma%20systems%20for%20the%20improvement%20of%20trauma%20care.md)
+- [&sect; 00300d&#8211;6 - Competitive grants for regionalized systems for emergency care response](%C2%A7%2000300d%E2%80%936%20-%20Competitive%20grants%20for%20regionalized%20systems%20for%20emergency%20care%20response.md)

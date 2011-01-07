@@ -14,13 +14,13 @@ Public Buildings Used for Post Office Purposes.—When any part of a public buil
 
 (d)
 
-Solicitation of Proposals for Sale, Donation, or Exchange of Real Property.—When the Administrator is to acquire a site under subsection (b), the Administrator, if the Administrator considers it necessary, by public advertisement may solicit proposals for the sale, donation, or exchange of real property to the Federal Government to be used as the site. In selecting a site under subsection (b) the Administrator (with the concurrence of the United States Postal Service if any part of the publicbuilding to be constructed on the site is to be used for post office purposes) may—
+Solicitation of Proposals for Sale, Donation, or Exchange of Real Property.—When the Administrator is to acquire a site under subsection (b), the Administrator, if the Administrator considers it necessary, by public advertisement may solicit proposals for the sale, donation, or exchange of real property to the Federal Government to be used as the site. In selecting a site under subsection (b) the Administrator (with the concurrence of the United States Postal Service if any part of the public building to be constructed on the site is to be used for post office purposes) may—
 
 &emsp;(1) select the site that the Administrator believes is the most advantageous to the Government, all factors considered; and
 
-&emsp;(2) acquire the site without regard to title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.).
+&emsp;(2) acquire the site without regard to division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1158; Pub. L. 108–178, §3(1), Dec. 15, 2003, 117 Stat. 2640.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1158; Pub. L. 108–178, §3(1), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 111–350, §5(<i>l</i>)(15), Jan. 4, 2011, 124 Stat. 3852.)
 
 Historical and Revision Notes
 
@@ -52,13 +52,11 @@ Pub. L. 86–249, §§3, 5, Sept. 9, 1959, 73 Stat. 479.
 
 In subsections (c) and (d), the words “United States Postal Service” are substituted for “Postmaster General” in subsections (b) and (c) of section 5 of the Public Buildings Act of 1959 (Public Law 86–249, 73 Stat. 479) because of section 4(a) of the Postal Reorganization Act (Public Law 91–375, 84 Stat. 773).
 
-#### References in Text
-
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d)(2), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
-
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–178 inserted “, by purchase, condemnation, donation, exchange, or otherwise,” after “The Administrator may acquire”.
+<b>2011</b>—Subsec. (d)(2). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
+
+<b>2003</b>—Subsec. (b). Pub. L. 108–178 inserted “, by purchase, condemnation, donation, exchange, or otherwise,” after “The Administrator may acquire”.
 
 #### Effective Date of 2003 Amendment
 

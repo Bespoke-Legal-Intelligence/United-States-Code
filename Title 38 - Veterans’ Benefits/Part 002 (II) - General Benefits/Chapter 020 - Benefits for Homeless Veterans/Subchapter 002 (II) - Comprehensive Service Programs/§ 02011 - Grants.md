@@ -110,7 +110,7 @@ Another prior section 2011 was renumbered section 4102 of this title.
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2006</b>—Subsec. (a). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Pub. L. 109–461, §1004(a)(4), which directed insertion of a period at end of subpar. (C) of par. (1), was executed to par. (3) to reflect the probable intent of Congress and the redesignation of par. (1)(C) as (3) by Pub. L. 109–461, §703(a). See below.
 

@@ -16,9 +16,9 @@ Another prior section 2014 was renumbered section 4105 of this title.
 
 #### Amendments
 
-2008—Pub. L. 110–387 substituted “$150,000,000” for “$130,000,000”.
+<b>2008</b>—Pub. L. 110–387 substituted “$150,000,000” for “$130,000,000”.
 
-2006—Pub. L. 109–461 amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter amounts as follows:
+<b>2006</b>—Pub. L. 109–461 amended text generally. Prior to amendment, text read as follows: “There are authorizedto be appropriated to carry out this subchapter amounts as follows:
 
 &emsp;“(1) $60,000,000 for fiscal year 2002.
 
@@ -28,5 +28,5 @@ Another prior section 2014 was renumbered section 4105 of this title.
 
 &emsp;“(4) $99,000,000 for fiscal year 2005.”
 
-2004—Par. (4). Pub. L. 108–422 substituted “$99,000,000” for “$75,000,000”.
+<b>2004</b>—Par. (4). Pub. L. 108–422 substituted “$99,000,000” for “$75,000,000”.
 

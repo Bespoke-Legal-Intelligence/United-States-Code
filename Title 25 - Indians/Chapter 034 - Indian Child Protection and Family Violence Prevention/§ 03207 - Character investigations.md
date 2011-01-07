@@ -6,7 +6,7 @@ The Secretary and the Secretary of Health and Human Services shall—
 
 &emsp;(1) compile a list of all authorized positions within their respective departments the duties and responsibilities of which involve regular contact with, or control over, Indian children,
 
-&emsp;(2) conduct an investigation of the character of each individual who is employed, or is being considered for employment, by the respectiveSecretary in a position listed pursuant to paragraph (1), and
+&emsp;(2) conduct an investigation of the character of each individual who is employed, or is being considered for employment, by the respective Secretary in a position listed pursuant to paragraph (1), and
 
 &emsp;(3) prescribe by regulations minimum standards of character that each of such individuals must meet to be appointed to such positions.
 
@@ -32,5 +32,5 @@ The Tribally Controlled Schools Act of 1988, referred to in subsec. (c), is part
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–568 substituted “any felonious offense, or any of two or more misdemeanor offenses,” for “any offense” and “crimes against persons; or offenses committed against children” for “or crimes against persons”.
+<b>2000</b>—Subsec. (b). Pub. L. 106–568 substituted “any felonious offense, or any of two or more misdemeanor offenses,” for “any offense” and “crimes against persons; or offenses committed against children” for “or crimes against persons”.
 

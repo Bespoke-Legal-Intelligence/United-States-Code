@@ -10,5 +10,5 @@ Title I–C of the Workforce Investment Act of 1998, referred to in text, probab
 
 #### Codification
 
-Section was enacted as part of the Department of Labor Appropriations Act, 2010, and also as part of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act,2010, and the Consolidated Appropriations Act, 2010, and not as part of title I of the Workforce Investment Act of 1998 which comprises this chapter.
+Section was enacted as part of the Department of Labor Appropriations Act, 2010, and also as part of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2010, and the Consolidated Appropriations Act, 2010, and not as part of title I of the Workforce Investment Act of 1998 which comprises this chapter.
 

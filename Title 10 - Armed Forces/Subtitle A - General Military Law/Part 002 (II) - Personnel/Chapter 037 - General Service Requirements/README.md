@@ -10,21 +10,25 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Repeal of Item
+
+<i>Pub. L. 111–321, §2(b), (f)(1), Dec. 22, 2010, 124 Stat. 3516, provided that, effective on the date established by section 2(b) of Pub. L. 111–321, set out in a note under section 654 of this title, the table of sections for this chapter is amended by striking the item relating to section 654.</i>
+
 #### Amendments
 
-2006—Pub. L. 109–163, div. A, title V, §541(a)(2), Jan. 6, 2006, 119 Stat. 3252, added item 652.
+<b>2006</b>—Pub. L. 109–163, div. A, title V, §541(a)(2), Jan. 6, 2006, 119 Stat. 3252, added item 652.
 
-1996—Pub. L. 104–106, div. A, title V, §569(d)(2), Feb. 10, 1996, 110 Stat. 352, added item 655.
+<b>1996</b>—Pub. L. 104–106, div. A, title V, §569(d)(2), Feb. 10, 1996, 110 Stat. 352, added item 655.
 
-1994—Pub. L. 103–337, div. A, title XVI, §1671(b)(6), Oct. 5, 1994, 108 Stat. 3013, struck out item 652 “Ready Reserves: requirement of notification of change of status”.
+<b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1671(b)(6), Oct. 5, 1994, 108 Stat. 3013, struck out item 652 “Ready Reserves: requirement of notification of change of status”.
 
-1993—Pub. L. 103–160, div. A, title V, §571(a)(2), Nov. 30, 1993, 107 Stat. 1673, added item 654.
+<b>1993</b>—Pub. L. 103–160, div. A, title V, §571(a)(2), Nov. 30, 1993, 107 Stat. 1673, added item 654.
 
-1989—Pub. L. 101–189, div. A, title VI, §634(a)(2), Nov. 29, 1989, 103 Stat. 1454, added item 653.
+<b>1989</b>—Pub. L. 101–189, div. A, title VI, §634(a)(2), Nov. 29, 1989, 103 Stat. 1454, added item 653.
 
-1978—Pub. L. 95–485, title IV, §405(d)(2), Oct. 20, 1978, 92 Stat. 1616, added item 652.
+<b>1978</b>—Pub. L. 95–485, title IV, §405(d)(2), Oct. 20, 1978, 92 Stat. 1616, added item 652.
 
-1958—Pub. L. 85–861, §33(a)(4)(A), Sept. 2, 1958, 72 Stat. 1564, substituted “GENERAL SERVICE REQUIREMENTS” for “SERVICE REQUIREMENTS FOR RESERVES” in chapter heading.
+<b>1958</b>—Pub. L. 85–861, §33(a)(4)(A), Sept. 2, 1958, 72 Stat. 1564, substituted “GENERAL SERVICE REQUIREMENTS” for “SERVICE REQUIREMENTS FOR RESERVES” in chapter heading.
 
 #### Prohibition Against Members of the Armed Forces Participating in Criminal Street Gangs
 

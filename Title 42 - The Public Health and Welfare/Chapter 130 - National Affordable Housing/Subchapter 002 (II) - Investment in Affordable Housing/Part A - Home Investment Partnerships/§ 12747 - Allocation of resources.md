@@ -66,7 +66,7 @@ The Secretary shall establish objective criteria for making direct reallocations
 
 &emsp;(2) the applicant's actions that—
 
-&emsp;&emsp;(A) direct funds made available under this part to benefit very low-income families,with a range of incomes, in amounts that exceed the income targeting requirements of section 12744 of this title, with extra consideration given for activities that expand the supply of affordable housing for very low-income families whose incomes do not exceed 30 percent of the median family income for the area, as determined by the Secretary;
+&emsp;&emsp;(A) direct funds made available under this part to benefit very low-income families, with a range of incomes, in amounts that exceed the income targeting requirements of section 12744 of this title, with extra consideration given for activities that expand the supply of affordable housing for very low-income families whose incomes do not exceed 30 percent of the median family income for the area, as determined by the Secretary;
 
 &emsp;&emsp;(B) apply the tenant selection preference categories applicable under section 1437f of this title to the selection of tenants for housing assisted under this part;
 
@@ -94,7 +94,7 @@ The Secretary shall establish objective criteria for making direct reallocations
 
 #### (2) Commitments
 
-&emsp;The Secretary shall establish procedures according to which participating jurisdictions may make commitments to invest funds made available under this section. Such procedures shall provide for appropriate stages of commitment of funds to a project from initial reservation through binding commitment. Notwithstanding any other provision of this subchapter, funds that the Secretary determines are needed to fulfill binding commitments shall not be available for reallocation.
+&emsp;The Secretary shall establish procedures according to which participating jurisdictions may make commitments to invest funds madeavailable under this section. Such procedures shall provide for appropriate stages of commitment of funds to a project from initial reservation through binding commitment. Notwithstanding any other provision of this subchapter, funds that the Secretary determines are needed to fulfill binding commitments shall not be available for reallocation.
 
 #### (3) Limitation
 
@@ -104,13 +104,13 @@ The Secretary shall establish objective criteria for making direct reallocations
 
 #### Amendments
 
-1997—Subsec. (b)(3). Pub. L. 105–65, in first sentence, substituted “jurisdictions that are allocated an amount of $500,000 or more, and participating jurisdictions (other than consortia that fail to renew the membership of all of their member jurisdictions) that are allocated an amount less than $500,000, shall receive an allocation” for “only those jurisdictions that are allocated an amount of $500,000 or greater shall receive an allocation”.
+<b>1997</b>—Subsec. (b)(3). Pub. L. 105–65, in first sentence, substituted “jurisdictions that are allocated an amount of $500,000 or more, and participating jurisdictions (other than consortia that fail to renew the membership of all of their member jurisdictions) that are allocated an amount less than $500,000, shall receive an allocation” for “only those jurisdictions that are allocated an amount of $500,000 or greater shall receive an allocation”.
 
-1996—Subsec. (a)(1). Pub. L. 104–330, §505(a)(1)(A), struck out “reserving amounts under paragraph (2) for Indian tribes and after” after “After”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–330, §505(a)(1)(A), struck out “reserving amounts under paragraph (2) for Indian tribes and after” after “After”.
 
 Subsec. (a)(2). Pub. L. 104–330, §505(a)(1)(B), struck out heading and text of par. (2). Text read as follows: “For each fiscal year, of the amount approved in an appropriations Act to carry out this subchapter, the Secretary shall reserve for grants to Indian tribes 1 percent of the amount appropriated under such section. The Secretary shall provide for distribution of amounts under this paragraph to Indian tribes on the basis of a competition conducted pursuant to specific criteria for the selection of Indian tribes to receive such amounts. The criteria shall be contained in a regulation promulgated by the Secretary after notice and public comment.”
 
-1992—Subsec. (a)(1). Pub. L. 102–550, §211(a)(2)(A), added first sentence and struck out former first sentence which read as follows: “After reserving amounts for Indian tribes as required by paragraph (2) of this subsection and after reserving amounts for the insular areas under paragraph (3), the Secretary shall allocate funds approved in an appropriations Act to carry out this subchapter by formula as provided in subsection (b) of this section.”
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–550, §211(a)(2)(A), added first sentence and struck out former first sentence which read as follows: “After reserving amounts for Indian tribes as required by paragraph (2) of this subsection and after reserving amounts for the insular areas under paragraph (3), the Secretary shall allocate funds approved in an appropriations Act to carry out this subchapter by formula as provided in subsection (b) of this section.”
 
 Pub. L. 102–389 made identical amendment to those made by Pub. L. 102–229 and Pub. L. 102–230, §1(1). See 1991 Amendment note below.
 
@@ -124,7 +124,7 @@ In general.—For each fiscal year, of any amount approved in an appropriations 
 
 &emsp;“(i) their share of the total population of eligible jurisdictions; and
 
-&emsp;“(ii) any adjustments that the Secretary determines are reasonable in light of available data thatare related to factors set forth in subsection (b)(1)(B) of this section.
+&emsp;“(ii) any adjustments that the Secretary determines are reasonable in light of available data that are related to factors set forth in subsection (b)(1)(B) of this section.
 
 “(B)
 
@@ -162,7 +162,7 @@ Subsec. (b)(3). Pub. L. 102–550, §202(b)(1), inserted before period at end �
 
 Subsec. (b)(4). Pub. L. 102–550, §202(b)(2), added par. (4).
 
-1991—Subsec. (a)(1). Pub. L. 102–229 and Pub. L. 102–230, §1(1), amended par. (1) identically, inserting before first comma “and after reserving amounts for the insular areas under paragraph (3)”.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–229 and Pub. L. 102–230, §1(1), amended par. (1) identically, inserting before first comma “and after reserving amounts for the insular areas under paragraph (3)”.
 
 Subsec. (a)(3). Pub. L. 102–229 and Pub. L. 102–230, §1(2), which were enacted on the same day, both added new pars. (3) relating to insular areas.
 

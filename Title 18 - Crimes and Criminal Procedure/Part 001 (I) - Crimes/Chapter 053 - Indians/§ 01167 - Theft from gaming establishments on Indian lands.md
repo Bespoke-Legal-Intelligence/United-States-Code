@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–322, §330016(1)(S), substituted “fined under this title” for “fined not more than $100,000”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §330016(1)(S), substituted “fined under this title” for “fined not more than $100,000”.
 
 Subsec. (b). Pub. L. 103–322, §330016(1)(U), substituted “fined under this title” for “fined not more than $250,000”.
 

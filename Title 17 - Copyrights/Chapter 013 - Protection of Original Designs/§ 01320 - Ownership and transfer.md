@@ -20,5 +20,5 @@ Recordation of Transfer.—An assignment, grant, conveyance, or mortgage under s
 
 #### Amendments
 
-1999—Subsec. (c). Pub. L. 106–44 substituted “Acknowledgment” for “Acknowledgement” in heading.
+<b>1999</b>—Subsec. (c). Pub. L. 106–44 substituted “Acknowledgment” for “Acknowledgement” in heading.
 

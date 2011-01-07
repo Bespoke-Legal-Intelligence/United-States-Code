@@ -20,7 +20,7 @@ Nothing in this section shall be construed to limit the authority of the Secreta
 
 #### Amendments
 
-1987—Subsec. (c). Pub. L. 100–204 added subsec. (c).
+<b>1987</b>—Subsec. (c). Pub. L. 100–204 added subsec. (c).
 
 #### Effective Date of 1987 Amendment
 

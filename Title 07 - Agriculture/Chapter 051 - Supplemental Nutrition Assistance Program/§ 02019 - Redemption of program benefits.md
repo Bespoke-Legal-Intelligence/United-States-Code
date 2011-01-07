@@ -24,7 +24,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Pub. L. 99–198, §1522, inserted “, or which are insured under the Federal Credit Union Act and have retail food stores or wholesale food concerns in their field of membership” and “or the Federal Credit Union Act”.
 
-Pub. L. 99–198, §1523(a), inserted sentence providing that no financial institution may impose on or collect from a retail food store a fee or other charge for the redemption of coupons that are submitted to the financial institution in a manner consistent with the requirements, other than any requirements relating to cancellation of coupons, for the presentation of coupons by financial institutions to the Federal Reserve banks.
+Pub. L. 99–198, §1523(a), inserted sentence providing that no financial institution may impose on or collect from a retail food store a fee or other charge for the redemption of coupons that are submitted to the financial institution in a manner consistent with the requirements, other than any requirements relating tocancellation of coupons, for the presentation of coupons by financial institutions to the Federal Reserve banks.
 
 1981—Pub. L. 97–98 substituted “financial institutions which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation” for “banks” wherever appearing.
 

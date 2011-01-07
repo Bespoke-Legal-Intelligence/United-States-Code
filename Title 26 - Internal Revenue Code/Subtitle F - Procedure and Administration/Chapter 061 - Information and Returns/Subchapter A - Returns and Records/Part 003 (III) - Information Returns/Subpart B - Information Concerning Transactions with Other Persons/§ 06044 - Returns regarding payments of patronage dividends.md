@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this section, every cooperative to which part I of subchapter T of chapter 1 applies, which makes payments of amounts described in subsection\(b) aggregating $10 or more to any person during any calendar year, shall make a return according to the forms of regulations prescribed by the Secretary, setting forth the aggregate amount of such payments and the name and address of the person to whom paid.
+&emsp;Except as otherwise provided in this section, every cooperative to which part I of subchapter T of chapter 1 applies, which makes payments of amounts described in subsection (b) aggregating $10 or more to any person during any calendar year, shall make a return according to the forms of regulations prescribed by the Secretary, setting forth the aggregate amount of such payments and the name and address of the person to whom paid.
 
 #### (2) Returns required by the Secretary
 
@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) the amount of any patronage dividend (as defined in section 1388(a)) which is paid in money, qualified written notices of allocation (as defined in section 1388(c)), or other property (except nonqualified written notices of allocation as defined in section 1388(d)),
 
-&emsp;&emsp;(B) any amount described in section 1382(c)(2)(A) (relating to certain nonpatronage distributions) which is paid in money, qualified written notices of allocation, or other property (except nonqualified written notices of allocation) by an organization exempt from tax under section 521 (relating to exemption of farmers’ cooperatives from tax),
+&emsp;&emsp;(B) any amount described in section 1382(c)(2)(A) (relating to certain nonpatronage distributions) which is paid in money, qualified written notices of allocation, or other property (except nonqualified written notices of allocation) by an organization exempt from tax under section 521 (relating toexemption of farmers’ cooperatives from tax),
 
 &emsp;&emsp;(C) any amount described in section 1382(b)(2) (relating to redemption of nonqualified written notices of allocation) and, in the case of an organization described in section 1381(a)(1), any amount described in section 1382(c)(2)(B) (relating to redemption of nonqualified written notices of allocation paid with respect to earnings derived from sources other than patronage), and
 
@@ -60,21 +60,21 @@ Every cooperative required to make a return under subsection (a) shall furnish t
 
 #### Amendments
 
-1996—Subsec. (e)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
+<b>1996</b>—Subsec. (e)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
 
-1986—Subsec. (e). Pub. L. 99–514, in amending subsec. (e) generally, substituted “information is required” for “information is furnished” in heading and, in text, substituted references to persons required to make a return for former references to persons making a return and struck out provision directing that no statement was required if the aggregate amount of payments made to the person as shown on the return was less than $10.
+<b>1986</b>—Subsec. (e). Pub. L. 99–514, in amending subsec. (e) generally, substituted “information is required” for “information is furnished” in heading and, in text, substituted references to persons required to make a return for former references to persons making a return and struck out provision directing that no statement was required if the aggregate amount of payments made to the person as shown on the return was less than $10.
 
-1983—Pub. L. 98–67 substituted in subsec. (e) “The written statement required under the preceding sentence shall be furnished (either in person or in a separate mailing by first-class mail) to the person on or before January 31 of the year following the calendar year for which the return under subsection (a) was made, and shall be in such form as the Secretary may prescribe by regulations” for “The written statement required under the preceding sentence shall be furnished to the person on or before January 31 of the year following the calendar year for which the return under subsection (a)(1) was made” and repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
+<b>1983</b>—Pub. L. 98–67 substituted in subsec. (e) “The written statement required under the preceding sentence shall be furnished (either in person or in a separate mailing by first-class mail) to the person on or before January 31 of the year following the calendar year for which the return under subsection (a) was made, and shall be in such form as the Secretary may prescribe by regulations” for “The written statement required under the preceding sentence shall be furnished to the person on or before January 31 of the year following the calendar year for which the return under subsection (a)(1) was made” and repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
-1982—Subsecs. (a)(1), (b)(1), (e), (f). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsecs. (a)(1), (b)(1), and (e) are amended and a new subsec. (f) is added. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+<b>1982</b>—Subsecs. (a)(1), (b)(1), (e), (f). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsecs. (a)(1), (b)(1), and (e) are amended and a new subsec. (f) is added. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1966—Subsec. (b)(1). Pub. L. 89–809, §211(d)(1), added subpars. (D) and (E).
+<b>1966</b>—Subsec. (b)(1). Pub. L. 89–809, §211(d)(1), added subpars. (D) and (E).
 
 Subsec. (d). Pub. L. 89–809, §211(d)(2), inserted references to qualified per-unit retain certificates.
 
-1962—Pub. L. 87–834 substituted “Returns regarding payments of patronage dividends” for “Returns regarding patronage dividends” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1962</b>—Pub. L. 87–834 substituted “Returns regarding payments of patronage dividends” for “Returns regarding patronage dividends” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a)
 

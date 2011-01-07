@@ -22,9 +22,9 @@
 
 #### Amendments
 
-2002—Subsecs. (a), (c). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
+<b>2002</b>—Subsecs. (a), (c). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
 
-1999—Subsecs. (a), (c). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A), as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” wherever appearing.
+<b>1999</b>—Subsecs. (a), (c). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A), as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” wherever appearing.
 
 Subsec. (d). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(11)\], substituted “Director” for “Secretary of Commerce”.
 

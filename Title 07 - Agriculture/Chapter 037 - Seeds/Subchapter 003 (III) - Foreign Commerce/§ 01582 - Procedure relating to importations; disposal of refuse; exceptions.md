@@ -14,7 +14,7 @@
 
 &emsp;(1) when seed grown in the United States is returned from a foreign country without having been admitted into the commerce of any foreign country: <i>Provided</i>, That there is satisfactory proof as provided for in the joint rules and regulations prescribed under section 1592 of this title, that the seed was grown in the United States and was not admitted into the commerce of a foreign country and was not commingled with other seed, or
 
-&emsp;(2) when seed is imported for sowing for experimental or breeding purposes and not for sale: <i>Provided</i>, That declarations are filed, and importations are limited in quantity, as provided for in the rules and regulations prescribed under section 1592 of this title, to assure that the importations are for experimental or breeding purposes.
+&emsp;(2) when seed is imported for sowing for experimental or breeding purposes and not for sale: <i>Provided</i>, That declarations are filed, andimportations are limited in quantity, as provided for in the rules and regulations prescribed under section 1592 of this title, to assure that the importations are for experimental or breeding purposes.
 
 (Aug. 9, 1939, ch. 615, title III, §302, 53 Stat. 1283; Pub. L. 85–581, §§13, 14, Aug. 1, 1958, 72 Stat. 478, 479; Pub. L. 89–686, §§15–17, Oct. 15, 1966, 80 Stat. 979; Pub. L. 97–439, §5(b)(2), (3), Jan. 8, 1983, 96 Stat. 2288; Pub. L. 100–449, title III, §301(e), Sept. 28, 1988, 102 Stat. 1868; Pub. L. 103–182, title III, §361(a), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 103–465, title IV, §441(2), Dec. 8, 1994, 108 Stat. 4973.)
 
@@ -26,7 +26,7 @@ Subsec. (e). Pub. L. 103–465, §441(2)(B), struck out subsec. (e) which read a
 
 &emsp;“(1) to alfalfa or clover seed originating in Canada or Mexico, or
 
-&emsp;“(2) when seeds otherwise required to be stained will not be sold within the United States and will beused for seed production only by or for the importer or consignee and the importer of record or consignee files a statement in accordance with the rules and regulations prescribed under section 1592 of this title certifying that such seeds will be used only for seed production by or for the importer or consignee.”
+&emsp;“(2) when seeds otherwise required to be stained will not be sold within the United States and will be used for seed production only by or for the importer or consignee and the importer of record or consignee files a statement in accordance with the rules and regulations prescribed under section 1592 of this title certifying that such seeds will be used only for seed production by or for the importer or consignee.”
 
 1993—Subsec. (e)(1). Pub. L. 103–182 inserted “or Mexico” after “Canada”.
 

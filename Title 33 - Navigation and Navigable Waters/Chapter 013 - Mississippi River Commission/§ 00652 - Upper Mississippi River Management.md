@@ -118,7 +118,7 @@ Requirements.—The Secretary shall—
 
 (1) The Secretary shall, as he determines feasible, dispose of dredged material from the system pursuant to the recommendations of the GREAT I, GREAT II, and GRRM studies.
 
-(2) The Secretary shall establish and request appropriate Federal funding for a program to facilitate productive uses of dredged material. TheSecretary shall work with the States which have, within their boundaries, any part of the system to identify potential users of dredged material.
+(2) The Secretary shall establish and request appropriate Federal funding for a program to facilitate productive uses of dredged material. The Secretary shall work with the States which have, within their boundaries, any part of the system to identify potential users of dredged material.
 
 #### (j) Construction of second lock at locks and dam 26, Mississippi River, Alton, Illinois and Missouri
 
@@ -138,9 +138,9 @@ Subsec. (c)(2) of this section amended section 101 of Pub. L. 95–502, which is
 
 #### Amendments
 
-2007—Subsec. (e)(1)(A)(ii). Pub. L. 110–114 inserted “, including research on water quality issues affecting the Mississippi River (including elevated nutrient levels) and the development of remediation strategies” before period at end.
+<b>2007</b>—Subsec. (e)(1)(A)(ii). Pub. L. 110–114 inserted “, including research on water quality issues affecting the Mississippi River (including elevated nutrient levels) and the development of remediation strategies” before period at end.
 
-1999—Subsec. (e). Pub. L. 106–53, §509(a), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “The Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, is authorized to undertake, as identified in the master plan—
+<b>1999</b>—Subsec. (e). Pub. L. 106–53, §509(a), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “The Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, is authorized to undertake, as identified in the master plan—
 
 &emsp;“(A) a program for the planning, construction, and evaluation of measures for fish and wildlife habitat rehabilitation and enhancement;
 
@@ -168,7 +168,7 @@ Subsec. (f)(2). Pub. L. 106–53, §509(g)(2), struck out “(A)” after “(2)
 
 Subsec. (h)(2). Pub. L. 106–53, §509(f), inserted par. heading, designated existing provisions as subpar. (A) and inserted heading, and added subpar. (B).
 
-1992—Subsec. (e)(2). Pub. L. 102–580, §107(a)(1), which directed the substitution of “15” for “ten” each place it appears, could not be executed because “ten” did not appear subsequent to amendment by Pub. L. 101–640, §405(1). See 1990 Amendment note below.
+<b>1992</b>—Subsec. (e)(2). Pub. L. 102–580, §107(a)(1), which directed the substitution of “15” for “ten” each place it appears, could not be executed because “ten” did not appear subsequent to amendment by Pub. L. 101–640, §405(1). See 1990 Amendment note below.
 
 Subsec. (e)(6). Pub. L. 102–580, §107(a)(3), added par. (6). Former par. (6) redesignated (7).
 
@@ -178,7 +178,7 @@ Subsec. (e)(7)(A). Pub. L. 102–580, §107(b), added subpar. (A) and struck out
 
 Subsec. (e)(8). Pub. L. 102–580, §107(a)(2), redesignated par. (7) as (8).
 
-1990—Subsec. (e)(2). Pub. L. 101–640, §405(1), substituted “15” for “ten” in two places.
+<b>1990</b>—Subsec. (e)(2). Pub. L. 101–640, §405(1), substituted “15” for “ten” in two places.
 
 Subsec. (e)(3). Pub. L. 101–640, §405(2), substituted “13” for “eight”.
 
@@ -330,7 +330,7 @@ Land acquisition.—The Secretary \[of the Army\] may acquire land or an interes
 
 “(c)
 
-Monitoring.—The Secretary \[of the Army\] shall carry out a long term resource monitoring, computerized data inventory and analysis, and applied research program for the Upper Mississippi River and IllinoisRiver to determine trends in ecosystem health, to understand systemic changes, and to help identify restoration needs. The program shall consider and adopt the monitoring program established under section 1103(e)(1)(A)(ii) of the Water Resources Development Act of 1986 (33 U.S.C. 652(e)(1)(A)(ii)).
+Monitoring.—The Secretary \[of the Army\] shall carry out a long term resource monitoring, computerized data inventory and analysis, and applied research program for the Upper Mississippi River and Illinois River to determine trends in ecosystem health, to understand systemic changes, and to help identify restoration needs. The program shall consider and adopt the monitoring program established under section 1103(e)(1)(A)(ii) of the Water Resources Development Act of 1986 (33 U.S.C. 652(e)(1)(A)(ii)).
 
 “(d)
 

@@ -6,7 +6,7 @@ The value of the gross estate shall include the value of all property to the ext
 
 #### Amendments
 
-1962—Pub. L. 87–834 struck out provisions which excepted real property situated outside of the United States.
+<b>1962</b>—Pub. L. 87–834 struck out provisions which excepted real property situated outside of the United States.
 
 #### Effective Date of 1962 Amendment
 

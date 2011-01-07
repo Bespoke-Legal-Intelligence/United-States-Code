@@ -86,9 +86,9 @@ The date of the enactment of this section and the date of the enactment of this 
 
 #### Amendments
 
-2007—Subsec. (b)(2). Pub. L. 110–172 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The national megawatt capacity limitation shall be 6,000 megawatts.”
+<b>2007</b>—Subsec. (b)(2). Pub. L. 110–172 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The national megawatt capacity limitation shall be 6,000 megawatts.”
 
-2005—Subsec. (c)(2). Pub. L. 109–135, §402(d)(1), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Rules similar to the rules of section 45(b)(1) shall apply for purposes of this section.”
+<b>2005</b>—Subsec. (c)(2). Pub. L. 109–135, §402(d)(1), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Rules similar to the rules of section 45(b)(1) shall apply for purposes of this section.”
 
 Subsec. (e). Pub. L. 109–135, §402(d)(2), struck out “(2),” after “(1),”.
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 110–172 effective as if included in the provisions of the
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as a note under section 23 of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as a note under section 36C of this title.
 
 #### Effective Date
 

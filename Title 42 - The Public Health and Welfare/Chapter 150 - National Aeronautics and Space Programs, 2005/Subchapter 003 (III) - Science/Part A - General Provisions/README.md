@@ -1,17 +1,13 @@
 Part A—General Provisions
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 16651 - Performance assessments](%C2%A7%2016651%20-%20Performance%20assessments.md)
-- [&sect; 16652 - Status on Hubble Space Telescope servicing mission](%C2%A7%2016652%20-%20Status%20on%20Hubble%20Space%20Telescope%20servicing%20mission.md)
-- [&sect; 16653 - Independent assessment of Landsat-NPOESS integrated mission](%C2%A7%2016653%20-%20Independent%20assessment%20of%20Landsat-NPOESS%20integrated%20mission.md)
-- [&sect; 16654 - Assessment of science mission extensions](%C2%A7%2016654%20-%20Assessment%20of%20science%20mission%20extensions.md)
-- [&sect; 16655 - Microgravity research](%C2%A7%2016655%20-%20Microgravity%20research.md)
-- [&sect; 16656 - Coordination with the National Oceanic and Atmospheric Administration](%C2%A7%2016656%20-%20Coordination%20with%20the%20National%20Oceanic%20and%20Atmospheric%20Administration.md)
-- [&sect; 16657 - Review and report on Headquarters Earth-Sun System Applied Sciences Program](%C2%A7%2016657%20-%20Review%20and%20report%20on%20Headquarters%20Earth-Sun%20System%20Applied%20Sciences%20Program.md)
-- [&sect; 16658 - Basic research enhancement](%C2%A7%2016658%20-%20Basic%20research%20enhancement.md)
+- [&sect; 16651 - Repealed. Pub. L. 111&#8211;314, &sect;6, Dec. 18, 2010, 124 Stat. 3444](%C2%A7%2016651%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93314%2C%20%C2%A76%2C%20Dec.%2018%2C%202010%2C%20124%20Stat.%203444.md)
+- [&sect; 16652, 16653 - Omitted](%C2%A7%2016652%2C%2016653%20-%20Omitted.md)
+- [&sect; 16654, 16655 - Repealed or Omitted](%C2%A7%2016654%2C%2016655%20-%20Repealed%20or%20Omitted.md)
+- [&sect; 16656 - Repealed. Pub. L. 111&#8211;314, &sect;6, Dec. 18, 2010, 124 Stat. 3444](%C2%A7%2016656%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93314%2C%20%C2%A76%2C%20Dec.%2018%2C%202010%2C%20124%20Stat.%203444.md)
+- [&sect; 16657 - Omitted](%C2%A7%2016657%20-%20Omitted.md)
+- [&sect; 16658 - Repealed. Pub. L. 111&#8211;314, &sect;6, Dec. 18, 2010, 124 Stat. 3444](%C2%A7%2016658%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93314%2C%20%C2%A76%2C%20Dec.%2018%2C%202010%2C%20124%20Stat.%203444.md)

@@ -6,7 +6,7 @@ There is authorized to be appropriated to the Department of the Interior $600,00
 
 #### References in Text
 
-Public Law 93–638, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. Forcomplete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+Public Law 93–638, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 #### Transfer of Functions
 

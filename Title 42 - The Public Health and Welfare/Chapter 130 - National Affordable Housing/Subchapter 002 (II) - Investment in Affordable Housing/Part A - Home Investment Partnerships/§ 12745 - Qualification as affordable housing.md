@@ -6,7 +6,7 @@
 
 &emsp;Housing that is for rental shall qualify as affordable housing under this subchapter only if the housing—
 
-&emsp;&emsp;(A) bears rents not greater than the lesser of (i) the existing fair market rent for comparable units in the area as established by the Secretary under section 1437f of thistitle, or (ii) a rent that does not exceed 30 percent of the adjusted income of a family whose income equals 65 percent of the median income for the area, as determined by the Secretary, with adjustment for number of bedrooms in the unit, except that the Secretary may establish income ceilings higher or lower than 65 percent of the median for the area on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs or fair market rents, or unusually high or low family incomes;
+&emsp;&emsp;(A) bears rents not greater than the lesser of (i) the existing fair market rent for comparable units in the area as established by the Secretary under section 1437f of this title, or (ii) a rent that does not exceed 30 percent of the adjusted income of a family whose income equals 65 percent of the median income for the area, as determined by the Secretary, with adjustment for number of bedrooms in the unit, except that the Secretary may establish income ceilings higher or lower than 65 percent of the median for the area on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs or fair market rents, or unusually high or low family incomes;
 
 &emsp;&emsp;(B) has not less than 20 percent of the units (i) occupied by very low-income families who pay as a contribution toward rent (excluding any Federal or State rental subsidy provided on behalf of the family) not more than 30 percent of the family's monthly adjusted income as determined by the Secretary, or (ii) occupied by very low-income families and bearing rents not greater than the gross rent for rent-restricted residential units as determined under section 42(g)(2) of title 26;
 
@@ -80,21 +80,21 @@ Housing that is for homeownership shall qualify as affordable housing under this
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(1)(E), (3), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, known as the Cranston-Gonzalez National Affordable Housing Act. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
+This Act, referred to in subsec. (a)(1)(E), (3), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, known as theCranston-Gonzalez National Affordable Housing Act. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
 #### Amendments
 
-2000—Subsec. (a)(6). Pub. L. 106–569 added par. (6).
+<b>2000</b>—Subsec. (a)(6). Pub. L. 106–569 added par. (6).
 
-1998—Subsec. (b)(2). Pub. L. 105–276 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “is the principal residence of an owner whose family qualifies as a low-income family at the time of purchase;”.
+<b>1998</b>—Subsec. (b)(2). Pub. L. 105–276 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “is the principal residence of an owner whose family qualifies as a low-income family at the time of purchase;”.
 
-1994—Subsec. (b)(3). Pub. L. 103–233, §203(a), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “is made available for initial purchase only to first-time homebuyers;”.
+<b>1994</b>—Subsec. (b)(3). Pub. L. 103–233, §203(a), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “is made available for initial purchase only to first-time homebuyers;”.
 
 Subsec. (b)(3)(B). Pub. L. 103–233, §203(b), substituted “subchapter” for “subsection” after “requirements of this”.
 
 Subsec. (b)(4), (5). Pub. L. 103–233, §203(a)(2), redesignated pars. (4) and (5) as (3) and (4), respectively.
 
-1992—Subsec. (a)(1)(A). Pub. L. 102–550, §208(a)(1), substituted “number of bedrooms in the unit” for “smaller and larger families”.
+<b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–550, §208(a)(1), substituted “number of bedrooms in the unit” for “smaller and larger families”.
 
 Subsec. (a)(1)(E). Pub. L. 102–550, §208(b), inserted before semicolon “, except upon a foreclosure by a lender (or upon other transfer in lieu of foreclosure) if such action (i) recognizes any contractual or legal rights of public agencies, nonprofit sponsors, or others to take actions that would avoid termination of low-income affordability in the case of foreclosure or transfer in lieu of foreclosure, and (ii) is not for the purpose of avoiding low income affordability restrictions, as determined by the Secretary”.
 

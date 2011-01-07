@@ -50,7 +50,7 @@ Section was formerly classified to section 6979a of this title, prior to renumbe
 
 #### Amendments
 
-1986—Subsec. (c). Pub. L. 99–339, §201(c)(1), substituted “enforcement under the provisions of this chapter” for “enforcement under sections 6972 and 6973 of this title”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–339, §201(c)(1), substituted “enforcement under the provisions of this chapter” for “enforcement under sections 6972 and 6973 of this title”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -18,7 +18,7 @@
 
 &emsp;(8)(A) The “Federal percentage” for any State (other than Puerto Rico, the Virgin Islands, and Guam) shall be 100 per centum less the State percentage; and the State percentage shall be that percentage which bears the same ratio to 50 per centum as the square of the per capita income of such State bears to the square of the per capita income of the United States; except that the Federal percentage shall in no case be less than 50 per centum or more than 65 per centum.
 
-&emsp;(B) The Federal percentage for each State (other than Puerto Rico, the Virgin Islands, and Guam) shall be promulgated by the Secretary between October 1 and November 30 of each year, on the basis of the average per capita income of each State and of the United States for the three most recent calendar years for which satisfactory data are available from the Department of Commerce. Such promulgation shall be conclusive for each of the four quarters in the period beginning October 1 next succeeding such promulgation: <i>Provided</i>, That the Secretary shall promulgate such percentages as soon as possible after August 28, 1958, which promulgation shall be conclusive for each of the eleven quarters in the period beginning October 1, 1958, and ending with the close of June 30, 1961.
+&emsp;(B) The Federal percentage for each State (other than Puerto Rico, the Virgin Islands, and Guam) shall be promulgated by the Secretary between October 1 and November 30 of each year, on the basis of the average per capita income of each State and of the United States for the three most recent calendar years for which satisfactory data are available from the Department of Commerce. Such promulgation shall be conclusive for each of the four quarters in the period beginning October 1 next succeeding such promulgation: <i>Provided</i>, That the Secretary shall promulgate such percentages as soon as possible after August 28, 1958, which promulgation shall be conclusive for each of the eleven quarters in the periodbeginning October 1, 1958, and ending with the close of June 30, 1961.
 
 &emsp;(C) The term “United States” means (but only for purposes of subparagraphs (A) and (B) of this paragraph) the fifty States and the District of Columbia.
 
@@ -50,7 +50,7 @@
 
 (d) Nothing in this chapter shall be construed as authorizing any Federal official, agent, or representative, in carrying out any of the provisions of this chapter, to take charge of any child over the objection of either of the parents of such child, or of the person standing in loco parentis to such child.
 
-(Aug. 14, 1935, ch. 531, title XI, §1101, 49 Stat. 647; Aug. 10, 1939, ch. 666, title VIII, §801, 53 Stat. 1398; Aug. 10, 1946, ch. 951, title IV, §401(a), 60 Stat. 986; June 14, 1948, ch. 468, §2(a), 62 Stat. 438; Aug. 28, 1950, ch. 809, title IV, §403(a)(1), (2), (b), 64 Stat. 559; Aug. 16, 1956, ch. 836, title III, §333, 70 Stat. 852; Pub. L. 85–840, title V, §§505, 506, Aug. 28, 1958, 72 Stat. 1050, 1051; Pub. L. 86–70, §32(a), (d), June 25, 1959, 73 Stat. 149; Pub. L. 86–624, §30(a), (d), July 12, 1960, 74 Stat. 419, 420;Pub. L. 86–778, title V, §541, Sept. 13, 1960, 74 Stat. 985; Pub. L. 87–543, title I, §153, July 25, 1962, 76 Stat. 206; Pub. L. 89–97, title I, §121(c)(1), July 30, 1965, 79 Stat. 352; Pub. L. 92–603, title II, §272(a), Oct. 30, 1972, 86 Stat. 1451; Pub. L. 93–233, §18(z–2)(1)(A), Dec. 31, 1973, 87 Stat. 973; Pub. L. 94–273, §22, Apr. 21, 1976, 90 Stat. 379; Pub. L. 94–566, title I, §116(a), Oct. 20, 1976, 90 Stat. 2672; Pub. L. 95–142, §5(c)(2), (<i>l</i>)(2), Oct. 25, 1977, 91 Stat. 1184, 1191; Pub. L. 97–35, title XXI, §§2162(a)(1), 2193(c)(2), title XXIII, §2352(b), Aug. 13, 1981, 95 Stat. 806, 827, 871; Pub. L. 97–248, title I, §§136(a), 160(c), Sept. 3, 1982, 96 Stat. 375, 400; Pub. L. 98–369, div. B, title VI, §2663(e)(1), (j)(1), July 18, 1984, 98 Stat. 1167, 1170; Pub. L. 99–272, title IX, §9528(a), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–514, §2, title XVIII, §§1883(c)(1), 1895(c)(6), Oct. 22, 1986, 100 Stat. 2095, 2918, 2936; Pub. L. 100–203, title IX, §9135(a)(1), (b)(1), Dec. 22, 1987, 101 Stat. 1330–315; Pub. L. 100–485, title VI, §601(a), Oct. 13, 1988, 102 Stat. 2407; Pub. L. 103–296, title I, §108(b)(1), Aug. 15, 1994, 108 Stat. 1481; Pub. L. 105–33, title IV, §4901(b)(1), Aug. 5, 1997, 111 Stat. 570.)
+(Aug. 14, 1935, ch. 531, title XI, §1101, 49 Stat. 647; Aug. 10, 1939, ch. 666, title VIII, §801, 53 Stat. 1398; Aug. 10, 1946, ch. 951, title IV, §401(a), 60 Stat. 986; June 14, 1948, ch. 468, §2(a), 62 Stat. 438; Aug. 28, 1950, ch. 809, title IV, §403(a)(1), (2), (b), 64 Stat. 559; Aug. 16, 1956, ch. 836, title III, §333, 70 Stat. 852; Pub. L. 85–840, title V, §§505, 506, Aug. 28, 1958, 72 Stat. 1050, 1051; Pub. L. 86–70, §32(a), (d), June 25, 1959, 73 Stat. 149; Pub. L. 86–624, §30(a), (d), July 12, 1960, 74 Stat. 419, 420; Pub. L. 86–778, title V, §541, Sept. 13, 1960, 74 Stat. 985; Pub. L. 87–543, title I, §153, July 25, 1962, 76 Stat. 206; Pub. L. 89–97, title I, §121(c)(1), July 30, 1965, 79 Stat. 352; Pub. L. 92–603, title II, §272(a), Oct. 30, 1972, 86 Stat. 1451; Pub. L. 93–233, §18(z–2)(1)(A), Dec. 31, 1973, 87 Stat. 973; Pub. L. 94–273, §22, Apr. 21, 1976, 90 Stat. 379; Pub. L. 94–566, title I, §116(a), Oct. 20, 1976, 90 Stat. 2672; Pub. L. 95–142, §5(c)(2), (<i>l</i>)(2), Oct. 25, 1977, 91 Stat. 1184, 1191; Pub. L. 97–35, title XXI, §§2162(a)(1), 2193(c)(2), title XXIII, §2352(b), Aug. 13, 1981, 95 Stat. 806, 827, 871; Pub. L. 97–248, title I, §§136(a), 160(c), Sept. 3, 1982, 96 Stat. 375, 400; Pub. L. 98–369, div. B, title VI, §2663(e)(1), (j)(1), July 18, 1984, 98 Stat. 1167, 1170; Pub. L. 99–272, title IX, §9528(a), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–514, §2, title XVIII, §§1883(c)(1), 1895(c)(6), Oct. 22, 1986, 100 Stat. 2095, 2918, 2936; Pub. L. 100–203, title IX, §9135(a)(1), (b)(1), Dec. 22, 1987, 101 Stat. 1330–315; Pub. L. 100–485, title VI, §601(a), Oct. 13, 1988, 102 Stat. 2407; Pub. L. 103–296, title I, §108(b)(1), Aug. 15, 1994, 108 Stat. 1481; Pub. L. 105–33, title IV, §4901(b)(1), Aug. 5, 1997, 111 Stat. 570.)
 
 #### References in Text
 
@@ -60,17 +60,17 @@ The Internal Revenue Code of 1986, referred to in subsec. (a)(9), is classified 
 
 #### Amendments
 
-1997—Subsec. (a)(1). Pub. L. 105–33 substituted “XIX, and XXI” for “and XIX” and “subchapters XIX and XXI” for “subchapter XIX”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–33 substituted “XIX, and XXI” for “and XIX” and “subchapters XIX and XXI” for “subchapter XIX”.
 
-1994—Subsec. (a)(10). Pub. L. 103–296 added par. (10).
+<b>1994</b>—Subsec. (a)(10). Pub. L. 103–296 added par. (10).
 
-1988—Subsec. (a)(1). Pub. L. 100–485 amended last sentence generally. Prior to amendment, last sentence read as follows: “Such term when used in part B of subchapter IV of this chapter also includes American Samoa.”
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–485 amended last sentence generally. Prior to amendment, last sentenceread as follows: “Such term when used in part B of subchapter IV of this chapter also includes American Samoa.”
 
-1987—Subsec. (a)(1). Pub. L. 100–203, §9135(a)(1), inserted “American Samoa,” after “Guam,”.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–203, §9135(a)(1), inserted “American Samoa,” after “Guam,”.
 
 Pub. L. 100–203, §9135(b)(1), inserted at end “Such term when used in part B of subchapter IV of this chapter also includes American Samoa.”
 
-1986—Subsec. (a)(3) to (5). Pub. L. 99–514, §1883(c)(1), realigned margins of pars. (3) to (5).
+<b>1986</b>—Subsec. (a)(3) to (5). Pub. L. 99–514, §1883(c)(1), realigned margins of pars. (3) to (5).
 
 Subsec. (a)(8)(B). Pub. L. 99–514, §1895(c)(6), amended directory language of Pub. L. 99–272, §9528(a), and did not involve any change in text. See note below.
 
@@ -78,37 +78,37 @@ Pub. L. 99–272, §9528(a), as amended by Pub. L. 99–514, §1895(c)(6), struc
 
 Subsec. (a)(9). Pub. L. 99–514, §2, substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” in closing provisions.
 
-1984—Subsec. (a)(6). Pub. L. 98–369, §2663(j)(1), substituted “means the Secretary of Health and Human Services” for “means the Secretary of Health, Education, and Welfare”.
+<b>1984</b>—Subsec. (a)(6). Pub. L. 98–369, §2663(j)(1), substituted “means the Secretary of Health and Human Services” for “means the Secretary of Health, Education, and Welfare”.
 
 Subsec. (a)(8), (9). Pub. L. 98–369, §2663(e)(1), realigned margins of pars. (8) and (9).
 
-1982—Subsec. (a)(1). Pub. L. 97–248, §136(a), inserted “and American Samoa” after “includes the Northern Mariana Islands”.
+<b>1982</b>—Subsec. (a)(1). Pub. L. 97–248, §136(a), inserted “and American Samoa” after “includes the Northern Mariana Islands”.
 
 Pub. L. 97–248, §160(c), substituted “Guam, and the Northern Mariana Islands” for “American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands”.
 
-1981—Subsec. (a)(1). Pub. L. 97–35, §§2162(a)(1), 2352(b), substituted “American Samoa, the Northern Mariana Islands, and” for “American Samoa and” and inserted provisions that “State” when used in subchapter XIX of this chapter also includes the Northern Mariana Islands and when used in subchapter XX of this chapter also includes the Virgin Islands, American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–35, §§2162(a)(1), 2352(b), substituted “American Samoa, the Northern Mariana Islands, and” for “American Samoa and” and inserted provisions that “State” when used in subchapter XIX of this chapter also includes the Northern Mariana Islands and when used in subchapter XX of this chapter also includes the Virgin Islands, American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
 
 Subsec. (a)(9)(D). Pub. L. 97–35, §2193(c)(2), substituted “subchapters XVIII, and XIX of this chapter” for “subchapters V, XVIII, and XIX of this chapter”.
 
-1977—Subsec. (a)(1). Pub. L. 95–142, §5(<i>l</i>)(2), which directed that second sentence of par. (1) be amended by inserting provision that “State” when used in part B of this subchapter also includes American Samoa and the Trust Territory of the Pacific Islands, was executed by inserting that provision to third sentence.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–142, §5(<i>l</i>)(2), which directed that second sentence of par. (1) be amended by inserting provision that “State” when used in part B of this subchapter also includes American Samoa and the Trust Territory of the Pacific Islands, was executed by inserting that provision to third sentence.
 
 Subsec. (a)(9). Pub. L. 95–142, §5(c)(2), added par. (9).
 
-1976—Subsec. (a)(1). Pub. L. 94–566 inserted provision that “State”, when used in subchapters III, IX, and XII of this chapter, also includes the Virgin Islands.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–566 inserted provision that “State”, when used in subchapters III, IX, and XII of this chapter, also includes the Virgin Islands.
 
 Subsec. (a)(8)(B). Pub. L. 94–273 substituted “October” for “July” in two places and “November 30” for “August 31”.
 
-1973—Subsec. (a)(1). Pub. L. 93–233 struck out in first sentence references to subchapters I, X, XIV, and XVI of this chapter and inserted third sentence respecting the case of Puerto Rico, the Virgin Islands, and Guam.
+<b>1973</b>—Subsec. (a)(1). Pub. L. 93–233 struck out in first sentence references to subchapters I, X, XIV, and XVI of this chapter and inserted third sentence respecting the case of Puerto Rico, the Virgin Islands, and Guam.
 
-1972—Subsec. (a)(1). Pub. L. 92–603 extended benefits of subchapter V of this chapter to American Samoa and the Trust Territory of the Pacific Islands.
+<b>1972</b>—Subsec. (a)(1). Pub. L. 92–603 extended benefits of subchapter V of this chapter to American Samoa and the Trust Territory of the Pacific Islands.
 
-1965—Subsec. (a)(1). Pub. L. 89–97 included subchapter XIX of this chapter.
+<b>1965</b>—Subsec. (a)(1). Pub. L. 89–97 included subchapter XIX of this chapter.
 
-1962—Subsec. (a)(1). Pub. L. 87–543, §153(a), included in enumeration subchapters XI and XVI of this chapter.
+<b>1962</b>—Subsec. (a)(1). Pub. L. 87–543, §153(a), included in enumeration subchapters XI and XVI of this chapter.
 
 Subsec. (a)(2). Pub. L. 87–543, §153(b), struck out “, the District of Columbia, and the Commonwealth of Puerto Rico” after “the States,”.
 
-1960—Subsec. (a)(1). Pub. L. 86–778 substituted “The term ‘State’, except where otherwise provided, includes the District of Columbia and the Commonwealth of Puerto Rico” for “The term ‘State’ includes Hawaii, and the District of Columbia”, and “includes the Virgin Islands and Guam” for “includes Puerto Rico, the Virgin Islands, and Guam”.
+<b>1960</b>—Subsec. (a)(1). Pub. L. 86–778 substituted “The term ‘State’, except where otherwise provided, includes the District of Columbia and the Commonwealth of Puerto Rico” for “The term ‘State’ includes Hawaii, and the District of Columbia”, and “includes the Virgin Islands and Guam” for “includes Puerto Rico, the Virgin Islands, and Guam”.
 
 Pub. L. 86–624, §30(d)(1), struck out “Hawaii, and” before “the District of Columbia”.
 
@@ -122,29 +122,29 @@ Subsec. (a)(8)(B). Pub. L. 86–624, §30(a)(1), substituted “United States”
 
 Subsec. (a)(8)(C), (D). Pub. L. 86–624, §30(a)(3), added subpars. (C) and (D).
 
-1959—Subsec. (a)(1). Pub. L. 86–70, §32(d)(1), substituted “Hawaii and” for “Alaska, Hawaii, and”.
+<b>1959</b>—Subsec. (a)(1). Pub. L. 86–70, §32(d)(1), substituted “Hawaii and” for “Alaska, Hawaii, and”.
 
 Subsec. (a)(2). Pub. L. 86–70, §32(d)(2), struck out “Alaska,” before “Hawaii”.
 
 Subsec. (a)(8). Pub. L. 86–70, §32(a), substituted “(including Alaska)” for “(excluding Alaska)” in two places, and “50 per centum for Hawaii” for “50 per centum for Alaska and Hawaii”.
 
-1958—Subsec. (a)(1). Pub. L. 85–840, §506, included Guam within definition of “State” when used in subchapters I, IV, V, VII, X, and XIV of this chapter.
+<b>1958</b>—Subsec. (a)(1). Pub. L. 85–840, §506, included Guam within definition of “State” when used in subchapters I, IV, V, VII, X, and XIV of this chapter.
 
 Subsec. (a)(8). Pub. L. 85–840, §505, added par. (8).
 
-1956—Subsec. (a)(1). Act Aug. 1, 1956, inserted reference to subchapter VII of this chapter.
+<b>1956</b>—Subsec. (a)(1). Act Aug. 1, 1956, inserted reference to subchapter VII of this chapter.
 
-1950—Subsec. (a)(1). Act Aug. 28, 1950, §403(a)(1), redefined “State”.
+<b>1950</b>—Subsec. (a)(1). Act Aug. 28, 1950, §403(a)(1), redefined “State”.
 
 Subsec. (a)(6). Act Aug. 28, 1950, §403(a)(2), defined “Administrator”.
 
 Subsec. (a)(7). Act Aug. 28, 1950, §403(b), added par. (7).
 
-1948—Subsec. (a)(6). Act June 14, 1948, provided for application of usual common-law rules in determining whether a person is an employee.
+<b>1948</b>—Subsec. (a)(6). Act June 14, 1948, provided for application of usual common-law rules in determining whether a person is an employee.
 
-1946—Subsec. (a)(1). Act Aug. 10, 1946, struck out exception of section 45b of title 29 and inserted reference to Virgin Islands.
+<b>1946</b>—Subsec. (a)(1). Act Aug. 10, 1946, struck out exception of section 45b of title 29 and inserted reference to Virgin Islands.
 
-1939—Subsec. (a)(1). Act Aug. 10, 1939, redefined “State”.
+<b>1939</b>—Subsec. (a)(1). Act Aug. 10, 1939, redefined “State”.
 
 #### Effective Date of 1994 Amendment
 
@@ -236,7 +236,7 @@ Section 403(b) of act Aug. 28, 1950, provided that the amendment made by that se
 
 #### Effective Date of 1948 Amendment
 
-Section 2(b) of act June 14, 1948, provided that: “The amendment made by subsection (a) \[amending this section\] shall have the same effect as if included in the Social Security Act \[this chapter\] on August 14, 1935, the date of its enactment, but shall not have the effect of voiding any (1) wage credits reported to the Bureau of Internal Revenue \[now Internal Revenue Service\] with respect to services performed prior to the enactment of this Act \[June 14, 1948\] or (2) wage credits with respect to services performed prior to the close of the first calendar quarter which begins after the date of the enactment of this Act in the case of individuals who have attained age sixty-five or who have died, prior to the close of such quarter, and with respect to whom prior to the date of enactment of this Act wage credits were established which would not have been established had the amendment made by subsection (a) been in effect on and after August 14, 1935.”
+Section 2(b) of act June 14, 1948, provided that: “The amendment made by subsection (a) \[amending this section\] shall have the same effect as if included in the Social Security Act \[this chapter\] on August 14, 1935, the date of its enactment, but shall not have the effect of voiding any (1) wage credits reported to the Bureau of Internal Revenue \[now Internal Revenue Service\] with respect to services performed prior to the enactment of this Act \[June 14, 1948\] or (2) wage credits with respect to services performed prior to the close of the first calendar quarter which begins after the date of the enactment of this Act in the case of individuals who have attained age sixty-five or who have died, prior to the close of such quarter, and with respect to whom prior to the date of enactment of this Act wage credits were established which would not have been established hadthe amendment made by subsection (a) been in effect on and after August 14, 1935.”
 
 #### Effective Date of 1946 Amendment
 
@@ -288,7 +288,7 @@ Secretary.—The term ‘Secretary’ means the Secretary of Health and Human Se
 
 Pub. L. 90–248, title IV, §404, Jan. 2, 1968, 81 Stat. 933, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in the amendments made by this Act \[see Short Title of 1968 Amendment note set out under section 1305 of this title\] (unless the context otherwise requires), the term ‘Secretary’ means the Secretary of Health and Human Services.”
 
-Section 110 of Pub. L. 89–97, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in this Act, and in the provisions of the Social Security Act amended by this Act \[see ShortTitle of 1965 Amendment note set out under section 1305 of this title\], the term ‘Secretary’, unless the context otherwise requires, means the Secretary of Health and Human Services.”
+Section 110 of Pub. L. 89–97, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in this Act, and in the provisions of the Social Security Act amended by this Act \[see Short Title of 1965 Amendment note set out under section 1305 of this title\], the term ‘Secretary’, unless the context otherwise requires, means the Secretary of Health and Human Services.”
 
 Section 6 of Pub. L. 88–156, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in the amendments to the Social Security Act made by this Act \[see Short Title of 1963 Amendment note set out under section 1305 of this title\], the term ‘Secretary’ means the Secretary of Health and Human Services.”
 

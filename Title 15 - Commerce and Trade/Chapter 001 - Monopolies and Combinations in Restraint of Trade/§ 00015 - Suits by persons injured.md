@@ -44,9 +44,9 @@ Section supersedes two former similar sections enacted by act July 2, 1890, ch. 
 
 #### Amendments
 
-1982—Pub. L. 97–393 designated existing provisions as subsec. (a), inserted “Except as provided in subsection (b) of this section,”, and added subsecs. (b) and (c).
+<b>1982</b>—Pub. L. 97–393 designated existing provisions as subsec. (a), inserted “Except as provided in subsection (b) of this section,”, and added subsecs. (b) and (c).
 
-1980—Pub. L. 96–349 inserted provisions respecting award of prejudgment interest including considerations for the court in determining whether an award is just under the circumstances.
+<b>1980</b>—Pub. L. 96–349 inserted provisions respecting award of prejudgment interest including considerations for the court in determining whether an award is just under the circumstances.
 
 #### Effective Date of 1980 Amendment
 

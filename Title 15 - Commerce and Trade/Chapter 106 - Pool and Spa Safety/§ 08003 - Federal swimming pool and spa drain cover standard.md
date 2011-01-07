@@ -2,7 +2,7 @@
 
 #### (a) Consumer product safety rule
 
-The requirements described in subsection (b) shall be treated as a consumer product safetyrule issued by the Consumer Product Safety Commission under the Consumer Product Safety Act (15 U.S.C. 2051 et seq.).
+The requirements described in subsection (b) shall be treated as a consumer product safety rule issued by the Consumer Product Safety Commission under the Consumer Product Safety Act (15 U.S.C. 2051 et seq.).
 
 #### (b) Drain cover standard
 
@@ -76,5 +76,5 @@ The Consumer Product Safety Act, referred to in subsec. (a), is Pub. L. 92–573
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–314 inserted at end “If a successor standard is proposed, the American Society of Mechanical Engineers shall notify the Commission of the proposed revision. If the Commission determines that the proposed revision is in the public interest, it shall incorporate the revision into the standard after providing 30 days notice to the public.”
+<b>2008</b>—Subsec. (b). Pub. L. 110–314 inserted at end “If a successor standard is proposed, the American Society of Mechanical Engineers shall notify the Commission of the proposed revision. If the Commission determines that the proposed revision is in the public interest, it shall incorporate the revision into the standard after providing 30 days notice to the public.”
 

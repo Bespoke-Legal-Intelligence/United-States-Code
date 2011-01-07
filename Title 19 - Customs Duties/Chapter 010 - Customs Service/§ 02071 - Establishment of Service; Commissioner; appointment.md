@@ -22,7 +22,7 @@ References to the Bureau of Prohibition and to the Commissioner of Prohibition w
 
 #### Amendments
 
-1989—Pub. L. 101–207 amended second sentence generally. Prior to amendment, second sentence read as follows: “The Commissioner of Customs shall be at the head of the United States Customs Service, and the Commissioner of Customs shall be appointed by the Secretary of the Treasury.”
+<b>1989</b>—Pub. L. 101–207 amended second sentence generally. Prior to amendment, second sentence read as follows: “The Commissioner of Customs shall be at the head of the United States Customs Service, and the Commissioner of Customs shall be appointed by the Secretary of the Treasury.”
 
 #### Change of Name
 

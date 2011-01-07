@@ -16,7 +16,7 @@ For any federally assisted housing project described in subparagraph (B), (C), (
 
 #### Amendments
 
-2000—Pub. L. 106–569, §851(a)(1), substituted “certain federally assisted housing” for “multifamily housing assisted under National Housing Act” in section catchline.
+<b>2000</b>—Pub. L. 106–569, §851(a)(1), substituted “certain federally assisted housing” for “multifamily housing assisted under National Housing Act” in section catchline.
 
 Subsec. (a). Pub. L. 106–569, §851(a)(2), substituted “subparagraphs (B), (C), (D), (E), (F), and (G) of section 13641(2) of this title” for “subparagraphs (E) and (F) of section 13641(2) of this title”, made technical amendment to reference in original act which appears in text as reference to section 13631 of this title, and inserted at end “A service coordinator funded with a grant under this section for a project may provide services to low-income elderly or disabled families living in the vicinity of such project.”
 

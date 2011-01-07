@@ -26,7 +26,7 @@ Section 102 of the Controlled Substances Act, referred to in subsec. (e)(1), is 
 
 #### Amendments
 
-1994—Subsecs. (a), (b). Pub. L. 103–322, §330016(1)(O), substituted “fined under this title” for “fined not more than $25,000”.
+<b>1994</b>—Subsecs. (a), (b). Pub. L. 103–322, §330016(1)(O), substituted “fined under this title” for “fined not more than $25,000”.
 
 Subsec. (c)(1). Pub. L. 103–322, §330016(1)(P), substituted “fined under this title” for “fined not more than $35,000”.
 

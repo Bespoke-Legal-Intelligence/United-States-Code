@@ -104,7 +104,7 @@ Section 19(b)(1)(C) of the Federal Reserve Act, referred to in subsec. (b)(3), i
 
 #### Amendments
 
-2001—Subsec. (d)(1)(A). Pub. L. 107–56 inserted before semicolon “or any other person who engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;”.
+<b>2001</b>—Subsec. (d)(1)(A). Pub. L. 107–56 inserted before semicolon “or any other person who engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;”.
 
 #### Findings and Purposes
 

@@ -10,9 +10,9 @@ Section 7 of act June 8, 1938, prior to the general amendment of that act by act
 
 #### Amendments
 
-1950—Act Aug. 3, 1950, continued the obligation of officers, directors, and persons acting as such to comply with this subchapter despite the dissolution of a foreign agent.
+<b>1950</b>—Act Aug. 3, 1950, continued the obligation of officers, directors, and persons acting as such to comply with this subchapter despite the dissolution of a foreign agent.
 
-1942—Act Apr. 29, 1942, amended section generally.
+<b>1942</b>—Act Apr. 29, 1942, amended section generally.
 
 #### Effective Date of 1942 Amendment
 

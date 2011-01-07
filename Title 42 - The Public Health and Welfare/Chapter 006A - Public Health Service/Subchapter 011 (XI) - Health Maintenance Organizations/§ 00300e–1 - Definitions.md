@@ -20,7 +20,7 @@ For purposes of this subchapter:
 
 &emsp;(H) preventive health services (including (i) immunizations, (ii) well-child care from birth, (iii) periodic health evaluations for adults, (iv) voluntary family planning services, (v) infertility services, and (vi) children's eye and ear examinations conducted to determine the need for vision and hearing correction).
 
-> Such term does not include a health service which the Secretary, upon application of a health maintenance organization, determines is unusual and infrequently provided and not necessary for the protection of individual health. The Secretary shall publish in the Federal Register each determination made by him under the preceding sentence. If a service of a physician described in the preceding sentence may also be provided under applicable State law by a dentist, optometrist, podiatrist, psychologist, or other health care personnel, a health maintenance organization may provide such service through a dentist, optometrist, podiatrist, psychologist, or other health care personnel (as the case may be) licensed to provide such service. Such term includes a health service directly associated with an organ transplant only if such organ transplant was required to be included in basic health services on April 15, 1985. For purposes of this paragraph, the term “home health services” means health services provided at a member's home by health care personnel, as prescribed or directed by the responsible physician or other authority designated by the health maintenance organization.
+> Such term does not include a health service which the Secretary, upon application of a health maintenance organization, determines isunusual and infrequently provided and not necessary for the protection of individual health. The Secretary shall publish in the Federal Register each determination made by him under the preceding sentence. If a service of a physician described in the preceding sentence may also be provided under applicable State law by a dentist, optometrist, podiatrist, psychologist, or other health care personnel, a health maintenance organization may provide such service through a dentist, optometrist, podiatrist, psychologist, or other health care personnel (as the case may be) licensed to provide such service. Such term includes a health service directly associated with an organ transplant only if such organ transplant was required to be included in basic health services on April 15, 1985. For purposes of this paragraph, the term “home health services” means health services provided at a member's home by health care personnel, as prescribed or directed by the responsible physician or other authority designated by the health maintenance organization.
 
 (2) The term “supplemental health services” means any health service which is not included as a basic health service under paragraph (1) of this section. If a health service provided by a physician may also be provided under applicable State law by a dentist, optometrist, podiatrist, psychologist, or other health care personnel, a health maintenance organization may provide such service through an optometrist, dentist, podiatrist, psychologist, or other health care personnel (as the case may be) licensed to provide such service.
 
@@ -46,7 +46,7 @@ For purposes of this subchapter:
 
 (8)(A) The term “community rating system” means the systems, described in subparagraphs (B) and (C), of fixing rates of payments for health services. A health maintenance organization may fix its rates of payments under the system described in subparagraph (B) or (C) or under both such systems, but a health maintenance organization may use only one such system for fixing its rates of payments for any one group.
 
-(B) A system of fixing rates of payment for health services may provide that the rates shall be fixed on a per-person or per-family basis and may authorize the rates to vary with the number of persons in a family, but, except as authorized in subparagraph (D), such rates must be equivalent for all individuals and for all families of similar composition.
+(B) A system of fixing rates of payment for health services may provide that the rates shall be fixed on a per-person or per-family basis and may authorize the rates to vary with the number of persons in a family, but, except as authorized in subparagraph (D), such rates must beequivalent for all individuals and for all families of similar composition.
 
 (C) A system of fixing rates of payment for health services may provide that the rates shall be fixed for individuals and families by groups. Except as authorized in subparagraph (D), such rates must be equivalent for all individuals in the same group and for all families of similar composition in the same group. If a health maintenance organization is to fix rates of payment for individuals and families by groups, it shall—
 
@@ -84,7 +84,7 @@ Section 300e–9(d) of this title, referred to in par. (4)(C), was redesignated 
 
 #### Amendments
 
-1988—Par. (8)(C). Pub. L. 100–517, §6(b)(1), amended third sentence generally. Prior to amendment, thirdsentence read as follows: “If a health maintenance organization is to fix rates of payment for individuals and families by groups, it shall—
+<b>1988</b>—Par. (8)(C). Pub. L. 100–517, §6(b)(1), amended third sentence generally. Prior to amendment, third sentence read as follows: “If a health maintenance organization is to fix rates of payment for individuals and families by groups, it shall—
 
 &emsp;“(i) classify all of the members of the organization into classes based on factors which the health maintenance organization determines predict the differences in the use of health services by the individuals or families in each class and which have not been disapproved by the Secretary,
 
@@ -94,7 +94,7 @@ Section 300e–9(d) of this title, referred to in par. (4)(C), was redesignated 
 
 Pub. L. 100–517, §6(b)(2), inserted at end “If a health maintenance organization is to fix rates of payment for a group under clause (ii), it shall, upon request of the entity with which it contracts to provide services to such group, disclose to that entity the method and data used in calculating the rates of payment.”
 
-1986—Par. (1). Pub. L. 99–660, §814(a), inserted “psychologist,” in two places in fourth sentence.
+<b>1986</b>—Par. (1). Pub. L. 99–660, §814(a), inserted “psychologist,” in two places in fourth sentence.
 
 Pub. L. 99–660, §812(a), (b)(1), temporarily inserted “Such term includes a health service directly associated with an organ transplant only if such organ transplant was required to be included in basic health services on April 15, 1985.” in closing provisions. See Effective and Termination Dates of 1986 Amendment note below.
 
@@ -104,9 +104,9 @@ Par. (4)(A). Pub. L. 99–660, §814(b), substituted “podiatrists, and psychol
 
 Par. (5). Pub. L. 99–660, §814(c), inserted “psychology,”.
 
-1983—Par. (5)(B). Pub. L. 97–414 amended directory language of Pub. L. 97–35, §942(i), to correct a typographical error, and did not involve any change in text. See 1981 Amendment note below.
+<b>1983</b>—Par. (5)(B). Pub. L. 97–414 amended directory language of Pub. L. 97–35, §942(i), to correct a typographical error, and did not involve any change in text. See 1981 Amendment note below.
 
-1981—Par. (1). Pub. L. 97–35, §942(f), struck out provisions authorizing health maintenance organizations to maintain, etc., drug use profiles of members.
+<b>1981</b>—Par. (1). Pub. L. 97–35, §942(f), struck out provisions authorizing health maintenance organizations to maintain, etc., drug use profiles of members.
 
 Par. (2). Pub. L. 97–35, §942(g), substituted provisions to include services not included under par. (1), for provisions enumerating specific services, substituted “health service provided by a physician” for “service of a physician described in the preceding sentence”, and struck out provisions authorizing health maintenance organizations to maintain, etc., drug use profiles of members.
 
@@ -116,9 +116,9 @@ Par. (5)(B). Pub. L. 97–35, §942(i), as amended by Pub. L. 97–414, §9(c), 
 
 Par. (8). Pub. L. 97–35, §942(j), reorganized and restructured provisions and, among many changes, provided for determinations based upon subpars. (B) and (C), and set out determinations respecting differentials contained in former subpars. (B) and (C) as subpar. (D).
 
-1978—Par. (1). Pub. L. 95–559 inserted provisions to exclude a health service which the Secretary, upon application of a health maintenance organization, determines is unusual and infrequently provided and not necessary for protection of individual health and that the Secretary publish in Federal Register each determination made by him under preceding sentence.
+<b>1978</b>—Par. (1). Pub. L. 95–559 inserted provisions to exclude a health service which the Secretary, upon application of a health maintenance organization, determines is unusual and infrequently provided and not necessary for protection of individual health and that the Secretary publish in Federal Register each determination made by him under preceding sentence.
 
-1976—Par. (1). Pub. L. 94–460, §104(a), substituted reference to immunization, well-child care from birth, periodic health evaluations for adults, and children's ear examinations conducted to determine need for hearing correction for reference to preventive dental care for children in (H) and, in the provisions following subpar. (H), inserted reference to “other health care personnel”.
+<b>1976</b>—Par. (1). Pub. L. 94–460, §104(a), substituted reference to immunization, well-child care from birth, periodic health evaluations for adults, and children's ear examinations conducted to determine need for hearing correction for reference to preventive dental care for children in (H) and, in the provisions following subpar. (H), inserted reference to “other health care personnel”.
 
 Par. (2). Pub. L. 94–460, §104(b), substituted “basic health service” for “basic health service under paragraph (1)(A) or (1)(H)” in subpars. (B) and (C), added subpar. (G), and inserted reference to “other health care personnel” in provisions following subpar. (G).
 
@@ -144,7 +144,7 @@ Section 815 of title VIII of Pub. L. 99–660 provided that:
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–460 effective Oct. 8, 1976, except that amendment of pars. (1) and (2) of this section by section 104 of Pub. L. 94–460 and the amendment of pars. (4)(C) and (5)(B) of this section by sections 102 and 106 of Pub. L. 94–460 applicable with respect to grants, contracts, loans, and loan guarantees made under sections 300e–2, 300e–3, and 300e–4 of this title for fiscal years beginning after Sept. 30, 1976, applicablewith respect to health benefit plans offered under section 300e–9 of this title after Sept. 30, 1976, and effective for purposes of section 300e–11 of this title on Oct. 1, 1976, see section 118 of Pub. L. 94–460, set out as a note under section 300e of this title.
+Amendment by Pub. L. 94–460 effective Oct. 8, 1976, except that amendment of pars. (1) and (2) of this section by section 104 of Pub. L. 94–460 and the amendment of pars. (4)(C) and (5)(B) of this section by sections 102 and 106 of Pub. L. 94–460 applicable with respect to grants, contracts, loans, and loan guarantees made under sections 300e–2, 300e–3, and 300e–4 of this title for fiscal years beginning after Sept. 30, 1976, applicable with respect to health benefit plans offered under section 300e–9 of this title after Sept. 30, 1976, and effective for purposes of section 300e–11 of this title on Oct. 1, 1976, see section 118 of Pub. L. 94–460, set out as a note under section 300e of this title.
 
 #### Construction
 
@@ -156,7 +156,7 @@ Section 812(b)(2) of Pub. L. 99–660, which provided that after Apr. 1, 1988, f
 
 #### Reports Respecting Medically Underserved Areas and Population Groups and Non-Metropolitan Areas
 
-Section 5 of Pub. L. 93–222 directed Secretary of Health, Education, and Welfare to report to Congress the criteria used in the designation of medically underserved areas and population groups for purposes of par. (7) of this section by Dec. 29, 1973, and report to Congress the areas and population groups designated under par. (7) of this section, the comments of State and areawide health planning agencies, and areas which meet the definitional standards of par. (9) of this section for non-metropolitan areas by Dec. 29, 1974, and that the Office of Management and Budget may review such reports before their submission to Congress.
+Section 5 of Pub. L. 93–222 directed Secretary of Health, Education, and Welfare to report to Congress the criteria used in the designation of medically underserved areas and population groups for purposes of par. (7) of this section by Dec. 29, 1973, and report to Congress the areas and population groups designated under par. (7) of this section, the comments of State and areawide health planning agencies, and areas which meet the definitional standards of par. (9) of this section for non-metropolitan areas by Dec. 29, 1974, and that theOffice of Management and Budget may review such reports before their submission to Congress.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “organization”.</i>
 

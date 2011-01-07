@@ -46,9 +46,9 @@ A prior section 214 of Pub. L. 101–647 was renumbered section 214B and is clas
 
 #### Amendments
 
-2002—Subsec. (b)(1). Pub. L. 107–273 substituted “sections 5673 and 5676 of this title” for “sections 5665a, 5673, and 5676 of this title”.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–273 substituted “sections 5673 and 5676 of this title” for “sections 5665a, 5673, and 5676 of this title”.
 
-1992—Pub. L. 102–586, §6(c)(1), substituted “Local children's advocacy centers” for “Authority of Director to make grants” in section catchline.
+<b>1992</b>—Pub. L. 102–586, §6(c)(1), substituted “Local children's advocacy centers” for “Authority of Director to make grants” in section catchline.
 
 Subsec. (a). Pub. L. 102–586, §6(c)(2), substituted “The Administrator, in coordination with the Director and with the Director of the Office of Victims of Crime,” for “The Director of the Office of Victims of Crime (hereinafter in this subchapter referred to as the ‘Director’), in consultation with officials of the Department of Health and Human Services,”.
 

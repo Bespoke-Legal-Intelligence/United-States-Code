@@ -26,13 +26,13 @@ The Administrator and the Comptroller General of the United States, or any of th
 
 #### (f) Detail of Environmental Protection Agency personnel to State water pollution control agencies
 
-Upon the request of a State water pollution control agency, personnel of the EnvironmentalProtection Agency may be detailed to such agency for the purpose of carrying out the provisions of this chapter.
+Upon the request of a State water pollution control agency, personnel of the Environmental Protection Agency may be detailed to such agency for the purpose of carrying out the provisions of this chapter.
 
 (June 30, 1948, ch. 758, title V, §501, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 885; amended Pub. L. 100–4, title V, §501, Feb. 4, 1987, 101 Stat. 75.)
 
 #### Amendments
 
-1987—Subsec. (d). Pub. L. 100–4 inserted provision at end authorizing Administrator to enter into noncompetitive procurement contracts with independent State audit organizations, consistent with chapter 75 of title 31, but only to extent and in such amounts as provided in advance in appropriations Acts.
+<b>1987</b>—Subsec. (d). Pub. L. 100–4 inserted provision at end authorizing Administrator to enter into noncompetitive procurement contracts with independent State audit organizations, consistent with chapter 75 of title 31, but only to extent and in such amounts as provided in advance in appropriations Acts.
 
 #### Environmental Court Feasibility Study
 

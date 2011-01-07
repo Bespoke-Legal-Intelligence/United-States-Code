@@ -21,11 +21,11 @@
 
 #### Amendments
 
-1990—Pub. L. 101–647, title XXXV, §3554, Nov. 29, 1990, 104 Stat. 4927, struck out item 1862 “Trespass on Bull Run National Forest”.
+<b>1990</b>—Pub. L. 101–647, title XXXV, §3554, Nov. 29, 1990, 104 Stat. 4927, struck out item 1862 “Trespass on Bull Run National Forest”.
 
-1988—Pub. L. 100–690, title VI, §6254(g), Nov. 18, 1988, 102 Stat. 4367, added item 1864.
+<b>1988</b>—Pub. L. 100–690, title VI, §6254(g), Nov. 18, 1988, 102 Stat. 4367, added item 1864.
 
-1949—Act May 24, 1949, ch. 139, §41, 63 Stat. 95, substituted in analysis “1859” for “1959”, and added item 1863.
+<b>1949</b>—Act May 24, 1949, ch. 139, §41, 63 Stat. 95, substituted in analysis “1859” for “1959”, and added item 1863.
 
 
 ---

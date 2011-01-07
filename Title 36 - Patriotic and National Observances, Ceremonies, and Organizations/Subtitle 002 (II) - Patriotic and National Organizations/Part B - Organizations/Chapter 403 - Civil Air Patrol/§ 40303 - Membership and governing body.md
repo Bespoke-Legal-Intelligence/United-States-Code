@@ -30,7 +30,7 @@ The words “are as provided in” are substituted for “shall be determined ac
 
 #### Amendments
 
-2000—Pub. L. 106–398 inserted “and governing body” after “Membership” in section catchline, designated existing provisions as subsec. (a), inserted subsec. (a) heading, and added subsec. (b).
+<b>2000</b>—Pub. L. 106–398 inserted “and governing body” after “Membership” in section catchline, designated existing provisions as subsec. (a), inserted subsec. (a) heading, and added subsec. (b).
 
 #### Effective Date of 2000 Amendment
 

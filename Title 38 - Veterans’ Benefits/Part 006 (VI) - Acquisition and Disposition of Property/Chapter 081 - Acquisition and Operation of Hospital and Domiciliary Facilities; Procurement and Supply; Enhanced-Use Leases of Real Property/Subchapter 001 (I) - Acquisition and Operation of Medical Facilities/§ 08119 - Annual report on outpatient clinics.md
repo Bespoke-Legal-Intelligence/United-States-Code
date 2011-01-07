@@ -14,7 +14,7 @@ Contents of Report.—Each report required under subsection (a) shall include th
 
 &emsp;(3) A list of proposed community-based outpatient clinics and other outpatient clinics that are, as of the date of the submission of the report, under review by the National Review Panel and a list of possible locations for future clinics identified in the Department's strategic planning process, including any identified locations in rural and underserved areas.
 
-&emsp;(4) A prioritized list of sites of care identified by the Secretary that the Secretary could establish without carrying out construction or entering into a lease, including—
+&emsp;(4) A prioritized list of sites of care identified by the Secretary that the Secretary couldestablish without carrying out construction or entering into a lease, including—
 
 &emsp;&emsp;(A) any such sites that could be expanded by hiring additional staff or allocating staff to Federal facilities or facilities operating in collaboration with the Federal Government; and
 

@@ -14,19 +14,19 @@ There are hereby authorized to be appropriated for the operations of the Office 
 
 #### References in Text
 
-Public Law 91–190, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, known as the National Environmental Policy Act of 1969, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
+Public Law 91–190, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, known asthe National Environmental Policy Act of 1969, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
 #### Amendments
 
-1984—Cl. (d). Pub. L. 98–581 added cl. (d).
+<b>1984</b>—Cl. (d). Pub. L. 98–581 added cl. (d).
 
-1982—Cl. (c). Pub. L. 97–350 added cl. (c).
+<b>1982</b>—Cl. (c). Pub. L. 97–350 added cl. (c).
 
-1978—Pub. L. 95–300 added cls. (a) and (b). Former cls. (a) to (d), which authorized appropriations of $2,000,000 for fiscal year ending June 30, 1976, $500,000 for transition period of July 1, 1976 to Sept. 30, 1976, $3,000,000 for fiscal year ending Sept. 30, 1977, and $3,000,000 for fiscal year ending Sept. 30, 1978, respectively, were struck out.
+<b>1978</b>—Pub. L. 95–300 added cls. (a) and (b). Former cls. (a) to (d), which authorized appropriations of $2,000,000 for fiscal year ending June 30, 1976, $500,000 for transition period of July 1, 1976 to Sept. 30, 1976, $3,000,000 for fiscal year ending Sept. 30, 1977, and $3,000,000 for fiscal year ending Sept. 30, 1978, respectively, were struck out.
 
-1976—Pub. L. 94–298 made changes in structure by designating existing provisions as cls. (a) and (b) and adding cls. (c) and (d).
+<b>1976</b>—Pub. L. 94–298 made changes in structure by designating existing provisions as cls. (a) and (b) and adding cls. (c) and (d).
 
-1975—Pub. L. 94–52 substituted “$2,000,000 for the fiscal year ending June 30, 1976, and not to exceed $500,000 for the transition period (July 1, 1976 to September 30, 1976)” for “$1,500,000 for the fiscal year ending June 30, 1974, and $2,000,000 for the fiscal year ending June 30, 1975”.
+<b>1975</b>—Pub. L. 94–52 substituted “$2,000,000 for the fiscal year ending June 30, 1976, and not to exceed $500,000 for the transition period (July 1, 1976 to September 30, 1976)” for “$1,500,000 for the fiscal year ending June 30, 1974, and $2,000,000 for the fiscal year ending June 30, 1975”.
 
-1973—Pub. L. 93–36 substituted provisions authorizing to be appropriated for operations of the Office of Environmental Quality and the Council on Environmental Quality $1,500,000 for fiscal year ending June 30, 1974, and $2,000,000 for fiscal year ending June 30, 1975, for provisions authorizing to be appropriated not to exceed $500,000 for fiscal year ending June 30, 1970, not to exceed $750,000 for fiscal year ending June 30, 1971, not to exceed $1,250,000 for fiscal year ending June 30, 1972, and not to exceed $1,500,000 for fiscal year ending June 30, 1973.
+<b>1973</b>—Pub. L. 93–36 substituted provisions authorizing to be appropriated for operations of the Office of Environmental Quality and the Council on Environmental Quality $1,500,000 for fiscal year ending June 30, 1974, and $2,000,000 for fiscal year ending June 30, 1975, for provisions authorizing to be appropriated not to exceed $500,000 for fiscal year ending June 30, 1970, not to exceed $750,000 for fiscal year ending June 30, 1971, not to exceed $1,250,000 for fiscal year ending June 30, 1972, and not to exceed $1,500,000 for fiscal year ending June 30, 1973.
 

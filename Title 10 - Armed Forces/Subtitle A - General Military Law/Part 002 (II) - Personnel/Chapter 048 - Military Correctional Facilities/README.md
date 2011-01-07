@@ -13,15 +13,9 @@
 
 #### Amendments
 
-1984—Pub. L. 98–525, title XIV, §1401(b)(2), Oct. 19, 1984, 98 Stat. 2615, added item 956.
+<b>1984</b>—Pub. L. 98–525, title XIV, §1401(b)(2), Oct. 19, 1984, 98 Stat. 2615, added item 956.
 
-1980—Pub. L. 96–513, title V, §511(26), Dec. 13, 1980, 94 Stat. 2922, added item 955.
-
-<i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “be”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be followed by a period.</i>
+<b>1980</b>—Pub. L. 96–513, title V, §511(26), Dec. 13, 1980, 94 Stat. 2922, added item 955.
 
 
 ---

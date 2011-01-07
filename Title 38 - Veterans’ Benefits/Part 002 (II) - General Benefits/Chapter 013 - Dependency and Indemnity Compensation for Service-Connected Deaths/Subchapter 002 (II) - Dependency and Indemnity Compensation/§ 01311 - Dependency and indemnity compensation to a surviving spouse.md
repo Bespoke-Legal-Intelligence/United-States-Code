@@ -20,7 +20,7 @@
 | E–8 | $1,260 | O–7 | $1,912 |
 | E–9 | $1,314<sup>1</sup> | O–8 | $2,100 |
 | W–1 | $1,219 | O–9 | $2,246 |
-| W–2 | $1,267 | O–10 | $2,463<sup>2</sup> |
+| W–2 | $1,267 | O–10 | $2,463 <sup>2</sup> |
 | W–3 | $1,305 |  |  |
 
 <sup>1</sup> If the veteran served as sergeant major of the Army, senior enlisted advisor of the Navy, chief master sergeant of the Air Force, sergeant major of the Marine Corps, or master chief petty officer of the Coast Guard, at the applicable time designated by section 1302 of this title, the surviving spouse's rate shall be $1,419.
@@ -31,43 +31,53 @@
 
 (c) The monthly rate of dependency and indemnity compensation payable to a surviving spouse shall be increased by $286 if the spouse is (1) a patient in a nursing home or (2) blind, or so nearly blind or significantly disabled as to need or require the regular aid and attendance of another person.
 
-(d) The monthly rate of dependency and indemnity compensation payable to a surviving spouse shall be increased by $135 if the surviving spouse is, by reason of disability, permanently housebound but does not qualify for the aid and attendance allowance under subsection (c) of this section. For the purposes of this subsection, the requirement of “permanently housebound” will be considered to have been met when the surviving spouse is substantially confined to such surviving spouse's home (ward or clinical areas, if institutionalized) or immediate premises by reason of a disability or disabilities which it is reasonably certain will remain throughout such surviving spouse's lifetime.
+(d) The monthly rate of dependency and indemnity compensation payable to a surviving spouse shall be increased by $135 if the surviving spouse is, by reason of disability, permanently housebound but does not qualify for the aid and attendance allowance under subsection (c) of this section. For the purposes of this subsection, the requirement of “permanently housebound”will be considered to have been met when the surviving spouse is substantially confined to such surviving spouse's home (ward or clinical areas, if institutionalized) or immediate premises by reason of a disability or disabilities which it is reasonably certain will remain throughout such surviving spouse's lifetime.
 
 (e) In the case of an individual who is eligible for dependency and indemnity compensation under this section by reason of section 103(d)(2)(B) of this title who is also eligible for benefits under another provision of law by reason of such individual's status as the surviving spouse of a veteran, then, notwithstanding any other provision of law (other than section 5304(b)(3) of this title), no reduction in benefits under such other provision of law shall be made by reason of such individual's eligibility for benefits under this section.
 
-(f)(1) Subject to paragraphs (2) and (3), if there is a surviving spouse with one or more children below the age of 18, the dependency and indemnity compensation paid monthly to the surviving spouse shall be increased by $250, regardless of the number of such children.
+(f)(1) Subject to paragraphs (2) and (3), if there is a surviving spouse with one or more children below the age of 18, the dependency and indemnity compensation paid monthly to the surviving spouse shall be increased by $250 (as increased from time to time under paragraph (4)), regardless of the number of such children.
 
 (2) Dependency and indemnity compensation shall be increased under this subsection only for months occurring during the two-year period beginning on the date on which entitlement to dependency and indemnity compensation commenced.
 
 (3) The increase in dependency and indemnity compensation of a surviving spouse under this subsection shall cease beginning with the first month commencing after the month in which all children of the surviving spouse have attained the age of 18.
 
-(4) Dependency and indemnity compensation under this subsection is in addition to any other dependency and indemnity compensation payable under this chapter.
+(4) Whenever there is an increase in benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) as a result of a determination made under section 215(i) of such Act (42 U.S.C. 415(i)), the Secretary shall, effective on the date of such increase in benefit amounts, increase the amount payable under paragraph (1), as such amount was in effect immediately prior to the date of such increase in benefit amounts, by the same percentage as the percentage by which such benefit amounts are increased. Any increase in a dollar amount under this paragraph shall be rounded down to the next lower whole dollar amount.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1127, §411; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 88–21, §1, May 15, 1963, 77 Stat. 17; Pub. L. 88–134, §1, Oct. 5, 1963, 77 Stat. 223; Pub. L. 91–24, §4(b), June 11, 1969, 83 Stat. 33; Pub. L. 91–96, §3, Oct. 27, 1969, 83 Stat. 144; Pub. L. 91–588, §3(a), Dec. 24, 1970, 84 Stat. 1583; Pub. L. 92–197, §1, Dec. 15, 1971, 85 Stat. 660; Pub. L. 92–455, §4, Oct. 2, 1972, 86 Stat. 761; Pub. L. 93–295, title II, §201, May 31, 1974, 88 Stat. 182; Pub. L. 94–71, title II, §201, Aug. 5, 1975, 89 Stat. 396; Pub. L. 94–433, title II, §201, Sept. 30, 1976, 90 Stat. 1375; Pub. L. 95–117, title II, §201, Oct. 3, 1977, 91 Stat. 1064; Pub. L. 95–479, title II, §201, Oct. 18, 1978, 92 Stat. 1562; Pub. L. 96–128, title II, §201, Nov. 28, 1979, 93 Stat. 984; Pub. L. 96–385, title II, §201, Oct. 7, 1980, 94 Stat. 1529; Pub. L. 97–66, title II, §201, Oct. 17, 1981, 95 Stat. 1028; Pub. L. 97–253, title IV, §405(e), Sept. 8, 1982, 96 Stat. 804; Pub. L. 97–306, title I, §§104, 107, Oct. 14, 1982, 96 Stat. 1430, 1431; Pub. L. 98–223, title I, §104, Mar. 2, 1984, 98 Stat. 38; Pub. L. 98–543, title I, §104, Oct. 24, 1984, 98 Stat. 2736; Pub. L. 99–238, title I, §104, Jan. 13, 1986, 99 Stat. 1766; Pub. L. 99–576, title I, §104, Oct. 28, 1986, 100 Stat. 3251; Pub. L. 100–180, div. A, title XIII, §1314(d)\[(1)\], Dec. 4, 1987, 101 Stat. 1176; Pub. L. 100–227, title I, §104, Dec. 31, 1987, 101 Stat. 1554; Pub. L. 100–687, div. B, title XI, §1104, Nov. 18, 1988, 102 Stat. 4124; Pub. L. 101–237, title I, §104, Dec. 18, 1989, 103 Stat. 2063; Pub. L. 102–3, §5, Feb. 6, 1991, 105 Stat. 9; renumbered §1311 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–152, §5, Nov. 12, 1991, 105 Stat. 986; Pub. L. 102–568, title I, §102(a), (b), Oct. 29, 1992, 106 Stat. 4321, 4322; Pub. L. 103–78, §4, Aug. 13, 1993, 107 Stat. 768; Pub. L. 103–140, §5, Nov. 11, 1993, 107 Stat. 1486; Pub. L. 105–98, §5, Nov. 19, 1997, 111 Stat. 2156; Pub. L. 105–178, title VIII, §8207(a), June 9, 1998, 112 Stat. 495; Pub. L. 106–117, title V, §502(b), Nov. 30, 1999, 113 Stat. 1574; Pub. L. 106–118, §5, Nov. 30, 1999, 113 Stat. 1602; Pub. L. 107–94, §5, Dec. 21, 2001, 115 Stat. 901; Pub. L. 107–330, title III, §309(d), Dec. 6, 2002, 116 Stat. 2830; Pub. L. 108–183, title I, §101(b), Dec. 16, 2003, 117 Stat. 2652; Pub. L. 108–454, title III, §§301(a), 307(d), Dec. 10, 2004, 118 Stat. 3610, 3613; Pub. L. 109–111, §2(d), Nov. 22, 2005, 119 Stat. 2363; Pub. L. 109–233, title V, §502(3), June 15, 2006, 120 Stat. 415; Pub. L. 109–361, §4, Oct. 16, 2006, 120 Stat. 2063; Pub. L. 109–444, §9(d), Dec. 21, 2006, 120 Stat. 3315; Pub. L. 109–461, title X, §§1005(d), 1006(b), Dec. 22, 2006, 120 Stat. 3467, 3468; Pub. L. 110–324, §3(d), Sept. 24, 2008, 122 Stat. 3551; Pub. L. 111–37, §3(d), June 30, 2009, 123 Stat. 1929.)
+(5) Dependency and indemnity compensation under this subsection is in addition to any other dependency and indemnity compensation payable under this chapter.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1127, §411; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 88–21, §1, May 15, 1963, 77 Stat. 17; Pub. L. 88–134, §1, Oct. 5, 1963, 77 Stat. 223; Pub. L. 91–24, §4(b), June 11, 1969, 83 Stat. 33; Pub. L. 91–96, §3, Oct. 27, 1969, 83 Stat. 144; Pub. L. 91–588, §3(a), Dec. 24, 1970, 84 Stat. 1583; Pub. L. 92–197, §1, Dec. 15, 1971, 85 Stat. 660; Pub. L. 92–455, §4, Oct. 2, 1972, 86 Stat. 761; Pub. L. 93–295, title II, §201, May 31, 1974, 88 Stat. 182; Pub. L. 94–71, title II, §201, Aug. 5, 1975, 89 Stat. 396; Pub. L. 94–433, title II, §201, Sept. 30, 1976, 90 Stat. 1375; Pub. L. 95–117, title II, §201, Oct. 3, 1977, 91 Stat. 1064; Pub. L. 95–479, title II, §201, Oct. 18, 1978, 92 Stat. 1562; Pub. L. 96–128, title II, §201, Nov. 28, 1979, 93 Stat. 984; Pub. L. 96–385, title II, §201, Oct. 7, 1980, 94 Stat. 1529; Pub. L. 97–66, title II, §201, Oct. 17, 1981, 95 Stat. 1028; Pub. L. 97–253, title IV, §405(e), Sept. 8, 1982, 96 Stat. 804; Pub. L. 97–306, title I, §§104, 107, Oct. 14, 1982, 96 Stat. 1430, 1431; Pub. L. 98–223, title I, §104, Mar. 2, 1984, 98 Stat. 38; Pub. L. 98–543, title I, §104, Oct. 24, 1984, 98 Stat. 2736; Pub. L. 99–238, title I, §104, Jan. 13, 1986, 99 Stat. 1766; Pub. L. 99–576, title I, §104, Oct. 28, 1986, 100 Stat. 3251; Pub. L. 100–180, div. A, title XIII, §1314(d)\[(1)\], Dec. 4, 1987, 101 Stat. 1176; Pub. L. 100–227, title I, §104, Dec. 31, 1987, 101 Stat. 1554; Pub. L. 100–687, div. B, title XI, §1104, Nov. 18, 1988, 102 Stat. 4124; Pub. L. 101–237, title I, §104, Dec. 18, 1989, 103 Stat. 2063; Pub. L. 102–3, §5, Feb. 6, 1991, 105 Stat. 9; renumbered §1311 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–152, §5, Nov. 12, 1991, 105 Stat. 986; Pub. L. 102–568, title I, §102(a), (b), Oct. 29, 1992, 106 Stat. 4321, 4322; Pub. L. 103–78, §4, Aug. 13, 1993, 107 Stat. 768; Pub. L. 103–140, §5, Nov. 11, 1993, 107 Stat. 1486; Pub. L. 105–98, §5, Nov. 19, 1997, 111 Stat. 2156; Pub. L. 105–178, title VIII, §8207(a), June 9, 1998, 112 Stat. 495; Pub. L. 106–117, title V, §502(b), Nov. 30, 1999, 113 Stat. 1574; Pub. L. 106–118, §5, Nov. 30, 1999, 113 Stat. 1602; Pub. L. 107–94, §5, Dec. 21, 2001, 115 Stat. 901; Pub. L. 107–330, title III, §309(d), Dec. 6, 2002, 116 Stat. 2830; Pub. L. 108–183, title I, §101(b), Dec. 16, 2003, 117 Stat. 2652; Pub. L. 108–454, title III, §§301(a), 307(d), Dec. 10, 2004, 118 Stat. 3610, 3613; Pub. L. 109–111, §2(d), Nov. 22, 2005, 119 Stat. 2363; Pub. L. 109–233, title V, §502(3), June 15, 2006, 120 Stat. 415; Pub. L. 109–361, §4, Oct. 16, 2006, 120 Stat. 2063; Pub. L. 109–444, §9(d), Dec. 21, 2006, 120 Stat. 3315; Pub. L. 109–461, title X, §§1005(d), 1006(b), Dec. 22, 2006, 120 Stat. 3467, 3468; Pub. L. 110–324, §3(d), Sept. 24, 2008, 122 Stat. 3551; Pub. L. 111–37, §3(d), June 30, 2009, 123 Stat. 1929; Pub. L. 111–275, title VI, §602, Oct. 13, 2010, 124 Stat. 2884.)
+
+#### References in Text
+
+The Social Security Act, referred to in subsec. (f)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–37, §3(d)(1)(A), substituted “$1,154” for “$1,091”.
+<b>2010</b>—Subsec. (f)(1). Pub. L. 111–275, §602(1), inserted “(as increased from time to time under paragraph (4))” after “$250”.
+
+Subsec. (f)(4), (5). Pub. L. 111–275, §602(2), (3), added par. (4) and redesignated former par. (4) as (5).
+
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–37, §3(d)(1)(A), substituted “$1,154” for “$1,091”.
 
 Subsec. (a)(2). Pub. L. 111–37, §3(d)(1)(B), substituted “$246” for “$233”.
 
-Subsec. (a)(3). Pub. L. 111–37, §3(d)(2), generally upgraded monthly rates for all pay grades, in footnote 1,substituted “$1,419” for “$1,342”, and, in footnote 2, substituted “$2,643” for “$2,499”.
+Subsec. (a)(3). Pub. L. 111–37, §3(d)(2), generally upgraded monthly rates for all pay grades, in footnote 1, substituted “$1,419” for “$1,342”, and, in footnote 2, substituted “$2,643” for “$2,499”.
 
 Subsecs. (b), (c). Pub. L. 111–37, §3(d)(3)(A), (B), substituted “$286” for “$271”.
 
 Subsec. (d). Pub. L. 111–37, §3(d)(3)(C), substituted “$135” for “$128”.
 
-2008—Subsec. (a)(1). Pub. L. 110–324, §3(d)(1)(A), substituted “$1,091” for “$1,067”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–324, §3(d)(1)(A), substituted “$1,091” for “$1,067”.
 
 Subsec. (a)(2). Pub. L. 110–324, §3(d)(1)(B), substituted “$233” for “$228”.
 
-Subsec. (a)(3). Pub. L. 110–324, §3(d)(2), generally upgraded monthly rates for all pay grades, in footnote 1, substituted “sergeant major of the Army, senior enlisted advisor of the Navy, chief master sergeant of the Air Force, sergeant major of the Marine Corps, or master chief petty officer of the Coast Guard,” for “Sergeant Major of the Army, Senior Enlisted Advisor of the Navy, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, or Master Chief Petty Officer of the Coast Guard,” and “$1,342” for “$1,312”, and, in footnote 2, substituted “Vice-Chairman” for “Vice Chairman” and “$2,499” for “$2,443”.
+Subsec. (a)(3). Pub. L. 110–324, §3(d)(2), generally upgraded monthly rates for all pay grades, in footnote 1,substituted “sergeant major of the Army, senior enlisted advisor of the Navy, chief master sergeant of the Air Force, sergeant major of the Marine Corps, or master chief petty officer of the Coast Guard,” for “Sergeant Major of the Army, Senior Enlisted Advisor of the Navy, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, or Master Chief Petty Officer of the Coast Guard,” and “$1,342” for “$1,312”, and, in footnote 2, substituted “Vice-Chairman” for “Vice Chairman” and “$2,499” for “$2,443”.
 
 Subsecs. (b), (c). Pub. L. 110–324, §3(d)(3)(A), (B), substituted “$271” for “$265”.
 
 Subsec. (d). Pub. L. 110–324, §3(d)(3)(C), substituted “$128” for “$126”.
 
-2006—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2006</b>—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Subsec. (a)(1). Pub. L. 109–461, §1005(d)(1)(A), substituted “$1,067” for “$1,033”.
 
@@ -97,7 +107,7 @@ Pub. L. 109–444, §9(d)(3)(C), which substituted “$126” for “$122”, wa
 
 Subsecs. (e), (f). Pub. L. 109–361 redesignated subsec. (e) relating to increased dependency and indemnity compensation as (f).
 
-2005—Subsec. (a)(1). Pub. L. 109–111, §2(d)(1)(A), substituted “$1,033” for “$967”.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–111, §2(d)(1)(A), substituted “$1,033” for “$967”.
 
 Subsec. (a)(2). Pub. L. 109–111, §2(d)(1)(B), substituted “$221” for “$208”.
 
@@ -109,7 +119,7 @@ Subsec. (c). Pub. L. 109–111, §2(d)(3)(B), substituted “$257” for “$241
 
 Subsec. (d). Pub. L. 109–111, §2(d)(3)(C), substituted “$122” for “$115”.
 
-2004—Subsec. (a)(1). Pub. L. 108–454, §307(d)(1)(A), substituted “$967” for “$948”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–454, §307(d)(1)(A), substituted “$967” for “$948”.
 
 Subsec. (a)(2). Pub. L. 108–454, §307(d)(1)(B), substituted “$208” for “$204”.
 
@@ -123,9 +133,9 @@ Subsec. (d). Pub. L. 108–454, §307(d)(5), substituted “$115” for “$113�
 
 Subsec. (e). Pub. L. 108–454, §301(a), added subsec. (e) relating to increased dependency and indemnity compensation.
 
-2003—Subsec. (e). Pub. L. 108–183 added subsec. (e).
+<b>2003</b>—Subsec. (e). Pub. L. 108–183 added subsec. (e).
 
-2002—Subsec. (a)(1). Pub. L. 107–330, §309(d)(1)(A), substituted “$948” for “$935”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–330, §309(d)(1)(A), substituted “$948” for “$935”.
 
 Subsec. (a)(2). Pub. L. 107–330, §309(d)(1)(B), substituted “$204” for “$202”.
 
@@ -137,7 +147,7 @@ Subsec. (c). Pub. L. 107–330, §309(d)(4), substituted “$237” for “$234�
 
 Subsec. (d). Pub. L. 107–330, §309(d)(5), substituted “$113” for “$112”.
 
-2001—Subsec. (a)(1). Pub. L. 107–94, §5(a)(1), substituted “$935” for “$881”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–94, §5(a)(1), substituted “$935” for “$881”.
 
 Subsec. (a)(2). Pub. L. 107–94, §5(a)(2), substituted “$202” for “$191”.
 
@@ -149,7 +159,7 @@ Subsec. (c). Pub. L. 107–94, §5(d), substituted “$234” for “$222”.
 
 Subsec. (d). Pub. L. 107–94, §5(e), substituted “$112” for “$107”.
 
-1999—Subsec. (a)(1). Pub. L. 106–118, §5(a)(1), substituted “$881” for “$850”.
+<b>1999</b>—Subsec. (a)(1). Pub. L. 106–118, §5(a)(1), substituted “$881” for “$850”.
 
 Subsec. (a)(2). Pub. L. 106–118, §5(a)(2), substituted “$191” for “$185”.
 
@@ -161,9 +171,9 @@ Subsec. (d). Pub. L. 106–118, §5(e), substituted “$107” for “$104”.
 
 Pub. L. 106–117 struck out subsec. (e) which provided that the termination by death, divorce, or annulment of the remarriage of the surviving spouse of a veteran or cessation of a surviving spouse living with another person would not bar the furnishing of dependency or indemnity compensation in the absence of fraud.
 
-1998—Subsec. (e). Pub. L. 105–178 added subsec. (e).
+<b>1998</b>—Subsec. (e). Pub. L. 105–178 added subsec. (e).
 
-1997—Subsec. (a)(1). Pub. L. 105–98, §5(a)(1), substituted “$850” for “$769”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–98, §5(a)(1), substituted “$850” for “$769”.
 
 Subsec. (a)(2). Pub. L. 105–98, §5(a)(2), substituted “$185” for “$169”.
 
@@ -175,7 +185,7 @@ Subsec. (c). Pub. L. 105–98, §5(d), substituted “$215” for “$195”.
 
 Subsec. (d). Pub. L. 105–98, §5(e), substituted “$104” for “$95”.
 
-1993—Subsec. (a)(1). Pub. L. 103–140, §5(1), substituted “$769” for “$750”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–140, §5(1), substituted “$769” for “$750”.
 
 Subsec. (a)(2). Pub. L. 103–140, §5(2), substituted “$169” for “$165”.
 
@@ -191,11 +201,11 @@ Subsec. (d). Pub. L. 103–140, §5(5), substituted “$95” for “$93”.
 
 Pub. L. 103–78, §4(3), substituted “$93” for “$90”.
 
-1992—Subsec. (a). Pub. L. 102–568, §102(a), added pars. (1) to (3) before table and struck out former provision before table which read as follows: “Dependency and indemnity compensation shall be paid to a surviving spouse, based on the pay grade of the person upon whose death entitlement is predicated, at monthly rates set forth in the following table:”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–568, §102(a), added pars. (1) to (3) before table and struck out former provision before table which read as follows: “Dependency and indemnity compensation shall be paid to a surviving spouse, based on the pay grade of the person upon whose death entitlement is predicated, at monthly rates set forth in the following table:”.
 
 Subsec. (b). Pub. L. 102–568, §102(b), substituted “$100 for each such child during fiscal year 1993, $150 for each such child during fiscal year 1994, and $200 for each such child thereafter” for “$71 for each such child”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 411 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 411 of this title as this section.
 
 Subsec. (a). Pub. L. 102–152, §5(1), generally upgraded monthly rates for all pay grades.
 
@@ -215,7 +225,7 @@ Subsec. (d). Pub. L. 102–152, §5(4), substituted “$90” for “$87”.
 
 Pub. L. 102–3, §5(4), substituted “$87” for “$83”.
 
-1989—Subsec. (a). Pub. L. 101–237, §104(1), generally upgraded monthly rates for all pay grades.
+<b>1989</b>—Subsec. (a). Pub. L. 101–237, §104(1), generally upgraded monthly rates for all pay grades.
 
 Subsec. (b). Pub. L. 101–237, §104(2), substituted “$65” for “$62”.
 
@@ -223,7 +233,7 @@ Subsec. (c). Pub. L. 101–237, §104(3), substituted “$169” for “$161”.
 
 Subsec. (d). Pub. L. 101–237, §104(4), substituted “$83” for “$79”.
 
-1988—Subsec. (a). Pub. L. 100–687, §1104(1), generally upgraded monthly rates for all pay grades.
+<b>1988</b>—Subsec. (a). Pub. L. 100–687, §1104(1), generally upgraded monthly rates for all pay grades.
 
 Subsec. (b). Pub. L. 100–687, §1104(2), substituted “$62” for “$60”.
 
@@ -231,7 +241,7 @@ Subsec. (c). Pub. L. 100–687, §1104(3), substituted “$161” for “$155”
 
 Subsec. (d). Pub. L. 100–687, §1104(4), substituted “$79” for “$76”.
 
-1987—Subsec. (a). Pub. L. 100–227, §104(1), generally upgraded monthly rates for all pay grades.
+<b>1987</b>—Subsec. (a). Pub. L. 100–227, §104(1), generally upgraded monthly rates for all pay grades.
 
 Pub. L. 100–180 inserted “or Vice Chairman” in footnote 2 after table.
 
@@ -241,7 +251,7 @@ Subsec. (c). Pub. L. 100–227, §104(3), substituted “$155” for “$149”.
 
 Subsec. (d). Pub. L. 100–227, §104(4), substituted “$76” for “$73”.
 
-1986—Subsec. (a). Pub. L. 99–576, §104(1), generally upgraded monthly rates for all pay grades.
+<b>1986</b>—Subsec. (a). Pub. L. 99–576, §104(1), generally upgraded monthly rates for all pay grades.
 
 Pub. L. 99–238, §104(1), generally upgraded monthly rates for all pay grades.
 
@@ -257,7 +267,7 @@ Subsec. (d). Pub. L. 99–576, §104(4), substituted “$73” for “$72”.
 
 Pub. L. 99–238, §104(4), substituted “$72” for “$70”.
 
-1984—Subsec. (a). Pub. L. 98–543, §104(a), generally upgraded monthly rates for all pay grades.
+<b>1984</b>—Subsec. (a). Pub. L. 98–543, §104(a), generally upgraded monthly rates for all pay grades.
 
 Pub. L. 98–223, §104(a), generally upgraded monthly rates for all pay grades.
 
@@ -273,7 +283,7 @@ Subsec. (d). Pub. L. 98–543, §104(d), substituted “$70” for “$68”.
 
 Pub. L. 98–223, §104(d), substituted “$68” for “$66”.
 
-1982—Subsec. (a). Pub. L. 97–306, §§104(a), 107, 108, generally upgraded monthly rates for all pay grades, and repealed amendments made by Pub. L. 97–253, §405(e)(1), eff. Oct. 1, 1982.
+<b>1982</b>—Subsec. (a). Pub. L. 97–306, §§104(a), 107, 108, generally upgraded monthly rates for all pay grades, and repealed amendments made by Pub. L. 97–253, §405(e)(1), eff. Oct. 1, 1982.
 
 Pub. L. 97–253, §405(e)(1), (h), eff. Jan. 1, 1983, lowered monthly rates for all grades and for positions mentioned in footnotes by $1, except for grades E–3 through E–7.
 
@@ -289,7 +299,7 @@ Subsec. (d). Pub. L. 97–306, §§104(d), 107, 108, substituted “$66” for �
 
 Pub. L. 97–253, §405(e)(4), (h), eff. Jan. 1, 1983, substituted “$61” for “$62” after “shall be increased by”.
 
-1981—Subsec. (a). Pub. L. 97–66, §201(a), generally upgraded monthly rates for all pay grades.
+<b>1981</b>—Subsec. (a). Pub. L. 97–66, §201(a), generally upgraded monthly rates for all pay grades.
 
 Subsec. (b). Pub. L. 97–66, §201(b), increased from $43 to $48 monthly dependency and indemnity compensation rate for each child.
 
@@ -297,7 +307,7 @@ Subsec. (c). Pub. L. 97–66, §201(c), increased monthly rate of compensation f
 
 Subsec. (d). Pub. L. 97–66, §201(d), increased monthly rate of compensation from $56 to $62.
 
-1980—Subsec. (a). Pub. L. 96–385, §201(a), generally upgraded monthly rates for all pay grades.
+<b>1980</b>—Subsec. (a). Pub. L. 96–385, §201(a), generally upgraded monthly rates for all pay grades.
 
 Subsec. (b). Pub. L. 96–385, §201(b), increased from $38 to $43 monthly dependency and indemnity compensation rate for each child.
 
@@ -305,7 +315,7 @@ Subsec. (c). Pub. L. 96–385, §201(c), increased monthly rate of compensation 
 
 Subsec. (d). Pub. L. 96–385, §201(d), increased monthly rate of compensation from $49 to $56.
 
-1979—Subsec. (a). Pub. L. 96–128, §201(a), generally upgraded monthly rates for all pay grades.
+<b>1979</b>—Subsec. (a). Pub. L. 96–128, §201(a), generally upgraded monthly rates for all pay grades.
 
 Subsec. (b). Pub. L. 96–128, §201(b), increased from $35 to $38 monthly dependency and indemnity compensation rate for each child.
 
@@ -313,7 +323,7 @@ Subsec. (c). Pub. L. 96–128, §201(c), increased monthly rate of compensation 
 
 Subsec. (d). Pub. L. 96–128, §201(d), increased monthly rate from $45 to $49.
 
-1978—Subsec. (a). Pub. L. 95–479, §201(a), generally upgraded monthly rates for all pay grades.
+<b>1978</b>—Subsec. (a). Pub. L. 95–479, §201(a), generally upgraded monthly rates for all pay grades.
 
 Subsec. (b). Pub. L. 95–479, §201(b), increased from $33 to $35 monthly dependency and indemnity compensation rate for each child.
 
@@ -321,13 +331,13 @@ Subsec. (c). Pub. L. 95–479, §201(c), increased monthly rate of compensation 
 
 Subsec. (d). Pub. L. 95–479, §201(d), added subsec. (d).
 
-1977—Subsec. (a). Pub. L. 95–117 generally upgraded monthly rates for all pay grades.
+<b>1977</b>—Subsec. (a). Pub. L. 95–117 generally upgraded monthly rates for all pay grades.
 
 Subsec. (b). Pub. L. 95–117 increased from $31 to $33 monthly dependency and indemnity compensation rate for each child.
 
 Subsec. (c). Pub. L. 95–117 increased monthly rate of compensation payable to a surviving spouse from $78 to $83.
 
-1976—Pub. L. 94–433 substituted “surviving spouse” for “widow” in section catchline.
+<b>1976</b>—Pub. L. 94–433 substituted “surviving spouse” for “widow” in section catchline.
 
 Subsec. (a). Pub. L. 94–433 substituted “surviving spouse” for “widow” and “pay grade of the person upon whose death entitlement is predicated” for “pay grade of her deceased husband” in text and “surviving spouse's rate” for “widow's rate” in footnotes 1 and 2 and generally upgraded monthly rates for all pay grades.
 
@@ -335,29 +345,29 @@ Subsec. (b). Pub. L. 94–433 substituted “surviving spouse” for “widow”
 
 Subsec. (c). Pub. L. 94–433 substituted “surviving spouse” and “spouse” for “widow” and “she” and increased monthly rate of compensation payable from $72 to $78.
 
-1975—Subsec. (a). Pub. L. 94–71 generally upgraded monthly rates for all pay grades.
+<b>1975</b>—Subsec. (a). Pub. L. 94–71 generally upgraded monthly rates for all pay grades.
 
 Subsec. (b). Pub. L. 94–71 increased from $26 to $29 monthly dependency and indemnity compensation rate for each child.
 
 Subsec. (c). Pub. L. 94–71 increased monthly rate of compensation payable to a widow from $64 to $72.
 
-1974—Subsec. (a). Pub. L. 93–295 generally upgraded monthly rates for all pay grades.
+<b>1974</b>—Subsec. (a). Pub. L. 93–295 generally upgraded monthly rates for all pay grades.
 
 Subsec. (b). Pub. L. 93–295 increased from $22 to $26 monthly dependency and indemnity compensation rate for each child.
 
 Subsec. (c). Pub. L. 93–295 increased monthly rate of compensation payable to the widow from $55 to $64.
 
-1972—Subsec. (a). Pub. L. 92–455 substituted in footnote 1 of table “chief master sergeant of the Air Force, sergeant major of the Marine Corps, or master chief petty officer of the Coast Guard,” for “chief master sergeant of the Air Force, or sergeant major of the Marine Corps,”.
+<b>1972</b>—Subsec. (a). Pub. L. 92–455 substituted in footnote 1 of table “chief master sergeant of the Air Force, sergeant major of the Marine Corps, or master chief petty officer of the Coast Guard,” for “chief master sergeant of the Air Force, or sergeant major of the Marine Corps,”.
 
-1971—Subsec. (a). Pub. L. 92–197 generally upgraded monthly rate for all pay grades.
+<b>1971</b>—Subsec. (a). Pub. L. 92–197 generally upgraded monthly rate for all pay grades.
 
 Subsec. (b). Pub. L. 92–197 increased dependency and indemnity compensation rate by $22 per month for each child from $20.
 
 Subsec. (c). Pub. L. 92–197 reenacted subsec. (c) without change.
 
-1970—Subsec. (c). Pub. L. 91–588 substituted “$55” for “$50”.
+<b>1970</b>—Subsec. (c). Pub. L. 91–588 substituted “$55” for “$50”.
 
-1969—Subsec. (a). Pub. L. 91–96 substituted provisions setting forth dependency and indemnity compensation table based on the pay grade of the deceased husband for provisions that dependency and indemnity compensation was to be paid at a monthly rate equal to $120 plus 12 per centum of basic pay of the deceased husband.
+<b>1969</b>—Subsec. (a). Pub. L. 91–96 substituted provisions setting forth dependency and indemnity compensation table based on the pay grade of the deceased husband for provisions that dependency and indemnity compensation was to be paid at a monthly rate equal to $120 plus 12 per centum of basic pay of the deceased husband.
 
 Subsec. (b). Pub. L. 91–96 substituted provisions which increased dependency and indemnity compensation rate by $20 per month for each child below the age of eighteen of a deceased veteran for provisions which increased dependency and indemnity compensation rate by $28 per month for each child of a deceased veteran in excess of one where there was a widow and two or more children below the age of eighteen and the total of monthly benefits they were receiving was less than a determined amount.
 
@@ -367,11 +377,11 @@ Subsecs. (d) to (f). Pub. L. 91–96 struck out subsecs. (d) to (f) which provid
 
 Subsec. (d)(3). Pub. L. 91–24 substituted “section 228c–1(h)” for “section 228c–1(i)”.
 
-1963—Subsec. (a). Pub. L. 88–134 increased from $112 to $120 the monthly rate of widow's dependency and indemnity compensation.
+<b>1963</b>—Subsec. (a). Pub. L. 88–134 increased from $112 to $120 the monthly rate of widow's dependency and indemnity compensation.
 
 Subsec. (b). Pub. L. 88–21 substituted “$28” for “$25”.
 
-1961—Subsec. (d)(1). Pub. L. 87–268 substituted “section 412(a)” for “section 412”.
+<b>1961</b>—Subsec. (d)(1). Pub. L. 87–268 substituted “section 412(a)” for “section 412”.
 
 #### Effective Date of 2009 Amendment
 
@@ -405,7 +415,7 @@ Amendment by Pub. L. 106–117 effective on first day of first month beginning a
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–178, title VIII, §8207(b), June 9, 1998, 112 Stat. 495, provided that: “No payment may be made by reason of section 1311(e) of title 38, United States Code, as added by subsection (a) \[amending this section\], for any month before October 1998.”
+Pub. L. 105–178, title VIII, §8207(b), June 9, 1998, 112 Stat. 495, provided that: “No payment may be made byreason of section 1311(e) of title 38, United States Code, as added by subsection (a) \[amending this section\], for any month before October 1998.”
 
 #### Effective Date of 1997 Amendment
 
@@ -513,7 +523,7 @@ Section 405(e) of Pub. L. 97–253, cited as a credit to this section, was repea
 
 #### Savings Provision
 
-Section 13(a) of Pub. L. 88–132, Oct. 2, 1963, 77 Stat. 218, provided that: “The enactment of this Act \[see Short Title note under section 201 of Title 37, Pay and Allowances of the Uniformed Services\] does not reduce the rate of dependency and indemnity compensation under section 411 \[now 1311\] of title 38, United States Code, that any person was receiving on the day before the effective date of this Act \[Oct. 1, 1963\] or which thereafter becomes payable for that day by reason of a subsequent determination.”
+Section 13(a) of Pub. L. 88–132, Oct. 2, 1963, 77 Stat. 218, provided that: “The enactment of this Act \[seeShort Title note under section 201 of Title 37, Pay and Allowances of the Uniformed Services\] does not reduce the rate of dependency and indemnity compensation under section 411 \[now 1311\] of title 38, United States Code, that any person was receiving on the day before the effective date of this Act \[Oct. 1, 1963\] or which thereafter becomes payable for that day by reason of a subsequent determination.”
 
 #### Transfer of Functions
 

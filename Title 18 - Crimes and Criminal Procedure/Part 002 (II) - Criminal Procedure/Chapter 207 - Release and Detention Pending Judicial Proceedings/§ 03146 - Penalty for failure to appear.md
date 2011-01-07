@@ -34,7 +34,7 @@ Affirmative Defense.—It is an affirmative defense to a prosecution under this 
 
 (d)
 
-Declaration of Forfeiture.—If a person fails to appear before a court as required, and the person executed an appearance bond pursuant to section 3142(b) of this title or is subject to the release condition set forth in clause (xi) or\(xii) of section 3142(c)(1)(B) of this title, the judicial officer may, regardless of whether the person has been charged with an offense under this section, declare any property designated pursuant to that section to be forfeited to the United States.
+Declaration of Forfeiture.—If a person fails to appear before a court as required, and the person executed an appearance bond pursuant to section 3142(b) of this title or is subject to the release condition set forth in clause (xi) or (xii) of section 3142(c)(1)(B) of this title, the judicial officer may, regardless of whether the person has been charged with an offense under this section, declare any property designated pursuant to that section to be forfeited to the United States.
 
 (Added Pub. L. 98–473, title II, §203(a), Oct. 12, 1984, 98 Stat. 1982; amended Pub. L. 99–646, §55(f), Nov. 10, 1986, 100 Stat. 3609; Pub. L. 103–322, title XXXIII, §330016(2)(K), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–294, title VI, §601(a)(4), Oct. 11, 1996, 110 Stat. 3498.)
 
@@ -46,11 +46,11 @@ Another prior section 3146, act Aug. 20, 1954, ch. 772, §1, 68 Stat. 747, which
 
 #### Amendments
 
-1996—Subsec. (b)(1)(A)(iv). Pub. L. 104–294 substituted “a fine under this title” for “a fined under this title”.
+<b>1996</b>—Subsec. (b)(1)(A)(iv). Pub. L. 104–294 substituted “a fine under this title” for “a fined under this title”.
 
-1994—Subsec. (b)(1)(A)(iv). Pub. L. 103–322 substituted “fined under this title” for “fine under this chapter”.
+<b>1994</b>—Subsec. (b)(1)(A)(iv). Pub. L. 103–322 substituted “fined under this title” for “fine under this chapter”.
 
-1986—Subsec. (a). Pub. L. 99–646, §55(f)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “A person commits an offense if, after having been released pursuant to this chapter—
+<b>1986</b>—Subsec. (a). Pub. L. 99–646, §55(f)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “A person commits an offense if, after having been released pursuant to this chapter—
 
 &emsp;“(1) he knowingly fails to appear before a court as required by the conditions of his release; or
 

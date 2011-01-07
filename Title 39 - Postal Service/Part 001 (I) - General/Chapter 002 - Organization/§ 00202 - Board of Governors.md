@@ -22,9 +22,9 @@
 
 &emsp;(C) solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations.
 
-(3) The Inspector General may at any time be removed upon the written concurrence of at least 7 Governors, but only for cause. Nothing in this subsection shall be considered to exempt the Governors from the requirements of section 8G(e) of the Inspector General Act of 1978.
+(3) The Inspector General may at any time be removed upon the written concurrence of at least 7 Governors, but only for cause. Nothing inthis subsection shall be considered to exempt the Governors from the requirements of section 8G(e) of the Inspector General Act of 1978.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 720; Pub. L. 98–81, §2, Aug. 23, 1983, 97 Stat. 487; Pub. L. 99–190, §144, Dec. 19, 1985, 99 Stat. 1324; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§644(a), 662(a)(1)\], Sept. 30, 1996, 110 Stat. 3009–314,3009–366, 3009–378; Pub. L. 109–435, title V, §501(a)(1), (b), (c)(1), (d)(1), Dec. 20, 2006, 120 Stat. 3232, 3233.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 720; Pub. L. 98–81, §2, Aug. 23, 1983, 97 Stat. 487; Pub. L. 99–190, §144, Dec. 19, 1985, 99 Stat. 1324; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§644(a), 662(a)(1)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–366, 3009–378; Pub. L. 109–435, title V, §501(a)(1), (b), (c)(1), (d)(1), Dec. 20, 2006, 120 Stat. 3232, 3233.)
 
 #### References in Text
 
@@ -32,7 +32,7 @@ Section 8G of the Inspector General Act of 1978, referred to in subsec. (e), is 
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–435, §501(a)(1), designated existing provisions as par. (1) and substituted “The Governors shall represent the public interest generally, and shall be chosen solely on the basis of their experience in the field of public service, law or accounting or on their demonstrated ability in managing organizations or corporations (in either the public or private sector) of substantial size; except that at least 4 of the Governors shall be chosen solely on the basis of their demonstrated ability in managing organizations or corporations (in either the public or private sector) that employ at least 50,000 employees. The Governors shall not be representatives of specific interests using the Postal Service, and may be removed only for cause.” for “The Governors shall be chosen to represent the public interest generally, and shall not be representatives of specific interests using the Postal Service, and may be removed only for cause.”
+<b>2006</b>—Subsec. (a). Pub. L. 109–435, §501(a)(1), designated existing provisions as par. (1) and substituted “The Governors shall represent the public interest generally, and shall be chosen solely on the basis of their experience in the field of public service, law or accounting or on their demonstrated ability in managing organizations or corporations (in either the public or private sector) of substantial size; except that at least 4 of the Governors shall be chosen solely on the basis of their demonstrated ability in managing organizations or corporations (in either the public or private sector) that employ at least 50,000 employees. The Governors shall not be representatives of specific interests using the Postal Service, and may be removed only for cause.” for “The Governors shall be chosen to represent the public interest generally, and shall not be representatives of specific interests using the Postal Service, and may be removed only for cause.”
 
 Subsec. (a)(2). Pub. L. 109–435, §501(b), added par. (2).
 
@@ -40,13 +40,13 @@ Subsec. (b). Pub. L. 109–435, §501(d)(1), designated existing provisions as p
 
 Pub. L. 109–435, §501(c)(1), which directed amendment of first sentence by substituting “7 years” for “9 years”, was executed by making substitution for “9 years” the first place appearing in first sentence, to reflect the probable intent of Congress.
 
-1996—Subsec. (a). Pub. L. 104–208, §101(f) \[title VI, §644(a)\], substituted “$30,000 a year” for “$10,000 a year”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §101(f) \[title VI, §644(a)\], substituted “$30,000 a year” for “$10,000 a year”.
 
 Subsec. (e). Pub. L. 104–208, §101(f) \[title VI, §662(a)(1)\], added subsec. (e).
 
-1985—Subsec. (a). Pub. L. 99–190 substituted “42” for “30” in two places.
+<b>1985</b>—Subsec. (a). Pub. L. 99–190 substituted “42” for “30” in two places.
 
-1983—Subsec. (b). Pub. L. 98–81 inserted provision that a Governor may continue to serve after the expiration of his term until his successor has qualified, but not to exceed one year.
+<b>1983</b>—Subsec. (b). Pub. L. 98–81 inserted provision that a Governor may continue to serve after the expiration of his term until his successor has qualified, but not to exceed one year.
 
 #### Effective Date of 2006 Amendment
 

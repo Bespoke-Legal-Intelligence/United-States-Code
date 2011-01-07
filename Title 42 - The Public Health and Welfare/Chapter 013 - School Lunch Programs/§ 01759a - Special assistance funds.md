@@ -4,7 +4,7 @@
 
 (1)(A) Except as provided in section 1759 of this title, in each fiscal year each State educational agency shall receive special assistance payments in an amount equal to the sum of the product obtained by multiplying the number of lunches (consisting of a combination of foods which meet the minimum nutritional requirements prescribed by the Secretary pursuant to section 1758(a) of this title) served free to children eligible for such lunches in schools within that State during such fiscal year by the special assistance factor for free lunches prescribed by the Secretary for such fiscal year and the product obtained by multiplying the number of lunches served at a reduced price to children eligible for such reduced price lunches in schools within that State during such fiscal year by the special assistance factor for reduced price lunches prescribed by the Secretary for such fiscal year.
 
-(B) Except as provided in subparagraph (C), (D), or (E), in the case of any school which determines that at least 80 percent of the children in attendance during a school year (hereinafter in this sentence referred to as the “first school year”) are eligible for free lunches or reduced price lunches, special assistance payments shall be paid to the State educational agency with respect to that school, if that school so requests for the school year following the first school year, on the basis of the number of free lunches or reduced price lunches, as the case may be, that are served by that school during the school year for which the request is made, to those children who were determined to be so eligible in the first school year and the number of free lunches and reduced price lunches served during that year to other children determined for that year to be eligible for such lunches.
+(B) Except as provided in subparagraph (C), (D), (E), or (F), in the case of any school which determines that at least 80 percent of the children in attendance during a school year (hereinafter in this sentence referred to as the “first school year”) are eligible for free lunches or reduced price lunches, special assistance payments shall be paid to the State educational agency with respect to that school, if that school so requests for the school year following the first school year, on the basis of the number of free lunches or reduced price lunches, as the case may be, that are served by that school during the school year for which the request is made, to those children who were determined to be so eligible in the first school year and the number of free lunches and reduced price lunches served during that year to other children determined for that year to be eligible for such lunches.
 
 (C)(i) Except as provided in subparagraph (D), in the case of any school or school district that—
 
@@ -28,13 +28,245 @@
 
 (E)(i) In the case of any school or school district that—
 
-&emsp;(I) elects to serve all children in the school or school district free lunches under the school lunch program during any period of 4 successive school years, or in the case of a school or school district that serves both lunches and breakfasts, elects to serve all children in the school or school district freelunches and free breakfasts under the school lunch program and the school breakfast program during any period of 4 successive school years; and
+&emsp;(I) elects to serve all children in the school or school district free lunches under the school lunch program during any period of 4 successive school years, or in the case of a school or school district that serves both lunches and breakfasts, elects to serve all children in the school or school district free lunches and free breakfasts under the school lunch program and the school breakfast program during any period of 4 successive school years; and
 
 &emsp;(II) pays, from sources other than Federal funds, for the costs of serving the lunches or breakfasts that are in excess of the value of assistance received under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) with respect to the number of lunches or breakfasts served during the period;
 
 > total Federal cash reimbursements and total commodity assistance shall be provided to the State educational agency with respect to the school or school district at a level that is equal to the total Federal cash reimbursements and total commodity assistance received by the school or school district in the last school year for which the school or school district accepted applications under the school lunch or school breakfast program, adjusted annually for inflation in accordance with paragraph (3)(B) and for changes in enrollment, to carry out the school lunch or school breakfast program.
 
 (ii) A school or school district described in clause (i) may reapply to the State at the end of the 4-school-year period described in clause (i), and at the end of each 4-school-year period thereafter for which the school or school district receives reimbursements and assistance under this subparagraph, for the purpose of continuing to receive the reimbursements and assistance for a subsequent 4-school-year period. The State may approve an application under this clause if the State determines, through available socioeconomic data approved by the Secretary, that the income level of the population of the school or school district has remained consistent with the income level of the population of the school or school district in the last school year for which the school or school district accepted the applications described in clause (i).
+
+(F)
+
+Universal meal service in high poverty areas.—
+
+&emsp;(i)
+
+Definition of identified students.—The term “identified students” means students certified based on documentation of benefit receipt or categorical eligibility as described in section 245.6a(c)(2) of title 7, Code of Federal Regulations (or successor regulations).
+
+&emsp;(ii)
+
+Election of special assistance payments.—
+
+&emsp;&emsp;(I)
+
+In general.—A local educational agency may, for all schools in the district or on behalf of certain schools in the district, elect to receive special assistance payments under this subparagraph in lieu of special assistance payments otherwise made available under this paragraph based on applications for free and reduced price lunches if—
+
+&emsp;&emsp;&emsp;(aa) during a period of 4 successive school years, the local educational agency elects to serve all children in the applicable schools free lunches and breakfasts under the school lunch program under this chapter and the school breakfast program established under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773);
+
+&emsp;&emsp;&emsp;(bb) the local educational agency pays, from sources other than Federal funds, the costs of serving the lunches or breakfasts that are in excess of the value of assistance received under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.);
+
+&emsp;&emsp;&emsp;(cc) the local educational agency is not a residential child care institution (as that term is used in section 210.2 of title 7, Code of Federal Regulations (or successor regulations)); and
+
+&emsp;&emsp;&emsp;(dd) during the school year prior to the first year of the period for which the local educational agency elects to receive special assistance payments under this subparagraph, the local educational agency or school had a percentage of enrolled students who were identified students that meets or exceeds the threshold described in clause (viii).
+
+&emsp;&emsp;(II)
+
+Election to stop receiving payments.—A local educational agency may, for all schools in the district or on behalf of certain schools in the district, elect to stop receiving special assistance payments under this subparagraph for the following school year by notifying the State agency not later than June 30 of the current school year of the intention to stop receiving special assistance payments under this subparagraph.
+
+&emsp;(iii)
+
+First year of option.—
+
+&emsp;&emsp;(I)
+
+Special assistance payment.—For each month of the first school year of the 4-year period during which a school or local educational agency elects to receive payments under this subparagraph, special assistance payments at the rate for free meals shall be made under this subparagraph for a percentage of all reimbursable meals served in an amount equal to the product obtained by multiplying—
+
+&emsp;&emsp;&emsp;(aa) the multiplier described in clause (vii); by
+
+&emsp;&emsp;&emsp;(bb) the percentage of identified students at the school or local educational agency as of April 1 of the prior school year, up to a maximum of 100 percent.
+
+&emsp;&emsp;(II)
+
+Payment for other meals.—The percentage of meals served that is not described in subclause (I) shall be reimbursed at the rate provided under section 1753 of this title.
+
+&emsp;(iv)
+
+Second, third, or fourth year of option.—
+
+&emsp;&emsp;(I)
+
+Special assistance payment.—For each month of the second, third, or fourth school year of the 4-year period during which a school or local educational agency elects to receive payments under this subparagraph, special assistance payments at the rate for free meals shall be made under this subparagraph for a percentage of all reimbursable meals served in an amount equal to the product obtained by multiplying—
+
+&emsp;&emsp;&emsp;(aa) the multiplier described in clause (vii); by
+
+&emsp;&emsp;&emsp;(bb) the higher of the percentage of identified students at the school or local educational agency as of April 1 of the prior school year or the percentage of identified students at the school or local educational agency as of April 1 of the school year prior to the first year that the school or local educational agency elected to receive special assistance payments under this subparagraph, up to a maximum of 100 percent.
+
+&emsp;&emsp;(II)
+
+Payment for other meals.—The percentage of meals served that is not described in subclause (I) shall be reimbursed at the rate provided under section 1753 of this title.
+
+&emsp;(v)
+
+Grace year.—
+
+&emsp;&emsp;(I)
+
+In general.—If, not later than April 1 of the fourth year of a 4-year period described in clause (ii)(I), a school or local educational agency has a percentage of enrolled students who are identified students that meets or exceeds a percentage that is 10 percentage points lower than the threshold described in clause (viii), the school or local educational agency may elect to receive special assistance payments under subclause (II) for an additional grace year.
+
+&emsp;&emsp;(II)
+
+Special assistance payment.—For each month of a grace year, special assistance payments at the rate for free meals shall be made under this subparagraph for a percentage of all reimbursable meals served in an amount equal to the product obtained by multiplying—
+
+&emsp;&emsp;&emsp;(aa) the multiplier described in clause (vii); by
+
+&emsp;&emsp;&emsp;(bb) the percentage of identified students at the school or local educational agency as of April 1 of the prior school year, up to a maximum of 100 percent.
+
+&emsp;&emsp;(III)
+
+Payment for other meals.—The percentage of meals served that is not described in subclause (II) shall be reimbursed at the rate provided under section 1753 of this title.
+
+&emsp;(vi)
+
+Applications.—A school or local educational agency that receives special assistance payments under this subparagraph may not be required to collect applications for free and reduced price lunches.
+
+&emsp;(vii)
+
+Multiplier.—
+
+&emsp;&emsp;(I)
+
+Phase-in.—For each school year beginning on or before July 1, 2013, the multiplier shall be 1.6.
+
+&emsp;&emsp;(II)
+
+Full implementation.—For each school year beginning on or after July 1,2014, the Secretary may use, as determined by the Secretary—
+
+&emsp;&emsp;&emsp;(aa) a multiplier between 1.3 and 1.6; and
+
+&emsp;&emsp;&emsp;(bb) subject to item (aa), a different multiplier for different schools or local educational agencies.
+
+&emsp;(viii)
+
+Threshold.—
+
+&emsp;&emsp;(I)
+
+Phase-in.—For each school year beginning on or before July 1, 2013, the threshold shall be 40 percent.
+
+&emsp;&emsp;(II)
+
+Full implementation.—For each school year beginning on or after July 1, 2014, the Secretary may use a threshold that is less than 40 percent.
+
+&emsp;(ix)
+
+Phase-in.—
+
+&emsp;&emsp;(I)
+
+In general.—In selecting States for participation during the phase-in period, the Secretary shall select States with an adequate number and variety of schools and local educational agencies that could benefit from the option under this subparagraph, as determined by the Secretary.
+
+&emsp;&emsp;(II)
+
+Limitation.—The Secretary may not approve additional schools and local educational agencies to receive special assistance payments under this subparagraph after the Secretary has approved schools and local educational agencies in—
+
+&emsp;&emsp;&emsp;(aa) for the school year beginning on July 1, 2011, 3 States; and
+
+&emsp;&emsp;&emsp;(bb) for each of the school years beginning July 1, 2012 and July 1, 2013, an additional 4 States per school year.
+
+&emsp;(x)
+
+Election of option.—
+
+&emsp;&emsp;(I)
+
+In general.—For each school year beginning on or after July 1, 2014, any local educational agency eligible to make the election described in clause (ii) for all schools in the district or on behalf of certain schools in the district may elect to receive special assistance payments under clause (iii) for the next school year if, not later than June 30 of the current school year, the local educational agency submits to the State agency the percentage of identified students at the school or local educational agency.
+
+&emsp;&emsp;(II)
+
+State agency notification.—Not later than May 1 of each school year beginning on or after July 1, 2011, each State agency with schools or local educational agencies that may be eligible to elect to receive special assistance payments under this subparagraph shall notify—
+
+&emsp;&emsp;&emsp;(aa) each local educational agency that meets or exceeds the threshold described in clause (viii) that the local educational agency is eligible to elect to receive special assistance payments under clause (iii) for the next 4 school years, of the blended reimbursement rate the local educational agency would receive under clause (iii), and of the procedures for the local educational agency to make the election;
+
+&emsp;&emsp;&emsp;(bb) each local educational agency that receives special assistance payments under clause (iii) of the blended reimbursement rate the local educational agency would receive under clause (iv);
+
+&emsp;&emsp;&emsp;(cc) each local educational agency in the fourth year of electing to receive special assistance payments under this subparagraph that meets or exceeds a percentage that is 10 percentage points lower than the threshold described in clause (viii) and that receives special assistance payments under clause (iv), that the local educational agency may continue to receive such payments for the next school year, of the blended reimbursement rate the local educational agency would receive under clause (v), and of the procedures for the local educational agency to make the election; and
+
+&emsp;&emsp;&emsp;(dd) each local educational agency that meets or exceeds a percentage that is 10 percentage points lower than the threshold described in clause (viii) that the local educational agency may be eligible to elect to receive special assistance payments under clause (iii) if the threshold described in clause (viii) is met by April 1 of the school year or if the threshold is met for a subsequent school year.
+
+&emsp;&emsp;(III)
+
+Public notification of local educational agencies.—Not later than May 1 of each school year beginning on or after July 1, 2011, each State agency with 1 or more schools or local educational agencies eligible to elect to receive special assistance payments under clause (iii) shall submit to the Secretary, and the Secretary shall publish, lists of the local educational agencies receiving notices under subclause (II).
+
+&emsp;&emsp;(IV)
+
+Public notification of schools.—Not later than May 1 of each school year beginning on or after July 1, 2011, each local educational agency in a State with 1 or more schools eligible to elect to receive special assistance payments under clause (iii) shall submit to the State agency, and the State agency shall publish—
+
+&emsp;&emsp;&emsp;(aa) a list of the schools that meet or exceed the threshold described in clause (viii);
+
+&emsp;&emsp;&emsp;(bb) a list of the schools that meet or exceed a percentage that is 10 percentage points lower than the threshold described in clause (viii) and that are in the fourth year of receiving special assistance payments under clause (iv); and
+
+&emsp;&emsp;&emsp;(cc) a list of the schools that meet or exceed a percentage that is 10 percentage points lower than the threshold described in clause (viii).
+
+&emsp;(xi)
+
+Implementation.—
+
+&emsp;&emsp;(I)
+
+Guidance.—Not later than 90 days after December 13, 2010, the Secretary shall issue guidance to implement this subparagraph.
+
+&emsp;&emsp;(II)
+
+Regulations.—Not later than December 31, 2013, the Secretary shall promulgate regulations that establish procedures for State agencies, local educational agencies, and schools to meet the requirements of this subparagraph, including exercising the option described in this subparagraph.
+
+&emsp;&emsp;(III)
+
+Publication.—If the Secretary uses the authority provided in clause (vii)(II)(bb) to use a different multiplier for different schools or local educational agencies, for each school year beginning on or after July1, 2014, not later than April 1, 2014, the Secretary shall publish on the website of the Secretary a table that indicates—
+
+&emsp;&emsp;&emsp;(aa) each local educational agency that may elect to receive special assistance payments under clause (ii);
+
+&emsp;&emsp;&emsp;(bb) the blended reimbursement rate that each local educational agency would receive; and
+
+&emsp;&emsp;&emsp;(cc) an explanation of the methodology used to calculate the multiplier or threshold for each school or local educational agency.
+
+&emsp;(xii)
+
+Report.—Not later than December 31, 2013, the Secretary shall publish a report that describes—
+
+&emsp;&emsp;(I) an estimate of the number of schools and local educational agencies eligible to elect to receive special assistance payments under this subparagraph that do not elect to receive the payments;
+
+&emsp;&emsp;(II) for schools and local educational agencies described in subclause (I)—
+
+&emsp;&emsp;&emsp;(aa) barriers to participation in the special assistance option under this subparagraph, as described by the nonparticipating schools and local educational agencies; and
+
+&emsp;&emsp;&emsp;(bb) changes to the special assistance option under this subparagraph that would make eligible schools and local educational agencies more likely to elect to receive special assistance payments;
+
+&emsp;&emsp;(III) for schools and local educational agencies that elect to receive special assistance payments under this subparagraph—
+
+&emsp;&emsp;&emsp;(aa) the number of schools and local educational agencies;
+
+&emsp;&emsp;&emsp;(bb) an estimate of the percentage of identified students and the percentage of enrolled students who were certified to receive free or reduced price meals in the school year prior to the election to receive special assistance payments under this subparagraph, and a description of how the ratio between those percentages compares to 1.6;
+
+&emsp;&emsp;&emsp;(cc) an estimate of the number and share of schools and local educational agencies in which more than 80 percent of students are certified for free or reduced price meals that elect to receive special assistance payments under that clause; and
+
+&emsp;&emsp;&emsp;(dd) whether any of the schools or local educational agencies stopped electing to receive special assistance payments under this subparagraph;
+
+&emsp;&emsp;(IV) the impact of electing to receive special assistance payments under this subparagraph on—
+
+&emsp;&emsp;&emsp;(aa) program integrity;
+
+&emsp;&emsp;&emsp;(bb) whether a breakfast program is offered;
+
+&emsp;&emsp;&emsp;(cc) the type of breakfast program offered;
+
+&emsp;&emsp;&emsp;(dd) the nutritional quality of school meals; and
+
+&emsp;&emsp;&emsp;(ee) program participation; and
+
+&emsp;&emsp;(V) the multiplier and threshold, as described in clauses (vii) and (viii) respectively, that the Secretary will use for each school year beginning on or after July 1, 2014 and the rationale for any change in the multiplier or threshold.
+
+&emsp;(xiii)
+
+Funding.—
+
+&emsp;&emsp;(I)
+
+In general.—On October 1, 2010, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out clause (xii) $5,000,000, to remain available until September 30, 2014.
+
+&emsp;&emsp;(II)
+
+Receipt and acceptance.—The Secretary shall be entitled to receive, shall accept, and shall use to carry out clause (xii) the funds transferred under subclause (I), without further appropriation.
 
 (2) The special assistance factor prescribed by the Secretary for free lunches shall be 98.75 cents and the special assistance factor for reduced price lunches shall be 40 cents less than the special assistance factor for free lunches.
 
@@ -62,19 +294,11 @@ Basis.—Each annual adjustment shall reflect the changes in the series for food
 
 &emsp;(iii)
 
-Rounding.—
-
-&emsp;&emsp;(I)
-
-Through june 30, 1999.—For the period ending June 30, 1999, the adjustments made under this paragraph shall be computed to the nearest one-fourth cent, except that adjustments to payment rates for meals and supplements served to individuals not determined to be eligible for free or reduced price meals and supplements shall be computed to the nearest lower cent increment and based on the unrounded amount for the preceding 12-month period.
-
-&emsp;&emsp;(II)
-
-July 1, 1999, and thereafter.—On July 1, 1999, and on each subsequent July 1, the national average payment rates for meals and supplements shall be adjusted to the nearest lower cent increment and shall be based on the unrounded amounts for the preceding 12-month period.
+Rounding.—On July 1, 1999, and on each subsequent July 1, the national average payment rates for meals and supplements shall be adjusted to the nearest lower cent increment and shall be based on the unrounded amounts for the preceding 12-month period.
 
 #### (b) Financing cost of free and reduced price lunches on basis of need of school for special assistance; maximum per lunch amount
 
-Except as provided in section 10 of the Child Nutrition Act of 1966 \[42 U.S.C. 1779\], the special assistance payments made to each State agency during each fiscal year under the provisions of this section shall be used by such State agency to assist schools of that State in providing free and reduced price lunches served to children pursuant to section 1758(b) of this title. The amount of such special assistance funds that a school shall from time to time receive, within a maximum per lunch amount established by the Secretary for all States, shall be based on the need of the school for such special assistance. Such maximum per lunch amount established by the Secretary shall not be less than 60 cents.
+Except as provided in section 10 of the Child Nutrition Act of 1966 \[42 U.S.C. 1779\], the special assistance payments made to each State agency during each fiscal year under the provisions of this section shall be used by such State agency to assist schools of that State in providing free and reduced price lunches served to children pursuant to section 1758(b) of this title. The amount of such special assistance funds that aschool shall from time to time receive, within a maximum per lunch amount established by the Secretary for all States, shall be based on the need of the school for such special assistance. Such maximum per lunch amount established by the Secretary shall not be less than 60 cents.
 
 #### (c) Payments to States
 
@@ -90,69 +314,121 @@ Special assistance payments to any State under this section shall be made as pro
 
 Commodity only schools shall also be eligible for special assistance payments under this section. Such schools shall serve meals free to children who meet the eligibility requirements for free meals under section 1758(b) of this title, and shall serve meals at a reduced price, not exceeding the price specified in section 1758(b)(9) of this title, to children meeting the eligibility requirements for reduced price meals under such section. No physical segregation of, or other discrimination against, any child eligible for a free or reduced-priced <sup>1</sup> lunch shall be made by the school, nor shall there be any overt identification of any such child by any means.
 
-#### (f) Information and assistance concerning reimbursement options
+#### (f) Repealed. Pub. L. 111–296, title IV, §441(a)(3), Dec. 13, 2010, 124 Stat. 3261
+
+#### (g) Universal meal service through Census data
 
 #### (1) In general
 
-&emsp;From funds made available under paragraph (3), the Secretary shall provide grants to not more than 10 State agencies in each of fiscal years 2000 and 2001 to enable the agencies, in accordance with criteria established by the Secretary, to—
+&emsp;To the maximum extent practicable, the Secretary shall identify alternatives to—
 
-&emsp;&emsp;(A) identify separately in a list—
+&emsp;&emsp;(A) the daily counting by category of meals provided by school lunch programs under this chapter and the school breakfast program established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773); and
 
-&emsp;&emsp;&emsp;(i) schools that are most likely to benefit from electing to receive special assistance under subparagraph (C) or (E) of subsection (a)(1) of this section; and
+&emsp;&emsp;(B) the use of annual applications as the basis for eligibility to receive free meals or reduced price meals under this chapter.
 
-&emsp;&emsp;&emsp;(ii) schools that may benefit from electing to receive special assistance under subparagraph (C) or (E) of subsection (a)(1) of this section;
+#### (2) Recommendations
 
-&emsp;&emsp;(B) make the list of schools identified under this subsection available to each school district within the State and to the public;
+#### (A) Considerations
 
-&emsp;&emsp;(C) provide technical assistance to schools, or school districts containing the schools, to enable the schools to evaluate and receive special assistance under subparagraph (C) or (E) of subsection (a)(1) of this section;
+#### (i) In general
 
-&emsp;&emsp;(D) take any other actions the Secretary determines are consistent with receiving special assistance under subparagraph (C) or (E) of subsection (a)(1) of this section and receiving a grant under this subsection; and
+&emsp;&emsp;&emsp;In identifying alternatives under paragraph (1), the Secretary shall consider the recommendations of the Committee on National Statistics of the National Academy of Sciences relating to use of the American Community Survey of the Bureau of the Census and other data sources.
 
-&emsp;&emsp;(E) as soon as practicable after receipt of the grant, but not later than September 30, 2003, take the actions described in subparagraphs (A) through (D).
+#### (ii) Socioeconomic survey
 
-#### (2) Report
+&emsp;&emsp;&emsp;The Secretary shall consider use of a periodic socioeconomic survey of households of children attending school in the school food authority in not more than 3 school food authorities participating in the school lunch program under this chapter.
 
-#### (A) In general
+#### (iii) Survey parameters
 
-&emsp;&emsp;The Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate—
+&emsp;&emsp;&emsp;The Secretary shall establish requirements for the use of a socioeconomic survey under clause (ii), which shall—
 
-&emsp;&emsp;&emsp;(i) not later than January 1, 2003, an interim report on the activities of the State agencies receiving grants under this subsection; and
+&emsp;&emsp;&emsp;&emsp;(I) include criteria for survey design, sample frame validity, minimum level of statistical precision, minimum survey response rates, frequency of data collection, and other criteria as determined by the Secretary;
 
-&emsp;&emsp;&emsp;(ii) not later than January 1, 2004, a final report on the activities of the State agencies receiving grants under this subsection.
+&emsp;&emsp;&emsp;&emsp;(II) be consistent with the Standards and Guidelines for Statistical Surveys, as published by the Office of Management and Budget;
 
-#### (B) Contents
+&emsp;&emsp;&emsp;&emsp;(III) be consistent with standards and requirements that ensure proper use of Federal funds; and
 
-&emsp;&emsp;In the reports, the Secretary shall specify—
+&emsp;&emsp;&emsp;&emsp;(IV) specify that the socioeconomic survey be conducted at least once every 4 years.
 
-&emsp;&emsp;&emsp;(i) the number of schools identified as likely to benefit from electing to receive special assistance under subparagraph (C) or (E) of subsection (a)(1) of this section;
+#### (B) Use of alternatives
 
-&emsp;&emsp;&emsp;(ii) the number of schools identified under this subsection that have elected to receive special assistance under subparagraph (C) or (E) of subsection (a)(1) of this section; and
+&emsp;&emsp;Alternatives described in subparagraph (A) that provide accurate and effective means of providing meal reimbursement consistent with the eligibility status of students may be—
 
-&emsp;&emsp;&emsp;(iii) a description of how the funds and technical assistance made available under this subsection have been used.
+&emsp;&emsp;&emsp;(i) implemented for use in schools or by school food authorities that agree—
 
-#### (3) Funding
+&emsp;&emsp;&emsp;&emsp;(I) to serve all breakfasts and lunches to students at no cost in accordance with regulations issued by the Secretary; and
 
-&emsp;Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall provide to the Secretary $2,250,000 for each of fiscal years 2000 and 2001 to carry out this subsection. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.
+&emsp;&emsp;&emsp;&emsp;(II) to pay, from sources other than Federal funds, the costs of serving any lunches and breakfasts that are in excess of the value of assistance received under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) with respect to the number of lunches and breakfasts served during the applicable period; or
 
-(June 4, 1946, ch. 281, §11, as added Pub. L. 87–823, §6, Oct. 15, 1962, 76 Stat. 946; amended Pub. L. 91–248, §7, May 14, 1970, 84 Stat. 211; Pub. L. 92–153, §4, Nov. 5, 1971, 85 Stat. 420; Pub. L. 93–150, §3(a), Nov. 7, 1973, 87 Stat. 561; Pub. L. 94–105, §8, Oct. 7, 1975, 89 Stat. 514; Pub. L. 95–166, §9, Nov. 10, 1977, 91 Stat. 1336; Pub. L. 95–627, §§4, 5(c), Nov. 10, 1978, 92 Stat. 3619, 3620; Pub. L. 96–499, title II, §204(a), Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §§801(b), 812, 813(b), 819(a), Aug. 13, 1981, 95 Stat. 522, 530, 533; Pub. L. 101–147, title II, §203, title III, §312(2), (3), Nov. 10, 1989, 103 Stat. 909, 916; Pub. L. 103–448, title I, §111, Nov. 2, 1994, 108 Stat. 4706; Pub. L. 104–193, title VII, §704(a), (b)(1), (c), Aug. 22, 1996, 110 Stat. 2289, 2290; Pub. L. 105–336, title I, §103(a), (b)(1), (c)(1), Oct. 31, 1998, 112 Stat. 3145, 3146; Pub. L. 107–76, title VII, §766, Nov. 28, 2001, 115 Stat. 744; Pub. L. 108–265, title I, §§104(d)(3), 113, June 30, 2004, 118 Stat. 738, 747.)
+&emsp;&emsp;&emsp;(ii) further tested through demonstration projects carried out by the Secretary in accordance with subparagraph (C).
+
+#### (C) Demonstration projects
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;For the purpose of carrying out demonstration projects described in subparagraph (B), the Secretary may waive any requirement of this chapter relating to—
+
+&emsp;&emsp;&emsp;&emsp;(I) counting of meals provided by school lunch or breakfast programs;
+
+&emsp;&emsp;&emsp;&emsp;(II) applications for eligibility for free or reduced priced meals; or
+
+&emsp;&emsp;&emsp;&emsp;(III) required direct certification under section 1758(b)(4) of this title.
+
+#### (ii) Number of projects
+
+&emsp;&emsp;&emsp;The Secretary shall carry out demonstration projects under this paragraph in not more than 5 local educational agencies for each alternative model that is being tested.
+
+#### (iii) Limitation
+
+&emsp;&emsp;&emsp;A demonstration project carried out under this paragraph shall have a duration of not more than 3 years.
+
+#### (iv) Evaluation
+
+&emsp;&emsp;&emsp;The Secretary shall evaluate each demonstration project carried out under this paragraph in accordance with procedures established by the Secretary.
+
+#### (v) Requirement
+
+&emsp;&emsp;&emsp;In carrying out evaluations under clause (iv), the Secretary shall evaluate, using comparisons with local educational agencies with similar demographic characteristics—
+
+&emsp;&emsp;&emsp;&emsp;(I) the accuracy of the 1 or more methodologies adopted as compared to the daily counting by category of meals provided by school meal programs under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) and the use of annual applications as the basis for eligibility to receive free or reduced price meals under those Acts;
+
+&emsp;&emsp;&emsp;&emsp;(II) the effect of the 1 or more methodologies adopted on participation in programs under those Acts;
+
+&emsp;&emsp;&emsp;&emsp;(III) the effect of the 1 or more methodologies adopted on administration of programs under those Acts; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) such other matters as the Secretary determines to be appropriate.
+
+(June 4, 1946, ch. 281, §11, as added Pub. L. 87–823, §6, Oct. 15, 1962, 76 Stat. 946; amended Pub. L. 91–248, §7, May 14, 1970, 84 Stat. 211; Pub. L. 92–153, §4, Nov. 5, 1971, 85 Stat. 420; Pub. L. 93–150, §3(a), Nov. 7, 1973, 87 Stat. 561; Pub. L. 94–105, §8, Oct. 7, 1975, 89 Stat. 514; Pub. L. 95–166, §9, Nov. 10, 1977, 91 Stat. 1336; Pub. L. 95–627, §§4, 5(c), Nov. 10, 1978, 92 Stat. 3619, 3620; Pub. L. 96–499, title II, §204(a), Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §§801(b), 812, 813(b), 819(a), Aug. 13, 1981, 95 Stat. 522, 530, 533; Pub. L. 101–147, title II, §203, title III, §312(2), (3), Nov. 10, 1989, 103 Stat. 909, 916; Pub. L. 103–448, title I, §111, Nov. 2, 1994, 108 Stat. 4706; Pub. L. 104–193, title VII, §704(a), (b)(1), (c), Aug. 22, 1996, 110 Stat. 2289, 2290; Pub. L. 105–336, title I, §103(a), (b)(1), (c)(1), Oct. 31, 1998, 112 Stat. 3145, 3146; Pub. L. 107–76, title VII, §766, Nov. 28, 2001, 115 Stat. 744; Pub. L. 108–265, title I, §§104(d)(3), 113, June 30, 2004, 118 Stat. 738, 747; Pub. L. 111–296, title I, §104, title IV, §441(a)(2), (3), Dec. 13, 2010, 124 Stat. 3193, 3261.)
 
 #### References in Text
 
-The Child Nutrition Act of 1966, referred to in subsec. (a)(1)(C)(i)(II), (E)(i)(II), (3)(B)(i), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of that Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
+The Child Nutrition Act of 1966, referred to in subsecs. (a)(1)(C)(i)(II), (E)(i)(II), (F)(ii)(I)(bb), (3)(B)(i), and (g)(2)(B)(i)(II), (C)(v)(I), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of that Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
+
+Those Acts, referred to in subsec. (g)(2)(C)(v)(I) to (III), mean the Richard B. Russell National School Lunch Act, which was in the original “this Act” and was translated to read “this chapter”, and the Child Nutrition Act of 1966. See above.
 
 #### Amendments
 
-2004—Subsec. (a)(1)(C) to (E). Pub. L. 108–265, §113, inserted “or school district” after “school” wherever appearing other than as part of “school year”, “school years”, “school lunch”, “school breakfast”, and “4-school-year period”.
+<b>2010</b>—Subsec. (a)(1)(B). Pub. L. 111–296, §104(a)(2), substituted “(E), or (F)” for “or (E)”.
+
+Subsec. (a)(1)(F). Pub. L. 111–296, §104(a)(1), added subpar. (F).
+
+Subsec. (a)(3)(B)(iii). Pub. L. 111–296, §441(a)(2), struck out designations and headings of subcls. (I) and (II) and text of subcl. (I). Text of former subcl. (I) read as follows: “For the period ending June 30, 1999, the adjustments made under this paragraph shall be computed to the nearest one-fourth cent, except that adjustments to payment rates for meals and supplements served to individuals not determined to be eligible for free or reduced price meals and supplements shall be computed to the nearest lower cent increment and based on the unrounded amount for the preceding 12-month period.”
+
+Subsec. (f). Pub. L. 111–296, §441(a)(3), struck out subsec. (f) which related to information and assistance concerning reimbursement options.
+
+Subsec. (g). Pub. L. 111–296, §104(b), added subsec. (g).
+
+<b>2004</b>—Subsec. (a)(1)(C) to (E). Pub. L. 108–265, §113, inserted “or school district” after “school” wherever appearing other than as part of “school year”, “school years”, “school lunch”, “school breakfast”, and “4-school-year period”.
 
 Subsec. (e). Pub. L. 108–265, §104(d)(3), substituted “section 1758(b)(9)” for “section 1758(b)(3)”.
 
-2001—Subsec. (f)(1)(E). Pub. L. 107–76, §766(1), substituted “2003” for “2001”.
+<b>2001</b>—Subsec. (f)(1)(E). Pub. L. 107–76, §766(1), substituted “2003” for “2001”.
 
 Subsec. (f)(2)(A). Pub. L. 107–76, §766(2)(A), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “Not later than January 1, 2002, the Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Agriculture, Nutrition and Forestry of the Senate a report on the activities of the State agencies receiving grants under this subsection.”
 
 Subsec. (f)(2)(B). Pub. L. 107–76, §766(2)(B), substituted “reports” for “report” in introductory provisions.
 
-1998—Subsec. (a)(1)(C)(i)(I). Pub. L. 105–336, §103(a)(1)(A), substituted “4” for “3” before “successive school years” in two places.
+<b>1998</b>—Subsec. (a)(1)(C)(i)(I). Pub. L. 105–336, §103(a)(1)(A), substituted “4” for “3” before “successive school years” in two places.
 
 Subsec. (a)(1)(C)(ii), (iii). Pub. L. 105–336, §103(a)(1)(B), substituted “4-” for “3-” before “school-year period”.
 
@@ -168,7 +444,7 @@ Subsec. (a)(3)(B). Pub. L. 105–336, §103(b)(1), inserted subpar. heading, des
 
 Subsec. (f). Pub. L. 105–336, §103(c)(1), added subsec. (f).
 
-1996—Subsec. (a)(1)(D)(i). Pub. L. 104–193, §704(a), struck out “, on November 2, 1994,” after “any school that”.
+<b>1996</b>—Subsec. (a)(1)(D)(i). Pub. L. 104–193, §704(a), struck out “, on November 2, 1994,” after “any school that”.
 
 Subsec. (a)(3)(B). Pub. L. 104–193, §704(b)(1), inserted before period at end “, except that adjustments to payment rates for meals and supplements served to individuals not determined to be eligible for free or reduced price meals and supplements shall be computed to the nearest lower cent increment and based on the unrounded amount for the preceding 12-month period”.
 
@@ -180,15 +456,15 @@ Subsec. (e)(2). Pub. L. 104–193, §704(c)(2), substituted “On request of the
 
 Subsec. (f). Pub. L. 104–193, §704(c)(3), redesignated subsec. (f) as (e).
 
-1994—Subsec. (a)(1). Pub. L. 103–448 designated first sentence as subpar. (A) and second sentence as subpar. (B), substituted “Except as provided in subparagraph (C), (D), or (E), in the case of” for “In the case of” in subpar. (B), added subpars. (C) to (E), and struck out at end “In the case of any school that (A) elects to serve all children in that school free lunches under the school lunch program during any period of three successive school years and (B) pays, from sources other than Federal funds, for the costs of serving such lunches which are in excess of the value of assistance received under this chapter with respect to the number of lunches served during that period, special assistance payments shall be paid to the State educational agency with respect to that school during that period on the basis of the number of lunches determined under the succeeding sentence. For purposes of making special assistance payments in accordance with the preceding sentence, the number of lunches served by a school to children eligible for free lunches and reduced price lunches during each school year of the three-school-year period shall be deemed to be the number of lunches served by that school to children eligible for free lunches and reduced price lunches during the first school year of such period, unless that school elects, for purposes of computing the amount of such payments, to determine on a more frequent basis the number of children eligible for free and reduced price lunches who are served lunches during such period.”
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–448 designated first sentence as subpar. (A) and second sentence as subpar. (B), substituted “Except as provided in subparagraph (C), (D), or (E), in the case of” for “In the case of” in subpar. (B), added subpars. (C) to (E), and struck out at end “In the case of any school that (A) elects to serve all children in that school free lunches under the school lunch program during any period of three successive school years and (B) pays, from sources other than Federal funds, for the costs of serving such lunches which are in excess of the value of assistance received under this chapter with respect to the number of lunches served during that period, special assistance payments shall be paid to the State educational agency with respect to that school during that period on the basis of the number of lunches determined under the succeeding sentence. For purposes of making special assistance payments in accordance with the preceding sentence, the number of lunches served by a school to children eligible for free lunches and reduced price lunches during each school year of the three-school-year period shall be deemed to be the number of lunches served by that school to children eligible for free lunches and reduced price lunches during the first school year of such period, unless that school elects, for purposes of computing the amount of such payments, to determine on a more frequent basis the number of children eligible for free and reduced price lunches who are served lunches during such period.”
 
-1989—Subsecs. (a), (b). Pub. L. 101–147, §312(2), (3), substituted “reduced price” for “reduced-price” and “special assistance” for “special-assistance” wherever appearing in pars. (1) and (2) of subsec. (a) and first sentence of subsec. (b).
+<b>1989</b>—Subsecs. (a), (b). Pub. L. 101–147, §312(2), (3), substituted “reduced price” for “reduced-price” and “special assistance” for “special-assistance” wherever appearing in pars. (1) and (2) of subsec. (a) and first sentence of subsec. (b).
 
 Subsec. (e)(1). Pub. L. 101–147, §203, substituted “The Secretary, when appropriate, may request each school participating in the school lunch program under this chapter to report monthly to the State educational agency” for “Each school participating in the school lunch program under this chapter shall report each month to its State educational agency”.
 
 Subsec. (f). Pub. L. 101–147, §312(2), (3), substituted “reduced price” for “reduced-price” and “special assistance” for “special-assistance”.
 
-1981—Subsec. (a). Pub. L. 97–35, §801(b), redesignated existing provisions as par. (1), substituted “(A)” for “(1)” and “(B)” for “(2)”, and struck out provisions relating to special assistance factors, adjustments, etc., for funds for the fiscal year beginning July 1, 1973, and after, and added pars. (2) and (3).
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §801(b), redesignated existing provisions as par. (1), substituted “(A)” for “(1)” and “(B)” for “(2)”, and struck out provisions relating to special assistance factors, adjustments, etc., for funds for the fiscal year beginning July 1, 1973, and after, and added pars. (2) and (3).
 
 Subsec. (b). Pub. L. 97–35, §819(a)(1), struck out “financing the cost of” before “providing free”.
 
@@ -198,15 +474,15 @@ Subsec. (e). Pub. L. 97–35, §812, struck out par. (1) which related to submis
 
 Subsec. (f). Pub. L. 97–35, §813(b), added subsec. (f).
 
-1980—Subsec. (a). Pub. L. 96–499 struck out provision that if in any State all schools charged students a uniform price for reduced-price lunches, and such price was less than twenty cents, the special assistance factor prescribed for reduced-price lunches in such State was to be equal to the special assistance factor for free lunches reduced by either ten cents or the price charged for reduced-price lunches in such State, whichever was greater.
+<b>1980</b>—Subsec. (a). Pub. L. 96–499 struck out provision that if in any State all schools charged students a uniform price for reduced-price lunches, and such price was less than twenty cents, the special assistance factor prescribed for reduced-price lunches in such State was to be equal to the special assistance factor for free lunches reduced by either ten cents or the price charged for reduced-price lunches in such State, whichever was greater.
 
-1978—Subsec. (a). Pub. L. 95–627 substituted “20 cents” for “10 cents” after “which shall be”, inserted “for All Urban Consumers” after “Consumer Price Index”, and inserted provision relating to the special assistance factor prescribed for reduced-price lunches in any State in which all schools charge students a uniform price for lunches.
+<b>1978</b>—Subsec. (a). Pub. L. 95–627 substituted “20 cents” for “10 cents” after “which shall be”, inserted “for All Urban Consumers” after “Consumer Price Index”, and inserted provision relating to the special assistance factor prescribed for reduced-price lunches in any State in which all schools charge students a uniform price for lunches.
 
-1977—Subsec. (a). Pub. L. 95–166 provided for special-assistance payments to the State educational agency where 80 percent of children in attendance during the school year are eligible for free lunches or reduced-price lunches and for determination of number of lunches served to children eligible for free lunches and reduced-price lunches where the school serves all students, eligible and noneligible, and funds for noneligible students are from other than Federal funds.
+<b>1977</b>—Subsec. (a). Pub. L. 95–166 provided for special-assistance payments to the State educational agency where 80 percent of children in attendance during the school year are eligible for free lunches or reduced-price lunches and for determination of number of lunches served to children eligible for free lunches and reduced-price lunches where the school serves all students, eligible and noneligible, and funds for noneligible students are from other than Federal funds.
 
-1975—Subsec. (e)(1). Pub. L. 94–105 substituted “Each year by not later than a date specified by the Secretary” for “Not later than January 1 of each year”, and “following school year” for “following fiscal year”.
+<b>1975</b>—Subsec. (e)(1). Pub. L. 94–105 substituted “Each year by not later than a date specified by the Secretary” for “Not later than January 1 of each year”, and “following school year” for “following fiscal year”.
 
-1973—Subsec. (a). Pub. L. 93–150 added subsec. (a) and struck out former subsec. (a) provisions relating to appropriations authorization for fiscal year ending June 30, 1971, and succeeding fiscal years of such sums as may be necessary to provide special assistance to assure access to the school lunch program under this chapter by children of low-income families.
+<b>1973</b>—Subsec. (a). Pub. L. 93–150 added subsec. (a) and struck out former subsec. (a) provisions relating to appropriations authorization for fiscal year ending June 30, 1971, and succeeding fiscal years of such sums as may be necessary to provide special assistance to assure access to the school lunch program under this chapter by children of low-income families.
 
 Subsec. (b). Pub. L. 93–150 added subsec. (b) and struck out former subsec. (b) provisions relating to formula for apportionment of funds and need for additional funds.
 
@@ -220,9 +496,9 @@ Subsec. (f). Pub. L. 93–150 struck out subsec. (f) provisions relating to with
 
 Subsecs. (g), (h). Pub. L. 93–150 redesignated subsecs. (g) and (h) as (d) and (e), respectively.
 
-1971—Subsec. (e). Pub. L. 92–153 established a reimbursement rate as amount of funds to be disbursed to schools in a State, provided for receipt of a greater amount or reimbursement per meal if the school established financial inability to support service of meals, and prescribed maximum per meal amount and higher maximum per meal amount for especially needy schools.
+<b>1971</b>—Subsec. (e). Pub. L. 92–153 established a reimbursement rate as amount of funds to be disbursed to schools in a State, provided for receipt of a greater amount or reimbursement per meal if the school established financial inability to support service of meals, and prescribed maximum per meal amount and highermaximum per meal amount for especially needy schools.
 
-1970—Subsec. (a). Pub. L. 91–248 authorized for fiscal year ending June 30, 1971, and for each succeeding fiscal year such sums as may be necessary to provide assistance to assure access to school lunch program by children of low-income families.
+<b>1970</b>—Subsec. (a). Pub. L. 91–248 authorized for fiscal year ending June 30, 1971, and for each succeeding fiscal year such sums as may be necessary to provide assistance to assure access to school lunch program by children of low-income families.
 
 Subsec. (b). Pub. L. 91–248 substituted formula for apportionment of funds among Puerto Rico, the Virgin Islands, Guam, and American Samoa based on the ratio of the number of children aged three to seventeen, inclusive, in such State as compared to the total number of such children in all such States, for a ratio based on the number of free or reduced price lunches served in the preceding fiscal year in such State as compared to the number of such lunches served in all such States in the preceding fiscal year.
 
@@ -234,9 +510,9 @@ Subsec. (f). Pub. L. 91–248 substituted “in the fiscal year beginning two ye
 
 Subsec. (h). Pub. L. 91–248 added subsec. (h).
 
-#### Change of Name
+#### Effective Date of 2010 Amendment
 
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as a note under section 1751 of this title.
 
 #### Effective Date of 2004 Amendment
 

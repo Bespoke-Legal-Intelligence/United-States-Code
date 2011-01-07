@@ -60,19 +60,19 @@ October 11, 1996, referred to in subsec. (d), was in the original “the date of
 
 #### Amendments
 
-2007—Subsec. (f). Pub. L. 109–479 added subsec. (f).
+<b>2007</b>—Subsec. (f). Pub. L. 109–479 added subsec. (f).
 
-1996—Pub. L. 104–297 amended section catchline and text generally. Prior to amendment, section authorized appropriations to carry out this chapter for fiscal year ending June 30, 1976 to fiscal year ending September 30, 1993.
+<b>1996</b>—Pub. L. 104–297 amended section catchline and text generally. Prior to amendment, section authorized appropriations to carry out this chapter for fiscal year ending June 30, 1976 to fiscal year ending September 30, 1993.
 
-1990—Pars. (16) to (19). Pub. L. 101–627 added pars. (16) to (19).
+<b>1990</b>—Pars. (16) to (19). Pub. L. 101–627 added pars. (16) to (19).
 
-1986—Pars. (12) to (15). Pub. L. 99–659 added pars. (12) to (15).
+<b>1986</b>—Pars. (12) to (15). Pub. L. 99–659 added pars. (12) to (15).
 
-1983—Pars. (9) to (11). Pub. L. 97–453 added pars. (9) to (11).
+<b>1983</b>—Pars. (9) to (11). Pub. L. 97–453 added pars. (9) to (11).
 
-1979—Pars. (6) to (8). Pub. L. 96–61 added pars. (6) to (8).
+<b>1979</b>—Pars. (6) to (8). Pub. L. 96–61 added pars. (6) to (8).
 
-1978—Par. (5). Pub. L. 95–354 added par. (5).
+<b>1978</b>—Par. (5). Pub. L. 95–354 added par. (5).
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

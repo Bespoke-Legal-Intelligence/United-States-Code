@@ -24,9 +24,9 @@ For the effective date of subsection 3161(b) and subsection 3161(c) in effect pr
 
 #### Amendments
 
-1990—Subsec. (e)(2). Pub. L. 101–647 substituted “twelve-calendar-month” for “twelve-calendar month”.
+<b>1990</b>—Subsec. (e)(2). Pub. L. 101–647 substituted “twelve-calendar-month” for “twelve-calendar month”.
 
-1979—Subsec. (e)(2). Pub. L. 96–43, §8(1), substituted “fifth twelve-calendar” for “subsequent twelve-calendar”.
+<b>1979</b>—Subsec. (e)(2). Pub. L. 96–43, §8(1), substituted “fifth twelve-calendar” for “subsequent twelve-calendar”.
 
 Subsec. (e)(3). Pub. L. 96–43, §8(2), added par. (3).
 

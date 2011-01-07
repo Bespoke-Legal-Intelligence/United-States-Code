@@ -12,7 +12,7 @@
 
 #### (A) Qualified countermeasure
 
-&emsp;&emsp;The term “qualified countermeasure” means a drug (as that term is defined by section 321(g)(1) of title 21), biological product (as that term is defined by section 262(i) ofthis title), or device (as that term is defined by section 321(h) of title 21), that the Secretary determines to be a priority (consistent with sections 182(2) and 184(a) of title 6) to—
+&emsp;&emsp;The term “qualified countermeasure” means a drug (as that term is defined by section 321(g)(1) of title 21), biological product (as that term is defined by section 262(i) of this title), or device (as that term is defined by section 321(h) of title 21), that the Secretary determines to be a priority (consistent with sections 182(2) and 184(a) of title 6) to—
 
 &emsp;&emsp;&emsp;(i) diagnose, mitigate, prevent, or treat harm from any biological agent (including organisms that cause an infectious disease) or toxin, chemical, radiological, or nuclear agent that may cause a public health emergency affecting national security; or
 
@@ -46,11 +46,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;For any procurement by the Secretary of property or services for use (as determined by the Secretary) in performing, administering, or supporting qualified countermeasure research or development activities under this section that the Secretary determines necessary to respond to pressing research and development needs under this section, the amount specified in section 403(11) of title 41, as applicable pursuant to section 252a(a) of title 41, shall be deemed to be $25,000,000 in the administration, with respect to such procurement, of—
+&emsp;&emsp;For any procurement by the Secretary of property or services for use (as determined by the Secretary) in performing, administering, or supporting qualified countermeasure research or development activities under this section that the Secretary determines necessary to respond to pressing research and development needs under this section, the amount specified in section 134 of title 41, as applicable pursuant to section 3101(b)(1)(A) of title 41, shall be deemed to be $25,000,000 in the administration, with respect to such procurement, of—
 
-&emsp;&emsp;&emsp;(i) section 253(g)(1)(A) of title 41 and its implementing regulations; and
+&emsp;&emsp;&emsp;(i) section 3305(a)(1) of title 41 and its implementing regulations; and
 
-&emsp;&emsp;&emsp;(ii) section 252a(b) of title 41 and its implementing regulations.
+&emsp;&emsp;&emsp;(ii) section 3101(b)(1)(B) of title 41 and its implementing regulations.
 
 #### (B) Application of certain provisions
 
@@ -58,13 +58,13 @@
 
 &emsp;&emsp;&emsp;(i) Chapter 37 of title 40 (relating to contract work hours and safety standards).
 
-&emsp;&emsp;&emsp;(ii) Subsections (a) and (b) of section 57 of title 41.
+&emsp;&emsp;&emsp;(ii) Section 8703(a) of title 41.
 
-&emsp;&emsp;&emsp;(iii) Section 254d of title 41 (relating to the examination of contractor records).
+&emsp;&emsp;&emsp;(iii) Section 4706 of title 41 (relating to the examination of contractor records).
 
 &emsp;&emsp;&emsp;(iv) Section 3131 of title 40 (relating to bonds of contractors of public buildings or works).
 
-&emsp;&emsp;&emsp;(v) Subsection (a) of section 254 of title 41 (relating to contingent fees to middlemen).
+&emsp;&emsp;&emsp;(v) Section 3901 of title 41 (relating to contingent fees to middlemen).
 
 &emsp;&emsp;&emsp;(vi) Section 6962 of this title.
 
@@ -82,7 +82,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In using the authority provided in section 253(c)(1) of title 41 to use procedures other than competitive procedures in the case of a procurement described in paragraph (1) of this subsection, the phrase “available fromonly one responsible source” in such section 253(c)(1) shall be deemed to mean “available from only one responsible source or only from a limited number of responsible sources”.
+&emsp;&emsp;In using the authority provided in section 3304(a)(1) of title 41 to use procedures other than competitive procedures in the case of a procurement described in paragraph (1) of this subsection, the phrase “available from only one responsible source” in such section 3304(a)(1) shall be deemed to mean “available from only one responsible source or only from a limited number of responsible sources”.
 
 #### (B) Relation to other authorities
 
@@ -90,13 +90,13 @@
 
 #### (C) Applicable government-wide regulations
 
-&emsp;&emsp;The Secretary shall implement this paragraph in accordance with government-wide regulations implementing such section 253(c)(1) (including requirements that offers be solicited from as many potential sources as is practicable under the circumstances, that required notices be published, and that submitted offers be considered), as such regulations apply to procurements for which an agency has authority to use procedures other than competitive procedures when the property or services needed by the agency are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the agency.
+&emsp;&emsp;The Secretary shall implement this paragraph in accordance with government-wide regulations implementing such section 3304(a)(1) (including requirements that offers be solicited from as many potential sources as is practicable under the circumstances, that required notices be published, and that submitted offers be considered), as such regulations apply to procurements for which anagency has authority to use procedures other than competitive procedures when the property or services needed by the agency are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the agency.
 
 #### (3) Increased micropurchase threshold
 
 #### (A) In general
 
-&emsp;&emsp;For a procurement described by paragraph (1), the amount specified in subsections (c), (d), and (f) of section 428 of title 41 shall be deemed to be $15,000 in the administration of that section with respect to such procurement.
+&emsp;&emsp;For a procurement described by paragraph (1), the amount specified in subsections (a), (d), and (e) of section 1902 of title 41 shall be deemed to be $15,000 in the administration of that section with respect to such procurement.
 
 #### (B) Internal controls to be instituted
 
@@ -148,7 +148,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A person carrying out a contract under paragraph (1), and an officer, employee, or governing board member of such person, shall, subject to a determination by the Secretary, be deemed to be an employee of theDepartment of Health and Human Services for purposes of claims under sections 1346(b) and 2672 of title 28 for money damages for personal injury, including death, resulting from performance of functions under such contract.
+&emsp;&emsp;A person carrying out a contract under paragraph (1), and an officer, employee, or governing board member of such person, shall, subject to a determination by the Secretary, be deemed to be an employee of the Department of Health and Human Services for purposes of claims under sections 1346(b) and 2672 of title 28 for money damages for personal injury, including death, resulting from performance of functions under such contract.
 
 #### (B) Exclusivity of remedy
 
@@ -158,7 +158,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Should payment be made by the United States to any claimant bringing a claim under this paragraph, either by way of administrative determination, settlement, or court judgment, the United States shall have, notwithstanding any provision of State law, the right to recover against any entity identified in subparagraph (B) for that portion of the damages so awarded or paid, as well as interest and any costs of litigation, resulting from the failure of any such entity to carry out any obligation or responsibility assumed by such entity under a contract with the United States or from any grossly negligent or reckless conduct or intentional or willful misconduct on the part of such entity.
+&emsp;&emsp;&emsp;Should payment be made by the United States to any claimant bringing a claimunder this paragraph, either by way of administrative determination, settlement, or court judgment, the United States shall have, notwithstanding any provision of State law, the right to recover against any entity identified in subparagraph (B) for that portion of the damages so awarded or paid, as well as interest and any costs of litigation, resulting from the failure of any such entity to carry out any obligation or responsibility assumed by such entity under a contract with the United States or from any grossly negligent or reckless conduct or intentional or willful misconduct on the part of such entity.
 
 #### (ii) Venue
 
@@ -212,13 +212,31 @@ Actions by the Secretary under the authority of this section are committed to ag
 
 The Project BioShield Act of 2004, referred to in subsec. (b)(1)(D), is Pub. L. 108–276, July 21, 2004, 118 Stat. 835. For complete classification of this Act to the Code, see Short Title of 2004 Amendments note set out under section 201 of this title and Tables.
 
-The Federal Tort Claims Act, referred to in subsec. (d)(2), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. Forcomplete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+The Federal Tort Claims Act, referred to in subsec. (d)(2), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (e)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+#### Codification
+
+In subsec. (b)(1)(A), “section 134 of title 41” substituted for “section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))” and “section 3101(b)(1)(A) of title 41” substituted for “section 302A(a) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252a(a))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (b)(1)(A)(i), “section 3305(a)(1) of title 41” substituted for “section 303(g)(1)(A) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)(A))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (b)(1)(A)(ii), “section 3101(b)(1)(B) of title 41” substituted for “section 302A(b) of such Act (41U.S.C. 252a(b))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (b)(1)(B)(ii), “Section 8703(a) of title 41” substituted for “Subsections (a) and (b) of section 7 of the Anti-Kickback Act of 1986 (41 U.S.C. 57(a) and (b))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (b)(1)(B)(iii), “Section 4706 of title 41” substituted for “Section 304C of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254d)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (b)(1)(B)(v), “Section 3901 of title 41” substituted for “Subsection (a) of section 304 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254(a))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (b)(2)(A), “section 3304(a)(1) of title 41” substituted for “section 303(c)(1) of title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(1))” and “such section 3304(a)(1)” substituted for “such section 303(c)(1)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (b)(2)(C), “such section 3304(a)(1)” substituted for “such section 303(c)(1)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (b)(3)(A), “subsections (a), (d), and (e) of section 1902 of title 41” substituted for “subsections (c), (d), and (f) of section 32 of the Office of Federal Procurement Policy Act (41 U.S.C. 428)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-2006—Subsec. (a)(2). Pub. L. 109–417 added par. (2) and struck out heading and text of former par. (2). Text read as follows: “For purposes of this section, the term ‘qualified countermeasure’ means a drug (as that term is defined by section 321(g)(1) of title 21), biological product (as that term is defined by section 262(i) of this title), or device (as that term is defined by section 321(h) of title 21) that the Secretary determines to be a priority (consistent with sections 182(2) and 184(a) of title 6) to—
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–417 added par. (2) and struck out heading and text of former par. (2). Text read as follows: “For purposes of this section, the term ‘qualified countermeasure’ means a drug (as that term is defined by section 321(g)(1) of title 21), biological product (as that term is defined by section 262(i) of this title), or device (as that term is defined by section 321(h) of title 21) that the Secretary determines to be a priority (consistent with sections 182(2) and 184(a) of title 6) to—
 
 &emsp;“(A) treat, identify, or prevent harm from any biological, chemical, radiological, or nuclear agent that may cause a public health emergency affecting national security; or
 
@@ -310,7 +328,7 @@ Extension.—The Attorney General may extend the 15-day period referred to in su
 
 &emsp;&emsp;“(C)
 
-Determination.—An exemption shall be granted regarding a written agreement submitted in accordance with paragraph (2) only to the extentthat the Attorney General, in consultation with the Chairman and the Secretary, finds that the conduct that will be exempted will not have any substantial anticompetitive effect that is not reasonably necessary for ensuring the availability of the countermeasure or product involved.
+Determination.—An exemption shall be granted regarding a written agreement submitted in accordance with paragraph (2) only to the extent that the Attorney General, in consultation with the Chairman and the Secretary, finds that the conduct that will be exempted will not have any substantial anticompetitive effect that is not reasonably necessary for ensuring the availability of the countermeasure or product involved.
 
 &emsp;“(5)
 
@@ -384,7 +402,7 @@ Exception.—The term ‘covered activities’ shall not include, with respect t
 
 #### Outreach
 
-Pub. L. 108–276, §6, July 21, 2004, 118 Stat. 862, provided that: “The Secretary of Health and Human Services shall develop outreach measures to ensure to the extent practicable that diverse institutions, including Historically Black Colleges and Universities and those serving large proportions of Black or African Americans, American Indians, Appalachian Americans, Alaska Natives, Asians, Native Hawaiians, other Pacific Islanders, Hispanics or Latinos, or other underrepresented populations, are meaningfully aware of available research and development grants, contracts, cooperative agreements, and procurements conducted under sections 2 and 3 of this Act \[enacting this section and section 320 of Title 6, Domestic Security, amending sections 247d–6, 247d–6b, 287a–2, and 300aa–6 of this title and sections 312 and 313 of Title 6, renumbering section 300hh–12 of this title as section 247d–6b of this title, and enacting provisions set out as notes under this section and section 247d–6b of this title\].”
+Pub. L. 108–276, §6, July 21, 2004, 118 Stat. 862, provided that: “The Secretary of Health and Human Services shall develop outreach measures to ensure to the extent practicable that diverse institutions, including Historically Black Colleges and Universities and those serving large proportions of Black or African Americans, American Indians, Appalachian Americans, Alaska Natives, Asians, Native Hawaiians, other Pacific Islanders, Hispanics or Latinos, or other underrepresented populations, are meaningfully aware of available research and development grants, contracts, cooperative agreements, and procurements conducted under sections 2 and 3 of this Act \[enacting this sectionand section 320 of Title 6, Domestic Security, amending sections 247d–6, 247d–6b, 287a–2, and 300aa–6 of this title and sections 312 and 313 of Title 6, renumbering section 300hh–12 of this title as section 247d–6b of this title, and enacting provisions set out as notes under this section and section 247d–6b of this title\].”
 
 #### Recommendation for Export Controls on Certain Biomedical Countermeasures
 

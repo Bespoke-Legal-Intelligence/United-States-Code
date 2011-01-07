@@ -14,7 +14,7 @@ The Attorney General may make grants to eligible States, Indian tribal governmen
 
 &emsp;(3) To centralize and coordinate police enforcement, prosecution, or judicial responsibility for domestic violence, dating violence, sexual assault, and stalking cases in teams or units of police officers, prosecutors, parole and probation officers, or judges.
 
-&emsp;(4) To coordinate computer tracking systems to ensure communication between police,prosecutors, parole and probation officers, and both criminal and family courts.
+&emsp;(4) To coordinate computer tracking systems to ensure communication between police, prosecutors, parole and probation officers, and both criminal and family courts.
 
 &emsp;(5) To strengthen legal advocacy service programs for victims of domestic violence, dating violence, sexual assault, and stalking, including strengthening assistance to such victims in immigration matters.
 
@@ -64,7 +64,7 @@ A State or unit of local government shall not be entitled to 5 percent of the fu
 
 &emsp;&emsp;(A) the State or unit of local government at the request of a victim to administer to a defendant, against whom an information or indictment is presented for a crime in which by force or threat of force the perpetrator compels the victim to engage in sexual activity, testing for the immunodeficiency virus (HIV) not later than 48 hours after the date on which the information or indictment is presented;
 
-&emsp;&emsp;(B) as soon as practicable notification to the victim, or parent and guardian of thevictim, and defendant of the testing results; and
+&emsp;&emsp;(B) as soon as practicable notification to the victim, or parent and guardian of the victim, and defendant of the testing results; and
 
 &emsp;&emsp;(C) follow-up tests for HIV as may be medically appropriate, and that as soon as practicable after each such test the results be made available in accordance with subparagraph (B); or
 
@@ -78,7 +78,7 @@ A State or unit of local government shall not be entitled to 5 percent of the fu
 
 #### (1) In general
 
-&emsp;Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized by section 3796gg–10 of this title.
+&emsp;Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under theprogram authorized by section 3796gg–10 of this title.
 
 #### (2) Applicability of subchapter
 
@@ -96,7 +96,7 @@ A prior section 2101 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–162, §102(b)(1), substituted “to treat domestic violence, dating violence, sexual assault, and stalking as serious violations” for “to treat domestic violence as a serious violation”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–162, §102(b)(1), substituted “to treat domestic violence, dating violence, sexual assault, and stalking as serious violations” for “to treat domestic violence as a serious violation”.
 
 Subsec. (b). Pub. L. 109–162, §102(b)(2)(A), inserted “, tribal, territorial,” after “State” in introductory provisions.
 
@@ -122,7 +122,7 @@ Pub. L. 109–162, §906(c), added subsec. (e) and struck out former subsec. (e)
 
 Pub. L. 109–162, §102(b)(4), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Not less than 5 percent of the total amount made available for grants under this section for each fiscal year shall be available for grants to Indian tribal governments.”
 
-2000—Subsec. (a). Pub. L. 106–386, §1102(b)(1), inserted “State and local courts (including juvenile courts), tribal courts,” after “Indian tribal governments,”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–386, §1102(b)(1), inserted “State and local courts (including juvenile courts), tribal courts,” after “Indian tribal governments,”.
 
 Subsec. (b). Pub. L. 106–386, §1102(b)(2)(A), inserted “State and local courts (including juvenile courts),” after “Indian tribal governments” in introductory provisions.
 

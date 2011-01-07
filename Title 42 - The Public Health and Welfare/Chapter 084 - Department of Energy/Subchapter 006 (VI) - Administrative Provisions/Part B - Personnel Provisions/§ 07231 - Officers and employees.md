@@ -26,7 +26,7 @@ In the performance of his functions the Secretary is authorized to appoint and f
 
 #### (d) Appointment of additional scientific, engineering, etc., personnel without regard to civil service laws; compensation
 
-In addition to the number of positions which may be placed at GS–16, GS–17, and GS–18 under section 5108 of title 5, under existing law, or under this chapter, and to the extent the Secretary deems such action necessary to the discharge of his functions, he may appoint notmore than two hundred of the scientific, engineering, professional, and administrative personnel without regard to the civil service laws and may fix the compensation of such personnel not in excess of the maximum rate payable for GS–18 of the General Schedule under section 5332 of title 5.
+In addition to the number of positions which may be placed at GS–16, GS–17, and GS–18 under section 5108 of title 5, under existing law, or under this chapter, and to the extent the Secretary deems such action necessary to the discharge of his functions, he may appoint not more than two hundred of the scientific, engineering, professional, and administrative personnel without regard to the civil service laws and may fix the compensation of such personnel not in excess of the maximum rate payable for GS–18 of the General Schedule under section 5332 of title 5.
 
 #### (e) Determination of maximum aggregate number of positions
 
@@ -40,11 +40,9 @@ All positions in the Department which the Secretary determines are devoted to in
 
 #### References in Text
 
-The civil service laws, referred to in subsecs. (a), (b)(1), (2), and (d), are set out in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 Section 5108(a) of title 5, referred to in subsec. (c)(1), was amended generally by Pub. L. 101–509, title V, §529 \[title I, §102(b)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1443, and, as so amended, contains only one sentence.
 
-This chapter, referred to in subsecs. (c)(2) and (d), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+This chapter, referred to in subsecs. (c)(2) and (d), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 #### Codification
 
@@ -52,7 +50,7 @@ August 14, 1991, referred to in subsec. (f), was in the original “the date of 
 
 #### Amendments
 
-1991—Subsec. (f). Pub. L. 102–88 added subsec. (f).
+<b>1991</b>—Subsec. (f). Pub. L. 102–88 added subsec. (f).
 
 #### Transfer of Functions
 

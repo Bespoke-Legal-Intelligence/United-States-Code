@@ -42,6 +42,7 @@
 | [124j.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124j%20-%20Rural%20Policing%20Institute.md) | Rural Policing Institute. |
 | [124k.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124k%20-%20Interagency%20Threat%20Assessment%20and%20Coordination%20Group.md) | Interagency Threat Assessment and Coordination Group. |
 | 124<i>l.</i> | National asset database. |
+| [124m.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124m%20-%20Classified%20Information%20Advisory%20Officer.md) | Classified Information Advisory Officer. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -130,6 +131,7 @@
 | [217\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20B%20-%20United%20States%20Customs%20Service/%C2%A7%2000217%20-%20Allocation%20of%20resources%20by%20the%20Secretary.md) | Allocation of resources by the Secretary. |
 | [218\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20B%20-%20United%20States%20Customs%20Service/%C2%A7%2000218%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
 | [220\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20B%20-%20United%20States%20Customs%20Service/%C2%A7%2000220%20-%20Methamphetamine%20and%20methamphetamine%20precursor%20chemicals.md) | Methamphetamine and methamphetamine precursor chemicals. |
+| [221\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20B%20-%20United%20States%20Customs%20Service/%C2%A7%2000221%20-%20Requirements%20with%20respect%20to%20administering%20polygraph%20examinations%20to%20law%20enforcement%20personnel%20of%20U.S.%20Customs%20and%20Border%20Protection.md) | Requirements with respect to administering polygraph examinations to law enforcement personnel of U.S. Customs and Border Protection. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -222,6 +224,7 @@
 | [321k.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321k%20-%20Model%20standards%20and%20guidelines%20for%20critical%20infrastructure%20workers.md) | Model standards and guidelines for critical infrastructure workers. |
 | 321<i>l.</i> | Guidance and recommendations. |
 | [321m.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321m%20-%20Voluntary%20private%20sector%20preparedness%20accreditation%20and%20certification%20program.md) | Voluntary private sector preparedness accreditation and certification program. |
+| [321n.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321n%20-%20Acceptance%20of%20gifts.md) | Acceptance of gifts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -344,7 +347,7 @@
 | [462\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000462%20-%20Office%20of%20National%20Capital%20Region%20Coordination.md) | Office of National Capital Region Coordination. |
 | [463\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000463%20-%20Requirement%20to%20comply%20with%20laws%20protecting%20equal%20employment%20opportunity%20and%20providing%20whistleblower%20protections.md) | Requirement to comply with laws protecting equal employment opportunity and providing whistleblower protections. |
 | [464\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000464%20-%20Federal%20Law%20Enforcement%20Training%20Center.md) | Federal Law Enforcement Training Center. |
-| [464a.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000464a%20-%20Acceptance%20and%20use%20of%20gifts.md) | Acceptance and use of gifts. |
+| [464a.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000464a%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93245%2C%20%C2%A72%28b%29%282%29%2C%20Sept.%2030%2C%202010%2C%20124%20Stat.%202621.md) | Repealed. |
 | [464b.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000464b%20-%20Staffing%20accreditation%20function.md) | Staffing accreditation function. |
 | [464c.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000464c%20-%20Student%20housing.md) | Student housing. |
 | [464d.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000464d%20-%20Additional%20funds%20for%20training.md) | Additional funds for training. |
@@ -520,6 +523,7 @@
 | :--- | ---: |
 | [611\.](Subchapter%20015%20%28XV%29%20-%20Homeland%20Security%20Grants/Part%20B%20-%20Grants%20Administration/%C2%A7%2000611%20-%20Administration%20and%20coordination.md) | Administration and coordination. |
 | [612\.](Subchapter%20015%20%28XV%29%20-%20Homeland%20Security%20Grants/Part%20B%20-%20Grants%20Administration/%C2%A7%2000612%20-%20Accountability.md) | Accountability. |
+| [613\.](Subchapter%20015%20%28XV%29%20-%20Homeland%20Security%20Grants/Part%20B%20-%20Grants%20Administration/%C2%A7%2000613%20-%20Identification%20of%20reporting%20redundancies%20and%20development%20of%20performance%20metrics.md) | Identification of reporting redundancies and development of performance metrics. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

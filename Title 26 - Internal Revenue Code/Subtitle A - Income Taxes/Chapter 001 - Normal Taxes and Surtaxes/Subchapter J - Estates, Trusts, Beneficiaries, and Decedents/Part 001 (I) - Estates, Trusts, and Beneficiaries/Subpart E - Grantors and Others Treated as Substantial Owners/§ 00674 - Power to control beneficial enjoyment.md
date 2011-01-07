@@ -76,11 +76,11 @@ Subsection (a) shall not apply to a power solely exercisable (without the approv
 
 #### Amendments
 
-1997—Subsec. (b)(4). Pub. L. 105–34 inserted before period “or to an employee stock ownership plan (as defined in section 4975(e)(7)) in a qualified gratuitous transfer (as defined in section 664(g)(1))”.
+<b>1997</b>—Subsec. (b)(4). Pub. L. 105–34 inserted before period “or to an employee stock ownership plan (as defined in section 4975(e)(7)) in a qualified gratuitous transfer (as defined in section 664(g)(1))”.
 
-1988—Subsec. (c). Pub. L. 100–647 inserted at end “For periods during which an individual is the spouse of the grantor (within the meaning of section 672(e)(2)), any reference in this subsection to the grantor shall be treated as including a reference to such individual.”
+<b>1988</b>—Subsec. (c). Pub. L. 100–647 inserted at end “For periods during which an individual is the spouse of the grantor (within the meaning of section 672(e)(2)), any reference in this subsection to the grantor shall be treated as including a reference to such individual.”
 
-1986—Subsec. (b)(2). Pub. L. 99–514 substituted “occurrence of event” for “expiration of 10-year period” in heading and in text substituted “the occurrence of an event” for “the expiration of a period” and “the occurrence of the event” for “the expiration of the period”.
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–514 substituted “occurrence of event” for “expiration of 10-year period” in heading and in text substituted “the occurrence of an event” for “the expiration of a period” and “the occurrence of the event” for “the expiration of the period”.
 
 #### Effective Date of 1997 Amendment
 
@@ -92,5 +92,5 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable with respect to transfers in trust made after Mar. 1, 1986, except fortransfers pursuant to a certain binding property settlement agreement, see section 1402(c) of Pub. L. 99–514, set out as a note under section 673 of this title.
+Amendment by Pub. L. 99–514 applicable with respect to transfers in trust made after Mar. 1, 1986, except for transfers pursuant to a certain binding property settlement agreement, see section 1402(c) of Pub. L. 99–514, set out as a note under section 673 of this title.
 

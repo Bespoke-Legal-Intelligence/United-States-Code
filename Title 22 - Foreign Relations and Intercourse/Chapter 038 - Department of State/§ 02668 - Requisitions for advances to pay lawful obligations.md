@@ -28,9 +28,9 @@ Section was formerly classified to section 170 of Title 5 prior to the general r
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
+<b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
 
-1982—Pub. L. 97–258 redesignated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1982</b>—Pub. L. 97–258 redesignated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 #### Transfer of Functions
 

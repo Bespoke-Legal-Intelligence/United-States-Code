@@ -14,7 +14,7 @@ Section is from act July 12, 1921, popularly known as the Naval Service Appropri
 
 #### Amendments
 
-1976—Pub. L. 94–392 inserted proviso authorizing Legislature of Virgin Islands to levy a surtax, not to exceed 10 per centum, on annual income tax obligation of all taxpayers.
+<b>1976</b>—Pub. L. 94–392 inserted proviso authorizing Legislature of Virgin Islands to levy a surtax, not to exceed 10 per centum, on annual income tax obligation of all taxpayers.
 
 #### Application of Western Hemisphere Trade Corporation Provision Under the Virgin Islands Tax Laws
 

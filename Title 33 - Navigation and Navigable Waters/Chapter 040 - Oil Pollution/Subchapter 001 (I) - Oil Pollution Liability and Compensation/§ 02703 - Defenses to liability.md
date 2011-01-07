@@ -38,7 +38,7 @@ Subsection (a) of this section does not apply with respect to a responsible part
 
 &emsp;&emsp;(A) the real property on which the facility concerned is located was acquired by the responsible party after the placement of the oil on, in, or at the real property on which the facility concerned is located;
 
-&emsp;&emsp;(B) one or more of the circumstances described in subparagraph (A), (B), or (C) ofparagraph (2) is established by the responsible party by a preponderance of the evidence; and
+&emsp;&emsp;(B) one or more of the circumstances described in subparagraph (A), (B), or (C) of paragraph (2) is established by the responsible party by a preponderance of the evidence; and
 
 &emsp;&emsp;(C) the responsible party complies with paragraph (3).
 
@@ -156,7 +156,7 @@ This Act, referred to in subsec. (d)(5), (6), is Pub. L. 101–380, Aug. 18, 199
 
 #### Amendments
 
-2004—Subsec. (d). Pub. L. 108–293 added subsec. (d).
+<b>2004</b>—Subsec. (d). Pub. L. 108–293 added subsec. (d).
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
 

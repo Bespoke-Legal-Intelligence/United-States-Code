@@ -20,4 +20,6 @@
 - [Part C - Indian Education Assistance](Part%20C%20-%20Indian%20Education%20Assistance/README.md)
 - [Part D - Tribal Self-Governance&#8212;Department of the Interior](Part%20D%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/README.md)
 - [Part E - Tribal Self-Governance&#8212;Indian Health Service](Part%20E%20-%20Tribal%20Self-Governance%E2%80%94Indian%20Health%20Service/README.md)
-- [Part F - National Fund for Excellence in American Indian Education](Part%20F%20-%20National%20Fund%20for%20Excellence%20in%20American%20Indian%20Education/README.md)
+- [Part F - Transferred](Part%20F%20-%20Transferred/README.md)
+- [Part G - Indian Law Enforcement Foundation](Part%20G%20-%20Indian%20Law%20Enforcement%20Foundation/README.md)
+- [Part H - National Fund for Excellence in American Indian Education](Part%20H%20-%20National%20Fund%20for%20Excellence%20in%20American%20Indian%20Education/README.md)

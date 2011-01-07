@@ -82,7 +82,7 @@ In subsection (d), the words “in carrying out this section” are substituted 
 
 #### Amendments
 
-2005—Subsec. (e). Pub. L. 109–59 added subsec. (e).
+<b>2005</b>—Subsec. (e). Pub. L. 109–59 added subsec. (e).
 
 #### Abolition of United States Railway Association and Transfer of Functions and Securities
 

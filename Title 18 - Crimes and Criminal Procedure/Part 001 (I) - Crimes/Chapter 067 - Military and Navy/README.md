@@ -16,17 +16,17 @@
 
 #### Amendments
 
-2009—Pub. L. 111–84, div. E, §4712(b), Oct. 28, 2009, 123 Stat. 2843, added item 1389.
+<b>2009</b>—Pub. L. 111–84, div. E, §4712(b), Oct. 28, 2009, 123 Stat. 2843, added item 1389.
 
-2006—Pub. L. 109–464, §1(b), Dec. 22, 2006, 120 Stat. 3481, added item 1388.
+<b>2006</b>—Pub. L. 109–464, §1(b), Dec. 22, 2006, 120 Stat. 3481, added item 1388.
 
 Pub. L. 109–228, §3(b), May 29, 2006, 120 Stat. 389, added item 1387.
 
-1991—Pub. L. 102–190, div. A, title X, §1090(b), Dec. 5, 1991, 105 Stat. 1486, added item 1386.
+<b>1991</b>—Pub. L. 102–190, div. A, title X, §1090(b), Dec. 5, 1991, 105 Stat. 1486, added item 1386.
 
-1990—Pub. L. 101–647, title XXXV, §3547, Nov. 29, 1990, 104 Stat. 4926, struck out item 1383 “Restrictions in military areas and zones”.
+<b>1990</b>—Pub. L. 101–647, title XXXV, §3547, Nov. 29, 1990, 104 Stat. 4926, struck out item 1383 “Restrictions in military areas and zones”.
 
-1956—Act Aug. 10, 1956, ch. 1041, §18(b), 70A Stat. 626, inserted item 1385.
+<b>1956</b>—Act Aug. 10, 1956, ch. 1041, §18(b), 70A Stat. 626, inserted item 1385.
 
 
 ---

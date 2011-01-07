@@ -1,12 +1,14 @@
 ### §285g. Purpose of Institute
 
-The general purpose of the Eunice Kennedy Shriver National Institute of Child Health and Human Development (hereafter in this subpartreferred to as the “Institute”) is the conduct and support of research, training, health information dissemination, and other programs with respect to gynecologic health, maternal health, child health, mental retardation, human growth and development, including prenatal development, population research, and special health problems and requirements of mothers and children.
+The general purpose of the Eunice Kennedy Shriver National Institute of Child Health and Human Development (hereafter in this subpart referred to as the “Institute”) is the conduct and support of research, training, health information dissemination, and other programs with respect to gynecologic health, maternal health, child health, intellectual disabilities, human growth and development, including prenatal development, population research, and special health problems and requirements of mothers and children.
 
-(July 1, 1944, ch. 373, title IV, §448, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 856; amended Pub. L. 106–554, §1(a)(1) \[title II, §215\], Dec. 21, 2000, 114 Stat. 2763, 2763A–28; Pub. L. 110–154, §1(d), Dec. 21, 2007, 121 Stat. 1828.)
+(July 1, 1944, ch. 373, title IV, §448, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 856; amended Pub. L. 106–554, §1(a)(1) \[title II, §215\], Dec. 21, 2000, 114 Stat. 2763, 2763A–28; Pub. L. 110–154, §1(d), Dec. 21, 2007, 121 Stat. 1828; Pub. L. 111–256, §2(f)(2), Oct. 5, 2010, 124 Stat. 2644.)
 
 #### Amendments
 
-2000—Pub. L. 106–554 inserted “gynecologic health,” after “with respect to”.
+<b>2010</b>—Pub. L. 111–256 substituted “intellectual disabilities,” for “mental retardation,”.
+
+<b>2000</b>—Pub. L. 106–554 inserted “gynecologic health,” after “with respect to”.
 
 #### Change of Name
 
@@ -16,7 +18,7 @@ Pub. L. 110–154, §1(d), Dec. 21, 2007, 121 Stat. 1828, provided that: “Any 
 
 #### Eunice Kennedy Shriver National Institute of Child Health and Human Development; Findings
 
-Pub. L. 110–154, §1(a), Dec. 21, 2007, 121 Stat. 1826, provided that: “Congress makes the following findings:
+Pub. L. 110–154, §1(a), Dec. 21, 2007, 121 Stat. 1826, as amended by Pub. L. 111–256, §2(h), Oct. 5, 2010, 124 Stat. 2644, provided that: “Congress makes the following findings:
 
 &emsp;“(1) Since it was established by Congress in 1962 at the request of President John F. Kennedy, the National Institute of Child Health and Human Development has achieved an outstanding record of achievement in catalyzing a concentrated attack on the unsolved health problems of children and of mother-infant relationships by fulfilling its mission to—
 
@@ -28,13 +30,15 @@ Pub. L. 110–154, §1(a), Dec. 21, 2007, 121 Stat. 1826, provided that: “Cong
 
 &emsp;&emsp;“(A) reduce dramatically the rates of Sudden Infant Death Syndrome, infant mortality, and maternal HIV transmission;
 
-&emsp;&emsp;“(B) develop the Haemophilus Influenza B (Hib) vaccine, credited with nearly eliminating the incidence of mental retardation; and
+&emsp;&emsp;“(B) develop the Haemophilus Influenza B (Hib) vaccine, credited with nearly eliminating the incidence of intellectual disabilities; and
 
 &emsp;&emsp;“(C) conduct intramural research, support extramural research, and train thousands of child health and human development researchers who have contributed greatly to dramatic gains in child health throughout the world.
 
 &emsp;“(3) The vision, drive, and tenacity of one woman, Eunice Kennedy Shriver, was instrumental in proposing, passing, and enacting legislation to establish the National Institute of Child Health and Human Development (Public Law 87–838) \[see Tables for classification\] on October 17, 1962.
 
 &emsp;“(4) It is befitting and appropriate to recognize the substantial achievements of Eunice Kennedy Shriver, a tireless advocate for children with special needs, whose foresight in creating the National Institute of Child Health and Human Development gave life to the words of President Kennedy, who wished to ‘encourage imaginative research into the complex processes of human development from conception to old age.’ ”
+
+\[For definition of “intellectual disabilities” in section 1(a) of Pub. L. 110–154, set out above, see Definitions note below.\]
 
 #### Long-Term Child Development Study
 
@@ -78,5 +82,9 @@ Pub. L. 100–436, title IV, Sept. 20, 1988, 102 Stat. 1709, provided that the N
 
 #### National Commission to Prevent Infant Mortality
 
-Pub. L. 99–660, title II, Nov. 14, 1986, 100 Stat. 3752, known as the National Commission to Prevent InfantMortality Act of 1986, established National Commission to Prevent Infant Mortality to examine and make recommendation on government and private resources, policies, and programs which impact on infant mortality, required Commission to submit recommendations to President and Congress no later than one year after Nov. 14, 1986, and terminated Commission 90 days after submission of recommendations.
+Pub. L. 99–660, title II, Nov. 14, 1986, 100 Stat. 3752, known as the National Commission to Prevent Infant Mortality Act of 1986, established National Commission to Prevent Infant Mortality to examine and make recommendation on government and private resources, policies, and programs which impact on infant mortality, required Commission to submit recommendations to President and Congress no later than one year after Nov. 14, 1986, and terminated Commission 90 days after submission of recommendations.
+
+#### Definitions
+
+For meaning of references to an intellectual disability and to individuals with intellectual disabilities inprovisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of Title 20, Education.
 

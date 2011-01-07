@@ -2,7 +2,7 @@
 
 (a)
 
-Annual Report.—Not later than June 15 of each year, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the activities of the Department during the calendar year preceding the report under programs of the Department under this chapter and other programs of the Department for the provision of assistance to homeless veterans.
+Annual Report.—Not later than June 15 of each year, the Secretary shall submit to theCommittees on Veterans’ Affairs of the Senate and House of Representatives a report on the activities of the Department during the calendar year preceding the report under programs of the Department under this chapter and other programs of the Department for the provision of assistance to homeless veterans.
 
 (b)
 
@@ -76,9 +76,9 @@ Benefits Content of Report.—Each report under subsection (a) shall include, wi
 
 #### Amendments
 
-2008—Subsec. (b)(3)(C). Pub. L. 110–387 struck out closing parenthesis after “disabilities”.
+<b>2008</b>—Subsec. (b)(3)(C). Pub. L. 110–387 struck out closing parenthesis after “disabilities”.
 
-2006—Subsec. (b)(5), (6). Pub. L. 109–461 added par. (5) and redesignated former par. (5) as (6).
+<b>2006</b>—Subsec. (b)(5), (6). Pub. L. 109–461 added par. (5) and redesignated former par. (5) as (6).
 
-2003—Subsec. (a). Pub. L. 108–170 substituted “June 15 of each year” for “April 15 of each year”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–170 substituted “June 15 of each year” for “April 15 of each year”.
 

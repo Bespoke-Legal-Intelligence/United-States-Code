@@ -14,15 +14,15 @@
 
 #### Amendments
 
-2001—Subsec. (b)(2)(A). Pub. L. 107–14, §7(b)(1)(A), struck out “(without regard to subsection (g) of that section) were payment made under that section instead of under this subsection” before period at end.
+<b>2001</b>—Subsec. (b)(2)(A). Pub. L. 107–14, §7(b)(1)(A), struck out “(without regard to subsection (g) of that section) were payment made under that section instead of under this subsection” before period at end.
 
 Subsec. (b)(2)(C). Pub. L. 107–14, §7(b)(1)(B), added subpar. (C).
 
-2000—Pub. L. 106–398 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>2000</b>—Pub. L. 106–398 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1991—Pub. L. 102–83 renumbered section 1414 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1414 of this title as this section.
 
-1989—Pub. L. 101–237 substituted “Secretary” for “Administrator”.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” for “Administrator”.
 
 #### Effective Date of 2001 Amendment
 

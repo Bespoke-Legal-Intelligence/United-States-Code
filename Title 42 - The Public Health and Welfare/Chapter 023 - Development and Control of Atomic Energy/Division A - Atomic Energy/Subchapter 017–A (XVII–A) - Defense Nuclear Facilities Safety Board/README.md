@@ -1,7 +1,5 @@
 ### SUBCHAPTER XVII–A—DEFENSE NUCLEAR FACILITIES SAFETY BOARD
 
-<i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
-
 
 ---
 

@@ -68,9 +68,19 @@ There are authorized to be appropriated to carry out this section—
 
 &emsp;(1) $15,000,000 for fiscal year 2008;
 
-&emsp;(2) $20,000,000 for fiscal year 2009; and
+&emsp;(2) $20,000,000 for fiscal year 2009;
 
-&emsp;(3) $30,000,000 for fiscal year 2010.
+&emsp;(3) $30,000,000 for fiscal year 2010;
 
-(Pub. L. 110–69, title V, §5011, Aug. 9, 2007, 121 Stat. 620.)
+&emsp;(4) $31,000,000 for fiscal year 2011;
+
+&emsp;(5) $32,000,000 for fiscal year 2012; and
+
+&emsp;(6) $33,000,000 for fiscal year 2013.
+
+(Pub. L. 110–69, title V, §5011, Aug. 9, 2007, 121 Stat. 620; Pub. L. 111–358, title IX, §902(e), Jan. 4, 2011, 124 Stat. 4045.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (j)(4) to (6). Pub. L. 111–358 added pars. (4) to (6).
 

@@ -38,7 +38,7 @@
 
 #### (c) Term of office; vacancy; reappointment
 
-The term of office of an appointed member of the advisory council is four years, except that any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term and the Secretary shall make appointments to an advisory council in such a manner as to ensure that the terms of the members do not all expire in the same year. A member may serve after the expiration of the member's term until a successor has taken office. A member who has been appointed for a term of four years may not be reappointed to an advisory council before two years from the date of expiration of such term of office. If a vacancy occurs in the advisory council among the appointed members, the Secretary shall make an appointment to fill the vacancy within 90 days from the date the vacancy occurs.
+The term of office of an appointed member of the advisory council is four years, except that any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term and the Secretary shall make appointments to an advisory council in such a manner as to ensure that the terms of the members do not all expire in the same year. A member may serve after the expiration of the member's term until a successor has taken office. A member who has been appointed for a term of four years may not be reappointed to an advisory council before two years from the dateof expiration of such term of office. If a vacancy occurs in the advisory council among the appointed members, the Secretary shall make an appointment to fill the vacancy within 90 days from the date the vacancy occurs.
 
 #### (d) Chairman; selection; term of office
 
@@ -64,7 +64,7 @@ Section was formerly classified to section 285c–2 of this title prior to renum
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–43, §1511(a)(3)(A), substituted “Institute” for “Center” wherever appearing.
+<b>1993</b>—Subsec. (a). Pub. L. 103–43, §1511(a)(3)(A), substituted “Institute” for “Center” wherever appearing.
 
 Subsec. (a)(2). Pub. L. 103–43, §2010(b)(5), which directed the substitution of “section 238” for “section 300aaa” in section 287c–2(a)(2) of this title, was executed to subsec. (a)(2) of this section to reflect the probable intent of Congress and the renumbering of this section. See Codification note above.
 
@@ -78,9 +78,9 @@ Subsecs. (d) to (f). Pub. L. 103–43, §1511(a)(3)(C), substituted “Institute
 
 Subsec. (g). Pub. L. 103–43, §1511(a)(3)(C), (b)(4)(B), substituted “section 285q–3” for “section 287c–3” and “Institute” for “Center” in two places.
 
-1991—Subsec. (b)(2)(A). Pub. L. 102–54 substituted “chief nursing officer of the Department of Veterans Affairs” for “Chief Nursing Officer of the Veterans’ Administration”.
+<b>1991</b>—Subsec. (b)(2)(A). Pub. L. 102–54 substituted “chief nursing officer of the Department of Veterans Affairs” for “Chief Nursing Officer of the Veterans’ Administration”.
 
-1990—Subsec. (a)(2). Pub. L. 101–381 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–381 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act.
 
 #### Termination of Advisory Councils
 

@@ -180,7 +180,7 @@ The Commissioner may not make a grant under subsection (a) of this section unles
 
 #### (C) Conditions
 
-&emsp;&emsp;The Commissioner may not make a grant under subparagraph (A) unless the State involved agrees that the grant is subject to the same conditions as grants made under subsection (a) of this section.
+&emsp;&emsp;The Commissioner may not make a grant under subparagraph (A) unless the State involved agrees that the grant is subject to thesame conditions as grants made under subsection (a) of this section.
 
 (Pub. L. 93–112, title VII, §752, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1237.)
 

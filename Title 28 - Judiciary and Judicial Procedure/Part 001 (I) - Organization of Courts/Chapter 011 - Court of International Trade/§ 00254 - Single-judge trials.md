@@ -34,11 +34,11 @@ Provisions similar to those relating to the assignment of judges to hear and det
 
 #### Amendments
 
-1980—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
+<b>1980</b>—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-1970—Pub. L. 91–271 substituted in section catchline “Single-judge trials” for “Divisions; powers and assignments” and substituted provisions in text requiring the judicial power of the Customs Court with respect to any action, suit, or proceeding to be exercised by a single judge, for provisions setting forth the powers of the chief judge of the Customs Court with respect to the organization of such Court into divisions, and the assignment of judges to hear and determine pending cases.
+<b>1970</b>—Pub. L. 91–271 substituted in section catchline “Single-judge trials” for “Divisions; powers and assignments” and substituted provisions in text requiring the judicial power of the Customs Court with respect to any action, suit, or proceeding to be exercised by a single judge, for provisions setting forth the powers of the chief judge of the Customs Court with respect to the organization of such Court into divisions, and the assignment of judges to hear and determine pending cases.
 
-1949—Act May 24, 1949, inserted “to hear or” before “to hear and determine” in third par.
+<b>1949</b>—Act May 24, 1949, inserted “to hear or” before “to hear and determine” in third par.
 
 #### Effective Date of 1980 Amendment
 

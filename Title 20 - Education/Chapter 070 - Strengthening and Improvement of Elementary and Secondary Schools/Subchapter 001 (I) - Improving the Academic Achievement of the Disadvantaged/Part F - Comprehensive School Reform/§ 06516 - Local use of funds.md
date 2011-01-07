@@ -18,7 +18,7 @@ A local educational agency or consortium that receives a subgrant under this par
 
 &emsp;(7) provides for the meaningful involvement of parents and the local community in planning, implementing, and evaluating school improvement activities consistent with section 6318 of this title;
 
-&emsp;(8) uses high quality external technical support and assistance from an entity that has experience and expertise in schoolwide reform and improvement, which may include an institution of higher education;
+&emsp;(8) uses high quality external technical support and assistance from an entity that has experience and expertise in schoolwide reformand improvement, which may include an institution of higher education;
 
 &emsp;(9) includes a plan for the annual evaluation of the implementation of school reforms and the student results achieved;
 

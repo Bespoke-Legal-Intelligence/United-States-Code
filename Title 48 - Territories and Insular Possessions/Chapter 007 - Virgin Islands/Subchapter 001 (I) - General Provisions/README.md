@@ -10,7 +10,7 @@ A new organic act, or basic charter of civil government, for the people of the V
 
 #### Constitutions for Virgin Islands and Guam: Establishment; Congressional Authorization
 
-Pub. L. 94–584, Oct. 21, 1976, 90 Stat. 2899, as amended by Pub. L. 96–597, title V, §501, Dec. 24, 1980, 94 Stat. 3479, provided:
+Pub. L. 94–584, Oct. 21, 1976, 90 Stat. 2899, as amended by Pub. L. 96–597, title V, §501, Dec. 24, 1980, 94 Stat. 3479; Pub. L. 111–194, §2, June 30, 2010, 124 Stat. 1310, provided:
 
 “\[Section 1. Authorization to organize governments\] That the Congress, recognizing the basic democratic principle of government by the consent of the governed, authorities the peoples of the Virgin Islands and of Guam, respectively, to organize governments pursuant to constitutions of their own adoption as provided in this Act.
 
@@ -40,9 +40,33 @@ Sec. 3. \[Selection and qualifications of members\] The members of such constitu
 
 “
 
-Sec. 4. \[Submittal of proposed constitutions to governors and President\] The conventions shall submit to the Governor of the Virgin Islands a proposed constitution for the Virgin Islands and to the Governor of Guam a proposed constitution for Guam which shall comply with the requirements set forth in section 2(b) above. Such constitutions shall be submitted to the President of the United States by the Governors of the Virgin Islands and Guam.
+Sec. 4. \[Submittal of proposed constitutions to governors and President\] The conventions shall submit tothe Governor of the Virgin Islands a proposed constitution for the Virgin Islands and to the Governor of Guam a proposed constitution for Guam which shall comply with the requirements set forth in section 2(b) above. Such constitutions shall be submitted to the President of the United States by the Governors of the Virgin Islands and Guam.
 
-“Sec. 5. \[Transmittal to Congress and submittal to voters\] Within sixty calendar days after the respective date on which he has received each constitution, the President shall transmit such constitution together with his comments to the Congress. The constitution, in each case, shall be deemed to have been approved by the Congress within sixty legislative days (not interrupted by an adjournment sine die of the Congress) after its submission by the President, unless prior to that date the Congress has approved the constitution, or modified or amended it, in whole or in part, by joint resolution. As so approved or modified, the constitutions shall be submitted to the qualified voters of the Virgin Islands and Guam, respectively, for acceptance or rejection through islandwide referendums to be conducted as provided under the laws of the Virgin Islands and Guam, respectively, (enacted after the date of enactment of this Act) \[Oct. 21, 1976\]. Upon approval by not less than a majority of the votes (counting only the affirmative or negative votes) participating in such referendums, the constitutions shall become effective in accordance with their terms.”
+“Sec. 5. \[Transmittal to Congress and submittal to voters\] (a) Within sixty calendar days after the respective date on which he has received each constitution, the President shall transmit such constitution together with his comments to the Congress.
+
+“(b) The constitution, in each case, shall be deemed to have been approved by the Congress within 60 legislative days after its submission by the President, unless prior to that date the Congress has approved the constitution, or modified or amended it, in whole or in part, or has urged the constitutional convention to reconvene, by joint resolution.
+
+“(c)
+
+Revision of Proposed Constitution.—
+
+&emsp;“(1)
+
+In general.—If a convention reconvenes and revises the proposed constitution, the convention shall resubmit the revised proposed constitution simultaneously to the Governor of the Virgin Islands and the President.
+
+&emsp;“(2)
+
+Comments of president.—Not later than 60 calendar days after the date of receipt of the revised proposed constitution, the President shall—
+
+&emsp;&emsp;“(A) notify the convention, the Governor, and Congress of the comments of the President on the revised proposed constitution; and
+
+&emsp;&emsp;“(B) publish the comments in the Federal Register.
+
+“(d) As so approved or modified under subsection (b) (or, if revised pursuant to subsection (c), on publication of the comments of the President in the Federal Register), the constitutions shall be submitted to the qualified voters of the Virgin Islands and Guam, respectively, for acceptance or rejection through islandwide referendums to be conducted as provided under the laws of the Virgin Islands and Guam, respectively, (enacted after the date of enactment of this Act) \[Oct. 21, 1976\].
+
+“(e) Upon approval by not less than a majority of the votes (counting only the affirmative or negative votes) participating in such referendums, the constitutions shall become effective in accordance with their terms.”
+
+\[Pub. L. 94–584 is also set out as a note preceding section 1541 of this title.\]
 
 #### Delegate to Congress From Virgin Islands
 

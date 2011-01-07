@@ -1,6 +1,6 @@
 ### §12738. Limitations on revocation of retired pay
 
-(a) After a person is granted retired pay under this chapter, or is notified in accordance withsection 12731(d) of this title that the person has completed the years of service required for eligibility for retired pay under this chapter, the person's eligibility for retired pay may not be denied or revoked on the basis of any error, miscalculation, misinformation, or administrative determination of years of service performed as required by section 12731(a)(2) of this title, unless it resulted directly from the fraud or misrepresentation of the person.
+(a) After a person is granted retired pay under this chapter, or is notified in accordance with section 12731(d) of this title that the person has completed the years of service required for eligibility for retired pay under this chapter, the person's eligibility for retired pay may not be denied or revoked on the basis of any error, miscalculation, misinformation, or administrative determination of years of service performed as required by section 12731(a)(2) of this title, unless it resulted directly from the fraud or misrepresentation of the person.
 
 (b) The number of years of creditable service upon which retired pay is computed may be adjusted to correct any error, miscalculation, misinformation, or administrative determination and when such a correction is made the person is entitled to retired pay in accordance with the number of years of creditable service, as corrected, from the date the person is granted retired pay.
 
@@ -8,9 +8,9 @@
 
 #### Amendments
 
-1994—Pub. L. 103–337 renumbered section 1338 of this title as this section and amended text generally, making changes in style and references to other sections.
+<b>1994</b>—Pub. L. 103–337 renumbered section 1338 of this title as this section and amended text generally, making changes in style and references to other sections.
 
-1986—Pub. L. 99–348 renumbered section 1406 of this title as this section, designated first sentence as subsec. (a) and substituted “this chapter” for “chapter 67 of this title” in two places, and designated second sentence as subsec. (b).
+<b>1986</b>—Pub. L. 99–348 renumbered section 1406 of this title as this section, designated first sentence as subsec. (a) and substituted “this chapter” for “chapter 67 of this title” in two places, and designated second sentence as subsec. (b).
 
 #### Effective Date of 1994 Amendment
 

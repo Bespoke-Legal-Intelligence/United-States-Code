@@ -1,10 +1,10 @@
 ### §1065. Incontestability of right to use mark under certain conditions
 
-Except on a ground for which application to cancel may be filed at any time under paragraphs (3) and (5) of section 1064 of this title, and except to the extent, if any, to which the use of a mark registered on the principal register infringes a valid right acquired under the law of any State or Territory by use of a mark or trade name continuing from a date prior to the date of registration under this chapter of such registered mark, the right of the registrant to use such registered mark in commerce for the goods or services on or in connection with which such registered mark has been in continuous use for five consecutive years subsequent to the date of such registration and is still in use in commerce, shall be incontestable: <i>Provided</i>, That—
+Except on a ground for which application to cancel may be filed at any time under paragraphs (3) and (5) of section 1064 of this title, and except to the extent, if any, to which the use of a mark registered on the principal register infringes a valid right acquired under the law of any State or Territory by use of a mark or trade name continuing from a date prior to the date of registration under this chapter of such registered mark, the right of the owner to use such registered mark in commerce for the goods or services on or in connection with which such registered mark has been in continuous use for five consecutive years subsequent to the date of such registration and is still in use in commerce, shall be incontestable: <i>Provided</i>, That—
 
-&emsp;(1) there has been no final decision adverse to registrant's claim of ownership of such mark for such goods or services, or to registrant's right to register the same or to keep the same on the register; and
+&emsp;(1) there has been no final decision adverse to the owner's claim of ownership of such mark for such goods or services, or to the owner's right to register the same or to keep the same on the register; and
 
-&emsp;(2) there is no proceeding involving said rights pending in the Patent and Trademark Office or in a court and not finally disposed of; and
+&emsp;(2) there is no proceeding involving said rights pending in the United States Patent and Trademark Office or in a court and not finally disposed of; and
 
 &emsp;(3) an affidavit is filed with the Director within one year after the expiration of any such five-year period setting forth those goods or services stated in the registration on or in connection with which such mark has been in continuous use for such five consecutive years and is still in use in commerce, and other matters specified in paragraphs (1) and (2) of this section; and
 
@@ -14,7 +14,7 @@ Subject to the conditions above specified in this section, the incontestable rig
 
 The Director shall notify any registrant who files the above-prescribed affidavit of the filing thereof.
 
-(July 5, 1946, ch. 540, title I, §15, 60 Stat. 433; Pub. L. 87–772, §10, Oct. 9, 1962, 76 Stat. 771; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, §10, Aug. 27, 1982, 96 Stat. 320; Pub. L. 100–667, title I, §116, Nov. 16, 1988, 102 Stat. 3941; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
+(July 5, 1946, ch. 540, title I, §15, 60 Stat. 433; Pub. L. 87–772, §10, Oct. 9, 1962, 76 Stat. 771; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, §10, Aug. 27, 1982, 96 Stat. 320; Pub. L. 100–667, title I, §116, Nov. 16, 1988, 102 Stat. 3941; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 111–146, §3(b), Mar. 17, 2010, 124 Stat. 67.)
 
 #### References in Text
 
@@ -22,15 +22,21 @@ Acts March 3, 1881 and February 20, 1905, referred to in text, are acts Mar. 3, 
 
 #### Amendments
 
-1999—Pub. L. 106–113 substituted “Director” for “Commissioner” in par. (3) and in two places in concluding provisions.
+<b>2010</b>—Pub. L. 111–146, §3(b)(1), substituted “right of the owner” for “right of the registrant” in introductory provisions.
 
-1988—Pub. L. 100–667, in introductory provisions, substituted “paragraphs (3) and (5)” for “subsections (c) and (e)”, in par. (3) “paragraphs” for “subsections”, and in par. (4) “the generic name for the goods or services or a portion thereof, for which it is registered” for “the common descriptive name of any article or substance, patented or otherwise”.
+Par. (1). Pub. L. 111–146, §3(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “there has been no final decision adverse to registrant's claim of ownership of such mark for such goods or services, or to registrant's right to register the same or to keep the same on the register; and”.
 
-1982—Pub. L. 97–247 substituted “registration” for “the publication” in provision preceding par. (1).
+Par. (2). Pub. L. 111–146, §3(b)(3), inserted “United States” before “Patent and Trademark Office”.
 
-1975—Par. (2). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1999</b>—Pub. L. 106–113 substituted “Director” for “Commissioner” in par. (3) and in two places in concluding provisions.
 
-1962—Pub. L. 87–772 substituted “(c) and (e) of section 1064” for “(c) and (d) of section 1064” in provision preceding par. (1), and struck out “or trade name” after “in a mark” in par. (4).
+<b>1988</b>—Pub. L. 100–667, in introductory provisions, substituted “paragraphs (3) and (5)” for “subsections (c) and (e)”, in par. (3) “paragraphs” for “subsections”, and in par. (4) “the generic name for the goods or services or a portion thereof, for which it is registered” for “the common descriptive name of any article or substance, patented or otherwise”.
+
+<b>1982</b>—Pub. L. 97–247 substituted “registration” for “the publication” in provision preceding par. (1).
+
+<b>1975</b>—Par. (2). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+
+<b>1962</b>—Pub. L. 87–772 substituted “(c) and (e) of section 1064” for “(c) and (d) of section 1064” in provision preceding par. (1), and struck out “or trade name” after “in a mark” in par. (4).
 
 #### Effective Date of 1999 Amendment
 
@@ -50,7 +56,7 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 #### Repeal and Effect on Existing Rights
 
-Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrationsand rights under prior acts, see notes set out under section 1051 of this title.
+Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
 
 #### Transfer of Functions
 

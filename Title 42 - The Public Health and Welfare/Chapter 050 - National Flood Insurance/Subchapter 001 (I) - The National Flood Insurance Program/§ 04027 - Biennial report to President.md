@@ -12,17 +12,17 @@ The Director shall include, as part of the biennial report submitted under subse
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original a reference to “this title” meaning title XIIIof Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 The Riegle Community Development and Regulatory Improvement Act of 1994, referred to in subsec. (b), is Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2160. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 12, Banks and Banking, and Tables.
 
 #### Amendments
 
-1994—Pub. L. 103–325 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>1994</b>—Pub. L. 103–325 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1983—Pub. L. 98–181 substituted “Director” for “Secretary”.
+<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary”.
 
-1980—Pub. L. 96–470 substituted “biennially submit” for “include” and struck out “in the annual report” after “under this chapter” and “required by section 3536 of this title” after “the Congress”.
+<b>1980</b>—Pub. L. 96–470 substituted “biennially submit” for “include” and struck out “in the annual report” after “under this chapter” and “required by section 3536 of this title” after “the Congress”.
 
 #### Transfer of Functions
 

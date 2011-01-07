@@ -50,7 +50,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 &emsp;(v) a sale, purchase, or trade of a drug, an offer to sell, purchase, or trade a drug, or the dispensing of a drug pursuant to a prescription executed in accordance with subsection (b) of this section.
 
-> For purposes of this paragraph, the term “entity” does not include a wholesale distributor of drugs or a retail pharmacy licensed under State law and the term “emergency medical reasons” includes transfers of a drug between health care entities or from a health care entity to a retail pharmacy undertaken to alleviate temporary shortages of the drug arising from delays in or interruptions of regular distribution schedules.
+> For purposes of this paragraph, the term “entity” does not include a wholesale distributor of drugs or a retail pharmacy licensed under State law and the term “emergency medical reasons” includes transfers of a drug between health careentities or from a health care entity to a retail pharmacy undertaken to alleviate temporary shortages of the drug arising from delays in or interruptions of regular distribution schedules.
 
 #### (d) Distribution of drug samples
 
@@ -102,11 +102,11 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 #### (e) Wholesale distributors; guidelines for licensing; definitions
 
-(1)(A) Each person who is engaged in the wholesale distribution of a drug subject to subsection (b) of this section and who is not the manufacturer or an authorized distributor of record of such drug shall, before each wholesale distribution of such drug (including each distribution to an authorized distributor of record or to a retail pharmacy), provide to the person who receives the drug a statement (in such form and containing such information as the Secretary may require) identifying each prior sale, purchase, or trade of such drug (including the date of the transaction and the names and addresses of all parties to the transaction).
+(1)(A) Each person who is engaged in the wholesale distribution of a drug subject to subsection (b) of this section and who is not the manufacturer or an authorized distributor of record of such drug shall, before each wholesaledistribution of such drug (including each distribution to an authorized distributor of record or to a retail pharmacy), provide to the person who receives the drug a statement (in such form and containing such information as the Secretary may require) identifying each prior sale, purchase, or trade of such drug (including the date of the transaction and the names and addresses of all parties to the transaction).
 
 (B) Each manufacturer of a drug subject to subsection (b) of this section shall maintain at its corporate offices a current list of the authorized distributors of record of such drug.
 
-(2)(A) No person may engage in the wholesale distribution in interstate commerce of drugssubject to subsection (b) of this section in a State unless such person is licensed by the State in accordance with the guidelines issued under subparagraph (B).
+(2)(A) No person may engage in the wholesale distribution in interstate commerce of drugs subject to subsection (b) of this section in a State unless such person is licensed by the State in accordance with the guidelines issued under subparagraph (B).
 
 (B) The Secretary shall by regulation issue guidelines establishing minimum standards, terms, and conditions for the licensing of persons to make wholesale distributions in interstate commerce of drugs subject to subsection (b) of this section. Such guidelines shall prescribe requirements for the storage and handling of such drugs and for the establishment and maintenance of records of the distributions of such drugs.
 
@@ -166,7 +166,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 (3) The Secretary shall promulgate regulations to implement market clearance procedures in accordance with paragraphs (1) and (2) not later than 1 year after November 28, 1990.
 
-(4)(A) Not later than 60 days after October 26, 2002, the Secretary shall establish within the Office of the Commissioner of Food and Drugs anoffice to ensure the prompt assignment of combination products to agency centers, the timely and effective premarket review of such products, and consistent and appropriate postmarket regulation of like products subject to the same statutory requirements to the extent permitted by law. Additionally, the office shall, in determining whether a product is to be designated a combination product, consult with the component within the Office of the Commissioner of Food and Drugs that is responsible for such determinations. Such office (referred to in this paragraph as the “Office”) shall have appropriate scientific and medical expertise, and shall be headed by a director.
+(4)(A) Not later than 60 days after October 26, 2002, the Secretary shall establish within the Office of the Commissioner of Food and Drugs an office to ensure the prompt assignment of combination products to agency centers, the timely and effective premarket review of such products, and consistent and appropriate postmarket regulation of like products subject to the same statutory requirements to the extent permitted by law. Additionally, the office shall, in determining whether a product is to be designated a combination product, consult with the component within the Office of the Commissioner of Food and Drugs that is responsible for such determinations. Such office (referred to in this paragraph as the “Office”) shall have appropriate scientific and medical expertise, and shall be headed by a director.
 
 (B) In carrying out this subsection, the Office shall, for each combination product, promptly assign an agency center with primary jurisdiction in accordance with paragraph (1) for the premarket review of such product.
 
@@ -218,11 +218,11 @@ In subsec. (b)(5), “sections 4721, 6001, and 6151 of title 26” and “sectio
 
 #### Amendments
 
-2004—Subsec. (f)(1)(A)(ii). Pub. L. 108–282, §102(b)(5)(F)(i), substituted “360b of this title, a conditionally-approved application under section 360ccc of this title, or an index listing under section 360ccc–1 of this title” for “360b of this title”.
+<b>2004</b>—Subsec. (f)(1)(A)(ii). Pub. L. 108–282, §102(b)(5)(F)(i), substituted “360b of this title, a conditionally-approved application under section 360ccc of this title, or an index listing under section 360ccc–1 of this title” for “360b of this title”.
 
 Subsec. (f)(3). Pub. L. 108–282, §102(b)(5)(F)(ii), substituted “section 360b, 360ccc, or 360ccc–1” for “section 360b”.
 
-2002—Subsec. (g)(1). Pub. L. 107–250, §204(1)(A), substituted “shall in accordance with this subsection assign an agency center” for “shall designate a component of the Food and Drug Administration” in first sentence of introductory provisions.
+<b>2002</b>—Subsec. (g)(1). Pub. L. 107–250, §204(1)(A), substituted “shall in accordance with this subsection assign an agency center” for “shall designate a component of the Food and Drug Administration” in first sentence of introductory provisions.
 
 Subsec. (g)(1)(A) to (C). Pub. L. 107–250, §204(1)(B), substituted “the agency center charged” for “the persons charged”.
 
@@ -230,7 +230,7 @@ Subsec. (g)(4). Pub. L. 107–250, §204(3), added par. (4). Former par. (4) red
 
 Subsec. (g)(5). Pub. L. 107–250, §204(2), (4), redesignated par. (4) as (5), added subpar. (A), and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
-1997—Subsec. (b)(1)(A) to (C). Pub. L. 105–115, §126(c)(1), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A), which read as follows: “is a habit-forming drug to which section 352(d) of this title applies; or”.
+<b>1997</b>—Subsec. (b)(1)(A) to (C). Pub. L. 105–115, §126(c)(1), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A), which read as follows: “is a habit-forming drug to which section 352(d) of this title applies; or”.
 
 Subsec. (b)(3). Pub. L. 105–115, §126(c)(2), struck out reference to section 352(d) of this title before “355”.
 
@@ -240,9 +240,9 @@ Subsec. (g)(4)(A). Pub. L. 105–115, §123(e)(1), substituted “section 262(i)
 
 Subsec. (g)(4)(B)(iii). Pub. L. 105–115, §123(e)(2), substituted “biologics license application under subsection (a)” for “product or establishment license under subsection (a) or (d)”.
 
-1996—Subsec. (f)(1)(A). Pub. L. 104–250 inserted “, other than a veterinary feed directive drug intended for use in animal feed or an animal feed bearing or containing a veterinary feed directive drug,” after “other than man” in introductory provisions.
+<b>1996</b>—Subsec. (f)(1)(A). Pub. L. 104–250 inserted “, other than a veterinary feed directive drug intended for use in animal feed or an animal feed bearing or containing a veterinary feed directive drug,” after “other than man” in introductory provisions.
 
-1992—Subsec. (d)(1). Pub. L. 102–353, §4(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Except as provided in paragraphs (2) and (3), no representative of a drug manufacturer or distributor may distribute any drug sample.”
+<b>1992</b>—Subsec. (d)(1). Pub. L. 102–353, §4(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Except as provided in paragraphs (2) and (3), no representative of a drug manufacturer or distributor may distribute any drug sample.”
 
 Subsec. (d)(2). Pub. L. 102–353, §4(2), substituted “authorized distributor of record” for “distributor” wherever appearing.
 
@@ -262,7 +262,7 @@ Subsec. (f)(1)(B). Pub. L. 102–353, §2(c), which directed the substitution of
 
 Subsec. (g)(3). Pub. L. 102–300 substituted “clearance” for “approval”.
 
-1991—Subsec. (c). Pub. L. 102–108, §2(d)(3), redesignated subsec. (c), relating to veterinary prescription drugs, as (f). Former subsec. (f) redesignated (g).
+<b>1991</b>—Subsec. (c). Pub. L. 102–108, §2(d)(3), redesignated subsec. (c), relating to veterinary prescription drugs, as (f). Former subsec. (f) redesignated (g).
 
 Subsec. (c)(2), (3)(B)(v). Pub. L. 102–108, §2(d)(1), made technical amendment to reference to subsection (b) of this section involving corresponding provision of original act.
 
@@ -274,11 +274,11 @@ Pub. L. 102–108, §2(d)(3), redesignated subsec. (c), relating to veterinary p
 
 Subsec. (g). Pub. L. 102–108, §2(d)(4), redesignated subsec. (f), relating to regulation of combination products, as (g).
 
-1990—Pub. L. 101–629, §16(a)(1), substituted “Exemptions and consideration for certain drugs, devices, and biological products” for “Exemptions in case of drugs and devices” in section catchline.
+<b>1990</b>—Pub. L. 101–629, §16(a)(1), substituted “Exemptions and consideration for certain drugs, devices, and biological products” for “Exemptions in case of drugs and devices” in section catchline.
 
 Subsec. (f). Pub. L. 101–629, §16(a)(2), added subsec. (f).
 
-1988—Subsec. (c). Pub. L. 100–670 added subsec. (c) relating to veterinary prescription drugs.
+<b>1988</b>—Subsec. (c). Pub. L. 100–670 added subsec. (c) relating to veterinary prescription drugs.
 
 Pub. L. 100–293, §4, added subsec. (c) relating to sales restrictions.
 
@@ -286,11 +286,11 @@ Subsec. (d). Pub. L. 100–293, §5, added subsec. (d).
 
 Subsec. (e). Pub. L. 100–293, §6, added subsec. (e).
 
-1970—Subsec. (b)(2). Pub. L. 91–601 included exemption from packaging requirements of subsec. (p) of section 352 of this title.
+<b>1970</b>—Subsec. (b)(2). Pub. L. 91–601 included exemption from packaging requirements of subsec. (p) of section 352 of this title.
 
-1962—Subsec. (b)(1)(C). Pub. L. 87–781 substituted “approved” for “effective”.
+<b>1962</b>—Subsec. (b)(1)(C). Pub. L. 87–781 substituted “approved” for “effective”.
 
-1951—Subsec. (b). Act Oct. 26, 1951, amended subsec. (b) generally to protect the public from abuses in the sale of potent prescription drugs, and to relieve retail pharmacists and the public from unnecessary restrictions on the dispensation of drugs that are safe to use without supervision of a doctor.
+<b>1951</b>—Subsec. (b). Act Oct. 26, 1951, amended subsec. (b) generally to protect the public from abuses in the sale of potent prescription drugs, and to relieve retail pharmacists and the public from unnecessary restrictions on the dispensation of drugs that are safe to use without supervision of a doctor.
 
 #### Effective Date of 1997 Amendment
 
@@ -314,7 +314,7 @@ Exception.—
 
 &emsp;“(1) Section 503(d) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 353(d)\] (as added by section 5 of this Act) shall take effect upon the expiration of 180 days after the date of the enactment of this Act \[Apr. 22, 1988\].
 
-&emsp;“(2) The Secretary of Health and Human Services shall by regulation issue the guidelines required by section 503(e)(2)(B) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 353(e)(2)(B)\] (as added by section 6 of this Act) not later than 180 days after the date of the enactment of this Act. Section 503(e)(2)(A)of such Act shall take effect upon the expiration of 2 years after the date such regulations are promulgated and take effect.”
+&emsp;“(2) The Secretary of Health and Human Services shall by regulation issue the guidelines required by section 503(e)(2)(B) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 353(e)(2)(B)\] (as added by section 6 of this Act) not later than 180 days after the date of the enactment of this Act. Section 503(e)(2)(A) of such Act shall take effect upon the expiration of 2 years after the date such regulations are promulgated and take effect.”
 
 #### Effective Date of 1970 Amendment
 
@@ -380,7 +380,7 @@ Section 2 of Pub. L. 100–293 provided that: “The Congress finds the followin
 
 &emsp;“(4) Large amounts of drugs are being reimported to the United States as American goods returned. These imports are a health and safety risk to American consumers because they may have become subpotent or adulterated during foreign handling and shipping.
 
-&emsp;“(5) The ready market for prescription drug reimports has been the catalyst for a continuing series of frauds against American manufacturers and has provided the cover for the importation of foreign counterfeit drugs.
+&emsp;“(5) The ready market for prescription drug reimports has been the catalyst for a continuing seriesof frauds against American manufacturers and has provided the cover for the importation of foreign counterfeit drugs.
 
 &emsp;“(6) The existing system of providing drug samples to physicians through manufacturer's representatives has been abused for decades and has resulted in the sale to consumers of misbranded, expired, and adulterated pharmaceuticals.
 

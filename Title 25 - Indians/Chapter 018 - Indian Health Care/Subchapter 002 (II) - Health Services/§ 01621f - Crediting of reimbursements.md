@@ -1,18 +1,44 @@
 ### §1621f. Crediting of reimbursements
 
-(a) Except as provided in section 1621a(d) of this title, subchapter III–A of this chapter, and section 1680c of this title, all reimbursements received or recovered, under authority of this chapter, Public Law 87–693 (42 U.S.C. 2651, et seq.), or any other provision of law, by reason of the provision of health services by the Service or by a tribe or tribal organization under a contract pursuant to the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\] shall be retained by the Service or that tribe or tribal organization and shall be available for the facilities, and to carry out the programs, of the Service or that tribe or tribal organization to provide health care services to Indians.
+#### (a) Use of amounts
 
-(b) The Service may not offset or limit the amount of funds obligated to any service unit or any entity under contract with the Service because of the receipt of reimbursements under subsection (a) of this section.
+#### (1) Retention by program
 
-(Pub. L. 94–437, title II, §207, as added Pub. L. 100–713, title II, §204, Nov. 23, 1988, 102 Stat. 4812; amended Pub. L. 102–573, title VII, §701(c)(1), Oct. 29, 1992, 106 Stat. 4572.)
+&emsp;Except as provided in sections 1621a(a)(2) and 1680c of this title, all reimbursements received or recovered under any of the programs described in paragraph (2), including under section 1680c of this title, by reason of the provision of health services by the Service, by an Indian tribe or tribal organization, or by an urban Indian organization, shall be credited to the Service, such Indian tribe or tribal organization, or such urban Indian organization, respectively, and may be used as provided in section 1641 of this title. In the case of such a service provided by or through a Service Unit, such amounts shall be credited to such unit and used for such purposes.
+
+#### (2) Programs covered
+
+&emsp;The programs referred to in paragraph (1) are the following:
+
+&emsp;&emsp;(A) Titles XVIII, XIX, and XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\].
+
+&emsp;&emsp;(B) This chapter, including section 1680c of this title.
+
+&emsp;&emsp;(C) Public Law 87–693 \[42 U.S.C. 2651 et seq.\].
+
+&emsp;&emsp;(D) Any other provision of law.
+
+#### (b) No offset of amounts
+
+The Service may not offset or limit any amount obligated to any Service Unit or entity receiving funding from the Service because of the receipt of reimbursements under subsection (a).
+
+(Pub. L. 94–437, title II, §207, as added Pub. L. 100–713, title II, §204, Nov. 23, 1988, 102 Stat. 4812; amended Pub. L. 102–573, title VII, §701(c)(1), Oct. 29, 1992, 106 Stat. 4572; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 #### References in Text
 
-Public Law 87–693, referred to in subsec. (a), is Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, which is classified generally to chapter 32 (§2651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+The Social Security Act, referred to in subsec. (a)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. TitlesXVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Indian Self-Determination Act, referred to in subsec. (a), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act tothe Code, see Short Title note set out under section 450 of this title and Tables.
+This chapter, referred to in subsec. (a)(2)(B), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+
+Public Law 87–693, referred to in subsec. (a)(2)(C), is Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, popularly known as the Federal Medical Care Recovery Act, which is classified generally to chapter 32 (§2651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+
+#### Codification
+
+Amendment by Pub. L. 111–148 is based on section 126 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–573 made technical amendment to reference to section 1680c of this title to reflect renumbering of corresponding section of original act.
+<b>2010</b>—Pub. L. 111–148 amended section generally. Prior to amendment, section related to crediting of reimbursements.
+
+<b>1992</b>—Subsec. (a). Pub. L. 102–573 made technical amendment to reference to section 1680c of this title to reflect renumbering of corresponding section of original act.
 

@@ -10,7 +10,7 @@ Records, Reports, and Information.—A person subject to this chapter shall—
 
 &emsp;(1) maintain records and property, make reports, and provide information the Secretary by regulation or order requires; and
 
-&emsp;(2) make the records, property, reports, and information available for inspection when theSecretary undertakes an investigation or makes a request.
+&emsp;(2) make the records, property, reports, and information available for inspection when the Secretary undertakes an investigation or makes a request.
 
 (c)
 
@@ -28,7 +28,7 @@ In general.—A designated officer, employee, or agent of the Secretary—
 
 &emsp;&emsp;&emsp;(i) such officer, employee, or agent has an objectively reasonable and articulable belief that the package may pose an imminent hazard; and
 
-&emsp;&emsp;&emsp;(ii) such officer, employee, or agent contemporaneously documents such belief in accordance with procedures set forth in guidance or regulations prescribed under subsection (e);
+&emsp;&emsp;&emsp;(ii) such officer, employee, or agent contemporaneously documents such belief inaccordance with procedures set forth in guidance or regulations prescribed under subsection (e);
 
 &emsp;&emsp;(D) may gather information from the offeror, carrier, packaging manufacturer or tester, or other person responsible for the package, to ascertain the nature and hazards of the contents of the package;
 
@@ -96,7 +96,7 @@ Facility, Staff, and Reporting System on Risks, Emergencies, and Actions.—(1) 
 
 &emsp;(A) maintain a facility and technical staff sufficient to provide, within the United States Government, the capability of evaluating a risk related to the transportation of hazardous material and material alleged to be hazardous;
 
-&emsp;(B) maintain a central reporting system and information center capable of providing information and advice to law enforcement and firefighting personnel, other interested individuals, and officers and employees of the Government and State and local governments onmeeting an emergency related to the transportation of hazardous material; and
+&emsp;(B) maintain a central reporting system and information center capable of providing information and advice to law enforcement and firefighting personnel, other interested individuals, and officers and employees of the Government and State and local governments on meeting an emergency related to the transportation of hazardous material; and
 
 &emsp;(C) conduct a continuous review on all aspects of transporting hazardous material to decide on and take appropriate actions to ensure safe transportation of hazardous material.
 
@@ -184,11 +184,11 @@ The date of enactment of the Hazardous Materials Transportation Safety and Secur
 
 #### Amendments
 
-2008—Subsec. (h)(2). Pub. L. 110–244, §302(e)(1), substituted “special permits” for “exemptions”.
+<b>2008</b>—Subsec. (h)(2). Pub. L. 110–244, §302(e)(1), substituted “special permits” for “exemptions”.
 
 Subsec. (h)(3). Pub. L. 110–244, §302(e)(2), substituted “special permit” for “exemption”.
 
-2005—Subsec. (a). Pub. L. 109–59, §7126, substituted “Secretary may investigate” for “Secretary of Transportation may investigate”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §7126, substituted “Secretary may investigate” for “Secretary of Transportation may investigate”.
 
 Pub. L. 109–59, §7118(a), inserted “conduct tests,” after “investigate,” and substituted “Except as provided in subsections (c) and (d), after” for “After” and “regulation prescribed, or an order, special permit, or approval issued,” for “regulation prescribed”.
 
@@ -218,9 +218,9 @@ Pub. L. 109–59, §7118(d)(1), redesignated subsec. (e) as (h).
 
 Subsec. (h)(4). Pub. L. 109–59, §7118(f)(2), inserted “relating to a function regulated by the Secretary under section 5103(b)(1)” after “activities”.
 
-1994—Subsec. (c)(1)(A). Pub. L. 103–311, §117(a)(2), substituted “a packaging or a” for “a package or”.
+<b>1994</b>—Subsec. (c)(1)(A). Pub. L. 103–311, §117(a)(2), substituted “a packaging or a” for “a package or”.
 
-Subsec. (e). Pub. L. 103–311, §108, substituted “Report” for “Annual Report” in heading and substituted first sentence for former first sentence which read as follows: “The Secretary shall submit to the President, for submission to Congress, not later than June 15th of each year, a report about the transportation of hazardous material during the prior calendar year.”
+Subsec. (e). Pub. L. 103–311, §108, substituted “Report” for “Annual Report” in heading and substitutedfirst sentence for former first sentence which read as follows: “The Secretary shall submit to the President, for submission to Congress, not later than June 15th of each year, a report about the transportation of hazardous material during the prior calendar year.”
 
 #### Toll Free Number for Reporting
 

@@ -54,7 +54,7 @@ The remedies provided for in this section shall be in addition to, and not in li
 
 #### (e) Regulations and orders must recite basis in record
 
-To facilitate judicial review, a regulation or order issued under section 387f, 387g, 387h, 387i,387j, or 387p of this title shall contain a statement of the reasons for the issuance of such regulation or order in the record of the proceedings held in connection with its issuance.
+To facilitate judicial review, a regulation or order issued under section 387f, 387g, 387h, 387i, 387j, or 387p of this title shall contain a statement of the reasons for the issuance of such regulation or order in the record of the proceedings held in connection with its issuance.
 
 (June 25, 1938, ch. 675, §912, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1819.)
 

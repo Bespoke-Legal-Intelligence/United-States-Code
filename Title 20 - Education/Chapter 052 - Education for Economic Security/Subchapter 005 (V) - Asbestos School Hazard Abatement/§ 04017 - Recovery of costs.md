@@ -18,7 +18,7 @@ The Attorney General shall, where appropriate, proceed in an expeditious manner 
 
 #### Amendments
 
-1990—Pub. L. 101–637, §14(a)(8), inserted section catchline.
+<b>1990</b>—Pub. L. 101–637, §14(a)(8), inserted section catchline.
 
 Subsec. (a). Pub. L. 101–637, §14(b)(10), inserted heading.
 

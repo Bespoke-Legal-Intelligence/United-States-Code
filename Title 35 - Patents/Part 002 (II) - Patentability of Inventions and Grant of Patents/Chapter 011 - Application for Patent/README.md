@@ -19,11 +19,11 @@
 
 #### Amendments
 
-2002—Pub. L. 107–273, div. C, title III, §13206(a)(7), Nov. 2, 2002, 116 Stat. 1904, substituted “Inventors” for “Joint inventors” in item 116.
+<b>2002</b>—Pub. L. 107–273, div. C, title III, §13206(a)(7), Nov. 2, 2002, 116 Stat. 1904, substituted “Inventors” for “Joint inventors” in item 116.
 
-1999—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4507(5)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, inserted “; publication of patent applications” after “applications” in item 122.
+<b>1999</b>—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4507(5)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, inserted “; publication of patent applications” after “applications” in item 122.
 
-1994—Pub. L. 103–465, title V, §532(c)(6), Dec. 8, 1994, 108 Stat. 4987, substituted “Application” for “Application for patent” in item 111 and “Benefit of earlier filing date; right of priority” for “Benefit of earlier filing date in foreign country; right of priority” in item 119.
+<b>1994</b>—Pub. L. 103–465, title V, §532(c)(6), Dec. 8, 1994, 108 Stat. 4987, substituted “Application” for “Application for patent” in item 111 and “Benefit of earlier filing date; right of priority” for “Benefit of earlier filing date in foreign country; right of priority” in item 119.
 
 
 ---

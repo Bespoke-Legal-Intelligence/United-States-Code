@@ -40,9 +40,9 @@ Section was formerly classified to section 2355 of Title 5 prior to the general 
 
 #### Amendments
 
-2002—Subsec. (f). Pub. L. 107–314 added subsec. (f).
+<b>2002</b>—Subsec. (f). Pub. L. 107–314 added subsec. (f).
 
-1961—Subsec. (d). Pub. L. 87–172 inserted “except for reasons beyond his control and acceptable to the Department of Defense”.
+<b>1961</b>—Subsec. (d). Pub. L. 87–172 inserted “except for reasons beyond his control and acceptable to the Department of Defense”.
 
 #### Delegation of Functions
 

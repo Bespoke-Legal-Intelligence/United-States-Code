@@ -16,7 +16,7 @@ The Secretary shall submit the report authorized by this section to the Committe
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–266 substituted “five” for “four”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–266 substituted “five” for “four”.
 
-1994—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House”.
 

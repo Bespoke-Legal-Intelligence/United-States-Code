@@ -54,7 +54,7 @@
 
 #### Amendments
 
-2001—Subsec. (b)(3). Pub. L. 107–82, §1(e), added par. (3).
+<b>2001</b>—Subsec. (b)(3). Pub. L. 107–82, §1(e), added par. (3).
 
 Subsec. (b)(4). Pub. L. 107–82, §1(f), added par. (4).
 

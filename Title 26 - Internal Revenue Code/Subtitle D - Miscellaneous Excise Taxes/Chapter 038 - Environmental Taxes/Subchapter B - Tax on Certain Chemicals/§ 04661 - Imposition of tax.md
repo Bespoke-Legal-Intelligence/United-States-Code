@@ -200,7 +200,7 @@ Amendment by Pub. L. 99–509, title VIII, §8031(d)(2), Oct. 21, 1986, 100 Stat
 
 #### Amendments
 
-1986—Subsec. (b). Pub. L. 99–499 inserted at end “For periods before 1992, the item relating to xylene in the preceding table shall be applied by substituting ‘10.13’ for ‘4.87’.”
+<b>1986</b>—Subsec. (b). Pub. L. 99–499 inserted at end “For periods before 1992, the item relating to xylene in the preceding table shall be applied by substituting ‘10.13’ for ‘4.87’.”
 
 Subsec. (c). Pub. L. 99–509 substituted “the Hazardous Substance Superfund financing rate under section 4611 does not apply” for “no tax is imposed under section 4611(a)”.
 

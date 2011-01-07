@@ -82,7 +82,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with representatives of Head Start agencies and with experts in the fields of early childhood education and development, family services, and program management, shall use the study on Developmental Outcomes and Assessments for Young Children by the National Academy of Sciences and other relevant research to inform, revise, and provide guidance to Head Start agencies for utilizing, scientifically based measures that support, as appropriate—
+&emsp;The Secretary, in consultation with representatives of Head Start agencies and with experts in the fields of early childhood education and development, family services, and program management, shall use the study on Developmental Outcomes and Assessments for Young Children by the National Academy of Sciences and other relevant research to inform, revise, and provide guidance to HeadStart agencies for utilizing, scientifically based measures that support, as appropriate—
 
 &emsp;&emsp;(A) classroom instructional practices;
 
@@ -182,7 +182,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) other early childhood education and development programs, personnel management, financial accountability, and systems development and monitoring; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the diverse (including linguistic and cultural) needs of eligible children (including children with disabilities,homeless children, children in foster care, and limited English proficient children) and their families;
+&emsp;&emsp;&emsp;&emsp;(II) the diverse (including linguistic and cultural) needs of eligible children (including children with disabilities, homeless children, children in foster care, and limited English proficient children) and their families;
 
 &emsp;&emsp;&emsp;(ii) include, to the maximum extent practicable, current or former employees of the Department of Health and Human Services who are knowledgeable about Head Start programs; and
 
@@ -400,7 +400,7 @@
 
 &emsp;&emsp;(A) on a semiannual basis, determine which Head Start agencies are operating with an actual enrollment that is less than the funded enrollment based on not less than 4 consecutive months of data;
 
-&emsp;&emsp;(B) for each such Head Start agency operating a program with an actual enrollment that is less than its funded enrollment, as determined under subparagraph (A), develop, in collaboration with such agency, a plan and timetable for reducing or eliminating underenrollment taking into consideration—
+&emsp;&emsp;(B) for each such Head Start agency operating a program with an actual enrollment that is less than its funded enrollment, as determined under subparagraph (A), develop, in collaboration with such agency, a planand timetable for reducing or eliminating underenrollment taking into consideration—
 
 &emsp;&emsp;&emsp;(i) the quality and extent of the outreach, recruitment, and communitywide strategic planning and needs assessment conducted by such agency;
 
@@ -470,19 +470,19 @@
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (c)(2)(K), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (c)(2)(K), is title VI of Pub. L.91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Amendments
 
-2007—Pub. L. 110–134 amended section generally. Prior to amendment, section related to, in subsec. (a), quality standards, in subsec. (b), results-based performance measures, in subsec. (c), monitoring of local agencies and programs, in subsec. (d), corrective action and termination, and, in subsec. (e), summaries of monitoring outcomes.
+<b>2007</b>—Pub. L. 110–134 amended section generally. Prior to amendment, section related to, in subsec. (a), quality standards, in subsec. (b), results-based performance measures, in subsec. (c), monitoring of local agencies and programs, in subsec. (d), corrective action and termination, and, in subsec. (e), summaries of monitoring outcomes.
 
-1998—Subsec. (a)(1). Pub. L. 105–285, §108(a)(1)(A), inserted “, including minimum levels of overall accomplishment,” after “regulation standards” in introductory provisions.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–285, §108(a)(1)(A), inserted “, including minimum levels of overall accomplishment,” after “regulation standards” in introductory provisions.
 
 Subsec. (a)(1)(A). Pub. L. 105–285, §108(a)(1)(B), struck out “education,” after “including health,”.
 
 Subsec. (a)(1)(B) to (E). Pub. L. 105–285, §108(a)(1)(C), (D), added subpar. (B) and redesignated former subpars. (B) to (D) as (C) to (E), respectively.
 
-Subsec. (a)(2). Pub. L. 105–285, §108(a)(2), (3), redesignated par. (3) as (2) and struck out heading and text offormer par. (2). Text read as follows: “The regulations promulgated under this subsection shall establish the minimum levels of overall accomplishment that a Head Start agency shall achieve in order to meet the standards specified in paragraph (1).”
+Subsec. (a)(2). Pub. L. 105–285, §108(a)(2), (3), redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “The regulations promulgated under this subsection shall establish the minimum levels of overall accomplishment that a Head Start agency shall achieve in order to meet the standards specified in paragraph (1).”
 
 Subsec. (a)(2)(B)(iii). Pub. L. 105–285, §108(a)(4)(A), substituted “early childhood education and” for “child”.
 

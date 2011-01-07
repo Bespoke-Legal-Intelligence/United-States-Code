@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [9801\.](%C2%A7%2009801%20-%20Findings.md) | Findings. |
+| [9801\.](%C2%A7%2009801%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93358%2C%20title%20X%2C%20%C2%A71002%28a%29%281%29%2C%20Jan.%204%2C%202011%2C%20124%20Stat.%204048.md) | Repealed. |
 | [9802\.](%C2%A7%2009802%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,29 +36,23 @@
 
 |  |  |
 | :--- | ---: |
-| [9841\.](Subchapter%20001%20%28I%29%20-%20Teacher%20Assistance/Part%20C%20-%20Promising%20Practices%20in%20Science%2C%20Technology%2C%20Engineering%2C%20and%20Mathematics%20Teaching/%C2%A7%2009841%20-%20Promising%20practices.md) | Promising practices. |
+| [9841\.](Subchapter%20001%20%28I%29%20-%20Teacher%20Assistance/Part%20C%20-%20Promising%20Practices%20in%20Science%2C%20Technology%2C%20Engineering%2C%20and%20Mathematics%20Teaching/%C2%A7%2009841%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93358%2C%20title%20X%2C%20%C2%A71002%28a%29%282%29%2C%20Jan.%204%2C%202011%2C%20124%20Stat.%204048.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER II—MATHEMATICS
 
-|  |  |
-| :--- | ---: |
-| [9851\.](Subchapter%20002%20%28II%29%20-%20Mathematics/%C2%A7%2009851%20-%20Math%20Now%20for%20elementary%20school%20and%20middle%20school%20students%20program.md) | Math Now for elementary school and middle school students program. |
-| [9852\.](Subchapter%20002%20%28II%29%20-%20Mathematics/%C2%A7%2009852%20-%20Summer%20term%20education%20programs.md) | Summer term education programs. |
-| [9853\.](Subchapter%20002%20%28II%29%20-%20Mathematics/%C2%A7%2009853%20-%20Math%20skills%20for%20secondary%20school%20students.md) | Math skills for secondary school students. |
-| [9854\.](Subchapter%20002%20%28II%29%20-%20Mathematics/%C2%A7%2009854%20-%20Peer%20review%20of%20State%20applications.md) | Peer review of State applications. |
+|  |
+| :--- |
+| 9851 to 9854. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER III—FOREIGN LANGUAGE PARTNERSHIP PROGRAM
 
-|  |  |
-| :--- | ---: |
-| [9861\.](Subchapter%20003%20%28III%29%20-%20Foreign%20Language%20Partnership%20Program/%C2%A7%2009861%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
-| [9862\.](Subchapter%20003%20%28III%29%20-%20Foreign%20Language%20Partnership%20Program/%C2%A7%2009862%20-%20Definitions.md) | Definitions. |
-| [9863\.](Subchapter%20003%20%28III%29%20-%20Foreign%20Language%20Partnership%20Program/%C2%A7%2009863%20-%20Program%20authorized.md) | Program authorized. |
-| [9864\.](Subchapter%20003%20%28III%29%20-%20Foreign%20Language%20Partnership%20Program/%C2%A7%2009864%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+|  |
+| :--- |
+| 9861 to 9864. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -72,10 +66,9 @@
 
 #### SUBCHAPTER V—MATHEMATICS AND SCIENCE PARTNERSHIP BONUS GRANTS
 
-|  |  |
-| :--- | ---: |
-| [9881\.](Subchapter%20005%20%28V%29%20-%20Mathematics%20and%20Science%20Partnership%20Bonus%20Grants/%C2%A7%2009881%20-%20Mathematics%20and%20science%20partnership%20bonus%20grants.md) | Mathematics and science partnership bonus grants. |
-| [9882\.](Subchapter%20005%20%28V%29%20-%20Mathematics%20and%20Science%20Partnership%20Bonus%20Grants/%C2%A7%2009882%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+|  |
+| :--- |
+| 9881, 9882. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -84,7 +77,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 09801 - Findings](%C2%A7%2009801%20-%20Findings.md)
+- [&sect; 09801 - Repealed. Pub. L. 111&#8211;358, title X, &sect;1002(a)(1), Jan. 4, 2011, 124 Stat. 4048](%C2%A7%2009801%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93358%2C%20title%20X%2C%20%C2%A71002%28a%29%281%29%2C%20Jan.%204%2C%202011%2C%20124%20Stat.%204048.md)
 - [&sect; 09802 - Definitions](%C2%A7%2009802%20-%20Definitions.md)
 - [Subchapter 001 (I) - Teacher Assistance](Subchapter%20001%20%28I%29%20-%20Teacher%20Assistance/README.md)
 - [Subchapter 002 (II) - Mathematics](Subchapter%20002%20%28II%29%20-%20Mathematics/README.md)

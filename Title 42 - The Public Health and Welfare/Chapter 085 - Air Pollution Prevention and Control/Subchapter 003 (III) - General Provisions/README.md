@@ -1,7 +1,5 @@
 ### SUBCHAPTER III—GENERAL PROVISIONS
 
-<i><sup>1</sup></i><i> So in original. Probably should be “part D of subchapter I of this chapter”.</i>
-
 
 ---
 

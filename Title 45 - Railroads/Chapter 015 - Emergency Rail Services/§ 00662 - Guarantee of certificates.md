@@ -28,7 +28,7 @@ As a condition to a guarantee, the Secretary, after consultation with the Board,
 
 &emsp;(3) proceeds from the sale of assets will be devoted to the fullest extent possible to the provision of essential transportation services by the railroad; and
 
-&emsp;(4) in the event of actual or threatened cessation of essential transportation services by the railroad, the Secretary shall have the option to procure by purchase or lease trackage rights over the lines of the railroad and such equipment as may be necessary to provide such services by the Secretary or his assignee, and, in the event of a default in the payment of principal or interest as provided by the certificates, the money paid or expenses incurredby the United States as a result thereof shall be deemed to have been applied to the purchase or lease price. The terms of purchase or lease shall be subject to the approval of the reorganization court and the operation over the lines shall be subject to the approval of the Board pursuant to subchapter II of chapter 113 of title 49, but in no event shall the rendition of services by the Secretary or his assignee await the outcome of proceedings before the reorganization court or the Board.
+&emsp;(4) in the event of actual or threatened cessation of essential transportation services by the railroad, the Secretary shall have the option to procure by purchase or lease trackage rights over the lines of the railroad and such equipment as may be necessary to provide such services by the Secretary or his assignee, and, in the event of a default in the payment of principal or interest as provided by the certificates, the money paid or expenses incurred by the United States as a result thereof shall be deemed to have been applied to the purchase or lease price. The terms of purchase or lease shall be subject to the approval of the reorganization court and the operation over the lines shall be subject to the approval of the Board pursuant to subchapter II of chapter 113 of title 49, but in no event shall the rendition of services by the Secretary or his assignee await the outcome of proceedings before the reorganization court or the Board.
 
 #### (c) Certificate as administrative expense; priority of certificate
 
@@ -36,7 +36,7 @@ The Secretary shall not guarantee any certificate under this section unless such
 
 #### (d) Interest rate; date of maturity; other terms and conditions
 
-A certificate under this chapter shall bear interest at such per annum rate as the Secretary deems reasonable, taking into account the range of interest rates prevailing in the private market for similar loans and the risks assumed by the Federal Government; nor may its maturity date, including all extensions and renewals thereof, be later than fifteen years from the date of original issuance. The Secretary may prescribe such other terms and conditions as he deems appropriate. In each case, the Secretary shall consider the feasibility of requiring the railroad to dispose of nonrailroad assets as a condition to a guarantee.
+A certificate under this chapter shall bear interest at such per annum rate as the Secretary deems reasonable, taking into account the rangeof interest rates prevailing in the private market for similar loans and the risks assumed by the Federal Government; nor may its maturity date, including all extensions and renewals thereof, be later than fifteen years from the date of original issuance. The Secretary may prescribe such other terms and conditions as he deems appropriate. In each case, the Secretary shall consider the feasibility of requiring the railroad to dispose of nonrailroad assets as a condition to a guarantee.
 
 #### (e) Maximum aggregate principal amount outstanding
 
@@ -54,11 +54,11 @@ The Bankruptcy Act, referred to in subsecs. (a) and (c), is act July 1, 1898, ch
 
 #### Amendments
 
-1995—Subsec. (a). Pub. L. 104–88, §325(2)(B), substituted “Board” for “Commission” in introductory provisions.
+<b>1995</b>—Subsec. (a). Pub. L. 104–88, §325(2)(B), substituted “Board” for “Commission” in introductory provisions.
 
 Subsec. (b). Pub. L. 104–88 substituted “Board” for “Commission” wherever appearing and “subchapter II of chapter 113 of title 49” for “the provisions of section 5 of the Interstate Commerce Act” in par. (4).
 
-1979—Subsec. (a). Pub. L. 96–101, §7(a), struck out “upon a finding that the guarantee of certificates is necessary in order for a railroad which has received continued loan advances, pursuant to section 721(d)(1) of this title, to maintain rail services in the region (as such term is defined in section 702(15) of this title)” after “of this subsection” and provision requiring that Secretary not make any waiver under preceding sentence after Dec. 31, 1979.
+<b>1979</b>—Subsec. (a). Pub. L. 96–101, §7(a), struck out “upon a finding that the guarantee of certificates is necessary in order for a railroad which has received continued loan advances, pursuant to section 721(d)(1) of this title, to maintain rail services in the region (as such term is defined in section 702(15) of this title)” after “of this subsection” and provision requiring that Secretary not make any waiver under preceding sentence after Dec. 31, 1979.
 
 Subsec. (c). Pub. L. 96–101, §7(b), added subsec. (c). Former subsec. (c) was repealed by Pub. L. 95–598. See 1978 Amendment note below.
 
@@ -66,7 +66,7 @@ Subsec. (e). Pub. L. 96–101, §7(c), substituted “$200,000,000” for “$12
 
 Pub. L. 96–86 provided that, with respect to a railroad which filed a petition for reorganization during fiscal year 1978, during period Oct. 1, 1979, through Nov. 30, 1979, certificates shall be issued without regard to limitations of subsec. (a) of this section and with such priority in payment as Secretary deems appropriate to secure repayment, for purpose of continuing service on railroad system at level in effect on Oct. 1, 1979.
 
-1978—Subsec. (a). Pub. L. 95–611 inserted provision authorizing Secretary to waive requirements of paragraphs (1), (5), and (6) of subsec. (a) until Dec. 31, 1979.
+<b>1978</b>—Subsec. (a). Pub. L. 95–611 inserted provision authorizing Secretary to waive requirements of paragraphs (1), (5), and (6) of subsec. (a) until Dec. 31, 1979.
 
 Subsec. (c). Pub. L. 95–598 struck out subsec. (c) which related to treatment of a certificate as an administrative expense and priority of the certificate.
 

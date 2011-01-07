@@ -26,7 +26,7 @@ Each local exchange carrier has the following duties:
 
 #### (4) Access to rights-of-way
 
-&emsp;The duty to afford access to the poles, ducts, conduits, and rights-of-way of such carrier tocompeting providers of telecommunications services on rates, terms, and conditions that are consistent with section 224 of this title.
+&emsp;The duty to afford access to the poles, ducts, conduits, and rights-of-way of such carrier to competing providers of telecommunications services on rates, terms, and conditions that are consistent with section 224 of this title.
 
 #### (5) Reciprocal compensation
 
@@ -100,7 +100,7 @@ In addition to the duties contained in subsection (b) of this section, each incu
 
 #### (1) Commission authority and jurisdiction
 
-&emsp;The Commission shall create or designate one or more impartial entities to administer telecommunications numbering and to make such numbers available on an equitable basis.The Commission shall have exclusive jurisdiction over those portions of the North American Numbering Plan that pertain to the United States. Nothing in this paragraph shall preclude the Commission from delegating to State commissions or other entities all or any portion of such jurisdiction.
+&emsp;The Commission shall create or designate one or more impartial entities to administer telecommunications numbering and to make such numbers available on an equitable basis. The Commission shall have exclusive jurisdiction over those portions of the North American Numbering Plan that pertain to the United States. Nothing in this paragraph shall preclude the Commission from delegating to State commissions or other entities all or any portion of such jurisdiction.
 
 #### (2) Costs
 
@@ -176,5 +176,5 @@ Nothing in this section shall be construed to limit or otherwise affect the Comm
 
 #### Amendments
 
-1999—Subsec. (e)(3). Pub. L. 106–81 added par. (3).
+<b>1999</b>—Subsec. (e)(3). Pub. L. 106–81 added par. (3).
 

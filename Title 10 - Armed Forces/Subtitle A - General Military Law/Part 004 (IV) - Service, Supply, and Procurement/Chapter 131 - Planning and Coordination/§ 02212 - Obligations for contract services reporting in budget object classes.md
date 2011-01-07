@@ -64,7 +64,7 @@ Another prior section 2212, added Pub. L. 95–356, title VIII, §802(a)(1), Sep
 
 #### Amendments
 
-1999—Subsec. (f)(2), (3). Pub. L. 106–65 substituted “as of October 17, 1998” for “as of the date of the enactment of this section” and “after October 17, 1998,” for “after the date of the enactment of this section”.
+<b>1999</b>—Subsec. (f)(2), (3). Pub. L. 106–65 substituted “as of October 17, 1998” for “as of the date of the enactment of this section” and “after October 17, 1998,” for “after the date of the enactment of this section”.
 
 Subsec. (f)(4). Pub. L. 106–65, §1066(a)(17)(B), substituted “as of October 17, 1998” for “as of the date of the enactment of this section”.
 

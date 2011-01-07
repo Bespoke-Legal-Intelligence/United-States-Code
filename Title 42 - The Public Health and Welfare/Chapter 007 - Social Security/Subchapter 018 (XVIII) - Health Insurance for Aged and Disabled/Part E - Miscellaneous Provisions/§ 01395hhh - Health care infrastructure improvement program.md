@@ -30,7 +30,7 @@ No loan may be provided under this section to a qualifying hospital except pursu
 
 &emsp;&emsp;(B) has at least 1 existing memorandum of understanding or affiliation agreement with a hospital located in the State in which the entity is located; and
 
-&emsp;&emsp;(C) retains clinical outpatient treatment for cancer on site as well as lab research and education and outreach for cancer in the same facility.
+&emsp;&emsp;(C) retains clinical outpatient treatment for cancer on site as well as lab research andeducation and outreach for cancer in the same facility.
 
 #### (d) Projects
 
@@ -90,7 +90,7 @@ The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–32
 
 #### Amendments
 
-2005—Subsec. (c)(2). Pub. L. 109–13, §6045(a)(1)(A), inserted “or an entity described in paragraph (3)” after “means a hospital” in introductory provisions.
+<b>2005</b>—Subsec. (c)(2). Pub. L. 109–13, §6045(a)(1)(A), inserted “or an entity described in paragraph (3)” after “means a hospital” in introductory provisions.
 
 Subsec. (c)(2)(B). Pub. L. 109–13, §6045(a)(1)(B), inserted “legislature” after “designated by the State” and “and such designation by the State legislature occurred prior to December 8, 2003” before period at end.
 

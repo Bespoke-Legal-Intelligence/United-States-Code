@@ -12,5 +12,5 @@ An owner or operator of a barge may not abandon it on the navigable waters of th
 
 #### Amendments
 
-2006—Pub. L. 109–304 struck out subsec. (a) designation before “An owner”.
+<b>2006</b>—Pub. L. 109–304 struck out subsec. (a) designation before “An owner”.
 

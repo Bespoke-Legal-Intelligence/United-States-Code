@@ -6,7 +6,7 @@ Whenever any invention is made or conceived in the course of or under any contra
 
 &emsp;(1) the person who made the invention was employed or assigned to perform research, development, or demonstration work and the invention is related to the work he was employed or assigned to perform, or that it was within the scope of his employment duties, whether or not it was made during working hours, or with a contribution by the Government of the use of Government facilities, equipment, materials, allocated funds, information proprietary to the Government, or services of Government employees during working hours; or
 
-&emsp;(2) the person who made the invention was not employed or assigned to perform research, development, or demonstration work, but the invention is nevertheless related to the contract or to the work or duties he was employedor assigned to perform, and was made during working hours, or with a contribution from the Government of the sort referred to in clause (1).<sup>1</sup>
+&emsp;(2) the person who made the invention was not employed or assigned to perform research, development, or demonstration work, but the invention is nevertheless related to the contract or to the work or duties he was employed or assigned to perform, and was made during working hours, or with a contribution from the Government of the sort referred to in clause (1).<sup>1</sup>
 
 > title to such invention shall vest in the United States, and if patents on such invention are issued they shall be issued to the United States, unless in particular circumstances the Secretary waives all or any part of the rights of the United States to such invention in conformity with the provisions of this section.
 
@@ -66,7 +66,7 @@ Whenever title to an invention is vested in the United States, there may be rese
 
 &emsp;(1) a revocable or irrevocable nonexclusive, paid-up license for the practice of the invention throughout the world; and
 
-&emsp;(2) the rights to such invention in any foreign country where the United States has elected not to secure patent rights and the contractor elects to do so, subject to the rights set forth in paragraphs (2), (3), (6), and (7) of subsection (h) of this section: <i>Provided</i>, That when specifically requested by the Department and three years after issuance of such a patent, the contractor shall submit thereport specified in subsection (h)(1) of this section.
+&emsp;(2) the rights to such invention in any foreign country where the United States has elected not to secure patent rights and the contractor elects to do so, subject to the rights set forth in paragraphs (2), (3), (6), and (7) of subsection (h) of this section: <i>Provided</i>, That when specifically requested by the Department and three years after issuance of such a patent, the contractor shall submit the report specified in subsection (h)(1) of this section.
 
 #### (g) to (i) Repealed. Pub. L. 96–517, §7(c), Dec. 12, 1980, 94 Stat. 3027
 
@@ -108,7 +108,7 @@ The Atomic Energy Act of 1954, referred to in subsec. (a), is act Aug. 1, 1946, 
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–58, §1009(b)(7)(B), substituted “Secretary” for “Administrator” in introductory and concluding provisions.
+<b>2005</b>—Subsec. (a). Pub. L. 109–58, §1009(b)(7)(B), substituted “Secretary” for “Administrator” in introductory and concluding provisions.
 
 Pub. L. 109–58, §1009(b)(7)(A), substituted “Department” for “Administration” in introductory provisions.
 
@@ -134,7 +134,7 @@ Subsec. (m)(5). Pub. L. 109–58, §1009(b)(7)(A), substituted “Department” 
 
 Subsec. (n). Pub. L. 109–58, §1009(b)(7)(B), substituted “Secretary with” for “Administrator with”.
 
-1980—Subsec. (g). Pub. L. 96–517 struck out subsec. (g) which related to licenses for inventions, promulgation of regulations specifying terms and conditions, criteria and procedures for grant of exclusive or partially exclusive licenses, and record of determinations.
+<b>1980</b>—Subsec. (g). Pub. L. 96–517 struck out subsec. (g) which related to licenses for inventions, promulgation of regulations specifying terms and conditions, criteria and procedures for grant of exclusive or partially exclusive licenses, and record of determinations.
 
 Subsec. (h). Pub. L. 96–517 struck out subsec. (h) which related to required terms and conditions in waiver of rights or grant of exclusive or partially exclusive license.
 

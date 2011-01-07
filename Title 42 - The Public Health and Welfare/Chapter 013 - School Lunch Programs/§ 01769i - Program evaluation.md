@@ -26,7 +26,7 @@
 
 #### (2) Pilot projects
 
-&emsp;In carrying out this subsection, the Secretary may conduct pilot projects to improve the certification process used for the school lunch program.
+&emsp;In carrying out this subsection, the Secretary may conduct pilot projects to improvethe certification process used for the school lunch program.
 
 #### (3) Components
 
@@ -54,9 +54,23 @@
 
 &emsp;There is authorized to be appropriated to carry out this subsection such sums as are necessary.
 
-(June 4, 1946, ch. 281, §28, as added Pub. L. 108–265, title I, §129, June 30, 2004, 118 Stat. 767.)
+#### (c) Cooperation with program research and evaluation
+
+States, State educational agencies, local educational agencies, schools, institutions, facilities, and contractors participating in programs authorized under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) shall cooperate with officials and contractors acting on behalf of the Secretary, in the conduct of evaluations and studies under those Acts.
+
+(June 4, 1946, ch. 281, §28, as added Pub. L. 108–265, title I, §129, June 30, 2004, 118 Stat. 767; amended Pub. L. 111–296, title III, §305, Dec. 13, 2010, 124 Stat. 3243.)
 
 #### References in Text
 
-The Child Nutrition Act of 1966, referred to in subsecs. (a)(1) and (b)(4)(A), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generallyto chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
+The Child Nutrition Act of 1966, referred to in subsecs. (a)(1), (b)(4)(A), and (c), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
+
+Those Acts, referred to in subsec. (c), mean the Richard B. Russell National School Lunch Act, which was in the original “this Act” and was translated to read “this chapter”, and the Child Nutrition Act of 1966. See above.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (c). Pub. L. 111–296 added subsec. (c).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as a note under section 1751 of this title.
 

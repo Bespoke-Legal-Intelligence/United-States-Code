@@ -10,7 +10,7 @@ Section 2219a of title 7, referred to in text, was in the original “section 10
 
 #### Amendments
 
-2002—Pub. L. 107–171 substituted “except the cost of overtime and holiday pay paid pursuant to the section 2219a of title 7.” for “except that the cost of overtime and holiday work performed in establishments subject to the provisions of this chapter at such rates as the Secretary may determine shall be borne by such establishments. Sums received by the Secretary in reimbursement for sums paid out by him for such premium pay work shall be available without fiscal year limitation to carry out the purposes of this section.”
+<b>2002</b>—Pub. L. 107–171 substituted “except the cost of overtime and holiday pay paid pursuant to the section 2219a of title 7.” for “except that the cost of overtime and holiday work performed in establishments subject to the provisions of this chapter at such rates as the Secretary may determine shall be borne by such establishments. Sums received by the Secretary in reimbursement for sums paid out by him for such premium pay work shall be available without fiscal year limitation to carry out the purposes of this section.”
 
 <i><sup>1</sup></i><i> So in original. The word “the” probably should not appear.</i>
 

@@ -38,9 +38,9 @@ In subsec. (c), “section 50501 of title 46” substituted for “section 2 of 
 
 #### Amendments
 
-1938—Subsec. (b)(5). Act June 25, 1938, amended par. (5) generally.
+<b>1938</b>—Subsec. (b)(5). Act June 25, 1938, amended par. (5) generally.
 
-1925—Act Feb. 26, 1925 amended subsecs. (a), (b)(6), (7), and (c), and added subsec. (d).
+<b>1925</b>—Act Feb. 26, 1925 amended subsecs. (a), (b)(6), (7), and (c), and added subsec. (d).
 
 #### Effective Date of 1938 Amendment
 

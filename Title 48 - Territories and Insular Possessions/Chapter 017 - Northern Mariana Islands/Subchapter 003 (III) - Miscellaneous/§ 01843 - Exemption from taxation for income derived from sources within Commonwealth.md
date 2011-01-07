@@ -28,11 +28,11 @@ Section was formerly set out as a note under section 1681 of this title.
 
 #### Amendments
 
-1983—Subsec. (a). Pub. L. 98–213, §3(a), substituted “1985” for “1983”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–213, §3(a), substituted “1985” for “1983”.
 
 Subsec. (c). Pub. L. 98–213, §3(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “It is the sense of Congress that the term ‘rebate’ as used in section 602 of Public Law 94–241 does not permit the abatement of taxes.”
 
-1980—Subsec. (a). Pub. L. 96–597 substituted “until, but not after, January 1, 1983.” for “and before January 1, 1981.”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–597 substituted “until, but not after, January 1, 1983.” for “and before January 1, 1981.”.
 
 #### Suspension of Prohibition of Abatement of Taxation in Commonwealth of Northern Mariana Islands
 

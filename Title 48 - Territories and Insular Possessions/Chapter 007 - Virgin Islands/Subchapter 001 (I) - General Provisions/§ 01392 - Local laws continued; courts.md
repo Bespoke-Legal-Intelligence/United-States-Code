@@ -10,7 +10,7 @@ Section 1391 of this title, referred to in text, was repealed by Pub. L. 89–55
 
 #### Amendments
 
-1948—Act June 25, 1948, repealed last sentence relating to appeals. See section 1294 of Title 28, Judiciary and Judicial Procedure.
+<b>1948</b>—Act June 25, 1948, repealed last sentence relating to appeals. See section 1294 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1948 Amendment
 

@@ -6,7 +6,7 @@ All money received by or on account of the Forest Service for timber, or from an
 
 #### References in Text
 
-Section 471(b) of this title, referred to in text, was repealed by section 704(a) of Pub. L. 94–579, title VII, Oct.21, 1976, 90 Stat. 2792. For further details, see Codification note below.
+Section 471(b) of this title, referred to in text, was repealed by section 704(a) of Pub. L. 94–579, title VII, Oct. 21, 1976, 90 Stat. 2792. For further details, see Codification note below.
 
 #### Codification
 
@@ -20,7 +20,7 @@ The words “and moneys received on account of permits for hunting, fishing, or 
 
 #### Amendments
 
-1928—Act May 29, 1928, struck out provision which required the Secretary of Agriculture to make an annual report to Congress of the amounts refunded under this section.
+<b>1928</b>—Act May 29, 1928, struck out provision which required the Secretary of Agriculture to make an annual report to Congress of the amounts refunded under this section.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

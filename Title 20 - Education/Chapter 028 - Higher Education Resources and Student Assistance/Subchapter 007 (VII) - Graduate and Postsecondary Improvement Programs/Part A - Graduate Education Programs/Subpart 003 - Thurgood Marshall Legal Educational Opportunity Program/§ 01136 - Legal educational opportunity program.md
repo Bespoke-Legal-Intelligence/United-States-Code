@@ -108,9 +108,9 @@ Another prior section 721 of Pub. L. 89–329 was classified to section 1132b of
 
 #### Amendments
 
-2009—Subsec. (d). Pub. L. 111–39 substituted “services through pre-college programs, undergraduate prelawinformation resource centers” for “services through” and all that followed through “resource centers”, resulting in text identical to that after execution of the amendment by Pub. L. 110–315, §704(d)(1). See 2008 Amendment note below.
+<b>2009</b>—Subsec. (d). Pub. L. 111–39 substituted “services through pre-college programs, undergraduate prelaw information resource centers” for “services through” and all that followed through “resource centers”, resulting in text identical to that after execution of the amendment by Pub. L. 110–315, §704(d)(1). See 2008 Amendment note below.
 
-2008—Subsec. (a). Pub. L. 110–315, §704(a)(1), inserted “secondary school and” after “disadvantaged” and “and admission to law practice” before period at end.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §704(a)(1), inserted “secondary school and” after “disadvantaged” and “and admission to law practice” before period at end.
 
 Subsec. (b). Pub. L. 110–315, §704(b), inserted “secondary school student or” before “college student” in introductory provisions.
 

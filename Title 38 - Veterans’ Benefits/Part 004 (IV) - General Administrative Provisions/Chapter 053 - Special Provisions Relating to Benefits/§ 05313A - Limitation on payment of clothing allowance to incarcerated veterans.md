@@ -6,5 +6,5 @@ In the case of a veteran who is incarcerated in a Federal, State, local, or othe
 
 #### Amendments
 
-2006—Pub. L. 109–461 substituted “local, or other penal institution or correctional facility” for “or local penal institution”.
+<b>2006</b>—Pub. L. 109–461 substituted “local, or other penal institution or correctional facility” for “or local penal institution”.
 

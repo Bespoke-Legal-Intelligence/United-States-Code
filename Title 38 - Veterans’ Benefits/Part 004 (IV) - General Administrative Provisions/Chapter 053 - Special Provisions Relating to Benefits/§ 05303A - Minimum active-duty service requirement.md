@@ -76,15 +76,15 @@ The Social Security Act, referred to in subsec. (d)(3)(B)(i), is act Aug. 14, 19
 
 #### Amendments
 
-1998—Subsec. (d)(2)(B). Pub. L. 105–368, §1005(b)(15)(A), substituted “after October 13, 1982,” for “on or after the date of the enactment of this subsection”.
+<b>1998</b>—Subsec. (d)(2)(B). Pub. L. 105–368, §1005(b)(15)(A), substituted “after October 13, 1982,” for “on or after the date of the enactment of this subsection”.
 
 Subsec. (d)(3)(B)(i). Pub. L. 105–368, §1005(b)(15)(B), substituted “after October 13, 1982,” for “on or after the date of the enactment of this subsection,”.
 
-1994—Subsec. (b)(3)(F). Pub. L. 103–446 inserted “or chapter 37” after “chapter 30” in introductory provisions.
+<b>1994</b>—Subsec. (b)(3)(F). Pub. L. 103–446 inserted “or chapter 37” after “chapter 30” in introductory provisions.
 
 Subsec. (b)(3)(G). Pub. L. 103–353 added subpar. (G).
 
-1991—Pub. L. 102–40 renumbered section 3103A of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 3103A of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
@@ -104,13 +104,13 @@ Subsec. (b)(3)(F)(iv). Pub. L. 102–83, §5(c)(1), substituted “3011(a)(1)(A)
 
 Subsecs. (c)(1), (d)(1). Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-1990—Subsec. (b)(3)(F)(iv). Pub. L. 101–510 added cl. (iv).
+<b>1990</b>—Subsec. (b)(3)(F)(iv). Pub. L. 101–510 added cl. (iv).
 
-1988—Subsec. (b)(3)(F). Pub. L. 100–689 amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “to benefits under chapter 30 of thistitle in the case of a person entitled to benefits under such chapter by reason of section 1411(a)(1)(A)(ii)(II) of this title.”
+<b>1988</b>—Subsec. (b)(3)(F). Pub. L. 100–689 amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “to benefits under chapter 30 of thistitle in the case of a person entitled to benefits under such chapter by reason of section 1411(a)(1)(A)(ii)(II) of this title.”
 
-1986—Subsec. (b)(3)(F). Pub. L. 99–576 added subpar. (F).
+<b>1986</b>—Subsec. (b)(3)(F). Pub. L. 99–576 added subpar. (F).
 
-1982—Subsec. (b)(2)(B). Pub. L. 97–306, §408(a)(1), substituted “after October 16, 1981,” for “on or after the date of the enactment of the Veterans’ Disability Compensation, Housing, and Memorial Benefits Amendments of 1981”.
+<b>1982</b>—Subsec. (b)(2)(B). Pub. L. 97–306, §408(a)(1), substituted “after October 16, 1981,” for “on or after the date of the enactment of the Veterans’ Disability Compensation, Housing, and Memorial Benefits Amendments of 1981”.
 
 Subsecs. (d), (e). Pub. L. 97–306, §408(a)(2), added subsec. (d) and redesignated former subsec. (d) as (e).
 

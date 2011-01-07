@@ -6,7 +6,7 @@ There is established, as an independent establishment of the executive branch of
 
 #### (b) Board of Trustees
 
-The Foundation shall be subject to the supervision and direction of the Board of Trustees.The Board shall be composed of 13 members, as follows:
+The Foundation shall be subject to the supervision and direction of the Board of Trustees. The Board shall be composed of 13 members, as follows:
 
 &emsp;(1) Two members from the Senate, one appointed by the majority leader and one appointed by the minority leader of the Senate.
 
@@ -36,11 +36,11 @@ Members of the Board shall serve without pay, but shall be entitled to reimburse
 
 #### Amendments
 
-1993—Subsec. (c)(1)(C). Pub. L. 103–160 added subpar. (C).
+<b>1993</b>—Subsec. (c)(1)(C). Pub. L. 103–160 added subpar. (C).
 
-1991—Subsec. (b)(3). Pub. L. 102–190 struck out before period at end “, at least one of whom shall be a representative of the aerospace industry and at least one of whom shall be a representative of a private foundation concerned with aerospace education”.
+<b>1991</b>—Subsec. (b)(3). Pub. L. 102–190 struck out before period at end “, at least one of whom shall be a representative of the aerospace industry and at least one of whom shall be a representative of a private foundation concerned with aerospace education”.
 
-1987—Subsec. (c)(2). Pub. L. 100–26 substituted “clause (1) or (2)” for “clause (2) or (3)”.
+<b>1987</b>—Subsec. (c)(2). Pub. L. 100–26 substituted “clause (1) or (2)” for “clause (2) or (3)”.
 
 #### Effective Date of 1987 Amendment
 

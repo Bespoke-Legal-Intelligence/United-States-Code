@@ -34,11 +34,11 @@
 
 #### Amendments
 
-2008—Subsec. (a)(3) to (6). Pub. L. 110–417 added pars. (3) to (6).
+<b>2008</b>—Subsec. (a)(3) to (6). Pub. L. 110–417 added pars. (3) to (6).
 
-1998—Subsec. (a)(3). Pub. L. 105–261 struck out par. (3) which read as follows: “The Secretary of Defense shall submit to Congress from time to time written reports on the results of the studies and demonstration projects conducted under this subsection and shall include in such reports such recommendations for improving the health-care delivery systems of the uniformed services as the Secretary considers appropriate.”
+<b>1998</b>—Subsec. (a)(3). Pub. L. 105–261 struck out par. (3) which read as follows: “The Secretary of Defense shall submit to Congress from time to time written reports on the results of the studies and demonstration projects conducted under this subsection and shall include in such reports such recommendations for improving the health-care delivery systems of the uniformed services as the Secretary considers appropriate.”
 
-1984—Subsec. (a)(1). Pub. L. 98–557 substituted reference to other administering Secretaries for reference to Secretary of Health and Human Services.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–557 substituted reference to other administering Secretaries for reference to Secretary of Health and Human Services.
 
 #### Effective Date
 

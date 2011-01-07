@@ -166,7 +166,7 @@
 
 (h) The presiding officer shall issue a written decision, including findings and determinations, after the conclusion of the hearing. Such decision shall include the findings of fact and conclusions of law which the presiding officer relied upon in determining whether a person is liable under this chapter. The presiding officer shall promptly send to each party to the hearing a copy of such decision and a statement describing the right of any person determined to be liable under section 3802 of this title to appeal the decision of the presiding officer to the authority head under paragraph (2) of subsection (i).
 
-(i)(1) Except as provided in paragraph (2) of this subsection and section 3805 of this title, thedecision, including the findings and determinations, of the presiding officer issued under subsection (h) of this section are final.
+(i)(1) Except as provided in paragraph (2) of this subsection and section 3805 of this title, the decision, including the findings and determinations, of the presiding officer issued under subsection (h) of this section are final.
 
 (2)(A)(i) Except as provided in clause (ii) of this subparagraph, within 30 days after the presiding officer issues a decision under subsection (h) of this section, any person determined in such decision to be liable under section 3802 of this title may appeal such decision to the authority head.
 
@@ -206,15 +206,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (c)(2)(C)(vii). Pub. L. 110–246, §4115(c)(2)(E), substituted “section 3(<i>l</i>)” for “section 3(h)”.
+<b>2008</b>—Subsec. (c)(2)(C)(vii). Pub. L. 110–246, §4115(c)(2)(E), substituted “section 3(<i>l</i>)” for “section 3(h)”.
 
 Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(S), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-1999—Subsec. (c)(2)(C)(xiii). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
+<b>1999</b>—Subsec. (c)(2)(C)(xiii). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
-1996—Subsec. (c)(2)(C)(iv). Pub. L. 104–193 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “aid to families with dependent children under a State plan approved under section 402(a) of the Social Security Act;”.
+<b>1996</b>—Subsec. (c)(2)(C)(iv). Pub. L. 104–193 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “aid to families with dependent children under a State plan approved under section 402(a) of the Social Security Act;”.
 
-1994—Subsec. (c)(2)(C)(x). Pub. L. 103–448 substituted “special supplemental nutrition program” for “special supplemental food program”.
+<b>1994</b>—Subsec. (c)(2)(C)(x). Pub. L. 103–448 substituted “special supplemental nutrition program” for “special supplemental food program”.
 
 #### Effective Date of 2008 Amendment
 

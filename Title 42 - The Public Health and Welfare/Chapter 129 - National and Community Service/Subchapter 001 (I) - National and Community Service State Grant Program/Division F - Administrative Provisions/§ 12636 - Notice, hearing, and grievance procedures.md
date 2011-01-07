@@ -44,7 +44,7 @@ Nothing in this subchapter shall be construed to link performance of service wit
 
 #### (A) Hearing
 
-&emsp;&emsp;A hearing on any grievance conducted under this subsection shall be conducted notlater than 30 days after the filing of such grievance.
+&emsp;&emsp;A hearing on any grievance conducted under this subsection shall be conducted not later than 30 days after the filing of such grievance.
 
 #### (B) Decision
 
@@ -116,15 +116,19 @@ Nothing in this subchapter shall be construed to link performance of service wit
 
 (Pub. L. 101–610, title I, §176, Nov. 16, 1990, 104 Stat. 3161; Pub. L. 103–82, title I, §116, title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 863, 918; Pub. L. 111–13, title I, §1604, Apr. 21, 2009, 123 Stat. 1529.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (e), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, known as the National and Community Service Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+
 #### Amendments
 
-2009—Subsec. (a)(2)(A). Pub. L. 111–13, §1604(1), substituted “1 or more periods of 30 days not to exceed a total of 90 days” for “30 days”.
+<b>2009</b>—Subsec. (a)(2)(A). Pub. L. 111–13, §1604(1), substituted “1 or more periods of 30 days not to exceed a total of 90 days” for “30 days”.
 
 Subsec. (f)(1). Pub. L. 111–13, §1604(2)(A), substituted “An entity” for “A State or local applicant”.
 
 Subsec. (f)(6)(D), (E). Pub. L. 111–13, §1604(2)(B), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-1993—Subsec. (a)(1). Pub. L. 103–82, §402(b)(1), substituted “Corporation” for “Commission” in two places.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–82, §402(b)(1), substituted “Corporation” for “Commission” in two places.
 
 Pub. L. 103–82, §116(a)(1), inserted “, or revoke the designation of positions, related to the grant or contract, as approved national service positions,” after “assistance under this subchapter”.
 

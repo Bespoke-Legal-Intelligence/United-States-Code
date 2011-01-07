@@ -6,11 +6,11 @@ Disbursements from the General Post Fund shall be made on orders by and within t
 
 #### Amendments
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 5103 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 5103 of this title as this section.
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator” wherever appearing.
 
 Pub. L. 102–40, §402(d)(1), substituted “8523” for “5223”.
 
-1986—Pub. L. 99–576 substituted “the” for “his” in three places.
+<b>1986</b>—Pub. L. 99–576 substituted “the” for “his” in three places.
 

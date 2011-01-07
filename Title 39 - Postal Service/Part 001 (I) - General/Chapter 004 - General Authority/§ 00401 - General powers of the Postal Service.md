@@ -26,7 +26,7 @@ Subject to the provisions of section 404a, the Postal Service shall have the fol
 
 #### Amendments
 
-2006—Pub. L. 109–435, §403(b)(1), substituted “Subject to the provisions of section 404a, the” for “The” in introductory provisions.
+<b>2006</b>—Pub. L. 109–435, §403(b)(1), substituted “Subject to the provisions of section 404a, the” for “The” in introductory provisions.
 
 Par. (2). Pub. L. 109–435, §504, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “to adopt, amend, and repeal such rules and regulations as it deems necessary to accomplish the objectives of this title;”.
 

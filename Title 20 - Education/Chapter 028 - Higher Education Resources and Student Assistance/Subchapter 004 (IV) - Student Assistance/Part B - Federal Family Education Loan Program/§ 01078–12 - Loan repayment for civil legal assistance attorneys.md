@@ -128,7 +128,7 @@ From amounts appropriated under subsection (i) for a fiscal year, the Secretary 
 
 #### (1) Award basis
 
-&emsp;Subject to paragraph (2), the Secretary shall provide repayment benefits under this sectionon a first-come, first-served basis, and subject to the availability of appropriations.
+&emsp;Subject to paragraph (2), the Secretary shall provide repayment benefits under this section on a first-come, first-served basis, and subject to the availability of appropriations.
 
 #### (2) Priority
 

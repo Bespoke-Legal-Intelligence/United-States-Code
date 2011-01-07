@@ -98,9 +98,9 @@ The corporation shall prescribe such regulations as are necessary to carry out t
 
 #### Amendments
 
-2008—Subsec. (d)(4)(A)(ii), (iii). Pub. L. 110–458 added cls. (ii) and (iii) and struck out former cl. (ii) which read as follows: “which is not a plan described in paragraphs (2) through (11) of section 1321(b) of this title, and”.
+<b>2008</b>—Subsec. (d)(4)(A)(ii), (iii). Pub. L. 110–458 added cls. (ii) and (iii) and struck out former cl. (ii) which read as follows: “which is not a plan described in paragraphs (2) through (11) of section 1321(b) of this title, and”.
 
-2006—Subsecs. (c) to (e). Pub. L. 109–280 added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+<b>2006</b>—Subsecs. (c) to (e). Pub. L. 109–280 added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
 #### Effective Date of 2008 Amendment
 
@@ -113,4 +113,6 @@ Amendment by Pub. L. 109–280 applicable to distributions made after final regu
 #### Effective Date
 
 Section effective with respect to distributions that occur in plan years commencing on or after Jan. 1, 1996, see section 776(e) of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 1056 of this title.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

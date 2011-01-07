@@ -10,7 +10,7 @@ The Congress finds and declares that it is the national policy—
 
 &emsp;&emsp;(B) the management of coastal development to minimize the loss of life and property caused by improper development in flood-prone, storm surge, geological hazard, and erosion-prone areas and in areas likely to be affected by or vulnerable to sea level rise, land subsidence, and saltwater intrusion, and by the destruction of natural protective features such as beaches, dunes, wetlands, and barrier islands.<sup>1</sup>
 
-&emsp;&emsp;(C) the management of coastal development to improve, safeguard, and restore the quality of coastal waters, and to protect natural resources and existing uses of those waters,
+&emsp;&emsp;(C) the management of coastal development to improve, safeguard, and restore thequality of coastal waters, and to protect natural resources and existing uses of those waters,
 
 &emsp;&emsp;(D) priority consideration being given to coastal-dependent uses and orderly processes for siting major facilities related to national defense, energy, fisheries development, recreation, ports and transportation, and the location, to the maximum extent practicable, of new commercial and industrial developments in or adjacent to areas where such development already exists,
 
@@ -40,9 +40,9 @@ The Congress finds and declares that it is the national policy—
 
 #### Amendments
 
-1992—Par. (2). Pub. L. 102–587 made technical amendment to directory language of Pub. L. 101–508, §6203(b)(1). See 1990 Amendment note below.
+<b>1992</b>—Par. (2). Pub. L. 102–587 made technical amendment to directory language of Pub. L. 101–508, §6203(b)(1). See 1990 Amendment note below.
 
-1990—Par. (2). Pub. L. 101–508, §6203(b)(1), as amended by Pub. L. 102–587, substituted “as well as the needs for compatible” for “as well as to needs for”.
+<b>1990</b>—Par. (2). Pub. L. 101–508, §6203(b)(1), as amended by Pub. L. 102–587, substituted “as well as the needs for compatible” for “as well as to needs for”.
 
 Par. (2)(B). Pub. L. 101–508, §6203(b)(2), substituted “likely to be affected by or vulnerable to sea level rise, land subsidence,” for “of subsidence”.
 
@@ -54,7 +54,7 @@ Par. (3). Pub. L. 101–508, §6203(b)(5), inserted “including those areas lik
 
 Pars. (5), (6). Pub. L. 101–508, §6203(b)(6), added pars. (5) and (6).
 
-1980—Pub. L. 96–464, in amending section generally, expanded declaration of policy to provide for higher level of protection for significant natural coastal resources and inserted provisions for special area management planning to increase predictability for necessary coastal-dependent economic growth, improve hazard mitigation, and improve predictability in government decisionmaking.
+<b>1980</b>—Pub. L. 96–464, in amending section generally, expanded declaration of policy to provide for higher level of protection for significant natural coastal resources and inserted provisions for special area management planning to increase predictability for necessary coastal-dependent economic growth, improve hazard mitigation, and improve predictability in government decisionmaking.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

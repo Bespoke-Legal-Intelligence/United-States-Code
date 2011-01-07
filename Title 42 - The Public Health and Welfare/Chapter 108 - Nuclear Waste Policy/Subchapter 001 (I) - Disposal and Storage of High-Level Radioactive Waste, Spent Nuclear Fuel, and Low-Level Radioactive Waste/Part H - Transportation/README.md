@@ -1,7 +1,5 @@
 Part H—Transportation
 
-<i><sup>1</sup></i><i> So in original. The word “this” probably should not appear.</i>
-
 
 ---
 

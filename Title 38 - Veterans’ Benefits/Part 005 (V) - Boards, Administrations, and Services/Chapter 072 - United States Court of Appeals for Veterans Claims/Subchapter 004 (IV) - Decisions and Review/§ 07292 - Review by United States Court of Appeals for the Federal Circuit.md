@@ -2,7 +2,7 @@
 
 (a) After a decision of the United States Court of Appeals for Veterans Claims is entered in a case, any party to the case may obtain a review of the decision with respect to the validity of a decision of the Court on a rule of law or of any statute or regulation (other than a refusal to review the schedule of ratings for disabilities adopted under section 1155 of this title) or any interpretation thereof (other than a determination as to a factual matter) that was relied on by the Court in making the decision. Such a review shall be obtained by filing a notice of appeal with the Court of Appeals for Veterans Claims within the time and in the manner prescribed for appeal to United States courts of appeals from United States district courts.
 
-(b)(1) When a judge or panel of the Court of Appeals for Veterans Claims, in making an order not otherwise appealable under this section, determines that a controlling question of law is involved with respect to which there is a substantial ground for difference of opinion and that there is in fact a disagreement between the appellant and the Secretary with respect to that question of law and that the ultimate termination of the case may be materially advanced by the immediate consideration of that question, the judge or panel shall notify the chief judge of that determination. Upon receiving such a notification, the chief judge shall certify that such a question is presented, and any party to the case may then petition the Court of Appeals for the Federal Circuit to decide the question. That court may permit an interlocutory appeal to be taken on that question if such a petition is filed with it within 10 days after the certification by the chief judge of the Court of Appeals for Veterans Claims. Neither the application for, nor the granting of, an appeal under this paragraph shall stay proceedings in the Court of Appeals for Veterans Claims, unless a stay is ordered by a judge of the Court of Appeals for Veterans Claims or by the Court of Appeals for the Federal Circuit.
+(b)(1) When a judge or panel of the Court of Appeals for Veterans Claims, in making an order not otherwise appealable under this section, determines that a controlling question of law is involved with respect to which there is a substantial ground for difference of opinion and that there is in fact a disagreement between the appellant and the Secretary with respect to that question of law and that the ultimate termination of the case may be materially advanced by the immediate consideration of that question, the judge or panel shall notify the chief judge of that determination. Upon receiving such a notification, the chief judge shall certify that such a question is presented, and any party to the case may then petition the Court of Appeals for the Federal Circuit to decide the question. That court may permit an interlocutory appeal to be taken on that question if such a petition is filed with it within 10 days after the certification by the chief judge of the Court of Appeals for Veterans Claims. Neither the application for, nor the granting of, an appeal under this paragraph shall stay proceedings in theCourt of Appeals for Veterans Claims, unless a stay is ordered by a judge of the Court of Appeals for Veterans Claims or by the Court of Appeals for the Federal Circuit.
 
 (2) For purposes of subsections (d) and (e) of this section, an order described in this paragraph shall be treated as a decision of the Court of Appeals for Veterans Claims.
 
@@ -28,11 +28,11 @@
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–330 inserted “a decision of the Court on a rule of law or of” after “the validity of” in first sentence.
+<b>2002</b>—Subsec. (a). Pub. L. 107–330 inserted “a decision of the Court on a rule of law or of” after “the validity of” in first sentence.
 
-1998—Subsecs. (a), (b), (d)(1), (e). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals” wherever appearing.
+<b>1998</b>—Subsecs. (a), (b), (d)(1), (e). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals” wherever appearing.
 
-1991—Pub. L. 102–40 renumbered section 4092 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4092 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1155” for “355”.
 
@@ -40,7 +40,7 @@ Subsec. (b)(1). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary”
 
 Subsec. (c). Pub. L. 102–54 amended subsec. (c) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “United States Court” for “United States Courts”.
 
-1989—Subsec. (d)(1). Pub. L. 101–94 struck out “statute or” before “regulation”.
+<b>1989</b>—Subsec. (d)(1). Pub. L. 101–94 struck out “statute or” before “regulation”.
 
 #### Effective Date of 2002 Amendment
 

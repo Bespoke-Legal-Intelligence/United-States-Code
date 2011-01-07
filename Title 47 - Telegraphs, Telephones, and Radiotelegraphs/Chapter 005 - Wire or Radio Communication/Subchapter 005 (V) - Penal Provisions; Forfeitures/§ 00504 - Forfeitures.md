@@ -2,7 +2,7 @@
 
 #### (a) Recovery
 
-The forfeitures provided for in this chapter shall be payable into the Treasury of the United States, and shall be recoverable, except as otherwise provided with respect to a forfeiture penalty determined under section 503(b)(3) of this title, in a civil suit in the name of the United States brought in the district where the person or carrier has its principal operating office or in any district through which the line or system of the carrier runs: <i>Provided</i>, That any suit for the recovery of a forfeiture imposed pursuant to the provisions of this chapter shall be a trial de novo: <i>Provided further</i>, That in the case of forfeiture by a ship, said forfeiture may also be recoverable by way of libel in any district inwhich such ship shall arrive or depart. Such forfeitures shall be in addition to any other general or specific penalties provided in this chapter. It shall be the duty of the various United States attorneys, under the direction of the Attorney General of the United States, to prosecute for the recovery of forfeitures under this chapter. The costs and expenses of such prosecutions shall be paid from the appropriation for the expenses of the courts of the United States.
+The forfeitures provided for in this chapter shall be payable into the Treasury of the United States, and shall be recoverable, except as otherwise provided with respect to a forfeiture penalty determined under section 503(b)(3) of this title, in a civil suit in the name of the United States brought in the district where the person or carrier has its principal operating office or in any district through which the line or system of the carrier runs: <i>Provided</i>, That any suit for the recovery of a forfeiture imposed pursuant to the provisions of this chapter shall be a trial de novo: <i>Provided further</i>, That in the case of forfeiture by a ship, said forfeiture may also be recoverable by way of libel in any district in which such ship shall arrive or depart. Such forfeitures shall be in addition to any other general or specific penalties provided in this chapter. It shall be the duty of the various United States attorneys, under the direction of the Attorney General of the United States, to prosecute for the recovery of forfeitures under this chapter. The costs and expenses of such prosecutions shall be paid from the appropriation for the expenses of the courts of the United States.
 
 #### (b) Remission and mitigation
 
@@ -20,25 +20,25 @@ Parts II and III of subchapter III of this chapter, referred to in subsec. (b), 
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96–507 conformed reference to section 507 of this title to reflect renumbering of that section which required no change in text.
+<b>1980</b>—Subsec. (b). Pub. L. 96–507 conformed reference to section 507 of this title to reflect renumbering of that section which required no change in text.
 
-1978—Subsec. (a). Pub. L. 95–234, §3(a), inserted in first sentence “, except as otherwise provided with respect to a forfeiture penalty determined under section 503(b)(3) of this title,” after “recoverable”. Such wording was inserted only after the first reference to “recoverable” as the probable intent of Congress.
+<b>1978</b>—Subsec. (a). Pub. L. 95–234, §3(a), inserted in first sentence “, except as otherwise provided with respect to a forfeiture penalty determined under section 503(b)(3) of this title,” after “recoverable”. Such wording was inserted only after the first reference to “recoverable” as the probable intent of Congress.
 
 Subsec. (b). Pub. L. 95–234, §3(b), inserted reference to subchapter II of this chapter and struck out reference to section 510 of this title and “, upon application therefor,” after “by the Commission”.
 
-1962—Subsec. (b). Pub. L. 87–448 empowered the Commission to remit or mitigate the forfeitures imposed by section 510 of this title.
+<b>1962</b>—Subsec. (b). Pub. L. 87–448 empowered the Commission to remit or mitigate the forfeitures imposed by section 510 of this title.
 
-1960—Subsec. (a). Pub. L. 86–752, §7(b), inserted proviso that any suit for recovery of a forfeiture shall be a trial de novo.
+<b>1960</b>—Subsec. (a). Pub. L. 86–752, §7(b), inserted proviso that any suit for recovery of a forfeiture shall be a trial de novo.
 
 Subsec. (b). Pub. L. 86–752, §7(c), substituted “sections 503(b) and 507” for “section 507”.
 
 Subsec. (c). Pub. L. 86–752, §7(d), added subsec. (c).
 
-1956—Subsec. (b). Act Aug. 6, 1956, inserted reference to part III of subchapter III.
+<b>1956</b>—Subsec. (b). Act Aug. 6, 1956, inserted reference to part III of subchapter III.
 
-1954—Subsec. (b). Act Aug. 13, 1954, inserted reference to section 507 of this title.
+<b>1954</b>—Subsec. (b). Act Aug. 13, 1954, inserted reference to section 507 of this title.
 
-1937—Act May 20, 1937, designated existing provisions as subsec. (a), inserted proviso as to recovery of forfeiture in any district where a ship may arrive or depart, and added subsec. (b).
+<b>1937</b>—Act May 20, 1937, designated existing provisions as subsec. (a), inserted proviso as to recovery of forfeiture in any district where a ship may arrive or depart, and added subsec. (b).
 
 #### Change of Name
 

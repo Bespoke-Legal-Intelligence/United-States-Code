@@ -10,7 +10,7 @@ As used in this chapter—
 
 #### Amendments
 
-1998—Subsec. (c). Pub. L. 105–277, §1223(2), struck out subsec. (c) which read as follows: “The term ‘Agency’ means the United States Arms Control and Disarmament Agency.”
+<b>1998</b>—Subsec. (c). Pub. L. 105–277, §1223(2), struck out subsec. (c) which read as follows: “The term ‘Agency’ means the United States Arms Control and Disarmament Agency.”
 
 #### Effective Date of 1998 Amendment
 

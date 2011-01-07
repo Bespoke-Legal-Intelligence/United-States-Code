@@ -62,9 +62,13 @@ The Violence Against Women Act of 2000, referred to in subsec. (c)(1), is div. B
 
 #### Amendments
 
-2006—Subsec. (b)(1)(I). Pub. L. 109–271, §7(a)(4), inserted “that is developed and provided by entities having expertise in tribal law, customary practices, and Federal Indian law” after “technical assistance”.
+<b>2006</b>—Subsec. (b)(1)(I). Pub. L. 109–271, §7(a)(4), inserted “that is developed and provided by entities having expertise in tribal law, customary practices, and Federal Indian law” after “technical assistance”.
 
 #### Effective Date
 
 Section not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under section 3793 of this title.
+
+<i><sup>1</sup></i><i> So in original. There is no par. (2).</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

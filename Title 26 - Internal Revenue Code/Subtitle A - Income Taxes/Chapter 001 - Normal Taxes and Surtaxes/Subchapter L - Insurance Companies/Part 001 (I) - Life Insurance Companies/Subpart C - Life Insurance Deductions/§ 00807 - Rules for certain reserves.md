@@ -366,29 +366,29 @@ A prior section 807, act Aug. 16, 1954, ch. 736, 68A Stat. 259, related to adjus
 
 #### Amendments
 
-2004—Subsecs. (a)(2)(B), (b)(1)(B). Pub. L. 108–218, §205(b)(1), struck out “the sum of (i)” before “the amount” and struck out “plus (ii) any excess described in section 809(a)(2) for the taxable year,” after “to which section 264(f) applies,”.
+<b>2004</b>—Subsecs. (a)(2)(B), (b)(1)(B). Pub. L. 108–218, §205(b)(1), struck out “the sum of (i)” before “the amount” and struck out “plus (ii) any excess described in section 809(a)(2) for the taxable year,” after “to which section 264(f) applies,”.
 
 Subsec. (d)(1). Pub. L. 108–218, §205(b)(2)(A), substituted “paragraph (6)” for “section 809(b)(4)(B)” in concluding provisions.
 
 Subsec. (d)(6). Pub. L. 108–218, §205(b)(2)(B), added par. (6).
 
-1997—Subsec. (a)(2)(B). Pub. L. 105–34, §1084(b)(2)(A), substituted “interest and the amount of the policyholder's share of the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,” for “interest,”.
+<b>1997</b>—Subsec. (a)(2)(B). Pub. L. 105–34, §1084(b)(2)(A), substituted “interest and the amount of the policyholder's share of the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,” for “interest,”.
 
 Subsec. (b)(1)(B). Pub. L. 105–34, §1084(b)(2)(B), substituted “interest and the amount of the policyholder's share of the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,” for “interest,”.
 
-1996—Subsec. (d)(3)(A)(iii). Pub. L. 104–191 inserted “(other than a qualified long-term care insurance contract, as defined in section 7702B(b))” after “insurance contract”.
+<b>1996</b>—Subsec. (d)(3)(A)(iii). Pub. L. 104–191 inserted “(other than a qualified long-term care insurance contract, as defined in section 7702B(b))” after “insurance contract”.
 
 Subsec. (d)(3)(B)(ii). Pub. L. 104–188 substituted “Commissioners’ Annuities” for “Commissoners’ Annuities”.
 
-1990—Subsec. (e)(7). Pub. L. 101–508 added par. (7).
+<b>1990</b>—Subsec. (e)(7). Pub. L. 101–508 added par. (7).
 
-1987—Subsec. (c). Pub. L. 100–203, §10241(b)(2)(A), substituted “whichever of the following rates is the highest as of the time such obligation first did not involve life, accident, or health contingencies: the applicable Federal interest rate under subsection (d)(2)(B)(i), the prevailing State assumed interest rate under subsection (d)(2)(B)(ii), or the rate of interest assumed by the company in determining the guaranteed benefit.” for “the higher of the prevailing State assumed interest rate as of the time such obligation first did not involve life, accident, or health contingencies or the rate of interest assumed by the company (as of such time) in determining the guaranteed benefit.” in third to last sentence.
+<b>1987</b>—Subsec. (c). Pub. L. 100–203, §10241(b)(2)(A), substituted “whichever of the following rates is the highest as of the time such obligation first did not involve life, accident, or health contingencies: the applicable Federal interest rate under subsection (d)(2)(B)(i), the prevailing State assumed interest rate under subsection (d)(2)(B)(ii), or the rate of interest assumed by the company in determining the guaranteed benefit.” for “the higher of the prevailing State assumed interest rate as of the time such obligation first did not involve life, accident, or health contingencies or the rate of interest assumed by the company (as of such time) in determining the guaranteed benefit.” in third to last sentence.
 
 Subsec. (d)(2)(B). Pub. L. 100–203, §10241(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the prevailing State assumed interest rate, and”.
 
 Subsec. (d)(4). Pub. L. 100–203, §10241(b)(1), substituted “Applicable Federal interest rate; prevailing State assumed interest rate” for “Prevailing State assumed interest rate” in heading and amended text generally, revising and restating as subpars. (A) and (B) provisions of former subpars. (A) to (D).
 
-1986—Subsec. (c). Pub. L. 99–514, §1023(b), inserted at end “For purposes of paragraph (2) and section 805(a)(1), the amount of the unpaid losses (other than losses on life insurance contracts) shall be the amount of the discounted unpaid losses as defined in section 846.”
+<b>1986</b>—Subsec. (c). Pub. L. 99–514, §1023(b), inserted at end “For purposes of paragraph (2) and section 805(a)(1), the amount of the unpaid losses (other than losses on life insurance contracts) shall be the amount of the discounted unpaid losses as defined in section 846.”
 
 Pub. L. 99–514, §1821(a), inserted at end “In no case shall the amount determined under paragraph (3) for any contract be less than the net surrender value of such contract.”
 

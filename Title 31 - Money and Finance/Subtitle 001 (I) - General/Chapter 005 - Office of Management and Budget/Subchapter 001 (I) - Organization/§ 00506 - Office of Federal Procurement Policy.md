@@ -1,8 +1,8 @@
 ### §506. Office of Federal Procurement Policy
 
-The Office of Federal Procurement Policy, established under section 5(a) of the Office of Federal Procurement Policy Act (41 U.S.C. 404(a)), is an office in the Office of Management and Budget.
+The Office of Federal Procurement Policy, established under section 1101(a) of title 41, is an office in the Office of Management and Budget.
 
-(Added Pub. L. 97–452, §1(1)(A), Jan. 12, 1983, 96 Stat. 2467, §504; renumbered §506, Pub. L. 101–576, title II, §202(a), Nov. 15, 1990, 104 Stat. 2839.)
+(Added Pub. L. 97–452, §1(1)(A), Jan. 12, 1983, 96 Stat. 2467, §504; renumbered §506, Pub. L. 101–576, title II, §202(a), Nov. 15, 1990, 104 Stat. 2839; amended Pub. L. 111–350, §5(h)(1), Jan. 4, 2011, 124 Stat. 3848.)
 
 Historical and Revision Notes
 
@@ -20,5 +20,7 @@ The section is included to provide in subchapter I of chapter 5 of title 31 a co
 
 #### Amendments
 
-1990—Pub. L. 101–576 renumbered section 504 of this title as this section.
+<b>2011</b>—Pub. L. 111–350 substituted “section 1101(a) of title 41” for “section 5(a) of the Office of Federal Procurement Policy Act (41 U.S.C. 404(a))”.
+
+<b>1990</b>—Pub. L. 101–576 renumbered section 504 of this title as this section.
 

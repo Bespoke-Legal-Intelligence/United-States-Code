@@ -218,7 +218,7 @@
 
 #### Part E—Minority Science and Engineering Improvement Program
 
-I74subpart 1—minority science and engineering improvement program
+#### subpart 1—minority science and engineering improvement program
 
 |  |  |
 | :--- | ---: |
@@ -525,6 +525,7 @@ I74subpart 1—minority science and engineering improvement program
 | [1087h.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087h%20-%20Funds%20for%20administrative%20expenses.md) | Funds for administrative expenses. |
 | [1087i.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087i%20-%20Authority%20to%20sell%20loans.md) | Authority to sell loans. |
 | 1087i–1. | Temporary authority to purchase student loans. |
+| 1087i–2. | Temporary loan consolidation authority. |
 | [1087j.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087j%20-%20Loan%20cancellation%20for%20teachers.md) | Loan cancellation for teachers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -622,7 +623,7 @@ I74subpart 1—minority science and engineering improvement program
 
 #### Part G—Program Integrity
 
-I74subpart 1—state role
+#### subpart 1—state role
 
 |  |  |
 | :--- | ---: |
@@ -775,7 +776,7 @@ I74subpart 1—state role
 
 #### Part A—Graduate Education Programs
 
-I74subpart 1—jacob k. javits fellowship program
+#### subpart 1—jacob k. javits fellowship program
 
 |  |  |
 | :--- | ---: |

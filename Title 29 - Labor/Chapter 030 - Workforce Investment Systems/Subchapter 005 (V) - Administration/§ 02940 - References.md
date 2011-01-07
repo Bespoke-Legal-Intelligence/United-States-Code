@@ -20,7 +20,7 @@ Except as otherwise specified, a reference in a Federal law (other than a refere
 
 #### References in Text
 
-The Comprehensive Employment and Training Act, referred to in subsec. (a), is Pub. L. 93–203, Dec. 28, 1973,87 Stat. 839, as amended, which was classified generally to chapter 17 (§801 et seq.) of this title, and was repealed by section 184(a)(1) of the Job Training Partnership Act, Pub. L. 97–300, title I, Oct. 13, 1982, 96 Stat. 1357.
+The Comprehensive Employment and Training Act, referred to in subsec. (a), is Pub. L. 93–203, Dec. 28, 1973, 87 Stat. 839, as amended, which was classified generally to chapter 17 (§801 et seq.) of this title, and was repealed by section 184(a)(1) of the Job Training Partnership Act, Pub. L. 97–300, title I, Oct. 13, 1982, 96 Stat. 1357.
 
 The Reading Excellence Act, referred to in text, is section 101(f) \[title VIII\] of Pub. L. 105–277, div. A, Oct. 21, 1998, 112 Stat. 2681–337, 2681–391. The provisions of title VIII of section 101(f) appear at 112 Stat. 2681–391 to 2681–435. For complete classification of this Act to the Code, see Tables.
 
@@ -32,7 +32,7 @@ This Act, referred to in subsec. (b), is the Workforce Investment Act of 1998. S
 
 #### Amendments
 
-1998—Pub. L. 105–277 amended section catchline and text generally. Prior to amendment, text read as follows: “Effective on August 7, 1998, all references in any other provision of law (other than section 665 of title 18) to the Comprehensive Employment and Training Act, or to the Job Training Partnership Act, as the case may be, shall be deemed to refer to the ‘Workforce Investment Act of 1998.’ ”
+<b>1998</b>—Pub. L. 105–277 amended section catchline and text generally. Prior to amendment, text read as follows: “Effective on August 7, 1998, all references in any other provision of law (other than section 665 of title 18) to the Comprehensive Employment and Training Act, or to the Job Training Partnership Act, as the case may be, shall be deemed to refer to the ‘Workforce Investment Act of 1998.’ ”
 
 #### Effective Date of 1998 Amendment
 

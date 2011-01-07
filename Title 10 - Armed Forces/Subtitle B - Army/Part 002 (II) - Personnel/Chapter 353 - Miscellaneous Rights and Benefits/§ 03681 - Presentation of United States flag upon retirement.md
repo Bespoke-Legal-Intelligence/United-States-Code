@@ -20,7 +20,7 @@ A prior section 3681, act Aug. 10, 1956, ch. 1041, 70A Stat. 210, related to ser
 
 #### Amendments
 
-1999—Subsec. (b). Pub. L. 106–65 substituted “under this section or any other provision of law providing for the presentation of a United States flag incident to release from active service for retirement.” for “under this section or section 6141 or 8681 of this title or section 516 of title 14.”
+<b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted “under this section or any other provision of law providing for the presentation of a United States flag incident to release from active service for retirement.” for “under this section or section 6141 or 8681 of this title or section 516 of title 14.”
 
 #### Effective Date
 

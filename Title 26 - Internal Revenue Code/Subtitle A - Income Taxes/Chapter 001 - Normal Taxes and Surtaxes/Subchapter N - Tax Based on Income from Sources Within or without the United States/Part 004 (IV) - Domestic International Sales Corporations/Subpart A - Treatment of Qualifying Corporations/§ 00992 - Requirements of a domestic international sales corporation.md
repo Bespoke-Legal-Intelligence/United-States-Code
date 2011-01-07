@@ -32,7 +32,7 @@
 
 #### (2) Effect of election
 
-&emsp;If a corporation makes an election under paragraph (1), then the provisions of this part shall apply to such corporation for the taxable year of the corporation for which made and for all succeeding taxable years and shall apply to each person who at any time is a shareholder of such corporation for all periods on or after the first day of the first taxable year of the corporation for which the election is effective.
+&emsp;If a corporation makes an election under paragraph (1), then the provisions of this part shall apply to such corporation for the taxable year of the corporation for which made and for all succeeding taxable years and shall apply toeach person who at any time is a shareholder of such corporation for all periods on or after the first day of the first taxable year of the corporation for which the election is effective.
 
 #### (3) Termination of election
 
@@ -104,7 +104,7 @@ If—
 
 &emsp;(2) a second corporation (hereinafter in this subsection referred to as “parent”) throughout the taxable year owns directly at least 80 percent of the stock of the subsidiary,
 
-> then, for purposes of applying subsection (d)(2) and section 541 (relating to personal holding company tax) to the subsidiary for the taxable year, there shall be taken into account under section 543(a)(5) (relating to produced film rents) any interest in a film acquired by the parent and transferred to the subsidiary as if such interest were acquired by the subsidiary at the time it was acquired by the parent.
+> then, for purposes of applying subsection (d)(2) and section 541 (relating to personal holding company tax) to the subsidiary for the taxable year, there shall be taken into account undersection 543(a)(5) (relating to produced film rents) any interest in a film acquired by the parent and transferred to the subsidiary as if such interest were acquired by the subsidiary at the time it was acquired by the parent.
 
 (Added Pub. L. 92–178, title V, §501, Dec. 10, 1971, 85 Stat. 535; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–354, §5(a)(32), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title VIII, §802(c)(1), July 18, 1984, 98 Stat. 999; Pub. L. 104–188, title I, §1616(b)(11), Aug. 20, 1996, 110 Stat. 1857; Pub. L. 110–172, §11(g)(16), Dec. 29, 2007, 121 Stat. 2491.)
 
@@ -116,15 +116,15 @@ Section 941, referred to in subsec. (d)(6), was repealed by Pub. L. 94–455, ti
 
 #### Amendments
 
-2007—Subsec. (a)(1)(C) to (E). Pub. L. 110–172 inserted “and” at end of subpar. (C), substituted period for “, and” at end of subpar. (D), and struck out subpar. (E) which read as follows: “such corporation is not a member of any controlled group of which a FSC is a member.”
+<b>2007</b>—Subsec. (a)(1)(C) to (E). Pub. L. 110–172 inserted “and” at end of subpar. (C), substituted period for “, and” at end of subpar. (D), and struck out subpar. (E) which read as follows: “such corporation is not a member of any controlled group of which a FSC is a member.”
 
-1996—Subsec. (d)(3). Pub. L. 104–188 struck out “or 593” after “section 581”.
+<b>1996</b>—Subsec. (d)(3). Pub. L. 104–188 struck out “or 593” after “section 581”.
 
-1984—Subsec. (a)(1)(E). Pub. L. 98–369 added subpar. (E).
+<b>1984</b>—Subsec. (a)(1)(E). Pub. L. 98–369 added subpar. (E).
 
-1982—Subsec. (d)(7). Pub. L. 97–354 substituted “an S corporation” for “an electing small business corporation (as defined in section 1371(b))”.
+<b>1982</b>—Subsec. (d)(7). Pub. L. 97–354 substituted “an S corporation” for “an electing small business corporation (as defined in section 1371(b))”.
 
-1976—Subsecs. (a)(2), (b)(1), (3), (c)(2)(B). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a)(2), (b)(1), (3), (c)(2)(B). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 1996 Amendment
 

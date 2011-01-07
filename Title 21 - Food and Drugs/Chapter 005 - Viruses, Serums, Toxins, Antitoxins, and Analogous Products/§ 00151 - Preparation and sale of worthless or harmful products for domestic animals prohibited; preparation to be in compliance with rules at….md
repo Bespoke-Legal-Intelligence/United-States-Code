@@ -12,7 +12,7 @@ Another section 1768 of Pub. L. 99–198, cited as a credit to this section, ame
 
 #### Amendments
 
-1985—Pub. L. 99–198 substituted “in or from the United States, the District of Columbia, any territory of the United States, or any place under the jurisdiction of the United States” for “from one State or Territory or the District of Columbia to any other State or Territory or the District of Columbia”.
+<b>1985</b>—Pub. L. 99–198 substituted “in or from the United States, the District of Columbia, any territory of the United States, or any place under the jurisdiction of the United States” for “from one State or Territory or the District of Columbia to any other State or Territory or the District of Columbia”.
 
 #### Effective Date of 1985 Amendment
 

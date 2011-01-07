@@ -72,7 +72,7 @@ Corrections Board Defined.—In this section, the term “Corrections Board” m
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–375 substituted “Final” for “Effective October 1, 2002, final”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–375 substituted “Final” for “Effective October 1, 2002, final”.
 
-1999—Subsec. (e). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsec. (e). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 

@@ -70,7 +70,7 @@ The Attorney General shall establish a program by which the Department of Justic
 
 &emsp;&emsp;(B) if the borrower is involuntarily separated from employment on account of misconduct, or voluntarily separates from employment, before the end of the period specified in the agreement, the borrower will repay the Attorney General the amount of any benefits received by such employee under this section;
 
-&emsp;&emsp;(C) if the borrower is required to repay an amount to the Attorney General under subparagraph (B) and fails to repay such amount, a sum equal to that amount shall be recoverable by the Federal Government from the employee (or such employee's estate, if applicable) by such methods as are provided by law for the recovery of amounts owed to the Federal Government;
+&emsp;&emsp;(C) if the borrower is required to repay an amount to the Attorney General under subparagraph (B) and fails to repay such amount, a sum equal to that amount shall be recoverable by the Federal Government from the employee (or such employee's estate, if applicable) by such methods as areprovided by law for the recovery of amounts owed to the Federal Government;
 
 &emsp;&emsp;(D) the Attorney General may waive, in whole or in part, a right of recovery under this subsection if it is shown that recovery would be against equity and good conscience or against the public interest; and
 
@@ -146,7 +146,7 @@ Not later than one year after August 14, 2008, the Comptroller General shall con
 
 #### (j) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $25,000,000 for fiscal year2009 and such sums as may be necessary for each of the five succeeding fiscal years.
+There are authorized to be appropriated to carry out this section $25,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
 
 (Pub. L. 90–351, title I, §3001, as added Pub. L. 110–315, title IX, §952, Aug. 14, 2008, 122 Stat. 3470.)
 

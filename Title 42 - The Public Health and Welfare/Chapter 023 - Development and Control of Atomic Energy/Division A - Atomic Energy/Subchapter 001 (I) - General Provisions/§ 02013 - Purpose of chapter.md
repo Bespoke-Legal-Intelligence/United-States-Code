@@ -22,5 +22,5 @@ Provisions similar to those comprising this section were contained in section 1 
 
 #### Amendments
 
-1964—Subsec. (c). Pub. L. 88–489 inserted “whether owned by the Government or others” and “and to provide continued assurance of the Government's ability to enter into and enforce agreements with nations or groups of nations for the control of special nuclear materials and atomic weapons”.
+<b>1964</b>—Subsec. (c). Pub. L. 88–489 inserted “whether owned by the Government or others” and “and to provide continued assurance of the Government's ability to enter into and enforce agreements with nations or groups of nations for the control of special nuclear materials and atomic weapons”.
 

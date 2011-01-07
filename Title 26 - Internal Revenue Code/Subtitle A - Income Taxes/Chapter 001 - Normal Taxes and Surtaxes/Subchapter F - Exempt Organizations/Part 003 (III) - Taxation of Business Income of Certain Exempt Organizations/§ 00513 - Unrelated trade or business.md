@@ -50,7 +50,7 @@ For purposes of this section, the term “trade or business” includes any acti
 
 #### (C) Qualifying organization
 
-&emsp;&emsp;For purposes of this paragraph, the term “qualifying organization” means an organization which is described in section 501(c) (3), (4), or (5) which regularly conducts, as one of its substantial exempt purposes, anagricultural and educational fair or exposition.
+&emsp;&emsp;For purposes of this paragraph, the term “qualifying organization” means an organization which is described in section 501(c) (3), (4), or (5) which regularly conducts, as one of its substantial exempt purposes, an agricultural and educational fair or exposition.
 
 #### (3) Qualified convention and trade show activities
 
@@ -200,33 +200,33 @@ The term “unrelated trade or business” includes the provision of debt manage
 
 #### Amendments
 
-2006—Subsec. (j). Pub. L. 109–280, which directed the addition of subsec. (j) to section 513, without specifying the act to be amended, was executed by making the addition to this section, which is section 513 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+<b>2006</b>—Subsec. (j). Pub. L. 109–280, which directed the addition of subsec. (j) to section 513, without specifying the act to be amended, was executed by making the addition to this section, which is section 513 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
-1997—Subsec. (i). Pub. L. 105–34 added subsec. (i).
+<b>1997</b>—Subsec. (i). Pub. L. 105–34 added subsec. (i).
 
-1993—Subsec. (h)(2)(C)(ii). Pub. L. 103–66 substituted “calendar year 1992” for “calendar year 1989”.
+<b>1993</b>—Subsec. (h)(2)(C)(ii). Pub. L. 103–66 substituted “calendar year 1992” for “calendar year 1989”.
 
-1990—Subsec. (h)(2)(C)(ii). Pub. L. 101–508 inserted before period at end “, by substituting ‘calendar year1987’ for ‘calendar year 1989’ in subparagraph (B) thereof”.
+<b>1990</b>—Subsec. (h)(2)(C)(ii). Pub. L. 101–508 inserted before period at end “, by substituting ‘calendar year 1987’ for ‘calendar year 1989’ in subparagraph (B) thereof”.
 
-1986—Subsec. (d)(3)(B). Pub. L. 99–514, §1602(a), inserted “or to educate persons in attendance regarding new developments or products and services related to the exempt activities of the organization”.
+<b>1986</b>—Subsec. (d)(3)(B). Pub. L. 99–514, §1602(a), inserted “or to educate persons in attendance regarding new developments or products and services related to the exempt activities of the organization”.
 
 Subsec. (d)(3)(C). Pub. L. 99–514, §1602(b), substituted “section 501(c)(3), (4), (5), or (6)” for “section 501(c)(5) or (6)” and inserted “or which educates persons in attendance regarding new developments or products and services related to the exempt activities of the organization”.
 
 Subsec. (h). Pub. L. 99–514, §1601(a), added subsec. (h).
 
-1980—Subsec. (g). Pub. L. 96–605 added subsec. (g).
+<b>1980</b>—Subsec. (g). Pub. L. 96–605 added subsec. (g).
 
-1978—Subsec. (f). Pub. L. 95–502 added subsec. (f).
+<b>1978</b>—Subsec. (f). Pub. L. 95–502 added subsec. (f).
 
-1976—Subsec. (d). Pub. L. 94–455, §1305(a), added subsec. (d).
+<b>1976</b>—Subsec. (d). Pub. L. 94–455, §1305(a), added subsec. (d).
 
 Subsec. (e). Pub. L. 94–455, §1311(a), added subsec. (e).
 
-1969—Subsec. (a)(2). Pub. L. 91–172, §121(b)(4), inserted reference to local associations of employees described in section 501(c)(4) of this title and organized before May 27, 1969.
+<b>1969</b>—Subsec. (a)(2). Pub. L. 91–172, §121(b)(4), inserted reference to local associations of employees described in section 501(c)(4) of this title and organized before May 27, 1969.
 
 Subsec. (c). Pub. L. 91–172, §121(c), substituted “Advertising, etc., activities” for “Special rule for certain publishing businesses”, in heading, and, in text, substituted provisions extending definition of trade or business to include any activity carried on for the production of income from the sale of goods or the performance of services, for provisions referring to publishing businesses carried on by an organization during a taxable year beginning before Jan. 1, 1953.
 
-1960—Subsec. (b)(2). Pub. L. 86–667 included trusts described in section 501(c)(17).
+<b>1960</b>—Subsec. (b)(2). Pub. L. 86–667 included trusts described in section 501(c)(17).
 
 #### Effective Date of 2006 Amendment
 

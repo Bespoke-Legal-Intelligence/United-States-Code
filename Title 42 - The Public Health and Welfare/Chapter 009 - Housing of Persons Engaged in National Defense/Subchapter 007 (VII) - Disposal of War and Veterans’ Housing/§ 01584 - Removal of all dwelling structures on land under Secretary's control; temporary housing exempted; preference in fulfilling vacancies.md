@@ -10,7 +10,7 @@ Subchapters III and VI of this chapter, referred to in text, were comprised of s
 
 #### Amendments
 
-1951—Act Sept. 1, 1951, repealed former fourth and fifth provisos which related to adjustments in rentals that might be set for Government-owned temporary housing.
+<b>1951</b>—Act Sept. 1, 1951, repealed former fourth and fifth provisos which related to adjustments in rentals that might be set for Government-owned temporary housing.
 
 Act June 30, 1951, substituted “August 15, 1951” for “July 1, 1951”.
 

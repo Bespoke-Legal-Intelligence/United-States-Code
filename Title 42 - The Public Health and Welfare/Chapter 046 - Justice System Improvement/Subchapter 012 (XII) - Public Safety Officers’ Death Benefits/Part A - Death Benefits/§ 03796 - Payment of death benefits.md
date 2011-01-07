@@ -106,25 +106,25 @@ A prior section 1201 of Pub. L. 90–351, title VII, June 19, 1968, 82 Stat. 236
 
 #### Amendments
 
-2006—Subsec. (a)(4). Pub. L. 109–162, §1164(d), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “if there is no surviving spouse or surviving child, to the individual designated by such officer as beneficiary under such officer's most recently executed life insurance policy, provided that such individual survived such officer; or”.
+<b>2006</b>—Subsec. (a)(4). Pub. L. 109–162, §1164(d), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “if there is no surviving spouse or surviving child, to the individual designated by such officer as beneficiary under such officer's most recently executed life insurance policy, provided that such individual survived such officer; or”.
 
 Subsec. (a)(6). Pub. L. 109–162, §1164(e), which directed amendment of section 1201(1)(a) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796(a)) by adding par. (6) at end, was executed by adding par. (6) at end of subsec. (a) of this section to reflect the probable intent of Congress.
 
 Subsec. (m). Pub. L. 109–162, §1164(c), added subsec. (m).
 
-2003—Subsecs. (k), (<i>l</i>). Pub. L. 108–182 added subsecs. (k) and (<i>l</i>).
+<b>2003</b>—Subsecs. (k), (<i>l</i>). Pub. L. 108–182 added subsecs. (k) and (<i>l</i>).
 
-2002—Subsec. (a)(4), (5). Pub. L. 107–196 added par. (4) and redesignated former par. (4) as (5).
+<b>2002</b>—Subsec. (a)(4), (5). Pub. L. 107–196 added par. (4) and redesignated former par. (4) as (5).
 
-2001—Subsec. (a). Pub. L. 107–56 substituted “$250,000” for “$100,000” in introductory provisions.
+<b>2001</b>—Subsec. (a). Pub. L. 107–56 substituted “$250,000” for “$100,000” in introductory provisions.
 
-1994—Subsec. (a). Pub. L. 103–322, §330001(e)(1)(A), substituted “subsection (h) of this section,” for “subsection (g) of this section” in introductory provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §330001(e)(1)(A), substituted “subsection (h) of this section,” for “subsection (g) of this section” in introductory provisions.
 
 Subsec. (b). Pub. L. 103–322, §330001(e)(1)(B), substituted “catastrophic injury” for “catastrophic personal injury”, “subsection (h)” for “subsection (g)”, and “benefits paid under this subsection” for “benefits paid under this section”.
 
-1992—Subsec. (b). Pub. L. 102–520 substituted “the same benefit in any year that is payable under subsection (a) of this section in such year,” for “a benefit of up to $100,000,”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–520 substituted “the same benefit in any year that is payable under subsection (a) of this section in such year,” for “a benefit of up to $100,000,”.
 
-1990—Subsec. (b). Pub. L. 101–647, §1301(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
+<b>1990</b>—Subsec. (b). Pub. L. 101–647, §1301(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 101–647, §1301(a)(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
@@ -134,7 +134,7 @@ Subsecs. (f) to (i). Pub. L. 101–647, §1301(a)(2), redesignated former subsec
 
 Subsec. (j). Pub. L. 101–647, §1301(a)(4), added subsec. (j).
 
-1988—Subsec. (a). Pub. L. 100–690, §6105(a), substituted “$100,000, adjusted in accordance with subsection (g) of this section” for “$50,000”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–690, §6105(a), substituted “$100,000, adjusted in accordance with subsection (g) of this section” for “$50,000”.
 
 Subsec. (a)(4). Pub. L. 100–690, §6105(c), struck out “dependent” before “parent”.
 

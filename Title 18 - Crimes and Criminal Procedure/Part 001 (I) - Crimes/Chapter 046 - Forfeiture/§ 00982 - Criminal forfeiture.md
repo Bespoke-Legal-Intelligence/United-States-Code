@@ -66,7 +66,11 @@
 
 (2) The substitution of assets provisions of subsection 413(p) shall not be used to order a defendant to forfeit assets in place of the actual property laundered where such defendant acted merely as an intermediary who handled but did not retain the property in the course of the money laundering offense unless the defendant, in committing the offense or offenses giving rise to the forfeiture, conducted three or more separate transactions involving a total of $100,000 or more in any twelve month period.
 
-(Added Pub. L. 99–570, title I, §1366(a), Oct. 27, 1986, 100 Stat. 3207–39; amended Pub. L. 100–690, title VI, §§6463(c), 6464, Nov. 18, 1988, 102 Stat. 4374, 4375; Pub. L. 101–73, title IX, §963(c), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title XIV, §§1401, 1403, title XXV, §2525(b), Nov. 29, 1990, 104 Stat. 4835, 4874; Pub. L. 102–393, title VI, §638(e), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, §104(b), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §1512(c), Oct. 28, 1992, 106 Stat. 4058; Pub. L. 103–322, title XXXIII, §330011(s)(1), Sept. 13, 1994, 108 Stat. 2145; Pub. L. 104–191, title II, §249(a), (b), Aug. 21, 1996, 110 Stat. 2020; Pub. L. 104–208, div. C, title II, §217, Sept. 30, 1996, 110 Stat. 3009–573; Pub. L. 105–184, §2, June 23, 1998, 112 Stat. 520; Pub. L. 105–318, §6(a), Oct. 30, 1998, 112 Stat. 3010; Pub. L. 106–185, §18(b), Apr. 25, 2000, 114 Stat. 223; Pub. L. 107–56, title III, §372(b)(2), Oct. 26, 2001, 115 Stat. 339; Pub. L. 107–273, div. B, title IV, §4002(b)(10), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 109–295, title V, §551(c), Oct. 4, 2006, 120 Stat. 1390; Pub. L. 110–161, div. E, title V, §553(b), Dec. 26, 2007, 121 Stat. 2082.)
+(Added Pub. L. 99–570, title I, §1366(a), Oct. 27, 1986, 100 Stat. 3207–39; amended Pub. L. 100–690, title VI, §§6463(c), 6464, Nov. 18, 1988, 102 Stat. 4374, 4375; Pub. L. 101–73, title IX, §963(c), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title XIV, §§1401, 1403, title XXV, §2525(b), Nov. 29, 1990, 104 Stat. 4835, 4874; Pub. L. 102–393, title VI, §638(e), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, §104(b), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §1512(c), Oct. 28, 1992, 106 Stat. 4058; Pub. L. 103–322, title XXXIII, §330011(s)(1), Sept. 13, 1994, 108 Stat. 2145; Pub. L. 104–191, title II, §249(a), (b), Aug. 21, 1996, 110 Stat. 2020; Pub. L. 104–208, div. C, title II, §217, Sept. 30, 1996, 110 Stat. 3009–573; Pub. L. 105–184, §2, June 23, 1998, 112 Stat. 520; Pub. L. 105–318, §6(a), Oct. 30, 1998, 112 Stat. 3010; Pub. L. 106–185, §18(b), Apr. 25, 2000, 114 Stat. 223; Pub. L. 107–56, title III, §372(b)(2), Oct. 26, 2001, 115 Stat. 339; Pub. L. 107–273, div. B, title IV, §4002(b)(10), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 109–295, title V, §551(c), Oct. 4, 2006, 120 Stat. 1390; Pub. L. 110–161, div. E, title V, §553(b), Dec. 26, 2007, 121 Stat. 2082; Pub. L. 111–203, title III, §377(4), July 21, 2010, 124 Stat. 1569.)
+
+#### Amendment of Subsection (a)(3)
+
+<i>Pub. L. 111–203, title III, §§351, 377(4), July 21, 2010, 124 Stat. 1546, 1569, provided that, effective on the transfer date, subsection (a)(3) of this section is amended by striking “Resolution Trust Corporation,” and by striking “or the Office of Thrift Supervision”. See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -74,15 +78,15 @@ Sections 274 and 274A of the Immigration and Nationality Act, referred to in sub
 
 #### Amendments
 
-2007—Subsec. (a)(6)(A). Pub. L. 110–161 substituted “555” for “554” in introductory provisions.
+<b>2007</b>—Subsec. (a)(6)(A). Pub. L. 110–161 substituted “555” for “554” in introductory provisions.
 
-2006—Subsec. (a)(6)(A). Pub. L. 109–295 inserted “554,” before “1425,” in introductory provisions.
+<b>2006</b>—Subsec. (a)(6)(A). Pub. L. 109–295 inserted “554,” before “1425,” in introductory provisions.
 
-2002—Subsec. (a)(8). Pub. L. 107–273 substituted “court” for “Court”.
+<b>2002</b>—Subsec. (a)(8). Pub. L. 107–273 substituted “court” for “Court”.
 
-2001—Subsec. (a)(1). Pub. L. 107–56 struck out “of section 5313(a), 5316, or 5324 of title 31, or” before “of section 1956, 1957, or 1960 of this title” and struck out at end “However, no property shall be seized or forfeited in the case of a violation of section 5313(a) of title 31 by a domestic financial institution examined by a Federal bank supervisory agency or a financial institution regulated by the Securities and Exchange Commission or a partner, director, or employee thereof.”
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–56 struck out “of section 5313(a), 5316, or 5324 of title 31, or” before “of section 1956, 1957, or 1960 of this title” and struck out at end “However, no property shall be seized or forfeited in the case of a violation of section 5313(a) of title 31 by a domestic financial institution examined by a Federal bank supervisory agency or a financial institution regulated by the Securities and Exchange Commission or a partner, director, or employee thereof.”
 
-2000—Subsec. (a)(6). Pub. L. 106–185, §18(b)(2), (3), designated concluding provisions of subpar. (A) as subpar. (B), substituted “The court, in imposing sentence on a person described in subparagraph (A)” for “The court, in imposing sentence on such person” and “that subparagraph” for “this subparagraph”, and struck out former subpar. (B), which read as follows: “The criminal forfeiture of property under subparagraph (A), including any seizure and disposition of the property and any related administrative or judicial proceeding, shall be governed by the provisions of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853), other than subsections (a) and (d) of such section 413.”
+<b>2000</b>—Subsec. (a)(6). Pub. L. 106–185, §18(b)(2), (3), designated concluding provisions of subpar. (A) as subpar. (B), substituted “The court, in imposing sentence on a person described in subparagraph (A)” for “The court, in imposing sentence on such person” and “that subparagraph” for “this subparagraph”, and struck out former subpar. (B), which read as follows: “The criminal forfeiture of property under subparagraph (A), including any seizure and disposition of the property and any related administrative or judicial proceeding, shall be governed by the provisions of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853), other than subsections (a) and (d) of such section 413.”
 
 Subsec. (a)(6)(A). Pub. L. 106–185, §18(b)(1)(A), inserted “section 274(a), 274A(a)(1), or 274A(a)(2) of the Immigration and Nationality Act or” after “a person convicted of a violation of, or conspiracy to violate,” in introductory provisions.
 
@@ -90,7 +94,7 @@ Subsec. (a)(6)(A)(i). Pub. L. 106–185, §18(b)(1)(B), substituted “the offen
 
 Subsec. (a)(6)(A)(ii)(I), (II). Pub. L. 106–185, §18(b)(1)(C), substituted “the offense of which the person is convicted” for “a violation of, or a conspiracy to violate, subsection (a), section 274A(a)(1) or 274A(a)(2) of the Immigration and Nationality Act, or section 1028, 1425, 1426, 1427, 1541, 1542, 1543, 1544, or 1546 of this title”.
 
-1998—Subsec. (a)(6), (7). Pub. L. 105–184, §2(1)(A), which directed the amendment of subsec. (a) “by redesignating the second paragraph designated as paragraph (6) as paragraph (7)”, was executed by redesignating par. (6), relating to forfeitures for Federal health care offenses, as (7), to reflect the probable intent of Congress.
+<b>1998</b>—Subsec. (a)(6), (7). Pub. L. 105–184, §2(1)(A), which directed the amendment of subsec. (a) “by redesignating the second paragraph designated as paragraph (6) as paragraph (7)”, was executed by redesignatingpar. (6), relating to forfeitures for Federal health care offenses, as (7), to reflect the probable intent of Congress.
 
 Subsec. (a)(8). Pub. L. 105–184, §2(1)(B), added par. (8).
 
@@ -102,33 +106,37 @@ Subsec. (b)(1). Pub. L. 105–318 amended par. (1) generally. Prior to amendment
 
 Subsec. (b)(1)(A). Pub. L. 105–184, §2(2), substituted “(a)(1), (a)(6), or (a)(8)” for “(a)(1) or (a)(6)”.
 
-1996—Subsec. (a)(6). Pub. L. 104–208 added par. (6) relating to criminal forfeiture for passport and visa related offenses.
+<b>1996</b>—Subsec. (a)(6). Pub. L. 104–208 added par. (6) relating to criminal forfeiture for passport and visa related offenses.
 
 Pub. L. 104–191, §249(a), added par. (6) relating to forfeitures for Federal health care offenses.
 
 Subsec. (b)(1)(A). Pub. L. 104–191, §249(b), inserted “or (a)(6)” after “(a)(1)”.
 
-1994—Subsec. (a)(1). Pub. L. 103–322, §330011(s)(1), amended directory language of Pub. L. 101–647, §1401. See 1990 Amendment note below.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–322, §330011(s)(1), amended directory language of Pub. L. 101–647, §1401. See 1990 Amendment note below.
 
-1992—Subsec. (a)(1). Pub. L. 102–550 substituted “, 1957, or 1960” for “or 1957”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–550 substituted “, 1957, or 1960” for “or 1957”.
 
 Subsec. (a)(2). Pub. L. 102–393 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The court, in imposing sentence on a person convicted of a violation of, or a conspiracy to violate, section 215, 656, 657, 1005, 1006, 1007, 1014, 1341, 1343, or 1344 of this title, affecting a financial institution, shall order that the person forfeit to the United States any property constituting, or derived from, proceeds the person obtained directly or indirectly, as the result of such violation.”
 
 Subsec. (a)(5). Pub. L. 102–519 added par. (5).
 
-1990—Subsec. (a)(1). Pub. L. 101–647, §1401, as amended by Pub. L. 103–322, §330011(s)(1), inserted “, 5316,” after “5313(a)”, the first place appearing.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–647, §1401, as amended by Pub. L. 103–322, §330011(s)(1), inserted “, 5316,” after “5313(a)”, the first place appearing.
 
 Subsec. (a)(3), (4). Pub. L. 101–647, §2525(b), added pars. (3) and (4).
 
 Subsec. (b)(2). Pub. L. 101–647, §1403, inserted before period at end “unless the defendant, in committing the offense or offenses giving rise to the forfeiture, conducted three or more separate transactions involving a total of $100,000 or more in any twelve month period”.
 
-1989—Subsec. (a). Pub. L. 101–73, §963(c)(1), designated existing provisions as par. (1) and added par. (2).
+<b>1989</b>—Subsec. (a). Pub. L. 101–73, §963(c)(1), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (b). Pub. L. 101–73, §963(c)(2), struck out “The provisions of subsections 413(c) and (e) through (p) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853(c) and (e)–(p)) shall apply to property subject to forfeiture under this section, to any seizure or disposition thereof, and to any administrative or judicial proceeding in relation thereto, if not inconsistent with this section. However, the”, added par. (1), and inserted “(2) The” before “substitution of assets”.
 
-1988—Subsec. (a). Pub. L. 100–690, §6463(c), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The court, in imposing sentence on a person convicted of an offense under section 1956 or 1957 of this title shall order that the person forfeit to the United States any property, real or personal, which represents the gross receipts the person obtained, directly or indirectly, as a result of such offense, or which is traceable to such gross receipts.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–690, §6463(c), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The court, in imposing sentence on a person convicted of an offense under section 1956 or 1957 of this title shall order that the person forfeit to the United States any property, real or personal, which represents the gross receipts the person obtained, directly or indirectly, as a result of such offense, or which is traceable to such gross receipts.”
 
 Subsec. (b). Pub. L. 100–690, §6464, substituted “(p)” for “(<i>o</i>)” in two places and inserted at end “However, the substitution of assets provisions of subsection 413(p) not be used to order a defendant to forfeit assets in place of the actual property laundered where such defendant acted merely as an intermediary who handled but did not retain the property in the course of the money laundering offense.”
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
 #### Effective Date of 2000 Amendment
 

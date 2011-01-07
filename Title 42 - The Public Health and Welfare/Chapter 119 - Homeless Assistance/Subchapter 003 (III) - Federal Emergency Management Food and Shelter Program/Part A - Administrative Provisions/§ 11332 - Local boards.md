@@ -22,7 +22,7 @@ Each local board shall—
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–645 inserted before period at end of second sentence “, and except that each local board administering program funds for a locality within which is located a reservation (as such term is defined in section 1452(d) of title 25, or a portion thereof, shall include a board member who is a member of an Indian tribe (as such term is defined in section 5302(a)(17) of this title”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–645 inserted before period at end of second sentence “, and except that each local board administering program funds for a locality within which is located a reservation (as such term is defined in section 1452(d) of title 25, or a portion thereof, shall include a board member who is a member of an Indian tribe (as such term is defined in section 5302(a)(17) of this title”.
 
 #### Implementation of 1990 Amendment
 

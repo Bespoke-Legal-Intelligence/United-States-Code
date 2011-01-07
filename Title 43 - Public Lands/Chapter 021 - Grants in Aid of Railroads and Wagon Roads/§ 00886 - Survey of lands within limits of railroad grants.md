@@ -6,7 +6,7 @@ For the survey of the public lands lying within the limits of land grants made b
 
 #### Amendments
 
-1980—Pub. L. 96–470 struck out provision requiring Secretary of the Interior to report to each regular session of Congress what has been done under this section.
+<b>1980</b>—Pub. L. 96–470 struck out provision requiring Secretary of the Interior to report to each regular session of Congress what has been done under this section.
 
 #### Appropriations
 

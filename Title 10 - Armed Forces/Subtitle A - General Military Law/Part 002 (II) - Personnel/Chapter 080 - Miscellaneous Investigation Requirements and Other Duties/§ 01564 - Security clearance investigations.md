@@ -2,7 +2,25 @@
 
 (a)
 
-Expedited Process.—The Secretary of Defense shall prescribe a process for expediting the completion of the background investigations necessary for granting security clearances for Department of Defense personnel and Department of Defense contractor personnel who are engaged in sensitive duties that are critical to the national security.
+Expedited Process.—The Secretary of Defense may prescribe a process for expediting the completion of the background investigations necessary for granting security clearances for—
+
+&emsp;(1) Department of Defense personnel and Department of Defense contractor personnel who are engaged in sensitive duties that are critical to the national security; and
+
+&emsp;(2) any individual who—
+
+&emsp;&emsp;(A) submits an application for a position as an employee of the Department of Defense for which—
+
+&emsp;&emsp;&emsp;(i) the individual is qualified; and
+
+&emsp;&emsp;&emsp;(ii) a security clearance is required; and
+
+&emsp;&emsp;(B) is—
+
+&emsp;&emsp;&emsp;(i) a member of the armed forces who was retired or separated, or is expected to be retired or separated, for physical disability pursuant to chapter 61 of this title;
+
+&emsp;&emsp;&emsp;(ii) the spouse of a member of the armed forces who retires or is separated, after the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, for a physical disability as a result of a wound, injuries or illness incurred or aggravated in the line of duty (as determined by the Secretary concerned); or
+
+&emsp;&emsp;&emsp;(iii) the spouse of a member of the armed forces who dies, after the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, as a result of a wound, injury, or illness incurred or aggravated in the line of duty (as determined by the Secretary concerned).
 
 (b)
 
@@ -26,7 +44,25 @@ Consultation Requirement.—The Secretary shall consult with the Secretaries of 
 
 Sensitive Duties.—For the purposes of this section, it is not necessary for the performance of duties to involve classified activities or classified matters in order for the duties to be considered sensitive and critical to the national security.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1072(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–276.)
+(f)
+
+Use of Appropriated Funds.—The Secretary of Defense may use funds authorized to be appropriated to the Department of Defense for operation and maintenance to conduct background investigations under this section for individuals described in subsection (a)(2).
+
+(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1072(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–276; amended Pub. L. 111–383, div. A, title III, §351(a), Jan. 7, 2011, 124 Stat. 4192.)
+
+#### References in Text
+
+The date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, referred to in subsec. (a)(2)(B)(ii), (iii), is the date of enactment of Pub. L. 111–383, which was approved Jan. 7, 2011.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 111–383, §351(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary of Defense shall prescribe a process for expediting the completion of the background investigations necessary for granting security clearances for Department of Defense personnel and Department of Defense contractor personnel who are engaged in sensitive duties that are critical to the national security.”
+
+Subsec. (f). Pub. L. 111–383, §351(a)(2), added subsec. (f).
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–383, div. A, title III, §351(b), Jan. 7, 2011, 124 Stat. 4193, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to a background investigation conducted after the date of the enactment of this Act \[Jan. 7, 2011\].”
 
 #### Deadline for Prescribing Process for Prioritizing Background Investigations for Security Clearances
 

@@ -26,5 +26,5 @@ The decision of the Board on any question or other matter relating to an appeal 
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–85 substituted “Commission” for “President”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–85 substituted “Commission” for “President”.
 

@@ -22,7 +22,19 @@ The exemptions provided in section 77c of this title shall not apply to the prov
 
 The authority of the Commission under this section with respect to security-based swap agreements (as defined in section 206B of the Gramm-Leach-Bliley Act) shall be subject to the restrictions and limitations of section 77b–1(b) of this title.
 
-(May 27, 1933, ch. 38, title I, §17, 48 Stat. 84; Aug. 10, 1954, ch. 667, title I, §10, 68 Stat. 686; Pub. L. 106–554, §1(a)(5) \[title III, §302(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–452.)
+(May 27, 1933, ch. 38, title I, §17, 48 Stat. 84; Aug. 10, 1954, ch. 667, title I, §10, 68 Stat. 686; Pub. L. 106–554, §1(a)(5) \[title III, §302(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–452; Pub. L. 111–203, title VII, §762(c)(2), July 21, 2010, 124 Stat. 1759.)
+
+#### Amendment of Subsections (a) and (d)
+
+<i>Pub. L. 111–203, title VII, §§762(c)(2), 774, July 21, 2010, 124 Stat. 1759, 1802, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)—</i>
+
+<i>(A) by inserting “(including security-based swaps)” after “securities”; and</i>
+
+<i>(B) by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)” and inserting “(as defined in section 78c(a)(78) of this title)”; and</i>
+
+<i>(2) in subsection (d), by striking “206B of the Gramm-Leach-Bliley Act” and inserting “78c(a)(78) of this title”.</i>
 
 #### References in Text
 
@@ -30,7 +42,7 @@ Section 206B of the Gramm-Leach-Bliley Act, referred to in subsecs. (a) and (d),
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title III, §302(b)\], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “It shall be unlawful for any person in the offer or sale of any securities by the use of any means or instruments of transportationor communication in interstate commerce or by the use of the mails, directly or indirectly—
+<b>2000</b>—Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title III, §302(b)\], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “It shall be unlawful for any person in the offer or sale of any securities by the use of any means or instruments of transportation or communication in interstate commerce or by the use of the mails, directly or indirectly—
 
 &emsp;“(1) to employ any device, scheme, or artifice to defraud, or
 
@@ -40,7 +52,11 @@ Section 206B of the Gramm-Leach-Bliley Act, referred to in subsecs. (a) and (d),
 
 Subsec. (d). Pub. L. 106–554, §1(a)(5) \[title III, §302(c)\], added subsec. (d).
 
-1954—Subsec. (a). Act Aug. 10, 1954, inserted “offer or” before “sale” in introductory text.
+<b>1954</b>—Subsec. (a). Act Aug. 10, 1954, inserted “offer or” before “sale” in introductory text.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
 
 #### Effective Date of 1954 Amendment
 

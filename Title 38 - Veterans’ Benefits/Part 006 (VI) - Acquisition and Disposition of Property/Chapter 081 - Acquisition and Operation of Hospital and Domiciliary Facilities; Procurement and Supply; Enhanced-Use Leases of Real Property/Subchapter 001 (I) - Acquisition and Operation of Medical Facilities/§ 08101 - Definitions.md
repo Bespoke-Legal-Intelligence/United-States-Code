@@ -14,9 +14,9 @@ For the purposes of this subchapter:
 
 #### Amendments
 
-1996—Par. (2). Pub. L. 104–262 substituted “construction documents” for “working drawings” and “design development” for “preliminary plans”.
+<b>1996</b>—Par. (2). Pub. L. 104–262 substituted “construction documents” for “working drawings” and “design development” for “preliminary plans”.
 
-1991—Pub. L. 102–40 renumbered section 5001 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5001 of this title as this section.
 
 Par. (3). Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 
@@ -28,5 +28,5 @@ Section 302 of Pub. L. 96–22 provided that:
 
 “(b)(1) The amendments made by section 301 shall not apply with respect to the acquisition, construction, or alteration of any medical facility (as defined in section 5001(3) \[now 8101(3)\] of title 38, United States Code, as amended by section 301(a) of this Act) if such acquisition, construction, or alteration (not including exchange) was approved before October 1, 1979, by the President.
 
-“(2) The provisions of section 5007(a) \[now 8107(a)\] of title 38, United States Code, as amended by section 301(a) of this Act, shall take effect on the date of the enactment of this Act \[June 13, 1979\].”
+“(2) The provisions of \[former\] section 5007(a) of title 38, United States Code, as amended by section 301(a) of this Act, shall take effect on the date of the enactment of this Act \[June 13, 1979\].”
 

@@ -24,5 +24,117 @@ Subject to continued protection and use of Hassel Island for park and recreation
 
 #### Amendments
 
-1978—Pub. L. 95–348 designated existing provisions as subsec. (a), inserted provisions respecting acquisitions of up to 6.6 acres, and added subsecs. (b) to (d).
+<b>1978</b>—Pub. L. 95–348 designated existing provisions as subsec. (a), inserted provisions respecting acquisitions of up to 6.6 acres, and added subsecs. (b) to (d).
+
+#### Caneel Bay Lease Authorization
+
+Pub. L. 111–261, §1, Oct. 8, 2010, 124 Stat. 2777, provided that:
+
+“(a)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Park.—The term ‘Park’ means the Virgin Islands National Park.
+
+&emsp;“(2)
+
+Resort.—The term ‘resort’ means the Caneel Bay resort on the island of St. John in the Park.
+
+&emsp;“(3)
+
+Retained use estate.—The term ‘retained use estate’ means the retained use estate for the Caneel Bay property on the island of St. John entered into between the Jackson Hole Preserve and the United States on September 30, 1983 (as amended, assigned, and assumed).
+
+&emsp;“(4)
+
+Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
+
+“(b)
+
+Lease Authorization.—
+
+&emsp;“(1)
+
+In general.—If the Secretary determines that the long-term benefit to the Park would be greater by entering into a lease with the owner of the retained use estate than by authorizing a concession contract upon the termination of the retained use estate, the Secretary may enter into a lease with the owner of the retained use estate for the operation and management of the resort.
+
+&emsp;“(2)
+
+Acquisitions.—The Secretary may—
+
+&emsp;&emsp;“(A) acquire associated property from the owner of the retained use estate; and
+
+&emsp;&emsp;“(B) on the acquisition of property under subparagraph (A), administer the property as part of the Park.
+
+&emsp;“(3)
+
+Authority.—Except as otherwise provided by this section, a lease shall be in accordance with subsection (k) of section 3 of Public Law 91–383 (16 U.S.C. 1a–2(k)), notwithstanding paragraph (2) of that subsection.
+
+&emsp;“(4)
+
+Terms and conditions.—A lease authorized under this section shall—
+
+&emsp;&emsp;“(A) be for the minimum number of years practicable, taking into consideration the need for the lessee to secure financing for necessary capital improvements to the resort, but in no event shall the term of the lease exceed 40 years;
+
+&emsp;&emsp;“(B) prohibit any transfer, assignment, or sale of the lease or otherwise convey or pledge any interest in the lease without prior written notification to, and approval by the Secretary;
+
+&emsp;&emsp;“(C) ensure that the general character of the resort property remains unchanged, including a prohibition against—
+
+&emsp;&emsp;&emsp;“(i) any increase in the overall size of the resort; or
+
+&emsp;&emsp;&emsp;“(ii) any increase in the number of guest accommodations available at the resort;
+
+&emsp;&emsp;“(D) prohibit the sale of partial ownership shares or timeshares in the resort;
+
+&emsp;&emsp;“(E) include provisions to ensure the protection of the natural, cultural, and historic features of the resort and associated property, consistent with the laws and policies applicable to property managed by the National Park Service; and
+
+&emsp;&emsp;“(F) include any other provisions determined by the Secretary to be necessary to protect the Park and the public interest.
+
+&emsp;“(5)
+
+Rental amounts.—In determining the fair market value rental of the lease required under section 3(k)(4) of Public Law 91–383 (16 U.S.C. 1a–2(k)(4)), the Secretary shall take into consideration—
+
+&emsp;&emsp;“(A) the value of any associated property conveyed to the United States; and
+
+&emsp;&emsp;“(B) the value, if any, of the relinquished term of the retained use estate.
+
+&emsp;“(6)
+
+Use of proceeds.—Rental amounts paid to the United States under a lease shall be available to the Secretary, without further appropriation, for visitor services and resource protection within the Park.
+
+&emsp;“(7)
+
+Congressional notification.—The Secretary shall submit a proposed lease under this section to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives at least 60 days before the award of the lease.
+
+&emsp;“(8)
+
+Renewal.—A lease entered into under this section may not be extended or renewed.
+
+&emsp;“(9)
+
+Termination.—Upon the termination of a lease entered into under this section, if the Secretary determines the continuation of commercial services at the resort to be appropriate, the services shall be provided in accordance with the National Park Service Concessions Management Improvement Act of 1998 (16 U.S.C. 5951 et seq.).
+
+“(c)
+
+Retained Use Estate.—
+
+&emsp;“(1)
+
+In general.—As a condition of the lease, the owner of the retained use estate shall terminate, extinguish, and relinquish to the Secretary all rights under the retained use estate and shall transfer, without consideration, ownership of improvements on the retained use estate to the National Park Service.
+
+&emsp;“(2)
+
+Appraisal.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Secretary shall require an appraisal by an independent, qualified appraiser who is agreed to by the Secretary and the owner of the retained use estate to determine the value, if any, of the relinquished term of the retained use estate.
+
+&emsp;&emsp;“(B)
+
+Requirements.—An appraisal under paragraph (1) shall be conducted in accordance with—
+
+&emsp;&emsp;&emsp;“(i) the Uniform Appraisal Standards for Federal Land Acquisitions; and
+
+&emsp;&emsp;&emsp;“(ii) the Uniform Standards of Professional Appraisal Practice.”
 

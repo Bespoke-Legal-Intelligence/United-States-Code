@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3), and notwithstanding section 1341 of title 31 and section 11 of title 41, the Secretary may acquire vessels for the NOAA fleet by purchase, lease, lease-purchase, or otherwise, under one or more multiyear contracts.
+&emsp;Subject to paragraphs (2) and (3), and notwithstanding section 1341 of title 31 and subsections (a) and (b) of section 6301 of title 41, the Secretary may acquire vessels for the NOAA fleet by purchase, lease, lease-purchase, or otherwise, under one or more multiyear contracts.
 
 #### (2) Required findings
 
@@ -34,7 +34,7 @@
 
 #### (b) Service contracts
 
-Notwithstanding any other provision of law, the Secretary may enter into multiyear contracts for oceanographic research, fisheries research, and mapping and charting services to assist the Secretary in fulfilling NOAA missions.The Secretary may only enter into these contracts if—
+Notwithstanding any other provision of law, the Secretary may enter into multiyear contracts for oceanographic research, fisheries research, and mapping and charting services to assist the Secretary in fulfilling NOAA missions. The Secretary may only enter into these contracts if—
 
 &emsp;(1) the Secretary finds that it is in the public interest to do so;
 
@@ -49,4 +49,8 @@ Notwithstanding any other provision of law, the Secretary may enter into multiye
 Notwithstanding any other law, the Secretary may not require a contractor for the construction, alteration, repair or maintenance of a NOAA vessel to provide a bid bond, payment bond, performance bond, completion bond, or other surety instrument in an amount greater than 20 percent of the value of the base contract quantity (excluding options) unless the Secretary determines that requiring an instrument in that amount will not prevent a responsible bidder or offeror from competing for the award of the contract.
 
 (Pub. L. 102–567, title VI, §606, Oct. 29, 1992, 106 Stat. 4301.)
+
+#### Codification
+
+In subsec. (a)(1), “subsections (a) and (b) of section 6301 of title 41” substituted for “section 3732 of the Revised Statutes of the United States (41 U.S.C. 11)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(ii) assist in identifying the cause or causes of an unusual mortality event;
 
-&emsp;&emsp;&emsp;(iii) determine the effects of an unusual mortality event on the size estimates ofthe affected populations of marine mammals; and
+&emsp;&emsp;&emsp;(iii) determine the effects of an unusual mortality event on the size estimates of the affected populations of marine mammals; and
 
 &emsp;&emsp;&emsp;(iv) identify any roles played in an unusual mortality event by physical, chemical, and biological factors, including contaminants.
 

@@ -58,11 +58,11 @@ Financial Services Defined.—In this section, the term “financial services”
 
 &emsp;(3) Banking, credit, loans, deferred payment plans, and mortgages.
 
-(Added Pub. L. 109–163, div. A, title V, §578(a)(1), Jan. 6, 2006, 119 Stat. 3274; amended Pub. L.111–84, div. A, title X, §1073(a)(8), Oct. 28, 2009, 123 Stat. 2472.)
+(Added Pub. L. 109–163, div. A, title V, §578(a)(1), Jan. 6, 2006, 119 Stat. 3274; amended Pub. L. 111–84, div. A, title X, §1073(a)(8), Oct. 28, 2009, 123 Stat. 2472.)
 
 #### Amendments
 
-2009—Subsec. (b)(4). Pub. L. 111–84 struck out period after “under this section”.
+<b>2009</b>—Subsec. (b)(4). Pub. L. 111–84 struck out period after “under this section”.
 
 #### Effective Date of 2006 Amendment
 
@@ -396,5 +396,5 @@ Reports.—Not later than 12 months after the date of enactment of this Act, the
 
 #### Requirement for Regulations on Policies and Procedures on Personal Commercial Solicitations on Department of Defense Installations
 
-Pub. L. 109–163, div. A, title V, §577(a), Jan. 6, 2006, 119 Stat. 3274, provided that: “As soon as practicable afterthe date of the enactment of this Act \[Jan. 6, 2006\], and not later than March 31, 2006, the Secretary of Defense shall prescribe regulations, or modify existing regulations, on the policies and procedures relating to personal commercial solicitations, including the sale of life insurance and securities, on Department of Defense installations.”
+Pub. L. 109–163, div. A, title V, §577(a), Jan. 6, 2006, 119 Stat. 3274, provided that: “As soon as practicable after the date of the enactment of this Act \[Jan. 6, 2006\], and not later than March 31, 2006, the Secretary of Defense shall prescribe regulations, or modify existing regulations, on the policies and procedures relating to personal commercial solicitations, including the sale of life insurance and securities, on Department of Defense installations.”
 

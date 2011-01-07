@@ -22,7 +22,7 @@ Each institution of higher education shall, at or prior to the time such institu
 
 &emsp;(9) an explanation of any special options the borrower may have for loan consolidation or other refinancing of the loan;
 
-&emsp;(10) a statement that the borrower has the right to prepay all or part of the loan, at any time, without penalty, a statement summarizing circumstances in which repayment of theloan or interest that accrues on the loan may be deferred, and a brief notice of the program for repayment of loans, on the basis of military service, pursuant to the Department of Defense educational loan repayment program (10 U.S.C. 16302);
+&emsp;(10) a statement that the borrower has the right to prepay all or part of the loan, at any time, without penalty, a statement summarizing circumstances in which repayment of the loan or interest that accrues on the loan may be deferred, and a brief notice of the program for repayment of loans, on the basis of military service, pursuant to the Department of Defense educational loan repayment program (10 U.S.C. 16302);
 
 &emsp;(11) a definition of default and the consequences to the borrower if the borrower defaults, together with a statement that the disbursement of, and the default on, a loan under this part, shall be reported to a consumer reporting agency;
 
@@ -64,13 +64,13 @@ A prior section 1087cc–1, Pub. L. 89–329, title IV, §463A, as added Pub. L.
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–39 struck out “, in order to carry out the provisions of section 1087cc(a)(8) of this title,” after “Each institution of higher education” in introductory provisions.
+<b>2009</b>—Subsec. (a). Pub. L. 111–39 struck out “, in order to carry out the provisions of section 1087cc(a)(8) of this title,” after “Each institution of higher education” in introductory provisions.
 
-2008—Subsec. (a)(11). Pub. L. 110–315 substituted “consumer” for “credit bureau or credit”.
+<b>2008</b>—Subsec. (a)(11). Pub. L. 110–315 substituted “consumer” for “credit bureau or credit”.
 
-1996—Subsec. (a)(10). Pub. L. 104–106 substituted “(10 U.S.C. 16302)” for “(10 U.S.C. 2172)”.
+<b>1996</b>—Subsec. (a)(10). Pub. L. 104–106 substituted “(10 U.S.C. 16302)” for “(10 U.S.C. 2172)”.
 
-1993—Subsecs. (d), (e). Pub. L. 103–208 struck out subsecs. (d) and (e), which read as follows:
+<b>1993</b>—Subsecs. (d), (e). Pub. L. 103–208 struck out subsecs. (d) and (e), which read as follows:
 
 “(d)
 
@@ -80,11 +80,11 @@ Limitation on Use of Interest Bearing Accounts.—In carrying out the provisions
 
 Special Due Diligence Rule.—In carrying out the provisions of subsection (a)(5) of this section relating to due diligence, the Secretary shall make every effort to ensure that institutions of higher education may use Internal Revenue Service skip-tracing collection procedures on loans made under this part.”
 
-1992—Subsec. (a)(11). Pub. L. 102–325, §463(c)(1), substituted “together with a statement that the disbursement of, and the default on, a loan under this part, shall be” for “including a statement that the default may be”.
+<b>1992</b>—Subsec. (a)(11). Pub. L. 102–325, §463(c)(1), substituted “together with a statement that the disbursement of, and the default on, a loan under this part, shall be” for “including a statement that the default may be”.
 
 Subsecs. (d), (e). Pub. L. 102–325, §463(c)(2), added subsecs. (d) and (e).
 
-1987—Subsec. (a)(8). Pub. L. 100–50, §13(g), added par. (8) and struck out former par. (8) which read as follows: “a statement of the total cumulative balance owed by the student to that institution, the projected level of indebtedness of the student based on a 2- or 4-year college career, and an estimate of the projected monthly repayment given the level of indebtedness over a 2-, 4-, or 5-year college career;”.
+<b>1987</b>—Subsec. (a)(8). Pub. L. 100–50, §13(g), added par. (8) and struck out former par. (8) which read as follows: “a statement of the total cumulative balance owed by the student to that institution, the projected level of indebtedness of the student based on a 2- or 4-year college career, and an estimate of the projected monthly repayment given the level of indebtedness over a 2-, 4-, or 5-year college career;”.
 
 Subsec. (a)(10). Pub. L. 100–50, §13(h), substituted “the Department of Defense educational loan repayment program (10 U.S.C. 2172)” for “section 902 of the Department of Defense Authorization Act, 1981 (10 U.S.C. 2141, note)”.
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1987 Amendment
 

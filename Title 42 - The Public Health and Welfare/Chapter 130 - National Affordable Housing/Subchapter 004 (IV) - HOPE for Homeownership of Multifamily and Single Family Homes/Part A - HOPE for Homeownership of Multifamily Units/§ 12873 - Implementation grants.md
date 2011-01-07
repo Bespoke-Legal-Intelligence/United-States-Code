@@ -136,7 +136,7 @@ This title, referred to in subsec. (d)(6), means title IV of Pub. L. 101–625, 
 
 #### Amendments
 
-1992—Subsec. (b)(4) to (14). Pub. L. 102–550 added par. (4) and redesignated former pars. (4) to (13) as (5) to (14), respectively.
+<b>1992</b>—Subsec. (b)(4) to (14). Pub. L. 102–550 added par. (4) and redesignated former pars. (4) to (13) as (5) to (14), respectively.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

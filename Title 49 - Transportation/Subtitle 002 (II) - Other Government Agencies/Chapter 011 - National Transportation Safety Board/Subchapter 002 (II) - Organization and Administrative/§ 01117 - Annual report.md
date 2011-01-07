@@ -4,7 +4,7 @@ The National Transportation Safety Board shall submit a report to Congress on Ju
 
 &emsp;(1) a statistical and analytical summary of the transportation accident investigations conducted and reviewed by the Board during the prior calendar year;
 
-&emsp;(2) a survey and summary of the recommendations made by the Board to reduce the likelihood of recurrence of those accidents together with the observed response to each recommendation;
+&emsp;(2) a survey and summary of the recommendations made by the Board to reduce thelikelihood of recurrence of those accidents together with the observed response to each recommendation;
 
 &emsp;(3) a detailed appraisal of the accident investigation and accident prevention activities of other departments, agencies, and instrumentalities of the United States Government and State and local governmental authorities having responsibility for those activities under a law of the United States or a State;
 
@@ -36,9 +36,9 @@ In this section, before clause (1), the words “but need not be limited to” a
 
 #### Amendments
 
-2006—Pars. (4) to (6). Pub. L. 109–443 added pars. (4) to (6).
+<b>2006</b>—Pars. (4) to (6). Pub. L. 109–443 added pars. (4) to (6).
 
-1995—Par. (4). Pub. L. 104–66 struck out par. (4) which read as follows: “an evaluation conducted every 2 yearsof transportation safety and recommendations for legislative and administrative action and change.”
+<b>1995</b>—Par. (4). Pub. L. 104–66 struck out par. (4) which read as follows: “an evaluation conducted every 2 years of transportation safety and recommendations for legislative and administrative action and change.”
 
 #### Termination of Reporting Requirements
 

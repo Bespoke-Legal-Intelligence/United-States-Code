@@ -24,7 +24,7 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in last par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in last par.
 
-1990—Pub. L. 101–647, which directed insertion of “section 11, 12, or 13 of the Federal Deposit Insurance Act” after “consideration of any action brought under”, could not be executed because the words “consideration of any action brought under” did not appear.
+<b>1990</b>—Pub. L. 101–647, which directed insertion of “section 11, 12, or 13 of the Federal Deposit Insurance Act” after “consideration of any action brought under”, could not be executed because the words “consideration of any action brought under” did not appear.
 

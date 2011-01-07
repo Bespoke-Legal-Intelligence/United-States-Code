@@ -26,7 +26,7 @@ Definitions.—For purposes of this section—
 
 &emsp;(9) the term “sexually explicit conduct” means actual or simulated—
 
-&emsp;&emsp;(A) sexual intercourse, including sexual contact in the manner of genital-genital, oral-genital, anal-genital, or oral-anal contact, whether between persons of the same or of opposite sex; sexual contact means the intentional touching, either directly or through clothing, of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person with an intent to abuse, humiliate, harass, degrade, or arouse or gratify sexual desire of any person;
+&emsp;&emsp;(A) sexual intercourse, including sexual contact in the manner of genital-genital, oral-genital, anal-genital, or oral-anal contact, whether between persons of the same or of opposite sex; sexual contact means theintentional touching, either directly or through clothing, of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person with an intent to abuse, humiliate, harass, degrade, or arouse or gratify sexual desire of any person;
 
 &emsp;&emsp;(B) bestiality;
 
@@ -182,7 +182,7 @@ Confidentiality of information.—(A) A person acting in a capacity described in
 
 &emsp;&emsp;(i) keep all documents that disclose the name or any other information concerning a child in a secure place to which no person who does not have reason to know their contents has access; and
 
-&emsp;&emsp;(ii) disclose documents described in clause (i) or the information in them that concerns a child only to persons who, by reason of their participation in the proceeding, have reason to know such information.
+&emsp;&emsp;(ii) disclose documents described in clause (i) or the information in them that concerns a child only to persons who, by reason oftheir participation in the proceeding, have reason to know such information.
 
 &emsp;(B) Subparagraph (A) applies to—
 
@@ -230,7 +230,7 @@ Use of Multidisciplinary Child Abuse Teams.—
 
 &emsp;(1)
 
-In general.—A multidisciplinary child abuse team shall be used when it is feasible todo so. The court shall work with State and local governments that have established multidisciplinary child abuse teams designed to assist child victims and child witnesses, and the court and the attorney for the Government shall consult with the multidisciplinary child abuse team as appropriate.
+In general.—A multidisciplinary child abuse team shall be used when it is feasible to do so. The court shall work with State and local governments that have established multidisciplinary child abuse teams designed to assist child victims and child witnesses, and the court and the attorney for the Government shall consult with the multidisciplinary child abuse team as appropriate.
 
 &emsp;(2)
 
@@ -256,7 +256,7 @@ Guardian Ad Litem.—
 
 &emsp;(1)
 
-In general.—The court may appoint, and provide reasonable compensation and payment of expenses for, a guardian ad litem for a child who was a victim of, or a witness to, a crime involving abuse or exploitation to protect the best interests of the child. In making the appointment, the court shall consider a prospective guardian's background in, and familiarity with, the judicial process, social service programs, and child abuse issues. The guardian ad litem shall not be a person who is or may be a witness in a proceeding involving the child for whom the guardian is appointed.
+In general.—The court may appoint, and provide reasonable compensation and payment of expenses for, a guardian ad litem for a child who was a victim of, or a witness to, a crime involving abuse or exploitation to protect the best interests of the child. In making the appointment, the court shall consider a prospective guardian's background in, and familiarity with, the judicial process, social service programs, and child abuse issues. The guardian adlitem shall not be a person who is or may be a witness in a proceeding involving the child for whom the guardian is appointed.
 
 &emsp;(2)
 
@@ -288,7 +288,7 @@ Prohibition on Reproduction of Child Pornography.—
 
 &emsp;(1) In any criminal proceeding, any property or material that constitutes child pornography (as defined by section 2256 of this title) shall remain in the care, custody, and control of either the Government or the court.
 
-&emsp;(2)(A) Notwithstanding Rule 16 of the Federal Rules of Criminal Procedure, a court shall deny, in any criminal proceeding, any request by the defendant to copy, photograph, duplicate, or otherwise reproduce any property or material that constitutes child pornography\(as defined by section 2256 of this title), so long as the Government makes the property or material reasonably available to the defendant.
+&emsp;(2)(A) Notwithstanding Rule 16 of the Federal Rules of Criminal Procedure, a court shall deny, in any criminal proceeding, any request by the defendant to copy, photograph, duplicate, or otherwise reproduce any property or material that constitutes child pornography (as defined by section 2256 of this title), so long as the Government makes the property or material reasonably available to the defendant.
 
 &emsp;(B) For the purposes of subparagraph (A), property or material shall be deemed to be reasonably available to the defendant if the Government provides ample opportunity for inspection, viewing, and examination at a Government facility of the property or material by the defendant, his or her attorney, and any individual the defendant may seek to qualify to furnish expert testimony at trial.
 
@@ -302,17 +302,17 @@ The Federal Rules of Criminal Procedure, referred to in subsecs. (f) and (m)(2)(
 
 #### Amendments
 
-2009—Subsec. (b)(1)(A). Pub. L. 111–16 substituted “7 days” for “5 days”.
+<b>2009</b>—Subsec. (b)(1)(A). Pub. L. 111–16 substituted “7 days” for “5 days”.
 
-2006—Subsec. (h)(1). Pub. L. 109–248, §507, inserted “, and provide reasonable compensation and payment of expenses for,” after “The court may appoint”.
+<b>2006</b>—Subsec. (h)(1). Pub. L. 109–248, §507, inserted “, and provide reasonable compensation and payment of expenses for,” after “The court may appoint”.
 
 Subsec. (m). Pub. L. 109–248, §504, added subsec. (m).
 
-1996—Subsec. (e). Pub. L. 104–294, §605(h)(1), substituted “serve the Government's” for “serve the government's”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–294, §605(h)(1), substituted “serve the Government's” for “serve the government's”.
 
 Subsec. (h)(3). Pub. L. 104–294, §605(h)(2), substituted “in paragraph (2)” for “in subpart (2)”.
 
-1994—Pub. L. 103–322, §330011(e), made technical amendment to directory language of Pub. L. 101–647, §225(a), which enacted this section.
+<b>1994</b>—Pub. L. 103–322, §330011(e), made technical amendment to directory language of Pub. L. 101–647, §225(a), which enacted this section.
 
 Pub. L. 103–322, §330010(7)(B), substituted “Government” for “government” in subsecs. (b)(1)(A), (D), (2)(A), and (c)(5)(B), in subsec. (d)(1)(B)(i) after “hired by the”, and in subsec. (g)(1).
 

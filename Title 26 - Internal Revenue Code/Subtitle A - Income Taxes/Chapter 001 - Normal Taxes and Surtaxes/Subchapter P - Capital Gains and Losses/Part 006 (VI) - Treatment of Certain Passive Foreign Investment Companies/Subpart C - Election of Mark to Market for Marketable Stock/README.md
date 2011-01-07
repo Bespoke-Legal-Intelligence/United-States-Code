@@ -8,7 +8,7 @@ Subpart C—Election of Mark to Market for Marketable Stock
 
 #### Amendments
 
-1997—Pub. L. 105–34, title XI, §1122(a), Aug. 5, 1997, 111 Stat. 972, added subpart C and item 1296. Former subpart C redesignated D.
+<b>1997</b>—Pub. L. 105–34, title XI, §1122(a), Aug. 5, 1997, 111 Stat. 972, added subpart C and item 1296. Former subpart C redesignated D.
 
 #### Prior Provisions
 

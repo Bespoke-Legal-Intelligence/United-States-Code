@@ -2,7 +2,7 @@
 
 Whoever recruits soldiers or sailors within the United States, or in any place subject to the jurisdiction thereof, to engage in armed hostility against the same; or
 
-Whoever opens within the United States, or in any place subject to the jurisdiction thereof, a recruiting station for the enlistment of such soldiers or sailors to serve in any manner in armed hostility against the United States—
+Whoever opens within the United States, or in any place subject to the jurisdiction thereof, arecruiting station for the enlistment of such soldiers or sailors to serve in any manner in armed hostility against the United States—
 
 Shall be fined under this title or imprisoned not more than five years, or both.
 
@@ -18,5 +18,5 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in last par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in last par.
 

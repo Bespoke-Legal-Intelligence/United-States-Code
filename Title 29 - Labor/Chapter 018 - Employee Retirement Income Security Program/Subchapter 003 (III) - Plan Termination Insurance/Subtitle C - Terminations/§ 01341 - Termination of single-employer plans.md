@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) that the plan is projected to be sufficient (as of such proposed date of final distribution) for such benefit liabilities,
 
-&emsp;&emsp;&emsp;(ii) such information as the corporation may prescribe in regulations as necessaryto enable the corporation to make determinations under subparagraph (C), and
+&emsp;&emsp;&emsp;(ii) such information as the corporation may prescribe in regulations as necessary to enable the corporation to make determinations under subparagraph (C), and
 
 &emsp;&emsp;&emsp;(iii) certification by the plan administrator that—
 
@@ -204,7 +204,7 @@
 
 &emsp;&emsp;&emsp;The requirements of this clause are met by a person if—
 
-&emsp;&emsp;&emsp;&emsp;(I) such person has filed or has had filed against such person, as of the proposed termination date, a petition seeking liquidation in a case under title 11 or under any similar Federal law or law of a State or political subdivision of a State (or a case described in clause (ii) filed by or against such person has been converted, as of such date, to a case in which liquidation is sought), and
+&emsp;&emsp;&emsp;&emsp;(I) such person has filed or has had filed against such person, as of the proposed termination date, a petition seeking liquidation in a case under title 11 or under any similar Federal law or law ofa State or political subdivision of a State (or a case described in clause (ii) filed by or against such person has been converted, as of such date, to a case in which liquidation is sought), and
 
 &emsp;&emsp;&emsp;&emsp;(II) such case has not, as of the proposed termination date, been dismissed.
 
@@ -354,17 +354,17 @@ Chapter 11, referred to in subsec. (c)(2)(B)(ii)(IV), probably means chapter 11 
 
 #### Amendments
 
-2008—Subsec. (b)(5)(A). Pub. L. 110–458, §104(d), substituted “subparagraphs (B) and (D)” for “subparagraph (B)” in introductory provisions.
+<b>2008</b>—Subsec. (b)(5)(A). Pub. L. 110–458, §104(d), substituted “subparagraphs (B) and (D)” for “subparagraph (B)” in introductory provisions.
 
 Subsec. (c)(2)(D)(i). Pub. L. 110–458, §105(e)(1), substituted “subparagraph (A) or the regulations under subsection (a)(2)” for “subsection (a)(2)”.
 
-2006—Subsec. (b)(5). Pub. L. 109–280, §409(a), added par. (5).
+<b>2006</b>—Subsec. (b)(5). Pub. L. 109–280, §409(a), added par. (5).
 
 Subsec. (c)(1)(C). Pub. L. 109–280, §506(a)(2), substituted “subparagraphs (B) and (D)” for “subparagraph (B)”.
 
 Subsec. (c)(2)(D). Pub. L. 109–280, §506(a)(1), added subpar. (D).
 
-1994—Subsec. (b)(2)(C)(i)(I). Pub. L. 103–465, §778(a)(1)(A), added subcl. (I) and struck out former subcl. (I) which read as follows: “It has reason to believe that any requirement of subsection (a)(2) of this section or subparagraph (A) or (B) has not been met, or”.
+<b>1994</b>—Subsec. (b)(2)(C)(i)(I). Pub. L. 103–465, §778(a)(1)(A), added subcl. (I) and struck out former subcl. (I) which read as follows: “It has reason to believe that any requirement of subsection (a)(2) of this section or subparagraph (A) or (B) has not been met, or”.
 
 Subsec. (b)(2)(C)(i)(III). Pub. L. 103–465, §778(a)(1)(B), (C), added subcl. (III).
 
@@ -372,7 +372,7 @@ Subsec. (b)(3)(A)(ii). Pub. L. 103–465, §776(b)(3), inserted at end “A tran
 
 Subsec. (c)(2)(B)(i)(I). Pub. L. 103–465, §778(b)(1), inserted “Federal law or” after “under any similar”.
 
-1989—Subsec. (b)(2)(A). Pub. L. 101–239, §7881(g)(6), realigned margin of last sentence.
+<b>1989</b>—Subsec. (b)(2)(A). Pub. L. 101–239, §7881(g)(6), realigned margin of last sentence.
 
 Subsec. (b)(2)(B). Pub. L. 101–239, §7893(c), realigned margin of last sentence.
 
@@ -394,7 +394,7 @@ Subsec. (c)(3)(D)(ii)(I). Pub. L. 101–239, §7893(d)(2), substituted “under 
 
 Subsec. (d)(1). Pub. L. 101–239, §7881(g)(1), substituted “sufficient for benefit liabilities” for “sufficient for benefit commitments”.
 
-1987—Subsec. (b)(1)(D). Pub. L. 100–203, §9313(a)(1), amended subpar. (D) generally. Prior to amendment,subpar. (D) read as follows: “when the final distribution of assets occurs, the plan is sufficient for benefit commitments (determined as of the termination date).”
+<b>1987</b>—Subsec. (b)(1)(D). Pub. L. 100–203, §9313(a)(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “when the final distribution of assets occurs, the plan is sufficient for benefit commitments (determined as of the termination date).”
 
 Subsec. (b)(2)(A). Pub. L. 100–203, §9314(a)(1)(B), inserted at end “Clause (i) and clause (iii)(I) shall not apply to a plan described in section 412(i) of title 26.”
 
@@ -414,7 +414,7 @@ Subsec. (b)(3)(A)(ii). Pub. L. 100–203, §9313(a)(2)(C)(i), added cl. (ii) and
 
 Pub. L. 100–203, §9313(a)(2)(A), substituted “benefit liabilities” for “benefit commitments”.
 
-Subsec. (b)(3)(B). Pub. L. 100–203, §9313(a)(2)(C)(ii), substituted “so as to pay all benefit liabilities under the plan” for “so as to pay the benefit liabilities under the plan and all other benefits under the plan to which assets are required to be allocated under section 1344 of this title.”
+Subsec. (b)(3)(B). Pub. L. 100–203, §9313(a)(2)(C)(ii), substituted “so as to pay all benefit liabilities underthe plan” for “so as to pay the benefit liabilities under the plan and all other benefits under the plan to which assets are required to be allocated under section 1344 of this title.”
 
 Pub. L. 100–203, §9313(a)(2)(A), substituted “benefit liabilities” for “benefit commitments”.
 
@@ -460,7 +460,7 @@ Subsec. (c)(3)(D)(ii)(IV). Pub. L. 100–203, §9313(a)(2)(D), substituted “be
 
 Subsec. (d)(1). Pub. L. 100–203, §9313(a)(2)(E), substituted in text, “no amount of unfunded benefit liabilities” for “no amount of unfunded benefit commitments” and in heading, “benefit liabilities” for “benefit commitments”.
 
-1986—Subsec. (a). Pub. L. 99–272, §11007(a), added subsec. (a) relating to general rules governing single-employer plan terminations and struck out former subsec. (a) relating to filing of notice that the plan is to be terminated.
+<b>1986</b>—Subsec. (a). Pub. L. 99–272, §11007(a), added subsec. (a) relating to general rules governing single-employer plan terminations and struck out former subsec. (a) relating to filing of notice that the plan is to be terminated.
 
 Subsec. (b). Pub. L. 99–272, §§11007(a), 11008(a), added subsec. (b) relating to standard termination of single-employer plans and struck out former subsec. (b) relating to notice of sufficiency of plan assets.
 
@@ -474,7 +474,7 @@ Subsec. (f). Pub. L. 99–272, §11009(b)(2), redesignated subsec. (f) as (e).
 
 Pub. L. 99–272, §11008(b), amended subsec. (f) generally, substituting provisions relating to limitation on the conversion of a defined benefit plan to a defined contribution plan, for provisions relating to amendment of a plan with respect to which basic benefits are guaranteed.
 
-1980—Subsec. (a). Pub. L. 96–364, §403(d)(2), inserted “single-employer” after “termination of a”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–364, §403(d)(2), inserted “single-employer” after “termination of a”.
 
 Subsec. (g). Pub. L. 96–364, §403(d)(3), struck out subsec. (g) which related to petition to the appropriate court for appointment of a trustee.
 
@@ -544,7 +544,7 @@ Deemed compliance with notice requirements.—The requirements of subsections (a
 
 &emsp;&emsp;“(B) the notice of intent to terminate provided to the Pension Benefit Guaranty Corporation in connection with the termination was filed with the Corporation not less than 10 days before the proposed date of termination specified in the notice.
 
-> &emsp;For purposes of section 4041 of such Act (as amended by this title), the proposed date of termination specified in the notice of intent to terminate referred to insubparagraph (B) shall be considered the proposed termination date.
+> &emsp;For purposes of section 4041 of such Act (as amended by this title), the proposed date of termination specified in the notice of intent to terminate referred to in subparagraph (B) shall be considered the proposed termination date.
 
 &emsp;“(3)
 
@@ -574,7 +574,7 @@ In general.—In the case of a plan termination described in paragraph (1) with 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
 
-Special notice regarding sufficiency for terminations for which notices of sufficiency have not been issued as of date of enactment.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has not been issued by the Corporation before the date of the enactment of this Act, the Corporation shall make the determinations described in section 4041(c)(3)(A)(i) and (ii) (as amended by this title) and notify the plan administrator of such determinations as provided in section 4041(c)(3)(A)(iii) (as amended by this title).
+Special notice regarding sufficiency for terminations for which notices of sufficiency have not been issued as of date of enactment.—In the case of a plan termination described in paragraph (1) with respect to whichthe Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has not been issued by the Corporation before the date of the enactment of this Act, the Corporation shall make the determinations described in section 4041(c)(3)(A)(i) and (ii) (as amended by this title) and notify the plan administrator of such determinations as provided in section 4041(c)(3)(A)(iii) (as amended by this title).
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -660,7 +660,7 @@ General rule.—Except as provided in subparagraph (B), the Corporation shall no
 
 &emsp;“(B)
 
-Exception in cases of substantial business hardship.—Except in the case of an acquisition, takeover, or leveraged buyout, the preceding provisions of this subsection shall not apply if the contributing sponsor demonstrates to the satisfaction of the Corporation that the contributing sponsor is experiencing substantial business hardship. For purposes of this subparagraph, a contributing sponsor shall be considered as experiencing substantial business hardship if the contributing sponsor has been operating, and can demonstrate that the contributing sponsor will continue to operate, at an economic loss.”
+Exception in cases of substantial business hardship.—Except in the case of an acquisition, takeover, or leveraged buyout, the preceding provisions of this subsection shall not apply if the contributing sponsor demonstrates to the satisfaction of the Corporation that the contributing sponsor is experiencing substantial business hardship. For purposes ofthis subparagraph, a contributing sponsor shall be considered as experiencing substantial business hardship if the contributing sponsor has been operating, and can demonstrate that the contributing sponsor will continue to operate, at an economic loss.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

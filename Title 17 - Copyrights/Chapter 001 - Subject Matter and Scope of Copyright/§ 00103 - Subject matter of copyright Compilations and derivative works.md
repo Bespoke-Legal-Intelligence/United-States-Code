@@ -8,7 +8,7 @@
 
 #### Historical and Revision Notes
 
-I74house report no. 94–1476
+#### house report no. 94–1476
 
 Section 103 complements section 102: A compilation or derivative work is copyrightable if it represents an “original work of authorship” and falls within one or more of the categories listed in section 102. Read together, the two sections make plain that the criteria of copyrightable subject matter stated in section 102 apply with full force to works that are entirely original and to those containing preexisting material. Section 103(b) is also intended to define, more sharply and clearly than does section 7 of the present law \[section 7 of former title 17\], the important interrelationship and correlation between protection of preexisting and of “new” material in a particular work. The most important point here is one that is commonly misunderstood today: copyright in a “new version” covers only the material added by the later author, and has no effect one way or the other on the copyright or public domain status of the preexisting material.
 

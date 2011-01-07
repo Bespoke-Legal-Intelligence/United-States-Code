@@ -16,11 +16,11 @@
 
 (e) The authority of the Secretary to enter into contracts under this section shall be effective for any fiscal year only to the extent that appropriations are available.
 
-(Added Pub. L. 101–366, title II, §201(a)(1), Aug. 15, 1990, 104 Stat. 437, §620C; renumbered §1720C and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–452, title I, §103(c), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(c), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §206(a)–(b)(2), Nov. 21, 1997, 111 Stat. 2289.)
+(Added Pub. L. 101–366, title II, §201(a)(1), Aug. 15, 1990, 104 Stat. 437, §620C; renumbered §1720C and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–452, title I, §103(c), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, titleI, §101(c), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §206(a)–(b)(2), Nov. 21, 1997, 111 Stat. 2289.)
 
 #### Amendments
 
-1997—Pub. L. 105–114, §206(b)(2), struck out “: pilot program” after “home care” in section catchline.
+<b>1997</b>—Pub. L. 105–114, §206(b)(2), struck out “: pilot program” after “home care” in section catchline.
 
 Subsec. (a). Pub. L. 105–114, §206(a), substituted “The Secretary may furnish” for “During the period through December 31, 1997, the Secretary may conduct a pilot program for the furnishing of”.
 
@@ -28,11 +28,11 @@ Subsec. (b)(1). Pub. L. 105–114, §206(b)(1), substituted “Under the program
 
 Subsec. (d). Pub. L. 105–114, §206(b)(1), substituted “under the program” for “under the pilot program”.
 
-1996—Subsec. (a). Pub. L. 104–110 substituted “December 31, 1997” for “September 30, 1995” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–110 substituted “December 31, 1997” for “September 30, 1995” in introductory provisions.
 
-1994—Subsec. (a). Pub. L. 103–452, in introductory provisions, substituted “During the period through September 30, 1995,” for “During the four-year period beginning on October 1, 1990,” and “care. The Secretary shall give priority for participation in such program to veterans who” for “care and who”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–452, in introductory provisions, substituted “During the period through September 30, 1995,” for “During the four-year period beginning on October 1, 1990,” and “care. The Secretary shall give priority for participation in such program to veterans who” for “care and who”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 620C of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 620C of this title as this section.
 
 Subsec. (d). Pub. L. 102–83, §5(c)(1), substituted “1710” for “610”.
 

@@ -6,5 +6,5 @@ There are authorized to be appropriated to the Secretary for carrying out this c
 
 #### Amendments
 
-1992—Pub. L. 102–486 substituted “1993, 1994, 1995, 1996, and 1997, to be derived from such sums as are otherwise authorized under section 13451(e) of title 42” for “and 1993”.
+<b>1992</b>—Pub. L. 102–486 substituted “1993, 1994, 1995, 1996, and 1997, to be derived from such sums as are otherwise authorized under section 13451(e) of title 42” for “and 1993”.
 

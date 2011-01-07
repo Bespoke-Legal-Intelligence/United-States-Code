@@ -16,5 +16,3 @@ Section 4227, Pub. L. 98–365, title III, §307, July 17, 1984, 98 Stat. 459, r
 
 Section 4228, Pub. L. 98–365, title III, §308, as added Pub. L. 100–147, title III, §305, Oct. 30, 1987, 101 Stat. 876, related to disposition of government assets following completion of contract made pursuant to subchapter.
 
-For similar provisions, see section 5601 et seq. of this title.
-

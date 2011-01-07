@@ -12,7 +12,7 @@ Pub. L. 105–269, §1, Oct. 19, 1998, 112 Stat. 2381, provided that: “This Ac
 
 #### Short Title
 
-Act Mar. 16, 1934, ch. 71, §11, as added by Pub. L. 109–266, §10(h), Aug. 3, 2006, 120 Stat. 679, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Migratory Bird Hunting and Conservation Stamp Act’.”
+Act Mar. 16, 1934, ch. 71, §11, as added by Pub. L. 109–266, §10(h), Aug. 3, 2006, 120 Stat. 679, provided that:“This Act \[enacting this subchapter\] may be cited as the ‘Migratory Bird Hunting and Conservation Stamp Act’.”
 
 #### Electronic Duck Stamp Pilot Program
 
@@ -94,7 +94,7 @@ Consultation.—The Secretary shall carry out the program in consultation with S
 
 “(a)
 
-Approval of Application Required.—A State may not participate in the pilot program under thisAct unless the Secretary has received and approved an application submitted by the State in accordance with this section.
+Approval of Application Required.—A State may not participate in the pilot program under this Act unless the Secretary has received and approved an application submitted by the State in accordance with this section.
 
 “(b)
 

@@ -70,9 +70,9 @@ For purposes of subsection (a)—
 
 #### Amendments
 
-1976—Subsec. (a)(2). Pub. L. 94–455 struck out provision that a disclaimer or renunciation of a power of appointment not be deemed a release of that power.
+<b>1976</b>—Subsec. (a)(2). Pub. L. 94–455 struck out provision that a disclaimer or renunciation of a power of appointment not be deemed a release of that power.
 
-1962—Subsec. (a). Pub. L. 87–834 struck out provisions which excepted real property situated outside of the United States.
+<b>1962</b>—Subsec. (a). Pub. L. 87–834 struck out provisions which excepted real property situated outside of the United States.
 
 #### Effective Date of 1976 Amendment
 

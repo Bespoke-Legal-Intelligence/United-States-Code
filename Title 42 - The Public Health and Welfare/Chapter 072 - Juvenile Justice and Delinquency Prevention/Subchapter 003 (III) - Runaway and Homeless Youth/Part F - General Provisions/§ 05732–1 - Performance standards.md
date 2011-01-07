@@ -10,7 +10,7 @@ The Secretary shall consult with representatives of public and nonprofit private
 
 #### (c) Implementation of performance standards
 
-The Secretary shall integrate the performance standards into the processes of the Departmentof Health and Human Services for grantmaking, monitoring, and evaluation for programs under sections 5711, 5714–1, and 5714–41 of this title.
+The Secretary shall integrate the performance standards into the processes of the Department of Health and Human Services for grantmaking, monitoring, and evaluation for programs under sections 5711, 5714–1, and 5714–41 of this title.
 
 (Pub. L. 93–415, title III, §386A, as added Pub. L. 110–378, §8, Oct. 8, 2008, 122 Stat. 4071.)
 

@@ -22,7 +22,7 @@ The judges shall be officers or employees of the Department. The judges shall me
 
 #### (d) Assignment of judges
 
-For the purposes of conducting hearings described in subsection (a) of this section, the chief judge shall assign a judge to each case or class of cases. A judge shall be disqualified in any case in which the judge has a substantial interest, has been of counsel, is or has been a material witness, or is so related to or connected with any party or the party's attorney as to make it improper for the judge to be assigned to the case.
+For the purposes of conducting hearings described in subsection (a) of this section, thechief judge shall assign a judge to each case or class of cases. A judge shall be disqualified in any case in which the judge has a substantial interest, has been of counsel, is or has been a material witness, or is so related to or connected with any party or the party's attorney as to make it improper for the judge to be assigned to the case.
 
 #### (e) Review and evidentiary functions
 
@@ -64,7 +64,7 @@ The Federal Rules of Evidence, referred to in subsec. (h), are set out in the Ap
 
 #### Amendments
 
-1988—Pub. L. 100–297 amended section generally, substituting provisions relating to Office of Administrative Law Judges for provisions relating to Education Appeal Board.
+<b>1988</b>—Pub. L. 100–297 amended section generally, substituting provisions relating to Office of Administrative Law Judges for provisions relating to Education Appeal Board.
 
 #### Effective Date of 1988 Amendment
 

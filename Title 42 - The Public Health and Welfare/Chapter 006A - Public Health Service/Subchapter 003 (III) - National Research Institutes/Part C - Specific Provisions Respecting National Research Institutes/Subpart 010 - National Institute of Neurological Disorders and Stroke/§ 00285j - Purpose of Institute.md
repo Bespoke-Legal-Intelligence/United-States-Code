@@ -6,9 +6,9 @@ The general purpose of the National Institute of Neurological Disorders and Stro
 
 #### Amendments
 
-1989—Pub. L. 101–93 substituted “disease and” for “disease and and”.
+<b>1989</b>—Pub. L. 101–93 substituted “disease and” for “disease and and”.
 
-1988—Pub. L. 100–553 and Pub. L. 100–607 made identical amendments, substituting “Neurological Disorders” for “Neurological and Communicative Disorders” and “and disorder and stroke” for “disorder, stroke, and disorders of human communication”. Pub. L. 100–690 amended this section to read as if the amendments by Pub. L. 100–607 had not been enacted.
+<b>1988</b>—Pub. L. 100–553 and Pub. L. 100–607 made identical amendments, substituting “Neurological Disorders” for “Neurological and Communicative Disorders” and “and disorder and stroke” for “disorder, stroke, and disorders of human communication”. Pub. L. 100–690 amended this section to read as if the amendments by Pub. L. 100–607 had not been enacted.
 
 #### Effective Date of 1988 Amendment
 

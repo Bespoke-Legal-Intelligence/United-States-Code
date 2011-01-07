@@ -60,11 +60,11 @@ A prior section 703 of Pub. L. 89–73 was classified to section 3045b of this t
 
 #### Amendments
 
-2000—Subsec. (a)(2)(C)(i). Pub. L. 106–501, §§702, 801(e)(1)(A), substituted “section 3058a of this title andmade available to carry out subpart II of this part” for “section 3058a(a) of this title” and “2000” for “1991”.
+<b>2000</b>—Subsec. (a)(2)(C)(i). Pub. L. 106–501, §§702, 801(e)(1)(A), substituted “section 3058a of this title andmade available to carry out subpart II of this part” for “section 3058a(a) of this title” and “2000” for “1991”.
 
 Subsec. (a)(2)(C)(ii). Pub. L. 106–501, §§702, 801(e)(1)(B), substituted “section 3058a of this title and made available to carry out subpart III of this part” for “section 3058a(b) of this title” and “2000” for “1991”.
 
-1993—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” wherever appearing.
+<b>1993</b>—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 
 #### Termination of Trust Territory of the Pacific Islands
 

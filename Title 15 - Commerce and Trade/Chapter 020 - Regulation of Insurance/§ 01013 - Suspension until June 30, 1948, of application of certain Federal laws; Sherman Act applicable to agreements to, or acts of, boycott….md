@@ -18,5 +18,5 @@ Act of June 19, 1936, known as the Robinson-Patman Anti-Discrimination Act, refe
 
 #### Amendments
 
-1947—Act July 25, 1947, substituted “June 30, 1948” for “January 1, 1948”.
+<b>1947</b>—Act July 25, 1947, substituted “June 30, 1948” for “January 1, 1948”.
 

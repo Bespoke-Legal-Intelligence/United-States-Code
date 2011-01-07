@@ -6,7 +6,7 @@
 
 (2) If title to lands beneath navigable waters of a lake less than fifty acres in size or a river or stream less than three chains in width did not vest in the State pursuant to the Submerged Lands Act \[43 U.S.C. 1301 et seq., 1311 et seq.\], such lake, river, or stream shall not be meandered.
 
-(3) The Secretary is not required to determine the navigability of a lake, river, or stream which because of its size or width is required to be meandered or to compute the acreage of the land beneath such lake, river, or stream or to describe such land in any conveyance document.
+(3) The Secretary is not required to determine the navigability of a lake, river, or streamwhich because of its size or width is required to be meandered or to compute the acreage of the land beneath such lake, river, or stream or to describe such land in any conveyance document.
 
 (4) Nothing in this subsection shall be construed to require ground survey or monumentation of meanderlines.
 
@@ -14,7 +14,7 @@
 
 (1) Whenever, either before or after August 16, 1988, the Secretary conveys land to a Native, a Native Corporation, or the State pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], the Alaska Statehood Act, or this Act which abuts or surrounds a meanderable lake, river, or stream, all right, title, and interest of the United States, if any, in the land under such lake, river, or stream lying between the uplands and the median line or midpoint, as the case may be, shall vest in and shall not be charged against the acreage entitlement of such Native or Native Corporation or the State. The right, title, and interest vested in a Native or Native Corporation shall be no greater an estate than the estate he or it is conveyed in the land which abuts or surrounds the lake, river, or stream.
 
-(2) The specific terms, conditions, procedures, covenants, reservations, and other restrictionsset forth in the document entitled, “Memorandum of Agreement between the United States Department of the Interior and the State of Alaska” dated March 28, 1984, signed by the Secretary and the Governor of Alaska and submitted to the Committee on Interior and Insular Affairs of the House of Representatives, and the Committee on Energy and Natural Resources of the Senate, are hereby incorporated in this section and are ratified as to the duties and obligations of the United States and the State, as a matter of Federal law.
+(2) The specific terms, conditions, procedures, covenants, reservations, and other restrictions set forth in the document entitled, “Memorandum of Agreement between the United States Department of the Interior and the State of Alaska” dated March 28, 1984, signed by the Secretary and the Governor of Alaska and submitted to the Committee on Interior and Insular Affairs of the House of Representatives, and the Committee on Energy and Natural Resources of the Senate, are hereby incorporated in this section and are ratified as to the duties and obligations of the United States and the State, as a matter of Federal law.
 
 #### (c) Interim conveyances and patents; navigability of streams; award of costs and attorney's fees
 
@@ -46,15 +46,15 @@ August 16, 1988, referred to in subsec. (b)(1), was in the original “the date 
 
 #### Amendments
 
-1988—Pub. L. 100–395 amended section generally, revising and restating as subsecs. (a) to (d) provisions of former subsecs. (a) to (h).
+<b>1988</b>—Pub. L. 100–395 amended section generally, revising and restating as subsecs. (a) to (d) provisions of former subsecs. (a) to (h).
 
-1986—Subsec. (a). Pub. L. 99–644 substituted “eight years after the date of execution” for “six years after the date of execution” in two places and “nine years after December 2, 1980” for “seven years after December 2, 1980” in two places.
+<b>1986</b>—Subsec. (a). Pub. L. 99–644 substituted “eight years after the date of execution” for “six years after the date of execution” in two places and “nine years after December 2, 1980” for “seven years after December 2, 1980” in two places.
 
 Pub. L. 99–258 substituted “six years after the date of execution” for “five years after the date of execution” in two places.
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives onJan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
 #### Construction
 
@@ -66,5 +66,5 @@ Section 103 of Pub. L. 100–395 directed Secretary of the Interior to prepare a
 
 #### Definitions
 
-For definition of the terms “land”, “Federal land”, “public lands”, “conservation system unit”, “Alaska Native Claims Settlement Act”, “Native Corporation”, “Regional Corporation”, “Village Corporation”, “Urban Corporation”, “Native Group”, “Native land”, “Secretary”, “wilderness” and “National WildernessPreservation System”, “Alaska Statehood Act”, “State”, “Alaska Native” or “Native”, “fish and wildlife”, and “take” or “taking” as used in this chapter, including sections 1639 to 1641 of this title, as having the same meaning as they have in the Alaska Native Claims Settlement Act, section 1601 et seq. of this title, and the Alaska Statehood Act, Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions, see section 3102 of Title 16, Conservation.
+For definition of the terms “land”, “Federal land”, “public lands”, “conservation system unit”, “Alaska Native Claims Settlement Act”, “Native Corporation”, “Regional Corporation”, “Village Corporation”, “Urban Corporation”, “Native Group”, “Native land”, “Secretary”, “wilderness” and “National Wilderness Preservation System”, “Alaska Statehood Act”, “State”, “Alaska Native” or “Native”, “fish and wildlife”, and “take” or “taking” as used in this chapter, including sections 1639 to 1641 of this title, as having the same meaning as they have in the Alaska Native Claims Settlement Act, section 1601 et seq. of this title, and the Alaska Statehood Act, Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions, see section 3102 of Title 16, Conservation.
 

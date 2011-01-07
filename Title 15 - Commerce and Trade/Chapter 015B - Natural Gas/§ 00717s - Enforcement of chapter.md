@@ -32,5 +32,5 @@ The words “the District Court of the United States for the District of Columbi
 
 #### Amendments
 
-2005—Subsec. (d). Pub. L. 109–58 added subsec. (d).
+<b>2005</b>—Subsec. (d). Pub. L. 109–58 added subsec. (d).
 

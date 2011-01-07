@@ -40,7 +40,7 @@ In this section:
 
 &emsp;&emsp;(C) attended a public or nonprofit private secondary school that—
 
-&emsp;&emsp;&emsp;(i) is in the school district of a local educational agency that was eligible for assistance under part A of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311 et seq.\] for any year during which the student attended such secondary school; and
+&emsp;&emsp;&emsp;(i) is in the school district of a local educational agency that was eligible for assistance under part A of title I of the Elementary and Secondary Education Act of1965 \[20 U.S.C. 6311 et seq.\] for any year during which the student attended such secondary school; and
 
 &emsp;&emsp;&emsp;(ii) for the purpose of this paragraph and for such year of attendance, was determined by the Secretary (pursuant to regulations and after consultation with the State educational agency of the State in which the school is located) to be a school in which the enrollment of children meeting a measure of poverty under section 1113(a)(5) of such Act \[20 U.S.C. 6313(a)(5)\] exceeds 30 percent of the total enrollment of such school; or
 
@@ -184,7 +184,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2
 
 #### Amendments
 
-2009—Subsec. (b)(1)(F). Pub. L. 111–39 added subpar. (F) and struck out former subpar. (F) which read as follows: “is not receiving assistance under part B or part A of subchapter V.”
+<b>2009</b>—Subsec. (b)(1)(F). Pub. L. 111–39 added subpar. (F) and struck out former subpar. (F) which read as follows: “is not receiving assistance under part B or part A of subchapter V.”
 
 #### Effective Date of 2009 Amendment
 

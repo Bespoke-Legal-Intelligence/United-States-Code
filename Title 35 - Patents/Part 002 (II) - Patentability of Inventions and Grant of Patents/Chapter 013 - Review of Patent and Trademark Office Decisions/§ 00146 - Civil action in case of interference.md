@@ -20,15 +20,15 @@ Language is changed.
 
 #### Amendments
 
-2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+<b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-1999—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” wherever appearing.
+<b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” wherever appearing.
 
-1984—Pub. L. 98–622 substituted “Board of Patent Appeals and Interferences on the interference” for “board of patent interference on the question of priority”.
+<b>1984</b>—Pub. L. 98–622 substituted “Board of Patent Appeals and Interferences on the interference” for “board of patent interference on the question of priority”.
 
-1982—Pub. L. 97–164 substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
+<b>1982</b>—Pub. L. 97–164 substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
 
-1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office” wherever appearing.
+<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office” wherever appearing.
 
 #### Effective Date of 1999 Amendment
 

@@ -6,7 +6,7 @@ A member of the program who is selected for advanced training under section 2104
 
 #### Amendments
 
-2006—Pub. L. 109–364 inserted period at end.
+<b>2006</b>—Pub. L. 109–364 inserted period at end.
 
 Pub. L. 109–163 inserted at end “If the member does not complete the period of active duty prescribed by the Secretary concerned, the member shall be subject to the repayment provisions of section 303a(e) of title 37”.
 

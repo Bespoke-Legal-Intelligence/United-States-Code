@@ -18,7 +18,7 @@
 
 &emsp;(3) has chosen not to be represented before the Board by the Special Counsel pursuant to subsection (a)(2)(A); or
 
-&emsp;(4) has received a notification of a decision from the Special Counsel under subsection (a)(2)(B).
+&emsp;(4) has received a notification of a decision from the Special Counsel under subsection (a)(2)(B) declining to initiate an action and represent the person before the Merit Systems Protection Board.
 
 (c)(1) The Merit Systems Protection Board shall adjudicate any complaint brought before the Board pursuant to subsection (a)(2)(A) or (b), without regard as to whether the complaint accrued before, on, or after October 13, 1994. A person who seeks a hearing or adjudication by submitting such a complaint under this paragraph may be represented at such hearing or adjudication in accordance with the rules of the Board.
 
@@ -32,7 +32,7 @@
 
 (2) Such person may be represented in the Federal Circuit proceeding by the Special Counsel unless the person was not represented by the Special Counsel before the Merit Systems Protection Board regarding such order or decision.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3166; amended Pub. L. 104–275, title III, §311(11), Oct. 9, 1996, 110 Stat. 3336; Pub. L. 105–368, title II, §213(a), Nov. 11, 1998, 112 Stat. 3331; Pub. L. 110–389, title III, §311(d)(2), (e)(2), Oct. 10, 2008, 122 Stat. 4163.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3166; amended Pub. L. 104–275, title III, §311(11), Oct. 9, 1996, 110 Stat. 3336; Pub. L. 105–368, title II, §213(a), Nov. 11, 1998, 112 Stat. 3331; Pub. L. 110–389, title III, §311(d)(2), (e)(2), Oct. 10, 2008, 122 Stat. 4163; Pub. L. 111–275, title VII, §703(a), Oct. 13, 2010, 124 Stat. 2888.)
 
 #### Prior Provisions
 
@@ -40,13 +40,15 @@ A prior section 4324 was renumbered section 7624 of this title.
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–389, §311(d)(2), substituted “Not later than 60 days after the date the Secretary receives such a request, the Secretary shall refer” for “The Secretary shall refer”.
+<b>2010</b>—Subsec. (b)(4). Pub. L. 111–275 inserted before period at end “declining to initiate an action and represent the person before the Merit Systems Protection Board”.
+
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–389, §311(d)(2), substituted “Not later than 60 days after the date the Secretary receives such a request, the Secretary shall refer” for “The Secretary shall refer”.
 
 Subsec. (a)(2)(B). Pub. L. 110–389, §311(e)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “If the Special Counsel declines to initiate an action and represent a person before the Merit Systems Protection Board under subparagraph (A), the Special Counsel shall notify such person of that decision.”
 
-1998—Subsec. (c)(1). Pub. L. 105–368 inserted “, without regard as to whether the complaint accrued before, on, or after October 13, 1994” before period at end of first sentence.
+<b>1998</b>—Subsec. (c)(1). Pub. L. 105–368 inserted “, without regard as to whether the complaint accrued before, on, or after October 13, 1994” before period at end of first sentence.
 
-1996—Subsec. (a)(1). Pub. L. 104–275, §311(11)(A), struck out “of an unsuccessful effort to resolve a complaint relating to a Federal executive agency” after “notification pursuant to section 4322(e)”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–275, §311(11)(A), struck out “of an unsuccessful effort to resolve a complaint relating to a Federal executive agency” after “notification pursuant to section 4322(e)”.
 
 Subsec. (b). Pub. L. 104–275, §311(11)(B)(i), inserted “or the Office of Personnel Management” after “Federal executive agency” in introductory provisions.
 

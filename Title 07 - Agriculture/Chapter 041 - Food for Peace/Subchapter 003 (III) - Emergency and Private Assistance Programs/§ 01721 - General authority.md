@@ -50,7 +50,7 @@ Subsec. (c). Pub. L. 99–198, §1103, added subsec. (c).
 
 1975—Pub. L. 94–161 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1966—Pub. L. 89–808 expanded scope of assistance to include emergency relief without regard to recipient being a friendly people, combating malnutrition in children, promotion of economic and community development in friendly developing areas, and for nonprofit school lunch and preschool feeding programs outside the United States and to be furnished from available commodities rather than surplus agricultural commodities.
+1966—Pub. L. 89–808 expanded scope of assistance to include emergency relief without regard to recipient being a friendly people, combating malnutrition in children, promotion of economic and community development in friendly developing areas, and for nonprofit school lunch and preschool feeding programs outside the United States and to be furnished from availablecommodities rather than surplus agricultural commodities.
 
 1956—Act Aug. 3, 1956, inserted “or extraordinary” after “urgent” wherever appearing.
 

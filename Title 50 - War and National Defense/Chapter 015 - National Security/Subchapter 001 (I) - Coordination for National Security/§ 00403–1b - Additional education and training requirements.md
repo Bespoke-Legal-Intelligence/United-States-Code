@@ -20,7 +20,7 @@ Congress makes the following findings:
 
 (2) In carrying out activities under paragraph (1), the Director shall take into account education grant programs of the Department of Defense and the Department of Education that are in existence as of December 17, 2004.
 
-(3) Not later than one year after December 17, 2004, and annually thereafter, the Director shall submit to Congress a report on the requirements identified under paragraph (1), including the success of the Office of the Director of National Intelligence in meeting such requirements. Each report shall notify Congress of any additional resources determined by the Director to be required to meet such requirements.
+(3) Not later than one year after December 17, 2004, and annually thereafter, the Director shallsubmit to Congress a report on the requirements identified under paragraph (1), including the success of the Office of the Director of National Intelligence in meeting such requirements. Each report shall notify Congress of any additional resources determined by the Director to be required to meet such requirements.
 
 (4) Each report under paragraph (3) shall be in unclassified form, but may include a classified annex.
 
@@ -62,7 +62,7 @@ Pilot Project.—(1) The Secretary of Defense shall conduct a pilot project to a
 
 “(b)
 
-Conduct of Project.—Taking into account the findings and recommendations contained in the reportrequired under section 325 of the Intelligence Authorization Act for Fiscal Year 2003 (Public Law 107–306; 116 Stat. 2393), in conducting the pilot project under subsection (a) the Secretary of Defense shall—
+Conduct of Project.—Taking into account the findings and recommendations contained in the report required under section 325 of the Intelligence Authorization Act for Fiscal Year 2003 (Public Law 107–306; 116 Stat. 2393), in conducting the pilot project under subsection (a) the Secretary of Defense shall—
 
 &emsp;“(1) identify several foreign languages that are critical for the national security of the United States;
 

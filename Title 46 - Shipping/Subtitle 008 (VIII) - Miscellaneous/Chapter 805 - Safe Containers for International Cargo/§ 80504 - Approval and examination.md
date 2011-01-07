@@ -38,7 +38,7 @@ Historical and Revision Notes
 
 Pub. L. 95–208, §3(a) (related to approval and examination), Dec. 13, 1977, 91 Stat. 1476.
 
-In this section, the words “Beginning on the date the instrument of ratification is deposited by the United States in accordance with the provisions of article VII of the Convention, for new containers, and beginning on September 6, 1982, for existing containers” are omitted as obsolete.
+In this section, the words “Beginning on the date the instrument of ratification is deposited by the United States in accordance with the provisions of article VIIof the Convention, for new containers, and beginning on September 6, 1982, for existing containers” are omitted as obsolete.
 
 In subsections (a)(1) and (b)(1), the words “government of another country that is a party to the Convention” are substituted for “administration of another contracting party to the Convention” for clarity.
 

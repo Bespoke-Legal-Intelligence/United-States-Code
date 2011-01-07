@@ -9,7 +9,7 @@
 
 #### Amendments
 
-1998—Pub. L. 105–261, div. A, title V, §522(b)(2), Oct. 17, 1998, 112 Stat. 2013, added item 6932.
+<b>1998</b>—Pub. L. 105–261, div. A, title V, §522(b)(2), Oct. 17, 1998, 112 Stat. 2013, added item 6932.
 
 
 ---

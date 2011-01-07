@@ -14,7 +14,7 @@ In this section:
 
 #### (2) Coastal population
 
-&emsp;The term “coastal population” means the population, as determined by the most recentofficial data of the Census Bureau, of each political subdivision any part of which lies within the designated coastal boundary of a State (as defined in a State's coastal zone management program under the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.)).
+&emsp;The term “coastal population” means the population, as determined by the most recent official data of the Census Bureau, of each political subdivision any part of which lies within the designated coastal boundary of a State (as defined in a State's coastal zone management program under the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.)).
 
 #### (3) Coastal State
 
@@ -102,7 +102,7 @@ In this section:
 
 #### (C) Multiple producing States
 
-&emsp;&emsp;In a case in which more than one producing State is located within 200 nauticalmiles of any portion of a leased tract, the amount allocated to each producing State for the leased tract shall be inversely proportional to the distance between—
+&emsp;&emsp;In a case in which more than one producing State is located within 200 nautical miles of any portion of a leased tract, the amount allocated to each producing State for the leased tract shall be inversely proportional to the distance between—
 
 &emsp;&emsp;&emsp;(i) the nearest point on the coastline of the producing State; and
 
@@ -238,7 +238,35 @@ In this section:
 
 &emsp;Not more than 23 percent of amounts received by a producing State or coastal political subdivision for any 1 fiscal year shall be used for the purposes described in subparagraphs (C) and (E) of paragraph (1).
 
-(Aug. 7, 1953, ch. 345, §31, as added Pub. L. 106–553, §1(a)(2) \[title IX, §903\], Dec. 21, 2000, 114 Stat. 2762, 2762A–124; amended Pub. L. 109–58, title III, §384, Aug. 8, 2005, 119 Stat. 739.)
+#### (e) Emergency funding
+
+#### (1) In general
+
+&emsp;In response to a spill of national significance under the Oil Pollution Act of 1990 (33 U.S.C. 2701 et seq.), at the request of a producing State or coastal political subdivision and notwithstanding the requirements of part 12 of title 43, Code of Federal Regulations (or a successor regulation), the Secretary may immediately disburse funds allocated under this section for 1 or more individual projects that are—
+
+&emsp;&emsp;(A) consistent with subsection (d); and
+
+&emsp;&emsp;(B) specifically designed to respond to the spill of national significance.
+
+#### (2) Approval by Secretary
+
+&emsp;The Secretary may, in the sole discretion of the Secretary, approve, on a project by project basis, the immediate disbursal of the funds under paragraph (1).
+
+#### (3) State requirements
+
+#### (A) Additional information
+
+&emsp;&emsp;If the Secretary approves a project for funding under this subsection that is included in a plan previously approved under subsection (c), not later than 90 days after the date of the funding approval, the producing State or coastal political subdivision shall submit to the Secretary any additional information that the Secretary determines to be necessary to ensure that the project is in compliance with subsection (d).
+
+#### (B) Amendment to plan
+
+&emsp;&emsp;If the Secretary approves a project for funding under this subsection that is not included in a plan previously approved under subsection (c), not later than 90 days after the date of the funding approval, the producing State or coastal political subdivision shall submit to the Secretary for approval an amendment to the plan that includes any projects funded under paragraph (1), as well as any information about such projects that the Secretary determines to be necessary to ensure that the project is in compliance with subsection (d).
+
+#### (C) Limitation
+
+&emsp;&emsp;If a producing State or coastal political subdivision does not submit the additional information or amendments to the plan required by this paragraph, or if, based on the information submitted by the Secretary determines that the project is not in compliance with subsection (d), by the deadlines specified in this paragraph, the Secretary shall not disburse any additional funds to the producing State or the coastal political subdivisions until the date on which the additional information or amendment to the plan has been approved by the Secretary.
+
+(Aug. 7, 1953, ch. 345, §31, as added Pub. L. 106–553, §1(a)(2) \[title IX, §903\], Dec. 21, 2000, 114 Stat. 2762, 2762A–124; amended Pub. L. 109–58, title III, §384, Aug. 8, 2005, 119 Stat. 739; Pub. L. 111–212, title III, §3013, July 29, 2010, 124 Stat. 2341.)
 
 #### References in Text
 
@@ -246,7 +274,11 @@ The Coastal Zone Management Act of 1972, referred to in subsec. (a)(2), is title
 
 Sections 107 through 109 of division E of the Consolidated Appropriations Act, 2005, referred to in subsec. (a)(7), are sections 107 to 109 of Pub. L. 108–447, div. E, title I, Dec. 8, 2004, 118 Stat. 3063, 3064, which are not classified to the Code.
 
+The Oil Pollution Act of 1990, referred to in subsec. (e)(1), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, which is classified principally to chapter 40 (§2701 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 33 and Tables.
+
 #### Amendments
 
-2005—Pub. L. 109–58 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (g) relating to construction of section, definitions, authorization of appropriations, payments to States and political subdivisions, coastal impact assistance plan by the Governor of each producing coastal State, authorized uses of amounts provided, and repayment of amounts inconsistent with authorized uses.
+<b>2010</b>—Subsec. (e). Pub. L. 111–212 added subsec. (e).
+
+<b>2005</b>—Pub. L. 109–58 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (g) relating to construction of section, definitions, authorization of appropriations, payments to States and political subdivisions, coastal impact assistance plan by the Governor of each producing coastal State, authorized uses of amounts provided, and repayment of amounts inconsistent with authorized uses.
 

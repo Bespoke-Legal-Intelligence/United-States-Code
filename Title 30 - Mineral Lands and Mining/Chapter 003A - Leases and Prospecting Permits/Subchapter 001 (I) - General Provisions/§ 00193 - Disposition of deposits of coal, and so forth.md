@@ -10,9 +10,9 @@ Section was from act Feb. 25, 1920, in which words now reading “in Lander, Wyo
 
 #### Amendments
 
-1978—Pub. L. 95–554 provided for disposition of minerals as provided in sections 1716 and 1719 of title 43.
+<b>1978</b>—Pub. L. 95–554 provided for disposition of minerals as provided in sections 1716 and 1719 of title 43.
 
-1946—Act Aug. 8, 1946, excluded from section 5 of act Feb. 7, 1927, the incorporation, by reference, of section 181 of this title, and reenacted inclusion of deposits of potassium.
+<b>1946</b>—Act Aug. 8, 1946, excluded from section 5 of act Feb. 7, 1927, the incorporation, by reference, of section 181 of this title, and reenacted inclusion of deposits of potassium.
 
-1927—Act Feb. 7, 1927, included deposits of potassium.
+<b>1927</b>—Act Feb. 7, 1927, included deposits of potassium.
 

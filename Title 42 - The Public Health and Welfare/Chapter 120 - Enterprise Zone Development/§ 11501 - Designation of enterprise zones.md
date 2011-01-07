@@ -228,11 +228,11 @@ The Housing Act of 1949, referred to in subsec. (d)(2), is act July 15, 1949, ch
 
 #### Amendments
 
-1992—Subsec. (a)(4)(B). Pub. L. 102–550, §834(a)(1), substituted “the date of the enactment of the Housing and Community Development Act of 1992 occurs” for “the effective date of the regulations described in subparagraph (A) occurs”.
+<b>1992</b>—Subsec. (a)(4)(B). Pub. L. 102–550, §834(a)(1), substituted “the date of the enactment of the Housing andCommunity Development Act of 1992 occurs” for “the effective date of the regulations described in subparagraph (A) occurs”.
 
 Subsec. (c)(3)(B). Pub. L. 102–550, §834(a)(2), substituted “October 28, 1992” for “February 5, 1988”.
 
-1988—Subsec. (a)(2)(B). Pub. L. 100–628, §1090(b), substituted “under subparagraph (A)” for “under clause (i)” in introductory provisions.
+<b>1988</b>—Subsec. (a)(2)(B). Pub. L. 100–628, §1090(b), substituted “under subparagraph (A)” for “under clause (i)” in introductory provisions.
 
 Subsec. (a)(3)(A). Pub. L. 100–628, §1090(a), amended first sentence generally. Prior to amendment, first sentence read as follows: “Except as provided in subparagraph (B), the Secretary shall designate the nominated areas with the highest average ranking with respect to the criteria set forth in subparagraphs (C), (D), and (E) of subsection (c)(3) of this section.”
 

@@ -20,7 +20,7 @@ No penalty shall be imposed under this section with respect to any failure if it
 
 #### Amendments
 
-2005—Pub. L. 109–59, §11164(b)(1)(C), inserted “or reregister” after “register” in section catchline.
+<b>2005</b>—Pub. L. 109–59, §11164(b)(1)(C), inserted “or reregister” after “register” in section catchline.
 
 Subsecs. (a), (b). Pub. L. 109–59, §11164(b)(1)(A), (B), inserted “or reregister” after “register” wherever appearing.
 

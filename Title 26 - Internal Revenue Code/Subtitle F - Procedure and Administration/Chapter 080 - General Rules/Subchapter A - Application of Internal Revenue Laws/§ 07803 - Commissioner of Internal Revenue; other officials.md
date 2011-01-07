@@ -130,7 +130,7 @@
 
 #### (ii) Activities
 
-&emsp;&emsp;&emsp;Not later than December 31 of each calendar year, the National Taxpayer Advocate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the activities of the Office of the Taxpayer Advocate during the fiscal year ending during such calendar year. Any such report shall contain full and substantive analysis, in addition to statistical information, and shall—
+&emsp;&emsp;&emsp;Not later than December 31 of each calendar year, the National Taxpayer Advocate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the activities of the Office of the Taxpayer Advocate during the fiscal year ending during such calendar year. Any such report shall containfull and substantive analysis, in addition to statistical information, and shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) identify the initiatives the Office of the Taxpayer Advocate has taken on improving taxpayer services and Internal Revenue Service responsiveness;
 
@@ -284,17 +284,17 @@ Section 6227 of the Omnibus Taxpayer Bill of Rights, referred to in subsec. (d)(
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–176 amended par. (1) generally, substituting provisions relating to appointment, consisting of subpars. (A) to (E), for similar provisions, consisting of subpars. (A) to (D).
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–176 amended par. (1) generally, substituting provisions relating to appointment, consisting of subpars. (A) to (E), for similar provisions, consisting of subpars. (A) to (D).
 
 Subsec. (d)(3)(C). Pub. L. 110–428 added subpar. (C).
 
-1998—Pub. L. 105–206 amended section catchline and text generally, substituting present provisions for provisions which: in subsec. (a), authorized appointment of persons for administration and enforcement of internal revenue laws; in subsec. (b), directed Secretary to determine and designate posts of duty of employees in field service, and authorized Secretary to order such employees to duty within and outside District of Columbia; and in subsec. (c), directed Secretary to issue notice and demand for failure to account for and pay over money or property collected in connection with internal revenue laws, and deemed amount so demanded to be imposed and assessed upon the officer or employee upon the date of such notice and demand. See section 7804 of this title.
+<b>1998</b>—Pub. L. 105–206 amended section catchline and text generally, substituting present provisions for provisions which: in subsec. (a), authorized appointment of persons for administration and enforcement of internal revenue laws; in subsec. (b), directed Secretary to determine and designate posts of duty of employees in field service, and authorized Secretary to order such employees to duty within and outside District of Columbia; and in subsec. (c), directed Secretary to issue notice and demand for failure to account for and pay over money or property collected in connection with internal revenue laws, and deemed amount so demanded to be imposed and assessed upon the officer or employee upon the date of such notice and demand. See section 7804 of this title.
 
-1976—Subsecs. (a), (b), (c). Pub. L. 94–455, §1906(b) (13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a), (b), (c). Pub. L. 94–455, §1906(b) (13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsecs. (c), (d). Pub. L. 94–455, §1906(a)(58), redesignated subsec. (d) as (c).
 
-1972—Subsec. (c). Pub. L. 92–310 repealed subsec. (c) which related to bonds of officers and employees.
+<b>1972</b>—Subsec. (c). Pub. L. 92–310 repealed subsec. (c) which related to bonds of officers and employees.
 
 #### Change of Name
 

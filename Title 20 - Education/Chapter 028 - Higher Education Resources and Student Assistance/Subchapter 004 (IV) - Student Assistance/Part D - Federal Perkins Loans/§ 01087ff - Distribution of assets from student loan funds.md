@@ -30,9 +30,9 @@ A prior section 1087ff, Pub. L. 89–329, title IV, §466, as added Pub. L. 92�
 
 #### Amendments
 
-2007—Subsec. (b). Pub. L. 110–84 substituted “October 1, 2012” for “March 31, 2012”.
+<b>2007</b>—Subsec. (b). Pub. L. 110–84 substituted “October 1, 2012” for “March 31, 2012”.
 
-1998—Subsec. (a). Pub. L. 105–244, §466(1)(A), in introductory provisions, substituted “2003” for “1996” and “2004” for “1997”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–244, §466(1)(A), in introductory provisions, substituted “2003” for “1996” and “2004” for “1997”.
 
 Subsec. (a)(1). Pub. L. 105–244, §466(1)(B), substituted “2003” for “1996”.
 
@@ -40,11 +40,11 @@ Subsec. (b). Pub. L. 105–244, §466(2), substituted “2012” for “2005” 
 
 Subsec. (c)(1). Pub. L. 105–244, §466(3), substituted “2004” for “1997” in introductory provisions.
 
-1993—Subsec. (c)(2). Pub. L. 103–208 realigned margin.
+<b>1993</b>—Subsec. (c)(2). Pub. L. 103–208 realigned margin.
 
-1992—Subsec. (b). Pub. L. 102–325, §466(1), substituted “2005” for “1997”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–325, §466(1), substituted “2005” for “1997”.
 
-Subsec. (c). Pub. L. 102–325, §466(2), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+Subsec. (c). Pub. L. 102–325, §466(2), designated existing provisions as par. (1), redesignated former pars. (1)and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
 #### Effective Date of 2007 Amendment
 

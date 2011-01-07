@@ -28,5 +28,5 @@ Section 620A of the Foreign Assistance Act of 1961, referred to in subsec. (d)(3
 
 #### Prior Provisions
 
-A prior section 832, acts June 25, 1948, ch. 645, 62 Stat. 738; Sept. 6, 1960, Pub. L. 86–710, 74 Stat. 809, related to transportation of explosives, radioactive materials, etiologic agents, and other dangerous articles, prior to repeal by Pub. L. 96–129, title II, §216(b), Nov. 30, 1979, 93 Stat. 1015.
+A prior section 832, acts June 25, 1948, ch. 645, 62 Stat. 738; Sept. 6, 1960, Pub. L. 86–710, 74 Stat. 809, related to transportation of explosives, radioactive materials,etiologic agents, and other dangerous articles, prior to repeal by Pub. L. 96–129, title II, §216(b), Nov. 30, 1979, 93 Stat. 1015.
 

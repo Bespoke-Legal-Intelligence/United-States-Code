@@ -28,5 +28,5 @@ The Board shall be comprised of—
 
 #### Amendments
 
-2000—Subsec. (c)(2). Pub. L. 106–208 substituted a semicolon for a comma after “organizations”.
+<b>2000</b>—Subsec. (c)(2). Pub. L. 106–208 substituted a semicolon for a comma after “organizations”.
 

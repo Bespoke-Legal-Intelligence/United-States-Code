@@ -20,15 +20,15 @@ The Foreign Service Act of 1980, referred to in subsecs. (a) and (b), is Pub. L.
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–465, §2206(a)(6)(A), substituted “Foreign Service Act of 1980” for “Foreign Service Act of 1946, as amended (22 U.S.C. 801),”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–465, §2206(a)(6)(A), substituted “Foreign Service Act of 1980” for “Foreign Service Act of 1946, as amended (22 U.S.C. 801),”.
 
 Subsec. (b). Pub. L. 96–465, §2206(a)(6)(B), substituted “chief of mission under the Foreign Service Act of 1980” for “chief of mission, class 1, within the meaning of the Foreign Service Act of 1946, as amended (22 U.S.C. 801)”.
 
 Subsec. (c). Pub. L. 96–465, §2206(a)(6)(C), among other changes, substituted references to sections 2388 and 3949 of this title for references to sections 1789 and 922 of this title, respectively, and reference to members of the Foreign Service for reference to Foreign Service Reserve officers.
 
-1959—Subsec. (c). Pub. L. 86–108 substituted “five years” for “four years”.
+<b>1959</b>—Subsec. (c). Pub. L. 86–108 substituted “five years” for “four years”.
 
-1957—Subsec. (a). Pub. L. 85–141 struck out provisions authorizing appropriations of not more than $3,200,000 for the fiscal year 1955.
+<b>1957</b>—Subsec. (a). Pub. L. 85–141 struck out provisions authorizing appropriations of not more than $3,200,000 for the fiscal year 1955.
 
 #### Effective Date of 1980 Amendment
 

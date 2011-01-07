@@ -38,11 +38,11 @@ The remedy for a violation of subsection (a) of this section shall be an order t
 
 #### (3) Hearings and review
 
-&emsp;If after issuing a citation or notification, the General Counsel determines that a violation has not been corrected, the General Counsel may file a complaint with the Office against the employing office named in the citation or notification. The complaint shall be submitted to a hearing officer for decision pursuant to subsections (b) through (h) of section 1405 of this title, subject to review by the Board pursuant to section 1406 of this title.
+&emsp;If after issuing a citation or notification, the General Counsel determines that a violationhas not been corrected, the General Counsel may file a complaint with the Office against the employing office named in the citation or notification. The complaint shall be submitted to a hearing officer for decision pursuant to subsections (b) through (h) of section 1405 of this title, subject to review by the Board pursuant to section 1406 of this title.
 
 #### (4) Variance procedures
 
-&emsp;An employing office may request from the Board an order granting a variance from a standard made applicable by this section. Forthe purposes of this section, the Board shall exercise the authorities granted to the Secretary of Labor in sections 6(b)(6) and 6(d) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 655(b)(6) and 655(d)) to act on any employing office's request for a variance. The Board shall refer the matter to a hearing officer pursuant to subsections (b) through (h) of section 1405 of this title, subject to review by the Board pursuant to section 1406 of this title.
+&emsp;An employing office may request from the Board an order granting a variance from a standard made applicable by this section. For the purposes of this section, the Board shall exercise the authorities granted to the Secretary of Labor in sections 6(b)(6) and 6(d) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 655(b)(6) and 655(d)) to act on any employing office's request for a variance. The Board shall refer the matter to a hearing officer pursuant to subsections (b) through (h) of section 1405 of this title, subject to review by the Board pursuant to section 1406 of this title.
 
 #### (5) Judicial review
 

@@ -16,15 +16,15 @@ The Director is authorized to retain all building use and depreciation surcharge
 
 #### Amendments
 
-2007—Pub. L. 110–69 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2007</b>—Pub. L. 110–69 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1992—Pub. L. 102–245 substituted “herein.” for “herein: <i>Provided</i>, That no improvement shall be made nor shall any building be constructed under this authority at a cost in excess of $250,000 unless specific provision is made therefor in the appropriation concerned.”
+<b>1992</b>—Pub. L. 102–245 substituted “herein.” for “herein: <i>Provided</i>, That no improvement shall be made norshall any building be constructed under this authority at a cost in excess of $250,000 unless specific provision is made therefor in the appropriation concerned.”
 
-1988—Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards” wherever appearing.
+<b>1988</b>—Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards” wherever appearing.
 
-1980—Pub. L. 96–461 substituted “$250,000” for $75,000”.
+<b>1980</b>—Pub. L. 96–461 substituted “$250,000” for $75,000”.
 
-1972—Pub. L. 92–317 substituted “$75,000” for “$40,000”.
+<b>1972</b>—Pub. L. 92–317 substituted “$75,000” for “$40,000”.
 
 #### Effective Date of 1980 Amendment
 

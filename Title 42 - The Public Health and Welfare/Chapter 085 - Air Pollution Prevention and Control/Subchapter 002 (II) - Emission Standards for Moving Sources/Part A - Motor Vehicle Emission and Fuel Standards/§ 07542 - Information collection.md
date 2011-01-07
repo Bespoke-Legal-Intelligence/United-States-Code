@@ -30,11 +30,11 @@ Another prior section 208 of act July 14, 1955, as added Oct. 20, 1965, Pub. L. 
 
 #### Amendments
 
-1990—Pub. L. 101–549 amended section generally, substituting present provisions for provisions which related to: in subsec. (a), manufacturer's responsibility; and in subsec. (b), availability to public except for trade secrets.
+<b>1990</b>—Pub. L. 101–549 amended section generally, substituting present provisions for provisions which related to: in subsec. (a), manufacturer's responsibility; and in subsec. (b), availability to public except for trade secrets.
 
-1970—Subsec. (a). Pub. L. 91–604, §§11(a)(2)(A), 15(c)(2), substituted “Administrator” for “Secretary” wherever appearing and “part” for “subchapter”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–604, §§11(a)(2)(A), 15(c)(2), substituted “Administrator” for “Secretary” wherever appearing and “part” for “subchapter”.
 
 Subsec. (b). Pub. L. 91–604, §§10(a), 15(c)(2), substituted provisions authorizing the Administrator to make available to the public any records, reports, of information obtained under subsec. (a) of this section, except those shown to the Administrator to be entitled to protection as trade secrets, for provisions that all information reported or otherwise obtained by the Secretary or his representative pursuant to subsec. (a) of this section, which information contains or relates to a trade secret or other matter referred to in section 1905 of title 18, be considered confidential for the purpose of such section 1905, and substituted “Administrator” for “Secretary”.
 
-1967—Pub. L. 90–148 reenacted section without change.
+<b>1967</b>—Pub. L. 90–148 reenacted section without change.
 

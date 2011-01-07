@@ -10,7 +10,7 @@
 
 (2) If, as of January 1, 1990, or 2 years after the Soil Conservation Service has completed a soil survey for the farm, whichever is later, a person is actively applying a conservation plan, such person shall have until January 1, 1995, to comply with the plan without being subject to program ineligibility. In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph.
 
-(3) Any person who owns or operates highly erodible land that was the subject of a contract entered into under subpart B of part I of subchapter IV of this chapter shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person's conservation plan requires structures to be constructed, the person shall have until 2 years after the expiration of such contract to comply with the conservation plan, or a longer period of time if the Secretary determines compliance is otherwise technically or economically not feasible, or such longer period is otherwise appropriate, before such person will be subject to program ineligibility with respect to such land under section 3811 of this title.
+(3) Any person who owns or operates highly erodible land that was the subject of a contract entered into under subpart B of part I of subchapter IV of this chapter shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person's conservation plan requires structures to be constructed, the person shall haveuntil 2 years after the expiration of such contract to comply with the conservation plan, or a longer period of time if the Secretary determines compliance is otherwise technically or economically not feasible, or such longer period is otherwise appropriate, before such person will be subject to program ineligibility with respect to such land under section 3811 of this title.
 
 (4) On the expiration of a contract entered into under subpart B of part I of subchapter IV of this chapter, the provisions of this subchapter shall apply to the acreage that was the subject of such contract.
 
@@ -110,7 +110,7 @@ Section 3811 of this title shall not apply to the noncommercial production of ag
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(1)(B), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005,2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
+This chapter, referred to in subsec. (c)(1)(B), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
 
 The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (g)(2), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. Title X of the Act enacted section 1446h of Title 7 and amended section 1425a of Title 7. Title XII of the Act, known as the Forest Stewardship Act of 1990, is classified principally to amended chapter 41 (§2101 et seq.) of this title. Title XIII of the Act enacted sections 138 to 138i and 499b–1 of Title 7, amended sections 499c, 608c, and 608e–1 of Title 7, and enacted provisions set out as notes under sections 499a and 1622 of Title 7. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 1421 of Title 7 and Tables.
 
@@ -120,9 +120,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (f). Pub. L. 110–246, §2002, added subsec. (f) and struck out former subsec. (f) which related to graduated sanctions.
+<b>2008</b>—Subsec. (f). Pub. L. 110–246, §2002, added subsec. (f) and struck out former subsec. (f) which related to graduated sanctions.
 
-1996—Subsec. (a)(2). Pub. L. 104–127, §301(d)(1), in first sentence, struck out “that documents the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures and schedule and that is based on the local Soil Conservation Service technical guide and approved by the local soil conservation district, in consultation with the local committees established under section 590h(b) of this title and the Secretary, or by the Secretary” after “applying a conservation plan”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–127, §301(d)(1), in first sentence, struck out “that documents the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures and schedule and that is based on the local Soil Conservation Service technical guide and approved by the local soil conservation district, in consultation with the local committees established under section 590h(b) of this title and the Secretary, or by the Secretary” after “applying a conservation plan”.
 
 Subsec. (a)(3). Pub. L. 104–127, §312, substituted “shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person's conservation plan requires structures to be constructed, the person shall” for “shall, if the conservation plan established under this subchapter for such land requires structures to be constructed,”.
 
@@ -138,7 +138,7 @@ Subsec. (f)(1). Pub. L. 104–127, §313(a), substituted “No person” for “
 
 Pub. L. 104–127, §301(d)(4)(A), struck out “that documents the decisions of such person with respect to location, land use, tillage systems, and conservation treatment measures and schedules prepared under subsection (a) of this section” after “apply a conservation plan”.
 
-Subsec. (f)(2). Pub. L. 104–127, §313(b), substituted “with respect to highly erodible cropland that was not in production prior to December 23, 1985, and has acted in good faith and without an intent to violate the provisions” for “meets the requirements of paragraph (1)”.
+Subsec. (f)(2). Pub. L. 104–127, §313(b), substituted “with respect to highly erodible cropland that was notin production prior to December 23, 1985, and has acted in good faith and without an intent to violate the provisions” for “meets the requirements of paragraph (1)”.
 
 Subsec. (f)(3). Pub. L. 104–127, §301(d)(4)(B), struck out “prepared under subsection (a) of this section” after “a conservation plan”.
 
@@ -150,11 +150,11 @@ Subsec. (f)(4)(C). Pub. L. 104–127, §314(1), substituted “problem, includin
 
 Subsec. (f)(5). Pub. L. 104–127, §314(2), added par. (5).
 
-1991—Subsec. (f)(4)(A). Pub. L. 102–237, §204(2)(A), substituted “such violation” for “such violations” after “which”.
+<b>1991</b>—Subsec. (f)(4)(A). Pub. L. 102–237, §204(2)(A), substituted “such violation” for “such violations” after “which”.
 
 Subsec. (g)(2). Pub. L. 102–235, §204(2)(B), struck out comma after “XIII”.
 
-1990—Subsec. (a)(3), (4). Pub. L. 101–624, §1412(a), added pars. (3) and (4).
+<b>1990</b>—Subsec. (a)(3), (4). Pub. L. 101–624, §1412(a), added pars. (3) and (4).
 
 Subsec. (b)(1), (2). Pub. L. 101–624, §1412(b)(1), (2), inserted “or” in par. (1) and substituted a period for a semicolon in par. (2).
 
@@ -172,7 +172,7 @@ Subsec. (d). Pub. L. 101–624, §1412(b)(3), redesignated subsec. (c) as (d).
 
 Subsecs. (e) to (h). Pub. L. 101–624, §1412(c)–(f), added subsecs. (e) to (h).
 
-1987—Subsec. (a)(2). Pub. L. 100–28, §3, inserted “that documents the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures and schedule and that is” after “conservation plan”, and inserted at end “In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph.”
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–28, §3, inserted “that documents the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures and schedule and that is” after “conservation plan”, and inserted at end “In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph.”
 
 Subsec. (b)(5). Pub. L. 100–28, §2(b), added par. (5).
 

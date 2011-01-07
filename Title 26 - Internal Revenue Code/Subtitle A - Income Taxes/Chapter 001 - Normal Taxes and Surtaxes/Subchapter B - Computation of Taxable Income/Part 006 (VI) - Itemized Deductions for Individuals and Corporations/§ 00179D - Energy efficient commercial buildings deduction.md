@@ -156,9 +156,9 @@ This section shall not apply with respect to property placed in service after De
 
 #### Amendments
 
-2008—Subsec. (h). Pub. L. 110–343 substituted “December 31, 2013” for “December 31, 2008”.
+<b>2008</b>—Subsec. (h). Pub. L. 110–343 substituted “December 31, 2013” for “December 31, 2008”.
 
-2006—Subsec. (h). Pub. L. 109–432 substituted “2008” for “2007”.
+<b>2006</b>—Subsec. (h). Pub. L. 109–432 substituted “2008” for “2007”.
 
 #### Effective Date
 

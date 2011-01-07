@@ -46,7 +46,7 @@
 
 (c)(1) A bankruptcy judge may hear a proceeding that is not a core proceeding but that is otherwise related to a case under title 11. In such proceeding, the bankruptcy judge shall submit proposed findings of fact and conclusions of law to the district court, and any final order or judgment shall be entered by the district judge after considering the bankruptcy judge's proposed findings and conclusions and after reviewing de novo those matters to which any party has timely and specifically objected.
 
-(2) Notwithstanding the provisions of paragraph (1) of this subsection, the district court, with the consent of all the parties to the proceeding, may refer a proceeding related to a case under title 11 to a bankruptcy judge to hear and determine and to enter appropriate orders and judgments, subject to review under section 158 of this title.
+(2) Notwithstanding the provisions of paragraph (1) of this subsection, the district court, with the consent of all the parties to the proceeding, may refer a proceeding related to a caseunder title 11 to a bankruptcy judge to hear and determine and to enter appropriate orders and judgments, subject to review under section 158 of this title.
 
 (d) The district court may withdraw, in whole or in part, any case or proceeding referred under this section, on its own motion or on timely motion of any party, for cause shown. The district court shall, on timely motion of a party, so withdraw a proceeding if the court determines that resolution of the proceeding requires consideration of both title 11 and other laws of the United States regulating organizations or activities affecting interstate commerce.
 
@@ -56,11 +56,11 @@
 
 #### Amendments
 
-2005—Subsec. (b)(2)(P). Pub. L. 109–8 added subpar. (P).
+<b>2005</b>—Subsec. (b)(2)(P). Pub. L. 109–8 added subpar. (P).
 
-1994—Subsec. (e). Pub. L. 103–394 added subsec. (e).
+<b>1994</b>—Subsec. (e). Pub. L. 103–394 added subsec. (e).
 
-1986—Subsec. (b)(2). Pub. L. 99–554, in subpar. (B) substituted “interests” for “interest” and inserted reference to chapter 12, and in subpar. (G) inserted a comma after “annul”.
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–554, in subpar. (B) substituted “interests” for “interest” and inserted reference to chapter 12, and in subpar. (G) inserted a comma after “annul”.
 
 #### Effective Date of 2005 Amendment
 

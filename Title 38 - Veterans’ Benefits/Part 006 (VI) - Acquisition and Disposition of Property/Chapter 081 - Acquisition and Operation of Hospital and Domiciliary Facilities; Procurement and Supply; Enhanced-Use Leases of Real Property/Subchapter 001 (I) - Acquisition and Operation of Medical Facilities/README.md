@@ -11,7 +11,7 @@
 - [&sect; 08104 - Congressional approval of certain medical facility acquisitions](%C2%A7%2008104%20-%20Congressional%20approval%20of%20certain%20medical%20facility%20acquisitions.md)
 - [&sect; 08105 - Structural requirements](%C2%A7%2008105%20-%20Structural%20requirements.md)
 - [&sect; 08106 - Construction contracts](%C2%A7%2008106%20-%20Construction%20contracts.md)
-- [&sect; 08107 - Operational and construction plans for medical facilities](%C2%A7%2008107%20-%20Operational%20and%20construction%20plans%20for%20medical%20facilities.md)
+- [&sect; 08107 - Repealed. Pub. L. 111&#8211;163, title V, &sect;501(b)(1), May 5, 2010, 124 Stat. 1157](%C2%A7%2008107%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93163%2C%20title%20V%2C%20%C2%A7501%28b%29%281%29%2C%20May%205%2C%202010%2C%20124%20Stat.%201157.md)
 - [&sect; 08108 - Contributions to local authorities](%C2%A7%2008108%20-%20Contributions%20to%20local%20authorities.md)
 - [&sect; 08109 - Parking facilities](%C2%A7%2008109%20-%20Parking%20facilities.md)
 - [&sect; 08110 - Operation of medical facilities](%C2%A7%2008110%20-%20Operation%20of%20medical%20facilities.md)

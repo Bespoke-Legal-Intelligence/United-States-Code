@@ -4,7 +4,3 @@ Unreserved public lands containing coal deposits in the State of Alabama which o
 
 (Apr. 23, 1912, ch. 87, 37 Stat. 90.)
 
-#### References in Text
-
-The homestead laws of the United States, referred to in text, are classified generally to chapter 7 (§161 et seq.) of Title 43, Public Lands.
-

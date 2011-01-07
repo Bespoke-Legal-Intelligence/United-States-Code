@@ -20,25 +20,25 @@
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–59, §4409(1), struck out “prior to the date of the enactment of the reauthorization of the Transportation Equity Act for the 21st Century” before “shall not apply” in introductory provisions.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §4409(1), struck out “prior to the date of the enactment of the reauthorization of the Transportation Equity Act for the 21st Century” before “shall not apply” in introductory provisions.
 
 Subsec. (c). Pub. L. 109–59, §4409(2), added subsec. (c).
 
-2003—Subsec. (a). Pub. L. 108–7 inserted “reauthorization of the” before “Transportation”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–7 inserted “reauthorization of the” before “Transportation”.
 
-1998—Subsec. (a). Pub. L. 105–277, §101(g) \[title III, §316(1)(A)\], substituted “to Haines” for “to the south Alaskan border” in first sentence, substituted “such highway or the Alaska Marine Highway System” for “such highway” in third sentence, substituted “any other fiscal year thereafter, including any portion of any other fiscal year thereafter, prior to the date of the enactment of the Transportation Equity Act for the 21st Century” for “any other fiscal year thereafter” in fourth sentence, substituted “construction of the portion of such highways that are in Canada until an agreement” for “construction of such highways until an agreement” in fifth sentence.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §101(g) \[title III, §316(1)(A)\], substituted “to Haines” for “to the southAlaskan border” in first sentence, substituted “such highway or the Alaska Marine Highway System” for “such highway” in third sentence, substituted “any other fiscal year thereafter, including any portion of any other fiscal year thereafter, prior to the date of the enactment of the Transportation Equity Act for the 21st Century” for “any other fiscal year thereafter” in fourth sentence, substituted “construction of the portion of such highways that are in Canada until an agreement” for “construction of such highways until an agreement” in fifth sentence.
 
 Subsec. (b). Pub. L. 105–277, §101(g) \[title III, §316(2)\], inserted “in Canada” after “undertaken”.
 
-1983—Subsec. (a). Pub. L. 97–424 inserted provision that notwithstanding any other provision of law, upon agreement with the State of Alaska, the Secretary is authorized to expend on the highway any Federal-aid highway funds apportioned to the State of Alaska under this title at a Federal share of 100 per centum, and that any obligation limitation enacted for fiscal year 1983 or for any other fiscal year thereafter shall not apply to such projects.
+<b>1983</b>—Subsec. (a). Pub. L. 97–424 inserted provision that notwithstanding any other provision of law, upon agreement with the State of Alaska, the Secretary is authorized to expend on the highway any Federal-aid highway funds apportioned to the State of Alaska under this title at a Federal share of 100 per centum, and that any obligation limitation enacted for fiscal year 1983 or for any other fiscal year thereafter shall not apply to such projects.
 
-1975—Subsec. (a)(1). Pub. L. 94–147 struck out provision requiring that the right-of-way granted by the Canadian Government shall forever be held inviolate as part of such highways in public use.
+<b>1975</b>—Subsec. (a)(1). Pub. L. 94–147 struck out provision requiring that the right-of-way granted by the Canadian Government shall forever be held inviolate as part of such highways in public use.
 
 #### Alaskan Roads Study; Investigation; Report to Congress
 
 Pub. L. 94–280, title I, §151, May 5, 1976, 90 Stat. 448, provided that:
 
-“(a) The Secretary of Transportation is authorized to undertake an investigation and study to determine thecost of, and the responsibility for, repairing the damage to Alaska highways that has been or will be caused by heavy truck traffic during construction of the trans-Alaska pipeline and to restore them to proper standards when construction is complete. The Secretary of Transportation shall report his initial findings to the Congress on or before September 30, 1976, and his final conclusions on rebuilding costs no later than three months after completion of pipeline construction.
+“(a) The Secretary of Transportation is authorized to undertake an investigation and study to determine the cost of, and the responsibility for, repairing the damage to Alaska highways that has been or will be caused by heavy truck traffic during construction of the trans-Alaska pipeline and to restore them to proper standards when construction is complete. The Secretary of Transportation shall report his initial findings to the Congress on or before September 30, 1976, and his final conclusions on rebuilding costs no later than three months after completion of pipeline construction.
 
 “(b) There is hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, to be available until expended, the sum of $200,000 for the purpose of making the study authorized by subsection (a) of this section.”
 

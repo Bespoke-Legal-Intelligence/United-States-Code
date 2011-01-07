@@ -94,7 +94,7 @@
 
 &emsp;&emsp;(ii) give actual notice of the proposed regulation (including the complete text of the regulation) to the State agency in each State in which the species is believed to occur, and to each county, or equivalent jurisdiction in which the species is believed to occur, and invite the comment of such agency, and each such jurisdiction, thereon;
 
-&emsp;(B) insofar as practical, and in cooperation with the Secretary of State, give notice of the proposed regulation to each foreign nation inwhich the species is believed to occur or whose citizens harvest the species on the high seas, and invite the comment of such nation thereon;
+&emsp;(B) insofar as practical, and in cooperation with the Secretary of State, give notice of the proposed regulation to each foreign nation in which the species is believed to occur or whose citizens harvest the species on the high seas, and invite the comment of such nation thereon;
 
 &emsp;(C) give notice of the proposed regulation to such professional scientific organizations as he deems appropriate;
 
@@ -140,7 +140,7 @@
 
 > Such regulation shall, at the discretion of the Secretary, take effect immediately upon the publication of the regulation in the Federal Register. Any regulation promulgated under the authority of this paragraph shall cease to have force and effect at the close of the 240-day period following the date of publication unless, during such 240-day period, the rulemaking procedures which would apply to such regulation without regard to this paragraph are complied with. If at any time after issuing an emergency regulation the Secretary determines, on the basis of the best appropriate data available to him, that substantial evidence does not exist to warrant such regulation, he shall withdraw it.
 
-(8) The publication in the Federal Register of any proposed or final regulation which is necessary or appropriate to carry out the purposes of this chapter shall include a summary by the Secretary of the data on which such regulation is based and shall show the relationship of such data to such regulation; and if such regulation designates or revises critical habitat, such summary shall, to the maximum extent practicable, also include a brief description and evaluation of those activities (whether public or private) which, in the opinion of the Secretary, if undertaken may adversely modify such habitat, or may be affected by such designation.
+(8) The publication in the Federal Register of any proposed or final regulation which is necessary or appropriate to carry out the purposes of this chapter shall include a summary by theSecretary of the data on which such regulation is based and shall show the relationship of such data to such regulation; and if such regulation designates or revises critical habitat, such summary shall, to the maximum extent practicable, also include a brief description and evaluation of those activities (whether public or private) which, in the opinion of the Secretary, if undertaken may adversely modify such habitat, or may be affected by such designation.
 
 #### (c) Lists
 
@@ -200,7 +200,7 @@ The Secretary may, by regulation of commerce or taking, and to the extent he dee
 
 (1) The Secretary shall implement a system in cooperation with the States to monitor effectively for not less than five years the status of all species which have recovered to the point at which the measures provided pursuant to this chapter are no longer necessary and which, in accordance with the provisions of this section, have been removed from either of the lists published under subsection (c) of this section.
 
-(2) The Secretary shall make prompt use of the authority under paragraph 7 <sup>2</sup> of subsection\(b) of this section to prevent a significant risk to the well being of any such recovered species.
+(2) The Secretary shall make prompt use of the authority under paragraph 7 <sup>2</sup> of subsection (b) of this section to prevent a significant risk to the well being of any such recovered species.
 
 #### (h) Agency guidelines; publication in Federal Register; scope; proposals and amendments: notice and opportunity for comments
 
@@ -230,11 +230,11 @@ The Federal Advisory Committee Act, referred to in subsec. (f)(2), is Pub. L. 92
 
 #### Amendments
 
-2003—Subsec. (a)(3). Pub. L. 108–136, §318(a), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
+<b>2003</b>—Subsec. (a)(3). Pub. L. 108–136, §318(a), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
 
 Subsec. (b)(2). Pub. L. 108–136, §318(b), inserted “the impact on national security,” after “the economic impact,”.
 
-1988—Subsec. (b)(3)(C)(iii). Pub. L. 100–478, §1002(a), added subcl. (iii).
+<b>1988</b>—Subsec. (b)(3)(C)(iii). Pub. L. 100–478, §1002(a), added subcl. (iii).
 
 Subsec. (e). Pub. L. 100–478, §1002(b), substituted “regulation of commerce or taking,” for “regulation,” in introductory provisions.
 
@@ -242,7 +242,7 @@ Subsec. (f). Pub. L. 100–478, §1003, amended subsec. (f) generally. Prior to 
 
 Subsecs. (g) to (i). Pub. L. 100–478, §1004, added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
-1982—Subsec. (a)(1). Pub. L. 97–304, §2(a)(1)(B), (D), inserted “promulgated in accordance with subsection (b) of this section” after “shall by regulation” in introductory provisions preceding subpar. (A), and struck out provision following subpar. (E), which directed the Secretary, at the time regulations were proposed, to specify any habitat of a species considered to be a critical habitat but that such specification of critical habitats not apply to species listed prior to Nov. 10, 1978.
+<b>1982</b>—Subsec. (a)(1). Pub. L. 97–304, §2(a)(1)(B), (D), inserted “promulgated in accordance with subsection (b) of this section” after “shall by regulation” in introductory provisions preceding subpar. (A), and struck out provision following subpar. (E), which directed the Secretary, at the time regulations were proposed, to specify any habitat of a species considered to be a critical habitat but that such specification of critical habitats not apply to species listed prior to Nov. 10, 1978.
 
 Subsec. (a)(1)(A). Pub. L. 97–304, §2(a)(1)(A), redesignated subpar. (1) as (A).
 
@@ -254,7 +254,7 @@ Subsec. (a)(3). Pub. L. 97–304, §2(a)(1)(E), added par. (3).
 
 Subsec. (b). Pub. L. 97–304, §2(a)(2), completely revised subsec. (b) by, among other changes, requiring the Secretary to base determinations regarding the listing or delisting of species “solely” on the basis of the best scientific and commercial data available, streamlining the listing process by reducing the time periods for rulemaking, consolidating public meetings and hearing requirements, and establishing virtually identical procedures for the listing and delisting of species and for the designation of critical habitat, and altering the evidentiary standard which petitioners must satisfy to warrant a status review of the species proposed for listing or delisting.
 
-Subsec. (c)(1). Pub. L. 97–304, §2(a)(3)(A), struck out “, and from time to time he may by regulation revise,” after “Federal Register” and inserted provision directing the Secretary to revise from time to time each list published under the authority of this subsection to reflect recent determinations, designations, and revisions made in accordance with subsections (a) and (b) of this section.
+Subsec. (c)(1). Pub. L. 97–304, §2(a)(3)(A), struck out “, and from time to time he may by regulation revise,” after “Federal Register” and inserted provision directing the Secretary to revise from time to time each list published under the authority of this subsection to reflect recent determinations, designations, and revisionsmade in accordance with subsections (a) and (b) of this section.
 
 Subsec. (c)(2). Pub. L. 97–304, §2(a)(3)(B), (C), redesignated par. (4) as (2). Former par. (2), directing the Secretary, within 90 days of the receipt of the petition of an interested person under section 553(e) of title 5, to conduct and publish in the Federal Register a review of the status of any listed or unlisted species proposed to be removed from or added to either of the lists published pursuant to paragraph (1) of this subsection, but only if he made and published a finding that such person had presented substantial evidence which in his judgment warranted such a review, was struck out.
 
@@ -270,7 +270,7 @@ Subsec. (g). Pub. L. 97–304, §2(a)(4)(C), (E), redesignated subsec. (h) as (g
 
 Subsec. (h). Pub. L. 97–304, §2(a)(4)(C), (F), added subsec. (h) and redesignated former subsec. (h) as (g).
 
-1979—Subsec. (b)(1). Pub. L. 96–159, §3(1), required the Secretary's determinations to be preceded with a review of the status of the species.
+<b>1979</b>—Subsec. (b)(1). Pub. L. 96–159, §3(1), required the Secretary's determinations to be preceded with a review of the status of the species.
 
 Subsec. (f)(2)(B)(i). Pub. L. 96–159, §3(2), required publication of summary of text rather than of the complete text of proposed regulation specifying any critical habitat and inclusion of a map of the proposed critical habitat.
 
@@ -280,7 +280,7 @@ Subsec. (f)(2)(C). Pub. L. 96–159, §3(4), (5), inserted in introductory text 
 
 Subsec. (h). Pub. L. 96–159, §3(6), added subsec. (h).
 
-1978—Subsec. (a)(1). Pub. L. 95–632, §11(1), inserted provision requiring the Secretary, at the time a regulation is proposed, to specify by regulation any habitat of the species involved which is considered a critical habitat providing the species was listed subsequent to Nov. 10, 1978.
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–632, §11(1), inserted provision requiring the Secretary, at the time a regulation is proposed, to specify by regulation any habitat of the species involved which is considered a critical habitat providing the species was listed subsequent to Nov. 10, 1978.
 
 Subsec. (b)(4). Pub. L. 95–632, §11(7), added par. (4).
 
@@ -300,7 +300,7 @@ Subsec. (f)(4), (5). Pub. L. 95–632, §11(4)(D), added pars. (4) and (5).
 
 Subsec. (g). Pub. L. 95–632, §11(5), added subsec. (g).
 
-1976—Subsec. (f)(2)(B)(ii). Pub. L. 94–359 substituted “subsection (b)(1)(A)” for “subsection (b)(A), (B), and (C)”.
+<b>1976</b>—Subsec. (f)(2)(B)(ii). Pub. L. 94–359 substituted “subsection (b)(1)(A)” for “subsection (b)(A), (B), and (C)”.
 
 #### Effective Date of 1982 Amendment
 
@@ -316,7 +316,7 @@ Section 2(b) of Pub. L. 97–304 provided that:
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdictiontransferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(7)”.</i>
 

@@ -118,9 +118,9 @@ For the purposes of this part—
 
 #### Amendments
 
-1998—Par. (2)(B). Pub. L. 105–388 substituted a semicolon for period at end.
+<b>1998</b>—Par. (2)(B). Pub. L. 105–388 substituted a semicolon for period at end.
 
-1990—Par. (1). Pub. L. 101–440, §6(b)(1), substituted “May 1, 1989” for “April 20, 1977”.
+<b>1990</b>—Par. (1). Pub. L. 101–440, §6(b)(1), substituted “May 1, 1989” for “April 20, 1977”.
 
 Par. (2). Pub. L. 101–440, §6(b)(2), (3), in introductory provision substituted “maintain or reduce energy consumption and reduce energy costs” for “reduce energy consumption” and in subpar. (C) inserted “and load management systems” after “systems”.
 
@@ -128,13 +128,13 @@ Par. (8). Pub. L. 101–440, §6(b)(4), inserted “administrative facilities,�
 
 Par. (17)(A). Pub. L. 101–440, §6(b)(5), substituted “or energy cost savings” for “and related cost savings”.
 
-1986—Par. (5)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Par. (5)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1984—Par. (9). Pub. L. 98–454 which directed the amendment of subsec. (a) by inserting reference to the Northern Mariana Islands was executed to par. (9) of this section to reflect the probable intent of Congress, because this section does not contain a subsec. (a).
+<b>1984</b>—Par. (9). Pub. L. 98–454 which directed the amendment of subsec. (a) by inserting reference to the Northern Mariana Islands was executed to par. (9) of this section to reflect the probable intent of Congress, because this section does not contain a subsec. (a).
 
 #### Separability
 
-Section 302(c) of title III of Pub. L. 95–619 provided that: “If any provision of this title \[enacting sections 6371 to 6371j and section 6372 to 6372i of this title, amending sections 300k–2 and 300n–1 of this title, and enacting provisions set out as notes under this sectionand section 6372 of this title\] or the application thereof to any person or circumstances be held invalid, the provisions of other sections of this title and their application to other persons or circumstances shall not be affected thereby.”
+Section 302(c) of title III of Pub. L. 95–619 provided that: “If any provision of this title \[enacting sections 6371 to 6371j and section 6372 to 6372i of this title, amending sections 300k–2 and 300n–1 of this title, and enacting provisions set out as notes under this section and section 6372 of this title\] or the application thereof to any person or circumstances be held invalid, the provisions of other sections of this title and their application to other persons or circumstances shall not be affected thereby.”
 
 #### Congressional Statement of Findings and Purposes
 

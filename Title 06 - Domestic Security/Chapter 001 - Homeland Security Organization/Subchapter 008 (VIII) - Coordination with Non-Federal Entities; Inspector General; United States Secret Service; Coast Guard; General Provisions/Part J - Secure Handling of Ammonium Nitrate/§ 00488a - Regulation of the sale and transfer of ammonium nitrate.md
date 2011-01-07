@@ -6,7 +6,7 @@ The Secretary shall regulate the sale and transfer of ammonium nitrate by an amm
 
 #### (b) Ammonium nitrate mixtures
 
-Not later than 90 days after December 26, 2007, the Secretary, in consultation with the heads of appropriate Federal departments and agencies (including the Secretary of Agriculture), shall, after notice and an opportunity for comment, establish a threshold percentage for ammonium nitrate in a substance.
+Not later than 90 days after December 26, 2007, the Secretary, in consultation with the heads ofappropriate Federal departments and agencies (including the Secretary of Agriculture), shall, after notice and an opportunity for comment, establish a threshold percentage for ammonium nitrate in a substance.
 
 #### (c) Registration of owners of ammonium nitrate facilities
 
@@ -62,7 +62,7 @@ Not later than 90 days after December 26, 2007, the Secretary, in consultation w
 
 &emsp;&emsp;(A) record the name, address, telephone number, and registration number issued under subsection (c) or (d) of each person that purchases ammonium nitrate, in a manner prescribed by the Secretary;
 
-&emsp;&emsp;(B) if applicable, record the name, address, and telephone number of an agent acting onbehalf of the person described in subparagraph (A), at the point of sale;
+&emsp;&emsp;(B) if applicable, record the name, address, and telephone number of an agent acting on behalf of the person described in subparagraph (A), at the point of sale;
 
 &emsp;&emsp;(C) record the date and quantity of ammonium nitrate sold or transferred; and
 
@@ -154,7 +154,7 @@ In carrying out this section, the Secretary shall consult with the Secretary of 
 
 #### (B) Sharing of information
 
-&emsp;&emsp;Notwithstanding any other provision of this part, the Secretary may share any suchinformation with Federal, State, local, and tribal law enforcement agencies, as appropriate.
+&emsp;&emsp;Notwithstanding any other provision of this part, the Secretary may share any such information with Federal, State, local, and tribal law enforcement agencies, as appropriate.
 
 #### (6) Registration information
 

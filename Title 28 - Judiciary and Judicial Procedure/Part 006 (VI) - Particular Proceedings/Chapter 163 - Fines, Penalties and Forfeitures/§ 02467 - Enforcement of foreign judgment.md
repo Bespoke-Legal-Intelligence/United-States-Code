@@ -78,7 +78,27 @@ Preservation of property.—
 
 &emsp;&emsp;(A)
 
-In general.—To preserve the availability of property subject to a foreign forfeiture or confiscation judgment, the Government may apply for, and the court may issue, a restraining order pursuant to section 983(j) of title 18, at any time before or after an application is filed pursuant to subsection (c)(1) of this section.
+Restraining orders.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—To preserve the availability of property subject to civil or criminal forfeiture under foreign law, the Government may apply for, and the court may issue, a restraining order at any time before or after the initiation of forfeiture proceedings by a foreign nation.
+
+&emsp;&emsp;&emsp;(ii)
+
+Procedures.—
+
+&emsp;&emsp;&emsp;&emsp;(I)
+
+In general.—A restraining order under this subparagraph shall be issued in a manner consistent with subparagraphs (A), (C), and (E) of paragraph (1) and the procedural due process protections for a restraining order under section 983(j) of title 18.
+
+&emsp;&emsp;&emsp;&emsp;(II)
+
+Application.—For purposes of applying such section 983(j)—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) references in such section 983(j) to civil forfeiture or the filing of a complaint shall be deemed to refer to the applicable foreign criminal or forfeiture proceedings; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the reference in paragraph (1)(B)(i) of such section 983(j) to the United States shall be deemed to refer to the foreign nation.
 
 &emsp;&emsp;(B)
 
@@ -100,7 +120,7 @@ Finality of Foreign Findings.—In entering orders to enforce the judgment, the 
 
 Currency Conversion.—The rate of exchange in effect at the time the suit to enforce is filed by the foreign nation shall be used in calculating the amount stated in any forfeiture or confiscation judgment requiring the payment of a sum of money submitted for registration.
 
-(Added Pub. L. 106–185, §15(a), Apr. 25, 2000, 114 Stat. 219; amended Pub. L. 107–56, title III, §323, Oct. 26, 2001, 115 Stat. 315.)
+(Added Pub. L. 106–185, §15(a), Apr. 25, 2000, 114 Stat. 219; amended Pub. L. 107–56, title III, §323, Oct. 26, 2001, 115 Stat. 315; Pub. L. 111–342, §2, Dec. 22, 2010, 124 Stat. 3607.)
 
 #### References in Text
 
@@ -108,9 +128,11 @@ The Federal Rules of Civil Procedure, referred to in subsecs. (c)(2)(C) and (d)(
 
 #### Amendments
 
-2001—Subsec. (a)(2)(A). Pub. L. 107–56, §323(4), inserted “, any violation of foreign law that would constitute a violation or an offense for which property could be forfeited under Federal law if the offense were committed in the United States” after “United Nations Convention”.
+<b>2010</b>—Subsec. (d)(3)(A). Pub. L. 111–342 amended subpar. (A) generally. Prior to amendment, text read as follows: “To preserve the availability of property subject to a foreign forfeiture or confiscation judgment, the Government may apply for, and the court may issue, a restraining order pursuant to section 983(j) of title 18, at any time before or after an application is filed pursuant to subsection (c)(1) of this section.”
 
-Subsec. (b)(1)(C). Pub. L. 107–56, §323(2), substituted “establishing that the foreign nation took steps, in accordance with the principles of due process, to give notice of the proceedings to all persons with an interestin the property in sufficient time to enable such persons” for “establishing that the defendant received notice of the proceedings in sufficient time to enable the defendant”.
+<b>2001</b>—Subsec. (a)(2)(A). Pub. L. 107–56, §323(4), inserted “, any violation of foreign law that would constitute a violation or an offense for which property could be forfeited under Federal law if the offense were committed in the United States” after “United Nations Convention”.
+
+Subsec. (b)(1)(C). Pub. L. 107–56, §323(2), substituted “establishing that the foreign nation took steps, in accordance with the principles of due process, to give notice of the proceedings to all persons with an interest in the property in sufficient time to enable such persons” for “establishing that the defendant received notice of the proceedings in sufficient time to enable the defendant”.
 
 Subsec. (d)(1)(D). Pub. L. 107–56, §323(3), substituted “the foreign nation did not take steps, in accordance with the principles of due process, to give notice of the proceedings to a person with an interest in the property” for “the defendant in the proceedings in the foreign court did not receive notice”.
 
@@ -119,4 +141,8 @@ Subsec. (d)(3). Pub. L. 107–56, §323(1), added par. (3).
 #### Effective Date
 
 Section applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as an Effective Date of 2000 Amendment note under section 1324 of Title 8, Aliens and Nationality.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “a”.</i>
+
+<i><sup>2</sup></i><i> So in original. The words “of the proceedings” probably should not appear.</i>
 

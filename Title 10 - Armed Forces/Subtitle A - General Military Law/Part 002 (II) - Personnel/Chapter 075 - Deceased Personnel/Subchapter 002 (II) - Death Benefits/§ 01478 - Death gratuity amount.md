@@ -70,7 +70,7 @@ Section 664(c) of the National Defense Authorization Act for Fiscal Year 2006, r
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–163, §664(a)(1), (2)(A), in introductory provisions, substituted “$100,000” for “$12,000” and struck out “(as adjusted under subsection (c))” before period at end of first sentence.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163, §664(a)(1), (2)(A), in introductory provisions, substituted “$100,000” for “$12,000” and struck out “(as adjusted under subsection (c))” before period at end of first sentence.
 
 Subsec. (c). Pub. L. 109–163, §664(a)(2)(B), struck out subsec. (c) which read as follows: “Effective on the date on which rates of basic pay under section 204 of title 37 are increased under section 1009 of that title or any other provision of law, the amount of the death gratuity in effect under subsection (a) shall be increased by the same overall average percentage of the increase in the rates of basic pay taking effect on that date.”
 
@@ -78,7 +78,7 @@ Subsec. (d). Pub. L. 109–163, §664(b), added subsec. (d).
 
 Subsec. (d)(2). Pub. L. 109–234 substituted “August 31, 2005” for “May 11, 2005”.
 
-2005—Subsec. (a). Pub. L. 109–13, §1013(a)(2), (e), temporarily substituted “(as adjusted under subsection (d))” for “(as adjusted under subsection (c))” in introductory provisions. See Effective and Termination Dates of 2005 Amendments notes below.
+<b>2005</b>—Subsec. (a). Pub. L. 109–13, §1013(a)(2), (e), temporarily substituted “(as adjusted under subsection (d))” for “(as adjusted under subsection (c))” in introductory provisions. See Effective and Termination Dates of 2005 Amendments notes below.
 
 Pub. L. 109–13, §1013(a)(1)(A), (e), temporarily inserted “, except as provided in subsections (c), (e), and (f)” after “$12,000” in introductory provisions. See Effective and Termination Dates of 2005 Amendments notes below.
 
@@ -136,17 +136,17 @@ Subsec. (f). Pub. L. 109–13, §1013(c), (e), temporarily added subsec. (f) whi
 
 > See Effective and Termination Dates of 2005 Amendments notes below.
 
-2004—Subsec. (a). Pub. L. 108–375, §643(b)(1), inserted “(as adjusted under subsection (c))” before period in introductory provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–375, §643(b)(1), inserted “(as adjusted under subsection (c))” before period in introductory provisions.
 
 Subsec. (c). Pub. L. 108–375, §643(b)(2), added subsec. (c).
 
-2003—Subsec. (a). Pub. L. 108–121 and Pub. L. 108–136 amended subsec. (a) identically, substituting “$12,000” for “$6,000” in introductory provisions.
+<b>2003</b>—Subsec. (a). Pub. L. 108–121 and Pub. L. 108–136 amended subsec. (a) identically, substituting “$12,000” for “$6,000” in introductory provisions.
 
-1991—Subsec. (a). Pub. L. 102–190, in first sentence, substituted “1475 through 1477” for “1475–1477” and “$6,000” for “equal to six months’ pay at the rate to which the decedent was entitled on the date of his death, except that the gratuity may not be less than $800 of more than $3,000.”
+<b>1991</b>—Subsec. (a). Pub. L. 102–190, in first sentence, substituted “1475 through 1477” for “1475–1477” and “$6,000” for “equal to six months’ pay at the rate to which the decedent was entitled on the date of his death, except that the gratuity may not be less than $800 of more than $3,000.”
 
-1966—Subsec. (a)(4). Pub. L. 89–718 struck out “, United States Code” after “title 37” in two places.
+<b>1966</b>—Subsec. (a)(4). Pub. L. 89–718 struck out “, United States Code” after “title 37” in two places.
 
-1964—Subsec. (a)(4). Pub. L. 88–647 substituted “the first sentence of section 209(c) of title 37, United States Code” for “section 4385(c) or 9385(c) of this title”, and provided that a person covered by section 1475(a)(4) of this title who dies in field training or on a practice cruise, or in travel to or from such training or cruise, is considered entitled on the day of his death to the payprescribed by the second sentence of section 209(c) of Title 37.
+<b>1964</b>—Subsec. (a)(4). Pub. L. 88–647 substituted “the first sentence of section 209(c) of title 37, United States Code” for “section 4385(c) or 9385(c) of this title”, and provided that a person covered by section 1475(a)(4) of this title who dies in field training or on a practice cruise, or in travel to or from such training or cruise, is considered entitled on the day of his death to the payprescribed by the second sentence of section 209(c) of Title 37.
 
 #### Effective Date of 2006 Amendment
 

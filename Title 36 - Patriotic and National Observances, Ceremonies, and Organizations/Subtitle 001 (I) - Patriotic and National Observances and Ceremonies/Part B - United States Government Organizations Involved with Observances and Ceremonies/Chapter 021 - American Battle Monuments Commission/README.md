@@ -21,7 +21,7 @@
 
 #### Amendments
 
-1999—Pub. L. 106–117, title VI, §§601(a)(2), 603(b), Nov. 30, 1999, 113 Stat. 1578, 1579, added items 2113 and 2114.
+<b>1999</b>—Pub. L. 106–117, title VI, §§601(a)(2), 603(b), Nov. 30, 1999, 113 Stat. 1578, 1579, added items 2113 and 2114.
 
 
 ---

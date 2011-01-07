@@ -92,3 +92,5 @@ The act of June 11, 1940, referred to in subsecs. (b)(1)(A) and (c)(1)(C), is ac
 
 Section was enacted as the Fern Lake Conservation and Recreation Act, and also as part of the Miscellaneous Appropriations and Offsets Act, 2004, and Consolidated Appropriations Act, 2004, and not as part of act June 11, 1940, ch. 304, 54 Stat. 262, which comprises this subchapter.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “are”.</i>
+

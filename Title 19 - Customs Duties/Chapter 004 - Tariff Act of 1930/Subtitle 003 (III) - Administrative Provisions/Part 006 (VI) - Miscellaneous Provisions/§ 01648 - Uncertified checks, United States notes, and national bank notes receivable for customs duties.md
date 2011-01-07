@@ -6,7 +6,7 @@ Customs officers may receive uncertified checks, United States notes, and circul
 
 #### Amendments
 
-1970—Pub. L. 91–271 substituted reference to customs officers for reference to collectors of customs.
+<b>1970</b>—Pub. L. 91–271 substituted reference to customs officers for reference to collectors of customs.
 
 #### Effective Date of 1970 Amendment
 

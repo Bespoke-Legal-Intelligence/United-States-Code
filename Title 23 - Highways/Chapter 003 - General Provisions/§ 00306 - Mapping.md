@@ -20,5 +20,5 @@ Guidance.—The Secretary shall issue guidance to encourage States to utilize, t
 
 #### Amendments
 
-1995—Pub. L. 104–59 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>1995</b>—Pub. L. 104–59 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

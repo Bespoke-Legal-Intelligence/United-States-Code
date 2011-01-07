@@ -4,11 +4,11 @@
 
 (b) The Secretary shall prescribe the design, location, and dimensions of the tonnage mark to be placed on a vessel measured under this section.
 
-(c)(1) If a vessel's tonnage mark is below the uppermost part of the load line marks, each certificate stating the vessel's tonnages shall state the gross and net tonnages when the mark is submerged and when it is not submerged.
+(c)(1) If a vessel is assigned two sets of gross and net tonnages under this section, each certificate stating the vessel's tonnages shall state the gross and net tonnages when the vessel's tonnage mark is submerged and when it is not submerged.
 
-(2) Except as provided in paragraph (1) of this subsection, a certificate stating a vessel's tonnages may state only one set of gross and net tonnages.
+(2) Except as provided in paragraph (1) of this subsection, a certificate stating a vessel's tonnages may state only one set of gross and net tonnages as assigned under this section.
 
-(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1924.)
+(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1924; Pub. L. 111–281, title III, §303(h), Oct. 15, 2010, 124 Stat. 2925.)
 
 #### Historical and Revision Notes
 
@@ -21,4 +21,10 @@ Section 14513 gives discretionary authority to the Secretary to exclude certain 
 #### References in Text
 
 Section 2 of the Act of September 29, 1965, referred to in subsec. (a), was classified to section 83a of the former Appendix to this title and was repealed by Pub. L. 99–509, title V, §5104(b), Oct. 21, 1986, 100 Stat. 1928.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (c)(1). Pub. L. 111–281, §303(h)(1), substituted “vessel is assigned two sets of gross and net tonnages under this section,” for “vessel's tonnage mark is below the uppermost part of the load line marks,” and inserted “vessel's tonnage” before “mark is submerged”.
+
+Subsec. (c)(2). Pub. L. 111–281, §303(h)(2), substituted “as assigned under this section.” for period at end.
 

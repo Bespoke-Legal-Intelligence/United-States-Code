@@ -1,6 +1,6 @@
 ### §3051. Powers of Special Agents <sup>1</sup> of Bureau of Alcohol, Tobacco, Firearms, and Explosives
 
-(a) Special agents of the Bureau of Alcohol, Tobacco, Firearms, and Explosives, as well as any other investigator or officer charged by the Attorney General with the duty of enforcing any of the criminal, seizure, or forfeiture provisions of the laws of the United States, may carry firearms, serve warrants and subpoenas issuedunder the authority of the United States and make arrests without warrant for any offense against the United States committed in their presence, or for any felony cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing such felony.
+(a) Special agents of the Bureau of Alcohol, Tobacco, Firearms, and Explosives, as well as any other investigator or officer charged by the Attorney General with the duty of enforcing any of the criminal, seizure, or forfeiture provisions of the laws of the United States, may carry firearms, serve warrants and subpoenas issued under the authority of the United States and make arrests without warrant for any offense against the United States committed in their presence, or for any felony cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing such felony.
 
 (b) Any special agent of the Bureau of Alcohol, Tobacco, Firearms, and Explosives may, in respect to the performance of his or her duties, make seizures of property subject to forfeiture to the United States.
 
@@ -23,8 +23,6 @@
 (Added Pub. L. 107–296, title XI, §1113, Nov. 25, 2002, 116 Stat. 2279.)
 
 #### References in Text
-
-The customs laws, referred to in subsec. (c)(1), (2), are classified generally to Title 19, Customs Duties.
 
 Section 5872(b) of the Internal Revenue Code of 1986, referred to in subsec. (c)(3), is classified to section 5872(b) of Title 26, Internal Revenue Code.
 

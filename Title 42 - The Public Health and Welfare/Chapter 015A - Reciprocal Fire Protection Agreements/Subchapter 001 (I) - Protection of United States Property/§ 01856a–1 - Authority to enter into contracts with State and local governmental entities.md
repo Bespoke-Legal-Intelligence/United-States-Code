@@ -14,5 +14,5 @@ Provisions similar to those in this section were contained in the following prio
 
 #### Amendments
 
-2007—Pub. L. 110–114 inserted “the Secretary of the Army,” after “the Secretary of Energy,”.
+<b>2007</b>—Pub. L. 110–114 inserted “the Secretary of the Army,” after “the Secretary of Energy,”.
 

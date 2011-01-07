@@ -24,9 +24,9 @@ Judicial Review.—Any determination of the Copyright Royalty Judges under subse
 
 #### Amendments
 
-2004—Pub. L. 108–419 amended section catchline and text generally, substituting provisions relating to determination of certain disputes for provisions relating to arbitration of certain disputes.
+<b>2004</b>—Pub. L. 108–419 amended section catchline and text generally, substituting provisions relating to determination of certain disputes for provisions relating to arbitration of certain disputes.
 
-1993—Subsec. (b). Pub. L. 103–198, §6(b)(5)(A), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” before “requesting the commencement” and for “Tribunal” wherever appearing.
+<b>1993</b>—Subsec. (b). Pub. L. 103–198, §6(b)(5)(A), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” before “requesting the commencement” and for “Tribunal” wherever appearing.
 
 Subsec. (e). Pub. L. 103–198, §6(b)(5)(B), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” in heading and text.
 

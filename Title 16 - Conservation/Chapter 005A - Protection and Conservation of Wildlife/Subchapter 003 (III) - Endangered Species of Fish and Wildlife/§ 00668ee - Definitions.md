@@ -46,7 +46,7 @@ The Bankhead-Jones Farm Tenant Act, referred to in par. (5)(B), is act July 22, 
 
 #### Amendments
 
-1997—Pub. L. 105–57 inserted section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1997</b>—Pub. L. 105–57 inserted section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) The term ‘person’ as used in this Act means any individual, partnership, corporation, or association.
 

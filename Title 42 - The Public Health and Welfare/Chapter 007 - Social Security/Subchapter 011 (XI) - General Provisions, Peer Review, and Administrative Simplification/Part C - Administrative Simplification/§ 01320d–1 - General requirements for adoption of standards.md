@@ -24,7 +24,7 @@ Any standard adopted under this part shall be consistent with the objective of r
 
 #### (A) Different standards
 
-&emsp;&emsp;The Secretary may adopt a standard that is different from any standard developed,adopted, or modified by a standard setting organization, if—
+&emsp;&emsp;The Secretary may adopt a standard that is different from any standard developed, adopted, or modified by a standard setting organization, if—
 
 &emsp;&emsp;&emsp;(i) the different standard will substantially reduce administrative costs to health care providers and health plans compared to the alternatives; and
 

@@ -1,6 +1,6 @@
 ### §3718. Contracts for collection services
 
-(a) Under conditions the head of an executive, judicial, or legislative agency considers appropriate, the head of the agency may enter into a contract with a person for collection service to recover indebtedness owed, or to locate or recover assets of, the United States Government. The head of an agency may not enter into a contract under the preceding sentence to locate or recover assets of the United States held by a State government or financial institution unless that agency has established procedures approved by the Secretary of the Treasury to identify and recover such assets. The contract shall provide that—
+(a) Under conditions the head of an executive, judicial, or legislative agency considers appropriate, the head of the agency may enter into a contract with a person for collection service to recover indebtedness owed, or to locate or recover assets of, the United States Government. The head of an agency may not enter into a contract under the preceding sentence to locate or recover assets of the United States held by a State government or financial institution unless that agency has established procedures approvedby the Secretary of the Treasury to identify and recover such assets. The contract shall provide that—
 
 &emsp;(1) the head of the agency retains the authority to resolve a dispute, compromise a claim, end collection action, and refer a matter to the Attorney General to bring a civil action; and
 
@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) laws and regulations of the United States Government and State governments related to debt collection practices.
 
-(b)(1)(A) The Attorney General may make contracts retaining private counsel to furnish legal services, including representation in negotiation, compromise, settlement, and litigation, in the case of any claim of indebtedness owed the United States. Each such contract shall include such terms and conditions as the Attorney General considers necessary and appropriate, including a provision specifying the amount of the fee to be paid to the private counsel under such contract or the method for calculating that fee. The amount of the fee payable for legal services furnished under any such contract may not exceed the fee that counsel engaged in the private practice of law in the area or areas where the legal services are furnished typically charge clients for furnishing legal services in the collection of claims of indebtedness, as determined by the Attorney General, considering the amount, age, and nature of the indebtedness and whether the debtor is an individual or a business entity. Nothing in this subparagraph shall relieve the Attorney General of the competition requirements set forth in title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 and following).
+(b)(1)(A) The Attorney General may make contracts retaining private counsel to furnish legal services, including representation in negotiation, compromise, settlement, and litigation, in the case of any claim of indebtedness owed the United States. Each such contract shall include such terms and conditions as the Attorney General considers necessary and appropriate, including a provision specifying the amount of the fee to be paid to the private counsel under such contract or the method for calculating that fee. The amount of the fee payable for legal services furnished under any such contract may not exceed the fee that counsel engaged in the private practice of law in the area or areas where the legal services are furnished typically charge clients for furnishing legal services in the collection of claims of indebtedness, as determined by the Attorney General, considering the amount, age, and nature of the indebtedness and whether the debtor is an individual or a business entity. Nothing in this subparagraph shall relieve the Attorney General of the competition requirements set forth in division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 (B) The Attorney General shall use his best efforts to enter into contracts under this paragraph with law firms owned and controlled by socially and economically disadvantaged individuals and law firms that are qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act), so as to enable each agency to comply with paragraph (3).
 
@@ -60,7 +60,7 @@
 
 (g) In order to assist Congress in determining whether use of private counsel is a cost-effective method of collecting Government debts, the Attorney General shall, following consultation with the Government Accountability Office, maintain and make available to the Inspector General of the Department of Justice, statistical data relating to the comparative costs of debt collection by participating United States Attorneys’ Offices and by private counsel.
 
-(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2473; amended Pub. L. 98–167, Nov. 29, 1983, 97 Stat. 1104; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–578, §1, Oct. 28, 1986, 100 Stat. 3305; Pub. L. 102–589, §6, Nov. 10, 1992, 106 Stat. 5135; Pub. L. 103–272, §4(f)(1)(M), July 5, 1994, 108 Stat. 1362; Pub. L. 104–134, title III, §31001(c)(1), (<i>l</i>), (cc)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–366, 1321–380; Pub. L. 105–135, title VI, §604(e)(1), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2473; amended Pub. L. 98–167, Nov. 29, 1983, 97 Stat. 1104; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–578, §1, Oct. 28, 1986, 100 Stat. 3305; Pub. L. 102–589, §6, Nov. 10, 1992, 106 Stat. 5135; Pub. L. 103–272, §4(f)(1)(M), July 5, 1994, 108 Stat. 1362; Pub. L. 104–134, title III, §31001(c)(1), (<i>l</i>), (cc)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–366, 1321–380; Pub. L. 105–135, title VI, §604(e)(1), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–350, §5(h)(6), Jan. 4, 2011, 124 Stat. 3849.)
 
 Historical and Revision Notes
 
@@ -96,27 +96,27 @@ In subsection (b), the words “the head of an agency” are omitted as surplus.
 
 In subsection (c), the word “advanced” is omitted as surplus.
 
-In subsection (d), the words “Notwithstanding the provisions of any other law governing the collection ofclaims owed the United States” and “unpaid or underpaid” are omitted as surplus.
+In subsection (d), the words “Notwithstanding the provisions of any other law governing the collection of claims owed the United States” and “unpaid or underpaid” are omitted as surplus.
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(1)(A), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
-
 Section 3(p) of the Small Business Act, referred to in subsec. (b)(1)(B), (3)(C), is classified to section 632(p) of Title 15, Commerce and Trade.
 
-The Fair Debt Collection Practices Act, referred to in subsec. (b)(6), is title VIII of Pub. L. 90–321, as added by Pub. L. 95–109 Sept. 20, 1977, 91 Stat. 874, as amended, which is classified generally to subchapter V (§1692 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Fair Debt Collection Practices Act, referred to in subsec. (b)(6), is title VIII of Pub. L. 90–321, as added by Pub. L. 95–109 Sept. 20, 1977, 91 Stat. 874, which is classified generally to subchapter V (§1692 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 #### Amendments
 
-2004—Subsec. (g). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2011</b>—Subsec. (b)(1)(A). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 and following)”.
 
-1997—Subsec. (b)(1)(B). Pub. L. 105–135, §604(e)(1)(A), inserted “and law firms that are qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act)” after “disadvantaged individuals”.
+<b>2004</b>—Subsec. (g). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+
+<b>1997</b>—Subsec. (b)(1)(B). Pub. L. 105–135, §604(e)(1)(A), inserted “and law firms that are qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act)” after “disadvantaged individuals”.
 
 Subsec. (b)(3). Pub. L. 105–135, §604(e)(1)(B)(i), inserted “and law firms that are qualified HUBZone small business concerns” after “economically disadvantaged individuals” in introductory provisions.
 
 Subsec. (b)(3)(C). Pub. L. 105–135, §604(e)(1)(B)(ii)–(iv), added subpar. (C).
 
-1996—Subsec. (a). Pub. L. 104–134, §31001(<i>l</i>)(1), in introductory provisions substituted “Under conditions the head of an executive, judicial, or legislative agency considers appropriate, the head of the agency may enter into a contract with a person for collection service to recover indebtedness owed, or to locate or recover assets of, the United States Government. The head of an agency may not enter into a contract under the preceding sentence to locate or recover assets of the United States held by a State government or financial institution unless that agency has established procedures approved by the Secretary of the Treasury to identify and recover such assets.” for “Under conditions the head of an executive or legislative agency considers appropriate, the head of the agency may make a contract with a person for collection services to recover indebtedness owed the United States Government.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–134, §31001(<i>l</i>)(1), in introductory provisions substituted “Under conditions the head of an executive, judicial, or legislative agency considers appropriate, the head of the agency may enter into a contract with a person for collection service to recover indebtedness owed, or to locate or recover assets of, the United States Government. The head of an agency may not enter into a contract under the preceding sentence to locate or recover assets of the United States held by a State government or financial institution unless that agency has established procedures approved by the Secretary of the Treasury to identify and recover such assets.” for “Under conditions the head of an executive or legislative agency considers appropriate, the head of the agency may make a contract with a person for collection services to recover indebtedness owed the United States Government.”
 
 Subsec. (b)(1)(A). Pub. L. 104–134, §31001(cc)(1), struck out “If the Attorney General makes a contract for legal services to be furnished in any judicial district of the United States under the first sentence of this paragraph, the Attorney General shall use his best efforts to obtain, from among attorneys regularly engaged in the private practice of law in such district, at least four such contracts for legal services with private individuals or firms in such district.” before “Nothing in this subparagraph shall”.
 
@@ -124,11 +124,11 @@ Subsec. (b)(2). Pub. L. 104–134, §31001(c)(1), which directed the amendment o
 
 Subsec. (d). Pub. L. 104–134, §31001(<i>l</i>)(2), inserted “, or to locate or recover assets of,” after “owed”.
 
-1994—Subsec. (b)(3)(A). Pub. L. 103–272 substituted “15 U.S.C. 637(d)(3)(C)(i)” for “15 U.S.C. 6376(d)(3)(C)(i)”.
+<b>1994</b>—Subsec. (b)(3)(A). Pub. L. 103–272 substituted “15 U.S.C. 637(d)(3)(C)(i)” for “15 U.S.C. 6376(d)(3)(C)(i)”.
 
-1992—Subsec. (g). Pub. L. 102–589 added subsec. (g).
+<b>1992</b>—Subsec. (g). Pub. L. 102–589 added subsec. (g).
 
-1986—Subsecs. (b), (c). Pub. L. 99–578, §1(1), (4), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively.
+<b>1986</b>—Subsecs. (b), (c). Pub. L. 99–578, §1(1), (4), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively.
 
 Subsec. (d). Pub. L. 99–578, §1(1), (2), redesignated former subsec. (b) as (d) and inserted “or (b)” after “subsection (a)”. Former subsec. (d) redesignated (f).
 
@@ -138,7 +138,7 @@ Subsec. (e). Pub. L. 99–578, §1(1), (3), redesignated former subsec. (c) as (
 
 Subsec. (f). Pub. L. 99–578, §1(1), redesignated former subsec. (d) as (f).
 
-1983—Subsec. (c). Pub. L. 98–167 inserted “This limitation does not apply in the case of a contract that authorizes a person to collect a fee as provided in subsection (b) of this section.”
+<b>1983</b>—Subsec. (c). Pub. L. 98–167 inserted “This limitation does not apply in the case of a contract that authorizes a person to collect a fee as provided in subsection (b) of this section.”
 
 #### Effective Date of 1997 Amendment
 

@@ -1,6 +1,6 @@
 ### §410. Establishment; acquisition of land
 
-When title to all the lands within boundaries to be determined by the Secretary of the Interior within the area of approximately two thousand square miles in the region of the Everglades of Dade, Monroe, and Collier Counties, in the State of Florida, recommended by said Secretary, in his report to Congress of December 3, 1930, pursuant to the Act of March 1, 1929 (45 Stat. 1443), shall have been vested in the United States, said lands shall be, and are, established, dedicated, and set apart as a public park for the benefit and enjoyment of the people and shall beknown as the Everglades National Park: <i>Provided</i>, That the United States shall not purchase by appropriation of public moneys any land within the aforesaid area, but such lands shall be secured by the United States only by public or private donation.
+When title to all the lands within boundaries to be determined by the Secretary of the Interior within the area of approximately two thousand square miles in the region of the Everglades of Dade, Monroe, and Collier Counties, in the State of Florida, recommended by said Secretary, in his report to Congress of December 3, 1930, pursuant to the Act of March 1, 1929 (45 Stat. 1443), shall have been vested in the United States, said lands shall be, and are, established, dedicated, and set apart as a public park for the benefit and enjoyment of the people and shall be known as the Everglades National Park: <i>Provided</i>, That the United States shall not purchase by appropriation of public moneys any land within the aforesaid area, but such lands shall be secured by the United States only by public or private donation.
 
 (May 30, 1934, ch. 371, §1, 48 Stat. 816.)
 
@@ -64,7 +64,7 @@ Miccosukee reserved area; mra.—
 
 &emsp;&emsp;“(A)
 
-In general.—The term ‘Miccosukee Reserved Area’ or ‘MRA’ means, notwithstanding any other provision of law and subject to the limitations specified in section 6(d) of this Act, the portion of the Everglades National Park described in subparagraph (B) that is depicted on the map entitled ‘Miccosukee Reserved Area’ numbered NPS–160/41,038, and dated September 30, 1998, copies of which shall be kept available for public inspection in the offices of the National Park Service, Department of the Interior, and shall be filed with appropriate officers of Miami-Dade County and the Miccosukee Tribe of Indians of Florida.
+In general.—The term ‘Miccosukee Reserved Area’ or ‘MRA’ means, notwithstanding any other provision of law and subject to the limitations specified in section 6(d) of this Act, the portion of the Everglades National Park described insubparagraph (B) that is depicted on the map entitled ‘Miccosukee Reserved Area’ numbered NPS–160/41,038, and dated September 30, 1998, copies of which shall be kept available for public inspection in the offices of the National Park Service, Department of the Interior, and shall be filed with appropriate officers of Miami-Dade County and the Miccosukee Tribe of Indians of Florida.
 
 &emsp;&emsp;“(B)
 
@@ -122,7 +122,7 @@ Governance of affairs in miccosukee reserved area.—Subject to the provisions o
 
 “(b)
 
-Perpetual Use and Occupancy.—The Tribe shall have the exclusive right to use and develop the MRA in perpetuity in a manner consistent with this Act forpurposes of the administration, education, housing, and cultural activities of the Tribe, including commercial services necessary to support those purposes.
+Perpetual Use and Occupancy.—The Tribe shall have the exclusive right to use and develop the MRA in perpetuity in a manner consistent with this Act for purposes of the administration, education, housing, and cultural activities of the Tribe, including commercial services necessary to support those purposes.
 
 “(c)
 
@@ -184,7 +184,7 @@ Prevention of significant propagation of exotic plants and animals.—The Tribe 
 
 &emsp;&emsp;“(D)
 
-Public access to certain areas of the park.—The Tribe shall not impede public access to those areas of the Park outside the boundaries of the MRA, and to and from the Big Cypress National Preserve, except that the Tribe shall not be required to allow individuals who are not members of the Tribe access to the MRA other than Federal employees, agents, officers, and officials (as provided in this Act).
+Public access to certain areas of the park.—The Tribe shall not impede public access to those areas of the Park outside the boundaries of the MRA, and to and from the Big Cypress National Preserve, except that the Tribe shall not be required to allow individuals who are not members ofthe Tribe access to the MRA other than Federal employees, agents, officers, and officials (as provided in this Act).
 
 &emsp;&emsp;“(E)
 
@@ -320,7 +320,7 @@ Description.—The description referred to in subparagraph (A)(ii) is as follows
 
 &emsp;&emsp;&emsp;“(ii) Easement number 2, being 443 feet wide with western boundary 3,637 feet, and eastern boundary 4,080 feet, east of the western boundary of the MRA.
 
-&emsp;&emsp;&emsp;“(iii) Easement number 3, being 320 feet wide with western boundary 5,380 feet, and eastern boundary 5,700 feet, east of the western boundary of the MRA.
+&emsp;&emsp;&emsp;“(iii) Easement number 3, being 320 feet wide with western boundary 5,380 feet, and easternboundary 5,700 feet, east of the western boundary of the MRA.
 
 &emsp;&emsp;&emsp;“(iv) Easement number 4, being 290 feet wide with western boundary 6,020 feet, and eastern boundary 6,310 feet, east of the western boundary of the MRA.
 
@@ -462,7 +462,7 @@ United states held harmless.—
 
 &emsp;&emsp;“(A)
 
-In general.—Subject to subparagraph (B) with respect to any tribal member, tribal employee, tribal contractor, tribal enterprise, or any person residing within the MRA, notwithstanding any other provision of law, the United States (including an officer, agent, or employee of the United States), shall not be liable for any action or failure to act by the Tribe (including an officer, employee, or member of the Tribe), including any failure to perform any of the obligations of the Tribe under this Act.
+In general.—Subject to subparagraph (B) with respect to any tribal member, tribal employee, tribal contractor, tribal enterprise, or any personresiding within the MRA, notwithstanding any other provision of law, the United States (including an officer, agent, or employee of the United States), shall not be liable for any action or failure to act by the Tribe (including an officer, employee, or member of the Tribe), including any failure to perform any of the obligations of the Tribe under this Act.
 
 &emsp;&emsp;“(B)
 

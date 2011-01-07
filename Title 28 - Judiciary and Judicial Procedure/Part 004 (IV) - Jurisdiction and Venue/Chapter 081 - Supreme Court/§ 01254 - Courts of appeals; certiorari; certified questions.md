@@ -24,7 +24,7 @@ Changes were made in phraseology and arrangement.
 
 #### Amendments
 
-1988—Pub. L. 100–352, §2(b), struck out “appeal;” after “certiorari;” in section catchline.
+<b>1988</b>—Pub. L. 100–352, §2(b), struck out “appeal;” after “certiorari;” in section catchline.
 
 Pars. (2), (3). Pub. L. 100–352, §2(a), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “By appeal by a party relying on a State statute held by a court of appeals to be invalid as repugnant to the Constitution, treaties or laws of the United States, but such appeal shall preclude review by writ of certiorari at the instance of such appellant, and the review on appeal shall be restricted to the Federal questions presented;”.
 

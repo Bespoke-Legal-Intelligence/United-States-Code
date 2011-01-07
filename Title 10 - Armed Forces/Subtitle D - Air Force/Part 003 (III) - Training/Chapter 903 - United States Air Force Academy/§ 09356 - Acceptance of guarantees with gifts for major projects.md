@@ -10,7 +10,7 @@ Obligation Authority.—The amount of a qualified guarantee accepted under this 
 
 (c)
 
-Notice of Proposed Acceptance.—The Secretary of the Air Force may not accept a qualified guarantee under this section for thecompletion of a major project until after the expiration of 30 days following the date upon which a report of the facts concerning the proposed guarantee is submitted to Congress or, if earlier, the expiration of 14 days following the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.
+Notice of Proposed Acceptance.—The Secretary of the Air Force may not accept a qualified guarantee under this section for the completion of a major project until after the expiration of 30 days following the date upon which a report of the facts concerning the proposed guarantee is submitted to Congress or, if earlier, the expiration of 14 days following the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.
 
 (d)
 
@@ -46,7 +46,7 @@ Qualified account control agreement.—The term “qualified account control agr
 
 &emsp;&emsp;(A) ensures the availability of sufficient funds or other financial resources to pay the amount guaranteed during the period of the guarantee;
 
-&emsp;&emsp;(B) provides for the perfection of a security interest in the assets of the account for the United States for the benefit of the Academy with the highest priority available for liens and security interests under applicable law;
+&emsp;&emsp;(B) provides for the perfection of a security interest in the assets of the account for the United States for the benefit of the Academy with the highest priority availablefor liens and security interests under applicable law;
 
 &emsp;&emsp;(C) requires the donor to maintain in an account with the investment management firm assets having a total value that is not less than 130 percent of the amount guaranteed; and
 
@@ -78,7 +78,7 @@ A prior section 9356, added Pub. L. 103–337, div. A, title V, §556(c)(1), Oct
 
 #### Amendments
 
-2003—Subsec. (c). Pub. L. 108–136 inserted before period at end “or, if earlier, the expiration of 14 days following the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title”.
+<b>2003</b>—Subsec. (c). Pub. L. 108–136 inserted before period at end “or, if earlier, the expiration of 14 days following the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title”.
 
-2000—Subsec. (e)(5). Pub. L. 106–398 inserted a closing parenthesis after “80b–2)” in introductory provisions.
+<b>2000</b>—Subsec. (e)(5). Pub. L. 106–398 inserted a closing parenthesis after “80b–2)” in introductory provisions.
 

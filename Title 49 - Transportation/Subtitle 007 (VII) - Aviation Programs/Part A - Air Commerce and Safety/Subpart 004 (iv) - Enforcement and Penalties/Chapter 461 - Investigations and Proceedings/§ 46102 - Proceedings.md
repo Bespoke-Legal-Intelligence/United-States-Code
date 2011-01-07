@@ -88,11 +88,11 @@ In subsection (b), the text of 49 App.:1481 (4th sentence words after last comma
 
 In subsection (c), the words “vote and” are omitted as surplus.
 
-In subsection (d), the words “officer or employee of the Administration” are substituted for “member” for clarity and consistency in the revised title and with other titles of the United States Code. The words“hearing or” are omitted as surplus. The words “referred to in subsection (a) of this section” are added for clarity.
+In subsection (d), the words “officer or employee of the Administration” are substituted for “member” for clarity and consistency in the revised title and with other titles of the United States Code. The words “hearing or” are omitted as surplus. The words “referred to in subsection (a) of this section” are added for clarity.
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–71, §140(b)(1), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–71, §140(b)(1), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
 
 Subsec. (b). Pub. L. 107–71, §140(b)(4), substituted “, the Under Secretary, and the Administrator” for “and the Administrator”.
 

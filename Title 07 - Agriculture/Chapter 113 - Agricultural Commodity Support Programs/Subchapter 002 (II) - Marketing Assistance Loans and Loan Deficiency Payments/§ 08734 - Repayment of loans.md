@@ -104,7 +104,7 @@ The Secretary shall permit the producers on a farm to repay a marketing assistan
 
 #### (2) Duration
 
-&emsp;Any adjustment made under paragraph (1) in the repayment rate for marketing assistanceloans for a loan commodity shall be in effect on a short-term and temporary basis, as determined by the Secretary.
+&emsp;Any adjustment made under paragraph (1) in the repayment rate for marketing assistance loans for a loan commodity shall be in effect on a short-term and temporary basis, as determined by the Secretary.
 
 (Pub. L. 110–234, title I, §1204, May 22, 2008, 122 Stat. 956; Pub. L. 110–246, §4(a), title I, §1204, June 18, 2008, 122 Stat. 1664, 1684.)
 

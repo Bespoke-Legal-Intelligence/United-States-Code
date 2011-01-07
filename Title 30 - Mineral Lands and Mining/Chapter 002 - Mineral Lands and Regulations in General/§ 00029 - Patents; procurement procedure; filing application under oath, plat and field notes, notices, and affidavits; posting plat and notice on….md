@@ -14,7 +14,7 @@ R.S. §2325 derived from act May 10, 1872, ch. 152, §6, 17 Stat. 92.
 
 #### Amendments
 
-1925—Act Mar. 3, 1925, affected words, in first sentence of text, now reading “United States supervisor of surveys,” and words, in next to last sentence of text, now reading “register of the proper land office.” Those words formerly read “United States surveyor general” and “register and receiver of the proper land office,” respectively. This act abolished the office of surveyor general, and transferred to and consolidated with the Field Surveying Service, under the jurisdiction of the U.S. Supervisor of Surveys, the administration, equipment, etc., of such office, and consolidated the offices and functions of the register and receiver.
+<b>1925</b>—Act Mar. 3, 1925, affected words, in first sentence of text, now reading “United States supervisor of surveys,” and words, in next to last sentence of text, now reading “register of the proper land office.” Those words formerly read “United States surveyor general” and “register and receiver of the proper land office,” respectively. This act abolished the office of surveyor general, and transferred to and consolidated with the Field Surveying Service, under the jurisdiction of the U.S. Supervisor of Surveys, the administration, equipment, etc., of such office, and consolidated the offices and functions of the register and receiver.
 
 #### Transfer of Functions
 

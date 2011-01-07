@@ -4,11 +4,19 @@
 
 (b) Any person who shall violate the provisions of this section shall be deemed guilty of a misdemeanor and upon conviction thereof be fined not more than $5,000.
 
-(Pub. L. 85–839, §1, Aug. 28, 1958, 72 Stat. 1013.)
+(Pub. L. 85–839, §1, Aug. 28, 1958, 72 Stat. 1013; Pub. L. 111–203, title VII, §721(e)(10), July 21, 2010, 124 Stat. 1672.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 111–203, title VII, §§721(e)(10), 754, July 21, 2010, 124 Stat. 1672, 1754, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 re</i><i>quires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, subsection (a) of this section is amended in the first sentence, by inserting “motion picture box office receipts (or any index, measure, value, or data related to such receipts) or” after “sale of”.</i>
 
 #### Codification
 
 Section was not enacted as part of the Commodity Exchange Act which comprises this chapter.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 #### Effective Date
 

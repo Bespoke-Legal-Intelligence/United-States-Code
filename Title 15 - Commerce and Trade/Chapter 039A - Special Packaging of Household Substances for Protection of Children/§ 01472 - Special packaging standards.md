@@ -26,7 +26,7 @@ In carrying out this Act, the Commission shall publish its findings, its reasons
 
 #### (d) Limitation
 
-Nothing in this Act shall authorize the Commission to prescribe specific packaging designs,product content, package quantity, or, with the exception of authority granted in section 1473(a)(2) of this title, labeling. In this case of a household substance for which special packaging is required pursuant to a regulation under this section, the Commission may in such regulation prohibit the packaging of such substance in packages which it determines are unnecessarily attractive to children.
+Nothing in this Act shall authorize the Commission to prescribe specific packaging designs, product content, package quantity, or, with the exception of authority granted in section 1473(a)(2) of this title, labeling. In this case of a household substance for which special packaging is required pursuant to a regulation under this section, the Commission may in such regulation prohibit the packaging of such substance in packages which it determines are unnecessarily attractive to children.
 
 #### (e) Cost-benefit analysis not required
 
@@ -40,9 +40,9 @@ For classification to the Code of “this Act”, referred to in text, see Refer
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–314 added subsec. (e).
+<b>2008</b>—Subsec. (e). Pub. L. 110–314 added subsec. (e).
 
-1983—Subsec. (a). Pub. L. 97–414 struck out “, after consultation with the technical advisory committee provided for in section 1475 of this title” after “The Commission”.
+<b>1983</b>—Subsec. (a). Pub. L. 97–414 struck out “, after consultation with the technical advisory committee provided for in section 1475 of this title” after “The Commission”.
 
 #### Transfer of Functions
 

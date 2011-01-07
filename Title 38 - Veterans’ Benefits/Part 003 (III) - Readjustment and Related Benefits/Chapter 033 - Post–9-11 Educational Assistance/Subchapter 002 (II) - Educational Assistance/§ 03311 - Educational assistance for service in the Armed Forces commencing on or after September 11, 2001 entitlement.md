@@ -56,7 +56,7 @@ Covered Individuals.—An individual described in this subsection is any individ
 
 &emsp;(6) An individual who—
 
-&emsp;&emsp;(A) commencing on or after September 11, 2001, serves an aggregate of at least 12 months, but less than 18 months, on active duty in the Armed Forces (excluding serviceon active duty in entry level and skill training); and
+&emsp;&emsp;(A) commencing on or after September 11, 2001, serves an aggregate of at least 12 months, but less than 18 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
 
 &emsp;&emsp;(B) after completion of service described in subparagraph (A)—
 
@@ -96,7 +96,7 @@ Covered Discharges and Releases.—A discharge or release from active duty of an
 
 &emsp;(3) A release from active duty in the Armed Forces for further service in a reserve component of the Armed Forces after service on active duty characterized by the Secretary concerned as honorable service.
 
-&emsp;(4) A discharge or release from active duty in the Armed Forces for—
+&emsp;(4) A discharge or release from active duty in the Armed Forces after service on active duty in the Armed Forces characterized by the Secretary concerned as honorable service for—
 
 &emsp;&emsp;(A) a medical condition which preexisted the service of the individual as described in the applicable paragraph of subsection (b) and which the Secretary determines is not service-connected;
 
@@ -110,7 +110,7 @@ Prohibition on Treatment of Certain Service as Period of Active Duty.—The foll
 
 &emsp;(1) A period of service on active duty of an officer pursuant to an agreement under section 2107(b) of title 10.
 
-&emsp;(2) A period of service on active duty of an officer pursuant to an agreement under section 4348, 6959, or 9348 of title 10.
+&emsp;(2) A period of service on active duty of an officer pursuant to an agreement under section 4348, 6959, or 9348 of title 10 or section 182 of title 14.
 
 &emsp;(3) A period of service that is terminated because of a defective enlistment and induction based on—
 
@@ -136,13 +136,29 @@ In general.—Educational assistance payable by reason of paragraph (9) of subse
 
 Definition of child.—For purposes of that paragraph, the term “child” includes a married individual or an individual who is above the age of twenty-three years.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–32, title X, §1002(a), June 24, 2009, 123 Stat. 1889.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–32, title X, §1002(a), June 24, 2009, 123 Stat. 1889; Pub. L. 111–377, title I, §101(b), (c), Jan. 4, 2011, 124 Stat. 4107.)
 
 #### Amendments
 
-2009—Subsec. (b)(9). Pub. L. 111–32, §1002(a)(1), added par. (9).
+<b>2011</b>—Subsec. (c)(4). Pub. L. 111–377, §101(b), substituted “A discharge or release from active duty in the Armed Forces after service on active duty in the Armed Forces characterized by the Secretary concerned as honorable service” for “A discharge or release from active duty in the Armed Forces” in introductory provisions.
+
+Subsec. (d)(2). Pub. L. 111–377, §101(c), inserted “or section 182 of title 14” before period at end.
+
+<b>2009</b>—Subsec. (b)(9). Pub. L. 111–32, §1002(a)(1), added par. (9).
 
 Subsec. (f). Pub. L. 111–32, §1002(a)(2), added subsec. (f).
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–377, title I, §101(d)(4), (5), Jan. 4, 2011, 124 Stat. 4108, provided that:
+
+“(4)
+
+Honorable service requirement.—The amendment made by subsection (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 4, 2011\], and shall apply with respect to discharges and releases from the Armed Forces that occur on or after that date.
+
+“(5)
+
+Service in connection with attendance at coast guard academy.—The amendment made by subsection (c) \[amending this section\] shall take effect on the date of the enactment of this Act, and shall apply with respect to individuals entering into agreements on service in the Coast Guard on or after that date.”
 
 #### Effective Date of 2009 Amendment
 

@@ -28,13 +28,13 @@ The Federal Trade Commission Act approved March 21, 1938, referred to in subsec.
 
 #### Amendments
 
-1980—Subsec. (c). Pub. L. 96–242, §1(a), substituted “recycled wool” for “reprocessed wool” as term defined, designated existing definition as cl. (1), and added cl. (2).
+<b>1980</b>—Subsec. (c). Pub. L. 96–242, §1(a), substituted “recycled wool” for “reprocessed wool” as term defined, designated existing definition as cl. (1), and added cl. (2).
 
 Subsecs. (d) to (i). Pub. L. 96–242, §1(b)–(d), redesignated subsecs. (e) to (i) as (d) to (h), respectively, and, in subsec. (d) as so redesignated, substituted “containing wool or recycled wool” for “containing wool, reprocessed wool, or reused wool”. Former subsec. (d), which defined term “reused wool”, was struck out.
 
 #### Effective Date of 1980 Amendment
 
-Section 3 of Pub. L. 96–242 provided that: “The amendments made by this Act \[amending this section and section 68b of this title\] shall take effect with respect to wool products manufactured on or after the date sixty days after the date of enactment of this Act \[May 5, 1980\].”
+Section 3 of Pub. L. 96–242 provided that: “The amendments made by this Act \[amending this sectionand section 68b of this title\] shall take effect with respect to wool products manufactured on or after the date sixty days after the date of enactment of this Act \[May 5, 1980\].”
 
 #### Effective Date
 

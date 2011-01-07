@@ -118,7 +118,7 @@ Amendment to titles 3, 5, and 28 of the united states code.—Section 104 of tit
 
 Amendment to the legislative reorganization act of 1946.—Section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) is amended by striking ‘corresponds to’ and all that follows thereafter through the period and inserting the following:
 
-> ‘corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.’.”
+> ‘corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which suchadjustment in the rates of pay under the General Schedule takes effect.’.”
 
 #### Reduction of Rate of Salary or Basic Pay of Offices or Positions in the Executive, Legislative, and Judicial Branches to the Salary or Basic Pay Rate Payable as of July 14, 1983
 
@@ -162,5 +162,5 @@ Pub. L. 95–66, July 11, 1977, 91 Stat. 270, nullified the first adjustment in 
 
 #### Fiscal Year 1977 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
-Pub. L. 94–440, title II, §100, Oct. 1, 1976, 90 Stat. 1446, prohibited the use of funds appropriated in any Act to pay the salary of an individual in a position or office referred to in section 356 of Title 2, The Congress, at a rate exceeding the salary rate for such position or office in effect on Sept. 30, 1976, except increases submitted by the President pursuant to sections 351 to 364 of Title 2.
+Pub. L. 94–440, title II, §100, Oct. 1, 1976, 90 Stat. 1446, prohibited the use of funds appropriated in any Act topay the salary of an individual in a position or office referred to in section 356 of Title 2, The Congress, at a rate exceeding the salary rate for such position or office in effect on Sept. 30, 1976, except increases submitted by the President pursuant to sections 351 to 364 of Title 2.
 

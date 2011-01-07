@@ -6,7 +6,7 @@
 
 &emsp;(1) written request is made by the State or local government; and
 
-&emsp;(2) payment of pay and all other identifiable costs of providing the services is made to the executive agency by the State or local government making the request.
+&emsp;(2) payment of pay and all other identifiable costs of providing the services is made to theexecutive agency by the State or local government making the request.
 
 (c) Payment received by an executive agency for providing services under this section shall be deposited to the credit of the principal appropriation from which the cost of providing the services has been paid or will be charged.
 

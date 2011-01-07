@@ -1,6 +1,6 @@
 ### §3451. Purpose
 
-The Congress of the United States hereby declares that the education program created by this chapter is for the purpose of (1) enhancing and making more attractive service in the Armed Forces of the United States, (2) extending the benefits of a higher education to qualified and deserving young persons who might not otherwise be able to afford such an education, (3) providing vocational readjustment and restoring lost educational opportunities to those service men and women whose careers have been interrupted or impeded by reason of active duty after January 31, 1955, and (4) aiding such persons in attaining the vocational and educational status which they might normally have aspired to and obtained had they not served their country.
+The Congress of the United States hereby declares that the education program created by this chapter is for the purpose of (1) enhancing and making more attractive service in the Armed Forces of the United States, (2) extending the benefits of a higher education to qualified and deserving young persons who might not otherwise be able to afford such an education, (3) providing vocational readjustment and restoring lost educational opportunities to those service men and women whose careers have been interrupted or impeded by reason of active duty after January 31, 1955, and (4) aiding such persons in attaining the vocational and educationalstatus which they might normally have aspired to and obtained had they not served their country.
 
 (Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 12, §1651; renumbered §3451, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
@@ -10,7 +10,7 @@ Provisions similar to those comprising clauses (3) and (4) of this section were 
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 1651 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1651 of this title as this section.
 
 #### Effective Date
 

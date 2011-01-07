@@ -18,25 +18,109 @@
 
 &emsp;(C) The Commission shall deny registration if the appropriate regulatory agency for such clearing agency notifies the Commission prior to the conclusion of proceedings instituted in accordance with paragraph (1)(B) of this subsection of such appropriate regulatory agency's (i) determination that such clearing agency is not so organized or does not have the capacity to be able to safeguard securities or funds in its custody or control or for which it is responsible or that the rules of such clearing agency are not designed to assure the safeguarding of such securities or funds and (ii) reasons for such determination.
 
-(3) A self-regulatory organization may, upon such terms and conditions as the Commission, by rule, deems necessary or appropriate in the public interest or for the protection of investors, withdraw from registration by filing a written notice of withdrawal with the Commission. If the Commission finds that any self-regulatory organization is no longer in existence or has ceased to do business in the capacity specified in its application for registration, the Commission, by order, shall cancel its registration. Upon the withdrawal of a national securities association from registration or the cancellation, suspension, or revocation of the registration of a national securities association, the registration of any association affiliated therewith shall automatically terminate.
+(3) A self-regulatory organization may, upon such terms and conditions as the Commission, by rule, deems necessary or appropriate in the public interest or for the protection of investors, withdraw from registration by filing a written notice of withdrawal with the Commission. If the Commission finds that any self-regulatory organization is no longer in existence or has ceased to do business in the capacity specified in its application for registration, the Commission, by order, shall cancel its registration. Upon the withdrawal of a national securities associationfrom registration or the cancellation, suspension, or revocation of the registration of a national securities association, the registration of any association affiliated therewith shall automatically terminate.
 
 #### (b) Proposed rule changes; notice; proceedings
 
-(1) Each self-regulatory organization shall file with the Commission, in accordance with such rules as the Commission may prescribe, copies of any proposed rule or any proposed change in, addition to, or deletion from the rules of such self-regulatory organization (hereinafter in this subsection collectively referred to as a “proposed rule change”) accompanied by a concise general statement of the basis and purpose of such proposed rule change. The Commission shall, upon the filing of any proposed rule change, publish notice thereof together with the terms of substance of the proposed rule change or a description of the subjects and issues involved. The Commission shall give interested persons an opportunity to submit written data, views, and arguments concerning such proposed rule change. No proposed rule change shall take effect unless approved by the Commission or otherwise permitted in accordance with the provisions of this subsection.
+(1) Each self-regulatory organization shall file with the Commission, in accordance with such rules as the Commission may prescribe, copies of any proposed rule or any proposed change in, addition to, or deletion from the rules of such self-regulatory organization (hereinafter in this subsection collectively referred to as a “proposed rule change”) accompanied by a concise general statement of the basis and purpose of such proposed rule change. The Commission shall, as soon as practicable after the date of the filing of any proposed rule change, publish notice thereof together with the terms of substance of the proposed rule change or a description of the subjects and issues involved. The Commission shall give interested persons an opportunity to submit written data, views, and arguments concerning such proposed rule change. No proposed rule change shall take effect unless approved by the Commission or otherwise permitted in accordance with the provisions of this subsection.
 
-(2) Within thirty-five days of the date of publication of notice of the filing of a proposed rule change in accordance with paragraph (1) of this subsection, or within such longer period as the Commission may designate up to ninety days of such date if it finds such longer period to be appropriate and publishes its reasons for so finding or as to which the self-regulatory organization consents, the Commission shall—
+(2)
 
-&emsp;(A) by order approve such proposed rule change, or
+Approval process.—
 
-&emsp;(B) institute proceedings to determine whether the proposed rule change should be disapproved. Such proceedings shall include notice of the grounds for disapproval under consideration and opportunity for hearing and be concluded within one hundred eighty days of the date of publication of notice of the filing of the proposed rule change. At the conclusion of such proceedings the Commission, by order, shall approve or disapprove such proposed rule change. The Commission may extend the time for conclusion of such proceedings for up to sixty days if it finds good cause for such extension and publishes its reasons for so finding or for such longer period as to which the self-regulatory organization consents.
+&emsp;(A)
 
-> The Commission shall approve a proposed rule change of a self-regulatory organization if it finds that such proposed rule change is consistent with the requirements of this chapter and the rules and regulations thereunder applicable to such organization. The Commission shall disapprove a proposed rule change of a self-regulatory organization if it does not make such finding. The Commission shall not approve any proposed rule change prior to the thirtieth day after the date of publication of notice of the filing thereof, unless the Commission finds good cause for so doing and publishes its reasons for so finding.
+Approval process established.—
 
-(3)(A) Notwithstanding the provisions of paragraph (2) of this subsection, a proposed rule change may take effect upon filing with the Commission if designated by the self-regulatory organization as (i) constituting a stated policy, practice, or interpretation with respect to the meaning, administration, or enforcement of an existing rule of the self-regulatory organization, (ii) establishing or changing a due, fee, or other charge imposed by the self-regulatory organization, or (iii) concerned solely with the administration of the self-regulatory organization or other matters which the Commission, by rule, consistent with the public interest and the purposes of this subsection, may specify as without the provisions of such paragraph (2).
+&emsp;&emsp;(i)
+
+In general.—Except as provided in clause (ii), not later than 45 days after the date of publication of a proposed rule change under paragraph (1), the Commission shall—
+
+&emsp;&emsp;&emsp;(I) by order, approve or disapprove the proposed rule change; or
+
+&emsp;&emsp;&emsp;(II) institute proceedings under subparagraph (B) to determine whether the proposed rule change should be disapproved.
+
+&emsp;&emsp;(ii)
+
+Extension of time period.—The Commission may extend the period established under clause (i) by not more than an additional 45 days, if—
+
+&emsp;&emsp;&emsp;(I) the Commission determines that a longer period is appropriate and publishes the reasons for such determination; or
+
+&emsp;&emsp;&emsp;(II) the self-regulatory organization that filed the proposed rule change consents to the longer period.
+
+&emsp;(B)
+
+Proceedings.—
+
+&emsp;&emsp;(i)
+
+Notice and hearing.—If the Commission does not approve or disapprove a proposed rule change under subparagraph (A), the Commission shall provide to the self-regulatory organization that filed the proposed rule change—
+
+&emsp;&emsp;&emsp;(I) notice of the grounds for disapproval under consideration; and
+
+&emsp;&emsp;&emsp;(II) opportunity for hearing, to be concluded not later than 180 days after the date of publication of notice of the filing of the proposed rule change.
+
+&emsp;&emsp;(ii)
+
+Order of approval or disapproval.—
+
+&emsp;&emsp;&emsp;(I)
+
+In general.—Except as provided in subclause (II), not later than 180 days after the date of publication under paragraph (1), the Commission shall issue an order approving or disapproving the proposed rule change.
+
+&emsp;&emsp;&emsp;(II)
+
+Extension of time period.—The Commission may extend the period for issuance under clause (I) by not more than 60 days, if—
+
+&emsp;&emsp;&emsp;&emsp;(aa) the Commission determines that a longer period is appropriate and publishes the reasons for such determination; or
+
+&emsp;&emsp;&emsp;&emsp;(bb) the self-regulatory organization that filed the proposed rule change consents to the longer period.
+
+&emsp;(C)
+
+Standards for approval and disapproval.—
+
+&emsp;&emsp;(i)
+
+Approval.—The Commission shall approve a proposed rule change of a self-regulatory organization if it finds that such proposed rule change is consistent with the requirements of this chapter and the rules and regulations issued under this chapter that are applicable to such organization.
+
+&emsp;&emsp;(ii)
+
+Disapproval.—The Commission shall disapprove a proposed rule change of a self-regulatory organization if it does not make a finding described in clause (i).
+
+&emsp;&emsp;(iii)
+
+Time for approval.—The Commission may not approve a proposed rule change earlier than 30 days after the date of publication under paragraph (1), unless the Commission finds good cause for so doing and publishes the reason for the finding.
+
+&emsp;(D)
+
+Result of failure to institute or conclude proceedings.—A proposed rule change shall be deemed to have been approved by the Commission, if—
+
+&emsp;&emsp;(i) the Commission does not approve or disapprove the proposed rule change or begin proceedings under subparagraph (B) within the period described in subparagraph (A); or
+
+&emsp;&emsp;(ii) the Commission does not issue an order approving or disapproving the proposed rule change under subparagraph (B) within the period described in subparagraph (B)(ii).
+
+&emsp;(E)
+
+Publication date based on federal register publishing.—For purposes of this paragraph, if, after filing a proposed rule change with the Commission pursuant to paragraph (1), a self-regulatory organization publishes a notice of the filing of such proposed rule change, together with the substantive terms of such proposed rule change, on a publicly accessible website, the Commission shall thereafter send the notice to the Federal Register for publication thereof under paragraph (1) within 15 days of the date on which such website publication is made. If the Commission fails to send the notice for publication thereof within such 15 day period, then the date of publication shall be deemed to be the date on which such website publication was made.
+
+&emsp;(F)
+
+Rulemaking.—
+
+&emsp;&emsp;(i)
+
+In general.—Not later than 180 days after July 21, 2010, after consultation with other regulatory agencies, the Commission shall promulgate rules setting forth the procedural requirements of the proceedings required under this paragraph.
+
+&emsp;&emsp;(ii)
+
+Notice and comment not required.—The rules promulgated by the Commission under clause (i) are not required to includerepublication of proposed rule changes or solicitation of public comment.
+
+(3)(A) Notwithstanding the provisions of paragraph (2) of this subsection, a proposed rule change shall take effect upon filing with the Commission if designated by the self-regulatory organization as (i) constituting a stated policy, practice, or interpretation with respect to the meaning, administration, or enforcement of an existing rule of the self-regulatory organization, (ii) establishing or changing a due, fee, or other charge imposed by the self-regulatory organization on any person, whether or not the person is a member of the self-regulatory organization, or (iii) concerned solely with the administration of the self-regulatory organization or other matters which the Commission, by rule, consistent with the public interest and the purposes of this subsection, may specify as without the provisions of such paragraph (2).
 
 (B) Notwithstanding any other provision of this subsection, a proposed rule change may be put into effect summarily if it appears to the Commission that such action is necessary for the protection of investors, the maintenance of fair and orderly markets, or the safeguarding of securities or funds. Any proposed rule change so put into effect shall be filed promptly thereafter in accordance with the provisions of paragraph (1) of this subsection.
 
-(C) Any proposed rule change of a self-regulatory organization which has taken effect pursuant to subparagraph (A) or (B) of this paragraph may be enforced by such organization to the extent it is not inconsistent with the provisions of this chapter, the rules and regulations thereunder, and applicable Federal and State law. At any time within sixty days of the date of filing of such a proposed rule change in accordance with the provisions of paragraph (1) of this subsection, the Commission summarily may abrogate the change in the rules of the self-regulatory organization made thereby and require that the proposed rule change be refiled in accordance with the provisions of paragraph (1) of this subsection and reviewed in accordance with the provisions of paragraph (2) of this subsection, if it appears to the Commission that such action is necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this chapter. Commission action pursuant to the preceding sentence shall not affect the validity or force of the rule change during the period it was in effect and shall not be reviewable under section 78y of this title nor deemed to be “final agency action” for purposes of section 704 of title 5.
+(C) Any proposed rule change of a self-regulatory organization which has taken effect pursuant to subparagraph (A) or (B) of this paragraph may be enforced by such organization to the extent it is not inconsistent with the provisions of this chapter, the rules and regulations thereunder, and applicable Federal and State law. At any time within the 60-day period beginning on the date of filing of such a proposed rule change in accordance with the provisions of paragraph (1), the Commission summarily may temporarily suspend the change in the rules of the self-regulatory organization made thereby, if it appears to the Commission that such action is necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this chapter. If the Commission takes such action, the Commission shall institute proceedings under paragraph (2)(B) to determine whether the proposed rule should be approved or disapproved. Commission action pursuant to this subparagraph shall not affect the validity or force of the rule change during the period it was in effect and shall not be reviewable under section 78y of this title nor deemed to be “final agency action” for purposes of section 704 of title 5.
 
 (4) With respect to a proposed rule change filed by a registered clearing agency for which the Commission is not the appropriate regulatory agency—
 
@@ -46,7 +130,13 @@
 
 &emsp;(C) The Commission shall disapprove any such proposed rule change if the appropriate regulatory agency for such clearing agency notifies the Commission prior to the conclusion of proceedings instituted in accordance with paragraph (2)(B) of this subsection of such appropriate regulatory agency's (i) determination that the proposed rule change is inconsistent with the safeguarding of securities or funds in the custody or control of such clearing agency or for which it is responsible and (ii) reasons for such determination.
 
-&emsp;(D) The Commission shall abrogate any change in the rules of such a clearing agency made by a proposed rule change which has taken effect pursuant to paragraph (3) of this subsection, require that the proposed rule change be refiled in accordance with the provisions of paragraph (1) of this subsection, and reviewed in accordance with the provisions of paragraph (2) of this subsection, if the appropriate regulatory agency for such clearing agency notifies the Commission within thirty days of the date of filing of such proposed rule change of such appropriate regulatory agency's (i) determination that the rules of such clearing agency as so changed may be inconsistent with the safeguarding of securities or funds in the custody or control of such clearing agency or for which it is responsible and (ii) reasons for such determination.
+&emsp;(D)(i) The Commission shall order the temporary suspension of any change in the rules of a clearing agency made by a proposed rule change that has taken effect under paragraph (3), if the appropriate regulatory agency for the clearing agency notifies the Commission not later than 30 days after the date on which the proposed rule change was filed of—
+
+&emsp;&emsp;(I) the determination by the appropriate regulatory agency that the rules of such clearing agency, as so changed, may be inconsistent with the safeguarding of securities or funds in the custody or control of such clearing agency or for which it is responsible; and
+
+&emsp;&emsp;(II) the reasons for the determination described in subclause (I).
+
+&emsp;(ii) If the Commission takes action under clause (i), the Commission shall institute proceedings under paragraph (2)(B) to determine if the proposed rule change should be approved or disapproved.
 
 (5) The Commission shall consult with and consider the views of the Secretary of the Treasury prior to approving a proposed rule filed by a registered securities association that primarily concerns conduct related to transactions in government securities, except where the Commission determines that an emergency exists requiring expeditious or summary action and publishes its reasons therefor. If the Secretary of the Treasury comments in writing to the Commission on a proposed rule that has been published for comment, the Commission shall respond in writing to such written comment before approving the proposed rule. If the Secretary of the Treasury determines, and notifies the Commission, that such rule, if implemented, would, or as applied does (i) adversely affect the liquidity or efficiency of the market for government securities; or (ii) impose any burden on competition not necessary or appropriate in furtherance of the purposes of this section, the Commission shall, prior to adopting the proposed rule, find that such rule is necessary and appropriate in furtherance of the purposes of this section notwithstanding the Secretary's determination.
 
@@ -66,7 +156,7 @@ Filing with cftc.—A proposed rule change filed with the Commission pursuant to
 
 &emsp;(C)
 
-Abrogation of rule changes.—Any proposed rule change of a self-regulatory organization that has taken effect pursuant to subparagraph (B) may be enforced by such self-regulatory organization to the extent such rule is not inconsistent with the provisions of this chapter, the rules and regulations thereunder, and applicable Federal law. At anytime within 60 days of the date of the filing of a written certification with the Commodity Futures Trading Commission under section 7a–2(c) of title 7, the date the Commodity Futures Trading Commission determines that review of such proposed rule change is not necessary, or the date the Commodity Futures Trading Commission approves such proposed rule change, the Commission, after consultation with the Commodity Futures Trading Commission, may summarily abrogate the proposed rule change and require that the proposed rule change be refiled in accordance with the provisions of paragraph (1), if it appears to the Commission that such proposed rule change unduly burdens competition or efficiency, conflicts with the securities laws, or is inconsistent with the public interest and the protection of investors. Commission action pursuant to the preceding sentence shall not affect the validity or force of the rule change during the period it was in effect and shall not be reviewable under section 78y of this title nor deemed to be a final agency action for purposes of section 704 of title 5.
+Abrogation of rule changes.—Any proposed rule change of a self-regulatory organization that has taken effect pursuant to subparagraph (B) may be enforced by such self-regulatory organization to the extent such rule is not inconsistent with the provisions of this chapter, the rules and regulations thereunder, and applicable Federal law. At any time within 60 days of the date of the filing of a written certification with the Commodity Futures Trading Commission under section 7a–2(c) of title 7, the date the Commodity Futures Trading Commission determines that review of such proposed rule change is not necessary, or the date the Commodity Futures Trading Commission approves such proposed rule change, the Commission, after consultation with the Commodity Futures Trading Commission, may summarily abrogate the proposed rule change and require that the proposed rule change be refiled in accordance with the provisions of paragraph (1), if it appears to the Commission that such proposed rule change unduly burdens competition or efficiency, conflicts with the securities laws, or is inconsistent with the public interest and the protection of investors. Commission action pursuant to the preceding sentence shall not affect the validity or force of the rule change during the period it was in effect and shall not be reviewable under section 78y of this title nor deemed to be a final agency action for purposes of section 704 of title 5.
 
 &emsp;(D)
 
@@ -82,7 +172,7 @@ Proceedings.—Within 35 days of the date of publication of notice of the filing
 
 &emsp;&emsp;(ii)
 
-Grounds for approval.—The Commission shall approve a proposed rule change of a self-regulatory organization under this subparagraph if the Commission finds that such proposed rule change does not unduly burden competition or efficiency, does not conflict with the securities laws, and is not inconsistent with the public interest or the protection of investors. The Commission shall disapprove such a proposed rule change of a self-regulatory organization if it does not make such finding. The Commission shall not approve any proposed rule change prior to the 30th day after the date of publication of notice of the filing thereof, unless the Commission finds good cause for so doing and publishes its reasons for so finding.
+Grounds for approval.—The Commission shall approve a proposed rule change of a self-regulatory organization under this subparagraph if the Commission finds that such proposed rule change does not unduly burden competition or efficiency, does not conflict with the securities laws, and is not inconsistent with the public interest or the protection of investors. The Commission shall disapprove such a proposed rule change of a self-regulatory organization if it does not make such finding. The Commission shall not approve any proposed rule change prior to the 30th day after the date of publication of notice of the filing thereof, unlessthe Commission finds good cause for so doing and publishes its reasons for so finding.
 
 (8)
 
@@ -105,6 +195,18 @@ Responses to cftc comments and findings.—If the Commodity Futures Trading Comm
 &emsp;&emsp;(ii) impose any burden on competition not necessary or appropriate in furtherance of the purposes of this section,
 
 > &emsp;the Commission shall, prior to approving or disapproving the proposed rule, find that such rule is necessary and appropriate in furtherance of the purposes of this section notwithstanding the Commodity Futures Trading Commission's determination.
+
+(10)
+
+Rule of construction relating to filing date of proposed rule changes.—
+
+&emsp;(A)
+
+In general.—For purposes of this subsection, the date of filing of a proposed rule change shall be deemed to be the date on which the Commission receives the proposed rule change.
+
+&emsp;(B)
+
+Exception.—A proposed rule change has not been received by the Commission for purposes of subparagraph (A) if, not later than 7 business days after the date of receipt by the Commission, the Commission notifies the self-regulatory organization that such proposed rule change does not comply with the rules of the Commission relating to the required form of a proposed rule change, except that if the Commission determines that the proposed rule change is unusually lengthy and is complex or raises novel regulatory issues, the Commission shall inform the self-regulatory organization of such determination not later than 7 business days after the date of receipt by the Commission and, for the purposes of subparagraph (A), a proposed rule change has not been received by the Commission, if, not later than 21 days after the date of receipt by the Commission, the Commission notifies the self-regulatory organization that such proposed rule change does not comply with the rules of the Commission relating to the required form of a proposed rule change.
 
 #### (c) Amendment by Commission of rules of self-regulatory organizations
 
@@ -140,7 +242,7 @@ The Commission, by rule, may abrogate, add to, and delete from (hereinafter in t
 
 (1) In any proceeding to review a final disciplinary sanction imposed by a self-regulatory organization on a member thereof or participant therein or a person associated with such a member, after notice and opportunity for hearing (which hearing may consist solely of consideration of the record before the self-regulatory organization and opportunity for the presentation of supporting reasons to affirm, modify, or set aside the sanction)—
 
-&emsp;(A) if the appropriate regulatory agency for such member, participant, or person associated with a member finds that such member,participant, or person associated with a member has engaged in such acts or practices, or has omitted such acts, as the self-regulatory organization has found him to have engaged in or omitted, that such acts or practices, or omissions to act, are in violation of such provisions of this chapter, the rules or regulations thereunder, the rules of the self-regulatory organization, or, in the case of a registered securities association, the rules of the Municipal Securities Rulemaking Board as have been specified in the determination of the self-regulatory organization, and that such provisions are, and were applied in a manner, consistent with the purposes of this chapter, such appropriate regulatory agency, by order, shall so declare and, as appropriate, affirm the sanction imposed by the self-regulatory organization, modify the sanction in accordance with paragraph (2) of this subsection, or remand to the self-regulatory organization for further proceedings; or
+&emsp;(A) if the appropriate regulatory agency for such member, participant, or person associated with a member finds that such member, participant, or person associated with a member has engaged in such acts or practices, or has omitted such acts, as the self-regulatory organization has found him to have engaged in or omitted, that such acts or practices, or omissions to act, are in violation of such provisions of this chapter, the rules or regulations thereunder, the rules of the self-regulatory organization, or, in the case of a registered securities association, the rules of the Municipal Securities Rulemaking Board as have been specified in the determination of the self-regulatory organization, and that such provisions are, and were applied in a manner, consistent with the purposes of this chapter, such appropriate regulatory agency, by order, shall so declare and, as appropriate, affirm the sanction imposed by the self-regulatory organization, modify the sanction in accordance with paragraph (2) of this subsection, or remand to the self-regulatory organization for further proceedings; or
 
 &emsp;(B) if such appropriate regulatory agency does not make any such finding it shall, by order, set aside the sanction imposed by the self-regulatory organization and, if appropriate, remand to the self-regulatory organization for further proceedings.
 
@@ -148,7 +250,7 @@ The Commission, by rule, may abrogate, add to, and delete from (hereinafter in t
 
 #### (f) Dismissal of review proceeding
 
-In any proceeding to review the denial of membership or participation in a self-regulatory organization to any applicant, the barring of any person from becoming associated with a member of a self-regulatory organization, or the prohibition or limitation by a self-regulatory organization of any person with respect to access to services offered by the self-regulatory organization or any member thereof, if the appropriate regulatory agency for such applicant or person, after notice and opportunity for hearing (which hearing may consist solely of consideration of the record before the self-regulatory organization and opportunity for the presentation of supporting reasons to dismiss the proceeding or set aside the action of the self-regulatory organization) finds that the specific grounds on which such denial, bar, or prohibition or limitation is based exist in fact, that such denial, bar, or prohibition or limitation is in accordance with the rules of the self-regulatory organization, and that such rules are, and were applied in a manner, consistent with the purposes of this chapter, such appropriate regulatory agency, by order, shall dismiss the proceeding. If such appropriate regulatory agency does not make any such finding or if it finds that such denial, bar, or prohibition or limitation imposes any burden on competition not necessary or appropriate in furtherance of the purposes of this chapter, such appropriate regulatory agency, by order, shall set aside the action of the self-regulatory organization and require it to admit such applicant to membership or participation, permit such person to become associated with a member, or grant such person access to services offered by the self-regulatory organization or member thereof.
+In any proceeding to review the denial of membership or participation in a self-regulatoryorganization to any applicant, the barring of any person from becoming associated with a member of a self-regulatory organization, or the prohibition or limitation by a self-regulatory organization of any person with respect to access to services offered by the self-regulatory organization or any member thereof, if the appropriate regulatory agency for such applicant or person, after notice and opportunity for hearing (which hearing may consist solely of consideration of the record before the self-regulatory organization and opportunity for the presentation of supporting reasons to dismiss the proceeding or set aside the action of the self-regulatory organization) finds that the specific grounds on which such denial, bar, or prohibition or limitation is based exist in fact, that such denial, bar, or prohibition or limitation is in accordance with the rules of the self-regulatory organization, and that such rules are, and were applied in a manner, consistent with the purposes of this chapter, such appropriate regulatory agency, by order, shall dismiss the proceeding. If such appropriate regulatory agency does not make any such finding or if it finds that such denial, bar, or prohibition or limitation imposes any burden on competition not necessary or appropriate in furtherance of the purposes of this chapter, such appropriate regulatory agency, by order, shall set aside the action of the self-regulatory organization and require it to admit such applicant to membership or participation, permit such person to become associated with a member, or grant such person access to services offered by the self-regulatory organization or member thereof.
 
 #### (g) Compliance with rules and regulations
 
@@ -168,7 +270,7 @@ In any proceeding to review the denial of membership or participation in a self-
 
 &emsp;(A) in the case of a national securities exchange, with any such provision by a member thereof or a person associated with a member thereof;
 
-&emsp;(B) in the case of a registered securities association, with any such provision or any provision of the rules of the Municipal SecuritiesRulemaking Board by a member thereof or a person associated with a member thereof; or
+&emsp;(B) in the case of a registered securities association, with any such provision or any provision of the rules of the Municipal Securities Rulemaking Board by a member thereof or a person associated with a member thereof; or
 
 &emsp;(C) in the case of a registered clearing agency, with any provision of its own rules by a participant therein.
 
@@ -180,13 +282,13 @@ In any proceeding to review the denial of membership or participation in a self-
 
 &emsp;(C) in the case of a registered clearing agency, any provision of the rules of the clearing agency.
 
-(3) The appropriate regulatory agency for a national securities exchange or registered securities association is authorized, by order, if in its opinion such action is necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this chapter, to suspend for a period not exceeding twelve months or to bar any person from being associated with a member of such national securities exchange or registered securities association, if such person is subject to an order of the Commission pursuant to section 78<i>o</i>(b)(6) of this title or if such appropriate regulatory agency finds, on the record after notice and opportunity for hearing, that such person has willfully violated or has effected any transaction for any other person who, such person associated with a member had reason to believe, was violating with respect to such transaction—
+(3) The appropriate regulatory agency for a national securities exchange or registered securities association is authorized, by order, if in its opinion such action is necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this chapter, to suspend for a periodnot exceeding twelve months or to bar any person from being associated with a member of such national securities exchange or registered securities association, if such person is subject to an order of the Commission pursuant to section 78<i>o</i>(b)(6) of this title or if such appropriate regulatory agency finds, on the record after notice and opportunity for hearing, that such person has willfully violated or has effected any transaction for any other person who, such person associated with a member had reason to believe, was violating with respect to such transaction—
 
 &emsp;(A) in the case of a national securities exchange, any provision of the Securities Act of 1933, the Investment Advisers Act of 1940, the Investment Company Act of 1940, this chapter, or the rules or regulations under any of such statutes; or
 
 &emsp;(B) in the case of a registered securities association, any provision of the Securities Act of 1933, the Investment Advisers Act of 1940, the Investment Company Act of 1940, this chapter, the rules or regulations under any of the statutes, or the rules of the Municipal Securities Rulemaking Board.
 
-(4) The appropriate regulatory agency for a self-regulatory organization is authorized, by order, if in its opinion such action is necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this chapter, to remove from office or censure any officer or director of such self-regulatory organization, if such appropriate regulatory agency finds, on the record after notice and opportunity for hearing, that such officer or director has willfully violated any provision of this chapter, the rules or regulations thereunder, or the rules of such self-regulatory organization, willfully abused his authority, or without reasonable justification or excuse has failed to enforce compliance—
+(4) The appropriate regulatory agency for a self-regulatory organization is authorized, by order, if in its opinion such action is necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this chapter, to remove from office or censure any person who is, or at the time of the alleged misconduct was, an officer or director of such self-regulatory organization, if such appropriate regulatory agency finds, on the record after notice and opportunity for hearing, that such person has willfully violated any provision of this chapter, the rules or regulations thereunder, or the rules of such self-regulatory organization, willfully abused his authority, or without reasonable justification or excuse has failed to enforce compliance—
 
 &emsp;(A) in the case of a national securities exchange, with any such provision by any member or person associated with a member;
 
@@ -198,11 +300,17 @@ In any proceeding to review the denial of membership or participation in a self-
 
 If a proceeding under subsection (h)(1) of this section results in the suspension or revocation of the registration of a clearing agency, the appropriate regulatory agency for such clearing agency may, upon notice to such clearing agency, apply to any court of competent jurisdiction specified in section 78u(d) or 78aa of this title for the appointment of a trustee. In the event of such an application, the court may, to the extent it deems necessary or appropriate, take exclusive jurisdiction of such clearing agency and the records and assets thereof, wherever located; and the court shall appoint the appropriate regulatory agency for such clearing agency or a person designated by such appropriate regulatory agency as trustee with power to take possession and continue to operate or terminate the operations of such clearing agency in an orderly manner for the protection of participants and investors, subject to such terms and conditions as the court may prescribe.
 
-(June 6, 1934, ch. 404, title I, §19, 48 Stat. 898; Pub. L. 87–196, Sept. 5, 1961, 75 Stat. 465; Pub. L. 87–561, July 27, 1962, 76 Stat. 247; Pub. L. 90–438, July 29, 1968, 82 Stat. 453; Pub. L. 91–94, Oct. 20, 1969, 83 Stat. 141; Pub. L. 91–410, Sept. 25, 1970, 84 Stat. 862; Pub. L. 94–29, §16, June 4, 1975, 89 Stat. 146; Pub. L. 103–202, title I, §106(c), Dec. 17, 1993, 107 Stat. 2350; Pub. L. 105–353, title III, §301(b)(11), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–554, §1(a)(5) \[title II, §202(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–418, 2763A–421.)
+(June 6, 1934, ch. 404, title I, §19, 48 Stat. 898; Pub. L. 87–196, Sept. 5, 1961, 75 Stat. 465; Pub. L. 87–561, July 27, 1962, 76 Stat. 247; Pub. L. 90–438, July 29, 1968, 82 Stat. 453; Pub. L. 91–94, Oct. 20, 1969, 83 Stat. 141; Pub. L. 91–410, Sept. 25, 1970, 84 Stat. 862; Pub. L. 94–29, §16, June 4, 1975, 89 Stat. 146; Pub. L. 103–202, title I, §106(c), Dec. 17, 1993, 107 Stat. 2350; Pub. L. 105–353, title III, §301(b)(11), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–554, §1(a)(5) \[title II, §202(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–418, 2763A–421; Pub. L. 111–203, title VII, §717(c), title IX, §§916, 929F(e), July 21, 2010, 124 Stat. 1652, 1833, 1854.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 111–203, title VII, §§717(c), 754, July 21, 2010, 124 Stat. 1652, 1754, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, subsection (b) of this section is amended by adding at the end the following:</i>
+
+<i>(10) Notwithstanding paragraph (2), the time period within which the Commission is required by order to approve a proposed rule change or institute proceedings to determine whether the proposed rule change should be disapproved is stayed pending a determination by the Commission upon the request of the Commodity Futures Trading Commission or its Chairman that the Commission issue a determination as to whether a product that is the subject of such proposed rule change is a security pursuant to section 8306 of this title.</i>
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1), (b)(2), (3)(C), (7)(C), (8), (c), (d)(1), (e)(1)(A), (2), (f), (g), and (h), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a)(1), (b)(2)(C)(i), (3)(C), (7)(C), (8), (c), (d)(1), (e)(1)(A), (2), (f), (g), and (h), was in the original “this title”. See References in Text note set out under section 78a of this title.
 
 The Securities Act of 1933, referred to in subsec. (h), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
@@ -212,7 +320,21 @@ The Investment Company Act of 1940, referred to in subsec. (h), is title I of ac
 
 #### Amendments
 
-2000—Subsec. (b)(7). Pub. L. 106–554, §1(a)(5) \[title II, §202(b)(1)\], added par. (7).
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–203, §916(b)(2), substituted “as soon as practicable after the date of the filing” for “upon the filing”.
+
+Subsec. (b)(2). Pub. L. 111–203, §916(a), added par. (2) and struck out former par. (2) which related to approval of rule change or institution of proceedings regarding disapproval of such change within thirty-five days of publication of notice or within such longer period as the Commission may designate up to ninety days of such date.
+
+Subsec. (b)(3)(A). Pub. L. 111–203, §916(c)(1), substituted “shall take effect” for “may take effect” and inserted “on any person, whether or not the person is a member of the self-regulatory organization” after “charge imposed by the self-regulatory organization”.
+
+Subsec. (b)(3)(C). Pub. L. 111–203, §916(c)(2), substituted second sentence for former second sentence which read as follows: “At any time within sixty days of the date of filing of such a proposed rule change in accordance with the provisions of paragraph (1) of this subsection, the Commission summarily may abrogate the change in the rules of the self-regulatory organization made thereby and require that the proposed rule change be refiled in accordance with the provisions of paragraph (1) of this subsection and reviewed in accordance with the provisions of paragraph (2) of this subsection, if it appears to the Commission that such action is necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this chapter.”, added third sentence, and substituted “this subparagraph” for “the preceding sentence” in last sentence.
+
+Subsec. (b)(4)(D). Pub. L. 111–203, §916(d), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “The Commission shall abrogate any change in the rules of such a clearing agency made by a proposed rule change which has taken effect pursuant to paragraph (3) of this subsection, require that the proposed rule change be refiled in accordance with the provisions of paragraph (1) of this subsection, and reviewed in accordance with the provisions of paragraph (2) of this subsection, if the appropriate regulatory agency for such clearing agency notifies the Commission within thirty days of the date of filing of such proposed rule change of such appropriate regulatory agency's (i) determination that the rules of such clearing agency as so changed may be inconsistent with the safeguarding of securities or funds in the custody or control of such clearing agency or for which it is responsible and (ii) reasons for such determination.”
+
+Subsec. (b)(10). Pub. L. 111–203, §916(b)(1), added par. (10).
+
+Subsec. (h)(4). Pub. L. 111–203, §929F(e), in introductory provisions, substituted “any person who is, or at the time of the alleged misconduct was, an officer or director” for “any officer or director” and “such person” for “such officer or director”.
+
+<b>2000</b>—Subsec. (b)(7). Pub. L. 106–554, §1(a)(5) \[title II, §202(b)(1)\], added par. (7).
 
 Subsec. (b)(8). Pub. L. 106–554, §1(a)(5) \[title II, §202(b)(2)\], added par. (8).
 
@@ -220,23 +342,29 @@ Subsec. (b)(9). Pub. L. 106–554, §1(a)(5) \[title II, §202(b)(3)\], added pa
 
 Subsec. (d)(3). Pub. L. 106–554, §1(a)(5) \[title II, §202(c)\], added par. (3).
 
-1998—Subsec. (c)(5). Pub. L. 105–353 realigned margins.
+<b>1998</b>—Subsec. (c)(5). Pub. L. 105–353 realigned margins.
 
-1993—Subsec. (b)(5), (6). Pub. L. 103–202, §106(c)(1), added pars. (5) and (6).
+<b>1993</b>—Subsec. (b)(5), (6). Pub. L. 103–202, §106(c)(1), added pars. (5) and (6).
 
 Subsec. (c)(5). Pub. L. 103–202, §106(c)(2), added par. (5).
 
-1975—Pub. L. 94–29 amended section generally, substituting provisions covering the registration, responsibilities, and oversight of self-regulatory organizations by the Commission for provisions covering only the Commission's powers with respect to exchanges and securities, with a view to consolidating and expanding the Commission's oversight powers with respect to self-regulatory organizations, their members, participants, and officers, and with a view to giving the Commission identical powers over all self-regulatory organizations, including registered clearing agencies, and substantially strengthening the Commission's ability to assure that these organizations carry out their statutory responsibilities.
+<b>1975</b>—Pub. L. 94–29 amended section generally, substituting provisions covering the registration, responsibilities, and oversight of self-regulatory organizations by the Commission for provisions covering only the Commission's powers with respect to exchanges and securities, with a view to consolidating and expanding the Commission's oversight powers with respect to self-regulatory organizations, their members, participants, and officers, and with a view to giving the Commission identical powers over all self-regulatory organizations, including registered clearing agencies, and substantially strengthening the Commission's ability to assure that these organizations carry out their statutory responsibilities.
 
-1970—Subsec. (e)(1). Pub. L. 91–410 substituted “December 31, 1970” for “September 1, 1970”.
+<b>1970</b>—Subsec. (e)(1). Pub. L. 91–410 substituted “December 31, 1970” for “September 1, 1970”.
 
-1969—Subsec. (e). Pub. L. 91–94 substituted “September 1, 1970” for “September 1, 1969” in par. (1), and “$945,000” for “$875,000” in par. (4).
+<b>1969</b>—Subsec. (e). Pub. L. 91–94 substituted “September 1, 1970” for “September 1, 1969” in par. (1), and “$945,000” for “$875,000” in par. (4).
 
-1968—Subsec. (e). Pub. L. 90–438 added subsec. (e).
+<b>1968</b>—Subsec. (e). Pub. L. 90–438 added subsec. (e).
 
-1962—Subsec. (d). Pub. L. 87–561 substituted “April 3, 1963” for “January 3, 1963” and “$950,000” for “$750,000”.
+<b>1962</b>—Subsec. (d). Pub. L. 87–561 substituted “April 3, 1963” for “January 3, 1963” and “$950,000” for “$750,000”.
 
-1961—Subsec. (d). Pub. L. 87–196 added subsec. (d).
+<b>1961</b>—Subsec. (d). Pub. L. 87–196 added subsec. (d).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by sections 916 and 929F(e) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
+Amendment by section 717(c) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of Title 7, Agriculture.
 
 #### Effective Date of 1975 Amendment
 

@@ -12,9 +12,9 @@ The organization holding such hearing shall furnish the President with a summary
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–210 substituted “section 3803 of this title,” for “section 2902 of this title,”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–210 substituted “section 3803 of this title,” for “section 2902 of this title,”.
 
-1988—Pub. L. 100–418 amended section generally. Prior to amendment, section read as follows:
+<b>1988</b>—Pub. L. 100–418 amended section generally. Prior to amendment, section read as follows:
 
 “(a) In connection with any proposed trade agreement under part 1 of this subchapter or section 2133 or 2134 of this title, the President shall afford an opportunity for any interested person to present his views concerning any article on a list published pursuant tosection 2151 of this title, any article which should be so listed, any concession which should be sought by the United States, or any other matter relevant to such proposed trade agreement. For this purpose, the President shall designate an agency or an interagency committee which shall, after reasonable notice, hold public hearings and prescribe regulations governing the conduct of such hearings.
 

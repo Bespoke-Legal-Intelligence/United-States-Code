@@ -15,7 +15,7 @@
 | [634d.](%C2%A7%2000634d%20-%20Staff%20and%20powers%20of%20Office%20of%20Advocacy.md) | Staff and powers of Office of Advocacy. |
 | [634e.](%C2%A7%2000634e%20-%20Assistance%20of%20Government%20agencies.md) | Assistance of Government agencies. |
 | [634f.](%C2%A7%2000634f%20-%20Reports.md) | Reports. |
-| [634g.](%C2%A7%2000634g%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [634g.](%C2%A7%2000634g%20-%20Budgetary%20line%20item%20and%20authorization%20of%20appropriations.md) | Budgetary line item and authorization of appropriations. |
 | [635\.](%C2%A7%2000635%20-%20Deposit%20of%20moneys%3B%20depositaries%2C%20custodians%2C%20and%20fiscal%20agents%3B%20contributions%20to%20employees%E2%80%99%20compensation%20funds.md) | Deposit of moneys; depositaries, custodians, and fiscal agents; contributions to employees’ compensation funds. |
 | [636\.](%C2%A7%2000636%20-%20Additional%20powers.md) | Additional powers. |
 | [636a.](%C2%A7%2000636a%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20XIX%2C%20%C2%A71917%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20781.md) | Repealed. |
@@ -46,6 +46,7 @@
 | [647\.](%C2%A7%2000647%20-%20Duplication%20of%20activities%20of%20other%20Federal%20departments%20or%20agencies.md) | Duplication of activities of other Federal departments or agencies. |
 | [648\.](%C2%A7%2000648%20-%20Small%20business%20development%20center%20program%20authorization.md) | Small business development center program authorization. |
 | [648a.](%C2%A7%2000648a%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93140%2C%20title%20VI%2C%20%C2%A7609%28e%29%2C%20Oct.%2028%2C%201991%2C%20105%20Stat.%20826.md) | Repealed. |
+| [648b.](%C2%A7%2000648b%20-%20Grants%20for%20SBDCS.md) | Grants for SBDCS. |
 | [649\.](%C2%A7%2000649%20-%20Office%20of%20International%20Trade.md) | Office of International Trade. |
 | [649a.](%C2%A7%2000649a%20-%20Omitted.md) | Omitted. |
 | [649b.](%C2%A7%2000649b%20-%20Grants%2C%20contracts%20and%20cooperative%20agreements%20for%20international%20marketing%20programs.md) | Grants, contracts and cooperative agreements for international marketing programs. |
@@ -75,6 +76,7 @@
 | [657n.](%C2%A7%2000657n%20-%20Immediate%20Disaster%20Assistance%20program.md) | Immediate Disaster Assistance program. |
 | 657<i>o.</i> | Annual reports on disaster assistance. |
 | [657p.](%C2%A7%2000657p%20-%20Outreach%20regarding%20health%20insurance%20options%20available%20to%20children.md) | Outreach regarding health insurance options available to children. |
+| [657q.](%C2%A7%2000657q%20-%20Consolidation%20of%20contract%20requirements.md) | Consolidation of contract requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -96,7 +98,7 @@
 - [&sect; 00634d - Staff and powers of Office of Advocacy](%C2%A7%2000634d%20-%20Staff%20and%20powers%20of%20Office%20of%20Advocacy.md)
 - [&sect; 00634e - Assistance of Government agencies](%C2%A7%2000634e%20-%20Assistance%20of%20Government%20agencies.md)
 - [&sect; 00634f - Reports](%C2%A7%2000634f%20-%20Reports.md)
-- [&sect; 00634g - Authorization of appropriations](%C2%A7%2000634g%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00634g - Budgetary line item and authorization of appropriations](%C2%A7%2000634g%20-%20Budgetary%20line%20item%20and%20authorization%20of%20appropriations.md)
 - [&sect; 00635 - Deposit of moneys; depositaries, custodians, and fiscal agents; contributions to employees&#8217; compensation funds](%C2%A7%2000635%20-%20Deposit%20of%20moneys%3B%20depositaries%2C%20custodians%2C%20and%20fiscal%20agents%3B%20contributions%20to%20employees%E2%80%99%20compensation%20funds.md)
 - [&sect; 00636 - Additional powers](%C2%A7%2000636%20-%20Additional%20powers.md)
 - [&sect; 00636a - Repealed. Pub. L. 97&#8211;35, title XIX, &sect;1917, Aug. 13, 1981, 95 Stat. 781](%C2%A7%2000636a%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20XIX%2C%20%C2%A71917%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20781.md)
@@ -127,6 +129,7 @@
 - [&sect; 00647 - Duplication of activities of other Federal departments or agencies](%C2%A7%2000647%20-%20Duplication%20of%20activities%20of%20other%20Federal%20departments%20or%20agencies.md)
 - [&sect; 00648 - Small business development center program authorization](%C2%A7%2000648%20-%20Small%20business%20development%20center%20program%20authorization.md)
 - [&sect; 00648a - Repealed. Pub. L. 102&#8211;140, title VI, &sect;609(e), Oct. 28, 1991, 105 Stat. 826](%C2%A7%2000648a%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93140%2C%20title%20VI%2C%20%C2%A7609%28e%29%2C%20Oct.%2028%2C%201991%2C%20105%20Stat.%20826.md)
+- [&sect; 00648b - Grants for SBDCS](%C2%A7%2000648b%20-%20Grants%20for%20SBDCS.md)
 - [&sect; 00649 - Office of International Trade](%C2%A7%2000649%20-%20Office%20of%20International%20Trade.md)
 - [&sect; 00649a - Omitted](%C2%A7%2000649a%20-%20Omitted.md)
 - [&sect; 00649b - Grants, contracts and cooperative agreements for international marketing programs](%C2%A7%2000649b%20-%20Grants%2C%20contracts%20and%20cooperative%20agreements%20for%20international%20marketing%20programs.md)
@@ -156,3 +159,4 @@
 - [&sect; 00657n - Immediate Disaster Assistance program](%C2%A7%2000657n%20-%20Immediate%20Disaster%20Assistance%20program.md)
 - [&sect; 00657o - Annual reports on disaster assistance](%C2%A7%2000657o%20-%20Annual%20reports%20on%20disaster%20assistance.md)
 - [&sect; 00657p - Outreach regarding health insurance options available to children](%C2%A7%2000657p%20-%20Outreach%20regarding%20health%20insurance%20options%20available%20to%20children.md)
+- [&sect; 00657q - Consolidation of contract requirements](%C2%A7%2000657q%20-%20Consolidation%20of%20contract%20requirements.md)

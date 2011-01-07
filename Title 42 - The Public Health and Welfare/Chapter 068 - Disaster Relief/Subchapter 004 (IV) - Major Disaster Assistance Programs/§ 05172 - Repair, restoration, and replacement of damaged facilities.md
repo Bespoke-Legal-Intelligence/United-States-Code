@@ -60,7 +60,7 @@
 
 #### (2) Reduced Federal share
 
-&emsp;The President shall promulgate regulations to reduce the Federal share of assistance under this section to not less than 25 percent in the case of the repair, restoration, reconstruction, or replacement of any eligible public facility or private nonprofit facility following an event associated with a major disaster—
+&emsp;The President shall promulgate regulations to reduce the Federal share of assistanceunder this section to not less than 25 percent in the case of the repair, restoration, reconstruction, or replacement of any eligible public facility or private nonprofit facility following an event associated with a major disaster—
 
 &emsp;&emsp;(A) that has been damaged, on more than one occasion within the preceding 10-year period, by the same type of event; and
 
@@ -114,7 +114,7 @@
 
 &emsp;&emsp;&emsp;(i) any private nonprofit facility located in a regulatory floodway (as defined in section 59.1 of title 44, Code of Federal Regulations (or a successor regulation)); or
 
-&emsp;&emsp;&emsp;(ii) any uninsured private nonprofit facility located in a special flood hazard areaidentified by the Administrator of the Federal Emergency Management Agency under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.).
+&emsp;&emsp;&emsp;(ii) any uninsured private nonprofit facility located in a special flood hazard area identified by the Administrator of the Federal Emergency Management Agency under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.).
 
 #### (d) Flood insurance
 
@@ -136,7 +136,7 @@
 
 #### (4) Dissemination of information
 
-&emsp;The President shall disseminate information regarding the reduction in Federal assistance provided for by this subsection to State and local governments and the owners and operators of private nonprofit facilities who may be affected by such a reduction.
+&emsp;The President shall disseminate information regarding the reduction in Federal assistanceprovided for by this subsection to State and local governments and the owners and operators of private nonprofit facilities who may be affected by such a reduction.
 
 #### (e) Eligible cost
 
@@ -184,7 +184,7 @@
 
 #### (A) Establishment
 
-&emsp;&emsp;Not later than 18 months after October 30, 2000, the President, acting through the Administrator of the Federal Emergency Management Agency, shall establish an expert panel, which shall include representativesfrom the construction industry and State and local government.
+&emsp;&emsp;Not later than 18 months after October 30, 2000, the President, acting through the Administrator of the Federal Emergency Management Agency, shall establish an expert panel, which shall include representatives from the construction industry and State and local government.
 
 #### (B) Duties
 
@@ -212,9 +212,9 @@
 
 #### (4) Special rule
 
-&emsp;In any case in which the facility being repaired, restored, reconstructed, or replaced under this section was under construction on the date of the major disaster, the cost of repairing, restoring, reconstructing, or replacing the facility shall include, for the purposes of this section, only those costs that, under the contract for the construction, are the owner's responsibility and not the contractor's responsibility.
+&emsp;In any case in which the facility being repaired, restored, reconstructed, or replaced under this section was under construction on the date of the major disaster, the cost of repairing, restoring, reconstructing, or replacing the facility shall include, for the purposes of this section, only those costs that, under the contract for the construction, are the owner'sresponsibility and not the contractor's responsibility.
 
-(Pub. L. 93–288, title IV, §406, as added Pub. L. 100–707, title I, §106(b), Nov. 23, 1988, 102 Stat. 4699; amended Pub. L. 106–390, title II, §205(a)–(d)(1), (e), Oct. 30, 2000, 114 Stat. 1562–1564, 1566; Pub. L. 109–295, title VI, §§612(c), 689h, Oct. 4, 2006, 120 Stat. 1410, 1453; Pub. L. 109–347, title VI, §609, Oct. 13, 2006, 120 Stat. 1942.)
+(Pub. L. 93–288, title IV, §406, as added Pub. L. 100–707, title I, §106(b), Nov. 23, 1988, 102 Stat. 4699; amended Pub. L. 106–390, title II, §205(a)–(d)(1), (e), Oct. 30, 2000, 114 Stat. 1562–1564, 1566; Pub. L. 109–295, title VI, §689h, Oct. 4, 2006, 120 Stat. 1453; Pub. L. 109–347, title VI, §609, Oct. 13, 2006, 120 Stat. 1942; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
 
 #### References in Text
 
@@ -232,13 +232,15 @@ A prior section 406 of Pub. L. 93–288 was renumbered section 409 by Pub. L. 10
 
 #### Amendments
 
-2006—Subsec. (a)(3)(B). Pub. L. 109–295, §689h, inserted “education,” after “communications,”.
+<b>2011</b>—Subsecs. (c)(1)(C)(ii), (2)(C)(ii), (d)(1), (e)(3)(A). Pub. L. 111–351 substituted “Administrator” for “Director”.
+
+<b>2006</b>—Subsec. (a)(3)(B). Pub. L. 109–295 inserted “education,” after “communications,”.
 
 Subsec. (c)(1)(A). Pub. L. 109–347, §609(1), substituted “90” for “75”.
 
 Subsec. (c)(1)(B) to (D). Pub. L. 109–347, §609(2), (3), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “In any case in which a State or local government determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing any public facility owned or controlled by the State or local government because soil instability in the disaster area makes repair, restoration, reconstruction, or replacement infeasible, the State or local government may elect to receive, in lieu of a contribution under subsection (a)(1)(A) of this section, a contribution in an amount equal to 90 percent of the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.”
 
-2000—Subsec. (a). Pub. L. 106–390, §205(a), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The President may make contributions—
+<b>2000</b>—Subsec. (a). Pub. L. 106–390, §205(a), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The President may make contributions—
 
 &emsp;“(1) to a State or local government for the repair, restoration, reconstruction, or replacement of a public facility which is damaged or destroyed by a major disaster and for associated expenses incurred by such government; and
 
@@ -266,10 +268,6 @@ Special rule.—In any case in which the facility being repaired, restored, reco
 
 Subsec. (f). Pub. L. 106–390, §205(e), struck out subsec. (f) which set out various associated expenses, including necessary and extraordinary costs, and costs of using the National Guard and prison labor.
 
-#### Change of Name
-
-“Administrator of the Federal Emergency Management Agency” and “Administrator” substituted for “Director of the Federal Emergency Management Agency” and “Director”, respectively, in subsecs. (c)(1)(C)(ii), (2)(C)(ii), (d)(1), and (e)(3)(A) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
-
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–390, title II, §205(d)(2), Oct. 30, 2000, 114 Stat. 1566, provided that: “The amendment made by paragraph (1) \[amending this section\] takes effect on the date of the enactment of this Act \[Oct. 30, 2000\] and applies to funds appropriated after the date of the enactment of this Act, except that paragraph (1) of section 406(e) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[subsec. (e)(1) of this section\] (as amended by paragraph (1)) takes effect on the date on which the cost estimation procedures established under paragraph (3) of that section take effect.”
@@ -278,5 +276,5 @@ Pub. L. 106–390, title II, §205(d)(2), Oct. 30, 2000, 114 Stat. 1566, provide
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto,to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

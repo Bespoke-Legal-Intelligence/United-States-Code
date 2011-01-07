@@ -1,10 +1,10 @@
 ### §1202. Trustee
 
-(a) If the United States trustee has appointed an individual under section 586(b) of title 28 to serve as standing trustee in cases under this chapter and if such individual qualifies as a trustee under section 322 of this title, then such individual shall serve as trustee in any case filed under this chapter. Otherwise, the United Statestrustee shall appoint one disinterested person to serve as trustee in the case or the United States trustee may serve as trustee in the case if necessary.
+(a) If the United States trustee has appointed an individual under section 586(b) of title 28 to serve as standing trustee in cases under this chapter and if such individual qualifies as a trustee under section 322 of this title, then such individual shall serve as trustee in any case filed under this chapter. Otherwise, the United States trustee shall appoint one disinterested person to serve as trustee in the case or the United States trustee may serve as trustee in the case if necessary.
 
 (b) The trustee shall—
 
-&emsp;(1) perform the duties specified in sections 704(2), 704(3), 704(5), 704(6), 704(7), and 704(9) of this title;
+&emsp;(1) perform the duties specified in sections 704(a)(2), 704(a)(3), 704(a)(5), 704(a)(6), 704(a)(7), and 704(a)(9) of this title;
 
 &emsp;(2) perform the duties specified in section 1106(a)(3) and 1106(a)(4) of this title if the court, for cause and on request of a party in interest, the trustee, or the United States trustee, so orders;
 
@@ -20,7 +20,7 @@
 
 &emsp;(4) ensure that the debtor commences making timely payments required by a confirmed plan;
 
-&emsp;(5) if the debtor ceases to be a debtor in possession, perform the duties specified in sections 704(8), 1106(a)(1), 1106(a)(2), 1106(a)(6), 1106(a)(7), and 1203; and
+&emsp;(5) if the debtor ceases to be a debtor in possession, perform the duties specified in sections 704(a)(8), 1106(a)(1), 1106(a)(2), 1106(a)(6), 1106(a)(7), and 1203; and
 
 &emsp;(6) if with respect to the debtor there is a claim for a domestic support obligation, provide the applicable notice specified in subsection (c).
 
@@ -52,7 +52,7 @@
 
 (B) Notwithstanding any other provision of law, a creditor that makes a disclosure of a last known address of a debtor in connection with a request made under subparagraph (A) shall not be liable by reason of making that disclosure.
 
-(Added and amended Pub. L. 99–554, title II, §§227, 255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3103, 3106, 3124; Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, §2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title II, §219(c), title X, §1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 57, 185, 186.)
+(Added and amended Pub. L. 99–554, title II, §§227, 255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3103, 3106, 3124; Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, §2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title II, §219(c), title X, §1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 57, 185, 186; Pub. L. 111–327, §2(a)(38), Dec. 22, 2010, 124 Stat. 3561.)
 
 #### References in Text
 
@@ -63,6 +63,10 @@ Sections 464 and 466 of the Social Security Act, referred to in subsec. (c)(1)(A
 For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section, see note set out preceding section 1201 of this title.
 
 #### Amendments
+
+2010—Subsec. (b)(1). Pub. L. 111–327, §2(a)(38)(A), substituted “704(a)(2), 704(a)(3), 704(a)(5), 704(a)(6), 704(a)(7), and 704(a)(9)” for “704(2), 704(3), 704(5), 704(6), 704(7), and 704(9)”.
+
+Subsec. (b)(5). Pub. L. 111–327, §2(a)(38)(B), substituted “704(a)(8)” for “704(8)”.
 
 2005—Subsec. (b)(6). Pub. L. 109–8, §219(c)(1), added par. (6).
 

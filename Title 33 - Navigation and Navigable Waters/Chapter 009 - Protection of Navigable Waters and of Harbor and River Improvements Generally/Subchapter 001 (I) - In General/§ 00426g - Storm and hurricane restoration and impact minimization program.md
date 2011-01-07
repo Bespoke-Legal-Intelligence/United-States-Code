@@ -26,7 +26,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall conduct under the program authorized by subsection (a) a national shoreline erosion control development and demonstration program (referred to in this section as the “demonstration program”).
+&emsp;The Secretary shall conduct under the program authorized by subsection (a) a nationalshoreline erosion control development and demonstration program (referred to in this section as the “demonstration program”).
 
 #### (2) Requirements
 
@@ -162,21 +162,21 @@ The Shoreline Erosion Control Demonstration Act of 1974, referred to in subsec. 
 
 #### Amendments
 
-2007—Pub. L. 110–114 amended section generally. Prior to amendment, section related to authorization of small shore and beach restoration and protection projects not specifically authorized by Congress.
+<b>2007</b>—Pub. L. 110–114 amended section generally. Prior to amendment, section related to authorization of small shore and beach restoration and protection projects not specifically authorized by Congress.
 
-1999—Pub. L. 106–53 substituted “$3,000,000” for “$2,000,000”.
+<b>1999</b>—Pub. L. 106–53 substituted “$3,000,000” for “$2,000,000”.
 
-1996—Pub. L. 104–303 substituted “Secretary” for “Secretary of the Army”.
+<b>1996</b>—Pub. L. 104–303 substituted “Secretary” for “Secretary of the Army”.
 
-1986—Pub. L. 99–662 substituted “$30,000,000” for “$25,000,000” and “$2,000,000” for “$1,000,000”.
+<b>1986</b>—Pub. L. 99–662 substituted “$30,000,000” for “$25,000,000” and “$2,000,000” for “$1,000,000”.
 
-1970—Pub. L. 91–611 increased authorized annual allotment for Federal share of project construction costs from $10,000,000 to $25,000,000 and the limitation on allotment for any single project from $500,000 to $1,000,000.
+<b>1970</b>—Pub. L. 91–611 increased authorized annual allotment for Federal share of project construction costs from $10,000,000 to $25,000,000 and the limitation on allotment for any single project from $500,000 to $1,000,000.
 
-1965—Pub. L. 89–298 increased authorized annual allotment for Federal share of project construction costs from $3,000,000 to $10,000,000 and the limitation on allotment for any single project from $400,000 to $500,000.
+<b>1965</b>—Pub. L. 89–298 increased authorized annual allotment for Federal share of project construction costs from $3,000,000 to $10,000,000 and the limitation on allotment for any single project from $400,000 to $500,000.
 
-1962—Pub. L. 87–874 substituted provisions which authorize the Secretary of the Army to undertake small shore and beach projects not specifically authorized by Congress, which otherwise comply with section 426e of this title, and to allot from any civil works appropriations hereafter made, an amount not to exceed $3,000,000 for the Federal share of such projects in any one fiscal year, provide that no such single project shall be allotted more than $400,000, including periodic nourishment, that provisions of local cooperation shall apply, and that the work shall be complete and not commit the United States to any additional improvement except for periodic beach nourishment, and as may result from procedure applying to projects authorized after submission of survey reports, for provisions which permitted the Chief of Engineers to make advance payments, not exceeding the United States pro rata part of the value of the labor and materials actually put in, and to undertake construction of restoration and protective works under sections 426e to 426h of this title upon the request of, and contribution of funds by, the interested political subdivision.
+<b>1962</b>—Pub. L. 87–874 substituted provisions which authorize the Secretary of the Army to undertake small shore and beach projects not specifically authorized by Congress, which otherwise comply with section 426e of this title, and to allot from any civil works appropriations hereafter made, an amount not to exceed $3,000,000 for the Federal share of such projects in any one fiscal year, provide that no such single project shall be allotted more than $400,000, including periodic nourishment, that provisions of local cooperation shall apply, and that the work shall be complete and not commit the United States to any additional improvement except for periodic beach nourishment, and as may result from procedure applying to projects authorized after submission of survey reports, for provisions which permitted the Chief of Engineers to make advance payments, not exceeding the United States pro rata part of the value of the labor and materials actually put in, and to undertake construction of restoration and protective works under sections 426e to 426h of this title upon the request of, and contribution of funds by, the interested political subdivision.
 
-1956—Act July 28, 1956, substituted “restoration and protective works under sections 426e to 426h of this title” for “improvement and protective works”.
+<b>1956</b>—Act July 28, 1956, substituted “restoration and protective works under sections 426e to 426h of this title” for “improvement and protective works”.
 
 #### Change of Name
 

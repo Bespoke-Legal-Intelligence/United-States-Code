@@ -18,7 +18,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Ex. Ord. No. 10967, eff. Oct. 10, 1961, 26 F.R. 9667, provided:
 
-By virtue of the authority vested in me by section 48 of the Hawaii Omnibus Act (approved July 12, 1960; 74 Stat. 424; P.L. 86–624) \[set out as a note preceding section 491 of Title 48, Territories and Insular Possessions\] and section 301 of title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
+By virtue of the authority vested in me by section 48 of the Hawaii Omnibus Act (approved July 12, 1960; 74Stat. 424; P.L. 86–624) \[set out as a note preceding section 491 of Title 48, Territories and Insular Possessions\] and section 301 of title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
 
 Section 1. The Secretary of the Interior shall be responsible for the civil administration of Palmyra Island and all executive and legislative authority necessary for that administration, and all judicial authority respecting Palmyra Island other than the authority contained in the Act of June 15, 1950 (64 Stat. 217), as amended (48 U.S.C. 644a), shall be vested in the Secretary of the Interior.
 

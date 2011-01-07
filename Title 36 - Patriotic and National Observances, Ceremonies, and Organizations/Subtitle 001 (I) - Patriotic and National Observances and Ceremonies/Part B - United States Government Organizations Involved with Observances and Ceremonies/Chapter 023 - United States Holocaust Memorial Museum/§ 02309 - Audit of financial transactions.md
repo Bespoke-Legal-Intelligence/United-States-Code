@@ -6,5 +6,5 @@ Financial transactions of the Museum, including those involving donated funds, s
 
 #### Prior Provisions
 
-A prior section 2309, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1280, related to authorization of appropriations,prior to the general amendment of this chapter by Pub. L. 106–292.
+A prior section 2309, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1280, related to authorization of appropriations, prior to the general amendment of this chapter by Pub. L. 106–292.
 

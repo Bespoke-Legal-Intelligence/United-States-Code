@@ -72,7 +72,7 @@ Provisions similar to those in subsec. (d) of this section were contained in Pub
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–106, §911(e)(1), inserted heading.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106, §911(e)(1), inserted heading.
 
 Subsec. (a)(2). Pub. L. 104–106, §911(e)(2), substituted “second fiscal year” for “2d fiscal year”.
 
@@ -84,7 +84,7 @@ Subsec. (d). Pub. L. 104–106, §911(b), added subsec. (d).
 
 Subsec. (e). Pub. L. 104–106, §911(c), added subsec. (e).
 
-1990—Subsec. (b)(4). Pub. L. 101–510 struck out par. (4) which read as follows: “The Secretary each year shall report to Congress on funds made available under this subsection.”
+<b>1990</b>—Subsec. (b)(4). Pub. L. 101–510 struck out par. (4) which read as follows: “The Secretary each year shall report to Congress on funds made available under this subsection.”
 
 #### Effective Date of 1996 Amendment
 

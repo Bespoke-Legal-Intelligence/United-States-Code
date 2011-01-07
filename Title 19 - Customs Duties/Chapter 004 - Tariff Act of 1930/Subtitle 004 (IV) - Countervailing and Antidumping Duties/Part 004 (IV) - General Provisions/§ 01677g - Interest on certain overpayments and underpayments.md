@@ -22,9 +22,9 @@ The Antidumping Act, 1921, referred to in subsec. (a)(2), is act May 27, 1921, c
 
 #### Amendments
 
-1986—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1984—Subsec. (a). Pub. L. 98–573 amended subsec. (a) generally, substituting provisions making interest payable on and after the date of publication of a countervailing or antidumping duty order under this subtitle or section 1303 of this title or the date of a finding under the Antidumping Act, 1921 for provisions making interest payable on and after the date on which notice of an affirmative determination by the Commission under section 1671d(b) or 1673d(b) of this title with respect to such merchandise was published.
+<b>1984</b>—Subsec. (a). Pub. L. 98–573 amended subsec. (a) generally, substituting provisions making interest payable on and after the date of publication of a countervailing or antidumping duty order under this subtitle or section 1303 of this title or the date of a finding under the Antidumping Act, 1921 for provisions making interest payable on and after the date on which notice of an affirmative determination by the Commission under section 1671d(b) or 1673d(b) of this title with respect to such merchandise was published.
 
 Subsec. (b). Pub. L. 98–573 amended subsec. (b) generally, substituting provisions that the rate of interest payable under subsec. (a) for any period of time is the rate of interest established under section 6621 of title 26 for such period for provision that the rate at which such interest was payable would be 8 percent per annum or, if higher, the rate in effect under section 6621 of title 26 on the date on which the rate or amount of the duty was finally determined.
 

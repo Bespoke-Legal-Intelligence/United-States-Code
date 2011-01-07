@@ -142,15 +142,11 @@ The United States Trade Representative shall, to the extent he deems it necessar
 
 #### References in Text
 
-Subtitles A and B of title VII and section 337, referred to in subsec. (d)(3)(A) to (C), probably mean subtitles A and B of title VII and section 337 of the Tariff Act of 1930 which is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Subtitles A and B of title VII of the Tariff Act of 1930 are classified generally to parts I and II (§1671 et seq. and 1673 et seq., respectively) of subtitle IV of chapter 4 of this title. Section 337 of the Tariff Act of 1930 is classified to section 1337 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
+Subtitles A and B of title VII and section 337, referred to in subsec. (d)(3)(A) to (C), probably mean subtitles A and B of title VII and section 337 of the Tariff Act of 1930 which is act June 17, 1930, ch. 497, 46 Stat. 590. Subtitles A and B of title VII of the Tariff Act of 1930 are classified generally to parts I and II (§1671 et seq. and 1673 et seq., respectively) of subtitle IV of chapter 4 of this title. Section 337 of the Tariff Act of 1930 is classified to section 1337 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
-Subchapter III of this chapter, referred to in subsec. (d)(3)(D), was in the original “title III of the Trade Act of 1974”, which is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title III of the Trade Act of 1974 is classified generally to subchapter III (§2411 et seq.) of this chapter. For complete classification of title III to the Code, see Tables.
+Subchapter III of this chapter, referred to in subsec. (d)(3)(D), was in the original “title III of the Trade Act of 1974”, which is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title III of the Trade Act of 1974 is classified generally to subchapter III (§2411 et seq.) of this chapter. For complete classification of title III to the Code, see Tables.
 
-The civil service laws, referred to in subsec. (e)(1), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
-The classification laws, referred to in subsec. (e)(1), are set forth in chapter 51 (§5101 et seq.) and subchapter III (§5331 et seq.) of chapter 53 of Title 5.
-
-The Federal Pay Comparability Act of 1970, referred to in subsec. (g)(2), is Pub. L. 91–656, Jan. 8, 1971, 84 Stat. 1946, as amended, which enacted sections 5305 to 5308 and 5947 of Title 5, amended sections 5108, 5301, and 5942 of Title 5 and section 410 of Title 39, Postal Service, repealed section 5302 of Title 5, and enacted provisions set out as notes under sections 5303 and 5942 of Title 5, section 60a of Title 2, The Congress, and section 410 of Title 39. For complete classification of the Act to the Code see Short Title note set out under section 5301 of Title 5 and Tables.
+The Federal Pay Comparability Act of 1970, referred to in subsec. (g)(2), is Pub. L. 91–656, Jan. 8, 1971, 84 Stat. 1946, which enacted sections 5305 to 5308 and 5947 of Title 5, Government Organization and Employees, amended sections 5108, 5301, and 5942 of Title 5 and section 410 of Title 39, Postal Service, repealed section 5302 of Title 5, and enacted provisions set out as notes under sections 5303 and 5942 of Title 5, section 60a of Title 2, The Congress, and section 410 of Title 39. For complete classification of the Act to the Code see Short Title note set out under section 5301 of Title 5 and Tables.
 
 #### Codification
 
@@ -158,9 +154,9 @@ Section is comprised of section 141 of Pub. L. 93–618. Section 141(b) of Pub. 
 
 #### Amendments
 
-2004—Subsec. (b)(2). Pub. L. 108–429 realigned margins.
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–429 realigned margins.
 
-2002—Subsec. (g)(1)(A). Pub. L. 107–210, §361(a)(1)(A), struck out “not to exceed” after “functions” in introductory provisions.
+<b>2002</b>—Subsec. (g)(1)(A). Pub. L. 107–210, §361(a)(1)(A), struck out “not to exceed” after “functions” in introductory provisions.
 
 Subsec. (g)(1)(A)(i). Pub. L. 107–210, §361(a)(1)(B), added cl. (i) and struck out former cl. (i) which read as follows: “$23,250,000 for fiscal year 1991.”
 
@@ -170,23 +166,23 @@ Subsec. (g)(1)(B). Pub. L. 107–210, §361(a)(2), inserted “and” at end of 
 
 Subsec. (g)(3). Pub. L. 107–210, §361(b), added par. (3).
 
-2000—Subsec. (b)(2). Pub. L. 106–200, §406(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There shall be in the Office three Deputy United States Trade Representatives who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of a Deputy United States Trade Representative submitted to the Senate for confirmation, and referred to a committee, shall be referred to the Committee on Finance. Each Deputy United States Trade Representative shall hold office at the pleasure of the President and shall have the rank of Ambassador.”
+<b>2000</b>—Subsec. (b)(2). Pub. L. 106–200, §406(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There shall be in the Office three Deputy United States Trade Representatives who shall be appointed by the President, by and with the advice andconsent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of a Deputy United States Trade Representative submitted to the Senate for confirmation, and referred to a committee, shall be referred to the Committee on Finance. Each Deputy United States Trade Representative shall hold office at the pleasure of the President and shall have the rank of Ambassador.”
 
 Subsec. (c)(5). Pub. L. 106–200, §406(2), added par. (5).
 
-1999—Subsec. (b)(3). Pub. L. 106–36 struck out “
+<b>1999</b>—Subsec. (b)(3). Pub. L. 106–36 struck out “
 
 Limitation on appointments.—” after “(3)” and realigned margins.
 
-1996—Subsec. (c)(1)(D). Pub. L. 104–295 struck out comma after “World Trade Organization,”.
+<b>1996</b>—Subsec. (c)(1)(D). Pub. L. 104–295 struck out comma after “World Trade Organization,”.
 
-1995—Subsec. (b)(3). Pub. L. 104–65 added par. (3).
+<b>1995</b>—Subsec. (b)(3). Pub. L. 104–65 added par. (3).
 
-1994—Subsec. (c)(1)(C). Pub. L. 103–465, §621(a)(8)(A), inserted “all negotiations on any matter considered under the auspices of the World Trade Organization,” after “including”.
+<b>1994</b>—Subsec. (c)(1)(C). Pub. L. 103–465, §621(a)(8)(A), inserted “all negotiations on any matter considered under the auspices of the World Trade Organization,” after “including”.
 
 Subsec. (c)(1)(D). Pub. L. 103–465, §621(a)(8)(B), inserted “, including any matter considered under the auspices of the World Trade Organization,” after “functions”.
 
-1990—Subsec. (g)(1). Pub. L. 101–382 amended par. (1) generally. Prior to amendment, par. (1) read as follows:
+<b>1990</b>—Subsec. (g)(1). Pub. L. 101–382 amended par. (1) generally. Prior to amendment, par. (1) read as follows:
 
 “(A) There are authorized to be appropriated for fiscal year 1990 to the Office for the purposes of carrying out its functions not to exceed $19,651,000.
 
@@ -196,9 +192,9 @@ Subsec. (c)(1)(D). Pub. L. 103–465, §621(a)(8)(B), inserted “, including a
 
 &emsp;“(ii) not to exceed $1,000,000 shall remain available until expended.”
 
-1989—Subsec. (g)(1). Pub. L. 101–207, in subpar. (A), substituted “1990” for “1988” and “$19,651,000” for “$15,172,000”, and in subpar. (B), substituted “1990” for “1988” in introductory provisions, and “$89,000” for “$69,000” in cl. (i).
+<b>1989</b>—Subsec. (g)(1). Pub. L. 101–207, in subpar. (A), substituted “1990” for “1988” and “$19,651,000” for “$15,172,000”, and in subpar. (B), substituted “1990” for “1988” in introductory provisions, and “$89,000” for “$69,000” in cl. (i).
 
-1988—Subsec. (c)(1). Pub. L. 100–418, §1601(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The United States Trade Representative shall—
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–418, §1601(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The United States Trade Representative shall—
 
 &emsp;“(A) be the chief representative of the United States for each trade negotiation under this subchapter or section 2411 of this title;
 
@@ -216,9 +212,9 @@ Subsec. (c)(2) to (4). Pub. L. 100–418, §1601(a)(2), (3), added par. (2) and 
 
 Subsecs. (d) to (g). Pub. L. 100–418, §1601(b)(1), (2), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
-1987—Subsec. (f)(1). Pub. L. 100–203 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are authorized to be appropriated to the Office for the purpose of carrying out its functions $13,582,000 for fiscal year 1986; of which not to exceed $80,000 may be used for entertainment and representation expenses.”
+<b>1987</b>—Subsec. (f)(1). Pub. L. 100–203 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are authorized to be appropriated to the Office for the purpose of carrying out its functions $13,582,000 for fiscal year 1986; of which not to exceed $80,000 may be used for entertainment and representation expenses.”
 
-1986—Subsec. (d)(1). Pub. L. 99–272, §13023(1), inserted provision that not more than 20 individuals may be employed without regard to any provision of law regulating the employment or compensation at rates not to exceed the rate of pay for level IV of the Executive Schedule.
+<b>1986</b>—Subsec. (d)(1). Pub. L. 99–272, §13023(1), inserted provision that not more than 20 individuals may be employed without regard to any provision of law regulating the employment or compensation at rates not to exceed the rate of pay for level IV of the Executive Schedule.
 
 Subsec. (d)(6). Pub. L. 99–514, §1887(a)(3), substituted “1342 of title 31” for “3679(b) of the Revised Statutes (31 U.S.C. 665(b))”.
 
@@ -226,11 +222,11 @@ Subsec. (d)(8), (11). Pub. L. 99–514, §1887(a)(4), redesignated the par. (8) 
 
 Subsec. (f)(1). Pub. L. 99–272, §13023(2), substituted “$13,582,000 for fiscal year 1986” for “$14,179,000 for fiscal year 1985”.
 
-1984—Subsec. (d)(6) to (8). Pub. L. 98–573, §304(d)(2)(A), which directed that a new par. (8), relating to the provision of copies of documents to persons at cost, be added to subsec. (d) by striking out “and” at the end of par. (6), substituting “; and” for the period at the end of par. (7), and adding the new par. (8) at the end thereof, was executed by adding the new par. (8) following par. (10). Amendments to pars. (6) and (7) could not be executed.
+<b>1984</b>—Subsec. (d)(6) to (8). Pub. L. 98–573, §304(d)(2)(A), which directed that a new par. (8), relating to the provision of copies of documents to persons at cost, be added to subsec. (d) by striking out “and” at the end of par. (6), substituting “; and” for the period at the end of par. (7), and adding the new par. (8) at the end thereof, was executed by adding the new par. (8) following par. (10). Amendments to pars. (6) and (7) could not be executed.
 
 Subsec. (f)(1). Pub. L. 98–573, §703, substituted provisions authorizing appropriations of $14,179,000 for fiscal year 1985, of which not more than $80,000 may be used for entertainment and representation for provisions authorizing appropriations of $11,100,000 for fiscal year 1983, of which not more than $65,000 could be used for entertainment and representation expenses.
 
-1983—Subsec. (a). Pub. L. 97–456, §3(d)(1)(D), substituted “United States Trade Representative” for “Special Representative for Trade Negotiations”.
+<b>1983</b>—Subsec. (a). Pub. L. 97–456, §3(d)(1)(D), substituted “United States Trade Representative” for “Special Representative for Trade Negotiations”.
 
 Subsec. (b)(1). Pub. L. 97–456, §3(d)(1)(D), substituted “United States Trade Representative” for “Special Representative for Trade Negotiations” wherever appearing.
 
@@ -320,7 +316,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (3) To the extent necessary to assure the coordination of international trade policy, and consistent with any other law, the Trade Representative, with the advice of the Committee, shall issue policy guidance to departments and agencies on basic issues of policy and interpretation arising in the exercise of the following international trade functions. Such guidance shall determine the policy of the United States with respect to international trade issues arising in the exercise of such functions:
 
-&emsp;(A) matters concerning the General Agreement on Tariffs and Trade, including implementation of the trade agreements set forth in section 2(c) of the Trade Agreements Act of 1979 \[19 U.S.C. 2503(c)\]; United States Government positions on trade and commodity matters dealt with by the Organization for Economic Cooperation and Development, theUnited Nations Conference on Trade and Development, and other multilateral organizations; and the assertion and protection of the rights of the United States under bilateral and multilateral international trade and commodity agreements;
+&emsp;(A) matters concerning the General Agreement on Tariffs and Trade, including implementation of the trade agreements set forth in section 2(c) of the Trade Agreements Act of 1979 \[19 U.S.C. 2503(c)\]; United States Government positions on trade and commodity matters dealt with by the Organization for Economic Cooperation and Development, the United Nations Conference on Trade and Development, and other multilateral organizations; and the assertion and protection of the rights of the United States under bilateral and multilateral international trade and commodity agreements;
 
 &emsp;(B) expansion of exports from the United States;
 
@@ -478,11 +474,11 @@ I propose to transfer to the Department of Commerce responsibility for administr
 
 This reorganization plan will transfer to the Department of Commerce responsibility for commercial representation abroad. This transfer would place both domestic and overseas export promotion activities under a single organization, directed by an Assistant Secretary for Export Development, charged with aggressively expanding U.S. export opportunities. Placing this Foreign Commercial Service in the Commerce Department will allow commercial officers to concentrate on the promotion of U.S. exports as their principal activity.
 
-Initially, the transfer of commercial representation from State to Commerce will involve all full-time overseas trade promotion and commercial positions (approximately 162), responsibility for this function in the countries (approximately 60) to which these individualsare assigned, and the associated foreign national employees in those countries. Over time, the Department of Commerce undoubtedly will review the deployment of commercial officers in light of changing trade circumstances and propose extensions or alterations of coverage of the Foreign Commercial Service.
+Initially, the transfer of commercial representation from State to Commerce will involve all full-time overseas trade promotion and commercial positions (approximately 162), responsibility for this function in the countries (approximately 60) to which these individuals are assigned, and the associated foreign national employees in those countries. Over time, the Department of Commerce undoubtedly will review the deployment of commercial officers in light of changing trade circumstances and propose extensions or alterations of coverage of the Foreign Commercial Service.
 
 #### <i>MTN implementation</i>
 
-I am dedicated to the aggressive implementation of the Multilateral Trade Agreements. The United States must seize the opportunities and enforce the obligations created by these agreements. Under this proposal, the Department of Commerce will assign high priority to this task. The Department of Commerce will be responsible for the day-to-day implementation of non-agricultural aspects of the MTN agreements. Management of this function will be a principal assignment of an Assistant Secretary for Trade Policy and Programs. Implementation activities will include:
+I am dedicated to the aggressive implementation of the Multilateral Trade Agreements. The United Statesmust seize the opportunities and enforce the obligations created by these agreements. Under this proposal, the Department of Commerce will assign high priority to this task. The Department of Commerce will be responsible for the day-to-day implementation of non-agricultural aspects of the MTN agreements. Management of this function will be a principal assignment of an Assistant Secretary for Trade Policy and Programs. Implementation activities will include:
 
 &emsp;&emsp;monitoring agreements and targeting problems for consultation and negotiation;
 
@@ -530,7 +526,7 @@ Ex. Ord. No. 11425, Aug. 30, 1968, 33 F.R. 12363, formerly set out under section
 
 Ex. Ord. No. 12175, Dec. 7, 1979, 44 F.R. 70703, provided:
 
-By the authority vested in me as President of the United States of America by Section 9 of Reorganization Plan No. 3 of 1979 (transmitted to the Congress on September 25, 1979) \[set out as a note above\], the timeperiod prescribed by Section 906 of Title 5 of the United States Code having elapsed without the adoption of a resolution of disapproval by either House of Congress, it is hereby ordered that Section 2(b)(1) of that Plan, establishing the Office of Deputy Secretary of Commerce, is effective immediately.
+By the authority vested in me as President of the United States of America by Section 9 of Reorganization Plan No. 3 of 1979 (transmitted to the Congress on September 25, 1979) \[set out as a note above\], the time period prescribed by Section 906 of Title 5 of the United States Code having elapsed without the adoption of a resolution of disapproval by either House of Congress, it is hereby ordered that Section 2(b)(1) of that Plan, establishing the Office of Deputy Secretary of Commerce, is effective immediately.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -622,7 +618,7 @@ Sec. 1–104. <i>Authority Under the Foreign Service Act and Related Laws.</i>
 
 (b) \[Revoked by Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968.\]
 
-(c) The Board of the Foreign Service and the Board of Examiners for the Foreign Service established by Executive Order 11264 of December 31, 1965, as amended \[22 U.S.C. 826 note\], shall exercise with respect to Foreign Service personnel of the Department of Commerce the functions delegated to them by that order with respect to Foreign Service personnel of the Department of State. The Boards shall perform such additional functions with respect to Foreign Service personnel of the Department of Commerce as the Secretary may from time to time delegate or otherwise assign, consistent with the functions of such boards.
+(c) The Board of the Foreign Service and the Board of Examiners for the Foreign Service established by Executive Order 11264 of December 31, 1965, as amended \[22 U.S.C. 826 note\], shall exercise with respect to Foreign Service personnel of the Department of Commerce thefunctions delegated to them by that order with respect to Foreign Service personnel of the Department of State. The Boards shall perform such additional functions with respect to Foreign Service personnel of the Department of Commerce as the Secretary may from time to time delegate or otherwise assign, consistent with the functions of such boards.
 
 Sec. 1–105. <i>Prior Executive Orders and Determination.</i>
 
@@ -665,4 +661,6 @@ Sec. 1–107. <i>Effective Dates.</i>
 (a) Sections 1, 2(a), 2(b)(2), 2(c), 2(d), 3, 4, 5(a), 5(b)(2), 5(c) through (e), and 6 through 8 of Reorganization Plan No. 3 of 1979 \[set out as a note above\] and the provisions of this order, shall take effect as of January 2, 1980.
 
 (b) Section 5(b)(1) of such plan \[set out as a note above\] shall take effect as of April 1, 1980.
+
+<i><sup>1</sup></i><i> So in original. Probably should be section “5315”.</i>
 

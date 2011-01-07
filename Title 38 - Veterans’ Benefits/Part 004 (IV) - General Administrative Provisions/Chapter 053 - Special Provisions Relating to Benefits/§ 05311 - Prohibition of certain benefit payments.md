@@ -10,5 +10,5 @@ Public Law 87–674, referred to in text, is Pub. L. 87–674, Sept. 19, 1962, 7
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 3111 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 3111 of this title as this section.
 

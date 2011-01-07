@@ -16,9 +16,9 @@ Historical and Revision Notes
 
 46:621
 
-Section 10702 requires a master to take charge of the property of a deceased seaman, make note in the official logbook that the property was taken and obtain a certificate of compliance from a shipping commissioner which must be exhibited for port clearance of foreign bound vessels.
+Section 10702 requires a master to take charge of the property of a deceased seaman, make note in the official logbook that the property was taken and obtain acertificate of compliance from a shipping commissioner which must be exhibited for port clearance of foreign bound vessels.
 
 #### Amendments
 
-1993—Subsec. (b). Pub. L. 103–206 substituted “the consular officer or court clerk” for “a shipping commissioner”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–206 substituted “the consular officer or court clerk” for “a shipping commissioner”.
 

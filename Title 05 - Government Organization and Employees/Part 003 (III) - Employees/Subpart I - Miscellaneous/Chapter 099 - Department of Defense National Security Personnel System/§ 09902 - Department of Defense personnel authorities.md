@@ -12,7 +12,7 @@ Performance Management and Workforce Incentives.—(1) The Secretary, in coordin
 
 &emsp;(D) Development of “performance assistance plans” that are designed to give employees formal training, on-the-job training, counseling, mentoring, and other assistance.
 
-(2) In developing the regulations required by this subsection, the Secretary, in coordination with the Director, may waive the requirements of chapters 43 (other than sections 4302 and 4303(e)) and the regulations implementing such chapters, to the extent necessary to achieve the objectives of this subsection.
+(2) In developing the regulations required by this subsection, the Secretary, in coordination with the Director, may waive the requirements of chapter 43 (other than sections 4302 and 4303(e)) and the regulations implementing such chapter, to the extent necessary to achieve the objectives of this subsection.
 
 (3)(A) The Secretary may establish a fund, to be known as the “Department of Defense Civilian Workforce Incentive Fund” (in this paragraph referred to as the “Fund”).
 
@@ -152,7 +152,7 @@ Provisions Related to Separation and Retirement Incentives.—
 
 &emsp;(B) The Secretary shall prepare a report each fiscal year setting forth the number of employees who received such pay as a result of a closure or realignment of a military base as described under subparagraph (A).
 
-&emsp;(C) The Secretary shall submit the report under subparagraph (B) to the Committee on Armed Services and the Committee on Governmental Affairs of the Senate, and the Committee on Armed Services and the Committee on Government Reform of the House of Representatives.
+&emsp;(C) The Secretary shall submit the report under subparagraph (B) to the Committee on Armed Services and the Committee on Governmental Affairs of the Senate, and the Committee on Armed Services and the Committeeon Government Reform of the House of Representatives.
 
 &emsp;(3) For purposes of this section, the term “employee” means an employee of the Department of Defense, serving under an appointment without time limitation, except that such term does not include—
 
@@ -170,7 +170,7 @@ Provisions Related to Separation and Retirement Incentives.—
 
 &emsp;&emsp;(ii) $25,000.
 
-&emsp;(B) Separation pay shall not be a basis for payment, and shall not be included in thecomputation, of any other type of Government benefit. Separation pay shall not be taken into account for the purpose of determining the amount of any severance pay to which an individual may be entitled under section 5595, based on any other separation.
+&emsp;(B) Separation pay shall not be a basis for payment, and shall not be included in the computation, of any other type of Government benefit. Separation pay shall not be taken into account for the purpose of determining the amount of any severance pay to which an individual may be entitled under section 5595, based on any other separation.
 
 &emsp;(C) Separation pay, if paid in installments, shall cease to be paid upon the recipient's acceptance of employment by the Federal Government, or commencement of work under a personal services contract as described in paragraph (6).
 
@@ -202,7 +202,7 @@ Provisions Relating to Reemployment.—
 
 &emsp;(4) The Secretary shall prescribe regulations to carry out this subsection, excluding paragraph (3).
 
-(Added Pub. L. 108–136, div. A, title XI, §1101(a)(1), Nov. 24, 2003, 117 Stat. 1621; amended Pub. L. 110–181, div. A, title XI, §1106(a), Jan. 28, 2008, 122 Stat. 349; Pub. L. 110–417, \[div. A\], title XI, §1106, Oct. 14, 2008, 122 Stat. 4617; Pub. L. 111–84, div. A, title XI, §§1113(b)(1), (d), (f)(1), 1121, Oct. 28, 2009, 123 Stat. 2498, 2499, 2502, 2505.)
+(Added Pub. L. 108–136, div. A, title XI, §1101(a)(1), Nov. 24, 2003, 117 Stat. 1621; amended Pub. L. 110–181, div. A, title XI, §1106(a), Jan. 28, 2008, 122 Stat. 349; Pub. L. 110–417, \[div. A\], title XI, §1106, Oct. 14, 2008, 122 Stat. 4617; Pub. L. 111–84, div. A, title XI, §§1113(b)(1), (d), (f)(1), 1121, Oct. 28, 2009, 123 Stat. 2498, 2499, 2502, 2505; Pub. L. 111–383, div. A, title X, §1075(a)(2), title XI, §1101(c), Jan. 7, 2011, 124 Stat. 4368, 4382.)
 
 #### References in Text
 
@@ -214,11 +214,15 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 #### Amendments
 
+2011—Subsec. (a)(2). Pub. L. 111–383, §1075(a)(2), substituted “chapter” for “chapters” in two places.
+
+Subsec. (g)(3), (4). Pub. L. 111–383, §1101(c), amended directory language of Pub. L. 111–84, §1121. See 2009 Amendment note below.
+
 2009—Pub. L. 111–84, §1113(f)(1), amended section catchline generally, substituting “Department of Defense personnel authorities” for “Establishment of human resources management system”.
 
-Pub. L. 111–84, §1113(b)(1), (d), added subsecs. (a) to (d), redesignated subsecs. (f) to (h) as (e) to (g), respectively, and struck out former subsecs. (a) to (e), (i), and (j) which, respectively, authorized the Secretary of Defense to establish and adjust the National Security Personnel System (NSPS), provided for certain requirements of the NSPS, provided for certain exceptions tothe NSPS with respect to certain laboratories, enumerated nonwaivable provisions referred to in former subsec. (b)(3)(D), established limitations relating to pay, preserved certain rights of and limitations on the Secretary, and prohibited the addition of an organizational or functional unit to the NSPS that would cause the number of employees added to the NSPS to exceed 100,000 in that year.
+Pub. L. 111–84, §1113(b)(1), (d), added subsecs. (a) to (d), redesignated subsecs. (f) to (h) as (e) to (g), respectively, and struck out former subsecs. (a) to (e), (i), and (j) which, respectively, authorized the Secretary of Defense to establish and adjust the National Security Personnel System (NSPS), provided for certain requirements of the NSPS, provided for certain exceptions to the NSPS with respect to certain laboratories, enumerated nonwaivable provisions referred to in former subsec. (b)(3)(D), established limitations relating to pay, preserved certain rights of and limitations on the Secretary, and prohibited the addition of an organizational or functional unit to the NSPS that would cause the number of employees added to the NSPS to exceed 100,000 in that year.
 
-Subsec. (g)(3), (4). Pub. L. 111–84, §1121, which directed amendment of subsec. (h) by adding par. (3), redesignating former par. (3) as (4), and substituting “, excluding paragraph (3)” for the period, was executed by making the amendment to subsec. (g) to reflect the probable intent of Congress and the redesignation of subsec. (h) as (g) by Pub. L. 111–84, §1113(b)(1)(B). See above.
+Subsec. (g)(3), (4). Pub. L. 111–84, §1121, as amended by Pub. L. 111–383, §1101(c), added par. (3), redesignated former par. (3) as (4), and, in par. (4), inserted “, excluding paragraph (3)” before period at end.
 
 2008—Pub. L. 110–181 amended section generally, substituting provisions relating to establishment of human resources management system for former provisions which related to, in subsec. (a), general authority of Secretary of Defense to establish and adjust a human resources management system, in subsec. (b), system requirements, in subsec. (c), personnel management at defense laboratories, in subsec. (d), nonwaivable provisions, in subsec. (e), limitations relating to pay, in subsec. (f), collaboration with employee representatives, in subsec. (g), national level bargaining, in subsec. (h), appellate procedures, in subsec. (i), separation and retirement incentives, in subsec. (j), reemployment, in subsec. (k), personnel management, in subsec. (<i>l</i>), phase-in of the National Security Personnel System, and, in subsec. (m), labor management relations.
 
@@ -230,9 +234,21 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–383, div. A, title XI, §1101(d), Jan. 7, 2011, 124 Stat. 4382, provided that:
+
+“(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and provisions set out as notes preceding section 1580 and under section 2358 of Title 10, Armed Forces\] shall take effect as of October 28, 2009.
+
+“(2) The amendment made by subsection (a)(2) \[amending provisions set out as a note preceding section 1580 of Title 10\] shall take effect as of the date of enactment of this Act \[Jan. 7, 2011\].”
+
+#### References to Pub. L. 111–383
+
+Pub. L. 111–383, §1(b), Jan. 7, 2011, 124 Stat. 4137, provided that: “Any reference in this or any other Act to the ‘National Defense Authorization Act for Fiscal Year 2011’ shall be deemed to refer to the ‘Ike Skelton National Defense Authorization Act for Fiscal Year 2011’.”
+
 #### Provisions Relating to the National Security Personnel System
 
-Pub. L. 111–84, div. A, title XI, §1113(a)–(g), Oct. 28, 2009, 123 Stat. 2498–2502, provided that:
+Pub. L. 111–84, div. A, title XI, §1113(a)–(g), Oct. 28, 2009, 123 Stat. 2498–2502, as amended by Pub. L. 111–383, div. A, title X, §1075(d)(17), Jan. 7, 2011, 124 Stat. 4373, provided that:
 
 “(a)
 
@@ -306,7 +322,7 @@ Reports.—The Secretary of Defense shall provide a report to the covered commit
 
 &emsp;“(1) no later than 6 months after the date of enactment of this Act \[Oct. 28, 2009\], on the initial steps being taken to reclassify positions from the NSPS and the initial conversion plan to begin converting employees from the NSPS, which information shall be supplemented by reports describing the progress of the conversion process which shall be submitted to the same committees on a semiannual basis;
 
-&emsp;“(2) no later than 12 months after date of enactment, \[on\] a plan for the personnel management system as authorized by section 9902(a) of title 5, United States Code, as amended by this section, which planshall not take effect until 90 days after the submission of the plan to Congress; and
+&emsp;“(2) no later than 12 months after date of enactment, \[on\] a plan for the personnel management system as authorized by section 9902(a) of title 5, United States Code, as amended by this section, which plan shall not take effect until 90 days after the submission of the plan to Congress; and
 
 &emsp;“(3) no later than 12 months after date of enactment, \[on\] a plan for the appointment procedures as authorized by section 9902(b) of title 5, United States Code, as amended by this section.
 
@@ -320,7 +336,7 @@ Other Personnel Flexibilities.—
 
 &emsp;“(1)
 
-In general.—If the Secretary of Defense determines that it would be in the best interest of the Department of Defense to implement personnel flexibilities in addition to those authorized under section 9902 of title 5, as amended by this section, the Secretary, in coordination with the Director of the Office of Personnel Management, may develop and submit to the covered committees, not later than 6 months after the date of the enactment of this Act \[Oct. 28, 2009\], a proposal to implement—
+In general.—If the Secretary of Defense determines that it would be in the best interest of the Department of Defense to implement personnel flexibilities in addition to those authorized under section 9902 of title 5, United States Code, as amended by this section, the Secretary, in coordination with the Director of the Office of Personnel Management, may develop and submit to the covered committees, not later than 6 months after the date of the enactment of this Act \[Oct. 28, 2009\], a proposal to implement—
 
 &emsp;&emsp;“(A) additional personnel flexibilities and associated statutory waivers with respect to the application of the General Schedule (as defined in section 5332 of title 5, United States Code); or
 

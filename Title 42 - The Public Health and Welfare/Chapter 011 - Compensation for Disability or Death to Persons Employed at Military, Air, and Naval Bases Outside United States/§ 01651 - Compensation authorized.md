@@ -8,7 +8,7 @@ Except as herein modified, the provisions of the Longshore and Harbor Workers’
 
 &emsp;(2) upon any lands occupied or used by the United States for military or naval purposes in any Territory or possession outside the continental United States (including the United States Naval Operating Base, Guantanamo Bay, Cuba; and the Canal Zone); or
 
-&emsp;(3) upon any public work in any Territory or possession outside the continental United States (including the United States Naval Operating Base, Guantanamo Bay, Cuba; and the Canal Zone), if such employee is engaged in employment at such place under the contract of a contractor (or any subcontractor or subordinate subcontractor with respect to the contract of such contractor) with the United States; but nothing in this paragraph shall be construed to apply to any employee of such a contractor or subcontractor who is engaged exclusively in furnishing materials or supplies under his contract;
+&emsp;(3) upon any public work in any Territory or possession outside the continental United States (including the United States Naval Operating Base, Guantanamo Bay, Cuba; and the Canal Zone), if such employee is engaged in employment at such place under the contract of a contractor (or any subcontractor or subordinate subcontractor with respect to the contract of such contractor) with the United States; but nothing in this paragraph shall beconstrued to apply to any employee of such a contractor or subcontractor who is engaged exclusively in furnishing materials or supplies under his contract;
 
 &emsp;(4) under a contract entered into with the United States or any executive department, independent establishment, or agency thereof (including any corporate instrumentality of the United States), or any subcontract, or subordinate contract with respect to such contract, where such contract is to be performed outside the continental United States and at places not within the areas described in subparagraphs (1)–(3) of this subdivision, for the purpose of engaging in public work, and every such contract shall contain provisions requiring that the contractor (and subcontractor or subordinate contractor with respect to such contract) (1) shall, before commencing performance of such contract, provide for securing to or on behalf of employees engaged in such public work under such contract the payment of compensation and other benefits under the provisions of this chapter, and (2) shall maintain in full force and effect during the term of such contract, subcontract, or subordinate contract, or while employees are engaged in work performed thereunder, the said security for the payment of such compensation and benefits, but nothing in this paragraph shall be construed to apply to any employee of such contractor or subcontractor who is engaged exclusively in furnishing materials or supplies under his contract;
 
@@ -64,13 +64,13 @@ Reference to Philippine Islands in paragraphs (2) and (3) of subsec. (a) of this
 
 #### Amendments
 
-1984—Subsecs. (a), (d). Pub. L. 98–426 substituted “Longshore and Harbor Workers’ Compensation Act” for “Longshoremen's and Harbor Workers’ Compensation Act”.
+<b>1984</b>—Subsecs. (a), (d). Pub. L. 98–426 substituted “Longshore and Harbor Workers’ Compensation Act” for “Longshoremen's and Harbor Workers’ Compensation Act”.
 
-1961—Subsec. (a)(5). Pub. L. 87–195, §701(1), extended coverage in those cases where the Secretary of Labor, upon the recommendation of the head of any department or other agency of the United States, determines a contract financed under a successor provision of any successor act to the Mutual Security Act of 1954 should be covered by this section.
+<b>1961</b>—Subsec. (a)(5). Pub. L. 87–195, §701(1), extended coverage in those cases where the Secretary of Labor, upon the recommendation of the head of any department or other agency of the United States, determines a contract financed under a successor provision of any successor act to the Mutual Security Act of 1954 should be covered by this section.
 
 Subsec. (e). Pub. L. 87–195, §701(2), substituted “but not completed on the date of enactment of any successor act to the Mutual Security Act of 1954, as amended” for “June 30, 1958, but not completed on July 24, 1959”.
 
-1959—Subsec. (a)(2), (3). Pub. L. 86–70, §40(a), struck out “Alaska;” before “the United States Naval Operating Base”.
+<b>1959</b>—Subsec. (a)(2), (3). Pub. L. 86–70, §40(a), struck out “Alaska;” before “the United States Naval Operating Base”.
 
 Subsec. (a)(6). Pub. L. 86–70, §40(b), struck out “or in Alaska or the Canal Zone” after “continental United States”.
 
@@ -78,7 +78,7 @@ Subsec. (b)(4). Pub. L. 86–70, §40(c), added par. (4).
 
 Subsec. (e). Pub. L. 86–108 provided that the liability under this chapter of a contractor, subcontractor, or subordinate contractor engaged in performance of contracts, subcontracts, or subordinate contracts specified in subsec. (a)(5) of this section, and the conditions set forth therein, shall be applicable to the remaining terms of such contracts, subcontracts, and subordinate contracts entered into prior to June 30, 1958, but not completed on July 24, 1959.
 
-1958—Subsec. (a)(5). Pub. L. 85–477, §502(a)(1), added par. (5).
+<b>1958</b>—Subsec. (a)(5). Pub. L. 85–477, §502(a)(1), added par. (5).
 
 Subsec. (a)(6). Pub. L. 85–608, §201(a), added par. (6).
 
@@ -88,13 +88,13 @@ Subsec. (e). Pub. L. 85–608, §201(c), substituted “may waive the applicatio
 
 Pub. L. 85–477, §502(a)(2), substituted “provisions of subparagraphs (3), (4), or (5)” for “provisions of subparagraphs (3) or (4)”.
 
-Subsec. (f). Pub. L. 85–602, §201(d), substituted provisions making liability of a contractor, subcontractor, or subordinate contractor inapplicable with respect to persons who are prisoners of war or protected personsand who are detained or utilized by the United States for provisions which made liability inapplicable with respect to employees not citizens of the United States who incurred an injury or death resulting in death subsequent to June 30, 1953.
+Subsec. (f). Pub. L. 85–602, §201(d), substituted provisions making liability of a contractor, subcontractor, or subordinate contractor inapplicable with respect to persons who are prisoners of war or protected persons and who are detained or utilized by the United States for provisions which made liability inapplicable with respect to employees not citizens of the United States who incurred an injury or death resulting in death subsequent to June 30, 1953.
 
 Pub. L. 85–477, §502(a)(3), inserted “or any work under subparagraph (5) of subsection (a) of this section” before “shall not apply”.
 
-1953—Subsec. (f). Act June 30, 1953, added subsec. (f).
+<b>1953</b>—Subsec. (f). Act June 30, 1953, added subsec. (f).
 
-1942—Act Dec. 2, 1942, amended section generally. Prior to amendment section read as follows: “Except as herein modified, the provisions of sections 901–921, 922–950 of title 33, as amended, and as the same may be amended hereafter, shall apply in respect to the injury or death of any employee engaged in any employment at any military, air, or naval base acquired after January 1, 1940, by the United States from any foreign government or any lands occupied or used by the United States for military or naval purposes in any Territory or possession outside the continental United States, including Alaska, Guantanamo, and the Philippine Islands, but excluding the Canal Zone, irrespective of the place where the injury or death occurs.”
+<b>1942</b>—Act Dec. 2, 1942, amended section generally. Prior to amendment section read as follows: “Except as herein modified, the provisions of sections 901–921, 922–950 of title 33, as amended, and as the same may be amended hereafter, shall apply in respect to the injury or death of any employee engaged in any employment at any military, air, or naval base acquired after January 1, 1940, by the United States from any foreign government or any lands occupied or used by the United States for military or naval purposes in any Territory or possession outside the continental United States, including Alaska, Guantanamo, and the Philippine Islands, but excluding the Canal Zone, irrespective of the place where the injury or death occurs.”
 
 #### Effective Date of 1984 Amendment
 

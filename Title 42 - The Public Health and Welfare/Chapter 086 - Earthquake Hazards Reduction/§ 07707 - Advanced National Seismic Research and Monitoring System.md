@@ -12,5 +12,5 @@ Not later than 90 days after November 13, 2000, the Director of the United State
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–360 struck out subsec. (c) which related to authorization of appropriations.
+<b>2004</b>—Subsec. (c). Pub. L. 108–360 struck out subsec. (c) which related to authorization of appropriations.
 

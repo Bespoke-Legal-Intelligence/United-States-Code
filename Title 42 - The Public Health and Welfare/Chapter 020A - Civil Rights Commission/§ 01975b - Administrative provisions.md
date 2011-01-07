@@ -48,17 +48,11 @@ All Federal agencies shall cooperate fully with the Commission to the end that i
 
 (Pub. L. 98–183, §4, Nov. 30, 1983, 97 Stat. 1304; Pub. L. 103–419, §2, Oct. 25, 1994, 108 Stat. 4340.)
 
-#### References in Text
-
-The civil service laws, referred to in subsec. (a)(2)(A), are set out in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
-The classification laws, referred to in subsec. (a)(2)(A), are classified generally to chapter 51 (§5101 et seq.) and subchapter III (§5331 et seq.) of chapter 53 of Title 5.
-
 #### Prior Provisions
 
 A prior section 1975b, Pub. L. 85–315, pt. I, §103, Sept. 9, 1957, 71 Stat. 635; Pub. L. 88–352, title V, §§502, 503, July 2, 1964, 78 Stat. 250, 251; Pub. L. 91–521, §1, Nov. 25, 1970, 84 Stat. 1356; Pub. L. 92–496, §2, Oct. 14, 1972, 86 Stat. 813; Pub. L. 95–444, §2, Oct. 10, 1978, 92 Stat. 1067, related to compensation of members of Commission. See Codification note set out preceding section 1975 of this title.
 
 #### Amendments
 
-1994—Pub. L. 103–419 amended section generally, substituting administrative provisions for provisions relating to compensation of members of Commission.
+<b>1994</b>—Pub. L. 103–419 amended section generally, substituting administrative provisions for provisions relating to compensation of members of Commission.
 

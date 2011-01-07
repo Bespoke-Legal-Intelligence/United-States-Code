@@ -26,7 +26,7 @@
 
 #### (3) Requirement that property be identified and that exchange be completed not more than 180 days after transfer of exchanged property
 
-&emsp;For purposes of this subsection, any property received by the taxpayer shall be treated as property which is not like-kind property if—
+&emsp;For purposes of this subsection, any property received by the taxpayer shall be treatedas property which is not like-kind property if—
 
 &emsp;&emsp;(A) such property is not identified as property to be received in the exchange on or before the day which is 45 days after the date on which the taxpayer transfers the property relinquished in the exchange, or
 
@@ -154,29 +154,29 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (i). Pub. L. 110–246 added subsec. (i).
+<b>2008</b>—Subsec. (i). Pub. L. 110–246 added subsec. (i).
 
-2005—Subsec. (h)(2)(B). Pub. L. 109–135 substituted “subparagraphs” for “subparagraph” in introductory provisions.
+<b>2005</b>—Subsec. (h)(2)(B). Pub. L. 109–135 substituted “subparagraphs” for “subparagraph” in introductory provisions.
 
-1999—Subsec. (d). Pub. L. 106–36, in last sentence, substituted “assumed (as determined under section 357(d)) a liability of the taxpayer” for “assumed a liability of the taxpayer or acquired from the taxpayer property subject to a liability” and struck out “or acquisition (in the amount of the liability)” after “such assumption”.
+<b>1999</b>—Subsec. (d). Pub. L. 106–36, in last sentence, substituted “assumed (as determined under section 357(d)) a liability of the taxpayer” for “assumed a liability of the taxpayer or acquired from the taxpayer property subject to a liability” and struck out “or acquisition (in the amount of the liability)” after “such assumption”.
 
-1997—Subsec. (h). Pub. L. 105–34 amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “For purposes of this section, real property located in the United States and real property located outside the United States are not property of a like kind.”
+<b>1997</b>—Subsec. (h). Pub. L. 105–34 amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “For purposes of this section, real property located in the United States and real property located outside the United States are not property of a like kind.”
 
-1990—Subsec. (a)(2). Pub. L. 101–508, §11703(d)(1), inserted at end “For purposes of this section, an interest in a partnership which has in effect a valid election under section 761(a) to be excluded from the application of all of subchapter K shall be treated as an interest in each of the assets of such partnership and not as an interest in a partnership.”
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–508, §11703(d)(1), inserted at end “For purposes of this section, an interest in a partnership which has in effect a valid election under section 761(a) to be excluded from the application of all of subchapter K shall be treated as an interest in each of the assets of such partnership and not as an interest in a partnership.”
 
 Subsec. (f)(3). Pub. L. 101–508, §11701(h), substituted “section 267(b) or 707(b)(1)” for “section 267(b)”.
 
-1989—Subsecs. (f) to (h). Pub. L. 101–239 added subsecs. (f) to (h).
+<b>1989</b>—Subsecs. (f) to (h). Pub. L. 101–239 added subsecs. (f) to (h).
 
-1986—Subsec. (a)(3)(A). Pub. L. 99–514 substituted “on or before the day” for “before the day”.
+<b>1986</b>—Subsec. (a)(3)(A). Pub. L. 99–514 substituted “on or before the day” for “before the day”.
 
-1984—Subsec. (a). Pub. L. 98–369, §77(a), in amending subsec. generally, designated existing provisions as par. (1), substituted “No gain or loss shall be recognized on the exchange of property held for productive use in a trade or business or for investment if such property is exchanged solely for property of like kind which is to be held either for productive use in a trade or business or for investment” for “No gain or loss shall be recognized if property held for productive use in trade or business or for investment (not including stock in trade or other property held primarily for sale, nor stocks, bonds, notes, choses in action, certificates of trust or beneficial interest, or other securities or evidences of indebtedness or interest) is exchanged solely for property of a like kind to be held either for productive use in trade or business or for investment”, and added pars. (2) and (3).
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §77(a), in amending subsec. generally, designated existing provisions as par. (1), substituted “No gain or loss shall be recognized on the exchange of property held for productive use in a trade or business or for investment if such property is exchanged solely for property of like kind which is to be held either for productive use in a trade or business or for investment” for “No gain or loss shall be recognized if property held for productive use in trade or business or for investment (not including stock in trade or other property held primarily for sale, nor stocks, bonds, notes, choses in action, certificates of trust or beneficial interest, or other securities or evidences of indebtedness or interest) is exchanged solely for property of a like kind to be held either for productive use in trade or business or for investment”, and added pars. (2) and (3).
 
-1969—Subsec. (e). Pub. L. 91–172 added subsec. (e).
+<b>1969</b>—Subsec. (e). Pub. L. 91–172 added subsec. (e).
 
-1959—Subsecs. (b) to (d). Pub. L. 86–346 inserted references to section 1037(a) in subsecs. (b) and (c) and in first two sentences of subsec. (d).
+<b>1959</b>—Subsecs. (b) to (d). Pub. L. 86–346 inserted references to section 1037(a) in subsecs. (b) and (c) and in first two sentences of subsec. (d).
 
-1958—Subsec. (d). Pub. L. 85–866 inserted in first sentence a comma between “exchanged” and “decreased” and “or decreased in the amount of loss”, and substituted in second sentence “subsection” for “paragraph”.
+<b>1958</b>—Subsec. (d). Pub. L. 85–866 inserted in first sentence a comma between “exchanged” and “decreased” and “or decreased in the amount of loss”, and substituted in second sentence “subsection” for “paragraph”.
 
 #### Effective Date of 2008 Amendment
 
@@ -226,7 +226,7 @@ Binding contract.—The amendments made by this section shall not apply to any t
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions ofthe Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 

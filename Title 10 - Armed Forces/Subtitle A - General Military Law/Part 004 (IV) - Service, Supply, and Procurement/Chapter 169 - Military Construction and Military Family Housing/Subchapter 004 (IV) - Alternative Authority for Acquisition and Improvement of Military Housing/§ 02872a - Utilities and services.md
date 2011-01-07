@@ -42,5 +42,5 @@ Reimbursement.—(1) The Secretary concerned shall be reimbursed for any utiliti
 
 #### Amendments
 
-2002—Subsec. (b)(11), (12). Pub. L. 107–314 added pars. (11) and (12).
+<b>2002</b>—Subsec. (b)(11), (12). Pub. L. 107–314 added pars. (11) and (12).
 

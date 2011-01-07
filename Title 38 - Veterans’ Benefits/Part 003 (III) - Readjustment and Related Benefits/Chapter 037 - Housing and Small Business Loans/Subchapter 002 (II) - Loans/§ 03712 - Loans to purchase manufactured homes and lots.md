@@ -18,7 +18,7 @@
 
 (2) A loan for any of the purposes described in paragraph (1) of this subsection (other than the refinancing under clause (F) of such paragraph of an existing loan) may include an amount determined by the Secretary to be appropriate to cover the cost of necessary preparation of a lot already owned or to be acquired by the veteran, including the costs of installing utility connections and sanitary facilities, of paving, and of constructing a suitable pad for the manufactured home.
 
-(3) Any loan made for the purposes described in clause (C), (E), or (G) of paragraph (1) of thissubsection shall be considered as part of one loan. The transaction may be evidenced by a single loan instrument or by separate loan instruments for (A) that portion of the loan which finances the purchase of the manufactured home, and (B) that portion of the loan which finances the purchase of the lot and the necessary preparation of such lot.
+(3) Any loan made for the purposes described in clause (C), (E), or (G) of paragraph (1) of this subsection shall be considered as part of one loan. The transaction may be evidenced by a single loan instrument or by separate loan instruments for (A) that portion of the loan which finances the purchase of the manufactured home, and (B) that portion of the loan which finances the purchase of the lot and the necessary preparation of such lot.
 
 (4)(A) For a loan to be guaranteed for the purpose specified in clause (F) of paragraph (1) of this subsection—
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(III) in any case in which a veteran is in active duty status as a member of the Armed Forces and is unable to occupy the home, a manufactured home on the lot, or the home and the lot, as a home because of such status, the spouse of the veteran must occupy, or must have previously occupied, the manufactured home on the lot, or the home and the lot, as such spouse's home and must certify such occupancy in such form as the Secretary shall require.
 
-(B) A loan to a veteran may be guaranteed by the Secretary under this chapter for the purpose specified in clause (F) of paragraph (1) of this subsection without regard to the amount of outstanding guaranty entitlement available for use by such veteran, and the amount of such veteran's guaranty entitlement shall not be charged as a result of any guaranty provided for such purpose. For purposes of section 3702(b) of this title, such loan shall be deemed to have been obtained with the guaranty entitlement used to obtain the loan being refinanced.
+(B) A loan to a veteran may be guaranteed by the Secretary under this chapter for the purpose specified in clause (F) of paragraph (1) of this subsection without regard to the amount of outstanding guaranty entitlement available for use by such veteran, and the amount of such veteran's guaranty entitlement shall not be charged as a result of any guaranty provided for suchpurpose. For purposes of section 3702(b) of this title, such loan shall be deemed to have been obtained with the guaranty entitlement used to obtain the loan being refinanced.
 
 (C) If a veteran is deceased and if such veteran's surviving spouse was a co-obligor under an existing loan previously guaranteed, insured, or made for purposes specified in this section, such surviving spouse shall, only for the purpose specified in clause (F) of paragraph (1) of this subsection, be deemed to be a veteran eligible for benefits under this chapter.
 
@@ -66,7 +66,7 @@
 
 (c)(1) Loans for any of the purposes authorized by subsection (a) of this section shall be submitted to the Secretary for approval prior to the closing of the loan, except that the Secretary may exempt any lender of a class listed in section 3702(d) of this title from compliance with such prior approval requirement if the Secretary determines that the experience of such lender or class of lenders in manufactured home financing warrants such exemption.
 
-(2) Upon determining that a loan submitted for prior approval is eligible for guaranty forpurposes specified in this section, the Secretary shall issue a commitment to guarantee such loan and shall thereafter guarantee the loan when made if such loan qualifies therefor in all respects.
+(2) Upon determining that a loan submitted for prior approval is eligible for guaranty for purposes specified in this section, the Secretary shall issue a commitment to guarantee such loan and shall thereafter guarantee the loan when made if such loan qualifies therefor in all respects.
 
 (3)(A) The Secretary's guaranty may not exceed the lesser of (i) the lesser of $20,000 or 40 percent of the loan, or (ii) the maximum amount of the guaranty entitlement available to the veteran as specified in paragraph (4) of this subsection.
 
@@ -92,7 +92,7 @@
 
 (F) The liability of the United States under the guaranty provided for by this paragraph shall decrease or increase pro rata with any decrease or increase of the amount of the unpaid portion of the obligation.
 
-(4) The maximum amount of guaranty entitlement available to a veteran for purposes specified in this section shall be $20,000 reduced by the amount of any such entitlement previously used by the veteran. Use of entitlement for purposes specified in section 3710 or 3711 of this title shall reduce entitlement available for use for purposes specified in this section to the same extent that entitlement available for purposes specified in such section 3710 is reduced below $20,000.
+(4) The maximum amount of guaranty entitlement available to a veteran for purposes specified in this section shall be $20,000 reduced by the amount of any such entitlement previously used by the veteran. Use of entitlement for purposes specified in section 3710 or 3711 of this titleshall reduce entitlement available for use for purposes specified in this section to the same extent that entitlement available for purposes specified in such section 3710 is reduced below $20,000.
 
 (5) The amount of any loan guaranteed for purposes specified in this section shall not exceed an amount equal to 95 percent of the purchase price of the property securing the loan.
 
@@ -158,13 +158,13 @@
 
 (<i>l</i>) The provisions of sections 3704(d) and 3721 of this title shall be fully applicable to lenders making guaranteed manufactured home loans and manufactured home lot loans and holders of such loans.
 
-(Added Pub. L. 91–506, §5, Oct. 23, 1970, 84 Stat. 1110, §1819; amended Pub. L. 93–569, §5, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §§5, 7(20)–(23), June 30, 1976, 90 Stat. 720, 722; Pub. L. 95–476, title I, §107, Oct. 18, 1978, 92 Stat. 1500; Pub. L. 96–385, title IV, §§401(b), 402(c), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 97–66, title V, §503, Oct. 17, 1981, 95 Stat. 1032; Pub. L. 97–72, title III, §303(h), (i), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(66), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 97–306, title IV, §406(a), (c)(2), Oct. 14, 1982, 96 Stat. 1444, 1445; Pub. L. 98–223, title II, §205(b), Mar. 2, 1984, 98 Stat. 43; Pub. L. 99–576, title IV, §402(c)(2), Oct. 28, 1986, 100 Stat. 3281; Pub. L. 100–198, §§3(b), 7(b), 8(b), Dec. 21, 1987, 101 Stat. 1315, 1318, 1320; Pub. L. 100–253, §3(b), Feb. 29, 1988, 102 Stat. 20; renumbered §1812 and amended Pub. L. 100–322, title IV, §415(b)(4), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §313(b)(1), (7), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 101–508, title VIII, §8031(a), Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, §14(c)(8), June 13, 1991, 105 Stat. 285; renumbered §3712 and amendedPub. L. 102–83, §§4(a)(2)(A)(v), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, §6(2), Oct. 28, 1992, 106 Stat. 3636; Pub. L. 103–446, title IX, §906, title XII, §1201(e)(14), Nov. 2, 1994, 108 Stat. 4677, 4685; Pub. L. 104–66, title I, §1141(b), Dec. 21, 1995, 109 Stat. 726.)
+(Added Pub. L. 91–506, §5, Oct. 23, 1970, 84 Stat. 1110, §1819; amended Pub. L. 93–569, §5, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §§5, 7(20)–(23), June 30, 1976, 90 Stat. 720, 722; Pub. L. 95–476, title I, §107, Oct. 18, 1978, 92 Stat. 1500; Pub. L. 96–385, title IV, §§401(b), 402(c), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 97–66, title V, §503, Oct. 17, 1981, 95 Stat. 1032; Pub. L. 97–72, title III, §303(h), (i), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(66), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 97–306, title IV, §406(a), (c)(2), Oct. 14, 1982, 96 Stat. 1444, 1445; Pub. L. 98–223, title II, §205(b), Mar. 2, 1984, 98 Stat. 43; Pub. L. 99–576, title IV, §402(c)(2), Oct. 28, 1986, 100 Stat. 3281; Pub. L. 100–198, §§3(b), 7(b), 8(b), Dec. 21, 1987, 101 Stat. 1315, 1318, 1320; Pub. L. 100–253, §3(b), Feb. 29, 1988, 102 Stat. 20; renumbered §1812 and amended Pub. L. 100–322, title IV, §415(b)(4), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §313(b)(1), (7), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 101–508, title VIII, §8031(a), Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, §14(c)(8), June 13, 1991, 105 Stat. 285; renumbered §3712 and amended Pub. L. 102–83, §§4(a)(2)(A)(v), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, §6(2), Oct. 28, 1992, 106 Stat. 3636; Pub. L. 103–446, title IX, §906, title XII, §1201(e)(14), Nov. 2, 1994, 108 Stat. 4677, 4685; Pub. L. 104–66, title I, §1141(b), Dec. 21, 1995, 109 Stat. 726.)
 
 #### Amendments
 
-1995—Subsecs. (<i>l</i>), (m). Pub. L. 104–66 redesignated subsec. (m) as (<i>l</i>) and struck out former subsec. (<i>l</i>) which read as follows: “The Secretary's annual report to Congress shall include a report on operations under this section, including experience with compliance with the warranty required by subsection (i) and the experience regarding defaults and foreclosures.”
+<b>1995</b>—Subsecs. (<i>l</i>), (m). Pub. L. 104–66 redesignated subsec. (m) as (<i>l</i>) and struck out former subsec. (<i>l</i>) which read as follows: “The Secretary's annual report to Congress shall include a report on operations under this section, including experience with compliance with the warranty required by subsection (i) and the experience regarding defaults and foreclosures.”
 
-1994—Subsec. (c)(3)(D). Pub. L. 103–446, §1201(e)(14)(A)(i), inserted “of” after “subparagraph (B)” in introductory provisions.
+<b>1994</b>—Subsec. (c)(3)(D). Pub. L. 103–446, §1201(e)(14)(A)(i), inserted “of” after “subparagraph (B)” in introductory provisions.
 
 Subsec. (c)(3)(E). Pub. L. 103–446, §1201(e)(14)(A)(ii), substituted “subparagraph (B)(ii) of this paragraph” for “subparagraph (B)(ii) of this subsection”.
 
@@ -176,9 +176,9 @@ Subsec. (<i>l</i>). Pub. L. 103–446, §906(c), struck out “the results of in
 
 Subsec. (m). Pub. L. 103–446, §1201(e)(14)(B), substituted “sections 3704(d) and 3721 of this title” for “section 3704(d) and section 3721 of this chapter”.
 
-1992—Subsec. (a)(4)(A)(iv). Pub. L. 102–547 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “the amount of the guaranty of the loan may not exceed the original guaranty amount of the loan being refinanced;”.
+<b>1992</b>—Subsec. (a)(4)(A)(iv). Pub. L. 102–547 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “the amount of the guaranty of the loan may not exceed the original guaranty amount of the loan being refinanced;”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1812 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1812 of this title as this section.
 
 Subsec. (a)(4)(A)(iii). Pub. L. 102–83, §5(c)(1), substituted “3703(c)(3)(A)” for “1803(c)(3)(A)”.
 
@@ -208,15 +208,15 @@ Subsec. (<i>l</i>). Pub. L. 102–54, §14(c)(8)(B), struck out “, beginning 
 
 Subsec. (m). Pub. L. 102–83, §5(c)(1), substituted “3704(d)” for “1804(d)” and “3721” for “1821”.
 
-1990—Subsec. (c)(3). Pub. L. 101–508 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary's guaranty may not exceed the lesser of (A) the lesser of $20,000 or 40 percent of the loan, or (B) the maximum amount of guaranty entitlement available to the veteran as specified in paragraph (4) of this subsection. Payment of a claim under such guaranty shall be made only after liquidation of the security for the loan and the filing of an accounting with the Secretary. In any such accounting the Secretary shall permit to be included therein accrued unpaid interest from the date of the first uncured default to such cutoff date as the Secretary may establish, and the Secretary shall allow the holder of the loan to charge against the liquidation or resale proceeds, accrued interest from the cutoff date established to such further date as the Secretary may determine and such costs and expenses as the Secretary determines to be reasonable and proper. The liability of the United States under the guaranty provided for by this section shall decrease or increase pro rata with any decrease or increase of the amount of the unpaid portion of the obligation.”
+<b>1990</b>—Subsec. (c)(3). Pub. L. 101–508 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary's guaranty may not exceed the lesser of (A) the lesser of $20,000 or 40 percent of the loan, or (B) the maximum amount of guaranty entitlement available to the veteran as specified in paragraph (4) of this subsection. Payment of a claim under such guaranty shall be made only after liquidation of the security for the loan and the filing of an accounting with the Secretary. In any such accounting the Secretary shall permit to be included therein accrued unpaid interest from the date of the first uncured default to such cutoff date as the Secretary may establish, and the Secretary shall allow the holder of the loan to charge against the liquidation or resale proceeds, accrued interest from the cutoff date established to such further date as the Secretary may determine and such costs and expenses as the Secretary determines to be reasonable and proper. The liability of the United States under the guaranty provided for by this section shall decrease or increase pro rata with any decrease or increase of the amount of the unpaid portion of the obligation.”
 
-1989—Subsecs. (a) to (h)(2)(A). Pub. L. 101–237, §313(b)(1), substituted “Secretary” and “Secretary's” for “Administrator” and “Administrator's”, respectively, wherever appearing.
+<b>1989</b>—Subsecs. (a) to (h)(2)(A). Pub. L. 101–237, §313(b)(1), substituted “Secretary” and “Secretary's” for “Administrator” and “Administrator's”, respectively, wherever appearing.
 
 Subsec. (h)(2)(B). Pub. L. 101–237, §313(b)(7), substituted “Secretary of Housing and Urban Development pursuant” for “Secretary pursuant” and substituted “Secretary of Veterans Affairs” for “Administrator” wherever appearing.
 
 Subsecs. (i) to (<i>l</i>). Pub. L. 101–237, §313(b)(1), substituted “Secretary” and “Secretary's” for “Administrator” and “Administrator's”, respectively, wherever appearing.
 
-1988—Pub. L. 100–322, §415(b)(4)(C), renumbered section 1819 of this title as this section.
+<b>1988</b>—Pub. L. 100–322, §415(b)(4)(C), renumbered section 1819 of this title as this section.
 
 Subsecs. (a)(4)(C), (b)(1), (c)(2). Pub. L. 100–322, §415(b)(4)(A), substituted “for purposes specified in this section” for “under this section”.
 
@@ -232,7 +232,7 @@ Subsec. (c)(5). Pub. L. 100–253, §3(b)(3), added par. (5).
 
 Subsecs. (d)(1), (e) to (g), (h)(1). Pub. L. 100–322, §415(b)(4)(A), substituted “for purposes specified in this section” for “under this section”.
 
-1987—Subsec. (a)(4)(A)(ii). Pub. L. 100–198, §7(b)(1), struck out “and such manufactured home (or a manufactured home on such lot) must be owned and occupied by the veteran as such veteran's home” before semicolon at end.
+<b>1987</b>—Subsec. (a)(4)(A)(ii). Pub. L. 100–198, §7(b)(1), struck out “and such manufactured home (or a manufactured home on such lot) must be owned and occupied by the veteran as such veteran's home” before semicolon at end.
 
 Subsec. (a)(4)(A)(vi). Pub. L. 100–198, §7(b)(2)–(4), added cl. (vi).
 
@@ -244,11 +244,11 @@ Subsec. (c)(4). Pub. L. 100–198, §3(b)(2), amended first sentence generally. 
 
 Subsec. (e)(5). Pub. L. 100–198, §8(b)(2), inserted before semicolon at end “; except that the requirement of this clause shall not apply (A) in the case of a guaranteed loan that is for the purpose described in paragraph (1)(F) of subsection (a), or (B) in the case described in section 1804(c)(2)”.
 
-1986—Subsec. (e)(2). Pub. L. 99–576 inserted “as determined in accordance with the regulations prescribed under section 1810(g) of this title and” after “credit risk”.
+<b>1986</b>—Subsec. (e)(2). Pub. L. 99–576 inserted “as determined in accordance with the regulations prescribed under section 1810(g) of this title and” after “credit risk”.
 
-1984—Subsec. (a)(5). Pub. L. 98–223 inserted “or section 1810(a)(9)(B)(ii) of this title” after “paragraph (1)(G) of this subsection” in two places.
+<b>1984</b>—Subsec. (a)(5). Pub. L. 98–223 inserted “or section 1810(a)(9)(B)(ii) of this title” after “paragraph (1)(G) of this subsection” in two places.
 
-1982—Pub. L. 97–306, §406(c)(2)(C), substituted “Loans to purchase manufactured homes and lots” for “Loans to purchase mobile homes and mobile home lots” in section catchline.
+<b>1982</b>—Pub. L. 97–306, §406(c)(2)(C), substituted “Loans to purchase manufactured homes and lots” for “Loans to purchase mobile homes and mobile home lots” in section catchline.
 
 Subsec. (a)(1)(A) to (E). Pub. L. 97–306, §406(c)(2)(A), substituted “manufactured” for “mobile” wherever appearing.
 
@@ -268,19 +268,19 @@ Subsec. (<i>l</i>). Pub. L. 97–295 substituted “October 23, 1970” for “t
 
 Subsec. (m). Pub. L. 97–306, §406(c)(2)(A), substituted “manufactured” for “mobile” wherever appearing.
 
-1981—Subsec. (a)(1). Pub. L. 97–72, §303(h), substituted “housing loan benefits” for “benefits”.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–72, §303(h), substituted “housing loan benefits” for “benefits”.
 
 Subsec. (b)(2). Pub. L. 97–72, §303(i), substituted “housing loan benefits” for “loan guaranty benefits”.
 
 Subsec. (d)(1). Pub. L. 97–66 increased from 15 years, 32 days to 20 years, 32 days the allowable maturity of a loan for purchase of a single-wide mobile home or a single-wide mobile home and a lot, from 20 years, 32 days to 23 years, 32 days the allowable maturity of a loan for purchase of a double-wide mobile home, and from 20 years, 32 days to 25 years, 32 days the allowable maturity of a loan for purchase of a double-wide mobile home and a lot.
 
-1980—Subsec. (a)(1)(F). Pub. L. 96–385, §401(b)(1), added cl. (F).
+<b>1980</b>—Subsec. (a)(1)(F). Pub. L. 96–385, §401(b)(1), added cl. (F).
 
 Subsec. (a)(4). Pub. L. 96–385, §401(b)(2), added par. (4).
 
 Subsec. (c)(3), (4). Pub. L. 96–385, §402(c), substituted “$20,000” for “$17,500” once in par. (3) and twice in par. (4).
 
-1978—Subsec. (a). Pub. L. 95–476, §107(a), substituted provisions that loans to eligible veterans could be guaranteed if such loans were for certain approved purposes, that such loans for any approved purpose could include an amount determined by the Administrator to be appropriate to cover the cost of necessary lot preparation, and that any loan under cls. (C) or (E) of par. (1) were to be considered one loan, evidenced either by a single instrument or separate instruments for the portions of the loan financing the purchase of the mobile home and the purchase and preparation of the lot for provision that any eligible veteran who had maximum entitlement available for use would be eligible for either the mobile home loan guaranty benefit or the mobile home lot loan guaranty benefit or both but that use of either would preclude use of any home loan guaranty entitlement under any other section until the loan guaranteed under this section had been paid in full.
+<b>1978</b>—Subsec. (a). Pub. L. 95–476, §107(a), substituted provisions that loans to eligible veterans could be guaranteed if such loans were for certain approved purposes, that such loans for any approved purpose could include an amount determined by the Administrator to be appropriate to cover the cost of necessary lot preparation, and that any loan under cls. (C) or (E) of par. (1) were to be considered one loan, evidenced either by a single instrument or separate instruments for the portions of the loan financing the purchase of the mobile home and the purchase and preparation of the lot for provision that any eligible veteran who had maximum entitlement available for use would be eligible for either the mobile home loan guaranty benefit or the mobile home lot loan guaranty benefit or both but that use of either would preclude use of any home loan guaranty entitlement under any other section until the loan guaranteed under this section had been paid in full.
 
 Subsec. (b)(1). Pub. L. 95–476, §107(a), substituted provision that use of benefit entitlement under this section for purchase of a mobile home unit would preclude use of any remainder of entitlement for purchase of an additional mobile home unit until the first unit had been disposed of or destroyed by natural hazard for provision that a loan to purchase a mobile home under this section could include amounts to finance purchase of lot and necessary preparation of lot.
 
@@ -312,7 +312,7 @@ Subsec. (<i>l</i>). Pub. L. 95–476, §107(e), (g), redesignated subsec. (m) as
 
 Subsecs. (m), (n). Pub. L. 95–476, §107(e), redesignated subsec. (n) as (m). Former subsec. (m) redesignated (<i>l</i>).
 
-1976—Subsec. (c)(1). Pub. L. 94–324, §7(20), substituted “the Administrator determines” for “he determines”.
+<b>1976</b>—Subsec. (c)(1). Pub. L. 94–324, §7(20), substituted “the Administrator determines” for “he determines”.
 
 Subsec. (c)(3). Pub. L. 94–324, §§5, 7(20), increased amount of Administrator's guaranty from 30 per centum of the loan to 50 per centum of the loan and substituted “the Administrator” for “he” wherever appearing.
 
@@ -332,7 +332,7 @@ Subsec. (k). Pub. L. 94–324, §7(23), substituted “the manufacturer's obliga
 
 Subsec. (<i>l</i>). Pub. L. 94–324, §7(23), substituted “the Administrator determines” for “he determines”.
 
-1974—Subsec. (a). Pub. L. 93–569, §5(1), inserted “or the mobile home lot loan guaranty benefit, or both,” after “loan guaranty benefit” wherever appearing, and struck out “mobile home” before “loan guaranteed under this section”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–569, §5(1), inserted “or the mobile home lot loan guaranty benefit, or both,” after “loan guaranty benefit” wherever appearing, and struck out “mobile home” before “loan guaranteed under this section”.
 
 Subsec. (b)(1). Pub. L. 93–569, §5(2), designated existing provisions as subsec. (b)(1) and redesignated cls. (1) and (2) as (A) and (B), respectively.
 

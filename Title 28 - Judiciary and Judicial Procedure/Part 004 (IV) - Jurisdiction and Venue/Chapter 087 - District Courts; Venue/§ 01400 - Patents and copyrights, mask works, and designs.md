@@ -26,15 +26,15 @@ Jurisdiction and venue of patent suits against residents of foreign countries or
 
 #### Senate Revision Amendment
 
-Title 17 of the United States Code was enacted into positive law by act July 30, 1947, ch. 391, 61 Stat. 652, and, in such enactment, section 35 of the prior title became section 111 of the new title, and all Acts from which sections of the prior title had been derived, were repealed. Therefore, this paragraph should read: “Based on Title 28, U.S.C., 1940 ed., §109 (Mar. 3, 1911, ch. 231,§48, 36 Stat. 1100), and section 111 of Title 17, U.S.C., 1946 ed., Copyrights.” By Senate amendment, section 111 of Title 17 U.S.C., is included in the schedule of repeals. See 80th Congress Senate Report No. 1559.
+Title 17 of the United States Code was enacted into positive law by act July 30, 1947, ch. 391, 61 Stat. 652, and, in such enactment, section 35 of the prior title became section 111 of the new title, and all Acts from which sections of the prior title had been derived, were repealed. Therefore, this paragraph should read: “Based on Title 28, U.S.C., 1940 ed., §109 (Mar. 3, 1911, ch. 231, §48, 36 Stat. 1100), and section 111 of Title 17, U.S.C., 1946 ed., Copyrights.” By Senate amendment, section 111 of Title 17 U.S.C., is included in the schedule of repeals. See 80th Congress Senate Report No. 1559.
 
 #### Amendments
 
-1999—Pub. L. 106–44 amended section catchline generally so as to read “Patents and copyrights, mask works, and designs”.
+<b>1999</b>—Pub. L. 106–44 amended section catchline generally so as to read “Patents and copyrights, mask works, and designs”.
 
-1998—Pub. L. 105–304, §503(c)(2), amended section catchline generally, substituting “Patents and copyrights, mask works, and designs” for “Patents and copyrights”.
+<b>1998</b>—Pub. L. 105–304, §503(c)(2), amended section catchline generally, substituting “Patents and copyrights, mask works, and designs” for “Patents and copyrights”.
 
 Subsec. (a). Pub. L. 105–304, §503(c)(1), inserted “or designs” after “mask works”.
 
-1988—Subsec. (a). Pub. L. 100–702 inserted “or exclusive rights in mask works” after “copyrights”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–702 inserted “or exclusive rights in mask works” after “copyrights”.
 

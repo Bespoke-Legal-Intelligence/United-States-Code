@@ -6,7 +6,7 @@ The Postal Regulatory Commission shall promulgate rules and regulations and esta
 
 #### Amendments
 
-2006—Pub. L. 109–435, §1010(c)(1), substituted “this title” for “this chapter”.
+<b>2006</b>—Pub. L. 109–435, §1010(c)(1), substituted “this title” for “this chapter”.
 
 Pub. L. 109–435, §604(a), substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 

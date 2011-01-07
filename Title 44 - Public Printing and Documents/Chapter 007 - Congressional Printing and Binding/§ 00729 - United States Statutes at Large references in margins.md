@@ -1,6 +1,6 @@
 ### §729. United States Statutes at Large: references in margins
 
-The Archivist of the United States shall include in the references in margins of the United States Statutes at Large the number of the bill or joint resolution (designating S. for Senate bill, H.R. for House bill, S.J. Res. for Senate joint resolution and H.J. Res. for House joint resolution, as the case may be) under which each Act was approved and became a law, the reference in the margins to be placed within brackets immediately under the date of the approval of the Act at the beginning of each Act as printed beginning with Volume 32 of the United States Statutes at Large.
+The Archivist of the United States shall include in the references in margins of the United States Statutes at Large the number of the bill or joint resolution (designating S. for Senatebill, H.R. for House bill, S.J. Res. for Senate joint resolution and H.J. Res. for House joint resolution, as the case may be) under which each Act was approved and became a law, the reference in the margins to be placed within brackets immediately under the date of the approval of the Act at the beginning of each Act as printed beginning with Volume 32 of the United States Statutes at Large.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1252; Pub. L. 98–497, title I, §107(b)(1), Oct. 19, 1984, 98 Stat. 2286.)
 
@@ -10,7 +10,7 @@ Based on 44 U.S. Code, 1964 ed., §197 (Apr. 12, 1904, No. 20, 33 Stat. 589; 195
 
 #### Amendments
 
-1984—Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services”.
+<b>1984</b>—Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services”.
 
 #### Effective Date of 1984 Amendment
 

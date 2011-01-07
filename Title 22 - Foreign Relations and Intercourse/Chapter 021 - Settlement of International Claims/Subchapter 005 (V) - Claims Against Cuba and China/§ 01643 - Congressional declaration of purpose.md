@@ -6,9 +6,9 @@ It is the purpose of this subchapter to provide for the determination of the amo
 
 #### Amendments
 
-1966—Pub. L. 89–780 provided for applicability of section to the Chinese Communist regime in the case of claims which have arisen since October 1, 1949.
+<b>1966</b>—Pub. L. 89–780 provided for applicability of section to the Chinese Communist regime in the case of claims which have arisen since October 1, 1949.
 
-1965—Pub. L. 89–262 struck out “which have arisen out of debts for merchandise furnished or services rendered by nationals of the United States without regard to the date on which such merchandise was furnished or services were rendered or” after “Government of Cuba” in first sentence.
+<b>1965</b>—Pub. L. 89–262 struck out “which have arisen out of debts for merchandise furnished or services rendered by nationals of the United States without regard to the date on which such merchandise was furnished or services were rendered or” after “Government of Cuba” in first sentence.
 
 #### Separability
 

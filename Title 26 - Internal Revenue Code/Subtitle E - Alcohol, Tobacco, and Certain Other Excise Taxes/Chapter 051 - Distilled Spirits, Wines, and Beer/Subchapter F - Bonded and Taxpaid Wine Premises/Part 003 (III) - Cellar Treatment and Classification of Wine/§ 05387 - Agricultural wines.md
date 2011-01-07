@@ -20,9 +20,9 @@ A prior section 5387, act Aug. 16, 1954, ch. 736, 68A Stat. 671, consisted of pr
 
 #### Amendments
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1968—Subsec. (a). Pub. L. 90–619 inserted reference to subsec. (a) of section 5382.
+<b>1968</b>—Subsec. (a). Pub. L. 90–619 inserted reference to subsec. (a) of section 5382.
 
 #### Effective Date of 1968 Amendment
 

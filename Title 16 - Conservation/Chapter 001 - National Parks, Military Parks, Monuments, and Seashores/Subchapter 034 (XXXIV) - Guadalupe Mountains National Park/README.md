@@ -1,7 +1,5 @@
 ### SUBCHAPTER XXXIV—GUADALUPE MOUNTAINS NATIONAL PARK
 
-<i><sup>1</sup></i><i> So in original. Probably should be “San Juan Island National Historical Park.”</i>
-
 
 ---
 

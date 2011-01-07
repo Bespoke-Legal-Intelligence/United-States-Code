@@ -36,7 +36,7 @@
 
 #### (iii) Foreign trade zones
 
-&emsp;&emsp;&emsp;Except as provided in clause (iv) and in regulations prescribed by the Secretary,articles brought into a foreign trade zone shall, notwithstanding any other provision of law, be treated for purposes of this subsection as if such zone were a single customs warehouse.
+&emsp;&emsp;&emsp;Except as provided in clause (iv) and in regulations prescribed by the Secretary, articles brought into a foreign trade zone shall, notwithstanding any other provision of law, be treated for purposes of this subsection as if such zone were a single customs warehouse.
 
 #### (iv) Exception for articles destined for export
 
@@ -44,7 +44,7 @@
 
 #### (C) Tobacco products and cigarette papers and tubes brought into the United States from Puerto Rico
 
-&emsp;&emsp;In the case of tobacco products and cigarette papers and tubes which are brought into the United States from Puerto Rico, the last day for payment of tax shall be the 14th day after the last day of the semimonthly period during which the article is brought into the United States.
+&emsp;&emsp;In the case of tobacco products and cigarette papers and tubes which are broughtinto the United States from Puerto Rico, the last day for payment of tax shall be the 14th day after the last day of the semimonthly period during which the article is brought into the United States.
 
 #### (D) Special rule for tax due in September
 
@@ -84,23 +84,23 @@ Whenever any tax required to be paid by this chapter is not paid in full at the 
 
 #### Amendments
 
-2009—Subsec. (b)(2)(F). Pub. L. 111–3 added subpar. (F).
+<b>2009</b>—Subsec. (b)(2)(F). Pub. L. 111–3 added subpar. (F).
 
-1994—Subsec. (b)(2)(D). Pub. L. 103–465, §712(c)(1), added subpar. (D). Former subpar. (D) redesignated (E).
+<b>1994</b>—Subsec. (b)(2)(D). Pub. L. 103–465, §712(c)(1), added subpar. (D). Former subpar. (D) redesignated (E).
 
 Subsec. (b)(2)(E). Pub. L. 103–465, §712(c), redesignated subpar. (D) as (E), substituted “due date” for “14th day” in heading, and inserted “(or the immediately following day where the due date described in subparagraph (D) falls on a Sunday)” before period at end.
 
-1988—Subsec. (b)(2)(B)(i), (ii), (C). Pub. L. 100–647 substituted “the 14th day after the last day of the semimonthly period during which” for “the 14th day after the date on which”.
+<b>1988</b>—Subsec. (b)(2)(B)(i), (ii), (C). Pub. L. 100–647 substituted “the 14th day after the last day of the semimonthly period during which” for “the 14th day after the date on which”.
 
-1986—Subsec. (b)(2). Pub. L. 99–509 amended par. (2) generally. Prior to amendment par. (2), time for making of return and payment of taxes, read as follows: “In the case of tobacco products and cigarette papers and tubes removed after December 31, 1982, under bond for deferred payment of tax, the last day for filing a return and paying any tax due for each return period shall be the last day of the first succeeding return period plus 10 days.”
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–509 amended par. (2) generally. Prior to amendment par. (2), time for making of return and payment of taxes, read as follows: “In the case of tobacco products and cigarette papers and tubes removed after December 31, 1982, under bond for deferred payment of tax, the last day for filing a return and paying any tax due for each return period shall be the last day of the first succeeding return period plus 10 days.”
 
 Subsec. (b)(3). Pub. L. 99–514 inserted last sentence.
 
-1984—Subsec. (b)(3). Pub. L. 98–369 added par. (3).
+<b>1984</b>—Subsec. (b)(3). Pub. L. 98–369 added par. (3).
 
-1983—Subsec. (b). Pub. L. 97–448 designated existing provisions as par. (1), struck out provisions that the Secretary prescribe the time for making a return and the time for the payment of taxes and that the Secretary prescribe by regulations the conditions for the filing of additional bonds, and added par. (2).
+<b>1983</b>—Subsec. (b). Pub. L. 97–448 designated existing provisions as par. (1), struck out provisions that the Secretary prescribe the time for making a return and the time for the payment of taxes and that the Secretary prescribe by regulations the conditions for the filing of additional bonds, and added par. (2).
 
-1976—Subsec. (a). Pub. L. 94–455, §1905(a)(25)(A), directed that all provisions of chapter 52 applicable to tobacco products and cigarette papers and tubes in bond be applicable to such articles returned to bond upon withdrawal from the market or returned to bond after previous removal for a tax-exempt purpose.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1905(a)(25)(A), directed that all provisions of chapter 52 applicable to tobacco products and cigarette papers and tubes in bond be applicable to such articles returned to bond upon withdrawal from the market or returned to bond after previous removal for a tax-exempt purpose.
 
 Subsec. (b). Pub. L. 94–455, §§1905(a)(25)(B), 1906(b)(13)(A), struck out provisions which had authorized payment of taxes by stamp until regulations could be promulgated to provide for payment by return and struck out “or his delegate” after “Secretary” in three places.
 
@@ -108,7 +108,7 @@ Subsec. (c). Pub. L. 94–455, §§1905(a)(25)(C), 1906(b)(13)(A), redesignated 
 
 Subsecs. (d), (e). Pub. L. 94–455, §§1905(a)(25)(C), 1906(b)(13)(A), redesignated subsec. (e) as (d) and struck out “or his delegate” after “Secretary”. Former subsec. (d) redesignated (c).
 
-1958—Subsec. (a)(1). Pub. L. 85–859 designated part of first sentence of subsec. (a) as par. (1) thereof and redesignated the remainder of subsec. (a) as (b).
+<b>1958</b>—Subsec. (a)(1). Pub. L. 85–859 designated part of first sentence of subsec. (a) as par. (1) thereof and redesignated the remainder of subsec. (a) as (b).
 
 Subsec. (a)(2). Pub. L. 85–859 added par. (2).
 

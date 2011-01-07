@@ -28,7 +28,7 @@ Termination.—No assistance may be provided under this section after December 3
 
 #### Amendments
 
-2008—Pub. L. 110–289, §2602(b)(7)(B), amended section catchline generally. Prior to amendment, catchline read as follows: “Assistance for veterans residing temporarily in housing owned by a family member”.
+<b>2008</b>—Pub. L. 110–289, §2602(b)(7)(B), amended section catchline generally. Prior to amendment, catchline read as follows: “Assistance for veterans residing temporarily in housing owned by a family member”.
 
 Subsec. (a). Pub. L. 110–289, §2602(b)(3)(A), (B), substituted “individual” for “veteran” and “individual's” for “veteran's” in two places each.
 

@@ -24,7 +24,7 @@ Section 544 of this title, referred to in subsec. (d)(2), was repealed by Pub. L
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 536 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 536 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1512(a)” for “512(a)”.
 
@@ -34,11 +34,11 @@ Subsec. (d). Pub. L. 102–83, §5(c)(1), substituted “1541” for “541” i
 
 Subsec. (d)(2). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1978—Subsec. (d)(1). Pub. L. 95–588, §108(1), substituted “a period of war” for “World War I”, and struck out “, except as provided in paragraph (2)” after “irrevocable”.
+<b>1978</b>—Subsec. (d)(1). Pub. L. 95–588, §108(1), substituted “a period of war” for “World War I”, and struck out “, except as provided in paragraph (2)” after “irrevocable”.
 
 Subsec. (d)(2). Pub. L. 95–588, §108(2), inserted “, as in effect on December 31, 1978” after “of this title” in two places, and “as in effect on such date” after “such section 544”.
 
-1975—Pub. L. 94–169, §106(37), substituted “Surviving spouses” for “Widows” in section catchline.
+<b>1975</b>—Pub. L. 94–169, §106(37), substituted “Surviving spouses” for “Widows” in section catchline.
 
 Subsec. (a). Pub. L. 94–169, §106(32), substituted “pay to the surviving spouse” for “pay to the widow”, “unless such surviving spouse” for “unless she”, “the spouse” for “the wife” and “such veteran's” for “his”.
 
@@ -50,9 +50,9 @@ Subsec. (d)(1). Pub. L. 94–169, §106(34), substituted “Any surviving spouse
 
 Subsec. (d)(2). Pub. L. 94–169, §106(35), (36), substituted “surviving spouse” for “widow” wherever appearing, and “such surviving spouse” for “her”.
 
-1972—Subsec. (d). Pub. L. 92–328 added subsec. (d).
+<b>1972</b>—Subsec. (d). Pub. L. 92–328 added subsec. (d).
 
-1967—Subsec. (a). Pub. L. 90–77, §105, substituted “$70” for “$65”.
+<b>1967</b>—Subsec. (a). Pub. L. 90–77, §105, substituted “$70” for “$65”.
 
 Subsec. (c). Pub. L. 90–77, §101(a), qualified widow of a veteran for a pension by reducing in par. (2) the requisite marriage period from five years to one year and by making her eligible for benefits in par. (3) in event of antenuptial birth.
 

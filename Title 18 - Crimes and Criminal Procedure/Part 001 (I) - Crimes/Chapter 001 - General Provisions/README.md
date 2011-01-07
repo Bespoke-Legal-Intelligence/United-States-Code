@@ -37,33 +37,33 @@ In the analysis of sections under this chapter heading, a new item, “14. Appli
 
 #### Amendments
 
-2009—Pub. L. 111–21, §2(b)(2), May 20, 2009, 123 Stat. 1617, added item 27.
+<b>2009</b>—Pub. L. 111–21, §2(b)(2), May 20, 2009, 123 Stat. 1617, added item 27.
 
-2006—Pub. L. 109–177, title III, §302(d), Mar. 9, 2006, 120 Stat. 233, added item 26.
+<b>2006</b>—Pub. L. 109–177, title III, §302(d), Mar. 9, 2006, 120 Stat. 233, added item 26.
 
-2003—Pub. L. 108–21, title VI, §601(b), Apr. 30, 2003, 117 Stat. 687, added item 25.
+<b>2003</b>—Pub. L. 108–21, title VI, §601(b), Apr. 30, 2003, 117 Stat. 687, added item 25.
 
-2002—Pub. L. 107–273, div. B, title IV, §4004(a), Nov. 2, 2002, 116 Stat. 1812, struck out item 14 “Applicability to Canal Zone; definition”.
+<b>2002</b>—Pub. L. 107–273, div. B, title IV, §4004(a), Nov. 2, 2002, 116 Stat. 1812, struck out item 14 “Applicability to Canal Zone; definition”.
 
-1996—Pub. L. 104–191, title II, §241(b), Aug. 21, 1996, 110 Stat. 2016, which directed the amendment of the table of sections at the beginning of chapter 2 of this title by inserting item 24, was executed by inserting item 24 in the table of sections at the beginning of this chapter, to reflect the probable intent of Congress.
+<b>1996</b>—Pub. L. 104–191, title II, §241(b), Aug. 21, 1996, 110 Stat. 2016, which directed the amendment of the table of sections at the beginning of chapter 2 of this title by inserting item 24, was executed by inserting item 24 in the table of sections at the beginning of this chapter, to reflect the probable intent of Congress.
 
-1994—Pub. L. 103–332, title XXXII, §§320910(b), 320914(b), Sept. 13, 1994, 108 Stat. 2127, 2128, added items 21 and 23.
+<b>1994</b>—Pub. L. 103–332, title XXXII, §§320910(b), 320914(b), Sept. 13, 1994, 108 Stat. 2127, 2128, added items 21 and 23.
 
-1990—Pub. L. 101–647, title XXXV, §3504, Nov. 29, 1990, 104 Stat. 4921, substituted “defense” for “Defense” in item 17.
+<b>1990</b>—Pub. L. 101–647, title XXXV, §3504, Nov. 29, 1990, 104 Stat. 4921, substituted “defense” for “Defense” in item 17.
 
-1989—Pub. L. 101–73, title IX, §962(e)(3), Aug. 9, 1989, 103 Stat. 504, added item 20.
+<b>1989</b>—Pub. L. 101–73, title IX, §962(e)(3), Aug. 9, 1989, 103 Stat. 504, added item 20.
 
-1987—Pub. L. 100–185, §4(b), Dec. 11, 1987, 101 Stat. 1279, added item 19.
+<b>1987</b>—Pub. L. 100–185, §4(b), Dec. 11, 1987, 101 Stat. 1279, added item 19.
 
-1986—Pub. L. 99–646, §§34(b), 38(b), Nov. 10, 1986, 100 Stat. 3599, renumbered item 20 as 17 and added item 18.
+<b>1986</b>—Pub. L. 99–646, §§34(b), 38(b), Nov. 10, 1986, 100 Stat. 3599, renumbered item 20 as 17 and added item 18.
 
-1984—Pub. L. 98–473, title II, §§218(b), 402(b), 1001(b), Oct. 12, 1984, 98 Stat. 2027, 2057, 2136, substituted “Repealed” for “Offenses classified” in item 1 and added items 16 and 20.
+<b>1984</b>—Pub. L. 98–473, title II, §§218(b), 402(b), 1001(b), Oct. 12, 1984, 98 Stat. 2027, 2057, 2136, substituted “Repealed” for “Offenses classified” in item 1 and added items 16 and 20.
 
-1970—Pub. L. 91–375, §6(j)(1), Aug. 12, 1970, 84 Stat. 777, inserted “United States” before “Postal Service” in item 12.
+<b>1970</b>—Pub. L. 91–375, §6(j)(1), Aug. 12, 1970, 84 Stat. 777, inserted “United States” before “Postal Service” in item 12.
 
-1962—Pub. L. 87–845, §3(b), Oct. 18, 1962, 76A Stat. 698, inserted “; definition” in item 14.
+<b>1962</b>—Pub. L. 87–845, §3(b), Oct. 18, 1962, 76A Stat. 698, inserted “; definition” in item 14.
 
-1958—Pub. L. 85–921, §4, Sept. 2, 1958, 72 Stat. 1771, added item 15.
+<b>1958</b>—Pub. L. 85–921, §4, Sept. 2, 1958, 72 Stat. 1771, added item 15.
 
 #### Commission on the Advancement of Federal Law Enforcement
 
@@ -98,14 +98,6 @@ Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Executive Order No. 11534
 
 Ex. Ord. No. 11534, June 4, 1970, 35 F.R. 8865, which related to the National Council on Organized Crime, was revoked by Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
-
-<i><sup>1</sup></i><i> So in original. First word only of item should be capitalized.</i>
-
-<i><sup>2</sup></i><i> Chapter heading amended by Pub. L. 86–710 without corresponding amendment of part analysis.</i>
-
-<i><sup>3</sup></i><i> Chapter heading amended by Pub. L. 110–457 without corresponding amendment of part analysis.</i>
-
-<i><sup>4</sup></i><i> Editorially supplied. Chapter 119 added by Pub. L. 90–351 without corresponding amendment of part analysis.</i>
 
 
 ---

@@ -28,7 +28,7 @@ Section was enacted as part of the Firefighters’ Safety Study Act, and not as 
 
 #### Amendments
 
-2002—Par. (1)(E). Pub. L. 107–296 substituted “the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice,” for “the Bureau of Alcohol, Tobacco, and Firearms,”.
+<b>2002</b>—Par. (1)(E). Pub. L. 107–296 substituted “the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice,” for “the Bureau of Alcohol, Tobacco, and Firearms,”.
 
 #### Effective Date of 2002 Amendment
 

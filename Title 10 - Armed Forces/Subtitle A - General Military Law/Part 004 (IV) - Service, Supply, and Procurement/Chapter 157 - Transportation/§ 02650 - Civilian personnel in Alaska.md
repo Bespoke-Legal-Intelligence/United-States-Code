@@ -30,7 +30,7 @@ Before the enactment of the National Security Act of 1947, the transport functio
 
 #### Amendments
 
-2004—Pub. L. 108–375, §1072(a), (b)(3)(A), renumbered section 4746 of this title as this section and, in introductory provisions, struck out “Army transport agencies or, within bulk space allocations made to the Department of the Army, on vessels or airplanes operated by any military transport agency of” before “the Department of Defense”.
+<b>2004</b>—Pub. L. 108–375, §1072(a), (b)(3)(A), renumbered section 4746 of this title as this section and, in introductory provisions, struck out “Army transport agencies or, within bulk space allocations made to the Department of the Army, on vessels or airplanes operated by any military transport agency of” before “the Department of Defense”.
 
 Par. (1). Pub. L. 108–375, §1072(b)(3)(B), substituted “Secretary of Defense” for “Secretary of the Army”.
 
@@ -40,7 +40,7 @@ Par. (4). Pub. L. 108–375, §1072(b)(3)(C), substituted “by air, the transpo
 
 &emsp;“(B) the transportation cannot”.
 
-1984—Par. (4)(A). Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board”.
+<b>1984</b>—Par. (4)(A). Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board”.
 
 #### Effective Date of 1984 Amendment
 

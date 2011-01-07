@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any person using an accrual method of accounting with respect toamounts to be received for the performance of services by such person, such person shall not be required to accrue any portion of such amounts which (on the basis of such person's experience) will not be collected if—
+&emsp;&emsp;In the case of any person using an accrual method of accounting with respect to amounts to be received for the performance of services by such person, such person shall not be required to accrue any portion of such amounts which (on the basis of such person's experience) will not be collected if—
 
 &emsp;&emsp;&emsp;(i) such services are in fields referred to in paragraph (2)(A), or
 
@@ -148,9 +148,9 @@ For purposes of this section—
 
 #### Amendments
 
-2002—Subsec. (d)(5). Pub. L. 107–147 amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “In the case of any person using an accrual method of accounting with respect to amounts to be received for the performance of services by such person, such person shall not be required to accrue any portion of such amounts which (on the basis of experience) will not be collected. This paragraph shall not apply to any amount if interest is required to be paid on such amount or there is any penalty for failure to timely pay such amount.”
+<b>2002</b>—Subsec. (d)(5). Pub. L. 107–147 amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “In the case of any person using an accrual method of accounting with respect to amounts to be received for the performance of services by such person, such person shall not be required to accrue any portion of such amounts which (on the basis of experience) will not be collected. This paragraph shall not apply to any amount if interest is required to be paid on such amount or there is any penalty for failure to timely pay such amount.”
 
-1988—Subsec. (c)(3)(D). Pub. L. 100–647, §1008(a)(9), added subpar. (D).
+<b>1988</b>—Subsec. (c)(3)(D). Pub. L. 100–647, §1008(a)(9), added subpar. (D).
 
 Subsec. (d)(2). Pub. L. 100–647, §6032(a), inserted at end “To the extent provided in regulations which shall be prescribed by the Secretary, indirect holdings through a trust shall be taken into account under subparagraph (B).”
 
@@ -198,7 +198,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Election to retain cash method for certain transactions.—A taxpayer may elect not to have the amendments made by this section apply to any loan or lease, or any transaction with a related party (withinthe meaning of section 267(b) of the Internal Revenue Code of 1954, as in effect before the enactment of this Act), entered into on or before September 25, 1985. Any election under the preceding sentence may be made separately with respect to each transaction.
+Election to retain cash method for certain transactions.—A taxpayer may elect not to have the amendments made by this section apply to any loan or lease, or any transaction with a related party (within the meaning of section 267(b) of the Internal Revenue Code of 1954, as in effect before the enactment of this Act), entered into on or before September 25, 1985. Any election under the preceding sentence may be made separately with respect to each transaction.
 
 “(3)
 

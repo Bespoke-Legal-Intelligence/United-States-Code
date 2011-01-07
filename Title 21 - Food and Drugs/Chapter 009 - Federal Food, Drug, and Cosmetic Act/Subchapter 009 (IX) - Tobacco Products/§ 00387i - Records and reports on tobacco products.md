@@ -14,7 +14,7 @@ Every person who is a tobacco product manufacturer or importer of a tobacco prod
 
 &emsp;(5) when requiring submission of a report or information to the Secretary, shall state the reason or purpose for the submission of such report or information and identify to the fullest extent practicable such report or information; and
 
-&emsp;(6) may not require that the identity of any patient or user be disclosed in records, reports, or information required under this subsection unless required for the medical welfare of an individual, to determine risks to public health of a tobacco product, or to verify a record, report, or information submitted under this subchapter.
+&emsp;(6) may not require that the identity of any patient or user be disclosed in records, reports, or information required under this subsectionunless required for the medical welfare of an individual, to determine risks to public health of a tobacco product, or to verify a record, report, or information submitted under this subchapter.
 
 > In prescribing regulations under this subsection, the Secretary shall have due regard for the professional ethics of the medical profession and the interests of patients. The prohibitions of paragraph (6) continue to apply to records, reports, and information concerning any individual who has been a patient, irrespective of whether or when he ceases to be a patient.
 

@@ -14,7 +14,7 @@ With respect to any claim for damages filed under this subchapter, there shall b
 
 #### Amendments
 
-1982—Pub. L. 97–212, §4(1), substituted “under this subchapter” for “pursuant to this subchapter” and “damages were due to activities related to oil and gas exploration, development, or production” for “claim is valid” in provisions preceding par. (1).
+<b>1982</b>—Pub. L. 97–212, §4(1), substituted “under this subchapter” for “pursuant to this subchapter” and “damages were due to activities related to oil and gas exploration, development, or production” for “claim is valid” in provisions preceding par. (1).
 
 Par. (2). Pub. L. 97–212, §4(2), substituted “fifteen days after the date on which the vessel first returns to a port after discovering such damages” for “five days after the date on which such damages were discovered”.
 

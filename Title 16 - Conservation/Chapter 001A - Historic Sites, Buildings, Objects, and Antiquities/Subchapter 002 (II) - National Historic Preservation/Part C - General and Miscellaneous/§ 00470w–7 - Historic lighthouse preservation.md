@@ -22,7 +22,7 @@ In order to provide a national historic light station program, the Secretary sha
 
 #### (2) Application review
 
-&emsp;The Secretary shall review all applications for the conveyance of a historic light station, when the agency with administrative jurisdiction over the historic light station has determined the property to be “excess property” as that term is defined in the Federal Property Administrative Services Act of 1949 <sup>1</sup> (40 U.S.C. 472(e)), and forward to the Administrator a single approved application for the conveyance of the historic light station. When selecting an eligible entity, the Secretary shall consult with the State Historic Preservation Officer of the State in which the historic light station is located.
+&emsp;The Secretary shall review all applications for the conveyance of a historic light station,when the agency with administrative jurisdiction over the historic light station has determined the property to be “excess property” as that term is defined in section 102(3) of title 40, and forward to the Administrator a single approved application for the conveyance of the historic light station. When selecting an eligible entity, the Secretary shall consult with the State Historic Preservation Officer of the State in which the historic light station is located.
 
 #### (3) Conveyance of historic light stations
 
@@ -142,21 +142,21 @@ For purposes of this section:
 
 #### References in Text
 
-The Federal Property Administrative Services Act of 1949, referred to in subsec. (b)(2), probably means the Federal Property and Administrative Services Act of 1949, which is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works. Provisions of the Act containing the definition of “excess property”, which were classified to section 472(e) of former Title 40, were repealed and reenacted as section 102(3) of Title 40, Public Buildings, Property, and Works.
-
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(3)(A), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 Section 416(d) of the Coast Guard Authorization Act of 1998, referred to in subsec. (b)(3)(A), is section 416(d) of Pub. L. 105–383, which is set out as a note under section 93 of Title 14, Coast Guard.
 
+#### Codification
+
+In subsec. (b)(2), “section 102 of title 40” substituted for “the Federal Property Administrative Services Act of 1949 (40 U.S.C. 472(e))” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works.
+
 #### Amendments
 
-2004—Subsec. (c)(4). Pub. L. 108–293 added par. (4).
+<b>2004</b>—Subsec. (c)(4). Pub. L. 108–293 added par. (4).
 
-2000—Subsec. (b)(3)(A). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
+<b>2000</b>—Subsec. (b)(3)(A). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

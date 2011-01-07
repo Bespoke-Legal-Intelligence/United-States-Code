@@ -48,7 +48,7 @@ When two or more civil actions brought under subsection (a) of this section invo
 
 #### Amendments
 
-1992—Subsec. (a)(1). Pub. L. 102–550 substituted “subchapter II or IV of this chapter” for “subchapter II of this chapter” in two places.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–550 substituted “subchapter II or IV of this chapter” for “subchapter II of this chapter” in two places.
 
-1986—Subsec. (a)(1). Pub. L. 99–519 inserted references to subchapter II of this chapter.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–519 inserted references to subchapter II of this chapter.
 

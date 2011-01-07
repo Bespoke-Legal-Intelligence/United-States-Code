@@ -14,7 +14,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (1) State Council
 
-&emsp;The plan shall provide for the establishment and maintenance of a Council in accordance with section 15025 of this title and describe the membership of such Council.
+&emsp;The plan shall provide for the establishment and maintenance of a Council in accordancewith section 15025 of this title and describe the membership of such Council.
 
 #### (2) Designated State agency
 
@@ -34,7 +34,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 &emsp;&emsp;(B) a description of the extent to which agencies operating such other federally assisted State programs, including activities authorized under section 3003 or 3004 of title 29, pursue interagency initiatives to improve and enhance community services, individualized supports, and other forms of assistance for individuals with developmental disabilities;
 
-&emsp;&emsp;(C) an analysis of the extent to which community services and opportunities related tothe areas of emphasis directly benefit individuals with developmental disabilities, especially with regard to their ability to access and use services provided in their communities, to participate in opportunities, activities, and events offered in their communities, and to contribute to community life, identifying particularly—
+&emsp;&emsp;(C) an analysis of the extent to which community services and opportunities related to the areas of emphasis directly benefit individuals with developmental disabilities, especially with regard to their ability to access and use services provided in their communities, to participate in opportunities, activities, and events offered in their communities, and to contribute to community life, identifying particularly—
 
 &emsp;&emsp;&emsp;(i) the degree of support for individuals with developmental disabilities that are attributable to either physical impairment, mental impairment, or a combination of physical and mental impairments;
 
@@ -100,7 +100,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 &emsp;&emsp;&emsp;(v) part of such funds will be made available by the State to public or private entities;
 
-&emsp;&emsp;&emsp;(vi) at the request of any State, a portion of such funds provided to such State under this part for any fiscal year shall be available to pay up to 1/2 (or the entire amount if the Council is the designated State agency) of the expenditures found to be necessary by the Secretary for the proper and efficient exercise of the functions of the designated State agency, except that not more than 5 percent of such funds provided to such State for any fiscal year, or $50,000, whichever is less, shall be made available for total expenditures for such purpose by the designated State agency; and
+&emsp;&emsp;&emsp;(vi) at the request of any State, a portion of such funds provided to such State under this part for any fiscal year shall be available to pay up to ½ (or the entire amount if the Council is the designated State agency) of the expenditures found to be necessary by the Secretary for the proper and efficient exercise of the functions of the designated State agency, except that not more than 5 percent of such funds provided to such State for any fiscal year, or $50,000, whichever is less, shall be made available for total expenditures for such purpose by the designated State agency; and
 
 &emsp;&emsp;&emsp;(vii) not more than 20 percent of such funds will be allocated to the designated State agency for service demonstrations by such agency that—
 
@@ -138,7 +138,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (J) Employee protections
 
-&emsp;&emsp;The plan shall provide assurances that fair and equitable arrangements (as determined by the Secretary after consultation with the Secretary of Labor) will be provided to protect the interests of employees affected by actions taken under the plan to provide community living activities, including arrangements designed to preserve employee rights and benefits and provide training and retraining of such employees where necessary, and arrangements under which maximum efforts will be made to guarantee the employment of such employees.
+&emsp;&emsp;The plan shall provide assurances that fair and equitable arrangements (as determinedby the Secretary after consultation with the Secretary of Labor) will be provided to protect the interests of employees affected by actions taken under the plan to provide community living activities, including arrangements designed to preserve employee rights and benefits and provide training and retraining of such employees where necessary, and arrangements under which maximum efforts will be made to guarantee the employment of such employees.
 
 #### (K) Staff assignments
 
@@ -180,5 +180,5 @@ The Fair Housing Act, referred to in subsec. (c)(5)(F), is title VIII of Pub. L.
 
 #### Amendments
 
-2004—Subsec. (c)(3)(B). Pub. L. 108–364 substituted “section 3003 or 3004 of title 29” for “section 3011 or 3012 of title 29”.
+<b>2004</b>—Subsec. (c)(3)(B). Pub. L. 108–364 substituted “section 3003 or 3004 of title 29” for “section 3011 or 3012 of title 29”.
 

@@ -32,5 +32,5 @@ A prior section 41906 was renumbered section 41905 of this title.
 
 #### Amendments
 
-2008—Pub. L. 110–405 renumbered section 41909 of this title as this section.
+<b>2008</b>—Pub. L. 110–405 renumbered section 41909 of this title as this section.
 

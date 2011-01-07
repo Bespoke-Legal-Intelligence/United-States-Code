@@ -40,23 +40,23 @@ Section 284 of title 18, referred to in subsec. (f), was repealed by Pub. L. 87�
 
 #### Amendments
 
-1974—Subsec. (e). Pub. L. 93–554 inserted exception relating to requirement of vouchers for the disbursement of salaries of employees paid at an annual rate.
+<b>1974</b>—Subsec. (e). Pub. L. 93–554 inserted exception relating to requirement of vouchers for the disbursement of salaries of employees paid at an annual rate.
 
-1967—Subsec. (a). Pub. L. 90–2 substituted “ten”, “six”, and “four” for “eight”, “five”, and “three”, respectively.
+<b>1967</b>—Subsec. (a). Pub. L. 90–2 substituted “ten”, “six”, and “four” for “eight”, “five”, and “three”, respectively.
 
-1964—Subsec. (e). Pub. L. 88–661 authorized appropriations for such sums as may be necessary for each fiscal year and eliminated provisions which limited the authorization to a maximum of $125,000 yearly.
+<b>1964</b>—Subsec. (e). Pub. L. 88–661 authorized appropriations for such sums as may be necessary for each fiscal year and eliminated provisions which limited the authorization to a maximum of $125,000 yearly.
 
-1959—Subsec. (a). Pub. L. 86–1 added one additional Senator and one Representative to the Committee, and substituted provisions requiring the majority party to be represented by five Members and the minority party to be represented by three Members for provisions which required representation to reflect as nearly as may be feasible the relative membership of the majority and minority parties.
+<b>1959</b>—Subsec. (a). Pub. L. 86–1 added one additional Senator and one Representative to the Committee, and substituted provisions requiring the majority party to be represented by five Members and the minority party to be represented by three Members for provisions which required representation to reflect as nearly as may be feasible the relative membership of the majority and minority parties.
 
-1956—Subsec. (a). Act June 19, 1956, substituted “Joint Economic Committee” for “Joint Committee on the Economic Report”.
+<b>1956</b>—Subsec. (a). Act June 19, 1956, substituted “Joint Economic Committee” for “Joint Committee on the Economic Report”.
 
-1949—Subsec. (e). Act Oct. 6, 1949, §1, substituted “$125,000” for “$50,000”.
+<b>1949</b>—Subsec. (e). Act Oct. 6, 1949, §1, substituted “$125,000” for “$50,000”.
 
 Subsec. (f). Act Oct. 6, 1949, §2, added subsec. (f).
 
-1948—Subsec. (b)(3). Act Feb. 2, 1948, substituted “March 1” for “February 1”.
+<b>1948</b>—Subsec. (b)(3). Act Feb. 2, 1948, substituted “March 1” for “February 1”.
 
-1946—Subsec. (b)(3). Act Aug. 2, 1946, substituted “February 1” for “May 1”.
+<b>1946</b>—Subsec. (b)(3). Act Aug. 2, 1946, substituted “February 1” for “May 1”.
 
 #### Effective Date of 1974 Amendment
 

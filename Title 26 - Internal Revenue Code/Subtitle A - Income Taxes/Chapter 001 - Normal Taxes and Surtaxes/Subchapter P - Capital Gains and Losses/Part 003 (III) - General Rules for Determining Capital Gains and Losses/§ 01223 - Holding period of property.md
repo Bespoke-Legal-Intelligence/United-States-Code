@@ -66,27 +66,27 @@ The Internal Revenue Code of 1939, referred to in par. (8), is act Feb. 10, 1939
 
 #### Amendments
 
-2005—Pars. (3) to (16). Pub. L. 109–135 redesignated pars. (4) to (16) as (3) to (15), respectively, and struck out former par. (3) which read as follows: “In determining the period for which the taxpayer has held stock or securities received upon a distribution where no gain was recognized to the distributee under section 1081(c) (or under section 112(g) of the Revenue Act of 1928, 45 Stat. 818, or the Revenue Act of 1932, 48 Stat. 705), there shall be included the period for which he held the stock or securities in the distributing corporation before the receipt of the stock or securities on such distribution.”
+<b>2005</b>—Pars. (3) to (16). Pub. L. 109–135 redesignated pars. (4) to (16) as (3) to (15), respectively, and struck out former par. (3) which read as follows: “In determining the period for which the taxpayer has held stock or securities received upon a distribution where no gain was recognized to the distributee under section 1081(c) (or under section 112(g) of the Revenue Act of 1928, 45 Stat. 818, or the Revenue Act of 1932, 48 Stat. 705), there shall be included the period for which he held the stock or securities in the distributing corporation before the receipt of the stock or securities on such distribution.”
 
-2004—Pars. (10) to (17). Pub. L. 108–357 redesignated pars. (11) to (17) as (10) to (16), respectively, and struck out former par. (10) which read as follows: “In determining the period for which the taxpayer has held trust certificates of a trust to which subsection (d) of section 1246 applies, or the period for which the taxpayer has held stock in a corporation to which subsection (d) of section 1246 applies, there shall be included the period for which the trust or corporation (as the case may be) held the stock of foreign investment companies.”
+<b>2004</b>—Pars. (10) to (17). Pub. L. 108–357 redesignated pars. (11) to (17) as (10) to (16), respectively, and struck out former par. (10) which read as follows: “In determining the period for which the taxpayer has held trust certificates of a trust to which subsection (d) of section 1246 applies, or the period for which the taxpayer has held stock in a corporation to which subsection (d) of section 1246 applies, there shall be included the period for which the trust or corporation (as the case may be) held the stock of foreign investment companies.”
 
-2000—Par. (15). Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(2)\], amended par. (15) generally. Prior to amendment, par. (15) read as follows: “In determining the period for which the taxpayer has held property the acquisition of which resulted under section 1045 in the nonrecognition of any part of the gain realized on the sale of other property, there shall be included the period for which such other property has been held as of the date of such sale.”
+<b>2000</b>—Par. (15). Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(2)\], amended par. (15) generally. Prior to amendment, par. (15) read as follows: “In determining the period for which the taxpayer has held property the acquisition of which resulted under section 1045 in the nonrecognition of any part of the gain realized on the sale of other property, there shall be included the period for which such other property has been held as of the date of such sale.”
 
 Pars. (16), (17). Pub. L. 106–554, §1(a)(7) \[title IV, §401(h)(1)\], added par. (16) and redesignated former par. (16) as (17).
 
-1998—Pars. (11), (12). Pub. L. 105–206, §6005(d)(4), substituted “18 months” for “1 year” in subpar. (B) and concluding provisions.
+<b>1998</b>—Pars. (11), (12). Pub. L. 105–206, §6005(d)(4), substituted “18 months” for “1 year” in subpar. (B) and concluding provisions.
 
 Pub. L. 105–206, §5001(a)(5), substituted “1 year” for “18 months” in subpar. (B) and concluding provisions.
 
-1997—Par. (7). Pub. L. 105–34, §312(d)(9), inserted “(as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997)” after “section 1034”.
+<b>1997</b>—Par. (7). Pub. L. 105–34, §312(d)(9), inserted “(as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997)” after “section 1034”.
 
 Pars. (15), (16). Pub. L. 105–34, §313(b)(2), added par. (15) and redesignated former par. (15) as (16).
 
-1989—Pars. (14), (15). Pub. L. 101–194 added par. (14) and redesignated former par. (14) as (15).
+<b>1989</b>—Pars. (14), (15). Pub. L. 101–194 added par. (14) and redesignated former par. (14) as (15).
 
-1988—Par. (14). Pub. L. 100–647 amended par. (14) generally, substituting “reference” for “references” in heading, striking out “(A)” before “For special holding”, and striking out subpar. (B) which related to distributions of appreciated property to corporations.
+<b>1988</b>—Par. (14). Pub. L. 100–647 amended par. (14) generally, substituting “reference” for “references” in heading, striking out “(A)” before “For special holding”, and striking out subpar. (B) which related to distributions of appreciated property to corporations.
 
-1984—Pars. (11), (12). Pub. L. 98–369, §1001(b)(14), (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+<b>1984</b>—Pars. (11), (12). Pub. L. 98–369, §1001(b)(14), (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
 Par. (13). Pub. L. 98–369, §541(b)(1), added par. (13). Former par. (13) redesignated (14).
 
@@ -94,27 +94,27 @@ Par. (14). Pub. L. 98–369, §541(b)(1), redesignated former par. (13) as (14).
 
 Pub. L. 98–369, §54(c), designated existing cross reference as subpar. (A) and added subpar. (B).
 
-1983—Par. (8). Pub. L. 97–448, §105(c)(4), inserted “(other than a commodity futures contract to which section 1256 applies)” after “acquired in satisfaction of a commodity futures contract”.
+<b>1983</b>—Par. (8). Pub. L. 97–448, §105(c)(4), inserted “(other than a commodity futures contract to which section 1256 applies)” after “acquired in satisfaction of a commodity futures contract”.
 
 Pars. (12), (13). Pub. L. 97–448, §104(b)(3)(C), added par. (12) and redesignated former par. (12) as (13).
 
-1980—Par. (11)(A). Pub. L. 96–223 repealed the amendment made by Pub. L. 95–600. See 1978 Amendment note below.
+<b>1980</b>—Par. (11)(A). Pub. L. 96–223 repealed the amendment made by Pub. L. 95–600. See 1978 Amendment note below.
 
-1978—Par. (11)(A). Pub. L. 95–600 inserted reference to determination of basis of property under section 1023. See Repeals note below.
+<b>1978</b>—Par. (11)(A). Pub. L. 95–600 inserted reference to determination of basis of property under section 1023. See Repeals note below.
 
-1976—Par. (5). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Par. (5). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Par. (11). Pub. L. 94–455, §1402(b)(2), provided that “9 months” would be changed to “1 year”.
 
 Pub. L. 94–455, §1402(b)(1)(Q), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
-1970—Pars. (11), (12). Pub. L. 91–614 added par. (11) and redesignated former par. (11) as (12).
+<b>1970</b>—Pars. (11), (12). Pub. L. 91–614 added par. (11) and redesignated former par. (11) as (12).
 
-1962—Pars. (10), (11). Pub. L. 87–834 added par. (10) and redesignated former par. (10) as (11).
+<b>1962</b>—Pars. (10), (11). Pub. L. 87–834 added par. (10) and redesignated former par. (10) as (11).
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 #### Effective Date of 2000 Amendment
 
-Amendment by section 1(a)(7) \[title I, §116(b)(2)\] of Pub. L. 106–554 applicable to qualified empowermentzone assets acquired after Dec. 21, 2000, see section 1(a)(7) \[title I, §116(c)\] of Pub. L. 106–554, set out as a note under section 1016 of this title.
+Amendment by section 1(a)(7) \[title I, §116(b)(2)\] of Pub. L. 106–554 applicable to qualified empowerment zone assets acquired after Dec. 21, 2000, see section 1(a)(7) \[title I, §116(c)\] of Pub. L. 106–554, set out as a note under section 1016 of this title.
 
 Amendment by section 1(a)(7) \[title IV, §401(h)(1)\] of Pub. L. 106–554 effective Dec. 21, 2000, see section 1(a)(7) \[title IV, §401(j)\] of Pub. L. 106–554, set out as a note under section 1032 of this title.
 

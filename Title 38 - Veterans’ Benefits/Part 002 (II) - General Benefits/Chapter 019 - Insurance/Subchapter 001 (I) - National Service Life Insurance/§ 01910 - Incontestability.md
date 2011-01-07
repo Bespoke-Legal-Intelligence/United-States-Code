@@ -6,7 +6,7 @@ Subject to the provisions of section 1911 of this title all contracts or policie
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 710 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 710 of this title as this section.
 
 Pub. L. 102–83, §5(c)(1), substituted “1911” for “711”.
 

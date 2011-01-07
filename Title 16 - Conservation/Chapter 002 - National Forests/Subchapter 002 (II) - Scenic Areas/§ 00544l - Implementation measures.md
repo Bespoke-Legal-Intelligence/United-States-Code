@@ -6,7 +6,7 @@ The Secretary shall provide technical assistance on a nonreimbursable basis to c
 
 #### (b) Payment of timber receipts
 
-(1) Notwithstanding the provisions of section 500 of this title, that portion of which is paid under such provisions to the State of Oregon with respect to the special management areas within the Mount Hood National Forest, the Gates of the Columbia Gorge Special Management Area, Mount Hood National Forest, and tothe State of Washington with respect to the special management areas within the Gifford Pinchot National Forest—
+(1) Notwithstanding the provisions of section 500 of this title, that portion of which is paid under such provisions to the State of Oregon with respect to the special management areas within the Mount Hood National Forest, the Gates of the Columbia Gorge Special Management Area, Mount Hood National Forest, and to the State of Washington with respect to the special management areas within the Gifford Pinchot National Forest—
 
 &emsp;(A) not less than 50 per centum shall be expended for the benefit of the public schools of the county which has adopted implementation measures pursuant to sections 544 to 544p of this title; and
 
@@ -20,7 +20,7 @@ The Secretary shall provide technical assistance on a nonreimbursable basis to c
 
 #### (c) Payments to local governments
 
-(1) Subject to section 544n(b) of this title, in the case of any land or interest therein acquired by the Secretary pursuant to section 544g of this title, which was subject to local real property taxes within the five years preceding such acquisition and which is located in a county which has in effect a land use ordinance which has been found consistent by the Commission and concurred on by the Secretary pursuant to section 544f of this title, the Secretary is authorized and directed to make annual payments to the county in which such lands are located in an amount equal to 1 per centum of the fair market value of such land or interest therein on the date of acquisition by the Secretary.
+(1) Subject to section 544n(b) of this title, in the case of any land or interest therein acquiredby the Secretary pursuant to section 544g of this title, which was subject to local real property taxes within the five years preceding such acquisition and which is located in a county which has in effect a land use ordinance which has been found consistent by the Commission and concurred on by the Secretary pursuant to section 544f of this title, the Secretary is authorized and directed to make annual payments to the county in which such lands are located in an amount equal to 1 per centum of the fair market value of such land or interest therein on the date of acquisition by the Secretary.
 
 (2) Notwithstanding paragraph (1) of this subsection, any payment made for any fiscal year to a county pursuant to this subsection shall not exceed the amount of real property taxes assessed and levied on such property during the last full fiscal year before the fiscal year in which such land or interest therein was acquired by the Secretary.
 
@@ -72,7 +72,7 @@ Except as otherwise provided in subsection (e) of this section or in section 544
 
 &emsp;&emsp;(iv) Scientific research, including but not limited to aeronautical, atmospheric, space, geologic, marine, fish and wildlife, and other research, development, and applications.
 
-&emsp;&emsp;(v) Assistance for emergency actions essential to the saving of lives and the protection of property and the public health and safety, if such actions are performed pursuant to sections 305 and 306 of the Disaster Relief Act of 1974 (42 U.S.C. 5145 and 5146) <sup>2</sup> and section 1362 of the National Flood Insurance Act of 1968 (42 U.S.C. 4103) <sup>2</sup> and are limited to actions that are necessary to alleviate the emergency.
+&emsp;&emsp;(v) Assistance for emergency actions essential to the saving of lives and the protection of property and the public health and safety, if such actions are performed pursuant to sections 305 and 306 of the DisasterRelief Act of 1974 (42 U.S.C. 5145 and 5146) <sup>2</sup> and section 1362 of the National Flood Insurance Act of 1968 (42 U.S.C. 4103) <sup>2</sup> and are limited to actions that are necessary to alleviate the emergency.
 
 &emsp;&emsp;(vi) The maintenance, replacement, reconstruction, or repair, but not the expansion, of publicly owned or publicly operated roads, structures, or facilities. This clause shall not apply to roads, structures, or facilities referred to in paragraph (3)(B).
 
@@ -108,7 +108,7 @@ The Congressional Budget and Impoundment Control Act of 1974, referred to in sub
 
 #### Amendments
 
-2000—Subsec. (c)(3). Pub. L. 106–291 inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Except as provided in subparagraph (B), no payment” for “No payment”, substituted “eighth full fiscal year” for “fifth full fiscal year”, and added subpar. (B).
+<b>2000</b>—Subsec. (c)(3). Pub. L. 106–291 inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Except as provided in subparagraph (B), no payment” for “No payment”, substituted “eighth full fiscal year” for “fifth full fiscal year”, and added subpar. (B).
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

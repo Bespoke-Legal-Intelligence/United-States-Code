@@ -50,19 +50,19 @@ Section was formerly classified to section 1857g of this title.
 
 #### Amendments
 
-1990—Subsec. (a)(1). Pub. L. 101–549, §108(i), inserted “subject to section 7607(d) of this title” after “regulations”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–549, §108(i), inserted “subject to section 7607(d) of this title” after “regulations”.
 
 Subsec. (d). Pub. L. 101–549, §107(d), added subsec. (d).
 
-1977—Subsec. (a). Pub. L. 95–95 designated existing provisions as par. (1) and added par. (2).
+<b>1977</b>—Subsec. (a). Pub. L. 95–95 designated existing provisions as par. (1) and added par. (2).
 
-1970—Subsec. (a). Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary” and “Environmental Protection Agency” for “Department of Health, Education, and Welfare”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary” and “Environmental Protection Agency” for “Department of Health, Education, and Welfare”.
 
 Subsec. (b). Pub. L. 91–604, §3(b)(2), substituted “Environmental Protection Agency” for “Public Health Service” and struck out provisions covering the payment of salaries and allowances.
 
 Subsec. (c). Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary”.
 
-1967—Pub. L. 90–148 reenacted section without change.
+<b>1967</b>—Pub. L. 90–148 reenacted section without change.
 
 #### Effective Date of 1977 Amendment
 

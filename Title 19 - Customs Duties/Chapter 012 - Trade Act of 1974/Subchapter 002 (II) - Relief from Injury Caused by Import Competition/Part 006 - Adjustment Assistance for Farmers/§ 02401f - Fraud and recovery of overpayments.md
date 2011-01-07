@@ -28,7 +28,7 @@ A person shall, in addition to any other penalty provided by law, be ineligible 
 
 #### (c) Notice and determination
 
-Except for overpayments determined by a court of competent jurisdiction, no repayment may be required, and no deduction may be made, under this section until a determination under subsection (a)(1) of this section by the Secretary has been made, notice of the determination and an opportunity for a fair hearing thereon has been given to the person concerned, and the determination has become final.
+Except for overpayments determined by a court of competent jurisdiction, no repayment may be required, and no deduction may be made, under this section until a determination undersubsection (a)(1) of this section by the Secretary has been made, notice of the determination and an opportunity for a fair hearing thereon has been given to the person concerned, and the determination has become final.
 
 #### (d) Payment to Treasury
 
@@ -46,15 +46,15 @@ Whoever makes a false statement of a material fact knowing it to be false, or kn
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–5, §§1885, 1893, temporarily inserted “or has expended funds received under this part for a purpose that was not approved by the Secretary,” after “entitled,” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–5, §§1885, 1893, temporarily inserted “or has expended funds received under this part for a purpose that was not approved by the Secretary,” after “entitled,” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
 
 #### Effective and Termination Dates of 2009 Amendment
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Termination Date
 
-Except as otherwise provided, technical assistance and financial assistance may not be provided under this part after Dec. 31, 2010, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and financial assistance may not be provided under this section after Feb. 12, 2011, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

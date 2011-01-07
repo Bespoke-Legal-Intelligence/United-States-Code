@@ -22,6 +22,14 @@ Except as otherwise provided in this section, no deduction shall be allowed for 
 
 &emsp;In any case in which a trade or business is completely disposed of by the taxpayer before the end of the period to which paragraph (1) applies, any deferred expenses attributable to such trade or business which were not allowed as a deduction by reason of this section may be deducted to the extent allowable under section 165.
 
+#### (3) Special rule for taxable years beginning in 2010
+
+&emsp;In the case of a taxable year beginning in 2010, paragraph (1)(A)(ii) shall be applied—
+
+&emsp;&emsp;(A) by substituting “$10,000” for “$5,000”, and
+
+&emsp;&emsp;(B) by substituting “$60,000” for “$50,000”.
+
 #### (c) Definitions
 
 For purposes of this section—
@@ -62,21 +70,27 @@ For purposes of this section—
 
 &emsp;The period selected under subsection (b) shall be adhered to in computing taxable income for the taxable year for which the election is made and all subsequent taxable years.
 
-(Added Pub. L. 96–605, title I, §102(a), Dec. 28, 1980, 94 Stat. 3522; amended Pub. L. 98–369, div. A, title I, §94(a), July 18, 1984, 98 Stat. 614; Pub. L. 108–357, title VIII, §902(a), Oct. 22, 2004, 118 Stat. 1651.)
+(Added Pub. L. 96–605, title I, §102(a), Dec. 28, 1980, 94 Stat. 3522; amended Pub. L. 98–369, div. A, title I, §94(a), July 18, 1984, 98 Stat. 614; Pub. L. 108–357, title VIII, §902(a), Oct. 22, 2004, 118 Stat. 1651; Pub. L. 111–240, title II, §2031(a), Sept. 27, 2010, 124 Stat. 2559.)
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–357, §902(a)(2), substituted “deduct” for “amortize” in heading.
+<b>2010</b>—Subsec. (b)(3). Pub. L. 111–240 added par. (3).
+
+<b>2004</b>—Subsec. (b). Pub. L. 108–357, §902(a)(2), substituted “deduct” for “amortize” in heading.
 
 Subsec. (b)(1). Pub. L. 108–357, §902(a)(1), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Start-up expenditures may, at the election of the taxpayer, be treated as deferred expenses. Such deferred expenses shall be allowed as a deduction prorated equally over such period of not less than 60 months as may be selected by the taxpayer (beginning with the month in which the active trade or business begins).”
 
-1984—Subsec. (a). Pub. L. 98–369 amended subsec. (a) generally, substituting provisions dealing with capitalization of expenditures for provisions dealing with election to amortize.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369 amended subsec. (a) generally, substituting provisions dealing with capitalization of expenditures for provisions dealing with election to amortize.
 
 Subsec. (b). Pub. L. 98–369 amended subsec. (b) generally, substituting provisions dealing with election to amortize for provisions dealing with start-up expenditures.
 
 Subsec. (c). Pub. L. 98–369 amended subsec. (c) generally, substituting provisions setting forth definitions for provisions dealing with election.
 
 Subsec. (d). Pub. L. 98–369 amended subsec. (d) generally, substituting provisions dealing with election for provisions dealing with business beginning.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–240, title II, §2031(b), Sept. 27, 2010, 124 Stat. 2559, provided that: “The amendment made by this section \[amending this section\] shall apply to amounts paid or incurred in taxable years beginning after December 31, 2009.”
 
 #### Effective Date of 2004 Amendment
 

@@ -20,7 +20,7 @@ The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subs
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–386 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There are authorized to be appropriated to carry out this subchapter—
+<b>2000</b>—Subsec. (a). Pub. L. 106–386 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There are authorized to be appropriated to carry out this subchapter—
 
 &emsp;“(1) $750,000 for fiscal year 1996;
 
@@ -32,7 +32,7 @@ The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subs
 
 &emsp;“(5) $2,300,000 for fiscal year 2000.”
 
-1994—Subsec. (a). Pub. L. 103–322 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this chapter—
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this chapter—
 
 &emsp;“(1) $10,000,000 in fiscal year 1991; and
 

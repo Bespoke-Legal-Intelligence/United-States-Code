@@ -40,9 +40,9 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
-1980—Subsec. (c)(2). Pub. L. 96–533 substituted “fiscal year 1981” and “$10,845,000” for “fiscal year 1980” and “$18,800,000”, respectively.
+<b>1980</b>—Subsec. (c)(2). Pub. L. 96–533 substituted “fiscal year 1981” and “$10,845,000” for “fiscal year 1980” and “$18,800,000”, respectively.
 
-1979—Subsec. (c)(2). Pub. L. 96–53 inserted provisions respecting use of funds due and payable during fiscal year 1980 to the United States.
+<b>1979</b>—Subsec. (c)(2). Pub. L. 96–53 inserted provisions respecting use of funds due and payable during fiscal year 1980 to the United States.
 
 #### Effective Date of 1979 Amendment
 

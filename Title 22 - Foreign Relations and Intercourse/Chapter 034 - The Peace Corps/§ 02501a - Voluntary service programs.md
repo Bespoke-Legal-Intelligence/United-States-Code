@@ -28,17 +28,17 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 #### Amendments
 
-1978—Subsec. (b)(1). Pub. L. 95–331, §7, substituted provisions limiting activities to furnishing technical assistance, etc., in support of volunteer programs, and conducting demonstration projects and provisions relating to payment of costs of any program or project for provisions limiting activities to furnishing of knowledge and skills relating to the selection, training, and programming of voluntary manpower and provisions relating to use of available funds.
+<b>1978</b>—Subsec. (b)(1). Pub. L. 95–331, §7, substituted provisions limiting activities to furnishing technical assistance, etc., in support of volunteer programs, and conducting demonstration projects and provisions relating to payment of costs of any program or project for provisions limiting activities to furnishing of knowledge and skills relating to the selection, training, and programming of voluntary manpower and provisions relating to use of available funds.
 
 Subsec. (b)(2). Pub. L. 95–331, §8(a), substituted provisions authorizing use of 2 per centum of amount appropriated in a fiscal year for provisions authorizing use of $350,000 in a fiscal year.
 
-1972—Subsec. (b)(2). Pub. L. 92–352 substituted “$350,000” for “$300,000” and “in any fiscal year to carry” for “in fiscal year 1971 to carry”.
+<b>1972</b>—Subsec. (b)(2). Pub. L. 92–352 substituted “$350,000” for “$300,000” and “in any fiscal year to carry” for “in fiscal year 1971 to carry”.
 
-1970—Subsec. (a)(3). Pub. L. 91–352, §9(a), changed the policy objective from encouragement of participation in any international register which seeks to provide volunteers to serve in less developed countries or areas, training, or other assistance in order to help such countries or areas to meet their needs for trained manpower to encouragement of participation in international voluntary service programs and activities.
+<b>1970</b>—Subsec. (a)(3). Pub. L. 91–352, §9(a), changed the policy objective from encouragement of participation in any international register which seeks to provide volunteers to serve in less developed countries or areas, training, or other assistance in order to help such countries or areas to meet their needs for trained manpower to encouragement of participation in international voluntary service programs and activities.
 
 Subsec. (b)(2). Pub. L. 91–352, §9(b), substituted fiscal year 1971 for fiscal year 1970 and changed the authorization of the contribution of funds from a fair and proportionate share of the costs of the international registers to a fair and proportionate share of the costs of encouraging the development of and participation in international voluntary programs and activities.
 
-1969—Subsec. (a). Pub. L. 91–99, §3(1), redesignated existing provisions as cls. (1) and (2), and added cl. (3).
+<b>1969</b>—Subsec. (a). Pub. L. 91–99, §3(1), redesignated existing provisions as cls. (1) and (2), and added cl. (3).
 
 Subsec. (b). Pub. L. 91–99, §3(2), redesignated existing provisions as cl. (1), struck out the provision which authorized the use of not more than $300,000 in carrying out the purposes of this section in fiscal year 1964 and inserted references to cls. (1) and (2) of subsec. (a) of this section, and added cl. (2).
 

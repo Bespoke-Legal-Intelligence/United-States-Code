@@ -62,9 +62,9 @@
 
 #### Amendments
 
-2003—Subsec. (e)(1)(A). Pub. L. 108–170 substituted “45 days” for “30 days”.
+<b>2003</b>—Subsec. (e)(1)(A). Pub. L. 108–170 substituted “45 days” for “30 days”.
 
-1998—Subsec. (e)(2)(E). Pub. L. 105–368 substituted “Under Secretary of Veterans Affairs for Memorial Affairs” for “Director of the National Cemetery System”.
+<b>1998</b>—Subsec. (e)(2)(E). Pub. L. 105–368 substituted “Under Secretary of Veterans Affairs for Memorial Affairs” for “Director of the National Cemetery System”.
 
 #### Effective Date
 

@@ -66,11 +66,11 @@ In subsection (b), before clause (1), the word “however” is omitted as surpl
 
 #### Amendments
 
-1998—Subsec. (c)(1). Pub. L. 105–264 inserted “if the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government” after “classifications”.
+<b>1998</b>—Subsec. (c)(1). Pub. L. 105–264 inserted “if the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government” after “classifications”.
 
-1996—Subsec. (a). Pub. L. 104–134 inserted “section 3716 and section 3720A of this title and” after “Except as provided in” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–134 inserted “section 3716 and section 3720A of this title and” after “Except as provided in” in introductory provisions.
 
-1984—Subsec. (a). Pub. L. 98–216 amended subsec. (a) generally, substituting “Except as provided in subsection (b) of this section, a” for “A” in second sentence.
+<b>1984</b>—Subsec. (a). Pub. L. 98–216 amended subsec. (a) generally, substituting “Except as provided in subsection (b) of this section, a” for “A” in second sentence.
 
 Subsecs. (b), (c). Pub. L. 98–216 added subsec. (b) and redesignated former subsec. (b) as (c).
 

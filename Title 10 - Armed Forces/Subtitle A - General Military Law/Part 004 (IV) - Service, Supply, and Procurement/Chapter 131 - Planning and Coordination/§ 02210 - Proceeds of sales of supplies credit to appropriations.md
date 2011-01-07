@@ -30,9 +30,9 @@ In section (a), the words “proceeds of the disposal” are substituted for the
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–261 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Current applicable appropriations of the Department of Defense may be credited with proceeds of the disposals of supplies that are not financed by stock funds established under section 2208 of this title.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–261 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Current applicable appropriations of the Department of Defense may be credited with proceeds of the disposals of supplies that are not financed by stock funds established under section 2208 of this title.”
 
-1980—Subsec. (b). Pub. L. 96–513 substituted “President” for “Director of the Bureau of the Budget”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513 substituted “President” for “Director of the Bureau of the Budget”.
 
 #### Effective Date of 1980 Amendment
 

@@ -136,7 +136,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 (C) For purposes of subparagraph (A), the term “legislative day” means any calendar day other than a day on which either House is not in session because of a sine die adjournment or an adjournment of more than 3 days to a day certain.
 
-(D) The procedure for disposition of a joint resolution described in subparagraph (B) shall bethe procedure described in paragraphs (4) through (7) of section 1306(b) of this title.
+(D) The procedure for disposition of a joint resolution described in subparagraph (B) shall be the procedure described in paragraphs (4) through (7) of section 1306(b) of this title.
 
 (5) Regulations prescribed by the corporation to carry out the provisions of this subsection, may, to the extent provided therein, supersede the requirements of sections 1426, 1431, and 1441 of this title, and the requirements of section 418E of title 26, but only with respect to benefits guaranteed under this subsection.
 
@@ -156,7 +156,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 &emsp;(B) in which it is determined by the corporation that substantially all the employers have withdrawn from the plan pursuant to an agreement or arrangement to withdraw.
 
-(Pub. L. 93–406, title IV, §4022A, as added Pub. L. 96–364, title I, §102, Sept. 26, 1980, 94 Stat. 1210; amended Pub. L. 99–272, title XI, §11005(c)(4)–(12), Apr. 7, 1986, 100 Stat. 242; Pub. L. 101–239, title VII, §§7891(a)(1), 7893(b), 7894(g)(3)(C)(i), Dec. 19, 1989, 103 Stat. 2445, 2447, 2451; Pub. L. 106–554, §1(a)(6) \[title IX, §951(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–586.)
+(Pub. L. 93–406, title IV, §4022A, as added Pub. L. 96–364, title I, §102, Sept. 26, 1980, 94 Stat. 1210; amended Pub. L. 99–272, title XI, §11005(c)(4)–(12), Apr. 7, 1986, 100 Stat. 242; Pub. L. 101–239, title VII, §§7891(a)(1), 7893(b), 7894(g)(3)(C)(i), Dec. 19, 1989, 103 Stat. 2445, 2447, 2451; Pub. L. 106–554,§1(a)(6) \[title IX, §951(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–586.)
 
 #### References in Text
 
@@ -166,19 +166,19 @@ Section 4022A(g)(4) of the Employee Retirement Income Security Act of 1974, refe
 
 #### Amendments
 
-2000—Subsec. (c)(1)(A). Pub. L. 106–554, §1(a)(6) \[title IX, §951(a)(1)\], substituted “$11” for “$5” in two places.
+<b>2000</b>—Subsec. (c)(1)(A). Pub. L. 106–554, §1(a)(6) \[title IX, §951(a)(1)\], substituted “$11” for “$5” in two places.
 
 Subsec. (c)(1)(A)(i). Pub. L. 106–554, §1(a)(6) \[title IX, §951(a)(2)\], substituted “$33” for “$15”.
 
 Subsec. (c)(2) to (6). Pub. L. 106–554, §1(a)(6) \[title IX, §951(a)(3)\], redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former pars. (2), (5), and (6). Prior to amendment, par. (2) modified the amount of benefits guaranteed under par. (1) with respect to plans described in par. (5)(A), par. (5) described certain plans for which the first plan year in which the plan was insolvent and in which benefits were required to be suspended or reduced to a certain level began before the year 2000, and par. (6) provided that par. (2) did not apply to a plan described in par. (5)(A) if the value of the assets of the plan was at least a specified amount for a specified period of time.
 
-1989—Subsec. (a)(1). Pub. L. 101–239, §7894(g)(3)(C)(i), substituted “this subchapter” for “section 1321 of this title”.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–239, §7894(g)(3)(C)(i), substituted “this subchapter” for “section 1321 of this title”.
 
 Subsecs. (c)(3)(A)(ii), (4)(C), (5)(A)(ii), (6), (d), (g)(5). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Subsec. (f)(2)(B). Pub. L. 101–239, §7893(b), substituted “the enactment” for “the the enactment”.
 
-1986—Subsec. (f)(2)(B). Pub. L. 99–272, §11005(c)(4), substituted “the enactment of a joint resolution” for “Congress by concurrent resolution”.
+<b>1986</b>—Subsec. (f)(2)(B). Pub. L. 99–272, §11005(c)(4), substituted “the enactment of a joint resolution” for “Congress by concurrent resolution”.
 
 Subsec. (f)(2)(C). Pub. L. 99–272, §11005(c)(5), substituted “so enacted” for “approved”.
 

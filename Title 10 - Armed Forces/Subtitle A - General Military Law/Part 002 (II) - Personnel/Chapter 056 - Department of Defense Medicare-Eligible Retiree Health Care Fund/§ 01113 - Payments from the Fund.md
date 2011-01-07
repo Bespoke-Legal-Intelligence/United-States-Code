@@ -18,7 +18,7 @@
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–107, §711(c)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There shall be paid from the Fund amounts payable for Department of Defense retiree health care programs for medicare-eligible beneficiaries.”
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §711(c)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There shall be paid from the Fund amounts payable for Department of Defense retiree health care programs for medicare-eligible beneficiaries.”
 
 Subsecs. (c) to (f). Pub. L. 107–107, §711(c)(2), added subsecs. (c) to (f).
 

@@ -10,9 +10,9 @@ For the purposes of sections 314, 315, 316, and 2406 of this title and subchapte
 
 #### Amendments
 
-2002—Par. (1). Pub. L. 107–217 substituted “section 3111 of title 40” for “section 355 of the Revised Statutes (40 U.S.C. 255)”.
+<b>2002</b>—Par. (1). Pub. L. 107–217 substituted “section 3111 of title 40” for “section 355 of the Revised Statutes (40 U.S.C. 255)”.
 
-1994—Pub. L. 103–446 substituted “sections 314, 315, 316,” for “sections 230” in introductory provisions.
+<b>1994</b>—Pub. L. 103–446 substituted “sections 314, 315, 316,” for “sections 230” in introductory provisions.
 
-1991—Pub. L. 102–83 substituted “2406” for “1006” in introductory provisions.
+<b>1991</b>—Pub. L. 102–83 substituted “2406” for “1006” in introductory provisions.
 

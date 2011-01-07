@@ -16,7 +16,7 @@ The President shall take appropriate actions to inform and assist covered employ
 
 &emsp;(2) provide such covered employees and other potential claimants with information and other support necessary for making claims, including—
 
-&emsp;&emsp;(A) medical protocols for medical testing and diagnosis to establish the existence of a covered beryllium illness, chronic silicosis, or cancer; and
+&emsp;&emsp;(A) medical protocols for medical testing and diagnosis to establish the existence of acovered beryllium illness, chronic silicosis, or cancer; and
 
 &emsp;&emsp;(B) lists of vendors approved for providing laboratory services related to such medical testing and diagnosis; and
 

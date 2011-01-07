@@ -50,9 +50,11 @@ Definitions.—For purposes of this section—
 
 &emsp;&emsp;&emsp;(vi) matches performed for foreign counterintelligence purposes or to produce background checks for security clearances of Federal personnel or Federal contractor personnel;
 
-&emsp;&emsp;&emsp;(vii) matches performed incident to a levy described in section 6103(k)(8) of the Internal Revenue Code of 1986; or
+&emsp;&emsp;&emsp;(vii) matches performed incident to a levy described in section 6103(k)(8) of the Internal Revenue Code of 1986;
 
-&emsp;&emsp;&emsp;(viii) matches performed pursuant to section 202(x)(3) or 1611(e)(1) of the Social Security Act (42 U.S.C. 402(x)(3), 1382(e)(1));
+&emsp;&emsp;&emsp;(viii) matches performed pursuant to section 202(x)(3) or 1611(e)(1) of the Social Security Act (42 U.S.C. 402(x)(3), 1382(e)(1)); or
+
+&emsp;&emsp;&emsp;(ix) matches performed by the Secretary of Health and Human Services or the Inspector General of the Department of Health and Human Services with respect to potential fraud, waste, and abuse, including matches of a system of records with non-Federal records;
 
 &emsp;(9) the term “recipient agency” means any agency, or contractor thereof, receiving records contained in a system of records from a source agency for use in a matching program;
 
@@ -214,7 +216,7 @@ Civil Remedies.—Whenever any agency
 
 > the individual may bring a civil action against the agency, and the district courts of the United States shall have jurisdiction in the matters under the provisions of this subsection.
 
-(2)(A) In any suit brought under the provisions of subsection (g)(1)(A) of this section, the court may order the agency to amend the individual's record in accordance with his request or in such other way as the court may direct. In such a case the court shall determine the matter de novo.
+(2)(A) In any suit brought under the provisions of subsection (g)(1)(A) of this section, the court may order the agency to amend the individual's record in accordance with his request or in such other way as the court may direct. In such acase the court shall determine the matter de novo.
 
 (B) The court may assess against the United States reasonable attorney fees and other litigation costs reasonably incurred in any case under this paragraph in which the complainant has substantially prevailed.
 
@@ -258,7 +260,7 @@ Specific Exemptions.—The head of any agency may promulgate rules, in accordanc
 
 &emsp;(1) subject to the provisions of section 552(b)(1) of this title;
 
-&emsp;(2) investigatory material compiled for law enforcement purposes, other than material within the scope of subsection (j)(2) of this section: <i>Provided, however</i>, That if any individual is denied any right, privilege, or benefit that he would otherwise be entitled by Federal law, or for which he would otherwise be eligible, as a result of the maintenance of such material, such material shall be provided to such individual, except to the extent that the disclosure of such material would reveal the identity of a source who furnished information to the Government under an express promise that the identity of the source would be held in confidence, or, prior to the effective date of this section, under an implied promise that the identity of the source would be held in confidence;
+&emsp;(2) investigatory material compiled for law enforcement purposes, other than material within the scope of subsection (j)(2) of this section: <i>Provided, however</i>, That if any individual is denied any right, privilege, or benefit thathe would otherwise be entitled by Federal law, or for which he would otherwise be eligible, as a result of the maintenance of such material, such material shall be provided to such individual, except to the extent that the disclosure of such material would reveal the identity of a source who furnished information to the Government under an express promise that the identity of the source would be held in confidence, or, prior to the effective date of this section, under an implied promise that the identity of the source would be held in confidence;
 
 &emsp;(3) maintained in connection with providing protective services to the President of the United States or other individuals pursuant to section 3056 of title 18;
 
@@ -464,7 +466,11 @@ Office of Management and Budget Responsibilities.—The Director of the Office o
 
 &emsp;(2) provide continuing assistance to and oversight of the implementation of this section by agencies.
 
-(Added Pub. L. 93–579, §3, Dec. 31, 1974, 88 Stat. 1897; amended Pub. L. 94–183, §2(2), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 97–365, §2, Oct. 25, 1982, 96 Stat. 1749; Pub. L. 97–375, title II, §201(a), (b), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 97–452, §2(a)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–477, §2(c), Oct. 15, 1984, 98 Stat. 2211; Pub. L. 98–497, title I, §107(g), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 100–503, §§2–6(a), 7, 8, Oct. 18, 1988, 102 Stat. 2507–2514; Pub. L. 101–508, title VII, §7201(b)(1), Nov. 5, 1990, 104 Stat. 1388–334; Pub. L. 103–66, title XIII, §13581(c), Aug. 10, 1993, 107 Stat. 611; Pub. L. 104–193, title I, §110(w), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–226, §1(b)(3), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 104–316, title I, §115(g)(2)(B), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–34, title X, §1026(b)(2), Aug. 5, 1997, 111 Stat. 925; Pub. L. 105–362, title XIII, §1301(d), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 106–170, title IV, §402(a)(2), Dec. 17, 1999, 113 Stat. 1908; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(w)
+
+Applicability to Bureau of Consumer Financial Protection.—Except as provided in the Consumer Financial Protection Act of 2010, this section shall apply with respect to the Bureau of Consumer Financial Protection.
+
+(Added Pub. L. 93–579, §3, Dec. 31, 1974, 88 Stat. 1897; amended Pub. L. 94–183, §2(2), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 97–365, §2, Oct. 25, 1982, 96 Stat. 1749; Pub. L. 97–375, title II, §201(a), (b), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 97–452, §2(a)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–477, §2(c), Oct. 15, 1984, 98 Stat. 2211; Pub. L. 98–497, title I, §107(g), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 100–503, §§2–6(a), 7, 8, Oct. 18, 1988, 102 Stat. 2507–2514; Pub. L. 101–508, title VII, §7201(b)(1), Nov. 5, 1990, 104 Stat. 1388–334; Pub. L. 103–66, title XIII, §13581(c), Aug. 10, 1993, 107 Stat. 611; Pub. L. 104–193, title I, §110(w), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–226, §1(b)(3), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 104–316, title I, §115(g)(2)(B), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–34, title X, §1026(b)(2), Aug. 5, 1997, 111 Stat. 925; Pub. L. 105–362, title XIII, §1301(d), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 106–170, title IV, §402(a)(2), Dec. 17, 1999, 113 Stat. 1908; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–148, title VI, §6402(b)(2), Mar. 23, 2010, 124 Stat. 756; Pub. L. 111–203, title X, §1082, July 21, 2010, 124 Stat. 2080.)
 
 #### References in Text
 
@@ -480,11 +486,17 @@ Section 6 of the Privacy Act of 1974, referred to in subsec. (s)(1), is section 
 
 For classification of the Privacy Act of 1974, referred to in subsec. (s)(4), see Short Title note below.
 
+The Consumer Financial Protection Act of 2010, referred to in subsec. (w), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§5481 et seq.) of chapter 53 of Title 12, Banks and Banking, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
+
 #### Codification
 
 Section 552a of former Title 5, Executive Departments and Government Officers and Employees, was transferred to section 2244 of Title 7, Agriculture.
 
 #### Amendments
+
+2010—Subsec. (a)(8)(B)(ix). Pub. L. 111–148 added cl. (ix).
+
+Subsec. (w). Pub. L. 111–203 added subsec. (w).
 
 2004—Subsec. (b)(10). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -551,6 +563,14 @@ Subsec. (p). Pub. L. 97–375, §201(b), substituted provisions requiring annual
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–203, title X, §1082, July 21, 2010, 124 Stat. 2080, provided that the amendment made by section 1082 is effective on July 21, 2010.
+
+Pub. L. 111–203, title X, §1100H, July 21, 2010, 124 Stat. 2113, provided that: “Except as otherwise provided in this subtitle \[subtitle H (§§1081–1100H) of title X of Pub. L. 111–203, see Tables for classification\] and the amendments made by this subtitle, this subtitle and the amendments made by this subtitle, other than sections 1081 \[amending section 8G of Pub. L. 95–452, set out in the Appendix to this title, and enacting provisions set out as a note under section 8G of Pub. L. 95–452\] and 1082 \[amending this section and enacting provisions set out as a note under this section\], shall become effective on the designated transfer date.”
+
+\[The term “designated transfer date” is defined in section 5481(9) of Title 12, Banks and Banking, as the date established under section 5582 of Title 12.\]
 
 #### Effective Date of 1999 Amendment
 
@@ -688,7 +708,7 @@ Section 2 of Pub. L. 93–579 provided that:
 
 &emsp;“(3) permit an individual to gain access to information pertaining to him in Federal agency records, to have a copy made of all or any portion thereof, and to correct or amend such records;
 
-&emsp;“(4) collect, maintain, use, or disseminate any record of identifiable personal information in a manner that assures that such action is for a necessary and lawful purpose, that the information is current and accurate for its intended use, and that adequatesafeguards are provided to prevent misuse of such information;
+&emsp;“(4) collect, maintain, use, or disseminate any record of identifiable personal information in a manner that assures that such action is for a necessary and lawful purpose, that the information is current and accurate for its intended use, and that adequate safeguards are provided to prevent misuse of such information;
 
 &emsp;“(5) permit exemptions from the requirements with respect to records provided in this Act only in those cases where there is an important public policy need for such exemption as has been determined by specific statutory authority; and
 

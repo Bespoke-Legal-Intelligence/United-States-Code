@@ -22,17 +22,17 @@ For the purposes of this subchapter, the term “aid to the blind” means money
 
 #### Amendments
 
-1981—Pub. L. 97–35 struck out in provision preceding par. (1) “, or (if provided in or after the third month before the month in which the recipient makes application for aid) medical care in behalf of or any type of remedial care recognized under State law in behalf of,” after “money payments to”.
+<b>1981</b>—Pub. L. 97–35 struck out in provision preceding par. (1) “, or (if provided in or after the third month before the month in which the recipient makes application for aid) medical care in behalf of or any type of remedial care recognized under State law in behalf of,” after “money payments to”.
 
-1972—Pub. L. 92–603 authorized the State, at its option, to include within term “aid to the blind” provisions relating to money payments to an individual absent from such State for more than 90 consecutive days, and provisions relating to rent payments made directly to a public housing agency.
+<b>1972</b>—Pub. L. 92–603 authorized the State, at its option, to include within term “aid to the blind” provisions relating to money payments to an individual absent from such State for more than 90 consecutive days, and provisions relating to rent payments made directly to a public housing agency.
 
-1965—Pub. L. 89–97 struck out from definition of “aid to the blind” the exclusion of payments to or medical care in behalf of any individual who has been diagnosed as having tuberculosis or psychosis and is a patient in a medical institution as a result thereof; and extended definition of “aid to the blind” to include payments made on behalf of the needy individual to another individual who (as determined in accordance with standards determined by the Secretary) is interested in or concerned with the welfare of such needy individual and enumerated the five characteristics required of State plans under which such payments can be made, including provision for finding of inability to manage funds, payment to meet all needs of the individual, special efforts to protect welfare, periodic review, and opportunity for fair hearing, respectively.
+<b>1965</b>—Pub. L. 89–97 struck out from definition of “aid to the blind” the exclusion of payments to or medical care in behalf of any individual who has been diagnosed as having tuberculosis or psychosis and is a patient in a medical institution as a result thereof; and extended definition of “aid to the blind” to include payments made on behalf of the needy individual to another individual who (as determined in accordance with standards determined by the Secretary) is interested in or concerned with the welfare of such needy individual and enumerated the five characteristics required of State plans under which such payments can be made, including provision for finding of inability to manage funds, payment to meet all needs of the individual, special efforts to protect welfare, periodic review, and opportunity for fair hearing, respectively.
 
-1962—Pub. L. 87–543 inserted “(if provided in or after the third month before the month in which the recipient makes application for aid)” before “medical care”.
+<b>1962</b>—Pub. L. 87–543 inserted “(if provided in or after the third month before the month in which the recipient makes application for aid)” before “medical care”.
 
-1950—Act Aug. 28, 1950, redefined “aid to the blind”.
+<b>1950</b>—Act Aug. 28, 1950, redefined “aid to the blind”.
 
-1939—Act Aug. 10, 1939, redefined “aid to the blind” to include those individuals who are needy.
+<b>1939</b>—Act Aug. 10, 1939, redefined “aid to the blind” to include those individuals who are needy.
 
 #### Effective Date of 1965 Amendment
 
@@ -47,4 +47,6 @@ Amendment by section 156(c) of Pub. L. 87–543 applicable in the case of applic
 #### Effective Date of 1950 Amendment
 
 Section 343(b) of act Aug. 28, 1950, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1950, except that the exclusion of money payments to needy individuals described in clause (a) or (b) of section 1006 of the Social Security Act \[this section\] as so amended shall, in the case of any of such individuals who are not patients in a public institution, be effective July 1, 1952.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “needs”.</i>
 

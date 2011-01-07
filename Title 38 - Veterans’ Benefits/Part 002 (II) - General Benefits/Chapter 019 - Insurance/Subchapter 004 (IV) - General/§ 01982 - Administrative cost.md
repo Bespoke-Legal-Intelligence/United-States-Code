@@ -10,7 +10,7 @@ Amendment by Pub. L. 104–99 is based on section 107(4) of H.R. 2099, One Hundr
 
 #### Amendments
 
-1996—Pub. L. 104–99 substituted “Except as provided in sections 1920(c), 1923(d), and 1955(c) of this title, the United States” for “The United States”.
+<b>1996</b>—Pub. L. 104–99 substituted “Except as provided in sections 1920(c), 1923(d), and 1955(c) of this title, the United States” for “The United States”.
 
-1991—Pub. L. 102–83 renumbered section 782 of this title as this section and substituted “Secretary” for “Administrator”.
+<b>1991</b>—Pub. L. 102–83 renumbered section 782 of this title as this section and substituted “Secretary” for “Administrator”.
 

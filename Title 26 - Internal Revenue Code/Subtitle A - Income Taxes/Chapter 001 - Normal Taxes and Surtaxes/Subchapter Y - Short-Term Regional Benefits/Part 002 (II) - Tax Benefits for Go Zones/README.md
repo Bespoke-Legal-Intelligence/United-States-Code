@@ -15,9 +15,9 @@
 
 #### Amendments
 
-2007—Pub. L. 110–172, §11(a)(27), Dec. 29, 2007, 121 Stat. 2487, added item 1400T.
+<b>2007</b>—Pub. L. 110–172, §11(a)(27), Dec. 29, 2007, 121 Stat. 2487, added item 1400T.
 
-2005—Pub. L. 109–135, title I, §§102(b), 103(b)(3), title II, §201(b)(3), Dec. 21, 2005, 119 Stat. 2594, 2595, 2607, added items 1400O to 1400S.
+<b>2005</b>—Pub. L. 109–135, title I, §§102(b), 103(b)(3), title II, §201(b)(3), Dec. 21, 2005, 119 Stat. 2594, 2595, 2607, added items 1400O to 1400S.
 
 
 ---

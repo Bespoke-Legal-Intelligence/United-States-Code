@@ -8,11 +8,11 @@
 | --- | --- |
 | Monthly basic pay <sup>1</sup> of the grade in which he would be eligible—  (1) to retire if he were retiring upon that release from active duty; or  (2) to transfer to the Fleet Reserve or Fleet Marine Corps Reserve if he were transferring to either upon that release from active duty. | 21/2 percent of the sum of—  (1) the years of service that may be credited to him in computing retired pay or retainer pay; and  (2) his years of active service after becoming entitled to retired pay or retainer pay.<sup>2</sup> |
 
-&nbsp;<sup>1</sup> For a member who has been entitled, for continuous period of at least two years, to basic pay under the rates of basic pay in effect upon that release from active duty, compute under those rates. For a member who has been entitled to basic pay for a continuous period of at least two years upon that release from active duty, but who is not covered by the preceding sentence, compute under the rates of basic pay replaced by those in effect upon that release from active duty. For any other member, compute under the rates of basic pay under which the member's retired pay or retainer pay was computed when he entered on that active duty.
+<sup>1</sup> For a member who has been entitled, for continuous period of at least two years, to basic pay under the rates of basic pay in effect upon that release from active duty, compute under those rates. For a member who has been entitled to basic pay for a continuous period of at least two years upon that release from active duty, but who is not covered by the preceding sentence, compute under the rates of basic pay replaced by those in effect upon that release from active duty. For any other member, compute under the rates of basic pay under which the member's retired pay or retainer pay was computed when he entered on that active duty.
 
-&nbsp;<sup>2</sup> Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month.
+<sup>2</sup> Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month.
 
-> However, an officer who was ordered to active duty (other than for training) in the grade that he holds on the retired list under former section 6150 of this title, or under any other law that authorized advancement on the retired list based upon a special commendation for the performance of duty in actual combat, may have his retired pay recomputed under this subsection on the basis of the rate of basic pay applicable to that grade upon his release from that active duty only if he has been entitled, for a continuous period of at least three years, to basic pay at that rate. If, upon his release from that active duty, he has been entitled to the basic pay of that grade for a continuous period of at least three years, but he does not qualify under the preceding sentence, he may have his retired pay recomputed under this subsection on the basis of the rate of basic pay prescribed for that grade by the rates of basic pay replaced by those in effect upon his release from that duty.
+> However, an officer who was ordered to active duty (other than for training) in the grade that he holds on the retired list under former section 6150 of this title, or under any other law that authorized advancement on the retired list based upon a special commendation for the performance of duty in actual combat, may have his retired pay recomputed under this subsection on the basis of the rate of basic pay applicable to that grade upon his release from that active duty only if he has been entitled, for a continuous period of at least three years, to basic pay at that rate. If, upon his release from that active duty, he has been entitled to the basic pay of that grade for a continuous period of at least three years, but he does not qualify under the preceding sentence, he may have his retired payrecomputed under this subsection on the basis of the rate of basic pay prescribed for that grade by the rates of basic pay replaced by those in effect upon his release from that duty.
 
 (b) A member of an armed force who first became a member of a uniformed service before September 8, 1980, and who has been retired other than for physical disability, and who while on active duty incurs a physical disability of at least 30 percent for which he would otherwise be eligible for retired pay under chapter 61 of this title, is entitled, upon his release from active duty, to retired pay under subsection (d).
 
@@ -30,11 +30,11 @@
 
 &nbsp;
 
-| Column 1Take | Column 2Multiply by | Column 3Add | Column 4Subtract |
-| --- | --- | --- | --- |
-| Highest monthly basic pay that member received while on active duty after retirement or after date when his name was placed on temporary disability retired list, as the case may be. | As member elects—  (1) 21/2% of years of service credited under section 1208 of this title; <sup>1</sup> or  (2) the highest percentage of disability attained while on active duty after retirement or after the date when his name was placed on temporary disability retired list, as the case may be.<sup>1</sup> | Add amount necessary to increase product of columns 1 and 2 to 50% of pay upon which computation is based, if member is on temporary disability retired list | Excess over 75% of pay upon which computation is based. |
+| Column 1Take | Column 2Multiply by | Column 3Add |
+| --- | --- | --- |
+| Highest monthly basic pay that member received while on active duty after retirement or after date when his name was placed on temporary disability retired list, as the case may be. | As member elects—  (1) 21/2% of years of service credited under section 1208 of this title; <sup>1</sup> or  (2) the highest percentage of disability, not to exceed 75%, attained while on active duty after retirement or after the date when his name was placed on temporary disability retired list, as the case may be.<sup>1</sup> | Add amount necessary to increase product of columns 1 and 2 to 50% of pay upon which computation is based, if member is on temporary disability retired list. |
 
-&nbsp;<sup>1</sup> Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month.
+<sup>1</sup> Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month.
 
 > If, while on active duty after retirement or after his name was placed on the temporary disability retired list, a member covered by this subsection was promoted to a higher grade in which he served satisfactorily, as determined by the Secretary concerned, he is entitled to retired pay based on the monthly basic pay to which he would be entitled if he were on active duty in that higher grade.
 
@@ -46,11 +46,11 @@
 
 (f)(1) In the case of a member who is entitled to recompute retired pay under this section upon release from active duty served after retiring under section 3914 or 8914 of this title, the member's retired pay as recomputed under another provision of this section shall be increased by 10 percent of the amount so recomputed if the member has been credited by the Secretary concerned with extraordinary heroism in the line of duty during any period of active duty service in the armed forces.
 
-(2) The amount of the retired pay as recomputed under another provision of this section and as increased under paragraph (1) may not exceed the amount equal to 75 percent of themonthly rate of basic pay upon which the recomputation of such retired pay is based.
+(2) The amount of the retired pay as recomputed under another provision of this section and as increased under paragraph (1) may not exceed the amount equal to 75 percent of the monthly rate of basic pay upon which the recomputation of such retired pay is based.
 
 (3) The determination of the Secretary concerned as to extraordinary heroism is conclusive for all purposes.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 107; Pub. L. 86–559, §1(5), June 30, 1960, 74 Stat. 265; Pub. L. 88–132, §5(<i>l</i>)(1), Oct. 2, 1963, 77 Stat. 214; Pub. L. 90–207, §2(a)(2), Dec. 16, 1967, 81 Stat. 653; Pub. L. 96–342, title VIII, §813(b)(2), Sept. 8, 1980, 94 Stat. 1102; Pub. L. 96–513, title V, §511(50), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §§922(a)(3), (4), 923(a)(1), (2)(B), (C), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 99–348, title II, §201(b)(3), title III, §304(a)(3), (b)(3), July 1, 1986, 100 Stat. 694, 703; Pub. L. 102–484, div. A, title VI, §642(a), Oct. 23, 1992, 106 Stat. 2424; Pub. L. 110–181, div. A, title VI, §646(b), Jan. 28, 2008, 122 Stat. 160.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 107; Pub. L. 86–559, §1(5), June 30, 1960, 74 Stat. 265; Pub. L. 88–132, §5(<i>l</i>)(1), Oct. 2, 1963, 77 Stat. 214; Pub. L. 90–207, §2(a)(2), Dec. 16, 1967, 81 Stat. 653; Pub. L. 96–342, title VIII, §813(b)(2), Sept. 8, 1980, 94 Stat. 1102; Pub. L. 96–513, title V, §511(50), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §§922(a)(3), (4), 923(a)(1), (2)(B), (C), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 99–348, title II, §201(b)(3), title III, §304(a)(3), (b)(3), July 1, 1986, 100 Stat. 694, 703; Pub. L. 102–484, div. A, title VI, §642(a), Oct. 23, 1992, 106 Stat. 2424; Pub. L. 110–181, div. A, title VI, §646(b), Jan. 28, 2008, 122 Stat. 160; Pub. L. 111–383, div. A, title VI, §631(b), Jan. 7, 2011, 124 Stat. 4239.)
 
 Historical and Revision Notes
 
@@ -78,7 +78,7 @@ In subsection (a), columns 1 and 2 of the table are based on 37:316 (1st proviso
 
 In subsections (a) and (d), the words “and disregard a part of a year that is less than six months” are added to footnote 1 to conform to footnote 3 of section 1401 of this title.
 
-In subsection (b), the words “for which he would otherwise be eligible for retired pay under chapter 61 of this title” are substituted for the words “in accordance with the standard schedule of rating disabilities in current use by the Veterans’ Administration” and “if qualified”.
+In subsection (b), the words “for which he would otherwise be eligible for retired pay under chapter 61 ofthis title” are substituted for the words “in accordance with the standard schedule of rating disabilities in current use by the Veterans’ Administration” and “if qualified”.
 
 In subsection (c), the requirement that the physical disability incurred be 30 percent or more is omitted as surplusage, since it is also required that the member be qualified for physical disability retirement under section 1201 or 1204 of this title.
 
@@ -90,11 +90,13 @@ Another section 304(b)(3) of Pub. L. 99–348 amended the table of sections at t
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181 struck out column 3 of the table, which related to subtraction of excess over 75 percent of pay upon which computation is based.
+<b>2011</b>—Subsec. (d). Pub. L. 111–383, in column 2 of table, inserted “, not to exceed 75%,” after “percentage of disability” and struck out column 4 of table which related to subtraction of excess over 75 percent of pay upon which computation is based.
 
-1992—Subsec. (f). Pub. L. 102–484 added subsec. (f).
+<b>2008</b>—Subsec. (a). Pub. L. 110–181 struck out column 3 of the table, which related to subtraction of excess over 75 percent of pay upon which computation is based.
 
-1986—Pub. L. 99–348, §304(b)(3), inserted “of members who first became members before September 8, 1980” in section catchline.
+<b>1992</b>—Subsec. (f). Pub. L. 102–484 added subsec. (f).
+
+<b>1986</b>—Pub. L. 99–348, §304(b)(3), inserted “of members who first became members before September 8, 1980” in section catchline.
 
 Subsec. (a). Pub. L. 99–348, §§201(b)(3), 304(a)(3), struck out “(as defined in section 1407(a)(2) of this title)” after “uniformed service” and struck out provision that if the amount recomputed is not a multiple of $1, it be rounded to the next lower multiple of $1. See section 1412 of this title.
 
@@ -102,7 +104,7 @@ Subsecs. (b), (c). Pub. L. 99–348, §304(a)(3), struck out “(as defined in s
 
 Subsec. (d). Pub. L. 99–348, §201(b)(3), struck out provision that if the amount recomputed is not a multiple of $1, it be rounded to the next lower multiple of $1. See section 1412 of this title.
 
-1983—Subsec. (a). Pub. L. 98–94, §922(a)(3), substituted “according to the following table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.” for “as follows:”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–94, §922(a)(3), substituted “according to the following table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.” for “as follows:”.
 
 Pub. L. 98–94, §923(a)(1), (2)(B), in footnote 2 of table, substituted “Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
 
@@ -110,21 +112,25 @@ Subsec. (d). Pub. L. 98–94, §922(a)(4), substituted “according to the follo
 
 Pub. L. 98–94, §923(a)(1), (2)(C), in footnote 1 of table, substituted “Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
 
-1980—Subsecs. (a) to (c). Pub. L. 96–513 substituted “a uniformed service (as defined in section 1407(a)(2) of this title) before September 8, 1980” for “the armed forces before the date of the enactment of the Department of Defense Appropriation Act, 1981” wherever appearing.
+<b>1980</b>—Subsecs. (a) to (c). Pub. L. 96–513 substituted “a uniformed service (as defined in section 1407(a)(2) of this title) before September 8, 1980” for “the armed forces before the date of the enactment of the Department of Defense Appropriation Act, 1981” wherever appearing.
 
 Pub. L. 96–342 inserted “who first became a member of the armed forces before the date of the enactment of the Department of Defense Authorization Act, 1981, and” after “of an armed force” wherever appearing.
 
-1967—Subsec. (d). Pub. L. 90–207, §2(a)(2)(A), inserted “increased by any applicable adjustments in that pay under section 1401a of this title after he initially became entitled to that pay” after “retired,”.
+<b>1967</b>—Subsec. (d). Pub. L. 90–207, §2(a)(2)(A), inserted “increased by any applicable adjustments in that pay under section 1401a of this title after he initially became entitled to that pay” after “retired,”.
 
 Subsec. (e). Pub. L. 90–207, §2(a)(2)(B), added subsec. (e).
 
-1963—Subsec. (a). Pub. L. 88–132 substituted in introductory clause “who has become entitled to retired pay or retainer pay” for “who has been retired or has become entitled to retainer pay” and “to recompute his retired pay or retainer pay upon his release from that duty” for “, upon release from that duty, to recompute his retired or retainer pay” and inserted in such clause “(other than for training)” after “active duty”; substituted in column 1 of table “Monthly basic pay” for “Monthly basic pay or base and longevity pay, as the case may be,”, designated existing provisions as (1) and added (2); substituted in (1) of column 2 of the table “retired pay or retainer pay” for “retired or retainer pay” and in (2) of such column 2 “after becoming entitled to retired pay or retainer pay” for “after retirement or becoming entitled to retainer pay”, struck out column 3 relating to addition and redesignated column 4 as 3; added footnote 1 to the table and redesignated former footnote 1 as 2; and inserted provisions for recomputation of retired pay upon release from active duty of officers ordered to active duty in a higher grade based upon special commendation for performance of duty in actual combat.
+<b>1963</b>—Subsec. (a). Pub. L. 88–132 substituted in introductory clause “who has become entitled to retired pay or retainer pay” for “who has been retired or has become entitled to retainer pay” and “to recompute his retired pay or retainer pay upon his release from that duty” for “, upon release from that duty, to recompute his retired or retainer pay” and inserted in such clause “(other than for training)” after “active duty”; substituted in column 1 of table “Monthly basic pay” for “Monthly basic pay or base and longevity pay, as the case may be,”, designated existing provisions as (1) and added (2); substituted in (1) of column 2 of the table “retired pay or retainer pay” for “retired or retainer pay” and in (2) of such column 2 “after becoming entitled to retired pay or retainer pay” for “after retirement or becoming entitled to retainer pay”, struck out column 3 relating to addition and redesignated column 4 as 3; added footnote 1 to the table and redesignated former footnote 1 as 2; and inserted provisions for recomputation of retired pay upon release from active duty of officers ordered to active duty in a higher grade based upon special commendation for performance of duty in actual combat.
 
-1960—Subsec. (a). Pub. L. 86–559 prohibited recomputation of retired pay under subsec. (a) on the basis of any period of active duty that was of less than six consecutive months’ duration or on the basis of any active duty for training for a reserve officer who is or has been retired under section 3911, 6323, or 8911 of this title or under section 232 of title 14.
+<b>1960</b>—Subsec. (a). Pub. L. 86–559 prohibited recomputation of retired pay under subsec. (a) on the basis of any period of active duty that was of less than six consecutive months’ duration or on the basis of any active duty for training for a reserve officer who is or has been retired under section 3911, 6323, or 8911 of this title or under section 232 of title 14.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 111–383 applicable to persons who first become entitled to retired or retainer pay under subtitle A of this title after Jan. 7, 2011, and table in subsec. (d) of this section, in effect on the day before Jan. 7, 2011, applicable to the computation or recomputation of retired or retainer pay for persons who first became entitled to retired or retainer pay under subtitle A on or before Jan. 7, 2011, see section 631(d) of Pub. L. 111–383, set out as a note under section 1401 of this title.
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–181, div. A, title VI, §646(c), Jan. 28, 2008, 122 Stat. 160, provided that: “The amendments made bysubsections (a) and (b) \[amending this section and section 6333 of this title\] shall take effect as of January 1, 2007, and shall apply with respect to retired pay and retainer pay payable on or after that date.”
+Pub. L. 110–181, div. A, title VI, §646(c), Jan. 28, 2008, 122 Stat. 160, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 6333 of this title\] shall take effect as of January 1, 2007, and shall apply with respect to retired pay and retainer pay payable on or after that date.”
 
 #### Effective Date of 1983 Amendment
 
@@ -138,7 +144,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–207 effective Oct. 1, 1967, see section 7 of Pub. L. 90–207, set out as a note under section 203 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 90–207 effective Oct. 1, 1967, see section 7 of Pub. L. 90–207, set out as a note undersection 203 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1963 Amendment
 

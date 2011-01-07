@@ -46,7 +46,7 @@ This amends 49:44711(a)(2)(B), (5), and (7) and 46310(b) to correct erroneous cr
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–429 inserted “any of sections” before “44702–44716”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–429 inserted “any of sections” before “44702–44716”.
 
 #### Effective Date of 1994 Amendment
 

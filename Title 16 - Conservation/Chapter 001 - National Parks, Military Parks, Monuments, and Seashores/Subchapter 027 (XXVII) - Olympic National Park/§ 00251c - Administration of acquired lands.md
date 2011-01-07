@@ -1,6 +1,6 @@
 ### §251c. Administration of acquired lands
 
-Lands acquired pursuant to the exchange authority contained herein shall be administered as a part of Olympic National Park in accordance with the laws and regulations applicable to the park.
+Lands acquired pursuant to the exchange authority contained herein shall be administeredas a part of Olympic National Park in accordance with the laws and regulations applicable to the park.
 
 (Pub. L. 85–455, §2, June 11, 1958, 72 Stat. 185.)
 

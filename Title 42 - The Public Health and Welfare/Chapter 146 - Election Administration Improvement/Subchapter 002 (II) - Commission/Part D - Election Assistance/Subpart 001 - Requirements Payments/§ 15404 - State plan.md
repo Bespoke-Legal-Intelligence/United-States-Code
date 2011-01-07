@@ -10,9 +10,9 @@ The State plan shall contain a description of each of the following:
 
 &emsp;&emsp;(A) the criteria to be used to determine the eligibility of such units or entities for receiving the payment; and
 
-&emsp;&emsp;(B) the methods to be used by the State to monitor the performance of the units or entities to whom the payment is distributed, consistent with the performance goals and measures adopted under paragraph (8).
+&emsp;&emsp;(B) the methods to be used by the State to monitor the performance of the units or entities to whom the payment is distributed,consistent with the performance goals and measures adopted under paragraph (8).
 
-&emsp;(3) How the State will provide for programs for voter education, election official education and training, and poll worker training whichwill assist the State in meeting the requirements of subchapter III of this chapter.
+&emsp;(3) How the State will provide for programs for voter education, election official education and training, and poll worker training which will assist the State in meeting the requirements of subchapter III of this chapter.
 
 &emsp;(4) How the State will adopt voting system guidelines and processes which are consistent with the requirements of section 15481 of this title.
 
@@ -84,11 +84,13 @@ The State plan shall contain a description of each of the following:
 
 #### References in Text
 
-The Military and Overseas Voter Empowerment Act, referred to in subsec. (a)(14), is subtitle H (§§575–589) of title V of div. A of Pub. L. 111–84, Oct. 28, 2009, 123 Stat. 2318, which enacted sections 1973ff–2a, 1973ff–2b,1973ff–4a, and 1973ff–7 of this title and section 1566a of Title 10, Armed Forces, amended sections 1973ff to 1973ff–2, 1973ff–3, 1973ff–4, 15401, 15403, 15404, and 15407 of this title, and enacted provisions set out as notes under sections 1971 and 1973ff to 1973ff–2 of this title. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1971 of this title and Tables.
+Subchapter III of this chapter, referred to in subsec. (a)(1), (3), (6)(A), was in the original “title III”, meaning title III of Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1704, which is classified principally to subchapter III (§15481 et seq.) of this chapter. For complete classification of title III to the Code, see Tables.
 
-This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of this title and Tables.
+The Military and Overseas Voter Empowerment Act, referred to in subsec. (a)(14), is subtitle H (§§575–589) of title V of div. A of Pub. L. 111–84, Oct. 28, 2009, 123 Stat. 2318, which enacted sections 1973ff–2a, 1973ff–2b, 1973ff–4a, and 1973ff–7 of this title and section 1566a of Title 10, Armed Forces, amended sections 1973ff to 1973ff–2, 1973ff–3, 1973ff–4, 15401, 15403, 15404, and 15407 of this title, and enacted provisions set out as notes under sections 1971 and 1973ff to 1973ff–2 of this title. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1971 of this title and Tables.
+
+This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, known as the Help America Vote Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of this title and Tables.
 
 #### Amendments
 
-2009—Subsec. (a)(14). Pub. L. 111–84 added par. (14).
+<b>2009</b>—Subsec. (a)(14). Pub. L. 111–84 added par. (14).
 

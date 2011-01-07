@@ -132,7 +132,7 @@ Section 264 of the Health Insurance Portability and Accountability Act of 1996, 
 
 #### Amendments
 
-2008—Subsec. (b)(2)(A). Pub. L. 110–233, §101(a)(1), inserted “except as provided in paragraph (3)” before semicolon.
+<b>2008</b>—Subsec. (b)(2)(A). Pub. L. 110–233, §101(a)(1), inserted “except as provided in paragraph (3)” before semicolon.
 
 Subsec. (b)(3). Pub. L. 110–233, §101(a)(2), added par. (3).
 
@@ -142,5 +142,5 @@ Subsec. (f). Pub. L. 110–233, §101(c), added subsec. (f).
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–233 applicable with respect to group health plans for plan years beginning after the date that is one year after May 21, 2008, see section 101(f)(2) of Pub. L. 110–233, set out as a note under section 1132 of this title.
+Amendment by Pub. L. 110–233 applicable with respect to group health plans for plan years beginningafter the date that is one year after May 21, 2008, see section 101(f)(2) of Pub. L. 110–233, set out as a note under section 1132 of this title.
 

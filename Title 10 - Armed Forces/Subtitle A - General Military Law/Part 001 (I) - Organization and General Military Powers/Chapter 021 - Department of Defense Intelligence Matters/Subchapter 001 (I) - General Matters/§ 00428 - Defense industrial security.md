@@ -22,7 +22,7 @@ Dedication of Resources.—The Secretary shall ensure that sufficient resources 
 
 (f)
 
-Biennial Report.—The Secretary shall report biennially to the congressional defense committees on expenditures and activities of the Department of Defense in carrying out the requirements of this section. The Secretary shall submit the report at or about the same time that the President's budget is submitted pursuant to section 1105(a) of title 31, United States Code, in odd numbered years. The report shall be in an unclassified form (with a classified annex if necessary) and shall cover the activities of the Department of Defense in the preceding two fiscal years, including the following:
+Biennial Report.—The Secretary shall report biennially to the congressional defense committees on expenditures and activities of the Department of Defense in carrying out the requirements of this section. The Secretary shall submit the report at or about the same time that the President's budget is submitted pursuant to section 1105(a) of title 31 in odd numbered years. The report shall be in an unclassified form (with a classified annex if necessary) and shall cover the activities of the Department of Defense in the preceding two fiscal years, including the following:
 
 &emsp;(1) The workforce responsible for carrying out the requirements of this section, including the number and experience of such workforce; training in the performance of industrial security functions; performance metrics; and resulting assessment of overall quality.
 
@@ -36,7 +36,7 @@ Biennial Report.—The Secretary shall report biennially to the congressional de
 
 &emsp;(6) Trend data on attempts to compromise classified information disclosed to contractors of the Department of Defense to the extent that such data are available.
 
-(Added Pub. L. 110–417, \[div. A\], title VIII, §845(a)(1), Oct. 14, 2008, 122 Stat. 4541, §438; renumbered §428, Pub. L. 111–84, div. A, title X, §1073(a)(4), Oct. 28, 2009, 123 Stat. 2472.)
+(Added Pub. L. 110–417, \[div. A\], title VIII, §845(a)(1), Oct. 14, 2008, 122 Stat. 4541, §438; renumbered §428, Pub. L. 111–84, div. A, title X, §1073(a)(4), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 111–383, div. A, title X, §1075(b)(11), Jan. 7, 2011, 124 Stat. 4369.)
 
 #### References in Text
 
@@ -44,7 +44,33 @@ Executive Order 12829, referred to in subsec. (b), is set out as a note under se
 
 #### Amendments
 
-2009—Pub. L. 111–84 renumbered section 438 of this title as this section.
+<b>2011</b>—Subsec. (f). Pub. L. 111–383 struck out “, United States Code,” after “title 31”.
+
+<b>2009</b>—Pub. L. 111–84 renumbered section 438 of this title as this section.
+
+#### Requirement for Entities With Facility Clearances That Are Not Under Foreign Ownership Control or Influence Mitigation
+
+Pub. L. 111–383, div. A, title VIII, §845, Jan. 7, 2011, 124 Stat. 4285, provided that:
+
+“(a)
+
+Requirement.—The Secretary of Defense shall develop a plan to ensure that covered entities employ and maintain policies and procedures that meet requirements under the national industrial security program. In developing the plan, the Secretary shall consider whether or not covered entities, or any category of covered entities, should be required to establish government security committees similar to those required for companies that are subject to foreign ownership control or influence mitigation measures.
+
+“(b)
+
+Covered Entity.—A covered entity under this section is an entity—
+
+&emsp;“(1) to which the Department of Defense has granted a facility clearance; and
+
+&emsp;“(2) that is not subject to foreign ownership control or influence mitigation measures.
+
+“(c)
+
+Guidance.—The Secretary of Defense shall issue guidance, including appropriate compliance mechanisms, to implement the requirement in subsection (a). To the extent determined appropriate by the Secretary, the guidance shall require covered entities, or any category of covered entities, to establish government security committees similar to those required for companies that are subject to foreign ownership control or influence mitigation measures.
+
+“(d)
+
+Report.—Not later than 270 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the plan developed pursuant to subsection (a) and the guidance issued pursuant to subsection (c). The report shall specifically address the rationale for the Secretary's decision on whether or not to require covered entities, or any category of covered entities, to establish government security committees similar to those required for companies that are subject to foreign ownership control or influence mitigation measures.”
 
 #### Submission of First Biennial Report
 

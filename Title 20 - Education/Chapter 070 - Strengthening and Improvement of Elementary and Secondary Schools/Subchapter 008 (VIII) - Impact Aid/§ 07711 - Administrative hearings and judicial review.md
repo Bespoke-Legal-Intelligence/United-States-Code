@@ -26,7 +26,7 @@ Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in ef
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1814(a)(1)\], inserted “if the local educational agency or State, as the case may be, submits to the Secretary a request for the hearing not later than 60 days after the date of the action of the Secretary under this subchapter” before period at end.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1814(a)(1)\], inserted “if the local educational agency or State, as the case may be, submits to the Secretary a request for the hearing not later than 60 days after the date of the action of the Secretary under this subchapter” before period at end.
 
 Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1814(b)\], substituted “30 working days (as determined by the local educational agency or State)” for “60 days”.
 

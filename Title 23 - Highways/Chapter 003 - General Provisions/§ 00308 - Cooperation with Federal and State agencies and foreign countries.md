@@ -8,5 +8,5 @@
 
 #### Amendments
 
-1973—Subsec. (b). Pub. L. 93–87 substituted “Federal Highway Administration” for “Bureau of Public Roads” in two places.
+<b>1973</b>—Subsec. (b). Pub. L. 93–87 substituted “Federal Highway Administration” for “Bureau of Public Roads” in two places.
 

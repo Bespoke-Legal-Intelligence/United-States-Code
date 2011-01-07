@@ -38,7 +38,7 @@
 
 #### (A) Compliance with requirements
 
-&emsp;&emsp;Each grant and agreement entered into by the Secretary with any eligible applicant under paragraph (1) shall be in compliance with each requirement described in subparagraphs (B) through (F).
+&emsp;&emsp;Each grant and agreement entered into by the Secretary with any eligible applicant under paragraph (1) shall be in compliancewith each requirement described in subparagraphs (B) through (F).
 
 #### (B) Agricultural operations
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;&emsp;In calculating the non-Federal share of the cost of an infrastructure improvement or activity proposed by an eligible applicant through an application submitted by the eligible applicant under paragraph (2), the Secretary shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) consider the value of any in-kind services that substantially contributestoward the completion of the improvement or activity, as determined by the Secretary; and
+&emsp;&emsp;&emsp;&emsp;(I) consider the value of any in-kind services that substantially contributes toward the completion of the improvement or activity, as determined by the Secretary; and
 
 &emsp;&emsp;&emsp;&emsp;(II) not consider any other amount that the eligible applicant receives from a Federal agency.
 
@@ -126,5 +126,5 @@ There is authorized to be appropriated to carry out this section $200,000,000, t
 
 #### References in Text
 
-The Endangered Species Act of 1973, referred to in subsec. (a)(1)(F), (G), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(1)(F), (G), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For completeclassification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 

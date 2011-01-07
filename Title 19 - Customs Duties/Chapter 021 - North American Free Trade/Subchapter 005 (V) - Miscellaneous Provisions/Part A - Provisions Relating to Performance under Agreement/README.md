@@ -1,7 +1,5 @@
 Part A—Provisions Relating to Performance Under Agreement
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

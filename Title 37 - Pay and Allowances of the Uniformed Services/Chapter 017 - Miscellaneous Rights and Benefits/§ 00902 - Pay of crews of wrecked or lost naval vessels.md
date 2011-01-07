@@ -40,5 +40,5 @@ In subsection (c), the word “continues” is substituted for the words “go o
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–316 substituted “the Secretary of the Navy may” for “the General Accounting Office, under the direction of the Secretary of the Navy, may”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–316 substituted “the Secretary of the Navy may” for “the General Accounting Office, under the direction of the Secretary of the Navy, may”.
 

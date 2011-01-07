@@ -10,9 +10,9 @@ Another section 1592 was renumbered section 1596 of this title.
 
 #### Amendments
 
-1992—Pub. L. 102–484 inserted “section” after “established under”.
+<b>1992</b>—Pub. L. 102–484 inserted “section” after “established under”.
 
-1991—Pub. L. 102–190 inserted “(including funds in the Foreign National Employees Separation Pay Account, Defense, established under 1581 of this title)” and substituted “a contract, a treaty, or a memorandum of understanding with a foreign nation that provides for payment of separation pay” for “a contract performed in a foreign country”.
+<b>1991</b>—Pub. L. 102–190 inserted “(including funds in the Foreign National Employees Separation Pay Account, Defense, established under 1581 of this title)” and substituted “a contract, a treaty, or a memorandum of understanding with a foreign nation that provides for payment of separation pay” for “a contract performed in a foreign country”.
 
 #### Effective Date
 

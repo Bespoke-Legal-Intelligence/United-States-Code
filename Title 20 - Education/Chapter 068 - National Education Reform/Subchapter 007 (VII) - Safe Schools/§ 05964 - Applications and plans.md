@@ -24,7 +24,7 @@ In order to receive a grant under this subchapter, an eligible local educational
 
 &emsp;(10) a description of how the grantee will inform parents about the extent of crime and violence in their children's schools and maximize the participation of parents in the grantee's violence prevention activities;
 
-&emsp;(11) an assurance that grant funds under this subchapter will be used to supplement and not supplant State and local funds that would, in the absence of funds under this subchapter, be made available by the applicant for the purposes of the grant;
+&emsp;(11) an assurance that grant funds under this subchapter will be used to supplement and notsupplant State and local funds that would, in the absence of funds under this subchapter, be made available by the applicant for the purposes of the grant;
 
 &emsp;(12) an assurance that the applicant will cooperate with, and provide assistance to, the Secretary in gathering statistics and other data the Secretary determines are necessary to determine the effectiveness of projects and activities assisted under this subchapter or the extent of school violence and discipline problems throughout the Nation; and
 

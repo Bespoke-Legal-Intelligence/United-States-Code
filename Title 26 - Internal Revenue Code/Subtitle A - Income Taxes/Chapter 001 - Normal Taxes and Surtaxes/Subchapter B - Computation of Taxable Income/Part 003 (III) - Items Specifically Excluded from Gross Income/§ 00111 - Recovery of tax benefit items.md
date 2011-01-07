@@ -32,23 +32,23 @@ For purposes of this section, an increase in a carryover which has not expired b
 
 In applying subsection (a) for the purpose of determining the accumulated earnings tax under section 531 or the tax under section 541 (relating to personal holding companies)—
 
-&emsp;(1) any excluded amount under subsection (a) allowed for the purposes of this subtitle (other than section 531 or section 541) shall be allowed whether or not such amount resulted in a reduction of the tax under section 531 or the tax under section 541 for the prior taxable year; and
+&emsp;(1) any excluded amount under subsection (a) allowed for the purposes of this subtitle (other than section 531 or section 541) shall beallowed whether or not such amount resulted in a reduction of the tax under section 531 or the tax under section 541 for the prior taxable year; and
 
-&emsp;(2) where any excluded amount under subsection (a) was not allowable as a deductionfor the prior taxable year for purposes of this subtitle other than of section 531 or section 541 but was allowable for the same taxable year under section 531 or section 541, then such excluded amount shall be allowable if it did not result in a reduction of the tax under section 531 or the tax under section 541.
+&emsp;(2) where any excluded amount under subsection (a) was not allowable as a deduction for the prior taxable year for purposes of this subtitle other than of section 531 or section 541 but was allowable for the same taxable year under section 531 or section 541, then such excluded amount shall be allowable if it did not result in a reduction of the tax under section 531 or the tax under section 541.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 33; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, §2(c), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 98–369, div. A, title I, §171(a), July 18, 1984, 98 Stat. 698; Pub. L. 99–514, title XVIII, §1812(a)(1), (2), Oct. 22, 1986, 100 Stat. 2833.)
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–514, §1812(a)(1), substituted “did not reduce the amount of tax imposed by this chapter” for “did not reduce income subject to tax”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1812(a)(1), substituted “did not reduce the amount of tax imposed by this chapter” for “did not reduce income subject to tax”.
 
 Subsec. (c). Pub. L. 99–514, §1812(a)(2), substituted “reducing tax imposed by this chapter” for “reducing income subject to tax or reducing tax imposed by this chapter, as the case may be”.
 
-1984—Pub. L. 98–369 amended section generally, substituting provisions relating to recovery of tax benefit items for provisions relating to recovery of bad debts, prior taxes, and delinquency amounts.
+<b>1984</b>—Pub. L. 98–369 amended section generally, substituting provisions relating to recovery of tax benefit items for provisions relating to recovery of bad debts, prior taxes, and delinquency amounts.
 
-1980—Subsec. (d). Pub. L. 96–589 added subsec. (d).
+<b>1980</b>—Subsec. (d). Pub. L. 96–589 added subsec. (d).
 
-1976—Subsec. (b)(4). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b)(4). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 1986 Amendment
 

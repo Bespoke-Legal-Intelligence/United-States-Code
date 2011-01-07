@@ -52,7 +52,7 @@
 
 #### (8) Interim, final effect
 
-&emsp;The Secretary shall publish a rule under this subsection in the Federal Register by not later than the target date of publication. Such rule shall be effective and final immediately on an interim basis, but is subject to change and revision after public notice and opportunity for a period (of not less than 60 days) for public comment. In connection with such rule, the Secretary shall specify the process for the timely review and approval of applications of entities to be certified as provider-sponsored organizations pursuant to such rules and consistent with this subsection.
+&emsp;The Secretary shall publish a rule under this subsection in the Federal Register by not laterthan the target date of publication. Such rule shall be effective and final immediately on an interim basis, but is subject to change and revision after public notice and opportunity for a period (of not less than 60 days) for public comment. In connection with such rule, the Secretary shall specify the process for the timely review and approval of applications of entities to be certified as provider-sponsored organizations pursuant to such rules and consistent with this subsection.
 
 #### (9) Publication of rule after public comment
 
@@ -62,7 +62,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish by regulation other standards (not described in subsection\(a) of this section) for Medicare+Choice organizations and plans consistent with, and to carry out, this part. The Secretary shall publish such regulations by June 1, 1998. In order to carry out this requirement in a timely manner, the Secretary may promulgate regulations that take effect on an interim basis, after notice and pending opportunity for public comment.
+&emsp;The Secretary shall establish by regulation other standards (not described in subsection (a) of this section) for Medicare+Choice organizations and plans consistent with, and to carry out, this part. The Secretary shall publish such regulations by June 1, 1998. In order to carry out this requirement in a timely manner, the Secretary may promulgate regulations that take effect on an interim basis, after notice and pending opportunity for public comment.
 
 #### (2) Use of current standards
 
@@ -80,9 +80,9 @@
 
 #### Amendments
 
-2003—Subsec. (b)(3). Pub. L. 108–173 reenacted heading without change and amended text generally. Prior to amendment, text consisted of subpars. (A) and (B) stating general rule and listing standards specifically superseded.
+<b>2003</b>—Subsec. (b)(3). Pub. L. 108–173 reenacted heading without change and amended text generally. Prior to amendment, text consisted of subpars. (A) and (B) stating general rule and listing standards specifically superseded.
 
-2000—Subsec. (b)(3)(B)(i). Pub. L. 106–554, §1(a)(6) \[title VI, §614(a)(1)\], inserted “(including cost-sharing requirements)” after “Benefit requirements”.
+<b>2000</b>—Subsec. (b)(3)(B)(i). Pub. L. 106–554, §1(a)(6) \[title VI, §614(a)(1)\], inserted “(including cost-sharing requirements)” after “Benefit requirements”.
 
 Subsec. (b)(3)(B)(iv). Pub. L. 106–554, §1(a)(6) \[title VI, §614(a)(2)\], added cl. (iv).
 

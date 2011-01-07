@@ -90,7 +90,7 @@ The remedy for a violation of subsection (b) of this section shall be such remed
 
 #### (3) Initial period for study and corrective action
 
-&emsp;The period from January 23, 1995, until December 31, 1996, shall be available to the Office of the Architect of the Capitol and other entities subject to this section to identify any violations of subsection (b) of this section, to determine the costs of compliance, and to take any necessary corrective action to abate any violations. The Office shall assist the Office of the Architect of the Capitol and other entities listed in subsection (a) of this section by arranging for inspections and other technical assistance at their request. Prior to July 1, 1996, the General Counsel shall conduct a thorough inspection under paragraph (1) and shall submit the report under paragraph (2) for the One Hundred Fourth Congress.
+&emsp;The period from January 23, 1995, until December 31, 1996, shall be available to the Office of the Architect of the Capitol and other entities subject to this section to identify any violations of subsection (b) of this section, to determine the costs of compliance, and to take any necessary corrective action to abate any violations. The Office shall assist the Office of the Architect of the Capitol and other entities listed in subsection (a) of this section by arranging for inspections and other technical assistance at their request. Prior to July 1, 1996, the General Counsel shall conduct a thoroughinspection under paragraph (1) and shall submit the report under paragraph (2) for the One Hundred Fourth Congress.
 
 #### (4) Detailed personnel
 

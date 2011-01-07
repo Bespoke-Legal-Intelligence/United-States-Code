@@ -10,7 +10,7 @@ Whenever the Secretary determines that a State or unit of general local governme
 
 #### (c) Civil action by Attorney General
 
-When a matter is referred to the Attorney General pursuant to subsection (b) of this section, or whenever he has reason to believe that a State government or unit of general local government is engaged in a pattern or practice in violation of the provisions of this section, the Attorney General may bring a civil action in any appropriate United States district court forsuch relief as may be appropriate, including injunctive relief.
+When a matter is referred to the Attorney General pursuant to subsection (b) of this section, or whenever he has reason to believe that a State government or unit of general local government is engaged in a pattern or practice in violation of the provisions of this section, the Attorney General may bring a civil action in any appropriate United States district court for such relief as may be appropriate, including injunctive relief.
 
 #### (d) Waiver of race discrimination prohibitions regarding assistance to Hawaiian Home Lands
 
@@ -24,31 +24,33 @@ The provisions of this section and section 5304(b)(2) of this title which relate
 
 #### (2) In general
 
-&emsp;No State or unit of general local government that has a designated open forum, limited public forum, or nonpublic forum and that is a recipient of assistance under this chapter shall deny equal access or a fair opportunity to meet to, or discriminate against, any youth organization, including the Boy Scouts of America or any group officially affiliated with the Boy Scouts of America, that wishes to conduct a meeting or otherwise participate in that designated open forum, limited public forum, or nonpublic forum.
+&emsp;No State or unit of general local government that has a designated open forum, limited public forum, or nonpublic forum and that is a recipient of assistance under this chapter shall deny equal access or a fair opportunity to meet to, or discriminate against, any youth organization, including the Boy Scouts of America or any group officially affiliated with the Boy Scouts of America, that wishes toconduct a meeting or otherwise participate in that designated open forum, limited public forum, or nonpublic forum.
 
 (Pub. L. 93–383, title I, §109, Aug. 22, 1974, 88 Stat. 649; Pub. L. 97–35, title III, §306, Aug. 13, 1981, 95 Stat. 392; Pub. L. 101–625, title IX, §§911, 912(a), Nov. 28, 1990, 104 Stat. 4392; Pub. L. 109–148, div. A, title VIII, §8126(d), Dec. 30, 2005, 119 Stat. 2730; Pub. L. 109–163, div. A, title X, §1058(d), Jan. 6, 2006, 119 Stat. 3443.)
 
 #### References in Text
 
-The Age Discrimination Act of 1975, referred to in subsec. (a), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+This chapter, referred to in subsecs. (a), (b), (d), and (e)(2), was in the original “this title”, meaning title I of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Age Discrimination Act of 1975, referred to in subsec. (a), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+
+The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–163, §1058(d)(1), inserted “or (e)” after “subsection (a)” in first sentence.
+<b>2006</b>—Subsec. (b). Pub. L. 109–163, §1058(d)(1), inserted “or (e)” after “subsection (a)” in first sentence.
 
 Subsec. (e). Pub. L. 109–163, §1058(d)(2), added subsec. (e).
 
-2005—Subsec. (b). Pub. L. 109–148, §8126(d)(1), which directed amendment identical to amendment by Pub. L. 109–163, §1058(d)(1), was not executed. See 2006 Amendment note above and Reconciliation of Duplicate Enactments note below.
+<b>2005</b>—Subsec. (b). Pub. L. 109–148, §8126(d)(1), which directed amendment identical to amendment by Pub. L. 109–163, §1058(d)(1), was not executed. See 2006 Amendment note above and Reconciliation of Duplicate Enactments note below.
 
 Subsec. (e). Pub. L. 109–148, §8126(d)(2), which directed addition of subsec. (e) substantially identical to subsec. (e) added by Pub. L. 109–163, §1058(d)(2), was not executed. See 2006 Amendment note above and Reconciliation of Duplicate Enactments note below.
 
-1990—Subsec. (a). Pub. L. 101–625, §912(a), inserted “religion,” after “national origin,”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–625, §912(a), inserted “religion,” after “national origin,”.
 
 Subsec. (d). Pub. L. 101–625, §911, added subsec. (d).
 
-1981—Subsec. (a). Pub. L. 97–35 inserted provisions respecting age discrimination.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 inserted provisions respecting age discrimination.
 
 #### Effective Date of 1990 Amendment
 

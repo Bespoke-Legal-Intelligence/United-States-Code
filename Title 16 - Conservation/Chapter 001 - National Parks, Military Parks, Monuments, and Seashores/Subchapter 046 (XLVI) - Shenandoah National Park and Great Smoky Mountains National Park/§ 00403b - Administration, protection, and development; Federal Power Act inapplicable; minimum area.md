@@ -10,11 +10,11 @@ The Federal Power Act, referred to in text, was in the original the “Act appro
 
 #### Amendments
 
-1934—Act June 15, 1934, changed minimum area for Great Smoky Mountains National Park to 400,000 acres.
+<b>1934</b>—Act June 15, 1934, changed minimum area for Great Smoky Mountains National Park to 400,000 acres.
 
-1932—Act Feb. 4, 1932, changed minimum area for Shenandoah National Park to 160,000 acres.
+<b>1932</b>—Act Feb. 4, 1932, changed minimum area for Shenandoah National Park to 160,000 acres.
 
-1928—Act Feb. 16, 1928, changed minimum area for Shenandoah National Park to 327,000 acres.
+<b>1928</b>—Act Feb. 16, 1928, changed minimum area for Shenandoah National Park to 327,000 acres.
 
 #### Transfer of Functions
 

@@ -30,11 +30,11 @@ Aug. 8, 1953, ch. 393, §§6, 8 (1st and 2d sentences), 67 Stat. 504.
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–513, §511(58)(A), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513, §511(58)(A), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
 Subsecs. (b), (c). Pub. L. 96–513, §511(58)(B), redesignated subsec. (c) as (b).
 
-1972—Pub. L. 92–425, §1(2)(C), struck out “reports to Congress” in section catchline.
+<b>1972</b>—Pub. L. 92–425, §1(2)(C), struck out “reports to Congress” in section catchline.
 
 Subsec. (a). Pub. L. 92–425, §1(2)(A), substituted “subchapter” for “chapter”.
 
@@ -42,9 +42,9 @@ Subsec. (b). Pub. L. 92–425, §1(2)(C), struck out subsec. (b) which required 
 
 Subsec. (c). Pub. L. 92–425, §1(2)(A), substituted “subchapter” for “chapter”.
 
-1966—Subsec. (a). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
 
-1961—Subsec. (b). Pub. L. 87–381 required report to contain a detailed account, including an actuarial analysis, of cases in which relief is granted under sections 1436(b) and 1552 of this title, or any other statutory or administrative procedure.
+<b>1961</b>—Subsec. (b). Pub. L. 87–381 required report to contain a detailed account, including an actuarial analysis, of cases in which relief is granted under sections 1436(b) and 1552 of this title, or any other statutory or administrative procedure.
 
 #### Effective Date of 1980 Amendment
 

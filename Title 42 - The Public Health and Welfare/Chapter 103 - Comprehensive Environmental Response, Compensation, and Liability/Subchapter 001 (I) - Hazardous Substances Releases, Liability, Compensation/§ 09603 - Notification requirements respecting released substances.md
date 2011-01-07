@@ -60,21 +60,23 @@ No notification shall be required under subsection (a) or (b) of this section fo
 
 The Clean Water Act, referred to in subsec. (a), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(2), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(2), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
-The Solid Waste Disposal Act, referred to in subsecs. (c) and (f)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Solid Waste Disposal Act, referred to in subsecs. (c) and (f)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+
+This chapter, referred to in subsec. (d)(3), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (e), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
 #### Amendments
 
-1996—Subsec. (b)(2). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
-1986—Subsec. (b). Pub. L. 99–499, §§103, 109(a), adjusted left hand margin of text following “federally permitted release,” third place appearing so that there is no indentation of that text, inserted “or who submits in such a notification any information which he knows to be false or misleading”, and substituted “in accordance with the applicable provisions of title 18 or imprisoned for not more than 3 years (or not more than 5 years in the case of a second or subsequent conviction), or both” for “not more than $10,000 or imprisoned for not more than one year, or both” and “subsection” for “paragraph”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–499, §§103, 109(a), adjusted left hand margin of text following “federally permitted release,” third place appearing so that there is no indentation of that text, inserted “or who submits in such a notification any information which he knows to be false or misleading”, and substituted “in accordance with the applicable provisions of title 18 or imprisoned for not more than 3 years (or not more than 5 years in the case of a second or subsequent conviction), or both” for “not more than $10,000 or imprisoned for not more than one year, or both” and “subsection” for “paragraph”.
 
 Subsec. (d)(2). Pub. L. 99–499, §109(a)(2), substituted “in accordance with the applicable provisions of title 18 or imprisoned for not more than 3 years (or not more than 5 years in the case of a second or subsequent conviction), or both” for “not more than $20,000, or imprisoned for not more than one year, or both” as the probable intent of Congress, notwithstanding directory language that the substitution be made for “not more than $20,000, or imprisoned for not more than one year or both”.
 
-1980—Subsec. (b)(2). Pub. L. 96–561 substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
+<b>1980</b>—Subsec. (b)(2). Pub. L. 96–561 substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
 
 #### Effective Date of 1996 Amendment
 

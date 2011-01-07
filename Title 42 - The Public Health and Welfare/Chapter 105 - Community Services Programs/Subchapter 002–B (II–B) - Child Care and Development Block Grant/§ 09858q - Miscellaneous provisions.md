@@ -6,7 +6,7 @@ Notwithstanding any other law, the value of any child care provided or arranged 
 
 #### Amendments
 
-1993—Pub. L. 103–171 made technical correction to directory language of Pub. L. 102–586, §8(b), which added this section.
+<b>1993</b>—Pub. L. 103–171 made technical correction to directory language of Pub. L. 102–586, §8(b), which added this section.
 
 #### Effective Date
 

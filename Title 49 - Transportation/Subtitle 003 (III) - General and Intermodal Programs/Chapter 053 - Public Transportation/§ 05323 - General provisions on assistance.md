@@ -168,7 +168,7 @@ Buy America.—(1) The Secretary of Transportation may obligate an amount that m
 
 (3)
 
-Written justification for public interest waiver.—When issuing a waiver based on a public interest determination under paragraph (2)(A), the Secretary shall issue a detailed written justification as to why the waiver is in the public interest. The Secretary shall publish suchjustification in the Federal Register and provide the public with a reasonable period of time for notice and comment.
+Written justification for public interest waiver.—When issuing a waiver based on a public interest determination under paragraph (2)(A), the Secretary shall issue a detailed written justification as to why the waiver is in the public interest. The Secretary shall publish such justification in the Federal Register and provide the public with a reasonable period of time for notice and comment.
 
 (4) In this subsection, labor costs involved in final assembly are not included in calculating the cost of components.
 
@@ -176,7 +176,7 @@ Written justification for public interest waiver.—When issuing a waiver based 
 
 &emsp;(A) has an agreement with the United States Government under which the Secretary has waived the requirement of this subsection; and
 
-&emsp;(B) has violated the agreement by discriminating against goods to which this subsection applies that are produced in the United States and to which the agreement applies.
+&emsp;(B) has violated the agreement by discriminating against goods to which this subsectionapplies that are produced in the United States and to which the agreement applies.
 
 (6) A person is ineligible under subpart 9.4 of chapter 1 of title 48, Code of Federal Regulations, to receive a contract or subcontract made with amounts authorized under the Federal Public Transportation Act of 2005 if a court or department, agency, or instrumentality of the Government decides the person intentionally—
 
@@ -230,7 +230,7 @@ Alternative Fueling Facilities.—A recipient of assistance under this chapter m
 
 &emsp;(4) private entities pay all applicable excise taxes on fuel.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 821; Pub. L. 103–429, §6(10), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–287, §5(15), Oct. 11, 1996, 110Stat. 3390; Pub. L. 105–178, title III, §3020, June 9, 1998, 112 Stat. 362; Pub. L. 109–59, title III, §§3002(b)(4), 3023(a)–(i)(3), (j)–(m), Aug. 10, 2005, 119 Stat. 1545, 1615–1619; Pub. L. 110–244, title II, §201(j), June 6, 2008, 122 Stat. 1611.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 821; Pub. L. 103–429, §6(10), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–287, §5(15), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3020, June 9, 1998, 112 Stat. 362; Pub. L. 109–59, title III, §§3002(b)(4), 3023(a)–(i)(3), (j)–(m), Aug. 10, 2005, 119 Stat. 1545, 1615–1619; Pub. L. 110–244, title II, §201(j), June 6, 2008, 122 Stat. 1611.)
 
 Historical and Revision Notes
 
@@ -370,7 +370,7 @@ In subsection (d)(2), the words “alleged”, “take appropriate action to”,
 
 In subsection (e), the words “This subsection shall apply to” and “which is acquiring such buses” are omitted as surplus. The words “occurring on or after November 6, 1978” are omitted as executed. The words “In the case of” are omitted as surplus. The words “may include” are substituted for “the Secretary shall permit . . . to provide in advertising for bids for” to eliminate unnecessary words.
 
-In subsection (f)(1), before clause (A), the words “for use in providing public”, “to any applicant for such assistance”, and “and the Secretary” are omitted as surplus. The word “agrees” is substituted for “shall havefirst entered into an agreement that such applicant” to eliminate unnecessary words. In clause (A), the words “with respect to operation of a schoolbus program” are omitted as surplus.
+In subsection (f)(1), before clause (A), the words “for use in providing public”, “to any applicant for such assistance”, and “and the Secretary” are omitted as surplus. The word “agrees” is substituted for “shall have first entered into an agreement that such applicant” to eliminate unnecessary words. In clause (A), the words “with respect to operation of a schoolbus program” are omitted as surplus.
 
 Subsection (g) is substituted for 49 App.:1602a to eliminate unnecessary words.
 
@@ -378,7 +378,7 @@ In subsection (j), the word “goods” is substituted for “products” for co
 
 In subsection (j)(1), the words “Notwithstanding any other provision of law” are omitted as surplus.
 
-In subsection (j)(2), before clause (A), the words “The Secretary of Transportation may waive” are substituted for “shall not apply” for clarity. In clause (B), the words “steel, iron, and goods” are substituted for “materials and products” for consistency. In clause (C), before subclause (i), the words “bus and other” are omitted as surplus. In subclauses (i) and (ii), the words “rolling stock” are substituted for “vehicle or equipment” for consistency. In clause (D), the word “contract” is omitted as surplus.
+In subsection (j)(2), before clause (A), the words “The Secretary of Transportation may waive” are substituted for “shall not apply” for clarity. In clause (B), the words “steel, iron, and goods” are substituted for“materials and products” for consistency. In clause (C), before subclause (i), the words “bus and other” are omitted as surplus. In subclauses (i) and (ii), the words “rolling stock” are substituted for “vehicle or equipment” for consistency. In clause (D), the word “contract” is omitted as surplus.
 
 In subsection (j)(4), before clause (A), the words “The Secretary of Transportation may not make a waiver under” are substituted for “shall not apply” for clarity. The words “government of a foreign country” are substituted for “foreign country”, and the word “Government” is added, for consistency in the revised title and with other titles of the United States Code.
 
@@ -422,9 +422,9 @@ The Federal Public Transportation Act of 2005, referred to in subsec. (j)(6), is
 
 #### Amendments
 
-2008—Subsec. (n). Pub. L. 110–244 substituted “section 5336(d)(2)” for “section 5336(e)(2)”.
+<b>2008</b>—Subsec. (n). Pub. L. 110–244 substituted “section 5336(d)(2)” for “section 5336(e)(2)”.
 
-2005—Subsec. (a)(1). Pub. L. 109–59, §3023(a)(1), inserted heading and text of par. (1) and struck out former par. (1) which authorized use of financial assistance provided under this chapter for certain purposes only if the Secretary finds the assistance is essential to a program of projects required under sections 5303–5306 of this title, the Secretary finds that the program, to the maximum extent feasible, provides for the participation of private companies, just compensation will be paid to the company for its franchise or property, and the Secretary of Labor certifies that the assistance complies with section 5333(b) of this title.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §3023(a)(1), inserted heading and text of par. (1) and struck out former par. (1) which authorized use of financial assistance provided under this chapter for certain purposes only if the Secretary finds the assistance is essential to a program of projects required under sections 5303–5306 of this title, the Secretary finds that the program, to the maximum extent feasible, provides for the participation of private companies, just compensation will be paid to the company for its franchise or property, and the Secretary of Labor certifies that the assistance complies with section 5333(b) of this title.
 
 Subsec. (a)(2). Pub. L. 109–59, §3023(a)(2), inserted heading.
 
@@ -460,13 +460,13 @@ Subsec. (j)(9). Pub. L. 109–59, §3023(i)(3), added par. (9).
 
 Subsec. (<i>l</i>). Pub. L. 109–59, §3023(j), amended heading and text of subsec. (<i>l</i>) generally. Prior to amendment, text read as follows: “The planning and programming requirements of section 135 of title 23 apply to a grant made under sections 5307–5311 of this title.”
 
-Subsec. (m). Pub. L. 109–59, §3023(k), inserted at end “Rolling stock procurements of 20 vehicles or fewer made for the purpose of serving other than urbanized areas and urbanized areas with populations of 200,000 or fewer shall be subject to the same requirements as established for procurements of 10 or fewer buses under the post-delivery purchaser's requirements certification process under section 663.37(c) of title 49, Code of Federal Regulations.”
+Subsec. (m). Pub. L. 109–59, §3023(k), inserted at end “Rolling stock procurements of 20 vehicles or fewermade for the purpose of serving other than urbanized areas and urbanized areas with populations of 200,000 or fewer shall be subject to the same requirements as established for procurements of 10 or fewer buses under the post-delivery purchaser's requirements certification process under section 663.37(c) of title 49, Code of Federal Regulations.”
 
 Subsec. (<i>o</i>). Pub. L. 109–59, §3023(<i>l</i>), substituted “chapter 6 (other than section 609) of title 23” for “the Transportation Infrastructure Finance and Innovation Act of 1998”.
 
 Subsec. (p). Pub. L. 109–59, §3023(m), added subsec. (p).
 
-1998—Subsec. (d). Pub. L. 105–178, §3020(a), substituted “Condition on Charter Bus Transportation Service” for “Buying and Operating Buses” in heading.
+<b>1998</b>—Subsec. (d). Pub. L. 105–178, §3020(a), substituted “Condition on Charter Bus Transportation Service” for “Buying and Operating Buses” in heading.
 
 Subsec. (i). Pub. L. 105–178, §3020(c), amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: “A Government grant for a project to be assisted under this chapter that involves acquiring vehicle-related equipment required by the Clean Air Act (42 U.S.C. 7401 et seq.) or the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) is for 90 percent of the net project cost of the equipment that is attributable to complying with those Acts. The Secretary of Transportation, through practicable administrative procedures, may determine the costs attributable to that equipment.”
 
@@ -478,9 +478,9 @@ Subsec. (n). Pub. L. 105–178, §3020(e), added subsec. (n).
 
 Subsec. (<i>o</i>). Pub. L. 105–178, §3020(f), added subsec. (<i>o</i>).
 
-1996—Subsecs. (b)(1), (c), (e). Pub. L. 104–287 struck out “(except section 5307)” after “under this chapter”.
+<b>1996</b>—Subsecs. (b)(1), (c), (e). Pub. L. 104–287 struck out “(except section 5307)” after “under this chapter”.
 
-1994—Subsec. (j). Pub. L. 103–429, §6(10)(A), substituted “America” for “American” in heading.
+<b>1994</b>—Subsec. (j). Pub. L. 103–429, §6(10)(A), substituted “America” for “American” in heading.
 
 Subsec. (<i>l</i>). Pub. L. 103–429, §6(10)(B), added subsec. (<i>l</i>).
 

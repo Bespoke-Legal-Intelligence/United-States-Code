@@ -42,7 +42,7 @@ Functions.—Subject to the provisions of this chapter, the functions of the Cop
 
 &emsp;&emsp;(C) In the event of any change in the rules and regulations of the Federal Communications Commission with respect to syndicated and sports program exclusivity after April 15, 1976, the rates established by section 111(d)(1)(B) may be adjusted to assure that such rates are reasonable in light of the changes to such rules and regulations, but any such adjustment shall apply only to the affected television broadcast signals carried on those systems affected by the change.
 
-&emsp;&emsp;(D) The gross receipts limitations established by section 111(d)(1)(C) and (D) shall be adjusted to reflect national monetary inflation or deflation or changes in the average rates charged cable system subscribers for the basic service of providing secondary transmissions to maintain the real constant dollar value of the exemption provided by such section, and the royalty rate specified therein shall not be subject to adjustment.
+&emsp;&emsp;(D) The gross receipts limitations established by section 111(d)(1)(C) and (D) <sup>1</sup> shall be adjusted to reflect national monetary inflation or deflation or changes in the average rates charged cable system subscribers for the basic service of providing secondary transmissions to maintain the real constant dollar value of the exemption provided by such section, and the royalty rate specified therein shall not be subject to adjustment.
 
 &emsp;(3)(A) To authorize the distribution, under sections 111, 119, and 1007, of those royalty fees collected under sections 111, 119, and 1005, as the case may be, to the extent that the Copyright Royalty Judges have found that the distribution of such fees is not subject to controversy.
 
@@ -92,21 +92,23 @@ Location in Library of Congress.—The offices of the Copyright Royalty Judges a
 
 (f)
 
-Effective Date of Actions.—On and after the date of the enactment of the Copyright Royalty and Distribution Reform Act of 2004, in anycase in which time limits are prescribed under this title for performance of an action with or by the Copyright Royalty Judges, and in which the last day of the prescribed period falls on a Saturday, Sunday, holiday, or other nonbusiness day within the District of Columbia or the Federal Government, the action may be taken on the next succeeding business day, and is effective as of the date when the period expired.
+Effective Date of Actions.—On and after the date of the enactment of the Copyright Royalty and Distribution Reform Act of 2004, in any case in which time limits are prescribed under this title for performance of an action with or by the Copyright Royalty Judges, and in which the last day of the prescribed period falls on a Saturday, Sunday, holiday, or other nonbusiness day within the District of Columbia or the Federal Government, the action may be taken on the next succeeding business day, and is effective as of the date when the period expired.
 
 (Added Pub. L. 108–419, §3(a), Nov. 30, 2004, 118 Stat. 2341; amended Pub. L. 109–303, §§3(1), (2), 5, Oct. 6, 2006, 120 Stat. 1478, 1483.)
 
 #### References in Text
 
+Section 111(d)(1)(D) of this title, referred to in subsec. (b)(2)(D), was amended generally by Pub. L. 111–175, title I, §104(c)(1)(C), May 27, 2010, 124 Stat. 1232, and, as so amended, no longer relates to gross receipts limitations.
+
 The date of the enactment of the Copyright Royalty and Distribution Reform Act of 2004, referred to in subsec. (f), is the date of the enactment of Pub. L. 108–419, which was approved Nov. 30, 2004.
 
 #### Prior Provisions
 
-A prior section 801, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2594; Pub. L. 99–397, §2(c), (d), Aug. 27, 1986, 100 Stat. 848; Pub. L. 100–568, §11(1), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, §202(4), Nov. 16, 1988, 102 Stat. 3958; Pub. L. 101–318, §3(b), July 3, 1990, 104 Stat. 288; Pub. L. 102–563, §3(a)(1), Oct. 28, 1992, 106 Stat. 4247; Pub. L. 103–198, §2(a), Dec. 17, 1993, 107 Stat. 2304; Pub. L. 104–39, §5(d)(1), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §§8(a), 12(a)(19), Nov. 13, 1997, 111 Stat. 1533, 1535; Pub. L. 105–304, title IV, §405(e)(1), Oct. 28, 1998, 112 Stat. 2902, related to the establishment and purpose of copyright arbitration royalty panels, prior to the general amendment of this chapter by Pub. L. 108–419.
+A prior section 801, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2594; Pub. L. 99–397, §2(c), (d), Aug. 27, 1986, 100 Stat. 848; Pub. L. 100–568, §11(1), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, §202(4), Nov. 16, 1988, 102 Stat. 3958; Pub. L. 101–318, §3(b), July 3, 1990, 104 Stat. 288; Pub. L. 102–563, §3(a)(1), Oct. 28, 1992, 106 Stat. 4247; Pub. L. 103–198, §2(a), Dec. 17, 1993, 107 Stat.2304; Pub. L. 104–39, §5(d)(1), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §§8(a), 12(a)(19), Nov. 13, 1997, 111 Stat. 1533, 1535; Pub. L. 105–304, title IV, §405(e)(1), Oct. 28, 1998, 112 Stat. 2902, related to the establishment and purpose of copyright arbitration royalty panels, prior to the general amendment of this chapter by Pub. L. 108–419.
 
 #### Amendments
 
-2006—Subsec. (b)(1). Pub. L. 109–303, §3(1), substituted “119, and 1004” for “119 and 1004”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–303, §3(1), substituted “119, and 1004” for “119 and 1004”.
 
 Subsec. (b)(3)(C). Pub. L. 109–303, §5(1), added introductory provisions and struck out former introductory provisions which read as follows: “The Copyright Royalty Judges may make a partial distribution of such fees during the pendency of the proceeding under subparagraph (B) if all participants under section 803(b)(2) in the proceeding that are entitled to receive those fees that are to be partially distributed—”.
 
@@ -144,9 +146,11 @@ Pending proceedings.—Notwithstanding paragraph (1), any proceedings to establi
 
 &emsp;“(4)
 
-Interim proceedings.—Notwithstanding subsection (a), as soon as practicable after the date of enactment of this Act, the Copyright Royalty Judges or interim Copyright Royalty Judges shall publish the notice described in section 803(b)(1)(A) of title 17, United States Code, as amended by this Act, to initiate a proceeding to establish or adjust rates andterms for the statutory licenses under section 114(f)(2) or 112(e) of title 17, United States Code, for new subscription services and eligible nonsubscription services for the period commencing January 1, 2006. The Copyright Royalty Judges or Interim Copyright Royalty Judges are authorized to cause that proceeding to take place as provided in subsection (b) of section 803 of that title within the time periods set forth in that subsection. Notwithstanding section 803(c)(1) of that title, the Copyright Royalty Judges shall not be required to issue their determination in that proceeding before the expiration of the statutory rates and terms in effect on December 31, 2004.
+Interim proceedings.—Notwithstanding subsection (a), as soon as practicable after the date of enactment of this Act, the Copyright Royalty Judges or interim Copyright Royalty Judges shall publish the notice described in section 803(b)(1)(A) of title 17, United States Code, as amended by this Act, to initiate a proceeding to establish or adjust rates and terms for the statutory licenses under section 114(f)(2) or 112(e) of title 17, United States Code, for new subscription services and eligible nonsubscription services for the period commencing January 1, 2006. The Copyright Royalty Judges or Interim Copyright Royalty Judges are authorized to cause that proceeding to take place as provided in subsection (b) of section 803 of that title within the time periods set forth in that subsection. Notwithstanding section 803(c)(1) of that title, the Copyright Royalty Judges shall not be required to issue their determination in that proceeding before the expiration of the statutory rates and terms in effect on December 31, 2004.
 
 “(c)
 
 Existing Appropriations.—Any funds made available in an appropriations Act to carry out chapter 8 of title 17, United States Code, shall be available to the extent necessary to carry out this section.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

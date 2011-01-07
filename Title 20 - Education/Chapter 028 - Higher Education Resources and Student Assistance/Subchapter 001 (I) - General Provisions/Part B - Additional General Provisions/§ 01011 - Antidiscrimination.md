@@ -6,17 +6,15 @@ Institutions of higher education receiving Federal financial assistance may not 
 
 #### (b) Limitations on statutory construction
 
-Nothing in this chapter shall be construed to limit the rights or responsibilities of any individual under the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\], the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], or any other law.
+Nothing in this chapter and part C of subchapter I of chapter 34 of title 42 shall be construed to limit the rights or responsibilities of any individual under the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\], the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], or any other law.
 
 (Pub. L. 89–329, title I, §111, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1590; amended Pub. L. 111–39, title I, §101(b)(2), July 1, 2009, 123 Stat. 1935.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
-
-The Rehabilitation Act of 1973, referred to in subsec. (b), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (b), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 #### Prior Provisions
 
@@ -32,9 +30,9 @@ Another prior section 1011, Pub. L. 89–329, title I, §114, formerly §111, No
 
 #### Amendments
 
-2009—Subsec. (b). Pub. L. 111–39 substituted “with” for “With”.
+<b>2009</b>—Subsec. (b). Pub. L. 111–39 substituted “with” for “With”.
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14,2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

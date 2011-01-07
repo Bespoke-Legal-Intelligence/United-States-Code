@@ -6,7 +6,7 @@ The Secretary of the Interior is authorized to cooperate with the States, throug
 
 #### Transfer of Functions
 
-Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees,transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 #### Short Title of 2000 Amendment
 
@@ -36,7 +36,7 @@ Purposes.—The purposes of this section \[amending sections 669a, 669b, 669c, 6
 
 &emsp;“(2) to assure sound conservation policies through the development, revision, and implementation of a comprehensive wildlife conservation and restoration plan;
 
-&emsp;“(3) to encourage State fish and wildlife agencies to participate with the Federal Government, other State agencies, wildlife conservation organizations and outdoor recreation and conservation interests through cooperative planning and implementation of this title \[enacting section 1356a of Title 43, Public Lands, amending sections 669a, 669b, 669c, 669g, and 4406 of this title, and enacting provisions set out as notes under this section\]; and
+&emsp;“(3) to encourage State fish and wildlife agencies to participate with the Federal Government, other State agencies, wildlife conservation organizations and outdoor recreation and conservation interests through cooperative planning and implementation of this title \[enacting section 1356a of Title 43, Public Lands, amending sections 669a, 669b, 669c, 669g, and4406 of this title, and enacting provisions set out as notes under this section\]; and
 
 &emsp;“(4) to encourage State fish and wildlife agencies to provide for public involvement in the process of development and implementation of a wildlife conservation and restoration program.
 

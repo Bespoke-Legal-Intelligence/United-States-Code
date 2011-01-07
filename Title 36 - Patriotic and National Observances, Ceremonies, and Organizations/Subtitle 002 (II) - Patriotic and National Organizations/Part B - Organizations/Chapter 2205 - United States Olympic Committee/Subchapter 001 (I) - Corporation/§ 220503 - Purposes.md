@@ -58,7 +58,7 @@ In clause (4), the word “competition” is omitted as included in “each even
 
 #### Amendments
 
-1998—Pars. (3), (4). Pub. L. 105–277, §142(d)(1), substituted “Olympic Games, the Paralympic Games” for “Olympic Games” wherever appearing.
+<b>1998</b>—Pars. (3), (4). Pub. L. 105–277, §142(d)(1), substituted “Olympic Games, the Paralympic Games” for “Olympic Games” wherever appearing.
 
 Par. (13). Pub. L. 105–277, §142(d)(2), added par. (13) and struck out former par. (13) which read as follows: “to encourage and provide assistance to amateur athletic programs and competition for individuals with disabilities, including, where feasible, the expansion of opportunities for meaningful participation by individuals with disabilities in programs of athletic competition for able-bodied individuals; and”.
 

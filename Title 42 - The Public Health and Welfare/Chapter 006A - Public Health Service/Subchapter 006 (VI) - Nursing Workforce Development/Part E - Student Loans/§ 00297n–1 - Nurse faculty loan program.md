@@ -1,8 +1,8 @@
 ### §297n–1. Nurse faculty loan program
 
-#### (a) Establishment
+#### (a) School of nursing student loan fund
 
-The Secretary, acting through the Administrator of the Health Resources and Services Administration, may enter into an agreement with any school of nursing for the establishment and operation of a student loan fund in accordance with this section, to increase the number of qualified nursing faculty.
+The Secretary, acting through the Administrator of the Health Resources and Services Administration, may enter into an agreement with any accredited school of nursing for the establishment and operation of a student loan fund in accordance with this section, to increase the number of qualified nursing faculty.
 
 #### (b) Agreements
 
@@ -32,13 +32,13 @@ Loans from any student loan fund established by a school pursuant to an agreemen
 
 &emsp;(1) such terms and conditions are subject to any conditions, limitations, and requirements prescribed by the Secretary;
 
-&emsp;(2) in the case of any individual, the total of the loans for any academic year made by schools of nursing from loan funds established pursuant to agreements under subsection (a) of this section may not exceed $30,000, plus any amount determined by the Secretary on an annual basis to reflect inflation;
+&emsp;(2) in the case of any individual, the total of the loans for any academic year made by schools of nursing from loan funds established pursuant to agreements under subsection (a) of this section may not exceed $35,500,<sup>1</sup> during fiscal years 2010 and 2011 fiscal years <sup>2</sup> (after fiscal year 2011, such amounts shall be adjusted to provide for a cost-of-attendance increase for the yearly loan rate and the aggregate loan; <sup>3</sup>
 
 &emsp;(3) an amount up to 85 percent of any such loan (plus interest thereon) shall be canceled by the school as follows:
 
-&emsp;&emsp;(A) upon completion by the individual of each of the first, second, and third year of full-time employment, required by the loan agreement entered into under this subsection, as a faculty member in a school of nursing, the school shall cancel 20 percent of the principle of, and the interest on, the amount of such loan unpaid on the first day of such employment; and
+&emsp;&emsp;(A) upon completion by the individual of each of the first, second, and third year of full-time employment, required by the loan agreement entered into under this subsection, as a faculty member in an accredited a <sup>4</sup> school of nursing, the school shall cancel 20 percent of the principle <sup>5</sup> of, and the interest on, the amount of such loan unpaid on the first day of such employment; and
 
-&emsp;&emsp;(B) upon completion by the individual of the fourth year of full-time employment, required by the loan agreement entered into under this subsection, as a faculty member in a school of nursing, the school shall cancel 25 percent of the principle of, and the interest on, the amount of such loan unpaid on the first day of such employment;
+&emsp;&emsp;(B) upon completion by the individual of the fourth year of full-time employment, required by the loan agreement entered into under this subsection, as a faculty member in a school of nursing, the school shall cancel 25 percent of the principle <sup>5</sup> of, and the interest on, the amount of such loan unpaid on the first day of such employment;
 
 &emsp;(4) such a loan may be used to pay the cost of tuition, fees, books, laboratory expenses, and other reasonable education expenses;
 
@@ -56,11 +56,33 @@ Where all or any part of a loan, or interest, is canceled under this section, th
 
 #### (e) Review by Secretary
 
-At the request of the individual involved, the Secretary may review any determination by a school of nursing under subsection (c)(6)(B) of this section.
+At the request of the individual involved, the Secretary may review any determination by an accredited school of nursing under subsection (c)(6)(B) of this section.
 
 #### (f) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2003 through 2007.
+There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2014.
 
-(July 1, 1944, ch. 373, title VIII, §846A, as added Pub. L. 107–205, title II, §203, Aug. 1, 2002, 116 Stat. 817.)
+(July 1, 1944, ch. 373, title VIII, §846A, as added Pub. L. 107–205, title II, §203, Aug. 1, 2002, 116Stat. 817; amended Pub. L. 111–148, title V, §5311(a), Mar. 23, 2010, 124 Stat. 631.)
+
+#### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–148, §5311(a)(1), substituted “School of nursing student loan fund” for “Establishment” in heading and inserted “accredited” before “school” in text.
+
+Subsec. (c)(2). Pub. L. 111–148, §5311(a)(2)(A), substituted “$35,500, during fiscal years 2010 and 2011 fiscal years (after fiscal year 2011, such amounts shall be adjusted to provide for a cost-of-attendance increase for the yearly loan rate and the aggregate loan;” for “$30,000, plus any amount determined by the Secretary on an annual basis to reflect inflation;”.
+
+Subsec. (c)(3)(A). Pub. L. 111–148, §5311(a)(2)(B), inserted “an accredited” before “a school of nursing”.
+
+Subsec. (e). Pub. L. 111–148, §5311(a)(3), substituted “an accredited school” for “a school”.
+
+Subsec. (f). Pub. L. 111–148, §5311(a)(4), substituted “2010 through 2014” for “2003 through 2007”.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> So in original. A closing parenthesis probably should appear before the semicolon.</i>
+
+<i><sup>4</sup></i><i> So in original. The word “a” probably should not appear.</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be “principal”.</i>
 

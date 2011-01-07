@@ -6,7 +6,7 @@ Whenever it shall appear to the Commission, either upon complaint or otherwise, 
 
 #### (b) Action for injunction or criminal prosecution in district court
 
-Whenever it shall appear to the Commission that any person is engaged or about to engage in any acts or practices which constitute or will constitute a violation of the provisions of this subchapter, or of any rule or regulation prescribed under authority thereof, the Commission may, in its discretion, bring an action in any district court of the United States, or United States court of any Territory, to enjoin such acts or practices, and upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond. The Commission may transmit such evidence as maybe available concerning such acts or practices to the Attorney General who may, in his discretion, institute the necessary criminal proceedings under this subchapter. Any such criminal proceeding may be brought either in the district wherein the transmittal of the prospectus or security complained of begins, or in the district wherein such prospectus or security is received.
+Whenever it shall appear to the Commission that any person is engaged or about to engage in any acts or practices which constitute or will constitute a violation of the provisions of this subchapter, or of any rule or regulation prescribed under authority thereof, the Commission may, in its discretion, bring an action in any district court of the United States, or United States court of any Territory, to enjoin such acts or practices, and upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond. The Commission may transmit such evidence as may be available concerning such acts or practices to the Attorney General who may, in his discretion, institute the necessary criminal proceedings under this subchapter. Any such criminal proceeding may be brought either in the district wherein the transmittal of the prospectus or security complained of begins, or in the district wherein such prospectus or security is received.
 
 #### (c) Writ of mandamus
 
@@ -22,7 +22,7 @@ Upon application of the Commission, the district courts of the United States and
 
 #### (A) First tier
 
-&emsp;&emsp;The amount of the penalty shall be determined by the court in light of the facts and circumstances. For each violation, the amount of the penalty shall not exceed the greater of (i) $5,000 for a natural person or $50,000 for any other person, or (ii) the gross amount of pecuniary gain to such defendant as a result of the violation.
+&emsp;&emsp;The amount of the penalty shall be determined by the court in light of the facts andcircumstances. For each violation, the amount of the penalty shall not exceed the greater of (i) $5,000 for a natural person or $50,000 for any other person, or (ii) the gross amount of pecuniary gain to such defendant as a result of the violation.
 
 #### (B) Second tier
 
@@ -40,7 +40,7 @@ Upon application of the Commission, the district courts of the United States and
 
 #### (A) Payment of penalty to Treasury
 
-&emsp;&emsp;A penalty imposed under this section shall be payable into the Treasury of the United States, except as otherwise provided in section 7246 of this title.
+&emsp;&emsp;A penalty imposed under this section shall be payable into the Treasury of the United States, except as otherwise provided in section 7246 of this title and section 78u–6 of this title.
 
 #### (B) Collection of penalties
 
@@ -70,29 +70,35 @@ Except as otherwise ordered by the court upon motion by the Commission, or, in t
 
 #### (1) In general
 
-&emsp;In any proceeding under subsection (a) of this section against any person participating in, or, at the time of the alleged misconduct,who was participating in, an offering of penny stock, the court may prohibit that person from participating in an offering of penny stock, conditionally or unconditionally, and permanently or for such period of time as the court shall determine.
+&emsp;In any proceeding under subsection (a) of this section against any person participating in, or, at the time of the alleged misconduct, who was participating in, an offering of penny stock, the court may prohibit that person from participating in an offering of penny stock, conditionally or unconditionally, and permanently or for such period of time as the court shall determine.
 
 #### (2) Definition
 
 &emsp;For purposes of this subsection, the term “person participating in an offering of penny stock” includes any person engaging in activities with a broker, dealer, or issuer for purposes of issuing, trading, or inducing or attempting to induce the purchase or sale of, any penny stock. The Commission may, by rule or regulation, define such term to include other activities, and may, by rule, regulation, or order, exempt any person or class of persons, in whole or in part, conditionally or unconditionally, from inclusion in such term.
 
-(May 27, 1933, ch. 38, title I, §20, 48 Stat. 86; Pub. L. 100–181, title II, §208, Dec. 4, 1987, 101 Stat. 1253; Pub. L. 101–429, title I, §101, Oct. 15, 1990, 104 Stat. 932; Pub. L. 104–67, title I, §103(b)(1), Dec. 22, 1995, 109 Stat. 756; Pub. L. 107–204, title III, §§305(a)(2), 308(d)(3), title VI, §603(b), July 30, 2002, 116 Stat. 779, 785, 795.)
+(May 27, 1933, ch. 38, title I, §20, 48 Stat. 86; Pub. L. 100–181, title II, §208, Dec. 4, 1987, 101 Stat. 1253; Pub. L. 101–429, title I, §101, Oct. 15, 1990, 104 Stat. 932; Pub. L. 104–67, title I, §103(b)(1), Dec. 22, 1995, 109 Stat. 756; Pub. L. 107–204, title III, §§305(a)(2), 308(d)(3), title VI, §603(b), July 30, 2002, 116 Stat. 779, 785, 795; Pub. L. 111–203, title IX, §923(a)(1), July 21, 2010, 124 Stat. 1849.)
 
 #### Amendments
 
-2002—Subsec. (d)(3)(A). Pub. L. 107–204, §308(d)(3), inserted “, except as otherwise provided in section 7246 of this title” before period at end.
+<b>2010</b>—Subsec. (d)(3)(A). Pub. L. 111–203 inserted “and section 78u–6 of this title” after “section 7246 of this title”.
+
+<b>2002</b>—Subsec. (d)(3)(A). Pub. L. 107–204, §308(d)(3), inserted “, except as otherwise provided in section 7246 of this title” before period at end.
 
 Subsec. (e). Pub. L. 107–204, §305(a)(2), substituted “unfitness” for “substantial unfitness”.
 
 Subsec. (g). Pub. L. 107–204, §603(b), added subsec. (g).
 
-1995—Subsec. (f). Pub. L. 104–67 added subsec. (f).
+<b>1995</b>—Subsec. (f). Pub. L. 104–67 added subsec. (f).
 
-1990—Subsecs. (d), (e). Pub. L. 101–429 added subsecs. (d) and (e).
+<b>1990</b>—Subsecs. (d), (e). Pub. L. 101–429 added subsecs. (d) and (e).
 
-1987—Subsec. (b). Pub. L. 100–181, §208(a), inserted first sentence and struck out former first sentence containing similar provisions.
+<b>1987</b>—Subsec. (b). Pub. L. 100–181, §208(a), inserted first sentence and struck out former first sentence containing similar provisions.
 
 Subsec. (c). Pub. L. 100–181, §208(b), amended subsec. (c) generally.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date of 1995 Amendment
 

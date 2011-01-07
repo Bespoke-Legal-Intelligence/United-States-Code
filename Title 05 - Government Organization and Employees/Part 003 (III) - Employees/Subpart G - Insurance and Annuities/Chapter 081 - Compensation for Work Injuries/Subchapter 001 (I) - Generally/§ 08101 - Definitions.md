@@ -264,7 +264,7 @@ Section 28(a) of Pub. L. 93–416 provided that: “Except as otherwise provided
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–534, §1, Nov. 7, 1990, 104 Stat. 2352, provided that: “This Act \[amending section 8111 of this title and enacting provisions set out as a note under section 8111 of this title\] may be cited as the ‘Attendant Allowance Adjustment Act’.”
+Pub. L. 101–534, §1, Nov. 7, 1990, 104 Stat. 2352, provided that: “This Act \[amending section 8111 of thistitle and enacting provisions set out as a note under section 8111 of this title\] may be cited as the ‘Attendant Allowance Adjustment Act’.”
 
 #### Transfer of Functions
 

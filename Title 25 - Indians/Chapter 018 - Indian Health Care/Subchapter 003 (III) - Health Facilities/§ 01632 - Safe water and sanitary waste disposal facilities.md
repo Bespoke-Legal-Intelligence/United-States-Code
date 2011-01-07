@@ -106,21 +106,21 @@ Programs administered by Indian tribes or tribal organizations under the authori
 
 #### References in Text
 
-The Housing and Community Development Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–383,Aug. 22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
 
 The Indian Self-Determination Act, referred to in subsecs. (f) and (g)(2), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Amendments
 
-1992—Subsec. (e). Pub. L. 102–573, §302(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The provisions of this section shall not diminish the primary responsibility of the Indian family, community, or tribe to establish, collect, and utilize reasonable user fees, or otherwise set aside funding, for the purpose of operating and maintaining sanitation facilities.”
+<b>1992</b>—Subsec. (e). Pub. L. 102–573, §302(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The provisions of this section shall not diminish the primary responsibility of the Indian family, community, or tribe to establish, collect, and utilize reasonable user fees, or otherwise set aside funding, for the purpose of operating and maintaining sanitation facilities.”
 
 Subsec. (f)(1). Pub. L. 102–573, §302(2), substituted “this section” for “subsection (h) of this section”.
 
 Subsec. (g)(1). Pub. L. 102–573, §302(3)(A), substituted “The Secretary shall submit to the President, for inclusion in each report required to be transmitted to the Congress under section 1671 of this title, a report” for “The Secretary shall submit to the Congress an annual report”.
 
-Subsec. (g)(2) to (6). Pub. L. 102–573, §302(3)(B), redesignated pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2) which read as follows: “The first report required under paragraph (1) shall be submitted by no later than the date that is 180 days after November 23, 1988, and, beginning in 1990, each subsequent annual report shall be submitted by the datethat is 60 days after the date on which the President submits the budget to the Congress under section 1105 of title 31.”
+Subsec. (g)(2) to (6). Pub. L. 102–573, §302(3)(B), redesignated pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2) which read as follows: “The first report required under paragraph (1) shall be submitted by no later than the date that is 180 days after November 23, 1988, and, beginning in 1990, each subsequent annual report shall be submitted by the date that is 60 days after the date on which the President submits the budget to the Congress under section 1105 of title 31.”
 
 Subsec. (h). Pub. L. 102–573, §307(b)(1), struck out subsec. (h) which authorized appropriations to carry out subsec. (b)(2) for fiscal years 1990 to 1992.
 
-1988—Pub. L. 100–713 amended section generally, substituting subsecs. (a) to (h) relating to safe water and sanitary waste disposal facilities for former subsecs. (a) to (c) relating to construction of safe water and sanitary waste disposal facilities.
+<b>1988</b>—Pub. L. 100–713 amended section generally, substituting subsecs. (a) to (h) relating to safe water and sanitary waste disposal facilities for former subsecs. (a) to (c) relating to construction of safe water and sanitary waste disposal facilities.
 

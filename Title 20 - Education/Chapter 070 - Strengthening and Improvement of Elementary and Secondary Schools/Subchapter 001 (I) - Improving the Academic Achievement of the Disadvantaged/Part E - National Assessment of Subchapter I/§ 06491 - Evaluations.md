@@ -80,7 +80,7 @@
 
 &emsp;In carrying out this subsection, the Secretary shall—
 
-&emsp;&emsp;(A) coordinate the national assessment under this subsection with the longitudinalstudy described in subsection (c) of this section; and
+&emsp;&emsp;(A) coordinate the national assessment under this subsection with the longitudinal study described in subsection (c) of this section; and
 
 &emsp;&emsp;(B) ensure that the independent review panel described in subsection (d) of this section participates in conducting the national assessment under this subsection, including planning for and reviewing the assessment.
 
@@ -210,7 +210,7 @@ A prior section 1501 of Pub. L. 89–10 was classified to section 2911 of this t
 
 #### Amendments
 
-2002—Subsec. (a)(3). Pub. L. 107–279 substituted “section 9622 of this title” for “section 9010 of this title”.
+<b>2002</b>—Subsec. (a)(3). Pub. L. 107–279 substituted “section 9622 of this title” for “section 9010 of this title”.
 
 #### Change of Name
 

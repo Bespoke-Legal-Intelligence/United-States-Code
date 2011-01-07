@@ -2,7 +2,7 @@
 
 (a) The Director of the Office of Management and Budget shall designate not less than five agencies as pilot projects in managerial accountability and flexibility for fiscal years 1995 and 1996. Such agencies shall be selected from those designated as pilot projects under section 1118 and shall reflect a representative range of Government functions and capabilities in measuring and reporting program performance.
 
-(b) Pilot projects in the designated agencies shall include proposed waivers in accordancewith section 9703 <sup>1</sup> for one or more of the major functions and operations of the agency.
+(b) Pilot projects in the designated agencies shall include proposed waivers in accordance with section 9703 <sup>1</sup> for one or more of the major functions and operations of the agency.
 
 (c) The Director of the Office of Management and Budget shall include in the report to the President and to the Congress required under section 1118(c)—
 
@@ -22,7 +22,7 @@ Section 1115(f), referred to in subsec. (d), was redesignated section 1115(g) of
 
 #### Construction
 
-No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a note under section 1115 of this title.
+No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction of 1993 Amendment note under section 1101 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

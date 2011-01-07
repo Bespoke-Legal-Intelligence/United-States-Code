@@ -12,7 +12,7 @@ The Assistant Secretary of State for Democracy, Human Rights, and Labor shall be
 
 (1) Arms and ammunition may be provided under this part only if they are directly related to antiterrorism assistance.
 
-(2) The value (in terms of original acquisition cost) of all equipment and commodities providedunder this part in any fiscal year shall not exceed 30 percent of the funds made available to carry out this part for that fiscal year.
+(2) The value (in terms of original acquisition cost) of all equipment and commodities provided under this part in any fiscal year shall not exceed 30 percent of the funds made available to carry out this part for that fiscal year.
 
 #### (d) Information exchange activities
 
@@ -32,7 +32,7 @@ Section 573 of Pub. L. 87–195 is based on section 201 of title II of H.R. 2992
 
 #### Amendments
 
-1996—Pub. L. 104–164, §121(b)(1), substituted “Limitations” for “Specific authorities and limitations” as section catchline.
+<b>1996</b>—Pub. L. 104–164, §121(b)(1), substituted “Limitations” for “Specific authorities and limitations” as section catchline.
 
 Subsecs. (a), (b). Pub. L. 104–164, §121(b)(2), (3), redesignated subsecs. (b) and (c) as (a) and (b), respectively, and struck out former subsec. (a) which read as follows: “Notwithstanding section 2420 of this title, services and commodities may be granted for the purposes of this part to eligible foreign countries, subject to reimbursement of the value thereof (within the meaning of section 2403(m) of this title) pursuant to section 2392 of this title from funds available to carry out this part.”
 
@@ -50,9 +50,9 @@ Subsec. (e). Pub. L. 104–164, §121(b)(3), which directed redesignation of sub
 
 Subsec. (f). Pub. L. 104–132, §328(a)(3), struck out subsec. (f) which read as follows: “Funds made available to carry out this part may not be used for personnel compensation or benefits.”
 
-1994—Subsec. (c). Pub. L. 103–236 substituted “Democracy, Human Rights, and Labor” for “Human Rights and Humanitarian Affairs”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–236 substituted “Democracy, Human Rights, and Labor” for “Human Rights and Humanitarian Affairs”.
 
-1990—Subsec. (d)(1) to (3). Pub. L. 101–604 added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
+<b>1990</b>—Subsec. (d)(1) to (3). Pub. L. 101–604 added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
 
 “(1) Training services provided pursuant to this part shall not be conducted outside the United States.
 
@@ -60,9 +60,9 @@ Subsec. (f). Pub. L. 104–132, §328(a)(3), struck out subsec. (f) which read a
 
 “(3) Employees of the Department of State shall not engage in the training of law enforcement personnel or provision of services under this part, except that employees of the Office of Security of the Department of State may provide training and services to law enforcement personnel for the physical protection of internationally protected persons and related facilities.”
 
-1986—Subsec. (d)(4). Pub. L. 99–399, in amending par. (4) generally, included articles in category X and articles in par. (b), (c), or (d) of category XIII as articles on the United States Munitions List which could be made available, struck out availability of articles only for fiscal years 1986 and 1987, substituted provision that the value in any fiscal year not exceed 25 percent of the funds available to carry out this part for that fiscal year for provision that the value not exceed $325,000 in fiscal year 1986 or 1987, and provided that no shock batons or similar devices be provided under this part.
+<b>1986</b>—Subsec. (d)(4). Pub. L. 99–399, in amending par. (4) generally, included articles in category X and articles in par. (b), (c), or (d) of category XIII as articles on the United States Munitions List which could be made available, struck out availability of articles only for fiscal years 1986 and 1987, substituted provision that the value in any fiscal year not exceed 25 percent of the funds available to carry out this part for that fiscal year for provision that the value not exceed $325,000 in fiscal year 1986 or 1987, and provided that no shock batons or similar devices be provided under this part.
 
-1985—Subsec. (d)(4). Pub. L. 99–83, §501(b), in amending par. (4) generally, designated existing provisions as subpar. (A), inserted provisions excepting subpar. (B), and added subpars. (B) and (C).
+<b>1985</b>—Subsec. (d)(4). Pub. L. 99–83, §501(b), in amending par. (4) generally, designated existing provisions as subpar. (A), inserted provisions excepting subpar. (B), and added subpars. (B) and (C).
 
 Subsec. (f). Pub. L. 99–83, §501(c), added subsec. (f).
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Authority of Secretary of State
 
-Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
+Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in anyofficial or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 
 #### Delegation of Functions
 

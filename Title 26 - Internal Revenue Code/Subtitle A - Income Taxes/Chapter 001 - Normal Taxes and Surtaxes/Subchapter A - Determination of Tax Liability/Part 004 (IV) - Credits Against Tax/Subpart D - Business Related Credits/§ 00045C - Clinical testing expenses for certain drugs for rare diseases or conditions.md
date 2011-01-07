@@ -28,7 +28,7 @@ For purposes of this section—
 
 #### (D) Special rule
 
-&emsp;&emsp;For purposes of this paragraph, section 41 shall be deemed to remain in effect for periods after June 30, 1995, and before July 1, 1996, and periods after December 31, 2009.
+&emsp;&emsp;For purposes of this paragraph, section 41 shall be deemed to remain in effect for periods after June 30, 1995, and before July 1, 1996, and periods after December 31, 2011.
 
 #### (2) Clinical testing
 
@@ -94,7 +94,7 @@ For purposes of this section—
 
 &emsp;This section shall apply to any taxpayer for any taxable year only if such taxpayer elects (at such time and in such manner as the Secretary may by regulations prescribe) to have this section apply for such taxable year.
 
-(Added Pub. L. 97–414, §4(a), Jan. 4, 1983, 96 Stat. 2053, §44H; renumbered §28 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(g), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; Pub. L. 99–514, title II, §§231(d)(3)(A), 232, title VII, §701(c)(2), title XII, §1275(c)(4), title XVIII, §1879(b)(1), (2), Oct. 22, 1986, 100 Stat. 2178, 2180, 2340, 2599, 2905; Pub. L. 100–647, title I, §1018(q)(1), title IV, §4008(c)(1), Nov. 10, 1988, 102 Stat. 3585, 3653; Pub. L. 101–239, title VII, §7110(a)(3), Dec. 19, 1989, 103 Stat. 2323; Pub. L. 101–508, title XI, §§11402(b)(2), 11411, Nov. 5, 1990, 104 Stat. 1388–473, 1388–479; Pub. L. 102–227, title I, §§102(b), 111(a), Dec. 11, 1991, 105 Stat. 1686, 1688; Pub. L. 103–66, title XIII, §13111(a)(2), (b), Aug. 10, 1993, 107 Stat. 420; renumbered §45C and amended Pub. L. 104–188, title I, §§1204(e), 1205(a)(1), (b), (d)(1), (2), Aug. 20, 1996, 110 Stat. 1775, 1776; Pub. L. 105–34, title VI, §§601(b)(2), 604(a), Aug. 5, 1997, 111 Stat. 862, 863; Pub. L. 105–115, title I, §125(b)(2)(O), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 105–277, div. J, title I, §1001(b), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(2), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 108–311, title III, §301(a)(2), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–432, div. A, title I, §104(a)(2), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §301(a)(2), Oct. 3, 2008, 122 Stat. 3865.)
+(Added Pub. L. 97–414, §4(a), Jan. 4, 1983, 96 Stat. 2053, §44H; renumbered §28 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(g), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; Pub. L. 99–514, title II, §§231(d)(3)(A), 232, title VII, §701(c)(2), title XII, §1275(c)(4), title XVIII, §1879(b)(1), (2), Oct. 22, 1986, 100 Stat. 2178, 2180, 2340, 2599, 2905; Pub. L. 100–647, title I, §1018(q)(1), title IV, §4008(c)(1), Nov. 10, 1988, 102 Stat. 3585, 3653; Pub. L. 101–239, title VII, §7110(a)(3), Dec. 19, 1989, 103 Stat. 2323; Pub. L. 101–508, title XI, §§11402(b)(2), 11411, Nov. 5, 1990, 104 Stat. 1388–473, 1388–479; Pub. L. 102–227, title I, §§102(b), 111(a), Dec. 11, 1991, 105 Stat. 1686, 1688; Pub. L. 103–66, title XIII, §13111(a)(2), (b), Aug. 10, 1993, 107 Stat. 420; renumbered §45C and amended Pub. L. 104–188, title I, §§1204(e), 1205(a)(1), (b), (d)(1), (2), Aug. 20, 1996, 110 Stat. 1775, 1776; Pub. L. 105–34, title VI, §§601(b)(2), 604(a), Aug. 5, 1997, 111 Stat. 862, 863; Pub. L. 105–115, title I, §125(b)(2)(O), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 105–277, div. J, title I, §1001(b), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(2), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 108–311, title III, §301(a)(2), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–432, div. A, title I, §104(a)(2), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §301(a)(2), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §731(b), Dec. 17, 2010, 124 Stat. 3317.)
 
 #### References in Text
 
@@ -104,17 +104,19 @@ Section 351 of the Public Health Service Act, referred to in subsec. (b)(2)(A)(i
 
 #### Amendments
 
-2008—Subsec. (b)(1)(D). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2007”.
+<b>2010</b>—Subsec. (b)(1)(D). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
 
-2006—Subsec. (b)(1)(D). Pub. L. 109–432 substituted “2007” for “2005”.
+<b>2008</b>—Subsec. (b)(1)(D). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2007”.
 
-2004—Subsec. (b)(1)(D). Pub. L. 108–311 substituted “December 31, 2005” for “June 30, 2004”.
+<b>2006</b>—Subsec. (b)(1)(D). Pub. L. 109–432 substituted “2007” for “2005”.
 
-1999—Subsec. (b)(1)(D). Pub. L. 106–170 substituted “June 30, 2004” for “June 30, 1999”.
+<b>2004</b>—Subsec. (b)(1)(D). Pub. L. 108–311 substituted “December 31, 2005” for “June 30, 2004”.
 
-1998—Subsec. (b)(1)(D). Pub. L. 105–277 substituted “June 30, 1999” for “June 30, 1998”.
+<b>1999</b>—Subsec. (b)(1)(D). Pub. L. 106–170 substituted “June 30, 2004” for “June 30, 1999”.
 
-1997—Subsec. (b)(1)(D). Pub. L. 105–34, §601(b)(2), substituted “June 30, 1998” for “May 31, 1997”.
+<b>1998</b>—Subsec. (b)(1)(D). Pub. L. 105–277 substituted “June 30, 1999” for “June 30, 1998”.
+
+<b>1997</b>—Subsec. (b)(1)(D). Pub. L. 105–34, §601(b)(2), substituted “June 30, 1998” for “May 31, 1997”.
 
 Subsec. (b)(2)(A)(ii)(II). Pub. L. 105–115 struck out “or 507” after “505(b)”.
 
@@ -128,7 +130,7 @@ Termination.—This section shall not apply to any amount paid or incurred—
 
 &emsp;“(2) after May 31, 1997.”
 
-1996—Pub. L. 104–188, §1205(a)(1), renumbered section 28 of this title as this section.
+<b>1996</b>—Pub. L. 104–188, §1205(a)(1), renumbered section 28 of this title as this section.
 
 Subsec. (a). Pub. L. 104–188, §1205(d)(1), substituted “For purposes of section 38, the credit determined under this section for the taxable year is” for “There shall be allowed as a credit against the tax imposed by this chapter for the taxable year”.
 
@@ -146,25 +148,25 @@ Subsec. (e). Pub. L. 104–188, §1205(b), amended subsec. (e) generally. Prior 
 
 Termination.—This section shall not apply to any amount paid or incurred after December 31, 1994.”
 
-1993—Subsec. (b)(1)(D). Pub. L. 103–66, §13111(a)(2), substituted “June 30, 1995” for “June 30, 1992”.
+<b>1993</b>—Subsec. (b)(1)(D). Pub. L. 103–66, §13111(a)(2), substituted “June 30, 1995” for “June 30, 1992”.
 
 Subsec. (e). Pub. L. 103–66, §13111(b), substituted “December 31, 1994” for “June 30, 1992”.
 
-1991—Subsec. (b)(1)(D). Pub. L. 102–227, §102(b), substituted “June 30, 1992” for “December 31, 1991”.
+<b>1991</b>—Subsec. (b)(1)(D). Pub. L. 102–227, §102(b), substituted “June 30, 1992” for “December 31, 1991”.
 
 Subsec. (e). Pub. L. 102–227, §111(a), substituted “June 30, 1992” for “December 31, 1991”.
 
-1990—Subsec. (b)(1)(D). Pub. L. 101–508, §11402(b)(2), substituted “December 31, 1991” for “December 31, 1990”.
+<b>1990</b>—Subsec. (b)(1)(D). Pub. L. 101–508, §11402(b)(2), substituted “December 31, 1991” for “December 31, 1990”.
 
 Subsec. (e). Pub. L. 101–508, §11411, substituted “December 31, 1991” for “December 31, 1990”.
 
-1989—Subsec. (b)(1)(D). Pub. L. 101–239 substituted “1990” for “1989”.
+<b>1989</b>—Subsec. (b)(1)(D). Pub. L. 101–239 substituted “1990” for “1989”.
 
-1988—Subsec. (b)(1)(D). Pub. L. 100–647, §4008(c)(1), substituted “1989” for “1988”.
+<b>1988</b>—Subsec. (b)(1)(D). Pub. L. 100–647, §4008(c)(1), substituted “1989” for “1988”.
 
 Subsec. (b)(2)(A)(ii)(II). Pub. L. 100–647, §1018(q)(1), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “before the date on which an application with respect to such drug is approved under section 505(b) of such Act or, if the drug is a biological product, before the date on which a license for such drug is issued under section 351 of the Public Health Services Act, and”.
 
-1986—Subsec. (b)(1). Pub. L. 99–514, §231(d)(3)(A)(i), (iv), substituted “41” for “30” in subpars. (A), (B), and (D), and substituted “1988” for “1985” in subpar. (D).
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §231(d)(3)(A)(i), (iv), substituted “41” for “30” in subpars. (A), (B), and (D), and substituted “1988” for “1985” in subpar. (D).
 
 Subsec. (b)(2)(A)(ii)(I). Pub. L. 99–514, §1879(b)(1)(A), substituted “the date such drug” for “the date of such drug”.
 
@@ -182,7 +184,7 @@ Subsec. (d)(4). Pub. L. 99–514, §231(d)(3)(A)(iii), substituted “section 41
 
 Subsec. (e). Pub. L. 99–514, §232, substituted “1990” for “1987”.
 
-1984—Pub. L. 98–369, §471(c), renumbered section 44H of this title as this section.
+<b>1984</b>—Pub. L. 98–369, §471(c), renumbered section 44H of this title as this section.
 
 Subsec. (b)(1)(A), (B), (D). Pub. L. 98–369, §474(g)(1)(A), substituted “section 30” for “section 44F”.
 
@@ -195,6 +197,10 @@ Subsec. (d)(2). Pub. L. 98–369, §612(e)(1), substituted “section 26(b)” f
 Pub. L. 98–369, §474(g)(2), amended par. (2) generally, substituting “shall not exceed the taxpayer's tax liability for the taxable year (as defined in section 25(b), reduced by the sum of the credits allowable under subpart A and section 27” for “shall not exceed the amount of the tax imposed by this chapter for the taxable year reduced by the sum of the credits allowable under a section of this subpart having a lower number or letter designation than this section, other than the credits allowable by sections 31, 39, and 43. For purposes of the preceding sentence, the term ‘tax imposed by this chapter’ shall not include any tax treated as not imposed by this chapter under the last sentence of section 53(a)”.
 
 Subsec. (d)(4). Pub. L. 98–369, §474(g)(1)(C), substituted “section 30(f)” for “section 44F(f)”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–312 applicable to amounts paid or incurred after Dec. 31, 2009, see section 731(c) of Pub. L. 111–312, set out as a note under section 41 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -266,7 +272,7 @@ Amendment by section 612(e)(1) of Pub. L. 98–369, applicable to interest paid 
 
 #### Effective Date
 
-Section 4(d) of Pub. L. 97–414 provided that: “The amendments made by this section \[enacting this section and amending sections 280C and 6096 of this title\]shall apply to amounts paid or incurred after December 31, 1982, in taxable years ending after such date.”
+Section 4(d) of Pub. L. 97–414 provided that: “The amendments made by this section \[enacting this section and amending sections 280C and 6096 of this title\] shall apply to amounts paid or incurred after December 31, 1982, in taxable years ending after such date.”
 
 #### Applicability of Certain Amendments by Public Law 99–514 in Relation to Treaty Obligations of United States
 

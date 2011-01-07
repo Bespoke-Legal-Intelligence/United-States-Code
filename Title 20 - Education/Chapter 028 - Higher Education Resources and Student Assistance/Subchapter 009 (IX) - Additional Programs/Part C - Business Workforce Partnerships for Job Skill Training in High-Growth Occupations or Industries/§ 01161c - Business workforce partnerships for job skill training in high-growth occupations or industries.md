@@ -84,9 +84,9 @@ The Secretary shall conduct an evaluation of the effectiveness of the program un
 
 Not later than 36 months after the first grant is awarded under this section, the Comptroller General shall report to the authorizing committees recommendations—
 
-&emsp;(1) for changes to this chapter and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 \[20 U.S.C. 2301 et seq.\] and the Workforce Investment Act of 1998 (including titles I and II \[29 U.S.C. 2801 et seq.; 20 U.S.C. 9201 et seq.\]), to help create and sustain business and industry workforce partnerships at institutions of higher education; and
+&emsp;(1) for changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 \[20 U.S.C. 2301 et seq.\] and the Workforce Investment Act of 1998 (including titles I and II \[29 U.S.C. 2801 et seq.; 20 U.S.C. 9201 et seq.\]), to help create and sustain business and industry workforce partnerships at institutions of higher education; and
 
-&emsp;(2) for other changes to this chapter and related Acts to otherwise strengthen the links between business and industry workforce needs, workforce development programs, and other degree credit offerings at institutions of higher education.
+&emsp;(2) for other changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts to otherwise strengthen the links between business and industry workforce needs, workforce development programs, and other degree credit offerings at institutions of higher education.
 
 #### (j) Definitions
 
@@ -139,8 +139,6 @@ There are authorized to be appropriated to carry out this section such sums as m
 (Pub. L. 89–329, title VIII, §803, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3382.)
 
 #### References in Text
-
-This chapter, referred to in subsec. (i), was in the original “this Act”, meaning Pub. L. 89–329, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (i)(1), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 

@@ -16,11 +16,11 @@ Section was formerly classified to section 1857f–3 of this title.
 
 #### Amendments
 
-1977—Subsec. (a). Pub. L. 95–95 struck out “paragraph (1), (2), (3), or (4)” after “restrain violations of”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–95 struck out “paragraph (1), (2), (3), or (4)” after “restrain violations of”.
 
-1970—Subsec. (a). Pub. L. 91–604 inserted reference to par. (4) of section 7522(a) of this title.
+<b>1970</b>—Subsec. (a). Pub. L. 91–604 inserted reference to par. (4) of section 7522(a) of this title.
 
-1967—Pub. L. 90–148 reenacted section without change.
+<b>1967</b>—Pub. L. 90–148 reenacted section without change.
 
 #### Effective Date of 1977 Amendment
 

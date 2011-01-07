@@ -16,7 +16,7 @@ Warrant officers in the following categories are not subject to this chapter:
 
 #### Amendments
 
-2004—Par. (1). Pub. L. 108–375 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Reserve warrant officers—
+<b>2004</b>—Par. (1). Pub. L. 108–375 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Reserve warrant officers—
 
 &emsp;“(A) on active duty for training;
 
@@ -28,11 +28,11 @@ Warrant officers in the following categories are not subject to this chapter:
 
 &emsp;“(E) on full-time National Guard duty.”
 
-1996—Par. (1)(B). Pub. L. 104–106 substituted “section 12301(d)” for “section 672(d)”.
+<b>1996</b>—Par. (1)(B). Pub. L. 104–106 substituted “section 12301(d)” for “section 672(d)”.
 
 Par. (1)(D). Pub. L. 104–106 substituted “section 12304” for “section 673b”.
 
-1994—Par. (2). Pub. L. 103–337 inserted before period at end “(other than retired warrant officers who were recalled to active duty before February 1, 1992, and have served continuously on active duty since that date)”.
+<b>1994</b>—Par. (2). Pub. L. 103–337 inserted before period at end “(other than retired warrant officers who were recalled to active duty before February 1, 1992, and have served continuously on active duty since that date)”.
 
 #### Effective Date of 1996 Amendment
 

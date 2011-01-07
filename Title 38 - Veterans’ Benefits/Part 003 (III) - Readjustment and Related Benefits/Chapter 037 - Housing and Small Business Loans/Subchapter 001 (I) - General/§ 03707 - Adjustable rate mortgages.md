@@ -4,7 +4,7 @@
 
 (b) Interest rate adjustment provisions of a mortgage guaranteed under this section shall—
 
-&emsp;(1) correspond to a specified national interest rate index approved by the Secretary, information on which is readily accessible to mortgagors from generally available published sources;
+&emsp;(1) correspond to a specified national interest rate index approved by the Secretary, information on which is readily accessible tomortgagors from generally available published sources;
 
 &emsp;(2) be made by adjusting the monthly payment on an annual basis;
 
@@ -32,11 +32,11 @@ The National Housing Act, referred to in subsecs. (a) and (c)(3), is act June 27
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–389 substituted “2012” for “2008”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–389 substituted “2012” for “2008”.
 
-2004—Subsec. (a). Pub. L. 108–454 substituted “during fiscal years 1993 through 2008” for “during fiscal years 1993, 1994, and 1995”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–454 substituted “during fiscal years 1993 through 2008” for “during fiscal years 1993, 1994, and 1995”.
 
-1993—Subsec. (b)(2). Pub. L. 103–78 struck out before semicolon at end “on the anniversary of the date on which the loan was closed”.
+<b>1993</b>—Subsec. (b)(2). Pub. L. 103–78 struck out before semicolon at end “on the anniversary of the date on which the loan was closed”.
 
 #### Annual Reports on Adjustable Rate Mortgages Guaranteed Under This Section
 

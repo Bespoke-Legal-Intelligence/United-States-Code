@@ -20,27 +20,27 @@ For loans made under this subchapter, the Secretary may accept subdivisions that
 
 #### Amendments
 
-1993—Subsec. (b). Pub. L. 103–120 substituted “September 30, 1994” for “June 15, 1993”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–120 substituted “September 30, 1994” for “June 15, 1993”.
 
-1992—Subsec. (b). Pub. L. 102–550, §716(a), inserted last sentence and struck out former last sentence which read as follows: “This subsection shall not apply after the expiration of the 18-month period beginning on December 15, 1989.”
+<b>1992</b>—Subsec. (b). Pub. L. 102–550, §716(a), inserted last sentence and struck out former last sentence which read as follows: “This subsection shall not apply after the expiration of the 18-month period beginning on December 15, 1989.”
 
 Subsec. (d). Pub. L. 102–550, §716(c), added subsec. (d).
 
-1991—Subsecs. (a), (b). Pub. L. 102–54, §13(q)(5)(A), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+<b>1991</b>—Subsecs. (a), (b). Pub. L. 102–54, §13(q)(5)(A), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
 Subsec. (c). Pub. L. 102–54, §13(q)(5)(B), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1990—Subsec. (b). Pub. L. 101–625 substituted “18-month period” for “6-month period”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–625 substituted “18-month period” for “6-month period”.
 
-1989—Subsec. (b). Pub. L. 101–235 substituted “6-month period beginning on December 15, 1989” for “1-year period beginning on November 7, 1988”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–235 substituted “6-month period beginning on December 15, 1989” for “1-year period beginning on November 7, 1988”.
 
-1988—Pub. L. 100–628 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1988</b>—Pub. L. 100–628 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 #### Retroactivity of Approval of Housing Subdivisions Among Federal Agencies
 
 Section 8(b) of Pub. L. 103–120 provided that: “An administrative approval of a housing subdivision made after June 15, 1993, and before the date of the enactment of this Act \[Oct. 27, 1993\] is approved and shall be considered to have been lawfully made, but only if otherwise made in accordance with the provisions of section 535(b) of the Housing Act of 1949 \[42 U.S.C. 1490<i>o</i>(b)\].”
 
-Section 716(b) of Pub. L. 102–550 provided that: “Any administrative approval of any housing subdivision made after the expiration of the 18-month period beginning on the date of the enactment of the Department of Housing and Urban Development Reform Act of 1989 \[Dec. 15, 1989\] and before the date of the enactment of this Act \[Oct. 28, 1992\] is approved and shall be considered to have been lawfully made, but only if otherwise made in accordance with the provisions of section 535(b) of the Housing Act of 1949 \[42 U.S.C. 1490<i>o</i>(b)\].”
+Section 716(b) of Pub. L. 102–550 provided that: “Any administrative approval of any housing subdivisionmade after the expiration of the 18-month period beginning on the date of the enactment of the Department of Housing and Urban Development Reform Act of 1989 \[Dec. 15, 1989\] and before the date of the enactment of this Act \[Oct. 28, 1992\] is approved and shall be considered to have been lawfully made, but only if otherwise made in accordance with the provisions of section 535(b) of the Housing Act of 1949 \[42 U.S.C. 1490<i>o</i>(b)\].”
 
 Section 718(b) of Pub. L. 101–625 provided that: “Any administrative approval of any housing subdivision made after the expiration of the 6-month period beginning on the date of the enactment of the Department of Housing and Urban Development Reform Act of 1989 \[Dec. 15, 1989\] and before the date of the enactment of this Act \[Nov. 28, 1990\] is hereby approved and shall be considered to have been lawfully made, but only if otherwise made in accordance with the provisions of section 535(b) of the Housing Act of 1949 \[42 U.S.C. 1490<i>o</i>(b)\].”
 

@@ -6,9 +6,9 @@ The Comptroller General is authorized to lease or otherwise provide space and se
 
 #### Amendments
 
-2002—Pub. L. 107–217 substituted “(as defined in section 3306(a) of title 40)” for “(as defined in section 105 of the Public Buildings Cooperative Use Act of 1976 (40 U.S.C. 612a))”.
+<b>2002</b>—Pub. L. 107–217 substituted “(as defined in section 3306(a) of title 40)” for “(as defined in section 105 of the Public Buildings Cooperative Use Act of 1976 (40 U.S.C. 612a))”.
 
-1994—Pub. L. 103–272 substituted “612a)).” for “612a).”
+<b>1994</b>—Pub. L. 103–272 substituted “612a)).” for “612a).”
 
 #### Change of Name
 

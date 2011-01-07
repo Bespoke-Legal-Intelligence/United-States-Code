@@ -84,7 +84,7 @@ The Internal Revenue Code of 1986, referred to in subsecs. (b)(2) and (g), is cl
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–296, §108(b)(13)(A), (C), substituted “The Commissioner of Social Security” for “The Secretary” and struck out “under the direction of the Commissioner of Social Security,” before “which shall be used”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–296, §108(b)(13)(A), (C), substituted “The Commissioner of Social Security” for “The Secretary” and struck out “under the direction of the Commissioner of Social Security,” before “which shall be used”.
 
 Subsec. (b), (c). Pub. L. 103–296, §108(b)(13)(A), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 

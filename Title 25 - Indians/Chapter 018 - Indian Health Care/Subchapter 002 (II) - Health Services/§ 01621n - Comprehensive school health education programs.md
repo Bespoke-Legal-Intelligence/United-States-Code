@@ -82,7 +82,7 @@ Recipients of grants under this section shall submit to the Secretary an annual 
 
 #### (g) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $15,000,000 for fiscal year1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
+There are authorized to be appropriated to carry out this section $15,000,000 for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
 
 (Pub. L. 94–437, title II, §215, as added Pub. L. 102–573, title II, §211, Oct. 29, 1992, 106 Stat. 4553.)
 

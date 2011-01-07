@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Promoting the sale of authentic United States Indian, Alaskan Native, Native Samoan, and Native Hawaiian handicrafts relating to the cultural, historical, and geographic characteristics of units of the National Park System is encouraged, and the Secretary shall ensure that there is a continuing effort to enhance the handicraft trade where it exists and establish the trade in appropriate areas where such trade currently does not exist.
+Promoting the sale of authentic United States Indian, Alaskan Native, Native Samoan, and Native Hawaiian handicrafts relating to the cultural, historical, and geographic characteristics of units of the National Park System is encouraged, and the Secretary shall ensure that thereis a continuing effort to enhance the handicraft trade where it exists and establish the trade in appropriate areas where such trade currently does not exist.
 
 #### (b) Exemption from franchise fee
 

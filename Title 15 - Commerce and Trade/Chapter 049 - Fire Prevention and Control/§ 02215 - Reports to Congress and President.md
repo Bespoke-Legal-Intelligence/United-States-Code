@@ -30,11 +30,15 @@ The Director shall report to the Congress and the President not later than ninet
 
 (Pub. L. 93–498, §16, Oct. 29, 1974, 88 Stat. 1545; Pub. L. 96–472, title II, §202, Oct. 19, 1980, 94 Stat. 2260; Pub. L. 106–503, title I, §110(a)(2)(B)(vi), Nov. 13, 2000, 114 Stat. 2302.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–498, Oct. 29, 1974, 88 Stat. 1535, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
+
 #### Amendments
 
-2000—Pub. L. 106–503 substituted “Director” for “Secretary” in introductory provisions.
+<b>2000</b>—Pub. L. 106–503 substituted “Director” for “Secretary” in introductory provisions.
 
-1980—Pub. L. 96–472 substituted “ninety calendar days following the year ending September 30, 1980 and similarly each year thereafter” for “June 30 of the year following October 29, 1974, and each year thereafter”.
+<b>1980</b>—Pub. L. 96–472 substituted “ninety calendar days following the year ending September 30, 1980 and similarly each year thereafter” for “June 30 of the year following October 29, 1974, and each year thereafter”.
 
 #### Transfer of Functions
 

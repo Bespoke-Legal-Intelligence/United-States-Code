@@ -20,7 +20,7 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1996—Pub. L. 104–294, in second par., substituted “$1,000” for “$100” and substituted “fine under this title” for “fine of under this title” in two places.
+<b>1996</b>—Pub. L. 104–294, in second par., substituted “$1,000” for “$100” and substituted “fine under this title” for “fine of under this title” in two places.
 
-1994—Pub. L. 103–322, in second par., substituted “under this title” for “not more than $5,000” after “another, by a fine of” and for “not more than $1,000” after “cases, by a fine of”.
+<b>1994</b>—Pub. L. 103–322, in second par., substituted “under this title” for “not more than $5,000” after “another, by a fine of” and for “not more than $1,000” after “cases, by a fine of”.
 

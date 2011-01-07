@@ -14,7 +14,7 @@ A prior section 8252, act Aug. 10, 1956, ch. 1041, 70A Stat. 503, provided that 
 
 #### Amendments
 
-1992—Pub. L. 102–484 substituted “In” for “(a) Except as provided in subsection (b), in” and struck out subsec. (b) which read as follows: “Subsection (a) shall not apply with respect to an enlistment specified as being for training leading to designation in a skill category involving duty assignments to which, under section 8549 of this title, female members of the Air Force may not be assigned.”
+<b>1992</b>—Pub. L. 102–484 substituted “In” for “(a) Except as provided in subsection (b), in” and struck out subsec. (b) which read as follows: “Subsection (a) shall not apply with respect to an enlistment specified as being for training leading to designation in a skill category involving duty assignments to which, under section 8549 of this title, female members of the Air Force may not be assigned.”
 
 #### Effective Date
 

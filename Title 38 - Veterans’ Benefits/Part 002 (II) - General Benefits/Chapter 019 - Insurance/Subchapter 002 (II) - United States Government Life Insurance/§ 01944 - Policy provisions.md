@@ -2,7 +2,7 @@
 
 (a) Provisions for maturity at certain ages, for continuous installments during the lifetime of the insured or beneficiaries, or both, for refund of premiums, cash, loan, paid-up and extended values, dividends from gains and savings, and such other provisions for the protection and advantage of and for alternative benefits to the insured and the beneficiaries as may be found to be reasonable and practicable may be provided for in insurance contracts or from time to time by regulations.
 
-(b) All calculations on insurance shall be based upon the American Experience Table of Mortality and interest at 31/2 percent per annum, except that no deduction shall be made for continuous installments during the life of the insured in case the insured's total and permanent disability continues more than two hundred and forty months.
+(b) All calculations on insurance shall be based upon the American Experience Table of Mortality and interest at 3½ percent per annum, except that no deduction shall be made for continuous installments during the life of the insured in case the insured's total and permanent disability continues more than two hundred and forty months.
 
 (c) On and after July 19, 1939, the rate of interest charged on any loan secured by a lien on insurance shall not exceed 5 percent per annum.
 
@@ -10,9 +10,9 @@
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 744 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 744 of this title as this section.
 
-1986—Subsec. (b). Pub. L. 99–576 substituted “the insured's” for “his”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–576 substituted “the insured's” for “his”.
 
-1982—Subsecs. (b), (c). Pub. L. 97–295 substituted “percent” for “per centum”.
+<b>1982</b>—Subsecs. (b), (c). Pub. L. 97–295 substituted “percent” for “per centum”.
 

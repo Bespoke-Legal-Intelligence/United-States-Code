@@ -28,11 +28,11 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Amendments
 
-1979—Subsec. (c)(1). Pub. L. 96–38 substituted “Department of Labor” for “Department of the Interior” and “Secretary of Labor” for “Secretaries of Labor and the Interior”.
+<b>1979</b>—Subsec. (c)(1). Pub. L. 96–38 substituted “Department of Labor” for “Department of the Interior” and “Secretary of Labor” for “Secretaries of Labor and the Interior”.
 
 Subsec. (c)(2). Pub. L. 96–38 struck out par. (2) which directed that the National Mine Health and Safety Academy use the facilities and personnel of the Department of the Interior and that the Secretary of the Interior appoint or assign to the Academy necessary officers and employees.
 
-1977—Subsecs. (a), (b). Pub. L. 95–164, §303(b), inserted references to mines other than coal mines.
+<b>1977</b>—Subsecs. (a), (b). Pub. L. 95–164, §303(b), inserted references to mines other than coal mines.
 
 Subsec. (c). Pub. L. 95–164, §303(h), added subsec. (c).
 

@@ -14,7 +14,7 @@ The Plant Variety Protection Act, referred to in text, is Pub. L. 91–577, Dec.
 
 #### Amendments
 
-1970—Pub. L. 91–577 inserted provisions setting out conditions for certification of seed of any variety for which a certificate of plant variety protection under the Plant Variety Protection Act specifies sale only as a class of certified seed.
+1970—Pub. L. 91–577 inserted provisions setting out conditions for certification of seed of any variety forwhich a certificate of plant variety protection under the Plant Variety Protection Act specifies sale only as a class of certified seed.
 
 1969—Pub. L. 91–89 struck out references to registered seed, and required labels, advertisement, or other representations to certify that the seed contained therein was determined by a seed certifying agency to be of a specified class and a specified kind of variety in conformity with the standards of genetic purity and identity as to kind or variety.
 

@@ -12,5 +12,5 @@ The purposes of this chapter are the following:
 
 #### Amendments
 
-1998—Par. (3). Pub. L. 105–312 added par. (3).
+<b>1998</b>—Par. (3). Pub. L. 105–312 added par. (3).
 

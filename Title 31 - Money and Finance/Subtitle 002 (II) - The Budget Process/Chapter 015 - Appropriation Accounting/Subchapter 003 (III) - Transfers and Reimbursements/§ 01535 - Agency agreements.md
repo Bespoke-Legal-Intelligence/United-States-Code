@@ -114,7 +114,7 @@ May 21, 1920, ch. 194, 41 Stat. 607, §7(a) (last sentence); added Oct. 15, 1982
 
 #### Amendments
 
-1984—Subsec. (a)(3). Pub. L. 98–216, §1(2)(A), inserted “or get by contract” after “provide”.
+<b>1984</b>—Subsec. (a)(3). Pub. L. 98–216, §1(2)(A), inserted “or get by contract” after “provide”.
 
 Subsec. (a)(4). Pub. L. 98–216, §1(2)(B), inserted “by contract” after “provided”.
 
@@ -172,7 +172,7 @@ Agency Reporting Requirement.—The senior procurement executive for each execut
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘executive agency’ has the meaning given such term in section 4(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(1)), except that, in the case of a military department, it means the Department of Defense.
+&emsp;“(1) The term ‘executive agency’ has the meaning given such term in section 4(1) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 403(1)) \[see 41 U.S.C. 133\], except that, in the case of a military department, it means the Department of Defense.
 
 &emsp;“(2) The term ‘head of executive agency’ means the head of an executive agency except that, in the case of a military department, the term means the Secretary of Defense.
 

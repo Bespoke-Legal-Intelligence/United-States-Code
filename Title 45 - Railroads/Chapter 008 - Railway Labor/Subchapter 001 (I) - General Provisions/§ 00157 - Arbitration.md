@@ -34,7 +34,7 @@ No arbitrator, except those chosen by the Mediation Board, shall be incompetent 
 
 #### (e) Compensation and expenses
 
-Each member of any board of arbitration created under the provisions of this chapter named by either party to the arbitration shall be compensated by the party naming him. Each arbitrator selected by the arbitrators or named by the Mediation Board shall receive from the Mediation Board such compensation as the Mediation Board may fix, together with his necessarytraveling expenses and expenses actually incurred for subsistence, while serving as an arbitrator.
+Each member of any board of arbitration created under the provisions of this chapter named by either party to the arbitration shall be compensated by the party naming him. Each arbitrator selected by the arbitrators or named by the Mediation Board shall receive from the Mediation Board such compensation as the Mediation Board may fix, together with his necessary traveling expenses and expenses actually incurred for subsistence, while serving as an arbitrator.
 
 #### (f) Award; disposition of original and copies
 
@@ -60,9 +60,9 @@ In par. Third (f), “subtitle IV of title 49” substituted for “the Intersta
 
 #### Amendments
 
-1970—Par. Third, (h). Pub. L. 91–452 struck out provisions authorizing board to invoke aid of the United States courts to compel witnesses to attend and testify and to produce such books, papers, contracts, agreements, and documents to same extent and under same conditions and penalties as provided for in the Interstate Commerce Act.
+<b>1970</b>—Par. Third, (h). Pub. L. 91–452 struck out provisions authorizing board to invoke aid of the United States courts to compel witnesses to attend and testify and to produce such books, papers, contracts, agreements, and documents to same extent and under same conditions and penalties as provided for in the Interstate Commerce Act.
 
-1934—Act June 21, 1934, substituted “Mediation Board” for “Board of Mediation” wherever appearing.
+<b>1934</b>—Act June 21, 1934, substituted “Mediation Board” for “Board of Mediation” wherever appearing.
 
 #### Effective Date of 1970 Amendment
 
@@ -86,7 +86,7 @@ Sec. 2. \[Arbitration board\]. There is hereby established an arbitration board 
 
 “
 
-Sec. 3. \[Decision of board\]. Promptly upon the completion of the naming of the arbitration board the Secretary of Labor shall furnish to the board and to the parties to the dispute copies of his statement to the parties of August 2, 1963, and the papers therewith submitted to the parties, together with memorandums and such other data as the board may request setting forth the matters with respect to which the parties were in tentative agreement and the extent of disagreement with respect to matters on which the parties were not in tentative agreement. The arbitration board shall make a decision, pursuant to the procedures hereinafter set forth, as to what disposition shall be made of those portions of the carriers’ notices of November 2, 1959, identified as ‘Use of Firemen (Helpers) on Other Than Steam Power’ and ‘Consist of Road and Yard Crews’ and that portion of the organizations’ notices of September 7, 1960, identified as ‘Minimum Safe Crew Consist’ and implementing proposals pertaining thereto. The arbitration board shall incorporate in such decision any matters on which it finds the parties were in agreement, shall resolve the matters on which the parties were not in agreement, and shall, in making its award, give due consideration to those matters on which the parties were in tentative agreement. Such award shall be binding on both the carrier and organization parties to the dispute and shall constitute a complete and final disposition of the aforesaid issues covered by the decision of the board of arbitration.
+Sec. 3. \[Decision of board\]. Promptly upon the completion of the naming of the arbitration board the Secretary of Labor shall furnish to the board and to the parties to the dispute copies of his statement to the parties of August 2, 1963, and the papers therewith submitted to the parties, together with memorandums and such other data as the board may request setting forth the matters with respect to which the parties were intentative agreement and the extent of disagreement with respect to matters on which the parties were not in tentative agreement. The arbitration board shall make a decision, pursuant to the procedures hereinafter set forth, as to what disposition shall be made of those portions of the carriers’ notices of November 2, 1959, identified as ‘Use of Firemen (Helpers) on Other Than Steam Power’ and ‘Consist of Road and Yard Crews’ and that portion of the organizations’ notices of September 7, 1960, identified as ‘Minimum Safe Crew Consist’ and implementing proposals pertaining thereto. The arbitration board shall incorporate in such decision any matters on which it finds the parties were in agreement, shall resolve the matters on which the parties were not in agreement, and shall, in making its award, give due consideration to those matters on which the parties were in tentative agreement. Such award shall be binding on both the carrier and organization parties to the dispute and shall constitute a complete and final disposition of the aforesaid issues covered by the decision of the board of arbitration.
 
 “
 

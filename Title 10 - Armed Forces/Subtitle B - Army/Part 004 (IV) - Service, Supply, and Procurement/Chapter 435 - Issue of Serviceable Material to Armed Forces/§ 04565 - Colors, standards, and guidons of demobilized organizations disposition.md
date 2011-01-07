@@ -40,5 +40,5 @@ In subsection (a), the words “Any which were used during their service by such
 
 #### Amendments
 
-1966—Subsec. (a). Pub. L. 89–718 substituted the Secretary of the Army for the Quartermaster General as the officer to accept delivery of colors, standards, and guidons of demobilized organizations of the Army which cannot be disposed of under clauses (1) and (2).
+<b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted the Secretary of the Army for the Quartermaster General as the officer to accept delivery of colors, standards, and guidons of demobilized organizations of the Army which cannot be disposed of under clauses (1) and (2).
 

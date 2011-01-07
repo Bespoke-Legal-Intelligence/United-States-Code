@@ -1,7 +1,5 @@
 ### \[SUBCHAPTER I—REPEALED\]
 
-<i><sup>1</sup></i><i> Subchapter I repealed by Pub. L. 105–220 without corresponding amendment of chapter analysis.</i>
-
 
 ---
 

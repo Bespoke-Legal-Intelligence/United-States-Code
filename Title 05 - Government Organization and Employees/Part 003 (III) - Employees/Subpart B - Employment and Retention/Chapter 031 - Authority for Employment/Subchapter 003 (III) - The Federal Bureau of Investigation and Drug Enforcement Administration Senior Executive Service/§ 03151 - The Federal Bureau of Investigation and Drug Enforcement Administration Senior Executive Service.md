@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(C) for any other reason.
 
-(Added Pub. L. 100–325, §1(a), May 30, 1988, 102 Stat. 579; amended Pub. L. 101–194, title V, §506(b)(1), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 109–108, title I, §111, Nov. 22, 2005, 119 Stat. 2305.)
+(Added Pub. L. 100–325, §1(a), May 30, 1988, 102 Stat. 579; amended Pub. L. 101–194, title V,§506(b)(1), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 109–108, title I, §111, Nov. 22, 2005, 119 Stat. 2305.)
 
 #### References in Text
 

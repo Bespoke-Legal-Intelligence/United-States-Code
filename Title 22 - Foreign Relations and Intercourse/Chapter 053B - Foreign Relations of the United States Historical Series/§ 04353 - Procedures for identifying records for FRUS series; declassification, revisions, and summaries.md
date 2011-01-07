@@ -4,7 +4,7 @@
 
 Not later than 180 days after October 28, 1991, each department, agency, or other entity of the United States Government engaged in foreign policy formulation, execution, or support shall develop procedures for its historical office (or a designated individual in the event that there is no historical office)—
 
-&emsp;(1) to coordinate with the State Department's Office of the Historian in selectingrecords for possible inclusion in the FRUS series;
+&emsp;(1) to coordinate with the State Department's Office of the Historian in selecting records for possible inclusion in the FRUS series;
 
 &emsp;(2) to permit full access to the original, unrevised records by such individuals holding appropriate security clearances as have been designated by the Historian as liaison to that department, agency, or entity, for purposes of this chapter, and by members of the Advisory Committee; and
 
@@ -20,7 +20,7 @@ Not later than 180 days after October 28, 1991, each department, agency, or othe
 
 (4) If the Advisory Committee determines that the meaning of the records proposed for inclusion in a volume of the FRUS series would be so altered or changed by deletions made under paragraph (1), or if the Advisory Committee determines as a result of inspection of other documents under subsection (a)(3) of this section that the selection of documents could be misleading or lead to an inaccurate or incomplete historical record, then the Advisory Committee shall so advise the Secretary of State and submit recommendations to resolve the issue.
 
-(5)(A) The Advisory Committee shall have full and complete access to the original text of any record in which deletions have been made. In the event that the head of any originating agency considers it necessary to deny access by the Advisory Committee to the original text of any record, that agency head shall promptly notify the Advisory Committee in writing, describing the nature of the record in question and the justification for withholding that record.
+(5)(A) The Advisory Committee shall have full and complete access to the original text of any record in which deletions have been made. In the event that the head of any originating agencyconsiders it necessary to deny access by the Advisory Committee to the original text of any record, that agency head shall promptly notify the Advisory Committee in writing, describing the nature of the record in question and the justification for withholding that record.
 
 (B) The Historian shall provide the Advisory Committee with a complete list of the records described in subparagraph (A).
 

@@ -40,7 +40,7 @@ Definitions.—(1) For the purposes of this section, a quantity of an end item s
 
 &emsp;(A) The term “end item” means a production product assembled, completed, and ready for issue or deployment.
 
-&emsp;(B) The term “head of an agency” means the Secretary of Defense, the Secretary of theArmy, the Secretary of the Navy, and the Secretary of the Air Force.
+&emsp;(B) The term “head of an agency” means the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force.
 
 (Added Pub. L. 107–314, div. A, title VIII, §801(a)(1), Dec. 2, 2002, 116 Stat. 2600; amended Pub. L. 108–136, div. A, title X, §1043(b)(11), Nov. 24, 2003, 117 Stat. 1611.)
 
@@ -50,7 +50,7 @@ A prior section 2308, acts Aug. 10, 1956, ch. 1041, 70A Stat. 131; Oct. 23, 1992
 
 #### Amendments
 
-2003—Subsec. (e)(2). Pub. L. 108–136 redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “The term ‘congressional defense committees’ means—
+<b>2003</b>—Subsec. (e)(2). Pub. L. 108–136 redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “The term ‘congressional defense committees’ means—
 
 &emsp;“(i) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
 

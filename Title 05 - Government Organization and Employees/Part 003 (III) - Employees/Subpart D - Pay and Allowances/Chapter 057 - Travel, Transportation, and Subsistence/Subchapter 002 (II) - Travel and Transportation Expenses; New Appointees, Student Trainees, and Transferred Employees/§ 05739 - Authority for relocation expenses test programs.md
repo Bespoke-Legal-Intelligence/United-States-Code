@@ -44,5 +44,5 @@ Pub. L. 111–112, §1(b), Nov. 30, 2009, 123 Stat. 3025, provided that: “This
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–325, §1(b), Oct. 11, 2006, 120 Stat. 1760, provided that: “The amendments made by this section\[amending this section\] shall take effect as though enacted as part of the Travel and Transportation Reform Act of 1998 (Public Law 105–264; 112 Stat. 2350).”
+Pub. L. 109–325, §1(b), Oct. 11, 2006, 120 Stat. 1760, provided that: “The amendments made by this section \[amending this section\] shall take effect as though enacted as part of the Travel and Transportation Reform Act of 1998 (Public Law 105–264; 112 Stat. 2350).”
 

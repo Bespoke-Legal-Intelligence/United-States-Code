@@ -10,8 +10,6 @@ The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, c
 
 Act of August 28, 1937, referred to in text, was classified to sections 590r to 590x–4 of Title 16, Conservation, and was repealed by Pub. L. 87–128, title III, §341(a), Aug. 8, 1961, 75 Stat. 318. See section 921 et seq. of this title.
 
-The desertland laws, referred to in text, are classified generally to chapter 9 (§321 et seq.) of Title 43, Public Lands.
-
 #### Codification
 
 Section was not enacted as part of the Bankhead-Jones Farm Tenant Act, which constitutes a major part of this chapter.

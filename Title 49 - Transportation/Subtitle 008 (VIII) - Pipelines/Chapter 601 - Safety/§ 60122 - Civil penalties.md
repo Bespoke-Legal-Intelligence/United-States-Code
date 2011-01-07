@@ -128,9 +128,9 @@ In subsection (f), the words “Separate penalties . . . prescribed under this
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–468 substituted “60114(b), 60114(d),” for “60114(b)”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–468 substituted “60114(b), 60114(d),” for “60114(b)”.
 
-2002—Subsec. (a)(1). Pub. L. 107–355, §21(3), substituted “section 60114(b)” for “section 60114(c)”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–355, §21(3), substituted “section 60114(b)” for “section 60114(c)”.
 
 Pub. L. 107–355, §8(b)(1), substituted “$100,000” for “$25,000” and “$1,000,000” for “$500,000”.
 

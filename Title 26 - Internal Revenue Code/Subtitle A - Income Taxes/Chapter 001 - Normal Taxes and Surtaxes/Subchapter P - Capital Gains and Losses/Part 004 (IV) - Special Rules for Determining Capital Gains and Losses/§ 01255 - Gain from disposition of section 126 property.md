@@ -40,15 +40,15 @@ Under regulations prescribed by the Secretary—
 
 #### Amendments
 
-2003—Subsec. (b)(2). Pub. L. 108–27, §§302(e)(4)(B)(ii), 303, temporarily struck out “, 341(e)(12),” after “170(e)”. See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–27, §§302(e)(4)(B)(ii), 303, temporarily struck out “, 341(e)(12),” after “170(e)”. See Effective and Termination Dates of 2003 Amendment note below.
 
-1988—Subsec. (b)(2). Pub. L. 100–647 amended Pub. L. 99–514, §511(d)(2)(A), see 1986 Amendment note below.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–647 amended Pub. L. 99–514, §511(d)(2)(A), see 1986 Amendment note below.
 
-1986—Subsec. (b)(2). Pub. L. 99–514, §511(d)(2)(A), as amended by Pub. L. 100–647, struck out “163(d),” after “sections”.
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–514, §511(d)(2)(A), as amended by Pub. L. 100–647, struck out “163(d),” after “sections”.
 
 Pub. L. 99–514, §631(e)(14), struck out “453B(d)(2)” after “341(e)(12),”.
 
-1980—Subsec. (a)(1)(B). Pub. L. 96–222, §105(a)(7)(B), inserted following cl. (ii) provisions requiring that such gain be recognized notwithstanding any other provision of this subtitle, except that this section shall not apply to the extent such gain is recognized as ordinary income under any other provision of this part.
+<b>1980</b>—Subsec. (a)(1)(B). Pub. L. 96–222, §105(a)(7)(B), inserted following cl. (ii) provisions requiring that such gain be recognized notwithstanding any other provision of this subtitle, except that this section shall not apply to the extent such gain is recognized as ordinary income under any other provision of this part.
 
 Subsec. (b)(2). Pub. L. 96–471 substituted “453B(d)(2)” for “453(d)(4)(B)”.
 
@@ -58,7 +58,7 @@ Pub. L. 96–222, §105(a)(7)(D), inserted “for purposes of sections 163(d), 1
 
 Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as a note under section 1 of this title.
 
-Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
+Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

@@ -24,7 +24,7 @@
 
 #### (1) Equal terms
 
-&emsp;No government shall impose or implement a land use regulation in a manner that treats a religious assembly or institution on less than equal terms with a nonreligious assembly or institution.
+&emsp;No government shall impose or implement a land use regulation in a manner that treats areligious assembly or institution on less than equal terms with a nonreligious assembly or institution.
 
 #### (2) Nondiscrimination
 

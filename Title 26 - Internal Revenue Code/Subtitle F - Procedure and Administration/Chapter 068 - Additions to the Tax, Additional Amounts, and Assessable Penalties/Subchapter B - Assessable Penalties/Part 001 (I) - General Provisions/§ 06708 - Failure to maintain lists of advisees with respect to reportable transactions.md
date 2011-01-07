@@ -22,11 +22,11 @@ Another section 6708 was renumbered section 6709 of this title.
 
 #### Amendments
 
-2004—Pub. L. 108–357, §815(b)(5)(A), substituted “advisees with respect to reportable transactions” for “investors in potentially abusive tax shelters” in section catchline.
+<b>2004</b>—Pub. L. 108–357, §815(b)(5)(A), substituted “advisees with respect to reportable transactions” for “investors in potentially abusive tax shelters” in section catchline.
 
 Subsec. (a). Pub. L. 108–357, §817(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Any person who fails to meet any requirement imposed by section 6112 shall pay a penalty of $50 for each person with respect to whom there is such a failure, unless it is shown that such failure is due to reasonable cause and not due to willful neglect. The maximum penalty imposed under this subsection for any calendar year shall not exceed $100,000.”
 
-1986—Subsec. (a). Pub. L. 99–514 substituted “$100,000” for “$50,000”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted “$100,000” for “$50,000”.
 
 #### Effective Date of 2004 Amendment
 

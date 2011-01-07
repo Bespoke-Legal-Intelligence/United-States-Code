@@ -64,13 +64,13 @@ The Commission may—
 
 #### Amendments
 
-2000—Subsec. (f). Pub. L. 106–521 added subsec. (f).
+<b>2000</b>—Subsec. (f). Pub. L. 106–521 added subsec. (f).
 
-1996—Subsec. (e). Pub. L. 104–104 added subsec. (e).
+<b>1996</b>—Subsec. (e). Pub. L. 104–104 added subsec. (e).
 
-1992—Subsec. (d). Pub. L. 102–556 added subsec. (d).
+<b>1992</b>—Subsec. (d). Pub. L. 102–556 added subsec. (d).
 
-1982—Subsec. (a). Pub. L. 97–259, §108(a)(1), (2), inserted “(1)” after “regulations” and “; and (2) establishing minimum performance standards for home electronic equipment and systems to reduce their susceptibility to interference from radio frequency energy” after “radio communications”, and substituted “or shipment of such devices and home electronic equipment and systems, and to the use of such devices” for “shipment, or use of such devices”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–259, §108(a)(1), (2), inserted “(1)” after “regulations” and “; and (2) establishing minimum performance standards for home electronic equipment and systems to reduce their susceptibility to interference from radio frequency energy” after “radio communications”, and substituted “or shipment of such devices and home electronic equipment and systems, and to the use of such devices” for “shipment, or use of such devices”.
 
 Subsec. (b). Pub. L. 97–259, §108(a)(3), substituted “or ship devices or home electronic equipment and systems, or use devices,” for “ship, or use devices”.
 

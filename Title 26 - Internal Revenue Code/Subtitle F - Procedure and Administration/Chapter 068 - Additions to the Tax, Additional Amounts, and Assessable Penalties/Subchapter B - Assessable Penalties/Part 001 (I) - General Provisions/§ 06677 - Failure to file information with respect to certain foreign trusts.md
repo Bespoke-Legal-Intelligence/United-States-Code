@@ -8,7 +8,7 @@ In addition to any criminal penalty provided by law, if any notice or return req
 
 &emsp;(2) does not include all the information required pursuant to such section or includes incorrect information,
 
-> the person required to file such notice or return shall pay a penalty equal to 35 percent of the gross reportable amount. If any failure described in the preceding sentence continues for more than 90 days after the day on which the Secretary mails notice of such failure to the person required to pay such penalty, such person shall pay a penalty (in addition to the amount determined under the preceding sentence) of $10,000 for each 30-day period (or fraction thereof) during which such failure continues after the expiration of such 90-day period. In no event shall the penalty under this subsection with respect to any failure exceed the gross reportable amount.
+> the person required to file such notice or return shall pay a penalty equal to the greater of $10,000 or 35 percent of the gross reportable amount. If any failure described in the preceding sentence continues for more than 90 days after the day on which the Secretary mails notice of such failure to the person required to pay such penalty, such person shall pay a penalty (in addition to the amount determined under the preceding sentence) of $10,000 for each 30-day period (or fraction thereof) during which such failure continues after the expiration of such 90-day period. At such time as the gross reportable amount with respect to any failure can be determined by the Secretary, any subsequent penalty imposed under this subsection with respect to such failure shall be reduced as necessary to assure that the aggregate amount of such penalties do not exceed the gross reportable amount (and to the extent that such aggregate amount already exceeds the gross reportable amount the Secretary shall refund such excess to the taxpayer).
 
 #### (b) Special rules for returns under section 6048(b)
 
@@ -36,21 +36,27 @@ No penalty shall be imposed by this section on any failure which is shown to be 
 
 Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) shall not apply in respect of the assessment or collection of any penalty imposed by subsection (a).
 
-(Added Pub. L. 87–834, §7(g), Oct. 16, 1962, 76 Stat. 988; amended Pub. L. 91–172, title I, §101(j)(53), Dec. 30, 1969, 83 Stat. 531; Pub. L. 93–406, title II, §1016(a)(21), Sept. 2, 1974, 88 Stat. 931; Pub. L. 94–455, title X, §1013(d)(2), Oct. 4, 1976, 90 Stat. 1616; Pub. L. 104–188, title I, §1901(b), Aug. 20, 1996, 110 Stat. 1907.)
+(Added Pub. L. 87–834, §7(g), Oct. 16, 1962, 76 Stat. 988; amended Pub. L. 91–172, title I, §101(j)(53), Dec. 30, 1969, 83 Stat. 531; Pub. L. 93–406, title II, §1016(a)(21), Sept. 2, 1974, 88 Stat. 931; Pub. L. 94–455, title X, §1013(d)(2), Oct. 4, 1976, 90 Stat. 1616; Pub. L. 104–188, title I, §1901(b), Aug. 20, 1996, 110 Stat. 1907; Pub. L. 111–147, title V, §535(a), Mar. 18, 2010, 124 Stat. 115.)
 
 #### Amendments
 
-1996—Pub. L. 104–188, §1901(b), substituted “information” for “information returns” in section catchline and amended text generally, substituting present provisions for former provisions which related to civil penalty in subsec. (a) and nonapplicability of deficiency procedures in subsec. (b).
+<b>2010</b>—Subsec. (a). Pub. L. 111–147, in concluding provisions, inserted “the greater of $10,000 or” before “35 percent” and substituted “At such time as the gross reportable amount with respect to any failure can be determined by the Secretary, any subsequent penalty imposed under this subsection with respect to such failure shall be reduced as necessary to assure that the aggregate amount of such penalties do not exceed the gross reportable amount (and to the extent that such aggregate amount already exceeds the gross reportable amount the Secretary shall refund such excess to the taxpayer).” for “In no event shall the penalty under this subsection with respect to any failure exceed the gross reportable amount.”
 
-1976—Subsec. (a). Pub. L. 94–455 inserted “(or, in the case of a failure with respect to section 6048(c), equal to 5 percent of the value of the corpus of the trust at the close of the taxable year)” after “transferred to a trust”.
+<b>1996</b>—Pub. L. 104–188, §1901(b), substituted “information” for “information returns” in section catchline and amended text generally, substituting present provisions for former provisions which related to civil penalty in subsec. (a) and nonapplicability of deficiency procedures in subsec. (b).
 
-1974—Subsec. (b). Pub. L. 93–406 substituted “and certain excise” for “chapter 42”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 inserted “(or, in the case of a failure with respect to section 6048(c), equal to 5 percent of the value of the corpus of the trust at the close of the taxable year)” after “transferred to a trust”.
 
-1969—Subsec. (b). Pub. L. 91–172 inserted reference to chapter 42 taxes.
+<b>1974</b>—Subsec. (b). Pub. L. 93–406 substituted “and certain excise” for “chapter 42”.
+
+<b>1969</b>—Subsec. (b). Pub. L. 91–172 inserted reference to chapter 42 taxes.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–147, title V, §535(b), Mar. 18, 2010, 124 Stat. 115, provided that: “The amendments made by this section \[amending this section\] shall apply to notices and returns required to be filed after December 31, 2009.”
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188, to the extent related to section 6048(a) of this title, applicable to reportable events (as defined in such section) occurring after Aug. 20, 1996, to the extent related to section 6048(b) of this title, applicable to taxable years of United States persons beginning after Dec. 31, 1995, and to the extent related to section 6048(c) of this title, applicable to distributions received after Aug. 20, 1996, see section 1901(d) of Pub. L. 104–188, set out as a note under section 6048 of this title.
+Amendment by Pub. L. 104–188, to the extent related to section 6048(a) of this title, applicable to reportable events (as defined in such section) occurring after Aug. 20, 1996, to the extent related to section 6048(b) of this title, applicable to taxable years of United States persons beginning after Dec. 31, 1995, and to the extent related to section 6048(c) of this title, applicable to distributions received after Aug. 20, 1996, see section1901(d) of Pub. L. 104–188, set out as a note under section 6048 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -58,7 +64,7 @@ Amendment by Pub. L. 94–455 applicable to taxable years ending after Dec. 31, 
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub.L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
+Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
 
 #### Effective Date of 1969 Amendment
 

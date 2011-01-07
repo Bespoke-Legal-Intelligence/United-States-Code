@@ -14,11 +14,11 @@
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1622 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1622 of this title as this section.
 
 Subsec. (d). Pub. L. 102–83, §5(c)(1), substituted “3231(a)” for “1631(a)”.
 
-1989—Subsec. (a). Pub. L. 101–237, §423(b)(4)(A), inserted “of Defense” after “Secretary”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–237, §423(b)(4)(A), inserted “of Defense” after “Secretary”.
 
 Subsec. (c). Pub. L. 101–237, §423(b)(4)(D), inserted “of Defense” after “Secretary” wherever appearing.
 
@@ -26,19 +26,19 @@ Subsec. (d). Pub. L. 101–237, §423(b)(1)(A), (4)(A), substituted “Secretary
 
 Subsec. (e). Pub. L. 101–237, §423(b)(1), (4)(B), substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, and inserted “of Defense” after “established by the Secretary”.
 
-1983—Subsec. (d). Pub. L. 98–160 inserted “of this title” after “section 1631(a)”.
+<b>1983</b>—Subsec. (d). Pub. L. 98–160 inserted “of this title” after “section 1631(a)”.
 
-1982—Subsec. (d). Pub. L. 97–306, §210, substituted “$100” for “$75”.
+<b>1982</b>—Subsec. (d). Pub. L. 97–306, §210, substituted “$100” for “$75”.
 
 Subsec. (e). Pub. L. 97–306, §209, added subsec. (e).
 
-1980—Subsec. (a). Pub. L. 96–466, §406(a), substituted “Except as provided in subsections (c) and (d) of this section, each” for “Each”, “$25” for “$50”, and “$100” for “$75”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–466, §406(a), substituted “Except as provided in subsections (c) and (d) of this section, each” for “Each”, “$25” for “$50”, and “$100” for “$75”.
 
 Subsec. (c). Pub. L. 96–466, §406(b), inserted “, including contributions in lieu of, or to reduce the amount of, monthly deductions under subsection (a) of this section” after “Armed Forces”.
 
 Subsec. (d). Pub. L. 96–466, §406(c), added subsec. (d).
 
-1976—Subsec. (b). Pub. L. 94–502 substituted “Department of Defense” for “Veterans’ Administration”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–502 substituted “Department of Defense” for “Veterans’ Administration”.
 
 #### Effective Date of 1980 Amendment
 
@@ -50,7 +50,7 @@ Amendment by Pub. L. 94–502 effective Jan. 1, 1982, because new enrollments af
 
 #### Refunds for Certain Service Academy Graduates
 
-Pub. L. 101–366, title II, §207, Aug. 15, 1990, 104 Stat. 442, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, directed Secretary of Veterans Affairs to refund, on receipt before Jan. 1, 1992, of an application from an individual, not later than 60 days after receiving such application, the amount, if any, of the individual's unused contributions to the VEAP Account; if the individual has received educational assistance under this chapter, to pay to the individual (out of funds appropriated to the readjustment benefits account) a sum equal to the amount by which the amount of the educational assistance that the individual would have received under chapter 34 of this title for the pursuit of such program exceeds the amount of the educational assistance that the individual did receive under this chapter for the pursuit of such program; or if the individual has not received educational assistance under this chapter, to pay to the individual (out of funds appropriated to the Department of Veterans Affairs Readjustment Benefits account) a sum equal to the amount of educational assistance that the individual would have received under chapter 34 of this title for the pursuit of a program of education if the individual had been entitled to assistance under such program during the period ending on Dec. 31, 1989; and to refund to the Secretary of Defense the unused contributions by such Secretary to the VEAP Account on behalf of such individual.
+Pub. L. 101–366, title II, §207, Aug. 15, 1990, 104 Stat. 442, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, directed Secretary of Veterans Affairs to refund, on receipt before Jan. 1, 1992, of an application from an individual, not later than 60 days after receiving such application, the amount, if any, of the individual's unused contributions to the VEAP Account; if the individual has received educational assistance under this chapter, to pay to the individual (out of funds appropriated to the readjustment benefits account) a sum equal to the amount by which the amount of the educational assistance that the individual would have received under chapter 34 of this title for the pursuit of such program exceeds the amount of the educational assistance that the individual did receive under this chapter for the pursuit of such program; or if the individual has not received educational assistance under this chapter, to pay to the individual (out of funds appropriated to the Department of Veterans Affairs Readjustment Benefits account) a sum equal to the amountof educational assistance that the individual would have received under chapter 34 of this title for the pursuit of a program of education if the individual had been entitled to assistance under such program during the period ending on Dec. 31, 1989; and to refund to the Secretary of Defense the unused contributions by such Secretary to the VEAP Account on behalf of such individual.
 
 #### Educational Assistance Pilot Program; Payment of Monthly Contribution by Secretary; Manner, Scope, Etc., of Payments
 

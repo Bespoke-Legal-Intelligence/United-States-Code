@@ -4,5 +4,13 @@
 
 (b) In the case of preauthorized transfers from a consumer's account to the same person which may vary in amount, the financial institution or designated payee shall, prior to each transfer, provide reasonable advance notice to the consumer, in accordance with regulations of the Board, of the amount to be transferred and the scheduled date of the transfer.
 
-(Pub. L. 90–321, title IX, §907, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3733.)
+(Pub. L. 90–321, title IX, §907, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3733; amended Pub. L. 111–203, title X, §1084(1), July 21, 2010, 124 Stat. 2081.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1084(1), 1100H, July 21, 2010, 124 Stat. 2081, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 

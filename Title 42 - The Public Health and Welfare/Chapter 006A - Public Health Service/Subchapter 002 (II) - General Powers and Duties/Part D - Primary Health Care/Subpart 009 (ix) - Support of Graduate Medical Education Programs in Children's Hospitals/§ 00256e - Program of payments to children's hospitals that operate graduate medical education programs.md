@@ -52,7 +52,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 &emsp;&emsp;&emsp;(ii) The number of training positions for residents described in subparagraph (C), the number of such positions recruited to fill, and the number of such positions filled.
 
-&emsp;&emsp;&emsp;(iii) The types of training that the hospital provided for residents described in subparagraph (C) related to the health care needs of different populations, such as children who are underserved for reasons of family income or geographic location, including rural and urban areas.
+&emsp;&emsp;&emsp;(iii) The types of training that the hospital provided for residents described insubparagraph (C) related to the health care needs of different populations, such as children who are underserved for reasons of family income or geographic location, including rural and urban areas.
 
 &emsp;&emsp;&emsp;(iv) The changes in residency training for residents described in subparagraph (C) which the hospital has made during such residency academic year (except that the first report submitted by the hospital under this subparagraph shall be for such changes since the first year in which the hospital received payment under this section), including—
 
@@ -120,7 +120,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 &emsp;&emsp;The Secretary shall compute for each such hospital that is a children's hospital a per resident amount—
 
-&emsp;&emsp;&emsp;(i) by dividing the national average per resident amount computed under subparagraph (D) into a wage-related portion and a non-wage-related portion by applying the proportion determined under subparagraph (B);
+&emsp;&emsp;&emsp;(i) by dividing the national average per resident amount computed under subparagraph (D) into a wage-related portion and a non-wage-related portion by applyingthe proportion determined under subparagraph (B);
 
 &emsp;&emsp;&emsp;(ii) by multiplying the wage-related portion by the factor applied under section 1395ww(d)(3)(E) of this title for discharges occurring during the preceding fiscal year for the hospital's area; and
 
@@ -196,7 +196,7 @@ In this section:
 
 #### (1) Approved graduate medical residency training program
 
-&emsp;The term “approved graduate medical residency training program” has the meaning given the term “approved medical residency training program” in section 1395ww(h)(5)(A) of this title.
+&emsp;The term “approved graduate medical residency training program” has the meaninggiven the term “approved medical residency training program” in section 1395ww(h)(5)(A) of this title.
 
 #### (2) Children's hospital
 
@@ -214,7 +214,7 @@ Section 1395ww(d) of this title, referred to in subsec. (e)(3), was in the origi
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–307, §2(a)(1), inserted “and each of fiscal years 2007 through 2011” after “for each of fiscal years 2000 through 2005”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–307, §2(a)(1), inserted “and each of fiscal years 2007 through 2011” after “for each of fiscal years 2000 through 2005”.
 
 Subsec. (b)(1). Pub. L. 109–307, §2(b)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)” in introductory provisions.
 
@@ -234,11 +234,11 @@ Subsec. (f)(2). Pub. L. 109–307, §2(a)(4)(A), substituted “subsection (b)(1
 
 Subsec. (f)(2)(D). Pub. L. 109–307, §2(a)(4)(B)–(D), added subpar. (D).
 
-2004—Subsec. (d)(1). Pub. L. 108–490, §1(a)(1), substituted “costs associated with” for “costs related to”.
+<b>2004</b>—Subsec. (d)(1). Pub. L. 108–490, §1(a)(1), substituted “costs associated with” for “costs related to”.
 
 Subsec. (d)(2)(A). Pub. L. 108–490, §1(a)(2), inserted “ratio of the” after “hospitals and the” and “to beds (but excluding beds or bassinets assigned to healthy newborn infants)” before semicolon.
 
-2000—Subsec. (a). Pub. L. 106–310, §2001(a), substituted “2000 through 2005” for “2000 and 2001” and inserted at end “The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–310, §2001(a), substituted “2000 through 2005” for “2000 and 2001” and inserted at end “The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.”.
 
 Subsec. (c)(2)(F). Pub. L. 106–310, §2001(b), substituted “Federal fiscal year for which payments are made” for “hospital's cost reporting period that begins during fiscal year 2000”.
 
@@ -257,4 +257,6 @@ Subsec. (g)(2). Pub. L. 106–310, §2001(g), substituted “with a Medicare pay
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–490, §1(b), Dec. 23, 2004, 118 Stat. 3972, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to payments for periods beginning with fiscal year 2005.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -52,7 +52,7 @@ Subject to subsection (e), the State shall—
 
 #### (1) In general
 
-&emsp;The Secretary, directly or through contracts or interagency agreements, shall conduct an independent evaluation of 10 States with approved child health plans.
+&emsp;The Secretary, directly or through contracts or interagency agreements, shall conduct anindependent evaluation of 10 States with approved child health plans.
 
 #### (2) Selection of States
 
@@ -114,6 +114,8 @@ The State shall include the following information in the annual report required 
 
 &emsp;(6) To the extent applicable, a description of any State activities that are designed to reduce the number of uncovered children in the State, including through a State health insurance connector program or support for innovative private health coverage initiatives.
 
+&emsp;(7) Data collected and reported in accordance with section 300kk of this title, with respect to individuals enrolled in the State child health plan (and, in the case of enrollees under 19 years of age, their parents or legal guardians), including data regarding the primary language of such individuals, parents, and legal guardians.
+
 #### (e) <sup>1</sup> Information on dental care for children
 
 #### (1) In general
@@ -130,11 +132,13 @@ The State shall include the following information in the annual report required 
 
 &emsp;The information under paragraph (1) shall include information on children who are enrolled in managed care plans and other private health plans and contracts with such plans under this subchapter shall provide for the reporting of such information by such plans to the State.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2108, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 566; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(b), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–401; Pub. L. 111–3, title II, §201(b)(2)(B)(ii), title IV, §402(a), title V, §501(e)(2), title VI, §§603, 604, Feb. 4, 2009, 123 Stat. 39, 82, 87, 99; Pub. L. 111–8, div. G, title I, §1301(e), Mar. 11, 2009, 123 Stat. 829.)
+(Aug. 14, 1935, ch. 531, title XXI, §2108, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 566; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(b), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–401; Pub. L. 111–3, title II, §201(b)(2)(B)(ii), title IV, §402(a), title V, §501(e)(2), title VI, §§603, 604, Feb. 4, 2009, 123 Stat. 39, 82, 87, 99; Pub. L. 111–8, div. G, title I, §1301(e), Mar. 11, 2009, 123 Stat. 829; Pub. L. 111–148, title IV, §4302(b)(1)(B), Mar. 23, 2010, 124 Stat. 581.)
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–3, §402(a)(1), substituted “Subject to subsection (e), the State” for “The State” in introductory provisions.
+<b>2010</b>—Subsec. (e)(7). Pub. L. 111–148, which directed amendment of subsec. (e) by adding par. (7) at end, was executed to the subsec. (e) added by Pub. L. 111–3, §402(a)(2), relating to information required for inclusion in State annual report, to reflect the probable intent of Congress.
+
+<b>2009</b>—Subsec. (a). Pub. L. 111–3, §402(a)(1), substituted “Subject to subsection (e), the State” for “The State” in introductory provisions.
 
 Subsec. (c)(3)(B). Pub. L. 111–3, §201(b)(2)(B)(ii), inserted “(such as through community health workers and others)” after “including practices”.
 
@@ -148,7 +152,7 @@ Subsec. (e). Pub. L. 111–3, §501(e)(2), added subsec. (e) relating to informa
 
 Pub. L. 111–3, §402(a)(2), added subsec. (e) relating to information required for inclusion in State annual report.
 
-1999—Subsecs. (c), (d). Pub. L. 106–113 added subsecs. (c) and (d).
+<b>1999</b>—Subsecs. (c), (d). Pub. L. 106–113 added subsecs. (c) and (d).
 
 #### Effective Date of 2009 Amendment
 

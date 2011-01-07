@@ -10,7 +10,7 @@ Financial assistance provided through contracts, grants, or agreements entered i
 
 &emsp;(1) planning for the development, enhancement, and operation of tribal justice systems;
 
-&emsp;(2) the employment of judicial personnel;
+&emsp;(2) the employment of tribal court personnel, including tribal court judges, prosecutors, public defenders, appointed defense counsel, guardians ad litem, and court-appointed special advocates for children and juveniles;
 
 &emsp;(3) training programs and continuing education for tribal judicial personnel;
 
@@ -40,7 +40,7 @@ Financial assistance provided through contracts, grants, or agreements entered i
 
 (1) Not later than 180 days after December 3, 1993, the Secretary, with the full participation of Indian tribes, shall establish and promulgate by regulation, a formula which establishes base support funding for tribal justice systems in carrying out this section.
 
-(2) The Secretary shall assess caseload and staffing needs for tribal justice systems that take into account unique geographic and demographic conditions. In the assessment of these needs, the Secretary shall work cooperatively with Indian tribes and tribal organizations and shall refer to any data developed as a result of the surveys conducted pursuant to section 3612 of this title and to relevant assessment standards developed by the Judicial Conference of the United States, the National Center for State Courts, the American Bar Association, and appropriate State bar associations.
+(2) The Secretary shall assess caseload and staffing needs for tribal justice systems thattake into account unique geographic and demographic conditions. In the assessment of these needs, the Secretary shall work cooperatively with Indian tribes and tribal organizations and shall refer to any data developed as a result of the surveys conducted pursuant to section 3612 of this title and to relevant assessment standards developed by the Judicial Conference of the United States, the National Center for State Courts, the American Bar Association, and appropriate State bar associations.
 
 (3) Factors to be considered in the development of the base support funding formula shall include, but are not limited to—
 
@@ -58,9 +58,13 @@ Financial assistance provided through contracts, grants, or agreements entered i
 
 (4) In developing and administering the formula for base support funding for the tribal judicial systems under this section, the Secretary shall ensure equitable distribution of funds.
 
-(Pub. L. 103–176, title I, §103, Dec. 3, 1993, 107 Stat. 2007.)
+(Pub. L. 103–176, title I, §103, Dec. 3, 1993, 107 Stat. 2007; Pub. L. 111–211, title II, §242(a)(1), July 29, 2010, 124 Stat. 2292.)
 
 #### References in Text
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–211 added par. (2) and struck out former par. (2) which read as follows: “the employment of judicial personnel;”.
 

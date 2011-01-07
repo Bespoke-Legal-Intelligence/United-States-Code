@@ -20,9 +20,9 @@ Provisions similar to those in this section were contained in section 5034 of th
 
 #### Amendments
 
-2008—Subsec. (b)(4). Pub. L. 110–181 added par. (4).
+<b>2008</b>—Subsec. (b)(4). Pub. L. 110–181 added par. (4).
 
-1988—Subsec. (b)(3). Pub. L. 100–456 added par. (3).
+<b>1988</b>—Subsec. (b)(3). Pub. L. 100–456 added par. (3).
 
 #### Effective Date of 1988 Amendment
 

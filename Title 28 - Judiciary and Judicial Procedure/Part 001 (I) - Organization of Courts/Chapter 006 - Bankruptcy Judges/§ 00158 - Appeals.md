@@ -66,11 +66,11 @@
 
 (C) The parties may supplement the certification with a short statement of the basis for the certification.
 
-(D) An appeal under this paragraph does not stay any proceeding of the bankruptcy court, the district court, or the bankruptcy appellate panel from which the appeal is taken, unless the respective bankruptcy court, district court, or bankruptcy appellate panel, or the court of appeals in which the appeal in <sup>2</sup> pending, issues a stay of such proceeding pending the appeal.
+(D) An appeal under this paragraph does not stay any proceeding of the bankruptcy court, the district court, or the bankruptcy appellate panel from which the appeal is taken, unless the respective bankruptcy court, district court, or bankruptcy appellate panel, or the court of appeals in which the appeal is pending, issues a stay of such proceeding pending the appeal.
 
 (E) Any request under subparagraph (B) for certification shall be made not later than 60 days after the entry of the judgment, order, or decree.
 
-(Added Pub. L. 98–353, title I, §104(a), July 10, 1984, 98 Stat. 341; amended Pub. L. 101–650, title III, §305, Dec. 1, 1990, 104 Stat. 5105; Pub. L. 103–394, title I, §§102, 104(c), (d), Oct. 22, 1994, 108 Stat. 4108–4110; Pub. L. 109–8, title XII, §1233(a), Apr. 20, 2005, 119 Stat. 202.)
+(Added Pub. L. 98–353, title I, §104(a), July 10, 1984, 98 Stat. 341; amended Pub. L. 101–650, title III, §305, Dec. 1, 1990, 104 Stat. 5105; Pub. L. 103–394, title I, §§102, 104(c), (d), Oct. 22, 1994, 108 Stat. 4108–4110; Pub. L. 109–8, title XII, §1233(a), Apr. 20, 2005, 119 Stat. 202; Pub. L. 111–327, §2(c)(1), Dec. 22, 2010, 124 Stat. 3562.)
 
 #### References in Text
 
@@ -78,11 +78,13 @@ The Bankruptcy Rules, referred to in subsec. (c)(2), are set out in the Appendix
 
 #### Amendments
 
-2005—Subsec. (c)(1). Pub. L. 109–8, §1233(a)(1), substituted “Subject to subsections (b) and (d)(2),” for “Subject to subsection (b),”.
+<b>2010</b>—Subsec. (d)(2)(D). Pub. L. 111–327 substituted “appeal is pending” for “appeal in pending”.
+
+<b>2005</b>—Subsec. (c)(1). Pub. L. 109–8, §1233(a)(1), substituted “Subject to subsections (b) and (d)(2),” for “Subject to subsection (b),”.
 
 Subsec. (d). Pub. L. 109–8, §1233(a)(2), designated existing provisions as par. (1) and added par. (2).
 
-1994—Subsec. (a). Pub. L. 103–394, §102, which directed the amendment of subsec. (a) by striking “from” the first place it appears and all that follows through “decrees,” and inserting pars. (1) to (3), was executed by making the insertion and striking after “appeals” “from final judgments, orders, and decrees,”, which is through “decrees,” the first place appearing, to reflect the probable intent of Congress.
+<b>1994</b>—Subsec. (a). Pub. L. 103–394, §102, which directed the amendment of subsec. (a) by striking “from” the first place it appears and all that follows through “decrees,” and inserting pars. (1) to (3), was executed by making the insertion and striking after “appeals” “from final judgments, orders, and decrees,”, which is through “decrees,” the first place appearing, to reflect the probable intent of Congress.
 
 Subsec. (b)(1). Pub. L. 103–394, §104(c)(3), added par. (1) and struck out former par. (1) which read as follows: “The judicial council of a circuit may establish a bankruptcy appellate panel, comprised of bankruptcy judges from districts within the circuit, to hear and determine, upon the consent of all the parties, appeals under subsection (a) of this section.”
 
@@ -96,7 +98,7 @@ Subsec. (b)(5), (6). Pub. L. 103–394, §104(c)(4), added pars. (5) and (6).
 
 Subsec. (c). Pub. L. 103–394, §104(d), designated existing provisions as par. (2) and added par. (1).
 
-1990—Subsec. (b)(2) to (4). Pub. L. 101–650 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+<b>1990</b>—Subsec. (b)(2) to (4). Pub. L. 101–650 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
 #### Effective Date of 2005 Amendment
 
@@ -147,6 +149,4 @@ References in rule 5.—For purposes of rule 5 of the Federal Rules of Appellate
 Application of rules.—The Federal Rules of Appellate Procedure shall apply in the courts of appeals with respect to appeals authorized under section 158(d)(2)(A), to the extent relevant and as if such appeals were taken from final judgments, orders, or decrees of the district courts or bankruptcy appellate panels exercising appellate jurisdiction under subsection (a) or (b) of section 158 of title 28, United States Code.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a dash.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “is”.</i>
 

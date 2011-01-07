@@ -22,7 +22,7 @@ There is hereby established the Solar Energy Coordination and Management Project
 
 (2) The President shall designate one member of the Project to serve as Chairman of the Project.
 
-(3) If the individual designated under paragraph (1)(F) is an officer or employee of the Federal Government, he shall receive no additional pay on account of his service as a member of the Project. If such individual is not an officer or employee of the Federal Government, he shall be entitled to receive the daily equivalent of the annual rate of basic pay in effect for level IV of the Executive Schedule (5 U.S.C. 5315) for each day (including traveltime) during which he is engaged in the actual performance of duties vested in the Project.
+(3) If the individual designated under paragraph (1)(F) is an officer or employee of the Federal Government, he shall receive no additional pay on account of his service as a member of theProject. If such individual is not an officer or employee of the Federal Government, he shall be entitled to receive the daily equivalent of the annual rate of basic pay in effect for level IV of the Executive Schedule (5 U.S.C. 5315) for each day (including traveltime) during which he is engaged in the actual performance of duties vested in the Project.
 
 #### (c) Responsibilities
 

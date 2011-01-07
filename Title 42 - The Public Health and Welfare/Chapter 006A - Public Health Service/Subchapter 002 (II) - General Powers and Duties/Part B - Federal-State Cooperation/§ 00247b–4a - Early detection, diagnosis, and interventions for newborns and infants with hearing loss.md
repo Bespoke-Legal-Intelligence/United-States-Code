@@ -70,7 +70,7 @@ Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et
 
 #### (2) National Institutes of Health
 
-&emsp;Under the existing authority of the Public Health Service Act, the Director of the National Institutes of Health, acting through the Director of the National Institute on Deafness and Other Communication Disorders, shall for purposes of this section, continue a program of research and development on the efficacy of new screening techniques and technology, including clinical studies of screening methods, studies on efficacy of intervention, and related research.
+&emsp;Under the existing authority of the Public Health Service Act, the Director of the National Institutes of Health, acting through the Director of the National Institute on Deafnessand Other Communication Disorders, shall for purposes of this section, continue a program of research and development on the efficacy of new screening techniques and technology, including clinical studies of screening methods, studies on efficacy of intervention, and related research.
 
 #### (e) Coordination and collaboration
 
@@ -116,5 +116,5 @@ The Social Security Act, referred to in subsec. (e)(1), is act Aug. 14, 1935, ch
 
 #### Codification
 
-Section was enacted as part of the Departments of Labor, Health, and Human Services, and Education, and Related Agencies Appropriations Act, 2000, and not as part of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Departments of Labor, Health, and Human Services, and Education,and Related Agencies Appropriations Act, 2000, and not as part of the Public Health Service Act which comprises this chapter.
 

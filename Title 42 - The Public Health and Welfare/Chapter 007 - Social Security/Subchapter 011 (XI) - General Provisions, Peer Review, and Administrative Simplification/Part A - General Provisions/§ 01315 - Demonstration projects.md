@@ -2,7 +2,7 @@
 
 #### (a) Waiver of State plan requirements; costs regarded as State plan expenditures; availability of appropriations
 
-In the case of any experimental, pilot, or demonstration project which, in the judgment of the Secretary, is likely to assist in promoting the objectives of subchapter I, X, XIV, XVI, or XIX of this chapter, or part A or D of subchapter IV of this chapter, in a State or States—
+In the case of any experimental, pilot, or demonstration project which, in the judgment of the Secretary, is likely to assist in promoting theobjectives of subchapter I, X, XIV, XVI, or XIX of this chapter, or part A or D of subchapter IV of this chapter, in a State or States—
 
 &emsp;(1) the Secretary may waive compliance with any of the requirements of section 302, 602, 654, 1202, 1352, 1382, or 1396a of this title, as the case may be, to the extent and for the period he finds necessary to enable such State or States to carry out such project, and
 
@@ -38,11 +38,35 @@ In the case of any experimental, pilot, or demonstration project undertaken unde
 
 (B) The Secretary shall report the results of the demonstration projects conducted under this subsection to the Congress not later than 6 months after all such projects are completed.
 
-#### (e) <sup>1</sup> Extensions of State-wide comprehensive demonstration projects for which waivers granted
+#### (d) Regulations relating to applications for or renewals of demonstration projects
+
+(1) An application or renewal of any experimental, pilot, or demonstration project undertaken under subsection (a) to promote the objectives of subchapter XIX or XXI in a State that would result in an impact on eligibility, enrollment, benefits, cost-sharing, or financing with respect to a State program under subchapter XIX or XXI (in this subsection referred to as a “demonstration project”) shall be considered by the Secretary in accordance with the regulations required to be promulgated under paragraph (2).
+
+(2) Not later than 180 days after March 23, 2010, the Secretary shall promulgate regulations relating to applications for, and renewals of, a demonstration project that provide for—
+
+&emsp;(A) a process for public notice and comment at the State level, including public hearings, sufficient to ensure a meaningful level of public input;
+
+&emsp;(B) requirements relating to—
+
+&emsp;&emsp;(i) the goals of the program to be implemented or renewed under the demonstration project;
+
+&emsp;&emsp;(ii) the expected State and Federal costs and coverage projections of the demonstration project; and
+
+&emsp;&emsp;(iii) the specific plans of the State to ensure that the demonstration project will be in compliance with subchapter XIX or XXI;
+
+&emsp;(C) a process for providing public notice and comment after the application is received by the Secretary, that is sufficient to ensure a meaningful level of public input;
+
+&emsp;(D) a process for the submission to the Secretary of periodic reports by the State concerning the implementation of the demonstration project; and
+
+&emsp;(E) a process for the periodic evaluation by the Secretary of the demonstration project.
+
+(3) The Secretary shall annually report to Congress concerning actions taken by the Secretary with respect to applications for demonstration projects under this section.
+
+#### (e) Extensions of State-wide comprehensive demonstration projects for which waivers granted
 
 (1) The provisions of this subsection shall apply to the extension of any State-wide comprehensive demonstration project (in this subsection referred to as “waiver project”) for which a waiver of compliance with requirements of subchapter XIX of this chapter is granted under subsection (a) of this section.
 
-(2) During the 6-month period ending 1 year before the date the waiver under subsection (a) of this section with respect to a waiver project would otherwise expire, the chief executive officer of the State which is operating the project may submit to the Secretary a written request for an extension, of up to 3 years, of the project.
+(2) During the 6-month period ending 1 year before the date the waiver under subsection (a) of this section with respect to a waiver project would otherwise expire, the chief executive officer of the State which is operating the project may submit to the Secretary a written request for an extension, of up to 3 years (5 years, in the case of a waiver described in section 1396n(h)(2) of this title), of the project.
 
 (3) If the Secretary fails to respond to the request within 6 months after the date it is submitted, the request is deemed to have been granted.
 
@@ -78,11 +102,11 @@ An application by the chief executive officer of a State for an extension of a w
 
 &emsp;(B) A failure by the Secretary to approve or disapprove an application submitted under this subsection in accordance with the requirements of subparagraph (A) shall be deemed to be an approval of the application subject to such modifications in the terms and conditions as have been agreed to (if any) by the Secretary and the State.
 
-&emsp;(6) An approval of an application for an extension of a waiver project under this subsection shall be for a period not to exceed 3 years.
+&emsp;(6) An approval of an application for an extension of a waiver project under this subsection shall be for a period not to exceed 3 years (5 years, in the case of a waiver described in section 1396n(h)(2) of this title).
 
 &emsp;(7) An extension of a waiver project under this subsection shall be subject to the final reporting and evaluation requirements of paragraphs (4) and (5) of subsection (e) of this section (taking into account the extension under this subsection with respect to any timing requirements imposed under those paragraphs).
 
-(Aug. 14, 1935, ch. 531, title XI, §1115, as added Pub. L. 87–543, title I, §122, July 25, 1962, 76 Stat. 192; amended Pub. L. 89–97, title I, §121(c)(3), July 30, 1965, 79 Stat. 352; Pub. L. 90–36, §2, June 29, 1967, 81 Stat. 94; Pub. L. 90–248, title II, §§241(c)(4), 247, Jan. 2, 1968, 81 Stat. 917, 918; Pub. L. 93–233, §18(z–2)(1)(B), Dec. 31, 1973, 87 Stat. 973; Pub. L. 93–647, §3(c), Jan. 4, 1975, 88 Stat. 2349; Pub. L. 95–216, title IV, §404, Dec. 20, 1977, 91 Stat. 1562; Pub. L. 97–35, title XXIII, §2353(g),Aug. 13, 1981, 95 Stat. 872; Pub. L. 98–369, div. B, title VI, §2663(e)(5), July 18, 1984, 98 Stat. 1168; Pub. L. 98–378, §10, Aug. 16, 1984, 98 Stat. 1317; Pub. L. 99–272, title XIV, §14001(b)(2), Apr. 7, 1986, 100 Stat. 328; Pub. L. 100–485, title V, §503, Oct. 13, 1988, 102 Stat. 2402; Pub. L. 104–193, title I, §108(g)(2), Aug. 22, 1996, 110 Stat. 2168; Pub. L. 105–33, title IV, §4757(a), Aug. 5, 1997, 111 Stat. 527; Pub. L. 106–554, §1(a)(6) \[title VII, §703(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–574.)
+(Aug. 14, 1935, ch. 531, title XI, §1115, as added Pub. L. 87–543, title I, §122, July 25, 1962, 76 Stat. 192; amended Pub. L. 89–97, title I, §121(c)(3), July 30, 1965, 79 Stat. 352; Pub. L. 90–36, §2, June 29, 1967, 81 Stat. 94; Pub. L. 90–248, title II, §§241(c)(4), 247, Jan. 2, 1968, 81 Stat. 917, 918; Pub. L. 93–233, §18(z–2)(1)(B), Dec. 31, 1973, 87 Stat. 973; Pub. L. 93–647, §3(c), Jan. 4, 1975, 88 Stat. 2349; Pub. L. 95–216, title IV, §404, Dec. 20, 1977, 91 Stat. 1562; Pub. L. 97–35, title XXIII, §2353(g), Aug. 13, 1981, 95 Stat. 872; Pub. L. 98–369, div. B, title VI, §2663(e)(5), July 18, 1984, 98 Stat. 1168; Pub. L. 98–378, §10, Aug. 16, 1984, 98 Stat. 1317; Pub. L. 99–272, title XIV, §14001(b)(2), Apr. 7, 1986, 100 Stat. 328; Pub. L. 100–485, title V, §503, Oct. 13, 1988, 102 Stat. 2402; Pub. L. 104–193, title I, §108(g)(2), Aug. 22, 1996, 110 Stat. 2168; Pub. L. 105–33, title IV, §4757(a), Aug. 5, 1997, 111 Stat. 527; Pub. L. 106–554, §1(a)(6) \[title VII, §703(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–574; Pub. L. 111–148, title II, §2601(b)(2), title X, §10201(i), Mar. 23, 2010, 124 Stat. 315, 922.)
 
 #### References in Text
 
@@ -92,11 +116,17 @@ Sections 1382 and 1383 of this title, referred to in subsec. (a)(1), (2), respec
 
 #### Amendments
 
-2000—Subsec. (f). Pub. L. 106–554 added subsec. (f).
+<b>2010</b>—Subsec. (d). Pub. L. 111–148, §10201(i), added subsec. (d).
 
-1997—Subsec. (e). Pub. L. 105–33 added subsec. (e).
+Subsec. (e)(2). Pub. L. 111–148, §2601(b)(2)(A), inserted “(5 years, in the case of a waiver described in section 1396n(h)(2) of this title)” after “3 years”.
 
-1996—Subsec. (a)(2). Pub. L. 104–193, §108(g)(2)(A), designated existing provisions as subpar. (A), struck out “603,” before “655,”, substituted “, and” for period at end, and added subpar. (B).
+Subsec. (f)(6). Pub. L. 111–148, §2601(b)(2)(B), inserted “(5 years, in the case of a waiver described in section 1396n(h)(2) of this title)” after “3 years”.
+
+<b>2000</b>—Subsec. (f). Pub. L. 106–554 added subsec. (f).
+
+<b>1997</b>—Subsec. (e). Pub. L. 105–33 added subsec. (e).
+
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–193, §108(g)(2)(A), designated existing provisions as subpar. (A), struck out “603,” before “655,”, substituted “, and” for period at end, and added subpar. (B).
 
 Subsec. (b). Pub. L. 104–193, §108(g)(2)(C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to purposes, criteria and procedures applicable to establishment, participatory effect, duration and termination of demonstration projects.
 
@@ -106,11 +136,11 @@ Subsec. (c)(3). Pub. L. 104–193, §108(g)(2)(B), substituted “part A of such
 
 Subsec. (d). Pub. L. 104–193, §108(g)(2)(C), redesignated subsec. (d) as (c).
 
-1988—Subsec. (d). Pub. L. 100–485 added subsec. (d).
+<b>1988</b>—Subsec. (d). Pub. L. 100–485 added subsec. (d).
 
-1986—Subsec. (b)(2)(C). Pub. L. 99–272 struck out subpar. (C) relating to use of funds as are appropriated for payments to States under chapter 67 of title 31 to cover costs of salaries for individuals in public service employment.
+<b>1986</b>—Subsec. (b)(2)(C). Pub. L. 99–272 struck out subpar. (C) relating to use of funds as are appropriated for payments to States under chapter 67 of title 31 to cover costs of salaries for individuals in public service employment.
 
-1984—Subsec. (a). Pub. L. 98–378, §10(a)(1), substituted “part A or D of subchapter IV” for “part A of subchapter IV” in provisions preceding par. (1).
+<b>1984</b>—Subsec. (a). Pub. L. 98–378, §10(a)(1), substituted “part A or D of subchapter IV” for “part A of subchapter IV” in provisions preceding par. (1).
 
 Pub. L. 98–369, §2663(e)(5), struck out “VI,” after “I,” in provisions preceding par. (1).
 
@@ -124,25 +154,25 @@ Pub. L. 98–369, §2663(e)(5), struck out “803,” after “603,”.
 
 Subsec. (c). Pub. L. 98–378, §10(b), added subsec. (c).
 
-1981—Subsec. (a). Pub. L. 97–35 substituted in provision preceding par. (1) “or XIX of this chapter” for “XIX, or XX of this chapter”, in par. (1) “or 1396a of this title” for “1396a, 1397a, 1397b, or 1397c of this title”, and in par. (2) “or 1396b of this title” for “1396b, or 1397a of this title” and in par. (2) struck out “or expenditures with respect to which payment shall be made under section 1397a of this title,” before “as may be appropriate”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted in provision preceding par. (1) “or XIX of this chapter” for “XIX, or XX of this chapter”, in par. (1) “or 1396a of this title” for “1396a, 1397a, 1397b, or 1397c of this title”, and in par. (2) “or 1396b of this title” for “1396b, or 1397a of this title” and in par. (2) struck out “or expenditures with respect to which payment shall be made under section 1397a of this title,” before “as may be appropriate”.
 
-1977—Pub. L. 95–216 designated existing provisions as subsec. (a) and existing pars. (a) and (b) thereof as pars. (1) and (2), respectively, and added subsec. (b).
+<b>1977</b>—Pub. L. 95–216 designated existing provisions as subsec. (a) and existing pars. (a) and (b) thereof as pars. (1) and (2), respectively, and added subsec. (b).
 
-1975—Pub. L. 93–647, §3(c)(1), substituted “XIX, or XX” for “or XIX”.
+<b>1975</b>—Pub. L. 93–647, §3(c)(1), substituted “XIX, or XX” for “or XIX”.
 
 Subsec. (a). Pub. L. 93–647, §3(c)(2), inserted references to sections 1397a, 1397b, and 1397c.
 
 Subsec. (b). Pub. L. 93–647, §3(c)(3), (4), substituted “1396b, or 1397a” for “1396b”, and inserted “or expenditures with respect to which payment shall be made under section 1397a of this title” after “administration of such State plan or plans,”.
 
-1973—Pub. L. 93–233 inserted references in text preceding subsec. (a) to subchapter VI of this chapter, in subsec. (a) to section 802 of this title, and in subsec. (b) to section 803 of this title.
+<b>1973</b>—Pub. L. 93–233 inserted references in text preceding subsec. (a) to subchapter VI of this chapter, in subsec. (a) to section 802 of this title, and in subsec. (b) to section 803 of this title.
 
-1968—Pub. L. 90–248, §241(c)(4), in opening phrase struck out “IV,” after “I,” and inserted “, or part A of subchapter IV of this chapter,” after “XIX of this chapter”.
+<b>1968</b>—Pub. L. 90–248, §241(c)(4), in opening phrase struck out “IV,” after “I,” and inserted “, or part A of subchapter IV of this chapter,” after “XIX of this chapter”.
 
 Pub. L. 90–248, §247, substituted in second sentence “$4,000,000” for “$2,000,000” and “beginning after June 30, 1967” for “ending prior to July 1, 1968”.
 
-1967—Pub. L. 90–36 substituted “July 1, 1968” for “July 1, 1967”.
+<b>1967</b>—Pub. L. 90–36 substituted “July 1, 1968” for “July 1, 1967”.
 
-1965—Pub. L. 89–97 included in enumeration in opening phrase, and cls. (a) and (b), subchapter XIX of this chapter, and sections 1396a and 1396b of this title, respectively.
+<b>1965</b>—Pub. L. 89–97 included in enumeration in opening phrase, and cls. (a) and (b), subchapter XIX of this chapter, and sections 1396a and 1396b of this title, respectively.
 
 #### Effective Date of 2000 Amendment
 
@@ -154,7 +184,7 @@ Section 4757(b) of Pub. L. 105–33 provided that: “The amendment made by subs
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relatingto closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -212,7 +242,7 @@ Section 502 of Pub. L. 100–485 authorized Secretary of Health and Human Servic
 
 #### Demonstration Projects To Address Child Access Problems
 
-Section 504 of Pub. L. 100–485 provided that any State could establish and conduct one or more demonstration projects (in accordance with such terms, conditions, and requirements prescribed by the Secretary of Health and Human Services, except that no such project could include the withholding of aid to families with dependent children pending visitation) to develop, improve, or expand activities designed to increase compliance with child access provisions of court orders, specified activities that could be funded by a grant under this section, authorized to be appropriated not to exceed $4,000,000 for each of the fiscal years 1990 and 1991, and directed Secretary of Health and Human Services, not later than July 1, 1992, to submit to Congress a report on the effectiveness of the demonstration projects established under this section.
+Section 504 of Pub. L. 100–485 provided that any State could establish and conduct one or more demonstration projects (in accordance with such terms, conditions,and requirements prescribed by the Secretary of Health and Human Services, except that no such project could include the withholding of aid to families with dependent children pending visitation) to develop, improve, or expand activities designed to increase compliance with child access provisions of court orders, specified activities that could be funded by a grant under this section, authorized to be appropriated not to exceed $4,000,000 for each of the fiscal years 1990 and 1991, and directed Secretary of Health and Human Services, not later than July 1, 1992, to submit to Congress a report on the effectiveness of the demonstration projects established under this section.
 
 #### Demonstration Projects To Provide Counseling and Services to High-Risk Teenagers
 
@@ -230,7 +260,7 @@ Findings and Purpose.—(1) The Congress finds that—
 
 &emsp;“(D) there currently is no Federal program in place to address the unique and significant problems faced by today's teenagers.
 
-“(2) It is the purpose of the demonstration projects conducted under this section to provide programs in which a range of non-academic services (sports, recreation, the arts) and self-image counseling are providedto high-risk teenagers in order to reduce the rates of pregnancy, suicide, substance abuse, and school dropout among such teenagers.
+“(2) It is the purpose of the demonstration projects conducted under this section to provide programs in which a range of non-academic services (sports, recreation, the arts) and self-image counseling are provided to high-risk teenagers in order to reduce the rates of pregnancy, suicide, substance abuse, and school dropout among such teenagers.
 
 “(b)
 
@@ -314,7 +344,7 @@ Duration.—A demonstration project conducted under this section shall be commen
 
 “(h)
 
-Authorization of Appropriations.—For the purpose of funding in equal amounts each State demonstration project conducted under this section, there is authorized to be appropriated not to exceed $1,500,000 for each of the fiscal years 1990, 1991, and 1992.”
+Authorization of Appropriations.—For the purpose of funding in equal amounts each State demonstration project conducted under this section, thereis authorized to be appropriated not to exceed $1,500,000 for each of the fiscal years 1990, 1991, and 1992.”
 
 #### Continuation of Federal Financial Participation in Experimental, Pilot, or Demonstration Projects Approved Before October 1, 1973, for Period On-And-After December 31, 1973, Without Denial or Reduction on Account of Subchapter XVI Provisions for Supplemental Security Income for the Aged, Blind and Disabled; Waiver of Subchapter XVI Restrictions for Individuals; Federal Payments of Non-Federal Share as Supplementary Payments
 
@@ -330,7 +360,7 @@ Section 11 of Pub. L. 93–233 provided that:
 
 &emsp;“(3) such section 301 \[enacting subchapter XVI of this chapter\] had not been enacted, and
 
-&emsp;“(4) such State (for the month of January 1974 and any month thereafter) continued to have in effect theState plan (approved under title XVI \[subchapter XVI of this chapter\]) which was in effect for the month of October 1973, or the State plans (approved under titles I, X, and XIV of the Social Security Act \[subchapters I, X, and XIV of this chapter\]) which were in effect for such month, as the case may be.
+&emsp;“(4) such State (for the month of January 1974 and any month thereafter) continued to have in effect the State plan (approved under title XVI \[subchapter XVI of this chapter\]) which was in effect for the month of October 1973, or the State plans (approved under titles I, X, and XIV of the Social Security Act \[subchapters I, X, and XIV of this chapter\]) which were in effect for such month, as the case may be.
 
 “(b) With respect to individuals—
 
@@ -345,6 +375,4 @@ Section 11 of Pub. L. 93–233 provided that:
 &emsp;“(1) be paid, from time to time, to such State by the Secretary, and
 
 &emsp;“(2) shall, for purposes of section 1616(d) of the Social Security Act \[section 1382e(d) of this title\] and section 401 of the Social Security Amendments of 1972 \[set out as a note under section 1382e of this title\] be treated in like manner as if such non-Federal share were supplementary payments made by the Secretary on behalf of such State pursuant to such agreement.”
-
-<i><sup>1</sup></i><i> So in original. No subsec. (d) has been enacted.</i>
 

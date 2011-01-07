@@ -40,7 +40,7 @@ In general.—A standard prescribed under subsection (a) shall be—
 
 &emsp;(2)
 
-Factors for consideration.—When prescribing any standard under this section or section 60101(b), 60103, 60108, 60109, 60110, or 60113, the Secretary shall consider—
+Factors for consideration.—When prescribing any standard under this section orsection 60101(b), 60103, 60108, 60109, 60110, or 60113, the Secretary shall consider—
 
 &emsp;&emsp;(A) relevant available—
 
@@ -148,7 +148,7 @@ Public Safety Program Requirements.—(1) The Secretary shall include in the sta
 
 Promoting public awareness.—
 
-&emsp;(A) Not later than one year after the date of enactment of the Accountable Pipeline Safetyand Accountability Act of 1996,<sup>2</sup> and annually thereafter, the owner or operator of each interstate gas pipeline facility shall provide to the governing body of each municipality in which the interstate gas pipeline facility is located, a map identifying the location of such facility.
+&emsp;(A) Not later than one year after the date of enactment of the Accountable Pipeline Safety and Accountability Act of 1996,<sup>2</sup> and annually thereafter, the owner or operator of each interstate gas pipeline facility shall provide to the governing body of each municipality in which the interstate gas pipeline facility is located, a map identifying the location of such facility.
 
 &emsp;(B)(i) Not later than June 1, 1998, the Secretary shall survey and assess the public education programs under section 60116 and the public safety programs under section 60102(c) and determine their effectiveness and applicability as components of a model program. In particular, the survey shall include the methods by which operators notify residents of the location of the facility and its right of way, public information regarding existing One-Call programs, and appropriate procedures to be followed by residents of affected municipalities in the event of accidents involving interstate gas pipeline facilities.
 
@@ -206,7 +206,7 @@ Minimum safety standards.—The Secretary shall prescribe minimum safety standar
 
 &emsp;(2)
 
-Periodic inspections.—Not later than October 24, 1995, the Secretary shall prescribe, if necessary, additional standards requiring the periodic inspection of each pipeline the operator of the pipeline identifies under section 60109 of this title. The standards shall include any circumstances under which an inspection shall be conducted with an instrumented internal inspection device and, if the device is not required, use of an inspection method thatis at least as effective as using the device in providing for the safety of the pipeline.
+Periodic inspections.—Not later than October 24, 1995, the Secretary shall prescribe, if necessary, additional standards requiring the periodic inspection of each pipeline the operator of the pipeline identifies under section 60109 of this title. The standards shall include any circumstances under which an inspection shall be conducted with an instrumented internal inspection device and, if the device is not required, use of an inspection method that is at least as effective as using the device in providing for the safety of the pipeline.
 
 (g)
 
@@ -266,7 +266,7 @@ Relationship to other laws.—Nothing in this subsection shall be construed to p
 
 &emsp;(5)
 
-Definition.—For purposes of this subsection, the term “low-stress hazardous liquid pipeline” means a hazardous liquid pipeline that is operated in its entirety at a stress level of 20 percent or less of the specified minimum yield strength of the line pipe.
+Definition.—For purposes of this subsection, the term “low-stress hazardous liquidpipeline” means a hazardous liquid pipeline that is operated in its entirety at a stress level of 20 percent or less of the specified minimum yield strength of the line pipe.
 
 &emsp;(6)
 
@@ -446,7 +446,7 @@ In subsection (a)(1), before clause (A), the word “prescribe” is substituted
 
 In subsection (b), before clause (1), the words “Except as provided in section 60103 of this title” are added for clarity. In clause (3), the word “proposed” is omitted as surplus.
 
-In subsection (c)(1), before clause (A), the words “Not later than 12 months after November 30, 1979” are omitted as executed. The word “gas” is added because of the restatement. In clause (B), the word “specific” is omitted as surplus. In clause (C), the words “will protect” are substituted for “is being carried out in a manner . . . to assure protection” to eliminate unnecessary words.
+In subsection (c)(1), before clause (A), the words “Not later than 12 months after November 30, 1979” are omitted as executed. The word “gas” is added because of therestatement. In clause (B), the word “specific” is omitted as surplus. In clause (C), the words “will protect” are substituted for “is being carried out in a manner . . . to assure protection” to eliminate unnecessary words.
 
 In subsection (c)(2) and (3), the words “to the public with respect to that operator's pipeline facilities which are” are omitted as surplus.
 
@@ -454,7 +454,7 @@ In subsection (c)(2), the word “prescribe” is substituted for “provide” 
 
 In subsection (c)(3), the words “participate in a public safety program meeting the requirements of paragraph (1) of this subsection” are substituted for 49 App.:2002(e)(1) to eliminate unnecessary words.
 
-In subsection (d), before clause (1), the words “Not later than 1 year after October 31, 1988” are omitted as obsolete. The word “prescribe” is substituted for “establish by regulation” for consistency in the revised title and with other titles of the Code. The word “maintain” is substituted for “provide, and revise as necessary” and “completed and maintained” to eliminate unnecessary words. The words “as the case may be” are omitted as surplus. In clause (2), before subclause (A), the words “map or” and “appropriate” are omitted as surplus. In clause (5)(B), the word “government” isomitted as surplus and for consistency in this chapter. In clause (6), the words “and necessary” are omitted as surplus.
+In subsection (d), before clause (1), the words “Not later than 1 year after October 31, 1988” are omitted as obsolete. The word “prescribe” is substituted for “establish by regulation” for consistency in the revised title and with other titles of the Code. The word “maintain” is substituted for “provide, and revise as necessary” and “completed and maintained” to eliminate unnecessary words. The words “as the case may be” are omitted as surplus. In clause (2), before subclause (A), the words “map or” and “appropriate” are omitted as surplus. In clause (5)(B), the word “government” is omitted as surplus and for consistency in this chapter. In clause (6), the words “and necessary” are omitted as surplus.
 
 In subsections (e) and (f), the word “prescribe” is substituted for “by regulation, establish” for consistency in the revised title and with other titles of the Code.
 
@@ -478,9 +478,9 @@ The date of the enactment of this subsection, referred to in subsec. (m), is the
 
 #### Amendments
 
-2006—Subsec. (k). Pub. L. 109–468 amended heading and text of subsec. (k) generally. Prior to amendment, text read as follows: “The Secretary may not provide an exception to this chapter for a hazardous liquid pipeline facility only because the facility operates at low internal stress.”
+<b>2006</b>—Subsec. (k). Pub. L. 109–468 amended heading and text of subsec. (k) generally. Prior to amendment, text read as follows: “The Secretary may not provide an exception to this chapter for a hazardous liquid pipeline facility only because the facility operates at low internal stress.”
 
-2002—Pub. L. 107–355, §20(a)(2)(A), substituted “Purpose and general authority” for “General authority” in section catchline.
+<b>2002</b>—Pub. L. 107–355, §20(a)(2)(A), substituted “Purpose and general authority” for “General authority” in section catchline.
 
 Subsec. (a). Pub. L. 107–355, §20(a)(1), inserted subsec. heading, added par. (1), redesignated former par. (1) as (2), realigned margins, and substituted “
 
@@ -490,7 +490,7 @@ Minimum Safety Standards” in heading and “The Secretary” for “The Secret
 
 Subsec. (m). Pub. L. 107–355, §23, added subsec. (m).
 
-1996—Subsec. (a)(1)(A). Pub. L. 104–304, §4(a)(1), struck out “transporters of gas and hazardous liquid and to” after “apply to”.
+<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–304, §4(a)(1), struck out “transporters of gas and hazardous liquid and to” after “apply to”.
 
 Subsec. (a)(1)(C). Pub. L. 104–304, §4(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “shall include a requirement that all individuals responsible for the operation and maintenance of pipeline facilities be tested for qualifications and certified to operate and maintain those facilities.”
 
@@ -520,7 +520,7 @@ Pub. L. 104–304, §4(d)(1), in introductory provisions, directed striking out 
 
 Subsec. (f)(1). Pub. L. 104–304, §4(e)(1), added heading and text of par. (1) and struck out former par. (1) which read as follows: “The Secretary shall prescribe minimum safety standards requiring that the design and construction of a new gas pipeline transmission facility or hazardous liquid pipeline facility, and the required replacement of an existing gas pipeline transmission facility, hazardous liquid pipeline facility, or equipment, be carried out, to the extent practicable, in a way that accommodates the passage through the facility of an instrumented internal inspection device (commonly referred to as a ‘smart pig’). The Secretary may apply the standard to an existing gas or hazardous liquid transmission facility and require the facility to be changed to allow the facility to be inspected with an instrumented internal inspection device if the basic construction of the facility will accommodate the device.”
 
-Subsec. (f)(2). Pub. L. 104–304, §§4(e)(2), 20(g), inserted heading, realigned margins, inserted “, if necessary, additional” after “the Secretary shall prescribe”, and substituted “standards” for “regulations” in two places.
+Subsec. (f)(2). Pub. L. 104–304, §§4(e)(2), 20(g), inserted heading, realigned margins, inserted “, if necessary,additional” after “the Secretary shall prescribe”, and substituted “standards” for “regulations” in two places.
 
 Subsecs. (i), (j)(2). Pub. L. 104–304, §20(g), substituted “standards” for “regulations”.
 

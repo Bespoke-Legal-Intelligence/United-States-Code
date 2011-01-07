@@ -16,5 +16,5 @@ If such agreement is approved by the Secretary (within such time as may be state
 
 #### Amendments
 
-1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

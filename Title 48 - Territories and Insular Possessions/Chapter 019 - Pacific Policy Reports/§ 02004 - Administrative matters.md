@@ -2,7 +2,7 @@
 
 #### (a) Administrative support
 
-The Secretary of the Interior shall provide all necessary administrative support to accomplish the requirements of sections 2002 and 2003 of this title.
+The Secretary of the Interior shall provide all necessary administrative support to accomplishthe requirements of sections 2002 and 2003 of this title.
 
 #### (b) Authorization of appropriations
 

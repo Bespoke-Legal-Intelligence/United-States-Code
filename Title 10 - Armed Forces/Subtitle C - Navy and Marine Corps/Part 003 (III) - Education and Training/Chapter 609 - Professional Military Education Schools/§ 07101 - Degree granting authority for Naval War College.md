@@ -28,7 +28,7 @@ Congressional Notification Requirements.—(1) When seeking to establish degree 
 
 #### Amendments
 
-2008—Pub. L. 110–417 amended section generally. Prior to amendment, text read as follows:
+<b>2008</b>—Pub. L. 110–417 amended section generally. Prior to amendment, text read as follows:
 
 “(a)
 

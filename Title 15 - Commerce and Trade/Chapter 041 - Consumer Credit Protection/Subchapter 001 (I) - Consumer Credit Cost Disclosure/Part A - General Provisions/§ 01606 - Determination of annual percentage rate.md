@@ -28,15 +28,23 @@ The Board may authorize the use of rate tables or charts which may provide for t
 
 In the case of creditors determining the annual percentage rate in a manner other than as described in subsection (d) of this section, the Board may authorize other reasonable tolerances.
 
-(Pub. L. 90–321, title I, §107, May 29, 1968, 82 Stat. 149; Pub. L. 96–221, title VI, §607, Mar. 31, 1980, 94 Stat. 170.)
+(Pub. L. 90–321, title I, §107, May 29, 1968, 82 Stat. 149; Pub. L. 96–221, title VI, §607, Mar. 31, 1980, 94 Stat. 170; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-1980—Subsec. (c). Pub. L. 96–221, §607(a), substituted provisions relating to allowable tolerances for purposes of compliance with disclosure requirements, for provisions relating to rounding off of annual percentage rates which are converted from single add-on or other rates.
+<b>1980</b>—Subsec. (c). Pub. L. 96–221, §607(a), substituted provisions relating to allowable tolerances for purposes of compliance with disclosure requirements, for provisions relating to rounding off of annual percentage rates which are converted from single add-on or other rates.
 
 Subsec. (e). Pub. L. 96–221, §607(b), struck out reference to subsection (c) of this section.
 
 Subsec. (f). Pub. L. 96–221, §607(c), struck out subsec. (f) setting forth requirements for form of expressing percentage rates prior to Jan. 1, 1971.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1980 Amendment
 

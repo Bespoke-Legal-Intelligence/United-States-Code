@@ -10,9 +10,9 @@ A prior section 419 was renumbered section 420 of this title.
 
 #### Amendments
 
-1989—Pub. L. 101–189 substituted “an officer” for “a officer” in two places and struck out “to” after “may be paid”.
+<b>1989</b>—Pub. L. 101–189 substituted “an officer” for “a officer” in two places and struck out “to” after “may be paid”.
 
-1988—Pub. L. 100–456 substituted “officer” for “member” in three places, “may be paid” for “is entitled”, and “officer's” for “member's”.
+<b>1988</b>—Pub. L. 100–456 substituted “officer” for “member” in three places, “may be paid” for “is entitled”, and “officer's” for “member's”.
 
 #### Effective Date
 

@@ -18,7 +18,7 @@ Not later than 1 year after November 5, 1990, the Secretary shall prepare and su
 
 #### Amendments
 
-1992—Pub. L. 102–574 inserted “in Puerto Rico” in section catchline.
+<b>1992</b>—Pub. L. 102–574 inserted “in Puerto Rico” in section catchline.
 
 #### Change of Name
 

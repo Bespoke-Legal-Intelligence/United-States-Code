@@ -1,7 +1,5 @@
 subpart 1—education and training for judges and court personnel in state courts
 
-<i><sup>1</sup></i><i> So in original. The word “means” probably should appear after “(A)” below.</i>
-
 
 ---
 

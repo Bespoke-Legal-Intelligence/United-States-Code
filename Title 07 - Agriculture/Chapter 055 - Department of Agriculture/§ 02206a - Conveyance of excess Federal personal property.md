@@ -4,7 +4,7 @@ Notwithstanding any other provision of law, the Secretary of Agriculture may—
 
 &emsp;(1) convey title to excess Federal personal property owned by the Department of Agriculture, with or without monetary compensation and for such purposes as are determined by the Secretary, to—
 
-&emsp;&emsp;(A) any of the 1994 Institutions (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (Public Law 103–382; 7 U.S.C. 301 note));
+&emsp;&emsp;(A) any of the 1994 Institutions (as defined in section 532 of the Equity in EducationalLand-Grant Status Act of 1994 (Public Law 103–382; 7 U.S.C. 301 note));
 
 &emsp;&emsp;(B) any Hispanic-serving institution (as defined in section 1101a(a)(5) of title 20); and
 

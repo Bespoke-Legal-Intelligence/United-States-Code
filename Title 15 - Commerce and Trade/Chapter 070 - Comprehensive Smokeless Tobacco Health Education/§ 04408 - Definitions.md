@@ -18,5 +18,5 @@ For purposes of this chapter:
 
 #### Amendments
 
-2009—Par. (1). Pub. L. 111–31 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘smokeless tobacco’ means any finely cut, ground, powdered, or leaf tobacco that is intended to be placed in the oral cavity.”
+<b>2009</b>—Par. (1). Pub. L. 111–31 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘smokeless tobacco’ means any finely cut, ground, powdered, or leaf tobacco that is intended to be placed in the oral cavity.”
 

@@ -24,7 +24,7 @@ This Act, referred to in subsec. (d), is act Aug. 8, 1956, ch. 1036, 70 Stat. 11
 
 #### Amendments
 
-1974—Subsec. (a). Pub. L. 93–271, §1(1), (2), struck out provisions relating to the establishment of the position of and the appointment of the Commissioner of Fish and Wildlife. Provisions for the establishment of the United States Fish and Wildlife Service within the Department of the Interior, consisting of the Bureau of Commercial Fisheries and the Bureau of Sport Fisheries and Wildlife, the appointment of a Director for each of the Bureaus, and the succession of the United States Fish and Wildlife Service to the Fish and Wildlife Service of the Department, were also struck out.
+<b>1974</b>—Subsec. (a). Pub. L. 93–271, §1(1), (2), struck out provisions relating to the establishment of the position of and the appointment of the Commissioner of Fish and Wildlife. Provisions for the establishment of the United States Fish and Wildlife Service within the Department of the Interior, consisting of the Bureau of Commercial Fisheries and the Bureau of Sport Fisheries and Wildlife, the appointment of a Director for each of the Bureaus, and the succession of the United States Fish and Wildlife Service to the Fish and Wildlife Service of the Department, were also struck out.
 
 Subsec. (b). Pub. L. 93–271, §1(3), substituted provisions for the establishment of the United States Fish and Wildlife Service within the Department of the Interior, for its administration by a Director subject to the supervision of the Assistant Secretary for Fish and Wildlife, the qualifications for and the appointment of the Director, for provisions relating to the administration of the United States Fish and Wildlife Service by the Commissioner of Fish and Wildlife subject to the supervision of the Assistant Secretary for Fish and Wildlife.
 
@@ -34,9 +34,9 @@ Subsec. (e). Pub. L. 93–271, §1(3), struck out subsec. (e) which related to c
 
 Subsec. (f). Pub. L. 93–271, §1(3), struck out subsec. (f) which provided for administrative authority in the Secretary of the Interior to carry out the provisions of Act Aug. 8, 1956, and for effective procedure for reorganization.
 
-1962—Subsec. (a). Pub. L. 87–793 struck out provisions which authorized the Commissioner to receive compensation at the same rate as that provided for grade GS–18.
+<b>1962</b>—Subsec. (a). Pub. L. 87–793 struck out provisions which authorized the Commissioner to receive compensation at the same rate as that provided for grade GS–18.
 
-1961—Subsec. (a). Pub. L. 87–367 struck out “at Grades GS–17 each” after “by the Secretary”.
+<b>1961</b>—Subsec. (a). Pub. L. 87–367 struck out “at Grades GS–17 each” after “by the Secretary”.
 
 #### Effective Date of 1974 Amendment
 
@@ -52,5 +52,5 @@ Transfer of functions to Secretary of Commerce from Secretary of the Interior in
 
 #### Fees for Training by National Conservation Training Center
 
-Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–185, as amended by Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1547, provided in part: “That hereafter, pursuant to 31 U.S.C. 9701, theSecretary shall charge reasonable fees for the full costs of providing training by the National Conservation Training Center, to be credited to this account, notwithstanding 31 U.S.C. 3302, for the full costs of providing such training, to remain available until expended.”
+Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–185, as amended by Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1547, provided in part: “That hereafter, pursuant to 31 U.S.C. 9701, the Secretary shall charge reasonable fees for the full costs of providing training by the National Conservation Training Center, to be credited to this account, notwithstanding 31 U.S.C. 3302, for the full costs of providing such training, to remain available until expended.”
 

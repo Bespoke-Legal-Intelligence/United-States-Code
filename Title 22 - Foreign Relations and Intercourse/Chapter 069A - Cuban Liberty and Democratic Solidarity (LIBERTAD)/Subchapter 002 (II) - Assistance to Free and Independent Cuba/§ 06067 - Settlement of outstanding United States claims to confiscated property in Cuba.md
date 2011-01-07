@@ -20,3 +20,5 @@ It is the sense of the Congress that the satisfactory resolution of property cla
 
 (Pub. L. 104–114, title II, §207, Mar. 12, 1996, 110 Stat. 813.)
 
+<i><sup>1</sup></i><i> So in original. No subsec. (b) or (c) has been enacted.</i>
+

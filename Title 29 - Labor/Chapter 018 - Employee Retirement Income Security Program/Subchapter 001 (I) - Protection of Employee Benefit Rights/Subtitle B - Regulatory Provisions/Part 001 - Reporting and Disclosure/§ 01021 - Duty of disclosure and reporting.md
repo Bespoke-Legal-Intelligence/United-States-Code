@@ -18,7 +18,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 #### (c) Terminal and supplementary reports
 
-(1) Each administrator of an employee pension benefit plan which is winding up its affairs (without regard to the number of participants remaining in the plan) shall, in accordance with regulations prescribed by the Secretary, file such terminal reports as the Secretary may consider necessary. A copy of such report shall also be filed with the Pension Benefit Guaranty Corporation.
+(1) Each administrator of an employee pension benefit plan which is winding up its affairs (without regard to the number of participants remaining in the plan) shall, in accordance withregulations prescribed by the Secretary, file such terminal reports as the Secretary may consider necessary. A copy of such report shall also be filed with the Pension Benefit Guaranty Corporation.
 
 (2) The Secretary may require terminal reports to be filed with regard to any employee welfare benefit plan which is winding up its affairs in accordance with regulations promulgated by the Secretary.
 
@@ -42,7 +42,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 #### (1) Notice to participants
 
-&emsp;Not later than 60 days before the date of a qualified transfer by an employee pension benefit plan of excess pension assets to a health benefits account, the administrator of the plan shall notify (in such manner as the Secretary may prescribe) each participant andbeneficiary under the plan of such transfer. Such notice shall include information with respect to the amount of excess pension assets, the portion to be transferred, the amount of health benefits liabilities expected to be provided with the assets transferred, and the amount of pension benefits of the participant which will be nonforfeitable immediately after the transfer.
+&emsp;Not later than 60 days before the date of a qualified transfer by an employee pension benefit plan of excess pension assets to a health benefits account, the administrator of the plan shall notify (in such manner as the Secretary may prescribe) each participant and beneficiary under the plan of such transfer. Such notice shall include information with respect to the amount of excess pension assets, the portion to be transferred, the amount of health benefits liabilities expected to be provided with the assets transferred, and the amount of pension benefits of the participant which will be nonforfeitable immediately after the transfer.
 
 #### (2) Notice to Secretaries, administrator, and employee organizations
 
@@ -102,7 +102,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 &emsp;&emsp;&emsp;(v) in the case of a multiemployer plan, whether the plan was in critical or endangered status under section 1085 of this title for such plan year and, if so—
 
-&emsp;&emsp;&emsp;&emsp;(I) a statement describing how a person may obtain a copy of the plan's funding improvement or rehabilitation plan, as appropriate, adopted under section 1085 of this title and the actuarial and financial data that demonstrate any actiontaken by the plan toward fiscal improvement, and
+&emsp;&emsp;&emsp;&emsp;(I) a statement describing how a person may obtain a copy of the plan's funding improvement or rehabilitation plan, as appropriate, adopted under section 1085 of this title and the actuarial and financial data that demonstrate any action taken by the plan toward fiscal improvement, and
 
 &emsp;&emsp;&emsp;&emsp;(II) a summary of any funding improvement plan, rehabilitation plan, or modification thereof adopted under section 1085 of this title during the plan year to which the notice relates,
 
@@ -148,7 +148,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 #### (g) Reporting by certain arrangements
 
-The Secretary may, by regulation, require multiple employer welfare arrangements providing benefits consisting of medical care (within the meaning of section 1191b(a)(2) of this title) which are not group health plans to report, not more frequently than annually, in such form and such manner as the Secretary may require for the purpose of determining the extent to which the requirements of part 7 are being carried out in connection with such benefits.
+The Secretary shall, by regulation, require multiple employer welfare arrangements providing benefits consisting of medical care (within the meaning of section 1191b(a)(2) of this title) which are not group health plans to register with the Secretary prior to operating in a State and may, by regulation, require such multiple employer welfare arrangements to report, not more frequently than annually, in such form and such manner as the Secretary may require for the purpose of determining the extent to which the requirements of part 7 are being carried out in connection with such benefits.
 
 #### (h) Simple retirement accounts
 
@@ -178,7 +178,7 @@ The Secretary may, by regulation, require multiple employer welfare arrangements
 
 #### (1) Duties of plan administrator
 
-&emsp;In advance of the commencement of any blackout period with respect to an individualaccount plan, the plan administrator shall notify the plan participants and beneficiaries who are affected by such action in accordance with this subsection.
+&emsp;In advance of the commencement of any blackout period with respect to an individual account plan, the plan administrator shall notify the plan participants and beneficiaries who are affected by such action in accordance with this subsection.
 
 #### (2) Notice requirements
 
@@ -284,7 +284,7 @@ The plan administrator of a single-employer plan shall provide a written notice 
 
 &emsp;Each administrator of a multiemployer plan shall, upon written request, furnish to any plan participant or beneficiary, employee representative, or any employer that has an obligation to contribute to the plan—
 
-&emsp;&emsp;(A) a copy of any periodic actuarial report (including any sensitivity testing) received by the plan for any plan year which has been in the plan's possession for at least 30 days,
+&emsp;&emsp;(A) a copy of any periodic actuarial report (including any sensitivity testing) receivedby the plan for any plan year which has been in the plan's possession for at least 30 days,
 
 &emsp;&emsp;(B) a copy of any quarterly, semi-annual, or annual financial report prepared for the plan by any plan investment manager or advisor or other fiduciary which has been in the plan's possession for at least 30 days, and
 
@@ -352,7 +352,7 @@ Not later than 30 days before the first date on which an applicable individual o
 
 &emsp;&emsp;<b>For regulations relating to coordination of reports to the Secretaries of Labor and the Treasury, see section 1204 of this title.</b>
 
-(Pub. L. 93–406, title I, §101, Sept. 2, 1974, 88 Stat. 840; Pub. L. 100–203, title IX, §9304(d), Dec. 22, 1987, 101 Stat. 1330–348; Pub. L. 101–239, title VII, §§7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, 103 Stat. 2438, 2448; Pub. L. 101–508, title XII, §12012(d)(1), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–66, title IV, §4301(b)(1), Aug. 10, 1993, 107 Stat. 375; Pub. L. 103–465, title VII, §731(c)(4)(A), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1421(d)(1), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 104–191, title I, §101(e)(1), Aug. 21, 1996, 110 Stat. 1952; Pub. L. 104–204, title VI, §603(b)(3)(B), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(a), Aug. 5, 1997, 111 Stat. 1061; Pub. L. 105–200, title IV, §401(h)(1)(A), July 16, 1998, 112 Stat. 668; Pub. L. 106–170, title V, §535(a)(2)(A), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–204, title III, §306(b)(1), July 30, 2002, 116 Stat. 780; Pub. L. 108–218, title I, §103(a), title II, §204(b)(1), Apr. 10, 2004, 118 Stat. 602, 609; Pub. L. 108–357, title VII, §709(a)(1), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §§103(b)(1), 107(a)(1), (11), title V, §§501(a), 502(a)(1), (b)(1), 503(c)(2), 507(a), 509(a), Aug. 17, 2006, 120 Stat. 815, 818, 819, 936, 939, 940, 944, 948, 952; Pub. L. 110–458, title I, §§101(c)(1)(A), 105(a), (b)(1), (g), Dec. 23, 2008, 122 Stat. 5097, 5104, 5105.)
+(Pub. L. 93–406, title I, §101, Sept. 2, 1974, 88 Stat. 840; Pub. L. 100–203, title IX, §9304(d), Dec. 22,1987, 101 Stat. 1330–348; Pub. L. 101–239, title VII, §§7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, 103 Stat. 2438, 2448; Pub. L. 101–508, title XII, §12012(d)(1), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–66, title IV, §4301(b)(1), Aug. 10, 1993, 107 Stat. 375; Pub. L. 103–465, title VII, §731(c)(4)(A), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1421(d)(1), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 104–191, title I, §101(e)(1), Aug. 21, 1996, 110 Stat. 1952; Pub. L. 104–204, title VI, §603(b)(3)(B), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(a), Aug. 5, 1997, 111 Stat. 1061; Pub. L. 105–200, title IV, §401(h)(1)(A), July 16, 1998, 112 Stat. 668; Pub. L. 106–170, title V, §535(a)(2)(A), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–204, title III, §306(b)(1), July 30, 2002, 116 Stat. 780; Pub. L. 108–218, title I, §103(a), title II, §204(b)(1), Apr. 10, 2004, 118 Stat. 602, 609; Pub. L. 108–357, title VII, §709(a)(1), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §§103(b)(1), 108(a)(1), (11), formerly §107(a)(1), (11), title V, §§501(a), 502(a)(1), (b)(1), 503(c)(2), 507(a), 509(a), Aug. 17, 2006, 120 Stat. 815, 818, 819, 936, 939, 940, 944, 948, 952, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §§101(c)(1)(A), 105(a), (b)(1), (g), Dec. 23, 2008, 122 Stat. 5097, 5104, 5105; Pub. L. 111–148, title VI, §6606, Mar. 23, 2010, 124 Stat. 781.)
 
 #### References in Text
 
@@ -360,7 +360,11 @@ Section 1022(a)(1) of this title, referred to in subsec. (a)(1), was redesignate
 
 #### Amendments
 
-2008—Subsec. (f)(2)(B)(ii)(I)(aa). Pub. L. 110–458, §105(a)(1), substituted “to which the notice relates” for “for which the latest annual report filed under section 1024(a) of this title was filed”.
+<b>2010</b>—Subsec. (g). Pub. L. 111–148, §6606(2), inserted “to register with the Secretary prior to operating in a State and may, by regulation, require such multiple employer welfare arrangements” after “not group health plans”.
+
+Pub. L. 111–148, §6606(1), which directed substitution of “Secretary shall” for “Secretary may”, was executed by making the substitution the first place appearing, to reflect the probable intent of Congress.
+
+<b>2008</b>—Subsec. (f)(2)(B)(ii)(I)(aa). Pub. L. 110–458, §105(a)(1), substituted “to which the notice relates” for “for which the latest annual report filed under section 1024(a) of this title was filed”.
 
 Subsec. (f)(2)(B)(ii)(II). Pub. L. 110–458, §105(a)(2), added subcl. (II) and struck out former subcl. (II) which read as follows: “in the case of a multiemployer plan, a statement of the value of the plan's assets and liabilities for the plan year to which the notice relates as the last day of such plan year and the preceding 2 plan years,”.
 
@@ -378,11 +382,11 @@ Subsec. (j). Pub. L. 110–458, §101(c)(1)(A), substituted “section 1056(g)(4
 
 Subsec. (k)(2). Pub. L. 110–458, §105(b)(1), inserted concluding provisions.
 
-2006—Subsec. (a)(2). Pub. L. 109–280, §503(c)(2), inserted “subsection (f) and” after “described in”.
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–280, §503(c)(2), inserted “subsection (f) and” after “described in”.
 
-Subsec. (d)(3). Pub. L. 109–280, §107(a)(1), substituted “1083(j)” for “1082(e)”.
+Subsec. (d)(3). Pub. L. 109–280, §108(a)(1), formerly §107(a)(1), as renumbered by Pub. L. 111–192, substituted “1083(j)” for “1082(e)”.
 
-Subsec. (e)(3). Pub. L. 109–280, §107(a)(11), substituted “August 17, 2006” for “October 22, 2004”.
+Subsec. (e)(3). Pub. L. 109–280, §108(a)(11), formerly §107(a)(11), as renumbered by Pub. L. 111–192, substituted “August 17, 2006” for “October 22, 2004”.
 
 Subsec. (f). Pub. L. 109–280, §501(a), amended heading and text of subsec. (f) generally, substituting provisions relating to defined benefit plan funding notices for provisions relating to multiemployer defined benefit plan funding notices.
 
@@ -416,19 +420,19 @@ Pub. L. 109–280, §502(b)(1)(A), redesignated subsec. (<i>l</i>) as (m).
 
 Subsec. (n). Pub. L. 109–280, §507(a), redesignated subsec. (m) as (n).
 
-2004—Subsec. (e)(3). Pub. L. 108–357 substituted “October 22, 2004” for “April 10, 2004”.
+<b>2004</b>—Subsec. (e)(3). Pub. L. 108–357 substituted “October 22, 2004” for “April 10, 2004”.
 
 Pub. L. 108–218, §204(b)(1), substituted “April 10, 2004” for “December 17, 1999”.
 
 Subsec. (f). Pub. L. 108–218, §103(a), added subsec. (f).
 
-2002—Subsecs. (h) to (j). Pub. L. 107–204 added subsec. (i) and redesignated subsec. (h) relating to cross reference as (j).
+<b>2002</b>—Subsecs. (h) to (j). Pub. L. 107–204 added subsec. (i) and redesignated subsec. (h) relating to cross reference as (j).
 
-1999—Subsec. (e)(3). Pub. L. 106–170 substituted “December 17, 1999” for “January 1, 1995”.
+<b>1999</b>—Subsec. (e)(3). Pub. L. 106–170 substituted “December 17, 1999” for “January 1, 1995”.
 
-1998—Subsec. (f). Pub. L. 105–200 struck out subsec. (f) relating to information necessary to comply with Medicare and Medicaid Coverage Data Bank requirements.
+<b>1998</b>—Subsec. (f). Pub. L. 105–200 struck out subsec. (f) relating to information necessary to comply with Medicare and Medicaid Coverage Data Bank requirements.
 
-1997—Subsec. (b). Pub. L. 105–34 redesignated pars. (4) and (5) as (1) and (2), respectively, and struck out former pars. (1) to (3), which read as follows:
+<b>1997</b>—Subsec. (b). Pub. L. 105–34 redesignated pars. (4) and (5) as (1) and (2), respectively, and struck out former pars. (1) to (3), which read as follows:
 
 “(1) the summary plan description described in section 1022(a)(1) of this title;
 
@@ -436,7 +440,7 @@ Subsec. (f). Pub. L. 108–218, §103(a), added subsec. (f).
 
 “(3) modifications and changes referred to in section 1022(a)(2) of this title;”.
 
-1996—Subsec. (g). Pub. L. 104–204 made technical amendment to reference in original act which appears in text as reference to section 1191b of this title.
+<b>1996</b>—Subsec. (g). Pub. L. 104–204 made technical amendment to reference in original act which appears in text as reference to section 1191b of this title.
 
 Pub. L. 104–191, §101(e)(1)(B), added subsec. (g). Former subsec. (g) redesignated (h).
 
@@ -446,17 +450,17 @@ Subsec. (h). Pub. L. 104–191, §101(e)(1)(A), redesignated subsec. (g), relati
 
 Pub. L. 104–188, §1421(d)(1), redesignated subsec. (g), relating to cross references, as (h).
 
-1994—Subsec. (e)(3). Pub. L. 103–465 substituted “1995” for “1991”.
+<b>1994</b>—Subsec. (e)(3). Pub. L. 103–465 substituted “1995” for “1991”.
 
-1993—Subsecs. (f), (g). Pub. L. 103–66 added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>1993</b>—Subsecs. (f), (g). Pub. L. 103–66 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1990—Subsecs. (e), (f). Pub. L. 101–508 added subsec. (e) and redesignated former subsec. (e) as (f).
+<b>1990</b>—Subsecs. (e), (f). Pub. L. 101–508 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1989—Subsec. (a)(2). Pub. L. 101–239, §7894(b)(2), substituted “sections” for “section”.
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–239, §7894(b)(2), substituted “sections” for “section”.
 
 Subsec. (d)(1). Pub. L. 101–239, §7881(b)(5)(A), substituted “an employer maintaining a plan” for “an employer of a plan”.
 
-1987—Subsecs. (d), (e). Pub. L. 100–203 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1987</b>—Subsecs. (d), (e). Pub. L. 100–203 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 #### Effective Date of 2008 Amendment
 
@@ -484,7 +488,7 @@ Collective bargaining exception.—In the case of a plan maintained pursuant to 
 
 > For purposes of subparagraph (A)(i), any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement added by this section shall not be treated as a termination of such collective bargaining agreement.”
 
-Pub. L. 109–280, title I, §107(e), Aug. 17, 2006, 120 Stat. 820, provided that: “The amendments made by this section \[amending this section, sections 1023, 1053, 1054, 1056, 1103, 1108, 1301, 1303, 1310, 1362, 1371, and 1423 of this title, and Reorganization Plan No. 4 of 1978, set out as a note under section 1001 of this title and in the Appendix to Title 5, Government Organization and Employees, and repealing section 1057 of this title\] shall apply to plan years beginning after 2007.”
+Pub. L. 109–280, title I, §108(e), formerly §107(e), Aug. 17, 2006, 120 Stat. 820, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297, provided that: “The amendments made by this section \[amending this section, sections 1023, 1053, 1054, 1056, 1103, 1108, 1301, 1303, 1310, 1362, 1371, and 1423 of this title, and Reorganization Plan No. 4 of 1978, set out as a note under section 1001 of this title and in the Appendix to Title 5, Government Organization and Employees, and repealing section 1057 of this title\] shall apply to plan years beginning after 2007.”
 
 Pub. L. 109–280, title V, §501(d), Aug. 17, 2006, 120 Stat. 939, provided that:
 
@@ -536,7 +540,7 @@ Pub. L. 105–200, title IV, §401(h)(1)(B), July 16, 1998, 112 Stat. 668, provi
 
 Amendment by Pub. L. 104–204 applicable with respect to group health plans for plan years beginning on or after Jan. 1, 1998, see section 603(c) of Pub. L. 104–204 set out as a note under section 1003 of this title.
 
-Amendment of Pub. L. 104–191 applicable with respect to group health plans for plan years beginning after June 30, 1997, except as otherwise provided, see section 101(g) of Pub. L. 104–191, set out as an Effective Date note under section 1181 of this title.
+Amendment of Pub. L. 104–191 applicable with respect to group health plans for plan years beginning after June 30, 1997, except as otherwise provided, see section101(g) of Pub. L. 104–191, set out as an Effective Date note under section 1181 of this title.
 
 Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of Title 26, Internal Revenue Code.
 
@@ -582,7 +586,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280,set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Model Notices and Forms
 

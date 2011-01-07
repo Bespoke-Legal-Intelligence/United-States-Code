@@ -34,7 +34,7 @@ Not later than 180 days after October 18, 2004, and annually thereafter through 
 
 #### Amendments
 
-2008—Pub. L. 110–346, §8(1), substituted “North Korean human rights issues” for “human rights in North Korea” in section catchline.
+<b>2008</b>—Pub. L. 110–346, §8(1), substituted “North Korean human rights issues” for “human rights in North Korea” in section catchline.
 
 Subsec. (a). Pub. L. 110–346, §8(2), in first sentence, substituted “North Korean human rights issues” for “human rights in North Korea” and inserted “, by and with the advice and consent of the Senate” before period at end and, in second sentence, inserted “who shall have the rank of ambassador and shall hold the office at the pleasure of the President” before period at end.
 

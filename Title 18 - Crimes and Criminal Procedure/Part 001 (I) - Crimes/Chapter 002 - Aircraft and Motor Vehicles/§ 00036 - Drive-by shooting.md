@@ -12,7 +12,7 @@ Definition.—In this section, “major drug offense” means—
 
 (b)
 
-Offense and Penalties.—(1) A person who, in furtherance or to escape detection of a majordrug offense and with the intent to intimidate, harass, injure, or maim, fires a weapon into a group of two or more persons and who, in the course of such conduct, causes grave risk to any human life shall be punished by a term of no more than 25 years, by fine under this title, or both.
+Offense and Penalties.—(1) A person who, in furtherance or to escape detection of a major drug offense and with the intent to intimidate, harass, injure, or maim, fires a weapon into a group of two or more persons and who, in the course of such conduct, causes grave risk to any human life shall be punished by a term of no more than 25 years, by fine under this title, or both.
 
 (2) A person who, in furtherance or to escape detection of a major drug offense and with the intent to intimidate, harass, injure, or maim, fires a weapon into a group of 2 or more persons and who, in the course of such conduct, kills any person shall, if the killing—
 
@@ -24,7 +24,7 @@ Offense and Penalties.—(1) A person who, in furtherance or to escape detection
 
 #### Amendments
 
-1996—Subsec. (a)(1), (2). Pub. L. 104–294 substituted “408(c)” for “403(c)” in par. (1) and “Export” for “Export Control” in par. (2).
+<b>1996</b>—Subsec. (a)(1), (2). Pub. L. 104–294 substituted “408(c)” for “403(c)” in par. (1) and “Export” for “Export Control” in par. (2).
 
 #### Effective Date of 1996 Amendment
 

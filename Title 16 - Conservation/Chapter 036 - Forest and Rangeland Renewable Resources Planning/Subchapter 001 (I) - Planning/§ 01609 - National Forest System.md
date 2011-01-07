@@ -18,7 +18,7 @@ Section 471 of this title, referred to in subsec. (a), was repealed by Pub. L. 9
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–588, §9, prohibited the return to the public domain of land reserved or withdrawn from the public domain as national forests pursuant to section 471 of this title except by an act of Congress.
+<b>1976</b>—Subsec. (a). Pub. L. 94–588, §9, prohibited the return to the public domain of land reserved or withdrawn from the public domain as national forests pursuant to section 471 of this title except by an act of Congress.
 
 #### Transfer of Functions
 

@@ -6,5 +6,5 @@ The holder of any geothermal lease at any time may make and file in the appropri
 
 #### Amendments
 
-2005—Pub. L. 109–58 inserted section catchline.
+<b>2005</b>—Pub. L. 109–58 inserted section catchline.
 

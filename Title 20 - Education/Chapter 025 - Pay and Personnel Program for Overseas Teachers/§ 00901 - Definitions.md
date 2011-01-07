@@ -38,9 +38,9 @@ Section was formerly classified to section 2351 of Title 5 prior to the general 
 
 #### Amendments
 
-1997—Par. (1)(A). Pub. L. 105–85 made technical corrections to Pub. L. 104–201, §1606(a)(1). See 1996 Amendment note below.
+<b>1997</b>—Par. (1)(A). Pub. L. 105–85 made technical corrections to Pub. L. 104–201, §1606(a)(1). See 1996 Amendment note below.
 
-1996—Par. (1)(A). Pub. L. 104–201, §1606(a)(1), as amended by Pub. L. 105–85, inserted “or are performed by an individual who carried out certain teaching activities identified in regulations prescribed by the Secretary of Defense;” after “Defense,”.
+<b>1996</b>—Par. (1)(A). Pub. L. 104–201, §1606(a)(1), as amended by Pub. L. 105–85, inserted “or are performed by an individual who carried out certain teaching activities identified in regulations prescribed by the Secretary of Defense;” after “Defense,”.
 
 Par. (2)(C). Pub. L. 104–201, §1606(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “whose services are required on a school-year basis in a teaching position.”
 

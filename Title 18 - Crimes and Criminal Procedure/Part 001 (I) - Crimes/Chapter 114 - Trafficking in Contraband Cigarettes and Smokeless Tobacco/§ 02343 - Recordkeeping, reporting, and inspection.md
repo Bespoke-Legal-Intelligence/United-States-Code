@@ -18,23 +18,33 @@
 
 &emsp;(3) The total quantity of cigarettes and cans or packages of smokeless tobacco that the person distributed within such month to each person (itemized by name and address) other than a retail purchaser.
 
-(c) Upon the consent of any person who ships, sells, or distributes any quantity of cigarettes in excess of 10,000 in a single transaction, or pursuant to a duly issued search warrant, the Attorney General may enter the premises (including places of storage) of such person for the purpose of inspecting any records or information required to be maintained by such person under this chapter, and any cigarettes kept or stored by such person at such premises.
+(c)(1) Any officer of the Bureau of Alcohol, Tobacco, Firearms, and Explosives may, during normal business hours, enter the premises of any person described in subsection (a) or (b) for the purposes of inspecting—
+
+&emsp;(A) any records or information required to be maintained by the person under this chapter; or
+
+&emsp;(B) any cigarettes or smokeless tobacco kept or stored by the person at the premises.
+
+(2) The district courts of the United States shall have the authority in a civil action under this subsection to compel inspections authorized by paragraph (1).
+
+(3) Whoever denies access to an officer under paragraph (1), or who fails to comply with an order issued under paragraph (2), shall be subject to a civil penalty in an amount not to exceed $10,000.
 
 (d) Any report required to be submitted under this chapter to the Attorney General shall also be submitted to the Secretary of the Treasury and to the attorneys general and the tax administrators of the States from where the shipments, deliveries, or distributions both originated and concluded.
 
 (e) In this section, the term “delivery sale” means any sale of cigarettes or smokeless tobacco in interstate commerce to a consumer if—
 
-&emsp;(1) the consumer submits the order for such sale by means of a telephone or other method of voice transmission, the mails, or the Internet or other online service, or by any other means where the consumer is not in the same physical location as the seller when the purchase or offer of sale is made; or
+&emsp;(1) the consumer submits the order for such sale by means of a telephone or other method of voice transmission, the mails, or the Internet or other online service, or by any othermeans where the consumer is not in the same physical location as the seller when the purchase or offer of sale is made; or
 
 &emsp;(2) the cigarettes or smokeless tobacco are delivered by use of the mails, common carrier, private delivery service, or any other means where the consumer is not in the same physical location as the seller when the consumer obtains physical possession of the cigarettes or smokeless tobacco.
 
 (f) In this section, the term “interstate commerce” means commerce between a State and any place outside the State, or commerce between points in the same State but through any place outside the State.
 
-(Added Pub. L. 95–575, §1, Nov. 2, 1978, 92 Stat. 2464; amended Pub. L. 107–296, title XI, §1112(i)(2), Nov. 25, 2002, 116 Stat. 2277; Pub. L. 109–177, title I, §121(a)(3), (b)(3), (c), (g)(1), Mar. 9, 2006, 120 Stat. 221, 222, 224.)
+(Added Pub. L. 95–575, §1, Nov. 2, 1978, 92 Stat. 2464; amended Pub. L. 107–296, title XI, §1112(i)(2), Nov. 25, 2002, 116 Stat. 2277; Pub. L. 109–177, title I, §121(a)(3), (b)(3), (c), (g)(1), Mar. 9, 2006, 120 Stat. 221, 222, 224; Pub. L. 111–154, §4, Mar. 31, 2010, 124 Stat. 1109.)
 
 #### Amendments
 
-2006—Pub. L. 109–177, §121(g)(1), substituted “Recordkeeping, reporting, and inspection” for “Recordkeeping and inspection” in section catchline.
+<b>2010</b>—Subsec. (c). Pub. L. 111–154 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Upon the consent of any person who ships, sells, or distributes any quantity of cigarettes in excess of 10,000 in a single transaction, or pursuant to a duly issued search warrant, the Attorney General may enter the premises (including places of storage) of such person for the purpose of inspecting any records or information required to be maintained by such person under this chapter, and any cigarettes kept or stored by such person at such premises.”
+
+<b>2006</b>—Pub. L. 109–177, §121(g)(1), substituted “Recordkeeping, reporting, and inspection” for “Recordkeeping and inspection” in section catchline.
 
 Subsec. (a). Pub. L. 109–177, §121(a)(3)(A), (b)(3), (c)(1), in introductory provisions, substituted “10,000, or any quantity of smokeless tobacco in excess of 500 single-unit consumer-sized cans or packages,” for “60,000” and “such information as the Attorney General considers appropriate for purposes of enforcement of this chapter, including—” for “only—” and, in concluding provisions, struck out “Nothing contained herein shall authorize the Attorney General to require reporting under this section.” at end.
 
@@ -46,7 +56,7 @@ Subsec. (c). Pub. L. 109–177, §121(c)(2), redesignated subsec. (b) as (c).
 
 Subsecs. (d) to (f). Pub. L. 109–177, §121(c)(4), added subsecs. (d) to (f).
 
-2002—Pub. L. 107–296 substituted “Attorney General” for “Secretary” wherever appearing.
+<b>2002</b>—Pub. L. 107–296 substituted “Attorney General” for “Secretary” wherever appearing.
 
 #### Effective Date of 2002 Amendment
 

@@ -18,7 +18,7 @@ Reporting.—The Administrator shall report directly to the Secretary.
 
 (c)
 
-Deputy Administrator.—The Administration shall have a Deputy Administrator whoshall be appointed by the Secretary of Transportation. The Deputy Administrator shall carry out duties and powers prescribed by the Administrator.
+Deputy Administrator.—The Administration shall have a Deputy Administrator who shall be appointed by the Secretary of Transportation. The Deputy Administrator shall carry out duties and powers prescribed by the Administrator.
 
 (d)
 
@@ -50,9 +50,9 @@ Administrative Authorities.—The Administrator may enter into grants and cooper
 
 #### Amendments
 
-2005—Subsec. (e). Pub. L. 109–59 added subsec. (e).
+<b>2005</b>—Subsec. (e). Pub. L. 109–59 added subsec. (e).
 
-2004—Pub. L. 108–426, §4(a)(1), substituted “Research and Innovative Technology Administration” for “Research and Special Programs Administration” in section catchline.
+<b>2004</b>—Pub. L. 108–426, §4(a)(1), substituted “Research and Innovative Technology Administration” for “Research and Special Programs Administration” in section catchline.
 
 Subsec. (a). Pub. L. 108–426, §4(a)(2), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There is established in the Department of Transportation a Research and Special Programs Administration.”
 
@@ -60,7 +60,7 @@ Subsec. (d). Pub. L. 108–426, §4(a)(3), added subsec. (d) and struck out head
 
 Subsec. (e). Pub. L. 108–426, §4(a)(4), struck out heading and text of subsec. (e). Text read as follows: “Nothing in this section shall affect any delegation of authority, regulation, order, approval, exemption, waiver, contract, or other administrative act of the Secretary with respect to laws administered through the Research and Special Programs Administration of the Department of Transportation on October 24, 1992.”
 
-1994—Subsec. (e). Pub. L. 103–429 substituted “October 24, 1992” for “the date of the enactment of this section”.
+<b>1994</b>—Subsec. (e). Pub. L. 103–429 substituted “October 24, 1992” for “the date of the enactment of this section”.
 
 #### National Highway Traffic Safety Administration Programs Administered by Secretary of Transportation
 
@@ -78,7 +78,7 @@ Applicability.—Paragraph (1) shall not apply to the research and other program
 
 Pub. L. 108–426, §4(d), Nov. 30, 2004, 118 Stat. 2426, provided that: “The authority of the Research and Special Programs Administration, other than authority exercised under chapters 51, 57, 61, 601, and 603 of title 49, United States Code, is transferred to the Administrator of the Research and Innovative Technology Administration.”
 
-For transfer of authority of the Research and Special Programs Administration exercised under chapters 51, 57, 61, 601, and 603 of this title to the Administrator of the Pipeline and Hazardous Materials Safety Administration, see section 2(b) of Pub. L. 108–426, set out as a note under section 108 of this title.
+For transfer of authority of the Research and Special Programs Administration exercised under chapters 51, 57, 61, 601, and 603 of this title to the Administrator ofthe Pipeline and Hazardous Materials Safety Administration, see section 2(b) of Pub. L. 108–426, set out as a note under section 108 of this title.
 
 #### Development of Underground Utility Location Technologies
 

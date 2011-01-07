@@ -32,7 +32,7 @@ In subsection (b), the words “or were heretofore withdrawn from the appropriat
 
 #### Amendments
 
-1990—Pub. L. 101–510 substituted “Closing of appropriation accounts available” for “Withdrawal of unobligated balances of appropriations” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1990</b>—Pub. L. 101–510 substituted “Closing of appropriation accounts available” for “Withdrawal of unobligated balances of appropriations” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) An unobligated balance of an appropriation for an indefinite period shall be withdrawn in the way provided in section 1552(a)(2) of this title when the head of the agency concerned decides that the purposes for which the appropriation was made have been carried out or when no disbursement is made against the appropriation for 2 consecutive fiscal years.
 

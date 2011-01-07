@@ -20,7 +20,7 @@ The plan and each update of the plan shall set forth the following:
 
 #### (c) Annual submission of plan to Congress
 
-The Secretary of Energy shall submit to Congress the plan developed under subsection (a) not later than March 15, 1998, and shall submit an updated version of the plan not later than May 1 of each year thereafter. The plan shall be submitted in both classified and unclassified form.
+The Secretary of Energy shall submit to Congress the plan developed under subsection (a)not later than March 15, 1998, and shall submit an updated version of the plan not later than May 1 of each year thereafter. The plan shall be submitted in both classified and unclassified form.
 
 (Pub. L. 107–314, div. D, title XLII, §4203, formerly Pub. L. 105–85, div. C, title XXXI, §3151, Nov. 18, 1997, 111 Stat. 2041; renumbered Pub. L. 107–314, div. D, title XLII, §4203, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(4), Nov. 24, 2003, 117 Stat. 1758; amended Pub. L. 108–375, div. C, title XXXI, §3115, Oct. 28, 2004, 118 Stat. 2162.)
 
@@ -36,7 +36,7 @@ Pub. L. 104–106, div. C, title XXXI, §3153, Feb. 10, 1996, 110 Stat. 624; rep
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–375 substituted “May 1 of each year thereafter” for “March 15 of each year thereafter”.
+<b>2004</b>—Subsec. (c). Pub. L. 108–375 substituted “May 1 of each year thereafter” for “March 15 of each year thereafter”.
 
 #### Inclusion in 2005 Stockpile Stewardship Plan of Certain Information Relating to Stockpile Stewardship Criteria
 

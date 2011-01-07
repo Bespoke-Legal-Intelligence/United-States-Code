@@ -42,7 +42,7 @@ Subsecs. (a) to (c) of this section amended section 662 of this title.
 
 #### Amendments
 
-1980—Subsec. (h). Pub. L. 96–448 added subsec. (h).
+<b>1980</b>—Subsec. (h). Pub. L. 96–448 added subsec. (h).
 
 #### Effective Date of 1980 Amendment
 

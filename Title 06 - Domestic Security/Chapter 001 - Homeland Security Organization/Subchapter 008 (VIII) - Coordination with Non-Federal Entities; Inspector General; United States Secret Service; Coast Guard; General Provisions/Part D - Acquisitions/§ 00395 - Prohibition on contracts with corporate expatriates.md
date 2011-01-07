@@ -42,7 +42,7 @@ For purposes of this section, a foreign incorporated entity shall be treated as 
 
 #### (D) Special rule for related partnerships
 
-&emsp;&emsp;For purposes of applying subsection (b) of this section to the acquisition of a domestic partnership, except as provided in regulations, all domestic partnerships which are under common control (within the meaning of section 482 of title 26) shall be treated as I <sup>1</sup> partnership.
+&emsp;&emsp;For purposes of applying subsection (b) of this section to the acquisition of a domestic partnership, except as provided in regulations, all domestic partnerships which are under common control (within the meaningof section 482 of title 26) shall be treated as I <sup>1</sup> partnership.
 
 #### (E) Treatment of certain rights
 

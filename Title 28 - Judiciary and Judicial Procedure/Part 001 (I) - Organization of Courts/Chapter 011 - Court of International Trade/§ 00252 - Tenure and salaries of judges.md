@@ -22,13 +22,13 @@ Section 225 of the Federal Salary Act of 1967, referred to in text, is section 2
 
 #### Amendments
 
-1980—Pub. L. 96–417 substituted “Judges of the Court of International Trade” for “Judge of the Customs Court”.
+<b>1980</b>—Pub. L. 96–417 substituted “Judges of the Court of International Trade” for “Judge of the Customs Court”.
 
-1975—Pub. L. 94–82 substituted provision that each judge shall receive a salary at an annual rate determined under section 225 of the Federal Salary Act of 1967, as adjusted by section 461 of this title, for provision that each judge shall receive a salary of $30,000 a year.
+<b>1975</b>—Pub. L. 94–82 substituted provision that each judge shall receive a salary at an annual rate determined under section 225 of the Federal Salary Act of 1967, as adjusted by section 461 of this title, for provision that each judge shall receive a salary of $30,000 a year.
 
-1964—Pub. L. 88–426 increased salaries of judges from $22,500 to $30,000 a year.
+<b>1964</b>—Pub. L. 88–426 increased salaries of judges from $22,500 to $30,000 a year.
 
-1955—Act Mar. 2, 1955, increased salaries of judges from $15,000 to $22,500 a year.
+<b>1955</b>—Act Mar. 2, 1955, increased salaries of judges from $15,000 to $22,500 a year.
 
 #### Effective Date of 1980 Amendment
 

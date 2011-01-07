@@ -2,7 +2,11 @@
 
 Whoever, being an officer, agent or employee of or connected in any capacity with the Federal Deposit Insurance Corporation, National Credit Union Administration, Office of Thrift Supervision, any Federal home loan bank, the Federal Housing Finance Agency, the Resolution Trust Corporation, Farm Credit Administration, Department of Housing and Urban Development, Federal Crop Insurance Corporation, the Secretary of Agriculture acting through the Farmers Home Administration or successor agency, the Rural Development Administration or successor agency, or the Farm Credit System Insurance Corporation, a Farm Credit Bank, a bank for cooperatives or any lending, mortgage, insurance, credit or savings and loan corporation or association authorized or acting under the laws of the United States or any institution, other than an insured bank (as defined in section 656), the accounts of which are insured by the Federal Deposit Insurance Corporation, or by the National Credit Union Administration Board or any small business investment company, with intent to defraud any such institution or any other company, body politic or corporate, or any individual, or to deceive any officer, auditor, examiner or agent of any such institution or of department or agency of the United States, makes any false entry in any book, report or statement of or to any such institution, or without being duly authorized, draws any order or bill of exchange, makes any acceptance, or issues, puts forth or assigns any note, debenture, bond or other obligation, or draft, bill of exchange, mortgage, judgment, or decree, or, with intent to defraud the United States or any agency thereof, or any corporation, institution, or association referred to in this section, participates or shares in or receives directly or indirectly any money, profit, property, or benefits through any transaction, loan, commission, contract, or any other act of any such corporation, institution, or association, shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 750; May 24, 1949, ch. 139, §20, 63 Stat. 92; July 28, 1956, ch. 773, §2, 70 Stat. 714; Pub. L. 85–699, title VII, §704, Aug. 21, 1958, 72 Stat. 698; Pub. L. 87–353, §3(s), Oct. 4, 1961, 75 Stat. 774; Pub. L. 90–19, §24(a), May 25, 1967, 81 Stat. 27; Pub. L. 91–468, §6, Oct. 19, 1970, 84 Stat. 1016; Pub. L. 101–73, title IX, §§961(e), 962(a)(7), (8)(A), Aug. 9, 1989, 103 Stat. 500, 502; Pub. L. 101–624, title XXIII, §2303(e), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 101–647, title XVI, §1603, title XXV, §§2504(e), 2595(a)(4), Nov. 29, 1990, 104 Stat. 4843, 4861, 4907; Pub. L. 103–322, title XXXIII, §330004(6), Sept. 13, 1994, 108 Stat. 2141; Pub. L. 106–78, title VII, §767, Oct. 22, 1999, 113 Stat. 1174; Pub. L. 110–289, div. A, title II, §1216(c), July 30, 2008, 122 Stat. 2792.)
+(June 25, 1948, ch. 645, 62 Stat. 750; May 24, 1949, ch. 139, §20, 63 Stat. 92; July 28, 1956, ch. 773, §2, 70 Stat. 714; Pub. L. 85–699, title VII, §704, Aug. 21, 1958, 72 Stat. 698; Pub. L. 87–353, §3(s), Oct. 4, 1961, 75 Stat. 774; Pub. L. 90–19, §24(a), May 25, 1967, 81 Stat. 27; Pub. L. 91–468, §6, Oct. 19, 1970, 84 Stat. 1016; Pub. L. 101–73, title IX, §§961(e), 962(a)(7), (8)(A), Aug. 9, 1989, 103 Stat. 500, 502; Pub. L. 101–624, title XXIII, §2303(e), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 101–647, title XVI, §1603, title XXV, §§2504(e), 2595(a)(4), Nov. 29, 1990, 104 Stat. 4843, 4861, 4907; Pub. L. 103–322, title XXXIII, §330004(6), Sept. 13, 1994, 108 Stat. 2141; Pub. L. 106–78, title VII, §767, Oct. 22, 1999, 113 Stat. 1174; Pub. L. 110–289, div. A, title II, §1216(c), July 30, 2008, 122 Stat. 2792; Pub. L. 111–203, title III, §377(5), July 21, 2010, 124 Stat. 1569.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title III, §§351, 377(5), July 21, 2010, 124 Stat. 1546, 1569, provided that, effective on the transfer date, this section is amended by striking “Office of Thrift Supervision,” and by striking “the Resolution Trust Corporation,”. See Effective Date of 2010 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -38,13 +42,13 @@ The conspiracy provisions of section 1138d(f) of title 12, U.S.C., 1940 ed., Ban
 
 #### Amendments
 
-2008—Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board”.
+<b>2008</b>—Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board”.
 
-1999—Pub. L. 106–78 inserted “or successor agency” after “Farmers Home Administration” and after “Rural Development Administration”.
+<b>1999</b>—Pub. L. 106–78 inserted “or successor agency” after “Farmers Home Administration” and after “Rural Development Administration”.
 
-1994—Pub. L. 103–322 struck out “Reconstruction Finance Corporation,” after “in any capacity with the” and “Farmers’ Home Corporation,” after “Federal Crop Insurance Corporation,”.
+<b>1994</b>—Pub. L. 103–322 struck out “Reconstruction Finance Corporation,” after “in any capacity with the” and “Farmers’ Home Corporation,” after “Federal Crop Insurance Corporation,”.
 
-1990—Pub. L. 101–647, §2595(a)(4), substituted “Office of Thrift Supervision, any Federal home loan bank, the Federal Housing Finance Board, the Resolution Trust Corporation,” for “Home Owners’ Loan Corporation,”, and directed substitution of “institution, other than an insured bank (as defined in section 656), the accounts of which are insured by the Federal Deposit Insurance Corporation”, for “institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation” which was executed by making the substitution for “institution the accounts of which are insured by the Federal Deposit Insurance Corporation” to reflect the probable intent of Congress and intervening amendment by Pub. L. 101–647, §1603, see below.
+<b>1990</b>—Pub. L. 101–647, §2595(a)(4), substituted “Office of Thrift Supervision, any Federal home loan bank, the Federal Housing Finance Board, the Resolution Trust Corporation,” for “Home Owners’ Loan Corporation,”, and directed substitution of “institution, other than an insured bank (as defined in section 656), the accounts of which are insured by the Federal Deposit Insurance Corporation”, for “institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation” which was executed by making the substitution for “institution the accounts of which are insured by the Federal Deposit Insurance Corporation” to reflect the probable intent of Congress and intervening amendment by Pub. L. 101–647, §1603, see below.
 
 Pub. L. 101–647, §2504(e), substituted “30” for “20” before “years”.
 
@@ -52,23 +56,27 @@ Pub. L. 101–647, §1603, substituted “Federal Deposit Insurance Corporation�
 
 Pub. L. 101–624 substituted “Farmers Home Administration, the Rural Development Administration” for “Farmers’ Home Administration”.
 
-1989—Pub. L. 101–73, §962(a)(8)(A), substituted “the Farm Credit System Insurance Corporation, a Farm Credit Bank, a” for “any land bank, intermediate credit bank,”.
+<b>1989</b>—Pub. L. 101–73, §962(a)(8)(A), substituted “the Farm Credit System Insurance Corporation, a Farm Credit Bank, a” for “any land bank, intermediate credit bank,”.
 
 Pub. L. 101–73, §962(a)(7), substituted “National Credit Union Administration Board” for “Administrator of the National Credit Union Administration”.
 
 Pub. L. 101–73, §961(e), substituted “$1,000,000” for “$10,000” and “20 years” for “five years”.
 
-1970—Pub. L. 91–468 added National Credit Union Administration and its Administrator to the enumeration of Federal Credit institutions and personnel.
+<b>1970</b>—Pub. L. 91–468 added National Credit Union Administration and its Administrator to the enumeration of Federal Credit institutions and personnel.
 
-1967—Pub. L. 90–19 substituted “Department of Housing and Urban Development” for “Federal Housing Administration”.
+<b>1967</b>—Pub. L. 90–19 substituted “Department of Housing and Urban Development” for “Federal Housing Administration”.
 
-1961—Pub. L. 87–353 struck out reference to Federal Farm Mortgage Corporation.
+<b>1961</b>—Pub. L. 87–353 struck out reference to Federal Farm Mortgage Corporation.
 
-1958—Pub. L. 85–699 included officers, agents or employees of or connected in any capacity with small business investment companies.
+<b>1958</b>—Pub. L. 85–699 included officers, agents or employees of or connected in any capacity with small business investment companies.
 
-1956—Act July 28, 1956, included officers, agents or employees of or connected in any capacity with any institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation.
+<b>1956</b>—Act July 28, 1956, included officers, agents or employees of or connected in any capacity with any institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation.
 
-1949—Act May 24, 1949, inserted reference Secretary of Agriculture acting through the Farmers’ Home Administration.
+<b>1949</b>—Act May 24, 1949, inserted reference Secretary of Agriculture acting through the Farmers’ Home Administration.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
 #### Exceptions From Transfer of Functions
 

@@ -50,7 +50,7 @@ In subsection (b), the words “Comptroller General” are substituted for “Co
 
 #### Amendments
 
-1990—Pub. L. 101–510 amended text generally. Prior to amendment, text read as follows:
+<b>1990</b>—Pub. L. 101–510 amended text generally. Prior to amendment, text read as follows:
 
 “(a) Each appropriation account established under section 1552 of this title is accounted for separately andremains available until expended to pay obligations chargeable against any appropriation from which the account is derived.
 

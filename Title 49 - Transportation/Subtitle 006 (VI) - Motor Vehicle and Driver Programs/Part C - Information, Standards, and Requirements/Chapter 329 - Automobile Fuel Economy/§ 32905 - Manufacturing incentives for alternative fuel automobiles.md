@@ -34,7 +34,7 @@ Fuel Economy Calculations.—The Administrator shall calculate the manufacturer'
 
 (f)
 
-Fuel Economy Incentive Requirements.—In order for any model of dual fueled automobile to be eligible to receive the fuel economy incentives included in section 32906(a) and (b), a label shall be attached to the fuel compartment of each dual fueled automobile of that model, notifying that the vehicle can be operated on an alternative fuel and on gasoline or diesel, with the form of alternative fuel stated on the notice. This requirement applies to dual fueled automobiles manufactured on or after September 1, 2006.
+Fuel Economy Incentive Requirements.—In order for any model of dual fueled automobile to be eligible to receive the fuel economy incentives included in section 32906(a) and (b), a label shall be attached to the fuel compartment ofeach dual fueled automobile of that model, notifying that the vehicle can be operated on an alternative fuel and on gasoline or diesel, with the form of alternative fuel stated on the notice. This requirement applies to dual fueled automobiles manufactured on or after September 1, 2006.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1065; Pub. L. 104–287, §5(63), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 109–58, title VII, §§759, 772(a), Aug. 8, 2005, 119 Stat. 833, 834; Pub. L. 110–140, title I, §109(b), (c), Dec. 19, 2007, 121 Stat. 1506.)
 
@@ -88,7 +88,7 @@ In subsection (e), the words “subject to the provisions of this section” are
 
 #### Amendments
 
-2007—Subsec. (b). Pub. L. 110–140, §109(b)(1), substituted “1993 through 2019” for “1993–2010” in introductory provisions.
+<b>2007</b>—Subsec. (b). Pub. L. 110–140, §109(b)(1), substituted “1993 through 2019” for “1993–2010” in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 110–140, §109(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “.5 divided by the fuel economy measured under subsection (a) of this section when operating the model on alternative fuel.”
 
@@ -96,7 +96,7 @@ Subsec. (d). Pub. L. 110–140, §109(b)(2), substituted “1993 through 2019”
 
 Subsecs. (f) to (h). Pub. L. 110–140, §109(b)(3), (4), redesignated subsec. (h) as (f) and struck out former subsecs. (f) and (g) which related to temporary extension of application of subsecs. (b) and (d) and study and report on success of the policy of subsecs. (b) and (d), respectively.
 
-2005—Subsecs. (b), (d). Pub. L. 109–58, §772(a)(1), substituted “1993–2010” for “1993–2004” in introductory provisions.
+<b>2005</b>—Subsecs. (b), (d). Pub. L. 109–58, §772(a)(1), substituted “1993–2010” for “1993–2004” in introductory provisions.
 
 Subsec. (f). Pub. L. 109–58, §772(a)(2), substituted “2007” for “2001” in introductory provisions.
 
@@ -104,7 +104,7 @@ Subsec. (f)(1). Pub. L. 109–58, §772(a)(3), substituted “2010” for “200
 
 Subsec. (h). Pub. L. 109–58, §759, added subsec. (h).
 
-1996—Subsec. (g). Pub. L. 104–287 substituted “Committee on Commerce” for “Committee on Energy and Commerce”.
+<b>1996</b>—Subsec. (g). Pub. L. 104–287 substituted “Committee on Commerce” for “Committee on Energy and Commerce”.
 
 #### Effective Date of 2007 Amendment
 

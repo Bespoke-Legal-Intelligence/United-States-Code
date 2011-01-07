@@ -12,5 +12,5 @@ Section is from the first part of section 5 of act June 13, 1902, which was a pr
 
 #### Amendments
 
-1951—Act Oct. 31, 1951, struck out provisions authorizing the Secretary of the Army to sell the unserviceable property referred to, and authorizing him to direct the transfer of any property employed in river and harbor works; struck out the provision that the property so transferred should be valued and credited to the project upon which it was theretofore used and charged to the project to which it was transferred; and inserted “and is transferred or sold, the proceeds thereof may be credited to the appropriation for the work for which it was acquired”.
+<b>1951</b>—Act Oct. 31, 1951, struck out provisions authorizing the Secretary of the Army to sell the unserviceable property referred to, and authorizing him to direct the transfer of any property employed in river and harbor works; struck out the provision that the property so transferred should be valued and credited to the project upon which it was theretofore used and charged to the project to which it was transferred; and inserted “and is transferred or sold, the proceeds thereof may be credited to the appropriation for the work for which it was acquired”.
 

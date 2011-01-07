@@ -16,5 +16,5 @@ The Congress encourages the Secretary of Defense to participate actively in join
 
 #### Amendments
 
-1993—Pub. L. 103–160 made technical amendment to reference to section 5861 of this title to correct reference to corresponding section of original Act.
+<b>1993</b>—Pub. L. 103–160 made technical amendment to reference to section 5861 of this title to correct reference to corresponding section of original Act.
 

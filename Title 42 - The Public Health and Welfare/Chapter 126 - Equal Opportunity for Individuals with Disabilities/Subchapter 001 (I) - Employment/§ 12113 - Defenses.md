@@ -6,7 +6,7 @@ It may be a defense to a charge of discrimination under this chapter that an all
 
 #### (b) Qualification standards
 
-The term “qualification standards” may include a requirement that an individual shall not pose a direct threat to the health or safety of other individuals in the workplace.
+The term “qualification standards” may include a requirement that an individual shall notpose a direct threat to the health or safety of other individuals in the workplace.
 
 #### (c) Qualification standards and tests related to uncorrected vision
 
@@ -54,7 +54,7 @@ This chapter, referred to in subsecs. (a) and (e)(3), was in the original “thi
 
 #### Amendments
 
-2008—Subsecs. (c) to (e). Pub. L. 110–325 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+<b>2008</b>—Subsecs. (c) to (e). Pub. L. 110–325 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
 #### Effective Date of 2008 Amendment
 

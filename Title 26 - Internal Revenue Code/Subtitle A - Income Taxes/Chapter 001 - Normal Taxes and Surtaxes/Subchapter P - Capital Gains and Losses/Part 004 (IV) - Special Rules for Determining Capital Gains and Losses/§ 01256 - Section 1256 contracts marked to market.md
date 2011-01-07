@@ -18,19 +18,27 @@ For purposes of this subtitle—
 
 #### (b) Section 1256 contract defined
 
-For purposes of this section, the term “section 1256 contract” means—
+#### (1) In general
 
-&emsp;(1) any regulated futures contract,
+&emsp;For purposes of this section, the term “section 1256 contract” means—
 
-&emsp;(2) any foreign currency contract,
+&emsp;&emsp;(A) any regulated futures contract,
 
-&emsp;(3) any nonequity option,
+&emsp;&emsp;(B) any foreign currency contract,
 
-&emsp;(4) any dealer equity option, and
+&emsp;&emsp;(C) any nonequity option,
 
-&emsp;(5) any dealer securities futures contract.
+&emsp;&emsp;(D) any dealer equity option, and
 
-> The term “section 1256 contract” shall not include any securities futures contract or option on such a contract unless such contract or option is a dealer securities futures contract.
+&emsp;&emsp;(E) any dealer securities futures contract.
+
+#### (2) Exceptions
+
+&emsp;The term “section 1256 contract” shall not include—
+
+&emsp;&emsp;(A) any securities futures contract or option on such a contract unless such contract or option is a dealer securities futures contract, or
+
+&emsp;&emsp;(B) any interest rate swap, currency swap, basis swap, interest rate cap, interest rate floor, commodity swap, equity swap, equity index swap, credit default swap, or similar agreement.
 
 #### (c) Terminations, etc.
 
@@ -116,7 +124,7 @@ For purposes of this section, the term “section 1256 contract” means—
 
 #### (i) Limitation
 
-&emsp;&emsp;&emsp;Any hedging loss for a taxable year which is allocable to any limited partner or limited entrepreneur (within the meaning of paragraph (3)) shall be allowed only to the extent of the taxable income of such limited partner or entrepreneur for such taxable year attributable to the trade or business in which the hedging transactions were entered into. For purposes of the preceding sentence, taxable income shall be determined by not taking into account items attributable to hedging transactions.
+&emsp;&emsp;&emsp;Any hedging loss for a taxable year which is allocable to any limited partner or limited entrepreneur (within the meaning of paragraph (3)) shall be allowed only to the extent of the taxable income of such limited partner or entrepreneur for suchtaxable year attributable to the trade or business in which the hedging transactions were entered into. For purposes of the preceding sentence, taxable income shall be determined by not taking into account items attributable to hedging transactions.
 
 #### (ii) Carryover of disallowed loss
 
@@ -146,7 +154,7 @@ For purposes of this section, the term “section 1256 contract” means—
 
 #### (1) Denial of capital gains treatment for property identified as part of a hedging transaction
 
-&emsp;For purposes of this title, gain from any property shall in no event be considered asgain from the sale or exchange of a capital asset if such property was at any time personal property (as defined in section 1092(d)(1)) identified under subsection (e)(2) by the taxpayer as being part of a hedging transaction.
+&emsp;For purposes of this title, gain from any property shall in no event be considered as gain from the sale or exchange of a capital asset if such property was at any time personal property (as defined in section 1092(d)(1)) identified under subsection (e)(2) by the taxpayer as being part of a hedging transaction.
 
 #### (2) Subsection (a)(3) not to apply to ordinary income property
 
@@ -272,7 +280,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “securities futures contract” has the meaning given to such term by section 1234B.
 
-(Added Pub. L. 97–34, title V, §503(a), Aug. 13, 1981, 95 Stat. 327; amended Pub. L. 97–354, §5(a)(38), Oct. 19, 1982, 96 Stat. 1696; Pub. L. 97–448, title I, §105(c)(1)–(3), (5)(A)–(C), Jan. 12, 1983, 96 Stat. 2385, 2386; Pub. L. 98–369, div. A, title I, §§102(a), (b), (e)(1), (5), 104(a), 107(c), (d), title VII, §722(a)(2), July 18, 1984, 98 Stat. 620, 621, 623, 624, 628, 630, 972; Pub. L. 99–514, title XII, §1261(c), Oct. 22, 1986, 100 Stat. 2591; Pub. L. 106–170, title V, §532(b)(4), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title IV, §401(g)(1)–(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649, 2763A–650; Pub. L. 107–147, title IV, §416(b)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–311, title IV, §405(a)(2), Oct. 4, 2004, 118 Stat. 1188; Pub. L. 109–135, title IV, §412(<i>oo</i>), Dec. 21, 2005, 119 Stat. 2639.)
+(Added Pub. L. 97–34, title V, §503(a), Aug. 13, 1981, 95 Stat. 327; amended Pub. L. 97–354, §5(a)(38), Oct. 19, 1982, 96 Stat. 1696; Pub. L. 97–448, title I, §105(c)(1)–(3), (5)(A)–(C), Jan. 12, 1983, 96 Stat. 2385, 2386; Pub. L. 98–369, div. A, title I, §§102(a), (b), (e)(1), (5), 104(a), 107(c), (d), title VII, §722(a)(2), July 18, 1984, 98 Stat. 620, 621, 623, 624, 628, 630, 972; Pub. L. 99–514, title XII, §1261(c), Oct. 22, 1986, 100 Stat. 2591; Pub. L. 106–170, title V, §532(b)(4), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title IV, §401(g)(1)–(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649, 2763A–650; Pub. L. 107–147, title IV, §416(b)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–311, title IV, §405(a)(2), Oct. 4, 2004, 118 Stat. 1188; Pub. L. 109–135, title IV, §412(<i>oo</i>), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 111–203, title XVI, §1601(a), July 21, 2010, 124 Stat. 2223.)
 
 #### References in Text
 
@@ -282,13 +290,15 @@ The date of the enactment of this paragraph, referred to in subsec. (g)(6)(B), p
 
 #### Amendments
 
-2005—Subsec. (f)(1). Pub. L. 109–135 substituted “subsection (e)(2)” for “subsection (e)(2)(C)”.
+<b>2010</b>—Subsec. (b). Pub. L. 111–203 redesignated first sentence as par. (1), inserted heading, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), added par. (2), and struck out concluding provisions which read as follows: “The term ‘section 1256 contract’ shall not include any securities futures contract or option on such a contract unless such contract or option is a dealer securities futures contract.”
 
-2004—Subsec. (g)(6). Pub. L. 108–311 added at end of concluding provisions “The Secretary may prescribe regulations regarding the status of options the values of which are determined directly or indirectly by reference to any index which becomes (or ceases to be) a narrow-based security index (as so defined).”
+<b>2005</b>—Subsec. (f)(1). Pub. L. 109–135 substituted “subsection (e)(2)” for “subsection (e)(2)(C)”.
 
-2002—Subsec. (f)(5). Pub. L. 107–147 added par. (5).
+<b>2004</b>—Subsec. (g)(6). Pub. L. 108–311 added at end of concluding provisions “The Secretary may prescriberegulations regarding the status of options the values of which are determined directly or indirectly by reference to any index which becomes (or ceases to be) a narrow-based security index (as so defined).”
 
-2000—Subsec. (b). Pub. L. 106–554, §1(a)(7) \[title IV, §401(g)(1)(A)\], added par. (5) and concluding provisions.
+<b>2002</b>—Subsec. (f)(5). Pub. L. 107–147 added par. (5).
+
+<b>2000</b>—Subsec. (b). Pub. L. 106–554, §1(a)(7) \[title IV, §401(g)(1)(A)\], added par. (5) and concluding provisions.
 
 Subsec. (f)(4). Pub. L. 106–554, §1(a)(7) \[title IV, §401(g)(2)\], inserted “and dealer securities futures contracts” after “dealer equity options” in heading and “, or dealer securities futures contracts,” after “dealer equity options” in introductory provisions.
 
@@ -312,7 +322,7 @@ Exception for certain options regulated by commodities futures trading commissio
 
 Subsec. (g)(9). Pub. L. 106–554, §1(a)(7) \[title IV, §401(g)(1)(B)\], added par. (9).
 
-1999—Subsec. (e)(2). Pub. L. 106–170 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this subsection, the term ‘hedging transaction’ means any transaction if—
+<b>1999</b>—Subsec. (e)(2). Pub. L. 106–170 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this subsection, the term ‘hedging transaction’ means any transaction if—
 
 &emsp;“(A) such transaction is entered into by the taxpayer in the normal course of the taxpayer's trade or business primarily—
 
@@ -324,9 +334,9 @@ Subsec. (g)(9). Pub. L. 106–554, §1(a)(7) \[title IV, §401(g)(1)(B)\], added
 
 &emsp;“(C) before the close of the day on which such transaction was entered into (or such earlier time as the Secretary may prescribe by regulations), the taxpayer clearly identifies such transaction as being a hedging transaction.”
 
-1986—Subsec. (e)(4), (5). Pub. L. 99–514 redesignated par. (5) as (4) and struck out former par. (4), special rule for banks, which read as follows: “In the case of a bank (as defined in section 581), subparagraph (A) of paragraph (2) shall be applied without regard to clause (i) or (ii) thereof.”
+<b>1986</b>—Subsec. (e)(4), (5). Pub. L. 99–514 redesignated par. (5) as (4) and struck out former par. (4), special rule for banks, which read as follows: “In the case of a bank (as defined in section 581), subparagraph (A) of paragraph (2) shall be applied without regard to clause (i) or (ii) thereof.”
 
-1984—Pub. L. 98–369, §102(e)(5), substituted “Section 1256 contracts” for “Regulated futures contracts” in section catchline.
+<b>1984</b>—Pub. L. 98–369, §102(e)(5), substituted “Section 1256 contracts” for “Regulated futures contracts” in section catchline.
 
 Subsec. (a)(1), (3), (4). Pub. L. 98–369, §102(a)(1), substituted “section 1256 contract” for “regulated futures contract” and “section 1256 contracts” for “regulated futures contracts” wherever appearing.
 
@@ -356,7 +366,7 @@ Subsec. (g). Pub. L. 98–369, §102(a)(3), in amending subsec. (g) generally, i
 
 Subsec. (g)(1)(A). Pub. L. 98–369, §722(a)(2), inserted “, or the settlement of which depends on the value of,” after “delivery of”.
 
-1983—Subsec. (b). Pub. L. 97–448, §105(c)(5)(A), (B), struck out par. (1) which related to contracts requiring delivery of personal property (as defined in section 1092(d)(1)) or an interest in such property, redesignated pars. (2) and (3) as (1) and (2), respectively, and inserted last sentence providing that such term includes any foreign currency contract.
+<b>1983</b>—Subsec. (b). Pub. L. 97–448, §105(c)(5)(A), (B), struck out par. (1) which related to contracts requiring delivery of personal property (as defined in section 1092(d)(1)) or an interest in such property, redesignated pars. (2) and (3) as (1) and (2), respectively, and inserted last sentence providing that such term includes any foreign currency contract.
 
 Subsec. (c). Pub. L. 97–448, §105(c)(1), inserted “, etc.” after “Terminations” in heading and, in text, designated existing first and second sentences as pars. (1) and (3), respectively, added par. (2), inserted “(or transfer)” after “termination” and “(or rights)” after “obligation” in par. (1) as so designated, and substituted “this subsection” for “the preceding sentence” and inserted “(or transfer)” after “termination” in par. (3) as so designated.
 
@@ -366,11 +376,17 @@ Subsec. (e)(3)(C)(v). Pub. L. 97–448, §105(c)(3), inserted “(by regulations
 
 Subsec. (g). Pub. L. 97–448, §105(c)(5)(C), added subsec. (g).
 
-1982—Subsec. (e)(3)(B). Pub. L. 97–354 substituted “an S corporation” for “an electing small business corporation within the meaning of section 1371(b)”.
+<b>1982</b>—Subsec. (e)(3)(B). Pub. L. 97–354 substituted “an S corporation” for “an electing small business corporation within the meaning of section 1371(b)”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of Title 12, Banks and Banking.
+
+Pub. L. 111–203, title XVI, §1601(b), July 21, 2010, 124 Stat. 2223, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[July 21, 2010\].”
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–311 effective as if included in section 401 of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by Pub. L. 106–554\], see section 405(b) of Pub. L. 108–311, set out as a note under section 1234B of this title.
+Amendment by Pub. L. 108–311 effective as if included in section 401 of the Community Renewal Tax ReliefAct of 2000 \[H.R. 5662, as enacted by Pub. L. 106–554\], see section 405(b) of Pub. L. 108–311, set out as a note under section 1234B of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -534,7 +550,7 @@ Definitions.—For purposes of this clause, the terms ‘regulated futures contr
 
 “(iii)
 
-Election by taxpayer with respect to positions held during taxable years ending after may 11, 1982.—In lieu of the election under clause (ii), a taxpayer may elect to have the amendments made by subparagraphs (B) and (C) \[amending subsec. (b) of this section to include foreign currency contracts and enacting subsec. (g) of this section, respectively\] appliedto all positions held in taxable years ending after May 11, 1982, except that the provisions of section 509(a)(3) and (4) of the Economic Recovery Tax Act of 1981 \[set out below\] shall not apply.”
+Election by taxpayer with respect to positions held during taxable years ending after may 11, 1982.—In lieu of the election under clause (ii), a taxpayer may elect to have the amendments made by subparagraphs (B) and (C) \[amending subsec. (b) of this section to include foreign currency contracts and enacting subsec. (g) of this section, respectively\] applied to all positions held in taxable years ending after May 11, 1982, except that the provisions of section 509(a)(3) and (4) of the Economic Recovery Tax Act of 1981 \[set out below\] shall not apply.”
 
 #### Effective Date of 1982 Amendment
 
@@ -578,7 +594,7 @@ Determination of deferred tax liability.—If the taxpayer makes an election und
 
 &emsp;&emsp;&emsp;“(i) the tax for such year, determined by taking into account paragraph (2), over
 
-&emsp;&emsp;&emsp;“(ii) the tax for such year, determined by taking into account paragraph (2) and by treating all regulated futures contracts which were held by the taxpayer on the first day of the taxable year described in paragraph (1), and which were acquired before the first day of such taxable year, as having been acquired for a purchase price equal to their fair market value on the last business day of the preceding taxable year.
+&emsp;&emsp;&emsp;“(ii) the tax for such year, determined by taking into account paragraph (2) and by treating all regulated futures contracts which were held by the taxpayer on the first day of the taxable year described in paragraph (1), and which were acquired before the first day of such taxable year, as having been acquired for a purchase price equalto their fair market value on the last business day of the preceding taxable year.
 
 &emsp;“(4)
 

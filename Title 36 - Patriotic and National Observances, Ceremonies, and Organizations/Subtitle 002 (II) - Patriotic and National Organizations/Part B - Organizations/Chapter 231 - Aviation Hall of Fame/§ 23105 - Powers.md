@@ -28,7 +28,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-23105D36:4304(2)–(9).DJuly 14, 1964, Pub. L. 88–372, §§4(2)–(9), 17, 78 Stat. 315, 318.
+23105
+
+36:4304(2)–(9).
+
+July 14, 1964, Pub. L. 88–372, §§4(2)–(9), 17, 78 Stat. 315, 318.
 
 &nbsp;
 

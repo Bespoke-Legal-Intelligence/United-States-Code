@@ -6,7 +6,7 @@ Agreements.—
 
 &emsp;(1)
 
-Authority to enter.—A motor carrier providing transportation or service subject to jurisdiction under chapter 135 may enter into an agreement with one or more such carriers to establish—
+Authority to enter.—A motor carrier providing transportation or service subject tojurisdiction under chapter 135 may enter into an agreement with one or more such carriers to establish—
 
 &emsp;&emsp;(A) through routes and joint rates;
 
@@ -26,7 +26,7 @@ Authority to enter.—A motor carrier providing transportation or service subjec
 
 &emsp;(2)
 
-Submission of agreement to board; approval.—An agreement entered into under paragraph (1) may be submitted by any carrier or carriers that are parties to such agreementto the Board for approval and may be approved by the Board only if it finds that such agreement is in the public interest.
+Submission of agreement to board; approval.—An agreement entered into under paragraph (1) may be submitted by any carrier or carriers that are parties to such agreement to the Board for approval and may be approved by the Board only if it finds that such agreement is in the public interest.
 
 &emsp;(3)
 
@@ -124,7 +124,7 @@ In general.—A motor carrier of property whose routes, rates, classifications, 
 
 &emsp;&emsp;&emsp;(ii)
 
-Power of attorney.—The motor carrier of property shall issue a power of attorney to the publishing agent and, upon its acceptance, the agent shall issue a written certification to the motor carrier affirming its participation in the governing publication, and the certification shall be made available for public inspection.
+Power of attorney.—The motor carrier of property shall issue a power of attorney to the publishing agent and, upon its acceptance, the agent shall issue a written certification to the motor carrieraffirming its participation in the governing publication, and the certification shall be made available for public inspection.
 
 &emsp;(2)
 
@@ -138,11 +138,11 @@ Mileage limitation.—No carrier subject to jurisdiction under subchapter I or I
 
 Single Line Rate Defined.—In this section, the term “single line rate” means a rate, charge, or allowance proposed by a single motor carrier that is applicable only over its line and for which the transportation can be provided by that carrier.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 869; amended Pub. L. 104–287, §5(28),Oct. 11, 1996, 110 Stat. 3391; Pub. L. 105–102, §2(9), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 106–159, title II, §227, Dec. 9, 1999, 113 Stat. 1772; Pub. L. 108–7, div. I, title III, §354, Feb. 20, 2003, 117 Stat. 421.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 869; amended Pub. L. 104–287, §5(28), Oct. 11, 1996, 110 Stat. 3391; Pub. L. 105–102, §2(9), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 106–159, title II, §227, Dec. 9, 1999, 113 Stat. 1772; Pub. L. 108–7, div. I, title III, §354, Feb. 20, 2003, 117 Stat. 421.)
 
 #### Historical and Revision Notes
 
-I74Pub. L. 105–102
+#### Pub. L. 105–102
 
 This amends 49:13703(a)(2) to correct an erroneous cross-reference.
 
@@ -162,21 +162,25 @@ Provisions similar to those in this section were contained in section 10706 of t
 
 #### Amendments
 
-2003—Subsecs. (d) to (h). Pub. L. 108–7 redesignated subsecs. (e) to (h) as (d) to (g), respectively, and struck out heading and text of former subsec. (d). Text read as follows: “The Board shall not take any action that would permit the establishment of nationwide collective ratemaking authority.”
+<b>2003</b>—Subsecs. (d) to (h). Pub. L. 108–7 redesignated subsecs. (e) to (h) as (d) to (g), respectively, and struck out heading and text of former subsec. (d). Text read as follows: “The Board shall not take any action that would permit the establishment of nationwide collective ratemaking authority.”
 
-1999—Subsec. (c). Pub. L. 106–159, §227(a), designated introductory provisions as par. (1) and inserted heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1) and realigned their margins, and added par. (2).
+<b>1999</b>—Subsec. (c). Pub. L. 106–159, §227(a), designated introductory provisions as par. (1) and inserted heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1) and realigned their margins, and added par. (2).
 
 Subsec. (d). Pub. L. 106–159, §227(b), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “Subject to subsection (c), approval of an agreement under subsection (a) shall expire 3 years after the date of approval unless renewed under this subsection. The approval may be renewed upon request of the parties to the agreement if such parties resubmit the agreement to the Board, the agreement is unchanged, and the Board approves such renewal. The Board shall approve the renewal unless it finds that the renewal is not in the public interest. Parties to the agreement may continue to undertake activities pursuant to the previously approved agreement while the renewal request is pending.”
 
 Subsec. (e). Pub. L. 106–159, §227(c), designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
-1997—Subsec. (a)(2). Pub. L. 105–102 substituted “paragraph (1)” for “subsection (a)”.
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–102 substituted “paragraph (1)” for “subsection (a)”.
 
-1996—Subsec. (e). Pub. L. 104–287, §5(28)(A), substituted “December 31, 1995,” for “the day before the effective date of this section” and “January 1, 1996” for “such effective date”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–287, §5(28)(A), substituted “December 31, 1995,” for “the day before the effective date of this section” and “January 1, 1996” for “such effective date”.
 
 Subsec. (f)(2). Pub. L. 104–287, §5(28)(B), substituted “December 31, 1995” for “the day before the effective date of this section”.
 
 #### Abolition of Interstate Commerce Commission
 
 Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 701 of this title.
+
+#### Deemed References to Chapters 509 and 511 of Title 51
+
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 

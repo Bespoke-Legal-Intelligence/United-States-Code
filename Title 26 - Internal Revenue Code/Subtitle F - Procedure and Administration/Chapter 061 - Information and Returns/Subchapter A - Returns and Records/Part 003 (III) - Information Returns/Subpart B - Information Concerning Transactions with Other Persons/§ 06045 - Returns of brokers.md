@@ -66,7 +66,7 @@ If any broker—
 
 #### (2) Real estate reporting person
 
-&emsp;For purposes of this subsection, the term “real estate reporting person” means any of the following persons involved in a real estate transaction in the following order:
+&emsp;For purposes of this subsection, the term “real estate reporting person” means any ofthe following persons involved in a real estate transaction in the following order:
 
 &emsp;&emsp;(A) the person (including any attorney or title company) responsible for closing the transaction,
 
@@ -152,7 +152,7 @@ If any broker—
 
 #### (ii) Exception for wash sales
 
-&emsp;&emsp;&emsp;Except as otherwise provided by the Secretary, the customer's adjusted basis shall be determined without regard to section 1091 (relating to loss from wash sales of stock or securities) unless the transactions occur in the same account with respect to identical securities.
+&emsp;&emsp;&emsp;Except as otherwise provided by the Secretary, the customer's adjusted basis shallbe determined without regard to section 1091 (relating to loss from wash sales of stock or securities) unless the transactions occur in the same account with respect to identical securities.
 
 #### (3) Covered security
 
@@ -214,33 +214,33 @@ If any broker—
 
 &emsp;For purposes of this subsection, the terms “covered security” and “specified security” shall have the meanings given such terms in subsection (g)(3).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 747; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §311(a)(1), Sept. 3, 1982, 96 Stat. 600; Pub. L. 98–369, div. A, title I, §150(a), title VII, §714(e)(1), July 18, 1984, 98 Stat. 690, 961; Pub. L. 99–514, title XV, §§1501(c)(4), 1521(a), Oct. 22, 1986, 100 Stat. 2737, 2746; Pub. L. 100–647, title I, §1015(e)(1)(A), (2)(A), (3), title IV, §4005(g)(3), Nov. 10, 1988, 102 Stat. 3569, 3570, 3650; Pub. L. 101–239, title VII, §7814(c)(1), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11704(a)(25), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 102–486, title XIX, §1939(a), Oct. 24, 1992, 106 Stat. 3034; Pub. L. 104–168, titleXII, §1201(a)(5), July 30, 1996, 110 Stat. 1469; Pub. L. 104–188, title I, §1704(<i>o</i>)(1), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title III, §312(c), title X, §1021(a), Aug. 5, 1997, 111 Stat. 839, 922; Pub. L. 109–135, title IV, §412(xx), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–343, div. B, title IV, §403(a), Oct. 3, 2008, 122 Stat. 3854.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 747; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §311(a)(1), Sept. 3, 1982, 96 Stat. 600; Pub. L. 98–369, div. A, title I, §150(a), title VII, §714(e)(1), July 18, 1984, 98 Stat. 690, 961; Pub. L. 99–514, title XV, §§1501(c)(4), 1521(a), Oct. 22, 1986, 100 Stat. 2737, 2746; Pub. L. 100–647, title I, §1015(e)(1)(A), (2)(A), (3), title IV, §4005(g)(3), Nov. 10, 1988, 102 Stat. 3569, 3570, 3650; Pub. L. 101–239, title VII, §7814(c)(1), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11704(a)(25), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 102–486, title XIX, §1939(a), Oct. 24, 1992, 106 Stat. 3034; Pub. L. 104–168, title XII, §1201(a)(5), July 30, 1996, 110 Stat. 1469; Pub. L. 104–188, title I, §1704(<i>o</i>)(1), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title III, §312(c), title X, §1021(a), Aug. 5, 1997, 111 Stat. 839, 922; Pub. L. 109–135, title IV, §412(xx), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–343, div. B, title IV, §403(a), Oct. 3, 2008, 122 Stat. 3854.)
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–343, §403(a)(3)(A), (C), in concluding provisions, substituted “February 15” for “January 31” and inserted at end “In the case of a consolidated reporting statement (as defined in regulations) with respect to any customer, any statement which would otherwise be required to be furnished on or before January 31 of a calendar year with respect to any item reportable to the taxpayer shall instead be required to be furnished on or before February 15 of such calendar year if furnished with such consolidated reporting statement.”
+<b>2008</b>—Subsec. (b). Pub. L. 110–343, §403(a)(3)(A), (C), in concluding provisions, substituted “February 15” for “January 31” and inserted at end “In the case of a consolidated reporting statement (as defined in regulations) with respect to any customer, any statement which would otherwise be required to be furnished on or before January 31 of a calendar year with respect to any item reportable to the taxpayer shall instead be required to be furnished on or before February 15 of such calendar year if furnished with such consolidated reporting statement.”
 
 Subsec. (d). Pub. L. 110–343, §403(a)(3)(B), in concluding provisions, struck out “at such time and” before “in the manner” and inserted “The written statement required under the preceding sentence shall be furnished on or before February 15 of the year following the calendar year in which the payment was made.” before “The Secretary may prescribe”.
 
 Subsecs. (g), (h). Pub. L. 110–343, §403(a)(1), (2), added subsecs. (g) and (h).
 
-2005—Subsec. (e)(5)(A). Pub. L. 109–135 adjusted the margin of the third sentence to include it in concluding provisions with the second sentence.
+<b>2005</b>—Subsec. (e)(5)(A). Pub. L. 109–135 adjusted the margin of the third sentence to include it in concluding provisions with the second sentence.
 
-1997—Subsec. (e)(5). Pub. L. 105–34, §312(c), added par. (5).
+<b>1997</b>—Subsec. (e)(5). Pub. L. 105–34, §312(c), added par. (5).
 
 Subsec. (f). Pub. L. 105–34, §1021(a), added subsec. (f).
 
-1996—Subsec. (b)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
 
-Subsec. (e)(3). Pub. L. 104–188 inserted at end “Nothing in this paragraph shall be construed to prohibit the real estate reporting person from taking into account its cost of complying with such requirement in establishing its charge (other than a separate charge for complying with such requirement) to any customer for performing services in the case of a real estate transaction.”
+Subsec. (e)(3). Pub. L. 104–188 inserted at end “Nothing in this paragraph shall be construed to prohibit thereal estate reporting person from taking into account its cost of complying with such requirement in establishing its charge (other than a separate charge for complying with such requirement) to any customer for performing services in the case of a real estate transaction.”
 
-1992—Subsec. (e)(4). Pub. L. 102–486 substituted heading for one which read: “Whether seller's financing was federally-subsidized” and amended text generally. Prior to amendment, text read as follows: “In the case of a real estate transaction involving a residence, the real estate reporting person shall specify on the return under subsection (a) and the statement under subsection (b) whether or not the financing (if any) of the seller was federally-subsidized indebtedness (as defined in section 143(m)(3)).”
+<b>1992</b>—Subsec. (e)(4). Pub. L. 102–486 substituted heading for one which read: “Whether seller's financing was federally-subsidized” and amended text generally. Prior to amendment, text read as follows: “In the case of a real estate transaction involving a residence, the real estate reporting person shall specify on the return under subsection (a) and the statement under subsection (b) whether or not the financing (if any) of the seller was federally-subsidized indebtedness (as defined in section 143(m)(3)).”
 
-1990—Subsec. (e)(4). Pub. L. 101–508 substituted “reporting person” for “broker”.
+<b>1990</b>—Subsec. (e)(4). Pub. L. 101–508 substituted “reporting person” for “broker”.
 
-1989—Subsec. (e)(3), (4). Pub. L. 101–239 redesignated par. (3), relating to whether seller's financing was federally-subsidized indebtedness, as (4).
+<b>1989</b>—Subsec. (e)(3), (4). Pub. L. 101–239 redesignated par. (3), relating to whether seller's financing was federally-subsidized indebtedness, as (4).
 
-1988—Subsec. (c)(1). Pub. L. 100–647, §1015(e)(1)(A), inserted at end “A person shall not be treated as a broker with respect to activities consisting of managing a farm on behalf of another person.”
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–647, §1015(e)(1)(A), inserted at end “A person shall not be treated as a broker with respect to activities consisting of managing a farm on behalf of another person.”
 
 Subsec. (e)(1). Pub. L. 100–647, §1015(e)(3)(A), substituted “real estate reporting person” for “real estate broker”.
 
@@ -250,17 +250,17 @@ Subsec. (e)(3). Pub. L. 100–647, §4005(g)(3), added par. (3) relating to whet
 
 Pub. L. 100–647, §1015(e)(2)(A), added par. (3) relating to prohibition of separate charge for filing return.
 
-1986—Subsec. (b). Pub. L. 99–514, §1501(c)(4), in amending subsec. (c) generally, substituted references to persons required to make a return for former references to persons making a return.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514, §1501(c)(4), in amending subsec. (c) generally, substituted references to persons required to make a return for former references to persons making a return.
 
 Subsec. (e). Pub. L. 99–514, §1521(a), added subsec. (e).
 
-1984—Subsec. (c)(4). Pub. L. 98–369, §714(e)(1), added par. (4).
+<b>1984</b>—Subsec. (c)(4). Pub. L. 98–369, §714(e)(1), added par. (4).
 
 Subsec. (d). Pub. L. 98–369, §150(a), added subsec. (d).
 
-1982—Pub. L. 97–248 designated existing provisions as subsec. (a), substituted “the name and address of each customer, with such details regarding gross proceeds” for “the names of customers for whom such person has transacted any business, with such details regarding the profits and losses” after “may prescribe, showing” and “such business” for “each customer as will enable the Secretary to determine the amount of such profits and losses” after “with respect to”, and added subsecs. (b) and (c).
+<b>1982</b>—Pub. L. 97–248 designated existing provisions as subsec. (a), substituted “the name and address of each customer, with such details regarding gross proceeds” for “the names of customers for whom such person has transacted any business, with such details regarding the profits and losses” after “may prescribe, showing” and “such business” for “each customer as will enable the Secretary to determine the amount of such profits and losses” after “with respect to”, and added subsecs. (b) and (c).
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 2008 Amendment
 

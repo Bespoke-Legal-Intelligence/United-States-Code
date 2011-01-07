@@ -12,7 +12,7 @@ Evaluation of Cost Goals.—The Under Secretary of Defense (Comptroller) shall e
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–314, §1041(a)(8)(B), (C), struck out par. (1) designation and redesignated par. (2) as subsec. (b).
+<b>2002</b>—Subsec. (a). Pub. L. 107–314, §1041(a)(8)(B), (C), struck out par. (1) designation and redesignated par. (2) as subsec. (b).
 
 Subsec. (b). Pub. L. 107–314, §1041(a)(8)(A), (C), redesignated subsec. (a)(2) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary of Defense shall include in the annual report submitted to Congress pursuant to section 113(c) of this title an assessment of whether major acquisition programs of the Department of Defense are achieving, on average, 90 percent of cost, performance, and schedule goals established pursuant to subsection (a) and whether the average period for converting emerging technology into operational capability has decreased by 50 percent or more from the average period required for such conversion as of October 13, 1994. The Secretary shall use data from existing management systems in making the assessment.”
 
@@ -22,15 +22,15 @@ Subsec. (c). Pub. L. 107–314, §1041(a)(8)(A), struck out heading and text of 
 
 &emsp;“(2) identify suitable actions to be taken, including termination, with respect to such programs.”
 
-1997—Subsec. (b). Pub. L. 105–85 substituted “whether major acquisition programs” for “whether major and nonmajor acquisition programs”.
+<b>1997</b>—Subsec. (b). Pub. L. 105–85 substituted “whether major acquisition programs” for “whether major and nonmajor acquisition programs”.
 
-1996—Subsec. (a)(2). Pub. L. 104–106, §1503(a)(20), substituted “Under Secretary of Defense (Comptroller)” for “Comptroller of the Department of Defense”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–106, §1503(a)(20), substituted “Under Secretary of Defense (Comptroller)” for “Comptroller of the Department of Defense”.
 
 Subsec. (b). Pub. L. 104–106, §4321(b)(1), substituted “October 13, 1994” for “the date of the enactment of the Federal Acquisition Streamlining Act of 1994”.
 
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by section 4321(b)(1) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by section 4321(b)(1) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2302 of this title.
 
 #### Pilot Programs for Testing Program Manager Performance of Product Support Oversight Responsibilities for Life Cycle of Acquisition Programs
 

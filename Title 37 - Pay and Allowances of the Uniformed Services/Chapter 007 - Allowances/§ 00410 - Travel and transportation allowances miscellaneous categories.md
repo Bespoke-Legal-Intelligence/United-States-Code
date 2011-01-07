@@ -46,7 +46,7 @@ Oct. 12, 1949, ch. 681, §303(e), 63 Stat. 815.
 
 #### Amendments
 
-1991—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
 #### Transfer of Functions
 

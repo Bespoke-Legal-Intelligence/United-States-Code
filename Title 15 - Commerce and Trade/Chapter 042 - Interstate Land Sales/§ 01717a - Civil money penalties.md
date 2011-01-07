@@ -16,7 +16,7 @@
 
 &emsp;The Secretary shall establish standards and procedures governing the imposition of civil money penalties under subsection (a) of this section. The standards and procedures—
 
-&emsp;&emsp;(A) shall provide for the imposition of a penalty only after a person has been givenan opportunity for a hearing on the record; and
+&emsp;&emsp;(A) shall provide for the imposition of a penalty only after a person has been given an opportunity for a hearing on the record; and
 
 &emsp;&emsp;(B) may provide for review by the Secretary of any determination or order, or interlocutory ruling, arising from a hearing.
 
@@ -62,7 +62,15 @@ The Secretary shall issue such regulations as the Secretary deems appropriate to
 
 Civil money penalties collected under this section shall be paid to the Secretary and, upon approval in an appropriation Act, may be used by the Secretary to cover all or part of the cost of rendering services under this chapter.
 
-(Pub. L. 90–448, title XIV, §1418a, as added Pub. L. 101–235, title I, §111(a), Dec. 15, 1989, 103 Stat. 2014.)
+(Pub. L. 90–448, title XIV, §1418a, as added Pub. L. 101–235, title I, §111(a), Dec. 15, 1989, 103 Stat. 2014; amended Pub. L. 111–203, title X, §1098A(1), July 21, 2010, 124 Stat. 2105.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1098A(1), 1100H, July 21, 2010, 124 Stat. 2105, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Secretary” each place that term appears and inserting “Director”. See Effective Date of 2010 Amendment note below.</i>
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

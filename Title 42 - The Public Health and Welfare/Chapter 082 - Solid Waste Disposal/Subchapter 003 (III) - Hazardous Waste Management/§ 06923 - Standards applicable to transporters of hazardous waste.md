@@ -2,7 +2,7 @@
 
 #### (a) Standards
 
-Not later than eighteen months after October 21, 1976, and after opportunity for public hearings, the Administrator, after consultation with the Secretary of Transportation and the States, shall promulgate regulations establishing such standards, applicable to transporters of hazardous waste identified or listed under this subchapter, as may be necessary to protect human health and the environment. Such standards shall include but need not be limited to requirements respecting—
+Not later than eighteen months after October 21, 1976, and after opportunity for public hearings, the Administrator, after consultation with the Secretary of Transportation and the States, shall promulgate regulations establishing suchstandards, applicable to transporters of hazardous waste identified or listed under this subchapter, as may be necessary to protect human health and the environment. Such standards shall include but need not be limited to requirements respecting—
 
 &emsp;(1) recordkeeping concerning such hazardous waste transported, and their source and delivery points;
 
@@ -34,9 +34,9 @@ In subsec. (b), “chapter 51 of title 49” substituted for “the Hazardous Ma
 
 #### Amendments
 
-1984—Subsec. (c). Pub. L. 98–616 added subsec. (c).
+<b>1984</b>—Subsec. (c). Pub. L. 98–616 added subsec. (c).
 
-1978—Subsec. (a)(4). Pub. L. 95–609, §7(g)(1), inserted provision relating to title I of the Marine Protection, Research, and Sanctuaries Act.
+<b>1978</b>—Subsec. (a)(4). Pub. L. 95–609, §7(g)(1), inserted provision relating to title I of the Marine Protection, Research, and Sanctuaries Act.
 
 Subsec. (b). Pub. L. 95–609, §7(g)(2), substituted “Administrator under this section” for “Administrator under this subchapter”.
 

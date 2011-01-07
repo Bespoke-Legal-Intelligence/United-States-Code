@@ -8,7 +8,7 @@
 
 &emsp;(3) member of the National Oceanic and Atmospheric Administration serving with the Navy;
 
-> on sea duty who is deprived of his quarters on board ship because of repairs or because of other conditions that make his quarters uninhabitable. Lodging accommodations so provided may not be occupied by the member's dependents.
+> on sea duty who is deprived of his quarters on board ship because of repairs or because of otherconditions that make his quarters uninhabitable. Lodging accommodations so provided may not be occupied by the member's dependents.
 
 \[(b) Repealed. Pub. L. 105–261, div. A, title X, §1069(a)(7), Oct. 17, 1998, 112 Stat. 2136.\]
 
@@ -58,15 +58,15 @@ Aug. 2, 1946, ch. 756, §39, 60 Stat. 858.
 
 In subsection (a) the word “public” is substituted for the words “possessed by the United States” and the subsection is phrased in terms of availability, as it is so interpreted. The itemization of personnel categories for whom quarters may be furnished is inserted to execute the definition of “naval personnel”, made applicable to this section by 5 U.S.C. 421g. The requirement in that definition that personnel be on active duty is omitted since this subsection applies only to personnel on sea duty.
 
-In subsection (b) the words “and who is not entitled to basic allowance for quarters” are inserted to make it clear that the entitlement under this subsection, as interpreted, is not in addition to basic allowance forquarters. The words “in obtaining quarters” are inserted for clarity. The words “basic allowance for quarters of an officer of his grade” are substituted for the words “his quarters allowance” because, under the Career Compensation Act of 1949, members without dependents are not entitled to a quarters allowance when on sea duty, and the limitation must be based upon the allowance of an officer of the same grade who is entitled thereto.
+In subsection (b) the words “and who is not entitled to basic allowance for quarters” are inserted to make it clear that the entitlement under this subsection, as interpreted, is not in addition to basic allowance for quarters. The words “in obtaining quarters” are inserted for clarity. The words “basic allowance for quarters of an officer of his grade” are substituted for the words “his quarters allowance” because, under the Career Compensation Act of 1949, members without dependents are not entitled to a quarters allowance when on sea duty, and the limitation must be based upon the allowance of an officer of the same grade who is entitled thereto.
 
 In subsection (c) the words “except the authority to prescribe regulations” are omitted, since subsection (a) does not contain such authority.
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–261 struck out subsec. (b) which authorized reimbursements to members of a uniformed service on sea duty who are deprived of quarters on board because of repairs or because of other conditions, and provided that such authority expire on Sept. 30, 1992.
+<b>1998</b>—Subsec. (b). Pub. L. 105–261 struck out subsec. (b) which authorized reimbursements to members of a uniformed service on sea duty who are deprived of quarters on board because of repairs or because of other conditions, and provided that such authority expire on Sept. 30, 1992.
 
-1997—Subsec. (b)(1). Pub. L. 105–85, §603(d)(2)(D)(i), substituted “the basic allowance for housing payable under section 403 of title 37 to a member of the same pay grade without dependents for the period during which the member is deprived of quarters on board ship.” for “the total of—
+<b>1997</b>—Subsec. (b)(1). Pub. L. 105–85, §603(d)(2)(D)(i), substituted “the basic allowance for housing payable under section 403 of title 37 to a member of the same pay grade without dependents for the period during which the member is deprived of quarters on board ship.” for “the total of—
 
 &emsp;“(A) the basic allowance for quarters payable to a member of the same pay grade without dependents for the period during which the member is deprived of quarters on board ship; and
 
@@ -74,29 +74,29 @@ In subsection (c) the words “except the authority to prescribe regulations” 
 
 Subsec. (b)(2). Pub. L. 105–85, §603(d)(2)(D)(ii), substituted “basic allowance for housing” for “basic allowance for quarters”.
 
-1991—Subsec. (b). Pub. L. 102–190, §607(a), amended subsec. to read as in effect on Sept. 30, 1991, in par. (3) struck out “$1,421,000 for fiscal year 1986 and” after “may not exceed” and substituted “1992” for “1991”, and added par. (4).
+<b>1991</b>—Subsec. (b). Pub. L. 102–190, §607(a), amended subsec. to read as in effect on Sept. 30, 1991, in par. (3) struck out “$1,421,000 for fiscal year 1986 and” after “may not exceed” and substituted “1992” for “1991”, and added par. (4).
 
 Subsec. (d). Pub. L. 102–190, §607(b), added subsec. (d).
 
-1986—Subsec. (b)(3). Pub. L. 99–661 substituted “$1,421,000 for fiscal year 1986 and $1,657,000 for each of the fiscal years 1987 through 1991” for “$9,000,000 for fiscal year 1981, $6,300,000 for fiscal year 1982, $1,700,000 for fiscal year 1983, $1,300,000 for fiscal year 1984, $1,421,000 for fiscal year 1985, and $1,421,000 for fiscal year 1986”.
+<b>1986</b>—Subsec. (b)(3). Pub. L. 99–661 substituted “$1,421,000 for fiscal year 1986 and $1,657,000 for each of the fiscal years 1987 through 1991” for “$9,000,000 for fiscal year 1981, $6,300,000 for fiscal year 1982, $1,700,000 for fiscal year 1983, $1,300,000 for fiscal year 1984, $1,421,000 for fiscal year 1985, and $1,421,000 for fiscal year 1986”.
 
-1985—Subsec. (b)(3). Pub. L. 99–145 added limit of $1,421,000 for fiscal year 1986.
+<b>1985</b>—Subsec. (b)(3). Pub. L. 99–145 added limit of $1,421,000 for fiscal year 1986.
 
-1984—Subsec. (b)(1)(B). Pub. L. 98–525, §1405(54), substituted “on board” for “onboard”.
+<b>1984</b>—Subsec. (b)(1)(B). Pub. L. 98–525, §1405(54), substituted “on board” for “onboard”.
 
 Pub. L. 98–525, §602(d)(3), substituted “section 403a” for “section 403”.
 
 Subsec. (b)(3). Pub. L. 98–525, §603(a), added limit of $1,421,000 for fiscal year 1985.
 
-1983—Subsec. (b)(3). Pub. L. 98–94 added limits of $1,700,000, and $1,300,000 for fiscal years 1983 and 1984, respectively.
+<b>1983</b>—Subsec. (b)(3). Pub. L. 98–94 added limits of $1,700,000, and $1,300,000 for fiscal years 1983 and 1984, respectively.
 
-1981—Subsec. (b). Pub. L. 97–60 amended subsec. (b) generally, dividing existing provisions into numbered paragraphs (1), (2), and (3), inserting in par. (1), provisions relating to the variable housing allowance that could be paid to a member of the same pay grade under section 403 of title 37 at the location where the member is deprived of quarters onboard ship for the period during which the member is deprived of quarters on board ship and, in par. (3), inserting provision setting a limit of $6,300,000 on the total amount of reimbursement for fiscal year 1982.
+<b>1981</b>—Subsec. (b). Pub. L. 97–60 amended subsec. (b) generally, dividing existing provisions into numbered paragraphs (1), (2), and (3), inserting in par. (1), provisions relating to the variable housing allowance that could be paid to a member of the same pay grade under section 403 of title 37 at the location where the member is deprived of quarters onboard ship for the period during which the member is deprived of quarters on board ship and, in par. (3), inserting provision setting a limit of $6,300,000 on the total amount of reimbursement for fiscal year 1982.
 
-1980—Subsec. (a)(3). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+<b>1980</b>—Subsec. (a)(3). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
-Subsec. (b). Pub. L. 96–357 substituted reimbursement provision when conditions make uninhabitable quarters aboard ship for member of uniformed services on sea duty limited to basic allowance for quarters of member of same grade without dependents for prior such provision for officer of naval service on sea duty so deprived of quarters and not entitled to basic allowance for quarters and limited to basic allowance for quarters of an officer of his grade, made the member able to reside with dependents ineligible for reimbursement, and limited reimbursements for fiscal year 1981 to $9,000,000.
+Subsec. (b). Pub. L. 96–357 substituted reimbursement provision when conditions make uninhabitable quarters aboard ship for member of uniformed services on sea duty limited to basic allowance for quarters of member of same grade without dependents for prior such provision for officer of naval service on sea duty so deprivedof quarters and not entitled to basic allowance for quarters and limited to basic allowance for quarters of an officer of his grade, made the member able to reside with dependents ineligible for reimbursement, and limited reimbursements for fiscal year 1981 to $9,000,000.
 
-1966—Subsec. (a)(3). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
+<b>1966</b>—Subsec. (a)(3). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
 
 #### Effective Date of 1997 Amendment
 
@@ -134,7 +134,7 @@ Pub. L. 99–500, §101(c) \[title IX, §9107\], Oct. 18, 1986, 100 Stat. 1783�
 
 #### Repeals
 
-The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117,cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
+The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
 
 #### Transfer of Functions
 

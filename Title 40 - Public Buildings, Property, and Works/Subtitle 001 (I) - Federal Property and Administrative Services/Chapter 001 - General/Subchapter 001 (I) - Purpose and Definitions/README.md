@@ -1,7 +1,5 @@
 ### SUBCHAPTER I—PURPOSE AND DEFINITIONS
 
-<i><sup>1</sup></i><i> Another chapter 1 is set out in subtitle V of this title.</i>
-
 
 ---
 

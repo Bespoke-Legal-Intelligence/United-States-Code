@@ -26,13 +26,13 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-2000—Pub. L. 106–309 inserted at end “In meeting the requirement of the preceding sentence, specific priority shall be given to the following:” and pars. (1) to (4).
+<b>2000</b>—Pub. L. 106–309 inserted at end “In meeting the requirement of the preceding sentence, specific priority shall be given to the following:” and pars. (1) to (4).
 
-1979—Pub. L. 96–53 struck out provisions relating to availability of funds for fiscal year 1978 for technical assistance.
+<b>1979</b>—Pub. L. 96–53 struck out provisions relating to availability of funds for fiscal year 1978 for technical assistance.
 
-1977—Pub. L. 95–88 substituted “technical and capital assistance in the development and use of cooperatives” for “assistance in the development of cooperatives” and “$10,000,000 of the funds made available under this chapter for the fiscal year 1978 may be used only for technical assistance” for “$20,000,000 of such funds shall be used during the fiscal years 1976 and 1977, including the period from July 1, 1976, through September 30, 1976, only for technical assistance”.
+<b>1977</b>—Pub. L. 95–88 substituted “technical and capital assistance in the development and use of cooperatives” for “assistance in the development of cooperatives” and “$10,000,000 of the funds made available under this chapter for the fiscal year 1978 may be used only for technical assistance” for “$20,000,000 of such funds shall be used during the fiscal years 1976 and 1977, including the period from July 1, 1976, through September 30, 1976, only for technical assistance”.
 
-1975—Pub. L. 94–161 earmarked not less than $20,000,000 for technical assistance during fiscal years 1976 and 1977, including period from July 1, 1976, through Sept. 30, 1976, and deleted similar provision making such minimum sum available for use during fiscal years 1974 and 1975.
+<b>1975</b>—Pub. L. 94–161 earmarked not less than $20,000,000 for technical assistance during fiscal years 1976 and 1977, including period from July 1, 1976, through Sept. 30, 1976, and deleted similar provision making such minimum sum available for use during fiscal years 1974 and 1975.
 
 #### Effective Date of 1979 Amendment
 

@@ -18,15 +18,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Par. (2). Pub. L. 110–246, §2804(a)(1), substituted “base of the” for “base, of the”.
+<b>2008</b>—Par. (2). Pub. L. 110–246, §2804(a)(1), substituted “base of the” for “base, of the”.
 
 Pars. (3), (4). Pub. L. 110–246, §2804(a)(2), added par. (3), redesignated former par. (3) as (4), and struck out “Resource appraisal is basic to effective soil and water conservation.” before “Since individual”.
 
-1994—Par. (2). Pub. L. 103–354 struck out “created the Soil Conservation Service” after “resource base,” and substituted “, has ensured that the Department of Agriculture” for “Department of Agriculture which” after “United States”.
+<b>1994</b>—Par. (2). Pub. L. 103–354 struck out “created the Soil Conservation Service” after “resource base,” and substituted “, has ensured that the Department of Agriculture” for “Department of Agriculture which” after “United States”.
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Short Title
 

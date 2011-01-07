@@ -98,7 +98,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 &emsp;&emsp;&emsp;(I) that adverse action has been taken based in whole or in part on a consumer report received from a consumer reporting agency;
 
-&emsp;&emsp;&emsp;(II) of the name, address and telephone number of the consumer reporting agency that furnished the consumer report (including a toll-free telephone number established by the agency if the agency compiles and maintains files on consumers on a nationwide basis);
+&emsp;&emsp;&emsp;(II) of the name, address and telephone number of the consumer reporting agencythat furnished the consumer report (including a toll-free telephone number established by the agency if the agency compiles and maintains files on consumers on a nationwide basis);
 
 &emsp;&emsp;&emsp;(III) that the consumer reporting agency did not make the decision to take the adverse action and is unable to provide to the consumer the specific reasons why the adverse action was taken; and
 
@@ -288,7 +288,7 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 &emsp;Section 1681a(d)(3) of this title shall not be construed so as to treat information or any communication of information as a consumer report if the information or communication is disclosed—
 
-&emsp;&emsp;(A) in connection with the business of insurance or annuities, including the activities described in section 18B of the model Privacy of Consumer Financial and HealthInformation Regulation issued by the National Association of Insurance Commissioners (as in effect on January 1, 2003);
+&emsp;&emsp;(A) in connection with the business of insurance or annuities, including the activities described in section 18B of the model Privacy of Consumer Financial and Health Information Regulation issued by the National Association of Insurance Commissioners (as in effect on January 1, 2003);
 
 &emsp;&emsp;(B) for any purpose permitted without authorization under the Standards for Individually Identifiable Health Information promulgated by the Department of Health and Human Services pursuant to the Health Insurance Portability and Accountability Act of 1996, or referred to under section 1179 of such Act,<sup>2</sup> or described in section 6802(e) of this title; or
 
@@ -302,7 +302,7 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 #### (A) Regulations required
 
-&emsp;&emsp;Each Federal banking agency and the National Credit Union Administration shall, subject to paragraph (6) and after notice and opportunity for comment, prescribe regulations that permit transactions under paragraph (2) that are determined to be necessary and appropriate to protect legitimate operational, transactional, risk, consumer, and other needs (and which shall include permitting actions necessary for administrative verification purposes), consistent with the intent of paragraph (2) to restrict the use of medical information for inappropriate purposes.
+&emsp;&emsp;Each Federal banking agency and the National Credit Union Administration shall, subject to paragraph (6) and after notice and opportunity for comment, prescribe regulations that permit transactions under paragraph (2) that are determined to be necessary and appropriate to protect legitimateoperational, transactional, risk, consumer, and other needs (and which shall include permitting actions necessary for administrative verification purposes), consistent with the intent of paragraph (2) to restrict the use of medical information for inappropriate purposes.
 
 #### (B) Final regulations required
 
@@ -312,7 +312,29 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 &emsp;No provision of this subsection shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality.
 
-(Pub. L. 90–321, title VI, §604, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 101–73, title IX, §964(c), Aug. 9, 1989, 103 Stat. 506; Pub. L. 104–193, title III, §352, Aug. 22, 1996, 110 Stat. 2240; Pub. L. 104–208, div. A, title II, §§2403, 2404(a), (b), 2405, Sept. 30, 1996, 110 Stat. 3009–430, 3009–431, 3009–433, 3009–434; Pub. L. 105–107, title III, §311(a), Nov. 20, 1997, 111 Stat. 2255; Pub. L. 105–347, §§2, 3, 6(4), Nov. 2, 1998, 112 Stat. 3208, 3210, 3211; Pub. L. 107–306, title VIII, §811(b)(8)(A), Nov. 27, 2002, 116 Stat. 2426; Pub. L. 108–159, title II, §213(c), title IV, §§411(a), 412(f), title VIII, §811(b), Dec. 4, 2003, 117 Stat. 1979, 1999, 2003, 2011; Pub. L. 108–177, title III, §361(j), Dec. 13, 2003, 117 Stat. 2625; Pub. L. 109–351, title VII, §719, Oct. 13, 2006, 120 Stat. 1998; Pub. L. 110–161, div. D, title VII, §743, Dec. 26, 2007, 121 Stat. 2033; Pub. L. 111–24, title III, §302, May 22, 2009, 123 Stat. 1748.)
+(Pub. L. 90–321, title VI, §604, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 101–73, title IX, §964(c), Aug. 9, 1989, 103 Stat. 506; Pub. L. 104–193, title III, §352, Aug. 22, 1996, 110 Stat. 2240; Pub. L. 104–208, div. A, title II, §§2403, 2404(a), (b), 2405, Sept. 30, 1996, 110 Stat. 3009–430, 3009–431, 3009–433, 3009–434; Pub. L. 105–107, title III, §311(a), Nov. 20, 1997, 111 Stat. 2255; Pub. L. 105–347, §§2, 3, 6(4), Nov. 2, 1998, 112 Stat. 3208, 3210, 3211; Pub. L. 107–306, title VIII, §811(b)(8)(A), Nov. 27, 2002, 116 Stat. 2426; Pub. L. 108–159, title II, §213(c), title IV, §§411(a), 412(f), title VIII, §811(b), Dec. 4, 2003, 117 Stat. 1979, 1999, 2003, 2011; Pub. L. 108–177, title III, §361(j), Dec. 13, 2003, 117 Stat. 2625; Pub. L. 109–351, title VII, §719, Oct. 13, 2006, 120 Stat. 1998; Pub. L. 110–161, div. D, title VII, §743, Dec. 26, 2007, 121 Stat. 2033; Pub. L. 111–24, title III, §302, May 22, 2009, 123 Stat. 1748; Pub. L. 111–203, title X, §1088(a)(2)(A), (4), July 21, 2010, 124 Stat. 2087.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1088(a)(2)(A), (4), 1100H, July 21, 2010, 124 Stat. 2087, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
+
+<i>(1) by striking “Federal Trade Commission” each place that term appears and inserting “Bureau”; and</i>
+
+<i>(2) in subsection (g)—</i>
+
+<i>(A) in paragraph (3), by striking subparagraph (C) and inserting the following:</i>
+
+&emsp;&emsp;<i>“(C) as otherwise determined to be necessary and appropriate, by regulation or order, by the Bureau or the applicable State insurance authority (with respect to any person engaged in providing insurance or annuities).”; and</i>
+
+<i>(B) by striking paragraph (5) and inserting the following:</i>
+
+#### <i>“(5) Regulations and effective date for paragraph (2)</i>
+
+#### <i>“(A) Regulations required</i>
+
+&emsp;&emsp;<i>“The Bureau may, after notice and opportunity for comment, prescribe regulations that permit transactions under paragraph (2) that are determined to be necessary and appropriate to protect legitimate operational, transactional, risk, consumer, and other needs (and which shall include permitting actions necessary for administrative verification purposes), consistent with the intent of paragraph (2) to restrict the use of medical information for inappropriate purposes.”</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -330,13 +352,13 @@ Section 1179 of such Act, referred to in subsec. (g)(3)(B), probably means secti
 
 #### Amendments
 
-2009—Subsec. (c)(1)(B)(iv). Pub. L. 111–24 added cl. (iv).
+<b>2009</b>—Subsec. (c)(1)(B)(iv). Pub. L. 111–24 added cl. (iv).
 
-2007—Subsec. (a)(3)(G). Pub. L. 110–161 added subpar. (G).
+<b>2007</b>—Subsec. (a)(3)(G). Pub. L. 110–161 added subpar. (G).
 
-2006—Subsec. (a)(6). Pub. L. 109–351 added par. (6).
+<b>2006</b>—Subsec. (a)(6). Pub. L. 109–351 added par. (6).
 
-2003—Subsec. (a). Pub. L. 108–159, §811(b), realigned margins.
+<b>2003</b>—Subsec. (a). Pub. L. 108–159, §811(b), realigned margins.
 
 Subsec. (b)(4)(D) to (F). Pub. L. 108–177 struck out subpars. (D) and (E) and redesignated subpar. (F) as (D). Prior to amendment, subpars. (D) and (E) read as follows:
 
@@ -356,11 +378,11 @@ Subsec. (g)(1). Pub. L. 108–159, §412(f)(1), inserted “(other than medical 
 
 Subsec. (g)(2). Pub. L. 108–159, §412(f)(2), inserted “(other than medical information treated in the manner required under section 1681c(a)(6) of this title)” after “a creditor shall not obtain or use medical information”.
 
-2002—Subsec. (b)(4)(D). Pub. L. 107–306, §811(b)(8)(A)(i), substituted “Except as provided in subparagraph (E), not later than” for “Not later than”.
+<b>2002</b>—Subsec. (b)(4)(D). Pub. L. 107–306, §811(b)(8)(A)(i), substituted “Except as provided in subparagraph (E), not later than” for “Not later than”.
 
 Subsec. (b)(4)(E), (F). Pub. L. 107–306, §811(b)(8)(A)(ii), (iii), added subpar. (E) and redesignated former subpar. (E) as (F).
 
-1998—Subsec. (b)(1)(B). Pub. L. 105–347, §3, inserted “, or has previously provided,” before “a summary”.
+<b>1998</b>—Subsec. (b)(1)(B). Pub. L. 105–347, §3, inserted “, or has previously provided,” before “a summary”.
 
 Subsec. (b)(2). Pub. L. 105–347, §2(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “A person may not procure a consumer report, or cause a consumer report to be procured, for employment purposes with respect to any consumer, unless—
 
@@ -376,9 +398,9 @@ Subsec. (b)(3). Pub. L. 105–347, §2(b), amended heading and text of par. (3) 
 
 Subsec. (g). Pub. L. 105–347, §6(4), struck out “or a direct marketing transaction” after “or insurance transaction”.
 
-1997—Subsec. (b)(4). Pub. L. 105–107 added par. (4).
+<b>1997</b>—Subsec. (b)(4). Pub. L. 105–107 added par. (4).
 
-1996—Pub. L. 104–208, §§2403(a), 2404(a)(1), designated existing provisions as subsec. (a) and inserted heading, substituted “Subject to subsection (c) of this section, any consumer reporting agency” for “A consumer reporting agency” in introductory provisions, added subpars. (E) and (F) of par. (3), and struck out former subpar. (E) of par. (3) which read as follows: “otherwise has a legitimate business need for the information in connection with a business transaction involving the consumer.”
+<b>1996</b>—Pub. L. 104–208, §§2403(a), 2404(a)(1), designated existing provisions as subsec. (a) and inserted heading, substituted “Subject to subsection (c) of this section, any consumer reporting agency” for “A consumer reporting agency” in introductory provisions, added subpars. (E) and (F) of par. (3), and struck out former subpar. (E) of par. (3) which read as follows: “otherwise has a legitimate business need for the information in connection with a business transaction involving the consumer.”
 
 Subsec. (b). Pub. L. 104–208, §2403(b), added subsec. (b).
 
@@ -390,7 +412,11 @@ Subsec. (g). Pub. L. 104–208, §2405, added subsec. (g).
 
 Pars. (4), (5). Pub. L. 104–193 added pars. (4) and (5).
 
-1989—Par. (1). Pub. L. 101–73 inserted “, or a subpoena issued in connection with proceedings before a Federal grand jury” before period at end.
+<b>1989</b>—Par. (1). Pub. L. 101–73 inserted “, or a subpoena issued in connection with proceedings before a Federal grand jury” before period at end.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2009 Amendment
 
@@ -432,7 +458,7 @@ Pub. L. 108–159, title IV, §412(d), Dec. 4, 2003, 117 Stat. 2002, provided th
 
 #### FTC Guidelines Regarding Prescreening for Insurance Transactions
 
-Section 2404(c) of div. A of Pub. L. 104–208 provided that: “The Federal Trade Commission may issue suchguidelines as it deems necessary with respect to the use of consumer reports in connection with insurance transactions that are not initiated by the consumer pursuant to section 604(c) of the Fair Credit Reporting Act \[15 U.S.C. 1681b(c)\], as added by subsection (a) of this section.”
+Section 2404(c) of div. A of Pub. L. 104–208 provided that: “The Federal Trade Commission may issue such guidelines as it deems necessary with respect to the useof consumer reports in connection with insurance transactions that are not initiated by the consumer pursuant to section 604(c) of the Fair Credit Reporting Act \[15 U.S.C. 1681b(c)\], as added by subsection (a) of this section.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

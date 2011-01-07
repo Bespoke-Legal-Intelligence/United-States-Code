@@ -30,7 +30,7 @@ The activities of the Program shall include—
 
 &emsp;&emsp;(D) make use of ongoing research and development at the micrometer scale to support their work in nanotechnology; and
 
-&emsp;&emsp;(E) to the greatest extent possible, be established in geographically diverse locations, encourage the participation of Historically Black Colleges and Universities that are part B institutions as defined in section 1061(2) of title 20 and minority institutions (as defined in section 1067k(3) of title 20), and include institutions located in States participating in the Experimental Program to Stimulate Competitive Research (EPSCoR);
+&emsp;&emsp;(E) to the greatest extent possible, be established in geographically diverse locations, encourage the participation of Historically Black Colleges and Universities that are part B institutions as defined in section 1061(2) of title 20 and minority institutions (as defined in section 1067k(3) of title 20), and include institutions located inStates participating in the Experimental Program to Stimulate Competitive Research (EPSCoR);
 
 &emsp;(5) ensuring United States global leadership in the development and application of nanotechnology;
 
@@ -44,7 +44,7 @@ The activities of the Program shall include—
 
 &emsp;(10) ensuring that ethical, legal, environmental, and other appropriate societal concerns, including the potential use of nanotechnology in enhancing human intelligence and in developing artificial intelligence which exceeds human capacity, are considered during the development of nanotechnology by—
 
-&emsp;&emsp;(A) establishing a research program to identify ethical, legal, environmental, andother appropriate societal concerns related to nanotechnology, and ensuring that the results of such research are widely disseminated;
+&emsp;&emsp;(A) establishing a research program to identify ethical, legal, environmental, and other appropriate societal concerns related to nanotechnology, and ensuring that the results of such research are widely disseminated;
 
 &emsp;&emsp;(B) requiring that interdisciplinary nanotechnology research centers established under paragraph (4) include activities that address societal, ethical, and environmental concerns;
 
@@ -86,7 +86,7 @@ The National Science and Technology Council shall oversee the planning, manageme
 
 #### (d) Annual report
 
-The Council shall prepare an annual report, to be submitted to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science, and other appropriate committees, at the time of the President's budget request to Congress, that includes—
+The Council shall prepare an annual report, to be submitted to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science,and other appropriate committees, at the time of the President's budget request to Congress, that includes—
 
 &emsp;(1) the Program budget, for the current fiscal year, for each agency that participates in the Program, including a breakout of spending for the development and acquisition of research facilities and instrumentation, for each program component area, and for all activities pursuant to subsection (b)(10);
 

@@ -8,3 +8,5 @@ This chapter <sup>1</sup> is applicable to the United States and its territorie
 
 This chapter, referred to in text, was in the original “this Act” and was translated as reading “this title”, meaning title XIV of Pub. L. 110–140, known as the Virginia Graeme Baker Pool and Spa Safety Act, to reflect the probable intent of Congress.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

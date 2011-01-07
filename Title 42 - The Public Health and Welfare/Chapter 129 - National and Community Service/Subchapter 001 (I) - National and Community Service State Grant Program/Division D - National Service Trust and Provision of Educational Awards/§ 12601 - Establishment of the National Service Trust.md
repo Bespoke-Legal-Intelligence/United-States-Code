@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Treasury of the United States an account to be known as the National Service Trust. The Trust shall consist of—
+There is established in the Treasury of the United States an account to be known as theNational Service Trust. The Trust shall consist of—
 
 &emsp;(1) from the amounts appropriated to the Corporation and made available to carry out this division, such amounts as the Corporation may designate to be available for the payment of—
 
@@ -54,7 +54,7 @@ A prior section 145 of Pub. L. 101–610 was classified to section 12575 of this
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–13, §1401(b)(1)(A)(i), struck out “pursuant to section 12681(a)(2) of this title” after “carry out this division” in introductory provisions.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–13, §1401(b)(1)(A)(i), struck out “pursuant to section 12681(a)(2) of this title” after “carry out this division” in introductory provisions.
 
 Subsec. (a)(1)(A). Pub. L. 111–13, §1401(b)(1)(A)(ii), inserted “, summer of service educational awards, and silver scholar educational awards” after “national service educational awards”.
 

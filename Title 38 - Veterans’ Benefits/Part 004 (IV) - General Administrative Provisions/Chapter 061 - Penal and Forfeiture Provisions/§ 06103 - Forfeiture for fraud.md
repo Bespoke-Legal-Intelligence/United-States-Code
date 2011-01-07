@@ -1,6 +1,6 @@
 ### §6103. Forfeiture for fraud
 
-(a) Whoever knowingly makes or causes to be made or conspires, combines, aids, or assists in, agrees to, arranges for, or in any way procures the making or presentation of a false or fraudulent affidavit, declaration, certificate, statement, voucher, or paper, concerning any claim for benefits under any of the laws administered by the Secretary (except laws pertaining to insurance benefits) shall forfeit all rights, claims, and benefits under all laws administered by theSecretary (except laws pertaining to insurance benefits).
+(a) Whoever knowingly makes or causes to be made or conspires, combines, aids, or assists in, agrees to, arranges for, or in any way procures the making or presentation of a false or fraudulent affidavit, declaration, certificate, statement, voucher, or paper, concerning any claim for benefits under any of the laws administered by the Secretary (except laws pertaining to insurance benefits) shall forfeit all rights, claims, and benefits under all laws administered by the Secretary (except laws pertaining to insurance benefits).
 
 (b) Whenever a veteran entitled to disability compensation has forfeited the right to such compensation under this section, the compensation payable but for the forfeiture shall thereafter be paid to the veteran's spouse, children, and parents. Payments made to a spouse, children, and parents under the preceding sentence shall not exceed the amounts payable to each if the veteran had died from service-connected disability. No spouse, child, or parent who participated in the fraud for which forfeiture was imposed shall receive any payment by reason of this subsection. An apportionment award under this subsection may not be made in any case after September 1, 1959.
 
@@ -14,11 +14,11 @@
 
 #### Amendments
 
-1994—Subsec. (d)(1). Pub. L. 103–446, §1201(e)(18), in second sentence substituted “(A) any” for “(a) any”, “(B) an act” for “(b) an act”, and “before July 4, 1946” for “prior to July 4, 1946”.
+<b>1994</b>—Subsec. (d)(1). Pub. L. 103–446, §1201(e)(18), in second sentence substituted “(A) any” for “(a) any”, “(B) an act” for “(b) an act”, and “before July 4, 1946” for “prior to July 4, 1946”.
 
 Subsec. (d)(2). Pub. L. 103–446, §1201(f)(5), substituted “June 30, 1972” for “the date of enactment of this amendatory Act”.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 3503 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 3503 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in two places.
 
@@ -34,17 +34,17 @@ Pub. L. 102–40, §402(d)(1), substituted “5110(g)” for “3010(g)”.
 
 Subsec. (e). Pub. L. 102–54, §14(d)(8)(B), amended section as in effect immediately before the enactment of Pub. L. 102–40 by striking out subsec. (e) which read as follows: “No apportionment award under subsection (b) of this section shall be made in any case after the date of enactment of this subsection.”
 
-1986—Subsec. (c). Pub. L. 99–576, §701(83)(A), substituted “the veteran's” for “his”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–576, §701(83)(A), substituted “the veteran's” for “his”.
 
 Subsec. (d)(2). Pub. L. 99–576, §701(83)(B), substituted “the Administrator” for “he” in two places in second sentence.
 
-1983—Subsec. (b). Pub. L. 98–160 substituted “the right” for “his right”, “the veteran's spouse” for “his wife”, and “spouse” for “wife” in two places.
+<b>1983</b>—Subsec. (b). Pub. L. 98–160 substituted “the right” for “his right”, “the veteran's spouse” for “his wife”, and “spouse” for “wife” in two places.
 
-1972—Subsec. (d). Pub. L. 92–328 designated existing provisions as par. (1) and added par. (2).
+<b>1972</b>—Subsec. (d). Pub. L. 92–328 designated existing provisions as par. (1) and added par. (2).
 
-1969—Subsec. (d). Pub. L. 91–24 substituted “September 1, 1959” for “the date of enactment of this subsection” wherever appearing.
+<b>1969</b>—Subsec. (d). Pub. L. 91–24 substituted “September 1, 1959” for “the date of enactment of this subsection” wherever appearing.
 
-1959—Subsecs. (d) and (e). Pub. L. 86–222 added subsecs. (d) and (e).
+<b>1959</b>—Subsecs. (d) and (e). Pub. L. 86–222 added subsecs. (d) and (e).
 
 #### Effective Date of 1972 Amendment
 

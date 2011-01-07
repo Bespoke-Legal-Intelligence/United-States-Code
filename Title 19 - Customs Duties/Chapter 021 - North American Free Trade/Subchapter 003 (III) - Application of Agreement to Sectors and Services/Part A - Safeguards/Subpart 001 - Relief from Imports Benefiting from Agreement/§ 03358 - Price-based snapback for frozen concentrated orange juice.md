@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### Amendments
 
-1996—Subsec. (c)(1), (2). Pub. L. 104–295 substituted “column 1 general” for “column 1–General”.
+<b>1996</b>—Subsec. (c)(1), (2). Pub. L. 104–295 substituted “column 1 general” for “column 1–General”.
 
 #### Transfer of Functions
 

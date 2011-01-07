@@ -138,15 +138,15 @@ For the purposes of this chapter—
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 301 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 301 of this title as this section.
 
 Pars. (3), (4). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1988—Par. (3). Pub. L. 100–322 inserted “Lupus erythematosus, systemic” after “Leukemia”.
+<b>1988</b>—Par. (3). Pub. L. 100–322 inserted “Lupus erythematosus, systemic” after “Leukemia”.
 
-1983—Par. (3). Pub. L. 98–160 substituted a period for the semicolon at end of paragraph following “may add to this list”.
+<b>1983</b>—Par. (3). Pub. L. 98–160 substituted a period for the semicolon at end of paragraph following “may add to this list”.
 
-1976—Par. (2)(A), (B). Pub. L. 94–433, §404(1), substituted “such veteran” for “him” in subpars. (A) and (B).
+<b>1976</b>—Par. (2)(A), (B). Pub. L. 94–433, §404(1), substituted “such veteran” for “him” in subpars. (A) and (B).
 
 Par. (3). Pub. L. 94–433, §401(2), substituted “Hansen's disease” for “Leprosy”.
 
@@ -320,7 +320,7 @@ Pub. L. 103–446, title V, §506, Nov. 2, 1994, 108 Stat. 4664, provided that: 
 
 #### Cost-of-Living Increases in Compensation Rates
 
-Pub. L. 103–446, title I, §111(b), Nov. 2, 1994, 108 Stat. 4654, provided that: “The fiscal year 1995 cost-of-living adjustments in the rates of and limitations for compensation payable under chapter 11 of title 38, United States Code, and of dependency and indemnity compensation payable under chapter 13 of such title will be no more than a percentage equal to the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 1994, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)), with all increased monthly rates and limitations (other thanincreased rates or limitations equal to a whole dollar amount) rounded down to the next lower dollar.”
+Pub. L. 103–446, title I, §111(b), Nov. 2, 1994, 108 Stat. 4654, provided that: “The fiscal year 1995 cost-of-living adjustments in the rates of and limitations for compensation payable under chapter 11 of title 38, United States Code, and of dependency and indemnity compensation payable under chapter 13 of such title will be no more than a percentage equal to the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 1994, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)), with all increased monthly rates and limitations (other than increased rates or limitations equal to a whole dollar amount) rounded down to the next lower dollar.”
 
 Pub. L. 103–66, title XII, §12008, Aug. 10, 1993, 107 Stat. 415, provided that:
 

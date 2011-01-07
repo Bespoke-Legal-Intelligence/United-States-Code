@@ -16,7 +16,7 @@ The Commission shall complete its affairs in connection with the settlement of c
 
 #### Amendments
 
-1974—Subsec. (c). Pub. L. 93–460 added subsec. (c).
+<b>1974</b>—Subsec. (c). Pub. L. 93–460 added subsec. (c).
 
-1968—Pub. L. 90–421 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1968</b>—Pub. L. 90–421 designated existing provisions as subsec. (a) and added subsec. (b).
 

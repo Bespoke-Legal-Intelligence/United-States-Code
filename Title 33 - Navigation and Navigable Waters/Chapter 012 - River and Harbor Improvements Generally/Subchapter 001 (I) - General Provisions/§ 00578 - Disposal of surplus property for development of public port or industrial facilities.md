@@ -2,7 +2,7 @@
 
 #### (a) Conveyance by Secretary of the Army
 
-Whenever the Secretary of the Army, upon the recommendation of the Chief of Engineers, determines that notwithstanding the provisions of the Federal Property and Administrative Services Act of 1949, as amended,<sup>1</sup> with respect to disposal of surplus real property, (1) the development of public port or industrial facilities on land which is part of a water resource development project under his jurisdiction will be in the public interest; (2) that such development will not interfere with the operation and maintenance of the project; and (3) that disposition of the property for these purposes under this section will serve the objectives of the project within which the land is located, he may convey the land by quitclaim deed to a State, political subdivision thereof, port district, port authority, or other body created by the State or through a compact between two or more States for the purpose of developing or encouraging the development of such facilities. In any case, where two or more political subdivisions thereof, or bodies created by, a State or group of States, seek to obtain the same land, the Secretary of the Army shall give preference to that political subdivision or body whose intended use of land will, in his opinion, best promote the purposes for which the project involved was authorized.
+Whenever the Secretary of the Army, upon the recommendation of the Chief of Engineers, determines that notwithstanding the provisions of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, with respect to disposal of surplus real property, (1) the development of public port or industrial facilities on land which is part of a water resource development project under his jurisdiction will be in the public interest; (2) that such development will not interfere with the operation and maintenance of the project; and (3) that disposition of the property for these purposes under this section will serve the objectives of the project within which the land is located, he may convey the land by quitclaim deed to a State, political subdivision thereof, port district, port authority, or other body created by the State or through a compact between two or more States for the purpose of developing or encouraging the development of such facilities. In any case, where two or more political subdivisions thereof, or bodies created by, a State or group of States, seek to obtain the same land, the Secretary of the Army shall give preference to that political subdivision or body whose intended use of land will, in his opinion, best promote the purposes for which the project involved was authorized.
 
 #### (b) Purchase price; conditions, reservations or restrictions
 
@@ -10,7 +10,7 @@ Any conveyance authorized by this section shall be made at the fair market value
 
 #### (c) Notice of proposed conveyance
 
-Prior to the conveyance of any land under the provisions of this section, the Secretary of the Army shall, in the manner he deems reasonable, give public notice of the proposed conveyanceand afford an opportunity to interested eligible bodies in the general vicinity of the land to apply for its purchase.
+Prior to the conveyance of any land under the provisions of this section, the Secretary of the Army shall, in the manner he deems reasonable, give public notice of the proposed conveyance and afford an opportunity to interested eligible bodies in the general vicinity of the land to apply for its purchase.
 
 #### (d) Delegation of authority
 
@@ -22,9 +22,7 @@ The proceeds from any conveyance made under the provisions of this section shall
 
 (Pub. L. 86–645, title I, §108, July 14, 1960, 74 Stat. 486.)
 
-#### References in Text
+#### Codification
 
-The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+In subsec. (a), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (63 Stat. 377), as amended” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

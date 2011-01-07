@@ -62,17 +62,17 @@ For purposes of this section and section 6655(h) (relating to excessive adjustme
 
 If the corporation seeking an adjustment under this section paid its estimated income tax on a consolidated basis or expects to make a consolidated return for the taxable year, this section shall apply only to such extent and subject to such conditions, limitations, and exceptions as the Secretary may by regulations prescribe.
 
-(Added Pub. L. 90–364, title I, §103(d)(1), June 28, 1968, 82 Stat. 262; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–499, title V, §516(b)(4)(C), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 99–514, title VII, §701(d)(2), Oct. 22, 1986, 100 Stat. 2342; Pub. L. 100–203, title X, §10301(b)(4), Dec. 22, 1987, 101 Stat. 1330–429.)
+(Added Pub. L. 90–364, title I, §103(d)(1), June 28, 1968, 82 Stat. 262; amended Pub. L. 94–455, titleXIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–499, title V, §516(b)(4)(C), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 99–514, title VII, §701(d)(2), Oct. 22, 1986, 100 Stat. 2342; Pub. L. 100–203, title X, §10301(b)(4), Dec. 22, 1987, 101 Stat. 1330–429.)
 
 #### Amendments
 
-1987—Subsec. (c). Pub. L. 100–203 substituted “section 6655(h)” for “section 6655(g)”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–203 substituted “section 6655(h)” for “section 6655(g)”.
 
-1986—Subsec. (c)(1)(A). Pub. L. 99–514 amended subpar. (A) generally, restating existing provisions as cl. (i) and adding cl. (ii).
+<b>1986</b>—Subsec. (c)(1)(A). Pub. L. 99–514 amended subpar. (A) generally, restating existing provisions as cl. (i) and adding cl. (ii).
 
 Pub. L. 99–499 amended subsec. (c)(1)(A), as amended by the Tax Reform Act of 1986 (Pub. L. 99–514), by striking out “plus” at end of cl. (i), substituting “plus” for “over” at end of cl. (ii), and adding cl. (iii).
 
-1976—Subsecs. (a), (b), (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a), (b), (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 1987 Amendment
 

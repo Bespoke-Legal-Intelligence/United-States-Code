@@ -272,3 +272,7 @@ Regulations, orders, or directives to implement this chapter to be issued, amend
 
 For delegation of functions under this chapter, see section 5 of Ex. Ord. No. 13128, June 25, 1999, 64 F.R. 34703, set out as a note under section 6711 of this title.
 
+<i><sup>1</sup></i><i> So in original. Probably should not be preceded by an open parenthesis.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+

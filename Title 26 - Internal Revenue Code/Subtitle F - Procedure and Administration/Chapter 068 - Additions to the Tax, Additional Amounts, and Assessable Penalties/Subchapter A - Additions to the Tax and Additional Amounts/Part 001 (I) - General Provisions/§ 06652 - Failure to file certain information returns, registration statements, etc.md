@@ -22,7 +22,7 @@ In the case of failure by an employee to report to his employer on the date and 
 
 &emsp;&emsp;In the case of—
 
-&emsp;&emsp;&emsp;(i) a failure to file a return required under section 6033(a)(1) (relating to returns by exempt organizations) or section 6012(a)(6) (relating to returns by politicalorganizations) on the date and in the manner prescribed therefor (determined with regard to any extension of time for filing), or
+&emsp;&emsp;&emsp;(i) a failure to file a return required under section 6033(a)(1) (relating to returns by exempt organizations) or section 6012(a)(6) (relating to returns by political organizations) on the date and in the manner prescribed therefor (determined with regard to any extension of time for filing), or
 
 &emsp;&emsp;&emsp;(ii) a failure to include any of the information required to be shown on a return filed under section 6033(a)(1) or section 6012(a)(6) or to show the correct information,
 
@@ -58,7 +58,7 @@ In the case of failure by an employee to report to his employer on the date and 
 
 #### (B) Managers
 
-&emsp;&emsp;The Secretary may make written demand on an organization or trust failing to file under subparagraph (A) specifying therein a reasonable future date by which such filing shall be made for purposes of this subparagraph. If such filing is not made on or before such date, there shall be paid by the person failing so to file $10 for each day after the expiration of the time specified in the written demand during which such failure continues, but the total amount imposed under this subparagraph on all persons for failure to file any 1 return shall not exceed $5,000.
+&emsp;&emsp;The Secretary may make written demand on an organization or trust failing to file under subparagraph (A) specifying therein a reasonable future date by which such filing shall be made for purposes of this subparagraph. If such filing is not made on or before such date, there shall be paid by the person failing so to file $10 for each day after theexpiration of the time specified in the written demand during which such failure continues, but the total amount imposed under this subparagraph on all persons for failure to file any 1 return shall not exceed $5,000.
 
 #### (C) Split-interest trusts
 
@@ -76,7 +76,7 @@ In the case of failure by an employee to report to his employer on the date and 
 
 #### (A) Penalty on entities
 
-&emsp;&emsp;In the case of a failure to file a disclosure required under section 6033(a)(2), there shall be paid by the tax-exempt entity (the entity manager in the case of a tax-exempt entitydescribed in paragraph (4), (5), (6), or (7) of section 4965(c)) $100 for each day during which such failure continues. The maximum penalty under this subparagraph on failures with respect to any 1 disclosure shall not exceed $50,000.
+&emsp;&emsp;In the case of a failure to file a disclosure required under section 6033(a)(2), there shall be paid by the tax-exempt entity (the entity manager in the case of a tax-exempt entity described in paragraph (4), (5), (6), or (7) of section 4965(c)) $100 for each day during which such failure continues. The maximum penalty under this subparagraph on failures with respect to any 1 disclosure shall not exceed $50,000.
 
 #### (B) Written demand
 
@@ -122,7 +122,7 @@ In the case of failure by an employee to report to his employer on the date and 
 
 #### (e) Information required in connection with certain plans of deferred compensation, etc.
 
-In the case of failure to file a return or statement required under section 6058 (relating to information required in connection with certain plans of deferred compensation), 6047 (relating to information relating to certain trusts and annuity and bond purchase plans), or 6039D (relating to returns and records with respect to certain fringe benefit plans) on the date and in the manner prescribed therefor (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause, there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing so to file, $25 for each day during which such failure continues, but the total amount imposed under this subsection on any person for failure to file any return shall not exceed $15,000. This subsection shall not apply to any return or statement which is an information return described in section 6724(d)(1)(C)(ii) or a payee statement described in section 6724(d)(2)(Y).
+In the case of failure to file a return or statement required under section 6058 (relating to information required in connection with certain plans of deferred compensation), 6047 (relating to information relating to certain trusts and annuity and bond purchase plans), or 6039D (relating to returns and records with respect to certain fringe benefit plans) on the date and in the manner prescribed therefor (determined with regard to any extension of time for filing), unlessit is shown that such failure is due to reasonable cause, there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing so to file, $25 for each day during which such failure continues, but the total amount imposed under this subsection on any person for failure to file any return shall not exceed $15,000. This subsection shall not apply to any return or statement which is an information return described in section 6724(d)(1)(C)(ii) or a payee statement described in section 6724(d)(2)(Y).
 
 #### (f) Returns required under section 6039C
 
@@ -136,7 +136,7 @@ In the case of failure to file a return or statement required under section 6058
 
 #### (3) Limitation
 
-&emsp;The amount determined under paragraph (2) with respect to any person for failing to meetthe requirements of section 6039C for any calendar year shall not exceed the lesser of—
+&emsp;The amount determined under paragraph (2) with respect to any person for failing to meet the requirements of section 6039C for any calendar year shall not exceed the lesser of—
 
 &emsp;&emsp;(A) $25,000, or
 
@@ -166,13 +166,13 @@ In the case of a failure to make a report required under section 1202(d)(1)(C) w
 
 #### (<i>l</i>) Failure to file return with respect to certain corporate transactions
 
-In the case of any failure to make a return required under section 6043(c) containing the information required by such section on the date prescribed therefor (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause, there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing to file such return, an amount equal to $500 for each day during which such failure continues, but the total amount imposed under this subsection with respect to any return shall not exceed $100,000.
+In the case of any failure to make a return required under section 6043(c) containing the information required by such section on the date prescribed therefor (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause, there shall be paid (on notice and demand by the Secretary and in the same manner as tax)by the person failing to file such return, an amount equal to $500 for each day during which such failure continues, but the total amount imposed under this subsection with respect to any return shall not exceed $100,000.
 
 #### (m) Alcohol and tobacco taxes
 
 &emsp;&emsp;<b>For penalties for failure to file certain information returns with respect to alcohol and tobacco taxes, see, generally, subtitle E.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 821; Pub. L. 85–866, title I, §85, Sept. 2, 1958, 72 Stat. 1664; Pub. L. 87–834, §19(d), Oct. 16, 1962, 76 Stat. 1057; Pub. L. 88–272, title II, §221(b)(2), Feb. 26, 1964, 78 Stat. 74; Pub. L. 89–97, title III, §313(e)(2)(B), (3), July 30, 1965, 79 Stat. 385; Pub. L. 89–212, §2(e), Sept. 29, 1965, 79 Stat. 859; Pub. L. 91–172, title I, §101(d)(4), Dec. 30, 1969, 83 Stat. 522; Pub. L. 93–406, title II, §1031(b)(1)(A), (B)(i), Sept. 2, 1974, 88 Stat. 945, 946; Pub. L. 94–455, title XII, §1207(e)(3)(B), (C), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1708, 1834; Pub. L. 96–167, §7(b)(1), Dec. 29, 1979, 93 Stat. 1277; Pub. L. 96–223, title I, §101(d)(2)(A), Apr. 2, 1980, 94 Stat. 251; Pub. L. 96–499, title XI, §1123(b), Dec. 5, 1980, 94 Stat. 2689; Pub. L. 96–603, §1(d)(2), Dec. 28, 1980, 94 Stat. 3504; Pub. L. 97–34, title III, §311(f), title VII, §723(a)(1), (3), (4), Aug. 13, 1981, 95 Stat. 281, 343, 344; Pub. L. 97–248, title III, §§309(b)(2), 315(a), (b), Sept. 3, 1982, 96 Stat. 595, 605, 606; Pub. L. 97–448, title II, §201(i)(2), Jan. 12, 1983, 96 Stat. 2395; Pub. L. 98–67, title I, §105(b)(1), Aug. 5, 1983, 97 Stat. 380; Pub. L. 98–369, div. A, title I, §§145(b)(1), (2), 146(b)(1), (2), 148(b)(1), (2), 149(b)(1), 155(b)(2)(A), title IV, §491(d)(50), title V, §531(b)(4)(B), title VII, §714(j)(3), July 18, 1984, 98Stat. 685, 686, 688, 689, 693, 852, 882, 963; Pub. L. 98–397, title II, §207(b), Aug. 23, 1984, 98 Stat. 1450; Pub. L. 98–611, §1(d)(2), Oct. 31, 1984, 98 Stat. 3177; Pub. L. 98–612, §1(b)(2), Oct. 31, 1984, 98 Stat. 3181; Pub. L. 99–514, title XI, §1151(b), title XIII, §1301(g), title XV, §1501(d)(1)(A), title XVII, §1702(b), title XVIII, §§1810(f)(9), 1811(c)(2), Oct. 22, 1986, 100 Stat. 2502, 2656, 2740, 2774, 2828, 2833; Pub. L. 100–203, title X, §§10502(d)(11), 10704(a), Dec. 22, 1987, 101 Stat. 1330–444, 1330–461; Pub. L. 100–647, title I, §§1011B(a)(10), 1017(b), 1018(u)(36), title III, §3021(a)(10), Nov. 10, 1988, 102 Stat. 3484, 3575, 3592, 3630; Pub. L. 101–140, title II, §203(a)(1), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7208(b)(2), 7841(d)(5), Dec. 19, 1989, 103 Stat. 2338, 2428; Pub. L. 102–318, title V, §522(b)(2)(F), July 3, 1992, 106 Stat. 314; Pub. L. 103–66, title XIII, §13113(c), Aug. 10, 1993, 107 Stat. 429; Pub. L. 104–168, title XIII, §§1314(a), (b), July 30, 1996, 110 Stat. 1480; Pub. L. 104–188, title I, §§1455(c), (d)(2), 1704(s), Aug. 20, 1996, 110 Stat. 1818, 1887; Pub. L. 105–34, title XII, §1281(a), (b), title XVI, §1602(d)(2)(B), Aug. 5, 1997, 111 Stat. 1037, 1094; Pub. L. 105–277, div. J, title I, §1004(b)(2)(B), (C), Oct. 21, 1998, 112 Stat. 2681–890; Pub. L. 106–230, §§1(c), 2(c), 3(c), July 1, 2000, 114 Stat. 479, 482, 483; Pub. L. 109–222, title V, §516(c), May 17, 2006, 120 Stat. 371; Pub. L. 109–280, title XII, §§1201(b)(2), 1223(d), Aug. 17, 2006, 120 Stat. 1065, 1091.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 821; Pub. L. 85–866, title I, §85, Sept. 2, 1958, 72 Stat. 1664; Pub. L. 87–834, §19(d), Oct. 16, 1962, 76 Stat. 1057; Pub. L. 88–272, title II, §221(b)(2), Feb. 26, 1964, 78 Stat. 74; Pub. L. 89–97, title III, §313(e)(2)(B), (3), July 30, 1965, 79 Stat. 385; Pub. L. 89–212, §2(e), Sept. 29, 1965, 79 Stat. 859; Pub. L. 91–172, title I, §101(d)(4), Dec. 30, 1969, 83 Stat. 522; Pub. L. 93–406, title II, §1031(b)(1)(A), (B)(i), Sept. 2, 1974, 88 Stat. 945, 946; Pub. L. 94–455, title XII, §1207(e)(3)(B), (C), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1708, 1834; Pub. L. 96–167, §7(b)(1), Dec. 29, 1979, 93 Stat. 1277; Pub. L. 96–223, title I, §101(d)(2)(A), Apr. 2, 1980, 94 Stat. 251; Pub. L. 96–499, title XI, §1123(b), Dec. 5, 1980, 94 Stat. 2689; Pub. L. 96–603, §1(d)(2), Dec. 28, 1980, 94 Stat. 3504; Pub. L. 97–34, title III, §311(f), title VII, §723(a)(1), (3), (4), Aug. 13, 1981, 95 Stat. 281, 343, 344; Pub. L. 97–248, title III, §§309(b)(2), 315(a), (b), Sept. 3, 1982, 96 Stat. 595, 605, 606; Pub. L. 97–448, title II, §201(i)(2), Jan. 12, 1983, 96 Stat. 2395; Pub. L. 98–67, title I, §105(b)(1), Aug. 5, 1983, 97 Stat. 380; Pub. L. 98–369, div. A, title I, §§145(b)(1), (2), 146(b)(1), (2), 148(b)(1), (2), 149(b)(1), 155(b)(2)(A), title IV, §491(d)(50), title V, §531(b)(4)(B), title VII, §714(j)(3), July 18, 1984, 98 Stat. 685, 686, 688, 689, 693, 852, 882, 963; Pub. L. 98–397, title II, §207(b), Aug. 23, 1984, 98 Stat. 1450; Pub. L. 98–611, §1(d)(2), Oct. 31, 1984, 98 Stat. 3177; Pub. L. 98–612, §1(b)(2), Oct. 31, 1984, 98 Stat. 3181; Pub. L. 99–514, title XI, §1151(b), title XIII, §1301(g), title XV, §1501(d)(1)(A), title XVII, §1702(b), title XVIII, §§1810(f)(9), 1811(c)(2), Oct. 22, 1986, 100 Stat. 2502, 2656, 2740, 2774, 2828, 2833; Pub. L. 100–203, title X, §§10502(d)(11), 10704(a), Dec. 22, 1987, 101 Stat. 1330–444, 1330–461; Pub. L. 100–647, title I, §§1011B(a)(10), 1017(b), 1018(u)(36), title III, §3021(a)(10), Nov. 10, 1988, 102 Stat. 3484, 3575, 3592, 3630; Pub. L. 101–140, title II, §203(a)(1), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7208(b)(2), 7841(d)(5), Dec. 19, 1989, 103 Stat. 2338, 2428; Pub. L. 102–318, title V, §522(b)(2)(F), July 3, 1992, 106 Stat. 314; Pub. L. 103–66, title XIII, §13113(c), Aug. 10, 1993, 107 Stat. 429; Pub. L. 104–168, title XIII, §§1314(a), (b), July 30, 1996, 110 Stat. 1480; Pub. L. 104–188, title I, §§1455(c), (d)(2), 1704(s), Aug. 20, 1996, 110 Stat. 1818, 1887; Pub. L. 105–34, title XII, §1281(a), (b), title XVI, §1602(d)(2)(B), Aug. 5, 1997, 111 Stat. 1037, 1094; Pub. L. 105–277, div. J, title I, §1004(b)(2)(B), (C), Oct. 21, 1998, 112 Stat. 2681–890; Pub. L. 106–230, §§1(c), 2(c), 3(c), July 1, 2000, 114 Stat. 479, 482, 483; Pub. L. 109–222, title V, §516(c), May 17, 2006, 120 Stat. 371; Pub. L. 109–280, title XII, §§1201(b)(2), 1223(d), Aug. 17, 2006, 120 Stat. 1065, 1091.)
 
 #### Codification
 
@@ -182,7 +182,7 @@ Pub. L. 101–140, §203(a)(1), amended this section to read as if the amendment
 
 #### Amendments
 
-2006—Subsec. (c)(1). Pub. L. 109–222, §516(c)(2), substituted “6033(a)(1)” for “6033” wherever appearing in heading and text.
+<b>2006</b>—Subsec. (c)(1). Pub. L. 109–222, §516(c)(2), substituted “6033(a)(1)” for “6033” wherever appearing in heading and text.
 
 Subsec. (c)(1)(E). Pub. L. 109–280, §1223(d), added subpar. (E). See Codification note above.
 
@@ -190,7 +190,7 @@ Subsec. (c)(2)(C). Pub. L. 109–280, §1201(b)(2), added subpar. (C). See Codif
 
 Subsec. (c)(3) to (5). Pub. L. 109–222, §516(c)(1), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
-2000—Subsec. (c)(1). Pub. L. 106–230, §3(c)(4), inserted “or 6012(a)(6)” after “section 6033” in heading.
+<b>2000</b>—Subsec. (c)(1). Pub. L. 106–230, §3(c)(4), inserted “or 6012(a)(6)” after “section 6033” in heading.
 
 Subsec. (c)(1)(A). Pub. L. 106–230, §3(c)(3), inserted “or section 6012(a)(6)” after “section 6033” in last sentence.
 
@@ -202,17 +202,17 @@ Subsec. (c)(1)(C). Pub. L. 106–230, §2(c), in heading inserted “and reports
 
 Subsec. (c)(1)(D). Pub. L. 106–230, §1(c), in heading inserted “and notice of status” after “exemption” and in text inserted “or notice materials (as defined in such section)” after “section)”.
 
-1998—Subsec. (c)(1)(C). Pub. L. 105–277, §1004(b)(2)(B), substituted “section 6104(d) with respect to any annual return” for “subsection (d) or (e)(1) of section 6104 (relating to public inspection of annual returns)”.
+<b>1998</b>—Subsec. (c)(1)(C). Pub. L. 105–277, §1004(b)(2)(B), substituted “section 6104(d) with respect to any annual return” for “subsection (d) or (e)(1) of section 6104 (relating to public inspection of annual returns)”.
 
 Subsec. (c)(1)(D). Pub. L. 105–277, §1004(b)(2)(C), substituted “section 6104(d) with respect to any exempt status application materials (as defined in such section)” for “section 6104(e)(2) (relating to public inspection of applications for exemption)”.
 
-1997—Subsec. (e). Pub. L. 105–34, §1602(d)(2)(B), substituted “section 6724(d)(2)(Y)” for “section 6724(d)(2)(X)”.
+<b>1997</b>—Subsec. (e). Pub. L. 105–34, §1602(d)(2)(B), substituted “section 6724(d)(2)(Y)” for “section 6724(d)(2)(X)”.
 
 Subsec. (g). Pub. L. 105–34, §1281(a), inserted at end “No penalty shall be imposed under this subsection on any failure which is shown to be due to reasonable cause and not willful neglect.”
 
 Subsec. (k). Pub. L. 105–34, §1281(b), inserted at end “No penalty shall be imposed under this subsection on any failure which is shown to be due to reasonable cause and not willful neglect.”
 
-1996—Subsec. (c)(1)(A). Pub. L. 104–168 in concluding provisions, substituted “$20” for “$10” and “$10,000” for “$5,000” and inserted at end “In the case of an organization having gross receipts exceeding $1,000,000 for any year, with respect to the return required under section 6033 for such year, the first sentence of this subparagraph shall be applied by substituting ‘$100’ for ‘$20’ and, in lieu of applying the second sentence of this subparagraph, the maximum penalty under this subparagraph shall not exceed $50,000.”
+<b>1996</b>—Subsec. (c)(1)(A). Pub. L. 104–168 in concluding provisions, substituted “$20” for “$10” and “$10,000” for “$5,000” and inserted at end “In the case of an organization having gross receipts exceeding $1,000,000 for any year, with respect to the return required under section 6033 for such year, the first sentence of this subparagraph shall be applied by substituting ‘$100’ for ‘$20’ and, in lieu of applying the second sentence of this subparagraph, the maximum penalty under this subparagraph shall not exceed $50,000.”
 
 Subsec. (c)(1)(C). Pub. L. 104–188, §1704(s)(1), substituted “$20” for “$10” and “$10,000” for “$5,000”.
 
@@ -222,11 +222,11 @@ Subsec. (e). Pub. L. 104–188, §1455(d)(2), inserted at end “This subsection
 
 Subsec. (i). Pub. L. 104–188, §1455(c), substituted “$100” and “$50,000” for “the $10” and “$5,000”, respectively.
 
-1993—Subsec. (k). Pub. L. 103–66, which directed amendment of section by adding subsec. (k) before the last subsection, was executed by adding subsec. (k) after subsec. (j) to reflect the probable intent of Congress.
+<b>1993</b>—Subsec. (k). Pub. L. 103–66, which directed amendment of section by adding subsec. (k) before the last subsection, was executed by adding subsec. (k) after subsec. (j) to reflect the probable intent of Congress.
 
-1992—Subsec. (h). Pub. L. 102–318 substituted “3405(e)(10)(B)” for “3405(d)(10)(B)”.
+<b>1992</b>—Subsec. (h). Pub. L. 102–318 substituted “3405(e)(10)(B)” for “3405(d)(10)(B)”.
 
-1989—Subsec. (k). Pub. L. 101–239, §7841(d)(5)(B), redesignated the subsec. (k), relating to alcohol and tobacco taxes, as (<i>l</i>).
+<b>1989</b>—Subsec. (k). Pub. L. 101–239, §7841(d)(5)(B), redesignated the subsec. (k), relating to alcohol and tobacco taxes, as (<i>l</i>).
 
 Pub. L. 101–239, §7841(d)(5)(A), redesignated the subsection relating to information with respect to includible employee benefits as (k), see Codification note above.
 
@@ -238,7 +238,7 @@ Pub. L. 101–239, §7841(d)(5)(B), redesignated subsec. (k), relating to alcoho
 
 Subsec. (m). Pub. L. 101–239, §7208(b)(2), redesignated subsec. (<i>l</i>) as (m).
 
-1988—Subsec. (j). Pub. L. 100–647, §1017(b), amended subsec. (j) as it existed prior to its repeal by Pub. L. 100–203, §10502(d)(11), by inserting “(and the corresponding provision of section 4041(d)(1))” after “section 4041(a)(1)”, see 1987 Amendment note below.
+<b>1988</b>—Subsec. (j). Pub. L. 100–647, §1017(b), amended subsec. (j) as it existed prior to its repeal by Pub. L. 100–203, §10502(d)(11), by inserting “(and the corresponding provision of section 4041(d)(1))” after “section 4041(a)(1)”, see 1987 Amendment note below.
 
 Subsec. (k)(2)(B). Pub. L. 100–647, §3021(a)(10), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the employer-provided benefit (within the meaning of section 89 without regard to subsection (g)(3) thereof) with respect to the employee to whom such failure relates.” See Codification note above.
 
@@ -246,13 +246,13 @@ Pub. L. 100–647, §1011B(a)(10), substituted “subsection (g)(3)(C)(i)” for
 
 Subsec. (k)(4). Pub. L. 100–647, §1018(u)(36), substituted “or part II of subchapter B of this chapter” for “or section 6678”. See Codification note above.
 
-1987—Subsec. (c). Pub. L. 100–203, §10704(a), amended subsec. (c) generally, revising and restating as pars. (1) to (4) provisions of former pars. (1) to (3).
+<b>1987</b>—Subsec. (c). Pub. L. 100–203, §10704(a), amended subsec. (c) generally, revising and restating as pars. (1) to (4) provisions of former pars. (1) to (3).
 
 Subsec. (j). Pub. L. 100–203, §10502(d)(11), struck out subsec. (j), as added by section 1702(b) of Pub. L. 99–514, which related to failure to give written notice to certain sellers of diesel fuel.
 
 Subsecs. (k), (<i>l</i>). Pub. L. 100–203, §10502(d)(11), redesignated subsec. (<i>l</i>), relating to information with respect to includible employee benefits, as (k), and directed the redesignation of a nonexistent subsec. (m) as (<i>l</i>). See Codification note above.
 
-1986—Subsec. (a). Pub. L. 99–514, §1501(d)(1)(A), redesignated subsec. (b) as (a), substituted “Returns with respect to certain payments aggregating less than $10” for “Other returns” in heading, and struck out former subsec. (a) which provided penalties for failure to file returns relating to information at source, payments of dividends, etc. and certain transfers of stock.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1501(d)(1)(A), redesignated subsec. (b) as (a), substituted “Returns with respect to certain payments aggregating less than $10” for “Other returns” in heading, and struck out former subsec. (a) which provided penalties for failure to file returns relating to information at source, payments of dividends, etc. and certain transfers of stock.
 
 Pub. L. 99–514, §1811(c)(2), inserted “(other than by subsection (d) of such section)” in par. (3)(A)(ii).
 
@@ -278,7 +278,7 @@ Subsec. (k). Pub. L. 99–514, §1501(d)(1)(A)(i), redesignated subsec. (k), rel
 
 Subsecs. (<i>l</i>), (m). Pub. L. 99–514, §1151(b), directed the redesignation of a nonexistent subsec. (<i>l</i>) as (m), and added a new subsec. (<i>l</i>) relating to information with respect to includible employee benefits.
 
-1984—Subsec. (a)(1)(B)(v). Pub. L. 98–369, §145(b)(1), added cl. (v).
+<b>1984</b>—Subsec. (a)(1)(B)(v). Pub. L. 98–369, §145(b)(1), added cl. (v).
 
 Subsec. (a)(1)(B)(vi). Pub. L. 98–369, §146(b)(1), added cl. (vi).
 
@@ -310,19 +310,19 @@ Pub. L. 98–369, §714(j)(3), redesignated former subsec. (i), relating to alco
 
 Subsec. (k). Pub. L. 98–397, §207(b), redesignated subsec. (j), relating to alcohol and tobacco taxes, as (k).
 
-1983—Subsec. (a)(1)(A). Pub. L. 98–67, §105(b)(1)(B), struck out cls. (ii), (iii), and (iv), redesignated cls. (v) and (vi) as (ii) and (iii), respectively, and in cl. (iii), as so redesignated, struck out “6042(e), 6044(f), 6049(e), or” before “6051(d)”.
+<b>1983</b>—Subsec. (a)(1)(A). Pub. L. 98–67, §105(b)(1)(B), struck out cls. (ii), (iii), and (iv), redesignated cls. (v) and (vi) as (ii) and (iii), respectively, and in cl. (iii), as so redesignated, struck out “6042(e), 6044(f), 6049(e), or” before “6051(d)”.
 
 Subsec. (a)(2), (3). Pub. L. 98–67, §105(b)(1)(A), (C), added par. (2), redesignated former par. (2) as (3), and in par. (3), as so redesignated, inserted references to paragraph (2) in provisions preceding subpar. (A) and in provisions of subpar. (A) preceding cl. (i).
 
 Subsec. (a). Pub. L. 97–448, which directed that “or” be struck out at end of subpar. (F) of par. (1), “or” be inserted at end of par. (2), a new par. (3) be added, and that in provision following par. (3), “paragraph (2) or (3)” be substituted for “paragraph (2)”, was executed by striking out “or” at end of subpar. (A)(vi) of par. (1), inserting “or” at end of subpar. (B)(iv) of par. (1), redesignating par. (3) as subpar. (C) and adding such subpar. (C), to par. (1), and in provision following subpar. (C) substituting “subparagraph (B) or (C)” for “subparagraph (B)”, to reflect the probable intent of Congress and the intervening amendment of subsec. (a) by section 315(a) of Pub. L. 97–248 which redesignated former par. (1) as subpar. (A), former subpars. (A) to (F) as cls. (i) to (vi), and former par. (2) as subpar. (B), and in provision following subpar. (B) as so redesignated, substituted “subparagraph (B)” for “paragraph (2)”.
 
-1982—Subsec. (a). Pub. L. 97–248, §315(a), designated existing provisions as par. (1) with a heading “In general”, redesignated former par. (1) as subpar. (A), in subpar. (A) as so redesignated struck out “aggregate” before “amount”, redesignated former subpars. (A) through (F) as cls. (i) through (vi), respectively, in cls. (ii) and (iii) as so redesignated struck out “aggregating $10 or more” after “dividends”, in cl. (iv) as so redesignated substituted “(a)” for “(a)(1)” and struck out “aggregating $10 or more” after “interest”, in cl. (vi) as so redesignated inserted “6042(e), 6044(f), 6049(e), or” before “6051(d)”, redesignated former par. (2) as subpar. (B), in subpar. (B) as so redesignated designated from “section 6052(a)” through the end of the parenthesis as cl. (iii) and struck out “with respect to group-term life insurance on the life of an employee” thereafter, added cls. (i), (ii), and (iv), in text after cl. (iv) substituted “subparagraph (A)” for “paragraph (1)”, “subparagraph (B)” for “paragraph (2)”, “$50 for each such failure” for “$10 for each such failure”, and “shall not exceed $50,000” for “shall not exceed $25,000”, and added par. (2).
+<b>1982</b>—Subsec. (a). Pub. L. 97–248, §315(a), designated existing provisions as par. (1) with a heading “In general”, redesignated former par. (1) as subpar. (A), in subpar. (A) as so redesignated struck out “aggregate” before “amount”, redesignated former subpars. (A) through (F) as cls. (i) through (vi), respectively, in cls. (ii) and (iii) as so redesignated struck out “aggregating $10 or more” after “dividends”, in cl. (iv) as so redesignated substituted “(a)” for “(a)(1)” and struck out “aggregating $10 or more” after “interest”, in cl. (vi) as so redesignated inserted “6042(e), 6044(f), 6049(e), or” before “6051(d)”, redesignated former par. (2) as subpar. (B), in subpar. (B) as so redesignated designated from “section 6052(a)” through the end of the parenthesis as cl. (iii) and struck out “with respect to group-term life insurance on the life of an employee” thereafter, added cls. (i), (ii), and (iv), in text after cl. (iv) substituted “subparagraph (A)” for “paragraph (1)”, “subparagraph (B)” for “paragraph (2)”, “$50 for each such failure” for “$10 for each such failure”, and “shall not exceed $50,000” for “shall not exceed $25,000”, and added par. (2).
 
 Subsec. (b). Pub. L. 97–248, §309(b)(2), struck out pars. (3) and (4) which referred to section 6049(a)(2) and section 6049(a)(3), respectively, as sources of authority for the requirement of filing a statement of payment to another person.
 
 Subsec. (f). Pub. L. 97–248, §315(b), substituted “$25” and “$15,000” for “$10” and “$5,000”, respectively.
 
-1981—Subsec. (a). Pub. L. 97–34, §723(a)(4), inserted in heading “information at source,” before “payments of dividends”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–34, §723(a)(4), inserted in heading “information at source,” before “payments of dividends”.
 
 Subsec. (a)(1). Pub. L. 97–34, §723(a)(1), added subpars. (A), (E), and (F), and redesignated former subpars. (A) to (C) as (B) to (D), respectively.
 
@@ -330,27 +330,27 @@ Subsec. (b). Pub. L. 97–34, §723(a)(3), substituted provisions relating to fa
 
 Subsecs. (h), (i). Pub. L. 97–34, §311(f), added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1980—Subsec. (b). Pub. L. 96–223 inserted reference to statement required by section 6050C (relating to information regarding windfall profit tax on crude oil).
+<b>1980</b>—Subsec. (b). Pub. L. 96–223 inserted reference to statement required by section 6050C (relating to information regarding windfall profit tax on crude oil).
 
 Subsec. (d)(3). Pub. L. 96–603 substituted in heading “returns” for “reports” and in text “failure to comply” for “failure to file a report required under section 6056 (relating to annual reports by private foundations) or to comply”, “failing to meet such requirements” for “failing so to file or meet the publicity requirement”, and “failure with respect” for “failure to file or comply with the requirements of section 6104(d) with regard”.
 
 Subsecs. (g), (h). Pub. L. 96–499 added subsec. (g) and redesignated former subsec. (g) as (h).
 
-1979—Subsec. (a). Pub. L. 96–167 inserted “or” after “$10 or more),” in par. (1), struck out par. (2) relating to failure to make a return required by section 6039(a) with respect to a transfer of stock or a transfer of legal title to stock, redesignated par. (3) as (2), and in closing provision substituted “return referred to in paragraph (2)” for “return referred to in paragraph (2) or (3)”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–167 inserted “or” after “$10 or more),” in par. (1), struck out par. (2) relating to failure to make a return required by section 6039(a) with respect to a transfer of stock or a transfer of legal title to stock, redesignated par. (3) as (2), and in closing provision substituted “return referred to in paragraph (2)” for “return referred to in paragraph (2) or (3)”.
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (b). Pub. L. 94–455, §§1207(e)(3)(B), (C), 1906(b)(13)(A), inserted “in the case of each failure to make a return required by section 6050A(a) (relating to reporting requirements of certain fishing boat operators),” after “income tax withheld),” and “or section 6050A(b) (relating to statements furnished by certain fishing boat operators),” after “respect to tips),” and struck out “or his delegate” after “Secretary”.
 
 Subsecs. (d) to (f). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-1974—Pub. L. 93–406, §1031(b)(1)(B)(i), inserted “, registration statements, etc.” in section catchline.
+<b>1974</b>—Pub. L. 93–406, §1031(b)(1)(B)(i), inserted “, registration statements, etc.” in section catchline.
 
 Subsecs. (e) to (g). Pub. L. 93–406, §1031(b)(1)(A), added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
 
-1969—Subsecs. (d), (e). Pub. L. 91–172 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1969</b>—Subsecs. (d), (e). Pub. L. 91–172 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1965—Subsec. (b). Pub. L. 89–97, §313(e)(2)(B), inserted “and in the case of each failure to furnish a statement required by section 6053(b) (relating to statements furnished by employers with respect to tips),” after “income tax withheld).”.
+<b>1965</b>—Subsec. (b). Pub. L. 89–97, §313(e)(2)(B), inserted “and in the case of each failure to furnish a statement required by section 6053(b) (relating to statements furnished by employers with respect to tips),” after “income tax withheld).”.
 
 Subsec. (c). Pub. L. 89–212 inserted “or which are compensation (as defined in section 3231(e))” and “or section 3201 (as the case may be)”.
 
@@ -358,15 +358,15 @@ Pub. L. 89–97, §313(e)(3), added subsec. (c). Former subsec. (c) redesignated
 
 Subsec. (d). Pub. L. 89–97, §313(e)(3), redesignated former subsec. (c) as (d).
 
-1964—Subsec. (a). Pub. L. 88–272 provided a penalty for failure to make a return required by section 6039(a) with respect to a transfer of stock or a transfer of legal title to stock, and by section 6052(a) with respect to group-term life insurance on the life of an employee.
+<b>1964</b>—Subsec. (a). Pub. L. 88–272 provided a penalty for failure to make a return required by section 6039(a) with respect to a transfer of stock or a transfer of legal title to stock, and by section 6052(a) with respect to group-term life insurance on the life of an employee.
 
-1962—Subsec. (a). Pub. L. 87–834 added subsec. (a). Former subsec. (a) redesignated (b).
+<b>1962</b>—Subsec. (a). Pub. L. 87–834 added subsec. (a). Former subsec. (a) redesignated (b).
 
 Subsec. (b). Pub. L. 87–834 redesignated former subsec. (a) as (b), and substituted “section 6042(a)(2) (relating to payments of dividends aggregating less than $10), section 6044(a)(2) (relating to payments of patronage dividends aggregating less than $10), section 6049(a)(2) (relating to payments of interest aggregating less than $10), section 6049(a)(3) (relating to other payments of interest by corporations), or section 6051(d) (relating to information returns with respect to income tax withheld)” for “section 6042(1) (relating to payments of corporate dividends), section 6044 (relating to patronage dividends), or section 6051(d) (relating to information returns with respect to income tax withheld)”. Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 87–834 redesignated former subsec. (b) as (c).
 
-1958—Subsec. (a). Pub. L. 85–866 substituted “section 6042(1)” for “section 6042” and “(upon notice and demand by the Secretary or his delegate and in the same manner as tax), by the person failing to so file the statement, $1 for each such statement not so filed” for “by the person failing to file the statement, upon notice and demand by the Secretary or his delegate and in the same manner as tax, $1 for each such statement not filed”, deleted “section 6045 (relating to returns of brokers)” after “patronage dividends)” and inserted “on the date prescribed therefor (determined with regard to any extension of time for filing)” after “income tax withheld),”.
+<b>1958</b>—Subsec. (a). Pub. L. 85–866 substituted “section 6042(1)” for “section 6042” and “(upon notice and demand by the Secretary or his delegate and in the same manner as tax), by the person failing to so file the statement, $1 for each such statement not so filed” for “by the person failing to file the statement, upon notice and demand by the Secretary or his delegate and in the same manner as tax, $1 for each such statement not filed”, deleted “section 6045 (relating to returns of brokers)” after “patronage dividends)” and inserted “on the date prescribed therefor (determined with regard to any extension of time for filing)” after “income tax withheld),”.
 
 #### Effective Date of 2006 Amendment
 
@@ -476,7 +476,7 @@ Pub. L. 97–448, title II, §203(a), (b), Jan. 12, 1983, 96 Stat. 2397, as amen
 
 “(a)
 
-General Rule.—Except as provided in subsection (b), any amendment made by this title \[amending this section and sections 44D, 46, 48, 193, 613A, 4988, 4989, 4991–4997, 6015, 6154, 6654, 6655, and 6678 of this title, enacting provisions set out as notes under section 4996of this title, and amending a provision set out as a note under section 44E of this title\] shall take effect as if it had been included in the provision of the Crude Oil Windfall Profit Tax Act of 1980 \[Pub. L. 96–223\] to which such amendment relates.
+General Rule.—Except as provided in subsection (b), any amendment made by this title \[amending this section and sections 44D, 46, 48, 193, 613A, 4988, 4989, 4991–4997, 6015, 6154, 6654, 6655, and 6678 of this title, enacting provisions set out as notes under section 4996 of this title, and amending a provision set out as a note under section 44E of this title\] shall take effect as if it had been included in the provision of the Crude Oil Windfall Profit Tax Act of 1980 \[Pub. L. 96–223\] to which such amendment relates.
 
 “(b)
 

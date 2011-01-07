@@ -18,7 +18,7 @@ A prior section 1811 was renumbered section 3711 of this title.
 
 #### Amendments
 
-2003—Par. (1)(A). Pub. L. 108–183 substituted “section 1831(1)” for “section 1821(1)”.
+<b>2003</b>—Par. (1)(A). Pub. L. 108–183 substituted “section 1831(1)” for “section 1821(1)”.
 
 #### Effective Date
 

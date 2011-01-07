@@ -4,7 +4,9 @@
 
 (b) The owner, charterer, managing operator, agent, master, and individual in charge of a vessel shall mark and maintain the load lines permanently and conspicuously in the way prescribed by the Secretary.
 
-(Pub. L. 99–509, title V, §5101(2), Oct. 21, 1986, 100 Stat. 1915.)
+(c) A fishing vessel built on or before July 1, 2012, that undergoes a substantial change to the dimension of or type of the vessel completed after the later of July 1, 2012, or the date the Secretary establishes standards for an alternate loadline compliance program, shall comply with such an alternative loadline compliance program that is developed in cooperation with the commercial fishing industry and prescribed by the Secretary.
+
+(Pub. L. 99–509, title V, §5101(2), Oct. 21, 1986, 100 Stat. 1915; Pub. L. 111–281, title VI, §604(d)(2), Oct. 15, 2010, 124 Stat. 2965.)
 
 #### Historical and Revision Notes
 
@@ -15,4 +17,8 @@ Source: Section (U.S. Code) 46 App. U.S.C. 86c, 88b.
 Section 5103(a) prohibits a vessel that is subject to load line requirements from operating, unless it has load lines assigned by the Secretary.
 
 Section 5103(b) requires that load lines be permanently and conspicuously maintained in the manner prescribed by the Secretary.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (c). Pub. L. 111–281 added subsec. (c).
 

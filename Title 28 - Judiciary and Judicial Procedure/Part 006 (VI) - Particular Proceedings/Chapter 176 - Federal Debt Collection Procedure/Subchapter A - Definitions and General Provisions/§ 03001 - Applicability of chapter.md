@@ -22,7 +22,7 @@ Amounts Owing Other Than Debts.—This chapter shall not apply with respect to a
 
 Section 3631 of title XXXVI of Pub. L. 101–647 provided that:
 
-“(a) Except as provided in subsection (b), this Act \[probably should be “title”, meaning title XXXVI of Pub. L. 101–647, which enacted this chapter and section 2044 of this title, amended sections 550, 1962, 1963, and 2410 of this title, section 523 of Title 11, Bankruptcy, and sections 3142 and 3552 of Title 18, Crimes and Criminal Procedure, and enacted provisions set out as a note under section 1 of this title\] and the amendments made by this Act \[title\] shall take effect 180 days after the date of the enactment of this Act \[Nov. 29, 1990\].
+“(a) Except as provided in subsection (b), this Act \[probably should be “title”, meaning title XXXVI of Pub. L. 101–647, which enacted this chapter and section2044 of this title, amended sections 550, 1962, 1963, and 2410 of this title, section 523 of Title 11, Bankruptcy, and sections 3142 and 3552 of Title 18, Crimes and Criminal Procedure, and enacted provisions set out as a note under section 1 of this title\] and the amendments made by this Act \[title\] shall take effect 180 days after the date of the enactment of this Act \[Nov. 29, 1990\].
 
 “(b)(1) The amendments made by title I of this Act \[probably should be “subtitle A of this title”, meaning subtitle A (§§3611, 3302 \[3612\]) of title XXXVI of Pub. L. 101–647, which enacted this chapter\] shall apply with respect to actions pending on the effective date of this Act \[probably should be title XXXVI of Pub. L. 101–647\] in any court on—
 

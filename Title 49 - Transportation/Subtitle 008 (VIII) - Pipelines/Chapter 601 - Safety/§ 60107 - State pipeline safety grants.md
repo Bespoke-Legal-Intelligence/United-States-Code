@@ -118,7 +118,7 @@ In subsection (d)(2), before clause (A), the words “qualifications prescribed�
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–468, §2(c), substituted “not more than 80 percent” for “not more than 50 percent” in introductory provisions.
+<b>2006</b>—Subsec. (a). Pub. L. 109–468, §2(c), substituted “not more than 80 percent” for “not more than 50 percent” in introductory provisions.
 
 Subsec. (b). Pub. L. 109–468, §2(d), substituted “spent for gas and hazardous liquid safety programs for the 3 fiscal years prior to the fiscal year in which the Secretary makes the payment, except when the Secretary waives this requirement.” for “spent—
 
@@ -126,5 +126,5 @@ Subsec. (b). Pub. L. 109–468, §2(d), substituted “spent for gas and hazardo
 
 &emsp;“(2) for a hazardous liquid safety program, for the fiscal years that ended September 30, 1978, and September 30, 1979.”
 
-1996—Pub. L. 104–304 substituted “State pipeline safety grants” for “State grants” in section catchline.
+<b>1996</b>—Pub. L. 104–304 substituted “State pipeline safety grants” for “State grants” in section catchline.
 

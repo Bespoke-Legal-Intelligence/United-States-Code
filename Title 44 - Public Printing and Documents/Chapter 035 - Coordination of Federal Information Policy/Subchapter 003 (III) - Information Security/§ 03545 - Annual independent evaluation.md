@@ -70,7 +70,7 @@ The Inspector General Act of 1978, referred to in subsec. (b)(1), is Pub. L. 95�
 
 #### Amendments
 
-2003—Subsec. (b)(1). Pub. L. 108–177 inserted “or any other law” after “1978”.
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–177 inserted “or any other law” after “1978”.
 
 #### Change of Name
 

@@ -28,9 +28,27 @@ The State plan shall—
 
 &emsp;(5) describe the procedures that such agency will use to involve libraries and library users throughout the State in policy decisions regarding implementation of this subchapter;
 
-&emsp;(6) provide assurances that the State will comply with subsection (f) of this section; and
+&emsp;(6) describe how the State library administrative agency will work with other State agencies and offices where appropriate to coordinate resources, programs, and activities and leverage, but not replace, the Federal and State investment in—
 
-&emsp;(7) provide assurances satisfactory to the Director that such agency will make such reports, in such form and containing such information, as the Director may reasonably require to carry out this subchapter and to determine the extent to which funds provided under this subchapter have been effective in carrying out the purposes of this subchapter.
+&emsp;&emsp;(A) elementary and secondary education, including coordination with the activities within the State that are supported by a grant under section 6383 of this title;
+
+&emsp;&emsp;(B) early childhood education, including coordination with—
+
+&emsp;&emsp;&emsp;(i) the State's activities carried out under subsections (b)(4) and (e)(1) of section 9837 of title 42; and
+
+&emsp;&emsp;&emsp;(ii) the activities described in the State's strategic plan in accordance with section 9837b(a)(4)(B)(i) of title 42;
+
+&emsp;&emsp;(C) workforce development, including coordination with—
+
+&emsp;&emsp;&emsp;(i) the activities carried out by the State workforce investment board under section 2821(d) of title 29; and
+
+&emsp;&emsp;&emsp;(ii) the State's one-stop delivery system established under section 2864(c) of title 29; and
+
+&emsp;&emsp;(D) other Federal programs and activities that relate to library services, including economic and community development and health information;
+
+&emsp;(7) provide assurances that the State will comply with subsection (f) of this section; and
+
+&emsp;(8) provide assurances satisfactory to the Director that such agency will make such reports, in such form and containing such information, as the Director may reasonably require to carry out this subchapter and to determine the extent to which funds provided under this subchapter have been effective in carrying out the purposes of this subchapter.
 
 #### (c) Evaluation and report
 
@@ -48,7 +66,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (2) Public availability
 
-&emsp;Each State library administrative agency receiving a grant under this subchapter shall make the State plan available to the public.
+&emsp;Each State library administrative agency receiving a grant under this subchapter shall make the State plan available to the public, including through electronic means.
 
 #### (3) Administration
 
@@ -138,7 +156,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (B) Recovery of funds prohibited
 
-&emsp;&emsp;The actions authorized by subparagraph (A) are the exclusive remedies available with respect to the failure of a library to comply substantially with a provision of this subsection, and the Director shall not seek a recovery of funds from the recipient for such failure.
+&emsp;&emsp;The actions authorized by subparagraph (A) are the exclusive remedies available withrespect to the failure of a library to comply substantially with a provision of this subsection, and the Director shall not seek a recovery of funds from the recipient for such failure.
 
 #### (C) Recommencement of payments
 
@@ -178,7 +196,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 &emsp;&emsp;The terms “sexual act” and “sexual contact” have the meanings given such terms in section 2246 of title 18.
 
-(Pub. L. 94–462, title II, §224, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–300; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–340; Pub. L. 108–81, title II, §205, title V, §504(f), Sept. 25, 2003, 117 Stat. 999, 1004.)
+(Pub. L. 94–462, title II, §224, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–300; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–340; Pub. L. 108–81, title II, §205, title V, §504(f), Sept. 25, 2003, 117 Stat. 999, 1004; Pub. L. 111–340, title II, §204, Dec. 22, 2010, 124 Stat. 3600.)
 
 #### References in Text
 
@@ -188,7 +206,11 @@ The General Education Provisions Act, referred to in subsec. (f)(5)(A), is title
 
 #### Amendments
 
-2003—Subsec. (a)(1). Pub. L. 108–81, §205(1), substituted “once every 5 years, as determined by the Director.” for “not later than April 1, 1997.”
+<b>2010</b>—Subsec. (b)(6) to (8). Pub. L. 111–340, §204(1), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
+
+Subsec. (e)(2). Pub. L. 111–340, §204(2), inserted “, including through electronic means” before period at end.
+
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–81, §205(1), substituted “once every 5 years, as determined by the Director.” for “not later than April 1, 1997.”
 
 Subsec. (b)(5). Pub. L. 108–81, §504(f), struck out “and” at end.
 
@@ -200,7 +222,7 @@ Subsec. (f)(7). Pub. L. 108–81, §205(2)(C)(i), substituted “subsection:” 
 
 Subsec. (f)(7)(D). Pub. L. 108–81, §205(2)(C)(ii), substituted “applicable to” for “given”.
 
-2000—Subsec. (b)(6), (7). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(a)(1)\], added par. (6) and redesignated former par. (6) as (7).
+<b>2000</b>—Subsec. (b)(6), (7). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(a)(1)\], added par. (6) and redesignated former par. (6) as (7).
 
 Subsec. (f). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(a)(2)\], added subsec. (f).
 
@@ -219,4 +241,6 @@ In general.—Notwithstanding any other provision of law, funds available under 
 “(2)
 
 Technology protection measure defined.—In this section, the term ‘technology protection measure’ has the meaning given that term in section 1703 \[set out as a note under section 902 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\].”
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “under”.</i>
 

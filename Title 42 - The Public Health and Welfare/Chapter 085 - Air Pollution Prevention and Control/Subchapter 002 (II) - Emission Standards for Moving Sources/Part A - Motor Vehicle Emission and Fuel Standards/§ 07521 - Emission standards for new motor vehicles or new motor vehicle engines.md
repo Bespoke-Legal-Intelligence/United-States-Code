@@ -176,7 +176,19 @@ CO
 
 NO<sub>x</sub>
 
-LDTs (0–3,750 lbs. LVW) and light-duty vehicles D0.25 D3.4 D0.4\*  D0.31 D4.2 D0.6\*
+LDTs (0–3,750 lbs. LVW) and light-duty vehicles
+
+0\.25
+
+3\.4
+
+0\.4\*&nbsp;
+
+0\.31
+
+4\.2
+
+0\.6\*
 
 LDTs (3,751–5,750 lbs. LVW)
 
@@ -234,7 +246,9 @@ Useful life period
 
 Standard
 
-5/50,000 D0.08 gpm
+5/50,000
+
+0\.08 gpm
 
 10/100,000
 
@@ -306,7 +320,21 @@ NO<sub>x</sub>
 
 PM
 
-3,751–5,750 lbs. TW D0.32 D4.4 D0.7\* D0.46 D6.4 D0.98 D0.10
+3,751–5,750 lbs. TW
+
+0\.32
+
+4\.4
+
+0\.7\*
+
+0\.46
+
+6\.4
+
+0\.98
+
+0\.10
 
 Over 5,750 lbs. TW
 
@@ -540,7 +568,7 @@ Section was formerly classified to section 1857f–1 of this title.
 
 #### Amendments
 
-1990—Subsec. (a)(3)(A). Pub. L. 101–549, §201(1), added subpar. (A) and struck out former subpar. (A) which related to promulgation of regulations applicable to reduction of emissions from heavy-duty vehicles or engines manufactured during and after model year 1979 in the case of carbon monoxide, hydrocarbons, and oxides of nitrogen, and from vehicles manufactured during and after model year 1981 in the case of particulate matter.
+<b>1990</b>—Subsec. (a)(3)(A). Pub. L. 101–549, §201(1), added subpar. (A) and struck out former subpar. (A) which related to promulgation of regulations applicable to reduction of emissions from heavy-duty vehicles or engines manufactured during and after model year 1979 in the case of carbon monoxide, hydrocarbons, and oxides of nitrogen, and from vehicles manufactured during and after model year 1981 in the case of particulate matter.
 
 Subsec. (a)(3)(B). Pub. L. 101–549, §201(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “During the period of June 1 through December 31, 1978, in the case of hydrocarbons and carbon monoxide, or during the period of June 1 through December 31, 1980, in the case of oxides of nitrogen, and during each period of June 1 through December 31 of each third year thereafter, the Administrator may, after notice and opportunity for a public hearing promulgate regulations revising any standard prescribed as provided in subparagraph (A)(ii) for any class or category of heavy-duty vehicles or engines. Such standard shall apply only for the period of three model years beginning four model years after the model year in which such revised standard is promulgated. In revising any standard under this subparagraph for any such three model year period, the Administrator shall determine the maximum degree of emission reduction which can be achieved by means reasonably expected to be available for production of such period and shall prescribe a revised emission standard in accordance with such determination. Such revised standard shall require a reduction of emissions from any standard which applies in the previous model year.”
 
@@ -596,7 +624,7 @@ Subsecs. (g) to (i). Pub. L. 101–549, §203(a), added subsecs. (g) to (i).
 
 Subsecs. (j) to (m). Pub. L. 101–549, §§204–207(a), added subsecs. (j) to (m).
 
-1977—Subsec. (a)(1). Pub. L. 95–190, §14(a)(60), restructured subsec. (a) by providing for designation of par. (1) to precede “The Administrator” in place of “Except as”.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–190, §14(a)(60), restructured subsec. (a) by providing for designation of par. (1) to precede “The Administrator” in place of “Except as”.
 
 Pub. L. 95–95, §401(d)(1), substituted “Except as otherwise provided in subsection (b) of this section the Administrator” for “The Administrator”, “cause, or contribute to, air pollution which may reasonably be anticipated to endanger public health or welfare” for “causes or contributes to, or is likely to cause or contribute to, air pollution which endangers the public health or welfare”, and “useful life (as determined under subsection (d) of this section, relating to useful life of vehicles for purposes of certification), whether such vehicles and engines are designed as complete systems or incorporate devices” for “useful life (as determined under subsection (d) of this section) whether such vehicles and engines are designed as complete systems or incorporated devices”.
 
@@ -638,19 +666,19 @@ Subsec. (e). Pub. L. 95–95, §401(d)(2), substituted “which in his judgment 
 
 Subsec. (f). Pub. L. 95–95, §213(b), added subsec. (f).
 
-1974—Subsec. (b)(1)(A). Pub. L. 93–319, §5(a), substituted “model year 1977” for “model year 1975” in provisions requiring a reduction of at least 90 per centum from the emissions allowable under standards for model year 1970 and inserted provisions covering regulations for model years 1975 and 1976.
+<b>1974</b>—Subsec. (b)(1)(A). Pub. L. 93–319, §5(a), substituted “model year 1977” for “model year 1975” in provisions requiring a reduction of at least 90 per centum from the emissions allowable under standards for model year 1970 and inserted provisions covering regulations for model years 1975 and 1976.
 
 Subsec. (b)(1)(B). Pub. L. 93–319, §5(b), substituted “model year 1978” for “model year 1976” in provisions requiring a reduction of at least 90 per centum from the average of emissions actually measured from vehicles manufactured during model year 1971 and inserted provisions covering regulations for model years 1975, 1976, and 1977.
 
 Subsec. (b)(5). Pub. L. 93–319, §5(c), (d), substituted in subpar. (A), “At any time after January 1, 1975” for “At any time after January 1, 1972”, “with respect to such manufacturer for light-duty vehicles and engines manufactured in model year 1977” for “with respect to such manufacturer”, “sixty days” for “60 days”, “paragraph (1)(A) of this subsection” for “paragraph (1)(A)”, and “vehicles and engines manufactured during model year 1977” for “vehicles and engines manufactured during model year 1975”, redesignated subpars. (C) to (E) as (B) to (D), respectively, and struck out former subpar. (B) which had allowed manufacturers, at any time after Jan. 1, 1973, to file with the Administrator an application requesting a 1-year suspension of the effective date of any emission standard required by subsec. (b)(1)(B) with respect to such manufacturer.
 
-1970—Subsec. (a). Pub. L. 91–604 redesignated existing provisions as par. (1), substituted Administrator forSecretary as the issuing authority for standards, inserted references to the useful life of engines, and substituted the emission of any air pollutant for the emission of any kind of substance as the subject to be regulated, and added par. (2).
+<b>1970</b>—Subsec. (a). Pub. L. 91–604 redesignated existing provisions as par. (1), substituted Administrator forSecretary as the issuing authority for standards, inserted references to the useful life of engines, and substituted the emission of any air pollutant for the emission of any kind of substance as the subject to be regulated, and added par. (2).
 
 Subsec. (b). Pub. L. 91–604 added subsec. (b). Former subsec. (b) redesignated as par. (2) of subsec. (a).
 
 Subsecs. (c) to (e). Pub. L. 91–604 added subsecs. (c) to (e).
 
-1967—Pub. L. 90–148 reenacted section without change.
+<b>1967</b>—Pub. L. 90–148 reenacted section without change.
 
 #### Effective Date of 1977 Amendment
 

@@ -1,6 +1,6 @@
 ### §7256. Northeast Interstate Dairy Compact
 
-Congress hereby consents to the Northeast Interstate Dairy Compact entered into among the States of Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island and Vermont as specified in section 1(b) Senate Joint Resolution 28 of the 104th Congress, as placed on the calendar of the Senate, subject to the following conditions:
+Congress hereby consents to the Northeast Interstate Dairy Compact entered into among the States of Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island and Vermont as specified in section 1(b) Senate <sup>1</sup> Joint Resolution 28 of the 104th Congress, as placed on the calendar of the Senate, subject to the following conditions:
 
 #### (1) Finding of compelling public interest
 
@@ -24,7 +24,7 @@ Congress hereby consents to the Northeast Interstate Dairy Compact entered into 
 
 #### (6) Milk marketing order Administrator
 
-&emsp;At the request of the Northeast Interstate Dairy Compact Commission, the Administrator of the applicable Federal milk marketing order issued under section 608c(5) <sup>1</sup> of this title shall provide technical assistance to theCompact Commission and be compensated for that assistance.
+&emsp;At the request of the Northeast Interstate Dairy Compact Commission, the Administrator of the applicable Federal milk marketing order issued under section 608c(5) <sup>2</sup> of this title shall provide technical assistance to theCompact Commission and be compensated for that assistance.
 
 #### (7) Further conditions
 
@@ -34,13 +34,13 @@ Congress hereby consents to the Northeast Interstate Dairy Compact entered into 
 
 #### References in Text
 
-Senate Joint Resolution 28 of the 104th Congress, referred to in text, which would have granted consent of the Congress to the Northeast Interstate Dairy Compact, was not enacted into law during the 104th Congress.
-
 Section 608c(5) of this title, referred to in par. (6), was in the original “section 8(c)5 of the Agricultural Adjustment Act (7 U.S.C. 608c), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937,” which was translated as meaning section 8c(5) of the Agricultural Adjustment Act, to reflect the probable intent of Congress.
 
 #### Amendments
 
 1999—Par. (3). Pub. L. 106–113 substituted “on September 30, 2001.” for “concurrent with the Secretary's implementation of the dairy pricing and Federal milk marketing order consolidation and reforms under section 7253 of this title.”
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “of”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

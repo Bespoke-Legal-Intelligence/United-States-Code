@@ -120,7 +120,7 @@ The President is authorized to provide assistance to the independent states of t
 
 #### Amendments
 
-2002—Par. (2). Pub. L. 107–246, §4(a)(1)(A), substituted “Democracy and rule of law” for “Democracy” in heading.
+<b>2002</b>—Par. (2). Pub. L. 107–246, §4(a)(1)(A), substituted “Democracy and rule of law” for “Democracy” in heading.
 
 Par. (2)(E) to (J). Pub. L. 107–246, §4(a)(1)(B)–(E), added subpars. (E) to (H) and (J), redesignated former subpar. (F) as (I), and struck out former subpars. (E) and (G) which read as follows:
 
@@ -132,7 +132,7 @@ Pars. (3) to (14). Pub. L. 107–246, §4(a)(2), added par. (3) and redesignated
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381of this title, and section 3(b) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended, set out as a note under section 5812 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title, and section 3(b) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended, set out as a note under section 5812 of this title.
 
 #### Findings and Purposes
 
@@ -150,7 +150,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(2) In order to facilitate this transition, the international community has provided multilateral and bilateral technical assistance, and the United States’ contribution to these efforts has played an important role in developing new institutions built on democratic and liberal economic foundations and the rule of law.
 
-&emsp;“(3)(A) Since 1992, United States Government democratic reform programs and public diplomacy programs, including training, and small grants have provided access to and training in the use of the Internet, brought nearly 40,000 Russian citizens to the United States, and have led to the establishment of more than 65,000 nongovernmental organizations, thousands of independent local media outlets, despite governmental opposition, and numerous political parties.
+&emsp;“(3)(A) Since 1992, United States Government democratic reform programs and public diplomacy programs, including training, and small grants have provided access to and training in the use of the Internet, brought nearly 40,000 Russian citizens to the United States, and have led to the establishment ofmore than 65,000 nongovernmental organizations, thousands of independent local media outlets, despite governmental opposition, and numerous political parties.
 
 &emsp;“(B) These efforts contributed to the substantially free and fair Russian parliamentary elections in 1995 and 1999.
 
@@ -214,7 +214,7 @@ Statement of Policy.—It shall be the policy of the United States—
 
 &emsp;“(4) to encourage United States Government officials and private sector individuals to meet regularly with democratic activists, human rights activists, representatives of the independent media, representatives of nongovernmental organizations, civic organizers, church officials, and reform-minded politicians from Moscow and all other regions of the Russian Federation;
 
-&emsp;“(5) to incorporate democratic reforms, the promotion of independent media, and economic reformsin a broader United States dialogue with the Government of the Russian Federation;
+&emsp;“(5) to incorporate democratic reforms, the promotion of independent media, and economic reforms in a broader United States dialogue with the Government of the Russian Federation;
 
 &emsp;“(6) to encourage the Government of the Russian Federation to address, in a cooperative and transparent manner consistent with internationally recognized and accepted principles, cross-border issues, including the nonproliferation of weapons of mass destruction, environmental degradation, crime, trafficking, and corruption;
 

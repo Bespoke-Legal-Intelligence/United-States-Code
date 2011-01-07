@@ -18,7 +18,7 @@ No grant or contract may be made under subsection (a) or (b) of this section unl
 
 #### (d) Nonapplicability of statutory provisions to contracts
 
-Contracts may be entered into under subsection (a) of this section without regard to section 3324(a) and (b) of title 31 and section 5 of title 41.
+Contracts may be entered into under subsection (a) of this section without regard to section 3324(a) and (b) of title 31 and section 6101 of title 41.
 
 #### (e) Authorization of appropriations
 
@@ -28,13 +28,13 @@ For the purpose of making payments under grants and contracts under subsections 
 
 #### Codification
 
-In subsec. (d), “section 3324(a) and (b) of title 31” substituted for reference to section 3648 of the Revised Statutes (31 U.S.C. 529) on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (d), “section 3324(a) and (b) of title 31 and section 6101 of title 41” substituted for “section 3648 and 3709 of the Revised Statutes (31 U.S.C. 529; 41 U.S.C. 5)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-1978—Subsec. (e). Pub. L. 95–626 inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1979, 1980, and 1981.
+<b>1978</b>—Subsec. (e). Pub. L. 95–626 inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1979, 1980, and 1981.
 
-1977—Subsec. (e). Pub. L. 95–83 substituted provisions authorizing appropriations for fiscal years ending Sept. 30, 1977 and 1978, for prior such authorization for fiscal year 1977.
+<b>1977</b>—Subsec. (e). Pub. L. 95–83 substituted provisions authorizing appropriations for fiscal years ending Sept. 30, 1977 and 1978, for prior such authorization for fiscal year 1977.
 
 #### Effective Date
 

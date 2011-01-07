@@ -28,7 +28,7 @@
 
 (3) Of the Council members first appointed under subsection (a)(1)(D) of this section after December 13, 1989, one shall be appointed for a term of one year, one shall be appointed for a term of two years, and one shall be appointed for a term of three years.
 
-(4) Whenever a vacancy occurs among members of the Council appointed under subsection (a)(1)(C) or subsection (a)(1)(D) of this section, the Secretary shall appoint an individual in accordance with either such subsection to fill that vacancy for the remainder of the applicable term.
+(4) Whenever a vacancy occurs among members of the Council appointed under subsection\(a)(1)(C) or subsection (a)(1)(D) of this section, the Secretary shall appoint an individual in accordance with either such subsection to fill that vacancy for the remainder of the applicable term.
 
 #### (c) Ex officio Council members
 
@@ -66,19 +66,19 @@ The Director of the United States Fish and Wildlife Service shall appoint an ind
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(A), is Pub. L. 91–190, Jan. 1,1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 Public Law 92–463, referred to in subsec. (a)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, known as the Federal Advisory Committee Act, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
-2002—Subsec. (a)(1)(A). Pub. L. 107–308, §8(b)(1), amended directory language of Pub. L. 101–593, §112(1). See 1990 Amendment note below.
+<b>2002</b>—Subsec. (a)(1)(A). Pub. L. 107–308, §8(b)(1), amended directory language of Pub. L. 101–593, §112(1). See 1990 Amendment note below.
 
 Subsec. (a)(1)(B). Pub. L. 107–308, §8(a)(6), substituted “section 3702(g)(2)(B)” for “section 3702(2)(B)”.
 
 Subsec. (c). Pub. L. 107–308, §8(a)(7), substituted “Council” for “Commission” in introductory provisions.
 
-1990—Subsec. (a)(1). Pub. L. 101–593, §112(2), inserted sentence at end relating to Public Law 92–463.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–593, §112(2), inserted sentence at end relating to Public Law 92–463.
 
 Subsec. (a)(1)(A). Pub. L. 101–593, §112(1), as amended by Pub. L. 107–308, §8(b)(1), inserted “, who shall be the responsible Federal official for ensuring Council compliance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.)” after “Service”.
 

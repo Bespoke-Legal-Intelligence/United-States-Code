@@ -12,9 +12,9 @@ Repeal effective upon the expiration of the 90-day period beginning on Feb. 17, 
 
 Except as otherwise provided and subject to certain applicability provisions, repeal effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of this title.
 
-Except as otherwise provided, repeal of this section not applicable on or after Jan. 1, 2011, and this part to be applied and administered beginning Jan. 1, 2011, as if the repeal had never been enacted, except that subsec. (b) of this section to be applied and administered by substituting “the 1-year period beginning January 1, 2011” for “each of fiscal years 2003 through 2007, and $4,000,000 for the 3-month period beginning October 1, 2007”, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Except as otherwise provided, repeal of this section not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if the repeal had never been enacted, except that subsec. (b) shall be applied and administered by substituting “the 1-year period beginning February 13, 2011, and ending February 12, 2012,” for “each of fiscal years 2003 through 2007, and $4,000,000 for the 3-month period beginning on October 1, 2007,”, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Termination Date
 
-Except as otherwise provided, technical assistance and grants may not be provided under this part after Dec. 31, 2010, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and grants may not be provided under this section after Feb. 12, 2011, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

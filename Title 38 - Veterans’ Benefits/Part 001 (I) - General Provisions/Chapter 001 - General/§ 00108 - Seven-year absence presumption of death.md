@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
 Subsec. (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
@@ -18,5 +18,5 @@ Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “1984” for “784”.
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1986—Subsec. (b). Pub. L. 99–576 substituted “that individual's” for “his” in two places.
+<b>1986</b>—Subsec. (b). Pub. L. 99–576 substituted “that individual's” for “his” in two places.
 

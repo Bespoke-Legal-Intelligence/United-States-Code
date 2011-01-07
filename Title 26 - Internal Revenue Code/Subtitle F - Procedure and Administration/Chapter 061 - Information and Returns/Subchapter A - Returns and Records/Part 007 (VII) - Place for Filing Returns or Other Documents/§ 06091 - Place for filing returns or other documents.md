@@ -90,19 +90,19 @@ In the case of returns of tax required under authority of part II of this subcha
 
 #### Amendments
 
-1989—Subsec. (b)(6). Pub. L. 101–239 inserted “section 4181 or” before “subtitle E”.
+<b>1989</b>—Subsec. (b)(6). Pub. L. 101–239 inserted “section 4181 or” before “subtitle E”.
 
-1987—Subsec. (b)(1)(B)(v). Pub. L. 100–203 inserted reference to section 6852(a).
+<b>1987</b>—Subsec. (b)(1)(B)(v). Pub. L. 100–203 inserted reference to section 6852(a).
 
-1986—Subsec. (b)(1)(B)(iii). Pub. L. 99–514, §1272(d)(10), substituted “Guam, American Samoa, or the Northern Mariana Islands” for “possessions of the United States”.
+<b>1986</b>—Subsec. (b)(1)(B)(iii). Pub. L. 99–514, §1272(d)(10), substituted “Guam, American Samoa, or the Northern Mariana Islands” for “possessions of the United States”.
 
 Subsec. (b)(6). Pub. L. 99–514, §1879(r)(1), added par. (6).
 
-1981—Subsec. (b)(1)(B)(iii). Pub. L. 97–34 substituted “section 911 (relating to citizens or residents of the United States living abroad)” for “section 911 (relating to income earned by employees in certain camps)” and struck out “section 913 (relating to deduction for certain expenses of living abroad)”.
+<b>1981</b>—Subsec. (b)(1)(B)(iii). Pub. L. 97–34 substituted “section 911 (relating to citizens or residents of the United States living abroad)” for “section 911 (relating to income earned by employees in certain camps)” and struck out “section 913 (relating to deduction for certain expenses of living abroad)”.
 
-1978—Subsec. (b)(1)(B)(iii). Pub. L. 95–615 substituted “(relating to income earned by employees in certain camps)” for “(relating to earned income from sources without the United States)” and inserted “section 913 (relating to deduction for certain expenses of living abroad),” before “section 931”.
+<b>1978</b>—Subsec. (b)(1)(B)(iii). Pub. L. 95–615 substituted “(relating to income earned by employees in certain camps)” for “(relating to earned income from sources without the United States)” and inserted “section 913 (relating to deduction for certain expenses of living abroad),” before “section 931”.
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (b)(1)(B). Pub. L. 94–455, §§1204(c)(3)(A), 1906(b)(13)(A), added cl. (v) and struck out in provision following cl. (v) “or his delegate” after “Secretary”.
 
@@ -112,11 +112,11 @@ Pub. L. 94–455, §§1052(c)(6), struck out provision which permitted returns o
 
 Pub. L. 94–455, §§1051(h)(4), 1204(c)(3)(B), 1906(b)(13)(A), substituted “section 936 (relating to possession tax credit)” for “section 931 (relating to income from sources within possessions of the United States),” for taxable years beginning after Dec. 31, 1975, added cl. (iv), and struck out in provision following cl. (iv) “or his delegate” after “Secretary”.
 
-1970—Subsec. (b)(3). Pub. L. 91–614, §101(i)(1), substituted provisions requiring an estate tax return to be filed in the internal revenue district in which the decedent was domiciled at the time of his death or at a service center serving that district, as the Secretary or his delegate may determine by regulations, and in the case of a decedent who was not domiciled in an internal revenue district, or who had no domicile, his return is to be filed at such place as the Secretary or his delegate designates for provisions requiring estate tax returns to be filed in the internal revenue district in which the decedent was domiciled at the time of his death or, if there was no such domicile in an internal revenue district, then at such place as the Secretary or his delegate by regulations designates.
+<b>1970</b>—Subsec. (b)(3). Pub. L. 91–614, §101(i)(1), substituted provisions requiring an estate tax return to be filed in the internal revenue district in which the decedent was domiciled at the time of his death or at a service center serving that district, as the Secretary or his delegate may determine by regulations, and in the case of a decedent who was not domiciled in an internal revenue district, or who had no domicile, his return is to be filed at such place as the Secretary or his delegate designates for provisions requiring estate tax returns to be filed in the internal revenue district in which the decedent was domiciled at the time of his death or, if there was no such domicile in an internal revenue district, then at such place as the Secretary or his delegate by regulations designates.
 
-Subsec. (b)(4). Pub. L. 91–614, §101(i)(2), permitted the executor, who desires to file an estate tax return inperson, to do so by hand carrying it to the appropriate internal revenue district office.
+Subsec. (b)(4). Pub. L. 91–614, §101(i)(2), permitted the executor, who desires to file an estate tax return in person, to do so by hand carrying it to the appropriate internal revenue district office.
 
-1966—Subsec. (b)(1). Pub. L. 89–713, §1(a)(1), authorized the Secretary to promulgate regulations allowing individuals to file tax returns either in the internal revenue district in which the taxpayer's legal residence or principal place of business is located or at a service center serving that district, designated as subpar. (B)(1) the existing provisions which authorized the Secretary to prescribe the place without limitations as to the Secretary's range of alternative choices for the filing of returns of persons who have no legal residence or principal place of business in any internal revenue district, and added subpar. (B)(ii) to (iv).
+<b>1966</b>—Subsec. (b)(1). Pub. L. 89–713, §1(a)(1), authorized the Secretary to promulgate regulations allowing individuals to file tax returns either in the internal revenue district in which the taxpayer's legal residence or principal place of business is located or at a service center serving that district, designated as subpar. (B)(1) the existing provisions which authorized the Secretary to prescribe the place without limitations as to the Secretary's range of alternative choices for the filing of returns of persons who have no legal residence or principal place of business in any internal revenue district, and added subpar. (B)(ii) to (iv).
 
 Subsec. (b)(2). Pub. L. 89–713, §1(a)(1), authorized the Secretary to promulgate regulations allowing corporations to file tax returns either in the internal revenue district in which is located the principal place of business or principal office or agency of the corporation or at a service center serving that district, designated as subpar. (B)(i) the existing provisions which authorized the Secretary to prescribe the place without limitations as to the Secretary's range of alternative choices for the filing of returns of corporations having no principal place of business or principal office or agency of the corporation, and added subpar. (B)(ii), (iii).
 
@@ -161,4 +161,6 @@ Section 6 of Pub. L. 89–713 provided that: “Except as otherwise provided in 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+
+<i><sup>1</sup></i><i> So in original. Word “and” probably is superfluous.</i>
 

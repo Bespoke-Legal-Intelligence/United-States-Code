@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;With respect to tax advice, the same common law protections of confidentiality which apply to a communication between a taxpayer and an attorney shall also apply to a communication between a taxpayer and any federallyauthorized tax practitioner to the extent the communication would be considered a privileged communication if it were between a taxpayer and an attorney.
+&emsp;With respect to tax advice, the same common law protections of confidentiality which apply to a communication between a taxpayer and an attorney shall also apply to a communication between a taxpayer and any federally authorized tax practitioner to the extent the communication would be considered a privileged communication if it were between a taxpayer and an attorney.
 
 #### (2) Limitations
 
@@ -44,7 +44,7 @@ The privilege under subsection (a) shall not apply to any written communication 
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–357 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The privilege under subsection (a) shall not apply to any written communication between a federally authorized tax practitioner and a director, shareholder, officer, or employee, agent, or representative of a corporation in connection with the promotion of the direct or indirect participation of such corporation in any tax shelter (as defined in section 6662(d)(2)(C)(iii)).”
+<b>2004</b>—Subsec. (b). Pub. L. 108–357 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The privilege under subsection (a) shall not apply to any written communication between a federally authorized tax practitioner and a director, shareholder, officer, or employee, agent, or representative of a corporation in connection with the promotion of the direct or indirect participation of such corporation in any tax shelter (as defined in section 6662(d)(2)(C)(iii)).”
 
 #### Effective Date of 2004 Amendment
 

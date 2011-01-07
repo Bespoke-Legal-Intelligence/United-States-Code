@@ -78,9 +78,9 @@ The date of enactment of this subsection, referred to in subsec. (e)(1), is the 
 
 #### Amendments
 
-2005—Subsec. (e). Pub. L. 109–59 added subsec. (e).
+<b>2005</b>—Subsec. (e). Pub. L. 109–59 added subsec. (e).
 
-1994—Subsec. (a)(1). Pub. L. 103–440, §208(2), inserted “, including cold weather installation procedures” after “attendant structure”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–440, §208(2), inserted “, including cold weather installation procedures” after “attendant structure”.
 
 Subsec. (b). Pub. L. 103–440, §208(1), substituted “September 1, 1995” for “September 3, 1994”.
 

@@ -62,7 +62,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (ii) 3-year vesting
 
-&emsp;&emsp;&emsp;A plan satisfies the requirements of this clause if an employee who has completed at least 3 years of service has a nonforfeitable right to 100 percent of the employee's accrued benefit derived from employer contributions.
+&emsp;&emsp;&emsp;A plan satisfies the requirements of this clause if an employee who has completedat least 3 years of service has a nonforfeitable right to 100 percent of the employee's accrued benefit derived from employer contributions.
 
 #### (iii) 2 to 6 year vesting
 
@@ -86,7 +86,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;4
 
-60     
+60&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;5
 
@@ -134,7 +134,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (E) Cessation of contributions under a multiemployer plan
 
-&emsp;&emsp;A right to an accrued benefit derived from employer contributions under a multiemployer plan shall not be treated as forfeitable solely because the plan provides that benefits accrued as a result of service with the participant's employer before the employer had an obligation to contribute under the plan may not be payable if the employer ceases contributions to the multiemployer plan.
+&emsp;&emsp;A right to an accrued benefit derived from employer contributions under a multiemployer plan shall not be treated as forfeitable solely because the plan provides that benefits accrued as a result of service with the participant's employer before the employer had an obligation to contribute under the plan may not be payable if the employerceases contributions to the multiemployer plan.
 
 #### (F) Reduction and suspension of benefits by a multiemployer plan
 
@@ -292,7 +292,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (C) Repayment of subparagraph (B) distributions
 
-&emsp;&emsp;For purposes of determining the employee's accrued benefit under a plan, the plan may not disregard service as provided in subparagraph (B) unless the plan provides an opportunity for the participant to repay the full amount of the distribution described in such subparagraph (B) with, in the case of a defined benefit plan, interest at the rate determined for purposes of subsection (c)(2)(C) and provides that upon such repayment the employee's accrued benefit shall be recomputed by taking into account service so disregarded. This subparagraph shall apply only in the case of a participant who—
+&emsp;&emsp;For purposes of determining the employee's accrued benefit under a plan, the plan may not disregard service as provided insubparagraph (B) unless the plan provides an opportunity for the participant to repay the full amount of the distribution described in such subparagraph (B) with, in the case of a defined benefit plan, interest at the rate determined for purposes of subsection (c)(2)(C) and provides that upon such repayment the employee's accrued benefit shall be recomputed by taking into account service so disregarded. This subparagraph shall apply only in the case of a participant who—
 
 &emsp;&emsp;&emsp;(i) received such a distribution in any plan year to which this section applies, which distribution was less than the present value of his accrued benefit,
 
@@ -372,7 +372,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;&emsp;(ii) the requirements of subsection (a)(11) or (c), or the requirements of section 417(e), with respect to accrued benefits derived from employer contributions,
 
-> &emsp;&emsp;solely because the present value of the accrued benefit (or any portion thereof) of any participant is, under the terms of the plan, equal to the amount expressed as the balance in the hypothetical account described in subparagraph (C) or as an accumulatedpercentage of the participant's final average compensation.
+> &emsp;&emsp;solely because the present value of the accrued benefit (or any portion thereof) of any participant is, under the terms of the plan, equal to the amount expressed as the balance in the hypothetical account described in subparagraph (C) or as an accumulated percentage of the participant's final average compensation.
 
 #### (B) 3-year vesting
 
@@ -418,7 +418,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (C) Fractional rule
 
-&emsp;&emsp;A defined benefits plan satisfies the requirements of this paragraph if the accrued benefit to which any participant is entitled upon his separation from the service is not less than a fraction of the annual benefit commencing at normal retirement age to which he would be entitled under the plan as in effect on the date of his separation if he continued to earn annually until normal retirement age the same rate of compensation upon which his normal retirement benefit would be computed under the plan, determined as if he had attained normal retirement age on the date on which any such determination is made (but taking into account no more than the 10 years of service immediately preceding his separation from service). Such fraction shall be a fraction, not exceeding 1, the numerator of which is the total number of his years of participation in the plan (as of the date of his separation from the service) and the denominator of which is the total number of years he would have participated in the plan if he separated from the service at the normal retirement age. For purposes of this subparagraph, social security benefits and all other relevant factors used to compute benefits shall be treated as remaining constant as of the current year for all years after such current year.
+&emsp;&emsp;A defined benefits plan satisfies the requirements of this paragraph if the accrued benefit to which any participant is entitled upon his separation from the service is not less than a fraction of the annual benefit commencing at normal retirement age to which he would be entitled under the plan as in effect on the date of his separation if he continued to earn annually until normal retirement age the same rate of compensation upon which his normal retirement benefit would be computed under the plan, determined as if he had attained normal retirement age on the date on which any such determination is made (but taking into account no more than the 10 years of service immediately preceding his separation from service). Such fraction shall be a fraction, not exceeding 1, the numerator of which is the total number of his years of participation in the plan (as of the date of his separation from the service) and the denominatorof which is the total number of years he would have participated in the plan if he separated from the service at the normal retirement age. For purposes of this subparagraph, social security benefits and all other relevant factors used to compute benefits shall be treated as remaining constant as of the current year for all years after such current year.
 
 #### (D) Accrual for service before effective date
 
@@ -482,7 +482,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (A) In general
 
-&emsp;&emsp;A defined contribution plan satisfies the requirements of this paragraph if, under the plan, allocations to the employee's accountare not ceased, and the rate at which amounts are allocated to the employee's account is not reduced, because of the attainment of any age.
+&emsp;&emsp;A defined contribution plan satisfies the requirements of this paragraph if, under the plan, allocations to the employee's account are not ceased, and the rate at which amounts are allocated to the employee's account is not reduced, because of the attainment of any age.
 
 #### (B) Application to target benefit plans
 
@@ -742,7 +742,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;&emsp;&emsp;(II) the terms of both the transferor plan and the transferee plan authorize the transfer described in subclause (I),
 
-&emsp;&emsp;&emsp;&emsp;(III) the transfer described in subclause (I) was made pursuant to a voluntaryelection by the participant or beneficiary whose account was transferred to the transferee plan,
+&emsp;&emsp;&emsp;&emsp;(III) the transfer described in subclause (I) was made pursuant to a voluntary election by the participant or beneficiary whose account was transferred to the transferee plan,
 
 &emsp;&emsp;&emsp;&emsp;(IV) the election described in subclause (III) was made after the participant or beneficiary received a notice describing the consequences of making the election, and
 
@@ -790,7 +790,7 @@ The Social Security Act, referred to in subsecs. (a)(9) and (b)(1)(G), is act Au
 
 #### Amendments
 
-2008—Subsec. (a)(3)(C). Pub. L. 110–458, §101(d)(2)(D)(i), substituted “section 412(d)(2)” for “section 412(c)(2)”.
+<b>2008</b>—Subsec. (a)(3)(C). Pub. L. 110–458, §101(d)(2)(D)(i), substituted “section 412(d)(2)” for “section 412(c)(2)”.
 
 Subsec. (a)(3)(G). Pub. L. 110–458, §109(b)(2), substituted “permissible withdrawal” for “erroneous automatic contribution” in heading and “a permissible withdrawal” for “an erroneous automatic contribution” in text.
 
@@ -804,7 +804,7 @@ Subsec. (b)(5)(C). Pub. L. 110–458, §107(b)(1)(B), inserted “otherwise” b
 
 Subsec. (d)(6)(A). Pub. L. 110–458, §101(d)(2)(D)(ii), substituted “section 412(d)(2)” for “section 412(e)(2)”.
 
-2006—Subsec. (a)(2). Pub. L. 109–280, §904(a)(1), reenacted heading without change and amended text of par. (2) generally, substituting provisions relating to vesting requirements under defined benefit plans and defined contribution plans for provisions relating to 5-year vesting and 3 to 7 year vesting under all plans.
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–280, §904(a)(1), reenacted heading without change and amended text of par. (2) generally, substituting provisions relating to vesting requirements under defined benefit plans and defined contribution plans for provisions relating to 5-year vesting and 3 to 7 year vesting under all plans.
 
 Subsec. (a)(3)(C). Pub. L. 109–280, §114(b)(1), substituted “412(c)(2)” for “412(c)(8)”.
 
@@ -820,9 +820,9 @@ Subsec. (b)(5). Pub. L. 109–280, §701(b)(1), added par. (5).
 
 Subsec. (d)(6)(A). Pub. L. 109–280, §114(b)(3), substituted “412(e)(2)” for “412(c)(8)”.
 
-2004—Subsec. (a)(12)(B). Pub. L. 108–311 substituted “6 or more” for “6” in table.
+<b>2004</b>—Subsec. (a)(12)(B). Pub. L. 108–311 substituted “6 or more” for “6” in table.
 
-2001—Subsec. (a)(2). Pub. L. 107–16, §633(a)(1), substituted “Except as provided in paragraph (12), a plan” for “A plan” in introductory provisions.
+<b>2001</b>—Subsec. (a)(2). Pub. L. 107–16, §633(a)(1), substituted “Except as provided in paragraph (12), a plan” for “A plan” in introductory provisions.
 
 Subsec. (a)(11)(D). Pub. L. 107–16, §648(a)(1), added subpar. (D).
 
@@ -832,11 +832,11 @@ Subsec. (d)(6)(B). Pub. L. 107–16, §645(b)(1), inserted after second sentence
 
 Subsec. (d)(6)(D), (E). Pub. L. 107–16, §645(a)(1), added subpars. (D) and (E).
 
-1997—Subsec. (a)(7)(B)(i). Pub. L. 105–34, §1071(a)(2)(A), substituted “the dollar limit under section 411(a)(11)(A)” for “$3,500”.
+<b>1997</b>—Subsec. (a)(7)(B)(i). Pub. L. 105–34, §1071(a)(2)(A), substituted “the dollar limit under section 411(a)(11)(A)” for “$3,500”.
 
 Subsec. (a)(11)(A). Pub. L. 105–34, §1071(a)(1), substituted “$5,000” for “$3,500”.
 
-1996—Subsec. (a)(2). Pub. L. 104–188 substituted “subparagraph (A) or (B)” for “subparagraph (A), (B), or (C)” in introductory provisions and struck out subpar. (C) which read as follows: “
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–188 substituted “subparagraph (A) or (B)” for “subparagraph (A), (B), or (C)” in introductory provisions and struck out subpar. (C) which read as follows: “
 
 Multiemployer plans.—A plan satisfies the requirements of this subparagraph if—
 
@@ -848,7 +848,7 @@ Multiemployer plans.—A plan satisfies the requirements of this subparagraph if
 
 &emsp;&emsp;“(II) the requirements of subparagraph (A) or (B) are met with respect to employees not described in subclause (I).”
 
-1994—Subsec. (a)(11)(B). Pub. L. 103–465 reenacted subpar. (B) heading without change and amended text generally. Prior to amendment, text read as follows:
+<b>1994</b>—Subsec. (a)(11)(B). Pub. L. 103–465 reenacted subpar. (B) heading without change and amended text generally. Prior to amendment, text read as follows:
 
 “(i)
 
@@ -864,9 +864,9 @@ In general.—For purposes of subparagraph (A), the present value shall be calcu
 
 Applicable interest rate.—For purposes of clause (i), the term ‘applicable interest rate’ means the interest rate which would be used (as of the date of the distribution) by the Pension Benefit Guaranty Corporation for purposes of determining the present value of a lump sum distribution on plan termination.”
 
-1992—Subsec. (d)(3). Pub. L. 102–318 inserted at end “For purposes of this paragraph, in the case of the complete discontinuance of contributions under a profit-sharing or stock bonus plan, such plan shall be treated as having terminated on the day on which the plan administrator notifies the Secretary (in accordance with regulations) of the discontinuance.”
+<b>1992</b>—Subsec. (d)(3). Pub. L. 102–318 inserted at end “For purposes of this paragraph, in the case of the complete discontinuance of contributions under a profit-sharing or stock bonus plan, such plan shall be treated as having terminated on the day on which the plan administrator notifies the Secretary (in accordance with regulations) of the discontinuance.”
 
-1989—Subsec. (a)(3)(G). Pub. L. 101–239, §7861(a)(5)(A), added subpar. (G).
+<b>1989</b>—Subsec. (a)(3)(G). Pub. L. 101–239, §7861(a)(5)(A), added subpar. (G).
 
 Subsec. (a)(4)(A). Pub. L. 101–239, §7861(a)(6)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “years of service before age 18, except that in the case of a plan which does not satisfy subparagraph (A) or (B) of paragraph (2), the plan may not disregard any such year of service during which the employee was a participant;”.
 
@@ -896,7 +896,7 @@ In general.—In the case of a defined benefit plan providing an annual benefit 
 
 Appropriate conversion factor.—For purposes of clause (i), the term ‘appropriate conversion factor’ means the factor necessary to convert an amount equal to the accumulated contributions to a single life annuity (without ancillary benefits) commencing at normal retirement age and shall be 10 percent for a normal retirement age of 65 years. For other normal retirement ages the conversion factor shall be determined in accordance with regulations prescribed by the Secretary.”
 
-Subsec. (c)(2)(C)(iii). Pub. L. 101–239, §7881(m)(1)(A), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “interest on the sum of the amounts determined under clauses (i) and (ii) compounded annually at the rate of 120 percent of the Federal mid-term rate (as in effect under section 1274 forthe 1st month of a plan year) from the beginning of the first plan year to which subsection (a)(2) applies (by reason of the applicable effective date) to the date upon which the employee would attain normal retirement age.”
+Subsec. (c)(2)(C)(iii). Pub. L. 101–239, §7881(m)(1)(A), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “interest on the sum of the amounts determined under clauses (i) and (ii) compounded annually at the rate of 120 percent of the Federal mid-term rate (as in effect under section 1274 for the 1st month of a plan year) from the beginning of the first plan year to which subsection (a)(2) applies (by reason of the applicable effective date) to the date upon which the employee would attain normal retirement age.”
 
 Subsec. (c)(2)(E). Pub. L. 101–239, §7881(m)(1)(C), struck out subpar. (E) which read as follows: “
 
@@ -906,13 +906,13 @@ Limitation.—The accrued benefit derived from employee contributions shall not 
 
 &emsp;“(ii) the accrued benefit derived from employee contributions determined as though the amounts calculated under clauses (ii) and (iii) of subparagraph (C) were zero.”
 
-1988—Subsec. (a)(11)(A). Pub. L. 100–647 substituted “nonforfeitable” for “vested”.
+<b>1988</b>—Subsec. (a)(11)(A). Pub. L. 100–647 substituted “nonforfeitable” for “vested”.
 
-1987—Subsec. (c)(2)(C)(iii). Pub. L. 100–203, §9346(b)(1), substituted “120 percent of the Federal mid-term rate (as in effect under section 1274 for the 1st month of a plan year)” for “5 percent per annum”.
+<b>1987</b>—Subsec. (c)(2)(C)(iii). Pub. L. 100–203, §9346(b)(1), substituted “120 percent of the Federal mid-term rate (as in effect under section 1274 for the 1st month of a plan year)” for “5 percent per annum”.
 
 Subsec. (c)(2)(D). Pub. L. 100–203, §9346(b)(2), struck out “, the rate of interest described in clause (iii) of subparagraph (C), or both” before “from time to time” in first sentence and struck out second sentence which read as follows: “The rate of interest described in clause (iii) of subparagraph (C), or both, from time to time as he may deem necessary. The rate of interest shall bear the relationship to 5 percent which the Secretary determines to be comparable to the relationship which the long-term money rates and investment yields for the last period of 10 calendar years ending at least 12 months before the beginning of the plan year bear to the long-term money rates and investment yields for the 10-calendar year period 1964 through 1973.”
 
-1986—Subsec. (a). Pub. L. 99–514, §1898(d)(1)(A)(ii), inserted reference to par. (11) in introductory text.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1898(d)(1)(A)(ii), inserted reference to par. (11) in introductory text.
 
 Pub. L. 99–509, §9202(b)(3), substituted “subsection (b)(3), and also satisfies, in the case of a defined benefit plan, the requirements of subsection (b)(1) and, in the case of a defined contribution plan, the requirements of subsection (b)(2)” for “paragraph (2) of subsection (b), and in the case of a defined benefit plan, also satisfies the requirements of paragraph (1) of subsection (b)” in first sentence.
 
@@ -948,7 +948,7 @@ Pub. L. 99–514, §1898(a)(1)(A), substituted “Class-year” for “Class yea
 
 Subsec. (d)(6)(C). Pub. L. 99–514, §1898(f)(1)(A), added subpar. (C).
 
-1984—Subsec. (a)(4)(A). Pub. L. 98–397, §202(b), substituted “18” for “22”.
+<b>1984</b>—Subsec. (a)(4)(A). Pub. L. 98–397, §202(b), substituted “18” for “22”.
 
 Subsec. (a)(6)(C). Pub. L. 98–397, §202(c), substituted “5 consecutive 1-year breaks” for “1-year break”, in heading, and in text substituted “5 consecutive 1-year breaks in service” for “any 1-year break in service” and “such 5-year period” for “such break” in two places.
 
@@ -966,11 +966,11 @@ Subsec. (b)(3)(A). Pub. L. 98–397, §202(e)(3), inserted “, determined with
 
 Subsec. (d)(6). Pub. L. 98–397, §301(a)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-1980—Subsec. (a). Pub. L. 96–364, §206(1)–(4), in par. (3) added subpars. (E) and (F), and in par. (4) added subpar. (G).
+<b>1980</b>—Subsec. (a). Pub. L. 96–364, §206(1)–(4), in par. (3) added subpars. (E) and (F), and in par. (4) added subpar. (G).
 
 Subsec. (d)(6). Pub. L. 96–364, §206(5), inserted reference to section 4281 of the Employee Retirement Income Security Act of 1974.
 
-1976—Subsec. (a). Pub. L. 94–455, §§1901(a)(62)(A)–(C), 1906(b)(13)(A), substituted “paragraph (8)” for “subsection (a)(8)” in provisions preceding par. (1), substituted references to Sept. 2, 1974, for references to the date of enactment of the Employee Retirement Income Security Act of 1974 in par. (3)(D)(iii), struck out “orhis delegate” after “Secretary” in pars. (4)(C) and (7)(B), and substituted “(B)” for “(b)” in heading of par. (7)(C).
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1901(a)(62)(A)–(C), 1906(b)(13)(A), substituted “paragraph (8)” for “subsection (a)(8)” in provisions preceding par. (1), substituted references to Sept. 2, 1974, for references to the date of enactment of the Employee Retirement Income Security Act of 1974 in par. (3)(D)(iii), struck out “or his delegate” after “Secretary” in pars. (4)(C) and (7)(B), and substituted “(B)” for “(b)” in heading of par. (7)(C).
 
 Subsec. (b)(1)(D)(i). Pub. L. 94–455, §1901(a)(62)(D), substituted reference to Sept. 2, 1974, for reference to the date of enactment of the Employee Retirement Income Security Act of 1974.
 
@@ -986,7 +986,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 114(a) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 114(g)(1) of Pub. L. 109–280, as added by Pub. L. 110–458, set out as a note under section 401 of this title.
+Amendment by section 114(b) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 114(g)(1) of Pub. L. 109–280, as added by Pub. L. 110–458, set out as a note under section 401 of this title.
 
 Pub. L. 109–280, title VII, §701(e), Aug. 17, 2006, 120 Stat. 991, as amended by Pub. L. 110–458, title I, §107(c)(2), Dec. 23, 2008, 122 Stat. 5107, provided that:
 
@@ -1066,7 +1066,7 @@ Pub. L. 107–16, title VI, §633(c), June 7, 2001, 115 Stat. 116, provided that
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and section 1053 of Title 29, Labor\] shall apply to contributions for plan years beginning after December 31, 2001.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 1053 of Title 29, Labor\] shall apply to contributions for plan years beginning after December 31, 2001.
 
 “(2)
 
@@ -1146,7 +1146,7 @@ Amendment by section 7861(a)(5)(A), (6)(A) of Pub. L. 101–239 effective as if 
 
 Section 7871(a)(4) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amending this section and section 1054 of Title 29, Labor\] shall take effect as if included in the amendments made by section 9202 of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
 
-Section 7871(b)(3) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amending this section and section 1002 of Title 29, Labor\] shall take effect as if included in the amendments made by section 9203 of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
+Section 7871(b)(3) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amendingthis section and section 1002 of Title 29, Labor\] shall take effect as if included in the amendments made by section 9203 of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
 
 Amendment by section 7881(m)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of this title.
 
@@ -1246,7 +1246,7 @@ Amendment by section 1901(a)(62) of Pub. L. 94–455 effective for taxable years
 
 #### Effective Date
 
-Section applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, and, in the case of plans in existence on Jan. 1, 1974, for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L.93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
+Section applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, and, in the case of plans in existence on Jan. 1, 1974, for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
 
 #### Regulations
 
@@ -1288,7 +1288,7 @@ Pub. L. 109–280, title VII, §701(d), Aug. 17, 2006, 120 Stat. 991, as amended
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
 
 #### Provisions Relating to Plan Amendments
 
@@ -1416,7 +1416,7 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L.102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

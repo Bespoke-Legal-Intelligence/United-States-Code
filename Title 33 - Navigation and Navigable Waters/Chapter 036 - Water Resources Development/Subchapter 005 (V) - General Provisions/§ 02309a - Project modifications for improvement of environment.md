@@ -34,7 +34,7 @@ The Secretary shall coordinate any actions taken pursuant to this section with a
 
 #### (g) Nonprofit entities
 
-Notwithstanding section 1962d–5b of title 42, a non-Federal sponsor for any project carried out under this section may include a nonprofit entity, with the consent of the affected local government.
+Notwithstanding section 1962d–5b of title 42, a non-Federal sponsor for any project carried outunder this section may include a nonprofit entity, with the consent of the affected local government.
 
 #### (h) Authorization of appropriations
 
@@ -54,13 +54,13 @@ Section was formerly set out as a note under section 2294 of this title.
 
 #### Amendments
 
-2007—Subsec. (h). Pub. L. 110–114 substituted “$40,000,000” for “$25,000,000”.
+<b>2007</b>—Subsec. (h). Pub. L. 110–114 substituted “$40,000,000” for “$25,000,000”.
 
-2000—Subsecs. (g) to (i). Pub. L. 106–541 added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
+<b>2000</b>—Subsecs. (g) to (i). Pub. L. 106–541 added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
-1999—Subsec. (c). Pub. L. 106–53 designated existing provisions as par. (1), inserted heading, and added par. (2).
+<b>1999</b>—Subsec. (c). Pub. L. 106–53 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-1996—Subsec. (a). Pub. L. 104–303, §204(a), struck out “the operation of” after “to review” and inserted before period at end “and to determine if the operation of such projects has contributed to the degradation of the quality of the environment”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–303, §204(a), struck out “the operation of” after “to review” and inserted before period at end “and to determine if the operation of such projects has contributed to the degradation of the quality of the environment”.
 
 Subsec. (b). Pub. L. 104–303, §204(b), struck out at end “The non-Federal share of the cost of any modifications carried out under this section shall be 25 percent. No modification shall be carried out under this section without specific authorization by Congress if the estimated cost exceeds $5,000,000.”
 
@@ -74,11 +74,11 @@ Subsec. (g). Pub. L. 104–303, §204(c)(1), redesignated subsec. (e) as (g).
 
 Subsec. (h). Pub. L. 104–303, §204(d), added subsec. (h).
 
-1992—Subsec. (b). Pub. L. 102–580, §202(1), inserted at end “No modification shall be carried out under this section without specific authorization by Congress if the estimated cost exceeds $5,000,000.”
+<b>1992</b>—Subsec. (b). Pub. L. 102–580, §202(1), inserted at end “No modification shall be carried out under this section without specific authorization by Congress if the estimated cost exceeds $5,000,000.”
 
 Subsec. (e). Pub. L. 102–580, §202(2), substituted “$25,000,000” for “$15,000,000”.
 
-1990—Subsec. (a). Pub. L. 101–640, §304(a), struck out “before the date of enactment of this Act” after “constructed by the Secretary”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–640, §304(a), struck out “before the date of enactment of this Act” after “constructed by the Secretary”.
 
 Subsec. (b). Pub. L. 101–640, §304(b), substituted “program” for “demonstration program in the 5-year period beginning on the date of enactment of this Act” and struck out “before the date of enactment of this Act” after “constructed by the Secretary”.
 
@@ -86,7 +86,7 @@ Subsec. (d). Pub. L. 101–640, §304(c), amended subsec. (d) generally. Prior t
 
 Subsec. (e). Pub. L. 101–640, §304(d), substituted “$15,000,000 annually to carry out this section” for “$25,000,000 to carry out this section”.
 
-1988—Subsec. (b). Pub. L. 100–676, §41(a), substituted “5-year period” for “two-year period”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–676, §41(a), substituted “5-year period” for “two-year period”.
 
 Subsec. (d). Pub. L. 100–676, §41(b), substituted “5 years” for “two years”.
 

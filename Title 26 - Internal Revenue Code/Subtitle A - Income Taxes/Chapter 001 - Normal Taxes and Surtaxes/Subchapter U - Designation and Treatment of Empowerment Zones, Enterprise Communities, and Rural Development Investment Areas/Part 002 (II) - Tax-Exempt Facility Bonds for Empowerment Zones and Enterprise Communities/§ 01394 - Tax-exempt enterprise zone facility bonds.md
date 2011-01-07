@@ -168,9 +168,9 @@ A prior section 1395, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 
 
 #### Amendments
 
-2002—Subsec. (c)(2). Pub. L. 107–147 substituted “paragraph (1)” for “subparagraph (A)”.
+<b>2002</b>—Subsec. (c)(2). Pub. L. 107–147 substituted “paragraph (1)” for “subparagraph (A)”.
 
-2000—Subsec. (b)(2). Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(3)(A)\], substituted “section 1397D” for “section 1397C” in introductory provisions.
+<b>2000</b>—Subsec. (b)(2). Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(3)(A)\], substituted “section 1397D” for “section 1397C” in introductory provisions.
 
 Subsec. (b)(2)(B). Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(3)(B)\], substituted “section 1397D(a)(2)” for “section 1397C(a)(2)”.
 
@@ -180,7 +180,7 @@ Subsec. (b)(3)(B)(iii). Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(4)(B)\]
 
 Subsec. (f)(3). Pub. L. 106–554, §1(a)(7) \[title I, §115(a)\], amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “For purposes of this subsection, the term ‘new empowerment zone facility bond’ means any bond which would be described in subsection (a) if only empowerment zones designated under section 1391(g) were taken into account under sections 1397B and 1397C.”
 
-1997—Subsec. (b)(2). Pub. L. 105–34, §955(b), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘qualified zoneproperty’ has the meaning given such term by section 1397C; except that the references to empowerment zones shall be treated as including references to enterprise communities.”
+<b>1997</b>—Subsec. (b)(2). Pub. L. 105–34, §955(b), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘qualified zone property’ has the meaning given such term by section 1397C; except that the references to empowerment zones shall be treated as including references to enterprise communities.”
 
 Subsec. (b)(3). Pub. L. 105–34, §955(b), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The term ‘enterprise zone business’ has the meaning given to such term by section 1397B, except that—
 
@@ -190,7 +190,7 @@ Subsec. (b)(3). Pub. L. 105–34, §955(b), amended heading and text of par. (3)
 
 Subsec. (f). Pub. L. 105–34, §953(a), added subsec. (f).
 
-1996—Subsec. (e)(2). Pub. L. 104–188, which directed that par. (2) be amended by striking “(i)” and inserting “(A)” and by striking “(ii)” and inserting “(B)”, could not be executed, because par. (2) contained neither “(i)” nor “(ii)”.
+<b>1996</b>—Subsec. (e)(2). Pub. L. 104–188, which directed that par. (2) be amended by striking “(i)” and inserting “(A)” and by striking “(ii)” and inserting “(B)”, could not be executed, because par. (2) contained neither “(i)” nor “(ii)”.
 
 #### Effective Date of 2000 Amendment
 

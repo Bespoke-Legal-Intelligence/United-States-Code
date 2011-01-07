@@ -10,11 +10,9 @@
 
 &emsp;&emsp;(B) to conduct investigations, audits, evaluations, and inspections relating to the delivery of and payment for health care in the United States,
 
-&emsp;&emsp;(C) to facilitate the enforcement of the provisions of sections 1320a–7, 1320a–7a, and 1320a–7b of this title and other statutes applicable to health care fraud and abuse,
+&emsp;&emsp;(C) to facilitate the enforcement of the provisions of sections 1320a–7, 1320a–7a, and 1320a–7b of this title and other statutes applicable to health care fraud and abuse, and
 
-&emsp;&emsp;(D) to provide for the modification and establishment of safe harbors and to issue advisory opinions and special fraud alerts pursuant to section 1320a–7d of this title, and
-
-&emsp;&emsp;(E) to provide for the reporting and disclosure of certain final adverse actions against health care providers, suppliers, or practitioners pursuant to the data collection system established under section 1320a–7e of this title.
+&emsp;&emsp;(D) to provide for the modification and establishment of safe harbors and to issue advisory opinions and special fraud alerts pursuant to section 1320a–7d of this title.
 
 #### (2) Coordination with health plans
 
@@ -68,9 +66,17 @@ For purposes of this section, the term “health plan” means a plan or program
 
 &emsp;(3) a membership agreement with a health maintenance organization or other prepaid health plan.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128C, as added Pub. L. 104–191, title II, §201(a), Aug. 21, 1996, 110 Stat. 1992.)
+(Aug. 14, 1935, ch. 531, title XI, §1128C, as added Pub. L. 104–191, title II, §201(a), Aug. 21, 1996, 110 Stat. 1992; amended Pub. L. 111–148, title VI, §6403(c), Mar. 23, 2010, 124 Stat. 766.)
 
 #### References in Text
 
 The Inspector General Act of 1978, referred to in subsec. (a)(4), (5), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (a)(1)(C) to (E). Pub. L. 111–148 inserted “and” at end of subpar. (C), substituted period for “, and” at end of subpar. (D), and struck out subpar. (E) which read as follows: “to provide for the reporting and disclosure of certain final adverse actions against health care providers, suppliers, or practitioners pursuant to the data collection system established under section 1320a–7e of this title.”
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–148 effective on the first day after the final day of the transition period defined in section 6403(d)(5) of Pub. L. 111–148, see section 6403(d)(6) of Pub. L. 111–148, set out as a Transition Process; Regulations; Effective Date of 2010 Amendment note under section 1320a–7e of this title.
 

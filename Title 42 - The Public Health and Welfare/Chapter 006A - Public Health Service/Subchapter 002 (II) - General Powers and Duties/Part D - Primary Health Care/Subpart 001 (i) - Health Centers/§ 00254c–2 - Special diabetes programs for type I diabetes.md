@@ -18,21 +18,23 @@ The Secretary, directly or through grants, shall provide for research into the p
 
 &emsp;&emsp;(B) $100,000,000 for fiscal year 2003; and
 
-&emsp;&emsp;(C) $150,000,000 for each of fiscal years 2004 through 2011.
+&emsp;&emsp;(C) $150,000,000 for each of fiscal years 2004 through 2013.
 
-(July 1, 1944, ch. 373, title III, §330B, as added Pub. L. 105–33, title IV, §4921, Aug. 5, 1997, 111 Stat. 574; amended Pub. L. 105–34, title XVI, §1604(f)(1)(B), (C), Aug. 5, 1997, 111 Stat. 1098; Pub. L. 106–554, §1(a)(6) \[title IX, §931(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 107–360, §1(a), Dec. 17, 2002, 116 Stat. 3019; Pub. L. 110–173, title III, §302(a), Dec. 29, 2007, 121 Stat. 2514; Pub. L. 110–275, title III, §303(a), July 15, 2008, 122 Stat. 2594.)
+(July 1, 1944, ch. 373, title III, §330B, as added Pub. L. 105–33, title IV, §4921, Aug. 5, 1997, 111 Stat. 574; amended Pub. L. 105–34, title XVI, §1604(f)(1)(B), (C), Aug. 5, 1997, 111 Stat. 1098; Pub. L. 106–554, §1(a)(6) \[title IX, §931(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 107–360, §1(a), Dec. 17, 2002, 116 Stat. 3019; Pub. L. 110–173, title III, §302(a), Dec. 29, 2007, 121 Stat. 2514; Pub. L. 110–275, title III, §303(a), July 15, 2008, 122 Stat. 2594; Pub. L. 111–309, title I, §112(1), Dec. 15, 2010, 124 Stat. 3289.)
 
 #### Amendments
 
-2008—Subsec. (b)(2)(C). Pub. L. 110–275 substituted “2011” for “2009”.
+<b>2010</b>—Subsec. (b)(2)(C). Pub. L. 111–309 substituted “2013” for “2011”.
 
-2007—Subsec. (b)(2)(C). Pub. L. 110–173 substituted “2009” for “2008”.
+<b>2008</b>—Subsec. (b)(2)(C). Pub. L. 110–275 substituted “2011” for “2009”.
 
-2002—Subsec. (b)(2)(C). Pub. L. 107–360 added subpar. (C).
+<b>2007</b>—Subsec. (b)(2)(C). Pub. L. 110–173 substituted “2009” for “2008”.
 
-2000—Subsec. (b). Pub. L. 106–554 designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+<b>2002</b>—Subsec. (b)(2)(C). Pub. L. 107–360 added subpar. (C).
 
-1997—Pub. L. 105–34, §1604(f)(1)(B), amended directory language of Pub. L. 105–33, §4921, which enacted this section.
+<b>2000</b>—Subsec. (b). Pub. L. 106–554 designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+
+<b>1997</b>—Pub. L. 105–34, §1604(f)(1)(B), amended directory language of Pub. L. 105–33, §4921, which enacted this section.
 
 Pub. L. 105–34, §1604(f)(1)(C)(i), struck out “children with” before “type I diabetes” in section catchline.
 

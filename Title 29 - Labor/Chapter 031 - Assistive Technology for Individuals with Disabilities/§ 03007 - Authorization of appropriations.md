@@ -10,7 +10,7 @@
 
 #### (A) Definition
 
-&emsp;&emsp;In this paragraph, the term “higher appropriation year” means a fiscal year for which the amount appropriated under paragraph (1) and made available to carry out section 3003 of this title is at least $665,000 greater than the amount that—
+&emsp;&emsp;In this paragraph, the term “higher appropriation year” means a fiscal year for whichthe amount appropriated under paragraph (1) and made available to carry out section 3003 of this title is at least $665,000 greater than the amount that—
 
 &emsp;&emsp;&emsp;(i) was appropriated under section 3015 of this title (as in effect on October 1, 2003) for fiscal year 2004; and
 

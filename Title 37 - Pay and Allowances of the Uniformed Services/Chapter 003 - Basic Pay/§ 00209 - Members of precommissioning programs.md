@@ -54,13 +54,13 @@ Historical and Revision Notes
 
 #### Amendments
 
-2003—Subsecs. (c) to (e). Pub. L. 108–136 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+<b>2003</b>—Subsecs. (c) to (e). Pub. L. 108–136 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-2002—Subsec. (d). Pub. L. 107–314 amended Pub. L. 106–398, §1 \[\[div. A\], title VI, §612(c)(4)(B)\]. See 2000 Amendment note below.
+<b>2002</b>—Subsec. (d). Pub. L. 107–314 amended Pub. L. 106–398, §1 \[\[div. A\], title VI, §612(c)(4)(B)\]. See 2000 Amendment note below.
 
-2001—Subsec. (c). Pub. L. 107–107 inserted before period at end “, except that the rate for a cadet or midshipman who is a member of the regular component of an armed force shall be the rate of basic pay applicable to the member under section 203 of this title”.
+<b>2001</b>—Subsec. (c). Pub. L. 107–107 inserted before period at end “, except that the rate for a cadet or midshipman who is a member of the regular component of an armed force shall be the rate of basic pay applicable to the member under section 203 of this title”.
 
-2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §612(b), (c)(1)\], inserted heading, designated first sentence as par. (1), substituted “monthly subsistence allowance at a rate prescribed under paragraph (2)” for “subsistence allowance of $200 a month”, added par. (2), designated last sentence as par. (3), and substituted “A subsistence” for “Subsistence”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §612(b), (c)(1)\], inserted heading, designated first sentence as par. (1), substituted “monthly subsistence allowance at a rate prescribed under paragraph (2)” for “subsistence allowance of $200 a month”, added par. (2), designated last sentence as par. (3), and substituted “A subsistence” for “Subsistence”.
 
 Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §612(c)(2)\], inserted heading and substituted “at a rate prescribed under subsection (a)” for “in the amount provided in subsection (a)” in text.
 
@@ -70,41 +70,41 @@ Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title VI, §612(c)(4)(B)\], as
 
 Pub. L. 106–398, §1 \[\[div. A\], title VI, §612(c)(4)(A)\], inserted heading.
 
-1999—Subsec. (a). Pub. L. 106–65 substituted “$200 a month” for “$150 a month”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–65 substituted “$200 a month” for “$150 a month”.
 
-1994—Subsec. (a). Pub. L. 103–337 substituted “$150 a month” for “$100 a month”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337 substituted “$150 a month” for “$100 a month”.
 
-1991—Subsecs. (b) and (d). Pub. L. 102–25 struck out “of this section” after “subsection (a)” wherever appearing.
+<b>1991</b>—Subsecs. (b) and (d). Pub. L. 102–25 struck out “of this section” after “subsection (a)” wherever appearing.
 
-1989—Subsec. (c). Pub. L. 101–189 which directed striking out the period after “title 10” the first place it appears, was executed by striking the period after “the cadet or midshipman is commissioned” to reflect the probable intent of Congress.
+<b>1989</b>—Subsec. (c). Pub. L. 101–189 which directed striking out the period after “title 10” the first place it appears, was executed by striking the period after “the cadet or midshipman is commissioned” to reflect the probable intent of Congress.
 
-1988—Subsec. (c). Pub. L. 100–456 substituted “training or practice cruises under chapter 103 of title 10 if the training or cruise is of at least four weeks duration and must be completed before the cadet or midshipman is commissioned.” for “field training or practice cruises under section 2109 of title 10”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–456 substituted “training or practice cruises under chapter 103 of title 10 if the training or cruise is of at least four weeks duration and must be completed before the cadet or midshipman is commissioned.” for “field training or practice cruises under section 2109 of title 10”.
 
-1983—Subsec. (a). Pub. L. 98–94 substituted “30 months” for “20 months”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–94 substituted “30 months” for “20 months”.
 
-1980—Subsec. (a). Pub. L. 96–513 substituted “section 6(d)(1) of the Military Selective Service Act (50 U.S.C. App. 456(d)(1))” for “section 456(d)(1) of title 50, appendix”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “section 6(d)(1) of the Military Selective Service Act (50 U.S.C. App. 456(d)(1))” for “section 456(d)(1) of title 50, appendix”.
 
 Subsec. (d). Pub. L. 96–579 struck out par. (1) designation and par. (2) prohibiting payment of subsistence allowance for any period after Sept. 30, 1982.
 
 Pub. L. 96–342 added subsec. (d).
 
-1977—Pub. L. 95–79, §302(a)(3)(B), substituted “Members of precommissioning programs” for “Members of Senior Reserve Officers’ Training Corps” in section catchline.
+<b>1977</b>—Pub. L. 95–79, §302(a)(3)(B), substituted “Members of precommissioning programs” for “Members of Senior Reserve Officers’ Training Corps” in section catchline.
 
 Subsec. (c). Pub. L. 95–79, §302(a)(3)(A), substituted provisions authorizing rates of pay for cadets and midshipmen in the Senior Reserve Officers’ Training Corps and applicants for membership in the Corps to be computed under section 203(c) of this title, for provisions authorizing rates of pay for members of the Senior Reserve Officers’ Training Corps to be computed under section 201(c) of this title and for applicants for membership in the Corps to be computed under section 203 of this title for enlisted members in pay grade E–1.
 
-1971—Subsec. (a). Pub. L. 92–171, §1(1), substituted “a subsistence allowance of $100 a month” for “subsistence allowance at the rate of not less than $40 per month or more than $50 per month”.
+<b>1971</b>—Subsec. (a). Pub. L. 92–171, §1(1), substituted “a subsistence allowance of $100 a month” for “subsistence allowance at the rate of not less than $40 per month or more than $50 per month”.
 
 Subsec. (b). Pub. L. 92–171, §1(2), substituted “a monthly subsistence allowance in the amount provided in subsection (a) of this section. A member enrolled in the first two years of a four-year program is entitled to receive subsistence for a maximum of twenty months. A member enrolled in the advanced course is entitled to subsistence as prescribed for a member enrolled under section 2104 of title 10 as prescribed in subsection (a) of this section.” for “subsistence allowance at the rate of $50 a month beginning on the day that he starts his first term of college work under that section and ending upon the completion of his instruction under that section, but not for more than four years.”
 
-1966—Subsec. (a). Pub. L. 89–718, §51(1), struck out “, United States Code,” after “section 2104 of title 10”, and substituted “20” for “twenty” and “section 456(d)(1) of title 50, appendix” for “section 6(d)(1) of the Universal Military Training and Service Act, as amended (50 U.S.C. App. 456(d)(1))”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–718, §51(1), struck out “, United States Code,” after “section 2104 of title 10”, and substituted “20” for “twenty” and “section 456(d)(1) of title 50, appendix” for “section 6(d)(1) of the Universal Military Training and Service Act, as amended (50 U.S.C. App. 456(d)(1))”.
 
 Subsec. (c). Pub. L. 89–718, §51(2), struck out “, United States Code,” after “section 2104(b)(6)(B) of title 10”.
 
-1965—Subsec. (a). Pub. L. 89–51 substituted “subsistence allowance” and “Subsistence allowance” for “retainer pay” and “Retainer pay”, respectively.
+<b>1965</b>—Subsec. (a). Pub. L. 89–51 substituted “subsistence allowance” and “Subsistence allowance” for “retainer pay” and “Retainer pay”, respectively.
 
 Subsec. (b). Pub. L. 89–51 substituted “subsistence allowance” for “retainer pay”.
 
-1964—Pub. L. 88–647 substituted provisions which grant a trainee under section 2104 of title 10, retainer pay of from $40 to $50 monthly for his instruction period under said section 2104, limited to not more than 20 months, provide that such assistance does not fall within section 456(d)(1) of title 50 App., grant cadets or midshipmen under section 2107 of title 10 retainer pay, limited to not more than 4 years, authorize pay for trainees attending field training or practice cruises under section 2109 of title 10 at the rate prescribed for cadets and midshipmen at the military academies under section 201(c) of this title, and pay for applicants attending field training or practice cruises to satisfy section 2104(b)(6)(B) of title 10, as in section 203 of this title for enlisted men grade E–1, for provisions entitling midshipmen appointed under section 6904 of title 10 to $50 a month for his instruction period up to 4 academic years, seamen recruits under section 6905 of title 10 to $50 monthly for his instruction period under said section 6905, and midshipmen in flight training or on flight duty under section 6906 of title 10 to pay as for midshipmen at the Naval Academy plus an amount equal to 50 percent of his pay for flight duty.
+<b>1964</b>—Pub. L. 88–647 substituted provisions which grant a trainee under section 2104 of title 10, retainer pay of from $40 to $50 monthly for his instruction period under said section 2104, limited to not more than 20 months, provide that such assistance does not fall within section 456(d)(1) of title 50 App., grant cadets or midshipmen under section 2107 of title 10 retainer pay, limited to not more than 4 years, authorize pay for trainees attending field training or practice cruises under section 2109 of title 10 at the rate prescribed for cadets and midshipmen at the military academies under section 201(c) of this title, and pay for applicants attending field training or practice cruises to satisfy section 2104(b)(6)(B) of title 10, as in section 203 of this title for enlisted men grade E–1, for provisions entitling midshipmen appointed under section 6904 of title 10 to $50 a month for his instruction period up to 4 academic years, seamen recruits under section 6905 of title 10 to $50 monthly for his instruction period under said section 6905, and midshipmen in flight training or on flight duty under section 6906 of title 10 to pay as for midshipmen at the Naval Academy plus an amount equal to 50 percent of his pay for flight duty.
 
 #### Effective Date of 2003 Amendment
 

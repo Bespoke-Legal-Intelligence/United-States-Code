@@ -28,7 +28,7 @@ Section 815 of Pub. L. 101–549 provided that:
 
 “(a)
 
-In General.—The Administrator of the Environmental Protection Agency (hereinafter referred to as the ‘Administrator’) is authorized, in cooperation with the Department of State and the affected States, to negotiate with representatives of Mexico to authorize a program to monitor and improve air quality in regions along the border between the United States and Mexico. The program established under this section shall not extend beyond July 1, 1995.
+In General.—The Administrator of the Environmental Protection Agency (hereinafter referred to as the ‘Administrator’) is authorized, in cooperation with the Department of State and the affected States, to negotiate with representatives of Mexico to authorize a program to monitor and improve air quality in regionsalong the border between the United States and Mexico. The program established under this section shall not extend beyond July 1, 1995.
 
 “(b)
 
@@ -55,4 +55,8 @@ Funding and Personnel.—The Administrator may, where appropriate, make availabl
 &emsp;“(2) inspect premises, equipment and records to insure compliance with the agreements established under and the purposes set forth in this section; and
 
 &emsp;“(3) where necessary, develop grant agreements with affected States to carry out the provisions of this section.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
+
+<i><sup>2</sup></i><i> So in original. Section 7512(b) of this title does not contain a par. (9).</i>
 

@@ -1,6 +1,6 @@
 ### §307. Under Secretary for Memorial Affairs
 
-There is in the Department an Under Secretary for Memorial Affairs, who is appointed bythe President, by and with the advice and consent of the Senate. The Under Secretary is the head of the National Cemetery Administration as established in section 2400 of this title and shall perform such functions as may be assigned by the Secretary.
+There is in the Department an Under Secretary for Memorial Affairs, who is appointed by the President, by and with the advice and consent of the Senate. The Under Secretary is the head of the National Cemetery Administration as established in section 2400 of this title and shall perform such functions as may be assigned by the Secretary.
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 381; amended Pub. L. 105–368, title IV, §403(a)(3), (c)(1)(A), Nov. 11, 1998, 112 Stat. 3338.)
 
@@ -10,7 +10,7 @@ Provisions similar to those in this section were contained in section 3(d) of Pu
 
 #### Amendments
 
-1998—Pub. L. 105–368, §403(c)(1)(A), substituted “Under Secretary for Memorial Affairs” for “Director of the National Cemetery System” in section catchline.
+<b>1998</b>—Pub. L. 105–368, §403(c)(1)(A), substituted “Under Secretary for Memorial Affairs” for “Director of the National Cemetery System” in section catchline.
 
 Pub. L. 105–368, §403(a)(3), in first sentence, substituted “an Under Secretary for Memorial Affairs” for “a Director of the National Cemetery System” and, in second sentence, substituted “The Under Secretary is the head of the National Cemetery Administration” for “The Director is the head of the National Cemetery System”.
 

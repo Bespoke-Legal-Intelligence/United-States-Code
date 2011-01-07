@@ -8,7 +8,7 @@
 
 &emsp;(3) the housing, care, and security of persons held in custody of a United States marshal pursuant to Federal law under agreements with State or local units of government or contracts with private entities.
 
-(b) The Attorney General, in support of Federal prisoner detainees in non-Federal institutions, is authorized to make payments, from funds appropriated for State and local law enforcement assistance, for entering into contracts or cooperative agreements with any State, territory, or political subdivision thereof, for the necessary construction, physical renovation, acquisition of equipment, supplies, or materials required to establish acceptable conditions of confinement and detention services inany State or local jurisdiction which agrees to provide guaranteed bed space for Federal detainees within that correctional system, in accordance with regulations which are issued by the Attorney General and are comparable to the regulations issued under section 4006 of this title, except that—
+(b) The Attorney General, in support of Federal prisoner detainees in non-Federal institutions, is authorized to make payments, from funds appropriated for State and local law enforcement assistance, for entering into contracts or cooperative agreements with any State, territory, or political subdivision thereof, for the necessary construction, physical renovation, acquisition of equipment, supplies, or materials required to establish acceptable conditions of confinement and detention services in any State or local jurisdiction which agrees to provide guaranteed bed space for Federal detainees within that correctional system, in accordance with regulations which are issued by the Attorney General and are comparable to the regulations issued under section 4006 of this title, except that—
 
 &emsp;(1) amounts made available for purposes of this paragraph shall not exceed the average per-inmate cost of constructing similar confinement facilities for the Federal prison population,
 
@@ -88,21 +88,21 @@ Notice before public comment period.—Before the beginning of any period a prop
 
 Comprehensive hiv/aids services required.—Any State or local government assessing or collecting a fee under this subsection shall provide comprehensive coverage for services relating to human immunodeficiency virus (HIV) and acquired immune deficiency syndrome (AIDS) to each Federal prisoner in the custody of such State or local government when medically appropriate. The State or local government may not assess or collect a fee under this subsection for providing such coverage.
 
-(Added Pub. L. 100–690, title VII, §7608(d)(1), Nov. 18, 1988, 102 Stat. 4516; amended Pub. L. 101–647,title XVII, §1701, title XXXV, §3599, Nov. 29, 1990, 104 Stat. 4843, 4931; Pub. L. 103–322, title XXXIII, §330011(<i>o</i>), Sept. 13, 1994, 108 Stat. 2145; Pub. L. 106–294, §3, Oct. 12, 2000, 114 Stat. 1040; Pub. L. 107–273, div. A, title III, §302(2), Nov. 2, 2002, 116 Stat. 1781.)
+(Added Pub. L. 100–690, title VII, §7608(d)(1), Nov. 18, 1988, 102 Stat. 4516; amended Pub. L. 101–647, title XVII, §1701, title XXXV, §3599, Nov. 29, 1990, 104 Stat. 4843, 4931; Pub. L. 103–322, title XXXIII, §330011(<i>o</i>), Sept. 13, 1994, 108 Stat. 2145; Pub. L.106–294, §3, Oct. 12, 2000, 114 Stat. 1040; Pub. L. 107–273, div. A, title III, §302(2), Nov. 2, 2002, 116 Stat. 1781.)
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–273, §302(2)(A), in introductory provisions, substituted “Federal prisoner detention” for “the support of United States prisoners”, inserted “and” at end of par. (2), substituted period for “; and” at end of par. (3), and in introductory provisions of par. (4), inserted “The Attorney General, in support of Federal prisoner detainees in non-Federal institutions, is authorized to make payments, from funds appropriated for State and local law enforcement assistance, for” before “entering”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273, §302(2)(A), in introductory provisions, substituted “Federal prisoner detention” for “the support of United States prisoners”, inserted “and” at end of par. (2), substituted period for “; and” at end of par. (3), and in introductory provisions of par. (4), inserted “The Attorney General, in support of Federal prisoner detainees in non-Federal institutions, is authorized to make payments, from funds appropriated for State and local law enforcement assistance, for” before “entering”.
 
 Subsecs. (a)(4), (b). Pub. L. 107–273, §302(2)(B)(ii), redesignated par. (4) of subsec. (a) as subsec. (b) and subpars. (A) to (C) as pars. (1) to (3), respectively. Former subsec. (b) redesignated (c).
 
 Subsecs. (c), (d). Pub. L. 107–273, §302(2)(B)(i), redesignated subsecs. (b) and (c) as (c) and (d), respectively.
 
-2000—Subsec. (c). Pub. L. 106–294 added subsec. (c).
+<b>2000</b>—Subsec. (c). Pub. L. 106–294 added subsec. (c).
 
-1994—Pub. L. 103–322, §330011(<i>o</i>), repealed Pub. L. 101–647, §3599. See 1990 Amendment note below.
+<b>1994</b>—Pub. L. 103–322, §330011(<i>o</i>), repealed Pub. L. 101–647, §3599. See 1990 Amendment note below.
 
-1990—Subsec. (a). Pub. L. 101–647, §3599, which struck out “(a)” at beginning of text, was repealed by Pub. L. 103–322, §330011(<i>o</i>).
+<b>1990</b>—Subsec. (a). Pub. L. 101–647, §3599, which struck out “(a)” at beginning of text, was repealed by Pub. L. 103–322, §330011(<i>o</i>).
 
 Subsec. (b). Pub. L. 101–647, §1701, added subsec. (b).
 
@@ -112,7 +112,7 @@ Section 330011(<i>o</i>) of Pub. L. 103–322 provided that the amendment made b
 
 #### Contracts for Space or Facilities
 
-Pub. L. 106–553, §1(a)(2) \[title I, §118, formerly §119\], Dec. 21, 2000, 114 Stat. 2762, 2762A–69; renumbered §118, Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–179, provided that: “Notwithstanding any other provision of law, including section 4(d) of the Service Contract Act of 1965 (41 U.S.C. 353(d)), the Attorney General hereafter may enter into contracts and other agreements, of any reasonable duration, for detention or incarceration space or facilities, including related services, on any reasonable basis.”
+Pub. L. 106–553, §1(a)(2) \[title I, §118, formerly §119\], Dec. 21, 2000, 114 Stat. 2762, 2762A–69; renumbered §118, Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–179, provided that: “Notwithstanding any other provision of law, including section 4(d) of the Service Contract Act of 1965 (\[former\] 41 U.S.C. 353(d)) \[now 41 U.S.C. 6707(d)\], the Attorney General hereafter may enter into contracts and other agreements, of any reasonable duration, for detention or incarceration space or facilities, including related services, on any reasonable basis.”
 
 #### Justice Prisoner and Alien Transportation System Fund, United States Marshals Service
 

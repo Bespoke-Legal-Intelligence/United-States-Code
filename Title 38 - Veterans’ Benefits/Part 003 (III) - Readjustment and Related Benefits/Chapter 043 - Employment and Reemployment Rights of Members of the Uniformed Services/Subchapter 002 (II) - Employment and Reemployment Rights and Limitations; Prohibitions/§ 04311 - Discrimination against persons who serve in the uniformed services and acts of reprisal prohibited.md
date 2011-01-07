@@ -20,7 +20,7 @@ A prior section 4311 was renumbered section 7611 of this title.
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–275 added subsec. (b) and struck out former subsec. (b) which read as follows: “An employer shall be considered to have denied a person initial employment, reemployment, retention in employment, promotion, or a benefit of employment in violation of this section if the person's membership, application for membership, service, application for service, or obligation for service in the uniformed services is a motivating factor in the employer's action, unless the employer can prove that the action would have been taken in the absence of such membership, application for membership, performance of service, application for service, or obligation.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–275 added subsec. (b) and struck out former subsec. (b) which read as follows: “An employer shall be considered to have denied a person initial employment, reemployment, retention in employment, promotion, or a benefit of employment in violation of this section if the person's membership, application for membership, service, application for service, or obligation for service in the uniformed services is a motivating factor in the employer's action, unless the employer can prove that the action would have been taken in the absence of such membership, application for membership, performance of service, application for service, or obligation.”
 
 Subsecs. (c), (d). Pub. L. 104–275 added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows:
 

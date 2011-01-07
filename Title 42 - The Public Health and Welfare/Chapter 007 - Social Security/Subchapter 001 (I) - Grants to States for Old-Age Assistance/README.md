@@ -6,7 +6,7 @@
 
 #### Amendments
 
-1960—Pub. L. 86–778, title VI, §601(a), Sept. 13, 1960, 74 Stat. 987, included medical assistance for the aged in subchapter heading.
+<b>1960</b>—Pub. L. 86–778, title VI, §601(a), Sept. 13, 1960, 74 Stat. 987, included medical assistance for the aged in subchapter heading.
 
 
 ---

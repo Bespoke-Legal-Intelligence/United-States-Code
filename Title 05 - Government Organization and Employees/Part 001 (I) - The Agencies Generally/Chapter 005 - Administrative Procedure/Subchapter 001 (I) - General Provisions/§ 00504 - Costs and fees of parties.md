@@ -14,7 +14,7 @@
 
 &emsp;(B) “party” means a party, as defined in section 551(3) of this title, who is (i) an individual whose net worth did not exceed $2,000,000 at the time the adversary adjudication was initiated, or (ii) any owner of an unincorporated business, or any partnership, corporation, association, unit of local government, or organization, the net worth of which did not exceed $7,000,000 at the time the adversary adjudication was initiated, and which had not more than 500 employees at the time the adversary adjudication was initiated; except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)(3)) exempt from taxation under section 501(a) of such Code, or a cooperative association as defined in section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a)), may be a party regardless of the net worth of such organization or cooperative association or for purposes of subsection (a)(4), a small entity as defined in section 601;
 
-&emsp;(C) “adversary adjudication” means (i) an adjudication under section 554 of this title in which the position of the United States is represented by counsel or otherwise, but excludes an adjudication for the purpose of establishing or fixing a rate or for the purpose of granting or renewing a license, (ii) any appeal of a decision made pursuant to section 6 of the Contract Disputes Act of 1978 (41 U.S.C. 605) before an agency board of contract appeals as provided in section 8 of that Act (41 U.S.C. 607), (iii) any hearing conducted under chapter 38 of title 31, and (iv) the Religious Freedom Restoration Act of 1993;
+&emsp;(C) “adversary adjudication” means (i) an adjudication under section 554 of this title in which the position of the United States is represented by counsel or otherwise, but excludes an adjudication for the purpose of establishing or fixing a rate or for the purpose of granting or renewing a license, (ii) any appeal of a decision made pursuant to section 7103 of title 41 before an agency board of contract appeals as provided in section 7105 of title 41, (iii) any hearing conducted under chapter 38 of title 31, and (iv) the Religious Freedom Restoration Act of 1993;
 
 &emsp;(D) “adjudicative officer” means the deciding official, without regard to whether the official is designated as an administrative law judge, a hearing officer or examiner, or otherwise, who presided at the adversary adjudication;
 
@@ -26,7 +26,7 @@
 
 (c)(1) After consultation with the Chairman of the Administrative Conference of the United States, each agency shall by rule establish uniform procedures for the submission and consideration of applications for an award of fees and other expenses. If a court reviews the underlying decision of the adversary adjudication, an award for fees and other expenses may be made only pursuant to section 2412(d)(3) of title 28, United States Code.
 
-(2) If a party other than the United States is dissatisfied with a determination of fees and other expenses made under subsection (a), that party may, within 30 days after the determination is made, appeal the determination to the court of the United States having jurisdiction to review the merits of the underlying decision of the agency adversary adjudication. The court's determination on any appeal heard under this paragraph shall be based solely on the factualrecord made before the agency. The court may modify the determination of fees and other expenses only if the court finds that the failure to make an award of fees and other expenses, or the calculation of the amount of the award, was unsupported by substantial evidence.
+(2) If a party other than the United States is dissatisfied with a determination of fees and other expenses made under subsection (a), that party may, within 30 days after the determination is made, appeal the determination to the court of the United States having jurisdiction to review the merits of the underlying decision of the agency adversary adjudication. The court's determination on any appeal heard under this paragraph shall be based solely on the factual record made before the agency. The court maymodify the determination of fees and other expenses only if the court finds that the failure to make an award of fees and other expenses, or the calculation of the amount of the award, was unsupported by substantial evidence.
 
 (d) Fees and other expenses awarded under this subsection shall be paid by any agency over which the party prevails from any funds made available to the agency by appropriation or otherwise.
 
@@ -34,7 +34,7 @@
 
 (f) No award may be made under this section for costs, fees, or other expenses which may be awarded under section 7430 of the Internal Revenue Code of 1986.
 
-(Added Pub. L. 96–481, title II, §203(a)(1), (c), Oct. 21, 1980, 94 Stat. 2325, 2327; revived and amended Pub. L. 99–80, §§1, 6, Aug. 5, 1985, 99 Stat. 183, 186; Pub. L. 99–509, title VI, §6103(c), Oct. 21, 1986, 100 Stat. 1948; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VI, §6239(b), Nov. 10, 1988, 102 Stat. 3746; Pub. L. 103–141, §4(b), Nov. 16, 1993, 107 Stat. 1489; Pub. L. 104–121, title II, §231, Mar. 29, 1996, 110 Stat. 862.)
+(Added Pub. L. 96–481, title II, §203(a)(1), (c), Oct. 21, 1980, 94 Stat. 2325, 2327; revived and amended Pub. L. 99–80, §§1, 6, Aug. 5, 1985, 99 Stat. 183, 186; Pub. L. 99–509, title VI, §6103(c), Oct. 21, 1986, 100 Stat. 1948; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VI, §6239(b), Nov. 10, 1988, 102 Stat. 3746; Pub. L. 103–141, §4(b), Nov. 16, 1993, 107 Stat. 1489; Pub. L. 104–121, title II, §231, Mar. 29, 1996, 110 Stat. 862; Pub. L. 111–350, §5(a)(1), Jan. 4, 2011, 124 Stat. 3841.)
 
 #### References in Text
 
@@ -43,6 +43,8 @@ The Religious Freedom Restoration Act of 1993, referred to in subsec. (b)(1)(C)(
 Section 7430 of the Internal Revenue Code of 1986, referred to in subsec. (f), is classified to section 7430 of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2011—Subsec. (b)(1)(C)(ii). Pub. L. 111–350 substituted “section 7103 of title 41” for “section 6 of the Contract Disputes Act of 1978 (41 U.S.C. 605)” and “section 7105 of title 41” for “section 8 of that Act (41 U.S.C. 607)”.
 
 1996—Subsec. (a)(4). Pub. L. 104–121, §231(a), added par. (4).
 
@@ -84,7 +86,7 @@ Subsec. (d). Pub. L. 99–80, §1(e), amended subsec. (d) generally. Prior to am
 
 #### Effective Date of 1996 Amendment
 
-Section 233 of Pub. L. 104–121 provided that: “The amendments made by sections 331 and 332 \[probablymeans sections 231 and 232, amending this section and section 2412 of Title 28, Judiciary and Judicial Procedure\] shall apply to civil actions and adversary adjudications commenced on or after the date of the enactment of this subtitle \[Mar. 29, 1996\].”
+Section 233 of Pub. L. 104–121 provided that: “The amendments made by sections 331 and 332 \[probably means sections 231 and 232, amending this section and section 2412 of Title 28, Judiciary and Judicial Procedure\] shall apply to civil actions and adversary adjudications commenced on or after the date of the enactment of this subtitle \[Mar. 29, 1996\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -164,5 +166,5 @@ Section 202 of title II of Pub. L. 96–481 provided that:
 
 #### Limitation on Payments
 
-Section 207 of title II of Pub. L. 96–481, which provided that the payment of judgments, fees and other expenses in the same manner as the payment of final judgments as provided in this Act \[probably should be “this title”, see Short Title note above\] would be effective only to the extent and in such amounts as are provided in advance in appropriation Acts, was repealed by Pub. L. 99–80, §4, Aug. 5, 1985, 99 Stat. 186.
+Section 207 of title II of Pub. L. 96–481, which provided that the payment of judgments, fees and otherexpenses in the same manner as the payment of final judgments as provided in this Act \[probably should be “this title”, see Short Title note above\] would be effective only to the extent and in such amounts as are provided in advance in appropriation Acts, was repealed by Pub. L. 99–80, §4, Aug. 5, 1985, 99 Stat. 186.
 

@@ -22,5 +22,5 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1984—Pub. L. 98–473 substituted “detained or conditionally released pursuant to section 3142 of this title” for “imprisoned or admitted to bail”.
+<b>1984</b>—Pub. L. 98–473 substituted “detained or conditionally released pursuant to section 3142 of this title” for “imprisoned or admitted to bail”.
 

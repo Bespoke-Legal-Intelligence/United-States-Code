@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;After receiving input from interested individuals with relevant expertise, the Secretary shall develop and implement a comprehensive plan for activities carried out under parts B and C in order to enhance the provision of early intervention services, educational services, related services, and transitional services to children with disabilities under subchapters II and III. To the extent practicable, the plan shall be coordinated with the plan developed pursuant to section 9567b(c) of this title <sup>1</sup> and shall include mechanisms to address early intervention, educational, related service and transitional needs identified by State educational agencies in applications submitted for State personnel development grants under part A and for grants under parts B and C.
+&emsp;After receiving input from interested individuals with relevant expertise, the Secretary shall develop and implement a comprehensive plan for activities carried out under parts B and C in order to enhance the provision of early intervention services, educational services, related services, and transitional services to children with disabilities under subchapters II and III. To the extent practicable, the plan shall be coordinated with the plan developed pursuant to section 9567b(c) of this title <sup>1</sup> and shall include mechanisms to address earlyintervention, educational, related service and transitional needs identified by State educational agencies in applications submitted for State personnel development grants under part A and for grants under parts B and C.
 
 #### (2) Public comment
 
@@ -100,7 +100,7 @@ No State or local educational agency, or other public institution or agency, may
 
 Section 9567b(c) of this title, referred to in subsec. (a)(1), was in the original “section 178(c) of the Education Sciences Reform Act of 2002”, meaning section 178(c) of Pub. L. 107–279, which was translated as reading section 177(c) of Pub. L. 107–279, to reflect the probable intent of Congress, because Pub. L. 107–279 does not contain a section 178 and section 177(c) of that Act requires development of a plan.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(3)(K), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title VIII of the Act is classified generally to subchapter VIII (§7701 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(3)(K), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title VIII of theAct is classified generally to subchapter VIII (§7701 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Prior Provisions
 

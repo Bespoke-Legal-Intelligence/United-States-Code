@@ -22,13 +22,13 @@ Each person who is engaged in the business of accepting wagers shall be liable f
 
 #### Amendments
 
-1982—Subsec. (a). Pub. L. 97–362 substituted provision that there shall be imposed on any wager authorized under the law of the State in which accepted an excise tax equal to 0.25 percent of the amount of such wager and that there shall be imposed on any other wager an excise tax equal to 2 percent of the amount of such wager for provision that there be imposed on wagers, as defined in section 4421, an excise tax equal to 2 percent of the amount thereof.
+<b>1982</b>—Subsec. (a). Pub. L. 97–362 substituted provision that there shall be imposed on any wager authorized under the law of the State in which accepted an excise tax equal to 0.25 percent of the amount of such wager and that there shall be imposed on any other wager an excise tax equal to 2 percent of the amount of such wager for provision that there be imposed on wagers, as defined in section 4421, an excise tax equal to 2 percent of the amount thereof.
 
-1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1974—Subsec. (a). Pub. L. 93–499 substituted “2 percent” for “10 percent”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–499 substituted “2 percent” for “10 percent”.
 
-1958—Subsec. (c). Pub. L. 85–859 made all persons required to register under section 4412 of this title who receive wagers for or on behalf of another person without having registered under section 4412 of this title the name and place of residence of such other person liable for the tax on all such wagers received by them.
+<b>1958</b>—Subsec. (c). Pub. L. 85–859 made all persons required to register under section 4412 of this title who receive wagers for or on behalf of another person without having registered under section 4412 of this title the name and place of residence of such other person liable for the tax on all such wagers received by them.
 
 #### Effective Date of 1982 Amendment
 

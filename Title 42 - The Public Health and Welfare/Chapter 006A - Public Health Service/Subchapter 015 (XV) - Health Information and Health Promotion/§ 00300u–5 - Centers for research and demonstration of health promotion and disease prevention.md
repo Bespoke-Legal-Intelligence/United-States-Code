@@ -10,7 +10,7 @@ Each center established, maintained, or operated under this section shall—
 
 &emsp;(1) be located in an academic health center with—
 
-&emsp;&emsp;(A) a multidisciplinary faculty with expertise in public health and which has working relationships with relevant groups in such fields as medicine, psychology, nursing, social work, education and business;
+&emsp;&emsp;(A) a multidisciplinary faculty with expertise in public health and which has workingrelationships with relevant groups in such fields as medicine, psychology, nursing, social work, education and business;
 
 &emsp;&emsp;(B) graduate training programs relevant to disease prevention;
 
@@ -58,17 +58,17 @@ A prior section 300u–5, act July 1, 1944, ch. 373, title XVII, §1706, as adde
 
 #### Amendments
 
-1998—Subsec. (e). Pub. L. 105–340 substituted “2003” for “1998”.
+<b>1998</b>—Subsec. (e). Pub. L. 105–340 substituted “2003” for “1998”.
 
-1993—Subsec. (e). Pub. L. 103–183 substituted “through 1998” for “through 1996”.
+<b>1993</b>—Subsec. (e). Pub. L. 103–183 substituted “through 1998” for “through 1996”.
 
-1992—Subsec. (c)(2). Pub. L. 102–531, which directed amendment of subsec. (c)(2)(B) by substituting “Centers for Disease Control and Prevention” for “Centers for Disease Control”, was executed by making the substitution in subsec. (c)(2) to reflect the probable intent of Congress and the redesignation of subsec. (c)(2)(B) as subsec. (c)(2) by Pub. L. 102–168. See 1991 Amendment note below.
+<b>1992</b>—Subsec. (c)(2). Pub. L. 102–531, which directed amendment of subsec. (c)(2)(B) by substituting “Centers for Disease Control and Prevention” for “Centers for Disease Control”, was executed by making the substitution in subsec. (c)(2) to reflect the probable intent of Congress and the redesignation of subsec. (c)(2)(B) as subsec. (c)(2) by Pub. L. 102–168. See 1991 Amendment note below.
 
-1991—Subsec. (c). Pub. L. 102–168, §102(b), redesignated subpars. (A) and (B) of par. (2) as pars. (1) and (2), respectively, and struck out former par. (1), which read as follows: “During fiscal year 1985, the Secretary shall make grants or enter into contracts for the establishment of three centers under this section. During fiscal year 1986, the Secretary shall make grants and enter into contracts for the establishment of five centers under this section and the maintenance and operation of the three centers established under this section in fiscal year 1985. During fiscal year 1987, the Secretary shall make grants and enter into contracts for the establishment of five centers under this section and the operation and maintenance of the eight centers established under this section in fiscal years 1985 and 1986.”
+<b>1991</b>—Subsec. (c). Pub. L. 102–168, §102(b), redesignated subpars. (A) and (B) of par. (2) as pars. (1) and (2), respectively, and struck out former par. (1), which read as follows: “During fiscal year 1985, the Secretary shall make grants or enter into contracts for the establishment of three centers under this section. During fiscal year 1986, the Secretary shall make grants and enter into contracts for the establishment of five centers under this section and the maintenance and operation of the three centers established under this section in fiscal year 1985. During fiscal year 1987, the Secretary shall make grants and enter into contracts for the establishment of five centers under this section and the operation and maintenance of the eight centers established under this section in fiscal years 1985 and 1986.”
 
 Subsec. (e). Pub. L. 102–168, §102(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “To carry out this section, there are authorized to be appropriated $3,000,000 for the fiscal year ending September 30, 1985, $8,000,000 for the fiscal year ending September 30, 1986, $13,000,000 for the fiscal year ending September 30, 1987, $6,000,000 for fiscal year 1989, $8,000,000 for fiscal year 1990, and $10,000,000 for fiscal year 1991.”
 
-1988—Subsec. (e). Pub. L. 100–607 struck out “and” after “1986,” and inserted “, $6,000,000 for fiscal year 1989, $8,000,000 for fiscal year 1990, and $10,000,000 for fiscal year 1991” before period at end.
+<b>1988</b>—Subsec. (e). Pub. L. 100–607 struck out “and” after “1986,” and inserted “, $6,000,000 for fiscal year 1989, $8,000,000 for fiscal year 1990, and $10,000,000 for fiscal year 1991” before period at end.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

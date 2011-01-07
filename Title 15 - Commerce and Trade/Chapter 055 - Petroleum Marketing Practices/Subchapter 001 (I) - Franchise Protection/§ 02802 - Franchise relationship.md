@@ -164,7 +164,7 @@ In the case of any termination of a franchise (entered into or renewed on or aft
 
 #### Amendments
 
-1994—Subsec. (b)(3)(A)(ii). Pub. L. 103–371, §2, inserted “converting the leased marketing premises to operation by employees or agents of the franchisor for the benefit of the franchisor or otherwise” after “purpose of”.
+<b>1994</b>—Subsec. (b)(3)(A)(ii). Pub. L. 103–371, §2, inserted “converting the leased marketing premises to operation by employees or agents of the franchisor for the benefit of the franchisor or otherwise” after “purpose of”.
 
 Subsec. (c)(4). Pub. L. 103–371, §3, redesignated portion of introductory language of par. (4) as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpars. (B) and (C).
 

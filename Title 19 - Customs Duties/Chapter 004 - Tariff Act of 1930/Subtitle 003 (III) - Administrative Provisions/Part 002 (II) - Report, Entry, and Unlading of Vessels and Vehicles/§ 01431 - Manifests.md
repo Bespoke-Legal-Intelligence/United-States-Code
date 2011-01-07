@@ -88,21 +88,21 @@ R.S. §2805, relative to the administration of oaths required by that chapter, w
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–295 substituted “a vessel manifest” for “such manifest” in introductory provisions.
+<b>1996</b>—Subsec. (c). Pub. L. 104–295 substituted “a vessel manifest” for “such manifest” in introductory provisions.
 
 Pub. L. 104–153 inserted “vessel or aircraft” before “manifest” in introductory provisions, amended subpars. (D) to (F) generally, substituting “vessel, aircraft, or carrier” for “vessel or carrier” in subpar. (D) and “seaport or airport” for “port” in subpars. (E) and (F), and added subpar. (H).
 
-1993—Subsecs. (a) and (b). Pub. L. 103–182, §635(1), amended subsecs. (a) and (b) generally, substituting present provisions for provisions relating to, in subsec. (a), the requirement, form, and contents of manifests and, in subsec. (b), the signing and delivery of manifests.
+<b>1993</b>—Subsecs. (a) and (b). Pub. L. 103–182, §635(1), amended subsecs. (a) and (b) generally, substituting present provisions for provisions relating to, in subsec. (a), the requirement, form, and contents of manifests and, in subsec. (b), the signing and delivery of manifests.
 
 Subsec. (d). Pub. L. 103–182, §635(2), added subsec. (d).
 
-1988—Subsec. (c)(1)(G). Pub. L. 100–690 substituted “country of origin” for “country or origin”.
+<b>1988</b>—Subsec. (c)(1)(G). Pub. L. 100–690 substituted “country of origin” for “country or origin”.
 
-1984—Subsec. (a). Pub. L. 98–573, §203(1), inserted “; and the names of the shippers of such merchandise” in par. Third.
+<b>1984</b>—Subsec. (a). Pub. L. 98–573, §203(1), inserted “; and the names of the shippers of such merchandise” in par. Third.
 
 Subsec. (c). Pub. L. 98–573, §203(2), added subsec. (c).
 
-1953—Act Aug. 8, 1953, designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1953</b>—Act Aug. 8, 1953, designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1996 Amendment
 
@@ -118,7 +118,7 @@ Amendment to this section effective on and after thirtieth day following Aug. 8,
 
 #### Regulations
 
-Section 14 of Pub. L. 104–153 provided that: “Not later than 6 months after the date of the enactment of this Act \[July 2, 1996\], the Secretary of the Treasury shall prescribe such regulations or amendments to existing regulations that may be necessary to carry out the amendments made by sections 9, 10, 11, 12, and 13 of this Act \[amending this section, sections 1484 and 1526 of this title, and section 80302 of Title 49, Transportation\].”
+Section 14 of Pub. L. 104–153 provided that: “Not later than 6 months after the date of the enactment of thisAct \[July 2, 1996\], the Secretary of the Treasury shall prescribe such regulations or amendments to existing regulations that may be necessary to carry out the amendments made by sections 9, 10, 11, 12, and 13 of this Act \[amending this section, sections 1484 and 1526 of this title, and section 80302 of Title 49, Transportation\].”
 
 #### Transfer of Functions
 

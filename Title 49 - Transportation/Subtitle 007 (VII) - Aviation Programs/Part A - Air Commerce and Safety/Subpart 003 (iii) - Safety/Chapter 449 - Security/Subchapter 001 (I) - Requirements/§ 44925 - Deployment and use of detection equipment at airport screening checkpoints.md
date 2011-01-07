@@ -50,7 +50,7 @@ The date of enactment of this paragraph, referred to in subsec. (b)(3), is the d
 
 #### Amendments
 
-2007—Subsec. (b)(3). Pub. L. 110–53 added par. (3).
+<b>2007</b>—Subsec. (b)(3). Pub. L. 110–53 added par. (3).
 
 #### Issuance of Strategic Plan for Deployment and Use of Explosive Detection Equipment at Airport Screening Checkpoints
 

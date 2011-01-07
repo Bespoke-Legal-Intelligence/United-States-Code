@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the succeeding provisions of this part, each part D eligible individual (as defined in paragraph (3)(A)) is entitled to obtain qualified prescription drug coverage (described in section 1395w–102(a) of this title) as follows:
+&emsp;Subject to the succeeding provisions of this part, each part D eligible individual (as defined in paragraph (3)(A)) is entitled to obtainqualified prescription drug coverage (described in section 1395w–102(a) of this title) as follows:
 
 #### (A) Fee-for-service enrollees may receive coverage through a prescription drug plan
 
@@ -22,7 +22,7 @@
 
 #### (iii) Private fee-for-service enrollees in MA plans not providing qualified prescription drug coverage permitted to enroll in a prescription drug plan
 
-&emsp;&emsp;&emsp;A part D eligible individual who is enrolled in an MA private fee-for-service plan\(as defined in section 1395w–28(b)(2) of this title) that does not provide qualified prescription drug coverage may obtain qualified prescription drug coverage through enrollment in a prescription drug plan.
+&emsp;&emsp;&emsp;A part D eligible individual who is enrolled in an MA private fee-for-service plan (as defined in section 1395w–28(b)(2) of this title) that does not provide qualified prescription drug coverage may obtain qualified prescription drug coverage through enrollment in a prescription drug plan.
 
 #### (iv) Enrollees in MSA plans permitted to enroll in a prescription drug plan
 
@@ -88,7 +88,11 @@
 
 #### (C) Special rule
 
-&emsp;&emsp;The process established under subparagraph (A) shall include, in the case of a part D eligible individual who is a full-benefit dual eligible individual (as defined in section 1396u–5(c)(6) of this title) who has failed to enroll in a prescription drug plan or an MA–PD plan, for the enrollment in a prescription drug plan that has a monthly beneficiary premium that does not exceed the premium assistance available under section 1395w–114(a)(1)(A) of this title).<sup>1</sup> If there is more than one such plan available, the Secretary shall enroll such an individual on a random basis among all such plans in the PDP region. Nothing in the previous sentence shall prevent such an individual from declining or changing such enrollment.
+&emsp;&emsp;The process established under subparagraph (A) shall include, except as provided in subparagraph (D), in the case of a part D eligible individual who is a full-benefit dual eligible individual (as defined in section 1396u–5(c)(6) of this title) who has failed to enroll in a prescription drug plan or an MA–PD plan, for the enrollment in a prescription drug plan that has a monthly beneficiary premium that does not exceed the premium assistance available under section 1395w–114(a)(1)(A) of this title).<sup>1</sup> If there is more than one such plan available, the Secretary shall enroll such an individual on a random basis among all such plans in the PDP region. Nothing in the previous sentence shall prevent such an individual from declining or changing such enrollment.
+
+#### (D) Special rule for plans that waive de minimis premiums
+
+&emsp;&emsp;The process established under subparagraph (A) may include, in the case of a part D eligible individual who is a subsidy eligible individual (as defined in section 1395w–114(a)(3) of this title) who has failed to enroll in a prescription drug plan or an MA–PD plan, for the enrollment in a prescription drug plan or MA–PD plan that has waived the monthly beneficiary premium for such subsidy eligible individual under section 1395w–114(a)(5) of this title. If there is more than one such plan available, the Secretary shall enroll such an individual under the preceding sentence on a random basis among all such plans in the PDP region. Nothing in the previous sentence shall prevent such an individual from declining or changing such enrollment.
 
 #### (2) Initial enrollment period
 
@@ -98,7 +102,7 @@
 
 #### (B) Continuing periods
 
-&emsp;&emsp;In the case of an individual who becomes a part D eligible individual after November 15, 2005, there shall be an initial enrollment period which is the period under section 1395w–21(e)(1) of this title, as applied under paragraph (1)(B)(iii) of this section, as if “entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter” were substituted for “entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter”, but in no case shall such periodend before the period described in subparagraph (A).
+&emsp;&emsp;In the case of an individual who becomes a part D eligible individual after November 15, 2005, there shall be an initial enrollment period which is the period under section 1395w–21(e)(1) of this title, as applied under paragraph (1)(B)(iii) of this section, as if “entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter” were substituted for “entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter”, but in no case shall such period end before the period described in subparagraph (A).
 
 #### (3) Additional special enrollment periods
 
@@ -218,7 +222,7 @@
 
 &emsp;The information disseminated under paragraph (1) shall include information concerning the methodology for determining the late enrollment penalty under section 1395w–113(b) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–1, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2071; amended Pub. L. 109–432, div. B, title II, §206(b), Dec. 20, 2006, 120 Stat. 2990.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–1, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2071; amended Pub. L. 109–432, div. B, title II, §206(b), Dec. 20, 2006, 120 Stat. 2990; Pub. L. 111–148, title III, §3303(b), Mar. 23, 2010, 124 Stat. 469.)
 
 #### References in Text
 
@@ -228,7 +232,103 @@ Part B of this subchapter, referred to in subsecs. (a)(3)(A) and (b)(2)(B), (3)(
 
 #### Amendments
 
-2006—Subsec. (b)(1)(B)(iii). Pub. L. 109–432 substituted “subparagraphs (B), (C), and (E)” for “subparagraphs (B) and (C)”.
+<b>2010</b>—Subsec. (b)(1)(C). Pub. L. 111–148, §3303(b)(1), inserted “except as provided in subparagraph (D),” after “shall include,”.
+
+Subsec. (b)(1)(D). Pub. L. 111–148, §3303(b)(2), added subpar. (D).
+
+<b>2006</b>—Subsec. (b)(1)(B)(iii). Pub. L. 109–432 substituted “subparagraphs (B), (C), and (E)” for “subparagraphs (B) and (C)”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title III, §3303(c), Mar. 23, 2010, 124 Stat. 469, provided that: “The amendments made by this subsection \[probably should be “this section”, amending this section and section 1395w–114 of this title\] shall apply to premiums for months, and enrollments for plan years, beginning on or after January 1, 2011.”
+
+#### Office of the Inspector General Studies and Reports
+
+Pub. L. 111–148, title III, §3313, Mar. 23, 2010, 124 Stat. 477, provided that:
+
+“(a)
+
+Study and Annual Report on Part D Formularies’ Inclusion of Drugs Commonly Used by Dual Eligibles.—
+
+&emsp;“(1)
+
+Study.—The Inspector General of the Department of Health and Human Services shall conduct a study of the extent to which formularies used by prescription drug plans and MA–PD plans under part D \[this part\] include drugs commonly used by full-benefit dual eligible individuals (as defined in section 1935(c)(6) of the Social Security Act (42 U.S.C. 1396u–5(c)(6))).
+
+&emsp;“(2)
+
+Annual reports.—Not later than July 1 of each year (beginning with 2011), the Inspector General shall submit to Congress a report on the study conducted under paragraph (1), together with such recommendations as the Inspector General determines appropriate.
+
+“(b)
+
+Study and Report on Prescription Drug Prices Under Medicare Part D and Medicaid.—
+
+&emsp;“(1)
+
+Study.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Inspector General of the Department of Health and Human Services shall conduct a study on prices for covered part D drugs under the Medicare prescription drug program under part D of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq.\] and for covered outpatient drugs under title XIX \[42 U.S.C. 1396 et seq.\]. Such study shall include the following:
+
+&emsp;&emsp;&emsp;“(i) A comparison, with respect to the 200 most frequently dispensed covered part D drugs under such program and covered outpatient drugs under such title (as determined by the Inspector General based on volume and expenditures), of—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the prices paid for covered part D drugs by PDP sponsors of prescription drug plans and Medicare Advantage organizations offering MA–PD plans; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the prices paid for covered outpatient drugs by a State plan under title XIX.
+
+&emsp;&emsp;&emsp;“(ii) An assessment of—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the financial impact of any discrepancies in such prices on the Federal Government; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the financial impact of any such discrepancies on enrollees under part D or individuals eligible for medical assistance under a State plan under title XIX.
+
+&emsp;&emsp;“(B)
+
+Price.—For purposes of subparagraph (A), the price of a covered part D drug or a covered outpatient drug shall include any rebate or discount under such program or such title, respectively, including any negotiated price concession described in section 1860D–2(d)(1)(B) of the Social Security Act (42 U.S.C. 1395w–102(d)(1)(B)) or rebate under an agreement under section 1927 of the Social Security Act (42 U.S.C. 1396r–8).
+
+&emsp;&emsp;“(C)
+
+Authority to collect any necessary information.—Notwithstanding any other provision of law, the Inspector General of the Department of Health and Human Services shall be able to collect any information related to the prices of covered part D drugs under such program and covered outpatient drugs under such title XIX necessary to carry out the comparison under subparagraph (A).
+
+&emsp;“(2)
+
+Report.—
+
+&emsp;&emsp;“(A)
+
+In general.—Not later than October 1, 2011, subject to subparagraph (B), the Inspector General shall submit to Congress a report containing the results of the study conducted under paragraph (1), together with recommendations for such legislation and administrative action as the Inspector General determines appropriate.
+
+&emsp;&emsp;“(B)
+
+Limitation on information contained in report.—The report submitted under subparagraph (A) shall not include any information that the Inspector General determines is proprietary or is likely to negatively impact the ability of a PDP sponsor or a State plan under title XIX \[42 U.S.C. 1396 et seq.\] to negotiate prices for covered part D drugs or covered outpatient drugs, respectively.
+
+&emsp;“(3)
+
+Definitions.—In this section:
+
+&emsp;&emsp;“(A)
+
+Covered part d drug.—The term ‘covered part D drug’ has the meaning given such term in section 1860D–2(e) of the Social Security Act (42 U.S.C. 1395w–102(e)).
+
+&emsp;&emsp;“(B)
+
+Covered outpatient drug.—The term ‘covered outpatient drug’ has the meaning given such term in section 1927(k) of such Act (42 U.S.C. 1396r\[–8\](k)).
+
+&emsp;&emsp;“(C) MA–PD
+
+plan.—The term ‘MA–PD plan’ has the meaning given such term in section 1860D–41(a)(9) of such Act (42 U.S.C. 1395w–151(a)(9)).
+
+&emsp;&emsp;“(D)
+
+Medicare advantage organization.—The term ‘Medicare Advantage organization’ has the meaning given such term in section 1859(a)(1) of such Act (42 U.S.C. 1395w–28)\[sic\](a)(1)).
+
+&emsp;&emsp;“(E) PDP
+
+sponsor.—The term ‘PDP sponsor’ has the meaning given such term in section 1860D–41(a)(13) of such Act (42 U.S.C. 1395w–151(a)(13)).
+
+&emsp;&emsp;“(F)
+
+Prescription drug plan.—The term ‘prescription drug plan’ has the meaning given such term in section 1860D–41(a)(14) of such Act (42 U.S.C. 1395w–151(a)(14)).”
 
 #### Submission of Legislative Proposal
 
@@ -272,7 +372,7 @@ Composition.—The Commission shall include the following:
 
 &emsp;“(1) A representative of each Governor of each State that the Secretary \[of Health and Human Services\] identifies as operating on a statewide basis a State pharmaceutical assistance program that provides for eligibility and benefits that are comparable or more generous than the low-income assistance eligibility and benefits offered under section 1860D–14 of the Social Security Act \[section 1395w–114 of this title\].
 
-&emsp;“(2) Representatives from other States that the Secretary identifies have in operation other State pharmaceutical assistance programs, as appointed by the Secretary.
+&emsp;“(2) Representatives from other States that the Secretary identifies have in operation other Statepharmaceutical assistance programs, as appointed by the Secretary.
 
 &emsp;“(3) Representatives of organizations that have an inherent interest in program participants or the program itself, as appointed by the Secretary but not to exceed the number of representatives under paragraphs (1) and (2).
 
@@ -286,7 +386,7 @@ Composition.—The Commission shall include the following:
 
 Development of Proposal.—The Commission shall develop the proposal described in subsection (a) in a manner consistent with the following principles:
 
-&emsp;“(1) Protection of the interests of program participants in a manner that is the least disruptive to suchparticipants and that includes a single point of contact for enrollment and processing of benefits.
+&emsp;“(1) Protection of the interests of program participants in a manner that is the least disruptive to such participants and that includes a single point of contact for enrollment and processing of benefits.
 
 &emsp;“(2) Protection of the financial and flexibility interests of States so that States are not financially worse off as a result of the enactment of this title \[see Tables for classification\].
 

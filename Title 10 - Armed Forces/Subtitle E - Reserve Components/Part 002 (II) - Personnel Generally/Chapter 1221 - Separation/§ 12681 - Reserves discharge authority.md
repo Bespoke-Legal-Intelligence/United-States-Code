@@ -22,7 +22,7 @@ Finding.—Congress finds that the implementation of the off-site agreement may 
 
 “(b)
 
-Reassignment of Members.—(1) To the maximum extent practicable, the Secretary of the Army shall ensure that members of the Armed Forces who would otherwise be separated from service as a result of the deactivation of military units of the Army National Guard and the Army Reserve under the off-site agreement be reassigned instead to units that are not being deactivated.
+Reassignment of Members.—(1) To the maximum extent practicable, the Secretary of the Army shall ensure that members of the Armed Forces whowould otherwise be separated from service as a result of the deactivation of military units of the Army National Guard and the Army Reserve under the off-site agreement be reassigned instead to units that are not being deactivated.
 
 “(2) The reassignment of a member under paragraph (1) shall not affect the grade or rank in grade of the member.
 
@@ -160,7 +160,7 @@ Computation of Annual Payment.—(1) The annual payment for a member shall be eq
 
 “(B) The maximum percent applicable under this paragraph is 10 percent.
 
-“(3) In the case of a member who will attain 60 years of age during the 12-month period following the date on which an annual payment is due, the payment shall be paid on a prorated basis of one-twelfth of the annualpayment for each full month between the date on which the payment is due and the date on which the member attains age 60.
+“(3) In the case of a member who will attain 60 years of age during the 12-month period following the date on which an annual payment is due, the payment shall be paid on a prorated basis of one-twelfth of the annual payment for each full month between the date on which the payment is due and the date on which the member attains age 60.
 
 “(f)
 

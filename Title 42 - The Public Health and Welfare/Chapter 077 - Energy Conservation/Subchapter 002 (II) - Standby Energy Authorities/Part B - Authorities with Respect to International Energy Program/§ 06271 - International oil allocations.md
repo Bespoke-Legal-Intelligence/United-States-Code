@@ -42,9 +42,9 @@ Section 753 of title 15, referred to in subsec. (c), was omitted from the Code p
 
 #### Amendments
 
-1998—Subsec. (e)(1). Pub. L. 105–177 substituted reference to section 6272(k)(1) for reference to section 6272(<i>l</i>)(1).
+<b>1998</b>—Subsec. (e)(1). Pub. L. 105–177 substituted reference to section 6272(k)(1) for reference to section 6272(<i>l</i>)(1).
 
-1982—Subsec. (e). Pub. L. 97–229 added subsec. (e).
+<b>1982</b>—Subsec. (e). Pub. L. 97–229 added subsec. (e).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

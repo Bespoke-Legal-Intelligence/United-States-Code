@@ -32,7 +32,7 @@ The words “upon conviction thereof” are omitted as unnecessary because punis
 
 #### Amendments
 
-2002—Pub. L. 107–273 inserted “, or both” after “year” in concluding provisions.
+<b>2002</b>—Pub. L. 107–273 inserted “, or both” after “year” in concluding provisions.
 
-1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000” in concluding provisions.
+<b>1996</b>—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000” in concluding provisions.
 

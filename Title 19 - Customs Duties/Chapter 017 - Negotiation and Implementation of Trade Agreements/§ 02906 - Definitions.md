@@ -44,7 +44,7 @@ Section is comprised of subsec. (a) of section 1107 of Pub. L. 100–418. Subsec
 
 #### Amendments
 
-1994—Par. (3). Pub. L. 103–465 substituted “the GATT 1947 (as defined in section 3501(1)(A) of this title)” for “the General Agreement on Tariffs and Trade”.
+<b>1994</b>—Par. (3). Pub. L. 103–465 substituted “the GATT 1947 (as defined in section 3501(1)(A) of this title)” for “the General Agreement on Tariffs and Trade”.
 
 #### Effective Date of 1994 Amendment
 

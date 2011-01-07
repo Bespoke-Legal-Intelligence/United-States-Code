@@ -42,11 +42,11 @@ In carrying out the flood insurance program the Director shall, to the maximum e
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original a reference to “this title” meaning title XIIIof Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–264, §105(a)(1)(B), which directed insertion of “by the community” after “established” in introductory provisions, was executed by making the insertion after “established” the secondtime appearing to reflect the probable intent of Congress.
+<b>2004</b>—Subsec. (b). Pub. L. 108–264, §105(a)(1)(B), which directed insertion of “by the community” after “established” in introductory provisions, was executed by making the insertion after “established” the second time appearing to reflect the probable intent of Congress.
 
 Pub. L. 108–264, §105(a)(1)(A), substituted “implementing measures that are consistent” for “compliance” in introductory provisions.
 
@@ -56,9 +56,9 @@ Subsec. (b)(3). Pub. L. 108–264, §105(a)(3), which directed the substitution 
 
 Subsec. (b)(4). Pub. L. 108–264, §105(a)(4), added par. (4).
 
-1994—Subsecs. (b), (c). Pub. L. 103–325 added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>1994</b>—Subsecs. (b), (c). Pub. L. 103–325 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1983—Subsec. (a). Pub. L. 98–181, §451(d)(2), substituted “Director of the Federal Emergency Management Agency” for “Secretary of Housing and Urban Development”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–181, §451(d)(2), substituted “Director of the Federal Emergency Management Agency” for “Secretary of Housing and Urban Development”.
 
 Subsec. (b). Pub. L. 98–181, §451(d)(1), substituted “Director” for “Secretary”.
 

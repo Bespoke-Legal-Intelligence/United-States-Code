@@ -46,7 +46,7 @@ Determinations of Fact.—Any determination of fact that is made in administerin
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–84, §618(a)(1), struck out “and Special Pay Amount” after “Eligibility” in heading and substituted “under subsection (b) for any month or portion of a month” for “at the rate of $225 for any month” in introductory provisions.
+<b>2009</b>—Subsec. (a). Pub. L. 111–84, §618(a)(1), struck out “and Special Pay Amount” after “Eligibility” in heading and substituted “under subsection (b) for any month or portion of a month” for “at the rate of $225 for any month” in introductory provisions.
 
 Subsecs. (b), (c). Pub. L. 111–84, §618(a)(3), (4), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
@@ -54,17 +54,17 @@ Subsec. (c)(3). Pub. L. 111–84, §618(a)(2), struck out par. (3) which read as
 
 Subsecs. (d), (e). Pub. L. 111–84, §618(a)(3), redesignated subsecs. (c) and (d) as (d) and (e), respectively.
 
-2006—Subsec. (b). Pub. L. 109–163, §642(b), designated existing text as par. (1), substituted “A member described in paragraph (2)” for “A member covered by subsection (a)(2)(C) who is hospitalized for the treatment of the injury or wound” and “hospitalized as described in such paragraph” for “so hospitalized”, and added par. (2).
+<b>2006</b>—Subsec. (b). Pub. L. 109–163, §642(b), designated existing text as par. (1), substituted “A member described in paragraph (2)” for “A member covered by subsection (a)(2)(C) who is hospitalized for the treatment of the injury or wound” and “hospitalized as described in such paragraph” for “so hospitalized”, and added par. (2).
 
 Subsec. (c). Pub. L. 109–163, §636, added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
-2004—Subsec. (a). Pub. L. 108–375, §623(a)(2)(A), substituted “$225” for “$150”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–375, §623(a)(2)(A), substituted “$225” for “$150”.
 
 Subsec. (e). Pub. L. 108–375, §623(a)(2)(B), struck out heading and text of subsec. (e). Text read as follows: “For the period beginning on October 1, 2003, and ending on December 31, 2005, the rate of pay authorized by subsection (a) shall be increased to $225.”
 
 Pub. L. 108–375, §623(a)(1), substituted “December 31, 2005” for “December 31, 2004”.
 
-2003—Subsec. (a). Pub. L. 108–136, §618(a)(2), added subsec. (a) and struck out former subsec. (a) which read as follows: “Under regulations prescribed by the Secretary of Defense, a member of a uniformed service may be paid special pay at the rate of $150 for any month in which he was entitled to basic pay and in which he—
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §618(a)(2), added subsec. (a) and struck out former subsec. (a) which read as follows: “Under regulations prescribed by the Secretary of Defense, a member of a uniformed service may be paid special pay at the rate of $150 for any month in which he was entitled to basic pay and in which he—
 
 &emsp;“(1) was subject to hostile fire or explosion of hostile mines;
 
@@ -90,19 +90,19 @@ Pub. L. 108–136, §618(a)(1), redesignated subsec. (c) as (d).
 
 Subsec. (e). Pub. L. 108–136, §619, added subsec. (e).
 
-1998—Subsec. (b). Pub. L. 105–261 designated existing provisions as par. (1) and added par. (2).
+<b>1998</b>—Subsec. (b). Pub. L. 105–261 designated existing provisions as par. (1) and added par. (2).
 
-1991—Subsec. (a). Pub. L. 102–190 substituted “Under” for “Except in time of war declared by Congress, and under” and “rate of $150” for “lowest rate for hazardous duty incentive pay specified in section 301(c)(1) of this title”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–190 substituted “Under” for “Except in time of war declared by Congress, and under” and “rate of $150” for “lowest rate for hazardous duty incentive pay specified in section 301(c)(1) of this title”.
 
-1990—Subsec. (d). Pub. L. 101–510 struck out subsec. (d) which read as follows: “The Secretary of Defense shall report to Congress by March 1 of each year on the administration of this section during the preceding calendar year.”
+<b>1990</b>—Subsec. (d). Pub. L. 101–510 struck out subsec. (d) which read as follows: “The Secretary of Defense shall report to Congress by March 1 of each year on the administration of this section during the preceding calendar year.”
 
-1985—Subsec. (a). Pub. L. 99–145 substituted “at the lowest rate for hazardous duty incentive pay specified in section 301(c)(1) of this title” for “at the rate of $65 a month” in provisions preceding cl. (1).
+<b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted “at the lowest rate for hazardous duty incentive pay specified in section 301(c)(1) of this title” for “at the rate of $65 a month” in provisions preceding cl. (1).
 
-1983—Pub. L. 98–94, §905(b)(1), inserted “or imminent danger” in section catchline.
+<b>1983</b>—Pub. L. 98–94, §905(b)(1), inserted “or imminent danger” in section catchline.
 
 Subsec. (a)(4). Pub. L. 98–94, §905(a), added cl. (4).
 
-1965—Subsec. (a). Pub. L. 89–132 increased rate of special pay from $55 to $65 a month.
+<b>1965</b>—Subsec. (a). Pub. L. 89–132 increased rate of special pay from $55 to $65 a month.
 
 #### Effective Date of 2004 Amendment
 

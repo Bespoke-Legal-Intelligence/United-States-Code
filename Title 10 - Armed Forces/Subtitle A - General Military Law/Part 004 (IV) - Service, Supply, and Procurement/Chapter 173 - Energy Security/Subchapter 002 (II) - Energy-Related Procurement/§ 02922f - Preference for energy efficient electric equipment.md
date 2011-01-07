@@ -16,7 +16,7 @@
 
 #### Amendments
 
-2006—Pub. L. 109–364, §2851(b)(2), renumbered section 2410c of this title as this section.
+<b>2006</b>—Pub. L. 109–364, §2851(b)(2), renumbered section 2410c of this title as this section.
 
 Subsec. (a). Pub. L. 109–364, §2851(b)(3)(E), substituted “In” for “When cost effective, in” and “if providing such a preference is consistent with the energy performance goals and energy performance plan for the Department of Defense developed under section 2911 of this title and supported by the special considerations specified in subsection (c) of such section” for “as the case may be”.
 

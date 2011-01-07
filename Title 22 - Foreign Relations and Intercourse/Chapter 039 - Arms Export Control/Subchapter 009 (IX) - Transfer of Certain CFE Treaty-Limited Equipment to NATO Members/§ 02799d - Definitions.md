@@ -16,5 +16,5 @@ As used in this subchapter—
 
 #### Amendments
 
-1993—Par. (5). Pub. L. 103–199 substituted “country of the Eastern Group of States Parties” for “Warsaw Pact country” and inserted before period at end “or a successor state to such a country”.
+<b>1993</b>—Par. (5). Pub. L. 103–199 substituted “country of the Eastern Group of States Parties” for “Warsaw Pactcountry” and inserted before period at end “or a successor state to such a country”.
 

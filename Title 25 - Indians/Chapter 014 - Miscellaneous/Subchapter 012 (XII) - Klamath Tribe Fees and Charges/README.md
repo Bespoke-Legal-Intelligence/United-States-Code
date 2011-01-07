@@ -1,7 +1,5 @@
 ### SUBCHAPTER XII—KLAMATH TRIBE: FEES AND CHARGES
 
-<i><sup>1</sup></i><i> So in original. Probably should be “devisees,”.</i>
-
 
 ---
 

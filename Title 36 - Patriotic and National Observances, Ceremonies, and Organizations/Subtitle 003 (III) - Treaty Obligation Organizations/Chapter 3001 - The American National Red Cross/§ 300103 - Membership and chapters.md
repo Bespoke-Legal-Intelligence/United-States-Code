@@ -48,7 +48,7 @@ In subsection (b)(1), before clause (A), the words “within the States and Terr
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–26, §5(1), inserted “, or as otherwise provided,” before “in the bylaws”.
+<b>2007</b>—Subsec. (a). Pub. L. 110–26, §5(1), inserted “, or as otherwise provided,” before “in the bylaws”.
 
 Subsec. (b)(1). Pub. L. 110–26, §5(2), in introductory provisions, substituted “corporation shall” for “board of governors shall” and inserted “policies and” before “regulations related”.
 

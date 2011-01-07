@@ -30,7 +30,7 @@ Substantive Differences.—(1) Except as provided in subsection (c) of this sect
 
 Compliance With Section 5112(b)
 
-Regulations.—(1) Except as provided in paragraph (2) ofthis subsection, after the last day of the 2-year period beginning on the date a regulation is prescribed under section 5112(b) of this title, a State or Indian tribe may establish, maintain, or enforce a highway routing designation over which hazardous material may or may not be transported by motor vehicles, or a limitation or requirement related to highway routing, only if the designation, limitation, or requirement complies with section 5112(b).
+Regulations.—(1) Except as provided in paragraph (2) of this subsection, after the last day of the 2-year period beginning on the date a regulation is prescribed under section 5112(b) of this title, a State or Indian tribe may establish, maintain, or enforce a highway routing designation over which hazardous material may or may not be transported by motor vehicles, or a limitation or requirement related to highway routing, only if the designation, limitation, or requirement complies with section 5112(b).
 
 (2)(A) A highway routing designation, limitation, or requirement established before the date a regulation is prescribed under section 5112(b) of this title does not have to comply with section 5112(b)(1)(B), (C), and (F).
 
@@ -142,13 +142,13 @@ This amends 49:5125(a) and (b)(1) to clarify the restatement of 49 App.:1804(a)(
 
 #### Amendments
 
-2008—Subsec. (d)(1). Pub. L. 110–244, §302(c)(1), substituted “5119(f)” for “5119(e)”.
+<b>2008</b>—Subsec. (d)(1). Pub. L. 110–244, §302(c)(1), substituted “5119(f)” for “5119(e)”.
 
 Subsec. (e). Pub. L. 110–244, §302(c)(2), substituted “5119(f)” for “5119(b)” in introductory provisions.
 
 Subsec. (g). Pub. L. 110–244, §302(c)(2), (3), substituted “(a), (b)(1), or (c)” for “(b), (c)(1), or (d)” and “5119(f)” for “5119(b)”.
 
-2005—Subsec. (b)(1)(E). Pub. L. 109–59, §7122(a)(1), added subpar. (E) and struck out former subpar. (E) which read as follows: “the design, manufacturing, fabricating, marking, maintenance, reconditioning, repairing, or testing of a packaging or a container represented, marked, certified, or sold as qualified for use in transporting hazardous material.”
+<b>2005</b>—Subsec. (b)(1)(E). Pub. L. 109–59, §7122(a)(1), added subpar. (E) and struck out former subpar. (E) which read as follows: “the design, manufacturing, fabricating, marking, maintenance, reconditioning, repairing, or testing of a packaging or a container represented, marked, certified, or sold as qualified for use in transporting hazardous material.”
 
 Subsec. (b)(2). Pub. L. 109–59, §7126, substituted “If the Secretary” for “If the Secretary of Transportation”.
 
@@ -166,9 +166,9 @@ Subsecs. (h), (i). Pub. L. 109–59, §7123(a)(2), redesignated subsecs. (h) and
 
 Pub. L. 109–59, §7122(d), added subsecs. (h) and (i).
 
-2002—Subsecs. (a), (b)(1). Pub. L. 107–296 substituted “chapter, a regulation prescribed under this chapter, or a hazardous materials transportation security regulation or directive issued by the Secretary of Homeland Security” for “chapter or a regulation prescribed under this chapter” wherever appearing.
+<b>2002</b>—Subsecs. (a), (b)(1). Pub. L. 107–296 substituted “chapter, a regulation prescribed under this chapter, or a hazardous materials transportation security regulation or directive issued by the Secretary of Homeland Security” for “chapter or a regulation prescribed under this chapter” wherever appearing.
 
-1994—Subsecs. (a), (b)(1). Pub. L. 103–429 inserted “and unless authorized by another law of the United States” after “section” in introductory provisions.
+<b>1994</b>—Subsecs. (a), (b)(1). Pub. L. 103–429 inserted “and unless authorized by another law of the United States” after “section” in introductory provisions.
 
 Subsec. (b)(1)(E). Pub. L. 103–311, §117(a)(2), substituted “a packaging or a” for “a package or”.
 

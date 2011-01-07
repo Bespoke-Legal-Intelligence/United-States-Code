@@ -74,7 +74,7 @@ Nothing in this section shall be considered to require a person to obtain a perm
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–513, §11(1), added subsec. (b). Former subsec. (b) redesignated (c).
+<b>2000</b>—Subsec. (b). Pub. L. 106–513, §11(1), added subsec. (b). Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 106–513, §11(1), (2), redesignated subsec. (b) as (c) and substituted “insurance, or post an equivalent bond,” for “insurance” in par. (4). Former subsec. (c) redesignated (d).
 

@@ -52,7 +52,7 @@ Section 403–3 of title 50, referred to in subsec. (c)(3)(F), was repealed and 
 
 #### Codification
 
-Section is comprised of section 201 of Pub. L. 107–173. Subsec. (b)(2) of section 201 of Pub. L. 107–173 amendedprovisions set out as a note under section 1365a of this title. Subsec. (c)(5) of section 201 of Pub. L. 107–173 amended section 1379 of this title.
+Section is comprised of section 201 of Pub. L. 107–173. Subsec. (b)(2) of section 201 of Pub. L. 107–173 amended provisions set out as a note under section 1365a of this title. Subsec. (c)(5) of section 201 of Pub. L. 107–173 amended section 1379 of this title.
 
 #### Amendments
 

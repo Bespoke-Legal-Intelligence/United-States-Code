@@ -242,7 +242,7 @@ For purposes of this section—
 
 #### (4) Effect of failure
 
-&emsp;In the case of an organization failing to meet the requirements of paragraph (1) for any period, the taxable income of such organization shall be computed by taking into account any exempt function income (and any deductions directly connected with the production of such income) or, in the case of a failure relating to a material change, by taking into account such income and deductions only during the period beginning on the date on which the material change occurs and ending on the date on which notice is given under this subsection. For purposes of the preceding sentence, the term “exempt function income” means any amount described in a subparagraph of subsection (c)(3), whether or not segregated for use for an exempt function.
+&emsp;In the case of an organization failing to meet the requirements of paragraph (1) for anyperiod, the taxable income of such organization shall be computed by taking into account any exempt function income (and any deductions directly connected with the production of such income) or, in the case of a failure relating to a material change, by taking into account such income and deductions only during the period beginning on the date on which the material change occurs and ending on the date on which notice is given under this subsection. For purposes of the preceding sentence, the term “exempt function income” means any amount described in a subparagraph of subsection (c)(3), whether or not segregated for use for an exempt function.
 
 #### (5) Exceptions
 
@@ -378,7 +378,7 @@ The Federal Election Campaign Act of 1971, referred to in subsecs. (i)(6) and (j
 
 #### Amendments
 
-2002—Subsec. (e)(5). Pub. L. 107–276, §2(b), added par. (5).
+<b>2002</b>—Subsec. (e)(5). Pub. L. 107–276, §2(b), added par. (5).
 
 Subsec. (i)(1)(A). Pub. L. 107–276, §6(c), substituted “electronically” for “, electronically and in writing,”.
 
@@ -410,27 +410,27 @@ Pub. L. 107–276, §5(a), added subsec. (k).
 
 Subsec. (<i>l</i>). Pub. L. 107–276, §6(e)(3), redesignated subsec. (k) as (<i>l</i>).
 
-2000—Subsec. (i). Pub. L. 106–230, §1(a), added subsec. (i).
+<b>2000</b>—Subsec. (i). Pub. L. 106–230, §1(a), added subsec. (i).
 
 Subsec. (j). Pub. L. 106–230, §2(a), added subsec. (j).
 
-1988—Subsec. (e)(2). Pub. L. 100–647 inserted at end “Such term includes the making of expenditures relating to an office described in the preceding sentence which, if incurred by the individual, would be allowable as a deduction under section 162(a).”
+<b>1988</b>—Subsec. (e)(2). Pub. L. 100–647 inserted at end “Such term includes the making of expenditures relating to an office described in the preceding sentence which, if incurred by the individual, would be allowable as a deduction under section 162(a).”
 
-1986—Subsec. (g)(1). Pub. L. 99–514, §112(b)(1)(A), substituted “paragraph (3)” for “section 24(c)(2)”.
+<b>1986</b>—Subsec. (g)(1). Pub. L. 99–514, §112(b)(1)(A), substituted “paragraph (3)” for “section 24(c)(2)”.
 
 Subsec. (g)(3). Pub. L. 99–514, §112(b)(1)(B), added par. (3).
 
-1984—Subsec. (g)(1). Pub. L. 98–369, §474(r)(16), substituted “section 24(c)(2)” for “section 41(c)(2)”.
+<b>1984</b>—Subsec. (g)(1). Pub. L. 98–369, §474(r)(16), substituted “section 24(c)(2)” for “section 41(c)(2)”.
 
 Subsec. (h)(2)(B). Pub. L. 98–369, §722(c), inserted “Nothing in this subsection shall be construed to require any designation where there is only one political committee with respect to a candidate.”
 
-1981—Subsec. (h). Pub. L. 97–34 added subsec. (h).
+<b>1981</b>—Subsec. (h). Pub. L. 97–34 added subsec. (h).
 
-1978—Subsec. (b)(1). Pub. L. 95–600 substituted “Such tax shall be computed by multiplying the political organization taxable income by the highest rate of tax specified in section 11(b)” for “Such tax shall consist of a normal tax and a surtax computed as provided in section 11 as though the political organization were a corporation and as though the political organization taxable income were the taxable income referred to in section 11” and struck out provision that for purposes of this subsection, the surtax exemption provided by section 11(d) not be allowed.
+<b>1978</b>—Subsec. (b)(1). Pub. L. 95–600 substituted “Such tax shall be computed by multiplying the political organization taxable income by the highest rate of tax specified in section 11(b)” for “Such tax shall consist of a normal tax and a surtax computed as provided in section 11 as though the political organization were a corporation and as though the political organization taxable income were the taxable income referred to in section 11” and struck out provision that for purposes of this subsection, the surtax exemption provided by section 11(d) not be allowed.
 
 Subsec. (c)(3)(D). Pub. L. 95–502 added subpar. (D).
 
-1976—Subsec. (b)(2). Pub. L. 94–455 substituted “net capital gain” for “net section 1201 gain” after “organization has a”.
+<b>1976</b>—Subsec. (b)(2). Pub. L. 94–455 substituted “net capital gain” for “net section 1201 gain” after “organization has a”.
 
 #### Effective Date of 2002 Amendment
 
@@ -520,7 +520,7 @@ Section 128(b) of Pub. L. 97–34 provided that: “The amendments made by this 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 301(b)(6) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
+Amendment by section 301(b)(6) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978,see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
 
 #### Effective Date of 1978 Amendment; Election Campaign Contributions; Collateral
 

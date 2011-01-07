@@ -28,7 +28,7 @@
 
 #### (3) Recipients of grants, etc.
 
-&emsp;A grant, cooperative agreement, or contract may be made or entered into under paragraph\(1) with an accredited institution of higher education. The institution may carry out the research or training under the grant, cooperative agreement, or contract through contracts, including contracts with any of the following:
+&emsp;A grant, cooperative agreement, or contract may be made or entered into under paragraph (1) with an accredited institution of highereducation. The institution may carry out the research or training under the grant, cooperative agreement, or contract through contracts, including contracts with any of the following:
 
 &emsp;&emsp;(A) Generators of hazardous wastes.
 
@@ -98,7 +98,7 @@
 
 #### (B) Solicitation
 
-&emsp;&emsp;Within 90 days after October 17, 1986, and no less often than once every 12 months thereafter, the Administrator shall publish a solicitation for innovative or alternative technologies at a stage of development suitable for full-scale demonstrations at sites at which a response action may be undertaken under section 9604 of this title. The purpose of any such project shall be to demonstrate the use of an alternative or innovative treatment technology with respect to hazardous substances or pollutants or contaminants which are located at the site or which are to be removed from the site. The solicitation notice shall prescribe information to be included in the application, including technical and economic data derived from the applicant's own research and development efforts, and other information sufficient to permit the Administrator to assess the technology's potential and the types of remedial action to which it may be applicable.
+&emsp;&emsp;Within 90 days after October 17, 1986, and no less often than once every 12 monthsthereafter, the Administrator shall publish a solicitation for innovative or alternative technologies at a stage of development suitable for full-scale demonstrations at sites at which a response action may be undertaken under section 9604 of this title. The purpose of any such project shall be to demonstrate the use of an alternative or innovative treatment technology with respect to hazardous substances or pollutants or contaminants which are located at the site or which are to be removed from the site. The solicitation notice shall prescribe information to be included in the application, including technical and economic data derived from the applicant's own research and development efforts, and other information sufficient to permit the Administrator to assess the technology's potential and the types of remedial action to which it may be applicable.
 
 #### (C) Applications
 
@@ -138,7 +138,7 @@
 
 #### (7) Criteria
 
-&emsp;In selecting technologies to be demonstrated under this subsection, the Administrator shall, consistent with the protection of human health and the environment, consider each of the following criteria:
+&emsp;In selecting technologies to be demonstrated under this subsection, the Administratorshall, consistent with the protection of human health and the environment, consider each of the following criteria:
 
 &emsp;&emsp;(A) The potential for contributing to solutions to those waste problems which pose the greatest threat to human health, which cannot be adequately controlled under present technologies, or which otherwise pose significant management difficulties.
 
@@ -248,13 +248,15 @@ The Administrator shall ensure, to the maximum extent practicable, an adequate o
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (a)(4), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title IV of the Public Health Service Act is classified generally to subchapter III (§281 et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+This chapter, referred to in subsec. (a)(1)(B)(iii), (6), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+
+The Public Health Service Act, referred to in subsec. (a)(4), is act July 1, 1944, ch. 373, 58 Stat. 682. Title IV of the Public Health Service Act is classified generally to subchapter III (§281 et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 The Solid Waste Disposal Act, referred to in subsec. (f), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 #### Amendments
 
-1986—Subsec. (b)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (b)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Methamphetamine Remediation Research
 

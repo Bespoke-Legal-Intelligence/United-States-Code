@@ -14,7 +14,7 @@
 
 &emsp;(2) is authorized by the agency to carry a firearm;
 
-&emsp;(3) is not the subject of any disciplinary action by the agency;
+&emsp;(3) is not the subject of any disciplinary action by the agency which could result in suspension or loss of police powers;
 
 &emsp;(4) meets standards, if any, established by the agency which require the employee to regularly qualify in the use of a firearm;
 
@@ -24,17 +24,39 @@
 
 (d) The identification required by this subsection is the photographic identification issued by the governmental agency for which the individual is employed as a law enforcement officer.
 
-(e) As used in this section, the term “firearm” does not include—
+(e) As used in this section, the term “firearm”—
 
-&emsp;(1) any machinegun (as defined in section 5845 of the National Firearms Act);
+&emsp;(1) except as provided in this subsection, has the same meaning as in section 921 of this title;
 
-&emsp;(2) any firearm silencer (as defined in section 921 of this title); and
+&emsp;(2) includes ammunition not expressly prohibited by Federal law or subject to the provisions of the National Firearms Act; and
 
-&emsp;(3) any destructive device (as defined in section 921 of this title).
+&emsp;(3) does not include—
 
-(Added Pub. L. 108–277, §2(a), July 22, 2004, 118 Stat. 865.)
+&emsp;&emsp;(A) any machinegun (as defined in section 5845 of the National Firearms Act);
+
+&emsp;&emsp;(B) any firearm silencer (as defined in section 921 of this title); and
+
+&emsp;&emsp;(C) any destructive device (as defined in section 921 of this title).
+
+(f) For the purposes of this section, a law enforcement officer of the Amtrak Police Department, a law enforcement officer of the Federal Reserve, or a law enforcement or police officer of the executive branch of the Federal Government qualifies as an employee of a governmental agency who is authorized by law to engage in or supervise the prevention, detection, investigation, or prosecution of, or the incarceration of any person for, any violation of law, and has statutory powers of arrest.
+
+(Added Pub. L. 108–277, §2(a), July 22, 2004, 118 Stat. 865; amended Pub. L. 111–272, §2(a), (b), Oct. 12, 2010, 124 Stat. 2855.)
 
 #### References in Text
 
-Section 5845 of the National Firearms Act, referred to in subsec. (e)(1), is classified to section 5845 of Title 26, Internal Revenue Code.
+The National Firearms Act, referred to in subsec. (e), is classified generally to chapter 53 (§5801 et seq.) of Title 26, Internal Revenue Code. See section 5849 of Title 26. Section 5845 of the Act is classified to section 5845 of Title 26.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (c)(3). Pub. L. 111–272, §2(a)(1), inserted “which could result in suspension or loss of police powers” after “agency”.
+
+Subsec. (e). Pub. L. 111–272, §2(b), added subsec. (e) and struck out former subsec. (e) which read as follows: “As used in this section, the term ‘firearm’ does not include—
+
+&emsp;“(1) any machinegun (as defined in section 5845 of the National Firearms Act);
+
+&emsp;“(2) any firearm silencer (as defined in section 921 of this title); and
+
+&emsp;“(3) any destructive device (as defined in section 921 of this title).”
+
+Subsec. (f). Pub. L. 111–272, §2(a)(2), added subsec. (f).
 

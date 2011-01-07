@@ -20,8 +20,6 @@ All mediation and conciliation functions of the Secretary of Labor or the United
 
 #### References in Text
 
-The civil service laws, referred to in subsec. (b), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 Section 51 of this title, referred to in subsec. (d), was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 642.
 
 #### Codification
@@ -30,11 +28,11 @@ Provisions of subsec. (a) which prescribed the basic annual compensation of the 
 
 In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 
-Provisions of subsec. (b) that authorized the Director to fix the compensation of conciliators and mediators without regard to the Classification Act of 1923, as amended, have been omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the Classification Act of 1923 and all other laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exceptions contained in this section because of section 1106(b) which provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632 (of which section 1 revised and enacted Title 5, Government Organization and Employees, into law). Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
+Provisions of subsec. (b) that authorized the Director to fix the compensation of conciliators and mediatorswithout regard to the Classification Act of 1923, as amended, have been omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the Classification Act of 1923 and all other laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exceptions contained in this section because of section 1106(b) which provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632 (of which section 1 revised and enacted Title 5, Government Organization and Employees, into law). Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
 #### Amendments
 
-1949—Subsec. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+<b>1949</b>—Subsec. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
 #### Repeals
 
@@ -42,5 +40,5 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (c) of this section requiring the Director to make an annual report in writing to Congress at the end of the fiscal year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 171 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (c) requiring the Director to make an annual report in writing to Congress at the end of the fiscal year, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 171 of House Document No. 103–7.
 

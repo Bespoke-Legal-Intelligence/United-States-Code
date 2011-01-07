@@ -18,7 +18,7 @@ Limitation.—A person may not be a member of more than one board convened under
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–65 amended heading and text generally. Prior to amendment, text read as follows:
+<b>1999</b>—Subsec. (a). Pub. L. 106–65 amended heading and text generally. Prior to amendment, text read as follows:
 
 “(1) Each officer who serves on a board convened under this chapter shall be an officer of the same armed force as the officer being required to show cause for retention in an active status.
 

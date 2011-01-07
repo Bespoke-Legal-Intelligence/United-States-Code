@@ -64,7 +64,7 @@ This makes a clarifying amendment to 49:50101(a) and (b)(3), 50102, 50104(b)(1),
 
 #### Amendments
 
-1996—Pub. L. 104–287, §5(88)(D), renumbered section 49101 of this title as this section.
+<b>1996</b>—Pub. L. 104–287, §5(88)(D), renumbered section 49101 of this title as this section.
 
 Subsecs. (a), (b)(3). Pub. L. 104–287, §5(89), substituted “section 47127” for “sections 47106(d) and 47127”.
 
@@ -80,7 +80,7 @@ Prohibition Against Fraudulent Use of ‘Made in America’ Labels.—(1) A pers
 
 “(b)
 
-Compliance With Buy American Act.—(1) Except as provided in paragraph (2), the head of each office within the Federal Aviation Administration that conducts procurements shall ensure that such procurements are conducted in compliance with sections 2 through 4 of the Act of March 3, 1933 (41 U.S.C. 10a through 10c \[41 U.S.C. 10a—10b–1\], popularly known as the ‘Buy American Act’).
+Compliance With Buy American Act.—(1) Except as provided in paragraph (2), the head of each office within the Federal Aviation Administration that conducts procurements shall ensure that such procurements are conducted in compliance with sections 2 through 4 of the Act of March 3, 1933 (\[former\] 41 U.S.C. 10a through 10c, popularly known as the ‘Buy American Act’ \[see 41 U.S.C. 8301 et seq.\]).
 
 “(2) This subsection shall apply only to procurements made for which—
 

@@ -28,7 +28,7 @@ Each correctional facility entering into an agreement with a local educational a
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in par. (1), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in par. (1), is title VI of Pub. L. 91–230, Apr.13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 Pub. L. 105–220, referred to in par. (9), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 

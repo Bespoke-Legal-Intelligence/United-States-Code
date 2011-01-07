@@ -92,13 +92,99 @@ Definitions.—In this section:
 
 (Added Pub. L. 103–160, div. A, title V, §571(a)(1), Nov. 30, 1993, 107 Stat. 1670.)
 
+#### Repeal of Section
+
+<i>Pub. L. 111–321, §2(b), (f)(1), Dec. 22, 2010, 124 Stat. 3516, provided that, effective on the date established by section 2(b) of Pub. L. 111–321, set out in a note below, this section is repealed.</i>
+
 #### References in Text
 
 The Uniform Code of Military Justice, referred to in subsec. (a)(10), is classified to chapter 47 (§801 et seq.) of this title.
 
+#### Don't Ask, Don't Tell Repeal
+
+Pub. L. 111–321, Dec. 22, 2010, 124 Stat. 3515, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Don't Ask, Don't Tell Repeal Act of 2010’.
+
+#### “SEC. 2. DEPARTMENT OF DEFENSE POLICY CONCERNING HOMOSEXUALITY IN THE ARMED FORCES.
+
+“(a)
+
+Comprehensive Review on the Implementation of a Repeal of 10
+
+U.S.C. 654.—
+
+&emsp;“(1)
+
+In general.—On March 2, 2010, the Secretary of Defense issued a memorandum directing the Comprehensive Review on the Implementation of a Repeal of 10 U.S.C. 654 (section 654 of title 10, United States Code).
+
+&emsp;“(2)
+
+Objectives and scope of review.—The Terms of Reference accompanying the Secretary's memorandum established the following objectives and scope of the ordered review:
+
+&emsp;&emsp;“(A) Determine any impacts to military readiness, military effectiveness and unit cohesion, recruiting/retention, and family readiness that may result from repeal of the law and recommend any actions that should be taken in light of such impacts.
+
+&emsp;&emsp;“(B) Determine leadership, guidance, and training on standards of conduct and new policies.
+
+&emsp;&emsp;“(C) Determine appropriate changes to existing policies and regulations, including but not limited to issues regarding personnel management, leadership and training, facilities, investigations, and benefits.
+
+&emsp;&emsp;“(D) Recommend appropriate changes (if any) to the Uniform Code of Military Justice \[10 U.S.C. 801 et seq.\].
+
+&emsp;&emsp;“(E) Monitor and evaluate existing legislative proposals to repeal 10 U.S.C. 654 and proposals that may be introduced in the Congress during the period of the review.
+
+&emsp;&emsp;“(F) Assure appropriate ways to monitor the workforce climate and military effectiveness that support successful follow-through on implementation.
+
+&emsp;&emsp;“(G) Evaluate the issues raised in ongoing litigation involving 10 U.S.C. 654.
+
+“(b)
+
+Effective Date.—The amendments made by subsection (f) shall take effect 60 days after the date on which the last of the following occurs:
+
+&emsp;“(1) The Secretary of Defense has received the report required by the memorandum of the Secretary referred to in subsection (a).
+
+&emsp;“(2) The President transmits to the congressional defense committees a written certification, signed by the President, the Secretary of Defense, and the Chairman of the Joint Chiefs of Staff, stating each of the following:
+
+&emsp;&emsp;“(A) That the President, the Secretary of Defense, and the Chairman of the Joint Chiefs of Staff have considered the recommendations contained in the report and the report's proposed plan of action.
+
+&emsp;&emsp;“(B) That the Department of Defense has prepared the necessary policies and regulations to exercise the discretion provided by the amendments made by subsection (f).
+
+&emsp;&emsp;“(C) That the implementation of necessary policies and regulations pursuant to the discretion provided by the amendments made by subsection (f) is consistent with the standards of military readiness, military effectiveness, unit cohesion, and recruiting and retention of the Armed Forces.
+
+“(c)
+
+No Immediate Effect on Current Policy.—Section 654 of title 10, United States Code, shall remain in effect until such time that all of the requirements and certifications required by subsection (b) are met. If these requirements and certifications are not met, section 654 of title 10, United States Code, shall remain in effect.
+
+“(d)
+
+Benefits.—Nothing in this section, or the amendments made by this section, shall be construed to require the furnishing of benefits in violation of section 7 of title 1, United States Code (relating to the definitions of ‘marriage’ and ‘spouse’ and referred to as the ‘Defense of Marriage Act’).
+
+“(e)
+
+No Private Cause of Action.—Nothing in this section, or the amendments made by this section, shall be construed to create a private cause of action.
+
+“(f)
+
+Treatment of 1993
+
+Policy.—
+
+&emsp;“(1)
+
+Title 10.—Upon the effective date established by subsection (b), chapter 37 of title 10, United States Code, is amended—
+
+&emsp;&emsp;“(A) by striking section 654; and
+
+&emsp;&emsp;“(B) in the table of sections at the beginning of such chapter, by striking the item relating to section 654.
+
+&emsp;“(2)
+
+Conforming amendment.—Upon the effective date established by subsection (b), section 571 of the National Defense Authorization Act for Fiscal Year 1994 \[Pub. L. 103–160\] (10 U.S.C. 654 note) is amended by striking subsections (b), (c), and (d).”
+
 #### Implementation of Section; Regulations; Savings Provision; Sense of Congress
 
-Section 571(b)–(d) of Pub. L. 103–160 provided that:
+Pub. L. 103–160, div. A, title V, §571(b)–(d), Nov. 30, 1993, 107 Stat. 1671, 1672, as amended by Pub. L. 111–321, §2(f)(2), Dec. 22, 2010, 124 Stat. 3516, provided that:
 
 “(b)
 
@@ -115,4 +201,6 @@ Sense of Congress.—It is the sense of Congress that—
 &emsp;“(1) the suspension of questioning concerning homosexuality as part of the processing of individuals for accession into the Armed Forces under the interim policy of January 29, 1993, should be continued, but the Secretary of Defense may reinstate that questioning with such questions or such revised questions as he considers appropriate if the Secretary determines that it is necessary to do so in order to effectuate the policy set forth in section 654 of title 10, United States Code, as added by subsection (a); and
 
 &emsp;“(2) the Secretary of Defense should consider issuing guidance governing the circumstances under which members of the Armed Forces questioned about homosexuality for administrative purposes should be afforded warnings similar to the warnings under section 831(b) of title 10, United States Code (article 31(b) of the Uniform Code of Military Justice).”
+
+\[Pub. L. 111–321, §2(b), (f)(2), Dec. 22, 2010, 124 Stat. 3516, provided that, effective on the date established by section 2(b) of Pub. L. 111–321, set out in a note above, section 571 of Pub. L. 103–160, set out above, is amended by striking out subsections (b), (c), and (d).\]
 

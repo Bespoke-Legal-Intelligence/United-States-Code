@@ -62,7 +62,7 @@ The Federal Trade Commission Act, referred to in subsecs. (a), (b), and (c), is 
 
 #### Amendments
 
-2008—Subsec. (e)(1). Pub. L. 110–314, §217(a)(3)(A), (B), substituted “$100,000” for “$5,000” and “$15,000,000” for “$1,250,000”.
+<b>2008</b>—Subsec. (e)(1). Pub. L. 110–314, §217(a)(3)(A), (B), substituted “$100,000” for “$5,000” and “$15,000,000” for “$1,250,000”.
 
 Subsec. (e)(2). Pub. L. 110–314, §217(b)(1)(C)(i), substituted “nature, circumstances, extent, and gravity” for “nature and number” and “absence of injury,” for “absence of injury, and” and inserted “, and such other factors as appropriate” before period at end.
 
@@ -74,11 +74,11 @@ Pub. L. 110–314, §217(b)(1)(C)(ii)(I), substituted “nature, circumstances, 
 
 Subsec. (e)(5)(B). Pub. L. 110–314, §217(a)(3)(C), which directed the substitution of “December 1, 2011,” for “December 1, 1994,” in par. (6)(B) of subsec. (e)(1), was executed by making the substitution in par. (5)(B) of subsec. (e) to reflect the probable intent of Congress because subsec. (e) does not contain a par. (6).
 
-1990—Subsec. (a). Pub. L. 101–608, §118(b), inserted at end “In the case of an attorney general of a State alleging a violation of a standard or regulation under section 1193 of this title that affects or may affect such State or its residents, such attorney general may bring a civil action for an injunction to enforce the requirement of such standard or regulation. The procedural requirements of section 2073 of this title shall apply to any such action.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–608, §118(b), inserted at end “In the case of an attorney general of a State alleging a violation of a standard or regulation under section 1193 of this title that affects or may affect such State or its residents, such attorney general may bring a civil action for an injunction to enforce the requirement of such standard or regulation. The procedural requirements of section 2073 of this title shall apply to any such action.”
 
 Subsec. (e). Pub. L. 101–608, §115(c), added subsec. (e).
 
-1967—Subsec. (c). Pub. L. 90–189, §4(a), inserted “, including provisions for maintenance of records relating to fabrics, related materials, and products,” after “rules and regulations” and inserted sentence making violations of such rules and regulations unlawful and an unfair method of competition and an unfair and deceptive act or practice, in commerce, under the Federal Trade Commission Act.
+<b>1967</b>—Subsec. (c). Pub. L. 90–189, §4(a), inserted “, including provisions for maintenance of records relating to fabrics, related materials, and products,” after “rules and regulations” and inserted sentence making violations of such rules and regulations unlawful and an unfair method of competition and an unfair and deceptive act or practice, in commerce, under the Federal Trade Commission Act.
 
 Subsec. (d)(1). Pub. L. 90–189, §4(b), substituted “product, fabric or related material” for “article of wearing apparel or fabric”.
 

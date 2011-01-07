@@ -50,11 +50,11 @@
 
 (2) A member of the Committee shall not be considered to be an officer or employee of the United States for any purpose based on their receipt of any payment under this subsection.
 
-(f)(1) The Federal Advisory Committee Act (5 U.S.C. App.) applies to the Committee, except that the Committee terminates on September 30, 2010.
+(f)(1) The Federal Advisory Committee Act (5 U.S.C. App.) applies to the Committee, except that the Committee terminates on September 30, 2020.
 
 (2) 2 years before the termination date set forth in paragraph (1) of this subsection, the Committee shall submit to the Congress its recommendation regarding whether the Committee should be renewed and continued beyond the termination date.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 559; Pub. L. 105–383, title III, §303, Nov. 13, 1998, 112 Stat. 3418; Pub. L. 106–554, §1(a)(4) \[div. A, §1118\], Dec. 21, 2000, 114 Stat. 2763, 2763A–209; Pub. L. 108–293, title IV, §418(d), Aug. 9, 2004, 118 Stat. 1049; Pub. L. 109–304, §15(23), Oct. 6, 2006, 120 Stat. 1704.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 559; Pub. L. 105–383, title III, §303, Nov. 13, 1998, 112 Stat. 3418; Pub. L. 106–554, §1(a)(4) \[div. A, §1118\], Dec. 21, 2000, 114 Stat. 2763, 2763A–209; Pub. L. 108–293, title IV, §418(d), Aug. 9, 2004, 118 Stat. 1049; Pub. L. 109–304, §15(23), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 111–281, title VI, §621(a), Oct. 15, 2010, 124 Stat. 2976.)
 
 Historical and Revision Notes
 
@@ -80,11 +80,13 @@ The Federal Advisory Committee Act, referred to in subsecs. (c)(2) and (f)(1), i
 
 #### Amendments
 
-2006—Subsec. (b)(2)(A). Pub. L. 109–304 substituted “the President” for “The President”.
+<b>2010</b>—Subsec. (f)(1). Pub. L. 111–281 substituted “September 30, 2020” for “September 30, 2010”.
 
-2004—Subsec. (f)(1). Pub. L. 108–293 substituted “September 30, 2010” for “September 30, 2005”.
+<b>2006</b>—Subsec. (b)(2)(A). Pub. L. 109–304 substituted “the President” for “The President”.
 
-2000—Subsec. (b)(2)(A). Pub. L. 106–554, §1(a)(4) \[div. A, §1118(1)\], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “three members who are practicing Great Lakes pilots and who reflect a regional balance;”.
+<b>2004</b>—Subsec. (f)(1). Pub. L. 108–293 substituted “September 30, 2010” for “September 30, 2005”.
+
+<b>2000</b>—Subsec. (b)(2)(A). Pub. L. 106–554, §1(a)(4) \[div. A, §1118(1)\], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “three members who are practicing Great Lakes pilots and who reflect a regional balance;”.
 
 Subsec. (b)(2)(E). Pub. L. 106–554, §1(a)(4) \[div. A, §1118(2)\], amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “one member representing the interests of the general public, who is an independent expert on the Great Lakes maritime industry.”
 
@@ -94,7 +96,7 @@ Subsec. (d)(3). Pub. L. 106–554, §1(a)(4) \[div. A, §1118(4)\], added par. (
 
 Subsec. (f)(1). Pub. L. 106–554, §1(a)(4) \[div. A, §1118(5)\], substituted “September 30, 2005” for “September 30, 2003”.
 
-1998—Pub. L. 105–383 amended section generally, substituting provisions consisting of subsecs. (a) to (f) for former provisions consisting of subsecs. (a) to (c).
+<b>1998</b>—Pub. L. 105–383 amended section generally, substituting provisions consisting of subsecs. (a) to (f) for former provisions consisting of subsecs. (a) to (c).
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

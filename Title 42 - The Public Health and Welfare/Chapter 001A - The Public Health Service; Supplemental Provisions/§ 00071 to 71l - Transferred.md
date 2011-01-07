@@ -8,11 +8,11 @@ Section 71a, act Apr. 9, 1930, ch. 125, §2(a), 46 Stat. 150, which provided for
 
 Section 71b, act Apr. 9, 1930, ch. 125, §2(a), 46 Stat. 150, which provided for extension of facilities of Service to health officials and scientist, was transferred to section 8a of this title.
 
-Section 71c, acts Apr. 9, 1930, ch. 125, §2(b), 46 Stat. 150; May 26, 1930, ch. 320, §1, 46 Stat. 379, which provided for additional divisions in Institute as authorized by Federal Security Administrator, was transferred to section 23g of this title.
+Section 71c, acts Apr. 9, 1930, ch. 125, §2(b), 46 Stat. 150; May 26, 1930, ch. 320, §1, 46 Stat. 379, which provided for additional divisions in Institute as authorized byFederal Security Administrator, was transferred to section 23g of this title.
 
 Section 71d, act Apr. 9, 1930, ch. 125, §3, 46 Stat. 150, which provided that administrative office and bureau divisions in District of Columbia be a part of departmental organization and scientific offices and research laboratories be a part of the field service, was transferred to section 9a of this title.
 
-Section 71e, act Apr. 9, 1930, ch. 125, §4, 46 Stat. 150, which provided for appointment and grades of medical,dental, sanitary, engineer, and pharmacist officers, was transferred to section 38 of this title.
+Section 71e, act Apr. 9, 1930, ch. 125, §4, 46 Stat. 150, which provided for appointment and grades of medical, dental, sanitary, engineer, and pharmacist officers, was transferred to section 38 of this title.
 
 Section 71f, act Apr. 9, 1930, ch. 125, §5, 46 Stat. 150, which provided for number, pay and allowances, and service credits for pay purposes of medical, dental, sanitary, engineer, and pharmacist officers, was transferred to section 39 of this title.
 

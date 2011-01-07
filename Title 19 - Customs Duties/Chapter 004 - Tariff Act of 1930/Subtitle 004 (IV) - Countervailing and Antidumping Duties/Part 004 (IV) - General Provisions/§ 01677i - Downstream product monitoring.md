@@ -20,11 +20,11 @@
 
 &emsp;&emsp;(B) whether—
 
-&emsp;&emsp;&emsp;(i) the component part is already subject to monitoring to aid in the enforcement of a bilateral arrangement (within the meaning of section 804 of the Trade and Tariff Act of 1984),
+&emsp;&emsp;&emsp;(i) the component part is already subject to monitoring to aid in the enforcement ofa bilateral arrangement (within the meaning of section 804 of the Trade and Tariff Act of 1984),
 
 &emsp;&emsp;&emsp;(ii) merchandise related to the component part and manufactured in the same foreign country in which the component part is manufactured has been the subject of a significant number of investigations suspended under section 1671c or 1673c of this title or countervailing or antidumping duty orders issued under this subtitle or section 1303 <sup>1</sup> of this title, or
 
-&emsp;&emsp;&emsp;(iii) merchandise manufactured or exported by the manufacturer or exporter of the component part that is similar in description and use to the component parthas been the subject of at least 2 investigations suspended under section 1671c or 1673c of this title or countervailing or antidumping duty orders issued under this subtitle or section 1303 <sup>1</sup> of this title.
+&emsp;&emsp;&emsp;(iii) merchandise manufactured or exported by the manufacturer or exporter of the component part that is similar in description and use to the component part has been the subject of at least 2 investigations suspended under section 1671c or 1673c of this title or countervailing or antidumping duty orders issued under this subtitle or section 1303 <sup>1</sup> of this title.
 
 #### (3) Factors to take into account
 
@@ -86,13 +86,13 @@ For purposes of this section—
 
 #### References in Text
 
-Section 804 of the Trade and Tariff Act of 1984, referred to in subsec. (a)(2)(B)(i), is section 804 of Pub. L. 98–573, which is set out as a note under section 2253 of this title.
+Section 804 of the Trade and Tariff Act of 1984, referred to in subsec. (a)(2)(B)(i), is section 804 of Pub. L.98–573, which is set out as a note under section 2253 of this title.
 
 Section 1303 of this title, referred to in subsecs. (a)(2)(B)(ii), (iii) and (d)(1)(A)(i), (ii), is defined in section 1677(26) of this title to mean section 1330 as in effect on the day before Jan. 1, 1995.
 
 #### Amendments
 
-1994—Subsec. (c)(1). Pub. L. 103–465, §261(d)(1)(B)(iv), substituted “or 1673a(a)” for “, 1673a(a), or 1303”.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–465, §261(d)(1)(B)(iv), substituted “or 1673a(a)” for “, 1673a(a), or 1303”.
 
 Subsec. (d)(1)(A)(ii). Pub. L. 103–465, §270(a)(1)(M), inserted “countervailable” before “subsidy”.
 

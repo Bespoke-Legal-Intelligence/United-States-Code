@@ -32,7 +32,7 @@ Service Creditable for Certain Purposes.—(1) The Secretary concerned may autho
 
 #### Amendments
 
-1999—Subsec. (b)(2). Pub. L. 106–65, §544(1), added par. (2) and struck out former par. (2) which read as follows: “Service credited under paragraph (1) counts only for the following purposes:
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–65, §544(1), added par. (2) and struck out former par. (2) which read as follows: “Service credited under paragraph (1) counts only for the following purposes:
 
 &emsp;“(A) Award of retirement points for computation of years of service under section 12732 of this title and for computation of retired pay under section 12733 of this title.
 
@@ -42,9 +42,9 @@ Subsec. (b)(3). Pub. L. 106–65, §544(1), added par. (3) and struck out former
 
 Subsec. (b)(5), (6). Pub. L. 106–65, §544(2), (3), added par. (5) and redesignated former par. (5) as (6).
 
-1996—Pub. L. 104–201 designated existing provisions as subsec. (a), inserted heading, substituted “Except as provided in subsection (b), service performed” for “Service performed”, and added subsec. (b).
+<b>1996</b>—Pub. L. 104–201 designated existing provisions as subsec. (a), inserted heading, substituted “Except as provided in subsection (b), service performed” for “Service performed”, and added subsec. (b).
 
-1980—Cl. (2). Pub. L. 96–513 struck out “, other than subsection (a)(7) and (8),” after “section 205”.
+<b>1980</b>—Cl. (2). Pub. L. 96–513 struck out “, other than subsection (a)(7) and (8),” after “section 205”.
 
 #### Effective Date of 1980 Amendment
 

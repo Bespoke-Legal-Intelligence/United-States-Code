@@ -308,9 +308,9 @@ The effective date of this subsection, referred to in subsec. (i)(1)(A), (D), is
 
 #### Amendments
 
-2006—Subsecs. (i), (j). Pub. L. 109–168 redesignated subsec. (i), relating to government-owned tanks, as (j). Subsec. (j) was editorially transferred to the end of the section to reflect the probable intent of Congress.
+<b>2006</b>—Subsecs. (i), (j). Pub. L. 109–168 redesignated subsec. (i), relating to government-owned tanks, as (j). Subsec. (j) was editorially transferred to the end of the section to reflect the probable intent of Congress.
 
-2005—Subsec. (f)(1). Pub. L. 109–58, §1533(2), substituted “subsections (c) and (d)” for “subsection (c) and (d)”.
+<b>2005</b>—Subsec. (f)(1). Pub. L. 109–58, §1533(2), substituted “subsections (c) and (d)” for “subsection (c) and (d)”.
 
 Pub. L. 109–58, §1532(b)(1)(A), substituted “6991(7)(B)” for “6991(2)(B)”.
 
@@ -332,9 +332,9 @@ Subsec. (i). Pub. L. 109–58, §1530(a), added subsec. (i) relating to addition
 
 Pub. L. 109–58, §1526(b), added subsec. (i) relating to government-owned tanks.
 
-1996—Subsec. (h)(9). Pub. L. 104–208 added par. (9) and struck out heading and text of former par. (9). Text read as follows: “As used in this subsection, the term ‘owner’ does not include any person who, without participating in the management of an underground storage tank and otherwise not engaged in petroleum production, refining, and marketing, holds indicia of ownership primarily to protect the owner's security interest in the tank.”
+<b>1996</b>—Subsec. (h)(9). Pub. L. 104–208 added par. (9) and struck out heading and text of former par. (9). Text read as follows: “As used in this subsection, the term ‘owner’ does not include any person who, without participating in the management of an underground storage tank and otherwise not engaged in petroleum production, refining, and marketing, holds indicia of ownership primarily to protect the owner's security interest in the tank.”
 
-1986—Subsec. (c)(6). Pub. L. 99–499, §205(c)(1), added par. (6).
+<b>1986</b>—Subsec. (c)(6). Pub. L. 99–499, §205(c)(1), added par. (6).
 
 Subsec. (d)(1). Pub. L. 99–499, §205(c)(3), which directed that par. (1) be amended by “striking out ‘or’ after ‘credit,’ and by striking out the period at the end thereof and inserting in lieu thereof the following: ‘or any other method satisfactory to the Administrator.’ ”, was executed by striking the period and making insertion at end of first sentence, rather than at end of par. (1), as the probable intent of Congress, because an earlier version of the amending legislation had provided that such amendment be made to first sentence.
 

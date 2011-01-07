@@ -26,5 +26,5 @@ As used in sections 459b to 459b–8 of this title the term “fair market value
 
 #### Amendments
 
-1998—Subsecs. (d), (e). Pub. L. 105–280 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1998</b>—Subsecs. (d), (e). Pub. L. 105–280 added subsec. (d) and redesignated former subsec. (d) as (e).
 

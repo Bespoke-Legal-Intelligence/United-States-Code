@@ -22,5 +22,5 @@ The words “person whose name is on” are substituted for the words “Any act
 
 #### Amendments
 
-1972—Pub. L. 92–425 substituted “subchapter” for “chapter”.
+<b>1972</b>—Pub. L. 92–425 substituted “subchapter” for “chapter”.
 

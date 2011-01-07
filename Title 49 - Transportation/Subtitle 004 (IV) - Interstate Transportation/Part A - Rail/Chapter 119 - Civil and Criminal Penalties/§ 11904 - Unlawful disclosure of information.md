@@ -26,7 +26,7 @@
 
 #### Historical and Revision Notes
 
-I74Pub. L. 105–102
+#### Pub. L. 105–102
 
 This amends 49:11904(a)(2) to correct a grammatical error.
 
@@ -38,5 +38,5 @@ A prior section 11904, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1457; Pub. L. 9
 
 #### Amendments
 
-1997—Subsec. (a)(2). Pub. L. 105–102 struck out “a” before “person”.
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–102 struck out “a” before “person”.
 

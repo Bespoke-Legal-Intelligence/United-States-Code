@@ -60,7 +60,7 @@ Section 1443 of title 19, referred to in subsec. (f)(2), was in the original sec
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–280, §6(1), substituted “Except as provided in section 1903(b)(1) of this title, the Secretary” for “The Secretary”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–280, §6(1), substituted “Except as provided in section 1903(b)(1) of this title, the Secretary” for “The Secretary”.
 
 Subsec. (b). Pub. L. 110–280, §6(2), substituted “Secretary or the Administrator under the authority of this chapter.” for “Secretary under the authority of the MARPOL Protocol.”
 

@@ -18,5 +18,5 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–507 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There is established within the Executive Office of the President the Office of the Nuclear Waste Negotiator.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–507 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There is established within the Executive Office of the President the Office of the Nuclear Waste Negotiator.”
 

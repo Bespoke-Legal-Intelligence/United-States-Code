@@ -20,7 +20,7 @@ The Commission, or upon the authorization and direction of the Commission, a reg
 
 #### (b) Disclosure
 
-The Commission, or upon the authorization and direction of the Commission, a registered securities association or national securities exchange, shall have adopted, not later than 1 year after July 30, 2002, rules reasonably designed to require each securities analyst to disclose in public appearances, and each registered broker or dealer to disclose in each research report, as applicable, conflicts of interest that are knownor should have been known by the securities analyst or the broker or dealer, to exist at the time of the appearance or the date of distribution of the report, including—
+The Commission, or upon the authorization and direction of the Commission, a registered securities association or national securities exchange, shall have adopted, not later than 1 year after July 30, 2002, rules reasonably designed to require each securities analyst to disclose in public appearances, and each registered broker or dealer to disclose in each research report, as applicable, conflicts of interest that are known or should have been known by the securities analyst or the broker or dealer, to exist at the time of the appearance or the date of distribution of the report, including—
 
 &emsp;(1) the extent to which the securities analyst has debt or equity investments in the issuer that is the subject of the appearance or research report;
 

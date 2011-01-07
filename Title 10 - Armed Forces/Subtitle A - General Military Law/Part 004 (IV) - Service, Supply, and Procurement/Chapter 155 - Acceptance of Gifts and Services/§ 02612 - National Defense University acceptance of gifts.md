@@ -26,5 +26,5 @@
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–136 substituted “2166(f)(4)” for “2611(f)”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–136 substituted “2166(f)(4)” for “2611(f)”.
 

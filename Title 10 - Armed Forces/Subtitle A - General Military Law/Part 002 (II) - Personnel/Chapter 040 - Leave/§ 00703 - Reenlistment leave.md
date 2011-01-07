@@ -36,13 +36,13 @@ The 4th sentence of section 31a(a) of existing title 37 is omitted as executed. 
 
 #### Amendments
 
-1972—Subsec. (b). Pub. L. 92–481 substituted “June 30, 1973” for “June 30, 1972”.
+<b>1972</b>—Subsec. (b). Pub. L. 92–481 substituted “June 30, 1973” for “June 30, 1972”.
 
-1970—Subsec. (b). Pub. L. 91–302 substituted “June 30, 1972” for “June 30, 1970”.
+<b>1970</b>—Subsec. (b). Pub. L. 91–302 substituted “June 30, 1972” for “June 30, 1970”.
 
-1968—Subsec. (b). Pub. L. 90–330 substituted “June 30, 1970” for “June 30, 1968”.
+<b>1968</b>—Subsec. (b). Pub. L. 90–330 substituted “June 30, 1970” for “June 30, 1968”.
 
-1966—Pub. L. 89–735 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1966</b>—Pub. L. 89–735 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date
 

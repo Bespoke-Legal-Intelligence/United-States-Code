@@ -26,5 +26,5 @@ In making grants under subsections (b) and (c) of this section, the Secretary sh
 
 #### Amendments
 
-1998—Pub. L. 105–185 substituted section catchline for former section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsecs. (b) to (d).
+<b>1998</b>—Pub. L. 105–185 substituted section catchline for former section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsecs. (b) to (d).
 

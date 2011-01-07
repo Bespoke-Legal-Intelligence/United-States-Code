@@ -24,11 +24,11 @@
 
 #### Amendments
 
-1987—Subsec. (d)(1), (2). Pub. L. 100–180 inserted “The term” after each par. designation and revised first word in quotes in each par. to make initial letter of such word lowercase.
+<b>1987</b>—Subsec. (d)(1), (2). Pub. L. 100–180 inserted “The term” after each par. designation and revised first word in quotes in each par. to make initial letter of such word lowercase.
 
-1985—Subsec. (a)(1). Pub. L. 99–145 designated existing first sentence as subpar. (A), added subpar. (B), and incorporated existing second sentence as subpar. (C).
+<b>1985</b>—Subsec. (a)(1). Pub. L. 99–145 designated existing first sentence as subpar. (A), added subpar. (B), and incorporated existing second sentence as subpar. (C).
 
-1981—Subsec. (d)(1). Pub. L. 97–22 substituted “section 1072(2)(D) of this title” for “section 1072(2)(E) of this title”.
+<b>1981</b>—Subsec. (d)(1). Pub. L. 97–22 substituted “section 1072(2)(D) of this title” for “section 1072(2)(E) of this title”.
 
 #### Effective Date of 1981 Amendment
 

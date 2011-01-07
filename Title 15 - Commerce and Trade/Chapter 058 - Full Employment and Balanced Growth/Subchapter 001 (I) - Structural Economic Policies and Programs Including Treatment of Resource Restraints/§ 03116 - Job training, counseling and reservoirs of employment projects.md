@@ -58,7 +58,7 @@ The Workforce Investment Act of 1998, referred to in subsecs. (b) and (c)(1), is
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(10)(A)\], which directed the amendment of subsec. (b) by substituting “the Job Training Partnership Act and” for “CETA” in introductory provisions, could not be executed because “CETA” did not appear in introductory provisions subsequent to amendment by Pub. L. 105–277, §101(f) \[title VIII, §405(d)(12)(A)(i)(I)\]. See below.
+<b>1998</b>—Subsec. (b). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(10)(A)\], which directed the amendment of subsec. (b) by substituting “the Job Training Partnership Act and” for “CETA” in introductory provisions, could not be executed because “CETA” did not appear in introductory provisions subsequent to amendment by Pub. L. 105–277, §101(f) \[title VIII, §405(d)(12)(A)(i)(I)\]. See below.
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(12)(A)(i)(I)\], substituted “the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” for “CETA” in introductory provisions.
 

@@ -24,7 +24,7 @@ The words “Secretary of the Treasury” are substituted for “Treasurer” be
 
 #### Amendments
 
-2000—Pub. L. 106–433 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>2000</b>—Pub. L. 106–433 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 2000 Amendment and Transitional Rule
 

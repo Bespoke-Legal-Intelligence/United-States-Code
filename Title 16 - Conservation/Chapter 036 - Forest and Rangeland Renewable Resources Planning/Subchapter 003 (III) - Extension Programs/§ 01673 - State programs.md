@@ -30,5 +30,5 @@ Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326, 328)
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–127 substituted “National Agricultural Research, Extension, Education, and Economics Advisory Board” for “National Agricultural Research and Extension Users Advisory Board”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–127 substituted “National Agricultural Research, Extension, Education, and Economics Advisory Board” for “National Agricultural Research and Extension Users Advisory Board”.
 

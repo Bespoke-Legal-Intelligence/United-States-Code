@@ -24,7 +24,7 @@ The Congress declares that pursuit of these goals requires that development conc
 
 Under the policy guidance of the Secretary of State, the agency primarily responsible for administering subchapter I of this chapter should have the responsibility for coordinating all United States development-related activities.
 
-(Pub. L. 87–195, pt. I, §101, formerly §102, Sept. 4, 1961, 75 Stat. 424; Pub. L. 87–565, pt. I, §101, Aug. 1, 1962, 76 Stat. 255; Pub. L. 88–205, pt. I, §101(c), Dec. 16, 1963, 77 Stat. 379; Pub. L. 89–171, pt. I,§101, Sept. 6, 1965, 79 Stat. 653; Pub. L. 89–583, pt. I, §101, Sept. 19, 1966, 80 Stat. 796; Pub. L. 90–137, pt. I, §101, Nov. 14, 1967, 81 Stat. 445; Pub. L. 93–189, §2(2), Dec. 17, 1973, 87 Stat. 714; Pub. L. 94–161, title III, §301, Dec. 20, 1975, 89 Stat. 855; Pub. L. 95–88, title I, §§101, 113(b), Aug. 3, 1977, 91 Stat. 533, 538; renumbered and amended Pub. L. 95–424, title I, §101, Oct. 6, 1978, 92 Stat. 937; Pub. L. 106–309, title II, §203(a), Oct. 17, 2000, 114 Stat. 1091.)
+(Pub. L. 87–195, pt. I, §101, formerly §102, Sept. 4, 1961, 75 Stat. 424; Pub. L. 87–565, pt. I, §101, Aug. 1, 1962, 76 Stat. 255; Pub. L. 88–205, pt. I, §101(c), Dec. 16, 1963, 77 Stat. 379; Pub. L. 89–171, pt. I, §101, Sept. 6, 1965, 79 Stat. 653; Pub. L. 89–583, pt. I, §101, Sept. 19, 1966, 80 Stat. 796; Pub. L. 90–137, pt. I, §101, Nov. 14, 1967, 81 Stat. 445; Pub. L. 93–189, §2(2), Dec. 17, 1973, 87 Stat. 714; Pub. L. 94–161, title III, §301, Dec. 20, 1975, 89 Stat. 855; Pub. L. 95–88, title I, §§101, 113(b), Aug. 3, 1977, 91 Stat. 533, 538; renumbered and amended Pub. L. 95–424, title I, §101, Oct. 6, 1978, 92 Stat. 937; Pub. L. 106–309, title II, §203(a), Oct. 17, 2000, 114 Stat. 1091.)
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -32,15 +32,15 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–309 substituted “five principal goals” for “four principal goals” in introductory provisions of third paragraph and added par. (5).
+<b>2000</b>—Subsec. (a). Pub. L. 106–309 substituted “five principal goals” for “four principal goals” in introductory provisions of third paragraph and added par. (5).
 
-1978—Subsec. (a). Pub. L. 95–424, in setting forth a new declaration of policy generally substituted four principal goals of development cooperation policy, they being (1) the alleviation of the worst manifestations of poverty, (2) self-sustained economic growth, (3) respect for civil and economic rights, and (4) the integration of the developing countries into an open and equitable economic system, for former seven pars. relating to: (1) primary responsibility for development being in the less developed countries themselves; (2) the active involvement of many countries; (3) the encouragement of regional cooperation; (5) assistance being of such nature as to help United States balance of payments; (6) furnishing of assistance in such manner as to promote efficiency, and (7) the furnishing of agricultural commodities, etc., to complement assistance under this subchapter.
+<b>1978</b>—Subsec. (a). Pub. L. 95–424, in setting forth a new declaration of policy generally substituted four principal goals of development cooperation policy, they being (1) the alleviation of the worst manifestations of poverty, (2) self-sustained economic growth, (3) respect for civil and economic rights, and (4) the integration of the developing countries into an open and equitable economic system, for former seven pars. relating to: (1) primary responsibility for development being in the less developed countries themselves; (2) the active involvement of many countries; (3) the encouragement of regional cooperation; (5) assistance being of such nature as to help United States balance of payments; (6) furnishing of assistance in such manner as to promote efficiency, and (7) the furnishing of agricultural commodities, etc., to complement assistance under this subchapter.
 
 Subsec. (b). Pub. L. 95–424 substituted provisions relating to the responsibility of the agency primarily responsible for administering the program for coordination of all development related activities, for former seven criteria for restructuring relationships with less developed countries, those criteria being: (1) sharing of technical expertise; (2) focusing on critical problems affecting the majority of the people; (3) use of the private sector; (4) development goals as the responsibility of each sovereign nation; (5) priority to undertakings directly improving the lives of the poorest people; (6) private investment in development programs; and (7) responsibility for coordination of activities with the agency having primary responsibility for administering this part.
 
 Subsecs. (c) to (e). Pub. L. 95–424 struck out subsecs. (c) to (e).
 
-1977—Subsec. (a). Pub. L. 95–88, §113(b)(1), inserted “environment and natural resources” to enumeration of fundamental needs of the people of less developed countries which development assistance must be used in meeting.
+<b>1977</b>—Subsec. (a). Pub. L. 95–88, §113(b)(1), inserted “environment and natural resources” to enumeration of fundamental needs of the people of less developed countries which development assistance must be used in meeting.
 
 Subsec. (b)(2). Pub. L. 95–88, §113(b)(2), inserted “environment and natural resources;” after “population planning and health;”.
 
@@ -48,19 +48,19 @@ Subsec. (d). Pub. L. 95–88, §101(a), substituted provisions under which the P
 
 Subsec. (e). Pub. L. 95–88, §101(b), added subsec. (e).
 
-1975—Subsecs. (c), (d). Pub. L. 94–161 added subsecs. (c) and (d).
+<b>1975</b>—Subsecs. (c), (d). Pub. L. 94–161 added subsecs. (c) and (d).
 
-1973—Pub. L. 93–189 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1973</b>—Pub. L. 93–189 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1967—Pub. L. 90–137, in providing a new statement of policy, reaffirming basic foreign assistance principles, and recognizing new problems and need for new priorities, substituted five pars. concerned with (1) freedom, security, prosperity, aggression, subversion, ignorance, want, despair, and national security; (2) economic cooperation and trade among countries, etc. (a reenactment of former sixth par. less provision for resort to international law procedures in adjudication of issues among friendly countries in support of such economic cooperation, etc.); (3) seven principles pertaining to: self-help efforts and responsibility of the country, multilateral basis of involvement and cooperation, regional cooperation, food production and voluntary family planning, balance of payments, maximum dollar effectiveness, and coordination of overall assistance; (4) Permanent Peace in the Middle East; and (5) suspension of assistance after severance of diplomatic relations for former sixteen pars. relating to: (1) dignity and interdependence of man, and freedom; (2) resources development, living standards improvement, and aspirations for justice, education, etc., now covered in par. (1); (4) free economic institutions and flow of private investment capital; (5) investment guaranties; (6) economic cooperation and trade among countries, etc., as described for par. (2); (7) long-range continuity and disposal of surplus property and agricultural crops; (8) world peace, national security, and dangers of international communism; (9) countries sharing United States views on world crisis; (10) loan guarantees and related technical assistance and development program; (11) regional organizations for mutual assistance; (12) prohibition of assistance for short-term emergency purposes; (13) common undertaking of countries to meet goals; (14) discretionary assistance by the President to South Vietnam to gain victory in the war against communism and return to homeland of Americans from that struggle; (15) damage or destruction by mob action of United States property and termination of assistance, now covered in section 2370(j) of this title; and (16) use of United States Armed Forces, now covered in section 2409 of this title.
+<b>1967</b>—Pub. L. 90–137, in providing a new statement of policy, reaffirming basic foreign assistance principles, and recognizing new problems and need for new priorities, substituted five pars. concerned with (1) freedom, security, prosperity, aggression, subversion, ignorance, want, despair, and national security; (2) economic cooperation and trade among countries, etc. (a reenactment of former sixth par. less provision for resort to international law procedures in adjudication of issues among friendly countries in support of such economic cooperation, etc.); (3) seven principles pertaining to: self-help efforts and responsibility of the country, multilateral basis of involvement and cooperation, regional cooperation, food production and voluntary family planning, balance of payments, maximum dollar effectiveness, and coordination of overall assistance; (4) Permanent Peace in the Middle East; and (5) suspension of assistance after severance of diplomatic relations for former sixteen pars. relating to: (1) dignity and interdependence of man, and freedom; (2) resources development, living standards improvement, and aspirations for justice, education, etc., now covered in par. (1); (4) free economic institutions and flow of private investment capital; (5) investment guaranties; (6) economic cooperation and trade among countries, etc., as described for par. (2); (7) long-range continuity and disposal of surplus property and agricultural crops; (8) world peace, national security, and dangers of international communism; (9) countries sharing United States views on world crisis; (10) loan guarantees and related technical assistance and development program; (11) regional organizations for mutual assistance; (12) prohibition of assistance for short-term emergency purposes; (13) common undertaking of countries to meet goals; (14) discretionary assistance by the President to South Vietnam to gain victory in the war against communism and return to homeland of Americans from that struggle; (15) damage or destruction by mob action of United States property and termination of assistance, now covered in section 2370(j) of this title; and (16) use of United States Armed Forces, now covered in section 2409 of this title.
 
-1966—Pub. L. 89–583 provided for termination of assistance to any foreign country which does not take appropriate measures to provide compensation for damage or destruction by mob action of United States property within such country and declared that furnishing assistance shall not be construed as creating a new commitment or as affecting any existing commitment to use armed forces of the United States for the defense of any foreign country.
+<b>1966</b>—Pub. L. 89–583 provided for termination of assistance to any foreign country which does not take appropriate measures to provide compensation for damage or destruction by mob action of United States property within such country and declared that furnishing assistance shall not be construed as creating a new commitment or as affecting any existing commitment to use armed forces of the United States for the defense of any foreign country.
 
-1965—Pub. L. 89–171 added expressions of the sense of Congress that in furnishing assistance under this subchapter excess personal property shall be utilized wherever practicable in lieu of the procurement of new items for United States-assisted projects and programs and that assistance under this chapter and other statutes should be terminated to any country permitting damage to or destruction of U.S. property within such country by mob action or by failing to take adequate preventive measures.
+<b>1965</b>—Pub. L. 89–171 added expressions of the sense of Congress that in furnishing assistance under this subchapter excess personal property shall be utilized wherever practicable in lieu of the procurement of new items for United States-assisted projects and programs and that assistance under this chapter and other statutes should be terminated to any country permitting damage to or destruction of U.S. property within such country by mob action or by failing to take adequate preventive measures.
 
-1963—Pub. L. 88–205 declared that institution of full investment guaranty programs with all recipient countries would be regarded as a significant measure of self-help by such countries improving investment climate, that assistance to maintain freedom from communism “shall” rather than “should” emphasize long-range development, that in the administration of programs of assistance, every precaution be taken to assure that assistance is not diverted to any short-term emergency purpose or any purpose not essential to long-range economic development, that other industrialized free-world countries increase their contributions and assistance to more equitably share the burden, and the President should in his discretion, extend or withhold assistance from South Vietnam to further victory and the return home of Americans involved in the struggle there.
+<b>1963</b>—Pub. L. 88–205 declared that institution of full investment guaranty programs with all recipient countries would be regarded as a significant measure of self-help by such countries improving investment climate, that assistance to maintain freedom from communism “shall” rather than “should” emphasize long-range development, that in the administration of programs of assistance, every precaution be taken to assure that assistance is not diverted to any short-term emergency purpose or any purpose not essential to long-range economic development, that other industrialized free-world countries increase their contributions and assistance to more equitably share the burden, and the President should in his discretion, extend or withhold assistance from South Vietnam to further victory and the return home of Americans involved in the struggle there.
 
-1962—Pub. L. 87–565 declared distinctions made by foreign nations between American citizens because ofrace, color, or religion, relating to rights available to such citizens, to be repugnant to our principals, required in the administration of these funds, that consideration be given those countries sharing our world views and which do not divert their resources to military or propaganda efforts, supported by the Soviet Union or Communist China, against the United States or countries receiving aid under this chapter, that the highest emphasis be given to programs for loans or loan guarantees for use by organizations in making low-interest loans to individuals in friendly countries for the purchase of small farms, purchase of homes, aiding or establishing small businesses, purchase of tools and equipment for an occupation or trade, or to obtain practical education in vocational skills, and to programs of technical assistance and development, each assisted country should be encouraged to recognize needs of the people in the preparation of national development programs, and declared that friendly nations are to be invited, where possible, to join in missions to consult with countries receiving assistance on the possibilities of joint action to assure effective development of economic development plans and effective use of assistance provided them, and that the President may request international financial institutions to assist in establishing such missions.
+<b>1962</b>—Pub. L. 87–565 declared distinctions made by foreign nations between American citizens because of race, color, or religion, relating to rights available to such citizens, to be repugnant to our principals, required in the administration of these funds, that consideration be given those countries sharing our world views and which do not divert their resources to military or propaganda efforts, supported by the Soviet Union or Communist China, against the United States or countries receiving aid under this chapter, that the highest emphasis be given to programs for loans or loan guarantees for use by organizations in making low-interest loans to individuals in friendly countries for the purchase of small farms, purchase of homes, aiding or establishing small businesses, purchase of tools and equipment for an occupation or trade, or to obtain practical education in vocational skills, and to programs of technical assistance and development, each assisted country should be encouraged to recognize needs of the people in the preparation of national development programs, and declared that friendly nations are to be invited, where possible, to join in missions to consult with countries receiving assistance on the possibilities of joint action to assure effective development of economic development plans and effective use of assistance provided them, and that the President may request international financial institutions to assist in establishing such missions.
 
 #### Effective Date of 1979 Amendment
 
@@ -73,6 +73,10 @@ Pub. L. 96–53, title V, §512, Aug. 14, 1979, 93 Stat. 380, provided that:
 #### Effective Date of 1978 Amendment
 
 Section 605 of Pub. L. 95–424 provided that: “The amendments made by this Act \[see Short Title of 1978 Amendment note below\] shall take effect on October 1, 1978.”
+
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–166, §1, May 17, 2010, 124 Stat. 1186, provided that: “This Act \[amending sections 2151n and 2304 of this title\] may be cited as the ‘Daniel Pearl Freedom of the Press Act of 2009’.”
 
 #### Short Title of 2008 Amendment
 
@@ -120,7 +124,7 @@ Pub. L. 106–570, title I, §101, Dec. 27, 2000, 114 Stat. 3039, provided that:
 
 Pub. L. 106–373, §1, Oct. 27, 2000, 114 Stat. 1427, provided that: “This Act \[amending sections 2220a to 2220c and 2220e of this title\] may be cited as the ‘Famine Prevention and Freedom From Hunger Improvement Act of 2000’.”
 
-Pub. L. 106–309, §1, Oct. 17, 2000, 114 Stat. 1078, provided that: “This Act \[enacting sections 2152a to 2152c and 2462 of this title, amending this section and sections 287e–1, 2151–1, 2151f, 2151i, 2151aa, and 2395 of this title, and enacting provisions set out as notes under this section and sections 2151f, 2151i, 2152b, 2152c, 2462, and 2517 of this title and section 402 of Title 10, Armed Forces\] may be cited as the ‘Microenterprise for Self-Reliance and International Anti-Corruption Act of 2000’.”
+Pub. L. 106–309, §1, Oct. 17, 2000, 114 Stat. 1078, provided that: “This Act \[enacting sections 2152a to 2152cand 2462 of this title, amending this section and sections 287e–1, 2151–1, 2151f, 2151i, 2151aa, and 2395 of this title, and enacting provisions set out as notes under this section and sections 2151f, 2151i, 2152b, 2152c, 2462, and 2517 of this title and section 402 of Title 10, Armed Forces\] may be cited as the ‘Microenterprise for Self-Reliance and International Anti-Corruption Act of 2000’.”
 
 Pub. L. 106–309, title I, §101, Oct. 17, 2000, 114 Stat. 1079, provided that: “This title \[enacting sections 2152a and 2152b of this title, amending section 2151f of this title, and enacting provisions set out as notes under sections 2151f and 2152b of this title\] may be cited as the ‘Microenterprise for Self-Reliance Act of 2000’.”
 
@@ -166,7 +170,7 @@ Pub. L. 101–623, §1(a), Nov. 21, 1990, 104 Stat. 3350, provided that: “This
 
 #### Short Title of 1989 Amendments
 
-Pub. L. 101–240, §1(a), Dec. 19, 1989, 103 Stat. 2492, provided that: “This Act \[enacting sections 262m–7, 262p–4g to 262p–4k, 262r to 262r–2, 262s–1, 262t, 283z–5 to 283z–8, 286e–12, 286kk, 2281 to 2286, and 7901 to 7908 of this title and section 3904a of Title 12, Banks and Banking, amending sections 262d, 262m–7, 262p–1, 262p–5, 262s–2,282b, 283b, 283cc, 284b, 285b, 286b, 286e–9, 286k–1, 286s, 290g–2, 290i–3, and 290k–5 of this title and sections 635 and 635i–3 of Title 12, transferring former section 262q of this title to section 262s of this title, and former section 4722 of Title 15, Commerce and Trade, to section 262s–2 of this title, repealing sections 262i, 262m–6, 276c–3, 283i, 286b–1, and 286b–2 of this title, enacting provisions set out as notes under this section, sections 262d, 283z–6, 2291, and 7901 of this title, and sections 635, 3901, and 3904a of Title 12, amending provisions set out as a note under section 262<i>l</i> of this title, and repealing provisions set out as notes under sections 262g–2 and 283 of this title\] may be cited as the ‘International Development and Finance Act of 1989’.”
+Pub. L. 101–240, §1(a), Dec. 19, 1989, 103 Stat. 2492, provided that: “This Act \[enacting sections 262m–7, 262p–4g to 262p–4k, 262r to 262r–2, 262s–1, 262t, 283z–5 to 283z–8, 286e–12, 286kk, 2281 to 2286, and 7901 to 7908 of this title and section 3904a of Title 12, Banks and Banking, amending sections 262d, 262m–7, 262p–1, 262p–5, 262s–2, 282b, 283b, 283cc, 284b, 285b, 286b, 286e–9, 286k–1, 286s, 290g–2, 290i–3, and 290k–5 of this title and sections 635 and 635i–3 of Title 12, transferring former section 262q of this title to section 262s of this title, and former section 4722 of Title 15, Commerce and Trade, to section 262s–2 of this title, repealing sections 262i, 262m–6, 276c–3, 283i, 286b–1, and 286b–2 of this title, enacting provisions set out as notes under this section, sections 262d, 283z–6, 2291, and 7901 of this title, and sections 635, 3901, and 3904a of Title 12, amending provisions set out as a note under section 262<i>l</i> of this title, and repealing provisions set out as notes under sections 262g–2 and 283 of this title\] may be cited as the ‘International Development and Finance Act of 1989’.”
 
 Pub. L. 101–240, title VII, §701, Dec. 19, 1989, 103 Stat. 2521, provided that: “This title \[enacting sections 2281 to 2286 and 7901 to 7908 of this title and provisions set out as a note under section 7901 of this title of this title\] may be cited as the ‘Global Environmental Protection Assistance Act of 1989’.”
 
@@ -214,7 +218,7 @@ Pub. L. 96–257, §1, May 31, 1980, 94 Stat. 422, provided: “That this Act \[
 
 #### Short Title of 1979 Amendments
 
-Pub. L. 96–92, §1, Oct. 29, 1979, 93 Stat. 701, provided that: “This Act \[enacting sections 2346d, 2767, and 2768 of this title, amending sections 2261, 2291, 2291a, 2304, 2312, 2318, 2321h to 2321j, 2346 to 2346c, 2347a, 2348, 2348a, 2403, 2753, 2761, 2765, 2771, 2773, 2776, 2778, 2792, and 2794 of this title, and enacting provisions set out as notes under this section and sections 2321h, 2346c, 2771, 2776, and 3302 of this title\] may be cited as the ‘International Security Assistance Act of 1979’.”
+Pub. L. 96–92, §1, Oct. 29, 1979, 93 Stat. 701, provided that: “This Act \[enacting sections 2346d, 2767, and 2768 of this title, amending sections 2261, 2291, 2291a, 2304, 2312, 2318, 2321h to 2321j, 2346 to 2346c, 2347a, 2348, 2348a,2403, 2753, 2761, 2765, 2771, 2773, 2776, 2778, 2792, and 2794 of this title, and enacting provisions set out as notes under this section and sections 2321h, 2346c, 2771, 2776, and 3302 of this title\] may be cited as the ‘International Security Assistance Act of 1979’.”
 
 Pub. L. 96–53, §1, Aug. 14, 1979, 93 Stat. 359, provided that: “This Act \[enacting sections 2151x, 2151y, 2374, and 3501 to 3513 of this title, and sections 1736g of Title 7, Agriculture, amending sections 2151–1, 2151a to 2151d, 2151i, 2151k, 2151n, 2151p, 2151q, 2151s, 2151u, 2151v, 2174, 2182, 2182a, 2183, 2220b, 2222, 2292a, 2292<i>l</i>, 2304, 2357, 2361, 2385a, 2395, 2399c, 2421, 2427, 2502, and 2506 of this title, sections 5314 to 5316 and 5924 of Title 5, Government Organization and Employees, and sections 1703, 1704, 1722, 1726, 1727, 1727a, 1727b, 1727d to 1727f, 1731, and 1734 of Title 7, and enacting provisions set out as notes under this section and sections 2151n, 2151y, 2312, 2385a, and 3201 of this title\] may be cited as the ‘International Development Cooperation Act of 1979’.”
 
@@ -250,11 +254,11 @@ Pub. L. 93–333, §1, July 8, 1974, 88 Stat. 290, provided: “That this Act \[
 
 #### Short Title of 1973 Amendment
 
-Section 1 of Pub. L. 93–189 provided: “That this Act \[enacting sections 2151a to 2151<i>l</i>, 2303, 2399–1a, 2399–1b, 2399c, 2399d, 2431 to 2434 and 2794 of this title, amending this section and sections 285n, 1934, 2163, 2171, 2174, 2181, 2183, 2195, 2199, 2200, 2212, 2219a, 2221, 2222, 2261, 2291, 2291a, 2311, 2312, 2314, 2318, 2321b, 2321f, 2346a, 2367, 2370, 2385, 2394, and section 2397 of this title, repealing sections 2314a, 2319 to 2321, 2321e, 2321g, and 2346a, of this title, and enacting provisions set out as notes underthis section and sections 1942, 2163, 2220, 2415, and 2431 of this title\] may be cited as the ‘Foreign Assistance Act of 1973’.”
+Section 1 of Pub. L. 93–189 provided: “That this Act \[enacting sections 2151a to 2151<i>l</i>, 2303, 2399–1a, 2399–1b, 2399c, 2399d, 2431 to 2434 and 2794 of this title, amending this section and sections 285n, 1934, 2163, 2171, 2174, 2181, 2183, 2195, 2199, 2200, 2212, 2219a, 2221, 2222, 2261, 2291, 2291a, 2311, 2312, 2314, 2318, 2321b, 2321f, 2346a, 2367, 2370, 2385, 2394, and section 2397 of this title, repealing sections 2314a, 2319 to 2321, 2321e, 2321g, and 2346a, of this title, and enacting provisions set out as notes under this section and sections 1942, 2163, 2220, 2415, and 2431 of this title\] may be cited as the ‘Foreign Assistance Act of 1973’.”
 
 #### Short Title of 1972 Amendment
 
-Pub. L. 92–226, §1, Feb. 7, 1972, 86 Stat. 20, provided: “That this Act \[enacting sections 2180a, 2291, 2292, 2321d to 2321g, 2346 to 2346b, and 2413 to 2418 of this title, amending sections 276, 290f, 1476, 1928b, 2162, 2163, 2169, 2172, 2174, 2181, 2183, 2198, 2199, 2200, 2212, 2219a, 2222, 2261, 2312, 2314, 2318, 2319, 2321b, 2370, 2384, 2394, 2397, 2403, 2411, 2684, 2771, 2773, and 2791 of this title and section 5314 of Title 5, Government Organization and Employees, repealing sections 2165 and 2241 to 2243 of this title, and enacting provisions set out as notes under this section and sections 287e, 2411, 2417, and 2680 of this title\] may be cited as the ‘Foreign Assistance Act of 1971’.”
+Pub. L. 92–226, §1, Feb. 7, 1972, 86 Stat. 20, provided: “That this Act \[enacting sections 2180a, 2291, 2292, 2321dto 2321g, 2346 to 2346b, and 2413 to 2418 of this title, amending sections 276, 290f, 1476, 1928b, 2162, 2163, 2169, 2172, 2174, 2181, 2183, 2198, 2199, 2200, 2212, 2219a, 2222, 2261, 2312, 2314, 2318, 2319, 2321b, 2370, 2384, 2394, 2397, 2403, 2411, 2684, 2771, 2773, and 2791 of this title and section 5314 of Title 5, Government Organization and Employees, repealing sections 2165 and 2241 to 2243 of this title, and enacting provisions set out as notes under this section and sections 287e, 2411, 2417, and 2680 of this title\] may be cited as the ‘Foreign Assistance Act of 1971’.”
 
 #### Short Title of 1971 Amendment
 
@@ -329,6 +333,178 @@ Section 642 of Pub. L. 87–195, as amended by Pub. L. 89–171, pt. III, §303(
 #### United States Agency for International Development Deemed Agency Primarily Responsible for Administering This Subchapter
 
 Any reference in this chapter to the agency primarily responsible for administering this subchapter, or to the Administrator of such agency, deemed reference to the United States Agency for International Development or to the Administrator of that agency, as appropriate, see section 1–200(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
+#### Lord's Resistance Army Disarmament and Northern Uganda Recovery
+
+Pub. L. 111–172, May 24, 2010, 124 Stat. 1209, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Lord's Resistance Army Disarmament and Northern Uganda Recovery Act of 2009’.
+
+#### “SEC. 2. FINDINGS.
+
+“Congress makes the following findings:
+
+&emsp;“(1) For over 2 decades, the Government of Uganda engaged in an armed conflict with the Lord's Resistance Army (LRA) in northern Uganda that led to the internal displacement of more than 2,000,000 Ugandans from their homes.
+
+&emsp;“(2) The members of the Lord's Resistance Army used brutal tactics in northern Uganda, including mutilating, abducting and forcing individuals into sexual servitude and forcing a large number of children and youth in Uganda, estimated by the Survey for War Affected Youth to be over 66,000, to fight as part of the rebel force.
+
+&emsp;“(3) The Secretary of State has placed the Lord's Resistance Army on the Terrorist Exclusion list pursuant to section 212(a)(3) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(3)), and LRA leader Joseph Kony has been designated a ‘specially designated global terrorist’ pursuant to Executive Order 13224 \[listed in a table under section 1701 of Title 50, War and National Defense\].
+
+&emsp;“(4) In late 2005, according to the United Nations Office for Coordination of Humanitarian Affairs, the Lord's Resistance Army shifted their primary base of operations from southern Sudan to northeastern Democratic Republic of Congo, and the rebels have since withdrawn from northern Uganda.
+
+&emsp;“(5) Representatives of the Government of Uganda and the Lord's Resistance Army began peace negotiations in 2006, mediated by the Government of Southern Sudan in Juba, Sudan, and signed the Cessation of Hostilities Agreement on August 20, 2006, which provided for hundreds of thousands of internally displaced people to return home in safety.
+
+&emsp;“(6) After nearly 2 years of negotiations, representatives from the parties reached the Final Peace Agreement in April 2008, but Joseph Kony, the leader of the Lord's Resistance Army, refused to sign the Final Peace Agreement in May 2008 and his forces launched new attacks in northeastern Congo.
+
+&emsp;“(7) According to the United Nations Office for the Coordination of Humanitarian Relief and the United Nations High Commissioner for Refugees, the new activity of the Lord's Resistance Army in northeastern Congo and southern Sudan since September 2008 has led to the abduction of at least 1,500 civilians, including hundreds of children, and the displacement of more than 540,000 people.
+
+&emsp;“(8) In December 2008, the military forces of Uganda, the Democratic Republic of Congo, and southern Sudan launched a joint operation against the Lord's Resistance Army's bases in northeastern Congo, but the operation failed to apprehend Joseph Kony, and his forces retaliated with a series of new attacks and massacres in Congo and southern Sudan, killing an estimated 900 people in 2 months alone.
+
+&emsp;“(9) Despite the refusal of Joseph Kony to sign the Final Peace Agreement, the Government of Uganda has committed to continue reconstruction plans for northern Uganda, and to implement those mechanisms of the Final Peace Agreement not conditional on the compliance of the Lord's Resistance Army.
+
+&emsp;“(10) Since 2008, recovery efforts in northern Uganda have moved forward with the financial support of the United States and other donors, but have been hampered by a lack of strategic coordination, logistical delays, and limited leadership from the Government of Uganda.
+
+#### “SEC. 3. STATEMENT OF POLICY.
+
+“It is the policy of the United States to work with regional governments toward a comprehensive and lasting resolution to the conflict in northern Uganda and other affected areas by—
+
+&emsp;“(1) providing political, economic, military, and intelligence support for viable multilateral efforts to protect civilians from the Lord's Resistance Army, to apprehend or remove Joseph Kony and his top commanders from the battlefield in the continued absence of a negotiated solution, and to disarm and demobilize the remaining Lord's Resistance Army fighters;
+
+&emsp;“(2) targeting assistance to respond to the humanitarian needs of populations in northeastern Congo, southern Sudan, and Central African Republic currently affected by the activity of the Lord's Resistance Army; and
+
+&emsp;“(3) further supporting and encouraging efforts of the Government of Uganda and civil society to promote comprehensive reconstruction, transitional justice, and reconciliation in northern Uganda as affirmed in the Northern Uganda Crisis Response Act of 2004 (Public Law 108–283) and subsequent resolutions, including Senate Resolution 366, 109th Congress, agreed to February 2, 2006, Senate Resolution 573, 109th Congress, agreed to September 19, 2006, Senate Concurrent Resolution 16, 110th Congress, agreed to in the Senate March 1, 2007, and House Concurrent Resolution 80, 110th Congress, agreed to in the House of Representatives June 18, 2007.
+
+#### “SEC. 4. REQUIREMENT OF A STRATEGY TO SUPPORT THE DISARMAMENT OF THE LORD'S RESISTANCE ARMY.
+
+“(a)
+
+Requirement for Strategy.—Not later than 180 days after the date of the enactment of this Act \[May 24, 2010\], the President shall develop and submit to the appropriate committees of Congress a strategy to guide future United States support across the region for viable multilateral efforts to mitigate and eliminate the threat to civilians and regional stability posed by the Lord's Resistance Army.
+
+“(b)
+
+Content of Strategy.—The strategy shall include the following:
+
+&emsp;“(1) A plan to help strengthen efforts by the United Nations and regional governments to protect civilians from attacks by the Lord's Resistance Army while supporting the development of institutions in affected areas that can help to maintain the rule of law and prevent conflict in the long term.
+
+&emsp;“(2) An assessment of viable options through which the United States, working with regional governments, could help develop and support multilateral efforts to eliminate the threat posed by the Lord's Resistance Army.
+
+&emsp;“(3) An interagency framework to plan, coordinate, and review diplomatic, economic, intelligence, and military elements of United States policy across the region regarding the Lord's Resistance Army.
+
+&emsp;“(4) A description of the type and form of diplomatic engagement across the region undertaken to coordinate and implement United States policy regarding the Lord's Resistance Army and to work multilaterally with regional mechanisms, including the Tripartite Plus Commission and the Great Lakes Pact.
+
+&emsp;“(5) A description of how this engagement will fit within the context of broader efforts and policy objectives in the Great Lakes Region.
+
+“(c)
+
+Form.—The strategy under this section shall be submitted in unclassified form, but may include a classified annex.
+
+#### “SEC. 5. HUMANITARIAN ASSISTANCE FOR AREAS OUTSIDE UGANDA AFFECTED BY THE LORD'S RESISTANCE ARMY.
+
+“In accordance with section 491 of the Foreign Assistance Act of 1961 (22 U.S.C. 2292) and section 2 of the Migration and Refugee Assistance Act of 1962 (22 U.S.C. 2601), the President is authorized to provide additional assistance to the Democratic Republic of Congo, southern Sudan, and Central African Republic to respond to the humanitarian needs of populations directly affected by the activity of the Lord's Resistance Army.
+
+#### “SEC. 6. ASSISTANCE FOR RECOVERY AND RECONSTRUCTION IN NORTHERN UGANDA.
+
+“(a)
+
+Authority.—It is the sense of Congress that the President should support efforts by the people of northern Uganda and the Government of Uganda—
+
+&emsp;“(1) to assist internally displaced people in transition and returnees to secure durable solutions by spurring economic revitalization, supporting livelihoods, helping to alleviate poverty, and advancing access to basic services at return sites, specifically clean water, health care, and schools;
+
+&emsp;“(2) to enhance the accountability and administrative competency of local governance institutions and public agencies in northern Uganda with regard to budget management, provision of public goods and services, and related oversight functions;
+
+&emsp;“(3) to strengthen the operational capacity of the civilian police in northern Uganda to enhance public safety, prevent crime, and deal sensitively with gender-based violence, while strengthening accountability measures to prevent corruption and abuses;
+
+&emsp;“(4) to rebuild and improve the capacity of the justice system in northern Uganda, including the courts and penal systems, with particular sensitivity to the needs and rights of women and children;
+
+&emsp;“(5) to establish mechanisms for the disarmament, demobilization, and reintegration of former combatants and those abducted by the LRA, including vocational education and employment opportunities, with attention given to the roles and needs of men, women and children; and
+
+&emsp;“(6) to promote programs to address psychosocial trauma, particularly post-traumatic stress disorder.
+
+“(b)
+
+Future Year Funding.—It is the sense of Congress that the Secretary of State and Administrator of the United States Agency for International Development should work with the appropriate committees of Congress to increase assistance in future fiscal years to support activities described in this section if the Government of Uganda demonstrates a commitment to transparent and accountable reconstruction in war-affected areas of northern Uganda, specifically by—
+
+&emsp;“(1) finalizing the establishment of mechanisms within the Office of the Prime Minister to sufficiently manage and coordinate the programs under the framework of the Peace Recovery and Development Plan for Northern Uganda (PRDP);
+
+&emsp;“(2) increasing oversight activities and reporting, at the local and national level in Uganda, to ensure funds under the Peace Recovery and Development Plan for Northern Uganda framework are used efficiently and with minimal waste; and
+
+&emsp;“(3) committing substantial funds of its own, above and beyond standard budget allocations to local governments, to the task of implementing the Peace Recovery and Development Plan for Northern Uganda such that communities affected by the war can recover.
+
+“(c)
+
+Coordination With Other Donor Nations.—The United States should work with other donor nations to increase contributions for recovery efforts in northern Uganda and better leverage those contributions to enhance the capacity and encourage the leadership of the Government of Uganda in promoting transparent and accountable reconstruction in northern Uganda.
+
+“(d)
+
+Termination of Assistance.—It is the sense of Congress that the Secretary of State should withhold non-humanitarian bilateral assistance to the Republic of Uganda if the Secretary determines that the Government of Uganda is not committed to reconstruction and reconciliation in the war-affected areas of northern Uganda and is not taking proactive steps to ensure this process moves forward in a transparent and accountable manner.
+
+#### “SEC. 7. ASSISTANCE FOR RECONCILIATION AND TRANSITIONAL JUSTICE IN NORTHERN UGANDA.
+
+“(a)
+
+Sense of Congress.—It is the sense of Congress that, despite reconstruction and development efforts, a continued failure to take meaningful steps toward national reconciliation and accountability risks perpetuating longstanding political grievances and fueling new conflicts.
+
+“(b)
+
+Authority.—In accordance with section 531 of the Foreign Assistance Act of 1961 (22 U.S.C. 2346), the President is authorized to support efforts by the people of northern Uganda and the Government of Uganda to advance efforts to promote transitional justice and reconciliation on both local and national levels, including to encourage implementation of the mechanisms outlined in the Annexure to the Agreement on Accountability and Reconciliation between the Government of Uganda and the Lord's Resistance Army/Movement, signed at Juba February 19, 2008, namely—
+
+&emsp;“(1) a body to investigate the history of the conflict, inquire into human rights violations committed during the conflict by all sides, promote truth-telling in communities, and encourage the preservation of the memory of events and victims of the conflict through memorials, archives, commemorations, and other forms of preservation;
+
+&emsp;“(2) a special division of the High Court of Uganda to try individuals alleged to have committed serious crimes during the conflict, and a special unit to carry out investigations and prosecutions in support of trials;
+
+&emsp;“(3) a system for making reparations to victims of the conflict; and
+
+&emsp;“(4) a review and strategy for supporting transitional justice mechanisms in affected areas to promote reconciliation and encourage individuals to take personal responsibility for their conduct during the war.
+
+#### “SEC. 8. REPORT.
+
+“(a)
+
+Report Required.—Not later than 1 year after the submission of the strategy required under section 4, the Secretary of State shall prepare and submit to theappropriate committees of Congress a report on the progress made toward the implementation of the strategy required under section 4 and a description and evaluation of the assistance provided under this Act toward the policy objectives described in section 3.
+
+“(b)
+
+Contents.—The report required under section (a) shall include—
+
+&emsp;“(1) a description and evaluation of actions taken toward the implementation of the strategy required under section 4;
+
+&emsp;“(2) a description of assistance provided under sections 5, 6, and 7;
+
+&emsp;“(3) an evaluation of bilateral assistance provided to the Republic of Uganda and associated programs in light of stated policy objectives;
+
+&emsp;“(4) a description of the status of the Peace Recovery and Development Plan for Northern Uganda and the progress of the Government of Uganda in fulfilling the steps outlined in section 6(b); and
+
+&emsp;“(5) a description of amounts of assistance committed, and amounts provided, to northern Uganda during the reporting period by the Government of Uganda and each donor country.
+
+“(c)
+
+Form.—The report under this section shall be submitted in unclassified form, but may include a classified annex.
+
+#### “SEC. 9. SENSE OF CONGRESS ON FUNDING.
+
+“It is the sense of Congress that—
+
+&emsp;“(1) of the total amounts to be appropriated for fiscal year 2011 for the Department of State and foreign operations, up to $10,000,000 should be used to carry out activities under section 5; and
+
+&emsp;“(2) of the total amounts to be appropriated for fiscal year 2011 through 2013 for the Department of State and foreign operations, up to $10,000,000 in each such fiscal year should be used to carry out activities under section 7.
+
+#### “SEC. 10. DEFINITIONS.
+
+“In this Act:
+
+&emsp;“(1)
+
+Appropriate committees of congress.—The term ‘appropriate committees of Congress’ means the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives.
+
+&emsp;“(2)
+
+Great lakes region.—The term ‘Great Lakes Region’ means the region comprising Burundi, Democratic Republic of Congo, Rwanda, southern Sudan, and Uganda.
+
+&emsp;“(3) LRA-
+
+affected areas.—The term ‘LRA-affected areas’ means those portions of northern Uganda, southern Sudan, northeastern Democratic Republic of Congo, and southeastern Central African Republic determined by the Secretary of State to be affected by the Lord's Resistance Army as of the date of the enactment of this Act \[May 24, 2010\].”
 
 #### Strategy for United States-Led Provincial Reconstruction Teams in Iraq
 
@@ -430,7 +606,7 @@ Foundation to make grants.—The Secretary of State shall enter into an agreemen
 
 &emsp;“(2)
 
-Center for public policy.—Under the agreement described in paragraph (1), the Foundation maymake a grant to an institution of higher education located in the broader Middle East region to create a center for public policy for the purpose of permitting scholars and professionals from the countries of the broader Middle East region and from other countries, including the United States, to carry out research, training programs, and other activities to inform public policymaking in the broader Middle East region and to promote broad economic, social, and political reform for the people of the broader Middle East region.
+Center for public policy.—Under the agreement described in paragraph (1), the Foundation may make a grant to an institution of higher education located in the broader Middle East region to create a center for public policy for the purpose of permitting scholars and professionals from the countries of the broader Middle East region and from other countries, including the United States, to carry out research, training programs, and other activities to inform public policymaking in the broader Middle East region and to promote broad economic, social, and political reform for the people of the broader Middle East region.
 
 &emsp;“(3)
 
@@ -526,13 +702,13 @@ Pub. L. 109–456, Dec. 22, 2006, 120 Stat. 3384, provided that:
 
 &emsp;“(3) According to the United States Agency for International Development, ‘Given its size, population, and resources, the Congo is an important player in Africa and of long-term interest to the United States.’.
 
-&emsp;“(4) The Democratic Republic of the Congo is 2,345,410 square miles (approximately 1/4 the size of the United States), lies at the heart of Africa, and touches every major region of sub-Saharan Africa. Therefore, a secure, peaceful, and prosperous Democratic Republic of the Congo would have a profound impact on progress throughout Africa.
+&emsp;“(4) The Democratic Republic of the Congo is 2,345,410 square miles (approximately ¼ the size of the United States), lies at the heart of Africa, and touches every major region of sub-Saharan Africa. Therefore, a secure, peaceful, and prosperous Democratic Republic of the Congo would have a profound impact on progress throughout Africa.
 
 &emsp;“(5) The most recent war in the Democratic Republic of the Congo, which erupted in 1998, spawned some of the world's worst human rights atrocities and drew in six neighboring countries.
 
-&emsp;“(6) Despite the conclusion of a peace agreement and subsequent withdrawal of foreign forces in 2003, both the real and perceived presence of armed groups hostile to the Governments of Uganda, Rwanda, and Burundi continue to serve as a major source of regional instability and an apparent pretext for continued interference in the Democratic Republic of the Congo by its neighbors.
+&emsp;“(6) Despite the conclusion of a peace agreement and subsequent withdrawal of foreign forces in 2003,both the real and perceived presence of armed groups hostile to the Governments of Uganda, Rwanda, and Burundi continue to serve as a major source of regional instability and an apparent pretext for continued interference in the Democratic Republic of the Congo by its neighbors.
 
-&emsp;“(7) A mortality study completed in December 2004 by the International Rescue Committee found that31,000 people were dying monthly and 3,800,000 people had died in the previous six years because of the conflict in the Democratic Republic of the Congo and resulting disintegration of the social service infrastructure, making this one of the deadliest conflicts since World War II.
+&emsp;“(7) A mortality study completed in December 2004 by the International Rescue Committee found that 31,000 people were dying monthly and 3,800,000 people had died in the previous six years because of the conflict in the Democratic Republic of the Congo and resulting disintegration of the social service infrastructure, making this one of the deadliest conflicts since World War II.
 
 &emsp;“(8) In 2004, Amnesty International estimated that at least 40,000 women and girls were systematically raped and tortured in the Democratic Republic of the Congo since 1998, and nearly two-thirds of ongoing abuses against women and girls are perpetrated by members of the security forces, particularly the Forces Armes de la Republique Democratique du Congo (FARDC) and the Police Nationale Congolaise (PNC).
 
@@ -594,7 +770,7 @@ Pub. L. 109–456, Dec. 22, 2006, 120 Stat. 3384, provided that:
 
 Funding for Fiscal Years 2006
 
-and 2007.—Of the amounts made available to carry out the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.), the Agricultural Trade Development and Assistance Act of 1954 \[now Food for Peace Act\] \[7 U.S.C. 1691 et seq.\] (68 Stat. 454, chapter 469), and the Arms Export Control Act (22 U.S.C. 2751 et seq.) for fiscal year 2006 and 2007, at least$52,000,000 for each such fiscal year should be allocated for bilateral assistance programs in the Democratic Republic of the Congo.
+and 2007.—Of the amounts made available to carry out the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.), the Agricultural Trade Development and Assistance Act of 1954 \[now Food for Peace Act\] \[7 U.S.C. 1691 et seq.\] (68 Stat. 454, chapter 469), and the Arms Export Control Act (22 U.S.C. 2751 et seq.) for fiscal year 2006 and 2007, at least $52,000,000 for each such fiscal year should be allocated for bilateral assistance programs in the Democratic Republic of the Congo.
 
 “(b)
 
@@ -676,9 +852,9 @@ Contents.—The report required under subsection (a) shall include—
 
 &emsp;“(5) to ensure that the practice of recruiting and arming children in the Democratic Republic of the Congo is immediately halted pursuant to Security Council Resolutions 1460 (2003) and 1539 (2004);
 
-&emsp;“(6) to strengthen the arms embargo imposed pursuant to Security Council Resolution 1493 (2003) and ensure that violators are held accountable through appropriate measures, including the possible imposition of sanctions;
+&emsp;“(6) to strengthen the arms embargo imposed pursuant to Security Council Resolution 1493 (2003) and ensure that violators are held accountable throughappropriate measures, including the possible imposition of sanctions;
 
-&emsp;“(7) to allow for the more effective protection and monitoring of natural resources in the DemocraticRepublic of the Congo, especially in the eastern part of the country, and for public disclosure and independent auditing of natural resource revenues to help ensure transparent and accountable management of these revenues;
+&emsp;“(7) to allow for the more effective protection and monitoring of natural resources in the Democratic Republic of the Congo, especially in the eastern part of the country, and for public disclosure and independent auditing of natural resource revenues to help ensure transparent and accountable management of these revenues;
 
 &emsp;“(8) to press countries in the Congo region to help facilitate an end to the violence in the Democratic Republic of the Congo and promote relief, security, and democracy throughout the region; and
 
@@ -788,9 +964,9 @@ Pub. L. 108–175, Dec. 12, 2003, 117 Stat. 2482, provided that:
 
 &emsp;“(1) On June 24, 2002, President Bush stated ‘Syria must choose the right side in the war on terror by closing terrorist camps and expelling terrorist organizations’.
 
-&emsp;“(2) United Nations Security Council Resolution 1373 (September 28, 2001) mandates that all states ‘refrain from providing any form of support, active or passive, to entities or persons involved in terrorist acts’, take ‘the necessary steps to prevent the commission of terrorist acts’, and ‘deny safe haven to those who finance, plan, support, or commit terrorist acts’.
+&emsp;“(2) United Nations Security Council Resolution 1373 (September 28, 2001) mandates that all states ‘refrain from providing any form of support, active or passive, to entities or persons involved in terrorist acts’, take ‘the necessary steps to prevent the commission of terrorist acts’, and ‘deny safe haven tothose who finance, plan, support, or commit terrorist acts’.
 
-&emsp;“(3) The Government of Syria is currently prohibited by United States law from receiving United States assistance because it has repeatedly providedsupport for acts of international terrorism, as determined by the Secretary of State for purposes of section 6(j)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)) and other relevant provisions of law.
+&emsp;“(3) The Government of Syria is currently prohibited by United States law from receiving United States assistance because it has repeatedly provided support for acts of international terrorism, as determined by the Secretary of State for purposes of section 6(j)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)) and other relevant provisions of law.
 
 &emsp;“(4) Although the Department of State lists Syria as a state sponsor of terrorism and reports that Syria provides ‘safe haven and support to several terrorist groups’, fewer United States sanctions apply with respect to Syria than with respect to any other country that is listed as a state sponsor of terrorism.
 
@@ -840,7 +1016,7 @@ Pub. L. 108–175, Dec. 12, 2003, 117 Stat. 2482, provided that:
 
 &emsp;“(27) Syria's illegal imports and transshipments of Iraqi oil earned Saddam Hussein's regime $2,000,000 per day.
 
-&emsp;“(28) On March 28, 2003, Secretary of Defense Donald Rumsfeld warned: ‘\[W\]e have information that shipments of military supplies have been crossing theborder from Syria into Iraq, including night-vision goggles \* \* \* These deliveries pose a direct threat to the lives of coalition forces. We consider such trafficking as hostile acts, and will hold the Syrian government accountable for such shipments.’.
+&emsp;“(28) On March 28, 2003, Secretary of Defense Donald Rumsfeld warned: ‘\[W\]e have information that shipments of military supplies have been crossing the border from Syria into Iraq, including night-vision goggles \* \* \* These deliveries pose a direct threat to the lives of coalition forces. We consider such trafficking as hostile acts, and will hold the Syrian government accountable for such shipments.’.
 
 &emsp;“(29) According to Article 23(1) of the United Nations Charter, members of the United Nations are elected as nonpermanent members of the United Nations Security Council with ‘due regard being specially paid, in the first instance to the contribution of members of the United Nations to the maintenance of international peace and security and to other purposes of the Organization’.
 
@@ -900,7 +1076,7 @@ Pub. L. 108–175, Dec. 12, 2003, 117 Stat. 2482, provided that:
 
 &emsp;“(8) Syria will be held accountable for any harm to Coalition armed forces or to any United States citizen in Iraq if the government of Syria is found to be responsible due to its facilitation of terrorist activities and its shipments of military supplies to Iraq; and
 
-&emsp;“(9) the United States will not provide any assistance to Syria and will oppose multilateral assistance for Syria until Syria ends all support for terrorism,withdraws its armed forces from Lebanon, and halts the development and deployment of weapons of mass destruction and medium- and long-range surface-to-surface ballistic missiles.
+&emsp;“(9) the United States will not provide any assistance to Syria and will oppose multilateral assistance for Syria until Syria ends all support for terrorism, withdraws its armed forces from Lebanon, and halts the development and deployment of weapons of mass destruction and medium- and long-range surface-to-surface ballistic missiles.
 
 #### “SEC. 5. PENALTIES AND AUTHORIZATION.
 
@@ -1364,7 +1540,7 @@ Notification Requirement.—At least 15 days in advance of designating an Iraqi 
 
 #### “SEC. 6. WAR CRIMES TRIBUNAL FOR IRAQ.
 
-“Consistent with section 301 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993 (Public Law 102–138 \[105 Stat. 707\]), House Concurrent Resolution 137, 105th Congress (approved by the House of Representatives on November 13, 1997), and Senate Concurrent Resolution 78, 105th Congress (approved by the Senate on March 13, 1998), the Congress urges the President to call upon the United Nations to establish an international criminal tribunal for the purpose of indicting, prosecuting, and imprisoning Saddam Hussein and other Iraqi officials who are responsible for crimes against humanity, genocide, and other criminal violations of international law.
+“Consistent with section 301 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993 (Public Law 102–138 \[105 Stat. 707\]), House Concurrent Resolution 137, 105th Congress (approved by the House of Representatives on November 13, 1997), and Senate Concurrent Resolution 78, 105th Congress (approved by theSenate on March 13, 1998), the Congress urges the President to call upon the United Nations to establish an international criminal tribunal for the purpose of indicting, prosecuting, and imprisoning Saddam Hussein and other Iraqi officials who are responsible for crimes against humanity, genocide, and other criminal violations of international law.
 
 #### “SEC. 7. ASSISTANCE FOR IRAQ UPON REPLACEMENT OF SADDAM HUSSEIN REGIME.
 
@@ -1472,7 +1648,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;&emsp;“(C) would reduce the need for United Nations intervention as African institutions develop the ability to resolve African conflicts.
 
-&emsp;“(2) Africa, to a greater extent than any other continent, is afflicted by war. Africa has been marred bymore than 20 major civil wars since 1960. Rwanda, Somalia, Angola, Sudan, Liberia, and Burundi are among those countries that have recently suffered serious armed conflict.
+&emsp;“(2) Africa, to a greater extent than any other continent, is afflicted by war. Africa has been marred by more than 20 major civil wars since 1960. Rwanda, Somalia, Angola, Sudan, Liberia, and Burundi are among those countries that have recently suffered serious armed conflict.
 
 &emsp;“(3) In the last decade alone, between 2,000,000 and 4,000,000 Africans have died because of war. There were 5,200,000 refugees and 13,100,000 displaced people in Africa in 1993.
 

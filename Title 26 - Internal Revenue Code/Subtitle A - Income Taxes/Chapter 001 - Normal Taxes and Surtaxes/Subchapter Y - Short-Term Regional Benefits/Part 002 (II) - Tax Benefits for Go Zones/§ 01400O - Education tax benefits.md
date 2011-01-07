@@ -12,5 +12,5 @@ In the case of an individual who attends an eligible educational institution (as
 
 #### Amendments
 
-2007—Par. (2). Pub. L. 110–172 substituted “under” for “under of”.
+<b>2007</b>—Par. (2). Pub. L. 110–172 substituted “under” for “under of”.
 

@@ -6,5 +6,5 @@ Each student awarded a scholarship under this chapter shall receive a stipend wh
 
 #### Amendments
 
-1985—Pub. L. 99–159 increased amount from $5,000 to $10,000 with provision for annual adjustments.
+<b>1985</b>—Pub. L. 99–159 increased amount from $5,000 to $10,000 with provision for annual adjustments.
 

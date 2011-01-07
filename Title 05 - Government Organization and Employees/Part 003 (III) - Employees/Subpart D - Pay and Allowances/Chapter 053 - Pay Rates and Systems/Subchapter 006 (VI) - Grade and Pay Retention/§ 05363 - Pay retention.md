@@ -36,7 +36,7 @@
 
 > this section shall be applied—
 
-&emsp;(i) first, by determining the rate of pay to which such employee would be entitled at the new official duty station based on such employee's position, grade, and step (or relative position in the pay range) before the move, and
+&emsp;(i) first, by determining the rate of pay to which such employee would be entitled at the new official duty station based on such employee's position, grade, and step (or relativeposition in the pay range) before the move, and
 
 &emsp;(ii) then, by applying the provisions of this section that would apply (if any), treating the rate determined under clause (i) as if it were the rate last received by the employee before the application of this section.
 
@@ -102,7 +102,7 @@ Individuals receiving a retained rate or a rate greater than the maximum rate fo
 
 &emsp;“(B)
 
-Definition.—For purposes of this paragraph, the term ‘covered pay schedule’ has the meaninggiven such term by section 5361 of title 5, United States Code.”
+Definition.—For purposes of this paragraph, the term ‘covered pay schedule’ has the meaning given such term by section 5361 of title 5, United States Code.”
 
 #### Effective Date of 1993 Amendment
 

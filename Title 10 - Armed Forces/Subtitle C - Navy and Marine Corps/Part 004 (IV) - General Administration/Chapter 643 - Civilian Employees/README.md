@@ -16,19 +16,19 @@
 
 #### Amendments
 
-2000—Pub. L. 106–398, §1 \[\[div. A\], title V, §554(b)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–127, added item 7480.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title V, §554(b)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–127, added item 7480.
 
-1998—Pub. L. 105–261, div. A, title XI, §1103(b), Oct. 17, 1998, 112 Stat. 2141, added item 7479.
+<b>1998</b>—Pub. L. 105–261, div. A, title XI, §1103(b), Oct. 17, 1998, 112 Stat. 2141, added item 7479.
 
-1997—Pub. L. 105–85, div. A, title XI, §1109(b)(2), Nov. 18, 1997, 111 Stat. 1927, substituted “Marine Corps University” for “Marine Corps Command and Staff College” in item 7478.
+<b>1997</b>—Pub. L. 105–85, div. A, title XI, §1109(b)(2), Nov. 18, 1997, 111 Stat. 1927, substituted “Marine Corps University” for “Marine Corps Command and Staff College” in item 7478.
 
-1989—Pub. L. 101–189, div. A, title XI, §1124(c)(2), Nov. 29, 1989, 103 Stat. 1559, substituted “Naval War College and Marine Corps Command and Staff College: civilian faculty members” for “Naval War College: employment of civilian professors; compensation” in item 7478.
+<b>1989</b>—Pub. L. 101–189, div. A, title XI, §1124(c)(2), Nov. 29, 1989, 103 Stat. 1559, substituted “Naval War College and Marine Corps Command and Staff College: civilian faculty members” for “Naval War College: employment of civilian professors; compensation” in item 7478.
 
-1966—Pub. L. 89–718, §43, Nov. 2, 1966, 80 Stat. 1120, struck out item 7474 “Wage rates: establishment”.
+<b>1966</b>—Pub. L. 89–718, §43, Nov. 2, 1966, 80 Stat. 1120, struck out item 7474 “Wage rates: establishment”.
 
-1959—Pub. L. 86–148, §1(2), Aug. 7, 1959, 73 Stat. 302, struck out item 7475 “Force at naval activities not to be increased before elections”.
+<b>1959</b>—Pub. L. 86–148, §1(2), Aug. 7, 1959, 73 Stat. 302, struck out item 7475 “Force at naval activities not to be increased before elections”.
 
-1958—Pub. L. 85–861, §1(151), Sept. 2, 1958, 72 Stat. 1513, struck out item 7471 “Appointments: professional and scientific services”.
+<b>1958</b>—Pub. L. 85–861, §1(151), Sept. 2, 1958, 72 Stat. 1513, struck out item 7471 “Appointments: professional and scientific services”.
 
 
 ---

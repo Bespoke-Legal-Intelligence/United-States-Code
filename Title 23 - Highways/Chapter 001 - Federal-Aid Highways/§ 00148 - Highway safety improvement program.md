@@ -174,7 +174,7 @@ Identification and analysis of highway safety problems and opportunities.—As p
 
 &emsp;&emsp;(B) based on the analysis required by subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) identify hazardous locations, sections, and elements (including roadside obstacles, railway-highway crossing needs, and unmarked or poorly marked roads) thatconstitute a danger to motorists (including motorcyclists), bicyclists, pedestrians, and other highway users; and
+&emsp;&emsp;&emsp;(i) identify hazardous locations, sections, and elements (including roadside obstacles, railway-highway crossing needs, and unmarked or poorly marked roads) that constitute a danger to motorists (including motorcyclists), bicyclists, pedestrians, and other highway users; and
 
 &emsp;&emsp;&emsp;(ii) using such criteria as the State determines to be appropriate, establish the relative severity of those locations, in terms of accidents, injuries, deaths, traffic volume levels, and other relevant data;
 
@@ -310,9 +310,9 @@ The date of enactment of this section, referred to in subsec. (e)(2), probably m
 
 #### Amendments
 
-2005—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to a highway safety improvement program for provisions relating to development of the Great River Road, a national scenic and recreational highway.
+<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to a highway safety improvement program for provisions relating to development of the Great River Road, a national scenic and recreational highway.
 
-1978—Subsec. (a)(5). Pub. L. 95–599, §125(b), inserted provision authorizing charging of a fee in certain cases to cover operational costs.
+<b>1978</b>—Subsec. (a)(5). Pub. L. 95–599, §125(b), inserted provision authorizing charging of a fee in certain cases to cover operational costs.
 
 Subsec. (e). Pub. L. 95–599, §129(d), substituted “75 per centum” for “70 per centum”.
 

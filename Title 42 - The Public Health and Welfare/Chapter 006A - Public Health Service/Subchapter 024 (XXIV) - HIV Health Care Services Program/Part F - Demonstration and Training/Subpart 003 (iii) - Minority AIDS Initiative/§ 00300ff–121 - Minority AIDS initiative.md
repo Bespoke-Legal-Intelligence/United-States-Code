@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purpose of carrying out activities under this section to evaluate and address the disproportionate impact of HIV/AIDS on, and the disparities in access, treatment, care, and outcomes for, racial and ethnic minorities (including African Americans, Alaska Natives, Latinos, American Indians, Asian Americans, Native Hawaiians, and Pacific Islanders), there are authorized to be appropriated $131,200,000 for fiscal year 2007, $135,100,000 for fiscal year 2008, $139,100,000 for fiscal year 2009, $146,055,000 for fiscal year 2010, $153,358,000 for fiscal year 2011, $161,026,000 for fiscal year 2012, and $169,077,000 for fiscal year 2013. The Secretary shall develop a formula for the awarding of grants under subsections (b)(1)(A) and (b)(1)(B) that ensures that funding is provided based on the distribution of populations disproportionately impacted by HIV/AIDS.
+For the purpose of carrying out activities under this section to evaluate and address the disproportionate impact of HIV/AIDS on, and the disparities in access, treatment, care, and outcomes for, racial and ethnic minorities (including African Americans, Alaska Natives, Latinos, American Indians, Asian Americans, Native Hawaiians, and Pacific Islanders), there are authorized to be appropriated $131,200,000 for fiscal year 2007, $135,100,000 for fiscal year 2008, $139,100,000 for fiscal year 2009, $146,055,000 for fiscal year 2010, $153,358,000 for fiscal year 2011, $161,026,000 for fiscal year 2012, and $169,077,000 for fiscal year 2013. The Secretary shall develop a formula for the awarding of grants under subsections (b)(1)(A) and (b)(1)(B) that ensures that funding is provided based on the distribution ofpopulations disproportionately impacted by HIV/AIDS.
 
 #### (b) Certain activities
 
@@ -118,7 +118,7 @@ The Departments of Labor, Health and Human Services, and Education, and Related 
 
 #### Amendments
 
-2009—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
 Subsec. (a). Pub. L. 111–87, §2(f)(2)(A), substituted “$139,100,000 for fiscal year 2009, $146,055,000 for fiscal year 2010, $153,358,000 for fiscal year 2011, $161,026,000 for fiscal year 2012, and $169,077,000 for fiscal year 2013. The Secretary shall develop a formula for the awarding of grants under subsections (b)(1)(A) and (b)(1)(B) that ensures that funding is provided based on the distribution of populations disproportionately impacted by HIV/AIDS.” for “and $139,100,000 for fiscal year 2009.”
 
@@ -134,7 +134,7 @@ Subsec. (b)(2)(E). Pub. L. 111–87, §2(f)(2)(B)(v), substituted “the followi
 
 Subsec. (d). Pub. L. 111–87, §2(f)(2)(C), added subsec. (d).
 
-2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+<b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 Subsec. (b)(2)(D), (E). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” wherever appearing.
 

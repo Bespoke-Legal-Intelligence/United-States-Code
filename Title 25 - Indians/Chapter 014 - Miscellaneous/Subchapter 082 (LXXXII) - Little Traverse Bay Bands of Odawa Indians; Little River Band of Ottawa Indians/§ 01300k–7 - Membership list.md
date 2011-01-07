@@ -8,7 +8,7 @@ Not later than 120 days after September 21, 1994, the Bands shall submit to the 
 
 #### (1) In general
 
-&emsp;Not later than 18 months after September 21, 1994, each of the Bands shall submit to the Secretary a membership roll that contains the names of all individuals that are eligible for membership in such Band. Each such Band, in consultation with the Secretary, shall determine whether an individual is eligible for membership in the Band on the basis of provisions in the governing documents of the Bandthat determine the qualifications for inclusion in the membership roll of the Band.
+&emsp;Not later than 18 months after September 21, 1994, each of the Bands shall submit to the Secretary a membership roll that contains the names of all individuals that are eligible for membership in such Band. Each such Band, in consultation with the Secretary, shall determine whether an individual is eligible for membership in the Band on the basis of provisions in the governing documents of the Band that determine the qualifications for inclusion in the membership roll of the Band.
 
 #### (2) Publication of notice
 
@@ -22,7 +22,7 @@ Not later than 120 days after September 21, 1994, the Bands shall submit to the 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–109, §2(b)(1), substituted “the Bands shall submit” for “the Band shall submit” and “members of the respective Bands” for “members of the Band”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–109, §2(b)(1), substituted “the Bands shall submit” for “the Band shall submit” and “members of the respective Bands” for “members of the Band”.
 
-Subsec. (b)(1). Pub. L. 104–109, §2(b)(2), in first sentence substituted “each of the Bands shall submit to the Secretary a membership roll that contains the names of all individuals that are eligible for membership in such Band” for “the Band shall submit to the Secretary membership rolls that contain the names of all individuals eligible for membership in such Band” and in second sentence substituted “Each such Band, in consultation” for “The Band, in consultation”.
+Subsec. (b)(1). Pub. L. 104–109, §2(b)(2), in first sentence substituted “each of the Bands shall submit to the Secretary a membership roll that contains the names of all individuals that are eligible for membership in such Band” for “the Band shall submit to the Secretary membership rolls that contain the names of all individuals eligible for membership in such Band”and in second sentence substituted “Each such Band, in consultation” for “The Band, in consultation”.
 

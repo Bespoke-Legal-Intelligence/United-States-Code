@@ -10,7 +10,7 @@ Beginning at a point where such western boundary time zone line crosses the Stat
 
 #### Amendments
 
-1983—Pub. L. 97–449 substituted “Secretary of Transportation” for “Interstate Commerce Commission”.
+<b>1983</b>—Pub. L. 97–449 substituted “Secretary of Transportation” for “Interstate Commerce Commission”.
 
 #### Repeals
 

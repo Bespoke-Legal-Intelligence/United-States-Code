@@ -1,10 +1,12 @@
 ### §6396. State laws or programs
 
-No State law or State program in effect on December 22, 1975, or which may become effective thereafter, shall be superseded by any provision of subchapter I or II of this chapter or any rule, regulation, or order thereunder, except insofar as such State law or State program is in conflict with such provision, rule, regulation, or order.
+No State law or State program in effect on December 22, 1975, or which may become effective thereafter, shall be superseded by any provision of title I or II of this Act (other than any provision of such title which amends another law) or any rule, regulation, or order thereunder, except insofar as such State law or State program is in conflict with such provision, rule, regulation, or order.
 
 (Pub. L. 94–163, title V, §526, Dec. 22, 1975, 89 Stat. 964.)
 
-#### Codification
+#### References in Text
 
-Words “(other than any provision of such title which amends another law)”, appearing in the original in this section, have been omitted as unnecessary. Such title meant title I or title II of Pub. L. 94–163, which titles are classified to subchapters I and II of this chapter. The provisions of such titles that amended other laws were not classified to subchapters I and II of this chapter.
+Title I of this Act, referred to in par. (1), is title I of Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 875, which is classified principally to subchapter I (§6211 et seq.) of this chapter. For complete classification of title I to the Code, see Tables.
+
+Title II of this Act, referred to in par. (1), is title II of Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 890, which is classified generally to subchapter II (§6271 et seq.) of this chapter. For complete classification of title II to the Code, see Tables.
 

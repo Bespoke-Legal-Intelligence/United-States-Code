@@ -28,7 +28,7 @@ Another section 2332d was renumbered section 2332e of this title.
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–273 inserted “of 1979” after “Export Administration Act”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273 inserted “of 1979” after “Export Administration Act”.
 
 #### Effective Date
 

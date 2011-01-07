@@ -20,9 +20,9 @@ Persons purchasing property pursuant to the provisions of section 2342 of this t
 
 #### Amendments
 
-1962—Subsec. (b). Pub. L. 87–719 substituted authorization of a credit for improvements by occupant of single family or duplex house for such improvements by junior occupant of duplex house.
+<b>1962</b>—Subsec. (b). Pub. L. 87–719 substituted authorization of a credit for improvements by occupant of single family or duplex house for such improvements by junior occupant of duplex house.
 
-1956—Subsec. (a). Act July 25, 1956, authorized an improvement credit for commercial property.
+<b>1956</b>—Subsec. (a). Act July 25, 1956, authorized an improvement credit for commercial property.
 
 #### Transfer of Functions
 

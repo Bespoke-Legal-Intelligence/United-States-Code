@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-When required by regulations prescribed by the Secretary any person made liable for any tax imposed by this title, or with respect to the collection thereof, shall make a return or statement according to the forms and regulations prescribed by the Secretary. Every person required to make a return or statement shall include therein the information required by such forms or regulations.
+When required by regulations prescribed by the Secretary any person made liable for anytax imposed by this title, or with respect to the collection thereof, shall make a return or statement according to the forms and regulations prescribed by the Secretary. Every person required to make a return or statement shall include therein the information required by such forms or regulations.
 
 #### (b) Identification of taxpayer
 
@@ -60,6 +60,10 @@ The Secretary may by regulations require any individual who receives allowances 
 
 &emsp;&emsp;For purposes of this paragraph, the term “individual income tax return” means any return of the tax imposed by subtitle A on individuals, estates, or trusts.
 
+#### (4) Special rule for returns filed by financial institutions with respect to withholding on foreign transfers
+
+&emsp;The numerical limitation under paragraph (2)(A) shall not apply to any return filed by a financial institution (as defined in section 1471(d)(5)) with respect to tax for which such institution is made liable under section 1461 or 1474(a).
+
 #### (f) Promotion of electronic filing
 
 #### (1) In general
@@ -78,7 +82,7 @@ Any taxable party to a prohibited tax shelter transaction (as defined in section
 
 &emsp;&emsp;<b>For requirement that returns of income, estate, and gift taxes be made whether or not there is tax liability, see subparts B and C.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 732; Pub. L. 85–859, title I, §161, Sept. 2, 1958, 72 Stat. 1305; Pub. L. 88–563, §3(a), Sept. 2, 1964, 78 Stat. 843; Pub. L. 89–44, title I, §101(b)(6), June 21, 1965, 79 Stat. 136; Pub. L. 90–59, §4(b), July 31, 1967, 81 Stat. 154; Pub. L. 91–128, §4 (f), (g), Nov. 26, 1969, 83 Stat. 267; Pub. L. 92–178, title V, §504(a), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title XIX, §§1904(b)(10)(A)(ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1817, 1834; Pub. L. 95–615, §207(c), Nov. 8, 1978, 92 Stat. 3108; Pub. L. 97–248, title III, §319, Sept. 3, 1982, 96 Stat. 610; Pub. L. 98–67, title I, §109(a), Aug. 5, 1983, 97 Stat. 383; Pub. L. 98–369, div. A, title VIII, §801(d)(12), July 18, 1984, 98 Stat. 997; Pub. L. 99–514, title XVIII, §1899A(52), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 100–647, title I, §1015(q)(1), Nov. 10, 1988, 102 Stat. 3572; Pub. L. 101–239, title VII, §7713(a), Dec. 19, 1989, 103 Stat. 2394; Pub. L. 105–34, title XII, §1224, Aug. 5, 1997, 111 Stat. 1019; Pub. L. 105–206, title II, §2001(c), July 22, 1998, 112 Stat. 723; Pub. L. 109–222, title V, §516(b)(2), May 17, 2006, 120 Stat. 371; Pub. L. 110–172, §11(g)(19), Dec. 29, 2007, 121 Stat. 2491; Pub. L. 111–92, §17(a), (b), Nov. 6, 2009, 123 Stat. 2996.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 732; Pub. L. 85–859, title I, §161, Sept. 2, 1958, 72 Stat. 1305; Pub. L. 88–563, §3(a), Sept. 2, 1964, 78 Stat. 843; Pub. L. 89–44, title I, §101(b)(6), June 21, 1965, 79 Stat. 136; Pub. L. 90–59, §4(b), July 31, 1967, 81 Stat. 154; Pub. L. 91–128, §4 (f), (g), Nov. 26, 1969, 83 Stat. 267; Pub. L. 92–178, title V, §504(a), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title XIX,§§1904(b)(10)(A)(ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1817, 1834; Pub. L. 95–615, §207(c), Nov. 8, 1978, 92 Stat. 3108; Pub. L. 97–248, title III, §319, Sept. 3, 1982, 96 Stat. 610; Pub. L. 98–67, title I, §109(a), Aug. 5, 1983, 97 Stat. 383; Pub. L. 98–369, div. A, title VIII, §801(d)(12), July 18, 1984, 98 Stat. 997; Pub. L. 99–514, title XVIII, §1899A(52), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 100–647, title I, §1015(q)(1), Nov. 10, 1988, 102 Stat. 3572; Pub. L. 101–239, title VII, §7713(a), Dec. 19, 1989, 103 Stat. 2394; Pub. L. 105–34, title XII, §1224, Aug. 5, 1997, 111 Stat. 1019; Pub. L. 105–206, title II, §2001(c), July 22, 1998, 112 Stat. 723; Pub. L. 109–222, title V, §516(b)(2), May 17, 2006, 120 Stat. 371; Pub. L. 110–172, §11(g)(19), Dec. 29, 2007, 121 Stat. 2491; Pub. L. 111–92, §17(a), (b), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 111–147, title V, §522(a), Mar. 18, 2010, 124 Stat. 112.)
 
 #### References in Text
 
@@ -86,35 +90,37 @@ The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in
 
 #### Amendments
 
-2009—Subsec. (e)(1). Pub. L. 111–92, §17(b), substituted “Except as provided in paragraph (3), the Secretary may not” for “The Secretary may not” in second sentence.
+<b>2010</b>—Subsec. (e)(4). Pub. L. 111–147 added par. (4).
+
+<b>2009</b>—Subsec. (e)(1). Pub. L. 111–92, §17(b), substituted “Except as provided in paragraph (3), the Secretary may not” for “The Secretary may not” in second sentence.
 
 Subsec. (e)(3). Pub. L. 111–92, §17(a), added par. (3).
 
-2007—Subsec. (c). Pub. L. 110–172, §11(g)(19)(B), struck out “and FSC's” after “former DISCS” in heading.
+<b>2007</b>—Subsec. (c). Pub. L. 110–172, §11(g)(19)(B), struck out “and FSC's” after “former DISCS” in heading.
 
 Subsec. (c)(1). Pub. L. 110–172, §11(g)(19)(A), in introductory provisions, substituted “, former DISC, or former FSC (as defined in section 922 as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)” for “or former DISC or a FSC or former FSC”.
 
-2006—Subsecs. (g), (h). Pub. L. 109–222 added subsec. (g) and redesignated former subsec. (g) as (h).
+<b>2006</b>—Subsecs. (g), (h). Pub. L. 109–222 added subsec. (g) and redesignated former subsec. (g) as (h).
 
-1998—Subsecs. (f), (g). Pub. L. 105–206 added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>1998</b>—Subsecs. (f), (g). Pub. L. 105–206 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1997—Subsec. (e)(2). Pub. L. 105–34 inserted at end “Notwithstanding the preceding sentence, the Secretary shall require partnerships having more than 100 partners to file returns on magnetic media.”
+<b>1997</b>—Subsec. (e)(2). Pub. L. 105–34 inserted at end “Notwithstanding the preceding sentence, the Secretary shall require partnerships having more than 100 partners to file returns on magnetic media.”
 
-1989—Subsec. (e). Pub. L. 101–239 substituted “magnetic media” for “magnetic tape” in heading and amended text generally, revising the content and structure of pars. (1) and (2).
+<b>1989</b>—Subsec. (e). Pub. L. 101–239 substituted “magnetic media” for “magnetic tape” in heading and amended text generally, revising the content and structure of pars. (1) and (2).
 
-1988—Subsec. (a). Pub. L. 100–647 substituted “or with respect to the collection thereof” for “or for the collection thereof”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647 substituted “or with respect to the collection thereof” for “or for the collection thereof”.
 
-1986—Subsec. (f). Pub. L. 99–514 substituted “subparts B and C” for “sections 6012 to 6019, inclusive”.
+<b>1986</b>—Subsec. (f). Pub. L. 99–514 substituted “subparts B and C” for “sections 6012 to 6019, inclusive”.
 
-1984—Subsec. (c). Pub. L. 98–369 inserted “and FSC's and former FSC's” in heading and “or a FSC or former FSC” in par. (1).
+<b>1984</b>—Subsec. (c). Pub. L. 98–369 inserted “and FSC's and former FSC's” in heading and “or a FSC or former FSC” in par. (1).
 
-1983—Subsec. (e). Pub. L. 98–67 amended subsec. (e) generally, designating existing provisions as par. (1) and adding par. (2).
+<b>1983</b>—Subsec. (e). Pub. L. 98–67 amended subsec. (e) generally, designating existing provisions as par. (1) and adding par. (2).
 
-1982—Subsecs. (e), (f). Pub. L. 97–248 added subsec. (e) and redesignated former subsec. (e) as (f).
+<b>1982</b>—Subsecs. (e), (f). Pub. L. 97–248 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1978—Subsecs. (d), (e). Pub. L. 95–615 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1978</b>—Subsecs. (d), (e). Pub. L. 95–615 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1976—Subsecs. (a), (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (c). Pub. L. 94–455, §§1904(b)(10)(A)(ii), 1906(b)(13)(A), redesignated subsec. (e) as (c) and struck out “or his delegate” after “Secretary” wherever appearing.
 
@@ -122,19 +128,23 @@ Subsec. (d). Pub. L. 94–455, §1904(b)(10)(A)(ii), redesignated subsec. (f) as
 
 Subsecs. (e), (f). Pub. L. 94–455, §1904(b)(10)(A)(ii), redesignated subsecs. (e) and (f) as (c) and (d), respectively.
 
-1971—Subsecs. (e), (f). Pub. L. 92–178 added subsec. (e) and redesignated former subsec. (e) as (f).
+<b>1971</b>—Subsecs. (e), (f). Pub. L. 92–178 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1969—Subsec. (d)(1)(B). Pub. L. 91–128, §4(f), inserted provisions excepting dispositions made under circumstances entitling the person to a credit under the provisions of section 4919 from the requirement that persons incurring liability for the tax imposed by section 4911 of this title, if he disposes of the stock or debt obligation with respect to which such liability was incurred prior to the filing of the return required by subparagraph (A), file a return of such tax.
+<b>1969</b>—Subsec. (d)(1)(B). Pub. L. 91–128, §4(f), inserted provisions excepting dispositions made under circumstances entitling the person to a credit under the provisions of section 4919 from the requirement that persons incurring liability for the tax imposed by section 4911 of this title, if he disposes of the stock or debt obligation with respect to which such liability was incurred prior to the filing of the return required by subparagraph (A), file a return of such tax.
 
 Subsec. (d)(3). Pub. L. 91–128, §4(g), eased recordkeeping requirements by providing that nonparticipating be subject to the recordkeeping and reporting requirements prescribed by the Secretary or his delegate only insofar as they engage in sales or acquisitions in which the nonparticipating firm has received a validation certificate indicating the stock or debt obligation qualifies for the exemption or where the U.S. person acquiring the stock or debt obligation is subject to the interest equalization tax, including acquisitions where a broker's confirmation to the customer indicates, or should indicate that the particular acquisition is or may be subject to the tax.
 
-1967—Subsec. (d)(1). Pub. L. 90–59 designated existing provisions as subpar. (A), substituted a copy of any return made during a quarter under subpar. (B) for a certificate of American ownership complying with section 4918(e) or a summary statement establishing exemption together with reasons for person's inability to establish prior American ownership as the document to accompany the list of acquisitions made during the calendar quarter for which an exemption is claimed under section 4918, struck out “a written confirmation, furnished in accordance with the requirements described in section 4918(c) or (d), is treated as conclusive proof of prior American ownership;” after “No return or accompanying evidence shall be required under this paragraph, in connection with any acquisition with respect to which”, and added clauses (i), (ii), and (iii) and subpar. (B).
+<b>1967</b>—Subsec. (d)(1). Pub. L. 90–59 designated existing provisions as subpar. (A), substituted a copy of any return made during a quarter under subpar. (B) for a certificate of American ownership complying with section 4918(e) or a summary statement establishing exemption together with reasons for person's inability to establish prior American ownership as the document to accompany the list of acquisitions made during the calendar quarter for which an exemption is claimed under section 4918, struck out “a written confirmation, furnished in accordance with the requirements described in section 4918(c) or (d), is treated as conclusive proof of prior American ownership;” after “No return or accompanying evidence shall be required under this paragraph, in connection with any acquisition with respect to which”, and added clauses (i), (ii), and (iii) and subpar. (B).
 
-1965—Subsec. (c). Pub. L. 89–44 repealed subsec. (c) which related to return of retailers excise taxes by suppliers.
+<b>1965</b>—Subsec. (c). Pub. L. 89–44 repealed subsec. (c) which related to return of retailers excise taxes by suppliers.
 
-1964—Subsecs. (d), (e). Pub. L. 88–563 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1964</b>—Subsecs. (d), (e). Pub. L. 88–563 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1958—Subsecs. (c), (d). Pub. L. 85–859 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1958</b>—Subsecs. (c), (d). Pub. L. 85–859 added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–147, title V, §522(c), Mar. 18, 2010, 124 Stat. 113, provided that: “The amendment made by this section \[amending this section and section 6724 of this title\] shall apply to returns the due date for which (determined without regard to extensions) is after the date of the enactment of this Act \[Mar. 18, 2010\].”
 
 #### Effective Date of 2009 Amendment
 
@@ -146,7 +156,7 @@ Amendment by Pub. L. 109–222 applicable to disclosures the due date for which 
 
 #### Effective Date of 1997 Amendment
 
-Section 1226 of title XII of Pub. L. 105–34, as amended by Pub. L. 105–206, title VI, §6012(e), July 22, 1998, 112 Stat. 819, provided that: “The amendments made by this part \[part I (§§1221–1226) of subtitle C of title XII of Pub. L. 105–34, enacting part IV of subchapter K of chapter 1 of this title and subchapter D of chapter 63 of this title, and amending this section and sections 6012,6031, 6724, 7421, 7459, 7482, and 7485 of this title\] shall apply to partnership taxable years beginning after December 31, 1997.”
+Section 1226 of title XII of Pub. L. 105–34, as amended by Pub. L. 105–206, title VI, §6012(e), July 22, 1998, 112 Stat. 819, provided that: “The amendments made by this part \[part I (§§1221–1226) of subtitle C of title XII of Pub. L. 105–34, enacting part IV of subchapter K of chapter 1 of this title and subchapter D of chapter 63 ofthis title, and amending this section and sections 6012, 6031, 6724, 7421, 7459, 7482, and 7485 of this title\] shall apply to partnership taxable years beginning after December 31, 1997.”
 
 #### Effective Date of 1989 Amendment
 
@@ -234,11 +244,11 @@ Annual Reports.—Not later than June 30 of each calendar year after 1998, the C
 
 &emsp;“(4) the effects on small businesses and the self-employed of electronically filing tax and information returns.”
 
-Pub. L. 105–206, title II, §2003(c), July 22, 1998, 112 Stat. 725, provided that: “In the case of taxable periods beginning after December 31, 1999, the Secretary of the Treasury or the Secretary's delegate shall, to the extent practicable, establish procedures to accept, in electronic form, any other information, statements, elections, or schedules, from taxpayers filing returns electronically, so that such taxpayers will not be required to file any paper.”
+Pub. L. 105–206, title II, §2003(c), July 22, 1998, 112 Stat. 725, provided that: “In the case of taxable periods beginning after December 31, 1999, the Secretary of the Treasury or the Secretary's delegate shall, to the extent practicable, establish procedures to accept, in electronic form, any other information, statements,elections, or schedules, from taxpayers filing returns electronically, so that such taxpayers will not be required to file any paper.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Study of Wage Returns on Magnetic Tape; Report to Congress Not Later Than July 1, 1984
 
@@ -257,4 +267,6 @@ Pub. L. 95–600, title V, §551, Nov. 6, 1978, 92 Stat. 2890, required a study 
 Section 3(d)(1) of Pub. L. 89–243, Oct. 9, 1965, 79 Stat. 955, provided that the first period for which returns were to be made under subsec. (d)(1) of this section with respect to acquisitions made subject to tax by this section was the period commencing Feb. 11, 1965, and ending at the close of the calendar quarter in which the enactment of Pub. L. 89–243 \[Oct. 9, 1965\] occurred.
 
 Section 3(e) of Pub. L. 88–563 provided that the first period for which returns were to be made under subsec. (d)(1) of this section was the period commencing July 19, 1963, and ending at the close of the calendar quarter in which the enactment of Pub. L. 88–563 \[Sept. 2, 1964\] occurred.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “that”.</i>
 

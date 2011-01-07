@@ -16,7 +16,7 @@ No action shall be brought against any individual or person for any violation un
 
 #### Amendments
 
-1990—Subsec. (c). Pub. L. 101–647 struck out “That no action shall be brought under section 2272, 2273, 2274, 2275, or 2276 of this title except by the express direction of the Attorney General: <i>And provided further</i>,” after “<i>Provided however</i>,”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–647 struck out “That no action shall be brought under section 2272, 2273, 2274, 2275, or 2276 of this title except by the express direction of the Attorney General: <i>And provided further</i>,” after “<i>Provided however</i>,”.
 
-1969—Subsec. (c). Pub. L. 91–161 provided that nothing in this subsection should be construed to apply to administrative action taken by the Commission.
+<b>1969</b>—Subsec. (c). Pub. L. 91–161 provided that nothing in this subsection should be construed to apply to administrative action taken by the Commission.
 

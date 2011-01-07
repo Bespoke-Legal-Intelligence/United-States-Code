@@ -2,7 +2,7 @@
 
 In this chapter, the term “Capitol Buildings” means the United States Capitol, the Senate and House Office Buildings and garages, the Capitol Power Plant, all buildings on the real property described under section 5102(c) (including the Administrative Building of the United States Botanic Garden) <sup>1</sup> all buildings on the real property described under section 5102(d), all subways and enclosed passages connecting two or more of those structures, and the real property underlying and enclosed by any of those structures.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1174; Pub. L. 108–7, div. H, title I, §1016(a), Feb. 20, 2003, 117 Stat. 364; Pub. L. 110–161, div. H, title I, §1004(d)(2)(A)(i), Dec. 26, 2007, 121 Stat. 2233; Pub. L. 110–178, §4(b)(1)(A), Jan. 7, 2008, 121 Stat. 2551.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1174; Pub. L. 108–7, div. H, title I, §1016(a), Feb. 20, 2003, 117 Stat. 364; Pub. L. 110–161, div. H, title I, §1004(d)(2)(A)(i), Dec. 26, 2007, 121 Stat. 2233; Pub. L. 110–178, §4(b)(1)(A), Jan. 7, 2008, 121 Stat. 2551; Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
 
 Historical and Revision Notes
 
@@ -22,11 +22,17 @@ July 31, 1946, ch. 707, §16(a)(1), 60 Stat. 721; Pub. L. 90–108, §1(d), Oct.
 
 #### Amendments
 
-2008—Pub. L. 110–178 made amendment identical to that made by Pub. L. 110–161. See 2007 Amendment note below.
+<b>2010</b>—Pub. L. 111–145 repealed Pub. L. 110–161, §1004(d)(2)(A)(i). See 2007 Amendment note below.
 
-2007—Pub. L. 110–161 inserted “all buildings on the real property described under section 5102(d)” after “(including the Administrative Building of the United States Botanic Garden)”.
+<b>2008</b>—Pub. L. 110–178 inserted “all buildings on the real property described under section 5102(d)” after “(including the Administrative Building of the United States Botanic Garden)”.
 
-2003—Pub. L. 108–7 inserted “all buildings on the real property described under section 5102(c) (including the Administrative Building of the United States Botanic Garden),” after “Capitol Power Plant,”.
+<b>2007</b>—Pub. L. 110–161, §1004(d)(2)(A)(i), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
+
+<b>2003</b>—Pub. L. 108–7 inserted “all buildings on the real property described under section 5102(c) (including the Administrative Building of the United States Botanic Garden),” after “Capitol Power Plant,”.
+
+#### Effective Date of 2010 Amendment
+
+Repeal of section 1004 of Pub. L. 110–161 by Pub. L. 111–145 effective as if included in the enactment of Pub. L. 110–161 and provisions amended by section 1004 of Pub. L. 110–161 to be restored as if such section had not been enacted, and repeal to have no effect on the enactment or implementation of any provision of Pub. L. 110–178, see section 6(d) of Pub. L. 111–145, set out as a note under section 1901 of Title 2, The Congress.
 
 #### Effective Date of 2008 Amendment
 
@@ -46,7 +52,7 @@ Pub. L. 110–139, §1, Dec. 18, 2007, 121 Stat. 1491, provided that:
 
 “(a)
 
-In General.—The great hall of the Capitol Visitor Center shall be known and designated as ‘Emancipation Hall’, and any reference to the great hall in any law, rule, or regulation shall be deemed to be a reference to Emancipation Hall.
+In General.—The great hall of the Capitol Visitor Center shall be known and designated as ‘Emancipation Hall’, and any reference to the great hall in anylaw, rule, or regulation shall be deemed to be a reference to Emancipation Hall.
 
 “(b)
 

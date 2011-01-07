@@ -42,7 +42,7 @@ A crime victim compensation program is an eligible crime victim compensation pro
 
 #### (c) Exclusion from income, resources, and assets for purposes of means tests
 
-Notwithstanding any other law (other than title IV of Public Law 107–42), for the purpose of any maximum allowed income, resource, or asset eligibility requirement in any Federal, State, or local government program using Federal funds that provides medical or other assistance (or payment or reimbursement of the cost of such assistance), any amount of crime victim compensation that the applicant receives through a crime victim compensation program under this section shall not be included in the income, resources, or assets of the applicant, nor shall that amount reduce the amount of the assistance available to the applicant from Federal, State, or local government programs usingFederal funds, unless the total amount of assistance that the applicant receives from all such programs is sufficient to fully compensate the applicant for losses suffered as a result of the crime.
+Notwithstanding any other law (other than title IV of Public Law 107–42), for the purpose of any maximum allowed income, resource, or asset eligibility requirement in any Federal, State, or local government program using Federal funds that provides medical or other assistance (or payment or reimbursement of the cost of such assistance), any amount of crime victim compensation that the applicant receives through a crime victim compensation program under this section shall not be included in the income, resources, or assets of the applicant, nor shall that amount reduce the amount of the assistance available to the applicant from Federal, State, or local government programs using Federal funds, unless the total amount of assistance that the applicant receives from all such programs is sufficient to fully compensate the applicant for losses suffered as a result of the crime.
 
 #### (d) Definitions
 
@@ -72,9 +72,9 @@ Title IV of Public Law 107–42, referred to in subsecs. (c) and (e), is set out
 
 #### Amendments
 
-2006—Subsec. (a)(3). Pub. L. 109–162 inserted “training purposes and” after “may be used for”.
+<b>2006</b>—Subsec. (a)(3). Pub. L. 109–162 inserted “training purposes and” after “may be used for”.
 
-2001—Subsec. (a)(1), (2). Pub. L. 107–56, §622(a), inserted “in fiscal year 2002 and of 60 percent in subsequent fiscal years” after “40 percent”.
+<b>2001</b>—Subsec. (a)(1), (2). Pub. L. 107–56, §622(a), inserted “in fiscal year 2002 and of 60 percent in subsequent fiscal years” after “40 percent”.
 
 Subsec. (b)(6)(B). Pub. L. 107–56, §622(b), which directed striking out “are outside the United States (if the compensable crime is terrorism, as defined in section 2331 of title 18), or”, was executed by striking out “are outside of the United States (if the compensable crime is terrorism, as defined in section 2331 of title 18), or” after “the places the crimes occurred in” to reflect the probable intent of Congress.
 
@@ -86,7 +86,7 @@ Subsec. (d)(4). Pub. L. 107–56, §622(d)(2), inserted “the United States Vir
 
 Subsec. (e). Pub. L. 107–56, §622(e)(1), inserted “including the program established under title IV of Public Law 107–42,” after “Federal program,” in introductory provisions.
 
-1996—Subsec. (b)(6)(B). Pub. L. 104–132, §233(b), inserted “are outside of the United States (if the compensable crime is terrorism, as defined in section 2331 of title 18), or” before “are States not having”.
+<b>1996</b>—Subsec. (b)(6)(B). Pub. L. 104–132, §233(b), inserted “are outside of the United States (if the compensable crime is terrorism, as defined in section 2331 of title 18), or” before “are States not having”.
 
 Subsec. (b)(8), (9). Pub. L. 104–132, §234(a)(1), added par. (8) and redesignated former par. (8) as (9).
 
@@ -96,7 +96,7 @@ Subsec. (d)(3). Pub. L. 104–155 inserted “crimes, whose victims suffer death
 
 Pub. L. 104–132, §233(a), substituted “crimes involving terrorism, driving while intoxicated,” for “driving while intoxicated”.
 
-1994—Subsec. (a)(1). Pub. L. 103–322, §230203(a), substituted “Except as provided in paragraph (3), a grant” for “A grant” in last sentence.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–322, §230203(a), substituted “Except as provided in paragraph (3), a grant” for “A grant” in last sentence.
 
 Subsec. (a)(3). Pub. L. 103–322, §230203(b), added par. (3).
 
@@ -104,7 +104,7 @@ Subsec. (b)(1). Pub. L. 103–322, §330025(b), inserted before semicolon at end
 
 Subsec. (e). Pub. L. 103–322, §230202, added subsec. (e).
 
-1988—Subsec. (a). Pub. L. 100–690, §§7123(b)(1), (2), 7125(b), substituted “Director” for “Attorney General” and “40 percent” for “35 percent” in pars. (1) and (2).
+<b>1988</b>—Subsec. (a). Pub. L. 100–690, §§7123(b)(1), (2), 7125(b), substituted “Director” for “Attorney General” and “40 percent” for “35 percent” in pars. (1) and (2).
 
 Subsec. (b)(1). Pub. L. 100–690, §7125(c)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “such program is operated by a State and offers compensation to victims of crime and survivors of victims of crime for—
 

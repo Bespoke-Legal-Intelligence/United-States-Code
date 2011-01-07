@@ -2,7 +2,7 @@
 
 #### (a) Review
 
-In the development of the Memorandum of Agreement required by section 2411 of this title, the Secretary of the Interior and the Secretary of Health and Human Services, in cooperation with the Secretary of Education shall review and consider—
+In the development of the Memorandum of Agreement required by section 2411 of this title, the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services, in cooperation with the Secretary of Education shall review and consider—
 
 &emsp;(1) Federal programs providing education services or benefits to Indian children,
 
@@ -20,5 +20,9 @@ In the development of the Memorandum of Agreement required by section 2411 of th
 
 The results of the review conducted under subsection (a) of this section shall be provided to each Indian tribe as soon as possible for their consideration and use in the development or modification of a Tribal Action Plan under section 2412 of this title.
 
-(Pub. L. 99–570, title IV, §4211, Oct. 27, 1986, 100 Stat. 3207–143.)
+(Pub. L. 99–570, title IV, §4211, Oct. 27, 1986, 100 Stat. 3207–143; Pub. L. 111–211, title II, §241(a)(6), July 29, 2010, 124 Stat. 2289.)
+
+#### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–211 inserted “, the Attorney General,” after “the Secretary of the Interior” in introductory provisions.
 

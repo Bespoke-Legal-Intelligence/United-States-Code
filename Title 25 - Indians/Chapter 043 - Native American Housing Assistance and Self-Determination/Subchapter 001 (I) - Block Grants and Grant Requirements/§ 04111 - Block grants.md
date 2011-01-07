@@ -48,7 +48,7 @@ Notwithstanding any other provision of this chapter, grant amounts provided unde
 
 #### (e) Effect of failure to exempt from taxation
 
-Notwithstanding subsection (d) of this section, a grant recipient that does not comply with the requirements under such subsection may receive a block grant under this chapter, but only if the tribe, State, city, county, or other political subdivision in which the affordable housing development is located contributes, in the form of cash or tax remission, the amount by which the taxes paid with respect to the development exceed the amounts prescribed in subsection (d)(2) of this section.
+Notwithstanding subsection (d) of this section, a grant recipient that does not comply with therequirements under such subsection may receive a block grant under this chapter, but only if the tribe, State, city, county, or other political subdivision in which the affordable housing development is located contributes, in the form of cash or tax remission, the amount by which the taxes paid with respect to the development exceed the amounts prescribed in subsection (d)(2) of this section.
 
 #### (f) Amount
 
@@ -92,19 +92,19 @@ The United States Housing Act of 1937, referred to in subsec. (d), is act Sept. 
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–411, §101(1), designated first sentence as par. (1) and inserted heading, substituted “tribes—” for “tribes to carry out affordable housing activities.”, added subpars. (A) and (B), and designated second sentence as par. (2) and inserted heading.
+<b>2008</b>—Subsec. (a). Pub. L. 110–411, §101(1), designated first sentence as par. (1) and inserted heading, substituted “tribes—” for “tribes to carry out affordable housing activities.”, added subpars. (A) and (B), and designated second sentence as par. (2) and inserted heading.
 
 Subsec. (g). Pub. L. 110–411, §101(2), inserted “of this section and part B of subchapter II” after “subsection (h)”.
 
 Subsecs. (j), (k). Pub. L. 110–411, §101(3), added subsecs. (j) and (k).
 
-2002—Subsec. (h). Pub. L. 107–292 inserted “and planning” after “Administrative” in heading and “for comprehensive housing and community development planning activities and” after “received under this chapter” in text.
+<b>2002</b>—Subsec. (h). Pub. L. 107–292 inserted “and planning” after “Administrative” in heading and “for comprehensive housing and community development planning activities and” after “received under this chapter” in text.
 
-2000—Subsec. (b)(2). Pub. L. 106–568, §1003(a)(1), and Pub. L. 106–569, §503(a)(1), amended par. (2) identically, substituting “for a period of not more than 90 days, if the Secretary determines that an Indian tribe has not complied with, or is unable to comply with, those requirements due to exigent circumstances beyond the control of the Indian tribe.” for “if the Secretary finds that an Indian tribe has not complied or cannot comply with such requirements due to circumstances beyond the control of the tribe.”
+<b>2000</b>—Subsec. (b)(2). Pub. L. 106–568, §1003(a)(1), and Pub. L. 106–569, §503(a)(1), amended par. (2) identically, substituting “for a period of not more than 90 days, if the Secretary determines that an Indian tribe has not complied with, or is unable to comply with, those requirements due to exigent circumstances beyond the control of the Indian tribe.” for “if the Secretary finds that an Indian tribe has not complied or cannot comply with such requirements due to circumstances beyond the control of the tribe.”
 
 Subsec. (c). Pub. L. 106–568, §1003(a)(2), and Pub. L. 106–569, §503(a)(2), amended subsec. (c) identically, inserting at end “The Secretary may waive the requirements of this subsection and subsection (d) of this section if the recipient has made a good faith effort to fulfill the requirements of this subsection and subsection (d) of this section and agrees to make payments in lieu of taxes to the appropriate taxing authority in an amount consistent with the requirements of subsection (d)(2) of this section until such time as the matter of making such payments has been resolved in accordance with subsection (d) of this section.”
 
-1998—Subsec. (c). Pub. L. 105–276, §595(e)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary may not make any grant under this chapter on behalf of an Indian tribe unless the governing body of the locality within which any affordable housing to be assisted with the grant amounts will be situated has entered into an agreement with the recipient for the tribe providing for local cooperation required by the Secretary pursuant to this chapter.”
+<b>1998</b>—Subsec. (c). Pub. L. 105–276, §595(e)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary may not make any grant under this chapter on behalf of an Indian tribe unless the governing body of the locality within which any affordable housing to be assisted with the grant amounts will be situated has entered into an agreement with the recipient for the tribe providing for local cooperation required by the Secretary pursuant to this chapter.”
 
 Subsec. (d). Pub. L. 105–276, §595(e)(4)(A), added subsec. (d) heading, introductory provisions, and par. (1), and struck out former subsec. (d) heading, introductory provisions, and par. (1). Text read as follows: “A grant recipient for an Indian tribe may receive a block grant under this chapter only if—
 

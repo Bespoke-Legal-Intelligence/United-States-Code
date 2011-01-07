@@ -8,7 +8,7 @@
 
 (d) If any person has been awarded more than one medal of honor, such person shall not receive more than one special pension.
 
-(e) Effective as of December 1 each year, the Secretary shall increase the amount of monthly special pension payable under subsection (a) asof November 30 of such year by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1 of such year as a result of a determination under section 215(i) of that Act (42 U.S.C. 415(i)).
+(e) Effective as of December 1 each year, the Secretary shall increase the amount of monthly special pension payable under subsection (a) as of November 30 of such year by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1 of such year as a result of a determination under section 215(i) of that Act (42 U.S.C. 415(i)).
 
 (f)(1) The Secretary shall pay, in a lump sum, to each person who is in receipt of special pension payable under this section an amount equal to the total amount of special pension that the person would have received during the period beginning on the first day of the first month beginning after the date of the act for which the person was awarded the Medal of Honor and ending on the last day of the month preceding the month in which the person's special pension in fact commenced.
 
@@ -26,7 +26,7 @@ Prior sections 1601, 1602, 1621 to 1625, 1631 to 1634, 1641, and 1643, which com
 
 Other prior sections 1601, 1610 to 1613, 1620 to 1626, 1631 to 1634, 1641 to 1645, 1651 to 1656, and 1661 to 1669, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1174–1192; Pub. L. 86–150, Aug. 11, 1964, 73 Stat. 332; Pub. L. 87–815, §1, Oct. 15, 1962, 76 Stat. 926; Pub. L. 88–361, §7, July 7, 1964, 78 Stat. 298, comprised chapter 33, Education of Korean Conflict Veterans, prior to repeal by Pub. L. 89–358, §4(a), Mar. 3, 1966, 80 Stat. 23.
 
-Section 1601 defined “basic service period”, “eligible veteran”, “program of education or training”, “course”, “dependent”, “educational institutions”, “training establishments”, “State”, and “Commissioner”, made benefits unavailable to individuals serving as commissioned officers of Coast and Geodetic Survey or of Regular or Reserve Corps of the Public Health Service unless the service qualified those individuals for benefits under title II of the Veteran's Readjustment Assistance Act of 1952, and declared Congressional policy. See sections 3451(3), (4) and 3452(a)(1), (3)(A), (B), (b) to (d) of this title.
+Section 1601 defined “basic service period”, “eligible veteran”, “program of education or training”, “course”, “dependent”, “educational institutions”,“training establishments”, “State”, and “Commissioner”, made benefits unavailable to individuals serving as commissioned officers of Coast and Geodetic Survey or of Regular or Reserve Corps of the Public Health Service unless the service qualified those individuals for benefits under title II of the Veteran's Readjustment Assistance Act of 1952, and declared Congressional policy. See sections 3451(3), (4) and 3452(a)(1), (3)(A), (B), (b) to (d) of this title.
 
 Section 1610 provided for entitlement to education or training generally. See section 3461(a) of this title.
 
@@ -146,31 +146,31 @@ Prior section 1700, which comprised the first section of chapter 35, was renumbe
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–330, §304(a), substituted “$1,000, as adjusted from time to time under subsection (e)” for “$600”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–330, §304(a), substituted “$1,000, as adjusted from time to time under subsection (e)” for “$600”.
 
 Subsec. (e). Pub. L. 107–330, §304(b), added subsec. (e).
 
 Subsec. (f). Pub. L. 107–330, §304(c), added subsec. (f).
 
-1998—Subsec. (a). Pub. L. 105–368 substituted “$600” for “$400”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–368 substituted “$600” for “$400”.
 
-1993—Subsec. (a). Pub. L. 103–161 substituted “$400” for “$200”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–161 substituted “$400” for “$200”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 562 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 562 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1561” for “561” and “1560” for “560”.
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-1978—Subsec. (a). Pub. L. 95–479 increased from $100 to $200 the special pension.
+<b>1978</b>—Subsec. (a). Pub. L. 95–479 increased from $100 to $200 the special pension.
 
-1975—Subsec. (a). Pub. L. 94–169, §106(44), substituted “delivered to the Administrator” for “delivered to him”.
+<b>1975</b>—Subsec. (a). Pub. L. 94–169, §106(44), substituted “delivered to the Administrator” for “delivered to him”.
 
 Subsecs. (b), (d). Pub. L. 94–169, §106(45), substituted “such person” for “he”.
 
-1963—Subsec. (a). Pub. L. 88–77 inserted references to the Coast Guard.
+<b>1963</b>—Subsec. (a). Pub. L. 88–77 inserted references to the Coast Guard.
 
-1961—Subsec. (a). Pub. L. 87–138 inserted “, and a copy of whose certificate has been delivered to him under subsection (c) of section 561 of this title,” after “Medal of Honor roll”, and increased pension from $10 to $100.
+<b>1961</b>—Subsec. (a). Pub. L. 87–138 inserted “, and a copy of whose certificate has been delivered to him under subsection (c) of section 561 of this title,” after “Medal of Honor roll”, and increased pension from $10 to $100.
 
 #### Effective Date of 2002 Amendment
 

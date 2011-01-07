@@ -26,7 +26,7 @@
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–244, §901(b)(6), (7), substituted “colleges or universities” for “community colleges” and substituted “such college or university” for “such college” wherever appearing.
+<b>1998</b>—Subsec. (a). Pub. L. 105–244, §901(b)(6), (7), substituted “colleges or universities” for “community colleges” and substituted “such college or university” for “such college” wherever appearing.
 
 Subsec. (b). Pub. L. 105–244, §901(b)(5), (7), in introductory provisions, substituted “controlled college or university” for “controlled community college” and “such college or university” for “such college”.
 
@@ -36,13 +36,13 @@ Subsec. (b)(4). Pub. L. 105–244, §901(b)(7), (14), (15), substituted “such 
 
 Subsec. (b)(6). Pub. L. 105–244, §901(b)(12), substituted “the college or university” for “the college”.
 
-1994—Subsec. (a). Pub. L. 103–382, §383(1), substituted “section 1065 of title 20” for “section 1065a of title 20”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–382, §383(1), substituted “section 1065 of title 20” for “section 1065a of title 20”.
 
 Subsec. (b)(1). Pub. L. 103–382, §383(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “provides for the establishment and maintenance of a trust fund at a federally insured banking or savings institution;”.
 
 Subsec. (b)(3). Pub. L. 103–382, §383(2)(B), struck out “same” before “banking or savings institution”.
 
-1990—Subsec. (b)(2)(B). Pub. L. 101–477, §1(d)(1)(A), substituted “(or of a value) equal to half of” for “equal to”.
+<b>1990</b>—Subsec. (b)(2)(B). Pub. L. 101–477, §1(d)(1)(A), substituted “(or of a value) equal to half of” for “equal to”.
 
 Subsec. (b)(4). Pub. L. 101–477, §1(d)(1)(B), substituted “an amount of Federal capital contribution equal to twice the amount of (or value of) such withdrawal” for “an equal amount of Federal capital contribution”.
 

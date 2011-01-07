@@ -12,17 +12,19 @@
 
 &emsp;(2) Improvements to such real property.
 
-(Aug. 4, 1950, ch. 561, §11, 64 Stat. 412; Pub. L. 91–281, June 17, 1970, 84 Stat. 309; Pub. L. 101–520, title II, §205(d), Nov. 5, 1990, 104 Stat. 2272; Pub. L. 101–562, §2(c), Nov. 15, 1990, 104 Stat. 2780; Pub. L. 105–144, §2, Dec. 15, 1997, 111 Stat. 2667; Pub. L. 108–83, title I, §1203(b), Sept. 30, 2003, 117 Stat. 1031; Pub. L. 110–161, div. H, title I, §1004(d)(2)(D), Dec. 26, 2007, 121 Stat. 2234; Pub. L. 110–178, §4(b)(4), Jan. 7, 2008, 121 Stat. 2552.)
+(Aug. 4, 1950, ch. 561, §11, 64 Stat. 412; Pub. L. 91–281, June 17, 1970, 84 Stat. 309; Pub. L. 101–520, title II, §205(d), Nov. 5, 1990, 104 Stat. 2272; Pub. L. 101–562, §2(c), Nov. 15, 1990, 104 Stat. 2780; Pub. L. 105–144, §2, Dec. 15, 1997, 111 Stat. 2667; Pub. L. 108–83, title I, §1203(b), Sept. 30, 2003, 117 Stat. 1031; Pub. L. 110–161, div. H, title I, §1004(d)(2)(D), Dec. 26, 2007, 121 Stat. 2234; Pub. L. 110–178, §4(b)(4), Jan. 7, 2008, 121 Stat. 2552; Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–178, §4(b)(4)(A), made amendment identical to that made by Pub. L. 110–161, §1004(d)(2)(D)(i), substituting “The” for “For the purposes of sections 167 to 167j of this title the”. See 2007 Amendment note below.
+2010—Pub. L. 111–145 repealed Pub. L. 110–161, §1004(d)(2)(D). See 2007 Amendment notes below.
+
+2008—Subsec. (a). Pub. L. 110–178, §4(b)(4)(A), substituted “The” for “For the purposes of sections 167 to 167j of this title the”.
 
 Subsecs. (b) to (d). Pub. L. 110–178, §4(b)(4)(B)–(D), substituted “The” for “For the purposes of sections 167 to 167j of this title, the”.
 
-2007—Subsec. (a). Pub. L. 110–161, §1004(d)(2)(D)(i), made amendment identical to that made by Pub. L. 110–178, §4(b)(4)(A), substituting “The” for “For the purposes of sections 167 to 167j of this title the”. See 2008 Amendment note above.
+2007—Subsec. (a). Pub. L. 110–161, §1004(d)(2)(D)(i), which made amendment identical to that made by Pub. L. 110–178, §4(b)(4)(A), was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
 
-Subsecs. (b) to (d). Pub. L. 110–161, §1004(d)(2)(D)(ii)–(iv), which directed substitution of “The” for “For the purposes of sections 167 to 167j of this title the”, could not be executed because “For the purposes of sections 167 to 167j of this title the” did not appear in text.
+Subsecs. (b) to (d). Pub. L. 110–161, §1004(d)(2)(D)(ii)–(iv), which directed substitution of “The” for “For the purposes of sections 167 to 167j of this title the”, but could not be executed because “For the purposes of sections 167 to 167j of this title the” did not appear in text, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
 
 2003—Subsec. (d)(1). Pub. L. 108–83 added par. (1) and struck out former par. (1) which read as follows: “Three parcels totaling approximately 41 acres, more or less, located in Culpeper County, Virginia, and identified as Culpeper County Tax Parcel Numbers 51–80B, 51–80C, and 51–80D, further described as real estate (consisting of 15.949 acres) conveyed to Federal Reserve Bank of Richmond by deed from Russell H. Inskeep and Jean H. Inskeep, his wife, dated October 1, 1964, and recorded October 7, 1964, in the Clerk's Office, Circuit Court of Culpeper County, Virginia, in Deed Book 177, page 431; and real estate (consisting of 20.498 acres and consisting of 4.502 acres) conveyed to Federal Reserve Bank of Richmond by deed from Russell H. Inskeep and Jean H. Inskeep, his wife, dated November 11, 1974, and recorded November 12, 1974, in the Clerk's Office, Circuit Court of Culpeper County, Virginia, in Deed Book 247, page 246.”
 
@@ -32,13 +34,13 @@ Subsecs. (b) to (d). Pub. L. 110–161, §1004(d)(2)(D)(ii)–(iv), which direct
 
 1970—Pub. L. 91–281 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### Effective Date of 2010 Amendment
+
+Repeal of section 1004 of Pub. L. 110–161 by Pub. L. 111–145 effective as if included in the enactment of Pub. L. 110–161 and provisions amended by section 1004 of Pub. L. 110–161 to be restored as if such section had not been enacted, and repeal to have no effect on the enactment or implementation of any provision of Pub. L. 110–178, see section 6(d) of Pub. L. 111–145, set out as a note under section 1901 of this title.
+
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–178 effective Oct. 1, 2009, see section 4(d) of Pub. L. 110–178, set out as an Effective Date of Repeal note under section 167 of this title.
-
-#### Effective Date of 2007 Amendment
-
-Amendment by Pub. L. 110–161 effective Oct. 1, 2009, see section 1004(d)(4) of title I of div. H of Pub. L. 110–161, set out as an Effective Date of Repeal note under section 167 of this title.
+Amendment by Pub. L. 110–178 effective Oct. 1, 2009, see section 4(d) of Pub. L. 110–178, set out as an Effective Date of Repeal note under former section 167 of this title.
 
 #### Effective Date of 1997 Amendment
 

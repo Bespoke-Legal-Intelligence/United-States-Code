@@ -52,5 +52,5 @@ Any underpayment of tax by a partner by reason of failing to comply with the req
 
 #### Prior Provisions
 
-A prior section 6241, added Pub. L. 97–354, §4(a), Oct. 19, 1982, 96 Stat. 1691, directed that tax treatment be determined at the corporate level, prior to repeal by Pub. L. 104–188, title I, §§1307(c)(1), 1317(a), Aug. 20, 1996, 110 Stat. 1781, 1787, applicable to taxable years beginning after Dec. 31, 1996.
+A prior section 6241, added Pub. L. 97–354, §4(a), Oct. 19, 1982, 96 Stat. 1691, directed that tax treatment be determined at the corporate level, prior to repeal by Pub.L. 104–188, title I, §§1307(c)(1), 1317(a), Aug. 20, 1996, 110 Stat. 1781, 1787, applicable to taxable years beginning after Dec. 31, 1996.
 

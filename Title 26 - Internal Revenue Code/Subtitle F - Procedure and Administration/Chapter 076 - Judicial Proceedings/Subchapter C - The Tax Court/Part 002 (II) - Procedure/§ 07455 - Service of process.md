@@ -6,7 +6,7 @@ The mailing by certified mail or registered mail of any pleading, decision, orde
 
 #### Amendments
 
-1958—Pub. L. 85–866 inserted “certified mail or” before “registered mail”.
+<b>1958</b>—Pub. L. 85–866 inserted “certified mail or” before “registered mail”.
 
 #### Effective Date of 1958 Amendment
 

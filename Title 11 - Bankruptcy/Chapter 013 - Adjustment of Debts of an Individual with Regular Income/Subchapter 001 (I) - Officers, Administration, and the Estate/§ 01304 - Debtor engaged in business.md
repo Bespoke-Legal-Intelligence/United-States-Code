@@ -4,9 +4,9 @@
 
 (b) Unless the court orders otherwise, a debtor engaged in business may operate the business of the debtor and, subject to any limitations on a trustee under sections 363(c) and 364 of this title and to such limitations or conditions as the court prescribes, shall have, exclusive of the trustee, the rights and powers of the trustee under such sections.
 
-(c) A debtor engaged in business shall perform the duties of the trustee specified in section 704(8) of this title.
+(c) A debtor engaged in business shall perform the duties of the trustee specified in section 704(a)(8) of this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2646; Pub. L. 98–353, title III, §§311(b)(2), 526, July 10, 1984, 98 Stat. 355, 389.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2646; Pub. L. 98–353, title III, §§311(b)(2), 526, July 10, 1984, 98 Stat. 355, 389; Pub. L. 111–327, §2(a)(40), Dec. 22, 2010, 124 Stat. 3562.)
 
 #### Historical and Revision Notes
 
@@ -25,6 +25,8 @@ Subsection (b) empowers a chapter 13 debtor engaged in business to operate his b
 Subsection (c) requires a chapter 13 debtor engaged in business to file with the court certain financial statements relating to the operation of the business.
 
 #### Amendments
+
+2010—Subsec. (c). Pub. L. 111–327 substituted “704(a)(8)” for “704(8)”.
 
 1984—Subsec. (b). Pub. L. 98–353, §526, struck out the comma after “of the debtor”.
 

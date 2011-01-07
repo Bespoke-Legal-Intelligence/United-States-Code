@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—MONETARY SYSTEM
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
-<i><sup>2</sup></i><i> Editorially supplied. Section added by Pub. L. 104–52 without corresponding amendment of chapter analysis.</i>
-
 
 ---
 

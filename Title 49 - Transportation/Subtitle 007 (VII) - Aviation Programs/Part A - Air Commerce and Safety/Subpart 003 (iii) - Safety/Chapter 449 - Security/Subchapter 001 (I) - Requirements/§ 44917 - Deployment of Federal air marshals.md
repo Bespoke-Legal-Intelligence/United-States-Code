@@ -56,7 +56,7 @@ Fees.—The Assistant Secretary shall establish reasonable fees and charges to p
 
 #### Amendments
 
-2004—Subsec. (d). Pub. L. 108–458 added subsec. (d).
+<b>2004</b>—Subsec. (d). Pub. L. 108–458 added subsec. (d).
 
 #### Transfer of Functions
 

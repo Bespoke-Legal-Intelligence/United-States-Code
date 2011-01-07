@@ -16,9 +16,9 @@ Minor verbal changes were made.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $100” in second par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $100” in second par.
 
-1970—Pub. L. 91–375 substituted “a duly authorized officer of the Postal Service” for “Postmaster General” in first par.
+<b>1970</b>—Pub. L. 91–375 substituted “a duly authorized officer of the Postal Service” for “Postmaster General” in first par.
 
 #### Effective Date of 1970 Amendment
 

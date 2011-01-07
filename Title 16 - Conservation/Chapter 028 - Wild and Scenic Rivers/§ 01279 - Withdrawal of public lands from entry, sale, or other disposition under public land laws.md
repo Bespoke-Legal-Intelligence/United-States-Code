@@ -8,7 +8,7 @@ All public lands within the authorized boundaries of any component of the nation
 
 All public lands which constitute the bed or bank, or are within one-quarter mile of the bank, of any river which is listed in section 1276(a) of this title are hereby withdrawn from entry, sale, or other disposition under the public land laws of the United States for the periods specified in section 1278(b) of this title. Notwithstanding the foregoing provisions of this subsection or any other provision of this chapter, subject only to valid existing rights, including valid Native selection rights under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], all public lands which constitute the bed or bank, or are within an area extending two miles from the bank of the river channel on both sides of the river segments referred to in paragraphs (77) through (88) of section 1276(a) of this title are hereby withdrawn from entry, sale, State selection or other disposition under the public land laws of the United States for the periods specified in section 1278(b) of this title.
 
-(Pub. L. 90–542, §8, Oct. 2, 1968, 82 Stat. 915; Pub. L. 96–487, title VI, §606(c), Dec. 2, 1980, 94 Stat. 2417; Pub. L. 99–590, title V, §506, Oct. 30, 1986, 100 Stat. 3336.)
+(Pub. L. 90–542, §8, Oct. 2, 1968, 82 Stat. 915; Pub. L. 96–487, title VI, §606(c), Dec. 2, 1980, 94 Stat.2417; Pub. L. 99–590, title V, §506, Oct. 30, 1986, 100 Stat. 3336.)
 
 #### References in Text
 
@@ -18,7 +18,7 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (b), is Pub. L. 
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–590 inserted provisions relating to construction of subsec. (a) with respect to authorities granted in section 1277(d) or 1285a of this title.
+<b>1986</b>—Subsec. (a). Pub. L. 99–590 inserted provisions relating to construction of subsec. (a) with respect to authorities granted in section 1277(d) or 1285a of this title.
 
-1980—Subsec. (b). Pub. L. 96–487 inserted provision withdrawing, subject to valid existing rights, all public lands which constitute the bed or bank, or are within an area extending two miles from the bank of the river channel on both sides of the river segments referred to in section 1276(a)(77) through (88) of this title, from entry, sale, State selection or other disposition under the public land laws for periods specified in section 1278(b) of this title.
+<b>1980</b>—Subsec. (b). Pub. L. 96–487 inserted provision withdrawing, subject to valid existing rights, all public lands which constitute the bed or bank, or are within an area extending two miles from the bank of the river channel on both sides of the river segments referred to in section 1276(a)(77) through (88) of this title, from entry, sale, State selection or other disposition under the public land laws for periods specified in section 1278(b) of this title.
 

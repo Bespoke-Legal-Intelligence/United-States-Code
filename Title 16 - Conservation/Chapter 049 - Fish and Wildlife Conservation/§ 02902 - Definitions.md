@@ -6,7 +6,7 @@ As used in this chapter—
 
 &emsp;(2) The term “conservation plan” means a plan developed by a State for the conservation of fish and wildlife which meets the requirements set forth in section 2903 of this title.
 
-&emsp;(3) The terms “conserve”, “conserving”, and “conservation” mean to use, and the use of, such methods and procedures which are necessary to ensure, to the maximum extent practicable, the well being and enhancement of fish and wildlife and their habitats for the ecological, educational, esthetic, cultural, recreational, and scientific enrichment of the public. Such methods and procedures may include, but are not limited to, any activity associated with scientific resources management, such as research, census, law enforcement, habitat acquisition, maintenance, development, information education, population manipulation, propagation, technical assistance to private landowners, live trapping, and transplantation.
+&emsp;(3) The terms “conserve”, “conserving”, and “conservation” mean to use, and the use of, such methods and procedures which are necessary to ensure, to the maximum extent practicable, the well being and enhancement of fish and wildlife and their habitats for the ecological, educational, esthetic, cultural, recreational, and scientific enrichment of the public. Such methods and procedures may include, but are not limited to, any activity associated with scientific resources management, such as research, census, law enforcement, habitat acquisition, maintenance, development, information, education, population manipulation, propagation, technical assistance to private landowners, live trapping, and transplantation.
 
 &emsp;(4) The term “designated State agency” means the commission, department, division, or other agency of a State which has primary legal authority for the conservation of fish and wildlife. If any State has placed such authority in more than one agency, such term means each such agency acting with respect to its assigned responsibilities but such agencies, for purposes of this chapter, shall submit a single conservation plan.
 
@@ -30,7 +30,7 @@ As used in this chapter—
 
 #### References in Text
 
-The Endangered Species Act of 1973, referred to in par. (6)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in par. (6)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884,which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 Section 1362(5) of this title, referred to in par. (6)(C), was redesignated section 1362(6), by Pub. L. 102–582, title IV, §401(a), Nov. 2, 1992, 106 Stat. 4909.
 

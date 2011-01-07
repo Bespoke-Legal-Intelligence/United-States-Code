@@ -32,7 +32,7 @@ Each institution participating under this part may use up to 10 percent of the f
 
 #### References in Text
 
-The National and Community Service Act of 1990, referred to in subsec. (a)(3), is Pub. L. 101–610, Nov. 16,1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (a)(3), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 #### Prior Provisions
 
@@ -40,17 +40,17 @@ Provisions similar to this section were contained in section 2756b of this title
 
 #### Amendments
 
-2008—Pub. L. 110–315 redesignated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2008</b>—Pub. L. 110–315 redesignated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1992—Pub. L. 102–325 amended section catchline generally, struck out subsecs. (a) and (b) which related to purpose and definitions, respectively, struck out subsec. (c) designation and heading before “Each institution participating”, substituted “up to 10 percent of the funds made available under section 1096(a) of title 20 and attributable to the amount of the institution's expenditures under this part” for “funds made available under the last sentence of section 1096(a) of title 20”, and inserted “, and programs assisted under the National and Community Service Act of 1990” after “nonprofit agencies”.
+<b>1992</b>—Pub. L. 102–325 amended section catchline generally, struck out subsecs. (a) and (b) which related to purpose and definitions, respectively, struck out subsec. (c) designation and heading before “Each institution participating”, substituted “up to 10 percent of the funds made available under section 1096(a) of title 20 and attributable to the amount of the institution's expenditures under this part” for “funds made available under the last sentence of section 1096(a) of title 20”, and inserted “, and programs assisted under the National and Community Service Act of 1990” after “nonprofit agencies”.
 
-1986—Pub. L. 99–498 amended section generally, substituting provisions relating to work-study for community service-learning on behalf of low-income individuals and families for provisions relating to job location and development programs and agreements with eligible institutions. See section 2756 of this title.
+<b>1986</b>—Pub. L. 99–498 amended section generally, substituting provisions relating to work-study for community service-learning on behalf of low-income individuals and families for provisions relating to job location and development programs and agreements with eligible institutions. See section 2756 of this title.
 
-1980—Subsec. (a). Pub. L. 96–374, §§436, 1391(a)(1), substituted “$25,000” for “$15,000” and “Secretary” for “Commissioner”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–374, §§436, 1391(a)(1), substituted “$25,000” for “$15,000” and “Secretary” for “Commissioner”.
 
 Subsec. (b)(7). Pub. L. 96–374, §1391(a)(1), substituted “Secretary” for “Commissioner”.
 
-1976—Subsec. (a). Pub. L. 94–482 substituted provisions authorizing agreements for job location and development programs by Commissioner, for provisions setting forth statement of purpose of community service learning programs.
+<b>1976</b>—Subsec. (a). Pub. L. 94–482 substituted provisions authorizing agreements for job location and development programs by Commissioner, for provisions setting forth statement of purpose of community service learning programs.
 
 Subsec. (b). Pub. L. 94–482 substituted provisions setting forth requirements for agreements for job location and development programs, for provisions authorizing appropriations for community service learning programs.
 

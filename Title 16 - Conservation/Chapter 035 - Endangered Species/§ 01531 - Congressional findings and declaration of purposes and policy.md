@@ -26,7 +26,7 @@ The Congress finds and declares that—
 
 &emsp;&emsp;(G) other international agreements; and
 
-&emsp;(5) encouraging the States and other interested parties, through Federal financial assistance and a system of incentives, to develop and maintain conservation programs which meet national and international standards is a key to meeting the Nation's internationalcommitments and to better safeguarding, for the benefit of all citizens, the Nation's heritage in fish, wildlife, and plants.
+&emsp;(5) encouraging the States and other interested parties, through Federal financial assistance and a system of incentives, to develop and maintain conservation programs which meet national and international standards is a key to meeting the Nation's international commitments and to better safeguarding, for the benefit of all citizens, the Nation's heritage in fish, wildlife, and plants.
 
 #### (b) Purposes
 
@@ -46,11 +46,11 @@ This chapter, referred to in subsecs. (b) and (c)(1), was in the original “thi
 
 #### Amendments
 
-1988—Subsec. (a)(4)(G). Pub. L. 100–478 substituted “; and” for period at end.
+<b>1988</b>—Subsec. (a)(4)(G). Pub. L. 100–478 substituted “; and” for period at end.
 
-1982—Subsec. (c). Pub. L. 97–304 designated existing provisions as par. (1) and added par. (2).
+<b>1982</b>—Subsec. (c). Pub. L. 97–304 designated existing provisions as par. (1) and added par. (2).
 
-1979—Subsec. (a)(5). Pub. L. 96–159 substituted “wildlife, and plants” for “wildlife”.
+<b>1979</b>—Subsec. (a)(5). Pub. L. 96–159 substituted “wildlife, and plants” for “wildlife”.
 
 #### Effective Date
 

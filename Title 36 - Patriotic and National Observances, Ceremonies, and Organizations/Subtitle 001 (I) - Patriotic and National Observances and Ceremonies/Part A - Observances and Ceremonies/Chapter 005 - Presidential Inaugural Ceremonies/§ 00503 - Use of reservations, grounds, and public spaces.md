@@ -28,7 +28,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-503(a)D36:724 (1st, 2d sentences).DAug. 6, 1956, ch. 974, §4, 70 Stat. 1049.
+503(a)
+
+36:724 (1st, 2d sentences).
+
+Aug. 6, 1956, ch. 974, §4, 70 Stat. 1049.
 
 &nbsp;
 

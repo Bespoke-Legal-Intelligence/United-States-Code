@@ -32,7 +32,7 @@ After each review pursuant to subsection (a) of this section, the Secretary shal
 
 #### (c) Visitors center
 
-The Secretary, acting through the Director of the Bureau of Land Management, is authorizedto establish, in cooperation with other public or private entities as the Secretary may deem appropriate, a visitors center designed to interpret the history and the geological, ecological, natural, cultural, and other resources of the conservation area and the biology of the raptors and their relationships to man.
+The Secretary, acting through the Director of the Bureau of Land Management, is authorized to establish, in cooperation with other public or private entities as the Secretary may deem appropriate, a visitors center designed to interpret the history and the geological, ecological, natural, cultural, and other resources of the conservation area and the biology of the raptors and their relationships to man.
 
 #### (d) Visitors use of area
 
@@ -62,7 +62,7 @@ In addition to the visitors center, the Secretary may provide for visitor use of
 
 #### (g) Cooperative agreements
 
-The Secretary is authorized to provide technical assistance to, and to enter into such cooperative agreements and contracts with, the State of Idaho and with local governments and private entities as the Secretary deems necessary or desirable to carry out the purposes and policies of this subchapter.
+The Secretary is authorized to provide technical assistance to, and to enter into such cooperative agreements and contracts with, the State of Idaho and with local governments andprivate entities as the Secretary deems necessary or desirable to carry out the purposes and policies of this subchapter.
 
 #### (h) Agricultural practices
 
@@ -78,11 +78,11 @@ Notwithstanding any provision of this subchapter, or regulations and management 
 
 Act of June 28, 1934, referred to in subsec. (f), is act June 28, 1934, ch. 865, 48 Stat. 1269, as amended, which is classified principally to subchapter I (§315 et seq.) of chapter 8A of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 315 of Title 43 and Tables.
 
-The Federal Power Act, referred to in subsec. (i), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended,which is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
+The Federal Power Act, referred to in subsec. (i), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 #### Amendments
 
-2009—Subsec. (a)(2). Pub. L. 111–11, §2301(c)(2)(A), substituted “conservation area is” for “Conservation Area is”.
+<b>2009</b>—Subsec. (a)(2). Pub. L. 111–11, §2301(c)(2)(A), substituted “conservation area is” for “Conservation Area is”.
 
 Subsec. (d). Pub. L. 111–11, §2301(c)(2)(B), substituted “visitors center” for “Visitors Center”.
 

@@ -8,8 +8,6 @@ Administrative jurisdiction over all Federal lands eliminated from the park, by 
 
 The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, ch. 517, 50 Stat. 522, as amended. Title III of the Act is classified generally to subchapter III (§1010 et seq.) of chapter 33 of Title 7, Agriculture. Title IV thereof, referred to in text, which was classified to sections 1014 to 1029 of title 7, was repealed by act June 25, 1948, ch. 645, §21, 62 Stat. 862, and by Pub. L. 87–128, title III, §341(a), Aug. 8, 1961, 75 Stat. 318. For complete classification of this Act to the Code, see section 1000 of Title 7 and Tables.
 
-The mining and minerals-leasing laws, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
-
 #### Change of Name
 
 Word “park” substituted in text for “monument” pursuant to Pub. L. 95–625, §611, which is classified to section 441e–1 of this title and which redesignated Badlands National Monument as Badlands National Park.

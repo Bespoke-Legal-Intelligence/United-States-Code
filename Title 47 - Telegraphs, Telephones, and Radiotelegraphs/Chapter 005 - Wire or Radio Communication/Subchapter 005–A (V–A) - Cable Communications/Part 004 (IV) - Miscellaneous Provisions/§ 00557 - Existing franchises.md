@@ -18,7 +18,7 @@ For “the effective date of this subchapter” and “such effective date”, r
 
 #### Amendments
 
-1996—Subsec. (a)(2). Pub. L. 104–104 substituted “section 153” for “section 153(v)”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–104 substituted “section 153” for “section 153(v)”.
 
 #### Effective Date
 

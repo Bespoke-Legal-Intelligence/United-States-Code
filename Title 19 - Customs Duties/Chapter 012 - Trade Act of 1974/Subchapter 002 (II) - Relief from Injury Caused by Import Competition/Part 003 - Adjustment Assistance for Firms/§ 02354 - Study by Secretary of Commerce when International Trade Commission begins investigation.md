@@ -20,7 +20,7 @@ Whenever the Commission makes an affirmative finding under section 2252(b) of th
 
 #### Renumbering of Section
 
-For termination of renumbering of section by section 1893 of Pub. L. 111–5, see Termination Date of 2009 Amendment note set out preceding section 2271 of this title.
+<i>For termination of renumbering of section by section 1893 of Pub. L. 111–5, see Termination Date of 2009 Amendment note set out preceding section 2271 of this title.</i>
 
 #### Prior Provisions
 
@@ -28,7 +28,7 @@ A prior section 261 of Pub. L. 93–618 was temporarily renumbered section 259 a
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–418 substituted “section 2252” for “section 2251”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–418 substituted “section 2252” for “section 2251”.
 
 Subsec. (b). Pub. L. 100–418 substituted “section 2252(f)” for “section 2251”.
 
@@ -40,5 +40,5 @@ Amendment by Pub. L. 100–418 effective Aug. 23, 1988, and applicable with resp
 
 #### Termination Date
 
-Except as otherwise provided, technical assistance and grants may not be provided under this part after Dec. 31, 2010, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and grants may not be provided under this section after Feb. 12, 2011, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

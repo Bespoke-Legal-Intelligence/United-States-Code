@@ -6,9 +6,9 @@ In all inter partes proceedings equitable principles of laches, estoppel, and ac
 
 #### Amendments
 
-1988—Pub. L. 100–667 struck out at end “The provisions of this section shall also govern proceedings heretofore begun in the Patent and Trademark Office and not finally determined.”
+<b>1988</b>—Pub. L. 100–667 struck out at end “The provisions of this section shall also govern proceedings heretofore begun in the Patent and Trademark Office and not finally determined.”
 
-1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
 #### Effective Date of 1988 Amendment
 

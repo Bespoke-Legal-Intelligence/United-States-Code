@@ -40,7 +40,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(B) ending on the first day of the 60-day election period described in paragraph (1),
 
-> &emsp;shall be disregarded for purposes of determining the 63-day periods referred to in section 300gg(c)(2) of this title, section 1181(c)(2) of title 29, and section 9801(c)(2) of title 26.
+> &emsp;shall be disregarded for purposes of determining the 63-day periods referred to in section 2701(c)(2),<sup>1</sup> section 1181(c)(2) of title 29, and section 9801(c)(2) of title 26.
 
 #### (4) Definitions
 
@@ -52,7 +52,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(i) has a TAA-related loss of coverage; and
 
-&emsp;&emsp;&emsp;(ii) did not elect continuation coverage under this part <sup>1</sup> during the TAA-related election period.
+&emsp;&emsp;&emsp;(ii) did not elect continuation coverage under this part <sup>2</sup> during the TAA-related election period.
 
 #### (B) TAA-eligible individual
 
@@ -64,7 +64,7 @@ For purposes of this subchapter—
 
 #### (C) TAA-related election period
 
-&emsp;&emsp;The term “TAA-related election period” means, with respect to a TAA-related loss of coverage, the 60-day election period under this part <sup>1</sup> which is a direct consequence of such loss.
+&emsp;&emsp;The term “TAA-related election period” means, with respect to a TAA-related loss of coverage, the 60-day election period under this part <sup>2</sup> which is a direct consequence of such loss.
 
 #### (D) TAA-related loss of coverage
 
@@ -72,11 +72,15 @@ For purposes of this subchapter—
 
 (July 1, 1944, ch. 373, title XXII, §2205, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 235; amended Pub. L. 99–514, title XVIII, §1895(d)(5)(C), Oct. 22, 1986, 100 Stat. 2939; Pub. L. 107–210, div. A, title II, §203(e)(2), Aug. 6, 2002, 116 Stat. 970.)
 
+#### References in Text
+
+Section 2701, referred to in subsec. (b)(3), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
+
 #### Amendments
 
-2002—Pub. L. 107–210 designated existing provisions as subsec. (a), inserted subsec. heading, and added subsec. (b).
+<b>2002</b>—Pub. L. 107–210 designated existing provisions as subsec. (a), inserted subsec. heading, and added subsec. (b).
 
-1986—Par. (2). Pub. L. 99–514 inserted “of continuation coverage” after “any election” and inserted at end “If there is a choice among types of coverage under the plan, each qualified beneficiary is entitled to make a separate selection among such types of coverage.”.
+<b>1986</b>—Par. (2). Pub. L. 99–514 inserted “of continuation coverage” after “any election” and inserted at end “If there is a choice among types of coverage under the plan, each qualified beneficiary is entitled to make a separate selection among such types of coverage.”.
 
 #### Effective Date of 2002 Amendment
 
@@ -92,7 +96,9 @@ Nothing in amendment by Pub. L. 107–210, other than provisions relating to COB
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
-<i><sup>1</sup></i><i> So in original. This subchapter is not divided into parts.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. This subchapter is not divided into parts.</i>
 

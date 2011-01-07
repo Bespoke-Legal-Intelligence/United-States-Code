@@ -140,7 +140,7 @@ Use.—The database shall be suitable for analyses carried out by the Federal Go
 
 Contents.—The database shall include—
 
-&emsp;&emsp;(A) information on the volumes and patterns of movement of goods, including local, interregional, and international movement, by all modes of transportation and intermodal combinations and by relevant classification;
+&emsp;&emsp;(A) information on the volumes and patterns of movement of goods, including local,interregional, and international movement, by all modes of transportation and intermodal combinations and by relevant classification;
 
 &emsp;&emsp;(B) information on the volumes and patterns of movement of people, including local, interregional, and international movements, by all modes of transportation (including bicycle and pedestrian modes) and intermodal combinations and by relevant classification;
 
@@ -312,9 +312,9 @@ The Federal Advisory Committee Act, referred to in subsec. (<i>o</i>)(5), is Pub
 
 #### Amendments
 
-2005—Pub. L. 109–59 reenacted section catchline without change and amended text generally, adding subsecs. (d), (h), (m), and (<i>o</i>) and substituting subsecs. (a) to (c), (e) to (g), (i) to (<i>l</i>), and (n) for former text consisting of subsecs. (a) to (k) which contained somewhat similar provisions.
+<b>2005</b>—Pub. L. 109–59 reenacted section catchline without change and amended text generally, adding subsecs. (d), (h), (m), and (<i>o</i>) and substituting subsecs. (a) to (c), (e) to (g), (i) to (<i>l</i>), and (n) for former text consisting of subsecs. (a) to (k) which contained somewhat similar provisions.
 
-2004—Subsec. (a). Pub. L. 108–426, §3(a), substituted “in the Research and Innovative Technology Administration” for “in the Department of Transportation”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–426, §3(a), substituted “in the Research and Innovative Technology Administration” for “in the Department of Transportation”.
 
 Subsec. (b)(1). Pub. L. 108–426, §3(b)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The Bureau shall be headed by a Director who shall be appointed by the President, by and with the advice and consent of the Senate.”
 
@@ -328,7 +328,7 @@ Reporting.—The Director shall report directly to the Secretary.
 
 Term.—The term of the Director shall be 4 years. The Director may continue to serve after the expiration of the term until a successor is appointed and confirmed.”
 
-1998—Subsec. (b)(4). Pub. L. 105–178, §5109(a)(1), struck out after first sentence “The term of the first Director to be appointed shall begin on the 180th day after December 18, 1991.”
+<b>1998</b>—Subsec. (b)(4). Pub. L. 105–178, §5109(a)(1), struck out after first sentence “The term of the first Director to be appointed shall begin on the 180th day after December 18, 1991.”
 
 Subsec. (c)(1)(L). Pub. L. 105–178, §5109(a)(2)(A), added subpar. (L).
 
@@ -348,7 +348,7 @@ Subsec. (g). Pub. L. 105–178, §5109(a)(4), (5), added subsec. (g) and struck 
 
 Subsec. (h). Pub. L. 105–178, §5109(a)(3), redesignated subsec. (d) as (h).
 
-Subsec. (i). Pub. L. 105–178, §5109(a)(6), added subsec. (i) and struck out heading and text of former subsec. (i). Text read as follows: “Information compiled by the Bureau shall not be disclosed publicly in a manner thatwould reveal the personal identity of any individual, consistent with the Privacy Act of 1974 (5 U.S.C. 552a), or to reveal trade secrets or allow commercial or financial information provided by any person to be identified with such person.”
+Subsec. (i). Pub. L. 105–178, §5109(a)(6), added subsec. (i) and struck out heading and text of former subsec. (i). Text read as follows: “Information compiled by the Bureau shall not be disclosed publicly in a manner that would reveal the personal identity of any individual, consistent with the Privacy Act of 1974 (5 U.S.C. 552a), or to reveal trade secrets or allow commercial or financial information provided by any person to be identified with such person.”
 
 Pub. L. 105–178, §5109(a)(3), redesignated subsec. (e) as (i).
 
@@ -358,9 +358,9 @@ Pub. L. 105–178, §5109(a)(3), redesignated subsec. (f) as (j).
 
 Subsec. (k). Pub. L. 105–178, §5109(a)(8), added subsec. (k).
 
-1997—Pub. L. 105–130 made technical amendment to directory language of Pub. L. 102–240, §6006(a), which enacted this section.
+<b>1997</b>—Pub. L. 105–130 made technical amendment to directory language of Pub. L. 102–240, §6006(a), which enacted this section.
 
-1996—Subsec. (b)(4). Pub. L. 104–324 inserted at end “The Director may continue to serve after the expiration of the term until a successor is appointed and confirmed.”
+<b>1996</b>—Subsec. (b)(4). Pub. L. 104–324 inserted at end “The Director may continue to serve after the expiration of the term until a successor is appointed and confirmed.”
 
 Pub. L. 104–287 substituted “December 18, 1991” for “the date of the enactment of this section”.
 

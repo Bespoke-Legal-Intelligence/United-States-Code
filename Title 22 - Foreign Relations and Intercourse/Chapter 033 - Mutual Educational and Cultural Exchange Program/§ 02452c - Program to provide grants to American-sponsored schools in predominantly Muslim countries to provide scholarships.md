@@ -54,7 +54,7 @@ Section was enacted as part of the Intelligence Reform and Terrorism Prevention 
 
 #### Amendments
 
-2007—Pub. L. 110–53, §2014(b)(1)(A), struck out “Pilot” before “Program” in section catchline.
+<b>2007</b>—Pub. L. 110–53, §2014(b)(1)(A), struck out “Pilot” before “Program” in section catchline.
 
 Subsec. (c). Pub. L. 110–53, §2014(b)(1)(B), struck out “Pilot” before “Program” in heading and “pilot” before “program” in text.
 

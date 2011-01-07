@@ -2,7 +2,7 @@
 
 #### (a) Technical requirements
 
-In connection with the standards and guidelines contained in Natural Resources Conservation Service field office technical guides applicable to the development and use of conservation measures and management practices as part of a conservation system, the Secretary shall ensurethat the standards and guidelines permit a person to use a conservation system that—
+In connection with the standards and guidelines contained in Natural Resources Conservation Service field office technical guides applicable to the development and use of conservation measures and management practices as part of a conservation system, the Secretary shall ensure that the standards and guidelines permit a person to use a conservation system that—
 
 &emsp;(1) is technically and economically feasible;
 
@@ -18,7 +18,7 @@ For the purpose of determining whether there is a substantial reduction in soil 
 
 #### (c) Residue measurement
 
-#### (1) Responsibilities of Secretary
+#### (1) Responsibilities of the Secretary
 
 &emsp;For the purpose of measuring the level of residue on a field, the Secretary shall—
 
@@ -46,7 +46,7 @@ For the purpose of determining whether there is a substantial reduction in soil 
 
 #### (3) Revisions and modifications
 
-&emsp;The Secretary shall permit a person who makes a certification under paragraph (1) with respect to a conservation plan to revise the conservation plan in any manner, if the same level of conservation treatment provided for by the conservation system under the person's conservation plan is maintained. The Secretary may not revise the person's conservation plan without the concurrence of the person.
+&emsp;The Secretary shall permit a person who makes a certification under paragraph (1) with respect to a conservation plan to revise the conservation plan in any manner, if the samelevel of conservation treatment provided for by the conservation system under the person's conservation plan is maintained. The Secretary may not revise the person's conservation plan without the concurrence of the person.
 
 #### (e) Technical assistance
 

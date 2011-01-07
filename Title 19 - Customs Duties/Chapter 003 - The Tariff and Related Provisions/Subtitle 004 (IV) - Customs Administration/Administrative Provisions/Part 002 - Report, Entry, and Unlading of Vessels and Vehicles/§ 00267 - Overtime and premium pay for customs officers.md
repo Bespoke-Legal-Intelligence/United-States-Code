@@ -90,9 +90,9 @@ Prior to the general revision of section 5 of act Feb. 13, 1911, by section 1381
 
 #### Amendments
 
-1993—Pub. L. 103–66 amended section generally, substituting provisions relating to overtime and premium pay for customs officers for provisions relating to fixing of working hours and overtime compensation by Secretary of the Treasury.
+<b>1993</b>—Pub. L. 103–66 amended section generally, substituting provisions relating to overtime and premium pay for customs officers for provisions relating to fixing of working hours and overtime compensation by Secretary of the Treasury.
 
-1970—Pub. L. 91–271 substituted references to the appropriate customs officer for references to the collector of customs wherever appearing, and struck out reference to inspectors, storekeepers, weighers, and other customs officers and employees.
+<b>1970</b>—Pub. L. 91–271 substituted references to the appropriate customs officer for references to the collector of customs wherever appearing, and struck out reference to inspectors, storekeepers, weighers, and other customs officers and employees.
 
 #### Effective Date of 1993 Amendment
 

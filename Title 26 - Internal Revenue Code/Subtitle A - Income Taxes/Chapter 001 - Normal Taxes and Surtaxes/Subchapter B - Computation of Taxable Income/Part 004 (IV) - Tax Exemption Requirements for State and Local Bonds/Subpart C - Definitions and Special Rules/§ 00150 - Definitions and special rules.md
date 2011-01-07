@@ -130,7 +130,7 @@ For purposes of this part and section 103—
 
 &emsp;&emsp;(A) is a corporation not for profit established and operated exclusively for the purpose of acquiring student loan notes incurred under the Higher Education Act of 1965, and
 
-&emsp;&emsp;(B) is organized at the request of the State or 1 or more political subdivisions thereof or is requested to exercise such power by 1 or more political subdivisions and required by its corporate charter and bylaws, or required by State law, to devote any income (after payment of expenses, debt service, and thecreation of reserves for the same) to the purchase of additional student loan notes or to pay over any income to the United States.
+&emsp;&emsp;(B) is organized at the request of the State or 1 or more political subdivisions thereof or is requested to exercise such power by 1 or more political subdivisions and required by its corporate charter and bylaws, or required by State law, to devote any income (after payment of expenses, debt service, and the creation of reserves for the same) to the purchase of additional student loan notes or to pay over any income to the United States.
 
 #### (3) Election to cease status as qualified scholarship funding corporation
 
@@ -194,7 +194,7 @@ For purposes of this part and section 103—
 
 &emsp;&emsp;&emsp;(i) the last day of the last taxable year for which more than 50 percent of the gross income of such transferee corporation is derived from, or more than 50 percent of the assets (by value) of such transferee corporation consists of, student loan notes incurred under the Higher Education Act of 1965; or
 
-&emsp;&emsp;&emsp;(ii) the last day of the taxable year of the issuer during which occurs the datewhich is 10 years after the date on which the election under this paragraph is made.
+&emsp;&emsp;&emsp;(ii) the last day of the taxable year of the issuer during which occurs the date which is 10 years after the date on which the election under this paragraph is made.
 
 #### (G) Election
 
@@ -230,13 +230,13 @@ For purposes of this part and section 103—
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (d)(2)(A), (3)(F)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (d)(2)(A), (3)(F)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
 
-1996—Subsec. (d)(3). Pub. L. 104–188 added par. (3).
+<b>1996</b>—Subsec. (d)(3). Pub. L. 104–188 added par. (3).
 
-1988—Subsec. (b)(1)(A). Pub. L. 100–647, §1013(a)(23)(C), inserted “tax-exempt” before “qualified mortgage bond”.
+<b>1988</b>—Subsec. (b)(1)(A). Pub. L. 100–647, §1013(a)(23)(C), inserted “tax-exempt” before “qualified mortgage bond”.
 
 Pub. L. 100–647, §1013(a)(30), inserted before period at end “and before the date such residence is again the principal residence of at least 1 of the mortgagors who received such financing”.
 

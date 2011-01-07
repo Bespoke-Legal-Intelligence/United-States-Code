@@ -26,7 +26,7 @@ Part B of this subchapter, referred to in par. (1), is classified to section 620
 
 #### Amendments
 
-2006—Par. (6). Pub. L. 109–288 added par. (6).
+<b>2006</b>—Par. (6). Pub. L. 109–288 added par. (6).
 
 #### Effective Date of 2006 Amendment
 

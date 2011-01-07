@@ -24,7 +24,7 @@ Membership of the Task Force shall consist of—
 
 #### (c) Ex officio members
 
-The chairpersons designated under subsection (d) of this section shall invite representatives ofthe Great Lakes Commission, the Lake Champlain Basin Program, the Chesapeake Bay Program, the San Francisco Bay-Delta Estuary Program, and State agencies and other governmental entities to participate as ex officio members of the Task Force.
+The chairpersons designated under subsection (d) of this section shall invite representatives of the Great Lakes Commission, the Lake Champlain Basin Program, the Chesapeake Bay Program, the San Francisco Bay-Delta Estuary Program, and State agencies and other governmental entities to participate as ex officio members of the Task Force.
 
 #### (d) Chairpersons
 
@@ -46,7 +46,7 @@ This subchapter, referred to in subsecs. (d) to (f), was in the original “this
 
 #### Amendments
 
-1996—Pub. L. 104–332, §2(h)(1), made technical amendment to Pub. L. 101–646, §1201, which enacted this section.
+<b>1996</b>—Pub. L. 104–332, §2(h)(1), made technical amendment to Pub. L. 101–646, §1201, which enacted this section.
 
 Subsec. (b)(5) to (7). Pub. L. 104–332, §2(e)(2)(A), struck out “and” at end of par. (5), added par. (6), and redesignated former par. (6) as (7).
 

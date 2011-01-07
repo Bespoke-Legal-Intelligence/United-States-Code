@@ -14,7 +14,7 @@ The following products shall be subject to the importer declaration program esta
 
 &emsp;&emsp;(C) Other coniferous wood (including strips and friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rabbeted, chamfered, v-jointed, beaded, molded, rounded, or the like) along any of its edges or faces (other than wood moldings and wood dowel rods) whether or not planed, sanded, or finger-jointed.
 
-&emsp;&emsp;(D) Coniferous wood flooring (including strips and friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rabbeted, chamfered, v-jointed, beaded, molded, rounded, or the like) along any of its edges or faces, whether or not planed, sanded, or finger-jointed.
+&emsp;&emsp;(D) Coniferous wood flooring (including strips and friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rabbeted, chamfered, v-jointed, beaded, molded, rounded, or the like) alongany of its edges or faces, whether or not planed, sanded, or finger-jointed.
 
 &emsp;&emsp;(E) Coniferous drilled and notched lumber and angle cut lumber.
 
@@ -90,7 +90,7 @@ The following softwood lumber products shall not be subject to the importer decl
 
 #### (4) Fence pickets
 
-&emsp;Fence pickets requiring no further processing and properly classified under subheading 4421.90.70 of the HTS, 1 inch or less in actual thickness, up to 8 inches wide, and 6 feet or less in length, and having finials or decorative cuttings that clearly identify them as fence pickets. In the case of dog-eared fence pickets, the corners of the boards shall be cut off so as to remove pieces of wood in the shape of isosceles right angle triangles with sides measuring 3/4 of an inch or more.
+&emsp;Fence pickets requiring no further processing and properly classified under subheading 4421.90.70 of the HTS, 1 inch or less in actual thickness, up to 8 inches wide, and 6 feet or less in length, and having finials or decorative cuttings that clearly identify them as fence pickets. In the case of dog-eared fence pickets, the corners of the boards shall be cut off so as to remove pieces of wood in the shape of isosceles right angle triangles with sides measuring ¾ of an inch or more.
 
 #### (5) United States-origin lumber
 
@@ -116,7 +116,7 @@ The following softwood lumber products shall not be subject to the importer decl
 
 &emsp;&emsp;&emsp;&emsp;(I) all necessary internal and external doors and windows, nails, screws, glue, subfloor, sheathing, beams, posts, and connectors; and
 
-&emsp;&emsp;&emsp;&emsp;(II) if included in the purchase contract, the decking, trim, drywall, and roof shingles specified in the plan, design, or blueprint.
+&emsp;&emsp;&emsp;&emsp;(II) if included in the purchase contract, the decking, trim, drywall, androof shingles specified in the plan, design, or blueprint.
 
 &emsp;&emsp;&emsp;(iii) Prior to importation, the package or kit is sold to a United States retailer that sells complete home packages or kits pursuant to a valid purchase contract referencing the particular home design, plan, or blueprint, and the contract is signed by a customer not affiliated with the importer.
 

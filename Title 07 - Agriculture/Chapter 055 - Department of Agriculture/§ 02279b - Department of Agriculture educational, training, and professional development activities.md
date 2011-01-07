@@ -126,11 +126,11 @@ In order to carry out the activities of the Graduate School, the Graduate School
 
 &emsp;(3) have sole control of any such property; and
 
-&emsp;(4) dispose of real and personal property without regard to the Federal Property and Administrative Services Act of 1949.<sup>1</sup>
+&emsp;(4) dispose of real and personal property without regard to chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 #### (i) Contract authority
 
-The Graduate School may enter into contracts without regard to the Federal Property and Administrative Services Act of 1949 <sup>1</sup> or any other law that prescribes procedures for the procurement of property or services by an executive agency.
+The Graduate School may enter into contracts without regard to the chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 or any other law that prescribes procedures for the procurement of property or services by an executive agency.
 
 #### (j) Use of Department facilities and resources
 
@@ -144,11 +144,11 @@ The financial records of the Graduate School (including records relating to cont
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (g)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-The Federal Property and Administrative Services Act of 1949, referred to in subsecs. (h)(4) and (i), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+The Federal Advisory Committee Act, referred to in subsec. (g)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
+
+In subsecs. (h)(4) and (i), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
@@ -162,7 +162,7 @@ Subsec. (b). Pub. L. 110–246, §14213(a)(2), added subsec. (b) and struck out 
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -173,6 +173,4 @@ Pub. L. 107–171, title X, §10705(c), May 13, 2002, 116 Stat. 519, provided th
 Pub. L. 110–234, title XIV, §14213(b), May 22, 2008, 122 Stat. 1466, and Pub. L. 110–246, §4(a), title XIV, §14213(b), June 18, 2008, 122 Stat. 1664, 2228, provided that: “Notwithstanding the amendments made by subsection (a) \[amending this section\], effective on the date of the enactment of this Act \[June 18, 2008\], the Graduate School of the Department of Agriculture shall be subject to Federal procurement laws and regulations in the same manner and subject to the same requirements as a private entity providing services to the Federal Government.”
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

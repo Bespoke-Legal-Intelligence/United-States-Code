@@ -28,7 +28,7 @@ Elements.—The Secretary shall ensure that the Department information security 
 
 &emsp;(7) A process for planning, developing, implementing, evaluating, and documenting remedial actions to address deficiencies in information security policies, procedures, and practices.
 
-&emsp;(8) Procedures for detecting, immediately reporting, and responding to security incidents, including mitigating risks before substantial damage is done as well as notifying and consulting with the US-Computer EmergencyReadiness Team of the Department of Homeland Security, law enforcement agencies, the Inspector General of the Department, and other offices as appropriate.
+&emsp;(8) Procedures for detecting, immediately reporting, and responding to security incidents, including mitigating risks before substantial damage is done as well as notifying and consulting with the US-Computer Emergency Readiness Team of the Department of Homeland Security, law enforcement agencies, the Inspector General of the Department, and other offices as appropriate.
 
 &emsp;(9) Plans and procedures to ensure continuity of operations for Department systems.
 

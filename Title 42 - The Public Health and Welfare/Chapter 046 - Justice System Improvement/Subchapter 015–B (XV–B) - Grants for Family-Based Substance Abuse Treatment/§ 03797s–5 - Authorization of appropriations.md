@@ -6,7 +6,7 @@ There are authorized to be appropriated to carry out this subchapter $10,000,000
 
 #### (b) Use of amounts
 
-Of the amount made available to carry out this subchapter in any fiscal year, not less than5 percent shall be used for grants to Indian Tribes.
+Of the amount made available to carry out this subchapter in any fiscal year, not less than 5 percent shall be used for grants to Indian Tribes.
 
 (Pub. L. 90–351, title I, §2926, as added Pub. L. 110–199, title I, §113, Apr. 9, 2008, 122 Stat. 676.)
 

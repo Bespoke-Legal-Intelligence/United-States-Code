@@ -26,7 +26,7 @@ For the purposes of this chapter—
 
 &emsp;(12) the term “national senior volunteer” means a volunteer in the National Senior Service Corps;
 
-&emsp;(13) the term “National Senior Service Corps” means the programs established under parts A, B, C, and E of subchapter II of this chapter;
+&emsp;(13) the term “National Senior Service Corps” means the programs established underparts A, B, C, and E of subchapter II of this chapter;
 
 &emsp;(14) the term “Retired and Senior Volunteer Program” means the program established under part A of subchapter II of this chapter;
 
@@ -46,13 +46,15 @@ For the purposes of this chapter—
 
 #### References in Text
 
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+
 Section 625 of the Economic Opportunity Act of 1964, as amended by Public Law 92–424 (42 U.S.C. 2971d), referred to in par. (4), was repealed by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Section 9924 of this title provides that any reference in any provision of law to the poverty line set forth in section 625 of the Economic Opportunity Act of 1964 is to be construed to be a reference to the poverty line defined in section 9902 of this title.
 
 The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Amendments
 
-2009—Par. (2). Pub. L. 111–13, §2154(1), inserted “, the Commonwealth of the Northern Mariana Islands,” after “American Samoa”.
+<b>2009</b>—Par. (2). Pub. L. 111–13, §2154(1), inserted “, the Commonwealth of the Northern Mariana Islands,” after “American Samoa”.
 
 Pars. (7) to (12). Pub. L. 111–13, §2154(2), (5), redesignated pars. (8) to (13) as (7) to (12), respectively, and struck out former par. (7), which read as follows: “the term ‘boarder baby’ means an infant who is abandoned, as defined in section 5117aa–21 of this title;”.
 
@@ -62,11 +64,11 @@ Pub. L. 111–13, §2154(3), (4), substituted “Service Corps” for “Volunte
 
 Pars. (15) to (20). Pub. L. 111–13, §2154(5)–(8), added par. (20) and redesignated former pars. (16) to (20) as (15) to (19), respectively. Former par. (15) redesignated (14).
 
-2003—Par. (7). Pub. L. 108–36 substituted “infant who is abandoned, as defined in section 301” for “infant described in section 103”.
+<b>2003</b>—Par. (7). Pub. L. 108–36 substituted “infant who is abandoned, as defined in section 301” for “infant described in section 103”.
 
-1998—Par. (11). Pub. L. 105–220 substituted “section 705(20)(B) of title 29” for “section 706(8)(B) of title 29”.
+<b>1998</b>—Par. (11). Pub. L. 105–220 substituted “section 705(20)(B) of title 29” for “section 706(8)(B) of title 29”.
 
-1993—Par. (1). Pub. L. 103–82, §404, added par. (1) and struck out former par. (1) which read as follows: “the term ‘Director’ means the Director of the ACTION Agency;”.
+<b>1993</b>—Par. (1). Pub. L. 103–82, §404, added par. (1) and struck out former par. (1) which read as follows: “the term ‘Director’ means the Director of the ACTION Agency;”.
 
 Pars. (8) to (11). Pub. L. 103–82, §401, added pars. (8) to (11).
 
@@ -76,11 +78,11 @@ Pub. L. 103–82, §401, added par. (12).
 
 Pars. (13) to (20). Pub. L. 103–82, §401, added pars. (13) to (20).
 
-1989—Par. (6). Pub. L. 101–204, §403, added par. (6).
+<b>1989</b>—Par. (6). Pub. L. 101–204, §403, added par. (6).
 
 Par. (7). Pub. L. 101–204, §502(b), added par. (7).
 
-1986—Par. (1). Pub. L. 99–551, §10(h), substituted “Agency” for “agency”.
+<b>1986</b>—Par. (1). Pub. L. 99–551, §10(h), substituted “Agency” for “agency”.
 
 Par. (5). Pub. L. 99–551, §6(b), added par. (5).
 

@@ -428,19 +428,19 @@ Section 1106(b)(2) of this title shall not apply to any merger or transfer descr
 
 &emsp;&emsp;The term “registered representative” of another entity means a person described in section 3(a)(18) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(18)) (substituting the entity for the broker or dealer referred to in such section) or a person described in section 202(a)(17) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)(17)) (substituting the entity for the investment adviser referred to in such section).
 
-(Pub. L. 93–406, title I, §408, Sept. 2, 1974, 88 Stat. 883; Pub. L. 96–364, title III, §308, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 97–354, §5(a)(43), Oct. 19, 1982, 96 Stat. 1697; Pub. L. 99–514, title XI, §1114(b)(15)(B), title XVIII, §1898(i)(1), Oct. 22, 1986, 100 Stat. 2452, 2957; Pub. L. 101–239, title VII, §§7881(<i>l</i>)(5), 7891, 7894(e)(4)(A), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(b), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(C), Dec. 8,1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1704(n)(2), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title XV, §1506(b)(2), Aug. 5, 1997, 111 Stat. 1066; Pub. L. 106–170, title V, §535(a)(2)(C), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–16, title VI, §612(b), June 7, 2001, 115 Stat. 100; Pub. L. 108–218, title II, §204(b)(3), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(a)(3), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §107(a)(11), title VI, §§601(a)(1), (2), 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1), 612(a), Aug. 17, 2006, 120 Stat. 819, 952, 953, 967–969, 971, 972, 975; Pub. L. 110–458, title I, §106(a)(1), (b)(1), Dec. 23, 2008, 122 Stat. 5106.)
+(Pub. L. 93–406, title I, §408, Sept. 2, 1974, 88 Stat. 883; Pub. L. 96–364, title III, §308, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 97–354, §5(a)(43), Oct. 19, 1982, 96 Stat. 1697; Pub. L. 99–514, title XI, §1114(b)(15)(B), title XVIII, §1898(i)(1), Oct. 22, 1986, 100 Stat. 2452, 2957; Pub. L. 101–239, title VII, §§7881(<i>l</i>)(5), 7891, 7894(e)(4)(A), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(b), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(C), Dec. 8,1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1704(n)(2), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title XV, §1506(b)(2), Aug. 5, 1997, 111 Stat. 1066; Pub. L. 106–170, title V, §535(a)(2)(C), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–16, title VI, §612(b), June 7, 2001, 115 Stat. 100; Pub. L. 108–218, title II, §204(b)(3), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(a)(3), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §108(a)(11), formerly §107(a)(11), title VI, §§601(a)(1), (2), 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1), 612(a), Aug. 17, 2006, 120 Stat. 819, 952, 953, 967–969, 971, 972, 975, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §106(a)(1), (b)(1), Dec. 23, 2008, 122 Stat. 5106.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-The Investment Advisers Act of 1940, referred to in subsec. (g)(11)(A)(i), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, as amended, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
+The Investment Advisers Act of 1940, referred to in subsec. (g)(11)(A)(i), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (g)(11)(A)(iv), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (g)(11)(A)(iv), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 #### Amendments
 
-2008—Subsec. (b)(18)(C). Pub. L. 110–458, §106(b)(1), struck out “or less” after “deviate by more”.
+<b>2008</b>—Subsec. (b)(18)(C). Pub. L. 110–458, §106(b)(1), struck out “or less” after “deviate by more”.
 
 Subsec. (g)(3)(D)(ii). Pub. L. 110–458, §106(a)(1)(A), substituted “subsection (b)(14)(A)(ii)” for “subsection (b)(14)(B)(ii)”.
 
@@ -448,7 +448,7 @@ Subsec. (g)(6)(A)(i). Pub. L. 110–458, §106(a)(1)(B), substituted “fiduciar
 
 Subsec. (g)(11)(A). Pub. L. 110–458, §106(a)(1)(C), substituted “a participant” for “the participant” in introductory and concluding provisions and “subsection (b)(4)” for “section 1108(b)(4) of this title” in cl. (ii).
 
-2006—Subsec. (b)(13). Pub. L. 109–280, §107(a)(11), substituted “August 17, 2006” for “October 22, 2004”.
+<b>2006</b>—Subsec. (b)(13). Pub. L. 109–280, §108(a)(11), formerly §107(a)(11), as renumbered by Pub. L. 111–192, substituted “August 17, 2006” for “October 22, 2004”.
 
 Subsec. (b)(14). Pub. L. 109–280, §601(a)(1), added par. (14).
 
@@ -458,23 +458,23 @@ Subsec. (b)(20). Pub. L. 109–280, §612(a), added par. (20).
 
 Subsec. (g). Pub. L. 109–280, §601(a)(2), added subsec. (g).
 
-2004—Subsec. (b)(13). Pub. L. 108–357 substituted “October 22, 2004” for “April 10, 2004”.
+<b>2004</b>—Subsec. (b)(13). Pub. L. 108–357 substituted “October 22, 2004” for “April 10, 2004”.
 
 Pub. L. 108–218 substituted “January 1, 2014” for “January 1, 2006” and “April 10, 2004” for “December 17, 1999”.
 
-2001—Subsec. (d)(2)(C). Pub. L. 107–16 added subpar. (C).
+<b>2001</b>—Subsec. (d)(2)(C). Pub. L. 107–16 added subpar. (C).
 
-1999—Subsec. (b)(13). Pub. L. 106–170 substituted “made before January 1, 2006” for “in a taxable year beginning before January 1, 2001” and “December 17, 1999” for “January 1, 1995”.
+<b>1999</b>—Subsec. (b)(13). Pub. L. 106–170 substituted “made before January 1, 2006” for “in a taxable year beginning before January 1, 2001” and “December 17, 1999” for “January 1, 1995”.
 
-1997—Subsec. (d). Pub. L. 105–34 amended subsec. (d) generally, substituting present provisions for provisions exempting transactions involving an owner-employee, a member of the family, or a corporation controlled by any such owner-employee through the ownership, directly or indirectly, of 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock of the corporation.
+<b>1997</b>—Subsec. (d). Pub. L. 105–34 amended subsec. (d) generally, substituting present provisions for provisions exempting transactions involving an owner-employee, a member of the family, or a corporation controlled by any such owner-employee through the ownership, directly or indirectly, of 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock of the corporation.
 
-1996—Subsec. (b)(1). Pub. L. 104–188 inserted at end “A loan made by a plan shall not fail to meet the requirements of the preceding sentence by reason of a loan repayment suspension described under section 414(u)(4) of title 26.”
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–188 inserted at end “A loan made by a plan shall not fail to meet the requirements of the preceding sentence by reason of a loan repayment suspension described under section 414(u)(4) of title 26.”
 
-1994—Subsec. (b)(13). Pub. L. 103–465 substituted “2001” for “1996” and “1995” for “1991”.
+<b>1994</b>—Subsec. (b)(13). Pub. L. 103–465 substituted “2001” for “1996” and “1995” for “1991”.
 
-1990—Subsec. (b)(13). Pub. L. 101–508 added par. (13).
+<b>1990</b>—Subsec. (b)(13). Pub. L. 101–508 added par. (13).
 
-1989—Subsec. (b)(12). Pub. L. 101–239, §7881(<i>l</i>)(5), added par. (12).
+<b>1989</b>—Subsec. (b)(12). Pub. L. 101–239, §7881(<i>l</i>)(5), added par. (12).
 
 Subsec. (d). Pub. L. 101–239, §7891(a)(1), in last sentence, substituted “section 401(c)(3) of the Internal Revenue Code of 1986” for “section 401(c)(3) of the Internal Revenue Code of 1954”, which for purposes of codification was translated as “section 401(c)(3) of title 26” thus requiring no change in text.
 
@@ -482,13 +482,13 @@ Pub. L. 101–239, §7891(a)(2), in last sentence, substituted “section 408 of
 
 Pub. L. 101–239, §7894(e)(4)(A), in last sentence, substituted “individual retirement account or individual retirement annuity described in section 408 of title 26 or a retirement bond described in section 409 of title 26 (as effective for obligations issued before January 1, 1984)” for “individual retirement account, individual retirement annuity, or an individual retirement bond (as defined in section 408 or 409 of title 26)” and “section 408(c) of such Code” for “section 408(c) of such code”, which for purposes of codification was translated as “section 408(c) of title 26” thus requiring no change in text.
 
-1986—Subsec. (b)(1)(B). Pub. L. 99–514, §1114(b)(15)(B), substituted “highly compensated employees (within the meaning of section 414(q) of title 26)” for “highly compensated employees, officers, or shareholders”.
+<b>1986</b>—Subsec. (b)(1)(B). Pub. L. 99–514, §1114(b)(15)(B), substituted “highly compensated employees (within the meaning of section 414(q) of title 26)” for “highly compensated employees, officers, or shareholders”.
 
 Subsec. (d). Pub. L. 99–514, §1898(i)(1), struck out “(a),” before “(b),” in introductory provisions.
 
-1982—Subsec. (d). Pub. L. 97–354 substituted “section 1379 of title 26 as in effect on the day before the date of the enactment of the Subchapter S Revision Act of 1982” for “section 1379 of title 26”.
+<b>1982</b>—Subsec. (d). Pub. L. 97–354 substituted “section 1379 of title 26 as in effect on the day before the date of the enactment of the Subchapter S Revision Act of 1982” for “section 1379 of title 26”.
 
-1980—Subsec. (b)(10), (11). Pub. L. 96–364, §308(a), added pars. (10) and (11).
+<b>1980</b>—Subsec. (b)(10), (11). Pub. L. 96–364, §308(a), added pars. (10) and (11).
 
 Subsec. (f). Pub. L. 96–364, §308(b), added subsec. (f).
 
@@ -498,13 +498,13 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 107(a)(11) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 107(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
+Amendment by section 108(a)(11) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 108(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
 
 Pub. L. 109–280, title VI, §601(a)(3), Aug. 17, 2006, 120 Stat. 958, provided that: “The amendments made by this subsection \[amending this section\] shall apply with respect to advice referred to in section 3(21)(A)(ii) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(21)(A)(ii)\] provided after December 31, 2006.”
 
 Amendment by section 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1) of Pub. L. 109–280 applicable to transactions occurring after Aug. 17, 2006, see section 611(h)(1) of Pub. L. 109–280, set out as a note under section 4975 of Title 26, Internal Revenue Code.
 
-Amendment by section 612(a) of Pub. L. 109–280 applicable to any transaction which the fiduciary or disqualified person discovers, or reasonably should have discovered, after Aug. 17, 2006, constitutes a prohibited transaction, see section 612(c) of Pub. L. 109–280, set outas a note under section 4975 of Title 26, Internal Revenue Code.
+Amendment by section 612(a) of Pub. L. 109–280 applicable to any transaction which the fiduciary or disqualified person discovers, or reasonably should have discovered, after Aug. 17, 2006, constitutes a prohibited transaction, see section 612(c) of Pub. L. 109–280, set out as a note under section 4975 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2001 Amendment
 
@@ -558,7 +558,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Coordination of 2006 Amendment With Existing Exemptions
 

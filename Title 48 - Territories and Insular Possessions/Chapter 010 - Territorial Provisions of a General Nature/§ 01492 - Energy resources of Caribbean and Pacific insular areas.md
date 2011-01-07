@@ -158,7 +158,7 @@ Priority.—When making grants under this paragraph, the Secretary of the Interi
 
 &emsp;&emsp;(i) have the greatest impact on reducing future disaster losses; and
 
-&emsp;&emsp;(ii) best conform with plans that have been approved by the Federal Government or the government of the insular area where the project is to be carried out for development or hazard mitigation for that insular area.
+&emsp;&emsp;(ii) best conform with plans that have been approved by the Federal Government or the government of the insular area where theproject is to be carried out for development or hazard mitigation for that insular area.
 
 &emsp;(D)
 
@@ -170,7 +170,7 @@ Treatment of funds for certain purposes.—Grants provided under this paragraph 
 
 &emsp;(F)
 
-Authorization of appropriations.—There are authorized to be appropriated tocarry out this paragraph $6,000,000 for each fiscal year beginning after August 8, 2005.
+Authorization of appropriations.—There are authorized to be appropriated to carry out this paragraph $6,000,000 for each fiscal year beginning after August 8, 2005.
 
 (5) For the purposes of this subsection—
 
@@ -186,15 +186,15 @@ August 8, 2005, referred to in subsecs. (e)(5) and (g)(4)(F), was in the origina
 
 #### Amendments
 
-2005—Subsec. (a)(5), (6). Pub. L. 109–58, §251(1), (2), added pars. (5) and (6).
+<b>2005</b>—Subsec. (a)(5), (6). Pub. L. 109–58, §251(1), (2), added pars. (5) and (6).
 
 Subsec. (e). Pub. L. 109–58, §251(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Within two years from December 24, 1980, the Secretary of Energy or any administrative official who may succeed him shall submit the comprehensive energy plan for each insular area to the Congress.”
 
 Subsec. (g)(4). Pub. L. 109–58, §251(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Notwithstanding the requirements of section 1469a(d) of this title, the Secretary shall require at least 20 percent of the costs of any project under this subsection to be provided from non-Federal sources. Such cost sharing may be in the form of in-kind services, donated equipment, or any combination thereof.”
 
-1992—Subsec. (g). Pub. L. 102–486 added subsec. (g).
+<b>1992</b>—Subsec. (g). Pub. L. 102–486 added subsec. (g).
 
-1983—Subsec. (d). Pub. L. 98–213 inserted “and may implement any projects or programs contained in recommendations of the plan”.
+<b>1983</b>—Subsec. (d). Pub. L. 98–213 inserted “and may implement any projects or programs contained in recommendations of the plan”.
 
 #### Change of Name
 

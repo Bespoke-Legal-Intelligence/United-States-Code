@@ -1,8 +1,6 @@
 ### §1769. Pilot projects
 
-#### (a) Pilot projects for administration of child nutrition programs by contract or direct disbursement
-
-The Secretary may conduct pilot projects in not more than three States in which the Secretary is currently administering programs to evaluate the effects of the Secretary contracting with private profit and nonprofit organizations to act as a State agency under this chapter and the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\] for schools, institutions, or service institutions referred to in section 1759 of this title and section 5 of the Child Nutrition Act of 1966 \[42 U.S.C. 1774\].
+#### (a) Repealed. Pub. L. 111–296, title IV, §441(a)(9), Dec. 13, 2010, 124 Stat. 3264
 
 #### (b) Extension of eligibility of certain school districts to receive cash or commodity letters of credit assistance for school lunch programs
 
@@ -12,243 +10,113 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 #### (c) Alternative counting and claiming procedures
 
-(1)(A) The Secretary shall carry out a pilot program for purposes of identifying alternatives to—
+(1) The Secretary may conduct pilot projects to test alternative counting and claiming procedures.
 
-&emsp;(i) daily counting by category of meals provided by school lunch programs under this chapter; and
+(2) Each pilot program carried out under this subsection shall be evaluated by the Secretary after it has been in operation for 3 years.
 
-&emsp;(ii) annual applications for eligibility to receive free meals or reduced price meals.
+#### (d) to (f) Repealed. Pub. L. 111–296, title IV, §441(a)(11)–(13), Dec. 13, 2010, 124 Stat. 3264
 
-(B) For the purposes of carrying out the pilot program under this paragraph, the Secretary may waive requirements of this chapter relating to counting of meals provided by school lunch programs and applications for eligibility.
+#### (g) Access to local foods: farm to school program
 
-(C) For the purposes of carrying out the pilot program under this paragraph, the Secretary shall solicit proposals from State educational agencies and local educational agencies for the alternatives described in subparagraph (A).
+#### (1) Definition of eligible school
 
-(2)(A) The Secretary shall carry out a pilot program under which a limited number of schools participating in the special assistance program under section 1759a(a)(1) of this title that have in attendance children at least 80 percent of whom are eligible for free lunches or reduced price lunches shall submit applications for a 3-year period.
+&emsp;In this subsection, the term “eligible school” means a school or institution that participates in a program under this chapter or the school breakfast program established under section 1773 of this title.
 
-(B) Each school participating in the pilot program under this paragraph shall have the option of determining the number of free meals, reduced price meals, and paid meals provided daily under the school lunch program operated by such school by applying percentages determined under subparagraph (C) to the daily total student meal count.
+#### (2) Program
 
-(C) The percentages determined under this subparagraph shall be established on the basis of the master roster of students enrolled in the school concerned, which—
+&emsp;The Secretary shall carry out a program to assist eligible schools, State and local agencies, Indian tribal organizations, agricultural producers or groups of agricultural producers, and nonprofit entities through grants and technical assistance to implement farm to school programs that improve access to local foods in eligible schools.
 
-&emsp;(i) shall include a notation as to the eligibility status of each student with respect to the school lunch program; and
+#### (3) Grants
 
-&emsp;(ii) shall be updated not later than September 30 of each year.
+#### (A) In general
 
-(3) In addition to the pilot projects described in this subsection, the Secretary may conduct other pilot projects to test alternative counting and claiming procedures.
+&emsp;&emsp;The Secretary shall award competitive grants under this subsection to be used for—
 
-(4) Each pilot program carried out under this subsection shall be evaluated by the Secretary after it has been in operation for 3 years.
+&emsp;&emsp;&emsp;(i) training;
 
-#### (d) Fortified fluid milk
+&emsp;&emsp;&emsp;(ii) supporting operations;
 
-(1) Subject to the availability of appropriations to carry out this subsection, the Secretary shall establish pilot projects in at least 25 school districts under which the milk offered by schools meets the fortification requirements of paragraph (3) for lowfat, skim, and other forms of fluid milk.
+&emsp;&emsp;&emsp;(iii) planning;
 
-(2) The Secretary shall make available to school districts information that compares the nutritional benefits of fluid milk that meets the fortification requirements of paragraph (3) and the nutritional benefits of other milk that is made available through the school lunch program established under this chapter.
+&emsp;&emsp;&emsp;(iv) purchasing equipment;
 
-(3) The fortification requirements for fluid milk for the pilot project referred to in paragraph (1) shall provide that—
+&emsp;&emsp;&emsp;(v) developing school gardens;
 
-&emsp;(A) all whole milk in final package form for beverage use shall contain not less than—
+&emsp;&emsp;&emsp;(vi) developing partnerships; and
 
-&emsp;&emsp;(i) 3.25 percent milk fat; and
+&emsp;&emsp;&emsp;(vii) implementing farm to school programs.
 
-&emsp;&emsp;(ii) 8.7 percent milk solids not fat;
+#### (B) Regional balance
 
-&emsp;(B) all lowfat milk in final package form for beverage use shall contain not less than 10 percent milk solids not fat; and
+&emsp;&emsp;In making awards under this subsection, the Secretary shall, to the maximum extent practicable, ensure—
 
-&emsp;(C) all skim milk in final package form for beverage use shall contain not less than 9 percent milk solids not fat.
+&emsp;&emsp;&emsp;(i) geographical diversity; and
 
-(4)(A) In selecting where to establish pilot projects under this subsection, the Secretary shall take into account, among other factors, the availability of fortified milk and the interest of the school district in being included in the pilot project.
+&emsp;&emsp;&emsp;(ii) equitable treatment of urban, rural, and tribal communities.
 
-(B) The Secretary shall establish the pilot projects in as many geographic areas as practicable, except that none of the projects shall be established in school districts that use milk described in paragraph (3) or similar milk.
+#### (C) Maximum amount
 
-(5) Not later than 2 years after the establishment of the first pilot project under this subsection, the Secretary shall report to the Committee on Education and Labor, and the Committee on Agriculture, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on—
+&emsp;&emsp;The total amount provided to a grant recipient under this subsection shall not exceed $100,000.
 
-&emsp;(A) the acceptability of fortified whole, lowfat, and skim milk products to participating children;
+#### (4) Federal share
 
-&emsp;(B) the impact of offering the milk on milk consumption;
+#### (A) In general
 
-&emsp;(C) the views of the school food service authorities on the pilot projects; and
+&emsp;&emsp;The Federal share of costs for a project funded through a grant awarded under this subsection shall not exceed 75 percent of the total cost of the project.
 
-&emsp;(D) any increases or reductions in costs attributed to the pilot projects.
+#### (B) Federal matching
 
-(6) The Secretary shall—
+&emsp;&emsp;As a condition of receiving a grant under this subsection, a grant recipient shall provide matching support in the form of cash or in-kind contributions, including facilities, equipment, or services provided by State and local governments, nonprofit organizations, and private sources.
 
-&emsp;(A) obtain copies of any research studies or papers that discuss the impact of the fortification of milk pursuant to standards established by the States; and
+#### (5) Criteria for selection
 
-&emsp;(B) on request, make available to State agencies and the public—
+&emsp;To the maximum extent practicable, in providing assistance under this subsection, the Secretary shall give the highest priority to funding projects that, as determined by the Secretary—
 
-&emsp;&emsp;(i) the information obtained under subparagraph (A); and
+&emsp;&emsp;(A) make local food products available on the menu of the eligible school;
 
-&emsp;&emsp;(ii) information about where to obtain milk described in paragraph (3).
+&emsp;&emsp;(B) serve a high proportion of children who are eligible for free or reduced price lunches;
 
-(7)(A) Each pilot project established under this subsection shall terminate on the last day of the third year after the establishment of the pilot project.
+&emsp;&emsp;(C) incorporate experiential nutrition education activities in curriculum planning that encourage the participation of school children in farm and garden-based agricultural education activities;
 
-(B) The Secretary shall advise representatives of each district participating in a pilot project that the district may continue to offer the fortified forms of milk described in paragraph (3) after the project terminates.
+&emsp;&emsp;(D) demonstrate collaboration between eligible schools, nongovernmental and community-based organizations, agricultural producer groups, and other community partners;
 
-#### (e) Breakfast pilot projects
+&emsp;&emsp;(E) include adequate and participatory evaluation plans;
+
+&emsp;&emsp;(F) demonstrate the potential for long-term program sustainability; and
+
+&emsp;&emsp;(G) meet any other criteria that the Secretary determines appropriate.
+
+#### (6) Evaluation
+
+&emsp;As a condition of receiving a grant under this subsection, each grant recipient shall agree to cooperate in an evaluation by the Secretary of the program carried out using grant funds.
+
+#### (7) Technical assistance
+
+&emsp;The Secretary shall provide technical assistance and information to assist eligible schools, State and local agencies, Indian tribal organizations, and nonprofit entities—
+
+&emsp;&emsp;(A) to facilitate the coordination and sharing of information and resources in the Department that may be applicable to the farm to school program;
+
+&emsp;&emsp;(B) to collect and share information on best practices; and
+
+&emsp;&emsp;(C) to disseminate research and data on existing farm to school programs and the potential for programs in underserved areas.
+
+#### (8) Funding
+
+#### (A) In general
+
+&emsp;&emsp;On October 1, 2012, and each October 1 thereafter, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out this subsection $5,000,000, to remain available until expended.
+
+#### (B) Receipt and acceptance
+
+&emsp;&emsp;The Secretary shall be entitled to receive, shall accept, and shall use to carry out this subsection the funds transferred under subparagraph (A), without further appropriation.
+
+#### (9) Authorization of appropriations
+
+&emsp;In addition to the amounts made available under paragraph (8), there are authorized to beappropriated to carry out this subsection such sums as are necessary for each of fiscal years 2011 through 2015.
+
+#### (h) Pilot program for high-poverty schools
 
 #### (1) In general
-
-&emsp;Subject to the availability of funds made available under paragraph (10), for a period of 3 successive school years, the Secretary shall make grants to State agencies to conduct pilot projects in elementary schools under the jurisdiction of not more than 6 school food authorities approved by the Secretary to—
-
-&emsp;&emsp;(A) reduce paperwork, simplify meal counting requirements, and make changes that will increase participation in the school breakfast program; and
-
-&emsp;&emsp;(B) evaluate the effect of providing free breakfasts to elementary school children, without regard to family income, on participation, academic achievement, attendance and tardiness, and dietary intake over the course of a day.
-
-#### (2) Nominations
-
-&emsp;A State agency that seeks a grant under this subsection shall submit to the Secretary nominations of school food authorities to participate in a pilot project under this subsection <sup>1</sup>
-
-#### (3) Approval
-
-&emsp;The Secretary shall approve for participation in pilot projects under this subsection elementary schools under the jurisdiction of not more than 6 nominated school food authorities selected so as to—
-
-&emsp;&emsp;(A) provide for an equitable distribution of pilot projects among urban and rural elementary schools;
-
-&emsp;&emsp;(B) provide for an equitable distribution of pilot projects among elementary schools of varying family income levels; and
-
-&emsp;&emsp;(C) permit the evaluation of pilot projects to distinguish the effects of the pilot projects from other factors, such as changes or differences in educational policies or programs.
-
-#### (4) Grants to school food authorities
-
-&emsp;A State agency receiving a grant under paragraph (1) shall make grants to school food authorities to conduct the pilot projects described in paragraph (1).
-
-#### (5) Duration of pilot projects
-
-&emsp;Subject to the availability of funds made available to carry out this subsection, a school food authority receiving amounts under a grant to conduct a pilot project described in paragraph (1) shall conduct the project during a period of 3 successive school years.
-
-#### (6) Waiver authority
-
-#### (A) In general
-
-&emsp;&emsp;Except as provided in subparagraph (B), the Secretary may waive the requirements of this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) relating to counting of meals, applications for eligibility, and related requirements that would preclude the Secretary from making a grant to conduct a pilot project under paragraph (1).
-
-#### (B) Nonwaivable requirements
-
-&emsp;&emsp;The Secretary may not waive a requirement under subparagraph (A) if the waiver would prevent a program participant, a potential program participant, or a school from receiving all of the benefits and protections of this chapter, the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), or a Federal law (including a regulation) that protects an individual constitutional right or a statutory civil right.
-
-#### (7) Requirements for participation in pilot project
-
-&emsp;To be eligible to participate in a pilot project under this subsection—
-
-&emsp;&emsp;(A) a State agency—
-
-&emsp;&emsp;&emsp;(i) shall submit an application to the Secretary at such time and in such manner as the Secretary shall establish to meet criteria the Secretary has established to enable a valid evaluation to be conducted; and
-
-&emsp;&emsp;&emsp;(ii) shall provide such information relating to the operation and results of the pilot project as the Secretary may reasonably require; and
-
-&emsp;&emsp;(B) a school food authority—
-
-&emsp;&emsp;&emsp;(i) shall agree to serve all breakfasts at no charge to all children enrolled in participating elementary schools;
-
-&emsp;&emsp;&emsp;(ii) shall not have a history of violations of this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.);
-
-&emsp;&emsp;&emsp;(iii) shall have, under the jurisdiction of the school food authority, a sufficient number of elementary schools that are notparticipating in the pilot projects to permit a valid evaluation of the effects of the pilot projects; and
-
-&emsp;&emsp;&emsp;(iv) shall meet all other requirements that the Secretary may reasonably require.
-
-#### (8) Evaluation of pilot projects
-
-#### (A) In general
-
-&emsp;&emsp;The Secretary, acting through the Administrator of the Food and Nutrition Service, shall conduct an evaluation of the pilot projects conducted by the school food authorities selected for participation.
-
-#### (B) Content
-
-&emsp;&emsp;The evaluation shall include—
-
-&emsp;&emsp;&emsp;(i) a determination of the effect of participation in the pilot project on the academic achievement, attendance and tardiness, and dietary intake over the course of a day of participating children that is not attributable to changes in educational policies and practices; and
-
-&emsp;&emsp;&emsp;(ii) a determination of the effect that participation by elementary schools in the pilot project has on the proportion of students who eat breakfast and on the paperwork required to be completed by the schools.
-
-#### (C) Report
-
-&emsp;&emsp;On completion of the pilot projects and the evaluation, the Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the results of the evaluation of the pilot projects required under subparagraph (A).
-
-#### (9) Reimbursement
-
-#### (A) In general
-
-&emsp;&emsp;Except as provided in subparagraph (B), a school conducting a pilot project under this subsection shall receive a total Federal reimbursement under the school breakfast program in an amount that is equal to the total Federal reimbursement for the school for the prior year under the program (adjusted to reflect changes in the series for food away from home of the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor and adjusted for fluctuations in enrollment).
-
-#### (B) Excess needs
-
-&emsp;&emsp;Funds required for the pilot project in excess of the level of reimbursement received by the school for the prior year (adjusted to reflect changes described in subparagraph (A) and adjusted for fluctuations in enrollment) may be taken from any non-Federal source or from amounts provided under this subsection.
-
-#### (10) Authorization of appropriations
-
-#### (A) In general
-
-&emsp;&emsp;There are authorized to be appropriated such sums as are necessary to carry out this subsection.
-
-#### (B) Requirement
-
-&emsp;&emsp;No amounts may be provided under this subsection unless specifically provided in appropriations Acts.
-
-#### (f) Summer food service residential camp eligibility
-
-#### (1) In general
-
-&emsp;During the month after June 30, 2004, through September, 2004, and the months of May through September, 2005, the Secretary shall modify eligibility criteria, at not more than 1 private nonprofit residential camp in each of not more than 2 States, as determined by the Secretary, for the purpose of identifying and evaluating alternative methods of determining the eligibility of residential private nonprofit camps to participate in the summer food service program for children established under section 1761 of this title.
-
-#### (2) Eligibility
-
-&emsp;To be eligible for the criteria modified under paragraph (1), a residential camp—
-
-&emsp;&emsp;(A) shall be a service institution (as defined in section 1761(a)(1) of this title);
-
-&emsp;&emsp;(B) may not charge a fee to any child in residence at the camp; and
-
-&emsp;&emsp;(C) shall serve children who reside in an area in which poor economic conditions exist (as defined in section 1761(a)(1) of this title).
-
-#### (3) Payments
-
-#### (A) In general
-
-&emsp;&emsp;Under this subsection, the Secretary shall provide reimbursement for meals served to all children at a residential camp at the payment rates specified in section 1761(b)(1) of this title.
-
-#### (B) Reimbursable meals
-
-&emsp;&emsp;A residential camp selected by the Secretary may receive reimbursement for not more than 3 meals, or 2 meals and 1 supplement, during each day of operation.
-
-#### (4) Evaluation
-
-#### (A) Information from residential camps
-
-&emsp;&emsp;Not later than December 31, 2005, a residential camp selected under paragraph (1) shall report to the Secretary such information as is required by the Secretary concerning the requirements of this subsection.
-
-#### (B) Report to Congress
-
-&emsp;&emsp;Not later than March 31, 2006, the Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that evaluates the effect of this subsection on program participation and other factors, as determined by the Secretary.
-
-#### (g) Access to local foods and school gardens
-
-#### (1) In general
-
-&emsp;The Secretary may provide assistance, through competitive matching grants and technical assistance, to schools and nonprofit entities for projects that—
-
-&emsp;&emsp;(A) improve access to local foods in schools and institutions participating in programs under this chapter and section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) through farm-to-cafeteria activities, including school gardens, that may include the acquisition of food and appropriate equipment and the provision of training and education;
-
-&emsp;&emsp;(B) are, at a minimum, designed to—
-
-&emsp;&emsp;&emsp;(i) procure local foods from small- and medium-sized farms for school meals; and
-
-&emsp;&emsp;&emsp;(ii) support school garden programs;
-
-&emsp;&emsp;(C) support nutrition education activities or curriculum planning that promotes healthy food education in the school curriculum and incorporates the participation of school children in farm-based agricultural education activities, that may include school gardens;
-
-&emsp;&emsp;(D) develop a sustained commitment to farm-to-cafeteria projects in the community by linking schools, State departments of agriculture, agricultural producers, parents, and other community stakeholders;
-
-&emsp;&emsp;(E) require $100,000 or less in Federal contributions;
-
-&emsp;&emsp;(F) require a Federal share of costs not to exceed 75 percent;
-
-&emsp;&emsp;(G) provide matching support in the form of cash or in-kind contributions (including facilities, equipment, or services provided by State and local governments and private sources); and
-
-&emsp;&emsp;(H) cooperate in an evaluation carried out by the Secretary.
-
-#### (2) Administration
-
-&emsp;In providing grants under paragraph (1), the Secretary shall give priority to projects that can be replicated in schools.
-
-#### (3) Pilot program for high-poverty schools
 
 #### (A) Definitions
 
@@ -300,13 +168,13 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 #### (F) Evaluation
 
-&emsp;&emsp;A nonprofit organization or public entity that receives a grant under this paragraph shall be required to cooperate in an evaluation in accordance with paragraph (1)(H).
+&emsp;&emsp;A nonprofit organization or public entity that receives a grant under this paragraph shall be required to cooperate in an evaluation carried out by the Secretary.
 
-#### (4) Authorization of appropriations
+#### (2) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated such sums as are necessary to carry out this subsection for each of fiscal years 2004 through 2009.
+&emsp;There are authorized to be appropriated such sums as are necessary to carry out this subsection for each of fiscal years 2004 through 2015.
 
-#### (h) Year-round services for eligible entities
+#### (i) Year-round services for eligible entities
 
 #### (1) In general
 
@@ -320,7 +188,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 &emsp;&emsp;&emsp;(iii) in the case of a service institution that provides meal service at a nonschool site to children who are not in school for a period during the school year due to a natural disaster, building repair, court order, or similar case, at anytime during such a period; and
 
-&emsp;&emsp;(B) for a snack served during each day of operation after school hours, weekends, andschool holidays during the regular school calendar.
+&emsp;&emsp;(B) for a snack served during each day of operation after school hours, weekends, and school holidays during the regular school calendar.
 
 #### (2) Payments
 
@@ -336,13 +204,13 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 #### (5) Funding
 
-&emsp;The Secretary shall provide to the State of California such sums as are necessary to carry out this subsection for each of fiscal years 2005 through 2010.
+&emsp;The Secretary shall provide to the State of California such sums as are necessary to carry out this subsection for each of fiscal years 2011 through 2015.
 
-#### (i) Free lunch and breakfast eligibility
+#### (j) Free lunch and breakfast eligibility
 
 #### (1) In general
 
-&emsp;Subject to the availability of funds under paragraph (4), the Secretary shall expand the service of free lunches and breakfasts provided at schools participating in the school lunch program under this chapter or the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) in all or part of 5 States selected by the Secretary (of which at least 1 shall be a largely rural State with a significant Native American population).
+&emsp;Subject to the availability of funds under paragraph (4), the Secretary shall expand the service of free lunches and breakfasts provided at schools participating in the school lunch program under this chapter or the school breakfast program under section 1773 of this title in all or part of 5 States selected by the Secretary (of which at least 1 shall be a largely rural State with a significant Native American population).
 
 #### (2) Income eligibility
 
@@ -390,13 +258,57 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 &emsp;There are authorized to be appropriated such sums as are necessary to carry out this subsection, to remain available until expended.
 
-(June 4, 1946, ch. 281, §18, formerly §20, as added Pub. L. 95–166, §10(2), Nov. 10, 1977, 91 Stat. 1336; amended Pub. L. 95–627, §11, Nov. 10, 1978, 92 Stat. 3624; renumbered §18 and amended Pub. L. 99–500, title III, §§327, 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§327, 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 100–237, §5, Jan. 8, 1988, 101 Stat. 1739; Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, Nov. 10, 1989, 103 Stat. 886, 910, 916; Pub. L. 102–342, title I, §101(a), title III, §301, Aug. 14, 1992, 106 Stat. 911, 913; Pub. L. 102–512, title I, §102, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, Nov. 2, 1994, 108 Stat. 4717, 4719; Pub. L. 104–193, title VII, §709, Aug. 22, 1996, 110 Stat. 2301; Pub. L. 105–336, title I, §109(a)–(c)(1), Oct. 31, 1998, 112 Stat. 3154–3156; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §102(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–215; Pub. L. 107–171, title IV, §4305(a), May 13, 2002, 116 Stat. 332; Pub. L. 108–30, §1, May 29, 2003, 117 Stat. 774; Pub. L. 108–134, §5(2), Nov. 22, 2003, 117 Stat. 1390;Pub. L. 108–211, §5(b), Mar. 31, 2004, 118 Stat. 567; Pub. L. 108–265, title I, §§116(f), 120–124, June 30, 2004, 118 Stat. 750, 756–760; Pub. L. 109–97, title VII, §777(a), Nov. 10, 2005, 119 Stat. 2161; Pub. L. 110–161, div. A, title VII, §738(b), Dec. 26, 2007, 121 Stat. 1880; Pub. L. 110–234, title IV, §§4303, 4304(b), May 22, 2008, 122 Stat. 1126, 1131; Pub. L. 110–246, §4(a), title IV, §§4303, 4304(b), June 18, 2008, 122 Stat. 1664, 1887, 1892; Pub. L. 111–80, title VII, §749(d), Oct. 21, 2009, 123 Stat. 2132.)
+#### (k) Organic food pilot program
+
+#### (1) Establishment
+
+&emsp;The Secretary shall establish an organic food pilot program (referred to in this subsection as the “pilot program”) under which the Secretary shall provide grants on a competitive basis to school food authorities selected under paragraph (3).
+
+#### (2) Use of funds
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall use funds provided under this section—
+
+&emsp;&emsp;&emsp;(i) to enter into competitively awarded contracts or cooperative agreements with school food authorities selected under paragraph (3); or
+
+&emsp;&emsp;&emsp;(ii) to make grants to school food authority applicants selected under paragraph (3).
+
+#### (B) School food authority uses of funds
+
+&emsp;&emsp;A school food authority that receives a grant under this section shall use the grant funds to establish a pilot program that increases the quantity of organic foods provided to schoolchildren under the school lunch program established under this chapter.
+
+#### (3) Application
+
+#### (A) In general
+
+&emsp;&emsp;A school food authority seeking a contract, grant, or cooperative agreement under this subsection shall submit to the Secretary an application in such form, containing such information, and at such time as the Secretary shall prescribe.
+
+#### (B) Criteria
+
+&emsp;&emsp;In selecting contract, grant, or cooperative agreement recipients, the Secretary shall consider—
+
+&emsp;&emsp;&emsp;(i) the poverty line (as defined in section 9902(2) of this title, including any revision required by that section)) <sup>1</sup> applicable to a family of the size involved of the households in the district served by the school food authority, giving preference to school food authority applicants in which not less than 50 percent of the households in the district are at or below the Federal poverty line;
+
+&emsp;&emsp;&emsp;(ii) the commitment of each school food authority applicant—
+
+&emsp;&emsp;&emsp;&emsp;(I) to improve the nutritional value of school meals;
+
+&emsp;&emsp;&emsp;&emsp;(II) to carry out innovative programs that improve the health and wellness of schoolchildren; and
+
+&emsp;&emsp;&emsp;&emsp;(III) to evaluate the outcome of the pilot program; and
+
+&emsp;&emsp;&emsp;(iii) any other criteria the Secretary determines to be appropriate.
+
+#### (4) Authorization of appropriations
+
+&emsp;&emsp;There are authorized to be appropriated to carry out this subsection $10,000,000 for fiscal years 2011 through 2015.
+
+(June 4, 1946, ch. 281, §18, formerly §20, as added Pub. L. 95–166, §10(2), Nov. 10, 1977, 91 Stat. 1336; amended Pub. L. 95–627, §11, Nov. 10, 1978, 92 Stat. 3624; renumbered §18 and amended Pub. L. 99–500, title III, §§327, 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§327, 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 100–237, §5, Jan. 8, 1988, 101 Stat. 1739; Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, Nov. 10, 1989, 103 Stat. 886, 910, 916; Pub. L. 102–342, title I, §101(a), title III, §301, Aug. 14, 1992, 106 Stat. 911, 913; Pub. L. 102–512, title I, §102, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, Nov. 2, 1994, 108 Stat. 4717, 4719; Pub. L. 104–193, title VII, §709, Aug. 22, 1996, 110 Stat. 2301; Pub. L. 105–336, title I, §109(a)–(c)(1), Oct. 31, 1998, 112 Stat. 3154–3156; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §102(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–215; Pub. L. 107–171, title IV, §4305(a), May 13, 2002, 116 Stat. 332; Pub. L. 108–30, §1, May 29, 2003, 117 Stat. 774; Pub. L. 108–134, §5(2), Nov. 22, 2003, 117 Stat. 1390; Pub. L. 108–211, §5(b), Mar. 31, 2004, 118 Stat. 567; Pub. L. 108–265, title I, §§116(f), 120–124, June 30, 2004, 118 Stat. 750, 756–760; Pub. L. 109–97, title VII, §777(a), Nov. 10, 2005, 119 Stat. 2161; Pub. L. 110–161, div. A, title VII, §738(b), Dec. 26, 2007, 121 Stat. 1880; Pub. L. 110–234, title IV, §§4303, 4304(b), May 22, 2008, 122 Stat. 1126, 1131; Pub. L. 110–246, §4(a), title IV, §§4303, 4304(b), June 18, 2008, 122 Stat. 1664, 1887, 1892; Pub. L. 111–80, title VII, §749(d), Oct. 21, 2009, 123 Stat. 2132; Pub. L. 111–296, title II, §§210, 243, title IV, §§405, 441(a)(9)–(13), Dec. 13, 2010, 124 Stat. 3223, 3236, 3259, 3264.)
 
 #### References in Text
 
-The Child Nutrition Act of 1966, referred to in subsecs. (a) and (e)(6), (7)(B)(ii), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
-
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (i)(3)(B)(ii)(IV), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (j)(3)(B)(ii)(IV), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Codification
 
@@ -410,9 +322,27 @@ A prior section 18 of act June 4, 1946, which was classified to section 1767 of 
 
 #### Amendments
 
-2009—Subsec. (h)(5). Pub. L. 111–80 substituted “2010” for “2009”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–296, §441(a)(9), struck out subsec. (a) which related to pilot projects for administration of child nutrition programs by contract or direct disbursement.
 
-2008—Subsecs. (f), (g). Pub. L. 110–246, §4304(b), redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out former subsec. (f) which related to fresh fruit and vegetable program.
+Subsec. (c). Pub. L. 111–296, §441(a)(10), redesignated pars. (3) and (4) as (1) and (2), respectively, in par. (1), substituted “The Secretary may conduct” for “In addition to the pilot projects described in this subsection, the Secretary may conduct other”, and struck out former pars. (1) and (2) which related to certain pilot programs.
+
+Subsecs. (d) to (f). Pub. L. 111–296, §441(a)(11)–(13), struck out subsecs. (d) to (f) which related to fortified fluid milk, breakfast pilot projects, and summer food service residential camp eligibility, respectively.
+
+Subsecs. (g), (h). Pub. L. 111–296, §243(2), (3), added subsec. (g), redesignated pars. (3) and (4) of former subsec. (g) as pars. (1) and (2), respectively, of subsec. (h), inserted subsec. heading, substituted “In general” for “Pilot program for high-poverty schools” in heading of subsec. (h)(1), “carried out by the Secretary” for “in accordance with paragraph (1)(H)” in subsec. (h)(1)(F), and “2015” for “ 2009” in subsec. (h)(2), and struck out heading “Access to local foods and school gardens” of former subsec. (g), and pars. (1) and (2) of former subsec. (g) which related to grants and technical assistance by the Secretary to schools and non-profit entities for various projects and administration of such grants and technical assistance. Former subsec. (h) redesignated (i).
+
+Subsec. (i). Pub. L. 111–296, §243(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
+
+Subsec. (i)(5). Pub. L. 111–296, §405, substituted “2011 through 2015” for “2005 through 2010”.
+
+Subsec. (j). Pub. L. 111–296, §243(1), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
+
+Pub. L. 111–296, §210, added subsec. (j).
+
+Subsec. (k). Pub. L. 111–296, §243(1), redesignated subsec. (j) as (k).
+
+<b>2009</b>—Subsec. (h)(5). Pub. L. 111–80 substituted “2010” for “2009”.
+
+<b>2008</b>—Subsecs. (f), (g). Pub. L. 110–246, §4304(b), redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out former subsec. (f) which related to fresh fruit and vegetable program.
 
 Subsec. (h). Pub. L. 110–246, §4304(b), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
@@ -420,13 +350,13 @@ Pub. L. 110–246, §4303, in par. (1)(C) inserted “promotes healthy food educ
 
 Subsecs. (i), (j). Pub. L. 110–246, §4304(b), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
 
-2007—Subsecs. (f) to (k). Pub. L. 110–161 redesignated subsecs. (g) to (k) as (f) to (j), respectively, and struck out former subsec. (f) which related to simplified summer food programs.
+<b>2007</b>—Subsecs. (f) to (k). Pub. L. 110–161 redesignated subsecs. (g) to (k) as (f) to (j), respectively, and struck out former subsec. (f) which related to simplified summer food programs.
 
-2005—Subsec. (f)(1)(B). Pub. L. 109–97, §777(a)(1), substituted “June 2005” for “April 2004” in introductory provisions.
+<b>2005</b>—Subsec. (f)(1)(B). Pub. L. 109–97, §777(a)(1), substituted “June 2005” for “April 2004” in introductory provisions.
 
 Subsec. (f)(1)(B)(ii). Pub. L. 109–97, §777(a)(2), substituted “75” for “66.67” in introductory provisions.
 
-2004—Subsec. (f). Pub. L. 108–265, §116(f)(5)(A), substituted “Simplified summer food programs” for “Summer food pilot projects” in heading.
+<b>2004</b>—Subsec. (f). Pub. L. 108–265, §116(f)(5)(A), substituted “Simplified summer food programs” for “Summer food pilot projects” in heading.
 
 Subsec. (f)(1). Pub. L. 108–265, §116(f)(1), added par. (1) and struck out heading and text of former par. (1), which defined “eligible State” using formula based on data available in July 2000.
 
@@ -448,15 +378,15 @@ Subsec. (g). Pub. L. 108–265, §120, added subsec. (g) and struck out heading 
 
 Subsecs. (h) to (k). Pub. L. 108–265, §§121–124, added subsecs. (h) to (k).
 
-2003—Subsec. (f)(2). Pub. L. 108–134 substituted “beginning October 1, 2000, and ending March 31, 2004” for “of fiscal years 2001 through 2003”.
+<b>2003</b>—Subsec. (f)(2). Pub. L. 108–134 substituted “beginning October 1, 2000, and ending March 31, 2004” for “of fiscal years 2001 through 2003”.
 
 Subsec. (g)(4). Pub. L. 108–30 inserted before period at end “, to remain available until the close of the school year beginning July 2003”.
 
-2002—Subsec. (g). Pub. L. 107–171 added subsec (g).
+<b>2002</b>—Subsec. (g). Pub. L. 107–171 added subsec (g).
 
-2000—Subsec. (f). Pub. L. 106–554 added subsec. (f).
+<b>2000</b>—Subsec. (f). Pub. L. 106–554 added subsec. (f).
 
-1998—Subsec. (c). Pub. L. 105–336, §109(a), (c)(1), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to demonstration program for prevention of boarder babies.
+<b>1998</b>—Subsec. (c). Pub. L. 105–336, §109(a), (c)(1), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to demonstration program for prevention of boarder babies.
 
 Subsec. (d). Pub. L. 105–336, §109(c)(1), redesignated subsec. (f) as (d). Former subsec. (d) redesignated (c).
 
@@ -470,7 +400,7 @@ Subsec. (h). Pub. L. 105–336, §109(a), struck out subsec. (h) which related t
 
 Subsec. (i). Pub. L. 105–336, §109(b), (c)(1), amended subsec. (i) generally and redesignated it as subsec. (e). Prior to amendment, subsec. (i) related to reduced paperwork and application requirements and increased participation pilots.
 
-1996—Subsec. (d)(3) to (5). Pub. L. 104–193, §709(a), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which related to pilot program for schools with universal free lunch programs to use certain methods to determine number of free, reduced price, and paid meals to be provided.
+<b>1996</b>—Subsec. (d)(3) to (5). Pub. L. 104–193, §709(a), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which related to pilot program for schools with universal free lunch programs to use certain methods to determine number of free, reduced price, and paid meals to be provided.
 
 Subsec. (e)(1). Pub. L. 104–193, §709(b)(1), designated subpar. (A) as par. (1), substituted “Secretary may establish” for “Secretary shall establish”, and struck out subpar. (B) which read as follows: “The amount of a grant under subparagraph (A) shall be equal to the amount necessary to provide meals or supplements described in such subparagraph and shall be determined in accordance with reimbursement payment rates for meals and supplements under the child and adult care food program under section 1766 of this title.”
 
@@ -480,13 +410,13 @@ Subsec. (e)(5). Pub. L. 104–193, §709(b)(2), added heading and text of par. (
 
 “(B) The Secretary may expend less than the amount required under subparagraph (A) if there is an insufficient number of suitable applicants.”
 
-1994—Subsec. (b)(1). Pub. L. 103–448, §118(a), struck out “, and ending September 30, 1994” after “beginning July 1, 1987”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–448, §118(a), struck out “, and ending September 30, 1994” after “beginning July 1, 1987”.
 
 Subsec. (c). Pub. L. 103–448, §117(a)(2)(A), (b), added subsec. (c) and struck out former subsec. (c), which related to provision of food service to homeless children under age 6 in emergency shelters.
 
 Subsecs. (e) to (i). Pub. L. 103–448, §118(b)–(f), added subsecs. (e) to (i).
 
-1992—Subsec. (b)(1). Pub. L. 102–342, §301, substituted “September 30, 1994” for “September 30, 1992”.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–342, §301, substituted “September 30, 1994” for “September 30, 1992”.
 
 Subsec. (c)(2). Pub. L. 102–342, §101(a)(1), inserted “State, city, local, or county governments, other public entities, or” before “private nonprofit”.
 
@@ -498,7 +428,7 @@ Subsec. (c)(5)(A). Pub. L. 102–342, §101(a)(1), (3), substituted “not less 
 
 Subsec. (c)(7). Pub. L. 102–342, §101(a)(4), added par. (7).
 
-1989—Subsec. (a). Pub. L. 101–147, §311(2), struck out “(42 U.S.C. 1771 et seq.)” after “Child Nutrition Act of 1966” and “(42 U.S.C. 1774)” after “section 5 of the Child Nutrition Act of 1966”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–147, §311(2), struck out “(42 U.S.C. 1771 et seq.)” after “Child Nutrition Act of 1966” and “(42 U.S.C. 1774)” after “section 5 of the Child Nutrition Act of 1966”.
 
 Pub. L. 101–147, §311(1), redesignated subsec. (d) as (a) and struck out former subsec. (a) which set forth statement of purpose of section and requirements for types of projects.
 
@@ -520,19 +450,23 @@ Subsec. (g). Pub. L. 101–147, §311(1), redesignated subsec. (g) as (d).
 
 Pub. L. 101–147, §205(a), added subsec. (g).
 
-1988—Subsec. (e). Pub. L. 100–237 added subsec. (e).
+<b>1988</b>—Subsec. (e). Pub. L. 100–237 added subsec. (e).
 
-1986—Subsec. (c). Pub. L. 99–500 and Pub. L. 99–591, §327(b), and Pub. L. 99–661, §4207(b), which directed the identical amendment of subsec. (c) by striking out “except for the pilot projects conducted under subsection (d) of this section,” were executed by striking out “, except for the pilot projects conducted under subsection (d) of this section” after “under this section” in introductory provisions, as the probable intent of Congress.
+<b>1986</b>—Subsec. (c). Pub. L. 99–500 and Pub. L. 99–591, §327(b), and Pub. L. 99–661, §4207(b), which directed the identical amendment of subsec. (c) by striking out “except for the pilot projects conducted under subsection (d) of this section,” were executed by striking out “, except for the pilot projects conducted under subsection (d) of this section” after “under this section” in introductory provisions, as the probable intent of Congress.
 
 Subsec. (d). Pub. L. 99–500 and Pub. L. 99–591, §327(a), and Pub. L. 99–661, §4207(a), amended section identically, adding subsec. (d) and striking out former subsec. (d) which related to free lunches without regard to family income and to reimbursement of school food authorities.
 
-1978—Subsec. (c). Pub. L. 95–627, §11(1), inserted provision excluding pilot projects conducted under subsec. (d) of this section.
+<b>1978</b>—Subsec. (c). Pub. L. 95–627, §11(1), inserted provision excluding pilot projects conducted under subsec. (d) of this section.
 
 Subsec. (d). Pub. L. 95–627, §11(2), added subsec. (d).
 
 #### Change of Name
 
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Education and the Workforce of House of Representatives changed to Committee on Educationand Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as a note under section 1751 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -580,5 +514,5 @@ Pub. L. 102–342, title I, §101(b), Aug. 14, 1992, 106 Stat. 911, as amended b
 
 Section 205(b) of Pub. L. 101–147 provided that not later than July 1, 1990, Secretary of Agriculture was to issue final regulations to implement subsec. (g) of this section.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+<i><sup>1</sup></i><i> So in original.</i>
 

@@ -10,7 +10,7 @@ For purposes of this part, except as provided in subsection (b), the term “tax
 
 #### (b) Exclusion of certain travel
 
-For purposes of this part, the term “taxable transportation” does not include that portion ofany transportation by air which meets all 4 of the following requirements:
+For purposes of this part, the term “taxable transportation” does not include that portion of any transportation by air which meets all 4 of the following requirements:
 
 &emsp;(1) such portion is outside the United States;
 
@@ -92,27 +92,27 @@ A prior section 4262 was renumbered 4263 of this title and later repealed.
 
 #### Amendments
 
-1982—Subsec. (c)(3). Pub. L. 97–248, §281A(a)(1), substituted “12 hours” for “6 hours” wherever appearing.
+<b>1982</b>—Subsec. (c)(3). Pub. L. 97–248, §281A(a)(1), substituted “12 hours” for “6 hours” wherever appearing.
 
 Subsec. (e). Pub. L. 97–248, §281A(a)(2), added subsec. (e).
 
-1970—Subsec. (a). Pub. L. 91–258, §203(b)(1)–(3), substituted “part” for “subchapter” in introductory text, “transportation by air” for “transportation” in par. (1), and “in the case of transportation by air” for “in the case of transportation” in par. (2), respectively.
+<b>1970</b>—Subsec. (a). Pub. L. 91–258, §203(b)(1)–(3), substituted “part” for “subchapter” in introductory text, “transportation by air” for “transportation” in par. (1), and “in the case of transportation by air” for “in the case of transportation” in par. (2), respectively.
 
 Subsec. (b). Pub. L. 91–258, §203(b)(1), (4), substituted “part” for “subchapter” and “transportation by air which” for “transportation which”, in introductory text, respectively.
 
 Subsec. (d). Pub. L. 91–258, §203(b)(5), added subsec. (d).
 
-1965—Subsec. (c)(4). Pub. L. 89–44 inserted sentence relating to personnel of the Armed Forces traveling in uniform at their own expense following subpar. (B).
+<b>1965</b>—Subsec. (c)(4). Pub. L. 89–44 inserted sentence relating to personnel of the Armed Forces traveling in uniform at their own expense following subpar. (B).
 
-1962—Subsec. (a). Pub. L. 87–508 substituted in introductory phrase “subchapter” for “part” and inserted in par. (2) “, but only if such portion is not a part of uninterrupted international air transportation (within the meaning of subsection (c)(3))”.
+<b>1962</b>—Subsec. (a). Pub. L. 87–508 substituted in introductory phrase “subchapter” for “part” and inserted in par. (2) “, but only if such portion is not a part of uninterrupted international air transportation (within the meaning of subsection (c)(3))”.
 
 Subsec. (b). Pub. L. 87–508 substituted in introductory phrase “subchapter” for “part”.
 
 Subsec. (c)(3). Pub. L. 87–508 added par. (3).
 
-1960—Subsec. (c)(1). Pub. L. 86–624 inserted “and Hawaii” after “Alaska”.
+<b>1960</b>—Subsec. (c)(1). Pub. L. 86–624 inserted “and Hawaii” after “Alaska”.
 
-1959—Subsec. (c)(1). Pub. L. 86–70 substituted “the District of Columbia and the States other than Alaska” for “the existing 48 States and the District of Columbia”.
+<b>1959</b>—Subsec. (c)(1). Pub. L. 86–70 substituted “the District of Columbia and the States other than Alaska” for “the existing 48 States and the District of Columbia”.
 
 #### Effective Date of 1982 Amendment
 

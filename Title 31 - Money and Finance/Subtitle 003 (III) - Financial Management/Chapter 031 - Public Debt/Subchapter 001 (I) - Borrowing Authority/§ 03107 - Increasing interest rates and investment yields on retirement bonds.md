@@ -28,7 +28,7 @@ Enactment of the Tax Reform Act of 1984, referred to in text, means the date of 
 
 #### Amendments
 
-1984—Pub. L. 98–369 inserted “, as in effect before the enactment of the Tax Reform Act of 1984” after “(26 U.S.C. 405(b), 409(a))”.
+<b>1984</b>—Pub. L. 98–369 inserted “, as in effect before the enactment of the Tax Reform Act of 1984” after “(26 U.S.C. 405(b), 409(a))”.
 
 #### Effective Date of 1984 Amendment
 

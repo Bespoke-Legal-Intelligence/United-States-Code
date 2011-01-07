@@ -4,7 +4,7 @@
 
 #### (1) Purpose; eligible recipients
 
-&emsp;From sums appropriated pursuant to paragraphs (3) and (4)(A) of section 1071(b) of this title, the Secretary is authorized to make advances to any State with which the Secretary has made an agreement pursuant to section 1078(b) of this title for the purpose of helping to establish or strengthen the reserve fund of the student loan insurance program covered by that agreement. If for any fiscal year a State does not have a student loan insurance program covered by an agreement made pursuant to section 1078(b) of this title, and the Secretary determines after consultation with the chief executive officer of that State that there is no reasonable likelihood that the State will have such a student loan insurance program for such year, the Secretary may make advances for such year for the same purpose to one or more nonprofit private institutions or organizations with which the Secretary has made an agreement pursuant to section 1078(b) of this title in order to enable students in the State to participate in a program of student loan insurance covered by such an agreement. The Secretary may make advances under this subsection both to a State program (with which he has such an agreement) and to one or more nonprofit private institutions or organizations (with which he has such an agreement) in that State if he determines that such advances are necessary in order that students in each eligible institution have access through such institution to a student loan insurance program which meets the requirements of section 1078(b)(1) of this title.
+&emsp;From sums appropriated pursuant to paragraphs (3) and (4)(A) of section 1071(b) of this title, the Secretary is authorized to make advances to any State with which the Secretary has made an agreement pursuant to section1078(b) of this title for the purpose of helping to establish or strengthen the reserve fund of the student loan insurance program covered by that agreement. If for any fiscal year a State does not have a student loan insurance program covered by an agreement made pursuant to section 1078(b) of this title, and the Secretary determines after consultation with the chief executive officer of that State that there is no reasonable likelihood that the State will have such a student loan insurance program for such year, the Secretary may make advances for such year for the same purpose to one or more nonprofit private institutions or organizations with which the Secretary has made an agreement pursuant to section 1078(b) of this title in order to enable students in the State to participate in a program of student loan insurance covered by such an agreement. The Secretary may make advances under this subsection both to a State program (with which he has such an agreement) and to one or more nonprofit private institutions or organizations (with which he has such an agreement) in that State if he determines that such advances are necessary in order that students in each eligible institution have access through such institution to a student loan insurance program which meets the requirements of section 1078(b)(1) of this title.
 
 #### (2) Matching requirement
 
@@ -40,7 +40,7 @@
 
 #### (1) Use for payment of insurance obligations
 
-&emsp;From sums appropriated pursuant to section 1071(b)(4)(B) of this title, the Secretary shalladvance to each State which has an agreement with the Secretary under section 1078(c) of this title with respect to a student loan insurance program, an amount determined in accordance with paragraph (2) of this subsection to be used for the purpose of making payments under the State's insurance obligations under such program.
+&emsp;From sums appropriated pursuant to section 1071(b)(4)(B) of this title, the Secretary shall advance to each State which has an agreement with the Secretary under section 1078(c) of this title with respect to a student loan insurance program, an amount determined in accordance with paragraph (2) of this subsection to be used for the purpose of making payments under the State's insurance obligations under such program.
 
 #### (2) Amount of advances
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(ii) the amount of the unspent balance of the advances made to a State pursuant to subsection (a) of this section.
 
-> &emsp;Notwithstanding subparagraph (A) and the preceding sentence of this subparagraph, but subject to subparagraph (D) of this paragraph, the amount of any advance to a State described in paragraph (5)(A) for the first year of its eligibility under such paragraph, and the amount of any advance to any State described in paragraph (5)(B) for each year of its eligibility under such paragraph, shall not be less than $50,000.
+> &emsp;Notwithstanding subparagraph (A) and the preceding sentence of this subparagraph, but subject to subparagraph (D) of this paragraph, the amount of any advance to a State described in paragraph (5)(A) for the first year of its eligibility under such paragraph, and theamount of any advance to any State described in paragraph (5)(B) for each year of its eligibility under such paragraph, shall not be less than $50,000.
 
 &emsp;(C) For the purpose of subparagraph (B), the unspent balance of the advances made to a State pursuant to subsection (a) of this section shall be that portion of the balance of the State's reserve fund (remaining at the time of the State's first request for an advance pursuant to this subsection) which bears the same ratio to such balance as the Federal advances made and not returned by such State, pursuant to subsection (a) of this section, bears to the total of all past contributions to such reserve funds from all sources (other than interest on investment of any portion of the reserve fund) contributed since the date such State executed an agreement pursuant to section 1078(b) of this title.
 
@@ -142,7 +142,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (1) Authority to recover funds
 
-&emsp;Notwithstanding any other provision of law, the reserve funds of the guaranty agencies, and any assets purchased with such reserve funds, regardless of who holds or controls the reserves or assets, shall be considered to be the property of the United States to be used in the operation of the program authorized by this part. However, the Secretary may not require the return of all reserve funds of a guaranty agency to the Secretary unless the Secretary determines that such return is in the best interest of the operation of the program authorized by this part, or to ensure the proper maintenance of such agency's funds or assets or the orderly termination of the guaranty agency's operations and the liquidation of its assets. The reserves shall be maintainedby each guaranty agency to pay program expenses and contingent liabilities, as authorized by the Secretary, except that—
+&emsp;Notwithstanding any other provision of law, the reserve funds of the guaranty agencies, and any assets purchased with such reserve funds, regardless of who holds or controls the reserves or assets, shall be considered to be the property of the United States to be used in the operation of the program authorized by this part. However, the Secretary may not require the return of all reserve funds of a guaranty agency to the Secretary unless the Secretary determines that such return is in the best interest of the operation of the program authorized by this part, or to ensure the proper maintenance of such agency's funds or assets or the orderly termination of the guaranty agency's operations and the liquidation of its assets. The reserves shall be maintained by each guaranty agency to pay program expenses and contingent liabilities, as authorized by the Secretary, except that—
 
 &emsp;&emsp;(A) the Secretary may direct a guaranty agency to return to the Secretary a portion of its reserve fund which the Secretary determines is unnecessary to pay the program expenses and contingent liabilities of the guaranty agency;
 
@@ -204,7 +204,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (B) Requirement
 
-&emsp;&emsp;A guaranty agency shall not use the funds in such a restricted account for any purpose without the express written permission of the Secretary, except that a guaranty agency may use the earnings from such restricted account for default reduction activities.
+&emsp;&emsp;A guaranty agency shall not use the funds in such a restricted account for any purposewithout the express written permission of the Secretary, except that a guaranty agency may use the earnings from such restricted account for default reduction activities.
 
 #### (C) Installments
 
@@ -278,7 +278,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 &emsp;&emsp;The term “reserve funds” when used with respect to a guaranty agency—
 
-&emsp;&emsp;&emsp;(i) includes any reserve funds in cash or liquid assets held by the guaranty agency, or held by, or under the control of, any other entity; and
+&emsp;&emsp;&emsp;(i) includes any reserve funds in cash or liquid assets held by the guaranty agency,or held by, or under the control of, any other entity; and
 
 &emsp;&emsp;&emsp;(ii) does not include buildings, equipment, or other nonliquid assets.
 
@@ -342,7 +342,7 @@ A prior section 1072, Pub. L. 89–329, title IV, §422, Nov. 8, 1965, 79 Stat. 
 
 #### Amendments
 
-1998—Subsec. (a)(2). Pub. L. 105–244, §412(1), substituted “section 1078(c)(9)(E)” for “section 1078(c)(10)(E)” in concluding provisions.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–244, §412(1), substituted “section 1078(c)(9)(E)” for “section 1078(c)(10)(E)” in concluding provisions.
 
 Subsec. (c)(6)(B)(i). Pub. L. 105–244, §412(2)(A), substituted “written, electronic,” for “written”.
 
@@ -354,21 +354,21 @@ Subsec. (g)(1). Pub. L. 105–244, §412(3), struck out “or the program author
 
 Subsec. (i). Pub. L. 105–244, §412(4), added subsec. (i).
 
-1997—Subsec. (h). Pub. L. 105–33 added subsec. (h).
+<b>1997</b>—Subsec. (h). Pub. L. 105–33 added subsec. (h).
 
-1993—Subsec. (c)(7). Pub. L. 103–66, §4041(a)(2)(A), substituted “to a guaranty agency—” and subpars. (A) and (B) for “to a guaranty agency in accordance with section 1078(c)(10)(F)(v) of this title in order to assist the agency in meeting its immediate cash needs and ensure the uninterrupted payment of default claims by lenders.”
+<b>1993</b>—Subsec. (c)(7). Pub. L. 103–66, §4041(a)(2)(A), substituted “to a guaranty agency—” and subpars. (A) and (B) for “to a guaranty agency in accordance with section 1078(c)(10)(F)(v) of this title in order to assist the agency in meeting its immediate cash needs and ensure the uninterrupted payment of default claims by lenders.”
 
 Subsec. (c)(7)(B). Pub. L. 103–208 substituted a period for semicolon at end. See Codification note above.
 
 Subsec. (g). Pub. L. 103–66, §4042, added subsec. (g).
 
-1992—Subsec. (a)(2). Pub. L. 102–325, §412(1), inserted at end “Except as provided in section 1078(c)(10)(E) or (F) of this title, such unencumbered non-Federal portion shall not be subject to recall, repayment, or recovery by the Secretary.”
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–325, §412(1), inserted at end “Except as provided in section 1078(c)(10)(E) or (F) of this title, such unencumbered non-Federal portion shall not be subject to recall, repayment, or recovery by the Secretary.”
 
 Subsec. (c)(5), (7). Pub. L. 102–325, §416(p)(8), substituted “Except as provided in paragraph (7), advances” for “Advances” in par. (5) and added par. (7).
 
 Subsecs. (e), (f). Pub. L. 102–325, §412(2), added subsecs. (e) and (f).
 
-1987—Subsec. (e). Pub. L. 100–203, §3002(a), struck out subsec. (e) which related to reduction of excess cash reserves.
+<b>1987</b>—Subsec. (e). Pub. L. 100–203, §3002(a), struck out subsec. (e) which related to reduction of excess cash reserves.
 
 Pub. L. 100–203, §3001(a), added subsec. (e).
 

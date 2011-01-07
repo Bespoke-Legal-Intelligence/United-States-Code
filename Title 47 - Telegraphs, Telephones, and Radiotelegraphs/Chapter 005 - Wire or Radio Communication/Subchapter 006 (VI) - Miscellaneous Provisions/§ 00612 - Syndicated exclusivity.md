@@ -12,7 +12,7 @@
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–414 struck out “, within 120 days after January 1, 1989,” after “The Federal Communications Commission shall”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–414 struck out “, within 120 days after January 1, 1989,” after “The Federal Communications Commission shall”.
 
 #### Effective Date
 

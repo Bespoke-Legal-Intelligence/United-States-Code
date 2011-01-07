@@ -72,23 +72,23 @@ The 1983 amendment by Pub. L. 98–151 is based on section 202(b) of H.R. 2992, 
 
 #### Amendments
 
-1996—Subsec. (q). Pub. L. 104–164 added subsec. (q).
+<b>1996</b>—Subsec. (q). Pub. L. 104–164 added subsec. (q).
 
-1992—Subsec. (g). Pub. L. 102–583 inserted “(other than construction equipment, including tractors, scrapers, loaders, graders, bulldozers, dump trucks, generators, and compressors)” after second reference to “articles”.
+<b>1992</b>—Subsec. (g). Pub. L. 102–583 inserted “(other than construction equipment, including tractors, scrapers, loaders, graders, bulldozers, dump trucks, generators, and compressors)” after second reference to “articles”.
 
-1983—Subsec. (m)(5). Pub. L. 98–151 inserted “or services provided under part VIII of subchapter II of this chapter”.
+<b>1983</b>—Subsec. (m)(5). Pub. L. 98–151 inserted “or services provided under part VIII of subchapter II of this chapter”.
 
-1980—Subsec. (m)(5). Pub. L. 96–533 added par. (5).
+<b>1980</b>—Subsec. (m)(5). Pub. L. 96–533 added par. (5).
 
-1979—Subsec. (d). Pub. L. 96–92 defined “defense article” to include uranium depleted in the isotope 235 which is incorporated in defense articles solely to take advantage of high density or pyrophoric characteristics unrelated to radioactivity.
+<b>1979</b>—Subsec. (d). Pub. L. 96–92 defined “defense article” to include uranium depleted in the isotope 235 which is incorporated in defense articles solely to take advantage of high density or pyrophoric characteristics unrelated to radioactivity.
 
-1978—Subsecs. (<i>o</i>), (p). Pub. L. 95–424 added subsecs. (<i>o</i>) and (p).
+<b>1978</b>—Subsecs. (<i>o</i>), (p). Pub. L. 95–424 added subsecs. (<i>o</i>) and (p).
 
-1976—Subsec. (f). Pub. L. 94–329, §106(b)(6)(A), struck out “training” after “inspection, repair”, inserted “but does not include military educational and training activities under part V of subchapter II”, and struck out definition of “Training”.
+<b>1976</b>—Subsec. (f). Pub. L. 94–329, §106(b)(6)(A), struck out “training” after “inspection, repair”, inserted “but does not include military educational and training activities under part V of subchapter II”, and struck out definition of “Training”.
 
 Subsec. (n). Pub. L. 94–329, §106(b)(6)(B), added subsec. (n).
 
-1973—Subsec. (g). Pub. L. 93–189, §22(1), substituted “Approved Force Acquisition Objective and Approved Force Retention Stock of all Department of Defense Components” for “mobilization reserve”.
+<b>1973</b>—Subsec. (g). Pub. L. 93–189, §22(1), substituted “Approved Force Acquisition Objective and Approved Force Retention Stock of all Department of Defense Components” for “mobilization reserve”.
 
 Subsec. (i). Pub. L. 93–189, §22(2), struck out subsec. (i) which defined “mobilization reserve”.
 
@@ -102,23 +102,23 @@ Subsec. (m). Pub. L. 93–189, §22(3), amended subsec. (m) generally. Prior to 
 
 > Military assistance programs and orders shall be based upon the best estimates of stock status and prevailing prices; reimbursements to the supplying agency shall be made on the basis of the stock status and prices determined pursuant to this section. Notwithstanding the foregoing provisions of this section, the Secretary of Defense may prescribe regulations authorizing reimbursements to the supplying agency based on negotiated prices for aircraft, vessels, plant equipment, and such other major items as he may specify: <i>Provided</i>, That such articles are not excess at the time such prices are negotiated: <i>Provided further</i>, That such prices are negotiated at the time firm orders are placed with the supplying agency.”
 
-1972—Subsec. (m). Pub. L. 92–226 substituted “ ‘Value’ means, other than in section 2417 of this title” for “ ‘Value’ means”.
+<b>1972</b>—Subsec. (m). Pub. L. 92–226 substituted “ ‘Value’ means, other than in section 2417 of this title” for “ ‘Value’ means”.
 
-1968—Subsec. (m). Pub. L. 90–629 struck out “and sales” before “programs” in text following par. (3).
+<b>1968</b>—Subsec. (m). Pub. L. 90–629 struck out “and sales” before “programs” in text following par. (3).
 
-1967—Subsec. (d). Pub. L. 90–137, §303(a)(1), excluded production facilities, utilization facilities, and articles involving Restricted Data from definition of “defense articles”.
+<b>1967</b>—Subsec. (d). Pub. L. 90–137, §303(a)(1), excluded production facilities, utilization facilities, and articles involving Restricted Data from definition of “defense articles”.
 
 Subsec. (e). Pub. L. 90–137, §303(a)(2), struck out “and formerly Restricted Data” before “as defined” and excluded data removed from the Restricted Data category under section 142d of the Atomic Energy Act of 1954 (classified to section 2162(d) of Title 42) from definition of “defense information”.
 
 Subsec. (f). Pub. L. 90–137, §303(a)(3), excluded the transfer of limited quantities of defense articles for test, evaluation, or standardization purposes from definition of “defense service” and defined “training”, incorporating existing references to orientation and training aid.
 
-1965—Subsec. (g). Pub. L. 89–171, §303(b)(1), inserted “and not procured in anticipation of military assistance or sales requirements, or pursuant to a military assistance or sales order”, and struck out “as grant assistance” after “international organizations”.
+<b>1965</b>—Subsec. (g). Pub. L. 89–171, §303(b)(1), inserted “and not procured in anticipation of military assistance or sales requirements, or pursuant to a military assistance or sales order”, and struck out “as grant assistance” after “international organizations”.
 
 Subsec. (m). Pub. L. 89–171, §303(b)(2), (3), in par. (2) substituted “Such standard price shall be the same price (including authorized reduced prices)” for “Such price shall be the same standard price”, and in unnumbered par. after par. (3) substituted “Military Assistance and sales programs” for “Military assistance programs” and struck out “by the military assistance program” after “supplying agency”.
 
-1963—Subsec. (f). Pub. L. 88–205 inserted “including orientation”.
+<b>1963</b>—Subsec. (f). Pub. L. 88–205 inserted “including orientation”.
 
-1962—Subsec. (m)(2), (3). Pub. L. 87–565 struck out “as grant assistance” after “international organizations”.
+<b>1962</b>—Subsec. (m)(2), (3). Pub. L. 87–565 struck out “as grant assistance” after “international organizations”.
 
 #### Effective Date of 1978 Amendment
 

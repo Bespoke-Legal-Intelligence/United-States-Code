@@ -80,9 +80,9 @@ The date of the enactment of this subsection, referred to in subsec. (d), probab
 
 #### Amendments
 
-2000—Subsec. (d). Pub. L. 106–181 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “For the purposes of enhancing aviation safety, in a case in which 2 landfills have been proposed to be constructed or established within 6 miles of a commercial service airport with fewer than 50,000 enplanements per year, no person shall construct or establish either landfill if an official of the Federal Aviation Administration has stated in writing within the 3-year period ending on the date of the enactment of this subsection that 1 of the landfills would be incompatible with aircraft operations at the airport, unless the landfill is already active on such date of enactment or the airport operator agrees to the construction or establishment of the landfill.”
+<b>2000</b>—Subsec. (d). Pub. L. 106–181 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “For the purposes of enhancing aviation safety, in a case in which 2 landfills have been proposed to be constructed or established within 6 miles of a commercial service airport with fewer than 50,000 enplanements per year, no person shall construct or establish either landfill if an official of the Federal Aviation Administration has stated in writing within the 3-year period ending on the date of the enactment of this subsection that 1 of the landfills would be incompatible with aircraft operations at the airport, unless the landfill is already active on such date of enactment or the airport operator agrees to the construction or establishment of the landfill.”
 
-1996—Subsec. (d). Pub. L. 104–264 added subsec. (d).
+<b>1996</b>—Subsec. (d). Pub. L. 104–264 added subsec. (d).
 
 #### Effective Date of 2000 Amendment
 
@@ -91,6 +91,152 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
+#### Study of Effects of New Construction of Obstructions on Military Installations and Operations
+
+Pub. L. 111–383, div. A, title III, §358, Jan. 7, 2011, 124 Stat. 4198, provided that:
+
+“(a)
+
+Objective.—It shall be an objective of the Department of Defense to ensure that the robust development of renewable energy sources and the increased resiliency of the commercial electrical grid may move forward in the United States, while minimizing or mitigating any adverse impacts on military operations and readiness.
+
+“(b)
+
+Designation of Senior Official and Lead Organization.—
+
+&emsp;“(1)
+
+Designation.—Not later than 30 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Secretary of Defense shall designate a senior official of the Department of Defense, and a lead organization of the Department of Defense, to—
+
+&emsp;&emsp;“(A) serve as the executive agent to carry out the review required by subsection (d);
+
+&emsp;&emsp;“(B) serve as a clearinghouse to coordinate Department of Defense review of applications for projects filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code, and received by the Department of Defense from the Secretary of Transportation; and
+
+&emsp;&emsp;“(C) accelerate the development of planning tools necessary to determine the acceptability to the Department of Defense of proposals included in an application for a project submitted pursuant to such section.
+
+&emsp;“(2)
+
+Resources.—The Secretary shall ensure that the senior official and lead organization designated under paragraph (1) are assigned such personnel and resources as the Secretary considers appropriate to carry out this section.
+
+“(c)
+
+Initial Actions.—Not later than 180 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Secretary of Defense, acting through the senior official and lead organization designated pursuant to subsection (b), shall—
+
+&emsp;“(1) conduct a preliminary review of each application for a project filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code, that may have an adverse impact on military operations and readiness, unless such project has been granted a determination of no hazard. Such review shall, at a minimum, for each such project—
+
+&emsp;&emsp;“(A) assess the likely scope and duration of any adverse impact of such project on military operations and readiness; and
+
+&emsp;&emsp;“(B) identify any feasible and affordable actions that could be taken in the immediate future by the Department, the developer of such project, or others to mitigate such adverse impact and to minimize risks to national security while allowing such project to proceed with development;
+
+&emsp;“(2) develop, in coordination with other departments and agencies of the Federal Government, an integrated review process to ensure timely notification and consideration of projects filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code, that may have an adverse impact on military operations and readiness;
+
+&emsp;“(3) establish procedures for the Department of Defense for the coordinated consideration of and response to a request for a review received from State and local officials or the developer of a renewable energy development or other energy project, including guidance to personnel at each military installation in the United States on how to initiate such procedures and ensure a coordinated Department response while seeking to fulfil \[sic\] the objective under subsection (a); and
+
+&emsp;“(4) develop procedures for conducting early outreach to parties carrying out projects filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code, that could have an adverse impact on military operations and readiness, and to the general public, to clearly communicate notice on actions being taken by the Department of Defense under this section and to receive comments from such parties and the general public on such actions.
+
+“(d)
+
+Comprehensive Review.—
+
+&emsp;“(1)
+
+Strategy required.—Not later than 270 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Secretary of Defense, acting through the senior official and lead organization designated pursuant to subsection (b), shall develop a comprehensive strategy for addressing the military impacts of projects filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code.
+
+&emsp;“(2)
+
+Elements.—In developing the strategy required by paragraph (1), the Secretary of Defense shall—
+
+&emsp;&emsp;“(A) assess of the magnitude of interference posed by projects filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code;
+
+&emsp;&emsp;“(B) identify geographic areas selected as proposed locations for projects filed, or which may be filed in the future, with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code, where such projects could have an adverse impact on military operations and readiness and categorize the risk of adverse impact in such areas as high, medium, or low for the purpose of informing early outreach efforts under subsection (c)(4) and preliminary assessments under subsection (e); and
+
+&emsp;&emsp;“(C) specifically identify feasible and affordable long-term actions that may be taken to mitigate adverse impacts of projects filed, or which may be filed in the future, with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code, on military operations and readiness, including—
+
+&emsp;&emsp;&emsp;“(i) investment priorities of the Department of Defense with respect to research and development;
+
+&emsp;&emsp;&emsp;“(ii) modifications to military operations to accommodate applications for such projects;
+
+&emsp;&emsp;&emsp;“(iii) recommended upgrades or modifications to existing systems or procedures by the Department of Defense;
+
+&emsp;&emsp;&emsp;“(iv) acquisition of new systems by the Department and other departments and agencies of the Federal Government and timelines for fielding such new systems; and
+
+&emsp;&emsp;&emsp;“(v) modifications to the projects for which such applications are filed, including changes in size, location, or technology.
+
+“(e)
+
+Department of Defense Hazard Assessment.—
+
+&emsp;“(1)
+
+Preliminary assessment.—The procedures established pursuant to subsection (c) shall ensure that not later than 30 days after receiving a proper application for a project filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code, the Secretary of Defense shall review the project and provide a preliminary assessment of the level of risk of adverse impact on military operations and readiness that would arise from the project and the extent of mitigation that may be needed to address such risk.
+
+&emsp;“(2)
+
+Determination of unacceptable risk.—The procedures established pursuant to subsection (c) shall ensure that the Secretary of Defense does not object to a project filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code, except in a case in which the Secretary of Defense determines, after giving full consideration to mitigation actions identified pursuant to this section, that such project would result in an unacceptable risk to the national security of the United States.
+
+&emsp;“(3)
+
+Congressional notice requirement.—Not later than 30 days after making a determination of unacceptable risk under paragraph (2), the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on such determination and the basis for such determination. Such a report shall include an explanation of the operational impact that led to the determination, a discussion of the mitigation options considered, and an explanation of why the mitigation options were not feasible or did not resolve the conflict.
+
+&emsp;“(4)
+
+Non-delegation of determinations.—The responsibility for making a determination of unacceptable risk under paragraph (2) may only be delegated to an appropriate senior officer of the Department of Defense, on the recommendation of the senior official designated pursuant to subsection (b). The following individuals are appropriate senior officers of the Department of Defense for the purposes of this paragraph:
+
+&emsp;&emsp;“(A) The Deputy Secretary of Defense.
+
+&emsp;&emsp;“(B) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+&emsp;&emsp;“(C) The Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+“(f)
+
+Reports.—
+
+&emsp;“(1)
+
+Report to congress.—Not later than March 15 each year from 2011 through 2015, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the actions taken by the Department of Defense during the preceding year to implement this section and the comprehensive strategy developed pursuant to this section.
+
+&emsp;“(2)
+
+Contents of report.—Each report submitted under paragraph (1) shall include—
+
+&emsp;&emsp;“(A) the results of a review carried out by the Secretary of Defense of any projects filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code—
+
+&emsp;&emsp;&emsp;“(i) that the Secretary of Defense has determined would result in an unacceptable risk to the national security; and
+
+&emsp;&emsp;&emsp;“(ii) for which the Secretary of Defense has recommended to the Secretary of Transportation that a hazard determination be issued;
+
+&emsp;&emsp;“(B) an assessment of the risk associated with the loss or modifications of military training routes and a quantification of such risk;
+
+&emsp;&emsp;“(C) an assessment of the risk associated with solar power and similar systems as to the effects of glint on military readiness;
+
+&emsp;&emsp;“(D) an assessment of the risk associated with electromagnetic interference on military readiness, including the effects of testing and evaluation ranges;
+
+&emsp;&emsp;“(E) an assessment of any risks posed by the development of projects filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code, to the prevention of threats and aggression directed toward the United States and its territories; and
+
+&emsp;&emsp;“(F) a description of the distance from a military installation that the Department of Defense will use to prescreen applicants under section 44718 of title 49, United States Code.
+
+“(g)
+
+Authority to Accept Contributions of Funds.—The Secretary of Defense is authorized to accept a voluntary contribution of funds from an applicant for a project filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code. Amounts so accepted shall be available for the purpose of offsetting the cost of measures undertaken by the Secretary of Defense to mitigate adverse impacts of such project on military operations and readiness.
+
+“(h)
+
+Effect of Department of Defense Hazard Assessment.—An action taken pursuant to this section shall not be considered to be a substitute for any assessment or determination required of the Secretary of Transportation under section 44718 of title 49, United States Code.
+
+“(i)
+
+Savings Provision.—Nothing in this section shall be construed to affect or limit the application of, or any obligation to comply with, any environmental law, including the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+
+“(j)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘military training route’ means a training route developed as part of the Military Training Route Program, carried out jointly by the Federal Aviation Administration and the Secretary of Defense, for use by the Armed Forces for the purpose of conducting low-altitude, high-speed military training.
+
+&emsp;“(2) The term ‘military installation’ has the meaning given that term in section 2801(c)(4) of title 10, United States Code.
+
+&emsp;“(3) The term ‘military readiness’ includes any training or operation that could be related to combat readiness, including testing and evaluation activities.”
 
 #### Landfills Interfering With Air Commerce
 

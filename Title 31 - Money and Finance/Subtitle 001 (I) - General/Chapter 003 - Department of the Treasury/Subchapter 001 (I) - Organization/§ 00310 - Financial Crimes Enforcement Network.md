@@ -84,11 +84,11 @@ Authorization of Appropriations.—
 
 &emsp;(1)
 
-In general.—There are authorized to be appropriated for FinCEN such sums as may be necessary for fiscal years 2002, 2003, 2004, and 2005.
+In general.—There are authorized to be appropriated for FinCEN $100,419,000 for fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 and 2013.
 
 &emsp;(2)
 
-Authorization for funding key technological improvements in mission-critical fincen systems.—There are authorized to beappropriated for fiscal year 2005 the following amounts, which are authorized to remain available until expended:
+Authorization for funding key technological improvements in mission-critical fincen systems.—There are authorized to be appropriated for fiscal year 2005 the following amounts, which are authorized to remain available until expended:
 
 &emsp;&emsp;(A) BSA
 
@@ -110,7 +110,7 @@ Enhanced compliance capability.—To improve the effectiveness of the Office of 
 
 Detection and prevention of financial crimes and terrorism.—To provide development of, and training in the use of, technology to detect and prevent financial crimes and terrorism within and without the United States, $8,000,000.
 
-(Added Pub. L. 107–56, title III, §361(a)(2), Oct. 26, 2001, 115 Stat. 329; amended Pub. L. 108–458, title VI, §§6101, 6203(a), Dec. 17, 2004, 118 Stat. 3744, 3746.)
+(Added Pub. L. 107–56, title III, §361(a)(2), Oct. 26, 2001, 115 Stat. 329; amended Pub. L. 108–458, title VI, §§6101, 6203(a), Dec. 17, 2004, 118 Stat. 3744, 3746; Pub. L. 111–195, title I, §109(c), July 1, 2010, 124 Stat. 1338.)
 
 #### References in Text
 
@@ -118,17 +118,19 @@ Chapter 2 of title I of Public Law 91–508, referred to in subsec. (b)(2)(B)(i)
 
 Section 21 of the Federal Deposit Insurance Act, referred to in subsec. (b)(2)(B)(i), (C)(iii), (I), is classified to section 1829b of Title 12, Banks and Banking.
 
-The Right to Financial Privacy Act of 1978, referred to in subsec. (c)(2), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, as amended, which is classified generally to chapter 35 (§3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
+The Right to Financial Privacy Act of 1978, referred to in subsec. (c)(2), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
 
 Section 362 of Public Law 107–56, referred to in subsec. (d)(2)(A), is set out as a note below.
 
 #### Prior Provisions
 
-A prior section 310 was renumbered section 312 of this title.
+A prior section 310 was renumbered section 315 of this title.
 
 #### Amendments
 
-2004—Subsec. (c)(1), (2)(A). Pub. L. 108–458, §6203(a), substituted “FinCEN” for “the Network”.
+<b>2010</b>—Subsec. (d)(1). Pub. L. 111–195 substituted “$100,419,000 for fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 and 2013” for “such sums as may be necessary for fiscal years 2002, 2003, 2004, and 2005”.
+
+<b>2004</b>—Subsec. (c)(1), (2)(A). Pub. L. 108–458, §6203(a), substituted “FinCEN” for “the Network”.
 
 Subsec. (d). Pub. L. 108–458, §6101, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 

@@ -12,7 +12,7 @@ Each inspection of a plant, plant site, or other facility or location in the Uni
 
 #### (2) Time of notification
 
-&emsp;The notice for a routine inspection shall be submitted to the owner and to the operator,occupant, or agent in charge within six hours of receiving the notification of the inspection from the Technical Secretariat or as soon as possible thereafter. Notice for a challenge inspection shall be provided at any appropriate time determined by the United States National Authority. Notices may be posted prominently at the plant, plant site, or other facility or location if the United States is unable to provide actual written notice to the owner, operator, or agent in charge of the premises.
+&emsp;The notice for a routine inspection shall be submitted to the owner and to the operator, occupant, or agent in charge within six hours of receiving the notification of the inspection from the Technical Secretariat or as soon as possible thereafter. Notice for a challenge inspection shall be provided at any appropriate time determined by the United States National Authority. Notices may be posted prominently at the plant, plant site, or other facility or location if the United States is unable to provide actual written notice to the owner, operator, or agent in charge of the premises.
 
 #### (3) Content of notice
 
@@ -92,5 +92,5 @@ This chapter, referred to in subsec. (f)(1), was in the original “this Act” 
 
 #### Amendments
 
-2001—Subsec. (c). Pub. L. 107–107 substituted “Federal Government (and, in the case of an inspection of a United States Government facility, any accompanying contractor personnel)” for “Federal government”.
+<b>2001</b>—Subsec. (c). Pub. L. 107–107 substituted “Federal Government (and, in the case of an inspection of aUnited States Government facility, any accompanying contractor personnel)” for “Federal government”.
 

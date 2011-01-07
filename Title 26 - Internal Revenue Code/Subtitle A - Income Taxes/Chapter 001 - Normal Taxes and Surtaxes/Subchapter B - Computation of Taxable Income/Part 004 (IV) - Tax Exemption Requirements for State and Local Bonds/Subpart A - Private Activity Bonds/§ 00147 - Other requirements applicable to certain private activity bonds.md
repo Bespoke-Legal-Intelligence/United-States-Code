@@ -340,7 +340,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (c)(2)(A). Pub. L. 110–246, §15341(a), substituted “$450,000” for “$250,000”.
+<b>2008</b>—Subsec. (c)(2)(A). Pub. L. 110–246, §15341(a), substituted “$450,000” for “$250,000”.
 
 Subsec. (c)(2)(C)(i)(II). Pub. L. 110–246, §15341(d), substituted “the amount in effect under subparagraph (A)” for “$250,000”.
 
@@ -352,19 +352,19 @@ Subsec. (c)(2)(E). Pub. L. 110–246, §15341(c), substituted “unless such par
 
 Subsec. (c)(2)(H). Pub. L. 110–246, §15341(b), added subpar. (H).
 
-2001—Subsec. (h). Pub. L. 107–16, §§422(e), 901, temporarily substituted “certain bonds” for “mortgage revenue bonds, qualified student loan bonds, and qualified 501(c)(3) bonds” in heading. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (h). Pub. L. 107–16, §§422(e), 901, temporarily substituted “certain bonds” for “mortgage revenue bonds, qualified student loan bonds, and qualified 501(c)(3) bonds” in heading. See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (h)(3). Pub. L. 107–16, §§422(d), 901, temporarily added par. (3). See Effective and Termination Dates of 2001 Amendment note below.
 
-1996—Subsec. (c)(2)(E)(i). Pub. L. 104–188, §1117(b), substituted “30 percent” for “15 percent”.
+<b>1996</b>—Subsec. (c)(2)(E)(i). Pub. L. 104–188, §1117(b), substituted “30 percent” for “15 percent”.
 
 Subsec. (c)(2)(G). Pub. L. 104–188, §1117(a), added subpar. (G).
 
-1990—Subsec. (d)(3)(B). Pub. L. 101–508 substituted “section 47(c)(2)(B)” for “section 48(g)(2)(B)”.
+<b>1990</b>—Subsec. (d)(3)(B). Pub. L. 101–508 substituted “section 47(c)(2)(B)” for “section 48(g)(2)(B)”.
 
-1989—Subsec. (c)(3). Pub. L. 101–239 inserted a comma after “mass commuting facility” in introductory provisions and in subpar. (A).
+<b>1989</b>—Subsec. (c)(3). Pub. L. 101–239 inserted a comma after “mass commuting facility” in introductory provisions and in subpar. (A).
 
-1988—Subsec. (c)(3). Pub. L. 100–647, §6180(b)(4), inserted “high-speed intercity rail facility” after “mass commuting facility” in introductory text and in subpar. (A).
+<b>1988</b>—Subsec. (c)(3). Pub. L. 100–647, §6180(b)(4), inserted “high-speed intercity rail facility” after “mass commuting facility” in introductory text and in subpar. (A).
 
 Subsec. (e). Pub. L. 100–647, §1013(a)(11), struck out “treated as” after “shall not be”.
 
@@ -392,7 +392,7 @@ Pub. L. 110–234, title XV, §15341(e), May 22, 2008, 122 Stat. 1517, and Pub. 
 
 Amendment by Pub. L. 107–16 applicable to bonds issued after Dec. 31, 2001, see section 422(f) of Pub. L. 107–16, set out as a note under section 142 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1996 Amendment
 

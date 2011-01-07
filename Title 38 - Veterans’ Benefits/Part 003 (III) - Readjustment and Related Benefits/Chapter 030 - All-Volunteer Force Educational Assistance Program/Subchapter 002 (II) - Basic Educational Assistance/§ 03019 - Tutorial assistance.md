@@ -12,7 +12,7 @@
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1419 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1419 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “3492” for “1692”.
 

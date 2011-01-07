@@ -14,7 +14,7 @@
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–647, §323(c)(1), struck out “or a visual depiction of a minor engaging in or assisting another person to engage in sexually explicit conduct,” after “visual depiction” in concluding provisions.
+<b>1990</b>—Subsec. (a). Pub. L. 101–647, §323(c)(1), struck out “or a visual depiction of a minor engaging in or assisting another person to engage in sexually explicit conduct,” after “visual depiction” in concluding provisions.
 
 Subsec. (b). Pub. L. 101–647, §323(c)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purposes of this section—
 

@@ -58,7 +58,7 @@ A prior section 3030g–21, Pub. L. 89–73, title III, §339, as added Pub. L. 
 
 #### Amendments
 
-2006—Par. (1). Pub. L. 109–365, §316(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “solicit the advice of a dietitian or individual with comparable expertise in the planning of nutritional services, and”.
+<b>2006</b>—Par. (1). Pub. L. 109–365, §316(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “solicit the advice of a dietitian or individual with comparable expertise in the planning of nutritional services, and”.
 
 Par. (2)(A)(i). Pub. L. 109–365, §316(2)(A)(i), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “comply with the Dietary Guidelines for Americans, published by the Secretary and the Secretary of Agriculture,”.
 

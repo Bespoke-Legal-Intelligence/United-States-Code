@@ -6,7 +6,7 @@ The property acquired under the provisions of section 450bb of this title shall 
 
 #### Amendments
 
-2004—Pub. L. 108–307 substituted “Secretary” for “Secretary of the Interior” in second sentence.
+<b>2004</b>—Pub. L. 108–307 substituted “Secretary” for “Secretary of the Interior” in second sentence.
 
 #### Change of Name
 

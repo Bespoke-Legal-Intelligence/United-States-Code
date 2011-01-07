@@ -24,13 +24,13 @@ As finally enacted, act July 9, 1947, ch. 211, title IV, 61 Stat. 304, which was
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–406, §5(a), struck out “publicly” after “judge shall” in first sentence and inserted “The clerk or jury commission shall post a general notice for public review in the clerk's office and on the court's website explaining the process by which names are periodically and randomly drawn.” after first sentence.
+<b>2008</b>—Subsec. (a). Pub. L. 110–406, §5(a), struck out “publicly” after “judge shall” in first sentence and inserted “The clerk or jury commission shall post a general notice for public review in the clerk's office and on the court's website explaining the process by which names are periodically and randomly drawn.” after first sentence.
 
 Subsec. (b). Pub. L. 110–406, §17(a), substituted “$1,000, imprisoned not more than three days, ordered to perform community service, or any combination thereof.” for “$100 or imprisoned not more than three days, or both.” in two places.
 
-1988—Subsec. (a). Pub. L. 100–702 amended second sentence generally. Prior to amendment, second sentence read as follows: “The clerk or jury commission shall prepare an alphabetical list of the names drawn, which list shall not be disclosed to any person except pursuant to the district court plan and to sections 1867 and 1868 of this title.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–702 amended second sentence generally. Prior to amendment, second sentence read as follows: “The clerk or jury commission shall prepare an alphabetical list of the names drawn, which list shall not be disclosed to any person except pursuant to the district court plan and to sections 1867 and 1868 of this title.”
 
-1968—Pub. L. 90–274 substituted provisions for the public drawing of names from the master jury wheel, the completion of the jury qualification form, and the penalties for failure to appear and for misrepresentation of material facts for provisions requiring the drawing of names from a jury box, the refilling of the box by the clerk and a jury commissioner, the requirements and compensation of the commissioner, and the alternate placement of names by the clerk and the commissioner.
+<b>1968</b>—Pub. L. 90–274 substituted provisions for the public drawing of names from the master jury wheel, the completion of the jury qualification form, and the penalties for failure to appear and for misrepresentation of material facts for provisions requiring the drawing of names from a jury box, the refilling of the box by the clerk and a jury commissioner, the requirements and compensation of the commissioner, and the alternate placement of names by the clerk and the commissioner.
 
 #### Effective Date of 1968 Amendment
 

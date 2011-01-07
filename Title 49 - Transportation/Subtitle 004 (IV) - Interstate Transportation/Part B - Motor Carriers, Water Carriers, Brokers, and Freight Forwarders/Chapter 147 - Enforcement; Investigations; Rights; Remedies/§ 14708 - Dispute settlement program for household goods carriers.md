@@ -30,7 +30,7 @@ Apportionment of costs.—No shipper may be charged more than half of the cost f
 
 &emsp;(6)
 
-Requests.—The carrier must not require the shipper to agree to utilize arbitration prior to the time that a dispute arises. If the dispute involves a claim for $10,000 or less and the shipper requests arbitration, such arbitration shall be binding on the parties. If the dispute involves a claim for more than $10,000 and the shipper requests arbitration, such arbitration shall be binding on the parties only if the carrier agrees to arbitration.
+Requests.—The carrier must not require the shipper to agree to utilize arbitrationprior to the time that a dispute arises. If the dispute involves a claim for $10,000 or less and the shipper requests arbitration, such arbitration shall be binding on the parties. If the dispute involves a claim for more than $10,000 and the shipper requests arbitration, such arbitration shall be binding on the parties only if the carrier agrees to arbitration.
 
 &emsp;(7)
 
@@ -60,7 +60,7 @@ Attorney's Fees to Shippers.—In any court action to resolve a dispute between 
 
 (e)
 
-Attorney's Fees to Carriers.—In any court action to resolve a dispute between a shipper of household goods and a carrier providing transportation, or service subject to jurisdictionunder subchapter I or III of chapter 135 concerning the transportation of household goods by such carrier, such carrier may be awarded reasonable attorney's fees by the court only if the shipper brought such action in bad faith—
+Attorney's Fees to Carriers.—In any court action to resolve a dispute between a shipper of household goods and a carrier providing transportation, or service subject to jurisdiction under subchapter I or III of chapter 135 concerning the transportation of household goods by such carrier, such carrier may be awarded reasonable attorney's fees by the court only if the shipper brought such action in bad faith—
 
 &emsp;(1) after resolution of such dispute through arbitration under this section; or
 
@@ -86,7 +86,7 @@ Provisions similar to those in this section were contained in section 11711 of t
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–59, §4208(a), inserted “and to determine whether carrier charges, in addition to those collected at delivery, must be paid by shippers for transportation and services related to transportation of household goods” before period at end.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §4208(a), inserted “and to determine whether carrier charges, in addition to those collected at delivery, must be paid by shippers for transportation and services related to transportation of household goods” before period at end.
 
 Subsec. (b)(6). Pub. L. 109–59, §4208(b), substituted “$10,000” for “$5,000” in two places.
 
@@ -94,7 +94,7 @@ Subsec. (b)(8). Pub. L. 109–59, §4208(c), substituted “compensation for dam
 
 Subsec. (d)(3). Pub. L. 109–59, §4208(d), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
-1999—Subsec. (b)(6). Pub. L. 106–159 substituted “$5000” for “$1000” in two places.
+<b>1999</b>—Subsec. (b)(6). Pub. L. 106–159 substituted “$5000” for “$1000” in two places.
 
-1996—Subsec. (g). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of this section”.
+<b>1996</b>—Subsec. (g). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of this section”.
 

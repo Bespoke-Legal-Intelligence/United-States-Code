@@ -12,7 +12,7 @@ In General.—The Secretary of Defense shall take steps to—
 
 (b)
 
-Consideration of Recommendations.—In carrying out subsection (a), the Secretary of Defense shall consider the recommendations on courses of action for the Civil Reserve Air Fleet as outlined in the report required by Section <sup>1</sup> 356 of the National Defense Authorization Act for 2008 <sup>2</sup> (Public Law 110–181).
+Consideration of Recommendations.—In carrying out subsection (a), the Secretary of Defense shall consider the recommendations on courses of action for the Civil Reserve Air Fleet as outlined in the report required by section 1356 of the National Defense Authorization Act for Fiscal Year 2008 <sup>1</sup> (Public Law 110–181).
 
 (c)
 
@@ -38,7 +38,7 @@ Aggregate Minimum Purchase Amount.—(1) The aggregate amount of the minimum pur
 
 Allocation of Minimum Purchase Among Charter Air Transportation Contracts.—(1) The aggregate amount of the minimum purchase amount for all contracts awarded under subsection (c) for a fiscal year, as determined under subsection (e), shall be allocated among all air carriers and air carrier contractor team arrangements awarded contracts under subsection (c) for such fiscal year in proportion to the commitments of such carriers to the Civil Reserve Air Fleet for such fiscal year.
 
-(2) In determining the minimum purchase amount payable under paragraph (1) under a contract under subsection (c) for charter air transportation services provided by an air carrier or air carrier contractor team arrangement during the fiscal year covered by such contract, the Secretary of Defense may adjust the amount allocated to such carrier or arrangement under paragraph (2) <sup>3</sup> to take into account periods during such fiscal year when charter air transportation services of such carrier or a carrier in such arrangement are unavailable for usage by the Department of Defense, including during periods of refused business or suspended operations or when such carrier is placed in nonuse status pursuant to section 2640 of this title for safety reasons.
+(2) In determining the minimum purchase amount payable under paragraph (1) under a contract under subsection (c) for charter air transportation services provided by an air carrier or air carrier contractor team arrangement during the fiscal year covered by such contract, the Secretary of Defense may adjust the amount allocated to such carrier or arrangement under paragraph (1) to take into account periods during such fiscal year when charter air transportation services of such carrier or a carrier in such arrangement are unavailable for usage by the Department of Defense, including during periods of refused business or suspended operations or when such carrier is placed in nonuse status pursuant to section 2640 of this title for safety reasons.
 
 (g)
 
@@ -58,17 +58,25 @@ Availability of Airlift Services.—(1) From the total amount of charter air tra
 
 (j)
 
-Definition.—In this section, the term “charter air transportation” has the meaning given such term in section 40102(14) of title 49, United States Code, except that it only means such transportation for which the Secretary of Defense has entered into a contract for the purpose of passenger travel.
+Definition.—In this section, the term “charter air transportation” has the meaning given such term in section 40102(14) of title 49, except that it only means such transportation for which the Secretary of Defense has entered into a contract for the purpose of passenger travel.
 
 (k)
 
 Sunset.—The authorities in this section shall expire on December 31, 2015.
 
-(Added Pub. L. 110–417, \[div. A\], title X, §1033(a), Oct. 14, 2008, 122 Stat. 4591.)
+(Added Pub. L. 110–417, \[div. A\], title X, §1033(a), Oct. 14, 2008, 122 Stat. 4591; amended Pub. L. 111–383, div. A, title X, §1075(b)(50), Jan. 7, 2011, 124 Stat. 4371.)
 
 #### References in Text
 
-Section 356 of the National Defense Authorization Act for 2008, referred to in subsec. (b), probably means section 356 of the National Defense Authorization Act for Fiscal Year 2008, Pub. L. 110–181, div. A, title III, Jan. 28, 2008, 122 Stat. 74, which is not classified to the Code.
+Section 1356 of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (b), probably means section 356 of the National Defense Authorization Act for Fiscal Year 2008, Pub. L. 110–181, div. A, title III, Jan. 28, 2008, 122 Stat. 74, which is not classified to the Code. The Act does not contain a section 1356.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (b). Pub. L. 111–383, §1075(b)(50)(A), which directed substitution of “section 1356 of the National Defense Authorization Act for Fiscal Year 2008” for “Section 1356 of the National Defense Authorization Act for 2008” was executed by making the substitution for “Section 356 of the National Defense Authorization Act for 2008” to reflect the probable intent of Congress.
+
+Subsec. (f)(2). Pub. L. 111–383, §1075(b)(50)(B), substituted “arrangement under paragraph (1)” for “arrangement under paragraph (2)”.
+
+Subsec. (j). Pub. L. 111–383, §1075(b)(50)(C), which directed striking out “United States Code,” after “title 49,” in par. (1), was executed by making the amendment in text of subsec. (j) to reflect the probable intent of Congress. Subsec. (j) does not contain a par. (1).
 
 #### Report to Congress; Limitation on Exercise of Authority
 
@@ -81,4 +89,6 @@ Report.—The Secretary of Defense shall submit to the congressional defense com
 “(2)
 
 Limitation.—No authority under subsections (c) through (I) \[sic\] of such section may be implemented until 30 days after the date on which the Secretary submits the report required under paragraph (1).”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

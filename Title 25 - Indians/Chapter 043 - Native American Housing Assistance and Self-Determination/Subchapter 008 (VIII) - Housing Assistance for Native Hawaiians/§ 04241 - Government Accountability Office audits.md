@@ -10,5 +10,5 @@ Pub. L. 106–568, §203, and Pub. L. 106–569, §513, enacted identical sectio
 
 #### Amendments
 
-2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline.
+<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline.
 

@@ -10,7 +10,7 @@ Mandatory Refusal.—The Under Secretary of Transportation for Security shall pr
 
 (b)
 
-Permissive Refusal.—Subject to regulations of the Under Secretary, an air carrier,intrastate air carrier, or foreign air carrier may refuse to transport a passenger or property the carrier decides is, or might be, inimical to safety.
+Permissive Refusal.—Subject to regulations of the Under Secretary, an air carrier, intrastate air carrier, or foreign air carrier may refuse to transport a passenger or property the carrier decides is, or might be, inimical to safety.
 
 (c)
 
@@ -54,7 +54,7 @@ In subsection (c), the words “for compensation or hire” are omitted because 
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–71 substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration” in introductory provisions.
+<b>2001</b>—Subsec. (a). Pub. L. 107–71 substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration” in introductory provisions.
 
 Subsec. (b). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator”.
 

@@ -6,11 +6,11 @@ The Secretary shall make an agreement with any State which is able and willing t
 
 #### (b) Payment in advance or by way of reimbursement to State for performance of functions of subsection (a)
 
-The Secretary shall pay any such State, in advance or by way of reimbursement, as may be provided in the agreement with it (and may make adjustments in such payments on account of overpayments or underpayments previously made), for the reasonable cost of performing the functions specified in subsection (a) of this section, and for the Federal Hospital Insurance Trust Fund's fair share of the costs attributable to the planning and other efforts directed toward coordination of activities in carrying out its agreement and other activities related to the provision of services similar to those for which payment may be made under part A of this subchapter, or related to the facilities and personnel required for the provision of such services, or related to improving the quality of such services.
+The Secretary shall pay any such State, in advance or by way of reimbursement, as may be provided in the agreement with it (and may make adjustments in such payments on account of overpayments or underpayments previously made), for the reasonable cost of performing the functions specified in subsection (a) of this section, and for the Federal Hospital Insurance Trust Fund's fair share of the costs attributableto the planning and other efforts directed toward coordination of activities in carrying out its agreement and other activities related to the provision of services similar to those for which payment may be made under part A of this subchapter, or related to the facilities and personnel required for the provision of such services, or related to improving the quality of such services.
 
 #### (c) Use of State or local agencies to survey hospitals
 
-The Secretary is authorized to enter into an agreement with any State under which the appropriate State or local agency which performs the certification function described in subsection (a) of this section will survey, on a selective sample basis (or where the Secretary finds that a survey is appropriate because of substantial allegations of the existence of a significant deficiency or deficiencies which would, if found to be present, adversely affect health and safety of patients), provider entities that, pursuant tosection 1395bb(a)(1) of this title, are treated as meeting the conditions or requirements of this subchapter. The Secretary shall pay for such services in the manner prescribed in subsection (b) of this section.
+The Secretary is authorized to enter into an agreement with any State under which the appropriate State or local agency which performs the certification function described in subsection (a) of this section will survey, on a selective sample basis (or where the Secretary finds that a survey is appropriate because of substantial allegations of the existence of a significant deficiency or deficiencies which would, if found to be present, adversely affect health and safety of patients), provider entities that, pursuant to section 1395bb(a)(1) of this title, are treated as meeting the conditions or requirements of this subchapter. The Secretary shall pay for such services in the manner prescribed in subsection (b) of this section.
 
 #### (d) Fulfillment of requirements by States
 
@@ -28,33 +28,33 @@ Part A of this subchapter, referred to in subsec. (b), is classified to section 
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–275 substituted “pursuant to section 1395bb(a)(1)” for “pursuant to subsection (a) or (b)(1) of section 1395bb”.
+<b>2008</b>—Subsec. (c). Pub. L. 110–275 substituted “pursuant to section 1395bb(a)(1)” for “pursuant to subsection (a) or (b)(1) of section 1395bb”.
 
-1997—Subsec. (a). Pub. L. 105–33, §4201(c)(1), substituted “critical access” for “rural primary care”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §4201(c)(1), substituted “critical access” for “rural primary care”.
 
 Pub. L. 105–33, §4106(c), substituted “paragraphs (16) and (17)” for “paragraphs (15) and (16)”.
 
-1996—Subsec. (c). Pub. L. 104–134, in first sentence, substituted at end “provider entities that, pursuant to subsection (a) or (b)(1) of section 1395bb of this title, are treated as meeting the conditions or requirements of this subchapter.” for “hospitals which have an agreement with the Secretary under section 1395cc of this title and which are accredited by the Joint Commission on Accreditation of Hospitals.”
+<b>1996</b>—Subsec. (c). Pub. L. 104–134, in first sentence, substituted at end “provider entities that, pursuant to subsection (a) or (b)(1) of section 1395bb of this title, are treated as meeting the conditions or requirements of this subchapter.” for “hospitals which have an agreement with the Secretary under section 1395cc of this title and which are accredited by the Joint Commission on Accreditation of Hospitals.”
 
-1994—Subsec. (a). Pub. L. 103–432, §160(a)(1)(B), struck out “or (in the case of a laboratory that does not participate or seek to participate in the medicare program) the requirements of section 263a of this title” after “section 1395x(s) of this title” in first sentence.
+<b>1994</b>—Subsec. (a). Pub. L. 103–432, §160(a)(1)(B), struck out “or (in the case of a laboratory that does not participate or seek to participate in the medicare program) the requirements of section 263a of this title” after “section 1395x(s) of this title” in first sentence.
 
 Pub. L. 103–432, §145(c)(3), struck out “, or whether screening mammography meets the standards established under section 1395m(c)(3) of this title” after “section 1395k(a)(2)(F)(i) of this title” in first sentence.
 
 Subsec. (e). Pub. L. 103–432, §160(a)(1)(A), inserted before period at end “(other than any fee relating to section 263a of this title)”.
 
-1990—Subsec. (a). Pub. L. 101–508, §4163(c)(2), inserted before period at end of first sentence “, or whether screening mammography meets the standards established under section 1395m(c)(3) of this title”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §4163(c)(2), inserted before period at end of first sentence “, or whether screening mammography meets the standards established under section 1395m(c)(3) of this title”.
 
 Pub. L. 101–508, §4154(d)(1), substituted “section 1395x(s) of this title or (in the case of a laboratory that does not participate or seek to participate in the medicare program) the requirements of section 263a of this title,” for “section 1395x(s) of this title,” in first sentence.
 
 Subsec. (e). Pub. L. 101–508, §4207(g), formerly §4027(g), as renumbered by Pub. L. 103–432, §160(d)(4), added subsec. (e).
 
-1989—Subsec. (a). Pub. L. 101–239, §6115(c), substituted “paragraphs (15) and (16)” for “paragraphs (14) and (15)”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §6115(c), substituted “paragraphs (15) and (16)” for “paragraphs (14) and (15)”.
 
 Pub. L. 101–239, §6003(g)(3)(C)(iii), inserted “, a rural primary care hospital, as defined in section 1395x(mm)(1) of this title,” after “1395x(aa)(2) of this title”.
 
 Pub. L. 101–234 repealed Pub. L. 100–360, §§203(e)(3), 204(c)(2), (d)(3), and provided that the provisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted, see 1988 and 1989 Amendment notes.
 
-1988—Subsec. (a). Pub. L. 100–360, §411(<i>l</i>)(6)(B), amended Pub. L. 100–203, §4212(b), see 1987 Amendment note below.
+<b>1988</b>—Subsec. (a). Pub. L. 100–360, §411(<i>l</i>)(6)(B), amended Pub. L. 100–203, §4212(b), see 1987 Amendment note below.
 
 Pub. L. 100–360, §411(<i>l</i>)(1)(C), as added by Pub. L. 100–485, §608(d)(27)(B), added Pub. L. 100–203, §4201(d)(4), see 1987 Amendment note below.
 
@@ -70,7 +70,7 @@ Pub. L. 100–360, §204(c)(2), inserted “, or whether screening mammography 
 
 Pub. L. 100–360, §203(e)(3), inserted “or a home intravenous drug therapy provider,” after “hospice program” and substituted “hospice program, or home intravenous drug therapy provider” for “or hospice program”.
 
-1987—Subsec. (a). Pub. L. 100–203, §4212(b), which directed an amendment of subsec. (a) identical to Pub. L. 100–203, §4202(c), was amended generally by Pub. L. 100–360, §411(<i>l</i>)(6)(B), so that it does not amend this section but rather section 1396r of this title.
+<b>1987</b>—Subsec. (a). Pub. L. 100–203, §4212(b), which directed an amendment of subsec. (a) identical to Pub. L. 100–203, §4202(c), was amended generally by Pub. L. 100–360, §411(<i>l</i>)(6)(B), so that it does not amend this section but rather section 1396r of this title.
 
 Pub. L. 100–203, §4202(c), inserted “, and require (in the case of skilled nursing facilities) the posting in a place readily accessible to patients (and patients’ representatives),” after “place” in fifth sentence.
 
@@ -86,25 +86,25 @@ Pub. L. 100–203, §4202(a)(1), inserted “and section 1395i–3(g) of this ti
 
 Pub. L. 100–203, §4201(a)(2), added subsec. (d).
 
-1986—Subsec. (a). Pub. L. 99–509 substituted “paragraphs (12) and (13)” for “paragraphs (11) and (12)”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–509 substituted “paragraphs (12) and (13)” for “paragraphs (11) and (12)”.
 
-1984—Subsec. (c). Pub. L. 98–369 struck out “the” after “Joint Commission on”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–369 struck out “the” after “Joint Commission on”.
 
-1982—Subsec. (a). Pub. L. 97–248 inserted “or whether an agency is a hospice program” and substituted “home health agency, or hospice program” for “or home health agency”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–248 inserted “or whether an agency is a hospice program” and substituted “home health agency, or hospice program” for “or home health agency”.
 
-1980—Subsec. (a). Pub. L. 96–611 substituted “requirements of paragraphs (11) and (12) of section 1395x(s) of this title” for “requirements of paragraphs (10) and (11) of section 1395x(s) of this title”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–611 substituted “requirements of paragraphs (11) and (12) of section 1395x(s) of this title” for “requirements of paragraphs (10) and (11) of section 1395x(s) of this title”.
 
 Pub. L. 96–499, §933(g), inserted “or a comprehensive outpatient rehabilitation facility as defined in section 1395x(cc)(2) of this title” after “section 1395x(aa)(2) of this title” and “comprehensive outpatient rehabilitation facility,” after “rural health clinic” in four places.
 
 Pub. L. 96–499, §934(c)(2), inserted “, or whether an ambulatory surgical center meets the standards specified under section 1395k(a)(2)(F) of this title” after “section 1395x(p)(4) of this title” and “ambulatory surgical center,” after “health care facility,” in three places.
 
-1977—Subsec. (a). Pub. L. 95–210 expanded enumeration of institutions and agencies included under coverage of this subsection by inserting references to rural health clinics in five places.
+<b>1977</b>—Subsec. (a). Pub. L. 95–210 expanded enumeration of institutions and agencies included under coverage of this subsection by inserting references to rural health clinics in five places.
 
-1972—Subsec. (a). Pub. L. 92–603, §§277, 278(a)(16), (b)(15), 299D(a), provided for the furnishing of specialized consultative services to skilled nursing facilities, authorized the Secretary to make public the pertinent findings of each survey within 90 days following the completion of each survey of any health care facility, etc., and substituted “skilled nursing facility” for “extended care facility”.
+<b>1972</b>—Subsec. (a). Pub. L. 92–603, §§277, 278(a)(16), (b)(15), 299D(a), provided for the furnishing of specialized consultative services to skilled nursing facilities, authorized the Secretary to make public the pertinent findings of each survey within 90 days following the completion of each survey of any health care facility, etc., and substituted “skilled nursing facility” for “extended care facility”.
 
 Subsec. (c). Pub. L. 92–603, §244(a), added subsec. (c).
 
-1968—Subsec. (a). Pub. L. 90–248, §133(f), inserted clause at end of first sentence for determining whether a clinic, rehabilitation agency, or public health agency meets the requirements of section 1395x(p)(4)(A) or (B) of this title.
+<b>1968</b>—Subsec. (a). Pub. L. 90–248, §133(f), inserted clause at end of first sentence for determining whether a clinic, rehabilitation agency, or public health agency meets the requirements of section 1395x(p)(4)(A) or (B) of this title.
 
 Pub. L. 90–248, §228(b), struck out last sentence providing for utilization of State facilities to provide consultative services to institutions furnishing medical care, covered in section 1396a(a)(24) of this title.
 
@@ -124,7 +124,7 @@ Amendment by section 145(c)(3) of Pub. L. 103–432 applicable to mammography fu
 
 #### Effective Date of 1990 Amendment
 
-Section 4154(d)(2) of Pub. L. 101–508 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of the Clinical Laboratory Improvement Amendments of 1988 \[Pub. L. 100–578\].”
+Section 4154(d)(2) of Pub. L. 101–508 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall take effect as if included in the enactment of the Clinical Laboratory Improvement Amendments of 1988 \[Pub. L. 100–578\].”
 
 Amendment by section 4163(c)(2) of Pub. L. 101–508 applicable to screening mammography performed on or after Jan. 1, 1991, see section 4163(e) of Pub. L. 101–508, set out as a note under section 1395<i>l</i> of this title.
 
@@ -185,252 +185,6 @@ Section 299D(c) of Pub. L. 92–603 provided that: “The provisions of this sec
 Amendment by section 133(f) of Pub. L. 90–248 applicable with respect to services furnished after June 30, 1968, see section 133(g) of Pub. L. 90–248, set out as a note under section 1395k of this title.
 
 Section 228(b) of Pub. L. 90–248 provided that the amendment made by such section 228(b) is effective July 1, 1969.
-
-#### Pilot Program for National and State Background Checks on Direct Patient Access Employees of Long-Term Care Facilities or Providers
-
-Pub. L. 108–173, title III, §307, Dec. 8, 2003, 117 Stat. 2257, provided that:
-
-“(a)
-
-Authority To Conduct Program.—The Secretary \[of Health and Human Services\], in consultation with the Attorney General, shall establish a pilot program to identify efficient, effective, and economical procedures for long term care facilities or providers to conduct background checks on prospective direct patient access employees.
-
-“(b)
-
-Requirements.—
-
-&emsp;“(1)
-
-In general.—Under the pilot program, a long-term care facility or provider in a participating State, prior to employing a direct patient access employee that is first hired on or after the commencement date of the pilot program in the State, shall conduct a background check on the employee in accordance with such procedures as the participating State shall establish.
-
-&emsp;“(2)
-
-Procedures.—
-
-&emsp;&emsp;“(A)
-
-In general.—The procedures established by a participating State under paragraph (1) should be designed to—
-
-&emsp;&emsp;&emsp;“(i) give a prospective direct access patient employee notice that the long-term care facility or provider is required to perform background checks with respect to new employees;
-
-&emsp;&emsp;&emsp;“(ii) require, as a condition of employment, that the employee—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) provide a written statement disclosing any disqualifying information;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) provide a statement signed by the employee authorizing the facility to request national and State criminal history background checks;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) provide the facility with a rolled set of the employee's fingerprints; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) provide any other identification information the participating State may require;
-
-&emsp;&emsp;&emsp;“(iii) require the facility or provider to check any available registries that would be likely to contain disqualifying information about a prospective employee of a long-term care facility or provider; and
-
-&emsp;&emsp;&emsp;“(iv) permit the facility or provider to obtain State and national criminal history background checks on the prospective employee through a 10-fingerprint check that utilizes State criminal records and the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation.
-
-&emsp;&emsp;“(B)
-
-Elimination of unnecessary checks.—The procedures established by a participating State under paragraph (1) shall permit a long-term carefacility or provider to terminate the background check at any stage at which the facility or provider obtains disqualifying information regarding a prospective direct patient access employee.
-
-&emsp;“(3)
-
-Prohibition on hiring of abusive workers.—
-
-&emsp;&emsp;“(A)
-
-In general.—A long-term care facility or provider may not knowingly employ any direct patient access employee who has any disqualifying information.
-
-&emsp;&emsp;“(B)
-
-Provisional employment.—
-
-&emsp;&emsp;&emsp;“(i)
-
-In general.—Under the pilot program, a participating State may permit a long-term care facility or provider to provide for a provisional period of employment for a direct patient access employee pending completion of a background check, subject to such supervision during the employee's provisional period of employment as the participating State determines appropriate.
-
-&emsp;&emsp;&emsp;“(ii)
-
-Special consideration for certain facilities and providers.—In determining what constitutes appropriate supervision of a provisional employee, a participating State shall take into account cost or other burdens that would be imposed on small rural long-term care facilities or providers, as well as the nature of care delivered by such facilities or providers that are home health agencies or providers of hospice care.
-
-&emsp;“(4)
-
-Use of information; immunity from liability.—
-
-&emsp;&emsp;“(A)
-
-Use of information.—A participating State shall ensure that a long-term care facility or provider that obtains information about a direct patient access employee pursuant to a background check uses such information only for the purpose of determining the suitability of the employee for employment.
-
-&emsp;&emsp;“(B)
-
-Immunity from liability.—A participating State shall ensure that a long-term care facility or provider that, in denying employment for an individual selected for hire as a direct patient access employee (including during any period of provisional employment), reasonably relies upon information obtained through a background check of the individual, shall not be liable in any action brought by the individual based on the employment determination resulting from the information.
-
-&emsp;“(5)
-
-Agreements with employment agencies.—A participating State may establish procedures for facilitating the conduct of background checks on prospective direct patient access employees that are hired by a long-term care facility or provider through an employment agency (including a temporary employment agency).
-
-&emsp;“(6)
-
-Penalties.—A participating State may impose such penalties as the State determines appropriate to enforce the requirements of the pilot program conducted in that State.
-
-“(c)
-
-Participating States.—
-
-&emsp;“(1)
-
-In general.—The Secretary shall enter into agreements with not more than 10 States to conduct the pilot program under this section in such States.
-
-&emsp;“(2)
-
-Requirements for states.—An agreement entered into under paragraph (1) shall require that a participating State—
-
-&emsp;&emsp;“(A) be responsible for monitoring compliance with the requirements of the pilot program;
-
-&emsp;&emsp;“(B) have procedures by which a provisional employee or an employee may appeal or dispute the accuracy of the information obtained in a background check performed under the pilot program; and
-
-&emsp;&emsp;“(C) agree to—
-
-&emsp;&emsp;&emsp;“(i) review the results of any State or national criminal history background checks conducted regarding a prospective direct patient access employee to determine whether the employee has any conviction for a relevant crime;
-
-&emsp;&emsp;&emsp;“(ii) immediately report to the entity that requested the criminal history background checks the results of such review; and
-
-&emsp;&emsp;&emsp;“(iii) in the case of an employee with a conviction for a relevant crime that is subject to reporting under section 1128E of the Social Security Act (42 U.S.C. 1320a–7e), report the existence of such conviction to the database established under that section.
-
-&emsp;“(3)
-
-Application and selection criteria.—
-
-&emsp;&emsp;“(A)
-
-Application.—A State seeking to participate in the pilot program established under this section, shall submit an application to the Secretary containing such information and at such time as the Secretary may specify.
-
-&emsp;&emsp;“(B)
-
-Selection criteria.—
-
-&emsp;&emsp;&emsp;“(i)
-
-In general.—In selecting States to participate in the pilot program, the Secretary shall establish criteria to ensure—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) geographic diversity;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the inclusion of a variety of long-term care facilities or providers;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) the evaluation of a variety of payment mechanisms for covering the costs of conducting the background checks required under the pilot program; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) the evaluation of a variety of penalties (monetary and otherwise) used by participating States to enforce the requirements of the pilot program in such States.
-
-&emsp;&emsp;&emsp;“(ii)
-
-Additional criteria.—The Secretary shall, to the greatest extent practicable, select States to participate in the pilot program in accordance with the following:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) At least one participating State should permit long-term care facilities or providers to provide for a provisional period of employment pending completion of a background check and at least one such State should not permit such a period of employment.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) At least one participating State should establish procedures under which employment agencies (including temporary employment agencies) may contact the State directly to conduct background checks on prospective direct patient access employees.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) At least one participating State should include patient abuse prevention training (including behavior training and interventions) for managers and employees of long-term care facilities and providers as part of the pilot program conducted in that State.
-
-&emsp;&emsp;&emsp;“(iii)
-
-Inclusion of states with existing programs.—Nothing in this section shall be construed as prohibiting any State which, as of the date of the enactment of this Act \[Dec. 8, 2003\], has procedures for conducting background checks on behalf of any entity described in subsection (g)(5) from being selected to participate in the pilot program conducted under this section.
-
-“(d)
-
-Payments.—Of the amounts made available under subsection (f) to conduct the pilot program under this section, the Secretary shall—
-
-&emsp;“(1) make payments to participating States for the costs of conducting the pilot program in such States; and
-
-&emsp;“(2) reserve up to 4 percent of such amounts to conduct the evaluation required under subsection (e).
-
-“(e)
-
-Evaluation.—The Secretary, in consultation with the Attorney General, shall conduct by grant, contract, or interagency agreement an evaluation of the pilot program conducted under this section. Such evaluation shall—
-
-&emsp;“(1) review the various procedures implemented by participating States for long-term care facilities or providers to conduct background checks of direct patient access employees and identify the most efficient, effective, and economical procedures for conducting such background checks;
-
-&emsp;“(2) assess the costs of conducting such background checks (including start-up and administrative costs);
-
-&emsp;“(3) consider the benefits and problems associated with requiring employees or facilities or providers to pay the costs of conducting such background checks;
-
-&emsp;“(4) consider whether the costs of conducting such background checks should be allocated between the medicare and medicaid programs and if so, identify an equitable methodology for doing so;
-
-&emsp;“(5) determine the extent to which conducting such background checks leads to any unintended consequences, including a reduction in the available workforce for such facilities or providers;
-
-&emsp;“(6) review forms used by participating States in order to develop, in consultation with the Attorney General, a model form for such background checks;
-
-&emsp;“(7) determine the effectiveness of background checks conducted by employment agencies; and
-
-&emsp;“(8) recommend appropriate procedures and payment mechanisms for implementing a national criminal background check program for such facilities and providers.
-
-“(f)
-
-Funding.—Out of any funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary to carry out the pilot program under this section for the period of fiscal years 2004 through 2007, $25,000,000.
-
-“(g)
-
-Definitions.—In this section:
-
-&emsp;“(1)
-
-Conviction for a relevant crime.—The term ‘conviction for a relevant crime’ means any Federal or State criminal conviction for—
-
-&emsp;&emsp;“(A) any offense described in section 1128(a) of the Social Security Act (42 U.S.C. 1320a–7); and
-
-&emsp;&emsp;“(B) such other types of offenses as a participating State may specify for purposes of conducting the pilot program in such State.
-
-&emsp;“(2)
-
-Disqualifying information.—The term ‘disqualifying information’ means a conviction for a relevant crime or a finding of patient or resident abuse.
-
-&emsp;“(3)
-
-Finding of patient or resident abuse.—The term ‘finding of patient or resident abuse’ means any substantiated finding by a State agency under section 1819(g)(1)(C) or 1919(g)(1)(C) of the Social Security Act (42 U.S.C. 1395i–3(g)(1)(C), 1396r(g)(1)(C)) or a Federal agency that a direct patient access employee has committed—
-
-&emsp;&emsp;“(A) an act of patient or resident abuse or neglect or a misappropriation of patient or resident property; or
-
-&emsp;&emsp;“(B) such other types of acts as a participating State may specify for purposes of conducting the pilot program in such State.
-
-&emsp;“(4)
-
-Direct patient access employee.—The term ‘direct patient access employee’ means any individual (other than a volunteer) that has access to a patient or resident of a long-term care facility or provider through employment or through a contract with such facility or provider, as determined by a participating State for purposes of conducting the pilot program in such State.
-
-&emsp;“(5)
-
-Long-term care facility or provider.—
-
-&emsp;&emsp;“(A)
-
-In general.—The term ‘long-term care facility or provider’ means the following facilities or providers which receive payment for services under title XVIII or XIX of the Social Security Act \[this subchapter and subchapter XIX of this chapter\]:
-
-&emsp;&emsp;&emsp;“(i) A skilled nursing facility (as defined in section 1819(a) of the Social Security Act) (42 U.S.C. 1395i–3(a)).
-
-&emsp;&emsp;&emsp;“(ii) A nursing facility (as defined in section 1919(a) in such Act) (42 U.S.C. 1396r(a)).
-
-&emsp;&emsp;&emsp;“(iii) A home health agency.
-
-&emsp;&emsp;&emsp;“(iv) A provider of hospice care (as defined in section 1861(dd)(1) of such Act) (42 U.S.C. 1395x(dd)(1)).
-
-&emsp;&emsp;&emsp;“(v) A long-term care hospital (as described in section 1886(d)(1)(B)(iv) of such Act) (42 U.S.C. 1395ww(d)(1)(B)(iv)).
-
-&emsp;&emsp;&emsp;“(vi) A provider of personal care services.
-
-&emsp;&emsp;&emsp;“(vii) A residential care provider that arranges for, or directly provides, long-term care services.
-
-&emsp;&emsp;&emsp;“(viii) An intermediate care facility for the mentally retarded (as defined in section 1905(d) of such Act) \[(\]42 U.S.C. 1396d(d)).
-
-&emsp;&emsp;“(B)
-
-Additional facilities or providers.—During the first year in which a pilot program under this section is conducted in a participating State, the State may expand the list of facilities or providers under subparagraph (A) (on a phased-in basis or otherwise) to include such other facilities or providers of long-term care services under such titles as the participating State determines appropriate.
-
-&emsp;&emsp;“(C)
-
-Exceptions.—Such term does not include—
-
-&emsp;&emsp;&emsp;“(i) any facility or entity that provides, or is a provider of, services described in subparagraph (A) that are exclusively provided to an individual pursuant to a self-directed arrangement that meets such requirements as the participating State may establish in accordance with guidance from the Secretary; or
-
-&emsp;&emsp;&emsp;“(ii) any such arrangement that is obtained by a patient or resident functioning as an employer.
-
-&emsp;“(6)
-
-Participating state.—The term ‘participating State’ means a State with an agreement under subsection (c)(1).”
 
 #### Use of State or Local Agencies in Evaluating Laboratories
 

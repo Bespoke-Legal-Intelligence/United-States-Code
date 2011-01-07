@@ -149,7 +149,7 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (b)(12), are set
 
 #### Amendments
 
-2005—Subsec. (b). Pub. L. 109–59, §4103(1), inserted headings for subsec. (b), par. (1), and subpar. (A).
+<b>2005</b>—Subsec. (b). Pub. L. 109–59, §4103(1), inserted headings for subsec. (b), par. (1), and subpar. (A).
 
 Subsec. (b)(2)(B). Pub. L. 109–59, §4102(a)(2), substituted “$10,000” for “$5,000” in cls. (i) and (ii).
 
@@ -157,11 +157,11 @@ Subsec. (b)(2)(B)(i). Pub. L. 109–59, §4102(a)(1), substituted “$1,000” f
 
 Subsec. (b)(2)(E). Pub. L. 109–59, §4103(2), added subpar. (E).
 
-1999—Subsec. (b)(5)(B). Pub. L. 106–159, §208, substituted “substantially increases the likelihood of” for “is likely to result in”.
+<b>1999</b>—Subsec. (b)(5)(B). Pub. L. 106–159, §208, substituted “substantially increases the likelihood of” for “is likely to result in”.
 
 Subsec. (b)(8) to (14). Pub. L. 106–159, §206(b), added par. (8) and redesignated former pars. (8) to (13) as (9) to (14), respectively.
 
-1998—Subsec. (b)(1)(A). Pub. L. 105–178, §4015(a)(1), struck out “fix a reasonable time for abatement of the violation,” before “specify the proposed civil penalty”.
+<b>1998</b>—Subsec. (b)(1)(A). Pub. L. 105–178, §4015(a)(1), struck out “fix a reasonable time for abatement of the violation,” before “specify the proposed civil penalty”.
 
 Subsec. (b)(1)(B). Pub. L. 105–178, §4015(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “The Secretary shall, not later than 60 days after November 3, 1990, establish operational procedures to require a highway safety specialist or other appropriate representative of the Secretary to initiate, at the time of a safety review, compliance review, or other inspection or audit activity, or within a reasonable time thereafter, an enforcement action whenever any of the offenses referred to in paragraph (2)(A) and (B) can be documented, except recordkeeping violations not specified by the Secretary as serious. The procedures shall—
 
@@ -173,11 +173,11 @@ Subsec. (b)(2)(A). Pub. L. 105–178, §4015(b)(1), added subpar. (A) and struck
 
 Subsec. (b)(2)(B) to (D). Pub. L. 105–178, §4015(b)(2), (3), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
-1996—Subsec. (b)(1)(B). Pub. L. 104–287 substituted “November 3, 1990” for “the date of enactment of this subparagraph” in introductory provisions.
+<b>1996</b>—Subsec. (b)(1)(B). Pub. L. 104–287 substituted “November 3, 1990” for “the date of enactment of this subparagraph” in introductory provisions.
 
-1994—Subsec. (b)(1)(A). Pub. L. 103–272, §5(m)(11)(A), substituted “a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), 31310(g)(1)(A), or 31502 of this title” for “section 3102 of this title or the Motor Carrier Safety Act of 1984 or section 12002, 12003, 12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986” and “any of those provisions” for “such sections or Act”.
+<b>1994</b>—Subsec. (b)(1)(A). Pub. L. 103–272, §5(m)(11)(A), substituted “a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), 31310(g)(1)(A), or 31502 of this title” for “section 3102 of this title or the Motor Carrier Safety Act of 1984 or section 12002, 12003, 12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986” and “any of those provisions” for “such sections or Act”.
 
-Subsec. (b)(2)(A). Pub. L. 103–272, §5(m)(11)(B), substituted “under subchapter III of chapter 311 (except sections 31138 and 31139) or section 31502 of this title” for “pursuant to section 3102 of this title or the Motor Carrier Safety Act of 1984”.
+Subsec. (b)(2)(A). Pub. L. 103–272, §5(m)(11)(B), substituted “under subchapter III of chapter 311 (exceptsections 31138 and 31139) or section 31502 of this title” for “pursuant to section 3102 of this title or the Motor Carrier Safety Act of 1984”.
 
 Pub. L. 103–272, §4(j)(11)(D), substituted “chapter 59 of this title” for “section 508 of this title”.
 
@@ -193,15 +193,15 @@ Subsec. (b)(6)(B)(i). Pub. L. 103–272, §5(m)(11)(G), substituted “section 3
 
 Subsec. (b)(6)(B)(ii). Pub. L. 103–272, §5(m)(11)(H), substituted “section 31301 of this title” for “section 12019 of such Act”, “section 31303(a) of this title” for “section 12003(a) of such Act”, and “section 31303(a)” for “such section 12003(a)”.
 
-Subsec. (b)(12). Pub. L. 103–272, §5(m)(11)(I), substituted “chapter 51 of this title” for “any provision ofthe Hazardous Materials Transportation Act (49 U.S.C. App. 1801–1812)” and “chapter 51” for “such Act”.
+Subsec. (b)(12). Pub. L. 103–272, §5(m)(11)(I), substituted “chapter 51 of this title” for “any provision of the Hazardous Materials Transportation Act (49 U.S.C. App. 1801–1812)” and “chapter 51” for “such Act”.
 
 Subsec. (b)(13). Pub. L. 103–272, §5(m)(11)(J), substituted “section 31132 of this title” for “section 204 of the Motor Carrier Safety Act of 1984”.
 
-1992—Subsec. (b)(2)(A). Pub. L. 102–548 inserted “or which is a violation of section 508 of this title” after “Act of 1984”.
+<b>1992</b>—Subsec. (b)(2)(A). Pub. L. 102–548 inserted “or which is a violation of section 508 of this title” after “Act of 1984”.
 
-1990—Subsec. (b)(1). Pub. L. 101–500 designated existing provisions as subpar. (A) and added subpar. (B).
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–500 designated existing provisions as subpar. (A) and added subpar. (B).
 
-1986—Subsec. (b)(1). Pub. L. 99–570, §12012(a), inserted “or section 12002, 12003, 12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986” after “the Motor Carrier Safety Act of 1984” and substituted “such sections” for “such section”.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–570, §12012(a), inserted “or section 12002, 12003, 12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986” after “the Motor Carrier Safety Act of 1984” and substituted “such sections” for “such section”.
 
 Subsec. (b)(2). Pub. L. 99–570, §12012(b), (f)(1), inserted heading, designated existing provisions as subpars. (A) and (C) with corresponding headings, added subpar. (B), in subpar. (A) indented such subparagraph and aligned it with subpar. (B), and inserted exception relating to subpar. (B).
 
@@ -213,11 +213,15 @@ Subsec. (b)(6). Pub. L. 99–570, §12012(e), (f)(2), (g)(1), inserted heading, 
 
 Subsec. (b)(13). Pub. L. 99–570, §12012(g)(2), substituted “section 204” for “section 4”.
 
-1984—Subsec. (b)(1). Pub. L. 98–554 substituted provisions relating to notice to violators and opportunity for hearings for former provisions which set forth penalties for failure to make reports and keep records.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–554 substituted provisions relating to notice to violators and opportunity for hearings for former provisions which set forth penalties for failure to make reports and keep records.
 
 Subsec. (b)(2). Pub. L. 98–554 substituted provisions setting forth amount of civil penalties for former provisions which related to the place of trial and manner of service of process for violations of recordkeeping and reporting provisions.
 
 Subsec. (b)(3) to (13). Pub. L. 98–554 added pars. (3) to (13).
+
+#### Deemed References to to Chapters 509 and 511 of Title 51
+
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 
 #### Minimum and Maximum Assessments
 
@@ -253,7 +257,7 @@ Submission to congress.—The Secretary shall transmit the results of such study
 
 #### Report; Penalties; Effectiveness
 
-Section 213(d) of Pub. L. 98–554 directed Secretary of Transportation to conduct a study of effectiveness of civil and criminal penalties established by amendments made by section 213 of Pub. L. 98–554 in deterring violations of commercial motor vehicle safety regulations issued under title II of Pub. L. 98–554 and in effectively prosecuting such violations when they occur, which study was to examine the effectiveness of penalties in effect before Oct. 30, 1984, in comparison to the penalties established by the amendments made by title II of Pub. L. 98–554, and was to further investigate the need for, and make recommendations concerning, increased fine levels for civil and criminal penalties, and the need for additional categories of civil and criminal penalties to deter further, and prosecute effectively, violations of such commercial motor vehicle safety regulations, and further directed Secretary to submit to Congress a report on the findings of this study, together with legislative recommendations, not later than 2 years after Oct. 30, 1984.
+Section 213(d) of Pub. L. 98–554 directed Secretary of Transportation to conduct a study of effectiveness of civil and criminal penalties established by amendments made by section 213 of Pub. L. 98–554 in deterring violations of commercial motor vehicle safety regulations issued under title II of Pub. L. 98–554 and in effectively prosecuting such violations when they occur, which study was to examine the effectiveness of penalties in effect before Oct. 30, 1984, in comparison to the penalties established by the amendments made by title II of Pub. L. 98–554, and was to further investigate the need for, and make recommendations concerning, increased fine levels for civil and criminal penalties, andthe need for additional categories of civil and criminal penalties to deter further, and prosecute effectively, violations of such commercial motor vehicle safety regulations, and further directed Secretary to submit to Congress a report on the findings of this study, together with legislative recommendations, not later than 2 years after Oct. 30, 1984.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

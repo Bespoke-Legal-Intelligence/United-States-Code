@@ -48,17 +48,17 @@ Prior section 3013 was renumbered section 5113 of this title.
 
 #### Amendments
 
-2001—Subsec. (f)(2)(A). Pub. L. 107–103, §103(a), substituted “to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10;” for “, in connection with the Persian Gulf War, to serve on active duty under section 672(a), (d), or (g), 673, 673b, or 688 of title 10;”.
+<b>2001</b>—Subsec. (f)(2)(A). Pub. L. 107–103, §103(a), substituted “to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10;” for “, in connection with the Persian Gulf War, to serve on active duty under section 672(a), (d), or (g), 673, 673b, or 688 of title 10;”.
 
 Subsec. (f)(2)(B). Pub. L. 107–103, §103(d), struck out “, in connection with such War,” after “being ordered”.
 
-2000—Subsecs. (a)(2), (b)(1). Pub. L. 106–419 substituted “obligated period of active duty on which such entitlement is based” for “individual's initial obligated period of active duty”.
+<b>2000</b>—Subsecs. (a)(2), (b)(1). Pub. L. 106–419 substituted “obligated period of active duty on which such entitlement is based” for “individual's initial obligated period of active duty”.
 
-1996—Subsec. (d). Pub. L. 104–275 substituted “, 3018B, or 3018C” for “or 3018B”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–275 substituted “, 3018B, or 3018C” for “or 3018B”.
 
-1992—Subsec. (d). Pub. L. 102–484 inserted “or 3018B” after “section 3018A” in introductory provisions.
+<b>1992</b>—Subsec. (d). Pub. L. 102–484 inserted “or 3018B” after “section 3018A” in introductory provisions.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1413 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1413 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “3695” for “1795” in two places, “3011” for “1411”, “3011(a)(1)(A)(ii)(I)” for “1411(a)(1)(A)(ii)(I)” in two places, “3011(a)(1)(A)(i)” for “1411(a)(1)(A)(i)”, “3011(a)(1)(B)(ii)(I)” for “1411(a)(1)(B)(ii)(I)” in two places, and “3011(a)(1)(B)(i)” for “1411(a)(1)(B)(i)”.
 
@@ -70,9 +70,9 @@ Subsec. (d). Pub. L. 102–83, §5(c)(1), substituted “3695” for “1795” 
 
 Subsec. (f). Pub. L. 102–127 added subsec. (f).
 
-1990—Subsecs. (d), (e). Pub. L. 101–510 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1990</b>—Subsecs. (d), (e). Pub. L. 101–510 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1989—Subsec. (a)(2). Pub. L. 101–237, §423(a)(2)(A), substituted “subsection (d)” for “subsection (c)”.
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–237, §423(a)(2)(A), substituted “subsection (d)” for “subsection (c)”.
 
 Pub. L. 101–237, §423(a)(2)(B), substituted “section 1411(a)(1)(A)(ii)(I) or (III) of this title, or” for “section 1411(a)(1)(B)(ii)(I) or (III) of this title, or”.
 
@@ -82,7 +82,7 @@ Subsec. (c)(1). Pub. L. 101–237, §423(a)(2)(C)(i), inserted reference to par.
 
 Subsec. (c)(3). Pub. L. 101–237, §423(a)(2)(C)(ii), added par. (3).
 
-1988—Subsec. (a)(2). Pub. L. 100–689, §111(a)(4)(A), substituted “Subject to section 1795 of this title and subsection (c) of this section, in the case” for “In the case” and “continuous active duty served by such individual after June 30, 1985, as part of the individual's initial obligated period of active duty in the case of an individual described in section 1411(a)(1)(B)(ii)(I) or (III) of this title, or in the case of an individual described in section 1411(a)(1)(B)(ii)(I) or (III) of this title, after June 30, 1985” for “active duty served by such individual after the date of the beginning of the period for which the individual's basic pay is reduced under section 1411(b) of this title, in the case of an individual described in section 1411(a)(1)(A)(ii)(I) of this title, or after June 30, 1985, in the case of an individual described in section 1411(a)(1)(B)(ii)(I) of this title”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–689, §111(a)(4)(A), substituted “Subject to section 1795 of this title and subsection (c) of this section, in the case” for “In the case” and “continuous active duty served by such individual after June 30, 1985, as part of the individual's initial obligated period of active duty in the case of an individual described in section 1411(a)(1)(B)(ii)(I) or (III) of this title, or in the case of an individual described in section 1411(a)(1)(B)(ii)(I) or (III) of this title, after June 30, 1985” for “active duty served by such individual after the date of the beginning of the period for which the individual's basic pay is reduced under section 1411(b) of this title, in the case of an individual described in section 1411(a)(1)(A)(ii)(I) of this title, or after June 30, 1985, in the case of an individual described in section 1411(a)(1)(B)(ii)(I) of this title”.
 
 Pub. L. 100–689, §102(b)(2), inserted “or (III)” after “section 1411(a)(1)(A)(ii)(I)” and after “section 1411(a)(1)(B)(ii)(I)”, the first place each appears.
 
@@ -90,7 +90,7 @@ Subsec. (b)(1). Pub. L. 100–689, §111(a)(4)(B), substituted “continuous act
 
 Subsecs. (c), (d). Pub. L. 100–689, §103(b)(2), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1986—Subsec. (a)(2). Pub. L. 99–576, §321(3)(A), inserted “after the date of the beginning of the period for which the individual's basic pay is reduced under section 1411(b) of this title, in the case of an individual described in section 1411(a)(1)(A)(ii)(I) of this title, or after June 30, 1985, in the case of an individual described in section 1411(a)(1)(B)(ii)(I) of this title”.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–576, §321(3)(A), inserted “after the date of the beginning of the period for which the individual's basic pay is reduced under section 1411(b) of this title, in the case of an individual described in section 1411(a)(1)(A)(ii)(I) of this title, or after June 30, 1985, in the case of an individual described in section 1411(a)(1)(B)(ii)(I) of this title”.
 
 Subsec. (b)(1). Pub. L. 99–576, §321(3)(B)(i), inserted “after the date of the beginning of the period for which such individual's basic pay is reduced under section 1412(c) of this title, in the case of an individual described in section 1412(a)(1)(A), or after June 30, 1985, in the case of an individual described in section 1412(a)(1)(B) of this title”.
 

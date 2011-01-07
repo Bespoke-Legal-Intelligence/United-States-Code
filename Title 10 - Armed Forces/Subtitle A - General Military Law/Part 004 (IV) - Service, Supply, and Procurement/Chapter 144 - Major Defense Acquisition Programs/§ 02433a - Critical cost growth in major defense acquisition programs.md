@@ -24,7 +24,7 @@ Presumption of Termination.—(1) After conducting the reassessment required by 
 
 &emsp;(A) the continuation of the program is essential to the national security;
 
-&emsp;(B) there are no alternatives to the program which will provide acceptable capability to meet the joint military requirement (as defined in section 181(g)((1) <sup>1</sup> of this title) at less cost;
+&emsp;(B) there are no alternatives to the program which will provide acceptable capability to meet the joint military requirement (as defined in section 181(g)(1) of this title) at less cost;
 
 &emsp;(C) the new estimates of the program acquisition unit cost or procurement unit cost have been determined by the Director of Cost Assessment and Program Evaluation to be reasonable;
 
@@ -60,17 +60,21 @@ Actions if Program Terminated.—If a major defense acquisition program is termi
 
 &emsp;(3) the course the Department plans to pursue to meet any continuing joint military requirements otherwise intended to be met by the program.
 
-(Added Pub. L. 111–23, title II, §206(a)(1), May 22, 2009, 123 Stat. 1726.)
+(Added Pub. L. 111–23, title II, §206(a)(1), May 22, 2009, 123 Stat. 1726; amended Pub. L. 111–383, div. A, title X, §1075(b)(35), Jan. 7, 2011, 124 Stat. 4371.)
 
 #### References in Text
 
 Section 205 of the Weapon Systems Acquisition Reform Act of 2009, referred to in subsec. (c)(1)(E), is section 205 of Pub. L. 111–23, which amended section 2366b of this title and enacted provisions set out as notes under this section and section 2366b of this title.
 
+#### Amendments
+
+<b>2011</b>—Subsec. (b)(2)(B). Pub. L. 111–383 substituted “section 181(g)(1)” for “section 181(g)((1)”.
+
 #### Reviews of Programs Restructured After Experiencing Critical Cost Growth
 
-Pub. L. 111–23, title II, §205(c), May 22, 2009, 123 Stat. 1725, provided that: “The official designated to perform oversight of performance assessment pursuant to section 103 of this Act \[set out as a note under section 2430 of this title\], shall assess the performance of each major defense acquisition program that has exceeded critical cost growth thresholds established pursuant to section 2433(e) of title 10, United States Code, but has not been terminated in accordance with section 2433a of such title (as added by section 206(a) of this Act) not less often than semi-annually until one year after the date on which such program receives a new milestone approval, in accordance with section 2433a(c)(3) \[probably means section 2433a(c)(1)(C)\] of such title (as so added). The results of reviews performed under this subsection shall be reported to the Under Secretary of Defense for Acquisition, Technology, and Logistics and summarized in the next annual report of such designated official.”
+Pub. L. 111–23, title II, §205(c), May 22, 2009, 123 Stat. 1725, as amended by Pub. L. 111–383, div. A, title VIII, §813(e), title X, §1075(k)(2), Jan. 7, 2011, 124 Stat. 4266, 4378, provided that: “The official designated to perform oversight of performance assessment pursuant to section 103 of this Act \[set out as a note under section 2430 of this title\], shall assess the performance of each major defense acquisition program that has exceeded critical cost growth thresholds established pursuant to section 2433(e) of title 10, United States Code, but has not been terminated in accordance with section 2433a of such title (as added by section 206(a) of this Act) not less often than semi-annually until one year after the date on which such program receives a new milestone approval, in accordance with section 2433a(c)(1)(C) of such title (as so added). The results of reviews performed under this subsection shall be reported to the Under Secretary of Defense for Acquisition, Technology, and Logistics and summarized in the next annual report of such designated official.”
+
+\[Pub. L. 111–383, div. A, title VIII, §813(e), Jan. 7, 2011, 124 Stat. 4266, provided that the amendment made by section 813(e) to section 205(c) of Pub. L. 111–23, set out above, is effective as of May 22, 2009, and as if included in Pub. L. 111–23, as enacted.\]
 
 \[For definition of “major defense acquisition program” as used in section 205(c) of Pub. L. 111–23, set out above, see section 2(2) of Pub. L. 111–23, set out as a note under section 2430 of this title.\]
-
-<i><sup>1</sup></i><i> So in original.</i>
 

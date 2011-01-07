@@ -26,7 +26,7 @@
 
 #### (c) Hardship cases
 
-In exercising authority to acquire lands pursuant to this section the Secretary shall give prompt and careful consideration to any offer made by any person or entity owning any land, or interest in land, within the boundaries of a special management area. In considering such offer, the Secretary shall take into consideration any hardship to the owner which might result from any undue delay in acquiring the property.
+In exercising authority to acquire lands pursuant to this section the Secretary shall give prompt and careful consideration to any offer made by any person or entity owning any land, or interest in land, within the boundaries of a special management area. In considering suchoffer, the Secretary shall take into consideration any hardship to the owner which might result from any undue delay in acquiring the property.
 
 #### (d) Land exchanges
 
@@ -204,19 +204,11 @@ For the purposes of section 460<i>l</i>–9 of this title, the boundaries of the
 
 (Pub. L. 99–663, §9, Nov. 17, 1986, 100 Stat. 4287; Pub. L. 104–66, title I, §1011(n), Dec. 21, 1995, 109 Stat. 710; Pub. L. 106–291, title III, §346(a), Oct. 11, 2000, 114 Stat. 999.)
 
-#### References in Text
-
-The public land laws, referred to in subsec. (d)(5), are classified generally to Title 43, Public Lands.
-
-The United States mining law and the laws pertaining to mineral leasing, referred to in subsec. (d)(5), are classified generally to Title 30, Mineral Lands and Mining.
-
-Laws pertaining to geothermal leasing, referred to in subsec. (d)(5), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
-
 #### Amendments
 
-2000—Subsecs. (e) to (g). Pub. L. 106–291 added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
+<b>2000</b>—Subsecs. (e) to (g). Pub. L. 106–291 added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
 
-1995—Subsec. (d)(3). Pub. L. 104–66 struck out provision at end requiring Secretary to report to Congress on status of negotiations with owners of non-Federal lands regarding land exchanges.
+<b>1995</b>—Subsec. (d)(3). Pub. L. 104–66 struck out provision at end requiring Secretary to report to Congress on status of negotiations with owners of non-Federal lands regarding land exchanges.
 
 #### Publication of Notice
 

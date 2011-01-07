@@ -22,7 +22,7 @@ Section 10305 describes the procedures for signing the shipping agreement, and f
 
 #### Amendments
 
-1993—Pub. L. 103–206 struck out “(a)” before “The agreement”, substituted “the master or individual in charge” for “a shipping commissioner” in par. (2), and struck out subsecs. (b) and (c) which read as follows:
+<b>1993</b>—Pub. L. 103–206 struck out “(a)” before “The agreement”, substituted “the master or individual in charge” for “a shipping commissioner” in par. (2), and struck out subsecs. (b) and (c) which read as follows:
 
 “(b) When the crew is first engaged, the agreement shall be signed in duplicate. One of the copies shall be retained by the shipping commissioner. The other copy shall contain space for the description and signatures of seamen engaged subsequent to the first making of the agreement, and shall be delivered to the master.
 

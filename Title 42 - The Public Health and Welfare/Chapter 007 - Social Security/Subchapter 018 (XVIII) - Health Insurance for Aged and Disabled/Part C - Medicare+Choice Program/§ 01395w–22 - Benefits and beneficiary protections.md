@@ -12,11 +12,31 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of this part, the term “benefits under the original medicare fee-for-service program option” means those items and services (other than hospice care) for which benefits are available under parts A and B of this subchapter to individuals entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter, with cost-sharing for those services as required under parts A and B of this subchapter or an actuarially equivalent level of cost-sharing as determined in this part.
+&emsp;&emsp;&emsp;For purposes of this part, the term “benefits under the original medicare fee-for-service program option” means those items and services (other than hospice care) for which benefits are available under parts A and B to individuals entitled to benefits under part A and enrolled under part B, with cost-sharing for those services as required under parts A and B or, subject to clause (iii), an actuarially equivalent level of cost-sharing as determined in this part.
 
 #### (ii) Special rule for regional plans
 
-&emsp;&emsp;&emsp;In the case of an MA regional plan in determining an actuarially equivalent levelof cost-sharing with respect to benefits under the original medicare fee-for-service program option, there shall only be taken into account, with respect to the application of section 1395w–27a(b)(2) of this title, such expenses only with respect to subparagraph (A) of such section.
+&emsp;&emsp;&emsp;In the case of an MA regional plan in determining an actuarially equivalent level of cost-sharing with respect to benefits under the original medicare fee-for-service program option, there shall only be taken into account, with respect to the application of section 1395w–27a(b)(2) of this title, such expenses only with respect to subparagraph (A) of such section.
+
+#### (iii) Limitation on variation of cost sharing for certain benefits
+
+&emsp;&emsp;&emsp;Subject to clause (v), cost-sharing for services described in clause (iv) shall not exceed the cost-sharing required for those services under parts A and B.
+
+#### (iv) Services described
+
+&emsp;&emsp;&emsp;The following services are described in this clause:
+
+&emsp;&emsp;&emsp;&emsp;(I) Chemotherapy administration services.
+
+&emsp;&emsp;&emsp;&emsp;(II) Renal dialysis services (as defined in section 1395rr(b)(14)(B) of this title).
+
+&emsp;&emsp;&emsp;&emsp;(III) Skilled nursing care.
+
+&emsp;&emsp;&emsp;&emsp;(IV) Such other services that the Secretary determines appropriate (including services that the Secretary determines require a high level of predictability and transparency for beneficiaries).
+
+#### (v) Exception
+
+&emsp;&emsp;&emsp;In the case of services described in clause (iv) for which there is no cost-sharing required under parts A and B, cost-sharing may be required for those services in accordance with clause (i).
 
 #### (2) Satisfaction of requirement
 
@@ -92,7 +112,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A Medicare+Choice organization may not deny, limit, or condition the coverage or provision of benefits under this part, for individuals permitted to be enrolled with the organization under this part, based on any health status-related factor described in section 300gg–1(a)(1) of this title. The Secretary shall not approve a plan of an organization if the Secretary determines that the design of the plan and its benefits are likely to substantially discourage enrollment by certain MA eligible individuals with the organization.
+&emsp;&emsp;A Medicare+Choice organization may not deny, limit, or condition the coverage or provision of benefits under this part, for individuals permitted to be enrolled with the organization under this part, based on any health status-related factor described in section 2702(a)(1) of the Public Health Service Act.<sup>1</sup> The Secretary shall not approve a plan of an organization if the Secretary determines that the design of the plan and its benefits are likely to substantially discourage enrollment by certain MA eligible individuals with the organization.
 
 #### (B) Construction
 
@@ -272,7 +292,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clauses (ii) and (iii) with respect to plans described in such clauses and subject to subparagraph (B), as part of the quality improvement program under paragraph (1), each MA organization shall provide for the collection, analysis, and reporting of data that permits the measurement of health outcomes and other indices of quality. With respect to MA private fee-for-service plans and MSA plans, the requirements under the preceding sentence may not exceed the requirements under this subparagraph with respect to MA local plans that are preferred provider organization plans, except that, for plan year 2010, the limitation under clause (iii) shall not apply and such requirements shall apply only with respect to administrative claims data.
+&emsp;&emsp;&emsp;Except as provided in clauses (ii) and (iii) with respect to plans described in such clauses and subject to subparagraph (B), as part of the quality improvement program under paragraph (1), each MA organization shall provide for the collection, analysis, and reporting of data that permits the measurement of health outcomes and other indices of quality. With respect to MA private fee-for-service plans and MSA plans, the requirements under the preceding sentence may not exceed the requirements under this subparagraph with respect to MA local plans that are preferred provider organization plans, except that,for plan year 2010, the limitation under clause (iii) shall not apply and such requirements shall apply only with respect to administrative claims data.
 
 #### (ii) Special requirements for specialized MA plans for special needs individuals
 
@@ -304,7 +324,7 @@
 
 #### (iii) Construction
 
-&emsp;&emsp;&emsp;Nothing in the <sup>1</sup> subsection shall be construed as restricting the ability of the Secretary to carry out the duties under section 1395w–21(d)(4)(D) of this title.
+&emsp;&emsp;&emsp;Nothing in the <sup>2</sup> subsection shall be construed as restricting the ability of the Secretary to carry out the duties under section 1395w–21(d)(4)(D) of this title.
 
 #### (4) Treatment of accreditation
 
@@ -352,7 +372,7 @@ Each Medicare+Choice organization must provide meaningful procedures for hearing
 
 #### (B) Explanation of determination
 
-&emsp;&emsp;Such a determination that denies coverage, in whole or in part, shall be in writingand shall include a statement in understandable language of the reasons for the denial and a description of the reconsideration and appeals processes.
+&emsp;&emsp;Such a determination that denies coverage, in whole or in part, shall be in writing and shall include a statement in understandable language of the reasons for the denial and a description of the reconsideration and appeals processes.
 
 #### (2) Reconsiderations
 
@@ -396,7 +416,7 @@ Each Medicare+Choice organization must provide meaningful procedures for hearing
 
 #### (5) Appeals
 
-&emsp;An enrollee with a Medicare+Choice plan of a Medicare+Choice organization under this part who is dissatisfied by reason of the enrollee's failure to receive any health service to which the enrollee believes the enrollee is entitled and at no greater charge than the enrollee believes the enrollee is required to pay is entitled, if the amount in controversy is $100 or more, to a hearing before the Secretary to the same extent as is provided in section 405(b) of this title, and in any such hearing the Secretary shall make the organization a party. If the amount in controversy is $1,000 or more, the individual or organization shall, upon notifying the other party, be entitled to judicial review of the Secretary's final decision as provided in section 405(g) of this title, and both the individual and the organization shall be entitled to be parties to that judicial review. In applying subsections (b) and (g) of section 405 of this title as provided in this paragraph, and in applying section 405(<i>l</i>) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively. The provisions of section 1395ff(b)(1)(E)(iii) of this title shall apply with respect to dollar amounts specified in the first 2 sentences of this paragraph in the same manner as they apply to the dollar amounts specified in section 1395ff(b)(1)(E)(i) of this title.
+&emsp;An enrollee with a Medicare+Choice plan of a Medicare+Choice organization under this part who is dissatisfied by reason of the enrollee's failure to receive any health service to which the enrollee believes the enrollee is entitled and at no greater charge than the enrollee believes the enrollee is required to pay is entitled, if the amount in controversy is $100 or more, to a hearing before the Secretary to the same extent as is provided in section 405(b) of this title, and in any such hearing the Secretary shall make the organization a party. If the amount in controversy is $1,000 or more, the individual or organization shall, upon notifying the other party, be entitled to judicial review of the Secretary's final decision as provided in section 405(g) of this title, and both the individual and the organization shall be entitled to be parties to that judicial review. In applying subsections (b) and (g) of section 405 of this title as provided in this paragraph, and in applying section 405(<i>l</i>) ofthis title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively. The provisions of section 1395ff(b)(1)(E)(iii) of this title shall apply with respect to dollar amounts specified in the first 2 sentences of this paragraph in the same manner as they apply to the dollar amounts specified in section 1395ff(b)(1)(E)(i) of this title.
 
 #### (h) Confidentiality and accuracy of enrollee records
 
@@ -466,7 +486,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (5) Limitation on provider indemnification
 
-&emsp;A Medicare+Choice organization may not provide (directly or indirectly) for a health care professional, provider of services, or other entity providing health care services (or group of such professionals, providers, or entities) toindemnify the organization against any liability resulting from a civil action brought for any damage caused to an enrollee with a Medicare+Choice plan of the organization under this part by the organization's denial of medically necessary care.
+&emsp;A Medicare+Choice organization may not provide (directly or indirectly) for a health care professional, provider of services, or other entity providing health care services (or group of such professionals, providers, or entities) to indemnify the organization against any liability resulting from a civil action brought for any damage caused to an enrollee with a Medicare+Choice plan of the organization under this part by the organization's denial of medically necessary care.
 
 #### (6) Special rules for Medicare+Choice private fee-for-service plans
 
@@ -508,7 +528,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (C) Structure
 
-&emsp;&emsp;Additional or increased payments under this subsection may be structured in the same manner as medication therapy management fees are structured under section 1395w–104(c)(2)(E) of this title.
+&emsp;&emsp;Additional or increased payments under this subsection may be structured in the same manner as medication therapy management fees are structured under section 1395w–104(c)(2)(E) <sup>1</sup> of this title.
 
 #### (k) Treatment of services furnished by certain providers
 
@@ -610,19 +630,27 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 &emsp;&emsp;The term “continuing care retirement community” means, with respect to an enrollee in a Medicare+Choice plan, an arrangement under which housing and health-related services are provided (or arranged) through an organization for the enrollee under an agreement that is effective for the life of the enrollee or for a specified period.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1852, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 286; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(B), title V, §§518, 520(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title V, §521(b), title VI, §§611(b), 615, 616, 621(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–543, 2763A–560, 2763A–561, 2763A–564; Pub. L. 108–173,title I, §102(b), title II, §§211(j), 221(d)(3), 222(a)(2), (3), (h), (<i>l</i>)(1), 233(a)(1), (2), (c), title VII, §722(a), (b), title IX, §§900(e)(1)(F), 940(b)(2)(A), 948(b)(2), Dec. 8, 2003, 117 Stat. 2153, 2180, 2193, 2195, 2196, 2204, 2206, 2209, 2347, 2348, 2371, 2417, 2426; Pub. L. 110–275, title I, §§125(b)(6), 162(a)(1)–(3)(A), 163(a), (b), 164(f)(1), 165(a), July 15, 2008, 122 Stat. 2519, 2569–2571, 2574, 2575.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1852, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 286; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(B), title V, §§518, 520(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title V, §521(b), title VI, §§611(b), 615, 616, 621(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–543, 2763A–560, 2763A–561, 2763A–564; Pub. L. 108–173, title I, §102(b), title II, §§211(j), 221(d)(3), 222(a)(2), (3), (h), (<i>l</i>)(1), 233(a)(1), (2), (c), title VII, §722(a), (b), title IX, §§900(e)(1)(F), 940(b)(2)(A), 948(b)(2), Dec. 8, 2003, 117 Stat. 2153, 2180, 2193, 2195, 2196, 2204, 2206, 2209, 2347, 2348, 2371, 2417, 2426; Pub. L. 110–275, title I, §§125(b)(6), 162(a)(1)–(3)(A), 163(a), (b), 164(f)(1), 165(a), July 15, 2008, 122 Stat. 2519, 2569–2571, 2574, 2575; Pub. L. 111–148, title III, §3202(a)(1), Mar. 23, 2010, 124 Stat. 454.)
 
 #### References in Text
 
 Part A of subchapter XI of this chapter, referred to in subsec. (a)(1)(A), is classified to section 1301 et seq. of this title.
 
-Parts A and B of this subchapter, referred to in subsecs. (a)(1)(B)(i), (2)(A)(ii), (d)(4)(A), (k)(2)(C)(i), and (<i>l</i>)(3)(A), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
+Parts A and B of this subchapter, referred to in subsecs. (a)(1)(B)(i), (iii), (v), (2)(A)(ii), (d)(4)(A), (k)(2)(C)(i), and (<i>l</i>)(3)(A), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
+
+Section 2702 of the Public Health Service Act, referred to in subsec. (b)(1)(A), is section 2702 of act July 1, 1944, which was classified to section 300gg–1 of this title, was amended by Pub. L. 111–148, title I, §1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (d) to (f) of section 300gg–4 of this title, effective for plan years beginning on or after Jan. 1, 2014. A new section 2702 of act July 1, 1944, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to section 300gg–1 of this title.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (j)(3)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
+Section 1395w–104(c)(2)(E) of this title, referred to in subsec. (j)(7)(C), was redesignated section 1395w–104(c)(2)(G) of this title by Pub. L. 111–148, title X, §10328(a)(1), Mar. 23, 2010, 124 Stat. 964.
+
 #### Amendments
 
-2008—Subsec. (a)(7). Pub. L. 110–275, §165(a), added par. (7).
+<b>2010</b>—Subsec. (a)(1)(B)(i). Pub. L. 111–148, §3202(a)(1)(A), inserted “, subject to clause (iii),” after “and B or”.
+
+Subsec. (a)(1)(B)(iii) to (v). Pub. L. 111–148, §3202(a)(1)(B), added cls. (iii) to (v).
+
+<b>2008</b>—Subsec. (a)(7). Pub. L. 110–275, §165(a), added par. (7).
 
 Subsec. (d)(4). Pub. L. 110–275, §162(a)(1)(A), (2)(A), in introductory provisions, substituted “Subject to paragraphs (5) and (6), the Secretary” for “The Secretary” in second sentence.
 
@@ -642,7 +670,7 @@ Subsec. (e)(3)(A)(iii). Pub. L. 110–275, §163(b)(3), inserted “local” aft
 
 Subsec. (e)(4)(C). Pub. L. 110–275, §125(b)(6), substituted “section 1395bb(a)(2)” for “section 1395bb(b)(2)”.
 
-2003—Subsec. (a)(1). Pub. L. 108–173, §222(a)(2), substituted “Requirement” for “In general” in par. heading, designated existing provisions as subpar. (A), inserted heading, substituted “chapter, benefits under the original medicare fee-for-service program option (and, for plan years before 2006, additional benefits required under section 1395w–24(f)(1)(A) of this title).” for “chapter—”, added subpar. (B), and struck out former subpars. (A) and (B) which read as follows:
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–173, §222(a)(2), substituted “Requirement” for “In general” in par. heading, designated existing provisions as subpar. (A), inserted heading, substituted “chapter, benefits under the original medicare fee-for-service program option (and, for plan years before 2006, additional benefits required under section 1395w–24(f)(1)(A) of this title).” for “chapter—”, added subpar. (B), and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) those items and services (other than hospice care) for which benefits are available under parts A and B of this subchapter to individuals residing in the area served by the plan, and
 
@@ -700,7 +728,7 @@ Subsec. (j)(7). Pub. L. 108–173, §102(b), added par. (7).
 
 Subsec. (k)(1). Pub. L. 108–173, §233(c), inserted “or with an organization offering an MSA plan” after “section 1395w–21(a)(2)(A) of this title”.
 
-2000—Subsec. (a)(2)(C). Pub. L. 106–554, §1(a)(6) \[title VI, §615\], added subpar. (C).
+<b>2000</b>—Subsec. (a)(2)(C). Pub. L. 106–554, §1(a)(6) \[title VI, §615\], added subpar. (C).
 
 Subsec. (a)(5). Pub. L. 106–554, §1(a)(6) \[title VI, §611(b)(5)\], inserted concluding provisions.
 
@@ -718,7 +746,7 @@ Subsec. (g)(4). Pub. L. 106–554, §1(a)(6) \[title V, §521(b)\], inserted at 
 
 Subsec. (<i>l</i>). Pub. L. 106–554, §1(a)(6) \[title VI, §621(a)\], added subsec. (<i>l</i>).
 
-1999—Subsec. (a)(3)(A). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(B)(i)\], struck out comma after “MSA plan” and inserted comma after “the coverage)”.
+<b>1999</b>—Subsec. (a)(3)(A). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(B)(i)\], struck out comma after “MSA plan” and inserted comma after “the coverage)”.
 
 Subsec. (e)(2)(A). Pub. L. 106–113, §1000(a)(6) \[title V, §520(a)(1)\], substituted “, a non-network MSA plan, or a preferred provider organization plan” for “or a non-network MSA plan” in introductory provisions.
 
@@ -740,6 +768,10 @@ Subsec. (k)(2)(C)(ii). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title III, §3202(a)(2), Mar. 23, 2010, 124 Stat. 454, provided that: “The amendments made by this subsection \[amending this section\] shall apply to plan years beginning on or after January 1, 2011.”
+
 #### Effective Date of 2008 Amendment
 
 Amendment by section 125(b)(6) of Pub. L. 110–275 applicable with respect to accreditations of hospitals granted on or after the date that is 24 months after July 15, 2008, with transition rule, see section 125(d) of Pub. L. 110–275, set out as an Effective Date of 2008 Amendment; Transition Rule note under section 1395bb of this title.
@@ -754,7 +786,7 @@ Pub. L. 110–275, title I, §165(b), July 15, 2008, 122 Stat. 2575, provided th
 
 #### Effective and Termination Dates of 2003 Amendment
 
-Amendment by sections 221(d)(3) and 222(a)(2), (3), (h), (<i>l</i>)(1) of Pub. L. 108–173 applicable with respect to plan years beginning on or after Jan. 1, 2006, see section 223(a) of Pub. L. 108–173, set out as an Effective Date of2003 Amendment note under section 1395w–21 of this title.
+Amendment by sections 221(d)(3) and 222(a)(2), (3), (h), (<i>l</i>)(1) of Pub. L. 108–173 applicable with respect to plan years beginning on or after Jan. 1, 2006, see section 223(a) of Pub. L. 108–173, set out as an Effective Date of 2003 Amendment note under section 1395w–21 of this title.
 
 Pub. L. 108–173, title II, §233(a)(3), Dec. 8, 2003, 117 Stat. 2209, provided that: “The amendments made by this subsection \[amending this section\] shall apply on and after the date of the enactment of this Act \[Dec. 8, 2003\] but shall not apply to contract years beginning on or after January 1, 2006.”
 
@@ -798,5 +830,7 @@ Report.—Not later than 2 years after the date of the enactment of this Act \[D
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §227(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–355, provided that: “The provisions of subparagraphs (A) and (B) of section 1852(a)(5) of the Social Security Act (42 U.S.C. 1395w–22(a)(5)) shall apply with respect to the coverage of additional benefits for immunosuppressive drugs under the amendments made by this section \[amending sections 1395k and 1395x of this title\] for drugs furnished in 2000 in the same manner as if such amendments constituted a national coverage determination described in the matter in such section before subparagraph (A).”
 
-<i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “this”.</i>
 

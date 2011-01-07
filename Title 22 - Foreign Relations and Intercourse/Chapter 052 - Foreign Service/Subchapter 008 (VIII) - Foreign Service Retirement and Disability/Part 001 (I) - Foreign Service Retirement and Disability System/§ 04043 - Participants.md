@@ -36,7 +36,7 @@ The Foreign Service Act of 1946, referred to in subsec. (c), is act Aug. 13, 194
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–335, §§402(a)(2), 414(1), substituted “Except as provided in subsection (d) of this section, the” for “The” and “part” for “subchapter” in provisions preceding par. (1).
+<b>1986</b>—Subsec. (a). Pub. L. 99–335, §§402(a)(2), 414(1), substituted “Except as provided in subsection (d) of this section, the” for “The” and “part” for “subchapter” in provisions preceding par. (1).
 
 Subsec. (d). Pub. L. 99–335, §414(2), added subsec. (d).
 

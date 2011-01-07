@@ -114,9 +114,9 @@ This section shall not apply to the extent that a distribution is treated as a s
 
 #### Amendments
 
-1999—Subsec. (f). Pub. L. 106–170 added subsec. (f).
+<b>1999</b>—Subsec. (f). Pub. L. 106–170 added subsec. (f).
 
-1997—Subsec. (c). Pub. L. 105–34, §1061(a), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The basis of distributed properties to which subsection (a)(2) or subsection (b) is applicable shall be allocated—
+<b>1997</b>—Subsec. (c). Pub. L. 105–34, §1061(a), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The basis of distributed properties to which subsection (a)(2) or subsection (b) is applicable shall be allocated—
 
 &emsp;“(1) first to any unrealized receivables (as defined in section 751(c)) and inventory items (as defined in section 751(d)(2)) in an amount equal to the adjusted basis of each such property to the partnership (or if the basis to be allocated is less than the sum of the adjusted bases of such properties to the partnership, in proportion to such bases), and
 
@@ -124,7 +124,7 @@ This section shall not apply to the extent that a distribution is treated as a s
 
 Subsec. (c)(1)(A)(i). Pub. L. 105–34, §1062(b)(3), substituted “section 751(d)” for “section 751(d)(2)”.
 
-1976—Subsec. (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 1999 Amendment
 

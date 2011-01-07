@@ -6,7 +6,7 @@ The Counsel shall defend the Senate or a committee, subcommittee, Member, office
 
 #### (b) Civil action to enforce subpena
 
-The Counsel shall bring a civil action to enforce a subpena of the Senate or a committee orsubcommittee of the Senate under section 288d of this title only when directed to do so by the adoption of a resolution by the Senate.
+The Counsel shall bring a civil action to enforce a subpena of the Senate or a committee or subcommittee of the Senate under section 288d of this title only when directed to do so by the adoption of a resolution by the Senate.
 
 #### (c) Intervention or appearance
 

@@ -26,7 +26,7 @@ A certification under the procedures authorized by this section shall—
 
 &emsp;(3) specify that the recipient of assistance under this subchapter has fully carried out its responsibilities as described under subsection (a) of this section, and
 
-&emsp;(4) specify that the certifying officer (A) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 etseq.\] and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or other such provision of law apply pursuant to subsection (a) of this section, and (B) is authorized and consents on behalf of the jurisdiction or insular area and himself to accept the jurisdiction of the Federal courts for the purpose of enforcement of his responsibilities as such an official.
+&emsp;(4) specify that the certifying officer (A) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or other such provision of law apply pursuant to subsection (a) of this section, and (B) is authorized and consents on behalf of the jurisdiction or insular area and himself to accept the jurisdiction of the Federal courts for the purpose of enforcement of his responsibilities as such an official.
 
 #### (d) Assistance to units of general local government from a State
 
@@ -40,11 +40,11 @@ The National Environmental Policy Act of 1969, referred to in subsecs. (a), (b),
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–330, §505(a)(2)(A), struck out “, Indian tribes,” after “projects to jurisdictions” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–330, §505(a)(2)(A), struck out “, Indian tribes,” after “projects to jurisdictions” in introductory provisions.
 
 Subsecs. (b), (c)(4). Pub. L. 104–330, §505(a)(2)(B), (C), struck out “, Indian tribe,” after “the jurisdiction”.
 
-1994—Subsec. (a). Pub. L. 103–233, §206(1), substituted “jurisdictions, Indian tribes, or insular areas” for “participating jurisdictions” and inserted before period at end “The regulations shall provide—
+<b>1994</b>—Subsec. (a). Pub. L. 103–233, §206(1), substituted “jurisdictions, Indian tribes, or insular areas” for “participating jurisdictions” and inserted before period at end “The regulations shall provide—
 
 &emsp;“(1) for the monitoring of the environmental reviews performed under this section;
 

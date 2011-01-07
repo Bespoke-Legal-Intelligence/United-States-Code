@@ -50,7 +50,7 @@
 
 #### (5) Income excluded under prior law
 
-&emsp;Amounts invested in less developed country corporations described in section 955(c)(2) (asin effect before the enactment of the Tax Reduction Act of 1975) shall be treated as qualified investments in foreign base company shipping operations and shall not be treated as investments in less developed countries for purposes of section 951(a)(1)(A)(ii).
+&emsp;Amounts invested in less developed country corporations described in section 955(c)(2) (as in effect before the enactment of the Tax Reduction Act of 1975) shall be treated as qualified investments in foreign base company shipping operations and shall not be treated as investments in less developed countries for purposes of section 951(a)(1)(A)(ii).
 
 (Added Pub. L. 94–12, title VI, §602(d)(3)(A), Mar. 29, 1975, 89 Stat. 62; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XII, §1221(c)(3)(B), (C), Oct. 22, 1986, 100 Stat. 2553; Pub. L. 100–647, title I, §1012(i)(11), Nov. 10, 1988, 102 Stat. 3509.)
 
@@ -66,13 +66,13 @@ A prior section 955, added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 10
 
 #### Amendments
 
-1988—Subsec. (a)(2)(A). Pub. L. 100–647 inserted “(to the extent such amount exceeds the sum of the decreases in qualified investments determined under this paragraph for prior taxable years beginning after 1986)” after “beginning before 1987”.
+<b>1988</b>—Subsec. (a)(2)(A). Pub. L. 100–647 inserted “(to the extent such amount exceeds the sum of the decreases in qualified investments determined under this paragraph for prior taxable years beginning after 1986)” after “beginning before 1987”.
 
-1986—Subsec. (a)(1)(A). Pub. L. 99–514, §1221(c)(3)(B), inserted “beginning before 1987” after “all prior taxable years”.
+<b>1986</b>—Subsec. (a)(1)(A). Pub. L. 99–514, §1221(c)(3)(B), inserted “beginning before 1987” after “all prior taxable years”.
 
 Subsec. (a)(2)(A). Pub. L. 99–514, §1221(c)(3)(C), substituted “as of the close of the last taxable year beginning before 1987” for “at the close of the preceding taxable year”.
 
-1976—Subsec. (b)(2), (3). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (b)(2), (3). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 1988 Amendment
 

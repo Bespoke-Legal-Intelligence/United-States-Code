@@ -46,5 +46,5 @@ In subsecs. (a), (e), and (f), “February 15, 1981” substituted for “the ef
 
 #### Amendments
 
-1983—Subsec. (f). Pub. L. 98–164 substituted provisions relating to applicability of sections 4007(c)(1) and 4009(a)(2)(B) of this title, for provisions relating to applicability of subchapter VIII of this chapter.
+<b>1983</b>—Subsec. (f). Pub. L. 98–164 substituted provisions relating to applicability of sections 4007(c)(1) and 4009(a)(2)(B) of this title, for provisions relating to applicability of subchapter VIII of this chapter.
 

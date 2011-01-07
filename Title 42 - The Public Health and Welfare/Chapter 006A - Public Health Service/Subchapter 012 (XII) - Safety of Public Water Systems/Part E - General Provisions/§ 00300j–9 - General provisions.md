@@ -56,7 +56,7 @@ Not later than April 1 of each year, the Administrator shall submit to the Commi
 
 (B) An order of the Secretary with respect to which review could have been obtained under subparagraph (A) shall not be subject to judicial review in any criminal or other civil proceeding.
 
-(4) Whenever a person has failed to comply with an order issued under paragraph (2)(B), the Secretary shall file a civil action in the United States District Court for the district in which the violation was found to occur to enforce such order. In actions brought under this paragraph, the district courts shall have jurisdiction to grant all appropriate relief including, but not limited to, injunctive relief, compensatory, and exemplary damages.
+(4) Whenever a person has failed to comply with an order issued under paragraph (2)(B), the Secretary shall file a civil action in the United States District Court for the district in which the violation was found to occur to enforce such order. In actions brought under this paragraph, the district courts shall have jurisdiction to grant all appropriate relief including, but notlimited to, injunctive relief, compensatory, and exemplary damages.
 
 (5) Any nondiscretionary duty imposed by this section is enforceable in mandamus proceeding brought under section 1361 of title 28.
 
@@ -76,9 +76,9 @@ In subsec. (e), “sections 3141–3144, 3146, and 3147 of title 40” substitut
 
 #### Amendments
 
-1994—Subsec. (h). Pub. L. 103–437 substituted “Committee on Commerce, Science, and Transportation ofthe Senate and the Committee on Energy and Commerce of the House” for “Committee on Commerce of the Senate and the Committee on Interstate and Foreign Commerce of the House”.
+<b>1994</b>—Subsec. (h). Pub. L. 103–437 substituted “Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House” for “Committee on Commerce of the Senate and the Committee on Interstate and Foreign Commerce of the House”.
 
-1984—Subsec. (i)(4). Pub. L. 98–620 struck out provision which required civil actions filed under par. (4) to be heard and decided expeditiously.
+<b>1984</b>—Subsec. (i)(4). Pub. L. 98–620 struck out provision which required civil actions filed under par. (4) to be heard and decided expeditiously.
 
 #### Change of Name
 

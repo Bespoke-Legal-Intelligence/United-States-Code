@@ -6,7 +6,7 @@ The Administrator shall provide teams of personnel, including Federal, State, an
 
 #### Amendments
 
-1978—Pub. L. 95–609 inserted “Federal agencies,” after “to provide”.
+<b>1978</b>—Pub. L. 95–609 inserted “Federal agencies,” after “to provide”.
 
 #### Transfer of Functions
 

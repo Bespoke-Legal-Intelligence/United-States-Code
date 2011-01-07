@@ -1,6 +1,6 @@
 ### §3008. Proceedings before United States magistrate judges
 
-A district court of the United States may assign its duties in proceedings under this chapterto a United States magistrate judge to the extent not inconsistent with the Constitution and laws of the United States.
+A district court of the United States may assign its duties in proceedings under this chapter to a United States magistrate judge to the extent not inconsistent with the Constitution and laws of the United States.
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4937; amended Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 

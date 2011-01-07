@@ -38,11 +38,11 @@ A farmers’ cooperative organization described in subsection (b)(1) shall be ex
 
 #### Amendments
 
-2004—Subsec. (b)(7). Pub. L. 108–357 added par. (7).
+<b>2004</b>—Subsec. (b)(7). Pub. L. 108–357 added par. (7).
 
-1986—Subsec. (b)(6). Pub. L. 99–272 added par. (6).
+<b>1986</b>—Subsec. (b)(6). Pub. L. 99–272 added par. (6).
 
-1962—Subsec. (a). Pub. L. 87–834 substituted “part I of subchapter T (sec. 1381 and following)” for “section 522” in two places.
+<b>1962</b>—Subsec. (a). Pub. L. 87–834 substituted “part I of subchapter T (sec. 1381 and following)” for “section 522” in two places.
 
 #### Effective Date of 2004 Amendment
 

@@ -78,17 +78,17 @@ Provisions similar to those comprising this section were contained in section 28
 
 #### Amendments
 
-2002—Subsec. (d)(1)(B). Pub. L. 107–273 substituted “group's” for “groups's”.
+<b>2002</b>—Subsec. (d)(1)(B). Pub. L. 107–273 substituted “group's” for “groups's”.
 
-1996—Subsec. (d). Pub. L. 104–177, §2(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Nothing in subsection (a) or (b) prevents an officer or employee, if not inconsistent with the faithful performance of his duties, from acting without compensation as agent or attorney for, or otherwise representing, any person who is the subject of disciplinary, loyalty, or other personnel administration proceedings in connection with those proceedings.”
+<b>1996</b>—Subsec. (d). Pub. L. 104–177, §2(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Nothing in subsection (a) or (b) prevents an officer or employee, if not inconsistent with the faithful performance of his duties, from acting without compensation as agent or attorney for, or otherwise representing, any person who is the subject of disciplinary, loyalty, or other personnel administration proceedings in connection with those proceedings.”
 
 Subsec. (i). Pub. L. 104–177, §2(b), added subsec. (i).
 
-1990—Subsec. (a)(2). Pub. L. 101–280, §5(c)(1), substituted “civil” for “any civil”.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–280, §5(c)(1), substituted “civil” for “any civil”.
 
 Subsec. (b)(2). Pub. L. 101–280, §5(c)(2), substituted “commission” for “any commission”.
 
-1989—Pub. L. 101–194 amended section generally, revising and restating as subsecs. (a) to (h) provisions formerly consisting of eight undesignated pars.
+<b>1989</b>—Pub. L. 101–194 amended section generally, revising and restating as subsecs. (a) to (h) provisions formerly consisting of eight undesignated pars.
 
 #### Effective Date
 

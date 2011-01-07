@@ -10,9 +10,9 @@ It is the sense of Congress that the President should use the authority under ch
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 8 of title II of that Act probably means chapter 8 of part II of that Act, which is classified generally to part VIII (§2349aa et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, asamended. Chapter 8 of title II of that Act probably means chapter 8 of part II of that Act, which is classified generally to part VIII (§2349aa et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–236, as amended by Pub. L. 103–415, struck out heading and text of subsec. (b). Text read as follows: “Not later than October 1 of each year, the President shall submit a report to the Congress on the progress and problems of improving perimeter security of United States diplomatic missions abroad.”
+<b>1994</b>—Subsec. (b). Pub. L. 103–236, as amended by Pub. L. 103–415, struck out heading and text of subsec. (b). Text read as follows: “Not later than October 1 of each year, the President shall submit a report to the Congress on the progress and problems of improving perimeter security of United States diplomatic missions abroad.”
 

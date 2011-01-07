@@ -128,7 +128,7 @@
 
 &emsp;&emsp;(B) the nature and extent of management participation in any offense involved, whether corporate policies and practices encouraged the offense, including whether inadequate institutional controls contributed to the offense,
 
-&emsp;&emsp;(C) the nature and extent of voluntary steps to mitigate the impact on the public ofany offense involved, including the recall or the discontinuation of the distribution of suspect drugs, full cooperation with any investigations (including the extent of disclosure to appropriate authorities of all wrongdoing), the relinquishing of profits on drug approvals fraudulently obtained, and any other actions taken to substantially limit potential or actual adverse effects on the public health,
+&emsp;&emsp;(C) the nature and extent of voluntary steps to mitigate the impact on the public of any offense involved, including the recall or the discontinuation of the distribution of suspect drugs, full cooperation with any investigations (including the extent of disclosure to appropriate authorities of all wrongdoing), the relinquishing of profits on drug approvals fraudulently obtained, and any other actions taken to substantially limit potential or actual adverse effects on the public health,
 
 &emsp;&emsp;(D) whether the extent to which changes in ownership, management, or operations have corrected the causes of any offense involved and provide reasonable assurances that the offense will not occur in the future,
 
@@ -188,13 +188,13 @@
 
 &emsp;&emsp;&emsp;(ii) all individuals who were involved in the commission of the offense or who knew or should have known of the offense have been removed from employment involving the development or approval of any drug subject to sections <sup>1</sup> 355 of this title,
 
-&emsp;&emsp;&emsp;(iii) the person fully cooperated with all investigations and promptly disclosed allwrongdoing to the appropriate authorities, and
+&emsp;&emsp;&emsp;(iii) the person fully cooperated with all investigations and promptly disclosed all wrongdoing to the appropriate authorities, and
 
 &emsp;&emsp;&emsp;(iv) the person acted to mitigate any impact on the public of any offense involved, including the recall, or the discontinuation of the distribution, of any drug with respect to which the Secretary requested a recall or discontinuation of distribution due to concerns about the safety or efficacy of the drug.
 
 #### (C) Individuals
 
-&emsp;&emsp;Upon an application submitted under subparagraph (A), the Secretary may take the action described in subparagraph (D) if the Secretary, after an informal hearing, finds that such individual has provided substantial assistance in the investigations or prosecutions of offenses which are described in subsection (a) or (b) of this section or which relate to any matter under the jurisdiction of the Food and Drug Administration.
+&emsp;&emsp;Upon an application submitted under subparagraph (A), the Secretary may take the action described in subparagraph (D) if theSecretary, after an informal hearing, finds that such individual has provided substantial assistance in the investigations or prosecutions of offenses which are described in subsection (a) or (b) of this section or which relate to any matter under the jurisdiction of the Food and Drug Administration.
 
 #### (D) Secretarial action
 
@@ -252,7 +252,7 @@ The Secretary shall publish in the Federal Register the name of any person debar
 
 #### (3) Informal hearing
 
-&emsp;Within 10 days of the date an order is issued under paragraph (1), the Secretary shall provide such person with an opportunity for an informal hearing, to be held within such 10 days, on the decision of the Secretary to refuse approval of an abbreviated drug application. Within 60 days of the date on which such hearing is held, the Secretary shall notify the person given such hearing whether the Secretary's refusal of approval will be continued,terminated, or otherwise modified. Such notification shall be final agency action.
+&emsp;Within 10 days of the date an order is issued under paragraph (1), the Secretary shall provide such person with an opportunity for an informal hearing, to be held within such 10 days, on the decision of the Secretary to refuse approval of an abbreviated drug application. Within 60 days of the date on which such hearing is held, the Secretary shall notify the person given such hearing whether the Secretary's refusal of approval will be continued, terminated, or otherwise modified. Such notification shall be final agency action.
 
 #### (g) Suspension authority
 
@@ -264,7 +264,7 @@ The Secretary shall publish in the Federal Register the name of any person debar
 
 &emsp;&emsp;&emsp;(i) that a person has engaged in conduct described in subparagraph (B) of subsection (f)(1) of this section in connection with 2 or more drugs under abbreviated drug applications, or
 
-&emsp;&emsp;&emsp;(ii) that a person has engaged in flagrant and repeated, material violations of good manufacturing practice or good laboratory practice in connection with the development, manufacturing, or distribution of one or more drugs approved under an abbreviated drug application during a 2-year period, and—
+&emsp;&emsp;&emsp;(ii) that a person has engaged in flagrant and repeated, material violations of good manufacturing practice or good laboratorypractice in connection with the development, manufacturing, or distribution of one or more drugs approved under an abbreviated drug application during a 2-year period, and—
 
 &emsp;&emsp;&emsp;&emsp;(I) such violations may undermine the safety and efficacy of such drugs, and
 
@@ -322,7 +322,7 @@ Any application for approval of a drug product shall include—
 
 &emsp;For purposes of this section, a person is considered to have been convicted of a criminal offense—
 
-&emsp;&emsp;(A) when a judgment of conviction has been entered against the person by a Federal or State court, regardless of whether there is an appeal pending,
+&emsp;&emsp;(A) when a judgment of conviction has been entered against the person by a Federalor State court, regardless of whether there is an appeal pending,
 
 &emsp;&emsp;(B) when a plea of guilty or nolo contendere by the person has been accepted by a Federal or State court, or
 
@@ -358,7 +358,7 @@ A prior section 306 of act June 25, 1938, was renumbered section 309 and is clas
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–188, §304(b)(1), substituted “Mandatory debarment; certain drug applications” for “Mandatory debarment” in heading.
+<b>2002</b>—Subsec. (a). Pub. L. 107–188, §304(b)(1), substituted “Mandatory debarment; certain drug applications” for “Mandatory debarment” in heading.
 
 Subsec. (b). Pub. L. 107–188, §304(b)(2)(A), substituted “Permissive debarment; certain drug applications; food imports” for “Permissive debarment” in heading.
 
@@ -384,7 +384,7 @@ Subsec. (<i>l</i>)(2). Pub. L. 107–188, §304(c), in first sentence struck out
 
 Subsec. (m). Pub. L. 107–250 added subsec. (m).
 
-1997—Subsec. (d)(4)(B)(ii). Pub. L. 105–115 struck out “or 357” after “355”.
+<b>1997</b>—Subsec. (d)(4)(B)(ii). Pub. L. 105–115 struck out “or 357” after “355”.
 
 #### Construction
 

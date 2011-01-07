@@ -26,5 +26,5 @@
 
 #### Amendments
 
-2004—Subsecs. (a)(3), (b)(1), (2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
+<b>2004</b>—Subsecs. (a)(3), (b)(1), (2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
 

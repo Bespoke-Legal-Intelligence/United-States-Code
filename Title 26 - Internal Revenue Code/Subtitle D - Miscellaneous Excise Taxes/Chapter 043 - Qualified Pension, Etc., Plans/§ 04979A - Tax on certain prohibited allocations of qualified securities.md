@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–16, §656(c)(1), added pars. (3) and (4) and, in concluding provisions, substituted “there is hereby imposed a tax on such allocation or ownership equal to 50 percent of the amount involved.” for “there is hereby imposed a tax on such allocation equal to 50 percent of the amount involved.”
+<b>2001</b>—Subsec. (a). Pub. L. 107–16, §656(c)(1), added pars. (3) and (4) and, in concluding provisions, substituted “there is hereby imposed a tax on such allocation or ownership equal to 50 percent of the amount involved.” for “there is hereby imposed a tax on such allocation equal to 50 percent of the amount involved.”
 
 Subsec. (c). Pub. L. 107–16, §656(c)(2), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The tax imposed by this section shall be paid by—
 
@@ -90,7 +90,7 @@ Subsec. (c). Pub. L. 107–16, §656(c)(2), amended heading and text of subsec. 
 
 Subsec. (e). Pub. L. 107–16, §656(c)(3), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “Terms used in this section have the same respective meaning as when used in section 4978.”
 
-1997—Subsec. (a). Pub. L. 105–34, §1530(c)(15), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “If there is a prohibited allocation of qualified securities by any employee stock ownership plan or eligible worker-owned cooperative, there is hereby imposed a tax on such allocation equal to 50 percent of the amount involved.”
+<b>1997</b>—Subsec. (a). Pub. L. 105–34, §1530(c)(15), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “If there is a prohibited allocation of qualified securities by any employee stock ownership plan or eligible worker-owned cooperative, there is hereby imposed a tax on such allocation equal to 50 percent of the amount involved.”
 
 Subsec. (c). Pub. L. 105–34, §1530(c)(16), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The tax imposed by this section shall be paid by—
 
@@ -102,13 +102,13 @@ Subsec. (c). Pub. L. 105–34, §1530(c)(16), amended heading and text of subsec
 
 Subsecs. (d), (e). Pub. L. 105–34, §1530(c)(17), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1996—Subsec. (c). Pub. L. 104–188 amended directory language of Pub. L. 101–239, §7304(a)(2)(D)(ii). See 1989 Amendment note below.
+<b>1996</b>—Subsec. (c). Pub. L. 104–188 amended directory language of Pub. L. 101–239, §7304(a)(2)(D)(ii). See 1989 Amendment note below.
 
-1989—Subsec. (b)(1). Pub. L. 101–239, §7304(a)(2)(D)(i), struck out “or section 2057” after “section 1042”.
+<b>1989</b>—Subsec. (b)(1). Pub. L. 101–239, §7304(a)(2)(D)(i), struck out “or section 2057” after “section 1042”.
 
 Subsec. (c). Pub. L. 101–239, §7304(a)(2)(D)(ii), as amended by Pub. L. 104–188, struck out “or section 2057(d)” after “section 1042(b)(3)(B)” in concluding provisions.
 
-1986—Subsec. (b)(1). Pub. L. 99–514, §1172(b)(2)(A), inserted reference to section 2057.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §1172(b)(2)(A), inserted reference to section 2057.
 
 Subsec. (c). Pub. L. 99–514, §1172(b)(2)(B), inserted reference to section 2057(d).
 

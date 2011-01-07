@@ -36,7 +36,7 @@ It shall be unlawful for any person to transport or deliver for transportation i
 
 &emsp;&emsp;&emsp;(ii) the person to whom the seed is sold or shipped for resale, together with a code designation approved by the Secretary of Agriculture under rules and regulations prescribed under section 1592 of this title, indicating the person who transports or delivers for transportation said seed in interstate commerce;
 
-&emsp;(2) For containers of one pound or less of seed that germinates less than the standard last established by the Secretary of Agriculture, as provided under section 1593(c) of this title—
+&emsp;(2) For containers of one pound or less of seed that germinates less than the standardlast established by the Secretary of Agriculture, as provided under section 1593(c) of this title—
 
 &emsp;&emsp;(A) The name of each kind and variety of seed, and if two or more kinds or varieties are present, the percentage of each, and further, that in the case of any such component which is a hybrid seed, it shall be designated as hybrid on the label; and
 

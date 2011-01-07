@@ -24,7 +24,7 @@ Administration To Carry Out Policy.—This part shall be administered and enforc
 
 #### Historical and Revision Notes
 
-I74Pub. L. 105–102
+#### Pub. L. 105–102
 
 This amends 49:15101(a) to correct a grammatical error.
 
@@ -34,7 +34,7 @@ Provisions similar to those in this section were contained in section 10101 of t
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–102 struck out “of” after “Government to oversee”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–102 struck out “of” after “Government to oversee”.
 
 #### Effective Date
 

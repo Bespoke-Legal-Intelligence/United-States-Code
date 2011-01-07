@@ -22,17 +22,17 @@ Section was formerly classified to section 597 of Title 5 prior to the general r
 
 #### Amendments
 
-2000—Pars. (5) to (7). Pub. L. 106–503 inserted “and” after “Census;” in par. (5), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “United States Fire Administration; and”.
+<b>2000</b>—Pars. (5) to (7). Pub. L. 106–503 inserted “and” after “Census;” in par. (5), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “United States Fire Administration; and”.
 
-1999—Pub. L. 106–113 redesignated pars. (a) to (g) as (1) to (7), respectively, realigned margins, and in par. (4) substituted “United States Patent and Trademark Office” for “Patent and Trademark Office;”.
+<b>1999</b>—Pub. L. 106–113 redesignated pars. (a) to (g) as (1) to (7), respectively, realigned margins, and in par. (4) substituted “United States Patent and Trademark Office” for “Patent and Trademark Office;”.
 
-1988—Subsec. (c). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
-1981—Pars. (c) to (g). Pub. L. 97–31 struck out par. (c) “Maritime Administration” and redesignated pars. (d) to (h) as (c) to (g), respectively.
+<b>1981</b>—Pars. (c) to (g). Pub. L. 97–31 struck out par. (c) “Maritime Administration” and redesignated pars. (d) to (h) as (c) to (g), respectively.
 
-1978—Par. (g). Pub. L. 95–422 substituted “United States Fire Administration” for “National Fire Prevention and Control Administration”.
+<b>1978</b>—Par. (g). Pub. L. 95–422 substituted “United States Fire Administration” for “National Fire Prevention and Control Administration”.
 
-1974—Pub. L. 93–498 amended section generally, substituting reference to Secretary of Commerce for Department of Commerce, substituting letters for numbers in the designation for enumerated bodies, and in such enumeration substituted reference to National Oceanic and Atmospheric Administration, United States Travel Service, Maritime Administration, National Bureau of Standards, Patent Office, Bureau of the Census, National Fire Prevention and Control Administration and such other bureaus or other organizational units as the Secretary of Commerce may from time to time establish in accordance with law, for reference to The Bureau of Foreign and Domestic Commerce, The Bureau of Public Roads, The Civil Aeronautics Authority, The Census Office, The Coast and Geodetic Survey, The Federal Maritime Board, The Inland Waterways Corporation, The Maritime Administration, The National Bureau of Standards, The Patent Office, and The Weather Bureau.
+<b>1974</b>—Pub. L. 93–498 amended section generally, substituting reference to Secretary of Commerce for Department of Commerce, substituting letters for numbers in the designation for enumerated bodies, and in such enumeration substituted reference to National Oceanic and Atmospheric Administration, United States Travel Service, Maritime Administration, National Bureau of Standards, Patent Office, Bureau of the Census, National Fire Prevention and Control Administration and such other bureaus or other organizational units as the Secretary of Commerce may from time to time establish in accordance with law, for reference to The Bureau of Foreign and Domestic Commerce, The Bureau of Public Roads, The Civil Aeronautics Authority, The Census Office, The Coast and Geodetic Survey, The Federal Maritime Board, The Inland Waterways Corporation, The Maritime Administration, The National Bureau of Standards, The Patent Office, and The Weather Bureau.
 
 #### Change of Name
 
@@ -40,7 +40,7 @@ Section was formerly classified to section 597 of Title 5 prior to the general r
 
 “Patent and Trademark Office” substituted for “Patent Office”, in par. (d) pursuant to section 3 of Pub. L. 93–596, set out as a note under section 1 of Title 35, Patents.
 
-In order to implement the provisions of Reorganization Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, as amended, set out below, the following organizational names appearing in chapter IX of subtitle B of Title 15, Code of Federal Regulations, which covers the administration of the National Oceanic and Atmospheric Administration, were changed by order of the Acting Associate Administrator, 35 F.R. 19249, Dec. 19, 1970, as follows: Environmental Science Services Administration to National Oceanic and Atmospheric Administration (ESSA to NOAA); Coast and Geodetic Survey to National Ocean Survey; and Weather Bureau to National Weather Service.
+In order to implement the provisions of Reorganization Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, as amended, set out below, the following organizational names appearing in chapter IX of subtitle B of Title 15, Code of Federal Regulations, which coversthe administration of the National Oceanic and Atmospheric Administration, were changed by order of the Acting Associate Administrator, 35 F.R. 19249, Dec. 19, 1970, as follows: Environmental Science Services Administration to National Oceanic and Atmospheric Administration (ESSA to NOAA); Coast and Geodetic Survey to National Ocean Survey; and Weather Bureau to National Weather Service.
 
 #### Effective Date of 1999 Amendment
 
@@ -70,7 +70,7 @@ Maritime Administration, with a Maritime Administrator at its head, was establis
 
 Section 304 of Reorg. Plan No. 7 of 1961, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840, set out in the Appendix to Title 5, abolished Federal Maritime Board, including offices of members of Board. Functions of Board transferred either to Federal Maritime Commission, which was established as an independent body, or to Secretary of Commerce by sections 103 and 202 of Reorg. Plan No. 7 of 1961.
 
-Maritime Administration of Department of Commerce transferred to Department of Transportation,and all related functions of Secretary and other officers and offices of Department of Commerce transferred to Department of Transportation and vested in Secretary of Transportation, by Maritime Act of 1981, Pub. L. 97–31, Aug. 6, 1981, 95 Stat. 151, which was repealed in part by Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710. See section 109 of Title 49, Transportation.
+Maritime Administration of Department of Commerce transferred to Department of Transportation, and all related functions of Secretary and other officers and offices of Department of Commerce transferred to Department of Transportation and vested in Secretary of Transportation, by Maritime Act of 1981, Pub. L. 97–31, Aug. 6, 1981, 95 Stat. 151, which was repealed in part by Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710. See section 109 of Title 49, Transportation.
 
 Community Relations Service transferred from Department of Commerce to Department of Justice by Reorg. Plan No. 1 of 1966, eff. Apr. 22, 1966, 31 F.R. 6187, 80 Stat. 1607, set out in the Appendix to Title 5.
 
@@ -126,7 +126,7 @@ The following are hereby transferred to the Secretary of Commerce:
 
 (e) Those functions vested in the Secretary of Defense or in any officer, employee, or organizational entity of the Department of Defense by the provision of Public Law 91–144, 83 Stat. 326, under the heading “Operation and maintenance, general” with respect to “surveys and charting of northern and northwestern lakes and connecting waters,” or by other law, which come under the mission assigned as of July 1, 1969, to the United States Army Engineer District, Lake Survey, Corps of Engineers, Department of the Army and relate to (1) the conduct of hydrographic surveys of the Great Lakes and their outflow rivers, Lake Champlain, New York State Barge Canals, and the Minnesota-Ontario border lakes, and the compilation and publication of navigation charts, including recreational aspects, and the Great Lakes Pilot for the benefit and use of the public, (2) the conception, planning, and conduct of basic research and development in the fields of water motion, water characteristics, water quantity, and ice and snow, and (3) the publication of data and the results of research projects in forms useful to the Corps of Engineers and the public, and the operation of a Regional Data Center for the collection, coordination, analysis, and the furnishing to interested agencies of data relating to water resources of the Great Lakes.
 
-(f) So much of the functions of the transferor officers and agencies referred to in or affected by the foregoing provisions of this section as is incidental to or necessary for the performance by or under the Secretary of Commerce of the functions transferred by those provisions or relates primarily to those functions. The transfers to the Secretary of Commerce made by this section shall be deemed to include the transfer of authority, provided by law, to prescribe regulations relating primarily to the transferred functions.
+(f) So much of the functions of the transferor officers and agencies referred to in or affected by the foregoing provisions of this section as is incidental to or necessary for the performance by or under the Secretary ofCommerce of the functions transferred by those provisions or relates primarily to those functions. The transfers to the Secretary of Commerce made by this section shall be deemed to include the transfer of authority, provided by law, to prescribe regulations relating primarily to the transferred functions.
 
 #### Sec. 2. Establishment of Administration
 
@@ -158,7 +158,7 @@ The provisions of sections 2 and 4 of Reorganization Plan No. 5 of 1950 (64 Stat
 
 (a) So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with the functions transferred to the Secretary of Commerce by this reorganization plan as the Director of the Office of Management and Budget shall determine shall be transferred to the Department of Commerce at such time or times as the Director shall direct.
 
-(b) Such further measures and dispositions as the Director of the Office of Management and Budget shalldeem to be necessary in order to effectuate the transfers referred to in subsection (a) of this section shall be carried out in such manner as he shall direct and by such agencies as he shall designate.
+(b) Such further measures and dispositions as the Director of the Office of Management and Budget shall deem to be necessary in order to effectuate the transfers referred to in subsection (a) of this section shall be carried out in such manner as he shall direct and by such agencies as he shall designate.
 
 (c) The personnel, property, records, and unexpended balances of appropriations, allocations, and other funds of the Environmental Science Services Administration shall become personnel, property, records, and unexpended balances of the National Oceanic and Atmospheric Administration or of such other organizational entity or entities of the Department of Commerce as the Secretary of Commerce shall determine.
 

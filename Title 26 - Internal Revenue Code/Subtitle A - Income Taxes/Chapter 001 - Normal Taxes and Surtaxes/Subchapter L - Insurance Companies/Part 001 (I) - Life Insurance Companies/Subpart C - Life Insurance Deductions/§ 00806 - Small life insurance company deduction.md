@@ -98,7 +98,7 @@ Another prior section 806, act Aug. 16, 1954, ch. 736, 68A Stat. 258, related to
 
 #### Amendments
 
-1986—Pub. L. 99–514, §1011(b)(11)(A), substituted “Small life insurance company deduction” for “Special deductions” in section catchline.
+<b>1986</b>—Pub. L. 99–514, §1011(b)(11)(A), substituted “Small life insurance company deduction” for “Special deductions” in section catchline.
 
 Subsec. (a). Pub. L. 99–514, §1011(a), redesignated subsec. (b) as (a) and struck out former subsec. (a), special life insurance company deduction, which read as follows: “For purposes of section 804, the special life insurance company deduction for any taxable year is 20 percent of the excess of the tentative LICTI for such taxable year over the small life insurance company deduction (if any).”
 

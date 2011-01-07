@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-If a corporation redeems its stock (within the meaning of section 317(b)), and if paragraph (1), (2), (3), or (4) of subsection (b) applies, such redemption shall be treated as a distribution in part or full payment in exchange for the stock.
+If a corporation redeems its stock (within the meaning of section 317(b)), and if paragraph (1), (2), (3), (4), or (5) of subsection (b) applies, such redemption shall be treated as a distribution in part or full payment in exchange for the stock.
 
 #### (b) Redemptions treated as exchanges
 
@@ -28,7 +28,7 @@ If a corporation redeems its stock (within the meaning of section 317(b)), and i
 
 > &emsp;&emsp;is less than 80 percent of—
 
-&emsp;&emsp;&emsp;(ii) the ratio which the voting stock of the corporation owned by the shareholderimmediately before the redemption bears to all of the voting stock of the corporation at such time.
+&emsp;&emsp;&emsp;(ii) the ratio which the voting stock of the corporation owned by the shareholder immediately before the redemption bears to all of the voting stock of the corporation at such time.
 
 > &emsp;&emsp;For purposes of this paragraph, no distribution shall be treated as substantially disproportionate unless the shareholder's ownership of the common stock of the corporation (whether voting or nonvoting) after and before redemption also meets the 80 percent requirement of the preceding sentence. For purposes of the preceding sentence, if there is more than one class of common stock, the determinations shall be made by reference to fair market value.
 
@@ -48,7 +48,15 @@ If a corporation redeems its stock (within the meaning of section 317(b)), and i
 
 &emsp;&emsp;(B) in partial liquidation of the distributing corporation.
 
-#### (5) Application of paragraphs
+#### (5) Redemptions by certain regulated investment companies
+
+&emsp;Except to the extent provided in regulations prescribed by the Secretary, subsection (a) shall apply to any distribution in redemption of stock of a publicly offered regulated investment company (within the meaning of section 67(c)(2)(B)) if—
+
+&emsp;&emsp;(A) such redemption is upon the demand of the stockholder, and
+
+&emsp;&emsp;(B) such company issues only stock which is redeemable upon the demand of the stockholder.
+
+#### (6) Application of paragraphs
 
 &emsp;In determining whether a redemption meets the requirements of paragraph (1), the fact that such redemption fails to meet the requirements of paragraph (2), (3), or (4) shall not be taken into account. If a redemption meets the requirements of paragraph (3) and also the requirements of paragraph (1), (2), or (4), then so much of subsection (c)(2) as would (but for this sentence) apply in respect of the acquisition of an interest in the corporation within the 10-year period beginning on the date of the distribution shall not apply.
 
@@ -110,7 +118,7 @@ Except as otherwise provided in this subchapter, if a corporation redeems its st
 
 &emsp;&emsp;(A) the distribution is not essentially equivalent to a dividend (determined at the corporate level rather than at the shareholder level), and
 
-&emsp;&emsp;(B) the distribution is pursuant to a plan and occurs within the taxable year in which the plan is adopted or within the succeeding taxable year.
+&emsp;&emsp;(B) the distribution is pursuant to a plan and occurs within the taxable year in whichthe plan is adopted or within the succeeding taxable year.
 
 #### (2) Termination of business
 
@@ -146,13 +154,17 @@ Except as otherwise provided in this subchapter, if a corporation redeems its st
 
 &emsp;&emsp;<b>(3) Liquidations.—Of stock in complete liquidation, see section 331.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 85; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, §5(b), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 97–248, title II, §§222(c), 228(a), Sept. 3, 1982, 96 Stat. 478, 493; Pub. L. 98–369, div. A, title VII, §712(i)(1), July 18, 1984, 98 Stat. 948.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 85; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, §5(b), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 97–248, title II, §§222(c), 228(a), Sept. 3, 1982, 96 Stat. 478, 493; Pub. L. 98–369, div. A, title VII, §712(i)(1), July 18, 1984, 98 Stat. 948; Pub. L. 111–325, title III, §306(a), Dec. 22, 2010, 124 Stat. 3549.)
 
 #### Amendments
 
-1984—Subsec. (f)(3). Pub. L. 98–369 substituted “complete liquidation” for “partial or complete liquidation”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–325, §306(a)(2), substituted “(4), or (5)” for “or (4)”.
 
-1982—Subsec. (a). Pub. L. 97–248, §222(c)(3), substituted “paragraph (1), (2), (3), or (4)” for “paragraph (1), (2), or (3)”.
+Subsec. (b)(5), (6). Pub. L. 111–325, §306(a)(1), added par. (5) and redesignated former par. (5) as (6).
+
+<b>1984</b>—Subsec. (f)(3). Pub. L. 98–369 substituted “complete liquidation” for “partial or complete liquidation”.
+
+<b>1982</b>—Subsec. (a). Pub. L. 97–248, §222(c)(3), substituted “paragraph (1), (2), (3), or (4)” for “paragraph (1), (2), or (3)”.
 
 Subsec. (b)(4), (5). Pub. L. 97–248, §222(c)(1), (4), added par. (4), redesignated former par. (4) as (5) and substituted “paragraph (2), (3), or (4)” for “paragraph (2) or (3)” after “to meet the requirements of”, and “paragraph (1), (2), or (4)” for “paragraph (1) or (2)” after “and also the requirements of”.
 
@@ -160,11 +172,15 @@ Subsec. (c)(2)(C). Pub. L. 97–248, §228(a), added subpar. (C).
 
 Subsecs. (e), (f). Pub. L. 97–248, §222(c)(2), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1980—Subsec. (a). Pub. L. 96–589, §5(b)(2)(A), struck out reference to par. (4) of subsec. (b).
+<b>1980</b>—Subsec. (a). Pub. L. 96–589, §5(b)(2)(A), struck out reference to par. (4) of subsec. (b).
 
 Subsec. (b)(4), (5). Pub. L. 96–589, §5(b)(1), (2)(B), redesignated par. (5) as (4) and struck out reference to par. (4) in two places. Former par. (4) was struck out.
 
-1976—Subsec. (c)(2). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (c)(2). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–325 applicable to distributions after Dec. 22, 2010, see section 306(c) of Pub. L. 111–325, set out as a note under section 267 of this title.
 
 #### Effective Date of 1984 Amendment
 

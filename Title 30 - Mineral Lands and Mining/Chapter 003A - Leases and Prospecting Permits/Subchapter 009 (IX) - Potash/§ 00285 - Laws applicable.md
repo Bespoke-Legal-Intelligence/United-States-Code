@@ -16,7 +16,7 @@ Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, know
 
 #### Amendments
 
-1946—Act Aug. 8, 1946, struck out reference to section 181 of this title.
+<b>1946</b>—Act Aug. 8, 1946, struck out reference to section 181 of this title.
 
 #### Savings Provision
 

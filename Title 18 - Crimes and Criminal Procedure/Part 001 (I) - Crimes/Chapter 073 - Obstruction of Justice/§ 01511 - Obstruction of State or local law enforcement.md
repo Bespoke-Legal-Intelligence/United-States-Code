@@ -34,9 +34,9 @@ Paragraph (3) of subsection (c) of section 501 of the Internal Revenue Code of 1
 
 #### Amendments
 
-1994—Subsec. (d). Pub. L. 103–322 substituted “fine under this title” for “fine of not more than $20,000”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–322 substituted “fine under this title” for “fine of not more than $20,000”.
 
-1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 #### Congressional Statement of Findings
 

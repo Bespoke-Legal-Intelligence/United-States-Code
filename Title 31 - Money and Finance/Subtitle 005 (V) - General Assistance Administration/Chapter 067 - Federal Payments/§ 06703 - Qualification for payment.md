@@ -50,7 +50,7 @@ Alternative Uses of Funds.—
 
 &emsp;(1)
 
-Alternative uses authorized.—In lieu of, or in addition to, use for an activity described in subsection (a) and notice for thatuse under subsection (a), an eligible unit of general local government may use assistance under this chapter, and shall provide notice of that use to the Secretary under subsection (a), for any other activity that is consistent with 1 or more of the purposes described in section 6701(a)(2).
+Alternative uses authorized.—In lieu of, or in addition to, use for an activity described in subsection (a) and notice for that use under subsection (a), an eligible unit of general local government may use assistance under this chapter, and shall provide notice of that use to the Secretary under subsection (a), for any other activity that is consistent with 1 or more of the purposes described in section 6701(a)(2).
 
 &emsp;(2)
 
@@ -112,7 +112,7 @@ Payment conditions.—The Secretary may make a payment to a unit of general loca
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1), (9), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Parts A and B of chapter 1 of title I of the Act were classified generally to parts A (§2711 et seq.) and B (§2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. See part A (§6311 et seq.) and subpart 3 (§6381 et seq.) of part B of subchapter I of chapter 70 of Title 20. Section 5122 of the Act was classified to section 3192 of Title 20 prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382. A new section 5122 of the Act, relating to applications for assistance under educational reform programs, was added by Pub. L. 107–110 and is classified to section 7213a of Title 20.
 
-Section 682 of the Community Services Block Grant Act, referred to in subsec. (a)(2), which was classified tosection 9910c of Title 42, The Public Health and Welfare, was omitted in the general amendment of chapter 106 of Title 42, by Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2728. A new section 682 of the Act, containing similar subject matter, is classified to section 9923 of Title 42.
+Section 682 of the Community Services Block Grant Act, referred to in subsec. (a)(2), which was classified to section 9910c of Title 42, The Public Health and Welfare, was omitted in the general amendment of chapter 106 of Title 42, by Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2728. A new section 682 of the Act, containing similar subject matter, is classified to section 9923 of Title 42.
 
 Public Law 101–509, referred to in subsec. (a)(3), is Pub. L. 101–509, Nov. 5, 1990, 104 Stat. 1389. For complete classification of this Act to the Code, see Tables.
 
@@ -150,17 +150,17 @@ A prior section 6703, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1012; Pub. L. 9
 
 #### Amendments
 
-2006—Subsec. (a)(12). Pub. L. 109–270 which directed the substitution of “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”, was executed by making the substitution for “Carl Perkins Vocational Educational and Applied Technology Education Act” to reflect the probable intent of Congress.
+<b>2006</b>—Subsec. (a)(12). Pub. L. 109–270 which directed the substitution of “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”, was executed by making the substitution for “Carl Perkins Vocational Educational and Applied Technology Education Act” to reflect the probable intent of Congress.
 
-2002—Subsec. (d)(5). Pub. L. 107–217 substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (commonly known as the Davis-Bacon Act); as amended (40 U.S.C. 276a–276a–5)” and “section 3145 of title 40” for “section 2 of the Act of June 1, 1934 (commonly known as the Copeland Anti-Kickback Act), as amended (40 U.S.C. 276c, 48 Stat. 948)”.
+<b>2002</b>—Subsec. (d)(5). Pub. L. 107–217 substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (commonly known as the Davis-Bacon Act); as amended (40 U.S.C. 276a–276a–5)” and “section 3145 of title 40” for “section 2 of the Act of June 1, 1934 (commonly known as the Copeland Anti-Kickback Act), as amended (40 U.S.C. 276c, 48 Stat. 948)”.
 
-1998—Subsec. (a)(4). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(19)\], added par. (4) and struck out former par. (4) which read as follows: “Programs under title II or IV of the Job Training Partnership Act or under title I of the Workforce Investment Act of 1998.”
+<b>1998</b>—Subsec. (a)(4). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(19)\], added par. (4) and struck out former par. (4) which read as follows: “Programs under title II or IV of the Job Training Partnership Act or under title I of the Workforce Investment Act of 1998.”
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(27)\], added par. (4) and struck out former par. (4) which read as follows: “Programs under title II or IV of the Job Training Partnership Act (29 U.S.C. 1601 et seq.).”
 
 Subsec. (a)(15) to (19). Pub. L. 105–277, §101(f) \[title VIII, §405(c)(3)\], redesignated pars. (16) to (19) as (15) to (18), respectively, and struck out former par. (15) which read as follows: “The family support program under subtitle F of title VII of the Stewart B. McKinney Homeless Assistance Act (42 U.S.C. 11481 et seq.).”
 
-1996—Subsec. (d)(6). Pub. L. 104–316 struck out “after consultation with the Comptroller General of the United States” after “by the Secretary”.
+<b>1996</b>—Subsec. (d)(6). Pub. L. 104–316 struck out “after consultation with the Comptroller General of the United States” after “by the Secretary”.
 
 #### Effective Date of 1998 Amendment
 

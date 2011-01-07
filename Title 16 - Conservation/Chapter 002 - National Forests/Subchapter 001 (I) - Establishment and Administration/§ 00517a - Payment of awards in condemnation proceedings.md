@@ -6,9 +6,9 @@ In condemnation proceedings, heretofore or hereafter prosecuted, for the acquisi
 
 #### References in Text
 
-This Act, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, popularly known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 552 of this title and Tables.
+This Act, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, popularly known asthe Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 552 of this title and Tables.
 
 #### Amendments
 
-1926—Act Dec. 11, 1926, amended act Mar. 1, 1911, constituting section 517 of this title, by inserting text of this section as a proviso thereof.
+<b>1926</b>—Act Dec. 11, 1926, amended act Mar. 1, 1911, constituting section 517 of this title, by inserting text of this section as a proviso thereof.
 

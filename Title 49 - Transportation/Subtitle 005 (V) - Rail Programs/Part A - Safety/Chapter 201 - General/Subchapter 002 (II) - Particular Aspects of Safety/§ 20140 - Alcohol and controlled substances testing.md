@@ -108,7 +108,7 @@ In subsection (c)(5), the word “tested” is substituted for “assayed” for
 
 #### Amendments
 
-1995—Subsec. (b)(1)(A). Pub. L. 104–59 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a railroad carrier to conduct preemployment, reasonable suspicion, random, and post-accident testing of all railroad employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of alcohol or a controlled substance in violation of law or a United States Government regulation; and”.
+<b>1995</b>—Subsec. (b)(1)(A). Pub. L. 104–59 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a railroad carrier to conduct preemployment, reasonable suspicion, random, and post-accident testing of all railroad employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of alcohol or a controlled substance in violation of law or a United States Government regulation; and”.
 
 #### Alcohol and Controlled Substance Testing for Maintenance-of-Way Employees
 

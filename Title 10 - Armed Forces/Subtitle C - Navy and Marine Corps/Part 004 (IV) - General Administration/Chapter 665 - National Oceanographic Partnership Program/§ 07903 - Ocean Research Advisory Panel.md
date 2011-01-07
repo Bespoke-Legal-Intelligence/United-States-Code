@@ -34,7 +34,7 @@ Funding.—The Secretary of the Navy annually shall make funds available to supp
 
 #### Amendments
 
-1997—Pub. L. 105–85 amended text generally. Prior to amendment, text read as follows:
+<b>1997</b>—Pub. L. 105–85 amended text generally. Prior to amendment, text read as follows:
 
 “(a)
 
@@ -46,7 +46,7 @@ Responsibilities.—The Council shall assign to the Advisory Panel responsibilit
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–85 effective as of Sept. 23, 1996, as if included in section 282 of Pub. L. 104–201, seesection 241(d) of Pub. L. 105–85, set out as a note under section 7902 of this title.
+Amendment by Pub. L. 105–85 effective as of Sept. 23, 1996, as if included in section 282 of Pub. L. 104–201, see section 241(d) of Pub. L. 105–85, set out as a note under section 7902 of this title.
 
 #### Termination of Advisory Panels
 

@@ -184,7 +184,7 @@ Right of pilot to review certain records.—Notwithstanding any other provision 
 
 &emsp;(11)
 
-Privacy protections.—An air carrier that receives the records of an individual under paragraph (1) may use such records only to assess the qualifications of the individual indeciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the pilot and the confidentiality of the records, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
+Privacy protections.—An air carrier that receives the records of an individual under paragraph (1) may use such records only to assess the qualifications of the individual in deciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the pilot and the confidentiality of the records, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
 
 &emsp;(12)
 
@@ -224,15 +224,243 @@ Good faith exception.—Notwithstanding paragraph (1), an air carrier, without o
 
 Electronic access to faa records.—For the purpose of increasing timely and efficient access to Federal Aviation Administration records described in paragraph (1), the Administrator may allow, under terms established by the Administrator, an individual designated by the air carrier to have electronic access to a specified database containing information about such records. The terms shall limit such access to instances in which information in the database is required by the designated individual in making a hiring decision concerning a pilot applicant and shall require that the designated individual provide assurances satisfactory to the Administrator that information obtained using such access will not be used for any purpose other than making the hiring decision.
 
-(i)
+&emsp;(16)
 
-Limitation on Liability; Preemption of State Law.—
+Applicability.—This subsection shall cease to be effective on the date specified in regulations issued under subsection (i).
+
+(i) FAA
+
+Pilot Records Database.—
 
 &emsp;(1)
 
-Limitation on liability.—No action or proceeding may be brought by or on behalf of an individual who has applied for or is seeking a position with an air carrier as a pilot and who has signed a release from liability, as provided for under paragraph (2), against—
+In general.—Before allowing an individual to begin service as a pilot, an air carrier shall access and evaluate, in accordance with the requirements of this subsection, information pertaining to the individual from the pilot records database established under paragraph (2).
 
-&emsp;&emsp;(A) the air carrier requesting the records of that individual under subsection (h)(1);
+&emsp;(2)
+
+Pilot records database.—The Administrator shall establish an electronic database (in this subsection referred to as the “database”) containing the following records:
+
+&emsp;&emsp;(A) FAA
+
+records.—From the Administrator—
+
+&emsp;&emsp;&emsp;(i) records that are maintained by the Administrator concerning current airman certificates, including airman medical certificates and associated type ratings and information on any limitations to those certificates and ratings;
+
+&emsp;&emsp;&emsp;(ii) records that are maintained by the Administrator concerning any failed attempt of an individual to pass a practical test required to obtain a certificate or type rating under part 61 of title 14, Code of Federal Regulations; and
+
+&emsp;&emsp;&emsp;(iii) summaries of legal enforcement actions resulting in a finding by the Administrator of a violation of this title or a regulation prescribed or order issued under this title that was not subsequently overturned.
+
+&emsp;&emsp;(B)
+
+Air carrier and other records.—From any air carrier or other person (except a branch of the Armed Forces, the National Guard, or a reserve component of the Armed Forces) that has employed an individual as a pilot of a civil or public aircraft, or from the trustee in bankruptcy for the air carrier or person—
+
+&emsp;&emsp;&emsp;(i) records pertaining to the individual that are maintained by the air carrier (other than records relating to flight time, duty time, or rest time) or person, including records under regulations set forth in—
+
+&emsp;&emsp;&emsp;&emsp;(I) section 121.683 of title 14, Code of Federal Regulations;
+
+&emsp;&emsp;&emsp;&emsp;(II) section 121.111(a) of such title;
+
+&emsp;&emsp;&emsp;&emsp;(III) section 121.219(a) of such title;
+
+&emsp;&emsp;&emsp;&emsp;(IV) section 125.401 of such title; and
+
+&emsp;&emsp;&emsp;&emsp;(V) section 135.63(a)(4) of such title; and
+
+&emsp;&emsp;&emsp;(ii) other records pertaining to the individual's performance as a pilot that are maintained by the air carrier or person concerning—
+
+&emsp;&emsp;&emsp;&emsp;(I) the training, qualifications, proficiency, or professional competence of the individual, including comments and evaluations made by a check airman designated in accordance with section 121.411, 125.295, or 135.337 of such title;
+
+&emsp;&emsp;&emsp;&emsp;(II) any disciplinary action taken with respect to the individual that was not subsequently overturned; and
+
+&emsp;&emsp;&emsp;&emsp;(III) any release from employment or resignation, termination, or disqualification with respect to employment.
+
+&emsp;&emsp;(C)
+
+National driver register records.—In accordance with section 30305(b)(8) of this title, from the chief driver licensing official of a State, information concerning the motor vehicle driving record of the individual.
+
+&emsp;(3)
+
+Written consent; release from liability.—An air carrier—
+
+&emsp;&emsp;(A) shall obtain the written consent of an individual before accessing records pertaining to the individual under paragraph (1); and
+
+&emsp;&emsp;(B) may, notwithstanding any other provision of law or agreement to the contrary, require an individual with respect to whom the carrier is accessing records under paragraph (1) to execute a release from liability for any claim arising from accessing the records or the use of such records by the air carrier in accordance with this section (other than a claim arising from furnishing information known to be false and maintained in violation of a criminal statute).
+
+&emsp;(4)
+
+Reporting.—
+
+&emsp;&emsp;(A)
+
+Reporting by administrator.—The Administrator shall enter data described in paragraph (2)(A) into the database promptly to ensure that an individual's records are current.
+
+&emsp;&emsp;(B)
+
+Reporting by air carriers and other persons.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Air carriers and other persons shall report data described in paragraphs (2)(B) and (2)(C) to the Administrator promptly for entry into the database.
+
+&emsp;&emsp;&emsp;(ii)
+
+Data to be reported.—Air carriers and other persons shall report, at a minimum, under clause (i) the following data described in paragraph (2)(B):
+
+&emsp;&emsp;&emsp;&emsp;(I) Records that are generated by the air carrier or other person after the date of enactment of this paragraph.
+
+&emsp;&emsp;&emsp;&emsp;(II) Records that the air carrier or other person is maintaining, on such date of enactment, pursuant to subsection (h)(4).
+
+&emsp;(5)
+
+Requirement to maintain records.—The Administrator—
+
+&emsp;&emsp;(A) shall maintain all records entered into the database under paragraph (2) pertaining to an individual until the date of receipt of notification that the individual is deceased; and
+
+&emsp;&emsp;(B) may remove the individual's records from the database after that date.
+
+&emsp;(6)
+
+Receipt of consent.—The Administrator shall not permit an air carrier to access records pertaining to an individual from the database under paragraph (1) without the air carrier first demonstrating to the satisfaction of the Administrator that the air carrier has obtained the written consent of the individual.
+
+&emsp;(7)
+
+Right of pilot to review certain records and correct inaccuracies.—Notwithstanding any other provision of law or agreement, the Administrator, upon receipt of written request from an individual—
+
+&emsp;&emsp;(A) shall make available, not later than 30 days after the date of the request, to the individual for review all records referred to in paragraph (2) pertaining to the individual; and
+
+&emsp;&emsp;(B) shall provide the individual with a reasonable opportunity to submit written comments to correct any inaccuracies contained in the records.
+
+&emsp;(8)
+
+Reasonable charges for processing requests and furnishing copies.—
+
+&emsp;&emsp;(A)
+
+In general.—The Administrator may establish a reasonable charge for the cost of processing a request under paragraph (1) or (7) and for the cost of furnishing copies of requested records under paragraph (7).
+
+&emsp;&emsp;(B)
+
+Crediting appropriations.—Funds received by the Administrator pursuant to this paragraph shall—
+
+&emsp;&emsp;&emsp;(i) be credited to the appropriation current when the amount is received;
+
+&emsp;&emsp;&emsp;(ii) be merged with and available for the purposes of such appropriation; and
+
+&emsp;&emsp;&emsp;(iii) remain available until expended.
+
+&emsp;(9)
+
+Privacy protections.—
+
+&emsp;&emsp;(A)
+
+Use of records.—An air carrier that accesses records pertaining to an individual under paragraph (1) may use the records only to assess the qualifications of the individual in deciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the individual and the confidentiality of the records accessed, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
+
+&emsp;&emsp;(B)
+
+Disclosure of information.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Except as provided by clause (ii), information collected by the Administrator under paragraph (2) shall be exempt from the disclosure requirements of section 552 of title 5.
+
+&emsp;&emsp;&emsp;(ii)
+
+Exceptions.—Clause (i) shall not apply to—
+
+&emsp;&emsp;&emsp;&emsp;(I) deidentified, summarized information to explain the need for changes in policies and regulations;
+
+&emsp;&emsp;&emsp;&emsp;(II) information to correct a condition that compromises safety;
+
+&emsp;&emsp;&emsp;&emsp;(III) information to carry out a criminal investigation or prosecution;
+
+&emsp;&emsp;&emsp;&emsp;(IV) information to comply with section 44905, regarding information about threats to civil aviation; and
+
+&emsp;&emsp;&emsp;&emsp;(V) such information as the Administrator determines necessary, if withholding the information would not be consistent with the safety responsibilities of the Federal Aviation Administration.
+
+&emsp;(10)
+
+Periodic review.—Not later than 18 months after the date of enactment of this paragraph, and at least once every 3 years thereafter, the Administrator shall transmit to Congress a statement that contains, taking into account recent developments in the aviation industry—
+
+&emsp;&emsp;(A) recommendations by the Administrator concerning proposed changes to Federal Aviation Administration records, air carrier records, and other records required to be included in the database under paragraph (2); or
+
+&emsp;&emsp;(B) reasons why the Administrator does not recommend any proposed changes to the records referred to in subparagraph (A).
+
+&emsp;(11)
+
+Regulations for protection and security of records.—The Administrator shall prescribe such regulations as may be necessary—
+
+&emsp;&emsp;(A) to protect and secure—
+
+&emsp;&emsp;&emsp;(i) the personal privacy of any individual whose records are accessed under paragraph (1); and
+
+&emsp;&emsp;&emsp;(ii) the confidentiality of those records; and
+
+&emsp;&emsp;(B) to preclude the further dissemination of records received under paragraph (1) by the person who accessed the records.
+
+&emsp;(12)
+
+Good faith exception.—Notwithstanding paragraph (1), an air carrier may allow an individual to begin service as a pilot, without first obtaining information described in paragraph (2)(B) from the database pertaining to the individual, if—
+
+&emsp;&emsp;(A) the air carrier has made a documented good faith attempt to access the information from the database; and
+
+&emsp;&emsp;(B) the air carrier has received written notice from the Administrator that the information is not contained in the database because the individual was employed by an air carrier or other person that no longer exists or by a foreign government or other entity that has not provided the information to the database.
+
+&emsp;(13)
+
+Limitations on electronic access to records.—
+
+&emsp;&emsp;(A)
+
+Access by individuals designated by air carriers.—For the purpose of increasing timely and efficient access to records described in paragraph (2), the Administrator may allow, under terms established by the Administrator, an individual designated by an air carrier to have electronic access to the database.
+
+&emsp;&emsp;(B)
+
+Terms.—The terms established by the Administrator under subparagraph (A) for allowing a designated individual to have electronic access to the database shall limit such access to instances in which information in the database is required by the designated individual in making a hiring decision concerning a pilot applicant and shall require that the designated individual provide assurances satisfactory to the Administrator that—
+
+&emsp;&emsp;&emsp;(i) the designated individual has received the written consent of the pilot applicant to access the information; and
+
+&emsp;&emsp;&emsp;(ii) information obtained using such access will not be used for any purpose other than making the hiring decision.
+
+&emsp;(14)
+
+Authorized expenditures.—Of amounts appropriated under section 106(k)(1), a total of $6,000,000 for fiscal years 2010 through 2013 may be used to carry out this subsection.
+
+&emsp;(15)
+
+Regulations.—
+
+&emsp;&emsp;(A)
+
+In general.—The Administrator shall issue regulations to carry out this subsection.
+
+&emsp;&emsp;(B)
+
+Effective date.—The regulations shall specify the date on which the requirements of this subsection take effect and the date on which the requirements of subsection (h) cease to be effective.
+
+&emsp;&emsp;(C)
+
+Exceptions.—Notwithstanding subparagraph (B)—
+
+&emsp;&emsp;&emsp;(i) the Administrator shall begin to establish the database under paragraph (2) not later than 90 days after the date of enactment of this paragraph;
+
+&emsp;&emsp;&emsp;(ii) the Administrator shall maintain records in accordance with paragraph (5) beginning on the date of enactment of this paragraph; and
+
+&emsp;&emsp;&emsp;(iii) air carriers and other persons shall maintain records to be reported to the database under paragraph (4)(B) in the period beginning on such date of enactment and ending on the date that is 5 years after the requirements of subsection (h) cease to be effective pursuant to subparagraph (B).
+
+&emsp;(16)
+
+Special rule.—During the one-year period beginning on the date on which the requirements of this section become effective pursuant to paragraph (15)(B), paragraph (7)(A) shall be applied by substituting “45 days” for “30 days”.
+
+(j)
+
+Limitations on Liability; Preemption of State Law.—
+
+&emsp;(1)
+
+Limitation on liability.—No action or proceeding may be brought by or on behalf of an individual who has applied for or is seeking a position with an air carrier as a pilot and who has signed a release from liability, as provided for under subsection (h)(2) or (i)(3), against—
+
+&emsp;&emsp;(A) the air carrier requesting the records of that individual under subsection (h)(1) or accessing the records of that individual under subsection (i)(1);
 
 &emsp;&emsp;(B) a person who has complied with such request;
 
@@ -240,25 +468,37 @@ Limitation on liability.—No action or proceeding may be brought by or on behal
 
 &emsp;&emsp;(D) an agent or employee of a person described in subparagraph (A) or (B);
 
-> &emsp;in the nature of an action for defamation, invasion of privacy, negligence, interference with contract, or otherwise, or under any Federal or State law with respect to the furnishing or use of such records in accordance with subsection (h).
+> &emsp;in the nature of an action for defamation, invasion of privacy, negligence, interference with contract, or otherwise, or under any Federal or State law with respect to the furnishing or use of such records in accordance with subsection (h) or (i).
 
 &emsp;(2)
 
-Preemption.—No State or political subdivision thereof may enact, prescribe, issue, continue in effect, or enforce any law (including any regulation, standard, or other provision having the force and effect of law) that prohibits, penalizes, or imposes liability for furnishing or using records in accordance with subsection (h).
+Preemption.—No State or political subdivision thereof may enact, prescribe, issue, continue in effect, or enforce any law (including any regulation, standard, or other provision having the force and effect of law) that prohibits, penalizes, or imposes liability for furnishing or using records in accordance with subsection (h) or (i).
 
 &emsp;(3)
 
-Provision of knowingly false information.—Paragraphs (1) and (2) shall not apply with respect to a person who furnishes information in response to a request made under subsection (h)(1), that—
+Provision of knowingly false information.—Paragraphs (1) and (2) shall not apply with respect to a person who furnishes information in response to a request made under subsection (h)(1) or who furnished information to the database established under subsection (i)(2), that—
 
 &emsp;&emsp;(A) the person knows is false; and
 
 &emsp;&emsp;(B) was maintained in violation of a criminal statute of the United States.
 
-(j)
+&emsp;(4)
 
-Limitation on Statutory Construction.—Nothing in subsection (h) shall be construed as precluding the availability of the records of a pilot in an investigation or other proceeding concerning an accident or incident conducted by the Administrator, the National Transportation Safety Board, or a court.
+Prohibition on actions and proceedings against air carriers.—
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1186; Pub. L. 106–181, title VII, §715, Apr. 5, 2000, 114 Stat. 162; Pub. L. 107–71, title I, §§129, 138(b), 140(a), Nov. 19, 2001, 115 Stat. 633, 640, 641.)
+&emsp;&emsp;(A)
+
+Hiring decisions.—An air carrier may refuse to hire an individual as a pilot if the individual did not provide written consent for the air carrier to receive records under subsection (h)(2)(A) or (i)(3)(A) or did not execute the release from liability requested under subsection (h)(2)(B) or (i)(3)(B).
+
+&emsp;&emsp;(B)
+
+Actions and proceedings.—No action or proceeding may be brought against an air carrier by or on behalf of an individual who has applied for or is seeking a position as a pilot with the air carrier if the air carrier refused to hire the individual after the individual did not provide written consent for the air carrier to receive records under subsection (h)(2)(A) or (i)(3)(A) or did not execute a release from liability requested under subsection (h)(2)(B) or (i)(3)(B).
+
+(k)
+
+Limitation on Statutory Construction.—Nothing in subsection (h) or (i) shall be construed as precluding the availability of the records of a pilot in an investigation or other proceeding concerning an accident or incident conducted by the Administrator, the National Transportation Safety Board, or a court.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1186; Pub. L. 106–181, title VII, §715, Apr. 5, 2000, 114 Stat. 162; Pub. L. 107–71, title I, §§129, 138(b), 140(a), Nov. 19, 2001, 115 Stat. 633, 640, 641; Pub. L. 111–216, title II, §203, Aug. 1, 2010, 124 Stat. 2352; Pub. L. 111–249, §6(3), (4), Sept. 30, 2010, 124 Stat. 2629.)
 
 Historical and Revision Notes
 
@@ -358,19 +598,47 @@ The date of the enactment of the Wendell H. Ford Aviation Investment and Reform 
 
 The date of the enactment of the Pilot Records Improvement Act of 1996, referred to in subsec. (h)(12), is the date of enactment of Pub. L. 104–264, which was approved Oct. 9, 1996.
 
+The date of enactment of this paragraph, referred to in subsec. (i)(4)(B)(ii), (10), (15)(C), is the date of enactment of Pub. L. 111–216, which was approved Aug. 1, 2010.
+
 #### Codification
 
 The text of section 44936(f) to (h) of this title, which was transferred to the end of this section, redesignated as subsecs. (h) to (j), respectively, and amended by Pub. L. 107–71, §§138(b), 140(a), was based on Pub. L. 104–264, title V, §502(a), Oct. 9, 1996, 110 Stat. 3259; amended Pub. L. 105–102, §2(25), Nov. 20, 1997, 111 Stat. 2205; Pub. L. 105–142, §1, Dec. 5, 1997, 111 Stat. 2650; Pub. L. 106–181, title V, §508(b), Apr. 5, 2000, 114 Stat. 140.
 
 #### Amendments
 
-2001—Subsec. (g)(1). Pub. L. 107–71, §129(1), in first sentence, substituted “needs of airmen” for “needs of pilots” and inserted “and related to combating acts of terrorism” before period at end.
+<b>2010</b>—Subsec. (h)(16). Pub. L. 111–216, §203(a), added par. (16).
+
+Subsec. (i). Pub. L. 111–216, §203(b)(2), added subsec. (i). Former subsec. (i) redesignated (j).
+
+Subsec. (j). Pub. L. 111–216, §203(c)(1)(A), as amended by Pub. L. 111–249, §6(3), substituted “Limitations” for “Limitation” in heading.
+
+Pub. L. 111–216, §203(b)(1), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
+
+Subsec. (j)(1). Pub. L. 111–216, §203(c)(1)(B)(i), (iii), as amended by Pub. L. 111–249, §6(3), substituted “subsection (h)(2) or (i)(3)” for “paragraph (2)” in introductory provisions and “subsection (h) or (i)” for “subsection (h)” in concluding provisions.
+
+Subsec. (j)(1)(A). Pub. L. 111–216, §203(c)(1)(B)(ii), as amended by Pub. L. 111–249, §6(3), inserted “or accessing the records of that individual under subsection (i)(1)” before semicolon.
+
+Subsec. (j)(2). Pub. L. 111–216, §203(c)(1)(C), as amended by Pub. L. 111–249, §6(3), substituted “subsection (h) or (i)” for “subsection (h)”.
+
+Subsec. (j)(3). Pub. L. 111–216, §203(c)(1)(D), as amended by Pub. L. 111–249, §6(3), inserted “or who furnished information to the database established under subsection (i)(2)” after “subsection (h)(1)” in introductory provisions.
+
+Subsec. (j)(4). Pub. L. 111–216, §203(c)(1)(E), as amended by Pub. L. 111–249, §6(3), added par. (4).
+
+Subsec. (k). Pub. L. 111–216, §203(c)(2), as amended by Pub. L. 111–249, §6(4), substituted “subsection (h) or (i)” for “subsection (h)”.
+
+Pub. L. 111–216, §203(b)(1), redesignated subsec. (j) as (k).
+
+<b>2001</b>—Subsec. (g)(1). Pub. L. 107–71, §129(1), in first sentence, substituted “needs of airmen” for “needs of pilots” and inserted “and related to combating acts of terrorism” before period at end.
 
 Subsec. (g)(3), (4). Pub. L. 107–71, §129(2), added pars. (3) and (4).
 
 Subsecs. (h) to (j). Pub. L. 107–71, §§138(b), 140(a), amended section identically, redesignating subsecs. (f) to (h) of section 44936 of this title as subsecs. (h) to (j), respectively, of this section, and substituting “subsection (h)” for “subsection (f)” wherever appearing in subsecs. (i) and (j). See Codification note above.
 
-2000—Subsecs. (c) to (g). Pub. L. 106–181 added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
+<b>2000</b>—Subsecs. (c) to (g). Pub. L. 106–181 added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–249, §6, Sept. 30, 2010, 124 Stat. 2628, provided that the amendments made by section 6 of Pub. L. 111–249 are effective as of Aug. 1, 2010, and as if included in Pub. L. 111–216 as enacted.
 
 #### Effective Date of 2000 Amendment
 
@@ -379,6 +647,10 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Deemed References to Chapters 509 and 511 of Title 51
+
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 
 #### Improved Pilot Licenses
 
@@ -408,7 +680,7 @@ Use of Designees.—The Administrator may use designees to carry out subsection 
 
 #### Crediting of Law Enforcement Flight Time
 
-Pub. L. 106–424, §14, Nov. 1, 2000, 114 Stat. 1888, provided that: “In determining whether an individual meets the aeronautical experience requirements imposed under section 44703 of title 49, United States Code, for an airman certificate or rating, the Secretary of Transportation shall take into account any time spent by that individual operating a public aircraft as defined in section 40102 of title 49, United States Code, if that aircraft is—
+Pub. L. 106–424, §14, Nov. 1, 2000, 114 Stat. 1888, provided that: “In determining whether an individualmeets the aeronautical experience requirements imposed under section 44703 of title 49, United States Code, for an airman certificate or rating, the Secretary of Transportation shall take into account any time spent by that individual operating a public aircraft as defined in section 40102 of title 49, United States Code, if that aircraft is—
 
 &emsp;“(1) identifiable by category and class; and
 

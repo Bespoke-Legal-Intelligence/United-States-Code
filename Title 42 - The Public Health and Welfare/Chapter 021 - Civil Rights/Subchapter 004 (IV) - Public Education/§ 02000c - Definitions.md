@@ -14,7 +14,7 @@ As used in this subchapter—
 
 #### Amendments
 
-1972—Subsec. (b). Pub. L. 92–318 inserted “sex” after “religion,”.
+<b>1972</b>—Subsec. (b). Pub. L. 92–318 inserted “sex” after “religion,”.
 
 #### Transfer of Functions
 

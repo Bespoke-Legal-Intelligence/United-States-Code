@@ -14,7 +14,7 @@ The purposes of sections 545 and 545a of this title with respect to the Mount Pl
 
 #### Amendments
 
-1996—Pub. L. 104–127 substituted “Mount Pleasant National Scenic Area” for “George Washington National Forest Mount Pleasant Scenic Area” in introductory provisions.
+<b>1996</b>—Pub. L. 104–127 substituted “Mount Pleasant National Scenic Area” for “George Washington National Forest Mount Pleasant Scenic Area” in introductory provisions.
 
 #### Short Title
 

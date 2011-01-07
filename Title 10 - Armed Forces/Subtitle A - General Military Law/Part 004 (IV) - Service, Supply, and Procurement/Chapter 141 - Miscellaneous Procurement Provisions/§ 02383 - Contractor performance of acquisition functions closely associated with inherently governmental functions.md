@@ -18,7 +18,7 @@ Limitation.—The head of an agency may enter into a contract for the performanc
 
 Definitions.—In this section:
 
-&emsp;(1) The term “head of an agency” has the meaning given such term in section 2302(1) of this title, except that such term does not include the Secretary of Homeland Security or the Administrator of the National Oceanic and Atmospheric Administration.
+&emsp;(1) The term “head of an agency” has the meaning given such term in section 2302(1) ofthis title, except that such term does not include the Secretary of Homeland Security or the Administrator of the National Oceanic and Atmospheric Administration.
 
 &emsp;(2) The term “inherently governmental functions” has the meaning given such term in subpart 7.5 of part 7 of the Federal Acquisition Regulation.
 

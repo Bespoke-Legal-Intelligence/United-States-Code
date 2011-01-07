@@ -18,7 +18,7 @@ In the case of any security which is not registered under the Securities Act of 
 
 #### (c) Necessity of issuance under indenture; application for qualification
 
-It shall be unlawful for any person, directly or indirectly, to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to offer to sell through the use or medium of any prospectus or otherwise any security which is not registered under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and to which this subsection is applicable notwithstanding the provisions of section 77ddd of this title, unless such security has been or is to be issued under an indenture and an application for qualification has been filed as to such indenture, or while the application is the subject of a refusal order or stop order or (prior to qualification) any public proceeding or examination under section 77ggg(c) of this title.
+It shall be unlawful for any person, directly or indirectly, to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to offer to sell through the use or medium of any prospectus or otherwise any security which is not registered under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and to which this subsection is applicable notwithstanding the provisions of section 77ddd of this title, unless such securityhas been or is to be issued under an indenture and an application for qualification has been filed as to such indenture, or while the application is the subject of a refusal order or stop order or (prior to qualification) any public proceeding or examination under section 77ggg(c) of this title.
 
 (May 27, 1933, ch. 38, title III, §306, as added Aug. 3, 1939, ch. 411, 53 Stat. 1155; amended Aug. 10, 1954, ch. 667, title III, §304, 68 Stat. 687.)
 
@@ -28,7 +28,7 @@ The Securities Act of 1933, referred to in subsecs. (a) to (c), is act May 27, 1
 
 #### Amendments
 
-1954—Subsec. (b). Act Aug. 10, 1954, authorized the Commission to prescribe the extent to which summaries of indenture provisions must be used in the sale of specified types of securities.
+<b>1954</b>—Subsec. (b). Act Aug. 10, 1954, authorized the Commission to prescribe the extent to which summaries of indenture provisions must be used in the sale of specified types of securities.
 
 Subsec. (c). Act Aug. 10, 1954, added subsec. (c).
 

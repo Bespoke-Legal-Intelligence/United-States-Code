@@ -30,11 +30,11 @@ Section 41 of the Plant Variety Protection Act (7 U.S.C. 2401(d)), referred to i
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–273 struck out “United States Code,” after “section 105 of title 5,” and “, United States Code” after “section 102 of title 5”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273 struck out “United States Code,” after “section 105 of title 5,” and “, United States Code” after “section 102 of title 5”.
 
-1986—Subsec. (i). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (i). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1984—Subsec. (d). Pub. L. 98–620, §501(1), inserted “or any novel variety of plant which is or may be protectable under the Plant Variety Protection Act (7 U.S.C. 2321 et seq.)” after “title”.
+<b>1984</b>—Subsec. (d). Pub. L. 98–620, §501(1), inserted “or any novel variety of plant which is or may be protectable under the Plant Variety Protection Act (7 U.S.C. 2321 et seq.)” after “title”.
 
 Subsec. (e). Pub. L. 98–620, §501(2), inserted “: <i>Provided</i>, That in the case of a variety of plant, the date of determination (as defined in section 41(d) of the Plant Variety Protection Act (7 U.S.C. 2401(d))) must also occur during the period of contract performance” after “agreement”.
 

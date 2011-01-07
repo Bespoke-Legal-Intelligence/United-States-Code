@@ -80,9 +80,9 @@ Unless otherwise expressly provided by any spousal agreement or court order unde
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–238 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whenever a participant becomes separated from the Service without becoming eligible for an annuity or a deferred annuity under this subchapter, a lump-sum credit shall be paid to the participant (and to any former spouse of the participant, in accordance with subsection (i) of this section). A participant who becomes subject to part II of this subchapter shall be entitled to payment of the lump-sum credit if, and to the extent that, such lump-sum credit relates to service of a type described in clauses (i) through (iii) of section 302(a)(1)(C) of the Federal Employees’ Retirement System Act of 1986.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–238 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whenever a participant becomes separated from the Service without becoming eligible for an annuity or a deferred annuity under this subchapter, a lump-sum credit shall be paid to the participant (and to any former spouse of the participant, in accordance with subsection (i) of this section). A participant who becomes subject to part II of this subchapter shall be entitled to payment of the lump-sum credit if, and to the extent that, such lump-sum credit relates to service of a type described in clauses (i) through (iii) of section 302(a)(1)(C) of the Federal Employees’ Retirement System Act of 1986.”
 
-1986—Subsec. (a). Pub. L. 99–335, §413, inserted provision relating to payment of a lump-sum credit for a participant who becomes subject to part II of this subchapter.
+<b>1986</b>—Subsec. (a). Pub. L. 99–335, §413, inserted provision relating to payment of a lump-sum credit for a participant who becomes subject to part II of this subchapter.
 
 Subsecs. (c), (d). Pub. L. 99–335, §402(a)(2), substituted “part” for “subchapter”.
 

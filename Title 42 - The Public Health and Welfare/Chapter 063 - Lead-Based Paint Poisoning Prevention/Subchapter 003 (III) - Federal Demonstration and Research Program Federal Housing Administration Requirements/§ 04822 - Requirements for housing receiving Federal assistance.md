@@ -38,7 +38,7 @@
 
 #### (B) Target housing constructed between 1960 and 1978
 
-&emsp;&emsp;Beginning on January 1, 1995, procedures established under paragraphs (1) and (2) shall require an inspection for lead-based paint and lead-based paint hazards in all federally owned target housing constructed between 1960 and 1978. The results of such inspections shall be made available to prospective purchasers, identifying the presence of lead-based paint and lead-based paint hazards on a surface-by-surface basis. The Secretary shall have the discretion to waive the requirement of this subparagraph for housing in which a federally funded risk assessment, performed by a certified contractor, has determined no lead-based paint hazards are present.
+&emsp;&emsp;Beginning on January 1, 1995, procedures established under paragraphs (1) and (2) shall require an inspection for lead-based paintand lead-based paint hazards in all federally owned target housing constructed between 1960 and 1978. The results of such inspections shall be made available to prospective purchasers, identifying the presence of lead-based paint and lead-based paint hazards on a surface-by-surface basis. The Secretary shall have the discretion to waive the requirement of this subparagraph for housing in which a federally funded risk assessment, performed by a certified contractor, has determined no lead-based paint hazards are present.
 
 #### (C) Budget authority
 
@@ -76,11 +76,11 @@ The Secretary shall require the inspection of all intact and nonintact interior 
 
 #### (A) Abatement demonstration program
 
-&emsp;&emsp;In carrying out the requirements of this subsection with respect to single-family and multifamily properties owned by the Department of Housing and Urban Development and public housing, the Secretary shall utilize a sufficient variety of abatement methods in a sufficient number of areas and circumstances to demonstrate their relative cost-effectiveness and their applicability to various types of housing. For purposes of the demonstration, a public housing agency may elect to test for lead-based paint using atomic absorption spectroscopy and may elect to abate lead-based paint and dust containing lead under standards more stringent than that in subsection (c) of this section, including the abatement of lead-based paint and dust which exceeds the standard of lead permitted in paints by the Consumer Product Safety Commission under this chapter, and such abatement shall qualify for assistance under section 1437<i>l</i> <sup>1</sup> of this title.
+&emsp;&emsp;In carrying out the requirements of this subsection with respect to single-family and multifamily properties owned by the Department of Housing and Urban Development and public housing, the Secretary shall utilize a sufficient variety of abatement methods in a sufficient number of areas and circumstances to demonstrate their relative cost-effectiveness and their applicability to various types of housing. For purposes of the demonstration, a public housing agency may elect to test for lead-based paint using atomic absorption spectroscopy and may elect to abate lead-based paint and dust containinglead under standards more stringent than that in subsection (c) of this section, including the abatement of lead-based paint and dust which exceeds the standard of lead permitted in paints by the Consumer Product Safety Commission under this chapter, and such abatement shall qualify for assistance under section 1437<i>l</i> <sup>1</sup> of this title.
 
 #### (B) Report
 
-&emsp;&emsp;Not later than 18 months after the effective date of the regulations issued to carryout this subsection, the Secretary shall transmit to the Congress the findings and recommendations of the Secretary as a result of the demonstration program, including any recommendations of the Secretary for legislation to revise the requirements of this subsection. Based on the demonstration, the Secretary shall prepare and include in the report a comprehensive and workable plan for the cost-effective inspection and abatement of public housing in accordance with paragraph (3), including an estimate of the total cost of abatement in accordance with paragraph (3)(B). In preparing such report, the Secretary shall examine—
+&emsp;&emsp;Not later than 18 months after the effective date of the regulations issued to carry out this subsection, the Secretary shall transmit to the Congress the findings and recommendations of the Secretary as a result of the demonstration program, including any recommendations of the Secretary for legislation to revise the requirements of this subsection. Based on the demonstration, the Secretary shall prepare and include in the report a comprehensive and workable plan for the cost-effective inspection and abatement of public housing in accordance with paragraph (3), including an estimate of the total cost of abatement in accordance with paragraph (3)(B). In preparing such report, the Secretary shall examine—
 
 &emsp;&emsp;&emsp;(i) the most reliable technology available for detecting lead-based paint, including X-ray fluorescence and atomic absorption spectroscopy;
 
@@ -142,11 +142,11 @@ For effective date of the regulations issued to carry out this subsection, refer
 
 #### Amendments
 
-1998—Subsec. (d)(1). Pub. L. 105–276, §522(b)(4)(A), in introductory provisions, substituted “assisted with capital assistance provided under section 1437g of this title” for “assisted under section 1437<i>l</i> of this title” and, in concluding provisions, substituted “capital assistance provided under section 1437g of this title” for “assistance under section 1437<i>l</i> of this title”.
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–276, §522(b)(4)(A), in introductory provisions, substituted “assisted with capital assistance provided under section 1437g of this title” for “assisted under section 1437<i>l</i> of this title” and, in concluding provisions, substituted “capital assistance provided under section 1437g of this title” for “assistance under section 1437<i>l</i> of this title”.
 
 Subsec. (f). Pub. L. 105–276, §522(b)(4)(B), substituted “under the Capital Fund under section 1437g of this title” for “for comprehensive improvement assistance under section 1437<i>l</i> of this title”.
 
-1992—Pub. L. 102–550, §1012(a)(1), amended section catchline generally.
+<b>1992</b>—Pub. L. 102–550, §1012(a)(1), amended section catchline generally.
 
 Subsec. (a). Pub. L. 102–550, §1012(a)(2)–(4), designated first sentence of subsec. (a) as par. (1), inserted heading, inserted before period at end of first sentence “or otherwise receives more than $5,000 in project-based assistance under a Federal housing program”, substituted “Beginning on January 1, 1995, such procedures shall apply to all such housing that constitutes target housing, as defined in section 4851b of this title, and shall provide for appropriate measures to conduct risk assessments, inspections, interim controls, and abatement of lead-based paint hazards. At a minimum, such procedures shall require—” and subpars. (A) to (G) for former second sentence of subsec. (a) which read as follows: “Such procedures shall apply to all such housing constructed or substantially rehabilitated prior to 1978 and shall as a minimum provide for (1) appropriate measures to eliminate as far as practicable immediate hazards due to the presence of accessible intact, intact, and nonintact interior and exterior painted surfaces that may contain lead in any such housing in which any child who is less than 7 years of age resides or is expected to reside, and (2) assured notification (using a brochure developed after consultation with the National Institute of Building Sciences) to purchasers and tenants of such housing of the hazards of lead based paint, of the symptoms and treatment of lead based paint poisoning, and of the importance and availability of maintenance and removal techniques for eliminating such hazards.”, and designated former third sentence of subsec. (a) as par. (2) and inserted heading.
 
@@ -162,7 +162,7 @@ Subsec. (c). Pub. L. 102–550, §1012(c), substituted “certified inspector”
 
 Subsec. (d)(1). Pub. L. 102–550, §1012(d), in heading, substituted “modernization” for “CIAP” and in fourth sentence, substituted “of lead-based paint and lead-based paint hazards” for “to eliminate the lead-based paint poisoning hazards”.
 
-1988—Pub. L. 100–242 designated existing provisions as subsec. (a) “General requirements”, substituted “housing constructed or substantially rehabilitated prior to 1978” for “housing constructed prior to 1950”, in cl. (1), substituted “accessible intact, intact, and nonintact interior and exterior painted surfaces that may contain lead in any such housing in which any child who is less than 7 years of age resides or is expected to reside” for “paint which may contain lead and to which children may be exposed”, in cl. (2), inserted “(using a brochure developed after consultation with the National Institute of Building Sciences)” after “notification”, and struck out after second sentence “Such procedures may apply to housing constructed during or after 1950 if the Secretary determines, in his discretion, that such housing presents hazards of lead based paint.”, and added subsecs. (b) to (f).
+<b>1988</b>—Pub. L. 100–242 designated existing provisions as subsec. (a) “General requirements”, substituted “housing constructed or substantially rehabilitated prior to 1978” for “housing constructed prior to 1950”, in cl. (1), substituted “accessible intact, intact, and nonintact interior and exterior painted surfaces that may contain lead in any such housing in which any child who is less than 7 years of age resides or is expected to reside” for “paint which may contain lead and to which children may be exposed”, in cl. (2), inserted “(using a brochure developed after consultation with the National Institute of Building Sciences)” after “notification”, and struck out after second sentence “Such procedures may apply to housing constructed during or after 1950 if the Secretary determines, in his discretion, that such housing presents hazards of lead based paint.”, and added subsecs. (b) to (f).
 
 Subsec. (c). Pub. L. 100–628, §1088(f), inserted “, atomic absorption spectroscopy,” after “fluorescence analyzer” in first sentence, and “or laboratory” after “inspector” in second sentence.
 
@@ -192,7 +192,7 @@ Subsec. (d)(2)(B)(vii). Pub. L. 100–628, §1088(c)(4)–(6), added cl. (vii).
 
 Subsec. (d)(3), (4). Pub. L. 100–628, §1088(d), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (f). Pub. L. 100–628, §1088(e), inserted at end “The Secretary shall submit annually to the Congressan estimate of the funds required to carry out the provisions of this section with the reports required by paragraphs (2)(B) and (4).”
+Subsec. (f). Pub. L. 100–628, §1088(e), inserted at end “The Secretary shall submit annually to the Congress an estimate of the funds required to carry out the provisions of this section with the reports required by paragraphs (2)(B) and (4).”
 
 Subsec. (g). Pub. L. 100–628, §1088(h), added subsec. (g).
 
@@ -239,4 +239,6 @@ Required consultations.—Before issuing proposed regulations and in preparing r
 &emsp;“(A) the National Institute of Building Sciences, the Environmental Protection Agency, the National Institute of Environmental Health Sciences, the Centers for Disease Control \[now Centers for Disease Control and Prevention\], the Consumer Product Safety Commission, major public housing organizations, other major housing organizations, and the National Institute of Standards and Technology with respect to the most cost-effective methods of detecting and abating lead-based paint poisoning hazards; and
 
 &emsp;“(B) public housing agencies to develop a cost-efficient plan for detecting and abating lead-based paint poisoning hazards in dwelling assisted under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] and dwellings in public housing assisted under such Act \[42 U.S.C. 1437 et seq.\].”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

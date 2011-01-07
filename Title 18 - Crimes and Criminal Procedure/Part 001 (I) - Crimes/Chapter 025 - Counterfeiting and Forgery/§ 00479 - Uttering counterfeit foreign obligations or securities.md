@@ -14,7 +14,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-2001—Pub. L. 107–56 substituted “20 years” for “three years”.
+<b>2001</b>—Pub. L. 107–56 substituted “20 years” for “three years”.
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $3,000”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $3,000”.
 

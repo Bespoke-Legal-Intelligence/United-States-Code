@@ -28,13 +28,21 @@ This subchapter does not annul, alter, or affect, or exempt any person subject t
 
 The Board shall by regulation exempt from the requirements of sections 1691 and 1691a of this title any class of credit transactions within any State if it determines that under the law of that State that class of transactions is subject to requirements substantially similar to those imposed under this subchapter or that such law gives greater protection to the applicant, and that there is adequate provision for enforcement. Failure to comply with any requirement of such State law in any transaction so exempted shall constitute a violation of this subchapter for the purposes of section 1691e of this title.
 
-(Pub. L. 90–321, title VII, §705, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1523; amended Pub. L. 94–239, §5, Mar. 23, 1976, 90 Stat. 253.)
+(Pub. L. 90–321, title VII, §705, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1523; amended Pub. L. 94–239, §5, Mar. 23, 1976, 90 Stat. 253; Pub. L. 111–203, title X, §1085(1), July 21, 2010, 124 Stat. 2083.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1085(1), 1100H, July 21, 2010, 124 Stat. 2083, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-1976—Subsec. (e). Pub. L. 94–239, §5(1), substituted provisions requiring an election of remedies in legal actions involving the recovery of monetary damages, for provisions specifying a general election of remedies.
+<b>1976</b>—Subsec. (e). Pub. L. 94–239, §5(1), substituted provisions requiring an election of remedies in legal actions involving the recovery of monetary damages, for provisions specifying a general election of remedies.
 
 Subsecs. (f), (g). Pub. L. 94–239, §5(2), added subsecs. (f) and (g).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1976 Amendment
 

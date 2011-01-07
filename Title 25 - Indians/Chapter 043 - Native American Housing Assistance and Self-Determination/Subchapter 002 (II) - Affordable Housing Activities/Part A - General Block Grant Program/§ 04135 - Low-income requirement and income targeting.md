@@ -40,9 +40,9 @@ For the date of the effectiveness of this chapter, referred to in subsec. (a)(2)
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–411 added subsec. (c).
+<b>2008</b>—Subsec. (c). Pub. L. 110–411 added subsec. (c).
 
-1998—Subsec. (a)(1)(B) to (D). Pub. L. 105–276 added subpars. (B) to (D) and struck out former subpar. (B) which read as follows: “in the case of housing for homeownership, is made available for purchase only by a family that is a low-income family at the time of purchase; and”.
+<b>1998</b>—Subsec. (a)(1)(B) to (D). Pub. L. 105–276 added subpars. (B) to (D) and struck out former subpar. (B) which read as follows: “in the case of housing for homeownership, is made available for purchase only by a family that is a low-income family at the time of purchase; and”.
 
 #### Effective Date
 

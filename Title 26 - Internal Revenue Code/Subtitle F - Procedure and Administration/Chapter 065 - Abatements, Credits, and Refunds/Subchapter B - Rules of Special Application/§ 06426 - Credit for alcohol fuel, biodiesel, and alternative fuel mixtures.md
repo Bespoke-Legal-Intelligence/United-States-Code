@@ -66,17 +66,17 @@ There shall be allowed as a credit—
 
 #### (5) Volume of alcohol
 
-&emsp;For purposes of determining under subsection (a) the number of gallons of alcohol with respect to which a credit is allowable under subsection (a), the volume of alcohol shall include the volume of any denaturant (including gasoline) which is added under any formulas approved by the Secretary to the extent that such denaturants do not exceed 2 percent of the volume of such alcohol (including denaturants).
+&emsp;For purposes of determining under subsection (a) the number of gallons of alcohol with respect to which a credit is allowable under subsection (a), the volume of alcoholshall include the volume of any denaturant (including gasoline) which is added under any formulas approved by the Secretary to the extent that such denaturants do not exceed 2 percent of the volume of such alcohol (including denaturants).
 
 #### (6) Termination
 
-&emsp;This subsection shall not apply to any sale, use, or removal for any period after December 31, 2010.
+&emsp;This subsection shall not apply to any sale, use, or removal for any period after December 31, 2011.
 
 #### (c) Biodiesel mixture credit
 
 #### (1) In general
 
-&emsp;For purposes of this section, the biodiesel mixture credit is the product of the applicableamount and the number of gallons of biodiesel used by the taxpayer in producing any biodiesel mixture for sale or use in a trade or business of the taxpayer.
+&emsp;For purposes of this section, the biodiesel mixture credit is the product of the applicable amount and the number of gallons of biodiesel used by the taxpayer in producing any biodiesel mixture for sale or use in a trade or business of the taxpayer.
 
 #### (2) Applicable amount
 
@@ -100,7 +100,7 @@ There shall be allowed as a credit—
 
 #### (6) Termination
 
-&emsp;This subsection shall not apply to any sale, use, or removal for any period after December 31, 2009.
+&emsp;This subsection shall not apply to any sale, use, or removal for any period after December 31, 2011.
 
 #### (d) Alternative fuel credit
 
@@ -126,7 +126,7 @@ There shall be allowed as a credit—
 
 &emsp;&emsp;(G) liquid fuel derived from biomass (as defined in section 45K(c)(3)).
 
-> &emsp;Such term does not include ethanol, methanol, or biodiesel.
+> &emsp;Such term does not include ethanol, methanol, biodiesel, or any fuel (including lignin, wood residues, or spent pulping liquors) derived from the production of paper or pulp.
 
 #### (3) Gasoline gallon equivalent
 
@@ -148,7 +148,7 @@ There shall be allowed as a credit—
 
 #### (5) Termination
 
-&emsp;This subsection shall not apply to any sale or use for any period after December 31, 2009 (September 30, 2014, in the case of any sale or use involving liquefied hydrogen).
+&emsp;This subsection shall not apply to any sale or use for any period after December 31, 2011 (September 30, 2014, in the case of any sale or use involving liquefied hydrogen).
 
 #### (e) Alternative fuel mixture credit
 
@@ -166,7 +166,7 @@ There shall be allowed as a credit—
 
 #### (3) Termination
 
-&emsp;This subsection shall not apply to any sale or use for any period after December 31, 2009 (September 30, 2014, in the case of any sale or use involving liquefied hydrogen).
+&emsp;This subsection shall not apply to any sale or use for any period after December 31, 2011\(September 30, 2014, in the case of any sale or use involving liquefied hydrogen).
 
 #### (f) Mixture not used as a fuel, etc.
 
@@ -208,7 +208,7 @@ No credit shall be determined under subsection (d) or (e) with respect to any fu
 
 > For purposes of this subsection, the term “United States” includes any possession of the United States.
 
-(Added Pub. L. 108–357, title III, §301(a), Oct. 22, 2004, 118 Stat. 1459; amended Pub. L. 109–58, title XIII, §1344(a), Aug. 8, 2005, 119 Stat. 1052; Pub. L. 109–59, title XI, §§11113(b)(1)–(3)(A), 11151(e)(2), Aug. 10, 2005, 119 Stat. 1947, 1948, 1969; Pub. L. 110–172, §5(a)(2), (3), Dec. 29, 2007, 121 Stat. 2479; Pub. L. 110–234, title XV, §§15331(b), 15332(b), May 22, 2008, 122 Stat. 1516; Pub. L. 110–246, §4(a), title XV, §§15331(b), 15332(b), June 18, 2008, 122 Stat. 1664, 2278; Pub. L. 110–343, div. B, title II, §§202(a), (b)(2), 203(c)(1), 204(a)(1), (2), (b), (c), Oct. 3, 2008, 122 Stat. 3832, 3834.)
+(Added Pub. L. 108–357, title III, §301(a), Oct. 22, 2004, 118 Stat. 1459; amended Pub. L. 109–58, title XIII, §1344(a), Aug. 8, 2005, 119 Stat. 1052; Pub. L. 109–59, title XI, §§11113(b)(1)–(3)(A), 11151(e)(2), Aug. 10, 2005, 119 Stat. 1947, 1948, 1969; Pub. L. 110–172, §5(a)(2), (3), Dec. 29, 2007, 121 Stat. 2479; Pub. L. 110–234, title XV, §§15331(b), 15332(b), May 22, 2008, 122 Stat. 1516; Pub. L. 110–246, §4(a), title XV, §§15331(b), 15332(b), June 18, 2008, 122 Stat. 1664, 2278; Pub. L. 110–343, div. B, title II, §§202(a), (b)(2), 203(c)(1), 204(a)(1), (2), (b), (c), Oct. 3, 2008, 122 Stat. 3832, 3834; Pub. L. 111–312, title VII, §§701(b)(1), 704(a), (b), 708(b)(1), Dec. 17, 2010, 124 Stat. 3310–3312.)
 
 #### Codification
 
@@ -220,7 +220,17 @@ A prior section 6426, added Pub. L. 91–258, title II, §206(c), May 21, 1970, 
 
 #### Amendments
 
-2008—Subsec. (b)(2)(A). Pub. L. 110–246, §15331(b)(3), substituted “subparagraphs (B) and (C)” for “subparagraph (B)” in introductory provisions.
+<b>2010</b>—Subsec. (b)(6). Pub. L. 111–312, §708(b)(1), substituted “December 31, 2011” for “December 31, 2010”.
+
+Subsec. (c)(6). Pub. L. 111–312, §701(b)(1), substituted “December 31, 2011” for “December 31, 2009”.
+
+Subsec. (d)(2). Pub. L. 111–312, §704(b), substituted “biodiesel, or any fuel (including lignin, wood residues, or spent pulping liquors) derived from the production of paper or pulp” for “or biodiesel” in concluding provisions.
+
+Subsec. (d)(5). Pub. L. 111–312, §704(a), substituted “December 31, 2011” for “December 31, 2009”.
+
+Subsec. (e)(3). Pub. L. 111–312, §704(a), substituted “December 31, 2011” for “December 31, 2009”.
+
+<b>2008</b>—Subsec. (b)(2)(A). Pub. L. 110–246, §15331(b)(3), substituted “subparagraphs (B) and (C)” for “subparagraph (B)” in introductory provisions.
 
 Pub. L. 110–246, §15331(b)(1), substituted “the applicable amount is—” for “the applicable amount is 51 cents” and added cls. (i) and (ii).
 
@@ -256,11 +266,11 @@ Subsec. (e)(3). Pub. L. 110–343, §204(a)(2), substituted “December 31, 2009
 
 Subsec. (i). Pub. L. 110–343, §203(c)(1), added subsec. (i).
 
-2007—Subsec. (d)(2)(F). Pub. L. 110–172, §5(a)(2), substituted “fuel” for “hydrocarbons”.
+<b>2007</b>—Subsec. (d)(2)(F). Pub. L. 110–172, §5(a)(2), substituted “fuel” for “hydrocarbons”.
 
 Subsec. (h). Pub. L. 110–172, §5(a)(3), added subsec. (h).
 
-2005—Pub. L. 109–59, §11113(b)(3)(A), substituted “alcohol fuel, biodiesel, and alternative fuel” for “alcohol fuel and biodiesel” in section catchline.
+<b>2005</b>—Pub. L. 109–59, §11113(b)(3)(A), substituted “alcohol fuel, biodiesel, and alternative fuel” for “alcohol fuel and biodiesel” in section catchline.
 
 Subsec. (a). Pub. L. 109–59, §11113(b)(1), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “There shall be allowed as a credit against the tax imposed by section 4081 an amount equal to the sum of—
 
@@ -275,6 +285,14 @@ Subsec. (d). Pub. L. 109–59, §11113(b)(2), added subsec. (d). Former subsec. 
 Subsec. (d)(2)(F). Pub. L. 109–59, §11151(e)(2), substituted “section 45K(c)(3)” for “section 29(c)(3)”.
 
 Subsecs. (e) to (g). Pub. L. 109–59, §11113(b)(2), added subsec. (e) and redesignated former subsecs. (d) and (e) as (f) and (g), respectively.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 701(b)(1) of Pub. L. 111–312 applicable to fuel sold or used after Dec. 31, 2009, see section 701(d) of Pub. L. 111–312, set out as a note under section 40A of this title.
+
+Pub. L. 111–312, title VII, §704(d), Dec. 17, 2010, 124 Stat. 3311, provided that: “The amendments made by this section \[amending this section and section 6427 of this title\] shall apply to fuel sold or used after December 31, 2009.”
+
+Pub. L. 111–312, title VII, §708(b)(2), Dec. 17, 2010, 124 Stat. 3312, provided that: “The amendment made by this subsection \[amending this section\] shall apply to periods after December 31, 2010.”
 
 #### Effective Date of 2008 Amendment
 
@@ -303,6 +321,12 @@ Amendment by section 11151(e)(2) of Pub. L. 109–59 effective as if included in
 #### Effective Date
 
 Section applicable to fuel sold or used after Dec. 31, 2004, see section 301(d)(1) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendment note under section 40 of this title.
+
+#### Special Rules for 2010
+
+Pub. L. 111–312, title VII, §701(c), Dec. 17, 2010, 124 Stat. 3310, provided that: “Notwithstanding any other provision of law, in the case of any biodiesel mixture credit properly determined under section 6426(c) of the Internal Revenue Code of 1986 for periods during 2010, such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary's delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act \[Dec. 17, 2010\] providing for a one-time submission of claims covering periods during 2010. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code.”
+
+Pub. L. 111–312, title VII, §704(c), Dec. 17, 2010, 124 Stat. 3311, provided that: “Notwithstanding any other provision of law, in the case of any alternative fuel credit or any alternative fuel mixture credit properly determined under subsection (d) or (e) of section 6426 of the Internal Revenue Code of 1986 for periods during 2010, such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary's delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act \[Dec. 17, 2010\] providing for a one-time submission of claims covering periods during 2010. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code.”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

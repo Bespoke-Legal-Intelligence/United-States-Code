@@ -6,7 +6,7 @@ It shall be unlawful for any person in offering, selling or issuing any security
 
 #### Amendments
 
-1954—Act Aug. 10, 1954, substituted “offering, selling, or issuing” for “issuing or selling”.
+<b>1954</b>—Act Aug. 10, 1954, substituted “offering, selling, or issuing” for “issuing or selling”.
 
 #### Effective Date of 1954 Amendment
 
@@ -14,5 +14,5 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

@@ -46,9 +46,9 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §513(g)(1), (2)(A); added Oct. 1
 
 #### Amendments
 
-2007—Pub. L. 110–140 amended section generally, substituting provisions relating to maximum increase in average fuel economy for each of model years 1993 through 2019 and calculation of each such increase for provisions relating to maximum increase for each of model years 1993 through 2010 and authorizing offsets if the Secretary of Transportation reduced the average fuel economy standard for passenger automobiles for any model year below 27.5 miles per gallon.
+<b>2007</b>—Pub. L. 110–140 amended section generally, substituting provisions relating to maximum increase in average fuel economy for each of model years 1993 through 2019 and calculation of each such increase for provisions relating to maximum increase for each of model years 1993 through 2010 and authorizing offsets if the Secretary of Transportation reduced the average fuel economy standard for passenger automobiles for any model year below 27.5 miles per gallon.
 
-2005—Subsec. (a)(1)(A). Pub. L. 109–58, §772(b)(1), substituted “model years 1993–2010” for “the model years 1993–2004”.
+<b>2005</b>—Subsec. (a)(1)(A). Pub. L. 109–58, §772(b)(1), substituted “model years 1993–2010” for “the model years 1993–2004”.
 
 Subsec. (a)(1)(B). Pub. L. 109–58, §772(b)(2), substituted “model years 2011–2014” for “the model years 2005–2008”.
 

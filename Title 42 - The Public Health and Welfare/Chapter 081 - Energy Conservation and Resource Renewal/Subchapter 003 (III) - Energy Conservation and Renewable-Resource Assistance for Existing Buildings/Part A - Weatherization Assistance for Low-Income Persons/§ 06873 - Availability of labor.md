@@ -1,6 +1,6 @@
 ### §6873. Availability of labor
 
-The following actions shall be taken in order to assure that there is a sufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and the Older American Community Service Employment Act,<sup>1</sup> available to work in support of weatherization programs conducted under part A of the Energy Conservation in Existing Buildings Act of 1976 \[42 U.S.C. 6861 et seq.\], section 222(a)(12) <sup>1</sup> of the Economic Opportunity Act of 1964 \[42 U.S.C. 2809(a)(12)\], and section 504 of the Housing Act of 1949 \[42 U.S.C. 1474\]:
+The following actions shall be taken in order to assure that there is a sufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and the Older American Community Service Employment Act,<sup>1</sup> available to work in support of weatherization programs conducted under part A of the Energy Conservation in Existing Buildings Act of 1976 \[42 U.S.C. 6861 et seq.\], section 222(a)(12) <sup>1</sup> of the Economic Opportunity Act of 1964 \[42 U.S.C.2809(a)(12)\], and section 504 of the Housing Act of 1949 \[42 U.S.C. 1474\]:
 
 &emsp;(1) First, the Secretary of Energy (in consultation with the Director of the Community Services Administration, the Secretary of Agriculture, and the Secretary of Labor) shall determine the number of individuals needed to supply sufficient labor to carry out such weatherization programs in the various areas of the country.
 
@@ -26,7 +26,7 @@ Section was enacted as a part of the National Energy Conservation Policy Act, an
 
 #### Amendments
 
-1998—Pub. L. 105–277, §101(f) \[title VIII, §405(f)(30)\], struck out “the Job Training Partnership Act or” after “assisted pursuant to”.
+<b>1998</b>—Pub. L. 105–277, §101(f) \[title VIII, §405(f)(30)\], struck out “the Job Training Partnership Act or” after “assisted pursuant to”.
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(39)\], which directed the substitution of “the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “the Comprehensive Employment and Training Act of 1973” in introductory provisions, was executed by making the substitution for “the Comprehensive Employment Training Act of 1973” to reflect the probable intent of Congress.
 
@@ -37,4 +37,6 @@ Amendment by section 101(f) \[title VIII, §405(d)(39)\] of Pub. L. 105–277 ef
 #### Community Services Administration
 
 Community Services Administration, which was established by section 601 of Economic Opportunity Act of 1964, as amended (42 U.S.C. 2941), terminated when Economic Opportunity Act of 1964, Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, was repealed, except for titles VIII and X, effective Oct. 1, 1981, by section 683(a) of Pub. L. 97–35, title VI, Aug. 13, 1981, 95 Stat. 519, which is classified to 42 U.S.C. 9912(a). An Office of Community Services, headed by a Director, was established in Department of Health and Human Services by section 676 of Pub. L. 97–35, which is classified to 42 U.S.C. 9905.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

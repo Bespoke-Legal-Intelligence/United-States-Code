@@ -42,5 +42,5 @@ The purposes of this subpart are the following:
 
 #### Amendments
 
-2005—Subsec. (b)(4). Pub. L. 109–149 added par. (4).
+<b>2005</b>—Subsec. (b)(4). Pub. L. 109–149 added par. (4).
 

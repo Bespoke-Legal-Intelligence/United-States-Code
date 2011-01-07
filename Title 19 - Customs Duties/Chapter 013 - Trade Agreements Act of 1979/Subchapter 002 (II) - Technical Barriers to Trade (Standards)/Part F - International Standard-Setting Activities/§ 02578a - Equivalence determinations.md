@@ -20,5 +20,5 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b) and (c), i
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–295 substituted “phytosanitary” for “phystosanitary” before “measure of the Food and Drug Administration”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–295 substituted “phytosanitary” for “phystosanitary” before “measure of the Food and Drug Administration”.
 

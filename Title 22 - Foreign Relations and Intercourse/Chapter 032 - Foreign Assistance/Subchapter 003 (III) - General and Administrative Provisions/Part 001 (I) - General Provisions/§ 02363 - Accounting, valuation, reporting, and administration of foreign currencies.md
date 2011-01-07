@@ -22,13 +22,13 @@ This chapter, referred to in subsec. (d), was in the original “this Act”, me
 
 #### Amendments
 
-1981—Subsec. (c). Pub. L. 97–113 struck out subsec. (c) which provided for semi-annual reports on foreign currencies acquired without payment of dollars by the United States. See section 2394(a)(8) of this title.
+<b>1981</b>—Subsec. (c). Pub. L. 97–113 struck out subsec. (c) which provided for semi-annual reports on foreign currencies acquired without payment of dollars by the United States. See section 2394(a)(8) of this title.
 
-1976—Subsec. (c). Pub. L. 94–273 inserted provision relating to reports after Dec. 31, 1975.
+<b>1976</b>—Subsec. (c). Pub. L. 94–273 inserted provision relating to reports after Dec. 31, 1975.
 
-1965—Subsec. (d). Pub. L. 89–171 added subsec. (d).
+<b>1965</b>—Subsec. (d). Pub. L. 89–171 added subsec. (d).
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

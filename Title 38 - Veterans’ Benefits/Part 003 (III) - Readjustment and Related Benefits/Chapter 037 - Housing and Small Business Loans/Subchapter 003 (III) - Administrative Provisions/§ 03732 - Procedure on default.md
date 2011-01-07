@@ -1,8 +1,10 @@
 ### §3732. Procedure on default
 
-(a)(1) In the event of default in the payment of any loan guaranteed under this chapter, theholder of the obligation shall notify the Secretary of such default. Upon receipt of such notice, the Secretary may, subject to subsection (c) of this section, pay to such holder the guaranty not in excess of the pro rata portion of the amount originally guaranteed. Except as provided in section 3703(e) of this title, if the Secretary makes such a payment, the Secretary shall be subrogated to the rights of the holder of the obligation to the extent of the amount paid on the guaranty.
+(a)(1) In the event of default in the payment of any loan guaranteed under this chapter, the holder of the obligation shall notify the Secretary of such default. Upon receipt of such notice, the Secretary may, subject to subsection (c) of this section, pay to such holder the guaranty not in excess of the pro rata portion of the amount originally guaranteed. Except as provided in section 3703(e) of this title, if the Secretary makes such a payment, the Secretary shall be subrogated to the rights of the holder of the obligation to the extent of the amount paid on the guaranty.
 
-(2) Before suit or foreclosure the holder of the obligation shall notify the Secretary of the default, and within thirty days thereafter the Secretary may, at the Secretary's option, pay the holder of the obligation the unpaid balance of the obligation plus accrued interest and receive an assignment of the loan and security. Nothing in this section shall preclude any forebearance for the benefit of the veteran as may be agreed upon by the parties to the loan and approved by the Secretary.
+(2)(A) Before suit or foreclosure the holder of the obligation shall notify the Secretary of the default, and within thirty days thereafter the Secretary may, at the Secretary's option, pay the holder of the obligation the unpaid balance of the obligation plus accrued interest and receive an assignment of the loan and security. Nothing in this section shall preclude any forebearance for the benefit of the veteran as may be agreed upon by the parties to the loan and approved by the Secretary.
+
+(B) In the event that a housing loan guaranteed under this chapter is modified under the authority provided under section 1322(b) of title 11, the Secretary may pay the holder of the obligation the unpaid principal balance of the obligation due, plus accrued interest, as of the date of the filing of the petition under title 11, but only upon the assignment, transfer, and delivery to the Secretary (in a form and manner satisfactory to the Secretary) of all rights, interest, claims, evidence, and records with respect to the housing loan.
 
 (3) The Secretary may establish the date, not later than the date of judgment and decree of foreclosure or sale, upon which accrual of interest or charges shall cease.
 
@@ -38,7 +40,7 @@
 
 (B) This subsection does not apply to a case in which the Secretary proceeds under subsection (a)(2) of this section.
 
-(3)(A) Before carrying out a liquidation sale of real property securing a defaulted loan, the holder of the loan shall notify the Secretary of the proposed sale. Such notice shall be providedin accordance with regulations prescribed by the Secretary to implement this subsection.
+(3)(A) Before carrying out a liquidation sale of real property securing a defaulted loan, the holder of the loan shall notify the Secretary of the proposed sale. Such notice shall be provided in accordance with regulations prescribed by the Secretary to implement this subsection.
 
 (B) After receiving a notice described in subparagraph (A) of this paragraph, the Secretary shall determine the net value of the property securing the loan and the amount of the total indebtedness under the loan and shall notify the holder of the loan of the determination of such net value.
 
@@ -82,25 +84,27 @@
 
 > the date referred to in paragraph (1)(D)(ii) of this subsection shall be a date, earlier than the date of such liquidation sale, which the Secretary specifies pursuant to regulations which the Secretary shall prescribe to implement this paragraph.
 
-(D) For the purpose of determining the liability of the United States under a loan guaranty under paragraphs (5)(B), (6), (7)(B), and (8)(B), the amount of the total indebtedness with respect to such loan guaranty shall include, in any case in which there was an excessive delay caused by the Department of Veterans Affairs in the liquidation sale of the property securing such loan, any interest which had accrued as of the date of such sale and which would not be included, except for this subparagraph, in the calculation of such total indebtedness as a result ofthe specification of an earlier date under subparagraph (C)(i) of this paragraph.
+(D) For the purpose of determining the liability of the United States under a loan guaranty under paragraphs (5)(B), (6), (7)(B), and (8)(B), the amount of the total indebtedness with respect to such loan guaranty shall include, in any case in which there was an excessive delay caused by the Department of Veterans Affairs in the liquidation sale of the property securing such loan, any interest which had accrued as of the date of such sale and which would not be included, except for this subparagraph, in the calculation of such total indebtedness as a result of the specification of an earlier date under subparagraph (C)(i) of this paragraph.
 
 (11) This subsection shall apply to loans closed before October 1, 2012.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §1816(a)–(c); Pub. L. 89–117, title I, §107(f), Aug. 10, 1965, 79 Stat. 460; Pub. L. 94–324, §7(17), June 30, 1976, 90 Stat. 722; Pub. L. 98–369, div. B, title V, §2512(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§4(a), 5(a), Dec. 21, 1987, 101 Stat. 1316; renumbered §1832 and amended Pub. L. 100–322, title IV, §415(b)(1)(A)–(C), (5), May 20, 1988, 102 Stat. 550, 551; Pub. L. 101–237, title III, §§304(b), 307–308(b)(1), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073–2075, 2077; Pub. L. 102–54, §§1, 3(a), 14(g)(1), June 13, 1991, 105 Stat. 267, 288; renumbered §3732 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–66, title XII, §12006(a), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §907, Nov. 2, 1994, 108 Stat. 4677; Pub. L. 105–33, title VIII, §8013, Aug. 5, 1997, 111 Stat. 664; Pub. L. 106–419, title IV, §402(c), Nov. 1, 2000, 114 Stat. 1863; Pub. L. 107–103, title IV, §405(d), Dec. 27, 2001, 115 Stat. 994; Pub. L. 108–183, title IV, §406, Dec. 16, 2003, 117 Stat. 2666; Pub. L. 109–233, title V, §503(9), June 15, 2006, 120 Stat. 416.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §1816(a)–(c); Pub. L. 89–117, title I, §107(f), Aug. 10, 1965, 79 Stat. 460; Pub. L. 94–324, §7(17), June 30, 1976, 90 Stat. 722; Pub. L. 98–369, div. B, title V, §2512(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§4(a), 5(a), Dec. 21, 1987, 101 Stat. 1316; renumbered §1832 and amended Pub. L. 100–322, title IV, §415(b)(1)(A)–(C), (5), May 20, 1988, 102 Stat. 550, 551; Pub. L. 101–237, title III, §§304(b), 307–308(b)(1), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073–2075, 2077; Pub. L. 102–54, §§1, 3(a), 14(g)(1), June 13, 1991, 105 Stat. 267, 288; renumbered §3732 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–66, title XII, §12006(a), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §907, Nov. 2, 1994, 108 Stat. 4677; Pub. L. 105–33, title VIII, §8013, Aug. 5, 1997, 111 Stat. 664; Pub. L. 106–419, title IV, §402(c), Nov. 1, 2000, 114 Stat. 1863; Pub. L. 107–103, title IV, §405(d), Dec. 27, 2001, 115 Stat. 994; Pub. L. 108–183, title IV, §406, Dec. 16, 2003, 117 Stat. 2666; Pub. L. 109–233, title V, §503(9), June 15, 2006, 120 Stat. 416; Pub. L. 111–275, title VIII, §802(a), Oct. 13, 2010, 124 Stat. 2888.)
 
 #### Amendments
 
-2006—Subsec. (c)(10)(D). Pub. L. 109–233 substituted “paragraphs (5)(B), (6), (7)(B), and (8)(B)” for “clause (B) of paragraphs (5), (6), (7), and (8) of this subsection”.
+<b>2010</b>—Subsec. (a)(2). Pub. L. 111–275 designated existing provisions as subpar. (A) and added subpar. (B).
 
-2003—Subsec. (c)(11). Pub. L. 108–183 substituted “October 1, 2012” for “October 1, 2011”.
+<b>2006</b>—Subsec. (c)(10)(D). Pub. L. 109–233 substituted “paragraphs (5)(B), (6), (7)(B), and (8)(B)” for “clause (B) of paragraphs (5), (6), (7), and (8) of this subsection”.
 
-2001—Subsec. (c)(11). Pub. L. 107–103 substituted “October 1, 2011” for “October 1, 2008”.
+<b>2003</b>—Subsec. (c)(11). Pub. L. 108–183 substituted “October 1, 2012” for “October 1, 2011”.
 
-2000—Subsec. (c)(11). Pub. L. 106–419 substituted “October 1, 2008” for “October 1, 2002”.
+<b>2001</b>—Subsec. (c)(11). Pub. L. 107–103 substituted “October 1, 2011” for “October 1, 2008”.
 
-1997—Subsec. (c)(11). Pub. L. 105–33 substituted “October 1, 2002” for “October 1, 1998”.
+<b>2000</b>—Subsec. (c)(11). Pub. L. 106–419 substituted “October 1, 2008” for “October 1, 2002”.
 
-1994—Subsec. (c)(6). Pub. L. 103–446, §907(b), struck out “either” after “defaulted loan”, substituted “sale,” for “sale or acquires the property at such sale for an amount that exceeds the lesser of the net value of the property or the total indebtedness under the loan—”, struck out text of subpar. (A) and subpar. (B) designation before “the liability”, and redesignated cls. (i) and (ii) as cls. (A) and (B), respectively. Prior to amendment, subpar. (A) read as follows: “the Secretary may not accept conveyance of the property except as provided in paragraph (7) of this subsection; and”.
+<b>1997</b>—Subsec. (c)(11). Pub. L. 105–33 substituted “October 1, 2002” for “October 1, 1998”.
+
+<b>1994</b>—Subsec. (c)(6). Pub. L. 103–446, §907(b), struck out “either” after “defaulted loan”, substituted “sale,” for “sale or acquires the property at such sale for an amount that exceeds the lesser of the net value of the property or the total indebtedness under the loan—”, struck out text of subpar. (A) and subpar. (B) designation before “the liability”, and redesignated cls. (i) and (ii) as cls. (A) and (B), respectively. Prior to amendment, subpar. (A) read as follows: “the Secretary may not accept conveyance of the property except as provided in paragraph (7) of this subsection; and”.
 
 Subsec. (c)(7). Pub. L. 103–446, §907(a)(1), struck out “that was the minimum amount for which, under applicable State law, the property was permitted to be sold at the liquidation sale—” after “net value and” in introductory provisions.
 
@@ -108,11 +112,11 @@ Subsec. (c)(7)(A). Pub. L. 103–446, §907(a)(2), substituted “(i) the amount
 
 Subsec. (c)(7)(B). Pub. L. 103–446, §907(a)(3), substituted “paragraph (6)” for “paragraph (6)(B)”.
 
-1993—Subsec. (c)(1)(C). Pub. L. 103–66, §12006(a)(1), inserted “(including losses sustained on the resale of the property)” after “resale”.
+<b>1993</b>—Subsec. (c)(1)(C). Pub. L. 103–66, §12006(a)(1), inserted “(including losses sustained on the resale of the property)” after “resale”.
 
 Subsec. (c)(11). Pub. L. 103–66, §12006(a)(2), substituted “shall apply to loans closed before October 1, 1998” for “shall cease to have effect on December 31, 1992”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1832 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1832 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 102–83, §5(c)(1), substituted “3703(e)” for “1803(e)”.
 
@@ -126,7 +130,7 @@ Subsec. (c)(9). Pub. L. 102–83, §5(c)(1), substituted “3703(b)” for “18
 
 Subsec. (c)(11). Pub. L. 102–54, §3(a), substituted “December 31, 1992” for “October 1, 1991”.
 
-1989—Subsec. (a). Pub. L. 101–237, §313(b)(1), (2), substituted “Secretary”, “Secretary's”, and “Department of Veterans Affairs’ ” for “Administrator”, “Administrator's”, and “Veterans’ Administration's”, respectively, wherever appearing.
+<b>1989</b>—Subsec. (a). Pub. L. 101–237, §313(b)(1), (2), substituted “Secretary”, “Secretary's”, and “Department of Veterans Affairs’ ” for “Administrator”, “Administrator's”, and “Veterans’ Administration's”, respectively, wherever appearing.
 
 Pub. L. 101–237, §304(b), substituted “Except as provided in section 1803(e) of this title, if” for “If” in last sentence of par. (1).
 
@@ -138,7 +142,7 @@ Subsec. (c)(1)(C)(ii). Pub. L. 101–237, §308(a), inserted “, excluding any
 
 Subsec. (c)(11). Pub. L. 101–237, §308(b)(1), substituted “October 1, 1991” for “October 1, 1989”.
 
-1988—Pub. L. 100–322, §415(b)(1)(C), (5)(A), redesignated section catchline of section 1816 of this title as section catchline of this section and struck out former catchline which read as follows: “Furnishing information to real estate professionals to facilitate the disposition of properties”.
+<b>1988</b>—Pub. L. 100–322, §415(b)(1)(C), (5)(A), redesignated section catchline of section 1816 of this title as section catchline of this section and struck out former catchline which read as follows: “Furnishing information to real estate professionals to facilitate the disposition of properties”.
 
 Subsec. (a). Pub. L. 100–322, §415(b)(1)(A), (C), redesignated subsec. (a) of section 1816 of this title as subsec. (a) of this section, and in par. (4)(A)(i)(I) substituted “paragraph (2) of this subsection” for “section 1816(a)(2) of this title”.
 
@@ -146,13 +150,13 @@ Subsec. (b). Pub. L. 100–322, §415(b)(1)(C), redesignated subsec. (b) of sect
 
 Subsec. (c). Pub. L. 100–322, §415(b)(1)(B), (C), redesignated subsec. (c) of section 1816 of this title as subsec. (c) of this section, in par. (10)(A) inserted “(or such earlier date following the expiration of a reasonable period of time for such sale to occur as the Administrator may specify pursuant to regulations prescribed by the Administrator to implement this subsection)” before period at end, and in par. (10)(B)(ii) inserted “(5)(A) or” after “under paragraph”.
 
-1987—Subsec. (a)(4). Pub. L. 100–198, §4(a), added par. (4).
+<b>1987</b>—Subsec. (a)(4). Pub. L. 100–198, §4(a), added par. (4).
 
 Subsec. (c)(1)(D). Pub. L. 100–198, §5(a)(1)–(3), substituted “Except as provided in subparagraph (D) of paragraph (10) of this subsection, the” for “The” at beginning, “applicable under paragraph (10) of this subsection, and” for “of the liquidation sale of the property securing the loan (or such earlier date following the expiration of a reasonable period of time for such sale to occur as the Administrator may specify pursuant to regulations prescribed by the Administrator to implement this subsection), and” in cl. (ii), and “regulations prescribed by the Administrator to implement this subsection” for “such regulations” in cl. (iii).
 
 Subsec. (c)(10), (11). Pub. L. 100–198, §5(a)(4), added pars. (10) and (11).
 
-1984—Subsec. (a)(1). Pub. L. 98–369, §2512(a)(1)(A)–(C), designated existing first sentence as par. (1), substituted “Administrator of such default. Upon receipt of such notice, the Administrator may, subject to subsection (c) of this section,” for “Administrator who shall thereupon”, and substituted “guaranteed. If the Administrator makes a payment, the Administrator shall” for “guaranteed, and shall”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–369, §2512(a)(1)(A)–(C), designated existing first sentence as par. (1), substituted “Administrator of such default. Upon receipt of such notice, the Administrator may, subject to subsection (c) of this section,” for “Administrator who shall thereupon”, and substituted “guaranteed. If the Administrator makes a payment, the Administrator shall” for “guaranteed, and shall”.
 
 Subsec. (a)(2). Pub. L. 98–369, §2512(a)(1)(A), designated existing second and third sentences as par. (2).
 
@@ -160,11 +164,15 @@ Subsec. (a)(3). Pub. L. 98–369, §2512(a)(1)(A), designated existing fourth se
 
 Subsec. (c). Pub. L. 98–369, §2512(a)(2), added subsec. (c).
 
-1976—Subsec. (a). Pub. L. 94–324 substituted “the Administrator's” for “his”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–324 substituted “the Administrator's” for “his”.
 
 Subsec. (b). Pub. L. 94–324 substituted “the Administrator” for “he” wherever appearing.
 
-1965—Pub. L. 89–117 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1965</b>—Pub. L. 89–117 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–275, title VIII, §802(b), Oct. 13, 2010, 124 Stat. 2889, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to a housing loan guaranteed after the date of the enactment of this Act \[Oct. 13, 2010\].”
 
 #### Effective Date of 1993 Amendment
 

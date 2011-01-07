@@ -6,7 +6,7 @@ Not later than 120 days after the date that the WTO Agreement enters into force 
 
 #### Amendments
 
-1996—Pub. L. 104–295 struck out “, as defined in section 3501(9) of this title,” after “WTO Agreement”.
+<b>1996</b>—Pub. L. 104–295 struck out “, as defined in section 3501(9) of this title,” after “WTO Agreement”.
 
 #### Effective Date
 

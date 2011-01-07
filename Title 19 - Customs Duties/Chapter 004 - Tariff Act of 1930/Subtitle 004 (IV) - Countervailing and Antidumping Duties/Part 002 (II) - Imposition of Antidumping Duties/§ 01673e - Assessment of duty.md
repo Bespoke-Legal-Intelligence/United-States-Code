@@ -86,7 +86,7 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–465, §233(a)(1)(C), (2)(A)(iii), substituted “normal value” for “foreign market value” and “export price (or the constructed export price)” for “United States price”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–465, §233(a)(1)(C), (2)(A)(iii), substituted “normal value” for “foreign market value” and “export price (or the constructed export price)” for “United States price”.
 
 Subsec. (a)(2). Pub. L. 103–465, §233(a)(5)(W), substituted “subject merchandise” for “class or kind of merchandise to which it applies”.
 
@@ -98,11 +98,11 @@ Subsec. (c). Pub. L. 103–465, §233(a)(1)(C), (2)(A)(iii), substituted “norm
 
 Subsec. (d). Pub. L. 103–465, §218(b)(2), added subsec. (d).
 
-1988—Subsec. (c)(1). Pub. L. 100–418, §1325(a), amended par. (1) generally, designating existing provisions as cl. (C) and adding cls. (A), (B), (D), and (E).
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–418, §1325(a), amended par. (1) generally, designating existing provisions as cl. (C) and adding cls. (A), (B), (D), and (E).
 
 Subsec. (c)(4). Pub. L. 100–418, §1325(b), added par. (4).
 
-1986—Subsec. (c)(1). Pub. L. 99–514 inserted “, and was sold to any person that is not related to such manufacturer, producer, or exporter,” before “on or after the date”.
+<b>1986</b>—Subsec. (c)(1). Pub. L. 99–514 inserted “, and was sold to any person that is not related to such manufacturer, producer, or exporter,” before “on or after the date”.
 
 #### Effective Date of 1994 Amendment
 

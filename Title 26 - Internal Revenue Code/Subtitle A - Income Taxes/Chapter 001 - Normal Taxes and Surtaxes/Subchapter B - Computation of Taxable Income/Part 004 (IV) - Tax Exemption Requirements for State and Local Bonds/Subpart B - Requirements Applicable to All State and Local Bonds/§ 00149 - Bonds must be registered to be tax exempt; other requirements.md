@@ -422,7 +422,11 @@
 
 &emsp;The Secretary may prescribe regulations to prevent the avoidance of the rules of this subsection, including through the aggregation of projects within a single issue.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2646; amended Pub. L. 100–647, title I, §1013(a)(20)–(22), title V, §5051(a), Nov. 10, 1988, 102 Stat. 3542, 3676; Pub. L. 101–239, title VII, §7651(a), Dec. 19, 1989, 103 Stat. 2383; Pub. L. 104–188, title I, §1704(b)(1), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 109–222, title V, §508(a), (b), (d)(1), (2), May 17, 2006, 120 Stat. 361, 362; Pub. L. 110–289, div. C, title I, §3023(a), (b), July 30, 2008, 122 Stat. 2894, 2895.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2646; amended Pub. L. 100–647, title I, §1013(a)(20)–(22), title V, §5051(a), Nov. 10, 1988, 102 Stat. 3542, 3676; Pub. L. 101–239, title VII, §7651(a), Dec. 19, 1989, 103 Stat. 2383; Pub. L. 104–188, title I, §1704(b)(1), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 109–222, title V, §508(a), (b), (d)(1), (2), May 17, 2006, 120 Stat. 361, 362; Pub. L. 110–289, div. C, title I, §3023(a), (b), July 30, 2008, 122 Stat. 2894, 2895; Pub. L. 111–147, title V, §502(a)(2)(A), Mar. 18, 2010, 124 Stat. 107.)
+
+#### Amendment of Subsection (a)(2)
+
+<i>Pub. L. 111–147, title V, §502(a)(2)(A), (f), Mar. 18, 2010, 124 Stat. 107, 108, provided that, applicable to obligations issued after the date which is 2 years after Mar. 18, 2010, subsection (a)(2) of this section is amended by inserting “or” at the end of subparagraph (A), by substituting a period for “, or” at the end of subparagraph (B), and by striking subparagraph (C).</i>
 
 #### References in Text
 
@@ -442,11 +446,11 @@ The date of the enactment of this subsection, referred to in subsec. (d)(6), is 
 
 #### Amendments
 
-2008—Subsec. (b)(3)(A)(iv). Pub. L. 110–289, §3023(a), added cl. (iv).
+<b>2008</b>—Subsec. (b)(3)(A)(iv). Pub. L. 110–289, §3023(a), added cl. (iv).
 
 Subsec. (b)(3)(E). Pub. L. 110–289, §3023(b), added subpar. (E).
 
-2006—Subsec. (f)(1). Pub. L. 109–222, §508(d)(1), substituted “paragraphs (2), (3), (4), and (5)” for “paragraphs (2) and (3)”.
+<b>2006</b>—Subsec. (f)(1). Pub. L. 109–222, §508(d)(1), substituted “paragraphs (2), (3), (4), and (5)” for “paragraphs (2) and (3)”.
 
 Subsec. (f)(2)(A). Pub. L. 109–222, §508(a), amended subpar. (A) generally. Prior to amendment, text read as follows: “The requirements of this paragraph are met with respect to an issue if the issuer reasonably expects that as of the close of the 3-year period beginning on the date of issuance of the issue, at least 95 percent of the net proceeds of the issue (as of the close of such period) will have been used directly or indirectly to make or finance loans to ultimate borrowers.”
 
@@ -456,13 +460,13 @@ Subsec. (f)(7). Pub. L. 109–222, §508(b), redesignated par. (5) as (7).
 
 Subsec. (f)(7)(B). Pub. L. 109–222, §508(d)(2), substituted “paragraph (6)(A)” for “paragraph (4)(A)”.
 
-1996—Subsec. (g)(3)(B)(iii). Pub. L. 104–188 amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “
+<b>1996</b>—Subsec. (g)(3)(B)(iii). Pub. L. 104–188 amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “
 
 Investment earnings held pending reinvestment.—Investment earnings held for not more than 30 days pending reinvestment shall be treated as invested in bonds described in clause (i).”
 
-1989—Subsec. (g). Pub. L. 101–239 added subsec. (g).
+<b>1989</b>—Subsec. (g). Pub. L. 101–239 added subsec. (g).
 
-1988—Subsec. (b)(3)(A)(iii). Pub. L. 100–647, §1013(a)(20), struck out “with respect to any bond issued before July 1, 1989” after “1984”.
+<b>1988</b>—Subsec. (b)(3)(A)(iii). Pub. L. 100–647, §1013(a)(20), struck out “with respect to any bond issued before July 1, 1989” after “1984”.
 
 Subsec. (b)(4)(A). Pub. L. 100–647, §1013(a)(21), substituted “and a qualified student loan bond” for “a qualified student loan bond, and a qualified redevelopment bond”.
 
@@ -473,6 +477,10 @@ Subsec. (f). Pub. L. 100–647, §5051(a), added subsec. (f).
 #### Change of Name
 
 Reference to Veterans’ Administration deemed to refer to Department of Veterans Affairs pursuant to section 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–147, title V, §502(f), Mar. 18, 2010, 124 Stat. 108, provided that: “The amendments made by this section \[amending this section, sections 163, 165, 871, 881, 1287, and 4701 of this title, and section 3121 of Title 31, Money and Finance\] shall apply to obligations issued after the date which is 2 years after the date of the enactment of this Act \[Mar. 18, 2010\].”
 
 #### Effective Date of 2008 Amendment
 
@@ -500,7 +508,7 @@ Bonds sold before september 15, 1989.—The amendment made by subsection (a) sha
 
 “(3)
 
-Bonds with respect to which preliminary offering materials mailed.—The amendment made by subsection (a) shall not apply to any issue issued after the date of the enactment of this Act \[Dec. 19, 1989\] ifthe preliminary offering materials with respect to such issue were mailed (or otherwise delivered) to members of the underwriting syndicate before September 15, 1989.
+Bonds with respect to which preliminary offering materials mailed.—The amendment made by subsection (a) shall not apply to any issue issued after the date of the enactment of this Act \[Dec. 19, 1989\] if the preliminary offering materials with respect to such issue were mailed (or otherwise delivered) to members of the underwriting syndicate before September 15, 1989.
 
 “(4)
 

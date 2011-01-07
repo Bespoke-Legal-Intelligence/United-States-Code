@@ -16,7 +16,7 @@ The President is authorized to provide assistance for famine relief, rehabilitat
 
 #### (2) Emergency health projects
 
-&emsp;A significant portion of the funds authorized to be appropriated by this section shall beused for emergency health projects pursuant to subsection (a)(2) of this section.
+&emsp;A significant portion of the funds authorized to be appropriated by this section shall be used for emergency health projects pursuant to subsection (a)(2) of this section.
 
 #### (3) Management support activities
 
@@ -24,7 +24,7 @@ The President is authorized to provide assistance for famine relief, rehabilitat
 
 #### (c) Authorization of appropriations
 
-In addition to the amounts otherwise available for such purpose, there are authorized to be appropriated $137,500,000 for the fiscal year 1985 for use in providing assistance under this section.
+In addition to the amounts otherwise available for such purpose, there are authorized to beappropriated $137,500,000 for the fiscal year 1985 for use in providing assistance under this section.
 
 #### (d) Policies and authorities to be applied
 

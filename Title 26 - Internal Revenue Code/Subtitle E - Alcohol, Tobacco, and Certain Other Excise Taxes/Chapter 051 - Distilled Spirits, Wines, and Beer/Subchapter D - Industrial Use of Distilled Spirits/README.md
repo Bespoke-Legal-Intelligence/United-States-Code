@@ -17,7 +17,7 @@ A prior subchapter D, Rectifying Plants, consisted of part I, Establishment, and
 
 #### Amendments
 
-1987—Pub. L. 100–203, title X, §10512(e)(2), Dec. 22, 1987, 101 Stat. 1330–449, added item 5276.
+<b>1987</b>—Pub. L. 100–203, title X, §10512(e)(2), Dec. 22, 1987, 101 Stat. 1330–449, added item 5276.
 
 <i><sup>1</sup></i><i> Section repealed by Pub. L. 109–59 without corresponding amendment of subchapter analysis.</i>
 

@@ -56,7 +56,7 @@ Any document described in subsection (a) of this section shall be immediately re
 
 #### Amendments
 
-1996—Pub. L. 104–297, §105(c)(1), substituted “international” for “governing international” in section catchline.
+<b>1996</b>—Pub. L. 104–297, §105(c)(1), substituted “international” for “governing international” in section catchline.
 
 Subsec. (a). Pub. L. 104–297, §105(c)(2), (3), inserted “, bycatch reduction agreement, or Pacific Insular Area fishery agreement” after “international fishery agreement” in two places and substituted “120 days (excluding any days in a period for which the Congress is adjourned sine die)” for “60 calendar days of continuous session of the Congress”.
 
@@ -70,7 +70,7 @@ Subsec. (c)(2)(A). Pub. L. 104–297, §105(c)(6), substituted “agreement, byc
 
 Subsec. (d). Pub. L. 104–297, §105(c)(5), redesignated subsec. (d) as (c).
 
-1994—Subsec. (b). Pub. L. 103–437, §6(x)(1), substituted “Commerce, Science, and Transportation and on” for “Commerce and”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–437, §6(x)(1), substituted “Commerce, Science, and Transportation and on” for “Commerce and”.
 
 Subsec. (d)(2)(B). Pub. L. 103–437, §6(x)(2), substituted “Commerce, Science, and Transportation” for “Commerce”.
 

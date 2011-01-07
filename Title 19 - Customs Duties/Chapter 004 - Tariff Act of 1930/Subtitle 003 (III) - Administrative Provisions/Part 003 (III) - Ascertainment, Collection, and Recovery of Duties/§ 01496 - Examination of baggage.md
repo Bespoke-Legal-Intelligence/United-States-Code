@@ -10,7 +10,7 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 
 #### Amendments
 
-1970—Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector.
+<b>1970</b>—Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector.
 
 #### Effective Date of 1970 Amendment
 

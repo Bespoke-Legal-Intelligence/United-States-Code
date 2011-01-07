@@ -2,7 +2,7 @@
 
 #### (a) Transfer of functions
 
-There are transferred to the Director of the Office of Refugee Resettlement of the Department of Health and Human Services functions under the immigration laws of the United Stateswith respect to the care of unaccompanied alien children that were vested by statute in, or performed by, the Commissioner of Immigration and Naturalization (or any officer, employee, or component of the Immigration and Naturalization Service) immediately before the effective date specified in subsection (d) of this section.
+There are transferred to the Director of the Office of Refugee Resettlement of the Department of Health and Human Services functions under the immigration laws of the United States with respect to the care of unaccompanied alien children that were vested by statute in, or performed by, the Commissioner of Immigration and Naturalization (or any officer, employee, or component of the Immigration and Naturalization Service) immediately before the effective date specified in subsection (d) of this section.
 
 #### (b) Functions
 
@@ -76,7 +76,7 @@ Notwithstanding section 4,<sup>1</sup> this section shall take effect on the dat
 
 #### (e) References
 
-With respect to any function transferred by this section, any reference in any other Federallaw, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to a component of government from which such function is transferred—
+With respect to any function transferred by this section, any reference in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to a component of government from which such function is transferred—
 
 &emsp;(1) to the head of such component is deemed to refer to the Director of the Office of Refugee Resettlement; or
 
@@ -121,6 +121,8 @@ As used in this section—
 The Immigration and Nationality Act, referred to in subsec. (c), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 Section 4, referred to in subsec. (d), is section 4 of Pub. L. 107–296, which is set out as an Effective Date note under section 101 of this title.
+
+This chapter, referred to in subsec. (f)(2), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 #### Codification
 

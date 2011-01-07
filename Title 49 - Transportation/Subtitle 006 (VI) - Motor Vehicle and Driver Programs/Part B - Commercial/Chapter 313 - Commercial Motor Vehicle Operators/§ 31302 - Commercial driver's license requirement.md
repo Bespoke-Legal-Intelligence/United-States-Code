@@ -24,7 +24,7 @@ The words “Effective July 1, 1987” are omitted as executed. The words after 
 
 #### Amendments
 
-2005—Pub. L. 109–59 inserted “and may have only one learner's permit at any time” before period at end.
+<b>2005</b>—Pub. L. 109–59 inserted “and may have only one learner's permit at any time” before period at end.
 
-1998—Pub. L. 105–178 amended section catchline and text generally. Prior to amendment, text read as follows: “An individual operating a commercial motor vehicle may have only one driver's license at any time, except during the 10-day period beginning on the date the individual is issued a driver's license.”
+<b>1998</b>—Pub. L. 105–178 amended section catchline and text generally. Prior to amendment, text read as follows: “An individual operating a commercial motor vehicle may have only one driver's license at any time, except during the 10-day period beginning on the date the individual is issued a driver's license.”
 

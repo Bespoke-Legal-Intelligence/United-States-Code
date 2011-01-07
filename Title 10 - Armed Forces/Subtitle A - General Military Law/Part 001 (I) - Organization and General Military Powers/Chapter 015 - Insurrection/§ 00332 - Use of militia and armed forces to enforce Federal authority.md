@@ -26,7 +26,7 @@ Act July 29, 1861, ch. 25, §1, 12 Stat. 281.
 
 #### Amendments
 
-2006—Pub. L. 109–163 struck out “or Territory” after “in any State”.
+<b>2006</b>—Pub. L. 109–163 struck out “or Territory” after “in any State”.
 
 #### Ex. Ord. No. 10730. Assistance for Removal of an Obstruction of Justice Within the State of Arkansas
 

@@ -1,8 +1,8 @@
 ### §1307. National Oceanic and Atmospheric Administration: nautical products, sale and distribution
 
-(a)(1) All nautical products created or published by the National Oceanic and Atmospheric Administration shall be sold at such prices as the Secretary of Commerce shall establish annually, in accordance with the provisions of this subsection. The Secretary shall publish annually the prices at which nautical products are sold to the public.
+(a)(1) All nautical products created or published by the National Oceanic and AtmosphericAdministration shall be sold at such prices as the Secretary of Commerce shall establish annually, in accordance with the provisions of this subsection. The Secretary shall publish annually the prices at which nautical products are sold to the public.
 
-(2)(A) Subject to subparagraph (B) of this paragraph, the prices of nautical products may be increased over a period of not less than three years after the date of enactment of this sectionso as to recover all costs attributable to data base management, compilation, printing, and distribution of such products. The prices of such products may be maintained to recover all such costs thereafter.
+(2)(A) Subject to subparagraph (B) of this paragraph, the prices of nautical products may be increased over a period of not less than three years after the date of enactment of this section so as to recover all costs attributable to data base management, compilation, printing, and distribution of such products. The prices of such products may be maintained to recover all such costs thereafter.
 
 (B) The Secretary, after consultation with the Secretary of Transportation, shall adjust the prices of nautical products in such manner as is necessary to avoid any adverse impact on marine safety attributable to the prices specified in subparagraph (A) of this paragraph.
 
@@ -36,7 +36,7 @@ The date of enactment of this section, referred to in subsec. (a)(2)(A), probabl
 
 #### Amendments
 
-2000—Pub. L. 106–181, §606(a)(1), struck out “and aeronautical” after “nautical” in section catchline.
+<b>2000</b>—Pub. L. 106–181, §606(a)(1), struck out “and aeronautical” after “nautical” in section catchline.
 
 Subsec. (a)(1), (2)(A). Pub. L. 106–181, §606(a)(2), struck out “and aeronautical” after “nautical” wherever appearing.
 
@@ -52,9 +52,9 @@ Subsec. (d). Pub. L. 106–181, §606(c), struck out “aeronautical and” afte
 
 Subsec. (e). Pub. L. 106–181, §606(a)(2), struck out “and aeronautical” after “nautical” in two places.
 
-1998—Subsec. (a)(2)(A). Pub. L. 105–362 struck out at end “At the end of such period and every three years thereafter, the Secretary, after consultation with the Secretary of Transportation, shall report to the Congress on the effect of imposing or maintaining such increased prices, including any impact on aviation and marine safety.”
+<b>1998</b>—Subsec. (a)(2)(A). Pub. L. 105–362 struck out at end “At the end of such period and every three years thereafter, the Secretary, after consultation with the Secretary of Transportation, shall report to the Congress on the effect of imposing or maintaining such increased prices, including any impact on aviation and marine safety.”
 
-1986—Subsec. (a). Pub. L. 99–272 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The charts published by the Environmental Science Service Administration shall be sold at cost of paper and printing as nearly as practicable. The price to the public shall include all expenses incurred in actual reproduction of the charts after the original cartography, such as photography, opaquing, platemaking, press time and bindery operations; the full postage rates, according to the rates for postal services used; and any additional cost factors considered appropriate by the Secretary such as overhead and administrative expenses allocable to the production of the charts and related reference materials. The costs of basic surveys and geodetic work done may not be included in the price of the charts and reference materials. The Secretary of Commerce shall publish the prices at which charts and reference materials are sold to the public at least once each calendar year.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–272 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The charts published by the Environmental Science Service Administration shall be sold at cost of paper and printing as nearly as practicable. The price to the public shall include all expenses incurred in actual reproduction of the charts after the original cartography, such as photography, opaquing, platemaking, press time and bindery operations; the full postage rates, according to the rates for postal services used; and any additional cost factors considered appropriate by the Secretary such as overhead and administrative expenses allocable to the production of the charts and related reference materials. The costs of basic surveys and geodetic work done may not be included in the price of the charts and reference materials. The Secretary of Commerce shall publish the prices at which charts and reference materials are sold to the public at least once each calendar year.”
 
 Subsec. (b). Pub. L. 99–272 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There may not be free distribution of charts except to the departments and officers of the United States requiring them for public use; and a number of copies of each sheet, not to exceed three hundred, to be presented to such foreign governments, libraries, and scientific associations, and institutions of learning as the Secretary of Commerce directs; but on the order of Senators and Representatives not to exceed one hundred copies to each may be distributed through the Environmental Science Service Administration.”
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Transfer of Functions
 
-Functions of Secretary and other officers of Department of Commerce under this section that relate to theOffice of Aeronautical Charting and Cartography to provide aeronautical charts and related products and services for safe and efficient navigation of air commerce transferred to Administrator of Federal Aviation Administration effective Oct. 1, 2000, see section 44721(c)(3) of Title 49, Transportation.
+Functions of Secretary and other officers of Department of Commerce under this section that relate to the Office of Aeronautical Charting and Cartography to provide aeronautical charts and related products and services for safe and efficient navigation of air commerce transferred to Administrator of Federal Aviation Administration effective Oct. 1, 2000, see section 44721(c)(3) of Title 49, Transportation.
 
 #### Sale of Aeronautical Charts: Disposition of Receipts Resulting From Price Increase
 

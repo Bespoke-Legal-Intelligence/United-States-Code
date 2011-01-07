@@ -1,5 +1,5 @@
 
-21 U.S.C.<br>United States Code, 2009 Edition<br>Title 21 - FOOD AND DRUGS<br>From the U.S. Government Publishing Office, www.gpo.gov
+21 U.S.C.<br>United States Code, 2010 Edition<br>Title 21 - FOOD AND DRUGS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 21—FOOD AND DRUGS
 
@@ -32,6 +32,7 @@
 | [<b>24.</b>](Chapter%20024%20-%20International%20Narcotics%20Trafficking/README.md) | <b>International Narcotics Trafficking</b> | <b>1901</b> |
 | [<b>25.</b>](Chapter%20025%20-%20Miscellaneous%20Anti-Drug%20Abuse%20Provisions/README.md) | <b>Miscellaneous Anti-Drug Abuse Provisions</b> | <b>2001</b> |
 | [<b>26.</b>](Chapter%20026%20-%20Food%20Safety/README.md) | <b>Food Safety</b> | <b>2101</b> |
+| [<b>27.</b>](Chapter%20027%20-%20Food%20Safety%20Modernization/README.md) | <b>Food Safety Modernization</b> | <b>2201</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -67,3 +68,4 @@
 - [Chapter 024 - International Narcotics Trafficking](Chapter%20024%20-%20International%20Narcotics%20Trafficking/README.md)
 - [Chapter 025 - Miscellaneous Anti-Drug Abuse Provisions](Chapter%20025%20-%20Miscellaneous%20Anti-Drug%20Abuse%20Provisions/README.md)
 - [Chapter 026 - Food Safety](Chapter%20026%20-%20Food%20Safety/README.md)
+- [Chapter 027 - Food Safety Modernization](Chapter%20027%20-%20Food%20Safety%20Modernization/README.md)

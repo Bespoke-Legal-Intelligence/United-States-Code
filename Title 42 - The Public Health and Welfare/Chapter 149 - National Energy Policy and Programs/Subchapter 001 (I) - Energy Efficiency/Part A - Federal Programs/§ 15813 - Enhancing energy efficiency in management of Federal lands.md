@@ -6,7 +6,7 @@ It is the sense of the Congress that Federal agencies should enhance the use of 
 
 #### (b) Energy efficient buildings
 
-To the extent practicable, the Secretary of the Interior, the Secretary of Commerce, and theSecretary of Agriculture shall seek to incorporate energy efficient technologies in public and administrative buildings associated with management of the National Park System, National Wildlife Refuge System, National Forest System, National Marine Sanctuaries System, and other public lands and resources managed by the Secretaries.
+To the extent practicable, the Secretary of the Interior, the Secretary of Commerce, and the Secretary of Agriculture shall seek to incorporate energy efficient technologies in public and administrative buildings associated with management of the National Park System, National Wildlife Refuge System, National Forest System, National Marine Sanctuaries System, and other public lands and resources managed by the Secretaries.
 
 #### (c) Energy efficient vehicles
 

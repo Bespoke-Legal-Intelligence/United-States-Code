@@ -20,7 +20,7 @@ In order to meet the requirements of this subsection, a person shall—
 
 #### Amendments
 
-1994—Subsec. (b)(1). Pub. L. 103–465, §233(a)(2)(A)(iv), substituted “export price (or the constructed export price)” for “United States price”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–465, §233(a)(2)(A)(iv), substituted “export price (or the constructed export price)” for “United States price”.
 
 Subsec. (b)(3). Pub. L. 103–465, §233(a)(2)(B), substituted “constructed export price” for “exporter's sales price”.
 

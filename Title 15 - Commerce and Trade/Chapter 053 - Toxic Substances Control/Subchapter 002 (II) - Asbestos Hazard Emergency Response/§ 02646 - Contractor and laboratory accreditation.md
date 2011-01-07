@@ -54,7 +54,7 @@ A person may not—
 
 #### (2) State adoption of plan
 
-&emsp;Each State shall adopt a contractor accreditation plan at least as stringent as the modelplan developed by the Administrator under paragraph (1), within 180 days after the commencement of the first regular session of the legislature of such State which is convened following the date on which the Administrator completes development of the model plan. In the case of a school operated under the defense dependents’ education system provided for under the Defense Dependents’ Education Act of 1978 (20 U.S.C. 921 et seq.), the Secretary of Defense shall adopt a contractor accreditation plan at least as stringent as that model.
+&emsp;Each State shall adopt a contractor accreditation plan at least as stringent as the model plan developed by the Administrator under paragraph (1), within 180 days after the commencement of the first regular session of the legislature of such State which is convened following the date on which the Administrator completes development of the model plan. In the case of a school operated under the defense dependents’ education system provided for under the Defense Dependents’ Education Act of 1978 (20 U.S.C. 921 et seq.), the Secretary of Defense shall adopt a contractor accreditation plan at least as stringent as that model.
 
 #### (c) Accreditation by Administrator-approved course
 
@@ -112,9 +112,9 @@ A person may not—
 
 #### (f) List of EPA-approved courses
 
-Not later than August 31, 1988, and every three months thereafter until August 31, 1991, the Administrator shall publish in the Federal Register a list of all Environmental Protection Agency-approved asbestos training courses for persons to achieve accreditation in each category described in subsection (b)(1)(A) of this section and for laboratories to achieve accreditation. The Administrator may continue publishing such a list after August 31, 1991, at such times as the Administrator considers it useful. The list shall include the name and address of each approved trainer and, to the extent available, a list of all the geographic sites where training courses will take place. The Administrator shall provide a copy of the list to each State official on the list published by the Administrator under section 2645(d)(6) of this title and to each regional office of the Environmental Protection Agency.
+Not later than August 31, 1988, and every three months thereafter until August 31, 1991, the Administrator shall publish in the Federal Register a list of all Environmental Protection Agency-approved asbestos training courses for persons to achieve accreditation in each category described in subsection (b)(1)(A) of this section and for laboratories to achieve accreditation. The Administrator may continue publishing such a list after August 31, 1991, at such times as the Administrator considers it useful. The list shall include the name and address ofeach approved trainer and, to the extent available, a list of all the geographic sites where training courses will take place. The Administrator shall provide a copy of the list to each State official on the list published by the Administrator under section 2645(d)(6) of this title and to each regional office of the Environmental Protection Agency.
 
-(Pub. L. 94–469, title II, §206, as added Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2980; amendedPub. L. 100–368, §3, July 18, 1988, 102 Stat. 832; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 101–637, §15(a)(1), (2), Nov. 28, 1990, 104 Stat. 4596.)
+(Pub. L. 94–469, title II, §206, as added Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2980; amended Pub. L. 100–368, §3, July 18, 1988, 102 Stat. 832; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 101–637, §15(a)(1), (2), Nov. 28, 1990, 104 Stat. 4596.)
 
 #### References in Text
 
@@ -124,11 +124,11 @@ The Asbestos School Hazard Abatement Act of 1984, referred to in subsec. (e)(2),
 
 #### Amendments
 
-1990—Subsec. (a)(1), (3). Pub. L. 101–637, §15(a)(1), inserted before comma at end “or in a public or commercial building”.
+<b>1990</b>—Subsec. (a)(1), (3). Pub. L. 101–637, §15(a)(1), inserted before comma at end “or in a public or commercial building”.
 
 Subsec. (b)(1)(A)(i), (iii). Pub. L. 101–637, §15(a)(2), inserted before period at end “or in public or commercial buildings”.
 
-1988—Subsec. (d)(1), (2). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards” wherever appearing.
+<b>1988</b>—Subsec. (d)(1), (2). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards” wherever appearing.
 
 Subsec. (f). Pub. L. 100–368 added subsec. (f).
 

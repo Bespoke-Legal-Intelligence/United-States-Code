@@ -10,7 +10,7 @@ A prior section 10 of Pub. L. 89–92 was renumbered section 11 and is classifie
 
 #### Amendments
 
-1970—Pub. L. 91–222 substituted provisions that violators shall be guilty of a misdemeanor and subject to fine, for provision that if any part of this chapter be held invalid, other provisions thereof shall not be affected. See Separability note set out under section 1331 of this title.
+<b>1970</b>—Pub. L. 91–222 substituted provisions that violators shall be guilty of a misdemeanor and subject to fine, for provision that if any part of this chapter be held invalid, other provisions thereof shall not be affected. See Separability note set out under section 1331 of this title.
 
 #### Effective Date of 1970 Amendment
 

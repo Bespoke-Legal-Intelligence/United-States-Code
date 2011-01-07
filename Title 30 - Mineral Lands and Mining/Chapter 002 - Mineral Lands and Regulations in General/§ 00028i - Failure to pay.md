@@ -14,5 +14,5 @@ Similar provisions were contained in Pub. L. 102–381, title I, Oct. 5, 1992, 1
 
 #### Amendments
 
-2009—Pub. L. 111–88 substituted “28<i>l</i>” for “28k”. See Codification note above.
+<b>2009</b>—Pub. L. 111–88 substituted “28<i>l</i>” for “28k”. See Codification note above.
 

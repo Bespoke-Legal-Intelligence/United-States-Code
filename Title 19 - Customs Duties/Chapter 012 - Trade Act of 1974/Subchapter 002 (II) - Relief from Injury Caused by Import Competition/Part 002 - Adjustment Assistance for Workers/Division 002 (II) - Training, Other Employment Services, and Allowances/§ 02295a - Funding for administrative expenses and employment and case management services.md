@@ -46,9 +46,9 @@ Pub. L. 111–5, div. B, title I, §1827(c), Feb. 17, 2009, 123 Stat. 381, provi
 
 Except as otherwise provided and subject to certain applicability provisions, section effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of this title.
 
-Except as otherwise provided, section not applicable on or after Jan. 1, 2011, and this part to be applied and administered beginning Jan. 1, 2011, as if this section had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Except as otherwise provided, section not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if this section had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2010, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a Termination Date note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

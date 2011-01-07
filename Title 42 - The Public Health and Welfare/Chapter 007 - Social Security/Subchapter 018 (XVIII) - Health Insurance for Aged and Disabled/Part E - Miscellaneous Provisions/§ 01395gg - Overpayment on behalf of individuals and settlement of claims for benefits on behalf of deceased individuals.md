@@ -26,7 +26,7 @@ There shall be no adjustment as provided in subsection (b) of this section (nor 
 
 #### (d) Liability of certifying or disbursing officer for failure to recoup
 
-No certifying or disbursing officer shall be held liable for any amount certified or paid by him to any provider of services or other person where the adjustment or recovery of such amount is waived under subsection (c) of this section or where adjustment under subsection (b) of this section is not completed prior to the death of all persons against whose benefits such adjustment is authorized.
+No certifying or disbursing officer shall be held liable for any amount certified or paid byhim to any provider of services or other person where the adjustment or recovery of such amount is waived under subsection (c) of this section or where adjustment under subsection (b) of this section is not completed prior to the death of all persons against whose benefits such adjustment is authorized.
 
 #### (e) Settlement of claims for benefits under this subchapter on behalf of deceased individuals
 
@@ -36,7 +36,7 @@ If an individual, who received services for which payment may be made to such in
 
 &emsp;(2) if there is no person who meets the requirements of paragraph (1), to the person, if any, who is determined by the Secretary to be the surviving spouse of the deceased individual and who was either living in the same household with the deceased at the time of his death or was, for the month in which the deceased individual died, entitled to a monthly benefit on the basis of the same wages and self-employment income as was the deceased individual;
 
-&emsp;(3) if there is no person who meets the requirements of paragraph (1) or (2), or if the person who meets such requirements dies before the payment due him under this subchapter is completed, to the child or children, if any, of the deceased individual who were, for the month in which the deceased individual died, entitled to monthly benefits on the basisof the same wages and self-employment income as was the deceased individual (and, in case there is more than one such child, in equal parts to each such child);
+&emsp;(3) if there is no person who meets the requirements of paragraph (1) or (2), or if the person who meets such requirements dies before the payment due him under this subchapter is completed, to the child or children, if any, of the deceased individual who were, for the month in which the deceased individual died, entitled to monthly benefits on the basis of the same wages and self-employment income as was the deceased individual (and, in case there is more than one such child, in equal parts to each such child);
 
 &emsp;(4) if there is no person who meets the requirements of paragraph (1), (2), or (3), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the parent or parents, if any, of the deceased individual who were, for the month in which the deceased individual died, entitled to monthly benefits on the basis of the same wages and self-employment income as was the deceased individual (and, in case there is more than one such parent, in equal parts to each such parent);
 
@@ -74,29 +74,29 @@ The Railroad Retirement Act of 1974, referred to in subsec. (b), is act Aug. 29,
 
 #### Amendments
 
-2003—Subsec. (h). Pub. L. 108–173 added subsec. (h).
+<b>2003</b>—Subsec. (h). Pub. L. 108–173 added subsec. (h).
 
-1988—Pub. L. 100–360, §411(e)(3), added Pub. L. 100–203, §4039(h)(7), see 1987 Amendment note below.
+<b>1988</b>—Pub. L. 100–360, §411(e)(3), added Pub. L. 100–203, §4039(h)(7), see 1987 Amendment note below.
 
 Subsec. (f)(1), (2). Pub. L. 100–360, §411(j)(4)(B), substituted “of assignment specified in” for “specified in subclauses (I) and (II) of”.
 
-1987—Pub. L. 100–203, §4039(h)(7), as added by Pub. L. 100–360, §411(e)(3), amended section catchline generally.
+<b>1987</b>—Pub. L. 100–203, §4039(h)(7), as added by Pub. L. 100–360, §411(e)(3), amended section catchline generally.
 
-Subsec. (f)(1), (2). Pub. L. 100–203, §4096(a)(2), substituted “to the terms specified in subclauses (I) and\(II) of section 1395u(b)(3)(B)(ii) of this title with respect to the services” for “that the reasonable charge is the full charge for the services”.
+Subsec. (f)(1), (2). Pub. L. 100–203, §4096(a)(2), substituted “to the terms specified in subclauses (I) and (II) of section 1395u(b)(3)(B)(ii) of this title with respect to the services” for “that the reasonable charge is the full charge for the services”.
 
-1982—Subsec. (c). Pub. L. 97–248 substituted “section 1395y(a)” for “section 1395y”.
+<b>1982</b>—Subsec. (c). Pub. L. 97–248 substituted “section 1395y(a)” for “section 1395y”.
 
-1980—Subsec. (f). Pub. L. 96–499 amended subsec. (f) generally, inserting provision for payments to providers of medical and other health services where the person or persons furnishing the services did not agree that the reasonable charge was the full charge for such services.
+<b>1980</b>—Subsec. (f). Pub. L. 96–499 amended subsec. (f) generally, inserting provision for payments to providers of medical and other health services where the person or persons furnishing the services did not agree that the reasonable charge was the full charge for such services.
 
-1974—Subsec. (b). Pub. L. 93–445 substituted “Railroad Retirement Act of 1974” for “Railroad Retirement Act of 1937”, wherever appearing.
+<b>1974</b>—Subsec. (b). Pub. L. 93–445 substituted “Railroad Retirement Act of 1974” for “Railroad Retirement Act of 1937”, wherever appearing.
 
-1972—Subsec. (b). Pub. L. 92–603, §281(a), required that provider of services or other person be without fault with respect to payment of excess over correct amount as prerequisite to adjustment or recovery of incorrect payments.
+<b>1972</b>—Subsec. (b). Pub. L. 92–603, §281(a), required that provider of services or other person be without fault with respect to payment of excess over correct amount as prerequisite to adjustment or recovery of incorrect payments.
 
 Subsec. (c). Pub. L. 92–603, §§261(a), 281(b), substituted “or where the adjustment (or recovery) would be made by decreasing payments to which another person who is without fault is entitled as provided in subsection (b)(4) of this section, if” for “and where”, inserted reference to subchapter XVIII of this chapter, and inserted provisions covering the adjustment or recovery of incorrect payments against individuals who are without fault.
 
 Subsec. (g). Pub. L. 92–603, §266, added subsec. (g).
 
-1968—Pub. L. 90–248, §154(b), provided for settlement of claims for benefits on behalf of deceased individuals in section catchline.
+<b>1968</b>—Pub. L. 90–248, §154(b), provided for settlement of claims for benefits on behalf of deceased individuals in section catchline.
 
 Subsecs. (e), (f). Pub. L. 90–248, §154(c), added subsecs. (e) and (f).
 

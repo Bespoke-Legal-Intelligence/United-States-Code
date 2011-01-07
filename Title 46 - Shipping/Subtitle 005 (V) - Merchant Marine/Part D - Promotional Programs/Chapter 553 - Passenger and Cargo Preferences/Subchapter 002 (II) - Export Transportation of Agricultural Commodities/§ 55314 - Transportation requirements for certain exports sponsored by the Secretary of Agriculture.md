@@ -114,13 +114,13 @@ In subsection (c)(4), before subparagraph (A), the words “or instrumentality�
 
 The Food for Peace Act, referred to in subsecs. (b)(1) and (c)(2), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. Title II of the Act is classified generally to subchapter III (§1721 et seq.) of chapter 41 of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
-The Shipping Act of 1984, referred to in subsec. (c)(4)(B), is Pub. L. 98–237, Mar. 20, 1984, 98 Stat. 67, which was classified principally to chapter 36 (§1701 et seq.) of the former Appendix to this title. The Act was primarily repealed and restated in part A of subtitle IV of this title by Pub. L. 109–304, §§7, 19, Oct. 6, 2006, 120 Stat. 1523, 1710. For complete classification of Pub. L.98–237 to the Code, see Tables. For disposition of sections of the former Appendix to this title, see Disposition Table preceding section 101 of this title.
+The Shipping Act of 1984, referred to in subsec. (c)(4)(B), is Pub. L. 98–237, Mar. 20, 1984, 98 Stat. 67, which was classified principally to chapter 36 (§1701 et seq.) of the former Appendix to this title. The Act was primarily repealed and restated in part A of subtitle IV of this title by Pub. L. 109–304, §§7, 19, Oct. 6, 2006, 120 Stat. 1523, 1710. For complete classification of Pub. L. 98–237 to the Code, see Tables. For disposition of sections of the former Appendix to this title, see Disposition Table preceding section 101 of this title.
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–84 amended directory language of Pub. L. 110–417, §3511(d). See 2008 Amendment notes below.
+<b>2009</b>—Subsec. (a). Pub. L. 111–84 amended directory language of Pub. L. 110–417, §3511(d). See 2008 Amendment notes below.
 
-2008—Subsec. (a). Pub. L. 110–417, §3511(d), as amended by Pub. L. 111–84, substituted “fiscal” for “calendar” in two places in text.
+<b>2008</b>—Subsec. (a). Pub. L. 110–417, §3511(d), as amended by Pub. L. 111–84, substituted “fiscal” for “calendar” in two places in text.
 
 Subsec. (a)(2). Pub. L. 110–417, §3511(d), as amended by Pub. L. 111–84, which directed substitution of “
 

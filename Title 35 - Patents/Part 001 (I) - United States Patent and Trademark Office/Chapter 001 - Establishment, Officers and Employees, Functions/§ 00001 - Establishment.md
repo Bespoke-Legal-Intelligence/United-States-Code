@@ -26,9 +26,9 @@ The phrase “and to trade-mark registrations” is added. There is no enactment
 
 #### Amendments
 
-1999—Pub. L. 106–113 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The Patent and Trademark Office shall continue as an office in the Department of Commerce, where records, books, drawings, specifications, and other papers and things pertaining to patents and to trademark registrations shall be kept and preserved, except as otherwise provided by law.”
+<b>1999</b>—Pub. L. 106–113 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The Patent and Trademark Office shall continue as an office in the Department of Commerce, where records, books, drawings, specifications, and other papers and things pertaining to patents and to trademark registrations shall be kept and preserved, except as otherwise provided by law.”
 
-1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
 #### Change of Name
 
@@ -180,5 +180,5 @@ Incidental Transfers.—The Director of the Office of Management and Budget, at 
 
 #### Federal Agency Status for Patent and Trademark Office
 
-Pub. L. 101–508, title X, §10102, Nov. 5, 1990, 104 Stat. 1388–392, provided that: “For the purposes of Federal law, the Patent and Trademark Office shall be considered a Federal agency. In particular, the Patent and Trademark Office shall be subject to all Federal laws pertaining to the procurement of goods and services that would apply to a Federal agency using appropriated funds, including the Federal Property and Administrative Services Act of 1949 \[now chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and title III of the Act of June 30, 1949 (41 U.S.C. 251 et seq.)\] and the Office of Federal Procurement Policy Act \[41 U.S.C. 401 et seq.\].”
+Pub. L. 101–508, title X, §10102, Nov. 5, 1990, 104 Stat. 1388–392, provided that: “For the purposes of Federal law, the Patent and Trademark Office shall be considered a Federal agency. In particular, the Patent and Trademark Office shall be subject to all Federal laws pertaining to the procurement of goods and services that would apply to a Federal agency using appropriated funds, including the Federal Property and Administrative Services Act of 1949 \[now chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\] and the Office of Federal Procurement Policy Act \[now division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of Title 41\].”
 

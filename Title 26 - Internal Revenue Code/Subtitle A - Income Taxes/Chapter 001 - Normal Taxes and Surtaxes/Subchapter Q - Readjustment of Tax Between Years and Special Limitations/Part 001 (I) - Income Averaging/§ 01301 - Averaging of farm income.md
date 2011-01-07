@@ -78,7 +78,7 @@ A prior section 1307, act Aug. 16, 1954, ch. 736, 68A Stat. 336, §1307, formerl
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–357, §314(b)(1), substituted “farming business or fishing business” for “farming business” in introductory provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–357, §314(b)(1), substituted “farming business or fishing business” for “farming business” in introductory provisions.
 
 Subsec. (b)(1)(A)(i), (B). Pub. L. 108–357, §314(b)(2), inserted “or fishing business” after “farming business” wherever appearing.
 
@@ -90,5 +90,5 @@ Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 
 
 #### Effective Date
 
-Section 933(c) of Pub. L. 105–34, as amended by Pub. L. 105–277, div. J, title II, §2011, Oct. 21, 1998, 112 Stat. 2681–902, provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1997.”
+Section 933(c) of Pub. L. 105–34, as amended by Pub. L. 105–277, div. J, title II, §2011, Oct. 21, 1998, 112 Stat.2681–902, provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1997.”
 

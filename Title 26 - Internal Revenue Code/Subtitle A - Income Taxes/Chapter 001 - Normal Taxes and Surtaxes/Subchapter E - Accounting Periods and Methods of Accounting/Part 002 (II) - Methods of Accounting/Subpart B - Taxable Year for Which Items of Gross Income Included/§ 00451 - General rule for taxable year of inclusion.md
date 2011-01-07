@@ -140,13 +140,13 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 &emsp;For purposes of this subsection, the term “qualified gain” means, with respect to any qualifying electric transmission transaction in any taxable year—
 
-&emsp;&emsp;(A) any ordinary income derived from such transaction which would be required to be recognized under section 1245 or 1250 for such taxable year (determined without regard to this subsection), and
+&emsp;&emsp;(A) any ordinary income derived from such transaction which would be required to be recognized under section 1245 or 1250 for suchtaxable year (determined without regard to this subsection), and
 
 &emsp;&emsp;(B) any income derived from such transaction in excess of the amount described in subparagraph (A) which is required to be included in gross income for such taxable year (determined without regard to this subsection).
 
 #### (3) Qualifying electric transmission transaction
 
-&emsp;For purposes of this subsection, the term “qualifying electric transmission transaction” means any sale or other disposition before January 1, 2008 (before January 1, 2010, in the case of a qualified electric utility), of—
+&emsp;For purposes of this subsection, the term “qualifying electric transmission transaction” means any sale or other disposition before January 1, 2008 (before January 1, 2012, in the case of a qualified electric utility), of—
 
 &emsp;&emsp;(A) property used in the trade or business of providing electric transmission services, or
 
@@ -194,7 +194,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (6) Qualified electric utility
 
-&emsp;For purposes of this subsection, the term “qualified electric utility” means a personthat, as of the date of the qualifying electric transmission transaction, is vertically integrated, in that it is both—
+&emsp;For purposes of this subsection, the term “qualified electric utility” means a person that, as of the date of the qualifying electric transmission transaction, is vertically integrated, in that it is both—
 
 &emsp;&emsp;(A) a transmitting utility (as defined in section 3(23) of the Federal Power Act (16 U.S.C. 796(23))) with respect to the transmission facilities to which the election under this subsection applies, and
 
@@ -224,7 +224,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 &emsp;Section 453 shall not apply to any qualifying electric transmission transaction with respect to which an election to apply this subsection is made.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 152; Pub. L. 89–97, title III, §313(b), July 30, 1965, 79 Stat. 382; Pub. L. 91–172, title II, §215(a), Dec. 30, 1969, 83 Stat. 573; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §§2102(a), (b), 2141(a), Oct. 4, 1976, 90 Stat. 1834, 1900, 1933; Pub. L. 99–514, title VIII, §821(a), title IX, §905(b), Oct. 22, 1986, 100 Stat. 2372, 2386; Pub. L. 100–647, title I, §1009(d)(3), title VI, §§6030(a), 6033(a), Nov. 10, 1988, 102 Stat. 3450, 3694, 3695; Pub. L. 105–34, title IX, §913(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 105–277, div. J, title V, §5301(a), Oct. 21, 1998, 112 Stat. 2681–918; Pub. L. 108–357, title III, §311(c), title VIII, §909(a), Oct. 22, 2004, 118 Stat. 1467, 1657; Pub. L. 109–58, title XIII, §1305(a), (b), Aug. 8, 2005, 119 Stat. 997; Pub. L. 110–343, div. B, title I, §109(a)–(c), Oct. 3, 2008, 122 Stat. 3821.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 152; Pub. L. 89–97, title III, §313(b), July 30, 1965, 79 Stat. 382; Pub. L. 91–172, title II, §215(a), Dec. 30, 1969, 83 Stat. 573; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §§2102(a), (b), 2141(a), Oct. 4, 1976, 90 Stat. 1834, 1900, 1933; Pub. L. 99–514, title VIII, §821(a), title IX, §905(b), Oct. 22, 1986, 100 Stat. 2372, 2386; Pub. L. 100–647, title I, §1009(d)(3), title VI, §§6030(a), 6033(a), Nov. 10, 1988, 102 Stat. 3450, 3694, 3695; Pub. L. 105–34, title IX, §913(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 105–277, div. J, title V, §5301(a), Oct. 21, 1998, 112 Stat. 2681–918; Pub. L. 108–357, title III, §311(c), title VIII, §909(a), Oct. 22, 2004, 118 Stat. 1467, 1657; Pub. L. 109–58, title XIII, §1305(a), (b), Aug. 8, 2005, 119 Stat. 997; Pub. L. 110–343, div. B, title I, §109(a)–(c), Oct. 3, 2008, 122 Stat. 3821; Pub. L. 111–312, title VII, §705(a), Dec. 17, 2010, 124 Stat. 3311.)
 
 #### References in Text
 
@@ -234,7 +234,9 @@ The Disaster Assistance Act of 1988, referred to in subsec. (d), is Pub. L. 100�
 
 #### Amendments
 
-2008—Subsec. (i)(3). Pub. L. 110–343, §109(a)(1), inserted “(before January 1, 2010, in the case of a qualified electric utility)” after “January 1, 2008” in introductory provisions.
+<b>2010</b>—Subsec. (i)(3). Pub. L. 111–312 substituted “January 1, 2012” for “January 1, 2010” in introductory provisions.
+
+<b>2008</b>—Subsec. (i)(3). Pub. L. 110–343, §109(a)(1), inserted “(before January 1, 2010, in the case of a qualified electric utility)” after “January 1, 2008” in introductory provisions.
 
 Subsec. (i)(4)(B)(ii). Pub. L. 110–343, §109(b), substituted “the date which is 4 years after the close of the taxable year in which the transaction occurs” for “December 31, 2007”.
 
@@ -242,35 +244,35 @@ Subsec. (i)(5)(C). Pub. L. 110–343, §109(c), added subpar. (C).
 
 Subsec. (i)(6) to (11). Pub. L. 110–343, §109(a)(2), added par. (6) and redesignated former pars. (6) to (10) as (7) to (11), respectively.
 
-2005—Subsec. (i)(3). Pub. L. 109–58, §1305(a), substituted “2008” for “2007” in introductory provisions.
+<b>2005</b>—Subsec. (i)(3). Pub. L. 109–58, §1305(a), substituted “2008” for “2007” in introductory provisions.
 
 Subsec. (i)(4)(B)(ii). Pub. L. 109–58, §1305(b), substituted “December 31, 2007” for “the close of the period applicable under subsection (a)(2)(B) as extended under paragraph (2)”.
 
-2004—Subsec. (e)(3). Pub. L. 108–357, §311(c), added par. (3).
+<b>2004</b>—Subsec. (e)(3). Pub. L. 108–357, §311(c), added par. (3).
 
 Subsec. (i). Pub. L. 108–357, §909(a), added subsec. (i).
 
-1998—Subsec. (h). Pub. L. 105–277 added subsec. (h).
+<b>1998</b>—Subsec. (h). Pub. L. 105–277 added subsec. (h).
 
-1997—Subsec. (e). Pub. L. 105–34 inserted “, flood, or other weather-related conditions” after “drought” in heading and substituted “drought, flood, or other weather-related conditions, and that such conditions” for “drought conditions, and that these drought conditions” in par. (1).
+<b>1997</b>—Subsec. (e). Pub. L. 105–34 inserted “, flood, or other weather-related conditions” after “drought” in heading and substituted “drought, flood, or other weather-related conditions, and that such conditions” for “drought conditions, and that these drought conditions” in par. (1).
 
-1988—Subsec. (d). Pub. L. 100–647, §6033(a), inserted “or title II of the Disaster Assistance Act of 1988,” after “the Agricultural Act of 1949, as amended,”.
+<b>1988</b>—Subsec. (d). Pub. L. 100–647, §6033(a), inserted “or title II of the Disaster Assistance Act of 1988,” after “the Agricultural Act of 1949, as amended,”.
 
 Subsec. (e)(1). Pub. L. 100–647, §6030(a), struck out “(other than livestock described in section 1231(b)(3))” after “exchange of livestock”.
 
 Subsecs. (f), (g). Pub. L. 100–647, §1009(d)(3), redesignated subsec. (f), relating to treatment of interest on frozen deposits in certain financial institutions, as (g).
 
-1986—Subsec. (f). Pub. L. 99–514, §905(b), added subsec. (f) relating to treatment of interest on frozen deposits in certain financial institutions.
+<b>1986</b>—Subsec. (f). Pub. L. 99–514, §905(b), added subsec. (f) relating to treatment of interest on frozen deposits in certain financial institutions.
 
 Pub. L. 99–514, §821(a), added subsec. (f) relating to special rule for utility services.
 
-1976—Subsec. (d). Pub. L. 94–455, §§1906(b)(13)(A), 2102(a), (b), inserted reference to disaster payments in heading, provided that payments received under the Agricultural Act of 1949, as amended, be treated as insurance proceeds received as a result of destruction or damage to crops if the payments are received as the result of destruction or damage from drought, flood, or other natural disaster, or as the result of inability to plant crops because of drought, flood, or other natural disaster, and struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (d). Pub. L. 94–455, §§1906(b)(13)(A), 2102(a), (b), inserted reference to disaster payments in heading, provided that payments received under the Agricultural Act of 1949, as amended, be treated as insurance proceeds received as a result of destruction or damage to crops if the payments are received as the result of destruction or damage from drought, flood, or other natural disaster, or as the result of inability to plant crops because of drought, flood, or other natural disaster, and struck out “or his delegate” after “Secretary”.
 
 Subsec. (e). Pub. L. 94–455, §2141(a), added subsec. (e).
 
-1969—Subsec. (d). Pub. L. 91–172 added subsec. (d).
+<b>1969</b>—Subsec. (d). Pub. L. 91–172 added subsec. (d).
 
-1965—Subsec. (c). Pub. L. 89–97 added subsec. (c).
+<b>1965</b>—Subsec. (c). Pub. L. 89–97 added subsec. (c).
 
 #### Effective Date of 2005 Amendment
 
@@ -283,6 +285,10 @@ In general.—The amendment made by subsection (a) \[amending this section\] sha
 “(2)
 
 Technical amendment.—The amendment made by subsection (b) \[amending this section\] shall take effect as if included in the amendments made by section 909 of the American Jobs Creation Act of 2004 \[Pub. L. 108–357, amending this section\].”
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title VII, §705(b), Dec. 17, 2010, 124 Stat. 3311, provided that: “The amendment made by this section \[amending this section\] shall apply to dispositions after December 31, 2009.”
 
 #### Effective Date of 2008 Amendment
 

@@ -6,7 +6,7 @@ Pensions of inmates of a naval hospital, required by law prior to July 1, 1943, 
 
 #### Amendments
 
-1990—Pub. L. 101–510 struck out “naval home or” before “naval hospital”.
+<b>1990</b>—Pub. L. 101–510 struck out “naval home or” before “naval hospital”.
 
 #### Effective Date of 1990 Amendment
 

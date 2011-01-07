@@ -20,7 +20,7 @@ Obligations incurred prior to June 30, 1976, against other appropriations or acc
 
 #### Amendments
 
-1978—Subsec. (e). Pub. L. 95–424 struck out subsec. (e) relating to reports to Congress by the President regarding the programing and obligation of funds under this section.
+<b>1978</b>—Subsec. (e). Pub. L. 95–424 struck out subsec. (e) relating to reports to Congress by the President regarding the programing and obligation of funds under this section.
 
 #### Effective Date of 1978 Amendment
 

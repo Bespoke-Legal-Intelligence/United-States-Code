@@ -82,7 +82,7 @@ A purchasing group shall register with and designate the State insurance commiss
 
 #### (f) Purchases of insurance through licensed agents or brokers acting pursuant to surplus lines laws
 
-A purchasing group may not purchase insurance from a risk retention group that is not chartered in a State or from an insurer not admitted in the State in which the purchasing group is located, unless the purchase is effectedthrough a licensed agent or broker acting pursuant to the surplus lines laws and regulations of such State.
+A purchasing group may not purchase insurance from a risk retention group that is not chartered in a State or from an insurer not admitted in the State in which the purchasing group is located, unless the purchase is effected through a licensed agent or broker acting pursuant to the surplus lines laws and regulations of such State.
 
 #### (g) State powers to enforce State laws
 
@@ -100,7 +100,7 @@ October 27, 1986, referred to in subsec. (e)(1)(B), was in the original “the d
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–563, §8(b)(1), inserted reference to section 3905 of this title.
+<b>1986</b>—Subsec. (a). Pub. L. 99–563, §8(b)(1), inserted reference to section 3905 of this title.
 
 Subsec. (b)(1). Pub. L. 99–563, §12(d)(1), substituted “liability insurance” for “product liability or completed operations liability insurance, and comprehensive general liability insurance which includes either of these coverages,”.
 

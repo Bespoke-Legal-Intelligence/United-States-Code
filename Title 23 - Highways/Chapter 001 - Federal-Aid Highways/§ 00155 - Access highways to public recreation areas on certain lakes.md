@@ -18,7 +18,7 @@
 
 #### Amendments
 
-1978—Subsec. (b). Pub. L. 95–599 substituted “75 per centum” for “70 per centum”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–599 substituted “75 per centum” for “70 per centum”.
 
 #### Effective Date of 1978 Amendment
 

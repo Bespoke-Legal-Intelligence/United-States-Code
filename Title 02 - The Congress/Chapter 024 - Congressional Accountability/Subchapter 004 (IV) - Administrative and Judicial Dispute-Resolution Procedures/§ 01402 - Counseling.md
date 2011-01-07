@@ -14,3 +14,7 @@ The Office shall notify the employee in writing when the counseling period has e
 
 (Pub. L. 104–1, title IV, §402, Jan. 23, 1995, 109 Stat. 32.)
 
+#### References in Text
+
+Part A of subchapter II of this chapter, referred to in subsec. (a), was in the original “part A of title II”, meaning part A (§§201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
+

@@ -22,7 +22,7 @@ Personnel.—The Secretary shall employ such persons as are necessary for the es
 
 (f)
 
-Contracts and Agreements.—The Secretary shall make all necessary contracts or agreements to purchase or sell merchandise, fixtures, equipment, supplies, and services, without regard to section 3709 of the Revised Statutes (41 U.S.C. 5) and to do all things necessary to carry out such contracts or agreements, including the making of necessary adjustments and compromising of claims in connection therewith.
+Contracts and Agreements.—The Secretary shall make all necessary contracts or agreements to purchase or sell merchandise, fixtures, equipment, supplies, and services, withoutregard to section 6101(b) to (d) of title 41 and to do all things necessary to carry out such contracts or agreements, including the making of necessary adjustments and compromising of claims in connection therewith.
 
 (g)
 
@@ -44,17 +44,15 @@ Delegation.—The Secretary may delegate such duties and powers to employees as 
 
 Authority To Cash Checks, Etc.—The Secretary may authorize the use of funds of the Service when available, subject to such regulations as the Secretary may deem appropriate, for the purpose of cashing checks, money orders, and similar instruments in nominal amounts for the payment of money presented by veterans hospitalized or domiciled at hospitals and homes of the Department, and by other persons authorized by section 7803 of this title to make purchases at canteens. Such checks, money orders, and other similar instruments may be cashed outright or may be accepted, subject to strict administrative controls, in payment for merchandise or services, and the difference between the amount of the purchase and the amount of the tendered instrument refunded in cash.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1248, §4202; Pub. L. 86–109, §1, July 28, 1959, 73 Stat. 258; Pub. L. 94–581, title II, §210(d), Oct. 21, 1976, 90 Stat. 2864; Pub. L. 97–295, §4(88), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 99–576, title VII, §702(13), Oct. 28, 1986, 100 Stat. 3302; renumbered §7802 and amended Pub. L. 102–40, title IV, §402(a), (b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(e)(7), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 108–170, title III, §304, Dec. 6, 2003, 117 Stat. 2058.)
-
-#### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in par. (5), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1248, §4202; Pub. L. 86–109, §1, July 28, 1959, 73 Stat. 258; Pub. L. 94–581, title II, §210(d), Oct. 21, 1976, 90 Stat. 2864; Pub. L. 97–295, §4(88), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 99–576, title VII, §702(13), Oct. 28, 1986, 100 Stat. 3302; renumbered §7802 and amended Pub. L. 102–40, title IV, §402(a), (b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(e)(7), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 108–170, title III, §304, Dec. 6, 2003, 117 Stat. 2058; Pub. L. 111–350, §5(j)(5), Jan. 4, 2011, 124 Stat. 3850.)
 
 #### Amendments
 
-2003—Pub. L. 108–170 struck out introductory provisions which read “The Secretary shall—”, substituted period for semicolon at end of pars. (1) to (10), inserted last two sentences in par. (5), redesignated pars. (1) to (11) as subsecs. (a) to (k), respectively, and realigned margins, inserted headings in subsecs. (a) to (k), and inserted “The Secretary shall” after heading in subsecs. (a) to (g) and (i) and “The Secretary may” after heading in subsecs. (h), (j), and (k).
+<b>2011</b>—Subsec. (f). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes (41 U.S.C. 5)”.
 
-1991—Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in section catchline and in introductory provisions.
+<b>2003</b>—Pub. L. 108–170 struck out introductory provisions which read “The Secretary shall—”, substituted period for semicolon at end of pars. (1) to (10), inserted last two sentences in par. (5), redesignated pars. (1) to (11) as subsecs. (a) to (k), respectively, and realigned margins, inserted headings in subsecs. (a) to (k), and inserted “The Secretary shall” after heading in subsecs. (a) to (g) and (i) and “The Secretary may” after heading in subsecs. (h), (j), and (k).
+
+<b>1991</b>—Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in section catchline and in introductory provisions.
 
 Pub. L. 102–40, §402(a), (b)(1), renumbered section 4202 of this title as this section.
 
@@ -76,15 +74,15 @@ Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans�
 
 Pub. L. 102–40, §402(d)(1), substituted “7803” for “4203”.
 
-1986—Par. (11). Pub. L. 99–576 struck out “and without regard to the provisions of section 1 of the Act of January 31, 1925 (7 U.S.C. 2217), and section 1 (1st proviso under heading ‘OFFICE OF THE SECRETARY’) of the Act of May 11, 1922 (7 U.S.C. 2240),” after “as the Administrator may deem appropriate,”.
+<b>1986</b>—Par. (11). Pub. L. 99–576 struck out “and without regard to the provisions of section 1 of the Act of January 31, 1925 (7 U.S.C. 2217), and section 1 (1st proviso under heading ‘OFFICE OF THE SECRETARY’) of the Act of May 11, 1922 (7 U.S.C. 2240),” after “as the Administrator may deem appropriate,”.
 
-1982—Par. (5). Pub. L. 97–295, §4(88)(A), substituted reference to provisions of title 5 governing appointments in the competitive service and chapter 51 and subchapter III of chapter 53 of title 5 for reference to the civil-service laws and the Classification Act of 1949, and substituted provision that the relevant employees are subject to the provisions of title 5 relating to a preference eligible described in section 2108(3) of title 5, subchapter I of chapter 81 of title 5, and subchapter III of chapter 83 of title 5 for provision that such employees were subject to the Veterans’ Preference Act of 1944, the Civil Service Retirement Act, and laws administered by the Bureau of Employees’ Compensation applicable to civilian employees of the United States.
+<b>1982</b>—Par. (5). Pub. L. 97–295, §4(88)(A), substituted reference to provisions of title 5 governing appointments in the competitive service and chapter 51 and subchapter III of chapter 53 of title 5 for reference to the civil-service laws and the Classification Act of 1949, and substituted provision that the relevant employees are subject to the provisions of title 5 relating to a preference eligible described in section 2108(3) of title 5, subchapter I of chapter 81 of title 5, and subchapter III of chapter 83 of title 5 for provision that such employees were subject to the Veterans’ Preference Act of 1944, the Civil Service Retirement Act, and laws administered by the Bureau of Employees’ Compensation applicable to civilian employees of the United States.
 
 Par. (11). Pub. L. 97–295, §4(88)(B), substituted “section 1 of the Act of January 31, 1925 (7 U.S.C. 2217), and section 1 (1st proviso under heading ‘OFFICE OF THE SECRETARY’) of the Act of May 11, 1922 (7 U.S.C. 2240)” for “sections 521 and 543 of title 5”.
 
-1976—Pars. (3), (9), (10), (11). Pub. L. 94–581 substituted “the Administrator” for “he” in pars. (3), (9), (10), and (11).
+<b>1976</b>—Pars. (3), (9), (10), (11). Pub. L. 94–581 substituted “the Administrator” for “he” in pars. (3), (9), (10), and (11).
 
-1959—Par. (3). Pub. L. 86–109 required the Service to pay reasonable charges, as determined by the Administrator, for the use of space, buildings, and structures furnished by the Veterans’ Administration and authorized reduction of waiver of the charges when payment thereof would impair the working capital required by the Service.
+<b>1959</b>—Par. (3). Pub. L. 86–109 required the Service to pay reasonable charges, as determined by the Administrator, for the use of space, buildings, and structures furnished by the Veterans’ Administration and authorized reduction of waiver of the charges when payment thereof would impair the working capital required by the Service.
 
 #### Effective Date of 1976 Amendment
 

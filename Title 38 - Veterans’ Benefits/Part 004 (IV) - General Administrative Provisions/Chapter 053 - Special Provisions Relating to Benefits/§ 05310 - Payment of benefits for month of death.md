@@ -10,13 +10,13 @@
 
 #### Amendments
 
-1997—Subsec. (b)(2). Pub. L. 105–114 substituted “under paragraph (1)” for “under this paragraph” before period at end of first sentence.
+<b>1997</b>—Subsec. (b)(2). Pub. L. 105–114 substituted “under paragraph (1)” for “under this paragraph” before period at end of first sentence.
 
-1996—Pub. L. 104–275 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1996</b>—Pub. L. 104–275 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1991—Pub. L. 102–40 renumbered section 3110 of this title as this section and substituted “5110(d)” for “3010(d)”.
+<b>1991</b>—Pub. L. 102–40 renumbered section 3110 of this title as this section and substituted “5110(d)” for “3010(d)”.
 
-1983—Pub. L. 98–160 substituted “surviving spouse” for “widow”, and “the death of the veteran” for “his death”.
+<b>1983</b>—Pub. L. 98–160 substituted “surviving spouse” for “widow”, and “the death of the veteran” for “his death”.
 
 #### Effective Date of 1996 Amendment
 

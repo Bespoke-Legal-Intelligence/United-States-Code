@@ -1,0 +1,124 @@
+### §6056. Certain employers required to report on health insurance coverage
+
+#### (a) In general
+
+Every applicable large employer required to meet the requirements of section 4980H with respect to its full-time employees during a calendar year and every offering employer shall, at such time as the Secretary may prescribe, make a return described in subsection (b).
+
+#### (b) Form and manner of return
+
+A return is described in this subsection if such return—
+
+&emsp;(1) is in such form as the Secretary may prescribe, and
+
+&emsp;(2) contains—
+
+&emsp;&emsp;(A) the name, date, and employer identification number of the employer,
+
+&emsp;&emsp;(B) a certification as to whether the employer offers to its full-time employees (and their dependents) the opportunity to enroll in minimum essential coverage under an eligible employer-sponsored plan (as defined in section 5000A(f)(2)),
+
+&emsp;&emsp;(C) if the employer certifies that the employer did offer to its full-time employees (and their dependents) the opportunity to so enroll—
+
+&emsp;&emsp;&emsp;(i) in the case of an applicable large employer, the length of any waiting period (as defined in section 2701(b)(4) of the Public Health Service Act) with respect to such coverage,
+
+&emsp;&emsp;&emsp;(ii) the months during the calendar year for which coverage under the plan was available,
+
+&emsp;&emsp;&emsp;(iii) the monthly premium for the lowest cost option in each of the enrollment categories under the plan,
+
+&emsp;&emsp;&emsp;(iv) the employer share of the total allowed costs of benefits provided under the plan, and
+
+&emsp;&emsp;&emsp;(v) in the case of an offering employer, the option for which the employer pays the largest portion of the cost of the plan and the portion of the cost paid by the employer in each of the enrollment categories under such option,
+
+&emsp;&emsp;(D) the number of full-time employees for each month during the calendar year,
+
+&emsp;&emsp;(E) the name, address, and TIN of each full-time employee during the calendar year and the months (if any) during which such employee (and any dependents) were covered under any such health benefits plans, and
+
+&emsp;&emsp;(F) such other information as the Secretary may require.
+
+> The Secretary shall have the authority to review the accuracy of the information provided under this subsection, including the applicable large employer's share under paragraph (2)(C)(iv).
+
+#### (c) Statements to be furnished to individuals with respect to whom information is reported
+
+#### (1) In general
+
+&emsp;Every person required to make a return under subsection (a) shall furnish to each full-time employee whose name is required to be set forth in such return under subsection (b)(2)(E) a written statement showing—
+
+&emsp;&emsp;(A) the name and address of the person required to make such return and the phone number of the information contact for such person, and
+
+&emsp;&emsp;(B) the information required to be shown on the return with respect to such individual.
+
+#### (2) Time for furnishing statements
+
+&emsp;The written statement required under paragraph (1) shall be furnished on or before January 31 of the year following the calendar year for which the return under subsection (a) was required to be made.
+
+#### (d) Coordination with other requirements
+
+To the maximum extent feasible, the Secretary may provide that—
+
+&emsp;(1) any return or statement required to be provided under this section may be provided as part of any return or statement required under section 6051 or 6055, and
+
+&emsp;(2) in the case of an applicable large employer or offering employer offering health insurance coverage of a health insurance issuer, the employer may enter into an agreement with the issuer to include information required under this section with the return and statement required to be provided by the issuer under section 6055.
+
+#### (e) Coverage provided by governmental units
+
+In the case of any applicable large employer or offering employer which is a governmental unit or any agency or instrumentality thereof, the person appropriately designated for purposes of this section shall make the returns and statements required by this section.
+
+#### (f) Definitions
+
+For purposes of this section—
+
+#### (1) Offering employer
+
+#### (A) In general
+
+&emsp;&emsp;The term “offering employer” means any offering employer (as defined in section 10108(b) of the Patient Protection and Affordable Care Act) if the required contribution (within the meaning of section 5000A(e)(1)(B)(i)) of any employee exceeds 8 percent of the wages (as defined in section 3121(a)) paid to such employee by such employer.
+
+#### (B) Indexing
+
+&emsp;&emsp;In the case of any calendar year beginning after 2014, the 8 percent under subparagraph (A) shall be adjusted for the calendar year to reflect the rate of premium growth between the preceding calendar year and 2013 over the rate of income growth for such period.
+
+#### (2) Other definitions
+
+&emsp;Any term used in this section which is also used in section 4980H shall have the meaning given such term by section 4980H.
+
+(Added and amended Pub. L. 111–148, title I, §1514(a), title X, §§10106(g), 10108(j)(1)–(3)(D), Mar. 23, 2010, 124 Stat. 256, 911, 914, 915.)
+
+#### References in Text
+
+Section 2701 of the Public Health Service Act, referred to in subsec. (b)(2)(C)(i), was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701, related to fair health insurance premiums, was added and amended by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
+
+Section 10108(b) of the Patient Protection and Affordable Care Act, referred to in subsec. (f)(1)(A), is classified to section 18101(b) of Title 42, The Public Health and Welfare.
+
+#### Prior Provisions
+
+A prior section 6056, added Pub. L. 91–172, title I, §101(d)(3), Dec. 30, 1969, 83 Stat. 521; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, required an annual report by private foundations having at least $5,000 of assets at any time during a taxable year, and prescribed contents, form and availability of the report, prior to repeal by Pub. L. 96–603, §1(c), Dec. 28, 1980, 94 Stat. 3504.
+
+#### Amendments
+
+<b>2010</b>—Pub. L. 111–148, §10108(j)(3)(A), substituted “Certain” for “Large” in section catchline.
+
+Subsec. (a). Pub. L. 111–148, §10108(j)(1), inserted “and every offering employer” before “shall”.
+
+Subsec. (b). Pub. L. 111–148, §10106(g), inserted at end “The Secretary shall have the authority to review the accuracy of the information provided under this subsection, including the applicable large employer's share under paragraph (2)(C)(iv).”
+
+Subsec. (b)(2)(C)(i). Pub. L. 111–148, §10108(j)(3)(B)(i), inserted “in the case of an applicable large employer,” before “the length”.
+
+Subsec. (b)(2)(C)(iii). Pub. L. 111–148, §10108(j)(3)(B)(ii), struck out “and” at end.
+
+Subsec. (b)(2)(C)(iv). Pub. L. 111–148, §10108(j)(3)(B)(iv), inserted “and” at end.
+
+Pub. L. 111–148, §10108(j)(3)(B)(iii), which directed substitution of “employer” for “applicable large employer”, was executed by making the substitution for “applicable large employer's”, to reflect the probable intent of Congress.
+
+Subsec. (b)(2)(C)(v). Pub. L. 111–148, §10108(j)(3)(B)(v), added cl. (v).
+
+Subsecs. (d)(2), (e). Pub. L. 111–148, §10108(j)(3)(C), (D), inserted “or offering employer” after “applicable large employer”.
+
+Subsec. (f). Pub. L. 111–148, §10108(j)(2), amended subsec. (f) generally. Prior to amendment, text read as follows: “For purposes of this section, any term used in this section which is also used in section 4980H shall have the meaning given such term by section 4980H.”
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title X, §10108(j)(4), Mar. 23, 2010, 124 Stat. 915, provided that: “The amendments made by this subsection \[amending this section and section 6724 of this title\] shall apply to periods beginning after December 31, 2013.”
+
+#### Effective Date
+
+Pub. L. 111–148, title I, §1514(d), Mar. 23, 2010, 124 Stat. 258, provided that: “The amendments made by this section \[enacting this section and amending section 6724 of this title\] shall apply to periods beginning after December 31, 2013.”
+

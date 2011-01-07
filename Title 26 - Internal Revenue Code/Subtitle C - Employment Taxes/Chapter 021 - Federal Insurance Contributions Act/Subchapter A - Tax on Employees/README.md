@@ -7,10 +7,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
-
-<i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
-
 
 ---
 

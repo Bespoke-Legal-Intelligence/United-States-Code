@@ -30,5 +30,5 @@ Each State shall provide for the dissemination to local educational agencies, pr
 
 #### Amendments
 
-1996—Pub. L. 104–182 made technical amendment to section catchline and subsec. (a) designation.
+<b>1996</b>—Pub. L. 104–182 made technical amendment to section catchline and subsec. (a) designation.
 

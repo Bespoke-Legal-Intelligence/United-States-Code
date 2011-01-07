@@ -21,3 +21,4 @@
 - [&sect; 05708 - Effect on other statutes](%C2%A7%2005708%20-%20Effect%20on%20other%20statutes.md)
 - [&sect; 05709 - Air evacuation patients furnished subsistence](%C2%A7%2005709%20-%20Air%20evacuation%20patients%20furnished%20subsistence.md)
 - [&sect; 05710 - Authority for travel expenses test programs](%C2%A7%2005710%20-%20Authority%20for%20travel%20expenses%20test%20programs.md)
+- [&sect; 05711 - Authority for telework travel expenses test programs](%C2%A7%2005711%20-%20Authority%20for%20telework%20travel%20expenses%20test%20programs.md)

@@ -26,9 +26,9 @@ Section 306 of the Veterans’ and Survivors’ Pension Improvement Act of 1978,
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–193 substituted “subchapter I, X, XIV, or XVI of this chapter,” for “subchapter I, X, XIV, or XVI, or part A of subchapter IV of this chapter,”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–193 substituted “subchapter I, X, XIV, or XVI of this chapter,” for “subchapter I, X, XIV, or XVI, or part A of subchapter IV of this chapter,”.
 
-1991—Subsec. (a)(1). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Veterans’ Administration”.
 
 #### Effective Date of 1996 Amendment
 
@@ -54,5 +54,5 @@ Section 310(b)(2) of Pub. L. 96–272 provided that:
 
 &emsp;“(iv) no indebtedness to the United States, as a result of the disaffirmation by an individual, pursuant to this subparagraph, of an election made by such individual under such section 306 shall be considered to arise from the payment of pension pursuant to such an election.
 
-“(C) The Administrator shall promptly advise the Secretary of Health, Education, and Welfare \[now Health and Human Services\], and provide identification of the individuals involved and other pertinent information with respect to (i) disaffirmations of elections made by individuals pursuant to subparagraph (B), (ii) individuals who, by failing to disaffirm within the 90-day period prescribed in subparagraph (B), are deemed to have reaffirmed elections previously made, and (iii) individuals who, after having disaffirmed an election under subparagraph (B), subsequently again make an election under section 306 of the Veterans’ and Survivors’ Pension Improvement Act of 1978 \[Pub. L.95–588, set out as a note under section 1521 of Title 38\]. The Secretary, upon receipt of any such information with respect to an individual, shall promptly notify the appropriate agencies administering State plans approved under title I, X, XIV, XIX, and part A of title IV of the Social Security Act \[subchapters I, X, XIV, XIX, and part A of subchapter IV of this chapter\], and State agencies making supplemental payments pursuant to section 1616 of such Act \[section 1382e of this title\] or an agreement entered into pursuant to section 212(a) of Public Law 93–66 \[set out as a note under section 1382 of this title\].”
+“(C) The Administrator shall promptly advise the Secretary of Health, Education, and Welfare \[now Health and Human Services\], and provide identification of the individuals involved and other pertinent information with respect to (i) disaffirmations of elections made by individuals pursuant to subparagraph (B), (ii) individuals who, by failing to disaffirm within the 90-day period prescribed in subparagraph (B), are deemed to have reaffirmed elections previously made, and (iii) individuals who, after having disaffirmed an election under subparagraph (B), subsequently again make an election under section 306 of the Veterans’ and Survivors’ Pension Improvement Act of 1978 \[Pub. L. 95–588, set out as a note under section 1521 of Title 38\]. The Secretary, upon receipt of any such information with respect to an individual, shall promptly notify the appropriate agencies administering State plans approved under title I, X, XIV, XIX, and part A of title IV of the Social Security Act \[subchapters I, X, XIV, XIX, and part A of subchapter IV of this chapter\], and State agencies making supplemental payments pursuant to section 1616 of such Act \[section 1382e of this title\] or an agreement entered into pursuant to section 212(a) of Public Law 93–66 \[set out as a note under section 1382 of this title\].”
 

@@ -16,13 +16,13 @@ Sections 8G and 11(2) of the Inspector General Act of 1978, referred to in subse
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–208, §101(f) \[title VI, §662(c)(2)(B)\], substituted “chapters 2 and 12 of this title, section 8G of the Inspector General Act of 1978,” for “chapters 2 and 12 of this title”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §101(f) \[title VI, §662(c)(2)(B)\], substituted “chapters 2 and 12 of this title, section 8G of the Inspector General Act of 1978,” for “chapters 2 and 12 of this title”.
 
 Subsecs. (b) to (d). Pub. L. 104–208, §101(f) \[title VI, §662(c)(2)(A)\], added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
 #### Effective Date
 
-Section effective Jan. 20, 1971, pursuant to Resolution No. 71–8 of the Board of Governors. See section 15(a) ofPub. L. 91–375, set out as a note preceding section 101 of this title.
+Section effective Jan. 20, 1971, pursuant to Resolution No. 71–8 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
 #### Compensation of Employees
 
@@ -42,7 +42,7 @@ Section 9 of Pub. L. 91–375 provided that:
 
 “(d) \[<i>Group Life Insurance; Amount; Effective Date</i>\] For purposes of determining the amount of insurance for which an individual is eligible under chapter 87 of title 5, United States Code \[section 8701 et seq. of Title 5\], relating to group life insurance for Government employees, all changes in rates of pay, compensation, and salary which result from the enactment of this section shall be held and considered to become effective as of the date of such enactment \[Aug. 12, 1970\].
 
-“(e) \[<i>Limitation of Basic Pay Rate</i>\] No rate of basic pay or compensation, in excess of the rate of basic pay for GS–18 of the General Schedule in section 5332 of title 5, United States Code, shall be paid by reason of the enactment of this section.”
+“(e) \[<i>Limitation of Basic Pay Rate</i>\] No rate of basic pay or compensation, in excess of the rate of basic pay forGS–18 of the General Schedule in section 5332 of title 5, United States Code, shall be paid by reason of the enactment of this section.”
 
 Provisions of section 9 of Pub. L. 91–375 effective Aug. 12, 1970, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.
 

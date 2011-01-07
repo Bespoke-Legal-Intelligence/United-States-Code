@@ -18,31 +18,37 @@ For purposes of this part, the term “dividend” shall, except as otherwise pr
 
 #### (c) Preferential dividends
 
-The amount of any distribution shall not be considered as a dividend for purposes of computing the dividends paid deduction, unless such distribution is pro rata, with no preference to any share of stock as compared with other shares of the same class, and with no preference to one class of stock as compared with another class except to the extent that the former is entitled (without reference to waivers of their rights by shareholders) to such preference. In the case of a distribution by a regulated investment company to a shareholder who made an initial investment of at least $10,000,000 in such company, such distribution shall not be treated as not being pro rata or as being preferential solely by reason of an increase in the distribution by reason of reductions in administrative expenses of the company.
+Except in the case of a publicly offered regulated investment company (as defined in section 67(c)(2)(B)), the amount of any distribution shall not be considered as a dividend for purposes of computing the dividends paid deduction, unless such distribution is pro rata, with no preference to any share of stock as compared with other shares of the same class, and with no preference to one class of stock as compared with another class except to the extent that the former is entitled (without reference to waivers of their rights by shareholders) to such preference. In the case of a distribution by a regulated investment company (other than a publicly offered regulated investment company (as so defined)) to a shareholder who made an initial investment of at least $10,000,000 in such company, such distribution shall not be treated as not being pro rata or as being preferential solely by reason of an increase in the distribution by reason of reductions in administrative expenses of the company.
 
 #### (d) Distributions by a member of an affiliated group
 
-In the case where a corporation which is a member of an affiliated group of corporations filing or required to file a consolidated return for a taxable year is required to file a separate personal holding company schedule for such taxable year, a distribution by such corporation to another member of the affiliated group shall be considered as a dividend for purposes of computing the dividends paid deduction if such distribution would constitute a dividend under the other provisions of this section to a recipient which is not a member of an affiliated group.
+In the case where a corporation which is a member of an affiliated group of corporations filing or required to file a consolidated return for a taxable year is required to file a separatepersonal holding company schedule for such taxable year, a distribution by such corporation to another member of the affiliated group shall be considered as a dividend for purposes of computing the dividends paid deduction if such distribution would constitute a dividend under the other provisions of this section to a recipient which is not a member of an affiliated group.
 
 #### (e) Special rules for real estate investment trusts
 
 In the case of a real estate investment trust, in determining the amount of dividends under section 316 for purposes of computing the dividends paid deduction, the earnings and profits of such trust for any taxable year beginning after December 31, 1980, shall be increased by the total amount of gain (if any) on the sale or exchange of real property by such trust during such taxable year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 198; Pub. L. 88–272, title II, §225(f)(3), Feb. 26, 1964, 78 Stat. 88; Pub. L. 97–248, title II, §222(e)(7), Sept. 3, 1982, 96 Stat. 480; Pub. L. 97–448, title I, §102(c)(2), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 99–514, title VI, §657(a), title XVIII, §1804(d)(1), Oct. 22, 1986, 100 Stat. 2299, 2800; Pub. L. 108–357, title IV, §413(c)(9), Oct. 22, 2004, 118 Stat. 1507.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 198; Pub. L. 88–272, title II, §225(f)(3), Feb. 26, 1964, 78 Stat. 88; Pub. L. 97–248, title II, §222(e)(7), Sept. 3, 1982, 96 Stat. 480; Pub. L. 97–448, title I, §102(c)(2), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 99–514, title VI, §657(a), title XVIII, §1804(d)(1), Oct. 22, 1986, 100 Stat. 2299, 2800; Pub. L. 108–357, title IV, §413(c)(9), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 111–325, title III, §307(a), (b), Dec. 22, 2010, 124 Stat. 3550.)
 
 #### Amendments
 
-2004—Subsec. (b)(1). Pub. L. 108–357 struck out “or a foreign personal holding company described in section 552” after “section 542” in introductory provisions.
+<b>2010</b>—Subsec. (c). Pub. L. 111–325 substituted “Except in the case of a publicly offered regulated investment company (as defined in section 67(c)(2)(B)), the amount” for “The amount” in first sentence and inserted “(other than a publicly offered regulated investment company (as so defined))” after “regulated investment company” in second sentence.
 
-1986—Subsec. (b)(1). Pub. L. 99–514, §1804(d)(1), inserted at end “Except to the extent provided in regulations, the preceding sentence shall not apply in the case of any mere holding or investment company which is not a regulated investment company.”
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–357 struck out “or a foreign personal holding company described in section 552” after “section 542” in introductory provisions.
+
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §1804(d)(1), inserted at end “Except to the extent provided in regulations, the preceding sentence shall not apply in the case of any mere holding or investment company which is not a regulated investment company.”
 
 Subsec. (c). Pub. L. 99–514, §657(a), inserted at end “In the case of a distribution by a regulated investment company to a shareholder who made an initial investment of at least $10,000,000 in such company, such distribution shall not be treated as not being pro rata or as being preferential solely by reason of an increase in the distribution by reason of reductions in administrative expenses of the company.”
 
-1983—Subsec. (e). Pub. L. 97–448 added subsec. (e).
+<b>1983</b>—Subsec. (e). Pub. L. 97–448 added subsec. (e).
 
-1982—Subsec. (b)(1). Pub. L. 97–248 inserted sentence at end providing that, for purposes of subpar. (A), a liquidation includes a redemption of stock to which section 302 applies.
+<b>1982</b>—Subsec. (b)(1). Pub. L. 97–248 inserted sentence at end providing that, for purposes of subpar. (A), a liquidation includes a redemption of stock to which section 302 applies.
 
-1964—Subsec. (b). Pub. L. 88–272 designated existing provisions as subpars. (A) and (B) of par. (1), excepted personal holding companies in section 542, and foreign personal holding companies in section 552 therefrom, and added par. (2).
+<b>1964</b>—Subsec. (b). Pub. L. 88–272 designated existing provisions as subpars. (A) and (B) of par. (1), excepted personal holding companies in section 542, and foreign personal holding companies in section 552 therefrom, and added par. (2).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–325, title III, §307(c), Dec. 22, 2010, 124 Stat. 3550, provided that: “The amendments made by this section \[amending this section\] shall apply to distributions in taxable years beginning after the date of the enactment of this Act \[Dec. 22, 2010\].”
 
 #### Effective Date of 2004 Amendment
 

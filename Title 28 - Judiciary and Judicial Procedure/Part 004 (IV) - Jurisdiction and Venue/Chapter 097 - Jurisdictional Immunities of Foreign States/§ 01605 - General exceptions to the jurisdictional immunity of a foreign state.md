@@ -36,7 +36,7 @@ Limitation on Discovery.—
 
 &emsp;(1)
 
-In general.—(A) Subject to paragraph (2), if an action is filed that would otherwise be barred by section 1604, but for section 1605A, the court, upon request of the AttorneyGeneral, shall stay any request, demand, or order for discovery on the United States that the Attorney General certifies would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action, until such time as the Attorney General advises the court that such request, demand, or order will no longer so interfere.
+In general.—(A) Subject to paragraph (2), if an action is filed that would otherwise be barred by section 1604, but for section 1605A, the court, upon request of the Attorney General, shall stay any request, demand, or order for discovery on the United States that the Attorney General certifies would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action, until such time as the Attorney General advises the court that such request, demand, or order will no longer so interfere.
 
 &emsp;(B) A stay under this paragraph shall be in effect during the 12-month period beginning on the date on which the court issues the order to stay discovery. The court shall renew the order to stay discovery for additional 12-month periods upon motion by the United States if the Attorney General certifies that discovery would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action.
 
@@ -72,27 +72,27 @@ Rules 12(b)(6) and 56 of the Federal Rules of Civil Procedure, referred to in su
 
 #### Amendments
 
-2008—Subsec. (a)(7). Pub. L. 110–181, §1083(b)(1)(A), struck out par. (7) which provided for lack of jurisdictional immunity in certain cases in which money damages were sought against a foreign state for personal injury or death caused by an act of torture, extrajudicial killing, aircraft sabotage, hostage taking, or the provision of material support or resources for such an act.
+<b>2008</b>—Subsec. (a)(7). Pub. L. 110–181, §1083(b)(1)(A), struck out par. (7) which provided for lack of jurisdictional immunity in certain cases in which money damages were sought against a foreign state for personal injury or death caused by an act of torture, extrajudicial killing, aircraft sabotage, hostage taking, or the provision of material support or resources for such an act.
 
 Subsecs. (e), (f). Pub. L. 110–181, §1083(b)(1)(B), struck out subsecs. (e) and (f) which defined “torture”, “extrajudicial killing”, “hostage taking”, and “aircraft sabotage” and provided for a 10-year statute of limitations for actions brought under former subsec. (a)(7) of this section.
 
 Subsec. (g)(1)(A). Pub. L. 110–181, §1083(b)(1)(C), substituted “but for section 1605A” for “but for subsection (a)(7)”.
 
-2006—Subsec. (d). Pub. L. 109–304 substituted “section 31301 of title 46” and “chapter 313 of title 46” for “the Ship Mortgage Act, 1920 (46 U.S.C. 911 and following)” and “that Act”, respectively.
+<b>2006</b>—Subsec. (d). Pub. L. 109–304 substituted “section 31301 of title 46” and “chapter 313 of title 46” for “the Ship Mortgage Act, 1920 (46 U.S.C. 911 and following)” and “that Act”, respectively.
 
-2002—Subsec. (a)(7)(A). Pub. L. 107–117 amended Pub. L. 107–77. See 2001 Amendment note below.
+<b>2002</b>—Subsec. (a)(7)(A). Pub. L. 107–117 amended Pub. L. 107–77. See 2001 Amendment note below.
 
-2001—Subsec. (a)(7)(A). Pub. L. 107–77, as amended by Pub. L. 107–117, inserted before semicolon “or the act is related to Case Number 1:00CV03110(EGS) in the United States District Court for the District of Columbia”.
+<b>2001</b>—Subsec. (a)(7)(A). Pub. L. 107–77, as amended by Pub. L. 107–117, inserted before semicolon “or the act is related to Case Number 1:00CV03110(EGS) in the United States District Court for the District of Columbia”.
 
-1997—Subsec. (a)(7)(B)(ii). Pub. L. 105–11 substituted “neither the claimant nor the victim was” for “the claimant or victim was not”.
+<b>1997</b>—Subsec. (a)(7)(B)(ii). Pub. L. 105–11 substituted “neither the claimant nor the victim was” for “the claimant or victim was not”.
 
-1996—Subsec. (a)(7). Pub. L. 104–132, §221(a)(1), added par. (7).
+<b>1996</b>—Subsec. (a)(7). Pub. L. 104–132, §221(a)(1), added par. (7).
 
 Subsecs. (e) to (g). Pub. L. 104–132, §221(a)(2), added subsecs. (e) to (g).
 
-1990—Subsec. (a)(6). Pub. L. 101–650 substituted “state” for “State” after “foreign”.
+<b>1990</b>—Subsec. (a)(6). Pub. L. 101–650 substituted “state” for “State” after “foreign”.
 
-1988—Subsec. (a)(6). Pub. L. 100–669 added par. (6).
+<b>1988</b>—Subsec. (a)(6). Pub. L. 100–669 added par. (6).
 
 Subsec. (b). Pub. L. 100–702, §1(3), struck out at end “Whenever notice is delivered under subsection (b)(1) of this section, the maritime lien shall thereafter be deemed to be an in personam claim against the foreign state which at that time owns the vessel or cargo involved: <i>Provided</i>, That a court may not award judgment against the foreign state in an amount greater than the value of the vessel or cargo upon which the maritime lien arose, such value to be determined as of the time notice is served under subsection (b)(1) of this section.”
 
@@ -104,7 +104,7 @@ Subsecs. (c), (d). Pub. L. 100–702, §1(3), added subsecs. (c) and (d).
 
 #### Effective Date of 2008 Amendment
 
-For applicability of amendments by Pub. L. 110–181 to pending cases, see section 1083(c) of Pub. L. 110–181, setout as an Effective Date note under section 1605A of this title.
+For applicability of amendments by Pub. L. 110–181 to pending cases, see section 1083(c) of Pub. L. 110–181, set out as an Effective Date note under section 1605A of this title.
 
 #### Effective Date of 1997 Amendment
 

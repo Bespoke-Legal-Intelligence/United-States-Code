@@ -68,7 +68,7 @@ June 10, 1993, referred to in subsec. (a)(1), was in the original “the date of
 
 #### Amendments
 
-1993—Pub. L. 103–43, §161, amended section generally. Prior to amendment, section read as follows:
+<b>1993</b>—Pub. L. 103–43, §161, amended section generally. Prior to amendment, section read as follows:
 
 “(a) The Secretary shall by regulation require that each entity which applies for a grant, contract, or cooperative agreement under this chapter for any project or program which involves the conduct of biomedical or behavioral research submit in or with its application for such grant, contract, or cooperative agreement assurances satisfactory to the Secretary that such entity—
 

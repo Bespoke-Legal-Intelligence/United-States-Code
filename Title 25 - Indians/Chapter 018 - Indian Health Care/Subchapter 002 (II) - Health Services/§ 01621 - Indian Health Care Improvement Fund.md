@@ -1,104 +1,124 @@
 ### §1621. Indian Health Care Improvement Fund
 
-#### (a) Approved expenditures
+#### (a) Use of funds
 
-The Secretary is authorized to expend funds which are appropriated under the authority of this section, through the Service, for the purposes of—
+The Secretary, acting through the Service, is authorized to expend funds, directly or under the authority of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), which are appropriated under the authority of this section, for the purposes of—
 
-&emsp;(1) eliminating the deficiencies in health status and resources of all Indian tribes,
+&emsp;(1) eliminating the deficiencies in health status and health resources of all Indian tribes;
 
-&emsp;(2) eliminating backlogs in the provision of health care services to Indians,
+&emsp;(2) eliminating backlogs in the provision of health care services to Indians;
 
-&emsp;(3) meeting the health needs of Indians in an efficient and equitable manner, and
+&emsp;(3) meeting the health needs of Indians in an efficient and equitable manner, including the use of telehealth and telemedicine when appropriate;
 
-&emsp;(4) augmenting the ability of the Service to meet the following health service responsibilities, either through direct or contract care or through contracts entered into pursuant to the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], with respect to those Indian tribes with the highest levels of health status and resource deficiencies:
+&emsp;(4) eliminating inequities in funding for both direct care and contract health service programs; and
 
-&emsp;&emsp;(A) clinical care (direct and indirect) including clinical eye and vision care;
+&emsp;(5) augmenting the ability of the Service to meet the following health service responsibilities with respect to those Indian tribes with the highest levels of health status deficiencies and resource deficiencies:
 
-&emsp;&emsp;(B) preventive health, including screening mammography in accordance with section 1621k of this title;
+&emsp;&emsp;(A) Clinical care, including inpatient care, outpatient care (including audiology, clinical eye, and vision care), primary care, secondary and tertiary care, and long-term care.
 
-&emsp;&emsp;(C) dental care (direct and indirect);
+&emsp;&emsp;(B) Preventive health, including mammography and other cancer screening.
 
-&emsp;&emsp;(D) mental health, including community mental health services, inpatient mental health services, dormitory mental health services, therapeutic and residential treatment centers, and training of traditional Indian practitioners;
+&emsp;&emsp;(C) Dental care.
 
-&emsp;&emsp;(E) emergency medical services;
+&emsp;&emsp;(D) Mental health, including community mental health services, inpatient mental health services, dormitory mental health services, therapeutic and residential treatment centers, and training of traditional health care practitioners.
 
-&emsp;&emsp;(F) treatment and control of, and rehabilitative care related to, alcoholism and drug abuse (including fetal alcohol syndrome) among Indians;
+&emsp;&emsp;(E) Emergency medical services.
 
-&emsp;&emsp;(G) accident prevention programs;
+&emsp;&emsp;(F) Treatment and control of, and rehabilitative care related to, alcoholism and drug abuse (including fetal alcohol syndrome) among Indians.
 
-&emsp;&emsp;(H) home health care;
+&emsp;&emsp;(G) Injury prevention programs, including data collection and evaluation, demonstration projects, training, and capacity building.
 
-&emsp;&emsp;(I) community health representatives; and
+&emsp;&emsp;(H) Home health care.
 
-&emsp;&emsp;(J) maintenance and repair.
+&emsp;&emsp;(I) Community health representatives.
 
-#### (b) Effect on other appropriations; allocation to service units
+&emsp;&emsp;(J) Maintenance and improvement.
 
-(1) Any funds appropriated under the authority of this section shall not be used to offset or limit any appropriations made to the Service under section 13 of this title, or any other provision of law.
+#### (b) No offset or limitation
 
-(2)(A) Funds appropriated under the authority of this section may be allocated on a service unit basis. The funds allocated to each service unit under this subparagraph shall be used by the service unit to reduce the health status and resource deficiency of each tribe served by such service unit.
+Any funds appropriated under the authority of this section shall not be used to offset or limit any other appropriations made to the Service under this chapter or section 13 of this title, or any other provision of law.
 
-(B) The apportionment of funds allocated to a service unit under subparagraph (A) among the health service responsibilities described in subsection (a)(4) of this section shall be determined by the Service in consultation with, and with the active participation of, the affected Indian tribes.
+#### (c) Allocation; use
 
-#### (c) Health resources deficiency levels
+#### (1) In general
 
-For purposes of this section—
+&emsp;Funds appropriated under the authority of this section shall be allocated to Service units, Indian tribes, or tribal organizations. The funds allocated to each Indian tribe, tribal organization, or Service unit under this paragraph shall be used by the Indian tribe, tribal organization, or Service unit under this paragraph to improve the health status and reduce the resource deficiency of each Indian tribe served by such Service unit, Indian tribe, or tribal organization.
 
-&emsp;(1) The term “health status and resource deficiency” means the extent to which—
+#### (2) Apportionment of allocated funds
 
-&emsp;&emsp;(A) the health status objectives set forth in section 1602(b) of this title are not being achieved; and
+&emsp;The apportionment of funds allocated to a Service unit, Indian tribe, or tribal organization under paragraph (1) among the health service responsibilities described in subsection (a)(5) shall be determined by the Service in consultation with, and with the active participation of, the affected Indian tribes and tribal organizations.
 
-&emsp;&emsp;(B) the Indian tribe does not have available to it the health resources it needs, taking into account the actual cost of providing health care services given local geographic, climatic, rural, or other circumstances.
+#### (d) Provisions relating to health status and resource deficiencies
 
-&emsp;(2) The health resources available to an Indian tribe include health resources provided by the Service as well as health resources used by the Indian tribe, including services and financing systems provided by any Federal programs, private insurance, and programs of State or local governments.
+For the purposes of this section, the following definitions apply:
 
-&emsp;(3) The Secretary shall establish procedures which allow any Indian tribe to petition the Secretary for a review of any determination of the extent of the health status and resource deficiency of such tribe.
+#### (1) Definition
 
-#### (d) Programs administered by Indian tribe
+&emsp;The term “health status and resource deficiency” means the extent to which—
 
-(1) Programs administered by any Indian tribe or tribal organization under the authority of the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\] shall be eligible for funds appropriated under the authority of this section on an equal basis with programs that are administered directly by the Service.
+&emsp;&emsp;(A) the health status objectives set forth in sections 1602(1) and 1602(2) of this title are not being achieved; and
 
-(2) If any funds allocated to a tribe or service unit under the authority of this section are used for a contract entered into under the Indian Self-Determination Act, a reasonable portion of such funds may be used for health planning, training, technical assistance, and other administrative support functions.
+&emsp;&emsp;(B) the Indian tribe or tribal organization does not have available to it the health resources it needs, taking into account the actual cost of providing health care services given local geographic, climatic, rural, or other circumstances.
 
-#### (e) Report to Congress
+#### (2) Available resources
 
-By no later than the date that is 3 years after October 29, 1992, the Secretary shall submit to the Congress the current health status and resource deficiency report of the Service for each Indian tribe or service unit, including newly recognized or acknowledged tribes. Such report shall set out—
+&emsp;The health resources available to an Indian tribe or tribal organization include health resources provided by the Service as well as health resources used by the Indian tribe or tribal organization, including services and financing systems provided by any Federal programs, private insurance, and programs of State or local governments.
+
+#### (3) Process for review of determinations
+
+&emsp;The Secretary shall establish procedures which allow any Indian tribe or tribal organization to petition the Secretary for a review of any determination of the extent of the health status and resource deficiency of such Indian tribe or tribal organization.
+
+#### (e) Eligibility for funds
+
+Tribal health programs shall be eligible for funds appropriated under the authority of this section on an equal basis with programs that are administered directly by the Service.
+
+#### (f) Report
+
+By no later than the date that is 3 years after March 23, 2010, the Secretary shall submit to Congress the current health status and resource deficiency report of the Service for each Service unit, including newly recognized or acknowledged Indian tribes. Such report shall set out—
 
 &emsp;(1) the methodology then in use by the Service for determining tribal health status and resource deficiencies, as well as the most recent application of that methodology;
 
-&emsp;(2) the extent of the health status and resource deficiency of each Indian tribe served by the Service;
+&emsp;(2) the extent of the health status and resource deficiency of each Indian tribe served by the Service or a tribal health program;
 
-&emsp;(3) the amount of funds necessary to eliminate the health status and resource deficiencies of all Indian tribes served by the Service; and
+&emsp;(3) the amount of funds necessary to eliminate the health status and resource deficiencies of all Indian tribes served by the Service or a tribal health program; and
 
 &emsp;(4) an estimate of—
 
-&emsp;&emsp;(A) the amount of health service funds appropriated under the authority of this chapter, or any other Act, including the amount of any funds transferred to the Service, for the preceding fiscal year which is allocated to each service unit, Indian tribe, or comparable entity;
+&emsp;&emsp;(A) the amount of health service funds appropriated under the authority of this chapter, or any other Act, including the amount of any funds transferred to the Service for the preceding fiscal year which is allocated to each Service unit, Indian tribe, or tribal organization;
 
-&emsp;&emsp;(B) the number of Indians eligible for health services in each service unit or Indian tribe; and
+&emsp;&emsp;(B) the number of Indians eligible for health services in each Service unit or Indian tribe or tribal organization; and
 
-&emsp;&emsp;(C) the number of Indians using the Service resources made available to each service unit or Indian tribe.
+&emsp;&emsp;(C) the number of Indians using the Service resources made available to each Service unit, Indian tribe or tribal organization, and, to the extent available, information on the waiting lists and number of Indians turned away for services due to lack of resources.
 
-#### (f) Appropriated funds included in base budget of Service
+#### (g) Inclusion in base budget
 
-Funds appropriated under authority of this section for any fiscal year shall be included in the base budget of the Service for the purpose of determining appropriations under this section in subsequent fiscal years.
+Funds appropriated under this section for any fiscal year shall be included in the base budget of the Service for the purpose of determining appropriations under this section in subsequent fiscal years.
 
-#### (g) Continuation of Service responsibilities for backlogs and parity
+#### (h) Clarification
 
-Nothing in this section is intended to diminish the primary responsibility of the Service to eliminate existing backlogs in unmet health care needs, nor are the provisions of this section intended to discourage the Service from undertaking additional efforts to achieve parity among Indian tribes.
+Nothing in this section is intended to diminish the primary responsibility of the Service to eliminate existing backlogs in unmet health care needs, nor are the provisions of this section intended to discourage the Service from undertaking additional efforts to achieve equity among Indian tribes and tribal organizations.
 
-#### (h) Authorization of appropriations
+#### (i) Funding designation
 
 Any funds appropriated under the authority of this section shall be designated as the “Indian Health Care Improvement Fund”.
 
-(Pub. L. 94–437, title II, §201, Sept. 30, 1976, 90 Stat. 1404; Pub. L. 96–537, §4, Dec. 17, 1980, 94 Stat. 3174; Pub. L. 100–713, title II, §201(a), Nov. 23, 1988, 102 Stat. 4800; Pub. L. 102–573, title II, §201(a), (c), 207(b), 217(b)(1), Oct. 29, 1992, 106 Stat. 4544, 4546, 4551, 4559.)
+(Pub. L. 94–437, title II, §201, Sept. 30, 1976, 90 Stat. 1404; Pub. L. 96–537, §4, Dec. 17, 1980, 94 Stat. 3174; Pub. L. 100–713, title II, §201(a), Nov. 23, 1988, 102 Stat. 4800; Pub. L. 102–573, title II, §201(a), (c), 207(b), 217(b)(1), Oct. 29, 1992, 106 Stat. 4544, 4546, 4551, 4559; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 #### References in Text
 
-The Indian Self-Determination Act, referred to in subsecs. (a)(4) and (d), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+
+This chapter, referred to in subsecs. (b) and (f)(4)(A), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+
+#### Codification
+
+Amendment by Pub. L. 111–148 is based on section 121 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 #### Amendments
 
-1992—Pub. L. 102–573, §201(c), amended section catchline generally.
+<b>2010</b>—Pub. L. 111–148 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (h) relating to the Indian Health Care Improvement Fund.
+
+<b>1992</b>—Pub. L. 102–573, §201(c), amended section catchline generally.
 
 Subsec. (a). Pub. L. 102–573, §201(a)(1)(A), substituted “this section” for “subsection (h) of this section” in introductory provisions.
 
@@ -148,9 +168,9 @@ Subsec. (f). Pub. L. 102–573, §201(a)(6), redesignated par. (2) as entire sub
 
 Subsec. (h). Pub. L. 102–573, §217(b)(1), substituted “this section” for “this subsection” and struck out former first sentence which authorized appropriations for fiscal years 1990 to 1992.
 
-1988—Pub. L. 100–713 amended section generally, substituting subsecs. (a) to (h) relating to improvement of Indian health status for former subsecs. (a) to (e) relating to direct patient care program.
+<b>1988</b>—Pub. L. 100–713 amended section generally, substituting subsecs. (a) to (h) relating to improvement of Indian health status for former subsecs. (a) to (e) relating to direct patient care program.
 
-1980—Subsec. (c)(1). Pub. L. 96–537, §4(a)(1), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
+<b>1980</b>—Subsec. (c)(1). Pub. L. 96–537, §4(a)(1), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
 
 Subsec. (c)(2). Pub. L. 96–537, §4(a)(2), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
 

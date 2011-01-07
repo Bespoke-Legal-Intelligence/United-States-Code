@@ -24,19 +24,19 @@ If the determination by a court that the taxpayer is liable for a second tier ta
 
 #### (4) Jeopardy collection
 
-&emsp;If the Secretary makes a finding that the collection of the second tier tax is in jeopardy,nothing in this subsection shall prevent the immediate collection of such tax.
+&emsp;If the Secretary makes a finding that the collection of the second tier tax is in jeopardy, nothing in this subsection shall prevent the immediate collection of such tax.
 
 (Added Pub. L. 96–596, §2(c)(1), Dec. 24, 1980, 94 Stat. 3472; amended Pub. L. 99–514, title XVIII, §1899A(50), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Amendments
 
-1992—Subsec. (c)(1). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in heading.
+<b>1992</b>—Subsec. (c)(1). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in heading.
 
-1986—Subsec. (c)(1). Pub. L. 99–514 substituted “United States Claims Court” for “Court of Claims” in heading.
+<b>1986</b>—Subsec. (c)(1). Pub. L. 99–514 substituted “United States Claims Court” for “Court of Claims” in heading.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a noteunder section 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date
 

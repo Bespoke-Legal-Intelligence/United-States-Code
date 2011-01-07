@@ -6,7 +6,7 @@
 
 &emsp;(2) require each agency to establish and maintain an agency information locator service as a component of, and to support the establishment and operation of the Service;
 
-&emsp;(3) in cooperation with the Archivist of the United States, the Administrator of General Services, the Public Printer, and the Librarian of Congress, establish an interagency committee to advise the Secretary of Commerce onthe development of technical standards for the Service to ensure compatibility, promote information sharing, and uniform access by the public;
+&emsp;(3) in cooperation with the Archivist of the United States, the Administrator of General Services, the Public Printer, and the Librarian of Congress, establish an interagency committee to advise the Secretary of Commerce on the development of technical standards for the Service to ensure compatibility, promote information sharing, and uniform access by the public;
 
 &emsp;(4) consider public access and other user needs in the establishment and operation of the Service;
 

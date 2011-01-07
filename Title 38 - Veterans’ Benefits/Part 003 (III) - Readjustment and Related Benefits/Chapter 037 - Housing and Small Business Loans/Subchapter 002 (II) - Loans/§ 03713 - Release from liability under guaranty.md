@@ -6,35 +6,35 @@
 
 (c) This section shall apply only to loans for which commitments are made before March 1, 1988.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §1817; Pub. L. 92–328, title II, §204, June 30, 1972, 86 Stat. 397; Pub. L. 94–324, §7(18), (19), June 30, 1976, 90 Stat. 722; Pub. L. 97–72, title III, §303(f), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 100–198, §10(a)(2), Dec. 21, 1987, 101 Stat. 1323; renumbered §1813 and amended Pub. L. 100–322, title IV, §415(b)(2), May 20, 1988, 102 Stat. 550; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3713 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(e)(15), Nov. 2, 1994, 108 Stat. 4686.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §1817; Pub. L. 92–328, title II, §204, June 30, 1972, 86 Stat. 397; Pub. L. 94–324, §7(18), (19), June 30,1976, 90 Stat. 722; Pub. L. 97–72, title III, §303(f), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 100–198, §10(a)(2), Dec. 21, 1987, 101 Stat. 1323; renumbered §1813 and amended Pub. L. 100–322, title IV, §415(b)(2), May 20, 1988, 102 Stat. 550; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3713 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(e)(15), Nov. 2, 1994, 108 Stat. 4686.)
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–446 before period at end substituted “section 5302(b) of this title, if the veteran is eligible for relief under that section” for “subsection 5302(b) of this title, if eligible thereunder”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–446 before period at end substituted “section 5302(b) of this title, if the veteran is eligible for relief under that section” for “subsection 5302(b) of this title, if eligible thereunder”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1813 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1813 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “3710” for “1810”.
 
 Subsec. (b). Pub. L. 102–40 substituted “5302(b)” for “3102(b)”.
 
-1989—Subsecs. (a), (b). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Subsecs. (a), (b). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1988—Pub. L. 100–322, §415(b)(2)(B), renumbered section 1817 of this title as this section.
+<b>1988</b>—Pub. L. 100–322, §415(b)(2)(B), renumbered section 1817 of this title as this section.
 
 Subsec. (a). Pub. L. 100–322, §415(b)(2)(A), substituted “for purposes specified in section 1810” for “under section 1810”.
 
-1987—Subsec. (c). Pub. L. 100–198 added subsec. (c).
+<b>1987</b>—Subsec. (c). Pub. L. 100–198 added subsec. (c).
 
-1981—Subsec. (a). Pub. L. 97–72, §303(f)(1), substituted “direct housing loan” for “direct loan”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–72, §303(f)(1), substituted “direct housing loan” for “direct loan”.
 
 Subsec. (b). Pub. L. 97–72, §303(f)(2), substituted “or direct housing loan obtained” for “or direct loan obtained”.
 
-1976—Subsec. (a). Pub. L. 94–324, §7(18), substituted “the veteran” for “him” in two places, “the Administrator may deem” for “he may deem”, “the transferee were a veteran” for “he were a veteran”, “the transferee has assumed” for “he has assumed”, and “is obligated” for “has obligated himself”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–324, §7(18), substituted “the veteran” for “him” in two places, “the Administrator may deem” for “he may deem”, “the transferee were a veteran” for “he were a veteran”, “the transferee has assumed” for “he has assumed”, and “is obligated” for “has obligated himself”.
 
 Subsec. (b). Pub. L. 94–324, §7(19), substituted “obtained by the veteran” for “obtained by him”, “the Administrator determines” for “he determines”, and “the Administrator deems” for “he deems”.
 
-1972—Pub. L. 92–328 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1972</b>—Pub. L. 92–328 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1981 Amendment
 

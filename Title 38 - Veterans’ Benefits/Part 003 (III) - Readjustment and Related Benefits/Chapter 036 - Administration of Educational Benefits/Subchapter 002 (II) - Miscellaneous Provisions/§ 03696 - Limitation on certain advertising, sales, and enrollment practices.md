@@ -1,6 +1,6 @@
 ### §3696. Limitation on certain advertising, sales, and enrollment practices
 
-(a) The Secretary shall not approve the enrollment of an eligible veteran or eligible person in any course offered by an institution which utilizes advertising, sales, or enrollment practices of any type which are erroneous, deceptive, or misleading either by actual statement, omission, or intimation.
+(a) The Secretary shall not approve the enrollment of an eligible veteran or eligible person inany course offered by an institution which utilizes advertising, sales, or enrollment practices of any type which are erroneous, deceptive, or misleading either by actual statement, omission, or intimation.
 
 (b) To ensure compliance with this section, any institution offering courses approved for the enrollment of eligible persons or veterans shall maintain a complete record of all advertising, sales, or enrollment materials (and copies thereof) utilized by or on behalf of the institution during the preceding 12-month period. Such record shall be available for inspection by the State approving agency or the Secretary. Such materials shall include but are not limited to any direct mail pieces, brochures, printed literature used by sales persons, films, video tapes, and audio tapes disseminated through broadcast media, material disseminated through print media, tear sheets, leaflets, handbills, fliers, and any sales or recruitment manuals used to instruct sales personnel, agents, or representatives of such institution.
 
@@ -10,15 +10,15 @@
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1796 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1796 of this title as this section.
 
 Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “3694” for “1794”.
 
-1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing and “Secretary's” for “Administrator's” in subsec. (c).
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing and “Secretary's” for “Administrator's” in subsec. (c).
 
-1984—Subsec. (d). Pub. L. 98–543 struck out subsec. (d) which provided that not later than 60 days after the end of each fiscal year the Administrator would be required to report to Congress regarding the disposition of cases under this section.
+<b>1984</b>—Subsec. (d). Pub. L. 98–543 struck out subsec. (d) which provided that not later than 60 days after the end of each fiscal year the Administrator would be required to report to Congress regarding the disposition of cases under this section.
 
-1976—Subsec. (b). Pub. L. 94–502, §512, added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>1976</b>—Subsec. (b). Pub. L. 94–502, §512, added subsec. (b) and redesignated former subsec. (b) as (c).
 
 Subsec. (c). Pub. L. 94–502, §§512(1), 513(a)(22), redesignated former subsec. (b) as (c) and substituted “making the Administrator's determinations” for “making his determinations”. Former subsec. (c) redesignated (d).
 

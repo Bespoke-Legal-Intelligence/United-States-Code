@@ -428,7 +428,7 @@ Disposition of payments.—A payment received under this subsection by the Secre
 
 #### Amendments
 
-2006—Subsec. (b)(1)(E). Pub. L. 109–364, §643(a)(1), inserted “or under subparagraph (G) of this paragraph” before period at end.
+<b>2006</b>—Subsec. (b)(1)(E). Pub. L. 109–364, §643(a)(1), inserted “or under subparagraph (G) of this paragraph” before period at end.
 
 Subsec. (b)(1)(G). Pub. L. 109–364, §643(a)(2), added subpar. (G).
 
@@ -436,9 +436,9 @@ Subsec. (d)(2)(B). Pub. L. 109–364, §644(a), substituted “October 7, 2001�
 
 Subsec. (d)(6)(A). Pub. L. 109–364, §1071(a)(8), struck out second comma after “November 23, 2003”.
 
-2004—Subsecs. (b)(1)(F), (d)(2)(B), (6)(A). Pub. L. 108–375 substituted “after November 23, 2003,” for “on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2004”.
+<b>2004</b>—Subsecs. (b)(1)(F), (d)(2)(B), (6)(A). Pub. L. 108–375 substituted “after November 23, 2003,” for “on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2004”.
 
-2003—Subsec. (b)(1)(F). Pub. L. 108–136, §645(b)(1), added subpar. (F).
+<b>2003</b>—Subsec. (b)(1)(F). Pub. L. 108–136, §645(b)(1), added subpar. (F).
 
 Subsec. (d)(1). Pub. L. 108–136, §645(a)(2), substituted “Except as provided in paragraph (2)(B), the Secretary concerned” for “The Secretary concerned” in introductory provisions.
 
@@ -454,7 +454,7 @@ Subsec. (f)(1). Pub. L. 108–136, §644(a), reenacted heading without change an
 
 &emsp;“(B) during the 90-day period beginning on the date he receives notification under section 12731(d) of this title that he has completed the years of service required for eligibility for reserve-component retired pay if he had not made an election under subsection (a)(2)(B) to participate in the Plan.”
 
-2001—Subsec. (d). Pub. L. 107–107 struck out “Retirement-Eligible” before “Members” in heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows:
+<b>2001</b>—Subsec. (d). Pub. L. 107–107 struck out “Retirement-Eligible” before “Members” in heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows:
 
 “(1)
 
@@ -466,7 +466,7 @@ Surviving spouse annuity.—The Secretary concerned shall pay an annuity under t
 
 &emsp;“(C) completing 20 years of active service but before he is eligible to retire as a commissioned officer because he has not completed 10 years of active commissioned service.”
 
-2000—Subsec. (a)(2). Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(c)(1)\], substituted “who elects under subparagraph (B) not to participate in the Plan” for “described in clauses (i) and (ii) of subparagraph (B) who does not elect to participate in the Plan before the end of the 90-day period referred to in that clause” in concluding provisions.
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(c)(1)\], substituted “who elects under subparagraph (B) not to participate in the Plan” for “described in clauses (i) and (ii) of subparagraph (B) who does not elect to participate in the Plan before the end of the 90-day period referred to in that clause” in concluding provisions.
 
 Subsec. (a)(2)(B). Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(a)\], amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “A person who (i) is eligible to participate in the Plan under paragraph (1)(B), (ii) is married or has a dependent child when he is notified under section 12731(d) of this title that he has completed the years of service required for eligibility for reserve-component retired pay, and (iii) elects to participate in the Plan (and makes a designation under subsection (e)) before the end of the 90-day period beginning on the date he receives such notification.”
 
@@ -480,9 +480,9 @@ Subsec. (b)(3)(E)(ii). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(1
 
 Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(c)(3)\], substituted “a person is required to make a designation under this subsection, the person” for “a person electing to participate in the Plan is required to make a designation under this subsection, the person making such election” in introductory provisions.
 
-1999—Subsec. (b)(3)(E)(ii). Pub. L. 106–65 substituted “after October 16, 1998,” for “on or after the date of the enactment of the subparagraph”.
+<b>1999</b>—Subsec. (b)(3)(E)(ii). Pub. L. 106–65 substituted “after October 16, 1998,” for “on or after the date of the enactment of the subparagraph”.
 
-1998—Subsec. (b)(3)(C). Pub. L. 105–261, §643(a)(1), struck out “
+<b>1998</b>—Subsec. (b)(3)(C). Pub. L. 105–261, §643(a)(1), struck out “
 
 effective date,” after “
 
@@ -490,23 +490,23 @@ Irrevocability,” in heading and “Such an election is effective as of the fir
 
 Subsec. (b)(3)(E). Pub. L. 105–261, §643(a)(2), added subpar. (E).
 
-1997—Pub. L. 105–85 substituted “Plan” for “plan” in section catchline.
+<b>1997</b>—Pub. L. 105–85 substituted “Plan” for “plan” in section catchline.
 
-1996—Pub. L. 104–201 amended section generally, revising and restating provisions relating to application of the Plan and inserting subsec., par., and subpar. headings.
+<b>1996</b>—Pub. L. 104–201 amended section generally, revising and restating provisions relating to application of the Plan and inserting subsec., par., and subpar. headings.
 
-1994—Subsec. (a)(2)(B). Pub. L. 103–337, §1671(d)(2), substituted “12731(d)” for “1331(d)”.
+<b>1994</b>—Subsec. (a)(2)(B). Pub. L. 103–337, §1671(d)(2), substituted “12731(d)” for “1331(d)”.
 
 Subsec. (b)(1). Pub. L. 103–337, §638, designated existing provisions as subpar. (A) and added subpars. (B) to (E).
 
 Subsec. (f)(1). Pub. L. 103–337, §1671(d)(2), substituted “12731(d)” for “1331(d)” in subpars. (A) and (B).
 
-1989—Subsec. (a)(1)(B), (2)(B). Pub. L. 101–189, §1407(a)(2), substituted “reserve-component retired pay” for “retired pay under chapter 67 of this title”.
+<b>1989</b>—Subsec. (a)(1)(B), (2)(B). Pub. L. 101–189, §1407(a)(2), substituted “reserve-component retired pay” for “retired pay under chapter 67 of this title”.
 
 Subsec. (a)(4)(A). Pub. L. 101–189, §1407(a)(3), struck out “or retainer” after “entitled to retired”.
 
 Subsec. (f)(1)(A), (B). Pub. L. 101–189, §1407(a)(2), substituted “reserve-component retired pay” for “retired pay under chapter 67 of this title”.
 
-1986—Subsec. (a)(5). Pub. L. 99–661, §1343(a)(8)(B), substituted “a reserve-component annuity” for “an annuity by virtue of eligibility under paragraph (1)(B)”.
+<b>1986</b>—Subsec. (a)(5). Pub. L. 99–661, §1343(a)(8)(B), substituted “a reserve-component annuity” for “an annuity by virtue of eligibility under paragraph (1)(B)”.
 
 Subsec. (b)(5). Pub. L. 99–661, §641(b)(1), inserted “(A) whether the election is being made pursuant to the requirements of a court order, or (B)”.
 
@@ -514,7 +514,7 @@ Subsec. (d)(2). Pub. L. 99–661, §642(a)(1), substituted “if there is no sur
 
 Subsec. (f)(2). Pub. L. 99–661, §642(a)(2), substituted “if there is no surviving spouse or if the person's surviving spouse subsequently dies” for “if the person and the person's spouse die as a result of a common accident”.
 
-1985—Subsec. (a)(1)(A). Pub. L. 99–145, §719(8)(A), substituted “retired pay” for “retired or retainer pay”.
+<b>1985</b>—Subsec. (a)(1)(A). Pub. L. 99–145, §719(8)(A), substituted “retired pay” for “retired or retainer pay”.
 
 Subsec. (a)(2)(A). Pub. L. 99–145, §721(a)(1), inserted “(with his spouse's concurrence, if required under paragraph (3))” after “unless he elects”.
 
@@ -546,7 +546,7 @@ Subsec. (f). Pub. L. 99–145, §713(a), added subsec. (f).
 
 Subsec. (g). Pub. L. 99–145, §715(b), added subsec. (g).
 
-1983—Subsec. (a)(3). Pub. L. 98–94, §941(c)(2), substituted “provide an annuity for a former spouse under subsection (b)(2),” for “provide an annuity under subsection (b)(2) of this section,” in subpars. (A) and (B).
+<b>1983</b>—Subsec. (a)(3). Pub. L. 98–94, §941(c)(2), substituted “provide an annuity for a former spouse under subsection (b)(2),” for “provide an annuity under subsection (b)(2) of this section,” in subpars. (A) and (B).
 
 Subsec. (a)(5). Pub. L. 98–94, §941(a)(1), inserted “except in accordance with subsection (b)(3)”.
 
@@ -560,19 +560,19 @@ Subsec. (b). Pub. L. 98–94, §941(a)(2), amended subsec. (b) generally. Prior 
 
 “(4) Any person who elects under paragraph (1) or (2) to provide an annuity to a former spouse shall, at the time of making such election, provide the Secretary concerned with a written statement, in a form to be prescribed by that Secretary, signed by such person and the former spouse setting forth whether the election is being made pursuant to a voluntary written agreement previously entered into by such person as a part of or incident to a proceeding of divorce, dissolution, annulment, or legal separation, and if so, whether such voluntary written agreement has been incorporated in or ratified or approved by a court order.”
 
-1982—Pub. L. 97–295, §1(18), substituted “Plan” for “plan” in section catchline.
+<b>1982</b>—Pub. L. 97–295, §1(18), substituted “Plan” for “plan” in section catchline.
 
 Subsec. (a)(3). Pub. L. 97–252, §1003(b)(1), inserted in subpars. (A) and (B) identical text “or elects to provide an annuity under subsection (b)(2) of this section,” after “for his spouse,”.
 
 Subsec. (b). Pub. L. 97–252, §1003(b)(2), designated existing first sentence as par. (1), authorized an election to provide an annuity to a former spouse, added pars. (2) and (4), designated existing second sentence as par. (3), and substituted “person electing to provide an annuity under paragraph (1) or (2) of this subsection” for “person providing an annuity under this subsection” and “the election” for “such an election”.
 
-1978—Subsec. (a). Pub. L. 95–397, §202(a), amended subsec. (a) generally, primarily inserting provision that this subchapter shall be known as the Survivor Benefit Plan and provisions of pars. (1)(B), (2)(B) and concluding sentence, (3)(B), (4)(B), and last sentence of (5).
+<b>1978</b>—Subsec. (a). Pub. L. 95–397, §202(a), amended subsec. (a) generally, primarily inserting provision that this subchapter shall be known as the Survivor Benefit Plan and provisions of pars. (1)(B), (2)(B) and concluding sentence, (3)(B), (4)(B), and last sentence of (5).
 
 Subsec. (b). Pub. L. 95–397, §202(b), substituted “entitled to retired or retainer pay” for “eligible to participate in the Plan” and inserted provisions relating to the inclusion in an election a designation under subsection (e) by persons providing an annuity under this subsection by virtue of eligibility under subsection (a)(1)(B).
 
 Subsec. (e). Pub. L. 95–397, §202(c), added subsec. (e).
 
-1976—Subsec. (a). Pub. L. 94–496 inserted “or elects to provide an annuity for a dependent child but not for his spouse” after “maximum level”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–496 inserted “or elects to provide an annuity for a dependent child but not for his spouse” after “maximum level”.
 
 #### Effective Date of 2006 Amendment
 

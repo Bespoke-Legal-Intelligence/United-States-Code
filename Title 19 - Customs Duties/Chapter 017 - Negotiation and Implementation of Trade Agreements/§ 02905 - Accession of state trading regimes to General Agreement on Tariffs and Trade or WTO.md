@@ -64,9 +64,9 @@ For purposes of this section:
 
 #### Amendments
 
-1996—Pub. L. 104–295 substituted “or WTO” for “for WTO” in section catchline.
+<b>1996</b>—Pub. L. 104–295 substituted “or WTO” for “for WTO” in section catchline.
 
-1994—Pub. L. 103–465, §621(a)(4)(D), inserted “for WTO” after “Trade” in section catchline.
+<b>1994</b>—Pub. L. 103–465, §621(a)(4)(D), inserted “for WTO” after “Trade” in section catchline.
 
 Subsec. (a). Pub. L. 103–465, §621(a)(4)(A), substituted “the GATT 1947, or to the WTO Agreement,” for “the GATT” in introductory provisions.
 

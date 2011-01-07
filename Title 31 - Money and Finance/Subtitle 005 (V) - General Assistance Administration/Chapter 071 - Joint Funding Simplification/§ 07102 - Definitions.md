@@ -60,5 +60,5 @@ In clause (5), the words “any of the several” are omitted as unnecessary. Th
 
 #### Amendments
 
-1994—Par. (3). Pub. L. 103–272 substituted “political” for “politicial” after “other general purpose”.
+<b>1994</b>—Par. (3). Pub. L. 103–272 substituted “political” for “politicial” after “other general purpose”.
 

@@ -1,7 +1,5 @@
 subpart 4—medicare prescription drug discount card and transitional assistance program
 
-<i><sup>1</sup></i><i> So in original. Probably should be “effect”.</i>
-
 
 ---
 

@@ -8,11 +8,11 @@
 
 &emsp;(2) the sentence shall be carried out according to the laws of the United States and that those laws are subject to change;
 
-&emsp;(3) if a United States court should determine upon a proceeding initiated by him or on his behalf that his transfer was not accomplished in accordance with the treaty or laws of the United States, he may be returned to the country which imposed the sentence for the purpose of completing the sentence if that country requests his return; and
+&emsp;(3) if a United States court should determine upon a proceeding initiated by him or on his behalf that his transfer was not accomplished in accordance with the treaty or laws of theUnited States, he may be returned to the country which imposed the sentence for the purpose of completing the sentence if that country requests his return; and
 
 &emsp;(4) his consent to transfer, once verified by the verifying officer, is irrevocable.
 
-(c) The verifying officer, before determining that an offender's consent is voluntary andgiven with full knowledge of the consequences, shall advise the offender of his right to consult with counsel as provided by this chapter. If the offender wishes to consult with counsel before giving his consent, he shall be advised that the proceedings will be continued until he has had an opportunity to consult with counsel.
+(c) The verifying officer, before determining that an offender's consent is voluntary and given with full knowledge of the consequences, shall advise the offender of his right to consult with counsel as provided by this chapter. If the offender wishes to consult with counsel before giving his consent, he shall be advised that the proceedings will be continued until he has had an opportunity to consult with counsel.
 
 (d) The verifying officer shall make the necessary inquiries to determine that the offender's consent is voluntary and not the result of any promises, threats, or other improper inducements, and that the offender accepts the transfer subject to the conditions set forth in subsection (b). The consent and acceptance shall be on an appropriate form prescribed by the Attorney General.
 
@@ -22,9 +22,9 @@
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–690 struck out “including any term of imprisonment or term of supervised release specified in the applicable sentencing guideline promulgated pursuant to 28 U.S.C. 944(a)(1),” after “consequences thereof,”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–690 struck out “including any term of imprisonment or term of supervised release specified in the applicable sentencing guideline promulgated pursuant to 28 U.S.C. 944(a)(1),” after “consequences thereof,”.
 
-1984—Subsec. (a). Pub. L. 98–473 inserted “, including any term of imprisonment or term of supervised release specified in the applicable sentencing guideline promulgated pursuant to 28 U.S.C. 994(a)(1),” after “consequences thereof”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–473 inserted “, including any term of imprisonment or term of supervised release specified in the applicable sentencing guideline promulgated pursuant to 28 U.S.C. 994(a)(1),” after “consequences thereof”.
 
 #### Change of Name
 

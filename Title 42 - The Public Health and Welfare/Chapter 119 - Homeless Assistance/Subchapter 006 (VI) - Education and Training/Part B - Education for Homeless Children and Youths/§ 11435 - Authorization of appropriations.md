@@ -1,6 +1,6 @@
 ### §11435. Authorization of appropriations
 
-For the purpose of carrying out this part, there are authorized to be appropriated $100,000,000 for fiscal year 2009 and such sums as may be necessary for each subsequent fiscal year.
+For the purpose of carrying out this part, there are authorized to be appropriated $100,000,000 for fiscal year 2009 and such sums asmay be necessary for each subsequent fiscal year.
 
 (Pub. L. 100–77, title VII, §726, as added Pub. L. 107–110, title X, §1032, Jan. 8, 2002, 115 Stat. 2006; amended Pub. L. 110–289, div. B, title IX, §2901(a), July 30, 2008, 122 Stat. 2875.)
 
@@ -12,5 +12,5 @@ Another prior section 11435, Pub. L. 100–77, title VII, §726, formerly §725,
 
 #### Amendments
 
-2008—Pub. L. 110–289 substituted “$100,000,000 for fiscal year 2009 and such sums as may be necessary for each subsequent fiscal year” for “$70,000,000 for fiscal year 2002 and such sums as may be necessary for each of fiscal years 2003 through 2007”.
+<b>2008</b>—Pub. L. 110–289 substituted “$100,000,000 for fiscal year 2009 and such sums as may be necessary for each subsequent fiscal year” for “$70,000,000 for fiscal year 2002 and such sums as may be necessary for each of fiscal years 2003 through 2007”.
 

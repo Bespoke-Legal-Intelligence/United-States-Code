@@ -1,6 +1,6 @@
 ### §272. Temporary presence in the United States
 
-The use of any invention in any vessel, aircraft or vehicle of any country which affords similar privileges to vessels, aircraft or vehicles of the United States, entering the United States temporarily or accidentally, shall not constitute infringement of any patent, if the invention is used exclusively for the needs of the vessel, aircraft or vehicle and is not offered for sale or sold in or used for the manufacture of anything to be sold in or exported from the United States.
+The use of any invention in any vessel, aircraft or vehicle of any country which affords similar privileges to vessels, aircraft or vehicles of the United States, entering the United States temporarily or accidentally, shall not constituteinfringement of any patent, if the invention is used exclusively for the needs of the vessel, aircraft or vehicle and is not offered for sale or sold in or used for the manufacture of anything to be sold in or exported from the United States.
 
 (July 19, 1952, ch. 950, 66 Stat. 812; Pub. L. 103–465, title V, §533(b)(4), Dec. 8, 1994, 108 Stat. 4989.)
 
@@ -10,7 +10,7 @@ This section follows the requirement of the International Convention for the Pro
 
 #### Amendments
 
-1994—Pub. L. 103–465 substituted “not offered for sale or sold” for “not sold”.
+<b>1994</b>—Pub. L. 103–465 substituted “not offered for sale or sold” for “not sold”.
 
 #### Effective Date of 1994 Amendment
 

@@ -58,13 +58,13 @@ In subsection (b), the words “In making any disposition of surplus property un
 
 #### Amendments
 
-2000—Subsec. (a)(1). Pub. L. 106–181, §135(d)(3), substituted “conveyance” for “gift” in introductory provisions and subpar. (B) and “conveyed” for “given” in subpar. (A).
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–181, §135(d)(3), substituted “conveyance” for “gift” in introductory provisions and subpar. (B) and “conveyed” for “given” in subpar. (A).
 
 Subsec. (c). Pub. L. 106–181, §125(d), added subsec. (c).
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Construction of 2000 Amendment
 

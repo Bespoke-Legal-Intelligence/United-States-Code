@@ -16,7 +16,7 @@ The Board and the standard setting body referred to in subsection (a) of this se
 
 #### (2) Funds generated from the collection of monetary penalties
 
-&emsp;Subject to the availability in advance in an appropriations Act, and notwithstanding subsection (i) of this section, all funds collected by the Board as a result of the assessment of monetary penalties shall be used to fund a merit scholarship program for undergraduate and graduate students enrolled in accreditedaccounting degree programs, which program is to be administered by the Board or by an entity or agent identified by the Board.
+&emsp;Subject to the availability in advance in an appropriations Act, and notwithstanding subsection (j) of this section, all funds collected by the Board as a result of the assessment of monetary penalties shall be used to fund a merit scholarship program for undergraduate and graduate students enrolled in accredited accounting degree programs, which program is to be administered by the Board or by an entity or agent identified by the Board.
 
 #### (d) Annual accounting support fee for the Board
 
@@ -26,7 +26,11 @@ The Board and the standard setting body referred to in subsection (a) of this se
 
 #### (2) Assessments
 
-&emsp;The rules of the Board under paragraph (1) shall provide for the equitable allocation, assessment, and collection by the Board (or an agent appointed by the Board) of the fee established under paragraph (1), among issuers, in accordance with subsection (g) of this section, allowing for differentiation among classes of issuers, as appropriate.
+&emsp;The rules of the Board under paragraph (1) shall provide for the equitable allocation, assessment, and collection by the Board (or an agent appointed by the Board) of the fee established under paragraph (1), among issuers, in accordance with subsection (g) of this section, and among brokers and dealers, in accordance with subsection (h), and allowing for differentiation among classes of issuers, brokers and dealers, as appropriate.
+
+#### (3) Brokers and dealers
+
+&emsp;The Board shall begin the allocation, assessment, and collection of fees under paragraph (2) with respect to brokers and dealers with the payment of support fees to fund the first full fiscal year beginning after July 21, 2010.
 
 #### (e) Annual accounting support fee for standard setting body
 
@@ -48,19 +52,47 @@ Any amount due from issuers (or a particular class of issuers) under this sectio
 
 &emsp;(2) the denominator of which is the average monthly equity market capitalization of all such issuers for such 12-month period.
 
-#### (h) Omitted
+#### (h) Allocation of accounting support fees among brokers and dealers
 
-#### (i) Rule of construction
+#### (1) Obligation to pay
+
+&emsp;Each broker or dealer shall pay to the Board the annual accounting support fee allocated to such broker or dealer under this section.
+
+#### (2) Allocation
+
+&emsp;Any amount due from a broker or dealer (or from a particular class of brokers and dealers) under this section shall be allocated among brokers and dealers and payable by the broker or dealer (or the brokers and dealers in the particular class, as applicable).
+
+#### (3) Proportionality
+
+&emsp;The amount due from a broker or dealer shall be in proportion to the net capital of the broker or dealer (before or after any adjustments), compared to the total net capital of all brokers and dealers (before or after any adjustments), in accordance with rules issued by the Board.
+
+#### (i) Omitted
+
+#### (j) Rule of construction
 
 Nothing in this section shall be construed to render either the Board, the standard setting body referred to in subsection (a) of this section, or both, subject to procedures in Congress to authorize or appropriate public funds, or to prevent such organization from utilizing additional sources of revenue for its activities, such as earnings from publication sales, provided that each additional source of revenue shall not jeopardize, in the judgment of the Commission, the actual and perceived independence of such organization.
 
-#### (j) Start-up expenses of the Board
+#### (k) Start-up expenses of the Board
 
 From the unexpended balances of the appropriations to the Commission for fiscal year 2003, the Secretary of the Treasury is authorized to advance to the Board not to exceed the amount necessary to cover the expenses of the Board during its first fiscal year (which may be a short fiscal year).
 
-(Pub. L. 107–204, title I, §109, July 30, 2002, 116 Stat. 769.)
+(Pub. L. 107–204, title I, §109, July 30, 2002, 116 Stat. 769; Pub. L. 111–203, title IX, §982(h), July 21, 2010, 124 Stat. 1930.)
 
 #### Codification
 
-Section is comprised of section 109 of Pub. L. 107–204. Subsec. (h) of section 109 of Pub. L. 107–204 amended section 78m of this title.
+Section is comprised of section 109 of Pub. L. 107–204. Subsec. (i) of section 109 of Pub. L. 107–204 amended section 78m of this title.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (c)(2). Pub. L. 111–203, §982(h)(1), substituted “subsection (j)” for “subsection (i)”.
+
+Subsec. (d)(2). Pub. L. 111–203, §982(h)(2)(A), substituted “and among brokers and dealers, in accordance with subsection (h), and allowing for differentiation among classes of issuers, brokers and dealers, as appropriate” for “allowing for differentiation among classes of issuers, as appropriate”.
+
+Subsec. (d)(3). Pub. L. 111–203, §982(h)(2)(B), added par. (3).
+
+Subsecs. (h) to (k). Pub. L. 111–203, §982(h)(3), (4), added subsec. (h) and redesignated former subsecs. (h) to (j) as (i) to (k), respectively.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 

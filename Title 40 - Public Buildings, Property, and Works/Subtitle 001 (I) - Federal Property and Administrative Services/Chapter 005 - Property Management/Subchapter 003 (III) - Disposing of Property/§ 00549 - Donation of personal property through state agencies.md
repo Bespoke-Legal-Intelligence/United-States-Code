@@ -86,9 +86,15 @@ Recipients and purposes.—The Administrator shall transfer to a state agency pr
 
 &emsp;&emsp;&emsp;(vii) a museum attended by the public;
 
-&emsp;&emsp;&emsp;(viii) a library serving free all residents of a community, district, State, or region; or
+&emsp;&emsp;&emsp;(viii) a library serving free all residents of a community, district, State, or region;
 
-&emsp;&emsp;&emsp;(ix) a historic light station as defined under section 308(e)(2) of the National Historic Preservation Act (16 U.S.C. 470w–7(e)(2)), including a historic light station conveyed under subsection (b) of that section, notwithstanding the number of hours that the historic light station is open to the public.
+&emsp;&emsp;&emsp;(ix) a historic light station as defined under section 308(e)(2) of the National Historic Preservation Act (16 U.S.C. 470w–7(e)(2)), including a historic light station conveyed under subsection (b) of that section, notwithstanding the number of hours that the historic light station is open to the public; or
+
+&emsp;&emsp;&emsp;(x) an organization whose—
+
+&emsp;&emsp;&emsp;&emsp;(I) membership comprises substantially veterans (as defined under section 101 of title 38); and
+
+&emsp;&emsp;&emsp;&emsp;(II) representatives are recognized by the Secretary of Veterans Affairs under section 5902 of title 38.
 
 &emsp;(4)
 
@@ -128,7 +134,7 @@ Consideration of needs and resources.—In developing and implementing the state
 
 &emsp;&emsp;(B)
 
-Publication and period for comment.—The state plan of operation, and any major amendment to the plan, may not be filed with the Administrator until 60 days after general notice of the proposed plan or amendment has been published and interested persons have been given at least 30 days to submit comments.
+Publication and period for comment.—The state plan of operation, and anymajor amendment to the plan, may not be filed with the Administrator until 60 days after general notice of the proposed plan or amendment has been published and interested persons have been given at least 30 days to submit comments.
 
 &emsp;&emsp;(C)
 
@@ -244,7 +250,7 @@ Conditions.—Retention of surplus property under this paragraph is subject to c
 
 &emsp;&emsp;&emsp;(iii) the Secretary of Health and Human Services, for property transferred under section 550(d) of this title.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1090; Pub. L. 109–313, §5, Oct. 6, 2006, 120 Stat. 1737.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1090; Pub. L. 109–313, §5, Oct. 6, 2006, 120 Stat. 1737; Pub. L. 111–338, §2, Dec. 22, 2010, 124 Stat. 3590.)
 
 Historical and Revision Notes
 
@@ -294,7 +300,9 @@ In subsection (f)(1)(B)–(D) and (4)(B), the words “Secretary of Education”
 
 #### Amendments
 
-2006—Subsec. (c)(3)(B)(ix). Pub. L. 109–313 added cl. (ix).
+<b>2010</b>—Subsec. (c)(3)(B)(x). Pub. L. 111–338 added cl. (x).
+
+<b>2006</b>—Subsec. (c)(3)(B)(ix). Pub. L. 109–313 added cl. (ix).
 
 #### Effective Date of 2006 Amendment
 
@@ -310,7 +318,7 @@ Ex. Ord. No. 12999, Apr. 17, 1996, 61 F.R. 17227, provided:
 
 In order to ensure that American children have the skills they need to succeed in the information-intensive 21st century, the Federal Government is committed to working with the private sector to promote four major developments in American education: making modern computer technology an integral part of every classroom; providing teachers with the professional development they need to use new technologies effectively; connecting classrooms to the National Information Infrastructure; and encouraging the creation of excellent educational software. This Executive order streamlines the transfer of excess and surplus Federal computer equipment to our Nation's classrooms and encourages Federal employees to volunteer their time and expertise to assist teachers and to connect classrooms.
 
-Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the provisions of the Stevenson-Wydler Technology Innovation Act of 1980, as amended (15 U.S.C. 3701 <i>et seq.</i>), the Federal Property and Administrative Services Act of 1949, ch. 288, 63 Stat. 377 \[now chapters 1 to 11 of this title and title III of the Act of June 30, 1949 (41 U.S.C. 251 et seq.)\], and the National Defense Authorization Act for Fiscal Year 1996, Public Law 104–106 \[see Tables for classification\], it is hereby ordered as follows:
+Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the provisions of the Stevenson-Wydler Technology Innovation Act of 1980, as amended (15 U.S.C. 3701 <i>et seq.</i>), the Federal Property and Administrative Services Act of 1949, ch. 288, 63 Stat. 377 \[now chapters 1 to 11 of this title and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], and the National Defense Authorization Act for Fiscal Year 1996, Public Law 104–106 \[see Tables for classification\], it is hereby ordered as follows:
 
 Section 1. <i>Protection of Educationally Useful Federal Equipment</i>. (a) Educationally useful Federal equipment is a vital national resource. To the extent such equipment can be used as is, separated into parts for other computers, or upgraded—either by professional technicians, students, or other recycling efforts—educationally useful Federal equipment is a valuable tool for computer education. Therefore, to the extent possible, all executive departments and agencies (hereinafter referred to as “agencies”) shall protect and safeguard such equipment, particularly when declared excess or surplus, so that it may be recycled and transferred, if appropriate, pursuant to this order.
 

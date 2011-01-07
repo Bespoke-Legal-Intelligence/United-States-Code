@@ -22,5 +22,5 @@ The words “executive agency” are substituted for “agency” because the de
 
 #### Amendments
 
-2004—Pub. L. 108–447 inserted at end “A copy of each report shall also be transmitted to the Comptroller General on the same date the report is transmitted to the President and Congress.”
+<b>2004</b>—Pub. L. 108–447 inserted at end “A copy of each report shall also be transmitted to the Comptroller General on the same date the report is transmitted to the President and Congress.”
 

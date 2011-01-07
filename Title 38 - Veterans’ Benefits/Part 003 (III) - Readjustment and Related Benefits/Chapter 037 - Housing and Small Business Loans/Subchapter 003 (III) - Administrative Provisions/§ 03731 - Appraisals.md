@@ -22,7 +22,7 @@
 
 &emsp;(3) within a reasonable period prescribed by the Secretary, has furnished to the Secretary an additional appraisal of the reasonable value of such property, construction, repairs, or alterations which was made by an appraiser selected by the lender from the list required by subsection (a)(3) of this section,
 
-> the Secretary shall consider both the initial appraisal and the additional appraisal and shall, ifappropriate, issue a revised certificate of reasonable value of such property, construction, repairs, or alterations.
+> the Secretary shall consider both the initial appraisal and the additional appraisal and shall, if appropriate, issue a revised certificate of reasonable value of such property, construction, repairs, or alterations.
 
 (e)(1) In no case may a veteran be required to pay all or any portion of the cost of the additional appraisal described in subsection (d)(3) of this section.
 
@@ -56,11 +56,11 @@ Another section 11(b) of Pub. L. 100–198 amended section 1810 \[now 3710\] of 
 
 #### Amendments
 
-1996—Subsec. (f)(3). Pub. L. 104–110 struck out par. (3) which read as follows: “The authority provided in this subsection shall terminate on December 31, 1995.”
+<b>1996</b>—Subsec. (f)(3). Pub. L. 104–110 struck out par. (3) which read as follows: “The authority provided in this subsection shall terminate on December 31, 1995.”
 
-1992—Subsec. (f)(3). Pub. L. 102–547 substituted “1995” for “1992”.
+<b>1992</b>—Subsec. (f)(3). Pub. L. 102–547 substituted “1995” for “1992”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1831 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1831 of this title as this section.
 
 Subsec. (f)(1). Pub. L. 102–83, §5(c)(1), substituted “3702(d)” for “1802(d)”.
 
@@ -68,9 +68,9 @@ Subsec. (f)(3). Pub. L. 102–54, §3(b), substituted “December 31, 1992” fo
 
 Subsec. (f)(4), (5). Pub. L. 102–54, §3(c), added pars. (4) and (5).
 
-1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1987—Subsec. (a)(1). Pub. L. 100–198, §11(a)(1), inserted “subject to subsection (b)(2) and” at beginning and “, including the successful completion of a written test, submission of a sample appraisal, certification of an appropriate number of years of experience as an appraiser, and submission of recommendations from other appraisers” before semicolon at end.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–198, §11(a)(1), inserted “subject to subsection (b)(2) and” at beginning and “, including the successful completion of a written test, submission of a sample appraisal, certification of an appropriate number of years of experience as an appraiser, and submission of recommendations from other appraisers” before semicolon at end.
 
 Subsec. (b). Pub. L. 100–198, §11(a)(2), designated existing provisions as par. (1) and added par. (2).
 

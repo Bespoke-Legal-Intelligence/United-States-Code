@@ -8,9 +8,9 @@
 
 #### Amendments
 
-1991—Pub. L. 102–83 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1991</b>—Pub. L. 102–83 substituted “Secretary” for “Administrator” wherever appearing.
 
-1986—Subsec. (b). Pub. L. 99–576 substituted “report to the Administrator” for “report to him”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–576 substituted “report to the Administrator” for “report to him”.
 
-1969—Subsec. (a). Pub. L. 91–24 substituted “the age of twenty-three years” for “the age of twenty-one years”.
+<b>1969</b>—Subsec. (a). Pub. L. 91–24 substituted “the age of twenty-three years” for “the age of twenty-one years”.
 

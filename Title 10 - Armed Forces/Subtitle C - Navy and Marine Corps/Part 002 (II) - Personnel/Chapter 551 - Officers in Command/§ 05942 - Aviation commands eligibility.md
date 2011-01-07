@@ -38,7 +38,7 @@ The last proviso of §8 of the Act of July 12, 1921, ch. 44 (34 U.S.C. 734), was
 
 #### Amendments
 
-1970—Subsec. (a). Pub. L. 91–198 substituted “naval flight officer” for “naval aviation observer”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–198 substituted “naval flight officer” for “naval aviation observer”.
 
 Subsecs. (b), (c). Pub. L. 91–198 inserted “or naval flight officer” after “naval aviator”.
 

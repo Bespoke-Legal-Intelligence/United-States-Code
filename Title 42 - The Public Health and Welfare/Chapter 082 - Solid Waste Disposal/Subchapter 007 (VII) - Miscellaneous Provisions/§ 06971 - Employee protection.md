@@ -42,7 +42,7 @@ The Occupational Safety and Health Act of 1970, referred to in subsec. (f), is P
 
 #### Amendments
 
-1980—Subsec. (f). Pub. L. 96–482 added subsec. (f).
+<b>1980</b>—Subsec. (f). Pub. L. 96–482 added subsec. (f).
 
 #### Transfer of Functions
 

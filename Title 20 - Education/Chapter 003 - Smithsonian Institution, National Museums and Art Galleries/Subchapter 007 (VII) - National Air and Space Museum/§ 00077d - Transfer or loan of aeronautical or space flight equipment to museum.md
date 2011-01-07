@@ -10,7 +10,7 @@ Section consists of subsec. (a) of section 5 of act Aug. 12, 1946. Subsec. (b) o
 
 #### Amendments
 
-1966—Pub. L. 89–509 inserted “and independent agencies” after “departments”, “and space” after “national air”, “spacecraft,” after “aircraft,”, “and spacecraft” after “aircraft” in phrase “aircraft parts”, and “and space flight” after “aeronautical”.
+<b>1966</b>—Pub. L. 89–509 inserted “and independent agencies” after “departments”, “and space” after “national air”, “spacecraft,” after “aircraft,”, “and spacecraft” after “aircraft” in phrase “aircraft parts”, and “and space flight” after “aeronautical”.
 
 #### Acceptance of Statue of General Mitchell
 

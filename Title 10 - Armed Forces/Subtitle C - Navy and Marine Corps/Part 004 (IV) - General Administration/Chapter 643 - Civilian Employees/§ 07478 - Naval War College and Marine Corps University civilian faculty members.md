@@ -40,11 +40,11 @@ In subsection (c) the words “except the authority to prescribe regulations” 
 
 #### Amendments
 
-1997—Pub. L. 105–85, §1109(b)(1), substituted “Marine Corps University” for “Marine Corps Command and Staff College” in section catchline.
+<b>1997</b>—Pub. L. 105–85, §1109(b)(1), substituted “Marine Corps University” for “Marine Corps Command and Staff College” in section catchline.
 
 Subsecs. (a), (c). Pub. L. 105–85, §1109(a), substituted “of the Marine Corps University” for “at the Marine Corps Command and Staff College”.
 
-1989—Pub. L. 101–189 substituted “Naval War College and Marine Corps Command and Staff College: civilian faculty members” for “Naval War College: employment of civilian professors; compensation” as section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1989</b>—Pub. L. 101–189 substituted “Naval War College and Marine Corps Command and Staff College: civilian faculty members” for “Naval War College: employment of civilian professors; compensation” as section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) The Secretary of the Navy may employ as many civilians as professors, instructors, and lecturers at the Naval War College as he considers necessary.
 

@@ -42,7 +42,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §306(h); added Nov. 3, 1973, Pu
 
 In subsection (a), the words “and to better accomplish the purposes of this chapter” and “modify its services to” are omitted as surplus. The words “a department, agency, or instrumentality of the United States Government” are substituted for “Federal departments and agencies” for consistency in the revised title and with other titles of the United States Code. The words “consistent with the provisions of existing law” are omitted as surplus.
 
-In subsection (b)(1), before clause (A), the words “A person primarily providing auto-ferry transportation and any other person not a rail carrier may provide” are substituted for “except that nothing contained in this chapter shall prevent any other person, other than a railroad (except that for purposes of this section a person primarily engaged in auto-ferry service shall not be deemed to be a railroad), from providing such” to eliminate unnecessary words. The text of 45:545(b) (2d sentence words after “the public”) is omitted as obsolete.
+In subsection (b)(1), before clause (A), the words “A person primarily providing auto-ferry transportation and any other person not a rail carrier may provide” are substituted for “except that nothing contained in this chapter shall prevent any other person, other than a railroad (except that for purposes of this section aperson primarily engaged in auto-ferry service shall not be deemed to be a railroad), from providing such” to eliminate unnecessary words. The text of 45:545(b) (2d sentence words after “the public”) is omitted as obsolete.
 
 In subsection (b)(2), the words “may provide” are substituted for “Nothing in this section shall be construed to restrict the right of . . . from performing” to eliminate unnecessary words and for clarity. The words “rail lines” are substituted for “lines” for clarity and consistency in the revised title and with other titles of the Code.
 
@@ -50,7 +50,7 @@ In subsection (b)(3), the words “has the effect of prohibiting or”, “fine,
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–134, §102(1), struck out at end “When requested by Amtrak, a department, agency, or instrumentality of the United States Government shall assist in carrying out this section.”
+<b>1997</b>—Subsec. (a). Pub. L. 105–134, §102(1), struck out at end “When requested by Amtrak, a department, agency, or instrumentality of the United States Government shall assist in carrying out this section.”
 
 Subsec. (b). Pub. L. 105–134, §102(2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-On 1st engaging in business and thereafter on or before July 1 of each year, every importer, manufacturer, and dealer in firearms shall pay a special (occupational) tax for each place of business at the following rates:
+On 1st engaging in business and thereafter on or before July 1 of each year, every importer,manufacturer, and dealer in firearms shall pay a special (occupational) tax for each place of business at the following rates:
 
 &emsp;(1) Importers and manufacturers: $1,000 a year or fraction thereof.
 
@@ -30,7 +30,7 @@ A prior section 5801, acts Aug. 16, 1954, ch. 736, 68A Stat. 721; Sept. 2, 1958,
 
 #### Amendments
 
-1987—Pub. L. 100–203 substituted “Imposition of tax” for “Tax” in section catchline and amended text generally. Prior to amendment, text read as follows: “On first engaging in business and thereafter on or before the first day of July of each year, every importer, manufacturer, and dealer in firearms shall pay a special (occupational) tax for each place of business at the following rates:
+<b>1987</b>—Pub. L. 100–203 substituted “Imposition of tax” for “Tax” in section catchline and amended text generally. Prior to amendment, text read as follows: “On first engaging in business and thereafter on or before the first day of July of each year, every importer, manufacturer, and dealer in firearms shall pay a special (occupational) tax for each place of business at the following rates:
 
 &emsp;“(1) Importers.—$500 a year or fraction thereof;
 

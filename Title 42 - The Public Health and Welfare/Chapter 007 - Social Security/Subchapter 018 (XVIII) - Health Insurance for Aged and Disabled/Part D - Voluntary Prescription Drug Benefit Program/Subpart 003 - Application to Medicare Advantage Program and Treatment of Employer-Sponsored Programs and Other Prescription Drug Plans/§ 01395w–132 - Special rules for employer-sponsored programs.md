@@ -12,7 +12,7 @@
 
 #### (A) Attestation of actuarial equivalence to standard coverage
 
-&emsp;&emsp;The sponsor of the plan provides the Secretary, annually or at such other time as the Secretary may require, with an attestation that the actuarial value of prescription drug coverage under the plan (as determined using the processes and methods described in section 1395w–111(c) of this title) is at least equal to the actuarial value of standard prescription drug coverage.
+&emsp;&emsp;The sponsor of the plan provides the Secretary, annually or at such other time as the Secretary may require, with an attestation that the actuarial value of prescription drug coverage under the plan (as determined using the processes and methods described in section 1395w–111(c) of this title) is at least equal to the actuarial value of standard prescription drug coverage, not taking into account the value of any discount or coverage provided during the gap in prescription drug coverage that occurs between the initial coverage limit under section 1395w–102(b)(3) of this title during the year and the out-of-pocket threshold specified in section 1395w–102(b)(4)(B) of this title.
 
 #### (B) Audits
 
@@ -114,11 +114,15 @@ For purposes of this section:
 
 &emsp;&emsp;Such a plan established and maintained for its employees (or their beneficiaries) by a church or by a convention or association of churches which is exempt from tax under section 501 of the Internal Revenue Code of 1986.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–22, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2125.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–22, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2125; amended Pub. L. 111–152, title I, §1101(b)(4), Mar. 30, 2010, 124 Stat. 1039.)
 
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (c)(3)(C), is classified generally to Title 26, Internal Revenue Code.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (a)(2)(A). Pub. L. 111–152 inserted before period at end “, not taking into account the value of any discount or coverage provided during the gap in prescription drug coverage that occurs between the initial coverage limit under section 1395w–102(b)(3) of this title during the year and the out-of-pocket threshold specified in section 1395w–102(b)(4)(B) of this title”.
 
 #### Study on Employment-Based Retiree Health Coverage
 
@@ -152,7 +156,7 @@ Contents of Final Study.—The final study under this section shall consider the
 
 &emsp;“(3) The number and characteristics of sponsors of employment-based retiree health coverage who receive the special subsidy payments under section 1860D–22 of the Social Security Act \[this section\], as added by section 101, for the provision of prescription drug coverage to their medicare-eligible retirees that is the same or greater actuarial value as the prescription drug coverage available to other medicare beneficiaries without employment-based retiree health coverage.
 
-&emsp;“(4) The extent to which sponsors of employment-based retiree health coverage provide supplementalhealth coverage or contribute to the premiums for medicare-eligible retirees who enroll in a prescription drug plan or an MA–PD plan.
+&emsp;“(4) The extent to which sponsors of employment-based retiree health coverage provide supplemental health coverage or contribute to the premiums for medicare-eligible retirees who enroll in a prescription drug plan or an MA–PD plan.
 
 &emsp;“(5) Other coverage options, including tax-preferred retirement or health savings accounts, consumer-directed health plans, or other vehicles that sponsors of employment-based retiree health coverage believe would assist retirees with their future health care needs and their willingness to sponsor such alternative plan designs.
 

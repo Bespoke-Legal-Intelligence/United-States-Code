@@ -20,7 +20,7 @@ The Secretary shall award grants to State educational agencies under this subpar
 
 #### (b) Selection criteria for eligible applicants
 
-The Secretary shall award grants to eligible applicants under this subpart on the basis of the quality of the applications submitted under section 7221b(c) of this title, after taking into consideration such factors as—
+The Secretary shall award grants to eligible applicants under this subpart on the basis of thequality of the applications submitted under section 7221b(c) of this title, after taking into consideration such factors as—
 
 &emsp;(1) the quality of the proposed curriculum and instructional practices;
 
@@ -64,7 +64,7 @@ The Secretary may waive any statutory or regulatory requirement over which the S
 
 #### (2) Eligible applicants
 
-&emsp;Each eligible applicant receiving funds from the Secretary or a State educational agencyshall use such funds to plan and implement a charter school, or to disseminate information about the charter school and successful practices in the charter school, in accordance with this subpart.
+&emsp;Each eligible applicant receiving funds from the Secretary or a State educational agency shall use such funds to plan and implement a charter school, or to disseminate information about the charter school and successful practices in the charter school, in accordance with this subpart.
 
 #### (3) Allowable activities
 

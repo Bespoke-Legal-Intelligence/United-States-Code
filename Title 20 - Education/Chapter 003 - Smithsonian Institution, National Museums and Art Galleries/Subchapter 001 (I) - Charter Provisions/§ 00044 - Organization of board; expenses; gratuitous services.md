@@ -10,5 +10,5 @@ R.S. §5582 derived from act Aug. 10, 1846, ch. 178, §3, 9 Stat. 103.
 
 #### Amendments
 
-1970—Pub. L. 91–551 increased number of members required to constitute a quorum from five to eight.
+<b>1970</b>—Pub. L. 91–551 increased number of members required to constitute a quorum from five to eight.
 

@@ -8,7 +8,7 @@ Notwithstanding section 101,<sup>1</sup> the level for “Corporation for Nation
 
 Section 101, referred to in text, is section 101 of title I of div. B of Pub. L. 109–289, as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 8. Subsec. (b) of section 101 is classified as a note under this section. Subsecs. (a) and (c) of section 101 are not classified to the Code.
 
-The Domestic Volunteer Service Act of 1973, referred to in text, is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Title I of the Act is classified generally to subchapter I (§4951 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables
+The Domestic Volunteer Service Act of 1973, referred to in text, is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Title I of the Act is classified generally to subchapter I (§4951 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 #### Codification
 

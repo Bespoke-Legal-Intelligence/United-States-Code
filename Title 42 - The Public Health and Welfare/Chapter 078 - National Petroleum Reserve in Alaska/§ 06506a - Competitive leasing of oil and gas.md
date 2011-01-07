@@ -112,7 +112,7 @@ The size of lease tracts may be up to sixty thousand acres, as determined by the
 
 #### (<i>l</i>) Receipts
 
-All receipts from sales, rentals, bonuses, and royalties on leases issued pursuant to this section shall be paid into the Treasury of theUnited States: <i>Provided</i>, That 50 percent thereof shall be paid by the Secretary of the Treasury semiannually, as soon thereafter as practicable after March 30 and September 30 each year, to the State of Alaska for: (1) planning; (2) construction, maintenance, and operation of essential public facilities; and (3) other necessary provisions of public service: <i>Provided further</i>, That in the allocation of such funds, the State shall give priority to use by subdivisions of the State most directly or severely impacted by development of oil and gas leased under this Act.
+All receipts from sales, rentals, bonuses, and royalties on leases issued pursuant to this section shall be paid into the Treasury of the United States: <i>Provided</i>, That 50 percent thereof shall be paid by the Secretary of the Treasury semiannually, as soon thereafter as practicable after March 30 and September 30 each year, to the State of Alaska for: (1) planning; (2) construction, maintenance, and operation of essential public facilities; and (3) other necessary provisions of public service: <i>Provided further</i>, That in the allocation of such funds, the State shall give priority to use by subdivisions of the State most directly or severely impacted by development of oil and gas leased under this Act.
 
 #### (m) Explorations
 
@@ -150,7 +150,7 @@ As soon as practicable after August 8, 2005, the Secretary shall issue regulatio
 
 &emsp;&emsp;(iii) the segregation of the lease described in clause (ii)(I) has no effect on the obligations of the lessee under either of the resulting leases, including obligations relating to operations, production, or other circumstances (other than payment of rentals or royalties); and
 
-&emsp;&emsp;(C) nothing in this subsection limits the authority of the Secretary of the Interior to manage the federally-owned surface estate within the Reserve.
+&emsp;&emsp;(C) nothing in this subsection limits the authority of the Secretary of the Interior tomanage the federally-owned surface estate within the Reserve.
 
 (Pub. L. 94–258, title I, §107, formerly Pub. L. 96–514, title I, Dec. 12, 1980, 94 Stat. 2964; Pub. L. 98–620, title IV, §402(41), Nov. 8, 1984, 98 Stat. 3360; Pub. L. 105–83, title I, §128, Nov. 14, 1997, 111 Stat. 1568; renumbered Pub. L. 94–258, title I, §107, and amended Pub. L. 109–58, title III, §347(a)(2), (b), Aug. 8, 2005, 119 Stat. 704.)
 
@@ -176,11 +176,11 @@ A prior section 107 of Pub. L. 94–258 was renumbered 108 and is classified to 
 
 #### Amendments
 
-2005—Pub. L. 109–58 amended section catchline and revised and restructured text into subsecs. (a) to (p). Amendments by Pub. L. 109–58, §347(b)(2) to (7), were executed by disregarding the second set of closed quotation marks in each such paragraph to reflect the probable intent of Congress. Prior to amendment, text related to competitive leasing of oil and gas and consisted of four undesignated pars.
+<b>2005</b>—Pub. L. 109–58 amended section catchline and revised and restructured text into subsecs. (a) to (p). Amendments by Pub. L. 109–58, §347(b)(2) to (7), were executed by disregarding the second set of closed quotation marks in each such paragraph to reflect the probable intent of Congress. Prior to amendment, text related to competitive leasing of oil and gas and consisted of four undesignated pars.
 
-1997—Pub. L. 105–83, in first par., substituted cls. (8) to (11) and two concluding provisos for “(8) each lease shall be issued for an initial period of up to ten years, and shall be extended for so long thereafter as oil or gas is produced from the lease in paying quantities, or as drilling or reworking operations, as approved by the Secretary, are conducted thereon; and (9) all receipts from sales, rentals, bonuses, and royalties on leases issued pursuant to this Act shall be paid into the Treasury of the United States: <i>Provided</i>, That 50 per centum thereof shall be paid by the Secretary of the Treasury semiannually, as soon as practicable after March 30 and September 30 each year, to the State of Alaska for (a) planning, (b) construction, maintenance, and operation of essential public facilities, and (c) other necessary provisions of public service: <i>Provided further</i>, That in the allocation of such funds, the State shall give priority to use by subdivisions of the State most directly or severely impacted by development of oil and gas leased under this Act.”
+<b>1997</b>—Pub. L. 105–83, in first par., substituted cls. (8) to (11) and two concluding provisos for “(8) each lease shall be issued for an initial period of up to ten years, and shall be extended for so long thereafter as oil or gas is produced from the lease in paying quantities, or as drilling or reworking operations, as approved by the Secretary, are conducted thereon; and (9) all receipts from sales, rentals, bonuses, and royalties on leases issued pursuant to this Act shall be paid into the Treasury of the United States: <i>Provided</i>, That 50 per centum thereof shall be paid by the Secretary of the Treasury semiannually, as soon as practicable after March 30 and September 30 each year, to the State of Alaska for (a) planning, (b) construction, maintenance, and operation of essential public facilities, and (c) other necessary provisions of public service: <i>Provided further</i>, That in the allocation of such funds, the State shall give priority to use by subdivisions of the State most directly or severely impacted by development of oil and gas leased under this Act.”
 
-1984—Pub. L. 98–620 struck out provision in third par. that required that any proceeding on such action be assigned for hearing at the earliest possible date and be expedited by the Court.
+<b>1984</b>—Pub. L. 98–620 struck out provision in third par. that required that any proceeding on such action be assigned for hearing at the earliest possible date and be expedited by the Court.
 
 #### Effective Date of 1984 Amendment
 

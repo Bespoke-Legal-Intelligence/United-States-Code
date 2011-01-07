@@ -84,13 +84,17 @@ The Federal share of assistance under this section shall be not less than 75 per
 
 (Pub. L. 93–288, title IV, §403, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4697; amended Pub. L. 109–295, title VI, §689(b), Oct. 4, 2006, 120 Stat. 1449; Pub. L. 109–308, §4, Oct. 6, 2006, 120 Stat. 1726.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(1) and (c)(1), (3), (5), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+
 #### Prior Provisions
 
 A prior section 403 of Pub. L. 93–288 was renumbered section 407 by Pub. L. 100–707 and is classified to section 5173 of this title.
 
 #### Amendments
 
-2006—Subsec. (a)(2), (3)(B). Pub. L. 109–295, §689(b)(1), (2)(A), inserted “durable medical equipment,” after “medicine”.
+<b>2006</b>—Subsec. (a)(2), (3)(B). Pub. L. 109–295, §689(b)(1), (2)(A), inserted “durable medical equipment,” after “medicine”.
 
 Subsec. (a)(3)(J). Pub. L. 109–295, §689(b)(2)(B)–(D), and Pub. L. 109–308 amended par. (3) identically, adding subpar. (J).
 

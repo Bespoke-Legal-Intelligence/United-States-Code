@@ -26,7 +26,7 @@ The Council shall consist of up to twenty-five members appointed by the Presiden
 
 &emsp;(1) citizens of the United States who are widely recognized for their broad knowledge of, or expertise in, science and technology, or their interest in the scientific and technological problems of developing countries;
 
-&emsp;(2) citizens of foreign countries who by their knowledge and expertise are capable of providing advice and guidance to the Institute on the application of science and technology to the problems of developing countries, except that not more than one-third of the membership of the Council shall consist of members who are citizens of foreign countries; and
+&emsp;(2) citizens of foreign countries who by their knowledge and expertise are capable of providing advice and guidance to the Institute on the application of science and technology to the problems of developing countries, except that not more than one-third of the membership ofthe Council shall consist of members who are citizens of foreign countries; and
 
 &emsp;(3) officials of the United States Government, except that not to exceed five members of the Council may be appointed under this paragraph, one of whom shall be the Secretary of State or his designee.
 

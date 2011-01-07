@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(C) the process of assembly or completion in the foreign country referred to in subparagraph (B) is minor or insignificant,
 
-&emsp;&emsp;(D) the value of the merchandise produced in the foreign country to which the antidumping duty order applies is a significant portion of the total value of the merchandise exported to the United States, and
+&emsp;&emsp;(D) the value of the merchandise produced in the foreign country to which the antidumping duty order applies is a significantportion of the total value of the merchandise exported to the United States, and
 
 &emsp;&emsp;(E) the administering authority determines that action is appropriate under this paragraph to prevent evasion of such order or finding,
 
@@ -150,7 +150,7 @@
 
 &emsp;Before making a determination—
 
-&emsp;&emsp;(A) under subsection (a) of this section with respect to merchandise completed or assembled in the United States (other than minor completion or assembly),
+&emsp;&emsp;(A) under subsection (a) of this section with respect to merchandise completed orassembled in the United States (other than minor completion or assembly),
 
 &emsp;&emsp;(B) under subsection (b) of this section with respect to merchandise completed or assembled in other foreign countries, or
 
@@ -180,7 +180,7 @@ Section 1303 of this title, referred to in subsecs. (a)(1)(A)(iii), (b)(1)(A)(ii
 
 #### Amendments
 
-1994—Subsecs. (a), (b). Pub. L. 103–465, §230(a), amended subsecs. (a) and (b) generally, to include provisions relating to whether process of assembly or completion of merchandise in United States or foreign countries is minor or insignificant.
+<b>1994</b>—Subsecs. (a), (b). Pub. L. 103–465, §230(a), amended subsecs. (a) and (b) generally, to include provisions relating to whether process of assembly or completion of merchandise in United States or foreign countries is minor or insignificant.
 
 Subsec. (f). Pub. L. 103–465, §230(b), added subsec. (f).
 

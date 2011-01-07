@@ -6,7 +6,7 @@ Organization.—The Maritime Administration is an administration in the Departme
 
 (b)
 
-Maritime Administrator.—The head of the Maritime Administration is the Maritime Administrator, who is appointed by the President by and with the advice and consent of the Senate. The Administrator shall report directly to the Secretary of Transportation and carry out the duties prescribed by the Secretary.
+Maritime Administrator.—The head of the Maritime Administration is the Maritime Administrator, who is appointed by the Presidentby and with the advice and consent of the Senate. The Administrator shall report directly to the Secretary of Transportation and carry out the duties prescribed by the Secretary.
 
 (c)
 
@@ -26,7 +26,7 @@ Interagency and Industry Relations.—The Secretary shall establish and maintain
 
 (g)
 
-Detailing Officers From Armed Forces.—To assist the Secretary in carrying outduties and powers relating to the Maritime Administration, not more than five officers of the armed forces may be detailed to the Secretary at any one time, in addition to details authorized by any other law. During the period of a detail, the Secretary shall pay the officer an amount that, when added to the officer's pay and allowances as an officer in the armed forces, makes the officer's total pay and allowances equal to the amount that would be paid to an individual performing work the Secretary considers to be of similar importance, difficulty, and responsibility as that performed by the officer during the detail.
+Detailing Officers From Armed Forces.—To assist the Secretary in carrying out duties and powers relating to the Maritime Administration, not more than five officers of the armed forces may be detailed to the Secretary at any one time, in addition to details authorized by any other law. During the period of a detail, the Secretary shall pay the officer an amount that, when added to the officer's pay and allowances as an officer in the armed forces, makes the officer's total pay and allowances equal to the amount that would be paid to an individual performing work the Secretary considers to be of similar importance, difficulty, and responsibility as that performed by the officer during the detail.
 
 (h)
 
@@ -82,7 +82,7 @@ Limitations.—Only those amounts specifically authorized by law may be appropri
 
 Training Vessels.—Amounts may not be appropriated for the purchase or construction of training vessels for State maritime academies unless the Secretary has approved a plan for sharing training vessels between State maritime academies.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2417; Pub. L. 103–272, §5(m)(5), July 5, 1994, 108 Stat. 1375; Pub. L. 109–304, §12, Oct. 6, 2006, 120 Stat. 1698; Pub. L. 111–84, div. C, title XXXV, §3508, Oct. 28, 2009, 123 Stat. 2721.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2417; Pub. L. 103–272, §5(m)(5), July 5, 1994, 108 Stat. 1375; Pub. L. 109–304, §12, Oct. 6, 2006, 120 Stat. 1698; Pub. L. 111–84, div. C, title XXXV, §3508, Oct. 28, 2009, 123 Stat. 2721; Pub. L. 111–383, div. A, title X, §1075(d)(26), Jan. 7, 2011, 124 Stat. 4374.)
 
 Historical and Revision Notes
 
@@ -100,7 +100,7 @@ Pub. L. 97–449
 
 (no source).
 
-The section is included to provide in chapter 1 of the revised title a complete list of the organizational units established by law that are in the Department of Transportation or are subject to the direction and supervision of the Secretary of Transportation.
+The section is included to provide in chapter 1 of the revised title a complete list of the organizational unitsestablished by law that are in the Department of Transportation or are subject to the direction and supervision of the Secretary of Transportation.
 
 Pub. L. 109–304
 
@@ -208,7 +208,9 @@ In subsection (i)(2), the words “Notwithstanding any other provision of this c
 
 #### Amendments
 
-2009—Subsec. (h). Pub. L. 111–84, §3508(1), substituted “Contracts, Cooperative Agreements, and Audits” for “Contracts and Audits” in heading.
+<b>2011</b>—Subsec. (h). Pub. L. 111–383 made technical amendment to directory language of Pub. L. 111–84, §3508(1). See 2009 Amendment note below.
+
+<b>2009</b>—Subsec. (h). Pub. L. 111–84, §3508(1), as amended by Pub. L. 111–383, substituted “Contracts, Cooperative Agreements, and Audits” for “Contracts and Audits” in heading.
 
 Subsec. (h)(1). Pub. L. 111–84, §3508(2), (3), substituted “Contracts and cooperative agreements” for “Contracts” in heading and “make contracts and cooperative agreements” for “make contracts” in introductory provisions.
 
@@ -216,17 +218,21 @@ Subsec. (h)(1)(A). Pub. L. 111–84, §3508(4), (5), substituted “section,” 
 
 Subsecs. (i), (j). Pub. L. 111–84, §3508(6), added subsec. (i) and redesignated former subsec. (i) as (j).
 
-2006—Pub. L. 109–304 amended section generally. Prior to amendment, section read as follows:
+<b>2006</b>—Pub. L. 109–304 amended section generally. Prior to amendment, section read as follows:
 
 “(a) The Maritime Administration transferred by section 2 of the Maritime Act of 1981 (46 App. U.S.C. 1601) is an administration in the Department of Transportation.
 
 “(b) The Administrator of the Administration appointed under section 4 of the Maritime Act of 1981 (46 App. U.S.C. 1603) reports directly to the Secretary of Transportation.”
 
-1994—Pub. L. 103–272 inserted “App.” after “(46” in subsecs. (a) and (b).
+<b>1994</b>—Pub. L. 103–272 inserted “App.” after “(46” in subsecs. (a) and (b).
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–383, div. A, title X, §1075(d), Jan. 7, 2011, 124 Stat. 4372, provided that the amendment by section 1075(d)(26) is effective as of Oct. 28, 2009, and as if included in Pub. L. 111–84 as enacted.
 
 #### References in Other Federal Laws to Functions or Offices Transferred
 
-Pub. L. 97–31, §10, Aug. 6, 1981, 95 Stat. 153, provided that: “With respect to any function or office transferred by this Act \[see Tables for classification\] and exercised on or after the effective date of this Act \[Aug. 6, 1981\], reference in any other Federal law to the Maritime Administration or any of its predecessor agencies or any officer or office the functions of which are so transferred shall be deemed to refer to the Secretary of Transportation, other official, or component of the Department of Transportation to which this Act transfers such functions.”
+Pub. L. 97–31, §10, Aug. 6, 1981, 95 Stat. 153, provided that: “With respect to any function or office transferred by this Act \[see Tables for classification\] and exercised on or after the effective date of this Act \[Aug.6, 1981\], reference in any other Federal law to the Maritime Administration or any of its predecessor agencies or any officer or office the functions of which are so transferred shall be deemed to refer to the Secretary of Transportation, other official, or component of the Department of Transportation to which this Act transfers such functions.”
 
 #### Expansion of the Marine View System
 

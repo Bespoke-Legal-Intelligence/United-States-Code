@@ -38,7 +38,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;&emsp;(I) the Metropolitan Police or the Fire Department of the District of Columbia; or
 
-&emsp;&emsp;&emsp;(II) a member of the United States Secret Service Uniformed Division, a member of the United States Park Police, other than for purposes of section <sup>1</sup> 5545(a) and 5546;
+&emsp;&emsp;&emsp;(II) a member of the United States Park Police, other than for purposes of section <sup>1</sup> 5545(a) and 5546;
 
 &emsp;&emsp;(v) a student-employee as defined by section 5351 of this title;
 
@@ -80,7 +80,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;&emsp;(ii) is a special agent in the Diplomatic Security Service.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 485; Pub. L. 90–83, §1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–375, §6(c)(16), Aug. 12, 1970, 84 Stat. 776; Pub. L. 92–392, §4, Aug. 14, 1972, 86 Stat. 573; Pub. L. 94–183, §2(22), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–105, title IV, §412(a)(1), Aug. 17, 1977, 91 Stat. 855; Pub. L. 95–426, title II, §204(b)(5)(B), Oct. 7, 1978, 92 Stat. 974; Pub. L. 95–454, title IV, §408(a)(2), Oct. 13, 1978, 92 Stat. 1173; Pub. L. 96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–465, title II, §2304, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–325, §2(i)(1), May 30, 1988, 102 Stat. 582; Pub. L. 101–509, title V, §529 \[title IV, §411(a)\], Nov. 5, 1990, 104 Stat. 1427, 1469; Pub. L. 102–378, §2(40)(A)–(C), Oct. 2, 1992, 106 Stat. 1351; Pub. L. 104–201, div. C, title XXXV, §3548(a)(6), Sept. 23, 1996, 110 Stat. 2869; Pub. L. 110–181, div. A, title XI, §1111(b), Jan. 28, 2008, 122 Stat. 360.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 485; Pub. L. 90–83, §1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–375, §6(c)(16), Aug. 12, 1970, 84 Stat. 776; Pub. L. 92–392, §4, Aug. 14, 1972, 86 Stat. 573; Pub. L. 94–183, §2(22), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–105, title IV, §412(a)(1), Aug. 17, 1977, 91 Stat. 855; Pub. L. 95–426, title II, §204(b)(5)(B), Oct. 7, 1978, 92 Stat. 974; Pub. L. 95–454, title IV, §408(a)(2), Oct. 13, 1978, 92 Stat. 1173; Pub. L. 96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–465, title II, §2304, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–325, §2(i)(1), May 30, 1988, 102 Stat. 582; Pub. L. 101–509, title V, §529 \[title IV, §411(a)\], Nov. 5, 1990, 104 Stat. 1427, 1469; Pub. L. 102–378, §2(40)(A)–(C), Oct. 2, 1992, 106 Stat. 1351; Pub. L. 104–201, div. C, title XXXV, §3548(a)(6), Sept. 23, 1996, 110 Stat. 2869; Pub. L. 110–181, div. A, title XI, §1111(b), Jan. 28, 2008, 122 Stat. 360; Pub. L. 111–282, §4(c)(2), Oct. 15, 2010, 124 Stat. 3043.)
 
 Historical and Revision Notes
 
@@ -140,6 +140,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
+2010—Par. (2)(iv)(II). Pub. L. 111–282 struck out “a member of the United States Secret Service Uniformed Division,” before “a member of the United States Park Police”.
+
 2008—Par. (2)(xi). Pub. L. 110–181 substituted “section 5544 or 5550b” for “section 5544”.
 
 1996—Par. (2)(xii). Pub. L. 104–201 inserted “or” after “Services Administration,” and struck out “, or a vessel employee of the Panama Canal Commission” after “Interior”.
@@ -152,7 +154,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1980—Par. (2)(xiv). Pub. L. 96–465 struck out “within the meaning of section 401 of the Foreign Service Act of 1946” after “officer”.
 
-Par. (2)(xv). Pub. L. 96–465 substituted “a member of the Senior Foreign Service” for “a ‘Foreign Service information officer’ as provided for by the first section of the Act entitled ‘An Act to promote the foreign policyof the United States by strengthening and improving the Foreign Service personnel system of the International Communication Agency through establishment of a Foreign Service Information Officer Corps’, approved August 20, 1968”.
+Par. (2)(xv). Pub. L. 96–465 substituted “a member of the Senior Foreign Service” for “a ‘Foreign Service information officer’ as provided for by the first section of the Act entitled ‘An Act to promote the foreign policy of the United States by strengthening and improving the Foreign Service personnel system of the International Communication Agency through establishment of a Foreign Service Information Officer Corps’, approved August 20, 1968”.
 
 1979—Par. (2)(xii). Pub. L. 96–70 substituted “Commission” for “Company”.
 
@@ -169,6 +171,10 @@ Par. (2)(xv). Pub. L. 95–426 substituted “International Communication Agency
 1970—Par. (2)(vi). Pub. L. 91–375 repealed cl. (vi) which excluded an employee in the postal field service from definition of “employee”.
 
 1967—Par. (2)(xii). Pub. L. 90–83 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”. See Historical and Revision Notes under section 2101 of this title.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–282 effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as a note under section 5102 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -217,8 +223,6 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 Pub. L. 103–329, title VI, §633(a), Sept. 30, 1994, 108 Stat. 2425, provided that: “This section \[enacting section 5545a of this title, amending sections 5542 and 5547 of this title and section 213 of Title 29, Labor, and enacting provisions set out as notes under section 5545a of this title\] may be cited as the ‘Law Enforcement Availability Pay Act of 1994’.”
 
 #### Transfer of Functions
-
-For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to this title, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpended balances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau \[now National Weather Service\], Coast and Geodetic Survey \[now National Ocean Survey\], Environmental Data Service, National Environmental Satellite Center, and ESSA Research Laboratories.
 

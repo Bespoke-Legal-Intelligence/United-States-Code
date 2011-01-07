@@ -6,7 +6,7 @@ In carrying out this subchapter, the Secretary of Agriculture shall utilize info
 
 #### Amendments
 
-1976—Pub. L. 94–588, §10, inserted “and on the date of enactment of any legislation amendatory or supplementary thereto”.
+<b>1976</b>—Pub. L. 94–588, §10, inserted “and on the date of enactment of any legislation amendatory or supplementary thereto”.
 
 #### Transfer of Functions
 

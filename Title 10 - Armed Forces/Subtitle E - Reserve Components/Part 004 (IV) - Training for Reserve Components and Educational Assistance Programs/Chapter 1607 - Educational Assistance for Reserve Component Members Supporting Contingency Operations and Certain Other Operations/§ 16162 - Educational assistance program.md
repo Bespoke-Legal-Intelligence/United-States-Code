@@ -70,11 +70,11 @@ Contributions for Increased Amount of Educational Assistance.—(1)(A) Any indiv
 
 #### Amendments
 
-2008—Subsec. (c)(4)(C). Pub. L. 110–181, §528(c)(1), substituted “for—” for “for two continuous years or more.” and added cls. (i) and (ii).
+<b>2008</b>—Subsec. (c)(4)(C). Pub. L. 110–181, §528(c)(1), substituted “for—” for “for two continuous years or more.” and added cls. (i) and (ii).
 
 Subsec. (f). Pub. L. 110–181, §528(c)(2), added subsec. (f).
 
-2006—Subsec. (e). Pub. L. 109–163 added subsec. (e).
+<b>2006</b>—Subsec. (e). Pub. L. 109–163 added subsec. (e).
 
 #### Effective Date of 2006 Amendment
 

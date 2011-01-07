@@ -8,13 +8,13 @@
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–454 inserted reference to Guam, American Samoa, and the Northern Mariana Islands in two places.
+<b>1984</b>—Subsec. (a). Pub. L. 98–454 inserted reference to Guam, American Samoa, and the Northern Mariana Islands in two places.
 
-1960—Subsec. (a). Pub. L. 86–624 substituted “States, the Commonwealth of Puerto Rico” for “States, the Territory of Hawaii, and the possessions of Puerto Rico”, and struck out “Hawaii” from definition of “State”.
+<b>1960</b>—Subsec. (a). Pub. L. 86–624 substituted “States, the Commonwealth of Puerto Rico” for “States, the Territory of Hawaii, and the possessions of Puerto Rico”, and struck out “Hawaii” from definition of “State”.
 
-1959—Subsec. (a). Pub. L. 86–70 substituted “the States, the Territory of Hawaii,” for “the United States, the Territories of Alaska and Hawaii”, and struck out “Alaska,” after “the term ‘State’ includes”.
+<b>1959</b>—Subsec. (a). Pub. L. 86–70 substituted “the States, the Territory of Hawaii,” for “the United States, the Territories of Alaska and Hawaii”, and struck out “Alaska,” after “the term ‘State’ includes”.
 
-1947—Subsec. (a). Act July 26, 1947, included the Virgin Islands.
+<b>1947</b>—Subsec. (a). Act July 26, 1947, included the Virgin Islands.
 
 #### Repeals
 

@@ -2,7 +2,7 @@
 
 #### (a) Prohibition on use of means of interstate commerce for solicitation of proxies
 
-It shall be unlawful for any person, by use of the mails or any means or instrumentality ofinterstate commerce or otherwise, to solicit or to permit the use of his name to solicit any proxy or consent or authorization in respect of any security of which a registered investment company is the issuer in contravention of such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
+It shall be unlawful for any person, by use of the mails or any means or instrumentality of interstate commerce or otherwise, to solicit or to permit the use of his name to solicit any proxy or consent or authorization in respect of any security of which a registered investment company is the issuer in contravention of such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
 #### (b) Prohibition on use of means of interstate commerce for sale of voting-trust certificates
 
@@ -24,9 +24,9 @@ If cross-ownership or circular ownership between a registered investment company
 
 #### Amendments
 
-1987—Subsec. (b). Pub. L. 100–181, §614(1), struck out at end “The prohibitions of this subsection shall not apply to a class of voting-trust certificates, if any certificate of such class was made the subject of a public offering by the issuer or by or through an underwriter prior to March 15, 1940.”
+<b>1987</b>—Subsec. (b). Pub. L. 100–181, §614(1), struck out at end “The prohibitions of this subsection shall not apply to a class of voting-trust certificates, if any certificate of such class was made the subject of a public offering by the issuer or by or through an underwriter prior to March 15, 1940.”
 
-Subsec. (d). Pub. L. 100–181, §614(2), (3), struck out first sentence “If on the effective date of this subchapter cross-ownership or circular ownership exists between a registered investment company and any other company or companies, it shall be the duty of such registered company, within five years after such effective date, to eliminate such cross-ownership or circular ownership.” and “at any time after the effective date of this subchapter” after “If” in second sentence.
+Subsec. (d). Pub. L. 100–181, §614(2), (3), struck out first sentence “If on the effective date of this subchapter cross-ownership or circular ownership exists between a registered investment company and anyother company or companies, it shall be the duty of such registered company, within five years after such effective date, to eliminate such cross-ownership or circular ownership.” and “at any time after the effective date of this subchapter” after “If” in second sentence.
 
 #### Transfer of Functions
 

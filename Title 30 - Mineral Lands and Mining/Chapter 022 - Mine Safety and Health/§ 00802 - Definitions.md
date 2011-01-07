@@ -6,7 +6,7 @@ For the purpose of this chapter, the term—
 
 &emsp;(b) “commerce” means trade, traffic, commerce, transportation, or communication among the several States, or between a place in a State and any place outside thereof, or within the District of Columbia or a possession of the United States, or between points in the same State but through a point outside thereof;
 
-&emsp;(c) “State” includes a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands,American Samoa, Guam, and the Trust Territory of the Pacific Islands;
+&emsp;(c) “State” includes a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Trust Territory of the Pacific Islands;
 
 &emsp;(d) “operator” means any owner, lessee, or other person who operates, controls, or supervises a coal or other mine or any independent contractor performing services or construction at such mine;
 
@@ -42,7 +42,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1977—Par. (a). Pub. L. 95–164, §102(b)(1), substituted “Secretary of Labor” for “Secretary of the Interior”.
+<b>1977</b>—Par. (a). Pub. L. 95–164, §102(b)(1), substituted “Secretary of Labor” for “Secretary of the Interior”.
 
 Par. (d). Pub. L. 95–164, §102(b)(2), (4), substituted “supervises a coal or other mine or any independent contractor performing services or construction at such mine” for “supervises a coal mine”.
 

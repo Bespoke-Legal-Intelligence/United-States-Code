@@ -10,7 +10,7 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 
 #### Amendments
 
-1938—Act June 25, 1938, amended section generally.
+<b>1938</b>—Act June 25, 1938, amended section generally.
 
 #### Effective Date of 1938 Amendment
 

@@ -1,12 +1,12 @@
 ### §1962. Congressional statement of policy
 
-In order to meet the rapidly expanding demands for water throughout the Nation, it is hereby declared to be the policy of the Congress to encourage the conservation, development,and utilization of water and related land resources of the United States on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprise with the cooperation of all affected Federal agencies, States, local governments, individuals, corporations, business enterprises, and others concerned.
+In order to meet the rapidly expanding demands for water throughout the Nation, it is hereby declared to be the policy of the Congress to encourage the conservation, development, and utilization of water and related land resources of the United States on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprise with the cooperation of all affected Federal agencies, States, local governments, individuals, corporations, business enterprises, and others concerned.
 
 (Pub. L. 89–80, §2, July 22, 1965, 79 Stat. 244.)
 
 #### Short Title of 1974 Amendment
 
-Pub. L. 93–251, title I, §109, Mar. 16, 1974, 88 Stat. 49, provided that: “This title \[enacting sections 1962d–5c and 1962d–15 to 1962d–17 of this title, section 460ee of Title 16, Conservation, and sections 50c–2, 50k, 579, 701b–11, and 1252a of Title 33, Navigation and Navigable Waters, amending section 4482 of this title, sections 460<i>l</i>–13(a), (a)(3) and 460<i>l</i>–14(b)(1) of Title 16, section 275a of Title 22, Foreign Relations and Intercourse, and sections 701g, 701n, 701r, 701r–1(c), 701s, 709a(b), and 1165a(d) of Title 33, and enacting provisions set out as notes under sections 1962d–5 and 1962d–7 of this title and section 460<i>l</i>–13 of Title 16\] may be cited as the ‘Water Resources Development Act of 1974’.”
+Pub. L. 93–251, title I, §109, Mar. 16, 1974, 88 Stat. 49, provided that: “This title \[enacting sections 1962d–5c and 1962d–15 to 1962d–17 of this title, section 460ee of Title 16, Conservation, and sections 50c–2, 50k, 579, 701b–11, and 1252a of Title 33, Navigation and NavigableWaters, amending section 4482 of this title, sections 460<i>l</i>–13(a), (a)(3) and 460<i>l</i>–14(b)(1) of Title 16, section 275a of Title 22, Foreign Relations and Intercourse, and sections 701g, 701n, 701r, 701r–1(c), 701s, 709a(b), and 1165a(d) of Title 33, and enacting provisions set out as notes under sections 1962d–5 and 1962d–7 of this title and section 460<i>l</i>–13 of Title 16\] may be cited as the ‘Water Resources Development Act of 1974’.”
 
 #### Short Title
 
@@ -142,7 +142,7 @@ In general.—For purposes of the program, the Secretary shall designate as prio
 
 &emsp;“(2)
 
-Additional aquifers.—The Secretary may, using the criteria under subsection (b)(1)(A), evaluate and designate additional priority transboundary aquifers which underlie New Mexico or Texas.
+Additional aquifers.—The Secretary may, using the criteria under subsection (b)(1)(A), evaluateand designate additional priority transboundary aquifers which underlie New Mexico or Texas.
 
 “(d)
 

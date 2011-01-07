@@ -10,7 +10,7 @@ Standard Requirements.—The standard under this section shall be practicable an
 
 (c)
 
-Voluntary Compliance.—Compliance with the standard under this section is voluntary.Failure to comply does not subject a person to a penalty or enforcement under this chapter.
+Voluntary Compliance.—Compliance with the standard under this section is voluntary. Failure to comply does not subject a person to a penalty or enforcement under this chapter.
 
 (d)
 

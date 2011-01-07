@@ -46,7 +46,7 @@ A civil penalty of not more than $25,000 per day for each day during which the v
 
 &emsp;(5) Any failure or refusal referred to in section 9622(<i>l</i>) of this title (relating to violations of administrative orders, consent decrees, or agreements under section 9620 of this title).
 
-> In the case of a second or subsequent violation the amount of such penalty may be not more than $75,000 for each day during which the violation continues. Any civil penalty under this subsection shall be assessed and collected in the same manner, and subject to the same provisions, as in the case of civil penalties assessed and collected after notice and opportunity for hearing on the record in accordance with section 554 of title 5. In any proceeding for the assessment of a civil penalty under this subsection the President may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents and may promulgate rules for discovery procedures. Any person who requested a hearing with respect to a civil penalty under this subsection and who is aggrieved by an order assessing the civil penalty may file a petition for judicial review of such order with the United States Courtof Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business. Such a petition may only be filed within the 30-day period beginning on the date the order making such assessment was issued.
+> In the case of a second or subsequent violation the amount of such penalty may be not more than $75,000 for each day during which the violation continues. Any civil penalty under this subsection shall be assessed and collected in the same manner, and subject to the same provisions, as in the case of civil penalties assessed and collected after notice and opportunity for hearing on the record in accordance with section 554 of title 5. In any proceeding for the assessment of a civil penalty under this subsection the President may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents and may promulgate rules for discovery procedures. Any person who requested a hearing with respect to a civil penalty under this subsection and who is aggrieved by an order assessing the civil penalty may file a petition for judicial review of such order with the United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business. Such a petition may only be filed within the 30-day period beginning on the date the order making such assessment was issued.
 
 #### (c) Judicial assessment
 
@@ -78,9 +78,13 @@ Action taken by the President pursuant to this section shall not affect or limit
 
 (Pub. L. 96–510, title I, §109, Dec. 11, 1980, 94 Stat. 2787; Pub. L. 99–499, title I, §109(c), Oct. 17, 1986, 100 Stat. 1633.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (d) to (f), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+
 #### Amendments
 
-1986—Pub. L. 99–499 amended section generally. Prior to amendment, section read as follows: “Any person who, after notice and an opportunity for a hearing, is found to have failed to comply with the requirements of section 9608 of this title, the regulations issued thereunder, or with any denial or detention order shall be liable to the United States for a civil penalty, not to exceed $10,000 for each day of violation.”
+<b>1986</b>—Pub. L. 99–499 amended section generally. Prior to amendment, section read as follows: “Any person who, after notice and an opportunity for a hearing, is found to have failed to comply with the requirements of section 9608 of this title, the regulations issued thereunder, or with any denial or detention order shall be liable to the United States for a civil penalty, not to exceed $10,000 for each day of violation.”
 
 #### Coordination of Titles I to IV of Pub. L. 99–499
 

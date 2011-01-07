@@ -54,11 +54,11 @@ A prior section 7310, added Pub. L. 97–295, §1(49)(A), Oct. 12, 1982, 96 Stat
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–417 added subsec. (c).
+<b>2008</b>—Subsec. (c). Pub. L. 110–417 added subsec. (c).
 
-2006—Subsec. (a). Pub. L. 109–364 inserted “or Guam” after “United States” in heading and after “in the United States” in text.
+<b>2006</b>—Subsec. (a). Pub. L. 109–364 inserted “or Guam” after “United States” in heading and after “in the United States” in text.
 
-1996—Subsec. (a). Pub. L. 104–106 inserted “or Guam” after “outside the United States”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106 inserted “or Guam” after “outside the United States”.
 
-1993—Subsec. (b). Pub. L. 103–160, §367, amended subsec. (b) generally, designating existing provisions as par. (1) and adding par. (2).
+<b>1993</b>—Subsec. (b). Pub. L. 103–160, §367, amended subsec. (b) generally, designating existing provisions as par. (1) and adding par. (2).
 

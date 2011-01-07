@@ -68,7 +68,7 @@ For purposes of this section, the term “qualified debt instrument” means any
 
 &emsp;&emsp;&emsp;(ii) the CPI for calendar year 1988.
 
-> &emsp;&emsp;For purposes of the preceding sentence, the CPI for any calendar year is the average of the Consumer Price Index as of the close ofthe 12-month period ending on September 30 of such calendar year.
+> &emsp;&emsp;For purposes of the preceding sentence, the CPI for any calendar year is the average of the Consumer Price Index as of the close of the 12-month period ending on September 30 of such calendar year.
 
 #### (e) Regulations
 
@@ -92,9 +92,9 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 
 #### Amendments
 
-1996—Subsec. (c)(1)(B). Pub. L. 104–188 substituted “instrument” for “instument”.
+<b>1996</b>—Subsec. (c)(1)(B). Pub. L. 104–188 substituted “instrument” for “instument”.
 
-1990—Subsec. (b). Pub. L. 101–508 inserted “, as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990” after “section 48(b)”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–508 inserted “, as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990” after “section 48(b)”.
 
 #### Effective Date of 1990 Amendment
 
@@ -112,33 +112,35 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
-2010—Revenue Ruling 2010–2.
+<b>2011</b>—Revenue Ruling 2010–30.
 
-2009—Revenue Ruling 2008–52.
+<b>2010</b>—Revenue Ruling 2010–2.
 
-2008—Revenue Ruling 2008–3.
+<b>2009</b>—Revenue Ruling 2008–52.
 
-2007—Revenue Ruling 2007–4.
+<b>2008</b>—Revenue Ruling 2008–3.
 
-2006—Revenue Ruling 2005–76.
+<b>2007</b>—Revenue Ruling 2007–4.
 
-2005—Revenue Ruling 2004–107.
+<b>2006</b>—Revenue Ruling 2005–76.
 
-2004—Revenue Ruling 2003–119.
+<b>2005</b>—Revenue Ruling 2004–107.
 
-2003—Revenue Ruling 2002–79.
+<b>2004</b>—Revenue Ruling 2003–119.
 
-2002—Revenue Ruling 2001–65.
+<b>2003</b>—Revenue Ruling 2002–79.
 
-2001—Revenue Ruling 2000–55.
+<b>2002</b>—Revenue Ruling 2001–65.
 
-2000—Revenue Ruling 99–50.
+<b>2001</b>—Revenue Ruling 2000–55.
 
-1999—Revenue Ruling 98–58.
+<b>2000</b>—Revenue Ruling 99–50.
 
-1998—Revenue Ruling 97–56.
+<b>1999</b>—Revenue Ruling 98–58.
 
-1997—Revenue Ruling 96–63.
+<b>1998</b>—Revenue Ruling 97–56.
 
-1996—Revenue Ruling 96–4.
+<b>1997</b>—Revenue Ruling 96–63.
+
+<b>1996</b>—Revenue Ruling 96–4.
 

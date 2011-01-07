@@ -30,7 +30,7 @@ Notwithstanding section 6013(d)(3)—
 
 #### (2) Apportionment of relief
 
-&emsp;If an individual who, but for paragraph (1)(C), would be relieved of liability under paragraph (1), establishes that in signing the return such individual did not know, and had no reason to know, the extent of such understatement, then such individual shall be relieved of liability for tax (including interest, penalties, and other amounts) for such taxableyear to the extent that such liability is attributable to the portion of such understatement of which such individual did not know and had no reason to know.
+&emsp;If an individual who, but for paragraph (1)(C), would be relieved of liability under paragraph (1), establishes that in signing the return such individual did not know, and had no reason to know, the extent of such understatement, then such individual shall be relieved of liability for tax (including interest, penalties, and other amounts) for such taxable year to the extent that such liability is attributable to the portion of such understatement of which such individual did not know and had no reason to know.
 
 #### (3) Understatement
 
@@ -92,7 +92,7 @@ Notwithstanding section 6013(d)(3)—
 
 #### (II) Exceptions
 
-&emsp;&emsp;&emsp;&emsp;Subclause (I) shall not apply to any transfer pursuant to a decree of divorce or separate maintenance or a written instrument incident to such a decree or to any transfer which an individual establishes did not have as its principal purpose the avoidance of tax or payment of tax.
+&emsp;&emsp;&emsp;&emsp;Subclause (I) shall not apply to any transfer pursuant to a decree of divorce or separate maintenance or a written instrument incident to such a decree or toany transfer which an individual establishes did not have as its principal purpose the avoidance of tax or payment of tax.
 
 #### (d) Allocation of deficiency
 
@@ -228,7 +228,7 @@ A prior section 6015, acts Aug. 16, 1954, ch. 736, 68A Stat. 737; Sept. 2, 1958,
 
 #### Amendments
 
-2006—Subsec. (e)(1). Pub. L. 109–432, §408(a), inserted “, or in the case of an individual who requests equitable relief under subsection (f)” after “apply” in introductory provisions.
+<b>2006</b>—Subsec. (e)(1). Pub. L. 109–432, §408(a), inserted “, or in the case of an individual who requests equitable relief under subsection (f)” after “apply” in introductory provisions.
 
 Subsec. (e)(1)(A)(i)(II). Pub. L. 109–432, §408(b)(1), inserted “or request is made” after “filed”.
 
@@ -244,7 +244,7 @@ Subsec. (g)(2). Pub. L. 109–432, §408(b)(6), inserted “or of any request fo
 
 Subsec. (h)(2). Pub. L. 109–432, §408(b)(7), inserted “or a request for equitable relief made under subsection (f)” after “subsection (b) or (c)”.
 
-2000—Subsec. (c)(3)(B). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(1)\], substituted “may be made at any time after a deficiency for such year is asserted but” for “shall be made”.
+<b>2000</b>—Subsec. (c)(3)(B). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(1)\], substituted “may be made at any time after a deficiency for such year is asserted but” for “shall be made”.
 
 Subsec. (e)(1). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(3)(A)\], inserted “against whom a deficiency has been asserted and” after “individual” in introductory provisions.
 
@@ -260,7 +260,7 @@ Subsec. (e)(5). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(3)(D)(i)\], a
 
 Subsecs. (g), (h). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(2)(A)\], added subsec. (g) and redesignated former subsec. (g) as (h).
 
-1998—Subsec. (e)(3)(A). Pub. L. 105–277 substituted “of subsection (b) or (f)” for “of this section”.
+<b>1998</b>—Subsec. (e)(3)(A). Pub. L. 105–277 substituted “of subsection (b) or (f)” for “of this section”.
 
 #### Effective Date of 2006 Amendment
 

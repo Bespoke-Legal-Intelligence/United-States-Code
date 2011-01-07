@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) may, in order to defray collection costs—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) charge to the borrower an amount not to exceed 18.5 percent ofthe outstanding principal and interest at the time of the loan sale; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) charge to the borrower an amount not to exceed 18.5 percent of the outstanding principal and interest at the time of the loan sale; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) retain such amount from the proceeds of the loan sale; and
 
@@ -92,7 +92,7 @@ Title IV, referred to in subsec. (b), means title IV of the Higher Education Act
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–39, §402(d)(1)(A)(i), amended par. (1) generally. Prior to amendment, par. (1) related to the sale of a loan by a guaranty agency or the Secretary.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–39, §402(d)(1)(A)(i), amended par. (1) generally. Prior to amendment, par. (1) related to the sale of a loan by a guaranty agency or the Secretary.
 
 Subsec. (a)(2). Pub. L. 111–39, §402(d)(1)(A)(ii), substituted “paragraph (1)(A)(i)” for “paragraph (1) of this subsection” and “paragraph (1)(D)(ii)(I)” for “paragraph (1)(B)(ii) of this subsection”.
 
@@ -106,31 +106,31 @@ Subsec. (a)(5). Pub. L. 111–39, §402(d)(1)(A)(v), inserted “(whether by loa
 
 Subsec. (b). Pub. L. 111–39, §402(d)(1)(B), inserted “or assigned to the Secretary” after “sold to an eligible lender”.
 
-2008—Subsec. (a)(1)(A). Pub. L. 110–315, §426(1)(A), inserted at end “Upon the sale of the loan to an eligible lender, the guaranty agency or other holder of the loan shall request any consumer reporting agency to which the guaranty agency or holder, as applicable, reported the default of the loan, to remove the record of default from the borrower's credit history.”
+<b>2008</b>—Subsec. (a)(1)(A). Pub. L. 110–315, §426(1)(A), inserted at end “Upon the sale of the loan to an eligible lender, the guaranty agency or other holder of the loan shall request any consumer reporting agency to which the guaranty agency or holder, as applicable, reported the default of the loan, to remove the record of default from the borrower's credit history.”
 
 Subsec. (a)(5). Pub. L. 110–315, §426(1)(B), added par. (5).
 
 Subsec. (c). Pub. L. 110–315, §426(2), added subsec. (c).
 
-2006—Subsec. (a)(1)(A). Pub. L. 109–171, §8014(h)(1), substituted “9 payments made within 20 days of the due date during 10 consecutive months” for “consecutive payments for 12 months”.
+<b>2006</b>—Subsec. (a)(1)(A). Pub. L. 109–171, §8014(h)(1), substituted “9 payments made within 20 days of the due date during 10 consecutive months” for “consecutive payments for 12 months”.
 
 Subsec. (a)(1)(C), (D). Pub. L. 109–171, §8014(h)(2), (3), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-1998—Subsec. (b). Pub. L. 105–244 substituted “Satisfactory repayment arrangements to renew eligibility” for “Special rule” in heading.
+<b>1998</b>—Subsec. (b). Pub. L. 105–244 substituted “Satisfactory repayment arrangements to renew eligibility” for “Special rule” in heading.
 
-1993—Subsec. (a)(2). Pub. L. 103–208, §2(c)(38), substituted “paragraph (1) of this subsection” for “this paragraph” and “this subsection” for “this section”.
+<b>1993</b>—Subsec. (a)(2). Pub. L. 103–208, §2(c)(38), substituted “paragraph (1) of this subsection” for “this paragraph” and “this subsection” for “this section”.
 
 Subsec. (a)(4). Pub. L. 103–208, §2(c)(39), substituted “paragraph (1) of this subsection” for “this paragraph”.
 
 Subsec. (b). Pub. L. 103–208, §2(c)(40), inserted at end “A borrower may only obtain the benefit of this subsection with respect to renewed eligibility once.”
 
-1992—Subsec. (a). Pub. L. 102–325, §420(1)–(3), redesignated subsec. (b) as (a), in par. (1)(A) substituted “Each guaranty agency shall enter into an agreement with the Secretary which shall provide that upon” for “Upon” and inserted provision at end that neither the guaranty agency nor the Secretary demand from the borrower as monthly payments more than is reasonable and affordable based upon the borrower's total financial circumstances, in par. (3) inserted “or grants” after “loans”, and struck out former subsec. (a) which related to program requirements for the default reduction program.
+<b>1992</b>—Subsec. (a). Pub. L. 102–325, §420(1)–(3), redesignated subsec. (b) as (a), in par. (1)(A) substituted “Each guaranty agency shall enter into an agreement with the Secretary which shall provide that upon” for “Upon” and inserted provision at end that neither the guaranty agency nor the Secretary demand from the borrower as monthly payments more than is reasonable and affordable based upon the borrower's total financial circumstances, in par. (3) inserted “or grants” after “loans”, and struck out former subsec. (a) which related to program requirements for the default reduction program.
 
 Subsec. (b). Pub. L. 102–325, §420(4), added subsec. (b). Former subsec. (b) redesignated (a).
 
-1989—Pub. L. 101–239 amended section generally, substituting provisions relating to default reduction program for former provisions relating to rehabilitation of defaulted loans.
+<b>1989</b>—Pub. L. 101–239 amended section generally, substituting provisions relating to default reduction program for former provisions relating to rehabilitation of defaulted loans.
 
-1987—Subsecs. (b), (c). Pub. L. 100–50 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The loans which shall be eligible for rehabilitation under this section shall be only those loans which are made to borrowers who, at the time of default on the loan, are unemployed or institutionalized.”
+<b>1987</b>—Subsecs. (b), (c). Pub. L. 100–50 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The loans which shall be eligible for rehabilitation under this section shall be only those loans which are made to borrowers who, at the time of default on the loan, are unemployed or institutionalized.”
 
 #### Effective Date of 2009 Amendment
 

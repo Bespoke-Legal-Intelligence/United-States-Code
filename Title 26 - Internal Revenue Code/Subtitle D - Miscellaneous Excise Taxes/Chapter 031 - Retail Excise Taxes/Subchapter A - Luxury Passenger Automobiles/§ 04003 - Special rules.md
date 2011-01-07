@@ -86,13 +86,13 @@ Section 4012, added Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 S
 
 #### Amendments
 
-1997—Subsec. (a)(1). Pub. L. 105–34, §906(b)(3), inserted “(other than property described in section 4001(a)(2)(B))” after “part or accessory”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–34, §906(b)(3), inserted “(other than property described in section 4001(a)(2)(B))” after “part or accessory”.
 
 Subsec. (a)(2)(B). Pub. L. 105–34, §906(b)(4), amended subpar. (B) generally, substituting “the appropriate applicable amount as determined under section 4001(a)(2)” for “$30,000”.
 
 Subsec. (a)(3)(C). Pub. L. 105–34, §1401(a), substituted “$1,000” for “$200”.
 
-1993—Pub. L. 103–66 amended section generally, substituting provisions prescribing special rules applicable to imposition of luxury passenger automobile tax for provisions relating to imposition of similar tax on aircraft.
+<b>1993</b>—Pub. L. 103–66 amended section generally, substituting provisions prescribing special rules applicable to imposition of luxury passenger automobile tax for provisions relating to imposition of similar tax on aircraft.
 
 #### Effective Date of 1997 Amendment
 

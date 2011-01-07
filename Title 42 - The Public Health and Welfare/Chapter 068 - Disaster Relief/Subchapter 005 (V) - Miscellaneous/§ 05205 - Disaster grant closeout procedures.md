@@ -40,3 +40,7 @@ A State or local government shall not be liable for reimbursement or any other p
 
 (Pub. L. 93–288, title VII, §705, as added Pub. L. 106–390, title III, §304, Oct. 30, 2000, 114 Stat. 1573.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(1) and (c), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+

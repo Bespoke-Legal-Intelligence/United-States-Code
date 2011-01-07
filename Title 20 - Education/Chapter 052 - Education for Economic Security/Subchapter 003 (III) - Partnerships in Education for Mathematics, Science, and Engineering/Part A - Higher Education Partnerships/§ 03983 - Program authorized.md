@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary
 
-The Secretary is authorized, in accordance with the provisions of this part, to make grants to applicants to pay the Federal share of the costs of the activities described in section 3984 of this title.
+The Secretary is authorized, in accordance with the provisions of this part, to make grants to applicants to pay the Federal share of thecosts of the activities described in section 3984 of this title.
 
 #### (b) Authorization of appropriations
 
@@ -12,11 +12,11 @@ There are authorized to be appropriated $50,000,000 for each of the fiscal years
 
 #### Amendments
 
-1988—Pub. L. 100–418 substituted “part” for “subchapter” wherever appearing.
+<b>1988</b>—Pub. L. 100–418 substituted “part” for “subchapter” wherever appearing.
 
 Subsec. (b). Pub. L. 100–297 substituted “1986 and 1987” for “1986, 1987, and 1988, to carry out the provisions of this subchapter” and inserted provision authorizing appropriations to carry out provisions of this part of $15,000,000 for fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990, 1991, 1992, and 1993.
 
-1985—Subsec. (a). Pub. L. 99–159, §231, substituted “Secretary” for “Foundation”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–159, §231, substituted “Secretary” for “Foundation”.
 
 Subsec. (b). Pub. L. 99–159, §233, amended subsec. (b) generally, substituting authorizations of $50,000,000 for each of the fiscal years 1986, 1987, and 1988, for authorizations of $30,000,000 for fiscal year 1984 and $60,000,000 for fiscal year 1985.
 

@@ -96,7 +96,7 @@ There are hereby appropriated to the Oil Spill Liability Trust Fund amounts equi
 
 #### (3) Order in which unpaid claims are to be paid
 
-&emsp;If at any time the Oil Spill Liability Trust Fund has insufficient funds (or is unable byreason of subsection (c)(2)) to pay all of the claims out of such Trust Fund at such time, such claims shall, to the extent permitted under paragraph (1) and such subsection, be paid in full in the order in which they were finally determined.
+&emsp;If at any time the Oil Spill Liability Trust Fund has insufficient funds (or is unable by reason of subsection (c)(2)) to pay all of the claims out of such Trust Fund at such time, such claims shall, to the extent permitted under paragraph (1) and such subsection, be paid in full in the order in which they were finally determined.
 
 #### (f) References to Oil Pollution Act of 1990
 
@@ -124,7 +124,7 @@ The date of the enactment of this subsection, referred to in subsec. (f), probab
 
 #### Amendments
 
-1990—Subsec. (b)(2) to (8). Pub. L. 101–380, §9001(a), added pars. (2) to (8) and struck out former pars. (2) to (5) which read as follows:
+<b>1990</b>—Subsec. (b)(2) to (8). Pub. L. 101–380, §9001(a), added pars. (2) to (8) and struck out former pars. (2) to (5) which read as follows:
 
 “(2) amounts recovered, collected, or received under subtitle A of the Comprehensive Oil Pollution Liability and Compensation Act,
 
@@ -148,7 +148,7 @@ Subsec. (e)(2). Pub. L. 101–380, §9001(e)(1), substituted “Oil Pollution Ac
 
 Subsec. (f). Pub. L. 101–380, §9001(e)(3), substituted “References to Oil Pollution Act of 1990” for “References to Comprehensive Oil Pollution Liability and Compensation Act” in heading and amended text generally. Prior to amendment, text read as follows: “For purposes of this section, references to the Comprehensive Oil Pollution Liability and Compensation Act shall be treated as references to any law enacted before December 31, 1990, which is substantially identical to subtitle E of title VI, or subtitle D of title VIII, of H.R. 5300 of the 99th Congress as passed by the House of Representatives.”
 
-1989—Subsec. (b)(3). Pub. L. 101–239, §7811(m)(3), made technical correction to directory language of Pub. L. 100–647, see 1988 Amendment note below.
+<b>1989</b>—Subsec. (b)(3). Pub. L. 101–239, §7811(m)(3), made technical correction to directory language of Pub. L. 100–647, see 1988 Amendment note below.
 
 Pub. L. 101–239, §7505(d)(2)(B), substituted “(on January 1, 1990)” for “(on the 1st day the Oil Spill Liability Trust Fund financing rate under section 4611(c) applies)”.
 
@@ -156,7 +156,7 @@ Subsec. (c)(1)(A). Pub. L. 101–239, §7505(d)(2)(C), which directed amendment 
 
 Subsec. (f). Pub. L. 101–239, §7505(d)(2)(A), added subsec. (f).
 
-1988—Subsec. (b)(3). Pub. L. 100–647, as amended by Pub. L. 101–239, §7811(m)(3), substituted “Deepwater” for “Deep Water” wherever appearing.
+<b>1988</b>—Subsec. (b)(3). Pub. L. 100–647, as amended by Pub. L. 101–239, §7811(m)(3), substituted “Deepwater” for “Deep Water” wherever appearing.
 
 #### Effective Date of 1990 Amendment
 

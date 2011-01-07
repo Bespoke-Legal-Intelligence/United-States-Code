@@ -68,7 +68,7 @@
 
 #### Amendments
 
-2003—Pub. L. 108–170, §202(d)(1), substituted “Hearing and notice requirements regarding proposed leases” for “Designation of property to be leased” in section catchline.
+<b>2003</b>—Pub. L. 108–170, §202(d)(1), substituted “Hearing and notice requirements regarding proposed leases” for “Designation of property to be leased” in section catchline.
 
 Subsec. (a). Pub. L. 108–170, §202(a)(1), in first sentence, substituted “enter into an enhanced-use lease with respect to certain property” for “designate a property to be leased under an enhanced-use lease” and “before entering into the lease” for “before making the designation”.
 
@@ -92,11 +92,11 @@ Subsec. (c)(4). Pub. L. 108–170, §202(a)(3)(D), struck out par. (4) which rea
 
 &emsp;“(D) a notice of designation with respect to the property.”
 
-2000—Subsec. (c)(2). Pub. L. 106–419, §241, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary may not enter into an enhanced-use lease until the end of a 60-day period of continuous session of Congress following the date of the submission of notice under paragraph (1). For purposes of the preceding sentence, continuity of a session of Congress is broken only by an adjournment sine die, and there shall be excluded from the computation of such 60-day period any day during which either House of Congress is not in session during an adjournment of more than three days to a day certain.”
+<b>2000</b>—Subsec. (c)(2). Pub. L. 106–419, §241, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary may not enter into an enhanced-use lease until the end of a 60-day period of continuous session of Congress following the date of the submission of notice under paragraph (1). For purposes of the preceding sentence, continuity of a session of Congress is broken only by an adjournment sine die, and there shall be excluded from the computation of such 60-day period any day during which either House of Congress is not in session during an adjournment of more than three days to a day certain.”
 
 Subsec. (c)(3)(E). Pub. L. 106–419, §404(b)(1), amended directory language of Pub. L. 106–117, §208(c)(2). See 1999 Amendment note below.
 
-1999—Subsec. (b). Pub. L. 106–117, §208(c)(1)(A), substituted “include the following:” for “include—” in introductory provisions.
+<b>1999</b>—Subsec. (b). Pub. L. 106–117, §208(c)(1)(A), substituted “include the following:” for “include—” in introductory provisions.
 
 Subsec. (b)(1) to (3). Pub. L. 106–117, §208(c)(1)(B), (C), capitalized the first letter of the first word and substituted a period for the semicolon at end.
 

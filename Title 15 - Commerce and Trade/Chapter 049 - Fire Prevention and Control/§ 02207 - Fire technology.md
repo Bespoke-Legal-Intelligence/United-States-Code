@@ -90,7 +90,7 @@ At the request of other Federal agencies, including the Department of Agricultur
 
 &emsp;&emsp;(iii) seek to minimize the impact of the requirement to meet or exceed the specific standard on the applicant, particularly if meeting the standard would impose additional costs.
 
-&emsp;(D) Applicants that apply for a grant under the terms of subparagraph (B) may include a second grant request in the application to be considered by the Administrator in the event that the Administrator does not approve the primary grant request on the grounds of the equipment not meeting applicable voluntary consensus standards.
+&emsp;(D) Applicants that apply for a grant under the terms of subparagraph (B) may include a second grant request in the application to be considered by the Administrator in the eventthat the Administrator does not approve the primary grant request on the grounds of the equipment not meeting applicable voluntary consensus standards.
 
 #### (g) Coordination
 
@@ -128,13 +128,13 @@ In establishing and conducting programs under this section, the Administrator sh
 
 #### Amendments
 
-2008—Subsec. (c)(2) to (5). Pub. L. 110–376, §9(b), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
+<b>2008</b>—Subsec. (c)(2) to (5). Pub. L. 110–376, §9(b), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
 
 Subsec. (d). Pub. L. 110–376, §6(a), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Administrator is authorized to assist the Nation's fire services, directly or through contracts, grants, or other forms of assistance, to sponsor and encourage research into approaches, techniques, systems, and equipment to improve fire prevention and control in the rural and remote areas of the Nation.”
 
 Subsec. (h). Pub. L. 110–376, §6(b), added subsec. (h).
 
-2003—Subsecs. (e) to (g). Pub. L. 108–169 added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
+<b>2003</b>—Subsecs. (e) to (g). Pub. L. 108–169 added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
 
 #### Transfer of Functions
 

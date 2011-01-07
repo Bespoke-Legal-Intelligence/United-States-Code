@@ -4,9 +4,9 @@
 
 A person is guilty of an offense if he intentionally—
 
-&emsp;(1) engages in electronic surveillance under color of law except as authorized by this chapter, chapter 119, 121, or 206 of title 18, or any express statutory authorization that is an additional exclusive means for conducting electronic surveillance under section 1812 of this title.; <sup>1</sup> or
+&emsp;(1) engages in electronic surveillance under color of law except as authorized by this chapter, chapter 119, 121, or 206 of title 18, or any express statutory authorization that is an additional exclusive means for conducting electronic surveillance under section 1812 of this title;
 
-&emsp;(2) discloses or uses information obtained under color of law by electronic surveillance, knowing or having reason to know that the information was obtained through electronic surveillance not authorized by this chapter, chapter 119, 121, or 206 of title 18, or any express statutory authorization that is an additional exclusive means for conducting electronic surveillance under section 1812 of this title..<sup>1</sup>
+&emsp;(2) discloses or uses information obtained under color of law by electronic surveillance, knowing or having reason to know that the information was obtained through electronic surveillance not authorized by this chapter, chapter 119, 121, or 206 of title 18, or any express statutory authorization that is an additional exclusive means for conducting electronic surveillance under section 1812 of this title.
 
 #### (b) Defense
 
@@ -20,7 +20,7 @@ An offense described in this section is punishable by a fine of not more than $1
 
 There is Federal jurisdiction over an offense under this section if the person committing the offense was an officer or employee of the United States at the time the offense was committed.
 
-(Pub. L. 95–511, title I, §109, Oct. 25, 1978, 92 Stat. 1796; Pub. L. 110–261, title I, §102(b), July 10, 2008, 122 Stat. 2459.)
+(Pub. L. 95–511, title I, §109, Oct. 25, 1978, 92 Stat. 1796; Pub. L. 110–261, title I, §102(b), July 10, 2008, 122 Stat. 2459; Pub. L. 111–259, title VIII, §801(3), Oct. 7, 2010, 124 Stat. 2746.)
 
 #### References in Text
 
@@ -28,11 +28,13 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–261 substituted “authorized by this chapter, chapter 119, 121, or 206 of title 18, or any express statutory authorization that is an additional exclusive means for conducting electronic surveillance under section 1812 of this title.” for “authorized by statute” in pars. (1) and (2).
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–259, §801(3)(A), substituted “section 1812 of this title;” for “section 1812 of this title.;”.
+
+Subsec. (a)(2). Pub. L. 111–259, §801(3)(B), substituted “title.” for “title..”
+
+<b>2008</b>—Subsec. (a). Pub. L. 110–261 substituted “authorized by this chapter, chapter 119, 121, or 206 of title 18, or any express statutory authorization that is an additional exclusive means for conducting electronic surveillance under section 1812 of this title.” for “authorized by statute” in pars. (1) and (2).
 
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, see section 402 of Pub. L. 110–261, set out as an Effective Date of 2008 Amendment note under section 1801 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

@@ -36,7 +36,7 @@ Section is comprised of subsecs. (a) to (e) of section 119 of Pub. L. 96–254. 
 
 #### Amendments
 
-1983—Subsec. (a). Pub. L. 97–468 substituted “under an employee protection agreement entered into or a benefit schedule prescribed under section 1005 of this title may, if so provided under such agreement or benefit schedule,” for “from the Rock Island Railroad under an employee protection agreement or arrangement entered into under section 1005 of this title may”.
+<b>1983</b>—Subsec. (a). Pub. L. 97–468 substituted “under an employee protection agreement entered into or a benefit schedule prescribed under section 1005 of this title may, if so provided under such agreement or benefit schedule,” for “from the Rock Island Railroad under an employee protection agreement or arrangement entered into under section 1005 of this title may”.
 
 #### Change of Name
 

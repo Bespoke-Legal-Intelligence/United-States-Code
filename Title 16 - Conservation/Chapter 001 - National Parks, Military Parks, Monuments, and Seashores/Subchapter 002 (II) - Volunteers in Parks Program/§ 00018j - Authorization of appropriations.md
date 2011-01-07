@@ -6,11 +6,11 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### Amendments
 
-1996—Pub. L. 104–333 substituted “$3,500,000” for “$1,000,000”.
+<b>1996</b>—Pub. L. 104–333 substituted “$3,500,000” for “$1,000,000”.
 
-1984—Pub. L. 98–540 substituted “$1,000,000” for “$250,000”.
+<b>1984</b>—Pub. L. 98–540 substituted “$1,000,000” for “$250,000”.
 
-1975—Pub. L. 94–128 substituted “$250,000” for “$100,000”.
+<b>1975</b>—Pub. L. 94–128 substituted “$250,000” for “$100,000”.
 
 #### Effective Date of 1984 Amendment
 

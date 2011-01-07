@@ -16,7 +16,7 @@
 
 (c) There are authorized to be appropriated such sums as may be necessary through the date specified in section 4026 of this title, for studies under this chapter.
 
-(Pub. L. 90–448, title XIII, §1376, Aug. 1, 1968, 82 Stat. 589; Pub. L. 94–375, §14(c), Aug. 3, 1976, 90 Stat. 1075; Pub. L. 95–128, title VII, §702, Oct. 12, 1977, 91 Stat. 1144; Pub. L. 95–557, title III, §309, Oct. 31, 1978, 92 Stat. 2098; Pub. L. 96–153, title VI, §602(c), Dec. 21, 1979, 93 Stat. 1137; Pub. L. 96–399, title III, §304, Oct. 8, 1980, 94 Stat. 1639; Pub. L. 97–35, title III, §341(a), Aug. 13, 1981, 95Stat. 418; Pub. L. 98–181, title IV, §451(c), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–242, title V, §543, Feb. 5, 1988, 101 Stat. 1940; Pub. L. 101–137, §4, Nov. 3, 1989, 103 Stat. 825; Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2915; Pub. L. 105–65, title III, Oct. 27, 1997, 111 Stat. 1377; Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2503; Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1088; Pub. L. 106–377, §1(a)(1) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–47; Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 689; Pub. L. 108–3, §2(a)(4), Jan. 13, 2003, 117 Stat. 7; Pub. L. 108–171, §2(a)(4), Dec. 6, 2003, 117 Stat. 2064; Pub. L. 108–199, div. H, §136(a)(4), Jan. 23, 2004, 118 Stat. 442; Pub. L. 108–264, title I, §101(d), June 30, 2004, 118 Stat. 714.)
+(Pub. L. 90–448, title XIII, §1376, Aug. 1, 1968, 82 Stat. 589; Pub. L. 94–375, §14(c), Aug. 3, 1976, 90 Stat. 1075; Pub. L. 95–128, title VII, §702, Oct. 12, 1977, 91 Stat. 1144; Pub. L. 95–557, title III, §309, Oct. 31, 1978, 92 Stat. 2098; Pub. L. 96–153, title VI, §602(c), Dec. 21, 1979, 93 Stat. 1137; Pub. L. 96–399, title III, §304, Oct. 8, 1980, 94 Stat. 1639; Pub. L. 97–35, title III, §341(a), Aug. 13, 1981, 95 Stat. 418; Pub. L. 98–181, title IV, §451(c), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–242, title V, §543, Feb. 5, 1988, 101 Stat. 1940; Pub. L. 101–137, §4, Nov. 3, 1989, 103 Stat. 825; Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2915; Pub. L. 105–65, title III, Oct. 27, 1997, 111 Stat. 1377; Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2503; Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1088; Pub. L. 106–377, §1(a)(1) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–47; Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 689; Pub. L. 108–3, §2(a)(4), Jan. 13, 2003, 117 Stat. 7; Pub. L. 108–171, §2(a)(4), Dec. 6, 2003, 117 Stat. 2064; Pub. L. 108–199, div. H, §136(a)(4), Jan. 23, 2004, 118 Stat. 442; Pub. L. 108–264, title I, §101(d), June 30, 2004, 118 Stat. 714.)
 
 #### References in Text
 
@@ -24,43 +24,43 @@ This chapter, referred to in subsecs. (a) and (c), was in the original a referen
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–264 substituted “through the date specified in section 4026 of this title, for studies under this chapter.” for “through the date specified in section 4026 of this title, for studies under this chapter. Any amount appropriated under this subsection shall remain available until expended.”
+<b>2004</b>—Subsec. (c). Pub. L. 108–264 substituted “through the date specified in section 4026 of this title, for studies under this chapter.” for “through the date specified in section 4026 of this title, for studies under this chapter. Any amount appropriated under this subsection shall remain available until expended.”
 
 Pub. L. 108–199 made amendment identical to that made by Pub. L. 108–171. See 2003 Amendment note below.
 
-2003—Subsec. (c). Pub. L. 108–171 substituted “the date specified in section 4026 of this title” for “December 31, 2003”.
+<b>2003</b>—Subsec. (c). Pub. L. 108–171 substituted “the date specified in section 4026 of this title” for “December 31, 2003”.
 
 Pub. L. 108–3 substituted “December 31, 2003” for “December 31, 2002”.
 
-2001—Subsec. (c). Pub. L. 107–73 substituted “2002” for “2001”.
+<b>2001</b>—Subsec. (c). Pub. L. 107–73 substituted “2002” for “2001”.
 
-2000—Subsec. (c). Pub. L. 106–377 substituted “December 31, 2001” for “September 30, 2000”.
+<b>2000</b>—Subsec. (c). Pub. L. 106–377 substituted “December 31, 2001” for “September 30, 2000”.
 
-1999—Subsec. (c). Pub. L. 106–74 substituted “2000” for “1999”.
+<b>1999</b>—Subsec. (c). Pub. L. 106–74 substituted “2000” for “1999”.
 
-1998—Subsec. (c). Pub. L. 105–276 substituted “1999” for “1998”.
+<b>1998</b>—Subsec. (c). Pub. L. 105–276 substituted “1999” for “1998”.
 
-1997—Subsec. (c). Pub. L. 105–65 substituted “such sums as may be necessary through September 30, 1998, for studies under this chapter” for “for studies under this chapter not to exceed $36,283,000 for fiscal year 1990, and such sums as may be necessary for fiscal year 1991”.
+<b>1997</b>—Subsec. (c). Pub. L. 105–65 substituted “such sums as may be necessary through September 30, 1998, for studies under this chapter” for “for studies under this chapter not to exceed $36,283,000 for fiscal year 1990, and such sums as may be necessary for fiscal year 1991”.
 
-1996—Subsec. (c). Pub. L. 104–204, which directed amendment of first sentence by substituting “such sums as may be necessary through September 30, 1997 for studies under this chapter.” for “this subsection” and all that follows, could not be executed because phrase “this subsection” does not appear in first sentence.
+<b>1996</b>—Subsec. (c). Pub. L. 104–204, which directed amendment of first sentence by substituting “such sums as may be necessary through September 30, 1997 for studies under this chapter.” for “this subsection” and all that follows, could not be executed because phrase “this subsection” does not appear in first sentence.
 
-1989—Subsec. (c). Pub. L. 101–137 substituted provisions authorizing appropriations of not to exceed $36,283,000 for fiscal year 1990 and such sums as may be necessary for fiscal year 1991 for provisions authorizing appropriations of $37,000,000 for fiscal year 1988, and $37,000,000 for fiscal year 1989.
+<b>1989</b>—Subsec. (c). Pub. L. 101–137 substituted provisions authorizing appropriations of not to exceed $36,283,000 for fiscal year 1990 and such sums as may be necessary for fiscal year 1991 for provisions authorizing appropriations of $37,000,000 for fiscal year 1988, and $37,000,000 for fiscal year 1989.
 
-1988—Subsec. (c). Pub. L. 100–242 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “There are authorized to be appropriated for studies under this chapter not to exceed $100,000,000 for the fiscal year 1977, not to exceed $108,000,000 for the fiscal year 1978, not to exceed $114,000,000 for the fiscal year 1979, not to exceed $74,000,000 for the fiscal year 1980, not to exceed $61,600,000 for the fiscal year 1981, not to exceed $42,600,000 for the fiscal year 1982, not to exceed $49,752,000 for the fiscal year 1984, and such sums as may be necessary for fiscal year 1985.”
+<b>1988</b>—Subsec. (c). Pub. L. 100–242 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “There are authorized to be appropriated for studies under this chapter not to exceed $100,000,000 for the fiscal year 1977, not to exceed $108,000,000 for the fiscal year 1978, not to exceed $114,000,000 for the fiscal year 1979, not to exceed $74,000,000 for the fiscal year 1980, not to exceed $61,600,000 for the fiscal year 1981, not to exceed $42,600,000 for the fiscal year 1982, not toexceed $49,752,000 for the fiscal year 1984, and such sums as may be necessary for fiscal year 1985.”
 
-1983—Subsec. (c). Pub. L. 98–181 inserted “not to exceed $49,752,000 for the fiscal year 1984, and such sums as may be necessary for fiscal year 1985”.
+<b>1983</b>—Subsec. (c). Pub. L. 98–181 inserted “not to exceed $49,752,000 for the fiscal year 1984, and such sums as may be necessary for fiscal year 1985”.
 
-1981—Subsec. (c). Pub. L. 97–35 authorized appropriation of not to exceed $42,600,000 for fiscal year 1982.
+<b>1981</b>—Subsec. (c). Pub. L. 97–35 authorized appropriation of not to exceed $42,600,000 for fiscal year 1982.
 
-1980—Subsec. (c). Pub. L. 96–399 authorized appropriation of not to exceed $61,600,000 for fiscal year 1981.
+<b>1980</b>—Subsec. (c). Pub. L. 96–399 authorized appropriation of not to exceed $61,600,000 for fiscal year 1981.
 
-1979—Subsec. (c). Pub. L. 96–153 authorized appropriation of $74,000,000 for fiscal year 1980.
+<b>1979</b>—Subsec. (c). Pub. L. 96–153 authorized appropriation of $74,000,000 for fiscal year 1980.
 
-1978—Subsec. (c). Pub. L. 95–557 substituted “not to exceed $108,000,000 for the fiscal year 1978, and not to exceed $114,000,000 for the fiscal year 1979” for “and not to exceed $108,000,000 for the fiscal year 1978”.
+<b>1978</b>—Subsec. (c). Pub. L. 95–557 substituted “not to exceed $108,000,000 for the fiscal year 1978, and not to exceed $114,000,000 for the fiscal year 1979” for “and not to exceed $108,000,000 for the fiscal year 1978”.
 
-1977—Subsec. (c). Pub. L. 95–128 authorized appropriation of $108,000,000 for fiscal year 1978.
+<b>1977</b>—Subsec. (c). Pub. L. 95–128 authorized appropriation of $108,000,000 for fiscal year 1978.
 
-1976—Subsec. (c). Pub. L. 94–375 added subsec. (c).
+<b>1976</b>—Subsec. (c). Pub. L. 94–375 added subsec. (c).
 
 #### Effective Date of 2004 Amendment
 

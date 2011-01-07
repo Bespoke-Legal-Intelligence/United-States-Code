@@ -112,7 +112,7 @@ Rate of basic pay to be used.—The rate of basic pay to be used under paragraph
 
 (f)
 
-Coast Guard.—In the case of a member who is retired under any section of title 14, the member's retired pay is computed under section 423(a) of title 14 in the manner provided in that section.
+Coast Guard.—In the case of a member who is retired under any section of title 14, themember's retired pay is computed under section 423(a) of title 14 in the manner provided in that section.
 
 (g)
 
@@ -184,9 +184,9 @@ A prior section 1406 was renumbered section 12738 of this title.
 
 #### Amendments
 
-2009—Subsec. (b)(2). Pub. L. 111–84 inserted “(or, in the case of a person entitled to retired pay by reason of an election under section 12741(a) of this title, at rates applicable on the date the person completes the service required under such section 12741(a))” after “when retired pay is granted”.
+<b>2009</b>—Subsec. (b)(2). Pub. L. 111–84 inserted “(or, in the case of a person entitled to retired pay by reason of an election under section 12741(a) of this title, at rates applicable on the date the person completes the service required under such section 12741(a))” after “when retired pay is granted”.
 
-2006—Subsec. (b)(1). Pub. L. 109–364, §502(d)(2), in table inserted “1253” at end of column under heading “For a member entitled to retired pay under section:”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–364, §502(d)(2), in table inserted “1253” at end of column under heading “For a member entitled to retired pay under section:”.
 
 Pub. L. 109–163, §509(d)(1)(B), in table inserted “1252” at end of column under heading “For a member entitled to retired pay under section:”.
 
@@ -194,29 +194,29 @@ Subsec. (i)(3)(B)(vi). Pub. L. 109–364, §1071(a)(7), substituted “to” for
 
 Pub. L. 109–163, §685(d), added cl. (vi).
 
-2004—Subsec. (g). Pub. L. 108–375 substituted “section 245” for “section 305” and “Officer Corps Act of 2002 (33 U.S.C. 3045)” for “Officers Act of 2002”.
+<b>2004</b>—Subsec. (g). Pub. L. 108–375 substituted “section 245” for “section 305” and “Officer Corps Act of 2002 (33 U.S.C. 3045)” for “Officers Act of 2002”.
 
-2003—Subsec. (i). Pub. L. 108–136 inserted “Commanders of Combatant Commands,” after “Chiefs of Service,” in heading and “as a commander of a unified or specified combatant command (as defined in section 161(c) of this title),” after “Chief of Service,” in par. (1).
+<b>2003</b>—Subsec. (i). Pub. L. 108–136 inserted “Commanders of Combatant Commands,” after “Chiefs of Service,” in heading and “as a commander of a unified or specified combatant command (as defined in section 161(c) of this title),” after “Chief of Service,” in par. (1).
 
-2002—Subsec. (g). Pub. L. 107–372 substituted “section 305 of the National Oceanic and Atmospheric Administration Commissioned Officers Act of 2002” for “section 16 of the Coast and Geodetic Survey Commissioned Officers’ Act of 1948 (33 U.S.C. 853<i>o</i>)”
+<b>2002</b>—Subsec. (g). Pub. L. 107–372 substituted “section 305 of the National Oceanic and Atmospheric Administration Commissioned Officers Act of 2002” for “section 16 of the Coast and Geodetic Survey Commissioned Officers’ Act of 1948 (33 U.S.C. 853<i>o</i>)”
 
-1999—Subsec. (i)(2). Pub. L. 106–65 substituted “after October 16, 1998” for “on or after the date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999” in introductory provisions.
+<b>1999</b>—Subsec. (i)(2). Pub. L. 106–65 substituted “after October 16, 1998” for “on or after the date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999” in introductory provisions.
 
-1998—Subsec. (i)(2), (3). Pub. L. 105–261 added par. (2) and redesignated former par. (2) as (3).
+<b>1998</b>—Subsec. (i)(2), (3). Pub. L. 105–261 added par. (2) and redesignated former par. (2) as (3).
 
-1997—Subsec. (b)(1). Pub. L. 105–85 substituted “3962 and 8962” for “3962(b) and 8962(b)” in footnote 3 in table.
+<b>1997</b>—Subsec. (b)(1). Pub. L. 105–85 substituted “3962 and 8962” for “3962(b) and 8962(b)” in footnote 3 in table.
 
 Subsec. (c)(1). Pub. L. 105–85, §1073(a)(23)(A), substituted “3962” for “3962(b)” in footnote 1 in table.
 
 Subsec. (e)(1). Pub. L. 105–85, §1073(a)(23)(B), substituted “8962” for “8962(b)” in footnote 1 in table.
 
-1994—Subsec. (b). Pub. L. 103–337 substituted “Subtitle A or E” for “Subtitle A” in subsec. heading, designated existing provisions as par. (1), inserted par. (1) heading, in table struck out item for section 1331 which related to monthly basic pay of highest grade held satisfactorily by person at any time in armed forces, renumbered footnotes 3 and 4 as 2 and 3, respectively, and struck out former footnote 2 which provided for computations at rates applicable on date when retired pay is granted, and added par. (2).
+<b>1994</b>—Subsec. (b). Pub. L. 103–337 substituted “Subtitle A or E” for “Subtitle A” in subsec. heading, designated existing provisions as par. (1), inserted par. (1) heading, in table struck out item for section 1331 which related to monthly basic pay of highest grade held satisfactorily by person at any time in armed forces, renumbered footnotes 3 and 4 as 2 and 3, respectively, and struck out former footnote 2 which provided for computations at rates applicable on date when retired pay is granted, and added par. (2).
 
-1991—Subsec. (b). Pub. L. 102–190 substituted “580” for “564” in table.
+<b>1991</b>—Subsec. (b). Pub. L. 102–190 substituted “580” for “564” in table.
 
-1988—Subsec. (b). Pub. L. 100–456 substituted “satisfactorily by person” for “satisfactory by person” in item relating to section 1331 in table.
+<b>1988</b>—Subsec. (b). Pub. L. 100–456 substituted “satisfactorily by person” for “satisfactory by person” in item relating to section 1331 in table.
 
-1987—Subsec. (d). Pub. L. 100–180, §512(d)(2), inserted “or 6334” after “6151” in text, and inserted item relating to section 6334 at end of table.
+<b>1987</b>—Subsec. (d). Pub. L. 100–180, §512(d)(2), inserted “or 6334” after “6151” in text, and inserted item relating to section 6334 at end of table.
 
 Subsec. (i). Pub. L. 100–180, §1314(b)(6), inserted “and Vice Chairmen” after “Chairmen” in heading and inserted “or Vice Chairman” after “Chairman” in par. (1).
 

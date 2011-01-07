@@ -16,7 +16,7 @@
 
 &emsp;(B) for purposes relating to the death of a family member, including to make arrangements for or attend the funeral of such family member.
 
-(3)(A) Sick leave may be used by an employee for the purposes provided under paragraph (2)only to the extent the amount used for such purposes does not exceed—
+(3)(A) Sick leave may be used by an employee for the purposes provided under paragraph (2) only to the extent the amount used for such purposes does not exceed—
 
 &emsp;(i) 40 hours in any year, plus
 

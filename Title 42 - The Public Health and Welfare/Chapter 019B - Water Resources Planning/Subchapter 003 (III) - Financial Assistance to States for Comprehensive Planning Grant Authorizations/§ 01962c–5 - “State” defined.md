@@ -6,5 +6,5 @@ For the purpose of this subchapter the term “State” means a State, the Distr
 
 #### Amendments
 
-1976—Pub. L. 94–285 inserted reference to Guam.
+<b>1976</b>—Pub. L. 94–285 inserted reference to Guam.
 

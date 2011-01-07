@@ -16,15 +16,15 @@
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–117, §101(e)(1), substituted “enrolled” for “eligible”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–117, §101(e)(1), substituted “enrolled” for “eligible”.
 
 Subsec. (b). Pub. L. 106–117, §101(e)(2), in introductory provisions, substituted “the term ‘respite care services’ means care and services” for “the term ‘respite care’ means hospital or nursing home care”, in par. (1) substituted “are” for “is”, in par. (2) substituted “are” for “is” and struck out “in a Department facility” after “furnished”, and in par. (3) substituted “are” for “is”.
 
 Subsec. (c). Pub. L. 106–117, §101(e)(3), added subsec. (c).
 
-1992—Subsec. (c). Pub. L. 102–585 struck out subsec. (c) which read as follows: “The authority provided by this section terminates on September 30, 1992.”
+<b>1992</b>—Subsec. (c). Pub. L. 102–585 struck out subsec. (c) which read as follows: “The authority provided by this section terminates on September 30, 1992.”
 
-1991—Pub. L. 102–83, §5(a), renumbered section 620B of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 620B of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1710” for “610”.
 
@@ -32,7 +32,7 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 Subsec. (b)(2). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-1989—Subsec. (c). Pub. L. 101–237 substituted “September 30, 1992” for “September 30, 1989”.
+<b>1989</b>—Subsec. (c). Pub. L. 101–237 substituted “September 30, 1992” for “September 30, 1989”.
 
 #### Ratification of Actions of Secretary of Veterans Affairs During Transition Periods
 

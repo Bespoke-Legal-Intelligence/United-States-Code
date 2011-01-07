@@ -10,7 +10,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;(3) provides that the plan shall be in effect in all political subdivisions of the State, and, if administered by them, be mandatory upon them;
 
-&emsp;(4) provides that the State shall assure that the programs at the local level assisted under this part will be coordinated with the programs at the State or local level assisted under parts A and B of this subchapter, under subchapter XX of this chapter, and under any other appropriate provision of Federal law;
+&emsp;(4) provides that the State shall assure that the programs at the local level assisted under this part will be coordinated with the programs at the State or local level assisted under parts A and B of this subchapter, under division A <sup>1</sup> of subchapter XX of this chapter, and under any other appropriate provision of Federal law;
 
 &emsp;(5) provides that the State will, in the administration of its programs under this part, use such methods relating to the establishment and maintenance of personnel standards on a merit basis as are found by the Secretary to be necessary for the proper and efficient operation of the programs, except that the Secretary shall exercise no authority with respect to the selection, tenure of office, or compensation of any individual employed in accordance with such methods;
 
@@ -32,7 +32,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;(12) provides for granting an opportunity for a fair hearing before the State agency to any individual whose claim for benefits available pursuant to this part is denied or is not acted upon with reasonable promptness;
 
-&emsp;(13) provides that the State shall arrange for a periodic and independently conducted audit of the programs assisted under this part and part B of this subchapter, which shall be conducted no less frequently than once every three years;
+&emsp;(13) provides that the State shall arrange for a periodic and independently conducted audit of the programs assisted under this part andpart B of this subchapter, which shall be conducted no less frequently than once every three years;
 
 &emsp;(14) provides (A) specific goals (which shall be established by State law on or before October 1, 1982) for each fiscal year (commencing with the fiscal year which begins on October 1, 1983) as to the maximum number of children (in absolute numbers or as a percentage of all children in foster care with respect to whom assistance under the plan is provided during such year) who, at any time during such year, will remain in foster care after having been in such care for a period in excess of twenty-four months, and (B) a description of the steps which will be taken by the State to achieve such goals;
 
@@ -70,7 +70,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;&emsp;&emsp;(ii) reasonable efforts shall be made to place the child in a timely manner in accordance with the permanency plan, and to complete whatever steps are necessary to finalize the permanent placement of the child; and
 
-&emsp;&emsp;(F) reasonable efforts to place a child for adoption or with a legal guardian, including identifying appropriate in-State and out-of-State placements <sup>1</sup> may be made concurrently with reasonable efforts of the type described in subparagraph (B);
+&emsp;&emsp;(F) reasonable efforts to place a child for adoption or with a legal guardian, including identifying appropriate in-State and out-of-State placements <sup>2</sup> may be made concurrently with reasonable efforts of the type described in subparagraph (B);
 
 &emsp;(16) provides for the development of a case plan (as defined in section 675(1) of this title) for each child receiving foster care maintenance payments under the State plan and provides for a case review system which meets the requirements described in section 675(5)(B) of this title with respect to each such child;
 
@@ -84,7 +84,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;(19) provides that the State shall consider giving preference to an adult relative over a non-related caregiver when determining a placement for a child, provided that the relative caregiver meets all relevant State child protection standards;
 
-&emsp;(20)(A) provides procedures for criminal records checks, including fingerprint-based checks of national crime information databases (as defined in section 534(e)(3)(A) <sup>2</sup> of title 28), for any prospective foster or adoptive parent before the foster or adoptive parent may be finally approved for placement of a child regardless of whether foster care maintenance payments or adoption assistance payments are to be made on behalf of the child under the State plan under this part, including procedures requiring that—
+&emsp;(20)(A) provides procedures for criminal records checks, including fingerprint-based checks of national crime information databases (as defined in section 534(e)(3)(A) <sup>1</sup> of title 28), for any prospective foster or adoptive parent before the foster or adoptive parent may be finally approved for placement of a child regardless of whether foster care maintenance payments or adoption assistance payments are to be made on behalf of the child under the State plan under this part, including procedures requiring that—
 
 &emsp;&emsp;(i) in any case involving a child on whose behalf such payments are to be so made in which a record check reveals a felony conviction for child abuse or neglect, for spousal abuse, for a crime against children (including child pornography), or for a crime involving violence, including rape, sexual assault, or homicide, but not including other physical assault or battery, if a State finds that a court of competent jurisdiction has determined that the felony was committed at any time, such final approval shall not be granted; and
 
@@ -98,7 +98,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;&emsp;(iii) have in place safeguards to prevent the unauthorized disclosure of information in any child abuse and neglect registry maintained by the State, and to prevent any such information obtained pursuant to this subparagraph from being used for a purpose other than the conducting of background checks in foster or adoptive placement cases; and
 
-&emsp;(C) provides procedures for criminal records checks, including fingerprint-based checks of national crime information databases (as defined in section 534(e)(3)(A) <sup>2</sup> of title 28), on any relative guardian, and for checks described in subparagraph (B) of this paragraph on any relative guardian and any other adult living in the home of any relative guardian, before the relative guardian may receive kinship guardianship assistance payments on behalf of the child under the State plan under this part;
+&emsp;(C) provides procedures for criminal records checks, including fingerprint-based checks of national crime information databases (as defined in section 534(e)(3)(A) <sup>1</sup> of title 28), on any relative guardian, and for checks described in subparagraph (B) of this paragraph on any relative guardian and any other adult living in the home of any relative guardian, before the relative guardian may receive kinship guardianship assistance payments on behalf of the child under the State plan under this part;
 
 &emsp;(21) provides for health insurance coverage (including, at State option, through the program under the State plan approved under subchapter XIX of this chapter) for any child who has been determined to be a child with special needs, for whom there is in effect an adoption assistance agreement (other than an agreement under this part) between the State and an adoptive parent or parents, and who the State has determined cannot be placed with an adoptive parent or parents without medical assistance because such child has special needs for medical, mental health, or rehabilitative care, and that with respect to the provision of such health insurance coverage—
 
@@ -118,7 +118,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;&emsp;(B) fail to grant an opportunity for a fair hearing, as described in paragraph (12), to an individual whose allegation of a violation of subparagraph (A) of this paragraph is denied by the State or not acted upon by the State with reasonable promptness;
 
-&emsp;(24) include <sup>4</sup> a certification that, before a child in foster care under the responsibility of the State is placed with prospective foster parents, the prospective foster parents will be prepared adequately with the appropriate knowledge and skills to provide for the needs of the child, and that such preparation will be continued, as necessary, after the placement of the child;
+&emsp;(24) include <sup>4</sup> a certification that, before a child in foster care under the responsibility ofthe State is placed with prospective foster parents, the prospective foster parents will be prepared adequately with the appropriate knowledge and skills to provide for the needs of the child, and that such preparation will be continued, as necessary, after the placement of the child;
 
 &emsp;(25) provide <sup>5</sup> that the State shall have in effect procedures for the orderly and timely interstate placement of children; and procedures implemented in accordance with an interstate compact, if incorporating with the procedures prescribed by paragraph (26), shall be considered to satisfy the requirement of this paragraph;
 
@@ -180,11 +180,13 @@ The Secretary shall approve any plan which complies with the provisions of subse
 
 Subsection (a)(8) shall not be construed to limit the flexibility of a State in determining State policies relating to public access to court proceedings to determine child abuse and neglect or other court hearings held pursuant to part B or this part, except that such policies shall, at a minimum, ensure the safety and well-being of the child, parents, and family.
 
-(Aug. 14, 1935, ch. 531, title IV, §471, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 501; amended Pub. L. 97–35, title XXIII, §2353(r), Aug. 13, 1981, 95 Stat. 874; Pub. L. 97–248, title I, §160(d), Sept. 3, 1982, 96 Stat. 400; Pub. L. 98–378, §11(c), Aug. 16, 1984, 98 Stat. 1318; Pub. L. 99–514, title XVII, §1711(c)(2), Oct. 22, 1986, 100 Stat. 2784; Pub. L. 100–485, title II, §202(c)(1), Oct. 13, 1988, 102 Stat. 2378; Pub. L. 101–508, title V, §5054(b), Nov. 5, 1990, 104 Stat. 1388–229; Pub. L. 103–66, title XIII, §13711(b)(4), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–432, title II, §203(b), Oct. 31, 1994, 108 Stat. 4456; Pub. L. 104–188, title I, §1808(a), Aug. 20, 1996, 110 Stat. 1903; Pub. L. 104–193, title I, §108(d)(2), title V, §505, Aug. 22, 1996, 110 Stat. 2166, 2278; Pub. L. 105–33, title V, §5591(b), Aug. 5, 1997, 111 Stat. 643; Pub. L. 105–89, title I, §§101(a), 106, title III, §§306, 308, Nov. 19, 1997, 111 Stat. 2116, 2120, 2132, 2133; Pub. L. 105–200, title III, §301(a), July 16, 1998, 112 Stat. 658; Pub. L. 106–169, title I, §112(a), title IV, §401(<i>o</i>), Dec. 14, 1999, 113 Stat. 1829, 1859; Pub. L. 109–171, title VII, §7401(c), Feb. 8, 2006, 120 Stat. 150; Pub. L. 109–239, §§3, 4(a)(1), 10, July 3, 2006, 120 Stat. 508, 513; Pub. L. 109–248, title I, §152(a), (b), July 27, 2006, 120 Stat. 608, 609; Pub. L. 109–432, div. B, title IV, §405(c)(1)(B)(i), Dec. 20, 2006, 120 Stat. 2999; Pub. L. 110–351, title I, §§101(a), (c)(2)(A), (B)(i), 103, 104(a), title II, §§204(b), 206, title III, §301(c)(1)(A), title IV, §403, Oct. 7, 2008, 122 Stat. 3950–3952, 3956, 3957, 3960, 3962, 3969, 3979.)
+(Aug. 14, 1935, ch. 531, title IV, §471, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 501; amended Pub. L. 97–35, title XXIII, §2353(r), Aug. 13, 1981, 95 Stat. 874; Pub. L. 97–248, title I, §160(d), Sept. 3, 1982, 96 Stat. 400; Pub. L. 98–378, §11(c), Aug. 16, 1984, 98 Stat. 1318; Pub. L. 99–514, title XVII, §1711(c)(2), Oct. 22, 1986, 100 Stat. 2784; Pub. L. 100–485, title II, §202(c)(1), Oct. 13, 1988, 102 Stat. 2378; Pub. L. 101–508, title V, §5054(b), Nov. 5, 1990, 104 Stat. 1388–229; Pub. L. 103–66, title XIII, §13711(b)(4), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–432, title II, §203(b), Oct. 31, 1994, 108 Stat. 4456; Pub. L. 104–188, title I, §1808(a), Aug. 20, 1996, 110 Stat. 1903; Pub. L. 104–193, title I, §108(d)(2), title V, §505, Aug. 22, 1996, 110 Stat. 2166, 2278; Pub. L. 105–33, title V, §5591(b), Aug. 5, 1997, 111 Stat. 643; Pub. L. 105–89, title I, §§101(a), 106, title III, §§306, 308, Nov. 19, 1997, 111 Stat. 2116, 2120, 2132, 2133; Pub. L. 105–200, title III, §301(a), July 16, 1998, 112 Stat. 658; Pub. L. 106–169, title I, §112(a), title IV, §401(<i>o</i>), Dec. 14, 1999, 113 Stat. 1829, 1859; Pub. L. 109–171, title VII, §7401(c), Feb. 8, 2006, 120 Stat. 150; Pub. L. 109–239, §§3, 4(a)(1), 10, July 3, 2006, 120 Stat. 508, 513; Pub. L. 109–248, title I, §152(a), (b), July 27, 2006, 120 Stat. 608, 609; Pub. L. 109–432, div. B, title IV, §405(c)(1)(B)(i), Dec. 20, 2006, 120 Stat. 2999; Pub. L. 110–351, title I, §§101(a), (c)(2)(A), (B)(i), 103, 104(a), title II, §§204(b), 206, title III, §301(c)(1)(A), title IV, §403, Oct. 7, 2008, 122 Stat. 3950–3952, 3956, 3957, 3960, 3962, 3969, 3979; Pub. L. 111–148, title VI, §6703(d)(2)(B), Mar. 23, 2010, 124 Stat. 803.)
 
 #### References in Text
 
 Parts A, B, and D of this subchapter, referred to in subsecs. (a)(2), (4), (8)–(10), (13), (17), (27) and (c), are classified to sections 601 et seq., 620 et seq., and 651 et seq., respectively, of this title.
+
+Division A of subchapter XX, referred to in subsec. (a)(4), was in the original a reference to subtitle 1 of title XX, which was translated as if referring to subtitle A of title XX of the Social Security Act, to reflect the probable intent of Congress. Title XX of the Act, enacting subchapter XX of this chapter, does not contain a subtitle 1.
 
 Section 534(e)(3)(A) of title 28, referred to in subsec. (a)(20)(A), (C), was redesignated section 534(f)(3)(A) of title 28 by Pub. L. 109–248, title I, §153(i), July 27, 2006, 120 Stat. 611.
 
@@ -196,7 +198,9 @@ Amendment by section 101(c)(2)(B)(i) of Pub. L. 110–351 was executed after ame
 
 #### Amendments
 
-2008—Subsec. (a)(10). Pub. L. 110–351, §104(a), substituted “civil rights, provides” for “civil rights, and provides” and inserted “, and provides that a waiver of any such standard may be made only on a case-by-case basis for non-safety standards (as determined by the State) in relative foster family homes for specific children in care” before semicolon at end.
+<b>2010</b>—Subsec. (a)(4). Pub. L. 111–148 inserted “division A of” before “subchapter XX”.
+
+<b>2008</b>—Subsec. (a)(10). Pub. L. 110–351, §104(a), substituted “civil rights, provides” for “civil rights, and provides” and inserted “, and provides that a waiver of any such standard may be made only on a case-by-case basis for non-safety standards (as determined by the State) in relative foster family homes for specific children in care” before semicolon at end.
 
 Subsec. (a)(20)(B). Pub. L. 110–351, §101(c)(2)(A)(i), which directed insertion of “and” at end of subpar. (C), was executed by making the insertion at end of subpar. (B), to reflect the probable intent of Congress and the redesignation of subpar. (C) as (B) by Pub. L. 109–248, §152(b)(2). See 2006 Amendment note below.
 
@@ -220,7 +224,7 @@ Subsec. (a)(32). Pub. L. 110–351, §301(c)(1)(A), added par. (32).
 
 Subsec. (a)(33). Pub. L. 110–351, §403, added par. (33).
 
-2006—Subsec. (a)(8). Pub. L. 109–171, §7401(c)(1), inserted “subject to subsection (c),” after “(8)”.
+<b>2006</b>—Subsec. (a)(8). Pub. L. 109–171, §7401(c)(1), inserted “subject to subsection (c),” after “(8)”.
 
 Subsec. (a)(15)(C). Pub. L. 109–239, §10(a), inserted “(including, if appropriate, through an interstate placement)” after “accordance with the permanency plan”.
 
@@ -250,13 +254,13 @@ Subsec. (a)(27). Pub. L. 109–432 added par. (27).
 
 Subsec. (c). Pub. L. 109–171, §7401(c)(2), added subsec. (c).
 
-1999—Subsec. (a)(8). Pub. L. 106–169, §401(<i>o</i>), struck out “(including activities under part F of this subchapter)” after “part A, B, or D of this subchapter”.
+<b>1999</b>—Subsec. (a)(8). Pub. L. 106–169, §401(<i>o</i>), struck out “(including activities under part F of this subchapter)” after “part A, B, or D of this subchapter”.
 
 Subsec. (a)(24). Pub. L. 106–169, §112(a), added par. (24).
 
-1998—Subsec. (a)(23). Pub. L. 105–200 added par. (23).
+<b>1998</b>—Subsec. (a)(23). Pub. L. 105–200 added par. (23).
 
-1997—Subsec. (a)(15). Pub. L. 105–89, §101(a), amended par. (15) generally. Prior to amendment, par. (15) read as follows: “effective October 1, 1983, provides that, in each case, reasonable efforts will be made (A) prior to the placement of a child in foster care, to prevent or eliminate the need for removal of the child from his home, and (B) to make it possible for the child to return to his home;”.
+<b>1997</b>—Subsec. (a)(15). Pub. L. 105–89, §101(a), amended par. (15) generally. Prior to amendment, par. (15) read as follows: “effective October 1, 1983, provides that, in each case, reasonable efforts will be made (A) prior to the placement of a child in foster care, to prevent or eliminate the need for removal of the child from his home, and (B) to make it possible for the child to return to his home;”.
 
 Subsec. (a)(17). Pub. L. 105–33, §5591(b)(1), struck out “and” at end.
 
@@ -272,33 +276,33 @@ Subsec. (a)(21). Pub. L. 105–89, §306, added par. (21).
 
 Subsec. (a)(22). Pub. L. 105–89, §308, added par. (22).
 
-1996—Subsec. (a)(17). Pub. L. 104–193, §108(d)(2), substituted “program funded under part A of this subchapter and plan approved under part D of this subchapter” for “plans approved under parts A and D of this subchapter”.
+<b>1996</b>—Subsec. (a)(17). Pub. L. 104–193, §108(d)(2), substituted “program funded under part A of this subchapter and plan approved under part D of this subchapter” for “plans approved under parts A and D of this subchapter”.
 
 Subsec. (a)(18). Pub. L. 104–193, §505(3), added par. (18) relating to preference to adult relatives.
 
 Pub. L. 104–188, §1808(a)(3), added par. (18) relating to denial or delay of adoption or foster care on basis of race, color, or national origin.
 
-1994—Subsec. (b). Pub. L. 103–432 struck out after first sentence “However, in any case in which the Secretary finds, after reasonable notice and opportunity for a hearing, that a State plan which has been approved by the Secretary no longer complies with the provisions of subsection (a) of this section, or that in the administration of the plan there is a substantial failure to comply with the provisions of the plan, the Secretary shall notify the State that further payments will not be made to the State under this part, or that such payments will be made to the State but reduced by an amount which the Secretary determines appropriate, until the Secretary is satisfied that there is no longer any such failure to comply, and until he is so satisfied he shall make no further payments to the State, or shall reduce such payments by the amount specified in his notification to the State.”
+<b>1994</b>—Subsec. (b). Pub. L. 103–432 struck out after first sentence “However, in any case in which the Secretary finds, after reasonable notice and opportunity for a hearing, that a State plan which has been approved by the Secretary no longer complies with the provisions of subsection (a) of this section, or that in the administration of the plan there is a substantial failure to comply with the provisions of the plan, the Secretary shall notify the State that further payments will not be made to the State under this part, or that such payments will be made to the State but reduced by an amount which the Secretary determines appropriate, until the Secretary is satisfied that there is no longer any such failure to comply, and until he is so satisfied he shall make no further payments to the State, or shall reduce such payments by the amount specified in his notification to the State.”
 
-1993—Subsec. (a)(2). Pub. L. 103–66 substituted “subpart 1 of part B” for “part B”.
+<b>1993</b>—Subsec. (a)(2). Pub. L. 103–66 substituted “subpart 1 of part B” for “part B”.
 
-1990—Subsec. (a)(8)(E). Pub. L. 101–508, §5054(b)(2), added cl. (E).
+<b>1990</b>—Subsec. (a)(8)(E). Pub. L. 101–508, §5054(b)(2), added cl. (E).
 
 Subsec. (a)(9). Pub. L. 101–508, §5054(b)(1), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “provides that where any agency of the State has reason to believe that the home or institution in which a child resides whose care is being paid for in whole or in part with funds provided under this part or part B of this subchapter is unsuitable for the child because of the neglect, abuse, or exploitation of such child, it shall bring such condition to the attention of the appropriate court or law enforcement agency;”.
 
-1988—Subsec. (a)(8)(A). Pub. L. 100–485 substituted “part A, B, or D of this subchapter (including activities under part F of this subchapter)” for “part A, B, C, or D of this subchapter”.
+<b>1988</b>—Subsec. (a)(8)(A). Pub. L. 100–485 substituted “part A, B, or D of this subchapter (including activities under part F of this subchapter)” for “part A, B, C, or D of this subchapter”.
 
-1986—Subsec. (a)(1), (11). Pub. L. 99–514 substituted “adoption assistance” for “adoption assistance payments”.
+<b>1986</b>—Subsec. (a)(1), (11). Pub. L. 99–514 substituted “adoption assistance” for “adoption assistance payments”.
 
-1984—Subsec. (a)(17). Pub. L. 98–378 added par. (17).
+<b>1984</b>—Subsec. (a)(17). Pub. L. 98–378 added par. (17).
 
-1982—Subsec. (a)(10). Pub. L. 97–248 amended Pub. L. 97–35, §2353(r), generally. See 1981 Amendment note below.
+<b>1982</b>—Subsec. (a)(10). Pub. L. 97–248 amended Pub. L. 97–35, §2353(r), generally. See 1981 Amendment note below.
 
-1981—Subsec. (a)(10). Pub. L. 97–35, §2353(r), as amended by Pub. L. 97–248, §160(d), substituted provisions that in order for a State to be eligible for payments under this part a State plan must provide for establishment or designation of a State authority or authorities responsible for standards for foster family homes and child care institutions, such standards to be reasonably in accord with recommended standards of national organizations concerned with standards for such institutions or homes, including standards related to admission policies, safety, sanitation, and protection of civil rights, for provisions that such State plan provide for the application of standards referred to in section 1397b(d)(1) of this title.
+<b>1981</b>—Subsec. (a)(10). Pub. L. 97–35, §2353(r), as amended by Pub. L. 97–248, §160(d), substituted provisions that in order for a State to be eligible for payments under this part a State plan must provide for establishment or designation of a State authority or authorities responsible for standards for foster family homes and child care institutions, such standards to be reasonably in accord with recommended standards of national organizations concerned with standards for such institutions or homes, including standards related to admission policies, safety, sanitation, and protection of civil rights, for provisions that such State plan provide for the application of standards referred to in section 1397b(d)(1) of this title.
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–351, title I, §101(c)(2)(B)(ii), Oct. 7, 2008, 122 Stat. 3952, provided that: “The amendments made by clause (i) \[amending this section\] shall take effect immediately after the amendments made by section 152 of Public Law 109–248 \[amending this section\] take effect.”
+Pub. L. 110–351, title I, §101(c)(2)(B)(ii), Oct. 7, 2008, 122 Stat. 3952, provided that: “The amendments made byclause (i) \[amending this section\] shall take effect immediately after the amendments made by section 152 of Public Law 109–248 \[amending this section\] take effect.”
 
 Pub. L. 110–351, title III, §301(f), Oct. 7, 2008, 122 Stat. 3971, provided that: “The amendments made by subsections (a), (b), and (c) \[enacting section 679c of this title and amending this section and sections 672, 674, and 677 of this title\] shall take effect on October 1, 2009, without regard to whether the regulations required under subsection (e)(1) \[set out as a Regulations note below\] have been promulgated by such date.”
 
@@ -310,7 +314,7 @@ In General.—Except as otherwise provided in this Act \[see Short Title of 2008
 
 “(b)
 
-Delay Permitted if State Legislation Required.—In the case of a State plan approved under part B or E of title IV of the Social Security Act \[part B of this subchapter and this part\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by this Act, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet such additional requirements before the 1st day of the 1st calendar quarter beginning afterthe close of the 1st regular session of the State legislature that ends after the 1-year period beginning with the date of the enactment of this Act \[Oct. 7, 2008\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
+Delay Permitted if State Legislation Required.—In the case of a State plan approved under part B or E of title IV of the Social Security Act \[part B of this subchapter and this part\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by this Act, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet such additional requirements before the 1st day of the 1st calendar quarter beginning after the close of the 1st regular session of the State legislature that ends after the 1-year period beginning with the date of the enactment of this Act \[Oct. 7, 2008\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
 
 #### Effective Date of 2006 Amendment
 
@@ -378,7 +382,7 @@ In General.—Except as provided in subsection (b), the amendments made by this 
 
 Special Rules.—(1)(A) If any State makes the changes in its State plan approved under section 402 of the Social Security Act \[section 602 of this title\] that are required in order to carry out the amendments made by this title and formally notifies the Secretary of Health and Human Services of its desire to become subject to such amendments as of the first day of any calendar quarter beginning on or after the date on which the proposed regulations of the Secretary of Health and Human Services are published under section 203(a) \[42 U.S.C. 671 note\] (or, if earlier, the date on which such regulations are required to be published under such section) and before October 1, 1990, such amendments shall become effective with respect to that State as of such first day.
 
-“(B) In the case of any State in which the amendments made by this title become effective (in accordance with subparagraph (A)) with respect to any quarter of a fiscal year beginning before October 1, 1990, the limitation applicable to the State for the fiscal year under section 403(k)(2) of the Social Security Act \[section 603(k)(2) of this title\] (as added by section 201(c)(1) of this Act) shall be an amount that bears the same ratio to such limitation (as otherwise determined withrespect to the State for the fiscal year) as the number of quarters in the fiscal year throughout which such amendments apply to the State bears to 4.
+“(B) In the case of any State in which the amendments made by this title become effective (in accordance with subparagraph (A)) with respect to any quarter of a fiscal year beginning before October 1, 1990, the limitation applicable to the State for the fiscal year under section 403(k)(2) of the Social Security Act \[section 603(k)(2) of this title\] (as added by section 201(c)(1) of this Act) shall be an amount that bears the same ratio to such limitation (as otherwise determined with respect to the State for the fiscal year) as the number of quarters in the fiscal year throughout which such amendments apply to the State bears to 4.
 
 “(2) Section 403(<i>l</i>)(3) of the Social Security Act \[section 603(<i>l</i>)(3) of this title\] (as added by section 201(c)(2) of this Act) is repealed effective October 1, 1995 (except that subparagraph (A) of such section 403(<i>l</i>)(3) shall remain in effect for purposes of applying any reduction in payment rates required by such subparagraph for any of the fiscal years specified therein); and section 403(<i>l</i>)(4) of such Act (as so added) is repealed effective October 1, 1998.
 
@@ -434,7 +438,7 @@ Pub. L. 110–351, title III, §301(d), Oct. 7, 2008, 122 Stat. 3970, provided t
 
 &emsp;“(2) affecting the responsibility of a State—
 
-&emsp;&emsp;“(A) as part of the plan approved under section 471 of the Social Security Act (42 U.S.C. 671), to provide foster care maintenance payments, adoption assistance payments, and if the State elects, kinship guardianship assistance payments, for Indian children who are eligible for such payments and who are not otherwise being served by an Indian tribe, tribal organization, or tribal consortium pursuant to a program under such section 479B of suchAct or a cooperative agreement or contract entered into between an Indian tribe, a tribal organization, or a tribal consortium and a State for the administration or payment of funds under part E of title IV of such Act \[this part\]; or
+&emsp;&emsp;“(A) as part of the plan approved under section 471 of the Social Security Act (42 U.S.C. 671), to provide foster care maintenance payments, adoption assistance payments, and if the State elects, kinship guardianship assistance payments, for Indian children who are eligible for such payments and who are not otherwise being served by an Indian tribe, tribal organization, or tribal consortium pursuant to a program under such section 479B of such Act or a cooperative agreement or contract entered into between an Indian tribe, a tribal organization, or a tribal consortium and a State for the administration or payment of funds under part E of title IV of such Act \[this part\]; or
 
 &emsp;&emsp;“(B) as part of the plan approved under section 477 of such Act (42 U.S.C. 677) to administer, supervise, or oversee programs carried out under that plan on behalf of Indian children who are eligible for such programs if such children are not otherwise being served by an Indian tribe, tribal organization, or tribal consortium pursuant to an approved plan under section 477(j) of such Act \[42 U.S.C. 677(j)\] or a cooperative agreement or contract entered into under section 477(b)(3)(G) of such Act \[42 U.S.C. 677(b)(3)(G)\].”
 
@@ -462,9 +466,9 @@ In General.—It is the sense of the Congress that, to the greatest extent pract
 
 Notice Requirement.—In providing financial assistance to, or entering into any contract with, any entity using funds made available under this Act, the head of each Federal agency, to the greatest extent practicable, shall provide to such entity a notice describing the statement made in subsection (a) by the Congress.”
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
 <i><sup>3</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

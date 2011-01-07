@@ -12,7 +12,7 @@
 
 &emsp;(iii) commencing at the end of the last of such 12-month periods, the support loan shall be repayable over a period equal to the then remaining useful life of the project (as determined by the Secretary) or 10 years, whichever is shorter; and
 
-&emsp;(iv) commencing at the end of such last 12-month period, such loan shall bear interest at a rate determined by the Secretary of Energy (taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the averagematurities of such loans) plus not to exceed one per centum, as determined by the Secretary of Energy, and adjusted to the nearest one-eighth of one per centum.
+&emsp;(iv) commencing at the end of such last 12-month period, such loan shall bear interest at a rate determined by the Secretary of Energy (taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans) plus not to exceed one per centum, as determined by the Secretary of Energy, and adjusted to the nearest one-eighth of one per centum.
 
 (3) The amount of the loan payment to be disbursed under this subsection for any year with respect to each type of biomass energy produced and sold by an existing municipal waste energy project shall be equal to—
 
@@ -36,7 +36,7 @@
 
 (1) In the case of any new municipal waste energy project which produces and sells biomass energy, the Secretary of Energy may commit to make, and make, a price guarantee for the operation of such project which guarantees that the price the owner or operator will receive for all or part of the production from that project shall not be less than a specified sales price determined as of the date of execution of the guarantee agreement.
 
-(2)(A) No price guarantee under this section may be based upon a cost-plus arrangement, or variant thereof, which guarantees a profit to the owner or operator involved.
+(2)(A) No price guarantee under this section may be based upon a cost-plus arrangement, orvariant thereof, which guarantees a profit to the owner or operator involved.
 
 (B) The use of a cost-of-service pricing mechanism by a person pursuant to law, or by a regulatory body establishing rates for a regulated person, shall not be deemed to be a cost-plus arrangement, or variant thereof, for purposes of subparagraph (A).
 

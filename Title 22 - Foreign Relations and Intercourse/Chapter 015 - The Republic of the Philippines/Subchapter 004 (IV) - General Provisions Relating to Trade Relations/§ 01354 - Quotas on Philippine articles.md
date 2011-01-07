@@ -22,7 +22,7 @@ Subsec. (a) of this section, which provided that the President establish quotas 
 
 #### Amendments
 
-1975—Subsec. (d). Pub. L. 93–618 substituted “United States International Trade Commission” for “United States Tariff Commission”.
+<b>1975</b>—Subsec. (d). Pub. L. 93–618 substituted “United States International Trade Commission” for “United States Tariff Commission”.
 
 #### Effective Date
 

@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### (B) Treatment of certain premiums returned
 
-&emsp;&emsp;If, in order to comply with the requirements of subsection (b), any portion of anypremium paid during any contract year is returned by the insurance company (with interest) within 60 days after the end of such contract year, the amount so returned (excluding interest) shall be deemed to reduce the sum of the premiums paid under the contract during such contract year.
+&emsp;&emsp;If, in order to comply with the requirements of subsection (b), any portion of any premium paid during any contract year is returned by the insurance company (with interest) within 60 days after the end of such contract year, the amount so returned (excluding interest) shall be deemed to reduce the sum of the premiums paid under the contract during such contract year.
 
 #### (C) Interest returned includible in gross income
 
@@ -122,13 +122,13 @@ For purposes of this section—
 
 #### Amendments
 
-2002—Subsec. (c)(3)(A)(ii). Pub. L. 107–147 repealed Pub. L. 106–554, §1(a)(7) \[title III, §318(a)(2)\]. See 2000 Amendment note below.
+<b>2002</b>—Subsec. (c)(3)(A)(ii). Pub. L. 107–147 repealed Pub. L. 106–554, §1(a)(7) \[title III, §318(a)(2)\]. See 2000 Amendment note below.
 
-2000—Subsec. (a)(2). Pub. L. 106–554, §1(a)(7) \[title III, §318(a)(1)\], inserted “or this paragraph” before period at end.
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–554, §1(a)(7) \[title III, §318(a)(1)\], inserted “or this paragraph” before period at end.
 
 Subsec. (c)(3)(A)(ii). Pub. L. 106–554, §1(a)(7) \[title III, §318(a)(2)\], which substituted “under the old contract” for “under the contract”, was repealed by Pub. L. 107–147. See Construction of 2002 Amendment note below.
 
-1989—Subsec. (c)(3)(B). Pub. L. 101–239, §7815(a)(1), substituted “benefit increases” for “increases in future benefits” in heading and amended text generally. Prior to amendment, text read as follows: “For purposes of subparagraph (A), the term ‘material change’ includes any increase in future benefits under the contract. Such term shall not include—
+<b>1989</b>—Subsec. (c)(3)(B). Pub. L. 101–239, §7815(a)(1), substituted “benefit increases” for “increases in future benefits” in heading and amended text generally. Prior to amendment, text read as follows: “For purposes of subparagraph (A), the term ‘material change’ includes any increase in future benefits under the contract. Such term shall not include—
 
 &emsp;“(i) any increase which is attributable to the payment of premiums necessary to fund the lowest level of future benefits payable in the 1st 7 contract years (determined after taking into account death benefit increases described in subparagraph (A) or (B) of section 7702(e)(2)) or to crediting of interest or other earnings (including policyholder dividends) in respect of such premiums, and
 

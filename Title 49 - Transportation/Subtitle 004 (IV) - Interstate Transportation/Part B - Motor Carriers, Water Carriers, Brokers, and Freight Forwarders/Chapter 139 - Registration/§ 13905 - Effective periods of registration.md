@@ -10,7 +10,7 @@ Person Registered With Secretary.—
 
 &emsp;(1)
 
-In general.—Except as provided in paragraph (2), any person having registered with the Secretary to provide transportation or service as a motor carrier or motor private carrier under this title, as in effect on January 1, 2005, but not having registered pursuant to section 13902(a), shall be treated, for purposes of this part, to be registered to provide such transportation or service for purposes of sections 13908 and 14504a.
+In general.—Except as provided in paragraph (2), any person having registered with the Secretary to provide transportation orservice as a motor carrier or motor private carrier under this title, as in effect on January 1, 2005, but not having registered pursuant to section 13902(a), shall be treated, for purposes of this part, to be registered to provide such transportation or service for purposes of sections 13908 and 14504a.
 
 &emsp;(2)
 
@@ -26,7 +26,7 @@ Suspension, Amendments, and Revocations.—
 
 &emsp;(1)
 
-In general.—On application of the registrant, the Secretary may amend or revoke a registration. On complaint or on the Secretary's own initiative and after notice and an opportunity for a proceeding, the Secretary may (A) suspend, amend, or revoke any part of the registration of a motor carrier, broker, or freight forwarder for willful failure to comply with this part, an applicable regulation or order of the Secretary or of the Board (including the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus), or a condition of its registration; and (B) suspend, amend, or revoke any part of the registration of a motor carrier, broker, or freight forwarder: (i) for failure to pay a civil penalty imposed under chapter 5, 51, 149, or 311 of this title; or (ii) for failure to arrange and abide by an acceptable payment plan for such civil penalty, within 90 days of the time specified byorder of the Secretary for the payment of such penalty. Subparagraph (B) shall not apply to any person who is unable to pay a civil penalty because such person is a debtor in a case under chapter 11 of title 11, United States Code.
+In general.—On application of the registrant, the Secretary may amend or revoke a registration. On complaint or on the Secretary's own initiative and after notice and an opportunity for a proceeding, the Secretary may (A) suspend, amend, or revoke any part of the registration of a motor carrier, broker, or freight forwarder for willful failure to comply with this part, an applicable regulation or order of the Secretary or of the Board (including the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus), or a condition of its registration; and (B) suspend, amend, or revoke any part of the registration of a motor carrier, broker, or freight forwarder: (i) for failure to pay a civil penalty imposed under chapter 5, 51, 149, or 311 of this title; or (ii) for failure to arrange and abide by an acceptable payment plan for such civil penalty, within 90 days of the time specified by order of the Secretary for the payment of such penalty. Subparagraph (B) shall not apply to any person who is unable to pay a civil penalty because such person is a debtor in a case under chapter 11 of title 11, United States Code.
 
 &emsp;(2)
 
@@ -64,7 +64,7 @@ Notice; period of suspension.—The Secretary may suspend or revoke under this s
 
 #### Historical and Revision Notes
 
-I74Pub. L. 104–287
+#### Pub. L. 104–287
 
 This amends 49:13905(a) for clarity and consistency.
 
@@ -82,9 +82,9 @@ Provisions similar to those in this section were contained in section 10925 of t
 
 #### Amendments
 
-2008—Subsec. (d)(1)(A). Pub. L. 110–291 inserted “(including the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus)” after “Board”.
+<b>2008</b>—Subsec. (d)(1)(A). Pub. L. 110–291 inserted “(including the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus)” after “Board”.
 
-2005—Subsecs. (b) to (d). Pub. L. 109–59, §4303(a), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively. Former subsec. (d) redesignated (e).
+<b>2005</b>—Subsecs. (b) to (d). Pub. L. 109–59, §4303(a), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively. Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 109–59, §4303(a)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
@@ -96,11 +96,11 @@ Subsec. (e)(3). Pub. L. 109–59, §4104(3), added par. (3) and struck out headi
 
 Subsec. (f). Pub. L. 109–59, §4303(a)(1), redesignated subsec. (e) as (f).
 
-1999—Subsec. (c). Pub. L. 106–159 inserted par. (1) designation and heading, inserted “(A)” before “suspend”, added cl. (B), realigned par. (1) margins, and added par. (2).
+<b>1999</b>—Subsec. (c). Pub. L. 106–159 inserted par. (1) designation and heading, inserted “(A)” before “suspend”, added cl. (B), realigned par. (1) margins, and added par. (2).
 
-1997—Subsec. (e)(1). Pub. L. 105–102 struck out comma after “31144”.
+<b>1997</b>—Subsec. (e)(1). Pub. L. 105–102 struck out comma after “31144”.
 
-1996—Subsec. (a). Pub. L. 104–287 substituted “December 31, 1995” for “the day before the effective date of this section”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–287 substituted “December 31, 1995” for “the day before the effective date of this section”.
 
 #### Relationship to Other Laws
 

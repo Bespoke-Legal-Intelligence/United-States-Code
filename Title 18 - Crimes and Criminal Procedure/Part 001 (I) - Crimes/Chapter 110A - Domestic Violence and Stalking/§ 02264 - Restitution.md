@@ -10,7 +10,7 @@ Scope and Nature of Order.—
 
 &emsp;(1)
 
-Directions.—The order of restitution under this section shall direct the defendantto pay the victim (through the appropriate court mechanism) the full amount of the victim's losses as determined by the court pursuant to paragraph (2).
+Directions.—The order of restitution under this section shall direct the defendant to pay the victim (through the appropriate court mechanism) the full amount of the victim's losses as determined by the court pursuant to paragraph (2).
 
 &emsp;(2)
 
@@ -50,7 +50,7 @@ Victim Defined.—For purposes of this section, the term “victim” means the 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–132, §205(d)(1), inserted “or 3663A” after “3663”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–132, §205(d)(1), inserted “or 3663A” after “3663”.
 
 Subsec. (b)(1). Pub. L. 104–132, §205(d)(2)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The order of restitution under this section shall direct that—
 

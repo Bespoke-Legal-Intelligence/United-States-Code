@@ -6,7 +6,7 @@
 
 (c) Whoever transmits in interstate or foreign commerce any communication containing any threat to kidnap any person or any threat to injure the person of another, shall be fined under this title or imprisoned not more than five years, or both.
 
-(d) Whoever, with intent to extort from any person, firm, association, or corporation, any money or other thing of value, transmits ininterstate or foreign commerce any communication containing any threat to injure the property or reputation of the addressee or of another or the reputation of a deceased person or any threat to accuse the addressee or any other person of a crime, shall be fined under this title or imprisoned not more than two years, or both.
+(d) Whoever, with intent to extort from any person, firm, association, or corporation, any money or other thing of value, transmits in interstate or foreign commerce any communication containing any threat to injure the property or reputation of the addressee or of another or the reputation of a deceased person or any threat to accuse the addressee or any other person of a crime, shall be fined under this title or imprisoned not more than two years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 741; Pub. L. 99–646, §63, Nov. 10, 1986, 100 Stat. 3614; Pub. L. 103–322, title XXXIII, §330016(1)(G), (H), (K), Sept. 13, 1994, 108 Stat. 2147.)
 
@@ -22,11 +22,11 @@ Changes were made in phraseology and arrangement.
 
 #### Amendments
 
-1994—Subsecs. (a), (b). Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Subsecs. (a), (b). Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not more than $5,000”.
 
 Subsec. (c). Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000”.
 
 Subsec. (d). Pub. L. 103–322, §330016(1)(G), substituted “fined under this title” for “fined not more than $500”.
 
-1986—Pub. L. 99–646 inserted “or foreign” after “interstate” wherever appearing.
+<b>1986</b>—Pub. L. 99–646 inserted “or foreign” after “interstate” wherever appearing.
 

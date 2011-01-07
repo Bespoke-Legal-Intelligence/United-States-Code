@@ -28,7 +28,7 @@ This restates 31:5154 to clarify the intent of the section. See 26 Cong. Rec. 71
 
 #### Amendments
 
-1983—Pub. L. 97–452 substituted “other forms of money” for “United States coins and currency circulating within its jurisdiction”.
+<b>1983</b>—Pub. L. 97–452 substituted “other forms of money” for “United States coins and currency circulating within its jurisdiction”.
 
 #### Effective Date of 1983 Amendment
 

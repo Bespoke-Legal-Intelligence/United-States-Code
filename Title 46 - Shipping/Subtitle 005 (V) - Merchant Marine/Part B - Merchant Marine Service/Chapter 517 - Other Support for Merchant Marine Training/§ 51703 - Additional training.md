@@ -10,9 +10,9 @@ Equipment, Supplies, and Contracts.—The Secretary may—
 
 &emsp;(1) prepare or buy equipment or supplies required for the additional training; and
 
-&emsp;(2) without regard to section 3709 of the Revised Statutes (41 U.S.C. 5), make contracts for services the Secretary considers necessary to prepare the equipment and supplies and to supervise and administer the additional training.
+&emsp;(2) without regard to section 6101(b) to (d) of title 41, make contracts for services the Secretary considers necessary to prepare the equipment and supplies and to supervise and administer the additional training.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1583.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1583; Pub. L. 111–350, §5(n), Jan. 4, 2011, 124 Stat. 3853.)
 
 Historical and Revision Notes
 
@@ -33,4 +33,8 @@ June 29, 1936, ch. 858, title XIII, §1305(a), (b), as added Pub. L. 96–453, �
 In subsection (a), before paragraph (1), the words “as the Secretary deems necessary” are omitted as unnecessary.
 
 In subsection (b), the words “with any person, partnership, firm, association, or corporation” and “the performance of” are omitted as unnecessary.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (b)(2). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes (41 U.S.C. 5)”.
 

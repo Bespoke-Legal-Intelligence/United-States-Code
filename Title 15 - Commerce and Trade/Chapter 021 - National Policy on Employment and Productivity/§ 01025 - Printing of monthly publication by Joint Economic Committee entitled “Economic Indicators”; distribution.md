@@ -12,5 +12,5 @@ Section was not enacted as a part of the Employment Act of 1946 which comprises 
 
 #### Amendments
 
-1996—Pub. L. 104–186 substituted “Chief Administrative Officer” for “Doorkeeper”.
+<b>1996</b>—Pub. L. 104–186 substituted “Chief Administrative Officer” for “Doorkeeper”.
 

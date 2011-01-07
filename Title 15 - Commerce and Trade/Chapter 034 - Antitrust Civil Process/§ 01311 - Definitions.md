@@ -38,11 +38,11 @@ The International Antitrust Enforcement Assistance Act of 1994, referred to in s
 
 #### Amendments
 
-1994—Subsec. (d). Pub. L. 103–438, §3(e)(1)(A)(i), substituted “, any” for “or any” and inserted before semicolon at end “or, with respect to the International Antitrust Enforcement Assistance Act of 1994, any of the foreign antitrust laws”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–438, §3(e)(1)(A)(i), substituted “, any” for “or any” and inserted before semicolon at end “or, with respect to the International Antitrust Enforcement Assistance Act of 1994, any of the foreign antitrust laws”.
 
 Subsec. (k). Pub. L. 103–438, §3(e)(1)(A)(ii), added subsec. (k).
 
-1980—Subsec. (g). Pub. L. 96–349, §2(a)(1), extended definition of “documentary material” to include any product of discovery.
+<b>1980</b>—Subsec. (g). Pub. L. 96–349, §2(a)(1), extended definition of “documentary material” to include any product of discovery.
 
 Subsec. (h). Pub. L. 96–349, §2(a)(2), substituted a semicolon for period at end.
 
@@ -50,7 +50,7 @@ Subsec. (i). Pub. L. 96–349, §2(a)(3), added subsec. (i).
 
 Subsec. (j). Pub. L. 96–349, §7(a)(1), added subsec. (j).
 
-1976—Subsec. (a). Pub. L. 94–435, §101(1), in par. (1) inserted “and” after semicolon preceding par. (2), struck out par. (2) which included the Federal Trade Commission Act in definition of antitrust law for purposes of this chapter, redesignated par. (3) as (2), struck out “(A)” before “any restraint”, and struck out subpar.\(B) which related to any unfair trade practice in or affecting interstate or foreign trade or commerce.
+<b>1976</b>—Subsec. (a). Pub. L. 94–435, §101(1), in par. (1) inserted “and” after semicolon preceding par. (2), struck out par. (2) which included the Federal Trade Commission Act in definition of antitrust law for purposes of this chapter, redesignated par. (3) as (2), struck out “(A)” before “any restraint”, and struck out subpar. (B) which related to any unfair trade practice in or affecting interstate or foreign trade or commerce.
 
 Subsec. (c). Pub. L. 94–435, §101(2), inserted “or in any activities in preparation for a merger, acquisition, joint venture, or similar transaction, which if consummated, may result in an antitrust violation;” after “engaged in any antitrust violation”.
 
@@ -68,7 +68,7 @@ Section 1 of Pub. L. 96–349 provided: “That this Act \[amending sections 15,
 
 #### Short Title
 
-Section 1 of Pub. L. 87–664 provided: “That this Act \[enacting this chapter and amending section 1505 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Antitrust Civil Process Act’.”
+Section 1 of Pub. L. 87–664 provided: “That this Act \[enacting this chapter and amending section 1505 ofTitle 18, Crimes and Criminal Procedure\] may be cited as the ‘Antitrust Civil Process Act’.”
 
 #### Savings Provision
 

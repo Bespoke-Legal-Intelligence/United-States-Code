@@ -16,17 +16,27 @@ Payments received from an obligor under an open end consumer credit plan by the 
 
 #### (c) Changes by card issuer
 
-If a card issuer makes a material change in the mailing address, office, or procedures for handling cardholder payments, and such change causes a material delay in the crediting of a cardholder payment made during the 60-day period following the date on which such change took effect, the card issuer may not impose any late fee or finance charge for a late payment on the credit card account to which such payment was credited.
+If a card issuer makes a material change in the mailing address, office, or procedures forhandling cardholder payments, and such change causes a material delay in the crediting of a cardholder payment made during the 60-day period following the date on which such change took effect, the card issuer may not impose any late fee or finance charge for a late payment on the credit card account to which such payment was credited.
 
-(Pub. L. 90–321, title I, §164, as added Pub. L. 93–495, title III, §306, Oct. 28, 1974, 88 Stat. 1514; amended Pub. L. 111–24, title I, §104, May 22, 2009, 123 Stat. 1741.)
+(Pub. L. 90–321, title I, §164, as added Pub. L. 93–495, title III, §306, Oct. 28, 1974, 88 Stat. 1514; amended Pub. L. 111–24, title I, §104, May 22, 2009, 123 Stat. 1741; Pub. L. 111–203, title X, §§1087, 1100A(2), July 21, 2010, 124 Stat. 2086, 2107.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+
+<i>Pub. L. 111–203, title X, §§1087, 1100H, July 21, 2010, 124 Stat. 2086, 2113, provided that, effective on the designated transfer date, the Fair Credit Billing Act (title III of Pub. L. 93–495) is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-2009—Pub. L. 111–24, §104(1), substituted “Prompt and fair crediting of payments” for “Prompt crediting of payments” in section catchline, designated existing provisions as subsec. (a), and inserted subsec. (a) heading.
+<b>2009</b>—Pub. L. 111–24, §104(1), substituted “Prompt and fair crediting of payments” for “Prompt crediting of payments” in section catchline, designated existing provisions as subsec. (a), and inserted subsec. (a) heading.
 
 Subsec. (a). Pub. L. 111–24, §104(2), (3), inserted “, by 5:00 p.m. on the date on which such payment is due,” after “in readily identifiable form” and substituted “manner, and location” for “manner, location, and time”.
 
 Subsecs. (b), (c). Pub. L. 111–24, §104(4), added subsecs. (b) and (c).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2009 Amendment
 

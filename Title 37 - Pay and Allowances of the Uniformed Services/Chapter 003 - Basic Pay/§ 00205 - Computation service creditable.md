@@ -108,27 +108,27 @@ In subsection (c)(3), the words “chapter 67 of title 10” are substituted for
 
 #### Amendments
 
-2006—Subsec. (a)(2)(I). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsec. (a)(2)(I). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-2000—Subsec. (f). Pub. L. 106–398 substituted “that the officer performed concurrently as an enlisted member” for “that the officer performed concurrently as a member” and “section 12203” for “section 12209”.
+<b>2000</b>—Subsec. (f). Pub. L. 106–398 substituted “that the officer performed concurrently as an enlisted member” for “that the officer performed concurrently as a member” and “section 12203” for “section 12209”.
 
-1999—Subsec. (f). Pub. L. 106–65 added subsec. (f).
+<b>1999</b>—Subsec. (f). Pub. L. 106–65 added subsec. (f).
 
-1997—Subsec. (d). Pub. L. 105–85 substituted a comma for the period after “August 1, 1979”.
+<b>1997</b>—Subsec. (d). Pub. L. 105–85 substituted a comma for the period after “August 1, 1979”.
 
-1996—Subsec. (d). Pub. L. 104–201 substituted “for service that the officer performed on or after August 1, 1979.” for “that service after July 31, 1990, that the officer performed while serving on active duty”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–201 substituted “for service that the officer performed on or after August 1, 1979.” for “that service after July 31, 1990, that the officer performed while serving on active duty”.
 
-1994—Subsec. (e)(2)(A). Pub. L. 103–337, §1676(b)(2)(A), substituted “12103(b) or 12103(d)” for “511(b) or 511(d)”.
+<b>1994</b>—Subsec. (e)(2)(A). Pub. L. 103–337, §1676(b)(2)(A), substituted “12103(b) or 12103(d)” for “511(b) or 511(d)”.
 
 Subsec. (e)(2)(B). Pub. L. 103–337, §1676(b)(2)(B), substituted “chapter 1209” for “chapter 39”.
 
-1993—Subsec. (a)(7)(B). Pub. L. 103–35 substituted “the Department of Veterans Affairs” for “the Veterans’ Administration”.
+<b>1993</b>—Subsec. (a)(7)(B). Pub. L. 103–35 substituted “the Department of Veterans Affairs” for “the Veterans’ Administration”.
 
-1992—Subsec. (d). Pub. L. 102–484 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Notwithstanding subsection (a), a commissioned officer may not count in computing his basic pay any period of service after October 13, 1964, that he performed concurrently as a member of a uniformed service and as a member of the Senior Reserve Officers’ Training Corps.”
+<b>1992</b>—Subsec. (d). Pub. L. 102–484 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Notwithstanding subsection (a), a commissioned officer may not count in computing his basic pay any period of service after October 13, 1964, that he performed concurrently as a member of a uniformed service and as a member of the Senior Reserve Officers’ Training Corps.”
 
-1991—Subsecs. (a) to (c). Pub. L. 102–25 struck out “of this section” and “of this subsection” wherever appearing.
+<b>1991</b>—Subsecs. (a) to (c). Pub. L. 102–25 struck out “of this section” and “of this subsection” wherever appearing.
 
-1989—Subsec. (e). Pub. L. 101–189 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Notwithstanding subsection (a) of this section, a period served by a member of a uniformed service in a reserve component under an enlistment under section 511 of title 10 before the member—
+<b>1989</b>—Subsec. (e). Pub. L. 101–189 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Notwithstanding subsection (a) of this section, a period served by a member of a uniformed service in a reserve component under an enlistment under section 511 of title 10 before the member—
 
 &emsp;“(1) begins service on active duty under subsection (b) of that section, or
 
@@ -136,9 +136,9 @@ Subsec. (e)(2)(B). Pub. L. 103–337, §1676(b)(2)(B), substituted “chapter 12
 
 > may not be counted under this section.”
 
-1984—Subsec. (e). Pub. L. 98–525 added subsec. (e).
+<b>1984</b>—Subsec. (e). Pub. L. 98–525 added subsec. (e).
 
-1980—Subsec. (a). Pub. L. 96–513, §402(a), struck out in introductory text reference to subsec. (d) of this section, struck out cls. (7) and (8), which provided for the addition of four years for medical and dental officers and one year in addition to the four years for a medical officer who has completed one year of medical internship or the equivalent, respectively, redesignated cl. (9) as (7), and in text following cl. (7), as so redesignated, substituted “subsections (b), (c), and (d) of section 1402 and subsections (b), (c), and (d) of section 1402a” for “section 1402(b)–(d) and section 1402a(a)–(d)”, and “clauses (2) through (7)” for “clauses (2)–(9)”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513, §402(a), struck out in introductory text reference to subsec. (d) of this section, struck out cls. (7) and (8), which provided for the addition of four years for medical and dental officers and one year in addition to the four years for a medical officer who has completed one year of medical internship or the equivalent, respectively, redesignated cl. (9) as (7), and in text following cl. (7), as so redesignated, substituted “subsections (b), (c), and (d) of section 1402 and subsections (b), (c), and (d) of section 1402a” for “section 1402(b)–(d) and section 1402a(a)–(d)”, and “clauses (2) through (7)” for “clauses (2)–(9)”.
 
 Pub. L. 96–513, §516(3), substituted in cl. (5) “National Oceanic and Atmospheric Administration” for “Environmental Science Service Administration” and in provision following cl. (9) substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Service Administration” and inserted “Environmental Science Service Administration” before “Coast and Geodetic Survey”.
 
@@ -148,13 +148,13 @@ Subsec. (b). Pub. L. 96–513, §402(b), struck out provisions relating to reduc
 
 Subsecs. (c) to (e). Pub. L. 96–513, §402(c), redesignated subsecs. (d) and (e) as (c) and (d), respectively. Former subsec. (c), relating to limitations on service credited under cl. (7) or (8) of subsec. (a) of this section, was struck out.
 
-1974—Subsec. (a)(1). Pub. L. 93–545 inserted “aviation midshipman,” after “flight officer,”.
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–545 inserted “aviation midshipman,” after “flight officer,”.
 
-1968—Subsec. (e). Pub. L. 90–623 substituted “October 13, 1964,” for “the enactment of this subsection”.
+<b>1968</b>—Subsec. (e). Pub. L. 90–623 substituted “October 13, 1964,” for “the enactment of this subsection”.
 
-1966—Subsec. (a). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey” in cl. (5) and inserted provision that, for the purpose of cl. (5), periods during which a member was a deck officer or junior engineer in the Environmental Science Services Administration includes periods during which a member was a deck officer or junior engineer in the Coast and Geodetic Survey.
+<b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey” in cl. (5) and inserted provision that, for the purpose of cl. (5), periods during which a member was a deck officer or junior engineer in the Environmental Science Services Administration includes periods during which a member was a deck officer or junior engineer in the Coast and Geodetic Survey.
 
-1964—Subsec. (e). Pub. L. 88–647 added subsec. (e).
+<b>1964</b>—Subsec. (e). Pub. L. 88–647 added subsec. (e).
 
 #### Effective Date of 1994 Amendment
 

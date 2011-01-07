@@ -4,7 +4,7 @@
 
 (1) Subject to the availability of funds appropriated to carry out this section, the Secretary shall award program grants to each of the postgraduate institutions listed in subsection (e) of this section that is determined by the Secretary to be making a substantial contribution to the legal, medical, dental, veterinary, or other graduate education opportunities in mathematics, engineering, or the physical or natural sciences for Black Americans.
 
-(2) No grant in excess of $1,000,000 may be made under this section unless the postgraduate institution provides assurances that 50 percent of the cost of the purposes for which the grant is made will be paid from non-Federal sources, except that no institution shall be required to match any portion of the first $1,000,000 of the institution's award from the Secretary. After funds are made available to each eligible institution under the funding rules described in subsection (f) of this section, the Secretary shall distribute, on a pro rata basis, any amounts which were not so made available (by reason of the failure of an institution to comply with the matching requirements of this paragraph) among the institutions that have complied with such matching requirement.
+(2) No grant in excess of $1,000,000 may be made under this section unless the postgraduate institution provides assurances that 50 percent of the cost of the purposes for which the grant is made will be paid from non-Federal sources,except that no institution shall be required to match any portion of the first $1,000,000 of the institution's award from the Secretary. After funds are made available to each eligible institution under the funding rules described in subsection (f) of this section, the Secretary shall distribute, on a pro rata basis, any amounts which were not so made available (by reason of the failure of an institution to comply with the matching requirements of this paragraph) among the institutions that have complied with such matching requirement.
 
 #### (b) Duration
 
@@ -154,7 +154,7 @@ No institution that is eligible for and receives an award under section 1102a, 1
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–315, §311(a), inserted at end “Any funds awarded for such five-year grant period that are obligated during such five-year period may be expended during the 10-year period beginning on the first day of such five-year period.”
+<b>2008</b>—Subsec. (b). Pub. L. 110–315, §311(a), inserted at end “Any funds awarded for such five-year grant period that are obligated during such five-year period may be expended during the 10-year period beginning on the first day of such five-year period.”
 
 Subsec. (c)(5). Pub. L. 110–315, §311(b)(1), substituted “establishing or improving” for “establish or improve”.
 
@@ -182,7 +182,7 @@ Subsec. (g). Pub. L. 110–315, §311(e), substituted “2008” for “1998” 
 
 Subsec. (h). Pub. L. 110–315, §311(f), added subsec. (h).
 
-1998—Subsec. (a)(1). Pub. L. 105–244, §304(b)(1)(A)(i), inserted “in mathematics, engineering, or the physical or natural sciences” after “graduate education opportunities”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–244, §304(b)(1)(A)(i), inserted “in mathematics, engineering, or the physical or natural sciences” after “graduate education opportunities”.
 
 Subsec. (a)(2). Pub. L. 105–244, §304(b)(1)(A)(ii), substituted “$1,000,000 may” for “$500,000 may” and “, except that no institution shall be required to match any portion of the first $1,000,000 of the institution's award from the Secretary. After funds are made available to each eligible institution under the funding rules described in subsection (f) of this section, the Secretary shall distribute, on a pro rata basis, any amounts which were not so made available (by reason of the failure of an institution to comply with the matching requirements of this paragraph) among the institutions that have complied with such matching requirement.” for “except that the Morehouse School of Medicine shall receive at least $3,000,000.”
 
@@ -226,11 +226,11 @@ Subsec. (f)(2), (3). Pub. L. 105–244, §304(b)(4)(C), added pars. (2) and (3) 
 
 Subsec. (g). Pub. L. 105–244, §304(b)(5), added subsec. (g).
 
-1996—Subsec. (b). Pub. L. 104–141 struck out at end “No more than two 5-year grants (for a period of notmore than 10 years) may be made to any one undergraduate or postgraduate institution.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–141 struck out at end “No more than two 5-year grants (for a period of not more than 10 years) may be made to any one undergraduate or postgraduate institution.”
 
-1993—Subsec. (e)(2). Pub. L. 103–208 redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “has been accredited by a nationally recognized accrediting agency or association or has been approved by a nationally recognized approving agency; and”.
+<b>1993</b>—Subsec. (e)(2). Pub. L. 103–208 redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “has been accredited by a nationally recognized accrediting agency or association or has been approved by a nationally recognized approving agency; and”.
 
-1992—Subsec. (e). Pub. L. 102–325, §303(f)(1), substituted “Eligibility” for “Eligible professional or graduate institutions” in heading and amended text generally. Prior to amendment, text read as follows: “Independent professional or graduate institutions eligible for grants under subsection (a) of this section include—
+<b>1992</b>—Subsec. (e). Pub. L. 102–325, §303(f)(1), substituted “Eligibility” for “Eligible professional or graduate institutions” in heading and amended text generally. Prior to amendment, text read as follows: “Independent professional or graduate institutions eligible for grants under subsection (a) of this section include—
 
 &emsp;“(1) Morehouse School of Medicine;
 
@@ -244,7 +244,7 @@ Subsec. (g). Pub. L. 105–244, §304(b)(5), added subsec. (g).
 
 Subsec. (f). Pub. L. 102–325, §303(g), added subsec. (f).
 
-1987—Subsec. (a)(2). Pub. L. 100–50, §2(a)(9), inserted “except that the Morehouse School of Medicine shall receive at least $3,000,000”.
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–50, §2(a)(9), inserted “except that the Morehouse School of Medicine shall receive at least $3,000,000”.
 
 Subsec. (c)(3). Pub. L. 100–50, §2(a)(10), made technical amendment to reference to section 1065 of this title to correct reference to corresponding section of original act.
 

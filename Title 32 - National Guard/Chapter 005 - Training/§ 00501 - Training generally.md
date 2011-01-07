@@ -28,9 +28,9 @@ In subsection (a), the words “that of” are substituted for the words “the 
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–163 substituted “States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “States and Territories, Puerto Rico, and the District of Columbia”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–163 substituted “States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “States and Territories, Puerto Rico, and the District of Columbia”.
 
-1988—Subsec. (b). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
 #### Demonstration Project To Increase Reserve Component Internet Access and Services in Rural Communities
 
@@ -192,11 +192,11 @@ Equipment and Facilities.—(1) Equipment and facilities of the National Guard, 
 
 “(i)
 
-Status of Participants.—(1) A person receiving training under the pilot program shall be considered anemployee of the United States for the purposes of the following provisions of law:
+Status of Participants.—(1) A person receiving training under the pilot program shall be considered an employee of the United States for the purposes of the following provisions of law:
 
 &emsp;“(A) Subchapter I of chapter 81 of title 5, United States Code (relating to compensation of Federal employees for work injuries).
 
-&emsp;“(B) Section 1346(b) and chapter 171 of title 28, United States Code, and any other provision of law relating to the liability of the United States for tortious conduct of employees of the United States.
+&emsp;“(B) Section 1346(b) and chapter 171 of title 28, United States Code, and any other provision of lawrelating to the liability of the United States for tortious conduct of employees of the United States.
 
 “(2) In the application of the provisions of law referred to in paragraph (1)(A) to a person referred to in paragraph (1)—
 

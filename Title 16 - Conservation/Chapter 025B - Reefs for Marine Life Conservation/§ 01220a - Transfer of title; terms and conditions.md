@@ -18,11 +18,11 @@ Section 1220(c)(1) of this title, referred to in par. (4), probably means sectio
 
 #### Amendments
 
-2006—Par. (4). Pub. L. 109–163 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the transfer would be at no cost to the Government (except for any financial assistance provided under section 1220c–1 of this title) with the State taking delivery of such obsolete ships at fleetside of the National Defense Reserve Fleet in an ‘as is—where is’ condition.”
+<b>2006</b>—Par. (4). Pub. L. 109–163 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the transfer would be at no cost to the Government (except for any financial assistance provided under section 1220c–1 of this title) with the State taking delivery of such obsolete ships at fleetside of the National Defense Reserve Fleet in an ‘as is—where is’ condition.”
 
-2002—Par. (4). Pub. L. 107–314 inserted “(except for any financial assistance provided under section 1220c–1 of this title)” after “at no cost to the Government”.
+<b>2002</b>—Par. (4). Pub. L. 107–314 inserted “(except for any financial assistance provided under section 1220c–1 of this title)” after “at no cost to the Government”.
 
-1984—Pub. L. 98–623 substituted “obsolete ships” for “Liberty ships” wherever appearing in provisions preceding par. (1) and in par. (4), and substituted “may transfer” for “shall transfer” in provisions preceding par. (1).
+<b>1984</b>—Pub. L. 98–623 substituted “obsolete ships” for “Liberty ships” wherever appearing in provisions preceding par. (1) and in par. (4), and substituted “may transfer” for “shall transfer” in provisions preceding par. (1).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

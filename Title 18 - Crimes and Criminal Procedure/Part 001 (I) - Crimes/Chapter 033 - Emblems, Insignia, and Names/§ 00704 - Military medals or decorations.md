@@ -48,7 +48,7 @@ This section \[section 16\] clarifies the wording of section 704 of title 18, U.
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–437, §3(a), substituted “purchases, attempts to purchase, solicits for purchase, mails, ships, imports, exports, produces blank certificates of receipt for, manufactures, sells, attempts to sell, advertises for sale, trades, barters, or exchanges for anything of value” for “manufactures, or sells”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–437, §3(a), substituted “purchases, attempts to purchase, solicits for purchase, mails, ships, imports, exports, produces blank certificates of receipt for, manufactures, sells, attempts to sell, advertises for sale, trades, barters, or exchanges for anything of value” for “manufactures, or sells”.
 
 Subsec. (b). Pub. L. 109–437, §3(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
@@ -60,11 +60,11 @@ Subsec. (c)(2). Pub. L. 109–437, §3(d)(2), added par. (2) and struck out form
 
 Subsec. (d). Pub. L. 109–437, §3(c), added subsec. (d).
 
-2001—Subsec. (b)(2)(B). Pub. L. 107–107 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “As used in this subsection, ‘Congressional Medal of Honor’ means a medal awarded under section 3741, 6241, or 8741 of title 10.”
+<b>2001</b>—Subsec. (b)(2)(B). Pub. L. 107–107 amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: “As used in this subsection, ‘Congressional Medal of Honor’ means a medal awarded under section 3741, 6241, or 8741 of title 10.”
 
-1996—Subsec. (a). Pub. L. 104–294 amended Pub. L. 103–322, §320109(1). See 1994 Amendment note below.
+<b>1996</b>—Subsec. (a). Pub. L. 104–294 amended Pub. L. 103–322, §320109(1). See 1994 Amendment note below.
 
-1994—Subsec. (a). Pub. L. 103–322, §§320109(2), 330016(1)(E), amended subsec. (a) identically, substituting “fined under this title” for “fined not more than $250”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §§320109(2), 330016(1)(E), amended subsec. (a) identically, substituting “fined under this title” for “fined not more than $250”.
 
 Pub. L. 103–322, §320109(1), as amended by Pub. L. 104–294, §604(b)(16), designated existing provisions as subsec. (a) and inserted heading.
 
@@ -72,7 +72,7 @@ Subsec. (b). Pub. L. 103–322, §320109(3), added subsec. (b).
 
 Subsec. (b)(2)(B). Pub. L. 103–442 inserted “, 6241, or 8741” after “3741”.
 
-1949—Act May 24, 1949, covered all service decorations awarded members of the armed forces by any of the armed services.
+<b>1949</b>—Act May 24, 1949, covered all service decorations awarded members of the armed forces by any of the armed services.
 
 #### Effective Date of 1996 Amendment
 

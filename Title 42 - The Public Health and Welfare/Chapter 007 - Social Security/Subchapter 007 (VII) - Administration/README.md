@@ -2,7 +2,7 @@
 
 #### Amendments
 
-1950—Act Aug. 28, 1950, ch. 809, title III, pt. 6, §361(f), 64 Stat. 558, substituted “ADMINISTRATION” for “SOCIAL SECURITY BOARD” as subchapter heading.
+<b>1950</b>—Act Aug. 28, 1950, ch. 809, title III, pt. 6, §361(f), 64 Stat. 558, substituted “ADMINISTRATION” for “SOCIAL SECURITY BOARD” as subchapter heading.
 
 
 ---
@@ -24,3 +24,4 @@
 - [&sect; 00911 - Budgetary treatment of trust fund operations](%C2%A7%2000911%20-%20Budgetary%20treatment%20of%20trust%20fund%20operations.md)
 - [&sect; 00912 - Office of Rural Health Policy](%C2%A7%2000912%20-%20Office%20of%20Rural%20Health%20Policy.md)
 - [&sect; 00913 - Duties and authority of Secretary](%C2%A7%2000913%20-%20Duties%20and%20authority%20of%20Secretary.md)
+- [&sect; 00914 - Office of Women's Health](%C2%A7%2000914%20-%20Office%20of%20Women%27s%20Health.md)

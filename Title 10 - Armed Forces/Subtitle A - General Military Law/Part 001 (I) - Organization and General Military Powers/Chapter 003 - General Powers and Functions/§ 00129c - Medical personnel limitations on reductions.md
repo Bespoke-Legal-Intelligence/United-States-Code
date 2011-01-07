@@ -40,7 +40,7 @@ Provisions similar to those in this section were contained in Pub. L. 101–510,
 
 #### Amendments
 
-1997—Subsec. (e)(1). Pub. L. 105–85 substituted “section 115a(e)(2)” for “section 115a(g)(2)”.
+<b>1997</b>—Subsec. (e)(1). Pub. L. 105–85 substituted “section 115a(e)(2)” for “section 115a(g)(2)”.
 
 #### Prohibition on Conversion of Military Medical and Dental Positions to Civilian Medical and Dental Positions
 

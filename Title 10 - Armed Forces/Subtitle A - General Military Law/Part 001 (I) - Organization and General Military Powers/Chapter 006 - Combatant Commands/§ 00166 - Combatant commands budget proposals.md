@@ -24,7 +24,7 @@ SOF Training With Foreign Forces.—A funding proposal for force training under 
 
 #### Amendments
 
-1991—Subsec. (c). Pub. L. 102–190 added subsec. (c).
+<b>1991</b>—Subsec. (c). Pub. L. 102–190 added subsec. (c).
 
 #### Effective Date
 

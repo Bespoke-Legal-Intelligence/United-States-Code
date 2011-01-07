@@ -26,7 +26,7 @@ As used in this section, the term “dual trading” means the execution of cust
 
 #### (c) “Broker association” defined
 
-As used in this section, the term “broker association” shall include two or more contract market members or registered derivatives transaction execution facility members with floor trading privileges of whom at least one is acting as a floor broker, who—
+As used in this section, the term “broker association” shall include two or more contractmarket members or registered derivatives transaction execution facility members with floor trading privileges of whom at least one is acting as a floor broker, who—
 
 &emsp;(1) engage in floor brokerage activity on behalf of the same employer,
 

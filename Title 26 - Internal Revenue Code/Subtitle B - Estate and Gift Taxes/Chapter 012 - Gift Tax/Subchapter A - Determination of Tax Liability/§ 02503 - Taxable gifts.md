@@ -2,7 +2,7 @@
 
 #### (a) General definition
 
-The term “taxable gifts” means the total amount of gifts made during the calendar year, less the deductions provided in subchapter C (section 2522 and following).
+The term “taxable gifts” means the total amount of gifts made during the calendar year,less the deductions provided in subchapter C (section 2522 and following).
 
 #### (b) Exclusions from gifts
 
@@ -82,17 +82,17 @@ If any individual waives, before the death of a participant, any survivor benefi
 
 #### Amendments
 
-1997—Subsec. (b). Pub. L. 105–34 designated existing provisions as par. (1), inserted par. heading, realigned margins, and added par. (2).
+<b>1997</b>—Subsec. (b). Pub. L. 105–34 designated existing provisions as par. (1), inserted par. heading, realigned margins, and added par. (2).
 
-1989—Subsecs. (f), (g). Pub. L. 101–239 redesignated subsec. (f), relating to treatment of certain loans of artworks, as (g).
+<b>1989</b>—Subsecs. (f), (g). Pub. L. 101–239 redesignated subsec. (f), relating to treatment of certain loans of artworks, as (g).
 
-1988—Subsec. (e)(2)(B). Pub. L. 100–647, §1018(u)(52), substituted “section 213(d)” for “section 213(e)”.
+<b>1988</b>—Subsec. (e)(2)(B). Pub. L. 100–647, §1018(u)(52), substituted “section 213(d)” for “section 213(e)”.
 
 Subsec. (f). Pub. L. 100–647, §1018(s)(2)(A), added subsec. (f) relating to treatment of certain loans of artworks.
 
-1986—Subsec. (f). Pub. L. 99–514 added subsec. (f).
+<b>1986</b>—Subsec. (f). Pub. L. 99–514 added subsec. (f).
 
-1981—Subsec. (a). Pub. L. 97–34, §442(a)(3)(A), substituted “the total amount of gifts made during the calendar year, less the deductions provided in subchapter C (section 2522 and following)” for “, in the case of gifts made after December 31, 1970, the total amount of gifts made during calendar quarter, less the deductions provided in subchapter C (sec. 2521 and following” and struck out provision that in the case of gifts made before Jan. 1, 1971, “taxable gifts” means the total amount of gifts made during the calendar year, less the deductions provided in subchapter C.
+<b>1981</b>—Subsec. (a). Pub. L. 97–34, §442(a)(3)(A), substituted “the total amount of gifts made during the calendar year, less the deductions provided in subchapter C (section 2522 and following)” for “, in the case of gifts made after December 31, 1970, the total amount of gifts made during calendar quarter, less the deductions provided in subchapter C (sec. 2521 and following” and struck out provision that in the case of gifts made before Jan. 1, 1971, “taxable gifts” means the total amount of gifts made during the calendar year, less the deductions provided in subchapter C.
 
 Subsec. (b). Pub. L. 97–34, §442(a)(3)(B), substituted provision that in the case of gifts, other than gifts of future interests in property, made to any person by the donor during the calendar year, the first $10,000 of such gifts to such person shall not, for purposes of subsec. (a), be included in the total amount of gifts made during such year for provision that in computing taxable gifts for the calendar quarter, in the case of gifts, other than gifts of future interests in property, made to any person by the donor during the calendar year 1971 and subsequent calendar years, $10,000 of such gifts to such person less the aggregate of the amounts of such gifts to such person during all preceding calendar quarters of the calendar year shall not, for purposes of subsec. (a), be included in the total amount of gifts made during such quarter.
 
@@ -102,9 +102,9 @@ Subsec. (d). Pub. L. 97–34, §311(h)(5), repealed subsec. (d) which related to
 
 Subsec. (e). Pub. L. 97–34, §441(b), added subsec. (e).
 
-1978—Subsec. (d). Pub. L. 95–600 added subsec. (d).
+<b>1978</b>—Subsec. (d). Pub. L. 95–600 added subsec. (d).
 
-1970—Subsec. (a). Pub. L. 91–614, §102(a)(3)(A), divided definition of “taxable gifts” into gifts made after Dec. 31, 1970, where taxable gifts are based on the total amount of gifts made during the calendar quarter, less the applicable deductions, and gifts made before Jan. 1, 1971, where taxable gifts are based on the total amount of gifts made during the calendar year, less the applicable deductions.
+<b>1970</b>—Subsec. (a). Pub. L. 91–614, §102(a)(3)(A), divided definition of “taxable gifts” into gifts made after Dec. 31, 1970, where taxable gifts are based on the total amount of gifts made during the calendar quarter, less the applicable deductions, and gifts made before Jan. 1, 1971, where taxable gifts are based on the total amount of gifts made during the calendar year, less the applicable deductions.
 
 Subsec. (b). Pub. L. 91–614, §102(a)(3)(B), substituted provisions with regard to computing taxable gifts for the calendar quarter, in the case of gifts made to any persons by the donor during the calendar year 1971 and subsequent calendar years, $3,000 of such gifts to such person less the aggregate of the amounts of such gifts to such person during all preceding calendar quarters of the calendar year shall not be included in the total amount of gifts made during such quarter for provisions requiring in the case of gifts made to any person by the donor during the calendar year 1955 and subsequent calendar years, the first $3,000 of such gifts to such person shall not be included in the total amount of gifts made during such year.
 

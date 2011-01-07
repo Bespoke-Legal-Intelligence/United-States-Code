@@ -38,7 +38,7 @@ Victim Defined.—In this section, the term “victim” has the meaning given t
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–184, §5(1), substituted “to all victims of any offense for which an enhanced penalty is provided under section 2326” for “for any offense under this chapter”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–184, §5(1), substituted “to all victims of any offense for which an enhanced penalty is provided under section 2326” for “for any offense under this chapter”.
 
 Subsec. (c). Pub. L. 105–184, §5(2), added subsec. (c) and struck out former subsec. (c) which read as follows:
 
@@ -46,7 +46,7 @@ Subsec. (c). Pub. L. 105–184, §5(2), added subsec. (c) and struck out former 
 
 Definition.—For purposes of this section, the term ‘victim’ includes the individual harmed as a result of a commission of a crime under this chapter, including, in the case of a victim who is incompetent, incapacitated, or deceased, the legal guardian of the victim or representative of the victim's estate, another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named as such representative or guardian.”
 
-1996—Subsec. (a). Pub. L. 104–132, §205(e)(1), inserted “or 3663A” after “3663”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–132, §205(e)(1), inserted “or 3663A” after “3663”.
 
 Subsec. (b)(1). Pub. L. 104–132, §205(e)(2)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The order of restitution under this section shall direct that—
 
@@ -78,5 +78,5 @@ Subsec. (f). Pub. L. 104–132, §205(e)(4), redesignated subsec. (f) as (c).
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–132 effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as a note under section 2248 of this title.
+Amendment by Pub. L. 104–132 effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on orafter Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as a note under section 2248 of this title.
 

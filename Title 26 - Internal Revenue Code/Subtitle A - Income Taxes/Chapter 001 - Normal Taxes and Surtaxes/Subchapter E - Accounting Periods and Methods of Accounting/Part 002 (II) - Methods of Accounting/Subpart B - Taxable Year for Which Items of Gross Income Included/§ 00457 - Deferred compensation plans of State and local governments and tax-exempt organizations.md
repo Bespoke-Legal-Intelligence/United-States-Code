@@ -16,7 +16,7 @@
 
 #### (3) Special rule for health and long-term care insurance
 
-&emsp;In the case of a plan of an eligible employer described in subsection (e)(1)(A), to the extent provided in section 402(<i>l</i>), paragraph (1) shall not apply to amounts otherwise includible in gross income under this subsection.
+&emsp;In the case of a plan of an eligible employer described in subsection (e)(1)(A), to the extentprovided in section 402(<i>l</i>), paragraph (1) shall not apply to amounts otherwise includible in gross income under this subsection.
 
 #### (b) Eligible deferred compensation plan defined
 
@@ -196,7 +196,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) such payments or supplements are made in coordination with a defined benefit plan which is described in section 401(a) and includes a trust exempt from tax under section 501(a) and which is maintained by an eligible employer described in paragraph (1)(A) or by an education association described in clause (ii)(II),
 
-&emsp;&emsp;&nbsp;such applicable plan shall be treated for purposes of subparagraph (A)(i) as a bona fide severance pay plan with respect to such payments or supplements to the extent such payments or supplements could otherwise have been provided under such defined benefit plan (determined as if section 411 applied to such defined benefit plan).
+&emsp;&emsp;&nbsp;such applicable plan shall be treated for purposes of subparagraph (A)(i) as a bona fide severance pay plan with respect tosuch payments or supplements to the extent such payments or supplements could otherwise have been provided under such defined benefit plan (determined as if section 411 applied to such defined benefit plan).
 
 #### (ii) Applicable voluntary early retirement incentive plan
 
@@ -372,7 +372,7 @@ $15,000.
 
 &emsp;&emsp;&emsp;(i) a local educational agency (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801),<sup>1</sup> or
 
-&emsp;&emsp;&emsp;(ii) an education association which principally represents employees of 1 or moreagencies described in clause (i) and which is described in section 501(c)(5) or (6) and exempt from taxation under section 501(a).
+&emsp;&emsp;&emsp;(ii) an education association which principally represents employees of 1 or more agencies described in clause (i) and which is described in section 501(c)(5) or (6) and exempt from taxation under section 501(a).
 
 #### (D) Employment retention plan
 
@@ -412,9 +412,9 @@ $15,000.
 
 #### Amendments
 
-2008—Subsec. (g)(4). Pub. L. 110–245 added par. (4).
+<b>2008</b>—Subsec. (g)(4). Pub. L. 110–245 added par. (4).
 
-2006—Subsec. (a)(3). Pub. L. 109–280, §845(b)(3), added par. (3).
+<b>2006</b>—Subsec. (a)(3). Pub. L. 109–280, §845(b)(3), added par. (3).
 
 Subsec. (e)(11)(D). Pub. L. 109–280, §1104(a)(1), added subpar. (D).
 
@@ -424,11 +424,11 @@ Subsec. (f)(2)(F). Pub. L. 109–280, §1104(b)(1), added subpar. (F).
 
 Subsec. (f)(4). Pub. L. 109–280, §1104(b)(2), added par. (4).
 
-2002—Subsec. (e)(5). Pub. L. 107–147, §411(p)(5), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘includible compensation’ means compensation for service performed for the employer which (taking into account the provisions of this section and other provisions of this chapter) is currently includible in gross income.”
+<b>2002</b>—Subsec. (e)(5). Pub. L. 107–147, §411(p)(5), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘includible compensation’ means compensation for service performed for the employer which (taking into account the provisions of this section and other provisions of this chapter) is currently includible in gross income.”
 
 Subsec. (e)(18). Pub. L. 107–147, §411(<i>o</i>)(9), added par. (18).
 
-2001—Subsec. (a). Pub. L. 107–16, §649(b)(1), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “In the case of a participant in an eligible deferred compensation plan, any amount of compensation deferred under the plan, and any income attributable to the amounts so deferred, shall be includible in gross income only for the taxable year in which such compensation or other income is paid or otherwise made available to the participant or other beneficiary.”
+<b>2001</b>—Subsec. (a). Pub. L. 107–16, §649(b)(1), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “In the case of a participant in an eligible deferred compensation plan, any amount of compensation deferred under the plan, and any income attributable to the amounts so deferred, shall be includible in gross income only for the taxable year in which such compensation or other income is paid or otherwise made available to the participant or other beneficiary.”
 
 Subsec. (b)(2). Pub. L. 107–16, §641(a)(1)(B), inserted “(other than rollover amounts)” after “taxable year” in introductory provisions.
 
@@ -462,9 +462,9 @@ Subsec. (e)(16). Pub. L. 107–16, §641(a)(1)(A), added par. (16).
 
 Subsec. (e)(17). Pub. L. 107–16, §647(b), added par. (17).
 
-1997—Subsec. (e)(9)(A). Pub. L. 105–34 substituted “dollar limit” for “$3,500” in heading and “the dollar limit under section 411(a)(11)(A)” for “$3,500” in cl. (i).
+<b>1997</b>—Subsec. (e)(9)(A). Pub. L. 105–34 substituted “dollar limit” for “$3,500” in heading and “the dollar limit under section 411(a)(11)(A)” for “$3,500” in cl. (i).
 
-1996—Subsec. (b)(6). Pub. L. 104–188, §1448(b), inserted “except as provided in subsection (g),” before “which provides that” in introductory provisions.
+<b>1996</b>—Subsec. (b)(6). Pub. L. 104–188, §1448(b), inserted “except as provided in subsection (g),” before “which provides that” in introductory provisions.
 
 Subsec. (c)(2)(B)(i). Pub. L. 104–188, §1421(b)(3)(C), substituted “section 402(h)(1)(B) or (k)” for “section 402(h)(1)(B)”.
 
@@ -490,15 +490,15 @@ Subsec. (f)(2)(E). Pub. L. 104–188, §1444(b)(3), added subpar. (E).
 
 Subsec. (g). Pub. L. 104–188, §1448(a), added subsec. (g).
 
-1992—Subsec. (c)(2)(B)(i). Pub. L. 102–318 substituted “402(e)(3)” for “402(a)(8)”.
+<b>1992</b>—Subsec. (c)(2)(B)(i). Pub. L. 102–318 substituted “402(e)(3)” for “402(a)(8)”.
 
-1989—Subsec. (d)(1)(A)(iii). Pub. L. 101–239, §7811(g)(4), substituted “, and” for period at end.
+<b>1989</b>—Subsec. (d)(1)(A)(iii). Pub. L. 101–239, §7811(g)(4), substituted “, and” for period at end.
 
 Subsec. (d)(2)(B)(i)(I). Pub. L. 101–239, §7811(g)(5), inserted “and” at end.
 
 Subsec. (e)(13). Pub. L. 101–239, §7816(j), substituted “Special rule for churches” for “Exception for church plans” in heading and amended text generally. Prior to amendment, text read as follows: “The term ‘eligible deferred compensation plan’ shall not include a plan maintained by a church for church employees. For purposes of this paragraph, the term ‘church’ has the meaning given such term by section 3121(w)(3)(A), including a qualified church-controlled organization (as defined in section 3121(w)(3)(B)).”
 
-1988—Subsec. (c)(2). Pub. L. 100–647, §1011(e)(1), struck out “and paragraphs (2) and (3) of subsection (b)” after “of this subsection”.
+<b>1988</b>—Subsec. (c)(2). Pub. L. 100–647, §1011(e)(1), struck out “and paragraphs (2) and (3) of subsection (b)” after “of this subsection”.
 
 Pub. L. 100–647, §6071(c), substituted “rural cooperative plan” for “rural electric cooperative plan” in last sentence.
 
@@ -530,11 +530,11 @@ Subsec. (e)(12). Pub. L. 100–647, §6064(b)(1), added par. (12).
 
 Subsec. (e)(13). Pub. L. 100–647, §6064(c), added par. (13).
 
-1986—Pub. L. 99–514 amended section generally, substituting “Deferred compensation plans of State and local governments and tax-exempt organizations” for “Deferred compensation plans with respect to service for State and local governments” as section catchline and revising and restating as subsecs. (a) to (c), (e), and (f) provisions formerly contained in subsecs. (a) to (e) and adding provisions comprising subsec. (d).
+<b>1986</b>—Pub. L. 99–514 amended section generally, substituting “Deferred compensation plans of State and local governments and tax-exempt organizations” for “Deferred compensation plans with respect to service for State and local governments” as section catchline and revising and restating as subsecs. (a) to (c), (e), and (f) provisions formerly contained in subsecs. (a) to (e) and adding provisions comprising subsec. (d).
 
-1984—Subsec. (e)(2). Pub. L. 98–369, §491(d)(33), struck out subpar. (C) which provided that par. (1) of this subsection not apply to a qualified bond purchase plan described in section 405(a), and redesignated subpars. (D) and (E) as (C) and (D), respectively.
+<b>1984</b>—Subsec. (e)(2). Pub. L. 98–369, §491(d)(33), struck out subpar. (C) which provided that par. (1) of this subsection not apply to a qualified bond purchase plan described in section 405(a), and redesignated subpars. (D) and (E) as (C) and (D), respectively.
 
-1980—Subsec. (d)(9)(B). Pub. L. 96–222 in cl. (i) struck out “described in section 501(c)(12)” after “any organization” and substituted “electric service on a mutual or cooperative basis” for “electric service” and in cl. (ii) substituted “paragraph (4) or (6) of section 501(a)” for “section 501(c)(6)” and “at least 80 percent of the members” for “all the members”.
+<b>1980</b>—Subsec. (d)(9)(B). Pub. L. 96–222 in cl. (i) struck out “described in section 501(c)(12)” after “any organization” and substituted “electric service on a mutual or cooperative basis” for “electric service” and in cl. (ii) substituted “paragraph (4) or (6) of section 501(a)” for “section 501(c)(6)” and “at least 80 percent of the members” for “all the members”.
 
 #### Effective Date of 2008 Amendment
 
@@ -542,7 +542,7 @@ Amendment by Pub. L. 110–245 applicable with respect to deaths and disabilitie
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 829(a)(4) of Pub. L. 109–280 applicable to distributions after Dec. 31, 2006, see section829(b) of Pub. L. 109–280, set out as a note under section 402 of this title.
+Amendment by section 829(a)(4) of Pub. L. 109–280 applicable to distributions after Dec. 31, 2006, see section 829(b) of Pub. L. 109–280, set out as a note under section 402 of this title.
 
 Amendment by section 845(b)(3) of Pub. L. 109–280 applicable to distributions in taxable years beginning after Dec. 31, 2006, see section 845(c) of Pub. L. 109–280, set out as a note under section 402 of this title.
 
@@ -576,7 +576,7 @@ Pub. L. 107–16, title VI, §615(b), June 7, 2001, 115 Stat. 102, provided that
 
 Pub. L. 107–16, title VI, §632(c)(2), June 7, 2001, 115 Stat. 115, provided that: “The amendment made by this subsection \[amending this section\] shall apply to years beginning after December 31, 2001.”
 
-Amendment by section 641(a)(1)(A)–(C) of Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, see section 641(f)(1) of Pub. L. 107–16, set out as a note under section 402 of this title.
+Amendment by section 641(a)(1)(A)–(C) of Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, seesection 641(f)(1) of Pub. L. 107–16, set out as a note under section 402 of this title.
 
 Amendment by section 646(a)(3) of Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, see section 646(b) of Pub. L. 107–16, set out as a note under section 401 of this title.
 
@@ -778,7 +778,7 @@ Meaning of terms.—Except as otherwise provided in this paragraph, terms used i
 
 #### Deferred Compensation Plans for State Judges
 
-Section 131(c)(3) of Pub. L. 95–600, as added by Pub. L. 97–248, title II, §252, Sept. 3, 1982, 96 Stat. 532, and amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Section 131(c)(3) of Pub. L. 95–600, as added by Pub. L. 97–248, title II, §252, Sept. 3, 1982, 96 Stat. 532, andamended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(A)
 

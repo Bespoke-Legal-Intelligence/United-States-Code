@@ -48,7 +48,7 @@ Sec. 102. I hereby direct the Department of Housing and Urban Development and al
 
 Sec. 201. Each executive department and agency subject to this order is directed to submit to the President's Committee on Equal Opportunity in Housing established pursuant to Part IV of this order (hereinafter sometimes referred to as the Committee), within thirty days from the date of this order, a report outlining all current programs administered by it which are affected by this order.
 
-Sec. 202. Each such department and agency shall be primarily responsible for obtaining compliance withthe purposes of this order as the order applies to programs administered by it; and is directed to cooperate with the Committee, to furnish it, in accordance with law, such information and assistance as it may request in the performance of its functions, and to report to it at such intervals as the Committee may require.
+Sec. 202. Each such department and agency shall be primarily responsible for obtaining compliance with the purposes of this order as the order applies to programs administered by it; and is directed to cooperate with the Committee, to furnish it, in accordance with law, such information and assistance as it may request in the performance of its functions, and to report to it at such intervals as the Committee may require.
 
 Sec. 203. Each such department and agency shall, within thirty days from the date of this order, issue such rules and regulations, adopt such procedures and policies, and make such exemptions and exceptions as may be consistent with law and necessary or appropriate to effectuate the purposes of this order. Each such department and agency shall consult with the Committee in order to achieve such consistency and uniformity as may be feasible.
 
@@ -62,7 +62,7 @@ It may—
 
 (a) cancel or terminate in whole or in part any agreement or contract with such person, firm, or State or local public agency providing for a loan, grant, contribution, or other Federal aid, or for the payment of a commission or fee;
 
-(b) refrain from extending any further aid under any program administered by it and affected by this order until it is satisfied that the affected person, firm, or State or local public agency will comply with the rules, regulations, and procedures issued or adopted pursuant to this order, and any nondiscrimination provisions included in any agreement or contract;
+(b) refrain from extending any further aid under any program administered by it and affected by this orderuntil it is satisfied that the affected person, firm, or State or local public agency will comply with the rules, regulations, and procedures issued or adopted pursuant to this order, and any nondiscrimination provisions included in any agreement or contract;
 
 (c) refuse to approve a lending institution or any other lender as a beneficiary under any program administered by it which is affected by this order or revoke such approval if previously given.
 

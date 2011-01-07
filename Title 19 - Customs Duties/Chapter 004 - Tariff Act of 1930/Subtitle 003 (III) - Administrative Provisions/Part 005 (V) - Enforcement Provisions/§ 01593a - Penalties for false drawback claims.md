@@ -96,7 +96,7 @@
 
 #### (5) Exclusivity
 
-&emsp;Penalty claims under this section shall be the exclusive civil remedy for any drawback related violation of subsection (a) of this section.
+&emsp;Penalty claims under this section shall be the exclusive civil remedy for any drawbackrelated violation of subsection (a) of this section.
 
 #### (d) Deprivation of lawful revenue
 
@@ -186,7 +186,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 #### Amendments
 
-2004—Subsec. (h). Pub. L. 108–429 substituted “subsections (c) and (g)” for “subsection (g)”.
+<b>2004</b>—Subsec. (h). Pub. L. 108–429 substituted “subsections (c) and (g)” for “subsection (g)”.
 
 #### Effective Date of 2004 Amendment
 

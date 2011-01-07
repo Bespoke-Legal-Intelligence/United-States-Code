@@ -124,19 +124,19 @@ Another prior section 817, act Aug. 16, 1954, ch. 736, §817, as added Mar. 13, 
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–218, in introductory provisions, struck out “(other than section 809)” after “For purposes of this part”.
+<b>2004</b>—Subsec. (c). Pub. L. 108–218, in introductory provisions, struck out “(other than section 809)” after “For purposes of this part”.
 
-1997—Subsec. (h)(2)(A). Pub. L. 105–34, §1271(b)(8)(A), substituted “851(b)(3)” for “851(b)(4)”.
+<b>1997</b>—Subsec. (h)(2)(A). Pub. L. 105–34, §1271(b)(8)(A), substituted “851(b)(3)” for “851(b)(4)”.
 
 Subsec. (h)(2)(B). Pub. L. 105–34, §1271(b)(8)(B), substituted “851(b)(3)(A)(i)” for “851(b)(4)(A)(i)”.
 
-1996—Subsec. (d)(2)(C). Pub. L. 104–188, §1611(a)(1), added subpar. (C).
+<b>1996</b>—Subsec. (d)(2)(C). Pub. L. 104–188, §1611(a)(1), added subpar. (C).
 
 Subsec. (d)(3)(C). Pub. L. 104–188, §1611(a)(2), added subpar. (C).
 
-1988—Subsec. (h)(6). Pub. L. 100–647 added par. (6).
+<b>1988</b>—Subsec. (h)(6). Pub. L. 100–647 added par. (6).
 
-1986—Subsec. (d). Pub. L. 99–514, §1821(t)(1), inserted at end “Paragraph (3) shall be applied without regard to whether there is a guarantee, and obligations under such guarantee which exceed obligations under the contract without regard to such guarantee shall be accounted for as part of the company's general account.”
+<b>1986</b>—Subsec. (d). Pub. L. 99–514, §1821(t)(1), inserted at end “Paragraph (3) shall be applied without regard to whether there is a guarantee, and obligations under such guarantee which exceed obligations under the contract without regard to such guarantee shall be accounted for as part of the company's general account.”
 
 Subsec. (h)(1). Pub. L. 99–514, §1821(m)(2), struck out last sentence which read as follows: “For purposes of this paragraph and paragraph (2), beneficial interests in a regulated investment company or in a trust shall not be treated as 1 investment if all of the beneficial interests in such company or trust are held by 1 or more segregated asset accounts of 1 or more insurance companies.”
 

@@ -30,7 +30,7 @@ The George P. Shultz National Foreign Affairs Training Center is authorized and 
 
 #### Amendments
 
-2002—Subsec. (e). Pub. L. 107–132 substituted “George P. Shultz National Foreign Affairs Training Center” for “National Foreign Affairs Training Center”.
+<b>2002</b>—Subsec. (e). Pub. L. 107–132 substituted “George P. Shultz National Foreign Affairs Training Center” for “National Foreign Affairs Training Center”.
 
 #### Short Title
 

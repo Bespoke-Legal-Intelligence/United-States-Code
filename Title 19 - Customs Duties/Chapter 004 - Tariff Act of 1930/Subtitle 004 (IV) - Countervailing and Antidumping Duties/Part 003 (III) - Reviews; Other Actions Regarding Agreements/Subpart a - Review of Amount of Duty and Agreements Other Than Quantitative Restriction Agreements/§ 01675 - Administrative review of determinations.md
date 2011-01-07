@@ -312,17 +312,17 @@ The International Emergency Economic Powers Act, referred to in subsec. (c)(7)(A
 
 #### Amendments
 
-1999—Subsec. (c)(7). Pub. L. 106–36 added par. (7).
+<b>1999</b>—Subsec. (c)(7). Pub. L. 106–36 added par. (7).
 
-1994—Pub. L. 103–465, §283(c), added subsec. (g) and redesignated former subsec. (g) as (h).
+<b>1994</b>—Pub. L. 103–465, §283(c), added subsec. (g) and redesignated former subsec. (g) as (h).
 
 Pub. L. 103–465, §220(a), amended section generally, substituting present provisions for provisions relating to administrative review of determinations, which provided for periodic review of amount of duty in subsec. (a), review upon information or request in subsec. (b), revocation of countervailing duty order or antidumping duty order in subsec. (c), hearings in subsec. (d), determination that basis for suspension no longer existed in subsec. (e), and correction of ministerial errors in subsec. (f).
 
-1988—Subsec. (f). Pub. L. 100–418 added subsec. (f).
+<b>1988</b>—Subsec. (f). Pub. L. 100–418 added subsec. (f).
 
-1986—Subsec. (b)(1). Pub. L. 99–514 inserted “or countervailing duty” after “antidumping” in two places in last sentence.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–514 inserted “or countervailing duty” after “antidumping” in two places in last sentence.
 
-1984—Subsec. (a)(1). Pub. L. 98–573, §611(a)(2)(A), inserted “if a request for such a review has been received and” in provisions preceding subpar. (A).
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–573, §611(a)(2)(A), inserted “if a request for such a review has been received and” in provisions preceding subpar. (A).
 
 Subsec. (b)(1). Pub. L. 98–573, §611(a)(2)(B), substituted “1671c of this title (other than a quantitative restriction agreement described in subsection (a)(2) or (c)(3))or 1673c of this title (other than a quantitative restriction agreement described in subsection (a)(2))” for “1671c or 1673c of this title”, inserted reference to section 1676a(a)(1) or 1676a(a)(2) of this title, and inserted provision that during an investigation by the Commission, the party seeking revocation of an antidumping order shall have the burden of persuasion with respect to whether there are changed circumstances sufficient to warrant revocation of the antidumping order.
 

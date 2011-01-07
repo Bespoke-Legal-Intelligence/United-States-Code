@@ -98,7 +98,7 @@ Succeeding Year Grants.—
 
 &emsp;(1)
 
-Eligibility.—A State shall be eligible for a grant under this subsection in a fiscal year succeeding the first fiscal year in which the State receives a grant under subsection (b) if the State, to the satisfaction of the Secretary—
+Eligibility.—A State shall be eligible for a grant under this subsection in a fiscal yearsucceeding the first fiscal year in which the State receives a grant under subsection (b) if the State, to the satisfaction of the Secretary—
 
 &emsp;&emsp;(A) submits or updates a multiyear highway safety data and traffic records strategic plan that meets the requirements of subsection (b)(1);
 
@@ -128,9 +128,9 @@ Applicability of Chapter 1.—The provisions contained in section 402(d) shall a
 
 #### References in Text
 
-The date of enactment of the Transportation Equity Act for the 21st Century, referred to in subsec. (a)(3), isthe date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
+The date of enactment of the Transportation Equity Act for the 21st Century, referred to in subsec. (a)(3), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 
 #### Amendments
 
-2008—Subsecs. (c) to (e). Pub. L. 110–244 redesignated subsecs. (c), relating to administrative expenses, and (d) as (d) and (e), respectively.
+<b>2008</b>—Subsecs. (c) to (e). Pub. L. 110–244 redesignated subsecs. (c), relating to administrative expenses, and (d) as (d) and (e), respectively.
 

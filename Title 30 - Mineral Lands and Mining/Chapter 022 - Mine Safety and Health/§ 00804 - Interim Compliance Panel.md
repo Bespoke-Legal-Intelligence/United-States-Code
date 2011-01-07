@@ -44,11 +44,11 @@ This chapter, referred to in subsecs. (c), (e), and (f)(1), was in the original 
 
 #### Amendments
 
-1988—Subsec. (a)(2). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “Bureau of Standards”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “Bureau of Standards”.
 
-1978—Subsec. (e). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners” wherever appearing.
+<b>1978</b>—Subsec. (e). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners” wherever appearing.
 
-1977—Subsec. (c). Pub. L. 95–164 substituted “Secretary of the Interior” for “Secretary of Labor”.
+<b>1977</b>—Subsec. (c). Pub. L. 95–164 substituted “Secretary of the Interior” for “Secretary of Labor”.
 
 #### Change of Name
 

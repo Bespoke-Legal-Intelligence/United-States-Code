@@ -50,7 +50,7 @@
 
 #### (3) Distributions of income previously taxed in years beginning before October 1, 1993
 
-&emsp;If the taxpayer receives a distribution or amount in a taxable year beginning after September 30, 1993, which is excluded from gross income under section 959(a) and is attributable to any amount included in gross income under section 951(a) for a taxable year beginning before October 1, 1993, the limitation under section 904 for the taxable year in which such amount or distribution is received shall be increased by the amount determined under this subsection as in effect on the day before the date of the enactment of the Revenue Reconcilation <sup>1</sup> Act of 1993.
+&emsp;If the taxpayer receives a distribution or amount in a taxable year beginning after September 30, 1993, which is excluded from gross income under section 959(a) and is attributable to any amount included in gross income undersection 951(a) for a taxable year beginning before October 1, 1993, the limitation under section 904 for the taxable year in which such amount or distribution is received shall be increased by the amount determined under this subsection as in effect on the day before the date of the enactment of the Revenue Reconcilation <sup>1</sup> Act of 1993.
 
 #### (4) Cases in which taxes not to be allowed as deduction
 
@@ -66,7 +66,17 @@
 
 &emsp;If an increase in the limitation under this subsection exceeds the tax imposed by this chapter for such year, the amount of such excess shall be deemed an overpayment of tax for such year.
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1020; amended Pub. L. 94–455, title X, §§1031(b)(1), 1033(b)(2), 1037(a), Oct. 4, 1976, 90 Stat. 1622, 1628, 1633; Pub. L. 99–514, title XII, §1202(b), Oct. 22, 1986, 100 Stat. 2530; Pub. L. 103–66, title XIII, §13233(b)(1), Aug. 10, 1993, 107 Stat. 502; Pub. L. 105–34, title XI, §1113(b), Aug. 5, 1997, 111 Stat. 971.)
+#### (c) Limitation with respect to section 956 inclusions
+
+#### (1) In general
+
+&emsp;If there is included under section 951(a)(1)(B) in the gross income of a domestic corporation any amount attributable to the earnings and profits of a foreign corporation which is a member of a qualified group (as defined in section 902(b)) with respect to the domestic corporation, the amount of any foreign income taxes deemed to have been paid during the taxable year by such domestic corporation under section 902 by reason of subsection (a) with respect to such inclusion in gross income shall not exceed the amount of the foreign income taxes which would have been deemed to have been paid during the taxable year by such domestic corporation if cash in an amount equal to the amount of such inclusion in gross income were distributed as a series of distributions (determined without regard to any foreign taxes which would be imposed on an actual distribution) through the chain of ownership which begins with such foreign corporation and ends with such domestic corporation.
+
+#### (2) Authority to prevent abuse
+
+&emsp;The Secretary shall issue such regulations or other guidance as is necessary or appropriate to carry out the purposes of this subsection, including regulations or other guidance which prevent the inappropriate use of the foreign corporation's foreign income taxes not deemed paid by reason of paragraph (1).
+
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1020; amended Pub. L. 94–455, title X, §§1031(b)(1), 1033(b)(2), 1037(a), Oct. 4, 1976, 90 Stat. 1622, 1628, 1633; Pub. L. 99–514, title XII, §1202(b), Oct. 22, 1986, 100 Stat. 2530; Pub. L. 103–66, title XIII, §13233(b)(1), Aug. 10, 1993, 107 Stat. 502; Pub. L. 105–34, title XI, §1113(b), Aug. 5, 1997, 111 Stat. 971; Pub. L. 111–226, title II, §214(a), Aug. 10, 2010, 124 Stat. 2399.)
 
 #### References in Text
 
@@ -74,7 +84,9 @@ The date of the enactment of the Revenue Reconciliation Act of 1993, referred to
 
 #### Amendments
 
-1997—Subsec. (a)(1). Pub. L. 105–34 amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “For purposes of subpart A of this part, if there is included, under section 951(a), in the gross income of a domestic corporation any amount attributable to earnings and profits—
+<b>2010</b>—Subsec. (c). Pub. L. 111–226 added subsec. (c).
+
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–34 amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “For purposes of subpart A of this part, if there is included, under section 951(a), in the gross income of a domestic corporation any amount attributable to earnings and profits—
 
 &emsp;“(A) of a foreign corporation (hereafter in this subsection referred to as the ‘first foreign corporation’) at least 10 percent of the voting stock of which is owned by such domestic corporation, or
 
@@ -84,13 +96,17 @@ The date of the enactment of the Revenue Reconciliation Act of 1993, referred to
 
 > then, except to the extent provided in regulations, such domestic corporation shall be deemed to have paid a portion of such foreign corporation's post-1986 foreign income taxes determined under section 902 in the same manner as if the amount so included were a dividend paid by such foreign corporation (determined by applying section 902(c) in accordance with section 904(d)(3)(B)). This paragraph shall not apply with respect to any amount included in the gross income of such domestic corporation attributable to earnings and profits of the second foreign corporation or of the third foreign corporation unless, in the case of the second foreign corporation, the percentage-of-voting-stock requirement of section 902(b)(3)(A) is satisfied, and in the case of the third foreign corporation, the percentage-of-voting-stock requirement of section 902(b)(3)(B) is satisfied.”
 
-1993—Subsec. (b). Pub. L. 103–66 added pars. (1) to (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former par. (1) relating to increase in section 904 limitation and former par. (2) relating to the amount of increase.
+<b>1993</b>—Subsec. (b). Pub. L. 103–66 added pars. (1) to (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former par. (1) relating to increase in section 904 limitation and former par. (2) relating to the amount of increase.
 
-1986—Subsec. (a)(1). Pub. L. 99–514 substituted “then, except to the extent provided in regulations, such domestic corporation shall be deemed to have paid a portion of such foreign corporation's post-1986 foreign income taxes determined under section 902 in the same manner as if the amount so included were a dividend paid by such foreign corporation (determined by applying section 902(c) in accordance with section 904(d)(3)(B))” for “then, under regulations prescribed by the Secretary, such domestic corporation shall be deemed to have paid the same proportion of the total income, war profits, and excess profits taxes paid (or deemed paid) by such foreign corporation to a foreign country or possession of the United States for the taxable year on or with respect to the earnings and profits of such foreign corporation which the amount of earnings and profits of such foreign corporation so included in gross income of the domestic corporation bears to the entire amount of the earnings and profits of such corporation for such taxable year”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514 substituted “then, except to the extent provided in regulations, such domestic corporation shall be deemed to have paid a portion of such foreign corporation's post-1986 foreign income taxes determined under section 902 in the same manner as if the amount so included were a dividend paid by such foreign corporation (determined by applying section 902(c) in accordance with section 904(d)(3)(B))” for “then, under regulations prescribed by the Secretary, such domestic corporation shall be deemed to have paid the same proportion of the total income, war profits, and excess profits taxes paid (or deemed paid) by such foreign corporation to a foreign country or possession of the United States for the taxable year on or with respect to the earnings and profits of such foreign corporation which the amount of earnings and profits of such foreign corporation so included in gross income of the domestic corporation bears to the entire amount of the earnings and profits of such corporation for such taxable year”.
 
-1976—Subsec. (a)(1). Pub. L. 94–455, §§1033(b)(2), 1037(a), substituted “bears to the entire amount of the earnings and profits of such foreign corporation for such taxable year” for “bears to–” after “gross income of the domestic corporation”, struck out subpars. (C) and (D) relating to corporations which are and are not less developed country corporations, inserted in subpar. (A) “(hereafter in this subsection referred to as the ‘first foreign corporation’)” after “foreign corporation”, substituted in subpar. (B) “of a second foreign corporation (hereinafter in this subsection referred to as the ‘second foreign corporation’) at least 10 percent of the voting stock of which is owned by the first foreign corporation, or” for “of a foreign corporation at least 50 percent of the voting stock of which is owned by a foreign corporation at least 10 percent of the voting stock of which in turn owned by such domestic corporation” after “(B)”, added subpar. (C), and inserted at end “This paragraph shall not apply with respect to any amount included in the gross income of such domestic corporation attributable to earning and profits of the second foreign corporation or of the third foreign corporation unless, in the case of the second foreign corporation, the percentage-of-voting-stock requirement of section 902(b)(3)(A) is satisfied, and in the case of the third foreign corporation, the percentage-of-voting-stock requirement of section 902(b)(3)(B) is satisfied.”
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–455, §§1033(b)(2), 1037(a), substituted “bears to the entire amount of the earnings and profits of such foreign corporation for such taxable year” for “bears to–” after “gross income of the domestic corporation”, struck out subpars. (C) and (D) relating to corporations which are and are not less developed country corporations, inserted in subpar. (A) “(hereafter in this subsection referred to as the ‘first foreign corporation’)” after “foreign corporation”, substituted in subpar. (B) “of a second foreign corporation (hereinafter in this subsection referred to as the ‘second foreign corporation’) at least 10 percent of the voting stock of which is owned by the first foreign corporation, or” for “of a foreign corporation at least 50 percent of the voting stock of which is owned by a foreign corporation at least 10 percent of the voting stock of which in turn owned by such domestic corporation” after “(B)”, added subpar. (C), and inserted at end “This paragraph shall not apply with respect to any amount included in the gross income of such domestic corporation attributable to earning and profits of the second foreign corporation or of the third foreign corporation unless, in the case of the second foreign corporation, the percentage-of-voting-stock requirement of section 902(b)(3)(A) is satisfied, and in the case of the third foreign corporation, the percentage-of-voting-stock requirement of section 902(b)(3)(B) is satisfied.”
 
 Subsec. (b). Pub. L. 94–455, §1031(b)(1), struck out “applicable” in par. (1) after “amount, the”, in par. (2) after “increase of the”, and in subpar. (A) of par. (2) after “by which the”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–226, title II, §214(b), Aug. 10, 2010, 124 Stat. 2399, provided that: “The amendment made by this section \[amending this section\] shall apply to acquisitions of United States property (as defined in section 956(c) of the Internal Revenue Code of 1986) after December 31, 2010.”
 
 #### Effective Date of 1997 Amendment
 
@@ -110,7 +126,7 @@ Amendment by section 1031(b)(1) of Pub. L. 94–455 applicable to taxable years 
 
 Amendment by section 1033(b)(2) of Pub. L. 94–455 applicable in respect of any distribution received by a domestic corporation after Dec. 31, 1977, and in respect of any distribution received by a domestic corporation before Jan. 1, 1978, in a taxable year of such corporation beginning after Dec. 31, 1975, but only to the extent that such distribution is made out of the accumulated profits of a foreign corporation for a taxable year beginning after Dec. 31, 1975, see section 1033(c) of Pub. L. 94–455, set out as a note under section 902 of this title.
 
-Section 1037(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to earnings and profits of a foreign corporation, included, under section 951(a)of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], in the gross income of a domestic corporation in taxable years beginning after December 31, 1976.”
+Section 1037(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to earnings and profits of a foreign corporation, included, under section 951(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], in the gross income of a domestic corporation in taxable years beginning after December 31, 1976.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Reconciliation”.</i>
 

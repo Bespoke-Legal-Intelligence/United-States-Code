@@ -24,7 +24,7 @@ Title IV of the Elementary and Secondary Education Act of 1965, referred to in s
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–561 substituted “fiscal years 1978 through 1983” for “fiscal years 1978 and 1979”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–561 substituted “fiscal years 1978 through 1983” for “fiscal years 1978 and 1979”.
 
 #### Effective Date of 1978 Amendment
 

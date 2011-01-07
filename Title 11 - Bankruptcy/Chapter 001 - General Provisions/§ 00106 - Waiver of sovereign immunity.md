@@ -2,7 +2,7 @@
 
 (a) Notwithstanding an assertion of sovereign immunity, sovereign immunity is abrogated as to a governmental unit to the extent set forth in this section with respect to the following:
 
-&emsp;(1) Sections 105, 106, 107, 108, 303, 346, 362, 363, 364, 365, 366, 502, 503, 505, 506, 510, 522, 523, 524, 525, 542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 722, 724, 726, 728, <sup>1</sup> 744, 749, 764, 901, 922, 926, 928, 929, 944, 1107, 1141, 1142, 1143, 1146, 1201, 1203, 1205, 1206, 1227, 1231, 1301, 1303, 1305, and 1327 of this title.
+&emsp;(1) Sections 105, 106, 107, 108, 303, 346, 362, 363, 364, 365, 366, 502, 503, 505, 506, 510, 522, 523, 524, 525, 542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 722, 724, 726, 744, 749, 764, 901, 922, 926, 928, 929, 944, 1107, 1141, 1142, 1143, 1146, 1201, 1203, 1205, 1206, 1227, 1231, 1301, 1303, 1305, and 1327 of this title.
 
 &emsp;(2) The court may hear and determine any issue arising with respect to the application of such sections to governmental units.
 
@@ -16,7 +16,7 @@
 
 (c) Notwithstanding any assertion of sovereign immunity by a governmental unit, there shall be offset against a claim or interest of a governmental unit any claim against such governmental unit that is property of the estate.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 103–394, title I, §113, Oct. 22, 1994, 108 Stat. 4117.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 103–394, title I, §113, Oct. 22, 1994, 108 Stat. 4117; Pub. L. 111–327, §2(a)(4), Dec. 22, 2010, 124 Stat. 3557.)
 
 #### Historical and Revision Notes
 
@@ -38,11 +38,11 @@ This section does not confer sovereign immunity on any governmental unit that do
 
 #### References in Text
 
-Section 728 of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 109–8, title VII, §719(b)(1), Apr. 20, 2005, 119 Stat. 133.
-
 The Federal Rules of Bankruptcy Procedure, referred to in subsec. (a)(3), (5), are set out in the Appendix to this title.
 
 #### Amendments
+
+2010—Subsec. (a)(1). Pub. L. 111–327 struck out “728,” after “726,”.
 
 1994—Pub. L. 103–394 amended section generally. Prior to amendment, section read as follows:
 
@@ -59,6 +59,4 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (a)(3), (5), a
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and applicable with respect to cases commenced under this title before, on, and after Oct. 22, 1994, see section 702(a), (b)(2)(B) of Pub. L. 103–394, set out as a note under section 101 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,0 +1,318 @@
+### §3507. Passenger vessel security and safety requirements
+
+(a)
+
+Vessel Design, Equipment, Construction, and Retrofitting Requirements.—
+
+&emsp;(1)
+
+In general.—Each vessel to which this subsection applies shall comply with the following design and construction standards:
+
+&emsp;&emsp;(A) The vessel shall be equipped with ship rails that are located not less than 42 inches above the cabin deck.
+
+&emsp;&emsp;(B) Each passenger stateroom and crew cabin shall be equipped with entry doors that include peep holes or other means of visual identification.
+
+&emsp;&emsp;(C) For any vessel the keel of which is laid after the date of enactment of the Cruise Vessel Security and Safety Act of 2010, each passenger stateroom and crew cabin shall be equipped with—
+
+&emsp;&emsp;&emsp;(i) security latches; and
+
+&emsp;&emsp;&emsp;(ii) time-sensitive key technology.
+
+&emsp;&emsp;(D) The vessel shall integrate technology that can be used for capturing images of passengers or detecting passengers who have fallen overboard, to the extent that such technology is available.
+
+&emsp;&emsp;(E) The vessel shall be equipped with a sufficient number of operable acoustic hailing or other such warning devices to provide communication capability around the entire vessel when operating in high risk areas (as defined by the United States Coast Guard).
+
+&emsp;(2)
+
+Fire safety codes.—In administering the requirements of paragraph (1)(C), the Secretary shall take into consideration fire safety and other applicable emergency requirements established by the U.S. Coast Guard and under international law, as appropriate.
+
+&emsp;(3)
+
+Effective date.—
+
+&emsp;&emsp;(A)
+
+In general.—Except as provided in subparagraph (B), the requirements of paragraph (1) shall take effect 18 months after the date of enactment of the Cruise Vessel Security and Safety Act of 2010.
+
+&emsp;&emsp;(B)
+
+Latch and key requirements.—The requirements of paragraph (1)(C) take effect on the date of enactment of the Cruise Vessel Security and Safety Act of 2010.
+
+(b)
+
+Video Recording.—
+
+&emsp;(1)
+
+Requirement to maintain surveillance.—The owner of a vessel to which this section applies shall maintain a video surveillance system to assist in documenting crimes on the vessel and in providing evidence for the prosecution of such crimes, as determined by the Secretary.
+
+&emsp;(2)
+
+Access to video records.—The owner of a vessel to which this section applies shall provide to any law enforcement official performing official duties in the course and scope of an investigation, upon request, a copy of all records of video surveillance that the official believes may provide evidence of a crime reported to law enforcement officials.
+
+(c)
+
+Safety Information.—
+
+&emsp;(1)
+
+Criminal Activity Prevention and Response Guide.—The owner of a vessel to which this section applies (or the owner's designee) shall—
+
+&emsp;&emsp;(A) have available for each passenger a guide (referred to in this subsection as the “security guide”), written in commonly understood English, which—
+
+&emsp;&emsp;&emsp;(i) provides a description of medical and security personnel designated on board to prevent and respond to criminal and medical situations with 24 hour contact instructions;
+
+&emsp;&emsp;&emsp;(ii) describes the jurisdictional authority applicable, and the law enforcement processes available, with respect to the reporting of homicide, suspicious death, a missing United States national, kidnapping, assault with serious bodily injury, any offense to which section 2241, 2242, 2243, or 2244(a) or (c) of title 18 applies, firing or tampering with the vessel, or theft of money or property in excess of $10,000, together with contact information for the appropriate law enforcement authorities for missing persons or reportable crimes which arise—
+
+&emsp;&emsp;&emsp;&emsp;(I) in the territorial waters of the United States;
+
+&emsp;&emsp;&emsp;&emsp;(II) on the high seas; or
+
+&emsp;&emsp;&emsp;&emsp;(III) in any country to be visited on the voyage;
+
+&emsp;&emsp;(B) provide a copy of the security guide to the Federal Bureau of Investigation for comment; and
+
+&emsp;&emsp;(C) publicize the security guide on the website of the vessel owner.
+
+&emsp;(2)
+
+Embassy and consulate locations.—The owner of a vessel to which this section applies shall provide in each passenger stateroom, and post in a location readily accessible to all crew and in other places specified by the Secretary, information regarding the locations of the United States embassy and each consulate of the United States for each country the vessel will visit during the course of the voyage.
+
+(d)
+
+Sexual Assault.—The owner of a vessel to which this section applies shall—
+
+&emsp;(1) maintain on the vessel adequate, in-date supplies of anti-retroviral medications and other medications designed to prevent sexually transmitted diseases after a sexual assault;
+
+&emsp;(2) maintain on the vessel equipment and materials for performing a medical examination in sexual assault cases to evaluate the patient for trauma, provide medical care, and preserve relevant medical evidence;
+
+&emsp;(3) make available on the vessel at all times medical staff who have undergone a credentialing process to verify that he or she—
+
+&emsp;&emsp;(A) possesses a current physician's or registered nurse's license and—
+
+&emsp;&emsp;&emsp;(i) has at least 3 years of post-graduate or post-registration clinical practice in general and emergency medicine; or
+
+&emsp;&emsp;&emsp;(ii) holds board certification in emergency medicine, family practice medicine, or internal medicine;
+
+&emsp;&emsp;(B) is able to provide assistance in the event of an alleged sexual assault, has received training in conducting forensic sexual assault examination, and is able to promptly perform such an examination upon request and provide proper medical treatment of a victim, including administration of anti-retroviral medications and other medications that may prevent the transmission of human immunodeficiency virus and other sexually transmitted diseases; and
+
+&emsp;&emsp;(C) meets guidelines established by the American College of Emergency Physicians relating to the treatment and care of victims of sexual assault;
+
+&emsp;(4) prepare, provide to the patient, and maintain written documentation of the findings of such examination that is signed by the patient; and
+
+&emsp;(5) provide the patient free and immediate access to—
+
+&emsp;&emsp;(A) contact information for local law enforcement, the Federal Bureau of Investigation, the United States Coast Guard, the nearest United States consulate or embassy, and the National Sexual Assault Hotline program or other third party victim advocacy hotline service; and
+
+&emsp;&emsp;(B) a private telephone line and Internet-accessible computer terminal by which the individual may confidentially access law enforcement officials, an attorney, and the information and support services available through the National Sexual Assault Hotline program or other third party victim advocacy hotline service.
+
+(e)
+
+Confidentiality of Sexual Assault Examination and Support Information.—The master or other individual in charge of a vessel to which this section applies shall—
+
+&emsp;(1) treat all information concerning an examination under subsection (d) confidential, so that no medical information may be released to the cruise line or other owner of the vessel or any legal representative thereof without the prior knowledge and approval in writing of the patient, or, if the patient is unable to provide written authorization, the patient's next-of-kin, except that nothing in this paragraph prohibits the release of—
+
+&emsp;&emsp;(A) information, other than medical findings, necessary for the owner or master of the vessel to comply with the provisions of subsection (g) or other applicable incident reporting laws;
+
+&emsp;&emsp;(B) information to secure the safety of passengers or crew on board the vessel; or
+
+&emsp;&emsp;(C) any information to law enforcement officials performing official duties in the course and scope of an investigation; and
+
+&emsp;(2) treat any information derived from, or obtained in connection with, post-assault counseling or other supportive services confidential, so no such information may be released to the cruise line or any legal representative thereof without the prior knowledge and approval in writing of the patient, or, if the patient is unable to provide written authorization, the patient's next-of-kin.
+
+(f)
+
+Crew Access to Passenger Staterooms.—The owner of a vessel to which this section applies shall—
+
+&emsp;(1) establish and implement procedures and restrictions concerning—
+
+&emsp;&emsp;(A) which crewmembers have access to passenger staterooms; and
+
+&emsp;&emsp;(B) the periods during which they have that access; and
+
+&emsp;(2) ensure that the procedures and restrictions are fully and properly implemented and periodically reviewed.
+
+(g)
+
+Log Book and Reporting Requirements.—
+
+&emsp;(1)
+
+In general.—The owner of a vessel to which this section applies shall—
+
+&emsp;&emsp;(A) record in a log book, either electronically or otherwise, in a centralized location readily accessible to law enforcement personnel, a report on—
+
+&emsp;&emsp;&emsp;(i) all complaints of crimes described in paragraph (3)(A)(i),
+
+&emsp;&emsp;&emsp;(ii) all complaints of theft of property valued in excess of $1,000, and
+
+&emsp;&emsp;&emsp;(iii) all complaints of other crimes,
+
+> &emsp;&emsp;committed on any voyage that embarks or disembarks passengers in the United States; and
+
+&emsp;&emsp;(B) make such log book available upon request to any agent of the Federal Bureau of Investigation, any member of the United States Coast Guard, and any law enforcement officer performing official duties in the course and scope of an investigation.
+
+&emsp;(2)
+
+Details required.—The information recorded under paragraph (1) shall include, at a minimum—
+
+&emsp;&emsp;(A) the vessel operator;
+
+&emsp;&emsp;(B) the name of the cruise line;
+
+&emsp;&emsp;(C) the flag under which the vessel was operating at the time the reported incident occurred;
+
+&emsp;&emsp;(D) the age and gender of the victim and the accused assailant;
+
+&emsp;&emsp;(E) the nature of the alleged crime or complaint, as applicable, including whether the alleged perpetrator was a passenger or a crewmember;
+
+&emsp;&emsp;(F) the vessel's position at the time of the incident, if known, or the position of the vessel at the time of the initial report;
+
+&emsp;&emsp;(G) the time, date, and method of the initial report and the law enforcement authority to which the initial report was made;
+
+&emsp;&emsp;(H) the time and date the incident occurred, if known;
+
+&emsp;&emsp;(I) the total number of passengers and the total number of crew members on the voyage; and
+
+&emsp;&emsp;(J) the case number or other identifier provided by the law enforcement authority to which the initial report was made.
+
+&emsp;(3)
+
+Requirement to report crimes and other information.—
+
+&emsp;&emsp;(A)
+
+In general.—The owner of a vessel to which this section applies (or the owner's designee)—
+
+&emsp;&emsp;&emsp;(i) shall contact the nearest Federal Bureau of Investigation Field Office or Legal Attache by telephone as soon as possible after the occurrence on board the vessel of an incident involving homicide, suspicious death, a missing United States national, kidnapping, assault with serious bodily injury, any offense to which section 2241, 2242, 2243, or 2244(a) or (c) of title 18 applies, firing or tampering with the vessel, or theft of money or property in excess of $10,000 to report the incident;
+
+&emsp;&emsp;&emsp;(ii) shall furnish a written report of the incident to an Internet based portal maintained by the Secretary;
+
+&emsp;&emsp;&emsp;(iii) may report any serious incident that does not meet the reporting requirements of clause (i) and that does not require immediate attention by the Federal Bureau of Investigation via the Internet based portal maintained by the Secretary; and
+
+&emsp;&emsp;&emsp;(iv) may report any other criminal incident involving passengers or crewmembers, or both, to the proper State or local government law enforcement authority.
+
+&emsp;&emsp;(B)
+
+Incidents to which subparagraph (A) applies.—Subparagraph (A) applies to an incident involving criminal activity if—
+
+&emsp;&emsp;&emsp;(i) the vessel, regardless of registry, is owned, in whole or in part, by a United States person, regardless of the nationality of the victim or perpetrator, and the incident occurs when the vessel is within the admiralty and maritime jurisdiction of the United States and outside the jurisdiction of any State;
+
+&emsp;&emsp;&emsp;(ii) the incident concerns an offense by or against a United States national committed outside the jurisdiction of any nation;
+
+&emsp;&emsp;&emsp;(iii) the incident occurs in the Territorial Sea of the United States, regardless of the nationality of the vessel, the victim, or the perpetrator; or
+
+&emsp;&emsp;&emsp;(iv) the incident concerns a victim or perpetrator who is a United States national on a vessel during a voyage that departed from or will arrive at a United States port.
+
+&emsp;(4)
+
+Availability of incident data via internet.—
+
+&emsp;&emsp;(A)
+
+Website.—The Secretary shall maintain a statistical compilation of all incidents described in paragraph (3)(A)(i) on an Internet site that provides a numerical accounting of the missing persons and alleged crimes recorded in each report filed under paragraph (3)(A)(i) that are no longer under investigation by the Federal Bureau of Investigation. The data shall be updated no less frequently than quarterly, aggregated by cruise line, each cruise line shall be identified by name, and each crime shall be identified as to whether it was committed by a passenger or a crew member.
+
+&emsp;&emsp;(B)
+
+Access to website.—Each cruise line taking on or discharging passengers in the United States shall include a link on its Internet website to the website maintained by the Secretary under subparagraph (A).
+
+(h)
+
+Enforcement.—
+
+&emsp;(1)
+
+Penalties.—
+
+&emsp;&emsp;(A)
+
+Civil penalty.—Any person that violates this section or a regulation under this section shall be liable for a civil penalty of not more than $25,000 for each day during which the violation continues, except that the maximum penalty for a continuing violation is $50,000.
+
+&emsp;&emsp;(B)
+
+Criminal penalty.—Any person that willfully violates this section or a regulation under this section shall be fined not more than $250,000 or imprisoned not more than 1 year, or both.
+
+&emsp;(2)
+
+Denial of entry.—The Secretary may deny entry into the United States to a vessel to which this section applies if the owner of the vessel—
+
+&emsp;&emsp;(A) commits an act or omission for which a penalty may be imposed under this subsection; or
+
+&emsp;&emsp;(B) fails to pay a penalty imposed on the owner under this subsection.
+
+(i)
+
+Procedures.—Within 6 months after the date of enactment of the Cruise Vessel Security and Safety Act of 2010, the Secretary shall issue guidelines, training curricula, and inspection and certification procedures necessary to carry out the requirements of this section.
+
+(j)
+
+Regulations.—The Secretary and the Commandant shall each issue such regulations as are necessary to implement this section.
+
+(k)
+
+Application.—
+
+&emsp;(1)
+
+In general.—This section and section 3508 apply to a passenger vessel (as defined in section 2101(22)) that—
+
+&emsp;&emsp;(A) is authorized to carry at least 250 passengers;
+
+&emsp;&emsp;(B) has onboard sleeping facilities for each passenger;
+
+&emsp;&emsp;(C) is on a voyage that embarks or disembarks passengers in the United States; and
+
+&emsp;&emsp;(D) is not engaged on a coastwise voyage.
+
+&emsp;(2)
+
+Federal and state vessels.—This section and section 3508 do not apply to a vessel of the United States operated by the Federal Government or a vessel owned and operated by a State.
+
+(<i>l</i>)
+
+Definitions.—In this section and section 3508:
+
+&emsp;(1)
+
+Commandant.—The term “Commandant” means the Commandant of the Coast Guard.
+
+&emsp;(2)
+
+Owner.—The term “owner” means the owner, charterer, managing operator, master, or other individual in charge of a vessel.
+
+(Added Pub. L. 111–207, §3(a), July 27, 2010, 124 Stat. 2244.)
+
+#### References in Text
+
+The date of enactment of the Cruise Vessel Security and Safety Act of 2010, referred to in subsecs. (a)(1)(C), (3) and (i), is the date of enactment of Pub. L. 111–207, which was approved July 27, 2010.
+
+#### Findings
+
+Pub. L. 111–207, §2, July 27, 2010, 124 Stat. 2243, provided that: “The Congress makes the following findings:
+
+&emsp;“(1) There are approximately 200 overnight ocean-going cruise vessels worldwide. The average ocean-going cruise vessel carries 2,000 passengers with a crew of 950 people.
+
+&emsp;“(2) In 2007 alone, approximately 12,000,000 passengers were projected to take a cruise worldwide.
+
+&emsp;“(3) Passengers on cruise vessels have an inadequate appreciation of their potential vulnerability to crime while on ocean voyages, and those who may be victimized lack the information they need to understand their legal rights or to know whom to contact for help in the immediate aftermath of the crime.
+
+&emsp;“(4) Sexual violence, the disappearance of passengers from vessels on the high seas, and other serious crimes have occurred during luxury cruises.
+
+&emsp;“(5) Over the last 5 years, sexual assault and physical assaults on cruise vessels were the leading crimes investigated by the Federal Bureau of Investigation with regard to cruise vessel incidents.
+
+&emsp;“(6) These crimes at sea can involve attacks both by passengers and crewmembers on other passengers and crewmembers.
+
+&emsp;“(7) Except for United States flagged vessels, or foreign flagged vessels operating in an area subject to the direct jurisdiction of the United States, there are no Federal statutes or regulations that explicitly require cruise lines to report alleged crimes to United States Government officials.
+
+&emsp;“(8) It is not known precisely how often crimes occur on cruise vessels or exactly how many people have disappeared during ocean voyages because cruise line companies do not make comprehensive, crime-related data readily available to the public.
+
+&emsp;“(9) Obtaining reliable crime-related cruise data from governmental sources can be difficult, because multiple countries may be involved when a crime occurs on the high seas, including the flag country for the vessel, the country of citizenship of particular passengers, and any countries having special or maritime jurisdiction.
+
+&emsp;“(10) It can be difficult for professional crime investigators to immediately secure an alleged crime scene on a cruise vessel, recover evidence of an onboard offense, and identify or interview potential witnesses to the alleged crime.
+
+&emsp;“(11) Most cruise vessels that operate into and out of United States ports are registered under the laws of another country, and investigations and prosecutions of crimes against passengers and crewmembers may involve the laws and authorities of multiple nations.
+
+&emsp;“(12) The Department of Homeland Security has found it necessary to establish 500-yard security zones around cruise vessels to limit the risk of terrorist attack. Recently piracy has dramatically increased throughout the world.
+
+&emsp;“(13) To enhance the safety of cruise passengers, the owners of cruise vessels could upgrade, modernize, and retrofit the safety and security infrastructure on such vessels by installing peep holes in passenger room doors, installing security video cameras in targeted areas, limiting access to passenger rooms to select staff during specific times, and installing acoustic hailing and warning devices capable of communicating over distances.”
+

@@ -20,7 +20,7 @@ The Secretary of the Treasury may by regulation prescribe that any document requ
 
 #### Amendments
 
-1953—Subsec. (d). Act Aug. 8, 1953, added subsec. (d).
+<b>1953</b>—Subsec. (d). Act Aug. 8, 1953, added subsec. (d).
 
 #### Change of Name
 

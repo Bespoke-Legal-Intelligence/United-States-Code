@@ -30,7 +30,7 @@ The following guidelines apply with respect to the conduct of business meetings 
 
 &emsp;(2) Emergency meetings may be held at the call of the chairman or presiding officer.
 
-&emsp;(3) Timely notice of each meeting, including the time, place, and agenda of the meeting, shall be published locally and in the Federal Register, except that in the case of a meeting of an Advisory Council established to provide assistance regarding any individual nationalmarine sanctuary the notice is not required to be published in the Federal Register.
+&emsp;(3) Timely notice of each meeting, including the time, place, and agenda of the meeting, shall be published locally and in the Federal Register, except that in the case of a meeting of an Advisory Council established to provide assistance regarding any individual national marine sanctuary the notice is not required to be published in the Federal Register.
 
 &emsp;(4) Minutes of each meeting shall be kept and contain a summary of the attendees and matters discussed.
 
@@ -42,11 +42,11 @@ The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–513, §16, substituted “advise and make recommendations” for “provide assistance”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–513, §16, substituted “advise and make recommendations” for “provide assistance”.
 
 Subsec. (b)(2). Pub. L. 106–513, §19(b)(5), made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
 
-1996—Pub. L. 104–283, §9(f), made technical amendment to directory language of Pub. L. 102–587, §2112, which added this section.
+<b>1996</b>—Pub. L. 104–283, §9(f), made technical amendment to directory language of Pub. L. 102–587, §2112, which added this section.
 
 Subsec. (e)(3). Pub. L. 104–283, §5, inserted before period at end “, except that in the case of a meeting of an Advisory Council established to provide assistance regarding any individual national marine sanctuary the notice is not required to be published in the Federal Register”.
 

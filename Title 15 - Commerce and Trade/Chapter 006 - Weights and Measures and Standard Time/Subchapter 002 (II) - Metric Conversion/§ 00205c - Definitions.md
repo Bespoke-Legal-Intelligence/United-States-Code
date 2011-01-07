@@ -10,13 +10,13 @@ As used in this subchapter, the term—
 
 &emsp;(4) “metric system of measurement” means the International System of Units as established by the General Conference of Weights and Measures in 1960 and as interpreted or modified for the United States by the Secretary of Commerce;
 
-&emsp;(5) “full and open competition” has the same meaning as defined in section 403(6) of title 41;
+&emsp;(5) “full and open competition” has the same meaning as defined in section 107 of title 41;
 
 &emsp;(6) “total installed price” means the price of purchasing a product or material, trimming or otherwise altering some or all of that product or material, if necessary to fit with other building components, and then installing that product or material into a Federal facility;
 
 &emsp;(7) “hard-metric” means measurement, design, and manufacture using the metric system of measurement, but does not include measurement, design, and manufacture using English system measurement units which are subsequently reexpressed in the metric system of measurement;
 
-&emsp;(8) “cost or pricing data or price analysis” has the meaning given such terms in section 254b of title 41; and
+&emsp;(8) “cost or pricing data or price analysis” has the meaning given such terms in section 3501(a) of title 41; and
 
 &emsp;(9) “Federal facility” means any public building (as defined under section 3301(a) of title 40 <sup>1</sup> and shall include any Federal building or construction project—
 
@@ -40,11 +40,15 @@ As used in this subchapter, the term—
 
 #### Codification
 
-“Section 3301(a) of title 40” substituted in par. (9) for “section 13 of the Public Buildings Act of 1959 (40 U.S.C. 612)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In par. (5), “section 107 of title 41” substituted for “section 403(6) of title 41, United States Code” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In par. (8), “section 3501(a) of title 41” substituted for “section 304A of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254b)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In par. (9), “section 3301(a) of title 40” substituted for “section 13 of the Public Buildings Act of 1959 (40 U.S.C. 612)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
-1996—Pars. (5) to (9). Pub. L. 104–289 added pars. (5) to (9).
+<b>1996</b>—Pars. (5) to (9). Pub. L. 104–289 added pars. (5) to (9).
 
 #### Effective Date of 1996 Amendment; Savings Provision
 

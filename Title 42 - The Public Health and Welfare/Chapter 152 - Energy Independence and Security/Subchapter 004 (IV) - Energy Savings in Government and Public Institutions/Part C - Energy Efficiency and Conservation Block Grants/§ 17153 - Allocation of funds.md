@@ -36,7 +36,7 @@ Of amounts available for distribution to States under subsection (a)(2), the Sec
 
 #### (d) Indian tribes
 
-Of amounts available for distribution to Indian tribes under subsection (a)(3), the Secretary shall establish a formula for allocation of the amounts to Indian tribes, taking into account any factors that the Secretary determines to be appropriate.
+Of amounts available for distribution to Indian tribes under subsection (a)(3), the Secretary shall establish a formula for allocation ofthe amounts to Indian tribes, taking into account any factors that the Secretary determines to be appropriate.
 
 #### (e) Publication of allocation formulas
 
@@ -50,7 +50,7 @@ The Secretary shall establish a State and local advisory committee to advise the
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–5, §404(a)(2), added par. (1) and struck out former par. (1) which read as follows: “68 percent to eligible units of local government in accordance with subsection (b);”.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–5, §404(a)(2), added par. (1) and struck out former par. (1) which read as follows: “68 percent to eligible units of local government in accordance with subsection (b);”.
 
 Subsec. (a)(2) to (5). Pub. L. 111–5, §404(a), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
 

@@ -20,7 +20,7 @@ Assignment of Forces.—The Secretary of the Navy—
 
 #### Amendments
 
-2006—Pub. L. 109–163, §515(b)(3)(G), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
+<b>2006</b>—Pub. L. 109–163, §515(b)(3)(G), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
 
 Pub. L. 109–163, §515(b)(1)(BB), substituted “Navy Reserve” for “Naval Reserve” wherever appearing in text.
 

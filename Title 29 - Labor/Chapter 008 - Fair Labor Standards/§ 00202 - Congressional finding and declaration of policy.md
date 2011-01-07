@@ -8,9 +8,9 @@
 
 #### Amendments
 
-1974—Subsec. (a). Pub. L. 93–259 inserted finding of Congress that employment of persons in domestic service in households affects commerce.
+<b>1974</b>—Subsec. (a). Pub. L. 93–259 inserted finding of Congress that employment of persons in domestic service in households affects commerce.
 
-1949—Subsec. (b). Act Oct. 26, 1949, inserted reference to regulation of commerce with foreign nations.
+<b>1949</b>—Subsec. (b). Act Oct. 26, 1949, inserted reference to regulation of commerce with foreign nations.
 
 #### Effective Date of 1974 Amendment
 

@@ -8,15 +8,15 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 396, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–13, §2002(1), substituted “individuals of all ages and backgrounds.” for “both young and older citizens.”
+<b>2009</b>—Subsec. (a). Pub. L. 111–13, §2002(1), substituted “individuals of all ages and backgrounds.” for “both young and older citizens.”
 
 Subsec. (b). Pub. L. 111–13, §2002(2), inserted “, expand relationships with, and support for, the efforts of civic, community, and educational organizations,” after “State, and local agencies”.
 
-1993—Subsec. (b). Pub. L. 103–82 substituted “of this chapter” for “of ACTION, the Federal domestic volunteer agency,” and “the Corporation for National and Community Service shall”for “ACTION shall”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–82 substituted “of this chapter” for “of ACTION, the Federal domestic volunteer agency,” and “the Corporation for National and Community Service shall”for “ACTION shall”.
 
 #### Effective Date of 2009 Amendment
 
@@ -56,5 +56,5 @@ Pub. L. 94–293, §1, May 27, 1976, 90 Stat. 525, provided: “That this Act \[
 
 #### Short Title
 
-Pub. L. 93–113, title I, §1(a), formerly §1(part), Oct. 1, 1973, 87 Stat. 394, as renumbered and amended by Pub. L. 103–82, title III, §391, Sept. 21, 1993, 107 Stat. 915, provided that: “This Act \[enacting this chapter, amending section 3067 of this title and section 8332(b)(7) of Title 5, Government Organization and Employees, and repealing sections 2991, 2992 to 2992b, 2993 to 2993b, 2994 to 2994d, and 3044 to 3044e of this title, and enacting provisions set out as notes under this section and section 5041 of this title\] may be cited as the ‘Domestic Volunteer Service Act of 1973’.”
+Pub. L. 93–113, title I, §1(a), formerly §1(part), Oct. 1, 1973, 87 Stat. 394, as renumbered and amended by Pub. L. 103–82, title III, §391, Sept. 21, 1993, 107 Stat. 915, provided that: “This Act \[enacting this chapter, amending section 3067 of this title and section 8332(b)(7) of Title 5, Government Organization and Employees, and repealing sections 2991, 2992 to 2992b, 2993 to 2993b, 2994 to 2994d, and 3044 to 3044e of this title, and enacting provisions set out as notes under this section and section5041 of this title\] may be cited as the ‘Domestic Volunteer Service Act of 1973’.”
 

@@ -6,7 +6,7 @@ No person shall be engaged in or carry on any trade or business subject to tax u
 
 #### (b) Computation
 
-All special taxes under this subchapter shall be imposed as of on the first day of July in each year, or on commencing any trade or business on which such tax is imposed. In the former case the tax shall be reckoned for 1 year, and in the latter case it shall be reckoned proportionately, from the first day of the month in which the liability to a special tax commenced, to and including the 30th day of June following.
+All special taxes under this subchapter shall be imposed as of on the first day of July in eachyear, or on commencing any trade or business on which such tax is imposed. In the former case the tax shall be reckoned for 1 year, and in the latter case it shall be reckoned proportionately, from the first day of the month in which the liability to a special tax commenced, to and including the 30th day of June following.
 
 #### (c) How paid
 
@@ -26,9 +26,9 @@ A prior section 5732, acts Aug. 16, 1954, ch. 736, 68A Stat. 714; Sept. 2, 1958,
 
 #### Amendments
 
-2007—Subsec. (c)(2). Pub. L. 110–172, which directed amendment of section 5732 of this title, as redesignated by Pub. L. 109–59, §11125(b)(20)(A), by substituting “this subchapter” for “this subpart” in subsec. (c)(2) effective Dec. 29, 2007, was executed to this section to reflect the probable intent of Congress even though the redesignation of section 5142 of this title as this section was not effective until July 1, 2008. See 2005 Amendment and Effective Date of 2005 Amendment notes below.
+<b>2007</b>—Subsec. (c)(2). Pub. L. 110–172, which directed amendment of section 5732 of this title, as redesignated by Pub. L. 109–59, §11125(b)(20)(A), by substituting “this subchapter” for “this subpart” in subsec. (c)(2) effective Dec. 29, 2007, was executed to this section to reflect the probable intent of Congress even though the redesignation of section 5142 of this title as this section was not effective until July 1, 2008. See 2005 Amendment and Effective Date of 2005 Amendment notes below.
 
-2005—Pub. L. 109–59, §11125(b)(20)(A), renumbered section 5142 of this title as this section and transferred section to this subchapter.
+<b>2005</b>—Pub. L. 109–59, §11125(b)(20)(A), renumbered section 5142 of this title as this section and transferred section to this subchapter.
 
 Subsecs. (a), (b). Pub. L. 109–59, §11125(b)(20)(B), struck out “(except the tax imposed by section 5131)” before “until he has paid” in subsec. (a) and before “shall be imposed” in subsec. (b).
 
@@ -36,7 +36,7 @@ Pub. L. 109–59, §11125(b)(20)(A), substituted “this subchapter” for “th
 
 Subsec. (c)(1). Pub. L. 109–59, §11125(b)(20)(A), substituted “this subchapter” for “this part”.
 
-1976—Subsec. (c). Pub. L. 94–455 substituted provisions under which the special taxes would be paid on the basis of a return for provisions under which the special taxes were paid by stamps denoting the tax.
+<b>1976</b>—Subsec. (c). Pub. L. 94–455 substituted provisions under which the special taxes would be paid on the basis of a return for provisions under which the special taxes were paid by stamps denoting the tax.
 
 #### Effective Date of 2005 Amendment
 

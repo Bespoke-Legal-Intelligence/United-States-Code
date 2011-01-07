@@ -52,7 +52,7 @@ Section was enacted as part of the Water Resources Development Act of 1996, and 
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–114, §2020(1), added subsec. (a) and struck out former subsec. (a), which read as follows:
+<b>2007</b>—Subsec. (a). Pub. L. 110–114, §2020(1), added subsec. (a) and struck out former subsec. (a), which read as follows:
 
 “(a)
 
@@ -64,7 +64,7 @@ General authority.—The Secretary may carry out an aquatic ecosystem restoratio
 
 Subsec. (e). Pub. L. 110–114, §2020(2), substituted “$50,000,000” for “$25,000,000”.
 
-1999—Subsec. (b). Pub. L. 106–53, §210(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
+<b>1999</b>—Subsec. (b). Pub. L. 106–53, §210(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Subsec. (c). Pub. L. 106–53, §210(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 

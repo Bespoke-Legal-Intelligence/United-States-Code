@@ -14,9 +14,9 @@ For the purpose of preserving for the benefit of the American people as a nation
 
 #### Amendments
 
-1958—Subsec. (d). Pub. L. 85–764 included certain lands and buildings adjoining “project E” being known and numbered as 8, 10, and 12 North Second Street and 201, 203, 205, 207, 209, 211–213, 215, 217, 219, and 221 Market Street.
+<b>1958</b>—Subsec. (d). Pub. L. 85–764 included certain lands and buildings adjoining “project E” being known and numbered as 8, 10, and 12 North Second Street and 201, 203, 205, 207, 209, 211–213, 215, 217, 219, and 221 Market Street.
 
-1952—Subsec. (b). Act July 10, 1952, inserted second sentence.
+<b>1952</b>—Subsec. (b). Act July 10, 1952, inserted second sentence.
 
 #### Gateway Visitor Center
 
@@ -100,5 +100,5 @@ Act Aug. 6, 1956, ch. 1018, 70 Stat. 1074, provided that: “Upon compliance wit
 
 “
 
-Sec. 2. This Act shall become effective if and when the Mikveh Israel Congregation, through its duly authorized representatives, has executed an agreement in terms and conditions satisfactory to the Secretary of the Interior, providing for the continuing administration, care, and maintenance, without expense to the United States, of the Mikveh Israel Cemetery, whereupon said Secretary shall issue a notice declaring thatsaid requirement has been met and that Mikveh Israel Cemetery is formally designated a unit of the Independence National Historical Park.”
+Sec. 2. This Act shall become effective if and when the Mikveh Israel Congregation, through its duly authorized representatives, has executed an agreement in terms and conditions satisfactory to the Secretary of the Interior, providing for the continuing administration, care, and maintenance, without expense to the United States, of the Mikveh Israel Cemetery, whereupon said Secretary shall issue a notice declaring that said requirement has been met and that Mikveh Israel Cemetery is formally designated a unit of the Independence National Historical Park.”
 

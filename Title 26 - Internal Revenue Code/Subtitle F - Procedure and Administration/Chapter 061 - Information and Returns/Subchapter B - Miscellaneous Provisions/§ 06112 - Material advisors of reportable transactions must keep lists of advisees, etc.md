@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each material advisor (as defined in section 6111) with respect to any reportable transaction (as defined in section 6707A(c)) shall (whether or not required to file a return under section 6111with respect to such transaction) maintain (in such manner as the Secretary may by regulations prescribe) a list—
+Each material advisor (as defined in section 6111) with respect to any reportable transaction (as defined in section 6707A(c)) shall (whether or not required to file a return under section 6111 with respect to such transaction) maintain (in such manner as the Secretary may by regulations prescribe) a list—
 
 &emsp;(1) identifying each person with respect to whom such advisor acted as a material advisor with respect to such transaction, and
 
@@ -34,9 +34,9 @@ A prior section 6112 was renumbered 6116 of this title.
 
 #### Amendments
 
-2005—Subsec. (b)(1). Pub. L. 109–135, in introductory provisions, inserted “(or was required to maintain a list under subsection (a) as in effect before the enactment of the American Jobs Creation Act of 2004)” after “a list under subsection (a)”.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–135, in introductory provisions, inserted “(or was required to maintain a list under subsection (a) as in effect before the enactment of the American Jobs Creation Act of 2004)” after “a list under subsection (a)”.
 
-2004—Pub. L. 108–357, §815(b)(2), substituted “Material advisors of reportable transactions must keep lists of advisees, etc.” for “Organizers and sellers of potentially abusive tax shelters must keep lists of investors” in section catchline.
+<b>2004</b>—Pub. L. 108–357, §815(b)(2), substituted “Material advisors of reportable transactions must keep lists of advisees, etc.” for “Organizers and sellers of potentially abusive tax shelters must keep lists of investors” in section catchline.
 
 Subsec. (a). Pub. L. 108–357, §815(b)(2), reenacted heading without change and amended text of subsec. (a) generally, substituting provisions requiring each material advisor to maintain a list identifying each person with respect to whom such advisor acted as a material advisor with respect to a reportable transaction and containing such other information as required by regulations, for provisions requiring any person who organized any potentially abusive tax shelter or sold any interest in such a shelter to maintain a list identifying each person who had been sold an interest in such shelter and containing such other information as required by regulations.
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to transactions with respect to which material aid, assistance, or advice referred to in section 6111(b)(1)(A)(i) of this title is provided after Oct. 22, 2004, see section 815(c) of Pub. L. 108–357, set out as a note under section 6111 of this title.
+Amendment by Pub. L. 108–357 applicable to transactions with respect to which material aid, assistance,or advice referred to in section 6111(b)(1)(A)(i) of this title is provided after Oct. 22, 2004, see section 815(c) of Pub. L. 108–357, set out as a note under section 6111 of this title.
 
 #### Effective Date
 

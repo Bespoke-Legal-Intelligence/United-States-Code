@@ -26,3 +26,4 @@ Part B—Supplementary Medical Insurance Benefits for Aged and Disabled
 - [&sect; 01395w&#8211;3a - Use of average sales price payment methodology](%C2%A7%2001395w%E2%80%933a%20-%20Use%20of%20average%20sales%20price%20payment%20methodology.md)
 - [&sect; 01395w&#8211;3b - Competitive acquisition of outpatient drugs and biologicals](%C2%A7%2001395w%E2%80%933b%20-%20Competitive%20acquisition%20of%20outpatient%20drugs%20and%20biologicals.md)
 - [&sect; 01395w&#8211;4 - Payment for physicians&#8217; services](%C2%A7%2001395w%E2%80%934%20-%20Payment%20for%20physicians%E2%80%99%20services.md)
+- [&sect; 01395w&#8211;5 - Public reporting of performance information](%C2%A7%2001395w%E2%80%935%20-%20Public%20reporting%20of%20performance%20information.md)

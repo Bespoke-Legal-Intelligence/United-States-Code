@@ -48,7 +48,7 @@ In subsection (b)(3)(A), the words “for obligation”, “a period of”, and 
 
 #### Amendments
 
-2005—Pub. L. 109–59, §3015(b)(1), substituted “Transit cooperative research program” for “State planning and research programs” in section catchline.
+<b>2005</b>—Pub. L. 109–59, §3015(b)(1), substituted “Transit cooperative research program” for “State planning and research programs” in section catchline.
 
 Subsec. (a). Pub. L. 109–59, §3015(a)(2), redesignated par. (2) as subsec. (b) and directed amendment of subsec. (a) by substituting “The amounts made available under subsections (a)(5)(C)(iii) and (d)(1) of section 5338” for “(1) The amounts made available under paragraphs (1) and (2)(C)(ii) of section 5338(c) of this title”, which was executed by making the substitution for “(1) The amounts made available under paragraphs (1) and (2)(C)(ii) of section 5338(d) of this title”, to reflect the probable intent of Congress.
 
@@ -58,7 +58,7 @@ Subsec. (b). Pub. L. 109–59, §3015(a)(1), (2)(B), redesignated subsec. (a)(2)
 
 Subsec. (c). Pub. L. 109–59, §3015(a)(3), reenacted heading without change and amended text of subsec. (c) generally. Prior to amendment, text read as follows: “When there would be a clear and direct financial benefit to an entity under a grant or contract financed under subsection (a) of this section, the Secretary shall establish a United States Government share consistent with the benefit.”
 
-1998—Subsec. (a)(1). Pub. L. 105–178, §3029(b)(4), substituted “The amounts made available under paragraphs (1) and (2)(C)(ii) of section 5338(d)” for “Fifty percent of the amounts made available under section 5338(g)(3)”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–178, §3029(b)(4), substituted “The amounts made available under paragraphs (1) and (2)(C)(ii) of section 5338(d)” for “Fifty percent of the amounts made available under section 5338(g)(3)”.
 
 Subsec. (b)(1). Pub. L. 105–178, §3029(b)(5), substituted “The amounts made available under paragraphs (1) and (2)(C)(ii) of section 5338(c)” for “Fifty percent of the amounts made available under section 5338(g)(3)”.
 

@@ -62,7 +62,7 @@ The President shall review all activities of Government departments and agencies
 
 &emsp;&emsp;&emsp;&emsp;(IV) section 2364 of this title with respect to section 2375 of this title or section 2753(f) of this title, the last sentence of section 2780(d) of this title, or 2799aa–1(b)(1) <sup>2</sup> of this title; and
 
-&emsp;&emsp;(C) the progress of those independent states of the former Soviet Union that are non-nuclear-weapon states and of the Baltic states towards achieving the objective of applying full scope safeguards to all their peaceful nuclear activities.
+&emsp;&emsp;(C) the progress of those independent states of the former Soviet Union that are non-nuclear-weapon states and of the Balticstates towards achieving the objective of applying full scope safeguards to all their peaceful nuclear activities.
 
 > Portions of the information required by paragraph (6) may be submitted in classified form, as necessary. Any such information that may not be published or disclosed under section 12(c)(1) of the Export Administration Act of 1979 \[50 U.S.C. App. 2411(c)(1)\] shall be submitted as confidential.
 
@@ -78,7 +78,7 @@ The Export Administration Act of 1979, referred to in subsec. (a)(6)(A)(iii), is
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–236 struck out “and” after the semicolon in par. (4), substituted a semicolon for the period in par. (5), and added par. (6) and concluding provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–236 struck out “and” after the semicolon in par. (4), substituted a semicolon for the period in par. (5), and added par. (6) and concluding provisions.
 
 #### Effective Date of 1994 Amendment
 

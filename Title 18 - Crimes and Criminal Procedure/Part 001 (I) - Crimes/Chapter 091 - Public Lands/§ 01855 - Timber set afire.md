@@ -20,5 +20,5 @@ Minor verbal changes were made.
 
 #### Amendments
 
-1988—Pub. L. 100–690 substituted “under this title” for “not more than $5,000” in first par.
+<b>1988</b>—Pub. L. 100–690 substituted “under this title” for “not more than $5,000” in first par.
 

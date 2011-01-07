@@ -52,7 +52,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Commissioner may award a grant, cooperative agreement, or contract underthis section to a State or a private agency or organization (other than Social Security Administration Field Offices and the State agency administering the State medicaid program under subchapter XIX of this chapter, including any agency or entity described in clause (ii), that the Commissioner determines is qualified to provide the planning, assistance, and information described in paragraph (2)).
+&emsp;&emsp;&emsp;The Commissioner may award a grant, cooperative agreement, or contract under this section to a State or a private agency or organization (other than Social Security Administration Field Offices and the State agency administering the State medicaid program under subchapter XIX of this chapter, including any agency or entity described in clause (ii), that the Commissioner determines is qualified to provide the planning, assistance, and information described in paragraph (2)).
 
 #### (ii) Agencies and entities described
 
@@ -72,7 +72,7 @@
 
 &emsp;&emsp;(A) availability and interrelation of any Federal or State work incentives programs designed to assist disabled beneficiaries that the individual may be eligible to participate in;
 
-&emsp;&emsp;(B) adequacy of any health benefits coverage that may be offered by an employer of the individual and the extent to which other health benefits coverage may be available to the individual; and
+&emsp;&emsp;(B) adequacy of any health benefits coverage that may be offered by an employer ofthe individual and the extent to which other health benefits coverage may be available to the individual; and
 
 &emsp;&emsp;(C) availability of protection and advocacy services for disabled beneficiaries and how to access such services.
 
@@ -92,11 +92,21 @@
 
 &emsp;&emsp;&emsp;The total amount of all grants, cooperative agreements, and contracts awarded under this section for a fiscal year may not exceed $23,000,000.
 
-#### (4) Allocation of costs
+#### (4) Funding
 
-&emsp;The costs of carrying out this section shall be paid from amounts made available for the administration of subchapter II of this chapter and amounts made available for the administration of subchapter XVI of this chapter, and shall be allocated among those amounts as appropriate.
+#### (A) Allocation of costs
 
-#### (c) Definitions
+&emsp;&emsp;The costs of carrying out this section shall be paid from amounts made available for the administration of subchapter II of this chapter and amounts made available for the administration of subchapter XVI of this chapter, and shall be allocated among those amounts as appropriate.
+
+#### (B) Carryover
+
+&emsp;&emsp;An amount not in excess of 10 percent of the total amount obligated through a grant, cooperative agreement, or contract awarded under this section for a fiscal year to a State or a private agency or organization shall remain available for obligation to such State or private agency or organization until the end of the succeeding fiscal year. Any such amount remaining available for obligation during such succeeding fiscal year shall be available for providing benefits planning and assistance only for individuals who are within the caseload of the recipient of the grant, agreement, or contract as of immediately before the beginning of such fiscal year.
+
+#### (c) Annual report
+
+Each entity awarded a grant, cooperative agreement, or contract under this section shall submit an annual report to the Commissioner on the benefits planning and assistance provided to individuals under such grant, agreement, or contract.
+
+#### (d) Definitions
 
 In this section:
 
@@ -116,17 +126,17 @@ In this section:
 
 &emsp;&emsp;(D) who is entitled to benefits under part A of subchapter XVIII of this chapter by reason of the penultimate sentence of section 426(b) of this title.
 
-#### (d) Authorization of appropriations
+#### (e) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $23,000,000 for each of the fiscal years 2000 through 2010.
+There are authorized to be appropriated to carry out this section $23,000,000 for each of the fiscal years 2000 through 2011.
 
-(Aug. 14, 1935, ch. 531, title XI, §1149, as added Pub. L. 106–170, title I, §121, Dec. 17, 1999, 113 Stat. 1887; amended Pub. L. 108–203, title IV, §§404(a)(1), 407(a), Mar. 2, 2004, 118 Stat. 525, 527; Pub. L. 111–63, §2, Sept. 18, 2009, 123 Stat. 2001.)
+(Aug. 14, 1935, ch. 531, title XI, §1149, as added Pub. L. 106–170, title I, §121, Dec. 17, 1999, 113 Stat. 1887; amended Pub. L. 108–203, title IV, §§404(a)(1), 407(a), Mar. 2, 2004, 118 Stat. 525, 527; Pub. L. 111–63, §2, Sept. 18, 2009, 123 Stat. 2001; Pub. L. 111–280, §§2(a), 3(a), (b)(1), Oct. 13, 2010, 124 Stat. 2903.)
 
 #### References in Text
 
 Section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, referred to in subsec. (a)(1), is section 101(f) of Pub. L. 106–170, which is set out as a note under section 1320b–19 of this title.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (a)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. Forcomplete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (a)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 The Workforce Investment Act of 1998, referred to in subsec. (a)(3), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Subtitle B of title I of the Act is classified generally to subchapter II (§2811 et seq.) of chapter 30 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
@@ -136,17 +146,31 @@ Section 6024 of this title, referred to in subsec. (b)(1)(C)(ii)(I), was repeale
 
 Part A of subchapter IV of this chapter, referred to in subsec. (b)(1)(C)(ii)(II), is classified to section 601 et seq. of this title.
 
-Section 212 of Public Law 93–66, referred to in subsec. (c)(2)(B), is set out as a note under section 1382 of this title.
+Section 212 of Public Law 93–66, referred to in subsec. (d)(2)(B), is set out as a note under section 1382 of this title.
 
-Part A of subchapter XVIII of this chapter, referred to in subsec. (c)(2)(D), is classified to section 1395c et seq. of this title.
+Part A of subchapter XVIII of this chapter, referred to in subsec. (d)(2)(D), is classified to section 1395c et seq. of this title.
 
 #### Amendments
 
-2009—Subsec. (d). Pub. L. 111–63 substituted “2010” for “2009”.
+<b>2010</b>—Subsec. (b)(4). Pub. L. 111–280, §3(b)(1), substituted “Funding” for “Allocation of costs” in par. (4)heading, designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpar. (B).
 
-2004—Subsec. (c)(2). Pub. L. 108–203, §404(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘disabled beneficiary’ has the meaning given that term in section 1320b–19(k)(2) of this title.”
+Subsec. (c). Pub. L. 111–280, §3(a), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 111–280, §3(a), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Pub. L. 111–280, §2(a), substituted “2011” for “2010”.
+
+Subsec. (e). Pub. L. 111–280, §3(a), redesignated subsec. (d) as (e).
+
+<b>2009</b>—Subsec. (d). Pub. L. 111–63 substituted “2010” for “2009”.
+
+<b>2004</b>—Subsec. (c)(2). Pub. L. 108–203, §404(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘disabled beneficiary’ has the meaning given that term in section 1320b–19(k)(2) of this title.”
 
 Subsec. (d). Pub. L. 108–203, §407(a), substituted “2009” for “2004”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–280, §3(b)(2), Oct. 13, 2010, 124 Stat. 2904, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to amounts allotted under section 1149 of the Social Security Act \[42 U.S.C. 1320b–20\] for payment for a fiscal year after fiscal year 2010.”
 
 #### Effective Date of 2004 Amendment
 

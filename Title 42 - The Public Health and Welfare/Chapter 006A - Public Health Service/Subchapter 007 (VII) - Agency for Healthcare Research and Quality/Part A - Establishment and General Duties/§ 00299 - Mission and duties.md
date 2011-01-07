@@ -82,7 +82,35 @@ References.—Any reference in law to the Agency for Health Care Policy and Rese
 
 #### Transitional and Savings Provisions
 
-Section 6103(f) of Pub. L. 101–239 provided that personnel of the Department of Health and Human Services employed, and Department assets used in connection with Department functions, on Dec. 19, 1989, be transferred to the Administrator for Health Care Policy and Research for appropriate allocation, and provided that orders, rules, regulations, grants, contracts, certificates, licenses, privileges, and other determinations, actions, or official documents would continue in effect according to their terms unless changed pursuant to law.
+Section 6103(f) of Pub. L. 101–239 provided that personnel of the Department of Health and Human Servicesemployed, and Department assets used in connection with Department functions, on Dec. 19, 1989, be transferred to the Administrator for Health Care Policy and Research for appropriate allocation, and provided that orders, rules, regulations, grants, contracts, certificates, licenses, privileges, and other determinations, actions, or official documents would continue in effect according to their terms unless changed pursuant to law.
+
+#### IOM Reports on Best Practices for Developing Clinical Protocols
+
+Pub. L. 110–275, title III, §304(b), July 15, 2008, 122 Stat. 2595, as amended by Pub. L. 111–148, title X, §10303(c), Mar. 23, 2010, 124 Stat. 938, provided that:
+
+“(1)
+
+Study.—Not later than 60 days after the date of the enactment of this Act \[July 15, 2008\], the Secretary of Health and Human Services shall enter into a contract with the Institute of Medicine of the National Academies (in this section \[this note\] referred to as the ‘Institute’) under which the Institute shall conduct a study on the best methods used in developing clinical practice guidelines in order to ensure that organizations developing such guidelines have information on approaches that are objective, scientifically valid, and consistent.
+
+“(2)
+
+Report.—Not later than 18 months after the effective date of the contract under paragraph (1), the Institute, as part of such contract, shall submit to the Secretary of Health and Human Services and the appropriate committees of jurisdiction of Congress a report containing the results of the study conducted under paragraph (1), together with recommendations for such legislation and administrative action as the Institute determines appropriate.
+
+“(3)
+
+Participation.—The contract under paragraph (1) shall require that stakeholders with expertise in making clinical recommendations participate on the panel responsible for conducting the study under paragraph (1) and preparing the report under paragraph (2).
+
+“(4)
+
+Identification.—
+
+&emsp;“(A)
+
+In general.—Following receipt of the report submitted under paragraph (2), and not less than every 3 years thereafter, the Secretary shall contract with the Institute to employ the results of the study performed under paragraph (1) and the best methods identified by the Institute for the purpose of identifying existing and new clinical practice guidelines that were developed using such best methods, including guidelines listed in the National Guideline Clearinghouse.
+
+&emsp;“(B)
+
+Consultation.—In carrying out the identification process under subparagraph (A), the Secretary shall allow for consultation with professional societies, voluntary health care organizations, and expert panels.”
 
 #### IOM Study on Drug Safety and Quality
 

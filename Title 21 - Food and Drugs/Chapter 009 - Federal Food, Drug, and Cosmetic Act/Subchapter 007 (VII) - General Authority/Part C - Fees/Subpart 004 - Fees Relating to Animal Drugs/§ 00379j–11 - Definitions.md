@@ -72,7 +72,7 @@ For purposes of this subpart:
 
 #### Amendments
 
-2008—Par. (6). Pub. L. 110–316, §§102(1), 108(a), temporarily substituted “that has not been withdrawn by the applicant and for which approval has not been withdrawn by the Secretary” for “, except for an approved application for which all subject products have been removed from listing under section 360 of this title”. See Effective and Termination Dates of 2008 Amendment note below.
+<b>2008</b>—Par. (6). Pub. L. 110–316, §§102(1), 108(a), temporarily substituted “that has not been withdrawn by the applicant and for which approval has not been withdrawn by the Secretary” for “, except for an approved application for which all subject products have been removed from listing under section 360 of this title”. See Effective and Termination Dates of 2008 Amendment note below.
 
 Par. (8)(H). Pub. L. 110–316, §§102(2), 108(a), temporarily substituted “but not after such application has been approved” for “but not such activities after an animal drug has been approved”. See Effective and Termination Dates of 2008 Amendment note below.
 
@@ -80,7 +80,7 @@ Par. (10). Pub. L. 110–316, §§102(3), 108(a), temporarily substituted “mon
 
 Pars. (11), (12). Pub. L. 110–316, §§102(4), (5), 108(a), temporarily added par. (11) and redesignated former par. (11) as (12). See Effective and Termination Dates of 2008 Amendment note below.
 
-2007—Pub. L. 110–85, §109(a), substituted “subpart” for “part” in introductory provisions.
+<b>2007</b>—Pub. L. 110–85, §109(a), substituted “subpart” for “part” in introductory provisions.
 
 Par. (11). Pub. L. 110–85, §109(b), substituted “379g(11)” for “379g(9)”.
 

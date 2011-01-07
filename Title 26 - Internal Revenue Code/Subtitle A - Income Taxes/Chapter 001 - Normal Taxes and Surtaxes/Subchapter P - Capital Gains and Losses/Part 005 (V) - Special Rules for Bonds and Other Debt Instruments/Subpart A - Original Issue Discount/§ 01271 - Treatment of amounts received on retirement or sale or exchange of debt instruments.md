@@ -52,7 +52,7 @@ For purposes of this title—
 
 #### (E) Election of accrual on basis of constant interest rate
 
-&emsp;&emsp;At the election of the taxpayer with respect to any obligation, the ratable share ofthe acquisition discount is the portion of the acquisition discount accruing while the taxpayer held the obligation determined (under regulations prescribed by the Secretary) on the basis of—
+&emsp;&emsp;At the election of the taxpayer with respect to any obligation, the ratable share of the acquisition discount is the portion of the acquisition discount accruing while the taxpayer held the obligation determined (under regulations prescribed by the Secretary) on the basis of—
 
 &emsp;&emsp;&emsp;(i) the taxpayer's yield to maturity based on the taxpayer's cost of acquiring the obligation, and
 
@@ -140,7 +140,7 @@ This section and sections 1272 and 1286 shall not require the inclusion of any a
 
 #### Amendments
 
-1997—Subsec. (b). Pub. L. 105–34 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “This section shall not apply to—
+<b>1997</b>—Subsec. (b). Pub. L. 105–34 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “This section shall not apply to—
 
 &emsp;“(1)
 
@@ -154,9 +154,9 @@ Obligations issued before July 2, 1982, by certain issuers.—Any obligation iss
 
 &emsp;&emsp;“(B) is not a government or political subdivision thereof.”
 
-1988—Subsec. (a)(2)(A)(ii). Pub. L. 100–647 substituted “subsection (a)(7)” for “subsection (a)(6)”.
+<b>1988</b>—Subsec. (a)(2)(A)(ii). Pub. L. 100–647 substituted “subsection (a)(7)” for “subsection (a)(6)”.
 
-1986—Subsec. (a)(3)(B). Pub. L. 99–514, §1803(a)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “For purposes of this paragraph, the term ‘short-term Government obligation’means any obligation of the United States or any of its possessions, or of a State or any political subdivision thereof, or of the District of Columbia which is—
+<b>1986</b>—Subsec. (a)(3)(B). Pub. L. 99–514, §1803(a)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “For purposes of this paragraph, the term ‘short-term Government obligation’ means any obligation of the United States or any of its possessions, or of a State or any political subdivision thereof, or of the District of Columbia which is—
 
 &emsp;“(i) issued on a discount basis, and
 
@@ -204,7 +204,7 @@ In general.—
 
 &emsp;“(2)
 
-Revision of section 482 regulations.—Not later than 180 days after the date of the enactment of this Act \[July 18, 1984\], the Secretary of the Treasury or his delegate shall modify the safe harbor interest rates applicable under the regulations prescribed under section 482 of the Internal Revenue Code of 1986 so that such rates are consistent with the rates applicable under section 483 of such Code by reason of the amendments made by section 41.
+Revision of section 482 regulations.—Not later than 180 days after the date of the enactment of this Act \[July 18, 1984\], the Secretary of the Treasury or his delegate shall modify the safe harbor interestrates applicable under the regulations prescribed under section 482 of the Internal Revenue Code of 1986 so that such rates are consistent with the rates applicable under section 483 of such Code by reason of the amendments made by section 41.
 
 &emsp;“(3)
 
@@ -342,7 +342,7 @@ Obligations described in this subparagraph.—A debt obligation is described in 
 
 &emsp;&emsp;“(C)
 
-Regulations.—The Secretary shall prescribe such regulations as may be appropriate to effect the purpose of this paragraph and paragraph (5), including regulations relating to tax-exempt obligations, government subsidized loans, or other instruments.
+Regulations.—The Secretary shall prescribe such regulations as may be appropriate to effectthe purpose of this paragraph and paragraph (5), including regulations relating to tax-exempt obligations, government subsidized loans, or other instruments.
 
 &emsp;&emsp;“(D)
 

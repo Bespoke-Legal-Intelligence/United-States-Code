@@ -10,7 +10,7 @@ Provision of this section authorizing appropriations of up to $100,000 for studi
 
 #### Amendments
 
-1954—Act Aug. 30, 1954, repealed second par. which required Secretary of Labor to submit annually to Congress reports of findings under this section.
+<b>1954</b>—Act Aug. 30, 1954, repealed second par. which required Secretary of Labor to submit annually to Congress reports of findings under this section.
 
 #### Transfer of Functions
 

@@ -14,7 +14,7 @@ To enable the State of Minnesota and its political subdivisions to develop and i
 
 #### (d) State and local jurisdiction
 
-Nothing in this part shall diminish, enlarge, or modify any right of the State of Minnesota or any political subdivision thereof, to exercise civil and criminal jurisdiction or to carry out State fish and wildlife laws, rules, and regulations within the Area, or to tax persons, corporations, franchises, or private property on the lands and waters included in the Area.
+Nothing in this part shall diminish, enlarge, or modify any right of the State of Minnesota or any political subdivision thereof, to exercise civil and criminal jurisdiction or to carry outState fish and wildlife laws, rules, and regulations within the Area, or to tax persons, corporations, franchises, or private property on the lands and waters included in the Area.
 
 (Pub. L. 100–696, title VII, §706, Nov. 18, 1988, 102 Stat. 4607.)
 

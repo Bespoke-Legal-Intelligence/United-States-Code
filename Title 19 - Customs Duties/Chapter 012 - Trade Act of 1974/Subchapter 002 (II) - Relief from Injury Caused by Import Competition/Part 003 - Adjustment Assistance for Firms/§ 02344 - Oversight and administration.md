@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall, to such extent and in such amounts as are provided in appropriations Acts, provide grants to intermediary organizations (referred to in section 2343(b)(1) of this title) throughout the United States pursuant to agreements with such intermediary organizations. Each such agreement shall require the intermediary organization to provide benefits to firms certified under section 2341 of this title. The Secretary shall, to the maximum extent practicable, provide by October 1, 2010, that contracts entered into with intermediary organizations be for a 12-month period and that all such contracts have the same beginning date and the same ending date.
+The Secretary shall, to such extent and in such amounts as are provided in appropriations Acts, provide grants to intermediary organizations (referred to in section 2343(b)(1) of thistitle) throughout the United States pursuant to agreements with such intermediary organizations. Each such agreement shall require the intermediary organization to provide benefits to firms certified under section 2341 of this title. The Secretary shall, to the maximum extent practicable, provide by October 1, 2010, that contracts entered into with intermediary organizations be for a 12-month period and that all such contracts have the same beginning date and the same ending date.
 
 #### (b) Distribution of funds
 
@@ -12,7 +12,7 @@ The Secretary shall, to such extent and in such amounts as are provided in appro
 
 #### (2) Prompt initial distribution
 
-&emsp;The methodology described in paragraph (1) shall ensure the prompt initial distribution offunds and establish additional criteria governing the apportionment and distribution of the remainder of such funds among the intermediary organizations.
+&emsp;The methodology described in paragraph (1) shall ensure the prompt initial distribution of funds and establish additional criteria governing the apportionment and distribution of the remainder of such funds among the intermediary organizations.
 
 #### (3) Criteria
 
@@ -52,9 +52,9 @@ Pub. L. 111–5, div. B, title I, §1864(e), Feb. 17, 2009, 123 Stat. 399, provi
 
 Except as otherwise provided and subject to certain applicability provisions, section effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of this title.
 
-Except as otherwise provided, this section and the repeal of former section 2344 of this title not applicable on or after Jan. 1, 2011, and this part to be applied and administered beginning Jan. 1, 2011, as if this section and the repeal had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Except as otherwise provided, this section and the repeal of former section 2344 of this title not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if this section and the repeal had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
-Except as otherwise provided, technical assistance and grants may not be provided under this part after Dec. 31, 2010, see section 285 of Pub. L. 93–618, set out as a Termination Date note preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and grants may not be provided under this section after Feb. 12, 2011, see section 285 of Pub. L. 93–618, set out as a Termination Date note preceding section 2271 of this title.
 
 #### Residual Authority
 

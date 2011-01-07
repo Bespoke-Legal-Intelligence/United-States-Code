@@ -58,7 +58,7 @@ The Secretary shall implement the revised standards established under this secti
 
 #### (e) Closure for failure to meet standards prohibited
 
-No school in operation on or before July 1, 1999 (regardless of compliance or noncompliance with the standards established under this section), may be closed, transferred to another authority, or consolidated, and no program of sucha school may be substantially curtailed, because the school failed to meet such standards.
+No school in operation on or before July 1, 1999 (regardless of compliance or noncompliance with the standards established under this section), may be closed, transferred to another authority, or consolidated, and no program of such a school may be substantially curtailed, because the school failed to meet such standards.
 
 (Pub. L. 95–561, title XI, §1122, as added Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2018.)
 

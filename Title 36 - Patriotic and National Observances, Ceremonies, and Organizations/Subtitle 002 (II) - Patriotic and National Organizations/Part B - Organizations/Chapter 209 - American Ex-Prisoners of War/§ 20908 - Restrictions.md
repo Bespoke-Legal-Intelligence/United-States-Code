@@ -70,5 +70,5 @@ In subsection (c), the words “inure to the benefit of” are substituted for �
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–284 substituted “board of directors” for “board or directors”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–284 substituted “board of directors” for “board or directors”.
 

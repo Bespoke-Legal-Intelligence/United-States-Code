@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary
 
-If any person liable to pay any tax neglects or refuses to pay the same within 10 days after notice and demand, it shall be lawful for the Secretary to collect such tax (and such further sum as shall be sufficient to cover the expenses of the levy) by levy upon all property and rights to property (except such property as is exempt under section 6334) belonging to such person oron which there is a lien provided in this chapter for the payment of such tax. Levy may be made upon the accrued salary or wages of any officer, employee, or elected official, of the United States, the District of Columbia, or any agency or instrumentality of the United States or the District of Columbia, by serving a notice of levy on the employer (as defined in section 3401(d)) of such officer, employee, or elected official. If the Secretary makes a finding that the collection of such tax is in jeopardy, notice and demand for immediate payment of such tax may be made by the Secretary and, upon failure or refusal to pay such tax, collection thereof by levy shall be lawful without regard to the 10-day period provided in this section.
+If any person liable to pay any tax neglects or refuses to pay the same within 10 days after notice and demand, it shall be lawful for the Secretary to collect such tax (and such further sum as shall be sufficient to cover the expenses of the levy) by levy upon all property and rights to property (except such property as is exempt under section 6334) belonging to such person or on which there is a lien provided in this chapter for the payment of such tax. Levy may be made upon the accrued salary or wages of any officer, employee, or elected official, of the United States, the District of Columbia, or any agency or instrumentality of the United States or the District of Columbia, by serving a notice of levy on the employer (as defined in section 3401(d)) of such officer, employee, or elected official. If the Secretary makes a finding that the collection of such tax is in jeopardy, notice and demand for immediate payment of such tax may be made by the Secretary and, upon failure or refusal to pay such tax, collection thereof by levy shall be lawful without regard to the 10-day period provided in this section.
 
 #### (b) Seizure and sale of property
 
@@ -216,13 +216,13 @@ The Railroad Unemployment Insurance Act, referred to in subsec. (h)(2)(C), is ac
 
 #### Amendments
 
-2004—Subsec. (h)(3). Pub. L. 108–357 added par. (3).
+<b>2004</b>—Subsec. (h)(3). Pub. L. 108–357 added par. (3).
 
-2002—Subsec. (k)(3). Pub. L. 107–147 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Rules similar to the rules of paragraphs (3) and (4) of subsection (i) shall apply for purposes of this subsection.”
+<b>2002</b>—Subsec. (k)(3). Pub. L. 107–147 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Rules similar to the rules of paragraphs (3) and (4) of subsection (i) shall apply for purposes of this subsection.”
 
-2000—Subsec. (k)(3). Pub. L. 106–554 substituted “(3) and (4)” for “(3), (4), and (5)”.
+<b>2000</b>—Subsec. (k)(3). Pub. L. 106–554 substituted “(3) and (4)” for “(3), (4), and (5)”.
 
-1998—Subsec. (h)(1). Pub. L. 105–206, §6010(f), substituted “If the Secretary approves a levy under this subsection, the effect of such levy” for “The effect of a levy”.
+<b>1998</b>—Subsec. (h)(1). Pub. L. 105–206, §6010(f), substituted “If the Secretary approves a levy under this subsection, the effect of such levy” for “The effect of a levy”.
 
 Subsec. (i). Pub. L. 105–206, §3433(a), added subsec. (i). Former subsec. (i) redesignated (j).
 
@@ -236,9 +236,9 @@ Pub. L. 105–206, §3444(a), redesignated subsec. (j) as (k).
 
 Subsec. (<i>l</i>). Pub. L. 105–206, §3462(b), redesignated subsec. (k) as (<i>l</i>).
 
-1997—Subsecs. (h), (i). Pub. L. 105–34 added subsec. (h) and redesignated former subsec. (h) as (i).
+<b>1997</b>—Subsecs. (h), (i). Pub. L. 105–34 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1988—Subsec. (d)(2). Pub. L. 100–647, §6236(a)(1), (2), substituted “30-day” for “10-day” in heading and “30 days” for “10 days” in text.
+<b>1988</b>—Subsec. (d)(2). Pub. L. 100–647, §6236(a)(1), (2), substituted “30-day” for “10-day” in heading and “30 days” for “10 days” in text.
 
 Subsec. (d)(4). Pub. L. 100–647, §6236(a)(3), added par. (4).
 
@@ -248,15 +248,15 @@ Subsecs. (f), (g). Pub. L. 100–647, §6236(d), added subsecs. (f) and (g). For
 
 Subsec. (h). Pub. L. 100–647, §6236(b)(2), (d), redesignated subsec. (f) as (h) and added par. (3).
 
-1984—Subsec. (b). Pub. L. 98–369 substituted “subsection (e)” for “subsection (d)(3)”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369 substituted “subsection (e)” for “subsection (d)(3)”.
 
-1982—Subsec. (d). Pub. L. 97–248 inserted authority to levy upon property other than salary or wages, substituted “person” for “individual” wherever appearing, designated second sentence of former par. (1) as par. (2) and in par. (2)(C) as so designated substituted “certified or registered mail” for “mail”, and redesignated former par. (2) as (3) and former par. (3) as subsec. (e).
+<b>1982</b>—Subsec. (d). Pub. L. 97–248 inserted authority to levy upon property other than salary or wages, substituted “person” for “individual” wherever appearing, designated second sentence of former par. (1) as par. (2) and in par. (2)(C) as so designated substituted “certified or registered mail” for “mail”, and redesignated former par. (2) as (3) and former par. (3) as subsec. (e).
 
 Subsec. (e). Pub. L. 97–248 redesignated former subsec. (d)(3) as (e). Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 97–248 redesignated former subsec. (e) as (f).
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (b). Pub. L. 94–455, §§1209(d)(2), 1906(b)(13)(A), substituted in second sentence “Except as otherwise provided in subsection (d)(3), a levy” for “A levy” and struck out “or his delegate” after “Secretary”.
 
@@ -268,9 +268,9 @@ Subsec. (d)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegat
 
 Subsec. (d)(3). Pub. L. 94–455, §1209(d)(1), added par. (3).
 
-1971—Subsecs. (d), (e). Pub. L. 92–178 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1971</b>—Subsecs. (d), (e). Pub. L. 92–178 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1966—Subsec. (b). Pub. L. 89–719 inserted sentence providing that a levy shall extend only to property possessed and obligations existing at the time thereof.
+<b>1966</b>—Subsec. (b). Pub. L. 89–719 inserted sentence providing that a levy shall extend only to property possessed and obligations existing at the time thereof.
 
 #### Effective Date of 2004 Amendment
 
@@ -290,7 +290,7 @@ Pub. L. 105–206, title III, §3462(e), July 22, 1998, 112 Stat. 766, provided 
 
 “(1)
 
-In general.—The amendments made by this section \[amending this section and sections 6159 and 7122of this title\] shall apply to proposed offers-in-compromise and installment agreements submitted after the date of the enactment of this Act \[July 22, 1998\].
+In general.—The amendments made by this section \[amending this section and sections 6159 and 7122 of this title\] shall apply to proposed offers-in-compromise and installment agreements submitted after the date of the enactment of this Act \[July 22, 1998\].
 
 “(2)
 

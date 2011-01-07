@@ -164,9 +164,9 @@ Section was formerly set out as a note under section 3616 of this title.
 
 #### Amendments
 
-1995—Subsec. (e)(2). Pub. L. 104–66 struck out par. (2) which read as follows: “The Secretary shall provide to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a quarterly report that summarizes the activities funded under this section and describes the geographical distribution of grants, contracts, or cooperative agreements funded under this section.”
+<b>1995</b>—Subsec. (e)(2). Pub. L. 104–66 struck out par. (2) which read as follows: “The Secretary shall provide to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a quarterly report that summarizes the activities funded under this section and describes the geographical distribution of grants, contracts, or cooperative agreements funded under this section.”
 
-1992—Subsecs. (b) to (f). Pub. L. 102–550, §905(b)(1), (2), added subsecs. (b) to (d) and redesignated former subsecs. (b) and (c) as (e) and (f), respectively.
+<b>1992</b>—Subsecs. (b) to (f). Pub. L. 102–550, §905(b)(1), (2), added subsecs. (b) to (d) and redesignated former subsecs. (b) and (c) as (e) and (f), respectively.
 
 Subsec. (g). Pub. L. 102–550, §905(b)(1), (3), redesignated subsec. (d) as (g) and, in first sentence, substituted “$21,000,000 for fiscal year 1993 and $26,000,000 for fiscal year 1994, of which—” and pars. (1) to (4) for “including any program evaluations, $6,000,000 for fiscal year 1991 and $6,300,000 for fiscal year 1992, of which not more than $3,000,000 in each year shall be for the private enforcement initiative demonstration.”
 
@@ -176,7 +176,7 @@ Pub. L. 102–550, §905(b)(1), redesignated subsec. (e) as (h).
 
 Subsecs. (i), (j). Pub. L. 102–550, §905(b)(4), added subsecs. (i) and (j).
 
-1990—Subsec. (d). Pub. L. 101–625, §953(a), amended first sentence generally. Prior to amendment, first sentence read as follows: “There are authorized to be appropriated to carry out the provisions of this section, including any program evaluations, $5,000,000 for fiscal year 1988, and $5,000,000 for fiscal year 1989, of which not more than $3,000,000 in each year shall be for the private enforcement initiative demonstration.”
+<b>1990</b>—Subsec. (d). Pub. L. 101–625, §953(a), amended first sentence generally. Prior to amendment, first sentence read as follows: “There are authorized to be appropriated to carry out the provisions of this section, including any program evaluations, $5,000,000 for fiscal year 1988, and $5,000,000 for fiscal year 1989, of which not more than $3,000,000 in each year shall be for the private enforcement initiative demonstration.”
 
 Subsec. (e). Pub. L. 101–625, §953(b), substituted “1992” for “1989”.
 

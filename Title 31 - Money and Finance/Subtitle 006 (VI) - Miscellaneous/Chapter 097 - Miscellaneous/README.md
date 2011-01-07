@@ -17,9 +17,9 @@
 
 #### Amendments
 
-1993—Pub. L. 103–62, §11(b)(2), Aug. 3, 1993, 107 Stat. 295, added item 9703 relating to managerial accountability and flexibility and item 9704.
+<b>1993</b>—Pub. L. 103–62, §11(b)(2), Aug. 3, 1993, 107 Stat. 295, added item 9703 relating to managerial accountability and flexibility and item 9704.
 
-1992—Pub. L. 102–393, title VI, §638(b)(2), Oct. 6, 1992, 106 Stat. 1788, added item 9703.
+<b>1992</b>—Pub. L. 102–393, title VI, §638(b)(2), Oct. 6, 1992, 106 Stat. 1788, added item 9703.
 
 <i><sup>1</sup></i><i> So in original. Two sections 9703 have been enacted.</i>
 

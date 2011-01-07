@@ -36,5 +36,5 @@ A prior section 1509 of act July 1, 1944, was renumbered section 1510 and is cla
 
 #### Amendments
 
-1998—Subsec. (d)(1). Pub. L. 105–340 substituted “2003” for “1998”.
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–340 substituted “2003” for “1998”.
 

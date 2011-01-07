@@ -48,7 +48,7 @@ Each United States shareholder of a controlled foreign corporation which for any
 
 #### (4) Special rule
 
-&emsp;A United States shareholder of an export trade corporation may, under regulations prescribed by the Secretary, make the determinations under paragraphs (2) and (3) as of the close of the 75th day after the close of the years referred to in such paragraphs in lieu of on the last day of such years. A United States shareholder of an export trade corporation may, under regulations prescribed by the Secretary, make the determinations under paragraphs (2) and (3) with respect to export trade assets described in section 971(c)(3) as of the close of the years following the years referred to in such paragraphs, or as of the close of such longer period of time as such regulations may permit, in lieu of on the last day of such years and in lieu of on the day prescribed in the preceding sentence. Any election under this paragraph made with respect to any taxable year shall apply to such year and to all succeeding taxable years unless the Secretary consents to the revocation of such election.
+&emsp;A United States shareholder of an export trade corporation may, under regulations prescribed by the Secretary, make the determinations under paragraphs (2) and (3) as of the close of the 75th day after the close of the years referred to in such paragraphs in lieu of on the last day of such years. A United States shareholder of an export trade corporation may, under regulations prescribed by the Secretary, make the determinations under paragraphs (2) and (3) with respect to export trade assets described in section 971(c)(3) as of the close of the years following the years referred to in such paragraphs, or as of the close of such longer period of time as such regulations may permit, in lieu of on the last day of such years and in lieu of on the day prescribed in the preceding sentence. Any election underthis paragraph made with respect to any taxable year shall apply to such year and to all succeeding taxable years unless the Secretary consents to the revocation of such election.
 
 (Added Pub. L. 87–834, §12(a), Oct. 16, 1972, 76 Stat. 1027; amended Pub. L. 94–455, title XIX, §§1901(b)(27)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1799, 1834.)
 
@@ -58,7 +58,7 @@ The Tax Reform Act of 1976, referred to in subsec. (b)(1), is Pub. L. 94–455, 
 
 #### Amendments
 
-1976—Subsec. (a)(1). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (b)(1). Pub. L. 94–455, §1901(b)(27)(A), substituted “treatment (under section 972 as in effect before the date of enactment of the Tax Reform Act of 1976) of two or more controlled foreign corporations which are export trade corporations as a single controlled corporation” for “application of section 972” after “reason of the”.
 

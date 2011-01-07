@@ -46,7 +46,7 @@ The Child Nutrition Act of 1966, referred to in subsec. (c)(1), is Pub. L. 89–
 
 #### Amendments
 
-1998—Subsec. (a)(1). Pub. L. 105–336, §108(a)(1), substituted “supplements under a program organized primarily to provide care for” for “supplements to”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–336, §108(a)(1), substituted “supplements under a program organized primarily to provide care for” for “supplements to”.
 
 Subsec. (a)(2)(C). Pub. L. 105–336, §108(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “are participating in the child care food program under section 1766 of this title on May 15, 1989.”
 

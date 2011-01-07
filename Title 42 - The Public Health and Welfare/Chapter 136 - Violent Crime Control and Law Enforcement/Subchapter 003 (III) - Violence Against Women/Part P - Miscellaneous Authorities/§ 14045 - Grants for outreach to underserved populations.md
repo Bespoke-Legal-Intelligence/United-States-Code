@@ -68,7 +68,7 @@ Section was enacted as part of the Violence Against Women and Department of Just
 
 #### Amendments
 
-2006—Subsec. (g). Pub. L. 109–271, §2(h), struck out “, every 18 months,” after “Office of Violence Against Women”.
+<b>2006</b>—Subsec. (g). Pub. L. 109–271, §2(h), struck out “, every 18 months,” after “Office of Violence Against Women”.
 
 Subsec. (i). Pub. L. 109–271, §1(c)(2), added subsec. (i).
 

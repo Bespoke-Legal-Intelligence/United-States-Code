@@ -52,19 +52,19 @@ In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” and
 
 #### Amendments
 
-1994—Subsec. (e)(4). Pub. L. 103–236 inserted before period at end “, and of similar services and opportunities for interchange not supported by the United States Government”.
+<b>1994</b>—Subsec. (e)(4). Pub. L. 103–236 inserted before period at end “, and of similar services and opportunities for interchange not supported by the United States Government”.
 
-1980—Subsec. (c). Pub. L. 96–465, §2205(7), struck out subsec. (c) which related to employment or assignment of persons in or to Foreign Service Reserve or Foreign Service Staff and alien clerks and employees.
+<b>1980</b>—Subsec. (c). Pub. L. 96–465, §2205(7), struck out subsec. (c) which related to employment or assignment of persons in or to Foreign Service Reserve or Foreign Service Staff and alien clerks and employees.
 
 Subsec. (d). Pub. L. 96–465, §2206(a)(9), among other changes, substituted reference to section 3950 of this title for reference to section 928 of this title and struck out provisions relating to the applicability of section 807 of this title.
 
-1979—Subsec. (f). Pub. L. 96–60 struck out subsec. (f) relating to investigation-of-employees requirement.
+<b>1979</b>—Subsec. (f). Pub. L. 96–60 struck out subsec. (f) relating to investigation-of-employees requirement.
 
-1978—Subsec. (e)(1). Pub. L. 95–426 substituted “Director of the International Communication Agency” for “President”.
+<b>1978</b>—Subsec. (e)(1). Pub. L. 95–426 substituted “Director of the International Communication Agency” for “President”.
 
-1966—Subsec. (g). Pub. L. 89–698 added subsec. (g).
+<b>1966</b>—Subsec. (g). Pub. L. 89–698 added subsec. (g).
 
-1962—Subsec. (b). Pub. L. 87–793 substituted “but not in excess of the highest rate of grade 18 of the General Schedule for “and of these not to exceed five may be compensated at a rate in excess of the highest rate provided for grades of the general schedule established by the Classification Act of 1949, as amended, but not in excess of $1,000 per annum more than such highest rate”.
+<b>1962</b>—Subsec. (b). Pub. L. 87–793 substituted “but not in excess of the highest rate of grade 18 of the General Schedule for “and of these not to exceed five may be compensated at a rate in excess of the highest rate provided for grades of the general schedule established by the Classification Act of 1949, as amended, but not in excess of $1,000 per annum more than such highest rate”.
 
 #### Effective Date of 1980 Amendment
 

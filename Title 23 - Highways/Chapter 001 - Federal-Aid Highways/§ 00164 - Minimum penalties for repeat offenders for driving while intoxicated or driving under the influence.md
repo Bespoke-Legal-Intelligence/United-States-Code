@@ -54,7 +54,7 @@ Transfer of Funds.—
 
 &emsp;(1)
 
-Fiscal years 2001 and 2002.—On October 1, 2000, and October 1, 2001, if a State has not enacted or is not enforcing a repeat intoxicated driver law, the Secretary shall transfer an amount equal to 11/2 percent of the funds apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) to the apportionment of the State under section 402—
+Fiscal years 2001 and 2002.—On October 1, 2000, and October 1, 2001, if a State has not enacted or is not enforcing a repeat intoxicated driver law, the Secretary shall transfer an amount equal to 1½ percent of the funds apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) to the apportionment of the State under section 402—
 
 &emsp;&emsp;(A) to be used for alcohol-impaired driving countermeasures; or
 
@@ -106,17 +106,17 @@ Amount.—The amount of obligation authority referred to in subparagraph (A) sha
 
 Limitation on applicability of obligation limitation.—Notwithstanding any other provision of law, no limitation on the total of obligations for highway safety programs under section 402 shall apply to funds transferred under this subsection to the apportionment of a State under such section.
 
-(Added Pub. L. 105–178, title I, §1406(a), as added Pub. L. 105–206, title IX, §9005(a), July 22, 1998, 112 Stat. 845; amended Pub. L. 109–59, title I, §1401(a)(3)(C), Aug. 10, 2005, 119 Stat. 1225; Pub. L. 110–244, title I, §115, June 6, 2008, 122 Stat. 1606.)
+(Added Pub. L. 105–178, title I, §1406(a), as added Pub. L. 105–206, title IX, §9005(a), July 22, 1998, 112 Stat. 845; amended Pub. L. 109–59, title I, §1401(a)(3)(C), Aug. 10, 2005, 119 Stat. 1225; Pub.L. 110–244, title I, §115, June 6, 2008, 122 Stat. 1606.)
 
 #### Amendments
 
-2008—Subsec. (a)(5)(A), (B). Pub. L. 110–244 added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+<b>2008</b>—Subsec. (a)(5)(A), (B). Pub. L. 110–244 added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) receive a driver's license suspension for not less than 1 year;
 
 “(B) be subject to the impoundment or immobilization of each of the individual's motor vehicles or the installation of an ignition interlock system on each of the motor vehicles;”.
 
-2005—Subsec. (b)(3). Pub. L. 109–59 substituted “148” for “152”.
+<b>2005</b>—Subsec. (b)(3). Pub. L. 109–59 substituted “148” for “152”.
 
 #### Effective Date
 

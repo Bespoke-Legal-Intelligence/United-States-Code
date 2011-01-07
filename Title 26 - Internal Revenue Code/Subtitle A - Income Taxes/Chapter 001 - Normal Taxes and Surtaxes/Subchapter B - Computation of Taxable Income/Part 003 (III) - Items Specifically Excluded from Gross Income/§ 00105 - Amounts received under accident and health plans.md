@@ -6,7 +6,7 @@ Except as otherwise provided in this section, amounts received by an employee th
 
 #### (b) Amounts expended for medical care
 
-Except in the case of amounts attributable to (and not in excess of) deductions allowed under section 213 (relating to medical, etc., expenses) for any prior taxable year, gross income does not include amounts referred to in subsection (a) if such amounts are paid, directly or indirectly, to the taxpayer to reimburse the taxpayer for expenses incurred by him for the medical care (as defined in section 213(d)) of the taxpayer, his spouse, and his dependents (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof). Any child to whom section 152(e) applies shall be treated as a dependent of both parents for purposes of this subsection.
+Except in the case of amounts attributable to (and not in excess of) deductions allowed under section 213 (relating to medical, etc., expenses) for any prior taxable year, gross income does not include amounts referred to in subsection (a) if such amounts are paid, directly or indirectly, to the taxpayer to reimburse the taxpayer for expenses incurred by him for the medical care (as defined in section 213(d)) of the taxpayer, his spouse, his dependents (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof), and any child (as defined in section 152(f)(1)) of the taxpayer who as of the end of the taxable year has not attained age 27. Any child to whom section 152(e) applies shall be treated as a dependent of both parents for purposes of this subsection.
 
 #### (c) Payments unrelated to absence from work
 
@@ -136,7 +136,7 @@ Notwithstanding any other provision of law, gross income includes benefits paid 
 
 &emsp;&emsp;(B) has received a favorable ruling from the Internal Revenue Service that the trust's income is not includible in gross income under section 115.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 30; Pub. L. 87–792, §7(e), Oct. 10, 1962, 76 Stat. 829; Pub. L. 88–272, title II, §205(a), Feb. 26, 1964, 78 Stat. 38; Pub. L. 94–455, title V, §505(a), title XIX, §1901(c)(2), Oct.4, 1976, 90 Stat. 1566, 1803; Pub. L. 95–600, title III, §366(a), title VII, §701(c)(1), Nov. 6, 1978, 92 Stat. 2855, 2899; Pub. L. 96–222, title I, §103(a)(13)(B), (C), Apr. 1, 1980, 94 Stat. 213; Pub. L. 96–605, title II, §201(b)(1), Dec. 28, 1980, 94 Stat. 3527; Pub. L. 96–613, §5(b)(1), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 97–34, title I, §§103(c)(2), 111(b)(4), Aug. 13, 1981, 95 Stat. 188, 194; Pub. L. 97–248, title II, §202(b)(3)(C), Sept. 3, 1982, 96 Stat. 421; Pub. L. 98–21, title I, §122(b), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–76, title II, §241(a), Aug. 12, 1983, 97 Stat. 430; Pub. L. 98–369, div. A, title IV, §423(b)(2), July 18, 1984, 98 Stat. 800; Pub. L. 99–514, title XI, §1151(c)(2), title XIII, §1301(j)(9), Oct. 22, 1986, 100 Stat. 2503, 2658; Pub. L. 101–140, title II, §203(a)(1), Nov. 8, 1989, 103 Stat. 830; Pub. L. 108–311, title II, §207(9), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–458, title I, §124(a), Dec. 23, 2008, 122 Stat. 5114.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 30; Pub. L. 87–792, §7(e), Oct. 10, 1962, 76 Stat. 829; Pub. L. 88–272, title II, §205(a), Feb. 26, 1964, 78 Stat. 38; Pub. L. 94–455, title V, §505(a), title XIX, §1901(c)(2), Oct. 4, 1976, 90 Stat. 1566, 1803; Pub. L. 95–600, title III, §366(a), title VII, §701(c)(1), Nov. 6, 1978, 92 Stat. 2855, 2899; Pub. L. 96–222, title I, §103(a)(13)(B), (C), Apr. 1, 1980, 94 Stat. 213; Pub. L. 96–605, title II, §201(b)(1), Dec. 28, 1980, 94 Stat. 3527; Pub. L. 96–613, §5(b)(1), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 97–34, title I, §§103(c)(2), 111(b)(4), Aug. 13, 1981, 95 Stat. 188, 194; Pub. L. 97–248, title II, §202(b)(3)(C), Sept. 3, 1982, 96 Stat. 421; Pub. L. 98–21, title I, §122(b), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–76, title II, §241(a), Aug. 12, 1983, 97 Stat. 430; Pub. L. 98–369, div. A, title IV, §423(b)(2), July 18, 1984, 98 Stat. 800; Pub. L. 99–514, title XI, §1151(c)(2), title XIII, §1301(j)(9), Oct. 22, 1986, 100 Stat. 2503, 2658; Pub. L. 101–140, title II, §203(a)(1), Nov. 8, 1989, 103 Stat. 830; Pub. L. 108–311, title II, §207(9), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–458, title I, §124(a), Dec. 23, 2008, 122 Stat. 5114; Pub. L. 111–152, title I, §1004(d)(1), Mar. 30, 2010, 124 Stat. 1035.)
 
 #### References in Text
 
@@ -144,35 +144,37 @@ Section 2(a) of the Railroad Unemployment Insurance Act, referred to in subsec. 
 
 #### Amendments
 
-2008—Subsec. (j). Pub. L. 110–458 added subsec. (j).
+<b>2010</b>—Subsec. (b). Pub. L. 111–152 substituted “his dependents” for “and his dependents” and inserted “, and any child (as defined in section 152(f)(1)) of the taxpayer who as of the end of the taxable year has not attained age 27” after “thereof)”.
 
-2004—Subsecs. (b), (c)(1). Pub. L. 108–311 inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
+<b>2008</b>—Subsec. (j). Pub. L. 110–458 added subsec. (j).
 
-1989—Subsecs. (h), (i). Pub. L. 101–140 amended subsecs. (h) and (i) to read as if amendments by Pub. L. 99–514, §1151(c)(2), had not been enacted, see 1986 Amendment note below.
+<b>2004</b>—Subsecs. (b), (c)(1). Pub. L. 108–311 inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
 
-1986—Subsec. (d)(5)(C). Pub. L. 99–514, §1301(j)(9), which directed that subpar. (C) be amended by substituting “section 7703(a)” for “section 143(a)”, could not be executed because subsec. (d) was previously repealed by Pub. L. 98–21. See 1983 Amendment note below.
+<b>1989</b>—Subsecs. (h), (i). Pub. L. 101–140 amended subsecs. (h) and (i) to read as if amendments by Pub. L. 99–514, §1151(c)(2), had not been enacted, see 1986 Amendment note below.
+
+<b>1986</b>—Subsec. (d)(5)(C). Pub. L. 99–514, §1301(j)(9), which directed that subpar. (C) be amended by substituting “section 7703(a)” for “section 143(a)”, could not be executed because subsec. (d) was previously repealed by Pub. L. 98–21. See 1983 Amendment note below.
 
 Subsecs. (h), (i). Pub. L. 99–514, §1151(c)(2), redesignated subsec. (i) as (h) and struck out former subsec. (h) which related to amount paid to highly compensated individuals under a discriminatory self-insured medical expense reimbursement plan.
 
-1984—Subsec. (b). Pub. L. 98–369 inserted “Any child to whom section 152(e) applies shall be treated as a dependent of both parents for purposes of this subsection.”
+<b>1984</b>—Subsec. (b). Pub. L. 98–369 inserted “Any child to whom section 152(e) applies shall be treated as a dependent of both parents for purposes of this subsection.”
 
-1983—Subsec. (d). Pub. L. 98–21 struck out subsec. (d) which provided that no deduction or credit would be allowed with respect to any expenditure which is properly associated with any amount excluded from gross income under subsec. (a).
+<b>1983</b>—Subsec. (d). Pub. L. 98–21 struck out subsec. (d) which provided that no deduction or credit would be allowed with respect to any expenditure which is properly associated with any amount excluded from gross income under subsec. (a).
 
 Subsec. (i). Pub. L. 98–76 added subsec. (i).
 
-1982—Subsec. (b). Pub. L. 97–248 substituted “section 213(d)” for “section 213(e)”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–248 substituted “section 213(d)” for “section 213(e)”.
 
-1981—Subsec. (d)(3). Pub. L. 97–34, §103(c)(2), substituted “this subsection and section 221” for “this subsection” in parenthetical provision.
+<b>1981</b>—Subsec. (d)(3). Pub. L. 97–34, §103(c)(2), substituted “this subsection and section 221” for “this subsection” in parenthetical provision.
 
 Subsec. (h)(3)(B)(v). Pub. L. 97–34, §111(b)(4), substituted “section 911(d)(2)” for “section 911(b)”.
 
-1980—Subsec. (h)(3)(A). Pub. L. 96–222, §103(a)(13)(B), substituted “highly compensated individuals” for “highly compensated participants”.
+<b>1980</b>—Subsec. (h)(3)(A). Pub. L. 96–222, §103(a)(13)(B), substituted “highly compensated individuals” for “highly compensated participants”.
 
 Subsec. (h)(7)(A). Pub. L. 96–222, §103(a)(13)(C), substituted “highly compensated individuals but not to all other participants (or which otherwise fails to satisfy the requirements of paragraph (2)(B))” for “a highly compensated individual but not to a broad cross-section of employees”.
 
 Subsec. (h)(8). Pub. L. 96–613 and Pub. L. 96–605 made identical amendments by substituting in heading “controlled groups, etc.” for “controlled groups”, and by substituting in text “subsection (b), (c), or (m) of section 414” for “subsection (b) or (c) of section 414”.
 
-1978—Subsec. (d)(4). Pub. L. 95–600, §701 (c)(1), redesignated par. (5) as (4). Former par. (4) redesignated (5)(A) and (C).
+<b>1978</b>—Subsec. (d)(4). Pub. L. 95–600, §701 (c)(1), redesignated par. (5) as (4). Former par. (4) redesignated (5)(A) and (C).
 
 Subsec. (d)(5). Pub. L. 95–600, §701(c)(1), added heading and subpar. (B), redesignated former par. (4) as subpars. (A) and (C), adding subpar. (C) heading and substituting “section 143(a)” for “section 143”; and redesignated former par. (6) as subpar. (D), inserting “defined” in heading.
 
@@ -180,13 +182,13 @@ Subsec. (d)(6), (7). Pub. L. 95–600, §701(c)(1), redesignated par. (7) as (6)
 
 Subsec. (h). Pub. L. 95–600, §366(a), added subsec. (h).
 
-1976—Subsec. (d). Pub. L. 94–455, §505(a), substituted provisions relating to an exclusion of up to $5,200 a year for taxpayers retiring on disability prior to age 65; dollar-for-dollar phase out of exclusion for adjusted annual gross income (including disability income) in excess of $15,000; requirement that married couple must file joint return; defined “permanent and total disability” and “joint return”; and inserted special rule for coordination with section 72 of this title for provisions relating to wage continuation plans.
+<b>1976</b>—Subsec. (d). Pub. L. 94–455, §505(a), substituted provisions relating to an exclusion of up to $5,200 a year for taxpayers retiring on disability prior to age 65; dollar-for-dollar phase out of exclusion for adjusted annual gross income (including disability income) in excess of $15,000; requirement that married couple must file joint return; defined “permanent and total disability” and “joint return”; and inserted special rule for coordination with section 72 of this title for provisions relating to wage continuation plans.
 
 Subsec. (e)(2). Pub. L. 94–455, §1901(c)(2), struck out “a territory” after “of a State”.
 
-1964—Subsec. (d). Pub. L. 88–272 substituted provisions stating that “The preceding sentence shall not apply to amounts attributable to the first 30” days if the amounts exceed 75 percent of regular weekly wages, and if they do not exceed said 75 percent, the first sentence of this subsection shall not apply to the extent the amounts exceed $75 weekly and shall not apply to amounts attributable to the first 7 calendar days unless the employee is hospitalized for injury or sickness for at least 1 day in such period, for provisions stating that said “preceding sentence” did not apply in cases of sickness, to amounts attributable to the first 7 days unless the employee was hospitalized for sickness for at least 1 day during such period.
+<b>1964</b>—Subsec. (d). Pub. L. 88–272 substituted provisions stating that “The preceding sentence shall not apply to amounts attributable to the first 30” days if the amounts exceed 75 percent of regular weekly wages, and if they do not exceed said 75 percent, the first sentence of this subsection shall not apply to the extent the amounts exceed $75 weekly and shall not apply to amounts attributable to the first 7 calendar days unless the employee is hospitalized for injury or sickness for at least 1 day in such period, for provisions stating that said “preceding sentence” did not apply in cases of sickness, to amounts attributable to the first 7 days unless the employee was hospitalized for sickness for at least 1 day during such period.
 
-1962—Subsec. (g). Pub. L. 87–792 added subsec. (g).
+<b>1962</b>—Subsec. (g). Pub. L. 87–792 added subsec. (g).
 
 #### Effective Date of 2008 Amendment
 
@@ -236,7 +238,7 @@ Section 366(b) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §1
 
 Section 701(c)(3) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(A) The amendments made by paragraphs (1) and (2)(A) \[amending this section and provisions set out as a note under this section\] shall take effect as if included in section 105(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as such section was amended by section 505(a) of the Tax Reform Act of 1976.
+“(A) The amendments made by paragraphs (1) and (2)(A) \[amending this section and provisions set out asa note under this section\] shall take effect as if included in section 105(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as such section was amended by section 505(a) of the Tax Reform Act of 1976.
 
 “(B) The amendments made by paragraph (2)(B) \[amending provisions set out as notes under this section\] shall take effect as if included in section 301 of the Tax Reduction and Simplification Act of 1977 \[Pub. L. 95–30, title III, §301, May 23, 1977, 91 Stat. 152\].”
 

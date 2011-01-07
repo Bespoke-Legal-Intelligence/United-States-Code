@@ -8,7 +8,7 @@ The Congress hereby directs the President—
 
 &emsp;(2) to—
 
-&emsp;&emsp;(A) conduct a review, enlisting the participation of all relevant departments and agencies of the Government, to determine whether the recommendations on Physical Protection of Nuclear Material published by the International Atomic Energy Agency are adequate to deter theft, sabotage, and theuse of nuclear facilities and materials in acts of international terrorism, and
+&emsp;&emsp;(A) conduct a review, enlisting the participation of all relevant departments and agencies of the Government, to determine whether the recommendations on Physical Protection of Nuclear Material published by the International Atomic Energy Agency are adequate to deter theft, sabotage, and the use of nuclear facilities and materials in acts of international terrorism, and
 
 &emsp;&emsp;(B) transmit the results of this review to the Director-General of the International Atomic Energy Agency;
 
@@ -125,4 +125,6 @@ Elements.—The report required under subsection (a) shall include the following
 “(c)
 
 Form.—The report may be submitted in classified form but shall include a detailed unclassified summary.”
+
+\[Functions of President under section 3134 of Pub. L. 110–181, set out above, delegated to Secretary of Energy by Memorandum of President of the United States, July 21, 2010, 75 F.R. 43793.\]
 

@@ -20,7 +20,7 @@ For the purpose of carrying out part A of this subchapter, there are authorized 
 
 #### (1) Reading First
 
-&emsp;For the purpose of carrying out subpart 1 of part B of this subchapter, there are authorized to be appropriated $900,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years.
+&emsp;For the purpose of carrying out subpart 1 of part B of this subchapter, there are authorizedto be appropriated $900,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years.
 
 #### (2) Early Reading First
 

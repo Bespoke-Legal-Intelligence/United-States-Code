@@ -66,11 +66,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §612(c); added July 12, 1976, Pu
 
 In subsection (a), before clause (1), the words “may file with the Administrator an application for an airport operating certificate” are omitted as surplus. In clause (3), the words “the requirements of” are omitted as surplus. The word “rules” is omitted as being synonymous with “regulations”.
 
-In subsection (b), before clause (1), the words “conditions, and limitations . . . reasonably” are omitted as surplus. In clause (2), the words “grooving or other” are omitted as surplus.
+In subsection (b), before clause (1), the words “conditions, and limitations . . . reasonably” are omitted assurplus. In clause (2), the words “grooving or other” are omitted as surplus.
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–264, §404(a), added par. (2), redesignated former par. (2) as (3), substituted “if” for “(3) when” in former par. (3) and adjusted the margins of that par. to make it a flush provision following par. (3).
+<b>1996</b>—Subsec. (a). Pub. L. 104–264, §404(a), added par. (2), redesignated former par. (2) as (3), substituted “if” for “(3) when” in former par. (3) and adjusted the margins of that par. to make it a flush provision following par. (3).
 
 Subsec. (d). Pub. L. 104–264, §404(b), added subsec. (d).
 
@@ -81,6 +81,10 @@ Subsec. (f). Pub. L. 104–264, §404(d), added subsec. (f).
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
+#### Deemed References to Chapters 509 and 511 of Title 51
+
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 
 #### Improvement of Runway Safety Areas
 

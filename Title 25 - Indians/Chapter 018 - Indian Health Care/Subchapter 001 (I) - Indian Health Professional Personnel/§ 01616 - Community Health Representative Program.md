@@ -28,7 +28,7 @@
 
 #### Amendments
 
-1992—Subsec. (b)(2). Pub. L. 102–573, §105(1), inserted “and maintain” in introductory provisions.
+<b>1992</b>—Subsec. (b)(2). Pub. L. 102–573, §105(1), inserted “and maintain” in introductory provisions.
 
 Subsec. (b)(2)(B). Pub. L. 102–573, §105(2), inserted at end “with appropriate consideration given to lifestyle factors that have an impact on Indian health status, such as alcoholism, family dysfunction, and poverty,”.
 

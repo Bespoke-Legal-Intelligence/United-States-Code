@@ -30,7 +30,7 @@ In subsection (b), the words “repeal . . . or limit” are omitted as surplu
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–323 substituted “731(c) and (e),” for “731(c)–(e),”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–323 substituted “731(c) and (e),” for “731(c)–(e),”.
 
-2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

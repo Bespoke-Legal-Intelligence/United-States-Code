@@ -58,13 +58,13 @@ Amendment by Pub. L. 98–473 is based on section 703 of H.R. 5119, Ninety-eight
 
 #### Amendments
 
-1985—Subsec. (a)(2)(A). Pub. L. 99–83, §1103(a)(1), substituted “seven and one-half” for “five”, substituted “, subject to paragraph (5) and except as provided in paragraph (6)” for “unless the Director of the Peace Corps, under special circumstances, personally approves an extension of not more than one year on an individual basis”, and inserted reference to section 309 of the Foreign Service Act of 1980.
+<b>1985</b>—Subsec. (a)(2)(A). Pub. L. 99–83, §1103(a)(1), substituted “seven and one-half” for “five”, substituted “, subject to paragraph (5) and except as provided in paragraph (6)” for “unless the Director of the Peace Corps, under special circumstances, personally approves an extension of not more than one year on an individual basis”, and inserted reference to section 309 of the Foreign Service Act of 1980.
 
 Subsec. (a)(5), (6). Pub. L. 99–83, §1103(a)(2), added pars. (5) and (6).
 
-1984—Subsec. (a)(2). Pub. L. 98–473 inserted provision that subparagraphs (A) and (B) do not apply with respect to foreign national employees.
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–473 inserted provision that subparagraphs (A) and (B) do not apply with respect to foreign national employees.
 
-1980—Subsec. (a)(1). Pub. L. 96–465, §2202(b)(1)(A), substituted “which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates established under section 402 or 403 of the Foreign Service Act of 1980” for “, who shall receive compensation at any of the rates provided for persons appointed to the Foreign Service Reserve and Staff under the Foreign Service Act of 1946, as amended (22 U.S.C. 801 et seq.)” and “section 310” for “section 528” and struck out reference to the applicability of section 1005 of the Foreign Service Act of 1946.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–465, §2202(b)(1)(A), substituted “which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates established under section 402 or 403 of the Foreign Service Act of 1980” for “, who shall receive compensation at any of the rates provided for persons appointed to the Foreign Service Reserve and Staff under the Foreign Service Act of 1946, as amended (22 U.S.C. 801 et seq.)” and “section 310” for “section 528” and struck out reference to the applicability of section 1005 of the Foreign Service Act of 1946.
 
 Subsec. (a)(2). Pub. L. 96–465, §2202(b)(1)(B), among other changes, substituted references to the Foreign Service Act of 1980 for references to the Foreign Service Act of 1946 and references to class 9 for class 10, and inserted provision relating to section 206(a)(1) of title 29.
 
@@ -72,11 +72,11 @@ Subsec. (a)(4). Pub. L. 96–465, §2202(b)(2), among other changes, struck out 
 
 Subsec. (b). Pub. L. 96–465, §2205(9), struck out subsec. (b) which related to criteria for performance of foreign employment, separation, and severance benefits. See sections 3922 and 4007 to 4009 of this title.
 
-1979—Subsec. (a)(4). Pub. L. 96–53 added par. (4).
+<b>1979</b>—Subsec. (a)(4). Pub. L. 96–53 added par. (4).
 
-1970—Subsec. (a)(3). Pub. L. 91–352 substantially reenacted provisions and substituted references to section 5941 of title 5, and sections 5923 through 5925 of such title 5, for references to section 118h of title 5 and title II of the Overseas Differentials and Allowances Act.
+<b>1970</b>—Subsec. (a)(3). Pub. L. 91–352 substantially reenacted provisions and substituted references to section 5941 of title 5, and sections 5923 through 5925 of such title 5, for references to section 118h of title 5 and title II of the Overseas Differentials and Allowances Act.
 
-1965—Subsec. (a). Pub. L. 89–134, §4(a), (b), redesignated subsec. (c) as (a), incorporated into par. (1) material formerly set out as introductory material, spelled out the authority of the President to utilize his authority to appoint and assign persons under the Foreign Service Act of 1946 by making specific reference to his authority as it related to Foreign Service Reserve Officers, Foreign Service Staff officers and employees, alien clerks and employees and other Government officers and employees apart from the Foreign Service, limited to five-year duration all Foreign Service Reserve or Staff appointments and assignments unless the Director of the Peace Corps personally approved one-years extensions on an individual basis, prohibited reappointment or reassignment under this par. before expiration of a period of time equal to the length of the appointee's preceding tour of duty, inserted proviso in par. (2) allowing appointment of an unenumerated class of Foreign Service staff officers and employees ranking below class 10 to be paid basic compensation at rates lower than those of class 10 to perform duties of a more routine nature than are usually performed by Foreign Service staff officers and employees of class 10, and, in par. (3), inserted reference to section 118h of title 5 and substituted reference to subsec. (a) for reference to subsec. (c). Former subsec. (a), relating to domestic employment, was repealed.
+<b>1965</b>—Subsec. (a). Pub. L. 89–134, §4(a), (b), redesignated subsec. (c) as (a), incorporated into par. (1) material formerly set out as introductory material, spelled out the authority of the President to utilize his authority to appoint and assign persons under the Foreign Service Act of 1946 by making specific reference to his authority as it related to Foreign Service Reserve Officers, Foreign Service Staff officers and employees, alien clerks and employees and other Government officers and employees apart from the Foreign Service, limited to five-year duration all Foreign Service Reserve or Staff appointments and assignments unless the Director of the Peace Corps personally approved one-years extensions on an individual basis, prohibited reappointment or reassignment under this par. before expiration of a period of time equal to the length of the appointee's preceding tour of duty, inserted proviso in par. (2) allowing appointment of an unenumerated class of Foreign Service staff officers and employees ranking below class 10 to be paid basic compensation at rates lower than those of class 10 to perform duties of a more routine nature than are usually performed by Foreign Service staff officers and employees of class 10, and, in par. (3), inserted reference to section 118h of title 5 and substituted reference to subsec. (a) for reference to subsec. (c). Former subsec. (a), relating to domestic employment, was repealed.
 
 Subsec. (b). Pub. L. 89–134, §4(c), redesignated subsec. (d) as (b), inserted “for the purpose of performing functions under this chapter outside the United States” after “or assigned”, and substituted reference to subsec. (a)(2) for reference to subsec. (c)(2). Former subsec. (b), relating to compensation for domestic employment, was repealed.
 
@@ -84,9 +84,9 @@ Subsec. (c). Pub. L. 89–134, §4(d), redesignated subsec. (e) as (c) and subst
 
 Subsecs. (d), (e). Pub. L. 89–134, §4(c), (d), redesignated subsecs. (d) and (e) as (b) and (c), respectively.
 
-1963—Subsec. (b). Pub. L. 88–200 struck out “so” before “employed”.
+<b>1963</b>—Subsec. (b). Pub. L. 88–200 struck out “so” before “employed”.
 
-1962—Subsec. (b). Pub. L. 87–793 substituted “but not in excess of the highest grade 18 of such general schedule” for “and of these not to exceed two may be compensated at a rate in excess of the highest rate provided for grades of such general schedule but not in excess of $19,000 per year”.
+<b>1962</b>—Subsec. (b). Pub. L. 87–793 substituted “but not in excess of the highest grade 18 of such general schedule” for “and of these not to exceed two may be compensated at a rate in excess of the highest rate provided for grades of such general schedule but not in excess of $19,000 per year”.
 
 #### Effective Date of 1985 Amendment
 

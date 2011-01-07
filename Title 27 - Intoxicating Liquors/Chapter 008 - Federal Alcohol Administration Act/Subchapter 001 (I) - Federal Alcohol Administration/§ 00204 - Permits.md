@@ -48,11 +48,11 @@ In subsec. (h) of this section, “section 1254 of title 28” was substituted f
 
 #### Amendments
 
-1988—Subsec. (c). Pub. L. 100–690, §8001(b)(2), substituted “subchapter” for “chapter” wherever appearing.
+<b>1988</b>—Subsec. (c). Pub. L. 100–690, §8001(b)(2), substituted “subchapter” for “chapter” wherever appearing.
 
 Subsec. (d). Pub. L. 100–690, §8001(b)(3), made technical amendment to references to sections 205 and 206 of this title to reflect renumbering of corresponding sections of original act.
 
-1958—Subsec. (h). Pub. L. 85–791, in third sentence, substituted “transmitted by the clerk of the court to the Secretary, or” for “served upon, the Secretary, or upon any”, substituted “file in the court” for “certify and file in the court a transcript of”, and inserted “as provided in section 2112 of title 28”, and in fourth sentence, substituted “petition” for “transcript”.
+<b>1958</b>—Subsec. (h). Pub. L. 85–791, in third sentence, substituted “transmitted by the clerk of the court to the Secretary, or” for “served upon, the Secretary, or upon any”, substituted “file in the court” for “certify and file in the court a transcript of”, and inserted “as provided in section 2112 of title 28”, and in fourth sentence, substituted “petition” for “transcript”.
 
 #### Change of Name
 

@@ -14,7 +14,7 @@ The Congress finds the following:
 
 &emsp;(5) Over the past 20 years, more than two dozen scientific findings have emerged that indicate that certain of such employees are experiencing increased risks of dying from cancer and non-malignant diseases. Several of these studies have also established a correlation between excess diseases and exposure to radiation and beryllium.
 
-&emsp;(6) While linking exposure to occupational hazards with the development of occupationaldisease is sometimes difficult, scientific evidence supports the conclusion that occupational exposure to dust particles or vapor of beryllium can cause beryllium sensitivity and chronic beryllium disease. Furthermore, studies indicate than 98 percent of radiation-induced cancers within the nuclear weapons complex have occurred at dose levels below existing maximum safe thresholds.
+&emsp;(6) While linking exposure to occupational hazards with the development of occupational disease is sometimes difficult, scientific evidence supports the conclusion that occupational exposure to dust particles or vapor of beryllium can cause beryllium sensitivity and chronic beryllium disease. Furthermore, studies indicate than 98 percent of radiation-induced cancers within the nuclear weapons complex have occurred at dose levels below existing maximum safe thresholds.
 
 &emsp;(7) Existing information indicates that State workers’ compensation programs do not provide a uniform means of ensuring adequate compensation for the types of occupational illnesses and diseases that relate to the employees at those sites.
 

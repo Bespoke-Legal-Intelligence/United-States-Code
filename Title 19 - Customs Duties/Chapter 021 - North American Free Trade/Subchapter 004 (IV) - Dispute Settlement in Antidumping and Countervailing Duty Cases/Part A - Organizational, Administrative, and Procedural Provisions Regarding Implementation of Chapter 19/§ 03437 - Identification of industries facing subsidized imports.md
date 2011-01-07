@@ -78,5 +78,5 @@ The Tariff Act of 1930, referred to in subsecs. (d)(1)(B), (2) and (e)(3), is ac
 
 #### Amendments
 
-1996—Subsec. (e)(2). Pub. L. 104–295 substituted semicolon for comma after “such a petition”.
+<b>1996</b>—Subsec. (e)(2). Pub. L. 104–295 substituted semicolon for comma after “such a petition”.
 

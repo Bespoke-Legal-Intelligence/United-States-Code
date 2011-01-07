@@ -12,7 +12,7 @@ The district courts of the United States shall have jurisdiction, for cause show
 
 #### (c) Venue; process
 
-Actions under subsections (a) and (b) of this section may be brought in the district court of the United States for the district wherein any act or omission or transaction constituting the violation occurred, or in such court for the district where the defendant is found or transacts business, and process in such cases may beserved in any other district of which the defendant is an inhabitant or wherever the defendant may be found.
+Actions under subsections (a) and (b) of this section may be brought in the district court of the United States for the district wherein any act or omission or transaction constituting the violation occurred, or in such court for the district where the defendant is found or transacts business, and process in such cases may be served in any other district of which the defendant is an inhabitant or wherever the defendant may be found.
 
 #### (d) Warnings
 
@@ -34,9 +34,9 @@ Section was classified to section 263k of Title 42, The Public Health and Welfar
 
 #### Amendments
 
-1993—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263k of Title 42, The Public Health and Welfare, as this section.
+<b>1993</b>—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263k of Title 42, The Public Health and Welfare, as this section.
 
-1990—Subsec. (a). Pub. L. 101–629, §19(a)(2)(G)(i), (ii), substituted “section 360<i>oo</i>” for “section 263j” and “section 360kk” for “section 263f”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–629, §19(a)(2)(G)(i), (ii), substituted “section 360<i>oo</i>” for “section 263j” and “section 360kk” for “section 263f”.
 
 Subsec. (b)(1). Pub. L. 101–629, §19(a)(2)(G)(ii), substituted “section 360<i>oo</i>” for “section 263j” in two places.
 

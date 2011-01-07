@@ -22,7 +22,7 @@
 
 (1) Except as provided in subsection (c) of this section, the district courts of the United States shall have jurisdiction of cases and controversies arising out of, or in connection with (A) any operation conducted on the outer Continental Shelf which involves exploration, development, or production of the minerals, of the subsoil and seabed of the outer Continental Shelf, or which involves rights to such minerals, or (B) the cancellation, suspension, or termination of a lease or permit under this subchapter. Proceedings with respect to any such case or controversy may be instituted in the judicial district in which any defendant resides or may be found, or in the judicial district of the State nearest the place the cause of action arose.
 
-(2) Any resident of the United States who is injured in any manner through the failure of any operator to comply with any rule, regulation, order, or permit issued pursuant to this subchapter may bring an action for damages (including reasonable attorney and expert witness fees) only in the judicial district having jurisdiction under paragraph (1) of this subsection.
+(2) Any resident of the United States who is injured in any manner through the failure of any operator to comply with any rule, regulation, order, or permit issued pursuant to thissubchapter may bring an action for damages (including reasonable attorney and expert witness fees) only in the judicial district having jurisdiction under paragraph (1) of this subsection.
 
 #### (c) Review of Secretary's approval of leasing program; review of approval, modification or disapproval of exploration or production plan; persons who may seek review; scope of review; certiorari to Supreme Court
 
@@ -48,7 +48,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a)(5), are set out
 
 #### Amendments
 
-1984—Subsec. (d). Pub. L. 98–620 struck out subsec. (d) which provided that except as to causes of action considered by the court to be of greater importance, any action under this section would take precedence on the docket over all other causes of action and would be set for hearing at the earliest practical date and expedited in every way.
+<b>1984</b>—Subsec. (d). Pub. L. 98–620 struck out subsec. (d) which provided that except as to causes of action considered by the court to be of greater importance, any action under this section would take precedence on the docket over all other causes of action and would be set for hearing at the earliest practical date and expedited in every way.
 
 #### Effective Date of 1984 Amendment
 

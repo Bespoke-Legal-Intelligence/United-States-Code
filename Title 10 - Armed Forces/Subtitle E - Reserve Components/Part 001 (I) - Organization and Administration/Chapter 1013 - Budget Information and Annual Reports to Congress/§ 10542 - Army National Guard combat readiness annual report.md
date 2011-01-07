@@ -86,13 +86,13 @@ The Army National Guard Combat Readiness Reform Act of 1992, referred to in text
 
 #### Amendments
 
-1996—Subsec. (b)(21). Pub. L. 104–201 substituted “10 U.S.C. 12001 note” for “10 U.S.C. 261 note”.
+<b>1996</b>—Subsec. (b)(21). Pub. L. 104–201 substituted “10 U.S.C. 12001 note” for “10 U.S.C. 261 note”.
 
 Subsec. (d). Pub. L. 104–106 struck out subsec. (d) which read as follows: “
 
 Definition.—In this section, the term ‘State’ includes the District of Columbia, Puerto Rico, Guam, and the Virgin Islands.”
 
-1994—Pub. L. 103–337 renumbered section 3082 of this title as this section, struck out “reform” after “readiness” in section catchline, and struck out heading and text of subsec. (c). Text read as follows: “The requirement to include in a presentation required by subsection (a) information under any paragraph of subsection (b) shall take effect with respect to the year following the year in which the provision of ANGCRRA to which that paragraph pertains has taken effect. Before then, in the case of any such paragraph, the Secretary shall include any information that may be available concerning the topic covered by that paragraph.”
+<b>1994</b>—Pub. L. 103–337 renumbered section 3082 of this title as this section, struck out “reform” after “readiness” in section catchline, and struck out heading and text of subsec. (c). Text read as follows: “The requirement to include in a presentation required by subsection (a) information under any paragraph of subsection (b) shall take effect with respect to the year following the year in which the provision of ANGCRRA to which that paragraph pertains has taken effect. Before then, in the case of any such paragraph, the Secretary shall include any information that may be available concerning the topic covered by that paragraph.”
 
 #### Effective Date of 1996 Amendment
 

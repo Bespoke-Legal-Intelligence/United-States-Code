@@ -6,7 +6,7 @@
 
 (c) In addition to the number of positions authorized by subsection (a) of this section, the Librarian of Congress may establish, without regard to the second sentence of subsection (a) of this section, not more than 8 scientific or professional positions to carry out the research and development functions of the Library of Congress which require the services of specially qualified personnel.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 415; Pub. L. 90–83, §1(7), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–375, §6(c)(5), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IV, §414(a)(2)(B), (C), title VIII, §801(a)(3)(C), Oct. 13, 1978, 92 Stat. 1178, 1221;Pub. L. 99–386, title I, §101(b), Aug. 22, 1986, 100 Stat. 821; Pub. L. 102–378, §2(7), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 110–372, §2(c)(1), Oct. 8, 2008, 122 Stat. 4044.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 415; Pub. L. 90–83, §1(7), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–375, §6(c)(5), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IV, §414(a)(2)(B), (C), title VIII, §801(a)(3)(C), Oct. 13, 1978, 92 Stat. 1178, 1221; Pub. L. 99–386, title I, §101(b), Aug. 22, 1986, 100 Stat. 821; Pub. L. 102–378, §2(7), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 110–372, §2(c)(1), Oct. 8, 2008, 122 Stat. 4044.)
 
 Historical and Revision Notes<br>1966
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 #### Experimental Personnel Program for Scientific and Technical Personnel
 
-Pub. L. 105–261, div. A, title XI, §1101, Oct. 17, 1998, 112 Stat. 2139, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\] title X, §1087(d)(6), title XI, §1113\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, 1654A–314; Pub. L. 108–136, div. A, title IX, §921(g), title XI, §1116, Nov. 24, 2003, 117 Stat. 1570, 1636; Pub. L. 109–364, div. A, title XI, §1103, Oct. 17, 2006, 120 Stat. 2408; Pub. L. 110–181, div. A, title XI, §1108, Jan. 28, 2008, 122 Stat. 358; Pub. L. 111–84, div. A, title XI, §1104, Oct. 28, 2009, 123 Stat. 2485, provided that:
+Pub. L. 105–261, div. A, title XI, §1101, Oct. 17, 1998, 112 Stat. 2139, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\] title X, §1087(d)(6), title XI, §1113\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, 1654A–314; Pub. L. 108–136, div. A, title IX, §921(g), title XI, §1116, Nov. 24, 2003, 117 Stat. 1570, 1636; Pub. L. 109–364, div. A, title XI, §1103, Oct. 17, 2006, 120 Stat. 2408; Pub. L. 110–181, div. A, title XI, §1108, Jan. 28, 2008, 122 Stat. 358; Pub. L. 111–84, div. A, title XI, §1104, Oct. 28, 2009, 123 Stat. 2485; Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317, provided that:
 
 “(a)
 
@@ -132,7 +132,7 @@ Special Personnel Management Authority.—Under the program, the Secretary may�
 
 &emsp;&emsp;“(C) not more than a total of 10 scientific and engineering positions in the National Geospatial-Intelligence Agency and the National Security Agency; and
 
-&emsp;&emsp;“(D) not more than a total of 10 scientific and engineering positions in the Office of the Director of Defense Research and Engineering;
+&emsp;&emsp;“(D) not more than a total of 10 scientific and engineering positions in the Office of the Assistant Secretary of Defense for Research and Engineering;
 
 &emsp;“(2) prescribe the rates of basic pay for positions to which employees are appointed under paragraph (1) at rates not in excess of the maximum rate of basic pay authorized for senior-level positions under section 5376 of title 5, United States Code, as increased by locality-based comparability payments under section 5304 of such title, notwithstanding any provision of such title governing the rates of pay or classification of employees in the executive branch; and
 
@@ -142,7 +142,7 @@ Special Personnel Management Authority.—Under the program, the Secretary may�
 
 Limitation on Term of Appointment.—(1) Except as provided in paragraph (2), the service of an employee under an appointment under subsection (b)(1) may not exceed 4 years.
 
-“(2) The Secretary may, in the case of a particular employee, extend the period to which service is limited under paragraph (1) by up to 2 years if the Secretary determines that such action is necessary to promote the efficiency of the Defense Advanced Research Projects Agency.
+“(2) The Secretary may, in the case of a particular employee, extend the period to which service is limitedunder paragraph (1) by up to 2 years if the Secretary determines that such action is necessary to promote the efficiency of the Defense Advanced Research Projects Agency.
 
 “(d)
 

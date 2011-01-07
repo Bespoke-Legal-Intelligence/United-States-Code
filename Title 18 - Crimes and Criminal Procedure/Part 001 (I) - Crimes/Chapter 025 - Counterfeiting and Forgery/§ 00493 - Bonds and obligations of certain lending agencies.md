@@ -38,15 +38,15 @@ The blanket provision for punishment of “any person who willfully violates any
 
 #### Amendments
 
-2001—Pub. L. 107–56 substituted “10 years” for “five years” in two places.
+<b>2001</b>—Pub. L. 107–56 substituted “10 years” for “five years” in two places.
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in two places.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in two places.
 
-1970—Pub. L. 91–468 inserted National Credit Union Administration and insured credit unions in enumeration of lending agencies.
+<b>1970</b>—Pub. L. 91–468 inserted National Credit Union Administration and insured credit unions in enumeration of lending agencies.
 
-1967—Pub. L. 90–19 substituted “Department of Housing and Urban Development” for “Federal Housing Administration”.
+<b>1967</b>—Pub. L. 90–19 substituted “Department of Housing and Urban Development” for “Federal Housing Administration”.
 
-1961—Pub. L. 87–353 struck out reference to the Federal Farm Mortgage Corporation.
+<b>1961</b>—Pub. L. 87–353 struck out reference to the Federal Farm Mortgage Corporation.
 
 #### Exceptions From Transfer of Functions
 

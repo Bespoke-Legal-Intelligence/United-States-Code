@@ -15,7 +15,7 @@
 
 #### Amendments
 
-2002—Pub. L. 107–273, div. C, title III, §13202(c)(1), Nov. 2, 2002, 116 Stat. 1902, made technical correction to directory language of Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4604(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–567, which enacted this chapter.
+<b>2002</b>—Pub. L. 107–273, div. C, title III, §13202(c)(1), Nov. 2, 2002, 116 Stat. 1902, made technical correction to directory language of Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4604(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–567, which enacted this chapter.
 
 
 ---

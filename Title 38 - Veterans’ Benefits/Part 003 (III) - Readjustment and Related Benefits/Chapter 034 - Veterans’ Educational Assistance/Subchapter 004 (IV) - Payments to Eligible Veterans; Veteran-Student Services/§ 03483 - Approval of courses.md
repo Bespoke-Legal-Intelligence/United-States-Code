@@ -6,5 +6,5 @@ An eligible veteran shall receive the benefits of this chapter while enrolled in
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 1683 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1683 of this title as this section.
 

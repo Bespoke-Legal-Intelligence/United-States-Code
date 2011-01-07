@@ -6,5 +6,5 @@ Except as otherwise expressly provided in this title, the stamps referred to in 
 
 #### Amendments
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

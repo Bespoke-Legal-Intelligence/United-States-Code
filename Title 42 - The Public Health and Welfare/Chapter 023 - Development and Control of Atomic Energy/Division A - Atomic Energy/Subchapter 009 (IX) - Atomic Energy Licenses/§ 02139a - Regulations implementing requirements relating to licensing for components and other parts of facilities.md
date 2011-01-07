@@ -20,11 +20,11 @@ Section is based on subsecs. (b) and (c) of Pub. L. 95–242. Subsec. (a) of Pub
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–277, §1225(e)(4)(A), substituted “and the Department of Commerce” for “the Department of Commerce, and the Arms Control and Disarmament Agency”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–277, §1225(e)(4)(A), substituted “and the Department of Commerce” for “the Department of Commerce, and the Arms Control and Disarmament Agency”.
 
 Subsec. (c). Pub. L. 105–277, §1225(e)(4)(B), struck out “the Arms Control and Disarmament Agency,” after “Department of State,”.
 
-1994—Subsec. (c). Pub. L. 103–236 struck out “, as required,” after “prior consultations” in last sentence.
+<b>1994</b>—Subsec. (c). Pub. L. 103–236 struck out “, as required,” after “prior consultations” in last sentence.
 
 #### Effective Date of 1998 Amendment
 
@@ -40,5 +40,5 @@ Secretary of Commerce to be responsible for performing function vested in Presid
 
 #### Performance of Functions Pending Development of Procedures
 
-The performance of functions under the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978,92 Stat. 120, not to be delayed pending development of procedures even though as many as 120 days \[after Mar. 10, 1978\] are allowed for establishing those procedures, see section 5(b) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22, Foreign Relations and Intercourse.
+The performance of functions under the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, not to be delayed pending development of procedures even though as many as 120 days \[after Mar. 10, 1978\] are allowed for establishing those procedures, see section 5(b) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22, Foreign Relations and Intercourse.
 

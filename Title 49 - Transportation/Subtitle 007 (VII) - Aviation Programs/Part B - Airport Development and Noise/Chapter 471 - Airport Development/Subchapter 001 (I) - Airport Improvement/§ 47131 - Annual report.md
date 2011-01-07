@@ -40,9 +40,9 @@ In this section, before clause (1), the words “on activities carried out” ar
 
 #### Amendments
 
-2000—Pub. L. 106–181 designated existing provisions as subsec. (a), inserted heading, added par. (5) of subsec. (a), and added subsec. (b).
+<b>2000</b>—Pub. L. 106–181 designated existing provisions as subsec. (a), inserted heading, added par. (5) of subsec. (a), and added subsec. (b).
 
-1994—Pub. L. 103–305 renumbered section 47129 of this title as this section.
+<b>1994</b>—Pub. L. 103–305 renumbered section 47129 of this title as this section.
 
 #### Effective Date of 2000 Amendment
 

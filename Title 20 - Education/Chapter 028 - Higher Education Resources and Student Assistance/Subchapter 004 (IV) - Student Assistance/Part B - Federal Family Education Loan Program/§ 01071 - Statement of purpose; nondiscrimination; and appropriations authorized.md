@@ -34,13 +34,23 @@ For the purpose of carrying out this part—
 
 &emsp;(6) there is authorized to be appropriated, and there are appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary for the purpose of carrying out section 1072(c)(7) of this title.
 
-> Sums appropriated under paragraphs (1), (2), (4), and (5) of this subsection shall remain available until expended. No additional sums are authorized to be appropriated under paragraph (3) or (4) of this subsection by reason of the reenactment of such paragraphs by the Higher Education Amendments of 1986.
+> Sums appropriated under paragraphs (1), (2), (4), and (5) of this subsection shall remain available until expended, except that no sums may be expended after June 30, 2010, with respect to loans under this part for which the first disbursement is after such date. No additional sums are authorized to be appropriated under paragraph (3) or (4) of this subsection by reason of the reenactment of such paragraphs by the Higher Education Amendments of 1986.
 
 #### (c) Designation
 
 The program established under this part shall be referred to as the “Robert T. Stafford Federal Student Loan Program”. Loans made pursuant to sections 1077 and 1078 of this title shall be known as “Federal Stafford Loans”.
 
-(Pub. L. 89–329, title IV, §421, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1353; amended Pub. L. 100–297, title II, §2601(a), Apr. 28, 1988, 102 Stat. 330; Pub. L. 100–369, §8, July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §411(a)(2), (c), July 23, 1992, 106 Stat. 510, 511; Pub. L. 105–244, title IV, §411, Oct. 7, 1998, 112 Stat. 1673; Pub. L. 109–171, title VIII, §8004(a), Feb. 8, 2006, 120 Stat. 158; Pub. L. 110–227, §6(a), May 7, 2008, 122 Stat. 746.)
+#### (d) Termination of authority to make or insure new loans
+
+Notwithstanding paragraphs (1) through (6) of subsection (b) or any other provision of law—
+
+&emsp;(1) no new loans (including consolidation loans) may be made or insured under this part after June 30, 2010; and
+
+&emsp;(2) no funds are authorized to be appropriated, or may be expended, under this chapter and part C of subchapter I of chapter 34 of title 42 or any other Act to make or insure loans under this part (including consolidation loans) for which the first disbursement is after June 30, 2010,
+
+> except as expressly authorized by an Act of Congress enacted after March 30, 2010.
+
+(Pub. L. 89–329, title IV, §421, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1353; amended Pub. L. 100–297, title II, §2601(a), Apr. 28, 1988, 102 Stat. 330; Pub. L. 100–369, §8, July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §411(a)(2), (c), July 23, 1992, 106 Stat. 510, 511; Pub. L. 105–244, title IV, §411, Oct. 7, 1998, 112 Stat. 1673; Pub. L. 109–171, title VIII, §8004(a), Feb. 8, 2006, 120 Stat. 158; Pub. L. 110–227, §6(a), May 7, 2008, 122 Stat. 746; Pub. L. 111–152, title II, §2201, Mar. 30, 2010, 124 Stat. 1074.)
 
 #### References in Text
 
@@ -56,17 +66,21 @@ A prior section 1071, Pub. L. 89–329, title IV, §421, Nov. 8, 1965, 79 Stat. 
 
 #### Amendments
 
-2008—Subsec. (b)(6). Pub. L. 110–227 added par. (6).
+<b>2010</b>—Subsec. (b). Pub. L. 111–152, §2201(1), inserted “, except that no sums may be expended after June 30, 2010, with respect to loans under this part for which the first disbursement is after such date” after “expended” in concluding provisions.
 
-2006—Subsec. (b)(5). Pub. L. 109–171 substituted “a loan processing and issuance fee” for “an administrative cost allowance”.
+Subsec. (d). Pub. L. 111–152, §2201(2), added subsec. (d).
 
-1998—Subsec. (d). Pub. L. 105–244 struck out heading and text of subsec. (d). Text read as follows: “Notwithstanding any other provision of this part, no new loan guarantees shall be issued after June 30, 1994, if the Secretary does not issue final regulations implementing the changes made to this part under the Higher Education Amendments of 1992 prior to that date. The authority to issue new loan guarantees shall resume upon the Secretary's issuance of such regulations. This subsection shall not provide the basis for avoiding any requirements for notice and public hearing on such regulations.”
+<b>2008</b>—Subsec. (b)(6). Pub. L. 110–227 added par. (6).
 
-1992—Subsec. (c). Pub. L. 102–325, §411(a)(2), added subsec. (c) and struck out former subsec. (c) which read as follows: “The program established under this part shall be referred to as the ‘Robert T. Stafford Student Loan Program’. Loans made under this part shall be known as ‘Stafford Loans’.”
+<b>2006</b>—Subsec. (b)(5). Pub. L. 109–171 substituted “a loan processing and issuance fee” for “an administrative cost allowance”.
+
+<b>1998</b>—Subsec. (d). Pub. L. 105–244 struck out heading and text of subsec. (d). Text read as follows: “Notwithstanding any other provision of this part, no new loan guarantees shall be issued after June 30, 1994, if the Secretary does not issue final regulations implementing the changes made to this part under the Higher Education Amendments of 1992 prior to that date. The authority to issue new loan guarantees shall resume upon the Secretary's issuance of such regulations. This subsection shall not provide the basis for avoiding any requirements for notice and public hearing on such regulations.”
+
+<b>1992</b>—Subsec. (c). Pub. L. 102–325, §411(a)(2), added subsec. (c) and struck out former subsec. (c) which read as follows: “The program established under this part shall be referred to as the ‘Robert T. Stafford Student Loan Program’. Loans made under this part shall be known as ‘Stafford Loans’.”
 
 Subsec. (d). Pub. L. 102–325, §411(c), added subsec. (d).
 
-1988—Subsec. (c). Pub. L. 100–369 substituted “shall be referred” for “may be referred” and inserted provision identifying loans made under this part as “Stafford Loans”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–369 substituted “shall be referred” for “may be referred” and inserted provision identifying loans made under this part as “Stafford Loans”.
 
 Pub. L. 100–297 added subsec. (c).
 
@@ -96,7 +110,7 @@ Special Rules.—(1) Any provision of this Act or any amendment made by this Act
 
 “(2) The provisions of section 2402, relating to the National Center for Vocational Research, shall take effect on April 10, 1988.
 
-“(3) The amendments made by section 3403 \[amending sections 1221e and 1221e–1 of this title\] shall take effect for assessments made after September 30, 1989, with respect to State data.
+“(3) The amendments made by section 3403 \[amending sections 1221e and 1221e–1 of this title\] shall take effectfor assessments made after September 30, 1989, with respect to State data.
 
 “(4) Allotments to States made under chapters 1 and 2 of title I of the Elementary and Secondary Education Act of 1965 \[formerly 20 U.S.C. 2701 et seq., 2911 et seq.\] and under the Adult Education Act \[formerly 20 U.S.C. 1201 et seq.\] from amounts appropriated by the joint resolution entitled ‘Joint resolution making further continuing appropriations for the fiscal year 1988, and for other purposes’, approved December 22, 1987 (Public Law 100–202), shall be computed in accordance with the provisions of law applicable to allotments to States under chapters 1 and 2 of the Education Consolidation and Improvement Act of 1981 \[formerly 20 U.S.C. 3801 et seq., 3811 et seq.\] and under the Adult Education Act, respectively, as such Acts were in effect on the day before the date of the enactment of this Act \[Apr. 28, 1988\].
 

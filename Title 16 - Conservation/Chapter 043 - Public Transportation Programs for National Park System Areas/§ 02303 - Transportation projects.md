@@ -12,7 +12,7 @@ Within one hundred and eighty days from August 15, 1978, the Secretary shall pre
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
 #### Change of Name
 

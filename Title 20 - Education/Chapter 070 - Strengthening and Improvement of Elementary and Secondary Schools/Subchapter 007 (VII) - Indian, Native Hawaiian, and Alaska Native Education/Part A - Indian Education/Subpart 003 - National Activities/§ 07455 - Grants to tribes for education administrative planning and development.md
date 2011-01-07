@@ -52,7 +52,7 @@ A tribe may not receive funds under this section if such tribe receives funds un
 
 #### References in Text
 
-Section 2024 of title 25, referred to in subsec. (d), was omitted in the general amendment of chapter 22 of Title 25, Indians, by Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2007. See section 2020 of Title 25.
+Section 2024 of title 25, referred to in subsec. (d), was omitted in the general amendment of chapter 22 ofTitle 25, Indians, by Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2007. See section 2020 of Title 25.
 
 #### Prior Provisions
 

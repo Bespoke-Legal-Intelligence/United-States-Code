@@ -16,13 +16,13 @@ Where subsection (a) requires the name and place of residence of a firm or compa
 
 #### (c) Supplemental information
 
-In accordance with regulations prescribed by the Secretary, the Secretary may require from time to time such supplemental information from any person required to register under this section as may be needful to the enforcement of this chapter.
+In accordance with regulations prescribed by the Secretary, the Secretary may require fromtime to time such supplemental information from any person required to register under this section as may be needful to the enforcement of this chapter.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 527; Pub. L. 94–455, title XIX, §1906(b)(13)(I), Oct. 4, 1976, 90 Stat. 1835.)
 
 #### Amendments
 
-1976—Subsec. (c). Pub. L. 94–455 substituted “the Secretary may” for “he or his delegate may”.
+<b>1976</b>—Subsec. (c). Pub. L. 94–455 substituted “the Secretary may” for “he or his delegate may”.
 
 #### Persons Paying Tax and Registering Before December 1, 1974
 

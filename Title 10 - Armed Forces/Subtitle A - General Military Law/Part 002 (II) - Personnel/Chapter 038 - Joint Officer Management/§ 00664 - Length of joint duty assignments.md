@@ -22,7 +22,7 @@ Initial Assignment of Officers With Critical Occupational Specialties.—The Sec
 
 (d)
 
-Exclusions From Tour Length.—The Secretary of Defense may exclude the followingservice from the standards prescribed in subsection (a):
+Exclusions From Tour Length.—The Secretary of Defense may exclude the following service from the standards prescribed in subsection (a):
 
 &emsp;(1) Service in a joint duty assignment in which the full tour of duty in the assignment is not completed by the officer because of—
 
@@ -88,7 +88,7 @@ Constructive Credit.—(1) The Secretary of Defense may accord constructive cred
 
 #### Amendments
 
-2008—Subsec. (d)(1)(D). Pub. L. 110–417, §524(a)(1), added subpar. (D) and struck out former subpar. (D) which read as follows: “a qualifying reassignment (as described in subsection (g)(4)).”
+<b>2008</b>—Subsec. (d)(1)(D). Pub. L. 110–417, §524(a)(1), added subpar. (D) and struck out former subpar. (D) which read as follows: “a qualifying reassignment (as described in subsection (g)(4)).”
 
 Subsec. (d)(3). Pub. L. 110–417, §524(a)(2), added par. (3) and struck out former par. (3) which read as follows: “Service in a joint duty assignment in a case in which—
 
@@ -112,15 +112,15 @@ Subsec. (h). Pub. L. 110–417, §524(e), substituted “paragraphs (1), (2), an
 
 Subsec. (i). Pub. L. 110–417, §524(f), struck out subsec. (i) which related to joint duty credit for certain joint task force assignments.
 
-2006—Subsec. (c). Pub. L. 109–364, in introductory provisions, substituted “661(c)(1)(B)” for “661(c)(2)”, redesignated pars. (2) and (3) as (1) and (2), respectively, in par. (1), substituted “668(d)” for “661(c)(2)”, and struck out former par. (1) which read as follows: “who is nominated for the joint specialty;”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–364, in introductory provisions, substituted “661(c)(1)(B)” for “661(c)(2)”, redesignated pars. (2) and (3) as (1) and (2), respectively, in par. (1), substituted “668(d)” for “661(c)(2)”, and struck out former par. (1) which read as follows: “who is nominated for the joint specialty;”.
 
-2001—Subsec. (i)(4)(E). Pub. L. 107–107, §522(1), substituted “Except as provided in subparagraph (F), the joint task force” for “The joint task force”.
+<b>2001</b>—Subsec. (i)(4)(E). Pub. L. 107–107, §522(1), substituted “Except as provided in subparagraph (F), the joint task force” for “The joint task force”.
 
 Subsec. (i)(4)(F). Pub. L. 107–107, §522(2), added subpar. (F).
 
-1999—Subsec. (i)(2)(A). Pub. L. 106–65 substituted “February 10, 1996” for “the date of the enactment of this subsection” in introductory provisions.
+<b>1999</b>—Subsec. (i)(2)(A). Pub. L. 106–65 substituted “February 10, 1996” for “the date of the enactment of this subsection” in introductory provisions.
 
-1996—Subsec. (e)(1). Pub. L. 104–106, §501(f), struck out “(after fiscal year 1990)” after “any fiscal year”.
+<b>1996</b>—Subsec. (e)(1). Pub. L. 104–106, §501(f), struck out “(after fiscal year 1990)” after “any fiscal year”.
 
 Subsec. (e)(2)(C). Pub. L. 104–106, §501(e)(1), added subpar. (E).
 
@@ -140,7 +140,7 @@ Subsec. (f)(6). Pub. L. 104–106, §501(e)(2)(E), added par. (6).
 
 Subsec. (i). Pub. L. 104–106, §501(b), added subsec. (i).
 
-1988—Subsec. (a)(1). Pub. L. 100–456, §514(1)(A), substituted “two years” for “three years”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–456, §514(1)(A), substituted “two years” for “three years”.
 
 Subsec. (a)(2). Pub. L. 100–456, §514(1)(B), substituted “three years” for “three and one-half years”.
 
@@ -160,7 +160,7 @@ Subsec. (g)(3). Pub. L. 100–456, §514(5), substituted “shall be excluded if
 
 Subsec. (h). Pub. L. 100–456, §514(6), added subsec. (h).
 
-1987—Subsec. (b). Pub. L. 100–180 added subsec. (b) and struck out former subsec. (b) which read as follows: “The Secretary of Defense may waive subsection (a) in the case of any officer, but the Secretary shall ensure that the average length of joint duty assignments meets the standards prescribed in that subsection.”
+<b>1987</b>—Subsec. (b). Pub. L. 100–180 added subsec. (b) and struck out former subsec. (b) which read as follows: “The Secretary of Defense may waive subsection (a) in the case of any officer, but the Secretary shall ensure that the average length of joint duty assignments meets the standards prescribed in that subsection.”
 
 Subsec. (c). Pub. L. 100–180 added subsec. (c) and struck out former subsec. (c), “Certain officers with critical combat operations skills”, which read as follows: “Joint duty assignments of less than the period prescribed by subsection (a), but not less than two years, may be authorized for the purposes of section 661(c)(2) of this title. Such an assignment may not be counted for the purposes of determining the average length of joint duty assignments under subsection (b).”
 
@@ -190,7 +190,7 @@ Pub. L. 107–107, div. A, title V, §523, Dec. 28, 2001, 115 Stat. 1097, provid
 
 Pub. L. 103–160, div. A, title IX, §932, Nov. 30, 1993, 107 Stat. 1735, provided extension of authority until the end of the 90-day period beginning on Nov. 30, 1993, to give certain officers joint duty credit pursuant to Pub. L. 102–484, §933, formerly set out below.
 
-Pub. L. 102–484, div. A, title IX, §933, Oct. 23, 1992, 106 Stat. 2476, as amended by Pub. L. 103–35, title II, §202(a)(9), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title IX, §932(c)(1), Nov. 30, 1993, 107 Stat. 1735, temporarily authorized the Secretary of Defense to give an officer who had completed service during the period beginning on Aug. 2, 1990, and ending on Feb. 28, 1991, in an assignment in the Persian Gulf combat zone,credit, on a case-by-case basis, for having completed a full tour of duty in a joint duty assignment, or credit countable for determining cumulative service in joint duty assignments, for the purposes of any provision of this title, notwithstanding the length of such service or whether that service had been within the definition of “joint duty assignment” in section 668 of this title, and provided that such authority would expire at the end of the six-month period beginning on Oct. 23, 1992.
+Pub. L. 102–484, div. A, title IX, §933, Oct. 23, 1992, 106 Stat. 2476, as amended by Pub. L. 103–35, title II, §202(a)(9), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title IX, §932(c)(1), Nov. 30, 1993, 107 Stat. 1735, temporarily authorized the Secretary of Defense to give an officer who had completed service during the period beginning on Aug. 2, 1990, and ending on Feb. 28, 1991, in an assignment in the Persian Gulf combat zone, credit, on a case-by-case basis, for having completed a full tour of duty in a joint duty assignment, or credit countable for determining cumulative service in joint duty assignments, for the purposes of any provision of this title, notwithstanding the length of such service or whether that service had been within the definition of “joint duty assignment” in section 668 of this title, and provided that such authority would expire at the end of the six-month period beginning on Oct. 23, 1992.
 
 #### Length of Joint Duty Assignments
 

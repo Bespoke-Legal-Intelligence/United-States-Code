@@ -24,9 +24,9 @@ The Council may make an indemnity agreement under this chapter with respect to�
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–161 substituted “(B) in the case of international exhibitions,” for “(B) the exhibition of which is” in concluding provisions.
+<b>2007</b>—Subsec. (a). Pub. L. 110–161 substituted “(B) in the case of international exhibitions,” for “(B) the exhibition of which is” in concluding provisions.
 
-1985—Subsec. (b)(1). Pub. L. 99–194, which directed the substitution of “or elsewhere preferably when part of an exchange of exhibitions” for “, or elsewhere when part of an exchange of exhibitions, but in no case shall both parts of such an exhibition be so covered” was executed by making the substitution for “, or elsewhere when part of an exchange of exhibitions, but in no case shall both parts of such an exchange be so covered”, to reflect the probable intent of Congress.
+<b>1985</b>—Subsec. (b)(1). Pub. L. 99–194, which directed the substitution of “or elsewhere preferably when part of an exchange of exhibitions” for “, or elsewhere when part of an exchange of exhibitions, but in no case shall both parts of such an exhibition be so covered” was executed by making the substitution for “, or elsewhere when part of an exchange of exhibitions, but in no case shall both parts of such an exchange be so covered”, to reflect the probable intent of Congress.
 
 #### Effective Date of 1985 Amendment
 

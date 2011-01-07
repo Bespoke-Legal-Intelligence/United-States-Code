@@ -38,8 +38,16 @@
 | [1637\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001637%20-%20Open%20end%20consumer%20credit%20plans.md) | Open end consumer credit plans. |
 | [1637a.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001637a%20-%20Disclosure%20requirements%20for%20open%20end%20consumer%20credit%20plans%20secured%20by%20consumer%27s%20principal%20dwelling.md) | Disclosure requirements for open end consumer credit plans secured by consumer's principal dwelling. |
 | [1638\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001638%20-%20Transactions%20other%20than%20under%20an%20open%20end%20credit%20plan.md) | Transactions other than under an open end credit plan. |
+| [1638a.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001638a%20-%20Reset%20of%20hybrid%20adjustable%20rate%20mortgages.md) | Reset of hybrid adjustable rate mortgages. |
 | [1639\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001639%20-%20Requirements%20for%20certain%20mortgages.md) | Requirements for certain mortgages. |
 | [1639a.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001639a%20-%20Duty%20of%20servicers%20of%20residential%20mortgages.md) | Duty of servicers of residential mortgages. |
+| [1639b.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001639b%20-%20Residential%20mortgage%20loan%20origination.md) | Residential mortgage loan origination. |
+| [1639c.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001639c%20-%20Minimum%20standards%20for%20residential%20mortgage%20loans.md) | Minimum standards for residential mortgage loans. |
+| [1639d.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001639d%20-%20Escrow%20or%20impound%20accounts%20relating%20to%20certain%20consumer%20credit%20transactions.md) | Escrow or impound accounts relating to certain consumer credit transactions. |
+| [1639e.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001639e%20-%20Appraisal%20independence%20requirements.md) | Appraisal independence requirements. |
+| [1639f.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001639f%20-%20Requirements%20for%20prompt%20crediting%20of%20home%20loan%20payments.md) | Requirements for prompt crediting of home loan payments. |
+| [1639g.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001639g%20-%20Requests%20for%20payoff%20amounts%20of%20home%20loan.md) | Requests for payoff amounts of home loan. |
+| [1639h.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001639h%20-%20Property%20appraisal%20requirements.md) | Property appraisal requirements. |
 | [1640\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001640%20-%20Civil%20liability.md) | Civil liability. |
 | [1641\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001641%20-%20Liability%20of%20assignees.md) | Liability of assignees. |
 | [1642\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001642%20-%20Issuance%20of%20credit%20cards.md) | Issuance of credit cards. |
@@ -184,6 +192,7 @@
 | [1691b.](Subchapter%20004%20%28IV%29%20-%20Equal%20Credit%20Opportunity/%C2%A7%2001691b%20-%20Promulgation%20of%20regulations%20by%20Board%3B%20establishment%20of%20Consumer%20Advisory%20Council%20by%20Board%3B%20duties%2C%20membership%2C%20etc.%2C%20of%20Council.md) | Promulgation of regulations by Board; establishment of Consumer Advisory Council by Board; duties, membership, etc., of Council. |
 | [1691c.](Subchapter%20004%20%28IV%29%20-%20Equal%20Credit%20Opportunity/%C2%A7%2001691c%20-%20Administrative%20enforcement.md) | Administrative enforcement. |
 | 1691c–1. | Incentives for self-testing and self-correction. |
+| 1691c–2. | Small business loan data collection. |
 | [1691d.](Subchapter%20004%20%28IV%29%20-%20Equal%20Credit%20Opportunity/%C2%A7%2001691d%20-%20Applicability%20of%20other%20laws.md) | Applicability of other laws. |
 | [1691e.](Subchapter%20004%20%28IV%29%20-%20Equal%20Credit%20Opportunity/%C2%A7%2001691e%20-%20Civil%20liability.md) | Civil liability. |
 | [1691f.](Subchapter%20004%20%28IV%29%20-%20Equal%20Credit%20Opportunity/%C2%A7%2001691f%20-%20Annual%20reports%20to%20Congress%3B%20contents.md) | Annual reports to Congress; contents. |
@@ -235,6 +244,8 @@
 | [1693m.](Subchapter%20006%20%28VI%29%20-%20Electronic%20Fund%20Transfers/%C2%A7%2001693m%20-%20Civil%20liability.md) | Civil liability. |
 | [1693n.](Subchapter%20006%20%28VI%29%20-%20Electronic%20Fund%20Transfers/%C2%A7%2001693n%20-%20Criminal%20liability.md) | Criminal liability. |
 | 1693<i>o.</i> | Administrative enforcement. |
+| 1693<i>o</i>–1. | Remittance transfers. |
+| 1693<i>o</i>–2. | Reasonable fees and rules for payment card transactions. |
 | [1693p.](Subchapter%20006%20%28VI%29%20-%20Electronic%20Fund%20Transfers/%C2%A7%2001693p%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
 | [1693q.](Subchapter%20006%20%28VI%29%20-%20Electronic%20Fund%20Transfers/%C2%A7%2001693q%20-%20Relation%20to%20State%20laws.md) | Relation to State laws. |
 | [1693r.](Subchapter%20006%20%28VI%29%20-%20Electronic%20Fund%20Transfers/%C2%A7%2001693r%20-%20Exemption%20for%20State%20regulation.md) | Exemption for State regulation. |

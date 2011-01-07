@@ -16,7 +16,7 @@ In the case of any blind or disabled individual who—
 
 #### (d) Reimbursement by Commissioner to State agency of costs of providing services to referred individuals
 
-The Commissioner of Social Security is authorized to reimburse the State agency administering or supervising the administration of a State plan for vocational rehabilitation services approved under title I of the Rehabilitation Act of 1973 \[29 U.S.C. 720 et seq.\] for the costs incurred under such plan in the provision of rehabilitation services to individuals who are referred for such services pursuant to subsection (a) of this section, (1) in cases where the furnishing of such services results in the performance by such individuals of substantial gainful activity for a continuous period of nine months, (2) incases where such individuals receive benefits as a result of section 1383(a)(6) of this title (except that no reimbursement under this subsection shall be made for services furnished to any individual receiving such benefits for any period after the close of such individual's ninth consecutive month of substantial gainful activity or the close of the month with which his or her entitlement to such benefits ceases, whichever first occurs), and (3) in cases where such individuals, without good cause, refuse to continue to accept vocational rehabilitation services or fail to cooperate in such a manner as to preclude their successful rehabilitation. The determination that the vocational rehabilitation services contributed to the successful return of an individual to substantial gainful activity, the determination that an individual, without good cause, refused to continue to accept vocational rehabilitation services or failed to cooperate in such a manner as to preclude successful rehabilitation, and the determination of the amount of costs to be reimbursed under this subsection shall be made by the Commissioner of Social Security in accordance with criteria determined by the Commissioner in the same manner as under section 422(d)(1) of this title.
+The Commissioner of Social Security is authorized to reimburse the State agency administering or supervising the administration of a State plan for vocational rehabilitation services approved under title I of the Rehabilitation Act of 1973 \[29 U.S.C. 720 et seq.\] for the costs incurred under such plan in the provision of rehabilitation services to individuals who are referred for such services pursuant to subsection (a) of this section, (1) in cases where the furnishing of such services results in the performance by such individuals of substantial gainful activity for a continuous period of nine months, (2) in cases where such individuals receive benefits as a result of section 1383(a)(6) of this title (except that no reimbursement under this subsection shall be made for services furnished to any individual receiving such benefits for any period after the close of such individual's ninth consecutive month of substantial gainful activity or the close of the month with which his or her entitlement to such benefits ceases, whichever first occurs), and (3) in cases where such individuals, without good cause, refuse to continue to accept vocational rehabilitation services or fail to cooperate in such a manner as to preclude their successful rehabilitation. The determination that the vocational rehabilitation services contributed to the successful return of an individual to substantial gainful activity, the determination that an individual, without good cause, refused to continue to accept vocational rehabilitation services or failed to cooperate in such a manner as to preclude successful rehabilitation, and the determination of the amount of costs to be reimbursed under this subsection shall be made by the Commissioner of Social Security in accordance with criteria determined by the Commissioner in the same manner as under section 422(d)(1) of this title.
 
 #### (e) Reimbursement for vocational rehabilitation services furnished during certain months of nonpayment of insurance benefits
 
@@ -44,11 +44,11 @@ The Commissioner of Social Security may reimburse the State agency described in 
 
 The Rehabilitation Act of 1973, referred to in subsec. (d), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title I of the Rehabilitation Act of 1973 is classified generally to subchapter I (§720 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-Section 212(b) of Public Law 93–66, referred to in subsec. (e)(1)(C), (2)(C), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
+Section 212(b) of Public Law 93–66, referred to in subsec. (e)(1)(C), (2)(C), is section 212(b) of Pub. L. 93–66,title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–170, §101(b)(2)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “In the case of any blind or disabled individual who—
+<b>1999</b>—Subsec. (a). Pub. L. 106–170, §101(b)(2)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “In the case of any blind or disabled individual who—
 
 &emsp;“(1) has not attained age 65, and
 
@@ -58,11 +58,11 @@ Section 212(b) of Public Law 93–66, referred to in subsec. (e)(1)(C), (2)(C), 
 
 Subsec. (c). Pub. L. 106–170, §101(b)(2)(B), struck out subsec. (c) which read as follows: “Every individual age 16 or over with respect to whom the Commissioner of Social Security is required to make provision for referral under subsection (a) of this section shall accept such services as are made available to him under the State plan for vocational and rehabilitation services approved under title I of the Rehabilitation Act of 1973; and no such individual shall be an eligible individual or eligible spouse for purposes of this subchapter if he refuses without good cause to accept services for which he is referred under subsection (a) of this section.”
 
-1997—Subsec. (d). Pub. L. 105–33, §5523(2), substituted “the Commissioner” for “him” after “determined by” in last sentence.
+<b>1997</b>—Subsec. (d). Pub. L. 105–33, §5523(2), substituted “the Commissioner” for “him” after “determined by” in last sentence.
 
 Pub. L. 105–33, §5523(1), which directed insertion of comma after “subsection (a)(1)” in first sentence, was executed by making the insertion after “subsection (a) of this section” to reflect the probable intent of Congress.
 
-1994—Subsec. (a). Pub. L. 103–296 in closing provisions substituted “Commissioner of Social Security” for “Secretary” and “the Commissioner may” for “he may”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–296 in closing provisions substituted “Commissioner of Social Security” for “Secretary” and “the Commissioner may” for “he may”.
 
 Subsec. (c). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary”.
 
@@ -70,15 +70,15 @@ Subsec. (d). Pub. L. 103–296 substituted “The Commissioner of Social Securit
 
 Subsec. (e). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary” in introductory provisions.
 
-1990—Subsec. (e). Pub. L. 101–508 added subsec. (e).
+<b>1990</b>—Subsec. (e). Pub. L. 101–508 added subsec. (e).
 
-1984—Subsecs. (a), (c). Pub. L. 98–369, §2663(g)(8), substituted “title I of the Rehabilitation Act of 1973” for “the Vocational Rehabilitation Act”.
+<b>1984</b>—Subsecs. (a), (c). Pub. L. 98–369, §2663(g)(8), substituted “title I of the Rehabilitation Act of 1973” for “the Vocational Rehabilitation Act”.
 
 Subsec. (d). Pub. L. 98–460, §11(b), designated existing provisions of first sentence as cl. (1), added cls. (2) and (3), and inserted requirement that the determination that the vocational rehabilitation services contributed to the successful return of an individual to substantial gainful activity and the determination that an individual, without good cause, refused to continue to accept vocational rehabilitation services or failed to cooperate in such a manner as to preclude successful rehabilitation be made by the Commissioner of Social Security in accordance with criteria determined by him in the same manner as under section 422(d)(1) of this title.
 
 Pub. L. 98–369, §2663(g)(8), substituted “title I of the Rehabilitation Act of 1973” for “the Vocational Rehabilitation Act”.
 
-1981—Subsec. (a). Pub. L. 97–35, §2193(c)(8)(A), substituted “State agency administering the State program under subchapter V of this chapter (except for individuals who have not attained age 16 and except in such other cases” for “appropriate State agency administering the State plan under subsection (b) of this section, and (except in such cases”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2193(c)(8)(A), substituted “State agency administering the State program under subchapter V of this chapter (except for individuals who have not attained age 16 and except in such other cases” for “appropriate State agency administering the State plan under subsection (b) of this section, and (except in such cases”.
 
 Subsec. (b). Pub. L. 97–35, §2193(c)(8)(B), struck out subsec. (b) which provided criteria for approval of State plans.
 
@@ -90,9 +90,9 @@ Subsec. (e)(1). Pub. L. 97–35, §2193(a)(4)(A), inserted “and subject to sec
 
 Subsec. (e)(3). Pub. L. 97–35, §2193(a)(4)(B), substituted “$24,070,000” for “$30,000,000”.
 
-1980—Subsec. (e). Pub. L. 96–272 corrected the error under which subsec. (e) had been added as (c) by Pub. L. 94–566 and, in subsec. (e)(1) as so designated, substituted “October 1, 1982” for “October 1, 1979”.
+<b>1980</b>—Subsec. (e). Pub. L. 96–272 corrected the error under which subsec. (e) had been added as (c) by Pub. L. 94–566 and, in subsec. (e)(1) as so designated, substituted “October 1, 1982” for “October 1, 1979”.
 
-1976—Subsec. (a). Pub. L. 94–566 inserted “or, in the case of any such individual who has not attained age 16, to the appropriate State agency administering the State plan under subsection (b) of this section,” after “Vocational Rehabilitation Act,” and substituted “need for and utilization of the services” for “need for and utilization of the rehabilitation services”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–566 inserted “or, in the case of any such individual who has not attained age 16, to the appropriate State agency administering the State plan under subsection (b) of this section,” after “Vocational Rehabilitation Act,” and substituted “need for and utilization of the services” for “need for and utilization of the rehabilitation services”.
 
 Subsec. (b). Pub. L. 94–566 added subsec. (b). Former subsec. (b) was split up and its parts were redistributed into subsecs. (c) and (d), respectively, and amended.
 

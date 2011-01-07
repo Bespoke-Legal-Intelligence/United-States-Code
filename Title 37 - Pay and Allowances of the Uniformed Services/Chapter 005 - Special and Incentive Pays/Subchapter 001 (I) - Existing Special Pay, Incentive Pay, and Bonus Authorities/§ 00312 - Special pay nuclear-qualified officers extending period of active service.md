@@ -22,7 +22,7 @@ Payment Amount; Payment Options.—(1) The total amount paid to an officer under
 
 (c)
 
-Repayment.—An officer who does not complete the period of active duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants that the officer agreed to serve, and for which a payment was made under subsection (b) or (e)(1), shall be subject to the repayment provisions of section 303a(e) of this title.
+Repayment.—An officer who does not complete the period of active duty in connectionwith the supervision, operation, and maintenance of naval nuclear propulsion plants that the officer agreed to serve, and for which a payment was made under subsection (b) or (e)(1), shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (d)
 
@@ -36,15 +36,17 @@ New Agreement.—(1) An officer who is performing obligated service under an agr
 
 (f)
 
-Duration of Authority.—The provisions of this section shall be effective only in the case of officers who, on or before December 31, 2010, execute the required written agreement to remain in active service.
+Duration of Authority.—The provisions of this section shall be effective only in the case of officers who, on or before December 31, 2011, execute the required written agreement to remain in active service.
 
-(Added Pub. L. 91–20, §1(1), June 3, 1969, 83 Stat. 12; amended Pub. L. 92–581, §1(1), (2), Oct. 27, 1972, 86 Stat. 1277; Pub. L. 94–356, §2, July 12, 1976, 90 Stat. 901; Pub. L. 96–513, title V, §516(8), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §2(a),Dec. 23, 1980, 94 Stat. 3359; Pub. L. 99–145, title VI, §632(a), Nov. 8, 1985, 99 Stat. 643; Pub. L. 101–189, div. A, title VI, §614(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §613(g), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(e), Feb. 10, 1996, 110 Stat. 360; Pub. L. 104–201, div. A, title VI, §613(d), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(d), 624(a), Nov. 18, 1997, 111 Stat. 1786, 1793; Pub. L. 105–261, div. A, title VI, §613(d), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §§613(e), 624(a), Oct. 5, 1999, 113 Stat. 650, 654; Pub. L. 106–398, §1 \[\[div. A\], title VI, §623(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–152; Pub. L. 107–107, div. A, title VI, §613(a), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–314, div. A, title VI, §613(a), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 108–136, div. A, title VI, §613(a), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §613(a), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§623(a), 637, 687(b)(21), Jan. 6, 2006, 119 Stat. 3294, 3301, 3331; Pub. L. 109–364, div. A, title VI, §§613(a), 618, Oct. 17, 2006, 120 Stat. 2248, 2251; Pub. L. 110–181, div. A, title VI, §§613(a), 621(a), Jan. 28, 2008, 122 Stat. 149, 151; Pub. L. 110–417, \[div. A\], title VI, §§613(a), 617, Oct. 14, 2008, 122 Stat. 4485, 4486; Pub. L. 111–84, div. A, title VI, §613(1), Oct. 28, 2009, 123 Stat. 2353.)
+(Added Pub. L. 91–20, §1(1), June 3, 1969, 83 Stat. 12; amended Pub. L. 92–581, §1(1), (2), Oct. 27, 1972, 86 Stat. 1277; Pub. L. 94–356, §2, July 12, 1976, 90 Stat. 901; Pub. L. 96–513, title V, §516(8), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §2(a), Dec. 23, 1980, 94 Stat. 3359; Pub. L. 99–145, title VI, §632(a), Nov. 8, 1985, 99 Stat. 643; Pub. L. 101–189, div. A, title VI, §614(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §613(g), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(e), Feb. 10, 1996, 110 Stat. 360; Pub. L. 104–201, div. A, title VI, §613(d), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(d), 624(a), Nov. 18, 1997, 111 Stat. 1786, 1793; Pub. L. 105–261, div. A, title VI, §613(d), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §§613(e), 624(a), Oct. 5, 1999, 113 Stat. 650, 654; Pub. L. 106–398, §1 \[\[div. A\], title VI, §623(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–152; Pub. L. 107–107, div. A, title VI, §613(a), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–314, div. A, title VI, §613(a), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 108–136, div. A, title VI, §613(a), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §613(a), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§623(a), 637, 687(b)(21), Jan. 6, 2006, 119 Stat. 3294, 3301, 3331; Pub. L. 109–364, div. A, title VI, §§613(a), 618, Oct. 17, 2006, 120 Stat. 2248, 2251; Pub. L. 110–181, div. A, title VI, §§613(a), 621(a), Jan. 28, 2008, 122 Stat. 149, 151; Pub. L. 110–417, \[div. A\], title VI, §§613(a), 617, Oct. 14, 2008, 122 Stat. 4485, 4486; Pub. L. 111–84, div. A, title VI, §613(1), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §613(1), Jan. 7, 2011, 124 Stat. 4237.)
 
 #### Amendments
 
-2009—Subsec. (f). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+<b>2011</b>—Subsec. (f). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
-2008—Subsec. (a)(3). Pub. L. 110–417, §617, substituted “not less than three years” for “three, four, or five years”.
+<b>2009</b>—Subsec. (f). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–417, §617, substituted “not less than three years” for “three, four, or five years”.
 
 Pub. L. 110–181, §621(a)(1), substituted “30 years” for “26 years”.
 
@@ -54,7 +56,7 @@ Subsec. (f). Pub. L. 110–417, §613(a), substituted “December 31, 2009” fo
 
 Pub. L. 110–181, §613(a), substituted “December 31, 2008” for “December 31, 2007”.
 
-2006—Subsec. (a). Pub. L. 109–364, §618(c)(1), inserted heading.
+<b>2006</b>—Subsec. (a). Pub. L. 109–364, §618(c)(1), inserted heading.
 
 Pub. L. 109–364, §618(b)(2)(C), designated concluding provisions as subsec. (b).
 
@@ -84,37 +86,37 @@ Subsec. (e)(1). Pub. L. 109–364, §618(b)(4), in first sentence, substituted �
 
 Subsec. (f). Pub. L. 109–364, §618(b)(1), (c)(5), redesignated subsec. (e) as (f) and inserted heading.
 
-2004—Subsec. (e). Pub. L. 108–375 substituted “December 31, 2005” for “December 31, 2004”.
+<b>2004</b>—Subsec. (e). Pub. L. 108–375 substituted “December 31, 2005” for “December 31, 2004”.
 
-2003—Subsec. (e). Pub. L. 108–136 substituted “December 31, 2004” for “December 31, 2003”.
+<b>2003</b>—Subsec. (e). Pub. L. 108–136 substituted “December 31, 2004” for “December 31, 2003”.
 
-2002—Subsec. (e). Pub. L. 107–314 substituted “December 31, 2003” for “December 31, 2002”.
+<b>2002</b>—Subsec. (e). Pub. L. 107–314 substituted “December 31, 2003” for “December 31, 2002”.
 
-2001—Subsec. (e). Pub. L. 107–107 substituted “December 31, 2002” for “December 31, 2001”.
+<b>2001</b>—Subsec. (e). Pub. L. 107–107 substituted “December 31, 2002” for “December 31, 2001”.
 
-2000—Subsec. (e). Pub. L. 106–398 substituted “December 31, 2001” for “December 31, 2000”.
+<b>2000</b>—Subsec. (e). Pub. L. 106–398 substituted “December 31, 2001” for “December 31, 2000”.
 
-1999—Subsec. (a). Pub. L. 106–65, §624(a), substituted “$25,000” for “$15,000” in concluding provisions.
+<b>1999</b>—Subsec. (a). Pub. L. 106–65, §624(a), substituted “$25,000” for “$15,000” in concluding provisions.
 
 Subsec. (e). Pub. L. 106–65, §613(e), substituted “December 31, 2000” for “December 31, 1999”.
 
-1998—Subsec. (e). Pub. L. 105–261 substituted “December 31, 1999” for “September 30, 1999”.
+<b>1998</b>—Subsec. (e). Pub. L. 105–261 substituted “December 31, 1999” for “September 30, 1999”.
 
-1997—Subsec. (a). Pub. L. 105–85, §624(a), substituted “$15,000” for “$12,000” in concluding provisions.
+<b>1997</b>—Subsec. (a). Pub. L. 105–85, §624(a), substituted “$15,000” for “$12,000” in concluding provisions.
 
 Subsec. (e). Pub. L. 105–85, §613(d), substituted “September 30, 1999” for “September 30, 1998”.
 
-1996—Subsec. (e). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
 
 Pub. L. 104–106 substituted “September 30, 1997” for “September 30, 1996”.
 
-1994—Subsec. (e). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
+<b>1994</b>—Subsec. (e). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
 
-1991—Subsec. (d)(1). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
+<b>1991</b>—Subsec. (d)(1). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
-1989—Subsec. (e). Pub. L. 101–189 substituted “September 30, 1995” for “September 30, 1990”.
+<b>1989</b>—Subsec. (e). Pub. L. 101–189 substituted “September 30, 1995” for “September 30, 1990”.
 
-1985—Subsec. (a). Pub. L. 99–145, §632(a)(1)(D), in provisions following numbered clauses, substituted “$12,000” for “$7,000”, “annually” for “semiannually”, “12-month period” for “six-month period”, and “shall be paid in equal annual installments over the length of the contract, commencing at the expiration of any existing period of obligated active service. The Secretary (or his designee) may accept an active service agreement under this section not more than one year in advance of the end of an officer's existing period of obligated active service under such an agreement. In such a case, the amount of the special pay may be paid commencing with the date of acceptance of the agreement, with the number of installments being equal to the number of years covered by the contract plus one” for “shall become fixed and shall be paid in four equal yearly installments, commencing at the expiration of the initial obligated service; except, the Secretary or his designee may accept the active-service agreement not more than one year in advance of the expiration of the initial obligated active service and the amount may then be paid in five yearly installments, not to exceed $5,600 per year, commencing with the date of acceptance of the agreement”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–145, §632(a)(1)(D), in provisions following numbered clauses, substituted “$12,000” for “$7,000”, “annually” for “semiannually”, “12-month period” for “six-month period”, and “shall be paid in equal annual installments over the length of the contract, commencing at the expiration of any existing period of obligated active service. The Secretary (or his designee) may accept an active service agreement under this section not more than one year in advance of the end of an officer's existing period of obligated active service under such an agreement. In such a case, the amount of the special pay may be paid commencing with the date of acceptance of the agreement, with the number of installments being equal to the number of years covered by the contract plus one” for “shall become fixed and shall be paid in four equal yearly installments, commencing at the expiration of the initial obligated service; except, the Secretary or his designee may accept the active-service agreement not more than one year in advance of the expiration of the initial obligated active service and the amount may then be paid in five yearly installments, not to exceed $5,600 per year, commencing with the date of acceptance of the agreement”.
 
 Subsec. (a)(2) to (4). Pub. L. 99–145, §632(a)(1)(A)–(C), inserted “and” at end of cl. (2), redesignated cl. (4) as (3) and substituted “for a period of three, four, or five years, so long as the new period of obligated active service does not extend beyond the end of 26 years of commissioned service,” for “for one period of four years”, and struck out former cl. (3) which related to an officer of the naval service who had not completed ten years of commissioned service.
 
@@ -126,17 +128,17 @@ Subsec. (d). Pub. L. 99–145, §632(a)(5), added subsec. (d). Former subsec. (d
 
 Subsec. (e). Pub. L. 99–145, §632(a)(6), substituted “September 30, 1990” for “September 30, 1987”.
 
-1980—Subsec. (a). Pub. L. 96–579, §2(a)(1), substituted “$7,000” and “$5,600” for “$5,000” and “$4,000”, respectively.
+<b>1980</b>—Subsec. (a). Pub. L. 96–579, §2(a)(1), substituted “$7,000” and “$5,600” for “$5,000” and “$4,000”, respectively.
 
 Pub. L. 96–513 redesignated cls. (3) to (5) as (2) to (4), respectively. Former cl. (2) was repealed by Pub. L. 92–581, §1(2)(A), Oct. 27, 1972, 86 Stat. 1277.
 
 Subsec. (e). Pub. L. 96–579, §2(a)(2), substituted “September 30, 1987” for “September 30, 1981”.
 
-1976—Subsec. (a). Pub. L. 94–356, §2(1), substituted “$5,000” for “$3,750” and “$4,000” for “$3,000”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–356, §2(1), substituted “$5,000” for “$3,750” and “$4,000” for “$3,000”.
 
 Subsec. (e). Pub. L. 94–356, §2(2), substituted “September 30, 1981” for “June 30, 1975”.
 
-1972—Pub. L. 92–581, §1(1), struck out “submarine” in section catchline.
+<b>1972</b>—Pub. L. 92–581, §1(1), struck out “submarine” in section catchline.
 
 Subsec. (a)(2). Pub. L. 92–581, §1(2)(A), struck out cl. (2) which referred to officers of the naval service currently designated “qualified in submarines”.
 
@@ -188,7 +190,7 @@ Pub. L. 110–181, div. A, title VI, §621(b), Jan. 28, 2008, 122 Stat. 152, pro
 
 #### Active Service Agreements for Nuclear Qualified Officers
 
-Pub. L. 97–60, title I, §118, Oct. 14, 1981, 95 Stat. 997, provided that: “Notwithstanding subsections (a) and (b)of section 312 of title 37, United States Code, and under regulations prescribed by the Secretary of the Navy, the Secretary of the Navy may permit an officer of the naval service who is performing obligated service as the result of an active-service agreement executed under such section before January 1, 1981, to cancel that active-service agreement effective on the day before an anniversary of the day on which that agreement was executed and execute a new active-service agreement under such section for one period of four years. Any such cancellation of an existing agreement and execution of a new agreement may be effective on the day before an anniversary date occurring on or after January 1, 1981.”
+Pub. L. 97–60, title I, §118, Oct. 14, 1981, 95 Stat. 997, provided that: “Notwithstanding subsections (a) and (b) of section 312 of title 37, United States Code, and under regulations prescribed by the Secretary of the Navy, the Secretary of the Navy may permit an officer of the naval service who is performing obligated service as the result of an active-service agreement executed under such section before January 1, 1981, to cancel that active-service agreement effective on the day before an anniversary of the day on which that agreement was executed and execute a new active-service agreement under such section for one period of four years. Any such cancellation of an existing agreement and execution of a new agreement may be effective on the day before an anniversary date occurring on or after January 1, 1981.”
 
 #### Exchange of Active Service Agreements by Naval Officers
 

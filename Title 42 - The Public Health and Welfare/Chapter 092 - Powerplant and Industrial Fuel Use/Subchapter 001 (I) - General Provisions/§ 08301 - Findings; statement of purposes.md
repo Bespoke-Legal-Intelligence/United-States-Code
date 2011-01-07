@@ -4,7 +4,7 @@
 
 The Congress finds that—
 
-&emsp;(1) the protection of public health and welfare, the preservation of national security, and the regulation of interstate commerce require the establishment of a program for the expended <sup>1</sup> use, consistent with applicable environmental requirements, of coal and other alternate fuels as primary energy sources for existing and new electric powerplants; and
+&emsp;(1) the protection of public health and welfare, the preservation of national security, andthe regulation of interstate commerce require the establishment of a program for the expended <sup>1</sup> use, consistent with applicable environmental requirements, of coal and other alternate fuels as primary energy sources for existing and new electric powerplants; and
 
 &emsp;(2) the purposes of this chapter are furthered in cases in which coal or other alternate fuels are used by electric powerplants, consistent with applicable environmental requirements, as primary energy sources in lieu of natural gas or petroleum.
 
@@ -36,11 +36,11 @@ The purpose <sup>2</sup> of this chapter, which shall be carried out in a manne
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, as amended, known as the Powerplant and Industrial Fuel Use Act of 1978, which enacted this chapter, amended sections 6211 and 7193 of this title, section 796 of Title 15, Commerce and Trade, section 1202 of Title 19, Customs Duties, sections 821, 822, and 825 of Title 45, Railroads, and section 26b of former Title 49, Transportation, and enacted provisions set out as notes under this section and section 822 of Title 45. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
-1987—Subsec. (a)(1), (2). Pub. L. 100–42, §1(c)(1)(A), struck out “and major fuel-burning installations” after “electric powerplants”.
+<b>1987</b>—Subsec. (a)(1), (2). Pub. L. 100–42, §1(c)(1)(A), struck out “and major fuel-burning installations” after “electric powerplants”.
 
 Subsec. (b)(2). Pub. L. 100–42, §1(c)(1)(B), redesignated par. (3) as (2) and struck out former par. (2) relating to conservation of natural gas and petroleum for uses for which there are no alternatives.
 
@@ -54,7 +54,7 @@ Subsec. (b)(7) to (10). Pub. L. 100–42, §1(c)(1)(B), redesignated former pars
 
 #### Effective Date
 
-Section 901 of Pub. L. 95–620 provided that: “Unless otherwise provided in this Act \[see Short Title note setout below\] the provisions of this Act shall take effect 180 days after the date of the enactment of this Act \[Nov. 9, 1978\], except that the Secretary may issue rules pursuant to such provisions at any time after such date of enactment, which rules may take effect no earlier than 180 days after such date of enactment.”
+Section 901 of Pub. L. 95–620 provided that: “Unless otherwise provided in this Act \[see Short Title note set out below\] the provisions of this Act shall take effect 180 days after the date of the enactment of this Act \[Nov. 9, 1978\], except that the Secretary may issue rules pursuant to such provisions at any time after such date of enactment, which rules may take effect no earlier than 180 days after such date of enactment.”
 
 #### Short Title
 
@@ -72,7 +72,7 @@ Exemptions in the Case of Certain Powerplants.—In the case of—
 
 &emsp;“(2) any electric powerplant (A) consisting of one or more combined cycle units owned or operated by an electric utility which serves at least 2,000,000 customers and (B) for which an application has been filed for at least one year before the date of the enactment of this Act \[Nov. 9, 1978\] with the appropriate State agency for authorization to construct such powerplant,
 
-> the Secretary may receive, consider, and grant (or deny) any petition for an exemption under title II or III \[subchapters II and III of this chapter\] notwithstanding section 901 \[section 901 of Pub. L. 95–620, set out as a note above\] or the fact that all rules related to such petition have not been prescribed at the time.
+> the Secretary may receive, consider, and grant (or deny) any petition for an exemption under title II or III \[subchapters II and III of this chapter\] notwithstanding section 901 \[section 901 of Pub. L. 95–620, set out as anote above\] or the fact that all rules related to such petition have not been prescribed at the time.
 
 “(b)
 

@@ -12,7 +12,7 @@ Based on Prevailing Wage.—The minimum wages shall be based on the wages the Se
 
 Stipulations Required in Contract.—Every contract based upon the specifications referred to in subsection (a) must contain stipulations that—
 
-&emsp;(1) the contractor or subcontractor shall pay all mechanics and laborers employed directlyon the site of the work, unconditionally and at least once a week, and without subsequent deduction or rebate on any account, the full amounts accrued at time of payment, computed at wage rates not less than those stated in the advertised specifications, regardless of any contractual relationship which may be alleged to exist between the contractor or subcontractor and the laborers and mechanics;
+&emsp;(1) the contractor or subcontractor shall pay all mechanics and laborers employed directly on the site of the work, unconditionally and at least once a week, and without subsequent deduction or rebate on any account, the full amounts accrued at time of payment, computed at wage rates not less than those stated in the advertised specifications, regardless of any contractual relationship which may be alleged to exist between the contractor or subcontractor and the laborers and mechanics;
 
 &emsp;(2) the contractor will post the scale of wages to be paid in a prominent and easily accessible place at the site of the work; and
 
@@ -66,7 +66,7 @@ In subsection (d), the words “of a type” are omitted as unnecessary. The wor
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–284, §6(12), inserted “of this title” after “amount referred to in section 3141(2)(B)”.
+<b>2006</b>—Subsec. (d). Pub. L. 109–284, §6(12), inserted “of this title” after “amount referred to in section 3141(2)(B)”.
 
 Subsec. (e). Pub. L. 109–284, §6(13), inserted “of this title” after “determined under section 3141(2)(B)”.
 

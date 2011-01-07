@@ -20,7 +20,7 @@ Exceptions.—A department or agency of the Department of Defense is not require
 
 &emsp;(2) Copying machine paper containing a percentage of post-consumer recycled content meeting such requirement is not reasonably available within a reasonable period of time.
 
-&emsp;(3) Copying machine paper containing a percentage of post-consumer recycled contentmeeting such requirement does not meet performance standards of the department or agency for copying machine paper.
+&emsp;(3) Copying machine paper containing a percentage of post-consumer recycled content meeting such requirement does not meet performance standards of the department or agency for copying machine paper.
 
 (c)
 

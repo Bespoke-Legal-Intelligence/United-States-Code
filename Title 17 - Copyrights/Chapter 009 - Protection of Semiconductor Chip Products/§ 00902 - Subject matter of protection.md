@@ -1,6 +1,6 @@
 ### §902. Subject matter of protection
 
-(a)(1) Subject to the provisions of subsection (b), a mask work fixed in a semiconductor chip product, by or under the authority of the owner of the mask work, is eligible for protection under this chapter if—
+(a)(1) Subject to the provisions of subsection (b), a mask work fixed in a semiconductor chip product, by or under the authority of the ownerof the mask work, is eligible for protection under this chapter if—
 
 &emsp;(A) on the date on which the mask work is registered under section 908, or is first commercially exploited anywhere in the world, whichever occurs first, the owner of the mask work is (i) a national or domiciliary of the United States, (ii) a national, domiciliary, or sovereign authority of a foreign nation that is a party to a treaty affording protection to mask works to which the United States is also a party, or (iii) a stateless person, wherever that person may be domiciled;
 
@@ -22,7 +22,7 @@
 
 #### Amendments
 
-1987—Subsec. (a)(2). Pub. L. 100–159 inserted provision at end permitting the President to revise, suspend, or revoke any such proclamation or impose any conditions or limitations on protection extended under any such proclamation.
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–159 inserted provision at end permitting the President to revise, suspend, or revoke any such proclamation or impose any conditions or limitations on protection extended under any such proclamation.
 
 #### Ex. Ord. No. 12504. Protection of Semiconductor Chip Products
 

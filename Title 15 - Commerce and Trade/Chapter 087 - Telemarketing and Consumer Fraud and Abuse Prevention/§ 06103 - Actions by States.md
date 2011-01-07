@@ -6,7 +6,7 @@ Whenever an attorney general of any State has reason to believe that the interes
 
 #### (b) Notice
 
-The State shall serve prior written notice of any civil action under subsection (a) or (f)(2) ofthis section upon the Commission and provide the Commission with a copy of its complaint, except that if it is not feasible for the State to provide such prior notice, the State shall serve such notice immediately upon instituting such action. Upon receiving a notice respecting a civil action, the Commission shall have the right (1) to intervene in such action, (2) upon so intervening, to be heard on all matters arising therein, and (3) to file petitions for appeal.
+The State shall serve prior written notice of any civil action under subsection (a) or (f)(2) of this section upon the Commission and provide the Commission with a copy of its complaint, except that if it is not feasible for the State to provide such prior notice, the State shall serve such notice immediately upon instituting such action. Upon receiving a notice respecting a civil action, the Commission shall have the right (1) to intervene in such action, (2) upon so intervening, to be heard on all matters arising therein, and (3) to file petitions for appeal.
 
 #### (c) Construction
 
@@ -26,9 +26,17 @@ Any civil action brought under subsection (a) of this section in a district cour
 
 (2) In addition to actions brought by an attorney general of a State under subsection (a) of this section, such an action may be brought by officers of such State who are authorized by the State to bring actions in such State on behalf of its residents.
 
-(Pub. L. 103–297, §4, Aug. 16, 1994, 108 Stat. 1548.)
+(Pub. L. 103–297, §4, Aug. 16, 1994, 108 Stat. 1548; Pub. L. 111–203, title X, §1100C(b), July 21, 2010, 124 Stat. 2111.)
+
+#### Amendment of Subsection (d)
+
+<i>Pub. L. 111–203, title X, §§1100C(b), 1100H, July 21, 2010, 124 Stat. 2111, 2113, provided that, effective on the designated transfer date, subsection (d) of this section is amended by inserting after “Commission” each place that term appears the following: “or the Bureau of Consumer Financial Protection”. See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 103–297, Aug. 16, 1994, 108 Stat. 1545, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 103–297, Aug. 16, 1994, 108 Stat. 1545, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 

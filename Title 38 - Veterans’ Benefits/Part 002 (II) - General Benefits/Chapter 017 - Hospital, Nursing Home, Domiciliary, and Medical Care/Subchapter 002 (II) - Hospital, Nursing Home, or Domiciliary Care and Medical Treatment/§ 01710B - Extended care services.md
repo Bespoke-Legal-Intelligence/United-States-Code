@@ -48,9 +48,9 @@ Section 1701(10) of this title, referred to in subsec. (a)(5), was repealed by P
 
 #### Amendments
 
-2004—Subsec. (c)(2)(B), (C). Pub. L. 108–422 added subpar. (B) and redesignated former subpar. (B) as (C).
+<b>2004</b>—Subsec. (c)(2)(B), (C). Pub. L. 108–422 added subpar. (B) and redesignated former subpar. (B) as (C).
 
-2001—Subsec. (c)(2)(B). Pub. L. 107–103 inserted “on” before “November 30, 1999”.
+<b>2001</b>—Subsec. (c)(2)(B). Pub. L. 107–103 inserted “on” before “November 30, 1999”.
 
 Pub. L. 107–14, §8(a)(2), substituted “November 30, 1999” for “on the date of the enactment of the Veterans Millennium Health Care and Benefits Act”.
 
@@ -62,7 +62,7 @@ Pub. L. 108–422, title IV, §411(f), (g), Nov. 30, 2004, 118 Stat. 2390, provi
 
 “(f)
 
-Contingent Effectiveness.—Subsection (d) \[enacting provisions set out as a note under section 8118 ofthis title\] and the amendments made by subsection (c) \[repealing section 8116 of this title\] shall take effect at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with subsection (b) of section 1710B of title 38, United States Code.
+Contingent Effectiveness.—Subsection (d) \[enacting provisions set out as a note under section 8118 of this title\] and the amendments made by subsection (c) \[repealing section 8116 of this title\] shall take effect at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with subsection (b) of section 1710B of title 38, United States Code.
 
 “(g)
 
@@ -88,7 +88,7 @@ In General.—Commencing not later than 120 days after the date of the enactment
 
 “(b)
 
-Duration of Pilot Program.—The pilot program required by subsection (a) shall be carried out during the three-year period beginning on the date of the commencement of the pilot program.
+Duration of Pilot Program.—The pilot program required by subsection (a) shall be carried outduring the three-year period beginning on the date of the commencement of the pilot program.
 
 “(c)
 

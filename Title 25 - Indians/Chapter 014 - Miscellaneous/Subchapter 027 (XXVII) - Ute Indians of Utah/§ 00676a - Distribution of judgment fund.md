@@ -12,7 +12,7 @@ Act of August 27, 1954, referred to in text, is act Aug. 27, 1954, ch. 1009, 68 
 
 #### Amendments
 
-1968—Pub. L. 90–332 inserted reference to Ute Mountain Tribe of Ute Mountain Reservation in provisions covering authorized uses of trust funds, inserted reference to Act August 12, 1953, and made minor changes in punctuation.
+<b>1968</b>—Pub. L. 90–332 inserted reference to Ute Mountain Tribe of Ute Mountain Reservation in provisions covering authorized uses of trust funds, inserted reference to Act August 12, 1953, and made minor changes in punctuation.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

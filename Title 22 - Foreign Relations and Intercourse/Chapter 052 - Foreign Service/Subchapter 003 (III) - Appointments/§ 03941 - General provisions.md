@@ -18,13 +18,13 @@ The fact that an applicant for appointment as a Foreign Service officer candidat
 
 (2) Chiefs of mission, ambassadors at large, and ministers serve at the pleasure of the President.
 
-(3) An appointment as a Foreign Service officer is a career appointment. Foreign Service employees serving as career candidates or career members of the Service shall not represent to the income tax authorities of the District of Columbia or any other State or locality that they are exempt from income taxation on the basis of holding a Presidential appointment subject to Senate confirmation or that they are exempt on the basis of serving in an appointment whose tenure is at the pleasure of the President.
+(3) An appointment as a Foreign Service officer is a career appointment. Foreign Service employees serving as career candidates or career members of the Service shall not represent to the income tax authorities of the District of Columbia or any other State or locality that they are exempt from income taxation on the basis ofholding a Presidential appointment subject to Senate confirmation or that they are exempt on the basis of serving in an appointment whose tenure is at the pleasure of the President.
 
 (Pub. L. 96–465, title I, §301, Oct. 17, 1980, 94 Stat. 2083; Pub. L. 100–204, title I, §179(a), Dec. 22, 1987, 101 Stat. 1362.)
 
 #### Amendments
 
-1987—Subsec. (d)(3). Pub. L. 100–204 inserted sentence at end relating to exemption from income taxation.
+<b>1987</b>—Subsec. (d)(3). Pub. L. 100–204 inserted sentence at end relating to exemption from income taxation.
 
 #### Effective Date of 1987 Amendment
 

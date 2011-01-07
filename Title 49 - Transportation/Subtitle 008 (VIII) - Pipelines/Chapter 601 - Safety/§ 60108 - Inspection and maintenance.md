@@ -38,7 +38,7 @@ Inspection and Testing.—(1) The Secretary shall inspect and require appropriat
 
 &emsp;(I) other factors the Secretary decides are relevant to the safety of pipeline facilities.
 
-(2) To the extent and in amounts provided in advance in an appropriation law, the Secretaryshall decide on the frequency of inspection under paragraph (1) of this subsection. The Secretary may reduce the frequency of an inspection of a master meter system.
+(2) To the extent and in amounts provided in advance in an appropriation law, the Secretary shall decide on the frequency of inspection under paragraph (1) of this subsection. The Secretary may reduce the frequency of an inspection of a master meter system.
 
 (3) Testing under this subsection shall use the most appropriate technology practicable.
 
@@ -262,7 +262,7 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §13(c); added Oct. 24, 1992, Pub
 
 In subsection (a)(1), the word “prepare” is omitted as surplus. The words “or offices” are omitted because of 1:1. The words “in accordance with regulations prescribed by the Secretary or appropriate State agency” in 49 App.:1680(a) (1st sentence), “in accordance with regulations prescribed by the Secretary or, where a certification or agreement pursuant to section 2004 of this Appendix is in effect, by the appropriate State agency” in 49 App.:2009(a) (1st sentence), and “by regulation” are omitted as surplus because of 49:322(a) and sections 60102–60105 of the revised title.
 
-In subsection (a)(2), before clause (A), the words “the Secretary or” are added for clarity. The words “at any time” in 49 App.:1680(a) (3d sentence) are omitted as surplus.
+In subsection (a)(2), before clause (A), the words “the Secretary or” are added for clarity. The words “at anytime” in 49 App.:1680(a) (3d sentence) are omitted as surplus.
 
 In subsection (a)(3), the word “appropriate” is omitted as surplus.
 
@@ -298,7 +298,7 @@ Section 203(<i>l</i>)(1)(A) of the Hazardous Liquid Pipeline Safety Act of 1979,
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–304, §6(1), struck out “transporting gas or hazardous liquid or” after “Each person” and “a person”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–304, §6(1), struck out “transporting gas or hazardous liquid or” after “Each person” and “a person”.
 
 Subsec. (b)(2). Pub. L. 104–304, §6(2), struck out after first sentence “However, an inspection must occur at least once every 2 years.”
 

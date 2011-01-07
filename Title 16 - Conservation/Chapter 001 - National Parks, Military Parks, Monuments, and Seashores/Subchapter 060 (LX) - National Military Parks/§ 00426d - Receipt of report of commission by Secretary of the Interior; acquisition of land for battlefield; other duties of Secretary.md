@@ -6,7 +6,7 @@ Upon receipt of the report of said commission, the Secretary of the Interior is 
 
 #### Amendments
 
-1930—Act Apr. 15, 1930, inserted “military” between “national” and “park”, authorized construction of roads and walks, planting of trees and shrubs, restoration and care of grounds, including the Hazen Monument, and inserted “and the establishment of the national military park” in proviso.
+<b>1930</b>—Act Apr. 15, 1930, inserted “military” between “national” and “park”, authorized construction of roads and walks, planting of trees and shrubs, restoration and care of grounds, including the Hazen Monument, and inserted “and the establishment of the national military park” in proviso.
 
 #### Change of Name
 

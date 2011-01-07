@@ -34,9 +34,9 @@ The Secretary of Energy shall provide, in accordance with law, the Secretary of 
 
 #### Amendments
 
-2004—Subsecs. (c), (d). Pub. L. 108–375 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>2004</b>—Subsecs. (c), (d). Pub. L. 108–375 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-2001—Subsec. (b). Pub. L. 107–107 inserted “, or at an atomic weapons employer facility,” after “Department of Energy facility” in introductory provisions.
+<b>2001</b>—Subsec. (b). Pub. L. 107–107 inserted “, or at an atomic weapons employer facility,” after “Department of Energy facility” in introductory provisions.
 
 <i><sup>1</sup></i><i> So in original. A closing parenthesis should probably follow “title”.</i>
 

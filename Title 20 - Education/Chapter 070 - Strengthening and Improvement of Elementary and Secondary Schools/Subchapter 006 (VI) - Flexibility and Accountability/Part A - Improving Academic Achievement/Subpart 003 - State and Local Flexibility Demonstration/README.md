@@ -1,7 +1,5 @@
 subpart 3—state and local flexibility demonstration
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “6316(c)(10)”.</i>
-
 
 ---
 

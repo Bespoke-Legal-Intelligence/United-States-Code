@@ -10,9 +10,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 #### Amendments
 
-1996—Pub. L. 104–104 inserted “, without discrimination on the basis of race, color, religion, national origin, or sex,” after “to all the people of the United States”.
+<b>1996</b>—Pub. L. 104–104 inserted “, without discrimination on the basis of race, color, religion, national origin, or sex,” after “to all the people of the United States”.
 
-1937—Act May 20, 1937, inserted “for the purpose of promoting safety of life and property through the use of wire and radio communication”.
+<b>1937</b>—Act May 20, 1937, inserted “for the purpose of promoting safety of life and property through the use of wire and radio communication”.
 
 #### Moratorium on Internet Taxes
 
@@ -34,7 +34,7 @@ Moratorium.—No State or political subdivision thereof may impose any of the fo
 
 “(b)
 
-Preservation of State and Local Taxing Authority.—Except as provided in this section, nothing in this title shall be construed to modify, impair, or supersede, or authorize the modification, impairment, or superseding of, any State or local law pertaining to taxation that is otherwise permissible by or under the Constitution of the United States or other Federal law and in effect on the date of enactment of this Act \[Oct. 21, 1998\].
+Preservation of State and Local Taxing Authority.—Except as provided in this section, nothing in this title shall be construed to modify, impair, or supersede, or authorize the modification, impairment, orsuperseding of, any State or local law pertaining to taxation that is otherwise permissible by or under the Constitution of the United States or other Federal law and in effect on the date of enactment of this Act \[Oct. 21, 1998\].
 
 “(c)
 
@@ -162,7 +162,7 @@ Membership.—
 
 In general.—The Commissioners shall serve for the life of the Commission. The membership of the Commission shall be as follows:
 
-&emsp;&emsp;“(A) 3 representatives from the Federal Government, comprised of the Secretary of Commerce, theSecretary of the Treasury, and the United States Trade Representative (or their respective delegates).
+&emsp;&emsp;“(A) 3 representatives from the Federal Government, comprised of the Secretary of Commerce, the Secretary of the Treasury, and the United States Trade Representative (or their respective delegates).
 
 &emsp;&emsp;“(B) 8 representatives from State and local governments (one such representative shall be from a State or local government that does not impose a sales tax and one representative shall be from a State that does not impose an income tax).
 
@@ -262,7 +262,7 @@ National Tax Association Communications and Electronic Commerce Tax Project.—T
 
 #### “SEC. 1103. REPORT.
 
-“Not later than 18 months after the date of the enactment of this Act \[Oct. 21, 1998\], the Commission shall transmit to Congress for its consideration a report reflecting the results, including such legislative recommendations as required to address the findings of the Commission's study under this title. Any recommendation agreed to by the Commission shall be tax and technologically neutral and apply to all forms of remote commerce. No finding or recommendation shall be included in the report unless agreed to by at least two-thirds of the members of the Commission serving at the time the finding or recommendation is made.
+“Not later than 18 months after the date of the enactment of this Act \[Oct. 21, 1998\], the Commission shall transmit to Congress for its consideration a report reflecting the results, including such legislative recommendations as required to address the findings of the Commission's study under this title. Any recommendation agreed to by the Commission shall be tax and technologically neutral and apply to all forms of remotecommerce. No finding or recommendation shall be included in the report unless agreed to by at least two-thirds of the members of the Commission serving at the time the finding or recommendation is made.
 
 #### “SEC. 1104. GRANDFATHERING OF STATES THAT TAX INTERNET ACCESS.
 
@@ -280,7 +280,7 @@ In general.—Section 1101(a) does not apply to a tax on Internet access that wa
 
 &emsp;&emsp;“(B) either—
 
-&emsp;&emsp;&emsp;“(i) a provider of Internet access services had a reasonable opportunity to know, by virtue of a rule or other public proclamation made by the appropriate administrative agency of the State or political subdivision thereof, that such agencyhas interpreted and applied such tax to Internet access services; or
+&emsp;&emsp;&emsp;“(i) a provider of Internet access services had a reasonable opportunity to know, by virtue of a rule or other public proclamation made by the appropriate administrative agency of the State or political subdivision thereof, that such agency has interpreted and applied such tax to Internet access services; or
 
 &emsp;&emsp;&emsp;“(ii) a State or political subdivision thereof generally collected such tax on charges for Internet access.
 
@@ -388,7 +388,7 @@ Discriminatory tax.—The term ‘discriminatory tax’ means—
 
 &emsp;“(3)
 
-Electronic commerce.—The term ‘electronic commerce’ means any transaction conducted over the Internet or through Internet access, comprising the sale, lease, license, offer, or delivery of property, goods, services, or information, whether or not for consideration, and includes the provision of Internet access.
+Electronic commerce.—The term ‘electronic commerce’ means any transaction conducted over the Internet or through Internet access, comprising the sale, lease, license, offer, or delivery of property,goods, services, or information, whether or not for consideration, and includes the provision of Internet access.
 
 &emsp;“(4)
 
@@ -450,7 +450,7 @@ Exception.—Such term does not include any franchise fee or similar fee imposed
 
 &emsp;“(9)
 
-Telecommunications.—The term ‘telecommunications’ means ‘telecommunications’ as such term is defined in section 3(43) of the Communications Act of 1934 (47 U.S.C. 153(43)) and ‘telecommunications service’ as such term is defined in section 3(46) of such Act (47 U.S.C. 153(46)), and includes communications services (as defined in section 4251 of the Internal Revenue Code of 1986 (26 U.S.C. 4251)).
+Telecommunications.—The term ‘telecommunications’ means ‘telecommunications’ as such term is defined in section 3(43) of the Communications Act of 1934 (47 U.S.C. 153(43) \[now 153(50)\]) and ‘telecommunications service’ as such term is defined in section 3(46) of such Act (47 U.S.C. 153(46) \[now 153(53)\]), and includes communications services (as defined in section 4251 of the Internal Revenue Code of 1986 (26 U.S.C. 4251)).
 
 &emsp;“(10)
 

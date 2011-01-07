@@ -6,5 +6,5 @@ A summary of all actions taken under the provisions of this subchapter and actio
 
 #### Amendments
 
-1980—Pub. L. 96–470 substituted provision requiring a summary of all action taken and action planned be included in the annual report required by section 7267 of this title for provision requiring the Chairman to report annually to the President and Congress on all action taken, action planned, and a projection, to the extent practical, of activities and funding requirements for the ensuing five years.
+<b>1980</b>—Pub. L. 96–470 substituted provision requiring a summary of all action taken and action planned be included in the annual report required by section 7267 of this title for provision requiring the Chairman to report annually to the President and Congress on all action taken, action planned, and a projection, to the extent practical, of activities and funding requirements for the ensuing five years.
 

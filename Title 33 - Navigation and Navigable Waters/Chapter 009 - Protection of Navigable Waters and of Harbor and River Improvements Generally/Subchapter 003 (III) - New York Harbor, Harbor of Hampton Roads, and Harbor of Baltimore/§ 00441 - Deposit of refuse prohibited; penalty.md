@@ -10,7 +10,7 @@ Section 1 of act June 29, 1888, superseded act Aug. 5, 1886, ch. 929, §3, 24 St
 
 #### Amendments
 
-1958—Pub. L. 85–802 substituted “waters of any harbor subject to this subchapter,” for “tidal waters of the harbor of New York, or its adjacent or tributary waters, or in those of long Island Sound,”.
+<b>1958</b>—Pub. L. 85–802 substituted “waters of any harbor subject to this subchapter,” for “tidal waters of the harbor of New York, or its adjacent or tributary waters, or in those of long Island Sound,”.
 
 #### Effective Date of 1958 Amendment
 

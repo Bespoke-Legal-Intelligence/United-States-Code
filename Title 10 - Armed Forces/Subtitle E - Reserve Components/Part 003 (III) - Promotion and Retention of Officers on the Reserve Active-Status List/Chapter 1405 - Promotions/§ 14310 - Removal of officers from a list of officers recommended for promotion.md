@@ -20,9 +20,13 @@ Months.—(1) If an officer whose name is on a list of officers approved for pro
 
 (d)
 
+Administrative Removal.—Under regulations prescribed by the Secretary concerned, if an officer on the reserve active-status list is discharged or dropped from the rolls or transferred to a retired status after having been recommended for promotion to a higher grade under this chapter or having been found qualified for Federal recognition in the higher grade under title 32, but before being promoted, the officer's name shall be administratively removed from the list of officers recommended for promotion by a selection board.
+
+(e)
+
 Continued Eligibility for Promotion.—An officer whose name is removed from a list under subsection (a), (b), or (c) continues to be eligible for consideration for promotion. If that officer is recommended for promotion by the next selection board convened for that officer's grade and competitive category and the officer is promoted, the Secretary of the military department concerned may, upon the promotion, grant the officer the same date of rank, the same effective date for the pay and allowances of the grade to which promoted, and the same position on the reserve active-status list, as the officer would have had if the officer's name had not been removed from the list.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2938; amended Pub. L. 109–364, div. A, title V, §515(b), Oct. 17, 2006, 120 Stat. 2186; Pub. L. 110–181, div. A, title X, §1063(a)(16), Jan. 28, 2008, 122 Stat. 322.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2938; amended Pub. L. 109–364, div. A, title V, §515(b), Oct. 17, 2006, 120 Stat. 2186; Pub. L. 110–181, div. A, title X, §1063(a)(16), Jan. 28, 2008, 122 Stat. 322; Pub. L. 111–383, div. A, title V, §504(b), title X, §1075(f)(7), Jan. 7, 2011, 124 Stat. 4208, 4376.)
 
 #### Prior Provisions
 
@@ -30,9 +34,15 @@ Provisions similar to those in this section were contained in section 5905 of th
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–181, which directed amendment of par. (1) of subsec. (d) by inserting comma after “(a)”, was executed by amending text of subsec. (d), which does not contain any pars., to reflect the probable intent of Congress.
+<b>2011</b>—Subsec. (d). Pub. L. 111–383, §504(b)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-2006—Subsec. (c). Pub. L. 109–364, §515(b)(1)(B), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (e). Pub. L. 111–383, §1075(f)(7), made technical amendment to directory language of Pub. L. 110–181, §1063(a)(16). See 2008 Amendment note below.
+
+Pub. L. 111–383, §504(b)(1), redesignated subsec. (d) as (e).
+
+<b>2008</b>—Subsec. (d). Pub. L. 110–181, §1063(a)(16), as amended by Pub. L. 111–383, §1075(f)(7), inserted comma after “(a)”.
+
+<b>2006</b>—Subsec. (c). Pub. L. 109–364, §515(b)(1)(B), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 109–364, §515(b)(2), which directed amendment of par. (1) of subsec. (d) by substituting “(b), or (c)” for “or (b)”, was executed by amending text of subsec. (d), which does not contain any pars., to reflect the probable intent of Congress.
 

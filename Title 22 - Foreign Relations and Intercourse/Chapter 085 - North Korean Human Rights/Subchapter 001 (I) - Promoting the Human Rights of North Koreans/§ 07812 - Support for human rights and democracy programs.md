@@ -2,7 +2,7 @@
 
 #### (a) Support
 
-The President is authorized to provide grants to private, nonprofit organizations to supportprograms that promote human rights, democracy, rule of law, and the development of a market economy in North Korea. Such programs may include appropriate educational and cultural exchange programs with North Korean participants, to the extent not otherwise prohibited by law.
+The President is authorized to provide grants to private, nonprofit organizations to support programs that promote human rights, democracy, rule of law, and the development of a market economy in North Korea. Such programs may include appropriate educational and cultural exchange programs with North Korean participants, to the extent not otherwise prohibited by law.
 
 #### (b) Authorization of appropriations
 
@@ -18,5 +18,5 @@ The President is authorized to provide grants to private, nonprofit organization
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–346 inserted “and $2,000,000 for each of fiscal years 2009 through 2012” after “2008”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–346 inserted “and $2,000,000 for each of fiscal years 2009 through 2012” after “2008”.
 

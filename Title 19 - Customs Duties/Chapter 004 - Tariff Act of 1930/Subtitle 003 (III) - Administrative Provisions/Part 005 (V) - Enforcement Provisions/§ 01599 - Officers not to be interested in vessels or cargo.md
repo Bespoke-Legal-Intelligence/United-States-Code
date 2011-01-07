@@ -10,5 +10,5 @@ Identical provisions were contained in R.S. §2638, which was superseded by act 
 
 #### Amendments
 
-1978—Pub. L. 95–410 excepted from the interest prohibition ownership of a yacht or other pleasure boat.
+<b>1978</b>—Pub. L. 95–410 excepted from the interest prohibition ownership of a yacht or other pleasure boat.
 

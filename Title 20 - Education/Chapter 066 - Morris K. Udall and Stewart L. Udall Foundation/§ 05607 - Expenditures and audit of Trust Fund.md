@@ -12,9 +12,9 @@ The activities of the Foundation and the Center under this chapter may be audite
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–90 inserted before period at end “, including a reasonable amount for official reception and representation expenses, as determined by the Board, not to exceed $5,000 for a fiscal year”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–90 inserted before period at end “, including a reasonable amount for official reception and representation expenses, as determined by the Board, not to exceed $5,000 for a fiscal year”.
 
-2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading and in two places in text.
+<b>2004</b>—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading and in two places in text.
 
-1998—Subsec. (a). Pub. L. 105–156 substituted “Trust Fund” for “Fund”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–156 substituted “Trust Fund” for “Fund”.
 

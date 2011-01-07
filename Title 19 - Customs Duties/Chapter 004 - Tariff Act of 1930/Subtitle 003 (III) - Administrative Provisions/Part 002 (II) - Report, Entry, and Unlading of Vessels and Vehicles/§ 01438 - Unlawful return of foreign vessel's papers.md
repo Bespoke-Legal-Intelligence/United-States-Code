@@ -6,13 +6,13 @@ It shall not be lawful for any foreign consul to deliver to the master of any fo
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §438, 42Stat. 952. That section was superseded by section 438 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §438, 42 Stat. 952. That section was superseded by section 438 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 
-1993—Pub. L. 103–182 substituted “section 1434” for “section 1435”, inserted “, or regulations issued thereunder,” before “until such master”, and substituted “the Customs Service in the port in which such vessel has entered” for “the appropriate customs officer of the port where such vessel has been entered”.
+<b>1993</b>—Pub. L. 103–182 substituted “section 1434” for “section 1435”, inserted “, or regulations issued thereunder,” before “until such master”, and substituted “the Customs Service in the port in which such vessel has entered” for “the appropriate customs officer of the port where such vessel has been entered”.
 
-1970—Pub. L. 91–271 substituted reference to appropriate customs officers for reference to collector.
+<b>1970</b>—Pub. L. 91–271 substituted reference to appropriate customs officers for reference to collector.
 
 #### Effective Date of 1970 Amendment
 
@@ -20,5 +20,5 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

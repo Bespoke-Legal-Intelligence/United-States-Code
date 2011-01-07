@@ -66,5 +66,5 @@ A State that receives a grant under this chapter may use—
 
 #### Amendments
 
-2007—Subsec. (b)(1). Pub. L. 110–134 substituted “entities funded under section 9835(a)(2)(B)(vi) of title 42” for “entities funded under section 9835(a)(5) of title 42”.
+<b>2007</b>—Subsec. (b)(1). Pub. L. 110–134 substituted “entities funded under section 9835(a)(2)(B)(vi) of title 42” for “entities funded under section 9835(a)(5) of title 42”.
 

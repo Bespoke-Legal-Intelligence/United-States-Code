@@ -38,3 +38,5 @@ The Federal Land Exchange Facilitation Act of 1988, referred to in subsec. (c)(2
 
 This chapter, referred to in subsec. (d), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 106–248, which enacted this chapter, to reflect the probable intent of Congress.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

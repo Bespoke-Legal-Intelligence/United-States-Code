@@ -68,9 +68,9 @@ After the effective date of the rules required to be prescribed under subsection
 
 #### Amendments
 
-1988—Subsec. (c). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards” in two places.
+<b>1988</b>—Subsec. (c). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards” in two places.
 
 #### Applicability of Labeling Standards
 
-Pub. L. 96–463, §4(c), Oct. 15, 1980, 94 Stat. 2056, provided: “Before the effective date of the labeling standards required to be prescribed under section 383(d)(1)(A) of the Energy Policy and Conservation Act \[subsec. (d)(1)(A) of this section\], no requirement of any rule or order of the Federal Trade Commission may apply, or remain applicable, to any container of recycled oil (as defined in section 383(b) of such Act \[subsec. (b) of thissection\]) if such requirement provides that the container must bear any label referring to the fact that it has been derived from previously used oil. Nothing in this subsection \[this note\] shall be construed to affect any labeling requirement applicable to recycled oil under any authority of law to the extent such requirement relates to fitness for intended use or any other performance characteristic of such oil or to any characteristic of such oil other than that referred to in the preceding sentence.”
+Pub. L. 96–463, §4(c), Oct. 15, 1980, 94 Stat. 2056, provided: “Before the effective date of the labeling standards required to be prescribed under section 383(d)(1)(A)of the Energy Policy and Conservation Act \[subsec. (d)(1)(A) of this section\], no requirement of any rule or order of the Federal Trade Commission may apply, or remain applicable, to any container of recycled oil (as defined in section 383(b) of such Act \[subsec. (b) of this section\]) if such requirement provides that the container must bear any label referring to the fact that it has been derived from previously used oil. Nothing in this subsection \[this note\] shall be construed to affect any labeling requirement applicable to recycled oil under any authority of law to the extent such requirement relates to fitness for intended use or any other performance characteristic of such oil or to any characteristic of such oil other than that referred to in the preceding sentence.”
 

@@ -54,11 +54,11 @@ Moneys received in payment for—
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–357 inserted “6306,” before “7651”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–357 inserted “6306,” before “7651”.
 
-1988—Subsec. (d). Pub. L. 100–690 added subsec. (d).
+<b>1988</b>—Subsec. (d). Pub. L. 100–690 added subsec. (d).
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(a)(59), (b)(13)(A), struck out “4735, 4762” after “and in sections”, and “or his delegate” after “Secretary” in two places.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(a)(59), (b)(13)(A), struck out “4735, 4762” after “and in sections”, and “or his delegate” after “Secretary” in two places.
 
 Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
@@ -66,9 +66,9 @@ Subsec. (c)(1). Pub. L. 94–455, §1202(h)(5), substituted “section 6103(p) (
 
 Subsec. (c)(4). Pub. L. 94–528 added par. (4).
 
-1966—Subsecs. (a), (b)(4). Pub. L. 89–719 inserted reference to section 7810 in subsec. (a) and added subsec. (b)(4).
+<b>1966</b>—Subsecs. (a), (b)(4). Pub. L. 89–719 inserted reference to section 7810 in subsec. (a) and added subsec. (b)(4).
 
-1962—Subsec. (a). Pub. L. 87–870, §3(b)(1), substituted “subsections (b) and (c) and in” for “subsection (b),”.
+<b>1962</b>—Subsec. (a). Pub. L. 87–870, §3(b)(1), substituted “subsections (b) and (c) and in” for “subsection (b),”.
 
 Subsec. (c). Pub. L. 87–870, §3(b)(2), added subsec. (c).
 

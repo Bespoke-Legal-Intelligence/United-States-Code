@@ -10,5 +10,5 @@ Section is a combination provision, the first sentence being derived from sectio
 
 #### Amendments
 
-1998—Pub. L. 105–312 substituted “National Wildlife” for “Wild Life”.
+<b>1998</b>—Pub. L. 105–312 substituted “National Wildlife” for “Wild Life”.
 

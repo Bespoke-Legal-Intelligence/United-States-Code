@@ -166,7 +166,7 @@ In this subsection: <sup>1</sup>
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), in carrying out this section, the Director may solicit, accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal,for the purpose of facilitating the work of the Fellowship Programs.
+&emsp;Subject to paragraph (2), in carrying out this section, the Director may solicit, accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of facilitating the work of the Fellowship Programs.
 
 #### (2) Limitation
 

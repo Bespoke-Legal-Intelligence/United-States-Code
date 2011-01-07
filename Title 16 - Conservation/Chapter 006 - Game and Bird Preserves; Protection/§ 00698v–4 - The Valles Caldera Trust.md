@@ -80,7 +80,7 @@ The members of the Board of Trustees, the executive director, and one additional
 
 #### (2) Fund
 
-&emsp;There is hereby established in the Treasury of the United States a special interest bearing fund entitled “Valles Caldera Fund” which shall be available, without further appropriation for any purpose consistent with the purposes of sections 698v to 698v–10 of this title. At the option of the Trust, or the Secretary in accordance with section 698v–8 of this title, the Secretary of the Treasury shall invest excess monies of the Trust in such account, which shall bear interest at rates determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturity.
+&emsp;There is hereby established in the Treasury of the United States a special interest bearing fund entitled “Valles Caldera Fund” which shall be available, without further appropriation for any purpose consistent with the purposes of sections 698v to 698v–10 of this title.At the option of the Trust, or the Secretary in accordance with section 698v–8 of this title, the Secretary of the Treasury shall invest excess monies of the Trust in such account, which shall bear interest at rates determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturity.
 
 #### (i) Restrictions on disposition of receipts
 
@@ -110,13 +110,9 @@ The Trust shall have the sole and exclusive right to use the words “Valles Cal
 
 (Pub. L. 106–248, title I, §106, July 25, 2000, 114 Stat. 603; Pub. L. 109–132, §2(b)–(d), Dec. 20, 2005, 119 Stat. 2570, 2571.)
 
-#### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 #### Amendments
 
-2005—Subsec. (e)(4). Pub. L. 109–132, §2(b), added par. (4).
+<b>2005</b>—Subsec. (e)(4). Pub. L. 109–132, §2(b), added par. (4).
 
 Subsec. (g). Pub. L. 109–132, §2(c), substituted “The members of the Board of Trustees, the executive director, and one additional employee of the Trust in an executive position designated by the Board of Trustees or the executive director may solicit” for “The Trust may solicit”.
 

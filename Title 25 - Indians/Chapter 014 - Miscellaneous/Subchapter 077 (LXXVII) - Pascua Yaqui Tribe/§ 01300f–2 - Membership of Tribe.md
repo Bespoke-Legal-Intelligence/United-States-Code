@@ -14,5 +14,5 @@ For the purposes of section 1300f of this title, membership of the Pascua Yaqui 
 
 #### Amendments
 
-1994—Pub. L. 103–357 added par. (C) and redesignated former par. (C) as (D).
+<b>1994</b>—Pub. L. 103–357 added par. (C) and redesignated former par. (C) as (D).
 

@@ -6,17 +6,17 @@ The Secretary of the Army is authorized to allot not to exceed $7,500,000 from a
 
 #### Amendments
 
-1986—Pub. L. 99–662 substituted “$7,500,000” for “$5,000,000” and “$500,000” for “$250,000”.
+<b>1986</b>—Pub. L. 99–662 substituted “$7,500,000” for “$5,000,000” and “$500,000” for “$250,000”.
 
-1974—Pub. L. 93–251 substituted “$5,000,000” for “$2,000,000” and “$250,000” for “$100,000”.
+<b>1974</b>—Pub. L. 93–251 substituted “$5,000,000” for “$2,000,000” and “$250,000” for “$100,000”.
 
-1954—Act Sept. 3, 1954, substituted “$2,000,000” for “$1,000,000” and “$100,000” for “$50,000”.
+<b>1954</b>—Act Sept. 3, 1954, substituted “$2,000,000” for “$1,000,000” and “$100,000” for “$50,000”.
 
-1946—Act July 24, 1946, substituted “$1,000,000” for “$500,000” and “$50,000” for “$25,000”.
+<b>1946</b>—Act July 24, 1946, substituted “$1,000,000” for “$500,000” and “$50,000” for “$25,000”.
 
-1941—Act Aug. 18, 1941, substituted “$500,000” for “$300,000”.
+<b>1941</b>—Act Aug. 18, 1941, substituted “$500,000” for “$300,000”.
 
-1939—Act Aug. 11, 1939, authorized Secretary to allot instead of to approve amount for flood control and limited amount allotted instead of expended for any single tributary.
+<b>1939</b>—Act Aug. 11, 1939, authorized Secretary to allot instead of to approve amount for flood control and limited amount allotted instead of expended for any single tributary.
 
 #### Change of Name
 

@@ -88,7 +88,7 @@ Screener requirements.—Notwithstanding any provision of law, an individual may
 
 &emsp;&emsp;(A) The individual shall possess a high school diploma, a general equivalency diploma, or experience that the Under Secretary has determined to be sufficient for the individual to perform the duties of the position.
 
-&emsp;&emsp;(B) The individual shall possess basic aptitudes and physical abilities, including color perception, visual and aural acuity, physical coordination, and motor skills, to the following standards:
+&emsp;&emsp;(B) The individual shall possess basic aptitudes and physical abilities, including colorperception, visual and aural acuity, physical coordination, and motor skills, to the following standards:
 
 &emsp;&emsp;&emsp;(i) Screeners operating screening equipment shall be able to distinguish on the screening equipment monitor the appropriate imaging standard specified by the Under Secretary.
 
@@ -230,7 +230,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §316(c); added Aug. 5, 1974, Pub
 
 In subsection (a), before clause (1), the words “Not later than 270 days after November 16, 1990” are omitted as obsolete. The words “contracting for” are substituted for “contracting of” for clarity and consistency in the revised title.
 
-In subsection (c)(1)(A), the words “individuals employed” are substituted for “personnel employed by him . . . and for other personnel, including State, local,and private law enforcement personnel, whose services may be utilized” for clarity and consistency in the revised title and with other titles of the United States Code.
+In subsection (c)(1)(A), the words “individuals employed” are substituted for “personnel employed by him . . . and for other personnel, including State, local, and private law enforcement personnel, whose services may be utilized” for clarity and consistency in the revised title and with other titles of the United States Code.
 
 In subsection (c)(1)(B), the words “individuals eligible” are substituted for “personnel whose services are utilized to enforce any such transportation security program, including State, local, and private law enforcement personnel . . . for personnel eligible” for clarity and consistency in the revised title and with other titles of the Code.
 
@@ -244,9 +244,9 @@ The date of enactment of the Aviation and Transportation Security Act, referred 
 
 #### Amendments
 
-2002—Subsec. (e)(2)(A)(ii). Pub. L. 107–296 substituted “citizen of the United States or a national of the United States, as defined in section 1101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22))” for “citizen of the United States”.
+<b>2002</b>—Subsec. (e)(2)(A)(ii). Pub. L. 107–296 substituted “citizen of the United States or a national of the United States, as defined in section 1101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22))” for “citizen of the United States”.
 
-2001—Subsec. (a). Pub. L. 107–71, §101(f)(7), (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration” in introductory provisions.
+<b>2001</b>—Subsec. (a). Pub. L. 107–71, §101(f)(7), (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration” in introductory provisions.
 
 Subsec. (b). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” in two places.
 
@@ -268,7 +268,7 @@ Pub. L. 107–71, §111(a)(1), redesignated subsec. (f) as (i) relating to acces
 
 Subsec. (j). Pub. L. 107–71, §111(a)(2), added subsec. (j).
 
-2000—Subsecs. (e), (f). Pub. L. 106–528 added subsecs. (e) and (f).
+<b>2000</b>—Subsecs. (e), (f). Pub. L. 106–528 added subsecs. (e) and (f).
 
 #### Effective Date of 2002 Amendment
 

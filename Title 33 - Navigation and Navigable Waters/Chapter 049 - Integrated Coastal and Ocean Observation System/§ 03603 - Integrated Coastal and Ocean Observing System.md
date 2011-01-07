@@ -188,7 +188,7 @@ For purposes of determining liability arising from the dissemination and use of 
 
 #### (f) Limitation
 
-Nothing in this chapter shall be construed to invalidate existing certifications, contracts, or agreements between regional information coordination entities and other elements of the System.
+Nothing in this chapter shall be construed to invalidate existing certifications, contracts, oragreements between regional information coordination entities and other elements of the System.
 
 (Pub. L. 111–11, title XII, §12304, Mar. 30, 2009, 123 Stat. 1429.)
 

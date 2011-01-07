@@ -20,9 +20,9 @@ Funds To Remain Available.—Funds made available under this section shall remai
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–432 substituted “$30,000,000” for “$70,000,000”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–432 substituted “$30,000,000” for “$70,000,000”.
 
-2005—Pub. L. 109–59 amended heading and text of section generally. Prior to amendment, text consisted of subsecs. (a) to (h) relating to authorization of appropriations for fiscal years 1995 through 2001 and availability of funds.
+<b>2005</b>—Pub. L. 109–59 amended heading and text of section generally. Prior to amendment, text consisted of subsecs. (a) to (h) relating to authorization of appropriations for fiscal years 1995 through 2001 and availability of funds.
 
-1998—Subsecs. (d) to (h). Pub. L. 105–178 added subsecs. (d) to (g) and redesignated former subsec. (d) as (h).
+<b>1998</b>—Subsecs. (d) to (h). Pub. L. 105–178 added subsecs. (d) to (g) and redesignated former subsec. (d) as (h).
 

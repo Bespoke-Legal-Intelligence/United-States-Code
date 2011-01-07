@@ -22,7 +22,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) is eligible for payments under a State plan approved under this subchapter,
 
-&emsp;&emsp;(B) provides services of the type described in subparagraph (A) or (B) of section 1396d(a)(2) of this title or in section 1396d(a)(9) of this title,
+&emsp;&emsp;(B) provides services of the type described in subparagraph (A) or (B) of section1396d(a)(2) of this title or in section 1396d(a)(9) of this title,
 
 &emsp;&emsp;(C) is determined by the State agency to be capable of making determinations of the type described in paragraph (1)(A), and
 
@@ -76,7 +76,15 @@ Notwithstanding any other provision of this subchapter, ambulatory prenatal care
 
 > shall be treated as medical assistance provided by such plan for purposes of section 1396b of this title.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1920, as added Pub. L. 99–509, title IX, §9407(b), Oct. 21, 1986, 100 Stat. 2058; amended Pub. L. 100–360, title IV, §411(k)(16)(A), (B), July 1, 1988, 102 Stat. 799; Pub. L. 100–485, title VI, §608(d)(26)(L), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–508, title IV, §4605(a), (b), Nov. 5, 1990, 104 Stat. 1388–169; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(q)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–397; Pub. L. 111–3, title I, §113(b)(2), Feb. 4, 2009, 123 Stat. 34.)
+#### (e) Option to provide presumptive eligibility
+
+If the State has elected the option to provide a presumptive eligibility period under this section or section 1396r–1a of this title, the State may elect to provide a presumptive eligibility period (as defined in subsection (b)(1)) for individuals who are eligible for medical assistance under clause (i)(VIII) or clause (ii)(XX) of subsection (a)(10)(A) <sup>1</sup> or section 1396u–1 of this title in the same manner as the State provides for such a period under this section or section 1396r–1a of this title, subject to such guidance as the Secretary shall establish.
+
+(Aug. 14, 1935, ch. 531, title XIX, §1920, as added Pub. L. 99–509, title IX, §9407(b), Oct. 21, 1986, 100 Stat. 2058; amended Pub. L. 100–360, title IV, §411(k)(16)(A), (B), July 1, 1988, 102 Stat. 799; Pub. L. 100–485, title VI, §608(d)(26)(L), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–508, title IV, §4605(a), (b), Nov. 5, 1990, 104 Stat. 1388–169; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(q)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–397; Pub. L. 111–3, title I, §113(b)(2), Feb. 4, 2009, 123 Stat. 34; Pub. L. 111–148, title II, §§2001(a)(4)(B), (e)(2)(C), 2004(b), Mar. 23, 2010, 124 Stat. 274, 279, 283.)
+
+#### Amendment of Subsection (e)
+
+<i>Pub. L. 111–148, title II, §2004(b), (d), title X, §10201(a)(3), Mar. 23, 2010, 124 Stat. 283, 918, provided that, effective Jan. 1, 2014, subsection (e) of this section is amended by inserting “, clause (i)(IX),” after “clause (i)(VIII)”.</i>
 
 #### References in Text
 
@@ -92,11 +100,15 @@ A prior section 1920 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 #### Amendments
 
-2009—Subsec. (b). Pub. L. 111–3 inserted concluding provisions.
+<b>2010</b>—Subsec. (e). Pub. L. 111–148, §2001(e)(2)(C), inserted “or clause (ii)(XX)” after “clause (i)(VIII)”.
 
-1999—Subsec. (b)(2)(D)(i)(I). Pub. L. 106–113 substituted “section 254b or 254c of this title,” for “section 254b, 254c, or 256 of this title,”.
+Pub. L. 111–148, §2001(a)(4)(B), added subsec. (e).
 
-1990—Subsec. (b)(1)(B). Pub. L. 101–508, §4605(a)(1), inserted “or” at end of cl. (i), redesignated cl. (iii) as (ii) and amended it generally, and struck out former cl. (ii). Prior to amendment, cls. (ii) and (iii) read as follows:
+<b>2009</b>—Subsec. (b). Pub. L. 111–3 inserted concluding provisions.
+
+<b>1999</b>—Subsec. (b)(2)(D)(i)(I). Pub. L. 106–113 substituted “section 254b or 254c of this title,” for “section 254b, 254c, or 256 of this title,”.
+
+<b>1990</b>—Subsec. (b)(1)(B). Pub. L. 101–508, §4605(a)(1), inserted “or” at end of cl. (i), redesignated cl. (iii) as (ii) and amended it generally, and struck out former cl. (ii). Prior to amendment, cls. (ii) and (iii) read as follows:
 
 “(ii) the day that is 45 days after the date on which the provider makes the determination referred to in subparagraph (A), or
 
@@ -108,7 +120,7 @@ Subsec. (c)(3). Pub. L. 101–508, §4605(b), inserted before period at end “,
 
 Pub. L. 101–508, §4605(a)(2), substituted “by not later than the last day of the month following the month during which” for “within 14 calendar days after the date on which”.
 
-1988—Subsec. (b)(2)(D)(i). Pub. L. 100–360, §411(k)(16)(B)(i), substituted “section 254b, 254c, or 256 of this title,” for “section 254b of this title or section 254c of this title, or” in subcl. (I), substituted “chapter, or” for “chapter;” in subcl. (II), and added subcl. (III).
+<b>1988</b>—Subsec. (b)(2)(D)(i). Pub. L. 100–360, §411(k)(16)(B)(i), substituted “section 254b, 254c, or 256 of this title,” for “section 254b of this title or section 254c of this title, or” in subcl. (I), substituted “chapter, or” for “chapter;” in subcl. (II), and added subcl. (III).
 
 Subsec. (b)(2)(D)(ii)(II). Pub. L. 100–360, §411(k)(16)(B)(ii), as amended by Pub. L. 100–485, §608(d)(26)(L)(i), struck out “or” after “1973;”.
 
@@ -117,6 +129,10 @@ Subsec. (b)(2)(D)(iii). Pub. L. 100–360, §411(k)(16)(B)(iii), as added by Pub
 Subsec. (b)(2)(D)(iv). Pub. L. 100–360, §411(k)(16)(B)(iv), formerly §411(k)(16)(B)(iii), as redesignated by Pub. L. 100–485, §608(d)(26)(L)(ii), added cl. (iv).
 
 Subsec. (d)(1)(B). Pub. L. 100–360, §411(k)(16)(A), substituted “by a provider that is eligible for payments under the State plan” for “by a qualified provider”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 2004(b) of Pub. L. 111–148 effective Jan. 1, 2014, see section 2004(d) of Pub. L. 111–148, set out as an Effective and Termination Dates of 2010 Amendment note under section 1396a of this title.
 
 #### Effective Date of 2009 Amendment
 
@@ -139,4 +155,6 @@ Section 411(k)(16)(C) of Pub. L. 100–360 provided that: “The amendments made
 #### Effective Date
 
 Section applicable to ambulatory prenatal care furnished in calendar quarters beginning on or after Apr. 1, 1987, without regard to whether or not final regulations to carry out such section have been promulgated, see section 9407(d) of Pub. L. 99–509, set out as an Effective Date of 1986 Amendment note under section 1396a of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably means subsection (a)(10)(A) of section 1396a of this title.</i>
 

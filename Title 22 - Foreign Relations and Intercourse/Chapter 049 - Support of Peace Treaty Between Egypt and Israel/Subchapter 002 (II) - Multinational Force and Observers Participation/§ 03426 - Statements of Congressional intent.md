@@ -6,7 +6,7 @@ Nothing in this subchapter is intended to signify approval by the Congress of an
 
 #### (b) Limitations on United States participation
 
-The limitations contained in this subchapter with respect to United States participation in the Multinational Force and Observers apply to the exercise of the authorities provided by this subchapter or provided by any other provision of law. No funds appropriated by the Congress may be obligated or expended for any activity which is contrary to the limitations contained in this subchapter.
+The limitations contained in this subchapter with respect to United States participation in the Multinational Force and Observers apply to the exercise of the authorities provided by this subchapter or provided by any other provision of law. No funds appropriated by the Congress maybe obligated or expended for any activity which is contrary to the limitations contained in this subchapter.
 
 #### (c) War Powers Resolution
 

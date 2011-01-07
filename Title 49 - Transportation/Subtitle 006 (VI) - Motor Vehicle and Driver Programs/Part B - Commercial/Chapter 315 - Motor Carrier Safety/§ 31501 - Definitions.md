@@ -52,11 +52,11 @@ This amends 49:31501(1) to correct an erroneous cross-reference.
 
 #### Amendments
 
-1995—Par. (2). Pub. L. 104–88, §308(k)(1), substituted “13102” for “10102”.
+<b>1995</b>—Par. (2). Pub. L. 104–88, §308(k)(1), substituted “13102” for “10102”.
 
 Par. (3)(A). Pub. L. 104–88, §308(k)(2), substituted “13501” for “10521(a)”.
 
-1994—Pub. L. 103–272 renumbered section 3101 of this title as this section and amended it generally, restating it without substantive change.
+<b>1994</b>—Pub. L. 103–272 renumbered section 3101 of this title as this section and amended it generally, restating it without substantive change.
 
 Par. (1). Pub. L. 103–429 substituted “section 3(f)” for “section 203(f)”.
 

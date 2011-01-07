@@ -66,9 +66,9 @@ Nothing in this section or in section 4722 or 4723 of this title shall be constr
 
 &emsp;(4) require or request any State or local government employee to disclose his race, religion, or national origin, or the race, religion, or national origin, of any of his forebears;
 
-&emsp;(5) require or request any State or local government employee, or any person applying for employment as a State or local government employee, to submit to any interrogation or examination or to take any psychological testor any polygraph test which is designed to elicit from him information concerning his personal relationship with any person connected with him by blood or marriage, or concerning his religious beliefs or practices, or concerning his attitude or conduct with respect to sexual matters; or
+&emsp;(5) require or request any State or local government employee, or any person applying for employment as a State or local government employee, to submit to any interrogation or examination or to take any psychological test or any polygraph test which is designed to elicit from him information concerning his personal relationship with any person connected with him by blood or marriage, or concerning his religious beliefs or practices, or concerning his attitude or conduct with respect to sexual matters; or
 
-&emsp;(6) require or request any State or local government employee to participate in any way in any activities or undertakings unless such activities or undertakings are related to the performance of official duties to which he is or may be assigned or to the development of skills, knowledge, or abilities which qualify him for the performance of such duties.
+&emsp;(6) require or request any State or local government employee to participate in any way in any activities or undertakings unless such activities or undertakings are related to the performance of official duties to which he is or may be assigned or to the development ofskills, knowledge, or abilities which qualify him for the performance of such duties.
 
 #### (h) Grants-in-aid; abolition of certain requirements
 
@@ -110,9 +110,9 @@ In subsec. (h)(3), “sections 3141–3144, 3146, and 3147 of title 40” substi
 
 #### Amendments
 
-2008—Pub. L. 110–246, §4002(b)(1)(C), (2)(CC), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act”.
+<b>2008</b>—Pub. L. 110–246, §4002(b)(1)(C), (2)(CC), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act”.
 
-1978—Subsecs. (b) to (h). Pub. L. 95–454 added subsec. (b), redesignated former subsecs. (b) to (g) as (c) to (h), respectively, and in subsec. (h), as so redesignated, substituted provisions respecting abolition of certain requirements respecting grants-in-aid, for provisions setting forth effective date of this section as 60 days after Jan. 5, 1971.
+<b>1978</b>—Subsecs. (b) to (h). Pub. L. 95–454 added subsec. (b), redesignated former subsecs. (b) to (g) as (c) to (h), respectively, and in subsec. (h), as so redesignated, substituted provisions respecting abolition of certain requirements respecting grants-in-aid, for provisions setting forth effective date of this section as 60 days after Jan. 5, 1971.
 
 #### Change of Name
 
@@ -120,7 +120,7 @@ In subsec. (h)(3), “sections 3141–3144, 3146, and 3147 of title 40” substi
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by section 4002(b)(1)(C), (2)(CC) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
@@ -131,4 +131,6 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 #### Transfer of Functions
 
 “Office”, meaning Office of Personnel Management, substituted for “Commission”, meaning Civil Service Commission, in subsecs. (a) and (c) to (e) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission and Chairman thereof to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

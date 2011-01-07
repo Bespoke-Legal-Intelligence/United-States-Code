@@ -48,5 +48,5 @@ In subsection (b)(2), the words “imposed or compromised” are substituted for
 
 #### Amendments
 
-2004—Subsec. (b)(1). Pub. L. 108–458 substituted “Secretary of Homeland Security and, for a violation relating to section 46504, the Secretary of Transportation,” for “Secretary of Transportation”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–458 substituted “Secretary of Homeland Security and, for a violation relating to section 46504, the Secretary of Transportation,” for “Secretary of Transportation”.
 

@@ -10,5 +10,5 @@ For purposes of this subchapter:
 
 #### Amendments
 
-1993—Pub. L. 103–43 substituted provisions defining “infection” and “treatment” for former provisions which read as follows: “For purposes of this subchapter, the term ‘infection with the etiologic agent for acquired immune deficiency syndrome’ includes any condition arising from infection with such etiologic agent”.
+<b>1993</b>—Pub. L. 103–43 substituted provisions defining “infection” and “treatment” for former provisions which read as follows: “For purposes of this subchapter, the term ‘infection with the etiologic agent for acquired immune deficiency syndrome’ includes any condition arising from infection with such etiologic agent”.
 

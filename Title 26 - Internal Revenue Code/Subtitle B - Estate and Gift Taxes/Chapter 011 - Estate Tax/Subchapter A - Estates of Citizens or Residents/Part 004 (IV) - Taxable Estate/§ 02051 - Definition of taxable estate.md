@@ -6,7 +6,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 #### Amendments
 
-1978—Pub. L. 95–600 struck out “exemption and” after “gross estate the”.
+<b>1978</b>—Pub. L. 95–600 struck out “exemption and” after “gross estate the”.
 
 #### Effective Date of 1978 Amendment
 

@@ -28,7 +28,7 @@ In considering an application submitted by a State under section 3796ff–1 of t
 
 #### Amendments
 
-2006—Subsec. (e). Pub. L. 109–162 added subsec. (e).
+<b>2006</b>—Subsec. (e). Pub. L. 109–162 added subsec. (e).
 
 #### Effective Date of 2006 Amendment
 

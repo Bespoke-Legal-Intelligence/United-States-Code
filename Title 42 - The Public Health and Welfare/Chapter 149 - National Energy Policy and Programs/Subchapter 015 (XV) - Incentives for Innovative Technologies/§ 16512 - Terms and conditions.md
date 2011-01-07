@@ -90,7 +90,7 @@ The term of an obligation shall require full repayment over a period not to exce
 
 &emsp;&emsp;(iii) the probable net benefit to the Federal Government in paying the principal and interest will be greater than that which would result in the event of a default;
 
-&emsp;&emsp;(B) the amount of the payment that the Secretary is authorized to pay shall be nogreater than the amount of principal and interest that the borrower is obligated to pay under the agreement being guaranteed; and
+&emsp;&emsp;(B) the amount of the payment that the Secretary is authorized to pay shall be no greater than the amount of principal and interest that the borrower is obligated to pay under the agreement being guaranteed; and
 
 &emsp;&emsp;(C) the borrower agrees to reimburse the Secretary for the payment (including interest) on terms and conditions that are satisfactory to the Secretary.
 
@@ -150,5 +150,5 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (k), is set out 
 
 #### Amendments
 
-2009—Subsec. (k). Pub. L. 111–85 added subsec. (k).
+<b>2009</b>—Subsec. (k). Pub. L. 111–85 added subsec. (k).
 

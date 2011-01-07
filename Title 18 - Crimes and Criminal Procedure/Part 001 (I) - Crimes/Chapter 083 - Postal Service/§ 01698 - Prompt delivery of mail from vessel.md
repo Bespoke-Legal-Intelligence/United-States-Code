@@ -12,7 +12,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322, §330016(1)(C), substituted “fined under this title” for “fined not more than $150”.
+<b>1994</b>—Pub. L. 103–322, §330016(1)(C), substituted “fined under this title” for “fined not more than $150”.
 
 Pub. L. 103–322, §330004(10), struck out second par. which read as follows: “For each letter or package so delivered he shall receive two cents unless the same is carried under contract.”
 

@@ -2,7 +2,7 @@
 
 #### (a) Time and place
 
-The time and place of examination pursuant to the provisions of section 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7602 shall be such time and place as may be fixed by the Secretary and as are reasonable under the circumstances. In the case of a summons under authority of paragraph (2) of section 7602, or under the corresponding authority of section 6420(e)(2), 6421(g)(2), or 6427(j)(2), the date fixed for appearance before the Secretary shall not be less than 10 days from the date of the summons.
+The time and place of examination pursuant to the provisions of section 6420(e)(2), 6421(g)(2),6427(j)(2), or 7602 shall be such time and place as may be fixed by the Secretary and as are reasonable under the circumstances. In the case of a summons under authority of paragraph (2) of section 7602, or under the corresponding authority of section 6420(e)(2), 6421(g)(2), or 6427(j)(2), the date fixed for appearance before the Secretary shall not be less than 10 days from the date of the summons.
 
 #### (b) Restrictions on examination of taxpayer
 
@@ -16,41 +16,41 @@ No taxpayer shall be subjected to unnecessary examination or investigations, and
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–647, §1017(c)(12), made technical correction to language of Pub. L. 99–514, §1703(e)(2)(G), see 1986 Amendment note below.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1017(c)(12), made technical correction to language of Pub. L. 99–514, §1703(e)(2)(G), see 1986 Amendment note below.
 
 Pub. L. 100–647, §1017(c)(9), substituted “6421(g)(2)” for “6421(f)(2)” in two places.
 
-1986—Subsec. (a). Pub. L. 99–514, as amended by Pub. L. 100–647, §1017(c)(12), substituted “6427(j)(2)” for “6427(i)(2)” in two places.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, as amended by Pub. L. 100–647, §1017(c)(12), substituted “6427(j)(2)” for “6427(i)(2)” in two places.
 
-1984—Subsec. (a). Pub. L. 98–369, §911(d)(2)(G), substituted “6427(i)(2)” for “6427(h)(2)” in two places.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §911(d)(2)(G), substituted “6427(i)(2)” for “6427(h)(2)” in two places.
 
 Subsec. (c). Pub. L. 98–369, §1033(c)(1), amended subsec. (c) generally, substituting a cross reference relating to church tax inquiries for provisions relating to church tax inquiries.
 
-1983—Subsec. (a). Pub. L. 97–424 struck out “6424(d)(2),” after “6421(f)(2),” wherever appearing.
+<b>1983</b>—Subsec. (a). Pub. L. 97–424 struck out “6424(d)(2),” after “6421(f)(2),” wherever appearing.
 
-1980—Subsec. (a). Pub. L. 96–223 substituted “6427(h)(2)” for “6427(g)(2)” wherever appearing.
+<b>1980</b>—Subsec. (a). Pub. L. 96–223 substituted “6427(h)(2)” for “6427(g)(2)” wherever appearing.
 
-1978—Subsec. (a). Pub. L. 95–599 substituted “6427(g)(2)” for “6427(f)(2)” wherever appearing.
+<b>1978</b>—Subsec. (a). Pub. L. 95–599 substituted “6427(g)(2)” for “6427(f)(2)” wherever appearing.
 
-1976—Subsec. (a). Pub. L. 94–530 substituted “6427(f)(2)” for “6427(e)(2)” wherever appearing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–530 substituted “6427(f)(2)” for “6427(e)(2)” wherever appearing.
 
 Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 Subsecs. (b), (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1970—Subsec. (a). Pub. L. 91–258 inserted references to section 6427(e)(2).
+<b>1970</b>—Subsec. (a). Pub. L. 91–258 inserted references to section 6427(e)(2).
 
-1969—Subsec. (c). Pub. L. 91–172 added subsec. (c).
+<b>1969</b>—Subsec. (c). Pub. L. 91–172 added subsec. (c).
 
-1965—Subsec. (a). Pub. L. 89–44 inserted references to section 6424(d)(2).
+<b>1965</b>—Subsec. (a). Pub. L. 89–44 inserted references to section 6424(d)(2).
 
-1956—Subsec. (a). Act June 29, 1956, inserted references to section 6421(f)(2).
+<b>1956</b>—Subsec. (a). Act June 29, 1956, inserted references to section 6421(f)(2).
 
 Act Apr. 2, 1956, inserted references to section 6420(e)(2) in second sentence.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

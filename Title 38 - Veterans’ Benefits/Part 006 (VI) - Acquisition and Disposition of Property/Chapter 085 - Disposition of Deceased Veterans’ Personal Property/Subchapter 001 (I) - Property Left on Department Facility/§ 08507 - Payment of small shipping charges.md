@@ -6,9 +6,9 @@ Upon receipt of a proper claim for such property under the provisions of this su
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 5207 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5207 of this title as this section.
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator” in two places and “Secretary's” for “Administrator's”.
 
-1986—Pub. L. 99–576 substituted “the Administrator's” for “his” and “prescribed by the Administrator” for “by him promulgated”.
+<b>1986</b>—Pub. L. 99–576 substituted “the Administrator's” for “his” and “prescribed by the Administrator” for “by him promulgated”.
 

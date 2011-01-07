@@ -24,7 +24,7 @@ A taxpayer shall be allowed an additional credit under section 3302(b) with resp
 
 &emsp;&emsp;(D) such contributions were payable to such account with respect to the 3 years preceding the computation date.
 
-> For any person (or group of persons) who has (or have) not been subject to the State law for a period of time sufficient to compute the reduced rates permitted by paragraphs (1), (2), and (3) of this subsection on a 3–year basis (i) the period of time required may be reduced to the amount of time the person (or group of persons) has (or have) had experience under or has (or have) been subject to the State law, whichever is appropriate, but in no case less than 1 year immediately preceding the computation date, or (ii) areduced rate (not less than 1 percent) may be permitted by the State law on a reasonable basis other than as permitted by paragraph (1), (2), or (3).
+> For any person (or group of persons) who has (or have) not been subject to the State law for a period of time sufficient to compute the reduced rates permitted by paragraphs (1), (2), and (3) of this subsection on a 3–year basis (i) the period of time required may be reduced to the amount of time the person (or group of persons) has (or have) had experience under or has (or have) been subject to the State law, whichever is appropriate, but in no case less than 1 year immediately preceding the computation date, or (ii) a reduced rate (not less than 1 percent) may be permitted by the State law on a reasonable basis other than as permitted by paragraph (1), (2), or (3).
 
 #### (b) Certification by the Secretary of Labor with respect to additional credit allowance
 
@@ -56,7 +56,7 @@ As used in this section—
 
 &emsp;&emsp;(A) guarantees in advance at least 30 hours of work, for which remuneration will be paid at not less than stated rates, for each of 40 weeks (or if more, 1 weekly hour may be deducted for each added week guaranteed) in a year, to all the individuals who are in his (or their) employ in, and who continue to be available for suitable work in, one or more distinct establishments, except that any such individual's guaranty may commence after a probationary period (included within the 11 or less consecutive weeks immediately following the first week in which the individual renders services), and
 
-&emsp;&emsp;(B) gives security or assurance, satisfactory to the State agency, for the fulfillment of such guaranties, from which account, unless such account is exhausted or terminated, is paid all and only compensation, payable on the basis of services performed for such person (or for one or more of the persons comprising the group), to any such individual whose guaranteed remuneration has not been paid (either pursuant to the guaranty or from the security or assurance provided for the fulfillment of the guaranty),or whose guaranty is not renewed and who is otherwise eligible for compensation under the State law.
+&emsp;&emsp;(B) gives security or assurance, satisfactory to the State agency, for the fulfillment of such guaranties, from which account, unless such account is exhausted or terminated, is paid all and only compensation, payable on the basis of services performed for such person (or for one or more of the persons comprising the group), to any such individual whose guaranteed remuneration has not been paid (either pursuant to the guaranty or from the security or assurance provided for the fulfillment of the guaranty), or whose guaranty is not renewed and who is otherwise eligible for compensation under the State law.
 
 #### (5) Year
 
@@ -64,7 +64,7 @@ As used in this section—
 
 #### (6) Balance
 
-&emsp;The term “balance”, with respect to a reserve account or a guaranteed employment account, means the amount standing to the credit of the account as of the computation date; except that, if subsequent to January 1, 1940, any moneys have been paid into or credited to such account other than payments thereto by persons having individuals in their employ, such term shall mean the amount in such account as of the computation date less the total of such other moneys paid into or credited to such account subsequent to January 1, 1940.
+&emsp;The term “balance”, with respect to a reserve account or a guaranteed employment account, means the amount standing to the credit of the account as of the computation date; except that, if subsequent to January 1, 1940, any moneys have been paid into or credited to such account other than payments thereto bypersons having individuals in their employ, such term shall mean the amount in such account as of the computation date less the total of such other moneys paid into or credited to such account subsequent to January 1, 1940.
 
 #### (7) Computation date
 
@@ -108,19 +108,19 @@ The date of enactment of this subsection, referred to in subsec. (g), is the dat
 
 #### Amendments
 
-1976—Subsec. (b)(1) to (3). Pub. L. 94–455 substituted reference to Secretary of the Treasury for reference to Secretary and reference to 12–month period for reference to 12 or 10-month period, as the case may be, and struck out reference to (10-month period in the case of Oct. 31, 1972) following provisions relating to 12–month period ending Oct. 31.
+<b>1976</b>—Subsec. (b)(1) to (3). Pub. L. 94–455 substituted reference to Secretary of the Treasury for reference to Secretary and reference to 12–month period for reference to 12 or 10-month period, as the case may be, and struck out reference to (10-month period in the case of Oct. 31, 1972) following provisions relating to 12–month period ending Oct. 31.
 
-Subsec. (f). Pub. L. 94–566, §122(b), substituted “which elects before April 1, 1972,” for “which elects, whensuch election first becomes available under the State law,”.
+Subsec. (f). Pub. L. 94–566, §122(b), substituted “which elects before April 1, 1972,” for “which elects, when such election first becomes available under the State law,”.
 
 Subsec. (g). Pub. L. 94–566, §122(a), added subsec. (g).
 
-1970—Subsec. (a). Pub. L. 91–373, §122(a), added to provision following par. (3) the authorization for the allowance of a reduced rate by State law (but not less than 1 percent) on a reasonable basis other than as permitted by par. (1), (2), or (3).
+<b>1970</b>—Subsec. (a). Pub. L. 91–373, §122(a), added to provision following par. (3) the authorization for the allowance of a reduced rate by State law (but not less than 1 percent) on a reasonable basis other than as permitted by par. (1), (2), or (3).
 
 Subsec. (b). Pub. L. 91–373, §142(c)–(e), changed the certification date referred to in pars. (1) to (3) from Dec. 31 to Oct. 31, with provision for a 10-month period in the case of Oct. 31, 1972, and, except for Oct. 31, 1972, provided for a 12-month period ending on Oct. 31 each year.
 
 Subsecs. (e), (f). Pub. L. 91–373, §104(c), added subsecs. (e) and (f).
 
-1954—Subsec. (a). Act Sept. 1, 1954, inserted sentence relating to reduced rates for new employers.
+<b>1954</b>—Subsec. (a). Act Sept. 1, 1954, inserted sentence relating to reduced rates for new employers.
 
 #### Effective Date of 1976 Amendments
 

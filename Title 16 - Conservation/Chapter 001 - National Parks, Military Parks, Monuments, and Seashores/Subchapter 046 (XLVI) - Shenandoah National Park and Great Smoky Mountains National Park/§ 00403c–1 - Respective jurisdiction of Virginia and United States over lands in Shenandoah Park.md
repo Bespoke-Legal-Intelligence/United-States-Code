@@ -26,5 +26,5 @@ The Act of the General Assembly of the Commonwealth of Virginia, approved April 
 
 #### Amendments
 
-1942—Act June 5, 1942, amended section generally.
+<b>1942</b>—Act June 5, 1942, amended section generally.
 

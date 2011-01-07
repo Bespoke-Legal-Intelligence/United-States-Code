@@ -30,13 +30,13 @@ Historical and Revision Notes
 
 June 28, 1950, ch. 383, §302, 64 Stat. 268.
 
-In subsection (b), the words “holding appointments or enlisted in the Regular Army as now or hereafter provided by law”, “and such other persons as are now or may hereafter be specified by law”, and “commissioned warrant officers” are omitted as surplusage, since therevised section lists all persons in the Regular Army. 10:1c (last sentence) is omitted as executed.
+In subsection (b), the words “holding appointments or enlisted in the Regular Army as now or hereafter provided by law”, “and such other persons as are now or may hereafter be specified by law”, and “commissioned \* \* \* warrant officers” are omitted as surplusage, since the revised section lists all persons in the Regular Army. 10:1c (last sentence) is omitted as executed.
 
 #### Amendments
 
-1982—Subsec. (b)(2). Pub. L. 97–295 inserted a comma after “professors”.
+<b>1982</b>—Subsec. (b)(2). Pub. L. 97–295 inserted a comma after “professors”.
 
-1978—Subsec. (b)(2). Pub. L. 95–551 substituted “director of admissions” for “registrar”.
+<b>1978</b>—Subsec. (b)(2). Pub. L. 95–551 substituted “director of admissions” for “registrar”.
 
-1958—Subsec. (b)(2). Pub. L. 85–600 included the registrar of the Military Academy.
+<b>1958</b>—Subsec. (b)(2). Pub. L. 85–600 included the registrar of the Military Academy.
 

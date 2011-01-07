@@ -30,7 +30,11 @@ Historical and Revision Notes
 
 Aug. 6, 1956, ch. 976, §1, 70 Stat. 1052; Dec. 10, 1991, Pub. L. 102–199, §1(2), 105 Stat. 1628.
 
-&nbsp;D36:692.DAug. 6, 1956, ch. 976, §§2, 4(1), 70 Stat. 1052.
+&nbsp;
+
+36:692.
+
+Aug. 6, 1956, ch. 976, §§2, 4(1), 70 Stat. 1052.
 
 &nbsp;
 

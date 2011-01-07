@@ -62,7 +62,7 @@ Except as otherwise specifically provided in this chapter, as used in this chapt
 
 &emsp;&emsp;(C) any other office headed by a person with the final authority to appoint, hire, discharge, and set the terms, conditions, or privileges of the employment of an employee of the House of Representatives or the Senate; or
 
-&emsp;&emsp;(D) the Office of Congressional Accessibility Services, the Capitol Police Board, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Compliance, and the Office of Technology Assessment.
+&emsp;&emsp;(D) the Office of Congressional Accessibility Services, the United States Capitol Police, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Compliance, and the Office of Technology Assessment.
 
 #### (10) Executive Director
 
@@ -76,13 +76,15 @@ Except as otherwise specifically provided in this chapter, as used in this chapt
 
 &emsp;The term “Office” means the Office of Compliance.
 
-(Pub. L. 104–1, title I, §101, Jan. 23, 1995, 109 Stat. 4; Pub. L. 110–279, §1(g)(1), July 17, 2008, 122 Stat. 2609; Pub. L. 110–437, title IV, §422(b)(1), (2), Oct. 20, 2008, 122 Stat. 4996.)
+(Pub. L. 104–1, title I, §101, Jan. 23, 1995, 109 Stat. 4; Pub. L. 110–279, §1(g)(1), July 17, 2008, 122 Stat. 2609; Pub. L. 110–437, title IV, §422(b)(1), (2), Oct. 20, 2008, 122 Stat. 4996; Pub. L. 111–145, §2(a)(5)(A), Mar. 4, 2010, 124 Stat. 50.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Amendments
+
+2010—Par. (9)(D). Pub. L. 111–145 substituted “the United States Capitol Police,” for “the Capitol Police Board,”.
 
 2008—Par. (3)(C). Pub. L. 110–437, §422(b)(1), substituted “the Office of Congressional Accessibility Services;” for “the Capitol Guide Service;”.
 
@@ -99,4 +101,8 @@ Amendment by Pub. L. 110–279 effective July 17, 2008, and applicable to remain
 #### Short Title
 
 Section 1(a) of Pub. L. 104–1 provided that: “This Act \[enacting this chapter, amending sections 1201, 1202, 1219, 1220, and 1831 of this title, section 6381 of Title 5, Government Organization and Employees, sections 203, 633a, 2611, and 2617 of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare, repealing sections 60m, 60n, 1203 to 1218, 1221, 1223, and 1224 of this title, and enacting provisions set out as a note under section 751 of Title 31, Money and Finance\] may be cited as the ‘Congressional Accountability Act of 1995’.”
+
+#### Construction of 2010 Amendment
+
+Pub. L. 111–145, §2(a)(5)(B), Mar. 4, 2010, 124 Stat. 50, provided that: “Nothing in the amendment made by subparagraph (A) \[amending this section\] may be construed to affect any procedure initiated under title IV of the Congressional Accountability Act of 1995 \[2 U.S.C. 1401 et seq.\] prior to the date of the enactment of this Act \[Mar. 4, 2010\].”
 

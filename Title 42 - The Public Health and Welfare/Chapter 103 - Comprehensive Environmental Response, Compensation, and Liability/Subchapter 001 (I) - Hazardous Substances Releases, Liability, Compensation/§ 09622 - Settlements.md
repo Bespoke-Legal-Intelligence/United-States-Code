@@ -88,7 +88,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (B) Proposals
 
-&emsp;&emsp;Persons receiving notice and information under paragraph (1) of this subsection with respect to action under section 9606 of this title shall have 60 days from the date of receipt of such notice to make a proposal to the President for undertaking or financing the action under section 9606 of this title. Persons receiving notice and information under paragraph (1) of this subsection with respect to action under section 9604(b) of this title shall have 60 days from the date of receipt of such notice to make a proposal to the President for undertaking or financing the action under section 9604(b) of this title.
+&emsp;&emsp;Persons receiving notice and information under paragraph (1) of this subsection with respect to action under section 9606 of this title shall have 60 days from the date of receipt of such notice to make a proposal to the President for undertaking or financing the action under section 9606 of this title. Persons receiving notice and information under paragraph (1) of this subsection with respect to action under section 9604(b) of this title shall have 60 days from the date of receipt of such notice to make a proposal tothe President for undertaking or financing the action under section 9604(b) of this title.
 
 #### (C) Additional parties
 
@@ -258,7 +258,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (C) Responsibility to provide information and access
 
-&emsp;&emsp;A potentially responsible party that enters into a settlement under this subsection shall not be relieved of the responsibility to provide any information or access requested in accordance with subsection (e)(3)(B) of this section or section 9604(e) of this title.
+&emsp;&emsp;A potentially responsible party that enters into a settlement under this subsection shallnot be relieved of the responsibility to provide any information or access requested in accordance with subsection (e)(3)(B) of this section or section 9604(e) of this title.
 
 #### (9) Basis of determination
 
@@ -292,7 +292,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (4) Claims for contribution
 
-&emsp;A person who has resolved its liability to the United States under this subsection shall not be liable for claims for contribution regarding matters addressed in the settlement. Such settlement shall not discharge any of the otherpotentially liable persons unless its terms so provide, but it reduces the potential liability of the others by the amount of the settlement.
+&emsp;A person who has resolved its liability to the United States under this subsection shall not be liable for claims for contribution regarding matters addressed in the settlement. Such settlement shall not discharge any of the other potentially liable persons unless its terms so provide, but it reduces the potential liability of the others by the amount of the settlement.
 
 #### (i) Settlement procedures
 
@@ -316,7 +316,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (2) Covenant not to sue
 
-&emsp;An agreement under this section may contain a covenant not to sue under section 9607(a)(4)(C) of this title for damages to natural resources under the trusteeship of the United States resulting from the release or threatened release of hazardous substances that is the subject of the agreement, but only if the Federal natural resource trustee has agreed in writing to such covenant. The Federal natural resource trustee may agree to such covenant if the potentially responsible party agrees to undertake appropriate actions necessary to protect and restore the natural resources damaged by such release or threatened release of hazardous substances.
+&emsp;An agreement under this section may contain a covenant not to sue under section 9607(a)(4)(C) of this title for damages to natural resources under the trusteeship of the United States resulting from the release or threatened release of hazardous substances that is the subject of the agreement, but only if the Federal natural resource trustee has agreed in writing to such covenant. The Federal natural resource trustee may agree to such covenant if the potentially responsible party agrees to undertake appropriate actions necessary to protect and restore the naturalresources damaged by such release or threatened release of hazardous substances.
 
 #### (k) Section not applicable to vessels
 
@@ -334,11 +334,13 @@ In the case of consent decrees and other settlements under this section (includi
 
 #### References in Text
 
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+
 The Federal Rules of Evidence, referred to in subsec. (d)(1)(B), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
 
-2002—Subsec. (g)(7) to (12). Pub. L. 107–118 added pars. (7) to (12).
+<b>2002</b>—Subsec. (g)(7) to (12). Pub. L. 107–118 added pars. (7) to (12).
 
 #### Effect on Concluded Actions
 

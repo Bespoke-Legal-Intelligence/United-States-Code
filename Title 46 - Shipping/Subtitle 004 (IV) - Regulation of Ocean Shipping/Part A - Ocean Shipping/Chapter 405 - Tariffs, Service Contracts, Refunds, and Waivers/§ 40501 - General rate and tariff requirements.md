@@ -110,7 +110,7 @@ Pub. L. 98–237, §8(a), (b), (d), (f), (g), Mar. 20, 1984, 98 Stat. 74; Pub. L
 
 46 App.:1707(g).
 
-In subsection (b)(3), the words “ocean freight forwarder” are substituted for “ocean transportation intermediary, as defined in section 1702(17)(A) of this Appendix” because the definition of “ocean transportation intermediary” in section 1702(17)(A) contains a definition of “ocean freight forwarder” which is restated as a separate definition.
+In subsection (b)(3), the words “ocean freight forwarder” are substituted for “ocean transportation intermediary, as defined in section 1702(17)(A) of thisAppendix” because the definition of “ocean transportation intermediary” in section 1702(17)(A) contains a definition of “ocean freight forwarder” which is restated as a separate definition.
 
 In subsection (e), the word “calendar” is omitted as unnecessary.
 

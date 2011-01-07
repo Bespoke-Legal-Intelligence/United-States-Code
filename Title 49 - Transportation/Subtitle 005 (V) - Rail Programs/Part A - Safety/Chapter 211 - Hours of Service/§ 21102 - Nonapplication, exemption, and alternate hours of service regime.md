@@ -26,7 +26,7 @@ Application of Hours of Service Regime to Commuter and Intercity Passenger Railr
 
 &emsp;&emsp;(B) the date that is 3 years following the date of enactment of the Rail Safety Improvement Act of 2008.
 
-&emsp;(2) After the date on which old section 21103 ceases to apply, pursuant to paragraph (1), to the limitations on duty hours for train employees of railroad carriers with respect to the provision of commuter rail passenger transportation or intercity rail passenger transportation, the limitations on duty hours for train employees of such railroad carriers shall be governed by new section 21103, except as provided in paragraph (3).
+&emsp;(2) After the date on which old section 21103 ceases to apply, pursuant to paragraph (1), to the limitations on duty hours for train employees of railroad carriers with respect to theprovision of commuter rail passenger transportation or intercity rail passenger transportation, the limitations on duty hours for train employees of such railroad carriers shall be governed by new section 21103, except as provided in paragraph (3).
 
 &emsp;(3) After the effective date of the regulations prescribed by the Secretary under section 21109(b) of this title, such carriers shall—
 
@@ -84,7 +84,7 @@ The Rail Safety Improvement Act of 2008, referred to in subsec. (c)(1)(B), (4)(C
 
 #### Amendments
 
-2008—Pub. L. 110–432, §108(d)(1)(A), substituted “Nonapplication, exemption, and alternate hours of service regime” for “Nonapplication and exemption” in section catchline.
+<b>2008</b>—Pub. L. 110–432, §108(d)(1)(A), substituted “Nonapplication, exemption, and alternate hours of service regime” for “Nonapplication and exemption” in section catchline.
 
 Subsec. (c). Pub. L. 110–432, §108(d)(1)(B), added subsec. (c).
 

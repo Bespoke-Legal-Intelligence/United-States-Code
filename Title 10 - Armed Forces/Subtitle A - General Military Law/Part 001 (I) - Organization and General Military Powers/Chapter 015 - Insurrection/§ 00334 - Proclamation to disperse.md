@@ -26,9 +26,9 @@ Act July 29, 1861, ch. 25, §2, 12 Stat. 282.
 
 #### Amendments
 
-2008—Pub. L. 110–181 struck out “or those obstructing the enforcement of the laws” after “insurgents”.
+<b>2008</b>—Pub. L. 110–181 struck out “or those obstructing the enforcement of the laws” after “insurgents”.
 
-2006—Pub. L. 109–364 inserted “or those obstructing the enforcement of the laws” after “insurgents”.
+<b>2006</b>—Pub. L. 109–364 inserted “or those obstructing the enforcement of the laws” after “insurgents”.
 
 #### Proc. No. 3204. Obstruction of Justice in the State of Arkansas
 

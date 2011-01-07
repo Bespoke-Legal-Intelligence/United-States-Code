@@ -46,15 +46,15 @@ In subsection (b) the words “except the authority to prescribe regulations” 
 
 #### Amendments
 
-1985—Subsec. (a). Pub. L. 99–145 ran in “contribute, out of” after “Secretary of the Navy may”, and realigned margins of cls. (1) to (4) and provision following cl. (4).
+<b>1985</b>—Subsec. (a). Pub. L. 99–145 ran in “contribute, out of” after “Secretary of the Navy may”, and realigned margins of cls. (1) to (4) and provision following cl. (4).
 
-1984—Pub. L. 98–525, §1401(j)(3)(B), struck out “; transportation of dependents” in section catchline.
+<b>1984</b>—Pub. L. 98–525, §1401(j)(3)(B), struck out “; transportation of dependents” in section catchline.
 
-Subsec. (a). Pub. L. 98–525, §1401(j)(3)(A), substituted “The Secretary of the Navy may” for “The Secretary of the Navy may—”, struck out “(1)” before “contribute out of”, thereby eliminating paragraph designation, redesignated cls. (A) to (D) as (1) to (4), respectively, substituted “the activity.” for “the activity; and”, and struck out par. (2), which provided for transportation between the schools and the activity when the schools are not accessible by regular means of transportation.
+Subsec. (a). Pub. L. 98–525, §1401(j)(3)(A), substituted “The Secretary of the Navy may” for “The Secretaryof the Navy may—”, struck out “(1)” before “contribute out of”, thereby eliminating paragraph designation, redesignated cls. (A) to (D) as (1) to (4), respectively, substituted “the activity.” for “the activity; and”, and struck out par. (2), which provided for transportation between the schools and the activity when the schools are not accessible by regular means of transportation.
 
-1980—Subsec. (a)(1)(D). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+<b>1980</b>—Subsec. (a)(1)(D). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
-1966—Subsec. (a)(1)(D). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
+<b>1966</b>—Subsec. (a)(1)(D). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
 
 #### Effective Date of 1984 Amendment
 

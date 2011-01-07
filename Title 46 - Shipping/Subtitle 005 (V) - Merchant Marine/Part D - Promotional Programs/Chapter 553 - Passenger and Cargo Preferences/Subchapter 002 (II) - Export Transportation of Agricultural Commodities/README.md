@@ -1,7 +1,5 @@
 ### SUBCHAPTER II—EXPORT TRANSPORTATION OF AGRICULTURAL COMMODITIES
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a second closing parenthesis.</i>
-
 
 ---
 

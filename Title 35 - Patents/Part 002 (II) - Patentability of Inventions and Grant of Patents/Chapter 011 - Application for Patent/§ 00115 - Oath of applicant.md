@@ -14,9 +14,9 @@ Changes in language are made.
 
 #### Amendments
 
-1998—Pub. L. 105–277 inserted at end “For purposes of this section, a consular officer shall include any United States citizen serving overseas, authorized to perform notarial functions pursuant to section 1750 of the Revised Statutes, as amended (22 U.S.C. 4221).”
+<b>1998</b>—Pub. L. 105–277 inserted at end “For purposes of this section, a consular officer shall include any United States citizen serving overseas, authorized to perform notarial functions pursuant to section 1750 of the Revised Statutes, as amended (22 U.S.C. 4221).”
 
-1982—Pub. L. 97–247 substituted “is” for “shall be” after “whose authority”, and inserted “, or apostille of an official designated by a foreign country which, by treaty or convention, accords like effect to apostilles of designated officials in the United States”.
+<b>1982</b>—Pub. L. 97–247 substituted “is” for “shall be” after “whose authority”, and inserted “, or apostille of an official designated by a foreign country which, by treaty or convention, accords like effect to apostilles of designated officials in the United States”.
 
 #### Effective Date of 1982 Amendment
 

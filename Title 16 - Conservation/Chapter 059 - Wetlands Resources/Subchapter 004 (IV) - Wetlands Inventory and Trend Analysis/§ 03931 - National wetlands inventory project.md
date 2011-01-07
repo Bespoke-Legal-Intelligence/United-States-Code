@@ -30,17 +30,17 @@ The Secretary, acting through the Director of the United States Fish and Wildlif
 
 #### (b) Notice
 
-The Secretary shall notify the appropriate State and local units of government at suchtime as he proposes to begin map preparation under subsection (a) of this section in an area. Such notice shall include, but is not limited to, the identification of the area to be mapped, the proposed schedule for completion, and the identification of a source for further information.
+The Secretary shall notify the appropriate State and local units of government at such time as he proposes to begin map preparation under subsection (a) of this section in an area. Such notice shall include, but is not limited to, the identification of the area to be mapped, the proposed schedule for completion, and the identification of a source for further information.
 
 (Pub. L. 99–645, title IV, §401, Nov. 10, 1986, 100 Stat. 3588; Pub. L. 101–233, §18, Dec. 13, 1989, 103 Stat. 1978; Pub. L. 102–440, title III, §305, Oct. 23, 1992, 106 Stat. 2235.)
 
 #### Amendments
 
-1992—Subsec. (a)(3). Pub. L. 102–440, §305(1), substituted “by September 30, 2000” for “as soon as practicable”.
+<b>1992</b>—Subsec. (a)(3). Pub. L. 102–440, §305(1), substituted “by September 30, 2000” for “as soon as practicable”.
 
 Subsec. (a)(4). Pub. L. 102–440, §305(2), which directed amendment of par. (4) by substituting a semicolon for “. And”, was executed by making the substitution for “. and”, to reflect the probable intent of Congress.
 
 Subsec. (a)(6), (7). Pub. L. 102–440, §305(3), (4), added pars. (6) and (7).
 
-1989—Subsec. (a)(5). Pub. L. 101–233 added par. (5).
+<b>1989</b>—Subsec. (a)(5). Pub. L. 101–233 added par. (5).
 

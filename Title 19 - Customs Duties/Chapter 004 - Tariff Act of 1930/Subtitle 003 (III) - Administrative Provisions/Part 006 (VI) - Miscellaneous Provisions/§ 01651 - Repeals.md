@@ -40,7 +40,7 @@ Nothing in this chapter shall be construed to amend or repeal any of the followi
 
 The Tariff Act of 1922, referred to in subsec. (a)(1), is act Sept. 21, 1922, ch. 356, 42 Stat. 858, as amended. For complete classification of this act to the Code, see Tables. Section 304 of that act was classified, prior to its repeal, to sections 132 and 133 of this title, and section 482 of that act was classified, prior to its repeal, to sections 334 to 337, 342, and 343 of this title.
 
-Section 16 of the act approved June 26, 1884, referred to in subsec. (a)(2), is section 16 of act June 26, 1884, ch.121, 23 Stat. 57, and was classified, prior to its repeal, to section 145 of this title. See section 1309 of this title.
+Section 16 of the act approved June 26, 1884, referred to in subsec. (a)(2), is section 16 of act June 26, 1884, ch. 121, 23 Stat. 57, and was classified, prior to its repeal, to section 145 of this title. See section 1309 of this title.
 
 Section 2804 of the Revised Statutes, referred to in subsec. (a)(4), was classified, prior to its repeal, to section 192 of this title.
 

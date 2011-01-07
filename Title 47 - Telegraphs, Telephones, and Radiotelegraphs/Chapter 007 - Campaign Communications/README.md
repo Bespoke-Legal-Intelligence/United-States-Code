@@ -1,7 +1,5 @@
 ### <b>CHAPTER 7—CAMPAIGN COMMUNICATIONS</b>
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Telecommunications”.</i>
-
 
 ---
 

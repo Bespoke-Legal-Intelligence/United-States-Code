@@ -72,9 +72,9 @@ This amends 49:5103(b)(2) to clarify the restatement of 49 App.:1804(a)(2) by se
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–177 added subsec. (d).
+<b>2006</b>—Subsec. (d). Pub. L. 109–177 added subsec. (d).
 
-2005—Subsec. (a). Pub. L. 109–59, §7126, substituted “Secretary shall designate” for “Secretary of Transportation shall designate”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §7126, substituted “Secretary shall designate” for “Secretary of Transportation shall designate”.
 
 Pub. L. 109–59, §7103(a), substituted “infectious substance, flammable or combustible liquid, solid, or gas, toxic, oxidizing, or corrosive material,” for “etiologic agent, flammable or combustible liquid or solid, poison, oxidizing or corrosive material,” and “determines” for “decides”.
 
@@ -90,13 +90,13 @@ Subsec. (b)(1)(C). Pub. L. 109–59, §7103(c)(1), struck out heading and text o
 
 Subsec. (c). Pub. L. 109–59, §7103(c)(2), added subsec. (c).
 
-2002—Subsec. (b)(1). Pub. L. 107–296, §1711(a)(1), substituted “transportation, including security,” for “transportation” in introductory provisions.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–296, §1711(a)(1), substituted “transportation, including security,” for “transportation” in introductory provisions.
 
 Subsec. (b)(1)(B). Pub. L. 107–296, §1711(a)(2), substituted “aspects, including security,” for “aspects”.
 
 Subsec. (b)(1)(C). Pub. L. 107–296, §1711(a)(3), added subpar. (C).
 
-1994—Subsec. (b)(1)(A)(iii). Pub. L. 103–311 substituted “a packaging or a” for “a package or”.
+<b>1994</b>—Subsec. (b)(1)(A)(iii). Pub. L. 103–311 substituted “a packaging or a” for “a package or”.
 
 Subsec. (b)(2). Pub. L. 103–429 substituted “be conducted under section 553 of title 5, including” for “include” and “presentation” for “presentations”.
 
@@ -148,7 +148,7 @@ In General.—In the administration of chapter 51 of title 49, United States Cod
 
 &emsp;“(1) the packaging is in compliance with regulations of the Secretary under the Hazardous Materials Transportation Act \[former 49 U.S.C. 1801 et seq.\] as in effect on September 30, 1991; and
 
-&emsp;“(2) the packaging will not be used for the transportation of hazardous materials that include materialswhich are poisonous by inhalation or materials in Packing Groups I and II.
+&emsp;“(2) the packaging will not be used for the transportation of hazardous materials that include materials which are poisonous by inhalation or materials in Packing Groups I and II.
 
 “(b)
 
@@ -172,7 +172,7 @@ Completion.—The study shall be completed before March 1, 1997 and shall be tra
 
 “(d)
 
-Secretarial Action.—By September 30, 1997, the Secretary shall issue final regulations to determine what standards should apply to fiber drum packaging with a removable head for transportation of liquid hazardous materials (with respect to those liquid hazardous materials transported by such drums pursuant to regulations in effect on September 30, 1991) after September 30, 1997. In issuing such regulations, the Secretary shall give full and substantial consideration to the results of the study conducted in subsection (c).”
+Secretarial Action.—By September 30, 1997, the Secretary shall issue final regulations to determine what standards should apply to fiber drum packaging with a removable head for transportation of liquid hazardous materials (with respect to those liquid hazardous materials transported by such drums pursuant toregulations in effect on September 30, 1991) after September 30, 1997. In issuing such regulations, the Secretary shall give full and substantial consideration to the results of the study conducted in subsection (c).”
 
 Section 122 of Pub. L. 103–311 provided that:
 

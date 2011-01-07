@@ -36,7 +36,7 @@ Section 105(b) of the Civil Rights Act of 1957, referred to in subsec. (c), is s
 
 #### Amendments
 
-1977—Subsec. (d). Pub. L. 95–65 substituted “two years” for “eighteen months” and authorized the Commission to provide information and technical assistance regarding its findings and recommendations to Congress, the President, and heads of Federal departments and agencies for a ninety-day period following the transmittal of its report.
+<b>1977</b>—Subsec. (d). Pub. L. 95–65 substituted “two years” for “eighteen months” and authorized the Commission to provide information and technical assistance regarding its findings and recommendations to Congress, the President, and heads of Federal departments and agencies for a ninety-day period following the transmittal of its report.
 
 #### Change of Name
 

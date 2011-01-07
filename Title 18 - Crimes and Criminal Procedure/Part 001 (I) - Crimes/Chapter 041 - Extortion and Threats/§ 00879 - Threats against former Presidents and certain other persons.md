@@ -28,19 +28,19 @@
 
 &emsp;(3) the terms “President-elect” and “Vice President-elect” have the meanings given those terms in section 871(b) of this title.
 
-(Added Pub. L. 97–297, §1(a), Oct. 12, 1982, 96 Stat. 1317; amended Pub. L. 98–587, §3(a), Oct. 30, 1984, 98 Stat. 3111; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 106–544, §2(a), (b)(1), Dec. 19, 2000, 114 Stat. 2715.)
+(Added Pub. L. 97–297, §1(a), Oct. 12, 1982, 96 Stat. 1317; amended Pub. L. 98–587, §3(a), Oct. 30, 1984,98 Stat. 3111; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 106–544, §2(a), (b)(1), Dec. 19, 2000, 114 Stat. 2715.)
 
 #### Amendments
 
-2000—Pub. L. 106–544, §2(b)(1), struck out “protected by the Secret Service” after “other persons” in section catchline.
+<b>2000</b>—Pub. L. 106–544, §2(b)(1), struck out “protected by the Secret Service” after “other persons” in section catchline.
 
 Subsec. (a). Pub. L. 106–544, §2(a)(1)–(4), in par. (3), substituted “a member of the immediate family” for “the spouse”, added par. (4), and, in concluding provisions, struck out “who is protected by the Secret Service as provided by law,” before “shall be fined” and substituted “5 years” for “three years”.
 
 Subsec. (b)(1)(B). Pub. L. 106–544, §2(a)(5), in introductory provisions, inserted “and (a)(3)” after “subsection (a)(2)” and substituted “Vice President-elect, or major candidate for the office of President or Vice President” for “or Vice President-elect”.
 
-1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in concluding provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in concluding provisions.
 
-1984—Subsec. (b)(2). Pub. L. 98–587 substituted “subsection (a)(7) of section 3056 of this title” for “the first section of the joint resolution entitled ‘Joint resolution to authorize the United States Secret Service to furnish protection to major Presidential or Vice Presidential candidates’, approved June 6, 1968 (18 U.S.C. 3056 note)”.
+<b>1984</b>—Subsec. (b)(2). Pub. L. 98–587 substituted “subsection (a)(7) of section 3056 of this title” for “the first section of the joint resolution entitled ‘Joint resolution to authorize the United States Secret Service to furnish protection to major Presidential or Vice Presidential candidates’, approved June 6, 1968 (18 U.S.C. 3056 note)”.
 
 #### Transfer of Functions
 

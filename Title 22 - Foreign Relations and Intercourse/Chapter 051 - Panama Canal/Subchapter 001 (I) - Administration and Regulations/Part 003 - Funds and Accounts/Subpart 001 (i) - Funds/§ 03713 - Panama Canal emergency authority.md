@@ -6,11 +6,11 @@ If authorizing legislation described in section 3712(b)(1) of this title has not
 
 #### Amendments
 
-1996—Pub. L. 104–201 substituted “section 3712(b)(1)” for “section 3712(c)(1)” in two places.
+<b>1996</b>—Pub. L. 104–201 substituted “section 3712(b)(1)” for “section 3712(c)(1)” in two places.
 
 Pub. L. 104–106 struck out “The authority of this section may not be used for administrative expenses.” after “capital projects.”
 
-1987—Pub. L. 100–203 substituted “authority” for “Fund” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1987</b>—Pub. L. 100–203 substituted “authority” for “Fund” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) On October 1, 1979, the Secretary of the Treasury shall establish and thereafter shall maintain in the Treasury a fund to be known as the ‘Panama Canal Emergency Fund’. There are authorized to be appropriated for deposit in such Fund (1) for the fiscal year beginning on October 1, 1979, $40,000,000, and (2) for any fiscal year beginning on or after October 1, 1980, such additional sums as may be specifically authorized by law for such fiscal year.
 

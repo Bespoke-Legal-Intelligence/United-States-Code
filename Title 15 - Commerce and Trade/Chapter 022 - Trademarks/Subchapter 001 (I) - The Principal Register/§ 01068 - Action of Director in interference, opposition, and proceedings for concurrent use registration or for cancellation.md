@@ -10,13 +10,13 @@ Act Feb. 20, 1905, ch. 592, §§7, 13, 33 Stat. 726, 728.
 
 #### Amendments
 
-1999—Pub. L. 106–113 substituted “Director” for “Commissioner” in two places.
+<b>1999</b>—Pub. L. 106–113 substituted “Director” for “Commissioner” in two places.
 
-1988—Pub. L. 100–667 substituted “the registration, in whole or in part, may modify the application or registration by limiting the goods or services specified therein, may otherwise restrict or rectify with respect to the register” for “or restrict”, and “may refuse” for “or may refuse”, and inserted provisions that no final judgment be entered before mark is registered if applicant cannot prevail without establishing constructive use.
+<b>1988</b>—Pub. L. 100–667 substituted “the registration, in whole or in part, may modify the application or registration by limiting the goods or services specified therein, may otherwise restrict or rectify with respect to the register” for “or restrict”, and “may refuse” for “or may refuse”, and inserted provisions that no final judgment be entered before mark is registered if applicant cannot prevail without establishing constructive use.
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\]of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective Date of 1988 Amendment
 

@@ -14,15 +14,15 @@ It is declared to be the purpose of Congress in this chapter to—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act” meaning Pub. L. 93–498, Oct. 29, 1974, 88 Stat. 1535, as amended, which is classified principally to this chapter. For complete classification of the Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–498, Oct. 29, 1974, 88 Stat. 1535, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
 #### Amendments
 
-1978—Par. (3). Pub. L. 95–422 substituted “United States Fire Administration” for “National Fire Prevention and Control Administration”.
+<b>1978</b>—Par. (3). Pub. L. 95–422 substituted “United States Fire Administration” for “National Fire Prevention and Control Administration”.
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, includingthe functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

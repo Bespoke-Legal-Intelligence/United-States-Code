@@ -52,19 +52,21 @@ Section 1017(d) of this Act, referred to in subsec. (d), is section 1017 of Pub.
 
 #### Amendments
 
-1989—Subsecs. (c)(1), (d). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26”.
+<b>1989</b>—Subsecs. (c)(1), (d). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26”.
 
 Subsec. (f). Pub. L. 101–239, §7894(h)(2), added subsec. (f).
 
-1986—Subsec. (c)(1). Pub. L. 99–272 made a technical amendment to the reference to section 1086(c) of this title to reflect the renumbering of the corresponding section of the original act.
+<b>1986</b>—Subsec. (c)(1). Pub. L. 99–272 made a technical amendment to the reference to section 1086(c) of this title to reflect the renumbering of the corresponding section of the original act.
 
 #### Effective Date of 1989 Amendment
 
 Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
-Amendment by section 7894(h)(2) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7894(h)(2) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee RetirementIncome Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–272 applicable with respect to applications for waivers, extensions, and modifications filed on or after Apr. 7, 1986, see section 11015(a)(3) of Pub. L. 99–272, set out as an Effective Date note under section 412 of Title 26, Internal Revenue Code.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

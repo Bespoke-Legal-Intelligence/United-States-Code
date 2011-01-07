@@ -80,7 +80,7 @@ A person who, in good faith, produces tangible things under an order pursuant to
 
 (2)(A)(i) A person receiving a production order may challenge the legality of that order by filing a petition with the pool established by section 1803(e)(1) of this title. Not less than 1 year after the date of the issuance of the production order, the recipient of a production order may challenge the nondisclosure order imposed in connection with such production order by filing a petition to modify or set aside such nondisclosure order, consistent with the requirements of subparagraph (C), with the pool established by section 1803(e)(1) of this title.
 
-(ii) The presiding judge shall immediately assign a petition under clause (i) to 1 of the judges serving in the pool established by section 1803(e)(1) of this title. Not later than 72 hours after the assignment of such petition, the assigned judge shall conduct an initial review of the petition. If the assigned judge determines that the petition is frivolous, the assigned judge shall immediately deny the petition and affirm the production order or nondisclosure order. If the assigned judge determines the petition is not frivolous, the assigned judge shall promptly consider the petition in accordance with the procedures established under section 1803(e)(2) of this title.
+(ii) The presiding judge shall immediately assign a petition under clause (i) to 1 of the judges serving in the pool established by section 1803(e)(1) of this title. Not later than 72 hours after the assignment of such petition, the assigned judge shall conduct an initial review of the petition. If the assigned judge determines that the petition is frivolous, the assigned judge shall immediately deny the petition and affirmthe production order or nondisclosure order. If the assigned judge determines the petition is not frivolous, the assigned judge shall promptly consider the petition in accordance with the procedures established under section 1803(e)(2) of this title.
 
 (iii) The assigned judge shall promptly provide a written statement for the record of the reasons for any determination under this subsection. Upon the request of the Government, any order setting aside a nondisclosure order shall be stayed pending review pursuant to paragraph (3).
 
@@ -120,11 +120,11 @@ A person who, in good faith, produces tangible things under an order pursuant to
 
 Information acquired from tangible things received by the Federal Bureau of Investigation in response to an order under this subchapter concerning any United States person may be used and disclosed by Federal officers and employees without the consent of the United States person only in accordance with the minimization procedures adopted pursuant to subsection (g). No otherwise privileged information acquired from tangible things received by the Federal Bureau of Investigation in accordance with the provisions of this subchapter shall lose its privileged character. No information acquired from tangible things received by the Federal Bureau of Investigation in response to an order under this subchapter may be used or disclosed by Federal officers or employees except for lawful purposes.
 
-(Pub. L. 95–511, title V, §501, as added Pub. L. 107–56, title II, §215, Oct. 26, 2001, 115 Stat. 287; amended Pub. L. 107–108, title III, §314(a)(6), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 109–177, title I, §§102(b)(1), 106(a)–(e), (f)(2), (g), Mar. 9, 2006, 120 Stat. 195–198; Pub. L. 109–178, §§3, 4(a), Mar. 9, 2006, 120 Stat. 278, 280; Pub. L. 111–118, div. B, §1004(a), Dec. 19, 2009, 123 Stat. 3470.)
+(Pub. L. 95–511, title V, §501, as added Pub. L. 107–56, title II, §215, Oct. 26, 2001, 115 Stat. 287; amended Pub. L. 107–108, title III, §314(a)(6), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 109–177, title I, §§102(b)(1), 106(a)–(e), (f)(2), (g), Mar. 9, 2006, 120 Stat. 195–198; Pub. L. 109–178, §§3, 4(a), Mar. 9, 2006, 120 Stat. 278, 280; Pub. L. 111–118, div. B,§1004(a), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(a), Feb. 27, 2010, 124 Stat. 37.)
 
 #### Amendment of Section
 
-<i>Pub. L. 109–177, title I, §102(b), Mar. 9, 2006, 120 Stat. 195, as amended by Pub. L. 111–118, div. B, §1004(a), Dec. 19, 2009, 123 Stat. 3470, provided that, effective Feb. 28, 2010, with certain exceptions, this section is amended to read as it read on Oct. 25, 2001:</i>
+<i>Pub. L. 109–177, title I, §102(b), Mar. 9, 2006, 120 Stat. 195, as amended by Pub. L. 111–118, div. B, §1004(a), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(a), Feb. 27, 2010, 124 Stat. 37, provided that, effective Feb. 28, 2011, with certain exceptions, this section is amended to read as it read on Oct. 25, 2001:</i>
 
 #### §1861. Definitions
 
@@ -150,7 +150,7 @@ A prior section 1861, Pub. L. 95–511, title V, §501, as added Pub. L. 105–2
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–177, §106(a)(1), substituted “Subject to paragraph (3), the Director” for “The Director”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–177, §106(a)(1), substituted “Subject to paragraph (3), the Director” for “The Director”.
 
 Subsec. (a)(3). Pub. L. 109–177, §106(a)(2), added par. (3).
 
@@ -172,9 +172,9 @@ Pub. L. 109–177, §106(f)(2), added subsec. (f).
 
 Subsecs. (g), (h). Pub. L. 109–177, §106(g), added subsecs. (g) and (h).
 
-2001—Subsec. (a)(1). Pub. L. 107–108 inserted “to obtain foreign intelligence information not concerning a United States person or” after “an investigation”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–108 inserted “to obtain foreign intelligence information not concerning a United States person or” after “an investigation”.
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 102(b)(1) of Pub. L. 109–177 effective Feb. 28, 2010, except that former provisions to continue in effect with respect to any particular foreign intelligence investigation that began before Feb. 28, 2010, or with respect to any particular offense or potential offense that began or occurred before Feb. 28, 2010, see section 102(b) of Pub. L. 109–177, set out as a note under section 1805 of this title.
+Amendment by section 102(b)(1) of Pub. L. 109–177 effective Feb. 28, 2011, except that former provisions to continue in effect with respect to any particular foreign intelligence investigation that began before Feb. 28, 2011, or with respect to any particular offense or potential offense that began or occurred before Feb. 28, 2011, see section 102(b) of Pub. L. 109–177, set out as a note under section 1805 of this title.
 

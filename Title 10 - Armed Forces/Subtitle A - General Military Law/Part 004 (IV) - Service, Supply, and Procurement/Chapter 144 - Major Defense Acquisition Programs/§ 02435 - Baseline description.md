@@ -40,7 +40,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations governing th
 
 &emsp;(4) Procedures for submission to, and approval by, the Secretary of Defense of revised baseline descriptions.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §904(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–133, and Pub. L. 99–591, §101(c) \[title X, §904(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–133; Pub. L. 99–661, div. A,title IX, formerly title IV, §904(a)(1), Nov. 14, 1986, 100 Stat. 3912, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–26, §7(b)(6), Apr. 21, 1987, 101 Stat. 280; Pub. L. 100–180, div. A, title VIII, §803(a), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 100–370, §1(i)(1), July 19, 1988, 102 Stat. 848; Pub. L. 100–456, div. A, title XII, §1233(<i>l</i>)(4), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VIII, §811(b), Nov. 29, 1989, 103 Stat. 1493; Pub. L. 101–510, div. A, title XII, §1207(b), title XIV, §1484(k)(11), Nov. 5, 1990, 104 Stat. 1665, 1719; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title III, §3005(a), Oct. 13, 1994, 108 Stat. 3330; Pub. L. 107–107, div. A, title VIII, §821(d), title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1182, 1225; Pub. L. 109–163, div. A, title VIII, §802(d)(1), Jan. 6, 2006, 119 Stat. 3369; Pub. L. 109–364, div. A, title VIII, §806, Oct. 17, 2006, 120 Stat. 2315; Pub. L. 110–417, \[div. A\], title VIII, §811(d), Oct. 14, 2008, 122 Stat. 4524.)
+(Added Pub. L. 99–500, §101(c) \[title X, §904(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–133, and Pub. L. 99–591, §101(c) \[title X, §904(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–133; Pub. L. 99–661, div. A, title IX, formerly title IV, §904(a)(1), Nov. 14, 1986, 100 Stat. 3912, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–26, §7(b)(6), Apr. 21, 1987, 101 Stat. 280; Pub. L. 100–180, div. A, title VIII, §803(a), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 100–370, §1(i)(1), July 19, 1988, 102 Stat. 848; Pub. L. 100–456, div. A, title XII, §1233(<i>l</i>)(4), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VIII, §811(b), Nov. 29, 1989, 103 Stat. 1493; Pub. L. 101–510, div. A, title XII, §1207(b), title XIV, §1484(k)(11), Nov. 5, 1990, 104 Stat. 1665, 1719; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title III, §3005(a), Oct. 13, 1994, 108 Stat. 3330; Pub. L. 107–107, div. A, title VIII, §821(d), title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1182, 1225; Pub. L. 109–163, div. A, title VIII, §802(d)(1), Jan. 6, 2006, 119 Stat. 3369; Pub. L. 109–364, div. A, title VIII, §806, Oct. 17, 2006, 120 Stat. 2315; Pub. L. 110–417, \[div. A\], title VIII, §811(d), Oct. 14, 2008, 122 Stat. 4524.)
 
 #### Historical and Revision Notes
 
@@ -58,7 +58,7 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–417, §811(d)(1), inserted “and for each designated major subprogram under the program” after “major defense acquisition program” in par. (1) and “or designated major subprogram” after “major defense acquisition program” in par. (2).
+<b>2008</b>—Subsec. (a). Pub. L. 110–417, §811(d)(1), inserted “and for each designated major subprogram under the program” after “major defense acquisition program” in par. (1) and “or designated major subprogram” after “major defense acquisition program” in par. (2).
 
 Subsec. (b). Pub. L. 110–417, §811(d)(2), inserted “or any designated major subprogram under the program” after “major defense acquisition program” and “or subprogram” after “after the program”. See Codification note above.
 
@@ -68,13 +68,13 @@ Subsec. (d). Pub. L. 110–417, §811(d)(4), inserted “or any designated major
 
 Subsec. (e)(2). Pub. L. 110–417, §811(d)(5), inserted “(or in the case of a major defense acquisition program with one or more designated major subprograms, approved baseline descriptions for such subprograms)” after “baseline description” and “or subprogram” before period at end and substituted “any such baseline description” for “the baseline”.
 
-2006—Subsec. (d). Pub. L. 109–163 added subsec. (d). Former subsec. (d) redesignated (e).
+<b>2006</b>—Subsec. (d). Pub. L. 109–163 added subsec. (d). Former subsec. (d) redesignated (e).
 
 Subsec. (d)(1). Pub. L. 109–364 inserted “prepared before the program enters system development and demonstration, or at program initiation, whichever occurs later” after “program under subsection (a)”.
 
 Subsec. (e). Pub. L. 109–163 redesignated subsec. (d) as (e).
 
-2001—Subsec. (b). Pub. L. 107–107, §§821(d)(1), 1048(b)(2), substituted “system development and demonstration” for “engineering and manufacturing development” and “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+<b>2001</b>—Subsec. (b). Pub. L. 107–107, §§821(d)(1), 1048(b)(2), substituted “system development and demonstration” for “engineering and manufacturing development” and “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 Subsec. (c)(1). Pub. L. 107–107, §821(d)(2)(A), substituted “system development and demonstration” for “demonstration and validation”.
 
@@ -84,11 +84,11 @@ Subsec. (c)(3). Pub. L. 107–107, §821(d)(2)(C), substituted “full rate prod
 
 Subsec. (d)(2). Pub. L. 107–107, §1048(b)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
-1994—Pub. L. 103–355 amended section generally. Prior to amendment, section related to enhanced program stability.
+<b>1994</b>—Pub. L. 103–355 amended section generally. Prior to amendment, section related to enhanced program stability.
 
-1993—Subsec. (b)(2)(B). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
+<b>1993</b>—Subsec. (b)(2)(B). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 
-1990—Subsec. (b)(1). Pub. L. 101–510, §1484(k)(11), struck out closing parenthesis after “such Secretary” in introductory provisions.
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–510, §1484(k)(11), struck out closing parenthesis after “such Secretary” in introductory provisions.
 
 Subsec. (c). Pub. L. 101–510, §1207(b), struck out subsec. (c) which read as follows: “
 
@@ -96,17 +96,17 @@ Stability of Program Managers.—(1) The tour of duty of an officer of the armed
 
 “(2) The Secretary of the military department concerned may waive the length of the tour of duty prescribed in paragraph (1). The authority under the preceding sentence may not be delegated.”
 
-1989—Subsec. (a)(2)(B)(iv). Pub. L. 101–189, §811(b)(1), substituted “production” for “development”.
+<b>1989</b>—Subsec. (a)(2)(B)(iv). Pub. L. 101–189, §811(b)(1), substituted “production” for “development”.
 
 Subsec. (b)(1). Pub. L. 101–189, §811(b)(2)(A), substituted “service acquisition executive designated by such Secretary” for “senior procurement executive of such military department (designated pursuant to section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3))”.
 
 Subsec. (b)(2). Pub. L. 101–189, §811(b)(2)(B), substituted “180 days” for “90 days” in introductory provisions.
 
-1988—Subsec. (b)(2). Pub. L. 100–456 clarified amendment by Pub. L. 100–180, §803(a). See 1987 Amendment note below.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–456 clarified amendment by Pub. L. 100–180, §803(a). See 1987 Amendment note below.
 
 Subsec. (c). Pub. L. 100–370 added subsec. (c).
 
-1987—Subsec. (b)(2). Pub. L. 100–180, as amended by Pub. L. 100–456, substituted “under paragraph (1), and for which the total cost of completion of the stage will exceed by 15 percent or more, in the case of a development stage, or by 5 percent or more, in the case of a production stage, the amount specified in the baseline description established under subsection (a) for such stage; or any milestone specified in such baseline description will be missed by more than 90 days” for first reference to “under paragraph (1)”.
+<b>1987</b>—Subsec. (b)(2). Pub. L. 100–180, as amended by Pub. L. 100–456, substituted “under paragraph (1), and for which the total cost of completion of the stage will exceed by 15 percent or more, in the case of a development stage, or by 5 percent or more, in the case of a production stage, the amount specified in the baseline description established under subsection (a) for such stage; or any milestone specified in such baseline description will be missed by more than 90 days” for first reference to “under paragraph (1)”.
 
 Subsec. (c). Pub. L. 100–26, §7(b)(6), struck out subsec. (c) which defined “major defense acquisition program”.
 

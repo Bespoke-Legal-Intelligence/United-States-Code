@@ -30,9 +30,9 @@ The words “to include naval aviation and the United States Marine Corps” are
 
 #### Amendments
 
-1986—Pub. L. 99–433, §511(c)(1), substituted “Organization” for “Composition” in section catchline.
+<b>1986</b>—Pub. L. 99–433, §511(c)(1), substituted “Organization” for “Composition” in section catchline.
 
 Pub. L. 99–433, §511(b)(2), struck out the last two sentences which read as follows: “It is composed of the executive part of the Department of the Navy; the Headquarters, United States Marine Corps; the entire operating forces, including naval aviation, of the United States Navy and of the United States Marine Corps, and the reserve components of those operating forces; and all field activities, headquarters, forces, bases, installations, activities, and functions under the control or supervision of the Secretary of the Navy. It includes the United States Coast Guard when it is operating as a service in the Navy.” See section 5061 of this title.
 
-1962—Pub. L. 87–651 inserted sentences providing that the Department of the Navy is separately organized under the Secretary of the Navy, and that it operates under the authority, direction, and control of the Secretary of Defense.
+<b>1962</b>—Pub. L. 87–651 inserted sentences providing that the Department of the Navy is separately organized under the Secretary of the Navy, and that it operates under the authority, direction, and control of the Secretary of Defense.
 

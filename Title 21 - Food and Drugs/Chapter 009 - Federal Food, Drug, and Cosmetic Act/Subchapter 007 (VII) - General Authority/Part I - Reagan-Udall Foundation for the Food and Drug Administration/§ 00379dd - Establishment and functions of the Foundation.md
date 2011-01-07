@@ -118,7 +118,7 @@ The Foundation shall—
 
 &emsp;&emsp;&emsp;(iii) establish policies, including ethical standards, for the acceptance, solicitation, and disposition of donations and grants to the Foundation and for the disposition of the assets of the Foundation, including appropriate limits on the ability of donors to designate, by stipulation or restriction, the use or recipient of donated funds;
 
-&emsp;&emsp;&emsp;(iv) establish policies that would subject all employees, fellows, and trainees of the Foundation to the conflict of interest standards under section 208 of title 18;
+&emsp;&emsp;&emsp;(iv) establish policies that would subject all employees, fellows, and trainees of theFoundation to the conflict of interest standards under section 208 of title 18;
 
 &emsp;&emsp;&emsp;(v) establish licensing, distribution, and publication policies that support the widest and least restrictive use by the public of information and inventions developed by the Foundation or with Foundation funds to carry out the duties described in paragraphs (6) and (7) of subsection (c), and may include charging cost-based fees for published material produced by the Foundation;
 
@@ -204,11 +204,11 @@ In carrying out this part, the Board, acting through the Executive Director, may
 
 &emsp;&emsp;(C) the privileges granted to the Board by law are exercised and enjoyed;
 
-&emsp;(4) with the consent of the applicable executive department or independent agency, use the information, services, and facilities of such department or agencies in carrying out this section;
+&emsp;(4) with the consent of the applicable executive department or independent agency, usethe information, services, and facilities of such department or agencies in carrying out this section;
 
 &emsp;(5) enter into contracts with public and private organizations for the writing, editing, printing, and publishing of books and other material;
 
-&emsp;(6) hold, administer, invest, and spend any gift, devise, or bequest of real or personalproperty made to the Foundation under subsection (i);
+&emsp;(6) hold, administer, invest, and spend any gift, devise, or bequest of real or personal property made to the Foundation under subsection (i);
 
 &emsp;(7) enter into such other contracts, leases, cooperative agreements, and other transactions as the Board considers appropriate to conduct the activities of the Foundation;
 

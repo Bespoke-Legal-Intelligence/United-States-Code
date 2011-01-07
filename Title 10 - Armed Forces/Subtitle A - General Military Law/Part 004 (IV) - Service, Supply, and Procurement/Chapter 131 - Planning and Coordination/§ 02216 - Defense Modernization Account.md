@@ -70,7 +70,7 @@ Limitations.—(1) Funds in the Defense Modernization Account may not be used to
 
 Transfer of Funds.—(1) The Secretary of Defense may transfer funds in the Defense Modernization Account to appropriations available for purposes set forth in subsection (d).
 
-(2) Funds in the Defense Modernization Account may not be transferred under paragraph\(1) until 30 days after the date on which the Secretary concerned notifies the congressional defense committees in writing of the amount and purpose of the proposed transfer.
+(2) Funds in the Defense Modernization Account may not be transferred under paragraph (1) until 30 days after the date on which the Secretary concerned notifies the congressional defense committees in writing of the amount and purpose of the proposed transfer.
 
 (3) The total amount of transfers from the Defense Modernization Account during any fiscal year under this subsection may not exceed $500,000,000.
 
@@ -132,9 +132,9 @@ A prior section 2216, added Pub. L. 99–661, div. A, title XIII, §1307(a)(1), 
 
 #### Amendments
 
-2006—Subsec. (b)(1). Pub. L. 109–364 substituted “subsection (c)(1)(B)(iii)” for “subsections (c)(1)(B)(iii)”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–364 substituted “subsection (c)(1)(B)(iii)” for “subsections (c)(1)(B)(iii)”.
 
-2003—Subsec. (b). Pub. L. 108–136, §1008(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
+<b>2003</b>—Subsec. (b). Pub. L. 108–136, §1008(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 108–136, §1008(a)(1), (2), redesignated subsec. (b) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “Funds transferred to the Defense Modernization Account from funds appropriated for a military department, Defense Agency, or other element of the Department of Defense shall be available in accordance with subsections (f) and (g) only for transfer to funds available for that military department, Defense Agency, or other element.”
 
@@ -158,7 +158,7 @@ Subsec. (j)(3). Pub. L. 108–136, §1043(b)(8), struck out par. (3) which read 
 
 Subsec. (k). Pub. L. 108–136, §1008(f)(1), added subsec. (k).
 
-1999—Subsec. (j)(3)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+<b>1999</b>—Subsec. (j)(3)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
 #### Change of Name
 

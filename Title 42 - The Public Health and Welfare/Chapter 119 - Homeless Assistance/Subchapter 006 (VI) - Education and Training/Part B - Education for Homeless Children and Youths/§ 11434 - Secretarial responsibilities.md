@@ -18,7 +18,7 @@ The Secretary shall conduct evaluation and dissemination activities of programs 
 
 #### (e) Submission and distribution
 
-The Secretary shall require applications for grants under this part to be submitted to theSecretary not later than the expiration of the 60-day period beginning on the date that funds are available for purposes of making such grants and shall make such grants not later than the expiration of the 120-day period beginning on such date.
+The Secretary shall require applications for grants under this part to be submitted to the Secretary not later than the expiration of the 60-day period beginning on the date that funds are available for purposes of making such grants and shall make such grants not later than the expiration of the 120-day period beginning on such date.
 
 #### (f) Determination by Secretary
 

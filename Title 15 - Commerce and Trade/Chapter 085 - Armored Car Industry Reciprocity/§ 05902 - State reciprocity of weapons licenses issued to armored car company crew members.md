@@ -4,7 +4,7 @@
 
 If an armored car crew member employed by an armored car company—
 
-&emsp;(1) has in effect a license issued by the appropriate State agency (in the State in which such member is primarily employed by such company) to carry a weapon while acting in the services of such company in that State, and such State agency meets the minimum requirements under subsection (b) of this section; and
+&emsp;(1) has in effect a license issued by the appropriate State agency (in the State in which such member is primarily employed by such company) to carry a weapon while acting in the services of such company in that State,and such State agency meets the minimum requirements under subsection (b) of this section; and
 
 &emsp;(2) has met all other applicable requirements to act as an armored car crew member in the State in which such member is primarily employed by such company,
 
@@ -36,7 +36,7 @@ A State agency meets the minimum State requirements of this subsection if—
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–287, §2(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “If an armored car crew member employed by an armored car company has in effect a license issued by the appropriate State agency (in the State in which such member is primarily employed by such company) to carry a weapon while acting in the services of such company in that State, and such State agency meets the minimum State requirements under subsection (b) of this section, then such crew member shall be entitled to lawfully carry any weapon to which such license relates in any State while such crew member is acting in the service of such company.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–287, §2(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “If an armored car crew member employed by an armored car company has in effect a license issued by the appropriate State agency (in the State in which such member is primarily employed by such company) to carry a weapon while acting in the services of such company in that State, and such State agency meets the minimum State requirements under subsection (b) of this section, then such crew member shall be entitled to lawfully carry any weapon to which such license relates in any State while such crew member is acting in the service of such company.”
 
 Subsec. (b). Pub. L. 105–287, §2(b), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “A State agency meets the minimum State requirements of this subsection if in issuing a weapons license to an armored car crew member described in subsection (a) of this section, the agency requires the crew member to provide information on an annual basis to the satisfaction of the agency that—
 

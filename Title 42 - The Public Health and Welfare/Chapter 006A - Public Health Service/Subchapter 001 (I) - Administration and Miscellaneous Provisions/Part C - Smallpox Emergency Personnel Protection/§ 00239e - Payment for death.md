@@ -54,7 +54,7 @@
 
 #### (ii) Relation to other obligations
 
-&emsp;&emsp;&emsp;Payments under paragraph (1) shall not be made to with respect to <sup>1</sup> an eligible individual to the extent that the total of amounts paid with respect to the individual under such paragraph and under the other obligations referred to in clause (i) is an amount that exceeds the rate of payment that applies under paragraph (2). If under any such other obligation a lump-sum payment is made, such payment shall, for purposes of this subparagraph, be deemed to be received over multiple years rather than received in a single year. TheSecretary may, in the discretion of the Secretary, determine how to apportion such payment over multiple years.
+&emsp;&emsp;&emsp;Payments under paragraph (1) shall not be made to with respect to <sup>1</sup> an eligible individual to the extent that the total of amounts paid with respect to the individual under such paragraph and under the other obligations referred to in clause (i) is an amount that exceeds the rate of payment that applies under paragraph (2). Ifunder any such other obligation a lump-sum payment is made, such payment shall, for purposes of this subparagraph, be deemed to be received over multiple years rather than received in a single year. The Secretary may, in the discretion of the Secretary, determine how to apportion such payment over multiple years.
 
 #### (c) Benefit in addition to medical benefits
 

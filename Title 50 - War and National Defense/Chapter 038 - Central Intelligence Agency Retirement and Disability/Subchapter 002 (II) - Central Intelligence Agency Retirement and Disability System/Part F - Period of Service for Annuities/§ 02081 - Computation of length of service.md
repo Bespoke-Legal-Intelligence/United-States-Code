@@ -18,7 +18,7 @@
 
 #### (1) Classification of certain posts as unhealthful
 
-&emsp;The Director may from time to time establish a list of places outside the United Statesthat, by reason of climatic or other extreme conditions, are to be classed as unhealthful posts. Such list shall be established in consultation with the Secretary of State.
+&emsp;The Director may from time to time establish a list of places outside the United States that, by reason of climatic or other extreme conditions, are to be classed as unhealthful posts. Such list shall be established in consultation with the Secretary of State.
 
 #### (2) Extra credit
 

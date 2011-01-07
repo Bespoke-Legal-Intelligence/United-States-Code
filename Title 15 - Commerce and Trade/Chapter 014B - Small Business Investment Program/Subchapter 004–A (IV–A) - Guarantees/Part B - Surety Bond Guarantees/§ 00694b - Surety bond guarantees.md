@@ -2,9 +2,7 @@
 
 #### (a) Authority of Administration to guarantee surety against loss from principal's breach of bond
 
-(1)(A) The Administration may, upon such terms and conditions as it may prescribe, guarantee and enter into commitments to guarantee any surety against loss resulting from a breach of the terms of a bid bond, payment bond, performance bond, or bonds ancillary thereto, by a principal on any total work order or contract amount at the time of bond execution that does not exceed $5,000,000.
-
-(B) The Administrator may guarantee a surety under subparagraph (A) for a total work order or contract amount that does not exceed $10,000,000, if a contracting officer of a Federal agency certifies that such a guarantee is necessary.
+(1) The Administration may, upon such terms and conditions as it may prescribe, guarantee and enter into commitments to guarantee any surety against loss resulting from a breach of the terms of a bid bond, payment bond, performance bond, or bonds ancillary thereto, by a principal on any total work order or contract amount at the time of bond execution that does not exceed $2,000,000.
 
 (2) The terms and conditions of said guarantees and commitments may vary from surety to surety on the basis of the Administration's experience with the particular surety.
 
@@ -58,15 +56,15 @@ The Administration may establish and periodically review regulations for partici
 
 #### (e) Reimbursement of surety; conditions
 
-Pursuant to any such guarantee or agreement, the Administration shall reimburse the surety, as provided in subsection (c) of this section, except that the Administration shall be relieved of liability (in whole or in part within the discretion of the Administration) if—
+Pursuant to any such guarantee or agreement, the Administration shall reimburse the surety, as provided in subsection (c) of this section, except that the Administration shall be relieved of all liability if—
 
-&emsp;(1) the surety obtained such guarantee or agreement, or applied for such reinbursement,<sup>2</sup> by fraud or material misrepresentation,
+&emsp;(1) the surety obtained such guarantee or agreement, or applied for such reimbursement, by fraud or material misrepresentation,
 
-&emsp;(2) the total contract amount at the time of execution of the bond or bonds exceeds $5,000,000,
+&emsp;(2) the total contract amount at the time of execution of the bond or bonds exceeds $2,000,000,
 
-&emsp;(3) the surety has breached a material term or condition of such guarantee <sup>3</sup> agreement, or
+&emsp;(3) the surety has breached a material term or condition of such guarantee agreement, or
 
-&emsp;(4) the surety has substantially violated the regulations promulgated by the Administration pursuant to subsection (d).
+&emsp;(4) the surety has substantially violated the regulations promulgated by the Administration pursuant to subsection (d) of this section.
 
 #### (f) Procedure for reimbursement
 
@@ -88,45 +86,39 @@ The Administration shall administer this part on a prudent and economically just
 
 The provisions of section 693 of this title shall apply in the administration of this section.
 
-#### (k) <sup>4</sup> Bonds with prior approval
-
-For bonds made or executed with the prior approval of the Administration, the Administration shall not deny liability to a surety based upon material information that was provided as part of the guaranty application.
-
 (Pub. L. 85–699, title IV, §411, as added Pub. L. 91–609, title IX, §911(a)(4), Dec. 31, 1970, 84 Stat. 1813; amended Pub. L. 93–386, §§6(a)(3), 11, Aug. 23, 1974, 88 Stat. 747, 749; Pub. L. 95–507, title I, §111, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 96–302, title I, §115, July 2, 1980, 94 Stat. 839; Pub. L. 99–272, title XVIII, §18014, Apr. 7, 1986, 100 Stat. 370; Pub. L. 100–590, title II, §§202–204, Nov. 3, 1988, 102 Stat. 3007–3009; Pub. L. 104–208, div. D, title II, §206(a), Sept. 30, 1996, 110 Stat. 3009–738; Pub. L. 105–135, title VI, §604(d), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 106–554, §1(a)(9) \[title VIII, §805(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–705; Pub. L. 108–447, div. K, title II, §203(a), (b), Dec. 8, 2004, 118 Stat. 3465, 3466; Pub. L. 111–5, div. A, title V, §508(a), (b), Feb. 17, 2009, 123 Stat. 158.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 508(f) of Pub. L. 111–5, see Termination Date of 2009 Amendment note below.</i>
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–5, §508(a), (f), temporarily amended par. (1) by designating existing provisions as subpar. (A), substituting “$5,000,000” for “$2,000,000”, and adding subpar. (B). See Termination Date of 2009 Amendment note below.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–5, §508(a), (f), temporarily amended par. (1) by designating existing provisions as subpar. (A), substituting “$5,000,000” for “$2,000,000”, and adding subpar. (B) which read as follows: “The Administrator may guarantee a surety under subparagraph (A) for a total work order or contract amount that does not exceed $10,000,000, if a contracting officer of a Federal agency certifies that such a guarantee is necessary.” See Termination Date of 2009 Amendment note below.
 
-Subsec. (e). Pub. L. 111–5, §508(b)(1), (f), temporarily added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “Pursuant to any such guarantee or agreement, the Administration shall reimburse the surety, as provided in subsection (c) of this section, except that the Administration shall be relieved of all liability if—
+Subsec. (e). Pub. L. 111–5, §508(b)(1), (f), temporarily added subsec. (e), the text of which read as follows:
 
-&emsp;“(1) the surety obtained such guarantee or agreement, or applied for such reimbursement, by fraud or material misrepresentation,
+“Pursuant to any such guarantee or agreement, the Administration shall reimburse the surety, as provided in subsection (c) of this section, except that the Administration shall be relieved of liability (in whole or in part within the discretion of the Administration) if—
 
-&emsp;“(2) the total contract amount at the time of execution of the bond or bonds exceeds $2,000,000,
+&emsp;“(1) the surety obtained such guarantee or agreement, or applied for such reinbursement, by fraud or material misrepresentation,
+
+&emsp;“(2) the total contract amount at the time of execution of the bond or bonds exceeds $5,000,000,
 
 &emsp;“(3) the surety has breached a material term or condition of such guarantee agreement, or
 
-&emsp;“(4) the surety has substantially violated the regulations promulgated by the Administration pursuant to subsection (d) of this section.”
+&emsp;“(4) the surety has substantially violated the regulations promulgated by the Administration pursuant to subsection (d).”
 
 > See Termination Date of 2009 Amendment note below.
 
-Subsec. (k). Pub. L. 111–5, §508(b)(2), (f), temporarily added subsec. (k). See Termination Date of 2009 Amendment note below.
+Subsec. (k). Pub. L. 111–5, §508(b)(2), (f), temporarily added subsec. (k) which read as follows: “For bonds made or executed with the prior approval of the Administration, the Administration shall not deny liability to a surety based upon material information that was provided as part of the guaranty application.” See Termination Date of 2009 Amendment note below.
 
-2004—Subsec. (a)(1). Pub. L. 108–447, §203(a), substituted “total work order or contract amount at the time of bond execution that does not exceed” for “contract up to”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–447, §203(a), substituted “total work order or contract amount at the time of bond execution that does not exceed” for “contract up to”.
 
 Subsec. (g)(3). Pub. L. 108–447, §203(b), substituted “every three years” for “each year”.
 
-2000—Subsecs. (a)(1), (e)(2). Pub. L. 106–554 substituted “$2,000,000” for “$1,250,000”.
+<b>2000</b>—Subsecs. (a)(1), (e)(2). Pub. L. 106–554 substituted “$2,000,000” for “$1,250,000”.
 
-1997—Subsec. (c)(3)(B). Pub. L. 105–135 inserted “, or to a qualified HUBZone small business concern (as defined in section 632(p) of this title)” before semicolon.
+<b>1997</b>—Subsec. (c)(3)(B). Pub. L. 105–135 inserted “, or to a qualified HUBZone small business concern (as defined in section 632(p) of this title)” before semicolon.
 
-1996—Subsec. (a)(5). Pub. L. 104–208 added par. (5).
+<b>1996</b>—Subsec. (a)(5). Pub. L. 104–208 added par. (5).
 
-1988—Subsec. (a). Pub. L. 100–590, §202, amended subsec. (a) generally, substituting pars. (1) to (4) for former pars. (1) to (6).
+<b>1988</b>—Subsec. (a). Pub. L. 100–590, §202, amended subsec. (a) generally, substituting pars. (1) to (4) for former pars. (1) to (6).
 
 Subsec. (b). Pub. L. 100–590, §203(c), added par. (2), redesignated former par. (2) as (3), struck out former par. (3) which prohibited the making subsequent to two years after Oct. 24, 1978, of new agreements to indemnify, and inserted concluding provision: “In no event shall the Administration pay a surety pursuant to this subsection an amount exceeding the guaranteed share of the bond available to such surety pursuant to subsection (a) of this section.”
 
@@ -136,11 +128,11 @@ Subsec. (e)(3), (4). Pub. L. 100–590, §203(c), added pars. (3) and (4).
 
 Subsec. (g). Pub. L. 100–590, §204, amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The Administration may at all reasonable times audit in the offices of a participating surety all documents, files, books, records, and other material relevant to the Administration's guarantee, commitments to guarantee, or agreements to indemnify any surety pursuant to this section.”
 
-1986—Subsecs. (a), (e)(2). Pub. L. 99–272 substituted “$1,250,000” for “$1,000,000”.
+<b>1986</b>—Subsecs. (a), (e)(2). Pub. L. 99–272 substituted “$1,250,000” for “$1,000,000”.
 
-1980—Subsec. (c). Pub. L. 96–302 struck out “to or on behalf of the obligee, or to labor and materialmen, in fulfilling the terms of the contract” after “paid by the surety” in cl. (1).
+<b>1980</b>—Subsec. (c). Pub. L. 96–302 struck out “to or on behalf of the obligee, or to labor and materialmen, in fulfilling the terms of the contract” after “paid by the surety” in cl. (1).
 
-1978—Subsec. (a). Pub. L. 95–507 amended subsec. (a) generally, striking out requirement that the Administration consult with the Secretary of Housing and Urban Development, and inserting authority to vary the terms and conditions of guarantees on the basis of experience with a particular surety and authority to guarantee bonds ancillary and conterminous with the other named bonds.
+<b>1978</b>—Subsec. (a). Pub. L. 95–507 amended subsec. (a) generally, striking out requirement that the Administration consult with the Secretary of Housing and Urban Development, and inserting authority to vary the terms and conditions of guarantees on the basis of experience with a particular surety and authority to guarantee bonds ancillary and conterminous with the other named bonds.
 
 Subsec. (b). Pub. L. 95–507 substituted provisions relating to indemnification of a surety against loss sustained in attempting to avoid or avoiding breach for provisions relating to the extent of liability of the Administration for loss incurred by a surety.
 
@@ -150,7 +142,7 @@ Subsec. (d). Pub. L. 95–507 substituted provisions relating to regulations for
 
 Subsecs. (e) to (i). Pub. L. 95–507 added subsecs. (e) to (i).
 
-1974—Subsec. (a). Pub. L. 93–386, §6(a)(3), substituted “$1,000,000” for “$500,000”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–386, §6(a)(3), substituted “$1,000,000” for “$500,000”.
 
 Subsec. (c). Pub. L. 93–386, §11, inserted provisions relating to the administration of the program on a prudent and economically justifiable basis and provisions requiring the Administration to publish the cost of the program to the Administration, to conduct a study of the program in order to determine what must be done to make the program economically sound, and to transmit a report to Congress of the findings, conclusions, and recommendations of the study.
 
@@ -182,17 +174,11 @@ Section 205 of title II of Pub. L. 100–590 provided that: “The Administratio
 
 #### Small Business Access to Surety Bonding Survey
 
-Pub. L. 102–366, title III, subtitle A, Sept. 4, 1992, 106 Stat. 1002–1005, known as the Small Business Access to Surety Bonding Survey Act of 1992, directed Comptroller General to conduct a comprehensive survey of business firms, from a statistically valid sample of business firms developed from the most recent list of construction firms maintained by Dun and Bradstreet Company and using a questionnaire with specifically designated questions, to obtain data on the experiences of such firms, and especially the experiences of small business concerns, in obtaining surety bonds from corporate surety firms and to submit a report to Congress, not later than 18 months after Sept. 4, 1992, which report was to contain a summary of responses of business firms to the survey and a description of any trends found by Comptroller General in such responses, which specific information on responses and trends of small business concerns, small business concerns owned and controlled by women, and small business concerns owned and controlled by socially and economically disadvantaged individuals.
+Pub. L. 102–366, title III, subtitle A, Sept. 4, 1992, 106 Stat. 1002–1005, known as the Small Business Access to Surety Bonding Survey Act of 1992, directed Comptroller General to conduct a comprehensive survey of business firms, from a statistically valid sample of business firms developed from the most recent list of construction firms maintained by Dun and Bradstreet Company and using a questionnaire with specifically designated questions, to obtain data on the experiences of such firms, and especially the experiences of small business concerns, in obtaining surety bonds from corporate surety firms and to submit a report to Congress, not laterthan 18 months after Sept. 4, 1992, which report was to contain a summary of responses of business firms to the survey and a description of any trends found by Comptroller General in such responses, which specific information on responses and trends of small business concerns, small business concerns owned and controlled by women, and small business concerns owned and controlled by socially and economically disadvantaged individuals.
 
 #### Evaluation of Preferred Surety Bond Guarantee Program; Report
 
 Section 206 of title II of Pub. L. 100–590, as amended by Pub. L. 101–574, title II, §216(b), Nov. 15, 1990, 104 Stat. 2823, directed Comptroller General, not later than 3 years after Nov. 3, 1988, to transmit a report to Congress evaluating the preferred surety bond guarantee program, with such report to be transmitted not later than Mar. 1, 1994, and cover the period Oct. 1, 1990, through Sept. 30, 1993.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “reimbursement,”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be followed by “or”.</i>
-
-<i><sup>4</sup></i><i> So in original. No subsec. (j) has been enacted.</i>
 

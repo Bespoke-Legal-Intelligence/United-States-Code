@@ -58,11 +58,11 @@ Section 701 of the Foreign Service Act of 1946, referred to in subsec. (a), whic
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–132 inserted at end “The institution shall be designated the ‘George P. Shultz National Foreign Affairs Training Center’ ”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–132 inserted at end “The institution shall be designated the ‘George P. Shultz National Foreign Affairs Training Center’ ”.
 
 Subsecs. (d)(4) to (g). Pub. L. 107–228 repealed Pub. L. 105–277, §2205(a)(3). See 1998 Amendment notes below.
 
-1998—Subsec. (d)(4). Pub. L. 105–277, §2205(a)(3)(B), which directed the redesignation of subsec. (g) as (d)(4), effective Oct. 1, 2002, was repealed by Pub. L. 107–228, effective Sept. 30, 2002.
+<b>1998</b>—Subsec. (d)(4). Pub. L. 105–277, §2205(a)(3)(B), which directed the redesignation of subsec. (g) as (d)(4),effective Oct. 1, 2002, was repealed by Pub. L. 107–228, effective Sept. 30, 2002.
 
 Pub. L. 105–277, §2205(a)(1)(A), redesignated subsec. (d)(4) as (g).
 
@@ -74,7 +74,7 @@ Subsec. (g). Pub. L. 105–277, §2205(a)(3)(B), which directed the redesignatio
 
 Pub. L. 105–277, §2205(a)(1)(A), redesignated subsec. (d)(4) as (g).
 
-1994—Pub. L. 103–415 made technical amendment relating to style of section catchline.
+<b>1994</b>—Pub. L. 103–415 made technical amendment relating to style of section catchline.
 
 Pub. L. 103–236, §126(2)(A), substituted “Institution for training” for “Foreign Service Institute” as section catchline.
 
@@ -84,7 +84,7 @@ Subsec. (b). Pub. L. 103–236, §126(3), substituted “institution” for “I
 
 Subsec. (d). Pub. L. 103–236, §126(2)(C), added subsec. (d).
 
-1983—Subsec. (c). Pub. L. 98–164 added subsec. (c).
+<b>1983</b>—Subsec. (c). Pub. L. 98–164 added subsec. (c).
 
 #### Change of Name
 

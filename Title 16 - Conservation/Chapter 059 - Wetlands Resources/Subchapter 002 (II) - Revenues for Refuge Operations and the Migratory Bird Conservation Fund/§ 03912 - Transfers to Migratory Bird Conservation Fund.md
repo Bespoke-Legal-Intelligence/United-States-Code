@@ -10,9 +10,11 @@ The Harmonized Tariff Schedule of the United States, referred to in text, is not
 
 #### Amendments
 
-1988—Pub. L. 100–418 substituted “chapter 93 of the Harmonized Tariff Schedule of the United States” for “subpart A of part 5 of schedule 7 of the Tariff Schedules of the United States”.
+<b>1988</b>—Pub. L. 100–418 substituted “chapter 93 of the Harmonized Tariff Schedule of the United States” for “subpart A of part 5 of schedule 7 of the Tariff Schedules of the United States”.
 
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

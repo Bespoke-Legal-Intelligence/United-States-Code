@@ -30,7 +30,7 @@ Changes in phraseology were made.
 
 #### Amendments
 
-2005—Pub. L. 109–8 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>2005</b>—Pub. L. 109–8 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 #### Effective Date of 2005 Amendment
 

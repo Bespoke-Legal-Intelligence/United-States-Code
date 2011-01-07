@@ -52,7 +52,7 @@ Prohibition.—Except as provided in section 3641, no product that involves the 
 
 #### Amendments
 
-2006—Pub. L. 109–435 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d), related to special authority relating to reduced-rate categories of mail.
+<b>2006</b>—Pub. L. 109–435 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d), related to special authority relating to reduced-rate categories of mail.
 
 #### Effective Date
 

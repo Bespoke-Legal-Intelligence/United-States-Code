@@ -10,5 +10,5 @@ Subchapters III and VI of this chapter, referred to in text, were comprised of s
 
 #### Amendments
 
-1942—Act Jan. 21, 1942, inserted last sentence.
+<b>1942</b>—Act Jan. 21, 1942, inserted last sentence.
 

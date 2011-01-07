@@ -16,7 +16,7 @@ As used in this chapter, the term—
 
 &emsp;(5) “distributor” means a person who purchases fasteners for the purpose of reselling them at wholesale to unaffiliated persons within the United States (an original equipment manufacturer and its dealers shall be considered affiliated persons for purposes of this chapter);
 
-&emsp;(6) “fastener” means a metallic screw, nut, bolt, or stud having internal or external threads, with a nominal diameter of 6 millimeters or greater, in the case of such items described in metric terms, or 1/4 inch or greater, in the case of such items described in terms of the English system of measurement, or a load-indicating washer, that is through-hardened or represented as meeting a consensus standard that calls for through-hardening, and that is grade identification marked or represented as meeting a consensus standard that requires grade identification marking, except that such term does not include any screw, nut, bolt, stud, or load-indicating washer that is—
+&emsp;(6) “fastener” means a metallic screw, nut, bolt, or stud having internal or external threads, with a nominal diameter of 6 millimeters or greater, in the case of such items described in metric terms, or ¼ inch or greater, in the case of such items described in terms of the English system of measurement, or a load-indicating washer, that is through-hardened or represented as meeting a consensus standard that calls for through-hardening, and that is grade identification marked or represented as meeting a consensus standard that requires grade identification marking, except that such term does not include any screw, nut, bolt, stud, or load-indicating washer that is—
 
 &emsp;&emsp;(A) part of an assembly;
 
@@ -112,9 +112,9 @@ As used in this chapter, the term—
 
 #### Amendments
 
-1999—Pub. L. 106–34 amended section catchline and text generally, restating certain definitions, adding new definitions, and striking out definitions of “alter”, “container”, “institute”, “original equipment manufacturer”, “private label distributor”, and “standards and specifications”.
+<b>1999</b>—Pub. L. 106–34 amended section catchline and text generally, restating certain definitions, adding new definitions, and striking out definitions of “alter”, “container”, “institute”, “original equipment manufacturer”, “private label distributor”, and “standards and specifications”.
 
-1996—Par. (1)(B). Pub. L. 104–113, §11(b)(1), struck out “having a minimum tensile strength of 150,000 pounds per square inch” after “fasteners”.
+<b>1996</b>—Par. (1)(B). Pub. L. 104–113, §11(b)(1), struck out “having a minimum tensile strength of 150,000 pounds per square inch” after “fasteners”.
 
 Par. (2). Pub. L. 104–113, §11(b)(2), inserted “consensus” after “or any other”.
 

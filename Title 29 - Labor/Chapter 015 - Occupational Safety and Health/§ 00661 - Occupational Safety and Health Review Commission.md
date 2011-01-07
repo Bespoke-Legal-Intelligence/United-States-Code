@@ -58,7 +58,7 @@ In subsec. (e), reference to section 5372 of title 5 was substituted for section
 
 #### Amendments
 
-1978—Subsecs. (e), (j), (k). Pub. L. 95–251 substituted “administrative law judge” and “administrative law judges” for “hearing examiner” and “hearing examiners”, respectively, wherever appearing.
+<b>1978</b>—Subsecs. (e), (j), (k). Pub. L. 95–251 substituted “administrative law judge” and “administrative law judges” for “hearing examiner” and “hearing examiners”, respectively, wherever appearing.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

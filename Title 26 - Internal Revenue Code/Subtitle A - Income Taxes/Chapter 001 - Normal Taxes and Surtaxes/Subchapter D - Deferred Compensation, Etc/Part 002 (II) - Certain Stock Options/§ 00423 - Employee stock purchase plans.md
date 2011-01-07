@@ -34,7 +34,7 @@ For purposes of this part, the term “employee stock purchase plan” means a p
 
 &emsp;&emsp;(A) an amount equal to 85 percent of the fair market value of the stock at the time such option is granted, or
 
-&emsp;&emsp;(B) an amount which under the terms of the option may not be less than 85 percent ofthe fair market value of the stock at the time such option is exercised;
+&emsp;&emsp;(B) an amount which under the terms of the option may not be less than 85 percent of the fair market value of the stock at the time such option is exercised;
 
 &emsp;(7) under the terms of the plan, such option cannot be exercised after the expiration of—
 
@@ -68,19 +68,19 @@ If the option price of a share of stock acquired by an individual pursuant to a 
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–357 inserted at end of concluding provisions “No amount shall be required to be deducted and withheld under chapter 24 with respect to any amount treated as compensation under this subsection.”
+<b>2004</b>—Subsec. (c). Pub. L. 108–357 inserted at end of concluding provisions “No amount shall be required to be deducted and withheld under chapter 24 with respect to any amount treated as compensation under this subsection.”
 
-1990—Subsec. (a). Pub. L. 101–508, §11801(c)(9)(D)(i), struck out “(other than a restricted stock option granted pursuant to a plan described in section 424(c)(3)(B))” after “December 31, 1963”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §11801(c)(9)(D)(i), struck out “(other than a restricted stock option granted pursuant to a plan described in section 424(c)(3)(B))” after “December 31, 1963”.
 
 Subsec. (a)(2). Pub. L. 101–508, §11801(c)(9)(D)(ii), substituted “424(a)” for “425(a)”.
 
 Subsec. (b)(3). Pub. L. 101–508, §11801(c)(9)(E), substituted “424(d)” for “425(d)”.
 
-1986—Subsec. (b)(4)(D). Pub. L. 99–514 substituted “highly compensated employees (within the meaning of section 414(q))” for “officers, persons whose principal duties consist of supervising the work of other employees, or highly compensated employees”.
+<b>1986</b>—Subsec. (b)(4)(D). Pub. L. 99–514 substituted “highly compensated employees (within the meaning of section 414(q))” for “officers, persons whose principal duties consist of supervising the work of other employees, or highly compensated employees”.
 
-1984—Subsec. (a)(1). Pub. L. 98–369 substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–369 substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-1976—Subsec. (a)(1). Pub. L. 94–455, §1402(b)(2), provided that “9 months” would be changed to “1 year”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–455, §1402(b)(2), provided that “9 months” would be changed to “1 year”.
 
 Pub. L. 94–455, §1402(b)(1)(E), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 

@@ -56,11 +56,11 @@ Aug. 1, 1956, ch. 837, §§102(6)(B) (less 1st sentence, as applicable to death 
 
 In subsection (a), the words “was put to death” are substituted for the words “suffered death”. The words “or naval” are omitted as covered by the word “military”.
 
-In subsection (b), the words “last period that he performed” are substituted for the words “such period”.
+In subsection (b), the words “last period \* \* \* that he performed” are substituted for the words “such period”.
 
 #### Amendments
 
-1989—Subsec. (b). Pub. L. 101–189, §1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–189, §1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
 Subsec. (c). Pub. L. 101–189, §1621(a)(2), (5), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” after “section 1476 of this title, the” and “the Secretary concerned or the Secretary of Veterans Affairs” for “the Secretary or the Administrator”.
 

@@ -22,7 +22,7 @@ For purposes of this part:
 
 #### Amendments
 
-2002—Par. (2). Pub. L. 107–251 substituted “254b(h)(5) ” for “256(r)”.
+<b>2002</b>—Par. (2). Pub. L. 107–251 substituted “254b(h)(5) ” for “256(r)”.
 
-1990—Pub. L. 101–645 amended section generally, substituting provisions relating to definitions for provisions relating to nondiscrimination.
+<b>1990</b>—Pub. L. 101–645 amended section generally, substituting provisions relating to definitions for provisions relating to nondiscrimination.
 

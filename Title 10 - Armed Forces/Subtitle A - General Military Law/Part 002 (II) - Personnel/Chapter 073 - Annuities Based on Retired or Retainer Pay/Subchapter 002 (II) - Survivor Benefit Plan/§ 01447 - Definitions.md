@@ -124,15 +124,15 @@ Chapter 67 of this title as in effect before the effective date of the Reserve O
 
 #### Amendments
 
-1996—Pub. L. 104–201 amended section generally, making changes in the order, style, and substance of definitions of terms used in this subchapter and adding definition of “surviving spouse”.
+<b>1996</b>—Pub. L. 104–201 amended section generally, making changes in the order, style, and substance of definitions of terms used in this subchapter and adding definition of “surviving spouse”.
 
-1994—Par. (2)(C). Pub. L. 103–337, §1671(d)(2), substituted “12731(d)” for “1331(d)”.
+<b>1994</b>—Par. (2)(C). Pub. L. 103–337, §1671(d)(2), substituted “12731(d)” for “1331(d)”.
 
 Par. (14). Pub. L. 103–337, §1671(d)(1), substituted “chapter 1223 of this title (or under chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “chapter 67 of this title”.
 
-1990—Par. (5). Pub. L. 101–510 made technical correction to directory language of Pub. L. 101–189, §1407(a)(1)(A), see 1989 Amendment note below.
+<b>1990</b>—Par. (5). Pub. L. 101–510 made technical correction to directory language of Pub. L. 101–189, §1407(a)(1)(A), see 1989 Amendment note below.
 
-1989—Par. (2)(B). Pub. L. 101–189, §1407(a)(2), substituted “reserve-component retired pay” for “retired pay under chapter 67 of this title”.
+<b>1989</b>—Par. (2)(B). Pub. L. 101–189, §1407(a)(2), substituted “reserve-component retired pay” for “retired pay under chapter 67 of this title”.
 
 Par. (2)(C)(i). Pub. L. 101–189, §1407(a)(3), struck out “or retainer” after “eligible for retired”.
 
@@ -146,13 +146,13 @@ Par. (11). Pub. L. 101–189, §1407(a)(1)(B), inserted “paid under section 63
 
 Par. (14). Pub. L. 101–189, §1407(a)(1)(C), added par. (14).
 
-1987—Pub. L. 100–180 inserted “The term” after each par. designation and revised first word in quotes in pars. (2) to (13) to make initial letter of such word lowercase.
+<b>1987</b>—Pub. L. 100–180 inserted “The term” after each par. designation and revised first word in quotes in pars. (2) to (13) to make initial letter of such word lowercase.
 
-1986—Par. (2)(A). Pub. L. 99–661 substituted “retired pay” for “retired or retainer pay” in two places in provisions preceding cl. (i).
+<b>1986</b>—Par. (2)(A). Pub. L. 99–661 substituted “retired pay” for “retired or retainer pay” in two places in provisions preceding cl. (i).
 
 Pub. L. 99–348 inserted “(determined without regard to any reduction under section 1409(b)(2) of this title)”.
 
-1985—Par. (2)(C). Pub. L. 99–145, §721(b), inserted “(with the concurrence of the person's spouse, if required under section 1448(a)(3) of this title)” after “designated by the person”.
+<b>1985</b>—Par. (2)(C). Pub. L. 99–145, §721(b), inserted “(with the concurrence of the person's spouse, if required under section 1448(a)(3) of this title)” after “designated by the person”.
 
 Par. (2)(C)(i). Pub. L. 99–145, §719(2)(A), substituted “a standard annuity” for “an annuity by virtue of eligibility under section 1448(a)(1)(A) of this title”.
 
@@ -160,15 +160,15 @@ Par. (2)(C)(ii). Pub. L. 99–145, §719(2)(B), substituted “a reserve-compone
 
 Pars. (11) to (13). Pub. L. 99–145, §719(1), added pars. (11) to (13).
 
-1983—Par. (8). Pub. L. 98–94 substituted “or annulment” for “annulment, or legal separation,” in two places.
+<b>1983</b>—Par. (8). Pub. L. 98–94 substituted “or annulment” for “annulment, or legal separation,” in two places.
 
-1982—Pars. (6) to (10). Pub. L. 97–252 added pars. (6) to (10).
+<b>1982</b>—Pars. (6) to (10). Pub. L. 97–252 added pars. (6) to (10).
 
-1980—Par. (2). Pub. L. 96–402 inserted in subpar. (C) “but which is not less than $300” after “under the Plan”, substituted a period at end of subpar. (C) for “, but not less than $300;”, and struck out following subpar. (C) “as increased from time to time under section 1401a of this title.”
+<b>1980</b>—Par. (2). Pub. L. 96–402 inserted in subpar. (C) “but which is not less than $300” after “under the Plan”, substituted a period at end of subpar. (C) for “, but not less than $300;”, and struck out following subpar. (C) “as increased from time to time under section 1401a of this title.”
 
-1978—Par. (2). Pub. L. 95–397 inserted “in the case of a person who dies after becoming entitled to retired or retainer pay” before “the amount” and substituted “pay to which the person” for “pay to which a person” in subpar. (A), substituted “in the case of a person who would have become eligible for retired pay under chapter 67 of this title but for the fact that he died before becoming 60 years of age, the amount of monthly retired pay for which the person would have been eligible—” for “any amount less than that described by clause (A) designated by that person on or before the first day for which he became eligible for retired or retainer pay, but not less than $300” in subpar. (B), and added subpars. (B)(i), (ii) and (C).
+<b>1978</b>—Par. (2). Pub. L. 95–397 inserted “in the case of a person who dies after becoming entitled to retired or retainer pay” before “the amount” and substituted “pay to which the person” for “pay to which a person” in subpar. (A), substituted “in the case of a person who would have become eligible for retired pay under chapter 67 of this title but for the fact that he died before becoming 60 years of age, the amount of monthly retired pay for which the person would have been eligible—” for “any amount less than that described by clause (A) designated by that person on or before the first day for which he became eligible for retired or retainer pay, but not less than $300” in subpar. (B), and added subpars. (B)(i), (ii) and (C).
 
-1976—Pars. (3)(A), (4)(A). Pub. L. 94–496 substituted “one year” for “two years”.
+<b>1976</b>—Pars. (3)(A), (4)(A). Pub. L. 94–496 substituted “one year” for “two years”.
 
 #### Effective Date of 1994 Amendment
 

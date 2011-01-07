@@ -44,13 +44,13 @@ To be eligible to receive payments under section 9037, a candidate shall certify
 
 &emsp;(A) In any case in which an individual is ineligible to receive payments under section 9037 as a result of the operation of paragraph (1)(A), the Commission may subsequently determine that such individual is a candidate upon a finding that such individual is actively seeking election to the office of President of the United States in more than one State. The Commission shall make such determination without requiring such individual to reestablish his eligibility to receive payments under subsection (a).
 
-&emsp;(B) Notwithstanding the provisions of paragraph (1)(B), a candidate whose payments have been terminated under paragraph (1)(B) may again receive payments (including amounts he would have received but for paragraph (1)(B)) if he receives 20 percent or more of the total number of votes cast for candidates of the same party in a primary election held after the date on which the election was held which was the basis for terminating payments to him.
+&emsp;(B) Notwithstanding the provisions of paragraph (1)(B), a candidate whose payments have been terminated under paragraph (1)(B) may again receive payments (including amounts hewould have received but for paragraph (1)(B)) if he receives 20 percent or more of the total number of votes cast for candidates of the same party in a primary election held after the date on which the election was held which was the basis for terminating payments to him.
 
 (Added Pub. L. 93–443, title IV, §408(c), Oct. 15, 1974, 88 Stat. 1299; amended Pub. L. 94–283, title III, §§305(c), 306(b)(2), May 11, 1976, 90 Stat. 499, 500.)
 
 #### Amendments
 
-1976—Subsec. (b)(1). Pub. L. 94–283, §305(c), substituted “limitations” for “limitation”.
+<b>1976</b>—Subsec. (b)(1). Pub. L. 94–283, §305(c), substituted “limitations” for “limitation”.
 
 Subsec. (c). Pub. L. 94–283, §306(b)(2), added subsec. (c).
 

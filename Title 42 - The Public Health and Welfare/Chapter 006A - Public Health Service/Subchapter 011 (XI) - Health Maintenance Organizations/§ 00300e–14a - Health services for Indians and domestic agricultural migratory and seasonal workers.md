@@ -14,7 +14,7 @@ Section was enacted as part of the Health Maintenance Organization Act of 1973, 
 
 #### Amendments
 
-1978—Pub. L. 95–626 substituted “section 254b” for “section 247d”.
+<b>1978</b>—Pub. L. 95–626 substituted “section 254b” for “section 247d”.
 
 #### Change of Name
 

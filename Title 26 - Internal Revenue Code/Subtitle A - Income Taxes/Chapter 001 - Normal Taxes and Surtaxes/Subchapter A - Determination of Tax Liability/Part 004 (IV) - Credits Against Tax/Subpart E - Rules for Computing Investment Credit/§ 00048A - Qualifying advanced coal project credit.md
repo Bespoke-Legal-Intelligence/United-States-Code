@@ -96,7 +96,7 @@ For purposes of this section—
 
 #### (E) Period of issuance
 
-&emsp;&emsp;An applicant which receives a certification shall have 5 years from the date of issuanceof the certification in order to place the project in service and if such project is not placed in service by that time period then the certification shall no longer be valid.
+&emsp;&emsp;An applicant which receives a certification shall have 5 years from the date of issuance of the certification in order to place the project in service and if such project is not placed in service by that time period then the certification shall no longer be valid.
 
 #### (3) Aggregate credits
 
@@ -108,7 +108,7 @@ For purposes of this section—
 
 &emsp;&emsp;Of the dollar amount in subparagraph (A), the Secretary is authorized to certify—
 
-&emsp;&emsp;&emsp;(i) $800,000,000 for integrated gasification combined cycle projects the application for which is submitted during the period described in paragraph (2)(A)(i),
+&emsp;&emsp;&emsp;(i) $800,000,000 for integrated gasification combined cycle projects the applicationfor which is submitted during the period described in paragraph (2)(A)(i),
 
 &emsp;&emsp;&emsp;(ii) $500,000,000 for projects which use other advanced coal-based generation technologies the application for which is submitted during the period described in paragraph (2)(A)(i), and
 
@@ -279,7 +279,7 @@ In implementing this section or section 48B, the Secretary is directed to modify
 
 The Secretary shall provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any project which fails to attain or maintain the separation and sequestration requirements of subsection (e)(1)(G).
 
-(Added Pub. L. 109–58, title XIII, §1307(b), Aug. 8, 2005, 119 Stat. 999; amended Pub. L. 109–432, div.A, title II, §203(a), Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(10), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–234, title XV, §15346(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15346(a), June 18, 2008, 122 Stat. 1664, 2285; Pub. L. 110–343, div. B, title I, §111(a)–(d), Oct. 3, 2008, 122 Stat. 3822, 3823; Pub. L. 111–5, div. B, title I, §1103(b)(2)(C), Feb. 17, 2009, 123 Stat. 321.)
+(Added Pub. L. 109–58, title XIII, §1307(b), Aug. 8, 2005, 119 Stat. 999; amended Pub. L. 109–432, div. A, title II, §203(a), Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(10), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–234, title XV, §15346(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15346(a), June 18, 2008, 122 Stat. 1664, 2285; Pub. L. 110–343, div. B, title I, §111(a)–(d), Oct. 3, 2008, 122 Stat. 3822, 3823; Pub. L. 111–5, div. B, title I, §1103(b)(2)(C), Feb. 17, 2009, 123 Stat. 321.)
 
 #### References in Text
 
@@ -293,9 +293,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2009—Subsec. (b)(2). Pub. L. 111–5 inserted “(without regard to subparagraph (D) thereof)” after “section 48(a)(4)”.
+<b>2009</b>—Subsec. (b)(2). Pub. L. 111–5 inserted “(without regard to subparagraph (D) thereof)” after “section 48(a)(4)”.
 
-2008—Subsec. (a)(3). Pub. L. 110–343, §111(a), added par. (3).
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–343, §111(a), added par. (3).
 
 Subsec. (d)(2)(A). Pub. L. 110–343, §111(c)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Each applicant for certification under this paragraph shall submit an application meeting the requirements of subparagraph (B). An applicant may only submit an application during the 3-year period beginning on the date the Secretary establishes the program under paragraph (1).”
 
@@ -321,9 +321,9 @@ Subsec. (h). Pub. L. 110–246, §15346(a), added subsec. (h).
 
 Subsec. (i). Pub. L. 110–343, §111(c)(3)(C), added subsec. (i).
 
-2007—Subsec. (d)(4)(B)(ii). Pub. L. 110–172 struck out “subsection” before “paragraph” in two places.
+<b>2007</b>—Subsec. (d)(4)(B)(ii). Pub. L. 110–172 struck out “subsection” before “paragraph” in two places.
 
-2006—Subsec. (f)(1). Pub. L. 109–432 inserted concluding provisions.
+<b>2006</b>—Subsec. (f)(1). Pub. L. 109–432 inserted concluding provisions.
 
 #### Effective Date of 2009 Amendment
 

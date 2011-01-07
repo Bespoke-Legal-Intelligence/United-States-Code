@@ -22,7 +22,7 @@ The words “That effective December 13, 1943” are omitted as executed. The wo
 
 #### Amendments
 
-1997—Pub. L. 105–85 substituted “basic allowance for housing under section 403 of title 37” for “basic allowance for quarters”.
+<b>1997</b>—Pub. L. 105–85 substituted “basic allowance for housing under section 403 of title 37” for “basic allowance for quarters”.
 
 #### Effective Date of 1997 Amendment
 

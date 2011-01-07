@@ -11,9 +11,9 @@
 
 #### Amendments
 
-1976—Pub. L. 94–455, title XIX, §1904(b)(4), Oct. 4, 1976, 90 Stat. 1815, struck out items 4292, 4294, and 4295 relating to State and local governmental exemption, exemption for nonprofit educational organizations, and cross reference to general administrative provisions, respectively.
+<b>1976</b>—Pub. L. 94–455, title XIX, §1904(b)(4), Oct. 4, 1976, 90 Stat. 1815, struck out items 4292, 4294, and 4295 relating to State and local governmental exemption, exemption for nonprofit educational organizations, and cross reference to general administrative provisions, respectively.
 
-1958—Pub. L. 85–859, title I, §135(b), Sept. 2, 1958, 72 Stat. 1292, added item 4294 and redesignated former item 4294 as 4295.
+<b>1958</b>—Pub. L. 85–859, title I, §135(b), Sept. 2, 1958, 72 Stat. 1292, added item 4294 and redesignated former item 4294 as 4295.
 
 
 ---

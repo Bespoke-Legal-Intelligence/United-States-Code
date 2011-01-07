@@ -8,7 +8,11 @@ As used in this subchapter:
 
 #### (2) School of nursing
 
-&emsp;The term “school of nursing” means a collegiate, associate degree, or diploma school of nursing in a State.
+&emsp;The term “school of nursing” means an accredited (as defined in paragraph 6) collegiate, associate degree, or diploma school of nursing in a State where graduates are—
+
+&emsp;&emsp;(A) authorized to sit for the National Council Licensure EXamination-Registered Nurse (NCLEX–RN); or
+
+&emsp;&emsp;(B) licensed registered nurses who will receive a graduate or equivalent degree or training to become an advanced education nurse as defined by section 296j(b) of this title.
 
 #### (3) Collegiate school of nursing
 
@@ -68,7 +72,15 @@ As used in this subchapter:
 
 &emsp;The term “skilled nursing facility” has the meaning given such term in section 1819(a) of the Social Security Act \[42 U.S.C. 1395i–3(a)\].
 
-(July 1, 1944, ch. 373, title VIII, §801, as added Pub. L. 105–392, title I, §123(4), Nov. 13, 1998, 112 Stat. 3562; amended Pub. L. 107–205, title I, §101, Aug. 1, 2002, 116 Stat. 811.)
+#### (16) Accelerated nursing degree program
+
+&emsp;The term “accelerated nursing degree program” means a program of education in professional nursing offered by an accredited school of nursing in which an individual holding a bachelors degree in another discipline receives a BSN or MSN degree in an accelerated time frame as determined by the accredited school of nursing.
+
+#### (17) Bridge or degree completion program
+
+&emsp;The term “bridge or degree completion program” means a program of education in professional nursing offered by an accredited school of nursing, as defined in paragraph (2), that leads to a baccalaureate degree in nursing. Such programs may include, Registered Nurse (RN) to Bachelor's of Science of Nursing (BSN) programs, RN to MSN (Master of Science of Nursing) programs, or BSN to Doctoral programs.
+
+(July 1, 1944, ch. 373, title VIII, §801, as added Pub. L. 105–392, title I, §123(4), Nov. 13, 1998, 112 Stat. 3562; amended Pub. L. 107–205, title I, §101, Aug. 1, 2002, 116 Stat. 811; Pub. L. 111–148, title V, §5002(c), Mar. 23, 2010, 124 Stat. 591.)
 
 #### References in Text
 
@@ -80,7 +92,11 @@ A prior section 296, act July 1, 1944, ch. 373, title VIII, §801 as added Sept.
 
 #### Amendments
 
-2002—Pars. (9) to (15). Pub. L. 107–205 added pars. (9) to (15).
+<b>2010</b>—Par. (2). Pub. L. 111–148, §5002(c)(1), substituted “means an accredited (as defined in paragraph 6) collegiate, associate degree, or diploma school of nursing in a State where graduates are—” for “means a collegiate,associate degree, or diploma school of nursing in a State.” and added subpars. (A) and (B).
+
+Pars. (16), (17). Pub. L. 111–148, §5002(c)(2), added pars. (16) and (17).
+
+<b>2002</b>—Pars. (9) to (15). Pub. L. 107–205 added pars. (9) to (15).
 
 #### Savings Provision
 
@@ -114,7 +130,7 @@ Pub. L. 105–392, title I, §122, Nov. 13, 1998, 112 Stat. 3562, provided that:
 
 Section 951 of Pub. L. 94–63, as amended by Pub. L. 95–623, §12(h), Nov. 9, 1978, 92 Stat. 3457, provided that:
 
-“(a)(1) Using procedures developed in accordance with paragraph (3), the Secretary of Health, Education, and Welfare \[now Health and Human Services\] (hereinafterin this section referred to as the ‘Secretary’) shall determine on a continuing basis—
+“(a)(1) Using procedures developed in accordance with paragraph (3), the Secretary of Health, Education, and Welfare \[now Health and Human Services\] (hereinafter in this section referred to as the ‘Secretary’) shall determine on a continuing basis—
 
 &emsp;“(A) the supply (both current and projected and within the United States and within each State) of registered nurses, licensed practical and vocational nurses, nurse's aides, registered nurses with advanced training or graduate degrees, and nurse practitioners;
 

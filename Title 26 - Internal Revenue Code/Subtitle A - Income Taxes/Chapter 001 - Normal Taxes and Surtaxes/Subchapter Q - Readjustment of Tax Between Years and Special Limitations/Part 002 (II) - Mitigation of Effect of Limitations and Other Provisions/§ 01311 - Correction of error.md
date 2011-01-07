@@ -34,7 +34,7 @@ If a determination (as defined in section 1313) is described in one or more of t
 
 #### Amendments
 
-1976—Subsec. (b)(2). Pub. L. 94–455, §§1901(a)(142), 1906(b)(13)(A), struck out “or his delegate” after “Secretary” and “of the United States” after “Tax Court” wherever appearing.
+<b>1976</b>—Subsec. (b)(2). Pub. L. 94–455, §§1901(a)(142), 1906(b)(13)(A), struck out “or his delegate” after “Secretary” and “of the United States” after “Tax Court” wherever appearing.
 
 Subsec. (b)(3). Pub. L. 94–455, §1901(a)(142), struck out “of the United States” after “Tax Court”.
 

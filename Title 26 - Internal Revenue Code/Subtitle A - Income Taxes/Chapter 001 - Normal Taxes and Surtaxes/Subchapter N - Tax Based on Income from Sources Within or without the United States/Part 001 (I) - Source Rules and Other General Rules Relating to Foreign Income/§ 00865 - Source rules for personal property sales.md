@@ -100,7 +100,7 @@ In the case of income derived from the sale of inventory property—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of income not sourced under subsection (b), (c), (d)(1)(B) or (3), or (f), if a United States resident maintains an office or other fixed place of business in a foreign country, income from sales of personal property attributable to such office or other fixed place of business shall be sourced outside the United States.
+&emsp;&emsp;In the case of income not sourced under subsection (b), (c), (d)(1)(B) or (3), or (f), if aUnited States resident maintains an office or other fixed place of business in a foreign country, income from sales of personal property attributable to such office or other fixed place of business shall be sourced outside the United States.
 
 #### (B) Tax must be imposed
 
@@ -190,7 +190,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) which is from the sale of stock in a foreign corporation or an intangible (as defined in subsection (d)(2)) and which would otherwise be sourced in the United States under this section,
 
-&emsp;&emsp;&emsp;(ii) which, under a treaty obligation of the United States (applied without regard to this section), would be sourced outside the United States, and
+&emsp;&emsp;&emsp;(ii) which, under a treaty obligation of the United States (applied without regardto this section), would be sourced outside the United States, and
 
 &emsp;&emsp;&emsp;(iii) with respect to which the taxpayer chooses the benefits of this subsection.
 
@@ -242,19 +242,19 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;&emsp;<b>(2) For sourcing of income from certain foreign currency transactions, see section 988.</b>
 
-(Added Pub. L. 99–514, title XII, §1211(a), Oct. 22, 1986, 100 Stat. 2533; amended Pub. L. 100–647, title I, §1012(d)(1)–(6), (8), (9), (11), (12), Nov. 10, 1988, 102 Stat. 3497–3499; Pub. L. 101–508, title XI,§11813(b)(18), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 103–66, title XIII, §13239(c), Aug. 10, 1993, 107 Stat. 509; Pub. L. 104–188, title I, §1704(f)(4)(A), Aug. 20, 1996, 110 Stat. 1880; Pub. L. 106–170, title V, §532(c)(1)(E), Dec. 17, 1999, 113 Stat. 1930.)
+(Added Pub. L. 99–514, title XII, §1211(a), Oct. 22, 1986, 100 Stat. 2533; amended Pub. L. 100–647, title I, §1012(d)(1)–(6), (8), (9), (11), (12), Nov. 10, 1988, 102 Stat. 3497–3499; Pub. L. 101–508, title XI, §11813(b)(18), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 103–66, title XIII, §13239(c), Aug. 10, 1993, 107 Stat. 509; Pub. L. 104–188, title I, §1704(f)(4)(A), Aug. 20, 1996, 110 Stat. 1880; Pub. L. 106–170, title V, §532(c)(1)(E), Dec. 17, 1999, 113 Stat. 1930.)
 
 #### Amendments
 
-1999—Subsec. (i)(1). Pub. L. 106–170 substituted “section 1221(a)” for “section 1221”.
+<b>1999</b>—Subsec. (i)(1). Pub. L. 106–170 substituted “section 1221(a)” for “section 1221”.
 
-1996—Subsec. (b)(2). Pub. L. 104–188 substituted “863” for “863(b)”.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–188 substituted “863” for “863(b)”.
 
-1993—Subsec. (b). Pub. L. 103–66 inserted at end “Notwithstanding the preceding sentence, any income from the sale of any unprocessed timber which is a softwood and was cut from an area in the United States shall be sourced in the United States and the rules of sections 862(a)(6) and 863(b) shall not apply to any such income. For purposes of the preceding sentence, the term ‘unprocessed timber’ means any log, cant, or similar form of timber.”
+<b>1993</b>—Subsec. (b). Pub. L. 103–66 inserted at end “Notwithstanding the preceding sentence, any income from the sale of any unprocessed timber which is a softwood and was cut from an area in the United States shall be sourced in the United States and the rules of sections 862(a)(6) and 863(b) shall not apply to any such income. For purposes of the preceding sentence, the term ‘unprocessed timber’ means any log, cant, or similar form of timber.”
 
-1990—Subsec. (c)(3)(B). Pub. L. 101–508 substituted “section 168(g)(4)” for “section 48(a)(2)(B)”.
+<b>1990</b>—Subsec. (c)(3)(B). Pub. L. 101–508 substituted “section 168(g)(4)” for “section 48(a)(2)(B)”.
 
-1988—Subsec. (d)(2). Pub. L. 100–647, §1012(d)(12), inserted “franchise,” after “trade brand,”.
+<b>1988</b>—Subsec. (d)(2). Pub. L. 100–647, §1012(d)(12), inserted “franchise,” after “trade brand,”.
 
 Subsec. (d)(4). Pub. L. 100–647, §1012(d)(1), added par. (4).
 
@@ -338,7 +338,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For nonapplication of amendment by section 1211(a) of Pub. L. 99–514 (enacting this section) to the extent application of such amendment would be contrary toany treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For nonapplication of amendment by section 1211(a) of Pub. L. 99–514 (enacting this section) to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Study of Source Rules for Sales of Inventory Property
 

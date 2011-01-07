@@ -16,15 +16,15 @@ Definition.—For purposes of this section, the term “for use as a weapon” i
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–188 substituted “protective, bona fide research, or other peaceful purposes” for “protective bona fide research, or other peaceful purposes”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–188 substituted “protective, bona fide research, or other peaceful purposes” for “protective bona fide research, or other peaceful purposes”.
 
-2001—Subsec. (b). Pub. L. 107–56, §817(1)(C), added subsec. (b). Former subsec. (b) redesignated (c).
+<b>2001</b>—Subsec. (b). Pub. L. 107–56, §817(1)(C), added subsec. (b). Former subsec. (b) redesignated (c).
 
 Pub. L. 107–56, §817(1)(A), substituted “includes” for “does not include” and inserted “other than” after “delivery system for” and “bona fide research” after “protective”.
 
 Subsec. (c). Pub. L. 107–56, §817(1)(B), redesignated subsec. (b) as (c).
 
-1996—Subsec. (a). Pub. L. 104–132 inserted “or attempts, threatens, or conspires to do the same,” before “shall be fined under this title”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–132 inserted “or attempts, threatens, or conspires to do the same,” before “shall be fined under this title”.
 
 #### Short Title
 

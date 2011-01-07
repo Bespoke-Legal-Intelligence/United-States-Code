@@ -34,7 +34,7 @@ It shall be unlawful for any officer or director of any public utility to receiv
 
 #### (c) Statement of prior positions; definitions
 
-(1) On or before April 30 of each year, any person, who, during the calendar year preceding the filing date under this subsection, was an officer or director of a public utility and who held, during such calendar year, the position of officer, director, partner, appointee, or representative of any other entity listed in paragraph (2) shall file with the Commission, in such form and manner as the Commission shall by rule prescribe, a written statement concerning such positions held by such person. Such statement shall be available to the public.
+(1) On or before April 30 of each year, any person, who, during the calendar year preceding the filing date under this subsection, was an officer or director of a public utility and who held, during such calendar year, the position of officer, director, partner, appointee, or representative ofany other entity listed in paragraph (2) shall file with the Commission, in such form and manner as the Commission shall by rule prescribe, a written statement concerning such positions held by such person. Such statement shall be available to the public.
 
 (2) The entities listed for purposes of paragraph (1) are as follows—
 
@@ -66,9 +66,9 @@ The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(3)(B)
 
 #### Amendments
 
-1999—Subsec. (b). Pub. L. 106–102 inserted subsec. heading, designated existing provisions as par. (1), inserted heading, and substituted “After 6” for “After six”, and added par. (2).
+<b>1999</b>—Subsec. (b). Pub. L. 106–102 inserted subsec. heading, designated existing provisions as par. (1), inserted heading, and substituted “After 6” for “After six”, and added par. (2).
 
-1978—Subsec. (c). Pub. L. 95–617 added subsec. (c).
+<b>1978</b>—Subsec. (c). Pub. L. 95–617 added subsec. (c).
 
 #### Effective Date of 1978 Amendment
 

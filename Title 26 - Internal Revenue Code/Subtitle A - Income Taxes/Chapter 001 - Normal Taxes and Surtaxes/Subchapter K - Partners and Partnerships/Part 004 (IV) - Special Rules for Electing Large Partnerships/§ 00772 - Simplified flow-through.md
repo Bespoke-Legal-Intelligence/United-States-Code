@@ -146,7 +146,7 @@ If any person holds an interest in an electing large partnership other than as a
 
 #### Amendments
 
-2005—Subsec. (a)(9) to (11). Pub. L. 109–58, §1322(a)(3)(I), inserted “and” at end of par. (9), redesignated par. (11) as (10), and struck out former par. (10) which read as follows: “the credit allowable under section 29, and”.
+<b>2005</b>—Subsec. (a)(9) to (11). Pub. L. 109–58, §1322(a)(3)(I), inserted “and” at end of par. (9), redesignated par. (11) as (10), and struck out former par. (10) which read as follows: “the credit allowable under section 29, and”.
 
 Subsec. (d)(5). Pub. L. 109–58, §1322(a)(3)(J), substituted “and the foreign tax credit” for “the foreign tax credit, and the credit allowable under section 29”.
 

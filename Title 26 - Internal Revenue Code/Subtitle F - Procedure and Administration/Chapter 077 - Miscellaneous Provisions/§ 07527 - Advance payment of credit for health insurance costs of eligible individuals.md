@@ -6,7 +6,7 @@ Not later than August 1, 2003, the Secretary shall establish a program for makin
 
 #### (b) Limitation on advance payments during any taxable year
 
-The Secretary may make payments under subsection (a) only to the extent that the total amount of such payments made on behalf of any individual during the taxable year does not exceed 65 percent (80 percent in the case of eligible coverage months beginning before January 1, 2011) of the amount paid by the taxpayer for coverage of the taxpayer and qualifying family members under qualified health insurance for eligible coverage months beginning in the taxable year.
+The Secretary may make payments under subsection (a) only to the extent that the total amount of such payments made on behalf of any individual during the taxable year does not exceed 65 percent (80 percent in the case of eligible coverage months beginning before February 13, 2011) of the amount paid by the taxpayer for coverage of the taxpayer and qualifying family members under qualified health insurance for eligible coverage months beginning in the taxable year.
 
 #### (c) Certified individual
 
@@ -18,13 +18,13 @@ For purposes of this section, the term “certified individual” means any indi
 
 &emsp;For purposes of this section, the term “qualified health insurance costs eligibility certificate” means any written statement that an individual is an eligible individual (as defined in section 35(c)) if such statement provides such information as the Secretary may require for purposes of this section and—
 
-&emsp;&emsp;(A) in the case of an eligible TAA recipient (as defined in section 35(c)(2)) or an eligible alternative TAA recipient (as defined in section 35(c)(3)), is certified by the Secretary of Labor (or by any other person or entity designated by the Secretary), or
+&emsp;&emsp;(A) in the case of an eligible TAA recipient (as defined in section 35(c)(2)) or an eligiblealternative TAA recipient (as defined in section 35(c)(3)), is certified by the Secretary of Labor (or by any other person or entity designated by the Secretary), or
 
 &emsp;&emsp;(B) in the case of an eligible PBGC pension recipient (as defined in section 35(c)(4)), is certified by the Pension Benefit Guaranty Corporation (or by any other person or entity designated by the Secretary).
 
 #### (2) Inclusion of certain information
 
-&emsp;In the case of any statement described in paragraph (1) which is issued before January 1, 2011, such statement shall not be treated as a qualified health insurance costs credit eligibility certificate unless such statement includes—
+&emsp;In the case of any statement described in paragraph (1) which is issued before February 13, 2011, such statement shall not be treated as a qualified health insurance costs credit eligibility certificate unless such statement includes—
 
 &emsp;&emsp;(A) the name, address, and telephone number of the State office or offices responsible for providing the individual with assistance with enrollment in qualified health insurance (as defined in section 35(e)),
 
@@ -34,7 +34,7 @@ For purposes of this section, the term “certified individual” means any indi
 
 #### (e) Payment for premiums due prior to commencement of advance payments
 
-In the case of eligible coverage months beginning before January 1, 2011—
+In the case of eligible coverage months beginning before February 13, 2011—
 
 #### (1) In general
 
@@ -42,9 +42,9 @@ In the case of eligible coverage months beginning before January 1, 2011—
 
 #### (2) Reduction of payment for amounts received under national emergency grants
 
-&emsp;The amount of any payment determined under paragraph (1) shall be reduced by theamount of any payment made to the taxpayer for the purchase of qualified health insurance under a national emergency grant pursuant to section 173(f) of the Workforce Investment Act of 1998 for a taxable year including the eligible coverage months described in paragraph (1).
+&emsp;The amount of any payment determined under paragraph (1) shall be reduced by the amount of any payment made to the taxpayer for the purchase of qualified health insurance under a national emergency grant pursuant to section 173(f) of the Workforce Investment Act of 1998 for a taxable year including the eligible coverage months described in paragraph (1).
 
-(Added Pub. L. 107–210, div. A, title II, §202(a), Aug. 6, 2002, 116 Stat. 960; amended Pub. L. 111–5, div. B, title I, §§1899A(a)(2), 1899B(a), 1899H(a), Feb. 17, 2009, 123 Stat. 424, 430.)
+(Added Pub. L. 107–210, div. A, title II, §202(a), Aug. 6, 2002, 116 Stat. 960; amended Pub. L. 111–5, div. B, title I, §§1899A(a)(2), 1899B(a), 1899H(a), Feb. 17, 2009, 123 Stat. 424, 430; Pub. L. 111–344, title I, §§111(b), 112(a), 118(a), Dec. 29, 2010, 124 Stat. 3615, 3616.)
 
 #### References in Text
 
@@ -52,7 +52,13 @@ Section 173(f) of the Workforce Investment Act of 1998, referred to in subsec. (
 
 #### Amendments
 
-2009—Subsec. (b). Pub. L. 111–5, §1899A(a)(2), inserted “(80 percent in the case of eligible coverage months beginning before January 1, 2011)” after “65 percent”.
+<b>2010</b>—Subsec. (b). Pub. L. 111–344, §111(b), substituted “February 13, 2011” for “January 1, 2011”.
+
+Subsec. (d)(2). Pub. L. 111–344, §118(a), substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
+
+Subsec. (e). Pub. L. 111–344, §112(a), substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
+
+<b>2009</b>—Subsec. (b). Pub. L. 111–5, §1899A(a)(2), inserted “(80 percent in the case of eligible coverage months beginning before January 1, 2011)” after “65 percent”.
 
 Subsec. (d). Pub. L. 111–5, §1899H(a), amended subsec. (d) generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘qualified health insurance costs credit eligibility certificate’ means any written statement that an individual is an eligible individual (as defined in section 35(c)) if such statement provides such information as the Secretary may require for purposes of this section and—
 
@@ -61,6 +67,14 @@ Subsec. (d). Pub. L. 111–5, §1899H(a), amended subsec. (d) generally. Prior t
 &emsp;“(2) in the case of an eligible PBGC pension recipient (as defined in section 35(c)(4)), is certified by the Pension Benefit Guaranty Corporation (or by any other person or entity designated by the Secretary).”
 
 Subsec. (e). Pub. L. 111–5, §1899B(a), added subsec. (e).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 111(b) of Pub. L. 111–344 applicable to coverage months beginning after Dec. 31, 2010, see section 111(c) of Pub. L. 111–344, set out as a note under section 35 of this title.
+
+Pub. L. 111–344, title I, §112(b), Dec. 29, 2010, 124 Stat. 3615, provided that: “The amendment made by this section \[amending this section\] shall apply to coverage months beginning after December 31, 2010.”
+
+Pub. L. 111–344, title I, §118(b), Dec. 29, 2010, 124 Stat. 3616, provided that: “The amendment made by this section \[amending this section\] shall apply to certificates issued after December 31, 2010.”
 
 #### Effective Date of 2009 Amendment
 
@@ -74,7 +88,7 @@ Pub. L. 111–5, div. B, title I, §1899H(b), Feb. 17, 2009, 123 Stat. 431, prov
 
 #### Construction
 
-Nothing in the amendments made by title II of Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating a new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction of 2002 Amendment note under section 2918 of Title 29, Labor.
+Nothing in the amendments made by title II of Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating a new mandate on any partyregarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction of 2002 Amendment note under section 2918 of Title 29, Labor.
 
 #### Transitional Rule
 

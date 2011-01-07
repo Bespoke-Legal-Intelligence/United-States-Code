@@ -6,7 +6,7 @@ As used in this chapter, the term “State” includes the several States, Alask
 
 #### Amendments
 
-1956—Act Aug. 1, 1956, included “Guam” in definition of State.
+<b>1956</b>—Act Aug. 1, 1956, included “Guam” in definition of State.
 
 #### Admission of Alaska and Hawaii to Statehood
 

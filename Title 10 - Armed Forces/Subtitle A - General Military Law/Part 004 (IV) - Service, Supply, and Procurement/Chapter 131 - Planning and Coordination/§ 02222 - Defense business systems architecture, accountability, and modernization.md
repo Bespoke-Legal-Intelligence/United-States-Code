@@ -2,7 +2,7 @@
 
 (a)
 
-Conditions for Obligation of Funds for Defense Business System Modernization.—Effective October 1, 2005, funds appropriated to the Department of Defense may not be obligated for a defense business system modernization that will have a total cost in excess of $1,000,000 unless—
+Conditions for Obligation of Funds for Defense Business System Modernization.—Funds appropriated to the Department of Defense may not be obligated for a defense business system modernization that will have a total cost in excess of $1,000,000 unless—
 
 &emsp;(1) the appropriate chief management officer for the defense business system modernization has determined whether or not—
 
@@ -160,7 +160,7 @@ Definitions.—In this section:
 
 &emsp;(6) The term “national security system” has the meaning given that term in section 3542(b)(2) of title 44.
 
-(Added Pub. L. 108–375, div. A, title III, §332(a)(1), Oct. 28, 2004, 118 Stat. 1851; amended Pub. L. 109–364, div. A, title IX, §906(a), Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–417, \[div. A\], title III, §351, Oct. 14, 2008, 122 Stat. 4425; Pub. L. 111–84, div. A, title X, §1072(a), Oct. 28, 2009, 123 Stat. 2470.)
+(Added Pub. L. 108–375, div. A, title III, §332(a)(1), Oct. 28, 2004, 118 Stat. 1851; amended Pub. L. 109–364, div. A, title IX, §906(a), Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–417, \[div. A\], title III, §351, Oct. 14, 2008, 122 Stat. 4425; Pub. L. 111–84, div. A, title X, §1072(a), Oct. 28, 2009, 123 Stat. 2470; Pub. L. 111–383, div. A, title X, §1075(b)(29), Jan. 7, 2011, 124 Stat. 4370.)
 
 #### Prior Provisions
 
@@ -168,7 +168,9 @@ A prior section 2222, added Pub. L. 105–85, div. A, title X, §1008(a)(1), Nov
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–84, §1072(a)(1)(A), (B), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+<b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted “Funds” for “Effective October 1, 2005, funds”.
+
+<b>2009</b>—Subsec. (a). Pub. L. 111–84, §1072(a)(1)(A), (B), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
 Subsec. (a)(2)(A). Pub. L. 111–84, §1072(a)(1)(C), added subpar. (A) and struck out former subpar. (A), which read as follows: “is in compliance with the enterprise architecture developed under subsection (c);”.
 
@@ -176,11 +178,125 @@ Subsec. (a)(3). Pub. L. 111–84, §1072(a)(1)(D), substituted “the certificat
 
 Subsec. (f). Pub. L. 111–84, §1072(a)(2), designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), in subpar. (E) substituted “subparagraphs (A) through (D)” for “paragraphs (1) through (4)”, and added par. (2).
 
-2008—Subsec. (i). Pub. L. 110–417 substituted “2013” for “2009” in introductory provisions.
+<b>2008</b>—Subsec. (i). Pub. L. 110–417 substituted “2013” for “2009” in introductory provisions.
 
-2006—Subsec. (j)(6). Pub. L. 109–364 substituted “in section 3542(b)(2) of title 44” for “in section 2315 of this title”.
+<b>2006</b>—Subsec. (j)(6). Pub. L. 109–364 substituted “in section 3542(b)(2) of title 44” for “in section 2315 of this title”.
+
+#### Review of Obligation and Expenditure Thresholds
+
+Pub. L. 111–383, div. A, title VIII, §882, Jan. 7, 2011, 124 Stat. 4308, provided that:
+
+“(a)
+
+Process Review.—Not later than one year after the date of the enactment of this Act \[Jan. 7, 2011\], the Chief Management Officer of the Department of Defense, in coordination with the Chief Management Officer of each military department, the Director of the Office of Performance Assessment and Root Cause Analysis, the Under Secretary of Defense (Comptroller), and the Comptrollers of the military departments, shall complete a comprehensive review of the use and value of obligation and expenditure benchmarks and propose new benchmarks or processes for tracking financial performance, including, as appropriate—
+
+&emsp;“(1) increased reliance on individual obligation and expenditure plans for measuring program financial performance;
+
+&emsp;“(2) mechanisms to improve funding stability and to increase the predictability of the release of funding for obligation and expenditure; and
+
+&emsp;“(3) streamlined mechanisms for a program manager to submit an appeal for funding changes and to have such appeal evaluated promptly.
+
+“(b)
+
+Training.—The Under Secretary of Defense for Acquisition, Technology, and Logistics and the Under Secretary of Defense (Comptroller) shall ensure that, as part of the training required for program managers and business managers, an emphasis is placed on obligating and expending appropriated funds in a manner that achieves the best value for the Government and that the purpose and limitations of obligation and expenditure benchmarks are made clear.
+
+“(c)
+
+Report.—The Deputy Chief Management Officer of the Department of Defense shall include a report on the results of the review under this section in the next update of the strategic management plan transmitted to the Committees on Armed Services of the Senate and the House of Representatives under section 904(d) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 275; 10 U.S.C. note prec. 2201) after the completion of the review.”
 
 #### Audit Readiness of Financial Statements of the Department of Defense
+
+Pub. L. 111–383, div. A, title VIII, §881, Jan. 7, 2011, 124 Stat. 4306, provided that:
+
+“(a)
+
+Interim Milestones.—
+
+&emsp;“(1)
+
+Requirement.—Not later than 90 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Under Secretary of Defense (Comptroller), in consultation with the Deputy Chief Management Officer of the Department of Defense, the secretaries of the military departments, and the heads of the defense agencies and defense field activities, shall establish interim milestones for achieving audit readiness of the financial statements of the Department of Defense, consistent with the requirements of section 1003 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2439; 10 U.S.C. 2222 note).
+
+&emsp;“(2)
+
+Matters included.—The interim milestones established pursuant to paragraph (1) shall include, at a minimum, for each military department and for the defense agencies and defense field activities—
+
+&emsp;&emsp;“(A) an interim milestone for achieving audit readiness for each major element of the statement of budgetary resources, including civilian pay, military pay, supply orders, contracts, and funds balance with the Treasury; and
+
+&emsp;&emsp;“(B) an interim milestone for addressing the existence and completeness of each major category of Department of Defense assets, including military equipment, real property, inventory, and operating material and supplies.
+
+&emsp;“(3)
+
+Description in semiannual reports.—The Under Secretary shall describe each interim milestone established pursuant to paragraph (1) in the next semiannual report submitted pursuant to section 1003(b) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2439; 10 U.S.C. 2222 note). Each subsequent semiannual report submitted pursuant to section 1003(b) shall explain how the Department has progressed toward meeting such interim milestones.
+
+“(b)
+
+Valuation of Department of Defense Assets.—
+
+&emsp;“(1)
+
+Requirement.—Not later than 120 days after the date of the enactment of this Act, the Under Secretary of Defense (Comptroller) shall, in consultation with other appropriate Federal agencies and officials—
+
+&emsp;&emsp;“(A) examine the costs and benefits of alternative approaches to the valuation of Department of Defense assets;
+
+&emsp;&emsp;“(B) select an approach to such valuation that is consistent with principles of sound financial management and the conservation of taxpayer resources; and
+
+&emsp;&emsp;“(C) begin the preparation of a business case analysis supporting the selected approach.
+
+&emsp;“(2) The Under Secretary shall include information on the alternatives considered, the selected approach, and the business case analysis supporting that approach in the next semiannual report submitted pursuant to section 1003(b) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2439; 10 U.S.C. 2222 note).
+
+“(c)
+
+Remedial Actions Required.—In the event that the Department of Defense, or any component of the Department of Defense, is unable to meet an interim milestone established pursuant to subsection (a), the Under Secretary of Defense (Comptroller) shall—
+
+&emsp;“(1) develop a remediation plan to ensure that—
+
+&emsp;&emsp;“(A) the component will meet the interim milestone no more than one year after the originally scheduled date; and
+
+&emsp;&emsp;“(B) the component's failure to meet the interim milestone will not have an adverse impact on the Department's ability to carry out the plan under section 1003(a) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2439; 10 U.S.C. 2222 note); and
+
+&emsp;“(2) include in the next semiannual report submitted pursuant to section 1003(b) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2439; 10 U.S.C. 2222 note)—
+
+&emsp;&emsp;“(A) a statement of the reasons why the Department of Defense, or component of the Department of Defense, will be unable to meet such interim milestone;
+
+&emsp;&emsp;“(B) the revised completion date for meeting such interim milestone; and
+
+&emsp;&emsp;“(C) a description of the actions that have been taken and are planned to be taken by the Department of Defense, or component of the Department of Defense, to meet such interim milestone.
+
+“(d)
+
+Incentives for Achieving Auditability.—
+
+&emsp;“(1)
+
+Review required.—Not later than 120 days after the date of the enactment of this Act, the Under Secretary of Defense (Comptroller) shall review options for providing appropriate incentives to the military departments, Defense Agencies, and defense field activities to ensure that financial statements are validated as ready for audit earlier than September 30, 2017.
+
+&emsp;“(2)
+
+Options reviewed.—The review performed pursuant to paragraph (1) shall consider changes in policy that reflect the increased confidence that can be placed in auditable financial statements, and shall include, at a minimum, consideration of the following options:
+
+&emsp;&emsp;“(A) Consistent with the need to fund urgent warfighter requirements and operational needs, priority in the release of appropriated funds.
+
+&emsp;&emsp;“(B) Relief from the frequency of financial reporting in cases in which such reporting is not required by law.
+
+&emsp;&emsp;“(C) Relief from departmental obligation and expenditure thresholds to the extent that suchthresholds establish requirements more restrictive than those required by law.
+
+&emsp;&emsp;“(D) Increases in thresholds for reprogramming of funds.
+
+&emsp;&emsp;“(E) Personnel management incentives for the financial and business management workforce.
+
+&emsp;&emsp;“(F) Such other measures as the Under Secretary considers appropriate.
+
+&emsp;“(3)
+
+Report.—The Under Secretary shall include a discussion of the review performed pursuant to paragraph (1) in the next semiannual report pursuant to section 1003(b) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2439; 10 U.S.C. 2222 note) and for each option considered pursuant to paragraph (2) shall include—
+
+&emsp;&emsp;“(A) an assessment of the extent to which the implementation of the option—
+
+&emsp;&emsp;&emsp;“(i) would be consistent with the efficient operation of the Department of Defense and the effective funding of essential Department of Defense programs and activities; and
+
+&emsp;&emsp;&emsp;“(ii) would contribute to the achievement of Department of Defense goals to prepare auditable financial statements; and
+
+&emsp;&emsp;“(B) a recommendation on whether such option should be adopted, a schedule for implementing the option if adoption is recommended, or a reason for not recommending the option if adoption is not recommended.”
 
 Pub. L. 111–84, div. A, title X, §1003, Oct. 28, 2009, 123 Stat. 2439, provided that:
 
@@ -444,13 +560,13 @@ Plan on Development and Implementation of Initiative.—Not later than six month
 
 #### Limitation on Financial Management Improvement and Audit Initiatives Within the Department of Defense
 
-Pub. L. 109–364, div. A, title III, §321, Oct. 17, 2006, 120 Stat. 2144, provided that:
+Pub. L. 109–364, div. A, title III, §321, Oct. 17, 2006, 120 Stat. 2144, as amended by Pub. L. 111–383, div. A, title X, §1075(g)(1), Jan. 7, 2011, 124 Stat. 4376, provided that:
 
 “(a)
 
 Limitation.—The Secretary of Defense may not obligate or expend any funds for the purpose of any financial management improvement activity relating to the preparation, processing, or auditing of financial statements until the Secretary submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a written determination that each activity proposed to be funded is—
 
-&emsp;“(1) consistent with the financial management improvement plan of the Department of Defense required by section 376(a)(1) of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 190–163 \[109–163\]; 119 Stat. 3213); and
+&emsp;“(1) consistent with the financial management improvement plan of the Department of Defense required by section 376(a)(1) of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3213); and
 
 &emsp;“(2) likely to improve internal controls or otherwise result in sustained improvements in the ability of the Department to produce timely, reliable, and complete financial management information.
 

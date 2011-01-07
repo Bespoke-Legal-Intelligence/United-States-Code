@@ -20,7 +20,7 @@
 
 > in accordance with the findings and to carry out the objectives set forth in paragraph (1) of this subsection.
 
-(B) The Commission shall use its authority under this chapter to assure equal regulation under this chapter of registered clearing agencies and registered transfer agents. In carryingout its responsibilities set forth in subparagraph (A)(ii) of this paragraph, the Commission shall coordinate with the Commodity Futures Trading Commission and consult with the Board of Governors of the Federal Reserve System.
+(B) The Commission shall use its authority under this chapter to assure equal regulation under this chapter of registered clearing agencies and registered transfer agents. In carrying out its responsibilities set forth in subparagraph (A)(ii) of this paragraph, the Commission shall coordinate with the Commodity Futures Trading Commission and consult with the Board of Governors of the Federal Reserve System.
 
 #### (b) Registration of clearing agencies; application; determinations by Commission requisite to registration of applicant as clearing agency; denial of participation; discipline; summary proceedings; exemption; facilities for handling derivatives
 
@@ -30,7 +30,7 @@
 
 (3) A clearing agency shall not be registered unless the Commission determines that—
 
-&emsp;(A) Such clearing agency is so organized and has the capacity to be able to facilitate the prompt and accurate clearance and settlement of securities transactions and derivative agreements, contracts, and transactions for which it is responsible, to safeguard securities and funds in its custody or control or for which it is responsible, to comply with the provisions of this chapter and the rules and regulations thereunder, to enforce (subject to any rule or order of the Commission pursuant to section 78q(d) or 78s(g)(2) of this title) compliance by its participants with the rules of the clearing agency, and to carry out the purposes of this section.
+&emsp;(A) Such clearing agency is so organized and has the capacity to be able to facilitate the prompt and accurate clearance and settlementof securities transactions and derivative agreements, contracts, and transactions for which it is responsible, to safeguard securities and funds in its custody or control or for which it is responsible, to comply with the provisions of this chapter and the rules and regulations thereunder, to enforce (subject to any rule or order of the Commission pursuant to section 78q(d) or 78s(g)(2) of this title) compliance by its participants with the rules of the clearing agency, and to carry out the purposes of this section.
 
 &emsp;(B) Subject to the provisions of paragraph (4) of this subsection, the rules of the clearing agency provide that any (i) registered broker or dealer, (ii) other registered clearing agency, (iii) registered investment company, (iv) bank, (v) insurance company, or (vi) other person or class of persons as the Commission, by rule, may from time to time designate as appropriate to the development of a national system for the prompt and accurate clearance and settlement of securities transactions may become a participant in such clearing agency.
 
@@ -60,7 +60,7 @@
 
 &emsp;(iii) the sanction imposed and the reasons therefor.
 
-(B) In any proceeding by a registered clearing agency to determine whether a person shall be denied participation or prohibited or limited with respect to access to services offered by the clearing agency, the clearing agency shall notify such person of, and give him an opportunity to be heard upon, the specific grounds for denial or prohibition or limitation under consideration and keep a record. A determination by the clearing agency to deny participation or prohibit or limit a person with respect to access to services offered by the clearing agency shall be supported by a statement setting forth the specific grounds on which the denial or prohibition or limitation is based.
+(B) In any proceeding by a registered clearing agency to determine whether a person shall be denied participation or prohibited or limited with respect to access to services offered by the clearing agency, the clearing agency shall notify such person of, and give him an opportunity to be heard upon, the specific grounds for denial or prohibition or limitation under considerationand keep a record. A determination by the clearing agency to deny participation or prohibit or limit a person with respect to access to services offered by the clearing agency shall be supported by a statement setting forth the specific grounds on which the denial or prohibition or limitation is based.
 
 (C) A registered clearing agency may summarily suspend and close the accounts of a participant who (i) has been and is expelled or suspended from any self-regulatory organization, (ii) is in default of any delivery of funds or securities to the clearing agency, or (iii) is in such financial or operating difficulty that the clearing agency determines and so notifies the appropriate regulatory agency for such participant that such suspension and closing of accounts are necessary for the protection of the clearing agency, its participants, creditors, or investors. A participant so summarily suspended shall be promptly afforded an opportunity for a hearing by the clearing agency in accordance with the provisions of subparagraph (A) of this paragraph. The appropriate regulatory agency for such participant, by order, may stay any such summary suspension on its own motion or upon application by any person aggrieved thereby, if such appropriate regulatory agency determines summarily or after notice and opportunity for hearing (which hearing may consist solely of the submission of affidavits or presentation of oral arguments) that such stay is consistent with the public interest and protection of investors.
 
@@ -74,13 +74,13 @@
 
 #### (c) Registration of transfer agents
 
-(1) Except as otherwise provided in this section, it shall be unlawful for any transfer agent, unless registered in accordance with this section, directly or indirectly, to make use of the mails or any means or instrumentality of interstate commerce to perform the function of atransfer agent with respect to any security registered under section 78<i>l</i> of this title or which would be required to be registered except for the exemption from registration provided by subsection (g)(2)(B) or (g)(2)(G) of that section. The appropriate regulatory agency, by rule or order, upon its own motion or upon application, may conditionally or unconditionally exempt any person or security or class of persons or securities from any provision of this section or any rule or regulation prescribed under this section, if the appropriate regulatory agency finds (A) that such exemption is in the public interest and consistent with the protection of investors and the purposes of this section, including the prompt and accurate clearance and settlement of securities transactions and the safeguarding of securities and funds, and (B) the Commission does not object to such exemption.
+(1) Except as otherwise provided in this section, it shall be unlawful for any transfer agent, unless registered in accordance with this section, directly or indirectly, to make use of the mails or any means or instrumentality of interstate commerce to perform the function of a transfer agent with respect to any security registered under section 78<i>l</i> of this title or which would be required to be registered except for the exemption from registration provided by subsection (g)(2)(B) or (g)(2)(G) of that section. The appropriate regulatory agency, by rule or order, upon its own motion or upon application, may conditionally or unconditionally exempt any person or security or class of persons or securities from any provision of this section or any rule or regulation prescribed under this section, if the appropriate regulatory agency finds (A) that such exemption is in the public interest and consistent with the protection of investors and the purposes of this section, including the prompt and accurate clearance and settlement of securities transactions and the safeguarding of securities and funds, and (B) the Commission does not object to such exemption.
 
 (2) A transfer agent may be registered by filing with the appropriate regulatory agency for such transfer agent an application for registration in such form and containing such information and documents concerning such transfer agent and any persons associated with the transfer agent as such appropriate regulatory agency may prescribe as necessary or appropriate in furtherance of the purposes of this section. Except as hereinafter provided, such registration shall become effective 45 days after receipt of such application by such appropriate regulatory agency or within such shorter period of time as such appropriate regulatory agency may determine.
 
 (3) The appropriate regulatory agency for a transfer agent, by order, shall deny registration to, censure, place limitations on the activities, functions, or operations of, suspend for a period not exceeding 12 months, or revoke the registration of such transfer agent, if such appropriate regulatory agency finds, on the record after notice and opportunity for hearing, that such denial, censure, placing of limitations, suspension, or revocation is in the public interest and that such transfer agent, whether prior or subsequent to becoming such, or any person associated with such transfer agent, whether prior or subsequent to becoming so associated—
 
-&emsp;(A) has committed or omitted any act, or is subject to an order or finding, enumerated in subparagraph (A), (D), (E), (H), or (G) of paragraph (4) of section 78<i>o</i>(b) of this title, has been convicted of any offense specified in subparagraph (B) of such paragraph (4) within ten years of the commencement of the proceedings under this paragraph, or is enjoined from any action, conduct, or practice specified in subparagraph (C) of such paragraph (4); or
+&emsp;(A) has committed or omitted any act, or is subject to an order or finding, enumerated in subparagraph (A), (D), (E), (H), or (G) of paragraph (4) of section 78<i>o</i>(b) of this title, has been convicted of any offense specified in subparagraph (B) of such paragraph (4) within tenyears of the commencement of the proceedings under this paragraph, or is enjoined from any action, conduct, or practice specified in subparagraph (C) of such paragraph (4); or
 
 &emsp;(B) is subject to an order entered pursuant to subparagraph (C) of paragraph (4) of this subsection barring or suspending the right of such person to be associated with a transfer agent.
 
@@ -88,7 +88,7 @@
 
 (B) A registered transfer agent may, upon such terms and conditions as the appropriate regulatory agency for such transfer agent deems necessary or appropriate in the public interest, for the protection of investors, or in furtherance of the purposes of this section, withdraw from registration by filing a written notice of withdrawal with such appropriate regulatory agency. If such appropriate regulatory agency finds that any transfer agent for which it is the appropriate regulatory agency, is no longer in existence or has ceased to do business as a transfer agent, such appropriate regulatory agency, by order, shall cancel or deny the registration.
 
-(C) The appropriate regulatory agency for a transfer agent, by order, shall censure or place limitations on the activities or functions of any person associated, seeking to become associated, or, at the time of the alleged misconduct, associated or seeking to become associated with the transfer agent, or suspend for a period not exceeding twelve months or bar any such person from being associated with the transfer agent, if the appropriate regulatory agency finds, on the record after notice and opportunity for hearing, that such censure, placing of limitations, suspension, or bar is in the public interest and that such person has committed or omitted any act, or is subject to an order or finding, enumerated in subparagraph (A), (D), (E), (H), or (G) or <sup>2</sup> paragraph (4) of section 78<i>o</i>(b) of this title, has been convicted of any offense specified in subparagraph (B) of such paragraph (4) within ten years of the commencement of the proceedings under this paragraph, or is enjoined from any action, conduct, or practice specified in subparagraph (C) of such paragraph (4). It shall be unlawful for any person as to whom such an order suspending or barring him from being associated with a transfer agent is in effect willfully to become, or to be, associated with a transfer agent without the consent of the appropriate regulatory agency that entered the order and the appropriate regulatory agency for that transfer agent. It shall be unlawful for any transfer agent to permit such a person to become, or remain, a person associated with it without the consent of such appropriate regulatory agencies, if the transfer agent knew, or in the exercise of reasonable care should have known, of such order. The Commission may establish, by rule, procedures by which a transfer agent reasonably can determine whether a person associated or seeking to become associated with it is subject to any such order, and may require, by rule,that any transfer agent comply with such procedures.
+(C) The appropriate regulatory agency for a transfer agent, by order, shall censure or place limitations on the activities or functions of any person associated, seeking to become associated, or, at the time of the alleged misconduct, associated or seeking to become associated with the transfer agent, or suspend for a period not exceeding 12 months or bar any such person from being associated with any transfer agent, broker, dealer, investment adviser, municipal securities dealer, municipal advisor, or nationally recognized statistical rating organization, if the appropriate regulatory agency finds, on the record after notice and opportunity for hearing, that such censure, placing of limitations, suspension, or bar is in the public interest and that such person has committed or omitted any act, or is subject to an order or finding, enumerated in subparagraph (A), (D), (E), (H), or (G) or <sup>2</sup> paragraph (4) of section 78<i>o</i>(b) of this title, has been convicted of any offense specified in subparagraph (B) of such paragraph (4) within ten years of the commencement of the proceedings under this paragraph, or is enjoined from any action, conduct, or practice specified in subparagraph (C) of such paragraph (4). It shall be unlawful for any person as to whom such an order suspending or barring him from being associated with a transfer agent is in effect willfully to become, or to be, associated with a transfer agent without the consent of the appropriate regulatory agency that entered the order and the appropriate regulatory agency for that transfer agent. It shall be unlawful for any transfer agent to permit such a person to become, or remain, a person associated with it without the consent of such appropriate regulatory agencies, if the transfer agent knew, or in the exercise of reasonable care should have known, of such order. The Commission may establish, by rule, procedures by which a transfer agent reasonably can determine whether a person associated or seeking to become associated with it is subject to any such order, and may require, by rule, that any transfer agent comply with such procedures.
 
 #### (d) Activities of clearing agencies and transfer agents; enforcement by appropriate regulatory agencies
 
@@ -96,7 +96,7 @@
 
 (2) With respect to any clearing agency or transfer agent for which the Commission is not the appropriate regulatory agency, the appropriate regulatory agency for such clearing agency or transfer agent may, in accordance with section 1818 of title 12, enforce compliance by such clearing agency or transfer agent with the provisions of this section, sections 78q and 78s of this title, and the rules and regulations thereunder. For purposes of the preceding sentence, any violation of any such provision shall constitute adequate basis for the issuance of an order under section 1818(b) or 1818(c) of title 12, and the participants in any such clearing agency and the persons doing business with any such transfer agent shall be deemed to be “depositors” as that term is used in section 1818(c) of title 12.
 
-(3)(A) With respect to any clearing agency or transfer agent for which the Commission is not the appropriate regulatory agency, the Commission and the appropriate regulatory agency for such clearing agency or transfer agent shall consult and cooperate with each other, and, as may be appropriate, with State banking authorities having supervision over such clearing agency or transfer agent toward the end that, to the maximum extent practicable, their respective regulatory responsibilities may be fulfilled and the rules and regulations applicable to such clearing agency or transfer agent may be in accord with both sound banking practices and a national system for the prompt and accurate clearance and settlement of securities transactions. In accordance with this objective—
+(3)(A) With respect to any clearing agency or transfer agent for which the Commission is not the appropriate regulatory agency, the Commission and the appropriate regulatory agency for such clearing agency or transfer agent shall consult and cooperate with each other, and, as may be appropriate, with State banking authorities having supervision over such clearing agency or transfer agent toward the end that, to the maximum extent practicable, their respective regulatory responsibilities may be fulfilled and the rules and regulations applicable to such clearing agency or transfer agent may be in accord with both sound banking practices and a nationalsystem for the prompt and accurate clearance and settlement of securities transactions. In accordance with this objective—
 
 &emsp;(i) the Commission and such appropriate regulatory agency shall, at least fifteen days prior to the issuance for public comment of any proposed rule or regulation or adoption of any rule or regulation concerning such clearing agency or transfer agent, consult and request the views of the other; and
 
@@ -132,7 +132,7 @@ The Commission shall use its authority under this chapter to end the physical mo
 
 (3) Any State may, prior to the expiration of 2 years after the Commission adopts a rule under this subsection, enact a statute that specifically refers to this subsection and the specific rule thereunder and establishes, prospectively from the date of enactment of the State statute, a provision that differs from that applicable under the Commission's rule.
 
-(4)(A) Within 90 days after October 16, 1990, the Commission shall (and at such times thereafter as the Commission may determine, the Commission may), after consultation with the Secretary of the Treasury and the Board of Governors of the Federal Reserve System, establish an advisory committee under the Federal Advisory Committee Act (5 U.S.C. App.). The Advisory Committee shall be directed to consider and report to the Commission on such matters as the Commission, after consultation with the Secretary of the Treasury and the Board of Governors of the Federal Reserve System, determines, including the areas, if any, in which State commercial laws and related Federal laws concerning the transfer of certificated or uncertificated securities, limited interests (including security interests) in such securities, or the creation or perfection of security interests in such securities do not provide the necessary certainty, uniformity, and clarity for purchasers, sellers, owners, lenders, borrowers, and financial intermediaries concerning their respective rights and obligations.
+(4)(A) Within 90 days after October 16, 1990, the Commission shall (and at such times thereafter as the Commission may determine, the Commission may), after consultation with the Secretary of the Treasury and the Board of Governors of the Federal Reserve System, establish an advisory committee under the Federal Advisory Committee Act (5 U.S.C. App.). The Advisory Committee shall be directed to consider and report to the Commission on such matters as the Commission, after consultation with the Secretary of the Treasury and the Board of Governors of the Federal Reserve System, determines, including the areas, if any, in which State commercial laws and related Federal laws concerning the transfer of certificated or uncertificated securities, limited interests (including security interests) in such securities, or thecreation or perfection of security interests in such securities do not provide the necessary certainty, uniformity, and clarity for purchasers, sellers, owners, lenders, borrowers, and financial intermediaries concerning their respective rights and obligations.
 
 (B) The Advisory Committee shall consist of 15 members, of which—
 
@@ -142,7 +142,75 @@ The Commission shall use its authority under this chapter to end the physical mo
 
 (C) The Advisory Committee shall conduct its activities in accordance with the Federal Advisory Committee Act. Within 6 months of its designation, or such longer time as the Commission may designate, the Advisory Committee shall issue a report to the Commission, and shall cause copies of that report to be delivered to the Secretary of the Treasury and the Chairman of the Board of Governors of the Federal Reserve System.
 
-(June 6, 1934, ch. 404, title I, §17A, as added Pub. L. 94–29, §15, June 4, 1975, 89 Stat. 141; amended Pub. L. 100–181, title III, §322, Dec. 4, 1987, 101 Stat. 1257; Pub. L. 101–429, title II, §206, Oct. 15, 1990, 104 Stat. 941; Pub. L. 101–432, §5, Oct. 16, 1990, 104 Stat. 973; Pub. L. 101–550, title II, §203(c)(1), Nov. 15, 1990, 104 Stat. 2718; Pub. L. 106–554, §1(a)(5) \[title II, §§206(d), 207\], Dec. 21, 2000, 114 Stat. 2763, 2763A–431, 2763A–434; Pub. L. 107–204, title VI, §604(c)(1)(C), July 30, 2002, 116 Stat. 796.)
+#### (g) Due diligence for the delivery of dividends, interest, and other valuable property rights
+
+#### (1) Revision of rules required
+
+&emsp;The Commission shall revise its regulations in section 240.17Ad–17 of title 17, Code of Federal Regulations, as in effect on December 8, 1997, to extend the application of such section to brokers and dealers and to provide for the following:
+
+&emsp;&emsp;(A) A requirement that the paying agent provide a single written notification to each missing security holder that the missing security holder has been sent a check that has not yet been negotiated. The written notification may be sent along with a check or other mailing subsequently sent to the missing security holder but must be provided no later than 7 months after the sending of the not yet negotiated check.
+
+&emsp;&emsp;(B) An exclusion for paying agents from the notification requirements when the value of the not yet negotiated check is less than $25.
+
+&emsp;&emsp;(C) A provision clarifying that the requirements described in subparagraph (A) shall have no effect on State escheatment laws.
+
+&emsp;&emsp;(D) For purposes of such revised regulations—
+
+&emsp;&emsp;&emsp;(i) a security holder shall be considered a “missing security holder” if a check is sent to the security holder and the check is not negotiated before the earlier of the paying agent sending the next regularly scheduled check or the elapsing of 6 months after the sending of the not yet negotiated check; and
+
+&emsp;&emsp;&emsp;(ii) the term “paying agent” includes any issuer, transfer agent, broker, dealer, investment adviser, indenture trustee, custodian, or any other person that accepts payments from the issuer of a security and distributes the payments to the holders of the security.
+
+#### (2) Rulemaking
+
+&emsp;The Commission shall adopt such rules, regulations, and orders necessary to implement this subsection no later than 1 year after July 21, 2010. In proposing such rules, the Commission shall seek to minimize disruptions to current systems used by or on behalf of paying agents to process payment to account holders and avoid requiring multiple paying agents to send written notification to a missing security holder regarding the same not yet negotiated check.
+
+(June 6, 1934, ch. 404, title I, §17A, as added Pub. L. 94–29, §15, June 4, 1975, 89 Stat. 141; amended Pub. L. 100–181, title III, §322, Dec. 4, 1987, 101 Stat. 1257; Pub. L. 101–429, title II, §206, Oct. 15, 1990, 104 Stat. 941; Pub. L. 101–432, §5, Oct. 16, 1990, 104 Stat. 973; Pub. L. 101–550, title II, §203(c)(1), Nov. 15, 1990, 104 Stat. 2718; Pub. L. 106–554, §1(a)(5) \[title II, §§206(d), 207\], Dec. 21, 2000, 114 Stat. 2763, 2763A–431, 2763A–434; Pub. L. 107–204, title VI, §604(c)(1)(C), July 30, 2002, 116 Stat. 796; Pub. L. 111–203, title VII, §763(b), title IX, §§925(a)(3), 929W, July 21, 2010, 124 Stat. 1768, 1851, 1869.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title VII, §§763(b), 774, July 21, 2010, 124 Stat. 1768, 1802, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, this section is amended by adding at the end the following:</i>
+
+#### <i>(g) Registration requirement</i>
+
+<i>It shall be unlawful for a clearing agency, unless registered with the Commission, directly or indirectly to make use of the mails or any means or instrumentality of interstate commerce to perform the functions of a clearing agency with respect to a security-based swap.</i>
+
+#### <i>(h) Voluntary registration</i>
+
+<i>A person that clears agreements, contracts, or transactions that are not required to be cleared under this chapter may register with the Commission as a clearing agency.</i>
+
+#### <i>(i) Standards for clearing agencies clearing security-based swap transactions</i>
+
+<i>To be registered and to maintain registration as a clearing agency that clears security-based swap transactions, a clearing agency shall comply with such standards as the Commission may establish by rule. In establishing any such standards, and in the exercise of its oversight of such a clearing agency pursuant to this chapter, the Commission may conform such standards or oversight to reflect evolving United States and international standards. Except where the Commission determines otherwise by rule or regulation, a clearing agency shall have reasonable discretion in establishing the manner in which it complies with any such standards.</i>
+
+#### <i>(j) Rules</i>
+
+<i>The Commission shall adopt rules governing persons that are registered as clearing agencies for security-based swaps under this chapter.</i>
+
+#### <i>(k) Exemptions</i>
+
+<i>The Commission may exempt, conditionally or unconditionally, a clearing agency from registration</i><i>under this section for the clearing of security-based swaps if the Commission determines that the clearing agency is subject to comparable, comprehensive supervision and regulation by the Commodity Futures Trading Commission or the appropriate government authorities in the home country of the agency. Such conditions may include, but are not limited to, requiring that the clearing agency be available for inspection by the Commission and make available all information requested by the Commission.</i>
+
+#### <i>(l) Existing depository institutions and derivative clearing organizations</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>A depository institution or derivative clearing organization registered with the Commodity Futures Trading Commission under the Commodity Exchange Act that is required to be registered as a clearing agency under this section is deemed to be registered under this section solely for the purpose of clearing security-based swaps to the extent that, before July 21, 2010—</i>
+
+&emsp;&emsp;<i>(A) the depository institution cleared swaps as a multilateral clearing organization; or</i>
+
+&emsp;&emsp;<i>(B) the derivative clearing organization cleared swaps pursuant to an exemption from registration as a clearing agency.</i>
+
+#### <i>(2) Conversion of depository institutions</i>
+
+&emsp;<i>A depository institution to which this subsection applies may, by the vote of the shareholders owning not less than 51 percent of the voting interests of the depository institution, be converted into a State corporation, partnership, limited liability company, or similar legal form pursuant to a plan of conversion, if the conversion is not in contravention of applicable State law.</i>
+
+#### <i>(3) Sharing of information</i>
+
+&emsp;<i>The Commodity Futures Trading Commission shall make available to the Commission, upon request, all information determined to be relevant by the Commodity Futures Trading Commission regarding a derivatives clearing organization deemed to be registered with the Commission under paragraph (1).</i>
+
+#### <i>(m) Modification of core principles</i>
+
+<i>The Commission may conform the core principles established in this section to reflect evolving United States and international standards.</i>
 
 #### References in Text
 
@@ -154,9 +222,13 @@ The Federal Advisory Committee Act, referred to in subsec. (f)(4), is Pub. L. 92
 
 #### Amendments
 
-2002—Subsec. (c)(3)(A), (4)(C). Pub. L. 107–204 inserted “, or is subject to an order or finding,” before “enumerated” and substituted “(H), or (G)” for “or (G)”.
+<b>2010</b>—Subsec. (c)(4)(C). Pub. L. 111–203, §925(a)(3), substituted “12 months or bar any such person from being associated with any transfer agent, broker, dealer, investment adviser, municipal securities dealer, municipal advisor, or nationally recognized statistical rating organization,” for “twelve months or bar any such person from being associated with the transfer agent,”.
 
-2000—Subsec. (b)(3)(A). Pub. L. 106–554, §1(a)(5) \[title II, §207(1)\], inserted “and derivative agreements, contracts, and transactions” after “prompt and accurate clearance and settlement of securities transactions”.
+Subsec. (g). Pub. L. 111–203, §929W, added subsec. (g).
+
+<b>2002</b>—Subsec. (c)(3)(A), (4)(C). Pub. L. 107–204 inserted “, or is subject to an order or finding,” before “enumerated” and substituted “(H), or (G)” for “or (G)”.
+
+<b>2000</b>—Subsec. (b)(3)(A). Pub. L. 106–554, §1(a)(5) \[title II, §207(1)\], inserted “and derivative agreements, contracts, and transactions” after “prompt and accurate clearance and settlement of securities transactions”.
 
 Subsec. (b)(3)(F). Pub. L. 106–554, §1(a)(5) \[title II, §207(2)\], inserted “and, to the extent applicable, derivative agreements, contracts, and transactions” after “designed to promote the prompt and accurate clearance and settlement of securities transactions”.
 
@@ -164,7 +236,7 @@ Subsec. (b)(7). Pub. L. 106–554, §1(a)(5) \[title II, §206(d)\], added par. 
 
 Subsec. (b)(8). Pub. L. 106–554, §1(a)(5) \[title II, §207(3)\], added par. (8).
 
-1990—Subsec. (a)(2). Pub. L. 101–432, §5(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Commission is directed, therefore, having due regard for the public interest, the protection of investors, the safeguarding of securities and funds, and maintenance of fair competition among brokers and dealers, clearing agencies, and transfer agents, to use its authority under this chapter to facilitate the establishment of a national system for the prompt and accurate clearance and settlement of transactions in securities (other than exempted securities) in accordance with the findings and to carry out the objectives set forth in paragraph (1) of this subsection. The Commission shall use its authority under this chapter to assure equal regulation under this chapter of registered clearing agencies and registered transfer agents.”
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–432, §5(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Commission is directed, therefore, having due regard for the public interest, the protection of investors, the safeguarding of securities and funds, and maintenance of fair competition among brokers and dealers, clearing agencies, and transfer agents, to use its authority under this chapter to facilitate the establishment of a national system for the prompt and accurate clearance and settlement of transactions in securities (other than exempted securities) in accordance with the findings and to carry out the objectives set forth in paragraph (1) of this subsection. The Commission shall use its authority under this chapter to assure equal regulation under this chapter of registered clearing agencies and registered transfer agents.”
 
 Subsec. (c)(3)(A), (4)(C). Pub. L. 101–550 substituted “(A), (D), (E), or (G)” for “(A), (D), or (E)”.
 
@@ -172,13 +244,19 @@ Subsec. (d)(5). Pub. L. 101–429 added par. (5).
 
 Subsec. (f). Pub. L. 101–432, §5(b), added subsec. (f).
 
-1987—Subsec. (c)(2). Pub. L. 100–181, §322(1), (2), inserted “and any persons associated with the transfer agent” in first sentence and substituted “45” for “thirty” in second sentence.
+<b>1987</b>—Subsec. (c)(2). Pub. L. 100–181, §322(1), (2), inserted “and any persons associated with the transfer agent” in first sentence and substituted “45” for “thirty” in second sentence.
 
 Subsec. (c)(3), (4). Pub. L. 100–181, §322(3)–(5), added par. (3), struck out former par. (3)(A) which read as follows: “The appropriate regulatory agency for a transfer agent, by order, shall deny registration to, censure, place limitations on the activities, functions, or operations of, suspend for a period not exceeding twelve months, or revoke the registration of such transfer agent, if such appropriate regulatory agency finds, on the record after notice and opportunity for hearing, that such denial, censure, placing of limitations, suspension, or revocation is in the public interest and that such transfer agent has willfully violated or is unable to comply with any provision of this section or section 78q of this title or the rules or regulations thereunder.”, redesignated subpars. (B) and (C) of former par. (3) as subpars. (A) and (B), respectively, of new par. (4), and added subpar. (C) to such par. (4).
 
 Subsec. (d)(3)(B). Pub. L. 100–181, §322(6), substituted “clearing agency, transfer agent, or person associated with a transfer agent” for “clearing agency or transfer agent”.
 
 Subsec. (d)(4). Pub. L. 100–181, §322(7), substituted “, transfer agent, or person associated with a transfer agent,” for “or transfer agent”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by sections 925(a)(3) and 929W of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
+Amendment by section 763(b) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
 
 #### Effective Date of 1990 Amendment
 

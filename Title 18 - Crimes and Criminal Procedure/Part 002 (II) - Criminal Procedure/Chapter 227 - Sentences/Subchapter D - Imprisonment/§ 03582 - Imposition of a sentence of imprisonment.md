@@ -36,7 +36,7 @@ Modification of an Imposed Term of Imprisonment.—The court may not modify a te
 
 (d)
 
-Inclusion of an Order To Limit Criminal Association of Organized Crime and Drug Offenders.—The court, in imposing a sentence to a term of imprisonment upon a defendant convicted of a felony set forth in chapter 95 (racketeering) or 96 (racketeer influenced and corrupt organizations) of this title or in the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 801 et seq.), or at any time thereafter upon motion by the Director of the Bureau of Prisons or a United States attorney, may include as a part of the sentence an order that requires that the defendant not associate or communicate with a specified person, other than his attorney, upon a showing of probable cause to believe that association or communication with such person is for the purpose of enabling the defendant to control, manage, direct, finance, or otherwise participate in an illegal enterprise.
+Inclusion of an Order To Limit Criminal Association of Organized Crime and Drug Offenders.—The court, in imposing a sentence to a term of imprisonment upon a defendant convicted of a felony set forth in chapter 95 (racketeering) or 96 (racketeer influenced and corrupt organizations) of this title or in the Comprehensive Drug Abuse Prevention and Control Act of1970 (21 U.S.C. 801 et seq.), or at any time thereafter upon motion by the Director of the Bureau of Prisons or a United States attorney, may include as a part of the sentence an order that requires that the defendant not associate or communicate with a specified person, other than his attorney, upon a showing of probable cause to believe that association or communication with such person is for the purpose of enabling the defendant to control, manage, direct, finance, or otherwise participate in an illegal enterprise.
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1998; amended Pub. L. 100–690, title VII, §7107, Nov. 18, 1988, 102 Stat. 4418; Pub. L. 101–647, title XXXV, §3588, Nov. 29, 1990, 104 Stat. 4930; Pub. L. 103–322, title VII, §70002, Sept. 13, 1994, 108 Stat. 1984; Pub. L. 104–294, title VI, §604(b)(3), Oct. 11, 1996, 110 Stat. 3506; Pub. L. 107–273, div. B, title III, §3006, Nov. 2, 2002, 116 Stat. 1806.)
 
@@ -48,15 +48,15 @@ The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in 
 
 #### Amendments
 
-2002—Subsec. (c)(1)(A). Pub. L. 107–273 inserted “(and may impose a term of probation or supervised release with or without conditions that does not exceed the unserved portion of the original term of imprisonment)” after “may reduce the term of imprisonment” in introductory provisions.
+<b>2002</b>—Subsec. (c)(1)(A). Pub. L. 107–273 inserted “(and may impose a term of probation or supervised release with or without conditions that does not exceed the unserved portion of the original term of imprisonment)” after “may reduce the term of imprisonment” in introductory provisions.
 
-1996—Subsec. (c)(1)(A)(i). Pub. L. 104–294 inserted “or” after semicolon at end.
+<b>1996</b>—Subsec. (c)(1)(A)(i). Pub. L. 104–294 inserted “or” after semicolon at end.
 
-1994—Subsec. (c)(1)(A). Pub. L. 103–322, inserted a dash after “if it finds that”, designated “extraordinary and compelling reasons warrant such a reduction” as cl. (i), inserted a semicolon at end of cl. (i), realigned margins accordingly, and added cl. (ii) before concluding provisions.
+<b>1994</b>—Subsec. (c)(1)(A). Pub. L. 103–322, inserted a dash after “if it finds that”, designated “extraordinary and compelling reasons warrant such a reduction” as cl. (i), inserted a semicolon at end of cl. (i), realigned margins accordingly, and added cl. (ii) before concluding provisions.
 
-1990—Subsec. (b)(2). Pub. L. 101–647 inserted “of the Federal Rules of Criminal Procedure” after “rule 35”.
+<b>1990</b>—Subsec. (b)(2). Pub. L. 101–647 inserted “of the Federal Rules of Criminal Procedure” after “rule 35”.
 
-1988—Subsec. (c)(2). Pub. L. 100–690 substituted “994(<i>o</i>)” for “994(n)”.
+<b>1988</b>—Subsec. (c)(2). Pub. L. 100–690 substituted “994(<i>o</i>)” for “994(n)”.
 
 #### Effective Date of 1996 Amendment
 

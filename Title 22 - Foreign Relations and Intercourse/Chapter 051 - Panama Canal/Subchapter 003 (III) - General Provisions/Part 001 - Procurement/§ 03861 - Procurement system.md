@@ -22,9 +22,9 @@ The Commission shall develop a Supplement to the Regulation (in this section ref
 
 (2) For purposes of paragraph (1), the Commission may not waive—
 
-&emsp;(A) section 423 of title 41;
+&emsp;(A) chapter 21 of title 41;
 
-&emsp;(B) the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.), other than section 10(a) of such Act (41 U.S.C. 609(a)); or
+&emsp;(B) chapter 71 of title 41, other than section 7104(b) of title 41; or
 
 &emsp;(C) civil rights, environmental, or labor laws.
 
@@ -38,9 +38,11 @@ The Regulation and the Supplement shall take effect on the date of publication i
 
 (Pub. L. 96–70, title III, §3101, as added Pub. L. 105–85, div. C, title XXXV, §3541, Nov. 18, 1997, 111 Stat. 2070.)
 
-#### References in Text
+#### Codification
 
-The Contract Disputes Act of 1978, referred to in subsec. (c)(2)(B), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code see Short Title note set out under section 601 of Title 41 and Tables.
+In subsec. (c)(2)(A), “chapter 21 of title 41” substituted for “section 27 of the Office of Federal Procurement Policy Act (41 U.S.C. 423)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (c)(2)(B), “chapter 71 of title 41, other than section 7104(b) of title 41” substituted for “the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.), other than section 10(a) of such Act (41 U.S.C. 609(a))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
 

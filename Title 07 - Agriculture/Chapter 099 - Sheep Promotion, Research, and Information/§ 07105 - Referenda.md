@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;Following the issuance of an order under section 7103 of this title, the Secretary shallconduct a referendum among producers, feeders, and importers who, during a representative period as determined by the Secretary, have been engaged in the production, feeding, or importation of sheep or sheep products for the purpose of ascertaining whether the order shall go into effect.
+&emsp;Following the issuance of an order under section 7103 of this title, the Secretary shall conduct a referendum among producers, feeders, and importers who, during a representative period as determined by the Secretary, have been engaged in the production, feeding, or importation of sheep or sheep products for the purpose of ascertaining whether the order shall go into effect.
 
 #### (2) Approval of order
 
-&emsp;The order shall become effective only if the Secretary determines that the order has been approved by not less than a majority of the producers, feeders, and importers voting in the referendum or at least 2/3 of the production represented by persons voting in the referendum.
+&emsp;The order shall become effective only if the Secretary determines that the order has beenapproved by not less than a majority of the producers, feeders, and importers voting in the referendum or at least 2/3 of the production represented by persons voting in the referendum.
 
 #### (b) Additional referenda
 

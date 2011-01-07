@@ -26,7 +26,7 @@ The Administrator shall, not later than one year after August 7, 1977, promulgat
 
 (2)(A) The Administrator shall appoint an independent scientific review committee composed of seven members including at least one member of the National Academy of Sciences, one physician, and one person representing State air pollution control agencies.
 
-(B) Not later than January 1, 1980, and at five-year intervals thereafter, the committee referred to in subparagraph (A) shall complete a review of the criteria published under section 7408 of this title and the national primary and secondary ambient air quality standards promulgated under this section and shall recommend to the Administrator any new national ambient air quality standards and revisions of existing criteria and standards as may be appropriate under section 7408 of this title and subsection (b) of this section.
+(B) Not later than January 1, 1980, and at five-year intervals thereafter, the committee referred to in subparagraph (A) shall complete a review of the criteria published under section 7408 of this title and the national primary and secondary ambient air quality standards promulgated under this section and shall recommend to the Administrator any new nationalambient air quality standards and revisions of existing criteria and standards as may be appropriate under section 7408 of this title and subsection (b) of this section.
 
 (C) Such committee shall also (i) advise the Administrator of areas in which additional knowledge is required to appraise the adequacy and basis of existing, new, or revised national ambient air quality standards, (ii) describe the research efforts necessary to provide the required information, (iii) advise the Administrator on the relative contribution to air pollution concentrations of natural as well as anthropogenic activity, and (iv) advise the Administrator of any adverse public health, welfare, social, economic, or energy effects which may result from various strategies for attainment and maintenance of such national ambient air quality standards.
 
@@ -42,7 +42,7 @@ A prior section 109 of act July 14, 1955, was renumbered section 116 by Pub. L. 
 
 #### Amendments
 
-1977—Subsec. (c). Pub. L. 95–95, §106(b), added subsec. (c).
+<b>1977</b>—Subsec. (c). Pub. L. 95–95, §106(b), added subsec. (c).
 
 Subsec. (d). Pub. L. 95–95, §106(a), added subsec. (d).
 

@@ -30,9 +30,9 @@ Section was enacted as part of the Intelligence Authorization Act for Fiscal Yea
 
 #### Amendments
 
-2003—Subsec. (b)(1). Pub. L. 108–177 substituted “an annual” for “a semiannual”.
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–177 substituted “an annual” for “a semiannual”.
 
-2002—Subsec. (a). Pub. L. 107–306, §811(b)(5)(C)(i), substituted “The Director” for “Not later than 6 months after October 11, 1996, and every 6 months thereafter, the Director”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–306, §811(b)(5)(C)(i), substituted “The Director” for “Not later than 6 months after October 11, 1996, and every 6 months thereafter, the Director”.
 
 Subsec. (b). Pub. L. 107–306, §811(b)(5)(C)(iii), added subsec. (b). Former subsec. (b) redesignated (c).
 

@@ -38,7 +38,7 @@
 
 &emsp;Each eligible partnership desiring a grant or subgrant under this part shall submit an application—
 
-&emsp;&emsp;(A) in the case of grants awarded pursuant to subsection (a)(1) of this section, to theSecretary, at such time, in such manner, and accompanied by such information as the Secretary may require; or
+&emsp;&emsp;(A) in the case of grants awarded pursuant to subsection (a)(1) of this section, to the Secretary, at such time, in such manner, and accompanied by such information as the Secretary may require; or
 
 &emsp;&emsp;(B) in the case of subgrants awarded pursuant to subsection (a)(2) of this section, to the State educational agency, at such time, in such manner, and accompanied by such information as the State educational agency may require.
 
@@ -144,7 +144,7 @@ An eligible partnership shall use funds provided under this part for one or more
 
 &emsp;&emsp;&emsp;(ii) increased percentages of elementary school teachers with academic majors or minors, or group majors or minors, in mathematics, engineering, or the sciences; and
 
-&emsp;&emsp;&emsp;(iii) increased percentages of secondary school classes in mathematics and science taught by teachers with academic majors in mathematics, engineering, and science.
+&emsp;&emsp;&emsp;(iii) increased percentages of secondary school classes in mathematics and sciencetaught by teachers with academic majors in mathematics, engineering, and science.
 
 #### (f) Report
 

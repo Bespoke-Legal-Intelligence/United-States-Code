@@ -16,13 +16,13 @@ Returns made under subparts B and C of part III of this subchapter which are fil
 
 #### Amendments
 
-2005—Subsec. (c). Pub. L. 109–59 substituted “section 5732” for “section 5142”.
+<b>2005</b>—Subsec. (c). Pub. L. 109–59 substituted “section 5732” for “section 5142”.
 
-1998—Subsecs. (b), (c). Pub. L. 105–206 added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>1998</b>—Subsecs. (b), (c). Pub. L. 105–206 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1958—Subsec. (b). Pub. L. 85–859 inserted reference to section 5142 of this title.
+<b>1958</b>—Subsec. (b). Pub. L. 85–859 inserted reference to section 5142 of this title.
 
 #### Effective Date of 2005 Amendment
 

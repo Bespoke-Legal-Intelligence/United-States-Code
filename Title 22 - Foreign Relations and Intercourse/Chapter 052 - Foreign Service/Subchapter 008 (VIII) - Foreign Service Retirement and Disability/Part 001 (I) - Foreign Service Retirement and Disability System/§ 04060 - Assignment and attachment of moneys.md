@@ -4,7 +4,7 @@
 
 (1) An individual entitled to an annuity from the Fund may make allotments or assignments of amounts from such annuity for such purposes as the Secretary of State in his or her sole discretion considers appropriate.
 
-(2) Notwithstanding section 3727 of title 31 or any other law, a member of the Service who is entitled to receive benefits under section 4009(b)(1) of this title may assign to any person the whole or any part of those benefits. Any such assignment shall be on a form approved by the Secretary of the Treasury and a copy of such assignment form shall be deposited with the Secretary of the Treasury by the member executing the assignment.
+(2) Notwithstanding section 3727 of title 31 or any other law, a member of the Service who is entitled to receive benefits under section 4009(b)(1) of this title may assign to any person the whole or any part of those benefits. Any such assignment shall be on a form approved by the Secretary of the Treasury and a copy of such assignment form shall be deposited with theSecretary of the Treasury by the member executing the assignment.
 
 #### (b) Participants or annuitants having former spouses
 
@@ -34,7 +34,7 @@
 
 #### (c) Applicability of other provisions of law or remedies
 
-None of the moneys mentioned in this part shall be assignable either in law or equity, except under subsection (a) or (b) of this section,or subject to execution, levy, attachment, garnishment, or other legal process, except as otherwise may be provided by Federal law.
+None of the moneys mentioned in this part shall be assignable either in law or equity, except under subsection (a) or (b) of this section, or subject to execution, levy, attachment, garnishment, or other legal process, except as otherwise may be provided by Federal law.
 
 (Pub. L. 96–465, title I, §820, Oct. 17, 1980, 94 Stat. 2120; Pub. L. 99–335, title IV, §402(a)(2), June 6, 1986, 100 Stat. 609.)
 
@@ -44,7 +44,7 @@ In subsec. (a)(2), “section 3727 of title 31” substituted for “section 347
 
 #### Amendments
 
-1986—Subsecs. (b)(1)(B)(ii), (2), (3), (5), (c). Pub. L. 99–335 substituted “this part” for “this subchapter” wherever appearing.
+<b>1986</b>—Subsecs. (b)(1)(B)(ii), (2), (3), (5), (c). Pub. L. 99–335 substituted “this part” for “this subchapter” wherever appearing.
 
 #### Effective Date of 1986 Amendment
 

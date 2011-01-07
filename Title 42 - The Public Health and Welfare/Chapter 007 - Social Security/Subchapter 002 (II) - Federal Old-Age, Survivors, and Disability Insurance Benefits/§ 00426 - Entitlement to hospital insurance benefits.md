@@ -40,7 +40,7 @@ For purposes of subsection (a) of this section—
 
 &emsp;(1) entitlement of an individual to hospital insurance benefits for a month shall consist of entitlement to have payment made under, and subject to the limitations in, part A of subchapter XVIII of this chapter on his behalf for inpatient hospital services, post-hospital extended care services, and home health services (as such terms are defined in part E of subchapter XVIII of this chapter) furnished him in the United States (or outside the United States in the case of inpatient hospital services furnished under the conditions described in section 1395f(f) of this title) during such month; except that (A) no such payment may be made for post-hospital extended care services furnished before January 1967, and (B) no such payment may be made for post-hospital extended care services unless the discharge from the hospital required to qualify such services for payment under part A of subchapter XVIII of this chapter occurred (i) after June 30, 1966, or on or after the first day of the month in which he attains age 65, whichever is later, or (ii) if he was entitled to hospital insurance benefits pursuant to subsection (b) of this section, at a time when he was so entitled; and
 
-&emsp;(2) an individual shall be deemed entitled to monthly insurance benefits under section 402 or section 423 of this title, or to be a qualified railroad retirement beneficiary, for the month in which he died if he would have been entitled to such benefits, or would have been a qualified railroad retirement beneficiary, for such month had he died in the next month.
+&emsp;(2) an individual shall be deemed entitled to monthly insurance benefits under section 402 or section 423 of this title, or to be a qualifiedrailroad retirement beneficiary, for the month in which he died if he would have been entitled to such benefits, or would have been a qualified railroad retirement beneficiary, for such month had he died in the next month.
 
 #### (d) “Qualified railroad retirement beneficiary” defined
 
@@ -54,7 +54,7 @@ For purposes of this section, the term “qualified railroad retirement benefici
 
 &emsp;(ii) the phrase “before she attained age 60” in the matter following subparagraph (F) of section 402(e)(1) of this title and the phrase “before he attained age 60” in the matter following subparagraph (F) of section 402(f)(1) of this title shall each be deemed to read “based on a disability”.
 
-(B) For purposes of subsection (b)(2)(A)(iii) of this section, each month in the period commencing with the first month for which an individual is first eligible for supplemental security income benefits under subchapter XVI of this chapter, or State supplementary payments of the type referred to in section 1382e(a) of thistitle (or payments of the type described in section 212(a) of Public Law 93–66) which are paid by the Secretary under an agreement referred to in section 1382e(a) of this title (or in section 212(b) of Public Law 93–66), shall be included as one of the 24 months for which such individual must have been entitled to widow's or widower's insurance benefits on the basis of disability in order to become entitled to hospital insurance benefits on that basis.
+(B) For purposes of subsection (b)(2)(A)(iii) of this section, each month in the period commencing with the first month for which an individual is first eligible for supplemental security income benefits under subchapter XVI of this chapter, or State supplementary payments of the type referred to in section 1382e(a) of this title (or payments of the type described in section 212(a) of Public Law 93–66) which are paid by the Secretary under an agreement referred to in section 1382e(a) of this title (or in section 212(b) of Public Law 93–66), shall be included as one of the 24 months for which such individual must have been entitled to widow's or widower's insurance benefits on the basis of disability in order to become entitled to hospital insurance benefits on that basis.
 
 (2) For purposes of determining entitlement to hospital insurance benefits under subsection (b) of this section in the case of an individual under age 65 who is entitled to benefits under section 402 of this title, and who was entitled to widow's insurance benefits or widower's insurance benefits based on disability for the month before the first month in which such individual was so entitled to old-age insurance benefits (but ceased to be entitled to such widow's or widower's insurance benefits upon becoming entitled to such old-age insurance benefits), such individual shall be deemed to have continued to be entitled to such widow's insurance benefits or widower's insurance benefits for and after such first month.
 
@@ -94,7 +94,7 @@ For purposes of this section, each person whose monthly insurance benefit for an
 
 For entitlement to hospital insurance benefits in the case of certain uninsured individuals, see section 426a of this title.
 
-(Aug. 14, 1935, ch. 531, title II, §226, as added Pub. L. 89–97, title I, §101, July 30, 1965, 79 Stat. 290; amended Pub. L. 90–248, title I, §129(c)(1), Jan. 2,1968, 81 Stat. 847; Pub. L. 92–603, title II, §§201(b), 299I, Oct. 30, 1972, 86 Stat. 1371, 1463; Pub. L. 93–58, §3, July 6, 1973, 87 Stat. 142; Pub. L. 93–233, §18(f), Dec. 31, 1973, 87 Stat. 969; Pub. L. 93–445, title III, §305, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 95–216, title III, §§332(a)(3), 334(d)(4)(B), Dec. 20, 1977, 91 Stat. 1543, 1546; Pub. L. 95–292, §§1(b), 3, June 13, 1978, 92 Stat. 308, 315; Pub. L. 96–265, title I, §§103(a)(1), (b), 104(a), June 9, 1980, 94 Stat. 444; Pub. L. 96–473, §2(a), Oct. 19, 1980, 94 Stat. 2263; Pub. L. 96–499, title IX, §930(q), Dec. 5, 1980, 94 Stat. 2633; Pub. L. 97–35, title XXII, §2203(e), Aug. 13, 1981, 95 Stat. 837; Pub. L. 97–248, title II, §278(b)(2)(A), (B), (4), Sept. 3, 1982, 96 Stat. 560, 561; Pub. L. 98–21, title I, §131(a)(3)(H), (b)(3)(G), title III, §309(q)(1), Apr. 20, 1983, 97 Stat. 93, 117; Pub. L. 98–369, div. B, title VI, §2663(a)(17), July 18, 1984, 98 Stat. 1165; Pub. L. 99–272, title XIII, §13205(b)(2)(A), (C)(ii), Apr. 7, 1986, 100 Stat. 317; Pub. L. 100–203, title IV, §4033(a), formerly §4033(a)(1), title IX, §9010(e)(3), Dec. 22, 1987, 101 Stat. 1330–77, 1330–294, renumbered Pub. L. 100–360, title IV, §411(e)(2), July 1, 1988, 102 Stat. 775; Pub. L. 100–360, title IV, §411(n)(1), July 1, 1988, 102 Stat. 807; Pub. L. 100–485, title VI, §608(f)(5), Oct. 13, 1988, 102 Stat. 2424; Pub. L. 101–508, title V, §5103(c)(2)(C), Nov. 5, 1990, 104 Stat. 1388–252; Pub. L. 103–296, title II, §201(a)(3)(D)(i), Aug. 15, 1994, 108 Stat. 1497; Pub. L. 105–33, title IV, §4002(f)(1), Aug. 5, 1997, 111 Stat. 329; Pub. L. 106–170, title II, §202(a), Dec. 17, 1999, 113 Stat. 1894; Pub. L. 106–554, §1(a)(6) \[title I, §115(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–474; Pub. L. 108–173, title I, §101(e)(1), Dec. 8, 2003, 117 Stat. 2150; Pub. L. 108–203, title IV, §418(b)(4)(B)(vii), Mar. 2, 2004, 118 Stat. 533.)
+(Aug. 14, 1935, ch. 531, title II, §226, as added Pub. L. 89–97, title I, §101, July 30, 1965, 79 Stat. 290; amended Pub. L. 90–248, title I, §129(c)(1), Jan. 2, 1968, 81 Stat. 847; Pub. L. 92–603, title II, §§201(b), 299I, Oct. 30, 1972, 86 Stat. 1371, 1463; Pub. L. 93–58, §3, July 6, 1973, 87 Stat. 142; Pub. L. 93–233, §18(f), Dec. 31, 1973, 87 Stat. 969; Pub. L. 93–445, title III, §305, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 95–216, title III, §§332(a)(3), 334(d)(4)(B), Dec. 20, 1977, 91 Stat. 1543, 1546; Pub. L. 95–292, §§1(b), 3, June 13, 1978, 92 Stat. 308, 315; Pub. L. 96–265, title I, §§103(a)(1), (b), 104(a), June 9, 1980, 94 Stat. 444; Pub. L. 96–473, §2(a), Oct. 19, 1980, 94 Stat. 2263; Pub. L. 96–499, title IX, §930(q), Dec. 5, 1980, 94 Stat. 2633; Pub. L. 97–35, title XXII, §2203(e), Aug. 13, 1981, 95 Stat. 837; Pub. L. 97–248, title II, §278(b)(2)(A), (B), (4), Sept. 3, 1982, 96 Stat. 560, 561; Pub. L. 98–21, title I, §131(a)(3)(H), (b)(3)(G), title III, §309(q)(1), Apr. 20, 1983, 97 Stat. 93, 117; Pub. L. 98–369, div. B, title VI, §2663(a)(17), July 18, 1984, 98 Stat. 1165; Pub. L. 99–272, title XIII, §13205(b)(2)(A), (C)(ii), Apr. 7, 1986, 100 Stat. 317; Pub. L. 100–203, title IV, §4033(a), formerly §4033(a)(1), title IX, §9010(e)(3), Dec. 22, 1987, 101 Stat. 1330–77, 1330–294, renumbered Pub. L. 100–360, title IV, §411(e)(2), July 1, 1988, 102 Stat. 775; Pub. L. 100–360, title IV, §411(n)(1), July 1, 1988, 102 Stat. 807; Pub. L. 100–485, title VI, §608(f)(5), Oct. 13, 1988, 102 Stat. 2424; Pub. L. 101–508, title V, §5103(c)(2)(C), Nov. 5, 1990, 104 Stat. 1388–252; Pub. L. 103–296, title II, §201(a)(3)(D)(i), Aug. 15, 1994, 108 Stat. 1497; Pub. L. 105–33, title IV, §4002(f)(1), Aug. 5, 1997, 111 Stat. 329; Pub. L. 106–170, title II, §202(a), Dec. 17, 1999, 113 Stat. 1894; Pub. L. 106–554, §1(a)(6) \[title I, §115(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–474; Pub. L. 108–173, title I, §101(e)(1), Dec. 8, 2003, 117 Stat. 2150; Pub. L. 108–203, title IV, §418(b)(4)(B)(vii), Mar. 2, 2004, 118 Stat. 533.)
 
 #### References in Text
 
@@ -106,49 +106,49 @@ Section 425(c) of this title, referred to in subsec. (i), was repealed by Pub. L
 
 #### Amendments
 
-2004—Subsec. (e)(1)(A)(i). Pub. L. 108–203 substituted “402(f)(4)” for “402(f)(5)”.
+<b>2004</b>—Subsec. (e)(1)(A)(i). Pub. L. 108–203 substituted “402(f)(4)” for “402(f)(5)”.
 
-2003—Subsec. (c)(1). Pub. L. 108–173 substituted “part E” for “part D”.
+<b>2003</b>—Subsec. (c)(1). Pub. L. 108–173 substituted “part E” for “part D”.
 
-2000—Subsecs. (h), (j). Pub. L. 106–554 added subsec. (h) and redesignated former subsec. (h) as (j) and transferred such subsec. to appear at end of section.
+<b>2000</b>—Subsecs. (h), (j). Pub. L. 106–554 added subsec. (h) and redesignated former subsec. (h) as (j) and transferred such subsec. to appear at end of section.
 
-1999—Subsec. (b). Pub. L. 106–170 substituted “78” for “24” in penultimate sentence.
+<b>1999</b>—Subsec. (b). Pub. L. 106–170 substituted “78” for “24” in penultimate sentence.
 
-1997—Subsec. (c)(1). Pub. L. 105–33 substituted “part D” for “part C”.
+<b>1997</b>—Subsec. (c)(1). Pub. L. 105–33 substituted “part D” for “part C”.
 
-1994—Subsec. (i). Pub. L. 103–296 added subsec. (i).
+<b>1994</b>—Subsec. (i). Pub. L. 103–296 added subsec. (i).
 
-1990—Subsec. (e)(1). Pub. L. 101–508 designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
+<b>1990</b>—Subsec. (e)(1). Pub. L. 101–508 designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
 
-1988—Subsec. (a). Pub. L. 100–485 substituted “condition specified in paragraph (2)” for “condition specified in paragraph (1)” in concluding provisions.
+<b>1988</b>—Subsec. (a). Pub. L. 100–485 substituted “condition specified in paragraph (2)” for “condition specified in paragraph (1)” in concluding provisions.
 
 Subsec. (b). Pub. L. 100–360, §411(n)(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “In determining when an individual's entitlement or status terminates for purposes of the preceding sentence, the second sentence of section 423(a) of this title shall be applied as though the term ‘36 months’ (in such second sentence) read ‘15 months’.”
 
-1987—Subsec. (b). Pub. L. 100–203, §9010(e)(3), inserted sentence at end which related to determining when an individual's entitlement or status terminates for purposes of preceding sentence.
+<b>1987</b>—Subsec. (b). Pub. L. 100–203, §9010(e)(3), inserted sentence at end which related to determining when an individual's entitlement or status terminates for purposes of preceding sentence.
 
 Subsec. (f). Pub. L. 100–203, §4033(a), inserted before period at end “, unless the physical or mental impairment which is the basis for disability is the same as (or directly related to) the physical or mental impairment which served as the basis for disability in such previous period”.
 
-1986—Subsec. (a)(2)(C)(i). Pub. L. 99–272, §13205(b)(2)(A) substituted “medicare qualified government employment” for “medicare qualified Federal employment”.
+<b>1986</b>—Subsec. (a)(2)(C)(i). Pub. L. 99–272, §13205(b)(2)(A) substituted “medicare qualified government employment” for “medicare qualified Federal employment”.
 
 Subsec. (b)(2)(C)(ii)(I). Pub. L. 99–272, §13205(b)(2)(A), substituted “medicare qualified government employment” for “medicare qualified Federal employment”.
 
 Subsec. (g). Pub. L. 99–272, §13205(b)(2)(C)(ii), substituted “medicare qualified government employment by virtue of service described in section 410(a)(5) of this title” for “medicare qualified Federal employment”.
 
-1984—Subsec. (b). Pub. L. 98–369 substituted “part A” for “part (A)” in provisions following par. (2)(C).
+<b>1984</b>—Subsec. (b). Pub. L. 98–369 substituted “part A” for “part (A)” in provisions following par. (2)(C).
 
-1983—Subsec. (e)(1)(A). Pub. L. 98–21, §131(a)(3)(H), (b)(3)(G), substituted reference to section 402(e)(4), (f)(5) of this title for reference to section 405(e)(5), (f)(6) of this title.
+<b>1983</b>—Subsec. (e)(1)(A). Pub. L. 98–21, §131(a)(3)(H), (b)(3)(G), substituted reference to section 402(e)(4), (f)(5) of this title for reference to section 405(e)(5), (f)(6) of this title.
 
-Subsec. (e)(3). Pub. L. 98–21, §309(q)(1), amended par. (3) generally, inserting provisions relating to any disabled widower and striking out provision that a disabled widow, upon furnishing proof of such disability prior to July 1, 1974, under such procedures as the Secretary prescribed, would be deemed to have been entitled to such widow's benefits as of the time she would have been entitled to such widow's benefits if she had filed a timely application therefor.
+Subsec. (e)(3). Pub. L. 98–21, §309(q)(1), amended par. (3) generally, inserting provisions relating to any disabled widower and striking out provision that a disabled widow, upon furnishing proof of such disabilityprior to July 1, 1974, under such procedures as the Secretary prescribed, would be deemed to have been entitled to such widow's benefits as of the time she would have been entitled to such widow's benefits if she had filed a timely application therefor.
 
-1982—Subsec. (a)(2). Pub. L. 97–248, §278(b)(2)(A), redesignated existing provisions as subpar. (A), struck out “or is a qualified railroad retirement beneficiary,” after “of this chapter,”, and added subpars. (B) and (C).
+<b>1982</b>—Subsec. (a)(2). Pub. L. 97–248, §278(b)(2)(A), redesignated existing provisions as subpar. (A), struck out “or is a qualified railroad retirement beneficiary,” after “of this chapter,”, and added subpars. (B) and (C).
 
 Subsec. (b). Pub. L. 97–248, §278(b)(2)(B), in par. (2)(B) inserted a comma after “24 months” and “or” after “title 45,”, added par. (2)(C), and in provisions following par. (2) inserted provision defining “twenty-fifth month of his entitlement” and “notice of termination of such entitlement” with regards to applying first sentence of this subsection to individuals described in par. (2)(C).
 
 Subsecs. (g), (h). Pub. L. 97–248, §278(b)(4), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-1981—Subsec. (a)(2). Pub. L. 97–35 substituted “would be entitled” for “or would be entitled” and inserted “, or would be entitled to such benefits but for the failure of another individual, who meets all the criteria of entitlement to monthly insurance benefits, to meet such criteria throughout a month,”.
+<b>1981</b>—Subsec. (a)(2). Pub. L. 97–35 substituted “would be entitled” for “or would be entitled” and inserted “, or would be entitled to such benefits but for the failure of another individual, who meets all the criteria of entitlement to monthly insurance benefits, to meet such criteria throughout a month,”.
 
-1980—Subsec. (a)(2). Pub. L. 96–473 inserted provisions relating to persons who would be entitled to benefits but for enumerated exceptions.
+<b>1980</b>—Subsec. (a)(2). Pub. L. 96–473 inserted provisions relating to persons who would be entitled to benefits but for enumerated exceptions.
 
 Subsec. (b). Pub. L. 96–265, §104(a), in provisions following par. (2), inserted “(subject to the last sentence of this subsection)”, and inserted provision that, for purposes of this subsection, an individual who has had a period of trial work which ended as provided in section 422(c)(4)(A) of this title, and whose entitlement to benefits or status as a qualified railroad retirement beneficiary as described in paragraph (2) has subsequently terminated, shall be deemed to be entitled to such benefits or to occupy such status (notwithstanding the termination of such entitlement or status) for the period of consecutive months throughout all of which the physical or mental impairment, on which such entitlement or status was based, continues, and throughout all of which such individual would have been entitled to monthly insurance benefits under this subchapter.
 
@@ -158,7 +158,7 @@ Subsec. (c)(1). Pub. L. 96–499 substituted “and home health services” for 
 
 Subsecs. (f), (g). Pub. L. 96–265, §103(b), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1978—Subsec. (a). Pub. L. 95–292, §3(a), substituted “condition specified in paragraph (1), beginning with the first month after June 1966 for which he meets the conditions specified in paragraphs (1) and (2)” for “conditions specified in subparagraph (B), beginning with the first month after June 1966 for which he meets the conditions specified in subparagraphs (A) and (B)”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–292, §3(a), substituted “condition specified in paragraph (1), beginning with the first month after June 1966 for which he meets the conditions specified in paragraphs (1) and (2)” for “conditions specified in subparagraph (B), beginning with the first month after June 1966 for which he meets the conditions specified in subparagraphs (A) and (B)”.
 
 Subsec. (e). Pub. L. 95–292, §§1(b)(1), (2), 3(b), redesignated subsec. (h) as (e) and, in subsec. (e) as so redesignated, corrected a technical error resulting from the 1973 amendment of pars. (2) and (3) by Pub. L. 93–233 under which a reference to subsec. (b) of this section had been inserted without the required parentheses. Former subsec. (e), relating to Medicare eligibility of persons medically determined to have chronic renal disease requiring hemodialysis or renal transplantation, was struck out. See section 426–1 of this title.
 
@@ -168,17 +168,17 @@ Subsec. (g). Pub. L. 95–292, §1(b)(1), struck out subsec. (g) which related t
 
 Subsecs. (h), (i). Pub. L. 95–292, §1(b)(2), redesignated subsecs. (h) and (i) as (e) and (f), respectively.
 
-1977—Subsec. (h)(1)(B). Pub. L. 95–216, §334(d)(4)(B), substituted “subparagraph (F) of section 402(f)(1)” for “subparagraph (G) of section 402(f)(1)”.
+<b>1977</b>—Subsec. (h)(1)(B). Pub. L. 95–216, §334(d)(4)(B), substituted “subparagraph (F) of section 402(f)(1)” for “subparagraph (G) of section 402(f)(1)”.
 
 Subsec. (h)(4). Pub. L. 95–216, §332(a)(3), added par. (4).
 
-1974—Subsec. (b)(2). Pub. L. 93–445, §305(a), substituted “section 7(d) of the Railroad Retirement Act of 1974” for “section 22 of the Railroad Retirement Act of 1937”.
+<b>1974</b>—Subsec. (b)(2). Pub. L. 93–445, §305(a), substituted “section 7(d) of the Railroad Retirement Act of 1974” for “section 22 of the Railroad Retirement Act of 1937”.
 
 Subsec. (d). Pub. L. 93–445, §305(b), substituted “section 7(d) of the Railroad Retirement Act of 1974” for “section 21 or 22 of the Railroad Retirement Act of 1937”, in two places.
 
 Subsec. (e). Pub. L. 93–445, §305(c), substituted “Railroad Retirement Act of 1974” for “Railroad Retirement Act of 1937”, wherever appearing.
 
-1973—Subsec. (a). Pub. L. 93–233, §18(f)(1)(A), redesignated subsec. (a)(1) as subsec. (a).
+<b>1973</b>—Subsec. (a). Pub. L. 93–233, §18(f)(1)(A), redesignated subsec. (a)(1) as subsec. (a).
 
 Subsec. (a)(1), (2). Pub. L. 93–233, §18(f)(1)(B), redesignated cls. (A) and (B) as (1) and (2), respectively.
 
@@ -188,7 +188,7 @@ Subsec. (h). Pub. L. 93–233, §18(f)(1)(C), (2)–(4), redesignated as subsec.
 
 Subsec. (i). Pub. L. 93–233, §18(f)(1)(C), redesignated as subsec. (i) provisions originally enacted as subsec. (d) by section 101 of Pub. L. 89–97 and redesignated as subsec. (f) by section 201(b)(5) of Pub. L. 92–603.
 
-1972—Subsec. (a). Pub. L. 92–603, §201(b)(1), incorporated provisions of former subsec. (a) and subsec. (a)(1), and redesignated pars. (1) and (2) as subpars. (A) and (B).
+<b>1972</b>—Subsec. (a). Pub. L. 92–603, §201(b)(1), incorporated provisions of former subsec. (a) and subsec. (a)(1), and redesignated pars. (1) and (2) as subpars. (A) and (B).
 
 Subsec. (b). Pub. L. 92–603, §201(b)(1), added subsec. (b). Former subsec. (b) redesignated subsec. (c).
 
@@ -202,7 +202,7 @@ Subsecs. (e) to (h). Pub. L. 92–603, §§201(b)(5), 299I, added subsecs. (e) t
 
 Subsec. (i). Pub. L. 92–603, §201(b)(5), redesignated former subsec. (d) as subsec. (i). See 1973 Amendment note above.
 
-1968—Subsec. (b)(1). Pub. L. 90–248 struck out outpatient hospital diagnostic services from services for which hospital insurance benefits are payable.
+<b>1968</b>—Subsec. (b)(1). Pub. L. 90–248 struck out outpatient hospital diagnostic services from services for which hospital insurance benefits are payable.
 
 #### Effective Date of 2004 Amendment
 
@@ -228,7 +228,7 @@ Amendment by Pub. L. 101–508 applicable with respect to items and services fur
 
 Section 608(f)(5) of Pub. L. 100–485 provided that the amendment made by such section 608(f)(5) is effective as of the date of enactment of Pub. L. 95–292, which was approved June 13, 1978.
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relatesto a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date of 1987 Amendment
 
@@ -282,7 +282,7 @@ Transitional Provisions.—
 
 &emsp;“(1)
 
-In general.—For purposes of sections 226, 226A, and 1811 of the Social Security Act \[this section and sections 426–1 and 1395c of this title\], in the case of any individual who performs service both during January 1983, and before January 1, 1983, which constitutes medicare qualified Federal employment (as defined in section 210(p) of such Act \[section 410(p) of this title\]), the individual's medicare qualified Federal employment (as so defined) performed before January 1, 1983, for which remuneration was paid before such date, shall be considered to be ‘employment’ (as defined for purposes of title II of such Act \[this subchapter\]), but only for the purpose of providing the individual (or another person) with entitlement to hospital insurance benefits under part A of title XVIII of such Act \[section 1395c et seq. of this title\].
+In general.—For purposes of sections 226, 226A, and 1811 of the Social Security Act \[this section and sections 426–1 and 1395c of this title\], in the case of any individual who performs service both during January 1983, and before January 1, 1983, which constitutes medicare qualified Federal employment (as defined in section 210(p) of such Act \[section 410(p) of this title\]), the individual's medicare qualified Federal employment (as so defined) performed before January 1, 1983, for which remuneration was paid before such date, shall be considered to be ‘employment’ (as defined for purposes of title II of such Act\[this subchapter\]), but only for the purpose of providing the individual (or another person) with entitlement to hospital insurance benefits under part A of title XVIII of such Act \[section 1395c et seq. of this title\].
 
 &emsp;“(2)
 
@@ -346,7 +346,7 @@ Pub. L. 106–170, title II, §202(c), Dec. 17, 1999, 113 Stat. 1894, provided t
 
 &emsp;“(1) examines the effectiveness and cost of the amendment made by subsection (a) \[amending this section\];
 
-&emsp;“(2) examines the necessity and effectiveness of providing continuation of medicare coverage under section 226(b) of the Social Security Act (42 U.S.C. 426(b)) to individuals whose annual income exceeds the contribution and benefit base (as determined under section 230 of such Act (42 U.S.C. 430));
+&emsp;“(2) examines the necessity and effectiveness of providing continuation of medicare coverage under section 226(b) of the Social Security Act (42 U.S.C.426(b)) to individuals whose annual income exceeds the contribution and benefit base (as determined under section 230 of such Act (42 U.S.C. 430));
 
 &emsp;“(3) examines the viability of providing the continuation of medicare coverage under such section 226(b) based on a sliding scale premium for individuals whose annual income exceeds such contribution and benefit base;
 
@@ -362,7 +362,7 @@ Section 309(q)(2) of Pub. L. 98–21 provided that: “For purposes of determini
 
 #### Special $50 Payment Under Tax Reduction Act of 1975
 
-Special payment of $50 as soon as practicable after Mar. 29, 1975, by the Secretary of the Treasury to eachindividual who, for the month of March 1975, was entitled to a monthly insurance benefit payable under this subchapter, see section 702 of Pub. L. 94–12, set out as a note under section 402 of this title.
+Special payment of $50 as soon as practicable after Mar. 29, 1975, by the Secretary of the Treasury to each individual who, for the month of March 1975, was entitled to a monthly insurance benefit payable under this subchapter, see section 702 of Pub. L. 94–12, set out as a note under section 402 of this title.
 
 #### Adopted Child's Reenlistment to Annuity
 

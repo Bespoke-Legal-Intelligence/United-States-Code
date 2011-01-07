@@ -38,6 +38,8 @@ For purposes of this section, defense articles and defense services sold, leased
 
 #### References in Text
 
+This chapter, referred to in subsecs. (a)(1) and (d), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+
 The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1) and (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
@@ -46,7 +48,7 @@ Another section 40A of Pub. L. 90–629 is classified to section 2781 of this ti
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–228 inserted “and the numbers, range, and findings of end-use monitoring of United States transfers of small arms and light weapons” before period at end.
+<b>2002</b>—Subsec. (c). Pub. L. 107–228 inserted “and the numbers, range, and findings of end-use monitoring of United States transfers of small arms and light weapons” before period at end.
 
 #### Effective Date
 

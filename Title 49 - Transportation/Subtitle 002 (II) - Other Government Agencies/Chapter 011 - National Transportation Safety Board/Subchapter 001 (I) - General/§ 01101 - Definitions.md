@@ -24,7 +24,7 @@ This section is included to ensure that the identical definitions that are relev
 
 #### Amendments
 
-2000—Pub. L. 106–424 amended section catchline and text generally. Prior to amendment, text read as follows: “Section 40102(a) of this title applies to this chapter.”
+<b>2000</b>—Pub. L. 106–424 amended section catchline and text generally. Prior to amendment, text read as follows: “Section 40102(a) of this title applies to this chapter.”
 
 #### Short Title of 2006 Amendment
 

@@ -6,7 +6,7 @@ Any employee who is a member of and adheres to established and traditional tenet
 
 #### Amendments
 
-1980—Pub. L. 96–593 inserted reference to nonlabor organization and provisions respecting charges to employee for use of grievance-arbitration procedure, and struck out applicability of provisions to employees of health care institutions only.
+<b>1980</b>—Pub. L. 96–593 inserted reference to nonlabor organization and provisions respecting charges to employee for use of grievance-arbitration procedure, and struck out applicability of provisions to employees of health care institutions only.
 
 #### Effective Date
 

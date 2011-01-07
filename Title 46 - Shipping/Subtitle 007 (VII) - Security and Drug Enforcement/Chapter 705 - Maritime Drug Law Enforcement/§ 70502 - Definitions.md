@@ -134,11 +134,11 @@ In subsection (d)(1)(B), the word “authorized” is substituted for “empower
 
 #### Amendments
 
-2008—Pub. L. 110–181, §3525(b), repealed Pub. L. 109–241, §303. See 2006 Amendment note below.
+<b>2008</b>—Pub. L. 110–181, §3525(b), repealed Pub. L. 109–241, §303. See 2006 Amendment note below.
 
 Subsec. (d)(2). Pub. L. 110–181, §3525(a)(6), incorporated the substance of the amendment by Pub. L. 109–241, §303, into this section by amending heading and text of par. (2) generally. Prior to amendment, text read as follows: “A claim of registry under paragraph (1)(A) or (C) may be verified or denied by radio, telephone, or similar oral or electronic means. The denial of such a claim is proved conclusively by certification of the Secretary of State or the Secretary's designee.” See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 Subsec. (f). Pub. L. 110–407 added subsec. (f).
 
-2006—Pub. L. 109–241, §303, which directed the amendment of section 1903(c)(2) of the former Appendix to this title from which subsec. (d) of this section was derived, was repealed by Pub. L. 110–181, §3525(b). See 2008 Amendment note for subsec. (d)(2) and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–241, §303, which directed the amendment of section 1903(c)(2) of the former Appendix to this title from which subsec. (d) of this section was derived, was repealed by Pub. L. 110–181, §3525(b). See 2008 Amendment note for subsec. (d)(2) and Historical and Revision notes above.
 

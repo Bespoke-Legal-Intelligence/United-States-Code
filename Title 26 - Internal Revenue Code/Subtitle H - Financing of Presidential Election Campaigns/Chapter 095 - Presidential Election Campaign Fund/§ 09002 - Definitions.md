@@ -4,7 +4,7 @@ For purposes of this chapter—
 
 &emsp;(1) The term “authorized committee” means, with respect to the candidates of a political party for President and Vice President of the United States, any political committee which is authorized in writing by such candidates to incur expenses to further the election of such candidates. Such authorization shall be addressed to the chairman of such political committee, and a copy of such authorization shall be filed by such candidates with the Commission. Any withdrawal of any authorization shall also be in writing and shall be addressed and filed in the same manner as the authorization.
 
-&emsp;(2) The term “candidate” means with respect to any presidential election, an individual who (A) has been nominated for election to the office of President of the United States or the office of Vice President of the United States by a major party, or (B) has qualified to have his name on the election ballot (or to have the names of electors pledged to him on the election ballot) as the candidate of a political party for election to either such office in 10 or more States. For purposes of paragraphs (6) and (7) of this section and purposes of section 9004(a)(2), the term “candidate” means,with respect to any preceding presidential election, an individual who received popular votes for the office of President in such election. The term “candidate” shall not include any individual who has ceased actively to seek election to the office of President of the United States or to the office of Vice President of the United States, in more than one State.
+&emsp;(2) The term “candidate” means with respect to any presidential election, an individual who (A) has been nominated for election to the office of President of the United States or the office of Vice President of the United States by a major party, or (B) has qualified to have his name on the election ballot (or to have the names of electors pledged to him on the election ballot) as the candidate of a political party for election to either such office in 10 or more States. For purposes of paragraphs (6) and (7) of this section and purposes of section 9004(a)(2), the term “candidate” means, with respect to any preceding presidential election, an individual who received popular votes for the office of President in such election. The term “candidate” shall not include any individual who has ceased actively to seek election to the office of President of the United States or to the office of Vice President of the United States, in more than one State.
 
 &emsp;(3) The term “Commission” means the Federal Election Commission established by section 306(a)(1) of the Federal Election Campaign Act of 1971.
 
@@ -46,13 +46,13 @@ Section 306(a)(1) of the Federal Election Campaign Act of 1971, referred to in p
 
 #### Amendments
 
-2007—Par. (3). Pub. L. 110–172 substituted “section 306(a)(1)” for “section 309(a)(1)”.
+<b>2007</b>—Par. (3). Pub. L. 110–172 substituted “section 306(a)(1)” for “section 309(a)(1)”.
 
-1976—Par. (2). Pub. L. 94–283, §306(a)(1), inserted provision that “candidate” shall not include any individual who has ceased actively to seek election to the office of President of the United States or to the office of Vice President of the United States, in more than one State.
+<b>1976</b>—Par. (2). Pub. L. 94–283, §306(a)(1), inserted provision that “candidate” shall not include any individual who has ceased actively to seek election to the office of President of the United States or to the office of Vice President of the United States, in more than one State.
 
 Par. (3). Pub. L. 94–283, §115(c)(1), substituted “309(a)(1)” for “310(a)(1)”.
 
-1974—Par. (1). Pub. L. 93–443, §404(c)(2), substituted “Commission” for “Comptroller General”.
+<b>1974</b>—Par. (1). Pub. L. 93–443, §404(c)(2), substituted “Commission” for “Comptroller General”.
 
 Par. (3). Pub. L. 93–443, §404(c)(1), substituted definition of “Commission” for “Comptroller General”.
 

@@ -20,7 +20,7 @@ Grants allocated under this chapter shall be available only for approved activit
 
 #### Amendments
 
-1992—Pub. L. 102–550, §606(j)(3)(A), in introductory provisions, substituted “eligible persons” for “such persons with acquired immunodeficiency syndrome”.
+<b>1992</b>—Pub. L. 102–550, §606(j)(3)(A), in introductory provisions, substituted “eligible persons” for “such persons with acquired immunodeficiency syndrome”.
 
 Par. (3). Pub. L. 102–550, §606(h)(2), struck out “short-term” after “provide”.
 

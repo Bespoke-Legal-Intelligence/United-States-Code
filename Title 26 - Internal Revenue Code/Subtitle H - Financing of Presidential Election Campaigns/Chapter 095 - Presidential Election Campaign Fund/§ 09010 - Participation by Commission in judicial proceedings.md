@@ -20,11 +20,11 @@ The Commission is authorized on behalf of the United States to appeal from, and 
 
 #### Amendments
 
-1984—Subsec. (c). Pub. L. 98–620 struck out provision requiring the judges designated to hear the case to assign the case for hearing at the earliest practicable date, to participate in the hearing and determination thereof, and to cause the case to be in every way expedited.
+<b>1984</b>—Subsec. (c). Pub. L. 98–620 struck out provision requiring the judges designated to hear the case to assign the case for hearing at the earliest practicable date, to participate in the hearing and determination thereof, and to cause the case to be in every way expedited.
 
-1976—Subsec. (b). Pub. L. 94–455 substituted “to the Secretary of the Treasury” for “to the Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 substituted “to the Secretary of the Treasury” for “to the Secretary”.
 
-1974—Pub. L. 93–443, §404(c)(14), substituted “Commission” for “Comptroller General” in section catchline.
+<b>1974</b>—Pub. L. 93–443, §404(c)(14), substituted “Commission” for “Comptroller General” in section catchline.
 
 Subsec. (a). Pub. L. 93–443, §404(c)(15), substituted “Commission” for “Comptroller General”, “its” for “his”, and “it” for “he” wherever appearing.
 

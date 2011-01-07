@@ -24,5 +24,5 @@ In promulgating rules, regulations, and procedures for assistance under this sub
 
 #### Amendments
 
-2004—Pars. (3), (4). Pub. L. 108–373 added pars. (3) and (4).
+<b>2004</b>—Pars. (3), (4). Pub. L. 108–373 added pars. (3) and (4).
 

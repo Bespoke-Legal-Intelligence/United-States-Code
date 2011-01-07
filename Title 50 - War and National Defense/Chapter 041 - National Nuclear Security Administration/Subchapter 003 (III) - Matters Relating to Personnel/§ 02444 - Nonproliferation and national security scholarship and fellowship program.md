@@ -10,7 +10,7 @@ An individual shall be eligible for a scholarship or fellowship under the progra
 
 &emsp;(1) is a citizen or national of the United States or an alien lawfully admitted to the United States for permanent residence;
 
-&emsp;(2) has been accepted for enrollment or is currently enrolled as a full-time student at an institution of higher education (as defined in section 102(a) of the Higher Education Act of 1965 (20 U.S.C. 1002(a)); <sup>1</sup>
+&emsp;(2) has been accepted for enrollment or is currently enrolled as a full-time student at an institution of higher education (as defined in section 102(a) of the Higher Education Act of 1965 (20 U.S.C. 1002(a)));
 
 &emsp;(3) is pursuing a program of education that leads to an appropriate higher education degree in a qualifying field of study, as determined by the Administrator;
 
@@ -40,7 +40,7 @@ An individual seeking a scholarship or fellowship under the program established 
 
 #### (1) In general
 
-&emsp;An individual receiving a scholarship or fellowship under the program established underthis section shall agree to pay to the United States the total amount of educational assistance provided to such individual under such program, plus interest at the rate prescribed by paragraph (4), if such individual—
+&emsp;An individual receiving a scholarship or fellowship under the program established under this section shall agree to pay to the United States the total amount of educational assistance provided to such individual under such program, plus interest at the rate prescribed by paragraph (4), if such individual—
 
 &emsp;&emsp;(A) does not complete the program of education agreed to pursuant to subsection (c)(2)(B);
 
@@ -50,7 +50,7 @@ An individual seeking a scholarship or fellowship under the program established 
 
 #### (2) Failure to repay
 
-&emsp;If an individual who received a scholarship or fellowship under the program established under this section is required to repay, pursuant to an agreement under paragraph (1), the total amount of educational assistance provided to such individual under such program, plus interest at the rate prescribed by paragraph (4), and fails <sup>2</sup> repay such amount, a sum equal to such amount (plus such interest) is recoverable by the United States Government from such individual or the estate of such individual by—
+&emsp;If an individual who received a scholarship or fellowship under the program established under this section is required to repay, pursuant to an agreement under paragraph (1), the total amount of educational assistance provided to such individual under such program, plus interest at the rate prescribed by paragraph (4), and fails to repay such amount, a sum equal to such amount (plus such interest) is recoverable by the United States Government from such individual or the estate of such individual by—
 
 &emsp;&emsp;(A) in the case of an individual who is an employee of the United States Government, setoff against accrued pay, compensation, amount of retirement credit, or other amount due the employee from the Government; or
 
@@ -58,7 +58,7 @@ An individual seeking a scholarship or fellowship under the program established 
 
 #### (3) Waiver of repayment
 
-&emsp;The Administrator may waive, in whole or in part, repayment by an individual under this subsection if the Administrator determines that seeking recovery under paragraph (2) would be against equity and good conscience or would be contrary to the best interests of the United States.
+&emsp;The Administrator may waive, in whole or in part, repayment by an individual under this subsection if the Administrator determines that seeking recovery under paragraph (2)would be against equity and good conscience or would be contrary to the best interests of the United States.
 
 #### (4) Rate of interest
 
@@ -78,9 +78,9 @@ Not later than January 1, 2010, the Administrator shall submit to the congressio
 
 #### (h) Funding
 
-Of the amounts authorized to be appropriated by section 3101(a)(2) <sup>3</sup> for defense nuclear nonproliferation activities, $3,000,000 shall be available to carry out the program established under this section.
+Of the amounts authorized to be appropriated by section 3101(a)(2) <sup>1</sup> for defense nuclear nonproliferation activities, $3,000,000 shall be available to carry out the program established under this section.
 
-(Pub. L. 110–417, div. C, title XXXI, §3113, Oct. 14, 2008, 122 Stat. 4754.)
+(Pub. L. 110–417, div. C, title XXXI, §3113, Oct. 14, 2008, 122 Stat. 4754; Pub. L. 111–383, div. A, title X, §1075(e)(19), Jan. 7, 2011, 124 Stat. 4375.)
 
 #### References in Text
 
@@ -92,7 +92,15 @@ Section 3101(a)(2), referred to in subsec. (h), is section 3101(a)(2) of Pub. L.
 
 Section was enacted as part of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009, and not as part of the National Nuclear Security Administration Act which comprises this chapter.
 
+#### Amendments
+
+<b>2011</b>—Subsec. (b)(2). Pub. L. 111–383, §1075(e)(19)(A), inserted closing parenthesis before semicolon.
+
+Subsec. (d)(2). Pub. L. 111–383, §1075(e)(19)(B), substituted “fails to repay” for “fails repay”.
+
 #### “Congressional Defense Committees” Defined
 
 Congressional defense committees has the meaning given that term in section 101(a)(16) of Title 10, Armed Forces, see section 3 of Pub. L. 110–417, Oct. 14, 2008, 122 Stat. 4372. See note under section 101 of Title 10.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

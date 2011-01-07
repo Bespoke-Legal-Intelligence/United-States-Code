@@ -1,7 +1,5 @@
 ### SUBCHAPTER IV—AUTHORIZATION OF APPROPRIATIONS
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection (a) of section 4722 of this title,”.</i>
-
 
 ---
 

@@ -58,15 +58,15 @@ Section 225 of the Federal Salary Act of 1967, referred to in subsec. (d), is se
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–177, §509(a)(2), substituted “29” for “28” in item relating to Ninth Circuit.
+<b>2008</b>—Subsec. (a). Pub. L. 110–177, §509(a)(2), substituted “29” for “28” in item relating to Ninth Circuit.
 
 Pub. L. 110–177, §509(a)(1), substituted “11” for “12” in item relating to District of Columbia Circuit.
 
-1997—Subsec. (c). Pub. L. 105–119 inserted at end “In each circuit (other than the Federal judicial circuit) there shall be at least one circuit judge in regular active service appointed from the residents of each state in that circuit.”
+<b>1997</b>—Subsec. (c). Pub. L. 105–119 inserted at end “In each circuit (other than the Federal judicial circuit) there shall be at least one circuit judge in regular active service appointed from the residents of each state in that circuit.”
 
-1991—Subsec. (c). Pub. L. 102–198 substituted “the Federal Courts Improvement Act of 1982” for “this Act”.
+<b>1991</b>—Subsec. (c). Pub. L. 102–198 substituted “the Federal Courts Improvement Act of 1982” for “this Act”.
 
-1990—Subsec. (a). Pub. L. 101–650 altered number of permanent circuit judgeships in named circuits as follows:
+<b>1990</b>—Subsec. (a). Pub. L. 101–650 altered number of permanent circuit judgeships in named circuits as follows:
 
 &nbsp;
 
@@ -79,7 +79,7 @@ Pub. L. 110–177, §509(a)(1), substituted “11” for “12” in item relati
 | Eighth | 10 | 11 |
 | Tenth | 10 | 12 |
 
-1984—Subsec. (a). Pub. L. 98–353 altered number of permanent circuit judgeships in named circuits as follows:
+<b>1984</b>—Subsec. (a). Pub. L. 98–353 altered number of permanent circuit judgeships in named circuits as follows:
 
 &nbsp;
 
@@ -99,13 +99,13 @@ Pub. L. 110–177, §509(a)(1), substituted “11” for “12” in item relati
 | Eleventh | 12 | 12 |
 | Federal | 12 | 12 |
 
-1982—Subsec. (a). Pub. L. 97–164, §102(a), inserted item relating to Federal circuit with 12 judges.
+<b>1982</b>—Subsec. (a). Pub. L. 97–164, §102(a), inserted item relating to Federal circuit with 12 judges.
 
 Subsec. (c). Pub. L. 97–164, §102(b), inserted provision relating to requirement that judges of Federal judicial circuit reside within fifty miles of the District of Columbia.
 
-1980—Subsec. (a). Pub. L. 96–452 substituted “14” for “26” in item relating to Fifth Circuit, and added item relating to Eleventh Circuit.
+<b>1980</b>—Subsec. (a). Pub. L. 96–452 substituted “14” for “26” in item relating to Fifth Circuit, and added item relating to Eleventh Circuit.
 
-1978—Subsec. (a). Pub. L. 95–486 altered number of permanent circuit judgeships in the named circuits as follows:
+<b>1978</b>—Subsec. (a). Pub. L. 95–486 altered number of permanent circuit judgeships in the named circuits as follows:
 
 &nbsp;
 
@@ -123,21 +123,21 @@ Subsec. (c). Pub. L. 97–164, §102(b), inserted provision relating to requirem
 | Ninth | 13 | 23 |
 | Tenth | 7 | 8 |
 
-1975—Subsec. (d). Pub. L. 94–82 substituted provision that each circuit judge shall receive a salary at an annual rate determined under section 225 of the Federal Salary Act of 1967, as adjusted by section 461 of this title, for provision that each circuit judge shall receive a salary of $33,000 a year.
+<b>1975</b>—Subsec. (d). Pub. L. 94–82 substituted provision that each circuit judge shall receive a salary at an annual rate determined under section 225 of the Federal Salary Act of 1967, as adjusted by section 461 of this title, for provision that each circuit judge shall receive a salary of $33,000 a year.
 
-1968—Subsec. (a). Pub. L. 90–347 increased the number of circuit judges in the enumerated circuits as follows: Third Circuit, eight to nine; Fifth Circuit, nine to fifteen; Sixth Circuit, eight to nine; Ninth Circuit, nine to thirteen, and Tenth Circuit, six to seven.
+<b>1968</b>—Subsec. (a). Pub. L. 90–347 increased the number of circuit judges in the enumerated circuits as follows: Third Circuit, eight to nine; Fifth Circuit, nine to fifteen; Sixth Circuit, eight to nine; Ninth Circuit, nine to thirteen, and Tenth Circuit, six to seven.
 
-1966—Subsec. (a). Pub. L. 89–372 increased the number of circuit judges in the enumerated circuits as follows: Fourth Circuit, five to seven; Sixth Circuit, six to eight; Seventh Circuit, seven to eight; Eighth Circuit, seven to eight.
+<b>1966</b>—Subsec. (a). Pub. L. 89–372 increased the number of circuit judges in the enumerated circuits as follows: Fourth Circuit, five to seven; Sixth Circuit, six to eight; Seventh Circuit, seven to eight; Eighth Circuit, seven to eight.
 
-1964—Subsec. (d). Pub. L. 88–426 increased the salary of the circuit judges from $25,500 to $33,000.
+<b>1964</b>—Subsec. (d). Pub. L. 88–426 increased the salary of the circuit judges from $25,500 to $33,000.
 
-1961—Subsec. (a). Pub. L. 87–36 increased the number of circuit judges in the enumerated circuits, as follows: Second Circuit, six to nine; Third Circuit, seven to eight; Fourth Circuit, three to five; Fifth Circuit, seven to nine; Seventh Circuit, six to seven; and Tenth Circuit, five to six.
+<b>1961</b>—Subsec. (a). Pub. L. 87–36 increased the number of circuit judges in the enumerated circuits, as follows: Second Circuit, six to nine; Third Circuit, seven to eight; Fourth Circuit, three to five; Fifth Circuit, seven to nine; Seventh Circuit, six to seven; and Tenth Circuit, five to six.
 
-1955—Subsec. (d). Act Mar. 2, 1955, increased the salary of circuit judges from “$17,500” a year to “$25,500”.
+<b>1955</b>—Subsec. (d). Act Mar. 2, 1955, increased the salary of circuit judges from “$17,500” a year to “$25,500”.
 
-1954—Subsec. (a). Act Feb. 10, 1954, increased the number of circuit judges in the Fifth Circuit from six to seven, and in the Ninth Circuit from seven to nine.
+<b>1954</b>—Subsec. (a). Act Feb. 10, 1954, increased the number of circuit judges in the Fifth Circuit from six to seven, and in the Ninth Circuit from seven to nine.
 
-1949—Subsec. (a). Act Aug. 3, 1949, increased the number of circuit judges for the District of Columbia from six to nine, for the Third Circuit from six to seven, for the Seventh Circuit from five to six, and for the Tenth Circuit from four to five.
+<b>1949</b>—Subsec. (a). Act Aug. 3, 1949, increased the number of circuit judges for the District of Columbia from six to nine, for the Third Circuit from six to seven, for the Seventh Circuit from five to six, and for the Tenth Circuit from four to five.
 
 #### Effective Date of 2008 Amendment
 
@@ -165,7 +165,7 @@ Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar.
 
 #### Nomination to Federal Judgeship on Nondiscriminatory Basis
 
-Section 211 of Pub. L. 98–353 provided that: “It is the sense of the Congress that the President, in selecting individuals for nomination to the Federal judgeships created by this Act \[see Short Title of 1984 Amendment note set out under section 151 of this title\], shall give due consideration to qualified individuals without regard to race, color, sex, religion, or national origin.”
+Section 211 of Pub. L. 98–353 provided that: “It is the sense of the Congress that the President, in selectingindividuals for nomination to the Federal judgeships created by this Act \[see Short Title of 1984 Amendment note set out under section 151 of this title\], shall give due consideration to qualified individuals without regard to race, color, sex, religion, or national origin.”
 
 #### Continued Service of Judges
 
@@ -233,7 +233,7 @@ Section 3(a) of Pub. L. 95–486 provided that: “The President shall appoint, 
 
 Section 201(a) of Pub. L. 98–353 provided that:
 
-“(1) Subject to the provisions of paragraph (2), the President shall appoint, by and with the advice and consent of the Senate, two additional circuit judges for the first circuit court of appeals, two additional circuit judges for the second circuit court of appeals, two additional circuit judges for the third circuit court of appeals, one additional circuit judge for the fourth circuit court of appeals, two additional circuit judges for the fifth circuit court of appeals, four additional circuit judges for the sixth circuit court of appeals, two additional circuit judges for the seventh circuit court of appeals, one additional circuit judge for the eighth circuit court of appeals, five additional circuit judges for the ninth circuit court of appeals, two additional circuit judges for the tenth circuit court of appeals, and one additional circuit judge for the District of Columbia circuit court of appeals.
+“(1) Subject to the provisions of paragraph (2), the President shall appoint, by and with the advice and consent of the Senate, two additional circuit judges for the first circuit court of appeals, two additional circuit judges for the second circuit court of appeals, two additional circuit judges for the third circuit court of appeals, one additional circuit judge for the fourth circuit court of appeals, two additional circuit judges for the fifth circuit court of appeals, four additional circuit judges for the sixth circuit court of appeals, two additional circuit judges for the seventh circuit court of appeals, one additional circuit judge for the eighth circuit court of appeals, five additional circuit judges forthe ninth circuit court of appeals, two additional circuit judges for the tenth circuit court of appeals, and one additional circuit judge for the District of Columbia circuit court of appeals.
 
 “(2) The President shall appoint, by and with the advice and consent of the Senate, no more than 11 of such judges prior to January 21, 1985.”
 

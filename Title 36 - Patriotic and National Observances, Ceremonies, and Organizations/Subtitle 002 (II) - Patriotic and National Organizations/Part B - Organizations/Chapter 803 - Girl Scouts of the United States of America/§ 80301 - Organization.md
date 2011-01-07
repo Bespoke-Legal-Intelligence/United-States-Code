@@ -24,7 +24,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-80301D36:31.DMar. 16, 1950, ch. 62, §§1, 2 (words before 2d comma), 64 Stat. 22.
+80301
+
+36:31.
+
+Mar. 16, 1950, ch. 62, §§1, 2 (words before 2d comma), 64 Stat. 22.
 
 &nbsp;
 

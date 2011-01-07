@@ -12,9 +12,9 @@ Section 471 of title 16, referred to in text, was repealed by Pub. L. 94–579, 
 
 #### Amendments
 
-1954—Act May 28, 1954, struck out of first sentence provision limiting to one hundred and forty-two million acres the area which might be included in grazing districts.
+<b>1954</b>—Act May 28, 1954, struck out of first sentence provision limiting to one hundred and forty-two million acres the area which might be included in grazing districts.
 
-1936—Act June 26, 1936, increased acreage which could be included in grazing districts from 80 million to 142 million acres.
+<b>1936</b>—Act June 26, 1936, increased acreage which could be included in grazing districts from 80 million to 142 million acres.
 
 #### Short Title
 

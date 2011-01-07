@@ -64,9 +64,9 @@ The Associate Director of a facility shall, under the authority, direction, and 
 
 #### Amendments
 
-2001—Pub. L. 107–107 amended section catchline and text generally, substituting provisions relating to directors, deputy directors, associate directors, and staff of facilities for provisions relating to directors and staff.
+<b>2001</b>—Pub. L. 107–107 amended section catchline and text generally, substituting provisions relating to directors, deputy directors, associate directors, and staff of facilities for provisions relating to directors and staff.
 
-1998—Subsec. (a)(2). Pub. L. 105–261, §1041(a)(1)(A), substituted “The Director of the United States Soldiers’ and Airmen's Home” for “Each Director” in introductory provisions.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–261, §1041(a)(1)(A), substituted “The Director of the United States Soldiers’ and Airmen's Home” for “Each Director” in introductory provisions.
 
 Subsec. (a)(2)(B). Pub. L. 105–261, §1041(a)(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “have appropriate leadership and management skills, an appreciation and understanding of the culture and norms associated with military service, and a significant military background.”
 
@@ -76,17 +76,17 @@ Subsec. (c). Pub. L. 105–261, §1041(b), substituted “Terms of Directors” 
 
 Subsec. (g). Pub. L. 105–261, §1041(c), added subsec. (g).
 
-1996—Subsec. (f). Pub. L. 104–201 added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows:
+<b>1996</b>—Subsec. (f). Pub. L. 104–201 added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows:
 
 “(1) Until the date on which the Secretary of Defense first appoints the Director for the establishment of the Retirement Home known as the Naval Home, the Governor of the Naval Home shall operate that facility consistent with this chapter and other laws applicable to the Retirement Home.
 
 “(2) Until the date on which the Secretary of Defense first appoints the Director for the facility of the Retirement Home known as the United States Soldiers’ and Airmen's Home, the Governor of the United States Soldiers’ and Airmen's Home shall operate that establishment consistent with this chapter and other laws applicable to the Retirement Home.”
 
-1991—Subsec. (f). Pub. L. 102–190 made technical amendment to references to this chapter to correct reference to corresponding provision of original act.
+<b>1991</b>—Subsec. (f). Pub. L. 102–190 made technical amendment to references to this chapter to correct reference to corresponding provision of original act.
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title X, §1041(d), Oct. 17, 1998, 112 Stat. 2124, provided that: “The amendments madeby this section \[amending this section\] shall take effect on October 1, 1998.”
+Pub. L. 105–261, div. A, title X, §1041(d), Oct. 17, 1998, 112 Stat. 2124, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1998.”
 
 #### Effective Date
 

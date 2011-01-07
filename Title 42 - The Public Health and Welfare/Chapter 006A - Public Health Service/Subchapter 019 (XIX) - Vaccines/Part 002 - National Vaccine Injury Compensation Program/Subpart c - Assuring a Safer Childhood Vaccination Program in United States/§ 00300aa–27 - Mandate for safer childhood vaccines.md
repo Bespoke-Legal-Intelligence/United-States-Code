@@ -28,9 +28,9 @@ In subsecs. (a)(1), (c), “December 22, 1987” substituted for “the effectiv
 
 #### Amendments
 
-1989—Subsecs. (b), (c). Pub. L. 101–239 added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>1989</b>—Subsecs. (b), (c). Pub. L. 101–239 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1987—Subsecs. (a)(1), (b). Pub. L. 100–203 substituted “effective date of this subpart” for “effective date of this part”.
+<b>1987</b>—Subsecs. (a)(1), (b). Pub. L. 100–203 substituted “effective date of this subpart” for “effective date of this part”.
 
 #### Change of Name
 

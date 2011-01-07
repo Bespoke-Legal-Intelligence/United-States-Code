@@ -2,7 +2,7 @@
 
 #### (a) Time, manner, and content of application
 
-To be eligible to receive assistance under section 12571(a) of this title or approved national service positions for participants who serve in the national service programs to be carried out using the assistance, a State, territory, subdivision of a State, Indian tribe, public or private nonprofit organization, or institution of higher education shall prepare and submit to the Corporation an application at such time, in such manner, and containing such information as the Corporation may reasonably require.
+To be eligible to receive assistance under section 12571(a) of this title or approved nationalservice positions for participants who serve in the national service programs to be carried out using the assistance, a State, territory, subdivision of a State, Indian tribe, public or private nonprofit organization, or institution of higher education shall prepare and submit to the Corporation an application at such time, in such manner, and containing such information as the Corporation may reasonably require.
 
 #### (b) Types of permissible application information
 
@@ -112,7 +112,7 @@ An application submitted under subsection (a) for programs described in 12572(a)
 
 #### (h) Limitation on same project receiving multiple grants
 
-Unless specifically authorized by law, the Corporation may not provide more than 1 grantunder the national service laws for a fiscal year to support the same project under the national service laws.
+Unless specifically authorized by law, the Corporation may not provide more than 1 grant under the national service laws for a fiscal year to support the same project under the national service laws.
 
 (Pub. L. 101–610, title I, §130, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 800; amended Pub. L. 111–13, title I, §1308, Apr. 21, 2009, 123 Stat. 1505.)
 
@@ -122,7 +122,7 @@ A prior section 130 of Pub. L. 101–610 was renumbered section 199I and is clas
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–13, §1308(1), substituted “section 12571(a)” for “section 12571”, inserted “territory,” after “assistance, a State,”, and substituted “or institution of higher education” for “institution of higher education, or Federal agency”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1308(1), substituted “section 12571(a)” for “section 12571”, inserted “territory,” after “assistance, a State,”, and substituted “or institution of higher education” for “institution of higher education, or Federal agency”.
 
 Subsec. (b)(9). Pub. L. 111–13, §1308(2)(A), substituted “section 12572(f)” for “section 12572(c)”.
 

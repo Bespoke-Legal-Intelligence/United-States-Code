@@ -12,7 +12,7 @@
 
 &emsp;(4) ensure that a potential offeror is provided, upon request and on a reimbursable basis, a prompt opportunity to demonstrate its ability to meet the standards specified for qualification using qualified personnel and facilities of the agency concerned or of another agency obtained through interagency agreement, or under contract, or other methods approved by the agency (including use of approved testing and evaluation services not provided under contract to the agency);
 
-&emsp;(5) if testing and evaluation services are provided under contract to the agency for the purposes of clause (4), provide to the extent possible that such services be provided by a contractor who is not expected to benefit from an absence of additional qualified sources and who shall be required in such contract to adhere to any restriction on technical data asserted by the potential offeror seeking qualification; and
+&emsp;(5) if testing and evaluation services are provided under contract to the agency for the purposes of clause (4), provide to the extent possible that such services be provided by a contractor who is not expected to benefit from an absence of additional qualified sources andwho shall be required in such contract to adhere to any restriction on technical data asserted by the potential offeror seeking qualification; and
 
 &emsp;(6) ensure that a potential offeror seeking qualification is promptly informed as to whether qualification is attained and, in the event qualification is not attained, is promptly furnished specific information why qualification was not attained.
 
@@ -36,7 +36,7 @@
 
 &emsp;(B) bear the cost of conducting the specified testing and evaluation (excluding the costs associated with producing the item or establishing the production, quality control, or other system to be tested and evaluated) for a small business concern or a product manufactured by a small business concern which has met the standards specified for qualification and which could reasonably be expected to compete for a contract for that requirement, but such costs may be borne only if the head of the agency determines that such additional qualified sources or products are likely to result in cost savings from increased competition for future requirements sufficient to amortize the costs incurred by the agency within a reasonable period of time considering the duration and dollar value of anticipated future requirements.
 
-(2) The head of an agency shall require a prospective contractor requesting the United States to bear testing and evaluation costsunder paragraph (1)(B) to certify as to its status as a small business concern under section 3 of the Small Business Act (15 U.S.C. 632).
+(2) The head of an agency shall require a prospective contractor requesting the United States to bear testing and evaluation costs under paragraph (1)(B) to certify as to its status as a small business concern under section 3 of the Small Business Act (15 U.S.C. 632).
 
 (e) Within seven years after the establishment of a qualification requirement under subsection (b) or within seven years following an agency's enforcement of a qualified products list, qualified manufacturers list, or qualified bidders list, any such qualification requirement shall be examined and revalidated in accordance with the requirements of subsection (b). The preceding sentence does not apply in the case of a qualification requirement for which a waiver is in effect under subsection (c)(2).
 
@@ -56,15 +56,15 @@ Definitions.—In this section:
 
 #### Amendments
 
-2006—Subsec. (c)(3). Pub. L. 109–364, §130(d)(1), inserted “or ship critical safety item” after “aviation critical safety item”.
+<b>2006</b>—Subsec. (c)(3). Pub. L. 109–364, §130(d)(1), inserted “or ship critical safety item” after “aviation critical safety item”.
 
 Subsec. (g)(2), (3). Pub. L. 109–364, §130(d)(2), added par. (2), redesignated former par. (2) as (3), inserted “or ship critical safety item” after “aviation critical safety item” and “, or the seaworthiness of a ship or ship equipment,” after “or equipment”, and substituted “such item” for “the item”.
 
-2003—Subsec. (c)(3). Pub. L. 108–136, §802(d)(1), inserted “(or, in the case of a contract for the procurement of an aviation critical safety item, the head of the design control activity for such item)” after “the contracting officer”.
+<b>2003</b>—Subsec. (c)(3). Pub. L. 108–136, §802(d)(1), inserted “(or, in the case of a contract for the procurement of an aviation critical safety item, the head of the design control activity for such item)” after “the contracting officer”.
 
 Subsec. (g). Pub. L. 108–136, §802(d)(2), added subsec. (g).
 
-1987—Subsec. (a). Pub. L. 100–26, §7(k)(3), inserted “the term” after “In this section,”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–26, §7(k)(3), inserted “the term” after “In this section,”.
 
 Subsec. (c)(1), (3). Pub. L. 100–26, §7(i)(4), substituted “October 19, 1984,” for “the date of the enactment of the Defense Procurement Reform Act of 1984”.
 

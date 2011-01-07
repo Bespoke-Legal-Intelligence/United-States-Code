@@ -6,5 +6,5 @@ In order to assist the States to extend the scope and content, and improve the q
 
 #### Amendments
 
-1965—Pub. L. 89–97 struck out “for the aged” after “medical assistance”.
+<b>1965</b>—Pub. L. 89–97 struck out “for the aged” after “medical assistance”.
 

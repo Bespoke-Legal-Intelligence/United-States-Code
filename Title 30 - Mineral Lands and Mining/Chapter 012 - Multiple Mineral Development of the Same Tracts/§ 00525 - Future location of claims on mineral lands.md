@@ -12,9 +12,3 @@ Subject to the conditions and provisions of this chapter, mining claims and mill
 
 (Aug. 13, 1954, ch. 730, §5, 68 Stat. 710.)
 
-#### References in Text
-
-The mining laws of the United States, referred to in text, are classified generally to this title.
-
-For definition of “mineral leasing laws”, referred to in cls. (a) to (c), see section 530 of this title.
-

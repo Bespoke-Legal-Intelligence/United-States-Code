@@ -8,7 +8,7 @@ Prior to publishing any proposed regulations under subsection (b)(1) of this sec
 
 #### (1) In general
 
-&emsp;Notwithstanding sections 563(a) and 565(a) of title 5, the Secretary shall promulgate regulations authorized under subsection (a) of this section and under the Tribally Controlled Schools Act of 1988 \[25 U.S.C. 2501 et seq.\], inaccordance with the negotiated rulemaking procedures provided for under subchapter III of chapter 5 of title 5, and shall publish final regulations in the Federal Register.
+&emsp;Notwithstanding sections 563(a) and 565(a) of title 5, the Secretary shall promulgate regulations authorized under subsection (a) of this section and under the Tribally Controlled Schools Act of 1988 \[25 U.S.C. 2501 et seq.\], in accordance with the negotiated rulemaking procedures provided for under subchapter III of chapter 5 of title 5, and shall publish final regulations in the Federal Register.
 
 #### (2) Notification to Congress
 

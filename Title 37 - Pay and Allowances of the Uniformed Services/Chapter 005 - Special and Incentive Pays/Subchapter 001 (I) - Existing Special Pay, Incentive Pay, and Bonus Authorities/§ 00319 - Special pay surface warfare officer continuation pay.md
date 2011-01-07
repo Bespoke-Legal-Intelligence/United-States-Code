@@ -12,7 +12,7 @@ Eligible Surface Warfare Officer Defined.—In this section, the term “eligibl
 
 (b)
 
-Special Pay Authorized.—An eligible surface warfare officer who executes a written agreement to remain on active duty to complete one or more tours of duty to which the officer may be ordered as a department head on a surface vessel may, upon the acceptance of theagreement by the Secretary of the Navy, be paid an amount not to exceed $50,000.
+Special Pay Authorized.—An eligible surface warfare officer who executes a written agreement to remain on active duty to complete one or more tours of duty to which the officer may be ordered as a department head on a surface vessel may, upon the acceptance of the agreement by the Secretary of the Navy, be paid an amount not to exceed $50,000.
 
 (c)
 
@@ -38,11 +38,11 @@ Regulations.—The Secretary of the Navy shall prescribe regulations to carry ou
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–163, §515(d)(1)(E), substituted “Navy Reserve” for “Naval Reserve” in introductory provisions.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163, §515(d)(1)(E), substituted “Navy Reserve” for “Naval Reserve” in introductory provisions.
 
 Subsec. (f). Pub. L. 109–163, §687(b)(28), amended heading and text of subsec. (f) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to repayment required when officer receives bonus but fails to complete total period of agreed upon active duty as department head on surface vessel.
 
-2001—Subsec. (a)(3). Pub. L. 107–107 inserted “or is within one year of completing such commitment” before period at end.
+<b>2001</b>—Subsec. (a)(3). Pub. L. 107–107 inserted “or is within one year of completing such commitment” before period at end.
 
 #### Effective Date
 

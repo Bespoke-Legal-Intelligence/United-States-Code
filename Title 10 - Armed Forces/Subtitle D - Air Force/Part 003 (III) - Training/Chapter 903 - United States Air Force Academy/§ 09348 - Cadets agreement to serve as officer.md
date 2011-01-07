@@ -16,11 +16,13 @@
 
 &emsp;&emsp;(B) will remain in that reserve component until completion of the commissioned service obligation of the cadet.
 
+&emsp;(4) That if an appointment described in paragraph (2) or (3) is tendered and the cadet participates in a program under section 2121 of this title, the cadet will fulfill any unserved obligation incurred under this section on active duty, regardless of the type of appointment held, upon completion of, and in addition to, any service obligation incurred under section 2123 of this title for participation in such program.
+
 (b)(1) The Secretary of the Air Force may transfer to the Air Force Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a cadet who breaches an agreement under subsection (a). The period of time for which a cadet is ordered to active duty under this paragraph may be determined without regard to section 651(a) of this title.
 
 (2) A cadet who is transferred to the Air Force Reserve under paragraph (1) shall be transferred in an appropriate enlisted grade or rating, as determined by the Secretary.
 
-(3) For the purposes of paragraph (1), a cadet shall be considered to have breached an agreement under subsection (a) if the cadet is separated from the Academy under circumstances which the Secretary determines constitute a breach by the cadet of the cadet's agreement to complete the course of instruction at the Academy and accept an appointment as a commissioned officer upon graduation from the Academy.
+(3) For the purposes of paragraph (1), a cadet shall be considered to have breached an agreement under subsection (a) if the cadet is separated from the Academy under circumstances which the Secretary determines constitute abreach by the cadet of the cadet's agreement to complete the course of instruction at the Academy and accept an appointment as a commissioned officer upon graduation from the Academy.
 
 (c) The Secretary of the Air Force shall prescribe regulations to carry out this section. Those regulations shall include—
 
@@ -38,7 +40,7 @@
 
 (f) A cadet or former cadet who does not fulfill the terms of the agreement as specified under subsection (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) of title 37.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 565; Pub. L. 88–276, §5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, §301(25), Oct. 13, 1964, 78 Stat. 1073; Pub. L. 98–525, title V, §§541(c), 542(d), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, §512(c), Nov. 8, 1985, 99 Stat. 625; Pub. L. 101–189, div. A, title V, §511(d), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1439, 1605; Pub. L. 104–106, div. A, title V, §531(c), Feb. 10, 1996, 110 Stat. 314; Pub. L. 109–163, div. A, title VI, §687(c)(11), Jan. 6, 2006, 119 Stat. 3335; Pub. L. 111–84, div. A, title X, §1073(a)(29), Oct. 28, 2009, 123 Stat. 2474.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 565; Pub. L. 88–276, §5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, §301(25), Oct. 13, 1964, 78 Stat. 1073; Pub. L. 98–525, title V, §§541(c), 542(d), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, §512(c), Nov. 8, 1985, 99 Stat. 625; Pub. L. 101–189, div. A, title V, §511(d), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1439, 1605; Pub. L. 104–106, div. A, title V, §531(c), Feb. 10, 1996, 110 Stat. 314; Pub. L. 109–163, div. A, title VI, §687(c)(11), Jan. 6, 2006, 119 Stat. 3335; Pub. L. 111–84, div. A, title X, §1073(a)(29), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title V, §554(c), Jan. 7, 2011, 124 Stat. 4221.)
 
 Historical and Revision Notes
 
@@ -58,17 +60,19 @@ The word “agreement” is substituted for the word “articles”. The words �
 
 #### Amendments
 
-2009—Subsec. (f). Pub. L. 111–84 substituted “subsection (a)” for “section (a)”.
+<b>2011</b>—Subsec. (a)(4). Pub. L. 111–383 added par. (4).
 
-2006—Subsec. (f). Pub. L. 109–163 added subsec. (f).
+<b>2009</b>—Subsec. (f). Pub. L. 111–84 substituted “subsection (a)” for “section (a)”.
 
-1996—Subsec. (a)(2)(B). Pub. L. 104–106 substituted “five years” for “six years”.
+<b>2006</b>—Subsec. (f). Pub. L. 109–163 added subsec. (f).
 
-1989—Subsec. (a)(2)(B). Pub. L. 101–189, §511(d), substituted “six years” for “five years”.
+<b>1996</b>—Subsec. (a)(2)(B). Pub. L. 104–106 substituted “five years” for “six years”.
+
+<b>1989</b>—Subsec. (a)(2)(B). Pub. L. 101–189, §511(d), substituted “six years” for “five years”.
 
 Subsec. (d). Pub. L. 101–189, §1622(e)(5), inserted “the term” after “In this section,”.
 
-1985—Pub. L. 99–145 amended section generally. Prior to amendment, section read as follows:
+<b>1985</b>—Pub. L. 99–145 amended section generally. Prior to amendment, section read as follows:
 
 “(a) Each cadet who is a citizen or national of the United States shall sign an agreement that he will—
 
@@ -82,11 +86,11 @@ Subsec. (d). Pub. L. 101–189, §1622(e)(5), inserted “the term” after “I
 
 “(b) A cadet who does not fulfill his agreement under subsection (a) may be transferred by the Secretary of the Air Force to the Air Force Reserve in an appropriate enlisted grade and, notwithstanding section 651 of this title, may be ordered to active duty to serve in that grade for such period of time as the Secretary prescribes but not for more than four years.”
 
-1984—Subsec. (a). Pub. L. 98–525, §541(c), struck out “, unless sooner separated,” in introductory text before “he will”; inserted in cl. (1) “unless sooner separated from the Academy,”; and inserted “, unless sooner separated from the service,” in cls. (2) and (3).
+<b>1984</b>—Subsec. (a). Pub. L. 98–525, §541(c), struck out “, unless sooner separated,” in introductory text before “he will”; inserted in cl. (1) “unless sooner separated from the Academy,”; and inserted “, unless sooner separated from the service,” in cls. (2) and (3).
 
 Subsec. (a)(3). Pub. L. 98–525, §542(d), substituted “at least the sixth anniversary and, at the direction of the Secretary of Defense, up to the eighth anniversary” for “the sixth anniversary”.
 
-1964—Pub. L. 88–647 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1964</b>—Pub. L. 88–647 designated existing provisions as subsec. (a) and added subsec. (b).
 
 Subsec. (a)(2). Pub. L. 88–276 substituted “five” for “three”.
 
@@ -100,7 +104,7 @@ Amendment by section 511(d) of Pub. L. 101–189 applicable to persons who are f
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–145 (other than with respect to the authority of the Secretary of the Air Force to prescribe regulations) effective on the date on which regulations prescribed by the Secretary take effect and applicable to agreements entered into under this section on or after the effective date of such regulations and also with respect to each such agreement that was entered into before the effective date of such regulations by an individual who is a cadet on such date, see section 512(e) of Pub. L. 99–145, set out as a note under section 4348 of this title.
+Amendment by Pub. L. 99–145 (other than with respect to the authority of the Secretary of the Air Force to prescribe regulations) effective on the date on which regulations prescribed by the Secretary take effect and applicable to agreements entered into under this section on or after the effective date of such regulations and also with respect to each such agreement that was entered into before the effective date of such regulations by an individual who is a cadet on such date, seesection 512(e) of Pub. L. 99–145, set out as a note under section 4348 of this title.
 
 #### Effective Date of 1984 Amendment
 

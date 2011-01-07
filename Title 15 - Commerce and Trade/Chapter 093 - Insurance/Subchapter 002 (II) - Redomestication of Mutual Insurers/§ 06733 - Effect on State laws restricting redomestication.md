@@ -38,7 +38,7 @@ If any licensed State fails to issue, delays the issuance of, or seeks to revoke
 
 &emsp;(6) comply with any State law regarding deceptive, false, or fraudulent acts or practices, except that if the licensed State seeks an injunction regarding the conduct described in this paragraph, such injunction must be obtained from a court of competent jurisdiction as provided in section 6734(a) of this title;
 
-&emsp;(7) comply with an injunction issued by a court of competent jurisdiction, upon a petition by the State insurance regulator allegingthat the redomesticating insurer is in hazardous financial condition or is financially impaired;
+&emsp;(7) comply with an injunction issued by a court of competent jurisdiction, upon a petition by the State insurance regulator alleging that the redomesticating insurer is in hazardous financial condition or is financially impaired;
 
 &emsp;(8) participate in any insurance insolvency guaranty association on the same basis as any other insurer licensed in the licensed State; and
 

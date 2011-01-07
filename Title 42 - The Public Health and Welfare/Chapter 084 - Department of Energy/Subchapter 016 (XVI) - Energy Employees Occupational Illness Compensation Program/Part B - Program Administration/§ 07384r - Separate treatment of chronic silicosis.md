@@ -34,5 +34,5 @@ For purposes of this subchapter, the term “chronic silicosis” means a nonmal
 
 #### Amendments
 
-2001—Subsec. (e)(2)(A). Pub. L. 107–107 substituted “category 1/0” for “category 1/1”.
+<b>2001</b>—Subsec. (e)(2)(A). Pub. L. 107–107 substituted “category 1/0” for “category 1/1”.
 

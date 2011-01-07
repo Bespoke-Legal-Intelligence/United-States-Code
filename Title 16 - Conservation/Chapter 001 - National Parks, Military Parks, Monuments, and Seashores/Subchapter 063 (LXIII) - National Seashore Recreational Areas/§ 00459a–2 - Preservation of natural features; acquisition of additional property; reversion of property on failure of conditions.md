@@ -8,7 +8,7 @@ In the event of said abandonment, the Secretary of the Interior shall execute an
 
 #### Amendments
 
-1946—Act Mar. 6, 1946, substituted “fifteen years” for “ten years” before “from August 17, 1937”.
+<b>1946</b>—Act Mar. 6, 1946, substituted “fifteen years” for “ten years” before “from August 17, 1937”.
 
 #### Change of Name
 

@@ -38,5 +38,5 @@ As soon as practicable after August 23, 1988, and periodically thereafter as app
 
 #### Amendments
 
-1996—Subsec. (b)(1). Pub. L. 104–295 substituted “1484(f)” for “1484(e)”.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–295 substituted “1484(f)” for “1484(e)”.
 

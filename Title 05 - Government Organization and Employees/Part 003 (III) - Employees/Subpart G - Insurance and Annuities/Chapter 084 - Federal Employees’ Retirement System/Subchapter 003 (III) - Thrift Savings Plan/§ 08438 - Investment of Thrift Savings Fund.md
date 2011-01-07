@@ -82,7 +82,7 @@
 
 (3)(A) The Board shall select an index which is a commonly recognized index comprised of common stock the aggregate market value of which represents the United States equity markets excluding the common stocks included in the Common Stock Index Investment Fund.
 
-(B) The Small Capitalization Stock Index Investment Fund shall be invested in a portfolio designed to replicate the performance of the index in subparagraph (A). The portfolio shall bedesigned such that, to the extent practicable, the percentage of the Small Capitalization Stock Index Investment Fund that is invested in each stock is the same as the percentage determined by dividing the aggregate market value of all shares of that stock by the aggregate market value of all shares of all stocks included in such index.
+(B) The Small Capitalization Stock Index Investment Fund shall be invested in a portfolio designed to replicate the performance of the index in subparagraph (A). The portfolio shall be designed such that, to the extent practicable, the percentage of the Small Capitalization Stock Index Investment Fund that is invested in each stock is the same as the percentage determined by dividing the aggregate market value of all shares of that stock by the aggregate market value of all shares of all stocks included in such index.
 
 (4)(A) The Board shall select an index which is a commonly recognized index comprised of stock the aggregate market value of which is a reasonably complete representation of the international equity markets excluding the United States equity markets.
 
@@ -120,9 +120,9 @@
 
 (4) On the first business day after the expiration of any debt issuance suspension period, the Secretary of the Treasury shall pay to the Government Securities Investment Fund, from amounts in the general fund of the Treasury of the United States not otherwise appropriated, an amount equal to the excess of the net amount of interest that would have been earned by the Government Securities Investment Fund from obligations of the United States during such debt issuance suspension period if—
 
-&emsp;(A) amounts in the Government Securities Investment Fund that were available for investment in obligations of the United States and were not invested during such debt issuance suspension period solely by reason of the public debt limit had been invested under the procedure set forth in paragraph (5), over
+&emsp;(A) amounts in the Government Securities Investment Fund that were available for investment in obligations of the United States and were not invested during such debt issuance suspension period solely by reason of thepublic debt limit had been invested under the procedure set forth in paragraph (5), over
 
-&emsp;(B) the net amount of interest actually earned by the Government Securities Investment Fund from obligations of the UnitedStates during such debt issuance suspension period.
+&emsp;(B) the net amount of interest actually earned by the Government Securities Investment Fund from obligations of the United States during such debt issuance suspension period.
 
 (5) On each business day during the debt limit suspension period, the Executive Director shall notify the Secretary of the Treasury of the amounts, by maturity, that would have been invested or redeemed each day had the debt issuance suspension period not occurred.
 

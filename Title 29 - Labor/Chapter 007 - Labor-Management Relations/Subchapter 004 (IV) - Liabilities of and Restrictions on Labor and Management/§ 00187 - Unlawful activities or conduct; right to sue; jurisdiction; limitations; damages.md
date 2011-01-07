@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1959—Subsec. (a). Pub. L. 86–257 struck out provisions which specified particular practices that were unlawful, and inserted reference to practices defined in section 158(b)(4) of this title, which section defines the unfair labor practices formerly enumerated in this subsection.
+<b>1959</b>—Subsec. (a). Pub. L. 86–257 struck out provisions which specified particular practices that were unlawful, and inserted reference to practices defined in section 158(b)(4) of this title, which section defines the unfair labor practices formerly enumerated in this subsection.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
 

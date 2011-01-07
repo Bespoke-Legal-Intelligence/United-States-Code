@@ -36,13 +36,11 @@ Officers and employees may not be appointed until the Foundation has sufficient 
 
 #### References in Text
 
-This subchapter, referred to in subsec. (g), was in the original “this subtitle” and was translated as reading “this title”, meaning title IV of Pub. L. 101–593, Nov. 16, 1990, 104 Stat. 2969, known as the National Forest Foundation Act, which does not contain subtitles, and which is classified generally to this subchapter. For complete classification of title IV to the Code, see Short Title note set out under section 583j of this title and Tables.
-
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (h), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+This subchapter, referred to in subsec. (g), was in the original “this subtitle” and was translated as reading “this title”, meaning title IV of Pub. L. 101–593, Nov.16, 1990, 104 Stat. 2969, known as the National Forest Foundation Act, which does not contain subtitles, and which is classified generally to this subchapter. For complete classification of title IV to the Code, see Short Title note set out under section 583j of this title and Tables.
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–88 substituted “not more than 30 Directors” for “fifteen Directors” in first sentence.
+<b>2009</b>—Subsec. (a). Pub. L. 111–88 substituted “not more than 30 Directors” for “fifteen Directors” in first sentence.
 
-2001—Subsec. (a). Pub. L. 107–63 inserted “At the discretion of the Secretary of Agriculture, the Secretary may increase the number of Directors to not more than twenty.” after first sentence.
+<b>2001</b>—Subsec. (a). Pub. L. 107–63 inserted “At the discretion of the Secretary of Agriculture, the Secretary may increase the number of Directors to not more than twenty.” after first sentence.
 

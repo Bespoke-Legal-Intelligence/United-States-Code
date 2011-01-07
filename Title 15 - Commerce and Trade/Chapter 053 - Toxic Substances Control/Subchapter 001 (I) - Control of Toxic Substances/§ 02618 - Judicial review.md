@@ -30,7 +30,7 @@ If in an action under this section to review a rule the petitioner or the Admini
 
 (B) Section 706 of title 5 shall apply to review of a rule under this section, except that—
 
-&emsp;(i) in the case of review of a rule under section 2603(a), 2604(b)(4), 2605(a), or 2605(e) of this title, the standard for review prescribed by paragraph (2)(E) of such section 706 shall not apply and the court shall hold unlawful and set aside such rule if the court finds that the rule is not supported by substantial evidence in the rulemaking record (as defined in subsection (a)(3) of this section) taken as a whole;
+&emsp;(i) in the case of review of a rule under section 2603(a), 2604(b)(4), 2605(a), or 2605(e) of this title, the standard for review prescribed by paragraph (2)(E) of such section 706 shall not apply and the court shall hold unlawful and set aside such rule if the court finds that therule is not supported by substantial evidence in the rulemaking record (as defined in subsection (a)(3) of this section) taken as a whole;
 
 &emsp;(ii) in the case of review of a rule under section 2605(a) of this title, the court shall hold unlawful and set aside such rule if it finds that—
 
@@ -66,11 +66,11 @@ The remedies as provided in this section shall be in addition to and not in lieu
 
 #### Amendments
 
-1992—Subsec. (a)(1)(A). Pub. L. 102–550, §1021(b)(8)(A), substituted “subchapter II or IV of this chapter” for “subchapter II of this chapter”.
+<b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–550, §1021(b)(8)(A), substituted “subchapter II or IV of this chapter” for “subchapter II of this chapter”.
 
 Subsec. (a)(3)(B). Pub. L. 102–550, §1021(b)(8)(B), inserted before semicolon at end “and in the case of a rule under subchapter IV of this chapter, the finding required for the issuance of such a rule”.
 
-1986—Subsec. (a)(1)(A). Pub. L. 99–519 inserted reference to subchapter II of this chapter.
+<b>1986</b>—Subsec. (a)(1)(A). Pub. L. 99–519 inserted reference to subchapter II of this chapter.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

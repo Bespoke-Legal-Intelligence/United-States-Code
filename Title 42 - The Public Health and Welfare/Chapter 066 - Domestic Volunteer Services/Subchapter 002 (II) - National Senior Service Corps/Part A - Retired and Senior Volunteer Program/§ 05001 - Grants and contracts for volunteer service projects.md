@@ -126,13 +126,13 @@ The Corporation shall develop and disseminate an online resource guide for progr
 
 &emsp;(2) corrective actions for underperforming programs; and
 
-&emsp;(3) examples of meaningful outcome-based performance measures, outcomes, and criteriathat capture a program's mission and priorities.
+&emsp;(3) examples of meaningful outcome-based performance measures, outcomes, and criteria that capture a program's mission and priorities.
 
 (Pub. L. 93–113, title II, §201, Oct. 1, 1973, 87 Stat. 401; Pub. L. 93–351, §4, July 12, 1974, 88 Stat. 357; Pub. L. 95–478, title IV, §402(a), Oct. 18, 1978, 92 Stat. 1556; Pub. L. 98–288, §14(a), (b), May 21, 1984, 98 Stat. 192; Pub. L. 101–204, title IX, §902(2), Dec. 7, 1989, 103 Stat. 1826; Pub. L. 103–82, title III, §343, Sept. 21, 1993, 107 Stat. 904; Pub. L. 111–13, title II, §2143, Apr. 21, 2009, 123 Stat. 1584.)
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–13, §2143(1)(A), substituted “share their experiences, abilities, and skills to improve their communities and themselves through service in their communities,” for “avail themselves of opportunities for volunteer service in their community,” in introductory provisions.
+<b>2009</b>—Subsec. (a). Pub. L. 111–13, §2143(1)(A), substituted “share their experiences, abilities, and skills to improve their communities and themselves through service in their communities,” for “avail themselves of opportunities for volunteer service in their community,” in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 111–13, §2143(1)(B), struck out “, and individuals 60 years of age or older will be given priority for enrollment,” before “as volunteers”.
 
@@ -140,25 +140,25 @@ Subsec. (a)(4). Pub. L. 111–13, §2143(1)(C), substituted “designed and impl
 
 Subsecs. (e) to (j). Pub. L. 111–13, §2143(2), added subsecs. (e) to (j).
 
-1993—Subsec. (a). Pub. L. 103–82, §343(1), substituted “retired individuals and working older individuals” for “retired persons” in introductory provisions.
+<b>1993</b>—Subsec. (a). Pub. L. 103–82, §343(1), substituted “retired individuals and working older individuals” for “retired persons” in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 103–82, §343(2), substituted “55 years of age or older” for “aged sixty or over” and inserted “, and individuals 60 years of age or older will be given priority for enrollment,” after “will be enrolled”.
 
-1989—Subsec. (a). Pub. L. 101–204, §902(2)(A), substituted “projects” for “programs” in introductory provisions.
+<b>1989</b>—Subsec. (a). Pub. L. 101–204, §902(2)(A), substituted “projects” for “programs” in introductory provisions.
 
 Subsec. (a)(3), (4). Pub. L. 101–204, §902(2)(B), substituted “project” for “program”.
 
-1984—Subsec. (a). Pub. L. 98–288, §14(a), substituted “the Director” for “he” in two places in provisions before par. (1).
+<b>1984</b>—Subsec. (a). Pub. L. 98–288, §14(a), substituted “the Director” for “he” in two places in provisions before par. (1).
 
 Subsec. (b). Pub. L. 98–288, §14(b), substituted “and 30 per centum in any subsequent such years” for “30 per centum in the third such year, 40 per centum in the fourth such year, and 50 per centum in any subsequent such years”.
 
-1978—Subsec. (a). Pub. L. 95–478, §402(a)(1), substituted reference to section “3025(a)(1)” for “3024(a)(1)” of this title.
+<b>1978</b>—Subsec. (a). Pub. L. 95–478, §402(a)(1), substituted reference to section “3025(a)(1)” for “3024(a)(1)” of this title.
 
 Subsec. (c). Pub. L. 95–478, §402(a)(1), (2), substituted reference to section “3025(a)(1)” for “3024(a)(1)” of this title and decreased period for review to “forty-five” from “sixty” days.
 
 Subsec. (d). Pub. L. 95–478, §402(a)(3), added subsec. (d).
 
-1974—Subsecs. (b), (c). Pub. L. 93–351 added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>1974</b>—Subsecs. (b), (c). Pub. L. 93–351 added subsec. (b) and redesignated former subsec. (b) as (c).
 
 #### Effective Date of 2009 Amendment
 
@@ -195,4 +195,6 @@ Pub. L. 94–135, title II, §205(c), Nov. 28, 1975, 89 Stat. 727, as amended by
 &emsp;“(C) the term ‘State’ means the several States, the District of Columbia, the Virgin Islands, Puerto Rico, Guam, American Samoa, and the Trust Territory of the Pacific Islands.”
 
 \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
+
+<i><sup>1</sup></i><i> So in original. Probably should be “performance”.</i>
 

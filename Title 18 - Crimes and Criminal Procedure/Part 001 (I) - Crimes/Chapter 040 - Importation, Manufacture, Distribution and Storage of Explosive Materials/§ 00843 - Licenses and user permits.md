@@ -10,7 +10,7 @@
 
 &emsp;(3) the applicant has in a State premises from which he conducts or intends to conduct business;
 
-&emsp;(4)(A) the Secretary <sup>1</sup> verifies by inspection or, if the application is for an original limited permit or the first or second renewal of such a permit, by such other means as the Secretary <sup>1</sup> determines appropriate, that the applicant has a place of storage for explosive materials which meets such standards of public safety and security against theft as the Attorney General by regulations shall prescribe; and
+&emsp;(4)(A) the Secretary <sup>1</sup> verifies by inspection or, if the application is for an original limited permit or the first or second renewal of such a permit, by such other means as the Secretary <sup>1</sup> determines appropriate, that the applicant has a place of storage for explosive materials which meets such standards of public safetyand security against theft as the Attorney General by regulations shall prescribe; and
 
 &emsp;(B) subparagraph (A) shall not apply to an applicant for the renewal of a limited permit if the Secretary <sup>1</sup> has verified, by inspection within the preceding 3 years, the matters described in subparagraph (A) with respect to the applicant; and
 
@@ -68,7 +68,7 @@ Reimbursement.—The Secretary <sup>1</sup> shall, by regulation, authorize rei
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–296, §1122(c), in first sentence, inserted “or limited permit” after “user permit” and inserted before period at end “, including the names of and appropriate identifying information regarding all employees who will be authorized by the applicant to possess explosive materials, as well as fingerprints and a photograph of each responsible person”, in second sentence, substituted “$50 for a limited permit and $200 for any other” for “$200 for each”, inserted third and fourth sentences, and struck out former third sentence which read as follows: “Each license or permit shall be valid for no longer than three years from date of issuance and shall be renewable upon the same conditions and subject to the same restrictions as the original license or permit and upon payment of a renewal fee not to exceed one-half of the original fee.”
+<b>2002</b>—Subsec. (a). Pub. L. 107–296, §1122(c), in first sentence, inserted “or limited permit” after “user permit” and inserted before period at end “, including the names of and appropriate identifying information regarding all employees who will be authorized by the applicant to possess explosive materials, as well as fingerprints and a photograph of each responsible person”, in second sentence, substituted “$50 for a limited permit and $200 for any other” for “$200 for each”, inserted third and fourth sentences, and struck out former third sentence which read as follows: “Each license or permit shall be valid for no longer than three years from date of issuance and shall be renewable upon the same conditions and subject to the same restrictions as the original license or permit and upon payment of a renewal fee not to exceed one-half of the original fee.”
 
 Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary” in two places.
 

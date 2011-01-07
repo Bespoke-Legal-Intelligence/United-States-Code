@@ -322,7 +322,7 @@ There are authorized to be appropriated to carry out this section—
 
 #### Amendments
 
-2003—Subsec. (a)(4). Pub. L. 108–163, §2(c)(1), substituted “section 295p(6)” for “section 295p”.
+<b>2003</b>—Subsec. (a)(4). Pub. L. 108–163, §2(c)(1), substituted “section 295p(6)” for “section 295p”.
 
 Subsec. (c)(1). Pub. L. 108–163, §2(c)(2), substituted “Health Resources and Services Administration” for “Health and Resources and Services Administration”.
 

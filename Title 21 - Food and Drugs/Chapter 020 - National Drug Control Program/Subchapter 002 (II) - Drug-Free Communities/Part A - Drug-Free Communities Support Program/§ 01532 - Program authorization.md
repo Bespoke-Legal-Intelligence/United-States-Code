@@ -62,7 +62,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 &emsp;The coalition shall, with respect to the community involved—
 
-&emsp;&emsp;(A) have as its principal mission the reduction of substance abuse, which, at a minimum, includes the use and abuse of drugs referenced in section 1523(9)(A) of this title, in a comprehensive and long-term manner, with a primary focus on youth in the community;
+&emsp;&emsp;(A) have as its principal mission the reduction of substance abuse, which, at a minimum, includes the use and abuse of drugsreferenced in section 1523(9)(A) of this title, in a comprehensive and long-term manner, with a primary focus on youth in the community;
 
 &emsp;&emsp;(B) describe and document the nature and extent of the substance abuse problem, which, at a minimum, includes the use and abuse of drugs referenced in section 1523(9)(A) of this title, in the community;
 
@@ -124,7 +124,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (iv), for a fiscal year, the Administrator may grant to an eligiblecoalition under this paragraph, an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year.
+&emsp;&emsp;&emsp;Subject to clause (iv), for a fiscal year, the Administrator may grant to an eligible coalition under this paragraph, an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year.
 
 #### (ii) Suspension of grants
 
@@ -198,7 +198,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 #### (D) Renewal grants
 
-&emsp;&emsp;Subject to subparagraph (F), the Administrator may award a renewal grant to a grant recipient under this paragraph for each of the fiscal years of the 4-fiscal-year period following the fiscal year for which the initial additional grant under subparagraph (A)is awarded in an amount not to exceed amounts as follows:
+&emsp;&emsp;Subject to subparagraph (F), the Administrator may award a renewal grant to a grant recipient under this paragraph for each of the fiscal years of the 4-fiscal-year period following the fiscal year for which the initial additional grant under subparagraph (A) is awarded in an amount not to exceed amounts as follows:
 
 &emsp;&emsp;&emsp;(i) For the first and second fiscal years of that 4-fiscal-year period, the amount equal to 80 percent of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year.
 
@@ -232,13 +232,13 @@ Pub. L. 109–469, §§802(a), 803, 804, which directed amendment of section 103
 
 #### Amendments
 
-2006—Subsec. (a)(7). Pub. L. 109–469, §804, added par. (7). See Codification note above.
+<b>2006</b>—Subsec. (a)(7). Pub. L. 109–469, §804, added par. (7). See Codification note above.
 
 Subsec. (b)(1)(A)(iv), (2)(C)(i), (3)(F). Pub. L. 109–469, §803, substituted “$125,000” for “$100,000”. See Codification note above.
 
 Subsec. (b)(4). Pub. L. 109–469, §802(a), added par. (4). See Codification note above.
 
-2001—Subsec. (b)(3). Pub. L. 107–82, §1(d), added par. (3).
+<b>2001</b>—Subsec. (b)(3). Pub. L. 107–82, §1(d), added par. (3).
 
 Subsec. (c). Pub. L. 107–82, §1(g), added subsec. (c).
 

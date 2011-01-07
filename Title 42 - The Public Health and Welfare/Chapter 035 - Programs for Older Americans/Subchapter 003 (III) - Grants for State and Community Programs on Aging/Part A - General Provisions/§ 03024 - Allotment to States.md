@@ -6,9 +6,9 @@
 
 (2) In determining the amounts allotted to States from the sums appropriated under section 3023 of this title for a fiscal year, the Assistant Secretary shall first determine the amount allotted to each State under paragraph (1) and then proportionately adjust such amounts, if necessary, to meet the requirements of paragraph (3).
 
-(3)(A) No State shall be allotted less than 1/2 of 1 percent of the sum appropriated for the fiscal year for which the determination is made.
+(3)(A) No State shall be allotted less than ½ of 1 percent of the sum appropriated for the fiscal year for which the determination is made.
 
-(B) Guam and the United States Virgin Islands shall each be allotted not less than 1/4 of 1 percent of the sum appropriated for the fiscal year for which the determination is made.
+(B) Guam and the United States Virgin Islands shall each be allotted not less than ¼ of 1 percent of the sum appropriated for the fiscal year for which the determination is made.
 
 (C) American Samoa and the Commonwealth of the Northern Mariana Islands shall each be allotted not less than 1/16 of 1 percent of the sum appropriated for the fiscal year for which the determination is made. For the purposes of the exception contained in subparagraph (A) only, the term “State” does not include Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
@@ -64,9 +64,9 @@ A prior section 3024a, Pub. L. 89–73, title III, §305, as added Pub. L. 91–
 
 #### Amendments
 
-2006—Subsec. (a)(3)(D). Pub. L. 109–365 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “No State shall be allotted less than the total amount allotted to the State for fiscal year 2000 and no State shall receive a percentage increase above the fiscal year 2000 allotment that is less than 20 percent of the percentage increase above the fiscal year 2000 allotments for all of the States.”
+<b>2006</b>—Subsec. (a)(3)(D). Pub. L. 109–365 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “No State shall be allotted less than the total amount allotted to the State for fiscal year 2000 and no State shall receive a percentage increase above the fiscal year 2000 allotment that is less than 20 percent of the percentage increase above the fiscal year 2000 allotments for all of the States.”
 
-2000—Subsec. (a). Pub. L. 106–501, §303(a), added subsec. (a) and struck out former subsec. (a) which read as follows:
+<b>2000</b>—Subsec. (a). Pub. L. 106–501, §303(a), added subsec. (a) and struck out former subsec. (a) which read as follows:
 
 “(a)(1) Subject to paragraphs (2) and (3), from the sums appropriated under section 3023 of this title for each fiscal year, each State shall be allotted an amount which bears the same ratio to such sums as the population of older individuals in such State bears to the population of older individuals in all States, exceptthat (A) no State shall be allotted less than one-half of 1 percent of the sum appropriated for the fiscal year for which the determination is made; (B) Guam, the United States Virgin Islands, and the Trust Territory of the Pacific Islands, shall each be allotted not less than one-fourth of 1 percent of the sum appropriated for the fiscal year for which the determination is made; and (C) American Samoa and the Commonwealth of the Northern Mariana Islands shall each be allotted not less than one-sixteenth of 1 percent of the sum appropriated for the fiscal year for which the determination is made. For the purposes of paragraph (3) and the exception contained in subparagraph (A) only, the term ‘State’ does not include Guam, American Samoa, the United States Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
 
@@ -82,9 +82,9 @@ Subsec. (d)(1)(B). Pub. L. 106–501, §801(c)(2)(A), substituted “3027(a)(9)�
 
 Subsec. (e). Pub. L. 106–501, §801(c)(2)(B), struck out subsec. (e) which read as follows: “Grants made from allotments received under this subchapter may be used for paying for the costs of providing for an area volunteer services coordinator (as described in section 3026(a)(12) of this title) or a State volunteer services coordinator (as described in section 3027(a)(31) of this title).”
 
-1993—Subsecs. (a)(4), (b), (c), (d)(2). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” wherever appearing.
+<b>1993</b>—Subsecs. (a)(4), (b), (c), (d)(2). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 
-1992—Subsec. (a)(1). Pub. L. 102–375, §904(a)(10), substituted “of older individuals” for “aged 60 or older” in two places, “United States Virgin Islands” for “Virgin Islands” in two places, and “contained in subparagraph (A)” for “contained in clause (A)”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–375, §904(a)(10), substituted “of older individuals” for “aged 60 or older” in two places, “United States Virgin Islands” for “Virgin Islands” in two places, and “contained in subparagraph (A)” for “contained in clause (A)”.
 
 Subsec. (a)(2). Pub. L. 102–375, §304(a)(1), substituted “1987” for “1984”.
 
@@ -98,7 +98,7 @@ Subsec. (d)(1)(C). Pub. L. 102–375, §304(c), amended subpar. (C) generally. P
 
 Subsec. (e). Pub. L. 102–375, §304(d), added subsec. (e).
 
-1987—Subsec. (a)(1). Pub. L. 100–175, §155(c)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)” and “purposes of paragraph (3) and” for “purpose of”.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–175, §155(c)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)” and “purposes of paragraph (3) and” for “purpose of”.
 
 Subsec. (a)(3), (4). Pub. L. 100–175, §155(c)(2), added par. (3) and redesignated former par. (3) as (4).
 
@@ -108,7 +108,7 @@ Subsec. (d)(1)(A). Pub. L. 100–175, §123, substituted “10 percent” for �
 
 Subsec. (d)(1)(B), (C). Pub. L. 100–175, §155(d), inserted “(excluding any amount attributable to funds appropriated under section 3023(a)(3) of this title)” after “amount”.
 
-1984—Subsec. (a)(1). Pub. L. 98–459, §304(a)(1)–(5), substituted “Subject to paragraph (2), from” for “From”, substituted “under section 3023 of this title” for “under parts B and C”, substituted “Commonwealth of the Northern Mariana Islands” for “Northern Mariana Islands” in two places, substituted “and (C)” for “(C)”, and struck out “; and (D) no State shall be allotted an amount less than the State received for fiscal year 1978”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–459, §304(a)(1)–(5), substituted “Subject to paragraph (2), from” for “From”, substituted “under section 3023 of this title” for “under parts B and C”, substituted “Commonwealth of the Northern Mariana Islands” for “Northern Mariana Islands” in two places, substituted “and (C)” for “(C)”, and struck out “; and (D) no State shall be allotted an amount less than the State received for fiscal year 1978”.
 
 Subsec. (a)(2), (3). Pub. L. 98–459, §304(a)(6)–(8), added par. (2), redesignated former par. (2) as (3), and substituted “available to the Commissioner” for “available to him”.
 
@@ -118,7 +118,7 @@ Subsec. (c). Pub. L. 98–459, §304(c), substituted “subsection (d)(1)(D) of 
 
 Subsec. (d)(1). Pub. L. 98–459, §304(d), inserted “, after the application of section 3028(b) of this title” in provisions before par. (1), added subpar. (C), and redesignated former subpar. (C) as (D).
 
-1981—Subsec. (a)(1). Pub. L. 97–115, §4(a), substituted “under parts B and C for each fiscal year” for “under parts B and C for fiscal years 1979, 1980, and 1981”.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–115, §4(a), substituted “under parts B and C for each fiscal year” for “under parts B and C for fiscal years 1979, 1980, and 1981”.
 
 Subsec. (d)(1)(B). Pub. L. 97–115, §4(c)(3), added subpar. (B). Former subpar. (B) redesignated (C).
 

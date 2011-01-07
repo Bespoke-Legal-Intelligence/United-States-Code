@@ -2,13 +2,13 @@
 
 (a)
 
-General Authority.—Except as provided in section 47111 of this title, the United States Government may pay or be obligated to pay, from amounts appropriated to carry out this subchapter, a cost incurred in carrying out aproject under this subchapter only if the Secretary of Transportation decides the cost is allowable.
+General Authority.—Except as provided in section 47111 of this title, the United States Government may pay or be obligated to pay, from amounts appropriated to carry out this subchapter, a cost incurred in carrying out a project under this subchapter only if the Secretary of Transportation decides the cost is allowable.
 
 (b)
 
 Allowable Cost Standards.—A project cost is allowable—
 
-&emsp;(1) if the cost necessarily is incurred in carrying out the project in compliance with the grant agreement made for the project under this subchapter, including any cost a sponsor incurs related to an audit the Secretary requires under section 47121(b) or (d) of this title and any cost of moving a Federal facility impeding the project if the rebuilt facility is of an equivalent size and type;
+&emsp;(1) if the cost necessarily is incurred in carrying out the project in compliance with the grant agreement made for the project under this subchapter, including any cost a sponsor incurs related to an audit the Secretary requires under section 47121(b) or (d) of this titleand any cost of moving a Federal facility impeding the project if the rebuilt facility is of an equivalent size and type;
 
 &emsp;(2)(A) if the cost is incurred after the grant agreement is executed and is for airport development or airport planning carried out after the grant agreement is executed;
 
@@ -195,9 +195,9 @@ Subpars. (J), (K), and (L) of section 47102(3), referred to in subsec. (b)(2)(D)
 
 #### Amendments
 
-2005—Subsec. (d)(2)(A). Pub. L. 109–115, which directed amendment of section 47110(d)(2)(A), without specifying the title to be amended, by substituting “(A) except as provided in section 47108(e)(3), the” for “(A) the”, was executed to this section, to reflect the probable intent of Congress.
+<b>2005</b>—Subsec. (d)(2)(A). Pub. L. 109–115, which directed amendment of section 47110(d)(2)(A), without specifying the title to be amended, by substituting “(A) except as provided in section 47108(e)(3), the” for “(A) the”, was executed to this section, to reflect the probable intent of Congress.
 
-2003—Subsec. (b)(1). Pub. L. 108–176, §145, inserted “and any cost of moving a Federal facility impeding the project if the rebuilt facility is of an equivalent size and type” before semicolon at end.
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–176, §145, inserted “and any cost of moving a Federal facility impeding the project if the rebuilt facility is of an equivalent size and type” before semicolon at end.
 
 Subsec. (b)(2)(C). Pub. L. 108–176, §149(b)(1), substituted “or section 47114(d)(3)(A)” for “of this title” in introductory provisions.
 
@@ -207,13 +207,13 @@ Subsec. (g). Pub. L. 108–176, §149(b)(2), inserted “or section 47114(d)(3)(
 
 Subsec. (h). Pub. L. 108–176, §149(b)(3), added subsec. (h).
 
-2001—Subsec. (b)(2)(D). Pub. L. 107–71 added subpar. (D).
+<b>2001</b>—Subsec. (b)(2)(D). Pub. L. 107–71 added subpar. (D).
 
-2000—Subsec. (e)(2)(C). Pub. L. 106–181, §127(1), added subpar. (C) and struck out former subpar. (C) which read as follows: “the Secretary decides will enhance system-wide airport capacity significantly and meets the criteria of section 47115(d) of this title.”
+<b>2000</b>—Subsec. (e)(2)(C). Pub. L. 106–181, §127(1), added subpar. (C) and struck out former subpar. (C) which read as follows: “the Secretary decides will enhance system-wide airport capacity significantly and meets the criteria of section 47115(d) of this title.”
 
 Subsec. (e)(5). Pub. L. 106–181, §127(2), added par. (5) and struck out former par. (5) which read as follows: “A letter of intent issued under paragraph (1) of this subsection may not condition the obligation of amounts on the imposition of a passenger facility fee.”
 
-1996—Subsec. (b)(2)(C). Pub. L. 104–264, §144(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “if the Government's share is paid only with amounts apportioned under section 47114(c)(1)(A) and (2) of this title and if the cost is incurred—
+<b>1996</b>—Subsec. (b)(2)(C). Pub. L. 104–264, §144(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “if the Government's share is paid only with amounts apportioned under section 47114(c)(1)(A) and (2) of this title and if the cost is incurred—
 
 &emsp;“(i) during the fiscal year ending September 30, 1994;
 
@@ -223,7 +223,7 @@ Subsec. (e)(5). Pub. L. 106–181, §127(2), added par. (5) and struck out forme
 
 Subsec. (g). Pub. L. 104–264, §144(b), added subsec. (g).
 
-1994—Subsec. (b)(2). Pub. L. 103–429 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “if the cost is incurred—
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–429 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “if the cost is incurred—
 
 &emsp;“(A) after the grant agreement is executed and is for airport development or airport planning carried out after the grant agreement is executed; or
 
@@ -247,7 +247,7 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 Pub. L. 108–7, div. I, title III, §367, Feb. 20, 2003, 117 Stat. 423, provided that:
 
-“(a) The Under Secretary of Transportation for Security may issue a letter of intent to an airport committing to obligate from future budget authority an amount, not more than the Federal Government's share of the project's cost, for an airport security improvement project (including interest costs and costs of formulating the project) at the airport. The letter shall establish a schedule under which the Under Secretary will reimburse the airport for the Government's share of the project's costs, as amounts become available, if the airport, after the Under Secretary issues the letter, carries out the project without receiving amounts under Chapter 471 of title 49 \[United States Code\].
+“(a) The Under Secretary of Transportation for Security may issue a letter of intent to an airport committing to obligate from future budget authority an amount, not more than the Federal Government's share of the project's cost, for an airport security improvement project (including interest costs and costs of formulating the project) at the airport. The letter shall establish a schedule under which the Under Secretary will reimburse the airport for the Government's share of the project's costs, as amounts become available, if the airport, after the Under Secretary issues the letter,carries out the project without receiving amounts under Chapter 471 of title 49 \[United States Code\].
 
 “(b) The airport shall notify the Under Secretary of the airport's intent to carry out the airport security improvement project before the project begins.
 

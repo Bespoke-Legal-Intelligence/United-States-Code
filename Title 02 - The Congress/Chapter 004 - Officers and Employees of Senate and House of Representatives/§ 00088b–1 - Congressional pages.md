@@ -20,7 +20,7 @@ A person shall not serve as a page—
 
 #### Codification
 
-Repeal of subsecs. (c) and (d) of this section is based on section 304(a) of H.R. 4120, as reported July 9, 1981, which was enacted into permanent law by section 101(c) of Pub. L. 97–51 and amended by section 123 of Pub. L. 97–51.
+Repeal of subsecs. (c) and (d) of this section is based on section 304(a) of H.R. 4120, as reported July 9, 1981,which was enacted into permanent law by section 101(c) of Pub. L. 97–51 and amended by section 123 of Pub. L. 97–51.
 
 #### Amendments
 

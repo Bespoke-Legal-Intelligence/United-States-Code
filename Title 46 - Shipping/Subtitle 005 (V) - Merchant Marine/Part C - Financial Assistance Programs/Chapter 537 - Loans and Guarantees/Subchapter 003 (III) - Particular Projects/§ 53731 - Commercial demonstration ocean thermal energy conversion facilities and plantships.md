@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Under subchapter I of this chapter, the Administrator may guarantee or make a commitment to guarantee the payment of the principal of and interest on an obligation that aids in financing (including reimbursement of an obligor for expenditures previously made for) the construction, reconstruction, or reconditioning of a commercial demonstration ocean thermal energy conversion facility or plantship. This section may be used to guarantee obligations for a total of not more than 5 separate facilities and plantships or a demonstrated 400 megawatt capacity, whichever comes first.
+In General.—Under subchapter I of this chapter, the Administrator may guarantee ormake a commitment to guarantee the payment of the principal of and interest on an obligation that aids in financing (including reimbursement of an obligor for expenditures previously made for) the construction, reconstruction, or reconditioning of a commercial demonstration ocean thermal energy conversion facility or plantship. This section may be used to guarantee obligations for a total of not more than 5 separate facilities and plantships or a demonstrated 400 megawatt capacity, whichever comes first.
 
 (b)
 
@@ -118,9 +118,9 @@ In subsection (f)(2)(B), the word “conversion” is substituted for “convers
 
 #### Amendments
 
-2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(2)(H). See 2006 Amendment note below.
+<b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(2)(H). See 2006 Amendment note below.
 
 Pub. L. 110–181, §3522(a)(9)(D), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(2)(H), into this section by substituting “Administrator” for “Secretary” wherever appearing, except when followed by “of Energy”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-2006—Pub. L. 109–163, §3507(a)(2)(H), which directed the amendment of section 1279c of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–163, §3507(a)(2)(H), which directed the amendment of section 1279c of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes and Historical and Revision notes above.
 

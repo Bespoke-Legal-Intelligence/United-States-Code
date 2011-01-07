@@ -1,6 +1,6 @@
 ### §§2211 to 2216. Repealed. Pub. L. 105–394, title IV, §401, Nov. 13, 1998, 112 Stat. 3661
 
-Section 2211, Pub. L. 100–407, title I, §101, Aug. 19, 1988, 102 Stat. 1047; Pub. L. 103–218, title I, §101, Mar. 9, 1994, 108 Stat. 57; Pub. L. 105–220, title IV, §414(b)(1), Aug. 7, 1998, 112 Stat. 1242, authorized program.
+Section 2211, Pub. L. 100–407, title I, §101, Aug. 19, 1988, 102 Stat. 1047; Pub. L. 103–218, title I, §101, Mar. 9,1994, 108 Stat. 57; Pub. L. 105–220, title IV, §414(b)(1), Aug. 7, 1998, 112 Stat. 1242, authorized program.
 
 Section 2212, Pub. L. 100–407, title I, §102, Aug. 19, 1988, 102 Stat. 1052; Pub. L. 103–218, title I, §102, Mar. 9, 1994, 108 Stat. 63; Pub. L. 105–220, title IV, §414(b)(2), Aug. 7, 1998, 112 Stat. 1242, related to development grants.
 

@@ -70,7 +70,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 #### Amendments
 
-1990—Subsec. (d). Pub. L. 101–508 substituted heading for one which read: “Effect of distribution in liquidations to which section 332 applies” and amended text generally. Prior to amendment, text read as follows: “If—
+<b>1990</b>—Subsec. (d). Pub. L. 101–508 substituted heading for one which read: “Effect of distribution in liquidations to which section 332 applies” and amended text generally. Prior to amendment, text read as follows: “If—
 
 &emsp;“(1) an installment obligation is distributed in a liquidation to which section 332 (relating to complete liquidations of subsidiaries) applies, and
 
@@ -78,15 +78,15 @@ Provisions similar to those comprising this section were contained in former sec
 
 > then no gain or loss with respect to the distribution of such obligation shall be recognized by the distributing corporation.”
 
-1988—Subsec. (h). Pub. L. 100–647 added subsec. (h).
+<b>1988</b>—Subsec. (h). Pub. L. 100–647 added subsec. (h).
 
-1986—Subsec. (d). Pub. L. 99–514, §631(e)(9), amended subsec. (d) generally, substituting “liquidations to which section 332 applies” for “certain liquidations” in heading, striking out par. (1) designation, redesignating subpars. (A) and (B) as pars. (1) and (2), and striking out former par. (2) relating to liquidations to which section 337 applies.
+<b>1986</b>—Subsec. (d). Pub. L. 99–514, §631(e)(9), amended subsec. (d) generally, substituting “liquidations to which section 332 applies” for “certain liquidations” in heading, striking out par. (1) designation, redesignating subpars. (A) and (B) as pars. (1) and (2), and striking out former par. (2) relating to liquidations to which section 337 applies.
 
 Subsec. (e)(2)(B). Pub. L. 99–514, §1011(b)(1), substituted “section 806(b)(3)” for “section 806(c)(3)”.
 
 Subsec. (g). Pub. L. 99–514, §1842(c), inserted “(other than a transfer in trust)”.
 
-1984—Subsec. (d)(2). Pub. L. 98–369, §492(b)(3), struck out “1251(c),” after “1250(a),” in provision following subpar. (B).
+<b>1984</b>—Subsec. (d)(2). Pub. L. 98–369, §492(b)(3), struck out “1251(c),” after “1250(a),” in provision following subpar. (B).
 
 Pub. L. 98–369, §43(c)(2), substituted “1254(a), or 1276(a)” for “or 1254(a)”.
 
@@ -96,9 +96,9 @@ Subsec. (e)(2). Pub. L. 98–369, §211(b)(6)(B), substituted “as not related 
 
 Subsec. (g). Pub. L. 98–369, §421(b)(3), added subsec. (g).
 
-1983—Subsec. (d)(2). Pub. L. 97–448 substituted “under subsection (a)” for “under paragraph (1)” in second sentence.
+<b>1983</b>—Subsec. (d)(2). Pub. L. 97–448 substituted “under subsection (a)” for “under paragraph (1)” in second sentence.
 
-1980—Subsec. (d). Pub. L. 96–471, §2(c)(3), inserted last sentence providing that in the case of any installment obligation which would have met the requirements of subpars. (A) and (B) of par. (2) but for sections 337(f), gain shall be recognized to such corporation by reason of such distribution only to the extent gain would have been recognized under sections 337(f) if such corporation had sold or exchanged such installment obligation on the date of such distribution.
+<b>1980</b>—Subsec. (d). Pub. L. 96–471, §2(c)(3), inserted last sentence providing that in the case of any installment obligation which would have met the requirements of subpars. (A) and (B) of par. (2) but for sections 337(f), gain shall be recognized to such corporation by reason of such distribution only to the extent gain would have been recognized under sections 337(f) if such corporation had sold or exchanged such installment obligation on the date of such distribution.
 
 #### Effective Date of 1990 Amendment
 

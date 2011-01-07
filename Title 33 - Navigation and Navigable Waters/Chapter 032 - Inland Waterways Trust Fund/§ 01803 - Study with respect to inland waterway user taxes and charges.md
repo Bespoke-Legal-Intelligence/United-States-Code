@@ -118,7 +118,7 @@ Section 158 of the Water Resources Development Act of 1976 (Public Law 94–587)
 
 #### Amendments
 
-1995—Subsec. (f)(1). Pub. L. 104–88 substituted “as set forth in sections 10101 and 13101 of title 49” for “as set forth in the preamble to the Transportation Act of 1940”.
+<b>1995</b>—Subsec. (f)(1). Pub. L. 104–88 substituted “as set forth in sections 10101 and 13101 of title 49” for “as set forth in the preamble to the Transportation Act of 1940”.
 
 #### Effective Date of 1995 Amendment
 

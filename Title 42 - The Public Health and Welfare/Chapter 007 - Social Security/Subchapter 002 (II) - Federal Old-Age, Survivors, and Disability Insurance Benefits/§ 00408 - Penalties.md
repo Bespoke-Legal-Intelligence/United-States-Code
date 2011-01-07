@@ -90,7 +90,7 @@ Any individual or entity convicted of a felony under this section or under secti
 
 (3) Paragraph (1) shall not apply with respect to any criminal conduct involving both the conduct described in subsection (a)(7) of this section to which paragraph (1) applies and any other criminal conduct if such other conduct would be criminal conduct if the conduct described in subsection (a)(7) of this section were not committed.
 
-(Aug. 14, 1935, ch. 531, title II, §208, 49 Stat. 625; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1372; Aug. 28, 1950, ch. 809, title I, §109(c), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(b), 68 Stat. 1085; Pub. L. 85–840, title III, §310, Aug. 28, 1958, 72 Stat. 1034; Pub. L. 86–778, title II, §211(m), Sept. 13, 1960, 74 Stat. 958; Pub. L. 92–603, title I, §130(a), Oct. 30, 1972, 86 Stat. 1359; Pub. L. 94–455, title XII, §1211(a), (d), Oct. 4, 1976, 90 Stat. 1711, 1712; Pub. L. 97–123, §4(a), (b), Dec. 29, 1981, 95 Stat. 1663, 1664; Pub. L. 98–369, div. B, title VI, §2663(a)(5), July 18, 1984, 98 Stat. 1162; Pub. L. 98–460, §16(c)(2), Oct. 9, 1984, 98 Stat. 1811; Pub. L. 100–690, title VII, §7088, Nov. 18, 1988, 102 Stat. 4409; Pub. L. 101–508, title V, §§5121, 5130(a)(1),Nov. 5, 1990, 104 Stat. 1388–283, 1388–289; Pub. L. 103–296, title I, §107(a)(4), title III, §321(a)(12), Aug. 15, 1994, 108 Stat. 1478, 1536; Pub. L. 106–553, §1(a)(2) \[title VI, §635(c)(2)(1), (2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–117; Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180; Pub. L. 108–203, title II, §209(a), Mar. 2, 2004, 118 Stat. 513.)
+(Aug. 14, 1935, ch. 531, title II, §208, 49 Stat. 625; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1372; Aug. 28, 1950, ch. 809, title I, §109(c), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(b), 68 Stat. 1085; Pub. L. 85–840, title III, §310, Aug. 28, 1958, 72 Stat. 1034; Pub. L. 86–778, title II, §211(m), Sept. 13, 1960, 74 Stat. 958; Pub. L. 92–603, title I, §130(a), Oct. 30, 1972, 86 Stat. 1359; Pub. L. 94–455, title XII, §1211(a), (d), Oct. 4, 1976, 90 Stat. 1711, 1712; Pub. L. 97–123, §4(a), (b), Dec. 29, 1981, 95 Stat. 1663, 1664; Pub. L. 98–369, div. B, title VI, §2663(a)(5), July 18, 1984, 98 Stat. 1162; Pub. L. 98–460, §16(c)(2), Oct. 9, 1984, 98 Stat. 1811; Pub. L. 100–690, title VII, §7088, Nov. 18, 1988, 102 Stat. 4409; Pub. L. 101–508, title V, §§5121, 5130(a)(1), Nov. 5, 1990, 104 Stat. 1388–283, 1388–289; Pub. L. 103–296, title I, §107(a)(4), title III, §321(a)(12), Aug. 15, 1994, 108 Stat. 1478, 1536; Pub. L. 106–553, §1(a)(2) \[title VI, §635(c)(2)(1), (2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–117; Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180; Pub. L. 108–203, title II, §209(a), Mar. 2, 2004, 118 Stat. 513.)
 
 #### References in Text
 
@@ -108,19 +108,19 @@ Section 202 of the Immigration Reform and Control Act of 1986, referred to in su
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–203, §209(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+<b>2004</b>—Subsec. (b). Pub. L. 108–203, §209(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 108–203, §209(a)(1), (3), redesignated subsec. (b) as (c) and struck out at end: “In the case of any violation described in the preceding sentence, including a first such violation, if the court determines that such violation includes a willful misuse of funds by such person or entity, the court may also require that full or partial restitution of such funds be made to the individual for whom such person or entity was the certified payee.” Former subsec. (c) redesignated (d).
 
 Subsecs. (d), (e). Pub. L. 108–203, §209(a)(1), redesignated subsecs. (c) and (d) as (d) and (e), respectively.
 
-2000—Subsec. (a)(8) to (10). Pub. L. 106–553, which inserted “or” at end of par. (8) and added pars. (9) and (10), was repealed by Pub. L. 106–554, effective as if included in Pub. L. 106–553 on Dec. 21, 2000. Pars. (9) and (10) read as follows:
+<b>2000</b>—Subsec. (a)(8) to (10). Pub. L. 106–553, which inserted “or” at end of par. (8) and added pars. (9) and (10), was repealed by Pub. L. 106–554, effective as if included in Pub. L. 106–553 on Dec. 21, 2000. Pars. (9) and (10) read as follows:
 
 “(9) except as provided in section 1320b–23(d) of this title, knowingly and willfully displays or sells to the general public (as defined in section 1320b–23(g) of this title) any individual's social security number, or any identifiable derivative of such number, without the affirmatively expressed consent (as defined in section 1320b–23(c) of this title), electronically or in writing, of such individual; or
 
 “(10) obtains any individual's social security number, or any identifiable derivative of such number, for purposes of locating or identifying an individual with the intent to physically injure, harm, or use the identity of the individual for illegal purposes;”.
 
-1994—Subsec. (a)(6), (7). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing and “the Commissioner's authority” for “his authority” in par. (7)(A).
+<b>1994</b>—Subsec. (a)(6), (7). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing and “the Commissioner's authority” for “his authority” in par. (7)(A).
 
 Subsec. (c). Pub. L. 103–296, §321(a)(12), substituted “subsection (a)(7)” for “subsection (g)”.
 
@@ -128,33 +128,33 @@ Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security�
 
 Subsec. (d)(2)(A). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
 
-1990—Pub. L. 101–508, §5121, inserted “(a)” before “Whoever—”, redesignated former subsecs. (a) to (h) as pars. (1) to (8), respectively, of subsec. (a), in pars. (1) and (7) redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, inserted “(b)” before “Any person or other entity who is convicted”, inserted “(c)” before “Any individual or entity convicted of a felony”, and added subsec. (d).
+<b>1990</b>—Pub. L. 101–508, §5121, inserted “(a)” before “Whoever—”, redesignated former subsecs. (a) to (h) as pars. (1) to (8), respectively, of subsec. (a), in pars. (1) and (7) redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, inserted “(b)” before “Any person or other entity who is convicted”, inserted “(c)” before “Any individual or entity convicted of a felony”, and added subsec. (d).
 
 Pub. L. 101–508, §5130(a)(1), in the last undesignated paragraph substituted “section 405(c)(2) of this title” for “section 605(c)(2) of this title”.
 
-1988—Pub. L. 100–690 substituted “under title 18” for “not more than $5,000” in first undesignated par., substituted “under title 18” for “not more than $25,000” in second undesignated par., and inserted provisions at end defining for purposes of subsec. (g) “social security number” and “social security account number”.
+<b>1988</b>—Pub. L. 100–690 substituted “under title 18” for “not more than $5,000” in first undesignated par., substituted “under title 18” for “not more than $25,000” in second undesignated par., and inserted provisions at end defining for purposes of subsec. (g) “social security number” and “social security account number”.
 
-1984—Pub. L. 98–460 inserted provisions imposing a penalty of $25,000 or imprisonment for not more than five years, or both, on any person or other entity convicted for a second or subsequent violation of this section, if such violation is committed by such person or entity in his role as, or in applying to become, a certified payee under section 405(j) of this title, and also granting the court discretion, in any case, including a first offense, involving a willful misuse of funds, to require full or partial restitution, and prohibiting the certification of any individual or entity convicted of a felony under this section or under section 1383a(b) of this title.
+<b>1984</b>—Pub. L. 98–460 inserted provisions imposing a penalty of $25,000 or imprisonment for not more than five years, or both, on any person or other entity convicted for a second or subsequent violation of this section, if such violation is committed by such person or entity in his role as, or in applying to become, a certified payee under section 405(j) of this title, and also granting the court discretion, in any case, including a first offense, involving a willful misuse of funds, to require full or partial restitution, and prohibiting the certification of any individual or entity convicted of a felony under this section or under section 1383a(b) of this title.
 
 Subsecs. (f) to (h). Pub. L. 98–369 realigned margins of subsecs. (f) to (h).
 
-1981—Pub. L. 97–123 substituted provisions making violation of section a felony for provisions making it a misdemeanor, increased the punishment from one to five years and penalty from $1,000 to $5,000, and in subsec. (g), in opening paragraph, substituted “or for the purpose of obtaining anything of value from any person, or for any other purpose” for “or for any other purpose”, and added par. (3).
+<b>1981</b>—Pub. L. 97–123 substituted provisions making violation of section a felony for provisions making it a misdemeanor, increased the punishment from one to five years and penalty from $1,000 to $5,000, and in subsec. (g), in opening paragraph, substituted “or for the purpose of obtaining anything of value from any person, or for any other purpose” for “or for any other purpose”, and added par. (3).
 
-1976—Subsec. (g). Pub. L. 94–455, §1211(a), inserted “, or for any other purpose” after “entitled” in provisions preceding cl. (1).
+<b>1976</b>—Subsec. (g). Pub. L. 94–455, §1211(a), inserted “, or for any other purpose” after “entitled” in provisions preceding cl. (1).
 
 Subsec. (h). Pub. L. 94–455, §1211(d)(1), added subsec. (h).
 
-1972—Subsecs. (f), (g). Pub. L. 92–603 added subsecs. (f) and (g).
+<b>1972</b>—Subsecs. (f), (g). Pub. L. 92–603 added subsecs. (f) and (g).
 
-1960—Subsec. (a)(3). Pub. L. 86–778 substituted “section 403(f) of this title” for “section 403(e) of this title”.
+<b>1960</b>—Subsec. (a)(3). Pub. L. 86–778 substituted “section 403(f) of this title” for “section 403(e) of this title”.
 
-1958—Pub. L. 85–840 amended section generally, by, among other changes, inserting references to the Internal Revenue Code of 1954, and making penalty provisions applicable to cases (1) where false statements or representations as to whether wages were paid or received for employment, or whether net earnings from self-employment were derived, or whether a person entitled to benefits under this subchapter had earnings in or for a particular period, or as to the amount thereof, are made for the purpose of obtaining or increasing benefits; (2) where false statements or representations are made in any application for disability determination; (3) where a person intentionally conceals or fails to disclose knowledge of any event affecting his or another's initial or continued right to payment, and (4) where a person converts a payment that he received for the use and benefit of another.
+<b>1958</b>—Pub. L. 85–840 amended section generally, by, among other changes, inserting references to the Internal Revenue Code of 1954, and making penalty provisions applicable to cases (1) where false statements or representations as to whether wages were paid or received for employment, or whether net earnings from self-employment were derived, or whether a person entitled to benefits under this subchapter had earnings in or for a particular period, or as to the amount thereof, are made for the purpose of obtaining or increasing benefits; (2) where false statements or representations are made in any application for disability determination; (3) where a person intentionally conceals or fails to disclose knowledge of any event affecting his or another's initial or continued right to payment, and (4) where a person converts a payment that he received for the use and benefit of another.
 
-1954—Act Sept. 1, 1954, made it clear that the penalty provisions of the section extend to cases of false statements or representations as to the amount of net earnings from self-employment derived or the period during which derived.
+<b>1954</b>—Act Sept. 1, 1954, made it clear that the penalty provisions of the section extend to cases of false statements or representations as to the amount of net earnings from self-employment derived or the period during which derived.
 
-1950—Act Aug. 28, 1950, substituted “subchapter E of chapter 1, or subchapter A or E of chapter 9 of the Internal Revenue Code of 1939” for “the Federal Insurance Contributions Act”.
+<b>1950</b>—Act Aug. 28, 1950, substituted “subchapter E of chapter 1, or subchapter A or E of chapter 9 of the Internal Revenue Code of 1939” for “the Federal Insurance Contributions Act”.
 
-1939—Act Aug. 10, 1939, amended section generally, incorporating provisions of section 409 of this title.
+<b>1939</b>—Act Aug. 10, 1939, amended section generally, incorporating provisions of section 409 of this title.
 
 #### Effective Date of 2004 Amendment
 

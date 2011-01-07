@@ -6,7 +6,7 @@ The officers and employees of the Institute, except the director, shall be appoi
 
 #### Amendments
 
-1988—Pub. L. 100–418 substituted “Institute” for “bureau”.
+<b>1988</b>—Pub. L. 100–418 substituted “Institute” for “bureau”.
 
 #### Change of Name
 
@@ -18,23 +18,7 @@ Act Feb. 14, 1903, transferred power and authority of Secretary of the Treasury 
 
 #### Procurement of Temporary and Intermittent Services
 
-Pub. L. 110–69, title III, §3009, Aug. 9, 2007, 121 Stat. 592, provided that:
-
-“(a)
-
-In General.—The Director of the National Institute of Standards and Technology may procure the temporary or intermittent services of experts or consultants (or organizations thereof) in accordance with section 3109(b) of title 5, United States Code, to assist with urgent or short-term research projects.
-
-“(b)
-
-Extent of Authority.—A procurement under this section may not exceed 1 year in duration, and the Director shall procure no more than 200 experts and consultants per year.
-
-“(c)
-
-Sunset.—This section shall cease to be effective after September 30, 2010.
-
-“(d)
-
-Report to Congress.—Not later than 2 years after the date of the enactment of this Act \[Aug. 9, 2007\], the Comptroller General shall submit to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on whether additional safeguards would be needed with respect to the use of authorities granted under this section if such authorities were to be made permanent.”
+Pub. L. 110–69, title III, §3009, Aug. 9, 2007, 121 Stat. 592, permitted the Director of the National Institute of Standards and Technology, until Sept. 30, 2010, to procure the temporary or intermittent services of no more than 200 experts or consultants per year to assist with urgent or short-term research projects and required the Comptroller General to submit to Congress, no later than 2 years after Aug. 9, 2007, a report on possible additional safeguards needed should the authority under this section be made permanent.
 
 #### Demonstration Project Relating to Personnel Management
 

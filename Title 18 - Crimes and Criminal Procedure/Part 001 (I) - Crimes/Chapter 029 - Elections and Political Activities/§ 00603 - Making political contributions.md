@@ -30,15 +30,15 @@ Section 302(e)(1) of the Federal Election Campaign Act of 1971, referred to in s
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-1993—Subsec. (c). Pub. L. 103–94 added subsec. (c).
+<b>1993</b>—Subsec. (c). Pub. L. 103–94 added subsec. (c).
 
-1980—Pub. L. 96–187 substituted provisions relating to the making of political contributions for provisions relating to the place of solicitation. See section 607 of this title.
+<b>1980</b>—Pub. L. 96–187 substituted provisions relating to the making of political contributions for provisions relating to the place of solicitation. See section 607 of this title.
 
-1951—Act Oct. 31, 1951, struck out “from any such person” after “purpose”.
+<b>1951</b>—Act Oct. 31, 1951, struck out “from any such person” after “purpose”.
 
 #### Effective Date of 1993 Amendment; Savings Provision
 

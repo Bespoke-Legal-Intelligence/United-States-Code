@@ -14,7 +14,7 @@ Subsection (c) of section 3 of act March 3, 1927, abolished the Division of Cust
 
 #### Amendments
 
-1954—Subsec. (a). Act Sept. 3, 1954, repealed subsec. (a) which related to the delegation of duty to Commissioner of Customs by Secretary of the Treasury.
+<b>1954</b>—Subsec. (a). Act Sept. 3, 1954, repealed subsec. (a) which related to the delegation of duty to Commissioner of Customs by Secretary of the Treasury.
 
 #### Change of Name
 

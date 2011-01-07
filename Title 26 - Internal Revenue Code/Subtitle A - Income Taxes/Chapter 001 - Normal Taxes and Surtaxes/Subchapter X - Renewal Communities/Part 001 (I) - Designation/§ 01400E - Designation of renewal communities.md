@@ -62,7 +62,7 @@
 
 #### (C) Procedural rules
 
-&emsp;&emsp;The Secretary of Housing and Urban Development shall not make any designation of a nominated area as a renewal community under paragraph (2) unless—
+&emsp;&emsp;The Secretary of Housing and Urban Development shall not make any designationof a nominated area as a renewal community under paragraph (2) unless—
 
 &emsp;&emsp;&emsp;(i) the local governments and the States in which the nominated area is located have the authority—
 
@@ -156,7 +156,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Housing and Urban Development may designate any nominated area as a renewal community under subsection (a) only if—
+&emsp;The Secretary of Housing and Urban Development may designate any nominated area asa renewal community under subsection (a) only if—
 
 &emsp;&emsp;(A) the local government and the State in which the area is located agree in writing that, during any period during which the area is a renewal community, such governments will follow a specified course of action which meets the requirements of paragraph (2) and is designed to reduce the various burdens borne by employers or employees in such area, and
 
@@ -252,7 +252,7 @@ For purposes of this subchapter—
 
 #### (3) Special rule for certain census tracts with low population in 2000
 
-&emsp;At the request of all governments which nominated an area as a renewal community,the Secretary of Housing and Urban Development may expand the area of such community to include any census tract if—
+&emsp;At the request of all governments which nominated an area as a renewal community, the Secretary of Housing and Urban Development may expand the area of such community to include any census tract if—
 
 &emsp;&emsp;(A) either—
 
@@ -278,9 +278,9 @@ Section 119(b)(2) of the Housing and Community Development Act of 1974, referred
 
 #### Amendments
 
-2005—Subsec. (c)(4)(A)(ii). Pub. L. 109–135 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2005</b>—Subsec. (c)(4)(A)(ii). Pub. L. 109–135 substituted “Government Accountability Office” for “General Accounting Office”.
 
-2004—Subsec. (g). Pub. L. 108–357 added subsec. (g).
+<b>2004</b>—Subsec. (g). Pub. L. 108–357 added subsec. (g).
 
 #### Effective Date of 2004 Amendment
 
@@ -393,4 +393,6 @@ Extension.—Notwithstanding subsection (a), the Secretary may postpone the term
 #### “SEC. 160. EFFECTIVE DATE.
 
 “This part shall be effective 30 days after the date of its enactment \[Dec. 21, 2000\].”
+
+<i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

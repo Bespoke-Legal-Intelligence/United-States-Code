@@ -12,7 +12,7 @@ For purposes of subsection (a), except as provided in subsection (c), the term �
 
 #### (1) General rule
 
-&emsp;For purposes of this section, the term “contribution to the capital of the taxpayer” includes any amount of money or other property received from any person (whether or not a shareholder) by a regulated public utility which provides water or sewerage disposal services if—
+&emsp;For purposes of this section, the term “contribution to the capital of the taxpayer” includes any amount of money or other propertyreceived from any person (whether or not a shareholder) by a regulated public utility which provides water or sewerage disposal services if—
 
 &emsp;&emsp;(A) such amount is a contribution in aid of construction,
 
@@ -78,11 +78,11 @@ If the taxpayer for any taxable year treats an amount as a contribution to the c
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–188, §1613(a)(2), inserted “except as provided in subsection (c),” before “the term”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–188, §1613(a)(2), inserted “except as provided in subsection (c),” before “the term”.
 
 Subsecs. (c) to (e). Pub. L. 104–188, §1613(a)(1), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
-1986—Subsec. (b). Pub. L. 99–514, §824(a), added subsec. (b) and struck out former subsec. (b) relating to contributions in aid of construction, containing par. (1) general rule, par. (2) expenditure rule, par. (3) definitions, and par. (4) disallowance of deductions and investment credit; adjusted basis.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514, §824(a), added subsec. (b) and struck out former subsec. (b) relating to contributions in aid of construction, containing par. (1) general rule, par. (2) expenditure rule, par. (3) definitions, and par. (4) disallowance of deductions and investment credit; adjusted basis.
 
 Subsecs. (c), (d). Pub. L. 99–514, §824(a), redesignated former subsec. (d) as (c) and struck out former subsec. (c), statute of limitations, which read as follows: “If the taxpayer for any taxable year treats an amount as a contribution to the capital of the taxpayer described in subsection (b), then—
 
@@ -96,11 +96,11 @@ Subsecs. (c), (d). Pub. L. 99–514, §824(a), redesignated former subsec. (d) a
 
 &emsp;“(2) such deficiency may be assessed before the expiration of such 3-year period notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.”
 
-1984—Subsecs. (c), (d). Pub. L. 98–369 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1984</b>—Subsecs. (c), (d). Pub. L. 98–369 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1980—Subsec. (c). Pub. L. 96–589 designated existing provisions as par. (1) and added par. (2).
+<b>1980</b>—Subsec. (c). Pub. L. 96–589 designated existing provisions as par. (1) and added par. (2).
 
-1978—Subsec. (b)(1). Pub. L. 95–600, §364(a)(1), (2), substituted in provisions preceding subpar. (A) “electric energy, gas (through a local distribution system or transportation by pipeline), water,” for “water” and in subpar. (B) “electric energy, gas, steam, water,” for “water”.
+<b>1978</b>—Subsec. (b)(1). Pub. L. 95–600, §364(a)(1), (2), substituted in provisions preceding subpar. (A) “electric energy, gas (through a local distribution system or transportation by pipeline), water,” for “water” and in subpar. (B) “electric energy, gas, steam, water,” for “water”.
 
 Subsec. (b)(2)(A)(ii). Pub. L. 95–600, §364(a)(3), substituted “electric energy, gas, steam, water,” for “water”.
 
@@ -108,7 +108,7 @@ Subsec. (b)(3)(A). Pub. L. 95–600, §364(a)(4), substituted “line to an elec
 
 Subsec. (b)(3)(C). Pub. L. 95–600, §364(a)(5), substituted “electric energy, gas, water,” for “water” and inserted “(including in the case of a gas transmission utility, the provision of gas services by sale for resale to the general public)” after “members of the general public”.
 
-1976—Subsecs. (b), (c). Pub. L. 94–455, §2120(a), added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>1976</b>—Subsecs. (b), (c). Pub. L. 94–455, §2120(a), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 #### Effective Date of 1996 Amendment
 

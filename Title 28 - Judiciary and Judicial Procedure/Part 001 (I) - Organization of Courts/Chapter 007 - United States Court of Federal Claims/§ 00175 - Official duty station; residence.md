@@ -14,11 +14,11 @@ A prior section 175, act June 25, 1948, ch. 646, 62 Stat. 898, required three ju
 
 #### Amendments
 
-2000—Subsec. (c). Pub. L. 106–518 added subsec. (c).
+<b>2000</b>—Subsec. (c). Pub. L. 106–518 added subsec. (c).
 
-1992—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Pub. L. 97–164 amended section generally, substituting provisions relating to the official duty station and residence of Claims Court judges for provisions relating to assignment of judges, divisions, hearings, quorums and decisions. See section 174 of this title.
+<b>1982</b>—Pub. L. 97–164 amended section generally, substituting provisions relating to the official duty station and residence of Claims Court judges for provisions relating to assignment of judges, divisions, hearings, quorums and decisions. See section 174 of this title.
 
 #### Effective Date of 1992 Amendment
 

@@ -56,13 +56,13 @@ Section 2412 of this title, referred to in subsec. (b)(3), was amended generally
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–418, §1621(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The President shall establish an interagency organization to assist him in carrying out the functions vested in him by this subchapter and sections 2251, 2252, and 2253 of this title. Such organization shall, in addition to the Special Representative for Trade Negotiations, be composed of the heads of such departments and of such other officers as the President shall designate. It shall meet at such times and with respect to such matters as the President or the chairman of the organization shall direct. The organization may invite the participation in its activities of any agency not represented in the organization when matters of interest to such agency are under consideration.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–418, §1621(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The President shall establish an interagency organization to assist him in carrying out the functions vested in him by this subchapter and sections 2251, 2252, and 2253 of this title. Such organization shall, in addition to the Special Representative for Trade Negotiations, be composed of the heads of such departments and of such other officers as the President shall designate. It shall meet at such times and with respect to such matters as the President or the chairman of the organization shall direct. The organization may invite the participation in its activities of any agency not represented in the organization when matters of interest to such agency are under consideration.”
 
 Subsec. (b). Pub. L. 100–418, §1621(a)(2), inserted at end: “In carrying out its functions under this subsection, the organization shall take into account the advice of the congressional advisers and private sector advisory committees, as well as that of any committee or other body established to advise the department, agency, or office which a member of the organization heads.”
 
-1979—Subsecs. (b)(3), (c). Pub. L. 96–39 substituted “section 2412(b)(2) of this title” for “section 2411(c) and (d) of this title”.
+<b>1979</b>—Subsecs. (b)(3), (c). Pub. L. 96–39 substituted “section 2412(b)(2) of this title” for “section 2411(c) and (d) of this title”.
 
-1975—Subsec. (a). Pub. L. 93–618, §602(b)(1), substituted reference to sections 2251, 2252, and 2253 of this title for reference to sections 1981 and 1982 of this title.
+<b>1975</b>—Subsec. (a). Pub. L. 93–618, §602(b)(1), substituted reference to sections 2251, 2252, and 2253 of this title for reference to sections 1981 and 1982 of this title.
 
 Subsec. (b)(2). Pub. L. 93–618, §602(b)(2), (3), substituted “reports submitted to him” for “reports with respect to tariff adjustment submitted to him” and “section 2251(d) of this title” for “section 1901(e) of this title.”
 

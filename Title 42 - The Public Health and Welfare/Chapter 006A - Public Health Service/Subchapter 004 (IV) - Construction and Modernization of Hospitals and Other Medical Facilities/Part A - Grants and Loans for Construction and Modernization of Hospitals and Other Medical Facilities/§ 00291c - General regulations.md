@@ -46,9 +46,9 @@ Provisions similar to those comprising this section were contained in a prior se
 
 #### Amendments
 
-1970—Subsec. (a). Pub. L. 91–296 struck out from cl. (1) provisions requiring that States give special consideration for projects for hospitals serving rural areas but inserted provisions making such preference optional with each State and added cls. (4) to (7).
+<b>1970</b>—Subsec. (a). Pub. L. 91–296 struck out from cl. (1) provisions requiring that States give special consideration for projects for hospitals serving rural areas but inserted provisions making such preference optional with each State and added cls. (4) to (7).
 
-1964—Subsec. (a)(4). Pub. L. 88–581 struck out cl. (4) relating to hospital facilities which “will include new or expanded facilities for nurse training”.
+<b>1964</b>—Subsec. (a)(4). Pub. L. 88–581 struck out cl. (4) relating to hospital facilities which “will include new or expanded facilities for nurse training”.
 
 #### Effective Date of 1970 Amendment
 

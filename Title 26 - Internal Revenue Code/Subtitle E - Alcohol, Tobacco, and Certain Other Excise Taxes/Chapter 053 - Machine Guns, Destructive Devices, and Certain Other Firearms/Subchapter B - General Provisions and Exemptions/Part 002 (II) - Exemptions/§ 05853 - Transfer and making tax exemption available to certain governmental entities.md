@@ -22,5 +22,5 @@ Provisions similar to those comprising this section were contained in prior sect
 
 #### Amendments
 
-1976—Subsec. (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

@@ -14,7 +14,7 @@ Congress finds the following:
 
 &emsp;(6) Despite killing or capturing hundreds of al Qaeda operatives and other terrorists—including major al Qaeda leaders, such as Khalid Sheikh Muhammad, Ramzi bin al-Shibh, and Abu Faraj al-Libi—the FATA, parts of the NWFP, Quetta in Balochistan, and Muridke in Punjab remain a sanctuary for al Qaeda, the Afghan Taliban, the Terikh-e Taliban and affiliated groups from which these groups organize terrorist actions against Pakistan and other countries.
 
-&emsp;(7) The security forces of Pakistan have struggled to contain a Taliban-backed insurgency, recently taking direct action against those who threaten Pakistan's security and stability, including military operations in the FATA and the NWFP.
+&emsp;(7) The security forces of Pakistan have struggled to contain a Taliban-backed insurgency, recently taking direct action againstthose who threaten Pakistan's security and stability, including military operations in the FATA and the NWFP.
 
 &emsp;(8) On March 27, 2009, President Obama noted, “Multiple intelligence estimates have warned that al Qaeda is actively planning attacks on the United States homeland from its safe-haven in Pakistan.”.
 

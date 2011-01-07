@@ -34,7 +34,7 @@ The Congress finds that—
 
 &emsp;(15) a Law of the Sea Treaty is likely to establish financial arrangements which obligate the United States or United States citizens to make payments to an international organization with respect to exploration or recovery of the hard mineral resources of the deep seabed; and
 
-&emsp;(16) legislation is required to establish an interim legal regime under which technology can be developed and the exploration and recovery of the hard mineral resources of thedeep seabed can take place until such time as a Law of the Sea Treaty enters into force with respect to the United States.
+&emsp;(16) legislation is required to establish an interim legal regime under which technology can be developed and the exploration and recovery of the hard mineral resources of the deep seabed can take place until such time as a Law of the Sea Treaty enters into force with respect to the United States.
 
 #### (b) Purposes
 
@@ -58,7 +58,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–507, §1, Oct. 21, 1986, 100 Stat. 1847, provided that: “This Act \[amending section 1470 of this title\] may be cited as the ‘Deep Seabed Hard Mineral Resources Reauthorization Act of 1986’.”
+Pub. L. 99–507, §1, Oct. 21, 1986, 100 Stat. 1847, provided that: “This Act \[amending section 1470 of this title\]may be cited as the ‘Deep Seabed Hard Mineral Resources Reauthorization Act of 1986’.”
 
 #### Short Title
 

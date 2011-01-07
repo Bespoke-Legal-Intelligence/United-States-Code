@@ -108,9 +108,9 @@ The Superfund Amendments and Reauthorization Act of 1986, referred to in subsec.
 
 #### Amendments
 
-1990—Subsec. (d)(3)(B). Pub. L. 101–508 substituted “December 31, 1995” for “December 31, 1991”.
+<b>1990</b>—Subsec. (d)(3)(B). Pub. L. 101–508 substituted “December 31, 1995” for “December 31, 1991”.
 
-1986—Subsec. (b). Pub. L. 99–509 inserted at end “In the case of the tax imposed by section 4611, paragraph (1) shall apply only to so much of such tax as is attributable to the Hazardous Substance Superfund financing rate under section 4611(c).”
+<b>1986</b>—Subsec. (b). Pub. L. 99–509 inserted at end “In the case of the tax imposed by section 4611, paragraph (1) shall apply only to so much of such tax as is attributable to the Hazardous Substance Superfund financing rate under section 4611(c).”
 
 #### Effective Date of 1986 Amendment
 

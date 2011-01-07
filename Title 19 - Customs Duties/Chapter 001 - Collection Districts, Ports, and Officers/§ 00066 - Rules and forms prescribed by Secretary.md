@@ -10,7 +10,7 @@ R.S. §251 derived from acts Feb. 10, 1830, ch. 11, §§14, 15, 3 Stat. 543; Aug
 
 #### Amendments
 
-1970—Pub. L. 91–271 substituted reference to customs officers for reference to collectors.
+<b>1970</b>—Pub. L. 91–271 substituted reference to customs officers for reference to collectors.
 
 #### Effective Date of 1970 Amendment
 

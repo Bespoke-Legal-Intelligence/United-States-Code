@@ -10,7 +10,7 @@ For purposes of this chapter—
 
 &emsp;(4) the term “small organization” means any not-for-profit enterprise which is independently owned and operated and is not dominant in its field, unless an agency establishes, after opportunity for public comment, one or more definitions of such term which are appropriate to the activities of the agency and publishes such definition(s) in the Federal Register;
 
-&emsp;(5) the term “small governmental jurisdiction” means governments of cities, counties, towns, townships, villages, school districts, or special districts, with a population of less than fifty thousand, unless an agency establishes, after opportunity for public comment,one or more definitions of such term which are appropriate to the activities of the agency and which are based on such factors as location in rural or sparsely populated areas or limited revenues due to the population of such jurisdiction, and publishes such definition(s) in the Federal Register;
+&emsp;(5) the term “small governmental jurisdiction” means governments of cities, counties, towns, townships, villages, school districts, or special districts, with a population of less than fifty thousand, unless an agency establishes, after opportunity for public comment, one or more definitions of such term which are appropriate to the activities of the agency and which are based on such factors as location in rural or sparsely populated areas or limited revenues due to the population of such jurisdiction, and publishes such definition(s) in the Federal Register;
 
 &emsp;(6) the term “small entity” shall have the same meaning as the terms “small business”, “small organization” and “small governmental jurisdiction” defined in paragraphs (3), (4) and (5) of this section; and
 
@@ -240,7 +240,7 @@ Compliance Guide.—
 
 &emsp;“(1)
 
-In general.—For each rule or group of related rules for which an agency is required to prepare a final regulatory flexibility analysis under section 605(b) \[probably should be “section 604”\] of title 5, United States Code, the agency shall publish 1 or more guides to assist small entities in complyingwith the rule and shall entitle such publications ‘small entity compliance guides’.
+In general.—For each rule or group of related rules for which an agency is required to prepare a final regulatory flexibility analysis under section 605(b) \[probably should be “section 604”\] of title 5, United States Code, the agency shall publish 1 or more guides to assist small entities in complying with the rule and shall entitle such publications ‘small entity compliance guides’.
 
 &emsp;“(2)
 
@@ -346,7 +346,7 @@ Reporting.—Each agency regulating the activities of small business shall repor
 
 “(a)
 
-In General.—Each agency regulating the activities of small entities shall establish a policy or program within 1 year of enactment of this section \[Mar. 29, 1996\] to provide for the reduction, and under appropriate circumstances for the waiver, of civil penalties for violations of a statutory or regulatory requirementby a small entity. Under appropriate circumstances, an agency may consider ability to pay in determining penalty assessments on small entities.
+In General.—Each agency regulating the activities of small entities shall establish a policy or program within 1 year of enactment of this section \[Mar. 29, 1996\] to provide for the reduction, and under appropriate circumstances for the waiver, of civil penalties for violations of a statutory or regulatory requirement by a small entity. Under appropriate circumstances, an agency may consider ability to pay in determining penalty assessments on small entities.
 
 “(b)
 
@@ -422,7 +422,7 @@ Section 2 of Pub. L. 96–354 provided that:
 
 #### Executive Order No. 12291
 
-Ex. Ord. No. 12291, Feb. 17, 1981, 46 F.R. 13193, which established requirements for agencies to follow in promulgating regulations, reviewing existing regulations,and developing legislative proposals concerning regulation, was revoked by Ex. Ord. No. 12866, §11, Sept. 30, 1993, 58 F.R. 51735, set out below.
+Ex. Ord. No. 12291, Feb. 17, 1981, 46 F.R. 13193, which established requirements for agencies to follow in promulgating regulations, reviewing existing regulations, and developing legislative proposals concerning regulation, was revoked by Ex. Ord. No. 12866, §11, Sept. 30, 1993, 58 F.R. 51735, set out below.
 
 #### Executive Order No. 12498
 
@@ -574,7 +574,7 @@ Section 1. <i>Statement of Regulatory Philosophy and Principles</i>.
 
 &emsp;(4) In setting regulatory priorities, each agency shall consider, to the extent reasonable, the degree and nature of the risks posed by various substances or activities within its jurisdiction.
 
-&emsp;(5) When an agency determines that a regulation is the best available method of achieving the regulatory objective, it shall design its regulations in the most cost-effective manner to achieve the regulatory objective. In doing so, each agency shall consider incentives for innovation, consistency, predictability, the costs of enforcement and compliance (to the government, regulated entities, and the public), flexibility, distributive impacts, and equity.
+&emsp;(5) When an agency determines that a regulation is the best available method of achieving the regulatory objective, it shall design its regulations in the mostcost-effective manner to achieve the regulatory objective. In doing so, each agency shall consider incentives for innovation, consistency, predictability, the costs of enforcement and compliance (to the government, regulated entities, and the public), flexibility, distributive impacts, and equity.
 
 &emsp;(6) Each agency shall assess both the costs and the benefits of the intended regulation and, recognizing that some costs and benefits are difficult to quantify, propose or adopt a regulation only upon a reasoned determination that the benefits of the intended regulation justify its costs.
 
@@ -662,7 +662,7 @@ Sec. 4. <i>Planning Mechanism</i>. In order to have an effective regulatory prog
 
 Sec. 5. <i>Existing Regulations</i>. In order to reduce the regulatory burden on the American people, their families, their communities, their State, local, and tribal governments, and their industries; to determine whether regulations promulgated by the executive branch of the Federal Government have become unjustified or unnecessary as a result of changed circumstances; to confirm that regulations are both compatible with each other and not duplicative or inappropriately burdensome in the aggregate; to ensure that all regulations are consistent with the President's priorities and the principles set forth in this Executive order, within applicable law; and to otherwise improve the effectiveness of existing regulations: (a) Within 90 days of the date of this Executive order, each agency shall submit to OIRA a program, consistent with its resources and regulatory priorities, under which the agency will periodically review its existing significant regulations to determine whether any such regulations should be modified or eliminated so as to make the agency's regulatory program more effective in achieving the regulatory objectives, less burdensome, or in greater alignment with the President's priorities and the principles set forth in this Executive order. Any significant regulations selected for review shall be included in the agency's annual Plan. The agency shall also identify any legislative mandates that require the agency to promulgate or continue to impose regulations that the agency believes are unnecessary or outdated by reason of changed circumstances.
 
-(b) The Administrator of OIRA shall work with the Regulatory Working Group and other interested entities to pursue the objectives of this section. State, local, and tribal governments are specifically encouraged to assist in the identification of regulations that impose significant or unique burdens on those governmental entities and that appear to have outlived their justification or be otherwise inconsistent with the public interest.
+(b) The Administrator of OIRA shall work with the Regulatory Working Group and other interested entities to pursue the objectives of this section. State,local, and tribal governments are specifically encouraged to assist in the identification of regulations that impose significant or unique burdens on those governmental entities and that appear to have outlived their justification or be otherwise inconsistent with the public interest.
 
 (c) The Vice President, in consultation with the Advisors, may identify for review by the appropriate agency or agencies other existing regulations of an agency or groups of regulations of more than one agency that affect a particular group, industry, or sector of the economy, or may identify legislative mandates that may be appropriate for reconsideration by the Congress.
 
@@ -720,7 +720,7 @@ Sec. 6. <i>Centralized Review of Regulations</i>. The guidelines set forth below
 
 &emsp;&emsp;(A) Only the Administrator of OIRA (or a particular designee) shall receive oral communications initiated by persons not employed by the executive branch of the Federal Government regarding the substance of a regulatory action under OIRA review;
 
-&emsp;&emsp;(B) All substantive communications between OIRA personnel and persons not employed by the executive branch of the Federal Government regarding a regulatory action under review shall begoverned by the following guidelines: (i) A representative from the issuing agency shall be invited to any meeting between OIRA personnel and such person(s);
+&emsp;&emsp;(B) All substantive communications between OIRA personnel and persons not employed by the executive branch of the Federal Government regarding a regulatory action under review shall be governed by the following guidelines: (i) A representative from the issuing agency shall be invited to any meeting between OIRA personnel and such person(s);
 
 &emsp;&emsp;(ii) OIRA shall forward to the issuing agency, within 10 working days of receipt of the communication(s), all written communications, regardless of format, between OIRA personnel and any person who is not employed by the executive branch of the Federal Government, and the dates and names of individuals involved in all substantive oral communications (including meetings to which an agency representative was invited, but did not attend, and telephone conversations between OIRA personnel and any such persons); and
 
@@ -772,7 +772,7 @@ Ex. Ord. No. 13095, Aug. 5, 1998, 63 F.R. 42565, which suspended Ex. Ord. No. 13
 
 Ex. Ord. No. 13107, Dec. 10, 1998, 63 F.R. 68991, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and bearing in mind the obligations of theUnited States pursuant to the International Covenant on Civil and Political Rights (ICCPR), the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (CAT), the Convention on the Elimination of All Forms of Racial Discrimination (CERD), and other relevant treaties concerned with the protection and promotion of human rights to which the United States is now or may become a party in the future, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and bearing in mind the obligations of the United States pursuant to the International Covenant on Civil and Political Rights (ICCPR), the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (CAT), the Convention on the Elimination of All Forms of Racial Discrimination (CERD), and other relevant treaties concerned with the protection and promotion of human rights to which the United States is now or may become a party in the future, it is hereby ordered as follows:
 
 Section 1. <i>Implementation of Human Rights Obligations</i>. (a) It shall be the policy and practice of the Government of the United States, being committed to the protection and promotion of human rights and fundamental freedoms, fully to respect and implement its obligations under the international human rights treaties to which it is a party, including the ICCPR, the CAT, and the CERD.
 
@@ -996,7 +996,7 @@ Sec. 6. <i>Responsibilities of All Executive Departments and Agencies</i>. All e
 
 Sec. 7. <i>Administration and Judicial Review</i>. (a) The agencies’ actions directed by this Executive Order shall be carried out subject to the availability of appropriations and to the extent permitted by law.
 
-(b) This order does not create any right or benefit, substantive or procedural, enforceable at law or equity against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+(b) This order does not create any right or benefit, substantive or procedural, enforceable at law or equityagainst the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1036,11 +1036,11 @@ Sec. 8. <i>Judicial Review</i>. This order is intended only to improve the inter
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 13279. Equal Protection of the Laws for Faith-Based and Community Organizations
+#### Ex. Ord. No. 13279. Equal Protection of the Laws for Faith-Based and Other Neighborhood Organizations
 
-Ex. Ord. No. 13279, Dec. 12, 2002, 67 F.R. 77141, as amended by Ex. Ord. No. 13403, §2, May 12, 2006, 71 F.R. 28543, provided:
+Ex. Ord. No. 13279, Dec. 12, 2002, 67 F.R. 77141, as amended by Ex. Ord. No. 13403, §2, May 12, 2006, 71 F.R. 28543; Ex. Ord. No. 13559, Nov. 17, 2010, 75 F.R. 71319, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 121(a) of title 40, United States Code, and section 301 of title 3, United States Code, and in order to guide Federal agencies in formulating and developing policies with implications for faith-based organizations and other community organizations, to ensure equal protection of the laws for faith-based and community organizations, to further the national effort to expand opportunities for, and strengthen the capacity of, faith-based and other community organizations so that they may better meet social needs in America's communities, and to ensure the economical and efficient administration and completion of Government contracts, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 121(a) of title 40, United States Code, and section 301 of title 3, United States Code, and in order to guide Federal agencies in formulating and developing policies with implications for faith-based organizations and other other \[sic\] neighborhood organizations, to ensure equal protection of the laws for faith-based and other neighborhood organizations, to further the national effort to expand opportunities for, and strengthen the capacity of, faith-based and other other \[sic\] neighborhood organizations so that they may better meet social needs in America's communities, and to ensure the economical and efficient administration and completion of Government contracts, it is hereby ordered as follows:
 
 Section 1. <i>Definitions</i>. For purposes of this order:
 
@@ -1066,41 +1066,109 @@ Section 1. <i>Definitions</i>. For purposes of this order:
 
 &emsp;(ix) services related to the provision of assistance for housing under Federal law.
 
-(c) “Policies that have implications for faith-based and community organizations” refers to all policies, programs, and regulations, including official guidance and internal agency procedures, that have significant effects on faith-based organizations participating in or seeking to participate in social service programs supported with Federal financial assistance.
+(c) “Policies that have implications for faith-based and other neighborhood organizations” refers to all policies, programs, and regulations, including official guidance and internal agency procedures, that have significant effects on faith-based organizations participating in or seeking to participate in social service programs supported with Federal financial assistance.
 
 (d) “Agency” means a department or agency in the executive branch.
 
-(e) “Specified agency heads” mean \[sic.\] the Attorney General, the Secretaries of Agriculture, Commerce, Education, Health and Human Services, Homeland Security, Housing and Urban Development, Labor, and Veterans Affairs, the Administrators of the Agency for International Development and the Small Business Administration, and the head of any other department or agency in the executive branch in which the President creates a Center for Faith-Based and Community Initiatives.
+(e) “Specified agency heads” means:
 
-Sec. 2. <i>Fundamental Principles and Policymaking Criteria.</i>
+(i) the Attorney General;
 
-In formulating and implementing policies that have implications for faith-based and community organizations, agencies that administer social service programs supported with Federal financial assistance shall, to the extent permitted by law, be guided by the following fundamental principles:
+(ii) the Secretary of Agriculture;
 
-(a) Federal financial assistance for social service programs should be distributed in the most effective and efficient manner possible;
+(iii) the Secretary of Commerce;
 
-(b) The Nation's social service capacity will benefit if all eligible organizations, including faith-based and other community organizations, are able to compete on an equal footing for Federal financial assistance used to support social service programs;
+(iv) the Secretary of Labor;
 
-(c) No organization should be discriminated against on the basis of religion or religious belief in the administration or distribution of Federal financial assistance under social service programs;
+(v) the Secretary of Health and Human Services;
 
-(d) All organizations that receive Federal financial assistance under social services programs should be prohibited from discriminating against beneficiaries or potential beneficiaries of the social services programs on the basis of religion or religious belief. Accordingly, organizations, in providing services supported in whole or in part with Federal financial assistance, and in their outreach activities related to such services, should not be allowed to discriminate against current or prospective program beneficiaries on the basis of religion, a religious belief, a refusal to hold a religious belief, or a refusal to actively participate in a religious practice;
+(vi) the Secretary of Housing and Urban Development;
 
-(e) The Federal Government must implement Federal programs in accordance with the Establishment Clause and the Free Exercise Clause of the First Amendment to the Constitution. Therefore, organizations that engage in inherently religious activities, such as worship, religious instruction, and proselytization, must offer those services separately in time or location from any programs or services supported with direct Federal financial assistance, and participation in any such inherently religious activities must be voluntary for the beneficiaries of the social service program supported with such Federal financial assistance; and
+(vii) the Secretary of Education;
 
-(f) Consistent with the Free Exercise Clause and the Free Speech Clause of the Constitution, faith-based organizations should be eligible to compete for Federal financial assistance used to support social service programs and to participate fully in the social service programs supported with Federal financial assistance without impairing their independence, autonomy, expression, or religious character. Accordingly, a faith-based organization that applies for or participates in a social service program supported with Federal financial assistance may retain its independence and may continue to carry out its mission, including the definition, development, practice, and expression of its religious beliefs, provided that it does not use direct Federal financial assistance to support any inherently religious activities, such as worship, religious instruction, or proselytization. Among other things, faith-based organizations that receive Federal financial assistance may use their facilities to provide social services supported with Federal financial assistance, without removing or altering religious art, icons, scriptures, or other symbols from these facilities. In addition, a faith-based organization that applies for or participates in a social service program supported with Federal financial assistance may retain religious terms in its organization's name, select its board members on a religious basis, and include religious references in its organization's mission statements and other chartering or governing documents.
+(viii) the Secretary of Veterans Affairs;
 
-Sec. 3. <i>Agency Implementation.</i>
+(ix) the Secretary of Homeland Security;
 
-(a) Specified agency heads shall, in coordination with the White House Office of Faith-Based and Community Initiatives (White House OFBCI), review and evaluate existing policies that have implications for faith-based and community organizations in order to assess the consistency of such policies with the fundamental principles and policymaking criteria articulated in section 2 of this order.
+(x) the Administrator of the Environmental Protection Agency;
 
-(b) Specified agency heads shall ensure that all policies that have implications for faith-based and community organizations are consistent with the fundamental principles and policymaking criteria articulated in section 2 of this order. Therefore, specified agency heads shall, to the extent permitted by law:
+(xi) the Administrator of the Small Business Administration;
 
-&emsp;(i) amend all such existing policies of their respective agencies to ensure that they are consistent with the fundamental principles and policymaking criteria articulated in section 2 of this order;
+(xii) the Administrator of the United States Agency for International Development; and
 
-&emsp;(ii) where appropriate, implement new policies for their respective agencies that are consistent with and necessary to further the fundamental principles and policymaking criteria set forth in section 2 of this order; and
+(xiii) the Chief Executive Officer of the Corporation for National and Community Service.
 
-&emsp;(iii) implement new policies that are necessary to ensure that their respective agencies collect data regarding the participation of faith-based and community organizations in social service programs that receive Federal financial assistance.
+Sec. 2. <i>Fundamental Principles</i>. In formulating and implementing policies that have implications for faith-based and other neighborhood organizations, agencies that administer social service programs or that support (including through prime awards or sub-awards) social service programs with Federal financial assistance shall, to the extent permitted by law, be guided by the following fundamental principles:
 
-(c) Within 90 days after the date of this order, each specified agency head shall report to the President, through the Director of the White House OFBCI, the actions it proposes to undertake to accomplish the activities set forth in sections 3(a) and (b) of this order.
+(a) Federal financial assistance for social service programs should be distributed in the most effective and efficient manner possible.
+
+(b) The Nation's social service capacity will benefit if all eligible organizations, including faith-based and other neighborhood organizations, are able to compete on an equal footing for Federal financial assistance used to support social service programs.
+
+(c) No organization should be discriminated against on the basis of religion or religious belief in the administration or distribution of Federal financial assistance under social service programs.
+
+(d) All organizations that receive Federal financial assistance under social service programs should be prohibited from discriminating against beneficiaries or prospective beneficiaries of the social service programs on the basis of religion or religious belief. Accordingly, organizations, in providing services supported in whole or in part with Federal financial assistance, and in their outreach activities related to such services, should not be allowed to discriminate against current or prospective program beneficiaries on the basis of religion, a religious belief, a refusal to hold a religious belief, or a refusal to attend or participate in a religious practice.
+
+(e) The Federal Government must implement Federal programs in accordance with the Establishment Clause and the Free Exercise Clause of the First Amendment to the United States Constitution, as well as other applicable law, and must monitor and enforce standards regarding the relationship between religion and government in ways that avoid excessive entanglement between religious bodies and governmental entities.
+
+(f) Organizations that engage in explicitly religious activities (including activities that involve overt religious content such as worship, religious instruction, or proselytization) must perform such activities and offer such services outside of programs that are supported with direct Federal financial assistance (including through prime awards or sub-awards), separately in time or location from any such programs or services supported with direct Federal financial assistance, and participation in any such explicitly religious activities must be voluntary for the beneficiaries of the social service program supported with such Federal financial assistance.
+
+(g) Faith-based organizations should be eligible to compete for Federal financial assistance used to support social service programs and to participate fully in the social service programs supported with Federal financial assistance without impairing their independence, autonomy, expression outside the programs in question, or religious character. Accordingly, a faith-based organization that applies for, or participates in, a social service program supported with Federal financial assistance may retain its independence and may continue to carry out its mission, including the definition, development, practice, and expression of its religious beliefs, provided that it does not use direct Federal financial assistance that it receives (including through a prime award or sub-award) to support or engage in any explicitly religious activities (including activities that involve overt religious content such as worship, religious instruction, or proselytization), or in any other manner prohibited by law. Among other things, faith-based organizations that receive Federal financial assistance may use their facilities to provide social services supported with Federal financial assistance, without removing or altering religious art, icons, scriptures, or other symbols from these facilities. In addition, a faith-based organization that applies for, or participates in, a social service program supported with Federal financial assistance may retain religious terms in its name, select its board members on a religious basis, and include religious references in its organization's mission statements and other chartering or governing documents.
+
+(h) Each agency responsible for administering or awarding Federal financial assistance for social service programs shall offer protections for beneficiaries of such programs pursuant to the following principles:
+
+(i) <i>Referral to an Alternative Provider</i>. If a beneficiary or prospective beneficiary of a social service program supported by Federal financial assistance objects to the religious character of an organization that provides services under the program, that organization shall, within a reasonable time after the date of the objection, refer the beneficiary to an alternative provider.
+
+(ii) <i>Agency Responsibilities</i>. Each agency responsible for administering a social service program or supporting a social service program with Federal financial assistance shall establish policies and procedures designed to ensure that (1) appropriate and timely referrals are made to an alternative provider; (2) all referrals are made in a manner consistent with all applicable privacy laws and regulations; (3) the organization subject to subsection (h)(i) notifies the agency of any referral; (4) such organization has established a process for determining whether the beneficiary has contacted the alternative provider; and (5) each beneficiary of a social service program receives written notice of the protections set forth in this subsection prior to enrolling in or receiving services from such program.
+
+(i) To promote transparency and accountability, agencies that provide Federal financial assistance for social service programs shall post online, in an easily accessible manner, regulations, guidance documents, and policies that reflect or elaborate upon the fundamental principles described in this section. Agencies shall also post online a list of entities that receive Federal financial assistance for provision of social service programs, consistent with law and pursuant to guidance set forth in paragraph (c) of section 3 of this order.
+
+(j) Decisions about awards of Federal financial assistance must be free from political interference or eventhe appearance of such interference and must be made on the basis of merit, not on the basis of the religious affiliation of a recipient organization or lack thereof.
+
+Sec. 3. <i>Ensuring Uniform Implementation Across the Federal Government</i>. In order to promote uniformity in agencies’ policies that have implications for faith-based and other neighborhood organizations and in related guidance, and to ensure that those policies and guidance are consistent with the fundamental principles set forth in section 2 of this order, there is established an Interagency Working Group on Faith-Based and Other Neighborhood Partnerships (Working Group).
+
+(a) <i>Mission and Function of the Working Group</i>. The Working Group shall meet periodically to review and evaluate existing agency regulations, guidance documents, and policies that have implications for faith-based and other neighborhood organizations. Where appropriate, specified agency heads shall, to the extent permitted by law, amend all such existing policies of their respective agencies to ensure that they are consistent with the fundamental principles set forth in section 2 of this order.
+
+(b) <i>Uniform Agency Implementation</i>. Within 120 days of the date of this order, the Working Group shall submit a report to the President on amendments, changes, or additions that are necessary to ensure that regulations and guidance documents associated with the distribution of Federal financial assistance for social service programs are consistent with the fundamental principles set forth in section 2 of this order. The Working Group's report should include, but not be limited to, a model set of regulations and guidance documents for agencies to adopt in the following areas:
+
+(i) prohibited uses of direct Federal financial assistance and separation requirements; (ii) protections for religious identity; (iii) the distinction between “direct” and “indirect” Federal financial assistance; (iv) protections for beneficiaries of social service programs; (v) transparency requirements, consistent with and in furtherance of existing open government initiatives; (vi) obligations of nongovernmental and governmental intermediaries; (vii) instructions for peer reviewers and those who recruit peer reviewers; and (viii) training on these matters for government employees and for Federal, State, and local governmental and nongovernmental organizations that receive Federal financial assistance under social service programs. In developing this report and in reviewing agency regulations and guidance for consistency with section 2 of this order, the Working Group shall consult the March 2010 report and recommendations prepared by the President's Advisory Council on Faith-Based and Neighborhood Partnerships on the topic of reforming the Office of Faith-Based and Neighborhood Partnerships.
+
+(c) <i>Guidance</i>. The Director of the Office of Management and Budget (OMB), following receipt of a copy of the report of the Working Group, and in coordination with the Department of Justice, shall issue guidance to agencies on the implementation of this order, including in particular subsections 2(h)–(j).
+
+(d) <i>Membership of the Working Group</i>. The Director of the Office of Faith-Based and Neighborhood Partnerships and a senior official from the OMB designated by the Director of the OMB shall serve as the Co-Chairs of the Working Group. The Co-Chairs shall convene regular meetings of the Working Group, determine its agenda, and direct its work. In addition to the Co-Chairs, the Working Group shall consist of a senior official with knowledge of policies that have implications for faith-based and other neighborhood organizations from the following agencies and offices:
+
+(i) the Department of State;
+
+(ii) the Department of Justice;
+
+(iii) the Department of the Interior;
+
+(iv) the Department of Agriculture;
+
+(v) the Department of Commerce;
+
+(vi) the Department of Labor;
+
+(vii) the Department of Health and Human Services;
+
+(viii) the Department of Housing and Urban Development;
+
+(ix) the Department of Education;
+
+(x) the Department of Veterans Affairs;
+
+(xi) the Department of Homeland Security;
+
+(xii) the Environmental Protection Agency;
+
+(xiii) the Small Business Administration;
+
+(xiv) the United States Agency for International Development;
+
+(xv) the Corporation for National and Community Service; and
+
+(xvi) other agencies and offices as the President, from time to time, may designate.
+
+(e) <i>Administration of the Initiative</i>. The Department of Health and Human Services shall provide funding and administrative support for the Working Group to the extent permitted by law and within existing appropriations.
 
 Sec. 4. <i>Amendment of Executive Order 11246.</i>
 
@@ -1131,8 +1199,6 @@ Sec. 6. <i>Responsibilities of Executive Departments and Agencies</i>. All execu
 Sec. 7. <i>Judicial Review.</i>
 
 This order is intended only to improve the internal management of the executive branch, and it is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its agencies, or entities, its officers, employees or agents, or any person.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13280. Responsibilities of the Department of Agriculture and the Agency for International Development With Respect to Faith-Based and Community Initiatives
 
@@ -1202,7 +1268,7 @@ Section 1. <i>Establishment of Centers for Faith-Based and Community Initiatives
 
 (d) Each Center shall begin operations no later than 45 days from the date of this order.
 
-Sec. 2. <i>Purpose of Executive Branch Centers for Faith-Based and Community Initiatives</i>. The purpose of the agency Centers will be to coordinate agency efforts to eliminate regulatory, contracting, and other programmatic obstacles to the participation of faith-based and other community organizations in the provision of social and community services.
+Sec. 2. <i>Purpose of Executive Branch Centers for Faith-Based and Community Initiatives</i>. The purpose of theagency Centers will be to coordinate agency efforts to eliminate regulatory, contracting, and other programmatic obstacles to the participation of faith-based and other community organizations in the provision of social and community services.
 
 Sec. 3. <i>Responsibilities of the Centers for Faith-Based and Community Initiatives</i>. Each Center shall, to the extent permitted by law:
 

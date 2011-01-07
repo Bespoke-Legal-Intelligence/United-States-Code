@@ -32,7 +32,7 @@ A civil action may be brought—
 
 &emsp;&emsp;(B) fails to update or comply with the terms of the funding improvement or rehabilitation plan in accordance with the requirements of such section,
 
-> &emsp;by an employer that has an obligation to contribute with respect to the multiemployerplan or an employee organization that represents active participants in the multiemployer plan, for an order compelling the plan sponsor to adopt a funding improvement or rehabilitation plan or to update or comply with the terms of the funding improvement or rehabilitation plan in accordance with the requirements of such section and the funding improvement or rehabilitation plan.
+> &emsp;by an employer that has an obligation to contribute with respect to the multiemployer plan or an employee organization that represents active participants in the multiemployer plan, for an order compelling the plan sponsor to adopt a funding improvement or rehabilitation plan or to update or comply with the terms of the funding improvement or rehabilitation plan in accordance with the requirements of such section and the funding improvement or rehabilitation plan.
 
 #### (b) Plans qualified under Internal Revenue Code; maintenance of actions involving delinquent contributions
 
@@ -254,11 +254,11 @@ Another section 306(b)(3) of Pub. L. 107–204 is classified to section 7244(b)(
 
 #### Amendments
 
-2009—Subsec. (a)(6). Pub. L. 111–3, §311(b)(1)(E)(i), which directed the substitution of “(8), or (9)” for “or (8)”, could not be executed because the words “or (8)” did not appear after the amendment by Pub. L. 110–233, §101(e)(1). See 2008 Amendment note below.
+<b>2009</b>—Subsec. (a)(6). Pub. L. 111–3, §311(b)(1)(E)(i), which directed the substitution of “(8), or (9)” for “or (8)”, could not be executed because the words “or (8)” did not appear after the amendment by Pub. L. 110–233, §101(e)(1). See 2008 Amendment note below.
 
 Subsec. (c)(9), (10). Pub. L. 111–3, §311(b)(1)(E)(ii), added par. (9) and redesignated former par. (9) as (10) relating to Secretarial enforcement authority relating to use of genetic information.
 
-2008—Subsec. (a)(6). Pub. L. 110–233, §101(e)(1), substituted “(7), (8), or (9)” for “(7), or (8)”.
+<b>2008</b>—Subsec. (a)(6). Pub. L. 110–233, §101(e)(1), substituted “(7), (8), or (9)” for “(7), or (8)”.
 
 Subsec. (b)(3). Pub. L. 110–233, §101(e)(2), substituted “Except as provided in subsections (c)(9) and (a)(6) (with respect to collecting civil penalties under subsection (c)(9)), the Secretary” for “The Secretary”.
 
@@ -270,9 +270,9 @@ Subsec. (c)(8)(A). Pub. L. 110–458, §102(b)(1)(I), inserted “plan” after 
 
 Subsec. (c)(9), (10). Pub. L. 110–233, §101(e)(3), added par. (9) and redesignated former par. (9) as (10).
 
-2006—Subsec. (a)(6). Pub. L. 109–280, §§202(b)(1), 221(c), temporarily substituted “(6), (7), or (8)” for “(6), or (7)”. See Effective and Termination Dates of 2006 Amendment note below.
+<b>2006</b>—Subsec. (a)(6). Pub. L. 109–280, §§202(b)(1), 221(c), temporarily substituted “(6), (7), or (8)” for “(6), or (7)”. See Effective and Termination Dates of 2006 Amendment note below.
 
-Subsec. (a)(8) to (10). Pub. L. 109–280, §§202(c), 221(c), temporarily amended subsec. (a) by striking out “or” at end of par. (8), substituting “; or” for period at end of par. (9), and adding par. (10). See Effective and Termination Dates of 2006 Amendment note below.
+Subsec. (a)(8) to (10). Pub. L. 109–280, §§202(c), 221(c), temporarily amended subsec. (a) by striking out “or”at end of par. (8), substituting “; or” for period at end of par. (9), and adding par. (10). See Effective and Termination Dates of 2006 Amendment note below.
 
 Subsec. (c)(1). Pub. L. 109–280, §508(a)(2)(C), substituted “section 1021(f) of this title, or section 1025(a) of this title” for “or section 1021(f) of this title”.
 
@@ -288,21 +288,21 @@ Subsec. (c)(7). Pub. L. 109–280, §507(b), substituted “subsection (i) or (m
 
 Subsec. (c)(8), (9). Pub. L. 109–280, §§202(b)(2), (3), 221(c), temporarily added par. (8) and redesignated former par. (8) as (9). See Effective and Termination Dates of 2006 Amendment note below.
 
-2004—Subsec. (c)(1). Pub. L. 108–218, §103(b), substituted “, section 1021(e)(1) of this title, or section 1021(f) of this title” for “or section 1021(e)(1) of this title”.
+<b>2004</b>—Subsec. (c)(1). Pub. L. 108–218, §103(b), substituted “, section 1021(e)(1) of this title, or section 1021(f) of this title” for “or section 1021(e)(1) of this title”.
 
 Subsec. (c)(3). Pub. L. 108–218, §102(d), inserted “or who fails to meet the requirements of section 1082(d)(12)(E) of this title with respect to any person” after “1021(e)(2) of this title with respect to any person”.
 
 Subsec. (c)(4). Pub. L. 108–218, §104(a)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Secretary may assess a civil penalty of not more than $1,000 for each violation by any person of section 1021(f)(1) of this title.”
 
-2002—Subsec. (a)(6). Pub. L. 107–204, §306(b)(3)(A), substituted “(5), (6), or (7)” for “(5), or (6)”.
+<b>2002</b>—Subsec. (a)(6). Pub. L. 107–204, §306(b)(3)(A), substituted “(5), (6), or (7)” for “(5), or (6)”.
 
 Subsec. (c)(7), (8). Pub. L. 107–204, §306(b)(3)(B), (C), added par. (7) and redesignated former par. (7) as (8).
 
-1997—Subsec. (a)(6). Pub. L. 105–34, §1503(d)(7), substituted “(5), or (6)” for “or (5)”.
+<b>1997</b>—Subsec. (a)(6). Pub. L. 105–34, §1503(d)(7), substituted “(5), or (6)” for “or (5)”.
 
 Subsec. (c)(6), (7). Pub. L. 105–34, §1503(c)(2)(B), added par. (6) and redesignated former par. (6) as (7).
 
-1996—Subsec. (a)(6). Pub. L. 104–191, §101(e)(2)(A)(i), substituted “under paragraph (2), (4), or (5) of subsection (c) of this section or under subsection (i) or (<i>l</i>) of this section” for “under subsection (c)(2) or (i) or (<i>l</i>) of this section”.
+<b>1996</b>—Subsec. (a)(6). Pub. L. 104–191, §101(e)(2)(A)(i), substituted “under paragraph (2), (4), or (5) of subsection (c) of this section or under subsection (i) or (<i>l</i>) of this section” for “under subsection (c)(2) or (i) or (<i>l</i>) of this section”.
 
 Subsec. (b)(3). Pub. L. 104–204 made technical amendment to reference in original act which appears in text as reference to section 1191b of this title.
 
@@ -312,23 +312,23 @@ Subsec. (c)(1). Pub. L. 104–191, §101(e)(2)(B), inserted at end “For purpos
 
 Subsec. (c)(4) to (6). Pub. L. 104–191, §101(e)(2)(A)(ii), struck out “For purposes of this paragraph, each violation described in subparagraph (A) with respect to any single participant, and each violation described in subparagraph (B) with respect to any single participant or beneficiary, shall be treated as a separate violation. The Secretary and” after “section 1021(f)(1) of this title.”, redesignated “the Secretary of Health and Human Services shall maintain such ongoing consultation as may be necessary and appropriate to coordinate enforcement under this subsection with enforcement under section 1320b–14(c)(8) of title 42.” as par. (6) and inserted “The Secretary and” before “the Secretary of Health and Human Services”, and added par. (5).
 
-1994—Subsec. (a)(9). Pub. L. 103–401, §2, added par. (9).
+<b>1994</b>—Subsec. (a)(9). Pub. L. 103–401, §2, added par. (9).
 
 Subsec. (<i>l</i>)(3)(B). Pub. L. 103–401, §3, inserted “(or to provide the relief ordered pursuant to subsection (a)(9) of this section)” after “to restore all losses to the plan”.
 
 Subsec. (m). Pub. L. 103–465 added subsec. (m).
 
-1993—Subsec. (a)(7), (8). Pub. L. 103–66, §4301(c)(1), added pars. (7) and (8).
+<b>1993</b>—Subsec. (a)(7), (8). Pub. L. 103–66, §4301(c)(1), added pars. (7) and (8).
 
 Subsec. (c)(4). Pub. L. 103–66, §4301(c)(2), added par. (4).
 
 Subsec. (e)(1). Pub. L. 103–66, §4301(c)(3), substituted in first sentence “fiduciary, or any person referred to in section 1021(f)(1) of this title” for “or fiduciary” and in second sentence “paragraphs (1)(B) and (7) of subsection (a)” for “subsection (a)(1)(B)”.
 
-1990—Subsec. (c)(1). Pub. L. 101–508, §12012(d)(2)(A), inserted “or section 1021(e)(1) of this title” after “section 1166 of this title”.
+<b>1990</b>—Subsec. (c)(1). Pub. L. 101–508, §12012(d)(2)(A), inserted “or section 1021(e)(1) of this title” after “section 1166 of this title”.
 
 Subsec. (c)(3). Pub. L. 101–508, §12012(d)(2)(B), inserted “or who fails to meet the requirements of section 1021(e)(2) of this title with respect to any person” after first reference to “beneficiary” and “or to such person” after second reference to “beneficiary”.
 
-1989—Subsec. (a)(6). Pub. L. 101–239, §7881(j)(2), substituted “subsection (c)(2) or (i)” for “subsection (i)”.
+<b>1989</b>—Subsec. (a)(6). Pub. L. 101–239, §7881(j)(2), substituted “subsection (c)(2) or (i)” for “subsection (i)”.
 
 Pub. L. 101–239, §2101(b), inserted “or (<i>l</i>)” after “subsection (i)”.
 
@@ -344,19 +344,19 @@ Subsec. (g)(2). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue
 
 Subsec. (<i>l</i>). Pub. L. 101–239, §2101(a), added subsec. (<i>l</i>).
 
-1987—Subsec. (c). Pub. L. 100–203, §9342(c), designated existing provision as par. (1), redesignated as cls. (A) and (B) former cls. (1) and (2), and added par. (2).
+<b>1987</b>—Subsec. (c). Pub. L. 100–203, §9342(c), designated existing provision as par. (1), redesignated as cls. (A) and (B) former cls. (1) and (2), and added par. (2).
 
 Subsec. (i). Pub. L. 100–203, §9344, amended second sentence generally. Prior to amendment, second sentence read as follows: “The amount of such penalty may not exceed 5 percent of the amount involved (as defined in section 4975(f)(4) of title 26); except that if the transaction is not corrected (in such manner as the Secretary shall prescribe by regulation, which regulations shall be consistent with section 4975(f)(5) of title 26) within 90 days after notice from the Secretary (or such longer period as the Secretary may permit), such penalty may be in an amount not more than 100 percent of the amount involved.”
 
-1986—Subsec. (c). Pub. L. 99–272 inserted “(1) who fails to meet the requirements of paragraph (1) or (4) of section 1166 of this title with respect to a participant or beneficiary, or (2)”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–272 inserted “(1) who fails to meet the requirements of paragraph (1) or (4) of section 1166 of this title with respect to a participant or beneficiary, or (2)”.
 
-1980—Subsec. (b). Pub. L. 96–364, §306(b)(1), redesignated existing provisions as par. (1)(A) and (B) and added par. (2).
+<b>1980</b>—Subsec. (b). Pub. L. 96–364, §306(b)(1), redesignated existing provisions as par. (1)(A) and (B) and added par. (2).
 
 Subsec. (g). Pub. L. 96–364, §306(b)(2), redesignated existing provisions as par. (1), inserted exception for actions under paragraph (2), and added par. (2).
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 2008 Amendment
 
@@ -442,7 +442,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280,set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
 

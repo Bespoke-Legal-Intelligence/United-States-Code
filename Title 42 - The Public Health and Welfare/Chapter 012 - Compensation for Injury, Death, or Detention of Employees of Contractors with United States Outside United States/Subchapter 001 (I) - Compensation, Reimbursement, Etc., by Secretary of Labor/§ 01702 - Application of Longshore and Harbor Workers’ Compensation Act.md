@@ -1,6 +1,6 @@
 ### §1702. Application of Longshore and Harbor Workers’ Compensation Act
 
-(a) In the administration of the provisions of subchapter I of chapter 81 of title 5 with respect to cases coming within the purview of section 1701 of this title, the scale of compensation benefits and the provisions for determining the amount of compensation and the payment thereof as provided in sections 908 and 909 of title 33, so far as the provisions of said sections can be applied under the terms and conditions set forth therein shall be payable in lieu of the benefits, except medical benefits, provided under subchapter I of chapter 81 of title 5: <i>Provided</i>, That the total compensation payable under this subchapter for injury or death shall in no event exceed the limitations upon compensation as fixedin section 914(m) <sup>1</sup> of title 33 as such section may from time to time be amended except that the total compensation shall not be less than that provided for in the original enactment of this chapter.
+(a) In the administration of the provisions of subchapter I of chapter 81 of title 5 with respect to cases coming within the purview of section 1701 of this title, the scale of compensation benefits and the provisions for determining theamount of compensation and the payment thereof as provided in sections 908 and 909 of title 33, so far as the provisions of said sections can be applied under the terms and conditions set forth therein shall be payable in lieu of the benefits, except medical benefits, provided under subchapter I of chapter 81 of title 5: <i>Provided</i>, That the total compensation payable under this subchapter for injury or death shall in no event exceed the limitations upon compensation as fixed in section 914(m) <sup>1</sup> of title 33 as such section may from time to time be amended except that the total compensation shall not be less than that provided for in the original enactment of this chapter.
 
 (b) For the purpose of computing compensation with respect to cases coming within the purview of section 1701 of this title, the provisions of sections 906 and 910 of title 33 shall be applicable: <i>Provided</i>, That the minimum limit on weekly compensation for disability, established by section 906(b) of title 33, and the minimum limit on the average weekly wages on which death benefits are to be computed, established by section 909(e) of title 33, shall not apply in computing compensation under this subchapter.
 
@@ -18,11 +18,11 @@ Subsection (m) of section 914 of title 33, referred to in subsec. (a), was repea
 
 #### Amendments
 
-1984—Pub. L. 98–426 substituted “Longshore and Harbor Workers’ Compensation Act” for “Longshoremen's and Harbor Workers’ Compensation Act” wherever appearing.
+<b>1984</b>—Pub. L. 98–426 substituted “Longshore and Harbor Workers’ Compensation Act” for “Longshoremen's and Harbor Workers’ Compensation Act” wherever appearing.
 
-1958—Subsec. (a). Pub. L. 85–608 struck out proviso that required any amendment to the Longshoremen's and Harbor Workers’ Compensation Act which increased the amount of benefits payable for injury or death to be applied in the administration of this section as if the amendment had been in effect at the time of the particular injury or death.
+<b>1958</b>—Subsec. (a). Pub. L. 85–608 struck out proviso that required any amendment to the Longshoremen's and Harbor Workers’ Compensation Act which increased the amount of benefits payable for injury or death to be applied in the administration of this section as if the amendment had been in effect at the time of the particular injury or death.
 
-1948—Subsec. (a). Act July 3, 1948, inserted all text in proviso beginning “as fixed in section 914(m) of title 33”.
+<b>1948</b>—Subsec. (a). Act July 3, 1948, inserted all text in proviso beginning “as fixed in section 914(m) of title 33”.
 
 #### Effective Date of 1984 Amendment
 

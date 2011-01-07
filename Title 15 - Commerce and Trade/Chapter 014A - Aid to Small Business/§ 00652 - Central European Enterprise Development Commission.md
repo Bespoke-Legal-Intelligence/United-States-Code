@@ -50,15 +50,15 @@ The Commission shall report to Congress not later than December 1, 1991, and ann
 
 #### (i) Authorization of appropriations
 
-There are hereby authorized to be appropriated to the Small Business Administration the sum of $3,000,000 for fiscal year 1991, $5,000,000 for fiscal year 1992, $2,000,000 for each of fiscal years 1993 and 1994, and $1,000,000 for fiscal year 1995 to carry out the provisions of this section. Such sums shall be disbursed by the Small Business Administration as requested by the Commission and may remain available until expended. Any authority to enter contracts or other spending authority provided for in this section is subject to amounts provided for in advance in appropriations Acts.
+There are hereby authorized to be appropriated to the Small Business Administrationthe sum of $3,000,000 for fiscal year 1991, $5,000,000 for fiscal year 1992, $2,000,000 for each of fiscal years 1993 and 1994, and $1,000,000 for fiscal year 1995 to carry out the provisions of this section. Such sums shall be disbursed by the Small Business Administration as requested by the Commission and may remain available until expended. Any authority to enter contracts or other spending authority provided for in this section is subject to amounts provided for in advance in appropriations Acts.
 
 (Pub. L. 85–536, §2\[25\], as added Pub. L. 101–515, title V, §7, Nov. 5, 1990, 104 Stat. 2142; amended Pub. L. 103–81, §9(b), Aug. 13, 1993, 107 Stat. 783; Pub. L. 103–403, title IV, §405, Oct. 22, 1994, 108 Stat. 4192.)
 
 #### Amendments
 
-1994—Pub. L. 103–403 substituted “, $2,000,000 for each of fiscal years 1993 and 1994, and $1,000,000 for fiscal year 1995” for “and $2,000,000 for each of fiscal years 1993 and 1994”.
+<b>1994</b>—Pub. L. 103–403 substituted “, $2,000,000 for each of fiscal years 1993 and 1994, and $1,000,000 for fiscal year 1995” for “and $2,000,000 for each of fiscal years 1993 and 1994”.
 
-1993—Subsec. (i). Pub. L. 103–81 substituted “$2,000,000 for each of fiscal years 1993 and 1994” for “$8,000,000 for fiscal year 1993”.
+<b>1993</b>—Subsec. (i). Pub. L. 103–81 substituted “$2,000,000 for each of fiscal years 1993 and 1994” for “$8,000,000 for fiscal year 1993”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “enter into”.</i>
 

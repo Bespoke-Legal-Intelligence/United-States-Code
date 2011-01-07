@@ -128,9 +128,9 @@ For “the effective date of this subchapter”, referred to in subsec. (i)(1)(C
 
 #### Amendments
 
-1994—Subsec. (h)(1). Pub. L. 103–414 substituted “section 522(7)(A)” for “section 522(6)(A)”.
+<b>1994</b>—Subsec. (h)(1). Pub. L. 103–414 substituted “section 522(7)(A)” for “section 522(6)(A)”.
 
-1992—Subsec. (d)(1). Pub. L. 102–385, §22(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Not later than 270 days after the effective date of this section, and after notice and opportunity for hearing, the Commission shall prescribe rules to carry out this section.”
+<b>1992</b>—Subsec. (d)(1). Pub. L. 102–385, §22(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Not later than 270 days after the effective date of this section, and after notice and opportunity for hearing, the Commission shall prescribe rules to carry out this section.”
 
 Subsec. (d)(3). Pub. L. 102–385, §22(c), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Such rules also shall require an entity specified in subsection (a) of this section with more than 5 full-time employees to file with the Commission an annual statistical report identifying by race and sex the number of employees in each of the following full-time and part-time job categories:
 

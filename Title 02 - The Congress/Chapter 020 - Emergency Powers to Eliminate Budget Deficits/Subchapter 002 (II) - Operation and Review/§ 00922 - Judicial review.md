@@ -2,7 +2,7 @@
 
 #### (a) Expedited review
 
-&emsp;(1) Any Member of Congress may bring an action, in the United States District Court for the District of Columbia, for declaratory judgment and injunctive relief on the ground that any order that might be issued pursuant to section 904 of this title violates the Constitution.
+&emsp;(1) Any Member of Congress may bring an action, in the United States District Court forthe District of Columbia, for declaratory judgment and injunctive relief on the ground that any order that might be issued pursuant to section 904 of this title violates the Constitution.
 
 &emsp;(2) Any Member of Congress, or any other person adversely affected by any action taken under this title,<sup>1</sup> may bring an action, in the United States District Court for the District of Columbia, for declaratory judgment and injunctive relief concerning the constitutionality of this title.<sup>1</sup>
 
@@ -26,7 +26,7 @@ It shall be the duty of the District Court for the District of Columbia and the 
 
 (1) If it is finally determined by a court of competent jurisdiction that an order issued by the President under section 904 of this title for any fiscal year—
 
-&emsp;(A) does not reduce automatic spending increases under any program specified in section 906(a) of this title if such increases are required to be reduced by subchapter I of this chapter (or reduces such increases by a greater extent than is so required), or
+&emsp;(A) does not reduce automatic spending increases under any program specified in section 906(a) <sup>1</sup> of this title if such increases are required to be reduced by subchapter I of this chapter (or reduces such increases by a greater extent than is so required), or
 
 &emsp;(B) does not sequester the amount of budgetary resources which is required to be sequestered by subchapter I of this chapter (or sequesters more than that amount) with respect to any program, project, activity, or account,
 
@@ -58,7 +58,9 @@ The economic data and economic assumptions used by the Director of OMB in comput
 
 #### References in Text
 
-This title, referred to in subsec. (a)(2), (3), means title II (§200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the code, see Short Title note set out under section 900 of this title and Tables.
+This title, referred to in subsec. (a)(2), (3), means title II (§200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and EmergencyDeficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
+
+Section 906(a) of this title, referred to in subsec. (d)(1)(A), was repealed by Pub. L. 111–139, title I, §10(a), Feb. 12, 2010, 124 Stat. 21.
 
 #### Amendments
 

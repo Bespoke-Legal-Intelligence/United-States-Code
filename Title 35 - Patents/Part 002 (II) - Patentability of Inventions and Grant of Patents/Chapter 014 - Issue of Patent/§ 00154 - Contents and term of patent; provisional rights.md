@@ -188,25 +188,25 @@ The date of the enactment of the Uruguay Round Agreements Act, referred to in su
 
 #### Amendments
 
-2002—Subsec. (b)(4)(A). Pub. L. 107–273, §13206(a)(8), struck out “, United States Code,” after “title 5”.
+<b>2002</b>—Subsec. (b)(4)(A). Pub. L. 107–273, §13206(a)(8), struck out “, United States Code,” after “title 5”.
 
 Subsec. (d)(4)(A). Pub. L. 107–273, §13204, amended subsec. (d)(4)(A) as in effect on Nov. 29, 2000, by substituting “the date of” for “the date on which the Patent and Trademark Office receives a copy of the” and “publication in the English language” for “international application in the English language”.
 
-1999—Pub. L. 106–113, §1000(a)(9) \[title IV, §4504(1)\], inserted “; provisional rights” after “patent” in section catchline.
+<b>1999</b>—Pub. L. 106–113, §1000(a)(9) \[title IV, §4504(1)\], inserted “; provisional rights” after “patent” in section catchline.
 
 Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4402(a)\], amended heading and text of subsec. (b) generally. Prior to amendment, text provided for interference delay or secrecy orders, extensions for appellate review, a limitations period, and a maximum period of 5 years duration for all extensions.
 
 Subsec. (d). Pub. L. 106–113, §1000(a)(9) \[title IV, §4504(2)\], added subsec. (d).
 
-1996—Subsec. (c)(2). Pub. L. 104–295 substituted “acts” for “Acts” in introductory provisions.
+<b>1996</b>—Subsec. (c)(2). Pub. L. 104–295 substituted “acts” for “Acts” in introductory provisions.
 
-1994—Pub. L. 103–465 amended section catchline and text generally. Prior to amendment, text read as follows: “Every patent shall contain a short title of the invention and a grant to the patentee, his heirs or assigns, for the term of seventeen years, subject to the payment of fees as provided for in this title, of the right to exclude others from making, using, or selling the invention throughout the United States and, if the invention is a process, of the right to exclude others from using or selling throughout the United States, or importing into the United States, products made by that process,, referring to the specification for the particulars thereof. A copy of the specification and drawings shall be annexed to the patent and be a part thereof.”
+<b>1994</b>—Pub. L. 103–465 amended section catchline and text generally. Prior to amendment, text read as follows: “Every patent shall contain a short title of the invention and a grant to the patentee, his heirs or assigns, for the term of seventeen years, subject to the payment of fees as provided for in this title, of the right to exclude others from making, using, or selling the invention throughout the United States and, if the invention is a process, of the right to exclude others from using or selling throughout the United States, or importing into the United States, products made by that process,, referring to the specification for the particulars thereof. A copy of the specification and drawings shall be annexed to the patent and be a part thereof.”
 
-1988—Pub. L. 100–418 inserted “and, if the invention is a process, of the right to exclude others from using or selling throughout the United States, or importing into the United States, products made by that process,” after “United States”.
+<b>1988</b>—Pub. L. 100–418 inserted “and, if the invention is a process, of the right to exclude others from using or selling throughout the United States, or importing into the United States, products made by that process,” after “United States”.
 
-1980—Pub. L. 96–517 substituted “payment of fees” for “payment of issue fees”.
+<b>1980</b>—Pub. L. 96–517 substituted “payment of fees” for “payment of issue fees”.
 
-1965—Pub. L. 89–83 added “subject to the payment of issue fees as provided for in this title”.
+<b>1965</b>—Pub. L. 89–83 added “subject to the payment of issue fees as provided for in this title”.
 
 #### Effective Date of 1999 Amendment
 

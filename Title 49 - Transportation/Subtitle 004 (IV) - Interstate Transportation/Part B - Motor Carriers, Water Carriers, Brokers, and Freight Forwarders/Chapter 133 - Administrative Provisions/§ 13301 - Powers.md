@@ -2,7 +2,7 @@
 
 (a)
 
-General Powers of Secretary.—Except as otherwise specified, the Secretary shall carry out this part. Enumeration of a power of the Secretary in this part does not exclude another power the Secretary may have in carrying outthis part. The Secretary may prescribe regulations in carrying out this part.
+General Powers of Secretary.—Except as otherwise specified, the Secretary shall carry out this part. Enumeration of a power of the Secretary in this part does not exclude another power the Secretary may have in carrying out this part. The Secretary may prescribe regulations in carrying out this part.
 
 (b)
 

@@ -22,7 +22,7 @@ This section \[section 62\] incorporates in section 4121 of title 18, U.S.C., wi
 
 #### Amendments
 
-1949—Act May 24, 1949, made a representative of the Secretary of Defense a member of the board of directors.
+<b>1949</b>—Act May 24, 1949, made a representative of the Secretary of Defense a member of the board of directors.
 
 #### Transfer of Functions
 

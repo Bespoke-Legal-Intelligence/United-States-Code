@@ -10,7 +10,7 @@ Section 1393 of title 28, referred to in text, was repealed by Pub. L. 100–702
 
 #### Amendments
 
-1975—Pub. L. 94–73 inserted reference to section 1973aa–1a of this title and substituted reference to section 2284 of title 28 for reference to section 2282 of title 28.
+<b>1975</b>—Pub. L. 94–73 inserted reference to section 1973aa–1a of this title and substituted reference to section 2284 of title 28 for reference to section 2282 of title 28.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

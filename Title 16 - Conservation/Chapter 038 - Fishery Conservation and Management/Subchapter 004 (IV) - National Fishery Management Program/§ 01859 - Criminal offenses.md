@@ -24,15 +24,15 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Amendments
 
-1990—Subsec. (a)(1). Pub. L. 101–627, §115(a), amended par. (1) generally, substituting “(I), or (L)” for “or (I)”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–627, §115(a), amended par. (1) generally, substituting “(I), or (L)” for “or (I)”.
 
 Subsec. (b). Pub. L. 101–627, §115(b), substituted “$100,000” for “$50,000”, substituted “$200,000” for “$100,000” in two places, and inserted “any observer described in section 1857(1)(L) of this title or” after “injury to” and “observer or” before “officer in fear”.
 
-1987—Subsec. (a)(1). Pub. L. 100–66 substituted “(I)” for “(J)”.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–66 substituted “(I)” for “(J)”.
 
-1986—Subsec. (a)(1). Pub. L. 99–659 substituted “(H), or (J)” for “or (H)”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–659 substituted “(H), or (J)” for “or (H)”.
 
-1983—Subsec. (b). Pub. L. 97–453 struck out “, or imprisonment for not more than 1 year, or both” after “subsection (a)(2) of this section is punishable by a fine of not more than $100,000”.
+<b>1983</b>—Subsec. (b). Pub. L. 97–453 struck out “, or imprisonment for not more than 1 year, or both” after “subsection (a)(2) of this section is punishable by a fine of not more than $100,000”.
 
 #### Effective Date of 1983 Amendment
 

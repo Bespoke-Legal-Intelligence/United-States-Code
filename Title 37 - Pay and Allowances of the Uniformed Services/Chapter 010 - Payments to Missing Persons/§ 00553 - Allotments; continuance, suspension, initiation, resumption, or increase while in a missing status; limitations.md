@@ -108,9 +108,9 @@ In subsection (h), the words “Secretary concerned” are substituted for “he
 
 #### Amendments
 
-1996—Subsec. (f). Pub. L. 104–106, §569(c)(3)(A), substituted “the date on which, in a case covered by section 555 of this title, the Secretary concerned receives evidence, or, in a case covered by chapter 76 of title 10,the Secretary concerned determines pursuant to that chapter, that” for “the date the Secretary concerned receives evidence that”.
+<b>1996</b>—Subsec. (f). Pub. L. 104–106, §569(c)(3)(A), substituted “the date on which, in a case covered by section 555 of this title, the Secretary concerned receives evidence, or, in a case covered by chapter 76 of title 10, the Secretary concerned determines pursuant to that chapter, that” for “the date the Secretary concerned receives evidence that”.
 
 Subsec. (g). Pub. L. 104–106, §569(c)(3)(B), inserted “or under chapter 76 of title 10” after “section 555 of this title”.
 
-1991—Subsecs. (e) to (g). Pub. L. 102–25 struck out “of this section” after “subsections (f) and (g)” in subsec. (e) and after “subsections (a)–(d)” in subsecs. (f) and (g).
+<b>1991</b>—Subsecs. (e) to (g). Pub. L. 102–25 struck out “of this section” after “subsections (f) and (g)” in subsec. (e) and after “subsections (a)–(d)” in subsecs. (f) and (g).
 

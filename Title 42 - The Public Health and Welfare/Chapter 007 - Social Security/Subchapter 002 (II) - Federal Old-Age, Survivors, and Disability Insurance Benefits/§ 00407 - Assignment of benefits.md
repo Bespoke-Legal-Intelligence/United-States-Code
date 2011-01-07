@@ -24,11 +24,11 @@ In subsec. (b), “April 20, 1983” substituted for “the date of the enactmen
 
 #### Amendments
 
-1998—Subsec. (c). Pub. L. 105–277 added subsec. (c).
+<b>1998</b>—Subsec. (c). Pub. L. 105–277 added subsec. (c).
 
-1983—Pub. L. 98–21 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1983</b>—Pub. L. 98–21 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1939—Act Aug. 10, 1939, amended section generally, incorporating provisions of former section 408 of this title.
+<b>1939</b>—Act Aug. 10, 1939, amended section generally, incorporating provisions of former section 408 of this title.
 
 #### Effective Date of 1983 Amendment
 

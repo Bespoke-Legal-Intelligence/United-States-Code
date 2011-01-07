@@ -12,5 +12,5 @@
 
 #### Amendments
 
-1998—Subsecs. (b), (c). Pub. L. 105–178 substituted “State transportation department” for “State highway department”.
+<b>1998</b>—Subsecs. (b), (c). Pub. L. 105–178 substituted “State transportation department” for “State highway department”.
 

@@ -46,7 +46,7 @@ Section was enacted as part of the appropriation act cited as the credit to this
 
 #### Amendments
 
-2004—Subsec. (b)(4). Pub. L. 108–447 inserted before semicolon at end “, including a separate listing of all plenary votes cast by member countries of the United Nations in the General Assembly on resolutions specifically related to Israel that are opposed by the United States”.
+<b>2004</b>—Subsec. (b)(4). Pub. L. 108–447 inserted before semicolon at end “, including a separate listing of all plenary votes cast by member countries of the United Nations in the General Assembly on resolutions specifically related to Israel that are opposed by the United States”.
 
 #### Similar Provisions
 

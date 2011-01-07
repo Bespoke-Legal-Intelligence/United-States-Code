@@ -6,7 +6,7 @@ Apportionments among participating States shall be determined by the Secretary a
 
 #### Amendments
 
-1981—Pub. L. 97–98 substituted provisions directing the Secretary to make apportionments among participating States only after consultation with the council appointed under section 582a–4 of this title, enumerating the factors to be considered in making apportionments, and authorizing the expenditure of funds to transport scientists to research meetings for provisions which had authorized the Secretary to prescribe necessary rules and regulations, to furnish necessary advice and assistance, and to appoint an advisory committee. See section 582a–4 of this title.
+<b>1981</b>—Pub. L. 97–98 substituted provisions directing the Secretary to make apportionments among participating States only after consultation with the council appointed under section 582a–4 of this title, enumerating the factors to be considered in making apportionments, and authorizing the expenditure of funds to transport scientists to research meetings for provisions which had authorized the Secretary to prescribe necessary rules and regulations, to furnish necessary advice and assistance, and to appoint an advisory committee. See section 582a–4 of this title.
 
 #### Effective Date of 1981 Amendment
 

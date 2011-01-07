@@ -36,7 +36,7 @@ When used in this chapter—
 
 (q) The term “drug dependent person” means a person who is using a controlled substance (as defined in section 802 of title 21) and who is in a state of psychic or physical dependence, or both, arising from the use of that substance on a continuous basis. Drug dependence is characterized by behavioral and other responses which include a strong compulsion to take the substance on a continuous basis in order to experience its psychic effects or to avoid the discomfort caused by its absence.
 
-(July 1, 1944, ch. 373, title I, §2, 58 Stat. 682; July 3, 1946, ch. 538, §3, 60 Stat. 421; Feb. 28, 1948, ch. 83, §1, 62 Stat. 38; June 16, 1948, ch. 481, §6(a), 62 Stat. 469; June 24, 1948, ch. 621, §6(a), 62 Stat. 601; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 86–70, §31(a), June 25, 1959, 73 Stat. 148; Pub. L. 86–415, §5(a), Apr. 8, 1960, 74 Stat. 34; Pub. L. 86–624, §29(a), July 12, 1960, 74 Stat. 419; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; Pub. L. 91–212, §11, Mar. 13, 1970, 84 Stat. 67; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 91–513, title I, §2(b), Oct. 27, 1970, 84 Stat. 1240; Pub. L. 93–523, §2(b), Dec. 16, 1974, 88 Stat. 1693; Pub. L. 94–317, title III, §301(a), June 23, 1976, 90 Stat. 707; Pub. L. 94–484, title IX, §905(a), Oct. 12, 1976, 90 Stat. 2325; Pub. L. 95–83, title I, §107, Aug. 1, 1977, 91 Stat. 386; Pub. L. 96–79, title II, §203(e)(2), Oct. 4, 1979, 93 Stat. 635; Pub. L. 97–35, title IX, §§902(d)(5), 986(a), Aug. 13, 1981, 95 Stat. 560, 603; Pub. L. 103–43, title XX, §2008(e), June 10, 1993, 107 Stat. 212.)
+(July 1, 1944, ch. 373, title I, §2, 58 Stat. 682; July 3, 1946, ch. 538, §3, 60 Stat. 421; Feb. 28, 1948, ch. 83, §1, 62 Stat. 38; June 16, 1948, ch. 481, §6(a), 62Stat. 469; June 24, 1948, ch. 621, §6(a), 62 Stat. 601; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 86–70, §31(a), June 25, 1959, 73 Stat. 148; Pub. L. 86–415, §5(a), Apr. 8, 1960, 74 Stat. 34; Pub. L. 86–624, §29(a), July 12, 1960, 74 Stat. 419; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; Pub. L. 91–212, §11, Mar. 13, 1970, 84 Stat. 67; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 91–513, title I, §2(b), Oct. 27, 1970, 84 Stat. 1240; Pub. L. 93–523, §2(b), Dec. 16, 1974, 88 Stat. 1693; Pub. L. 94–317, title III, §301(a), June 23, 1976, 90 Stat. 707; Pub. L. 94–484, title IX, §905(a), Oct. 12, 1976, 90 Stat. 2325; Pub. L. 95–83, title I, §107, Aug. 1, 1977, 91 Stat. 386; Pub. L. 96–79, title II, §203(e)(2), Oct. 4, 1979, 93 Stat. 635; Pub. L. 97–35, title IX, §§902(d)(5), 986(a), Aug. 13, 1981, 95 Stat. 560, 603; Pub. L. 103–43, title XX, §2008(e), June 10, 1993, 107 Stat. 212.)
 
 #### References in Text
 
@@ -60,43 +60,43 @@ Section was enacted as part of title I of act July 1, 1944, ch. 373, 58 Stat. 68
 
 #### Amendments
 
-1993—Subsec. (c). Pub. L. 103–43 substituted “Health and Human Services” for “Health, Education, and Welfare”.
+<b>1993</b>—Subsec. (c). Pub. L. 103–43 substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-1981—Subsec. (f). Pub. L. 97–35, §902(d)(5), struck out reference to section 300d(2) of this title.
+<b>1981</b>—Subsec. (f). Pub. L. 97–35, §902(d)(5), struck out reference to section 300d(2) of this title.
 
 Subsec. (h). Pub. L. 97–35, §986(a), struck out subsec. (h) which defined “seamen”.
 
-1979—Subsec. (f). Pub. L. 96–79 struck out from enumeration of excepted sections reference to section 300s–3(1) of this title.
+<b>1979</b>—Subsec. (f). Pub. L. 96–79 struck out from enumeration of excepted sections reference to section 300s–3(1) of this title.
 
-1977—Subsec. (f). Pub. L. 95–83 expanded definition of “State” to include American Samoa and the Trust Territory of the Pacific Islands.
+<b>1977</b>—Subsec. (f). Pub. L. 95–83 expanded definition of “State” to include American Samoa and the Trust Territory of the Pacific Islands.
 
-1976—Subsec. (f). Pub. L. 94–484 amended subsec. (f) generally.
+<b>1976</b>—Subsec. (f). Pub. L. 94–484 amended subsec. (f) generally.
 
 Pub. L. 94–317 substituted provisions defining, with certain specific exceptions, “State” to include the several States, the District of Columbia, Guam, Puerto Rico and the Virgin Islands for provisions defining “State” to include a State or the District of Columbia, Puerto Rico, or the Virgin Islands, except in section 264(d) of this title such term means a State or the District of Columbia, and in subchapter XII of this chapter such term includes Guam, American Samoa, and the Trust Territory of the Pacific Islands.
 
-1974—Subsec. (f). Pub. L. 93–523 designated existing provisions as cl. (1) and added cl. (2).
+<b>1974</b>—Subsec. (f). Pub. L. 93–523 designated existing provisions as cl. (1) and added cl. (2).
 
-1970—Subsec. (c). Pub. L. 91–212 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The term ‘Administrator’ means the Federal Security Administrator;”.
+<b>1970</b>—Subsec. (c). Pub. L. 91–212 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The term ‘Administrator’ means the Federal Security Administrator;”.
 
 Subsec. (q). Pub. L. 91–513 added subsec. (q).
 
-1960—Subsec. (f). Pub. L. 86–624 struck out “Hawaii,” before “Puerto Rico”.
+<b>1960</b>—Subsec. (f). Pub. L. 86–624 struck out “Hawaii,” before “Puerto Rico”.
 
 Subsec. (p). Pub. L. 86–415 added subsec. (p).
 
-1959—Subsec. (f). Pub. L. 86–70 struck out “Alaska,” after “Hawaii,” and substituted “or the District of Columbia” for “, the District of Columbia, or Alaska”.
+<b>1959</b>—Subsec. (f). Pub. L. 86–70 struck out “Alaska,” after “Hawaii,” and substituted “or the District of Columbia” for “, the District of Columbia, or Alaska”.
 
-1948—Subsec. (j). Act Feb. 28, 1948, inserted “isonipecaine and its derivatives, compounds, salts, and preparations; opiates (as defined in section 4731(g) of title 26)”.
+<b>1948</b>—Subsec. (j). Act Feb. 28, 1948, inserted “isonipecaine and its derivatives, compounds, salts, and preparations; opiates (as defined in section 4731(g) of title 26)”.
 
 Subsec. (n). Act June 16, 1948, added subsec. (n).
 
 Subsec. (<i>o</i>). Act June 24, 1948, added subsec. (<i>o</i>).
 
-1946—Subsecs. (<i>l</i>), (m). Act July 3, 1946, added subsecs. (<i>l</i>) and (m).
+<b>1946</b>—Subsecs. (<i>l</i>), (m). Act July 3, 1946, added subsecs. (<i>l</i>) and (m).
 
 #### Change of Name
 
-Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, and commissioned officers of Survey transferred to ESSA, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in theAppendix to Title 5, Government Organization and Employees. Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, abolished Environmental Science Services Administration, established National Oceanic and Atmospheric Administration, and redesignated Commissioned Officer Corps of ESSA as Commissioned Officer Corps of NOAA. For further details, see Transfer of Functions note set out under section 851 of Title 33, Navigation and Navigable Waters.
+Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, and commissioned officers of Survey transferred to ESSA, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in the Appendix to Title 5, Government Organization and Employees. Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, abolished Environmental Science Services Administration, established National Oceanic and Atmospheric Administration, and redesignated Commissioned Officer Corps of ESSA as Commissioned Officer Corps of NOAA. For further details, see Transfer of Functions note set out under section 851 of Title 33, Navigation and Navigable Waters.
 
 #### Effective Date of 2000 Amendment
 
@@ -128,6 +128,30 @@ Section 47(f) of Pub. L. 86–624 provided that: “The amendments made by subse
 
 Amendment by Pub. L. 86–70 effective Jan. 3, 1959, see section 47(d) of Pub. L. 86–70.
 
+#### Short Title of 2011 Amendment
+
+Pub. L. 111–380, §1, Jan. 4, 2011, 124 Stat. 4131, provided that: “This Act \[amending section 300g–6 of this title and enacting provisions set out as a note under section 300g–6 of this title\] may be cited as the ‘Reduction of Lead in Drinking Water Act’.”
+
+Pub. L. 111–347, §1(a), Jan. 2, 2011, 124 Stat. 3623, provided that: “This Act \[enacting subchapter XXXI of this chapter, section 5000C of Title 26, Internal Revenue Code, and provisions set out as a note under section 5000C of Title 26 and amending provisions set out as notes under section 1101 of Title 8, Aliens and Nationality, and section 40101 of Title 49, Transportation\] may be cited as the ‘James Zadroga 9/11 Health and Compensation Act of 2010’.”
+
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–337, §1, Dec. 22, 2010, 124 Stat. 3588, provided that: “This Act \[amending section 280g–1 of this title\] may be cited as the ‘Early Hearing Detection and Intervention Act of 2010’.”
+
+Pub. L. 111–264, §1, Oct. 8, 2010, 124 Stat. 2789, provided that: “This Act \[amending sections 274k and 274m of this title and amending provisions set out as a note under section 274k of this title\] may be cited as the ‘Stem Cell Therapeutic and Research Reauthorization Act of 2010’.”
+
+Pub. L. 111–148, title VII, §7001(a), Mar. 23, 2010, 124 Stat. 804, provided that: “This subtitle \[subtitle A (§§7001–7003) of title VII of Pub. L. 111–148, amending sections 262 and 284m of this title, sections 355, 355a, 355c, and 379g of Title 21, Food and Drugs, section 2201 of Title 28, Judiciary and Judicial Procedure, and section 271 of Title 35, Patents, and enacting provisions set out as notes under section 262 of this title\] may be cited as the ‘Biologics Price Competition and Innovation Act of 2009’.”
+
+Pub. L. 111–148, title VIII, §8001, Mar. 23, 2010, 124 Stat. 828, provided that: “This title \[enacting subchapter XXX of this chapter, amending section 1396a of this title, enacting provisions set out as notes under section 300<i>ll</i> of this title, and amending provisions set out as a note under section 1396p of this title\] may be cited as the ‘Community Living Assistance Services and Supports Act’ or the ‘CLASS Act’.”
+
+Pub. L. 111–148, title X, §10409(a), Mar. 23, 2010, 124 Stat. 978, provided that: “This section \[enacting section 282d of this title and amending sections 282 and 290b of this title\] may be cited as the ‘Cures Acceleration Network Act of 2009’.”
+
+Pub. L. 111–148, title X, §10410(a), Mar. 23, 2010, 124 Stat. 984, provided that: “This section \[enacting section 290bb–33 of this title\] may be cited as the ‘Establishing a Network of Health-Advancing National Centers of Excellence for Depression Act of 2009’ or the ‘ENHANCED Act of 2009’.”
+
+Pub. L. 111–148, title X, §10411(a), Mar. 23, 2010, 124 Stat. 988, provided that: “This subtitle \[probably means this section, enacting sections 280g–13 and 285b–8 of this title\] may be cited as the ‘Congenital Heart Futures Act’.”
+
+Pub. L. 111–148, title X, §10413(a), Mar. 23, 2010, 124 Stat. 990, provided that: “This section \[enacting part V of subchapter II of this chapter\] may be cited as the ‘Young Women's Breast Health Education and Awareness Requires Learning Young Act of 2009’ or the ‘EARLY Act’.”
+
 #### Short Title of 2009 Amendment
 
 Pub. L. 111–87, §1(a), Oct. 30, 2009, 123 Stat. 2885, provided that: “This Act \[enacting section 300ff–87a of this title and part G of subchapter XXIV of this chapter, amending sections 300ff–11 to 300ff–17, 300ff–19 to 300ff–27, 300ff–28, 300ff–29, 300ff–29a, 300ff–30, 300ff–31a, 300ff–31b, 300ff–33, 300ff–34, 300ff–37, 300ff–37a, 300ff–38, 300ff–51 to 300ff–55, 300ff–61 to 300ff–67, 300ff–71, 300ff–81 to 300ff–88, 300ff–101, 300ff–111, and 300ff–121 of this title, enacting provisions set out as notes under section 300ff–11 of this title, and repealing provisions set out as a note under section 300ff–11 of this title\] may be cited as the ‘Ryan White HIV/AIDS Treatment Extension Act of 2009’.”
@@ -148,7 +172,7 @@ Pub. L. 110–381, §1, Oct. 9, 2008, 122 Stat. 4081, provided that: “This Act
 
 Pub. L. 110–377, §1, Oct. 8, 2008, 122 Stat. 4063, provided that: “This Act \[amending sections 300d–71 to 300d–73 of this title and enacting provisions set out as notes under sections 300d–71 to 300d–73 of this title\] may be cited as the ‘Poison Center Support, Enhancement, and Awareness Act of 2008’.”
 
-Pub. L. 110–374, §1, Oct. 8, 2008, 122 Stat. 4051, provided that: “This Act \[enacting section 280g–8 of this title and provisions set out as a note under section 280g–8 of this title\] may be cited as the ‘Prenatally and Postnatally Diagnosed Conditions Awareness Act’.”
+Pub. L. 110–374, §1, Oct. 8, 2008, 122 Stat. 4051, provided that: “This Act \[enacting section 280g–8 of this title and provisions set out as a note under section 280g–8 ofthis title\] may be cited as the ‘Prenatally and Postnatally Diagnosed Conditions Awareness Act’.”
 
 Pub. L. 110–373, §1, Oct. 8, 2008, 122 Stat. 4047, provided that: “This Act \[enacting section 280g–7 of this title\] may be cited as the ‘ALS Registry Act’.”
 
@@ -160,7 +184,7 @@ Pub. L. 110–354, §1, Oct. 8, 2008, 122 Stat. 3984, provided that: “This Act
 
 Pub. L. 110–343, div. C, title V, §511, Oct. 3, 2008, 122 Stat. 3881, provided that: “This subtitle \[subtitle B (§§511, 512) of title V of div. C of Pub. L. 110–343, amending section 300gg–5 of this title, section 9812 of Title 26, Internal Revenue Code, and section 1185a of Title 29, Labor, and enacting provisions set out as notes under section 300gg–5 of this title\] may be cited as the ‘Paul Wellstone and Pete Domenici Mental Health Parity and Addiction Equity Act of 2008’.”
 
-Pub. L. 110–339, §1, Oct. 3, 2008, 122 Stat. 3733, provided that: “This Act \[amending section 254c–8 of this title\]may be cited as the ‘Healthy Start Reauthorization Act of 2007’.”
+Pub. L. 110–339, §1, Oct. 3, 2008, 122 Stat. 3733, provided that: “This Act \[amending section 254c–8 of this title\] may be cited as the ‘Healthy Start Reauthorization Act of 2007’.”
 
 Pub. L. 110–285, §1, July 29, 2008, 122 Stat. 2628, provided that: “This Act \[enacting sections 280e–3a and 285a–11 of this title, amending section 280e–4 of this title, and enacting provisions set out as a note under section 280e–3a of this title\] may be cited as the ‘Caroline Pryce Walker Conquer Childhood Cancer Act of 2008’.”
 
@@ -222,7 +246,7 @@ Pub. L. 108–377, §1, Oct. 30, 2004, 118 Stat. 2202, provided that: “This Ac
 
 Pub. L. 108–365, §1, Oct. 25, 2004, 118 Stat. 1738, provided that: “This Act \[amending section 263b of this title\] may be cited as the ‘Mammography Quality Standards Reauthorization Act of 2004’.”
 
-Pub. L. 108–362, §1, Oct. 25, 2004, 118 Stat. 1703, provided that: “This Act \[amending sections 273 and 285c–3of this title\] may be cited as the ‘Pancreatic Islet Cell Transplantation Act of 2004’.”
+Pub. L. 108–362, §1, Oct. 25, 2004, 118 Stat. 1703, provided that: “This Act \[amending sections 273 and 285c–3 of this title\] may be cited as the ‘Pancreatic Islet Cell Transplantation Act of 2004’.”
 
 Pub. L. 108–355, §1, Oct. 21, 2004, 118 Stat. 1404, provided that: “This Act \[enacting sections 290bb–36 and 290bb–36b of this title, amending sections 290bb–34 and 290bb–36 of this title, renumbering former section 290bb–36 of this title as section 290bb–36a of this title, and enacting provisions set out as a note under section 290bb–36 of this title\] may be cited as the ‘Garrett Lee Smith Memorial Act’.”
 
@@ -278,7 +302,7 @@ Pub. L. 106–551, §1, Dec. 20, 2000, 114 Stat. 2752, provided that: “This Ac
 
 Pub. L. 106–545, §1, Dec. 19, 2000, 114 Stat. 2721, provided that: “This Act \[enacting sections 285<i>l</i>–2 to 285<i>l</i>–5 of this title\] may be cited as the ‘ICCVAM Authorization Act of 2000’.”
 
-Pub. L. 106–525, §1(a), Nov. 22, 2000, 114 Stat. 2495, provided that: “This Act \[enacting sections 287c–31 to287c–34, 293e, 296e–1, and 299a–1 of this title, amending sections 281, 296f, 299a, 299c–6, and 300u–6 of this title, repealing section 283b of this title, and enacting provisions set out as notes under sections 281, 287c–31, 293e, and 3501 of this title\] may be cited as the ‘Minority Health and Health Disparities Research and Education Act of 2000’.”
+Pub. L. 106–525, §1(a), Nov. 22, 2000, 114 Stat. 2495, provided that: “This Act \[enacting sections 287c–31 to 287c–34, 293e, 296e–1, and 299a–1 of this title, amending sections 281, 296f, 299a, 299c–6, and 300u–6 of this title, repealing section 283b of this title, and enacting provisions set out as notes under sections 281, 287c–31, 293e, and 3501 of this title\] may be cited as the ‘Minority Health and Health Disparities Research and Education Act of 2000’.”
 
 Pub. L. 106–505, §1(a), Nov. 13, 2000, 114 Stat. 2314, provided that: “This Act \[enacting sections 238p, 238q, 247d to 247d–7, 254c–9 to 254c–13, 284k, 284<i>l</i>, 285d–6a, 285e–10a, 285f–3, 287a–4 and 288–5a of this title, amending sections 273, 274b–5, 284d, 285a–8, 285e–11, 285f–3, 287a–2 and 287a–3 of this title, repealing former section 247d of this title, enacting provisions set out as notes under this section and sections 238p, 254c, 273, 284k, 285d–6a, 287, 287a–2 and 289 of this title, and amending provisions set out as a note under section 289 of this title\] may be cited as the ‘Public Health Improvement Act’.”
 
@@ -366,13 +390,13 @@ Pub. L. 102–501, §1, Oct. 24, 1992, 106 Stat. 3268, provided that: “This Ac
 
 Pub. L. 102–493, §1, Oct. 24, 1992, 106 Stat. 3146, provided that: “This Act \[enacting sections 263a–1 to 263a–7 of this title and provisions set out as a note under section 263a–1 of this title\] may be cited as the ‘Fertility Clinic Success Rate and Certification Act of 1992’.”
 
-Pub. L. 102–410, §1(a), Oct. 13, 1992, 106 Stat. 2094, provided that: “This Act \[amending sections 299 to 299a–2, 299b to 299b–3, 299c to 299c–3, 299c–5, and 300w–9 of this title and enacting provisions set out as notes under sections 299a–2, 299b–1, and 299b–2 of this title\] may be cited as the ‘Agency for Health Care Policy and Research Reauthorization Act of 1992’.”
+Pub. L. 102–410, §1(a), Oct. 13, 1992, 106 Stat. 2094, provided that: “This Act \[amending sections 299 to 299a–2,299b to 299b–3, 299c to 299c–3, 299c–5, and 300w–9 of this title and enacting provisions set out as notes under sections 299a–2, 299b–1, and 299b–2 of this title\] may be cited as the ‘Agency for Health Care Policy and Research Reauthorization Act of 1992’.”
 
 Pub. L. 102–409, §1, Oct. 13, 1992, 106 Stat. 2092, provided that: “This Act \[enacting section 283a of this title\] may be cited as the ‘DES Education and Research Amendments of 1992’.”
 
 Pub. L. 102–408, §1(a), Oct. 13, 1992, 106 Stat. 1992, provided that: “This Act \[enacting subchapter V of this chapter and sections 297n, 298b–7, and 300d–51 of this title, amending sections 242a, 296k to 296m, 296r, 297, 297–1, 297b, 297d, 297e, 298, 298b, and 298b–6 of this title and section 1078–3 of Title 20, Education, repealing sections 295g–10a, 297c–1, and 297n of this title, enacting provisions set out as notes under this section, sections 292, 295j, 295k, 296k, and 297b of this title, section 1078–3 of Title 20, and section 343–1 of Title 21, Food and Drugs, and amending provisions set out as a note under section 300x of this title\] may be cited as the ‘Health Professions Education Extension Amendments of 1992’.”
 
-Pub. L. 102–408, title II, §201, Oct. 13, 1992, 106 Stat. 2069, provided that: “This title \[enacting sections 297n and 298b–7 of this title, amending sections 296k to 296m, 296r, 297, 297–1, 297b, 297d, 297e, 298, 298b, and 298b–6 of this title, repealing sections 297c–1 and 297n of this title, and enacting provisions set out as notes undersections 296k and 297b of this title\] may be referred to as the Nurse Education and Practice Improvement Amendments of 1992.”
+Pub. L. 102–408, title II, §201, Oct. 13, 1992, 106 Stat. 2069, provided that: “This title \[enacting sections 297n and 298b–7 of this title, amending sections 296k to 296m, 296r, 297, 297–1, 297b, 297d, 297e, 298, 298b, and 298b–6 of this title, repealing sections 297c–1 and 297n of this title, and enacting provisions set out as notes under sections 296k and 297b of this title\] may be referred to as the Nurse Education and Practice Improvement Amendments of 1992.”
 
 Pub. L. 102–352, §1, Aug. 26, 1992, 106 Stat. 938, provided that: “This Act \[amending sections 285n, 285n–2, 285<i>o</i>, 285<i>o</i>–2, 285p, 290aa–1, 290aa–3, 290cc–21, 290cc–28, 290cc–30, 300x–7, 300x–27, 300x–33, 300x–53, and 300y of this title, enacting provisions set out as a note under section 285n of this title, and amending provisions set out as notes under sections 290aa and 300x of this title\] may be cited as the ‘Public Health Service Act Technical Amendments Act’.”
 
@@ -414,7 +438,7 @@ Pub. L. 101–354, §1, Aug. 10, 1990, 104 Stat. 409, provided that: “This Act
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101–93, §1, Aug. 16, 1989, 103 Stat. 603, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Drug Abuse Treatment Technical Corrections Act of 1989’.”
+Pub. L. 101–93, §1, Aug. 16, 1989, 103 Stat. 603, provided that: “This Act \[see Tables for classification\] may becited as the ‘Drug Abuse Treatment Technical Corrections Act of 1989’.”
 
 #### Short Title of 1988 Amendments
 
@@ -466,13 +490,13 @@ Pub. L. 99–649, §1, Nov. 10, 1986, 100 Stat. 3633, provided: “That this Act
 
 Pub. L. 99–570, title IV, §4001(a), Oct. 27, 1986, 100 Stat. 3207–103, provided that: “This subtitle \[subtitle A (§§4001–4022) of title IV of Pub. L. 99–570, enacting sections 290aa–3a, 290aa–6 to 290aa–10, and 300y to 300y–2 of this title, amending sections 218, 241, 290aa to 290aa–3, 290aa–4, 290aa–5, 290bb–1, 290bb–2, 290cc, and 290cc–2 of this title and sections 331 and 350a of Title 21, Food and Drugs, and enacting provisions set out as notes under sections 290aa–3, 290aa–3a, and 290bb of this title\] may be cited as the ‘Alcohol and Drug Abuse Amendments of 1986’.”
 
-Pub. L. 99–339, §1, June 19, 1986, 100 Stat. 642, provided that: “This Act \[enacting sections 300g–6, 300h–5 to 300h–7, 300i–1, and 300j–11 of this title, amending sections 300f, 300g–1 to 300g–5, 300h to 300h–2, 300h–4, 300h–6, 300h–7, 300i, 300j to 300j–4, 300j–7, and 6979a of this title and sections 1261 and 1263 of Title 15, Commerce and Trade, transferring section 6939b to 6979a of this title, and enacting provisions set out as notes under sections 300g–6 and 300j–1 of this title and section 1261 of Title 15\] may be cited as the ‘Safe Drinking Water Act Amendments of 1986’.”
+Pub. L. 99–339, §1, June 19, 1986, 100 Stat. 642, provided that: “This Act \[enacting sections 300g–6, 300h–5 to300h–7, 300i–1, and 300j–11 of this title, amending sections 300f, 300g–1 to 300g–5, 300h to 300h–2, 300h–4, 300h–6, 300h–7, 300i, 300j to 300j–4, 300j–7, and 6979a of this title and sections 1261 and 1263 of Title 15, Commerce and Trade, transferring section 6939b to 6979a of this title, and enacting provisions set out as notes under sections 300g–6 and 300j–1 of this title and section 1261 of Title 15\] may be cited as the ‘Safe Drinking Water Act Amendments of 1986’.”
 
 Pub. L. 99–280, §1(a), Apr. 24, 1986, 100 Stat. 399, provided that: “This Act \[amending sections 254b and 254c of this title and repealing sections 300y to 300y–11 of this title\] may be cited as the ‘Health Services Amendments Act of 1986’.”
 
 #### Short Title of 1985 Amendments
 
-Pub. L. 99–158, §1(a), Nov. 20, 1985, 99 Stat. 820, provided that: “This Act \[enacting sections 275, 281 to 283, 284 to 284c, 285 to 285a–5, 285b to 285b–6, 285c to 285c–7, 285d to 285d–7, 285e to 285e–2, 285f, 285g to 285g–3, 285h, 285i, 285j to 285j–2, 285k, 285<i>l</i>, 286 to 286a–1, 286b to 286b–8, 287 to 287a–1, 287b, 287c to 287c–3, 288 to 288b, and 289 to 289h of this title, amending sections 217a, 218, 241, 290aa–5, and 300c–12 of this title, repealing sections 275 to 280a–1, 280b to 280b–2, 280b–4, 280b–5, and 280b–7 to 280b–11 of this title, omitting sections 286c to 286e, 287d to 287i, 288c, 289, 289c–1 to 289c–3, 289c–4 to 289c–7, 289i to 289k, 289k–2 to 289k–5, and 289<i>l</i> to 289<i>l</i>–8 of this title, enacting provisions set out as notes under sections 218,281, 285c, 285e, 285e–2, 285j–1 and 289d of this title, and repealing provisions set out as a note under section 287i of this title\] may be cited as the ‘Health Research Extension Act of 1985’.”
+Pub. L. 99–158, §1(a), Nov. 20, 1985, 99 Stat. 820, provided that: “This Act \[enacting sections 275, 281 to 283, 284 to 284c, 285 to 285a–5, 285b to 285b–6, 285c to 285c–7, 285d to 285d–7, 285e to 285e–2, 285f, 285g to 285g–3, 285h, 285i, 285j to 285j–2, 285k, 285<i>l</i>, 286 to 286a–1, 286b to 286b–8, 287 to 287a–1, 287b, 287c to 287c–3, 288 to 288b, and 289 to 289h of this title, amending sections 217a, 218, 241, 290aa–5, and 300c–12 of this title, repealing sections 275 to 280a–1, 280b to 280b–2, 280b–4, 280b–5, and 280b–7 to 280b–11 of this title, omitting sections 286c to 286e, 287d to 287i, 288c, 289, 289c–1 to 289c–3, 289c–4 to 289c–7, 289i to 289k, 289k–2 to 289k–5, and 289<i>l</i> to 289<i>l</i>–8 of this title, enacting provisions set out as notes under sections 218, 281, 285c, 285e, 285e–2, 285j–1 and 289d of this title, and repealing provisions set out as a note under section 287i of this title\] may be cited as the ‘Health Research Extension Act of 1985’.”
 
 Pub. L. 99–129, §1, Oct. 22, 1985, 99 Stat. 523, provided: “That this Act \[enacting sections 294q–1 to 294q–3 of this title, amending sections 254<i>l</i>, 292a, 292b, 292h, 292j, 293c, 294a, 294b, 294d, 294e, 294g, 294j, 294m to 294p, 294z, 295f to 295f–2, 295g, 295g–1, 295g–3, 295g–4, 295g–6 to 295g–8, 295g–8b, 295h, 295h–1a to 295h–1c, 296k, 296<i>l</i>, 296m, 297a, 298b–5, and 300aa–14 of this title, repealing sections 292c, 295 to 295e–5, 295g–2, 295g–5, 295g–8a, and 295g–9 of this title, enacting provisions set out as notes under sections 254<i>l</i>, 292h, 293c, 294d, 294n, and 300aa–14 of this title and section 462 of the Appendix to Title 50, War and National Defense, and amending provisions set out as a note under section 298b–5 of this title\] may be cited as the ‘Health Professions Training Assistance Act of 1985’.”
 
@@ -514,7 +538,7 @@ Section 1(a) of Pub. L. 96–79 provided that: “This Act \[enacting sections 3
 
 Pub. L. 96–76, title I, §101(a), Sept. 29, 1979, 93 Stat. 579, provided that: “This title \[enacting section 297–1 of this title, amending sections 296, 296d, 296e, 296k to 296m, 297 to 297c, 297e, and 297j of this title, and enacting provisions set out as notes under sections 296 and 297j of this title\] may be cited as the ‘Nurse Training Amendments of 1979’.”
 
-Pub. L. 96–76, title III, §301, Sept. 29, 1979, 93 Stat. 584, provided that: “This title \[amending sections 204, 206,207, 209, 210–1, 210b, 211, 212, 213a, 215, and 218a of this title and sections 201, 415, and 1006 of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as a note under section 206 of this title\] may be cited as the ‘Public Health Service Administrative Amendments of 1979’.”
+Pub. L. 96–76, title III, §301, Sept. 29, 1979, 93 Stat. 584, provided that: “This title \[amending sections 204, 206, 207, 209, 210–1, 210b, 211, 212, 213a, 215, and 218a of this title and sections 201, 415, and 1006 of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as a note under section 206 of this title\] may be cited as the ‘Public Health Service Administrative Amendments of 1979’.”
 
 #### Short Title of 1978 Amendments
 
@@ -548,7 +572,7 @@ Pub. L. 94–573, §1(a), Oct. 21, 1976, 90 Stat. 2709, provided that: “This A
 
 Pub. L. 94–562, §1(a), Oct. 19, 1976, 90 Stat. 2645, provided that: “This Act \[enacting sections 289c–3a, 289c–7, and 289c–8 of this title, amending sections 289c–2, 289c–5, and 289c–6 of this title, and enacting provisions set out as notes under sections 289a, 289c–3a, and 289c–7 of this title\] may be cited as the ‘Arthritis, Diabetes, and Digestive Disease Amendments of 1976’.”
 
-Section 1(a) of Pub. L. 94–484 provided that: “This Act \[enacting sections 254 to 254k, 292, 292e to 292k, 294 to 294<i>l</i>, 294r to 294z, 294aa, 295f–1, 295g to 295g–8, 295g–10, 295h to 295h–2, and 295h–4 to 295h–7 of this title; renumbering sections 293d as 292a, 293e as 292b, 295h–8 as 292c, 295h–9 as 292d, 293g to 293i as 293d to 293f, 294 to 294c as 294m to 294p, 294e as 294q, 295f–5 as 295f–2, and 295f–6 as 295g–9 of this title; amending this section and sections 234, 244–1, 245a, 246, 247c, 254b, 263c, 292a to 292c, 293 to 293d, 293f, 294g, 294m to 294p, 295e–1 to 295e–4, 295f to 295f–4, 295g, 295g–11, 295g–23, 295h–1 to 295h–3, 297, 300a, 300d, 300d–7, 300f, 300<i>l</i>–1, 300n, and 300s–3 of this title and sections 1101 and 1182 of Title 8, Aliens and Nationality; repealing sections 234, 244–1, 245a, 254b, 292 to 292j, 293f, 294d, 294f, 294g, 295f–1, to 295f–4, 295g, 295g–1, 295g–11, and 295g–21 to 295g–23 of this title; omitting sections 295h to 295h–2, 295h–3a to 295h–3d, 295h–4, 295h–5, and 295h–7 of this title; and enacting provisions set out as notes under sections 254d, 292, 292b, 292h, 293, 293f, 294, 294n,294<i>o</i>, 294q, 294r, 294t, 294z, 295g, 295g–1, 295g–9, 295g–10, 295h, 295h–4, and 300<i>l</i>–1 of this title and section 1182 of Title 8\] may be cited as the ‘Health Professions Educational Assistance Act of 1976’.”
+Section 1(a) of Pub. L. 94–484 provided that: “This Act \[enacting sections 254 to 254k, 292, 292e to 292k, 294 to 294<i>l</i>, 294r to 294z, 294aa, 295f–1, 295g to 295g–8, 295g–10, 295h to 295h–2, and 295h–4 to 295h–7 of this title; renumbering sections 293d as 292a, 293e as 292b, 295h–8 as 292c, 295h–9 as 292d, 293g to 293i as 293d to 293f, 294 to 294c as 294m to 294p, 294e as 294q, 295f–5 as 295f–2, and 295f–6 as 295g–9 of this title; amending this section and sections 234, 244–1, 245a, 246, 247c, 254b, 263c, 292a to 292c, 293 to 293d, 293f, 294g, 294m to 294p, 295e–1 to 295e–4, 295f to 295f–4, 295g, 295g–11, 295g–23, 295h–1 to 295h–3, 297, 300a, 300d, 300d–7, 300f, 300<i>l</i>–1, 300n, and 300s–3 of this title and sections 1101 and 1182 of Title 8, Aliens and Nationality; repealing sections 234, 244–1, 245a, 254b, 292 to 292j, 293f, 294d, 294f, 294g, 295f–1, to 295f–4, 295g, 295g–1, 295g–11, and 295g–21 to 295g–23 of this title; omitting sections 295h to 295h–2, 295h–3a to 295h–3d, 295h–4, 295h–5, and 295h–7 of this title; and enacting provisions set out as notes under sections 254d, 292, 292b, 292h, 293, 293f, 294, 294n, 294<i>o</i>, 294q, 294r, 294t, 294z, 295g, 295g–1, 295g–9, 295g–10, 295h, 295h–4, and 300<i>l</i>–1 of this title and section 1182 of Title 8\] may be cited as the ‘Health Professions Educational Assistance Act of 1976’.”
 
 Pub. L. 94–460, §1(a), Oct. 8, 1976, 90 Stat. 1945, provided that: “This Act \[enacting section 300e–15 of this title, amending sections 242c, 289k–2, 300e, 300e–1 to 300e–11, 300e–13, 300n–1, 1395x note, 1395mm, and 1396b of this title, section 8902 of Title 5, Government Organization and Employees, and section 360d of Title 21, Food and Drugs, and enacting provisions set out as notes under sections 300e and 1396b of this title\] may be cited as the ‘Health Maintenance Organization Amendments of 1976’.”
 
@@ -594,7 +618,7 @@ Pub. L. 93–348, title I, §101, July 12, 1974, 88 Stat. 342, provided that: �
 
 Pub. L. 93–296, §1, May 31, 1974, 88 Stat. 184, provided that: “This Act \[enacting Part H of subchapter III of this chapter and provisions set out as notes under section 289k–2 of this title\] may be cited as the ‘Research on Aging Act of 1974’.”
 
-Pub. L. 93–270, §1, Apr. 22, 1974, 88 Stat. 90, provided that: “This Act \[enacting part B of subchapter IX ofthis chapter, amending sections 289d and 289g of this title, and enacting provisions set out as a note under section 289g of this title\] may be cited as the ‘Sudden Infant Death Syndrome Act of 1974’.”
+Pub. L. 93–270, §1, Apr. 22, 1974, 88 Stat. 90, provided that: “This Act \[enacting part B of subchapter IX of this chapter, amending sections 289d and 289g of this title, and enacting provisions set out as a note under section 289g of this title\] may be cited as the ‘Sudden Infant Death Syndrome Act of 1974’.”
 
 #### Short Title of 1973 Amendments
 
@@ -646,7 +670,7 @@ Pub. L. 90–490, §1, Aug. 16, 1968, 82 Stat. 773, provided: “That this Act \
 
 #### Short Title of 1967 Amendments
 
-Pub. L. 90–174, §1, Dec. 5, 1967, 81 Stat. 533, provided: “That this Act \[enacting sections 217b, 254a, 263a, and291m–1 of this title, amending sections 241, 242, 242b, 243, 244, 246, 249, 251, 293e, 295h–4, and 296e of this title, repealing section 291n of this title, and enacting provisions set out as notes under this section and sections 242b, 242c, 246, 263a, and 296e of this title\] may be cited as the ‘Partnership for Health Amendments of 1967’.”
+Pub. L. 90–174, §1, Dec. 5, 1967, 81 Stat. 533, provided: “That this Act \[enacting sections 217b, 254a, 263a, and 291m–1 of this title, amending sections 241, 242, 242b, 243, 244, 246, 249, 251, 293e, 295h–4, and 296e of this title, repealing section 291n of this title, and enacting provisions set out as notes under this section and sections 242b, 242c, 246, 263a, and 296e of this title\] may be cited as the ‘Partnership for Health Amendments of 1967’.”
 
 Pub. L. 90–174, §5(c), Dec. 5, 1967, 81 Stat. 539, provided that: “This section \[enacting section 263a of this title and provisions set out as notes under section 263a of this title\] may be cited as the ‘Clinical Laboratories Improvement Act of 1967’.”
 
@@ -716,7 +740,7 @@ Section 1 of act June 16, 1948, provided that: “This Act \[enacting sections 2
 
 Amendment
 
-Section 1 of act July 3, 1946, provided: “That this Act \[enacting sections 232 and 242a of this title, amendingthis section and sections 209, 210, 215, 218, 219, 241, 244, and 246 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘National Mental Health Act’.”
+Section 1 of act July 3, 1946, provided: “That this Act \[enacting sections 232 and 242a of this title, amending this section and sections 209, 210, 215, 218, 219, 241, 244, and 246 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘National Mental Health Act’.”
 
 #### Short Title
 
@@ -758,7 +782,7 @@ Pub. L. 100–690, title II, §2012, Nov. 18, 1988, 102 Stat. 4193, provided tha
 
 &emsp;“(4) to assist and encourage States in the initiation and expansion of prevention and treatment services to underserved populations;
 
-&emsp;“(5) to increase, to the greatest extent possible, the availability and quality of treatment services so that treatment on request may be provided to all individuals desiring to rid themselves of their substance abuse problem; and
+&emsp;“(5) to increase, to the greatest extent possible, the availability and quality of treatment services so thattreatment on request may be provided to all individuals desiring to rid themselves of their substance abuse problem; and
 
 &emsp;“(6) to increase understanding about the extent of alcohol abuse and other forms of drug abuse by expanding data collection activities and supporting research on the comparative cost and efficacy of substance abuse prevention and treatment services.”
 
@@ -768,7 +792,7 @@ Section 2 of act July 3, 1946, provided: “The purpose of this Act \[see Short 
 
 #### Existing Positions, Procedures, Regulations, Funds, Appropriations, and Property
 
-Sections 1301 to 1303, formerly §§601 to 603, of act July 1, 1944, as renumbered by acts Aug. 13, 1946, ch. 958, §5,60 Stat. 1049; July 30, 1956, ch. 779, §3(b), 70 Stat. 720; Sept. 3, 1964, Pub. L. 88–581, §4(b), 78 Stat. 919; Oct. 6, 1965, Pub. L. 89–239, §3(b), 79 Stat. 931; Dec. 24, 1970, Pub. L. 91–572, §6(b), 84 Stat. 1506; May 16, 1972, Pub. L. 92–294, §3(b), 86 Stat. 137; Nov. 16, 1973, Pub. L. 93–154, §2(b)(2), 87 Stat. 604, related to the effect of this chapter on existing positions, procedures, regulations, funds, appropriations, and property, and was repealed by Pub. L. 93–222, §7(b), Dec. 29, 1973, 87 Stat. 936.
+Sections 1301 to 1303, formerly §§601 to 603, of act July 1, 1944, as renumbered by acts Aug. 13, 1946, ch. 958, §5, 60 Stat. 1049; July 30, 1956, ch. 779, §3(b), 70 Stat. 720; Sept. 3, 1964, Pub. L. 88–581, §4(b), 78 Stat. 919; Oct. 6, 1965, Pub. L. 89–239, §3(b), 79 Stat. 931; Dec. 24, 1970, Pub. L. 91–572, §6(b), 84 Stat. 1506; May 16, 1972, Pub. L. 92–294, §3(b), 86 Stat. 137; Nov. 16, 1973, Pub. L. 93–154, §2(b)(2), 87 Stat. 604, related to the effect of this chapter on existing positions, procedures, regulations, funds, appropriations, and property, and was repealed by Pub. L. 93–222, §7(b), Dec. 29, 1973, 87 Stat. 936.
 
 #### Appropriations for Emergency Health and Sanitation Activities
 
@@ -808,7 +832,7 @@ Sec. 3. <i>Functions</i>. The principal functions of the Health Reform Office, t
 
 (a) provide leadership for and to coordinate the development of the Administration's policy agenda across executive departments and agencies concerning the provision of high-quality, affordable, and accessible health care and to slow the growth of health costs; this shall include coordinating policy development with the Domestic Policy Council, National Economic Council, Council of Economic Advisers, Office of Management and Budget, HHS, Office of Personnel Management, and such other executive departments and agencies as the Director of the Health Reform Office may deem appropriate;
 
-(b) work with executive departments and agencies to ensure that Federal Government policy decisions and programs are consistent with the President's stated goals with respect to health reform;
+(b) work with executive departments and agencies to ensure that Federal Government policy decisions andprograms are consistent with the President's stated goals with respect to health reform;
 
 (c) integrate the President's policy agenda concerning health reform across the Federal Government;
 
@@ -845,4 +869,6 @@ Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

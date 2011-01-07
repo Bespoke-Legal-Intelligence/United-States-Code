@@ -18,17 +18,15 @@ Assistant Secretary for Intelligence and Analysis.—The Office shall be headed 
 
 #### Prior Provisions
 
-A prior section 311 was renumbered section 312 of this title.
+A prior section 311 was renumbered section 315 of this title.
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–447, §222(b)(1)(A), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+<b>2004</b>—Subsec. (a). Pub. L. 108–447, §222(b)(1)(A), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
 Subsec. (b). Pub. L. 108–447, §222(b)(1)(B), substituted “Terrorism and Financial Crimes” for “Enforcement”.
 
 #### Construction
 
-Pub. L. 108–177, title I, §105(b), Dec. 13, 2003, 117 Stat. 2603, provided that: “Nothing in section 311 of title 31, United States Code (as amended by subsection (a)), shall be construed to alter the authorities and responsibilities of the Director of Central Intelligence with respect to the Office of Intelligence and Analysis of the Department of the Treasury as an element of the intelligence community.”
-
-\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
+Pub. L. 108–177, title I, §105(b), Dec. 13, 2003, 117 Stat. 2603, as amended by Pub. L. 111–259, title VIII, §808, Oct. 7, 2010, 124 Stat. 2749, provided that: “Nothing in section 311 of title 31, United States Code (as amended by subsection (a)), or in section 313 of such title, shall be construed to alter the authorities and responsibilities of the Director of National Intelligence with respect to the Office of Intelligence and Analysis of the Department of the Treasury as an element of the intelligence community.”
 

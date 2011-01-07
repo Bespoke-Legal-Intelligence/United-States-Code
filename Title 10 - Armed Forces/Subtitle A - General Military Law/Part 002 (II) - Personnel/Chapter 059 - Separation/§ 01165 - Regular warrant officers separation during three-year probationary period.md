@@ -24,7 +24,7 @@ The words “in his discretion” are omitted as surplusage. The last 10 words o
 
 #### Amendments
 
-1980—Pub. L. 96–513 authorized entitlement, if the regular warrant officer is eligible therefor, to separation pay under section 1174.
+<b>1980</b>—Pub. L. 96–513 authorized entitlement, if the regular warrant officer is eligible therefor, to separation pay under section 1174.
 
 #### Effective Date of 1980 Amendment
 

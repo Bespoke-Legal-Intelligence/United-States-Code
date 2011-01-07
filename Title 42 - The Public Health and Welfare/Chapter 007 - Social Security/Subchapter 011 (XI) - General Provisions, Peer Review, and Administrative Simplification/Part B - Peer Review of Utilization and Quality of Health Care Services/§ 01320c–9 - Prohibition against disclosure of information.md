@@ -30,7 +30,7 @@ An organization having a contract with the Secretary under this part shall provi
 
 &emsp;(2) to assist the Secretary, and such Federal and State agencies recognized by the Secretary as having health planning or related responsibilities under Federal or State law (including health systems agencies and State health planning and development agencies), in carrying out appropriate health care planning and related activities, which data and information shall be provided in such format and manner as may be prescribed by the Secretary or agreed upon by the responsible Federal and State agencies and such organization, and shall be in the form of aggregate statistical data (without explicitly identifying any individual) on a geographic, institutional, or other basis reflecting the volume and frequency of services furnished, as well as the demographic characteristics of the population subject to review by such organization.
 
-> The penalty provided in subsection (c) of this section shall not apply to the disclosure of any information received under this subsection, except that such penalty shall apply to the disclosure (by the agency receiving such information) of any such information described in paragraph (1) unless such disclosure is made in a judicial, administrative, or other formal legal proceeding resulting from an investigation conducted bythe agency receiving the information. An organization may require payment of a reasonable fee for providing information under this subsection in response to a request for such information.
+> The penalty provided in subsection (c) of this section shall not apply to the disclosure of any information received under this subsection, except that such penalty shall apply to the disclosure (by the agency receiving such information) of any such information described in paragraph (1) unless such disclosure is made in a judicial, administrative, or other formal legal proceeding resulting from an investigation conducted by the agency receiving the information. An organization may require payment of a reasonable fee for providing information under this subsection in response to a request for such information.
 
 #### (c) Penalties
 
@@ -52,19 +52,19 @@ A prior section 1320c–9, act Aug. 14, 1935, ch. 531, title XI, §1160, as adde
 
 #### Amendments
 
-1994—Subsec. (b)(1)(D). Pub. L. 103–432, §156(b)(2)(B), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “to provide notice to the State medical board in accordance with section 1320c–3(a)(9)(B) of this title when the organization submits a report and recommendations to the Secretary under section 1320c–5(b)(1) of this title with respect to a physician whom the board is responsible for licensing;”.
+<b>1994</b>—Subsec. (b)(1)(D). Pub. L. 103–432, §156(b)(2)(B), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “to provide notice to theState medical board in accordance with section 1320c–3(a)(9)(B) of this title when the organization submits a report and recommendations to the Secretary under section 1320c–5(b)(1) of this title with respect to a physician whom the board is responsible for licensing;”.
 
 Subsec. (d). Pub. L. 103–432, §156(b)(4), which directed amendment of subsec. (d) by substituting “subpoena” for “subpena”, was executed by making the substitution in two places to reflect the probable intent of Congress.
 
-1990—Subsec. (b)(1)(D). Pub. L. 101–508, §4205(d)(1)(B), added subpar. (D).
+<b>1990</b>—Subsec. (b)(1)(D). Pub. L. 101–508, §4205(d)(1)(B), added subpar. (D).
 
 Subsec. (d). Pub. L. 101–508, §4205(e)(1), inserted at end “No document or other information produced by such an organization in connection with its deliberations in making determinations under section 1320c–3(a)(1)(B) or 1320c–5(a)(2) of this title shall be subject to subpena or discovery in any administrative or civil proceeding; except that such an organization shall provide, upon request of a practitioner or other person adversely affected by such a determination, a summary of the organization's findings and conclusions in making the determination.”
 
-1988—Subsec. (e). Pub. L. 100–360 added Pub. L. 100–203, §4039(h)(6), see 1987 Amendment note below.
+<b>1988</b>—Subsec. (e). Pub. L. 100–360 added Pub. L. 100–203, §4039(h)(6), see 1987 Amendment note below.
 
-1987—Subsec. (e). Pub. L. 100–203, §4039(h)(6), as added by Pub. L. 100–360, added subsec. (e).
+<b>1987</b>—Subsec. (e). Pub. L. 100–203, §4039(h)(6), as added by Pub. L. 100–360, added subsec. (e).
 
-1986—Subsec. (b)(1)(C). Pub. L. 99–509 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “to assist appropriate State agencies recognized by the Secretary as having responsibility for licensing or certification of providers or practitioners, which data and information shall be provided by the peer review organization to any such agency at the request of such agency relating to a specific case, but only to the extent that such data and information is required by the agency in carrying out a function which is within the jurisdiction of such agency under State law; and”.
+<b>1986</b>—Subsec. (b)(1)(C). Pub. L. 99–509 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “to assist appropriate State agencies recognized by the Secretary as having responsibility for licensing or certification of providers or practitioners, which data and information shall be provided by the peer review organization to any such agency at the request of such agency relating to a specific case, but only to the extent that such data and information is required by the agency in carrying out a function which is within the jurisdiction of such agency under State law; and”.
 
 #### Effective Date of 1994 Amendment
 

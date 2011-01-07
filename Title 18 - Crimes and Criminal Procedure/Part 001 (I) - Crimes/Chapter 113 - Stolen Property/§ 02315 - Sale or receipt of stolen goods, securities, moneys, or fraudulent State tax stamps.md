@@ -8,11 +8,11 @@ Whoever receives in interstate or foreign commerce, or conceals, stores, barters
 
 Shall be fined under this title or imprisoned not more than ten years, or both.
 
-This section shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of an obligation or other security of the United States or of an obligation, bond, certificate, security, treasury note, bill, promise to pay, or bank note, issued by any foreign government. This section also shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of any bank note or bill issued by a bank or corporation of any foreign country which is intended by the laws or usage of such country to circulate as money.
+This section shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of an obligation or other security of the United States or of an obligation, bond,certificate, security, treasury note, bill, promise to pay, or bank note, issued by any foreign government. This section also shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of any bank note or bill issued by a bank or corporation of any foreign country which is intended by the laws or usage of such country to circulate as money.
 
 For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 806; Pub. L. 87–371, §3, Oct. 4, 1961, 75 Stat. 802; Pub. L. 99–646, §76,Nov. 10, 1986, 100 Stat. 3618; Pub. L. 100–690, title VII, §§7048, 7057(b), Nov. 18, 1988, 102 Stat. 4401, 4402; Pub. L. 101–647, title XII, §1205(m), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 806; Pub. L. 87–371, §3, Oct. 4, 1961, 75 Stat. 802; Pub. L. 99–646, §76, Nov. 10, 1986, 100 Stat. 3618; Pub. L. 100–690, title VII, §§7048, 7057(b), Nov. 18, 1988, 102 Stat. 4401, 4402; Pub. L. 101–647, title XII, §1205(m), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 
@@ -24,15 +24,15 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in fourth par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in fourth par.
 
-1990—Pub. L. 101–647 inserted par. at end defining “State”.
+<b>1990</b>—Pub. L. 101–647 inserted par. at end defining “State”.
 
-1988—Pub. L. 100–690, §7048, substituted “moving as, or which are a part of, or which constitute interstate or foreign commerce” for “which have crossed a State or United States boundary after being stolen, unlawfully converted, or taken” in second par.
+<b>1988</b>—Pub. L. 100–690, §7048, substituted “moving as, or which are a part of, or which constitute interstate or foreign commerce” for “which have crossed a State or United States boundary after being stolen, unlawfully converted, or taken” in second par.
 
 Pub. L. 100–690, §7057(b), struck out “or by a bank or corporation of any foreign country” after “foreign government” in last par. and inserted at end “This section also shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of any bank note or bill issued by a bank or corporation of any foreign country which is intended by the laws or usage of such country to circulate as money.”
 
-1986—Pub. L. 99–646 substituted “receives, possesses, conceals” for “receives, conceals” and “which have crossed a State or United States boundary after being stolen, unlawfully converted, or taken” for “moving as, or which are part of, or which constitute interstate or foreign commerce” in first and second pars.
+<b>1986</b>—Pub. L. 99–646 substituted “receives, possesses, conceals” for “receives, conceals” and “which have crossed a State or United States boundary after being stolen, unlawfully converted, or taken” for “moving as, or which are part of, or which constitute interstate or foreign commerce” in first and second pars.
 
-1961—Pub. L. 87–371 inserted “or tax stamps” after “securities”, wherever appearing, in second par., and “or tax stamp” after “security”, wherever appearing, in third par., and substituted “moneys, or fraudulent State tax stamps” for “or monies” in section catchline.
+<b>1961</b>—Pub. L. 87–371 inserted “or tax stamps” after “securities”, wherever appearing, in second par., and “or tax stamp” after “security”, wherever appearing, in third par., and substituted “moneys, or fraudulent State tax stamps” for “or monies” in section catchline.
 

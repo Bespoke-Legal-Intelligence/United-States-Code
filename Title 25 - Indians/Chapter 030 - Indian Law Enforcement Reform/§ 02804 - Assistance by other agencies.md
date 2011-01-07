@@ -1,8 +1,40 @@
 ### §2804. Assistance by other agencies
 
-#### (a) Agreement for use of personnel or facilities of Federal, tribal, State, or other government agency
+#### (a) Agreements
 
-The Secretary may enter into an agreement for the use (with or without reimbursement) of the personnel or facilities of a Federal, tribal, State, or other government agency to aid in the enforcement or carrying out in Indian country of a law of either the United States or an Indian tribe that has authorized the Secretary to enforce tribal laws. The Secretary may authorize a law enforcement officer of such an agency to perform any activity the Secretary may authorize under section 2803 of this title.
+#### (1) In general
+
+&emsp;Not later than 180 days after July 29, 2010, the Secretary shall establish procedures to enter into memoranda of agreement for the use (with or without reimbursement) of the personnel or facilities of a Federal, tribal, State, or other government agency to aid in the enforcement or carrying out in Indian country of a law of either the United States or an Indian tribe that has authorized the Secretary to enforce tribal laws.
+
+#### (2) Certain activities
+
+&emsp;The Secretary may authorize a law enforcement officer of such an agency to perform any activity the Secretary may authorize under section 2803 of this title.
+
+#### (3) Program enhancement
+
+#### (A) Training sessions in Indian country
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The procedures described in paragraph (1) shall include the development of a plan to enhance the certification and provision of special law enforcement commissions to tribal law enforcement officials, and, subject to subsection (d), State and local law enforcement officials, pursuant to this section.
+
+#### (ii) Inclusions
+
+&emsp;&emsp;&emsp;The plan under clause (i) shall include the hosting of regional training sessions in Indian country, not less frequently than biannually, to educate and certify candidates for the special law enforcement commissions.
+
+#### (B) Memoranda of agreement
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not later than 180 days after July 29, 2010, the Secretary, in consultation with Indian tribes and tribal law enforcement agencies, shall develop minimum requirements to be included in special law enforcement commission agreements pursuant to this section.
+
+#### (ii) Substance of agreements
+
+&emsp;&emsp;&emsp;Each agreement entered into pursuant to this section shall reflect the status of the applicable certified individual as a Federal law enforcement officer under subsection (f), acting within the scope of the duties described in section 2802(c) of this title.
+
+#### (iii) Agreement
+
+&emsp;&emsp;&emsp;Not later than 60 days after the date on which the Secretary determines that all applicable requirements under clause (i) are met, the Secretary shall offer to enter into a special law enforcement commission agreement with the Indian tribe.
 
 #### (b) Agreement to be in accord with agreements between Secretary and Attorney General
 
@@ -36,5 +68,25 @@ While acting under authority granted by the Secretary under subsection (a) of th
 
 &emsp;(2) an eligible officer under subchapter III of chapter 81 of title 5.
 
-(Pub. L. 101–379, §5, Aug. 18, 1990, 104 Stat. 476.)
+#### (g) Acceptance of assistance
+
+The Bureau may accept reimbursement, resources, assistance, or funding from—
+
+&emsp;(1) a Federal, tribal, State, or other government agency; or
+
+&emsp;(2) the Indian Law Enforcement Foundation established under section 458ccc–1(a) <sup>1</sup> of this title.
+
+(Pub. L. 101–379, §5, Aug. 18, 1990, 104 Stat. 476; Pub. L. 111–211, title II, §231(b), (e), July 29, 2010, 124 Stat. 2273, 2278.)
+
+#### References in Text
+
+Section 458ccc–1(a) of this title, referred to in subsec. (g)(2), was in the original “section 701(a) of the Indian Self-Determination and Education Assistance Act”, and was translated as reading “section 702(a) of the Indian Self-Determination and Education Assistance Act”, meaning section 702(a) of Pub. L. 93–638, to reflect the probable intent of Congress, because Pub. L. 93–638 does not contain a section 701(a), and section 702(a) of Pub. L. 93–638 relates to establishment of the Indian Law Enforcement Foundation.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–211, §231(b), inserted heading, designated first sentence as par. (1), inserted par. (1) heading, substituted “Not later than 180 days after July 29, 2010, the Secretary shall establish procedures to enter into memoranda of agreement” for “The Secretary may enter into an agreement”, designated second sentence as par. (2), inserted par. (2) heading, and added par. (3).
+
+Subsec. (g). Pub. L. 111–211, §231(e), added subsec. (g).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

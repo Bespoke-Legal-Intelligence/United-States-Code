@@ -14,13 +14,13 @@
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2006</b>—Subsec. (b). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Pub. L. 109–461, §704(a), substituted “December 31, 2011” for “December 31, 2006”.
 
 Pub. L. 109–444, which substituted “December 31, 2007” for “December 31, 2006”, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
-2001—Pub. L. 107–95, §5(b)(1), renumbered section 1771 of this title as this section.
+<b>2001</b>—Pub. L. 107–95, §5(b)(1), renumbered section 1771 of this title as this section.
 
 Subsec. (a)(3). Pub. L. 107–95, §5(b)(2), substituted “section 2032 of this title” for “section 1772 of this title”.
 

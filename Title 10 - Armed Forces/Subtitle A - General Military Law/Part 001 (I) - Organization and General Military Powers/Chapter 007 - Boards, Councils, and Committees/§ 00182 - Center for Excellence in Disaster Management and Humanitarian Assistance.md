@@ -32,7 +32,7 @@ Joint Operation With Educational Institution Authorized.—The Secretary of Defe
 
 (d)
 
-Acceptance of Donations.—(1) Except as provided in paragraph (2), the Secretary of Defense may accept, on behalf of the Center, donations to be used to defray the costs of the Center or to enhance the operation of the Center. Suchdonations may be accepted from any agency of the Federal Government, any State or local government, any foreign government, any foundation or other charitable organization (including any that is organized or operates under the laws of a foreign country), or any other private source in the United States or a foreign country.
+Acceptance of Donations.—(1) Except as provided in paragraph (2), the Secretary of Defense may accept, on behalf of the Center, donations to be used to defray the costs of the Center or to enhance the operation of the Center. Such donations may be accepted from any agency of the Federal Government, any State or local government, any foreign government, any foundation or other charitable organization (including any that is organized or operates under the laws of a foreign country), or any other private source in the United States or a foreign country.
 
 (2) The Secretary may not accept a donation under paragraph (1) if the acceptance of the donation would compromise or appear to compromise—
 

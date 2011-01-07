@@ -42,7 +42,7 @@ Section was enacted as part of the Aid, Trade, and Competitiveness Act of 1992 a
 
 #### Short Title of 1992 Amendment
 
-Section 301 of title III of Pub. L. 102–549 provided that: “This title \[enacting this section and sections 2421b to 2421e of this title and provisions set out as notes below\] may be cited as the ‘Aid, Trade, and Competitiveness Act of 1992’.”
+Section 301 of title III of Pub. L. 102–549 provided that: “This title \[enacting this section and sections2421b to 2421e of this title and provisions set out as notes below\] may be cited as the ‘Aid, Trade, and Competitiveness Act of 1992’.”
 
 #### Reports to Congress on Capital Projects
 

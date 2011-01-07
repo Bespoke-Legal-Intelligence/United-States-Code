@@ -54,7 +54,7 @@ Vessel owned by section 50501 citizen or united states citizen trust, and charte
 
 &emsp;&emsp;(A) during the period of an operating agreement under this chapter that applies to the vessel, the vessel will be—
 
-&emsp;&emsp;&emsp;(i) owned by a person that is a citizen of the United States under section 50501 ofthis title or that is a United States citizen trust; and
+&emsp;&emsp;&emsp;(i) owned by a person that is a citizen of the United States under section 50501 of this title or that is a United States citizen trust; and
 
 &emsp;&emsp;&emsp;(ii) demise chartered to a person—
 
@@ -152,7 +152,7 @@ The date of enactment of the Maritime Security Act of 2003, referred to in subse
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–304, §13(a)(1)(A), (B), substituted “section 50501” for “section 2” in the headings of pars. (1), (2), and (4) and substituted “section 50501 of this title” for “section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)” in pars. (1), (2)(A)(i), (ii)(II), (B), and (4)(B).
+<b>2006</b>—Subsec. (c). Pub. L. 109–304, §13(a)(1)(A), (B), substituted “section 50501” for “section 2” in the headings of pars. (1), (2), and (4) and substituted “section 50501 of this title” for “section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)” in pars. (1), (2)(A)(i), (ii)(II), (B), and (4)(B).
 
 Subsec. (d). Pub. L. 109–304, §13(a)(1)(C), substituted “section 501 of this title” for “the first section of Public Law 81–891 (64 Stat. 1120; 46 U.S.C. App. note prec. 3)”.
 

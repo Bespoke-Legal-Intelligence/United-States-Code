@@ -22,9 +22,3 @@ Any withdrawal or reservation made after the original location of such mining cl
 
 (Aug. 12, 1953, ch. 405, §1, 67 Stat. 539.)
 
-#### References in Text
-
-The mining laws of the United States, referred to in subsecs. (a) and (c), are classified generally to this title.
-
-For definition of “mineral leasing laws”, referred to in subsec. (a)(1) to (3), see section 505 of this title.
-

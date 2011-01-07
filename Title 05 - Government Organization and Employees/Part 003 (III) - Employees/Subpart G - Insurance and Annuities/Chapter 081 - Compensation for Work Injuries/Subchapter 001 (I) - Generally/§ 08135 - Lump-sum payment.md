@@ -64,7 +64,7 @@ Subsec. (b). Pub. L. 93–416, §16(b), inserted “before reaching age 60” af
 
 #### Change of Name
 
-United States Department of Health, Education, and Welfare redesignated the United States Department of Health and Human Services by section 3508 of Title 20, Education.
+United States Department of Health, Education, and Welfare redesignated the United States Department ofHealth and Human Services by section 3508 of Title 20, Education.
 
 #### Effective Date of 1974 Amendment
 

@@ -32,7 +32,7 @@ A prior section 1831 was renumbered section 3731 of this title.
 
 #### Amendments
 
-2003—Pub. L. 108–183, §102(a)(1), renumbered section 1821 of this title as this section.
+<b>2003</b>—Pub. L. 108–183, §102(a)(1), renumbered section 1821 of this title as this section.
 
 Par. (1). Pub. L. 108–183, §102(b), added par. (1) and struck out former par. (1) which read as follows: “The term ‘child’ means an individual, regardless of age or marital status, who—
 

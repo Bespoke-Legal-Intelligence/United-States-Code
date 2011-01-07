@@ -24,9 +24,9 @@ The Congress further finds and declares that the future welfare of the Nation an
 
 #### (c) Decent housing, suitable living environment, and economic opportunities for persons of low and moderate income; community development activities which may be supported by Federal assistance
 
-The primary objective of this chapter and of the community development program of each grantee under this chapter is the development of viable urban communities, by providing decent housing and a suitable living environment and expanding economic opportunities, principallyfor persons of low and moderate income. Consistent with this primary objective, not less than 70 percent of the aggregate of the Federal assistance provided to States and units of general local government under section 5306 of this title and, if applicable, the funds received as a result of a guarantee or a grant under section 5308 of this title, shall be used for the support of activities that benefit persons of low and moderate income, and the Federal assistance provided in this chapter is for the support of community development activities which are directed toward the following specific objectives—
+The primary objective of this chapter and of the community development program of each grantee under this chapter is the development of viable urban communities, by providing decent housing and a suitable living environment and expanding economic opportunities, principally for persons of low and moderate income. Consistent with this primary objective, not less than 70 percent of the aggregate of the Federal assistance provided to States and units of general local government under section 5306 of this title and, if applicable, the funds received as a result of a guarantee or a grant under section 5308 of this title, shall be used for the support of activities that benefit persons of low and moderate income, and the Federal assistance provided in this chapter is for the support of community development activities which are directed toward the following specific objectives—
 
-&emsp;(1) the elimination of slums and blight and the prevention of blighting influences and the deterioration of property and neighborhood and community facilities of importance to the welfare of the community, principally persons of low and moderate income;
+&emsp;(1) the elimination of slums and blight and the prevention of blighting influences and thedeterioration of property and neighborhood and community facilities of importance to the welfare of the community, principally persons of low and moderate income;
 
 &emsp;(2) the elimination of conditions which are detrimental to health, safety, and public welfare, through code enforcement, demolition, interim rehabilitation assistance, and related activities;
 
@@ -62,31 +62,31 @@ It is also the purpose of this chapter to further the development of a national 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c) and (d), was in the original “this title”, meaning title I of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, which enacted this chapter and amended sections 1452b, 1453, and 3311 of this title, section 1701u of Title 12, Banks and Banking, and section 711 of former Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsecs. (c) and (d), was in the original “this title”, meaning title I of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–233 inserted “or a grant” after “guarantee” in second sentence.
+<b>1994</b>—Subsec. (c). Pub. L. 103–233 inserted “or a grant” after “guarantee” in second sentence.
 
-1990—Subsec. (c). Pub. L. 101–625, §913(a), inserted “to States and units of general local government” after first reference to “Federal assistance provided” in second sentence.
+<b>1990</b>—Subsec. (c). Pub. L. 101–625, §913(a), inserted “to States and units of general local government” after first reference to “Federal assistance provided” in second sentence.
 
 Pub. L. 101–625, §902(a), substituted “70 percent” for “60 percent” in second sentence.
 
-1988—Subsec. (c). Pub. L. 100–242, §502(a), substituted “60” for “51”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–242, §502(a), substituted “60” for “51”.
 
 Subsec. (c)(6). Pub. L. 100–242, §502(b), struck out “to attract persons of higher income” before semicolon at end.
 
-1983—Subsec. (c). Pub. L. 98–181, §101(a)(1), inserted “and of the community development program of each grantee under this chapter” in provisions preceding par. (1).
+<b>1983</b>—Subsec. (c). Pub. L. 98–181, §101(a)(1), inserted “and of the community development program of each grantee under this chapter” in provisions preceding par. (1).
 
 Pub. L. 98–181, §101(a)(2), inserted “not less than 51 percent of the aggregate of the Federal assistance provided under section 5306 of this title and, if applicable, the funds received as a result of a guarantee under section 5308 of this title, shall be used for the support of activities that benefit persons of low and moderate income, and” in provisions preceding par. (1).
 
-1980—Subsec. (a)(3). Pub. L. 96–399, §104(a)(1)–(3), added par. (3).
+<b>1980</b>—Subsec. (a)(3). Pub. L. 96–399, §104(a)(1)–(3), added par. (3).
 
 Subsec. (b)(4). Pub. L. 96–399, §104(a)(4)–(6), added par. (4).
 
 Subsec. (c)(9). Pub. L. 96–399, §104(a)(7)–(9), added par. (9).
 
-1977—Subsec. (c)(8). Pub. L. 95–128, §101(a), added par. (8).
+<b>1977</b>—Subsec. (c)(8). Pub. L. 95–128, §101(a), added par. (8).
 
 Subsec. (d)(4). Pub. L. 95–128, §101(b), provided that the development activities be undertaken by Federal agencies and programs as well as by communities.
 
@@ -96,7 +96,7 @@ Section 209 of title II of Pub. L. 103–233 provided that: “The amendments ma
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–550, §2, Oct. 28, 1992, 106 Stat. 3681, provided that: “The provisions of this Act \[see Tables for classification\] and the amendments made by this Act shall take effect and shall apply upon the date of the enactment of this Act \[Oct. 28, 1992\], unless such provisions or amendments specifically provide for effectiveness or applicability upon another date certain.”
+Pub. L. 102–550, §2, Oct. 28, 1992, 106 Stat. 3681, provided that: “The provisions of this Act \[see Tables forclassification\] and the amendments made by this Act shall take effect and shall apply upon the date of the enactment of this Act \[Oct. 28, 1992\], unless such provisions or amendments specifically provide for effectiveness or applicability upon another date certain.”
 
 #### Effective Date of 1990 Amendment
 
@@ -140,7 +140,7 @@ Section 1 of Pub. L. 96–399 provided: “That this Act \[enacting sections 143
 
 #### Short Title of 1979 Amendment
 
-Pub. L. 96–153, §1, Dec. 21, 1979, 93 Stat. 1101, provided: “That this Act \[enacting section 1735f–7 of Title 12, Banks and Banking, section 1719a of Title 15, Commerceand Trade, and section 1437k of this title, amending section 5315 of Title 5, Government Organization and Employees, sections 90, 1426, 1431, 1451, 1452, 1455, 1464, 1701q, 1701s, 1701z–1, 1701z–11, 1703, 1706e, 1709, 1709–1, 1713, 1715e, 1715h, 1715k, 1715<i>l</i>, 1715m, 1715v, 1715y, 1715z, 1715z–1, 1715z–1a, 1715z–6, 1715z–7, 1715z–9, 1715z–10, 1717, 1728, 1735c, 1748h–1, 1748h–2, 1749bb, 1749aaa, 1749bbb, 1757, 1787, and 1821 of Title 12, sections 1701, 1702, 1703, 1708, 1709, 1711, 1715, and 1717 of Title 15, section 461 of former Title 40, Public Buildings, Property, and Works, and sections 1437a, 1437c, 1437d, 1437f, 1437g, 1439, 1452b, 1471, 1472, 1474, 1479, 1480, 1483, 1484, 1485, 1486, 1487, 1490a, 1490c, 3533a, 3541, 4026, 4056, 4127, 5302, 5303, 5304, 5306, 5318, 5419, 8107, 8123, 8124, and 8146 of this title, and enacting provisions set out as notes under sections 1701, 1701q, 1701s, 1703, 1709, 1723e, and 1728 of Title 12, section 1701 of Title 15, and sections 1437a, 1437f, and 5304 of this title\] may be cited as the ‘Housing and Community Development Amendments of 1979’.”
+Pub. L. 96–153, §1, Dec. 21, 1979, 93 Stat. 1101, provided: “That this Act \[enacting section 1735f–7 of Title 12, Banks and Banking, section 1719a of Title 15, Commerce and Trade, and section 1437k of this title, amending section 5315 of Title 5, Government Organization and Employees, sections 90, 1426, 1431, 1451, 1452, 1455, 1464, 1701q, 1701s, 1701z–1, 1701z–11, 1703, 1706e, 1709, 1709–1, 1713, 1715e, 1715h, 1715k, 1715<i>l</i>, 1715m, 1715v, 1715y, 1715z, 1715z–1, 1715z–1a, 1715z–6, 1715z–7, 1715z–9, 1715z–10, 1717, 1728, 1735c, 1748h–1, 1748h–2, 1749bb, 1749aaa, 1749bbb, 1757, 1787, and 1821 of Title 12, sections 1701, 1702, 1703, 1708, 1709, 1711, 1715, and 1717 of Title 15, section 461 of former Title 40, Public Buildings, Property, and Works, and sections 1437a, 1437c, 1437d, 1437f, 1437g, 1439, 1452b, 1471, 1472, 1474, 1479, 1480, 1483, 1484, 1485, 1486, 1487, 1490a, 1490c, 3533a, 3541, 4026, 4056, 4127, 5302, 5303, 5304, 5306, 5318, 5419, 8107, 8123, 8124, and 8146 of this title, and enacting provisions set out as notes under sections 1701, 1701q, 1701s, 1703, 1709, 1723e, and 1728 of Title 12, section 1701 of Title 15, and sections 1437a, 1437f, and 5304 of this title\] may be cited as the ‘Housing and Community Development Amendments of 1979’.”
 
 #### Short Title of 1978 Amendment
 
@@ -154,15 +154,81 @@ Section 1 of Pub. L. 95–128 provided that: “This Act \[enacting sections 354
 
 Section 1 of Pub. L. 93–383 provided: “That this Act \[enacting this chapter, sections 1701j–2, 1701<i>l</i>–1, 1701z–5, 1701z–6, 1706e, 1715z–9 to 1715z–11, and 1735f–3 to 1735f–5 of Title 12, Banks and Banking, section 803a of Title 20, Education, and sections 1437 to 1437j, 1438 to 1440, 1490e to 1490g, 4104a, and 5401 to 5426 of this title, amending sections 5315 and 5316 of Title 5, Government Organization and Employees, sections 24, 371, 1431, 1436, 1454, 1464, 1701q, 1701u, 1701x, 1701z–3, 1703, 1709, 1709–1, 1713, 1715e, 1715h, 1715k to 1715n, 1715v, 1715w, 1715y, 1715z, 1715z–1, 1715z–3, 1715z–6, 1715z–7, 1717, 1718, 1719, 1723a, 1735b, 1748h–1, 1748h–2, 1749bb, 1749aaa, 1749aaa–4, 1749aaa–5, 1757, 1759, 1761b, 1761d, 1763, 1772, 1782, 1786, and 1788 of Title 12, sections 1701 to 1703 of Title 15, Commerce and Trade, sections 801, 802, and 806 of Title 20, section 711 of former Title 31, Money and Finance, sections 460 and 461 of former Title 40, Public Buildings, Property, and Works, sections 1441a, 1441c, 1452b, 1453, 1471, 1472, 1474, 1476 to 1478, 1483, 1485, 1487, 1490, 1490a, 1490c, 1490d, 1586, 3311, 3533, 3604 to 3606, 3631, 4014, 4512, 4514 to 4516, 4519, and 4532 of this title, and sections 1602 and 1602a of former Title 49, Transportation, repealing sections 1411d and 1455a of this title, and enacting provisions set out as notes under this section, sections 1464, 1701q, 1715<i>l</i>, 1715z–1, 1716b, and 1723a of Title 12, section 1703 of Title 15, sections 1410, 1421b, 1437, 1437a, 1437f, 3532, and 5401 of this title, and section 1602a of former Title 49\] may be cited as the ‘Housing and Community Development Act of 1974’.”
 
+#### Additional Assistance for Neighborhood Stabilization Program
+
+Pub. L. 111–203, title XIV, §1497, July 21, 2010, 124 Stat. 2209, provided that:
+
+“(a)
+
+In General.—Effective October 1, 2010, out of funds in the Treasury not otherwise appropriated, there is hereby made available to the Secretary of Housing and Urban Development $1,000,000,000, and the Secretary of Housing and Urban Development shall use such amounts for assistance to States and units of general local government for the redevelopment of abandoned and foreclosed homes, in accordance with the same provisions applicable under the second undesignated paragraph under the heading ‘Community Planning and Development—Community Development Fund’ in title XII of division A of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5; 123 Stat. 217) to amounts made available under such second undesignated paragraph, except as follows:
+
+&emsp;“(1) Notwithstanding the matter of such second undesignated paragraph that precedes the first proviso, amounts made available by this section shall remain available until expended.
+
+&emsp;“(2) The 3rd, 4th, 5th, 6th, 7th, and 15th provisos of such second undesignated paragraph shall not apply to amounts made available by this section.
+
+&emsp;“(3) Amounts made available by this section shall be allocated based on a funding formula for such amounts established by the Secretary in accordance with section 2301(b) of the Housing and Economic Recovery Act of 2008 \[Pub. L. 110–289\] (42 U.S.C. 5301 note), except that—
+
+&emsp;&emsp;“(A) notwithstanding paragraph (2) of such section 2301(b), the formula shall be established not later than 30 days after the date of the enactment of this Act \[July 21, 2010\];
+
+&emsp;&emsp;“(B) notwithstanding such section 2301(b), each State shall receive, at a minimum, not less than 0.5 percent of funds made available under this section;
+
+&emsp;&emsp;“(C) the Secretary may establish a minimum grant amount for direct allocations to units of general local government located within a State, which shall not exceed $1,000,000;
+
+&emsp;&emsp;“(D) each State and local government receiving grant amounts shall establish procedures to create preferences for the development of affordable rental housing for properties assisted with amounts made available by this section; and
+
+&emsp;&emsp;“(E) the Secretary may use not more than 2 percent of the funds made available under this section for technical assistance to grantees.
+
+&emsp;“(4) Paragraph (1) of section 2301(c) of the Housing and Economic Recovery Act of 2008 shall not apply to amounts made available by this section.
+
+&emsp;“(5) The fourth proviso from the end of such second undesignated paragraph shall be applied to amounts made available by this section by substituting ‘2013’ for ‘2012’.
+
+&emsp;“(6) Notwithstanding section 2301(a) of the Housing and Economic Recovery Act of 2008, the term ‘State’ means any State, as defined in section 102 of the Housing and Community Development Act of 1974 (42 U.S.C. 5302), and the District of Columbia, for purposes of this section and this title \[title XIV of Pub. L. 111–203, see Short Title of 2010 Amendment note set out under section 1601 of Title 15, Commerce and Trade\], as applied to amounts made available by this section.
+
+&emsp;“(7)(A) None of the amounts made available by this section shall be distributed to—
+
+&emsp;&emsp;“(i) any organization which has been convicted for a violation under Federal law relating to an election for Federal office; or
+
+&emsp;&emsp;“(ii) any organization which employs applicable individuals.
+
+&emsp;“(B) In this paragraph, the term ‘applicable individual’ means an individual who—
+
+&emsp;&emsp;“(i) is—
+
+&emsp;&emsp;&emsp;“(I) employed by the organization in a permanent or temporary capacity;
+
+&emsp;&emsp;&emsp;“(II) contracted or retained by the organization; or
+
+&emsp;&emsp;&emsp;“(III) acting on behalf of, or with the express or apparent authority of, the organization; and
+
+&emsp;&emsp;“(ii) has been convicted for a violation under Federal law relating to an election for Federal office.
+
+&emsp;“(8) An eligible entity receiving a grant under this section shall, to the maximum extent feasible, provide for the hiring of employees who reside in the vicinity, as such term is defined by the Secretary, of projects funded under this section or contract with small businesses that are owned and operated by persons residing in the vicinity of such projects.
+
+“(b)
+
+Additional Amendments.—
+
+&emsp;“(1)
+
+Section 2301.—Section 2301(f)(3)(A)(ii) of the Housing and Economic Recovery Act of 2008 \[Pub. L. 110–289\] (42 U.S.C. 5301(f)(3)(A)(ii)) \[set out below\]—
+
+&emsp;&emsp;“(A) \[Amended section 2301(f)(3)(A)(ii) of Pub. L. 110–289, set out below\]
+
+&emsp;&emsp;“(B) shall apply with respect to any unexpended or unobligated balances, including recaptured and reallocated funds made available under this Act \[see Tables for classification\], section 2301 of the Housing and Economic Recovery Act of 2008 (42 U.S.C. 5301 \[note\]), and the heading ‘Community Planning and Development—Community Development Fund’ in title XII of division A of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5; 123 Stat. 217).
+
+&emsp;“(2)
+
+Notice of foreclosure.—For any amounts made available under this section, under division B, title III of the Housing and Economic Recovery Act of 2008 (42 U.S.C. 5301 \[note\]), or under the heading ‘Community Planning and Development—Community Development Fund’ in title XII of division A of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5; 123 Stat. 217), the date of a notice of foreclosure shall be deemed to be the date on which complete title to a property is transferred to a successor entity or person as a result of an order of a court or pursuant to provisions in a mortgage, deed of trust, or security deed.”
+
 #### Acquisition of Tenant-Occupied Foreclosed Dwelling or Residential Real Property
 
-Pub. L. 111–5, div. A, title XII, Feb. 17, 2009, 123 Stat. 218, provided in part: “That in the case of any acquisition of a foreclosed upon dwelling or residential real property acquired after the date of enactment \[probably means the date of enactment of Pub. L. 111–5, Feb. 17, 2009\] with any amounts made available under this heading \[Community Development Fund\] or under division B, title III of the Housing and Economic Recovery Act of 2008 (Public Law 110–289) \[set out below\], the initial successor in interest in such property pursuant to the foreclosure shall assume such interest subject to: (1) the provision by such successor in interest of a notice to vacate to any bona fide tenant at least 90 days before the effective date of such notice; and (2) the rights of any bona fide tenant, as of the date of such notice of foreclosure: (A) under any bona fide lease entered into before the notice of foreclosure to occupy the premises until the end of the remaining term of the lease, except that a successor in interest may terminate a lease effective on the date of sale of the unit to a purchaser who will occupy the unit as a primary residence, subject to the receipt by the tenant of the 90-day notice under this paragraph; or (B) without a lease or with a lease terminable at will under State law, subject to the receipt by the tenant of the 90-day notice under this paragraph, except that nothing in this paragraph shall affect the requirements for termination of any Federal- or State-subsidized tenancy or of any State or local law that provides longer time periods or other additional protections for tenants: <i>Provided further</i>, That, for purposes of this paragraph, a lease or tenancy shall be considered bona fide only if: (1) the mortgagor under the contract is not the tenant; (2) the lease or tenancy was the result of an arms-length transaction; and (3) the lease or tenancy requires the receipt of rent that is not substantially less than fair market rent for the property: <i>Provided further</i>, That the recipient of any grant or loan from amounts made available under this heading or, after the date of enactment, under division B, title III of the Housing and Economic Recovery Act of 2008 (Public Law 110–289) may not refuse to lease a dwelling unit in housing assisted with such loan or grant to a holder of a voucher or certificate of eligibility under section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f) because of the status of the prospective tenant as such a holder: <i>Provided further</i>, That in the case of any qualified foreclosed housing for which funds made available under this heading or, after the date of enactment, under division B, title III of the Housing and Economic Recovery Act of 2008 (Public Law 110–289) are used and in which a recipient of assistance under section 8(<i>o</i>) of the U.S. Housing Act of 1937 resides at the time of foreclosure, the initial successor in interest shall be subject to the lease and to the housing assistance payments contract for the occupied unit: <i>Provided further</i>, That vacating the property prior to sale shall not constitute good cause for termination of the tenancy unless the property is unmarketable while occupied or unless the owner or subsequent purchaser desires the unit for personal or family use: <i>Provided further</i>, That if a public housing agency is unable to make payments under the contract to the immediate successor in interest after foreclosures, due to (1) an action or inaction by the successor in interest, including the rejection of payments or the failure of the successor tomaintain the unit in compliance with section 8(<i>o</i>)(8) of the United States Housing Act of 1937 (42 U.S.C.1437f) or (2) an inability to identify the successor, the agency may use funds that would have been used to pay the rental amount on behalf of the family—(i) to pay for utilities that are the responsibility of the owner under the lease or applicable law, after taking reasonable steps to notify the owner that it intends to make payments to a utility provider in lieu of payments to the owner, except prior notification shall not be required in any case in which the unit will be or has been rendered uninhabitable due to the termination or threat of termination of service, in which case the public housing agency shall notify the owner within a reasonable time after making such payment; or (ii) for the family's reasonable moving costs, including security deposit costs: <i>Provided further</i>, That this paragraph shall not preempt any Federal, State or local law that provides more protections for tenants”.
+Pub. L. 111–5, div. A, title XII, Feb. 17, 2009, 123 Stat. 218, provided in part: “That in the case of any acquisition of a foreclosed upon dwelling or residential real property acquired after the date of enactment \[probably means the date of enactment of Pub. L. 111–5, Feb. 17, 2009\] with any amounts made available under this heading \[Community Development Fund\] or under division B, title III of the Housing and Economic Recovery Act of 2008 (Public Law 110–289) \[set out below\], the initial successor in interest in such property pursuant to the foreclosure shall assume such interest subject to: (1) the provision by such successor in interest of a notice to vacate to any bona fide tenant at least 90 days before the effective date of such notice; and (2) the rights of any bona fide tenant, as of the date of such notice of foreclosure: (A) under any bona fide lease entered into before the notice of foreclosure to occupy the premises until the end of the remaining term of the lease, except that a successor in interest may terminate a lease effective on the date of sale of the unit to a purchaser who will occupy the unit as a primary residence, subject to the receipt by the tenant of the 90-day notice under this paragraph; or (B) without a lease or with a lease terminable at will under State law, subject to the receipt by the tenant of the 90-day notice under this paragraph, except that nothing in this paragraph shall affect the requirements for termination of any Federal- or State-subsidized tenancy or of any State or local law that provides longer time periods or other additional protections for tenants: <i>Provided further</i>, That, for purposes of this paragraph, a lease or tenancy shall be considered bona fide only if: (1) the mortgagor under the contract is not the tenant; (2) the lease or tenancy was the result of an arms-length transaction; and (3) the lease or tenancy requires the receipt of rent that is not substantially less than fair market rent for the property: <i>Provided further</i>, That the recipient of any grant or loan from amounts made available under this heading or, after the date of enactment, under division B, title III of the Housing and Economic Recovery Act of 2008 (Public Law 110–289) may not refuse to lease a dwelling unit in housing assisted with such loan or grant to a holder of a voucher or certificate of eligibility under section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f) because of the status of the prospective tenant as such a holder: <i>Provided further</i>, That in the case of any qualified foreclosed housing for which funds made available under this heading or, after the date of enactment, under division B, title III of the Housing and Economic Recovery Act of 2008 (Public Law 110–289) are used and in which a recipient of assistance under section 8(<i>o</i>) of the U.S. Housing Act of 1937 resides at the time of foreclosure, the initial successor in interest shall be subject to the lease and to the housing assistance payments contract for the occupied unit: <i>Provided further</i>, That vacating the property prior to sale shall not constitute good cause for termination of the tenancy unless the property is unmarketable while occupied or unless the owner or subsequent purchaser desires the unit for personal or family use: <i>Provided further</i>, That if a public housing agency is unable to make payments under the contract to the immediate successor in interest after foreclosures, due to (1) an action or inaction by the successor in interest, including the rejection of payments or the failure of the successor to maintain the unit in compliance with section 8(<i>o</i>)(8) of the United States Housing Act of 1937 (42 U.S.C.1437f) or (2) an inability to identify the successor, the agency may use funds that would have been used to pay the rental amount on behalf of the family—(i) to pay for utilities that are the responsibility of the owner under the lease or applicable law, after taking reasonable steps to notify the owner that it intends to make payments to a utility provider in lieu of payments to the owner, except prior notification shall not be required in any case in which the unit will be or has been rendered uninhabitable due to the termination or threat of termination of service, in which case the public housing agency shall notify the owner within a reasonable time after making such payment; or (ii) for the family's reasonable moving costs, including security deposit costs: <i>Provided further</i>, That this paragraph shall not preempt any Federal, State or local law that provides more protections for tenants”.
 
 #### Emergency Assistance for the Redevelopment of Abandoned and Foreclosed Homes
 
 Pub. L. 111–5, div. A, title XII, Feb. 17, 2009, 123 Stat. 218, provided in part: “That the recipient of any grant or loan from amounts made available under this heading \[Community Development Fund\] or, after the date of enactment under division B, title III of the Housing and Economic Recovery Act of 2008 \[Pub. L. 110–289, set out below\], may not refuse to lease a dwelling unit in housing with such loan or grant to a participant under section 8 of the United States Housing Act of 1937 (42 U.S.C 1437f) because of the status of the prospective tenant as such a participant”.
 
-Pub. L. 110–289, div. B, title III, July 30, 2008, 122 Stat. 2850, as amended by Pub. L. 111–5, div. A, title XII, Feb. 17, 2009, 123 Stat. 218; Pub. L. 111–22, div. A, title I, §105(a), May 20, 2009, 123 Stat. 1638, provided that:
+Pub. L. 110–289, div. B, title III, July 30, 2008, 122 Stat. 2850, as amended by Pub. L. 111–5, div. A, title XII, Feb. 17, 2009, 123 Stat. 218; Pub. L. 111–22, div. A, title I, §105(a), May 20, 2009, 123 Stat. 1638; Pub. L. 111–203, title XIV, §1497(b)(1)(A), July 21, 2010, 124 Stat. 2210, provided that:
 
 #### “SEC. 2301. EMERGENCY ASSISTANCE FOR THE REDEVELOPMENT OF ABANDONED AND FORECLOSED HOMES.
 
@@ -254,7 +320,7 @@ Rules of Construction.—
 
 &emsp;“(1)
 
-In general.—Except as otherwise provided by this section, amounts appropriated, revenues generated, or amounts otherwise made available to States and units of general local government under this section shall be treated as though such funds were community development block grant fundsunder title I of the Housing and Community Development Act of 1974 (42 U.S.C. 5301 et seq.).
+In general.—Except as otherwise provided by this section, amounts appropriated, revenues generated, or amounts otherwise made available to States and units of general local government under this section shall be treated as though such funds were community development block grant funds under title I of the Housing and Community Development Act of 1974 (42 U.S.C. 5301 et seq.).
 
 &emsp;“(2)
 
@@ -282,7 +348,7 @@ In general.—Notwithstanding the authority of the Secretary under paragraph (1)
 
 &emsp;&emsp;&emsp;“(i) all of the funds appropriated or otherwise made available under this section shall be used with respect to individuals and families whose income does not exceed 120 percent of area median income; and
 
-&emsp;&emsp;&emsp;“(ii) not less than 25 percent of the funds appropriated or otherwise made available under this section shall be used for the purchase and redevelopment of abandoned or foreclosed upon homes or residential properties that will be used to house individuals or families whose incomes do not exceed 50 percent of area median income.
+&emsp;&emsp;&emsp;“(ii) not less than 25 percent of the funds appropriated or otherwise made available under this section shall be used to house individuals or families whose incomes do not exceed 50 percent of area median income.
 
 &emsp;&emsp;“(B)
 
@@ -294,7 +360,7 @@ Periodic Audits.—In consultation with the Secretary of Housing and Urban Devel
 
 #### “SEC. 2302. NATIONWIDE DISTRIBUTION OF RESOURCES.
 
-“Notwithstanding any other provision of this Act \[see Short Title of 2008 Amendment note set out under section 1701 of Title 12\] or the amendments made by this Act, each State shall receive not less than 0.5 percent of funds made available under section 2301 (relating to emergency assistance for the redevelopment of abandoned and foreclosed homes).
+“Notwithstanding any other provision of this Act \[see Short Title of 2008 Amendment note set out undersection 1701 of Title 12\] or the amendments made by this Act, each State shall receive not less than 0.5 percent of funds made available under section 2301 (relating to emergency assistance for the redevelopment of abandoned and foreclosed homes).
 
 #### “SEC. 2303. LIMITATION ON USE OF FUNDS WITH RESPECT TO EMINENT DOMAIN.
 
@@ -327,6 +393,8 @@ Applicable Individuals Defined.—In this section, the term ‘applicable indivi
 #### “SEC. 2305. COUNSELING INTERMEDIARIES.
 
 “Notwithstanding any other provision of this Act \[see Short Title of 2008 Amendment note set out under section 1701 of Title 12\], the amount appropriated under section 2301(a) of this Act shall be $3,920,000,000 and the amount appropriated under section 2401 of this Act \[122 Stat. 2854\] shall be $180,000,000: <i>Provided</i>, That of the amount appropriated under section 2401 of this Act pursuant to this section, not less than 15 percent shall be provided to counseling organizations that target counseling services regarding loss mitigation to minority and low-income homeowners or provide such services in neighborhoods with high concentrations of minority and low-income homeowners: <i>Provided further</i>, That of amounts appropriated under such section 2401 $30,000,000 shall be used by the Neighborhood Reinvestment Corporation (referred to in this section as the ‘NRC’) to make grants to counseling intermediaries approved by the Department of Housing and Urban Development or the NRC to hire attorneys to assist homeowners who have legal issues directly related to the homeowner's foreclosure, delinquency or short sale. Such attorneys shall be capable of assisting homeowners of owner-occupied homes with mortgages in default, in danger of default, or subject to or at risk of foreclosure and who have legal issues that cannot be handled by counselors already employed by such intermediaries: <i>Provided further</i>, That of the amounts provided for in the prior provisos the NRC shall give priority consideration to counseling intermediaries and legal organizations that (1) provide legal assistance in the 100 metropolitan statistical areas (as defined by the Director of the Office of Management and Budget) with the highest home foreclosure rates, and (2) have the capacity to begin using the financial assistance within 90 days after receipt of the assistance: <i>Provided further</i>, That no funds provided under this Act shall be used to provide, obtain, or arrange on behalf of a homeowner, legal representation involving or for the purposes of civil litigation: <i>Provided further</i>, That the NRC, in awarding counseling grants under section 2401 of this Act, may consider, where appropriate, whether the entity has implemented a written plan for providing in-person counseling and for making contact, including personal contact, with defaulted mortgagors, for the purpose of providing counseling or providing information about available counseling.”
+
+\[Pub. L. 111–203, §1497(b)(1)(A), which directed amendment of section 2301(f)(3)(A)(ii) of Pub. L. 110–289, set out above, by striking out “for the purchase and redevelopment of abandoned and foreclosed upon homes or residential properties that will be used”, was executed by striking out “for the purchase and redevelopment of abandoned or foreclosed upon homes or residential properties that will be used” before “to house”, to reflect the probable intent of Congress.\]
 
 \[Pub. L. 111–22, div. A, title I, §105(b), May 20, 2009, 123 Stat. 1638, provided that: “The amendment made by subsection (a) \[amending section 2301 of Pub. L. 110–289, set out above\] shall take effect as if enacted on the date of enactment of the Foreclosure Prevention Act of 2008 (Public Law 110–289) \[July 30, 2008\].”\]
 

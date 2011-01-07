@@ -48,9 +48,9 @@ In subsection (b), the words “chapters 33 and 51 and subchapter III of chapter
 
 #### Amendments
 
-2003—Subsec. (a)(1). Pub. L. 108–169 substituted “The” for “During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000, the”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–169 substituted “The” for “During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000, the”.
 
-2000—Subsec. (a)(1). Pub. L. 106–503, §113(d)(1), substituted “During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000, the Administrator” for “The Administrator” in introductory provisions.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–503, §113(d)(1), substituted “During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000, the Administrator” for “The Administrator” in introductory provisions.
 
 Subsec. (a)(1)(B). Pub. L. 106–503, §113(d)(2), substituted “may” for “shall”.
 

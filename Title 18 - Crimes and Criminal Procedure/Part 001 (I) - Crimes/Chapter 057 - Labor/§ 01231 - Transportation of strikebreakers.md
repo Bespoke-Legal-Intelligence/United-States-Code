@@ -30,7 +30,7 @@ This section \[section 30\] corrects a typographical error in section 1231 of ti
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in third par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in third par.
 
-1949—Act May 24, 1949, substituted “or travels in” for “in or travels” in second par.
+<b>1949</b>—Act May 24, 1949, substituted “or travels in” for “in or travels” in second par.
 

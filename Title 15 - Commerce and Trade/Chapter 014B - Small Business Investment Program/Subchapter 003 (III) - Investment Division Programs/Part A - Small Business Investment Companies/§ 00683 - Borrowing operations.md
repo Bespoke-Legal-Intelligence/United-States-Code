@@ -2,11 +2,11 @@
 
 #### (a) Authority to issue obligations
 
-Each small business investment company shall have authority to borrow money and to issue its securities, promissory notes, or other obligations under such general conditions and subject to such limitations and regulations as the Administration may prescribe.
+Each small business investment company shall have authority to borrow money and to issue its securities, promissory notes, or other obligations under such general conditions andsubject to such limitations and regulations as the Administration may prescribe.
 
 #### (b) Debentures and participating securities
 
-To encourage the formation and growth of small business investment companies the Administration is authorized when authorized in appropriation Acts, to purchase, or to guarantee the timely payment of all principal and interest as scheduled on, debentures or participating securities issued by such companies. Such purchases or guarantees may be made by the Administration on such terms and conditions as it deems appropriate, pursuant to regulations issued by the Administration. The full faith and credit of the United States is pledged to the payment of all amounts which may be required to be paid under any guarantee under this subsection. Debentures purchased or guaranteed by the Administration under this subsection shall be subordinate to any other debenture bonds, promissory notes, or other debts and obligations of such companies, unless the Administration in its exercise of reasonable investment prudence and in considering the financial soundness of such company determines otherwise. Such debentures may be issued for a term of not to exceed fifteen years and shall bear interest at a rate not less than a rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities on such debentures,adjusted to the nearest one-eighth of 1 percent, plus, for debentures obligated after September 30, 2001, an additional charge, in an amount established annually by the Administration, as necessary to reduce to zero the cost (as defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter, which amount may not exceed 1.38 percent per year, and which shall be paid to and retained by the Administration. The debentures or participating securities shall also contain such other terms as the Administration may fix, and shall be subject to the following restrictions and limitations:
+To encourage the formation and growth of small business investment companies the Administration is authorized when authorized in appropriation Acts, to purchase, or to guarantee the timely payment of all principal and interest as scheduled on, debentures or participating securities issued by such companies. Such purchases or guarantees may be made by the Administration on such terms and conditions as it deems appropriate, pursuant to regulations issued by the Administration. The full faith and credit of the United States is pledged to the payment of all amounts which may be required to be paid under any guarantee under this subsection. Debentures purchased or guaranteed by the Administration under this subsection shall be subordinate to any other debenture bonds, promissory notes, or other debts and obligations of such companies, unless the Administration in its exercise of reasonable investment prudence and in considering the financial soundness of such company determines otherwise. Such debentures may be issued for a term of not to exceed fifteen years and shall bear interest at a rate not less than a rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities on such debentures, adjusted to the nearest one-eighth of 1 percent, plus, for debentures obligated after September 30, 2001, an additional charge, in an amount established annually by the Administration, as necessary to reduce to zero the cost (as defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter, which amount may not exceed 1.38 percent per year, and which shall be paid to and retained by the Administration. The debentures or participating securities shall also contain such other terms as the Administration may fix, and shall be subject to the following restrictions and limitations:
 
 &emsp;(1) The total amount of debentures and participating securities that may be guaranteed by the Administration and outstanding from a company licensed under section 681(c) of this title shall not exceed 300 per centum of the private capital of such company: <i>Provided</i>, That nothing in this paragraph shall require any such company that on March 31, 1993, has outstanding debentures in excess of 300 per centum of its private capital to prepay such excess: <i>And provided further</i>, That any such company may apply for an additional debenture guarantee or participating security guarantee with the proceeds to be used solely to pay the amount due on such maturing debenture, but the maturity of the new debenture or security shall be not later than September 30, 2002.
 
@@ -60,7 +60,7 @@ Maximum investment.—A company shall not make an Energy Saving qualified invest
 
 &emsp;&emsp;&emsp;&emsp;(III)
 
-Other terms.—The exclusion of amounts under clause (i) shall be subject to such terms as the Administrator may impose to ensure that there is no cost (as that term is defined in section 661a of title 2) with respect to purchasing or guaranteeing any debenture involved.
+Other terms.—The exclusion of amounts under clause (i) shall be subject to such terms as the Administrator may impose to ensure that there is no cost (as that term is defined in section 661a oftitle 2) with respect to purchasing or guaranteeing any debenture involved.
 
 &emsp;(3) Subject to the foregoing dollar and percentage limits, a company licensed under section 681(c) of this title may issue and have outstanding both guaranteed debentures and participating securities: <i>Provided</i>, That the total amount of participating securities outstanding shall not exceed 200 per centum of private capital.
 
@@ -108,7 +108,7 @@ In order to encourage small business investment companies to provide equity capi
 
 &emsp;(1) Participating securities shall be redeemed not later than 15 years after their date of issuance for an amount equal to 100 per centum of the original issue price plus the amount of any accrued prioritized payment: <i>Provided</i>, That if, at the time the securities are redeemed, whether as scheduled or in advance, the issuing company (A) has not paid all accrued prioritized payments in full as provided in paragraph (2) below and (B) has not sold or otherwise disposed of all investments subject to profit distributions pursuant to paragraph (11), the company's obligation to pay accrued and unpaid prioritized payments shall continue and payment shall be made from the realized gain, if any, on the disposition of such investments, but if on disposition there is no realized gain, the obligation to pay accrued and unpaid prioritized payments shall be extinguished: <i>Provided further</i>, That in the interim, the company shall not make any in-kind distributions of such investments unless it pays to the Administration such sums, up to the amount of the unrealized appreciation on such investments, as may be necessary to pay in full the accrued prioritized payments.
 
-&emsp;(2) Prioritized payments on participating securities shall be preferred and cumulative and payable out of the retained earnings available for distribution, as defined by the Administration, of the issuing company at a rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities on such securities, adjusted to the nearest one-eighth of 1 percent, plus, for participating securities obligated after September 30, 2001, an additional charge, in an amount established annually by the Administration, as necessary to reduce to zero the cost (as defined in section 661a of title 2) to the Administration of purchasing and guaranteeing participating securities under this chapter, which amount may not exceed 1.46 percent per year, and which shall be paid to and retained by the Administration.
+&emsp;(2) Prioritized payments on participating securities shall be preferred and cumulative and payable out of the retained earnings available for distribution, as defined by the Administration, of the issuing company at a rate determined by the Secretary of the Treasury taking into consideration the current average marketyield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities on such securities, adjusted to the nearest one-eighth of 1 percent, plus, for participating securities obligated after September 30, 2001, an additional charge, in an amount established annually by the Administration, as necessary to reduce to zero the cost (as defined in section 661a of title 2) to the Administration of purchasing and guaranteeing participating securities under this chapter, which amount may not exceed 1.46 percent per year, and which shall be paid to and retained by the Administration.
 
 &emsp;(3) In the event of liquidation of the company, participating securities shall be senior in priority for all purposes to all other equity interests in the issuing company, whenever created.
 
@@ -174,13 +174,13 @@ With respect to leverage granted by the Administration to a licensee, the Admini
 
 #### (j) Calculation of subsidy rate
 
-All fees, interest, and profits received and retained by the Administration under this section shall be included in the calculations made by the Director of the Office of Management and Budget to offset the cost (as that term is defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures and participating securities under this chapter.
+All fees, interest, and profits received and retained by the Administration under this section shall be included in the calculations made by the Director of the Office of Management andBudget to offset the cost (as that term is defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures and participating securities under this chapter.
 
 #### (k) Energy saving debentures
 
 In addition to any other authority under this chapter, a small business investment company licensed in the first fiscal year after December 19, 2007, or any fiscal year thereafter may issue Energy Saving debentures.
 
-(Pub. L. 85–699, title III, §303, Aug. 21, 1958, 72 Stat. 692; Pub. L. 87–341, §4, Oct. 3, 1961, 75 Stat. 752; Pub. L. 88–273, §3, Feb. 28, 1964, 78 Stat. 146; Pub. L. 90–104, title II, §205, Oct. 11, 1967, 81 Stat. 270; Pub. L. 92–213, §10, Dec. 22, 1971, 85 Stat. 776; Pub. L. 92–595, §2(c), (d), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §104, June 4, 1976, 90 Stat. 665; Pub. L. 95–507, title I, §101, Oct. 24, 1978, 92 Stat. 1757; Pub. L. 101–162, title V, (4), Nov. 21, 1989, 103 Stat. 1025; Pub. L. 101–574, title II, §215(a)(1), (b), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 102–366, title IV, §§402, 403, 412, 413, Sept. 4, 1992, 106 Stat. 1008, 1009, 1018; Pub. L. 103–403, title II, §215, Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–208, div. D, title II, §208(d)(1)–(4)(A), (5), (6), (h)(1)(A), Sept. 30, 1996, 110 Stat. 3009–743, 3009–744, 3009–746; Pub. L. 105–135, title II, §215(b)–(d), Dec. 2, 1997, 111 Stat. 2602, 2603; Pub. L. 106–9, §2(d)(1), Apr. 5, 1999, 113 Stat. 18; Pub. L. 106–554, §1(a)(8) \[§1(d)\], §1(a)(9) \[title IV, §§404, 405\], Dec. 21, 2000, 114 Stat. 2763, 2763A–664, 2763A–690, 2763A–691; Pub. L. 107–100, §2(a), Dec. 21, 2001, 115 Stat. 966; Pub. L. 108–84, §117, Sept. 30, 2003, 117 Stat. 1044; Pub. L. 108–172, §1(b), Dec.6, 2003, 117 Stat. 2065; Pub. L. 108–447, div. K, title II, §201, Dec. 8, 2004, 118 Stat. 3465; Pub. L. 110–140, title XII, §§1205(a), 1206, Dec. 19, 2007, 121 Stat. 1773; Pub. L. 111–5, div. A, title V, §505(a), (c), Feb. 17, 2009, 123 Stat. 156, 157.)
+(Pub. L. 85–699, title III, §303, Aug. 21, 1958, 72 Stat. 692; Pub. L. 87–341, §4, Oct. 3, 1961, 75 Stat. 752; Pub. L. 88–273, §3, Feb. 28, 1964, 78 Stat. 146; Pub. L. 90–104, title II, §205, Oct. 11, 1967, 81 Stat. 270; Pub. L. 92–213, §10, Dec. 22, 1971, 85 Stat. 776; Pub. L. 92–595, §2(c), (d), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §104, June 4, 1976, 90 Stat. 665; Pub. L. 95–507, title I, §101, Oct. 24, 1978, 92 Stat. 1757; Pub. L. 101–162, title V, (4), Nov. 21, 1989, 103 Stat. 1025; Pub. L. 101–574, title II, §215(a)(1), (b), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 102–366, title IV, §§402, 403, 412, 413, Sept. 4, 1992, 106 Stat. 1008, 1009, 1018; Pub. L. 103–403, title II, §215, Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–208, div. D, title II, §208(d)(1)–(4)(A), (5), (6), (h)(1)(A), Sept. 30, 1996, 110 Stat. 3009–743, 3009–744, 3009–746; Pub. L. 105–135, title II, §215(b)–(d), Dec. 2, 1997, 111 Stat. 2602, 2603; Pub. L. 106–9, §2(d)(1), Apr. 5, 1999, 113 Stat. 18; Pub. L. 106–554, §1(a)(8) \[§1(d)\], §1(a)(9) \[title IV, §§404, 405\], Dec. 21, 2000, 114 Stat. 2763, 2763A–664, 2763A–690, 2763A–691; Pub. L. 107–100, §2(a), Dec. 21, 2001, 115 Stat. 966; Pub. L. 108–84, §117, Sept. 30, 2003, 117 Stat. 1044; Pub. L. 108–172, §1(b), Dec. 6, 2003, 117 Stat. 2065; Pub. L. 108–447, div. K, title II, §201, Dec. 8, 2004, 118 Stat. 3465; Pub. L. 110–140, title XII, §§1205(a), 1206, Dec. 19, 2007, 121 Stat. 1773; Pub. L. 111–5, div. A, title V, §505(a), (c), Feb. 17, 2009, 123 Stat. 156, 157.)
 
 #### References in Text
 
@@ -188,7 +188,7 @@ For definition of “this chapter”, referred to in subsecs. (b), (e), (g)(2), 
 
 #### Amendments
 
-2009—Subsec. (b)(2)(A), (B). Pub. L. 111–5, §505(a)(1), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which set forth the maximum amount of outstanding leverage for a company with private capital of not more than $15,000,000, for a company with from $15,000,000 to $30,000,000 in private capital, and for a company with private capital of more than $30,000,000, and set forth provisions relating to initial and annual adjustments of amounts.
+<b>2009</b>—Subsec. (b)(2)(A), (B). Pub. L. 111–5, §505(a)(1), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which set forth the maximum amount of outstanding leverage for a company with private capital of not more than $15,000,000, for a company with from $15,000,000 to $30,000,000 in private capital, and for a company with private capital of more than $30,000,000, and set forth provisions relating to initial and annual adjustments of amounts.
 
 Subsec. (b)(2)(C). Pub. L. 111–5, §505(a)(2), designated existing provisions as cl. (i) and added cls. (ii) and (iii).
 
@@ -196,21 +196,21 @@ Subsec. (b)(4). Pub. L. 111–5, §505(a)(3), struck out par. (4) which related 
 
 Subsec. (d). Pub. L. 111–5, §505(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to written certification that not less than 20 percent of the licensee's aggregate dollar amount of financings would be provided to smaller enterprises, required additional written certification by those licensees with leverage over $90,000,000, and set forth provisions relating to multiple licensees.
 
-2007—Subsec. (b)(2)(D). Pub. L. 110–140, §1206(a), added subpar. (D).
+<b>2007</b>—Subsec. (b)(2)(D). Pub. L. 110–140, §1206(a), added subpar. (D).
 
 Subsec. (b)(4)(E). Pub. L. 110–140, §1206(b), added subpar. (E).
 
 Subsec. (k). Pub. L. 110–140, §1205(a), added subsec. (k).
 
-2004—Subsec. (g)(4). Pub. L. 108–447 substituted “chapter” for “subsection” in first sentence and “from appropriate sources, as determined by the Administration” for “contingent upon and limited to the extent of earnings” in second sentence.
+<b>2004</b>—Subsec. (g)(4). Pub. L. 108–447 substituted “chapter” for “subsection” in first sentence and “from appropriate sources, as determined by the Administration” for “contingent upon and limited to the extent of earnings” in second sentence.
 
-2003—Subsec. (g)(2). Pub. L. 108–84 and Pub. L. 108–172 amended par. (2) identically, substituting “1.46 percent” for “1.38 percent”.
+<b>2003</b>—Subsec. (g)(2). Pub. L. 108–84 and Pub. L. 108–172 amended par. (2) identically, substituting “1.46 percent” for “1.38 percent”.
 
-2001—Subsec. (b). Pub. L. 107–100, §2(a)(1), in introductory provisions, substituted “September 30, 2001” for “September 30, 2000”, struck out “of not more than 1 percent per year” after “annually by the Administration,”, and inserted “which amount may not exceed 1.38 percent per year, and” before “which shall be paid”.
+<b>2001</b>—Subsec. (b). Pub. L. 107–100, §2(a)(1), in introductory provisions, substituted “September 30, 2001” for “September 30, 2000”, struck out “of not more than 1 percent per year” after “annually by the Administration,”, and inserted “which amount may not exceed 1.38 percent per year, and” before “which shall be paid”.
 
 Subsec. (g)(2). Pub. L. 107–100, §2(a)(2), substituted “September 30, 2001” for “September 30, 2000”, struck out “of not more than 1 percent per year” after “annually by the Administration,”, and inserted “which amount may not exceed 1.38 percent per year, and” before “which shall be paid”.
 
-2000—Subsec. (b). Pub. L. 106–554, §1(a)(9) \[title IV, §404(a)\], in introductory provisions, substituted “plus, for debentures obligated after September 30, 2000, an additional charge, in an amount established annually by the Administration, of not more than 1 percent per year as necessary to reduce to zero the cost (as defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter, which shall be paid to and retained by the Administration” for “plus an additional charge of 1 percent per annum which shall be paid to and retained by the Administration”.
+<b>2000</b>—Subsec. (b). Pub. L. 106–554, §1(a)(9) \[title IV, §404(a)\], in introductory provisions, substituted “plus, for debentures obligated after September 30, 2000, an additional charge, in an amount established annually by the Administration, of not more than 1 percent per year as necessary to reduce to zero the cost (as defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter, which shall be paid to and retained by the Administration” for “plus an additional charge of 1 percent per annum which shall be paid to and retained by the Administration”.
 
 Subsec. (b)(2). Pub. L. 106–554, §1(a)(8) \[§1(d)(1)\], amended par. (2) generally, revising structure of par. from one consisting of introductory provisions and subpars. (A) to (D) to one consisting of subpars. (A) and (B), and adding subpar. (C).
 
@@ -220,7 +220,7 @@ Subsec. (g)(2). Pub. L. 106–554, §1(a)(9) \[title IV, §404(b)\], substituted
 
 Subsec. (g)(8). Pub. L. 106–554, §1(a)(9) \[title IV, §405\], substituted “subchapter S corporation” for “subchapter s corporation”, “any time during any calendar quarter based on an” for “the end of any calendar quarter based on a quarterly”, and “interim distributions for a calendar year,” for “quarterly distributions for a calendar year,”.
 
-1999—Subsec. (g)(13). Pub. L. 106–9 struck out heading and text of par. (13). Text read as follows:
+<b>1999</b>—Subsec. (g)(13). Pub. L. 106–9 struck out heading and text of par. (13). Text read as follows:
 
 “(A)
 
@@ -230,9 +230,9 @@ In general.—Subject to the provisions of subparagraph (B), of the amount of th
 
 Exception.—During the last quarter of each fiscal year, if the Administrator determines that there is a lack of qualified applicants with private capital of not more than $20,000,000, the Administrator may utilize all or any part of the program level for securities reserved under subparagraph (A) for qualified applicants with private capital of more than $20,000,000.”
 
-1997—Subsec. (b)(2)(D). Pub. L. 105–135, §215(b)(1)(A), added subpar. (D).
+<b>1997</b>—Subsec. (b)(2)(D). Pub. L. 105–135, §215(b)(1)(A), added subpar. (D).
 
-Subsec. (b)(4). Pub. L. 105–135, §215(b)(1)(B), added par. (4) and struck out former par. (4) which read as follows: “In no event shall the aggregate amount of outstanding leverage of any such company or companies which are commonly controlled as determined by the Administration exceed $90,000,000, unless the Administration determines on a case by case basis to permit a higher amount for companies under common control and imposes such additional terms and conditions as it determines appropriate to minimize the risk of loss to the Administration in the event of default.”
+Subsec. (b)(4). Pub. L. 105–135, §215(b)(1)(B), added par. (4) and struck out former par. (4) which read as follows: “In no event shall the aggregate amount of outstanding leverage of any such company or companies which arecommonly controlled as determined by the Administration exceed $90,000,000, unless the Administration determines on a case by case basis to permit a higher amount for companies under common control and imposes such additional terms and conditions as it determines appropriate to minimize the risk of loss to the Administration in the event of default.”
 
 Subsec. (d). Pub. L. 105–135, §215(b)(2), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “The Administrator shall require each licensee, as a condition of approval of an application for leverage, to certify in writing that not less than 20 percent of the aggregate dollar amount of the financings of the licensee will be provided to smaller enterprises.”
 
@@ -240,9 +240,9 @@ Subsec. (g)(8). Pub. L. 105–135, §215(c), inserted at end “A company may al
 
 Subsec. (i). Pub. L. 105–135, §215(d), substituted “in the following manner: 1 percent upon the date on which the Administration enters into any commitment for such leverage with the licensee, and the balance of 2 percent (or 3 percent if no commitment has been entered into by the Administration) on the date on which the leverage is drawn by the licensee” for “, payable upon the earlier of the date of entry into any commitment for such leverage or the date on which the leverage is drawn by the licensee” before period at end.
 
-1996—Subsec. (a). Pub. L. 104–208, §208(h)(1)(A)(i), substituted “securities,” for “debenture bonds,”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §208(h)(1)(A)(i), substituted “securities,” for “debenture bonds,”.
 
-Subsec. (b). Pub. L. 104–208, §208(d)(1), (6)(A), in first sentence struck out “(but only to the extent that thenecessary funds are not available to said company from private sources on reasonable terms)” after “is authorized” and in fifth sentence substituted “1 percent, plus an additional charge of 1 percent per annum which shall be paid to and retained by the Administration” for “1 per centum, plus such additional charge, if any, toward covering other costs of the program as the Administration may determine to be consistent with its purposes”.
+Subsec. (b). Pub. L. 104–208, §208(d)(1), (6)(A), in first sentence struck out “(but only to the extent that the necessary funds are not available to said company from private sources on reasonable terms)” after “is authorized” and in fifth sentence substituted “1 percent, plus an additional charge of 1 percent per annum which shall be paid to and retained by the Administration” for “1 per centum, plus such additional charge, if any, toward covering other costs of the program as the Administration may determine to be consistent with its purposes”.
 
 Subsec. (c). Pub. L. 104–208, §208(d)(2), inserted heading and amended text of subsec. (c) generally. Prior to amendment, text consisted of 7 pars. which authorized the Administration to purchase securities and to purchase or guarantee payments on debentures issued by small business investment companies operating under section 681(d) of this title.
 
@@ -260,9 +260,9 @@ Subsec. (g)(8). Pub. L. 104–208, §208(h)(1)(A)(iii), substituted “partners,
 
 Subsecs. (i), (j). Pub. L. 104–208, §208(d)(6)(C), added subsecs. (i) and (j).
 
-1994—Subsec. (g)(13). Pub. L. 103–403 added par. (13).
+<b>1994</b>—Subsec. (g)(13). Pub. L. 103–403 added par. (13).
 
-1992—Subsec. (b). Pub. L. 102–366, §402(1), inserted “or participating securities” after “debentures” in first and sixth sentences.
+<b>1992</b>—Subsec. (b). Pub. L. 102–366, §402(1), inserted “or participating securities” after “debentures” in first and sixth sentences.
 
 Subsec. (b)(1) to (4). Pub. L. 102–366, §402(2), added pars. (1) to (4) and struck out former pars. (1) to (3) which read as follows:
 
@@ -280,23 +280,23 @@ Subsec. (c)(6). Pub. L. 102–366, §402(3), inserted before period at end “,�
 
 Subsec. (c)(7). Pub. L. 102–366, §402(4), added par. (7).
 
-Subsec. (e). Pub. L. 102–366, §413, inserted “licensed under section 681(d) of this title and notwithstandingsection 662(9) of this title” after “company” and substituted “to November 21, 1989: <i>Provided</i>, That such companies may include in private capital for any purpose funds indirectly obtained from State or local governments. As used in this subsection, the term ‘capital indirectly obtained’ includes income generated by a State financing authority or similar State institution or agency or from the investment of State or local money or amounts originally provided to nonprofit institutions or corporations which such institutions or corporations, in their discretion, determine to invest in a company licensed under section 681(d) of this title.” for “prior to November 21, 1989.”
+Subsec. (e). Pub. L. 102–366, §413, inserted “licensed under section 681(d) of this title and notwithstanding section 662(9) of this title” after “company” and substituted “to November 21, 1989: <i>Provided</i>, That such companies may include in private capital for any purpose funds indirectly obtained from State or local governments. As used in this subsection, the term ‘capital indirectly obtained’ includes income generated by a State financing authority or similar State institution or agency or from the investment of State or local money or amounts originally provided to nonprofit institutions or corporations which such institutions or corporations, in their discretion, determine to invest in a company licensed under section 681(d) of this title.” for “prior to November 21, 1989.”
 
 Subsecs. (g), (h). Pub. L. 102–366, §403, added subsecs. (g) and (h).
 
-1990—Subsec. (b)(1). Pub. L. 101–574, §215(a)(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “In no event shall the debentures of any such company purchased or guaranteed and outstanding under this paragraph exceed $35,000,000.”
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–574, §215(a)(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “In no event shall the debentures of any such company purchased or guaranteed and outstanding under this paragraph exceed $35,000,000.”
 
 Subsec. (c)(6). Pub. L. 101–574, §215(b)(1), inserted “under the provisions of this subchapter,” after “debentures or securities”.
 
 Subsec. (d). Pub. L. 101–574, §215(b)(2), struck out after second sentence “The aggregate amount of debentures with interest rate reductions as provided in this subsection or as provided in section 687i of this title which may be outstanding at any time from any such company shall not exceed 200 per centum of the private paid-in capital and paid-in surplus of such company.”
 
-1989—Subsec. (c). Pub. L. 101–162 added subsec. (c) and struck out former subsec. (c) which contained provisions substantially similar to introductory provisions and pars. (1) to (4).
+<b>1989</b>—Subsec. (c). Pub. L. 101–162 added subsec. (c) and struck out former subsec. (c) which contained provisions substantially similar to introductory provisions and pars. (1) to (4).
 
 Subsecs. (d) to (f). Pub. L. 101–162 added subsecs. (d) to (f).
 
-1978—Subsec. (c)(1). Pub. L. 95–507 increased the amount of preferred stock small business investment companies were authorized to sell to the Administration so long as such preferred stock leverage did not exceed 200 per centum of the qualified paid-in capital and so long as the amount of such stock purchased by the Administration was not greater in amount than the investment companies’ outstanding equity investments and inserted definition of “equity securities”.
+<b>1978</b>—Subsec. (c)(1). Pub. L. 95–507 increased the amount of preferred stock small business investment companies were authorized to sell to the Administration so long as such preferred stock leverage did not exceed 200 per centum of the qualified paid-in capital and so long as the amount of such stock purchased by the Administration was not greater in amount than the investment companies’ outstanding equity investments and inserted definition of “equity securities”.
 
-1976—Subsec. (b)(1). Pub. L. 94–305, §104(a), substituted “300” for “200” and “$35,000,000” for “$15,000,000”.
+<b>1976</b>—Subsec. (b)(1). Pub. L. 94–305, §104(a), substituted “300” for “200” and “$35,000,000” for “$15,000,000”.
 
 Subsec. (b)(2). Pub. L. 94–305, §104(b), substituted “400” for “300” and “$35,000,000” for “$20,000,000”.
 
@@ -304,19 +304,19 @@ Subsec. (c)(2)(iii). Pub. L. 94–305, §104(c), substituted “400” for “30
 
 Subsec. (c)(4). Pub. L. 94–305, §104(c)(2), substituted “300” for “200”.
 
-1972—Subsec. (b)(1). Pub. L. 92–595, §2(c)(1), (2), substituted “combined private paid-in capital” for “combined paid-in capital” and “$15,000,000” for “$7,500,000”.
+<b>1972</b>—Subsec. (b)(1). Pub. L. 92–595, §2(c)(1), (2), substituted “combined private paid-in capital” for “combined paid-in capital” and “$15,000,000” for “$7,500,000”.
 
 Subsec. (b)(2). Pub. L. 92–595, §2(c)(3), substituted provisions relating to the purchase of debentures from companies not complying with section 681(d) of this title having investments or legal commitments of 65 per cent or more and whose combined private paid-in capital and paid-in surplus is $500,000 or more for provisions relating to such purchase from companies having investments or legal commitments of 65 per cent or more and whose combined paid-in capital and paid-in surplus is $1,000,000 or more, and increased the maximum amount of outstanding debentures from $10,000,000 to $20,000,000.
 
 Subsec. (c). Pub. L. 92–595, §2(d), added subsec. (c).
 
-1971—Subsec. (b). Pub. L. 92–213 inserted provision for a guaranty authority for the Administration and inserted requirement that such guaranty authority of the Administration be exercised only when authorized in appropriation Acts, authorized the purchase or guaranty on such terms as the Administration deems appropriate pursuant to regulations issued by the Administration, pledged the full faith and credit of the United States to the payment of amounts required to be paid in full under such guaranty, and struck out provision authorizing Administration cooperation with banks or other lending institutions in the purchase of debentures.
+<b>1971</b>—Subsec. (b). Pub. L. 92–213 inserted provision for a guaranty authority for the Administration and inserted requirement that such guaranty authority of the Administration be exercised only when authorized in appropriation Acts, authorized the purchase or guaranty on such terms as the Administration deems appropriate pursuant to regulations issued by the Administration, pledged the full faith and credit of the United States to the payment of amounts required to be paid in full under such guaranty, and struck out provision authorizing Administration cooperation with banks or other lending institutions in the purchase of debentures.
 
-1967—Subsec. (b). Pub. L. 90–104 substituted purchase of debenture provisions of former section 682(a) of this title for former provision for loans (eliminating participation on deferred (standby) basis), incorporated subordination provision of such former section 682(a) (inserting provision for Administration exercise of reasonable investment prudence and for consideration of financial soundness of the company), provided for maximum term of fifteen years, substituted rate of interest taking into consideration current average market yield on outstanding marketable Treasury obligations with remaining periods to maturity comparable to average maturities on such debentures, as adjusted plus charge toward cost of programs, for rate of interest not lower than average investment yield on marketable Treasury obligations outstanding at time of loan involved, and added pars. (1) to (3) and definition of venture capital, former par. (1) limiting Administration purchases of company obligations to 50 per centum of paid-in capital and surplus or $4,000,000, whichever is less, and par. (2) requiring loans to be of such sound value as reasonably to assure repayment.
+<b>1967</b>—Subsec. (b). Pub. L. 90–104 substituted purchase of debenture provisions of former section 682(a) of this title for former provision for loans (eliminating participation on deferred (standby) basis), incorporated subordination provision of such former section 682(a) (inserting provision for Administration exercise of reasonable investment prudence and for consideration of financial soundness of the company), provided for maximum term of fifteen years, substituted rate of interest taking into consideration current average market yield on outstanding marketable Treasury obligations with remaining periods to maturity comparable to average maturities on such debentures, as adjusted plus charge toward cost of programs, for rate of interest not lower than average investment yield on marketable Treasury obligations outstanding at time of loan involved, and added pars. (1) to (3) and definition of venture capital, former par. (1) limiting Administration purchases of company obligations to 50 per centum of paid-in capital and surplus or $4,000,000, whichever is less, and par. (2) requiring loans to be of such sound value as reasonably to assure repayment.
 
-1964—Subsec. (b). Pub. L. 88–273 provided for participation loans by Administration with lending institutions on an immediate or deferred basis and for a minimum interest rate measured by the average investment yield on marketable obligations of the United States outstanding at the time of the loan involved, and designated existing provisions as clauses (1) and (2).
+<b>1964</b>—Subsec. (b). Pub. L. 88–273 provided for participation loans by Administration with lending institutions on an immediate or deferred basis and for a minimum interest rate measured by the average investment yield on marketable obligations of the United States outstanding at the time of the loan involved, and designated existing provisions as clauses (1) and (2).
 
-1961—Subsec. (b). Pub. L. 87–341 limited the Administration's authorization to lend funds to the extent that the funds are not available to the company involved from private sources on reasonable terms, and the total amount of obligations, including commitments to purchase such obligations, which can be purchased in any one company to not more than 50 percent of the paid-in capital and surplus or $4,000,000, whichever is less, and inserted “All loans made by the Administration under this subsection shall be of such sound value as reasonably to assure repayment.”
+<b>1961</b>—Subsec. (b). Pub. L. 87–341 limited the Administration's authorization to lend funds to the extent that the funds are not available to the company involved from private sources on reasonable terms, and the total amount of obligations, including commitments to purchase such obligations, which can be purchased in anyone company to not more than 50 percent of the paid-in capital and surplus or $4,000,000, whichever is less, and inserted “All loans made by the Administration under this subsection shall be of such sound value as reasonably to assure repayment.”
 
 #### Effective Date of 2007 Amendment
 
@@ -344,7 +344,7 @@ Section 208(d)(4)(B) of div. D of Pub. L. 104–208 provided that:
 
 “(i)
 
-Uniform applicability.—Any regulation issued by the Administration to implement section 303(e) ofthe Small Business Investment Act of 1958 \[15 U.S.C. 683(e)\] that applies to any licensee with outstanding leverage obtained before the effective date of that regulation, shall apply uniformly to all licensees with outstanding leverage obtained before that effective date.
+Uniform applicability.—Any regulation issued by the Administration to implement section 303(e) of the Small Business Investment Act of 1958 \[15 U.S.C. 683(e)\] that applies to any licensee with outstanding leverage obtained before the effective date of that regulation, shall apply uniformly to all licensees with outstanding leverage obtained before that effective date.
 
 “(ii)
 

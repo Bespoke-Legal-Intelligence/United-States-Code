@@ -6,9 +6,9 @@ After December 31, 1968, it shall be unlawful to deny any person access to or me
 
 #### Amendments
 
-1988—Pub. L. 100–430 inserted “handicap, familial status,” after “sex,”.
+<b>1988</b>—Pub. L. 100–430 inserted “handicap, familial status,” after “sex,”.
 
-1974—Pub. L. 93–383 inserted “, sex” after “religion”.
+<b>1974</b>—Pub. L. 93–383 inserted “, sex” after “religion”.
 
 #### Effective Date of 1988 Amendment
 

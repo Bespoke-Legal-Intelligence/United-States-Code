@@ -184,7 +184,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) by reason of the failure of a consumer to provide sufficient information to investigate the disputed information; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the submission by a consumer of a dispute that is substantially the same as a dispute previously submitted by or for the consumer, either directly to the person or through a consumer reporting agency under subsection (b) of this section, with respect to which the personhas already performed the person's duties under this paragraph or subsection (b) of this section, as applicable.
+&emsp;&emsp;&emsp;&emsp;(II) the submission by a consumer of a dispute that is substantially the same as a dispute previously submitted by or for the consumer, either directly to the person or through a consumer reporting agency under subsection (b) of this section, with respect to which the person has already performed the person's duties under this paragraph or subsection (b) of this section, as applicable.
 
 #### (ii) Notice of determination
 
@@ -258,7 +258,7 @@ The provisions of law described in paragraphs (1) through (3) of subsection (c) 
 
 #### (2) Coordination
 
-&emsp;Each agency required to prescribe regulations under paragraph (1) shall consult and coordinate with each other such agency so that, to the extent possible, the regulations prescribed by each such entity are consistentand comparable with the regulations prescribed by each other such agency.
+&emsp;Each agency required to prescribe regulations under paragraph (1) shall consult and coordinate with each other such agency so that, to the extent possible, the regulations prescribed by each such entity are consistent and comparable with the regulations prescribed by each other such agency.
 
 #### (3) Criteria
 
@@ -272,7 +272,57 @@ The provisions of law described in paragraphs (1) through (3) of subsection (c) 
 
 &emsp;&emsp;(D) examine the policies and processes that persons that furnish information to consumer reporting agencies employ to conduct reinvestigations and correct inaccurate information relating to consumers that has been furnished to consumer reporting agencies.
 
-(Pub. L. 90–321, title VI, §623, as added Pub. L. 104–208, div. A, title II, §2413(a)(2), Sept. 30, 1996, 110 Stat. 3009–447; Pub. L. 108–159, title I, §154(a), title II, §217(a), title III, §§312(a)–(e)(1), 314(b), title IV, §412(a), Dec. 4, 2003, 117 Stat. 1966, 1986, 1989–1993, 1995, 2002.)
+(Pub. L. 90–321, title VI, §623, as added Pub. L. 104–208, div. A, title II, §2413(a)(2), Sept. 30, 1996, 110 Stat. 3009–447; amended Pub. L. 108–159, title I, §154(a), title II, §217(a), title III, §§312(a)–(e)(1), 314(b), title IV, §412(a), Dec. 4, 2003, 117 Stat. 1966, 1986, 1989–1993, 1995, 2002; Pub. L. 111–203, title X, §1088(a)(2)(D), (11), July 21, 2010, 124 Stat. 2087, 2090.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1088(a)(2)(D), (11), 1100H, July 21, 2010, 124 Stat. 2087, 2090, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
+
+<i>(1) by striking “The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly” each place that term appears and inserting “The Bureau shall”;</i>
+
+<i>(2) in subsection (a)(7), by striking subparagraph (D) and inserting the following:</i>
+
+#### <i>“(D) Model disclosure</i>
+
+#### <i>“(i) Duty of Bureau</i>
+
+&emsp;&emsp;&emsp;<i>“The Bureau shall prescribe a brief model disclosure that a financial institution may use to comply with subparagraph (A), which shall not exceed 30 words.</i>
+
+#### <i>“(ii) Use of model not required</i>
+
+&emsp;&emsp;&emsp;<i>“No provision of this paragraph may be construed to require a financial institution to use any such model form prescribed by the Bureau.</i>
+
+#### <i>“(iii) Compliance using model</i>
+
+&emsp;&emsp;&emsp;<i>“A financial institution shall be deemed to be in compliance with subparagraph (A) if the financial institution uses any model form prescribed by the Bureau under this subparagraph, or the financial institution uses any such model form and rearranges its format.”;</i>
+
+<i>(3) in subsection (a)(8), by inserting “, in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration,” before “shall jointly”; and</i>
+
+<i>(4) by striking subsection (e) and inserting the following:</i>
+
+#### <i>“(e) Accuracy guidelines and regulations required</i>
+
+#### <i>“(1) Guidelines</i>
+
+&emsp;<i>“The Bureau shall, with respect to persons or entities that are subject to the enforcement authority of the Bureau under section 1681s of this title—</i>
+
+&emsp;&emsp;<i>“(A) establish and maintain guidelines for use by each person that furnishes information to a consumer reporting agency regarding the accuracy and integrity of the information relating to consumers that such entities furnish to consumer reporting agencies, and update such guidelines as often as necessary; and</i>
+
+&emsp;&emsp;<i>“(B) prescribe regulations requiring each person that furnishes information to a consumer reporting agency to establish reasonable policies and procedures for implementing the guidelines established pursuant to subparagraph (A).</i>
+
+#### <i>“(2) Criteria</i>
+
+&emsp;<i>“In developing the guidelines required by paragraph (1)(A), the Bureau shall—</i>
+
+&emsp;&emsp;<i>“(A) identify patterns, practices, and specific forms of activity that can compromise the accuracy and integrity of information furnished to consumer reporting agencies;</i>
+
+&emsp;&emsp;<i>“(B) review the methods (including technological means) used to furnish information relating to consumers to consumer reporting agencies;</i>
+
+&emsp;&emsp;<i>“(C) determine whether persons that furnish information to consumer reporting agencies maintain and enforce policies to ensure the accuracy and integrity of information furnished to consumer reporting agencies; and</i>
+
+&emsp;&emsp;<i>“(D) examine the policies and processes that persons that furnish information to consumer reporting agencies employ to conduct reinvestigations and correct inaccurate information relating to consumers that has been furnished to consumer reporting agencies.”</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -280,7 +330,7 @@ A prior section 623 of Pub. L. 90–321 was renumbered section 625 and is classi
 
 #### Amendments
 
-2003—Subsec. (a)(1)(A). Pub. L. 108–159, §312(b)(1), substituted “knows or has reasonable cause to believe that the information is inaccurate” for “knows or consciously avoids knowing that the information is inaccurate”.
+<b>2003</b>—Subsec. (a)(1)(A). Pub. L. 108–159, §312(b)(1), substituted “knows or has reasonable cause to believe that the information is inaccurate” for “knows or consciously avoids knowing that the information is inaccurate”.
 
 Subsec. (a)(1)(D). Pub. L. 108–159, §312(b)(2), added subpar. (D).
 
@@ -301,6 +351,10 @@ Subsec. (c). Pub. L. 108–159, §312(e)(1), added subsec. (c) and struck out he
 Subsec. (d). Pub. L. 108–159, §312(e)(1), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Subsection (a) of this section shall be enforced exclusively under section 1681s of this title by the Federal agencies and officials and the State officials identified in that section.”
 
 Subsec. (e). Pub. L. 108–159, §312(a), added subsec. (e).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2003 Amendment
 

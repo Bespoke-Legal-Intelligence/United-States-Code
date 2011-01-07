@@ -18,7 +18,7 @@ In making the determination under subsection (a) of this section the Commission 
 
 &emsp;(1) such terms and conditions as the Fish and Wildlife Service <sup>1</sup> National Marine Fisheries Service <sup>1</sup> and the State agency each determine are appropriate to prevent loss of, or damage to, such resources and to otherwise carry out the purposes of such Act, and
 
-&emsp;(2) such terms and conditions as the Commission deems appropriate to insure that such facility continues to comply with the provisions of this section and terms and conditions included in any such exemption.
+&emsp;(2) such terms and conditions as the Commission deems appropriate to insure that suchfacility continues to comply with the provisions of this section and terms and conditions included in any such exemption.
 
 #### (d) Violation of terms of exemption
 
@@ -40,7 +40,7 @@ A prior section 30 of act June 10, 1920, was classified to section 791 of this t
 
 #### Amendments
 
-1986—Subsec. (b). Pub. L. 99–495, §7(a), inserted provision setting the maximum installation capacity for exemptions under subsec. (a) at 40 megawatts in the case of a facility constructed, operated, and maintained by an agency or instrumentality of a State or local government solely for water supply for municipal purposes.
+<b>1986</b>—Subsec. (b). Pub. L. 99–495, §7(a), inserted provision setting the maximum installation capacity for exemptions under subsec. (a) at 40 megawatts in the case of a facility constructed, operated, and maintained by an agency or instrumentality of a State or local government solely for water supply for municipal purposes.
 
 Subsec. (c). Pub. L. 99–495, §7(b), which directed the insertion of “National Marine Fisheries Service” after “the Fish and Wildlife Service” in both places such term appears, was executed by inserting “National Marine Fisheries Service” after “the United States Fish and Wildlife Service” and “the Fish and Wildlife Service”, as the probable intent of Congress.
 

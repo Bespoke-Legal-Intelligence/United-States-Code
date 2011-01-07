@@ -12,7 +12,7 @@ The Secretary is authorized to make urban development action grants to cities an
 
 &emsp;(A) in the case of a city with a population of fifty thousand persons or more or an urban county, contains an area (i) composed of one or more contiguous census tracts, enumeration districts, neighborhood statistics areas, or block groups, as defined by the United States Bureau of the Census, having at least a population of ten thousand persons or 10 per centum of the population of the city or urban county; (ii) in which at least 70 per centum of the residents have incomes below 80 per centum of the median income of the city or urban county; and (iii) in which at least 30 per centum of the residents have incomes below the national poverty level; or
 
-&emsp;(B) in the case of a city with a population of less than fifty thousand persons, contains an area (i) composed of one or more contiguous census tracts, enumeration districts, neighborhood statistics areas, or block groups or other areas defined by the United States Bureau of the Census or for which data certified by the United States Bureau of the Census are available having at least a population of two thousand five hundred persons or 10 per centum of the population of the city, whichever is greater; (ii) in which at least 70 per centum of the residents have incomes below 80 per centum of the median income of the city; and (iii) in which at least 30 per centum of the residents have incomes below the national poverty level.
+&emsp;(B) in the case of a city with a population of less than fifty thousand persons, contains an area (i) composed of one or more contiguous census tracts, enumeration districts, neighborhood statistics areas, or block groups orother areas defined by the United States Bureau of the Census or for which data certified by the United States Bureau of the Census are available having at least a population of two thousand five hundred persons or 10 per centum of the population of the city, whichever is greater; (ii) in which at least 70 per centum of the residents have incomes below 80 per centum of the median income of the city; and (iii) in which at least 30 per centum of the residents have incomes below the national poverty level.
 
 > The Secretary shall use up to, but not more than, 20 per centum of the funds appropriated for use in any fiscal year under this section for the purpose of making grants to cities and urban counties eligible under this paragraph.
 
@@ -56,7 +56,7 @@ Applications for assistance under this section shall—
 
 &emsp;&emsp;&emsp;(IV) producing decent housing for low- and moderate-income persons in cases where such housing is in severe shortage in the area of the applicant, except that an application shall be considered to produce housing for low- and moderate-income persons under this clause only if such application proposes that (a) not less than 51 percent of all funds available for the project shall be used for dwelling units and related facilities; and (b) not less than 30 percent of all funds used for dwelling units and related facilities shall be used for dwelling units to be occupied by persons of low and moderate income, or not less than 20 percent of all dwelling units made available to occupancy using such funds shall be occupied by persons of low and moderate income, whichever results in the occupancy of more dwelling units by persons of low and moderate income;
 
-&emsp;&emsp;(vi) the impact of the proposed activities on the fiscal base of the city or urban county and its relation to the amount of grant funds requested;
+&emsp;&emsp;(vi) the impact of the proposed activities on the fiscal base of the city or urban countyand its relation to the amount of grant funds requested;
 
 &emsp;&emsp;(vii) the extent to which State or local Government <sup>1</sup> funding or special economic incentives have been committed; and
 
@@ -110,7 +110,7 @@ The Secretary may not approve any grant to a city or urban county eligible under
 
 &emsp;(1) the grant will be used in connection with a project located in an area described in subsection (b)(2) of this section, except that the Secretary may waive this requirement where the Secretary determines (A) that there is no suitable site for the project within that area, (B) the project will be located directly adjacent to that area, and (C) the project will contribute substantially to the economic development of that area;
 
-&emsp;(2) the city or urban county has demonstrated to the satisfaction of the Secretary that basic services supplied by the city or urban county to the area described in subsection (b)(2) of this section are at least equivalent, as measured by per capita expenditures, to those supplied to other areas within the city or urban county which are similar in population size and physical characteristics and which have median incomes above the median income for the city or urban county;
+&emsp;(2) the city or urban county has demonstrated to the satisfaction of the Secretary that basic services supplied by the city or urban county to the area described in subsection (b)(2) of this section are at least equivalent, as measured by per capita expenditures, to those supplied to other areas within the city or urban county which are similar in population size and physical characteristics andwhich have median incomes above the median income for the city or urban county;
 
 &emsp;(3) the grant will be used in connection with a project which will directly benefit the low- and moderate-income families and individuals residing in the area described in subsection (b)(2) of this section; and
 
@@ -238,6 +238,8 @@ If a grant or a portion of a grant under this section remains unexpended upon th
 
 #### References in Text
 
+This chapter, referred to in subsecs. (g) and (t)(1)(B)(i), (2)(A), was in the original “this title”, meaning title I of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+
 For effective date of this paragraph, referred to in subsec. (h)(5)(C)(i), see section 516(b) of Pub. L. 100–242, set out as an Effective Date of 1988 Amendment note below.
 
 Chapter 67 of title 31, referred to in subsec. (n)(2)(B), was repealed by Pub. L. 99–272, title XIV, §14001(a)(1), Apr. 7, 1986, 100 Stat. 327.
@@ -250,11 +252,11 @@ Amendment of subsec. (n)(1) by Pub. L. 99–500 and 99–591 is based on provisi
 
 #### Amendments
 
-1994—Subsec. (<i>o</i>). Pub. L. 103–233, §232(b), inserted before period at end “, except that amounts available to the Secretary for use under this subsection as of October 1, 1993, and amounts released to the Secretary pursuant to subsection (t) of this section may be used to provide grants under section 5308(q) of this title.”
+<b>1994</b>—Subsec. (<i>o</i>). Pub. L. 103–233, §232(b), inserted before period at end “, except that amounts available to the Secretary for use under this subsection as of October 1, 1993, and amounts released to the Secretary pursuant to subsection (t) of this section may be used to provide grants under section 5308(q) of this title.”
 
 Subsec. (t). Pub. L. 103–233, §232(c)(1), added subsec. (t).
 
-1988—Subsec. (a). Pub. L. 100–242, §501(c), substituted “There are authorized to be appropriated to carry out this section $225,000,000 for fiscal year 1988, and $225,000,000 for fiscal year 1989. Any amount appropriated under this subsection shall remain available until expended.” for “Of the total amount approved in appropriation Acts under section 5303 of this title for each of the fiscal years 1982 and 1983, not more than $500,000,000 shall be available for each of the fiscal years 1982 and 1983 for grants under this section. There are authorized to be appropriated to carry out the provisions of this section not to exceed $440,000,000 for each of the fiscal years 1984, 1985, and 1986, and any amount appropriated under this sentence shall remain available until expended.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–242, §501(c), substituted “There are authorized to be appropriated to carry out this section $225,000,000 for fiscal year 1988, and $225,000,000 for fiscal year 1989. Any amount appropriated under this subsection shall remain available until expended.” for “Of the total amount approved in appropriation Acts under section 5303 of this title for each of the fiscal years 1982 and 1983, not more than $500,000,000 shall be available for each of the fiscal years 1982 and 1983 for grants under this section. There are authorized to be appropriated to carry out the provisions of this section not to exceed $440,000,000 for each of the fiscal years 1984, 1985, and 1986, and any amount appropriated under this sentence shall remain available until expended.”
 
 Subsec. (d)(1). Pub. L. 100–242, §515(a), inserted dash before “(A)”, indented subpars. (A) and (B), struck out “as the primary criterion,” in subpar. (A) and “and” at end of subpar. (B), added subpars. (C) and (D), and struck out former subpar. (C) which read as follows: “at least the following other criteria: demonstrated performance of the city or urban county in housing and community development programs; the extent to which the grant will stimulate economic recovery by leveraging private investment; the number of permanent jobs to be created and their relation to the amount of grant funds requested; the proportion of permanent jobs accessible to lower income persons and minorities, including persons who are unemployed; the impact of the proposed activities on the fiscal base of the city or urban county and its relation to the amount of grant funds requested; the extent to which State or local government funding or special economic incentives have been committed; and the feasibility of accomplishing the proposed activities in a timely fashion within the grant amount available.”
 
@@ -280,19 +282,19 @@ Subsec. (r). Pub. L. 100–242, §515(d), amended subsec. (r) generally. Prior t
 
 Subsec. (s). Pub. L. 100–242, §515(h), added subsec. (s).
 
-1987—Subsec. (n)(1). For amendment by §106 of Pub. L. 100–202, see 1986 Amendment note below.
+<b>1987</b>—Subsec. (n)(1). For amendment by §106 of Pub. L. 100–202, see 1986 Amendment note below.
 
 Subsec. (n)(2)(A). Pub. L. 100–202, §101(f) \[title I, §101\], inserted “, or on former Indian reservations in Oklahoma as determined by the Secretary of the Interior,” after “reservation”.
 
-1986—Subsec. (n)(1). Pub. L. 99–500 and 99–591, §101(g), as enacted by Pub. L. 100–202, inserted at end “Such term also includes the counties of Kauai, Maui and Hawaii in the State of Hawaii.” See Codification note above.
+<b>1986</b>—Subsec. (n)(1). Pub. L. 99–500 and 99–591, §101(g), as enacted by Pub. L. 100–202, inserted at end “Such term also includes the counties of Kauai, Maui and Hawaii in the State of Hawaii.” See Codification note above.
 
 Subsec. (n)(2)(B). Pub. L. 99–272 substituted “was an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter” for “is an eligible recipient under chapter 67 of title 31”.
 
-1984—Subsec. (n)(1). Pub. L. 98–454 inserted reference to American Samoa and the Northern Mariana Islands.
+<b>1984</b>—Subsec. (n)(1). Pub. L. 98–454 inserted reference to American Samoa and the Northern Mariana Islands.
 
 Subsec. (n)(2). Pub. L. 98–479 substituted “chapter 67 of title 31” for “the State and Local Fiscal Assistance Act of 1972”.
 
-1983—Subsec. (a). Pub. L. 98–181, §121(a), inserted authorizations for appropriations not to exceed $440,000,000 for each of the fiscal years 1984, 1985, and 1986.
+<b>1983</b>—Subsec. (a). Pub. L. 98–181, §121(a), inserted authorizations for appropriations not to exceed $440,000,000 for each of the fiscal years 1984, 1985, and 1986.
 
 Subsec. (b)(1). Pub. L. 98–181, §121(b), substituted “the extent of unemployment, job lag, or surplus labor” for “where data are available, the extent of unemployment and job lag”, and inserted provisions for continued eligibility for assistance of any city with a population of less than 50,000 persons, other than a central city of a metropolitan area, which until the Secretary revises the standards for eligibility for such cities and includes the extent of unemployment, job lag, or labor surplus as a standard of distress for such cities, and provisions requiring the Secretary to make such revision as soon as possible following Nov. 30, 1983.
 
@@ -306,21 +308,21 @@ Subsec. (i). Pub. L. 98–181, §121(f), inserted provisions relating to applica
 
 Subsecs. (p) to (r). Pub. L. 98–181, §121(g), added subsecs. (p) to (r).
 
-1981—Pub. L. 97–35 substantially restructured and reorganized provisions, made changes in nomenclature and phraseology, and revised purposes, selection criteria and standards, application procedures, approval powers of Secretary, covered activities, limitations, allocation computations, funding prerequisites, amounts for grants, waivers, notice requirements, applicable definitions, and special provisions for years after 1983.
+<b>1981</b>—Pub. L. 97–35 substantially restructured and reorganized provisions, made changes in nomenclature and phraseology, and revised purposes, selection criteria and standards, application procedures, approval powers of Secretary, covered activities, limitations, allocation computations, funding prerequisites, amounts for grants, waivers, notice requirements, applicable definitions, and special provisions for years after 1983.
 
-1980—Subsec. (c)(7). Pub. L. 96–399, §110(a)(1)–(3), added par. (7).
+<b>1980</b>—Subsec. (c)(7). Pub. L. 96–399, §110(a)(1)–(3), added par. (7).
 
 Subsec. (n). Pub. L. 96–399, §110(b), added subsec. (n).
 
 Subsec. (<i>o</i>). Pub. L. 96–399, §117(a), added subsec. (<i>o</i>).
 
-1979—Subsec. (b). Pub. L. 96–153, §104, designated existing provisions as par. (1) and added par. (2).
+<b>1979</b>—Subsec. (b). Pub. L. 96–153, §104, designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (e). Pub. L. 96–153, §104(b), designated existing provisions as par. (1) and substituted “(1) Except in the case of a city or urban county eligible under subsection (b)(2) of this section, in establishing criteria” for “In establishing criteria” in opening sentence, redesignated existing cls. (1) to (3) as (A) to (C), and added pars. (2) and (3).
 
 Subsecs. (<i>l</i>), (m). Pub. L. 96–153, §105, added subsecs. (<i>l</i>) and (m).
 
-1978—Subsec. (c)(6). Pub. L. 95–557, §103(g), added par. (6).
+<b>1978</b>—Subsec. (c)(6). Pub. L. 95–557, §103(g), added par. (6).
 
 Subsec. (e). Pub. L. 95–557, §103(h), inserted “impact of the proposed urban development action program on the residents, particularly those of low and moderate income, of the residential neighborhood, and on the neighborhood, in which the program is to be located” after “objectives of this chapter”.
 
@@ -334,7 +336,7 @@ Section 515(f), (g) of Pub. L. 100–242 provided that:
 
 “(f)
 
-Regulations.—The Secretary of Housing and Urban Development shall issue such regulations as may be necessary to carry out the amendments made by this section \[amending this section\]. Such regulations shall be published for comment in the Federal Register not later than 60 days after the date of enactment of this Act \[Feb. 5, 1988\]. The provisions of section 119(d)(1)(D), section 119(d)(3), and section 119(d)(4) of the Housing and Community Development Act of 1974 \[subsec. (d)(1)(D), (3), (4) of this section\], shall take effect on the date of enactment of this Act.
+Regulations.—The Secretary of Housing and Urban Development shall issue such regulations as may be necessary to carry out the amendments made by this section \[amending this section\]. Such regulations shall be published for comment in the Federal Register not later than 60 days after the date of enactment of this Act \[Feb. 5, 1988\]. The provisions of section119(d)(1)(D), section 119(d)(3), and section 119(d)(4) of the Housing and Community Development Act of 1974 \[subsec. (d)(1)(D), (3), (4) of this section\], shall take effect on the date of enactment of this Act.
 
 “(g)
 
@@ -518,7 +520,7 @@ Job Creation and Training.—The demonstration program shall provide, to the ext
 
 “(f)
 
-Financing.—The demonstration program shall provide for coordination with banks, credit unions, and other mortgage lenders to make financing available to purchasers of units developed under the demonstration program through mortgages eligible for insurance under section 1104, and shall give preference to such mortgage lenders who have offices located within or near the new town demonstration area.
+Financing.—The demonstration program shall provide for coordination with banks, credit unions, and other mortgage lenders to make financing available to purchasers of units developed under the demonstrationprogram through mortgages eligible for insurance under section 1104, and shall give preference to such mortgage lenders who have offices located within or near the new town demonstration area.
 
 “(g)
 
@@ -532,7 +534,7 @@ Non-Federal Funds.—The governing board carrying out the demonstration program 
 
 “(a)
 
-In General.—Pursuant to title II and section 251 of the National Housing Act \[12 U.S.C. 1707 et seq., 1715z–16\], the Secretary shall (to the extent authority is available pursuant to subsection (d)) insure mortgages under this section involving properties upon which are located dwelling units described in section 1103(c)(3) ofthis Act that are developed under the new town demonstration programs carried out pursuant to this title.
+In General.—Pursuant to title II and section 251 of the National Housing Act \[12 U.S.C. 1707 et seq., 1715z–16\], the Secretary shall (to the extent authority is available pursuant to subsection (d)) insure mortgages under this section involving properties upon which are located dwelling units described in section 1103(c)(3) of this Act that are developed under the new town demonstration programs carried out pursuant to this title.
 
 “(b)
 

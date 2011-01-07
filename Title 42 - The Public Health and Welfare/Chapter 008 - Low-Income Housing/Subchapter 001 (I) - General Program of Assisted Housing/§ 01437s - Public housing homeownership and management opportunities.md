@@ -18,7 +18,7 @@ Low-income families residing in a public housing project shall be provided with 
 
 &emsp;(A) The Secretary may provide assistance from the Capital Fund to a public housing project in which homeownership activities under this section are conducted.
 
-&emsp;(B) The Secretary may provide financial assistance to public housing agencies, resident management corporations, or resident councils that obtain, by contract or otherwise, training, technical assistance, and educational assistance as the Secretary determines to be necessary to promote homeownership opportunities under this section.
+&emsp;(B) The Secretary may provide financial assistance to public housing agencies, resident management corporations, or resident councils that obtain, by contract or otherwise, training, technical assistance, and educational assistance as the Secretary determines to benecessary to promote homeownership opportunities under this section.
 
 &emsp;(C) This paragraph shall not have effect after February 4, 1991. The Secretary may not provide financial assistance under subparagraph (B), after such date, unless the Secretary determines that such assistance is necessary for the development of a homeownership program that was initiated, as determined by the Secretary, before November 28, 1990.
 
@@ -148,7 +148,7 @@ Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, refer
 
 #### Amendments
 
-1998—Subsec. (a)(2)(A). Pub. L. 105–276, §532(b)(1)(A), substituted “assistance from the Capital Fund” for “comprehensive improvement assistance under section 1437<i>l</i> of this title”.
+<b>1998</b>—Subsec. (a)(2)(A). Pub. L. 105–276, §532(b)(1)(A), substituted “assistance from the Capital Fund” for “comprehensive improvement assistance under section 1437<i>l</i> of this title”.
 
 Subsec. (a)(3)(A)(v). Pub. L. 105–276, §532(b)(1)(B), substituted “housing quality standards applicable under section 1437d(f) of this title” for “minimum safety and livability standards applicable under section 1437<i>l</i> of this title”.
 
@@ -162,7 +162,7 @@ Subsec. (d). Pub. L. 105–276, §532(b)(3), inserted “, as in effect before 
 
 Pub. L. 105–276, §518(a)(2)(A), struck out “section 1437c(h) of this title or” after “program established under”.
 
-1995—Subsec. (f). Pub. L. 104–66 struck out heading and text of subsec. (f). Text read as follows: “The Secretary shall annually submit to the Congress a report setting forth—
+<b>1995</b>—Subsec. (f). Pub. L. 104–66 struck out heading and text of subsec. (f). Text read as follows: “The Secretary shall annually submit to the Congress a report setting forth—
 
 &emsp;“(1) the number, type, and cost of units sold;
 
@@ -180,9 +180,9 @@ Pub. L. 105–276, §518(a)(2)(A), struck out “section 1437c(h) of this title 
 
 &emsp;“(8) the recommendations of the Secretary for statutory and regulatory improvements to the program.”
 
-1992—Subsec. (a)(2)(C), (3)(C). Pub. L. 102–550 substituted “February 4, 1991” for “the effective date of the regulations implementing subchapter II–A of this chapter” and “after such date” for “after such effective date” and made technical amendment to reference to November 28, 1990, to reflect correction of corresponding provisions of original act.
+<b>1992</b>—Subsec. (a)(2)(C), (3)(C). Pub. L. 102–550 substituted “February 4, 1991” for “the effective date of the regulations implementing subchapter II–A of this chapter” and “after such date” for “after such effective date” and made technical amendment to reference to November 28, 1990, to reflect correction of corresponding provisions of original act.
 
-1990—Subsec. (a). Pub. L. 101–625, §572(1), which directed substitution of “low-income families” for “lower income families”, was executed by substituting “Low-income families” for “Lower income families” in introductory provisions to reflect the probable intent of Congress.
+<b>1990</b>—Subsec. (a). Pub. L. 101–625, §572(1), which directed substitution of “low-income families” for “lower income families”, was executed by substituting “Low-income families” for “Lower income families” in introductory provisions to reflect the probable intent of Congress.
 
 Subsec. (a)(2)(B). Pub. L. 101–625, §416(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The Secretary, and the public housing agency owning and operating a public housing project, shall provide such training, technical assistance, and educational assistance as the Secretary determines to be necessary to prepare the families residing in the project, and any resident management corporation established under paragraph (1), for homeownership.”
 

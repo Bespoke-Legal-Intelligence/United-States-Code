@@ -11,9 +11,9 @@
 
 #### Amendments
 
-1994—Pub. L. 103–355, title II, §2001(j)(3)(C), Oct. 13, 1994, 108 Stat. 3303, struck out item 7521 “Progress payment for work done; lien based on payment”.
+<b>1994</b>—Pub. L. 103–355, title II, §2001(j)(3)(C), Oct. 13, 1994, 108 Stat. 3303, struck out item 7521 “Progress payment for work done; lien based on payment”.
 
-1986—Pub. L. 99–661, div. A, title XIII, §1354(b), Nov. 14, 1986, 100 Stat. 3996, added item 7524.
+<b>1986</b>—Pub. L. 99–661, div. A, title XIII, §1354(b), Nov. 14, 1986, 100 Stat. 3996, added item 7524.
 
 
 ---

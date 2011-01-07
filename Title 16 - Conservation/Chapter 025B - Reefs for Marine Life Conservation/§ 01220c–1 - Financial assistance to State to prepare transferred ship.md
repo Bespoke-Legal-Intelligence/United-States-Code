@@ -40,5 +40,5 @@ A prior section 7 of Pub. L. 92–402 was renumbered section 8 and is classified
 
 #### Amendments
 
-2009—Subsec. (d). Pub. L. 111–84 added subsec. (d).
+<b>2009</b>—Subsec. (d). Pub. L. 111–84 added subsec. (d).
 

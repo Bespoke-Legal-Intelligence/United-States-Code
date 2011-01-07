@@ -258,9 +258,9 @@ Pub. L. 102–251, §301(b), which directed amendment of this section by adding 
 
 #### Amendments
 
-2007—Pub. L. 109–479 added pars. (13A) defining “regional fishery association”, (20A) defining “import”, (23A) defining “limited access privilege”, (23B) defining “limited access system”, and (27A) defining “observer information” and redesignated pars. (1) to (45) as (1) to (50), respectively.
+<b>2007</b>—Pub. L. 109–479 added pars. (13A) defining “regional fishery association”, (20A) defining “import”, (23A) defining “limited access privilege”, (23B) defining “limited access system”, and (27A) defining “observer information” and redesignated pars. (1) to (45) as (1) to (50), respectively.
 
-1996—Pars. (2) to (6). Pub. L. 104–297, §102(1), added pars. (2) to (4) and redesignated former pars. (2) and (3) as (5) and (6), respectively. Former pars. (4) to (6) redesignated (7) to (9), respectively.
+<b>1996</b>—Pars. (2) to (6). Pub. L. 104–297, §102(1), added pars. (2) to (4) and redesignated former pars. (2) and (3) as (5) and (6), respectively. Former pars. (4) to (6) redesignated (7) to (9), respectively.
 
 Par. (7). Pub. L. 104–297, §102(2)(B), substituted “Deep-sea Red Crab—Chaceon quinquedens” for “Deep-sea Red Crab—Geryon quinquedens” in list under heading “Crustacea”.
 
@@ -450,7 +450,7 @@ Pub. L. 104–297, §102(10), redesignated par. (43) as (44).
 
 Par. (45). Pub. L. 104–297, §102(12), redesignated par. (44) as (45).
 
-1990—Par. (7). Pub. L. 101–627, §102(a)(2), substituted “and birds” for “, birds, and highly migratory species”.
+<b>1990</b>—Par. (7). Pub. L. 101–627, §102(a)(2), substituted “and birds” for “, birds, and highly migratory species”.
 
 Par. (14). Pub. L. 101–627, §102(a)(3), amended par. (14) generally. Prior to amendment, par. (14) read as follows: “The term ‘highly migratory species’ means species of tuna which, in the course of their life cycle, spawn and migrate over great distances in waters of the ocean.”
 
@@ -472,7 +472,7 @@ Pars. (28) to (31). Pub. L. 101–627, §102(a)(1), redesignated pars. (24) to (
 
 Par. (32). Pub. L. 101–627, §102(a)(8), added par. (32).
 
-1988—Par. (27). Pub. L. 100–239 amended par. (27) generally. Prior to amendment, par. (27) read as follows: “The term ‘vessel of the United States’ means—
+<b>1988</b>—Par. (27). Pub. L. 100–239 amended par. (27) generally. Prior to amendment, par. (27) read as follows: “The term ‘vessel of the United States’ means—
 
 &emsp;“(A) any vessel documented under the laws of the United States;
 
@@ -480,13 +480,13 @@ Par. (32). Pub. L. 101–627, §102(a)(8), added par. (32).
 
 &emsp;“(C) any vessel numbered under the Federal Boat Safety Act of 1971 and used exclusively for pleasure.”
 
-1986—Par. (4). Pub. L. 99–659, §112, in provisions under heading “Mollusks” substituted “Arctica islandica” for “Artica islandica” and under heading “Sponges” substituted “Spongia cheiris” for “Hippiospongia canaliculata”.
+<b>1986</b>—Par. (4). Pub. L. 99–659, §112, in provisions under heading “Mollusks” substituted “Arctica islandica” for “Artica islandica” and under heading “Sponges” substituted “Spongia cheiris” for “Hippiospongia canaliculata”.
 
 Pars. (6) to (8). Pub. L. 99–659, §101(a), added par. (6), redesignated former pars. (6) and (7) as (7) and (8), respectively, and struck out former par. (8) which defined “fishery conservation zone” as the fishery conservation zone established by section 1811 of this title.
 
-1983—Par. (27). Pub. L. 97–453 designated existing provisions as subpar. (A), struck out “or registered under the laws of any State” after “United States”, and added subpars. (B) and (C).
+<b>1983</b>—Par. (27). Pub. L. 97–453 designated existing provisions as subpar. (A), struck out “or registered under the laws of any State” after “United States”, and added subpars. (B) and (C).
 
-1978—Pars. (25) to (27). Pub. L. 95–354 added pars. (25) and (26) and redesignated former par. (25) as (27).
+<b>1978</b>—Pars. (25) to (27). Pub. L. 95–354 added pars. (25) and (26) and redesignated former par. (25) as (27).
 
 #### Change of Name
 

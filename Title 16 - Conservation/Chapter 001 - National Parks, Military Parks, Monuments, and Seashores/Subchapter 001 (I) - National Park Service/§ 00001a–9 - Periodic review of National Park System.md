@@ -10,5 +10,5 @@ Sections 1a–9 to 1a–13 of this title, referred to in text, was in the origin
 
 #### Amendments
 
-1994—Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 

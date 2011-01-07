@@ -16,9 +16,11 @@ The Commission shall serve to improve the financial literacy and education of pe
 
 &emsp;&emsp;(A) the Secretary of the Treasury;
 
-&emsp;&emsp;(B) the respective head of each of the Federal banking agencies (as defined in section 1813 of title 12), the National Credit Union Administration, the Securities and Exchange Commission, each of the Departments of Education, Agriculture, Defense, Health and Human Services, Housing and Urban Development, Labor, and Veterans Affairs, the Federal Trade Commission, the General Services Administration, the Small Business Administration, the Social Security Administration, the Commodity Futures Trading Commission, and the Office of Personnel Management; and
+&emsp;&emsp;(B) the respective head of each of the Federal banking agencies (as defined in section 1813 of title 12), the National Credit Union Administration, the Securities and Exchange Commission, each of the Departments of Education, Agriculture, Defense, Health and Human Services, Housing and Urban Development, Labor, and Veterans Affairs, the Federal Trade Commission, the General Services Administration, the Small Business Administration, the Social Security Administration, the Commodity Futures Trading Commission, and the Office of Personnel Management;
 
-&emsp;&emsp;(C) at the discretion of the President, not more than 5 individuals appointed by the President from among the administrative heads of any other Federal agencies, departments, or other Federal Government entities, whom the President determines to be engaged in a serious effort to improve financial literacy and education.
+&emsp;&emsp;(C) the Director of the Bureau of Consumer Financial Protection; and
+
+&emsp;&emsp;(D) at the discretion of the President, not more than 5 individuals appointed by the President from among the administrative heads of any other Federal agencies, departments, or other Federal Government entities, whom the President determines to be engaged in a serious effort to improve financial literacy and education.
 
 #### (2) Alternates
 
@@ -26,7 +28,7 @@ The Commission shall serve to improve the financial literacy and education of pe
 
 #### (d) Chairperson
 
-The Secretary of the Treasury shall serve as the Chairperson.
+The Secretary of the Treasury shall serve as the Chairperson. The Director of the Bureau of Consumer Financial Protection shall serve as the Vice Chairman.
 
 #### (e) Meetings
 
@@ -40,5 +42,11 @@ A majority of the members of the Commission shall constitute a quorum, but a les
 
 The Commission shall hold its first meeting not later than 60 days after December 4, 2003.
 
-(Pub. L. 108–159, title V, §513, Dec. 4, 2003, 117 Stat. 2003.)
+(Pub. L. 108–159, title V, §513, Dec. 4, 2003, 117 Stat. 2003; Pub. L. 111–203, title X, §1013(d)(5), (6), July 21, 2010, 124 Stat. 1971.)
+
+#### Amendments
+
+<b>2010</b>—Subsec. (c)(1)(C), (D). Pub. L. 111–203, §1013(d)(5), added subpar. (C) and redesignated former subpar. (C) as (D).
+
+Subsec. (d). Pub. L. 111–203, §1013(d)(6), inserted at end “The Director of the Bureau of Consumer Financial Protection shall serve as the Vice Chairman.”
 

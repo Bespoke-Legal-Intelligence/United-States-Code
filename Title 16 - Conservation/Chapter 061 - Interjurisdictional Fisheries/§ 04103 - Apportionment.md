@@ -44,5 +44,5 @@ Any part of an apportionment for any fiscal year to any State—
 
 #### Amendments
 
-1990—Subsec. (c)(3)(B). Pub. L. 101–627 inserted “which are managed under an interstate fishery management plan” before semicolon at end.
+<b>1990</b>—Subsec. (c)(3)(B). Pub. L. 101–627 inserted “which are managed under an interstate fishery management plan” before semicolon at end.
 

@@ -10,7 +10,7 @@ A prior section 109 of Pub. L. 93–113 was classified to section 4959 of this t
 
 #### Amendments
 
-1993—Pub. L. 103–82 amended section generally, substituting present provisions for provisions which related to: in subsec. (a), duration; in subsec. (b), consideration of application; in subsec. (c), new project or program; in subsec. (d), renewal of assistance; in subsec. (e), eligibility; and in subsec. (f), notice.
+<b>1993</b>—Pub. L. 103–82 amended section generally, substituting present provisions for provisions which related to: in subsec. (a), duration; in subsec. (b), consideration of application; in subsec. (c), new project or program; in subsec. (d), renewal of assistance; in subsec. (e), eligibility; and in subsec. (f), notice.
 
 #### Effective Date of 1993 Amendment
 

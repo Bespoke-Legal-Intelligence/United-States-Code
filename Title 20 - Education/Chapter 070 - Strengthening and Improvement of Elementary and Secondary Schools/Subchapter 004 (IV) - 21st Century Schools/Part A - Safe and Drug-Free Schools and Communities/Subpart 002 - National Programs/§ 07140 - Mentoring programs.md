@@ -46,7 +46,7 @@
 
 #### (D) State
 
-&emsp;&emsp;The term “State” means each of the several States, the District of Columbia, theCommonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;&emsp;The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (b) Grant program
 
@@ -196,7 +196,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Based on model screening guidelines developed by the Office of Juvenile Programs of the Department of Justice, the Secretary shall develop and distribute to each eligible entity awarded a grant under this section specific model guidelines for the screening of mentors who seek to participate in mentoring programs assisted under this section.
+&emsp;&emsp;Based on model screening guidelines developed by the Office of Juvenile Programs ofthe Department of Justice, the Secretary shall develop and distribute to each eligible entity awarded a grant under this section specific model guidelines for the screening of mentors who seek to participate in mentoring programs assisted under this section.
 
 #### (B) Background checks
 
@@ -215,4 +215,6 @@ Section 7142, Pub. L. 89–10, title IV, §4132, as added Pub. L. 103–382, tit
 Section 7143, Pub. L. 89–10, title IV, §4133, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3690, set forth prohibited uses of funds. See section 7164 of this title.
 
 Section 7144, Pub. L. 89–10, title IV, §4134, as added Pub. L. 105–277, div. D, title I, §122, Oct. 21, 1998, 112 Stat. 2681–756, related to quality rating of drug, alcohol, and tobacco prevention programs implemented in public elementary schools and secondary schools.
+
+<i><sup>1</sup></i><i> So in original. No cl. (vii) has been enacted.</i>
 

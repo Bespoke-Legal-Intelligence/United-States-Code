@@ -42,7 +42,7 @@ The Secretary of Agriculture, through the Forest Service, is authorized to provi
 
 #### Amendments
 
-1994—Subsec. (a)(4). Pub. L. 103–437, §10(f)(1), substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
+<b>1994</b>—Subsec. (a)(4). Pub. L. 103–437, §10(f)(1), substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
 
 Subsec. (c). Pub. L. 103–437, inserted “the” after “report to” and substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
 

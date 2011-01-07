@@ -4,11 +4,11 @@
 
 (b) Disputes as to the price, quality, character, or suitability of such products shall be arbitrated by a board consisting of the Attorney General, the Administrator of General Services, and the President, or their representatives. Their decision shall be final and binding upon all parties.
 
-(c) Each Federal department, agency, and institution subject to the requirements of subsection (a) shall separately report acquisitions of products and services from Federal Prison Industries to the Federal Procurement Data System (as referred to in section 6(d)(4) of the Office of Federal Procurement Policy Act) in the same manner as it reports other acquisitions. Each report published by the Federal Procurement Data System that contains the information collected by the System shall include a statement to accompany the information reported by the department, agency, or institution under the preceding sentence as follows: “Under current law, sales by Federal Prison Industries are considered intragovernmental transfers. The purpose of reporting sales by Federal Prison Industries is to provide a complete overview of acquisitions by the Federal Government during the reporting period.”.
+(c) Each Federal department, agency, and institution subject to the requirements of subsection (a) shall separately report acquisitions of products and services from Federal Prison Industries to the Federal Procurement Data System (as referred to in section 1122(a)(4) of title 41) in the same manner as it reports other acquisitions. Each report published by the Federal Procurement Data System that contains the information collected by the System shall include a statement to accompany the information reported by the department, agency, or institution under the preceding sentence as follows: “Under current law, sales by Federal Prison Industries are considered intragovernmental transfers. The purpose of reporting sales by Federal Prison Industries is to provide a complete overview of acquisitions by the Federal Government during the reporting period.”.
 
 (d) Within 90 days after the date of the enactment of this subsection, Federal Prison Industries shall publish a catalog of all products and services which it offers for sale. This catalog shall be updated periodically to the extent necessary to ensure that the information in the catalog is complete and accurate.
 
-(June 25, 1948, ch. 645, 62 Stat. 851; Oct. 31, 1951, ch. 655, §32, 65 Stat. 723; Pub. L. 98–216, §3(b)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 101–647, title XXIX, §2901, Nov. 29, 1990, 104 Stat. 4912; Pub. L. 102–564, title III, §303(b), Oct. 28, 1992, 106 Stat. 4262; Pub. L. 104–316, title I, §109(b), Oct. 19, 1996, 110 Stat. 3832.)
+(June 25, 1948, ch. 645, 62 Stat. 851; Oct. 31, 1951, ch. 655, §32, 65 Stat. 723; Pub. L. 98–216, §3(b)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 101–647, title XXIX, §2901, Nov. 29, 1990, 104 Stat. 4912; Pub. L. 102–564, title III, §303(b), Oct. 28, 1992, 106 Stat. 4262; Pub. L. 104–316, title I, §109(b), Oct. 19, 1996, 110 Stat. 3832; Pub. L. 111–350, §5(d)(2), Jan. 4, 2011, 124 Stat. 3847.)
 
 #### Historical and Revision Notes
 
@@ -22,25 +22,25 @@ The word “agencies” was substituted for “independent establishments” to 
 
 #### References in Text
 
-Section 6(d)(4) of the Office of Federal Procurement Policy Act, referred to in subsec. (c), is classified to section 405(d)(4) of Title 41, Public Contracts.
-
 The date of the enactment of this subsection, referred to in subsec. (d), is the date of enactment of Pub. L. 101–647, which was approved Nov. 29, 1990.
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–316 substituted “Attorney General” for “Comptroller General of the United States”.
+<b>2011</b>—Subsec. (c). Pub. L. 111–350 substituted “section 1122(a)(4) of title 41” for “section 6(d)(4) of the Office of Federal Procurement Policy Act”.
 
-1992—Subsec. (c). Pub. L. 102–564 substituted “acquisitions of products and services from Federal Prison Industries to the Federal Procurement Data System (as referred to in section 6(d)(4) of the Office of Federal Procurement Policy Act) in the same manner as it reports other acquisitions” for “to the General Services Administration all of its acquisitions of products and services from Federal Prison Industries, and that reported information shall be entered in the Federal Procurement Data System referred to in section 6(d)(4) of the Office of Federal Procurement Policy Act”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–316 substituted “Attorney General” for “Comptroller General of the United States”.
 
-1990—Pub. L. 101–647 designated first and second pars. as subsecs. (a) and (b), respectively, and added subsecs. (c) and (d).
+<b>1992</b>—Subsec. (c). Pub. L. 102–564 substituted “acquisitions of products and services from Federal Prison Industries to the Federal Procurement Data System (as referred to in section 6(d)(4) of the Office of Federal Procurement Policy Act) in the same manner as it reports other acquisitions” for “to the General Services Administration all of its acquisitions of products and services from Federal Prison Industries, and that reported information shall be entered in the Federal Procurement Data System referred to in section 6(d)(4) of the Office of Federal Procurement Policy Act”.
 
-1984—Pub. L. 98–216 substituted “President” for “Director of the Bureau of the Budget” in second par.
+<b>1990</b>—Pub. L. 101–647 designated first and second pars. as subsecs. (a) and (b), respectively, and added subsecs. (c) and (d).
 
-1951—Act Oct. 31, 1951, substituted “Administrator of General Services” for “Director of the Bureau of Federal Supply, Department of the Treasury” in second par.
+<b>1984</b>—Pub. L. 98–216 substituted “President” for “Director of the Bureau of the Budget” in second par.
+
+<b>1951</b>—Act Oct. 31, 1951, substituted “Administrator of General Services” for “Director of the Bureau of Federal Supply, Department of the Treasury” in second par.
 
 #### Agency Purchase of Federal Prison Industries Products or Services
 
-Pub. L. 108–447, div. H, title VI, §637, Dec. 8, 2004, 118 Stat. 3281, provided that: “None of the funds made available under this or any other Act for fiscal year 2005 and each fiscal year thereafter shall be expended for the purchase of a product or service offered by Federal Prison Industries, Inc., unless the agency making such purchase determines that such offered product or service provides the best value to the buying agency pursuant to governmentwide procurement regulations, issued pursuant to section 25(c)(1) of the Office of Federal Procurement Act (41 U.S.C. 421(c)(1)) that impose procedures, standards, and limitations of section 2410n of title 10, United States Code.”
+Pub. L. 108–447, div. H, title VI, §637, Dec. 8, 2004, 118 Stat. 3281, provided that: “None of the funds made available under this or any other Act for fiscal year 2005 and each fiscal year thereafter shall be expended for the purchase of a product or service offered by Federal Prison Industries, Inc., unless the agency making such purchase determines that such offered product or service provides the best value to the buying agency pursuant to governmentwide procurement regulations, issued pursuant to section 25(c)(1) of the Office of Federal Procurement Act (\[former\] 41 U.S.C. 421(c)(1)) \[now 41 U.S.C. 1303(a)(1)\] that impose procedures, standards, and limitations of section 2410n of title 10, United States Code.”
 
 Similar provisions were contained in the following prior appropriations act:
 

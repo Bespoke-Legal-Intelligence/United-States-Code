@@ -66,9 +66,9 @@ Another prior section 505 of act July 1, 1944, which was classified to section 2
 
 #### Amendments
 
-1993—Pub. L. 103–43, §2010(b)(7), which directed the substitution of “section 238 of this title” for “section 300aaa of this title” in section 505(a)(2) of act July 1, 1944 (this section), could not be executed because the language did not appear. Amendment was probably intended for prior section 505 which was renumbered section 502 and amended generally by Pub. L. 102–321, §102, which is classified to section 290aa–1 of this title.
+<b>1993</b>—Pub. L. 103–43, §2010(b)(7), which directed the substitution of “section 238 of this title” for “section 300aaa of this title” in section 505(a)(2) of act July 1, 1944 (this section), could not be executed because the language did not appear. Amendment was probably intended for prior section 505 which was renumbered section 502 and amended generally by Pub. L. 102–321, §102, which is classified to section 290aa–1 of this title.
 
-1989—Subsec. (c)(1)(A). Pub. L. 101–93, §3(b)(1), substituted “alcohol or” for “alcohol and”.
+<b>1989</b>—Subsec. (c)(1)(A). Pub. L. 101–93, §3(b)(1), substituted “alcohol or” for “alcohol and”.
 
 Subsec. (c)(2). Pub. L. 101–93, §3(b)(2), substituted “this subsection” for “this section”.
 

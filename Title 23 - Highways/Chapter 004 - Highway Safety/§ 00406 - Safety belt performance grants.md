@@ -14,7 +14,7 @@ In general.—The Secretary shall make a single grant to each State that either�
 
 &emsp;&emsp;(A) enacts for the first time after December 31, 2002, and has in effect and is enforcing a conforming primary safety belt use law for all passenger motor vehicles; or
 
-&emsp;&emsp;(B) in the case of a State that does not have such a primary safety belt use law, has after December 31, 2005, a State safety belt use rate of 85 percent or more for each of the 2 calendar years immediately preceding the fiscal year of a grant, as measured under criteria determined by the Secretary.
+&emsp;&emsp;(B) in the case of a State that does not have such a primary safety belt use law, has after December 31, 2005, a State safety belt use rate of 85 percent or more for each of the2 calendar years immediately preceding the fiscal year of a grant, as measured under criteria determined by the Secretary.
 
 &emsp;(2)
 
@@ -38,7 +38,7 @@ Shortfall.—If the total amount of grants provided for by this subsection for a
 
 &emsp;(5)
 
-Catch-up grants.—The Secretary shall make a grant to any State eligible for a grant under this subsection that did not receive a grant for a fiscal year because of the application of paragraph (4), in the next fiscal year if the State's conforming primary safety belt use law remains in effect or its safety belt use rateis 85 percent or more for the 2 consecutive calendar years preceding such next fiscal year (subject to the condition in paragraph (4)).
+Catch-up grants.—The Secretary shall make a grant to any State eligible for a grant under this subsection that did not receive a grant for a fiscal year because of the application of paragraph (4), in the next fiscal year if the State's conforming primary safety belt use law remains in effect or its safety belt use rate is 85 percent or more for the 2 consecutive calendar years preceding such next fiscal year (subject to the condition in paragraph (4)).
 
 (c)
 
@@ -130,11 +130,11 @@ Passenger Motor Vehicle Defined.—In this section, the term “passenger motor 
 
 #### Amendments
 
-2005—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to safety belt performance grants for provisions relating to school bus driver training.
+<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to safety belt performance grants for provisions relating to school bus driver training.
 
-1978—Subsec. (c). Pub. L. 95–599 substituted “section shall not exceed 75 per centum” for “title shall not exceed 70 per centum”.
+<b>1978</b>—Subsec. (c). Pub. L. 95–599 substituted “section shall not exceed 75 per centum” for “title shall not exceed 70 per centum”.
 
-1976—Subsecs. (b), (c). Pub. L. 94–280 redesignated as subsec. (c) the authorization provisions previously set out as a second subsec. (b), provided for obligation of at least $7,000,000 for fiscal years 1977 and 1978 to carry out this section, and provided for availability of funds for obligation in the same manner and to the same extent as if the funds were apportioned under section 402(c) of this title.
+<b>1976</b>—Subsecs. (b), (c). Pub. L. 94–280 redesignated as subsec. (c) the authorization provisions previously set out as a second subsec. (b), provided for obligation of at least $7,000,000 for fiscal years 1977 and 1978 to carry out this section, and provided for availability of funds for obligation in the same manner and to the same extent as if the funds were apportioned under section 402(c) of this title.
 
 #### Effective Date of 2005 Amendment
 

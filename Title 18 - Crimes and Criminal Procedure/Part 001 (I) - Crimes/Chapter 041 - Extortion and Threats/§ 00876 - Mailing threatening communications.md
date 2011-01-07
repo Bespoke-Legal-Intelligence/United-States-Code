@@ -22,9 +22,9 @@ Changes in phraseology and arrangement were made.
 
 #### Amendments
 
-2002—Pub. L. 107–273 designated first to fourth pars. as subsecs. (a) to (d), respectively, and, in subsecs. (c) and (d), inserted at end “If such a communication is addressed to a United States judge, a Federal law enforcement officer, or an official who is covered by section 1114, the individual shall be fined under this title, imprisoned not more than 10 years, or both.”
+<b>2002</b>—Pub. L. 107–273 designated first to fourth pars. as subsecs. (a) to (d), respectively, and, in subsecs. (c) and (d), inserted at end “If such a communication is addressed to a United States judge, a Federal law enforcement officer, or an official who is covered by section 1114, the individual shall be fined under this title, imprisoned not more than 10 years, or both.”
 
-1994—Pub. L. 103–322, §330021(2), substituted “kidnapped” for “kidnaped” in first par.
+<b>1994</b>—Pub. L. 103–322, §330021(2), substituted “kidnapped” for “kidnaped” in first par.
 
 Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” in first and second pars.
 
@@ -32,7 +32,7 @@ Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for 
 
 Pub. L. 103–322, §330016(1)(G), substituted “fined under this title” for “fined not more than $500” in fourth par.
 
-1970—Pub. L. 91–375 substituted “Postal Service” for “Post Office Department” in two places in first par.
+<b>1970</b>—Pub. L. 91–375 substituted “Postal Service” for “Post Office Department” in two places in first par.
 
 #### Effective Date of 1970 Amendment
 

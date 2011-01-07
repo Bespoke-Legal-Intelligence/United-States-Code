@@ -32,11 +32,11 @@ The Tennessee Valley Authority shall, to the maximum extent practicable, use cur
 
 #### (1) Disposition
 
-&emsp;Any personal property, including structures and facilities, that the Secretary determines cannot be efficiently managed and maintained either by the Forest Service or by lease or permit to other persons may be declared excess by the Secretary and—
+&emsp;Any personal property, including structures and facilities, that the Secretary determines cannot be efficiently managed and maintainedeither by the Forest Service or by lease or permit to other persons may be declared excess by the Secretary and—
 
 &emsp;&emsp;(A) sold by the Secretary on such terms and conditions as the Secretary may prescribe to achieve the maximum benefit to the Federal Government; or
 
-&emsp;&emsp;(B) disposed of under the Federal Property and Administrative Services Act of 1949.<sup>1</sup>
+&emsp;&emsp;(B) disposed of under chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 #### (2) Deposit of proceeds
 
@@ -44,9 +44,7 @@ The Tennessee Valley Authority shall, to the maximum extent practicable, use cur
 
 (Pub. L. 105–277, div. A, §101(e) \[title V, §545\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–319.)
 
-#### References in Text
+#### Codification
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d)(1)(B), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except fortitle III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+In subsec. (d)(1)(B), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

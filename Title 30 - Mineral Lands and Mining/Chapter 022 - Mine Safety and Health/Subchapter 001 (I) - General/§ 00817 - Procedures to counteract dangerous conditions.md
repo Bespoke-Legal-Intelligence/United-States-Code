@@ -8,7 +8,7 @@ If, upon any inspection or investigation of a coal or other mine which is subjec
 
 (1) If, upon any inspection of a coal or other mine, an authorized representative of the Secretary finds (A) that conditions exist therein which have not yet resulted in an imminent danger, (B) that such conditions cannot be effectively abated through the use of existing technology, and (C) that reasonable assurance cannot be provided that the continuance of mining operations under such conditions will not result in an imminent danger, he shall determine the area throughout which such conditions exist, and thereupon issue a notice to the operator of the mine or his agent of such conditions, and shall file a copy thereof, incorporating his findings therein, with the Secretary and with the representative of the miners of such mine. Upon receipt of such copy, the Secretary shall cause such further investigation to be made as he deems appropriate, including an opportunity for the operator or a representative of the miners to present information relating to such notice.
 
-(2) Upon the conclusion of an investigation pursuant to paragraph (1), and an opportunityfor a public hearing upon request by any interested party, the Secretary shall make findings of fact, and shall by decision incorporating such findings therein, either cancel the notice issued under this subsection or issue an order requiring the operator of such mine to cause all persons in the area affected, except those persons referred to in subsection (c) of section 814 of this title to be withdrawn from, and be prohibited from entering, such area until the Secretary, after a public hearing affording all interested persons an opportunity to present their views, determines that such conditions have been abated. Any hearing under this paragraph shall be of record and shall be subject to section 554 of title 5.
+(2) Upon the conclusion of an investigation pursuant to paragraph (1), and an opportunity for a public hearing upon request by any interested party, the Secretary shall make findings of fact, and shall by decision incorporating suchfindings therein, either cancel the notice issued under this subsection or issue an order requiring the operator of such mine to cause all persons in the area affected, except those persons referred to in subsection (c) of section 814 of this title to be withdrawn from, and be prohibited from entering, such area until the Secretary, after a public hearing affording all interested persons an opportunity to present their views, determines that such conditions have been abated. Any hearing under this paragraph shall be of record and shall be subject to section 554 of title 5.
 
 #### (c) Form and content of orders
 
@@ -32,7 +32,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 #### Amendments
 
-1977—Pub. L. 95–164 substituted provisions relating to the procedures to be followed to counteract dangerous conditions in coal or other mines for provisions relating to the posting of notices, orders, and decisions at coal mines, see section 819 of this title.
+<b>1977</b>—Pub. L. 95–164 substituted provisions relating to the procedures to be followed to counteract dangerous conditions in coal or other mines for provisions relating to the posting of notices, orders, and decisions at coal mines, see section 819 of this title.
 
 #### Effective Date of 1977 Amendment
 

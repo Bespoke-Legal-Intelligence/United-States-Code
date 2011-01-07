@@ -66,13 +66,13 @@ In subsection (c), the word “Under” is substituted for the words “Subject 
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–316, in first sentence, substituted “Secretary concerned” for “Comptroller General” and struck out at end “Payment under clause (6) of subsection (a) shall be made—
+<b>1996</b>—Subsec. (c). Pub. L. 104–316, in first sentence, substituted “Secretary concerned” for “Comptroller General” and struck out at end “Payment under clause (6) of subsection (a) shall be made—
 
 &emsp;“(1) upon settlement by the General Accounting Office; or
 
 &emsp;“(2) as otherwise authorized by the Comptroller General.”
 
-1961—Subsec. (c). Pub. L. 87–46 substituted “Payment under clause (6) of subsection (a) shall be made—
+<b>1961</b>—Subsec. (c). Pub. L. 87–46 substituted “Payment under clause (6) of subsection (a) shall be made—
 
 &emsp;“(1) upon settlement by the General Accounting Office; or
 

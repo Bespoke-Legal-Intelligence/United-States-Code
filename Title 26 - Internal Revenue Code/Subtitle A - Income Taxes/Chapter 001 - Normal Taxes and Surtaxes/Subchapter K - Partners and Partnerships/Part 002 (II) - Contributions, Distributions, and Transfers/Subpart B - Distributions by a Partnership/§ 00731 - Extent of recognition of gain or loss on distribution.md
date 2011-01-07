@@ -172,11 +172,11 @@ Section 2(a)(32) of the Investment Company Act of 1940, referred to in subsec. (
 
 #### Amendments
 
-1997—Subsecs. (a)(2)(B), (c)(6). Pub. L. 105–34 substituted “section 751(d)” for “section 751(d)(2)”.
+<b>1997</b>—Subsecs. (a)(2)(B), (c)(6). Pub. L. 105–34 substituted “section 751(d)” for “section 751(d)(2)”.
 
-1994—Subsecs. (c), (d). Pub. L. 103–465 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1994</b>—Subsecs. (c), (d). Pub. L. 103–465 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1992—Subsec. (c). Pub. L. 102–486 substituted “, section 751” for “and section 751” and inserted before period at end “, and section 737 (relating to recognition of precontribution gain in case of certain distributions)”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–486 substituted “, section 751” for “and section 751” and inserted before period at end “, and section 737 (relating to recognition of precontribution gain in case of certain distributions)”.
 
 #### Effective Date of 1997 Amendment
 

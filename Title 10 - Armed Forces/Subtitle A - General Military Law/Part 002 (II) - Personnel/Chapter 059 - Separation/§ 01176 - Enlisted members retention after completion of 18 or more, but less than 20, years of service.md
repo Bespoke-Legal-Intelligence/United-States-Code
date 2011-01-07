@@ -24,9 +24,9 @@ Reserve Members in Active Status.—A reserve enlisted member serving in an acti
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–106 substituted “section 12732” for “section 1332” wherever appearing.
+<b>1996</b>—Subsec. (b). Pub. L. 104–106 substituted “section 12732” for “section 1332” wherever appearing.
 
-1993—Subsec. (b). Pub. L. 103–160 added subsec. (b) and struck out heading and text of former subsec. (b) which provided that a reserve enlisted member serving on active duty who was selected to be involuntarily separated, or whose term of enlistment expired and who was denied reenlistment, and who on the date on which the member was to be discharged or released from active duty was entitled to be credited with at least 18 but less than 20 years of service computed under section 1332 of this title, could not be discharged or released from active duty without the member's consent before the earlier of certain dates.
+<b>1993</b>—Subsec. (b). Pub. L. 103–160 added subsec. (b) and struck out heading and text of former subsec. (b) which provided that a reserve enlisted member serving on active duty who was selected to be involuntarily separated, or whose term of enlistment expired and who was denied reenlistment, and who on the date on which the member was to be discharged or released from active duty was entitled to be credited with at least 18 but less than 20 years of service computed under section 1332 of this title, could not be discharged or released from active duty without the member's consent before the earlier of certain dates.
 
 #### Effective Date of 1996 Amendment
 

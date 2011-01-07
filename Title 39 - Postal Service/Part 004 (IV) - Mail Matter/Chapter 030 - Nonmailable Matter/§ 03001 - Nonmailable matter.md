@@ -42,29 +42,33 @@
 
 (2) The Postal Service shall by regulation establish the standards or requirements which a fragrance advertising sample must satisfy in order for the mail matter involved not to be considered nonmailable under this subsection.
 
-(h) Matter otherwise legally acceptable in the mails which constitutes a solicitation by a nongovernmental entity for the purchase of or payment for a product or service; and which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government is nonmailable matter and shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
+(h)(1) Matter otherwise legally acceptable in the mails which constitutes a solicitation by a nongovernmental entity for the purchase of or payment for a product or service; and which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government; or which bears the term “census” on the envelope or outside cover or wrapper; or on which the term “census” is visible through the envelope or outside cover or wrapper is nonmailable matter and shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
 
-&emsp;(1) such nongovernmental entity has such expressed connection, approval or endorsement;
+&emsp;(A) such nongovernmental entity has such expressed connection, approval or endorsement;
 
-&emsp;(2)(A) such matter bears on its face, in conspicuous and legible type in contrast by typography, layout, or color with other printing on its face, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>“THIS PRODUCT OR SERVICE HAS NOT BEEN APPROVED OR ENDORSED BY THE FEDERAL GOVERNMENT, AND THIS OFFER IS NOT BEING MADE BY AN AGENCY OF THE FEDERAL GOVERNMENT.”</b>, or a notice to the same effect in words which the Postal Service may prescribe;
+&emsp;(B)(i) such matter bears on its face, in conspicuous and legible type in contrast by typography, layout, or color with other printing on its face, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>“THIS PRODUCT OR SERVICE HAS NOT BEEN APPROVED OR ENDORSED BY THE FEDERAL GOVERNMENT, AND THIS OFFER IS NOT BEING MADE BY AN AGENCY OF THE FEDERAL GOVERNMENT.”</b>, or a notice to the same effect in words which the Postal Service may prescribe;
 
-&emsp;(B) the envelope or outside cover or wrapper in which such matter is mailed bears on its face in capital letters and in conspicuous and legible type, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>“THIS IS NOT A GOVERNMENT DOCUMENT.”</b>, or a notice to the same effect in words which the Postal Service may prescribe; and
+&emsp;(ii) the envelope or outside cover or wrapper in which such matter is mailed bears on its face in capital letters and in conspicuous and legible type, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>“THIS IS NOT A GOVERNMENT DOCUMENT.”</b>, or a notice to the same effect in words which the Postal Service may prescribe; and
 
-&emsp;(C) such matter does not contain a false representation stating or implying that Federal Government benefits or services will be affected by any purchase or nonpurchase; or
+&emsp;(iii) such matter does not contain a false representation stating or implying that Federal Government benefits or services will be affected by any purchase or nonpurchase; or
 
-&emsp;(3) such matter is contained in a publication for which the addressee has paid or promised to pay a consideration or which he has otherwise indicated he desires to receive, exceptthat this paragraph shall not apply if the solicitation is on behalf of the publisher of the publication.
+&emsp;(C) such matter is contained in a publication for which the addressee has paid or promised to pay a consideration or which he has otherwise indicated he desires to receive, except that this paragraph shall not apply if the solicitation is on behalf of the publisher of the publication.
 
-(i) Matter otherwise legally acceptable in the mails which constitutes a solicitation by a nongovernmental entity for information or the contribution of funds or membership fees and which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government is nonmailable matter and shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
+(2) In the case of matter bearing the term “census” on the envelope or outside cover or wrapper or matter on which the term “census” is visible through the envelope or outside cover or wrapper, in addition to satisfying one of the exceptions contained in paragraphs <sup>2</sup> (1)(A), (1)(B), or (1)(C), such envelope or outside cover or wrapper bears on its face an accurate return address including the name of the entity that sent such matter.
 
-&emsp;(1) such nongovernmental entity has such expressed connection, approval or endorsement;
+(i)(1) Matter otherwise legally acceptable in the mails which constitutes a solicitation by a nongovernmental entity for information or the contribution of funds or membership fees and which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government; or which bears the term “census” on the envelope or outside cover or wrapper; or on which the term “census” is visible through the envelope or outside cover or wrapper is nonmailable matter and shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
 
-&emsp;(2)(A) such matter bears on its face, in conspicuous and legible type in contrast by typography, layout, or color with other printing on its face, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>“THIS ORGANIZATION HAS NOT BEEN APPROVED OR ENDORSED BY THE FEDERAL GOVERNMENT, AND THIS OFFER IS NOT BEING MADE BY AN AGENCY OF THE FEDERAL GOVERNMENT.”</b>, or a notice to the same effect in words which the Postal Service may prescribe;
+&emsp;(A) such nongovernmental entity has such expressed connection, approval or endorsement;
 
-&emsp;(B) the envelope or outside cover or wrapper in which such matter is mailed bears on its face in capital letters and in conspicuous and legible type, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>“THIS IS NOT A GOVERNMENT DOCUMENT.”</b>, or a notice to the same effect in words which the Postal Service may prescribe; and
+&emsp;(B)(i) such matter bears on its face, in conspicuous and legible type in contrast by typography, layout, or color with other printing on its face, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>“THIS ORGANIZATION HAS NOT BEEN APPROVED OR ENDORSED BY THE FEDERAL GOVERNMENT, AND THIS OFFER IS NOT BEING MADE BY AN AGENCY OF THE FEDERAL GOVERNMENT.”</b>, or a notice to the same effect in words which the Postal Service may prescribe;
 
-&emsp;(C) such matter does not contain a false representation stating or implying that Federal Government benefits or services will be affected by any contribution or noncontribution; or
+&emsp;(ii) the envelope or outside cover or wrapper in which such matter is mailed bears on its face in capital letters and in conspicuous and legible type, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>“THIS IS NOT A GOVERNMENT DOCUMENT.”</b>, or a notice to the same effect in words which the Postal Service may prescribe; and
 
-&emsp;(3) such matter is contained in a publication for which the addressee has paid or promised to pay a consideration or which he has otherwise indicated he desires to receive, except that this paragraph shall not apply if the solicitation is on behalf of the publisher of the publication.
+&emsp;(iii) such matter does not contain a false representation stating or implying that Federal Government benefits or services will be affected by any contribution or noncontribution; or
+
+&emsp;(C) such matter is contained in a publication for which the addressee has paid or promised to pay a consideration or which he has otherwise indicated he desires to receive, except that this paragraph shall not apply if the solicitation is on behalf of the publisher of the publication.
+
+(2) In the case of matter bearing the term “census” on the envelope or outside cover or wrapper or matter on which the term “census” is visible through the envelope or outside cover or wrapper, in addition to satisfying one of the exceptions contained in paragraphs <sup>2</sup> (1)(A), (1)(B), or (1)(C), such envelope or outside cover or wrapper bears on its face an accurate return address including the name of the entity that sent such matter.
 
 (j)(1) Any matter otherwise legally acceptable in the mails which is described in paragraph (2) is nonmailable matter, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs.
 
@@ -184,7 +188,7 @@
 
 (<i>o</i>) The district courts, together with the District Court of the Virgin Islands and the District Court of Guam, shall have jurisdiction, upon cause shown, to enjoin violations of section 1716 of title 18.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 745; Pub. L. 91–662, §6(1), Jan. 8, 1971, 84 Stat. 1974; Pub. L. 92–191, §2, Dec. 15, 1971, 85 Stat. 647; Pub. L. 89–544, §26(i)(2), formerly §26(h)(2), as added Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 423, and renumbered §26(i)(2), Pub. L. 110–234, title XIV, §14207(a)(8), May 22, 2008, 122 Stat. 1462, and Pub. L. 110–246, §4(a), title XIV, §14207(a)(8), June 18, 2008, 122 Stat. 1664, 2224; Pub. L. 97–398, §5, Dec. 31, 1982, 96 Stat. 2011; Pub. L. 101–493, §2, Oct. 31, 1990, 104 Stat. 1184; Pub. L. 101–524, §2(a), Nov. 6, 1990, 104 Stat. 2301; Pub. L. 102–71, §2(1), July 10, 1991, 105 Stat. 330; Pub. L. 106–168, title I, §§102, 103, 110(a), Dec. 12, 1999, 113 Stat. 1806, 1808, 1817; Pub. L. 109–435, title X, §1008(a), Dec. 20, 2006, 120 Stat. 3259.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 745; Pub. L. 91–662, §6(1), Jan. 8, 1971, 84 Stat. 1974; Pub. L. 92–191, §2, Dec. 15, 1971, 85 Stat. 647; Pub. L. 89–544, §26(i)(2), formerly §26(h)(2), as added Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 423, and renumbered §26(i)(2), Pub. L. 110–234, title XIV, §14207(a)(8), May 22, 2008, 122 Stat. 1462, and Pub. L. 110–246, §4(a), title XIV, §14207(a)(8), June 18, 2008, 122 Stat. 1664, 2224; Pub. L. 97–398, §5, Dec. 31, 1982, 96 Stat. 2011; Pub. L. 101–493, §2, Oct. 31, 1990, 104 Stat. 1184; Pub. L. 101–524, §2(a), Nov. 6, 1990, 104 Stat. 2301; Pub. L. 102–71, §2(1), July 10, 1991, 105 Stat. 330; Pub. L. 106–168, title I, §§102, 103, 110(a), Dec. 12, 1999, 113 Stat. 1806, 1808, 1817; Pub. L. 109–435, title X, §1008(a), Dec. 20, 2006, 120 Stat. 3259; Pub. L. 111–155, §2, Apr. 7, 2010, 124 Stat. 1112; Pub. L. 111–170, §1, May 24, 2010, 124 Stat. 1193.)
 
 #### References in Text
 
@@ -200,11 +204,27 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to Pub. L. 89�
 
 #### Amendments
 
-2008—Pub. L. 110–246, §14207(a)(8), renumbered Pub. L. 89–544, §26(h)(2), as §26(i)(2). See 1976 Amendment note below.
+<b>2010</b>—Subsec. (h). Pub. L. 111–155, §2(a)(2)–(5), designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), redesignated subpars. (A) to (C) of former par. (2) as cls. (i) to (iii), respectively, of par. (1)(B), and added par. (2).
 
-2006—Subsecs. (n), (<i>o</i>). Pub. L. 109–435 added subsec. (n) and redesignated former subsec. (n) as (<i>o</i>).
+Pub. L. 111–155, §2(a)(1), inserted “; or which bears the term ‘census’ on the envelope or outside cover or wrapper” after “such matter by the Federal Government” in introductory provisions.
 
-1999—Subsec. (a). Pub. L. 106–168, §110(a), struck out “1714,” after “1463,” and “1718,” after “1717,”.
+Subsec. (h)(1). Pub. L. 111–170, §1(a)(1), inserted “; or on which the term ‘census’ is visible through the envelope or outside cover or wrapper” after “or which bears the term ‘census’ on the envelope or outside cover or wrapper” in introductory provisions.
+
+Subsec. (h)(2). Pub. L. 111–170, §1(a)(2), inserted “or matter on which the term ‘census’ is visible through the envelope or outside cover or wrapper” after “In the case of matter bearing the term ‘census’ on the envelope or outside cover or wrapper”.
+
+Subsec. (i). Pub. L. 111–155, §2(b)(2)–(5), designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), redesignated subpars. (A) to (C) of former par. (2) as cls. (i) to (iii), respectively, of par. (1)(B), and added par. (2).
+
+Pub. L. 111–155, §2(b)(1), inserted “; or which bears the term ‘census’ on the envelope or outside cover or wrapper” after “such matter by the Federal Government” in introductory provisions.
+
+Subsec. (i)(1). Pub. L. 111–170, §1(b)(1), inserted “; or on which the term ‘census’ is visible through the envelope or outside cover or wrapper” after “or which bears the term ‘census’ on the envelope or outside cover or wrapper”.
+
+Subsec. (i)(2). Pub. L. 111–170, §1(b)(2), inserted “or matter on which the term ‘census’ is visible through the envelope or outside cover or wrapper” after “In the case of matter bearing the term ‘census’ on the envelope or outside cover or wrapper”.
+
+<b>2008</b>—Pub. L. 110–246, §14207(a)(8), renumbered Pub. L. 89–544, §26(h)(2), as §26(i)(2). See 1976 Amendment note below.
+
+<b>2006</b>—Subsecs. (n), (<i>o</i>). Pub. L. 109–435 added subsec. (n) and redesignated former subsec. (n) as (<i>o</i>).
+
+<b>1999</b>—Subsec. (a). Pub. L. 106–168, §110(a), struck out “1714,” after “1463,” and “1718,” after “1717,”.
 
 Subsec. (h). Pub. L. 106–168, §102(1)(A), in introductory provisions, substituted “which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government” for “contains a seal, insignia, trade or brand name, or any other term or symbol that reasonably could be interpreted or construed as implying any Federal Government connection, approval or endorsement”.
 
@@ -222,9 +242,9 @@ Subsec. (<i>l</i>). Pub. L. 106–168, §103, added subsec. (<i>l</i>).
 
 Subsecs. (m), (n). Pub. L. 106–168, §102(3), redesignated subsecs. (j) and (k) as (m) and (n), respectively.
 
-1991—Subsecs. (i) to (k). Pub. L. 102–71 redesignated subsec. (i), relating to conduct of proceedings concerning mailability of certain matter, as (j), and former subsec. (j), relating to jurisdiction of district courts, as (k).
+<b>1991</b>—Subsecs. (i) to (k). Pub. L. 102–71 redesignated subsec. (i), relating to conduct of proceedings concerning mailability of certain matter, as (j), and former subsec. (j), relating to jurisdiction of district courts, as (k).
 
-1990—Subsec. (f). Pub. L. 101–524 added subsec. (f). Former subsec. (f) redesignated (i).
+<b>1990</b>—Subsec. (f). Pub. L. 101–524 added subsec. (f). Former subsec. (f) redesignated (i).
 
 Pub. L. 101–493 added subsec. (f). Former subsec. (f), as added by Pub. L. 101–524, redesignated (h).
 
@@ -240,11 +260,11 @@ Pub. L. 101–493 redesignated subsec. (g), as added by Pub. L. 101–524, as (i
 
 Subsec. (j). Pub. L. 101–524 redesignated subsec. (g) as (j).
 
-1982—Subsec. (a). Pub. L. 97–398 substituted “, 1718, or 1738” for “or 1718”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–398 substituted “, 1718, or 1738” for “or 1718”.
 
-1976—Subsec. (a). Pub. L. 89–544, §26(i)(2), formerly §26(h)(2), as added Pub. L. 94–279, §17, and renumbered §26(i)(2) by Pub. L. 110–246, §14207(a)(8), inserted “, or section 26 of the Animal Welfare Act” after “title 18”.
+<b>1976</b>—Subsec. (a). Pub. L. 89–544, §26(i)(2), formerly §26(h)(2), as added Pub. L. 94–279, §17, and renumbered §26(i)(2) by Pub. L. 110–246, §14207(a)(8), inserted “, or section 26 of the Animal Welfare Act” after “title 18”.
 
-1971—Subsecs. (e), (f). Pub. L. 91–662, §6(1)(A), (B), added subsec. (e) and redesignated former subsec. (e) as (f). Section 5(a) of Pub. L. 91–662 inserted a similar provision to section 4001 of former Title 39, The Postal Service, pending the effective date of this section. Said amendment to section 4001 has not been executed in view of the passage of Title 39, Postal Service, as enacted by the Postal Reorganization Act.
+<b>1971</b>—Subsecs. (e), (f). Pub. L. 91–662, §6(1)(A), (B), added subsec. (e) and redesignated former subsec. (e) as (f). Section 5(a) of Pub. L. 91–662 inserted a similar provision to section 4001 of former Title 39, The Postal Service, pending the effective date of this section. Said amendment to section 4001 has not been executed in view of the passage of Title 39, Postal Service, as enacted by the Postal Reorganization Act.
 
 Subsec. (g). Pub. L. 92–191 added subsec. (g).
 
@@ -307,4 +327,6 @@ Section 4 of Pub. L. 101–524 provided that: “The United States Postal Servic
 Pub. L. 87–793, §307, Oct. 11, 1962, 76 Stat. 841, provided that: “In order to alert the recipients of mail and the general public to the fact that large quantities of obscene, lewd, lascivious, and indecent matter are being introduced into this country from abroad and disseminated in the United States by means of the United States mails, the Postmaster General shall publicize such fact (1) by appropriate notices posted in post offices, and (2) by notifying recipients of mail, whenever he deems it appropriate in order to carry out the purposes of this section, that the United States mails may contain such obscene, lewd, lascivious, or indecent matter. Any person may file a written request with his local post office to detain obscene, lewd, lascivious, or indecent matter addressed to him, and the Postmaster General shall detain and dispose of such matter for such period as the request is in effect. The Postmaster General shall permit the return of mail containing obscene, lewd, lascivious, or indecent matter, to local post offices, without cost to the recipient thereof. Nothing in this section shall be deemed to authorize the Postmaster General to open, inspect, or censor any mail except on specific request by the addressee thereof. The Postmaster General is authorized to prescribe such regulations as he may deem appropriate to carry out the purposes of this section.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

@@ -12,25 +12,35 @@ Coordination of Activities.—The Secretary shall take appropriate actions to en
 
 Availability of Information Material.—The Secretary will furnish the State approving agencies with copies of such Department of Veterans Affairs informational material as may aid them in carrying out chapters 34 and 35 of this title.
 
-(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 158, §1773; amended Pub. L. 89–358, §3(a)(7), (11), Mar. 3, 1966, 80 Stat. 20, 21; Pub. L. 92–540, title IV, §403(6), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 97–295, §4(51), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 101–237, title IV, §423(b)(1), Dec. 18, 1989, 103 Stat. 2092; renumbered §3673, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 110–389, title III, §326(a)(1), (2)(A), (3), Oct. 10, 2008, 122 Stat. 4169.)
+(d)
+
+Use of State Approving Agencies for Compliance and Oversight Activities.—The Secretary may utilize the services of a State approving agency for such compliance and oversight purposes as the Secretary considers appropriate without regard to whether the Secretary or the agency approved the courses offered in the State concerned.
+
+(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 158, §1773; amended Pub. L. 89–358, §3(a)(7), (11), Mar. 3, 1966, 80 Stat. 20, 21; Pub. L. 92–540, title IV, §403(6), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 97–295, §4(51), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 101–237, title IV, §423(b)(1), Dec. 18, 1989, 103 Stat. 2092; renumbered §3673, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 110–389, title III, §326(a)(1), (2)(A), (3), Oct. 10, 2008, 122 Stat. 4169; Pub. L. 111–377, title II, §203(b), Jan. 4, 2011, 124 Stat. 4125.)
 
 #### Amendments
 
-2008—Pub. L. 110–389, §326(a)(2)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Cooperation”.
+<b>2011</b>—Subsec. (d). Pub. L. 111–377 added subsec. (d).
+
+<b>2008</b>—Pub. L. 110–389, §326(a)(2)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Cooperation”.
 
 Subsec. (a). Pub. L. 110–389, §326(a)(3)(A), inserted heading.
 
 Subsecs. (b), (c). Pub. L. 110–389, §326(a)(1), (3)(B), added subsec. (b), redesignated former subsec. (b) as (c), and inserted heading in subsec. (c).
 
-1991—Pub. L. 102–83 renumbered section 1773 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1773 of this title as this section.
 
-1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing in subsecs. (a) and (b) and “Department of Veterans Affairs” for “Veterans’ Administration” in subsec. (b).
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing in subsecs. (a) and (b) and “Department of Veterans Affairs” for “Veterans’ Administration” in subsec. (b).
 
-1982—Pub. L. 97–295 inserted “of this title” after “34 and 35” wherever appearing.
+<b>1982</b>—Pub. L. 97–295 inserted “of this title” after “34 and 35” wherever appearing.
 
-1972—Subsec. (a). Pub. L. 92–540 inserted “this chapter and” before “chapters 34 and 35” wherever appearing.
+<b>1972</b>—Subsec. (a). Pub. L. 92–540 inserted “this chapter and” before “chapters 34 and 35” wherever appearing.
 
-1966—Subsec. (a). Pub. L. 89–358, §3(a)(7), (11), substituted “chapters 34 and 35” for “this chapter” twice and inserted “or veterans” after “eligible persons”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–358, §3(a)(7), (11), substituted “chapters 34 and 35” for “this chapter” twice and inserted “or veterans” after “eligible persons”.
 
 Subsec. (b). Pub. L. 89–358, §3(a)(7), substituted “chapters 34 and 35” for “this chapter”.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 111–377 effective Aug. 1, 2011, see section 203(e) of Pub. L. 111–377, set out as a note under section 3034 of this title.
 

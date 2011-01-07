@@ -14,7 +14,7 @@ Words “civil actions, suits or proceedings” were substituted for “suits of
 
 Word “agency” was inserted in order that this section shall apply to actions by agencies of the Government and to conform with special acts authorizing such actions. (See definitive section 451 of this title.)
 
-The phrase “Except as otherwise provided by Act of Congress,” at the beginning of the section was inserted to make clear that jurisdiction exists generally in district courts in the absence of special provisions conferring it elsewhere.
+The phrase “Except as otherwise provided by Act of Congress,” at the beginning of the section was insertedto make clear that jurisdiction exists generally in district courts in the absence of special provisions conferring it elsewhere.
 
 Changes were made in phraseology.
 

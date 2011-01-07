@@ -86,3 +86,5 @@ Under this section, an entity shall—
 
 (Pub. L. 103–322, title IV, §41305, as added Pub. L. 109–162, title IV, §401, Jan. 5, 2006, 119 Stat. 3021.)
 
+<i><sup>1</sup></i><i> So in original. The word “that” probably should not appear.</i>
+

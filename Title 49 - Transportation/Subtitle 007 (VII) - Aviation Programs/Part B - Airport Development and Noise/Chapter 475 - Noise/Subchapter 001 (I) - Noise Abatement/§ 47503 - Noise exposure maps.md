@@ -40,7 +40,7 @@ In subsection (b), the words “to the Secretary” are added for clarity. The w
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–176, §324(1), substituted “a forecast period that is at least 5 years in the future” for “1985,” in introductory provisions.
+<b>2003</b>—Subsec. (a). Pub. L. 108–176, §324(1), substituted “a forecast period that is at least 5 years in the future” for “1985,” in introductory provisions.
 
 Subsec. (b). Pub. L. 108–176, §324(2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “If a change in the operation of an airport will establish a substantial new noncompatible use in an area surrounding the airport, the airport operator shall submit a revised noise exposure map to the Secretary showing the new noncompatible use.”
 

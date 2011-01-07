@@ -28,5 +28,5 @@ The word “award” is substituted for the word “present” to cover the dete
 
 #### Amendments
 
-1963—Pub. L. 88–77 enlarged the authority to award a silver star medal, which was limited to those cases in which persons distinguished themselves in action, to permit its award for gallantry while engaged in an action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
+<b>1963</b>—Pub. L. 88–77 enlarged the authority to award a silver star medal, which was limited to those cases in which persons distinguished themselves in action, to permit its award for gallantry while engaged in an action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 

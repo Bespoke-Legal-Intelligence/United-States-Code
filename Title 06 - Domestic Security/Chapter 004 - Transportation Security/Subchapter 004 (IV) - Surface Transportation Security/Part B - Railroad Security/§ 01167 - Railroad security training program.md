@@ -60,7 +60,7 @@ The regulations developed under subsection (a) shall require security training p
 
 #### (4) Updates of regulations and program revisions
 
-&emsp;The Secretary shall periodically review and update as appropriate the training regulationsissued under subsection (a) to reflect new or changing security threats. Each railroad carrier shall revise its training program accordingly and provide additional training as necessary to its frontline employees within a reasonable time after the regulations are updated.
+&emsp;The Secretary shall periodically review and update as appropriate the training regulations issued under subsection (a) to reflect new or changing security threats. Each railroad carrier shall revise its training program accordingly and provide additional training as necessary to its frontline employees within a reasonable time after the regulations are updated.
 
 #### (e) National Training Program
 

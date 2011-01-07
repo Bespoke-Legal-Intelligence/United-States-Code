@@ -6,7 +6,7 @@
 
 (3) An employee in a covered position who is promoted to the next higher grade shall be paid in that grade at a step having a rate of basic pay that is greater than the rate of basic pay applicable to the employee in a covered position on the day before the effective date of the promotion.
 
-(b)(1) Under regulations which the Secretary prescribes for the administration of this section,the director of a Department health-care facility (A) shall pay a cash bonus (in an amount to be determined by the director not to exceed $2,000) to an employee in a covered position at that facility who becomes certified in a specialty recognized by the Department, and (B) may provide such a bonus to an employee in such a position who has demonstrated both exemplary job performance and exemplary job achievement. The authority of the Secretary under this subsection is in addition to any other authority of the Secretary to provide job performance incentives.
+(b)(1) Under regulations which the Secretary prescribes for the administration of this section, the director of a Department health-care facility (A) shall pay a cash bonus (in an amount to be determined by the director not to exceed $2,000) to an employee in a covered position at that facility who becomes certified in a specialty recognized by the Department, and (B) may provide such a bonus to an employee in such a position who has demonstrated both exemplary job performance and exemplary job achievement. The authority of the Secretary under this subsection is in addition to any other authority of the Secretary to provide job performance incentives.
 
 (2) The Secretary shall include in the annual report under section 7451(g) <sup>1</sup> of this title a discussion of the use during the period covered by the report of the payment of bonuses under this subsection and other job performance incentives available to the Secretary.
 
@@ -36,13 +36,13 @@
 
 &emsp;(B) The Central Office.
 
-(2) The amount of special pay paid to a nurse executive under paragraph (1) shall be not less than $10,000 or more than $25,000.
+(2) The amount of special pay paid to a nurse executive under paragraph (1) shall be not less than $10,000 or more than $100,000.
 
 (3) The amount of special pay paid to a nurse executive under paragraph (1) shall be based on factors such as the grade of the nurse executive position, the scope and complexity of the nurse executive position, the personal qualifications of the nurse executive, the characteristics of the health care facility concerned, the nature and number of specialty care units at the health care facility concerned, demonstrated difficulties in recruitment and retention of nurse executives at the health care facility concerned, and such other factors as the Secretary considers appropriate.
 
 (4) Special pay paid to a nurse executive under paragraph (1) shall be in addition to any other pay (including basic pay) and allowances to which the nurse executive is entitled, and shall be considered pay for all purposes, including retirement benefits under chapters 83 and 84 of title 5, and other benefits, but shall not be considered basic pay for purposes of adverse actions under subchapter V of this chapter.
 
-(Added Pub. L. 101–366, title I, §102(b), Aug. 15, 1990, 104 Stat. 435, §4142; renumbered §7452 and amended Pub. L. 102–40, title III, §301(d), title IV, §401(c)(1)(A), (3), May 7, 1991, 105 Stat. 208, 238; Pub. L. 102–585, title III, §304(a), Nov. 4, 1992, 106 Stat. 4952; Pub. L. 108–445, §5, Dec. 3, 2004, 118 Stat. 2645.)
+(Added Pub. L. 101–366, title I, §102(b), Aug. 15, 1990, 104 Stat. 435, §4142; renumbered §7452 and amended Pub. L. 102–40, title III, §301(d), title IV, §401(c)(1)(A), (3), May 7, 1991, 105 Stat. 208, 238; Pub. L. 102–585, title III, §304(a), Nov. 4, 1992, 106 Stat. 4952; Pub. L. 108–445, §5, Dec. 3, 2004, 118 Stat. 2645; Pub. L. 111–163, title VI, §601(i), May 5, 2010, 124 Stat. 1170.)
 
 #### References in Text
 
@@ -50,11 +50,13 @@ Section 7451(g) of this title, referred to in subsecs. (b)(2) and (e), was repea
 
 #### Amendments
 
-2004—Subsec. (g). Pub. L. 108–445 added subsec. (g).
+<b>2010</b>—Subsec. (g)(2). Pub. L. 111–163 substituted “$100,000” for “$25,000”.
 
-1992—Subsec. (e). Pub. L. 102–585 inserted before period at end “, except that in the case of an employee whose transfer (other than pursuant to a disciplinary action otherwise authorized by law) to another health-care facility is at the request of the Secretary, the Secretary may provide that for at least the first year following such transfer the employee shall be paid at a rate of basic pay up to the rate applicable to such employee before the transfer, if the Secretary determines that such rate of pay is necessary to fill the position. Whenever the Secretary exercises the authority under the preceding sentence relating to the rate of basic pay of a transferred employee, the Secretary shall, in the next annual report required under section 7451(g) of this title, provide justification for doing so”.
+<b>2004</b>—Subsec. (g). Pub. L. 108–445 added subsec. (g).
 
-1991—Pub. L. 102–40, §401(c)(1)(A), renumbered section 4142 of this title as this section.
+<b>1992</b>—Subsec. (e). Pub. L. 102–585 inserted before period at end “, except that in the case of an employee whose transfer (other than pursuant to a disciplinary action otherwise authorized by law) to another health-care facility is at the request of the Secretary, the Secretary may provide that for at least the first year following such transfer the employee shall be paid at a rate of basic pay up to the rate applicable to such employee before the transfer, if the Secretary determines that such rate of pay is necessary to fill the position. Whenever the Secretary exercises the authority under the preceding sentence relating to the rate of basic pay of a transferred employee, the Secretary shall, in the next annual report required under section 7451(g) of this title, provide justification for doing so”.
+
+<b>1991</b>—Pub. L. 102–40, §401(c)(1)(A), renumbered section 4142 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 102–40, §401(c)(3)(A)(i), substituted “7451(a)” for “4141(a)”.
 

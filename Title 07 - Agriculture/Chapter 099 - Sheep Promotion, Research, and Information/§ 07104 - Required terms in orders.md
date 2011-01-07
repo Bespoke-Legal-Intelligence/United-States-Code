@@ -32,7 +32,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 &emsp;&emsp;California
 
-5   
+5&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;Colorado
 
@@ -84,7 +84,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 &emsp;&emsp;Louisiana
 
-1&nbsp;&nbsp;&nbsp;
+1   
 
 &emsp;&emsp;Maine
 
@@ -264,7 +264,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 #### (A) Producer nominations
 
-&emsp;&emsp;The solicitation of nominations for subsequent appointment to the Board from eligible organizations certified under paragraph (3) shall be initiated by the Secretary, withthe Board securing the nominations for the Secretary.
+&emsp;&emsp;The solicitation of nominations for subsequent appointment to the Board from eligible organizations certified under paragraph (3) shall be initiated by the Secretary, with the Board securing the nominations for the Secretary.
 
 #### (B) Feeder and importer nominations
 
@@ -274,7 +274,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 #### (A) In general
 
-&emsp;&emsp;The eligibility of any organization to represent producers, and to participate in the making of nominations to represent producers under this section, shall be certified by the Secretary. The Secretary shall certify any organization that the Secretary determines meets the eligibility criteria established by the Secretary under this paragraph. An eligibility determination of the Secretary under this paragraph shall be final.
+&emsp;&emsp;The eligibility of any organization to represent producers, and to participate in themaking of nominations to represent producers under this section, shall be certified by the Secretary. The Secretary shall certify any organization that the Secretary determines meets the eligibility criteria established by the Secretary under this paragraph. An eligibility determination of the Secretary under this paragraph shall be final.
 
 #### (B) Basis for certification
 

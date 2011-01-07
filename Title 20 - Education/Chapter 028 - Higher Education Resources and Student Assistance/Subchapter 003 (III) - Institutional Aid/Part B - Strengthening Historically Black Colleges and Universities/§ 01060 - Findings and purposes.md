@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) the historically Black colleges and universities have contributed significantly to the effort to attain equal opportunity through postsecondary education for Black, low-income, and educationally disadvantaged Americans;
 
-&emsp;(2) States and the Federal Government have discriminated in the allocation of land and financial resources to support Black public institutions under the Morrill Act of 1862 \[7 U.S.C. 301 et seq.\] and its progeny, and against public and private Black colleges and universities in the award of Federal grants and contracts, and the distribution of Federal resources under this chapter and other Federal programs which benefit institutions of higher education;
+&emsp;(2) States and the Federal Government have discriminated in the allocation of land and financial resources to support Black public institutions under the Morrill Act of 1862 \[7 U.S.C. 301 et seq.\] and its progeny, and against public and private Black colleges and universities in the award of Federal grants and contracts, and the distribution of Federal resources under this chapter and part C of subchapter I of chapter 34 of title 42 and other Federal programs which benefit institutions of higher education;
 
 &emsp;(3) the current state of Black colleges and universities is partly attributable to the discriminatory action of the States and the Federal Government and this discriminatory action requires the remedy of enhancement of Black postsecondary institutions to ensure their continuation and participation in fulfilling the Federal mission of equality of educational opportunity; and
 
@@ -14,9 +14,7 @@ The Congress finds that—
 
 #### References in Text
 
-The Morrill Act of 1862, referred to in par. (2), is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, alsoknown as the First Morrill Act, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 301 of Title 7 and Tables.
-
-This chapter, referred to in par. (2), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Morrill Act of 1862, referred to in par. (2), is act July 2, 1862, ch. 130, 12 Stat. 503, also known as the First Morrill Act, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 301 of Title 7 and Tables.
 
 #### Prior Provisions
 
@@ -34,43 +32,95 @@ Ex. Ord. No. 12677, Apr. 28, 1989, 54 F.R. 18869, which provided for the develop
 
 #### Executive Order No. 12876
 
-Ex. Ord. No. 12876, Nov. 1, 1993, 58 F.R. 58735, which established in the Department of Education the President's Board of Advisors on Historically Black Colleges and Universities, a Presidential advisory committee, was revoked by Ex. Ord. No. 13256, §11, Feb. 12, 2002, 67 F.R. 6825, set out below.
+Ex. Ord. No. 12876, Nov. 1, 1993, 58 F.R. 58735, which established in the Department of Education the President's Board of Advisors on Historically Black Colleges and Universities, a Presidential advisory committee, was revoked by Ex. Ord. No. 13256, §11, Feb. 12, 2002, 67 F.R. 6825, formerly set out below.
 
-#### Ex. Ord. No. 13256. President's Board of Advisors on Historically Black Colleges and Universities
+#### Executive Order No. 13256
 
-Ex. Ord. No. 13256, Feb. 12, 2002, 67 F.R. 6823, provided:
+Ex. Ord. No. 13256, Feb. 12, 2002, 67 F.R. 6823, which established in the Office of the Secretary of Education the President's Board of Advisors on Historically Black Colleges and Universities, a Presidential advisory committee, was revoked by Ex. Ord. No. 13532, §4(g), Feb. 26, 2010, 75 F.R. 9752, set out below.
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, in order to advance the development of the Nation's full human potential and to advance equal opportunity in higher education, to strengthen the capacity of historically black colleges and universities to provide the highest quality education, and to increase opportunities for these institutions to participate in and benefit from Federal programs, as do other colleges and universities, it is hereby ordered as follows:
+#### Ex. Ord. No. 13532. Promoting Excellence, Innovation, and Sustainability at Historically Black Colleges and Universities
 
-Section 1. There is established, in the Office of the Secretary of Education, a Presidential advisory committee entitled the “President's Board of Advisors on Historically Black Colleges and Universities” (Board). The Board shall prepare and issue an annual report to the President on the results of the participation of historically black colleges and universities in Federal programs. The Board also shall provide advice to the President and to the Secretary of Education (Secretary) regarding the needs of historically black colleges and universities in the areas of infrastructure, academic programs, and faculty and institutional development. In the annual report to the President, the Board shall make recommendations on how to increase the private sector role, including the role of private foundations, in strengthening historically black colleges and universities. Particular emphasis should also be given in the report to enhancing institutional planning and development, strengthening fiscal stability and financial management, and improving institutional infrastructure, including the use of technology, to ensure the long-term viability and enhancement of these institutions.
+Ex. Ord. No. 13532, Feb.26, 2010, 75 F.R. 9749, provided:
 
-Sec. 2. The Board shall be appointed by the President. The Board membership shall include sitting presidents of historically black colleges and universities, representatives of other higher education institutions, business and financial leaders, representatives of private foundations, and secondary school administrators. The President shall designate a Chair or Co-Chairs from among the members.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, in order to advance the development of the Nation's full human potential and to advance equal opportunity in higher education, strengthen the capacity of historically black colleges and universities to provide the highest quality education, increase opportunities for these institutions to participate in and benefit from Federal programs, and ensure that our Nation has the highest proportion of college graduates in the world by the year 2020, it is hereby ordered as follows:
 
-Sec. 3. The White House Initiative on Historically Black Colleges and Universities (Initiative), located in the Office of the Secretary of Education, shall: (1) provide staff, resources, and assistance to the Board; (2) assist the Secretary in performing the liaison function between the executive branch and historically black colleges and universities; and (3) serve the Secretary in carrying out the responsibilities described in section 6 of this order.
+Section 1. <i>Policy</i>. Historically black colleges and universities (HBCUs) have made historic and ongoing contributions to the general welfare and prosperity of our country. Established by visionary leaders, America'sHBCUs, for over 150 years, have produced many of the Nation's leaders in business, government, academia, and the military and have provided generations of American men and women with hope and educational opportunity. The Nation's 105 HBCUs are located in 20 States, the District of Columbia, and the U.S. Virgin Islands and serve more than 300,000 undergraduate and graduate students. These institutions continue to be important engines of economic growth and community service, and they are proven ladders of intergenerational advancement for men and women of all ethnic, racial, and economic backgrounds, especially African Americans. These institutions also produce a high number of baccalaureate recipients who go on to assume leadership and service roles in their communities and who successfully complete graduate and professional degree programs.
 
-Sec. 4. To carry out this order, each executive department and agency identified by the Secretary may, consistent with applicable law and regulations, enter into appropriate grants, contracts, or cooperative agreements with historically black colleges and universities. The head of each department or agency so identified shall establish an annual plan that will establish clear goals for how the department or agency intends to increase the capacity of historically black colleges and universities to compete effectively for grants, contracts, or cooperative agreements and to encourage historically black colleges and universities to participate in Federal programs. The department's or agency's annual goal should be clearly reflected in the department's or agency's annual budget submission to the Office of Management and Budget. To facilitate the attainment of these goals, the head of each department or agency identified by the Secretary shall provide, as appropriate, technical assistance and information to historically black colleges and universities regarding the program activities of the department or agency and the preparation of applications or proposals for grants, contracts, or cooperative agreements.
+Sec. 2. <i>White House Initiative on HBCUs.</i>
 
-Sec. 5. Each executive department and agency identified by the Secretary shall appoint a senior official, who is a full-time officer of the Federal Government, to report directly to the department or agency head with respect to department or agency activity under this order, and to serve as liaison to the Board and to the Initiative. To the extent permitted by law and regulations, each executive department and agency identified by the Secretary shall provide appropriate information requested by the Board and staff pursuant to the order.
+(a) <i>Establishment</i>. There is established the White House Initiative on Historically Black Colleges and Universities (Initiative), to be housed in the Department of Education (Department).
 
-Sec. 6. Each executive department and agency identified by the Secretary shall develop an annual plan for, and shall document the agency's effort in, increasing the capacity of historically black colleges and universities to participate in Federal programs. Each department's and agency's plan shall describe new or existing department and agency programs and measurable objectives for proposed department and agency actions, in connection with those programs, to achieve the purposes of this order. These plans shall be submitted at such time and in such form as the Secretary shall require. In consultation with the participating departments and agencies, the Secretary shall review the plans and develop, with the advice of the Board, an integrated Annual Federal Plan for Assistance to Historically Black Colleges and Universities for submission to the President. The Secretary shall provide the president of each historically black college and university with a copy of, and an opportunity to comment on, theproposed Annual Federal Plan prior to its submission to the President. Each participating department and agency shall submit to the Secretary an Annual Performance Report that shall measure each department's and agency's performance against the objectives set forth in the department's or agency's annual plan. The Secretary shall be responsible for monitoring compliance with the Annual Federal Plan after it is approved by the President.
+(b) <i>Mission and Functions</i>. The Initiative shall work with executive departments, agencies, and offices, the private sector, educational associations, philanthropic organizations, and other partners to increase the capacity of HBCUs to provide the highest-quality education to a greater number of students, and to take advantage of these institutions’ capabilities in serving the Nation's needs through five core tasks:
 
-Sec. 7. In developing its annual plan, each executive department and agency identified by the Secretary shall emphasize programs and activities that develop the capacity of historically black colleges and universities to contribute to the development of human capital and to strengthen America's economic and technological base through: (1) infrastructure development and acquisitions for instruction and research; (2) student and faculty doctoral fellowships and faculty development; (3) domestic and international faculty and student exchanges and study-abroad opportunities; (4) undergraduate and graduate student internships; and (5) summer, part-time, and permanent employment opportunities.
+(i) strengthening the capacity of HBCUs to participate in Federal programs;
 
-Sec. 8. Each year, the Board shall report to the President on the progress achieved in enhancing the capacity of historically black colleges and universities to serve their students, including findings and recommendations for individual departments and agencies in connection with their Annual Performance Reports, as described in section 6 of this order.
+(ii) fostering enduring private-sector initiatives and public-private partnerships while promoting specific areas and centers of academic research and programmatic excellence throughout all HBCUs;
 
-Sec. 9. The Board, in consultation with the Department of Education and other executive departments and agencies, shall develop a Private Sector Strategy to assist historically black colleges and universities in: (1) increasing voluntary private-sector contributions to support the enhancement of endowments and the overall financial stability of such institutions; (2) improving and enhancing the quality and number of private-sector partnerships focused on academic program development, student achievement and faculty development, cooperative research and development projects, and faculty exchanges; and (3) improving information management, and facilities, and strengthening academic course offerings.
+(iii) improving the availability, dissemination, and quality of information concerning HBCUs to inform public policy and practice;
 
-Sec. 10. (a) The provisions in this Executive Order shall be implemented to the fullest extent permitted by law.
+(iv) sharing administrative and programmatic practices within the HBCU community for the benefit of all; and
 
-(b) The Department of Education shall provide funding and administrative support for the Board and the Initiative.
+(v) exploring new ways of improving the relationship between the Federal Government and HBCUs.
 
-(c) Members of the Board shall serve without compensation, but shall be reimbursed for all travel expenses, including per diem in lieu of subsistence, as authorized by law;
+(c) <i>Administration</i>. There shall be an Executive Director of the Initiative. The Department shall provide the staff, resources, and assistance for the Initiative, and shall assist the Initiative in fulfilling its mission and responsibilities under this order.
 
-(d) Insofar as the Federal Advisory Committee Act, as amended \[5 U.S.C. App.\], may apply to the Board, any functions of the President under that Act, except for those in section 6 of that Act, shall be performed by the Department of Education, in accordance with the guidelines that have been issued by the Administrator of General Services.
+(d) <i>Federal Agency Plans</i>. (1) Each executive department and agency designated by the Secretary of Education (Secretary) shall prepare an annual plan (agency plan) of its efforts to strengthen the capacity of HBCUs through increased participation in appropriate Federal programs and initiatives. Where appropriate, each agency plan shall address, among other things, the agency's proposed efforts to:
 
-Sec. 11. Executive Order 12876 of November 1, 1993, as amended, is hereby revoked.
+&emsp;(i) establish how the department or agency intends to increase the capacity of HBCUs to compete effectively for grants, contracts, or cooperative agreements and to encourage HBCUs to participate in Federal programs;
 
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&emsp;(ii) identify Federal programs and initiatives in which HBCUs may be either underserved or underused as national resources, and improve HBCUs’ participation therein; and
+
+&emsp;(iii) encourage public-sector, private-sector, and community involvement in improving the overall capacity of HBCUs.
+
+(2) Each department and agency, in its agency plan, shall provide appropriate measurable objectives and, after the first year, shall annually assess that department's or agency's performance on the goals set in the previous year's agency plan.
+
+(3) The Secretary shall establish a date by which agency plans shall be submitted to the Secretary. The Secretary and the Executive Director shall review the agency plans in consultation with the President's Board of Advisors on HBCUs, established in section 3 of this order, and shall submit to the President an annual plan to strengthen the overall capacity of HBCUs.
+
+(4) To help fulfill the objectives of these plans, the head of each department and agency identified by the Secretary shall provide, as appropriate, technical assistance and information to the Executive Director for purposes of communicating with HBCUs concerning program activities of the department or agency and the preparation of applications or proposals for grants, contracts, or cooperative agreements.
+
+(5) To help fulfill the goals of this order, each executive department and agency identified by the Secretary shall appoint a senior official to report directly to the department or agency head with respect to that department's or agency's activities under this order, and to serve as liaison to the President's Board of Advisors on HBCUs and to the Initiative.
+
+(e) <i>Interagency Working Group</i>. There is established the Interagency Working Group, which shall be convened by the Executive Director and that shall consist of representatives from agencies designated by the Secretary, to help advance and coordinate the work of Federal agencies pursuant to this order, where appropriate.
+
+Sec. 3. <i>President's Board of Advisors on HBCUs.</i>
+
+(a) <i>Establishment</i>. There is established in the Department the President's Board of Advisors on Historically Black Colleges and Universities (the Board). The Board shall consist of not more than 25 members appointed by the President. The President shall designate one member of the Board to serve as Chair, who shall coordinate with the Executive Director to convene meetings and help direct the work of the Board. The Board shall include representatives of a variety of sectors, including philanthropy, education, business, finance, entrepreneurship, innovation, and private foundations, as well as sitting HBCU presidents.
+
+(b) <i>Mission and Functions</i>. Through the Initiative, the Board shall advise the President and the Secretary on all matters pertaining to strengthening the educational capacity of HBCUs. In particular, the Board shall advise the President and the Secretary in the following areas:
+
+(i) improving the identity, visibility, and distinctive capabilities and overall competitiveness of HBCUs;
+
+(ii) engaging the philanthropic, business, government, military, homeland-security, and education communities in a national dialogue regarding new HBCU programs and initiatives;
+
+(iii) improving the ability of HBCUs to remain fiscally secure institutions that can assist the Nation in reaching its goal of having the highest proportion of college graduates by 2020;
+
+(iv) elevating the public awareness of HBCUs; and
+
+(v) encouraging public-private investments in HBCUs.
+
+(c) <i>Administration</i>. The Executive Director of the Initiative shall also serve as the Executive Director of the Board. The Department shall provide funding and administrative support for the Board to the extent permitted by law and within existing appropriations. Members of the Board shall serve without compensation, but shall be reimbursed for travel expenses, including per diem in lieu of subsistence, as authorized by law. Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the Board, any functions of the President under that Act, except for those of reporting to the Congress, shall be performed by the Secretary, in accordance with guidelines issued by the Administrator of General Services.
+
+(d) <i>Report</i>. As part of the annual report of the Initiative, the Board shall report to the President and the Secretary on their progress in carrying out its duties under this section.
+
+Sec. 4. <i>General Provisions</i>. (a) For the purposes of this order, “historically black colleges and universities” shall mean those institutions listed in 34 C.F.R. 602.8.
+
+(b) This order shall apply to executive departments and agencies designated by the Secretary. Those departments and agencies shall provide timely reports and such information as is required to effectively carry out the objectives of this order.
+
+(c) The heads of executive departments and agencies shall assist and provide information through the WhiteHouse Initiative to the Board, consistent with applicable law, as may be necessary to carry out the functions of the Board. Each executive department and agency shall bear its own expenses of participating in the Initiative.
+
+(d) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(e) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(f) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(g) Executive Order 13256 of February 12, 2002, is hereby revoked.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Board of Advisors on Historically Black Colleges and Universities
 

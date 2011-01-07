@@ -16,11 +16,9 @@ All receipts derived from permits and leases issued on lands or interest in land
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Alaska Statehood Act, referred to in subsec. (b), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
-
-The United States mining laws and the mineral leasing laws, referred to in subsecs. (b) and (c), are classified generally to Title 30, Mineral Lands and Mining.
+The Alaska Statehood Act, referred to in subsec. (b), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

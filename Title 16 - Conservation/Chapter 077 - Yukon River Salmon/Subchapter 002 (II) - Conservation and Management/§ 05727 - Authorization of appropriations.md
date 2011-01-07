@@ -14,7 +14,7 @@ There are authorized to be appropriated to the Secretary of the Interior to carr
 
 #### Amendments
 
-2007—Pub. L. 109–479 substituted “$4,000,000 for each of fiscal years 2007 through 2011” for “$4,000,000 for each of fiscal years 2004 through 2008,”.
+<b>2007</b>—Pub. L. 109–479 substituted “$4,000,000 for each of fiscal years 2007 through 2011” for “$4,000,000 for each of fiscal years 2004 through 2008,”.
 
-2004—Pub. L. 108–219 substituted “2004 through 2008” for “2000, 2001, 2002, and 2003” in introductory provisions.
+<b>2004</b>—Pub. L. 108–219 substituted “2004 through 2008” for “2000, 2001, 2002, and 2003” in introductory provisions.
 

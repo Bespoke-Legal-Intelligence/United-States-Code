@@ -24,7 +24,7 @@
 
 #### Amendments
 
-1989—Subsec. (a)(1). Pub. L. 101–189 substituted “study or selected to receive specialized training” for “study, as that term is defined in section 2120(3) of this title”.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–189 substituted “study or selected to receive specialized training” for “study, as that term is defined in section 2120(3) of this title”.
 
-1987—Pub. L. 100–180 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1987</b>—Pub. L. 100–180 designated existing provisions as subsec. (a) and added subsec. (b).
 

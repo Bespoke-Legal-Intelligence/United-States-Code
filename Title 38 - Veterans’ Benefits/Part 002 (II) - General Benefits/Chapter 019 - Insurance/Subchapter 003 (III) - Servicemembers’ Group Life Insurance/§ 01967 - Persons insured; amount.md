@@ -28,7 +28,7 @@
 
 &emsp;(iii) In the case of a member's child, $10,000.
 
-(B) A member may elect in writing to be insured or to insure the member's spouse in an amount less than the amount provided for under subparagraph (A). The member may not elect to insure the member's child in an amount less than $10,000. The amount of insurance so elected shall, in the case of a member, be evenly divisible by $50,000 and, in the case of a member's spouse,,<sup>1</sup> be evenly divisible by $10,000.
+(B) A member may elect in writing to be insured or to insure the member's spouse in an amount less than the amount provided for under subparagraph (A). The member may not elect to insure the member's child in an amount less than $10,000. The amount of insurance so elected shall, in the case of a member, be evenly divisible by $50,000 and, in the case of a member's spouse, be evenly divisible by $10,000.
 
 (C) In no case may the amount of insurance coverage under this subsection of a member's spouse exceed the amount of insurance coverage of the member.
 
@@ -84,13 +84,15 @@
 
 (4) A notification required by this subsection is satisfied by a good faith effort to provide the required information to the spouse at the last address of the spouse in the records of the Secretary concerned. Failure to provide a notification required under this subsection in a timely manner does not affect the validity of any election specified in paragraph (1) or (2) or beneficiary designation specified in paragraph (3).
 
-(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 881, §767; amended Pub. L. 91–291, §2, June 25, 1970, 84 Stat. 327; Pub. L. 93–289, §4, May 24, 1974, 88 Stat. 166; Pub. L. 97–66, title IV, §401(a), Oct. 17, 1981, 95 Stat. 1030; Pub. L. 99–166, title IV, §401(a), Dec. 3, 1985, 99 Stat. 956; Pub. L. 99–576, title VII, §701(37), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 102–25, title III, §336(a), Apr. 6, 1991, 105 Stat. 89; renumbered §1967 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, §201, Oct. 29, 1992, 106 Stat. 4324; Pub. L. 103–160, div. A, title XI, §1175(a), Nov. 30, 1993, 107 Stat. 1768; Pub. L. 103–337, div. A, title VI, §651(b), Oct. 5, 1994, 108 Stat. 2792; Pub. L. 104–106, div. A, title VI, §646, Feb. 10, 1996, 110 Stat. 369; Pub. L. 104–275, title IV, §§402(b), 404, 405(b)(1)(A), Oct. 9, 1996, 110 Stat. 3337, 3339; Pub. L. 106–419, title III, §§312(a), 313(b), Nov. 1, 2000, 114 Stat. 1854, 1855; Pub. L. 107–14, §4(b), June 5, 2001, 115 Stat. 26; Pub. L. 109–13, div. A, title I, §1012(a)–(c)(1), (d), (f), May 11, 2005, 119 Stat. 244–246; Pub. L. 109–80, §§2, 3(a), 4, 5(a), Sept. 30, 2005, 119 Stat. 2045, 2046; Pub. L. 110–389, title IV, §403(a)(1), (2)(A), Oct. 10, 2008, 122 Stat. 4174.)
+(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 881, §767; amended Pub. L. 91–291, §2, June 25, 1970, 84 Stat. 327; Pub. L. 93–289, §4, May 24, 1974, 88 Stat. 166; Pub. L. 97–66, title IV, §401(a), Oct. 17, 1981, 95 Stat. 1030; Pub. L. 99–166, title IV, §401(a), Dec. 3, 1985, 99 Stat. 956; Pub. L. 99–576, title VII, §701(37), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 102–25, title III, §336(a), Apr. 6, 1991, 105 Stat. 89; renumbered §1967 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, §201, Oct. 29, 1992, 106 Stat. 4324; Pub. L. 103–160, div. A, title XI, §1175(a), Nov. 30, 1993, 107 Stat. 1768; Pub. L. 103–337, div. A, title VI, §651(b), Oct. 5, 1994, 108 Stat. 2792; Pub. L. 104–106, div. A, title VI, §646, Feb. 10, 1996, 110 Stat. 369; Pub. L. 104–275, title IV, §§402(b), 404, 405(b)(1)(A), Oct. 9, 1996, 110 Stat. 3337, 3339; Pub. L. 106–419, title III, §§312(a), 313(b), Nov. 1, 2000, 114 Stat. 1854, 1855; Pub. L. 107–14, §4(b), June 5, 2001, 115 Stat. 26; Pub. L. 109–13, div. A, title I, §1012(a)–(c)(1), (d), (f), May 11, 2005, 119 Stat. 244–246; Pub. L. 109–80, §§2, 3(a), 4, 5(a), Sept. 30, 2005, 119 Stat. 2045, 2046; Pub. L. 110–389, title IV, §403(a)(1), (2)(A), Oct. 10, 2008, 122 Stat. 4174; Pub. L. 111–275, title X, §1001(d)(1), Oct. 13, 2010, 124 Stat. 2896.)
 
 #### Amendments
 
-2008—Subsec. (a)(1)(C), (5)(C). Pub. L. 110–389 substituted “subparagraph (B) or (C) of section 1965(5) of this title” for “section 1965(5)(B) of this title”.
+<b>2010</b>—Subsec. (a)(3)(B). Pub. L. 111–275 substituted “spouse,” for “spouse,,”.
 
-2005—Subsec. (a)(2)(A). Pub. L. 109–13, §1012(d), which directed insertion of “, except with respect to insurance provided under paragraph (3)(A)(i)(III)” before period at end, was repealed by Pub. L. 109–80, §2. See Effective and Termination Dates of 2005 Amendments note below.
+<b>2008</b>—Subsec. (a)(1)(C), (5)(C). Pub. L. 110–389 substituted “subparagraph (B) or (C) of section 1965(5) of this title” for “section 1965(5)(B) of this title”.
+
+<b>2005</b>—Subsec. (a)(2)(A). Pub. L. 109–13, §1012(d), which directed insertion of “, except with respect to insurance provided under paragraph (3)(A)(i)(III)” before period at end, was repealed by Pub. L. 109–80, §2. See Effective and Termination Dates of 2005 Amendments note below.
 
 Subsec. (a)(2)(C). Pub. L. 109–13, §1012(f)(1), which directed addition of subpar. (C), was repealed by Pub. L. 109–80, §2. See Effective and Termination Dates of 2005 Amendments note below. Subpar. (C) read as follows: “Pursuant to regulations prescribed by the Secretary of Defense, notice of an election of a member with a spouse not to be insured under this subchapter, or to be insured under this subchapter in an amount less than the maximum amount provided under paragraph (3)(A)(i)(I), shall be provided to the spouse of the member.”
 
@@ -142,7 +144,7 @@ Subsec. (f). Pub. L. 109–80, §4, added subsec. (f).
 
 Pub. L. 109–13, §1012(c)(1)(A), which directed redesignation of subsec. (e) as (f), was repealed by Pub. L. 109–80, §2. See Effective and Termination Dates of 2005 Amendments note below.
 
-2001—Subsec. (a). Pub. L. 107–14, §4(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any policy of insurance purchased by the Secretary under section 1966 of this title shall automatically insure against death—
+<b>2001</b>—Subsec. (a). Pub. L. 107–14, §4(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any policy of insurance purchased by the Secretary under section 1966 of this title shall automatically insure against death—
 
 &emsp;“(1) any member of a uniformed service on active duty, active duty for training, or inactive duty training scheduled in advance by competent authority; and
 
@@ -152,13 +154,13 @@ Pub. L. 109–13, §1012(c)(1)(A), which directed redesignation of subsec. (e) a
 
 Subsec. (c). Pub. L. 107–14, §4(b)(2), inserted first sentence and struck out former first sentence which read as follows: “If any member elects not to be insured under this subchapter or to be insured in any amount less than $250,000, such member may thereafter be insured under this subchapter in the amount of $250,000 or any lesser amount evenly divisible by $10,000 upon written application, proof of good health, and compliance with such other terms and conditions as may be prescribed by the Secretary.”
 
-2000—Subsec. (a). Pub. L. 106–419, §313(b), substituted “subparagraph (B) or (C) of section 1965(5) of this title” for “section 1965(5)(B) of this title” in par. (2) and concluding provisions.
+<b>2000</b>—Subsec. (a). Pub. L. 106–419, §313(b), substituted “subparagraph (B) or (C) of section 1965(5) of this title”for “section 1965(5)(B) of this title” in par. (2) and concluding provisions.
 
 Pub. L. 106–419, §312(a), substituted “$250,000” for “$200,000” in two places in concluding provisions.
 
 Subsecs. (c), (d). Pub. L. 106–419, §312(a), substituted “$250,000” for “$200,000” in two places in subsec. (c) and in introductory provisions of subsec. (d).
 
-1996—Subsec. (a). Pub. L. 104–275, §405(b)(1)(A), substituted “Servicemembers’ Group” for “Servicemen's Group” in concluding provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–275, §405(b)(1)(A), substituted “Servicemembers’ Group” for “Servicemen's Group” in concluding provisions.
 
 Pub. L. 104–275, §402(b)(1)(C), struck out “or the first day a member of the Reserves, whether or not assigned to the Retired Reserve of a uniformed service, meets the qualifications of section 1965(5)(C) of this title, or the first day a member of the Reserves meets the qualifications of section 1965(5)(D) of this title,” after “section 1965(5)(B) of this title,” in concluding provisions.
 
@@ -192,15 +194,15 @@ Pub. L. 104–106, §646(2), (3), redesignated subsec. (f) as (e) and struck out
 
 Subsec. (f). Pub. L. 104–106, §646(3), redesignated subsec. (f) as (e).
 
-1994—Subsec. (a). Pub. L. 103–337, §651(b)(4), inserted “or the first day a member of the Reserves meets the qualifications of section 1965(5)(D) of this title,” after “section 1965(5)(C) of this title,” in second sentence.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §651(b)(4), inserted “or the first day a member of the Reserves meets the qualifications of section 1965(5)(D) of this title,” after “section 1965(5)(C) of this title,” in second sentence.
 
 Subsec. (a)(4). Pub. L. 103–337, §651(b)(1)–(3), added par. (4).
 
-1993—Subsec. (f). Pub. L. 103–160 added subsec. (f).
+<b>1993</b>—Subsec. (f). Pub. L. 103–160 added subsec. (f).
 
-1992—Subsec. (e). Pub. L. 102–568 added subsec. (e).
+<b>1992</b>—Subsec. (e). Pub. L. 102–568 added subsec. (e).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 767 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 767 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1966” for “766”, “1965(5)(B)” for “765(5)(B)” in two places, and “1965(5)(C)” for “765(5)(C)” in two places.
 
@@ -218,31 +220,31 @@ Subsec. (d). Pub. L. 102–83, §5(c)(1), substituted “1966(b)” for “766(b
 
 Pub. L. 102–54, §336(a)(2), substituted “May 1, 1991” for “January 1, 1986” wherever appearing and “$100,000” for “$50,000” in introductory provisions.
 
-1986—Subsec. (b). Pub. L. 99–576, §701(37)(A), substituted “such member” for “him”, “such member” for “he” in three places, and “such member's” for “his”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–576, §701(37)(A), substituted “such member” for “him”, “such member” for “he” in three places, and “such member's” for “his”.
 
 Subsec. (c). Pub. L. 99–576, §701(37)(B)(i), substituted “such member's” for “his”.
 
 Pub. L. 99–576, §701(37)(B)(ii), which directed that subsec. (c) be amended by substituting “such member” for “he”, could not be executed, because “he” does not appear in text. See 1985 Amendment note below.
 
-1985—Subsec. (a). Pub. L. 99–166, §401(a)(1), increased the amount of insurance to $50,000 from $35,000 and substituted “an amount less than $50,000 that is evenly divisible by $10,000” for “the amount of $30,000, $25,000, $20,000, $15,000, $10,000, or $5,000”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–166, §401(a)(1), increased the amount of insurance to $50,000 from $35,000 and substituted “an amount less than $50,000 that is evenly divisible by $10,000” for “the amount of $30,000, $25,000, $20,000, $15,000, $10,000, or $5,000”.
 
 Subsec. (c). Pub. L. 99–166, §401(a)(2), substituted “any amount less than $50,000, such member may thereafter be insured under this subchapter in the amount of $50,000 or any lesser amount evenly divisible by $10,000” for “the amount of $30,000, $25,000, $20,000, $15,000, $10,000, or $5,000, he may thereafter be insured under this subchapter or insured in the amount of $35,000, $30,000, $25,000, $20,000, $15,000, or $10,000 under this subchapter, as the case may be,”.
 
 Subsec. (d). Pub. L. 99–166, §401(a)(3), substituted “January 1, 1986” for “the effective date of this subsection” wherever appearing, and substituted “in the amount of $50,000 or any lesser amount evenly divisible by $10,000” for “up to a maximum of $35,000 (in any amount divisible by $5,000)”.
 
-1981—Subsec. (a). Pub. L. 97–66, §401(a)(1), substituted “in the amount of $35,000 unless such member elects in writing (A) not to be insured under this subchapter, or (B) to be insured in the amount of $30,000, $25,000, $20,000, $15,000, $10,000, or $5,000” for “in the amount of $20,000 unless such member elects in writing (A) not to be insured under this subchapter, or (B) to be insured in the amount of $15,000, $10,000, or $5,000”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–66, §401(a)(1), substituted “in the amount of $35,000 unless such member elects in writing (A) not to be insured under this subchapter, or (B) to be insured in the amount of $30,000, $25,000, $20,000, $15,000, $10,000, or $5,000” for “in the amount of $20,000 unless such member elects in writing (A) not to be insured under this subchapter, or (B) to be insured in the amount of $15,000, $10,000, or $5,000”.
 
 Subsec. (c). Pub. L. 97–66, §401(a)(2), substituted “insured in the amount of $30,000, $25,000, $20,000, $15,000, $10,000, or $5,000, he may thereafter be insured under this subchapter or insured in the amount of $35,000, $30,000, $25,000, $20,000, $15,000, or $10,000 under this subchapter” for “insured in the amount of $15,000, $10,000, or $5,000, he may thereafter be insured under this subchapter or insured in the amount of $20,000, $15,000, or $10,000 under this subchapter”.
 
 Subsec. (d). Pub. L. 97–66, §401(a)(3), added subsec. (d).
 
-1974—Subsec. (a). Pub. L. 93–289, §4(1), authorized insurance for any member of Ready Reserve who meets qualifications set forth in section 765(5)(B) of this title, and any member assigned to, or who upon application would be eligible for assignment to, the Retired Reserve who meets the qualifications set forth in section 765(5)(C) of this title, increased the amount of insurance from $15,000 to $20,000, permitted a member to elect to be insured for $15,000, and prescribed the effective dates of insurance for members of the Ready Reserve and members of the Reserves, whether or not assigned to the Retired Reserves.
+<b>1974</b>—Subsec. (a). Pub. L. 93–289, §4(1), authorized insurance for any member of Ready Reserve who meets qualifications set forth in section 765(5)(B) of this title, and any member assigned to, or who upon application would be eligible for assignment to, the Retired Reserve who meets the qualifications set forth in section 765(5)(C) of this title, increased the amount of insurance from $15,000 to $20,000, permitted a member to elect to be insured for $15,000, and prescribed the effective dates of insurance for members of the Ready Reserve and members of the Reserves, whether or not assigned to the Retired Reserves.
 
 Subsec. (b). Pub. L. 93–289, §4(2), substituted “one hundred and twenty days” for “ninety days” in three places.
 
-Subsec. (c). Pub. L. 93–289, §4(3), inserted provisions authorizing members who elected to be insured in amounts of $15,000, $10,000, or $5,000 to increase the amount of insurance to $20,000, and inserted sentence providing for automatic insurance for former members insured under Veterans’ Group Life Insurance who decline coverage under Servicemen's Group Life Insurance.
+Subsec. (c). Pub. L. 93–289, §4(3), inserted provisions authorizing members who elected to be insured in amounts of $15,000, $10,000, or $5,000 to increase the amount of insurance to $20,000, and inserted sentence providing for automatic insurance for former membersinsured under Veterans’ Group Life Insurance who decline coverage under Servicemen's Group Life Insurance.
 
-1970—Subsec. (a). Pub. L. 91–291 increased from $10,000 to $15,000 maximum amount of insurance authorized for members of uniformed services and inserted references to active duty for training and inactive duty training scheduled in advance by competent authority.
+<b>1970</b>—Subsec. (a). Pub. L. 91–291 increased from $10,000 to $15,000 maximum amount of insurance authorized for members of uniformed services and inserted references to active duty for training and inactive duty training scheduled in advance by competent authority.
 
 Subsec. (b). Pub. L. 91–291 added subsec. (b). Former subsec. (b) redesignated (c).
 
@@ -254,7 +256,7 @@ Pub. L. 110–389, title IV, §403(e)(1), Oct. 10, 2008, 122 Stat. 4174, provide
 
 #### Effective and Termination Dates of 2005 Amendments
 
-Pub. L. 109–80, §2, Sept. 30, 2005, 119 Stat. 2045, provided that: “Effective as of August 31, 2005, section 1012 of division A of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Tsunami Relief, 2005 (Public Law 109–13; 119 Stat. 244) \[amending this section and sections 1969, 1970, and 1977 of this title and enacting provisions set out as a note under this section\], including the amendmentsmade by that section, are repealed, and sections 1967, 1969, 1970, and 1977 of title 38, United States Code, shall be applied as if that section had not been enacted.”
+Pub. L. 109–80, §2, Sept. 30, 2005, 119 Stat. 2045, provided that: “Effective as of August 31, 2005, section 1012 of division A of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Tsunami Relief, 2005 (Public Law 109–13; 119 Stat. 244) \[amending this section and sections 1969, 1970, and 1977 of this title and enacting provisions set out as a note under this section\], including the amendments made by that section, are repealed, and sections 1967, 1969, 1970, and 1977 of title 38, United States Code, shall be applied as if that section had not been enacted.”
 
 Pub. L. 109–80, §3(c), Sept. 30, 2005, 119 Stat. 2046, provided that: “The amendments made by this section \[amending this section and section 1977 of this title\] shall take effect as of September 1, 2005, and shall apply with respect to deaths occurring on or after that date.”
 
@@ -331,6 +333,4 @@ Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub.
 #### Payment of Death Gratuity to SGLI Beneficiaries
 
 Pub. L. 103–139, title VIII, §8134, Nov. 11, 1993, 107 Stat. 1471, required Secretary of Defense to pay death gratuity to each beneficiary under Servicemen's Group Life Insurance policy in case of each deceased member of uniformed services who died on or after Oct. 29, 1992, and before Dec. 1, 1992, and whose death was in performance of duty.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

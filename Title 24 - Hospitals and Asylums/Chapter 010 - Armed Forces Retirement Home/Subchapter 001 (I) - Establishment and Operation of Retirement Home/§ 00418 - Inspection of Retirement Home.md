@@ -36,15 +36,15 @@ The Inspector General of the Department of Defense shall have the duty to inspec
 
 (2) Not later than 45 days after receiving a report and plan under paragraph (1), the Secretary of Defense shall submit the report and plan to Congress.
 
-(Pub. L. 101–510, div. A, title XV, §1518, Nov. 5, 1990, 104 Stat. 1730; Pub. L. 105–261, div. A, title X, §1042(a), Oct. 17, 1998, 112 Stat. 2125; Pub. L. 107–107, div. A, title XIV, §1404(b)(1)(C), Dec. 28, 2001, 115 Stat. 1260; Pub. L. 110–181, div. A, title XIV, §1422(f), Jan. 28, 2008, 122 Stat. 422.)
+(Pub. L. 101–510, div. A, title XV, §1518, Nov. 5, 1990, 104 Stat. 1730; Pub. L. 105–261, div. A, titleX, §1042(a), Oct. 17, 1998, 112 Stat. 2125; Pub. L. 107–107, div. A, title XIV, §1404(b)(1)(C), Dec. 28, 2001, 115 Stat. 1260; Pub. L. 110–181, div. A, title XIV, §1422(f), Jan. 28, 2008, 122 Stat. 422.)
 
 #### Amendments
 
-2008—Pub. L. 110–181 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to triennial inspections, alternating duties of Inspectors General, and inspection reports.
+<b>2008</b>—Pub. L. 110–181 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to triennial inspections, alternating duties of Inspectors General, and inspection reports.
 
-2001—Subsec. (c). Pub. L. 107–107 substituted “Chief Operating Officer” for “Retirement Home Board”.
+<b>2001</b>—Subsec. (c). Pub. L. 107–107 substituted “Chief Operating Officer” for “Retirement Home Board”.
 
-1998—Pub. L. 105–261 amended section catchline and text generally. Prior to amendment, text read as follows: “The Inspector General of the Department of Defense shall—
+<b>1998</b>—Pub. L. 105–261 amended section catchline and text generally. Prior to amendment, text read as follows: “The Inspector General of the Department of Defense shall—
 
 &emsp;“(1) conduct, not later than three years after the effective date specified in section 1541(a) (and at six-year intervals thereafter), an inspection of the Retirement Home and the records of the Retirement Home;
 
@@ -58,5 +58,5 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 
 #### First Inspection
 
-Pub. L. 105–261, div. A, title X, §1042(b), Oct. 17, 1998, 112 Stat. 2125, provided that: “The first inspectionunder section 1518 of the Armed Forces Retirement Home Act of 1991 \[24 U.S.C. 418\], as amended by subsection (a), shall be carried out during fiscal year 1999.”
+Pub. L. 105–261, div. A, title X, §1042(b), Oct. 17, 1998, 112 Stat. 2125, provided that: “The first inspection under section 1518 of the Armed Forces Retirement Home Act of 1991 \[24 U.S.C. 418\], as amended by subsection (a), shall be carried out during fiscal year 1999.”
 

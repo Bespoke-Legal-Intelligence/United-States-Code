@@ -16,5 +16,5 @@ Exception.—The requirement of subsection (a) of this section does not apply wi
 
 #### Amendments
 
-1988—Subsec. (c). Pub. L. 100–690 inserted heading.
+<b>1988</b>—Subsec. (c). Pub. L. 100–690 inserted heading.
 

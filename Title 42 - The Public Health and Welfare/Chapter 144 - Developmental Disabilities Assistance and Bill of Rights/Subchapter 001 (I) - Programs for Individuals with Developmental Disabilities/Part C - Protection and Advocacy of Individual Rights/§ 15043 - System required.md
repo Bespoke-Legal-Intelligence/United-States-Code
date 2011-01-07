@@ -16,7 +16,7 @@ In order for a State to receive an allotment under part B of this subchapter or 
 
 &emsp;&emsp;(B) have the authority to investigate incidents of abuse and neglect of individuals with developmental disabilities if the incidents are reported to the system or if there is probable cause to believe that the incidents occurred;
 
-&emsp;&emsp;(C) on an annual basis, develop, submit to the Secretary, and take action with regardto goals (each of which is related to 1 or more areas of emphasis) and priorities, developed through data driven strategic planning, for the system's activities;
+&emsp;&emsp;(C) on an annual basis, develop, submit to the Secretary, and take action with regard to goals (each of which is related to 1 or more areas of emphasis) and priorities, developed through data driven strategic planning, for the system's activities;
 
 &emsp;&emsp;(D) on an annual basis, provide to the public, including individuals with developmental disabilities attributable to either physical impairment, mental impairment, or a combination of physical and mental impairment, and their representatives, and as appropriate, non-State agency representatives of the State Councils on Developmental Disabilities, and Centers, in the State, an opportunity to comment on—
 
@@ -114,7 +114,7 @@ The Individuals with Disabilities Education Act, referred to in subsec. (a)(2)(D
 
 #### Amendments
 
-2004—Subsec. (a)(2)(D)(ii). Pub. L. 108–364 substituted “section 3003 or 3004 of title 29” for “section 3011 or 3012 of title 29”.
+<b>2004</b>—Subsec. (a)(2)(D)(ii). Pub. L. 108–364 substituted “section 3003 or 3004 of title 29” for “section 3011 or 3012 of title 29”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

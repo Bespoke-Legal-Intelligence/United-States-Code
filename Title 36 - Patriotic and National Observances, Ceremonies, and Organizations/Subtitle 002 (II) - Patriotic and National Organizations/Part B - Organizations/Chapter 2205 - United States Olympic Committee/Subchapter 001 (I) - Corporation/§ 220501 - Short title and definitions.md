@@ -50,11 +50,11 @@ In clause (6), a reference to section 220522 (restating 36:391(b) and (c)) is un
 
 #### Amendments
 
-2006—Pub. L. 109–284, §5(13), substituted “Short title and definitions” for “Title and Definitions” in section catchline.
+<b>2006</b>—Pub. L. 109–284, §5(13), substituted “Short title and definitions” for “Title and Definitions” in section catchline.
 
 Subsec. (a). Pub. L. 109–284, §5(14), substituted “Short Title” for “Title” in heading.
 
-1998—Pub. L. 105–277, §142(b)(2)(A), substituted “Title and Definitions” for “Definitions” in section catchline.
+<b>1998</b>—Pub. L. 105–277, §142(b)(2)(A), substituted “Title and Definitions” for “Definitions” in section catchline.
 
 Subsec. (a). Pub. L. 105–277, §142(b)(2)(B), added subsec. (a).
 

@@ -46,7 +46,7 @@ The Secretary shall develop and implement a coordinated plan for the Corporation
 
 #### (3) Use of field infrastructure
 
-&emsp;The plan required by paragraph (1) shall provide for the use of the field infrastructure of the Farm Service Agency. The Secretary shall ensure that relevant Farm Service Agency personnel are appropriately trained for any responsibilities assigned to the personnel under the plan. At a minimum, the personnel shall receive the same level of training and pass the same basic competency tests as required of loss adjusters of approved insurance providers.
+&emsp;The plan required by paragraph (1) shall provide for the use of the field infrastructure of the Farm Service Agency. The Secretary shall ensure that relevant Farm Service Agency personnel are appropriately trained for any responsibilities assigned to the personnel under the plan. At a minimum, the personnel shall receive the same level of training and pass thesame basic competency tests as required of loss adjusters of approved insurance providers.
 
 #### (4) Maintenance of provider effort
 
@@ -208,13 +208,13 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 #### (3) Use of private sector
 
-&emsp;The Secretary may enter into contracts to use private sector expertise and technological resources in implementing this subsection, which shall be subject to competition on a periodic basis, as determined by the Secretary.
+&emsp;The Secretary may enter into contracts to use private sector expertise and technological resources in implementing this subsection,which shall be subject to competition on a periodic basis, as determined by the Secretary.
 
 #### (k) Funding
 
 #### (1) Information technology
 
-&emsp;To carry out subsection (j)(1), the Corporation may use, from amounts made available from the insurance fund established under section 1516(c) of this title, not more than$15,000,000 for each of fiscal years 2008 through 2010, and not more than $9,000,000 for fiscal year 2011.
+&emsp;To carry out subsection (j)(1), the Corporation may use, from amounts made available from the insurance fund established under section 1516(c) of this title, not more than $15,000,000 for each of fiscal years 2008 through 2010, and not more than $9,000,000 for fiscal year 2011.
 
 #### (2) Data mining
 

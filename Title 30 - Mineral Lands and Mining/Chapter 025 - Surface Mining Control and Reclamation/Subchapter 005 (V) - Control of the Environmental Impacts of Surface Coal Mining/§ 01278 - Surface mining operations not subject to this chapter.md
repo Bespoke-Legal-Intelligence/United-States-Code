@@ -10,7 +10,7 @@ The provisions of this chapter shall not apply to any of the following activitie
 
 #### Amendments
 
-1987—Pub. L. 100–34 inserted “and” after “him;” in par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “the extraction of coal for commercial purposes where the surface mining operation affects two acres or less; and”.
+<b>1987</b>—Pub. L. 100–34 inserted “and” after “him;” in par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “the extraction of coal for commercial purposes where the surface mining operation affects two acres or less; and”.
 
 #### Effective Date of 1987 Amendment
 

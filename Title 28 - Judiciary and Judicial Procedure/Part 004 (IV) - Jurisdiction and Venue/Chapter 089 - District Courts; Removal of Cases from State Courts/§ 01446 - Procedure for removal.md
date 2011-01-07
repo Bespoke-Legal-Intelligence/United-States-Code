@@ -4,7 +4,7 @@
 
 (b) The notice of removal of a civil action or proceeding shall be filed within thirty days after the receipt by the defendant, through service or otherwise, of a copy of the initial pleading setting forth the claim for relief upon which such action or proceeding is based, or within thirty days after the service of summons upon the defendant if such initial pleading has then been filed in court and is not required to be served on the defendant, whichever period is shorter.
 
-If the case stated by the initial pleading is not removable, a notice of removal may be filed within thirty days after receipt by the defendant, through service or otherwise, of a copy of an amended pleading, motion, order or other paper from which it may first be ascertained that the case is one which is or has become removable, except that a case may not be removed on the basis of jurisdiction conferred by section 1332 of this title more than 1 year after commencement of the action.
+If the case stated by the initial pleading is not removable, a notice of removal may be filedwithin thirty days after receipt by the defendant, through service or otherwise, of a copy of an amended pleading, motion, order or other paper from which it may first be ascertained that the case is one which is or has become removable, except that a case may not be removed on the basis of jurisdiction conferred by section 1332 of this title more than 1 year after commencement of the action.
 
 (c)(1) A notice of removal of a criminal prosecution shall be filed not later than thirty days after the arraignment in the State court, or at any time before trial, whichever is earlier, except that for good cause shown the United States district court may enter an order granting the defendant or defendants leave to file the notice at a later time.
 
@@ -18,7 +18,7 @@ If the case stated by the initial pleading is not removable, a notice of removal
 
 (d) Promptly after the filing of such notice of removal of a civil action the defendant or defendants shall give written notice thereof to all adverse parties and shall file a copy of the notice with the clerk of such State court, which shall effect the removal and the State court shall proceed no further unless and until the case is remanded.
 
-(e) If the defendant or defendants are in actual custody on process issued by the State court, the district court shall issue its writ of habeas corpus, and the marshal shall thereupon take such defendant or defendants into his custodyand deliver a copy of the writ to the clerk of such State court.
+(e) If the defendant or defendants are in actual custody on process issued by the State court, the district court shall issue its writ of habeas corpus, and the marshal shall thereupon take such defendant or defendants into his custody and deliver a copy of the writ to the clerk of such State court.
 
 (f) With respect to any counterclaim removed to a district court pursuant to section 337(c) of the Tariff Act of 1930, the district court shall resolve such counterclaim in the same manner as an original complaint under the Federal Rules of Civil Procedure, except that the payment of a filing fee shall not be required in such cases and the counterclaim shall relate back to the date of the original complaint in the proceeding before the International Trade Commission under section 337 of that Act.
 
@@ -78,11 +78,11 @@ Section 337 of the Tariff Act of 1930, referred to in subsec. (f), is classified
 
 #### Amendments
 
-1996—Subsec. (c)(1). Pub. L. 104–317 substituted “defendant or defendants” for “petitioner”.
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–317 substituted “defendant or defendants” for “petitioner”.
 
-1994—Subsec. (f). Pub. L. 103–465 added subsec. (f).
+<b>1994</b>—Subsec. (f). Pub. L. 103–465 added subsec. (f).
 
-1991—Subsec. (c)(1). Pub. L. 102–198, §10(a)(1), (4), substituted “notice of” for “petition for” and “the notice” for “the petition”.
+<b>1991</b>—Subsec. (c)(1). Pub. L. 102–198, §10(a)(1), (4), substituted “notice of” for “petition for” and “the notice” for “the petition”.
 
 Subsec. (c)(2). Pub. L. 102–198, §10(a)(1), (4), substituted “notice of” for “petition for” and substituted “notice” for “petition” in three places.
 
@@ -96,25 +96,25 @@ Subsec. (c)(4), (5). Pub. L. 102–198, §10(a)(3), added pars. (4) and (5) and 
 
 Subsec. (d). Pub. L. 102–198, §10(a)(1), (4), (5), substituted “notice of removal” for “petition for the removal”, struck out “and bond” after “civil action”, and substituted “notice with” for “petition with”.
 
-1988—Subsec. (a). Pub. L. 100–702, §1016(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A defendant or defendants desiring to remove any civil action or criminal prosecution from a State court shall file in the district court of the United States for the district and division within which such action is pending a verified petition containing a short and plain statement of the facts which entitle him or them to removal together with a copy of all process, pleadings and orders served upon him or them in such action.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–702, §1016(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A defendant or defendants desiring to remove any civil action or criminal prosecution from a State court shall file in the district court of the United States for the district and division within which such action is pending a verified petition containing a short and plain statement of the facts which entitle him or them to removal together with a copy of all process, pleadings and orders served upon him or them in such action.”
 
 Subsec. (b). Pub. L. 100–702, §1016(b)(2), substituted “notice of removal” for “petition for removal” in two places and inserted before period at end of second par. “, except that a case may not be removed on the basis of jurisdiction conferred by section 1332 of this title more than 1 year after commencement of the action”.
 
 Subsecs. (d) to (f). Pub. L. 100–702, §1016(b)(3), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows: “Each petition for removal of a civil action or proceeding, except a petition in behalf of the United States, shall be accompanied by a bond with good and sufficient surety conditioned that the defendant or defendants will pay all costs and disbursements incurred by reason of the removal proceedings should it be determined that the case was not removable or was improperly removed.”
 
-1977—Subsec. (c). Pub. L. 95–78, §3(a), designated existing provisions as par. (1), set a period of 30 days as the maximum allowable time prior to commencement of trial and following arraignment during which time a petition for removal can be filed, provided for the grant of additional time for good cause shown, and added pars. (2) to (5).
+<b>1977</b>—Subsec. (c). Pub. L. 95–78, §3(a), designated existing provisions as par. (1), set a period of 30 days as the maximum allowable time prior to commencement of trial and following arraignment during which time a petition for removal can be filed, provided for the grant of additional time for good cause shown, and added pars. (2) to (5).
 
 Subsec. (e). Pub. L. 95–78, §3(b), inserted “for the removal of a civil action” after “filing of such petition”.
 
-1965—Subsec. (b). Pub. L. 89–215 substituted “thirty days” for “twenty days” wherever appearing.
+<b>1965</b>—Subsec. (b). Pub. L. 89–215 substituted “thirty days” for “twenty days” wherever appearing.
 
-1949—Subsec. (b). Act May 24, 1949, §83(a), provided that the petition for removal need not be filed until 20 days after the defendant has received a copy of the plaintiff's initial pleading, and provided that the petition for removal shall be filed within 20 days after the service of summons.
+<b>1949</b>—Subsec. (b). Act May 24, 1949, §83(a), provided that the petition for removal need not be filed until 20 days after the defendant has received a copy of the plaintiff's initial pleading, and provided that the petition for removal shall be filed within 20 days after the service of summons.
 
 Subsec. (e). Act May 24, 1949, §83(b), indicated that notice need not be given simultaneously with the filing, but may be made promptly thereafter.
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 applicable with respect to complaints filed under section 1337 of Title 19, Customs Duties, on or after the date on which the World Trade Organization Agreement enters into force with respect to the United States \[Jan. 1, 1995\], or in cases under section 1337 of Title 19 in which no complaint is filed, with respect to investigations initiated under such section on or after such date, see section 322 of Pub. L. 103–465, set out as a note under section 1337 of Title 19.
+Amendment by Pub. L. 103–465 applicable with respect to complaints filed under section 1337 of Title 19,Customs Duties, on or after the date on which the World Trade Organization Agreement enters into force with respect to the United States \[Jan. 1, 1995\], or in cases under section 1337 of Title 19 in which no complaint is filed, with respect to investigations initiated under such section on or after such date, see section 322 of Pub. L. 103–465, set out as a note under section 1337 of Title 19.
 
 #### Effective Date of 1977 Amendment
 

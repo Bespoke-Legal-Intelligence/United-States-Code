@@ -70,19 +70,19 @@ Section 338A(g)(1)(A) of the Public Health Service Act, referred to in subsec. (
 
 #### Amendments
 
-2001—Subsec. (c). Pub. L. 107–16, §§413(a), 901, temporarily designated existing provisions as par. (1), inserted par. heading, substituted “Except as provided in paragraph (2), subsections (a)” for “Subsections (a)”, and added par. (2). See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (c). Pub. L. 107–16, §§413(a), 901, temporarily designated existing provisions as par. (1), inserted par. heading, substituted “Except as provided in paragraph (2), subsections (a)” for “Subsections (a)”, and added par. (2). See Effective and Termination Dates of 2001 Amendment note below.
 
-1996—Subsec. (d)(2)(B). Pub. L. 104–188 substituted “section 132(h)” for “section 132(f)”.
+<b>1996</b>—Subsec. (d)(2)(B). Pub. L. 104–188 substituted “section 132(h)” for “section 132(f)”.
 
-1989—Subsec. (d)(4). Pub. L. 101–140, §203(a)(2), amended par. (4) to read as if amendments by Pub. L. 100–647, §1011B(a)(31)(B), had not been enacted, see 1988 Amendment note below.
+<b>1989</b>—Subsec. (d)(4). Pub. L. 101–140, §203(a)(2), amended par. (4) to read as if amendments by Pub. L. 100–647, §1011B(a)(31)(B), had not been enacted, see 1988 Amendment note below.
 
 Pub. L. 101–140, §203(a)(1), amended subsec. (d) to read as if amendments by Pub. L. 99–514, §1151(g)(2), which added par. (4), had not been enacted, see 1986 Amendment note below.
 
-1988—Subsec. (d)(4). Pub. L. 100–647, §1011B(a)(31)(B), substituted “there shall” for “there may” and “who are” for “who may be”.
+<b>1988</b>—Subsec. (d)(4). Pub. L. 100–647, §1011B(a)(31)(B), substituted “there shall” for “there may” and “who are” for “who may be”.
 
 Subsec. (d)(5). Pub. L. 100–647, §4001(b)(2), added par. (5).
 
-1986—Pub. L. 99–514, §123(a), in amending section generally, substituted “Qualified scholarships” for “Scholarships and fellowship grants” in section catchline.
+<b>1986</b>—Pub. L. 99–514, §123(a), in amending section generally, substituted “Qualified scholarships” for “Scholarships and fellowship grants” in section catchline.
 
 Subsec. (a). Pub. L. 99–514, §123(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “In the case of an individual, gross income does not include—
 
@@ -114,23 +114,23 @@ Subsec. (d)(3). Pub. L. 99–514, §1114(b)(2), struck out “officer, owner, or
 
 Subsec. (d)(4). Pub. L. 99–514, §1151(g)(2), added par. (4).
 
-1984—Subsec. (d). Pub. L. 98–369 added subsec. (d).
+<b>1984</b>—Subsec. (d). Pub. L. 98–369 added subsec. (d).
 
-1980—Subsec. (c). Pub. L. 96–541 added subsec. (c).
+<b>1980</b>—Subsec. (c). Pub. L. 96–541 added subsec. (c).
 
-1976—Subsecs. (a)(1)(A), (b)(1), (2). Pub. L. 94–455, §1901(b)(8)(A), substituted “educational organization described in section 170(b)(1)(A)(ii)” for “educational institution (as defined in section 151(e)(4))” after “scholarship at an”.
+<b>1976</b>—Subsecs. (a)(1)(A), (b)(1), (2). Pub. L. 94–455, §1901(b)(8)(A), substituted “educational organization described in section 170(b)(1)(A)(ii)” for “educational institution (as defined in section 151(e)(4))” after “scholarship at an”.
 
 Subsec. (b)(2)(A)(iv). Pub. L. 94–455, §1901(c)(3), struck out “a territory” after “or a State”.
 
 Subsec. (b)(2)(B). Pub. L. 94–455, §1901(b)(8)(A), substituted “educational organization described in section 170(b)(1)(A)(ii)” for “educational institution (as defined in section 151(e)(4))” after “degree at an”.
 
-1961—Subsec. (b)(2)(A). Pub. L. 87–256 included cases where the grantor of the scholarship or fellowship grant is a foreign government, an international organization, or a binational or multinational educational and cultural foundation or commission created or continued pursuant to the Mutual Educational and Cultural Exchange Act of 1961.
+<b>1961</b>—Subsec. (b)(2)(A). Pub. L. 87–256 included cases where the grantor of the scholarship or fellowship grant is a foreign government, an international organization, or a binational or multinational educational and cultural foundation or commission created or continued pursuant to the Mutual Educational and Cultural Exchange Act of 1961.
 
 #### Effective and Termination Dates of 2001 Amendment
 
 Pub. L. 107–16, title IV, §413(b), June 7, 2001, 115 Stat. 64, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to amounts received in taxable years beginning after December 31, 2001.”
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -178,7 +178,7 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 
 #### Nonenforcement of Amendment Made by Section 1151 of Pub. L. 99–514 for Fiscal Year 1990
 
-No monies appropriated by Pub. L. 101–136 to be used to implement or enforce section 1151 of Pub. L. 99–514 or the amendments made by such section, see section528 of Pub. L. 101–136, set out as a note under section 89 of this title.
+No monies appropriated by Pub. L. 101–136 to be used to implement or enforce section 1151 of Pub. L. 99–514 or the amendments made by such section, see section 528 of Pub. L. 101–136, set out as a note under section 89 of this title.
 
 #### Applicability of Certain Amendments by Public Law 99–514 in Relation to Treaty Obligations of United States
 

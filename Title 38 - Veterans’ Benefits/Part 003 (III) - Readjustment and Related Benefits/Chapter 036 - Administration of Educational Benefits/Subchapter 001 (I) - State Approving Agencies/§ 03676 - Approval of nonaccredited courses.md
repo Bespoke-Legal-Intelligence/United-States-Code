@@ -64,7 +64,7 @@
 
 (d) The Secretary may waive, in whole or in part, the requirements of subsection (c)(13) of this section in the case of an educational institution which—
 
-&emsp;(1) is a college, university, or similar institution offering postsecondary level academic instruction that leads to an associate or higher degree,
+&emsp;(1) is a college, university, or similar institution offering postsecondary level academicinstruction that leads to an associate or higher degree,
 
 &emsp;(2) is operated by an agency of a State or of a unit of local government,
 
@@ -76,25 +76,25 @@
 
 (e) Notwithstanding any other provision of this title, a course of education shall not be approved under this section if it is to be pursued in whole or in part by independent study.
 
-(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 159, §1776; amended Pub. L. 89–358, §3(a)(9), Mar. 3, 1966, 80 Stat. 21; Pub. L. 97–66, title VI, §606, Oct. 17, 1981, 95 Stat. 1037; Pub. L. 101–237, titleIV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3676 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §313(a)(1), Oct. 29, 1992, 106 Stat. 4331; Pub. L. 109–461, title III, §303, Dec. 22, 2006, 120 Stat. 3428; Pub. L. 110–389, title III, §322, Oct. 10, 2008, 122 Stat. 4168.)
+(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 159, §1776; amended Pub. L. 89–358, §3(a)(9), Mar. 3, 1966, 80 Stat. 21; Pub. L. 97–66, title VI, §606, Oct. 17, 1981, 95 Stat. 1037; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3676 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §313(a)(1), Oct. 29, 1992, 106 Stat. 4331; Pub. L. 109–461, title III, §303, Dec. 22, 2006, 120 Stat. 3428; Pub. L. 110–389, title III, §322, Oct. 10, 2008, 122 Stat. 4168.)
 
 #### Amendments
 
-2008—Subsec. (c)(4). Pub. L. 110–389 struck out “and the Secretary” before “so notified”.
+<b>2008</b>—Subsec. (c)(4). Pub. L. 110–389 struck out “and the Secretary” before “so notified”.
 
-2006—Subsec. (c)(13). Pub. L. 109–461 substituted “before completion and—” and subpars. (A) and (B) for “prior to completion and such policy must provide that the amount charged to the eligible person for tuition, fees, and other charges for a portion of the course shall not exceed the approximate pro rata portion of the total charges for tuition, fees, and other charges that the length of the completed portion of the course bears to its total length.”
+<b>2006</b>—Subsec. (c)(13). Pub. L. 109–461 substituted “before completion and—” and subpars. (A) and (B) for “prior to completion and such policy must provide that the amount charged to the eligible person for tuition, fees, and other charges for a portion of the course shall not exceed the approximate pro rata portion of the total charges for tuition, fees, and other charges that the length of the completed portion of the course bears to its total length.”
 
-1992—Subsec. (e). Pub. L. 102–568 added subsec. (e).
+<b>1992</b>—Subsec. (e). Pub. L. 102–568 added subsec. (e).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1776 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1776 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “3675” for “1775”.
 
-1989—Subsecs. (c)(4), (d). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Subsecs. (c)(4), (d). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1981—Subsec. (d). Pub. L. 97–66 added subsec. (d).
+<b>1981</b>—Subsec. (d). Pub. L. 97–66 added subsec. (d).
 
-1966—Subsec. (a). Pub. L. 89–358 struck out “1653 or” before “1775”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–358 struck out “1653 or” before “1775”.
 
 #### Effective Date of 1981 Amendment
 

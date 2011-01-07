@@ -204,7 +204,7 @@ Section was also formerly classified to section 170f of Title 5 prior to the gen
 
 #### Amendments
 
-2008—Subsec. (f)(2)(A). Pub. L. 110–293, §102(1), which directed insertion of “, partner country finance, health, and other relevant ministries,” after “community based organizations)” wherever appearing, was executed by making the insertion after “community-based organizations)” in introductory provisions and in cl. (iii), to reflect the probable intent of Congress.
+<b>2008</b>—Subsec. (f)(2)(A). Pub. L. 110–293, §102(1), which directed insertion of “, partner country finance, health, and other relevant ministries,” after “community based organizations)” wherever appearing, was executed by making the insertion after “community-based organizations)” in introductory provisions and in cl. (iii), to reflect the probable intent of Congress.
 
 Subsec. (f)(2)(B)(ii)(IV), (V). Pub. L. 110–293, §102(2)(A), (B), added subcls. (IV) and (V) and struck out former subcls. (IV) and (V) which read as follows:
 
@@ -226,15 +226,15 @@ Pub. L. 110–293, §102(2)(C), redesignated subcl. (VIII) as (XII).
 
 Subsec. (f)(2)(B)(ii)(XIII). Pub. L. 110–293, §102(2)(H), added subcl. (XIII).
 
-2004—Subsec. (b)(3). Pub. L. 108–458 inserted “The Under Secretary for Public Diplomacy shall—” at end and added subpars. (A) to (E).
+<b>2004</b>—Subsec. (b)(3). Pub. L. 108–458 inserted “The Under Secretary for Public Diplomacy shall—” at end and added subpars. (A) to (E).
 
-2003—Subsecs. (f), (g). Pub. L. 108–25 added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>2003</b>—Subsecs. (f), (g). Pub. L. 108–25 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-2002—Subsecs. (f), (g). Pub. L. 107–228 added subsec. (f) and struck out former subsecs. (f) and (g), which related to the qualifications of officers having primary responsibility for personnel management and for diplomatic security.
+<b>2002</b>—Subsecs. (f), (g). Pub. L. 107–228 added subsec. (f) and struck out former subsecs. (f) and (g), which related to the qualifications of officers having primary responsibility for personnel management and for diplomatic security.
 
-2000—Subsec. (a)(2). Pub. L. 106–553 substituted “, the Deputy Secretary of State, and the Deputy Secretary of State for Management and Resources” for “and the Deputy Secretary of State”.
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–553 substituted “, the Deputy Secretary of State, and the Deputy Secretary of State for Management and Resources” for “and the Deputy Secretary of State”.
 
-1998—Subsec. (b). Pub. L. 105–277, §1213, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+<b>1998</b>—Subsec. (b). Pub. L. 105–277, §1213, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
 Subsec. (b)(1). Pub. L. 105–277, §2305(a)(1), substituted “6 Under Secretaries” for “5 Under Secretaries”.
 
@@ -262,11 +262,11 @@ Subsec. (h). Pub. L. 105–277, §2305(c)(2), redesignated subsec. (h) as (g).
 
 Pub. L. 105–277, §2304, added subsec. (h).
 
-1994—Pub. L. 103–236 amended section generally. Prior to amendment, section read as follows: “The Secretary of State is authorized to establish, maintain, and operate passport and despatch agencies.”
+<b>1994</b>—Pub. L. 103–236 amended section generally. Prior to amendment, section read as follows: “The Secretary of State is authorized to establish, maintain, and operate passport and despatch agencies.”
 
 Subsec. (a)(2). Pub. L. 103–415 inserted “and the Deputy Secretary of State” after “Secretary”.
 
-1982—Pub. L. 97–241 substituted “The Secretary” for “That the Secretary”.
+<b>1982</b>—Pub. L. 97–241 substituted “The Secretary” for “That the Secretary”.
 
 #### Effective Date of 1998 Amendment
 

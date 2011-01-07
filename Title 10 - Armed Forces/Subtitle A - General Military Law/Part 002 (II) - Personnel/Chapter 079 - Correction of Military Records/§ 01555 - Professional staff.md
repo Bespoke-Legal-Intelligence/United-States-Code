@@ -20,7 +20,7 @@
 
 #### Amendments
 
-1999—Subsec. (c)(2). Pub. L. 106–65 inserted “the Navy Council of Personnel Boards and” after “Department of the Navy,”.
+<b>1999</b>—Subsec. (c)(2). Pub. L. 106–65 inserted “the Navy Council of Personnel Boards and” after “Department of the Navy,”.
 
 #### Effective Date
 

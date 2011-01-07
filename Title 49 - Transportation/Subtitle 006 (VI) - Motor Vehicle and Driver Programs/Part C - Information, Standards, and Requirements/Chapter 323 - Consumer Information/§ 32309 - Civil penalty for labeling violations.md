@@ -42,7 +42,7 @@ This amends the catchline for 49:32309 to correct an error in the codification e
 
 #### Amendments
 
-1994—Pub. L. 103–429 substituted “Civil” for “Criminal” in section catchline.
+<b>1994</b>—Pub. L. 103–429 substituted “Civil” for “Criminal” in section catchline.
 
 #### Effective Date of 1994 Amendment
 

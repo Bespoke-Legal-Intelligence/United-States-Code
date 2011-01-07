@@ -50,7 +50,7 @@ If, on the partnership return of any partnership, such partnership is treated as
 
 #### Amendments
 
-1999—Subsec. (c). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
+<b>1999</b>—Subsec. (c). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
 
 #### Effective Date of 1999 Amendment
 

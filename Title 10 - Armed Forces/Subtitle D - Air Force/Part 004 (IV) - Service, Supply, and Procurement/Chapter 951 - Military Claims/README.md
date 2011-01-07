@@ -13,9 +13,9 @@
 
 #### Amendments
 
-1972—Pub. L. 92–417, §1(7), Aug. 29, 1972, 86 Stat. 655, substituted “Admiralty claims against the United States” for “Damage by United States vessels; towage and salvage of United States vessels” in item 9802.
+<b>1972</b>—Pub. L. 92–417, §1(7), Aug. 29, 1972, 86 Stat. 655, substituted “Admiralty claims against the United States” for “Damage by United States vessels; towage and salvage of United States vessels” in item 9802.
 
-1960—Pub. L. 86–533, §1(7)(B), June 29, 1960, 74 Stat. 247, struck out item 9805 “Reports to Congress”.
+<b>1960</b>—Pub. L. 86–533, §1(7)(B), June 29, 1960, 74 Stat. 247, struck out item 9805 “Reports to Congress”.
 
 
 ---

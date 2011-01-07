@@ -32,13 +32,13 @@ For purposes of this section, the following definitions shall apply:
 
 #### Amendments
 
-1997—Subsec. (a)(1). Pub. L. 105–108, §3(1), inserted “or any successor standard to that standard” after “Association Standard 74”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–108, §3(1), inserted “or any successor standard to that standard” after “Association Standard 74”.
 
 Subsec. (a)(2). Pub. L. 105–108, §3(2), inserted “, or any successor standard to that standard” before “, whichever is appropriate,”.
 
 Subsec. (b)(2). Pub. L. 105–108, §3(3), inserted “, or any successor standard to that standard” after “Association Standard 13 or 13–R”.
 
-1992—Subsecs. (b) to (d). Pub. L. 102–522, §105(a), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+<b>1992</b>—Subsecs. (b) to (d). Pub. L. 102–522, §105(a), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
 Subsec. (d)(3). Pub. L. 102–522, §105(b), added par. (3).
 

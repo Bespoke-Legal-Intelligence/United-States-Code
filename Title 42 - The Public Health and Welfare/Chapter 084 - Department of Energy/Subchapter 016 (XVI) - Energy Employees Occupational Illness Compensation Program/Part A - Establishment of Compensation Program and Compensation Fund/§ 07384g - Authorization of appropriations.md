@@ -14,3 +14,5 @@ There is hereby authorized to be appropriated $250,000,000 to the Energy Employe
 
 Section 3103(a), referred to in subsec. (a), means section 1 \[div. C, title XXXVI, §3103(a)\] of Pub. L. 106–398, Oct. 30, 2000, 114 Stat. 1654, 1654A–449, which is not classified to the Code.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

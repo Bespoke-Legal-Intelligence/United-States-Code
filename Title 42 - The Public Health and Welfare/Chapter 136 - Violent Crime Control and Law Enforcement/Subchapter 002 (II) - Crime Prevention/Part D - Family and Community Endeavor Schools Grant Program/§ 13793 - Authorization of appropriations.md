@@ -30,3 +30,5 @@ Of the amounts appropriated under subsection (a) of this section for any fiscal 
 
 Section 13792 of this title, referred to in subsec. (b)(2), was repealed by Pub. L. 105–277, div. A, §101(f) \[title VIII, §301(d)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–410.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

@@ -4,7 +4,7 @@
 
 (b) On request of the debtor at any time, if the case has not been converted under section 706, 1112, or 1208 of this title, the court shall dismiss a case under this chapter. Any waiver of the right to dismiss under this subsection is unenforceable.
 
-(c) Except as provided in subsection (e) <sup>1</sup> of this section, on request of a party in interest or the United States trustee and after notice and a hearing, the court may convert a case under this chapter to a case under chapter 7 of this title, or may dismiss a case under this chapter, whichever is in the best interests of creditors and the estate, for cause, including—
+(c) Except as provided in subsection (f) of this section, on request of a party in interest or the United States trustee and after notice and a hearing, the court may convert a case under this chapter to a case under chapter 7 of this title, or may dismiss a case under this chapter, whichever is in the best interests of creditors and the estate, for cause, including—
 
 &emsp;(1) unreasonable delay by the debtor that is prejudicial to creditors;
 
@@ -22,13 +22,13 @@
 
 &emsp;(8) termination of a confirmed plan by reason of the occurrence of a condition specified in the plan other than completion of payments under the plan;
 
-&emsp;(9) only on request of the United States trustee, failure of the debtor to file, within fifteen days, or such additional time as the court may allow, after the filing of the petition commencing such case, the information required by paragraph (1) of section 521;
+&emsp;(9) only on request of the United States trustee, failure of the debtor to file, within fifteen days, or such additional time as the court may allow, after the filing of the petition commencing such case, the information required by paragraph (1) of section 521(a);
 
-&emsp;(10) only on request of the United States trustee, failure to timely file the information required by paragraph (2) of section 521; or
+&emsp;(10) only on request of the United States trustee, failure to timely file the information required by paragraph (2) of section 521(a); or
 
 &emsp;(11) failure of the debtor to pay any domestic support obligation that first becomes payable after the date of the filing of the petition.
 
-(d) Except as provided in subsection (e) of this section, at any time before the confirmation of a plan under section 1325 of this title, on request of a party in interest or the United States trustee and after notice and a hearing, the court may convert a case under this chapter to a case under chapter 11 or 12 of this title.
+(d) Except as provided in subsection (f) of this section, at any time before the confirmation of a plan under section 1325 of this title, on request of a party in interest or the United States trustee and after notice and a hearing, the court may convert a case under this chapter to a case under chapter 11 or 12 of this title.
 
 (e) Upon the failure of the debtor to file a tax return under section 1308, on request of a party in interest or the United States trustee and after notice and a hearing, the court shall dismiss a case or convert a case under this chapter to a case under chapter 7 of this title, whichever is in the best interest of the creditors and the estate.
 
@@ -36,7 +36,7 @@
 
 (g) Notwithstanding any other provision of this section, a case may not be converted to a case under another chapter of this title unless the debtor may be a debtor under such chapter.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2647; Pub. L. 98–353, title III, §§315, 527, July 10, 1984, 98 Stat. 356, 389; Pub. L. 99–554, title II, §§229, 257(v), Oct. 27, 1986, 100 Stat. 3103, 3116; Pub. L. 109–8, title II, §213(7), title VII, §716(c), Apr. 20, 2005, 119 Stat. 53, 130.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2647; Pub. L. 98–353, title III, §§315, 527, July 10, 1984, 98 Stat. 356, 389; Pub. L. 99–554, title II, §§229, 257(v), Oct. 27, 1986, 100 Stat. 3103, 3116; Pub. L. 109–8, title II, §213(7), title VII, §716(c), Apr. 20, 2005, 119 Stat. 53, 130; Pub. L. 111–327, §2(a)(41), Dec. 22, 2010, 124 Stat. 3562.)
 
 #### Historical and Revision Notes
 
@@ -52,11 +52,13 @@ Subsections (a) and (b) confirm, without qualification, the rights of a chapter 
 
 Subsection (f) reinforces section 109 by prohibiting conversion to a chapter under which the debtor is not eligible to proceed.
 
-#### References in Text
-
-Subsection (e) of this section, referred to in subsec. (c), was redesignated as subsec. (f) of this section, and a new subsec. (e) was added, by Pub. L. 109–8, title VII, §716(c), Apr. 20, 2005, 119 Stat. 130.
-
 #### Amendments
+
+2010—Subsec. (c). Pub. L. 111–327, §2(a)(41)(A)(i), substituted “subsection (f)” for “subsection (e)” in introductory provisions.
+
+Subsec. (c)(9), (10). Pub. L. 111–327, §2(a)(41)(A)(ii), (iii), substituted “521(a)” for “521”.
+
+Subsec. (d). Pub. L. 111–327, §2(a)(41)(B), substituted “subsection (f)” for “subsection (e)”.
 
 2005—Subsec. (c)(11). Pub. L. 109–8, §213(7), added par. (11).
 
@@ -99,6 +101,4 @@ Amendment by section 257 of Pub. L. 99–554 effective 30 days after Oct. 27, 19
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

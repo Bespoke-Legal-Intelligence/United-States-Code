@@ -28,7 +28,7 @@ The Commission shall also have the power—
 
 > &emsp;for the purpose of enforcing the laws subject to its jurisdiction;
 
-&emsp;(8) to lease buildings or parts of buildings in the District of Columbia, without regard to section 8141 of title 40, for the use of the Commission; and
+&emsp;(8) to lease buildings or parts of buildings in the District of Columbia, without regard tosection 8141 of title 40, for the use of the Commission; and
 
 &emsp;(9) to delegate any of its functions or powers, other than the power to issue subpenas under paragraph (3), to any officer or employee of the Commission.
 
@@ -132,11 +132,11 @@ In subsec. (b)(6), “section 1342 of title 31” substituted for “section 367
 
 #### Amendments
 
-2008—Subsec. (j). Pub. L. 110–314, §209(a)(1), substituted “Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note), the Commission” for “The Commission” in introductory provisions.
+<b>2008</b>—Subsec. (j). Pub. L. 110–314, §209(a)(1), substituted “Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note), the Commission” for “The Commission” in introductory provisions.
 
 Subsec. (j)(5) to (13). Pub. L. 110–314, §209(a)(2), added pars. (5) and (6) and redesignated former pars. (5) to (11) as (7) to (13), respectively.
 
-1981—Subsec. (b). Pub. L. 97–35, §1208, substituted in par. (1) “may prescribe to carry out a specific regulatory or enforcement function of the Commission” for “may prescribe” and in provision following par. (9) inserted requirement that an order issued under par. (1) shall contain a complete statement of the reason the Commission requires the report or answers specified in the order to carry out a specific regulatory or enforcement function of the commission, and that such an order shall be designed to place the least burden on the person subject to the order as is practicable, taking into account the purposes for which the order was issued.
+<b>1981</b>—Subsec. (b). Pub. L. 97–35, §1208, substituted in par. (1) “may prescribe to carry out a specific regulatory or enforcement function of the Commission” for “may prescribe” and in provision following par. (9) inserted requirement that an order issued under par. (1) shall contain a complete statement of the reason the Commission requires the report or answers specified in the order to carry out a specific regulatory or enforcement function of the commission, and that such an order shall be designed to place the least burden on the person subject to the order as is practicable, taking into account the purposes for which the order was issued.
 
 Subsec. (j)(10), (11). Pub. L. 97–35, §1209(c), added par. (10) and redesignated former par. (10) as (11).
 
@@ -144,9 +144,9 @@ Subsec. (<i>l</i>). Pub. L. 97–35, §1207(b), struck out subsec. (<i>l</i>) wh
 
 Subsec. (m). Pub. L. 97–35, §1211(d), struck out subsec. (m) which defined “rule”, provided for a study of all the rules in effect on Nov. 10, 1978, and required a report be made to Congress recommending deletion of particular rules or parts of particular rules and initiation of particular rulemaking proceedings.
 
-1978—Subsec. (m). Pub. L. 95–631 added subsec. (m).
+<b>1978</b>—Subsec. (m). Pub. L. 95–631 added subsec. (m).
 
-1976—Subsec. (b)(7). Pub. L. 94–284, §11(c), permitted the Commission to initiate, defend, prosecute, or appeal any civil action through its own legal representative provided that the Commission make a written request to the Attorney General for such representation and the Attorney General fail within a 45 day period to notify the Commission in writing that the Attorney General will represent the Commission, and with regard to criminal action, permitted the Commission to initiate, prosecute, or appeal with its own legal representative, with the concurrence of the Attorney General, or through the Attorney General.
+<b>1976</b>—Subsec. (b)(7). Pub. L. 94–284, §11(c), permitted the Commission to initiate, defend, prosecute, or appeal any civil action through its own legal representative provided that the Commission make a written request to the Attorney General for such representation and the Attorney General fail within a 45 day period to notify the Commission in writing that the Attorney General will represent the Commission, and with regard to criminal action, permitted the Commission to initiate, prosecute, or appeal with its own legal representative, with the concurrence of the Attorney General, or through the Attorney General.
 
 Subsec. (b)(8), (9). Pub. L. 94–284, §8(b), added par. (8) and redesignated former par. (8) as par (9).
 

@@ -48,7 +48,7 @@ In this section, the term “policy” means a policy, plan of insurance, provis
 
 #### (ii) Timing
 
-&emsp;&emsp;&emsp;The time frames described in subparagraphs (C) and (D) of section 1508(h)(4) ofthis title shall apply to the review of concept proposals under this subparagraph.
+&emsp;&emsp;&emsp;The time frames described in subparagraphs (C) and (D) of section 1508(h)(4) of this title shall apply to the review of concept proposals under this subparagraph.
 
 #### (E) Approval
 
@@ -222,7 +222,7 @@ In this section, the term “policy” means a policy, plan of insurance, provis
 
 #### (A) Contracts required
 
-&emsp;&emsp;Not later than 180 days after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Corporation shallenter into 1 or more contracts for the development of improvements in Federal crop insurance policies covering crops produced in compliance with standards issued by the Department of Agriculture under the national organic program established under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et seq.).
+&emsp;&emsp;Not later than 180 days after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Corporation shall enter into 1 or more contracts for the development of improvements in Federal crop insurance policies covering crops produced in compliance with standards issued by the Department of Agriculture under the national organic program established under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et seq.).
 
 #### (B) Review of underwriting risk and loss experience
 

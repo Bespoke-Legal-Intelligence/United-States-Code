@@ -128,7 +128,7 @@ The Commission may by rule require the use and prescribe the form and content of
 
 #### (1) In general
 
-&emsp;The Commission may withdraw its accreditation or its acceptance of the accreditation ofa third party conformity assessment body accredited under this section if the Commission finds, after notice and investigation, that—
+&emsp;The Commission may withdraw its accreditation or its acceptance of the accreditation of a third party conformity assessment body accredited under this section if the Commission finds, after notice and investigation, that—
 
 &emsp;&emsp;(A) a manufacturer, private labeler, or governmental entity has exerted undue influence on such conformity assessment body or otherwise interfered with or compromised the integrity of the testing process with respect to the certification of a children's product under this section; or
 
@@ -162,7 +162,7 @@ In this section:
 
 #### (1) Children's product safety rule
 
-&emsp;The term “children's product safety rule” means a consumer product safety rule under this chapter or similar rule, regulation, standard, or ban under any other Act enforced by the Commission, including a rule declaring a consumer product to be a banned hazardous product or substance.
+&emsp;The term “children's product safety rule” means a consumer product safety rule underthis chapter or similar rule, regulation, standard, or ban under any other Act enforced by the Commission, including a rule declaring a consumer product to be a banned hazardous product or substance.
 
 #### (2) Third party conformity assessment body
 
@@ -206,7 +206,7 @@ In this section:
 
 #### (1) Identification of issuer and conformity assessment body
 
-&emsp;Every certificate required under this section shall identify the manufacturer or private labeler issuing the certificate and any thirdparty conformity assessment body on whose testing the certificate depends. The certificate shall include, at a minimum, the date and place of manufacture, the date and place where the product was tested, each party's name, full mailing address, telephone number, and contact information for the individual responsible for maintaining records of test results.
+&emsp;Every certificate required under this section shall identify the manufacturer or private labeler issuing the certificate and any third party conformity assessment body on whose testing the certificate depends. The certificate shall include, at a minimum, the date and place of manufacture, the date and place where the product was tested, each party's name, full mailing address, telephone number, and contact information for the individual responsible for maintaining records of test results.
 
 #### (2) English language
 
@@ -236,7 +236,7 @@ The Federal Hazardous Substances Act, referred to in subsec. (f)(2)(C), is Pub. 
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–314, §102(a)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Every manufacturer of a product which is subject to a consumer product safety standard under this chapter and which is distributed in commerce (and the private labeler of such product if it bears a private label) shall issue a certificate which shall certify that such product conforms to all applicable consumer product safety standards, and shall specify any standard which is applicable. Such certificate shall accompany the product or shall otherwise be furnished to any distributor or retailer to whom the product is delivered. Any certificate under this subsection shall be based on a test of each product or upon a reasonable testing program; shall state the name of the manufacturer or private labeler issuing the certificate; and shall include the date and place of manufacture.”
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–314, §102(a)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Every manufacturer of a product which is subject to a consumer product safety standard under this chapter and which is distributed in commerce (and the private labeler of such product if it bears a private label) shall issue a certificate which shall certify that such product conforms to all applicable consumer product safety standards, and shall specify any standard which is applicable. Such certificate shall accompany the product or shall otherwise be furnished to any distributor or retailer to whom the product is delivered. Any certificate under this subsection shall be based on a test of each product or upon a reasonable testing program; shall state the name of the manufacturer or private labeler issuing the certificate; and shall include the date and place of manufacture.”
 
 Subsec. (a)(2), (3). Pub. L. 110–314, §102(a)(2), which directed amendment of par. (2) of this section by adding pars. (2) and (3), was executed by adding pars. (2) and (3) to subsec. (a) of this section, to reflect the probable intent of Congress. Former par. (2) redesignated (4).
 

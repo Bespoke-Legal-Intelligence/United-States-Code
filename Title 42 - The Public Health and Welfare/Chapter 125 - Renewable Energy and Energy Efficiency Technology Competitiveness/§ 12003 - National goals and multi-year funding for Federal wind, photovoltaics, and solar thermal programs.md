@@ -80,7 +80,7 @@ Whenever the Secretary determines that any of the goals established under this s
 
 #### (c) Authorizations
 
-There are authorized to be appropriated to the Secretary for the following renewable energy research, development, and demonstration programs: the Wind Energy Research Program, the Photovoltaic Energy Systems Program, theSolar Thermal Energy Systems Program, the Biofuels Energy Systems Program, the Hydrogen Energy Systems Program, the Solar Buildings Energy Systems Program, the Ocean Energy Systems Program, and the Geothermal Energy Systems Program—
+There are authorized to be appropriated to the Secretary for the following renewable energy research, development, and demonstration programs: the Wind Energy Research Program, the Photovoltaic Energy Systems Program, the Solar Thermal Energy Systems Program, the Biofuels Energy Systems Program, the Hydrogen Energy Systems Program, the Solar Buildings Energy Systems Program, the Ocean Energy Systems Program, and the Geothermal Energy Systems Program—
 
 &emsp;(1) not to exceed $113,000,000 for fiscal year 1991, of which—
 
@@ -104,7 +104,7 @@ There are authorized to be appropriated to the Secretary for the following renew
 
 #### Amendments
 
-1992—Subsec. (a)(4), (5). Pub. L. 102–486, §1202(b)(1), added par. (4), redesignated former par. (4) as (5), and inserted “Biodiesel Energy Systems,” after “Biofuels Energy Systems,”.
+<b>1992</b>—Subsec. (a)(4), (5). Pub. L. 102–486, §1202(b)(1), added par. (4), redesignated former par. (4) as (5), and inserted “Biodiesel Energy Systems,” after “Biofuels Energy Systems,”.
 
 Subsec. (c)(3). Pub. L. 102–486, §2125(1)–(3), struck out par. (3) which read as follows: “not to exceed $124,000,000 for fiscal year 1993, of which—
 

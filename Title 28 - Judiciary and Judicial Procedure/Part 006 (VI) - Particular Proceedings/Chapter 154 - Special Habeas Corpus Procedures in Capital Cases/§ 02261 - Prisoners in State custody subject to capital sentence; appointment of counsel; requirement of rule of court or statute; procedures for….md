@@ -26,7 +26,7 @@ Counsel.—This chapter is applicable if—
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–177, §507(a), added subsec. (b) and struck out former subsec. (b) which read as follows: “This chapter is applicable if a State establishes by statute, rule of its court of last resort, or by another agency authorized by State law, a mechanism for the appointment, compensation, and payment of reasonable litigation expenses of competent counsel in State post-conviction proceedings brought by indigent prisoners whose capital convictions and sentences have been upheld on direct appeal to the court of last resort in the State or have otherwise become final for State law purposes. The rule of court or statute must provide standards of competency for the appointment of such counsel.”
+<b>2006</b>—Subsec. (b). Pub. L. 109–177, §507(a), added subsec. (b) and struck out former subsec. (b) which read as follows: “This chapter is applicable if a State establishes by statute, rule of its court of last resort, or by another agency authorized by State law, a mechanism for the appointment, compensation, and payment of reasonable litigation expenses of competent counsel in State post-conviction proceedings brought by indigent prisoners whose capital convictions and sentences have been upheld on direct appeal to the court of last resort in the State or have otherwise become final for State law purposes. The rule of court or statute must provide standards of competency for the appointment of such counsel.”
 
 Subsec. (d). Pub. L. 109–177, §507(b), struck out “or on direct appeal” after “at trial”.
 

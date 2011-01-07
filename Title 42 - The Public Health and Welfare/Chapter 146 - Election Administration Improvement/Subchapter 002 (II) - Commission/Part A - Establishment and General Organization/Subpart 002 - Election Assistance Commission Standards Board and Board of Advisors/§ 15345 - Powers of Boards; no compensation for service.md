@@ -18,7 +18,7 @@
 
 #### (b) Information from Federal agencies
 
-The Standards Board and the Board of Advisors may each secure directly from any Federal department or agency such information as the Board considers necessary to carry out this chapter. Upon request of the Executive Board\(in the case of the Standards Board) or the Chair (in the case of the Board of Advisors), the head of such department or agency shall furnish such information to the Board.
+The Standards Board and the Board of Advisors may each secure directly from any Federal department or agency such information as the Board considers necessary to carry out this chapter. Upon request of the Executive Board (in the case of the Standards Board) or the Chair (in the case of the Board of Advisors), the head of such department or agency shall furnish such information to the Board.
 
 #### (c) Postal services
 
@@ -26,7 +26,7 @@ The Standards Board and the Board of Advisors may use the United States mails in
 
 #### (d) Administrative support services
 
-Upon the request of the Executive Board (in the case of the Standards Board) or the Chair (in the case of the Board of Advisors), the Administrator of the General Services Administration shall provide to the Board, on a reimbursable basis, the administrative support services that are necessary to enable the Board to carry out its duties under this subchapter.
+Upon the request of the Executive Board (in the case of the Standards Board) or the Chair (inthe case of the Board of Advisors), the Administrator of the General Services Administration shall provide to the Board, on a reimbursable basis, the administrative support services that are necessary to enable the Board to carry out its duties under this subchapter.
 
 #### (e) No compensation for service
 

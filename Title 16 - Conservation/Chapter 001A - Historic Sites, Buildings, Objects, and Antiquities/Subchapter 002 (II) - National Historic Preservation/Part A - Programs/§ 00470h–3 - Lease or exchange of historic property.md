@@ -16,7 +16,7 @@ The head of any Federal agency having responsibility for the management of any h
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–575 substituted “after consultation with the Council, shall, to the extent practicable, establish and implement alternatives for historic properties, including adaptive use, that are not needed for current or projected agency purposes, and may” for “may, after consultation with the Advisory Council on Historic Preservation,”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–575 substituted “after consultation with the Council, shall, to the extent practicable, establish and implement alternatives for historic properties, including adaptive use, that are not needed for current or projected agency purposes, and may” for “may, after consultation with the Advisory Council on Historic Preservation,”.
 
 #### Historic Lease Process Simplification
 

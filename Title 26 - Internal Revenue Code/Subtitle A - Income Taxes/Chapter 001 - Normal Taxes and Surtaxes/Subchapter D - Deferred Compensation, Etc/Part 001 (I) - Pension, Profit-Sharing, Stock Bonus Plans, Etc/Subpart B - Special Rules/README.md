@@ -20,13 +20,11 @@ Subpart B—Special Rules
 
 #### Amendments
 
-1984—Pub. L. 98–397, title II, §203(c), Aug. 23, 1984, 98 Stat. 1445, added item 417.
+<b>1984</b>—Pub. L. 98–397, title II, §203(c), Aug. 23, 1984, 98 Stat. 1445, added item 417.
 
-1982—Pub. L. 97–248, title II, §240(d), Sept. 3, 1982, 96 Stat. 520, added item 416.
+<b>1982</b>—Pub. L. 97–248, title II, §240(d), Sept. 3, 1982, 96 Stat. 520, added item 416.
 
-1974—Pub. L. 93–406, title II, §1011, Sept. 2, 1974, 88 Stat. 898, added subpart heading and analysis of sections.
-
-<i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
+<b>1974</b>—Pub. L. 93–406, title II, §1011, Sept. 2, 1974, 88 Stat. 898, added subpart heading and analysis of sections.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

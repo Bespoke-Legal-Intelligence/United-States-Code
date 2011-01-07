@@ -14,5 +14,5 @@ Whenever a witness refuses, on the basis of his privilege against self-incrimina
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “under this title” for “under this part” in concluding provisions.
+<b>1994</b>—Pub. L. 103–322 substituted “under this title” for “under this part” in concluding provisions.
 

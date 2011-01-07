@@ -8,7 +8,7 @@ Notwithstanding any other provision of law, a Federal or State agency or private
 
 Data or information may be conveyed pursuant to subsection (a) only if the following requirements are met:
 
-&emsp;(1) The individual whose circumstances are described in the data or information (or such individual's parent, guardian, caretaker relative, or authorized representative) has either provided advance consent to disclosure or has not objected to disclosure after receiving advance notice of disclosure and a reasonable opportunity to object.
+&emsp;(1) The individual whose circumstances are described in the data or information (or such individual's parent, guardian, caretaker relative, or authorized representative) has eitherprovided advance consent to disclosure or has not objected to disclosure after receiving advance notice of disclosure and a reasonable opportunity to object.
 
 &emsp;(2) Such data or information are used solely for the purposes of—
 
@@ -40,11 +40,13 @@ The limitations and requirements that apply to disclosure pursuant to this secti
 
 #### Authorization for States Electing Express Lane Option To Receive Certain Data Directly Relevant to Determining Eligibility and Correct Amount of Assistance
 
-Pub. L. 111–3, title II, §203(e), Feb. 4, 2009, 123 Stat. 49, provided that: “The Secretary shall enter into suchagreements as are necessary to permit a State that elects the Express Lane option under section 1902(e)(13) of the Social Security Act \[42 U.S.C. 1396a(e)(13)\] to receive data directly relevant to eligibility determinations and determining the correct amount of benefits under a State child health plan under CHIP or a State plan under Medicaid from the following:
+Pub. L. 111–3, title II, §203(e), Feb. 4, 2009, 123 Stat. 49, provided that: “The Secretary shall enter into such agreements as are necessary to permit a State that elects the Express Lane option under section 1902(e)(13) of the Social Security Act \[42 U.S.C. 1396a(e)(13)\] to receive data directly relevant to eligibility determinations and determining the correct amount of benefits under a State child health plan under CHIP or a State plan under Medicaid from the following:
 
 &emsp;“(1) The National Directory of New Hires established under section 453(i) of the Social Security Act (42 U.S.C. 653(i)).
 
 &emsp;“(2) Data regarding enrollment in insurance that may help to facilitate outreach and enrollment under the State Medicaid plan, the State CHIP plan, and such other programs as the Secretary may specify.”
 
 \[For definitions of “CHIP”, “Medicaid”, and “Secretary”, see section 1(c) of Pub. L. 111–3, set out as a Definitions note under section 1396 of this title.\]
+
+<i><sup>1</sup></i><i> So in original.</i>
 

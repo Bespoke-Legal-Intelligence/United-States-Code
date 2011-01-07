@@ -12,7 +12,7 @@ The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (a)
 
 #### Amendments
 
-2002—Pub. L. 107–135, §208(f)(2), substituted “Limitations” for “Restriction on use of funds for assisted suicide, euthanasia, or mercy killing” as section catchline.
+<b>2002</b>—Pub. L. 107–135, §208(f)(2), substituted “Limitations” for “Restriction on use of funds for assisted suicide, euthanasia, or mercy killing” as section catchline.
 
 Pub. L. 107–135, §208(a)(2), designated existing provisions as subsec. (a) and added subsec. (b).
 

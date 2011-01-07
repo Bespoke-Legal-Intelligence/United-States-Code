@@ -38,7 +38,7 @@
 
 (D) Records from exempted operational files which have been disseminated to and referenced in files that are not exempted under paragraph (1) and which have been returned to exempted operational files for sole retention shall be subject to search and review.
 
-(5) The provisions of paragraph (1) may not be superseded except by a provision of law which isenacted after November 27, 2002, and which specifically cites and repeals or modifies its provisions.
+(5) The provisions of paragraph (1) may not be superseded except by a provision of law which is enacted after November 27, 2002, and which specifically cites and repeals or modifies its provisions.
 
 (6)(A) Except as provided in subparagraph (B), whenever any person who has requested agency records under section 552 of title 5 alleges that NRO has withheld records improperly because of failure to comply with any provision of this section, judicial review shall be available under the terms set forth in section 552(a)(4)(B) of title 5.
 
@@ -86,9 +86,9 @@ Section was formerly classified to section 403–5e of this title prior to renum
 
 #### Amendments
 
-2006—Subsec. (a)(3)(C)(vii). Pub. L. 109–163 added cl. (vii).
+<b>2006</b>—Subsec. (a)(3)(C)(vii). Pub. L. 109–163 added cl. (vii).
 
-2004—Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(GG), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(GG), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 Subsec. (a)(6)(B)(iv)(I). Pub. L. 108–375 substituted “responsive records” for “responsible records”.
 
@@ -96,7 +96,7 @@ Subsec. (a)(6)(B)(viii). Pub. L. 108–458, §1071(a)(1)(HH), substituted “Dir
 
 Subsec. (b)(1). Pub. L. 108–458, §1071(a)(1)(II), substituted “Director of National Intelligence” for “Director of Central Intelligence” in two places.
 
-2003—Pub. L. 108–136 substituted “Operational files of the National Reconnaissance Office” for “Protection of operational files of the National Reconnaissance Office” in section catchline.
+<b>2003</b>—Pub. L. 108–136 substituted “Operational files of the National Reconnaissance Office” for “Protection of operational files of the National Reconnaissance Office” in section catchline.
 
 #### Effective Date of 2004 Amendment
 

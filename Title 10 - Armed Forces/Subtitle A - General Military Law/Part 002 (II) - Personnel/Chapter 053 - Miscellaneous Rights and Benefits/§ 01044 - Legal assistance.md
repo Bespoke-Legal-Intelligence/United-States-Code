@@ -36,19 +36,19 @@
 
 #### Amendments
 
-2009—Subsec. (a)(4). Pub. L. 111–84 substituted “the Secretary), for a period of time (prescribed by the Secretary)” for “the Secretary of Defense), for a period of time, prescribed by the Secretary of Defense,”.
+<b>2009</b>—Subsec. (a)(4). Pub. L. 111–84 substituted “the Secretary), for a period of time (prescribed by the Secretary)” for “the Secretary of Defense), for a period of time, prescribed by the Secretary of Defense,”.
 
-2008—Subsec. (a)(6), (7). Pub. L. 110–181 added pars. (6) and (7).
+<b>2008</b>—Subsec. (a)(6), (7). Pub. L. 110–181 added pars. (6) and (7).
 
-2006—Subsecs. (d), (e). Pub. L. 109–163 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>2006</b>—Subsecs. (d), (e). Pub. L. 109–163 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-2000—Subsec. (a)(4). Pub. L. 106–398, §1 \[\[div. A\], title V, §524(a)(2)\], added par. (4). Former par. (4) redesignated (5).
+<b>2000</b>—Subsec. (a)(4). Pub. L. 106–398, §1 \[\[div. A\], title V, §524(a)(2)\], added par. (4). Former par. (4) redesignated (5).
 
 Subsec. (a)(5). Pub. L. 106–398, §1 \[\[div. A\], title V, §524(b)\], substituted “(3), and (4)” for “and (3)”.
 
 Pub. L. 106–398, §1 \[\[div. A\], title V, §524(a)(1)\], redesignated par. (4) as (5).
 
-1996—Subsec. (a). Pub. L. 104–201, §583(d)(1), substituted “to the following persons:” for “to—” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, §583(d)(1), substituted “to the following persons:” for “to—” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 104–201, §583(c), (d)(2), (3), substituted “Members” for “members”, struck out “under his jurisdiction” after “armed forces”, and substituted a period for the semicolon at end.
 

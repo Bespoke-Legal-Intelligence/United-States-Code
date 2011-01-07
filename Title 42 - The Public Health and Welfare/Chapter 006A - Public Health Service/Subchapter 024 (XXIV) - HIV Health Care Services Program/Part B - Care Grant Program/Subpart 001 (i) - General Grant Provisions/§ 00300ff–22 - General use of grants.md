@@ -14,7 +14,7 @@ A State may use amounts provided under grants made under section 300ff–21 of t
 
 #### (1) In general
 
-&emsp;With respect to a grant under section 300ff–21 of this title for a State for a grantyear, the State shall, of the portion of the grant remaining after reserving amounts for purposes of subparagraphs (A) and (E)(ii)(I) of section 300ff–28(b)(3) of this title, use not less than 75 percent to provide core medical services that are needed in the State for individuals with HIV/AIDS who are identified and eligible under this subchapter (including services regarding the co-occurring conditions of the individuals).
+&emsp;With respect to a grant under section 300ff–21 of this title for a State for a grant year, the State shall, of the portion of the grant remaining after reserving amounts for purposes of subparagraphs (A) and (E)(ii)(I) of section 300ff–28(b)(3) of this title, use not less than 75 percent to provide core medical services that are needed in the State for individuals with HIV/AIDS who are identified and eligible under this subchapter (including services regarding the co-occurring conditions of the individuals).
 
 #### (2) Waiver
 
@@ -78,7 +78,7 @@ A State may use amounts provided under grants made under section 300ff–21 of t
 
 #### (2) Conditions
 
-&emsp;With respect to an entity that proposes to provide early intervention services under paragraph (1), such paragraph shall apply only if the entity demonstrates to the satisfaction of the chief elected official for the State involved that—
+&emsp;With respect to an entity that proposes to provide early intervention services underparagraph (1), such paragraph shall apply only if the entity demonstrates to the satisfaction of the chief elected official for the State involved that—
 
 &emsp;&emsp;(A) Federal, State, or local funds are otherwise inadequate for the early intervention services the entity proposes to provide; and
 
@@ -92,7 +92,7 @@ A State may use amounts provided under grants made under section 300ff–21 of t
 
 #### (2) Waiver
 
-&emsp;With respect to the population involved, the Secretary may provide to a State a waiver of the requirement of paragraph (1) if such State demonstrates to the satisfaction of the Secretary that the population is receiving HIV-related health services through the State medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], the Statechildren's health insurance program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], or other Federal or State programs.
+&emsp;With respect to the population involved, the Secretary may provide to a State a waiver of the requirement of paragraph (1) if such State demonstrates to the satisfaction of the Secretary that the population is receiving HIV-related health services through the State medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], the State children's health insurance program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], or other Federal or State programs.
 
 #### (f) Construction
 
@@ -114,19 +114,19 @@ A prior section 2612 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009; Revival of Section note below.
 
-2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+<b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 Pub. L. 109–415, §201(a), reenacted section catchline without change and amended text generally, substituting provisions relating to general use of grants, required funding for core medical services, support and early intervention services, priority for women, infants, children, and youth, and prohibition against use of amounts for real property improvement or to make cash payments, for provisions relating to general use of grants, support services and outreach, early intervention services, and establishment of a quality management program in each State.
 
-2000—Pub. L. 106–345, §202(1), designated existing provisions as subsec. (a) and inserted heading.
+<b>2000</b>—Pub. L. 106–345, §202(1), designated existing provisions as subsec. (a) and inserted heading.
 
 Subsec. (a)(1). Pub. L. 106–345, §503(b), made technical amendment to directory language of Pub. L. 104–146, §3(c)(2)(A)(iii). See 1996 Amendment note below.
 
 Subsec. (b) to (d). Pub. L. 106–345, §202(2), added subsecs. (b) to (d).
 
-1996—Pub. L. 104–146, §3(c)(2)(A), as amended by Pub. L. 106–345, §503(b), struck out “(a) In general” before “A State may use amounts”, added par. (1), redesignated former pars. (1) to (4) as (2) to (5), respectively, substituted “therapeutics to treat HIV disease” for “treatments, that have been determined to prolong life or prevent serious deterioration of health,” in par. (5), and inserted after par. (5) “Services described in paragraph (1) shall be delivered through consortia designed as described in paragraph (2), where such consortia exist, unless the State demonstrates to the Secretary that delivery of such services would be more effective when other delivery mechanisms are used. In making a determination regarding the delivery of services, the State shall consult with appropriate representatives of service providers and recipients of services who would be affected by such determination, and shall include in its demonstration to the Secretary the findings of the State regarding such consultation.”
+<b>1996</b>—Pub. L. 104–146, §3(c)(2)(A), as amended by Pub. L. 106–345, §503(b), struck out “(a) In general” before “A State may use amounts”, added par. (1), redesignated former pars. (1) to (4) as (2) to (5), respectively, substituted “therapeutics to treat HIV disease” for “treatments, that have been determined to prolong life or prevent serious deterioration of health,” in par. (5), and inserted after par. (5) “Services described in paragraph (1) shall be delivered through consortia designed as described in paragraph (2), where such consortia exist, unless the State demonstrates to the Secretary that delivery of such services would be more effective when other delivery mechanisms are used. In making a determination regarding the delivery of services, the State shall consult with appropriate representatives of service providers and recipients of services who would be affected by such determination, and shall include in its demonstration to the Secretary the findings of the State regarding such consultation.”
 
 Subsec. (b). Pub. L. 104–146, §3(c)(2)(B), struck out heading and text of subsec. (b). Text read as follows: “A State shall use not less than 15 percent of funds allocated under this part to provide health and support services to infants, children, women, and families with HIV disease.”
 

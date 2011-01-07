@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Secretary, acting through the Service, shall provide health promotion and disease prevention services to Indians so as to achieve the health status objectives set forth in section 1602(b) of this title.
+The Secretary, acting through the Service, shall provide health promotion and disease prevention services to Indians so as to achieve the health status objectives set forth in section 1602(b) <sup>1</sup> of this title.
 
 #### (b) Evaluation statement for Presidential budget
 
@@ -18,9 +18,13 @@ The Secretary shall submit to the President for inclusion in each statement whic
 
 (Pub. L. 94–437, title II, §203, as added Pub. L. 100–713, title II, §203(c), Nov. 23, 1988, 102 Stat. 4805; amended Pub. L. 102–573, title II, §203, Oct. 29, 1992, 106 Stat. 4546.)
 
+#### References in Text
+
+Section 1602 of this title, referred to in subsec. (a), was amended generally by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains a subsec. (b).
+
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–573, §203(1), inserted before period at end “so as to achieve the health status objectives set forth in section 1602(b) of this title”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–573, §203(1), inserted before period at end “so as to achieve the health status objectives set forth in section 1602(b) of this title”.
 
 Subsec. (b). Pub. L. 102–573, §203(2), in introductory provisions, substituted “section 1671” for “section 1621(f)”.
 
@@ -33,4 +37,6 @@ Section 203(a) of Pub. L. 100–713 provided that: “The Congress finds that he
 &emsp;“(1) improve the health and well being of Indians, and
 
 &emsp;“(2) reduce the expenses for medical care of Indians.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -18,5 +18,5 @@ Provisions similar to those in this section were contained in sections 4108(d) a
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 

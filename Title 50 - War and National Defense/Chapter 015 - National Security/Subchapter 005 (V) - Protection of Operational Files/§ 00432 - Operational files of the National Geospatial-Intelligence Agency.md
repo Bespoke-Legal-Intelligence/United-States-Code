@@ -32,7 +32,7 @@
 
 (B) The inclusion of information from exempted operational files in files that are not exempted under paragraph (1) shall not affect the exemption under paragraph (1) of the originating operational files from search, review, publication, or disclosure.
 
-(C) Records from exempted operational files which have been disseminated to and referenced in files that are not exempted under paragraph\(1) and which have been returned to exempted operational files for sole retention shall be subject to search and review.
+(C) Records from exempted operational files which have been disseminated to and referenced in files that are not exempted under paragraph (1) and which have been returned to exempted operational files for sole retention shall be subject to search and review.
 
 (5) The provisions of paragraph (1) may not be superseded except by a provision of law which is enacted after December 3, 1999, and which specifically cites and repeals or modifies its provisions.
 
@@ -82,13 +82,13 @@ Section was formerly classified to section 403–5c of this title prior to renum
 
 #### Prior Provisions
 
-A prior section 432, act July 26, 1947, ch. 343, title VII, §702, as added Pub. L. 98–477, §2(a), Oct. 15, 1984, 98 Stat.2211; amended Pub. L. 108–136, div. A, title IX, §922(b)(2)(A), Nov. 24, 2003, 117 Stat. 1573, was transferred to section 431 of this title and redesignated as subsec. (g) by Pub. L. 108–136, div. A, title IX, §922(b)(2)(B), Nov. 24, 2003, 117 Stat. 1573.
+A prior section 432, act July 26, 1947, ch. 343, title VII, §702, as added Pub. L. 98–477, §2(a), Oct. 15, 1984, 98 Stat. 2211; amended Pub. L. 108–136, div. A, title IX, §922(b)(2)(A), Nov. 24, 2003, 117 Stat. 1573, was transferred to section 431 of this title and redesignated as subsec. (g) by Pub. L. 108–136, div. A, title IX, §922(b)(2)(B), Nov. 24, 2003, 117 Stat. 1573.
 
 #### Amendments
 
-2006—Subsec. (a)(3)(C)(vi). Pub. L. 109–163 added cl. (vi).
+<b>2006</b>—Subsec. (a)(3)(C)(vi). Pub. L. 109–163 added cl. (vi).
 
-2004—Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(DD), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(DD), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 Subsec. (a)(6)(B)(iv)(I). Pub. L. 108–375 substituted “responsive records” for “responsible records”.
 
@@ -96,7 +96,7 @@ Subsec. (a)(6)(B)(viii). Pub. L. 108–458, §1071(a)(1)(EE), substituted “Dir
 
 Subsec. (b)(1). Pub. L. 108–458, §1071(a)(1)(FF), substituted “Director of National Intelligence” for “Director of Central Intelligence” in two places.
 
-2003—Pub. L. 108–136, §922(d)(1)(C), amended section catchline generally, substituting “Operational files of the National Geospatial-Intelligence Agency” for “Protection of operational files of the National Imagery and Mapping Agency”.
+<b>2003</b>—Pub. L. 108–136, §922(d)(1)(C), amended section catchline generally, substituting “Operational files of the National Geospatial-Intelligence Agency” for “Protection of operational files of the National Imagery and Mapping Agency”.
 
 Subsec. (a)(1). Pub. L. 108–136, §921(e)(4)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in two places.
 
@@ -112,7 +112,7 @@ Subsec. (b)(1). Pub. L. 108–136, §921(e)(4)(A), substituted “National Geosp
 
 Subsec. (b)(3). Pub. L. 108–136, §921(e)(4)(B), substituted “NGA” for “NIMA” wherever appearing.
 
-2002—Subsec. (a)(3)(C). Pub. L. 107–306 added cl. (i), redesignated cls. (iii) to (vi) as (ii) to (v), respectively, and struck out former cls. (i) and (ii) which read as follows:
+<b>2002</b>—Subsec. (a)(3)(C). Pub. L. 107–306 added cl. (i), redesignated cls. (iii) to (vi) as (ii) to (v), respectively, and struck out former cls. (i) and (ii) which read as follows:
 
 “(i) The Permanent Select Committee on Intelligence of the House of Representatives.
 

@@ -68,7 +68,7 @@ Projects and activities under the programs established pursuant to subsection (a
 
 &emsp;The report required by paragraph (1) shall contain the following information with respect to each country described in paragraph (1):
 
-&emsp;&emsp;(A) A description of all United States Government-funded programs and initiatives tocombat corruption and improve transparency and accountability in the country.
+&emsp;&emsp;(A) A description of all United States Government-funded programs and initiatives to combat corruption and improve transparency and accountability in the country.
 
 &emsp;&emsp;(B) A description of United States diplomatic efforts to combat corruption and improve transparency and accountability in the country.
 
@@ -92,7 +92,7 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
-2002—Subsec. (d). Pub. L. 107–228, §672(a)(1), substituted “Biennial reports” for “Annual report” in heading.
+<b>2002</b>—Subsec. (d). Pub. L. 107–228, §672(a)(1), substituted “Biennial reports” for “Annual report” in heading.
 
 Subsec. (d)(1). Pub. L. 107–228, §672(a)(2), substituted “a biennial report” for “an annual report” in introductory provisions and “preceding two-year period” for “prior year” in subpars. (A) and (B).
 
@@ -140,7 +140,7 @@ Findings.—Congress finds the following:
 
 &emsp;“(12) The United States should attempt to improve accountability in foreign countries, including by—
 
-&emsp;&emsp;“(A) promoting transparency and accountability through support for independent media, promoting financial disclosure by public officials, political parties, and candidates for public office, open budgeting processes, adequate and effective internalcontrol systems, suitable financial management systems, and financial and compliance reporting;
+&emsp;&emsp;“(A) promoting transparency and accountability through support for independent media, promoting financial disclosure by public officials, political parties, and candidates for public office, open budgeting processes, adequate and effective internal control systems, suitable financial management systems, and financial and compliance reporting;
 
 &emsp;&emsp;“(B) supporting the establishment of audit offices, inspectors general offices, third party monitoring of government procurement processes, and anti-corruption agencies;
 

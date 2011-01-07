@@ -6,9 +6,9 @@ For the purpose of maintaining and operating the properties now owned by the Uni
 
 #### Amendments
 
-2004—Pub. L. 108–447 substituted “Board of Directors” for “board of directors” and “Board” for “board”.
+<b>2004</b>—Pub. L. 108–447 substituted “Board of Directors” for “board of directors” and “Board” for “board”.
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–447 effective on the later of the date on which at least three persons nominatedunder section 604(a) of Pub. L. 108–447 take office or May 18, 2005, see section 604(b) of Pub. L. 108–447, set out in an Appointments; Effective Date; Transition note under section 831a of this title.
+Amendment by Pub. L. 108–447 effective on the later of the date on which at least three persons nominated under section 604(a) of Pub. L. 108–447 take office or May 18, 2005, see section 604(b) of Pub. L. 108–447, set out in an Appointments; Effective Date; Transition note under section 831a of this title.
 

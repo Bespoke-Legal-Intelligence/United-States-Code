@@ -24,7 +24,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-151101D36:5301.DJune 30, 1906, ch. 3929, §§1, 10, 34 Stat. 804, 807.
+151101
+
+36:5301.
+
+June 30, 1906, ch. 3929, §§1, 10, 34 Stat. 804, 807.
 
 &nbsp;
 

@@ -2,7 +2,7 @@
 
 #### (a) Form; assurances; public hearings
 
-(1) Each State desiring to receive an allotment for any fiscal year under this subchapter shall submit an application to the Secretary. Each such application shall be in such form as the Secretary shall require. Each such application shall contain assurances by the chief executive officer of the State that the State will meet the conditions enumerated in subsection (b) of this section.
+(1) Each State desiring to receive an allotment for any fiscal year under this subchapter shall submit an application to the Secretary. Each such application shall be in such form as the Secretary shall require. Each such application shall contain assurances by the chief executive officer of the State that the State will meet theconditions enumerated in subsection (b) of this section.
 
 (2) After the expiration of the first fiscal year for which a State receives funds under this subchapter, no funds shall be allotted to such State for any fiscal year under this subchapter unless such State conducts public hearings with respect to the proposed use and distribution of funds to be provided under this subchapter for such fiscal year.
 
@@ -172,7 +172,7 @@ In verifying income eligibility for purposes of subsection (b)(2)(B) of this sec
 
 > may be used by the State for low-cost residential weatherization or other energy-related home repair for low-income households, particularly those low-income households with the lowest incomes that pay a high proportion of household income for home energy.
 
-(2)(A) If a State receives a waiver granted under subparagraph (B) for a fiscal year, theState may use not more than the greater of 25 percent of—
+(2)(A) If a State receives a waiver granted under subparagraph (B) for a fiscal year, the State may use not more than the greater of 25 percent of—
 
 &emsp;(i) the funds allotted to a State under this subchapter for such fiscal year; or
 
@@ -208,7 +208,7 @@ The Food and Nutrition Act of 2008, referred to in subsec. (b)(2)(A)(iii), is Pu
 
 Section 306 of the Veterans’ and Survivors’ Pension Improvement Act of 1978, referred to in subsec. (b)(2)(A)(iv), is section 306 of Pub. L. 95–588, title III, Nov. 4, 1978, 92 Stat. 2508, which is set out as a note under section 521 of Title 38, Veterans’ Benefits.
 
-Subtitle B of title VI, referred to in subsecs. (b)(3), (4), and (j), is subtitle B of title VI of Pub. L. 97–35, §671 et seq., Aug. 13, 1981, 95 Stat. 511, as amended, known as the Community Services Block Grant Act, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
+Subtitle B of title VI, referred to in subsecs. (b)(3), (4), and (j), is subtitle B of title VI of Pub. L. 97–35, §671 et seq., Aug. 13, 1981, 95 Stat. 511, as amended, known asthe Community Services Block Grant Act, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
 
 The Economic Opportunity Act of 1964, referred to in subsecs. (b)(3), (4), (6), and (j), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, which was classified generally to chapter 34 (§2701 et seq.) of this title prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§2991 et seq.) and X (§2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -224,13 +224,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b)(2)(A)(iii). Pub. L. 110–246, §4002(b)(1)(B), (E), (2)(EE), substituted “supplemental nutrition assistance program benefits” for “food stamps” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+<b>2008</b>—Subsec. (b)(2)(A)(iii). Pub. L. 110–246, §4002(b)(1)(B), (E), (2)(EE), substituted “supplemental nutrition assistance program benefits” for “food stamps” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
 Subsec. (f)(1). Pub. L. 110–246, §4002(b)(1)(E), (2)(EE), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
 
 Subsec. (f)(2). Pub. L. 110–246, §4002(b)(1)(B), (2)(EE), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” in introductory provisions.
 
-1998—Subsec. (b). Pub. L. 105–285, §306(1)(C), (D), struck out “The Secretary may not prescribe the manner in which the States will comply with the provisions of this subsection.” in provisions after par. (14) and inserted identical language before “The Secretary shall issue” in concluding provisions after par. (16).
+<b>1998</b>—Subsec. (b). Pub. L. 105–285, §306(1)(C), (D), struck out “The Secretary may not prescribe the manner in which the States will comply with the provisions of this subsection.” in provisions after par. (14) and inserted identical language before “The Secretary shall issue” in concluding provisions after par. (16).
 
 Subsec. (b)(9)(A). Pub. L. 105–285, §306(1)(A), struck out “and not transferred pursuant to section 8623(f) of this title for use under another block grant” before the semicolon.
 
@@ -242,11 +242,11 @@ Subsec. (c)(1)(G)(i). Pub. L. 105–285, §306(2)(B), substituted “had” for 
 
 Subsec. (k)(1), (2)(A). Pub. L. 105–285, §306(3), inserted before period at end “, particularly those low-income households with the lowest incomes that pay a high proportion of household income for home energy”.
 
-1996—Subsec. (b)(2)(A)(i). Pub. L. 104–193 amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “aid to families with dependent children under the State's plan approved under part A of title IV of the Social Security Act (other than such aid in the form of foster care in accordance with section 408 of such Act);”.
+<b>1996</b>—Subsec. (b)(2)(A)(i). Pub. L. 104–193 amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “aid to families with dependent children under the State's plan approved under part A of title IV of the Social Security Act (other than such aid in the form of foster care in accordance with section 408 of such Act);”.
 
-1995—Subsec. (h). Pub. L. 104–66 struck out “(but not less frequently than every three years),” after “from time to time”.
+<b>1995</b>—Subsec. (h). Pub. L. 104–66 struck out “(but not less frequently than every three years),” after “from time to time”.
 
-1994—Subsec. (b). Pub. L. 103–252, §311(c)(4), transferred the sentence immediately preceding par. (15) to appear as a flush sentence immediately after par. (16).
+<b>1994</b>—Subsec. (b). Pub. L. 103–252, §311(c)(4), transferred the sentence immediately preceding par. (15) to appear as a flush sentence immediately after par. (16).
 
 Pub. L. 103–252, §311(b), inserted at end “Not later than 18 months after May 18, 1994, the Secretary shall develop model performance goals and measurements in consultation with State, territorial, tribal, and local grantees, that the States may use to assess the success of the States in achieving the purposes of this subchapter. The model performance goals and measurements shall be made available to States to be incorporated, at the option of the States, into the plans for fiscal year 1997. The Secretary may request data relevant to the development of model performance goals and measurements.”
 
@@ -278,9 +278,9 @@ Subsec. (c)(1)(H). Pub. L. 103–252, §306(d)(1), redesignated subpar. (F) as (
 
 Subsec. (e). Pub. L. 103–252, §307(2), substituted “in accordance with chapter 75 of title 31” for “at least every two years by an organization or person independent of any agency administering activities under this subchapter. The audits shall be conducted in accordance with the Comptroller General's standards for audit of governmental organizations, programs, activities, and functions. Within 30 days after completion of each audit, the chief executive officer of the State shall submit a copy of the audit to the legislature of the State and to the Secretary”.
 
-1991—Subsec. (b)(2)(A)(iv). Pub. L. 102–83 substituted “section 1315, 1521, 1541, or 1542 of title 38” for “section 415, 521, 541, or 542 of title 38”.
+<b>1991</b>—Subsec. (b)(2)(A)(iv). Pub. L. 102–83 substituted “section 1315, 1521, 1541, or 1542 of title 38” for “section 415, 521, 541, or 542 of title 38”.
 
-1990—Subsec. (b)(12). Pub. L. 101–501, §704(a)(1), inserted “timely and meaningful” after “provide for”.
+<b>1990</b>—Subsec. (b)(12). Pub. L. 101–501, §704(a)(1), inserted “timely and meaningful” after “provide for”.
 
 Subsec. (b)(15). Pub. L. 101–501, §704(a)(2)–(4), added par. (15) at end.
 
@@ -288,7 +288,7 @@ Subsec. (c)(2). Pub. L. 101–501, §704(b), inserted “timely and meaningful�
 
 Subsec. (k). Pub. L. 101–501, §705, designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, substituted “Except as provided in paragraph (2), not” for “Not”, and added par. (2).
 
-1986—Subsec. (b)(5). Pub. L. 99–425, §504(a), substituted “in a timely manner” for “in a manner consistent with the efficient and timely payment of benefits”.
+<b>1986</b>—Subsec. (b)(5). Pub. L. 99–425, §504(a), substituted “in a timely manner” for “in a manner consistent with the efficient and timely payment of benefits”.
 
 Subsec. (b)(14) to (17). Pub. L. 99–425, §504(b), redesignated cl. (17) as (14), and struck out former cls. (14) to (16) which read as follows:
 
@@ -304,7 +304,7 @@ Subsec. (c)(3). Pub. L. 99–425, §504(d), added par. (3).
 
 Subsec. (f). Pub. L. 99–425, §504(e), designated existing provisions as par. (1), substituted “provided directly to, or indirectly for the benefit of” for “provided to”, and added par. (2).
 
-1984—Subsec. (b). Pub. L. 98–558, §605(a)(9), inserted at end “The Secretary shall issue regulations to prevent waste, fraud, and abuse in the programs assisted by this subchapter.”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–558, §605(a)(9), inserted at end “The Secretary shall issue regulations to prevent waste, fraud, and abuse in the programs assisted by this subchapter.”.
 
 Subsec. (b)(1). Pub. L. 98–558, §605(a)(1), substituted “section” for “subsection”.
 
@@ -358,7 +358,7 @@ Amendment by section 504(a)–(d) of Pub. L. 99–425 not applicable with respec
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–558 effective on first day of first fiscal year beginning after Oct. 30, 1984, see section 609(b) of Pub. L. 98–558, set out as a note under section 8621 of this title.
+Amendment by Pub. L. 98–558 effective on first day of first fiscal year beginning after Oct. 30, 1984, see section609(b) of Pub. L. 98–558, set out as a note under section 8621 of this title.
 
 #### Clarification on Utility Allowances
 
@@ -384,7 +384,7 @@ Applicability.—This section applies to programs under the United States Housin
 
 “(d)
 
-Special Rule for Low-Income Home Energy Assistance Program.—For purposes of the Low-Income Home Energy Assistance Program, tenants described in subsection (a)(2) who are responsible for paying some or all heating or cooling costs shall not have their eligibility automatically denied. A State may consider the amount of the heating or cooling component of utilityallowances received by tenants described in subsection (a)(2) when setting benefit levels under the Low-Income Home Energy Assistance Program. The size of any reduction in Low-Income Home Energy Assistance Program benefits must be reasonably related to the amount of the heating or cooling component of the utility allowance received and must ensure that the highest level of assistance will be furnished to those households with the lowest incomes and the highest energy costs in relation to income, taking into account family size, in compliance with section 2605(b)(5) of the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8624(b)(5)).”
+Special Rule for Low-Income Home Energy Assistance Program.—For purposes of the Low-Income Home Energy Assistance Program, tenants described in subsection (a)(2) who are responsible for paying some or all heating or cooling costs shall not have their eligibility automatically denied. A State may consider the amount of the heating or cooling component of utility allowances received by tenants described in subsection (a)(2) when setting benefit levels under the Low-Income Home Energy Assistance Program. The size of any reduction in Low-Income Home Energy Assistance Program benefits must be reasonably related to the amount of the heating or cooling component of the utility allowance received and must ensure that the highest level of assistance will be furnished to those households with the lowest incomes and the highest energy costs in relation to income, taking into account family size, in compliance with section 2605(b)(5) of the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8624(b)(5)).”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

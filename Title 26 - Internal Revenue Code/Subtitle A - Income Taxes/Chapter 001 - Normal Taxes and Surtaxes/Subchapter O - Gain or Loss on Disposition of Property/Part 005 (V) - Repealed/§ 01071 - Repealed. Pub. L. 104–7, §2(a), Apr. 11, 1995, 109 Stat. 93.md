@@ -28,7 +28,7 @@ Sales contingent on issuance of certificate.—
 
 &emsp;&emsp;“(i)
 
-In general.—A contract shall be treated as not binding for purposes of subparagraph (A) if the sale or exchange pursuant to such contract, or the material terms of such contract, were contingent, at any time on January 16, 1995, on the issuance of an FCC tax certificate. The preceding sentence shall not apply if the FCC tax certificate for such sale or exchange is issued on or before January 16, 1995.
+In general.—A contract shall be treated as not binding for purposes of subparagraph (A) if thesale or exchange pursuant to such contract, or the material terms of such contract, were contingent, at any time on January 16, 1995, on the issuance of an FCC tax certificate. The preceding sentence shall not apply if the FCC tax certificate for such sale or exchange is issued on or before January 16, 1995.
 
 &emsp;&emsp;“(ii)
 

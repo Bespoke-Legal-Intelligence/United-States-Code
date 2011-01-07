@@ -44,5 +44,5 @@ In subsection (c) the words “and in the Marine Corps” are added to execute t
 
 #### Amendments
 
-1959—Subsec. (d). Pub. L. 86–140 repealed subsec. (d) which required each chaplain to report annually to the Secretary of the Navy the official services performed by him.
+<b>1959</b>—Subsec. (d). Pub. L. 86–140 repealed subsec. (d) which required each chaplain to report annually to the Secretary of the Navy the official services performed by him.
 

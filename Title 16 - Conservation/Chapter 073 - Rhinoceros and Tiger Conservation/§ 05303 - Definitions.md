@@ -34,17 +34,17 @@ multinational species conservation fund” \[16 U.S.C. 4246\];
 
 #### References in Text
 
-Division A, section 101(e), title I of Public Law 105–277, referred to in par. (3), is Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–232. Provisions under the heading “
+Division A, section 101(e), title I of Public Law 105–277, referred to in par. (3), is Pub. L. 105–277, div. A,§101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–232. Provisions under the heading “
 
 multinational species conservation fund” in Pub. L. 105–277, §101(e) \[title I\] appear at 112 Stat. 2681–237, and are classified in part to section 4246 of this title.
 
 #### Amendments
 
-2002—Par. (3). Pub. L. 107–112 substituted “the account established by division A, section 101(e), title I of Public Law 105–277 under the heading ‘
+<b>2002</b>—Par. (3). Pub. L. 107–112 substituted “the account established by division A, section 101(e), title I of Public Law 105–277 under the heading ‘
 
 multinational species conservation fund’ ” for “Rhinoceros and Tiger Conservation Fund established under section 5305(a) of this title”.
 
-1998—Par. (6). Pub. L. 105–312 added par. (6).
+<b>1998</b>—Par. (6). Pub. L. 105–312 added par. (6).
 
 <i><sup>1</sup></i><i> So in original.</i>
 

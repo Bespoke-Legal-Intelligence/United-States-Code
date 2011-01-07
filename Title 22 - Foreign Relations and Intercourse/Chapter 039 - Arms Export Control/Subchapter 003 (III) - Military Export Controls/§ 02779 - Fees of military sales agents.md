@@ -4,9 +4,11 @@
 
 In accordance with such regulations as he may prescribe, the Secretary of State shall require adequate and timely reporting on political contributions, gifts, commissions and fees paid, or offered or agreed to be paid, by any person in connection with—
 
-&emsp;(1) sales of defense articles or defense services under section 2762 of this title, or of design and construction services under section 2769 of this title; or
+&emsp;(1) sales of defense articles or defense services under section 2762 of this title, or of design and construction services under section 2769 of this title;
 
-&emsp;(2) commercial sales of defense articles or defense services licensed or approved under section 2778 of this title;
+&emsp;(2) commercial sales of defense articles or defense services licensed or approved under section 2778 of this title; or
+
+&emsp;(3) exports of defense articles or defense services pursuant to a treaty referenced in section 2778(j)(1)(C)(i) of this title;
 
 > to or for the armed forces of a foreign country or international organization in order to solicit, promote, or otherwise to secure the conclusion of such sales. Such regulations shall specify the amounts and the kinds of payments, offers, and agreements to be reported, and the form and timing of reports, and shall require reports on the names of sales agents and other persons receiving such payments. The Secretary of State shall by regulation require such recordkeeping as he determines is necessary.
 
@@ -24,11 +26,17 @@ No such contribution, gift, commission, or fee may be included, in whole or in p
 
 (2) Access by an agency of the United States Government to records maintained under this section shall be on the same terms and conditions which govern the access by such agency to the books and records of the person concerned.
 
-(Pub. L. 90–629, ch. 3, §39, as added Pub. L. 94–329, title VI, §604(b), June 30, 1976, 90 Stat. 767; amended Pub. L. 96–533, title I, §105(e)(2), Dec. 16, 1980, 94 Stat. 3135.)
+(Pub. L. 90–629, ch. 3, §39, as added Pub. L. 94–329, title VI, §604(b), June 30, 1976, 90 Stat. 767; amended Pub. L. 96–533, title I, §105(e)(2), Dec. 16, 1980, 94 Stat. 3135; Pub. L. 111–266, title I, §104(e), Oct. 8, 2010, 124 Stat. 2800.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Amendments
 
-1980—Subsec. (a)(1). Pub. L. 96–533, §105(e)(2)(A), inserted reference to sales of design and construction services under section 2769 of this title.
+<b>2010</b>—Subsec. (a)(3). Pub. L. 111–266, which directed amendment of subsec. (a) by adding par. (3) at the end, was executed by adding par. (3) after par. (2) to reflect the probable intent of Congress.
+
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–533, §105(e)(2)(A), inserted reference to sales of design and construction services under section 2769 of this title.
 
 Subsec. (c). Pub. L. 96–533, §105(e)(2)(B), inserted reference to section 2769 of this title.
 

@@ -18,7 +18,7 @@ Section 77(c)(3) of the Bankruptcy Act, referred to in par. (4), was classified 
 
 #### Amendments
 
-1995—Par. (2). Pub. L. 104–88, §325(1)(A), added par. (2) and struck out former par. (2) which read as follows: “ ‘Commission’ means the Interstate Commerce Commission.”
+<b>1995</b>—Par. (2). Pub. L. 104–88, §325(1)(A), added par. (2) and struck out former par. (2) which read as follows: “ ‘Commission’ means the Interstate Commerce Commission.”
 
 Par. (3). Pub. L. 104–88, §325(1)(B), substituted “rail carrier subject to part A of subtitle IV of title 49” for “common carrier by railroad subject to part I of the Interstate Commerce Act (49 U.S.C. 1–27)”.
 

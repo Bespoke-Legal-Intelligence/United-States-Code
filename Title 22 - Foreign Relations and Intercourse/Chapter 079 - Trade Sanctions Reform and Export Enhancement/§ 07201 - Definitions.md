@@ -68,7 +68,7 @@ Section 906 of the Trade Sanctions Reform and Export Enhancement Act of 2000, re
 
 #### Amendments
 
-2008—Par. (2)(A). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+<b>2008</b>—Par. (2)(A). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
 #### Effective Date of 2008 Amendment
 

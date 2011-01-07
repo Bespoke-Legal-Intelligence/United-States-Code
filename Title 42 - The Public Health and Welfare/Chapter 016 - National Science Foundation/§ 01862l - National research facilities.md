@@ -48,9 +48,9 @@ Section was enacted as part of the National Science Foundation Authorization Act
 
 #### Amendments
 
-2007—Subsec. (a)(2)(D). Pub. L. 110–69 inserted “and for major upgrades of facilities in support of Antarctic research programs” after “facilities construction account” in introductory provisions.
+<b>2007</b>—Subsec. (a)(2)(D). Pub. L. 110–69 inserted “and for major upgrades of facilities in support of Antarctic research programs” after “facilities construction account” in introductory provisions.
 
-2002—Subsec. (a)(1). Pub. L. 107–368, §14(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Not later than December 1, of each year, the Director shall, as part of the annual budget request, prepare and submit to Congress a plan for the proposed construction of, and repair and upgrades to, national research facilities.”
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–368, §14(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Not later than December 1, of each year, the Director shall, as part of the annual budget request, prepare and submit to Congress a plan for the proposed construction of, and repair and upgrades to, national research facilities.”
 
 Subsec. (a)(2)(A). Pub. L. 107–368, §14(b)(2)(A), substituted “(1), including costs for instrumentation development;” for “(1);”.
 

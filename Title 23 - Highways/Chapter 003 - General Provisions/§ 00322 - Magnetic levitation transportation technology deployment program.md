@@ -128,7 +128,7 @@ In general.—There is authorized to be appropriated from the Highway Trust Fund
 
 Contract authority.—Funds authorized by this subparagraph shall be available for obligation in the same manner as if the funds were apportioned under chapter 1, except that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the Federal share of the cost of a project carried out under this sectionshall be determined in accordance with subsection (b); and
+&emsp;&emsp;&emsp;&emsp;(I) the Federal share of the cost of a project carried out under this section shall be determined in accordance with subsection (b); and
 
 &emsp;&emsp;&emsp;&emsp;(II) the availability of the funds shall be determined in accordance with paragraph (2).
 
@@ -196,7 +196,7 @@ A prior section 322, added Pub. L. 91–605, title II, §205(a), Dec. 31, 1970, 
 
 #### Amendments
 
-1998—Subsec. (a)(3). Pub. L. 105–178, §1218(c)(1), as added by Pub. L. 105–206, §9003(i), struck out “or under 50 miles per hour” before period at end.
+<b>1998</b>—Subsec. (a)(3). Pub. L. 105–178, §1218(c)(1), as added by Pub. L. 105–206, §9003(i), struck out “or under 50 miles per hour” before period at end.
 
 Subsec. (d)(1). Pub. L. 105–178, §1218(c)(2)(A), as added by Pub. L. 105–206, §9003(i), struck out “or low-speed” after “high-speed”.
 
@@ -224,7 +224,7 @@ Definitions.—In this section, the following definitions apply:
 
 Eligible project costs.—The term ‘eligible project costs’—
 
-&emsp;&emsp;“(A) means the capital cost of the fixed guideway infrastructure of a MAGLEV project, including land, piers, guideways, propulsion equipment and other components attached to guideways, power distribution facilities (including substations), control and communications facilities, access roads,and storage, repair, and maintenance facilities, but not including costs incurred for a new station; and
+&emsp;&emsp;“(A) means the capital cost of the fixed guideway infrastructure of a MAGLEV project, including land, piers, guideways, propulsion equipment and other components attached to guideways, power distribution facilities (including substations), control and communications facilities, access roads, and storage, repair, and maintenance facilities, but not including costs incurred for a new station; and
 
 &emsp;&emsp;“(B) includes the costs of preconstruction planning activities.
 

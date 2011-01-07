@@ -72,3 +72,5 @@ In this section, the terms “cost-effective technologies and practices” and �
 
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “operational”.</i>
+

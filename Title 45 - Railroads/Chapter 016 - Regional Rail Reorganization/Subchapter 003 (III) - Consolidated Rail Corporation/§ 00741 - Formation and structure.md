@@ -12,7 +12,7 @@ The Corporation shall be a for-profit corporation established under the laws of 
 
 (1) The members of the executive committee of the Association shall be the incorporators of the Corporation and shall take whatever steps are necessary to establish the Corporation, including the filing of articles of incorporation.
 
-(2) Notwithstanding any provision of State law, after February 5, 1976, the members of the executive committee of the Association (including duly authorized representatives of members who are authorized by this chapter to be represented) and the chief executive officer and chief operating officer of the Corporation shall adopt the bylaws of the Corporation and serve as the Board of Directors of the Corporation until all members of the Board of Directors of the Corporation have been selected in accordance with subsection (d) of this section. The chief executive officer shall serve as chairman of such Board until a chairman thereof is selected pursuant to subsection (d) of this section, after which time such chairman shall serve at the pleasure of such Board.
+(2) Notwithstanding any provision of State law, after February 5, 1976, the members of the executive committee of the Association (including duly authorized representatives of members who are authorized by this chapter to be represented) and the chief executive officer and chief operating officer of the Corporation shall adopt the bylaws of the Corporation and serve as the Board of Directors of the Corporation until all members of the Board of Directors of theCorporation have been selected in accordance with subsection (d) of this section. The chief executive officer shall serve as chairman of such Board until a chairman thereof is selected pursuant to subsection (d) of this section, after which time such chairman shall serve at the pleasure of such Board.
 
 #### (d) Board of Directors
 
@@ -46,11 +46,11 @@ The Corporation shall transmit to the Congress and the President, not later than
 
 #### (i) Liability of directors
 
-No director of the Corporation shall be liable, for money damages or otherwise, to any party by reason of the fact that such person is or was a director, if, with respect to the subject matter of the action, suit, or proceeding, such person was fulfilling a duty which he in good faith reasonably believed to be required by law or vested in him in his capacity as a director of the Association or as an officer of the United States. TheUnited States shall indemnify such person against all judgments, amounts paid in settlement, and costs and expenses (including fees of accountants, experts, and attorneys), actually and reasonably incurred in connection with any such action, suit, or proceeding in which such person is determined to have met such standard of conduct. This subsection shall not be construed to grant any immunity from any criminal law of the United States.
+No director of the Corporation shall be liable, for money damages or otherwise, to any party by reason of the fact that such person is or was a director, if, with respect to the subject matter of the action, suit, or proceeding, such person was fulfilling a duty which he in good faith reasonably believed to be required by law or vested in him in his capacity as a director of the Association or as an officer of the United States. The United States shall indemnify such person against all judgments, amounts paid in settlement, and costs and expenses (including fees of accountants, experts, and attorneys), actually and reasonably incurred in connection with any such action, suit, or proceeding in which such person is determined to have met such standard of conduct. This subsection shall not be construed to grant any immunity from any criminal law of the United States.
 
 #### (j) Signal systems
 
-If, within two years after August 13, 1981, the Corporation applies for the permission of the Secretary to substitute manual block signal systems for automatic block signal systems on lines on which less than 20,000,000 gross tons of freight are carried annually, the Secretary shall approve or disapprove such application within 90 days of its submission.
+If, within two years after August 13, 1981, the Corporation applies for the permission of the Secretary to substitute manual block signal systems for automatic block signal systems on lines on which less than 20,000,000 gross tons offreight are carried annually, the Secretary shall approve or disapprove such application within 90 days of its submission.
 
 #### (k) Governing provisions after sale
 
@@ -130,17 +130,17 @@ The last sentence of subsec. (f) of this section as originally enacted, which am
 
 #### Amendments
 
-1995—Subsec. (b). Pub. L. 104–88, §327(2), substituted “rail carrier subject to part A of subtitle IV of title 49” for “common carrier by railroad under section 1(3) of the Interstate Commerce Act (49 U.S.C. 1(3))”.
+<b>1995</b>—Subsec. (b). Pub. L. 104–88, §327(2), substituted “rail carrier subject to part A of subtitle IV of title 49” for “common carrier by railroad under section 1(3) of the Interstate Commerce Act (49 U.S.C. 1(3))”.
 
-1986—Subsec. (k). Pub. L. 99–509 added subsec. (k).
+<b>1986</b>—Subsec. (k). Pub. L. 99–509 added subsec. (k).
 
-1981—Subsec. (d)(2). Pub. L. 97–35, §1141(a), struck out provisions respecting resignations.
+<b>1981</b>—Subsec. (d)(2). Pub. L. 97–35, §1141(a), struck out provisions respecting resignations.
 
 Subsec. (e)(1). Pub. L. 97–35, §1141(b), substituted “The” for “In order to carry out the final system plan, the”.
 
 Subsec. (j). Pub. L. 97–35, §1141(c), substituted provisions relating to signal systems for provisions relating to corporate simplification.
 
-1976—Subsec. (a). Pub. L. 94–210, §612(j)(1), inserted “or such other corporate name as may be duly adopted by the Corporation” after “Corporation”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–210, §612(j)(1), inserted “or such other corporate name as may be duly adopted by the Corporation” after “Corporation”.
 
 Subsec. (b). Pub. L. 94–210, §612(j)(3), inserted “or of its principal railroad operating subsidiary” after “of the Corporation”.
 

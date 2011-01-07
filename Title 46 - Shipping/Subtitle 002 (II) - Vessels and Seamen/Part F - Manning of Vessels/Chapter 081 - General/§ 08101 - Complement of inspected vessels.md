@@ -68,9 +68,9 @@ Subsections (f), (g) and (h) prescribe civil penalties for noncompliance with ma
 
 #### Amendments
 
-1996—Subsec. (h). Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons”.
+<b>1996</b>—Subsec. (h). Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons”.
 
-1990—Subsec. (a)(3). Pub. L. 101–380, §4114(c), added par. (3).
+<b>1990</b>—Subsec. (a)(3). Pub. L. 101–380, §4114(c), added par. (3).
 
 Subsec. (e). Pub. L. 101–380, §4302(e)(1), substituted “$1,000” for “$50”.
 
@@ -80,9 +80,9 @@ Subsec. (g). Pub. L. 101–380, §4302(e)(3), substituted “$10,000” for “$
 
 Subsec. (i). Pub. L. 101–380, §4104, added subsec. (i).
 
-1986—Subsec. (a). Pub. L. 99–640 amended subsec. (a) generally, inserting cl. (1) designation before “a sailing school” and adding cl. (2).
+<b>1986</b>—Subsec. (a). Pub. L. 99–640 amended subsec. (a) generally, inserting cl. (1) designation before “a sailing school” and adding cl. (2).
 
-1984—Subsec. (g). Pub. L. 98–557 substituted provisions relating to inspection under chapter 33 of this title, for provisions relating to applicability of part B of this subtitle.
+<b>1984</b>—Subsec. (g). Pub. L. 98–557 substituted provisions relating to inspection under chapter 33 of this title, for provisions relating to applicability of part B of this subtitle.
 
 #### Effective Date of 1990 Amendment
 

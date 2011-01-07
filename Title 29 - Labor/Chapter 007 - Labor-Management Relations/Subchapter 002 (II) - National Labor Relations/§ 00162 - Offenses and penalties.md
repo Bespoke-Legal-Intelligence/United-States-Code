@@ -6,7 +6,7 @@ Any person who shall willfully resist, prevent, impede, or interfere with any me
 
 #### Amendments
 
-1947—Act June 23, 1947, reenacted section without change.
+<b>1947</b>—Act June 23, 1947, reenacted section without change.
 
 #### Effective Date of 1947 Amendment
 

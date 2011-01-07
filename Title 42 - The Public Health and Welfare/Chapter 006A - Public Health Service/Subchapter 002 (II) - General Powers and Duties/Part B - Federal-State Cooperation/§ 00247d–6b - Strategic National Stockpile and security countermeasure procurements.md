@@ -42,7 +42,7 @@
 
 #### (A) Use of fund
 
-&emsp;&emsp;A security countermeasure may, in accordance with this subsection, be procured with amounts in the special reserve fund under paragraph (10).
+&emsp;&emsp;A security countermeasure may, in accordance with this subsection, be procuredwith amounts in the special reserve fund under paragraph (10).
 
 #### (B) Security countermeasure
 
@@ -194,7 +194,7 @@
 
 #### (I) Payment conditioned on delivery
 
-&emsp;&emsp;&emsp;&emsp;The contract shall provide that no payment may be made until delivery of aportion, acceptable to the Secretary, of the total number of units contracted for, except that, notwithstanding any other provision of law, the contract may provide that, if the Secretary determines (in the Secretary's discretion) that an advance payment, partial payment for significant milestones, or payment to increase manufacturing capacity is necessary to ensure success of a project, the Secretary shall pay an amount, not to exceed 10 percent of the contract amount, in advance of delivery. The Secretary shall, to the extent practicable, make the determination of advance payment at the same time as the issuance of a solicitation. The contract shall provide that such advance payment is required to be repaid if there is a failure to perform by the vendor under the contract. The contract may also provide for additional advance payments of 5 percent each for meeting the milestones specified in such contract, except that such payments shall not exceed 50 percent of the total contract amount. If the specified milestones are reached, the advanced payments of 5 percent shall not be required to be repaid. Nothing in this subclause shall be construed as affecting the rights of vendors under provisions of law or regulation (including the Federal Acquisition Regulation) relating to the termination of contracts for the convenience of the Government.
+&emsp;&emsp;&emsp;&emsp;The contract shall provide that no payment may be made until delivery of a portion, acceptable to the Secretary, of the total number of units contracted for, except that, notwithstanding any other provision of law, the contract may provide that, if the Secretary determines (in the Secretary's discretion) that an advance payment, partial payment for significant milestones, or payment to increase manufacturing capacity is necessary to ensure success of a project, the Secretary shall pay an amount, not to exceed 10 percent of the contract amount, in advance of delivery. The Secretary shall, to the extent practicable, make the determination of advance payment at the same time as the issuance of a solicitation. The contract shall provide that such advance payment is required to be repaid if there is a failure to perform by the vendor under the contract. The contract may also provide for additional advance payments of 5 percent each for meeting the milestones specified in such contract, except that such payments shall not exceed 50 percent of the total contract amount. If the specified milestones are reached, the advanced payments of 5 percent shall not be required to be repaid. Nothing in this subclause shall be construed as affecting the rights of vendors under provisions of law or regulation (including the Federal Acquisition Regulation) relating to the termination of contracts for the convenience of the Government.
 
 #### (II) Discounted payment
 
@@ -218,11 +218,11 @@
 
 #### (VII) Sales exclusivity
 
-&emsp;&emsp;&emsp;&emsp;The contract may provide that the vendor is the exclusive supplier of the product to the Federal Government for a specified period of time, not to exceed the term of the contract, on the condition that the vendor is able to satisfy the needs of the Government. During the agreed period of sales exclusivity, the vendor shall not assign its rights of sales exclusivity to another entity or entities without approval by the Secretary. Such a sales exclusivity provision in such a contract shall constitute a valid basis for a sole source procurement under section 253(c)(1) of title 41.
+&emsp;&emsp;&emsp;&emsp;The contract may provide that the vendor is the exclusive supplier of the product to the Federal Government for a specified period of time, not to exceed the term of the contract, on the condition that the vendor is able to satisfy the needs of the Government. During the agreed period of sales exclusivity, the vendor shall not assign its rights of sales exclusivity to another entity or entities without approval by the Secretary. Such a sales exclusivity provision in such a contract shall constitute a valid basis for a sole source procurement under section 3304(a)(1) of title 41.
 
 #### (VIII) Warm based surge capacity
 
-&emsp;&emsp;&emsp;&emsp;The contract may provide that the vendor establish domestic manufacturing capacity of the product to ensure that additional production of the product is available in the event that the Secretary determines that there is a need to quickly purchase additional quantities of the product. Such contract may provide a fee to the vendor for establishing and maintaining such capacity in excess of the initial requirement for the purchase of the product. Additionally, the cost of maintaining the domestic manufacturing capacity shall be an allowable and allocable direct cost of the contract.
+&emsp;&emsp;&emsp;&emsp;The contract may provide that the vendor establish domestic manufacturing capacity of the product to ensure that additional production of the product is available in the event that the Secretary determines that there is aneed to quickly purchase additional quantities of the product. Such contract may provide a fee to the vendor for establishing and maintaining such capacity in excess of the initial requirement for the purchase of the product. Additionally, the cost of maintaining the domestic manufacturing capacity shall be an allowable and allocable direct cost of the contract.
 
 #### (IX) Contract terms
 
@@ -238,11 +238,11 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;If the Secretary determines that there is a pressing need for a procurement of a specific countermeasure, the amount of the procurement under this subsection shall be deemed to be below the threshold amount specified in section 403(11) of title 41, for purposes of application to such procurement, pursuant to section 252a(a) of title 41, of—
+&emsp;&emsp;&emsp;&emsp;If the Secretary determines that there is a pressing need for a procurement of a specific countermeasure, the amount of the procurement under this subsection shall be deemed to be below the threshold amount specified in section 134 of title 41, for purposes of application to such procurement, pursuant to section 3101(b)(1)(A) of title 41, of—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) section 253(g)(1)(A) of title 41 and its implementing regulations; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) section 3305(a)(1) of title 41 and its implementing regulations; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) section 252a(b) of title 41 and its implementing regulations.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) section 3101(b)(1)(B) of title 41 and its implementing regulations.
 
 #### (II) Application of certain provisions
 
@@ -250,13 +250,13 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) Chapter 37 of title 40 (relating to contract work hours and safety standards).
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) Subsections (a) and (b) of section 57 of title 41.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) Section 8703(a) of title 41.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) Section 254d of title 41 (relating to the examination of contractor records).
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) Section 4706 of title 41 (relating to the examination of contractor records).
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) Section 3131 of title 40 (relating to bonds of contractors of public buildings or works).
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(ee) Subsection (a) of section 254 of title 41 (relating to contingent fees to middlemen).
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) Section 3901 of title 41 (relating to contingent fees to middlemen).
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(ff) Section 6962 of this title.
 
@@ -274,7 +274,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;In using the authority provided in section 253(c)(1) of title 41 to use procedures other than competitive procedures in the case of a procurement under this subsection, the phrase “available from only one responsible source” in such section 253(c)(1) shall be deemed to mean “available from only one responsible source or only from a limited number of responsible sources”.
+&emsp;&emsp;&emsp;&emsp;In using the authority provided in section 3304(a)(1) of title 41 to use procedures other than competitive procedures in the case of a procurement under this subsection, the phrase “available from only one responsible source” in such section 3304(a)(1) shall be deemed to mean “available from only one responsible source or only from a limited number of responsible sources”.
 
 #### (II) Relation to other authorities
 
@@ -282,7 +282,7 @@
 
 #### (III) Applicable government-wide regulations
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall implement this clause in accordance with government-wide regulations implementing such section 253(c)(1) (including requirements that offers be solicited from as many potential sources as is practicable under the circumstances, that required notices be published, and that submitted offers be considered), as such regulations apply to procurements for which an agency has authority to use procedures other than competitive procedures when the property or services needed by the agency are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the agency.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall implement this clause in accordance with government-wide regulations implementing such section 3304(a)(1) (including requirements that offers be solicited from as many potential sources as is practicable under the circumstances, that required notices be published, and that submitted offers be considered), as such regulations apply to procurements for which an agency has authority to use procedures other than competitive procedures when the property or services needed by the agency are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the agency.
 
 #### (v) Premium provision in multiple award contracts
 
@@ -304,7 +304,7 @@
 
 #### (vii) Limiting competition to sources responding to request for information
 
-&emsp;&emsp;&emsp;In conducting a procurement under this subsection, the Secretary may exclude a source that has not responded to a request for information under section 253a(a)(1)(B) of title 41 if such request has given notice that the Secretary may so exclude such a source.
+&emsp;&emsp;&emsp;In conducting a procurement under this subsection, the Secretary may exclude a source that has not responded to a request for information under section 3306(a)(1)(B) of title 41 if such request has given notice that the Secretary may so exclude such a source.
 
 #### (8) Interagency cooperation
 
@@ -372,11 +372,31 @@ Section 510 of the Homeland Security Act of 2002, referred to in subsec. (c)(10)
 
 #### Codification
 
+In subsec. (c)(7)(C)(ii)(VII), “section 3304(a)(1) of title 41” substituted for “section 303(c)(1) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(1))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (c)(7)(C)(iii)(I), “section 134 of title 41” substituted for “section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))” and “section 3101(b)(1)(A) of title 41” substituted for “section 302A(a) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252a(a))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (c)(7)(C)(iii)(I)(aa), “section 3305(a)(1) of title 41” substituted for “section 303(g)(1)(A) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)(A))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (c)(7)(C)(iii)(I)(bb), “section 3101(b)(1)(B) of title 41” substituted for “section 302A(b) of such Act (41 U.S.C. 252a(b))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (c)(7)(C)(iii)(II)(bb), “Section 8703(a) of title 41” substituted for “Subsections (a) and (b) of section 7 of the Anti-Kickback Act of 1986 (41 U.S.C. 57(a) and (b))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (c)(7)(C)(iii)(II)(cc), “Section 4706 of title 41” substituted for “Section 304C of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254d)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (c)(7)(C)(iii)(II)(ee), “Section 3901 of title 41” substituted for “Subsection (a) of section 304 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254(a))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (c)(7)(C)(iv)(I), “section 3304(a)(1) of title 41” substituted for “section 303(c)(1) of title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(1))” and “such section 3304(a)(1)” substituted for “such section 303(c)(1)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (c)(7)(C)(iv)(III), “such section 3304(a)(1)” substituted for “such section 303(c)(1)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (c)(7)(C)(vii), “section 3306(a)(1)(B) of title 41” substituted for “section 303A(a)(1)(B) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253a(a)(1)(B))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 Section was formerly classified to section 300hh–12 of this title prior to renumbering by Pub. L. 108–276.
 
 #### Amendments
 
-2006—Pub. L. 109–417, §406(1), inserted “and security countermeasure procurements” after “Stockpile” in section catchline.
+<b>2006</b>—Pub. L. 109–417, §406(1), inserted “and security countermeasure procurements” after “Stockpile” in section catchline.
 
 Subsec. (a)(1). Pub. L. 109–417, §102(c), inserted “in collaboration with the Director of the Centers for Disease Control and Prevention, and” after “The Secretary,” and inserted at end “The Secretary shall conduct an annual review (taking into account at-risk individuals) of the contents of the stockpile, including non-pharmaceutical supplies, and make necessary additions or modifications to the contents based on such review.”
 
@@ -396,11 +416,11 @@ Subsec. (c)(7)(C)(ii)(I). Pub. L. 109–417, §406(2)(F)(i), amended heading and
 
 Subsec. (c)(7)(C)(ii)(VII) to (IX). Pub. L. 109–417, §406(2)(F)(ii), added subcls. (VII) to (IX).
 
-Subsec. (c)(8)(A). Pub. L. 109–417, §406(2)(G), inserted at end “Such agreements may allow other executive agencies to order qualified and security countermeasures under procurement contracts or other agreements established by the Secretary. Such ordering process (including transfers of appropriated funds between an agency and the Department of Health and Human Services as reimbursements for such orders for countermeasures) may be conducted under the authority of section 1535 of title 31, except that all such orders shall be processed under the terms established under this subsection for the procurement of countermeasures.”
+Subsec. (c)(8)(A). Pub. L. 109–417, §406(2)(G), inserted at end “Such agreements may allow other executive agencies to order qualified and security countermeasures under procurement contracts or other agreements established by the Secretary. Such orderingprocess (including transfers of appropriated funds between an agency and the Department of Health and Human Services as reimbursements for such orders for countermeasures) may be conducted under the authority of section 1535 of title 31, except that all such orders shall be processed under the terms established under this subsection for the procurement of countermeasures.”
 
-2004—Pub. L. 108–276, §3(a)(2), amended section generally. Prior to amendment, text related in subsec. (a) to Strategic National Stockpile, in subsec. (b) to smallpox vaccine development, in subsec. (c) to disclosures, in subsec. (d) to definition of “stockpile”, and in subsec. (e) to authorization of appropriations.
+<b>2004</b>—Pub. L. 108–276, §3(a)(2), amended section generally. Prior to amendment, text related in subsec. (a) to Strategic National Stockpile, in subsec. (b) to smallpox vaccine development, in subsec. (c) to disclosures, in subsec. (d) to definition of “stockpile”, and in subsec. (e) to authorization of appropriations.
 
-2002—Subsec. (a)(1). Pub. L. 107–296, §1705(a)(1), substituted “The Secretary of Homeland Security” for “The Secretary of Health and Human Services” and inserted “the Secretary of Health and Human Services and” after “in coordination with” and “of Health and Human Services” after “as are determined by the Secretary”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–296, §1705(a)(1), substituted “The Secretary of Homeland Security” for “The Secretary of Health and Human Services” and inserted “the Secretary of Health and Human Services and” after “in coordination with” and “of Health and Human Services” after “as are determined by the Secretary”.
 
 Subsecs. (a)(2), (b)(1). Pub. L. 107–296, §1705(a)(2), inserted “of Health and Human Services” after “Secretary” wherever appearing.
 
@@ -502,7 +522,7 @@ Report.—The President shall ensure that, not later than six months after the d
 
 “(f)
 
-Applicability.—Subsections (a) and (d) cease to apply as requirements if the President determines that there is an alternative and more effective prophylaxis or preventive measures for adverse thyroid conditions that may result from the release of radionuclides from nuclear power plants.”
+Applicability.—Subsections (a) and (d) cease to apply as requirements if the President determines that there is an alternative and more effective prophylaxisor preventive measures for adverse thyroid conditions that may result from the release of radionuclides from nuclear power plants.”
 
 \[Memorandum of President of the United States, July 3, 2007, 72 F.R. 37627, provided:
 

@@ -28,7 +28,7 @@
 
 #### (4) Exclusion from program income of regular developer's fees for low-income housing tax credit projects
 
-&emsp;Notwithstanding any other provision of this chapter, any income derived from a regular and customary developer's fee for any project that receives a low-income housing tax credit under section 42 of title 26, and that is initially funded using a grant provided under this chapter, shall not be considered to be program income if the developer's fee is approved by the State housing credit agency.
+&emsp;Notwithstanding any other provision of this chapter, any income derived from a regular and customary developer's fee for any projectthat receives a low-income housing tax credit under section 42 of title 26, and that is initially funded using a grant provided under this chapter, shall not be considered to be program income if the developer's fee is approved by the State housing credit agency.
 
 #### (b) Labor standards
 
@@ -56,11 +56,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-2008—Subsec. (a)(4). Pub. L. 110–411 added par. (4).
+<b>2008</b>—Subsec. (a)(4). Pub. L. 110–411 added par. (4).
 
-2005—Subsec. (a)(2). Pub. L. 109–136 inserted “restrict access to or” after “not” in introductory provisions.
+<b>2005</b>—Subsec. (a)(2). Pub. L. 109–136 inserted “restrict access to or” after “not” in introductory provisions.
 
-2002—Subsec. (a)(1). Pub. L. 107–292, §5(1)(A), substituted “Notwithstanding any other provision of this chapter, a recipient” for “A recipient” in introductory provisions.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–292, §5(1)(A), substituted “Notwithstanding any other provision of this chapter, a recipient” for “A recipient” in introductory provisions.
 
 Subsec. (a)(1)(B). Pub. L. 107–292, §5(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “the recipient has agreed that it will utilize the program income for affordable housing activities in accordance with the provisions of this chapter.”
 
@@ -68,7 +68,7 @@ Subsec. (a)(2). Pub. L. 107–292, §5(2)(A), inserted “restricted access or�
 
 Subsec. (a)(2)(D). Pub. L. 107–292, §5(2)(B)–(D), added subpar. (D).
 
-2000—Subsec. (b)(1). Pub. L. 106–568, §1003(j)(1), and Pub. L. 106–569, §503(i)(1), amended par. (1) identically, substituting “Act of March 3, 1931 (commonly known as the Davis-Bacon Act; chapter 411; 46 Stat. 1494; 40 U.S.C. 276a et seq.)” for “Davis-Bacon Act (40 U.S.C. 276a–276a–5)”.
+<b>2000</b>—Subsec. (b)(1). Pub. L. 106–568, §1003(j)(1), and Pub. L. 106–569, §503(i)(1), amended par. (1) identically, substituting “Act of March 3, 1931 (commonly known as the Davis-Bacon Act; chapter 411; 46 Stat. 1494; 40 U.S.C. 276a et seq.)” for “Davis-Bacon Act (40 U.S.C. 276a–276a–5)”.
 
 Subsec. (b)(3). Pub. L. 106–568, §1003(j)(2), and Pub. L. 106–569, §503(i)(2), amended subsec. (b) identically, adding par. (3).
 

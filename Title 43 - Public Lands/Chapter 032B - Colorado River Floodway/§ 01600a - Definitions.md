@@ -36,7 +36,7 @@ In subsec. (b)(1), “section 6702 of title 31” substituted for “section 102
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the United States House”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the United States House”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

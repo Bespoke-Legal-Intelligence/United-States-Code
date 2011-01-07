@@ -26,7 +26,7 @@ In general.—Subject to subparagraph (B), a trust qualifies under this paragrap
 
 &emsp;&emsp;&emsp;(i) each trustee is a citizen of the United States; and
 
-&emsp;&emsp;&emsp;(ii) the application for documentation of the vessel includes the affidavit of each trustee stating that the trustee is not aware of any reason involving a beneficiary of the trust that is not a citizen of the United States, or involving any other person that is not a citizen of the United States, as a result of which the beneficiary or other person would hold more than 25 percent of the aggregate power to influence or limit the exercise of the authority of the trustee with respect to matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States.
+&emsp;&emsp;&emsp;(ii) the application for documentation of the vessel includes the affidavit of eachtrustee stating that the trustee is not aware of any reason involving a beneficiary of the trust that is not a citizen of the United States, or involving any other person that is not a citizen of the United States, as a result of which the beneficiary or other person would hold more than 25 percent of the aggregate power to influence or limit the exercise of the authority of the trustee with respect to matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States.
 
 &emsp;&emsp;(B)
 
@@ -86,9 +86,9 @@ A prior section 12111, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 588; Pub. L. 100
 
 #### Amendments
 
-2008—Pub. L. 110–181, §3525(b), repealed Pub. L. 109–241, §310. See 2006 Amendment note below.
+<b>2008</b>—Pub. L. 110–181, §3525(b), repealed Pub. L. 109–241, §310. See 2006 Amendment note below.
 
 Subsec. (d). Pub. L. 110–181, §3525(a)(1), incorporated the substance of the amendment by Pub. L. 109–241, §310, into this section by adding subsec. (d). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-2006—Pub. L. 109–241, §310, which directed the amendment of former section 12105 of this title from which this section was derived in part, was repealed by Pub. L. 110–181, §3525(b). See 2008 Amendment note for subsec. (d) and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–241, §310, which directed the amendment of former section 12105 of this title from which this section was derived in part, was repealed by Pub. L. 110–181, §3525(b). See 2008 Amendment note for subsec. (d) and Historical and Revision notes above.
 

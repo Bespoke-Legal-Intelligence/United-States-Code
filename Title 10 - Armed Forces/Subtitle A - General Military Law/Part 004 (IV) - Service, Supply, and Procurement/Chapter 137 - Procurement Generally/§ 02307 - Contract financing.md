@@ -84,7 +84,7 @@ Action in Case of Fraud.—(1) In any case in which the remedy coordination offi
 
 (10) In this subsection, the term “remedy coordination official”, with respect to an agency, means the person or entity in that agency who coordinates within that agency the administration of criminal, civil, administrative, and contractual remedies resulting from investigations of fraud or corruption related to procurement activities.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, §9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 93–155, title VIII, §807(c), Nov. 16, 1973, 87 Stat. 616; Pub. L. 100–370, §1(f)(1)(A), July 19, 1988, 102 Stat. 846; Pub. L. 101–510, div. A, title VIII, §836(a), (b), title XIII, §1322(a)(4), Nov. 5, 1990, 104 Stat. 1615, 1616, 1671; Pub. L. 102–25, title VII, §701(d)(4), (j)(2)(A), Apr. 6, 1991, 105 Stat. 114, 116; Pub. L. 102–190, div. A, title X, §1061(a)(10), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. A, title X, §1052(24), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title II, §2001(a)–(g), Oct. 13, 1994, 108 Stat. 3301, 3302; Pub. L. 105–85, div. A, title VIII, §802, Nov. 18, 1997, 111 Stat. 1831; Pub. L. 106–391, title III, §306, Oct. 30, 2000, 114 Stat. 1592.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, §9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 93–155, title VIII, §807(c), Nov. 16, 1973, 87 Stat. 616; Pub. L. 100–370, §1(f)(1)(A), July 19, 1988, 102 Stat. 846; Pub. L. 101–510, div. A, title VIII, §836(a), (b), title XIII, §1322(a)(4), Nov. 5, 1990, 104 Stat. 1615, 1616, 1671; Pub. L. 102–25, title VII, §701(d)(4), (j)(2)(A), Apr. 6, 1991, 105 Stat. 114, 116; Pub. L. 102–190, div. A, title X, §1061(a)(10), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. A, titleX, §1052(24), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title II, §2001(a)–(g), Oct. 13, 1994, 108 Stat. 3301, 3302; Pub. L. 105–85, div. A, title VIII, §802, Nov. 18, 1997, 111 Stat. 1831; Pub. L. 106–391, title III, §306, Oct. 30, 2000, 114 Stat. 1592.)
 
 Historical and Revision Notes<br>1956
 
@@ -124,11 +124,11 @@ Provisions similar to those in subsec. (g) of this section were contained in sec
 
 #### Amendments
 
-2000—Subsec. (i)(8). Pub. L. 106–391 substituted “(4), and (6)” for “and (4)”.
+<b>2000</b>—Subsec. (i)(8). Pub. L. 106–391 substituted “(4), and (6)” for “and (4)”.
 
-1997—Subsecs. (h), (i). Pub. L. 105–85 added subsec. (h) and redesignated former subsec. (h) as (i).
+<b>1997</b>—Subsecs. (h), (i). Pub. L. 105–85 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1994—Pub. L. 103–355, §2001(a)(1), substituted “Contract financing” for “Advance payments” in section catchline.
+<b>1994</b>—Pub. L. 103–355, §2001(a)(1), substituted “Contract financing” for “Advance payments” in section catchline.
 
 Subsec. (a). Pub. L. 103–355, §2001(a)(2), inserted heading.
 
@@ -160,9 +160,9 @@ Subsecs. (f), (g). Pub. L. 103–355, §2001(f), (g), added subsecs. (f) and (g)
 
 Subsec. (h). Pub. L. 103–355, §2001(a)(7), redesignated subsec. (e) as (h).
 
-1992—Subsec. (e)(1). Pub. L. 102–484 substituted “(1)” for “(<i>l</i>)” as par. designation after “(e)”.
+<b>1992</b>—Subsec. (e)(1). Pub. L. 102–484 substituted “(1)” for “(<i>l</i>)” as par. designation after “(e)”.
 
-1991—Subsec. (d)(3). Pub. L. 102–25, §701(d)(4), substituted “any contract for an amount not in excess of the amount of the small purchase threshold” for “contracts for amounts less than the maximum amount for small purchases specified in section 2304(g)(2) of this title”.
+<b>1991</b>—Subsec. (d)(3). Pub. L. 102–25, §701(d)(4), substituted “any contract for an amount not in excess of the amount of the small purchase threshold” for “contracts for amounts less than the maximum amount for small purchases specified in section 2304(g)(2) of this title”.
 
 Subsec. (e). Pub. L. 102–25, §701(j)(2)(A), redesignated subsec. (f) as (e).
 
@@ -170,7 +170,7 @@ Subsec. (f). Pub. L. 102–190, which directed the substitution of “(1)” for
 
 Pub. L. 102–25, §701(j)(2)(A), redesignated subsec. (f) as (e).
 
-1990—Subsec. (d). Pub. L. 101–510, §1322(a)(4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Payments under subsection (a) in the case of any contract, other than partial, progress, or other payments specifically provided for in such contract at the time such contract was initially entered into, may not exceed $25,000,000 unless the Committees on Armed Services of the Senate and the House of Representatives have been notified in writing of such proposed payments and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees and neither House of Congress has adopted, within such 60-day period, a resolution disapproving such payments. For purposes of this section, the continuity of a session of Congress is broken only by an adjournment of theCongress sine die, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of such 60-day period.”
+<b>1990</b>—Subsec. (d). Pub. L. 101–510, §1322(a)(4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Payments under subsection (a) in the case of any contract, other than partial, progress, or other payments specifically provided for in such contract at the time such contract was initially entered into, may not exceed $25,000,000 unless the Committees on Armed Services of the Senate and the House of Representatives have been notified in writing of such proposed payments and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees and neither House of Congress has adopted, within such 60-day period, a resolution disapproving such payments. For purposes of this section, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of such 60-day period.”
 
 Subsec. (e). Pub. L. 101–510, §1322(a)(4)(B), redesignated subsec. (e) as (d).
 
@@ -178,15 +178,15 @@ Pub. L. 101–510, §836(b), inserted at end of par. (1) “The contractor shall
 
 Subsec. (f). Pub. L. 101–510, §836(a), added subsec. (f).
 
-1988—Subsec. (e). Pub. L. 100–370 added subsec. (e).
+<b>1988</b>—Subsec. (e). Pub. L. 100–370 added subsec. (e).
 
-1973—Subsec. (d). Pub. L. 93–155 added subsec. (d).
+<b>1973</b>—Subsec. (d). Pub. L. 93–155 added subsec. (d).
 
-1958—Pub. L. 85–800 authorized advance or other payments under contracts for property or services by agency, authorized insertion in bid solicitations of provision limiting advance or progress payments to small business concerns, restricted payments under subsec. (a) to unpaid contract price, and reworded generally conditions for making advance payments.
+<b>1958</b>—Pub. L. 85–800 authorized advance or other payments under contracts for property or services by agency, authorized insertion in bid solicitations of provision limiting advance or progress payments to small business concerns, restricted payments under subsec. (a) to unpaid contract price, and reworded generally conditions for making advance payments.
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -194,7 +194,7 @@ Section 836(c) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, 
 
 #### Relationship of 1994 Amendment to Prompt Payment Requirements
 
-Section 2001(h) of Pub. L. 103–355 provided that: “The amendments made by this section \[amending this section and section 7522 of this title and repealing sections 7312, 7364, and 7521 of this title\] are not intended to impair or modify procedures required by the provisions of chapter 39 of title 31, United States Code, and the regulations issued pursuant to such provisions of law (as such procedures are in effect on the date of the enactment of this Act \[Oct. 13, 1994\]), except that the Government may accept payment terms offered by a contractor offering a commercial item.”
+Section 2001(h) of Pub. L. 103–355 provided that: “The amendments made by this section \[amending this section and section 7522 of this title and repealing sections 7312, 7364, and 7521 of this title\] are not intended to impair or modify procedures required by the provisions of chapter 39 of title 31, United States Code, and the regulations issued pursuant to such provisions of law (assuch procedures are in effect on the date of the enactment of this Act \[Oct. 13, 1994\]), except that the Government may accept payment terms offered by a contractor offering a commercial item.”
 
 #### Limitations on Progress Payments
 

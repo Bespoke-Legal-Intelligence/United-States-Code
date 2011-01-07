@@ -16,7 +16,7 @@ In any investigation or inquiry conducted for the purpose of ascertaining the co
 
 &emsp;&emsp;&emsp;(i) imported, or knowingly caused to be imported, merchandise into the customs territory of the United States,
 
-&emsp;&emsp;&emsp;(ii) exported merchandise, or knowingly caused merchandise to be exported, to a NAFTA country (as defined in section 3301(4) of this title) or to Canada during such time as the United States-CanadaFree-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada,
+&emsp;&emsp;&emsp;(ii) exported merchandise, or knowingly caused merchandise to be exported, to a NAFTA country (as defined in section 3301(4) of this title) or to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada,
 
 &emsp;&emsp;&emsp;(iii) transported or stored merchandise that was or is carried or held under customs bond, or knowingly caused such transportation or storage, or
 
@@ -28,7 +28,7 @@ In any investigation or inquiry conducted for the purpose of ascertaining the co
 
 &emsp;&emsp;(D) any other person he may deem proper;
 
-> &emsp;to appear before the appropriate customs officer at the time and place within the customs territory of the United States specified in the summons (except that no witness may be required to appear at any place more than one hundred miles distant from the place where he was served with the summons), to produce records, as defined in subsection (d)(1)(A) of this section, and to give such testimony, under oath, as may be relevant to such investigation or inquiry; and
+> &emsp;to appear before the appropriate customs officer at the time and place within the customsterritory of the United States specified in the summons (except that no witness may be required to appear at any place more than one hundred miles distant from the place where he was served with the summons), to produce records, as defined in subsection (d)(1)(A) of this section, and to give such testimony, under oath, as may be relevant to such investigation or inquiry; and
 
 &emsp;(3) take, or cause to be taken, such testimony of the person concerned, under oath, as may be relevant to such investigation or inquiry.
 
@@ -130,7 +130,7 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 &emsp;&emsp;(E) has a record maintenance procedure approved by the Customs Service for original records, or, if approved by the Customs Service, for alternative records or recordkeeping formats other than the original records; and
 
-&emsp;&emsp;(F) has procedures for notifying the Customs Service of occurrences of variances to, and violations of, the requirements of the recordkeeping compliance program or the negotiated alternative programs, and fortaking corrective action when notified by the Customs Service of violations or problems regarding such program.
+&emsp;&emsp;(F) has procedures for notifying the Customs Service of occurrences of variances to, and violations of, the requirements of the recordkeeping compliance program or the negotiated alternative programs, and for taking corrective action when notified by the Customs Service of violations or problems regarding such program.
 
 #### (g) Penalties
 
@@ -142,7 +142,7 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 &emsp;Except as provided in paragraph (4), if a person fails to comply with a lawful demand for information under subsection (a)(1)(A) of this section the following provisions apply:
 
-&emsp;&emsp;(A) If the failure to comply is a result of the willful failure of the person to maintain, store, or retrieve the demanded information, such person shall be subject to a penalty, for each release of merchandise, not to exceed $100,000, or an amount equal to 75 percent of the appraised value of the merchandise, whichever amount is less.
+&emsp;&emsp;(A) If the failure to comply is a result of the willful failure of the person to maintain,store, or retrieve the demanded information, such person shall be subject to a penalty, for each release of merchandise, not to exceed $100,000, or an amount equal to 75 percent of the appraised value of the merchandise, whichever amount is less.
 
 &emsp;&emsp;(B) If the failure to comply is a result of the negligence of the person in maintaining, storing, or retrieving the demanded information, such person shall be subject to a penalty, for each release of merchandise, not to exceed $10,000, or an amount equal to 40 percent of the appraised value of the merchandise, whichever amount is less.
 
@@ -210,7 +210,7 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 &emsp;&emsp;The Secretary shall promulgate regulations to implement this paragraph. Such regulations may specify the time periods for compliance with a demand for information and provide guidelines which define repeated violations for purposes of this paragraph. Any penalty issued for a recordkeeping violation shall take into account the degree of compliance compared to the total number of importations, the nature of the demanded records and the recordkeeper's cooperation.
 
-(June 17, 1930, ch. 497, title IV, §509, 46 Stat. 733; June 25, 1948, ch. 646, §26, 62 Stat. 990; Pub. L.91–271, title III, §301(n), June 2, 1970, 84 Stat. 289; Pub. L. 95–410, title I, §105, Oct. 3, 1978, 92 Stat. 889; Pub. L. 99–570, title III, §3117, Oct. 27, 1986, 100 Stat. 3207–84; Pub. L. 103–182, title II, §205(b), title VI, §615, Dec. 8, 1993, 107 Stat. 2094, 2175; Pub. L. 104–295, §3(a)(1), (10), Oct. 11, 1996, 110 Stat. 3515, 3516; Pub. L. 107–210, div. A, title III, §382, Aug. 6, 2002, 116 Stat. 992.)
+(June 17, 1930, ch. 497, title IV, §509, 46 Stat. 733; June 25, 1948, ch. 646, §26, 62 Stat. 990; Pub. L. 91–271, title III, §301(n), June 2, 1970, 84 Stat. 289; Pub. L. 95–410, title I, §105, Oct. 3, 1978, 92 Stat. 889; Pub. L. 99–570, title III, §3117, Oct. 27, 1986, 100 Stat. 3207–84; Pub. L. 103–182, title II, §205(b), title VI, §615, Dec. 8, 1993, 107 Stat. 2094, 2175; Pub. L. 104–295, §3(a)(1), (10), Oct. 11, 1996, 110 Stat. 3515, 3516; Pub. L. 107–210, div. A, title III, §382, Aug. 6, 2002, 116 Stat. 992.)
 
 #### References in Text
 
@@ -218,19 +218,19 @@ Title I, referred to in subsec. (g)(2)(C), means title I of act June 17, 1930, c
 
 #### Prior Provisions
 
-Provisions substantially the same, in most respects, as those in this section, were contained in act Oct. 3, 1913, ch. 16, §III, O, 38 Stat. 188, which substantially reenacted the provisions of Customs Administrative Act of June 10, 1890, ch. 407, §16, 26 Stat. 138, as renumbered and reenacted without other change by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 100. Section III of the 1913 act was superseded and more closely assimilated to this section by act Sept. 21, 1922, ch. 356, title IV, §508, 42 Stat. 968, and repealed by section 643 thereof. Section 508 of the 1922 act was superseded by section 509 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions substantially the same, in most respects, as those in this section, were contained in act Oct. 3,1913, ch. 16, §III, O, 38 Stat. 188, which substantially reenacted the provisions of Customs Administrative Act of June 10, 1890, ch. 407, §16, 26 Stat. 138, as renumbered and reenacted without other change by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 100. Section III of the 1913 act was superseded and more closely assimilated to this section by act Sept. 21, 1922, ch. 356, title IV, §508, 42 Stat. 968, and repealed by section 643 thereof. Section 508 of the 1922 act was superseded by section 509 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Prior provisions similar to those in this section and section 1510 of this title were made by R.S. §§2922–2924, repealed by section 29 of the Customs Administrative Act of 1890, 26 Stat. 141.
 
 #### Amendments
 
-2002—Subsec. (b)(6). Pub. L. 107–210 added par. (6).
+<b>2002</b>—Subsec. (b)(6). Pub. L. 107–210 added par. (6).
 
-1996—Subsec. (a)(2). Pub. L. 104–295, §3(a)(1), substituted “(d)(1)(A)” for “(c)(1)(A)” in concluding provisions.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–295, §3(a)(1), substituted “(d)(1)(A)” for “(c)(1)(A)” in concluding provisions.
 
 Subsec. (b)(3), (4). Pub. L. 104–295, §3(a)(10), substituted “officer designated pursuant to regulations” for “appropriate regional commissioner”.
 
-1993—Subsec. (a). Pub. L. 103–182, §615(1)(A), substituted “, fees and taxes” for “and taxes” in two places in introductory provisions.
+<b>1993</b>—Subsec. (a). Pub. L. 103–182, §615(1)(A), substituted “, fees and taxes” for “and taxes” in two places in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 103–182, §615(1)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “examine, or cause to be examined, upon reasonable notice, any record, statement, declaration or other document, described in the notice with reasonable specificity, which may be relevant to such investigation or inquiry;”.
 
@@ -262,15 +262,15 @@ Subsec. (d)(4)(B). Pub. L. 103–182, §615(4)(C), (D), substituted “the trans
 
 Subsecs. (e) to (g). Pub. L. 103–182, §615(5), added subsecs. (e) to (g).
 
-1986—Subsec. (a)(2). Pub. L. 99–570, §3117(1), substituted “as defined in subsection (c)(1)(A) of this section” for “required to be kept under section 1508 of this title” in concluding provisions.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–570, §3117(1), substituted “as defined in subsection (c)(1)(A) of this section” for “required to be kept under section 1508 of this title” in concluding provisions.
 
 Subsec. (c)(1)(A). Pub. L. 99–570, §3117(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The term ‘records’ includes statements, declarations, or documents required to be kept under section 1508 of this title.”
 
-1978—Pub. L. 95–410 substituted subsec. (a) to (c) provisions for examination of books and witnesses for prior provisions for examination of importer and others, which authorized appropriate customs officers to issue citations for examination under oath of any owner, importer, consignee, agent, or other person upon any material matter or thing respecting any imported merchandise then under consideration or previously imported within one year, in ascertaining the classification or the value thereof or the rate or amount of duty and to require production of any letters, accounts, contracts, invoices, or other documents relating to the merchandise, and the reduction of the testimony to writing, required the testimony to be filed and preserved under Customs Court rules, and authorized consideration of the evidence in subsequent proceedings relating to the merchandise.
+<b>1978</b>—Pub. L. 95–410 substituted subsec. (a) to (c) provisions for examination of books and witnesses for prior provisions for examination of importer and others, which authorized appropriate customs officers to issue citations for examination under oath of any owner, importer, consignee, agent, or other person upon any material matter or thing respecting any imported merchandise then under consideration or previously imported within one year, in ascertaining the classification or the value thereof or the rate or amount of duty and to require production of any letters, accounts, contracts, invoices, or other documents relating to the merchandise, and the reduction of the testimony to writing, required the testimony to be filed and preserved under Customs Court rules, and authorized consideration of the evidence in subsequent proceedings relating to the merchandise.
 
-1970—Pub. L. 91–271 substituted “Appropriate customs officer” for “Collectors and appraisers”.
+<b>1970</b>—Pub. L. 91–271 substituted “Appropriate customs officer” for “Collectors and appraisers”.
 
-1948—Act June 25, 1948, struck out “and judges and divisions of the United States Customs Court” after “Collectors and appraisers” in first sentence.
+<b>1948</b>—Act June 25, 1948, struck out “and judges and divisions of the United States Customs Court” after “Collectors and appraisers” in first sentence.
 
 #### Effective Date of 2002 Amendment
 

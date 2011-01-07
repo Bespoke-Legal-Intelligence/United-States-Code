@@ -42,7 +42,7 @@ The Chief Operating Officer shall establish a system of priorities for the accep
 
 #### Amendments
 
-2001—Subsecs. (a), (c), (d). Pub. L. 107–107, §1404(b)(1)(A), substituted “Chief Operating Officer” for “Retirement Home Board” wherever appearing.
+<b>2001</b>—Subsecs. (a), (c), (d). Pub. L. 107–107, §1404(b)(1)(A), substituted “Chief Operating Officer” for “Retirement Home Board” wherever appearing.
 
 Subsec. (e). Pub. L. 107–107, §1405(a), struck out heading and text of subsec. (e). Text read as follows: “A resident of the Retirement Home who leaves the Retirement Home for more than 45 consecutive days (other than for inpatient medical care) shall be required to reapply for acceptance as a resident.”
 

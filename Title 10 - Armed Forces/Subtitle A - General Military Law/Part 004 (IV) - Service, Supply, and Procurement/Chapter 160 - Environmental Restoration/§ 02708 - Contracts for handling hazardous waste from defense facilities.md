@@ -56,9 +56,9 @@ The Solid Waste Disposal Act, referred to in subsec. (c)(2), is title II of Pub.
 
 #### Amendments
 
-1993—Subsec. (b)(1). Pub. L. 103–160 substituted “fiscal years 1992 through 1996” for “fiscal years 1992 and 1993”.
+<b>1993</b>—Subsec. (b)(1). Pub. L. 103–160 substituted “fiscal years 1992 through 1996” for “fiscal years 1992 and 1993”.
 
-1992—Subsec. (b)(1). Pub. L. 102–484, §1052(36)(A), substituted “each contract” for “all contracts” and “any subcontract under any such contract” for “all subcontracts under such contracts”.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–484, §1052(36)(A), substituted “each contract” for “all contracts” and “any subcontract under any such contract” for “all subcontracts under such contracts”.
 
 Pub. L. 102–484, §321, substituted “fiscal years 1992 and 1993” for “fiscal year 1992”.
 

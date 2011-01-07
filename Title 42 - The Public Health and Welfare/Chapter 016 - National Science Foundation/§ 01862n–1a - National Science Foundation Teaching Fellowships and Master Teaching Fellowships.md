@@ -16,7 +16,7 @@
 
 &emsp;Fellowships under this section shall be available only to—
 
-&emsp;&emsp;(A) science, technology, engineering, or mathematics professionals, who shall be referred to as “National Science Foundation Teaching Fellows” and who, in the first year of the fellowship, are enrolled in a master's degree program leading to teacher certification or licensing; and
+&emsp;&emsp;(A) science, technology, engineering, or mathematics professionals, including retiring professionals in those fields, who shall be referred to as “National Science Foundation Teaching Fellows” and who, in the first year of the fellowship, are enrolled in a master's degree program leading to teacher certification or licensing; and
 
 &emsp;&emsp;(B) mathematics and science teachers, who shall be referred to as “National Science Foundation Master Teaching Fellows” and who possess a master's degree in their field.
 
@@ -38,7 +38,7 @@ In order to be eligible to receive a grant under this section, an eligible entit
 
 Grants awarded under this section shall be used by the eligible entity (and participating institutions of higher education of the consortium, if applicable) to develop and implement a program for National Science Foundation Teaching Fellows or National Science Foundation Master Teaching Fellows, through—
 
-&emsp;(1) administering fellowships in accordance with this section, including providing the teaching fellowship salary supplements described in subsection (f);
+&emsp;(1) administering fellowships in accordance with this section, including providing theteaching fellowship salary supplements described in subsection (f);
 
 &emsp;(2) in the case of National Science Foundation Teaching Fellowships—
 
@@ -88,13 +88,13 @@ Grants awarded under this section shall be used by the eligible entity (and part
 
 &emsp;In evaluating the applications submitted under paragraph (2), the Director shall consider, at a minimum—
 
-&emsp;&emsp;(A) the ability of the applicant (and participating institutions of higher education ofthe consortium, if applicable) to effectively carry out the program and to meet the requirements of subsection (f);
+&emsp;&emsp;(A) the ability of the applicant (and participating institutions of higher education of the consortium, if applicable) to effectively carry out the program and to meet the requirements of subsection (f);
 
 &emsp;&emsp;(B) the extent to which the mathematics, science, or engineering faculty and the education faculty at the eligible entity (and participating institutions of higher education of the consortium, if applicable) have worked or will work collaboratively to design new or revised curricula that recognizes the specialized pedagogy required to teach science, technology, engineering, and mathematics effectively in elementary schools and secondary schools;
 
 &emsp;&emsp;(C) the extent to which the applicant (and participating institutions of higher education of the consortium, if applicable) is committed to making the program a central organizational focus;
 
-&emsp;&emsp;(D) the degree to which the proposed programming will enable participants to become highly effective mathematics and science teachers and prepare such participants to assume leadership roles in their schools, in addition to their regular classroom duties, including serving as mentor or master teachers, developing curriculum, and assisting in the development and implementation of professional development activities;
+&emsp;&emsp;(D) the degree to which the proposed programming will enable participants to become highly effective mathematics and science teachers and prepare such participants to assume leadership roles in theirschools, in addition to their regular classroom duties, including serving as mentor or master teachers, developing curriculum, and assisting in the development and implementation of professional development activities;
 
 &emsp;&emsp;(E) the number and quality of the individuals that will be served by the program; and
 
@@ -154,7 +154,11 @@ An individual awarded a fellowship under this section shall serve as a mathemati
 
 #### (1) In general
 
-&emsp;An eligible entity receiving a grant under this section shall provide, from non-Federal sources, an amount equal to 50 percent of theamount of the grant (which may be provided in cash or in-kind) to carry out the activities supported by the grant.
+&emsp;An eligible entity receiving a grant under this section shall provide, from non-Federal sources, to carry out the activities supported by the grant—
+
+&emsp;&emsp;(A) in the case of grants in an amount of less than $1,500,000, an amount equal to at least 30 percent of the amount of the grant, at least one half of which shall be in cash; and
+
+&emsp;&emsp;(B) in the case of grants in an amount of $1,500,000 or more, an amount equal to at least 50 percent of the amount of the grant, at least one half of which shall be in cash.
 
 #### (2) Waiver
 
@@ -174,11 +178,17 @@ An individual awarded a fellowship under this section shall serve as a mathemati
 
 &emsp;&emsp;(B) for a National Science Foundation Master Teaching Fellow, the total amount of teaching fellowship salary supplements received by the individual under this section, reduced by one-half, shall be repaid or such amount shall be treated as a loan to be repaid in accordance with section 1862n–1(g)(1)(C) of this title.
 
-(Pub. L. 107–368, §10A, as added Pub. L. 110–69, title VII, §7030, Aug. 9, 2007, 121 Stat. 705.)
+(Pub. L. 107–368, §10A, as added Pub. L. 110–69, title VII, §7030, Aug. 9, 2007, 121 Stat. 705; amended Pub. L. 111–358, title V, §511, Jan. 4, 2011, 124 Stat. 4010.)
 
 #### Codification
 
 Section 7030 of Pub. L. 110–69, which directed that “Section 10 of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n–1) is amended to read as follows:” and then set out the text of sections 10 and 10A, was executed by generally amending section 10 and adding a new section 10A (42 U.S.C. 1862n–1a) after section 10, to reflect the probable intent of Congress.
 
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (a)(2)(A). Pub. L. 111–358, §511(b), inserted “including retiring professionals in those fields,” after “mathematics professionals,”.
+
+Subsec. (h)(1). Pub. L. 111–358, §511(a), amended par. (1) generally. Prior to amendment, text read as follows: “An eligible entity receiving a grant under this section shall provide, from non-Federal sources, an amount equal to 50 percent of the amount of the grant (which may be provided in cash or in-kind) to carry out the activities supported by the grant.”
 

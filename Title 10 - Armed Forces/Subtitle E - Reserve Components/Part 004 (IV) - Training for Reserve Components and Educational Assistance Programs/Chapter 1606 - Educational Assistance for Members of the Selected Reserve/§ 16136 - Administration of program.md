@@ -2,7 +2,7 @@
 
 (a) Educational assistance under this chapter shall be provided through the Department of Veterans Affairs, under agreements to be entered into by the Secretary of Defense, and by the Secretary of Homeland Security, with the Secretary of Veterans Affairs. Such agreements shall include administrative procedures to ensure the prompt and timely transfer of funds from the Secretary concerned to the Department of Veterans Affairs for the making of payments under this chapter.
 
-(b) Except as otherwise provided in this chapter, the provisions of sections 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II of chapter 36 ofsuch title (with the exception of sections 3686(a), 3687, and 3692) shall be applicable to the provision of educational assistance under this chapter. The term “eligible veteran” and the term “a person”, as used in those provisions, shall be deemed for the purpose of the application of those provisions to this chapter to refer to a person eligible for educational assistance under this chapter.
+(b) Except as otherwise provided in this chapter, the provisions of sections 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692) shall be applicable to the provision of educational assistance under this chapter. The term “eligible veteran” and the term “a person”, as used in those provisions, shall be deemed for the purpose of the application of those provisions to this chapter to refer to a person eligible for educational assistance under this chapter.
 
 (c) The Secretary of Veterans Affairs may approve the pursuit of flight training (in addition to a course of flight training that may be approved under section 3680A(b) of title 38) by an individual entitled to educational assistance under this chapter if—
 
@@ -16,25 +16,25 @@
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-1998—Subsec. (c)(2). Pub. L. 105–245 substituted “pilot certificate” for “pilot's license” in two places and inserted “, on the day the individual begins a course of flight training,” after “meets”.
+<b>1998</b>—Subsec. (c)(2). Pub. L. 105–245 substituted “pilot certificate” for “pilot's license” in two places and inserted “, on the day the individual begins a course of flight training,” after “meets”.
 
-1994—Pub. L. 103–337 renumbered section 2136 of this title as this section.
+<b>1994</b>—Pub. L. 103–337 renumbered section 2136 of this title as this section.
 
 Subsec. (c). Pub. L. 103–446 struck out “(1)” after “(c)”, redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and struck out former par. (2) which read as follows: “This subsection shall not apply to a course of flight training that commences on or after October 1, 1994.”
 
-1992—Subsec. (b). Pub. L. 102–568, §320(a)(3), substituted “sections 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692)” for “sections 1670, 1671, 1673, 1674, 1676, 1682(g), 1683, and 1685 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 1786(a), 1787, and 1792)”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–568, §320(a)(3), substituted “sections 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692)” for “sections 1670, 1671, 1673, 1674, 1676, 1682(g), 1683, and 1685 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 1786(a), 1787, and 1792)”.
 
 Pub. L. 102–568, §319, struck out “1780(c),” after “exception of sections”.
 
 Subsec. (c)(1). Pub. L. 102–568, §313(a)(6), substituted “section 3680A(b) of title 38” for “section 1673(b) of title 38”.
 
-1991—Subsec. (b). Pub. L. 102–16 struck out “1434(b), 1663,” before “1670,” and “1780(g),” before “1786(a),”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–16 struck out “1434(b), 1663,” before “1670,” and “1780(g),” before “1786(a),”.
 
-1990—Subsec. (a). Pub. L. 101–510 substituted “Department of Veterans Affairs” for “Veterans’ Administration” in two places.
+<b>1990</b>—Subsec. (a). Pub. L. 101–510 substituted “Department of Veterans Affairs” for “Veterans’ Administration” in two places.
 
-1989—Subsec. (a). Pub. L. 101–189, §645(a)(1), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189, §645(a)(1), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
 Subsec. (b). Pub. L. 101–237, §405(d)(3), inserted reference to section 1685 of title 38.
 
@@ -60,7 +60,7 @@ Section 405(e) of Pub. L. 101–237 provided that: “The amendments made by thi
 
 Amendment by section 422(b)(1) of Pub. L. 101–237 effective Sept. 30, 1990, see section 422(d) of Pub. L. 101–237, set out as a note under section 16131 of this title.
 
-Amendment by section 642(c) of Pub. L. 101–189 applicable with respect to any person who after Sept. 30, 1990, meets the requirements set forth in section 2132(a)(1)(A) or (B) \[16132(a)(1)(A), (B)\] of this title, see section 642(d) of Pub. L. 101–189, set out as a note under section 16131 of this title.
+Amendment by section 642(c) of Pub. L. 101–189 applicable with respect to any person who after Sept. 30,1990, meets the requirements set forth in section 2132(a)(1)(A) or (B) \[16132(a)(1)(A), (B)\] of this title, see section 642(d) of Pub. L. 101–189, set out as a note under section 16131 of this title.
 
 #### Effective Date
 
@@ -68,5 +68,5 @@ Section effective July 1, 1985, applicable only to members of the Armed Forces w
 
 #### Savings Provision
 
-Section 313(b) of Pub. L. 102–568 provided that: “The amendments made by paragraphs (2) through (6) of subsection (a) of this section \[enacting section 3680A of Title 38, Veterans’ Benefits, amending this section and sections 3034 and 3241 of Title 38, and repealing section 3473 of Title 38\] shall not apply to any person receiving educational assistance for pursuit of an independent study program in which the person was enrolled on the date of enactment of this section \[Oct. 29, 1992\] for aslong as such person is continuously thereafter so enrolled and meets the requirements of eligibility for such assistance for the pursuit of such program under title 38, United States Code, or title 10, United States Code, in effect on that date.”
+Section 313(b) of Pub. L. 102–568 provided that: “The amendments made by paragraphs (2) through (6) of subsection (a) of this section \[enacting section 3680A of Title 38, Veterans’ Benefits, amending this section and sections 3034 and 3241 of Title 38, and repealing section 3473 of Title 38\] shall not apply to any person receiving educational assistance for pursuit of an independent study program in which the person was enrolled on the date of enactment of this section \[Oct. 29, 1992\] for as long as such person is continuously thereafter so enrolled and meets the requirements of eligibility for such assistance for the pursuit of such program under title 38, United States Code, or title 10, United States Code, in effect on that date.”
 

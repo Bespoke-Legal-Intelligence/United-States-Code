@@ -26,7 +26,7 @@ The Secretary shall direct the Director of the Office of Counternarcotics Enforc
 
 &emsp;(2) to ensure the adequacy of resources within the Department for stopping the entry of illegal drugs into the United States;
 
-&emsp;(3) to recommend the appropriate financial and personnel resources necessary to help the Department better fulfill its responsibility to stop the entry of illegal drugs into the United States;
+&emsp;(3) to recommend the appropriate financial and personnel resources necessary to help theDepartment better fulfill its responsibility to stop the entry of illegal drugs into the United States;
 
 &emsp;(4) within the Joint Terrorism Task Force construct to track and sever connections between illegal drug trafficking and terrorism; and
 

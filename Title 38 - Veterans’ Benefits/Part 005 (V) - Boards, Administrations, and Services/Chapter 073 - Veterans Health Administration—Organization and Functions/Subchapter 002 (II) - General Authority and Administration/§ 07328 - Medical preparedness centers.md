@@ -82,7 +82,7 @@ The text of subsecs. (a) to (h) of this section consists of the text of section 
 
 #### Amendments
 
-2008—Subsec. (i)(2). Pub. L. 110–387 substituted “medical services account” for “medical care account”.
+<b>2008</b>—Subsec. (i)(2). Pub. L. 110–387 substituted “medical services account” for “medical care account”.
 
 #### Transfer of Functions
 

@@ -20,7 +20,7 @@ Regulations.—The Secretary of Defense, and the Secretary of Homeland Security 
 
 Military Law Enforcement Official.—In this section, the term “military law enforcement official” means a person authorized under regulations governing the armed forces to apprehend persons subject to the Uniform Code of Military Justice (chapter 47 of this title) or to trial thereunder.
 
-(Added Pub. L. 103–160, div. A, title V, §551(a)(1), Nov. 30, 1993, 107 Stat. 1661; amended Pub. L.103–337, div. A, title X, §1070(a)(4), (b)(3), Oct. 5, 1994, 108 Stat. 2855, 2856; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 103–160, div. A, title V, §551(a)(1), Nov. 30, 1993, 107 Stat. 1661; amended Pub. L. 103–337, div. A, title X, §1070(a)(4), (b)(3), Oct. 5, 1994, 108 Stat. 2855, 2856; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Codification
 
@@ -28,9 +28,9 @@ Other sections 1058 were renumbered sections 1059 and 1060 of this title.
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1994—Pub. L. 103–337, §1070(b)(3), made technical correction to directory language of Pub. L. 103–160, §551(a)(1), which enacted this section.
+<b>1994</b>—Pub. L. 103–337, §1070(b)(3), made technical correction to directory language of Pub. L. 103–160, §551(a)(1), which enacted this section.
 
 Subsec. (d). Pub. L. 103–337, §1070(a)(4), substituted “subject to the Uniform Code of Military Justice (chapter 47 of this title)” for “subject to this chapter”.
 

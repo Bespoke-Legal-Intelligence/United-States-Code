@@ -18,9 +18,9 @@ Amendment by Pub. L. 104–99 is based on section 107(1) of H.R. 2099, One Hundr
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–99 inserted “, and for the reimbursement of administrative costs under subsection (c)” after “unearned premiums”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–99 inserted “, and for the reimbursement of administrative costs under subsection (c)” after “unearned premiums”.
 
 Subsec. (c). Pub. L. 104–99 added subsec. (c).
 
-1991—Pub. L. 102–83 renumbered section 720 of this title as this section and substituted “Secretary” for “Administrator” in two places.
+<b>1991</b>—Pub. L. 102–83 renumbered section 720 of this title as this section and substituted “Secretary” for “Administrator” in two places.
 

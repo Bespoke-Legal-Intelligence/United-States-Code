@@ -1,6 +1,6 @@
 ### §14706. Computation of total years of service
 
-(a) For the purpose of this chapter and chapter 1407 of this title, a Reserve officer's years ofservice include all service of the officer as a commissioned officer of a uniformed service other than the following:
+(a) For the purpose of this chapter and chapter 1407 of this title, a Reserve officer's years of service include all service of the officer as a commissioned officer of a uniformed service other than the following:
 
 &emsp;(1) Service as a warrant officer.
 
@@ -20,5 +20,5 @@ Provisions similar to those in this section were contained in sections 3853 and 
 
 #### Amendments
 
-1999—Pub. L. 106–65 amended text generally. Prior to amendment, text read as follows: “For the purpose of this chapter and chapter 1407 of this title, a reserve officer's years of service include all service, other than constructive service, of the officer as a commissioned officer of any uniformed service (other than service as a warrant officer).”
+<b>1999</b>—Pub. L. 106–65 amended text generally. Prior to amendment, text read as follows: “For the purpose of this chapter and chapter 1407 of this title, a reserve officer's years of service include all service, other than constructive service, of the officer as a commissioned officer of any uniformed service (other than service as a warrant officer).”
 

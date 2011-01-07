@@ -6,15 +6,21 @@ The Secretary shall conduct, through the Office of Science, programs of research
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary to carry out research, development,demonstration, and commercial application activities of the Office of Science, including activities authorized under this part (including the amounts authorized under the amendment made by section 976(b) <sup>1</sup> and including basic energy sciences, advanced scientific and computing research, biological and environmental research, fusion energy sciences, high energy physics, nuclear physics, research analysis, and infrastructure support)—
+There are authorized to be appropriated to the Secretary to carry out research, development, demonstration, and commercial application activities of the Office of Science, including activities authorized under this part (including the amounts authorized under the amendment made by section 976(b) <sup>1</sup> and including basic energy sciences, advanced scientific and computing research, biological and environmental research, fusion energy sciences, high energy physics, nuclear physics, research analysis, and infrastructure support)—
 
 &emsp;(1) $4,153,000,000 for fiscal year 2007;
 
 &emsp;(2) $4,586,000,000 for fiscal year 2008;
 
-&emsp;(3) $5,200,000,000 for fiscal year 2009; and
+&emsp;(3) $5,200,000,000 for fiscal year 2009;
 
-&emsp;(4) $5,814,000,000 for fiscal year 2010.
+&emsp;(4) $5,814,000,000 for fiscal year 2010;
+
+&emsp;(5) $5,247,000,000 for fiscal year 2011;
+
+&emsp;(6) $5,614,000,000 for fiscal year 2012; and
+
+&emsp;(7) $6,007,000,000 for fiscal year 2013.
 
 #### (c) Allocations
 
@@ -62,7 +68,7 @@ From amounts authorized under subsection (b), the following sums are authorized:
 
 In addition to amounts otherwise authorized by this section, there are authorized to be appropriated to the Secretary for integrated bioenergy research and development programs, projects, and activities, $49,000,000 for each of the fiscal years 2005 through 2009. Activities funded under this subsection shall be coordinated with ongoing related programs of other Federal agencies, including the Plant Genome Program of the National Science Foundation. Of the funds authorized under this subsection, at least $5,000,000 for each fiscal year shall be for training and education targeted to minority and socially disadvantaged farmers and ranchers.
 
-(Pub. L. 109–58, title IX, §971, Aug. 8, 2005, 119 Stat. 898; Pub. L. 110–69, title V, §5007, Aug. 9, 2007, 121 Stat. 617.)
+(Pub. L. 109–58, title IX, §971, Aug. 8, 2005, 119 Stat. 898; Pub. L. 110–69, title V, §5007, Aug. 9, 2007, 121 Stat. 617; Pub. L. 111–358, title IX, §903, Jan. 4, 2011, 124 Stat. 4045.)
 
 #### References in Text
 
@@ -72,7 +78,9 @@ Section 976, referred to in subsecs. (b) and (c)(6), is section 976 of Pub. L. 1
 
 #### Amendments
 
-2007—Subsec. (b)(4). Pub. L. 110–69 added par. (4).
+<b>2011</b>—Subsec. (b)(5) to (7). Pub. L. 111–358 added pars. (5) to (7).
+
+<b>2007</b>—Subsec. (b)(4). Pub. L. 110–69 added par. (4).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

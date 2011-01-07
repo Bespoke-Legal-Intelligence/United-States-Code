@@ -2,13 +2,13 @@
 
 (a)
 
-Establishment Authorized.—(1) To increase the number of nurses in the armed forces, the Secretary of Defense may enter into an agreement with one or more academic institutions to establish and operate an undergraduate program (in this section referred to as a “undergraduate nurse training program”) under which participants will earn a nursing degree and serve as a member of the armed forces.
+Establishment Authorized.—(1) To increase the number of nurses in the armed forces, the Secretary of Defense may enter into an agreement with one or more academic institutions to establish and operate an undergraduate program (in this section referred to as a “undergraduate nurse training program”) under which participants will earn a bachelor of science degree in nursing and serve as a member of the armed forces.
 
 (2) The Secretary of Defense may authorize the participation of members of the other uniformed services in the undergraduate nurse training program if the Secretary of Defense and the Secretary of Health and Human Services jointly determine the participation of such members in the program will facilitate an increase in the number of nurses in the other uniformed services.
 
 (b)
 
-Graduation Rates.—An undergraduate nurse training program shall have the capacity to graduate 25 students with a bachelor of science degree in the first class of the program, 50 in the second class, and 100 annually thereafter.
+Graduation Rates.—An undergraduate nurse training program shall have the capacity to graduate 25 students with a bachelor of science degree in nursing in the first class of the program, 50 in the second class, and 100 annually thereafter.
 
 (c)
 
@@ -20,11 +20,9 @@ Elements.—An undergraduate nurse training program shall have the following ele
 
 (d)
 
-Location of Programs.—An academic institution selected to operate an undergraduate nurse training program shall establish the program at or near a military installation. A military installation at or near which an undergraduate nurse training program is established must—
+Location of Programs.—(1) An academic institution selected to operate an undergraduate nurse training program shall establish the program at or near a military installation that has a military treatment facility designated as a medical center with inpatient capability and multiple graduate medical education programs located on the installation or within reasonable proximity to the installation.
 
-&emsp;(1) be one of the ten largest military installations in the United States, in terms of the number of active duty personnel assigned to the installation and family members residing on or in the vicinity of the installations; and
-
-&emsp;(2) have a military treatment facility with inpatient capability designated as a medical center located on the installation or within 10 miles of the installation.
+(2) Before approving a location as the site of an undergraduate nurse training program, the Secretary of Defense shall conduct an assessment to ensure that the establishment of the program at that location will not adversely impact or displace existing nurse training programs, either conducted by the Department of Defense or by a civilian entity, at the location.
 
 (e)
 
@@ -32,13 +30,25 @@ Limitation on Faculty.—An agreement entered into under subsection (a) shall no
 
 (f)
 
-Military Service Commitment.—The Secretary of Defense shall encourage members of the armed forces to apply to participate in anundergraduate nurse training program. Graduates of the program shall incur a military service obligation in a regular or reserve component, as determined by the Secretary.
+Military Service Commitment.—The Secretary of Defense shall encourage members of the armed forces to apply to participate in an undergraduate nurse training program. Graduates of the program shall incur a military service obligation in a regular or reserve component, as determined by the Secretary.
 
-(Added Pub. L. 111–84, div. A, title V, §525(b)(1), Oct. 28, 2009, 123 Stat. 2286.)
+(Added Pub. L. 111–84, div. A, title V, §525(b)(1), Oct. 28, 2009, 123 Stat. 2286; amended Pub. L. 111–383, div. A, title V, §551(a)–(c), Jan. 7, 2011, 124 Stat. 4219.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (a)(1). Pub. L. 111–383, §551(a), substituted “a bachelor of science degree in nursing” for “a nursing degree”.
+
+Subsec. (b). Pub. L. 111–383, §551(b), inserted “in nursing” after “bachelor of science degree”.
+
+Subsec. (d). Pub. L. 111–383, §551(c), amended subsec. (d) generally. Prior to amendment, text read as follows: “An academic institution selected to operate an undergraduate nurse training program shall establish the program at or near a military installation. A military installation at or near which an undergraduate nurse training program is established must—
+
+&emsp;“(1) be one of the ten largest military installations in the United States, in terms of the number of active duty personnel assigned to the installation and family members residing on or in the vicinity of the installations; and
+
+&emsp;“(2) have a military treatment facility with inpatient capability designated as a medical center located on the installation or within 10 miles of the installation.”
 
 #### Plan and Pilot Program To Establish Undergraduate Nurse Training Program
 
-Pub. L. 111–84, div. A, title V, §525(c)–(f), Oct. 28, 2009, 123 Stat. 2287, 2288, provided that:
+Pub. L. 111–84, div. A, title V, §525(c)–(f), Oct. 28, 2009, 123 Stat. 2287, 2288, as amended by Pub. L. 111–383, div. A, title V, §551(d), Jan. 7, 2011, 124 Stat. 4219, provided that:
 
 “(c)
 
@@ -54,11 +64,11 @@ Pilot program required.—The plan required by subsection (c) shall provide for 
 
 &emsp;“(2)
 
-Implementation and duration.—The pilot program shall begin not later than July 1, 2011, and be of not less than five years in duration.
+Implementation and duration.—The pilot program shall begin not later than December 31, 2011, and be of not less than five years in duration.
 
 &emsp;“(3)
 
-Graduation rates.—The pilot program shall achieve graduation rates at least equal to the rates required for the undergraduate nurse training program authorized by section 2016 of title 10, United States Code, as added by subsection (b).
+Graduation rates.—The goal of the pilot program is to achieve graduation rates at least equal to the rates required for the undergraduate nurse training programs authorized by section 2016 of title 10, United States Code, as added by subsection (b).
 
 &emsp;“(4)
 

@@ -8,7 +8,7 @@ Any officer or employee of the Service authorized under regulations prescribed b
 
 &emsp;(2) to arrest any alien who in his presence or view is entering or attempting to enter the United States in violation of any law or regulation made in pursuance of law regulating the admission, exclusion, expulsion, or removal of aliens, or to arrest any alien in the United States, if he has reason to believe that the alien so arrested is in the United States in violation of any such law or regulation and is likely to escape before a warrant can be obtained for his arrest, but the alien arrested shall be taken without unnecessary delay for examination before an officer of the Service having authority to examine aliens as to their right to enter or remain in the United States;
 
-&emsp;(3) within a reasonable distance from any external boundary of the United States, to board and search for aliens any vessel within the territorial waters of the United States and any railway car, aircraft, conveyance, or vehicle, and within a distance of twenty-five miles from any such external boundary to have access to private lands, but not dwellings, for the purpose of patrolling the border to prevent the illegal entry of aliens into the United States;
+&emsp;(3) within a reasonable distance from any external boundary of the United States, to board and search for aliens any vessel within the territorial waters of the United States and any railway car, aircraft, conveyance, or vehicle, and within a distance of twenty-five miles from any such external boundary to have access to private lands, but not dwellings, forthe purpose of patrolling the border to prevent the illegal entry of aliens into the United States;
 
 &emsp;(4) to make arrests for felonies which have been committed and which are cognizable under any law of the United States regulating the admission, exclusion, expulsion, or removal of aliens, if he has reason to believe that the person so arrested is guilty of such felony and if there is likelihood of the person escaping before a warrant can be obtained for his arrest, but the person arrested shall be taken without unnecessary delay before the nearest available officer empowered to commit persons charged with offenses against the laws of the United States; and
 
@@ -82,7 +82,11 @@ Notwithstanding any other provision of this section other than paragraph (3) of 
 
 An alien described in section 1101(a)(27)(J) of this title who has been battered, abused, neglected, or abandoned, shall not be compelled to contact the alleged abuser (or family member of the alleged abuser) at any stage of applying for special immigrant juvenile status, including after a request for the consent of the Secretary of Homeland Security under section 1101(a)(27)(J)(iii)(I) of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 9, §287, 66 Stat. 233; Pub. L. 94–550, §7, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 99–570, title I, §1751(d), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–603, title I, §116, Nov. 6, 1986, 100 Stat. 3384; Pub. L. 100–525, §§2(e), 5, Oct. 24, 1988, 102 Stat. 2610, 2615; Pub. L. 101–649, title V, §503(a), (b)(1), Nov. 29, 1990, 104 Stat. 5048, 5049; Pub. L. 102–232, title III, §306(a)(3), Dec. 12,1991, 105 Stat. 1751; Pub. L. 104–208, div. C, title I, §133, title III, §308(d)(4)(L), (e)(1)(M), (g)(5)(A)(i), Sept. 30, 1996, 110 Stat. 3009–563, 3009–618, 3009–619, 3009–623; Pub. L. 109–162, title VIII, §826, Jan. 5, 2006, 119 Stat. 3065; Pub. L. 109–271, §6(g), Aug. 12, 2006, 120 Stat. 763.)
+(June 27, 1952, ch. 477, title II, ch. 9, §287, 66 Stat. 233; Pub. L. 94–550, §7, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 99–570, title I, §1751(d), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–603, title I, §116, Nov. 6, 1986, 100 Stat. 3384; Pub. L. 100–525, §§2(e), 5, Oct. 24, 1988, 102 Stat. 2610, 2615; Pub. L. 101–649, title V, §503(a), (b)(1), Nov. 29, 1990, 104 Stat. 5048, 5049; Pub. L. 102–232, title III, §306(a)(3), Dec. 12, 1991, 105 Stat. 1751; Pub. L. 104–208, div. C, title I, §133, title III, §308(d)(4)(L), (e)(1)(M), (g)(5)(A)(i), Sept. 30, 1996, 110 Stat. 3009–563, 3009–618, 3009–619, 3009–623; Pub. L. 109–162, title VIII, §826, Jan. 5, 2006, 119 Stat. 3065; Pub. L. 109–271, §6(g), Aug. 12, 2006, 120 Stat. 763.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (b) and (c), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 
@@ -102,7 +106,7 @@ Pub. L. 104–208, §133, added subsec. (g).
 
 1991—Subsec. (a)(4). Pub. L. 102–232 substituted a semicolon for comma at end.
 
-1990—Subsec. (a). Pub. L. 101–649, §503(a), struck out “and” at end of par. (3), substituted “United States, and” for “United States. Any such employee shall also have the power to execute any warrant or other process issued by any officer under any law regulating the admission, exclusion, or expulsion of aliens.” at end of par. (4), and added par. (5) and concluding provisions.
+1990—Subsec. (a). Pub. L. 101–649, §503(a), struck out “and” at end of par. (3), substituted “United States, and” for “United States. Any such employee shall alsohave the power to execute any warrant or other process issued by any officer under any law regulating the admission, exclusion, or expulsion of aliens.” at end of par. (4), and added par. (5) and concluding provisions.
 
 Subsec. (f). Pub. L. 101–649, §503(b)(1), added subsec. (f).
 

@@ -76,13 +76,13 @@ The Controlled Substances Act, referred to in subsec. (c)(4), is title II of Pub
 
 #### Amendments
 
-2008—Subsec. (b)(6). Pub. L. 110–326 added par. (6).
+<b>2008</b>—Subsec. (b)(6). Pub. L. 110–326 added par. (6).
 
-2005—Subsec. (a)(1)(A). Pub. L. 109–59 inserted “5124,” before “46312,”.
+<b>2005</b>—Subsec. (a)(1)(A). Pub. L. 109–59 inserted “5124,” before “46312,”.
 
-2000—Subsec. (c)(2)(B). Pub. L. 106–310 inserted “which may be” after “fine”.
+<b>2000</b>—Subsec. (c)(2)(B). Pub. L. 106–310 inserted “which may be” after “fine”.
 
-1996—Subsec. (a)(1). Pub. L. 104–132, §205(a)(1)(A)–(E), substituted “(a)(1)(A) The court” for “(a)(1) The court”, inserted “, section 401, 408(a), 409, 416, 420, or 422(a) of the Controlled Substances Act (21 U.S.C. 841, 848(a), 849, 856, 861, 863) (but in no case shall a participant in an offense under such sections be considered a victim of such offense under this section),” before “or section 46312,”, “other than an offense described in section 3663A(c),” after “title 49”, and “, or if the victim is deceased, to the victim's estate” before period at end, and added subpar. (B).
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–132, §205(a)(1)(A)–(E), substituted “(a)(1)(A) The court” for “(a)(1) The court”, inserted “, section 401, 408(a), 409, 416, 420, or 422(a) of the Controlled Substances Act (21 U.S.C. 841, 848(a), 849, 856, 861, 863) (but in no case shall a participant in an offense under such sections be considered a victim of such offense under this section),” before “or section 46312,”, “other than an offense described in section 3663A(c),” after “title 49”, and “, or if the victim is deceased, to the victim's estate” before period at end, and added subpar. (B).
 
 Subsec. (a)(1)(A). Pub. L. 104–294, §601(r)(1), inserted at end “The court may also order, if agreed to by the parties in a plea agreement, restitution to persons other than the victim of the offense.”
 
@@ -96,7 +96,7 @@ Subsec. (d). Pub. L. 104–132, §205(a)(2), (3), added subsec. (d) and struck o
 
 Subsecs. (e) to (i). Pub. L. 104–132, §205(a)(2), struck out subsecs. (e) to (i), relating to provisions for restitution to persons who had compensated victims for their loss as well as offsets for restitution received by victims against amounts later recovered as compensatory damages, court orders that defendant make restitution in specified time period or in specified installments, payment of restitution as condition of probation or of supervised release, enforcement of restitution orders by United States or by victim, and supervision, termination, or restoration of eligibility for Federal benefits of persons delinquent in making restitution, respectively.
 
-1994—Subsec. (a)(1). Pub. L. 103–272 substituted “section 46312, 46502, or 46504 of title 49” for “under subsection (h), (i), (j), or (n) of section 902 of the Federal Aviation Act of 1958 (49 U.S.C. 1472)”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–272 substituted “section 46312, 46502, or 46504 of title 49” for “under subsection (h), (i), (j), or (n) of section 902 of the Federal Aviation Act of 1958 (49 U.S.C. 1472)”.
 
 Subsec. (b)(2). Pub. L. 103–322, §40504(1), in introductory provisions, inserted “including an offense under chapter 109A or chapter 110” after “victim”.
 
@@ -104,17 +104,17 @@ Subsec. (b)(3) to (5). Pub. L. 103–322, §40504(2)–(4), struck out “and”
 
 Subsec. (i). Pub. L. 103–322, §40505, added subsec. (i).
 
-1990—Subsec. (a). Pub. L. 101–647, §2509, designated existing provisions as par. (1) and added pars. (2) and (3).
+<b>1990</b>—Subsec. (a). Pub. L. 101–647, §2509, designated existing provisions as par. (1) and added pars. (2) and (3).
 
 Subsec. (f)(4). Pub. L. 101–647, §3595, substituted “604(a)(18)” for “604(a)(17)”.
 
-1988—Subsec. (h). Pub. L. 100–690 amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “An order of restitution may be enforced by the United States in the manner provided in sections 3812 and 3813 or in the same manner as a judgment in a civil action, and by the victim named in the order to receive the restitution in the same manner as a judgment in a civil action.”
+<b>1988</b>—Subsec. (h). Pub. L. 100–690 amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “An order of restitution may be enforced by the United States in the manner provided in sections 3812 and 3813 or in the same manner as a judgment in a civil action, and by the victim named in the order to receive the restitution in the same manner as a judgment in a civil action.”
 
-1987—Subsec. (f)(4). Pub. L. 100–185 inserted “or the person designated under section 604(a)(17) of title 28” after “Attorney General”.
+<b>1987</b>—Subsec. (f)(4). Pub. L. 100–185 inserted “or the person designated under section 604(a)(17) of title 28” after “Attorney General”.
 
 Subsec. (g). Pub. L. 100–182 substituted “revoke probation or a term of supervised release,” for “revoke probation,” in two places and inserted “probation or” after “modify the term or conditions of” in two places.
 
-1986—Subsec. (a). Pub. L. 99–646, §20(a), which directed that subsec. (a)(1) be amended by inserting “, in the case of a misdemeanor,” after “in addition to or”, was executed to subsec. (a) to reflect the probable intent of Congress and the prior amendment to subsec. (a) by Pub. L. 99–646, §8(b), below.
+<b>1986</b>—Subsec. (a). Pub. L. 99–646, §20(a), which directed that subsec. (a)(1) be amended by inserting “, in the case of a misdemeanor,” after “in addition to or”, was executed to subsec. (a) to reflect the probable intent of Congress and the prior amendment to subsec. (a) by Pub. L. 99–646, §8(b), below.
 
 Pub. L. 99–646, §8(b), struck out par. (1) designation, and struck out par. (2) which read as follows: “If the court does not order restitution, or orders only partial restitution, under this section, the court shall state on the record the reasons therefor.”
 
@@ -124,7 +124,7 @@ Subsec. (d). Pub. L. 99–646, §77(a), amended subsec. (d) generally. Prior to 
 
 Subsec. (h). Pub. L. 99–646, §78(a), substituted “in the manner provided for the collection of fines and penalties by section 3565 or by a victim” for “or a victim”.
 
-1984—Pub. L. 98–473, §212(a)(1), renumbered section 3579 of this title as this section.
+<b>1984</b>—Pub. L. 98–473, §212(a)(1), renumbered section 3579 of this title as this section.
 
 Subsec. (c). Pub. L. 98–596, §9(1), substituted “court” for “Court” after “If the”.
 

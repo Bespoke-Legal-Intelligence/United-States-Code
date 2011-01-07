@@ -40,7 +40,7 @@ Under regulations prescribed by the Secretary, no part of the earnings and profi
 
 &emsp;&emsp;(D) an election under this paragraph applies to such branch.
 
-> &emsp;An election under this paragraph shall apply to the taxable year for which made and all subsequent taxable years unless revoked with the consent of the Secretary.
+> &emsp;An election under this paragraph shall apply to the taxable year for which made and allsubsequent taxable years unless revoked with the consent of the Secretary.
 
 #### (3) Regulations
 
@@ -68,19 +68,19 @@ The Foreign Corrupt Practices Act of 1977, referred to in subsec. (a), is title 
 
 #### Amendments
 
-1997—Subsec. (e). Pub. L. 105–34 added subsec. (e).
+<b>1997</b>—Subsec. (e). Pub. L. 105–34 added subsec. (e).
 
-1988—Subsec. (d). Pub. L. 100–647 added subsec. (d).
+<b>1988</b>—Subsec. (d). Pub. L. 100–647 added subsec. (d).
 
-1982—Subsec. (a). Pub. L. 97–248 inserted provision that payments referred to in sentence beginning “In determining such earnings and profits” are payments which would be unlawful under the Foreign Corrupt Practices Act of 1977 if the payor were a United States person.
+<b>1982</b>—Subsec. (a). Pub. L. 97–248 inserted provision that payments referred to in sentence beginning “In determining such earnings and profits” are payments which would be unlawful under the Foreign Corrupt Practices Act of 1977 if the payor were a United States person.
 
-1981—Subsec. (a). Pub. L. 97–34 substituted “section 312(k)(4)” for “section 312(k)(3)”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–34 substituted “section 312(k)(4)” for “section 312(k)(3)”.
 
-1976—Subsec. (a). Pub. L. 94–455, §§1065(b), 1901(b)(32)(B)(ii), 1906(b)(13)(A), struck out “or his delegate” after “Secretary”, inserted second sentence, and substituted “312(k)(3)” for “312(m)(3)” after “provided in section”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1065(b), 1901(b)(32)(B)(ii), 1906(b)(13)(A), struck out “or his delegate” after “Secretary”, inserted second sentence, and substituted “312(k)(3)” for “312(m)(3)” after “provided in section”.
 
 Subsecs. (b), (c)(1), (2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” whenever appearing.
 
-1969—Subsec. (a). Pub. L. 91–172 inserted reference to the exception provided for in section 312(m)(3).
+<b>1969</b>—Subsec. (a). Pub. L. 91–172 inserted reference to the exception provided for in section 312(m)(3).
 
 #### Effective Date of 1997 Amendment
 

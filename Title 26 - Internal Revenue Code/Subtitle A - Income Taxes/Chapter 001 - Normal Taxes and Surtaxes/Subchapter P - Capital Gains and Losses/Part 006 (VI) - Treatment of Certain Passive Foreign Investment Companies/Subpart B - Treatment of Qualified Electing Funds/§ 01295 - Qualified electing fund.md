@@ -26,7 +26,7 @@ For purposes of this part, any passive foreign investment company shall be treat
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–647, §6127(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For purposes of this part, the term ‘qualified electing fund’ means any passive foreign investment company if—
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §6127(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For purposes of this part, the term ‘qualified electing fund’ means any passive foreign investment company if—
 
 &emsp;“(1) an election under subsection (b) applies to such company for the taxable year, and
 

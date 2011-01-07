@@ -20,17 +20,17 @@ This chapter, referred to in pars. (3) and (4), was in the original “this Act�
 
 #### Amendments
 
-1994—Pub. L. 103–236 amended section generally. Prior to amendment, section required Secretary of State to establish Office of Foreign Missions in Department of State, provided for Director and Deputy Director of Office, and specified their powers and duties.
+<b>1994</b>—Pub. L. 103–236 amended section generally. Prior to amendment, section required Secretary of State to establish Office of Foreign Missions in Department of State, provided for Director and Deputy Director of Office, and specified their powers and duties.
 
-1990—Subsec. (c)(3), (4). Pub. L. 101–246 added par. (3) and redesignated former par. (3) as (4).
+<b>1990</b>—Subsec. (c)(3), (4). Pub. L. 101–246 added par. (3) and redesignated former par. (3) as (4).
 
-1987—Subsec. (a). Pub. L. 100–204 inserted sentence at end relating to compensation of Director.
+<b>1987</b>—Subsec. (a). Pub. L. 100–204 inserted sentence at end relating to compensation of Director.
 
-1984—Subsec. (a). Pub. L. 98–618, §601(c)(1), struck out requirements that Director be an individual with: minimum of ten years service in the Foreign Service, significant administrative experience, and service in countries wherein the United States has had significant problems in assuring secure and efficient operations of its missions as result of the actions of other countries.
+<b>1984</b>—Subsec. (a). Pub. L. 98–618, §601(c)(1), struck out requirements that Director be an individual with: minimum of ten years service in the Foreign Service, significant administrative experience, and service in countries wherein the United States has had significant problems in assuring secure and efficient operations of its missions as result of the actions of other countries.
 
 Subsec. (b). Pub. L. 98–618, §601(c)(2), substituted requirement of prior complementary service of the Director and Deputy Director in the Foreign Service and the Intelligence Community for requirement that Deputy Director must have served in the Intelligence Community.
 
-1983—Subsec. (a). Pub. L. 98–164, §604(a), inserted provisions respecting rank, and experience required of the Director, and substituted provision requiring appointment by the President by and with the advice and consent of the Senate, for provision requiring appointment by the Secretary.
+<b>1983</b>—Subsec. (a). Pub. L. 98–164, §604(a), inserted provisions respecting rank, and experience required of the Director, and substituted provision requiring appointment by the President by and with the advice and consent of the Senate, for provision requiring appointment by the Secretary.
 
 Subsecs. (b), (c). Pub. L. 98–164, §604(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 

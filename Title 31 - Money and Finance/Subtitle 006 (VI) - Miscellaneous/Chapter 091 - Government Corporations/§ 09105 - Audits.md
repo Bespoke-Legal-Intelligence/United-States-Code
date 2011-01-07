@@ -96,17 +96,17 @@ The Inspector General Act of 1978, referred to in subsec. (a)(1), is Pub. L. 95�
 
 #### Amendments
 
-1993—Subsec. (a)(1). Pub. L. 103–82 inserted “, or under other Federal law,” before “or by an independent”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–82 inserted “, or under other Federal law,” before “or by an independent”.
 
-1990—Pub. L. 101–576 amended section generally. Prior to amendment, section required Comptroller General to audit financial transactions of Government corporations at least once every 3 years, the Federal Savings and Loan Insurance Corporation and Federal home loan banks each year, the Federal Asset Disposition Association and the Federal Agricultural Mortgage Corporation as necessary; suggested that Comptroller General in conducting an audit use reports of examinations of Government corporation by supervising administrative agency and authorized Comptroller General to contract for professional services; required audits to be conducted consistent with principles and procedures applicable to commercial corporate transactions; set forth responsibility for payment of audit cost, and authorized appropriations.
+<b>1990</b>—Pub. L. 101–576 amended section generally. Prior to amendment, section required Comptroller General to audit financial transactions of Government corporations at least once every 3 years, the Federal Savings and Loan Insurance Corporation and Federal home loan banks each year, the Federal Asset Disposition Association and the Federal Agricultural Mortgage Corporation as necessary; suggested that Comptroller General in conducting an audit use reports of examinations of Government corporation by supervising administrative agency and authorized Comptroller General to contract for professional services; required audits to be conducted consistent with principles and procedures applicable to commercial corporate transactions; set forth responsibility for payment of audit cost, and authorized appropriations.
 
-1989—Subsec. (a)(2). Pub. L. 101–73 struck out “Federal Savings and Loan Insurance Corporation and” after “The Comptroller General shall audit the” and inserted sentence at end requiring the Comptroller General to audit the Resolution Funding Corporation annually.
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–73 struck out “Federal Savings and Loan Insurance Corporation and” after “The Comptroller General shall audit the” and inserted sentence at end requiring the Comptroller General to audit the Resolution Funding Corporation annually.
 
-1988—Subsec. (a)(4). Pub. L. 100–399 substituted “Corporation” for “Association” in subpar. (B)(i).
+<b>1988</b>—Subsec. (a)(4). Pub. L. 100–399 substituted “Corporation” for “Association” in subpar. (B)(i).
 
 Pub. L. 100–233 added par. (4).
 
-1987—Subsec. (a)(3). Pub. L. 100–86 added par. (3).
+<b>1987</b>—Subsec. (a)(3). Pub. L. 100–86 added par. (3).
 
 #### Change of Name
 

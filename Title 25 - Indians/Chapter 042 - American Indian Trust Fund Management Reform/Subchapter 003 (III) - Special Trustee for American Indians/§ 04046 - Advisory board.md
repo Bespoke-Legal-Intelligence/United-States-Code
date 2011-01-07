@@ -32,7 +32,7 @@ The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–
 
 #### Amendments
 
-1996—Subsec. (d). Pub. L. 104–109 substituted “advisory board” for “Advisory Board”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–109 substituted “advisory board” for “Advisory Board”.
 
 #### Appointment of New Members
 

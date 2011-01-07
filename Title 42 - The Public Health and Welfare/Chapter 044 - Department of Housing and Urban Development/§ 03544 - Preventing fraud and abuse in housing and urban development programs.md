@@ -26,7 +26,7 @@ As a condition of initial or continuing eligibility for participation in any pro
 
 &emsp;(1) sign a consent form approved by the Secretary authorizing the Secretary, the public housing agency, or the owner responsible for determining eligibility for or level of benefits to request current or previous employers to verify salary and wage information pertinent to the applicant's or participant's eligibility or level of benefits;
 
-&emsp;(2) sign a consent form approved by the Secretary authorizing the Secretary or the public housing agency responsible for determining eligibility or level of benefits to request a State agency charged with the administration of the State unemployment law to release wage information with respect to such applicant or participant or information regarding whether such applicant or participant is receiving, has received, or has made application for, unemployment compensation, and theamount of any such compensation being received (or to be received) by such applicant or participant;
+&emsp;(2) sign a consent form approved by the Secretary authorizing the Secretary or the public housing agency responsible for determining eligibility or level of benefits to request a State agency charged with the administrationof the State unemployment law to release wage information with respect to such applicant or participant or information regarding whether such applicant or participant is receiving, has received, or has made application for, unemployment compensation, and the amount of any such compensation being received (or to be received) by such applicant or participant;
 
 &emsp;(3) sign a consent form approved by the Secretary authorizing the Secretary to request the Commissioner of Social Security and the Secretary of the Treasury to release information pursuant to section 6103(<i>l</i>)(7)(D)(ix) of title 26 with respect to such applicant or participant for the sole purpose of the Secretary verifying income information pertinent to the applicant's or participant's eligibility or level of benefits; and
 
@@ -60,7 +60,7 @@ As a condition of initial or continuing eligibility for participation in any pro
 
 &emsp;(A) Any person who knowingly and willfully requests or obtains any information concerning an applicant or participant pursuant to the authority contained in section 503(i) of this title, section 3(d)(1) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(d)(1)\], or section 6103(<i>l</i>)(7)(D)(ix) of title 26 without consent or agreement, as applicable, pursuant to subsection (b) of this section or under false pretenses, or any person who knowingly and willfully discloses any such information in any manner to any individual not entitled under any law to receive it, shall be guilty of a misdemeanor and fined not more than $5,000. The term “person” as used in this paragraph shall include an officer or employee of the Department of Housing and Urban Development, an officer or employee of any public housing agency, and any owner responsible for determining eligibility for or level of benefits (or employee thereof).
 
-&emsp;(B) Any applicant or participant affected by (i) a negligent or knowing disclosure of information referred to in this section, section 503(i) of this title, section 3(d)(1) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(d)(1)\], or section 6103(<i>l</i>)(7)(D)(ix) of title 26 about such person by an officer or employee of any public housing agency or owner (or employee thereof), which disclosure is not authorized by this section, such section 503(i), such section 3(d)(1) \[42 U.S.C. 1437a(d)(1)\], such section 6103(<i>l</i>)(7)(D)(ix), or any regulation implementing this section, such section 503(i), such section 3(d)(1) \[42 U.S.C. 1437a(d)(1)\], or such section 6103(<i>l</i>)(7)(D)(ix), or for which consent, pursuant to subsection (b) of this section, has not been granted, or (ii) any other negligent or knowing action that is inconsistent with this section, such section 503(i), such section 3(d)(1) \[42 U.S.C. 1437a(d)(1)\], such section 6103(<i>l</i>)(7)(D)(ix), or any such implementing regulation may bring a civil action for damages and such other relief as may be appropriate against any officer or employee of anypublic housing agency or owner (or employee thereof) responsible for any such unauthorized action. The district court of the United States in the district in which the affected applicant or participant resides, in which such unauthorized action occurred, or in which the applicant or participant alleged to be responsible for any such unauthorized action resides, shall have jurisdiction in such matters. Appropriate relief that may be ordered by such district courts shall include reasonable attorney's fees and other litigation costs.
+&emsp;(B) Any applicant or participant affected by (i) a negligent or knowing disclosure of information referred to in this section, section 503(i) of this title, section 3(d)(1) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(d)(1)\], or section 6103(<i>l</i>)(7)(D)(ix) of title 26 about such person by an officer or employee of any public housing agency or owner (or employee thereof), which disclosure is not authorized by this section, such section 503(i), such section 3(d)(1) \[42 U.S.C. 1437a(d)(1)\], such section 6103(<i>l</i>)(7)(D)(ix), or any regulation implementing this section, such section 503(i), such section 3(d)(1) \[42 U.S.C. 1437a(d)(1)\], or such section 6103(<i>l</i>)(7)(D)(ix), or for which consent, pursuant to subsection (b) of this section, has not been granted, or (ii) any other negligent or knowing action that is inconsistent with this section, such section 503(i), such section 3(d)(1) \[42 U.S.C. 1437a(d)(1)\], such section 6103(<i>l</i>)(7)(D)(ix), or any such implementing regulation may bring a civil action for damages and such other relief as may be appropriate against any officer or employee of any public housing agency or owner (or employee thereof) responsible for any such unauthorized action. The district court of the United States in the district in which the affected applicant or participant resides, in which such unauthorized action occurred, or in which the applicant or participant alleged to be responsible for any such unauthorized action resides, shall have jurisdiction in such matters. Appropriate relief that may be ordered by such district courts shall include reasonable attorney's fees and other litigation costs.
 
 #### (d) Effective date
 
@@ -100,9 +100,9 @@ Section was enacted as part of the Stewart B. McKinney Homeless Assistance Amend
 
 #### Amendments
 
-1999—Subsec. (b)(4). Pub. L. 106–74 inserted “, or the owner responsible for determining the participant's eligibility or level of benefits,” after “appropriate public housing agency” and substituted “verifying income” for “the public housing agency verifying income”.
+<b>1999</b>—Subsec. (b)(4). Pub. L. 106–74 inserted “, or the owner responsible for determining the participant's eligibility or level of benefits,” after “appropriate public housing agency” and substituted “verifying income” for “the public housing agency verifying income”.
 
-1998—Subsec. (b)(4). Pub. L. 105–276, §508(d)(2)(A), which directed the amendment of subsec. (b) by adding par. (4) at end, was executed by adding par. (4) after par. (3), to reflect the probable intent of Congress.
+<b>1998</b>—Subsec. (b)(4). Pub. L. 105–276, §508(d)(2)(A), which directed the amendment of subsec. (b) by adding par. (4) at end, was executed by adding par. (4) after par. (3), to reflect the probable intent of Congress.
 
 Subsec. (c)(2)(A). Pub. L. 105–276, §508(d)(2)(B)(i), in introductory provisions, inserted “, pursuant to section 3(d)(1) of the United States Housing Act of 1937 from the applicant or participant,” after “unemployment compensation law” and “or 3(d)(1)” after “such section 503(i)”.
 
@@ -110,7 +110,7 @@ Subsec. (c)(3)(A). Pub. L. 105–276, §508(d)(2)(B)(ii)(I), (II), in first sent
 
 Subsec. (c)(3)(B). Pub. L. 105–276, §508(d)(2)(B)(ii)(III), (IV), in first sentence, inserted “section 3(d)(1) of the United States Housing Act of 1937,” after “503(i) of this title,” and “such section 3(d)(1),” after “such section 503(i),” wherever appearing.
 
-1993—Subsec. (a)(4). Pub. L. 103–66, §3003(1), added par. (4).
+<b>1993</b>—Subsec. (a)(4). Pub. L. 103–66, §3003(1), added par. (4).
 
 Subsec. (b). Pub. L. 103–66, §3003(2)(D), in concluding provisions, substituted “Except as provided in this subsection, this” for “This”.
 
@@ -126,11 +126,11 @@ Subsec. (c)(2)(B)(i) to (iii). Pub. L. 103–66, §3003(3)(B), substituted “wa
 
 Subsec. (c)(3)(A). Pub. L. 103–66, §3003(4)(A), inserted “or section 6103(<i>l</i>)(7)(D)(ix) of title 26 without consent pursuant to subsection (b) of this section or” after “section 503(i) of this title”.
 
-Subsec. (c)(3)(B)(i). Pub. L. 103–66, §3003(4)(B)(i), added cl. (i) and struck out former cl. (i) which read as follows: “a negligent or knowing disclosure of information referred to in this section or in section 503(i) of this title about such person by an officer or employee of any public housing agency or owner (or employee thereof), which disclosure is not authorized by this section, such section 503(i), or any regulation implementing this section or such section 503(i), or”.
+Subsec. (c)(3)(B)(i). Pub. L. 103–66, §3003(4)(B)(i), added cl. (i) and struck out former cl. (i) which read as follows: “a negligent or knowing disclosure of information referred to in this section or in section 503(i) of thistitle about such person by an officer or employee of any public housing agency or owner (or employee thereof), which disclosure is not authorized by this section, such section 503(i), or any regulation implementing this section or such section 503(i), or”.
 
 Subsec. (c)(3)(B)(ii). Pub. L. 103–66, §3003(4)(B)(ii), inserted “such section 6103(<i>l</i>)(7)(D)(ix),” after “503(i)”.
 
-1992—Subsec. (e). Pub. L. 102–550 added subsec. (e).
+<b>1992</b>—Subsec. (e). Pub. L. 102–550 added subsec. (e).
 
 #### Effective Date of 1998 Amendment
 

@@ -10,5 +10,5 @@
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–273 substituted “under this title” for “not more than $1,000,”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273 substituted “under this title” for “not more than $1,000,”.
 

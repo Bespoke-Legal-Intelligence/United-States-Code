@@ -8,11 +8,7 @@
 
 &emsp;&emsp;&emsp;(i) The date on which the insured ceases to be totally disabled.
 
-&emsp;&emsp;&emsp;(ii) The date that is—
-
-&emsp;&emsp;&emsp;&emsp;(I) two years after the date of separation or release from such active duty or active duty for training, in the case of such a separation or release during the period beginning on the date that is one year before the date of the enactment of <sup>1</sup> Veterans’ Housing Opportunity and Benefits Improvement Act of 2006 and ending on September 30, 2011; and
-
-&emsp;&emsp;&emsp;&emsp;(II) 18 months after the date of separation or release from such active duty or active duty for training, in the case of such a separation or release on or after October 1, 2011.
+&emsp;&emsp;&emsp;(ii) The date that is two years after the date of separation or release from such active duty or active duty for training.
 
 &emsp;&emsp;(B) At the end of the thirty-first day of a continuous period of (i) absence without leave, (ii) confinement by civil authorities under a sentence adjudged by a civilian court, or (iii) confinement by military authorities under a courtmartial sentence involving total forfeiture of pay and allowances. Any insurance so terminated as the result of such an absence or confinement, together with any beneficiary designation in effect for such insurance at such termination thereof, shall be automatically revived as of the date the member is restored to active duty with pay or to active duty for training with pay.
 
@@ -24,11 +20,7 @@
 
 &emsp;&emsp;(A) The date on which the insured ceases to be totally disabled.
 
-&emsp;&emsp;(B) The date that is—
-
-&emsp;&emsp;&emsp;(i) two years after the date of separation or release from such assignment, in the case of such a separation or release during the period beginning on the date that is one year before the date of the enactment of <sup>1</sup> Veterans’ Housing Opportunity and Benefits Improvement Act of 2006 and ending on September 30, 2011; and
-
-&emsp;&emsp;&emsp;(ii) 18 months after the date of separation or release from such assignment, in the case of such a separation or release on or after October 1, 2011.
+&emsp;&emsp;(B) The date that is two years after the date of separation or release from such assignment.
 
 &emsp;(5) With respect to an insurable dependent of the member, insurance under this subchapter shall cease—
 
@@ -38,7 +30,9 @@
 
 &emsp;&emsp;&emsp;(i) 120 days after the date of the member's death;
 
-&emsp;&emsp;&emsp;(ii) the date of termination of the insurance on the member's life under this subchapter; or
+&emsp;&emsp;&emsp;(ii)(I) in the case of a member of the Ready Reserve of a uniformed service who meets the qualifications set forth in subparagraph (B) or (C) of section 1965(5) of this title, 120 days after separation or release from such assignment; or
+
+&emsp;&emsp;&emsp;(II) in the case of any other member of the uniformed services, 120 days after the date of the member's separation or release from the uniformed services; or
 
 &emsp;&emsp;&emsp;(iii) 120 days after the termination of the dependent's status as an insurable dependent of the member.
 
@@ -54,17 +48,27 @@
 
 (B) In the case of a policy purchased under this subchapter for an insurable dependent who is a child, such policy may not be converted under this subsection.
 
-(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 881, §768; amended Pub. L. 91–291, §3, June 25, 1970, 84 Stat. 328; Pub. L. 93–289, §5(a), May 24, 1974, 88 Stat. 166; Pub. L. 97–295, §4(30), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, §701(38), Oct. 28, 1986, 100 Stat. 3293; renumbered §1968 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–337, div. A, title VI, §651(c), title XVI, §1677(d)(1), Oct. 5, 1994, 108 Stat. 2792, 3020; Pub. L. 104–106, div. A, title VI, §647(b), Feb. 10, 1996, 110 Stat. 370; Pub. L. 104–275, title IV, §§402(c), 403(a), 405(b)(1)(B), Oct. 9, 1996, 110 Stat. 3337–3339; Pub. L. 106–65, div. A, title X, §1066(d)(1), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–419, title III, §313(b), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–14, §4(c), (f), June 5, 2001, 115 Stat. 28, 29; Pub. L. 109–233, title III, §301, June 15, 2006, 120 Stat. 405; Pub. L. 110–389, title IV, §403(b), Oct. 10, 2008, 122 Stat. 4174.)
-
-#### References in Text
-
-The date of the enactment of the Veterans’ Housing Opportunity and Benefits Improvement Act of 2006, referred to in subsec. (a)(1)(A)(ii)(I), (4)(B)(i), is the date of enactment of Pub. L. 109–233, which was approved June 15, 2006.
+(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 881, §768; amended Pub. L. 91–291, §3, June 25, 1970, 84 Stat. 328; Pub. L. 93–289, §5(a), May 24, 1974, 88 Stat. 166; Pub. L. 97–295, §4(30), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, §701(38), Oct. 28, 1986, 100 Stat. 3293; renumbered §1968 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–337, div. A, title VI, §651(c), title XVI, §1677(d)(1), Oct. 5, 1994, 108 Stat. 2792, 3020; Pub. L. 104–106, div. A, title VI, §647(b), Feb. 10, 1996, 110 Stat. 370; Pub. L. 104–275, title IV, §§402(c), 403(a), 405(b)(1)(B), Oct. 9, 1996, 110 Stat. 3337–3339; Pub. L. 106–65, div. A, title X, §1066(d)(1), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–419, title III, §313(b), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–14, §4(c), (f), June 5, 2001, 115 Stat. 28, 29; Pub. L. 109–233, title III, §301, June 15, 2006, 120 Stat. 405; Pub. L. 110–389, title IV, §403(b), Oct. 10, 2008, 122 Stat. 4174; Pub. L. 111–275, title IV, §§402(a), 403, Oct. 13, 2010, 124 Stat. 2879.)
 
 #### Amendments
 
-2008—Subsec. (a)(5)(B)(ii). Pub. L. 110–389 struck out “120 days after” before “the date”.
+<b>2010</b>—Subsec. (a)(1)(A)(ii). Pub. L. 111–275, §402(a)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “The date that is—
 
-2006—Subsec. (a)(1). Pub. L. 109–233, §301(a)(2)(A), substituted “shall cease as follows:” for “shall cease—” in introductory provisions.
+&emsp;“(I) two years after the date of separation or release from such active duty or active duty for training, in the case of such a separation or release during the period beginning on the date that is one year before the date of the enactment of Veterans’ Housing Opportunity and Benefits Improvement Act of 2006 and ending on September 30, 2011; and
+
+&emsp;“(II) 18 months after the date of separation or release from such active duty or active duty for training, in the case of such a separation or release on or after October 1, 2011.”
+
+Subsec. (a)(4)(B). Pub. L. 111–275, §402(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “The date that is—
+
+&emsp;“(i) two years after the date of separation or release from such assignment, in the case of such a separation or release during the period beginning on the date that is one year before the date of the enactment of Veterans’ Housing Opportunity and Benefits Improvement Act of 2006 and ending on September 30, 2011; and
+
+&emsp;“(ii) 18 months after the date of separation or release from such assignment, in the case of such a separation or release on or after October 1, 2011.”
+
+Subsec. (a)(5)(B)(ii). Pub. L. 111–275, §403, amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the date of termination of the insurance on the member's life under this subchapter; or”.
+
+<b>2008</b>—Subsec. (a)(5)(B)(ii). Pub. L. 110–389 struck out “120 days after” before “the date”.
+
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–233, §301(a)(2)(A), substituted “shall cease as follows:” for “shall cease—” in introductory provisions.
 
 Subsec. (a)(1)(A). Pub. L. 109–233, §301(a)(1), substantially rewrote subpar. (A). Prior to amendment, subpar. (A) read as follows: “120 days after the separation or release from active duty or active duty for training, unless on the date of such separation or release the member is totally disabled, under criteria established by the Secretary, in which event the insurance shall cease one year after the date of separation or release from such active duty or active duty for training, or on the date the insured ceases to be totally disabled, whichever is the earlier date, but in no event before the end of 120 days after such separation or release; or”.
 
@@ -72,11 +76,11 @@ Subsec. (a)(1)(B). Pub. L. 109–233, §301(a)(2)(B), substituted “At” for �
 
 Subsec. (a)(4). Pub. L. 109–233, §301(b), substantially rewrote par. (4). Prior to amendment, par. (4) read as follows: “With respect to a member of the Ready Reserve of a uniformed service who meets the qualifications set forth in subparagraph (B) or (C) of section 1965(5) of this title, insurance under this subchapter shall cease 120 days after separation or release from such assignment, unless on the date of such separation or release the member is totally disabled, under criteria established by the Secretary, in which event the insurance shall cease one year after the date of separation or release from such assignment, or on the date the insured ceases to be totally disabled, whichever is the earlier date, but in no event before the end of 120 days after separation or release from such assignment.”
 
-2001—Subsec. (a). Pub. L. 107–14, §4(c)(1)(A), (2)(A), in introductory provisions, inserted “and any insurance thereunder on any insurable dependent of such a member,” after “any insurance thereunder on any member of the uniformed services,” and substituted “and such insurance shall cease as follows:” for “, and such insurance shall cease—”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–14, §4(c)(1)(A), (2)(A), in introductory provisions, inserted “and any insurance thereunder on any insurable dependent of such a member,” after “any insurance thereunder on any member of the uniformed services,” and substituted “and such insurance shall cease as follows:” for “, and such insurance shall cease—”.
 
 Subsec. (a)(1). Pub. L. 107–14, §4(c)(2)(B), (C)(i), in introductory provisions, substituted “With respect” for “with respect” and “31 days, insurance under this subchapter shall cease—” for “thirty-one days—”.
 
-Subsec. (a)(1)(A). Pub. L. 107–14, §4(c)(2)(C)(ii), substituted “120 days” for “one hundred and twenty days” and “before the end of 120 days” for “prior to the expiration of one hundred and twenty days”.
+Subsec. (a)(1)(A). Pub. L. 107–14, §4(c)(2)(C)(ii), substituted “120 days” for “one hundred and twenty days”and “before the end of 120 days” for “prior to the expiration of one hundred and twenty days”.
 
 Subsec. (a)(1)(B). Pub. L. 107–14, §4(c)(2)(C)(iii), substituted a period for semicolon at end.
 
@@ -92,11 +96,11 @@ Subsec. (b)(1)(A). Pub. L. 107–14, §4(c)(3), inserted “(to insure against d
 
 Subsec. (b)(3). Pub. L. 107–14, §4(f), added par. (3).
 
-2000—Subsec. (a). Pub. L. 106–419 substituted “subparagraph (B) or (C) of section 1965(5) of this title” for “section 1965(5)(B) of this title” in introductory provisions and par. (4).
+<b>2000</b>—Subsec. (a). Pub. L. 106–419 substituted “subparagraph (B) or (C) of section 1965(5) of this title” for “section 1965(5)(B) of this title” in introductory provisions and par. (4).
 
-1999—Subsec. (a). Pub. L. 106–65 made technical amendment to directory language of Pub. L. 104–106, §647(b). See 1996 Amendment note below.
+<b>1999</b>—Subsec. (a). Pub. L. 106–65 made technical amendment to directory language of Pub. L. 104–106, §647(b). See 1996 Amendment note below.
 
-1996—Subsec. (a). Pub. L. 104–275, §402(c)(1)(A), substituted “section 1965(5)(B)” for “subparagraph (B), (C), or (D) of section 1965(5)” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–275, §402(c)(1)(A), substituted “section 1965(5)(B)” for “subparagraph (B), (C), or (D) of section 1965(5)” in introductory provisions.
 
 Pub. L. 104–106, §647(b), as amended by Pub. L. 106–65, inserted “(or discontinued pursuant to section 1969(a)(2)(B) of this title)” after “upon the written request of the insured” in introductory provisions.
 
@@ -130,7 +134,7 @@ Pub. L. 104–275, §402(c)(2), struck out at end “Servicemen's Group Life Ins
 
 Subsec. (b)(1). Pub. L. 104–275, §405(b)(1)(B), substituted “Servicemembers’ Group” for “Servicemen's Group”.
 
-1994—Subsec. (a). Pub. L. 103–337, §651(c)(1), substituted “subparagraph (B), (C), or (D) of section 1965(5)” for “section 1965(5)(B) or (C)” in introductory provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §651(c)(1), substituted “subparagraph (B), (C), or (D) of section 1965(5)” for “section 1965(5)(B) or (C)” in introductory provisions.
 
 Subsec. (a)(4)(B). Pub. L. 103–337, §1677(d)(1), substituted “chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “chapter 67 of title 10”.
 
@@ -138,7 +142,7 @@ Subsec. (a)(4)(C). Pub. L. 103–337, §651(c)(2), added subpar. (C).
 
 Subsec. (a)(6). Pub. L. 103–337, §651(c)(3), added par. (6).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 768 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 768 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1965(5)(B)” for “765(5)(B)” in two places, “1977(e)” for “777(e)”, “1966(b)” for “766(b)” in two places, and “1965(5)(C)” for “765(5)(C)”.
 
@@ -148,21 +152,25 @@ Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “1967(b) or 1968(a)” f
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-1986—Subsec. (a)(2), (3). Pub. L. 99–576, §701(38)(A), (B), struck out “his” before “death”, and substituted “the member” for “his”.
+<b>1986</b>—Subsec. (a)(2), (3). Pub. L. 99–576, §701(38)(A), (B), struck out “his” before “death”, and substituted “the member” for “his”.
 
 Subsec. (b). Pub. L. 99–576, §701(38)(C), substituted “the” for “he” before “insurance otherwise”.
 
-1982—Subsec. (a)(5). Pub. L. 97–295 substituted “the amendment made by section 5(a) of the Veterans’ Insurance Act of 1974 (Public Law 93–289, 88 Stat. 166)” for “this amendment”.
+<b>1982</b>—Subsec. (a)(5). Pub. L. 97–295 substituted “the amendment made by section 5(a) of the Veterans’ Insurance Act of 1974 (Public Law 93–289, 88 Stat. 166)” for “this amendment”.
 
-1974—Subsec. (a). Pub. L. 93–289, §5(a)(1)–(3), inserted in opening provisions “or while the member meets the qualifications set forth in section 765(5)(B) or (C) of this title,”, substituted “one hundred and twenty days” for “ninety days” wherever appearing in pars. (2) and (3), and added pars. (4) and (5).
+<b>1974</b>—Subsec. (a). Pub. L. 93–289, §5(a)(1)–(3), inserted in opening provisions “or while the member meets the qualifications set forth in section 765(5)(B) or (C) of this title,”, substituted “one hundred and twenty days” for “ninety days” wherever appearing in pars. (2) and (3), and added pars. (4) and (5).
 
 Subsec. (b). Pub. L. 93–289, §5(a)(4), substituted provisions requiring policies of Servicemen's Group Life Insurance to contain a provision automatically converting such policy to Veterans’ Group Life Insurance, for provisions which required such policies to contain a provision for conversion to an individual policy of insurance, and inserted sentences providing for the effective date of automatic conversion, prohibiting conversion of Servicemen's Group Life Insurance continued in force under section 768(a)(4)(B) or (5) of this title, and authorizing conversion by a member whose insurance could be continued in force under section 768(a)(4)(B) of this title, but is not so continued.
 
 Subsec. (c). Pub. L. 93–289, §5(a)(5), repealed subsec. (c) which related to conversion by eligible insured persons to policies written by companies participating in the program established by this subchapter.
 
-1970—Subsec. (a). Pub. L. 91–291 designated existing provisions as subsec. (a) and substituted provisions covering the duration of coverage for provisions covering termination of coverage. For termination and conversion of insurance see subsecs. (b) and (c) of this section.
+<b>1970</b>—Subsec. (a). Pub. L. 91–291 designated existing provisions as subsec. (a) and substituted provisions covering the duration of coverage for provisions covering termination of coverage. For termination and conversion of insurance see subsecs. (b) and (c) of this section.
 
 Subsecs. (b), (c). Pub. L. 91–291 added subsecs. (b) and (c).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–275, title IV, §402(b), Oct. 13, 2010, 124 Stat. 2879, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to a person who is separated or released on or after June 15, 2005.”
 
 #### Effective Date of 2008 Amendment
 
@@ -199,6 +207,4 @@ Section 402(e) of Pub. L. 104–275 provided that: “The Servicemembers’ Grou
 #### Right of Persons Discharged or Released From Uniformed Services To Convert Servicemen's Group Life Insurance to Individual Policies
 
 Section 5(b) of Pub. L. 93–289 provided that the amendments made by Pub. L. 93–289, enacting sections 777, 778, and 779 \[now 1977, 1978, and 1979\] of this title and section 707 of Title 37, Pay and Allowances of the Uniformed Services, and amending sections 723, 765, 767, 768, 769, 770, 771, and 774 \[now 1923, 1965, 1967, 1968, 1969, 1970, 1971, and 1974\] of this title, not be construed to deprive any person discharged or released from the uniformed services of the United States prior to the date on which the Veterans’ Group Life Insurance program (provided for under section 777 \[now 1977\] of this title) became effective of the right to convert Servicemen's Group Life Insurance to an individual policy under the provisions of law in effect prior to such effective date.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “the”.</i>
 

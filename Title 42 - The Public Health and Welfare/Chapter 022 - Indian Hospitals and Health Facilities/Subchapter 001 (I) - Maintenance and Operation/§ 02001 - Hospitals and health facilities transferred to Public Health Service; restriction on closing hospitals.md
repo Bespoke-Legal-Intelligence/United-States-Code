@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1973—Pub. L. 93–222 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1973</b>—Pub. L. 93–222 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date
 

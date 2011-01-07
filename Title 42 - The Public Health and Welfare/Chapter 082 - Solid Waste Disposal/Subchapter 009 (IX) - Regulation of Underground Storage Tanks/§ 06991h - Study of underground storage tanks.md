@@ -38,7 +38,7 @@ Section 6916(g) of this title, referred to in subsec. (f)(3), probably means sec
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–58, §1532(b)(3)(A), substituted “6991(7)(B)” for “6991(2)(B)”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–58, §1532(b)(3)(A), substituted “6991(7)(B)” for “6991(2)(B)”.
 
 Subsec. (d). Pub. L. 109–58, §1532(b)(3)(B), substituted “subparagraphs (A) and (B) of section 6991(10)” for “section 6991(1)(A) and (B)”.
 

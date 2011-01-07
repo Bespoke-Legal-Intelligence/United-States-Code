@@ -44,7 +44,7 @@ Conditions.—The conditions referred to in paragraph (1) are that—
 
 &emsp;&emsp;&emsp;(ii) is consistent with generally accepted industry standard communications protocols; and
 
-&emsp;&emsp;&emsp;(iii) does not extract information from the provider's system or network other than the information that would have been available to the person described in paragraph (1)(A) if the subsequent users had gained access to the material directly from that person;
+&emsp;&emsp;&emsp;(iii) does not extract information from the provider's system or network other than the information that would have been available to the person described in paragraph (1)(A) if the subsequent users hadgained access to the material directly from that person;
 
 &emsp;&emsp;(D) if the person described in paragraph (1)(A) has in effect a condition that a person must meet prior to having access to the material, such as a condition based on payment of a fee or provision of a password or other information, the service provider permits access to the stored material in significant part only to users of its system or network that have met those conditions and only in accordance with those conditions; and
 
@@ -80,7 +80,7 @@ Designated agent.—The limitations on liability established in this subsection 
 
 &emsp;&emsp;(B) other contact information which the Register of Copyrights may deem appropriate.
 
-> &emsp;The Register of Copyrights shall maintain a current directory of agents available to the public for inspection, including through the Internet, in both electronic and hard copy formats, and may require payment of a fee by service providers to cover the costs of maintaining the directory.
+> &emsp;The Register of Copyrights shall maintain a current directory of agents available to the public for inspection, including through the Internet, and may require payment of a fee by service providers to cover the costs of maintaining the directory.
 
 &emsp;(3)
 
@@ -294,9 +294,9 @@ Protection of Privacy.—Nothing in this section shall be construed to condition
 
 (n)
 
-Construction.—Subsections (a), (b), (c), and (d) describe separate and distinct functionsfor purposes of applying this section. Whether a service provider qualifies for the limitation on liability in any one of those subsections shall be based solely on the criteria in that subsection, and shall not affect a determination of whether that service provider qualifies for the limitations on liability under any other such subsection.
+Construction.—Subsections (a), (b), (c), and (d) describe separate and distinct functions for purposes of applying this section. Whether a service provider qualifies for the limitation on liability in any one of those subsections shall be based solely on the criteria in that subsection, and shall not affect a determination of whether that service provider qualifies for the limitations on liability under any other such subsection.
 
-(Added Pub. L. 105–304, title II, §202(a), Oct. 28, 1998, 112 Stat. 2877; amended Pub. L. 106–44, §1(d), Aug. 5, 1999, 113 Stat. 222.)
+(Added Pub. L. 105–304, title II, §202(a), Oct. 28, 1998, 112 Stat. 2877; amended Pub. L. 106–44, §1(d), Aug. 5, 1999, 113 Stat. 222; Pub. L. 111–295, §3(a), Dec. 9, 2010, 124 Stat. 3180.)
 
 #### References in Text
 
@@ -308,7 +308,9 @@ Another section 512 was renumbered section 513 of this title.
 
 #### Amendments
 
-1999—Subsec. (e). Pub. L. 106–44, §1(d)(1)(A), substituted “Limitation on Liability of Nonprofit Educational Institutions” for “Limitation on liability of nonprofit educational institutions” in heading.
+<b>2010</b>—Subsec. (c)(2). Pub. L. 111–295 struck out “, in both electronic and hard copy formats” after “Internet” in concluding provisions.
+
+<b>1999</b>—Subsec. (e). Pub. L. 106–44, §1(d)(1)(A), substituted “Limitation on Liability of Nonprofit Educational Institutions” for “Limitation on liability of nonprofit educational institutions” in heading.
 
 Subsec. (e)(2). Pub. L. 106–44, §1(d)(1)(B), struck out par. heading “Injunctions”.
 

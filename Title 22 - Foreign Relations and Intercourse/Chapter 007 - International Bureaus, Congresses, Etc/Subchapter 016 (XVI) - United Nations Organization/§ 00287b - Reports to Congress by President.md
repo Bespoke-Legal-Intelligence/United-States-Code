@@ -6,7 +6,7 @@ The President shall, from time to time as occasion may require, but not less tha
 
 #### (b) Annual report on financial contributions
 
-Not later than July 1 of each year, the Secretary of State shall submit a report to the designated congressional committees on the extentand disposition of all financial contributions made by the United States during the preceding year to international organizations in which the United States participates as a member.
+Not later than July 1 of each year, the Secretary of State shall submit a report to the designated congressional committees on the extent and disposition of all financial contributions made by the United States during the preceding year to international organizations in which the United States participates as a member.
 
 #### (c) Annual report
 
@@ -78,7 +78,7 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 &emsp;&emsp;(A) With respect to ongoing United Nations peacekeeping operations, the following:
 
-&emsp;&emsp;&emsp;(i) A list of all resolutions of the United Nations Security Council anticipated to bevoted on during such month that would extend or change the mandate of any United Nations peacekeeping operation.
+&emsp;&emsp;&emsp;(i) A list of all resolutions of the United Nations Security Council anticipated to be voted on during such month that would extend or change the mandate of any United Nations peacekeeping operation.
 
 &emsp;&emsp;&emsp;(ii) For each such operation, any changes in the duration, mandate, and command and control arrangements that are anticipated as a result of the adoption of the resolution.
 
@@ -142,7 +142,7 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 #### (B) Annual report
 
-&emsp;&emsp;The President shall submit an annual report to the designated congressional committees on all assistance provided by theUnited States during the preceding calendar year to the United Nations to support peacekeeping operations. Each such report shall describe the assistance provided for each such operation, listed by category of assistance.
+&emsp;&emsp;The President shall submit an annual report to the designated congressional committees on all assistance provided by the United States during the preceding calendar year to the United Nations to support peacekeeping operations. Each such report shall describe the assistance provided for each such operation, listed by category of assistance.
 
 #### (e) Designated congressional committees
 
@@ -166,9 +166,9 @@ Another subsec. (a)(2) of section 724 of Pub. L. 106–113, div. B, §1000(a)(7)
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–228, §405(a)(1), (2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Not later than 3 days (excluding Saturdays, Sundays, and legal holidays) after adoption of any resolution by the Security Council, the Secretary of State shall transmit the text of such resolution and any supporting documentation to the designated congressional committees.”
+<b>2002</b>—Subsec. (b). Pub. L. 107–228, §405(a)(1), (2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Not later than 3 days (excluding Saturdays, Sundays, and legal holidays) after adoption of any resolution by the Security Council, the Secretary of State shall transmit the text of such resolution and any supporting documentation to the designated congressional committees.”
 
-Subsecs. (c), (d). Pub. L. 107–228, §405(a)(1), (4), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out heading and text of former subsec. (c). Text read as follows: “The Secretary of State shall promptly transmit to the designated congressional committees any published report prepared by the United Nations and distributed to the members of the Security Council that contains assessments of any proposed, ongoing, or concluded United Nations peacekeeping operation.”
+Subsecs. (c), (d). Pub. L. 107–228, §405(a)(1), (4), redesignated subsecs. (d) and (e) as (c) and (d), respectively,and struck out heading and text of former subsec. (c). Text read as follows: “The Secretary of State shall promptly transmit to the designated congressional committees any published report prepared by the United Nations and distributed to the members of the Security Council that contains assessments of any proposed, ongoing, or concluded United Nations peacekeeping operation.”
 
 Subsec. (e). Pub. L. 107–228, §405(a)(4), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
@@ -176,11 +176,11 @@ Subsec. (e)(5)(B). Pub. L. 107–228, §405(a)(3), added subpar. (B) and struck 
 
 Subsecs. (f), (g). Pub. L. 107–228, §405(a)(4), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-1999—Subsec. (a). Pub. L. 106–113, §1000(a)(7) \[title VII, §724(a)(1)\], struck out at end “He shall make special current reports on decisions of the Security Council to take enforcement measures under the provisions of the Charter of the United Nations, and on the participation therein under his instructions, of the representative of the United States.”
+<b>1999</b>—Subsec. (a). Pub. L. 106–113, §1000(a)(7) \[title VII, §724(a)(1)\], struck out at end “He shall make special current reports on decisions of the Security Council to take enforcement measures under the provisions of the Charter of the United Nations, and on the participation therein under his instructions, of the representative of the United States.”
 
 Subsecs. (e) to (g). Pub. L. 106–113, §1000(a)(7) \[title VII, §724(a)(2), (b)\], added subsecs. (e) to (g) and struck out heading and text of former subsec. (e). Text read as follows: “As used in this section, the term ‘designated congressional committees’ has the meaning given that term by section 415 of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995.”
 
-1994—Pub. L. 103–236 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (e).
+<b>1994</b>—Pub. L. 103–236 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (e).
 
 #### Change of Name
 

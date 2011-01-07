@@ -22,7 +22,7 @@
 
 &emsp;(D) to construct, acquire, or contract for the use of storage and shipping facilities on and off the reserves and pipelines and associated facilities on and off the reserves for transporting petroleum from such reserves to the points where the production from such reserves will be refined or shipped.
 
-> Any pipeline in the vicinity of a naval petroleum reserve not otherwise operated as a common carrier may be acquired by the Secretary by condemnation, if necessary, if the owner thereof refuses to accept, convey, and transport without discrimination and at reasonable rates any petroleum produced at such reserve. Withthe approval of the Secretary, rights-of-way for new pipelines and associated facilities may be acquired by the exercise of the right of eminent domain in the appropriate United States district court. Such rights-of-way may be acquired in the manner set forth in sections 3114–3116 and 3118 of title 40, and the prospective holder of the right-of-way is “the authority empowered by law to acquire the land” within the meaning of those sections. Such new pipelines shall accept, convey, and transport without discrimination and at reasonable rates any petroleum produced at such reserves as a common carrier.
+> Any pipeline in the vicinity of a naval petroleum reserve not otherwise operated as a common carrier may be acquired by the Secretary by condemnation, if necessary, if the owner thereof refuses to accept, convey, and transport without discrimination and at reasonable rates any petroleum produced at such reserve. With the approval of the Secretary, rights-of-way for new pipelines and associated facilities may be acquired by the exercise of the right of eminent domain in the appropriate United States district court. Such rights-of-way may be acquired in the manner set forth in sections 3114–3116 and 3118 of title 40, and the prospective holder of the right-of-way is “the authority empowered by law to acquire the land” within the meaning of those sections. Such new pipelines shall accept, convey, and transport without discrimination and at reasonable rates any petroleum produced at such reserves as a common carrier.
 
 (2) After April 5, 1982, the President may extend the period of production in the case of any naval petroleum reserve for additional periods of not to exceed three years each—
 
@@ -50,37 +50,37 @@ June 4, 1920, ch. 228 (1st par., 37th through 62d words, and 123d through 185th 
 
 #### Amendments
 
-2003—Subsec. (c)(1). Pub. L. 108–178 substituted “land’ within the meaning of those sections” for “lands’ within the meaning of that Act” in concluding provisions.
+<b>2003</b>—Subsec. (c)(1). Pub. L. 108–178 substituted “land’ within the meaning of those sections” for “lands’ within the meaning of that Act” in concluding provisions.
 
-2002—Subsec. (c)(1). Pub. L. 107–217 substituted “sections 3114–3116 and 3118 of title 40” for “the Act of February 26, 1931 (40 U.S.C. 258a–258e)” in concluding provisions.
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–217 substituted “sections 3114–3116 and 3118 of title 40” for “the Act of February 26, 1931 (40 U.S.C. 258a–258e)” in concluding provisions.
 
-1989—Subsec. (c)(2)(B). Pub. L. 101–189 substituted “180 days before” for “one hundred eighty days prior to”.
+<b>1989</b>—Subsec. (c)(2)(B). Pub. L. 101–189 substituted “180 days before” for “one hundred eighty days prior to”.
 
-1987—Subsec. (c)(1)(B)(ii). Pub. L. 100–202 inserted “(other than natural gas liquids)” after “petroleum”.
+<b>1987</b>—Subsec. (c)(1)(B)(ii). Pub. L. 100–202 inserted “(other than natural gas liquids)” after “petroleum”.
 
-1986—Subsec. (c)(1)(B). Pub. L. 99–413, §1(a)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “to produce such reserves at the maximum efficient rate consistent with sound engineering practices for a period ending not later than April 5, 1982;”.
+<b>1986</b>—Subsec. (c)(1)(B). Pub. L. 99–413, §1(a)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “to produce such reserves at the maximum efficient rate consistent with sound engineering practices for a period ending not later than April 5, 1982;”.
 
 Subsec. (c)(3). Pub. L. 99–413, §1(a)(2), struck out par. (3) which conditioned the production authorization for Naval Petroleum Reserve Numbered 1 upon private owners’ agreements with the Secretary to continue operations of such reserve under a unitized plan contract that protected the public interest.
 
-1984—Subsec. (b). Pub. L. 98–525 struck out “of this section” after “subsection (c)” in provisions preceding par. (1).
+<b>1984</b>—Subsec. (b). Pub. L. 98–525 struck out “of this section” after “subsection (c)” in provisions preceding par. (1).
 
-1980—Subsec. (c)(1). Pub. L. 96–513, §513(31)(A)–(D), in cl. (B) substituted provisions respecting termination on April 5, 1982, for provisions respecting commencement and termination, respectively, ninety days after date of enactment of the Naval Petroleum Reserves Production Act of 1976, and not to exceed six years after such date, in cl. (C) substituted “provided in section 7430 of this title” for “hereinafter provided”, and in text following cl. (D) substituted “discrimination” for “discrimiation”, and “(40 U.S.C. 258a–258e)” for “, chapter 307 (46 Stat. 1421; 40 U.S.C. 258(a))”.
+<b>1980</b>—Subsec. (c)(1). Pub. L. 96–513, §513(31)(A)–(D), in cl. (B) substituted provisions respecting termination on April 5, 1982, for provisions respecting commencement and termination, respectively, ninety days after date of enactment of the Naval Petroleum Reserves Production Act of 1976, and not to exceed six years after such date, in cl. (C) substituted “provided in section 7430 of this title” for “hereinafter provided”, and in text following cl. (D) substituted “discrimination” for “discrimiation”, and “(40 U.S.C. 258a–258e)” for “, chapter 307 (46 Stat. 1421; 40 U.S.C. 258(a))”.
 
 Subsec. (c)(2). Pub. L. 96–513, §513(31)(E), substituted “After April 5, 1982,” for “At the conclusion of the six-year production period authorized by paragraph (1)(B) of this subsection”.
 
 Subsec. (c)(3). Pub. L. 96–513, §513(31)(F), substituted “by July 4, 1976” for “within ninety days after the date of enactment of the Naval Petroleum Reserves Production Act of 1976”.
 
-1979—Subsec. (c)(1). Pub. L. 96–137 struck out in text following subpar. (D), provision requiring that pipelines and associated facilities constructed at or procured for Naval Petroleum Reserve Numbered 1 pursuant to this subsection have adequate capacity to accommodate not less than three hundred fifty thousand barrels of oil per day and be fully operable as soon as possible, but not later than three years after the date of enactment of the Naval Petroleum Reserves Production Act of 1976.
+<b>1979</b>—Subsec. (c)(1). Pub. L. 96–137 struck out in text following subpar. (D), provision requiring that pipelines and associated facilities constructed at or procured for Naval Petroleum Reserve Numbered 1 pursuant to this subsection have adequate capacity to accommodate not less than three hundred fifty thousand barrels of oil per day and be fully operable as soon as possible, but not later than three years after the date of enactment of the Naval Petroleum Reserves Production Act of 1976.
 
-1976—Subsec. (a). Pub. L. 94–258 substituted provisions authorizing the Secretary to explore, etc., the naval petroleum reserves in his discretion, subject to subsec. (c) of this section and this chapter and excepting specified Reserves from leasing arrangements, for provisions authorizing the Secretary of the Navy, except as provided in section 7438 hereof, to explore, etc., the naval petroleum preserves and oil shale reserves in his discretion, subject to Presidential approval.
+<b>1976</b>—Subsec. (a). Pub. L. 94–258 substituted provisions authorizing the Secretary to explore, etc., the naval petroleum reserves in his discretion, subject to subsec. (c) of this section and this chapter and excepting specified Reserves from leasing arrangements, for provisions authorizing the Secretary of the Navy, except as provided in section 7438 hereof, to explore, etc., the naval petroleum preserves and oil shale reserves in his discretion, subject to Presidential approval.
 
 Subsec. (b). Pub. L. 94–258 in introductory cl. substituted provisions authorizing use and operation of naval petroleum reserves except as otherwise provided in this chapter and in particular subsec. (c) of this section, for provisions authorizing use and operation of naval petroleum and oil shale reserves and lands outside naval petroleum reserve numbered 1 covered by contracts under section 7426 of this title and in cl. (2) struck out reference to gas, oil shale and products thereof.
 
 Subsec. (c). Pub. L. 94–258 substituted provisions setting forth manner of administration by Secretary of Naval Petroleum Reserves Numbered 1, 2, and 3, authorizing President to extend period of production of any naval petroleum reserve, and conditioning production authorization for Reserve Numbered 1, for provisions authorizing the Secretary to develop naval petroleum reserve numbered 4, South Barrow gas field, and to supply gas to government installations at or near Point Barrow and to the native village of Barrow.
 
-1962—Subsec. (a). Pub. L. 87–796 substituted “Except as otherwise provided in section 7438 hereof, the Secretary” for “The Secretary”, and included oil shale reserves.
+<b>1962</b>—Subsec. (a). Pub. L. 87–796 substituted “Except as otherwise provided in section 7438 hereof, the Secretary” for “The Secretary”, and included oil shale reserves.
 
-Subsec. (b). Pub. L. 87–796 included oil shale reserves in the opening provisions, and substituted “petroleum,gas, oil shale and products thereof whenever” for “petroleum whenever” in cl. (2).
+Subsec. (b). Pub. L. 87–796 included oil shale reserves in the opening provisions, and substituted “petroleum, gas, oil shale and products thereof whenever” for “petroleum whenever” in cl. (2).
 
 Subsec. (c). Pub. L. 87–599 added subsec. (c).
 

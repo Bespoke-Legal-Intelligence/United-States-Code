@@ -38,7 +38,7 @@
 
 #### (1) For States
 
-&emsp;Each State educational agency receiving a grant under subpart 1 of this part shall hold eligible entities receiving a subgrant under such subpart accountable for meeting the annual measurable achievement objectives under subsection (a) of this section, including making adequate yearly progress for limited English proficient children.
+&emsp;Each State educational agency receiving a grant under subpart 1 of this part shall holdeligible entities receiving a subgrant under such subpart accountable for meeting the annual measurable achievement objectives under subsection (a) of this section, including making adequate yearly progress for limited English proficient children.
 
 #### (2) Improvement plan
 

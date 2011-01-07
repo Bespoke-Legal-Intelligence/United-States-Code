@@ -18,11 +18,11 @@ Engraving and printing for other governments.—The Secretary of the Treasury ma
 
 &emsp;(3)
 
-Procurement guidelines.—Articles, material, and supplies procured for use in the production of currency, postage stamps, and other security documents for foreign governments pursuant to paragraph (2) shall be treated in the same manner as articles, material, and supplies procured for public use within the United States for purposes of title III of the Act of March 3, 1933 (41 U.S.C. 10a et seq.; commonly referred to as the Buy American Act).
+Procurement guidelines.—Articles, material, and supplies procured for use in the production of currency, postage stamps, and other security documents for foreign governments pursuant to paragraph (2) shall be treated in the same manner as articles, material, and supplies procured for public use within the United States for purposes of title III of the Act of March 3, 1933 (41 U.S.C. 10a et seq.; commonly referred to as the Buy American Act).<sup>1</sup>
 
 (b) United States currency has the inscription “In God We Trust” in a place the Secretary decides is appropriate. Only the portrait of a deceased individual may appear on United States currency and securities. The name of the individual shall be inscribed below the portrait.
 
-(c) The Secretary may make a contract for a period of not more than 4 years to manufacturedistinctive paper for United States currency and securities. To promote competition among manufacturers of the distinctive paper, the Secretary may split the award for the manufacture of the paper between the 2 bidders with the lowest prices a pound. When the Secretary decides that it is necessary to operate more than one mill to manufacture distinctive paper, the Secretary may—
+(c) The Secretary may make a contract for a period of not more than 4 years to manufacture distinctive paper for United States currency and securities. To promote competition among manufacturers of the distinctive paper, the Secretary may split the award for the manufacture of the paper between the 2 bidders with the lowest prices a pound. When the Secretary decides that it is necessary to operate more than one mill to manufacture distinctive paper, the Secretary may—
 
 &emsp;(1) employ individuals temporarily at rates of pay equivalent to the rates of pay of regular employees; and
 
@@ -104,11 +104,11 @@ In subsection (c), before clause (1), the words “subject to applicable regulat
 
 #### References in Text
 
-Title III of the Act of March 3, 1933, referred to in subsec. (a)(3), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, as amended, known as the Buy American Act, which is classified generally to sections 10a, 10b, and 10c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
+Title III of the Act of March 3, 1933, referred to in subsec. (a)(3), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, known as the Buy American Act, which was classified generally to sections 10a, 10b, and 10c of former Title 41, Public Contracts, and was substantially repealed and restated in chapter 83 (§8301 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1933 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–458 inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added pars. (2) and (3).
+<b>2004</b>—Subsec. (a). Pub. L. 108–458 inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added pars. (2) and (3).
 
 #### Prohibition on Use of Funds for Manufacture of Distinctive Paper for Currency and Securities by Foreign Owned Corporations or Outside United States; Exception
 
@@ -117,4 +117,6 @@ Pub. L. 100–440, title VI, §617(a), Sept. 22, 1988, 102 Stat. 1755, provided 
 Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 100–202, §101(m) \[title VI, §622(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–428.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

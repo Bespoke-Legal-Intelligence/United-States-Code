@@ -28,7 +28,7 @@ Pub. L. 107–365, §1, Dec. 19, 2002, 116 Stat. 3027, provided that: “This Ac
 
 #### Short Title of 2001 Amendment
 
-Pub. L. 107–65, §1, Nov. 6, 2001, 115 Stat. 484, provided that: “This Act \[amending section 1276 of this title\] may be cited as the ‘Eightmile River Wild and Scenic River Study Act of 2001’.”
+Pub. L. 107–65, §1, Nov. 6, 2001, 115 Stat. 484, provided that: “This Act \[amending section 1276 of this title\]may be cited as the ‘Eightmile River Wild and Scenic River Study Act of 2001’.”
 
 #### Short Title of 2000 Amendments
 
@@ -48,7 +48,7 @@ Pub. L. 106–20, §1, Apr. 9, 1999, 113 Stat. 30, provided that: “This Act \[
 
 #### Short Title of 1994 Amendments
 
-Pub. L. 103–313, §1, Aug. 26, 1994, 108 Stat. 1699, provided that: “This Act \[amending section 1274 of this title and enacting provisions classified as a note undersection 1274 of this title\] may be cited as the ‘Farmington Wild and Scenic River Act’.”
+Pub. L. 103–313, §1, Aug. 26, 1994, 108 Stat. 1699, provided that: “This Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Farmington Wild and Scenic River Act’.”
 
 Pub. L. 103–242, §1, May 4, 1994, 108 Stat. 611, provided that: “This Act \[amending sections 1274 and 1276 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Rio Grande Designation Act of 1994’.”
 

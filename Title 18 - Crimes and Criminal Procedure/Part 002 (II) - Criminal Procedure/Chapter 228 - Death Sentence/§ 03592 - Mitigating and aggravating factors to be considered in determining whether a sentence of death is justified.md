@@ -178,7 +178,7 @@ Lethal adulterant.—The offense involved the importation, manufacture, or distr
 
 > The jury, or if there is no jury, the court, may consider whether any other aggravating factor for which notice has been given exists.
 
-(Added and amended Pub. L. 103–322, title VI, §60002(a), title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1960, 2150; Pub. L. 104–132, title VII,§728, Apr. 24, 1996, 110 Stat. 1302; Pub. L. 104–294, title VI, §§601(b)(7), 604(b)(35), Oct. 11, 1996, 110 Stat. 3499, 3508; Pub. L. 107–273, div. B, title IV, §4002(e)(2), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 109–248, title II, §206(a)(4), July 27, 2006, 120 Stat. 614.)
+(Added and amended Pub. L. 103–322, title VI, §60002(a), title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1960, 2150; Pub. L. 104–132, title VII, §728, Apr. 24, 1996, 110 Stat. 1302; Pub. L. 104–294, title VI, §§601(b)(7), 604(b)(35), Oct. 11, 1996, 110 Stat. 3499, 3508; Pub. L. 107–273, div. B, title IV, §4002(e)(2), Nov. 2, 2002, 116 Stat. 1810; Pub. L.109–248, title II, §206(a)(4), July 27, 2006, 120 Stat. 614.)
 
 #### References in Text
 
@@ -188,17 +188,17 @@ The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in 
 
 #### Amendments
 
-2006—Subsec. (c)(1). Pub. L. 109–248 inserted “section 2245 (offenses resulting in death),” after “section 1992 (wrecking trains),”.
+<b>2006</b>—Subsec. (c)(1). Pub. L. 109–248 inserted “section 2245 (offenses resulting in death),” after “section 1992 (wrecking trains),”.
 
-2002—Subsec. (c)(1). Pub. L. 107–273 substituted “section 37” for “section 36”.
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–273 substituted “section 37” for “section 36”.
 
-1996—Subsec. (c)(1). Pub. L. 104–294, §601(b)(7), substituted “section 2332a (use of weapons of mass destruction)” for “section 2339 (use of weapons of mass destruction)”.
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–294, §601(b)(7), substituted “section 2332a (use of weapons of mass destruction)” for “section 2339 (use of weapons of mass destruction)”.
 
 Subsec. (c)(12). Pub. L. 104–294, §604(b)(35), substituted “Comprehensive Drug Abuse Prevention and Control Act of 1970” for “Controlled Substances Act”.
 
 Subsec. (c)(16). Pub. L. 104–132 added par. (16).
 
-1994—Subsec. (c)(1). Pub. L. 103–322, §330021(1), substituted “kidnapping” for “kidnaping”.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–322, §330021(1), substituted “kidnapping” for “kidnaping”.
 
 #### Effective Date of 1996 Amendment
 

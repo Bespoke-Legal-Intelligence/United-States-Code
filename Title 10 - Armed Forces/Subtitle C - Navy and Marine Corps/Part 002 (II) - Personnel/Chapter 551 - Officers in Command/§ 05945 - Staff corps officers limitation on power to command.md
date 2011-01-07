@@ -36,5 +36,5 @@ The first sentence of this section is phrased so as to reflect the accepted mean
 
 #### Amendments
 
-1967—Pub. L. 90–130 struck out provision that an officer in the Nurse Corps may not exercise command.
+<b>1967</b>—Pub. L. 90–130 struck out provision that an officer in the Nurse Corps may not exercise command.
 

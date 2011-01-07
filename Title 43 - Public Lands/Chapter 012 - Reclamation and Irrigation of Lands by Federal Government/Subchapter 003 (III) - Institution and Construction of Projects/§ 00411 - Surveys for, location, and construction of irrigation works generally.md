@@ -14,7 +14,7 @@ Provisions similar to those in this section were contained in acts Mar. 2, 1889,
 
 #### Amendments
 
-1946—Act Aug. 7, 1946, struck out provisions requiring annual reports to Congress as to results of those examinations and surveys.
+<b>1946</b>—Act Aug. 7, 1946, struck out provisions requiring annual reports to Congress as to results of those examinations and surveys.
 
 #### Section as Unaffected by Submerged Lands Act
 

@@ -24,7 +24,7 @@ Defense articles may be transferred under subsection (a) of this section without
 
 #### (e) Third country transfers restrictions
 
-For purposes of sections 2753(a)(2), 2753(a)(3), 2753(c), and 2753(d) of this title, defense articles transferred under subsection (a) of this section shall be deemed to have been sold under this chapter.
+For purposes of sections 2753(a)(2), 2753(a)(3), 2753(c), and 2753(d) of this title, defense articlestransferred under subsection (a) of this section shall be deemed to have been sold under this chapter.
 
 #### (f) Maintenance of military balance in Eastern Mediterranean
 
@@ -41,6 +41,10 @@ The President shall ensure that transfers by the United States under subsection 
 &emsp;Paragraph (1) does not apply with respect to a transfer of defense articles for which notification under section 2799c(a) of this title is submitted before the end of the period described in that paragraph.
 
 (Pub. L. 90–629, ch. 9, §93, as added Pub. L. 102–228, §2, Dec. 12, 1991, 105 Stat. 1691.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (e), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Delegation of Functions
 

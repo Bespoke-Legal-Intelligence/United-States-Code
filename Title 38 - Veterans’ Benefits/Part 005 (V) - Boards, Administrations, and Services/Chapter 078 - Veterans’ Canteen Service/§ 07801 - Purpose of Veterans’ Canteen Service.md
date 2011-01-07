@@ -6,9 +6,9 @@ The Veterans’ Canteen Service (hereinafter in this chapter referred to as the 
 
 #### Amendments
 
-2001—Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
+<b>2001</b>—Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
 
-1991—Pub. L. 102–40 renumbered section 4201 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4201 of this title as this section.
 
 Pub. L. 102–83 substituted “Department” for “Veterans’ Administration” in two places.
 

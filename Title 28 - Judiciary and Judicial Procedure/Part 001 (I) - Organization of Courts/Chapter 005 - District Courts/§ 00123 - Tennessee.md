@@ -80,15 +80,15 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-2008—Subsec. (c)(1). Pub. L. 110–406, §2(a)(1), inserted “Dyer,” after “Decatur,” and “and Dyersburg” after “Jackson”.
+<b>2008</b>—Subsec. (c)(1). Pub. L. 110–406, §2(a)(1), inserted “Dyer,” after “Decatur,” and “and Dyersburg” after “Jackson”.
 
 Subsec. (c)(2). Pub. L. 110–406, §2(a)(2), struck out “Dyer,” after “counties of” and “and Dyersburg” after “Memphis”.
 
-1970—Subsec. (c)(1). Pub. L. 91–272, §12(a), added Haywood County to the enumeration of counties comprising the Eastern Division of the Western District.
+<b>1970</b>—Subsec. (c)(1). Pub. L. 91–272, §12(a), added Haywood County to the enumeration of counties comprising the Eastern Division of the Western District.
 
 Subsec. (c)(2). Pub. L. 91–272, §12(b), struck out Haywood County from the enumeration of counties comprising the Western Division of the Western District.
 
-1961—Subsec. (c)(2). Pub. L. 87–36, as amended by Pub. L. 87–86, provided for holding court at Dyersburg.
+<b>1961</b>—Subsec. (c)(2). Pub. L. 87–36, as amended by Pub. L. 87–86, provided for holding court at Dyersburg.
 
 #### Effective Date of 2008 Amendment
 

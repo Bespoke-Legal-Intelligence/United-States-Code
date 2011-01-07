@@ -16,7 +16,7 @@
 
 #### Amendments
 
-2004—Subsec. (a)(1). Pub. L. 108–454, §501(b)(1)(A), substituted “other fiduciary” for “other person”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–454, §501(b)(1)(A), substituted “other fiduciary” for “other person”.
 
 Subsec. (a)(2). Pub. L. 108—454, §501(b)(1)(B), inserted “for benefits under this title” after “in connection with rendering fiduciary services” in second sentence.
 
@@ -24,7 +24,7 @@ Subsec. (b). Pub. L. 108–454, §501(b)(2), substituted “appears that any fid
 
 Subsec. (d). Pub. L. 108–454, §501(b)(3), substituted “fiduciary” for “guardian, curator, or conservator”.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 3202 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 3202 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in four places.
 
@@ -58,7 +58,7 @@ Pub. L. 102–83, §4(a)(2)(A)(ix), substituted “Secretary” for “Veterans�
 
 Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-1986—Subsec. (a)(1). Pub. L. 99–576, §701(76)(A), substituted “the Administrator” for “he” before “may deem proper”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–576, §701(76)(A), substituted “the Administrator” for “he” before “may deem proper”.
 
 Subsec. (b). Pub. L. 99–576, §§505, 701(76)(B), substituted “the trust of such guardian, curator, conservator, or other person” for “his trust” in first sentence, substituted “the Administrator's” for “his duly” in first sentence, substituted “the Administrator's” for “his” in second and third sentences, substituted “the Administrator” for “himself” in third sentence, and inserted after second sentence “The Administrator may require the fiduciary, as part of such account, to disclose any additional financial information concerning the beneficiary (except for information that is not available to the fiduciary).”
 
@@ -66,13 +66,13 @@ Subsec. (d). Pub. L. 99–576, §701(76)(C), substituted “the veteran's” for
 
 Subsec. (e). Pub. L. 99–576, §701(76)(D), struck out “his” before “last legal residence”.
 
-1984—Pub. L. 98–223, §207(b)(1), substituted “fiduciaries” for “guardians” in section catchline.
+<b>1984</b>—Pub. L. 98–223, §207(b)(1), substituted “fiduciaries” for “guardians” in section catchline.
 
 Subsec. (a). Pub. L. 98–223, §207(a), designated existing provisions as par. (1) and added par. (2).
 
-1982—Subsec. (d). Pub. L. 97–295 substituted “August 7, 1959,” for “the date of enactment of this sentence”.
+<b>1982</b>—Subsec. (d). Pub. L. 97–295 substituted “August 7, 1959,” for “the date of enactment of this sentence”.
 
-1974—Subsec. (a). Pub. L. 93–295, §301(a), among other changes, substituted provisions authorizing the Administrator, where it appears to him that the interests of the beneficiary would be served thereby, to pay benefits directly to the beneficiary or to a relative or some other person for the use and benefit of the beneficiary, regardless of any legal disability on the part of the beneficiary, for provisions which authorized payments tothe guardians, curators, conservators, or persons otherwise legally vested with the care or estate of the minor or of a person mentally incompetent or under other legal disability, and eliminated provisions which permitted payment of benefits direct to the person entitled thereto prior to receipt of notice that such person is under a legal disability adjudged by a court, and which permitted the Administrator to determine the person legally vested with the care of the claimant or his estate where no guardian, curator or conservator has been appointed.
+<b>1974</b>—Subsec. (a). Pub. L. 93–295, §301(a), among other changes, substituted provisions authorizing the Administrator, where it appears to him that the interests of the beneficiary would be served thereby, to pay benefits directly to the beneficiary or to a relative or some other person for the use and benefit of the beneficiary, regardless of any legal disability on the part of the beneficiary, for provisions which authorized payments tothe guardians, curators, conservators, or persons otherwise legally vested with the care or estate of the minor or of a person mentally incompetent or under other legal disability, and eliminated provisions which permitted payment of benefits direct to the person entitled thereto prior to receipt of notice that such person is under a legal disability adjudged by a court, and which permitted the Administrator to determine the person legally vested with the care of the claimant or his estate where no guardian, curator or conservator has been appointed.
 
 Subsec. (c). Pub. L. 93–295, §301(b), substituted “fiduciary or other person for the purpose of payment of benefits payable under laws administered by the Veterans’ Administration” for “guardian, curator, conservator, or other person legally vested with the care of the claimant or his estate”, and “such benefits” for “such estates”.
 
@@ -80,9 +80,9 @@ Subsec. (e). Pub. L. 93–295, §301(c), substituted “hands of a fiduciary app
 
 Subsecs. (f), (g). Pub. L. 93–295, §301(d), repealed subsec. (f) which permitted the Administrator, in the case of any incompetent veteran having no guardian, to pay compensation, pension or retirement pay to the wife of such veteran for the use of the veteran and his dependents, and subsec. (g) which permitted payment of death benefits to a widow for herself and child or children, if any, notwithstanding that she may be a minor.
 
-1972—Subsec. (d). Pub. L. 92–328 inserted provisions relating to filing for death benefit payments.
+<b>1972</b>—Subsec. (d). Pub. L. 92–328 inserted provisions relating to filing for death benefit payments.
 
-1959—Subsec. (d). Pub. L. 86–146 provided for payment, upon death of an incompetent veteran, of gratuitous benefits deposited in the personal funds of patients trust fund to surviving spouse, children or parents, for deposit of balance to credit of applicable current appropriation and for reimbursement of expenses of last sickness and burial.
+<b>1959</b>—Subsec. (d). Pub. L. 86–146 provided for payment, upon death of an incompetent veteran, of gratuitous benefits deposited in the personal funds of patients trust fund to surviving spouse, children or parents, for deposit of balance to credit of applicable current appropriation and for reimbursement of expenses of last sickness and burial.
 
 #### Effective Date of 2004 Amendment
 

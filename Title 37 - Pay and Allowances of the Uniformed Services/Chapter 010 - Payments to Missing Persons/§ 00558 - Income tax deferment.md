@@ -8,7 +8,7 @@ Notwithstanding any other provision of law, a Federal income tax return of, or t
 
 > That due date is prescribed subject to the power of the Secretary of the Treasury or his delegate to extend the time for filing the return or paying the tax, as in other cases, and to assess and collect the tax as provided by sections 6851, 6861, and 6871 of the Internal Revenue Code of 1986 in cases in which the assessment or collection is jeopardized and in cases of bankruptcy or receivership.
 
-(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 631; amended Pub. L. 96–513, title V, §516(16), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 100–26, §8(c), Apr. 21, 1987, 101 Stat. 285.)
+(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 631; amended Pub. L. 96–513, title V, §516(16),Dec. 12, 1980, 94 Stat. 2939; Pub. L. 100–26, §8(c), Apr. 21, 1987, 101 Stat. 285.)
 
 Historical and Revision Notes
 
@@ -36,9 +36,9 @@ Sections 6851, 6861, and 6871 of the Internal Revenue Code of 1986, referred to 
 
 #### Amendments
 
-1987—Pub. L. 100–26 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” in last sentence.
+<b>1987</b>—Pub. L. 100–26 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” in last sentence.
 
-1980—Pub. L. 96–513 substituted “the Internal Revenue Code of 1954” for “title 26”.
+<b>1980</b>—Pub. L. 96–513 substituted “the Internal Revenue Code of 1954” for “title 26”.
 
 #### Effective Date of 1980 Amendment
 

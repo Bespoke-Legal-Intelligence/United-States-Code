@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Except as otherwise provided in this section, the net direct interest expense with respect to any short-term obligation shall be allowed as a deduction for the taxable year only to the extent such expense exceeds the sum of—
+Except as otherwise provided in this section, the net direct interest expense with respect toany short-term obligation shall be allowed as a deduction for the taxable year only to the extent such expense exceeds the sum of—
 
 &emsp;(1) the daily portions of the acquisition discount for each day during the taxable year on which the taxpayer held such obligation, and
 
@@ -36,7 +36,7 @@ Rules similar to the rules of subsections (b) and (c) of section 1277 shall appl
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–514 amended subsec. (a) generally, designating existing provisions as par. (1) and adding par. (2).
+<b>1986</b>—Subsec. (a). Pub. L. 99–514 amended subsec. (a) generally, designating existing provisions as par. (1) and adding par. (2).
 
 #### Effective Date of 1986 Amendment
 

@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(i) is easily usable by students, families, institutions, institution-affiliated organizations, lenders, loan servicers, and guaranty agencies; and
 
-&emsp;&emsp;&emsp;(ii) is similar in format to the form developed by the Board of Governors of the Federal Reserve System under paragraphs (1) and (5)(A) of section 1638(e) <sup>1</sup> of title 15,in order to permit students and the families of students to easily compare private education loans and education loans described in section 1019(3)(A) of this title; and
+&emsp;&emsp;&emsp;(ii) is similar in format to the form developed by the Board of Governors of the Federal Reserve System under paragraphs (1) and (5)(A) of section 1638(e) <sup>1</sup> of title 15, in order to permit students and the families of students to easily compare private education loans and education loans described in section 1019(3)(A) of this title; and
 
 &emsp;&emsp;(C) update such model disclosure form periodically, as necessary.
 
@@ -118,7 +118,7 @@ Section 1638(e) of title 15, referred to in subsec. (a)(2)(B)(ii), was in the or
 
 #### Amendments
 
-2009—Subsec. (a)(1)(B)(iii)(V). Pub. L. 111–39 substituted “borrowers of loans made under” for “borrowers who take out loans under” wherever appearing.
+<b>2009</b>—Subsec. (a)(1)(B)(iii)(V). Pub. L. 111–39 substituted “borrowers of loans made under” for “borrowers who take out loans under” wherever appearing.
 
 #### Effective Date of 2009 Amendment
 

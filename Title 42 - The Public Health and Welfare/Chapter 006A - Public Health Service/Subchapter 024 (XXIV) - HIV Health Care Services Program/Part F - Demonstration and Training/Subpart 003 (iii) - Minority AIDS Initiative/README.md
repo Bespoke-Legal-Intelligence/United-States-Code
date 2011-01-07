@@ -1,7 +1,5 @@
 subpart iii—minority aids initiative
 
-<i><sup>1</sup></i><i> So in original.</i>
-
 
 ---
 

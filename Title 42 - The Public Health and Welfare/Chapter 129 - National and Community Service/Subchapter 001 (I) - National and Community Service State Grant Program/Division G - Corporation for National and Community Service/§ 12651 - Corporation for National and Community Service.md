@@ -10,7 +10,7 @@ A prior section 12651, Pub. L. 101–610, title I, §190, Nov. 16, 1990, 104 Sta
 
 #### Amendments
 
-1993—Pub. L. 103–82, §203(a)(1)(B), which directed amendment of section 191 of subtitle I of the National and Community Service Act of 1990 by substituting “the national service laws” for “this chapter”, was executed to this section, which is section 191 of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress.
+<b>1993</b>—Pub. L. 103–82, §203(a)(1)(B), which directed amendment of section 191 of subtitle I of the National and Community Service Act of 1990 by substituting “the national service laws” for “this chapter”, was executed to this section, which is section 191 of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress.
 
 #### Effective Date of 1993 Amendment
 
@@ -98,7 +98,7 @@ Transfer and allocations of appropriations and personnel.—Except as otherwise 
 
 “(6)
 
-Incidental transfer.—The Director of the Office of Management and Budget, at such time or timesas the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this subsection, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary to carry out the provisions of this subsection. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this subsection and for such further measures and dispositions as may be necessary to effectuate the purposes of this subsection.
+Incidental transfer.—The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this subsection, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary to carry out the provisions of this subsection. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this subsection and for such further measures and dispositions as may be necessary to effectuate the purposes of this subsection.
 
 “(7)
 
@@ -296,7 +296,7 @@ Definition.—The term ‘transition period’ means the period beginning on Oct
 
 Proc. No. 6662, Apr. 4, 1994, 59 F.R. 16507, provided:
 
-On September 21, 1993, I had the honor of signing into law the National and Community Service Trust Act of 1993 \[Pub. L. 103–82, see Tables for classification\], whichcreated the Corporation for National and Community Service. The Corporation was designed to involve Americans of all ages and backgrounds in community projects to address many of our Nation's most important needs—from educating our children to ensuring public safety to protecting our environment. It was chartered to foster civic responsibility, strengthening the ties that bind us together as a people, while providing educational opportunity for those who make the commitment to serve.
+On September 21, 1993, I had the honor of signing into law the National and Community Service Trust Act of 1993 \[Pub. L. 103–82, see Tables for classification\], which created the Corporation for National and Community Service. The Corporation was designed to involve Americans of all ages and backgrounds in community projects to address many of our Nation's most important needs—from educating our children to ensuring public safety to protecting our environment. It was chartered to foster civic responsibility, strengthening the ties that bind us together as a people, while providing educational opportunity for those who make the commitment to serve.
 
 In the few short months since the Corporation's establishment, enormous progress has been made toward the achievement of these invaluable goals. Final regulations have been published governing the Corporation's new grant programs, grant application packages have been developed, and a national recruitment effort has begun. As a result of intensive outreach efforts, most states have already established State Commissions on National and Community Service, and many local programs, national nonprofit organizations, institutions of higher education, and Federal agencies are eager to participate. Grant competitions have begun for a summer program that will focus on our Nation's public safety concerns, and all community service grant competitions will be completed by this summer. Finally, the Corporation has established the National Civilian Community Corps, which will take advantage of closed and down-sized military bases to launch environmental clean-up and preservation efforts.
 

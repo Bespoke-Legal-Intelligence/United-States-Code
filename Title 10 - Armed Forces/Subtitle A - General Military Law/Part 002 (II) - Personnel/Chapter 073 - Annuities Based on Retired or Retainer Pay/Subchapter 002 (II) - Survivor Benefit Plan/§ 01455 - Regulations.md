@@ -60,11 +60,11 @@ Legal effect of payment to guardian or fiduciary.—An annuity paid to a person 
 
 #### Amendments
 
-1996—Pub. L. 104–201 amended section generally, revising and restating provisions relating to regulations to carry out this subchapter.
+<b>1996</b>—Pub. L. 104–201 amended section generally, revising and restating provisions relating to regulations to carry out this subchapter.
 
-1991—Subsecs. (a) to (d). Pub. L. 102–190 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
+<b>1991</b>—Subsecs. (a) to (d). Pub. L. 102–190 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
 
-1985—Pars. (1), (2). Pub. L. 99–145 amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
+<b>1985</b>—Pars. (1), (2). Pub. L. 99–145 amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
 
 “(1) provide that, when the notification referred to in section 1448(a) of this title is required, the member and his spouse shall, before the date the member becomes entitled to retired or retainer pay, be informed of the elections available and the effects of such elections; and
 

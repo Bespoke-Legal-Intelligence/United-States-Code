@@ -36,7 +36,7 @@ Each Panel shall request information and disclose information to the public, as 
 
 #### (h) Information from other Federal departments and agencies
 
-(1) Notwithstanding any statutory restriction on the authority of agencies and departments ofthe Federal Government to share information, such agencies and departments shall provide the Panel with such information and data as each Panel, through the Commission, may request to carry out its duties under section 2080 of this title. Each Panel may request information, through the Commission, from States, industry and other private sources as it may require to carry out its responsibilities.
+(1) Notwithstanding any statutory restriction on the authority of agencies and departments of the Federal Government to share information, such agencies and departments shall provide the Panel with such information and data as each Panel, through the Commission, may request to carry out its duties under section 2080 of this title. Each Panel may request information, through the Commission, from States, industry and other private sources as it may require to carry out its responsibilities.
 
 (2) Section 2055 of this title shall apply to the disclosure of information by the Panel but shall not apply to the disclosure of information to the Panel.
 
@@ -48,13 +48,13 @@ A prior section 2077, Pub. L. 92–573, §28, Oct. 27, 1972, 86 Stat. 1230, prov
 
 #### Amendments
 
-2008—Pub. L. 110–314, which directed amendment of this section by substituting “the appropriate Congressional committees” for “the Congress” in subsecs. (j)(10)(F) and (k)(1), (2), could not be executed because this section does not contain a subsec. (j) or (k).
+<b>2008</b>—Pub. L. 110–314, which directed amendment of this section by substituting “the appropriate Congressional committees” for “the Congress” in subsecs. (j)(10)(F) and (k)(1), (2), could not be executed because this section does not contain a subsec. (j) or (k).
 
-1990—Subsec. (b)(1). Pub. L. 101–608 inserted “(other than employees of the National Institutes of Health, the National Toxicology Program, or the National Center for Toxicological Research)” after “States”.
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–608 inserted “(other than employees of the National Institutes of Health, the National Toxicology Program, or the National Center for Toxicological Research)” after “States”.
 
 #### Effective Date
 
-Section applicable with respect to regulations under this chapter and chapters 25 and 30 of this title for which notices of proposed rulemaking are issued after Aug. 14, 1981, see section 1215 of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 2052 of this title.
+Section applicable with respect to regulations under this chapter and chapters 25 and 30 of this title forwhich notices of proposed rulemaking are issued after Aug. 14, 1981, see section 1215 of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 2052 of this title.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

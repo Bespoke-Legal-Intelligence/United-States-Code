@@ -12,7 +12,7 @@ The Secretary, acting through the Service, is authorized to make grants to India
 
 &emsp;(B) develop and provide community training and education.
 
-(2) Funds made available under this section may not be used to provide services described in section 1621h(m) of this title.
+(2) Funds made available under this section may not be used to provide services described in section 1665g(c) of this title.
 
 #### (c) Models for delivery of comprehensive health care services
 
@@ -28,9 +28,15 @@ The Secretary shall—
 
 The Secretary shall establish criteria for the review and approval of applications under this section.
 
-#### (e) Authorization of appropriations
+(Pub. L. 94–437, title II, §216, as added Pub. L. 102–573, title II, §212, Oct. 29, 1992, 106 Stat. 4554; amended Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
-There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
+#### Codification
 
-(Pub. L. 94–437, title II, §216, as added Pub. L. 102–573, title II, §212, Oct. 29, 1992, 106 Stat. 4554.)
+Amendment by Pub. L. 111–148 is based on sections 101(b)(4) and 131 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which were enacted into law by section 10221(a) of Pub. L. 111–148.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–148 substituted “section 1665g(c) of this title” for “section 1621h(m) of this title”.
+
+Subsec. (e). Pub. L. 111–148 struck out subsec. (e) which authorized appropriations for fiscal years 1993 to 2000.
 

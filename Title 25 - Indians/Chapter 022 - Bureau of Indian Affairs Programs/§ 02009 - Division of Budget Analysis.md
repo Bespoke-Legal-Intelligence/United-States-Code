@@ -6,7 +6,7 @@ Not later than 1 year after January 8, 2002, the Secretary shall establish withi
 
 #### (b) Functions
 
-In consultation with the tribal governing bodies and tribal school boards, the Director of theOffice, through the Division, shall conduct studies, surveys, or other activities to gather demographic information on Bureau-funded schools and project the amount necessary to provide Indian students in such schools the educational program set forth in this chapter.
+In consultation with the tribal governing bodies and tribal school boards, the Director of the Office, through the Division, shall conduct studies, surveys, or other activities to gather demographic information on Bureau-funded schools and project the amount necessary to provide Indian students in such schools the educational program set forth in this chapter.
 
 #### (c) Annual reports
 

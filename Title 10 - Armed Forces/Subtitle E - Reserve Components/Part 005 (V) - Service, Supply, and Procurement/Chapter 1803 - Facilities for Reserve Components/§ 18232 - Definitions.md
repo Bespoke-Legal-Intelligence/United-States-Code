@@ -4,7 +4,7 @@ In this chapter:
 
 &emsp;(1) The term “State” means any of the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and each territory and possession of the United States and includes political subdivisions and military units thereof and tax-supported agencies therein.
 
-&emsp;(2) The term “facility” includes any (A) interest in land, (B) armory, readiness center, or other structure, and (C) storage or other facility normally needed for the administration and training of any unit of the reserve components of the armed forces.
+&emsp;(2) The term “facility” includes any (A) interest in land, (B) armory, readiness center, orother structure, and (C) storage or other facility normally needed for the administration and training of any unit of the reserve components of the armed forces.
 
 &emsp;(3) The terms “armory” and “readiness center” mean a structure that houses one or more units of a reserve component and is used for training and administering those units. Such terms include a structure that is appurtenant to such a structure and houses equipment used for that training and administration.
 
@@ -48,17 +48,17 @@ The last sentence of 50:886(b) is omitted as surplusage.
 
 #### Amendments
 
-2000—Par. (2)(B). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2807(b)(1)\], substituted “armory, readiness center, or other structure” for “armory or other structure”.
+<b>2000</b>—Par. (2)(B). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2807(b)(1)\], substituted “armory, readiness center, or other structure” for “armory or other structure”.
 
 Par. (3). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2807(a)\], substituted “The terms ‘armory’ and ‘readiness center’ mean” for “The term ‘armory’ means” and “Such terms include” for “It includes”.
 
-1994—Pub. L. 103–337 renumbered section 2232 of this title as this section.
+<b>1994</b>—Pub. L. 103–337 renumbered section 2232 of this title as this section.
 
-1987—Pub. L. 100–26 inserted “The term” after each par. designation and struck out uppercase letter of first word after first quotation marks in pars. (2) and (3) and substituted lowercase letter.
+<b>1987</b>—Pub. L. 100–26 inserted “The term” after each par. designation and struck out uppercase letter of first word after first quotation marks in pars. (2) and (3) and substituted lowercase letter.
 
-1982—Cl. (1). Pub. L. 97–214 substituted provision defining “State” as any State of the United States, the District of Columbia, Puerto Rico, and each territory and possession of the United States including political subdivisions and military units thereof and tax-supported agencies therein for provision defining “State” and “Territory” as including political subdivisions and military units thereof and tax-supported agencies therein.
+<b>1982</b>—Cl. (1). Pub. L. 97–214 substituted provision defining “State” as any State of the United States, the District of Columbia, Puerto Rico, and each territory and possession of the United States including political subdivisions and military units thereof and tax-supported agencies therein for provision defining “State” and “Territory” as including political subdivisions and military units thereof and tax-supported agencies therein.
 
-1958—Cl. (3). Pub. L. 85–861 added cl. (3).
+<b>1958</b>—Cl. (3). Pub. L. 85–861 added cl. (3).
 
 #### Effective Date of 1982 Amendment
 

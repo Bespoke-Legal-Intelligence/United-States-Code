@@ -34,7 +34,7 @@ Another prior section 2540 was renumbered section 2539a of this title.
 
 #### Amendments
 
-2004—Subsec. (b)(2). Pub. L. 108–375 inserted “, as in effect on that date” before period at end.
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–375 inserted “, as in effect on that date” before period at end.
 
 #### Authority To Issue Loan Guarantees
 

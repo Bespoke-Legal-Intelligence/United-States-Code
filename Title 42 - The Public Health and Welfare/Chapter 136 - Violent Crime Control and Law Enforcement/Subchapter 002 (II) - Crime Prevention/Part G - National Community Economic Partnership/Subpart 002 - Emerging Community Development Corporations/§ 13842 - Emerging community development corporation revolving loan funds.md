@@ -44,3 +44,5 @@ Amounts provided under this section to a community development corporation shall
 
 (Pub. L. 103–322, title III, §31122, Sept. 13, 1994, 108 Stat. 1886.)
 
+<i><sup>1</sup></i><i> So in original. Probably should be paragraph “(3)”.</i>
+

@@ -4,7 +4,7 @@
 
 #### (1) Grant authority
 
-&emsp;The Secretary of Agriculture may make competitive grants (or grants without regard to any requirement for competition) to Alaska Native serving institutions for the purpose of promoting and strengthening the ability ofAlaska Native serving institutions to carry out education, applied research, and related community development programs.
+&emsp;The Secretary of Agriculture may make competitive grants (or grants without regard to any requirement for competition) to Alaska Native serving institutions for the purpose of promoting and strengthening the ability of Alaska Native serving institutions to carry out education, applied research, and related community development programs.
 
 #### (2) Use of grant funds
 
@@ -44,7 +44,7 @@
 
 &emsp;There are authorized to be appropriated to make grants under this subsection $10,000,000 for each of fiscal years 2001 through 2012.
 
-(Pub. L. 95–113, title XIV, §1419B, formerly Pub. L. 106–78, title VII, §759, Oct. 22, 1999, 113 Stat. 1172; renumbered Pub. L. 95–113, §1419B, and amended Pub. L. 110–234, title VII, §7112, May 22, 2008, 122 Stat. 1219, and Pub. L. 110–246, §4(a), title VII, §7112, June 18, 2008, 122 Stat. 1664, 1980.)
+(Pub. L. 95–113, title XIV, §1419B, formerly Pub. L. 106–78, title VII, §759, Oct. 22, 1999, 113 Stat. 1172; renumbered Pub. L. 95–113, §1419B, andamended Pub. L. 110–234, title VII, §7112, May 22, 2008, 122 Stat. 1219, and Pub. L. 110–246, §4(a), title VII, §7112, June 18, 2008, 122 Stat. 1664, 1980.)
 
 #### Codification
 

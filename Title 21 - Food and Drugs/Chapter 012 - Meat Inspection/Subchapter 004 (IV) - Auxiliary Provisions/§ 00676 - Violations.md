@@ -12,7 +12,7 @@ Nothing in this chapter shall be construed as requiring the Secretary to report 
 
 #### Amendments
 
-1986—Subsec. (b). Pub. L. 99–641, §403(c)(1), temporarily inserted provisions which related to factors required to be considered by Secretary in determining whether public interest is served by written notice of warning. See Effective and Termination Dates of 1986 Amendment note below.
+<b>1986</b>—Subsec. (b). Pub. L. 99–641, §403(c)(1), temporarily inserted provisions which related to factors required to be considered by Secretary in determining whether public interest is served by written notice of warning. See Effective and Termination Dates of 1986 Amendment note below.
 
 Subsec. (c). Pub. L. 99–641, §403(c)(2), temporarily added subsec. (c). See Effective and Termination Dates of 1986 Amendment note below.
 

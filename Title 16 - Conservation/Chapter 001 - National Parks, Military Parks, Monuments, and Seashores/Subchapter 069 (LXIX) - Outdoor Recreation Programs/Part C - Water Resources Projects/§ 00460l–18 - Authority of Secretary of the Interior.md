@@ -16,7 +16,7 @@ No lands under the jurisdiction of any other Federal agency may be included for 
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–575, §2804(e)(2), substituted “subsection (b) or (c) of section 460<i>l</i>–14” for “subsection 460<i>l</i>–14(b)”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–575, §2804(e)(2), substituted “subsection (b) or (c) of section 460<i>l</i>–14” for “subsection 460<i>l</i>–14(b)”.
 
 Pub. L. 102–575, §2804(e)(1), which directed amendment of subsec. (a) by striking “purposes: <i>Provided</i>,” and all that follows through end of sentence and inserting “purposes”, could not be executed because the words “purposes: <i>Provided</i>,” did not appear subsequent to amendment by Pub. L. 102–377. See below.
 

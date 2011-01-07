@@ -66,7 +66,7 @@ A request for information under this section shall be filed in such manner and f
 
 (1) Whenever the Secretary receives a request submitted under subsection (b) of this section which he is reasonably satisfied meets the criteria established by subsections (a), (b), and (c) of this section, he shall promptly undertake to provide the information requested from the files and records maintained by any of the departments, agencies, or instrumentalities of the United States or of any State.
 
-(2) Notwithstanding any other provision of law, whenever the individual who is the head of any department, agency, or instrumentality of the United States receives a request from the Secretary for information authorized to be provided by the Secretary under this section, such individual shall promptly cause a search to be made of the files and records maintained by such department, agency, or instrumentality with a view to determining whether the information requested is contained in any such files or records. If such search discloses the information requested, such individual shall immediately transmit such information to the Secretary, except that if any information is obtained the disclosure of which would contravene national policy or security interests of the United States or the confidentiality of census data, such information shall not be transmitted and such individual shall immediately notify the Secretary. If such search fails to disclose the information requested, such individual shall immediately so notify the Secretary. The costs incurred by any such department, agency, or instrumentality of the United States or of anyState in providing such information to the Secretary shall be reimbursed by him in an amount which the Secretary determines to be reasonable payment for the information exchange (which amount shall not include payment for the costs of obtaining, compiling, or maintaining the information). Whenever such services are furnished to an individual specified in subsection (c)(3) of this section, a fee shall be charged such individual. The fee so charged shall be used to reimburse the Secretary or his delegate for the expense of providing such services.
+(2) Notwithstanding any other provision of law, whenever the individual who is the head of any department, agency, or instrumentality of the United States receives a request from the Secretary for information authorized to be provided by the Secretary under this section, such individual shall promptly cause a search to be made of the files and records maintained by such department, agency, or instrumentality with a view to determining whether the information requested is contained in any such files or records. If such search discloses the information requested, such individual shall immediately transmit such information to the Secretary, except that if any information is obtained the disclosure of which would contravene national policy or security interests of the United States or the confidentiality of census data, such information shall not be transmitted and such individual shall immediately notify the Secretary. If such search fails to disclose the information requested, such individual shall immediately so notify the Secretary. The costs incurred by any such department, agency, or instrumentality of the United States or of any State in providing such information to the Secretary shall be reimbursed by him in an amount which the Secretary determines to be reasonable payment for the information exchange (which amount shall not include payment for the costs of obtaining, compiling, or maintaining the information). Whenever such services are furnished to an individual specified in subsection (c)(3) of this section, a fee shall be charged such individual. The fee so charged shall be used to reimburse the Secretary or his delegate for the expense of providing such services.
 
 (3) The Secretary of Labor shall enter into an agreement with the Secretary to provide prompt access for the Secretary (in accordance with this subsection) to the wage and unemployment compensation claims information and data maintained by or for the Department of Labor or State employment security agencies.
 
@@ -114,7 +114,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (3) Administration of Federal tax laws
 
-&emsp;The Secretary of the Treasury shall have access to the information in the National Directory of New Hires for purposes of administering section 32 of the Internal Revenue Code of 1986, or the advance payment of the earned income tax credit under section 3507 of such Code, and verifying a claim with respect to employment in a tax return.
+&emsp;The Secretary of the Treasury shall have access to the information in the National Directory of New Hires for purposes of administering section 32 of the Internal Revenue Code of1986, or the advance payment of the earned income tax credit under section 3507 of such Code, and verifying a claim with respect to employment in a tax return.
 
 #### (4) List of multistate employers
 
@@ -542,13 +542,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (j)(3). Pub. L. 110–351 inserted “, part B, or part E” after “this part” in introductory provisions.
+<b>2008</b>—Subsec. (j)(3). Pub. L. 110–351 inserted “, part B, or part E” after “this part” in introductory provisions.
 
 Subsec. (j)(10)(A). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(V), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-2007—Subsec. (j)(11). Pub. L. 110–157 added par. (11).
+<b>2007</b>—Subsec. (j)(11). Pub. L. 110–157 added par. (11).
 
-2006—Subsec. (j)(7), (9). Pub. L. 109–250, §2(1), redesignated par. (7) relating to information comparisons and disclosure to assist in Federal debt collection as (9).
+<b>2006</b>—Subsec. (j)(7), (9). Pub. L. 109–250, §2(1), redesignated par. (7) relating to information comparisons and disclosure to assist in Federal debt collection as (9).
 
 Subsec. (j)(10). Pub. L. 109–250, §2(2), added par. (10).
 
@@ -556,17 +556,17 @@ Subsec. (k)(3). Pub. L. 109–171, §7306(b), inserted “or section 652(<i>l</i
 
 Subsec. (<i>o</i>). Pub. L. 109–171, §7305, inserted “or the amount appropriated under this paragraph for fiscal year 2002, whichever is greater” before “, which shall be available” in first sentence and struck out “for each of fiscal years 1997 through 2001” before “shall remain available” in last sentence.
 
-2004—Subsec. (j)(7). Pub. L. 108–447 added par. (7) relating to information comparisons and disclosure to assist in Federal debt collection.
+<b>2004</b>—Subsec. (j)(7). Pub. L. 108–447 added par. (7) relating to information comparisons and disclosure to assist in Federal debt collection.
 
 Pub. L. 108–199 added par. (7) relating to information comparisons for housing assistance programs.
 
 Subsec. (j)(8). Pub. L. 108–295 added par. (8).
 
-1999—Subsec. (j)(6). Pub. L. 106–113, §1000(a)(5) \[title III, §303(a)\], added par. (6).
+<b>1999</b>—Subsec. (j)(6). Pub. L. 106–113, §1000(a)(5) \[title III, §303(a)\], added par. (6).
 
 Subsec. (<i>l</i>)(2). Pub. L. 106–113, §1000(a)(5) \[title III, §303(b)\], amended Pub. L. 105–200, §402(a), by inserting “or any other person” after “employee of the United States” in new par. (2). See 1998 Amendment note below.
 
-1998—Subsec. (a)(2). Pub. L. 105–200, §410(d)(1), (2), in introductory provisions, substituted “parentage or” for “parentage,” and struck out “or making or enforcing child custody or visitation orders,” after “obligations,”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–200, §410(d)(1), (2), in introductory provisions, substituted “parentage or” for “parentage,” and struck out “or making or enforcing child custody or visitation orders,” after “obligations,”.
 
 Subsec. (a)(2)(A)(iv). Pub. L. 105–200, §410(d)(3), realigned margins.
 
@@ -574,7 +574,7 @@ Subsec. (i)(2). Pub. L. 106–200, §402(b), amended heading and text of par. (2
 
 Subsec. (<i>l</i>). Pub. L. 105–200, §402(a), as amended by Pub. L. 106–113, §1000(a)(5) \[title III, §303(b)\], designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-1997—Subsec. (a). Pub. L. 105–33, §5534(a)(1), designated existing provisions as par. (1), substituted “for the purposes specified in paragraphs (2) and (3).” for “to obtain and transmit to any authorized person (as defined in subsection (c) of this section), for the purpose of establishing parentage, establishing, setting the amount of, modifying, or enforcing child support obligations, or enforcing child custody or visitation orders—”, added pars. (2) and (3), and struck out former pars. (1) to (3) which read as follows:
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §5534(a)(1), designated existing provisions as par. (1), substituted “for the purposes specified in paragraphs (2) and (3).” for “to obtain and transmit to any authorized person (as defined in subsection (c) of this section), for the purpose of establishing parentage, establishing, setting the amount of, modifying, or enforcing child support obligations, or enforcing child custody or visitation orders—”, added pars. (2) and (3), and struck out former pars. (1) to (3) which read as follows:
 
 “(1) information on, or facilitating the discovery of, the location of any individual—
 
@@ -622,7 +622,7 @@ Pub. L. 105–34, §5541(b), in heading substituted “Use of set-aside funds”
 
 Subsec. (p). Pub. L. 105–33, §5543, substituted “of the parent” for “a child and the parent”.
 
-1996—Pub. L. 104–193, §316(e)(2), inserted “Federal” before “Parent Locator Service” in section catchline.
+<b>1996</b>—Pub. L. 104–193, §316(e)(2), inserted “Federal” before “Parent Locator Service” in section catchline.
 
 Subsec. (a). Pub. L. 104–193, §316(a)(1), (e)(1), inserted “Federal” before “Parent Locator Service”, substituted “, for the purpose of establishing parentage, establishing, setting the amount of, modifying, or enforcing child support obligations, or enforcing child custody or visitation orders—” for “information as to the whereabouts of any absent parent when such information is to be used to locate such parent for the purpose of enforcing support obligations against such parent.”, and added pars. (1) to (3).
 
@@ -650,9 +650,9 @@ Pub. L. 104–193, §345(a), added subsec. (<i>o</i>).
 
 Subsec. (p). Pub. L. 104–193, §366, added subsec. (p).
 
-1988—Subsec. (e)(3). Pub. L. 100–485 added par. (3).
+<b>1988</b>—Subsec. (e)(3). Pub. L. 100–485 added par. (3).
 
-1984—Subsec. (b). Pub. L. 98–378, §19(a), inserted “the social security account number (or numbers, if the individual involved has more than one such number) and”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–378, §19(a), inserted “the social security account number (or numbers, if the individual involved has more than one such number) and”.
 
 Subsec. (b)(1). Pub. L. 98–369, §2663(j)(2)(B)(ix), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
@@ -660,7 +660,7 @@ Subsec. (b)(2). Pub. L. 98–369, §2663(c)(13), substituted “of the United St
 
 Subsec. (f). Pub. L. 98–378, §17, struck out “, after determining that the absent parent cannot be located through the procedures under the control of such State agencies,” before “to transmit to the Secretary”.
 
-1981—Subsec. (c)(1). Pub. L. 97–35 substituted “child and spousal support” for “child support”.
+<b>1981</b>—Subsec. (c)(1). Pub. L. 97–35 substituted “child and spousal support” for “child support”.
 
 #### Effective Date of 2008 Amendment
 

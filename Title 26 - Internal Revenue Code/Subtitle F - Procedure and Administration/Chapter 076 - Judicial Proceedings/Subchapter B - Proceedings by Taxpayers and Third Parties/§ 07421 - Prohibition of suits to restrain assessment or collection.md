@@ -16,25 +16,25 @@ No suit shall be maintained in any court for the purpose of restraining the asse
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–554 inserted “6330(e)(1),” after “6246(b),” and substituted “6672(c)” for “6672(b)”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–554 inserted “6330(e)(1),” after “6246(b),” and substituted “6672(c)” for “6672(b)”.
 
-1998—Subsec. (a). Pub. L. 105–277 substituted “6015(e)” for “6015(d)” and inserted “6331(i),” after “6246(b),”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277 substituted “6015(e)” for “6015(d)” and inserted “6331(i),” after “6246(b),”.
 
 Pub. L. 105–206 inserted “6015(d),” after “sections”.
 
-1997—Subsec. (a). Pub. L. 105–34, §1454(b)(2), substituted “7429(b), and 7436” for “and 7429(b)”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–34, §1454(b)(2), substituted “7429(b), and 7436” for “and 7429(b)”.
 
 Pub. L. 105–34, §1239(e)(3), inserted “6225(b),” after “6213(a),”.
 
 Pub. L. 105–34, §1222(b)(1), inserted “6246(b),” after “6213(a),”.
 
-1982—Subsec. (b)(2). Pub. L. 97–258 substituted “section 3713(b) of title 31, United States Code” for “section 3467 of the Revised Statutes (31 U.S.C. 192)”.
+<b>1982</b>—Subsec. (b)(2). Pub. L. 97–258 substituted “section 3713(b) of title 31, United States Code” for “section 3467 of the Revised Statutes (31 U.S.C. 192)”.
 
-1978—Subsec. (a). Pub. L. 95–628 inserted references to sections 6672(b) and 6694(c).
+<b>1978</b>—Subsec. (a). Pub. L. 95–628 inserted references to sections 6672(b) and 6694(c).
 
-1976—Subsec. (a). Pub. L. 94–455 substituted “7426(a) and (b)(1), and 7429(b)” for “and 7426(a) and (b)(1)”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 substituted “7426(a) and (b)(1), and 7429(b)” for “and 7426(a) and (b)(1)”.
 
-1966—Subsec. (a). Pub. L. 89–719 inserted reference to section 7426(a), (b)(1), and “by any person, whether or not such person is the person against whom such tax was assessed”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–719 inserted reference to section 7426(a), (b)(1), and “by any person, whether or not such person is the person against whom such tax was assessed”.
 
 #### Effective Date of 1998 Amendments
 

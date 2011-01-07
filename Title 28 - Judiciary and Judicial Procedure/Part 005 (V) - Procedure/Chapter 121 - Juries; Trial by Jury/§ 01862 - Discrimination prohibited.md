@@ -10,9 +10,9 @@ This section makes provision for specific exemption of classes of citizens usual
 
 #### Amendments
 
-1980—Pub. L. 96–417 prohibited discrimination against service as juror in the Court of International Trade.
+<b>1980</b>—Pub. L. 96–417 prohibited discrimination against service as juror in the Court of International Trade.
 
-1968—Pub. L. 90–274 substituted provisions prohibiting discrimination against citizens in their service as jurors because of race, color, religion, sex, national origin, or economic status for provisions identifying three groups as exempt from jury service, including members of the armed forces on active duty, members of fire or police departments, and public officers actively engaged in the performance of official duties.
+<b>1968</b>—Pub. L. 90–274 substituted provisions prohibiting discrimination against citizens in their service as jurors because of race, color, religion, sex, national origin, or economic status for provisions identifying three groups as exempt from jury service, including members of the armed forces on active duty, members of fire or police departments, and public officers actively engaged in the performance of official duties.
 
 #### Effective Date of 1980 Amendment
 
@@ -20,5 +20,5 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as to cases in which an indictmenthas been returned or a petit jury empaneled prior to such effective date, see section 104 of Pub. L. 90–274, set out as a note under section 1861 of this title.
+Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as to cases in which an indictment has been returned or a petit jury empaneled prior to such effective date, see section 104 of Pub. L. 90–274, set out as a note under section 1861 of this title.
 

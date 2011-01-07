@@ -2,7 +2,7 @@
 
 #### (a) Annual percentage rates
 
-The Board shall collect, publish, and disseminate to the public, on a demonstration basis in a number of standard metropolitan statistical areas to be determined by the Board, the annual percentage rates charged for representativetypes of nonsale credit by creditors in such areas. For the purpose of this section, the Board is authorized to require creditors in such areas to furnish information necessary for the Board to collect, publish, and disseminate such information.
+The Board shall collect, publish, and disseminate to the public, on a demonstration basis in a number of standard metropolitan statistical areas to be determined by the Board, the annual percentage rates charged for representative types of nonsale credit by creditors in such areas. For the purpose of this section, the Board is authorized to require creditors in such areas to furnish information necessary for the Board to collect, publish, and disseminate such information.
 
 #### (b) Credit card price and availability information
 
@@ -38,11 +38,19 @@ The Board shall collect, publish, and disseminate to the public, on a demonstrat
 
 The Board is authorized to enter into contracts or other arrangements with appropriate persons, organizations, or State agencies to carry out its functions under subsections (a) and (b) of this section and to furnish financial assistance in support thereof.
 
-(Pub. L. 90–321, title I, §136, as added Pub. L. 96–221, title VI, §618(a), Mar. 31, 1980, 94 Stat. 183; amended Pub. L. 100–583, §5, Nov. 3, 1988, 102 Stat. 2967.)
+(Pub. L. 90–321, title I, §136, as added Pub. L. 96–221, title VI, §618(a), Mar. 31, 1980, 94 Stat. 183; amended Pub. L. 100–583, §5, Nov. 3, 1988, 102 Stat. 2967; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-1988—Subsecs. (b), (c). Pub. L. 100–583 added subsec. (b), redesignated former subsec. (b) as (c), and substituted “subsections (a) and (b)” for “subsection (a)”.
+<b>1988</b>—Subsecs. (b), (c). Pub. L. 100–583 added subsec. (b), redesignated former subsec. (b) as (c), and substituted “subsections (a) and (b)” for “subsection (a)”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

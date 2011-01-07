@@ -122,3 +122,5 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 A prior section 54101, added and amended Pub. L. 110–181, div. C, title XXXV, §3523(a)(6)(B)–(D), Jan. 28, 2008, 122 Stat. 599, which related to assistance for small shipyards and maritime communities, was repealed by Pub. L. 110–417, div. C, title XXXV, §3508(b), Oct. 14, 2008, 122 Stat. 4769, as amended by Pub. L. 111–84, div. A, title X, §1073(c)(14), Oct. 28, 2009, 123 Stat. 2475, effective Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
+<i><sup>1</sup></i><i> So in original. There is no subpar. (B).</i>
+

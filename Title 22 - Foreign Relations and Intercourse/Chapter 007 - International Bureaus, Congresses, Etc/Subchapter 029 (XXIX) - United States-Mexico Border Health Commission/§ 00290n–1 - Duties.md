@@ -14,7 +14,7 @@ It should be the duty of the Commission—
 
 #### Amendments
 
-1999—Par. (1). Pub. L. 106–113, §1000(a)(4) \[title V, §516(2)(A)\], substituted “; and” for semicolon at end.
+<b>1999</b>—Par. (1). Pub. L. 106–113, §1000(a)(4) \[title V, §516(2)(A)\], substituted “; and” for semicolon at end.
 
 Par. (2)(B). Pub. L. 106–113, §1000(a)(4) \[title V, §516(2)(B)\], substituted period for “; and” at end.
 

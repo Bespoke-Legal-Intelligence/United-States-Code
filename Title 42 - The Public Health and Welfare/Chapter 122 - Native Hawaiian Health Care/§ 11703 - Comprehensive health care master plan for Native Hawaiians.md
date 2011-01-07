@@ -8,7 +8,7 @@ The Secretary may make a grant to, or enter into a contract with, Papa Ola Lokah
 
 There are authorized to be appropriated such sums as may be necessary to carry out subsection (a) of this section.
 
-(Pub. L. 100–579, §4, Oct. 31, 1988, 102 Stat. 2916; Pub. L. 100–690, title II, §2304, Nov. 18, 1988, 102Stat. 4223; Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948.)
+(Pub. L. 100–579, §4, Oct. 31, 1988, 102 Stat. 2916; Pub. L. 100–690, title II, §2304, Nov. 18, 1988, 102 Stat. 4223; Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948.)
 
 #### Codification
 
@@ -18,5 +18,5 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections.
 
 #### Amendments
 
-1992—Pub. L. 102–396 amended section generally. Prior to amendment, section related to Native Hawaiian health centers.
+<b>1992</b>—Pub. L. 102–396 amended section generally. Prior to amendment, section related to Native Hawaiian health centers.
 

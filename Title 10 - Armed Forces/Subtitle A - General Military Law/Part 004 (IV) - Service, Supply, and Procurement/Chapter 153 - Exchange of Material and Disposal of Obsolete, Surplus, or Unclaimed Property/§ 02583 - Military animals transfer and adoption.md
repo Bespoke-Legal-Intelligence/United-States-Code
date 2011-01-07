@@ -12,7 +12,7 @@ Availability for Adoption.—The Secretary of the military department concerned 
 
 (b)
 
-Suitability for Adoption.—The decision whether a particular military animal is suitable or unsuitable for adoption under this section shall be made by the commander of the last unit to which the animal is assigned before being declared excess. The unit commander shall consider the recommendations of the unit's veterinarian in making the decision regarding the adoptability of the animal.
+Suitability for Adoption.—The decision whether a particular military animal is suitableor unsuitable for adoption under this section shall be made by the commander of the last unit to which the animal is assigned before being declared excess. The unit commander shall consider the recommendations of the unit's veterinarian in making the decision regarding the adoptability of the animal.
 
 (c)
 
@@ -44,13 +44,13 @@ Military Animal Defined.—In this section, the term “military animal” means
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–181 substituted “
+<b>2008</b>—Subsec. (e). Pub. L. 110–181 substituted “
 
 Animals” for “
 
 Dogs” in heading.
 
-2006—Pub. L. 109–364, §352(a)(1), substituted “animals” for “working dogs” in section catchline.
+<b>2006</b>—Pub. L. 109–364, §352(a)(1), substituted “animals” for “working dogs” in section catchline.
 
 Pub. L. 109–163, §599(d), struck out “at end of useful working life” after “adoption” in section catchline.
 
@@ -64,7 +64,7 @@ Subsec. (c). Pub. L. 109–364, §352(a)(2), (3), substituted “animals” for 
 
 Subsec. (d). Pub. L. 109–364, §352(a)(2), (3), substituted “animal” for “dog” and struck out “working” after “military”.
 
-2006—Subsec. (e). Pub. L. 109–364, §352(a)(3), substituted “animal” for “dog” wherever appearing in text.
+<b>2006</b>—Subsec. (e). Pub. L. 109–364, §352(a)(3), substituted “animal” for “dog” wherever appearing in text.
 
 Pub. L. 109–364, §352(a)(2), struck out “working” after “military” wherever appearing.
 
@@ -74,5 +74,5 @@ Pub. L. 109–163, §599(c), inserted “of Defense” after “Secretary”.
 
 Subsec. (g). Pub. L. 109–364, §352(a)(6), added subsec. (g).
 
-2001—Pub. L. 107–107 renumbered section 2582 of this title as this section.
+<b>2001</b>—Pub. L. 107–107 renumbered section 2582 of this title as this section.
 

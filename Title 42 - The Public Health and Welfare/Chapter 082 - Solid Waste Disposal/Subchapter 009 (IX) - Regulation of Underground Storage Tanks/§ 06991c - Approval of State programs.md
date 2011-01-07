@@ -126,7 +126,7 @@ The Federal Bankruptcy Code, referred to in subsec. (c)(3), probably means a ref
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–58, §1533(3), substituted “in subparagraph (A) or (B) of section 6991(7)” for “in 6991(2)(A) or (B) or both”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–58, §1533(3), substituted “in subparagraph (A) or (B) of section 6991(7)” for “in 6991(2)(A) or (B) or both”.
 
 Subsec. (a)(9). Pub. L. 109–58, §1524(b), added par. (9).
 
@@ -134,7 +134,7 @@ Subsec. (c)(6). Pub. L. 109–58, §1522(b), added par. (6).
 
 Subsec. (f). Pub. L. 109–58, §1522(a), added subsec. (f).
 
-1986—Subsec. (c)(1). Pub. L. 99–499, §205(e)(1), struck out “financed by fees on tank owners and operators and” after “compensation programs”.
+<b>1986</b>—Subsec. (c)(1). Pub. L. 99–499, §205(e)(1), struck out “financed by fees on tank owners and operators and” after “compensation programs”.
 
 Subsec. (c)(2). Pub. L. 99–499, §205(e)(2), struck out “or” after “letter of credit,” and inserted “or any other method satisfactory to the Administrator” and “including the amount of coverage required for various classes and categories of underground storage tanks pursuant to section 6991b(d)(5) of this title”.
 

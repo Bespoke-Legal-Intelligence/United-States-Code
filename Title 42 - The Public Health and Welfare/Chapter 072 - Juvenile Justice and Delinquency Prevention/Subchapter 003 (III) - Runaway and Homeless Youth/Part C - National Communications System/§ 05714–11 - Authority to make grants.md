@@ -6,5 +6,5 @@ The Secretary shall make grants for a national communication system to assist ru
 
 #### Amendments
 
-1999—Pub. L. 106–71 substituted “The Secretary” for “With funds reserved under section 5751(a)(3) of this title, the Secretary” in first sentence.
+<b>1999</b>—Pub. L. 106–71 substituted “The Secretary” for “With funds reserved under section 5751(a)(3) of this title, the Secretary” in first sentence.
 

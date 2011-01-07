@@ -12,7 +12,7 @@ Provisions imposing penalties and forfeitures for violation of R.S. §2872, whic
 
 #### Amendments
 
-1970—Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector.
+<b>1970</b>—Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector.
 
 #### Effective Date of 1970 Amendment
 

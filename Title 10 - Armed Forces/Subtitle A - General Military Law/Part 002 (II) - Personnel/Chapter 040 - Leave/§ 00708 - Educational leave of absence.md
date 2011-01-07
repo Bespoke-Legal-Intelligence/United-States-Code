@@ -6,7 +6,7 @@
 
 &emsp;(A) in the case of an enlisted member, the member agrees in writing to extend his current enlistment after completion (or other termination) of the program of education for which the leave of absence was granted for a period of two months for each month of the period of the leave of absence; and
 
-&emsp;(B) in the case of an officer, the member agrees to serve on active duty after completion (or other termination) of the program of education for which the leave of absence was granted for a period (in addition to any other period of obligated service on active duty) oftwo months for each month of the period of the leave of absence.
+&emsp;(B) in the case of an officer, the member agrees to serve on active duty after completion (or other termination) of the program of education for which the leave of absence was granted for a period (in addition to any other period of obligated service on active duty) of two months for each month of the period of the leave of absence.
 
 (2) A member may not be granted a leave of absence under this section until he has completed any extension of enlistment or reenlistment, or any period of obligated service, incurred by reason of any previous leave of absence granted under this section.
 
@@ -28,19 +28,19 @@
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–364 made technical correction to directory language of Pub. L. 108–375, §554(1). See 2004 Amendment note below.
+<b>2006</b>—Subsec. (a). Pub. L. 109–364 made technical correction to directory language of Pub. L. 108–375, §554(1). See 2004 Amendment note below.
 
-2004—Subsec. (a). Pub. L. 108–375, §554(2), inserted at end “The period of a leave of absence granted under this section may not exceed two years, except that the period may exceed two years but may not exceed three years in the case of an eligible member pursuing a program of education in a health care profession.”
+<b>2004</b>—Subsec. (a). Pub. L. 108–375, §554(2), inserted at end “The period of a leave of absence granted under this section may not exceed two years, except that the period may exceed two years but may not exceed three years in the case of an eligible member pursuing a program of education in a health care profession.”
 
 Pub. L. 108–375, §554(1), as amended by Pub. L. 109–364, struck out “for a period of not to exceed two years” after “leave of absence”.
 
-2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1997—Subsec. (c)(1). Pub. L. 105–85 substituted “basic allowance for housing under section 403 of title 37, basic allowance for subsistence under section 402 of such title,” for “basic allowance for quarters or basic allowance for subsistence”.
+<b>1997</b>—Subsec. (c)(1). Pub. L. 105–85 substituted “basic allowance for housing under section 403 of title 37, basic allowance for subsistence under section 402 of such title,” for “basic allowance for quarters or basic allowance for subsistence”.
 
-1994—Subsec. (c)(2). Pub. L. 103–337 substituted “section 3021 of title 38” for “section 1421 of title 38”.
+<b>1994</b>—Subsec. (c)(2). Pub. L. 103–337 substituted “section 3021 of title 38” for “section 1421 of title 38”.
 
-1987—Subsec. (d)(1). Pub. L. 100–26, §7(i)(2), substituted “October 19, 1984” for “the date of the enactment of this section”.
+<b>1987</b>—Subsec. (d)(1). Pub. L. 100–26, §7(i)(2), substituted “October 19, 1984” for “the date of the enactment of this section”.
 
 Subsec. (e). Pub. L. 100–26, §7(k)(3), inserted “the term” after “In this section,”.
 

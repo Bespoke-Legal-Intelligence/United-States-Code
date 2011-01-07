@@ -26,13 +26,17 @@
 
 (b) The Director is authorized to define or redefine, by rules and regulations, any scientific or technical term used in this Act, insofar as such definition is not inconsistent with the purposes of this Act.
 
-(Pub. L. 93–234, §3, Dec. 31, 1973, 87 Stat. 976; Pub. L. 95–128, title VII, §703(b), Oct. 12, 1977, 91 Stat. 1145; Pub. L. 98–181, title IV, §451(e), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–707, title I, §109(t), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 103–325, title V, §511(a), Sept. 23, 1994, 108 Stat. 2255; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
+(Pub. L. 93–234, §3, Dec. 31, 1973, 87 Stat. 976; Pub. L. 95–128, title VII, §703(b), Oct. 12, 1977, 91 Stat. 1145; Pub. L. 98–181, title IV, §451(e), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–707, title I, §109(t), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 103–325, title V, §511(a), Sept. 23, 1994, 108 Stat. 2255; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 111–203, title III, §368, July 21, 2010, 124 Stat. 1557.)
+
+#### Amendment of Subsection (a)(5)
+
+<i>Pub. L. 111–203, title III, §§351, 368, July 21, 2010, 124 Stat. 1546, 1557, provided that, effective on the transfer date, subsection (a)(5) of this section is amended by striking out “, the Office of Thrift Supervision”. See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
-This Act, referred to in text, means Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, as amended, known as the Flood Disaster Protection Act of 1973. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 4001 of this title and Tables.
+This Act, referred to in text, means Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, known as the Flood Disaster Protection Act of 1973. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 4001 of this title and Tables.
 
-The Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(4), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+The Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(4), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Codification
 
@@ -40,21 +44,25 @@ Section was enacted as part of Flood Disaster Protection Act of 1973, and not as
 
 #### Amendments
 
-1994—Subsec. (a)(5). Pub. L. 103–325, §511(a)(1), added par. (5) and struck out former par. (5) which read as follows: “ ‘Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similar institutions’ means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Federal Home Loan Bank Board, the Federal Savings and Loan Insurance Corporation, and the National Credit Union Administration; and”.
+<b>1994</b>—Subsec. (a)(5). Pub. L. 103–325, §511(a)(1), added par. (5) and struck out former par. (5) which read as follows: “ ‘Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similar institutions’ means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Federal Home Loan Bank Board, the Federal Savings and Loan Insurance Corporation, and the National Credit Union Administration; and”.
 
 Subsec. (a)(7) to (11). Pub. L. 103–325, §511(a)(2), (3), added pars. (7) to (11).
 
-1988—Subsec. (a)(4). Pub. L. 100–707 substituted “Disaster Relief and Emergency Assistance Act” for “Disaster Relief Act of 1974”.
+<b>1988</b>—Subsec. (a)(4). Pub. L. 100–707 substituted “Disaster Relief and Emergency Assistance Act” for “Disaster Relief Act of 1974”.
 
-1983—Subsec. (a)(6). Pub. L. 98–181, §451(e)(2), substituted definition of “Director” meaning the Director of the Federal Emergency Management Agency for definition of “Secretary” meaning the Secretary of Housing and Urban Development.
+<b>1983</b>—Subsec. (a)(6). Pub. L. 98–181, §451(e)(2), substituted definition of “Director” meaning the Director of the Federal Emergency Management Agency for definition of “Secretary” meaning the Secretary of Housing and Urban Development.
 
 Subsec. (b). Pub. L. 98–181, §451(e)(1), substituted “Director” for “Secretary”.
 
-1977—Subsec. (a)(4). Pub. L. 95–128 substituted “assistance pursuant to the Disaster Relief Act of 1974 (other than assistance under such Act in connection with a flood)” for “assistance for emergency work essential for the protection and preservation of life and property performed pursuant to the Disaster Relief Act of 1970 or any subsequent Act of Congress which supersedes or modifies the Disaster Relief Act of 1970”.
+<b>1977</b>—Subsec. (a)(4). Pub. L. 95–128 substituted “assistance pursuant to the Disaster Relief Act of 1974 (other than assistance under such Act in connection with a flood)” for “assistance for emergency work essential for the protection and preservation of life and property performed pursuant to the Disaster Relief Act of 1970 or any subsequent Act of Congress which supersedes or modifies the Disaster Relief Act of 1970”.
 
 #### Change of Name
 
 “Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (a)(6) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
 #### Transfer of Functions
 

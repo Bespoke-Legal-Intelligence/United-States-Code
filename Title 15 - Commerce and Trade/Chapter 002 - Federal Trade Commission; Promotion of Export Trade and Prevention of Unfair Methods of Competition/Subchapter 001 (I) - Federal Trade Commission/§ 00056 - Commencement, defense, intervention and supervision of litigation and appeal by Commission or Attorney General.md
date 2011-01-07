@@ -38,13 +38,13 @@
 
 (C) For purposes of this paragraph (with respect to representation before the Supreme Court), the term “Attorney General” includes the Solicitor General.
 
-(4) If, prior to the expiration of the 45-day period specified in paragraph (1) of this section or a 60-day period specified in paragraph (3), any right of the Commission to commence, defend, or intervene in, any such action or appeal may be extinguished due to any procedural requirement of any court with respect to the time in which any pleadings, notice of appeal, or other acts pertaining to such action or appeal may be taken, the Attorney General shall have one-half of the time required to comply with any such procedural requirement of the court (including any extension of such time granted by the court) for the purpose of commencing, defending, or intervening in the civil action pursuant to paragraph (1) or for the purpose of refusing to appeal or file a petition for writ of certiorari and the written notification or failing to take any action pursuant to paragraph 3(A)(ii).
+(4) If, prior to the expiration of the 45-day period specified in paragraph (1) of this section or a 60-day period specified in paragraph (3), any right of the Commission to commence, defend, or intervene in, any such action or appeal may be extinguished due to any procedural requirement of any court with respect to the time in which any pleadings, notice of appeal, or other acts pertaining to such action or appeal may be taken, the Attorney General shall have one-halfof the time required to comply with any such procedural requirement of the court (including any extension of such time granted by the court) for the purpose of commencing, defending, or intervening in the civil action pursuant to paragraph (1) or for the purpose of refusing to appeal or file a petition for writ of certiorari and the written notification or failing to take any action pursuant to paragraph 3(A)(ii).
 
 (5) The provisions of this subsection shall apply notwithstanding chapter 31 of title 28, or any other provision of law.
 
 #### (b) Certification by Commission to Attorney General for criminal proceedings
 
-Whenever the Commission has reason to believe that any person, partnership, or corporation is liable for a criminal penalty under thissubchapter, the Commission shall certify the facts to the Attorney General, whose duty it shall be to cause appropriate criminal proceedings to be brought.
+Whenever the Commission has reason to believe that any person, partnership, or corporation is liable for a criminal penalty under this subchapter, the Commission shall certify the facts to the Attorney General, whose duty it shall be to cause appropriate criminal proceedings to be brought.
 
 #### (c) Foreign litigation
 
@@ -72,13 +72,13 @@ Whenever the Commission has reason to believe that any person, partnership, or c
 
 #### Amendments
 
-2006—Subsec. (a)(2)(E). Pub. L. 109–455, §§7(b), 13, temporarily added subpar. (E). See Termination Date of 2006 Amendment note below.
+<b>2006</b>—Subsec. (a)(2)(E). Pub. L. 109–455, §§7(b), 13, temporarily added subpar. (E). See Termination Date of 2006 Amendment note below.
 
 Subsec. (c). Pub. L. 109–455, §§5, 13, temporarily added subsec. (c). See Termination Date of 2006 Amendment note below.
 
-1975—Pub. L. 93–637 substituted provisions authorizing the Commission at its election to appear in court by its own name and designate its attorneys for such purpose, for provisions relating to the certification of facts by the Commission to the Attorney General who brought the appropriate proceedings, or, after compliance with section 45(m) of this title, itself brought the appropriate proceedings.
+<b>1975</b>—Pub. L. 93–637 substituted provisions authorizing the Commission at its election to appear in court by its own name and designate its attorneys for such purpose, for provisions relating to the certification of facts by the Commission to the Attorney General who brought the appropriate proceedings, or, after compliance with section 45(m) of this title, itself brought the appropriate proceedings.
 
-1973—Pub. L. 93–153 inserted provisions authorizing the Federal Trade Commission to itself cause appropriate proceedings to be brought after compliance with the requirements of section 45(m) of this title.
+<b>1973</b>—Pub. L. 93–153 inserted provisions authorizing the Federal Trade Commission to itself cause appropriate proceedings to be brought after compliance with the requirements of section 45(m) of this title.
 
 #### Termination Date of 2006 Amendment
 

@@ -10,5 +10,5 @@ Section was formerly classified to section 471d of Title 48, Territories and Ins
 
 #### Amendments
 
-1968—Pub. L. 90–403 required publication of notice of alteration of a grazing district in each judicial division in which the district proposed to be altered is located, the notice to describe the boundaries of the proposed alteration and location and date of requisite hearings, and also public hearings with respect to the alteration to be held in each such judicial division prior to making the alteration.
+<b>1968</b>—Pub. L. 90–403 required publication of notice of alteration of a grazing district in each judicial division in which the district proposed to be altered is located, the notice to describe the boundaries of the proposed alteration and location and date of requisite hearings, and also public hearings with respect to the alteration to be held in each such judicial division prior to making the alteration.
 

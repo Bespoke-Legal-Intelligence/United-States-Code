@@ -32,7 +32,7 @@ Access to Secondary Schools.—(1)(A) Each local educational agency receiving as
 
 (2) If a local educational agency denies a request by the Department of Defense for recruiting access, the Secretary of Defense, in cooperation with the Secretary of the military department concerned, shall designate an officer in a grade not below the grade of colonel or, in the case of the Navy, captain, or a senior executive of that military department to meet with representatives of that local educational agency in person, at the offices of that agency, for the purpose of arranging for recruiting access. The designated officer or senior executive shall seek to have that meeting within 120 days of the date of the denial of the request for recruiting access.
 
-(3) If, after a meeting under paragraph (2) with representatives of a local educational agency that has denied a request for recruiting access or (if the educational agency declines a request for the meeting) after the end of such 120-day period, the Secretary of Defense determines that the agency continues to deny recruiting access, the Secretary shall transmit to the chief executive of the State in which the agency is located a notification of the denial of recruiting access and a request for assistance in obtaining that access. The notification shall be transmitted within 60 days after the date of the determination. The Secretary shall provide to the Secretary of Education a copy of such notificationand any other communication between the Secretary and that chief executive with respect to such access.
+(3) If, after a meeting under paragraph (2) with representatives of a local educational agency that has denied a request for recruiting access or (if the educational agency declines a request for the meeting) after the end of such 120-day period, the Secretary of Defense determines that the agency continues to deny recruiting access, the Secretary shall transmit to the chief executive of the State in which the agency is located a notification of the denial of recruiting access and a request for assistance in obtaining that access. The notification shall be transmitted within 60 days after the date of the determination. The Secretary shall provide to the Secretary of Education a copy of such notification and any other communication between the Secretary and that chief executive with respect to such access.
 
 (4) If a local educational agency continues to deny recruiting access one year after the date of the transmittal of a notification regarding that agency under paragraph (3), the Secretary—
 
@@ -82,9 +82,9 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1
 
 #### Amendments
 
-2004—Subsec. (c)(1)(B). Pub. L. 108–375 substituted “educational” for “education” after “Each local”.
+<b>2004</b>—Subsec. (c)(1)(B). Pub. L. 108–375 substituted “educational” for “education” after “Each local”.
 
-2003—Subsec. (c)(5). Pub. L. 108–136, §543(a), substituted “apply to a private secondary school that” for “apply to—
+<b>2003</b>—Subsec. (c)(5). Pub. L. 108–136, §543(a), substituted “apply to a private secondary school that” for “apply to—
 
 &emsp;“(A) a local educational agency with respect to access to secondary school students or access to directory information concerning such students for any period during which there is in effect a policy of that agency, established by majority vote of the governing body of the agency, to deny recruiting access to those students or to that directory information, respectively; or
 
@@ -92,11 +92,11 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1
 
 Subsec. (c)(6)(A)(i). Pub. L. 108–136, §543(b), substituted “9101” and “7801” for “14101” and “8801”, respectively.
 
-2001—Subsec. (c). Pub. L. 107–107, §544(a), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, par. (1) read as follows: “Each local educational agency shall (except as provided under paragraph (5)) provide to the Department of Defense, upon a request made for military recruiting purposes, the same access to secondary school students, and to directory information concerning such students, as is provided generally to post-secondary educational institutions or to prospective employers of those students.”
+<b>2001</b>—Subsec. (c). Pub. L. 107–107, §544(a), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, par. (1) read as follows: “Each local educational agency shall (except as provided under paragraph (5)) provide to the Department of Defense, upon a request made for military recruiting purposes, the same access to secondary school students, and to directory information concerning such students, as is provided generally to post-secondary educational institutions or to prospective employers of those students.”
 
 Subsec. (c)(6)(A)(i). Pub. L. 107–107, §1048(a)(5)(A), substituted “14101” for “14101(18)” and “8801” for “8801(18)”.
 
-2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title V, §§562, 563(c)(1)\], inserted heading, designated existing provisions as par. (1), and added par. (2).
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title V, §§562, 563(c)(1)\], inserted heading, designated existing provisions as par. (1), and added par. (2).
 
 Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title V, §563(c)(2)\], inserted heading.
 
@@ -106,13 +106,13 @@ Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title V, §563(a)\], amended s
 
 Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title V, §563(b)(2)\], added subsec. (d).
 
-1999—Subsec. (b)(5). Pub. L. 106–65, §1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsec. (b)(5). Pub. L. 106–65, §1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
 Subsec. (c). Pub. L. 106–65, §571, added subsec. (c).
 
-1996—Subsec. (b)(5). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+<b>1996</b>—Subsec. (b)(5). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
-1982—Pub. L. 97–252, §1114(b)(2), inserted “; compilation of directory information” in section catchline.
+<b>1982</b>—Pub. L. 97–252, §1114(b)(2), inserted “; compilation of directory information” in section catchline.
 
 Subsec. (a). Pub. L. 97–252, §1114(b)(1)(A), designated existing provisions as subsec. (a).
 
@@ -406,7 +406,7 @@ In General.—The Secretary of Defense shall carry out reforms in the recruiting
 
 “(b)
 
-Specific Reforms.—As part of the reforms in military recruiting systems to be undertaken undersubsection (a), the Secretary shall take the following steps:
+Specific Reforms.—As part of the reforms in military recruiting systems to be undertaken under subsection (a), the Secretary shall take the following steps:
 
 &emsp;“(1) Improve the system of pre-enlistment waivers and separation codes used for recruits by (A) revising and updating those waivers and codes to allow more accurate and useful data collection about those separations, and (B) prescribing regulations to ensure that those waivers and codes are interpreted in a uniform manner by the military services.
 
@@ -464,7 +464,7 @@ Pub. L. 104–208, div. A, title I, §101(e) \[title V, §514\], Sept. 30, 1996,
 
 #### Military Recruiting on Campus
 
-Pub. L. 103–337, div. A, title V, §558, Oct. 5, 1994, 108 Stat. 2776, as amended by Pub. L. 104–324, title II, §206(a), Oct. 19, 1996, 110 Stat. 3908, which provided that no funds available to the Department of Defense or the Department of Transportation could be provided by grant or contract to any institution of higher education that had a policy of denying or preventing the Secretary of Defense or the Secretary of Transportation from obtaining for military recruiting purposes entry to campuses or access to students on campuses or access to directory information pertaining to students, was repealed and restated in section 983 of this title by Pub. L. 106–65, div. A, title V, §549(a)(1), (b)(1), Oct. 5, 1999, 113 Stat. 609, 611.
+Pub. L. 103–337, div. A, title V, §558, Oct. 5, 1994, 108 Stat. 2776, as amended by Pub. L. 104–324, title II, §206(a), Oct. 19, 1996, 110 Stat. 3908, which provided that no funds available to the Department of Defense or the Department of Transportation could be provided by grant or contract to any institution of higher education that had a policy of denying or preventing the Secretary of Defense or the Secretary of Transportation from obtaining for military recruiting purposesentry to campuses or access to students on campuses or access to directory information pertaining to students, was repealed and restated in section 983 of this title by Pub. L. 106–65, div. A, title V, §549(a)(1), (b)(1), Oct. 5, 1999, 113 Stat. 609, 611.
 
 #### Military Recruiting Information
 

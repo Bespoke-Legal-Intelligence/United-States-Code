@@ -6,5 +6,5 @@ There are authorized to be appropriated for each of the fiscal years 1991 and 19
 
 #### Amendments
 
-1990—Pub. L. 101–382 substituted “1991 and 1992” for “1989 and 1990”.
+<b>1990</b>—Pub. L. 101–382 substituted “1991 and 1992” for “1989 and 1990”.
 

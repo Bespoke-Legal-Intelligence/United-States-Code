@@ -1,6 +1,6 @@
 ### §4370g. Availability of funds for uniforms and certain services
 
-For fiscal year 2009 and thereafter, the Science and Technology and Environmental Programs and Management Accounts are available for uniforms, or allowances therefore, as authorized by sections 5901 and 5902 of title 5 and for services as authorized by section 3109 of title 5, but at rates for individuals not to exceed the daily equivalent of the rate paid for level IV of the Executive Schedule.
+For fiscal year 2009 and thereafter, the Science and Technology and Environmental Programs and Management Accounts are available for uniforms, or allowances therefore, as authorized bysections 5901 and 5902 of title 5 and for services as authorized by section 3109 of title 5, but at rates for individuals not to exceed the daily equivalent of the rate paid for level IV of the Executive Schedule.
 
 (Pub. L. 111–8, div. E, title II, Mar. 11, 2009, 123 Stat. 728.)
 

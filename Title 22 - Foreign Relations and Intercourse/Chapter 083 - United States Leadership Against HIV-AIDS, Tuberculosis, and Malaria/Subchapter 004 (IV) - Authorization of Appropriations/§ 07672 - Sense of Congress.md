@@ -18,7 +18,7 @@ It is the sense of Congress that, of the amounts appropriated pursuant to the au
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–293 substituted “10 percent should be used” for “an effective distribution of such amounts would be—
+<b>2008</b>—Subsec. (b). Pub. L. 110–293 substituted “10 percent should be used” for “an effective distribution of such amounts would be—
 
 &emsp;“(1) 55 percent of such amounts for treatment of individuals with HIV/AIDS;
 

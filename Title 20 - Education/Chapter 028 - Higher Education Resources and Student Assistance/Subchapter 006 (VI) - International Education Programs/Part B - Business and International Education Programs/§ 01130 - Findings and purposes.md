@@ -16,23 +16,19 @@ The Congress finds that—
 
 It is the purpose of this part—
 
-&emsp;(1) to enhance the broad objective of this chapter by increasing and promoting the Nation's capacity for international understanding and economic enterprise through the provision of suitable international education and training for business personnel in various stages of professional development; and
+&emsp;(1) to enhance the broad objective of this chapter and part C of subchapter I of chapter 34 of title 42 by increasing and promoting the Nation's capacity for international understanding and economic enterprise through the provision of suitable international education and training for business personnel in various stages of professional development; and
 
 &emsp;(2) to promote institutional and noninstitutional educational and training activities that will contribute to the ability of United States business to prosper in an international economy.
 
 (Pub. L. 89–329, title VI, §611, as added Pub. L. 96–374, title VI, §601(a), Oct. 3, 1980, 94 Stat. 1467; amended Pub. L. 99–498, title VI, §610, Oct. 17, 1986, 100 Stat. 1519; Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 728; Pub. L. 105–244, title VI, §602(a), Oct. 7, 1998, 112 Stat. 1783.)
 
-#### References in Text
-
-This chapter, referred to in subsec. (b)(1), was in the original “this Act”, meaning Pub. L. 89–329, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
-
 #### Amendments
 
-1998—Pub. L. 105–244 amended section catchline generally.
+<b>1998</b>—Pub. L. 105–244 amended section catchline generally.
 
-1992—Pub. L. 102–325 amended section generally, inserting subsec. headings and reenacting text without substantial change.
+<b>1992</b>—Pub. L. 102–325 amended section generally, inserting subsec. headings and reenacting text without substantial change.
 
-1986—Subsec. (a)(1). Pub. L. 99–498 inserted “and educational” after “skills in the business”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–498 inserted “and educational” after “skills in the business”.
 
 #### Effective Date of 1998 Amendment
 

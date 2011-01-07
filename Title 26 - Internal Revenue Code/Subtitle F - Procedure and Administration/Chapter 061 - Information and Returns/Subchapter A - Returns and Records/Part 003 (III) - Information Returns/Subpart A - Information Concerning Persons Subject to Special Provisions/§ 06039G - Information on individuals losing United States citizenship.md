@@ -56,11 +56,11 @@ Section 358 of the Immigration and Nationality Act, referred to in subsec. (d)(2
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–245, §301(e)(1), inserted “or 877A” after “section 877(b)”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–245, §301(e)(1), inserted “or 877A” after “section 877(b)”.
 
 Subsec. (d). Pub. L. 110–245, §301(e)(2), inserted “or 877A” after “section 877(a)” in concluding provisions.
 
-2004—Subsec. (a). Pub. L. 108–357, §804(e)(1), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, any individual who loses United States citizenship (within the meaning of section 877(a)) shall provide a statement which includes the information described in subsection (b). Such statement shall be—
+<b>2004</b>—Subsec. (a). Pub. L. 108–357, §804(e)(1), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, any individual who loses United States citizenship (within the meaning of section 877(a)) shall provide a statement which includes the information described in subsection (b). Such statement shall be—
 
 &emsp;“(1) provided not later than the earliest date of any act referred to in subsection (c), and
 
@@ -94,7 +94,7 @@ Subsec. (f). Pub. L. 108–357, §804(e)(4), struck out heading and text of subs
 
 Subsec. (g). Pub. L. 108–357, §804(e)(4), struck out heading and text of subsec. (g). Text read as follows: “The Secretary may by regulations exempt any class of individuals from the requirements of this section if he determines that applying this section to such individuals is not necessary to carry out the purposes of this section.”
 
-1997—Pub. L. 105–34 renumbered section 6039F as this section.
+<b>1997</b>—Pub. L. 105–34 renumbered section 6039F as this section.
 
 #### Effective Date of 2008 Amendment
 

@@ -26,7 +26,7 @@ Definition.—In this section, the term “burial” includes inurnment.
 
 #### Amendments
 
-2006—Pub. L. 109–163, §662(c)(1), substituted “Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits” for “Persons convicted of capital crimes: denial of certain burial-related benefits” in section catchline.
+<b>2006</b>—Pub. L. 109–163, §662(c)(1), substituted “Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits” for “Persons convicted of capital crimes: denial of certain burial-related benefits” in section catchline.
 
 Subsec. (a). Pub. L. 109–163, §662(b)(1)(B), substituted “any of the following persons:” for “a person who has been convicted of a capital offense under Federal or State law for which the person was sentenced to death or life imprisonment without parole.” and added pars. (1) and (2).
 
@@ -42,7 +42,7 @@ Subsec. (c). Pub. L. 109–163, §662(b)(3), amended heading and text of subsec.
 
 &emsp;“(3) The term ‘State’ includes the District of Columbia and any commonwealth or territory of the United States.”
 
-2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 #### Effective Date of 2006 Amendment
 
@@ -50,7 +50,7 @@ Pub. L. 109–163, div. A, title VI, §662(e), Jan. 6, 2006, 119 Stat. 3316, pro
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date
 

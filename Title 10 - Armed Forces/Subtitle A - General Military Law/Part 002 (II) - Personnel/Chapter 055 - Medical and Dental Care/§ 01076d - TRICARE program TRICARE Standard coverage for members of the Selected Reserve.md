@@ -48,13 +48,13 @@ Definitions.—In this section:
 
 #### Amendments
 
-2009—Pub. L. 111–84 substituted “Standard” for “standard” in section catchline.
+<b>2009</b>—Pub. L. 111–84 substituted “Standard” for “standard” in section catchline.
 
-2008—Subsec. (d)(3). Pub. L. 110–417 designated existing provisions as subpar. (A), substituted “determined” for “that the Secretary determines”, struck out at end “During the period beginning on April 1, 2006, and ending on September 30, 2008, the monthly amount of the premium may not be increased above the amount in effect for the month of March 2006.”, and added subpar. (B).
+<b>2008</b>—Subsec. (d)(3). Pub. L. 110–417 designated existing provisions as subpar. (A), substituted “determined” for “that the Secretary determines”, struck out at end “During the period beginning on April 1, 2006, and ending on September 30, 2008, the monthly amount of the premium may not be increased above the amount in effect for the month of March 2006.”, and added subpar. (B).
 
 Pub. L. 110–181 substituted “September 30, 2008” for “September 30, 2007”.
 
-2006—Pub. L. 109–364, §706(c)(2), substituted “TRICARE standard coverage for members of the Selected Reserve” for “coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation” in section catchline.
+<b>2006</b>—Pub. L. 109–364, §706(c)(2), substituted “TRICARE standard coverage for members of the Selected Reserve” for “coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation” in section catchline.
 
 Pub. L. 109–163, §701(f)(1), substituted “active duty in support of a contingency operation” for “active duty” in section catchline.
 

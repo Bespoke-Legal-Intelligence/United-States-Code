@@ -18,7 +18,7 @@ In the preparation of the recommendations for the reorganization of trade functi
 
 #### (1) Domestic administrative practices
 
-&emsp;As soon as practicable after the close of the two-year period beginning on the date on which any waiver under section 2511(a) of this title first takes effect, the President shall prepare and transmit to Congress a report containing an evaluation of administrative practices under any provision of law which requires determinations to be made of the country of origin of goods, products, commodities,or other articles of commerce. Such evaluation shall be accompanied by the President's recommendations for legislative and executive measures required to improve and simplify and to make more uniform and consistent such practices. Such evaluation and recommendations shall take into account the special problems affecting insular possessions of the United States with respect to such practices.
+&emsp;As soon as practicable after the close of the two-year period beginning on the date on which any waiver under section 2511(a) of this title first takes effect, the President shall prepare and transmit to Congress a report containing an evaluation of administrative practices under any provision of law which requires determinations to be made of the country of origin of goods, products, commodities, or other articles of commerce. Such evaluation shall be accompanied by the President's recommendations for legislative and executive measures required to improve and simplify and to make more uniform and consistent such practices. Such evaluation and recommendations shall take into account the special problems affecting insular possessions of the United States with respect to such practices.
 
 #### (2) Foreign administrative practices
 
@@ -28,13 +28,13 @@ In the preparation of the recommendations for the reorganization of trade functi
 
 #### Amendments
 
-1996—Subsec. (d)(2)(B), (C). Pub. L. 104–295, §20(c)(10), struck out “or” at end of subpar. (B) and substituted semicolon for period at end of subpar. (C).
+<b>1996</b>—Subsec. (d)(2)(B), (C). Pub. L. 104–295, §20(c)(10), struck out “or” at end of subpar. (B) and substituted semicolon for period at end of subpar. (C).
 
 Subsec. (g)(1). Pub. L. 104–295, §20(c)(13)(A), in introductory provisions, substituted “of subsection (d)(2) of this section” for “of such subsection” and inserted “of subsection (d)(2) of this section” after “(as the case may be)”.
 
 Subsec. (g)(3). Pub. L. 104–295, §20(c)(13)(B), substituted “eliminated the practices” for “eliminated the the practices” and inserted “of subsection (d)(2) of this section” after “(as the case may be)”.
 
-1994—Subsec. (d)(1). Pub. L. 103–465, §342(c), substituted “April 30 of each year,” for “April 30, 1990, and annually on April 30 thereafter,”.
+<b>1994</b>—Subsec. (d)(1). Pub. L. 103–465, §342(c), substituted “April 30 of each year,” for “April 30, 1990, and annually on April 30 thereafter,”.
 
 Subsec. (d)(2)(D), (E). Pub. L. 103–465, §341(c)(1), added subpars. (D) and (E) which read as follows:
 
@@ -102,7 +102,7 @@ Subsec. (g)(1). Pub. L. 103–465, §343(c)(1), in introductory provisions, subs
 
 Subsec. (g)(3). Pub. L. 103–465, §343(c)(2), substituted “the practices regarding government procurement identified under subparagraph (B)(ii), (C)(ii), (D)(ii), or (E)(ii) (as the case may be)” for “discrimination identified pursuant to subsection (d)(2)(B) or (C) of this section”.
 
-1988—Subsecs. (d) to (k). Pub. L. 100–418, §§7003, 7004, temporarily added subsecs. (d) to (k) which read as follows:
+<b>1988</b>—Subsecs. (d) to (k). Pub. L. 100–418, §§7003, 7004, temporarily added subsecs. (d) to (k) which read as follows:
 
 “(d)
 
@@ -118,7 +118,7 @@ Identifications required.—In the annual report, the President shall identify (
 
 &emsp;&emsp;“(A) are signatories to the Agreement and not in compliance with the requirements of the Agreement;
 
-&emsp;&emsp;“(B)(i) are signatories to the Agreement; (ii) are in compliance with the Agreement but, in the government procurement of products or services not covered by the Agreement, maintain a significant and persistent pattern or practice of discrimination against United States products or services which results in identifiable harm to United States businesses; and (iii) whose products or services are acquired in significant amounts by the United States Government; or
+&emsp;&emsp;“(B)(i) are signatories to the Agreement; (ii) are in compliance with the Agreement but, in the government procurement of products or services not covered by the Agreement, maintain a significant and persistent pattern or practice of discrimination against United States products or services whichresults in identifiable harm to United States businesses; and (iii) whose products or services are acquired in significant amounts by the United States Government; or
 
 &emsp;&emsp;“(C)(i) are not signatories to the Agreement; (ii) maintain, in government procurement, a significant and persistent pattern or practice of discrimination against United States products or services which results in identifiable harm to United States businesses; and (iii) whose products or services are acquired in significant amounts by the United States Government.
 
@@ -300,15 +300,15 @@ Amendment by Pub. L. 103–465 effective on the date on which the Agreement on G
 
 #### Termination Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 to cease to be effective on Apr. 30, 1996, unless Congress, after reviewing report required by former subsection (k) of this section, extends such date, see section 7004 of Pub. L. 100–418, set out as an Effective and Termination Dates of 1988 Amendments note under section 10a of Title 41, Public Contracts.
+Amendment by Pub. L. 100–418 to cease to be effective on Apr. 30, 1996, unless Congress, after reviewing report required by former subsec. (k) of this section, extends such date, see section 7004 of Pub. L. 100–418, set out as an Effective and Termination Dates of 1988 Amendment note under section 2511 of this title.
 
 #### Transfer of Functions
 
-Functions of Secretary of the Treasury under subsec. (b) of this section transferred to Secretary of Commerce, to exercise in consultation with Secretary of the Treasury, by section 5(a)(1)(A) of Reorg. Plan No. 3 of 1979, 44 F.R. 69274, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title.
+Functions of Secretary of the Treasury under subsec. (b) transferred to Secretary of Commerce, to exercise in consultation with Secretary of the Treasury, by section 5(a)(1)(A) of Reorg. Plan No. 3 of 1979, 44 F.R. 69274, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title.
 
 Pub. L. 96–609, title II, §205, Dec. 28, 1980, 94 Stat. 3562, provided that: “Notwithstanding subparagraph (1)(A) of subsection 5(a) of Reorganization Plan No. 3 of 1979 (44 F.R. 69272, 93 Stat. 1381) \[set out as a note under section 2171 of this title\], the Secretary of the Treasury or his delegate shall issue such advisory rulings and make such determinations as are authorized by subsection 305(b)(1) of the Trade Agreements Act of 1979 (19 U.S.C. 2515(b)(1)).”
 
 #### Delegation of Functions
 
-Functions of President under subsec. (c) of this section delegated to United States Trade Representative, see section 1–201 of Ex. Ord. No. 12260, Dec. 31, 1980, 46 F.R. 1653, set out as a note under section 2511 of this title.
+Functions of President under subsec. (c) delegated to United States Trade Representative, see section 1–201of Ex. Ord. No. 12260, Dec. 31, 1980, 46 F.R. 1653, set out as a note under section 2511 of this title.
 

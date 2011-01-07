@@ -24,7 +24,7 @@ To assure that legitimate State and local interests are not prejudiced by the pr
 
 Any plan developed by the Secretary under subsection (a) of this section shall provide that—
 
-&emsp;(1) any real property transferred by the tribe or any member to the Secretary shall be takenand held in the name of the United States for the benefit of the tribe and shall be a part of the reservation of the tribe;
+&emsp;(1) any real property transferred by the tribe or any member to the Secretary shall be taken and held in the name of the United States for the benefit of the tribe and shall be a part of the reservation of the tribe;
 
 &emsp;(2) the establishment of the reservation shall not grant or restore to the tribe or any member any hunting, fishing, or trapping right of any kind on such reservation, including any indirect or procedural right or advantage over individuals who are not members of the tribe;
 

@@ -26,7 +26,7 @@ Payment of Costs Related to Care in Specialized Treatment Facilities.—(1) Subj
 
 &emsp;(A) Full or partial reimbursement of a member of the uniformed services for the reasonable expenses incurred by the member in transporting a covered beneficiary to or from a health care facility of the uniformed services or a civilian health care facility at which specialized health care services are provided pursuant to this chapter.
 
-&emsp;(B) Full or partial reimbursement of a person (including a member of the uniformed services) for the reasonable expenses of transportation, temporary lodging, and meals (not to exceed a per diem rate determined in accordance with implementing regulations) incurred by such person in accompanying a covered beneficiary as a nonmedical attendant to a health care facility referred to in subparagraph (A).
+&emsp;(B) Full or partial reimbursement of a person (including a member of the uniformed services) for the reasonable expenses of transportation, temporary lodging, and meals (notto exceed a per diem rate determined in accordance with implementing regulations) incurred by such person in accompanying a covered beneficiary as a nonmedical attendant to a health care facility referred to in subparagraph (A).
 
 &emsp;(C) In-kind transportation, lodging, or meals instead of reimbursements under subparagraph (A) or (B) for transportation, lodging, or meals, respectively.
 
@@ -40,9 +40,9 @@ Covered Beneficiary Defined.—In this section, the term “covered beneficiary�
 
 #### Amendments
 
-1996—Subsec. (h). Pub. L. 104–106 struck out subsec. (h) which read as follows: “
+<b>1996</b>—Subsec. (h). Pub. L. 104–106 struck out subsec. (h) which read as follows: “
 
 Expiration of Program.—The Secretary may not carry out the specialized treatment facility program authorized by this section after September 30, 1995.”
 
-1993—Pub. L. 103–160 substituted “Specialized treatment facility program” for “Issuance of nonavailability of health care statements” as section catchline and amended text generally. Prior to amendment, text read as follows: “In determining whether to issue a nonavailability of health care statement for any person entitled to health care in facilities of the uniformed services under this chapter, the commanding officer of such a facility may consider the availability of health care services for such person pursuant to any contract or agreement entered into under this chapter for the provision of health care services within the area served by that facility.”
+<b>1993</b>—Pub. L. 103–160 substituted “Specialized treatment facility program” for “Issuance of nonavailability of health care statements” as section catchline and amended text generally. Prior to amendment, text read as follows: “In determining whether to issue a nonavailability of health care statement for any person entitled to health care in facilities of the uniformed services under this chapter, the commanding officer of such a facility may consider the availability of health care services for such person pursuant to any contract or agreement entered into under this chapter for the provision of health care services within the area served by that facility.”
 

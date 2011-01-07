@@ -18,15 +18,11 @@
 
 (Pub. L. 89–355, §3, Feb. 19, 1966, 80 Stat. 6; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 224.)
 
-#### References in Text
-
-The civil service laws, referred to in subsec. (b)(1), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Codification
 
 In subsec. (b)(1), (2), “chapter 51 and subchapter III of chapter 53 of title 5” and “section 3109 of title 5” substituted for “the Classification Act of 1949” and “section 15 of the Administrative Expenses Act of 1946 (5 U.S.C. 55a)”, respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 
-1967—Subsec. (a). Pub. L. 90–83 struck out provision that Commissioner of Interama receive compensation at a rate prescribed for level IV of the Federal Executive Salary Schedule.
+<b>1967</b>—Subsec. (a). Pub. L. 90–83 struck out provision that Commissioner of Interama receive compensation at a rate prescribed for level IV of the Federal Executive Salary Schedule.
 

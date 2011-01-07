@@ -4,5 +4,5 @@ Section, act June 3, 1944, ch. 233, §2, 58 Stat. 270, provided that certain ext
 
 #### Effective Date of Repeal
 
-Repeal applicable to customs inspectional services provided on or after Jan. 1, 1994, see section 13811(c) ofPub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 267 of this title.
+Repeal applicable to customs inspectional services provided on or after Jan. 1, 1994, see section 13811(c) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 267 of this title.
 

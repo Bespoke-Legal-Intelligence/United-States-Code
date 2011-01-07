@@ -272,25 +272,25 @@ Section 631(b) of Public Law 104–106 (110 Stat. 364), referred to in subsec. (
 
 #### Amendments
 
-2006—Subsec. (c)(5). Pub. L. 109–364 added par. (5).
+<b>2006</b>—Subsec. (c)(5). Pub. L. 109–364 added par. (5).
 
-1999—Subsec. (i). Pub. L. 106–65 substituted “Whenever the retired pay” for “When the retired pay”.
+<b>1999</b>—Subsec. (i). Pub. L. 106–65 substituted “Whenever the retired pay” for “When the retired pay”.
 
-1998—Subsec. (j). Pub. L. 105–261 added subsec. (j).
+<b>1998</b>—Subsec. (j). Pub. L. 105–261 added subsec. (j).
 
-1997—Subsec. (a)(1)(A). Pub. L. 105–85, §1073(a)(29)(A), substituted “provided” for “providing” in introductory provisions.
+<b>1997</b>—Subsec. (a)(1)(A). Pub. L. 105–85, §1073(a)(29)(A), substituted “provided” for “providing” in introductory provisions.
 
 Subsec. (e). Pub. L. 105–85, §1073(a)(29)(B), substituted “section 8339(j)” for “section 8339(i)” and “section 8341(b)” for “section 8331(b)”.
 
-1996—Pub. L. 104–201, §634, amended section generally, revising and restating provisions relating to reductions in retired pay.
+<b>1996</b>—Pub. L. 104–201, §634, amended section generally, revising and restating provisions relating to reductions in retired pay.
 
 Subsec. (h)(2). Pub. L. 104–201, §635(a), added par. (2).
 
-1994—Subsec. (b). Pub. L. 103–337 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The retired pay of a person to whom section 1448 of this title applies who has a dependent child but does not have an eligible spouse or former spouse, or who has a spouse or former spouse but has elected to provide an annuity for dependent children only, shall, as long as he has an eligible dependent child, be reduced by an amount prescribed under regulations of the Secretary of Defense.”
+<b>1994</b>—Subsec. (b). Pub. L. 103–337 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The retired pay of a person to whom section 1448 of this title applies who has a dependent child but does not have an eligible spouse or former spouse, or who has a spouse or former spouse but has elected to provide an annuity for dependent children only, shall, as long as he has an eligible dependent child, be reduced by an amount prescribed under regulations of the Secretary of Defense.”
 
-1990—Subsec. (h). Pub. L. 101–510 made clarifying amendment to directory language of Pub. L. 101–189, §1407(a)(9), see 1989 Amendment note below.
+<b>1990</b>—Subsec. (h). Pub. L. 101–510 made clarifying amendment to directory language of Pub. L. 101–189, §1407(a)(9), see 1989 Amendment note below.
 
-1989—Subsec. (a). Pub. L. 101–189, §1402(a), inserted heading.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189, §1402(a), inserted heading.
 
 Subsec. (a)(1). Pub. L. 101–189, §1402(a), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in subsection (b), the retired pay of a person to whom section 1448 of this title applies who has a spouse or former spouse, or who has a spouse or former spouse and a dependent child, and who has not elected to provide an annuity to a person designated by him under section 1450(a)(4) of this title, or who had elected to provide such an annuity to such a person but has changed his election in favor of his spouse under section 1450(f) of this title, shall be reduced each month—
 
@@ -306,13 +306,13 @@ Subsec. (g)(1), (5). Pub. L. 101–189, §1621(a)(1), substituted “Department 
 
 Subsec. (h). Pub. L. 101–189, §1407(a)(9), as amended by Pub. L. 101–510, inserted “(or any other provision of law)” after “Whenever retired pay is increased under section 1401a of this title” and substituted “such retired pay is so increased” for “such retired pay is increased under section 1401a of this title”.
 
-1987—Subsec. (i). Pub. L. 100–224 added subsec. (i).
+<b>1987</b>—Subsec. (i). Pub. L. 100–224 added subsec. (i).
 
-1986—Subsec. (c). Pub. L. 99–348 inserted provision that computation of a member's retired pay for purposes of this subsection be made without regard to any reduction under section 1409(b)(2) of this title.
+<b>1986</b>—Subsec. (c). Pub. L. 99–348 inserted provision that computation of a member's retired pay for purposes of this subsection be made without regard to any reduction under section 1409(b)(2) of this title.
 
 Subsec. (h). Pub. L. 99–661 struck out “and retainer” after “Whenever retired”.
 
-1985—Pub. L. 99–145, §719(8)(B), struck out “or retainer” after “retired” in section catchline.
+<b>1985</b>—Pub. L. 99–145, §719(8)(B), struck out “or retainer” after “retired” in section catchline.
 
 Subsec. (a)(1). Pub. L. 99–145, §714(a)(1), (2), designated existing first sentence of subsec. (a) as par. (1); redesignated cl. (1) as (A), inserting “(as adjusted from time to time under paragraph (4))” after “$300” and substituting “a standard annuity” for “an annuity by virtue of eligibility under section 1448(a)(1)(A) of this title”; and redesignated cl. (2) as (B), substituting “a reserve-component annuity” for “an annuity by virtue of eligibility under section 1448(a)(1)(B)”.
 
@@ -336,17 +336,17 @@ Subsec. (c). Pub. L. 99–145, §719(7), (8)(A), substituted “retired pay” f
 
 Subsecs. (d) to (h). Pub. L. 99–145, §719(8)(A), substituted “retired pay” for “retired or retainer pay” wherever appearing.
 
-1981—Subsec. (e). Pub. L. 97–22, §11(a)(3), substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1981</b>—Subsec. (e). Pub. L. 97–22, §11(a)(3), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 Subsec. (g)(4). Pub. L. 97–22, §11(a)(5), substituted “this section” for “section 1452 of this title”.
 
-1980—Subsecs. (g), (h). Pub. L. 96–402, added subsecs. (g) and (h).
+<b>1980</b>—Subsecs. (g), (h). Pub. L. 96–402, added subsecs. (g) and (h).
 
-1978—Subsec. (a). Pub. L. 95–397, §205(a), substituted pars. (1) and (2) for “by an amount equal to 21/2 percent of the first $300 of the base amount plus 10 percent of the remainder of the base amount” after “shall be reduced each month”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–397, §205(a), substituted pars. (1) and (2) for “by an amount equal to 21/2 percent of the first $300 of the base amount plus 10 percent of the remainder of the base amount” after “shall be reduced each month”.
 
 Subsec. (c). Pub. L. 95–397, §205(b), substituted pars. (1) and (2) for “by 10 percent plus 5 percent for each full 5 years the individual designated is younger than that person. However, the total reduction may not exceed 40 percent. The reduction in retired or retainer pay prescribed by this subsection shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person receiving retired or retainer pay changes his election under section 1450(f)”, and inserted provision following par. (2) that the total reduction under clause (1) may not exceed 40 percent, and that the reduction in retired or retainer pay shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person changes his election under section 1450(f) of this title.
 
-1976—Subsec. (a). Pub. L. 94–496, §1(4), (5)(A), substituted “Except as provided in subsection (b), the retired or retainer pay” for “The retired or retainer pay”, “(a)(4)” for “(a)(3)”, and inserted provision prohibiting a reduction in retired or retainer pay during any month in which there is no eligible spouse beneficiary.
+<b>1976</b>—Subsec. (a). Pub. L. 94–496, §1(4), (5)(A), substituted “Except as provided in subsection (b), the retired or retainer pay” for “The retired or retainer pay”, “(a)(4)” for “(a)(3)”, and inserted provision prohibiting a reduction in retired or retainer pay during any month in which there is no eligible spouse beneficiary.
 
 Subsec. (b). Pub. L. 94–496, §1(5)(B), inserted “or who has a spouse but has elected to provide an annuity for dependent children only,” after “spouse,”.
 

@@ -6,7 +6,7 @@ The Administrator and the Secretary shall promptly initiate and carry out a prog
 
 #### (b) Time for determination, prescription and publishing of interim performance criteria; selection of designs for suitable dwellings
 
-(1) Within 120 days after September 3, 1974, the Secretary, utilizing the services of the Directorof the National Institute of Standards and Technology and in consultation with the Administrator and the Secretary of Energy, shall determine, prescribe, and publish—
+(1) Within 120 days after September 3, 1974, the Secretary, utilizing the services of the Director of the National Institute of Standards and Technology and in consultation with the Administrator and the Secretary of Energy, shall determine, prescribe, and publish—
 
 &emsp;(A) interim performance criteria for solar heating components and systems to be used in residential dwellings, and
 
@@ -18,7 +18,7 @@ The Administrator and the Secretary shall promptly initiate and carry out a prog
 
 #### (c) Contracts and grants for development of heating systems for commercial production and residential use; contracts for procurement of heating systems and components
 
-The Administrator, in accordance with the applicable provisions of title II of the National Aeronautics and Space Act of 1958 \[42 U.S.C. 2471 et seq.\] and under program guidelines established jointly by the Administrator and the Secretary, shall, after consultation with the Secretary—
+The Administrator, in accordance with the applicable provisions of subchapter II of chapter 201 of title 51 and under program guidelines established jointly by the Administrator and the Secretary, shall, after consultation with the Secretary—
 
 &emsp;(1) enter into such contracts and grants as may be necessary or appropriate for the development (for commercial production and residential use) of solar heating systems meeting the performance criteria prescribed under subsection (b)(1)(A) of this section (including any further planning and design which may be required to conform with the specifications set forth in such criteria); and
 
@@ -38,13 +38,13 @@ The Secretary and the Secretary of Defense, and officials responsible for admini
 
 (Pub. L. 93–409, §5, Sept. 3, 1974, 88 Stat. 1070; Pub. L. 93–438, title I, §104(f), title III, §301(h), Oct. 11, 1974, 88 Stat. 1238, 1250; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 
-#### References in Text
+#### Codification
 
-The National Aeronautics and Space Act of 1958, referred to in subsec. (c), is Pub. L. 85–568, July 29, 1958, 72 Stat. 426, as amended. Title II of the National Aeronautics and Space Act of 1958 is classified generally to subchapter II (§2471 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+In subsec. (c), “subchapter II of chapter 201 of title 51” substituted for “title II of the National Aeronautics and Space Act of 1958” on authority of Pub. L. 111–314, §5(e), Dec. 18, 2010, 124 Stat. 3443, which Act enacted Title 51, National and Commercial Space Programs.
 
 #### Amendments
 
-1988—Subsec. (b)(1), (2). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+<b>1988</b>—Subsec. (b)(1), (2). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
 #### Transfer of Functions
 

@@ -82,7 +82,7 @@ In this section, the term “costs”, when used with respect to review and deci
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 30 days after the effective date of the Pesticide Registration Improvement Renewal Act, the Administrator shall publish in the Federal Register a schedule of covered pesticide registration applications and corresponding registration service fees.
+&emsp;&emsp;Not later than 30 days after the effective date of the Pesticide Registration Improvement Renewal Act, the Administrator shall publish in the Federal Register a schedule ofcovered pesticide registration applications and corresponding registration service fees.
 
 #### (B) Report
 
@@ -420,7 +420,7 @@ To the maximum extent practicable consistent with the degrees of risk presented 
 
 #### (E) 2003 work plan
 
-&emsp;&emsp;In the case of a covered pesticide registration application listed in the Registration Division 2003 Work Plan of the Office of Pesticide Programs of the Environmental Protection Agency, the decision time review period begins on the date that is 30 days after the effective date of the Pesticide Registration Improvement Act of 2003.
+&emsp;&emsp;In the case of a covered pesticide registration application listed in the RegistrationDivision 2003 Work Plan of the Office of Pesticide Programs of the Environmental Protection Agency, the decision time review period begins on the date that is 30 days after the effective date of the Pesticide Registration Improvement Act of 2003.
 
 #### (5) Extension of decision time review period
 
@@ -598,7 +598,7 @@ Nothing in this section affects any other duties, obligations, or authorities es
 
 #### (ii) New applications
 
-&emsp;&emsp;&emsp;In the case of an application received under this section on or after September 30, 2012, subsection (f) of this section shall not apply to the application.
+&emsp;&emsp;&emsp;In the case of an application received under this section on or after September30, 2012, subsection (f) of this section shall not apply to the application.
 
 (June 25, 1947, ch. 125, §33, as added Pub. L. 108–199, div. G, title V, §501(f)(2), Jan. 23, 2004, 118 Stat. 422; amended Pub. L. 110–94, §5, Oct. 9, 2007, 121 Stat. 1002; Pub. L. 110–193, §1(a), Mar. 6, 2008, 122 Stat. 649.)
 

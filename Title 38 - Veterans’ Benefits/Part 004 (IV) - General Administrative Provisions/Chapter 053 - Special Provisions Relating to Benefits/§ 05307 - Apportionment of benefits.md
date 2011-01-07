@@ -14,11 +14,11 @@
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 3107 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 3107 of this title as this section.
 
 Subsecs. (a)(2), (b), (c). Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 
-1983—Subsec. (a)(1). Pub. L. 98–160, §703(2)(A), substituted “the veteran's spouse” for “his wife”.
+<b>1983</b>—Subsec. (a)(1). Pub. L. 98–160, §703(2)(A), substituted “the veteran's spouse” for “his wife”.
 
 Subsec. (a)(2). Pub. L. 98–160, §703(2)(A)–(C), substituted “the veteran's spouse” for “his wife”, “the veteran's children” for “his children”, and “the custody of the veteran” for “his custody”.
 
@@ -26,7 +26,7 @@ Subsec. (b). Pub. L. 98–160, §703(2)(D), substituted “surviving spouse” f
 
 Subsec. (c). Pub. L. 98–160, §703(2)(A)–(C), (E), substituted “the veteran's spouse” for “his wife”, “the veteran's children” for “his children”, “the custody of the veteran” for “his custody”, and “payable to the veteran” for “payable to him”.
 
-1972—Subsec. (c). Pub. L. 92–540 inserted provisions relating to that portion of the educational assistance allowance payable on account of dependents under chapter 34 of this title.
+<b>1972</b>—Subsec. (c). Pub. L. 92–540 inserted provisions relating to that portion of the educational assistance allowance payable on account of dependents under chapter 34 of this title.
 
 #### Effective Date of 1972 Amendment
 

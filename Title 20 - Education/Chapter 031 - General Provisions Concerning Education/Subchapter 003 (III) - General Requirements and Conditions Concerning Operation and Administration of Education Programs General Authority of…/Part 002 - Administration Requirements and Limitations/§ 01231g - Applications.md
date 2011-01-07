@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, unless expressly in limitation of th
 
 #### (b) Uniform dates
 
-The Secretary shall, insofar as is practicable, establish uniform dates during the year for thesubmission of applications under all applicable programs and for the approval of such applications.
+The Secretary shall, insofar as is practicable, establish uniform dates during the year for the submission of applications under all applicable programs and for the approval of such applications.
 
 #### (c) Development of common applications
 
@@ -30,7 +30,7 @@ Another prior section 436 of Pub. L. 90–247 was renumbered section 446, and wa
 
 #### Amendments
 
-1994—Pub. L. 103–382, §246(2), substituted “Secretary” for “Commissioner” wherever appearing.
+<b>1994</b>—Pub. L. 103–382, §246(2), substituted “Secretary” for “Commissioner” wherever appearing.
 
 Subsec. (a). Pub. L. 103–382, §246(1), substituted “for more than one fiscal year” for “for three fiscal years”.
 

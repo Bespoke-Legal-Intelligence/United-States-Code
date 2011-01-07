@@ -16,7 +16,7 @@
 
 #### (A) Activities of the Secretary
 
-&emsp;&emsp;Except as provided in subparagraph (B), no compact or action taken under a compactshall be applicable to the transportation, management, or disposal of any low-level radioactive waste designated in section 2021c(a)(1)(B)(i)–(iii) of this title.
+&emsp;&emsp;Except as provided in subparagraph (B), no compact or action taken under a compact shall be applicable to the transportation, management, or disposal of any low-level radioactive waste designated in section 2021c(a)(1)(B)(i)–(iii) of this title.
 
 #### (B) Federal low-level radioactive waste disposed of at non-Federal facilities
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(C) to inspect the facilities of licensees of the Nuclear Regulatory Commission;
 
-&emsp;&emsp;(D) to inspect security areas or operations at the site of the generation of any low-level radioactive waste by the Federal Government, or to inspect classified information related to such areas or operations; or
+&emsp;&emsp;(D) to inspect security areas or operations at the site of the generation of any low-levelradioactive waste by the Federal Government, or to inspect classified information related to such areas or operations; or
 
 &emsp;&emsp;(E) to require indemnification pursuant to the provisions of chapter 171 of title 28 (commonly referred to as the Federal Tort Claims Act), or section 2210 of this title, whichever is applicable.
 

@@ -14,7 +14,7 @@
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–177, §128(b), inserted “, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate,” after “Select Committee on Intelligence of the Senate”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–177, §128(b), inserted “, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate,” after “Select Committee on Intelligence of the Senate”.
 
 Subsec. (b)(3). Pub. L. 109–177, §109(b), added par. (3).
 

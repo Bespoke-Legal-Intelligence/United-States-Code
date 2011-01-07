@@ -44,15 +44,15 @@ Section 47114 of this title, referred to in subsec. (b), does not contain a subs
 
 #### Amendments
 
-2003—Subsec. (a)(2). Pub. L. 108–176, §404(1), substituted “$77,000,000” for “$15,000,000” and inserted “of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance” before period at end.
+<b>2003</b>—Subsec. (a)(2). Pub. L. 108–176, §404(1), substituted “$77,000,000” for “$15,000,000” and inserted “of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance” before period at end.
 
 Subsec. (a)(3). Pub. L. 108–176, §404(2), added par. (3).
 
 Subsec. (c). Pub. L. 108–176, §404(3), struck out heading and text of subsec. (c). Text read as follows: “Notwithstanding subsections (a) and (b), in fiscal year 1997, amounts in excess of $75,000,000 that are collected in fees pursuant to section 45301(a)(1) of this title shall be available for the essential air service program under this subchapter, in addition to amounts specifically provided for in appropriations Acts.”
 
-2000—Subsec. (a). Pub. L. 106–181 designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
+<b>2000</b>—Subsec. (a). Pub. L. 106–181 designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
 
-1996—Pub. L. 104–264 amended section generally, substituting provisions relating to essential air service authorization for provisions stating that this subchapter was not effective after Sept. 30, 1998.
+<b>1996</b>—Pub. L. 104–264 amended section generally, substituting provisions relating to essential air service authorization for provisions stating that this subchapter was not effective after Sept. 30, 1998.
 
 #### Effective Date of 2003 Amendment
 

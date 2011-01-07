@@ -90,7 +90,7 @@ Congress finds as follows:
 
 #### (4) Cooperative agreements
 
-&emsp;In order to better implement the management plan and to continue the successful partnerships with the local communities and the Hearst San Simeon State Historical Monument, administered by the California Department of Parks and Recreation, the Secretary may enter into cooperative agreements withthe appropriate Federal, State, and local agencies pursuant to section 307(b) of the Federal Land Management <sup>3</sup> Policy and Management Act of 1976 (43 U.S.C. 1737(b)).
+&emsp;In order to better implement the management plan and to continue the successful partnerships with the local communities and the Hearst San Simeon State Historical Monument, administered by the California Department of Parks and Recreation, the Secretary may enter into cooperative agreements with the appropriate Federal, State, and local agencies pursuant to section 307(b) of the Federal Land Management <sup>3</sup> Policy and Management Act of 1976 (43 U.S.C. 1737(b)).
 
 #### (5) Research activities
 

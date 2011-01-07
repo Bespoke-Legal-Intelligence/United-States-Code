@@ -42,7 +42,7 @@
 
 #### (6) Funding
 
-&emsp;The Department shall provide funds for work at the Department of Energy national laboratories or sites, as the case may be, under a joint sponsorship arrangement under this subsection under the same terms and conditions as apply to the primary sponsor of such national laboratory under section 253(b)(1)(C) of title 41 or of such site to the extent such section applies to such site as a federally funded research and development center by reason of this subsection.
+&emsp;The Department shall provide funds for work at the Department of Energy national laboratories or sites, as the case may be, under a joint sponsorship arrangement under this subsection under the same terms and conditions as apply to the primary sponsor of such national laboratory under section 3303(a)(1)(C) of title 41 or of such site to the extent such section applies to such site as a federally funded research and development center by reason of this subsection.
 
 #### (c) Separate contracting
 
@@ -69,4 +69,12 @@ There is established within the Directorate of Science and Technology an Office 
 The Secretary of Energy shall ensure that any research, development, test, and evaluation activities conducted within the Department of Energy that are directly or indirectly related to homeland security are fully coordinated with the Secretary to minimize duplication of effort and maximize the effective application of Federal budget resources.
 
 (Pub. L. 107–296, title III, §309, Nov. 25, 2002, 116 Stat. 2172.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+
+#### Codification
+
+In subsec. (b)(6), “section 3303(a)(1)(C) of title 41” substituted for “section 303(b)(1)(C) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(b)(1)(C))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

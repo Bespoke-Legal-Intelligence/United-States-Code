@@ -6,7 +6,7 @@ The Secretary shall include in the annual report to the Congress required by sec
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 654 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 654 of this title as this section.
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 

@@ -24,15 +24,15 @@ Provisions similar to those comprising this section were contained in section 20
 
 #### Amendments
 
-2008—Subsec. (a)(2). Pub. L. 110–389 designated existing provisions as subpar. (A) and added subpar. (B).
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–389 designated existing provisions as subpar. (A) and added subpar. (B).
 
-2002—Pub. L. 107–288 substituted “Directors and Assistant Directors for Veterans’ Employment and Training; additional Federal personnel” for “Directors and Assistant Directors for Veterans’ Employment and Training” in section catchline and amended text generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (c) relating to Directors and Assistant Directors and their responsibilities.
+<b>2002</b>—Pub. L. 107–288 substituted “Directors and Assistant Directors for Veterans’ Employment and Training; additional Federal personnel” for “Directors and Assistant Directors for Veterans’ Employment and Training” in section catchline and amended text generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (c) relating to Directors and Assistant Directors and their responsibilities.
 
-1996—Subsec. (a). Pub. L. 104–275 substituted “full-time Federal clerical or other support personnel” for “full-time Federal clerical support” in first sentence and “Full-time Federal clerical or other support personnel” for “Full-time Federal clerical support personnel” in third sentence.
+<b>1996</b>—Subsec. (a). Pub. L. 104–275 substituted “full-time Federal clerical or other support personnel” for “full-time Federal clerical support” in first sentence and “Full-time Federal clerical or other support personnel” for “Full-time Federal clerical support personnel” in third sentence.
 
-1994—Subsec. (c)(2). Pub. L. 103–446 substituted “subchapter II of chapter 77” for “subchapter IV of chapter 3”.
+<b>1994</b>—Subsec. (c)(2). Pub. L. 103–446 substituted “subchapter II of chapter 77” for “subchapter IV of chapter 3”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 2003 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 2003 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “4107” for “2007”.
 
@@ -40,15 +40,15 @@ Subsec. (c)(8). Pub. L. 102–83, §5(c)(1), substituted “4212” for “2012�
 
 Subsec. (c)(11). Pub. L. 102–83, §5(c)(1), substituted “1712A” for “612A”.
 
-1989—Subsec. (c)(2), (10). Pub. L. 101–237 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1989</b>—Subsec. (c)(2), (10). Pub. L. 101–237 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1988—Pub. L. 100–323, §15(c)(3)(A), substituted “Directors and Assistant Directors” for “State and Assistant State Directors” and inserted “and Training” after “for Veterans’ Employment” in section catchline.
+<b>1988</b>—Pub. L. 100–323, §15(c)(3)(A), substituted “Directors and Assistant Directors” for “State and Assistant State Directors” and inserted “and Training” after “for Veterans’ Employment” in section catchline.
 
 Subsec. (a). Pub. L. 100–323, §15(a)(2), struck out “of Labor” after “The Secretary” at beginning.
 
 Pub. L. 100–323, §15(c)(1), substituted “Director for Veterans’ Employment and Training” for “State Director for Veterans’ Employment” in two places, “Assistant Director for Veterans’ Employment and Training” for “Assistant State Director for Veterans’ Employment”, “Assistant Directors for Veterans’ Employment and Training” for “Assistant State Directors for Veterans’ Employment”, and “Directors for Veterans’ Employment and Training” for “State Directors for Veterans’ Employment”.
 
-Subsec. (b)(1)(A). Pub. L. 100–323, §15(c)(1), substituted “Director for Veterans’ Employment and Training” for“State Director for Veterans’ Employment” and “Assistant Director for Veterans’ Employment and Training” for “Assistant State Director for Veterans’ Employment”.
+Subsec. (b)(1)(A). Pub. L. 100–323, §15(c)(1), substituted “Director for Veterans’ Employment and Training” for “State Director for Veterans’ Employment” and “Assistant Director for Veterans’ Employment and Training” for “Assistant State Director for Veterans’ Employment”.
 
 Pub. L. 100–323, §5(1)–(3), designated existing provisions as subpar. (A), redesignated former cls. (A) and (B) as (i) and (ii), respectively, and substituted “, except as provided in subparagraph (B) of this paragraph, be a qualified veteran” for “be an eligible veteran” in cl. (i).
 
@@ -66,7 +66,7 @@ Subsec. (c)(2). Pub. L. 100–323, §7(a)(2), inserted “and otherwise to promo
 
 Subsec. (c)(13) to (15). Pub. L. 100–323, §7(a)(3)–(5), added cls. (13) to (15).
 
-1982—Pub. L. 97–306, §304(a)(1), struck out text that preceded cl. (1), which related to assignment, number, qualifications, pay, and administrative position of veterans’ employment representatives, and inserted in lieu thereof a revised section catchline and subsecs. (a) to (c) relating to State and Assistant State Directors for Veterans’ Employment.
+<b>1982</b>—Pub. L. 97–306, §304(a)(1), struck out text that preceded cl. (1), which related to assignment, number, qualifications, pay, and administrative position of veterans’ employment representatives, and inserted in lieu thereof a revised section catchline and subsecs. (a) to (c) relating to State and Assistant State Directors for Veterans’ Employment.
 
 Pub. L. 97–295 substituted “chapter 51 and” for “chapter 51 of”.
 
@@ -74,15 +74,15 @@ Subsec. (c)(6). Pub. L. 97–306, §304(b), substituted provision of cl. (6) tha
 
 Subsec. (c)(8) to (12). Pub. L. 97–306, §304(c), added cls. (8) to (12).
 
-1980—Pub. L. 96–466 in provisions preceding par. (1) inserted “(and shall assign full-time clerical support to each such representative)” after “to serve as the veterans’ employment representative”, struck out “, United States Code,” after “title 5”, substituted “employment and training programs” for “manpower and training programs”, inserted “system” after “public employment service” wherever appearing, and in par. (6) inserted “, disabled veterans, and veterans of the Vietnam era” after “eligible veterans”.
+<b>1980</b>—Pub. L. 96–466 in provisions preceding par. (1) inserted “(and shall assign full-time clerical support to each such representative)” after “to serve as the veterans’ employment representative”, struck out “, United States Code,” after “title 5”, substituted “employment and training programs” for “manpower and training programs”, inserted “system” after “public employment service” wherever appearing, and in par. (6) inserted “, disabled veterans, and veterans of the Vietnam era” after “eligible veterans”.
 
-1976—Pub. L. 94–502 substituted “the Secretary shall determine” for “he shall determine”, “such representative's” for “his”, “administered by the Secretary or by prime sponsors under the Comprehensive Employment and Training Act” for “administered by the Secretary”, added cl. (6), and redesignated former cl. (6) as (7).
+<b>1976</b>—Pub. L. 94–502 substituted “the Secretary shall determine” for “he shall determine”, “such representative's” for “his”, “administered by the Secretary or by prime sponsors under the Comprehensive Employment and Training Act” for “administered by the Secretary”, added cl. (6), and redesignated former cl. (6) as (7).
 
-1974—Pub. L. 93–508 substituted “250,000 veterans and eligible persons of the State” for “250,000 veterans of the State”, and “Secretary's veterans’ and eligible persons’ counseling and placement policies” for “Secretary's veterans’ counseling and placement policies”, and in cls. (1), (2), (4), (5), and (6) of the fifth sentence substituted “eligible veterans and eligible persons” for “eligible veterans”, in cl. (3) substituted “eligible veteran's or an eligible person's” for “eligible veteran's”, and in cl. (4) substituted “such veterans and persons” for “such veterans”.
+<b>1974</b>—Pub. L. 93–508 substituted “250,000 veterans and eligible persons of the State” for “250,000 veterans of the State”, and “Secretary's veterans’ and eligible persons’ counseling and placement policies” for “Secretary's veterans’ counseling and placement policies”, and in cls. (1), (2), (4), (5), and (6) of the fifth sentence substituted “eligible veterans and eligible persons” for “eligible veterans”, in cl. (3) substituted “eligible veteran's or an eligible person's” for “eligible veteran's”, and in cl. (4) substituted “such veterans and persons” for “such veterans”.
 
-1972—Pub. L. 92–540 substituted provisions relating to the assignment of veterans’ employment representatives for provisions relating to the assignment of employees of local offices. See section 2004 of this title.
+<b>1972</b>—Pub. L. 92–540 substituted provisions relating to the assignment of veterans’ employment representatives for provisions relating to the assignment of employees of local offices. See section 2004 of this title.
 
-1966—Pub. L. 89–358 inserted “or of service after January 31, 1955” after “veterans of any war”.
+<b>1966</b>—Pub. L. 89–358 inserted “or of service after January 31, 1955” after “veterans of any war”.
 
 #### Effective Date of 2002 Amendment
 

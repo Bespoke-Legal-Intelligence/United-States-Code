@@ -24,11 +24,11 @@ Another section 1131(b) of Pub. L. 105–34 enacted section 684 of this title.
 
 #### Amendments
 
-1997—Subsec. (c). Pub. L. 105–34, §1131(b)(3), added subsec. (c).
+<b>1997</b>—Subsec. (c). Pub. L. 105–34, §1131(b)(3), added subsec. (c).
 
 Subsec. (d). Pub. L. 105–34, §1131(b)(5)(B), added subsec. (d).
 
-1976—Pub. L. 94–455 designated existing provisions as subsec. (a), added subsec. (a) heading “General rule”, and added subsec. (b).
+<b>1976</b>—Pub. L. 94–455 designated existing provisions as subsec. (a), added subsec. (a) heading “General rule”, and added subsec. (b).
 
 #### Effective Date of 1976 Amendment
 

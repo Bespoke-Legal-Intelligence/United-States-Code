@@ -36,7 +36,7 @@ For the purposes of this section, the Secretary is authorized—
 
 (2) A right of use and occupancy retained or enjoyed pursuant to this subsection may be terminated with respect to the entire property by the Secretary upon his determination that the property or any portion thereof had ceased to be used for noncommercial residential purposes and upon tender to the holder of a right an amount equal to the fair market value, as of the date of tender, of that portion of the right which remains unexpired on the date of termination.
 
-(3) The term “improved property”, as used in this subsection, shall mean a detached, noncommercial residential dwelling, the construction of which was begun before January 1, 1978 (hereinafter referred to as a “dwelling”), together with so much of the land on which the dwelling is situated, the said land being in thesame ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment or <sup>1</sup> the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
+(3) The term “improved property”, as used in this subsection, shall mean a detached, noncommercial residential dwelling, the construction of which was begun before January 1, 1978 (hereinafter referred to as a “dwelling”), together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment or <sup>1</sup> the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
 
 #### (d) Protection and preservation of historical and architectural values; administration
 
@@ -76,13 +76,15 @@ The Secretary is authorized and directed to take prompt and appropriate action i
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–437, §6(j)(1), substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–437, §6(j)(1), substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
-Subsec. (f)(2). Pub. L. 103–437, §6(j)(2), struck out at end “Within one year from November 10, 1978, the Secretary shall develop and transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate a final master plan for the development of the park consistent with the objectives of this section, indicating (A) the facilities needed to accommodate the health, safety, and interpretive needs of the visiting public; (B) the location and estimated cost of all facilities; and (C) the projected need for any additional facilities within the park.”
+Subsec. (f)(2). Pub. L. 103–437, §6(j)(2), struck out at end “Within one year from November 10, 1978, the Secretary shall develop and transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate a finalmaster plan for the development of the park consistent with the objectives of this section, indicating (A) the facilities needed to accommodate the health, safety, and interpretive needs of the visiting public; (B) the location and estimated cost of all facilities; and (C) the projected need for any additional facilities within the park.”
 
-1990—Subsec. (a). Pub. L. 101–628, §501(a), inserted after first sentence “The park shall also consist of the lands and interests therein within the area bounded by the line depicted as ‘Proposed Boundary Extension’ on the maps entitled ‘San Antonio Missions National Historical Park’, numbered 472–80,075, 472–80,076, 472–80,077, 472–80,078, 472–80,079, 472–80,080, and 472–80,081 and dated June 7, 1990, which shall be on file and available for public inspection in the same manner as is such drawing.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–628, §501(a), inserted after first sentence “The park shall also consist of the lands and interests therein within the area bounded by the line depicted as ‘Proposed Boundary Extension’ on the maps entitled ‘San Antonio Missions National Historical Park’, numbered 472–80,075, 472–80,076, 472–80,077, 472–80,078, 472–80,079, 472–80,080, and 472–80,081 and dated June 7, 1990, which shall be on file and available for public inspection in the same manner as is such drawing.”
 
 Subsec. (f)(2). Pub. L. 101–628, §501(b), substituted “$15,000,000” for “$500,000”.
 
-1980—Subsec. (e)(1). Pub. L. 96–344 substituted “eleven” for “seven” in provision preceding subpar. (A) and “six” for “two” in subpar. (F).
+<b>1980</b>—Subsec. (e)(1). Pub. L. 96–344 substituted “eleven” for “seven” in provision preceding subpar. (A) and “six” for “two” in subpar. (F).
+
+<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
 

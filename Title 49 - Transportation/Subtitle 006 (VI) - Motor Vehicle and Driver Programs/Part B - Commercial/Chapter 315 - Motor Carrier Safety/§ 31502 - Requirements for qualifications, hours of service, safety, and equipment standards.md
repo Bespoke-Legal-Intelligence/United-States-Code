@@ -50,7 +50,7 @@ Declaration of emergency.—An elected State or local government official or ele
 
 &emsp;(3)
 
-Incident report.—Within 30 days after the end of the declared emergency period theofficial who issued the emergency declaration shall file with the Field Administrator a report of each safety-related incident or accident that occurred during the emergency period involving—
+Incident report.—Within 30 days after the end of the declared emergency period the official who issued the emergency declaration shall file with the Field Administrator a report of each safety-related incident or accident that occurred during the emergency period involving—
 
 &emsp;&emsp;(A) a utility service vehicle driver to which the declaration applied; or
 
@@ -128,17 +128,17 @@ Section 345 of the National Highway System Designation Act of 1995, referred to 
 
 #### Amendments
 
-2005—Subsec. (e)(2). Pub. L. 109–59, §4145(b)(1), substituted “Field Administrator of the Federal Motor Carrier Safety Administration” for “Regional Director of the Federal Highway Administration”.
+<b>2005</b>—Subsec. (e)(2). Pub. L. 109–59, §4145(b)(1), substituted “Field Administrator of the Federal Motor Carrier Safety Administration” for “Regional Director of the Federal Highway Administration”.
 
 Subsec. (e)(3). Pub. L. 109–59, §4145(b)(2), substituted “Field Administrator” for “Regional Director” in introductory provisions.
 
-1998—Subsec. (e). Pub. L. 105–178 added subsec. (e).
+<b>1998</b>—Subsec. (e). Pub. L. 105–178 added subsec. (e).
 
-1995—Subsec. (a)(1). Pub. L. 104–88 substituted “13501 and 13502” for “10521 and 10522”.
+<b>1995</b>—Subsec. (a)(1). Pub. L. 104–88 substituted “13501 and 13502” for “10521 and 10522”.
 
-1994—Pub. L. 103–272 renumbered section 3102 of this title as this section and amended it generally, restating it without substantive change.
+<b>1994</b>—Pub. L. 103–272 renumbered section 3102 of this title as this section and amended it generally, restating it without substantive change.
 
-1984—Subsec. (d). Pub. L. 98–554 added subsec. (d).
+<b>1984</b>—Subsec. (d). Pub. L. 98–554 added subsec. (d).
 
 #### Effective Date of 1995 Amendment
 

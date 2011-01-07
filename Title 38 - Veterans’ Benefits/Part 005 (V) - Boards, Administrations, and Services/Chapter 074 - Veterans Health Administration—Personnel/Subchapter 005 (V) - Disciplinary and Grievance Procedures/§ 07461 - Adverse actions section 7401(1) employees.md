@@ -6,7 +6,7 @@
 
 (2) In any other case, such an appeal shall be made—
 
-&emsp;(A) through Department grievance procedures under section 7463 of this title, in any case that involves or includes a question of professional conduct or competence in which a major adverse action was not taken or in any case of an employee who is not covered by a collective bargaining agreement under chapter 71 of title 5; or
+&emsp;(A) through Department grievance procedures under section 7463 of this title, in any case that involves or includes a question of professional conduct or competence in which a major adverse action was not taken or in anycase of an employee who is not covered by a collective bargaining agreement under chapter 71 of title 5; or
 
 &emsp;(B) through grievance procedures provided through collective bargaining under chapter 71 of title 5 or through Department grievance procedures under section 7463 of this title, as the employee elects, in the case of an employee covered by a collective bargaining agreement under chapter 71 of title 5 that does not involve or include a question of professional conduct or competence.
 
@@ -44,7 +44,7 @@ Provisions similar to those in this subchapter were contained in section 4110 of
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in two places.
+<b>1992</b>—Subsec. (a). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in two places.
 
 #### Regulations
 

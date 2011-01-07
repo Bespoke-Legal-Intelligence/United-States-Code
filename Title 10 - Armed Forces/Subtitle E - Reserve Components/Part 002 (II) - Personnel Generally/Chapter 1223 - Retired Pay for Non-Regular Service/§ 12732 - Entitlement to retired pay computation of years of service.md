@@ -156,7 +156,7 @@ In subsection (a)(1)(B)–(C), the words “June 15” are inserted to reflect t
 
 In subsection (a)(1)(D), 10:1036e(c)(8) (last 25 words), 10:1036e(c)(9) (last 22 words), 34:440m(c)(8) (last 25 words), and 34:440m(c)(9) (last 22 words) are omitted as covered by subsection (b)(5).
 
-In subsection (a)(2)(A), the words “service that conformed to required standards and qualifications” are substituted for 10:1036e(b) and 34:440m(b). In clause (a)(2)(A), 10:1036e(d) and 34:440m(d), which make it clearthat “active Federal service”, in the sense in which that term is used in 10:1036a–e and 34:440i–m, includes annual training duty and attendance at service schools, are omitted as covered by sections 101(22) and 101(24) of this title.
+In subsection (a)(2)(A), the words “service that conformed to required standards and qualifications” are substituted for 10:1036e(b) and 34:440m(b). In clause (a)(2)(A), 10:1036e(d) and 34:440m(d), which make it clear that “active Federal service”, in the sense in which that term is used in 10:1036a–e and 34:440i–m, includes annual training duty and attendance at service schools, are omitted as covered by sections 101(22) and 101(24) of this title.
 
 In subsection (a)(2)(A) and (B), specific reference is made to National Guard service to reflect the opinion of the Judge Advocate General of the Army (JAGA, 1956/1908, 13 Feb. 1956).
 
@@ -174,33 +174,33 @@ The word “full-time” is inserted for clarity. The other change reflects the 
 
 #### References in Text
 
-Act of December 22, 1942, referred to in subsec. (a)(1)(I), is act Dec. 22, 1942, ch. 805, 56 Stat. 1072, which amended section 164 of former Title 10, Army and Air Force, and enacted provisions set out as notes under section 81 of former Title 10 and section 113 of former Title 37, Pay and Allowances, and was repealed as executed, by section 53 of act Aug. 10, 1956, ch. 1041 70A Stat. 641.
+Act of December 22, 1942, referred to in subsec. (a)(1)(I), is act Dec. 22, 1942, ch. 805, 56 Stat. 1072, which amended section 164 of former Title 10, Army and Air Force, and enacted provisions set out as notes under section 81 of former Title 10 and section 113 of formerTitle 37, Pay and Allowances, and was repealed as executed, by section 53 of act Aug. 10, 1956, ch. 1041 70A Stat. 641.
 
 Women's Medical Specialist Corps, referred to in subsec. (a)(1)(J)(ii), redesignated Army Medical Specialist Corps by Pub. L. 85–155, Aug. 21, 1957, 71 Stat. 375. See section 3070 of this title. See, also, act Aug. 9, 1955, ch. 654, 69 Stat. 579.
 
 #### Amendments
 
-2008—Subsec. (b)(8). Pub. L. 110–181 added par. (8).
+<b>2008</b>—Subsec. (b)(8). Pub. L. 110–181 added par. (8).
 
-2006—Subsecs. (a)(1)(E), (b)(2). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsecs. (a)(1)(E), (b)(2). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-1999—Subsec. (a)(2). Pub. L. 106–65 added subpar. (E) and substituted “, (D), and (E)” for “, and (D)” in concluding provisions.
+<b>1999</b>—Subsec. (a)(2). Pub. L. 106–65 added subpar. (E) and substituted “, (D), and (E)” for “, and (D)” in concluding provisions.
 
-1996—Subsec. (a)(2). Pub. L. 104–201 added cl. (D) and substituted “(C), and (D)” for “and (C)” in concluding provisions.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–201 added cl. (D) and substituted “(C), and (D)” for “and (C)” in concluding provisions.
 
-1994—Pub. L. 103–337 renumbered section 1332 of this title as this section, substituted “Entitlement to retired pay: computation of years of service” for “Computation of years of service in determining entitlement to retired pay” as section catchline, and amended text generally, making changes in style, references to other sections and Acts, and the service in the Public Health Service and the National Oceanic and Atmospheric Administration that may be included in the computation of years of service in subsec. (a).
+<b>1994</b>—Pub. L. 103–337 renumbered section 1332 of this title as this section, substituted “Entitlement to retired pay: computation of years of service” for “Computation of years of service in determining entitlement to retired pay” as section catchline, and amended text generally, making changes in style, references to other sections and Acts, and the service in the Public Health Service and the National Oceanic and Atmospheric Administration that may be included in the computation of years of service in subsec. (a).
 
-1980—Subsec. (a)(4). Pub. L. 96–513 inserted provisions relating to applicability to service in National Oceanic and Atmospheric Administration and Environmental Science Services Administration.
+<b>1980</b>—Subsec. (a)(4). Pub. L. 96–513 inserted provisions relating to applicability to service in National Oceanic and Atmospheric Administration and Environmental Science Services Administration.
 
-1974—Subsec. (b)(7). Pub. L. 93–545 inserted “aviation midshipman,” after “flight officer,”.
+<b>1974</b>—Subsec. (b)(7). Pub. L. 93–545 inserted “aviation midshipman,” after “flight officer,”.
 
-1964—Subsec. (a)(3), (4). Pub. L. 88–636 added cls. (3) and (4).
+<b>1964</b>—Subsec. (a)(3), (4). Pub. L. 88–636 added cls. (3) and (4).
 
-1959—Subsec. (a). Pub. L. 86–197, §§(1), (2), redesignated cls. (D) to (F) as (E) to (G), and added cls. (D), (H), (I), and (J), and provisions requiring, for the purpose of cls. (A), (B), and (C), service in the National Guard to be treated as if it were service in a reserve component, if the person concerned was later appointed in the National Guard of the United States, the Army National Guard of the United States, the Air National Guard of the United States, or as a Reserve of the Army or the Air Force, and served continuously in the National Guard from the date of his Federal recognition to the date of that appointment.
+<b>1959</b>—Subsec. (a). Pub. L. 86–197, §§(1), (2), redesignated cls. (D) to (F) as (E) to (G), and added cls. (D), (H), (I), and (J), and provisions requiring, for the purpose of cls. (A), (B), and (C), service in the National Guard to be treated as if it were service in a reserve component, if the person concerned was later appointed in the National Guard of the United States, the Army National Guard of the United States, the Air National Guard of the United States, or as a Reserve of the Army or the Air Force, and served continuously in the National Guard from the date of his Federal recognition to the date of that appointment.
 
 Subsec. (b)(6), (7). Pub. L. 86–197, §1(3), added par. (6), redesignated former par. (6) as (7), and prohibited the counting of service as a nurse, as an appointed aviation cadet, and that service described in cls. (I) and (J) of subsec. (a)(1) of this section.
 
-1958—Subsec. (a). Pub. L. 85–861 substituted “full-time service under” for “service under”, and inserted reference to section 502 of this title in cl. (2)(A)(ii).
+<b>1958</b>—Subsec. (a). Pub. L. 85–861 substituted “full-time service under” for “service under”, and inserted reference to section 502 of this title in cl. (2)(A)(ii).
 
 #### Effective Date of 1994 Amendment
 
@@ -228,7 +228,7 @@ Section 531(b), (c) of Pub. L. 104–201 provided that:
 
 “(b)
 
-Tracking System for Award of Retirement Points.—To better enable the Secretary of Defense and Congress to assess the cost and the effect on readiness of the amendment made by subsection (a) \[amending section 12733 of this title\] and of other potential changes to the Reserve retirement system under chapter 1223 of title 10, United States Code, the Secretary of Defense shall require the Secretary of each military department to implement a system to monitor the award of retirement points for purposes of that chapter bycategories in accordance with the recommendation set forth in the August 1988 report of the Sixth Quadrennial Review of Military Compensation.
+Tracking System for Award of Retirement Points.—To better enable the Secretary of Defense and Congress to assess the cost and the effect on readiness of the amendment made by subsection (a) \[amending section 12733 of this title\] and of other potential changes to the Reserve retirement system under chapter 1223 of title 10, United States Code, the Secretary of Defense shall require the Secretary of each military department to implement a system to monitor the award of retirement points for purposes of that chapter by categories in accordance with the recommendation set forth in the August 1988 report of the Sixth Quadrennial Review of Military Compensation.
 
 “(c)
 

@@ -104,15 +104,15 @@ For purposes of this section, the term “community land trust” means a commun
 
 The National Housing Act, referred to in subsec. (b)(7), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
-Section 4 of the Job Training Partnership Act, referred to in subsec. (c)(1)(E), which was classified to section 1503 of Title 29, Labor, was repealed by Pub. L.105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+Section 4 of the Job Training Partnership Act, referred to in subsec. (c)(1)(E), which was classified to section 1503 of Title 29, Labor, was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Amendments
 
-2009—Subsec. (d)(1). Pub. L. 111–8, §229(1), substituted “40” for “20”.
+<b>2009</b>—Subsec. (d)(1). Pub. L. 111–8, §229(1), substituted “40” for “20”.
 
 Subsec. (e). Pub. L. 111–8, §229(2), substituted “25” for “40”.
 
-1992—Subsec. (a)(2). Pub. L. 102–550, §213(a)(1), inserted “, including community land trusts,” after “organizations”.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–550, §213(a)(1), inserted “, including community land trusts,” after “organizations”.
 
 Subsec. (a)(3). Pub. L. 102–550, §213(b)(1), added par. (3).
 

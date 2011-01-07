@@ -24,7 +24,7 @@ For the purposes of this chapter—
 
 (6) The term “active duty” does not include any period during which an individual (A) was assigned full time by the Armed Forces to a civilian institution for a course of education which was substantially the same as established courses offered to civilians, (B) served as a cadet or midshipman at one of the service academies, or (C) served under the provisions of section 12103(d) of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard, or as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve.
 
-(7) The term “active duty” includes full-time National Guard duty first performed after June 30, 1985, by a member of the Army National Guard of the United States or the Air NationalGuard of the United States in the member's status as a member of the National Guard of a State for the purpose of organizing, administering, recruiting, instructing, or training the National Guard.
+(7) The term “active duty” includes full-time National Guard duty first performed after June30, 1985, by a member of the Army National Guard of the United States or the Air National Guard of the United States in the member's status as a member of the National Guard of a State for the purpose of organizing, administering, recruiting, instructing, or training the National Guard.
 
 (8) The term “educational institution” has the meaning given such term in section 3452(c) of this title.
 
@@ -40,33 +40,33 @@ Prior sections 3005 to 3010 were renumbered sections 5105 to 5110 of this title,
 
 #### Amendments
 
-2006—Par. (6)(C). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Par. (6)(C). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-2002—Par. (5). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Par. (5). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1999—Par. (3)(B), (C). Pub. L. 106–117 added subpar. (B) and redesignated former subpar. (B) as (C).
+<b>1999</b>—Par. (3)(B), (C). Pub. L. 106–117 added subpar. (B) and redesignated former subpar. (B) as (C).
 
-1996—Par. (7). Pub. L. 104–275 substituted “June 30, 1985” for “November 29, 1989”.
+<b>1996</b>—Par. (7). Pub. L. 104–275 substituted “June 30, 1985” for “November 29, 1989”.
 
-1994—Par. (4). Pub. L. 103–337, §1677(d)(2)(A), substituted “section 10143(a) of title 10” for “section 268(b) of title 10”.
+<b>1994</b>—Par. (4). Pub. L. 103–337, §1677(d)(2)(A), substituted “section 10143(a) of title 10” for “section 268(b) of title 10”.
 
 Par. (6). Pub. L. 103–337, §1677(d)(2)(B), substituted “section 12103(d) of title 10” for “section 511(d) of title 10”.
 
 Par. (8). Pub. L. 103–446 added par. (8).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1402 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1402 of this title as this section.
 
 Par. (3). Pub. L. 102–83, §5(c)(1), substituted “3452(b)” for “1652(b)” in subpar. (A) and “3687(a)” for “1787(a)” and “3482(a)(2)” for “1682(a)(2)” in subpar. (B).
 
-1990—Par. (7). Pub. L. 101–510 added par. (7).
+<b>1990</b>—Par. (7). Pub. L. 101–510 added par. (7).
 
-1989—Par. (5). Pub. L. 101–237 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘Secretary’ means the Secretary of Defense with respect to members of the Armed Forces under the jurisdiction of the Secretary of a military department and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy.”
+<b>1989</b>—Par. (5). Pub. L. 101–237 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘Secretary’ means the Secretary of Defense with respect to members of the Armed Forces under the jurisdiction of the Secretary of a military department and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy.”
 
-1988—Par. (3)(B). Pub. L. 100–689, §111(a)(1), substituted “in the case of an individual who is not serving on active duty, includes” for “includes”.
+<b>1988</b>—Par. (3)(B). Pub. L. 100–689, §111(a)(1), substituted “in the case of an individual who is not serving on active duty, includes” for “includes”.
 
 Pub. L. 100–689, §108(a)(1), inserted cl. (i) designation and added cl. (ii).
 
-1986—Par. (3). Pub. L. 99–576 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘program of education’ has the meaning given such term in section 1652(b) of this title.”
+<b>1986</b>—Par. (3). Pub. L. 99–576 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘program of education’ has the meaning given such term in section 1652(b) of this title.”
 
 #### Effective Date of 2002 Amendment
 

@@ -48,7 +48,7 @@ The provisions of section 6861(f) (relating to collection of unpaid amounts) and
 
 #### Amendments
 
-1976—Pub. L. 94–455, §1204(b)(1), substituted “assessments of income tax” for “of taxable year” in section catchline.
+<b>1976</b>—Pub. L. 94–455, §1204(b)(1), substituted “assessments of income tax” for “of taxable year” in section catchline.
 
 Subsec. (a). Pub. L. 94–455, §1204(b)(1), revised pars. (1) and (2) to provide that a termination assessment does not end the taxable year for any purpose other than the computation of the amount of tax to be assessed and collected and to set out the method for determining the tax for the current taxable year, and added pars. (3) and (4).
 
@@ -60,7 +60,7 @@ Subsec. (e). Pub. L. 94–455, §1204(b)(2), substituted provisions making secti
 
 Subsec. (f). Pub. L. 94–455, §1204(b)(2), added subsec. (f).
 
-1958—Subsec. (d). Pub. L. 85–866 designated existing provisions as par. (1), inserted opening provisions, and added par. (2).
+<b>1958</b>—Subsec. (d). Pub. L. 85–866 designated existing provisions as par. (1), inserted opening provisions, and added par. (2).
 
 #### Effective Date of 1976 Amendment
 

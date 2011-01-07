@@ -30,5 +30,5 @@ A certified copy of the bylaws and amendments thereof and of the minutes of all 
 
 #### Amendments
 
-1925—Subsec. (a). Act Feb. 26, 1925, inserted “, represented in person or by proxy,” in third sentence.
+<b>1925</b>—Subsec. (a). Act Feb. 26, 1925, inserted “, represented in person or by proxy,” in third sentence.
 

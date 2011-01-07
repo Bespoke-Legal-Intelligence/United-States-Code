@@ -18,7 +18,7 @@ The Secretary of State shall administer the historic and artistic articles of fu
 
 &emsp;&emsp;(B) in order to upgrade the reception areas, a better use of that article would be its sale or exchange,
 
-> &emsp;the Secretary may, with the advice and concurrence of the Director of the National Gallery of Art, sell the item at fair market value or trade it, without regard to the requirements of the Federal Property and Administrative Services Act of 1949.<sup>1</sup> The proceeds of any such sale may be credited to the unconditional gift account of the Department of State, and items obtained in trade shall be the property of the Secretary of State under this subsection.
+> &emsp;the Secretary may, with the advice and concurrence of the Director of the National Gallery of Art, sell the item at fair market value or trade it, without regard to the requirements of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41. The proceeds of any such sale may be credited to the unconditional gift account of the Department of State, and items obtained in trade shall be the property of the Secretary of State under this subsection.
 
 #### (3) Smithsonian Institution
 
@@ -26,13 +26,13 @@ The Secretary of State shall administer the historic and artistic articles of fu
 
 #### (c) “Reception areas” defined
 
-For purposes of this section, the term “reception areas” means the areas of the Harry S Truman Federal Building, located at 2201 C Street, Northwest, Washington, District of Columbia, known as the Diplomatic Reception Rooms (eighth floor), the Secretary of State's offices (seventh floor), the Deputy Secretary of State's offices (seventh floor), and the seventh floor reception area.
+For purposes of this section, the term “reception areas” means the areas of the Harry S Truman Federal Building, located at 2201 C Street, Northwest, Washington, District of Columbia,known as the Diplomatic Reception Rooms (eighth floor), the Secretary of State's offices (seventh floor), the Deputy Secretary of State's offices (seventh floor), and the seventh floor reception area.
 
 (Aug. 1, 1956, ch. 841, title I, §41, as added Pub. L. 100–204, title I, §126(a)(2), Dec. 22, 1987, 101 Stat. 1341; amended Pub. L. 106–218, §2, June 20, 2000, 114 Stat. 345.)
 
-#### References in Text
+#### Codification
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(2), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+In subsec. (b)(2), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
 
@@ -40,7 +40,7 @@ A prior section 41 of act Aug. 1, 1956, was renumbered section 42 by section 126
 
 #### Amendments
 
-2000—Pub. L. 106–218 substituted “Harry S Truman Federal Building” for “Department of State Building” in section catchline and in subsec. (c).
+<b>2000</b>—Pub. L. 106–218 substituted “Harry S Truman Federal Building” for “Department of State Building” in section catchline and in subsec. (c).
 
 #### Designation of Department of State Building as Harry S Truman Federal Building
 
@@ -53,6 +53,4 @@ Pub. L. 106–218, June 20, 2000, 114 Stat. 345, provided that:
 #### “SEC. 2. REFERENCES.
 
 “Any reference in a law, map, regulation, document, paper, or other record of the United States to the Federal building referred to in section 1 shall be deemed to be a reference to the ‘Harry S Truman Federal Building’.”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

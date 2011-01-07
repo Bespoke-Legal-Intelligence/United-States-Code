@@ -1,20 +1,34 @@
 ### §293e. Grants for health professions education
 
-#### (a) Grants for health professions education in health disparities and cultural competency
+#### (a) Cultural competency, prevention, and public health and individuals with disability grants
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make awards of grants, contracts, or cooperative agreements to public and nonprofit private entities (including tribal entities) for the purpose of carrying out research and demonstration projects (including research and demonstration projects for continuing health professions education) for training and education of health professionals for the reduction of disparities in health care outcomes and the provision of culturally competent health care.
+&emsp;The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make awards of grants, contracts, or cooperative agreements to public and nonprofit private entities (including tribal entities) for the development, evaluation, and dissemination of research, demonstration projects, and model curricula for cultural competency, prevention, public health proficiency, reducing health disparities, and aptitude for working with individuals with disabilities training for use in health professions schools and continuing education programs, and for other purposes determined as appropriate by the Secretary.
 
 #### (2) Eligible entities
 
 &emsp;Unless specifically required otherwise in this subchapter, the Secretary shall accept applications for grants or contracts under this section from health professions schools, academic health centers, State or local governments, or other appropriate public or private nonprofit entities (or consortia of entities, including entities promoting multidisciplinary approaches) for funding and participation in health professions training activities. The Secretary may accept applications from for-profit private entities as determined appropriate by the Secretary.
 
-#### (b) Authorization of appropriations
+#### (b) Collaboration
 
-There are authorized to be appropriated to carry out subsection (a) of this section, $3,500,000 for fiscal year 2001, $7,000,000 for fiscal year 2002, $7,000,000 for fiscal year 2003, and $3,500,000 for fiscal year 2004.
+In carrying out subsection (a), the Secretary shall collaborate with health professional societies, licensing and accreditation entities, health professions schools, and experts in minority health and cultural competency, prevention, and public health and disability groups, community-based organizations, and other organizations as determined appropriate by the Secretary. The Secretary shall coordinate with curricula and research and demonstration projects developed under section 296e–1 of this title.
 
-(July 1, 1944, ch. 373, title VII, §741, as added Pub. L. 106–525, title IV, §401(a), Nov. 22, 2000, 114 Stat. 2508.)
+#### (c) Dissemination
+
+#### (1) In general
+
+&emsp;Model curricula developed under this section shall be disseminated through the Internet Clearinghouse under section 270 <sup>1</sup> and such other means as determined appropriate by the Secretary.
+
+#### (2) Evaluation
+
+&emsp;The Secretary shall evaluate the adoption and the implementation of cultural competency, prevention, and public health, and working with individuals with a disability training curricula, and the facilitate <sup>2</sup> inclusion of these competency measures in quality measurement systems as appropriate.
+
+#### (d) Authorization of appropriations
+
+There is authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2015.
+
+(July 1, 1944, ch. 373, title VII, §741, as added Pub. L. 106–525, title IV, §401(a), Nov. 22, 2000, 114 Stat. 2508; amended Pub. L. 111–148, title V, §5307(a), Mar. 23, 2010, 124 Stat. 628.)
 
 #### Prior Provisions
 
@@ -31,6 +45,14 @@ A prior section 293g, act July 1, 1944, ch. 373, title VII, §727, as added Sept
 A prior section 293h, act July 1, 1944, ch. 373, title VII, §728, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 170; amended Sept. 4, 1964, Pub. L. 88–581, §3(d), 78 Stat. 919; Nov. 18, 1971, Pub. L. 92–157, title I, §102(i), 85 Stat. 436, which related to technical assistance, was renumbered section 726 of act July 1, 1944, by Pub. L. 94–484 and transferred to section 293e of this title, and subsequently omitted in the general amendment of this subchapter by Pub. L. 102–408.
 
 A prior section 293i, act July 1, 1944, ch. 373, title VII, §729, as added Nov. 18, 1971, Pub. L. 92–157, title I, §102(d), 85 Stat. 432, which related to loan guarantees and interest subsidies, was renumbered section 726 of act July 1, 1944, by Pub. L. 94–484 and transferred to section 293f of this title, and subsequently omitted in the general amendment of this subchapter by Pub. L. 102–408.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–148, §5307(a)(1)(A), substituted “Cultural competency, prevention, and public health and individuals with disability grants” for “Grants for health professions education in health disparities and cultural competency” in heading.
+
+Subsec. (a)(1). Pub. L. 111–148, §5307(a)(1)(B), substituted “for the development, evaluation, and dissemination of research, demonstration projects, and model curricula for cultural competency, prevention, public health proficiency, reducing health disparities, and aptitude for working with individuals with disabilities training for use in health professions schools and continuing education programs, and for other purposes determined as appropriate by the Secretary” for “for the purpose of carrying out research and demonstration projects (including research and demonstration projects for continuing health professions education) for training and education of health professionals for the reduction of disparities in health care outcomes and the provision of culturally competent health care”.
+
+Subsecs. (b) to (d). Pub. L. 111–148, §5307(a)(2), added subsecs. (b) to (d) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “There are authorized to be appropriated to carry out subsection (a) of this section, $3,500,000 for fiscal year 2001, $7,000,000 for fiscal year 2002, $7,000,000 for fiscal year 2003, and $3,500,000 for fiscal year 2004.”
 
 #### National Conference on Health Professions Education and Health Disparities
 
@@ -55,4 +77,8 @@ Publication of Findings.—Not later than 6 months after the national conference
 “(e)
 
 Authorization of Appropriations.—There is authorized to be appropriated such sums as may be necessary to carry out this section.”
+
+<i><sup>1</sup></i><i> So in original. Act July 1, 1944, does not contain a section 270.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

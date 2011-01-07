@@ -2,7 +2,7 @@
 
 When the United States is at war or Congress has enacted a specific authorization for the use of the Armed Forces, as described in section 5(b) of the War Powers Resolution (50 U.S.C. 1544(b)), the running of any statute of limitations applicable to any offense (1) involving fraud or attempted fraud against the United States or any agency thereof in any manner, whether by conspiracy or not, or (2) committed in connection with the acquisition, care, handling, custody, control or disposition of any real or personal property of the United States, or (3) committed in connection with the negotiation, procurement, award, performance, payment for, interim financing, cancelation, or other termination or settlement, of any contract, subcontract, or purchase order which is connected with or related to the prosecution of the war or directly connected with or related to the authorized use of the Armed Forces, or with any disposition of termination inventory by any war contractor or Government agency, shall be suspended until 5 years after the termination of hostilities as proclaimed by a Presidential proclamation, with notice to Congress, or by a concurrent resolution of Congress.
 
-Definitions of terms in section 103 of title 41 shall apply to similar terms used in this section. For purposes of applying such definitions in this section, the term “war” includes a specific authorization for the use of the Armed Forces, as described in section 5(b) of the War Powers Resolution (50 U.S.C. 1544(b)).
+Definitions of terms in section 103 <sup>1</sup> of title 41 shall apply to similar terms used in this section. For purposes of applying such definitions in this section, the term “war” includes a specific authorization for the use of the Armed Forces, as described in section 5(b) of the War Powers Resolution (50 U.S.C. 1544(b)).
 
 (June 25, 1948, ch. 645, 62 Stat. 828; Pub. L. 110–329, div. C, title VIII, §8117, Sept. 30, 2008, 122 Stat. 3647; Pub. L. 110–417, \[div. A\], title VIII, §855, Oct. 14, 2008, 122 Stat. 4545; Pub. L. 111–84, div. A, title X, §1073(c)(7), Oct. 28, 2009, 123 Stat. 2475.)
 
@@ -22,15 +22,21 @@ The last paragraph was added to obviate any possibility of doubt as to meaning o
 
 Changes were made in phraseology.
 
+#### References in Text
+
+Section 103 of title 41, referred to in text, probably means section 3 of act July 1, 1944, ch. 358, 58 Stat. 650, which was classified to section 103 of former Title 41, Public Contracts, prior to repeal by Pub. L. 111–350, §7(b), Jan. 4, 2011, 124 Stat. 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+
 #### Amendments
 
-2009—Pub. L. 111–84 repealed Pub. L. 110–417, §855. See 2008 Amendment note below.
+<b>2009</b>—Pub. L. 111–84 repealed Pub. L. 110–417, §855. See 2008 Amendment note below.
 
-2008—Pub. L. 110–417, §855, which amended this section identically to amendment by Pub. L. 110–329, was repealed by Pub. L. 111–84. See 2008 Amendment note below.
+<b>2008</b>—Pub. L. 110–417, §855, which amended this section identically to amendment by Pub. L. 110–329, was repealed by Pub. L. 111–84. See 2008 Amendment note below.
 
 Pub. L. 110–329, in first par., inserted “or Congress has enacted a specific authorization for the use of the Armed Forces, as described in section 5(b) of the War Powers Resolution (50 U.S.C. 1544(b)),” after “is at war” and “or directly connected with or related to the authorized use of the Armed Forces” after “prosecution of the war” and substituted “5 years” for “three years” and “proclaimed by a Presidential proclamation, with notice to Congress,” for “proclaimed by the President”, and, in second par., inserted last sentence.
 
 #### Effective Date of 2009 Amendment
 
 Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided in part that the amendment made by section 1073(c)(7) of Pub. L. 111–84 is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

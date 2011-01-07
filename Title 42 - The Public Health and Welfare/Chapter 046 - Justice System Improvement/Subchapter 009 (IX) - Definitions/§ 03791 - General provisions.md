@@ -98,7 +98,7 @@ A prior section 3792 of this title, Pub. L. 90–351, title I, §652, as added P
 
 #### Amendments
 
-2006—Subsec. (a)(2). Pub. L. 109–162, §1111(c)(2)(F), which directed the substitution of “for the purposes of section 3755(a) of this title” for “for the purposes of section 3756(a) of this title”, was executed by making the substitution for “for the purpose of section 3756(a) of this title”, to reflect the probable intent of Congress.
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–162, §1111(c)(2)(F), which directed the substitution of “for the purposes ofsection 3755(a) of this title” for “for the purposes of section 3756(a) of this title”, was executed by making the substitution for “for the purpose of section 3756(a) of this title”, to reflect the probable intent of Congress.
 
 Subsec. (a)(3)(C). Pub. L. 109–162, §1156(1), struck out “(as that term is defined in section 5603 of this title)” after “an Indian Tribe”.
 
@@ -108,11 +108,11 @@ Subsec. (a)(11). Pub. L. 109–162, §1156(3), substituted “, including faith
 
 Subsec. (a)(26), (27). Pub. L. 109–162, §1156(4), added pars. (26) and (27).
 
-1998—Subsec. (a)(3). Pub. L. 105–277, which directed the general amendment of par. (3) of this section, was executed to subsec. (a)(3) of this section, to reflect the probable intent of Congress. Prior to amendment, subsec. (a)(3) read as follows: “ ‘unit of local government’ means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government or the United States Government performing law enforcement functions in and for the District of Columbia, and the Trust Territory of the Pacific Islands;”.
+<b>1998</b>—Subsec. (a)(3). Pub. L. 105–277, which directed the general amendment of par. (3) of this section, was executed to subsec. (a)(3) of this section, to reflect the probable intent of Congress. Prior to amendment, subsec. (a)(3) read as follows: “ ‘unit of local government’ means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government or the United States Government performing law enforcement functions in and for the District of Columbia, and the Trust Territory of the Pacific Islands;”.
 
 Subsec. (a)(17). Pub. L. 105–244, which directed amendment of par. (17) of this section by substituting “1001” for “1141(a)”, was executed to subsec. (a)(17) of this section, to reflect the probable intent of Congress.
 
-1994—Subsec. (a)(3). Pub. L. 103–322, §330001(h)(13), substituted “Columbia, and” for “Columbia and,”.
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–322, §330001(h)(13), substituted “Columbia, and” for “Columbia and,”.
 
 Subsec. (a)(21). Pub. L. 103–322, §§20201(c)(1), 330001(d), amended par. (21) identically, inserting a semicolon at end.
 
@@ -128,17 +128,17 @@ Pub. L. 103–322, §20201(c)(4), added par. (24).
 
 Subsec. (a)(25). Pub. L. 103–322, §32101(c)(3), added par. (25).
 
-1990—Subsec. (a)(22), (23). Pub. L. 101–647 added pars. (22) and (23).
+<b>1990</b>—Subsec. (a)(22), (23). Pub. L. 101–647 added pars. (22) and (23).
 
-1989—Subsec. (a)(2). Pub. L. 101–219 substituted “<i>Provided</i>, That for the purpose of section 3756(a) of this title, American Samoa and the Commonwealth of the Northern Mariana Islands shall be considered as one state and that for these purposes 67 per centum of the amounts allocated shall be allocated to American Samoa, and 33 per centum to the Commonwealth of the Northern Mariana Islands.” for “<i>Provided</i>, That for the purposes of section 3756(a) of this title American Samoa, Guam, and the Northern Mariana Islands shall be considered as one State and that, for these purposes, 33 per centum of the amounts allocated shall be allocated to American Samoa, 50 per centum to Guam, and 17 per centum to the Northern Mariana Islands;”.
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–219 substituted “<i>Provided</i>, That for the purpose of section 3756(a) of this title, American Samoa and the Commonwealth of the Northern Mariana Islands shall be considered as one state and that for these purposes 67 per centum of the amounts allocated shall be allocated to American Samoa, and 33 per centum to the Commonwealth of the Northern Mariana Islands.” for “<i>Provided</i>, That for the purposes of section 3756(a) of this title American Samoa, Guam, and the Northern Mariana Islands shall be considered as one State and that, for these purposes, 33 per centum of the amounts allocated shall be allocated to American Samoa, 50 per centum to Guam, and 17 per centum to the Northern Mariana Islands;”.
 
-1988—Subsec. (a)(2). Pub. L. 100–690 substituted “section 3756(a)” for “section 3747(a)”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–690 substituted “section 3756(a)” for “section 3747(a)”.
 
-1986—Subsec. (a)(2). Pub. L. 99–396, §7(1), included American Samoa, Guam, and the Northern Mariana Islands in definition of “State” and inserted proviso directing that for purposes of section 3747(a) of this title American Samoa, Guam, and the Northern Mariana Islands shall be considered as one State.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–396, §7(1), included American Samoa, Guam, and the Northern Mariana Islands in definition of “State” and inserted proviso directing that for purposes of section 3747(a) of this title American Samoa, Guam, and the Northern Mariana Islands shall be considered as one State.
 
 Subsec. (a)(3). Pub. L. 99–396, §7(2), substituted “and” for “, Guam, American Samoa” after “in and for the District of Columbia” and struck out “, or the Commonwealth of the Northern Mariana Islands” after “Trust Territory of the Pacific Islands”.
 
-1984—Subsec. (a)(2). Pub. L. 98–473, §609C(b)(1), struck out references to Guam, American Samoa, the TrustTerritory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–473, §609C(b)(1), struck out references to Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
 
 Subsec. (a)(3). Pub. L. 98–473, §609C(b)(2), inserted references to Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
 
@@ -163,4 +163,8 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 3711 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

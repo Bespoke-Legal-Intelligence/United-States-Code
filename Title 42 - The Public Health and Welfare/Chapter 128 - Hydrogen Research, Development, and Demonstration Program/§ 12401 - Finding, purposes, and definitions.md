@@ -28,7 +28,7 @@ As used in this chapter, the term:
 
 #### Amendments
 
-1996—Subsec. (b)(1). Pub. L. 104–271, §101(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to direct the Secretary to prepare a comprehensive 5-year comprehensive program management plan that will identify and resolve critical technical issues necessary for the realization of a domestic capability to produce, distribute, and use hydrogen economically within the shortest time practicable;”.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–271, §101(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to direct the Secretary to prepare a comprehensive 5-year comprehensive program management plan that will identify and resolve critical technical issues necessary for the realization of a domestic capability to produce, distribute, and use hydrogen economically within the shortest time practicable;”.
 
 Subsec. (c). Pub. L. 104–271, §101(b), added par. (2) and redesignated former par. (2) as (3).
 

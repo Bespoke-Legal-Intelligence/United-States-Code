@@ -14,15 +14,15 @@
 
 #### Amendments
 
-1994—Subsec. (a)(3)(A). Pub. L. 103–446 substituted “Veterans Health Administration” for “Department ofMedicine and Surgery” and “Veterans Benefits Administration” for “Department of Veterans’ Benefits”.
+<b>1994</b>—Subsec. (a)(3)(A). Pub. L. 103–446 substituted “Veterans Health Administration” for “Department of Medicine and Surgery” and “Veterans Benefits Administration” for “Department of Veterans’ Benefits”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1521 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1521 of this title as this section.
 
 Subsec. (a)(3). Pub. L. 102–54 substituted “Veterans’ Employment and Training” for “Veterans’ Employment”.
 
 Subsec. (c). Pub. L. 102–83, §2(c)(3), substituted “section 529” for “section 214”.
 
-1989—Subsecs. (a)(1), (2), (b). Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
+<b>1989</b>—Subsecs. (a)(1), (2), (b). Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
 #### Effective Date
 

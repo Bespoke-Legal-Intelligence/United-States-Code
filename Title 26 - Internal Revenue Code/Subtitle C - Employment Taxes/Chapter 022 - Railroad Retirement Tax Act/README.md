@@ -17,7 +17,9 @@
 
 #### Amendments
 
-2001—Pub. L. 107–90, title II, §204(e)(5), Dec. 21, 2001, 115 Stat. 893, added item for subchapter E.
+<b>2001</b>—Pub. L. 107–90, title II, §204(e)(5), Dec. 21, 2001, 115 Stat. 893, added item for subchapter E.
+
+<i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
 
 
 ---

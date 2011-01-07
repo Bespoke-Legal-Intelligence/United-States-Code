@@ -154,7 +154,7 @@ Notwithstanding any other provision of this part, a group of workers covered by 
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–5, §§1801(e)(2)(A), 1893, temporarily struck out “(including workers in any agricultural firm or subdivision of an agricultural firm)” after “group of workers” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Subsec. (a). Pub. L. 111–5, §§1801(e)(2)(A), 1893, temporarily struck out “(including workers in any agricultural firm or subdivision of an agricultural firm)” after “group of workers” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (a)(1). Pub. L. 111–5, §§1801(e)(2)(B)(i), 1893, temporarily struck out “, or an appropriate subdivision of the firm,” after “workers’ firm”. See Effective and Termination Dates of 2009 Amendment note below.
 
@@ -200,9 +200,9 @@ Subsec. (d)(5). Pub. L. 111–5, §§1801(e)(2)(D)(v), 1893, temporarily added p
 
 Subsecs. (e), (f). Pub. L. 111–5, §§1801(c), 1802, 1893, temporarily added subsecs. (e) and (f). See Effective and Termination Dates of 2009 Amendment note below.
 
-2004—Subsec. (b). Pub. L. 108–429 made technical amendment to heading and inserted “pursuant to a petition filed under section 2271 of this title” after “under this part” in introductory provisions.
+<b>2004</b>—Subsec. (b). Pub. L. 108–429 made technical amendment to heading and inserted “pursuant to a petition filed under section 2271 of this title” after “under this part” in introductory provisions.
 
-2002—Subsec. (a). Pub. L. 107–210, §113(a)(1)(A), inserted heading and amended text generally. Prior to amendment, text read as follows: “The Secretary shall certify a group of workers (including workers in any agricultural firm or subdivision of an agricultural firm) as eligible to apply for adjustment assistance under this subpart if he determines—
+<b>2002</b>—Subsec. (a). Pub. L. 107–210, §113(a)(1)(A), inserted heading and amended text generally. Prior to amendment, text read as follows: “The Secretary shall certify a group of workers (including workers in any agricultural firm or subdivision of an agricultural firm) as eligible to apply for adjustment assistance under this subpart if he determines—
 
 &emsp;“(1) that a significant number or proportion of the workers in such workers’ firm or an appropriate subdivision of the firm have become totally or partially separated, or are threatened to become totally or partially separated,
 
@@ -218,25 +218,25 @@ Pub. L. 107–210, §113(a)(1)(B), redesignated subsec. (b) as (c).
 
 Subsec. (c)(3), (4). Pub. L. 107–210, §113(b)(2), added pars. (3) and (4).
 
-1993—Subsec. (a). Pub. L. 103–182 substituted “assistance under this subpart” for “assistance under this part”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–182 substituted “assistance under this subpart” for “assistance under this part”.
 
-1988—Pub. L. 100–418, §1421(a)(1)(A), struck out last sentence which defined “contributed importantly” for purposes of par. (3), designated remaining provisions as subsec. (a), and added subsec. (b).
+<b>1988</b>—Pub. L. 100–418, §1421(a)(1)(A), struck out last sentence which defined “contributed importantly” for purposes of par. (3), designated remaining provisions as subsec. (a), and added subsec. (b).
 
 Subsec. (a)(3). Pub. L. 100–418, §1421(b)(1), directed the general amendment of par. (3) adding provisions relating to provision of essential goods or services by such workers’ firm, or appropriate subdivision thereof, which amendment did not become effective pursuant to section 1430(d) of Pub. L. 100–418, as amended, set out as an Effective Date note under section 2397 of this title.
 
-1986—Pub. L. 99–272 inserted “(including workers in any agricultural firm or subdivision of an agricultural firm)” after “group of workers”.
+<b>1986</b>—Pub. L. 99–272 inserted “(including workers in any agricultural firm or subdivision of an agricultural firm)” after “group of workers”.
 
-1983—Pub. L. 98–120, §3(a)(2), substituted “For purposes of paragraph (3), the term ‘contributed importantly’ means a cause which is important, but not necessarily more important than any other cause” for “For purposes of paragraph (3), the term ‘substantial cause’ means a cause which is important and not less than any other cause” in provision following par. (3).
+<b>1983</b>—Pub. L. 98–120, §3(a)(2), substituted “For purposes of paragraph (3), the term ‘contributed importantly’ means a cause which is important, but not necessarily more important than any other cause” for “For purposes of paragraph (3), the term ‘substantial cause’ means a cause which is important and not less than any other cause” in provision following par. (3).
 
 Par. (3). Pub. L. 98–120, §3(a)(1), substituted “contributed importantly to such total or partial separation, or threat thereof, and to such decline” for “were a substantial cause of such total or partial separation, or threat thereof, and of such decline”.
 
-1981—Pub. L. 97–35 substituted provisions defining “substantial cause” and applicability of such term in par. (3) for provisions defining “contributed importantly” and applicability of such term in par. (3).
+<b>1981</b>—Pub. L. 97–35 substituted provisions defining “substantial cause” and applicability of such term in par. (3) for provisions defining “contributed importantly” and applicability of such term in par. (3).
 
 #### Effective and Termination Dates of 2009 Amendment
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -256,7 +256,7 @@ Amendment by Pub. L. 97–35 applicable to petitions filed on or after Oct. 1, 1
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2010, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 
 #### Workers Covered by Certification Notwithstanding Other Law
 

@@ -6,7 +6,7 @@ The Congress finds that it is in the national security interest of the United St
 
 &emsp;&emsp;(A) the transportation, storage, safeguarding, and destruction of nuclear and other weapons of mass destruction of the independent states of the former Soviet Union;
 
-&emsp;&emsp;(B) the prevention of proliferation of weapons of mass destruction and destabilizing conventional weapons of the independent states, and the establishment of verifiable safeguards against the proliferation of such weapons;
+&emsp;&emsp;(B) the prevention of proliferation of weapons of mass destruction and destabilizingconventional weapons of the independent states, and the establishment of verifiable safeguards against the proliferation of such weapons;
 
 &emsp;&emsp;(C) the prevention of diversion of weapons-related scientific expertise of the former Soviet Union to terrorist groups or third countries; and
 

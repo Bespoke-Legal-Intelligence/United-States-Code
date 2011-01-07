@@ -14,7 +14,7 @@ In order to carry out the objective of this chapter there shall be achieved—
 
 &emsp;(C) not later than July 1, 1977, any more stringent limitation, including those necessary to meet water quality standards, treatment standards, or schedules of compliance, established pursuant to any State law or regulations (under authority preserved by section 1370 of this title) or any other Federal law or regulation, or required to implement any applicable water quality standard established pursuant to this chapter.
 
-&emsp;(2)(A) for pollutants identified in subparagraphs (C), (D), and (F) of this paragraph, effluent limitations for categories and classes ofpoint sources, other than publicly owned treatment works, which (i) shall require application of the best available technology economically achievable for such category or class, which will result in reasonable further progress toward the national goal of eliminating the discharge of all pollutants, as determined in accordance with regulations issued by the Administrator pursuant to section 1314(b)(2) of this title, which such effluent limitations shall require the elimination of discharges of all pollutants if the Administrator finds, on the basis of information available to him (including information developed pursuant to section 1325 of this title), that such elimination is technologically and economically achievable for a category or class of point sources as determined in accordance with regulations issued by the Administrator pursuant to section 1314(b)(2) of this title, or (ii) in the case of the introduction of a pollutant into a publicly owned treatment works which meets the requirements of subparagraph (B) of this paragraph, shall require compliance with any applicable pretreatment requirements and any other requirement under section 1317 of this title;
+&emsp;(2)(A) for pollutants identified in subparagraphs (C), (D), and (F) of this paragraph, effluent limitations for categories and classes of point sources, other than publicly owned treatment works, which (i) shall require application of the best available technology economically achievable for such category or class, which will result in reasonable further progress toward the national goal of eliminating the discharge of all pollutants, as determined in accordance with regulations issued by the Administrator pursuant to section 1314(b)(2) of this title, which such effluent limitations shall require the elimination of discharges of all pollutants if the Administrator finds, on the basis of information available to him (including information developed pursuant to section 1325 of this title), that such elimination is technologically and economically achievable for a category or class of point sources as determined in accordance with regulations issued by the Administrator pursuant to section 1314(b)(2) of this title, or (ii) in the case of the introduction of a pollutant into a publicly owned treatment works which meets the requirements of subparagraph (B) of this paragraph, shall require compliance with any applicable pretreatment requirements and any other requirement under section 1317 of this title;
 
 &emsp;(B) Repealed. Pub. L. 97–117, §21(b), Dec. 29, 1981, 95 Stat. 1632.
 
@@ -26,7 +26,7 @@ In order to carry out the objective of this chapter there shall be achieved—
 
 &emsp;(F) for all pollutants (other than those subject to subparagraphs (C), (D), or (E) of this paragraph) compliance with effluent limitations in accordance with subparagraph (A) of this paragraph as expeditiously as practicable but in no case later than 3 years after the date such limitations are established, and in no case later than March 31, 1989.
 
-&emsp;(3)(A) for effluent limitations under paragraph (1)(A)(i) of this subsection promulgated after January 1, 1982, and requiring a level of control substantially greater or based on fundamentally different control technology than under permits for an industrial category issued before such date, compliance as expeditiously as practicable but in no case later than three years after the date such limitations are promulgated under section 1314(b) of this title, and in no case later than March 31, 1989; and
+&emsp;(3)(A) for effluent limitations under paragraph (1)(A)(i) of this subsection promulgated after January 1, 1982, and requiring a level of control substantially greater or based on fundamentally different control technology than under permits for an industrial category issued before such date, compliance as expeditiously as practicable but in no case later thanthree years after the date such limitations are promulgated under section 1314(b) of this title, and in no case later than March 31, 1989; and
 
 &emsp;(B) for any effluent limitation in accordance with paragraph (1)(A)(i), (2)(A)(i), or (2)(E) of this subsection established only on the basis of section 1342(a)(1) of this title in a permit issued after February 4, 1987, compliance as expeditiously as practicable but in no case later than three years after the date such limitations are established, and in no case later than March 31, 1989.
 
@@ -50,7 +50,7 @@ Notwithstanding any other provisions of this chapter it shall be unlawful to dis
 
 #### (1) General authority
 
-&emsp;The Administrator, with the concurrence of the State, may modify the requirements of subsection (b)(2)(A) of this section with respect to the discharge from any point source of ammonia, chlorine, color, iron, and total phenols (4AAP) (when determined by the Administrator to be a pollutant covered by subsection (b)(2)(F) of this section) and any otherpollutant which the Administrator lists under paragraph (4) of this subsection.
+&emsp;The Administrator, with the concurrence of the State, may modify the requirements of subsection (b)(2)(A) of this section with respect to the discharge from any point source of ammonia, chlorine, color, iron, and total phenols (4AAP) (when determined by the Administrator to be a pollutant covered by subsection (b)(2)(F) of this section) and any other pollutant which the Administrator lists under paragraph (4) of this subsection.
 
 #### (2) Requirements for granting modifications
 
@@ -88,7 +88,7 @@ Notwithstanding any other provisions of this chapter it shall be unlawful to dis
 
 #### (iv) Nonconventional criteria determination
 
-&emsp;&emsp;&emsp;If the Administrator determines that the pollutant does not meet the criteria for listing as a toxic pollutant under such section and determines that adequate test methods and sufficient data are available to make the determinations required by paragraph (2) of this subsection with respect to the pollutant, the Administrator shall add the pollutant to the list of pollutants specified in paragraph (1) of this subsection for which modifications are authorized under this subsection.
+&emsp;&emsp;&emsp;If the Administrator determines that the pollutant does not meet the criteria for listing as a toxic pollutant under such section and determines that adequate testmethods and sufficient data are available to make the determinations required by paragraph (2) of this subsection with respect to the pollutant, the Administrator shall add the pollutant to the list of pollutants specified in paragraph (1) of this subsection for which modifications are authorized under this subsection.
 
 #### (C) Requirements for filing of petitions
 
@@ -118,7 +118,7 @@ The Administrator, with the concurrence of the State, may issue a permit under s
 
 &emsp;(1) there is an applicable water quality standard specific to the pollutant for which the modification is requested, which has been identified under section 1314(a)(6) of this title;
 
-&emsp;(2) the discharge of pollutants in accordance with such modified requirements will notinterfere, alone or in combination with pollutants from other sources, with the attainment or maintenance of that water quality which assures protection of public water supplies and the protection and propagation of a balanced, indigenous population of shellfish, fish, and wildlife, and allows recreational activities, in and on the water;
+&emsp;(2) the discharge of pollutants in accordance with such modified requirements will not interfere, alone or in combination with pollutants from other sources, with the attainment or maintenance of that water quality which assures protection of public water supplies and the protection and propagation of a balanced, indigenous population of shellfish, fish, and wildlife, and allows recreational activities, in and on the water;
 
 &emsp;(3) the applicant has established a system for monitoring the impact of such discharge on a representative sample of aquatic biota, to the extent practicable, and the scope of such monitoring is limited to include only those scientific investigations which are necessary to study the effects of the proposed discharge;
 
@@ -134,11 +134,11 @@ The Administrator, with the concurrence of the State, may issue a permit under s
 
 &emsp;(9) the applicant at the time such modification becomes effective will be discharging effluent which has received at least primary or equivalent treatment and which meets the criteria established under section 1314(a)(1) of this title after initial mixing in the waters surrounding or adjacent to the point at which such effluent is discharged.
 
-> For the purposes of this subsection the phrase “the discharge of any pollutant into marine waters” refers to a discharge into deep waters of the territorial sea or the waters of the contiguous zone, or into saline estuarine waters where there is strong tidal movement and other hydrological and geological characteristics which the Administrator determines necessary to allow compliance with paragraph (2) of this subsection, and section 1251(a)(2) of this title. For the purposes of paragraph (9), “primary or equivalent treatment” means treatment by screening, sedimentation, and skimming adequate to remove at least 30 percent of the biological oxygen demanding material and of the suspended solids in the treatment works influent, and disinfection, where appropriate. A municipality which applies secondary treatment shall be eligible to receive a permit pursuant to this subsection which modifies the requirements of subsection (b)(1)(B) of this section with respect to the discharge of any pollutant from any treatment works owned by such municipality into marine waters. No permit issued under this subsection shall authorize the discharge of sewage sludge into marine waters. In order for a permit to be issued under this subsection for the discharge of a pollutant into marine waters, such marine waters must exhibit characteristics assuring that water providing dilution does not contain significant amounts of previously discharged effluent from such treatment works. No permit issued under this subsection shall authorize the discharge of any pollutant into saline estuarine waters which at the time of application do not support a balanced indigenous population of shellfish, fish and wildlife, or allow recreation in and on the waters or which exhibit ambient water quality below applicable water quality standards adopted for the protection of public water supplies, shellfish, fish and wildlife or recreational activities or such other standards necessary to assure support and protection of such uses. The prohibition contained in the preceding sentence shall apply without regard to the presence or absence of a causal relationship between such characteristics and the applicant's current or proposed discharge. Notwithstanding any other provisions of this subsection, no permit may be issued under this subsection for discharge of a pollutant into the New York Bight Apex consisting of the ocean waters of the Atlantic Ocean westward of 73 degrees 30 minutes west longitude and northward of 40 degrees 10 minutes north latitude.
+> For the purposes of this subsection the phrase “the discharge of any pollutant into marine waters” refers to a discharge into deep waters of the territorial sea or the waters of the contiguous zone, or into saline estuarine waters where there is strong tidal movement and other hydrological and geological characteristics which the Administrator determines necessary to allow compliance with paragraph (2) of this subsection, and section 1251(a)(2) of this title. For the purposes of paragraph (9), “primary or equivalent treatment” means treatment by screening, sedimentation, and skimming adequate to remove at least 30 percent of the biological oxygen demanding material and of the suspended solids in the treatment works influent, and disinfection, where appropriate. A municipality which applies secondary treatment shall be eligible to receive a permit pursuant to this subsection which modifies the requirements of subsection (b)(1)(B) of this section with respect to the discharge of any pollutant from any treatment works owned by such municipality into marine waters. No permit issued under this subsection shall authorize the discharge of sewage sludge into marine waters. In order for apermit to be issued under this subsection for the discharge of a pollutant into marine waters, such marine waters must exhibit characteristics assuring that water providing dilution does not contain significant amounts of previously discharged effluent from such treatment works. No permit issued under this subsection shall authorize the discharge of any pollutant into saline estuarine waters which at the time of application do not support a balanced indigenous population of shellfish, fish and wildlife, or allow recreation in and on the waters or which exhibit ambient water quality below applicable water quality standards adopted for the protection of public water supplies, shellfish, fish and wildlife or recreational activities or such other standards necessary to assure support and protection of such uses. The prohibition contained in the preceding sentence shall apply without regard to the presence or absence of a causal relationship between such characteristics and the applicant's current or proposed discharge. Notwithstanding any other provisions of this subsection, no permit may be issued under this subsection for discharge of a pollutant into the New York Bight Apex consisting of the ocean waters of the Atlantic Ocean westward of 73 degrees 30 minutes west longitude and northward of 40 degrees 10 minutes north latitude.
 
 #### (i) Municipal time extensions
 
-(1) Where construction is required in order for a planned or existing publicly owned treatment works to achieve limitations under subsection (b)(1)(B) or (b)(1)(C) of this section, but (A) construction cannot be completed within the time required in such subsection, or (B) the United States has failed to make financial assistance under this chapter available in time to achieve such limitations by the time specified in such subsection, the owner or operator of such treatment works may request the Administrator (or if appropriate the State) to issue a permit pursuant to section 1342 of this title or to modify a permit issued pursuant to that section to extend such time for compliance. Any such request shall be filed with the Administrator (or if appropriate the State) within 180 days after February 4, 1987. The Administrator (or if appropriate the State) may grant such request and issue or modify such a permit, which shall contain a schedule of compliance for the publicly owned treatment works based on the earliest date by which such financial assistance will be available from the United States and construction can be completed, but in no event later than July 1, 1988, and shall contain such other terms and conditions, including those necessary to carry out subsections (b) through (g) of section 1281 of this title, section 1317 of this title,and such interim effluent limitations applicable to that treatment works as the Administrator determines are necessary to carry out the provisions of this chapter.
+(1) Where construction is required in order for a planned or existing publicly owned treatment works to achieve limitations under subsection (b)(1)(B) or (b)(1)(C) of this section, but (A) construction cannot be completed within the time required in such subsection, or (B) the United States has failed to make financial assistance under this chapter available in time to achieve such limitations by the time specified in such subsection, the owner or operator of such treatment works may request the Administrator (or if appropriate the State) to issue a permit pursuant to section 1342 of this title or to modify a permit issued pursuant to that section to extend such time for compliance. Any such request shall be filed with the Administrator (or if appropriate the State) within 180 days after February 4, 1987. The Administrator (or if appropriate the State) may grant such request and issue or modify such a permit, which shall contain a schedule of compliance for the publicly owned treatment works based on the earliest date by which such financial assistance will be available from the United States and construction can be completed, but in no event later than July 1, 1988, and shall contain such other terms and conditions, including those necessary to carry out subsections (b) through (g) of section 1281 of this title, section 1317 of this title, and such interim effluent limitations applicable to that treatment works as the Administrator determines are necessary to carry out the provisions of this chapter.
 
 (2)(A) Where a point source (other than a publicly owned treatment works) will not achieve the requirements of subsections (b)(1)(A) and (b)(1)(C) of this section and—
 
@@ -206,7 +206,7 @@ Preliminary decision deadline.—The Administrator shall announce a preliminary 
 
 #### (k) Innovative technology
 
-In the case of any facility subject to a permit under section 1342 of this title which proposes to comply with the requirements of subsection (b)(2)(A) or (b)(2)(E) of this section by replacing existing production capacity with an innovative production process which will result in an effluent reduction significantly greater than that required by the limitation otherwise applicable to such facility and moves toward the national goal of eliminating the discharge of all pollutants, or with the installation of an innovative control technique that has a substantial likelihood for enabling the facility to comply with the applicable effluent limitation by achieving a significantly greater effluent reduction than that required by the applicable effluent limitation and moves toward the national goal of eliminating the discharge of all pollutants, or by achieving the required reduction with an innovative system that has the potential for significantly lower costs than the systems which have been determined by the Administrator to be economically achievable, the Administrator (or the State with an approved program under section 1342 of this title, in consultation with the Administrator) may establish a date for compliance under subsection (b)(2)(A) or (b)(2)(E) of this section no later than two years after the date for compliance with such effluent limitation which would otherwise be applicable under such subsection, if it is also determined that such innovative system has the potential for industrywide application.
+In the case of any facility subject to a permit under section 1342 of this title which proposes to comply with the requirements of subsection (b)(2)(A) or (b)(2)(E) of this section by replacing existing production capacity with an innovative production process which will result in an effluent reduction significantly greater than that required by the limitation otherwise applicable to such facility and moves toward the national goal of eliminating the discharge of all pollutants, or with the installation of an innovative control technique that has a substantial likelihood for enabling the facility to comply with the applicable effluent limitation by achieving a significantly greater effluent reduction than that required by the applicable effluent limitation and moves toward the national goal of eliminating the discharge of all pollutants, or by achieving the required reduction with an innovative system that has the potential for significantly lower costs than the systems which have been determined by the Administrator to be economically achievable, the Administrator (or the State with an approved program under section 1342 of this title, in consultation with the Administrator) may establish a date for compliance under subsection (b)(2)(A) or\(b)(2)(E) of this section no later than two years after the date for compliance with such effluent limitation which would otherwise be applicable under such subsection, if it is also determined that such innovative system has the potential for industrywide application.
 
 #### (<i>l</i>) Toxic pollutants
 
@@ -228,7 +228,7 @@ Other than as provided in subsection (n) of this section, the Administrator may 
 
 &emsp;(F) the discharge is into waters where there is strong tidal movement and other hydrological and geological characteristics which are necessary to allow compliance with this subsection and section 1251(a)(2) of this title;
 
-&emsp;(G) the applicant accepts as a condition to the permit a contractural <sup>2</sup> obligation to use funds in the amount required (but not less than $250,000 per year for ten years) for research and development of water pollutioncontrol technology, including but not limited to closed cycle technology;
+&emsp;(G) the applicant accepts as a condition to the permit a contractural <sup>2</sup> obligation to use funds in the amount required (but not less than $250,000 per year for ten years) for research and development of water pollution control technology, including but not limited to closed cycle technology;
 
 &emsp;(H) the facts and circumstances present a unique situation which, if relief is granted, will not establish a precedent or the relaxation of the requirements of this chapter applicable to similarly situated discharges; and
 
@@ -252,7 +252,7 @@ Other than as provided in subsection (n) of this section, the Administrator may 
 
 &emsp;&emsp;&emsp;(i) is based solely on information and supporting data submitted to the Administrator during the rulemaking for establishment of the applicable national effluent limitation guidelines or categorical pretreatment standard specifically raising the factors that are fundamentally different for such facility; or
 
-&emsp;&emsp;&emsp;(ii) is based on information and supporting data referred to in clause (i) and information and supporting data the applicant did not have a reasonable opportunity to submit during such rulemaking;
+&emsp;&emsp;&emsp;(ii) is based on information and supporting data referred to in clause (i) and information and supporting data the applicantdid not have a reasonable opportunity to submit during such rulemaking;
 
 &emsp;&emsp;(C) the alternative requirement is no less stringent than justified by the fundamental difference; and
 
@@ -280,7 +280,7 @@ Other than as provided in subsection (n) of this section, the Administrator may 
 
 #### (7) Effect of denial
 
-&emsp;If an application for an alternative requirement which modifies the requirements of an effluent limitation or pretreatment standard under this subsection is denied by the Administrator, the applicant must comply with suchlimitation or standard as established or revised, as the case may be.
+&emsp;If an application for an alternative requirement which modifies the requirements of an effluent limitation or pretreatment standard under this subsection is denied by the Administrator, the applicant must comply with such limitation or standard as established or revised, as the case may be.
 
 #### (8) Reports
 
@@ -328,17 +328,17 @@ The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (
 
 #### Amendments
 
-1995—Subsec. (n)(8). Pub. L. 104–66 substituted “By January 1, 1997, and January 1 of every odd-numbered year thereafter, the Administrator shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure” for “Every 6 months after February 4, 1987, the Administrator shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation”.
+<b>1995</b>—Subsec. (n)(8). Pub. L. 104–66 substituted “By January 1, 1997, and January 1 of every odd-numbered year thereafter, the Administrator shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure” for “Every 6 months after February 4, 1987, the Administrator shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation”.
 
-1994—Subsec. (j)(1)(A). Pub. L. 103–431, §2(1), inserted before semicolon at end “, and except as provided in paragraph (5)”.
+<b>1994</b>—Subsec. (j)(1)(A). Pub. L. 103–431, §2(1), inserted before semicolon at end “, and except as provided in paragraph (5)”.
 
 Subsec. (j)(5). Pub. L. 103–431, §2(2), added par. (5).
 
-1988—Subsec. (f). Pub. L. 100–688 substituted “, any high-level radioactive waste, or any medical waste,” for “or high-level radioactive waste”.
+<b>1988</b>—Subsec. (f). Pub. L. 100–688 substituted “, any high-level radioactive waste, or any medical waste,” for “or high-level radioactive waste”.
 
-1987—Subsec. (b)(2)(C). Pub. L. 100–4, §301(a), struck out “not later than July 1, 1984,” before “with respect” and inserted “as expeditiously as practicable but in no case later than three years after the date such limitations are promulgated under section 1314(b) of this title, and in no case later than March 31, 1989” after “of this paragraph”.
+<b>1987</b>—Subsec. (b)(2)(C). Pub. L. 100–4, §301(a), struck out “not later than July 1, 1984,” before “with respect” and inserted “as expeditiously as practicable but in no case later than three years after the date such limitations are promulgated under section 1314(b) of this title, and in no case later than March 31, 1989” after “of this paragraph”.
 
-Subsec. (b)(2)(D). Pub. L. 100–4, §301(b), substituted “as expeditiously as practicable, but in no case laterthan three years after the date such limitations are promulgated under section 1314(b) of this title, and in no case later than March 31, 1989” for “not later than three years after the date such limitations are established”.
+Subsec. (b)(2)(D). Pub. L. 100–4, §301(b), substituted “as expeditiously as practicable, but in no case later than three years after the date such limitations are promulgated under section 1314(b) of this title, and in no case later than March 31, 1989” for “not later than three years after the date such limitations are established”.
 
 Subsec. (b)(2)(E). Pub. L. 100–4, §301(c), substituted “as expeditiously as practicable but in no case later than three years after the date such limitations are promulgated under section 1314(b) of this title, and in no case later than March 31, 1989, compliance with” for “not later than July 1, 1984,”.
 
@@ -378,9 +378,9 @@ Subsecs. (n), (<i>o</i>). Pub. L. 100–4, §306(a), added subsecs. (n) and (<i>
 
 Subsec. (p). Pub. L. 100–4, §307, added subsec. (p).
 
-1983—Subsec. (m). Pub. L. 97–440 added subsec. (m).
+<b>1983</b>—Subsec. (m). Pub. L. 97–440 added subsec. (m).
 
-1981—Subsec. (b)(2)(B). Pub. L. 97–117, §21(b), struck out subpar. (B) which required that, not later than July 1, 1983, compliance by all publicly owned treatment works with the requirements in section 1281(g)(2)(A) of this title be achieved.
+<b>1981</b>—Subsec. (b)(2)(B). Pub. L. 97–117, §21(b), struck out subpar. (B) which required that, not later than July 1, 1983, compliance by all publicly owned treatment works with the requirements in section 1281(g)(2)(A) of this title be achieved.
 
 Subsec. (h). Pub. L. 97–117, §22(a) to (c), struck out in provision preceding par. (1) “in an existing discharge” after “discharge of any pollutant”, struck out par. (8), which required the applicant to demonstrate to the satisfaction of the Administrator that any funds available to the owner of such treatment works under subchapter II of this chapter be used to achieve the degree of effluent reduction required by section 1281(b) and (g)(2)(A) of this title or to carry out the requirements of this subsection, and inserted in provision following par. (7) a further provision that a municipality which applies secondary treatment be eligible to receive a permit which modifies the requirements of subsec. (b)(1)(B) of this section with respect to the discharge of any pollutant from any treatment works owned by such municipality into marine waters and that no permit issued under this subsection authorize the discharge of sewage sludge into marine waters.
 
@@ -388,7 +388,7 @@ Subsec. (i)(1), (2)(B). Pub. L. 97–117, §21(a), substituted “July 1, 1988,�
 
 Subsec. (j)(1)(A). Pub. L. 97–117, §22(d), substituted “that the 365th day which begins after December 29, 1981” for “than 270 days after December 27, 1977”.
 
-1977—Subsec. (b)(2)(A). Pub. L. 95–217, §42(b), substituted “for pollutants identified in subparagraphs (C), (D), and (F) of this paragraph” for “not later than July 1, 1983”.
+<b>1977</b>—Subsec. (b)(2)(A). Pub. L. 95–217, §42(b), substituted “for pollutants identified in subparagraphs (C), (D), and (F) of this paragraph” for “not later than July 1, 1983”.
 
 Subsec. (b)(2)(C) to (F). Pub. L. 95–217, §42(a), added subpars. (C) to (F).
 
@@ -418,7 +418,7 @@ General rule.—Except as provided in paragraph (2), the amendments made by this
 
 “(2)
 
-Exception.—The amendments made by this section shall not affect any application for a modificationwith respect to the discharge of ammonia, chlorine, color, iron, or total phenols (4AAP) under section 301(g) of the Federal Water Pollution Control Act pending on the date of the enactment of this Act; except that the Administrator must approve or disapprove such application not later than 365 days after the date of such enactment.”
+Exception.—The amendments made by this section shall not affect any application for a modification with respect to the discharge of ammonia, chlorine, color, iron, or total phenols (4AAP) under section 301(g) of the Federal Water Pollution Control Act pending on the date of the enactment of this Act; except that the Administrator must approve or disapprove such application not later than 365 days after the date of such enactment.”
 
 Section 303(b)(2) of Pub. L. 100–4 provided that: “The amendment made by subsection (b) \[amending this section\] shall only apply to modifications and renewals of modifications which are tentatively or finally approved after the date of the enactment of this Act \[Feb. 4, 1987\].”
 
@@ -437,8 +437,8 @@ Section 301(f) of Pub. L. 100–4 provided that: “The Administrator shall prom
 &nbsp;
 
 | “Category | Date by which the final regulation shall be promulgated |
-| --- | --- |
-| Organic chemicals and plastics and synthetic fibersDDecember 31, 1986.&nbsp; |  |
+| :--- | ---: |
+| Organic chemicals and plastics and synthetic fibers | December 31, 1986.&nbsp; |
 | Pesticides | December 31, 1986.” |
 
 #### Phosphate Fertilizer Effluent Limitation
@@ -447,7 +447,7 @@ Amendment by section 306(a), (b) of Pub. L. 100–4 not to be construed (A) to r
 
 #### Discharges From Point Sources in United States Virgin Islands Attributable to Manufacture of Rum; Exemption From Federal Water Pollution Control Requirements; Conditions
 
-Pub. L. 98–67, title II, §214(g), Aug. 5, 1983, 97 Stat. 393, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Any discharge from a point source in the United States Virgin Islands in existence on the date of the enactment of this subsection \[Aug. 5, 1983\] which discharge is attributable to the manufacture of rum (as defined in paragraphs (3) of section 7652(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) \[26 U.S.C. 7652(c)(3)\] shall not be subject to the requirements of section 301 (other than toxic pollutant discharges), section 306 or section 403 of the Federal Water Pollution Control Act \[33 U.S.C. 1311, 1316, 1343\] if—
+Pub. L. 98–67, title II, §214(g), Aug. 5, 1983, 97 Stat. 393, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Any discharge from a point source in the United States Virgin Islands in existence on the date of the enactment of this subsection \[Aug. 5, 1983\] which discharge is attributable to the manufacture of rum (as defined in paragraphs (3) of section 7652(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\])\[26 U.S.C. 7652(c)(3)\] shall not be subject to the requirements of section 301 (other than toxic pollutant discharges), section 306 or section 403 of the Federal Water Pollution Control Act \[33 U.S.C. 1311, 1316, 1343\] if—
 
 &emsp;“(1) such discharge occurs at least one thousand five hundred feet into the territorial sea from the line of ordinary low water from that portion of the coast which is in direct contact with the sea, and
 

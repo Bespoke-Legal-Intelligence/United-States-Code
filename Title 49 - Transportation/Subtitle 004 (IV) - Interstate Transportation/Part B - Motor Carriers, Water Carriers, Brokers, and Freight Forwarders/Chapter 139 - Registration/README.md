@@ -15,7 +15,7 @@
 
 #### Amendments
 
-2005—Pub. L. 109–59, title IV, §4303(d)(2), Aug. 10, 2005, 119 Stat. 1763, inserted “motor private carriers,” after “motor carriers,” in item 13906.
+<b>2005</b>—Pub. L. 109–59, title IV, §4303(d)(2), Aug. 10, 2005, 119 Stat. 1763, inserted “motor private carriers,” after “motor carriers,” in item 13906.
 
 
 ---

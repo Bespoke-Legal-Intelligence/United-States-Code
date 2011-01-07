@@ -38,5 +38,5 @@ Section was enacted as part of the DNA Sexual Assault Justice Act of 2004 and al
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–360 substituted “2009 through 2014” for “2005 through 2009”.
+<b>2008</b>—Subsec. (c). Pub. L. 110–360 substituted “2009 through 2014” for “2005 through 2009”.
 

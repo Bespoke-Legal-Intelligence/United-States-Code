@@ -10,7 +10,7 @@ In making grants and contracts under this section the Secretary shall take into 
 
 #### (c) Reduction of grant amount
 
-The Secretary, at the request of a recipient of a grant under subsection (a) of this section, may reduce the amount of such grant by the fair market value of any supplies or equipment furnished the grant recipient by the Secretary. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment on which the reduction of suchgrant is based. Such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
+The Secretary, at the request of a recipient of a grant under subsection (a) of this section, may reduce the amount of such grant by the fairmarket value of any supplies or equipment furnished the grant recipient by the Secretary. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment on which the reduction of such grant is based. Such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
 
 #### (d) Authorization of appropriations
 
@@ -20,35 +20,35 @@ For the purpose of making grants and contracts under this section, there are aut
 
 #### Amendments
 
-1984—Subsec. (c). Pub. L. 98–555 added subsec. (c). Former subsec. (c) redesignated (d).
+<b>1984</b>—Subsec. (c). Pub. L. 98–555 added subsec. (c). Former subsec. (c) redesignated (d).
 
 Pub. L. 98–512 inserted provisions authorizing appropriations for the fiscal year ending Sept. 30, 1985.
 
 Subsec. (d). Pub. L. 98–555 redesignated former subsec. (c) as (d).
 
-1983—Subsec. (c). Pub. L. 97–414, §8(n), substituted a semicolon for a comma after “1981”.
+<b>1983</b>—Subsec. (c). Pub. L. 97–414, §8(n), substituted a semicolon for a comma after “1981”.
 
 Pub. L. 97–414, §9(a), amended directory language of Pub. L. 97–35, §931(a)(1), to correct a typographical error and did not involve any change in text. See 1981 Amendment note below.
 
-1981—Subsec. (a). Pub. L. 97–35, §931(b)(1), inserted provisions relating to family participation in projects.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §931(b)(1), inserted provisions relating to family participation in projects.
 
 Subsec. (c). Pub. L. 97–35, §931(a)(1), as amended by Pub. L. 97–414, §9(a), inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1982, 1983, and 1984.
 
-1978—Subsec. (a). Pub. L. 95–613, §1(a)(1), inserted provisions relating to infertility services and services for adolescents.
+<b>1978</b>—Subsec. (a). Pub. L. 95–613, §1(a)(1), inserted provisions relating to infertility services and services for adolescents.
 
 Subsec. (c). Pub. L. 95–613, §1(b)(1), inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1979, 1980, and 1981.
 
-1977—Subsec. (c). Pub. L. 95–83 substituted provision authorizing appropriations for fiscal years ending Sept. 30, 1977 and 1978, for prior such authorization for fiscal year 1977.
+<b>1977</b>—Subsec. (c). Pub. L. 95–83 substituted provision authorizing appropriations for fiscal years ending Sept. 30, 1977 and 1978, for prior such authorization for fiscal year 1977.
 
-1975—Subsec. (a). Pub. L. 94–63, §204(a), inserted provision relating to scope of family planning projects to be offered.
+<b>1975</b>—Subsec. (a). Pub. L. 94–63, §204(a), inserted provision relating to scope of family planning projects to be offered.
 
 Subsec. (b). Pub. L. 94–63, §204(b), inserted provision relating to direct grants and contracts for local and regional entities.
 
 Subsec. (c). Pub. L. 94–63, §§202(a), 701(d), inserted provisions authorizing appropriations for fiscal years ending June 30, 1975, 1976, and 1977.
 
-1973—Subsec. (c). Pub. L. 93–45 inserted provisions authorizing appropriations for fiscal year ending June 30, 1974.
+<b>1973</b>—Subsec. (c). Pub. L. 93–45 inserted provisions authorizing appropriations for fiscal year ending June 30, 1974.
 
-1972—Subsec. (c). Pub. L. 92–449 increased appropriations authorization for fiscal year ending June 30, 1973, to $111,500,000 from $90,000,000.
+<b>1972</b>—Subsec. (c). Pub. L. 92–449 increased appropriations authorization for fiscal year ending June 30, 1973, to $111,500,000 from $90,000,000.
 
 #### Effective Date of 1975 Amendment
 
@@ -84,7 +84,7 @@ Memorandum of President of the United States, Jan. 22, 1993, 58 F.R. 7455, provi
 
 Memorandum for the Secretary of Health and Human Services
 
-Title X of the Public Health Services Act \[42 U.S.C. 300 et seq.\] provides Federal funding for family planning clinics to provide services for low-income patients. The Act specifies that Title X funds may not be used for the performance of abortions, but places no restrictions on the ability of clinics that receive Title X funds to provide abortion counseling and referrals or to perform abortions using non-Title X funds. During the first 18 years of the program, medical professionals at Title X clinics provided complete, uncensored information, including nondirective abortion counseling. InFebruary 1988, the Department of Health and Human Services adopted regulations, which have become known as the “Gag Rule,” prohibiting Title X recipients from providing their patients with information, counseling, or referrals concerning abortion. Subsequent attempts by the Bush Administration to modify the Gag Rule and ensuing litigation have created confusion and uncertainty about the current legal status of the regulations.
+Title X of the Public Health Services Act \[42 U.S.C. 300 et seq.\] provides Federal funding for family planning clinics to provide services for low-income patients. The Act specifies that Title X funds may not be used for the performance of abortions, but places no restrictions on the ability of clinics that receive Title X funds to provide abortion counseling and referrals or to perform abortions using non-Title X funds. During the first 18 years of the program, medical professionals at Title X clinics provided complete, uncensored information, including nondirective abortion counseling. In February 1988, the Department of Health and Human Services adopted regulations, which have become known as the “Gag Rule,” prohibiting Title X recipients from providing their patients with information, counseling, or referrals concerning abortion. Subsequent attempts by the Bush Administration to modify the Gag Rule and ensuing litigation have created confusion and uncertainty about the current legal status of the regulations.
 
 The Gag Rule endangers women's lives and health by preventing them from receiving complete and accurate medical information and interferes with the doctor-patient relationship by prohibiting information that medical professionals are otherwise ethically and legally required to provide to their patients. Furthermore, the Gag Rule contravenes the clear intent of a majority of the members of both the United States Senate and House of Representatives, which twice passed legislation to block the Gag Rule's enforcement but failed to override Presidential vetoes.
 

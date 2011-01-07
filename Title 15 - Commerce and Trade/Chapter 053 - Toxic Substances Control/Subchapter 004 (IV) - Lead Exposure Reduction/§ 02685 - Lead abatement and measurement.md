@@ -14,7 +14,7 @@ The Administrator, in cooperation with other appropriate Federal departments and
 
 #### (c) Exposure studies
 
-(1) The Secretary of Health and Human Services (hereafter in this subsection referred to as the “Secretary”), acting through the Director of the Centers for Disease Control,<sup>1</sup> (CDC), and the Director of the National Institute of Environmental Health Sciences, shall jointly conduct a study of the sources of lead exposure in childrenwho have elevated blood lead levels (or other indicators of elevated lead body burden), as defined by the Director of the Centers for Disease Control.
+(1) The Secretary of Health and Human Services (hereafter in this subsection referred to as the “Secretary”), acting through the Director of the Centers for Disease Control,<sup>1</sup> (CDC), and the Director of the National Institute of Environmental Health Sciences, shall jointly conduct a study of the sources of lead exposure in children who have elevated blood lead levels (or other indicators of elevated lead body burden), as defined by the Director of the Centers for Disease Control.
 
 (2) The Secretary, in consultation with the Director of the National Institute for Occupational Safety and Health, shall conduct a comprehensive study of means to reduce hazardous occupational lead abatement exposures. This study shall include, at a minimum, each of the following—
 
@@ -96,7 +96,7 @@ The Administrator, in cooperation with other appropriate Federal departments and
 
 #### (2) Hotline
 
-&emsp;Not later than 6 months after October 28, 1992, the Administrator, in cooperation with other Federal agencies and with State and local governments, shall establish a single lead-based paint hazard hotline to provide the public with answers to questions about lead poisoning prevention and referrals to the Clearinghouse for technical information.
+&emsp;Not later than 6 months after October 28, 1992, the Administrator, in cooperation withother Federal agencies and with State and local governments, shall establish a single lead-based paint hazard hotline to provide the public with answers to questions about lead poisoning prevention and referrals to the Clearinghouse for technical information.
 
 #### (f) Products for lead-based paint activities
 

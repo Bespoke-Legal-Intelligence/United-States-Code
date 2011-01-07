@@ -6,7 +6,7 @@ If any provision of this chapter or the application thereof to any person or cir
 
 #### Amendments
 
-1968—Pub. L. 90–618 reenacted section without change.
+<b>1968</b>—Pub. L. 90–618 reenacted section without change.
 
 #### Effective Date of 1968 Amendment
 

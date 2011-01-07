@@ -6,7 +6,7 @@ For the purpose of this subchapter, the term “eligible institution” means an
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 5092 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5092 of this title as this section.
 
 Pub. L. 102–83 substituted “Department” for “Veterans’ Administration”.
 

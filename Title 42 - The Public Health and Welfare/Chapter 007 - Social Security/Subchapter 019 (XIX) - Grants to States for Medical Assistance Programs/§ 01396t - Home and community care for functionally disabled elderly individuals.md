@@ -18,7 +18,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 &emsp;(7) Adult day care.
 
-&emsp;(8) In the case of an individual with chronic mental illness, day treatment or other partial hospitalization, psychosocial rehabilitation services, and clinic services (whether or not furnished in a facility).
+&emsp;(8) In the case of an individual with chronic mental illness, day treatment or other partial hospitalization, psychosocial rehabilitationservices, and clinic services (whether or not furnished in a facility).
 
 &emsp;(9) Such other home and community-based services (other than room and board) as the Secretary may approve.
 
@@ -92,7 +92,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 &emsp;&emsp;&emsp;(i) not later than July 1, 1991—
 
-&emsp;&emsp;&emsp;&emsp;(I) specify a minimum data set of core elements and common definitions for use in conducting the assessments required under subparagraph (A); and
+&emsp;&emsp;&emsp;&emsp;(I) specify a minimum data set of core elements and common definitions for usein conducting the assessments required under subparagraph (A); and
 
 &emsp;&emsp;&emsp;&emsp;(II) establish guidelines for use of the data set; and
 
@@ -100,7 +100,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (D) Periodic review
 
-&emsp;&emsp;Each individual who qualifies as a functionally disabled elderly individual shallhave the individual's assessment periodically reviewed and revised not less often than once every 12 months.
+&emsp;&emsp;Each individual who qualifies as a functionally disabled elderly individual shall have the individual's assessment periodically reviewed and revised not less often than once every 12 months.
 
 #### (E) Conduct of assessment by interdisciplinary teams
 
@@ -170,7 +170,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (1) Ceiling on payment amounts
 
-&emsp;Payments may not be made under section 1396b(a) of this title to a State for home andcommunity care provided under this section in a quarter to the extent that the medical assistance for such care in the quarter exceeds 50 percent of the product of—
+&emsp;Payments may not be made under section 1396b(a) of this title to a State for home and community care provided under this section in a quarter to the extent that the medical assistance for such care in the quarter exceeds 50 percent of the product of—
 
 &emsp;&emsp;(A) the average number of individuals in the quarter receiving such care under this section;
 
@@ -308,7 +308,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (A) In general
 
-&emsp;&emsp;The certification under this subsection with respect to community care settings must be based on a survey. Such survey for such a setting must be conducted without prior notice to the setting. Any individual who notifies (or causes to be notified) a community care setting of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall review each State's procedures for scheduling and conducting such surveys to assure that the State has taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
+&emsp;&emsp;The certification under this subsection with respect to community care settings must be based on a survey. Such survey for such a setting must be conducted without prior notice to the setting. Any individual who notifies (or causes to be notified) a community care setting of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions applyto a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall review each State's procedures for scheduling and conducting such surveys to assure that the State has taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
 
 #### (B) Survey protocol
 
@@ -358,7 +358,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (C) Access to fraud control units
 
-&emsp;&emsp;Each State shall provide its State medicaid fraud and abuse control unit (established under section 1396b(q) of this title) with access to all information of the State agency responsible for surveys, reviews, and certifications under this subsection.
+&emsp;&emsp;Each State shall provide its State medicaid fraud and abuse control unit (establishedunder section 1396b(q) of this title) with access to all information of the State agency responsible for surveys, reviews, and certifications under this subsection.
 
 #### (j) Enforcement process for providers of community care
 
@@ -400,7 +400,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 &emsp;&emsp;The Secretary shall publish, by December 1, 1991, a proposed regulation that sets forth interim requirements, consistent with subparagraph (B), for the provision of home and community care and for community care settings, including—
 
-&emsp;&emsp;&emsp;(i) the requirements of subsection (c)(2) of this section (relating to comprehensive functional assessments, including the use of assessment instruments), of subsection (d)(2)(E) of this section (relating to qualifications for qualified case managers), of subsection (f) of this section (relating to minimum requirements for home and community care), of subsection (g) of this section (relating to minimum requirements for small community care settings), and of subsection (h) of this section (relating to minimum requirements for large community care settings), and
+&emsp;&emsp;&emsp;(i) the requirements of subsection (c)(2) of this section (relating to comprehensive functional assessments, including the use of assessment instruments), of subsection (d)(2)(E) of this section (relating to qualifications for qualified case managers), of subsection (f) of this section (relating to minimum requirements for home and community care), of subsection (g) of this section (relating to minimum requirements for small community care settings), and ofsubsection (h) of this section (relating to minimum requirements for large community care settings), and
 
 &emsp;&emsp;&emsp;(ii) survey protocols (for use under subsection (i)(3)(A) of this section) which relate to such requirements.
 
@@ -456,7 +456,7 @@ Pub. L. 101–508, title IV, §4711(b)(1), Nov. 5, 1990, 104 Stat. 1388–174, w
 
 #### Amendments
 
-1999—Subsec. (c)(2)(E)(i), (ii). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(v)(1)\], realigned margins.
+<b>1999</b>—Subsec. (c)(2)(E)(i), (ii). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(v)(1)\], realigned margins.
 
 Subsec. (k)(1)(A)(i). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(v)(2)\], substituted “large community care settings),” for “large community care settings,”.
 

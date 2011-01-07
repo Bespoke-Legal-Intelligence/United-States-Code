@@ -14,7 +14,7 @@ The Mutual Educational and Cultural Exchange Act of 1961, referred to in text, i
 
 #### Amendments
 
-1979—Pub. L. 96–60 substituted “shall be available” for “are authorized to be made available”.
+<b>1979</b>—Pub. L. 96–60 substituted “shall be available” for “are authorized to be made available”.
 
 #### Effective Date of 1979 Amendment
 

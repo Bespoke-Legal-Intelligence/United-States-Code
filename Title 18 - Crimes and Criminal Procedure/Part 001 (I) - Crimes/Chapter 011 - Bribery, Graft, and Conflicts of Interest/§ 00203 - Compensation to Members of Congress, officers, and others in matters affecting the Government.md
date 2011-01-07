@@ -50,7 +50,7 @@ Provisions similar to those comprising this section were contained in section 28
 
 #### Amendments
 
-1990—Subsec. (a)(1)(B). Pub. L. 101–280, §5(b)(1), inserted “or Federal judge” after “employee”.
+<b>1990</b>—Subsec. (a)(1)(B). Pub. L. 101–280, §5(b)(1), inserted “or Federal judge” after “employee”.
 
 Subsec. (a)(2). Pub. L. 101–280, §5(b)(2), inserted “Commissioner Elect, Federal judge,” after “Commissioner,”.
 
@@ -60,7 +60,7 @@ Subsec. (d)(1). Pub. L. 101–280, §5(b)(4), substituted “Government employee
 
 Subsec. (f). Pub. L. 101–280, §5(b)(5), added subsec. (f).
 
-1989—Subsec. (a). Pub. L. 101–194, §402(3), in concluding provisions, substituted “shall be subject to the penalties set forth in section 216 of this title” for “shall be fined under this title or imprisoned for not more than two years, or both; and shall be incapable of holding any office of honor, trust, or profit under the United States”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–194, §402(3), in concluding provisions, substituted “shall be subject to the penalties set forth in section 216 of this title” for “shall be fined under this title or imprisoned for not more than two years, or both; and shall be incapable of holding any office of honor, trust, or profit under the United States”.
 
 Subsec. (a)(1). Pub. L. 101–194, §402(1), (2), (7), in introductory provisions, substituted “representational services, as agent or attorney or otherwise,” for “services”, in concluding provisions, inserted “court,” after “department, agency,” and in subpar. (B), struck out “including the District of Columbia,” after “agency of the United States”.
 
@@ -72,7 +72,7 @@ Subsec. (c). Pub. L. 101–194, §402(8), redesignated subsec. (b) as (c) and su
 
 Subsecs. (d), (e). Pub. L. 101–194, §402(10), added subsecs. (d) and (e).
 
-1986—Pub. L. 99–646, §47(a)(3)(D), provided for alignment of margins of each subsection, paragraph, and subparagraph of this section.
+<b>1986</b>—Pub. L. 99–646, §47(a)(3)(D), provided for alignment of margins of each subsection, paragraph, and subparagraph of this section.
 
 Subsec. (a). Pub. L. 99–646, §47(a)(1), (2), substituted “indirectly—” for “indirectly” in introductory provisions, redesignated the undesignated par. which followed former subsec. (b) as concluding par. of subsec. (a), and substituted “shall be fined under this title” for “Shall be fined not more than $10,000”.
 
@@ -82,7 +82,7 @@ Subsec. (a)(2). Pub. L. 99–646, §47(a)(2), redesignated former subsec. (b) as
 
 Subsecs. (b), (c). Pub. L. 99–646, §47(a)(3), (4), redesignated former subsec. (c) as (b) and substituted “parties—” for “parties”, “such employee” for “he”, “otherwise; or” for “otherwise, or”, and “in which such employee is serving except that paragraph (2) of this subsection” for “in which he is serving: <i>Provided</i>, That clause (2)”. Former subsec. (b) redesignated (a)(2).
 
-1970—Subsec. (a)(1). Pub. L. 91–405, §204(d)(2), included references to Delegate from District of Columbia and Delegate Elect from District of Columbia.
+<b>1970</b>—Subsec. (a)(1). Pub. L. 91–405, §204(d)(2), included references to Delegate from District of Columbia and Delegate Elect from District of Columbia.
 
 Subsec. (b). Pub. L. 91–405, §204(d)(3), included reference to Delegate.
 

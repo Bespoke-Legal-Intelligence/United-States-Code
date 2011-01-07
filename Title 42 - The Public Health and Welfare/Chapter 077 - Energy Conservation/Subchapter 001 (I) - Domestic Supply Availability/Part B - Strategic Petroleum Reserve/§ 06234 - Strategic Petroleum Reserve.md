@@ -20,17 +20,17 @@ The Secretary, in accordance with this part, shall exercise authority over the d
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–469, §103(7)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) provided for the creation of a Strategic Petroleum Reserve of up to 1 billion barrels of petroleum products and required that the Reserve contain not less than 150 million barrels of petroleum products by the end of the 3-year period beginning on Dec. 22, 1975, and that the President take actions to enlarge the Reserve to 1,000,000,000 barrels as rapidly as possible beginning Oct. 24, 1992.
+<b>2000</b>—Subsec. (a). Pub. L. 106–469, §103(7)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) provided for the creation of a Strategic Petroleum Reserve of up to 1 billion barrels of petroleum products and required that the Reserve contain not less than 150 million barrels of petroleum products by the end of the 3-year period beginning on Dec. 22, 1975, and that the President take actions to enlarge the Reserve to 1,000,000,000 barrels as rapidly as possible beginning Oct. 24, 1992.
 
 Subsec. (b). Pub. L. 106–469, §103(7)(B), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary, not later than December 15, 1976, shall prepare and transmit to the Congress, in accordance with section 6421 of this title, a Strategic Petroleum Reserve Plan. Such Plan shall comply with the provisions of this section and shall detail the Secretary's proposals for designing, constructing, and filling the storage and related facilities of the Reserve.”
 
-Subsecs. (c) to (e). Pub. L. 106–469, §103(7)(C), struck out subsecs. (c) to (e) which related to the levels of crude oil to be stored, plan objectives, and plan provisions.
+Subsecs. (c) to (e). Pub. L. 106–469, §103(7)(C), struck out subsecs. (c) to (e) which related to the levels ofcrude oil to be stored, plan objectives, and plan provisions.
 
-1998—Subsec. (f). Pub. L. 105–177 added subsec. (f).
+<b>1998</b>—Subsec. (f). Pub. L. 105–177 added subsec. (f).
 
-1992—Subsec. (a). Pub. L. 102–486 designated existing provisions as par. (1) and added par. (2).
+<b>1992</b>—Subsec. (a). Pub. L. 102–486 designated existing provisions as par. (1) and added par. (2).
 
-1978—Subsecs. (b), (d). Pub. L. 95–619 substituted “Secretary” and “Secretary's” for “Administrator” and “Administrator's”, respectively, meaning Administrator of the Federal Energy Administration, wherever appearing.
+<b>1978</b>—Subsecs. (b), (d). Pub. L. 95–619 substituted “Secretary” and “Secretary's” for “Administrator” and “Administrator's”, respectively, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
 #### Strategic Petroleum Reserve Drawdown Plan
 

@@ -1,6 +1,6 @@
 ### §14305. Optional regulatory measurement
 
-(a) On request of the owner of a documented vessel measured under this chapter, the Secretary also shall measure the vessel under chapter 145 of this title. The tonnages determined under that chapter shall be used in applying—
+(a) On request of the owner of a vessel measured under this chapter that is of United States registry or nationality, or a vessel operated under the authority of the United States, the Secretary also shall measure the vessel under chapter 145 of this title. The tonnages determined under that chapter shall be used in applying—
 
 &emsp;(1) parts A, B, C, E, F, and G of this subtitle and section 12116 of this title;
 
@@ -34,7 +34,7 @@
 
 (b) As long as the owner of a vessel has a request in effect under subsection (a) of this section, the tonnages determined under that request shall be used in applying the other provisions of law described in subsection (a) to that vessel.
 
-(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1921; Pub. L. 109–304, §15(26), Oct. 6, 2006, 120 Stat. 1704.)
+(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1921; Pub. L. 109–304, §15(26), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 111–281, title III, §303(f), Oct. 15, 2010, 124 Stat. 2925.)
 
 #### Historical and Revision Notes
 
@@ -98,7 +98,9 @@ For provisions relating to the International Convention for the Prevention of Po
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–304, §15(26)(A), substituted “of this subtitle and section 12116” for “and sections 12106(c) and 12108(c)”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–281 substituted “vessel measured under this chapter that is of United States registry or nationality, or a vessel operated under the authority of the United States,” for “documented vessel measured under this chapter,” in introductory provisions.
+
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–304, §15(26)(A), substituted “of this subtitle and section 12116” for “and sections 12106(c) and 12108(c)”.
 
 Subsec. (a)(5). Pub. L. 109–304, §15(26)(B), substituted “section 30506 of this title” for “section 4283 of the Revised Statutes of the United States (46 App. U.S.C. 183)”.
 

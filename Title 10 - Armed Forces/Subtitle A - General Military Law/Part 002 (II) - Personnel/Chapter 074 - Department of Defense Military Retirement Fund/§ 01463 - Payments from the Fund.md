@@ -24,19 +24,19 @@ Section 5 of Public Law 96–402, referred to in subsec. (a)(4), is set out as a
 
 #### Amendments
 
-2004—Subsec. (a)(1). Pub. L. 108–375 substituted “1413a” for “1413, 1413a,”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–375 substituted “1413a” for “1413, 1413a,”.
 
-2003—Subsec. (a)(1). Pub. L. 108–136 inserted before semicolon at end “and payments under section 1413, 1413a, or 1414 of this title paid to such members”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136 inserted before semicolon at end “and payments under section 1413, 1413a, or 1414 of this title paid to such members”.
 
-2002—Subsec. (a)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (a)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1996—Subsec. (a)(2). Pub. L. 104–106 substituted “chapter 1223” for “chapter 67”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–106 substituted “chapter 1223” for “chapter 67”.
 
-1993—Subsec. (a)(5). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–484, §653(b)(2). See 1992 Amendment note below.
+<b>1993</b>—Subsec. (a)(5). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–484, §653(b)(2). See 1992 Amendment note below.
 
-1992—Subsec. (a). Pub. L. 102–484, as amended by Pub. L. 103–35, added par. (5).
+<b>1992</b>—Subsec. (a). Pub. L. 102–484, as amended by Pub. L. 103–35, added par. (5).
 
-1989—Subsec. (a). Pub. L. 101–189 substituted “members” for “persons” in par. (1), added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189 substituted “members” for “persons” in par. (1), added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
 #### Effective Date of 2003 Amendment
 

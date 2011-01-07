@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish, within 90 days of December 19, 2007, a Smart Grid AdvisoryCommittee (either as an independent entity or as a designated sub-part of a larger advisory committee on electricity matters). The Smart Grid Advisory Committee shall include eight or more members appointed by the Secretary who have sufficient experience and expertise to represent the full range of smart grid technologies and services, to represent both private and non-Federal public sector stakeholders. One member shall be appointed by the Secretary to Chair the Smart Grid Advisory Committee.
+&emsp;The Secretary shall establish, within 90 days of December 19, 2007, a Smart Grid Advisory Committee (either as an independent entity or as a designated sub-part of a larger advisory committee on electricity matters). The Smart Grid Advisory Committee shall include eight or more members appointed by the Secretary who have sufficient experience and expertise to represent the full range of smart grid technologies and services, to represent both private and non-Federal public sector stakeholders. One member shall be appointed by the Secretary to Chair the Smart Grid Advisory Committee.
 
 #### (2) Mission
 

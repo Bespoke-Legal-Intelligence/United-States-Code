@@ -12,9 +12,9 @@ Another prior section 803 of Pub. L. 90–351, title III, June 19, 1968, 82 Stat
 
 #### Amendments
 
-2006—Pub. L. 109–162 struck out “, after reasonable notice and opportunity for a hearing,” after “conclusions shall” and “, except as otherwise provided herein” before period at end.
+<b>2006</b>—Pub. L. 109–162 struck out “, after reasonable notice and opportunity for a hearing,” after “conclusions shall” and “, except as otherwise provided herein” before period at end.
 
-1984—Pub. L. 98–473, §609B(c), substituted “Bureau of Justice Assistance” for “Law Enforcement Assistance Administration”.
+<b>1984</b>—Pub. L. 98–473, §609B(c), substituted “Bureau of Justice Assistance” for “Law Enforcement Assistance Administration”.
 
 #### Effective Date of 1984 Amendment
 

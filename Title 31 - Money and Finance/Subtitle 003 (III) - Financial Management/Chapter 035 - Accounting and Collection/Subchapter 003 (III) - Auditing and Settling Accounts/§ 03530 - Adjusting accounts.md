@@ -42,7 +42,7 @@ June 6, 1972, Pub. L. 92–310, §102, 86 Stat. 201.
 
 July 15, 1954, ch. 509, §3(a), 68 Stat. 483.
 
-In subsection (a), before clause (1), the words “restore or otherwise” are omitted as surplus. The word “currently” is substituted for “at the time the restoration or adjustment is made” to eliminate unnecessarywords. The word “official” is substituted for “officer” for consistency in the revised title and with other titles of the United States Code. In clause (2), the words “concerned” and “the amount of” are omitted as surplus.
+In subsection (a), before clause (1), the words “restore or otherwise” are omitted as surplus. The word “currently” is substituted for “at the time the restoration or adjustment is made” to eliminate unnecessary words. The word “official” is substituted for “officer” for consistency in the revised title and with other titles of the United States Code. In clause (2), the words “concerned” and “the amount of” are omitted as surplus.
 
 In subsection (b), the words “restoration or” are omitted as surplus and because of the restatement.
 

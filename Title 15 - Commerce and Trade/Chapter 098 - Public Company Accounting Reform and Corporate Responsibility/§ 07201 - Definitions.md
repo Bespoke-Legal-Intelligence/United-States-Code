@@ -1,6 +1,6 @@
 ### §7201. Definitions
 
-In this Act, the following definitions shall apply:
+Except as otherwise specifically provided in this Act, in this Act, the following definitions shall apply:
 
 #### (1) Appropriate State regulatory authority
 
@@ -60,6 +60,18 @@ In this Act, the following definitions shall apply:
 
 &emsp;&emsp;The Board may, by rule, exempt persons engaged only in ministerial tasks from the definition in subparagraph (A), to the extent that the Board determines that any such exemption is consistent with the purposes of this Act, the public interest, or the protection of investors.
 
+#### (C) Investigative and enforcement authority
+
+&emsp;&emsp;For purposes of sections 7202(c), 7211(c), 7215, and 7217(c) of this title and the rules of the Board and Commission issued thereunder, except to the extent specifically excepted by such rules, the terms defined in subparagraph (A) shall include any person associated, seeking to become associated, or formerly associated with a public accounting firm, except that—
+
+&emsp;&emsp;&emsp;(i) the authority to conduct an investigation of such person under section 7215(b) of this title shall apply only with respect to any act or practice, or omission to act, by the person while such person was associated or seeking to become associated with a registered public accounting firm; and
+
+&emsp;&emsp;&emsp;(ii) the authority to commence a disciplinary proceeding under section 7215(c)(1) of this title, or impose sanctions under section 7215(c)(4) of this title, against such person shall apply only with respect to—
+
+&emsp;&emsp;&emsp;&emsp;(I) conduct occurring while such person was associated or seeking to become associated with a registered public accounting firm; or
+
+&emsp;&emsp;&emsp;&emsp;(II) non-cooperation, as described in section 7215(b)(3) of this title, with respect to a demand in a Board investigation for testimony, documents, or other information relating to a period when such person was associated or seeking to become associated with a registered public accounting firm.
+
 #### (10) Professional standards
 
 &emsp;The term “professional standards” means—
@@ -74,7 +86,7 @@ In this Act, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(i) relate to the preparation or issuance of audit reports for issuers; and
 
-&emsp;&emsp;&emsp;(ii) are established or adopted by the Board under section 7213(a) of this title, orare promulgated as rules of the Commission.
+&emsp;&emsp;&emsp;(ii) are established or adopted by the Board under section 7213(a) of this title, or are promulgated as rules of the Commission.
 
 #### (11) Public accounting firm
 
@@ -104,15 +116,31 @@ In this Act, the following definitions shall apply:
 
 &emsp;The term “State” means any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, or any other territory or possession of the United States.
 
-(Pub. L. 107–204, §2(a), July 30, 2002, 116 Stat. 746.)
+#### (17) Foreign auditor oversight authority
+
+&emsp;The term “foreign auditor oversight authority” means any governmental body or other entity empowered by a foreign government to conduct inspections of public accounting firms or otherwise to administer or enforce laws related to the regulation of public accounting firms.
+
+(Pub. L. 107–204, §2(a), July 30, 2002, 116 Stat. 746; Pub. L. 111–203, title IX, §§929F(g)(1), 981(a), 982(a)(2), July 21, 2010, 124 Stat. 1854, 1926, 1928.)
 
 #### References in Text
 
 This Act, referred to in text, is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
 
-The Securities Act of 1933, referred to in par. (7), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in par. (7), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 Title II, referred to in par. (10)(B), means title II of Pub. L. 107–204, July 30, 2002, 116 Stat. 771, which enacted subchapter II of this chapter and amended sections 78c, 78j–1, 78<i>l</i> and 78q of this title. For complete classification of title II to the Code, see Tables.
+
+#### Amendments
+
+<b>2010</b>—Pub. L. 111–203, §982(a)(2), substituted “Except as otherwise specifically provided in this Act, in this” for “In this” in introductory provisions.
+
+Par. (9)(C). Pub. L. 111–203, §929F(g)(1), added subpar. (C).
+
+Par. (17). Pub. L. 111–203, §981(a), added par. (17).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Short Title
 

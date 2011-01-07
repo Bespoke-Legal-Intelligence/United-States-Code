@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1992—Pub. L. 102–486 inserted “and operating licenses” after “permits” in section catchline, designated existing text as subsec. (a), and added subsec. (b).
+<b>1992</b>—Pub. L. 102–486 inserted “and operating licenses” after “permits” in section catchline, designated existing text as subsec. (a), and added subsec. (b).
 
 #### Effective Date of 1992 Amendment
 

@@ -30,7 +30,7 @@ Section was formerly set out as a note under section 2121 of Title 42, The Publi
 
 #### Amendments
 
-2008—Pub. L. 110–181 amended section generally. Prior to amendment, section related to reports and biennial update reports on costs, programmatic issues, and other issues associated with sustaining the capability of the Department of Energy to conduct underground nuclear tests within specified time periods.
+<b>2008</b>—Pub. L. 110–181 amended section generally. Prior to amendment, section related to reports and biennial update reports on costs, programmatic issues, and other issues associated with sustaining the capability of the Department of Energy to conduct underground nuclear tests within specified time periods.
 
-2000—Pub. L. 106–398 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2000</b>—Pub. L. 106–398 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

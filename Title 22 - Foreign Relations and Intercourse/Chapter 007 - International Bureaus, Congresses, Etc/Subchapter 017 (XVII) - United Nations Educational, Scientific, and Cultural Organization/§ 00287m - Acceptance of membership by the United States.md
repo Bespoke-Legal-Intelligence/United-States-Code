@@ -6,7 +6,7 @@ The President is hereby authorized to accept membership for the United States in
 
 #### Constitution of the United Nations Educational, Scientific, and Cultural Organization
 
-I74the governments of the states parties to this constitution on behalf of their peoples declare
+#### the governments of the states parties to this constitution on behalf of their peoples declare
 
 > that since wars begin in the minds of men, it is in the minds of men that the defences of peace must be constructed;
 
@@ -24,7 +24,7 @@ I74the governments of the states parties to this constitution on behalf of their
 
 #### in consequence whereof
 
-> they do hereby create the United Nations Educational, Scientific and Cultural Organisation for the purpose of advancing, through the educational and scientific and cultural relations of the peoples of the world, the objectives of international peace and of the common welfareof mankind for which the United Nations Organisation was established and which its Charter proclaims.
+> they do hereby create the United Nations Educational, Scientific and Cultural Organisation for the purpose of advancing, through the educational and scientific and cultural relations of the peoples of the world, the objectives of international peace and of the common welfare of mankind for which the United Nations Organisation was established and which its Charter proclaims.
 
 #### article i.
 
@@ -134,7 +134,7 @@ The Organisation shall include a General Conference, an Executive Board and a Se
 
 8\. The Executive Board shall meet in regular session at least twice a year and may meet in special session if convoked by the Chairman on his own initiative or upon the request of six members of the Board.
 
-9\. The Chairman of the Executive Board shall present to the General Conference, with or without comment, the annual report of the Director-General on the activities of the Organisation, which shall have been previously submitted to the Board.
+9\. The Chairman of the Executive Board shall present to the General Conference, with or without comment,the annual report of the Director-General on the activities of the Organisation, which shall have been previously submitted to the Board.
 
 10\. The Executive Board shall make all necessary arrangements to consult the representatives of international organisations or qualified persons concerned with questions within its competence.
 
@@ -204,7 +204,7 @@ This Organisation shall be brought into relation with the United Nations Organis
 
 #### <i>Legal status of the Organisation</i>
 
-The provisions of Articles 104 and 105 of the Charter of the United Nations Organisation concerning the legal status of that Organisation, its privileges and immunities shall apply in the same way to this Organisation.
+The provisions of Articles 104 and 105 of the Charter of the United Nations Organisation concerning thelegal status of that Organisation, its privileges and immunities shall apply in the same way to this Organisation.
 
 #### article xiii.
 

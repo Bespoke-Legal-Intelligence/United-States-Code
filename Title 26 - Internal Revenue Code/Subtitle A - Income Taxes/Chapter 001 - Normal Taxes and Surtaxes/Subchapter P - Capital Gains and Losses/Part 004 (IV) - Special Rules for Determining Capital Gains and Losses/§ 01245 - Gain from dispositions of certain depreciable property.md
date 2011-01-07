@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(D) a single purpose agricultural or horticultural structure (as defined in section 168(i)(13)),
 
-&emsp;&emsp;(E) a storage facility (not including a building or its structural components) used in connection with the distribution of petroleum or any primary product of petroleum, or
+&emsp;&emsp;(E) a storage facility (not including a building or its structural components) usedin connection with the distribution of petroleum or any primary product of petroleum, or
 
 &emsp;&emsp;(F) any railroad grading or tunnel bore (as defined in section 168(e)(4)).
 
@@ -120,7 +120,7 @@ The Secretary shall prescribe such regulations as he may deem necessary to provi
 
 This section shall apply notwithstanding any other provision of this subtitle.
 
-(Added Pub. L. 87–834, §13(a)(1), Oct. 16, 1962, 76 Stat. 1032; amended Pub. L. 88–272, title II, §203(d), Feb. 26, 1964, 78 Stat. 35; Pub. L. 91–172, title II, §212(a)(1), (2), title VII, §704(b)(4), Dec. 30, 1969, 83 Stat. 571, 670; Pub. L. 92–178, title I, §104(a)(2), title III, §303(c)(1), (2), Dec. 10, 1971, 85 Stat. 501, 522; Pub. L. 94–81, §2(a), Aug. 9, 1975, 89 Stat. 417; Pub. L. 94–455, title II, §212(b)(1), title XIX, §§1901(a)(140), (b)(3)(K), (11)(D), 1906(b) (13)(A), 1951(c)(2)(C), title XXI, §§2122(b)(3), 2124(a)(2), Oct. 4, 1976, 90 Stat. 1546, 1787, 1793, 1795, 1834, 1840, 1915, 1917; Pub. L. 95–600, title VII, §701(f)(3)(A), (B), (w)(1), (2), Nov. 6, 1978, 92 Stat. 2901, 2920; Pub. L. 96–223, title II, §251(a)(2)(C), Apr. 2, 1980, 94 Stat. 287; Pub. L. 96–451, title III, §301(c)(1), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 97–34, title II, §§201(b), 202(b), 204(a)–(d), 212(d)(2)(F), Aug. 13, 1981, 95 Stat. 218, 220, 222, 223, 239; Pub. L. 97–448, title I, §102(e)(2)(B), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title I, §111(e)(5), (10), July 18, 1984, 98 Stat. 633; Pub. L. 99–121, title I, §103(b)(1)(D), Oct. 11, 1985, 99 Stat. 509; Pub. L. 99–514, title II, §201(d)(11), Oct. 22, 1986, 100 Stat. 2141; Pub. L. 100–647, title I, §1002(i)(2)(I), Nov. 10, 1988, 102 Stat. 3371; Pub. L. 101–239, title VII, §7622(b)(2)\[(d)(2)\], Dec. 19, 1989, 103 Stat. 2378; Pub. L. 101–508, title XI, §§11704(a)(13), 11801(c)(6)(E), (8)(H), 11813(b)(21), Nov. 5, 1990, 104 Stat. 1388–518, 1388–524, 1388–555; Pub. L. 103–66, title XIII, §13261(f)(4), (5), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–7, §2(b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1703(n)(6), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title XVI, §1604(a)(3), Aug. 5, 1997, 111 Stat. 1097; Pub. L. 108–357, title III, §338(b)(5), title VIII, §886(b)(2), Oct. 22, 2004, 118 Stat. 1481, 1641; Pub. L. 109–58, title XIII, §§1323(b)(1), 1331(b)(2), 1363(a), Aug. 8, 2005, 119 Stat. 1014, 1024, 1060; Pub. L. 109–135, title IV, §§402(a)(6), 403(e)(2), (i)(2), Dec. 21, 2005, 119 Stat. 2610, 2623, 2625; Pub. L. 109–432, div. A, title IV, §404(b)(3), Dec. 20, 2006, 120 Stat. 2956.)
+(Added Pub. L. 87–834, §13(a)(1), Oct. 16, 1962, 76 Stat. 1032; amended Pub. L. 88–272, title II, §203(d), Feb. 26, 1964, 78 Stat. 35; Pub. L. 91–172, title II, §212(a)(1), (2), title VII, §704(b)(4), Dec. 30, 1969, 83 Stat. 571, 670; Pub. L. 92–178, title I, §104(a)(2), title III, §303(c)(1), (2), Dec. 10, 1971, 85 Stat. 501, 522; Pub. L. 94–81, §2(a), Aug. 9, 1975, 89 Stat. 417; Pub. L. 94–455, title II, §212(b)(1), title XIX, §§1901(a)(140), (b)(3)(K), (11)(D), 1906(b) (13)(A), 1951(c)(2)(C), title XXI, §§2122(b)(3), 2124(a)(2), Oct. 4, 1976, 90 Stat. 1546, 1787, 1793, 1795, 1834, 1840, 1915, 1917; Pub. L. 95–600, title VII, §701(f)(3)(A), (B), (w)(1), (2), Nov. 6, 1978, 92 Stat. 2901, 2920; Pub. L. 96–223, title II,§251(a)(2)(C), Apr. 2, 1980, 94 Stat. 287; Pub. L. 96–451, title III, §301(c)(1), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 97–34, title II, §§201(b), 202(b), 204(a)–(d), 212(d)(2)(F), Aug. 13, 1981, 95 Stat. 218, 220, 222, 223, 239; Pub. L. 97–448, title I, §102(e)(2)(B), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title I, §111(e)(5), (10), July 18, 1984, 98 Stat. 633; Pub. L. 99–121, title I, §103(b)(1)(D), Oct. 11, 1985, 99 Stat. 509; Pub. L. 99–514, title II, §201(d)(11), Oct. 22, 1986, 100 Stat. 2141; Pub. L. 100–647, title I, §1002(i)(2)(I), Nov. 10, 1988, 102 Stat. 3371; Pub. L. 101–239, title VII, §7622(b)(2)\[(d)(2)\], Dec. 19, 1989, 103 Stat. 2378; Pub. L. 101–508, title XI, §§11704(a)(13), 11801(c)(6)(E), (8)(H), 11813(b)(21), Nov. 5, 1990, 104 Stat. 1388–518, 1388–524, 1388–555; Pub. L. 103–66, title XIII, §13261(f)(4), (5), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–7, §2(b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1703(n)(6), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title XVI, §1604(a)(3), Aug. 5, 1997, 111 Stat. 1097; Pub. L. 108–357, title III, §338(b)(5), title VIII, §886(b)(2), Oct. 22, 2004, 118 Stat. 1481, 1641; Pub. L. 109–58, title XIII, §§1323(b)(1), 1331(b)(2), 1363(a), Aug. 8, 2005, 119 Stat. 1014, 1024, 1060; Pub. L. 109–135, title IV, §§402(a)(6), 403(e)(2), (i)(2), Dec. 21, 2005, 119 Stat. 2610, 2623, 2625; Pub. L. 109–432, div. A, title IV, §404(b)(3), Dec. 20, 2006, 120 Stat. 2956.)
 
 #### References in Text
 
@@ -130,9 +130,9 @@ The Revenue Reconciliation Act of 1990, referred to in subsec. (a)(3)(C), is tit
 
 #### Amendments
 
-2006—Subsec. (a)(2)(C), (3)(C). Pub. L. 109–432 inserted “179E,” after “179D,”.
+<b>2006</b>—Subsec. (a)(2)(C), (3)(C). Pub. L. 109–432 inserted “179E,” after “179D,”.
 
-2005—Subsec. (a)(2)(C). Pub. L. 109–135, §403(e)(2), (i)(2), inserted “181,” after “179B,” and substituted “193, or 194” for “or 193”.
+<b>2005</b>—Subsec. (a)(2)(C). Pub. L. 109–135, §403(e)(2), (i)(2), inserted “181,” after “179B,” and substituted “193, or 194” for “or 193”.
 
 Pub. L. 109–58, §1331(b)(2), inserted “179D,” after “179C,”.
 
@@ -150,21 +150,21 @@ Subsec. (b)(9). Pub. L. 109–135, §402(a)(6)(A), redesignated par. (9) as (8).
 
 Pub. L. 109–58, §1363(a), added par. (9).
 
-2004—Subsec. (a)(2)(C), (3)(C). Pub. L. 108–357, §338(b)(5), inserted “179B,” after “179A,”.
+<b>2004</b>—Subsec. (a)(2)(C), (3)(C). Pub. L. 108–357, §338(b)(5), inserted “179B,” after “179A,”.
 
 Subsec. (a)(4). Pub. L. 108–357, §886(b)(2), struck out par. (4) which related to special rule for player contracts if a franchise to conduct any sports enterprise is sold or exchanged.
 
-1997—Subsec. (a)(2)(C), (3)(C). Pub. L. 105–34 inserted “179A,” after “179,”.
+<b>1997</b>—Subsec. (a)(2)(C), (3)(C). Pub. L. 105–34 inserted “179A,” after “179,”.
 
-1996—Subsec. (a)(3). Pub. L. 104–188 reenacted heading without change and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “For purposes of this section, the term ‘section 1245 property’ means any property which is or has been property of a character subject to the allowance for depreciation provided in section 167 (or subject to the allowance of amortization provided in)) and is either—”.
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–188 reenacted heading without change and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “For purposes of this section, the term ‘section 1245 property’ means any property which is or has been property of a character subject to the allowance for depreciation provided in section 167 (or subject to the allowance of amortization provided in)) and is either—”.
 
-1995—Subsec. (b)(5). Pub. L. 104–7 struck out “1071 and” before “1081 transactions” in heading and “section 1071 (relating to gain from sale or exchange to effectuate policies of FCC) or” before “section 1081” in text.
+<b>1995</b>—Subsec. (b)(5). Pub. L. 104–7 struck out “1071 and” before “1081 transactions” in heading and “section 1071 (relating to gain from sale or exchange to effectuate policies of FCC) or” before “section 1081” in text.
 
-1993—Subsec. (a)(2)(C). Pub. L. 103–66, §13261(f)(4), substituted “or 193” for “193, or 1253(d)(2) or (3)”.
+<b>1993</b>—Subsec. (a)(2)(C). Pub. L. 103–66, §13261(f)(4), substituted “or 193” for “193, or 1253(d)(2) or (3)”.
 
 Subsec. (a)(3). Pub. L. 103–66, §13261(f)(5), struck out “section 185 or 1253(d)(2) or (3)” after “amortization provided in” in introductory provisions.
 
-1990—Subsec. (a)(3). Pub. L. 101–508, §11704(a)(13), substituted “or (3))” for “or (3)” in introductory provisions.
+<b>1990</b>—Subsec. (a)(3). Pub. L. 101–508, §11704(a)(13), substituted “or (3))” for “or (3)” in introductory provisions.
 
 Subsec. (a)(3)(C). Pub. L. 101–508, §11801(c)(6)(E), substituted “188 (as in effect before its repeal by the Revenue Reconciliation Act of 1990),” for “188,”.
 
@@ -172,13 +172,13 @@ Subsec. (a)(3)(D). Pub. L. 101–508, §11813(b)(21), substituted “section 168
 
 Subsec. (b)(3). Pub. L. 101–508, §11801(c)(8)(H), struck out “371(a), 374(a),” after “332, 351, 361,”.
 
-1989—Subsec. (a)(2)(C). Pub. L. 101–239, §7622(b)(2)(A)\[(d)(2)(A)\], substituted “193, or 1253(d)(2) or (3)” for “or 193”.
+<b>1989</b>—Subsec. (a)(2)(C). Pub. L. 101–239, §7622(b)(2)(A)\[(d)(2)(A)\], substituted “193, or 1253(d)(2) or (3)” for “or 193”.
 
 Subsec. (a)(3). Pub. L. 101–239, §7622(b)(2)(B)\[(d)(2)(B)\], substituted “section 185 or 1253(d)(2) or (3)” for “section 185” in introductory provisions.
 
-1988—Subsec. (a)(3)(F). Pub. L. 100–647 added subpar. (F).
+<b>1988</b>—Subsec. (a)(3)(F). Pub. L. 100–647 added subpar. (F).
 
-1986—Subsec. (a)(1). Pub. L. 99–514, §201(d)(11)(A), struck out “during a taxable year beginning after December 31, 1962, or section 1245 recovery property is disposed of after December 31, 1980,” after “if section 1245 property is disposed of”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §201(d)(11)(A), struck out “during a taxable year beginning after December 31, 1962, or section 1245 recovery property is disposed of after December 31, 1980,” after “if section 1245 property is disposed of”.
 
 Subsec. (a)(2). Pub. L. 99–514, §201(d)(11)(B), amended par. (2) generally, restating former subpars. (A) to (E) and concluding provisions as subpars. (A) to (C).
 
@@ -186,15 +186,15 @@ Subsec. (a)(3). Pub. L. 99–514, §201(d)(11)(C), redesignated subpars. (D), (E
 
 Subsec. (a)(5), (6). Pub. L. 99–514, §201(d)(11)(D), struck out par. (5) which defined “section 1245 recovery property” and par. (6) which provided special rule for qualified leased property.
 
-1985—Subsec. (a)(5)(A) to (C). Pub. L. 99–121 substituted “19-year real property” for “18-year real property”.
+<b>1985</b>—Subsec. (a)(5)(A) to (C). Pub. L. 99–121 substituted “19-year real property” for “18-year real property”.
 
-1984—Subsec. (a)(5)(A) to (C). Pub. L. 98–369, §111(e)(5), substituted “18-year real property and low-income housing” for “15-year real property”.
+<b>1984</b>—Subsec. (a)(5)(A) to (C). Pub. L. 98–369, §111(e)(5), substituted “18-year real property and low-income housing” for “15-year real property”.
 
 Subsec. (d)(5)(D). Pub. L. 98–369, §111(e)(10), substituted “low-income housing (within the meaning of section 168(c)(2)(F))” for “15-year real property which is described in clause (i), (ii), (iii), or (iv) of section 1250(a)(1)(B)”.
 
-1983—Subsec. (a)(3)(F). Pub. L. 97–448 inserted “(not including a building or its structural components)” after “a storage facility”.
+<b>1983</b>—Subsec. (a)(3)(F). Pub. L. 97–448 inserted “(not including a building or its structural components)” after “a storage facility”.
 
-1981—Subsec. (a)(1). Pub. L. 97–34, §204(a), inserted reference to section 1245 recovery property disposed of after Dec. 31, 1980, in introductory provisions.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–34, §204(a), inserted reference to section 1245 recovery property disposed of after Dec. 31, 1980, in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 97–34, §§202(b)(1)–(3), 204(b), inserted reference to section 179 in subpar. (D), added subpar. (E), and, in provisions following subpar. (E), and inserted references to section 179 in three places. Pub. L. 97–34, §212(d)(2)(F), in provisions following subpar. (E), substituted “191 (as in effect before its repeal by the Economic Recovery Tax Act of 1981)” for “191” in two places.
 
@@ -206,7 +206,7 @@ Subsec. (a)(5). Pub. L. 97–34, §204(c), added par. (5).
 
 Subsec. (a)(6). Pub. L. 97–34, §204(d), added par. (6).
 
-1980—Subsec. (a)(2). Pub. L. 96–451, §301(c)(1)(A), (B), inserted references to section 194 in subpar. (D) and text following subpar. (D).
+<b>1980</b>—Subsec. (a)(2). Pub. L. 96–451, §301(c)(1)(A), (B), inserted references to section 194 in subpar. (D) and text following subpar. (D).
 
 Pub. L. 96–223, §251(a)(2)(C)(i)–(iii), inserted references to section 193 in subpar. (D) and text following subpar. (D).
 
@@ -216,7 +216,7 @@ Pub. L. 96–223, §251(a)(2)(C)(i), inserted reference to section 193.
 
 Subsec. (b)(8). Pub. L. 96–451, §301(c)(1)(C), added par. (8).
 
-1978—Subsec. (a)(2). Pub. L. 95–600, §701(f)(3)(A), struck out from the listed sections in subpar. (D) reference to 191 and inserted “(in the case of property described in paragraph (3)(C))” before “191” in two places in next to last sentence.
+<b>1978</b>—Subsec. (a)(2). Pub. L. 95–600, §701(f)(3)(A), struck out from the listed sections in subpar. (D) reference to 191 and inserted “(in the case of property described in paragraph (3)(C))” before “191” in two places in next to last sentence.
 
 Subsec. (a)(3)(D). Pub. L. 95–600, §701(f)(3)(B), struck out reference to section 191.
 
@@ -224,7 +224,7 @@ Subsec. (a)(4)(B). Pub. L. 95–600, §701(w)(2), inserted “attributable to pe
 
 Subsec. (a)(4)(C). Pub. L. 95–600, §701(w)(1), struck out provisions relating to the aggregate of the amounts treated as ordinary income.
 
-1976—Subsec. (a)(1). Pub. L. 94–455, §1901(b)(3)(K), substituted “ordinary income” for “gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–455, §1901(b)(3)(K), substituted “ordinary income” for “gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231”.
 
 Subsec. (a)(2)(D). Pub. L. 94–455, §§2122(b)(3)(B), 2124(a)(2), inserted reference to sections 190 and 191.
 
@@ -240,19 +240,19 @@ Subsec. (b)(7)(B). Pub. L. 94–455, §1901(a)(140), struck out “such organiza
 
 Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1975—Subsec. (b)(3), (7). Pub. L. 94–81, §2(a)(1), (2), inserted reference to par. (7) in par. (3), and added par. (7).
+<b>1975</b>—Subsec. (b)(3), (7). Pub. L. 94–81, §2(a)(1), (2), inserted reference to par. (7) in par. (3), and added par. (7).
 
-1971—Subsec. (a)(2). Pub. L. 92–178, §303(c)(1), inserted reference to section 188 in two places in text following subpar. (D).
+<b>1971</b>—Subsec. (a)(2). Pub. L. 92–178, §303(c)(1), inserted reference to section 188 in two places in text following subpar. (D).
 
 Subsec. (a)(3)(B)(ii), (iii). Pub. L. 92–178, §104(a)(2), substituted “research facility” for “research or storage facility” in cl. (ii) and added cl. (iii).
 
 Subsec. (a)(3)(D). Pub. L. 92–178, §303(c)(2), inserted reference to section 188.
 
-1969—Subsec. (a)(2). Pub. L. 91–172, §§212(a)(1), 704(b)(4)(A), (B), added subpar. (C) and inserted references to sections 169, 185, and 187, and added subpar. (D).
+<b>1969</b>—Subsec. (a)(2). Pub. L. 91–172, §§212(a)(1), 704(b)(4)(A), (B), added subpar. (C) and inserted references to sections 169, 185, and 187, and added subpar. (D).
 
 Subsec. (a)(3). Pub. L. 91–172, §§212(a)(2), 704(b)(4)(C)–(F), struck out “(other than livestock)” after “means any property” and substituted “section 167 (or subject to the allowance of amortization provided in section 185)” for “section 167” and added subpar. (D).
 
-1964—Subsec. (a)(2), (3)(C). Pub. L. 88–272 redefined “recomputed basis” with respect to elevators or escalators in par. (2), and inserted subpar. (C) in par. (3).
+<b>1964</b>—Subsec. (a)(2), (3)(C). Pub. L. 88–272 redefined “recomputed basis” with respect to elevators or escalators in par. (2), and inserted subpar. (C) in par. (3).
 
 #### Effective Date of 2006 Amendment
 
@@ -260,7 +260,7 @@ Amendment by Pub. L. 109–432 applicable to costs paid or incurred after Dec. 2
 
 #### Effective Date of 2005 Amendments
 
-Amendment by section 402(a)(6) of Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
+Amendment by section 402(a)(6) of Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
 
 Amendments by section 403(e)(2), (i)(2) of Pub. L. 109–135 effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
@@ -294,7 +294,7 @@ Amendment by Pub. L. 103–66 applicable, except as otherwise provided, with res
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11813(b)(21) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
+Amendment by section 11813(b)(21) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (asdefined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -320,7 +320,7 @@ Amendment by Pub. L. 98–369 applicable with respect to property placed in serv
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in theprovision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -374,7 +374,7 @@ Amendment by Pub. L. 88–272 applicable with respect to dispositions after Dec.
 
 #### Effective Date
 
-Section 13(g) of Pub. L. 87–834 provided that: “The amendments made by this section \[enacting this section and amending sections 167, 170, 301, 312, 341, 453, 613, and 751 of this title\] (other than the amendments made by subsection (c) \[amending sections 167, 179, and 642 of this title\]) shall apply to taxable years beginning after December 31, 1962. The amendments made by subsection (c) shall apply to taxable years beginning after December 31, 1961, and ending after the date of the enactment of this Act \[Oct. 16, 1962\].”
+Section 13(g) of Pub. L. 87–834 provided that: “The amendments made by this section \[enacting this section and amending sections 167, 170, 301, 312, 341, 453, 613, and 751 of this title\] (other than the amendments made by subsection (c) \[amending sections 167, 179, and642 of this title\]) shall apply to taxable years beginning after December 31, 1962. The amendments made by subsection (c) shall apply to taxable years beginning after December 31, 1961, and ending after the date of the enactment of this Act \[Oct. 16, 1962\].”
 
 #### Savings Provision
 

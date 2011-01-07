@@ -22,9 +22,13 @@ Contracts with, or grants to, urban Indian organizations and regulations adopted
 
 #### (f) Eligibility for health care or referral services
 
-Urban Indians, as defined in section 1603(f) of this title, shall be eligible for health care or referral services provided pursuant to this subchapter.
+Urban Indians, as defined in section 1603(f) <sup>1</sup> of this title, shall be eligible for health care or referral services provided pursuant to this subchapter.
 
 (Pub. L. 94–437, title V, §506, as added Pub. L. 100–713, title V, §501, Nov. 23, 1988, 102 Stat. 4823; amended Pub. L. 102–573, title V, §501(b)(4), Oct. 29, 1992, 106 Stat. 4568.)
+
+#### References in Text
+
+Section 1603(f) of this title, referred to in subsec. (f), was redesignated section 1603(28) of this title by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.
 
 #### Codification
 
@@ -36,11 +40,13 @@ A prior section 1656, Pub. L. 94–437, title V, §506, Sept. 30, 1976, 90 Stat.
 
 #### Amendments
 
-1992—Pub. L. 102–573, §501(b)(4)(D), inserted “and grant” in section catchline.
+<b>1992</b>—Pub. L. 102–573, §501(b)(4)(D), inserted “and grant” in section catchline.
 
 Subsec. (b). Pub. L. 102–573, §501(b)(4)(A), inserted “or grants” after “any contracts”.
 
 Subsec. (d). Pub. L. 102–573, §501(b)(4)(B), inserted “or grant” after “contract” in two places.
 
 Subsec. (e). Pub. L. 102–573, §501(b)(4)(C), inserted “, or grants to,” after “Contracts with” and “or grants” after “such contracts”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

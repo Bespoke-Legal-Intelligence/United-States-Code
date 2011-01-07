@@ -32,7 +32,7 @@ The national sea grant college program shall consist of the financial assistance
 
 &emsp;(C) publish or arrange for the publication of, and otherwise disseminate, in cooperation with other offices and programs in the Administration and without regard to section 501 of title 44, any information of research, educational, training or other value in fields related to ocean, coastal, or Great Lakes resources;
 
-&emsp;(D) enter into contracts, cooperative agreements, and other transactions without regard to section 5 of title 41;
+&emsp;(D) enter into contracts, cooperative agreements, and other transactions without regard to section 6101 of title 41;
 
 &emsp;(E) notwithstanding section 1342 of title 31, accept donations and voluntary and uncompensated services;
 
@@ -78,15 +78,17 @@ The national sea grant college program shall consist of the financial assistance
 
 #### References in Text
 
-The civil service laws, referred to in subsec. (c)(4)(A), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 This subchapter, referred to in subsec. (d)(3)(B)(iv), was in the original “this Act” and was translated as reading “this title” meaning title II of Pub. L. 89–454, which enacted this subchapter, to reflect the probable intent of Congress.
 
+#### Codification
+
+In subsec. (c)(4)(D), “section 6101 of title 41” substituted for “section 5 of title 41, United States Code” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–394, §5(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “sea grant programs which comprise a national sea grant college program network, including international projects conducted within such programs;”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–394, §5(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “sea grant programs which comprise a national sea grant college program network, including international projects conducted within such programs;”.
 
 Subsec. (b)(2). Pub. L. 110–394, §5(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “administration of the national sea grant college program and this subchapter by the national sea grant office, the Administration, and the panel;”.
 
@@ -108,15 +110,15 @@ Subsec. (d)(3)(B)(iv), (v). Pub. L. 110–394, §5(c)(3)(A), redesignated cls. (
 
 Subsec. (d)(3)(B)(vi). Pub. L. 110–394, §5(c)(3)(C), (D), added cl. (vi).
 
-2002—Subsec. (c)(1). Pub. L. 107–299, §3(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary, in consultation with the panel, sea grant colleges, and sea grant institutes, shall develop a long-range strategic plan which establishes priorities for the national sea grant college program and which provides an appropriately balanced response to local, regional, and national needs.”
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–299, §3(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary, in consultation with the panel, sea grant colleges, and sea grant institutes, shall develop a long-range strategic plan which establishes priorities for the national sea grant college program and which provides an appropriately balanced response to local, regional, and national needs.”
 
 Subsec. (d)(3)(A). Pub. L. 107–299, §3(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “evaluate the programs of sea grant colleges and sea grant institutes, using the priorities, guidelines, and qualifications established by the Secretary;”.
 
 Subsec. (d)(3)(B)(iv). Pub. L. 107–299, §3(c), added cl. (iv).
 
-1998—Pub. L. 105–160 amended section catchline and text generally. Prior to amendment text consisted of subsecs. (a) to (d) relating to maintenance within the Administration of the National Sea Grant College Program, appointment and compensation of a Director of the program, duties of the Director, and powers of the Secretary to carry out the provisions of this subchapter.
+<b>1998</b>—Pub. L. 105–160 amended section catchline and text generally. Prior to amendment text consisted of subsecs. (a) to (d) relating to maintenance within the Administration of the National Sea Grant College Program, appointment and compensation of a Director of the program, duties of the Director, and powers of the Secretary to carry out the provisions of this subchapter.
 
-1991—Subsec. (a). Pub. L. 102–186, §2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary shall maintain, within the Administration, a program to be known as the national sea grant college program. The national sea grant college program shall consist of the financial assistance and other activities provided for in this subchapter. The Secretary shall establish long-range planning guidelines and priorities for, and adequately evaluate, this program.”
+<b>1991</b>—Subsec. (a). Pub. L. 102–186, §2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary shall maintain, within the Administration, a program to be known as the national sea grant college program. The national sea grant college program shall consist of the financial assistance and other activities provided for in this subchapter. The Secretary shall establish long-range planning guidelines and priorities for, and adequately evaluate, this program.”
 
 Subsec. (c)(3). Pub. L. 102–186, §4(b)(1)(A), substituted “section 1124” for “sections 1124 and 1125”.
 
@@ -124,7 +126,7 @@ Subsec. (c)(8). Pub. L. 102–186, §2(b), added par. (8).
 
 Subsec. (d)(6). Pub. L. 102–186, §2(c), inserted “and add” after “to pay for”.
 
-1987—Subsec. (b)(1)(A). Pub. L. 100–220, §3104(b)(1)(D), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources”.
+<b>1987</b>—Subsec. (b)(1)(A). Pub. L. 100–220, §3104(b)(1)(D), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources”.
 
 Subsec. (c). Pub. L. 100–220, §3104(c), substituted “Under Secretary” for “Administrator” wherever appearing in introductory provisions and par. (2).
 
@@ -134,15 +136,15 @@ Subsec. (d)(3). Pub. L. 100–220, §3104(b)(1)(D), substituted “ocean, coasta
 
 Subsec. (d)(6). Pub. L. 100–220, §3105(b), struck out “under section 1124(a) of this title” after “Secretary”.
 
-1980—Subsec. (c)(5) to (7). Pub. L. 96–289 added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
+<b>1980</b>—Subsec. (c)(5) to (7). Pub. L. 96–289 added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
-1978—Subsecs. (a) to (c). Pub. L. 95–428, §2(b), substituted “national sea grant college program” for “national sea grant program” wherever appearing.
+<b>1978</b>—Subsecs. (a) to (c). Pub. L. 95–428, §2(b), substituted “national sea grant college program” for “national sea grant program” wherever appearing.
 
 Subsec. (d)(6), (7). Pub. L. 95–428, §3(1)(B), (C), added par. (6) and redesignated former par. (6) as (7).
 
-1976—Pub. L. 94–461 substituted provisions covering the establishment and administration of the national sea grant program for provisions covering the marine resource development programs.
+<b>1976</b>—Pub. L. 94–461 substituted provisions covering the establishment and administration of the national sea grant program for provisions covering the marine resource development programs.
 
-1973—Subsec. (a). Pub. L. 93–73, §1(2), (5), deleted item (1) designation for provision respecting consultation with experts and Federal agencies, deleted item (2) provision for seeking advice and counsel from the National Council on Marine Resources and Engineering Development, and substituted “Secretary” for “Foundation”.
+<b>1973</b>—Subsec. (a). Pub. L. 93–73, §1(2), (5), deleted item (1) designation for provision respecting consultation with experts and Federal agencies, deleted item (2) provision for seeking advice and counsel from the National Council on Marine Resources and Engineering Development, and substituted “Secretary” for “Foundation”.
 
 Subsec. (b). Pub. L. 93–73, §1(5), substituted “Secretary” for “Foundation” and “his authority” for “its authority”.
 
@@ -162,7 +164,7 @@ Subsec. (i)(3). Pub. L. 93–73, §1(7), inserted “and which is so designated 
 
 Subsec. (i)(4)(A) to (C). Pub. L. 93–73, §1(5), substituted “Secretary” for “Foundation”.
 
-1968—Subsec. (d)(1). Pub. L. 90–477 struck out “in any fiscal year” after “The total amount of payments” and “by any participants”.
+<b>1968</b>—Subsec. (d)(1). Pub. L. 90–477 struck out “in any fiscal year” after “The total amount of payments” and “by any participants”.
 
 #### Review of Evaluation and Rating Process
 

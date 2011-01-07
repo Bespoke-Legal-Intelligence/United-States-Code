@@ -8,7 +8,7 @@ The Secretary is authorized to enter into an agreement with any entity under whi
 
 Any assignment of personnel made by the Secretary under any agreement entered into under the authority of subsection (a) of this section shall be treated as an assignment of Federal personnel to a local government that is made in accordance with subchapter VI of chapter 33 of title 5.
 
-(Pub. L. 100–579, §9, Oct. 31, 1988, 102 Stat. 2923; Pub. L. 100–690, title II, §2309, Nov. 18, 1988, 102 Stat. 4229; Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948.)
+(Pub. L. 100–579, §9, Oct. 31, 1988, 102 Stat. 2923; Pub. L. 100–690, title II, §2309, Nov. 18, 1988, 102Stat. 4229; Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948.)
 
 #### Codification
 
@@ -18,5 +18,5 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections.
 
 #### Amendments
 
-1992—Pub. L. 102–396 amended section generally. Prior to amendment, section related to rule of construction.
+<b>1992</b>—Pub. L. 102–396 amended section generally. Prior to amendment, section related to rule of construction.
 

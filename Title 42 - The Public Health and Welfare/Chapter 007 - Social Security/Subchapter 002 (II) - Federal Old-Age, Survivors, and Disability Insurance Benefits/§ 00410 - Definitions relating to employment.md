@@ -18,7 +18,7 @@ The term “employment” means any service performed after 1936 and prior to 19
 
 &emsp;&emsp;(ii) a son, daughter, stepson, or stepdaughter of such employer is living in the home, and
 
-&emsp;&emsp;(iii) the son, daughter, stepson, or step-daughter (referred to in clause (ii)) has not attained age 18 or has a mental or physical condition which requires the personal care and supervision of an adult for at least 4 continuous weeks in the calendar quarter in which the service is rendered;
+&emsp;&emsp;(iii) the son, daughter, stepson, or stepdaughter (referred to in clause (ii)) has not attained age 18 or has a mental or physical condition which requires the personal care and supervision of an adult for at least 4 continuous weeks in the calendar quarter in which the service is rendered;
 
 &emsp;(4) Service performed by an individual on or in connection with a vessel not an American vessel, or on or in connection with an aircraft not an American aircraft, if (A) the individual is employed on and in connection with such vessel or aircraft when outside the United States and (B)(i) such individual is not a citizen of the United States or (ii) the employer is not an American employer;
 
@@ -130,7 +130,7 @@ The term “employment” means any service performed after 1936 and prior to 19
 
 &emsp;&emsp;(A) a school, college, or university, or
 
-&emsp;&emsp;(B) an organization described in section 509(a)(3) of the Internal Revenue Code of 1986 if the organization is organized, and at all times thereafter is operated, exclusively for the benefit of, to perform the functions of, or to carry out the purposes of a school, college, or university and is operated, supervised, or controlled by or in connection with such school, college, or university, unless it is a school, college, or university of a State or a political subdivision thereof and the services in its employ performed by a student referred to in section 418(c)(5) of this title are covered under the agreement between the Commissioner of Social Securityand such State entered into pursuant to section 418 of this title;
+&emsp;&emsp;(B) an organization described in section 509(a)(3) of the Internal Revenue Code of 1986 if the organization is organized, and at all times thereafter is operated, exclusively for the benefit of, to perform the functions of, or to carry out the purposes of a school, college, or university and is operated, supervised, or controlled by or in connection with such school, college, or university, unless it is a school, college, or university of a State or a political subdivision thereof and the services in its employ performed by a student referred to in section 418(c)(5) of this title are covered under the agreement between the Commissioner of Social Security and such State entered into pursuant to section 418 of this title;
 
 > &emsp;if such service is performed by a student who is enrolled and regularly attending classes at such school, college, or university;
 
@@ -236,7 +236,7 @@ The term “agricultural labor” includes all service performed—
 
 &emsp;(5) On a farm operated for profit if such service is not in the course of the employer's trade or business.
 
-> The provisions of subparagraphs (A) and (B) of paragraph (4) of this subsection shall not bedeemed to be applicable with respect to service performed in connection with commercial canning or commercial freezing or in connection with any agricultural or horticultural commodity after its delivery to a terminal market for distribution for consumption.
+> The provisions of subparagraphs (A) and (B) of paragraph (4) of this subsection shall not be deemed to be applicable with respect to service performed in connection with commercial canning or commercial freezing or in connection with any agricultural or horticultural commodity after its delivery to a terminal market for distribution for consumption.
 
 #### (g) Farm
 
@@ -312,7 +312,7 @@ The term “employee” means—
 
 (4)(A) Paragraph (1) of this subsection shall not apply in the case of any service, performed by an individual as a member of a uniformed service, which is creditable under section 231b(i) of title 45. The Railroad Retirement Board shall notify the Commissioner of Social Security,<sup>3</sup> with respect to all such service which is so creditable.
 
-(B) In any case where benefits under this subchapter are already payable on the basis of such individual's wages and self-employment income at the time such notification (with respect to such individual) is received by the Commissioner of Social Security, the Commissioner of Social Security shall certify no further benefits for payment under this subchapter on the basis of such individual's wages and self-employment income, or shall recompute the amount of any further benefits payable on the basis of such wages and self-employment income, as may be required as a consequence of subparagraph (A) of this paragraph. No payment of a benefit to any person on the basis of such individual's wages and self-employment income, certified by the Commissioner of Social Security prior to the end of the month in which the Commissioner receives such notification from the Railroad Retirement Board, shall be deemed by reason of this subparagraph to have been an erroneous payment or a payment to which such person was not entitled. The Commissioner of Social Security shall, as soon as possible after the receipt of such notification from the Railroad Retirement Board, advise such Board whether or not any such benefit will be reduced or terminated by reason of subparagraph (A) of this paragraph, and if any such benefit will be so reduced or terminated, specify the first month with respect to which such reduction or termination will be effective.
+(B) In any case where benefits under this subchapter are already payable on the basis of such individual's wages and self-employment income at the time such notification (with respect to such individual) is received by the Commissioner of Social Security, the Commissioner of Social Security shall certify no further benefits for payment under this subchapter on the basis of such individual's wages and self-employment income, or shall recompute the amount of any further benefits payable on the basis of such wages and self-employment income, as may be required as a consequence of subparagraph (A) ofthis paragraph. No payment of a benefit to any person on the basis of such individual's wages and self-employment income, certified by the Commissioner of Social Security prior to the end of the month in which the Commissioner receives such notification from the Railroad Retirement Board, shall be deemed by reason of this subparagraph to have been an erroneous payment or a payment to which such person was not entitled. The Commissioner of Social Security shall, as soon as possible after the receipt of such notification from the Railroad Retirement Board, advise such Board whether or not any such benefit will be reduced or terminated by reason of subparagraph (A) of this paragraph, and if any such benefit will be so reduced or terminated, specify the first month with respect to which such reduction or termination will be effective.
 
 #### (m) Member of a uniformed service
 
@@ -338,7 +338,7 @@ The term “member of a uniformed service” means any person appointed, enliste
 
 #### (n) Crew leader
 
-The term “crew leader” means an individual who furnishes individuals to perform agricultural labor for another person, if such individual pays (either on his own behalf or on behalf of such person) the individuals so furnished by him for the agricultural labor performed by themand if such individual has not entered into a written agreement with such person whereby such individual has been designated as an employee of such person; and such individuals furnished by the crew leader to perform agricultural labor for another person shall be deemed to be the employees of such crew leader. A crew leader shall, with respect to services performed in furnishing individuals to perform agricultural labor for another person and service performed as a member of the crew, be deemed not to be an employee of such other person.
+The term “crew leader” means an individual who furnishes individuals to perform agricultural labor for another person, if such individual pays (either on his own behalf or on behalf of such person) the individuals so furnished by him for the agricultural labor performed by them and if such individual has not entered into a written agreement with such person whereby such individual has been designated as an employee of such person; and such individuals furnished by the crew leader to perform agricultural labor for another person shall be deemed to be the employees of such crew leader. A crew leader shall, with respect to services performed in furnishing individuals to perform agricultural labor for another person and service performed as a member of the crew, be deemed not to be an employee of such other person.
 
 #### (<i>o</i>) Peace Corps volunteer service
 
@@ -404,7 +404,7 @@ Notwithstanding any other provision of this subchapter, the rules of section 350
 
 &emsp;(B) The term “international organization” has the meaning provided such term by section 3581(3) of title 5.
 
-(Aug. 14, 1935, ch. 531, title II, §210, as added Aug. 10, 1946, ch. 951, title II, §201, 60 Stat. 979; amended, Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492, 494; Oct. 31, 1949, ch. 792, title V, §506(a), formerly §505(a), as added July 12, 1951, ch. 223, 65 Stat. 120, and renumbered Pub. L. 87–345, §3, Oct. 3, 1961, 75 Stat. 761; Sept. 1, 1954, ch. 1206, title I, §101(a)(4), (5), (b), (c)(1), (2), (e), (f), (m), 68 Stat. 1052, 1061; Aug. 1, 1956, ch. 836, title I, §§104(a), (b), (c)(1), 105(b), 121(c), 70 Stat. 824, 828, 839; Aug. 1, 1956, ch. 837, title IV, §402(a), 70 Stat. 870; Pub.L. 85–840, title III, §311(a), 312(a), Aug. 28, 1958, 72 Stat. 1035; Pub. L. 86–70, §32(c)(2), June 25, 1959, 73 Stat. 149; Pub. L. 86–168, title I, §104(h), title II, §202(a), Aug. 18, 1959, 73 Stat. 387, 389; Pub. L. 86–624, §30(c)(2), July 12, 1960, 74 Stat. 420; Pub. L. 86–778, title I, §§103(c)–(f), (j)(2)(A), (B), 104(a), Sept. 13, 1960, 74 Stat. 936, 937, 942; Pub. L. 87–256, §110(e)(2), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–293, title II, §202(b)(1), Sept. 22, 1961, 75 Stat. 626; Pub. L. 89–97, title III, §§311(a)(3), (4), 317(a), July 30, 1965, 79 Stat. 380, 381, 388; Pub. L. 90–248, title I, §123(a), title IV, §403(a), Jan. 2, 1968, 81 Stat. 844, 931; Pub. L. 92–603, title I, §§123(a)(1), 128(a), 129(a)(1), Oct. 30, 1972, 86 Stat. 1354, 1358, 1359; Pub. L. 93–445, title III, §311, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–455, title XII, §1207(e)(2)(A), Oct. 4, 1976, 90 Stat. 1707; Pub. L. 94–563, §1(a), Oct. 19, 1976, 90 Stat. 2655; Pub. L. 95–216, title III, §351(a)(1), (3)(B), Dec. 20, 1977, 91 Stat. 1549; Pub. L. 95–600, title VII, §703(j)(14)(C), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 97–248, title II, §§269(b), 278(b)(1), Sept. 3, 1982, 96 Stat. 552, 560; Pub. L. 97–448, title III, §309(b)(23), Jan. 12, 1983, 96 Stat. 2410; Pub. L. 98–21, title I, §§101(a), 102(a), title III, §§321(b), 322(a)(1), 323(a)(2), Apr. 20, 1983, 97 Stat. 67, 70, 118, 120, 121; Pub. L. 98–369, div. B, title VI, §§2601(a), 2603(a)(1), 2661(j), 2663(a)(7), (j)(3)(A)(i), July 18, 1984, 98 Stat. 1122, 1128, 1157, 1162, 1170; Pub. L. 99–221, §3(b), Dec. 26, 1985, 99 Stat. 1735; Pub. L. 99–272, title XIII, §§13205(b)(1), 13303(c)(2), Apr. 7, 1986, 100 Stat. 316, 327; Pub. L. 99–335, title III, §304(a), June 6, 1986, 100 Stat. 606; Pub. L. 99–514, title XVIII, §§1883(a)(4), 1895(b)(18)(B), (19), Oct. 22, 1986, 100 Stat. 2916, 2935; Pub. L. 100–203, title IX, §§9001(a)(1), 9004(a), 9005(a), 9023(a), Dec. 22, 1987, 101 Stat. 1330–286 to 1330–288, 1330–295; Pub. L. 100–647, title I, §1001(d)(2)(E), title VIII, §§8015(b)(1), (c)(1), 8016(a)(4)(B), (C), Nov. 10, 1988, 102 Stat. 3351, 3791–3793; Pub. L. 101–239, title X, §10201(b)(1), Dec. 19, 1989, 103 Stat. 2472; Pub. L. 101–508, title XI, §11332(a), Nov. 5, 1990, 104 Stat. 1388–469; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–178, title II, §204(d), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 103–296, title I, §107(a)(4), title III, §§303(a)(1), (b)(1), 319(b)(1), (3), 320(b), 321(a)(13), (c)(6)(C), (D), Aug. 15, 1994, 108 Stat. 1478, 1518, 1519, 1534–1536, 1538; Pub. L. 103–387, §2(a)(2)(B), Oct. 22, 1994, 108 Stat. 4072; Pub. L. 104–188, title I, §1116(a)(2), Aug. 20, 1996, 110 Stat. 1762; Pub. L. 105–61, title VI, §642(d)(1), Oct. 10, 1997, 111 Stat. 1319; Pub. L. 105–33, title XI, §11246(b)(2)(B), as added Pub. L. 105–277, div. A, §101(h) \[title VIII, §802(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–532; Pub. L. 108–203, title IV, §423(c), Mar. 2, 2004, 118 Stat. 536; Pub. L. 109–280, title VIII, §854(c)(9), Aug. 17, 2006, 120 Stat. 1019; Pub. L. 110–245, title III, §302(b), June 17, 2008, 122 Stat. 1648; Pub. L. 110–458, title I, §108(k)(2), Dec. 23, 2008, 122 Stat. 5110.)
+(Aug. 14, 1935, ch. 531, title II, §210, as added Aug. 10, 1946, ch. 951, title II, §201, 60 Stat. 979; amended, Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492, 494; Oct. 31, 1949, ch. 792, title V, §506(a), formerly §505(a), as added July 12, 1951, ch. 223, 65 Stat. 120, and renumbered Pub. L. 87–345, §3, Oct. 3, 1961, 75 Stat. 761; Sept. 1, 1954, ch. 1206, title I, §101(a)(4), (5), (b), (c)(1), (2), (e), (f), (m), 68 Stat. 1052, 1061; Aug. 1, 1956, ch. 836, title I, §§104(a), (b), (c)(1), 105(b), 121(c), 70 Stat. 824, 828, 839; Aug. 1, 1956, ch. 837, title IV, §402(a), 70 Stat. 870; Pub. L. 85–840, title III, §311(a), 312(a), Aug. 28, 1958, 72 Stat. 1035; Pub. L. 86–70, §32(c)(2), June 25, 1959, 73 Stat. 149; Pub. L. 86–168, title I, §104(h), title II, §202(a), Aug. 18, 1959, 73 Stat. 387, 389; Pub. L. 86–624, §30(c)(2), July 12, 1960, 74 Stat. 420; Pub. L. 86–778, title I, §§103(c)–(f), (j)(2)(A), (B), 104(a), Sept. 13, 1960, 74 Stat. 936, 937, 942; Pub. L. 87–256, §110(e)(2), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–293, title II, §202(b)(1), Sept. 22, 1961, 75 Stat. 626; Pub. L. 89–97, title III, §§311(a)(3), (4), 317(a), July 30, 1965, 79 Stat. 380, 381, 388; Pub. L. 90–248, title I, §123(a), title IV, §403(a), Jan. 2, 1968, 81 Stat. 844, 931; Pub. L. 92–603, title I, §§123(a)(1), 128(a), 129(a)(1), Oct. 30, 1972, 86 Stat. 1354, 1358, 1359; Pub. L. 93–445, title III, §311, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–455, title XII, §1207(e)(2)(A), Oct. 4, 1976, 90 Stat. 1707; Pub. L. 94–563, §1(a), Oct. 19, 1976, 90 Stat. 2655; Pub. L. 95–216, title III, §351(a)(1), (3)(B), Dec. 20, 1977, 91 Stat. 1549; Pub. L. 95–600, title VII, §703(j)(14)(C), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 97–248, title II, §§269(b), 278(b)(1), Sept. 3, 1982, 96 Stat. 552, 560; Pub. L. 97–448, title III, §309(b)(23), Jan. 12, 1983, 96 Stat. 2410; Pub. L. 98–21, title I, §§101(a), 102(a), title III, §§321(b), 322(a)(1), 323(a)(2), Apr. 20, 1983, 97 Stat. 67, 70, 118, 120, 121; Pub. L. 98–369, div. B, title VI, §§2601(a), 2603(a)(1), 2661(j), 2663(a)(7), (j)(3)(A)(i), July 18, 1984, 98 Stat. 1122, 1128, 1157, 1162, 1170; Pub. L. 99–221, §3(b), Dec. 26, 1985, 99 Stat. 1735; Pub. L. 99–272, title XIII, §§13205(b)(1), 13303(c)(2), Apr. 7, 1986, 100 Stat. 316, 327; Pub. L. 99–335, title III, §304(a), June 6, 1986, 100 Stat. 606; Pub. L. 99–514, title XVIII, §§1883(a)(4), 1895(b)(18)(B), (19), Oct. 22, 1986, 100 Stat. 2916, 2935; Pub. L. 100–203, title IX, §§9001(a)(1), 9004(a), 9005(a), 9023(a), Dec. 22, 1987, 101 Stat. 1330–286 to 1330–288, 1330–295; Pub. L. 100–647, title I, §1001(d)(2)(E), title VIII, §§8015(b)(1), (c)(1), 8016(a)(4)(B), (C), Nov. 10, 1988, 102 Stat. 3351, 3791–3793; Pub. L. 101–239, title X, §10201(b)(1), Dec. 19, 1989, 103 Stat. 2472; Pub. L. 101–508, title XI, §11332(a), Nov. 5, 1990, 104 Stat. 1388–469; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–178, title II, §204(d), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 103–296, title I, §107(a)(4), title III, §§303(a)(1), (b)(1), 319(b)(1), (3), 320(b), 321(a)(13), (c)(6)(C), (D), Aug. 15, 1994, 108 Stat. 1478, 1518, 1519, 1534–1536, 1538; Pub. L. 103–387, §2(a)(2)(B), Oct. 22, 1994, 108 Stat. 4072; Pub. L. 104–188, title I, §1116(a)(2), Aug. 20, 1996, 110 Stat. 1762; Pub. L. 105–61, title VI, §642(d)(1), Oct. 10, 1997, 111 Stat. 1319; Pub. L. 105–33, title XI, §11246(b)(2)(B), as added Pub. L. 105–277, div. A, §101(h) \[title VIII, §802(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–532; Pub. L. 108–203, title IV, §423(c), Mar. 2, 2004, 118 Stat. 536; Pub. L. 109–280, title VIII, §854(c)(9), Aug. 17, 2006, 120 Stat. 1019; Pub. L. 110–245, title III, §302(b), June 17, 2008, 122 Stat. 1648; Pub. L. 110–458, title I, §108(k)(2), Dec. 23, 2008, 122 Stat. 5110.)
 
 #### References in Text
 
@@ -412,43 +412,43 @@ The Internal Revenue Code of 1986, referred to in text, is classified to Title 2
 
 The Civil Service Retirement and Disability Fund, referred to in subsec. (a)(5)(B)(ii), (G), is provided for in section 8348 of Title 5, Government Organization and Employees.
 
-Section 301 of the Federal Employees’ Retirement System Act of 1986, referred to in subsec. (a)(5)(H)(i), is section 301 of Pub. L. 99–335, which is set out as a note under section 8331 of Title 5.
+Section 301 of the Federal Employees’ Retirement System Act of 1986, referred to in subsec. (a)(5)(H)(i), issection 301 of Pub. L. 99–335, which is set out as a note under section 8331 of Title 5.
 
 The Federal Employees’ Retirement System Open Enrollment Act of 1997, referred to in subsec. (a)(5)(H)(i), is section 642 of Pub. L. 105–61, title VI, Oct. 10, 1997, 111 Stat. 1318, which amended this section and section 3121 of Title 26, Internal Revenue Code, and enacted provisions set out as a note under section 8331 of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Tables.
 
-The Foreign Service Act of 1980, referred to in subsec. (a)(5)(H)(ii), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Subchapter II of chapter 8 of title I of the Act is classified generally to part II (§4071 et seq.) of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (a)(5)(H)(ii), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Subchapter II of chapter 8 of title I of the Act is classified generally to part II (§4071 et seq.) of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
-The International Organizations Immunities Act, referred to in subsec. (a)(15), is act Dec. 29, 1945, ch. 652, title I, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22. For complete classification of that Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
+The International Organizations Immunities Act, referred to in subsec. (a)(15), is act Dec. 29, 1945, ch. 652, title I, 59 Stat. 669, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22. For complete classification of that Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
-The Internal Security Act of 1950, as amended, referred to in subsec. (a)(17), is act Sept. 23, 1950, ch. 1024, 64 Stat. 987, as amended, which is classified principally to chapter 23 (§781 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 781 of Title 50 and Tables.
+The Internal Security Act of 1950, referred to in subsec. (a)(17), is act Sept. 23, 1950, ch. 1024, 64 Stat. 987, which is classified principally to chapter 23 (§781 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 781 of Title 50 and Tables.
 
 Section 1141j(g) of title 12, referred to in subsec. (f)(3), was redesignated section 1141j(f) by Pub. L. 110–246, title I, §1610, June 18, 2008, 122 Stat. 1746.
 
-The Military Selective Service Act, referred to in subsec. (m)(5)(B), is act June 24, 1948, ch. 625, 62 Stat. 604, as amended, which is classified principally to section 451 et seq. of Title 50, Appendix. For complete classification of this Act to the Code, see References in Text note set out under section 451 of Title 50, Appendix, and Tables.
+The Military Selective Service Act, referred to in subsec. (m)(5)(B), is act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to section 451 et seq. of Title 50, Appendix. For complete classification of this Act to the Code, see References in Text note set out under section 451 of Title 50, Appendix, and Tables.
 
-The Peace Corps Act, referred to in subsec. (<i>o</i>), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of that Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
+The Peace Corps Act, referred to in subsec. (<i>o</i>), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of that Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 #### Amendments
 
-2008—Subsec. (a)(5)(E). Pub. L. 110–458 struck out “or special trial judge” before “of the United States Tax Court”.
+<b>2008</b>—Subsec. (a)(5)(E). Pub. L. 110–458 struck out “or special trial judge” before “of the United States Tax Court”.
 
 Subsec. (e). Pub. L. 110–245 designated existing provisions as par. (1), redesignated former cls. (1) to (6) as cls. (A) to (F), respectively, of par. (1), and added par. (2).
 
-2006—Subsec. (a)(5)(E). Pub. L. 109–280 inserted “or special trial judge” before “of the United States Tax Court”.
+<b>2006</b>—Subsec. (a)(5)(E). Pub. L. 109–280 inserted “or special trial judge” before “of the United States Tax Court”.
 
-2004—Subsec. (f)(5). Pub. L. 108–203 struck out “or is domestic service in a private home of the employer” before period at end.
+<b>2004</b>—Subsec. (f)(5). Pub. L. 108–203 struck out “or is domestic service in a private home of the employer” before period at end.
 
-1998—Subsec. (a)(7)(D). Pub. L. 105–277 added Pub. L. 105–33, §11246(b)(2)(B). See 1997 Amendment note below.
+<b>1998</b>—Subsec. (a)(7)(D). Pub. L. 105–277 added Pub. L. 105–33, §11246(b)(2)(B). See 1997 Amendment note below.
 
-1997—Subsec. (a)(5)(H)(i). Pub. L. 105–61 substituted “1986,” for “1986 or” and inserted “or the Federal Employees’ Retirement System Open Enrollment Act of 1997” after “section 2157 of title 50,”.
+<b>1997</b>—Subsec. (a)(5)(H)(i). Pub. L. 105–61 substituted “1986,” for “1986 or” and inserted “or the Federal Employees’ Retirement System Open Enrollment Act of 1997” after “section 2157 of title 50,”.
 
 Subsec. (a)(7)(D). Pub. L. 105–33, §11246(b)(2)(B), as added by Pub. L. 105–277, inserted “(other than the Federal Employees Retirement System provided in chapter 84 of title 5)” after “United States” in introductory provisions.
 
-1996—Subsec. (a). Pub. L. 104–188, §1116(a)(2)(A), inserted at end “For purposes of paragraph (20), the operating crew of a boat shall be treated as normally made up of fewer than 10 individuals if the average size of theoperating crew on trips made during the preceding 4 calendar quarters consisted of fewer than 10 individuals.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–188, §1116(a)(2)(A), inserted at end “For purposes of paragraph (20), the operating crew of a boat shall be treated as normally made up of fewer than 10 individuals if the average size of the operating crew on trips made during the preceding 4 calendar quarters consisted of fewer than 10 individuals.”
 
 Subsec. (a)(20)(A). Pub. L. 104–188, §1116(a)(2)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “such individual does not receive any cash remuneration (other than as provided in subparagraph (B)),”.
 
-1994—Subsec. (a). Pub. L. 103–296, §321(c)(6)(C), substituted “1986” for “1954” after “Code of” in introductory provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–296, §321(c)(6)(C), substituted “1986” for “1954” after “Code of” in introductory provisions.
 
 Subsec. (a)(5)(B)(i)(V). Pub. L. 103–296, §321(a)(13), made technical amendment to reference to section 450i(e)(2) of title 25 to reflect renumbering of corresponding section of original act.
 
@@ -474,15 +474,15 @@ Subsecs. (p)(4), (q). Pub. L. 103–296, §321(c)(6)(D), substituted “1986” 
 
 Subsec. (r). Pub. L. 103–296, §319(b)(1), added subsec. (r).
 
-1993—Subsec. (a)(5)(H)(i). Pub. L. 103–178 substituted “section 2157 of title 50” for “section 307 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
+<b>1993</b>—Subsec. (a)(5)(H)(i). Pub. L. 103–178 substituted “section 2157 of title 50” for “section 307 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
 
-1992—Subsec. (a)(5)(E). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a)(5)(E). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1990—Subsec. (a)(7)(F). Pub. L. 101–508 added subpar. (F).
+<b>1990</b>—Subsec. (a)(7)(F). Pub. L. 101–508 added subpar. (F).
 
-1989—Subsec. (a). Pub. L. 101–239 substituted “3121(<i>l</i>)(6)” for “3121(<i>l</i>)(8)” in introductory provisions.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239 substituted “3121(<i>l</i>)(6)” for “3121(<i>l</i>)(8)” in introductory provisions.
 
-1988—Subsec. (a)(5). Pub. L. 100–647, §8015(c)(1), in provision following subpar. (B) inserted “any such service performed on or after any date on which such individual performs” after “with respect to”.
+<b>1988</b>—Subsec. (a)(5). Pub. L. 100–647, §8015(c)(1), in provision following subpar. (B) inserted “any such service performed on or after any date on which such individual performs” after “with respect to”.
 
 Subsec. (a)(5)(H). Pub. L. 100–647, §8015(b)(1), amended subpar. (H) generally. Prior to amendment, subpar. (H) read as follows: “service performed by an individual on or after the effective date of an election by such individual under section 301(a) of the Federal Employees’ Retirement System Act of 1986, or under regulations issued under section 860 of the Foreign Service Act of 1980 or section 307 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees, to become subject to chapter 84 of title 5;”.
 
@@ -490,7 +490,7 @@ Subsec. (a)(19). Pub. L. 100–647, §1001(d)(2)(E), substituted “(F), (J), or
 
 Subsec. (a)(20). Pub. L. 100–647, §8016(a)(4)(B), (C), amended Pub. L. 99–272, §13303(c)(2), see 1986 Amendment note below.
 
-1987—Subsec. (a)(3)(A). Pub. L. 100–203, §9005(a)(1), substituted “18” for “twenty-one”.
+<b>1987</b>—Subsec. (a)(3)(A). Pub. L. 100–203, §9005(a)(1), substituted “18” for “twenty-one”.
 
 Pub. L. 100–203, §9004(a)(1), struck out reference to service performed by an individual in the employ of his spouse.
 
@@ -502,7 +502,7 @@ Subsec. (<i>l</i>)(1). Pub. L. 100–203, §9001(a)(1), amended par. (1) general
 
 Subsec. (p). Pub. L. 100–203, §9023(p), directed that the heading of subsec. (p) be amended to read the same as it was set out in the general amendment of subsec. (p) by Pub. L. 99–272, see 1986 Amendment note below.
 
-1986—Subsec. (a)(5)(G). Pub. L. 99–514, §1883(a)(4), substituted “any other service” for “Any other service”.
+<b>1986</b>—Subsec. (a)(5)(G). Pub. L. 99–514, §1883(a)(4), substituted “any other service” for “Any other service”.
 
 Subsec. (a)(5)(H). Pub. L. 99–335 added subpar. (H).
 
@@ -514,15 +514,15 @@ Subsec. (p)(2)(E). Pub. L. 99–514, §1895(b)(18)(B), added subpar. (E).
 
 Subsec. (p)(4)(B). Pub. L. 99–514, §1895(b)(19), struck out quotation marks before “(A)”.
 
-1985—Subsec. (a)(5)(B)(i)(V). Pub. L. 99–221 added subcl. (V).
+<b>1985</b>—Subsec. (a)(5)(B)(i)(V). Pub. L. 99–221 added subcl. (V).
 
-1984—Subsec. (a). Pub. L. 98–369, §2661(j), struck out the second comma after “such affiliate”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §2661(j), struck out the second comma after “such affiliate”.
 
 Subsec. (a)(1). Pub. L. 98–369, §2663(a)(7)(A), struck out “(A) under contracts entered into in accordance with title V of the Agricultural Act of 1949, as amended, or (B)”.
 
 Subsec. (a)(5)(B). Pub. L. 98–369, §2601(a)(1), in amending subpar. (B) generally, substituted “(i) has been continuously performing service described in subparagraph (A) since December 31, 1983, and for purposes of this clause—(I) if an individual performing service described in subparagraph (A) returns to the performance of such service after being separated therefrom for a period of less than 366 consecutive days, regardless of whether the period began before, on, or after December 31, 1983, then such service shall be considered continuous,” for “(i) has been continuously in the employ of the United States or an instrumentality thereof since December 31, 1983 (and for this purpose an individual who returns to the performance of such service after being separated therefrom following a previous period of such service shall nevertheless be considered upon such return as having been continuously in the employ of the United States or an instrumentality thereof, regardless of whether the period of such separation began before, on, or after December 31, 1983, if the period of such separation does not exceed 365 consecutive days),”, added subcls. (II) to (IV), and reenacted cl. (ii).
 
-Subsec. (a)(5)(C) to (F). Pub. L. 98–369, §2601(a)(2)(A), (B), in provisions following “except that this paragraphshall not apply with respect to—” redesignated cls. (i), (ii), (iii), and (iv) as subpars. (C), (D), (E), and (F), respectively, and redesignated former subcls. (I), (II), and (III) as cls. (i), (ii), and (iii), respectively, of the redesignated subpar. (D).
+Subsec. (a)(5)(C) to (F). Pub. L. 98–369, §2601(a)(2)(A), (B), in provisions following “except that this paragraph shall not apply with respect to—” redesignated cls. (i), (ii), (iii), and (iv) as subpars. (C), (D), (E), and (F), respectively, and redesignated former subcls. (I), (II), and (III) as cls. (i), (ii), and (iii), respectively, of the redesignated subpar. (D).
 
 Subsec. (a)(5)(G). Pub. L. 98–369, §2601(a)(2)(A), (C), in provisions following “except that this paragraph shall not apply with respect to—” redesignated former cl. (v) as subpar. (G), and in subpar. (G) as so redesignated, designated the existing provisions of subpar. (G) as the introductory language and the first phrase of cl. (i) and added the remainder of cl. (i) following “chapter 38 of title 5”, cls. (ii) and (iii), and the provisions following cl. (iii).
 
@@ -548,7 +548,7 @@ Subsec. (m)(5). Pub. L. 98–369, §2663(a)(7)(G)(iii), substituted “military,
 
 Subsec. (m)(5)(B). Pub. L. 98–369, §2663(a)(7)(G)(iv), substituted “Military Selective Service Act” for “Universal Military Training and Service Act”.
 
-1983—Subsec. (a). Pub. L. 98–21, §322(a)(1), added cl. (C) and struck out “either” before “A” in provisions preceding par. (1).
+<b>1983</b>—Subsec. (a). Pub. L. 98–21, §322(a)(1), added cl. (C) and struck out “either” before “A” in provisions preceding par. (1).
 
 Pub. L. 98–21, §321(b), amended cl. (B) in provisions preceding par. (1) generally, substituting reference to section 3121(<i>l</i>)(8) of the Internal Revenue Code of 1954 for reference to section 3121(<i>l</i>) of such Code “an American employer” for “a domestic corporation (as determined in accordance with section 7701 of the Internal Revenue Code of 1954)”, and “affiliate” for “subsidiary” after “with respect to such”.
 
@@ -592,29 +592,29 @@ Subsec. (p). Pub. L. 98–21, §101(a)(2), struck out designations for pars. (1)
 
 Subsec. (q). Pub. L. 97–448 redesignated subsec. (p), relating to treatment of real estate agents and direct sellers, as (q).
 
-1982—Subsec. (p). Pub. L. 97–248, §269(b), added subsec. (p) relating to treatment of real estate agents and direct sellers.
+<b>1982</b>—Subsec. (p). Pub. L. 97–248, §269(b), added subsec. (p) relating to treatment of real estate agents and direct sellers.
 
 Pub. L. 97–248, §278(b)(1), added subsec. (p) relating to medicare qualified Federal employment.
 
-1978—Subsec. (a)(6)(B)(v). Pub. L. 95–600 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+<b>1978</b>—Subsec. (a)(6)(B)(v). Pub. L. 95–600 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
-1977—Subsec. (a)(10). Pub. L. 95–216, §351(a)(3)(B), struck out subpar. (A) which related to service performed in the employ of any exempt organization under section 101 of the Internal Revenue Code of 1939, and designated existing provisions of subpar. (B) as entire subsec. (a)(10) and, as so designated, redesignated cls. (i) and (ii) as subpars. (A) and (B).
+<b>1977</b>—Subsec. (a)(10). Pub. L. 95–216, §351(a)(3)(B), struck out subpar. (A) which related to service performed in the employ of any exempt organization under section 101 of the Internal Revenue Code of 1939, and designated existing provisions of subpar. (B) as entire subsec. (a)(10) and, as so designated, redesignated cls. (i) and (ii) as subpars. (A) and (B).
 
 Subsecs. (a)(17)(A), (f)(4)(B). Pub. L. 95–216, §351(a)(1), substituted “year” for “quarter”.
 
-1976—Subsec. (a)(8)(B). Pub. L. 94–563 inserted “(or deemed to have been so filed under paragraph (4) or (5) of such section 3121(k))” after “section 3121(k) of the Internal Revenue Code of 1954” in provisions preceding cl. (i), inserted “(or deemed to have been filed)” after “filed” in cls. (i), (ii), and (iii), and substituted “is (or is deemed to be) in effect” for “is in effect” in provisions following cl. (iii).
+<b>1976</b>—Subsec. (a)(8)(B). Pub. L. 94–563 inserted “(or deemed to have been so filed under paragraph (4) or (5) of such section 3121(k))” after “section 3121(k) of the Internal Revenue Code of 1954” in provisions preceding cl. (i), inserted “(or deemed to have been filed)” after “filed” in cls. (i), (ii), and (iii), and substituted “is (or is deemed to be) in effect” for “is in effect” in provisions following cl. (iii).
 
 Subsec. (a)(20). Pub. L. 94–455 added par. (20).
 
-1974—Subsec. (<i>l</i>)(4)(A). Pub. L. 93–445 substituted “section 231b(i) of title 45” for “section 228c–1 of title 45” and struck out “, as provided in section 228c–1(p)(2) of title 45” after “notify the Secretary of Health, Education, and Welfare”.
+<b>1974</b>—Subsec. (<i>l</i>)(4)(A). Pub. L. 93–445 substituted “section 231b(i) of title 45” for “section 228c–1 of title 45” and struck out “, as provided in section 228c–1(p)(2) of title 45” after “notify the Secretary of Health, Education, and Welfare”.
 
-1972—Subsec. (a)(7)(E). Pub. L. 92–603, §128(a), added subpar. (E).
+<b>1972</b>—Subsec. (a)(7)(E). Pub. L. 92–603, §128(a), added subpar. (E).
 
 Subsec. (a)(8)(A). Pub. L. 92–603, §123(a)(1), inserted provisions referring to the election of coverage under section 3121(r) of the Internal Revenue Code of 1954.
 
 Subsec. (a)(10)(B). Pub. L. 92–603, §129(a)(1), designated existing provisions as cl. (i) and added cl. (ii).
 
-1968—Subsec. (a)(3)(B). Pub. L. 90–248, §123(a), inserted exception provision including cls. (i) to (iii).
+<b>1968</b>—Subsec. (a)(3)(B). Pub. L. 90–248, §123(a), inserted exception provision including cls. (i) to (iii).
 
 Subsec. (a)(6)(C)(iv). Pub. L. 90–248, §403(a)(1), substituted reference to section 5351(2) of title 5 for former section 1052 of title 5.
 
@@ -622,17 +622,17 @@ Subsec. (a)(6)(C)(vi). Pub. L. 90–248, §403(a)(2), substituted “subchapter 
 
 Subsec. (a)(7)(D)(ii). Pub. L. 90–248, §403(a)(3), substituted reference to section 5351(2) of title 5 for former section 1052 of title 5.
 
-1965—Subsec. (a)(6)(C)(iv). Pub. L. 89–97, §311(a)(3), inserted “, other than as a medical or dental intern or a medical or dental resident in training”.
+<b>1965</b>—Subsec. (a)(6)(C)(iv). Pub. L. 89–97, §311(a)(3), inserted “, other than as a medical or dental intern or a medical or dental resident in training”.
 
 Subsec. (a)(7)(D). Pub. L. 89–97, §317(a)(3), added subpar. (D).
 
 Subsec. (a)(13). Pub. L. 89–97, §311(a)(4), struck out from definition of employment the exclusion of service performed as an intern in the employ of a hospital by an individual who has completed a four years’ course in a medical school chartered or approved pursuant to State law.
 
-1961—Subsec. (a)(19). Pub. L. 87–256 added par. (19).
+<b>1961</b>—Subsec. (a)(19). Pub. L. 87–256 added par. (19).
 
 Subsec. (<i>o</i>). Pub. L. 87–293 added subsec. (<i>o</i>).
 
-1960—Subsec. (a)(3). Pub. L. 86–778, §104(a), designated existing provisions as cl. (A), struck out provisions which related to service performed by an individual in the employ of his son or daughter, and added cl. (B).
+<b>1960</b>—Subsec. (a)(3). Pub. L. 86–778, §104(a), designated existing provisions as cl. (A), struck out provisions which related to service performed by an individual in the employ of his son or daughter, and added cl. (B).
 
 Subsec. (a)(7). Pub. L. 86–778, §103(c), excluded service in the employ of the Government of Guam or the Government of American Samoa or any political subdivision thereof, or of any instrumentality of any one or more of the foregoing which is wholly owned thereby, performed by an officer or employee thereof.
 
@@ -648,15 +648,15 @@ Pub. L. 86–624 struck out “Hawaii,” before “the District of Columbia.”
 
 Subsecs. (j) to (<i>o</i>). Pub. L. 86–778, §103(j)(2)(A), (B), repealed subsec. (j) and redesignated subsecs. (<i>l</i>) to (<i>o</i>) as (k) to (n), respectively.
 
-1959—Subsec. (a)(6)(B)(ii). Pub. L. 86–168 substituted “Federal land bank association” for “national farm loan association”, and included service in the employ of Federal land banks, Federal intermediate credit banks and banks for cooperatives.
+<b>1959</b>—Subsec. (a)(6)(B)(ii). Pub. L. 86–168 substituted “Federal land bank association” for “national farm loan association”, and included service in the employof Federal land banks, Federal intermediate credit banks and banks for cooperatives.
 
 Subsecs. (h), (i). Pub. L. 86–70 struck out “Alaska,” before “Hawaii”.
 
-1958—Subsec. (a)(1). Pub. L. 85–840, §311(a), struck out provisions which excluded from coverage service performed in connection with the production or harvesting of any commodity defined as an agricultural commodity in section 1141j(g) of title 12.
+<b>1958</b>—Subsec. (a)(1). Pub. L. 85–840, §311(a), struck out provisions which excluded from coverage service performed in connection with the production or harvesting of any commodity defined as an agricultural commodity in section 1141j(g) of title 12.
 
 Subsec. (a)(8)(B). Pub. L. 85–840, §312(a), substituted references to the Internal Revenue Code of 1954 for references to the Internal Revenue Code of 1939, and inserted provisions making subparagraph inapplicable to service performed during the period for which a certificate is in effect if such service is performed by an employee who, after the calendar quarter in which the certificate was filed with respect to a group described in section 3121(k)(1)(E) of the Internal Revenue Code of 1954 became a member of such group, and making subparagraph applicable with respect to service performed by an employee as a member of a group described in section 3121(k)(1)(E) with respect to which no certificate is in effect.
 
-1956—Subsec. (a)(1)(B). Act Aug. 1, 1956, ch. 836, §104(a), excluded from coverage service performed by foreign agricultural workers lawfully admitted on a temporary basis from any foreign country or possession thereof.
+<b>1956</b>—Subsec. (a)(1)(B). Act Aug. 1, 1956, ch. 836, §104(a), excluded from coverage service performed by foreign agricultural workers lawfully admitted on a temporary basis from any foreign country or possession thereof.
 
 Subsec. (a)(6)(B)(ii). Act Aug. 1, 1956, ch. 836, §104(b)(1), included service performed in the employ of a Federal Home Loan Bank.
 
@@ -668,7 +668,7 @@ Subsecs. (m), (n). Act Aug. 1, 1956, ch. 837, added subsecs. (m) and (n).
 
 Subsec. (<i>o</i>). Act Aug. 1, 1956, ch. 836, §105(b), added subsec. (<i>o</i>).
 
-1954—Subsec. (a)(B). Act Sept. 1, 1954, §101(m), included within definition of “employment” service performed outside the United States by citizens of the United States as employees for foreign subsidiaries of domestic corporations under certain conditions.
+<b>1954</b>—Subsec. (a)(B). Act Sept. 1, 1954, §101(m), included within definition of “employment” service performed outside the United States by citizens of the United States as employees for foreign subsidiaries of domestic corporations under certain conditions.
 
 Subsec. (a)(1). Act Sept. 1, 1954, §101(a)(4), removed specific exception from employment of services performed in connection with the ginning of cotton, and added an exception for services performed by West Indian agricultural workers lawfully admitted to the United States on a temporary basis.
 
@@ -688,9 +688,9 @@ Subsec. (a)(7) to (17). Act Sept. 1, 1954, §101(a)(5), (e), struck out par. (15
 
 Subsec. (k)(3)(C). Act Sept. 1, 1954, §101(f), struck out requirement that services of homeworkers be subject to State licensing laws in order to constitute covered employment.
 
-1951—Subsec. (a)(1)(C). Act Oct. 31, 1949, §505(a), as added by act July 12, 1951, added subpar. (C).
+<b>1951</b>—Subsec. (a)(1)(C). Act Oct. 31, 1949, §505(a), as added by act July 12, 1951, added subpar. (C).
 
-1950—Act Aug. 28, 1950, substituted a new section 410 for former section 410.
+<b>1950</b>—Act Aug. 28, 1950, substituted a new section 410 for former section 410.
 
 #### Change of Name
 
@@ -792,7 +792,7 @@ Amendment by section 2663(a)(7), (j)(3)(A)(i) of Pub. L. 98–369 effective July
 
 #### Effective Date of 1983 Amendment
 
-Amendment by section 101(a) of Pub. L. 98–21 effective with respect to service performed after Dec. 31, 1983, see section 101(d) of Pub. L. 98–21, as amended, set out as a note under section 3121 of Title 26, Internal Revenue Code.
+Amendment by section 101(a) of Pub. L. 98–21 effective with respect to service performed after Dec. 31,1983, see section 101(d) of Pub. L. 98–21, as amended, set out as a note under section 3121 of Title 26, Internal Revenue Code.
 
 Amendment by section 102(a) of Pub. L. 98–21 effective with respect to service performed after Dec. 31, 1983, see section 102(c) of Pub. L. 98–21, set out as a note under section 3121 of Title 26.
 
@@ -854,7 +854,7 @@ Amendment by section 103(d) of Pub. L. 86–778 applicable only with respect to 
 
 Amendment by section 103(e), (f) of Pub. L. 86–778 applicable only with respect to service performed after 1960, except that insofar as the carrying on of a trade or business (other than performance of service as an employee) is concerned, the amendment shall be applicable only in the case of taxable years beginning after 1960, see section 103(v)(1), (3) of Pub. L. 86–778, set out as a note under section 402 of this title.
 
-Amendment by section 103(j)(2)(A), (B) of Pub. L. 86–778 effective Sept. 13, 1960, see section 103(v)(1), (3) of Pub. L. 86–778, set out as a note under section 402 of this title.
+Amendment by section 103(j)(2)(A), (B) of Pub. L. 86–778 effective Sept. 13, 1960, see section 103(v)(1), (3) ofPub. L. 86–778, set out as a note under section 402 of this title.
 
 Section 104(c) of Pub. L. 86–778 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 3121 of Title 26, Internal Revenue Code\] shall apply only with respect to services performed after 1960.”
 
@@ -916,11 +916,11 @@ Section 202(b)(1) of Pub. L. 87–293, cited as a credit to this section, was re
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Federal Legislative Branch Employees Who Contribute Reduced Amounts by Reason of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983
 
@@ -940,7 +940,7 @@ Section 2601(d) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title 
 
 > shall, if such individual again becomes subject to subchapter III of chapter 83 of title 5 (or effectively applies for coverage under such subchapter) after the date on which he last ceased to be subject to such subchapter but prior to, or within 30 days after, the date of the enactment of this Act \[July 18, 1984\], requalify for the exemption from social security coverage and taxes under section 210(a)(5) of the Social Security Act and section 3121(b)(5) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[26 U.S.C. 3121(b)(5)\] as if the cessation of coverage under title 5 had not occurred.
 
-“(2) An individual meeting the requirements of subparagraphs (A) and (B) of paragraph (1) who is not in the employ of the United States or an instrumentality thereof on the date of the enactment of this Act \[July 18, 1984\] may requalify for such exemptions in the same manner as under paragraph (1) if such individual again becomes subject to subchapter III of chapter 83 of title 5 (or effectively applies for coverage under such subchapter) within 30 days after the date on which he first returns to service in the legislative branch after suchdate of enactment, if such date (on which he returns to service) is within 365 days after he was last in the employ of the United States or an instrumentality thereof.
+“(2) An individual meeting the requirements of subparagraphs (A) and (B) of paragraph (1) who is not in the employ of the United States or an instrumentality thereof on the date of the enactment of this Act \[July 18, 1984\] may requalify for such exemptions in the same manner as under paragraph (1) if such individual again becomes subject to subchapter III of chapter 83 of title 5 (or effectively applies for coverage under such subchapter) within 30 days after the date on which he first returns to service in the legislative branch after such date of enactment, if such date (on which he returns to service) is within 365 days after he was last in the employ of the United States or an instrumentality thereof.
 
 “(3) If an individual meeting the requirements of subparagraphs (A) and (B) of paragraph (1) does not again become subject to subchapter III of chapter 83 of title 5 (or effectively apply for coverage under such subchapter) prior to the date of the enactment of this Act or within the relevant 30-day period as provided in paragraph (1) or (2), social security coverage and taxes by reason of section 210(a)(5)(G) of the Social Security Act and section 3121(b)(5)(G) of the Internal Revenue Code of 1986 shall, with respect to such individual's service in the legislative branch of the Federal Government, become effective with the first month beginning after such 30-day period.
 
@@ -966,11 +966,11 @@ Section 125(a) of Pub. L. 92–603, as amended by Pub. L. 99–514, §2, Oct. 22
 
 &emsp;“(1) with respect to all service performed in the employ of a Federal home loan bank on and after the first day of the first calendar quarter which begins on or after the date of the enactment of this Act \[Oct. 30, 1972\]; and
 
-&emsp;“(2) in the case of individuals who are in the employ of a Federal home loan bank on such first day, with respect to any service performed in the employ of a Federal home loan bank after the last day of the sixth calendar year preceding the year in which this Act is enacted \[1972\]; but this paragraph shall be effective only if an amount equal to the taxes imposed by sections 3101 and 3111 of such Code \[sections 3101 and 3111 of Title 26, Internal Revenue Code\] with respect to the services of all such individuals performed in the employ of Federal home loan banks after the last day of the sixth calendar year preceding the year in which this Act is enacted \[1972\] are paid under the provisions of section 3122 of such Code \[section 3122 of Title 26\] by July 1, 1973, or by such later date as may be provided in an agreement entered into before such date with the Secretary of the Treasury or his delegate for purposes of this paragraph.”
+&emsp;“(2) in the case of individuals who are in the employ of a Federal home loan bank on such first day, with respect to any service performed in the employ of a Federal home loan bank after the last day of thesixth calendar year preceding the year in which this Act is enacted \[1972\]; but this paragraph shall be effective only if an amount equal to the taxes imposed by sections 3101 and 3111 of such Code \[sections 3101 and 3111 of Title 26, Internal Revenue Code\] with respect to the services of all such individuals performed in the employ of Federal home loan banks after the last day of the sixth calendar year preceding the year in which this Act is enacted \[1972\] are paid under the provisions of section 3122 of such Code \[section 3122 of Title 26\] by July 1, 1973, or by such later date as may be provided in an agreement entered into before such date with the Secretary of the Treasury or his delegate for purposes of this paragraph.”
 
 #### Covered Employment Not Counted Under Other Federal Retirement Systems
 
-Section 115 of act Sept. 1, 1954, which prohibited counting employment under other Federal retirement systems in determining eligibility for benefits under this subchapter, was repealed by Pub. L. 91–630, §1, Dec. 31, 1970, 84 Stat. 1875. Section 2 of Pub. L. 91–630 provided that such repeal shall not apply in the case of a person who, on Dec. 31, 1970, is receiving or is entitled to receive benefits under any retirement system established by the United States or any instrumentality thereof unless he requests, in writing, the office which administers his retirement system to apply it in this case, and that any additional benefits payable pursuant to such request shall commence on January 1, 1971.
+Section 115 of act Sept. 1, 1954, which prohibited counting employment under other Federal retirement systems in determining eligibility for benefits under this subchapter, was repealed by Pub. L. 91–630, §1, Dec. 31, 1970, 84 Stat. 1875. Section 2 of Pub. L. 91–630 provided that such repeal shall not apply in the case of a person who, on Dec. 31, 1970, is receiving or is entitled to receive benefits under any retirement system established by the United States or any instrumentality thereof unless he requests, in writing, the office which administers his retirement system to apply it in this case, and that any additional benefits payable pursuant to such request shall commence on Jan. 1, 1971.
 
 #### Termination of War and Emergencies
 

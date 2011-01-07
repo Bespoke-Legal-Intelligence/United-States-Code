@@ -90,11 +90,11 @@ Public Law 98–473, referred to in subsec. (f), is Pub. L. 98–473, Oct. 12, 1
 
 #### Amendments
 
-2005—Pub. L. 109–58, §236(26), inserted section catchline.
+<b>2005</b>—Pub. L. 109–58, §236(26), inserted section catchline.
 
 Subsec. (d)(3). Pub. L. 109–58, §236(1), substituted “geothermal resources” for “geothermal steam and associated geothermal resources”.
 
-2000—Subsec. (a)(1)(N). Pub. L. 106–510, §3(a)(2), substituted “Hawai‘i Volcanoes National Park” for “Hawaii Volcanoes National Park”.
+<b>2000</b>—Subsec. (a)(1)(N). Pub. L. 106–510, §3(a)(2), substituted “Hawai‘i Volcanoes National Park” for “Hawaii Volcanoes National Park”.
 
 Subsec. (a)(1)(O). Pub. L. 106–510, §3(b)(2), substituted “Haleakala�AE8 National Park” for “Haleakala National Park”.
 

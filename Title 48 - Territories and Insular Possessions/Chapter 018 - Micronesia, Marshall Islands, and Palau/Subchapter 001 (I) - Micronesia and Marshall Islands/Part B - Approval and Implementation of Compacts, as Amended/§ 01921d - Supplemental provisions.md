@@ -14,7 +14,7 @@ Except as may otherwise be provided in this joint resolution, all United States 
 
 (4) Federal agencies providing programs and services to the Federated States of Micronesia and the Republic of the Marshall Islands shall coordinate with the Secretaries of the Interior and State regarding provision of such programs and services. The Secretaries of the Interior and State shall consult with appropriate officials of the Asian Development Bank and with the Secretary of the Treasury regarding overall economic conditions in the Federated States of Micronesia and the Republic of the Marshall Islands and regarding the activities of other donors of assistance to the Federated States of Micronesia and the Republic of the Marshall Islands.
 
-(5) United States Government employees in either the Federated States of Micronesia or the Republic of the Marshall Islands are subject to the authority of the United States Chief of Mission, including as elaborated in section 3927 of title 22 and the President's Letter of Instruction to the United States Chief of Mission and any order or directive of the President in effect from time to time.
+(5) United States Government employees in either the Federated States of Micronesia or the Republic of the Marshall Islands are subject to the authority of the United States Chief of Mission, including as elaborated in section 3927 of title 22 and the President's Letter of Instruction to the United States Chief of Mission and anyorder or directive of the President in effect from time to time.
 
 (6)
 
@@ -58,7 +58,7 @@ In general.—The three United States appointees (United States chair plus two m
 
 &emsp;&emsp;(ii)
 
-Departments.—It is the sense of Congress that 2 of the 3 appointees should be designated from the Department of Stateand the Department of the Interior, and that U.S. officials of the Asian Development Bank shall be consulted in order to properly coordinate U.S. and Asian Development Bank financial, program, and technical assistance.
+Departments.—It is the sense of Congress that 2 of the 3 appointees should be designated from the Department of State and the Department of the Interior, and that U.S. officials of the Asian Development Bank shall be consulted in order to properly coordinate U.S. and Asian Development Bank financial, program, and technical assistance.
 
 &emsp;&emsp;(iii)
 
@@ -130,7 +130,7 @@ Congress expresses its understanding that the Governments of the Federated State
 
 #### (iv) Fiscal procedures
 
-&emsp;&emsp;&emsp;Appropriations made pursuant to clause (iii) shall be used and monitored in accordance with an agreement between the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, and the Secretary of the Interior, and in accordance with the respective Fiscal Procedures Agreements referred to insection 462(b)(4) of the U.S.-FSM Compact and section 462(b)(4) of the U.S.-RMI Compact. The agreement between the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, and the Secretary of the Interior shall provide for the transfer, not later than 60 days after the appropriations made pursuant to clause (iii) become available to the Secretary of Education, the Secretary of Labor, and the Secretary of Health and Human Services, from the Secretary of Education, the Secretary of Labor, and the Secretary of Health and Human Services, to the Secretary of the Interior for disbursement.
+&emsp;&emsp;&emsp;Appropriations made pursuant to clause (iii) shall be used and monitored in accordance with an agreement between the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, and the Secretary of the Interior, and in accordance with the respective Fiscal Procedures Agreements referred to in section 462(b)(4) of the U.S.-FSM Compact and section 462(b)(4) of the U.S.-RMI Compact. The agreement between the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, and the Secretary of the Interior shall provide for the transfer, not later than 60 days after the appropriations made pursuant to clause (iii) become available to the Secretary of Education, the Secretary of Labor, and the Secretary of Health and Human Services, from the Secretary of Education, the Secretary of Labor, and the Secretary of Health and Human Services, to the Secretary of the Interior for disbursement.
 
 #### (v) Formula education grants
 
@@ -172,7 +172,7 @@ Until otherwise provided by Act of Congress, or until termination of the U.S.-FS
 
 #### (h) Trust Territory debts to U.S. Federal agencies
 
-Neither the Government of the Federated States of Micronesia nor the Government of the Marshall Islands shall be required to pay to any department, agency, independent agency, office, or instrumentality of the United States any amounts owed to such department, agency, independent agency, office, or instrumentality by the Government of the Trust Territory of thePacific Islands as of the effective date of the Compact. There is authorized to be appropriated such sums as may be necessary to carry out the purposes of this subsection.
+Neither the Government of the Federated States of Micronesia nor the Government of the Marshall Islands shall be required to pay to any department, agency, independent agency, office, or instrumentality of the United States any amounts owed to such department, agency, independent agency, office, or instrumentality by the Government of the Trust Territory of the Pacific Islands as of the effective date of the Compact. There is authorized to be appropriated such sums as may be necessary to carry out the purposes of this subsection.
 
 #### (i) Judicial training
 
@@ -212,7 +212,7 @@ No judgment, whenever issued, of a court of the Federated States of Micronesia, 
 
 #### (1) In general
 
-&emsp;The Trust Fund Agreement executed pursuant to the U.S.-FSM Compact and the TrustFund Agreement executed pursuant to the U.S.-RMI Compact each provides for the establishment of a trust fund.
+&emsp;The Trust Fund Agreement executed pursuant to the U.S.-FSM Compact and the Trust Fund Agreement executed pursuant to the U.S.-RMI Compact each provides for the establishment of a trust fund.
 
 #### (2) Method of establishment
 
@@ -258,9 +258,9 @@ The National Historic Preservation Act, referred to in subsec. (j), is Pub. L. 8
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–229, §806(a)(3), substituted “Trust Funds)” for “Trust Fund)”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–229, §806(a)(3), substituted “Trust Funds)” for “Trust Fund)”.
 
-Subsec. (f)(1)(A). Pub. L. 110–229, §803(a), amended subpar. (A) generally. Prior to amendment, subpar. (A)related to the continuing availability of programs and services of the Department of Homeland Security, Federal Emergency Management Agency.
+Subsec. (f)(1)(A). Pub. L. 110–229, §803(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) related to the continuing availability of programs and services of the Department of Homeland Security, Federal Emergency Management Agency.
 
 Subsec. (f)(1)(B)(ii)(II). Pub. L. 110–229, §804(1), substituted “, its territories, and the Republic of Palau” for “and its territories”.
 
@@ -270,9 +270,9 @@ Subsec. (f)(1)(B)(ix). Pub. L. 110–229, §804(3), which directed substitution 
 
 Subsec. (f)(1)(C). Pub. L. 110–229, §805, inserted before period at end “, which shall also continue to be available to the citizens of the Federated States of Micronesia, the Republic of Palau, and the Republic of the Marshall Islands who legally reside in the United States (including territories and possessions)”.
 
-2007—Subsec. (f)(1)(B)(ix). Pub. L. 110–161 substituted “government, institutions, and people” for “Republic” in two places, “2009” for “2007”, and “were” for “was”.
+<b>2007</b>—Subsec. (f)(1)(B)(ix). Pub. L. 110–161 substituted “government, institutions, and people” for “Republic” in two places, “2009” for “2007”, and “were” for “was”.
 
-2006—Subsec. (f)(1)(B)(iii). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
+<b>2006</b>—Subsec. (f)(1)(B)(iii). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
 
 #### Effective Date of 2008 Amendment
 

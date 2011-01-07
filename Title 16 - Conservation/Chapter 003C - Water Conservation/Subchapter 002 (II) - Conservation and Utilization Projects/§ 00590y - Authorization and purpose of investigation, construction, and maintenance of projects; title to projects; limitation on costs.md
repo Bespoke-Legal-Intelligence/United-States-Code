@@ -6,11 +6,11 @@ For the purpose of stabilizing water supply and thereby rehabilitating farmers o
 
 #### Amendments
 
-1943—Act July 16, 1943, raised amount of expenditures for dams and reservoirs on any one project from $1,000,000 to $2,000,000.
+<b>1943</b>—Act July 16, 1943, raised amount of expenditures for dams and reservoirs on any one project from $1,000,000 to $2,000,000.
 
-1942—Act Mar. 7, 1942, amended last proviso.
+<b>1942</b>—Act Mar. 7, 1942, amended last proviso.
 
-1940—Act Oct. 14, 1940, reenacted section.
+<b>1940</b>—Act Oct. 14, 1940, reenacted section.
 
 #### Change of Name
 

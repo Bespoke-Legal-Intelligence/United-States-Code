@@ -12,17 +12,17 @@ Definition.—In this section, the term “one-step turn-key selection procedure
 
 #### Amendments
 
-1991—Pub. L. 102–190 redesignated par. (1) of subsec. (a) as entire subsec. (a) and inserted heading, redesignated par. (2) of subsec. (a) as (b), inserted heading, and struck out former subsecs. (b) and (c) which read as follows:
+<b>1991</b>—Pub. L. 102–190 redesignated par. (1) of subsec. (a) as entire subsec. (a) and inserted heading, redesignated par. (2) of subsec. (a) as (b), inserted heading, and struck out former subsecs. (b) and (c) which read as follows:
 
 “(b) The Secretary of Defense, with respect to any Defense Agency, or the Secretary of a military department may not, during any fiscal year, enter into more than three contracts for military construction projects using procedures authorized by this section.
 
 “(c) The authority under this section shall expire on October 1, 1991.”
 
-1989—Subsec. (a)(1). Pub. L. 101–189, §2806(1), struck out at end “Such procedures may be used by the Secretary of a military department only with the approval of the Secretary of Defense.”
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–189, §2806(1), struck out at end “Such procedures may be used by the Secretary of a military department only with the approval of the Secretary of Defense.”
 
 Subsec. (c). Pub. L. 101–189, §2806(2), substituted “1991” for “1990”.
 
-1987—Subsec. (a)(1). Pub. L. 100–180, §2301(1), substituted “The Secretary concerned” for “The Secretaries of the military departments, with the approval of the Secretary of Defense,” and inserted provision at end that such procedures may be used by the Secretary of a military department only with the approval of the Secretary of Defense.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–180, §2301(1), substituted “The Secretary concerned” for “The Secretaries of the military departments, with the approval of the Secretary of Defense,” and inserted provision at end that such procedures may be used by the Secretary of a military department only with the approval of the Secretary of Defense.
 
 Subsec. (a)(2). Pub. L. 100–26 inserted “the term” after “In this section,”.
 

@@ -64,9 +64,9 @@ The Omnibus Diplomatic Security and Antiterrorism Act of 1986, referred to in su
 
 #### Amendments
 
-2008—Subsec. (a)(3)(A)(i). Pub. L. 110–181 substituted “October 23, 1983, with respect to which an investigation or civil or criminal” for “December 21, 1988 with respect to which an investigation or”.
+<b>2008</b>—Subsec. (a)(3)(A)(i). Pub. L. 110–181 substituted “October 23, 1983, with respect to which an investigation or civil or criminal” for “December 21, 1988 with respect to which an investigation or”.
 
-2001—Subsec. (b). Pub. L. 107–56 inserted at end “The amount of compensation awarded to a victim under this subsection shall be reduced by any amount that the victim received in connection with the same act of international terrorism under title VIII of the Omnibus Diplomatic Security and Antiterrorism Act of 1986.”
+<b>2001</b>—Subsec. (b). Pub. L. 107–56 inserted at end “The amount of compensation awarded to a victim under this subsection shall be reduced by any amount that the victim received in connection with the same act of international terrorism under title VIII of the Omnibus Diplomatic Security and Antiterrorism Act of 1986.”
 
 #### Effective Date of 2008 Amendment
 

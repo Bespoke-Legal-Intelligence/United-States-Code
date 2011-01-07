@@ -100,7 +100,7 @@ Based on information obtained under subsection (c)(3) of this section, the Admin
 
 #### (2) Responsibilities of the centers
 
-&emsp;The responsibilities of the small public water system technology assistance centersestablished under this subsection shall include the conduct of training and technical assistance relating to the information, performance, and technical needs of small public water systems or public water systems that serve Indian Tribes.
+&emsp;The responsibilities of the small public water system technology assistance centers established under this subsection shall include the conduct of training and technical assistance relating to the information, performance, and technical needs of small public water systems or public water systems that serve Indian Tribes.
 
 #### (3) Applications
 

@@ -8,7 +8,7 @@ For purposes of developing or assisting in the development of any regulation or 
 
 &emsp;(2) to inspect and obtain samples from any person of any such wastes and samples of any containers or labeling for such wastes.
 
-> Each such inspection shall be commenced and completed with reasonable promptness. If the officer, employee or representative obtains any samples, prior to leaving the premises, he shall give to the owner, operator, or agent in charge a receipt describing the sample obtained and if requested a portion of each such sample equal in volume or weight to the portion retained. If any analysis is made of such samples, a copy of the results of such analysis shall be furnished promptly to the owner, operator, or agent in charge.
+> Each such inspection shall be commenced and completed with reasonable promptness. If the officer, employee or representative obtains any samples, prior to leaving the premises, he shall give to the owner, operator, or agent in charge a receipt describing the sample obtained and if requested a portion of each such sample equal in volume or weight to the portion retained. If anyanalysis is made of such samples, a copy of the results of such analysis shall be furnished promptly to the owner, operator, or agent in charge.
 
 #### (b) Availability to public
 
@@ -40,13 +40,13 @@ The Administrator shall annually undertake a thorough inspection of every facili
 
 (2) Not later than six months after November 8, 1984, the Administrator shall submit to the Congress a report on the potential for inspections of hazardous waste treatment, storage, or disposal facilities by nongovernmental inspectors as a supplement to inspections conducted by officers, employees, or representatives of the Environmental Protection Agency or States having authorized hazardous waste programs or operating under a cooperative agreement with the Administrator. Such report shall be prepared in cooperation with the States, insurance companies offering environmental impairment insurance, independent companies providing inspection services, and other such groups as appropriate. Such report shall contain recommendations on provisions and requirements for a program of private inspections to supplement governmental inspections.
 
-(Pub. L. 89–272, title II, §3007, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2810; amended Pub. L. 95–609, §7(j), Nov. 8, 1978, 92 Stat. 3082; Pub. L. 96–482, §12, Oct. 21, 1980, 94 Stat. 2339;Pub. L. 98–616, title II, §§229–231, title V, §502(a), Nov. 8, 1984, 98 Stat. 3255, 3256, 3276; Pub. L. 102–386, title I, §104, Oct. 6, 1992, 106 Stat. 1507.)
+(Pub. L. 89–272, title II, §3007, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2810; amended Pub. L. 95–609, §7(j), Nov. 8, 1978, 92 Stat. 3082; Pub. L. 96–482, §12, Oct. 21, 1980, 94 Stat. 2339; Pub. L. 98–616, title II, §§229–231, title V, §502(a), Nov. 8, 1984, 98 Stat. 3255, 3256, 3276; Pub. L. 102–386, title I, §104, Oct. 6, 1992, 106 Stat. 1507.)
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–386 in first sentence substituted “The Administrator shall undertake” for “Beginning twelve months after November 8, 1984, the Administrator shall, or in the case of a State with an authorized hazardous waste program the State may, undertake” and “department, agency, or instrumentality of the United States” for “Federal agency”, inserted after first sentence “Any State with an authorized hazardous waste program also may conduct an inspection of any such facility for purposes of enforcing the facility's compliance with the State hazardous waste program.”, and inserted at end “The department, agency, or instrumentality owning or operating each such facility shall reimburse the Environmental Protection Agency for the costs of the inspection of the facility. With respect to the first inspection of each such facility occurring after October 6, 1992, the Administrator shall conduct a comprehensive ground water monitoring evaluation at the facility, unless such an evaluation was conducted during the 12-month period preceding October 6, 1992.”
+<b>1992</b>—Subsec. (c). Pub. L. 102–386 in first sentence substituted “The Administrator shall undertake” for “Beginning twelve months after November 8, 1984, the Administrator shall, or in the case of a State with an authorized hazardous waste program the State may, undertake” and “department, agency, or instrumentality of the United States” for “Federal agency”, inserted after first sentence “Any State with an authorized hazardous waste program also may conduct an inspection of any such facility for purposes of enforcing the facility's compliance with the State hazardous waste program.”, and inserted at end “The department, agency, or instrumentality owning or operating each such facility shall reimburse the Environmental Protection Agency for the costs of the inspection of the facility. With respect to the first inspection of each such facility occurring after October 6, 1992, the Administrator shall conduct a comprehensive ground water monitoring evaluation at the facility, unless such an evaluation was conducted during the 12-month period preceding October 6, 1992.”
 
-1984—Subsec. (b)(1). Pub. L. 98–616, §502(a), modified directory language for amendment by sec. 12(b)(4) of Pub. L. 96–482.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–616, §502(a), modified directory language for amendment by sec. 12(b)(4) of Pub. L. 96–482.
 
 Subsec. (c). Pub. L. 98–616, §229, added subsec. (c).
 
@@ -54,7 +54,7 @@ Subsec. (d). Pub. L. 98–616, §230, added subsec. (d).
 
 Subsec. (e). Pub. L. 98–616, §231, added subsec. (e).
 
-1980—Subsec. (a). Pub. L. 96–482, §12(a), substituted “chapter” for “subchapter”, “any officer, employee or representative” for “any officer or employee”, “duly designated officer, employee or representative” for “duly designated officer employee”, “such officers, employees or representatives” for “such officers or employees”, “furnish information relating to such wastes and permit” for “furnish or permit”, and “officer, employee or representative obtains” for “officer or employee obtains”, struck out “maintained by any person” after “establishment or other place”, substituted “officer, employee or representative obtains” for “officer or employee obtains”, and inserted “or has handled” after “otherwise handles” and “or have been” after “where hazardous wastes are”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–482, §12(a), substituted “chapter” for “subchapter”, “any officer, employee or representative” for “any officer or employee”, “duly designated officer, employee or representative” for “duly designated officer employee”, “such officers, employees or representatives” for “such officers or employees”, “furnish information relating to such wastes and permit” for “furnish or permit”, and “officer, employee or representative obtains” for “officer or employee obtains”, struck out “maintained by any person” after “establishment or other place”, substituted “officer, employee or representative obtains” for “officer or employee obtains”, and inserted “or has handled” after “otherwise handles” and “or have been” after “where hazardous wastes are”.
 
 Subsec. (b)(1). Pub. L. 96–482, §12(b)(1)–(3), designated existing provisions as par. (1), inserted “or any officer, employee or representative thereof” before “has access under this section” and substituted “such information or particular portion thereof shall be considered” for “the Administrator (or the State, as the case may be) shall consider such information or portion thereof”.
 
@@ -62,7 +62,7 @@ Pub. L. 96–482, §12(b)(4), as modified by Pub. L. 98–616, §502(a), inserte
 
 Subsec. (b)(2) to (4). Pub. L. 96–482, §12(b)(3), added pars. (2) to (4).
 
-1978—Subsec. (a)(1). Pub. L. 95–609 substituted “disposed of, or transported from” for “or disposed of”.
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–609 substituted “disposed of, or transported from” for “or disposed of”.
 
 #### Transfer of Functions
 

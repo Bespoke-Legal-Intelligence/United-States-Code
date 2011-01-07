@@ -22,7 +22,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 #### (1) In general
 
-&emsp;The Secretary may not make any grant under this section to any applicant unless the applicant certifies to the Secretary that the applicant will—
+&emsp;The Secretary may not make any grant under this section to any applicant unless theapplicant certifies to the Secretary that the applicant will—
 
 &emsp;&emsp;(A) supplement the aggregate amount of assistance provided under this section with an amount of funds from sources other than this section equal to not less than 5 percent of the amount provided under this section; and
 
@@ -30,7 +30,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 #### (2) Supplemental funds
 
-&emsp;In calculating the amount of supplemental funds provided by a grantee for purposes of paragraph (1), the grantee may include amounts from other Federal sources, any State or local government sources, any private contributions, the value of any donated material or building, the value of any lease ona building, the value of the time and services contributed by volunteers, and the value of any other in-kind services or administrative costs provided.
+&emsp;In calculating the amount of supplemental funds provided by a grantee for purposes of paragraph (1), the grantee may include amounts from other Federal sources, any State or local government sources, any private contributions, the value of any donated material or building, the value of any lease on a building, the value of the time and services contributed by volunteers, and the value of any other in-kind services or administrative costs provided.
 
 #### (3) Exemption
 
@@ -86,7 +86,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 &emsp;&emsp;(C) the extent to which the applicant could undertake such activities without a grant under this section;
 
-&emsp;&emsp;(D) the extent of involvement of residents, State and local governments, private service providers, financing entities, and developers, in the development and ongoing implementation of a revitalization program for the project, except that the Secretary may not award a grant under this section unless the applicant has involved affected public housing residents at the beginning and during the planning process for the revitalization program, prior to submission of an application;
+&emsp;&emsp;(D) the extent of involvement of residents, State and local governments, private serviceproviders, financing entities, and developers, in the development and ongoing implementation of a revitalization program for the project, except that the Secretary may not award a grant under this section unless the applicant has involved affected public housing residents at the beginning and during the planning process for the revitalization program, prior to submission of an application;
 
 &emsp;&emsp;(E) the need for affordable housing in the community;
 
@@ -158,7 +158,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(ii) is a significant contributing factor to the physical decline of and disinvestment by public and private entities in the surrounding neighborhood;
 
-&emsp;&emsp;&emsp;(iii)(I) is occupied predominantly by families who are very low-income families with children, are unemployed, and dependent on various forms of public assistance;
+&emsp;&emsp;&emsp;(iii)(I) is occupied predominantly by families who are very low-income familieswith children, are unemployed, and dependent on various forms of public assistance;
 
 &emsp;&emsp;&emsp;(II) has high rates of vandalism and criminal activity (including drug-related criminal activity) in comparison to other housing in the area; or
 
@@ -310,7 +310,7 @@ Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, refer
 
 #### Amendments
 
-2009—Subsec. (m)(1). Pub. L. 111–117, §222(1), substituted “fiscal year 2010.” for “fiscal year 2009.”
+<b>2009</b>—Subsec. (m)(1). Pub. L. 111–117, §222(1), substituted “fiscal year 2010.” for “fiscal year 2009.”
 
 Pub. L. 111–8, §223(1), which directed the substitution of “2009” for “2003”, was executed by making the substitution for “2008”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 110–161, §224(1). See 2007 Amendment note below.
 
@@ -318,7 +318,7 @@ Subsec. (<i>o</i>). Pub. L. 111–117, §222(2), substituted “September 30, 20
 
 Pub. L. 111–8, §223(2), which directed substitution of “September 30, 2009” for “September 30, 2007”, was executed by making the substitution for “September 30, 2008”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 110–161, §224(2). See 2007 Amendment note below.
 
-2007—Subsec. (m)(1). Pub. L. 110–161, §224(1), which directed substitution of “2008” for “2003”, was executed by making the substitution for “2007”, to reflect the probable intent of Congress and the amendment by Pub. L. 109–289, §21045(1), as added by Pub. L. 110–5. See below.
+<b>2007</b>—Subsec. (m)(1). Pub. L. 110–161, §224(1), which directed substitution of “2008” for “2003”, was executed by making the substitution for “2007”, to reflect the probable intent of Congress and the amendment by Pub. L. 109–289, §21045(1), as added by Pub. L. 110–5. See below.
 
 Pub. L. 109–289, §21045(1), as added by Pub. L. 110–5, substituted “2007” for “2003”.
 
@@ -326,9 +326,9 @@ Subsec. (<i>o</i>). Pub. L. 110–161, §224(2), substituted “September 30, 20
 
 Pub. L. 109–289, §21045(2), as added by Pub. L. 110–5, substituted “September 30, 2007” for “September 30, 2006”.
 
-2003—Subsec. (a). Pub. L. 108–186, §403(a), inserted concluding provisions.
+<b>2003</b>—Subsec. (a). Pub. L. 108–186, §403(a), inserted concluding provisions.
 
-Subsec. (e)(2). Pub. L. 108–186, §402(a)(1), substituted “The Secretary shall establish criteria for the award of grants under this section and shall include among thefactors—” for “The Secretary shall establish selection criteria for the award of grants under this section and shall include such factors as—” in introductory provisions.
+Subsec. (e)(2). Pub. L. 108–186, §402(a)(1), substituted “The Secretary shall establish criteria for the award of grants under this section and shall include among the factors—” for “The Secretary shall establish selection criteria for the award of grants under this section and shall include such factors as—” in introductory provisions.
 
 Subsec. (e)(2)(B). Pub. L. 108–186, §402(a)(2), struck out “large-scale” after “for managing”.
 
@@ -356,13 +356,13 @@ Pub. L. 108–7, §215(b), substituted “September 30, 2004” for “September
 
 Subsec. (<i>o</i>) Pub. L. 108–186, §403(b)(1), redesignated subsec. (n) as (<i>o</i>).
 
-2000—Subsec. (d)(1)(G). Pub. L. 106–377, §1(a)(1) \[title II, §214(b)(1)\], inserted before semicolon “, including a Neighborhood Networks initiative for the establishment and operation of computer centers in public housing for the purpose of enhancing the self-sufficiency, employability, an economic self-reliance of public housing residents by providing them with onsite computer access and training resources”.
+<b>2000</b>—Subsec. (d)(1)(G). Pub. L. 106–377, §1(a)(1) \[title II, §214(b)(1)\], inserted before semicolon “, including a Neighborhood Networks initiative for the establishment and operation of computer centers in public housing for the purpose of enhancing the self-sufficiency, employability, an economic self-reliance of public housing residents by providing them with onsite computer access and training resources”.
 
 Subsec. (m)(2). Pub. L. 106–377, §1(a)(1) \[title II, §214(b)(2)\], inserted before period at end of first sentence “, including assistance in connection with the establishment and operation of computer centers in public housing through the Neighborhoods Networks initiative described in subsection (d)(1)(G) of this section”.
 
-1998—Pub. L. 105–276 amended section generally. Prior to amendment, section authorized planning grants for development of revitalization programs for severely distressed public housing and implementation grants to carry out revitalization programs for such housing, authorized exceptions to general program rules, established Office of Severely Distressed Public Housing Revitalization, and required annual report to Congress.
+<b>1998</b>—Pub. L. 105–276 amended section generally. Prior to amendment, section authorized planning grants for development of revitalization programs for severely distressed public housing and implementation grants to carry out revitalization programs for such housing, authorized exceptions to general program rules, established Office of Severely Distressed Public Housing Revitalization, and required annual report to Congress.
 
-1996—Subsec. (e). Pub. L. 104–99 temporarily substituted “Exception” for “Exceptions” in subsec. heading and struck out “(1)
+<b>1996</b>—Subsec. (e). Pub. L. 104–99 temporarily substituted “Exception” for “Exceptions” in subsec. heading and struck out “(1)
 
 Long-term viability.—” before “The Secretary may waive” and par. (2) which read as follows:
 

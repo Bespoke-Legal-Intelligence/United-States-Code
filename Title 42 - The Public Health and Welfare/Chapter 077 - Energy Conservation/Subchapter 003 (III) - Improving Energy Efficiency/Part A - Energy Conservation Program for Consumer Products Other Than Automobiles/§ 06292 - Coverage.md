@@ -72,17 +72,17 @@ This chapter, referred to in subsec. (b)(1)(A), was in the original “this Act�
 
 #### Amendments
 
-2007—Subsec. (a)(14). Pub. L. 110–140, §321(a)(2), inserted “, general service incandescent lamps,” after “fluorescent lamps”.
+<b>2007</b>—Subsec. (a)(14). Pub. L. 110–140, §321(a)(2), inserted “, general service incandescent lamps,” after “fluorescent lamps”.
 
 Subsec. (a)(19), (20). Pub. L. 110–140, §324(b), added par. (19) and redesignated former par. (19) as (20).
 
-1998—Subsec. (b)(2)(A). Pub. L. 105–388 inserted closing quotation marks after “type of product”.
+<b>1998</b>—Subsec. (b)(2)(A). Pub. L. 105–388 inserted closing quotation marks after “type of product”.
 
-1992—Subsec. (a)(14) to (19). Pub. L. 102–486 added pars. (14) to (18) and redesignated former par. (14) as (19).
+<b>1992</b>—Subsec. (a)(14) to (19). Pub. L. 102–486 added pars. (14) to (18) and redesignated former par. (14) as (19).
 
-1988—Subsec. (a)(13), (14). Pub. L. 100–357 added par. (13) and redesignated former par. (13) as (14).
+<b>1988</b>—Subsec. (a)(13), (14). Pub. L. 100–357 added par. (13) and redesignated former par. (13) as (14).
 
-1987—Subsec. (a). Pub. L. 100–12, §3, inserted heading and amended text generally. Prior to amendment, text read as follows: “A consumer product is a covered product if it is one of the following types (or is designed to perform a function which is the principal function of any of the following types):
+<b>1987</b>—Subsec. (a). Pub. L. 100–12, §3, inserted heading and amended text generally. Prior to amendment, text read as follows: “A consumer product is a covered product if it is one of the following types (or is designed to perform a function which is the principal function of any of the following types):
 
 &emsp;“(1) Refrigerators and refrigerator-freezers.
 
@@ -114,7 +114,7 @@ Subsec. (a)(19), (20). Pub. L. 110–140, §324(b), added par. (19) and redesign
 
 Subsec. (b). Pub. L. 100–12, §11(b)(1), inserted heading.
 
-1978—Subsecs. (a)(14), (b)(1), (2)(C). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+<b>1978</b>—Subsecs. (a)(14), (b)(1), (2)(C). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
 #### Effective Date of 2007 Amendment
 
@@ -126,7 +126,7 @@ Section 121 of Pub. L. 102–486 provided that:
 
 “(a)
 
-In General.—(1) The Secretary shall, after consulting with the National Fenestration Rating Council, industry representatives, and other appropriate organizations, provide financial assistance to support a voluntary national window rating program that will develop energy ratings and labels for windows and window systems.
+In General.—(1) The Secretary shall, after consulting with the National Fenestration Rating Council,industry representatives, and other appropriate organizations, provide financial assistance to support a voluntary national window rating program that will develop energy ratings and labels for windows and window systems.
 
 “(2) Such rating program shall include—
 
@@ -202,7 +202,7 @@ In General.—(1) The Secretary shall, after consulting with the National Electr
 
 “(b)
 
-Monitoring.—The Secretary shall monitor and evaluate the efforts to develop the program described in subsection (a) and, not later than three years after the date of the enactment of this Act \[Oct. 24, 1992\], shall make a determination as to whether the program developed is consistent with the objectives of subsection (a).
+Monitoring.—The Secretary shall monitor and evaluate the efforts to develop the program describedin subsection (a) and, not later than three years after the date of the enactment of this Act \[Oct. 24, 1992\], shall make a determination as to whether the program developed is consistent with the objectives of subsection (a).
 
 “(c)
 

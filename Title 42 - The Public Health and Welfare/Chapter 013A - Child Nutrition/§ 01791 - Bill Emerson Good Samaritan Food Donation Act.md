@@ -34,7 +34,7 @@ As used in this section:
 
 #### (7) Gross negligence
 
-&emsp;The term “gross negligence” means voluntary and conscious conduct (including a failure to act) by a person who, at the time of the conduct, knew that the conduct was likely to be harmful to the health or well-being of another person.
+&emsp;The term “gross negligence” means voluntary and conscious conduct (including a failure to act) by a person who, at the time of the conduct, knew that the conduct was likelyto be harmful to the health or well-being of another person.
 
 #### (8) Intentional misconduct
 
@@ -50,7 +50,7 @@ As used in this section:
 
 #### (10) Person
 
-&emsp;The term “person” means an individual, corporation, partnership, organization, association, or governmental entity, including a retail grocer, wholesaler, hotel, motel, manufacturer, restaurant, caterer, farmer, and nonprofit food distributor or hospital. In the caseof a corporation, partnership, organization, association, or governmental entity, the term includes an officer, director, partner, deacon, trustee, council member, or other elected or appointed individual responsible for the governance of the entity.
+&emsp;The term “person” means an individual, corporation, partnership, organization, association, or governmental entity, including a retail grocer, wholesaler, hotel, motel, manufacturer, restaurant, caterer, farmer, and nonprofit food distributor or hospital. In the case of a corporation, partnership, organization, association, or governmental entity, the term includes an officer, director, partner, deacon, trustee, council member, or other elected or appointed individual responsible for the governance of the entity.
 
 #### (c) Liability for damages from donated food and grocery products
 
@@ -92,7 +92,7 @@ Section was formerly classified to section 12672 of this title prior to renumber
 
 #### Amendments
 
-1996—Pub. L. 104–210, §1(a)(2)(A), substituted “Bill Emerson” for “Model” in section catchline.
+<b>1996</b>—Pub. L. 104–210, §1(a)(2)(A), substituted “Bill Emerson” for “Model” in section catchline.
 
 Subsec. (a). Pub. L. 104–210, §1(a)(2)(B), inserted “Bill Emerson” before “Good”.
 

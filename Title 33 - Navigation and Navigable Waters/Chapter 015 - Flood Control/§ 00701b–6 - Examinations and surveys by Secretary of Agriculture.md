@@ -6,7 +6,7 @@ That, in order to further the declaration of policy and principles declared in s
 
 #### Amendments
 
-1948—Act Jan. 19, 1948, inserted “or is hereafter” after “heretofore been” to make section applicable to future preliminary surveys and examinations.
+<b>1948</b>—Act Jan. 19, 1948, inserted “or is hereafter” after “heretofore been” to make section applicable to future preliminary surveys and examinations.
 
 #### Change of Name
 

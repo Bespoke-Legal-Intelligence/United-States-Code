@@ -160,7 +160,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 #### (C) Members of family
 
-&emsp;&emsp;For purposes of this paragraph, the term “family” means the taxpayer, the spouse of the taxpayer, and any of their children whohave not attained age 18 before the close of the taxable year.
+&emsp;&emsp;For purposes of this paragraph, the term “family” means the taxpayer, the spouse of the taxpayer, and any of their children who have not attained age 18 before the close of the taxable year.
 
 #### (3) Preproductive period
 
@@ -194,7 +194,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 &emsp;&emsp;&emsp;(ii) the raising or harvesting of trees bearing fruit, nuts, or other crops, or ornamental trees.
 
-> &emsp;&emsp;For purposes of clause (ii), an evergreen tree which is more than 6 years old at the time severed from the roots shall not be treated as an ornamental tree.
+> &emsp;&emsp;For purposes of clause (ii), an evergreen tree which is more than 6 years old at the timesevered from the roots shall not be treated as an ornamental tree.
 
 #### (5) Certain inventory valuation methods permitted
 
@@ -272,7 +272,7 @@ For purposes of this section—
 
 #### (2) Treatment of property produced under contract for the taxpayer
 
-&emsp;The taxpayer shall be treated as producing any property produced for the taxpayer under a contract with the taxpayer; except that only costs paid or incurred by the taxpayer (whether under such contract or otherwise) shall betaken into account in applying subsection (a) to the taxpayer.
+&emsp;The taxpayer shall be treated as producing any property produced for the taxpayer under a contract with the taxpayer; except that only costs paid or incurred by the taxpayer (whether under such contract or otherwise) shall be taken into account in applying subsection (a) to the taxpayer.
 
 #### (h) Exemption for free lance authors, photographers, and artists
 
@@ -344,13 +344,13 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-2005—Subsec. (c)(3). Pub. L. 109–58 inserted “167(h),” after “under section”.
+<b>2005</b>—Subsec. (c)(3). Pub. L. 109–58 inserted “167(h),” after “under section”.
 
-2004—Subsec. (c)(3). Pub. L. 108–357, which directed amendment of par. (3) by inserting “179B,” after “section”, was executed by making the insertion after “section” the second place it appeared to reflect the probable intent of Congress.
+<b>2004</b>—Subsec. (c)(3). Pub. L. 108–357, which directed amendment of par. (3) by inserting “179B,” after “section”, was executed by making the insertion after “section” the second place it appeared to reflect the probable intent of Congress.
 
-1999—Subsec. (b)(2)(A). Pub. L. 106–170 substituted “1221(a)(1)” for “1221(1)”.
+<b>1999</b>—Subsec. (b)(2)(A). Pub. L. 106–170 substituted “1221(a)(1)” for “1221(1)”.
 
-1989—Subsec. (h)(3)(D). Pub. L. 101–239 substituted “corporations” for “personal service corporations” in heading and amended text generally. Prior to amendment, text read as follows:
+<b>1989</b>—Subsec. (h)(3)(D). Pub. L. 101–239 substituted “corporations” for “personal service corporations” in heading and amended text generally. Prior to amendment, text read as follows:
 
 “(i)
 
@@ -364,7 +364,7 @@ Qualified employee-owner.—The term ‘qualified employee-owner’ means any in
 
 Personal service corporation.—For purposes of this subparagraph, the term ‘personal service corporation’ means any personal service corporation (as defined in section 269A(b)).”
 
-1988—Subsec. (a)(2). Pub. L. 100–647, §1008(b)(1), inserted at end “Any cost which (but for this subsection) could not be taken into account in computing taxable income for any taxable year shall not be treated as a cost described in this paragraph.”
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–647, §1008(b)(1), inserted at end “Any cost which (but for this subsection) could not be taken into account in computing taxable income for any taxable year shall not be treated as a cost described in this paragraph.”
 
 Subsec. (c)(3). Pub. L. 100–647, §1008(b)(2)(A), substituted “section 263(c), 263(i), 291(b)(2), 616, or 617” for “section 263(c), 616(a), or 617(a)”.
 
@@ -468,7 +468,7 @@ Transitional rule for capitalization of interest and taxes.—
 
 &emsp;“(A)
 
-Transition property exempted from interest capitalization.—Section 263A of the InternalRevenue Code of 1986 (as added by this section) and the amendment made by subsection (b)(1) \[repealing section 189 of this title\] shall not apply to interest costs which are allocable to any property—
+Transition property exempted from interest capitalization.—Section 263A of the Internal Revenue Code of 1986 (as added by this section) and the amendment made by subsection (b)(1) \[repealing section 189 of this title\] shall not apply to interest costs which are allocable to any property—
 
 &emsp;&emsp;“(i) to which the amendments made by section 201 \[amending sections 46, 167, 168, 178, 179, 280F, 291, 312, 465, 467, 514, 751, 1245, 4162, 6111, and 7701 of this title\] do not apply by reason of sections 204(a)(1)(D) and (E) and 204(a)(5)(A) \[set out as a note under section 168 of this title\], and
 
@@ -492,7 +492,7 @@ Transition rule concerning capitalization of inventory rules.—In the case of a
 
 “(6)
 
-Treatment of certain rehabilitation project.—The amendments made by this section shall not apply to interest and taxes paid or incurred with respect to the rehabilitation and conversion of a certified historic building which was formerly a factory into an apartment project with 155 units, 39 units of which are for low-income families, if the project was approved for annual interest assistance on June 10, 1986, by the housing authority of the State in which the project is located.
+Treatment of certain rehabilitation project.—The amendments made by this section shall not apply to interest and taxes paid or incurred withrespect to the rehabilitation and conversion of a certified historic building which was formerly a factory into an apartment project with 155 units, 39 units of which are for low-income families, if the project was approved for annual interest assistance on June 10, 1986, by the housing authority of the State in which the project is located.
 
 “(7)
 

@@ -94,7 +94,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) 30 percent (adjusted as may be provided under subparagraph (B)) of the amount (computed on a daily basis) in effect under subsection (b)(2)(D) for the calendar year in which the taxable year of the individual begins, multiplied by
 
-&emsp;&emsp;&emsp;(ii) the number of days of such taxable year within the applicable period described in subparagraph (A) or (B) of subsection (d)(1).
+&emsp;&emsp;&emsp;(ii) the number of days of such taxable year within the applicable period describedin subparagraph (A) or (B) of subsection (d)(1).
 
 #### (B) Regulations
 
@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “housing expenses” means the reasonable expenses paid or incurred duringthe taxable year by or on behalf of an individual for housing for the individual (and, if they reside with him, for his spouse and dependents) in a foreign country. The term—
+&emsp;&emsp;The term “housing expenses” means the reasonable expenses paid or incurred during the taxable year by or on behalf of an individual for housing for the individual (and, if they reside with him, for his spouse and dependents) in a foreign country. The term—
 
 &emsp;&emsp;&emsp;(i) includes expenses attributable to the housing (such as utilities and insurance), but
 
@@ -182,7 +182,7 @@ For purposes of this section—
 
 #### (B) Taxpayer engaged in trade or business
 
-&emsp;&emsp;In the case of a taxpayer engaged in a trade or business in which both personal services and capital are material income-producing factors, under regulations prescribed by the Secretary, a reasonable allowance as compensation for the personal services rendered by the taxpayer, not in excess of 30 percent of his share of the net profits of such trade or business, shall be considered as earned income.
+&emsp;&emsp;In the case of a taxpayer engaged in a trade or business in which both personalservices and capital are material income-producing factors, under regulations prescribed by the Secretary, a reasonable allowance as compensation for the personal services rendered by the taxpayer, not in excess of 30 percent of his share of the net profits of such trade or business, shall be considered as earned income.
 
 #### (3) Tax home
 
@@ -258,11 +258,11 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;An election under subsection (a) shall apply to the taxable year for which made and to all subsequent taxable years unless revoked under paragraph (2).
+&emsp;An election under subsection (a) shall apply to the taxable year for which made and to allsubsequent taxable years unless revoked under paragraph (2).
 
 #### (2) Revocation
 
-&emsp;A taxpayer may revoke an election made under paragraph (1) for any taxable year after the taxable year for which such election was made. Except with the consent of the Secretary, any taxpayer who makes such a revocation for any taxable year may not make another election under this section for anysubsequent taxable year before the 6th taxable year after the taxable year for which such revocation was made.
+&emsp;A taxpayer may revoke an election made under paragraph (1) for any taxable year after the taxable year for which such election was made. Except with the consent of the Secretary, any taxpayer who makes such a revocation for any taxable year may not make another election under this section for any subsequent taxable year before the 6th taxable year after the taxable year for which such revocation was made.
 
 #### (f) Determination of tax liability
 
@@ -324,9 +324,9 @@ The International Emergency Economic Powers Act, referred to in subsec. (d)(8)(B
 
 #### Amendments
 
-2007—Subsec. (f). Pub. L. 110–172 amended heading and text generally, substituting provisions relating to determination of tax liability, special rules for determining regular tax and alternative minimum tax, and definitions for former provisions relating to determination of tax liability and tentative minimum tax.
+<b>2007</b>—Subsec. (f). Pub. L. 110–172 amended heading and text generally, substituting provisions relating to determination of tax liability, special rules for determining regular tax and alternative minimum tax, and definitions for former provisions relating to determination of tax liability and tentative minimum tax.
 
-2006—Subsec. (b)(2)(D)(ii). Pub. L. 109–222, §515(a)(1), substituted “2005” for “2007” in introductory provisions.
+<b>2006</b>—Subsec. (b)(2)(D)(ii). Pub. L. 109–222, §515(a)(1), substituted “2005” for “2007” in introductory provisions.
 
 Subsec. (b)(2)(D)(ii)(II). Pub. L. 109–222, §515(a)(2), substituted “2004” for “2006”.
 
@@ -342,11 +342,11 @@ Subsec. (d)(7). Pub. L. 109–222, §515(b)(2)(C)(ii), which directed substituti
 
 Subsecs. (f), (g). Pub. L. 109–222, §515(c), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1997—Subsec. (b)(2)(A). Pub. L. 105–34, §1172(a)(1), substituted “equal to the exclusion amount for the calendar year in which such taxable year begins” for “of $70,000”.
+<b>1997</b>—Subsec. (b)(2)(A). Pub. L. 105–34, §1172(a)(1), substituted “equal to the exclusion amount for the calendar year in which such taxable year begins” for “of $70,000”.
 
 Subsec. (b)(2)(D). Pub. L. 105–34, §1172(a)(2), added subpar. (D).
 
-1986—Subsec. (b)(2)(A). Pub. L. 99–514, §1233(a), in amending subpar. (A) generally, substituted “an annual rate of $70,000” for “the annual rate set forth in the following table for each day of the taxable year within the applicable period described in subparagraph (A) or (B) of subsection (d)(1):
+<b>1986</b>—Subsec. (b)(2)(A). Pub. L. 99–514, §1233(a), in amending subpar. (A) generally, substituted “an annual rate of $70,000” for “the annual rate set forth in the following table for each day of the taxable year within the applicable period described in subparagraph (A) or (B) of subsection (d)(1):
 
 <b>“In the case of taxable years</b>
 
@@ -376,15 +376,15 @@ $80,000&nbsp;&nbsp;
 
 Subsec. (d)(8), (9). Pub. L. 99–514, §1233(b), added par. (8) and redesignated former par. (8) as (9).
 
-1984—Subsec. (b)(2)(A). Pub. L. 98–369 amended table by striking out item which set the annual rate at $75,000 for taxable years beginning in 1982, substituted item setting the annual rate at $80,000 for taxable years beginning in 1983, 1984, 1985, 1986, or 1987 for items which had set annual rates of $80,000 for taxable years beginning in 1983, $85,000 for taxable years beginning in 1984, $90,000 for taxable years beginning in 1985, and $95,000 for taxable years beginning in 1986 and thereafter, and added items setting annual rates of $85,000 for taxable years beginning in 1988, $90,000 for taxable years beginning in 1989, and $95,000 for taxable years beginning in 1990 and thereafter.
+<b>1984</b>—Subsec. (b)(2)(A). Pub. L. 98–369 amended table by striking out item which set the annual rate at $75,000 for taxable years beginning in 1982, substituted item setting the annual rate at $80,000 for taxable years beginning in 1983, 1984, 1985, 1986, or 1987 for items which had set annual rates of $80,000 for taxable years beginning in 1983, $85,000 for taxable years beginning in 1984, $90,000 for taxable years beginning in 1985, and $95,000 for taxable years beginning in 1986 and thereafter, and added items setting annual rates of $85,000 for taxable years beginning in 1988, $90,000 for taxable years beginning in 1989, and $95,000 for taxable years beginning in 1990 and thereafter.
 
-1983—Subsec. (c)(3)(B)(ii). Pub. L. 97–448, §101(c)(2), substituted “subsection (a)” for “subsection (a)(1)”.
+<b>1983</b>—Subsec. (c)(3)(B)(ii). Pub. L. 97–448, §101(c)(2), substituted “subsection (a)” for “subsection (a)(1)”.
 
 Subsec. (d)(7), (8). Pub. L. 97–448, §101(c)(1), added par. (7) and redesignated former par. (7) as (8).
 
-1981—Pub. L. 97–34 amended section generally, modifying the eligibility standards of existing law, replacing the existing system of deduction for excess living costs with an exclusion of a portion of foreign earned income, and providing for an individual's election to exclude a portion of his income or to deduct an amount for housing, based on his housing expenses.
+<b>1981</b>—Pub. L. 97–34 amended section generally, modifying the eligibility standards of existing law, replacing the existing system of deduction for excess living costs with an exclusion of a portion of foreign earned income, and providing for an individual's election to exclude a portion of his income or to deduct an amount for housing, based on his housing expenses.
 
-1980—Pub. L. 96–595 §4(c)(1), inserted “or from charitable services” after “camps” in section catchline.
+<b>1980</b>—Pub. L. 96–595 §4(c)(1), inserted “or from charitable services” after “camps” in section catchline.
 
 Subsec. (a). Pub. L. 96–595, §4(a), inserted “or who performs qualified charitable services in a lesser developed country,” after “hardship area”.
 
@@ -394,7 +394,7 @@ Subsec. (c)(1)(A). Pub. L. 96–595, §4(b)(1), substituted “Dollar limitation
 
 Subsec. (c)(1)(D), (E). Pub. L. 96–595, §4(b)(2), added subpars. (D) and (E).
 
-1978—Pub. L. 95–615, §202(f)(1), substituted “Income earned by individuals in certain camps” for “Earned income from sources without the United States” in section catchline.
+<b>1978</b>—Pub. L. 95–615, §202(f)(1), substituted “Income earned by individuals in certain camps” for “Earned income from sources without the United States” in section catchline.
 
 Subsec. (a). Pub. L. 95–615, §202(a), in introductory provisions inserted reference to an individual described in section 913(a) who, because of his employment, resides in a camp located in a hardship area, in par. (1) substituted reference to amounts received from sources within a foreign country or countries for reference to amounts received from sources without the United States, in par. (2) substituted reference to amounts received from sources within qualified foreign countries for reference to amounts received from sources without the United States, and in provisions following par. (2) struck out “any deductions (other than those allowed by section 151, relating to personal exemptions),” after “deduction from his gross income” and inserted “, other than the deductions allowed by sections 217 (relating to moving expenses)” after “subsection”.
 
@@ -412,7 +412,7 @@ Subsec. (c)(7). Pub. L. 95–615, §202(c), added par. (7).
 
 Pub. L. 95–600, §703(e), redesignated former par. (8) as (7). Such par. (8) was subsequently repealed by section 202(e) of Pub. L. 95–615 without taking into account the redesignation of par. (8) as (7) by Pub. L. 95–600. See 1978 Amendment note for subsec. (c)(8) below.
 
-Subsec. (c)(8). Pub. L. 95–615, §202(e), struck out par. (8) which related to the nonexclusion under subsec. (a) of any amount attributable to services performed in a foreign country or countries if such amount was received outside of the foreign country or countries where such services were performed and if one of thepurposes was the avoidance of any tax imposed by such foreign country or countries on such amount.
+Subsec. (c)(8). Pub. L. 95–615, §202(e), struck out par. (8) which related to the nonexclusion under subsec. (a) of any amount attributable to services performed in a foreign country or countries if such amount was received outside of the foreign country or countries where such services were performed and if one of the purposes was the avoidance of any tax imposed by such foreign country or countries on such amount.
 
 Subsec. (d). Pub. L. 95–615, §202(d)(1), redesignated subsec. (e) as (d), inserted “for the taxable year” after “section apply”, and struck out provision that an election was applicable to the taxable year for which made and to all subsequent taxable years. Former subsec. (d), which related to the computation of tax imposed by section 1 or section 1201 if an individual earned income which was excluded from gross income under subsec. (a) and which defined “net taxable income” and “net excluded earned income”, was struck out.
 
@@ -420,9 +420,9 @@ Subsec. (d)(1). Pub. L. 95–600, §401(b)(4), struck out provisions respecting 
 
 Subsecs. (e), (f). Pub. L. 95–615, §202(d)(1), (2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-1977—Subsec. (d)(1)(B). Pub. L. 95–30 substituted “on the sum of (i) the amount of net excluded earned income, and (ii) the zero bracket amount” for “on the amount of net excluded earned income”.
+<b>1977</b>—Subsec. (d)(1)(B). Pub. L. 95–30 substituted “on the sum of (i) the amount of net excluded earned income, and (ii) the zero bracket amount” for “on the amount of net excluded earned income”.
 
-1976—Subsec. (a). Pub. L. 94–455, §§1011(b)(1), 1906(b)(13)(A), struck out “or his delegate” after “Secretary” in par. (1), and in provisions following par. (2), inserted “or as a credit against the tax imposed by this chapter any credit for the amount of taxes paid or accrued to a foreign country or possession of the United States, to the extent that such deductions or credit is” after “personal exemptions)”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1011(b)(1), 1906(b)(13)(A), struck out “or his delegate” after “Secretary” in par. (1), and in provisions following par. (2), inserted “or as a credit against the tax imposed by this chapter any credit for the amount of taxes paid or accrued to a foreign country or possession of the United States, to the extent that such deductions or credit is” after “personal exemptions)”.
 
 Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -434,15 +434,15 @@ Subsec. (c)(8). Pub. L. 94–455, §1011(b)(2), added par. (8).
 
 Subsecs. (d) to (f). Pub. L. 94–455, §1011(b)(3), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
-1966—Subsec. (d). Pub. L. 89–809 designated existing text as par. (1) and added par. (2).
+<b>1966</b>—Subsec. (d). Pub. L. 89–809 designated existing text as par. (1) and added par. (2).
 
-1964—Subsec. (c)(1)(B). Pub. L. 88–272 substituted “$25,000” for “$35,000”.
+<b>1964</b>—Subsec. (c)(1)(B). Pub. L. 88–272 substituted “$25,000” for “$35,000”.
 
-1962—Subsec. (a). Pub. L. 87–834 substituted “which constitute earned income attributable to services performed during such uninterrupted period” for “if such amounts constitute earned income (as defined in subsection (b)) attributable to such period” in par. (1), and “which constitute earned income attributable to services performed during such 18-month period” for “if such amounts constitute earned income (as defined in subsection (b)) attributable to such period” in par. (2), inserted provisions in pars. (1) and (2) requiring the amount excluded under such paragraphs to be computed by applying the special rules contained in subsec. (c), and eliminated provisions from par. (2) which limited the amount excluded under such paragraph to not more than $20,000 if the 18-month period includes the entire taxable year, and to not more than an amount which bears the same ratio to $20,000 as the number of days in the part of the taxable year within the 18-month period bears to the total number of days in such year if the 18-month period does not include the entire taxable year.
+<b>1962</b>—Subsec. (a). Pub. L. 87–834 substituted “which constitute earned income attributable to services performed during such uninterrupted period” for “if such amounts constitute earned income (as defined in subsection (b)) attributable to such period” in par. (1), and “which constitute earned income attributable to services performed during such 18-month period” for “if such amounts constitute earned income (as defined in subsection (b)) attributable to such period” in par. (2), inserted provisions in pars. (1) and (2) requiring the amount excluded under such paragraphs to be computed by applying the special rules contained in subsec. (c), and eliminated provisions from par. (2) which limited the amount excluded under such paragraph to not more than $20,000 if the 18-month period includes the entire taxable year, and to not more than an amount which bears the same ratio to $20,000 as the number of days in the part of the taxable year within the 18-month period bears to the total number of days in such year if the 18-month period does not include the entire taxable year.
 
 Subsecs. (c) and (d). Pub. L. 87–834 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1958—Subsec. (c). Pub. L. 85–866 added subsec. (c).
+<b>1958</b>—Subsec. (c). Pub. L. 85–866 added subsec. (c).
 
 #### Effective Date of 2007 Amendment
 
@@ -482,7 +482,7 @@ Amendment by section 108(a)(1)(A), (C), (D) of Pub. L. 96–222 effective as if 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 401(b)(4) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 401(c) of Pub. L. 95–600, set out as a note under section 1201 of this title.
+Amendment by section 401(b)(4) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978,see section 401(c) of Pub. L. 95–600, set out as a note under section 1201 of this title.
 
 Section 701(u)(10)(B) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §107(a)(1)(B), Apr. 1, 1980, 94 Stat. 222, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning in calendar year 1978 but only in the case of taxpayers who make an election under section 209(c) of the Foreign Earned Income Act of 1978 \[section 209(c) of Pub. L. 95–615, set out below\].”
 

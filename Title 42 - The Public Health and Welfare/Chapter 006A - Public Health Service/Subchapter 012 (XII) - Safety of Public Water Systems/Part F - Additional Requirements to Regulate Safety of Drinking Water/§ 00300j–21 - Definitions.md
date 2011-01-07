@@ -44,11 +44,11 @@ The Defense Dependent's Education Act of 1978, referred to in par. (3)(C), proba
 
 #### Amendments
 
-2002—Pars. (3)(A), (6). Pub. L. 107–110 substituted “section 7801 of title 20” for “section 8801 of title 20”.
+<b>2002</b>—Pars. (3)(A), (6). Pub. L. 107–110 substituted “section 7801 of title 20” for “section 8801 of title 20”.
 
-1996—Pub. L. 104–182 made technical amendment to section catchline and first word of text.
+<b>1996</b>—Pub. L. 104–182 made technical amendment to section catchline and first word of text.
 
-1994—Par. (3)(A). Pub. L. 103–382, §391(p)(1), substituted “section 8801 of title 20” for “section 198 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 3381)”.
+<b>1994</b>—Par. (3)(A). Pub. L. 103–382, §391(p)(1), substituted “section 8801 of title 20” for “section 198 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 3381)”.
 
 Par. (6). Pub. L. 103–382, §391(p)(2), substituted “section 8801 of title 20” for “section 198 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2854)”.
 

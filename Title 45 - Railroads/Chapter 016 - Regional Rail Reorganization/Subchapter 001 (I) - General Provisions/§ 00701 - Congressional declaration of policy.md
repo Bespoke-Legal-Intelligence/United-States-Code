@@ -20,7 +20,7 @@ The Congress finds and declares that—
 
 It is therefore declared to be the purpose of Congress in this chapter to provide for—
 
-&emsp;(1) the identification of a rail service system in the midwest and northeast region which isadequate to meet the needs and service requirements of this region and of the national rail transportation system;
+&emsp;(1) the identification of a rail service system in the midwest and northeast region which is adequate to meet the needs and service requirements of this region and of the national rail transportation system;
 
 &emsp;(2) the reorganization of railroads in this region into an economically viable system capable of providing adequate and efficient rail service to the region;
 
@@ -40,7 +40,7 @@ The Bankruptcy Act, referred to in subsec. (a)(1), is act July 1, 1898, ch. 541,
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–565, §1, Nov. 1, 1978, 92 Stat. 2397, provided: “That this Act \[amending sections 726, 747, and 825 of this title and section 975 of Title 43, Public Lands, and enacting provision set out as a note under section 975 of Title 43\] may be cited as the ‘United States Railway Association Amendments Act of 1978’.”
+Pub. L. 95–565, §1, Nov. 1, 1978, 92 Stat. 2397, provided: “That this Act \[amending sections 726, 747, and 825 ofthis title and section 975 of Title 43, Public Lands, and enacting provision set out as a note under section 975 of Title 43\] may be cited as the ‘United States Railway Association Amendments Act of 1978’.”
 
 #### Short Title of 1976 Amendment
 

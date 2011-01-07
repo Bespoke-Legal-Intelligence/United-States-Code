@@ -38,9 +38,9 @@ For purposes of this section, an article is labeled for export or contains an ex
 
 #### Amendments
 
-2006—Subsec. (c)(1). Pub. L. 109–432 substituted “5761(d)” for “5761(c)”.
+<b>2006</b>—Subsec. (c)(1). Pub. L. 109–432 substituted “5761(d)” for “5761(c)”.
 
-2000—Pub. L. 106–476 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
+<b>2000</b>—Pub. L. 106–476 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
 “(a)
 

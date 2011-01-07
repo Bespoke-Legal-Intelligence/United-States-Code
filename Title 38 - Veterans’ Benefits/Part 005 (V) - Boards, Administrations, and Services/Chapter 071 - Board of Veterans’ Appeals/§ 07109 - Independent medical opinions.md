@@ -10,13 +10,13 @@
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 4009 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4009 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
 Subsec. (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1988—Subsec. (a). Pub. L. 100–687, §103(b)(1), substituted “Board may” for “Board is authorized to”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–687, §103(b)(1), substituted “Board may” for “Board is authorized to”.
 
 Subsec. (b). Pub. L. 100–687, §103(b)(2), substituted “Any such arrangement shall” for “Such arrangement will”, and “an individual case shall” for “any individual case will”.
 

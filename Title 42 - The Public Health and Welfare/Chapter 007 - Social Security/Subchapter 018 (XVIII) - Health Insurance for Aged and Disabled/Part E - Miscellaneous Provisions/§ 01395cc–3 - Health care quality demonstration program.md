@@ -30,7 +30,7 @@ In this section:
 
 #### (b) Demonstration projects
 
-The Secretary shall establish a 5-year demonstration program under which the Secretary shall approve demonstration projects that examine health delivery factors that encourage the delivery of improved quality in patient care, including—
+The Secretary shall establish a demonstration program under which the Secretary shall approve demonstration projects that examine health delivery factors that encourage the delivery of improved quality in patient care, including—
 
 &emsp;(1) the provision of incentives to improve the safety of care provided to beneficiaries;
 
@@ -90,11 +90,11 @@ The Secretary may waive such requirements of this subchapter and subchapter XI o
 
 #### (f) Budget neutrality
 
-With respect to the 5-year period of the demonstration program under subsection (b) of this section, the aggregate expenditures under this subchapter for such period shall not exceed the aggregate expenditures that would have been expended under this subchapter if the program established under this section had not been implemented.
+With respect to the period of the demonstration program under subsection (b) of this section, the aggregate expenditures under this subchapter for such period shall not exceed the aggregate expenditures that would have been expended under this subchapter if the program established under this section had not been implemented.
 
 #### (g) Notice requirements
 
-In the case of an individual that receives health care items or services under a demonstration program carried out under this section, the Secretary shall ensure that such individual isnotified of any waivers of coverage or payment rules that are applicable to such individual under this subchapter as a result of the participation of the individual in such program.
+In the case of an individual that receives health care items or services under a demonstration program carried out under this section, the Secretary shall ensure that such individual is notified of any waivers of coverage or payment rules that are applicable to such individual under this subchapter as a result of the participation of the individual in such program.
 
 #### (h) Participation and support by Federal agencies
 
@@ -106,11 +106,17 @@ In carrying out the demonstration program under this section, the Secretary may 
 
 &emsp;(3) the Administrator of the Centers for Medicare \& Medicaid Services and the Administrator of the Center for Medicare Choices to support linkages of relevant medicare data to registry information from participating health care groups for the beneficiary populations served by the participating groups, for analysis supporting the purposes of the demonstration program, consistent with the applicable provisions of the Health Insurance Portability and Accountability Act of 1996.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1866C, as added Pub. L. 108–173, title VI, §646, Dec. 8, 2003, 117 Stat. 2324.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1866C, as added Pub. L. 108–173, title VI, §646, Dec. 8, 2003, 117 Stat. 2324; amended Pub. L. 111–148, title III, §3021(c), Mar. 23, 2010, 124 Stat. 395.)
 
 #### References in Text
 
 Parts A, B, and C of this subchapter, referred to in subsecs. (a)(1) and (c)(3), are classified to sections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
 
 The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (h)(3), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see section 1(a) of Pub. L. 104–191, set out as a Short Title of 1996 Amendments note under section 201 of this title and Tables.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (b). Pub. L. 111–148 struck out “5-year” before “demonstration program” in introductory provisions.
+
+Subsec. (f). Pub. L. 111–148 struck out “5-year” before “period of the demonstration program”.
 

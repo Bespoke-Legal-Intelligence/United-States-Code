@@ -18,7 +18,7 @@ The Secretary shall exclude the following individuals and entities from particip
 
 #### (4) Felony conviction relating to controlled substance
 
-&emsp;Any individual or entity that has been convicted for an offense which occurred after August 21, 1996, under Federal or State law, of a criminal offense consisting of a felony relating to the unlawful manufacture, distribution, prescription, or dispensing of a controlled substance.
+&emsp;Any individual or entity that has been convicted for an offense which occurred after August 21, 1996, under Federal or State law, of a criminal offense consisting of a felony relating to the unlawful manufacture, distribution,prescription, or dispensing of a controlled substance.
 
 #### (b) Permissive exclusion
 
@@ -36,9 +36,13 @@ The Secretary may exclude the following individuals and entities from participat
 
 &emsp;&emsp;(B) of a criminal offense relating to fraud, theft, embezzlement, breach of fiduciary responsibility, or other financial misconduct with respect to any act or omission in a program (other than a health care program) operated by or financed in whole or in part by any Federal, State, or local government agency.
 
-#### (2) Conviction relating to obstruction of an investigation
+#### (2) Conviction relating to obstruction of an investigation or audit
 
-&emsp;Any individual or entity that has been convicted, under Federal or State law, in connection with the interference with or obstruction of any investigation into any criminal offense described in paragraph (1) or in subsection (a) of this section.
+&emsp;Any individual or entity that has been convicted, under Federal or State law, in connection with the interference with or obstruction of any investigation or audit related to—
+
+&emsp;&emsp;(i) any offense described in paragraph (1) or in subsection (a); or
+
+&emsp;&emsp;(ii) the use of funds received, directly or indirectly, from any Federal health care program (as defined in section 1320a–7b(f) of this title).
 
 #### (3) Misdemeanor conviction relating to controlled substance
 
@@ -72,7 +76,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 &emsp;&emsp;(C) is—
 
-&emsp;&emsp;&emsp;(i) a health maintenance organization (as defined in section 1396b(m) of this title)providing items and services under a State plan approved under subchapter XIX of this chapter, or
+&emsp;&emsp;&emsp;(i) a health maintenance organization (as defined in section 1396b(m) of this title) providing items and services under a State plan approved under subchapter XIX of this chapter, or
 
 &emsp;&emsp;&emsp;(ii) an entity furnishing services under a waiver approved under section 1396n(b)(1) of this title,
 
@@ -116,7 +120,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 #### (11) Failure to supply payment information
 
-&emsp;Any individual or entity furnishing items or services for which payment may be made under subchapter XVIII of this chapter or a State health care program that fails to provide such information as the Secretary or the appropriate State agency finds necessary to determine whether such payments are or were due and the amounts thereof, or has refused to permit such examination of its records by or on behalf of the Secretary or that agency as may be necessary to verify such information.
+&emsp;Any individual or entity furnishing, ordering, referring for furnishing, or certifying the need for items or services for which payment may be made under subchapter XVIII of this chapter or a State health care program that fails to provide such information as the Secretary or the appropriate State agency finds necessary to determine whether such payments are or were due and the amounts thereof, or has refused to permit such examination of its records by or on behalf of the Secretary or that agency as may be necessary to verify such information.
 
 #### (12) Failure to grant immediate access
 
@@ -152,6 +156,10 @@ The Secretary may exclude the following individuals and entities from participat
 
 &emsp;&emsp;(ii) that has been excluded from participation under a program under subchapter XVIII of this chapter or under a State health care program.
 
+#### (16) Making false statements or misrepresentation of material facts
+
+&emsp;Any individual or entity that knowingly makes or causes to be made any false statement, omission, or misrepresentation of a material fact in any application, agreement, bid, or contract to participate or enroll as a provider of services or supplier under a Federal health care program (as defined in section 1320a–7b(f) of this title), including Medicare Advantage organizations under part C of subchapter XVIII, prescription drug plan sponsors under part D of subchapter XVIII, medicaid managed care organizations under subchapter XIX, and entities that apply to participate as providers of services or suppliers in such managed care organizations and such plans.
+
 #### (c) Notice, effective date, and period of exclusion
 
 (1) An exclusion under this section or under section 1320a–7a of this title shall be effective at such time and upon such reasonable notice to the public and to the individual or entity excluded as may be specified in regulations consistent with paragraph (2).
@@ -168,7 +176,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 (3)(A) The Secretary shall specify, in the notice of exclusion under paragraph (1) and the written notice under section 1320a–7a of this title, the minimum period (or, in the case of an exclusion of an individual under subsection (b)(12) of this section or in the case described in subparagraph (G), the period) of the exclusion.
 
-(B) Subject to subparagraph (G), in the case of an exclusion under subsection (a) of this section, the minimum period of exclusion shall be not less than five years, except that, upon the request of the administrator of a Federal health care program (as defined in section 1320a–7b(f) of this title) who determines that the exclusion would impose a hardship on individuals entitled to benefits under part A of subchapter XVIII of this chapter or enrolled under part B of such subchapter, or both, the Secretary may, after consulting with the Inspector General of the Department of Health and Human Services, waive the exclusion under subsection (a)(1), (a)(3), or (a)(4) of this section with respect to that program in the case of an individual or entity that is the sole community physician or sole source of essential specialized services in a community. The Secretary's decision whether to waive the exclusion shall not be reviewable.
+(B) Subject to subparagraph (G), in the case of an exclusion under subsection (a) of this section, the minimum period of exclusion shall be not less than five years, except that, upon the request of the administrator of a Federal health care program (as defined in section 1320a–7b(f) of this title) who determines that the exclusion would impose a hardship on beneficiaries (as defined in section 1320a–7a(i)(5) of this title) of that program, the Secretary may, after consulting with the Inspector General of the Department of Health and Human Services, waive the exclusion under subsection (a)(1), (a)(3), or (a)(4) of this section with respect to that program in the case of an individual or entity that is the sole community physician or sole source of essential specialized services in a community. The Secretary's decision whether to waive the exclusion shall not be reviewable.
 
 (C) In the case of an exclusion of an individual under subsection (b)(12) of this section, the period of the exclusion shall be equal to the sum of—
 
@@ -222,6 +230,8 @@ The Secretary shall—
 
 (3) The provisions of section 405(h) of this title shall apply with respect to this section and sections 1320a–7a, 1320a–8, and 1320c–5 of this title to the same extent as it is applicable with respect to subchapter II of this chapter, except that, in so applying such section and section 405(<i>l</i>) of this title, any reference therein to the Commissioner of Social Security shall be considered a reference to the Secretary.
 
+(4) The provisions of subsections (d) and (e) of section 405 of this title shall apply with respect to this section to the same extent as they are applicable with respect to subchapter II. The Secretary may delegate the authority granted by section 405(d) of this title (as made applicable to this section) to the Inspector General of the Department of Health and Human Services for purposes of any investigation under this section.
+
 #### (g) Application for termination of exclusion
 
 (1) An individual or entity excluded (or directed to be excluded) from participation under this section or section 1320a–7a of this title may apply to the Secretary, in the manner specified by the Secretary in regulations and at the end of the minimum period of exclusion provided under subsection (c)(3) of this section and at such other times as the Secretary may provide, for termination of the exclusion effected under this section or section 1320a–7a of this title.
@@ -242,7 +252,7 @@ For purposes of this section and sections 1320a–7a and 1320a–7b of this titl
 
 &emsp;(2) any program receiving funds under subchapter V of this chapter or from an allotment to a State under such subchapter,
 
-&emsp;(3) any program receiving funds under subchapter XX of this chapter or from an allotment to a State under such subchapter, or
+&emsp;(3) any program receiving funds under division A <sup>2</sup> of subchapter XX of this chapter or from an allotment to a State under such division, or
 
 &emsp;(4) a State child health plan approved under subchapter XXI of this chapter.
 
@@ -278,17 +288,29 @@ For purposes of subsection (b)(8)(A)(iii) of this section:
 
 &emsp;(2) The term “member of the household” means, with respect to any person, any individual sharing a common abode as part of a single family unit with the person, including domestic employees and others who live together as a family unit, but not including a roomer or boarder.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128, as added Pub. L. 96–499, title IX, §913(a), Dec. 5, 1980, 94 Stat. 2619; amended Pub. L. 97–35, title XXI, §2105(b), title XXIII, §2353(k), Aug. 13, 1981, 95 Stat. 791, 873; Pub. L. 98–369, div. B, title III, §2333(a), (b), July 18, 1984, 98 Stat. 1089; Pub. L. 99–509, title IX, §9317(c), Oct. 21, 1986, 100 Stat. 2008; Pub. L. 100–93, §2, Aug. 18, 1987, 101 Stat. 680; Pub. L. 100–203, title IV, §4118(e)(2)–(5), Dec. 22, 1987, 101 Stat. 1330–155, as amended Pub. L. 100–360, title IV, §411(k)(10)(D), July 1, 1988, 102 Stat. 795; Pub. L. 100–360, title IV, §411(k)(10)(C), July 1, 1988, 102 Stat. 795; Pub. L. 101–239, title VI, §6411(d)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §4164(b)(3), Nov. 5, 1990, 104 Stat. 1388–102; Pub. L. 102–54, §13(q)(3)(A)(ii), June 13, 1991, 105 Stat. 279; Pub. L. 103–296, title I, §108(b)(9), title II, §206(b)(2), Aug. 15, 1994, 108 Stat. 1483, 1513; Pub. L. 104–191, title II, §§211–213, Aug. 21, 1996, 110 Stat. 2003–2005; Pub. L. 105–33, title IV, §§4301, 4303(a), 4331(c), 4901(b)(2), Aug. 5, 1997, 111 Stat. 382, 396, 570; Pub. L. 108–173, title IX, §949, Dec. 8, 2003, 117 Stat. 2426.)
+(Aug. 14, 1935, ch. 531, title XI, §1128, as added Pub. L. 96–499, title IX, §913(a), Dec. 5, 1980, 94 Stat. 2619; amended Pub. L. 97–35, title XXI, §2105(b), title XXIII, §2353(k), Aug. 13, 1981, 95 Stat. 791, 873; Pub. L. 98–369, div. B, title III, §2333(a), (b), July 18, 1984, 98 Stat. 1089; Pub. L. 99–509, title IX, §9317(c), Oct. 21, 1986, 100 Stat. 2008; Pub. L. 100–93, §2, Aug. 18, 1987, 101 Stat. 680; Pub. L. 100–203, title IV, §4118(e)(2)–(5), Dec. 22, 1987, 101 Stat. 1330–155, as amended Pub. L. 100–360, title IV, §411(k)(10)(D), July 1, 1988, 102 Stat. 795; Pub. L. 100–360, title IV, §411(k)(10)(C), July 1, 1988, 102 Stat. 795; Pub. L. 101–239, title VI, §6411(d)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §4164(b)(3), Nov. 5, 1990, 104 Stat. 1388–102; Pub. L. 102–54, §13(q)(3)(A)(ii), June 13, 1991, 105 Stat. 279; Pub. L. 103–296, title I, §108(b)(9), title II, §206(b)(2), Aug. 15, 1994, 108 Stat. 1483, 1513; Pub. L. 104–191, title II, §§211–213, Aug. 21, 1996, 110 Stat. 2003–2005; Pub. L. 105–33, title IV, §§4301, 4303(a), 4331(c), 4901(b)(2), Aug. 5, 1997, 111 Stat. 382, 396, 570; Pub. L. 108–173, title IX, §949, Dec. 8, 2003, 117 Stat. 2426; Pub. L. 111–148, title VI, §§6402(d)(1), (e), (k), 6406(c), 6408(c), 6703(d)(3)(A), Mar. 23, 2010, 124 Stat. 757, 759, 763, 769, 772, 804.)
 
 #### References in Text
 
-Parts A and B of subchapter XVIII of this chapter, referred to in subsec. (c)(3)(B), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
+Division A of subchapter XX, referred to in subsec. (h)(3), was in the original a reference to subtitle 1 of title XX, which was translated as if referring to subtitle A of title XX of the Social Security Act, to reflect the probable intent of Congress. Title XX of the Act, enacting subchapter XX of this chapter, does not contain a subtitle 1.
 
 #### Amendments
 
-2003—Subsec. (c)(3)(B). Pub. L. 108–173 amended first sentence generally. Prior to amendment, first sentence read as follows: “Subject to subparagraph (G), in the case of an exclusion under subsection (a) of this section, the minimum period of exclusion shall be not less than five years, except that, upon the request of a State, the Secretary may waive the exclusion under subsection (a)(1) of this section in the case of an individual or entity that is the sole community physician or sole source of essential specialized services in a community.”
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–148, §6408(c), inserted “or audit” after “investigation” in the heading, substituted “investigation or audit related to—” for “investigation into any criminal offense described in paragraph (1) or in subsection (a) of this section.”, and added cls. (i) and (ii).
 
-1997—Subsec. (a). Pub. L. 105–33, §4331(c)(1), substituted “any Federal health care program (as defined in section 1320a–7b(f) of this title)” for “any program under subchapter XVIII of this chapter and shall direct that the following individuals and entities be excluded from participation in any State health care program (as defined in subsection (h) of this section)” in introductory provisions.
+Subsec. (b)(11). Pub. L. 111–148, §6406(c), inserted “, ordering, referring for furnishing, or certifying the need for” after “furnishing”.
+
+Subsec. (b)(16). Pub. L. 111–148, §6402(d)(1), added par. (16).
+
+Subsec. (c)(3)(B). Pub. L. 111–148, §6402(k), substituted “beneficiaries (as defined in section 1320a–7a(i)(5) of this title) of that program” for “individuals entitled to benefits under part A of subchapter XVIII of this chapter or enrolled under part B of such subchapter, or both”.
+
+Subsec. (f)(4). Pub. L. 111–148, §6402(e), added par. (4).
+
+Subsec. (h)(3). Pub. L. 111–148, §6703(d)(3)(A), inserted “division A of” before “subchapter XX” and substituted “such division” for “such subchapter”.
+
+<b>2003</b>—Subsec. (c)(3)(B). Pub. L. 108–173 amended first sentence generally. Prior to amendment, first sentence read as follows: “Subject to subparagraph (G), in the case of an exclusion under subsection (a) of this section, the minimum period of exclusion shall be not less than five years, except that, upon the request of a State, the Secretary may waive the exclusion under subsection (a)(1) of this section in the case of an individual or entity that is the sole community physician or sole source of essential specialized services in a community.”
+
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §4331(c)(1), substituted “any Federal health care program (as defined in section 1320a–7b(f) of this title)” for “any program under subchapter XVIII of this chapter and shall direct that the following individuals and entities be excluded from participation in any State health care program (as defined in subsection (h) of this section)” in introductory provisions.
 
 Subsec. (b). Pub. L. 105–33, §4331(c)(2), substituted “any Federal health care program (as defined in section 1320a–7b(f) of this title)” for “any program under subchapter XVIII of this chapter and may direct that the following individuals and entities be excluded from participation in any State health care program” in introductory provisions.
 
@@ -304,7 +326,7 @@ Subsec. (h)(4). Pub. L. 105–33, §4901(b)(2), added par. (4).
 
 Subsec. (j). Pub. L. 105–33, §4303(a)(2), added subsec. (j).
 
-1996—Subsec. (a)(3). Pub. L. 104–191, §211(a)(1), added par. (3).
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–191, §211(a)(1), added par. (3).
 
 Subsec. (a)(4). Pub. L. 104–191, §211(b)(1), added par. (4).
 
@@ -316,27 +338,27 @@ Subsec. (b)(15). Pub. L. 104–191, §213, added par. (15).
 
 Subsec. (c)(3)(D) to (F). Pub. L. 104–191, §212, added subpars. (D) to (F).
 
-1994—Subsec. (b)(7). Pub. L. 103–296, §206(b)(2)(A), substituted “section 1320a–7a, 1320a–7b, or 1230a–8 of this title” for “section 1320a–7a of this title or section 1320a–7b of this title”.
+<b>1994</b>—Subsec. (b)(7). Pub. L. 103–296, §206(b)(2)(A), substituted “section 1320a–7a, 1320a–7b, or 1230a–8 of this title” for “section 1320a–7a of this title or section 1320a–7b of this title”.
 
 Subsec. (b)(8)(B)(ii). Pub. L. 103–296, §206(b)(2)(B), inserted “or 1320a–8” after “section 1320a–7a”.
 
-Subsec. (f)(1). Pub. L. 103–296, §108(b)(9)(A), inserted before period at end “, except that, in so applying such sections and section 405(<i>l</i>) of this title, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered areference to the Secretary or the Department of Health and Human Services, respectively”.
+Subsec. (f)(1). Pub. L. 103–296, §108(b)(9)(A), inserted before period at end “, except that, in so applying such sections and section 405(<i>l</i>) of this title, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively”.
 
 Subsec. (f)(3). Pub. L. 103–296, §206(b)(2)(C), inserted “, 1320a–8,” after “sections 1320a–7a”.
 
 Pub. L. 103–296, §108(b)(9)(B), inserted before period at end “, except that, in so applying such section and section 405(<i>l</i>) of this title, any reference therein to the Commissioner of Social Security shall be considered a reference to the Secretary”.
 
-1991—Subsec. (b)(5)(A). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Subsec. (b)(5)(A). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1990—Subsec. (b)(9). Pub. L. 101–508 substituted “section 1320a–3 of this title, section 1320a–3a of this title,” for “section 1320a–3 of this title”.
+<b>1990</b>—Subsec. (b)(9). Pub. L. 101–508 substituted “section 1320a–3 of this title, section 1320a–3a of this title,” for “section 1320a–3 of this title”.
 
-1989—Subsec. (b)(4)(A). Pub. L. 101–239 inserted “or the right to apply for or renew such a license” after “lost such a license”.
+<b>1989</b>—Subsec. (b)(4)(A). Pub. L. 101–239 inserted “or the right to apply for or renew such a license” after “lost such a license”.
 
-1988—Pub. L. 100–360, §411(k)(10)(D), added Pub. L. 100–203, §4118(e)(3)–(5), which amended subsec. (b)(8)(A)(i), (d)(1), (3)(A), and (i). See 1987 Amendment notes below.
+<b>1988</b>—Pub. L. 100–360, §411(k)(10)(D), added Pub. L. 100–203, §4118(e)(3)–(5), which amended subsec. (b)(8)(A)(i), (d)(1), (3)(A), and (i). See 1987 Amendment notes below.
 
 Subsec. (d)(3)(B)(ii). Pub. L. 100–360, §411(k)(10)(C), struck out “under a program” after “longer than the period of exclusion”.
 
-1987—Pub. L. 100–93 amended section generally, substituting subsecs. (a) to (i) for former subsecs. (a) to (f).
+<b>1987</b>—Pub. L. 100–93 amended section generally, substituting subsecs. (a) to (i) for former subsecs. (a) to (f).
 
 Subsec. (b)(8)(A)(i). Pub. L. 100–203, §4118(e)(3), as added by Pub. L. 100–360, §411(k)(10)(D), inserted at beginning “who has a direct or indirect ownership or control interest of 5 percent or more in the entity or”.
 
@@ -352,15 +374,29 @@ Pub. L. 100–203, §4118(e)(5)(B), as added by Pub. L. 100–360, §411(k)(10)(
 
 Subsec. (i)(4). Pub. L. 100–203, §4118(e)(5)(C), as added by Pub. L. 100–360, §411(k)(10)(D), substituted “first offender, deferred adjudication, or other arrangement or program” for “first offender or other program”.
 
-1986—Subsec. (f). Pub. L. 99–509 added subsec. (f).
+<b>1986</b>—Subsec. (f). Pub. L. 99–509 added subsec. (f).
 
-1984—Subsecs. (b) to (e). Pub. L. 98–369 added subsec. (b), redesignated former subsecs. (b) to (d) as (c) to (e), respectively, and in subsec. (e) substituted “Any person or entity” for “Any person” and “(a), (b), or (c)” for “(a) or (b)”.
+<b>1984</b>—Subsecs. (b) to (e). Pub. L. 98–369 added subsec. (b), redesignated former subsecs. (b) to (d) as (c) to (e), respectively, and in subsec. (e) substituted “Any person or entity” for “Any person” and “(a), (b), or (c)” for “(a) or (b)”.
 
-1981—Subsec. (a)(1). Pub. L. 97–35, §2105(b)(1), struck out “, for such period as he may deem appropriate,” after “subchapter XVIII of this chapter”.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–35, §2105(b)(1), struck out “, for such period as he may deem appropriate,” after “subchapter XVIII of this chapter”.
 
 Subsec. (a)(2). Pub. L. 97–35, §2353(k), substituted in subpar. (A) “subchapter XIX of this chapter” for “subchapter XIX or subchapter XX of this chapter,” and in subpar. (B) “subchapter XIX of this chapter” for “subchapter XIX or subchapter XX of this chapter”.
 
 Subsecs. (b) to (d). Pub. L. 97–35, §2105(b)(2)–(4), added subsec. (b), redesignated former subsecs. (b) and (c) as (c) and (d), respectively, and in subsec. (d) as so redesignated substituted “subsection (a) or (b)” for “subsection (a)”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title VI, §6406(d), Mar. 23, 2010, 124 Stat. 769, provided that: “The amendments made by this section \[amending this section and sections 1395u and 1395cc of this title\] shall apply to orders, certifications, and referrals made on or after January 1, 2010.”
+
+Pub. L. 111–148, title VI, §6408(d), Mar. 23, 2010, 124 Stat. 772, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1320a–7a and 1395w–27 of this title\] shall apply to acts committed on or after January 1, 2010.
+
+“(2)
+
+Exception.—The amendments made by subsection (b)(1) \[amending section 1395w–27 of this title\] take effect on the date of enactment of this Act \[Mar. 23, 2010\].”
 
 #### Effective Date of 1997 Amendment
 
@@ -380,7 +416,7 @@ Section 206(b)(3) of Pub. L. 103–296 provided that: “The amendments made by 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable with respect to items or services furnished on or after Jan. 1, 1993, in the case of items or services furnished by a provider who, on or before Nov. 5, 1990, has furnished items or services for which payment may be made under part B of subchapter XVIII of this chapter, or Jan. 1, 1992, in the case of items or services furnished by any other provider, see section 4164(b)(4) of Pub. L. 101–508, set out as an Effective Date note under section 1320a–3a of this title.
+Amendment by Pub. L. 101–508 applicable with respect to items or services furnished on or after Jan. 1,1993, in the case of items or services furnished by a provider who, on or before Nov. 5, 1990, has furnished items or services for which payment may be made under part B of subchapter XVIII of this chapter, or Jan. 1, 1992, in the case of items or services furnished by any other provider, see section 4164(b)(4) of Pub. L. 101–508, set out as an Effective Date note under section 1320a–3a of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -439,4 +475,6 @@ Section 2333(c) of Pub. L. 98–369 provided that: “The amendments made by thi
 Amendment by section 2353(k) of Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explicitly provided, see section 2354 of Pub. L. 97–35, set out as an Effective Date note under section 1397 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “1320a–7a(i)(7)”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

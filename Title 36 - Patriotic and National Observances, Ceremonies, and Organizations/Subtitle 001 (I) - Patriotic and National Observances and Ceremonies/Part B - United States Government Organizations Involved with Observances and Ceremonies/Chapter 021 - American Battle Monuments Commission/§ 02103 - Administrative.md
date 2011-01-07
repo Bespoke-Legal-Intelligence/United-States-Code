@@ -52,7 +52,7 @@ Financial Statements and Audits.—(1) The Commission shall have a system of fin
 
 &emsp;(A) by March 1 of each year (beginning with 1998)—
 
-&emsp;&emsp;(i) prepare a financial statement which covers all accounts and associated activitiesof the Commission for the prior fiscal year and is consistent with the requirements of section 3515 of title 31; and
+&emsp;&emsp;(i) prepare a financial statement which covers all accounts and associated activities of the Commission for the prior fiscal year and is consistent with the requirements of section 3515 of title 31; and
 
 &emsp;&emsp;(ii) submit the financial statement, together with a narrative summary, to the Committees on Veterans’ Affairs of the Senate and House of Representatives; and
 
@@ -88,7 +88,11 @@ Historical and Revision Notes
 
 Mar. 4, 1923, ch. 283, §12 (1st–3d, last pars.), 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, §§2(c), (d), 4(c)(1), (2), 70 Stat. 640, 641.
 
-2103(b)D36:137.DFeb. 11, 1927, ch. 104, §1 (5th proviso in par. under heading “American Battle Monuments Commission”), 44 Stat. 1071.
+2103(b)
+
+36:137.
+
+Feb. 11, 1927, ch. 104, §1 (5th proviso in par. under heading “American Battle Monuments Commission”), 44 Stat. 1071.
 
 &nbsp;
 
@@ -160,9 +164,9 @@ In subsection (c), the words “in its discretion”, “by contract or otherwis
 
 #### Amendments
 
-2002—Subsec. (a)(1). Pub. L. 107–217 substituted “section 3111 of title 40” for “section 355 of the Revised Statutes (40 U.S.C. 255)”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–217 substituted “section 3111 of title 40” for “section 355 of the Revised Statutes (40 U.S.C. 255)”.
 
-1999—Subsec. (d). Pub. L. 106–117, §604(3)(C), substituted “Chairman” for “chairman”.
+<b>1999</b>—Subsec. (d). Pub. L. 106–117, §604(3)(C), substituted “Chairman” for “chairman”.
 
 Subsec. (e). Pub. L. 106–117, §602, amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Commission may receive State, local, or private amounts to carry out this chapter. The Commission shall deposit the amounts with the Treasurer of the United States. The Treasurer shall keep the amounts in separate accounts and shall disburse the amounts on vouchers approved by the chairman.”
 

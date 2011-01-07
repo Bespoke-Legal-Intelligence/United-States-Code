@@ -26,7 +26,7 @@ As finally enacted, part of act July 9, 1947, ch. 211, title IV, 61 Stat. 306, w
 
 #### Amendments
 
-1962—Pub. L. 87–845 substituted “furnished to justices, judges, clerks of courts, and United States attorneys of the United States and its territories and possessions, and other officers of the United States or an agency thereof” for “furnished to justices and judges of the United States and of the Territorial Courts, United States attorneys, clerks of courts, and other officers of the United States”.
+<b>1962</b>—Pub. L. 87–845 substituted “furnished to justices, judges, clerks of courts, and United States attorneys of the United States and its territories and possessions, and other officers of the United States or an agency thereof” for “furnished to justices and judges of the United States and of the Territorial Courts, United States attorneys, clerks of courts, and other officers of the United States”.
 
 #### Effective Date of 1962 Amendment
 

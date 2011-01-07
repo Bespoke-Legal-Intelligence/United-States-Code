@@ -38,7 +38,7 @@ The President shall conduct a study to determine (1) whether adequate private in
 
 #### (d) Issues, alternatives, and policy considerations involving selection of locations for waste treatment, storage, and disposal facilities
 
-The Administrator of the Environmental Protection Agency shall, in consultation with other Federal agencies and appropriate representatives of State and local governments and nongovernmental agencies, conduct a study and report to the Congress within two years of December 11, 1980, on the issues, alternatives, and policy considerations involved in the selection of locations for hazardous waste treatment, storage, and disposal facilities. This study shall include—
+The Administrator of the Environmental Protection Agency shall, in consultation with other Federal agencies and appropriate representatives of State and local governments and nongovernmental agencies, conduct a study and report to the Congress within two years of December 11, 1980, on the issues, alternatives, and policy considerations involved in the selection oflocations for hazardous waste treatment, storage, and disposal facilities. This study shall include—
 
 &emsp;(A) an assessment of current and projected treatment, storage, and disposal capacity needs and shortfalls for hazardous waste by management category on a State-by-State basis;
 
@@ -156,11 +156,11 @@ The Solid Waste Disposal Act, referred to in subsecs. (a)(2) and (d)(C), is titl
 
 #### Codification
 
-Subsec. (h) of this section, which required the Administrator of the Environmental Protection Agency to submit an annual report to Congress of such Agency on the progress achieved in implementing this chapter during the preceding fiscal year, required the Inspector General of the Agency to review the report for reasonableness and accuracy and submit to Congress, as a part of that report, a report on the results of the review, and required the appropriate authorizing committees of Congress, after receiving those reports, to conduct oversight hearings to ensure that this chapter is being implemented according to the purposes of thischapter and congressional intent in enacting this chapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 5th item on page 164 of House Document No. 103–7.
+Subsec. (h) of this section, which required the Administrator of the Environmental Protection Agency to submit an annual report to Congress of such Agency on the progress achieved in implementing this chapter during the preceding fiscal year, required the Inspector General of the Agency to review the report for reasonableness and accuracy and submit to Congress, as a part of that report, a report on the results of the review, and required the appropriate authorizing committees of Congress, after receiving those reports, to conduct oversight hearings to ensure that this chapter is being implemented according to the purposes of this chapter and congressional intent in enacting this chapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 5th item on page 164 of House Document No. 103–7.
 
 #### Amendments
 
-1986—Subsec. (a)(1)(H). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (a)(1)(H). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Subsec. (c)(1). Pub. L. 99–499, §107(d)(3), inserted at end “Notwithstanding the failure of the President to promulgate the regulations required under this subsection on the required date, the President shall promulgate such regulations not later than 6 months after October 17, 1986.”
 

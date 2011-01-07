@@ -28,7 +28,7 @@
 
 &emsp;(4) a transaction by a stockbroker in a security that is executed after a transaction of a kind specified in paragraph (1) or (2) of this subsection in such security and before the expiration of 40 days after the first date on which such security was bona fide offered to the public by the issuer or by or through an underwriter, if such stockbroker provides, at the time of or before such transaction by such stockbroker, a disclosure statement approved under section 1125 of this title, and, if the court orders, information supplementing such disclosure statement.
 
-(b)(1) Except as provided in paragraph (2) of this subsection and except with respect to ordinary trading transactions of an entity that is not an issuer, an entity is an underwriter under section 2(11) of the Securities Act of 1933,<sup>1</sup> if such entity—
+(b)(1) Except as provided in paragraph (2) of this subsection and except with respect to ordinary trading transactions of an entity that is not an issuer, an entity is an underwriter under section 2(a)(11) of the Securities Act of 1933, if such entity—
 
 &emsp;(A) purchases a claim against, interest in, or claim for an administrative expense in the case concerning, the debtor, if such purchase is with a view to distribution of any security received or to be received in exchange for such a claim or interest;
 
@@ -40,9 +40,9 @@
 
 &emsp;&emsp;(ii) under an agreement made in connection with the plan, with the consummation of the plan, or with the offer or sale of securities under the plan; or
 
-&emsp;(D) is an issuer, as used in such section 2(11), with respect to such securities.
+&emsp;(D) is an issuer, as used in such section 2(a)(11), with respect to such securities.
 
-(2) An entity is not an underwriter under section 2(11) of the Securities Act of 1933 <sup>1</sup> or under paragraph (1) of this subsection with respect to an agreement that provides only for—
+(2) An entity is not an underwriter under section 2(a)(11) of the Securities Act of 1933 or under paragraph (1) of this subsection with respect to an agreement that provides only for—
 
 &emsp;(A)(i) the matching or combining of fractional interests in securities offered or sold under the plan into whole interests; or
 
@@ -50,13 +50,13 @@
 
 &emsp;(B) the purchase or sale for such entities of such fractional or whole interests as are necessary to adjust for any remaining fractional interests after such matching.
 
-(3) An entity other than an entity of the kind specified in paragraph (1) of this subsection is not an underwriter under section 2(11) of the Securities Act of 1933 <sup>1</sup> with respect to any securities offered or sold to such entity in the manner specified in subsection (a)(1) of this section.
+(3) An entity other than an entity of the kind specified in paragraph (1) of this subsection is not an underwriter under section 2(a)(11) of the Securities Act of 1933 with respect to any securities offered or sold to such entity in the manner specified in subsection (a)(1) of this section.
 
 (c) An offer or sale of securities of the kind and in the manner specified under subsection (a)(1) of this section is deemed to be a public offering.
 
 (d) The Trust Indenture Act of 1939 does not apply to a note issued under the plan that matures not later than one year after the effective date of the plan.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2639; Pub. L. 98–353, title III, §516, July 10, 1984, 98 Stat. 387; Pub. L. 103–394, title V, §501(d)(33), Oct. 22, 1994, 108 Stat. 4146.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2639; Pub. L. 98–353, title III, §516, July 10, 1984, 98 Stat. 387; Pub. L. 103–394, title V, §501(d)(33), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 111–327, §2(a)(37), Dec. 22, 2010, 124 Stat. 3561.)
 
 #### Historical and Revision Notes
 
@@ -82,7 +82,7 @@ Paragraph (2) of subsection (a) exempts the offer or sale of any security of the
 
 Paragraph (3) of subsection (a) exempts the offer or sale of any security that arises from the exercise of a subscription right or from the exercise of a conversion privilege when such subscription right or conversion privilege was issued under a plan. This exemption is necessary in order to enhance the marketability of subscription rights or conversion privileges, including warrants, offered or sold under a plan. This is present law.
 
-Paragraph (4) of subsection (a) exempts sales of portfolio securities, excluding securities of the debtor or itsaffiliate, owned by the debtor on the date of the filing of the petition. The purpose of this exemption is to allow the debtor or trustee to sell or distribute, without allowing manipulation schemes, restricted portfolio securities held or acquired by the debtor. Subparagraph (B) of section 1145(a)(4) limits the exemption to securities of a company that is required to file reports under section 13 of the Securities Act \[15 U.S.C. 78m\] and that is in compliance with all requirements for the continuance of trading those securities. This limitation effectively prevents selling into the market “cats and dogs” of a nonreporting company. Subparagraph (C) places a limitation on the amount of restricted securities that may be distributed. During the case, the trustee may sell up to 4 percent of each class of restricted securities at any time during the first 2 years and 1 percent during any 180-day period thereafter. This relaxation of the resale rules for debtors in holding restricted securities is similar to but less extensive than the relaxation in SEC Rule 114(c)(3)(v) for the estates of deceased holders of securities.
+Paragraph (4) of subsection (a) exempts sales of portfolio securities, excluding securities of the debtor or its affiliate, owned by the debtor on the date of the filing of the petition. The purpose of this exemption is to allow the debtor or trustee to sell or distribute, without allowing manipulation schemes, restricted portfolio securities held or acquired by the debtor. Subparagraph (B) of section 1145(a)(4) limits the exemption to securities of a company that is required to file reports under section 13 of the Securities Act \[15 U.S.C. 78m\] and that is in compliance with all requirements for the continuance of trading those securities. This limitation effectively prevents selling into the market “cats and dogs” of a nonreporting company. Subparagraph (C) places a limitation on the amount of restricted securities that may be distributed. During the case, the trustee may sell up to 4 percent of each class of restricted securities at any time during the first 2 years and 1 percent during any 180-day period thereafter. This relaxation of the resale rules for debtors in holding restricted securities is similar to but less extensive than the relaxation in SEC Rule 114(c)(3)(v) for the estates of deceased holders of securities.
 
 Paragraph (5) contains an exemption for brokers and dealers (stockbrokers, as defined in title 11) akin to the exemption provided by section 4(3)(A) of the Securities Act of 1933 \[15 U.S.C. 77d(3)(A)\]. Instead of being required to supply a prospectus, however, the stockbroker is required to supply the approved disclosure statement, and if the court orders, information supplementing the disclosure statement. Under present law, the stockholder is not required to supply anything.
 
@@ -104,11 +104,11 @@ Section 5 of the Securities Act of 1933, referred to in subsec. (a), is classifi
 
 Sections 13 and 15(d) of the Securities Exchange Act of 1934, referred to in subsec. (a)(3)(B)(i), are classified to sections 78m and 78<i>o</i>(d), respectively, of Title 15, Commerce and Trade.
 
-Section 2(11) of the Securities Act of 1933, referred to in subsec. (b), was redesignated section 2(a)(11) of the Act by Pub. L. 104–290, title I, §106(a)(1), Oct. 11, 1996, 110 Stat. 3424, and is classified to section 77b(a)(11) of Title 15, Commerce and Trade.
-
 The Trust Indenture Act of 1939, referred to in subsec. (d), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, as amended, which is classified generally to subchapter III (§77aaa et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77aaa of Title 15 and Tables.
 
 #### Amendments
+
+2010—Subsec. (b). Pub. L. 111–327 substituted “2(a)(11)” for “2(11)” wherever appearing.
 
 1994—Subsec. (a). Pub. L. 103–394, §501(d)(33)(A), in introductory provisions struck out “(15 U.S.C. 77e)” after “Act of 1933” and substituted “do not apply” for “does not apply” and in par. (3)(B)(i) struck out “(15 U.S.C. 78m or 78<i>o</i>(d))” after “Act of 1934”.
 
@@ -139,6 +139,4 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

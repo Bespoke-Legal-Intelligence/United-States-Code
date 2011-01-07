@@ -50,7 +50,7 @@ No amount paid or incurred during the taxable year of an employee by an employer
 
 #### (1) In general
 
-&emsp;For purposes of this section a dependent care assistance program is a separate written plan of an employer for the exclusive benefit of his employees to provide such employees with dependent care assistance which meets the requirements of paragraphs (2) through (8) of this subsection. If any plan would qualify as a dependent care assistance program but for a failure to meet the requirements of this subsection, then, notwithstanding such failure, such plan shall be treated as a dependent care assistance program in the case of employees who are not highly compensated employees.
+&emsp;For purposes of this section a dependent care assistance program is a separate writtenplan of an employer for the exclusive benefit of his employees to provide such employees with dependent care assistance which meets the requirements of paragraphs (2) through (8) of this subsection. If any plan would qualify as a dependent care assistance program but for a failure to meet the requirements of this subsection, then, notwithstanding such failure, such plan shall be treated as a dependent care assistance program in the case of employees who are not highly compensated employees.
 
 #### (2) Discrimination
 
@@ -126,7 +126,7 @@ For purposes of this section—
 
 #### (6) Utilization test not applicable
 
-&emsp;A dependent care assistance program shall not be held or considered to fail to meet any requirements of subsection (d) (other than paragraphs (4) and (8) thereof) merely because of utilization rates for the different types of assistance made available under the program.
+&emsp;A dependent care assistance program shall not be held or considered to fail to meet anyrequirements of subsection (d) (other than paragraphs (4) and (8) thereof) merely because of utilization rates for the different types of assistance made available under the program.
 
 #### (7) Disallowance of excluded amounts as credit or deduction
 
@@ -150,7 +150,7 @@ For purposes of this section—
 
 > &emsp;In the case of a failure to provide the information required under the preceding sentence, the preceding sentence shall not apply if it is shown that the taxpayer exercised due diligence in attempting to provide the information so required.
 
-(Added Pub. L. 97–34, title I, §124(e)(1), Aug. 13, 1981, 95 Stat. 198; amended Pub. L. 97–448, title I,§101(e), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 98–369, div. A, title IV, §474(r)(6), July 18, 1984, 98 Stat. 839; Pub. L. 99–514, title I, §104(b)(1), title XI, §§1114(b)(4), 1151(c)(5), (f), (g)(4), 1163(a), (b), Oct. 22, 1986, 100 Stat. 2104, 2450, 2503, 2506, 2507, 2510; Pub. L. 100–485, title VII, §703(c)(2), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 100–647, title I, §1011B(a)(14), (15), (18), (30), (31)(A), (c)(1), (2)(A), title III, §3021(a)(14), Nov. 10, 1988, 102 Stat. 3485, 3487–3489, 3631; Pub. L. 101–140, title II, §§203(a)(1), (2), 204(a)(1)–(3)(C), Nov. 8, 1989, 103 Stat. 830, 832; Pub. L. 101–239, title VII, §7811(h)(2), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 104–188, title I, §1431(c)(1)(B), Aug. 20, 1996, 110 Stat. 1803; Pub. L. 108–311, title II, §207(12), Oct. 4, 2004, 118 Stat. 1177.)
+(Added Pub. L. 97–34, title I, §124(e)(1), Aug. 13, 1981, 95 Stat. 198; amended Pub. L. 97–448, title I, §101(e), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 98–369, div. A, title IV, §474(r)(6), July 18, 1984, 98 Stat. 839; Pub. L. 99–514, title I, §104(b)(1), title XI, §§1114(b)(4), 1151(c)(5), (f), (g)(4), 1163(a), (b), Oct. 22, 1986, 100 Stat. 2104, 2450, 2503, 2506, 2507, 2510; Pub. L. 100–485, title VII, §703(c)(2), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 100–647, title I, §1011B(a)(14), (15), (18), (30), (31)(A), (c)(1), (2)(A), title III, §3021(a)(14), Nov. 10, 1988, 102 Stat. 3485, 3487–3489, 3631; Pub. L. 101–140, title II, §§203(a)(1), (2), 204(a)(1)–(3)(C), Nov. 8, 1989, 103 Stat. 830, 832; Pub. L. 101–239, title VII, §7811(h)(2), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 104–188, title I, §1431(c)(1)(B), Aug. 20, 1996, 110 Stat. 1803; Pub. L. 108–311, title II, §207(12), Oct. 4, 2004, 118 Stat. 1177.)
 
 #### Codification
 
@@ -162,11 +162,11 @@ A prior section 129 was renumbered section 140 of this title.
 
 #### Amendments
 
-2004—Subsec. (c)(2). Pub. L. 108–311 substituted “152(f)(1)” for “151(c)(3)”.
+<b>2004</b>—Subsec. (c)(2). Pub. L. 108–311 substituted “152(f)(1)” for “151(c)(3)”.
 
-1996—Subsec. (d)(8)(B). Pub. L. 104–188 substituted “section 414(q)(4)” for “section 414(q)(7)”.
+<b>1996</b>—Subsec. (d)(8)(B). Pub. L. 104–188 substituted “section 414(q)(4)” for “section 414(q)(7)”.
 
-1989—Subsec. (a). Pub. L. 101–239 struck out at end “For purposes of the preceding sentence, marital status shall be determined under the rules of paragraphs (3) and (4) of section 21(e).”
+<b>1989</b>—Subsec. (a). Pub. L. 101–239 struck out at end “For purposes of the preceding sentence, marital status shall be determined under the rules of paragraphs (3) and (4) of section 21(e).”
 
 Subsec. (d)(1). Pub. L. 101–140, §204(a)(3)(B), substituted “paragraphs (2) through (8)” for “paragraphs (2) through (7)”.
 
@@ -194,7 +194,7 @@ Subsec. (d)(9). Pub. L. 101–140, §204(a)(2)(A), added par. (9).
 
 Subsec. (e)(6). Pub. L. 101–140, §204(a)(3)(C), substituted “(8)” for “(7)”.
 
-1988—Subsec. (a)(2). Pub. L. 100–647, §1011B(c)(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The aggregate amount excluded from the gross income of the taxpayer under this section for any taxable year shall not exceed $5,000 ($2,500 in the case of a separate return by a married individual).”
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–647, §1011B(c)(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The aggregate amount excluded from the gross income of the taxpayer under this section for any taxable year shall not exceed $5,000 ($2,500 in the case of a separate return by a married individual).”
 
 Subsec. (d)(1)(B). Pub. L. 100–647, §1011B(a)(30), substituted “(7)” for “(6)”, see Codification note above.
 
@@ -216,7 +216,7 @@ Subsec. (e)(8). Pub. L. 100–647, §1011B(c)(1), in introductory provisions, in
 
 Subsec. (e)(9). Pub. L. 100–485 added par. (9).
 
-1986—Subsec. (a). Pub. L. 99–514, §1163(a), substituted “Exclusion” for “In general” in heading and amended text generally. Prior to amendment, text read as follows: “Gross income of an employee does not include amounts paid or incurred by the employer for dependent care assistance provided to such employee if the assistance is furnished pursuant to a program which is described in subsection (d).”
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1163(a), substituted “Exclusion” for “In general” in heading and amended text generally. Prior to amendment, text read as follows: “Gross income of an employee does not include amounts paid or incurred by the employer for dependent care assistance provided to such employee if the assistance is furnished pursuant to a program which is described in subsection (d).”
 
 Subsec. (c)(1). Pub. L. 99–514, §104(b)(1)(A), substituted “section 151(c)” for “section 151(e)”.
 
@@ -226,7 +226,7 @@ Subsec. (d)(1). Pub. L. 99–514, §1151(c)(5)(A), added par. (1) and struck out
 
 Subsec. (d)(2). Pub. L. 99–514, §1114(b)(4), substituted “highly compensated employees (within the meaning of section 414(q))” for “officers, owners, or highly compensated,”.
 
-Subsec. (d)(3). Pub. L. 99–514, §1151(g)(4), substituted “For purposes of this paragraph, there may be excludedfrom consideration employees who may be excluded from consideration under section 89(h).” for “For purposes of this paragraph, there shall be excluded from consideration employees not included in the program who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that dependent care benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.”
+Subsec. (d)(3). Pub. L. 99–514, §1151(g)(4), substituted “For purposes of this paragraph, there may be excluded from consideration employees who may be excluded from consideration under section 89(h).” for “For purposes of this paragraph, there shall be excluded from consideration employees not included in the program who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that dependent care benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.”
 
 Subsec. (d)(6), (7). Pub. L. 99–514, §1151(c)(5)(B), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “
 
@@ -236,13 +236,13 @@ Subsec. (d)(8). Pub. L. 99–514, §1151(f), added par. (8).
 
 Subsec. (e)(8). Pub. L. 99–514, §1163(b), added par. (8).
 
-1984—Subsec. (b)(2). Pub. L. 98–369, §474(r)(6)(A), substituted “section 21(d)(2)” for “section 44A(e)(2)”.
+<b>1984</b>—Subsec. (b)(2). Pub. L. 98–369, §474(r)(6)(A), substituted “section 21(d)(2)” for “section 44A(e)(2)”.
 
 Subsec. (e)(1). Pub. L. 98–369, §474(r)(6)(B), substituted “section 21(b)(2)” for “section 44A(c)(2)”.
 
 Subsec. (e)(2). Pub. L. 98–369, §474(r)(6)(C), substituted “section 32(c)(2)” for “section 43(c)(2)”.
 
-1983—Subsec. (d)(1). Pub. L. 97–448, §101(e)(1)(C), substituted “paragraphs (2) through (7)” for “paragraphs (2) through (6)”.
+<b>1983</b>—Subsec. (d)(1). Pub. L. 97–448, §101(e)(1)(C), substituted “paragraphs (2) through (7)” for “paragraphs (2) through (6)”.
 
 Subsec. (d)(2). Pub. L. 97–448, §101(e)(1)(A), added par. (2). Former par. (2) redesignated (3).
 
@@ -284,7 +284,7 @@ Section 1011B(c)(2)(C) of Pub. L. 100–647 provided that:
 
 “(ii) A taxpayer may elect to have the amendment made by subparagraph (A) \[amending this section\] apply to taxable years beginning in 1987.
 
-“(iii) In the case of a taxpayer not making an election under clause (ii), any dependent care assistance provided in a taxable year beginning in 1987 with respect to which reimbursement was not received in such taxable year shall be treated as provided in the taxpayer's first taxable year beginning after December 31, 1987.”
+“(iii) In the case of a taxpayer not making an election under clause (ii), any dependent care assistance provided in a taxable year beginning in 1987 with respect to which reimbursement was not received in suchtaxable year shall be treated as provided in the taxpayer's first taxable year beginning after December 31, 1987.”
 
 Section 3021(d) of Pub. L. 100–647 provided that:
 
@@ -318,7 +318,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date
 
-Section applicable to taxable years beginning after Dec. 31, 1981, see section 124(f) of Pub. L. 97–34, set outas an Effective Date of 1981 Amendment note under section 21 of this title.
+Section applicable to taxable years beginning after Dec. 31, 1981, see section 124(f) of Pub. L. 97–34, set out as an Effective Date of 1981 Amendment note under section 21 of this title.
 
 #### Regulations
 

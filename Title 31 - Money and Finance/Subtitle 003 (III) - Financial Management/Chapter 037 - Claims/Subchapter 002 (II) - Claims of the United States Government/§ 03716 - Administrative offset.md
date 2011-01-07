@@ -46,7 +46,7 @@
 
 > For purposes of the preceding sentence, the amount of a periodic benefit payment shall be the amount after any reduction or deduction required under the laws authorizing the program under which such payment is authorized to be made (including any reduction or deduction to recover any overpayment under such program).
 
-(B) The Secretary of the Treasury shall exempt from administrative offset under this subsection payments under means-tested programs when requested by the head of the respective agency. The Secretary may exempt other payments from administrative offset under this subsection upon the written request of the head of a payment certifying agency. A written request for exemption of other payments must providejustification for the exemption under standards prescribed by the Secretary. Such standards shall give due consideration to whether administrative offset would tend to interfere substantially with or defeat the purposes of the payment certifying agency's program. The Secretary shall report to the Congress annually on exemptions granted under this section.
+(B) The Secretary of the Treasury shall exempt from administrative offset under this subsection payments under means-tested programs when requested by the head of the respective agency. The Secretary may exempt other payments from administrative offset under this subsection upon the written request of the head of a payment certifying agency. A written request for exemption of other payments must provide justification for the exemption under standards prescribed by the Secretary. Such standards shall give due consideration to whether administrative offset would tend to interfere substantially with or defeat the purposes of the payment certifying agency's program. The Secretary shall report to the Congress annually on exemptions granted under this section.
 
 (C) The provisions of sections 205(b)(1), 809(a)(1), and 1631(c)(1) of the Social Security Act shall not apply to any administrative offset executed pursuant to this section against benefits authorized by title II, VIII, or title XVI of the Social Security Act, respectively.
 
@@ -100,7 +100,7 @@
 
 (3) In applying this section with respect to any debt owed to a State, subsection (c)(3)(A) shall not apply.
 
-(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2471; amended Pub. L. 104–134, title III, §31001(c)(1), (d)(2), (e), (f), Apr. 26, 1996, 110 Stat.1321–359, 1321–362; Pub. L. 106–169, title II, §251(b)(10), Dec. 14, 1999, 113 Stat. 1856; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–234, title XIV, §14219(a), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14219(a), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–275, title I, §189(b), July 15, 2008, 122 Stat. 2590.)
+(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2471; amended Pub. L. 104–134, title III, §31001(c)(1), (d)(2), (e), (f), Apr. 26, 1996, 110 Stat. 1321–359, 1321–362; Pub. L. 106–169, title II, §251(b)(10), Dec. 14, 1999, 113 Stat. 1856; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–234, title XIV, §14219(a), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14219(a), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–275, title I, §189(b), July 15, 2008, 122 Stat. 2590.)
 
 Historical and Revision Notes
 
@@ -144,7 +144,7 @@ The Higher Education Act of 1965, referred to in subsec. (c)(1)(C), is Pub. L. 8
 
 The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Titles II, VIII, XVI, and XVIII of the Act are classified generally to subchapters II (§401 et seq.), VIII (§1001 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42. Sections 205(b)(1), 809(a)(1), and 1631(c)(1) of the Act are classified to sections 405(b)(1), 1009(a)(1), and 1383(c)(1), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Black Lung Benefits Act, referred to in subsec. (c)(3)(A)(i)(II), is title IV of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 792, as amended. Part B of the Act is classified generally to part B (§921 et seq.) of subchapter IV of chapter 22 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see section 901(b) of Title 30 and Tables.
+The Black Lung Benefits Act, referred to in subsec. (c)(3)(A)(i)(II), is title IV of Pub. L. 91–173, Dec. 30, 1969,83 Stat. 792, as amended. Part B of the Act is classified generally to part B (§921 et seq.) of subchapter IV of chapter 22 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see section 901(b) of Title 30 and Tables.
 
 The enactment of this subparagraph, referred to in subsec. (c)(3)(D), refers to the date of enactment of Pub. L. 110–275, which was approved July 15, 2008.
 
@@ -156,7 +156,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (c)(1)(A). Pub. L. 110–275, §189(b)(1), inserted “the Department of Health and Human Services,” after “United States Postal Service,”.
+<b>2008</b>—Subsec. (c)(1)(A). Pub. L. 110–275, §189(b)(1), inserted “the Department of Health and Human Services,” after “United States Postal Service,”.
 
 Subsec. (c)(3)(D). Pub. L. 110–275, §189(b)(2), added subpar. (D).
 
@@ -166,11 +166,11 @@ Subsec. (e). Pub. L. 110–246, §14219(a), amended subsec. (e) generally. Prior
 
 &emsp;“(2) when a statute explicitly prohibits using administrative offset or setoff to collect the claim or type of claim involved.”
 
-2004—Subsec. (b)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1999—Subsec. (c)(3)(C). Pub. L. 106–169 substituted “sections 205(b)(1), 809(a)(1),” for “sections 205(b)(1)” and “title II, VIII,” for “either title II”.
+<b>1999</b>—Subsec. (c)(3)(C). Pub. L. 106–169 substituted “sections 205(b)(1), 809(a)(1),” for “sections 205(b)(1)” and “title II, VIII,” for “either title II”.
 
-1996—Subsec. (a). Pub. L. 104–134, §31001(c)(1), substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–134, §31001(c)(1), substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” in introductory provisions.
 
 Subsec. (b). Pub. L. 104–134, §31001(d)(2)(A), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Before collecting a claim by administrative offset under subsection (a) of this section, the head of an executive or legislative agency must prescribe regulations on collecting by administrative offset based on—
 
@@ -200,7 +200,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Pub. L. 110–234, title XIV, §14219(b), May 22, 2008, 122 Stat. 1483, and Pub. L. 110–246, §4(a), title XIV, §14219(b), June 18, 2008, 122 Stat. 1664, 2245, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any debt outstanding on or after the date of the enactment of this Act \[June 18, 2008\].”
 
-\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a)of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 #### Offsets From Social Security Payments
 

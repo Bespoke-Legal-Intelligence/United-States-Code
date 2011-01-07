@@ -12,5 +12,5 @@ The following provisions of subchapter VI of this chapter apply to guarantees is
 
 #### Amendments
 
-2001—Pub. L. 107–107 substituted “subchapter” for “subtitle” in two places in introductory provisions.
+<b>2001</b>—Pub. L. 107–107 substituted “subchapter” for “subtitle” in two places in introductory provisions.
 

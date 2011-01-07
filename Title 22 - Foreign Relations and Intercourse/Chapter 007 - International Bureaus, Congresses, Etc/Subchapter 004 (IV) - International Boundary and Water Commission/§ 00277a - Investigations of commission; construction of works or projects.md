@@ -8,11 +8,11 @@ The President is authorized and empowered to construct, operate, and maintain on
 
 #### Amendments
 
-1990—Pub. L. 101–246 inserted reference to drainage of transboundary storm waters.
+<b>1990</b>—Pub. L. 101–246 inserted reference to drainage of transboundary storm waters.
 
-1935—Act Aug. 19, 1935, amended section generally.
+<b>1935</b>—Act Aug. 19, 1935, amended section generally.
 
-1927—Act Mar. 3, 1927, increased appropriation from $20,000 to $50,000.
+<b>1927</b>—Act Mar. 3, 1927, increased appropriation from $20,000 to $50,000.
 
 #### Change of Name
 

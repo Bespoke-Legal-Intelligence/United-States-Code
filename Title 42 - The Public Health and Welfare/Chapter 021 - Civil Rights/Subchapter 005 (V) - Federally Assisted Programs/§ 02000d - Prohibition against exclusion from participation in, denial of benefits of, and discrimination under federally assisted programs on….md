@@ -70,7 +70,7 @@ Sec. 4. <i>Administrative enforcement.</i>
 
 (b) In addition, the designated investigating office may provide appropriate agency officials with a recommendation for any corrective and/or remedial action. The appropriate officials shall consider such recommendation and implement corrective and/or remedial action by the agency, when appropriate. Nothing in this order authorizes monetary relief to the complainant as a form of remedial or corrective action by an executive department or agency.
 
-4–403. Any action to discipline an employee who violates this order or its implementing rules, regulations, policies, or guidance, including removal from employment, where appropriate, shall be taken in compliance with otherwise applicable procedures, including the Civil Service Reform Act of 1978, Public Law No. 95–454, 92 Stat. 1111 \[see Tables for classification\].
+4–403. Any action to discipline an employee who violates this order or its implementing rules, regulations, policies, or guidance, including removal from employment, where appropriate, shall be taken in compliance with otherwise applicable procedures, including theCivil Service Reform Act of 1978, Public Law No. 95–454, 92 Stat. 1111 \[see Tables for classification\].
 
 Sec. 5. <i>Implementation and Agency Responsibilities.</i>
 

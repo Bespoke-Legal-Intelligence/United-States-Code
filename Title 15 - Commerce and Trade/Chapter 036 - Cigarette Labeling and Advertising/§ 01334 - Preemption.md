@@ -22,11 +22,11 @@ The effective date of the Family Smoking Prevention and Tobacco Control Act, ref
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–31, §202(a), substituted “Except to the extent the Secretary requires additional or different statements on any cigarette package by a regulation, by an order, by a standard, by an authorization to market a product, or by a condition of marketing a product, pursuant to the Family Smoking Prevention and Tobacco Control Act (and the amendments made by that Act), or as required under section 387c(a)(2) of title 21 or section 387t(a) of title 21, no” for “No”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–31, §202(a), substituted “Except to the extent the Secretary requires additional or different statements on any cigarette package by a regulation, by an order, by a standard, by an authorization to market a product, or by a condition of marketing a product, pursuant to the Family Smoking Prevention and Tobacco Control Act (and the amendments made by that Act), or as required under section 387c(a)(2) of title 21 or section 387t(a) of title 21, no” for “No”.
 
 Subsec. (c). Pub. L. 111–31, §203, added subsec. (c).
 
-1970—Subsec. (b). Pub. L. 91–222 substituted provision that no requirement or prohibition based on smoking and health should be imposed under State law with respect to the advertising or promotion of any cigarettes which packages are labeled in conformity with the provisions of this chapter for provision that no statement relating to smoking and health should be required in the advertising of any cigarettes which packages are labeled in conformity with the provisions of this chapter.
+<b>1970</b>—Subsec. (b). Pub. L. 91–222 substituted provision that no requirement or prohibition based on smoking and health should be imposed under State law with respect to the advertising or promotion of any cigarettes which packages are labeled in conformity with the provisions of this chapter for provision that no statement relating to smoking and health should be required in the advertising of any cigarettes which packages are labeled in conformity with the provisions of this chapter.
 
 Subsecs. (c), (d). Pub. L. 91–222 struck out subsecs. (c) and (d) relating to the authority of the Federal Trade Commission with respect to unfair or deceptive advertising acts or practices, and reports to Congress by the Secretary of Health, Education, and Welfare and the Federal Trade Commission. See sections 1336 and 1337 of this title.
 

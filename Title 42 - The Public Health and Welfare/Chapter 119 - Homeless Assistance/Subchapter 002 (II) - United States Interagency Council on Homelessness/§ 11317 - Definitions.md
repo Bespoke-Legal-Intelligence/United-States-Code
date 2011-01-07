@@ -10,5 +10,5 @@ For purposes of this subchapter:
 
 #### Amendments
 
-2004—Par. (1). Pub. L. 108–199 substituted “United States Interagency Council on Homelessness” for “Interagency Council on the Homeless”.
+<b>2004</b>—Par. (1). Pub. L. 108–199 substituted “United States Interagency Council on Homelessness” for “Interagency Council on the Homeless”.
 

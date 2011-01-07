@@ -10,7 +10,7 @@
 
 &emsp;&emsp;&emsp;(i) assesses its involvement, support, and participation in the development, revision, and implementation of the global nuclear detection architecture; and
 
-&emsp;&emsp;&emsp;(ii) examines and evaluates components of the global nuclear detection architecture (including associated strategies and acquisition plans) relating to the operations of that agency, office, or entity, to determine whether such components incorporate and address current threat assessments, scenarios, or intelligence analyses developed by the Director of National Intelligence or other agencies regarding threats relating to nuclear or radiological weapons of mass destruction; and
+&emsp;&emsp;&emsp;(ii) examines and evaluates components of the global nuclear detection architecture (including associated strategies and acquisition plans) relating to the operations of that agency, office, or entity, to determine whether such components incorporate and address current threat assessments, scenarios, or intelligence analyses developed by the Director of National Intelligence or other agencies regarding threats relating to nuclear or radiological weapons of mass destruction;
 
 &emsp;&emsp;(B) each agency, office, or entity deploying or operating any nuclear or radiological detection technology under the global nuclear detection architecture—
 
@@ -18,7 +18,15 @@
 
 &emsp;&emsp;&emsp;(ii) identifies performance deficiencies and operational or technical deficiencies in nuclear or radiological detection technologies deployed under the global nuclear detection architecture; and
 
-&emsp;&emsp;&emsp;(iii) assesses the capacity of that agency, office, or entity to implement the responsibilities of that agency, office, or entity under the global nuclear detection architecture.
+&emsp;&emsp;&emsp;(iii) assesses the capacity of that agency, office, or entity to implement the responsibilities of that agency, office, or entity under the global nuclear detection architecture; and
+
+&emsp;&emsp;(C) the Director of the Domestic Nuclear Detection Office and each of the relevant departments that are partners in the National Technical Forensics Center—
+
+&emsp;&emsp;&emsp;(i) include, as part of the assessments, evaluations, and reviews required under this paragraph, each office's or department's activities and investments in support of nuclear forensics and attribution activities and specific goals and objectives accomplished during the previous year pursuant to the national strategic five-year plan for improving the nuclear forensic and attribution capabilities of the United States required under section 1036 of the National Defense Authorization Act for Fiscal Year 2010;
+
+&emsp;&emsp;&emsp;(ii) attaches, as an appendix to the Joint Interagency Annual Review, the most current version of such strategy and plan; and
+
+&emsp;&emsp;&emsp;(iii) includes a description of new or amended bilateral and multilateral agreements and efforts in support of nuclear forensics and attribution activities accomplished during the previous year.
 
 #### (2) Technology
 
@@ -44,5 +52,13 @@
 
 In this section, the term “global nuclear detection architecture” means the global nuclear detection architecture developed under section 592 of this title.
 
-(Pub. L. 107–296, title XIX, §1907, as added Pub. L. 110–53, title XI, §1103(a), Aug. 3, 2007, 121 Stat. 379.)
+(Pub. L. 107–296, title XIX, §1907, as added Pub. L. 110–53, title XI, §1103(a), Aug. 3, 2007, 121 Stat. 379; amended Pub. L. 111–140, §4(b), Feb. 16, 2010, 124 Stat. 35.)
+
+#### References in Text
+
+Section 1036 of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (a)(1)(C)(i), is section 1036 of Pub. L. 111–84, Oct. 28, 2009, 123 Stat. 2190, which is not classified to the Code. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+2010—Subsec. (a)(1)(C). Pub. L. 111–140 added subpar. (C).
 

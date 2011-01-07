@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1984—Pub. L. 98–473, title II, §1003(b), Oct. 12, 1984, 98 Stat. 2138, added item 373.
+<b>1984</b>—Pub. L. 98–473, title II, §1003(b), Oct. 12, 1984, 98 Stat. 2138, added item 373.
 
 
 ---

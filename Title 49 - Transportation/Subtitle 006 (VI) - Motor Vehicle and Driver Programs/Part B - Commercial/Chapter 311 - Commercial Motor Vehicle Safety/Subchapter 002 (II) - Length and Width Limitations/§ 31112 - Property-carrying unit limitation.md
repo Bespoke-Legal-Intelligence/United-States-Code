@@ -34,7 +34,7 @@ Special Rules for Wyoming, Ohio, Alaska, Iowa, and Nebraska.—In addition to th
 
 Additional Limitations.—(1) A commercial motor vehicle combination whose operation in a State is not prohibited under subsections (b) and (c) of this section may continue to operate in the State on highways described in subsection (b) only if at least in compliance with all State laws, regulations, limitations, and conditions, including routing-specific and configuration-specific designations and all other restrictions in force in the State on June 1, 1991. However, subject to regulations prescribed by the Secretary under subsection (g)(2) of this section, the State may make minor adjustments of a temporary and emergency nature to route designations and vehicle operating restrictions in effect on June 1, 1991, for specific safety purposes and road construction.
 
-(2) This section does not prevent a State from further restricting in any way or prohibiting the operation of any commercial motor vehicle combination subject to this section, except that a restriction or prohibition shall be consistentwith this section and sections 31113(a) and (b) and 31114 of this title.
+(2) This section does not prevent a State from further restricting in any way or prohibiting the operation of any commercial motor vehicle combination subject to this section, except that a restriction or prohibition shall be consistent with this section and sections 31113(a) and (b) and 31114 of this title.
 
 (3) A State making a minor adjustment of a temporary and emergency nature as authorized by paragraph (1) of this subsection or further restricting or prohibiting the operation of a commercial motor vehicle combination as authorized by paragraph (2) of this subsection shall advise the Secretary not later than 30 days after the action. The Secretary shall publish a notice of the action in the Federal Register.
 
@@ -126,15 +126,15 @@ In subsection (e)(4), the words “Except as revised under this paragraph or par
 
 #### Amendments
 
-2005—Subsec. (c). Pub. L. 109–59, §4112(b), substituted “Iowa, and Nebraska” for “and Iowa” in heading.
+<b>2005</b>—Subsec. (c). Pub. L. 109–59, §4112(b), substituted “Iowa, and Nebraska” for “and Iowa” in heading.
 
 Subsec. (c)(5). Pub. L. 109–59, §4112(a), added par. (5).
 
-1997—Subsec. (d)(4). Pub. L. 105–66 substituted “February 28, 1998” for “September 30, 1997”.
+<b>1997</b>—Subsec. (d)(4). Pub. L. 105–66 substituted “February 28, 1998” for “September 30, 1997”.
 
-1996—Subsec. (d)(4). Pub. L. 104–205, which directed amendment of this section by adding a new subsection designated par. (4) without specifying where, was executed by adding par. (4) to subsec. (d) to reflect the probable intent of Congress.
+<b>1996</b>—Subsec. (d)(4). Pub. L. 104–205, which directed amendment of this section by adding a new subsection designated par. (4) without specifying where, was executed by adding par. (4) to subsec. (d) to reflect the probable intent of Congress.
 
-1995—Subsec. (c). Pub. L. 104–59 substituted “Alaska, and Iowa” for “and Alaska” in heading and added par. (4).
+<b>1995</b>—Subsec. (c). Pub. L. 104–59 substituted “Alaska, and Iowa” for “and Alaska” in heading and added par. (4).
 
 <i><sup>1</sup></i><i> See 1996 Amendment note below.</i>
 

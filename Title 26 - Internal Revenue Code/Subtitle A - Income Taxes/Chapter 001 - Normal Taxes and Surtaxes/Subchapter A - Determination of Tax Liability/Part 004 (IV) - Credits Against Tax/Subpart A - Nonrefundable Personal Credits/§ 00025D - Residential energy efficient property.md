@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (1) Qualified solar water heating property expenditure
 
-&emsp;The term “qualified solar water heating property expenditure” means an expenditurefor property to heat water for use in a dwelling unit located in the United States and used as a residence by the taxpayer if at least half of the energy used by such property for such purpose is derived from the sun.
+&emsp;The term “qualified solar water heating property expenditure” means an expenditure for property to heat water for use in a dwelling unit located in the United States and used as a residence by the taxpayer if at least half of the energy used by such property for such purpose is derived from the sun.
 
 #### (2) Qualified solar electric property expenditure
 
@@ -158,9 +158,9 @@ The credit allowed under this section shall not apply to property placed in serv
 
 #### Amendments
 
-2009—Subsec. (b)(1). Pub. L. 111–5, §1122(a)(1), amended par. (1) generally. Prior to amendment, par. (1) related to maximum credit with respect to qualified solar water heating property expenditures, qualified fuel cell property, qualified small wind energy property expenditures, and qualified geothermal heat pump property expenditures.
+<b>2009</b>—Subsec. (b)(1). Pub. L. 111–5, §1122(a)(1), amended par. (1) generally. Prior to amendment, par. (1) related to maximum credit with respect to qualified solar water heating property expenditures, qualified fuel cell property, qualified small wind energy property expenditures, and qualified geothermal heat pump property expenditures.
 
-Subsec. (e)(4). Pub. L. 111–5, §1122(a)(2)(A), added par. heading and introductory provisions and struck out former heading and introductory provisions. Former introductory provisions read as follows: “In the case of any dwelling unit which is jointly occupied and used during any calendar year as a residence by two or more individuals the following rules shall apply:”.
+Subsec. (e)(4). Pub. L. 111–5, §1122(a)(2)(A), added par. heading and introductory provisions and struck out former heading and introductory provisions. Former introductory provisions read as follows: “In the case of any dwelling unit which is jointly occupied and usedduring any calendar year as a residence by two or more individuals the following rules shall apply:”.
 
 Subsec. (e)(4)(A). Pub. L. 111–5, §1122(a)(2)(A), added subpar. (A) and struck out former subpar. (A) which related to maximum amount of expenditures allowed for credit in jointly occupied dwelling units with respect to qualified solar water heating property expenditures, qualified fuel cell property, qualified small wind energy property expenditures, and qualified geothermal heat pump property expenditures.
 
@@ -168,7 +168,7 @@ Subsec. (e)(4)(C). Pub. L. 111–5, §1122(a)(2)(B), struck out subpar. (C) whic
 
 Subsec. (e)(9). Pub. L. 111–5, §1103(b)(2)(B), struck out par. (9). Text read as follows: “For purposes of determining the amount of expenditures made by any individual with respect to any dwelling unit, there shall not be taken into account expenditures which are made from subsidized energy financing (as defined in section 48(a)(4)(C)).”
 
-2008—Subsec. (a)(4). Pub. L. 110–343, §106(c)(1), added par. (4).
+<b>2008</b>—Subsec. (a)(4). Pub. L. 110–343, §106(c)(1), added par. (4).
 
 Subsec. (a)(5). Pub. L. 110–343, §106(d)(1), added par. (5).
 
@@ -192,7 +192,7 @@ Subsec. (e)(4)(A)(v). Pub. L. 110–343, §106(d)(4), added cl. (v).
 
 Subsec. (g). Pub. L. 110–343, §106(a), substituted “December 31, 2016” for “December 31, 2008”.
 
-2006—Subsecs. (a)(1), (b)(1)(A). Pub. L. 109–432, §206(b)(1), substituted “solar electric property expenditures” for “photovoltaic property expenditures”.
+<b>2006</b>—Subsecs. (a)(1), (b)(1)(A). Pub. L. 109–432, §206(b)(1), substituted “solar electric property expenditures” for “photovoltaic property expenditures”.
 
 Subsec. (d)(2). Pub. L. 109–432, §206(b)(2), substituted “solar electric property expenditure” for “photovoltaic property expenditure” in heading and text.
 
@@ -200,9 +200,9 @@ Subsec. (e)(4)(A)(i). Pub. L. 109–432, §206(b)(1), substituted “solar elect
 
 Subsec. (g). Pub. L. 109–432, §206(a), substituted “2008” for “2007”.
 
-2005—Subsec. (b)(1). Pub. L. 109–135, §402(i)(1), inserted “(determined without regard to subsection (c))” after “subsection (a)” in introductory provisions.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–135, §402(i)(1), inserted “(determined without regard to subsection (c))” after “subsection (a)” in introductory provisions.
 
-Subsec. (c). Pub. L. 109–135, §402(i)(3)(E), (H), temporarily reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section), suchexcess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.” See Effective and Termination Dates of 2005 Amendment note below.
+Subsec. (c). Pub. L. 109–135, §402(i)(3)(E), (H), temporarily reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.” See Effective and Termination Dates of 2005 Amendment note below.
 
 Subsec. (e)(4)(A), (B). Pub. L. 109–135, §402(i)(2), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
 
@@ -218,15 +218,15 @@ Pub. L. 111–5, div. B, title I, §1122(b), Feb. 17, 2009, 123 Stat. 324, provi
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2007, except that amendment by section 106(b) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2008, see section 106(f)(1), (2) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 23 of this title.
+Amendment by Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2007, except that amendment by section 106(b) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2008, see section 106(f)(1), (2) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 36C of this title.
 
 #### Effective and Termination Dates of 2005 Amendment
 
-Amendment by section 402(i)(3)(E) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title.
+Amendment by section 402(i)(3)(E) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 36C of this title.
 
-Amendments by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which they relate, except that amendment by section 402(i)(3)(E) of Pub. L. 109–135 is applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
+Amendments by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which they relate, except that amendment by section 402(i)(3)(E) of Pub. L. 109–135 is applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 36C of this title.
 
 #### Effective Date
 
-Section applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1335(c) of Pub. L. 109–58, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
+Section applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1335(c) of Pub. L. 109–58, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
 

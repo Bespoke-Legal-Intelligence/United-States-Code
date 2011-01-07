@@ -2,7 +2,7 @@
 
 #### (a) Protection of rights
 
-(1) It is the sense of Congress that no student attending an institution of higher education on a full- or part-time basis should, on the basis of participation in protected speech or protected association, be excluded from participation in, be denied the benefits of, or be subjected to discrimination or official sanction under any education program, activity, or division of the institution directly or indirectly receiving financial assistance under this chapter, whether or not such program, activity, or division is sponsored or officially sanctioned by the institution.
+(1) It is the sense of Congress that no student attending an institution of higher education on a full- or part-time basis should, on the basis of participation in protected speech or protected association, be excluded from participation in, be denied the benefits of, or be subjected to discrimination or official sanction under any education program, activity, or division of the institution directly or indirectly receiving financial assistance under this chapter and part C of subchapter I of chapter 34 of title 42, whether or not such program, activity, or division is sponsored or officially sanctioned by the institution.
 
 (2) It is the sense of Congress that—
 
@@ -48,17 +48,13 @@ For the purposes of this section:
 
 (Pub. L. 89–329, title I, §112, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1591; amended Pub. L. 110–315, title I, §104, Aug. 14, 2008, 122 Stat. 3090.)
 
-#### References in Text
-
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
-
 #### Prior Provisions
 
 A prior section 1011a, Pub. L. 89–329, title I, §122, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 462, authorized grants to States, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–315, §104(1), designated existing provisions as par. (1) and added par. (2).
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §104(1), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (b)(1). Pub. L. 110–315, §104(2), inserted “, provided that the imposition of such sanction is done objectively and fairly” after “higher education”.
 

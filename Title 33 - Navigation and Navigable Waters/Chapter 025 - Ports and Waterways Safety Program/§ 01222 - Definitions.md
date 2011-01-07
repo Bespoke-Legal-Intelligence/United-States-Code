@@ -22,11 +22,11 @@ Presidential Proclamation No. 5928, referred to in par. (5), is set out under se
 
 #### Amendments
 
-2004—Par. (2). Pub. L. 108–293 inserted “, except that ‘Secretary’ means the Secretary of Transportation with respect to the application of this chapter to the Saint Lawrence Seaway” after “in which the Coast Guard is operating”.
+<b>2004</b>—Par. (2). Pub. L. 108–293 inserted “, except that ‘Secretary’ means the Secretary of Transportation with respect to the application of this chapter to the Saint Lawrence Seaway” after “in which the Coast Guard is operating”.
 
-1998—Par. (5). Pub. L. 105–383, which directed the amendment of section 102 of the Ports and Waterways Safety Act by adding par. (5), was executed to this section, which is section 3 of that act, to reflect the probable intent of Congress and the renumbering of section 102 as section 3 by Pub. L. 95–474.
+<b>1998</b>—Par. (5). Pub. L. 105–383, which directed the amendment of section 102 of the Ports and Waterways Safety Act by adding par. (5), was executed to this section, which is section 3 of that act, to reflect the probable intent of Congress and the renumbering of section 102 as section 3 by Pub. L. 95–474.
 
-1978—Pub. L. 95–474 substituted provision relating to definitions for provision defining “United States”, permitting higher State or local safety standards, and providing for consultation with appropriate agencies, the inapplicability of this chapter to the Panama Canal, delegation of powers with respect to the Saint Lawrence Seaway, and factors to be considered in issuance of regulations.
+<b>1978</b>—Pub. L. 95–474 substituted provision relating to definitions for provision defining “United States”, permitting higher State or local safety standards, and providing for consultation with appropriate agencies, the inapplicability of this chapter to the Panama Canal, delegation of powers with respect to the Saint Lawrence Seaway, and factors to be considered in issuance of regulations.
 
 #### Transfer of Functions
 

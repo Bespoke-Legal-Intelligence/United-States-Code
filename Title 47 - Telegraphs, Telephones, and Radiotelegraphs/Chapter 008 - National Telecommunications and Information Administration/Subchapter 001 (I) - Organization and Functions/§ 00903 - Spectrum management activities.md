@@ -66,7 +66,7 @@ Not later than 180 days after October 27, 1992, the Secretary of Commerce shall 
 
 #### Amendments
 
-1993—Subsec. (e). Pub. L. 103–66 added subsec. (e).
+<b>1993</b>—Subsec. (e). Pub. L. 103–66 added subsec. (e).
 
 #### Change of Name
 

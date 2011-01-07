@@ -14,7 +14,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(A) the spouse of any person who died of a service-connected disability,
 
-&emsp;&emsp;(B) the spouse of any member of the Armed Forces serving on active duty who, atthe time of application for assistance under this chapter, is listed, pursuant to section 556 of title 37 and regulations issued thereunder, by the Secretary concerned in one or more of the following categories and has been so listed for a total of more than ninety days: (i) missing in action, (ii) captured in line of duty by a hostile force, or (iii) forcibly detained or interned in line of duty by a foreign government or power, or
+&emsp;&emsp;(B) the spouse of any member of the Armed Forces serving on active duty who, at the time of application for assistance under this chapter, is listed, pursuant to section 556 of title 37 and regulations issued thereunder, by the Secretary concerned in one or more of the following categories and has been so listed for a total of more than ninety days: (i) missing in action, (ii) captured in line of duty by a hostile force, or (iii) forcibly detained or interned in line of duty by a foreign government or power, or
 
 &emsp;&emsp;(C) the spouse of any person who has a total disability permanent in nature resulting from a service-connected disability or the spouse of a veteran who died while a disability so evaluated was in existence.
 
@@ -40,17 +40,17 @@ Prior section 4101, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1243; Pub. L. 89�
 
 #### Amendments
 
-2002—Par. (7). Pub. L. 107–288, §5(c)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “The term ‘local employment service office’ means a service delivery point which has an intrinsic management structure and at which employment services are offered in accordance with the Wagner-Peyser Act.”
+<b>2002</b>—Par. (7). Pub. L. 107–288, §5(c)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “The term ‘local employment service office’ means a service delivery point which has an intrinsic management structure and at which employment services are offered in accordance with the Wagner-Peyser Act.”
 
 Par. (9). Pub. L. 107–288, §5(a)(1)(A), added par. (9).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 2001 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 2001 of this title as this section.
 
 Pars. (1) to (4). Pub. L. 102–83, §5(c)(1), substituted “4211(1)” for “2011(1)” in par. (1), “4211(2)” for “2011(2)” in par. (2), “4211(3)” for “2011(3)” in par. (3), and “4211(4)” for “2011(4)” in par. (4).
 
-1988—Pars. (7), (8). Pub. L. 100–323 added pars. (7) and (8).
+<b>1988</b>—Pars. (7), (8). Pub. L. 100–323 added pars. (7) and (8).
 
-1980—Par. (1). Pub. L. 96–466, §503(1), substituted provisions defining “special disabled veteran” for provisions that term “eligible veteran” meant a person who served in the active military, naval, or air service and who was discharged or released therefrom with other than a dishonorable discharge.
+<b>1980</b>—Par. (1). Pub. L. 96–466, §503(1), substituted provisions defining “special disabled veteran” for provisions that term “eligible veteran” meant a person who served in the active military, naval, or air service and who was discharged or released therefrom with other than a dishonorable discharge.
 
 Pars. (2) to (4). Pub. L. 96–466, §503(2), added pars. (2) to (4). Former pars. (2) and (3) redesignated (5) and (6), respectively.
 
@@ -58,11 +58,11 @@ Par. (5). Pub. L. 96–466, §§503(2), 801(h)(1), redesignated former par. (2) 
 
 Par. (6). Pub. L. 96–466, §§503(2), 801(h)(2), redesignated former par. (3) as (6) and inserted “the Commonwealth of the Northern Marianas Islands,” after “the Virgin Islands,”.
 
-1974—Pars. (2), (3). Pub. L. 93–508 added par. (2) and redesignated former par. (2) as (3).
+<b>1974</b>—Pars. (2), (3). Pub. L. 93–508 added par. (2) and redesignated former par. (2) as (3).
 
-1972—Pub. L. 92–540 substituted provisions defining “eligible veteran” and “State”, for provisions stating the Congressional declaration of purpose.
+<b>1972</b>—Pub. L. 92–540 substituted provisions defining “eligible veteran” and “State”, for provisions stating the Congressional declaration of purpose.
 
-1966—Pub. L. 89–358 inserted “or of service after January 31, 1955” after “veterans of any war”.
+<b>1966</b>—Pub. L. 89–358 inserted “or of service after January 31, 1955” after “veterans of any war”.
 
 #### Effective Date of 2002 Amendment
 
@@ -86,7 +86,7 @@ Section 601(b) of Pub. L. 92–540 provided that: “The provisions of title V o
 
 #### Savings Provision
 
-Section 1(e) of Pub. L. 87–675 provided that: “Claims for benefits under \[former\] sections 2001 through 2009 ofchapter 41 of title 38, United States Code, for any benefit week beginning before January 31, 1960, which claims are pending on the date these sections are repealed \[Sept. 19, 1962\], shall be adjudicated in the same manner and with the same effect as if the sections had not been repealed. For the purpose of administering the program with respect to such claims, all functions, powers, and duties conferred upon the Secretary of Labor by sections 2001 through 2009 are continued in effect, and all rules and regulations established by the Secretary of Labor pursuant to these sections, and in effect when the sections are repealed, shall remain in full force and effect until modified or suspended.”
+Section 1(e) of Pub. L. 87–675 provided that: “Claims for benefits under \[former\] sections 2001 through 2009 of chapter 41 of title 38, United States Code, for any benefit week beginning before January 31, 1960, which claims are pending on the date these sections are repealed \[Sept. 19, 1962\], shall be adjudicated in the same manner and with the same effect as if the sections had not been repealed. For the purpose of administering the program with respect to such claims, all functions, powers, and duties conferred upon the Secretary of Labor by sections 2001 through 2009 are continued in effect, and all rules and regulations established by the Secretary of Labor pursuant to these sections, and in effect when the sections are repealed, shall remain in full force and effect until modified or suspended.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

@@ -76,7 +76,7 @@ The final system plan shall set forth—
 
 &emsp;(2) the capital structure of the Corporation, based on the pro forma earnings of the Corporation as set forth, including such debt capitalization as shall be reasonably deemed to conform to the requirements of the public interest with respect to railroad debt securities, including the adequacy of coverage of fixed charges; and
 
-&emsp;(3) the manner in which employee stock ownership plans may, to the extent practicable, be utilized for meeting the capitalization requirements of the Corporation, taking into account (A) the relative cost savings compared to conventional methods of corporate finance; (B) the labor cost savings; (C) the potential for minimizing strikes and producing more harmonious relations between labor organizations and railway management; (D) the projected employee dividend incomes; (E) the impact on quality of service and prices to railway users; and (F) the promotion of the objectives of this chapter of creating a financially self-sustaining railway system in the region which also meets the service needs of the region and the Nation.
+&emsp;(3) the manner in which employee stock ownership plans may, to the extent practicable, be utilized for meeting the capitalization requirements of the Corporation, taking into account (A) the relative cost savings compared to conventional methods of corporate finance; (B) the labor cost savings; (C) the potential for minimizing strikes and producingmore harmonious relations between labor organizations and railway management; (D) the projected employee dividend incomes; (E) the impact on quality of service and prices to railway users; and (F) the promotion of the objectives of this chapter of creating a financially self-sustaining railway system in the region which also meets the service needs of the region and the Nation.
 
 #### (f) Value
 
@@ -114,9 +114,9 @@ Sections 762 and 763 of this title, referred to in subsec. (g), were repealed by
 
 #### Amendments
 
-1978—Subsec. (d)(5)(C). Pub. L. 95–611 substituted “3 years” for “900 days”.
+<b>1978</b>—Subsec. (d)(5)(C). Pub. L. 95–611 substituted “3 years” for “900 days”.
 
-1976—Subsec. (c)(1)(A). Pub. L. 94–210, §607(g), inserted proviso relating to notice by the Corporation to the Association.
+<b>1976</b>—Subsec. (c)(1)(A). Pub. L. 94–210, §607(g), inserted proviso relating to notice by the Corporation to the Association.
 
 Subsec. (c)(1)(B). Pub. L. 94–210, §607(f), inserted provision relating to alternative designations to be made under this paragraph.
 
@@ -144,7 +144,7 @@ Pub. L. 94–436, §4, added par. (7).
 
 Subsec. (j). Pub. L. 94–210, §607(q), added subsec. (j).
 
-1975—Subsec. (a)(1). Pub. L. 94–5 inserted “and express” after “rail”.
+<b>1975</b>—Subsec. (a)(1). Pub. L. 94–5 inserted “and express” after “rail”.
 
 #### Effective Date of 1978 Amendment
 

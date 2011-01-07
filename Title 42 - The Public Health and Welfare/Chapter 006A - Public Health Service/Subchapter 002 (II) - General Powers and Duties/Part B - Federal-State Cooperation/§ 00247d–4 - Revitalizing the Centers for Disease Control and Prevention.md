@@ -108,7 +108,7 @@
 
 #### (1) In general
 
-&emsp;To implement the network described in subsection (d), the Secretary may award grants to States or consortia of States to enhance the ability of such States or consortia of States to establish or operate a coordinated public health situational awareness system for regional or Statewide early detection of, rapid response to, and management of potentially catastrophic infectious disease outbreaks and public health emergencies, in collaboration with appropriate public health agencies, sentinel hospitals, clinical laboratories, pharmacies, poison control centers, other health care organizations, and animal health organizations within such States.
+&emsp;To implement the network described in subsection (d), the Secretary may award grants to States or consortia of States to enhance the ability of such States or consortia of States to establish or operate a coordinated public health situational awareness system for regional or Statewide early detection of, rapid response to, and management of potentially catastrophic infectious disease outbreaks and public health emergencies, in collaboration with appropriate public health agencies, sentinel hospitals, clinical laboratories, pharmacies, poison control centers, other healthcare organizations, and animal health organizations within such States.
 
 #### (2) Eligibility
 
@@ -166,7 +166,7 @@
 
 &emsp;&emsp;(E) evaluate ways to integrate the practice of telemedicine within the National Disaster Medical System; and
 
-&emsp;&emsp;(F) promote greater coordination among existing Federal interagency telemedicineand health information technology initiatives.
+&emsp;&emsp;(F) promote greater coordination among existing Federal interagency telemedicine and health information technology initiatives.
 
 #### (2) Report
 
@@ -180,11 +180,11 @@ There are authorized to be appropriated to carry out this section, such sums as 
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–417, §202(1), inserted “domestically and abroad” after “public health threats”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–417, §202(1), inserted “domestically and abroad” after “public health threats”.
 
 Subsec. (a)(3). Pub. L. 109–417, §204(b)(2), struck out “, taking into account evaluations under section 247d–2(a) of this title,” after “The Secretary” in introductory provisions.
 
 Subsecs. (d) to (g). Pub. L. 109–417, §202(2), added subsecs. (d) to (g).
 
-2002—Pub. L. 107–188 reenacted section catchline without change and amended text generally, substituting detailed provisions relating to facilities, capacities, and national communications and surveillance networks for provisions relating to findings of need for secure and modern facilities.
+<b>2002</b>—Pub. L. 107–188 reenacted section catchline without change and amended text generally, substituting detailed provisions relating to facilities, capacities, and national communications and surveillance networks for provisions relating to findings of need for secure and modern facilities.
 

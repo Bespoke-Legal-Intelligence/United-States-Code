@@ -1,0 +1,384 @@
+### §313. Federal Insurance Office
+
+(a)
+
+Establishment.—There is established within the Department of the Treasury the Federal Insurance Office.
+
+(b)
+
+Leadership.—The Office shall be headed by a Director, who shall be appointed by the Secretary of the Treasury. The position of Director shall be a career reserved position in the Senior Executive Service, as that position is defined under section 3132 of title 5, United States Code.
+
+(c)
+
+Functions.—
+
+&emsp;(1)
+
+Authority pursuant to direction of secretary.—The Office, pursuant to the direction of the Secretary, shall have the authority—
+
+&emsp;&emsp;(A) to monitor all aspects of the insurance industry, including identifying issues or gaps in the regulation of insurers that could contribute to a systemic crisis in the insurance industry or the United States financial system;
+
+&emsp;&emsp;(B) to monitor the extent to which traditionally underserved communities and consumers, minorities (as such term is defined in section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1811 note)), and low- and moderate-income persons have access to affordable insurance products regarding all lines of insurance, except health insurance;
+
+&emsp;&emsp;(C) to recommend to the Financial Stability Oversight Council that it designate an insurer, including the affiliates of such insurer, as an entity subject to regulation as a nonbank financial company supervised by the Board of Governors pursuant to title I of the Dodd-Frank Wall Street Reform and Consumer Protection Act;
+
+&emsp;&emsp;(D) to assist the Secretary in administering the Terrorism Insurance Program established in the Department of the Treasury under the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note);
+
+&emsp;&emsp;(E) to coordinate Federal efforts and develop Federal policy on prudential aspects of international insurance matters, including representing the United States, as appropriate, in the International Association of Insurance Supervisors (or a successor entity) and assisting the Secretary in negotiating covered agreements (as such term is defined in subsection (r));
+
+&emsp;&emsp;(F) to determine, in accordance with subsection (f), whether State insurance measures are preempted by covered agreements;
+
+&emsp;&emsp;(G) to consult with the States (including State insurance regulators) regarding insurance matters of national importance and prudential insurance matters of international importance; and
+
+&emsp;&emsp;(H) to perform such other related duties and authorities as may be assigned to the Office by the Secretary.
+
+&emsp;(2)
+
+Advisory functions.—The Office shall advise the Secretary on major domestic and prudential international insurance policy issues.
+
+&emsp;(3)
+
+Advisory capacity on council.—The Director shall serve in an advisory capacity on the Financial Stability Oversight Council established under the Financial Stability Act of 2010.
+
+(d)
+
+Scope.—The authority of the Office shall extend to all lines of insurance except—
+
+&emsp;(1) health insurance, as determined by the Secretary in coordination with the Secretary of Health and Human Services based on section 2791 of the Public Health Service Act (42 U.S.C. 300gg–91);
+
+&emsp;(2) long-term care insurance, except long-term care insurance that is included with life or annuity insurance components, as determined by the Secretary in coordination with the Secretary of Health and Human Services, and in the case of long-term care insurance that is included with such components, the Secretary shall coordinate with the Secretary of Health and Human Services in performing the functions of the Office; and
+
+&emsp;(3) crop insurance, as established by the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.).
+
+(e)
+
+Gathering of Information.—
+
+&emsp;(1)
+
+In general.—In carrying out the functions required under subsection (c), the Office may—
+
+&emsp;&emsp;(A) receive and collect data and information on and from the insurance industry and insurers;
+
+&emsp;&emsp;(B) enter into information-sharing agreements;
+
+&emsp;&emsp;(C) analyze and disseminate data and information; and
+
+&emsp;&emsp;(D) issue reports regarding all lines of insurance except health insurance.
+
+&emsp;(2)
+
+Collection of information from insurers and affiliates.—
+
+&emsp;&emsp;(A)
+
+In general.—Except as provided in paragraph (3), the Office may require an insurer, or any affiliate of an insurer, to submit such data or information as the Office may reasonably require in carrying out the functions described under subsection (c).
+
+&emsp;&emsp;(B)
+
+Rule of construction.—Notwithstanding any other provision of this section, for purposes of subparagraph (A), the term “insurer” means any entity that writes insurance or reinsures risks and issues contracts or policies in 1 or more States.
+
+&emsp;(3)
+
+Exception for small insurers.—Paragraph (2) shall not apply with respect to any insurer or affiliate thereof that meets a minimum size threshold that the Office may establish, whether by order or rule.
+
+&emsp;(4)
+
+Advance coordination.—Before collecting any data or information under paragraph (2) from an insurer, or affiliate of an insurer, the Office shall coordinate with each relevant Federal agency and State insurance regulator (or other relevant Federal or State regulatory agency, if any, in the case of an affiliate of an insurer) and any publicly available sources to determine if the information to be collected is available from, and may be obtained in a timely manner by, such Federal agency or State insurance regulator, individually or collectively, other regulatory agency, or publicly available sources. If the Director determines that such data or information is available, and may be obtained in a timely manner, from such an agency, regulator, regulatory agency, or source, the Director shall obtain the data or information from such agency, regulator, regulatory agency, or source. If the Director determines that such data or information is not so available, the Director may collect such data or information from an insurer (or affiliate) only if the Director complies with the requirements of subchapter I of chapter 35 of title 44, United States Code (relating to Federal information policy; commonly known as the Paperwork Reduction Act), in collecting such data or information. Notwithstanding any other provision of law, each such relevantFederal agency and State insurance regulator or other Federal or State regulatory agency is authorized to provide to the Office such data or information.
+
+&emsp;(5)
+
+Confidentiality.—
+
+&emsp;&emsp;(A)
+
+Retention of privilege.—The submission of any nonpublicly available data and information to the Office under this subsection shall not constitute a waiver of, or otherwise affect, any privilege arising under Federal or State law (including the rules of any Federal or State court) to which the data or information is otherwise subject.
+
+&emsp;&emsp;(B)
+
+Continued application of prior confidentiality agreements.—Any requirement under Federal or State law to the extent otherwise applicable, or any requirement pursuant to a written agreement in effect between the original source of any nonpublicly available data or information and the source of such data or information to the Office, regarding the privacy or confidentiality of any data or information in the possession of the source to the Office, shall continue to apply to such data or information after the data or information has been provided pursuant to this subsection to the Office.
+
+&emsp;&emsp;(C)
+
+Information-sharing agreement.—Any data or information obtained by the Office may be made available to State insurance regulators, individually or collectively, through an information-sharing agreement that—
+
+&emsp;&emsp;&emsp;(i) shall comply with applicable Federal law; and
+
+&emsp;&emsp;&emsp;(ii) shall not constitute a waiver of, or otherwise affect, any privilege under Federal or State law (including the rules of any Federal or State court) to which the data or information is otherwise subject.
+
+&emsp;&emsp;(D)
+
+Agency disclosure requirements.—Section 552 of title 5, United States Code, shall apply to any data or information submitted to the Office by an insurer or an affiliate of an insurer.
+
+&emsp;(6)
+
+Subpoenas and enforcement.—The Director shall have the power to require by subpoena the production of the data or information requested under paragraph (2), but only upon a written finding by the Director that such data or information is required to carry out the functions described under subsection (c) and that the Office has coordinated with such regulator or agency as required under paragraph (4). Subpoenas shall bear the signature of the Director and shall be served by any person or class of persons designated by the Director for that purpose. In the case of contumacy or failure to obey a subpoena, the subpoena shall be enforceable by order of any appropriate district court of the United States. Any failure to obey the order of the court may be punished by the court as a contempt of court.
+
+(f)
+
+Preemption of State Insurance Measures.—
+
+&emsp;(1)
+
+Standard.—A State insurance measure shall be preempted pursuant to this section or section 314 if, and only to the extent that the Director determines, in accordance with this subsection, that the measure—
+
+&emsp;&emsp;(A) results in less favorable treatment of a non-United States insurer domiciled in a foreign jurisdiction that is subject to a covered agreement than a United States insurer domiciled, licensed, or otherwise admitted in that State; and
+
+&emsp;&emsp;(B) is inconsistent with a covered agreement.
+
+&emsp;(2)
+
+Determination.—
+
+&emsp;&emsp;(A)
+
+Notice of potential inconsistency.—Before making any determination under paragraph (1), the Director shall—
+
+&emsp;&emsp;&emsp;(i) notify and consult with the appropriate State regarding any potential inconsistency or preemption;
+
+&emsp;&emsp;&emsp;(ii) notify and consult with the United States Trade Representative regarding any potential inconsistency or preemption;
+
+&emsp;&emsp;&emsp;(iii) cause to be published in the Federal Register notice of the issue regarding the potential inconsistency or preemption, including a description of each State insurance measure at issue and any applicable covered agreement;
+
+&emsp;&emsp;&emsp;(iv) provide interested parties a reasonable opportunity to submit written comments to the Office; and
+
+&emsp;&emsp;&emsp;(v) consider any comments received.
+
+&emsp;&emsp;(B)
+
+Scope of review.—For purposes of this subsection, any determination of the Director regarding State insurance measures, and any preemption under paragraph (1) as a result of such determination, shall be limited to the subject matter contained within the covered agreement involved and shall achieve a level of protection for insurance or reinsurance consumers that is substantially equivalent to the level of protection achieved under State insurance or reinsurance regulation.
+
+&emsp;&emsp;(C)
+
+Notice of determination of inconsistency.—Upon making any determination under paragraph (1), the Director shall—
+
+&emsp;&emsp;&emsp;(i) notify the appropriate State of the determination and the extent of the inconsistency;
+
+&emsp;&emsp;&emsp;(ii) establish a reasonable period of time, which shall not be less than 30 days, before the determination shall become effective; and
+
+&emsp;&emsp;&emsp;(iii) notify the Committees on Financial Services and Ways and Means of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs and Finance of the Senate.
+
+&emsp;(3)
+
+Notice of effectiveness.—Upon the conclusion of the period referred to in paragraph (2)(C)(ii), if the basis for such determination still exists, the determination shall become effective and the Director shall—
+
+&emsp;&emsp;(A) cause to be published a notice in the Federal Register that the preemption has become effective, as well as the effective date; and
+
+&emsp;&emsp;(B) notify the appropriate State.
+
+&emsp;(4)
+
+Limitation.—No State may enforce a State insurance measure to the extent thatsuch measure has been preempted under this subsection.
+
+(g)
+
+Applicability of Administrative Procedures Act.—Determinations of inconsistency made pursuant to subsection (f)(2) shall be subject to the applicable provisions of subchapter II of chapter 5 of title 5, United States Code (relating to administrative procedure), and chapter 7 of such title (relating to judicial review), except that in any action for judicial review of a determination of inconsistency, the court shall determine the matter de novo.
+
+(h)
+
+Regulations, Policies, and Procedures.—The Secretary may issue orders, regulations, policies, and procedures to implement this section.
+
+(i)
+
+Consultation.—The Director shall consult with State insurance regulators, individually or collectively, to the extent the Director determines appropriate, in carrying out the functions of the Office.
+
+(j)
+
+Savings Provisions.—Nothing in this section shall—
+
+&emsp;(1) preempt—
+
+&emsp;&emsp;(A) any State insurance measure that governs any insurer's rates, premiums, underwriting, or sales practices;
+
+&emsp;&emsp;(B) any State coverage requirements for insurance;
+
+&emsp;&emsp;(C) the application of the antitrust laws of any State to the business of insurance; or
+
+&emsp;&emsp;(D) any State insurance measure governing the capital or solvency of an insurer, except to the extent that such State insurance measure results in less favorable treatment of a non-United State <sup>1</sup> insurer than a United States insurer;
+
+&emsp;(2) be construed to alter, amend, or limit any provision of the Consumer Financial Protection Agency Act of 2010; or
+
+&emsp;(3) affect the preemption of any State insurance measure otherwise inconsistent with and preempted by Federal law.
+
+(k)
+
+Retention of Existing State Regulatory Authority.—Nothing in this section or section 314 shall be construed to establish or provide the Office or the Department of the Treasury with general supervisory or regulatory authority over the business of insurance.
+
+(<i>l</i>)
+
+Retention of Authority of Federal Financial Regulatory Agencies.—Nothing in this section or section 314 shall be construed to limit the authority of any Federal financial regulatory agency, including the authority to develop and coordinate policy, negotiate, and enter into agreements with foreign governments, authorities, regulators, and multinational regulatory committees and to preempt State measures to affect uniformity with international regulatory agreements.
+
+(m)
+
+Retention of Authority of United States Trade Representative.—Nothing in this section or section 314 shall be construed to affect the authority of the Office of the United States Trade Representative pursuant to section 141 of the Trade Act of 1974 (19 U.S.C. 2171) or any other provision of law, including authority over the development and coordination of United States international trade policy and the administration of the United States trade agreements program.
+
+(n)
+
+Annual Reports to Congress.—
+
+&emsp;(1)
+
+Section 313(f
+
+) reports.—Beginning September 30, 2011, the Director shall submit a report on or before September 30 of each calendar year to the President and to the Committees on Financial Services and Ways and Means of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs and Finance of the Senate on any actions taken by the Office pursuant to subsection (f) (regarding preemption of inconsistent State insurance measures).
+
+&emsp;(2)
+
+Insurance industry.—Beginning September 30, 2011, the Director shall submit a report on or before September 30 of each calendar year to the President and to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the insurance industry and any other information as deemed relevant by the Director or requested by such Committees.
+
+(<i>o</i>)
+
+Reports on U.S. and Global Reinsurance Market.—The Director shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate—
+
+&emsp;(1) a report received not later than September 30, 2012, describing the breadth and scope of the global reinsurance market and the critical role such market plays in supporting insurance in the United States; and
+
+&emsp;(2) a report received not later than January 1, 2013, and updated not later than January 1, 2015, describing the impact of part II of the Nonadmitted and Reinsurance Reform Act of 2010 on the ability of State regulators to access reinsurance information for regulated companies in their jurisdictions.
+
+(p)
+
+Study and Report on Regulation of Insurance.—
+
+&emsp;(1)
+
+In general.—Not later than 18 months after the date of enactment of this section, the Director shall conduct a study and submit a report to Congress on how to modernize and improve the system of insurance regulation in the United States.
+
+&emsp;(2)
+
+Considerations.—The study and report required under paragraph (1) shall be based on and guided by the following considerations:
+
+&emsp;&emsp;(A) Systemic risk regulation with respect to insurance.
+
+&emsp;&emsp;(B) Capital standards and the relationship between capital allocation and liabilities, including standards relating to liquidity and duration risk.
+
+&emsp;&emsp;(C) Consumer protection for insurance products and practices, including gaps in State regulation.
+
+&emsp;&emsp;(D) The degree of national uniformity of State insurance regulation.
+
+&emsp;&emsp;(E) The regulation of insurance companies and affiliates on a consolidated basis.
+
+&emsp;&emsp;(F) International coordination of insurance regulation.
+
+&emsp;(3)
+
+Additional factors.—The study and report required under paragraph (1) shall also examine the following factors:
+
+&emsp;&emsp;(A) The costs and benefits of potential Federal regulation of insurance across various lines of insurance (except health insurance).
+
+&emsp;&emsp;(B) The feasibility of regulating only certain lines of insurance at the Federal level, while leaving other lines of insurance to be regulated at the State level.
+
+&emsp;&emsp;(C) The ability of any potential Federal regulation or Federal regulators to eliminate or minimize regulatory arbitrage.
+
+&emsp;&emsp;(D) The impact that developments in the regulation of insurance in foreign jurisdictions might have on the potential Federal regulation of insurance.
+
+&emsp;&emsp;(E) The ability of any potential Federal regulation or Federal regulator to provide robust consumer protection for policyholders.
+
+&emsp;&emsp;(F) The potential consequences of subjecting insurance companies to a Federal resolution authority, including the effects of any Federal resolution authority—
+
+&emsp;&emsp;&emsp;(i) on the operation of State insurance guaranty fund systems, including the loss of guaranty fund coverage if an insurance company is subject to a Federal resolution authority;
+
+&emsp;&emsp;&emsp;(ii) on policyholder protection, including the loss of the priority status of policyholder claims over other unsecured general creditor claims;
+
+&emsp;&emsp;&emsp;(iii) in the case of life insurance companies, on the loss of the special status of separate account assets and separate account liabilities; and
+
+&emsp;&emsp;&emsp;(iv) on the international competitiveness of insurance companies.
+
+&emsp;&emsp;(G) Such other factors as the Director determines necessary or appropriate, consistent with the principles set forth in paragraph (2).
+
+&emsp;(4)
+
+Required recommendations.—The study and report required under paragraph (1) shall also contain any legislative, administrative, or regulatory recommendations, as the Director determines appropriate, to carry out or effectuate the findings set forth in such report.
+
+&emsp;(5)
+
+Consultation.—With respect to the study and report required under paragraph (1), the Director shall consult with the State insurance regulators, consumer organizations, representatives of the insurance industry and policyholders, and other organizations and experts, as appropriate.
+
+(q)
+
+Use of Existing Resources.—To carry out this section, the Office may employ personnel, facilities, and any other resource of the Department of the Treasury available to the Secretary and the Secretary shall dedicate specific personnel to the Office.
+
+(r)
+
+Definitions.—In this section and section 314, the following definitions shall apply:
+
+&emsp;(1)
+
+Affiliate.—The term “affiliate” means, with respect to an insurer, any person who controls, is controlled by, or is under common control with the insurer.
+
+&emsp;(2)
+
+Covered agreement.—The term “covered agreement” means a written bilateral or multilateral agreement regarding prudential measures with respect to the business of insurance or reinsurance that—
+
+&emsp;&emsp;(A) is entered into between the United States and one or more foreign governments, authorities, or regulatory entities; and
+
+&emsp;&emsp;(B) relates to the recognition of prudential measures with respect to the business of insurance or reinsurance that achieves a level of protection for insurance or reinsurance consumers that is substantially equivalent to the level of protection achieved under State insurance or reinsurance regulation.
+
+&emsp;(3)
+
+Insurer.—The term “insurer” means any person engaged in the business of insurance, including reinsurance.
+
+&emsp;(4)
+
+Federal financial regulatory agency.—The term “Federal financial regulatory agency” means the Department of the Treasury, the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the Federal Deposit Insurance Corporation, the Federal Housing Finance Agency, or the National Credit Union Administration.
+
+&emsp;(5)
+
+Non-united states insurer.—The term “non-United States insurer” means an insurer that is organized under the laws of a jurisdiction other than a State, but does not include any United States branch of such an insurer.
+
+&emsp;(6)
+
+Office.—The term “Office” means the Federal Insurance Office established by this section.
+
+&emsp;(7)
+
+State insurance measure.—The term “State insurance measure” means any State law, regulation, administrative ruling, bulletin, guideline, or practice relating to or affecting prudential measures applicable to insurance or reinsurance.
+
+&emsp;(8)
+
+State insurance regulator.—The term “State insurance regulator” means any State regulatory authority responsible for the supervision of insurers.
+
+&emsp;(9)
+
+Substantially equivalent to the level of protection achieved.—The term “substantially equivalent to the level of protection achieved” means the prudential measures of a foreign government, authority, or regulatory entity achieve a similar outcome in consumer protection as the outcome achieved under State insurance or reinsurance regulation.
+
+&emsp;(10)
+
+United states insurer.—The term “United States insurer” means—
+
+&emsp;&emsp;(A) an insurer that is organized under the laws of a State; or
+
+&emsp;&emsp;(B) a United States branch of a non-United States insurer.
+
+(s)
+
+Authorization of Appropriations.—There are authorized to be appropriated for the Office for each fiscal year such sums as may be necessary.
+
+(Added Pub. L. 111–203, title V, §502(a)(3), July 21, 2010, 124 Stat. 1580.)
+
+#### References in Text
+
+Section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (c)(1)(B), is section 1204(c) of Pub. L. 101–73, which is set out as a note under section 1811 of Title 12, Banks and Banking.
+
+The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (c)(1)(C), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Title I of the Act, known as the Financial Stability Act of 2010, is classified principally to subchapter I (§5311 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
+
+The Terrorism Risk Insurance Act of 2002, referred to in subsec. (c)(1)(D), is Pub. L. 107–297, Nov. 26, 2002, 116 Stat. 2322. Title I of the Act, relating to the Terrorism Insurance Program, is set out as a note under section 6701 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 6701 of Title 15 and Tables.
+
+The Financial Stability Act of 2010, referred to in subsec. (c)(3), is title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to subchapter I (§5311 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
+
+The Federal Crop Insurance Act, referred to in subsec. (d)(3), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
+
+The Consumer Financial Protection Act of 2010, referred to in subsec. (j)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§5481 et seq.) of chapter 53 of Title 12, Banks and Banking, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
+
+The Nonadmitted and Reinsurance Reform Act of 2010, referred to in subsec. (<i>o</i>)(2), is subtitle B (§§511–542) of title V of Pub. L. 111–203, July 21, 2010, 124 Stat. 1589. Part II of the Act is classified generally to subchapter II (§8221 et seq.) of chapter 108 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 15 and Tables.
+
+The date of enactment of this section, referred to subsec. (p)(1), is the date of enactment of Pub. L. 111–203, which was approved July 21, 2010.
+
+#### Prior Provisions
+
+A prior section 313 was renumbered section 312 of this title.
+
+#### Effective Date
+
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of Title 12, Banks and Banking.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “States”.</i>
+

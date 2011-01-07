@@ -46,7 +46,7 @@ For purposes of this section—
 
 #### (2) 1-month deferral allowed
 
-&emsp;A specified foreign corporation may elect, in lieu of the taxable year under paragraph\(1)(A), a taxable year beginning 1 month earlier than the majority U.S. shareholder year.
+&emsp;A specified foreign corporation may elect, in lieu of the taxable year under paragraph (1)(A), a taxable year beginning 1 month earlier than the majority U.S. shareholder year.
 
 #### (3) Majority U.S. shareholder year
 
@@ -70,7 +70,7 @@ For purposes of this section—
 
 #### Amendments
 
-2004—Subsec. (b)(1)(A). Pub. L. 108–357, §413(c)(13)(A), amended subpar. (A) generally. Prior to amendment, subpar (A) read as follows:
+<b>2004</b>—Subsec. (b)(1)(A). Pub. L. 108–357, §413(c)(13)(A), amended subpar. (A) generally. Prior to amendment, subpar (A) read as follows:
 
 “(A) which is—
 
@@ -86,7 +86,7 @@ Subsec. (c). Pub. L. 108–357, §413(c)(13)(D), reenacted heading without chang
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31,2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date
 

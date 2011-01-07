@@ -206,7 +206,7 @@ This Act, referred to in subsec. (k), is Pub. L. 102–486, Oct. 24, 1992, 106 S
 
 #### Amendments
 
-1997—Subsecs. (c)(5), (e)(5), (g)(3)(B). Pub. L. 105–23, §1(1), substituted “1998” for “1997”.
+<b>1997</b>—Subsecs. (c)(5), (e)(5), (g)(3)(B). Pub. L. 105–23, §1(1), substituted “1998” for “1997”.
 
 Subsec. (j)(1). Pub. L. 105–23 substituted “$46,000,000” for “$65,000,000” and “1998” for “1997”.
 

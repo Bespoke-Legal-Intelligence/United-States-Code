@@ -84,5 +84,5 @@ In subsection (f), the words “or any officer or employee under the control of 
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–316, in first sentence, substituted “Secretary” for “Comptroller General”, in second sentence, substituted “The Comptroller General may” for “Not later than April 15 of each year, the Comptroller General shall”, and struck out at end “The Comptroller General shall prescribe regulations necessary to carry out this subsection.”
+<b>1996</b>—Subsec. (c). Pub. L. 104–316, in first sentence, substituted “Secretary” for “Comptroller General”, in second sentence, substituted “The Comptroller General may” for “Not later than April 15 of each year, the Comptroller General shall”, and struck out at end “The Comptroller General shall prescribe regulations necessary to carry out this subsection.”
 

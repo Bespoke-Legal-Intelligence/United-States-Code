@@ -162,7 +162,7 @@ Pub. L. 98–151, §118(a)(5)(B), substituted provisions authorizing extension f
 
 Subsec. (a)(4). Pub. L. 98–151, §118(a)(6), redesignated existing provisions as subpar. (A) and added subpar. (B).
 
-1979—Subsec. (a)(3), (4). Pub. L. 96–70 substituted in pars. (3) and (4) “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and relatedagreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone” wherever appearing.
+1979—Subsec. (a)(3), (4). Pub. L. 96–70 substituted in pars. (3) and (4) “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone” wherever appearing.
 
 #### Effective Date of 1997 Amendment
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L.
 
 #### Extension of Payment of Relocation Expenses to Puerto Rico, Northern Mariana Islands, and Territories and Possessions of the United States
 
-Pub. L. 105–277, div. A, §101(b) \[title I, §125\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–74, provided that: “Effective with the enactment of this Act \[Oct. 21, 1998\], and in any fiscal year hereafter, the Attorney General and the Secretary of the Treasury may, for their respective agencies, extend the payment of relocation expenses listed in section 5724a(b)(1) of Title 5 of the United States Code to include the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and the territories and possessions of the United States.”
+Pub. L. 105–277, div. A, §101(b) \[title I, §125\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–74, provided that: “Effective with the enactment of this Act \[Oct. 21, 1998\], and inany fiscal year hereafter, the Attorney General and the Secretary of the Treasury may, for their respective agencies, extend the payment of relocation expenses listed in section 5724a(b)(1) of Title 5 of the United States Code to include the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and the territories and possessions of the United States.”
 
 #### Funding of Amendments by Pub. L. 98–151
 

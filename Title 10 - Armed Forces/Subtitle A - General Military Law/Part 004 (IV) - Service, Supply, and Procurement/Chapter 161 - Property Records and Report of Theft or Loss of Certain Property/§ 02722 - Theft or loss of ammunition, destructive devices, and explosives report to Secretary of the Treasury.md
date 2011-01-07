@@ -24,7 +24,7 @@ Definitions.—In this section:
 
 #### Amendments
 
-2006—Subsec. (c)(2). Pub. L. 109–364 substituted “921(a)” for “921”.
+<b>2006</b>—Subsec. (c)(2). Pub. L. 109–364 substituted “921(a)” for “921”.
 
 #### Effective Date
 

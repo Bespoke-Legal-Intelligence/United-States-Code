@@ -66,7 +66,7 @@ In this section—
 
 &emsp;&emsp;&emsp;(ii) a partnership with any appropriate small business concern or health advocacy group; and
 
-&emsp;&emsp;(C) designate outreach programs at regional offices of the Department of Health and Human Services to work with district offices of the Administration.
+&emsp;&emsp;(C) designate outreach programs at regional offices of the Department of Healthand Human Services to work with district offices of the Administration.
 
 #### (5) Website
 
@@ -96,5 +96,5 @@ Section was enacted as part of the Children's Health Insurance Program Reauthori
 
 #### Effective Date
 
-Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as an Effective Date of 2009 Amendment note under section 1396 of Title 42, The Public Health and Welfare.
+Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of Title 42, The Public Health and Welfare.
 

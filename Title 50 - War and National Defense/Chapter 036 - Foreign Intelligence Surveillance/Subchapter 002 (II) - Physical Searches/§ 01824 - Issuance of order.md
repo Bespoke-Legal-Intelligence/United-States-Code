@@ -18,7 +18,7 @@ Upon an application made pursuant to section 1823 of this title, the judge shall
 
 #### (b) Determination of probable cause
 
-In determining whether or not probable cause exists for purposes of an order under subsection (a)(3) <sup>1</sup> of this section, a judge may consider past activities of the target, as well as facts and circumstances relating to current or future activities of the target.
+In determining whether or not probable cause exists for purposes of an order under subsection (a)(2), a judge may consider past activities of the target, as well as facts and circumstances relating to current or future activities of the target.
 
 #### (c) Specifications and directions of orders
 
@@ -82,33 +82,35 @@ An order approving a physical search under this section shall—
 
 Applications made and orders granted under this subchapter shall be retained for a period of at least 10 years from the date of the application.
 
-(Pub. L. 95–511, title III, §304, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3447; amended Pub. L. 106–567, title VI, §603(b), Dec. 27, 2000, 114 Stat. 2853; Pub. L. 107–56, title II, §207(a)(2), (b)(2), Oct. 26, 2001, 115 Stat. 282; Pub. L. 107–108, title III, §314(a)(4),Dec. 28, 2001, 115 Stat. 1402; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §105(b), Mar. 9, 2006, 120 Stat. 195; Pub. L. 110–261, title I, §§107(b), (c)(1), 110(c)(3), July 10, 2008, 122 Stat. 2463, 2464, 2467.)
+(Pub. L. 95–511, title III, §304, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3447; amended Pub. L. 106–567, title VI, §603(b), Dec. 27, 2000, 114 Stat. 2853; Pub. L. 107–56, title II, §207(a)(2), (b)(2), Oct. 26, 2001, 115 Stat. 282; Pub. L. 107–108, title III, §314(a)(4), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §105(b), Mar. 9, 2006, 120 Stat. 195; Pub. L. 110–261, title I, §§107(b), (c)(1), 110(c)(3), July 10, 2008, 122 Stat. 2463, 2464, 2467; Pub. L. 111–259, title VIII, §§801(5), 806(a)(2), Oct. 7, 2010, 124 Stat. 2746, 2748.)
 
 #### References in Text
-
-Subsection (a)(3) of this section, referred to in subsec. (b), was redesignated subsection (a)(2) by Pub. L. 110–261, title I, §107(b)(1)(B), July 10, 2008, 122 Stat. 2463.
 
 This chapter, referred to in subsec. (d)(2), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–261, §107(b)(1), (c)(1), redesignated pars. (2) to (5) as (1) to (4), respectively, inserted “or is about to be” before “owned” in par. (2)(B), substituted “1823(a)(6)(E)” for “1823(a)(7)(E)” in par. (4), and struck out former par. (1) which read as follows: “the President has authorized the Attorney General to approve applications for physical searches for foreign intelligence purposes;”.
+<b>2010</b>—Subsec. (b). Pub. L. 111–259, §801(5), substituted “subsection (a)(2)” for “subsection (a)(3)”.
+
+Subsec. (c)(2)(C). Pub. L. 111–259, §806(a)(2), made technical amendment to directory language of Pub. L. 108–458. See 2004 Amendment note below.
+
+<b>2008</b>—Subsec. (a). Pub. L. 110–261, §107(b)(1), (c)(1), redesignated pars. (2) to (5) as (1) to (4), respectively, inserted “or is about to be” before “owned” in par. (2)(B), substituted “1823(a)(6)(E)” for “1823(a)(7)(E)” in par. (4), and struck out former par. (1) which read as follows: “the President has authorized the Attorney General to approve applications for physical searches for foreign intelligence purposes;”.
 
 Subsec. (d)(2). Pub. L. 110–261, §110(c)(3), substituted “paragraph (5), (6), or (7) of section 1801(a)” for “section 1801(a)(5) or (6)”.
 
 Subsec. (e). Pub. L. 110–261, §107(b)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to the power of the Attorney General to authorize the emergency employment of a physical search and required an application be made to a judge within 72 hours after the authorization.
 
-2006—Subsec. (d)(1)(B), (2). Pub. L. 109–177 substituted “who is not a United States person” for “as defined in section 1801(b)(1)(A) of this title”.
+<b>2006</b>—Subsec. (d)(1)(B), (2). Pub. L. 109–177 substituted “who is not a United States person” for “as defined in section 1801(b)(1)(A) of this title”.
 
-2004—Subsec. (c)(2)(C). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+<b>2004</b>—Subsec. (c)(2)(C). Pub. L. 108–458, as amended by Pub. L. 111–259, §806(a)(2), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-2001—Subsec. (d)(1). Pub. L. 107–56, §207(a)(2), substituted “90 days,” for “forty-five days,” and inserted “(A)” after “except that” and “, and (B) an order under this section for a physical search targeted against an agent of a foreign power as defined in section 1801(b)(1)(A) of this title may be for the period specified in the application or for 120 days, whichever is less” before period at end.
+<b>2001</b>—Subsec. (d)(1). Pub. L. 107–56, §207(a)(2), substituted “90 days,” for “forty-five days,” and inserted “(A)” after “except that” and “, and (B) an order under this section for a physical search targeted against an agent of a foreign power as defined in section 1801(b)(1)(A) of this title may be for the period specified in the application or for 120 days, whichever is less” before period at end.
 
 Subsec. (d)(2). Pub. L. 107–56, §207(b)(2), inserted “or against an agent of a foreign power as defined in section 1801(b)(1)(A) of this title,” after “not a United States person,”.
 
 Subsec. (e)(1)(A)(ii), (3)(C). Pub. L. 107–108 substituted “72 hours” for “24 hours”.
 
-2000—Subsecs. (b) to (f). Pub. L. 106–567 added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
+<b>2000</b>—Subsecs. (b) to (f). Pub. L. 106–567 added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
 
 #### Effective Date of 2008 Amendment
 
@@ -119,6 +121,4 @@ Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in se
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

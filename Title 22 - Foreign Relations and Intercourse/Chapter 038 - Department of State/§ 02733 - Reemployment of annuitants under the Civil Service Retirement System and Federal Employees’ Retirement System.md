@@ -26,7 +26,7 @@ Pub. L. 109–234, title I, §1602(b)(1), June 15, 2006, 120 Stat. 441, which di
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–32 inserted “, Pakistan,” after “Iraq” in two places.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–32 inserted “, Pakistan,” after “Iraq” in two places.
 
 Subsec. (a)(2). Pub. L. 111–32 substituted “2010” for “2008”.
 

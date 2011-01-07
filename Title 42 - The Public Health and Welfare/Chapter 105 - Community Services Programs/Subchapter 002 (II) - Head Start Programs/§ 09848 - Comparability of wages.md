@@ -22,9 +22,9 @@ The Secretary shall take such action as may be necessary to assure that persons 
 
 #### Amendments
 
-2007—Pub. L. 110–134 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2007</b>—Pub. L. 110–134 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1990—Pub. L. 101–501 inserted at end “The Secretary shall encourage Head Start agencies to provide compensation according to salary scales that are based on training and experience.”
+<b>1990</b>—Pub. L. 101–501 inserted at end “The Secretary shall encourage Head Start agencies to provide compensation according to salary scales that are based on training and experience.”
 
 #### Effective Date of 1990 Amendment
 

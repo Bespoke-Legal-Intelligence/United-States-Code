@@ -50,7 +50,7 @@
 
 (f) Notwithstanding any funeral and burial expenses paid under section 8134, there shall be paid a sum of $200 to the personal representative of a deceased employee within the meaning of section 8101(1) of this title for reimbursement of the costs of termination of the decedent's status as an employee of the United States.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 547; Pub. L. 90–83, §1(62), Sept. 11, 1967, 81 Stat. 211; Pub. L. 93–416, §§16(a), 17, 18, Sept. 7, 1974, 88 Stat. 1147,1149; Pub. L. 101–303, §3(1), May 29, 1990, 104 Stat. 251.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 547; Pub. L. 90–83, §1(62), Sept. 11, 1967, 81 Stat. 211; Pub. L. 93–416, §§16(a), 17, 18, Sept. 7, 1974, 88 Stat. 1147, 1149; Pub. L. 101–303, §3(1), May 29, 1990, 104 Stat. 251.)
 
 Historical and Revision Notes<br>1966
 

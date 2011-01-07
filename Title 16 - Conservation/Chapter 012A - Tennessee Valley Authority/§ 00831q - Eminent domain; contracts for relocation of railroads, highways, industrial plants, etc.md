@@ -6,7 +6,7 @@ In order to enable and empower the Secretary of the Army, the Secretary of the I
 
 #### Amendments
 
-2004—Pub. L. 108–447 substituted “Board” for “board” in first sentence.
+<b>2004</b>—Pub. L. 108–447 substituted “Board” for “board” in first sentence.
 
 #### Change of Name
 

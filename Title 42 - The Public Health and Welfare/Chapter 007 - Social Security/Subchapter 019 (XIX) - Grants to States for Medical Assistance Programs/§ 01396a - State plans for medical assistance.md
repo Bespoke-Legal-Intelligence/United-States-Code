@@ -10,17 +10,25 @@ A State plan for medical assistance must—
 
 &emsp;(3) provide for granting an opportunity for a fair hearing before the State agency to any individual whose claim for medical assistance under the plan is denied or is not acted upon with reasonable promptness;
 
-&emsp;(4) provide (A) such methods of administration (including methods relating to the establishment and maintenance of personnel standards on a merit basis, except that the Secretary shall exercise no authority with respect to the selection, tenure of office, and compensation of any individual employed in accordance with such methods, and including provision for utilization of professional medical personnel in the administration and, where administered locally, supervision of administration of the plan) as are found by the Secretary to be necessary for the proper and efficient operation of the plan, (B) for the training and effective use of paid subprofessional staff, with particular emphasis on the full-time or part-time employment of recipients and other persons of low income, as community service aides, in the administration of the plan and for the use of nonpaid or partially paid volunteers in a social service volunteer program in providing services to applicants and recipients and in assisting any advisory committees established by the State agency, (C) that each State or local officer, employee, or independent contractor who is responsible for the expenditure of substantial amounts of funds under the State plan, each individual who formerly was such an officer, employee, or contractor, and each partner of such an officer, employee, or contractor shall be prohibited from committing any act, in relation to any activity under the plan, the commission of which, in connection with any activity concerning the United States Government, by an officer or employee of the United States Government, an individual who was such an officer or employee, or a partner of such an officer or employee is prohibited by section 207 or 208 of title 18, and (D) that each State or local officer, employee, or independent contractor who is responsible for selecting, awarding, or otherwise obtaining items and services under the State plan shall be subject to safeguards against conflicts of interest that are at least as stringent as the safeguards that apply under section 423 of title 41 to persons described in subsection (a)(2) of section 423 of title 41;
+&emsp;(4) provide (A) such methods of administration (including methods relating to the establishment and maintenance of personnel standards on a merit basis, except that the Secretary shall exercise no authority with respect to the selection, tenure of office, and compensation of any individual employed in accordance with such methods, and including provision for utilization of professional medical personnel in the administration and, where administered locally, supervision of administration of the plan) as are found by the Secretary to be necessary for the proper and efficient operation of the plan, (B) for the training and effective use of paid subprofessional staff, with particular emphasis on the full-time or part-time employment of recipients and other persons of low income, as community service aides, in the administration of the plan and for the use of nonpaid or partially paid volunteers in a social service volunteer program in providing services to applicants and recipients and in assisting any advisory committees established by the State agency, (C) that each State or local officer, employee, or independent contractor who is responsible for the expenditure of substantial amounts of funds under the State plan, each individual who formerly was such an officer, employee, or contractor, and each partner of such an officer, employee, or contractor shall be prohibited from committing any act, in relation to any activity under the plan, the commission of which, in connection with any activity concerning the United States Government, by an officer or employee of the United States Government, an individual who was such an officer or employee, or a partner of such an officer or employee is prohibited by section 207 or 208 of title 18, and (D) that each State or local officer, employee, or independent contractor who is responsible for selecting, awarding, or otherwise obtaining items and services under the State plan shall be subject to safeguards against conflicts of interest that are at least as stringent as the safeguards that apply under chapter 21 of title 41 to persons described in section 2102(a)(3) of title 41;
 
 &emsp;(5) either provide for the establishment or designation of a single State agency to administer or to supervise the administration of the plan; or provide for the establishment or designation of a single State agency to administer or to supervise the administration of the plan, except that the determination of eligibility for medical assistance under the plan shall be made by the State or local agency administering the State plan approved under subchapter I or XVI of this chapter (insofar as it relates to the aged) if the State is eligible to participate in the State plan program established under subchapter XVI of this chapter, or by the agency or agencies administering the supplemental security income program established under subchapter XVI or the State plan approved under part A of subchapter IV of this chapter if the State is not eligible to participate in the State plan program established under subchapter XVI of this chapter;
 
 &emsp;(6) provide that the State agency will make such reports, in such form and containing such information, as the Secretary may from time to time require, and comply with such provisions as the Secretary may from time to time find necessary to assure the correctness and verification of such reports;
 
-&emsp;(7) provide safeguards which restrict the use or disclosure of information concerning applicants and recipients to purposes directly connected with—
+&emsp;(7) provide—
 
-&emsp;&emsp;(A) the administration of the plan; and
+&emsp;&emsp;(A) safeguards which restrict the use or disclosure of information concerning applicants and recipients to purposes directly connected with—
 
-&emsp;&emsp;(B) at State option, the exchange of information necessary to verify the certification of eligibility of children for free or reduced price breakfasts under the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\] and free or reduced price lunches under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\], in accordance with section 9(b) of that Act \[42 U.S.C. 1758(b)\], using data standards and formats established by the State agency;
+&emsp;&emsp;&emsp;(i) the administration of the plan; and
+
+&emsp;&emsp;&emsp;(ii) the exchange of information necessary to certify or verify the certification of eligibility of children for free or reduced price breakfasts under the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\] and free or reduced price lunches under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\], in accordance with section 9(b) of that Act \[42 U.S.C. 1758(b)\], using data standards and formats established by the State agency; and
+
+&emsp;&emsp;(B) that, notwithstanding the Express Lane option under subsection (e)(13), the State may enter into an agreement with the State agency administering the school lunch program established under the Richard B. Russell National School Lunch Act under which the State shall establish procedures to ensure that—
+
+&emsp;&emsp;&emsp;(i) a child receiving medical assistance under the State plan under this subchapter whose family income does not exceed 133 percent of the poverty line (as defined in section 9902(2) of this title, including anyrevision required by such section), as determined without regard to any expense, block, or other income disregard, applicable to a family of the size involved, may be certified as eligible for free lunches under the Richard B. Russell National School Lunch Act and free breakfasts under the Child Nutrition Act of 1966 without further application; and
+
+&emsp;&emsp;&emsp;(ii) the State agencies responsible for administering the State plan under this subchapter, and for carrying out the school lunch program established under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) or the school breakfast program established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773), cooperate in carrying out paragraphs (3)(F) and (15) of section 9(b) of that Act \[42 U.S.C. 1758(b)\];
 
 &emsp;(8) provide that all individuals wishing to make application for medical assistance under the plan shall have opportunity to do so, and that such assistance shall be furnished with reasonable promptness to all eligible individuals;
 
@@ -28,13 +36,15 @@ A State plan for medical assistance must—
 
 &emsp;&emsp;(A) that the State health agency, or other appropriate State medical agency (whichever is utilized by the Secretary for the purpose specified in the first sentence of section 1395aa(a) of this title), shall be responsible for establishing and maintaining health standards for private or public institutions in which recipients of medical assistance under the plan may receive care or services,
 
-&emsp;&emsp;(B) for the establishment or designation of a State authority or authorities which shall be responsible for establishing and maintaining standards, other than those relating to health, for such institutions, and
+&emsp;&emsp;(B) for the establishment or designation of a State authority or authorities which shall be responsible for establishing and maintaining standards, other than those relating to health, for such institutions,
 
-&emsp;&emsp;(C) that any laboratory services paid for under such plan must be provided by a laboratory which meets the applicable requirements of section 1395x(e)(9) of this title or paragraphs (16) and (17) of section 1395x(s) of this title, or, in the case of a laboratory which is in a rural health clinic, of section 1395x(aa)(2)(G) of this title;
+&emsp;&emsp;(C) that any laboratory services paid for under such plan must be provided by a laboratory which meets the applicable requirements of section 1395x(e)(9) of this title or paragraphs (16) and (17) of section 1395x(s) of this title, or, in the case of a laboratory which is in a rural health clinic, of section 1395x(aa)(2)(G) of this title, and
+
+&emsp;&emsp;(D) that the State maintain a consumer-oriented website providing useful information to consumers regarding all skilled nursing facilities and all nursing facilities in the State, including for each facility, Form 2567 State inspection reports (or a successor form), complaint investigation reports, the facility's plan of correction, and such other information that the State or the Secretary considers useful in assisting the public to assess the quality of long term care options and the quality of care provided by individual facilities;
 
 &emsp;(10) provide—
 
-&emsp;&emsp;(A) for making medical assistance available, including at least the care and services listed in paragraphs (1) through (5), (17) and (21) of section 1396d(a) of this title, to—
+&emsp;&emsp;(A) for making medical assistance available, including at least the care and services listed in paragraphs (1) through (5), (17), (21), and (28) of section 1396d(a) of this title, to—
 
 &emsp;&emsp;&emsp;(i) all individuals—
 
@@ -48,9 +58,11 @@ A State plan for medical assistance must—
 
 &emsp;&emsp;&emsp;&emsp;(V) who are qualified family members as defined in section 1396d(m)(1) of this title,
 
-&emsp;&emsp;&emsp;&emsp;(VI) who are described in subparagraph (C) of subsection (<i>l</i>)(1) of this section and whose family income does not exceed the income level the State is required to establish under subsection (<i>l</i>)(2)(B) of this section for such a family, or
+&emsp;&emsp;&emsp;&emsp;(VI) who are described in subparagraph (C) of subsection (<i>l</i>)(1) of this section and whose family income does not exceed the income level the State is required to establish under subsection (<i>l</i>)(2)(B) of this section for such a family,
 
-&emsp;&emsp;&emsp;&emsp;(VII) who are described in subparagraph (D) of subsection (<i>l</i>)(1) of this section and whose family income does not exceed the income level the State is required to establish under subsection (<i>l</i>)(2)(C) of this section for such a family; <sup>3</sup>
+&emsp;&emsp;&emsp;&emsp;(VII) who are described in subparagraph (D) of subsection (<i>l</i>)(1) of this section and whose family income does not exceed the income level the State is required to establish under subsection (<i>l</i>)(2)(C) of this section for such a family; <sup>2</sup> or
+
+&emsp;&emsp;&emsp;&emsp;(VIII) beginning January 1, 2014, who are under 65 years of age, not pregnant, not entitled to, or enrolled for, benefits under part A of subchapter XVIII, or enrolled for benefits under part B of subchapter XVIII, and are not described in a previous subclause of this clause, and whose income (as determined under subsection (e)(14)) does not exceed 133 percent of the poverty line (as defined in section 1397jj(c)(5) of this title) applicable to a family of the size involved, subject to subsection (k); <sup>3</sup>
 
 &emsp;&emsp;&emsp;(ii) at the option of the State, to <sup>4</sup> any group or groups of individuals described in section 1396d(a) of this title (or, in the case of individuals described in section 1396d(a)(i) of this title, to <sup>4</sup> any reasonable categories of such individuals) who are not individuals described in clause (i) of this subparagraph but—
 
@@ -84,7 +96,7 @@ A State plan for medical assistance must—
 
 &emsp;&emsp;&emsp;&emsp;(XII) who are described in subsection (z)(1) of this section (relating to certain TB-infected individuals); <sup>2</sup>
 
-&emsp;&emsp;&emsp;&emsp;(XIII) who are in families whose income is less than 250 percent of the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved, and who but for earnings in excess of the limit established under section 1396d(q)(2)(B) of this title, would be considered to be receiving supplemental security income (subject, notwithstanding section 1396<i>o</i> of this title, to payment of premiums or other cost-sharing charges (set on a sliding scale based on income) that the State may determine); <sup>2</sup>
+&emsp;&emsp;&emsp;&emsp;(XIII) who are in families whose income is less than 250 percent of the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved, and who but for earnings in excess of the limit established under section 1396d(q)(2)(B) of this title, would be considered to be receiving supplemental security income (subject, notwithstanding section 1396<i>o</i> of this title, to payment of premiums orother cost-sharing charges (set on a sliding scale based on income) that the State may determine); <sup>2</sup>
 
 &emsp;&emsp;&emsp;&emsp;(XIV) who are optional targeted low-income children described in section 1396d(u)(2)(B) of this title; <sup>2</sup>
 
@@ -94,9 +106,15 @@ A State plan for medical assistance must—
 
 &emsp;&emsp;&emsp;&emsp;(XVII) who are independent foster care adolescents (as defined in section 1396d(w)(1) of this title), or who are within any reasonable categories of such adolescents specified by the State; <sup>2</sup>
 
-&emsp;&emsp;&emsp;&emsp;(XVIII) who are described in subsection (aa) of this section (relating to certain breast or cervical cancer patients); <sup>2</sup> or
+&emsp;&emsp;&emsp;&emsp;(XVIII) who are described in subsection (aa) of this section (relating to certain breast or cervical cancer patients); <sup>2</sup>
 
-&emsp;&emsp;&emsp;&emsp;(XIX) who are disabled children described in subsection (cc)(1);
+&emsp;&emsp;&emsp;&emsp;(XIX) who are disabled children described in subsection (cc)(1); <sup>2</sup>
+
+&emsp;&emsp;&emsp;&emsp;(XX) beginning January 1, 2014, who are under 65 years of age and are not described in or enrolled under a previous subclause of this clause, and whose income (as determined under subsection (e)(14)) exceeds 133 percent of the poverty line (as defined in section 1397jj(c)(5) of this title) applicable to a family of the size involved but does not exceed the highest income eligibility level established under the State plan or under a waiver of the plan, subject to subsection (hh); <sup>2</sup>
+
+&emsp;&emsp;&emsp;&emsp;(XXI) who are described in subsection (ii) (relating to individuals who meet certain income standards); <sup>2</sup> or
+
+&emsp;&emsp;&emsp;&emsp;(XXII) who are eligible for home and community-based services under needs-based criteria established under paragraph (1)(A) of section 1396n(i) of this title, or who are eligible for home and community-based services under paragraph (6) of such section, and who will receive home and community-based services pursuant to a State plan amendment under such subsection;
 
 &emsp;&emsp;(B) that the medical assistance made available to any individual described in subparagraph (A)—
 
@@ -106,7 +124,7 @@ A State plan for medical assistance must—
 
 &emsp;&emsp;(C) that if medical assistance is included for any group of individuals described in section 1396d(a) of this title who are not described in subparagraph (A) or (E), then—
 
-&emsp;&emsp;&emsp;(i) the plan must include a description of (I) the criteria for determining eligibility of individuals in the group for such medical assistance, (II) the amount, duration, and scope of medical assistance made available to individuals in the group, and (III) the single standard to be employed in determining income and resource eligibility for all such groups, and the methodology to be employed in determining such eligibility, which shall be no more restrictive than the methodology which would be employed under the supplemental security income program in the case ofgroups consisting of aged, blind, or disabled individuals in a State in which such program is in effect, and which shall be no more restrictive than the methodology which would be employed under the appropriate State plan (described in subparagraph (A)(i)) to which such group is most closely categorically related in the case of other groups;
+&emsp;&emsp;&emsp;(i) the plan must include a description of (I) the criteria for determining eligibility of individuals in the group for such medical assistance, (II) the amount, duration, and scope of medical assistance made available to individuals in the group, and (III) the single standard to be employed in determining income and resource eligibility for all such groups, and the methodology to be employed in determining such eligibility, which shall be no more restrictive than the methodology which would be employed under the supplemental security income program in the case of groups consisting of aged, blind, or disabled individuals in a State in which such program is in effect, and which shall be no more restrictive than the methodology which would be employed under the appropriate State plan (described in subparagraph (A)(i)) to which such group is most closely categorically related in the case of other groups;
 
 &emsp;&emsp;&emsp;(ii) the plan must make available medical assistance—
 
@@ -124,17 +142,17 @@ A State plan for medical assistance must—
 
 &emsp;&emsp;(ii) for making medical assistance available for payment of medicare cost-sharing described in section 1396d(p)(3)(A)(i) of this title for qualified disabled and working individuals described in section 1396d(s) of this title;
 
-&emsp;&emsp;(iii) for making medical assistance available for medicare cost sharing described in section 1396d(p)(3)(A)(ii) of this title subject to section 1396d(p)(4) of this title, for individuals who would be qualified medicare beneficiaries described in section 1396d(p)(1) of this title but for the fact that their income exceeds the income level established by the State under section 1396d(p)(2) of this title but is less than 110 percent in 1993 and 1994, and 120 percent in 1995 and years thereafter of the official poverty line (referred to in such section) for a family of the size involved; and
+&emsp;&emsp;(iii) for making medical assistance available for medicare cost sharing described insection 1396d(p)(3)(A)(ii) of this title subject to section 1396d(p)(4) of this title, for individuals who would be qualified medicare beneficiaries described in section 1396d(p)(1) of this title but for the fact that their income exceeds the income level established by the State under section 1396d(p)(2) of this title but is less than 110 percent in 1993 and 1994, and 120 percent in 1995 and years thereafter of the official poverty line (referred to in such section) for a family of the size involved; and
 
-&emsp;&emsp;(iv) subject to sections 1396u–3 and 1396d(p)(4) of this title, for making medical assistance available (but only for premiums payable with respect to months during the period beginning with January 1998, and ending with December 2010) for medicare cost-sharing described in section 1396d(p)(3)(A)(ii) of this title for individuals who would be qualified medicare beneficiaries described in section 1396d(p)(1) of this title but for the fact that their income exceeds the income level established by the State under section 1396d(p)(2) of this title and is at least 120 percent, but less than 135 percent, of the official poverty line (referred to in such section) for a family of the size involved and who are not otherwise eligible for medical assistance under the State plan;
+&emsp;&emsp;(iv) subject to sections 1396u–3 and 1396d(p)(4) of this title, for making medical assistance available (but only for premiums payable with respect to months during the period beginning with January 1998, and ending with December 2011) for medicare cost-sharing described in section 1396d(p)(3)(A)(ii) of this title for individuals who would be qualified medicare beneficiaries described in section 1396d(p)(1) of this title but for the fact that their income exceeds the income level established by the State under section 1396d(p)(2) of this title and is at least 120 percent, but less than 135 percent, of the official poverty line (referred to in such section) for a family of the size involved and who are not otherwise eligible for medical assistance under the State plan;
 
 &emsp;&emsp;(F) at the option of a State, for making medical assistance available for COBRA premiums (as defined in subsection (u)(2) of this section) for qualified COBRA continuation beneficiaries described in subsection (u)(1) of this section; and
 
 &emsp;&emsp;(G) that, in applying eligibility criteria of the supplemental security income program under subchapter XVI of this chapter for purposes of determining eligibility for medical assistance under the State plan of an individual who is not receiving supplemental security income, the State will disregard the provisions of subsections (c) and (e) of section 1382b of this title;
 
-> &emsp;except that (I) the making available of the services described in paragraph (4), (14), or (16) of section 1396d(a) of this title to individuals meeting the age requirements prescribed therein shall not, by reason of this paragraph (10), require the making available of any such services, or the making available of such services of the same amount, duration, and scope, to individuals of any other ages, (II) the making available of supplementary medical insurance benefits under part B of subchapter XVIII of this chapter to individuals eligible therefor (either pursuant to an agreement entered into under section 1395v of this title or by reason of the payment of premiums under such subchapter by the State agency on behalf of such individuals), or provision for meeting part or all of the cost of deductibles, cost sharing, or similar charges under part B of subchapter XVIII of this chapter for individuals eligible for benefits under such part, shall not, by reason of this paragraph (10), require the making available of any such benefits, or the making available of services of the same amount, duration, and scope, to any other individuals, (III) the making available of medical assistance equal in amount, duration, and scope to the medical assistance made available to individuals described in clause (A) to any classification of individuals approved by the Secretary with respect to whom there is being paid, or who are eligible, or would be eligible if they were not in a medical institution, to have paid with respect to them, a State supplementary payment shall not, by reason of this paragraph (10), require the making available of any such assistance, or the making available of such assistance of the same amount, duration, and scope, to any other individuals not described in clause (A), (IV) the imposition of a deductible, cost sharing, or similar charge for any item or service furnished to an individual not eligible for the exemption under section 1396<i>o</i>(a)(2) or (b)(2) of this title shall not require the imposition of a deductible, cost sharing, or similar charge for the same item or service furnished to an individual who is eligible for such exemption, (V) the making available to pregnant women covered under the plan of services relating to pregnancy (including prenatal, delivery, and postpartum services) or to any other condition which may complicate pregnancy shall not, by reason of this paragraph (10), require the making available of such services, or the making available of such services of the same amount, duration, and scope, to any other individuals, provided such services are made available (in the same amount, duration, and scope) to all pregnant women covered under the State plan, (VI) with respect to the making available of medical assistance for hospice care to terminally ill individuals who have made a voluntary election described in section 1396d(<i>o</i>) of this title to receive hospice care instead of medical assistance for certain other services, such assistance may not be made available in an amount, duration, or scope less than that provided under subchapter XVIII of this chapter, and the making available of such assistance shall not, by reason of this paragraph (10), require the making available of medical assistance for hospice care to other individuals or the making available of medical assistance for services waived by such terminally ill individuals, (VII) the medical assistance made available to an individual described in subsection (<i>l</i>)(1)(A) of this section who is eligible for medical assistance only because of subparagraph (A)(i)(IV) or (A)(ii)(IX) shall be limited to medical assistance for services related to pregnancy (including prenatal, delivery, postpartum, and family planning services) and to other conditions which may complicate pregnancy, (VIII) the medical assistance made available to a qualified medicare beneficiary described in section 1396d(p)(1) of this title who is only entitled to medical assistance because the individual is such a beneficiary shall be limited to medical assistance for medicare cost-sharing (described in section 1396d(p)(3) of this title), subject to the provisions of subsection (n) of this section and section 1396<i>o</i>(b) of this title, (IX) the making available of respiratory care services in accordance with subsection (e)(9) of this section shall not, by reason of this paragraph (10), require the making available of such services, or the making available of such services of the same amount, duration, and scope, to any individuals not included under subsection (e)(9)(A) of this section, provided such services are made available (in the same amount, duration, and scope) to all individuals described in such subsection, (X) if the plan provides for any fixed durational limit on medical assistance for inpatient hospital services (whether or not such a limit varies by medical condition or diagnosis), the plan must establish exceptions to such a limit for medically necessary inpatient hospital services furnished with respect to individuals under one year of age in a hospital defined under the State plan, pursuant to section 1396r–4(a)(1)(A) of this title, as a disproportionate share hospital and subparagraph (B) (relating to comparability) shall not be construed as requiring such an exception for other individuals, services, or hospitals, (XI) the making available of medical assistance to cover the costs of premiums, deductibles, coinsurance, and other cost-sharing obligations for certain individuals for private health coverage as described in section 1396e of this title shall not, by reason of paragraph (10), require the making available of any such benefits or the making available of services of the same amount, duration, and scope of such private coverage to any other individuals, (XII) the medical assistance made available to an individual described in subsection (u)(1) of this section who is eligible for medical assistance only because of subparagraph (F) shall be limited to medical assistance for COBRA continuation premiums (as defined in subsection (u)(2) of this section), (XIII) the medical assistance made available to an individual described in subsection (z)(1) of this section who is eligible for medical assistance only because of subparagraph (A)(ii)(XII) shall be limited to medical assistance for TB-related services (described in subsection (z)(2) of this section), and (XIV) the medical assistance made available to an individual described in subsection (aa) of this section who is eligible for medical assistance only because of subparagraph (A)(10)(ii)(XVIII) shall be limited to medical assistance provided during the period in which such an individual requires treatment for breast or cervical cancer;
+> &emsp;except that (I) the making available of the services described in paragraph (4), (14), or (16) of section 1396d(a) of this title to individuals meeting the age requirements prescribed therein shall not, by reason of this paragraph (10), require the making available of any such services, or the making available of such services of the same amount, duration, and scope, to individuals of any other ages, (II) the making available of supplementary medical insurance benefits under part B of subchapter XVIII of this chapter to individuals eligible therefor (either pursuant to an agreement entered into under section 1395v of this title or by reason of the payment of premiums under such subchapter by the State agency on behalf of such individuals), or provision for meeting part or all of the cost of deductibles, cost sharing, or similar charges under part B of subchapter XVIII of this chapter for individuals eligible for benefits under such part, shall not, by reason of this paragraph (10), require the making available of any such benefits, or the making available of services of the same amount, duration, and scope, to any other individuals, (III) the making available of medical assistance equal in amount, duration, and scope to the medical assistance made available to individuals described in clause (A) to any classification of individuals approved by the Secretary with respect to whom there is being paid, or who are eligible, or would be eligible if they were not in a medical institution, to have paid with respect to them, a State supplementary payment shall not, by reason of this paragraph (10), require the making available of any such assistance, or the making available of such assistance of the same amount, duration, and scope, to any other individuals not described in clause (A), (IV) the imposition of a deductible, cost sharing, or similar charge for any item or service furnished to an individual not eligible for the exemption under section 1396<i>o</i>(a)(2) or (b)(2) of this title shall not require the imposition of a deductible, cost sharing, or similar charge for the same item or service furnished to an individual who is eligible for such exemption, (V) the making available to pregnant women covered under the plan of services relating to pregnancy (including prenatal, delivery, and postpartum services) or to any other condition which may complicate pregnancy shall not, by reason of this paragraph (10), require the making available of such services, or the making available of such services of the same amount, duration, and scope, to any other individuals, provided such services are made available (in the same amount, duration, and scope) to all pregnant women covered under the State plan, (VI) with respect to the making available of medical assistance for hospice care to terminally ill individuals who have made a voluntary election described in section 1396d(<i>o</i>) of this title to receive hospice care instead of medical assistance for certain other services, such assistance may not be made available in an amount, duration, or scope less than that provided under subchapter XVIII of this chapter, and the making available of such assistance shall not, by reason of this paragraph (10), require the making available of medical assistance for hospice care to other individuals or the making available of medical assistance for services waived by such terminally ill individuals, (VII) the medical assistance made available to an individual described in subsection (<i>l</i>)(1)(A) of this section who is eligible for medical assistance only because of subparagraph (A)(i)(IV) or (A)(ii)(IX) shall be limited to medical assistance for services related to pregnancy (including prenatal, delivery, postpartum, and family planning services) and to other conditions which may complicate pregnancy, (VIII) the medical assistance made available to a qualified medicare beneficiary described in section 1396d(p)(1) of this title who is only entitled to medical assistance because the individual is such a beneficiary shall be limited to medical assistance for medicare cost-sharing (described in section 1396d(p)(3) of this title), subject to the provisions of subsection (n) of this section and section 1396<i>o</i>(b) of this title, (IX) the making available of respiratory care services in accordance with subsection (e)(9) of this section shall not, by reason of this paragraph (10), require the makingavailable of such services, or the making available of such services of the same amount, duration, and scope, to any individuals not included under subsection (e)(9)(A) of this section, provided such services are made available (in the same amount, duration, and scope) to all individuals described in such subsection, (X) if the plan provides for any fixed durational limit on medical assistance for inpatient hospital services (whether or not such a limit varies by medical condition or diagnosis), the plan must establish exceptions to such a limit for medically necessary inpatient hospital services furnished with respect to individuals under one year of age in a hospital defined under the State plan, pursuant to section 1396r–4(a)(1)(A) of this title, as a disproportionate share hospital and subparagraph (B) (relating to comparability) shall not be construed as requiring such an exception for other individuals, services, or hospitals, (XI) the making available of medical assistance to cover the costs of premiums, deductibles, coinsurance, and other cost-sharing obligations for certain individuals for private health coverage as described in section 1396e of this title shall not, by reason of paragraph (10), require the making available of any such benefits or the making available of services of the same amount, duration, and scope of such private coverage to any other individuals, (XII) the medical assistance made available to an individual described in subsection (u)(1) of this section who is eligible for medical assistance only because of subparagraph (F) shall be limited to medical assistance for COBRA continuation premiums (as defined in subsection (u)(2) of this section), (XIII) the medical assistance made available to an individual described in subsection (z)(1) of this section who is eligible for medical assistance only because of subparagraph (A)(ii)(XII) shall be limited to medical assistance for TB-related services (described in subsection (z)(2) of this section), (XIV) the medical assistance made available to an individual described in subsection (aa) of this section who is eligible for medical assistance only because of subparagraph (A)(10)(ii)(XVIII) shall be limited to medical assistance provided during the period in which such an individual requires treatment for breast or cervical cancer <sup>5</sup> (XV) the medical assistance made available to an individual described in subparagraph (A)(i)(VIII) shall be limited to medical assistance described in subsection (k)(1), (XVI) the medical assistance made available to an individual described in subsection (ii) shall be limited to family planning services and supplies described in section 1396d(a)(4)(C) of this title including medical diagnosis and treatment services that are provided pursuant to a family planning service in a family planning setting <sup>5</sup> and (XVII) if an individual is described in subclause (IX) of subparagraph (A)(i) and is also described in subclause (VIII) of that subparagraph, the medical assistance shall be made available to the individual through subclause (IX) instead of through subclause (VIII);
 
-&emsp;(11)(A) provide for entering into cooperative arrangements with the State agencies responsible for administering or supervising the administration of health services and vocational rehabilitation services in the State looking toward maximum utilization of such services in the provision of medical assistance under the plan, (B) provide, to the extent prescribed by the Secretary, for entering into agreements, with any agency, institution, or organization receiving payments under (or through an allotment under) subchapter V of this chapter, (i) providing for utilizing such agency, institution, or organization in furnishing care and services which are available under such subchapter or allotment and which are included in the State plan approved under this section <sup>5</sup> (ii) making such provision as may be appropriate for reimbursing such agency, institution, or organization for the cost of any such care and services furnished any individual for which payment would otherwise be made to the State with respect to the individual under section 1396b of this title, and (iii) providing for coordination of information and education on pediatric vaccinations and delivery of immunization services, and (C) provide for coordination of the operations under this subchapter, including the provision of information and education on pediatric vaccinations and the delivery of immunization services, with the State's operations under the special supplemental nutrition program for women,infants, and children under section 17 of the Child Nutrition Act of 1966 \[42 U.S.C. 1786\];
+&emsp;(11)(A) provide for entering into cooperative arrangements with the State agencies responsible for administering or supervising the administration of health services and vocational rehabilitation services in the State looking toward maximum utilization of such services in the provision of medical assistance under the plan, (B) provide, to the extent prescribed by the Secretary, for entering into agreements, with any agency, institution, or organization receiving payments under (or through an allotment under) subchapter V of this chapter, (i) providing for utilizing such agency, institution, or organization in furnishing care and services which are available under such subchapter or allotment and which are included in the State plan approved under this section <sup>5</sup> (ii) making such provision as may be appropriate for reimbursing such agency, institution, or organization for the cost of any such care and services furnished any individual for which payment would otherwise be made to the State with respect to the individual under section 1396b of this title, and (iii) providing for coordination of information and education on pediatric vaccinations and delivery of immunization services, and (C) provide for coordination of the operations under this subchapter, including the provision of information and education on pediatric vaccinations and the delivery of immunization services, with the State's operations under the special supplemental nutrition program for women, infants, and children under section 17 of the Child Nutrition Act of 1966 \[42 U.S.C. 1786\];
 
 &emsp;(12) provide that, in determining whether an individual is blind, there shall be an examination by a physician skilled in the diseases of the eye or by an optometrist, whichever the individual may select;
 
@@ -148,9 +166,11 @@ A State plan for medical assistance must—
 
 &emsp;&emsp;&emsp;(iii) final rates, the methodologies underlying the establishment of such rates, and justifications for such final rates are published, and
 
-&emsp;&emsp;&emsp;(iv) in the case of hospitals, such rates take into account (in a manner consistent with section 1396r–4 of this title) the situation of hospitals which serve a disproportionate number of low-income patients with special needs; and
+&emsp;&emsp;&emsp;(iv) in the case of hospitals, such rates take into account (in a manner consistent with section 1396r–4 of this title) the situation of hospitals which serve a disproportionate number of low-income patients with special needs;
 
-&emsp;&emsp;(B) for payment for hospice care in amounts no lower than the amounts, using the same methodology, used under part A of subchapter XVIII of this chapter and for payment of amounts under section 1396d(<i>o</i>)(3) of this title; except that in the case of hospice care which is furnished to an individual who is a resident of a nursing facility or intermediate care facility for the mentally retarded, and who would be eligible under the plan for nursing facility services or services in an intermediate care facility for the mentally retarded if he had not elected to receive hospice care, there shall be paid an additional amount, to take into account the room and board furnished by the facility, equal to at least 95 percent of the rate that would have been paid by the State under the plan for facility services in that facility for that individual;
+&emsp;&emsp;(B) for payment for hospice care in amounts no lower than the amounts, using the same methodology, used under part A ofsubchapter XVIII of this chapter and for payment of amounts under section 1396d(<i>o</i>)(3) of this title; except that in the case of hospice care which is furnished to an individual who is a resident of a nursing facility or intermediate care facility for the mentally retarded, and who would be eligible under the plan for nursing facility services or services in an intermediate care facility for the mentally retarded if he had not elected to receive hospice care, there shall be paid an additional amount, to take into account the room and board furnished by the facility, equal to at least 95 percent of the rate that would have been paid by the State under the plan for facility services in that facility for that individual; and
+
+&emsp;&emsp;(C) payment for primary care services (as defined in subsection (jj)) furnished in 2013 and 2014 by a physician with a primary specialty designation of family medicine, general internal medicine, or pediatric medicine at a rate not less than 100 percent of the payment rate that applies to such services and physician under part B of subchapter XVIII (or, if greater, the payment rate that would be applicable under such part if the conversion factor under section 1395w–4(d) of this title for the year involved were the conversion factor under such section for 2009);
 
 &emsp;(14) provide that enrollment fees, premiums, or similar charges, and deductions, cost sharing, or similar charges, may be imposed only as provided in section 1396<i>o</i> of this title;
 
@@ -158,7 +178,7 @@ A State plan for medical assistance must—
 
 &emsp;(16) provide for inclusion, to the extent required by regulations prescribed by the Secretary, of provisions (conforming to such regulations) with respect to the furnishing of medical assistance under the plan to individuals who are residents of the State but are absent therefrom;
 
-&emsp;(17) except as provided in subsections (<i>l</i>)(3), (m)(3), and (m)(4) of this section, include reasonable standards (which shall be comparable for all groups and may, in accordance with standards prescribed by the Secretary, differ with respect to income levels, but only in the case of applicants or recipients of assistance under the plan who are not receiving aid or assistance under any plan of the State approved under subchapter I, X, XIV, or XVI, or part A of subchapter IV of this chapter, and with respect to whom supplemental security income benefits are not being paid under subchapter XVI of this chapter, based on the variations between shelter costs in urban areas and in rural areas) for determining eligibility for and the extent of medical assistance under the plan which (A) are consistent with the objectives of this subchapter, (B) provide for taking into account only such income and resources as are, as determined in accordance with standards prescribed by the Secretary, available to the applicant or recipient and (in the case of any applicant or recipient who would, except for income and resources, be eligible for aid or assistance in the form of money payments under any plan of the State approved under subchapter I, X, XIV, or XVI, or part A of subchapter IV, or to have paid with respect to him supplemental security income benefits under subchapter XVI of this chapter) as would not be disregarded (or set aside for future needs) in determining his eligibility for such aid, assistance, or benefits, (C) provide for reasonable evaluation of any such income or resources, and (D) do not take into account the financial responsibility of any individual for any applicant or recipient of assistance under the plan unless such applicant or recipient is such individual's spouse or such individual's child who is under age 21 or (with respect to States eligible to participate in the State program established under subchapter XVI of this chapter), is blind or permanently and totally disabled, or is blind or disabled as defined in section 1382c of this title (with respect to States which are not eligible to participate in such program); and provide for flexibility in the application of such standards with respect to income by taking into account, except to the extent prescribed by the Secretary, the costs (whether in the form of insurance premiums, payments made to the State under section 1396b(f)(2)(B) of this title, or otherwise and regardless of whether such costs are reimbursed under another public program of the State or political subdivision thereof) incurred for medical care or for any other type of remedial care recognized under State law;
+&emsp;(17) except as provided in subsections (e)(14), (<i>l</i>)(3), (m)(3), and (m)(4) of this section, include reasonable standards (which shall be comparable for all groups and may, in accordance with standards prescribed by the Secretary, differ with respect to income levels, but only in the case of applicants or recipients of assistance under the plan who are not receiving aid or assistance under any plan of the State approved under subchapter I, X, XIV, or XVI, or part A of subchapter IV of this chapter, and with respect to whom supplemental security income benefits are not being paid under subchapter XVI of this chapter, based on the variations between shelter costs in urban areas and in rural areas) for determining eligibility for and the extent of medical assistance under the plan which (A) are consistent with the objectives of this subchapter, (B) provide for taking into account only such income and resources as are, as determined in accordance with standards prescribed by the Secretary, available to the applicant or recipient and (in the case of any applicant or recipient who would, except for income and resources, be eligible for aid or assistance in the form of money payments under any plan of the State approved under subchapter I, X, XIV, or XVI, or part A of subchapter IV, or to have paid with respect to him supplemental security income benefits under subchapter XVI of this chapter) as would not be disregarded (or set aside for future needs) in determining his eligibility for such aid, assistance, or benefits, (C) provide for reasonable evaluation of any such income or resources, and (D) do not take into account the financial responsibility of any individual for any applicant or recipient of assistance under the plan unless such applicant or recipient is such individual's spouse or such individual's child who is under age 21 or (with respect to States eligible to participate in the State program established under subchapter XVI of this chapter), is blind or permanently and totally disabled, or is blind or disabled as defined in section 1382c of this title (with respect to States which are not eligible to participate in such program); and provide for flexibility in the application of such standards with respect to income by taking into account, except to the extent prescribed by the Secretary, the costs (whether in the form of insurance premiums, payments made to the State under section 1396b(f)(2)(B) of this title, or otherwise and regardless of whether such costs are reimbursed under another public program of the State or political subdivision thereof) incurred for medical care or for any other type of remedial care recognized under State law;
 
 &emsp;(18) comply with the provisions of section 1396p of this title with respect to liens, adjustments and recoveries of medical assistance correctly paid,,<sup>6</sup> transfers of assets, and treatment of certain trusts;
 
@@ -168,7 +188,7 @@ A State plan for medical assistance must—
 
 &emsp;&emsp;(A) provide for having in effect such agreements or other arrangements with State authorities concerned with mental diseases, and, where appropriate, with such institutions, as may be necessary for carrying out the State plan, including arrangements for joint planning and for development of alternate methods of care, arrangements providing assurance of immediate readmittance to institutions where needed for individuals under alternate plans of care, and arrangements providing for access to patients and facilities, for furnishing information, and for making reports;
 
-&emsp;&emsp;(B) provide for an individual plan for each such patient to assure that the institutional care provided to him is in his best interests, including, to that end, assurances that there will be initial and periodic review of his medical and other needs, that he will be given appropriate medical treatment within the institution, and that there will be a periodic determination of his need for continued treatment in the institution; and
+&emsp;&emsp;(B) provide for an individual plan for each such patient to assure that the institutional care provided to him is in his best interests, including, to that end, assurances that there will be initial and periodic review of hismedical and other needs, that he will be given appropriate medical treatment within the institution, and that there will be a periodic determination of his need for continued treatment in the institution; and
 
 &emsp;&emsp;(C) provide for the development of alternate plans of care, making maximum utilization of available resources, for recipients 65 years of age or older who would otherwise need care in such institutions, including appropriate medical treatment and other aid or assistance; for services referred to in section 303(a)(4)(A)(i) and (ii) <sup>1</sup> or section 1383(a)(4)(A)(i) and (ii) <sup>1</sup> of this title which are appropriate for such recipients and for such patients; and for methods of administration necessary to assure that the responsibilities of the State agency under the State plan with respect to such recipients and such patients will be effectively carried out;
 
@@ -176,7 +196,7 @@ A State plan for medical assistance must—
 
 &emsp;(22) include descriptions of (A) the kinds and numbers of professional medical personnel and supporting staff that will be used in the administration of the plan and of the responsibilities they will have, (B) the standards, for private or public institutions in which recipients of medical assistance under the plan may receive care or services, that will be utilized by the State authority or authorities responsible for establishing and maintaining such standards, (C) the cooperative arrangements with State health agencies and State vocational rehabilitation agencies entered into with a view to maximum utilization of and coordination of the provision of medical assistance with the services administered or supervised by such agencies, and (D) other standards and methods that the State will use to assure that medical or remedial care and services provided to recipients of medical assistance are of high quality;
 
-&emsp;(23) provide that (A) any individual eligible for medical assistance (including drugs) may obtain such assistance from any institution, agency, community pharmacy, or person, qualified to perform the service or services required (including an organization which provides such services, or arranges for their availability, on a prepayment basis), who undertakes to provide him such services, and (B) an enrollment of an individual eligible for medical assistance in a primary care case-management system (described in section 1396n(b)(1) of this title), a medicaid managed care organization, or a similar entity shall not restrict the choice of the qualified person from whom the individual may receive services under section 1396d(a)(4)(C) of this title, except as provided in subsection (g) of this section, in section 1396n of this title, and in section 1396u–2(a) of this title, except that this paragraph shall not apply in the case of Puerto Rico, the Virgin Islands, and Guam, and except that nothing in this paragraph shall be construed as requiring a State to provide medical assistance for such services furnished by a person or entity convicted of a felony under Federal or State law for an offense which the State agency determines is inconsistent with the best interests of beneficiaries under the State plan;
+&emsp;(23) provide that (A) any individual eligible for medical assistance (including drugs) may obtain such assistance from any institution, agency, community pharmacy, or person, qualified to perform the service or services required (including an organization which provides such services, or arranges for their availability, on a prepayment basis), who undertakes to provide him such services, and (B) an enrollment of an individual eligible for medical assistance in a primary care case-management system (described in section 1396n(b)(1) of this title), a medicaid managed care organization, or a similar entity shall not restrict the choice of the qualified person from whom the individual may receive services under section 1396d(a)(4)(C) of this title, except as provided in subsection (g) of this section, in section 1396n of this title, and in section 1396u–2(a) of this title, except that this paragraph shall not apply in the case of Puerto Rico, the Virgin Islands, and Guam, and except that nothing in this paragraph shall be construed as requiring a State to provide medical assistance for such services furnished by a person or entity convicted of a felony under Federal or State law for an offense which the State agency determines is inconsistent with the best interests of beneficiaries under the State plan or by a provider or supplier to which a moratorium under subsection (kk)(4) is applied during the period of such moratorium;
 
 &emsp;(24) effective July 1, 1969, provide for consultative services by health agencies and other appropriate agencies of the State to hospitals, nursing facilities, home health agencies, clinics, laboratories, and such other institutions as the Secretary may specify in order to assist them (A) to qualify for payments under this chapter, (B) to establish and maintain such fiscal records as may be necessary for the proper and efficient administration of this chapter, and (C) to provide information needed to determine payments due under this chapter on account of care and services furnished to individuals;
 
@@ -190,7 +210,7 @@ A State plan for medical assistance must—
 
 &emsp;&emsp;(B) that in any case where such a legal liability is found to exist after medical assistance has been made available on behalf of the individual and where the amount of reimbursement the State can reasonably expect to recover exceeds the costs of such recovery, the State or local agency will seek reimbursement for such assistance to the extent of such legal liability;
 
-&emsp;&emsp;(C) that in the case of an individual who is entitled to medical assistance under the State plan with respect to a service for which a third party is liable for payment, the person furnishing the service may not seek to collect from the individual (or any financially responsible relative or representative of that individual) payment of an amount for that service (i) if the total of the amount of the liabilities of third parties for that service is at least equal to the amount payable for that service under the plan (disregarding section 1396<i>o</i> of this title), or (ii) in an amount which exceeds the lesser of (I) the amount which may be collected under section 1396<i>o</i> of this title, or (II) the amount by which the amount payable for that service under the plan (disregarding section 1396<i>o</i> of this title) exceeds the total of the amount of the liabilities of third parties for that service;
+&emsp;&emsp;(C) that in the case of an individual who is entitled to medical assistance under theState plan with respect to a service for which a third party is liable for payment, the person furnishing the service may not seek to collect from the individual (or any financially responsible relative or representative of that individual) payment of an amount for that service (i) if the total of the amount of the liabilities of third parties for that service is at least equal to the amount payable for that service under the plan (disregarding section 1396<i>o</i> of this title), or (ii) in an amount which exceeds the lesser of (I) the amount which may be collected under section 1396<i>o</i> of this title, or (II) the amount by which the amount payable for that service under the plan (disregarding section 1396<i>o</i> of this title) exceeds the total of the amount of the liabilities of third parties for that service;
 
 &emsp;&emsp;(D) that a person who furnishes services and is participating under the plan may not refuse to furnish services to an individual (who is entitled to have payment made under the plan for the services the person furnishes) because of a third party's potential liability for payment for the service;
 
@@ -214,7 +234,7 @@ A State plan for medical assistance must—
 
 &emsp;&emsp;&emsp;(i) provide, with respect to individuals who are eligible (and, at State option, individuals who apply or whose eligibility for medical assistance is being evaluated in accordance with section 1396a(e)(13)(D) of this title) for, or are provided, medical assistance under the State plan under this subchapter (and, at State option, child health assistance under subchapter XXI), upon the request of the State, information to determine during what period the individual or their spouses or their dependents may be (or may have been) covered by a health insurer and the nature of the coverage that is or was provided by the health insurer (including the name, address, and identifying number of the plan) in a manner prescribed by the Secretary;
 
-&emsp;&emsp;&emsp;(ii) accept the State's right of recovery and the assignment to the State of anyright of an individual or other entity to payment from the party for an item or service for which payment has been made under the State plan;
+&emsp;&emsp;&emsp;(ii) accept the State's right of recovery and the assignment to the State of any right of an individual or other entity to payment from the party for an item or service for which payment has been made under the State plan;
 
 &emsp;&emsp;&emsp;(iii) respond to any inquiry by the State regarding a claim for payment for any health care item or service that is submitted not later than 3 years after the date of the provision of such health care item or service; and
 
@@ -260,7 +280,7 @@ A State plan for medical assistance must—
 
 &emsp;&emsp;(A) in the case of any care or service provided by a physician, dentist, or other individual practitioner, such payment may be made (i) to the employer of such physician, dentist, or other practitioner if such physician, dentist, or practitioner is required as a condition of his employment to turn over his fee for such care or service to his employer, or (ii) (where the care or service was provided in a hospital, clinic, or other facility) to the facility in which the care or service was provided if there is a contractual arrangement between such physician, dentist, or practitioner and such facility under which such facility submits the bill for such care or service;
 
-&emsp;&emsp;(B) nothing in this paragraph shall be construed (i) to prevent the making of such a payment in accordance with an assignment from the person or institution providing the care or service involved if such assignment is made to a governmental agency or entity or is established by or pursuant to the order of a court of competent jurisdiction, or (ii) to preclude an agent of such person or institution from receiving any such payment if (but only if) such agent does so pursuant to an agency agreement under which the compensation to be paid to the agent for his services for or in connection with the billing or collection of payments due such person or institution under the plan is unrelated (directly or indirectly) to the amount of such payments or the billings therefor, and is not dependent upon the actual collection of any such payment;
+&emsp;&emsp;(B) nothing in this paragraph shall be construed (i) to prevent the making of such a payment in accordance with an assignmentfrom the person or institution providing the care or service involved if such assignment is made to a governmental agency or entity or is established by or pursuant to the order of a court of competent jurisdiction, or (ii) to preclude an agent of such person or institution from receiving any such payment if (but only if) such agent does so pursuant to an agency agreement under which the compensation to be paid to the agent for his services for or in connection with the billing or collection of payments due such person or institution under the plan is unrelated (directly or indirectly) to the amount of such payments or the billings therefor, and is not dependent upon the actual collection of any such payment;
 
 &emsp;&emsp;(C) in the case of services furnished (during a period that does not exceed 14 continuous days in the case of an informal reciprocal arrangement or 90 continuous days (or such longer period as the Secretary may provide) in the case of an arrangement involving per diem or other fee-for-time compensation) by, or incident to the services of, one physician to the patients of another physician who submits the claim for such services, payment shall be made to the physician submitting the claim (as if the services were furnished by, or incident to, the physician's services), but only if the claim identifies (in a manner specified by the Secretary) the physician who furnished the services; and
 
@@ -278,17 +298,43 @@ A State plan for medical assistance must—
 
 &emsp;(36) provide that within 90 days following the completion of each survey of any health care facility, laboratory, agency, clinic, or organization, by the appropriate State agency described in paragraph (9), such agency shall (in accordance with regulations of the Secretary) make public in readily available form and place the pertinent findings of each such survey relating to the compliance of each such health care facility, laboratory, clinic, agency, or organization with (A) the statutory conditions of participation imposed under this subchapter, and (B) the major additional conditions which the Secretary finds necessary in the interest of health and safety of individuals who are furnished care or services by any such facility, laboratory, clinic, agency, or organization;
 
-&emsp;(37) provide for claims payment procedures which (A) ensure that 90 per centum of claimsfor payment (for which no further written information or substantiation is required in order to make payment) made for services covered under the plan and furnished by health care practitioners through individual or group practices or through shared health facilities are paid within 30 days of the date of receipt of such claims and that 99 per centum of such claims are paid within 90 days of the date of receipt of such claims, and (B) provide for procedures of prepayment and postpayment claims review, including review of appropriate data with respect to the recipient and provider of a service and the nature of the service for which payment is claimed, to ensure the proper and efficient payment of claims and management of the program;
+&emsp;(37) provide for claims payment procedures which (A) ensure that 90 per centum of claims for payment (for which no further written information or substantiation is required in order to make payment) made for services covered under the plan and furnished by health care practitioners through individual or group practices or through shared health facilities are paid within 30 days of the date of receipt of such claims and that 99 per centum of such claims are paid within 90 days of the date of receipt of such claims, and (B) provide for procedures of prepayment and postpayment claims review, including review of appropriate data with respect to the recipient and provider of a service and the nature of the service for which payment is claimed, to ensure the proper and efficient payment of claims and management of the program;
 
 &emsp;(38) require that an entity (other than an individual practitioner or a group of practitioners) that furnishes, or arranges for the furnishing of, items or services under the plan, shall supply (within such period as may be specified in regulations by the Secretary or by the single State agency which administers or supervises the administration of the plan) upon request specifically addressed to such entity by the Secretary or such State agency, the information described in section 1320a–7(b)(9) of this title;
 
-&emsp;(39) provide that the State agency shall exclude any specified individual or entity from participation in the program under the State plan for the period specified by the Secretary, when required by him to do so pursuant to section 1320a–7 of this title or section 1320a–7a of this title, and provide that no payment may be made under the plan with respect to any item or service furnished by such individual or entity during such period;
+&emsp;(39) provide that the State agency shall exclude any specified individual or entity from participation in the program under the State plan for the period specified by the Secretary, when required by him to do so pursuant to section 1320a–7 of this title or section 1320a–7a of this title, terminate the participation of any individual or entity in such program if (subject to such exceptions as are permitted with respect to exclusion under sections 1320a–7(c)(3)(B) and 1320a–7(d)(3)(B) of this title) participation of such individual or entity is terminated under subchapter XVIII or any other State plan under this subchapter, and provide that no payment may be made under the plan with respect to any item or service furnished by such individual or entity during such period;
 
 &emsp;(40) require each health services facility or organization which receives payments under the plan and of a type for which a uniform reporting system has been established under section 1320a(a) of this title to make reports to the Secretary of information described in such section in accordance with the uniform reporting system (established under such section) for that type of facility or organization;
 
 &emsp;(41) provide that whenever a provider of services or any other person is terminated, suspended, or otherwise sanctioned or prohibited from participating under the State plan, the State agency shall promptly notify the Secretary and, in the case of a physician and notwithstanding paragraph (7), the State medical licensing board of such action;
 
-&emsp;(42) provide that the records of any entity participating in the plan and providing services reimbursable on a cost-related basis will be audited as the Secretary determines to be necessary to insure that proper payments are made under the plan;
+&emsp;(42) provide that—
+
+&emsp;&emsp;(A) the records of any entity participating in the plan and providing services reimbursable on a cost-related basis will be audited as the Secretary determines to be necessary to insure that proper payments are made under the plan; and
+
+&emsp;&emsp;(B) not later than December 31, 2010, the State shall—
+
+&emsp;&emsp;&emsp;(i) establish a program under which the State contracts (consistent with State law and in the same manner as the Secretary enters into contracts with recovery audit contractors under section 1395ddd(h) of this title, subject to such exceptions or requirements as the Secretary may require for purposes of this subchapter or a particular State) with 1 or more recovery audit contractors for the purpose of identifying underpayments and overpayments and recouping overpayments under the State plan and under any waiver of the State plan with respect to all services for which payment is made to any entity under such plan or waiver; and
+
+&emsp;&emsp;&emsp;(ii) provide assurances satisfactory to the Secretary that—
+
+&emsp;&emsp;&emsp;&emsp;(I) under such contracts, payment shall be made to such a contractor only from amounts recovered;
+
+&emsp;&emsp;&emsp;&emsp;(II) from such amounts recovered, payment—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) shall be made on a contingent basis for collecting overpayments; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) may be made in such amounts as the State may specify for identifying underpayments;
+
+&emsp;&emsp;&emsp;&emsp;(III) the State has an adequate process for entities to appeal any adverse determination made by such contractors; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) such program is carried out in accordance with such requirements as the Secretary shall specify, including—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) for purposes of section 1396b(a)(7) of this title, that amounts expended by the State to carry out the program shall be considered amounts expended as necessary for the proper and efficient administration of the State plan or a waiver of the plan;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) that section 1396b(d) of this title shall apply to amounts recovered under the program; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) that the State and any such contractors under contract with the State shall coordinate such recovery audit efforts with other contractors or entities performing audits of entities receiving payments under the State plan or waiver in the State, including efforts with Federal and State law enforcement with respect to the Department of Justice, including the Federal Bureau of Investigations,<sup>7</sup> the Inspector General of the Department of Health and Human Services, and the State medicaid fraud control unit; and
 
 &emsp;(43) provide for—
 
@@ -304,7 +350,7 @@ A State plan for medical assistance must—
 
 &emsp;&emsp;&emsp;(ii) the number of children referred for corrective treatment (the need for which is disclosed by such child health screening services),
 
-&emsp;&emsp;&emsp;(iii) the number of children receiving dental services, and other information relating to the provision of dental services to such children described in section 1397hh(e) <sup>7</sup> of this title and
+&emsp;&emsp;&emsp;(iii) the number of children receiving dental services, and other information relating to the provision of dental services to such children described in section 1397hh(e) <sup>8</sup> of this title and
 
 &emsp;&emsp;&emsp;(iv) the State's results in attaining the participation goals set for the State under section 1396d(r) of this title;
 
@@ -346,7 +392,7 @@ A State plan for medical assistance must—
 
 &emsp;(55) provide for receipt and initial processing of applications of individuals for medical assistance under subsection (a)(10)(A)(i)(IV), (a)(10)(A)(i)(VI), (a)(10)(A)(i)(VII), or (a)(10)(A)(ii)(IX) of this section—
 
-&emsp;&emsp;(A) at locations which are other than those used for the receipt and processing of applications for aid under part A of subchapter IV of this chapter and which include facilities defined as disproportionate share hospitals under section 1396r–4(a)(1)(A) of this title and Federally-qualified health centers described in section 1396d(1)(2)(B) <sup>8</sup> of this title, and
+&emsp;&emsp;(A) at locations which are other than those used for the receipt and processing of applications for aid under part A of subchapter IV of this chapter and which include facilities defined as disproportionate share hospitals under section 1396r–4(a)(1)(A) of this titleand Federally-qualified health centers described in section 1396d(1)(2)(B) <sup>9</sup> of this title, and
 
 &emsp;&emsp;(B) using applications which are other than those used for applications for aid under such part;
 
@@ -360,7 +406,7 @@ A State plan for medical assistance must—
 
 &emsp;(60) provide that the State agency shall provide assurances satisfactory to the Secretary that the State has in effect the laws relating to medical child support required under section 1396g–1 of this title;
 
-&emsp;(61) provide that the State must demonstrate that it operates a medicaid fraud and abuse control unit described in section 1396b(q) of this title that effectively carries out the functions and requirements described in such section, as determined in accordance with standards established by the Secretary, unless the State demonstrates to the satisfaction of the Secretary that the effective operation of such a unit in the State would not be cost-effective because minimal fraud exists in connection with the provision of covered services to eligible individuals under the State plan,and that beneficiaries under the plan will be protected from abuse and neglect in connection with the provision of medical assistance under the plan without the existence of such a unit;
+&emsp;(61) provide that the State must demonstrate that it operates a medicaid fraud and abuse control unit described in section 1396b(q) of this title that effectively carries out the functions and requirements described in such section, as determined in accordance with standards established by the Secretary, unless the State demonstrates to the satisfaction of the Secretary that the effective operation of such a unit in the State would not be cost-effective because minimal fraud exists in connection with the provision of covered services to eligible individuals under the State plan, and that beneficiaries under the plan will be protected from abuse and neglect in connection with the provision of medical assistance under the plan without the existence of such a unit;
 
 &emsp;(62) provide for a program for the distribution of pediatric vaccines to program-registered providers for the immunization of vaccine-eligible children in accordance with section 1396s of this title;
 
@@ -406,13 +452,43 @@ A State plan for medical assistance must—
 
 &emsp;(71) provide that the State will implement an asset verification program as required under section 1396w of this title;
 
-&emsp;(72) provide that the State will not prevent a Federally-qualified health center from entering into contractual relationships with private practice dental providers in the provision of Federally-qualified health center services; and
+&emsp;(72) provide that the State will not prevent a Federally-qualified health center from entering into contractual relationships with private practice dental providers in the provision of Federally-qualified health center services;
 
 &emsp;(73) in the case of any State in which 1 or more Indian Health Programs or Urban Indian Organizations furnishes health care services, provide for a process under which the State seeks advice on a regular, ongoing basis from designees of such Indian Health Programs and Urban Indian Organizations on matters relating to the application of this subchapter that are likely to have a direct effect on such Indian Health Programs and Urban Indian Organizations and that—
 
 &emsp;&emsp;(A) shall include solicitation of advice prior to submission of any plan amendments, waiver requests, and proposals for demonstration projects likely to have a direct effect on Indians, Indian Health Programs, or Urban Indian Organizations; and
 
-&emsp;&emsp;(B) may include appointment of an advisory committee and of a designee of such Indian Health Programs and Urban Indian Organizations to the medical care advisory committee advising the State on its State plan under this subchapter.
+&emsp;&emsp;(B) may include appointment of an advisory committee and of a designee of such Indian Health Programs and Urban Indian Organizations to the medical care advisory committee advising the State on its State plan under this subchapter;
+
+&emsp;(74) provide for maintenance of effort under the State plan or under any waiver of the plan in accordance with subsection (gg);
+
+&emsp;(75) provide that, beginning January 2015, and annually thereafter, the State shall submit a report to the Secretary that contains—
+
+&emsp;&emsp;(A) the total number of enrolled and newly enrolled individuals in the State plan or under a waiver of the plan for the fiscal year ending on September 30 of the preceding calendar year, disaggregated by population, including children, parents, nonpregnant childless adults, disabled individuals, elderly individuals, and such other categories or sub-categories of individuals eligible for medical assistance under the State plan or under a waiver of the plan as the Secretary may require;
+
+&emsp;&emsp;(B) a description, which may be specified by population, of the outreach and enrollment processes used by the State during such fiscal year; and
+
+&emsp;&emsp;(C) any other data reporting determined necessary by the Secretary to monitor enrollment and retention of individuals eligible for medical assistance under the State plan or under a waiver of the plan;
+
+&emsp;(76) provide that any data collected under the State plan meets the requirements of section 3101 of the Public Health Service Act \[42 U.S.C. 300kk\];
+
+&emsp;(77) provide that the State shall comply with provider and supplier screening, oversight, and reporting requirements in accordance with subsection (kk);
+
+&emsp;(79) <sup>10</sup> provide that any agent, clearinghouse, or other alternate payee (as defined by the Secretary) that submits claims on behalf of a health care provider must register with the State and the Secretary in a form and manner specified by the Secretary;
+
+&emsp;(80) provide that the State shall not provide any payments for items or services provided under the State plan or under a waiver to any financial institution or entity located outside of the United States;
+
+&emsp;(81) provide that the State will comply with such regulations regarding the application of primary and secondary payor rules with respect to individuals who are eligible for medical assistance under this subchapter and are eligible beneficiaries under the CLASS program established under title XXXII of thePublic Health Service Act \[42 U.S.C. 300<i>ll</i> et seq.\] as the Secretary shall establish;
+
+&emsp;(82) provide that, not later than 2 years after March 23, 2010, each State shall—
+
+&emsp;&emsp;(A) assess the extent to which entities such as providers of home care, home health services, home and community service providers, public authorities created to provide personal care services to individuals eligible for medical assistance under the State plan, and nonprofit organizations, are serving or have the capacity to serve as fiscal agents for, employers of, and providers of employment-related benefits for, personal care attendant workers who provide personal care services to individuals receiving benefits under the CLASS program established under title XXXII of the Public Health Service Act \[42 U.S.C. 300<i>ll</i> et seq.\], including in rural and underserved areas;
+
+&emsp;&emsp;(B) designate or create such entities to serve as fiscal agents for, employers of, and providers of employment-related benefits for, such workers to ensure an adequate supply of the workers for individuals receiving benefits under the CLASS program, including in rural and underserved areas; and
+
+&emsp;&emsp;(C) ensure that the designation or creation of such entities will not negatively alter or impede existing programs, models, methods, or administration of service delivery that provide for consumer controlled or self-directed home and community services and further ensure that such entities will not impede the ability of individuals to direct and control their home and community services, including the ability to select, manage, dismiss, co-employ, or employ such workers or inhibit such individuals from relying on family members for the provision of personal care services; and
+
+&emsp;(83) provide for implementation of the payment models specified by the Secretary under section 1315a(c) of this title for implementation on a nationwide basis unless the State demonstrates to the satisfaction of the Secretary that implementation would not be administratively feasible or appropriate to the health care delivery system of the State.
 
 > Notwithstanding paragraph (5), if on January 1, 1965, and on the date on which a State submits its plan for approval under this subchapter, the State agency which administered or supervised the administration of the plan of such State approved under subchapter X of this chapter (or subchapter XVI of this chapter, insofar as it relates to the blind) was different from the State agency which administered or supervised the administration of the State plan approved under subchapter I of this chapter (or subchapter XVI of this chapter, insofar as it relates to the aged), the State agency which administered or supervised the administration of such plan approved under subchapter X of this chapter (or subchapter XVI of this chapter, insofar as it relates to the blind) may be designated to administer or supervise the administration of the portion of the State plan for medical assistance which relates to blind individuals and a different State agency may be established or designated to administer or supervise the administration of the rest of the State plan for medical assistance; and in such case the part of the plan which each such agency administers, or the administration of which each such agency supervises, shall be regarded as a separate plan for purposes of this subchapter (except for purposes of paragraph (10)). The provisions of paragraphs (9)(A), (31), and (33) and of section 1396b(i)(4) of this title shall not apply to a religious nonmedical health care institution (as defined in section 1395x(ss)(1) of this title).
 
@@ -436,13 +512,13 @@ Notwithstanding subsection (b) of this section, the Secretary shall not approve 
 
 #### (d) Performance of medical or utilization review functions
 
-If a State contracts with an entity which meets the requirements of section 1320c–1 of this title, as determined by the Secretary, or a utilization and quality control peer review organization having a contract with the Secretary under part B of subchapter XI of this chapter for the performance of medical or utilization review functions required under this subchapter of a State plan with respect to specific services or providers (or services or providers in a geographic area of the State), such requirementsshall be deemed to be met for those services or providers (or services or providers in that area) by delegation to such an entity or organization under the contract of the State's authority to conduct such review activities if the contract provides for the performance of activities not inconsistent with part B of subchapter XI of this chapter and provides for such assurances of satisfactory performance by such an entity or organization as the Secretary may prescribe.
+If a State contracts with an entity which meets the requirements of section 1320c–1 of this title, as determined by the Secretary, or a utilization and quality control peer review organization having a contract with the Secretary under part B of subchapter XI of this chapter for the performance of medical or utilization review functions required under this subchapter of a State plan with respect to specific services or providers (or services or providers in a geographic area of the State), such requirements shall be deemed to be met for those services or providers (or services or providers in that area) by delegation to such an entity or organization under the contract of the State's authority to conduct such review activities if the contract provides for the performance of activities not inconsistent with part B of subchapter XI of this chapter and provides for such assurances of satisfactory performance by such an entity or organization as the Secretary may prescribe.
 
 #### (e) Continued eligibility of families determined ineligible because of income and resources or hours of work limitations of plan; individuals enrolled with health maintenance organizations; persons deemed recipients of supplemental security income or State supplemental payments; entitlement for certain newborns; postpartum eligibility for pregnant women
 
 (1)(A) Notwithstanding any other provision of this subchapter, effective January 1, 1974, subject to subparagraph (B) each State plan approved under this subchapter must provide that each family which was receiving aid pursuant to a plan of the State approved under part A of subchapter IV of this chapter in at least 3 of the 6 months immediately preceding the month in which such family became ineligible for such aid because of increased hours of, or increased income from, employment, shall, while a member of such family is employed, remain eligible for assistance under the plan approved under this subchapter (as though the family was receiving aid under the plan approved under part A of subchapter IV of this chapter) for 4 calendar months beginning with the month in which such family became ineligible for aid under the plan approved under part A of subchapter IV of this chapter because of income and resources or hours of work limitations contained in such plan.
 
-(B) Subparagraph (A) shall not apply with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter during the period beginning on April 1, 1990, and ending on December 31, 2010. During such period, for provisions relating to extension of eligibility for medical assistance for certain families who have received aid pursuant to a State plan approved under part A of subchapter IV of this chapter and have earned income, see section 1396r–6 of this title.
+(B) Subparagraph (A) shall not apply with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter during the period beginning on April 1, 1990, and ending on December 31, 2011. During such period, for provisions relating to extension of eligibility for medical assistance for certain families who have received aid pursuant to a State plan approved under part A of subchapter IV of this chapter and have earned income, see section 1396r–6 of this title.
 
 (2)(A) In the case of an individual who is enrolled with a medicaid managed care organization (as defined in section 1396b(m)(1)(A) of this title), with a primary care case manager (as defined in section 1396d(t) of this title), or with an eligible organization with a contract under section 1395mm of this title and who would (but for this paragraph) lose eligibility for benefits under this subchapter before the end of the minimum enrollment period (defined in subparagraph (B)), the State plan may provide, notwithstanding any other provision of this subchapter, that the individual shall be deemed to continue to be eligible for such benefits until the end of such minimum period, but, except for benefits furnished under section 1396d(a)(4)(C) of this title, only with respect to such benefits provided to the individual as an enrollee of such organization or entity or by or through the case manager.
 
@@ -464,7 +540,7 @@ If a State contracts with an entity which meets the requirements of section 1320
 
 > shall be deemed, for purposes of this subchapter only, to be an individual with respect to whom a supplemental security income payment, or State supplemental payment, respectively, is being paid under subchapter XVI of this chapter.
 
-(4) A child born to a woman eligible for and receiving medical assistance under a State plan on the date of the child's birth shall be deemed to have applied for medical assistance and to have been found eligible for such assistance under such plan on the date of such birth and to remain eligible for such assistance for a period of one year. During the period in which a child is deemed under the preceding sentence to be eligible for medical assistance, the medical assistance eligibility identification number of the mother shall also serve as the identification number of the child, and all claims shall be submitted and paid under such number (unless the State issues a separate identification number for the child before such period expires). Notwithstanding the preceding sentence, in the case of a child who is born in the United States to an alien mother for whom medical assistance for the delivery of the child is made available pursuant to section 1396b(v) of this title, the State immediately shall issue a separate identification number for the child upon notification by the facility at which such delivery occurred of the child's birth.
+(4) A child born to a woman eligible for and receiving medical assistance under a State plan on the date of the child's birth shall be deemed to have applied for medical assistance and to have been found eligible for such assistance under such plan on the date of such birth and to remain eligible for such assistance for a period of one year. During the period in which a child is deemed under the preceding sentence to be eligible for medical assistance, the medical assistance eligibility identification number of the mother shall also serve as the identification number of the child, and all claims shall be submitted and paid under such number (unless theState issues a separate identification number for the child before such period expires). Notwithstanding the preceding sentence, in the case of a child who is born in the United States to an alien mother for whom medical assistance for the delivery of the child is made available pursuant to section 1396b(v) of this title, the State immediately shall issue a separate identification number for the child upon notification by the facility at which such delivery occurred of the child's birth.
 
 (5) A woman who, while pregnant, is eligible for, has applied for, and has received medical assistance under the State plan, shall continue to be eligible under the plan, as though she were pregnant, for all pregnancy-related and postpartum medical assistance under the plan, through the end of the month in which the 60-day period (beginning on the last day of her pregnancy) ends.
 
@@ -504,7 +580,7 @@ If a State contracts with an entity which meets the requirements of section 1320
 
 (B) For purposes of subparagraph (A), the term “minimum enrollment period” means, with respect to an individual's enrollment with a group health plan, a period established by the State, of not more than 6 months beginning on the date the individual's enrollment under the plan becomes effective.
 
-(12) At the option of the State, the plan may provide that an individual who is under an age specified by the State (not to exceed 19 years of age) and who is determined to be eligible for benefits under a State plan approved under this subchapter under subsection (a)(10)(A) of this section shall remain eligible for those benefits until the earlier of—
+(12) At the option of the State, the plan may provide that an individual who is under an age specified by the State (not to exceed 19 years of age) and who is determined to be eligible forbenefits under a State plan approved under this subchapter under subsection (a)(10)(A) of this section shall remain eligible for those benefits until the earlier of—
 
 &emsp;(A) the end of a period (not to exceed 12 months) following the determination; or
 
@@ -520,7 +596,7 @@ In general.—
 
 &emsp;&emsp;(i)
 
-Option to use a finding from an express lane agency.—At the option of the State, the State plan may provide that in determining eligibility under this subchapter for a child (as defined in subparagraph (G)), the State may rely on a findingmade within a reasonable period (as determined by the State) from an Express Lane agency (as defined in subparagraph (F)) when it determines whether a child satisfies one or more components of eligibility for medical assistance under this subchapter. The State may rely on a finding from an Express Lane agency notwithstanding sections 1396a(a)(46)(B) and 1320b–7(d) of this title or any differences in budget unit, disregard, deeming or other methodology, if the following requirements are met:
+Option to use a finding from an express lane agency.—At the option of the State, the State plan may provide that in determining eligibility under this subchapter for a child (as defined in subparagraph (G)), the State may rely on a finding made within a reasonable period (as determined by the State) from an Express Lane agency (as defined in subparagraph (F)) when it determines whether a child satisfies one or more components of eligibility for medical assistance under this subchapter. The State may rely on a finding from an Express Lane agency notwithstanding sections 1396a(a)(46)(B) and 1320b–7(d) of this title or any differences in budget unit, disregard, deeming or other methodology, if the following requirements are met:
 
 &emsp;&emsp;&emsp;(I)
 
@@ -576,7 +652,7 @@ Children with income not above threshold.—If the income of a child does not ex
 
 &emsp;&emsp;&emsp;(III)
 
-Children with income above threshold.—If the income of a child exceeds the screening threshold, the child shall be considered to have an income above the Medicaid applicable income level described in section 1397jj(b)(4) of this title and to satisfy the requirement under section 1397jj(b)(1)(C) of this title (relating to the requirement that CHIP matching funds be used only for children not eligible for Medicaid). If such a child is enrolled in child health assistance under subchapter XXI, the State shall provide the parent, guardian, or custodial relative with the following:
+Children with income above threshold.—If the income of a child exceeds the screening threshold, the child shall be considered to have an income above the Medicaid applicable income level described in section 1397jj(b)(4) of this title and to satisfy the requirement under section 1397jj(b)(1)(C) of this title (relating to the requirement that CHIP matching funds be used only for children not eligible for Medicaid). If such a child is enrolled in child health assistance under subchapter XXI, the State shall provide the parent,guardian, or custodial relative with the following:
 
 &emsp;&emsp;&emsp;&emsp;(aa) Notice that the child may be eligible to receive medical assistance under the State plan under this subchapter if evaluated for such assistance under the State's regular procedures and notice of the process through which a parent, guardian, or custodial relative can request that the State evaluate the child's eligibility for medical assistance under this subchapter using such regular procedures.
 
@@ -624,7 +700,7 @@ Coding; application to enrollment error rates.—
 
 &emsp;&emsp;(i)
 
-In general.—For purposes of subparagraph (A)(iv),<sup>9</sup> the requirement of this subparagraph for a State is that the State agrees to—
+In general.—For purposes of subparagraph (A)(iv),<sup>11</sup> the requirement of this subparagraph for a State is that the State agrees to—
 
 &emsp;&emsp;&emsp;(I) assign such codes as the Secretary shall require to the children who are enrolled in the State Medicaid plan or the State CHIP plan through reliance on a finding made by an Express Lane agency for the duration of the State's election under this paragraph;
 
@@ -672,7 +748,7 @@ In general.—In this paragraph, the term “Express Lane agency” means a publ
 
 &emsp;&emsp;(ii)
 
-Inclusion of specific public agencies.—Such term includes the following:
+Inclusion of specific public agencies and Indian tribes and tribal organizations.—Such term includes the following:
 
 &emsp;&emsp;&emsp;(I) A public agency that determines eligibility for assistance under any of the following:
 
@@ -704,6 +780,8 @@ Inclusion of specific public agencies.—Such term includes the following:
 
 &emsp;&emsp;&emsp;(III) A public agency that is subject to an interagency agreement limiting the disclosure and use of the information disclosed for purposes of determining eligibility under the State Medicaid plan or the State CHIP plan.
 
+&emsp;&emsp;&emsp;(IV) The Indian Health Service, an Indian Tribe, Tribal Organization, or Urban Indian Organization (as defined in section 1320b–9(c) of this title).
+
 &emsp;&emsp;(iii)
 
 Exclusions.—Such term does not include an agency that determines eligibility for a program established under the Social Services Block Grant established under subchapter XX or a private, for-profit organization.
@@ -712,7 +790,7 @@ Exclusions.—Such term does not include an agency that determines eligibility f
 
 Rules of construction.—Nothing in this paragraph shall be construed as—
 
-&emsp;&emsp;&emsp;(I) exempting a State Medicaid agency from complying with the requirements of section 1396a(a)(4) of this title relating to merit-based personnel standards for employees of the State Medicaid agency and safeguards against conflicts of interest); <sup>10</sup> or
+&emsp;&emsp;&emsp;(I) exempting a State Medicaid agency from complying with the requirements of section 1396a(a)(4) of this title relating to merit-based personnel standards for employees of the State Medicaid agency and safeguards against conflicts of interest); <sup>12</sup> or
 
 &emsp;&emsp;&emsp;(II) authorizing a State Medicaid agency that elects to use Express Lane agencies under this subparagraph to use the Express Lane option to avoid complying with such requirements for purposes of making eligibility determinations under the State Medicaid plan.
 
@@ -752,6 +830,10 @@ State option to rely on state income tax data or return.—At the option of the 
 
 Application.—This paragraph shall not apply with respect to eligibility determinations made after September 30, 2013.
 
+(14)
+
+Exclusion of compensation for participation in a clinical trial for testing of treatments for a rare disease or condition.—The first $2,000 received by an individual (who has attained 19 years of age) as compensation for participation in a clinical trial meeting the requirements of section 1382a(b)(26) of this title shall be disregarded for purposes of determining the income eligibility of such individual for medical assistance under the State plan or any waiver of such plan.
+
 #### (f) Effective date of State plan as determinative of duty of State to provide medical assistance to aged, blind, or disabled individuals
 
 Notwithstanding any other provision of this subchapter, except as provided in subsection (e) of this section and section 1382h(b)(3) of this title and section 1396r–5 of this title, except with respect to qualified disabled and working individuals (described in section 1396d(s) of this title), and except with respect to qualified medicare beneficiaries, qualified severely impaired individuals, and individuals described in subsection (m)(1) of this subsection, no State not eligible to participate in the State plan program established under subchapter XVI of this chapter shall be required to provide medical assistance to any aged, blind, or disabled individual (within the meaning of subchapter XVI of this chapter) for any month unless such State would be (or would have been) required to provide medical assistance to such individual for such month had its plan for medical assistance approved under this subchapter and in effect on January 1, 1972, been in effect in such month, except that for this purpose any such individual shall be deemed eligible for medical assistance under such State plan if (in addition to meeting such other requirements as are or may be imposed under the State plan) the income of any such individual as determined in accordance with section 1396b(f) of this title (after deducting any supplemental security income payment and State supplementary payment made with respect to such individual, and incurred expenses for medical care as recognized under State law regardless of whether such expenses are reimbursed under another public program of the State or political subdivision thereof) is not in excess of the standard for medical assistance established under the State plan as in effect on January 1, 1972. In States which provide medical assistance to individuals pursuant to paragraph (10)(C) of subsection (a) of this section, an individual who is eligible for medical assistance by reason of the requirements of this section concerning the deduction of incurred medical expenses from income shall be considered an individual eligible for medical assistance under paragraph (10)(A) of that subsection if that individual is, or is eligible to be (1) an individual with respect to whom there is payable a State supplementary payment on the basis of which similarly situated individuals are eligible to receive medical assistance equal in amount, duration, and scope to that provided to individuals eligible under paragraph (10)(A), or (2) an eligible individual or eligible spouse, as defined in subchapter XVI of this chapter, with respect to whom supplemental security income benefits are payable; otherwise that individual shall be considered to be an individual eligible for medical assistance under paragraph (10)(C) of that subsection. In States which do not provide medical assistance to individuals pursuant to paragraph (10)(C) of that subsection, an individual who is eligible for medical assistance by reason of the requirements of this section concerning the deduction of incurred medical expenses from income shall be considered an individual eligible for medical assistance under paragraph (10)(A) of that subsection.
@@ -766,7 +848,7 @@ Nothing in this subchapter (including subsections (a)(13) and (a)(30) of this se
 
 #### (i) Termination of certification for participation of and suspension of State payments to intermediate care facilities for the mentally retarded
 
-(1) In addition to any other authority under State law, where a State determines that a <sup>11</sup> intermediate care facility for the mentally retarded which is certified for participation under its plan no longer substantially meets the requirements for such a facility under this subchapter and further determines that the facility's deficiencies—
+(1) In addition to any other authority under State law, where a State determines that a <sup>13</sup> intermediate care facility for the mentally retarded which is certified for participation under its plan no longer substantially meets the requirements for such a facility under this subchapter and further determines that the facility's deficiencies—
 
 &emsp;(A) immediately jeopardize the health and safety of its patients, the State shall provide for the termination of the facility's certification for participation under the plan and may provide, or
 
@@ -782,7 +864,13 @@ Nothing in this subchapter (including subsections (a)(13) and (a)(30) of this se
 
 Notwithstanding any other requirement of this subchapter, the Secretary may waive or modify any requirement of this subchapter with respect to the medical assistance program in American Samoa and the Northern Mariana Islands, other than a waiver of the Federal medical assistance percentage, the limitation in section 1308(f) of this title, or the requirement that payment may be made for medical assistance only with respect to amounts expended by American Samoa or the Northern Mariana Islands for care and services described in a numbered paragraph of section 1396d(a) of this title.
 
-#### (k) Repealed. Pub. L. 103–66, title XIII, §13611(d)(1)(C), Aug. 10, 1993, 107 Stat. 627
+#### (k) Minimum coverage for individuals with income at or below 133 percent of the poverty line
+
+(1) The medical assistance provided to an individual described in subclause (VIII) of subsection (a)(10)(A)(i) shall consist of benchmark coverage described in section 1396u–7(b)(1) of this title or benchmark equivalent coverage described in section 1396u–7(b)(2) of this title. Such medical assistance shall be provided subject to the requirements of section 1396u–7 of this title, without regard to whether a State otherwise has elected the option to provide medical assistance through coverage under that section, unless an individual described in subclause (VIII) of subsection (a)(10)(A)(i) is also an individual for whom, under subparagraph (B) of section 1396u–7(a)(2) of this title, the State may not require enrollment in benchmark coverage described in subsection (b)(1) of section 1396u–7 of this title or benchmark equivalent coverage described in subsection (b)(2) of that section.
+
+(2) Beginning with the first day of any fiscal year quarter that begins on or after April 1, 2010, and before January 1, 2014, a State may elect through a State plan amendment to provide medical assistance to individuals who would be described in subclause (VIII) of subsection (a)(10)(A)(i) if that subclause were effective before January 1, 2014. A State may elect to phase-in the extension of eligibility for medical assistance to such individuals based on income, so long as the State does not extend such eligibility to individuals described in such subclause with higher income before making individuals described in such subclause with lower income eligible for medical assistance.
+
+(3) If an individual described in subclause (VIII) of subsection (a)(10)(A)(i) is the parent of a child who is under 19 years of age (or such higher age as the State may have elected) who is eligible for medical assistance under the State plan or under a waiver of such plan (under that subclause or under a State plan amendment under paragraph (2),<sup>14</sup> the individual may not be enrolled under the State plan unless the individual's child is enrolled under the State plan or under a waiver of the plan or is enrolled in other health insurance coverage. For purposes of the preceding sentence, the term “parent” includes an individual treated as a caretaker relative for purposes of carrying out section 1396u–1 of this title.
 
 #### (<i>l</i>) Description of group
 
@@ -822,13 +910,13 @@ Notwithstanding any other requirement of this subchapter, the Secretary may waiv
 
 (B) For purposes of paragraph (1) with respect to individuals described in subparagraph (C) of such paragraph, the State shall establish an income level which is equal to 133 percent of the income official poverty line described in subparagraph (A) applicable to a family of the size involved.
 
-(C) For purposes of paragraph (1) with respect to individuals described in subparagraph (D) of that paragraph, the State shall establish an income level which is equal to 100 percent of the income official poverty line described in subparagraph (A) applicable to a family of the size involved.
+(C) For purposes of paragraph (1) with respect to individuals described in subparagraph (D) of that paragraph, the State shall establish an income level which is equal to 100 percent (or, beginning January 1, 2014, 133 percent) of the income official poverty line described in subparagraph (A) applicable to a family of the size involved.
 
 (3) Notwithstanding subsection (a)(17) of this section, for individuals who are eligible for medical assistance because of subsection (a)(10)(A)(i)(IV), (a)(10)(A)(i)(VI), (a)(10) (A)(i)(VII), or (a)(10)(A)(ii)(IX) of this section—
 
 &emsp;(A) application of a resource standard shall be at the option of the State;
 
-&emsp;(B) any resource standard or methodology that is applied with respect to an individual described in subparagraph (A) of paragraph (1)may not be more restrictive than the resource standard or methodology that is applied under subchapter XVI of this chapter;
+&emsp;(B) any resource standard or methodology that is applied with respect to an individual described in subparagraph (A) of paragraph (1) may not be more restrictive than the resource standard or methodology that is applied under subchapter XVI of this chapter;
 
 &emsp;(C) any resource standard or methodology that is applied with respect to an individual described in subparagraph (B), (C), or (D) of paragraph (1) may not be more restrictive than the corresponding methodology that is applied under the State plan under part A of subchapter IV of this chapter;
 
@@ -898,7 +986,7 @@ Notwithstanding any provision of subsection (a) of this section to the contrary,
 
 &emsp;(2) is in a hospital, skilled nursing facility, or intermediate care facility at the time such benefits are paid,
 
-> will be disregarded for purposes of determining the amount of any post-eligibility contribution by the individual to the cost of the care and services provided by the hospital, skilled nursing facility, or intermediate care facility.
+> will be disregarded for purposes of determining the amount of any post-eligibility contribution by the individual to the cost of the care andservices provided by the hospital, skilled nursing facility, or intermediate care facility.
 
 #### (p) Exclusion power of State; exclusion as prerequisite for medical assistance payments; “exclude” defined
 
@@ -928,7 +1016,7 @@ Notwithstanding any provision of subsection (a) of this section to the contrary,
 
 &emsp;(ii) who is or are determined to be eligible for medical assistance under the State plan.
 
-(2) The minimum monthly personal needs allowance described in this paragraph <sup>12</sup> is $30 for an institutionalized individual and $60 for an institutionalized couple (if both are aged, blind, or disabled, and their incomes are considered available to each other in determining eligibility).
+(2) The minimum monthly personal needs allowance described in this paragraph <sup>15</sup> is $30 for an institutionalized individual and $60 for an institutionalized couple (if both are aged, blind, or disabled, and their incomes are considered available to each other in determining eligibility).
 
 #### (r) Disregarding payments for certain medical expenses by institutionalized individuals
 
@@ -958,7 +1046,7 @@ Notwithstanding any provision of subsection (a) of this section to the contrary,
 
 #### (s) Adjustment in payment for hospital services furnished to low-income children under age of 6 years
 
-In order to meet the requirements of subsection (a)(55) <sup>13</sup> of this section, the State plan must provide that payments to hospitals under the plan for inpatient hospital services furnished to infants who have not attained the age of 1 year, and to children who have not attained the age of 6 years and who receive such services in a disproportionate share hospital described in section 1396r–4(b)(1) of this title, shall—
+In order to meet the requirements of subsection (a)(55) <sup>16</sup> of this section, the State plan must provide that payments to hospitals under the plan for inpatient hospital services furnished to infants who have not attained the age of 1 year, and to children who have not attained the age of 6 years and who receive such services in a disproportionate share hospital described in section 1396r–4(b)(1) of this title, shall—
 
 &emsp;(1) if made on a prospective basis (whether per diem, per case, or otherwise) provide for an outlier adjustment in payment amounts for medically necessary inpatient hospital services involving exceptionally high costs or exceptionally long lengths of stay,
 
@@ -982,7 +1070,7 @@ Nothing in this subchapter (including sections 1396b(a) and 1396d(a) of this tit
 
 &emsp;(D) with respect to whose enrollment for COBRA continuation coverage the State has determined that the savings in expenditures under this subchapter resulting from such enrollment is likely to exceed the amount of payments for COBRA premiums made.
 
-(2) For purposes of subsection (a)(10)(F) of this section and this subsection, the term “COBRApremiums” means the applicable premium imposed with respect to COBRA continuation coverage.
+(2) For purposes of subsection (a)(10)(F) of this section and this subsection, the term “COBRA premiums” means the applicable premium imposed with respect to COBRA continuation coverage.
 
 (3) In this subsection, the term “COBRA continuation coverage” means coverage under a group health plan provided by an employer with 75 or more employees provided pursuant to title XXII of the Public Health Service Act \[42 U.S.C. 300bb–1 et seq.\], section 4980B of the Internal Revenue Code of 1986, or title VI <sup>1</sup> of the Employee Retirement Income Security Act of 1974.
 
@@ -1096,7 +1184,7 @@ Individuals described in this subsection are individuals who—
 
 &emsp;(3) have been screened for breast and cervical cancer under the Centers for Disease Control and Prevention breast and cervical cancer early detection program established under title XV of the Public Health Service Act (42 U.S.C. 300k et seq.) in accordance with the requirements of section 1504 of that Act (42 U.S.C. 300n) and need treatment for breast or cervical cancer; and
 
-&emsp;(4) are not otherwise covered under creditable coverage, as defined in section 2701(c) of the Public Health Service Act (42 U.S.C. 300gg(c)), but applied without regard to paragraph (1)(F) of such section.
+&emsp;(4) are not otherwise covered under creditable coverage, as defined in section 2701(c) <sup>1</sup> of the Public Health Service Act (42 U.S.C. 300gg(c)), but applied without regard to paragraph (1)(F) of such section.
 
 #### (bb) Payment for services provided by Federally-qualified health centers and rural health clinics
 
@@ -1110,7 +1198,7 @@ Individuals described in this subsection are individuals who—
 
 #### (3) Fiscal year 2002 and succeeding fiscal years
 
-&emsp;Subject to paragraph (4), for services furnished during fiscal year 2002 or a succeedingfiscal year, the State plan shall provide for payment for such services in an amount (calculated on a per visit basis) that is equal to the amount calculated for such services under this subsection for the preceding fiscal year—
+&emsp;Subject to paragraph (4), for services furnished during fiscal year 2002 or a succeeding fiscal year, the State plan shall provide for payment for such services in an amount (calculated on a per visit basis) that is equal to the amount calculated for such services under this subsection for the preceding fiscal year—
 
 &emsp;&emsp;(A) increased by the percentage increase in the MEI (as defined in section 1395u(i)(3) of this title) applicable to primary care services (as defined in section 1395u(i)(4) of this title) for that fiscal year; and
 
@@ -1168,7 +1256,7 @@ Individuals described in this subsection are individuals who—
 
 &emsp;(ii) if such coverage is obtained—
 
-&emsp;&emsp;(I) subject to paragraph (2) of section 1396<i>o</i>(h) <sup>14</sup> of this title, reduce the premiumimposed by the State under that section in an amount that reasonably reflects the premium contribution made by the parent for private coverage on behalf of a child with a disability; and
+&emsp;&emsp;(I) subject to paragraph (2) of section 1396<i>o</i>(h) <sup>17</sup> of this title, reduce the premium imposed by the State under that section in an amount that reasonably reflects the premium contribution made by the parent for private coverage on behalf of a child with a disability; and
 
 &emsp;&emsp;(II) treat such coverage as a third party liability under subsection (a)(25).
 
@@ -1176,7 +1264,7 @@ Individuals described in this subsection are individuals who—
 
 #### (dd) Electronic transmission of information
 
-If the State agency determining eligibility for medical assistance under this subchapter or child health assistance under subchapter XXI verifies an element of eligibility based on information from an Express Lane Agency <sup>15</sup> (as defined in subsection (e)(13)(F)), or from another public agency, then the applicant's signature under penalty of perjury shall not be required as to such element. Any signature requirement for an application for medical assistance may be satisfied through an electronic signature, as defined in section 1710(1) of the Government Paperwork Elimination Act (44 U.S.C. 3504 note). The requirements of subparagraphs (A) and (B) of section 1320b–7(d)(2) of this title may be met through evidence in digital or electronic form.
+If the State agency determining eligibility for medical assistance under this subchapter or child health assistance under subchapter XXI verifies an element of eligibility based on information from an Express Lane Agency <sup>18</sup> (as defined in subsection (e)(13)(F)), or from another public agency, then the applicant's signature under penalty of perjury shall not be required as to such element. Any signature requirement for an application for medical assistance may be satisfied through an electronic signature, as defined in section 1710(1) of the Government Paperwork Elimination Act (44 U.S.C. 3504 note). The requirements of subparagraphs (A) and (B) of section 1320b–7(d)(2) of this title may be met through evidence in digital or electronic form.
 
 #### (ee) Alternate State process for verification of citizenship or nationality declaration
 
@@ -1200,13 +1288,13 @@ If the State agency determining eligibility for medical assistance under this su
 
 (B) In establishing the State program under this paragraph, the State may enter into an agreement with the Commissioner of Social Security—
 
-&emsp;(i) to provide, through an on-line system or otherwise, for the electronic submission of, and response to, the information submitted under subparagraph (A) for an individual enrolled in the State plan under this subchapter who declares to be <sup>16</sup> citizen or national on at least a monthly basis; or
+&emsp;(i) to provide, through an on-line system or otherwise, for the electronic submission of, and response to, the information submitted under subparagraph (A) for an individual enrolled in the State plan under this subchapter who declares to be <sup>19</sup> citizen or national on at least a monthly basis; or
 
 &emsp;(ii) to provide for a determination of the consistency of the information submitted with the information maintained in the records of the Commissioner through such other method as agreed to by the State and the Commissioner and approved by the Secretary, provided that such method is no more burdensome for individuals to comply with than any burdens that may apply under a method described in clause (i).
 
 (C) The program established under this paragraph shall provide that, in the case of any individual who is required to submit a social security number to the State under subparagraph (A) and who is unable to provide the State with such number, shall be provided with at least the reasonable opportunity to present satisfactory documentary evidence of citizenship or nationality (as defined in section 1396b(x)(3) of this title) as is provided under clauses (i) and (ii) of section 1320b–7(d)(4)(A) of this title to an individual for the submittal to the State of evidence indicating a satisfactory immigration status.
 
-(3)(A) The State agency implementing the plan approved under this subchapter shall, atsuch times and in such form as the Secretary may specify, provide information on the percentage each month that the inconsistent submissions bears to the total submissions made for comparison for such month. For purposes of this subparagraph, a name, social security number, or declaration of citizenship or nationality of an individual shall be treated as inconsistent and included in the determination of such percentage only if—
+(3)(A) The State agency implementing the plan approved under this subchapter shall, at such times and in such form as the Secretary may specify, provide information on the percentage each month that the inconsistent submissions bears to the total submissions made for comparison for such month. For purposes of this subparagraph, a name, social security number, or declaration of citizenship or nationality of an individual shall be treated as inconsistent and included in the determination of such percentage only if—
 
 &emsp;(i) the information submitted by the individual is not consistent with information in records maintained by the Commissioner of Social Security;
 
@@ -1240,21 +1328,247 @@ Notwithstanding any other requirement of this subchapter or any other provision 
 
 &emsp;(4) Ownership interests in or usage rights to items not covered by paragraphs (1) through (3) that have unique religious, spiritual, traditional, or cultural significance or rights that support subsistence or a traditional lifestyle according to applicable tribal law or custom.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1902, as added Pub. L. 89–97, title I, §121(a), July 30, 1965, 79 Stat. 344; amended Pub. L. 90–248, title II, §§210(a)(6), 223(a), 224(a), (c)(1), 227(a), 228(a), 229(a), 231, 234(a), 235(a), 236(a), 237, 238, 241(f)(1)–(4), title III, §302(b), Jan. 2, 1968, 81 Stat. 896, 901–906, 908, 911, 917, 929; Pub. L. 91–56, §2(c), (d), Aug. 9, 1969, 83 Stat. 99; Pub. L. 92–223, §4(b), Dec. 28, 1971, 85 Stat. 809; Pub. L. 92–603, title II, §§208(a), 209(a), (b)(1), 221(c)(5), 231, 232(a), 236(b), 237(a)(2), 239(a), (b), 240, 246(a), 249(a), 255(a), 268(a), 274(a), 278(a)(18)–(20), (b)(14), 298, 299A, 299D(b), Oct. 30, 1972, 86 Stat. 1381, 1389, 1410, 1415–1418, 1424, 1426, 1446, 1450, 1452–1454, 1460, 1462; Pub. L. 93–233, §§13(a)(2)–(10), 18(<i>o</i>)–(q), (x)(1)–(4), Dec. 31, 1973, 87 Stat. 960–962, 971, 972; Pub. L. 93–368, §9(a), Aug. 7, 1974, 88 Stat. 422; Pub. L. 94–48, §§1, 2, July 1, 1975, 89 Stat. 247; Pub. L. 94–182, title I, §111(a), Dec. 31, 1975, 89 Stat. 1054; Pub. L. 94–552, §1, Oct. 18, 1976, 90 Stat. 2540; Pub. L. 95–142, §§2(a)(3), (b)(1), 3(c)(1), 7(b), (c), 9, 19(b)(2), 20(b), Oct. 25, 1977, 91 Stat. 1176, 1178, 1193, 1195, 1204, 1207; Pub. L. 95–210, §2(c), Dec. 13, 1977, 91 Stat. 1488; Pub. L. 95–559, §14(a)(1), Nov. 1, 1978, 92 Stat. 2140; Pub. L. 96–272, title III, §308(c), June 17, 1980, 94 Stat. 531; Pub. L. 96–499, title IX, §§902(b), 903(b), 905(a), 912(b), 913(c), (d), 914(b)(1), 916(b)(1), 918(b)(1), 962(a), 965(b), Dec. 5, 1980, 94 Stat. 2613, 2615, 2618–2621, 2624, 2626, 2650, 2652; Pub. L. 96–611, §5(b), Dec. 28, 1980, 94 Stat. 3568; Pub. L. 97–35, title XXI, §§2105(c), 2113(m), 2171(a), (b), 2172(a), 2173(a), (b)(1), 2174(a), 2175(a), (d)(1), 2178(b), 2181(a)(2), 2182, 2193(c)(9), Aug. 13, 1981, 95 Stat. 792, 795, 807–809, 811, 814–816, 828; Pub. L. 97–248, title I, §§131(a), (c), formerly (b), 132(a), (c), 134(a), 136(d), 137(a)(3), (b)(7)–(10), (e), 146(a), Sept. 3, 1982, 96 Stat. 367, 369, 370, 373, 375–378, 381, 394; Pub. L. 97–448, title III, §309(a)(8), Jan. 12, 1983, 96 Stat. 2408; Pub. L. 98–369, div. B, title III, §§2303(g)(1), 2314(b), 2335(e), 2361(a), 2362(a), 2363(a)(1), 2367(a), 2368(a), (b), 2373(b)(1)–(10), title VI, §2651(c), July 18, 1984, 98 Stat. 1066, 1079, 1091,1104, 1105, 1108, 1109, 1111, 1149; Pub. L. 98–378, §20(c), Aug. 16, 1984, 98 Stat. 1322; Pub. L. 98–617, §3(a)(7), (b)(10), Nov. 8, 1984, 98 Stat. 3295, 3296; Pub. L. 99–272, title IX, §§9501(b), (c), 9503(a), 9505(b), (c)(1), (d), 9506(a), 9509(a), 9510(a), 9517(b), 9529(a)(1), (b)(1), title XII, §12305(b)(3), Apr. 7, 1986, 100 Stat. 201, 202, 205, 208–212, 216, 220, 293; Pub. L. 99–509, title IX, §§9320(h)(3), 9401(a)–(e)(1), 9402(a), (b), 9403(a), (c), (e)–(g)(1), (4)(A), 9404(a), 9405, 9406(b), 9407(a), 9408(a), (b), (c)(2), (3), 9431(a), (b)(1), 9433(a), 9435(b)(1), Oct. 21, 1986, 100 Stat. 2016, 2050–2058, 2060, 2061, 2066, 2068, 2069; Pub. L. 99–514, title XVIII, §1895(c)(1), (3)(B), (C), (7), Oct. 22, 1986, 100 Stat. 2935, 2936; Pub. L. 99–570, title XI, §11005(b), Oct. 27, 1986, 100 Stat. 3207–169; Pub. L. 99–643, §§3(b), 7(b), Nov. 10, 1986, 100 Stat. 3575, 3579; Pub. L. 100–93, §§5(a), 7, 8(f), Aug. 18, 1987, 101 Stat. 689, 691, 694; Pub. L. 100–203, title IV, §§4072(d), 4101(a)(1), (2), (b)(1)–(2)(B), (c)(2), (e)(1)–(5), 4102(b)(1), 4104, 4113(a)(2), (b)(1), (2), (c)(1), (2), (d)(2), 4116, 4118(c)(1), (h)(1), (2), (m)(1)(B), (p)(1)–(4), (6)–(8), 4211(b)(1), (h)(1)–(5), 4212(d)(2), (3), (e)(1), 4213(b)(1), 4218(a), title IX, §§9115(b), 9119(d)(1), Dec. 22, 1987, 101 Stat. 1330–117, 1330–140 to 1330–143, 1330–146, 1330–147, 1330–151, 1330–152, 1330–154 to 1330–157, 1330–159, 1330–203, 1330–205, 1330–213, 1330–219, 1330–220, 1330–305, as amended Pub. L. 100–360, title IV, §411(k)(5)(A), (7)(B)–(D), (10)(G)(ii), (iv), (<i>l</i>)(3)(H), (J), (8)(C), (n)(2), (4), formerly (3), July 1, 1988, 102 Stat. 791, 794, 796, 803, 805, 807, as amended Pub. L. 100–485, title VI, §608(d)(14)(I), (15)(A), (27)(F)–(H), (28), Oct. 13, 1988, 102 Stat. 2416, 2423; Pub. L. 100–360, title II, §204(d)(3), title III, §§301(a)(1), (e)(2), 302(a), (b)(1), (c)(1), (2), (d)–(e)(3), 303(d), (e), title IV, §411(k)(5)(B), (17)(B), (<i>l</i>)(3)(E), (6)(C), (D), July 1, 1988, 102 Stat. 729, 748–753, 762, 763, 792, 800, 803, 804; Pub. L. 100–485, title II, §202(c)(4), title III, §303(a)(2), (b)(1), (d), title IV, §401(d)(1), title VI, §608(d)(15)(B), (16)(C), Oct. 13, 1988, 102 Stat. 2378, 2391, 2392, 2396, 2416, 2418; Pub. L. 100–647, title VIII, §8434(b)(1), (2), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6115(c), 6401(a), 6402(a), (c)(2), 6403(b), (d)(1), 6404(c), 6405(b), 6406(a), 6408(c)(1), (d)(1), (4)(C), 6411(a)(1), (d)(3)(B), (e)(2), Dec. 19, 1989, 103 Stat. 2219, 2258, 2260, 2261, 2263–2265, 2268–2271; Pub. L. 101–508, title IV, §§4401(a)(2), 4402(a)(1), (c), (d)(1), 4501(b), (e)(2), 4601(a)(1), 4602(a), 4603(a), 4604(a), (b), 4701(b)(1), 4704(a), (e)(1), 4708(a), 4711(c)(1), (d), 4713(a), 4715(a), 4723(b), 4724(a), 4732(b)(1), 4751(a), 4752(a)(1)(A), (c)(1), 4754(a), 4755(a)(2), (c)(1), 4801(e)(1)(A), (11)(A), Nov. 5, 1990, 104 Stat. 1388–143, 1388–161, 1388–163 to 1388–173, 1388–186, 1388–187, 1388–190, 1388–192, 1388–194, 1388–195, 1388–204, 1388–206, 1388–208 to 1388–210, 1388–215, 1388–217; Pub. L. 102–234, §§2(b)(1), 3(a), Dec. 12, 1991, 105 Stat. 1799; Pub. L. 103–66, title XIII, §13581(b)(2), 13601(b), 13602(c), 13603(a)–(c), 13611(d)(1), 13622(a)(1), (b), (c), 13623(a), 13625(a), 13631(a), (e)(1), (f)(1), Aug. 10, 1993, 107 Stat. 611, 613, 619, 620, 626, 632, 633, 636, 643, 644; Pub. L. 103–296, title I, §108(d)(1), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 103–448, title II, §204(w)(2)(E), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title I, §§108(k), 114(b)–(d)(1), title IX, §913, Aug. 22, 1996, 110 Stat. 2169, 2180, 2354; Pub. L. 104–226, §1(b)(2), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 104–248, §1(a)(1), Oct. 9, 1996, 110 Stat. 3148; Pub. L. 105–12, §9(b)(2), Apr. 30, 1997, 111 Stat. 26; Pub. L. 105–33, title IV, §§4106(c), 4454(b)(1), 4701(b)(2)(A)(i)–(iv), (d)(1), 4702(b)(2), 4709, 4711(a), 4712(a), (b)(1), (c)(1), 4714(a)(1), 4715(a), 4724(c)(1), (d), (f), (g)(1), 4731(a), (b), 4732(a), 4733, 4741(a), 4751(a), (b), 4752(a), 4753(b), 4911(b), 4912(b)(1), 4913(a), Aug. 5, 1997, 111 Stat. 368, 431, 493, 495, 506–510, 516, 517, 519, 520, 522–525, 571, 573; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§603(a)(1), 604(a)(1), (2)(A), (b)(1), 608(a)–(d), (y)(2), (aa)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–394 to 1501A–398; Pub. L. 106–169, title I, §121(a)(1), (c)(4), title II, §§205(c), 206(b), Dec. 14, 1999, 113 Stat. 1829, 1830, 1834, 1837; Pub. L. 106–170, title II, §201(a)(1), (2)(A), Dec. 17, 1999, 113 Stat. 1891, 1892; Pub. L. 106–354, §2(a)(1)–(3), (b)(2)(A), Oct. 24, 2000, 114 Stat. 1381–1383; Pub. L. 106–554, §1(a)(6) \[title VII, §§702(a)–(c)(1), 707(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–572 to 2763A–574, 2763A–577; Pub. L. 107–121, §2(a), (b)(1), (2), Jan. 15, 2002, 115 Stat. 2384; Pub. L. 108–40, §7(b), June 30, 2003, 117 Stat. 837; Pub. L. 108–89, title IV, §401(a), Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–173, title I, §103(a)(1), (f)(1), title II, §236(b)(1), Dec. 8, 2003, 117 Stat. 2154, 2160, 2211; Pub. L. 108–265, title I, §105(b), June 30, 2004, 118 Stat. 744; Pub. L. 108–448, §1(a), Dec. 8, 2004, 118 Stat. 3467; Pub. L. 109–91, title I, §101(a), Oct. 20, 2005, 119 Stat. 2091; Pub. L. 109–171, title VI, §§6032(a), 6034(b), 6035(a), (b), 6062(a), 6065(a), 6083(a), Feb. 8, 2006, 120 Stat. 73, 76, 78, 79, 96, 101, 120; Pub. L. 109–432, div. B, title IV, §405(c)(2)(A)(iv), Dec. 20, 2006, 120 Stat. 3000; Pub. L. 110–90, §3(a), Sept. 29, 2007, 121 Stat. 984; Pub. L. 110–173, title II, §203(a), Dec. 29, 2007, 121 Stat. 2513; Pub. L. 110–252, title VII, §7001(d)(2), June 30, 2008, 122 Stat. 2394; Pub. L. 110–275, title I, §111(a), July 15, 2008, 122 Stat. 2503; Pub. L. 111–3, title I, §113(b)(1), title II, §§203(a)(1), (c), (d)(3), 211(a)(1)(A), (b)(3)(B), title V, §501(d)(1), (e)(1), Feb. 4, 2009, 123 Stat. 34, 40, 47, 49, 54, 87; Pub. L. 111–5, div. B, title V, §§5004(a)(1), 5005(a), 5006(b)(1), (e)(2)(A), Feb. 17, 2009, 123 Stat. 503, 505, 506, 510.)
+#### (gg) Maintenance of effort
 
-#### Repeal of Subsection (a)(29)
+#### (1) General requirement to maintain eligibility standards until State exchange is fully operational
+
+&emsp;Subject to the succeeding paragraphs of this subsection, during the period that begins on March 23, 2010, and ends on the date on which the Secretary determines that an Exchange established by the State under section 18031 of this title is fully operational, as a condition for receiving any Federal payments under section 1396b(a) of this title for calendar quarters occurring during such period, a State shall not have in effect eligibility standards, methodologies, or procedures under the State plan under this subchapter or under any waiver of such plan that is in effect during that period, that are more restrictive than the eligibility standards, methodologies, or procedures, respectively, under the plan or waiver that are in effect on March 23, 2010.
+
+#### (2) Continuation of eligibility standards for children until October 1, 2019
+
+&emsp;The requirement under paragraph (1) shall continue to apply to a State through September 30, 2019, with respect to the eligibility standards, methodologies, and procedures under the State plan under this subchapter or under any waiver of such plan that are applicable to determining the eligibility for medical assistance of any child who is under 19 years of age (or such higher age as the State may have elected).
+
+#### (3) Nonapplication
+
+&emsp;During the period that begins on January 1, 2011, and ends on December 31, 2013, the requirement under paragraph (1) shall not apply to a State with respect to nonpregnant, nondisabled adults who are eligible for medical assistance under the State plan or under a waiver of the plan at the option of the State and whose income exceeds 133 percent of the poverty line (as defined in section 1397jj(c)(5) of this title) applicable to a family of the size involved if, on or after December 31, 2010, the State certifies to the Secretary that, with respect to the State fiscal year during which the certification is made, the State has a budget deficit, or with respect to the succeeding State fiscal year, the State is projected to have a budget deficit. Upon submission of such a certification to the Secretary, the requirement under paragraph (1) shall not apply to the State with respect to any remaining portion of the period described in the preceding sentence.
+
+#### (4) Determination of compliance
+
+#### (A) States shall apply modified adjusted gross income
+
+&emsp;&emsp;A State's determination of income in accordance with subsection (e)(14) shall not be considered to be eligibility standards, methodologies, or procedures that are more restrictive than the standards, methodologies, or procedures in effect under the State plan or under a waiver of the plan on March 23, 2010, for purposes of determining compliance with the requirements of paragraph (1), (2), or (3).
+
+#### (B) States may expand eligibility or move waivered populations into coverage under the State plan
+
+&emsp;&emsp;With respect to any period applicable under paragraph (1), (2), or (3), a State that applies eligibility standards, methodologies, or procedures under the State plan under this subchapter or under any waiver of the plan that are less restrictive than the eligibility standards, methodologies, or procedures, applied under the State plan or under a waiver of the plan on March 23, 2010, or that makes individuals who, on March 23, 2010, are eligible for medical assistance under a waiver of the State plan, after March 23, 2010, eligible for medical assistance through a State plan amendment with an income eligibility level that is not less than the income eligibility level that applied under the waiver, or as a result of the application of subclause (VIII) of subsection (a)(10)(A)(i), shall not be considered to have in effect eligibility standards, methodologies, or procedures that are more restrictive than the standards, methodologies, or procedures in effect under the State plan or under a waiver of the plan on March 23, 2010, for purposes of determining compliance with the requirements of paragraph (1), (2), or (3).
+
+#### (hh) State option for coverage for individuals with income that exceeds 133 percent of the poverty line
+
+(1) A State may elect to phase-in the extension of eligibility for medical assistance to individuals described in subclause (XX) of subsection (a)(10)(A)(ii) based on the categorical group (including nonpregnant childless adults) or income, so long as the State does not extend such eligibility to individuals described in such subclause with higher income before making individuals described in such subclause with lower income eligible for medical assistance.
+
+(2) If an individual described in subclause (XX) of subsection (a)(10)(A)(ii) is the parent of a child who is under 19 years of age (or such higher age as the State may have elected) who is eligible for medical assistance under the State plan or under a waiver of such plan, the individual may not be enrolled under the State plan unless the individual's child is enrolled under the State plan or under a waiver of the plan or is enrolled in other health insurance coverage. For purposes of the preceding sentence, the term “parent” includes an individual treated as a caretaker relative for purposes of carrying out section 1396u–1 of this title.
+
+#### (ii) State eligibility option for family planning services
+
+(1) Individuals described in this subsection are individuals—
+
+&emsp;(A) whose income does not exceed an income eligibility level established by the State that does not exceed the highest income eligibility level established under the State plan under this subchapter (or under its State child health plan under subchapter XXI) for pregnant women; and
+
+&emsp;(B) who are not pregnant.
+
+(2) At the option of a State, individuals described in this subsection may include individuals who, had individuals applied on or before January 1, 2007, would have been made eligible pursuant to the standards and processes imposed by that State for benefits described in clause (XVI) of the matter following subparagraph (G) of section <sup>20</sup> subsection (a)(10) pursuant to a waiver granted under section 1315 of this title.
+
+(3) At the option of a State, for purposes of subsection (a)(17)(B), in determining eligibility for services under this subsection, the State may consider only the income of the applicant or recipient.
+
+#### (jj) Primary care services defined
+
+For purposes of subsection (a)(13)(C), the term “primary care services” means—
+
+&emsp;(1) evaluation and management services that are procedure codes (for services covered under subchapter XVIII) for services in the category designated Evaluation and Management in the Healthcare Common Procedure Coding System (established by the Secretary under section 1395w–4(c)(5) of this title as of December 31, 2009, and as subsequently modified); and
+
+&emsp;(2) services related to immunization administration for vaccines and toxoids for which CPT codes 90465, 90466, 90467, 90468, 90471, 90472, 90473, or 90474 (as subsequently modified) apply under such System.
+
+#### (kk) Provider and supplier screening, oversight, and reporting requirements
+
+For purposes of subsection (a)(77), the requirements of this subsection are the following:
+
+#### (1) Screening
+
+&emsp;The State complies with the process for screening providers and suppliers under this subchapter, as established by the Secretary under section 1395cc(j)(2) <sup>1</sup> of this title.
+
+#### (2) Provisional period of enhanced oversight for new providers and suppliers
+
+&emsp;The State complies with procedures to provide for a provisional period of enhanced oversight for new providers and suppliers under this subchapter, as established by the Secretary under section 1395cc(j)(3) <sup>1</sup> of this title.
+
+#### (3) Disclosure requirements
+
+&emsp;The State requires providers and suppliers under the State plan or under a waiver of the plan to comply with the disclosure requirements established by the Secretary under section 1395cc(j)(4) <sup>1</sup> of this title.
+
+#### (4) Temporary moratorium on enrollment of new providers or suppliers
+
+#### (A) Temporary moratorium imposed by the Secretary
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subject to clause (ii), the State complies with any temporary moratorium on the enrollment of new providers or suppliers imposed by the Secretary under section 1395cc(j)(6) <sup>1</sup> of this title.
+
+#### (ii) Exception
+
+&emsp;&emsp;&emsp;A State shall not be required to comply with a temporary moratorium described in clause (i) if the State determines that the imposition of such temporary moratorium would adversely impact beneficiaries’ access to medical assistance.
+
+#### (B) Moratorium on enrollment of providers and suppliers
+
+&emsp;&emsp;At the option of the State, the State imposes, for purposes of entering into participation agreements with providers or suppliers under the State plan or under a waiver of the plan, periods of enrollment moratoria, or numerical caps or other limits, for providers or suppliers identified by the Secretary as being at high-risk for fraud, waste, or abuse as necessary to combat fraud, waste, or abuse, but only if the State determines that the imposition of any such period, cap, or other limits would not adversely impact beneficiaries’ access to medical assistance.
+
+#### (5) Compliance programs
+
+&emsp;The State requires providers and suppliers under the State plan or under a waiver of the plan to establish, in accordance with the requirements of section 1395cc(j)(7) <sup>1</sup> of this title, a compliance program that contains the core elements established under subparagraph (B) of that section 1395cc(j)(7) <sup>1</sup> of this title forproviders or suppliers within a particular industry or category.
+
+#### (6) Reporting of adverse provider actions
+
+&emsp;The State complies with the national system for reporting criminal and civil convictions, sanctions, negative licensure actions, and other adverse provider actions to the Secretary, through the Administrator of the Centers for Medicare \& Medicaid Services, in accordance with regulations of the Secretary.
+
+#### (7) Enrollment and NPI of ordering or referring providers
+
+&emsp;The State requires—
+
+&emsp;&emsp;(A) all ordering or referring physicians or other professionals to be enrolled under the State plan or under a waiver of the plan as a participating provider; and
+
+&emsp;&emsp;(B) the national provider identifier of any ordering or referring physician or other professional to be specified on any claim for payment that is based on an order or referral of the physician or other professional.
+
+#### (8) Other State oversight
+
+&emsp;Nothing in this subsection shall be interpreted to preclude or limit the ability of a State to engage in provider and supplier screening or enhanced provider and supplier oversight activities beyond those required by the Secretary.
+
+(Aug. 14, 1935, ch. 531, title XIX, §1902, as added Pub. L. 89–97, title I, §121(a), July 30, 1965, 79 Stat. 344; amended Pub. L. 90–248, title II, §§210(a)(6), 223(a), 224(a), (c)(1), 227(a), 228(a), 229(a), 231, 234(a), 235(a), 236(a), 237, 238, 241(f)(1)–(4), title III, §302(b), Jan. 2, 1968, 81 Stat. 896, 901–906, 908, 911, 917, 929; Pub. L. 91–56, §2(c), (d), Aug. 9, 1969, 83 Stat. 99; Pub. L. 92–223, §4(b), Dec. 28, 1971, 85 Stat. 809; Pub. L. 92–603, title II, §§208(a), 209(a), (b)(1), 221(c)(5), 231, 232(a), 236(b), 237(a)(2), 239(a), (b), 240, 246(a), 249(a), 255(a), 268(a), 274(a), 278(a)(18)–(20), (b)(14), 298, 299A, 299D(b), Oct. 30, 1972, 86 Stat. 1381, 1389, 1410, 1415–1418, 1424, 1426, 1446, 1450, 1452–1454, 1460, 1462; Pub. L. 93–233, §§13(a)(2)–(10), 18(<i>o</i>)–(q), (x)(1)–(4), Dec. 31, 1973, 87 Stat. 960–962, 971, 972; Pub. L. 93–368, §9(a), Aug. 7, 1974, 88 Stat. 422; Pub. L. 94–48, §§1, 2, July 1, 1975, 89 Stat. 247; Pub. L. 94–182, title I, §111(a), Dec. 31, 1975, 89 Stat. 1054; Pub. L. 94–552, §1, Oct. 18, 1976, 90 Stat. 2540; Pub. L. 95–142, §§2(a)(3), (b)(1), 3(c)(1), 7(b), (c), 9, 19(b)(2), 20(b), Oct. 25, 1977, 91 Stat. 1176, 1178, 1193, 1195, 1204, 1207; Pub. L. 95–210, §2(c), Dec. 13, 1977, 91 Stat. 1488; Pub. L. 95–559, §14(a)(1), Nov. 1, 1978, 92 Stat. 2140; Pub. L. 96–272, title III, §308(c), June 17, 1980, 94 Stat. 531; Pub. L. 96–499, title IX, §§902(b), 903(b), 905(a), 912(b), 913(c), (d), 914(b)(1), 916(b)(1), 918(b)(1), 962(a), 965(b), Dec. 5, 1980, 94 Stat. 2613, 2615, 2618–2621, 2624, 2626, 2650, 2652; Pub. L. 96–611, §5(b), Dec. 28, 1980, 94 Stat. 3568; Pub. L. 97–35, title XXI, §§2105(c), 2113(m), 2171(a), (b), 2172(a), 2173(a), (b)(1), 2174(a), 2175(a), (d)(1), 2178(b), 2181(a)(2), 2182, 2193(c)(9), Aug. 13, 1981, 95 Stat. 792, 795, 807–809, 811, 814–816, 828; Pub. L. 97–248, title I, §§131(a), (c), formerly (b), 132(a), (c), 134(a), 136(d), 137(a)(3), (b)(7)–(10), (e), 146(a), Sept. 3, 1982, 96 Stat. 367, 369, 370, 373, 375–378, 381, 394; Pub. L. 97–448, title III, §309(a)(8), Jan. 12, 1983, 96 Stat. 2408; Pub. L. 98–369, div. B, title III, §§2303(g)(1), 2314(b), 2335(e), 2361(a), 2362(a), 2363(a)(1), 2367(a), 2368(a), (b), 2373(b)(1)–(10), title VI, §2651(c), July 18, 1984, 98 Stat. 1066, 1079, 1091, 1104, 1105, 1108, 1109, 1111, 1149; Pub. L. 98–378, §20(c), Aug. 16, 1984, 98 Stat. 1322; Pub. L. 98–617, §3(a)(7), (b)(10), Nov. 8, 1984, 98 Stat. 3295, 3296; Pub. L. 99–272, title IX, §§9501(b), (c), 9503(a), 9505(b), (c)(1), (d), 9506(a), 9509(a), 9510(a), 9517(b), 9529(a)(1), (b)(1), title XII, §12305(b)(3), Apr. 7, 1986, 100 Stat. 201, 202, 205, 208–212, 216, 220, 293; Pub. L. 99–509, title IX, §§9320(h)(3), 9401(a)–(e)(1), 9402(a), (b), 9403(a), (c), (e)–(g)(1), (4)(A), 9404(a), 9405, 9406(b), 9407(a), 9408(a), (b), (c)(2), (3), 9431(a), (b)(1), 9433(a), 9435(b)(1), Oct. 21, 1986, 100 Stat. 2016, 2050–2058, 2060, 2061, 2066, 2068, 2069; Pub. L. 99–514, title XVIII, §1895(c)(1), (3)(B), (C), (7), Oct. 22, 1986, 100 Stat. 2935, 2936; Pub. L. 99–570, title XI, §11005(b), Oct. 27, 1986, 100 Stat. 3207–169; Pub. L. 99–643, §§3(b), 7(b), Nov. 10, 1986, 100 Stat. 3575, 3579; Pub. L. 100–93, §§5(a), 7, 8(f), Aug. 18, 1987, 101 Stat. 689, 691, 694; Pub. L. 100–203, title IV, §§4072(d), 4101(a)(1), (2), (b)(1)–(2)(B), (c)(2), (e)(1)–(5), 4102(b)(1), 4104, 4113(a)(2), (b)(1), (2), (c)(1), (2), (d)(2), 4116, 4118(c)(1), (h)(1), (2), (m)(1)(B), (p)(1)–(4), (6)–(8), 4211(b)(1), (h)(1)–(5), 4212(d)(2), (3), (e)(1), 4213(b)(1), 4218(a), title IX, §§9115(b), 9119(d)(1), Dec. 22, 1987, 101 Stat. 1330–117, 1330–140 to 1330–143, 1330–146, 1330–147, 1330–151, 1330–152, 1330–154 to 1330–157, 1330–159, 1330–203, 1330–205, 1330–213, 1330–219, 1330–220, 1330–305, as amended Pub. L. 100–360, title IV, §411(k)(5)(A), (7)(B)–(D), (10)(G)(ii), (iv), (<i>l</i>)(3)(H), (J), (8)(C), (n)(2), (4), formerly (3), July 1, 1988, 102 Stat. 791, 794, 796, 803, 805, 807, as amended Pub. L. 100–485, title VI, §608(d)(14)(I), (15)(A), (27)(F)–(H), (28), Oct. 13, 1988, 102 Stat. 2416, 2423; Pub. L. 100–360, title II, §204(d)(3), title III, §§301(a)(1), (e)(2), 302(a), (b)(1), (c)(1), (2), (d)–(e)(3), 303(d), (e), title IV, §411(k)(5)(B), (17)(B), (<i>l</i>)(3)(E), (6)(C), (D), July 1, 1988, 102 Stat. 729, 748–753, 762, 763, 792, 800, 803, 804; Pub. L. 100–485, title II, §202(c)(4), title III, §303(a)(2), (b)(1), (d), title IV, §401(d)(1), title VI, §608(d)(15)(B), (16)(C), Oct. 13, 1988, 102 Stat. 2378, 2391, 2392, 2396, 2416, 2418; Pub. L. 100–647, title VIII, §8434(b)(1), (2), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6115(c), 6401(a), 6402(a), (c)(2), 6403(b), (d)(1), 6404(c), 6405(b), 6406(a), 6408(c)(1), (d)(1), (4)(C), 6411(a)(1), (d)(3)(B), (e)(2), Dec. 19, 1989, 103 Stat. 2219, 2258, 2260, 2261, 2263–2265, 2268–2271; Pub. L. 101–508, title IV, §§4401(a)(2), 4402(a)(1), (c), (d)(1), 4501(b), (e)(2), 4601(a)(1), 4602(a), 4603(a), 4604(a), (b), 4701(b)(1), 4704(a), (e)(1), 4708(a), 4711(c)(1), (d), 4713(a), 4715(a), 4723(b), 4724(a), 4732(b)(1), 4751(a), 4752(a)(1)(A), (c)(1), 4754(a), 4755(a)(2), (c)(1), 4801(e)(1)(A), (11)(A), Nov. 5, 1990, 104 Stat. 1388–143, 1388–161, 1388–163 to 1388–173, 1388–186, 1388–187, 1388–190, 1388–192, 1388–194, 1388–195, 1388–204, 1388–206, 1388–208 to 1388–210, 1388–215, 1388–217; Pub. L. 102–234, §§2(b)(1), 3(a), Dec. 12, 1991, 105 Stat. 1799; Pub. L. 103–66, title XIII, §13581(b)(2), 13601(b), 13602(c), 13603(a)–(c), 13611(d)(1), 13622(a)(1), (b), (c), 13623(a), 13625(a), 13631(a), (e)(1), (f)(1), Aug. 10, 1993, 107 Stat. 611, 613, 619, 620, 626, 632, 633, 636, 643, 644; Pub. L. 103–296, title I, §108(d)(1), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 103–448, title II, §204(w)(2)(E), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title I, §§108(k), 114(b)–(d)(1), title IX, §913, Aug. 22, 1996,110 Stat. 2169, 2180, 2354; Pub. L. 104–226, §1(b)(2), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 104–248, §1(a)(1), Oct. 9, 1996, 110 Stat. 3148; Pub. L. 105–12, §9(b)(2), Apr. 30, 1997, 111 Stat. 26; Pub. L. 105–33, title IV, §§4106(c), 4454(b)(1), 4701(b)(2)(A)(i)–(iv), (d)(1), 4702(b)(2), 4709, 4711(a), 4712(a), (b)(1), (c)(1), 4714(a)(1), 4715(a), 4724(c)(1), (d), (f), (g)(1), 4731(a), (b), 4732(a), 4733, 4741(a), 4751(a), (b), 4752(a), 4753(b), 4911(b), 4912(b)(1), 4913(a), Aug. 5, 1997, 111 Stat. 368, 431, 493, 495, 506–510, 516, 517, 519, 520, 522–525, 571, 573; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§603(a)(1), 604(a)(1), (2)(A), (b)(1), 608(a)–(d), (y)(2), (aa)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–394 to 1501A–398; Pub. L. 106–169, title I, §121(a)(1), (c)(4), title II, §§205(c), 206(b), Dec. 14, 1999, 113 Stat. 1829, 1830, 1834, 1837; Pub. L. 106–170, title II, §201(a)(1), (2)(A), Dec. 17, 1999, 113 Stat. 1891, 1892; Pub. L. 106–354, §2(a)(1)–(3), (b)(2)(A), Oct. 24, 2000, 114 Stat. 1381–1383; Pub. L. 106–554, §1(a)(6) \[title VII, §§702(a)–(c)(1), 707(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–572 to 2763A–574, 2763A–577; Pub. L. 107–121, §2(a), (b)(1), (2), Jan. 15, 2002, 115 Stat. 2384; Pub. L. 108–40, §7(b), June 30, 2003, 117 Stat. 837; Pub. L. 108–89, title IV, §401(a), Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–173, title I, §103(a)(1), (f)(1), title II, §236(b)(1), Dec. 8, 2003, 117 Stat. 2154, 2160, 2211; Pub. L. 108–265, title I, §105(b), June 30, 2004, 118 Stat. 744; Pub. L. 108–448, §1(a), Dec. 8, 2004, 118 Stat. 3467; Pub. L. 109–91, title I, §101(a), Oct. 20, 2005, 119 Stat. 2091; Pub. L. 109–171, title VI, §§6032(a), 6034(b), 6035(a), (b), 6062(a), 6065(a), 6083(a), Feb. 8, 2006, 120 Stat. 73, 76, 78, 79, 96, 101, 120; Pub. L. 109–432, div. B, title IV, §405(c)(2)(A)(iv), Dec. 20, 2006, 120 Stat. 3000; Pub. L. 110–90, §3(a), Sept. 29, 2007, 121 Stat. 984; Pub. L. 110–173, title II, §203(a), Dec. 29, 2007, 121 Stat. 2513; Pub. L. 110–252, title VII, §7001(d)(2), June 30, 2008, 122 Stat. 2394; Pub. L. 110–275, title I, §111(a), July 15, 2008, 122 Stat. 2503; Pub. L. 111–3, title I, §113(b)(1), title II, §§203(a)(1), (c), (d)(3), 211(a)(1)(A), (b)(3)(B), title V, §501(d)(1), (e)(1), Feb. 4, 2009, 123 Stat. 34, 40, 47, 49, 54, 87; Pub. L. 111–5, div. B, title V, §§5004(a)(1), 5005(a), 5006(b)(1), (e)(2)(A), Feb. 17, 2009, 123 Stat. 503, 505, 506, 510; Pub. L. 111–148, title II, §§2001(a)(1), (2)(A), (4)(A), (5)(A), (B), (b), (d)(1), (e)(1), 2002(a), (b), 2004(a), 2202(a), 2301(b), 2303(a)(1)–(3), (b)(2)(A), 2402(d)(1), 2901(c), title III, §3021(b), title IV, §4302(b)(1)(A), title VI, §§6103(d)(2), 6401(b)(1), (3), 6411(a)(1), 6501–6503, 6505, title VIII, §8002(a)(2), (b), title X, §10201(a)(1), (2), (b), Mar. 23, 2010, 124 Stat. 271, 274, 275, 277–279, 282, 283, 291–294, 296, 303, 333, 394, 581, 710, 751, 753, 773, 776, 777, 846, 917, 918; Pub. L. 111–152, title I, §§1004(b)(1), (e), 1202(a)(1), Mar. 30, 2010, 124 Stat. 1034, 1036, 1052; Pub. L. 111–255, §3(c), Oct. 5, 2010, 124 Stat. 2641; Pub. L. 111–296, title I, §103(c)(1), Dec. 13, 2010, 124 Stat. 3191; Pub. L. 111–309, title I, §§110(a), 111, title II, §§205(a), (b), (f)(1), Dec. 15, 2010, 124 Stat. 3288–3290.)
+
+#### Amendment of Subsection (a)
+
+<i>For repeal of amendment by section 3(e) of Pub. L. 111–255, see Effective and Termination Dates of 2010 Amendment note below.</i>
+
+<i>Pub. L. 111–148, title II, §2004(a), (d), title X, §10201(a)(1), (3), Mar. 23, 2010, 124 Stat. 283, 917, 918, provided that, effective Jan. 1, 2014, subsection (a)(10)(A)(i) of this section is amended:</i>
+
+<i>(1) by striking “or” at the end of subclause (VII);</i>
+
+<i>(2) by adding “or” at the end of subclause (VIII); and</i>
+
+<i>(3) by inserting after subclause (VIII) the following:</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(IX) who—</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa) are under 26 years of age;</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) are not described in or enrolled under any of subclauses (I) through (VII) of this clause or are described in any of such subclauses but have income that exceeds the level of income applicable under the State plan for eligibility to enroll for medical assistance under such subclause;</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(cc) were in foster care under the responsibility of the State on the date of attaining 18 years of age or such higher age as the State has elected under section 675(8)(B)(iii) of this title; and</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(dd) were enrolled in the State plan under this subchapter or under a waiver of the plan while in such foster care;</i>
+
+<i>Pub. L. 111–148, title II, §2002(b), (c), Mar. 23, 2010, 124 Stat. 282, provided that, effective Jan. 1, 2014, subsection (a)(17) of this section is amended by inserting “(e)(14),” before “(l)(3)”.</i>
 
 <i>Pub. L. 101–508, title IV, §4801(e)(11), Nov. 5, 1990, 104 Stat. 1388–217, provided that, effective on the date on which the Secretary promulgates standards regarding the qualifications of nursing facility administrators under section 1396r(f)(4) of this title, subsection (a)(29) of this section is repealed.</i>
+
+<i>Pub. L. 111–148, title II, §2202(a), (c), Mar. 23, 2010, 124 Stat. 291, 292, provided that, effective Jan. 1, 2014, subsection (a)(47) of this section is amended as follows:</i>
+
+<i>(1) by striking “at the option of the State, provide” and inserting “provide—</i>
+
+&emsp;&emsp;<i>(A) “at the option of the State,”;</i>
+
+<i>(2) by inserting “and” after the semicolon; and</i>
+
+<i>(3) by adding at the end the following:</i>
+
+&emsp;&emsp;<i>(B) that any hospital that is a participating provider under the State plan may elect to be a qualified entity for purposes of determining, on the basis of preliminary information, whether any individual is eligible for medical assistance under the State plan or under a waiver of the plan for purposes of providing the individual with medical assistance during a presumptive eligibility period, in the same manner, and subject to the same requirements, as apply to the State options with respect to populations described in section 1396r–1, 1396r–1a, or 1396r–1b of this title (but without regard to whether the State has elected to provide for a presumptive eligibility period under any such sections), subject to such guidance as the Secretary shall establish;</i>
+
+<i>Pub. L. 111–148, title II, §2303(b)(2)(A), (d), Mar. 23, 2010, 124 Stat. 296, provided that, effective Mar. 23, 2010, and applicable to items and services furnished on or after such date, subsection (a)(47) of this section, as amended by section 2202(a) of Pub. L. 111–148, set out above, is amended as follows:</i>
+
+<i>(1) in subparagraph (A), by inserting before the semicolon at the end the following: “and</i><i>provide for making medical assistance available to individuals described in subsection (a) of section 1396r–1c of this title during a presumptive eligibility period in accordance with such section”; and</i>
+
+<i>(2) in subparagraph (B), by striking “or 1396r–1b of this title” and inserting “1396r–1b, or 1396r–1c of this title”.</i>
+
+#### Amendment of Subsection (e)(14)
+
+<i>For repeal of amendment by section 3(e) of Pub. L. 111–255, see Effective and Termination Dates of 2010 Amendment note below.</i>
+
+<i>Pub. L. 111–148, title II, §2002(a), (c), Mar. 23, 2010, 124 Stat. 279, 282; Pub. L. 111–152, title I, §1004(b)(1)(A), (e), Mar. 30, 2010, 124 Stat. 1034, 1036, provided that, effective Jan. 1, 2014, subsection (e) of this section is amended by adding at the end the following:</i>
+
+<i>(14)</i>
+
+<i>Income determined using modified adjusted gross income.—</i>
+
+&emsp;<i>(A)</i>
+
+<i>In general.—Notwithstanding subsection (r) or any other provision of this subchapter, except as provided in subparagraph (D), for purposes of determining income eligibility for medical assistance under the State plan or under any waiver of such plan and for any other purpose applicable under the plan or waiver for which a determination of income is required, including with respect to the imposition of premiums and cost-sharing, a State shall use the modified adjusted gross income of an individual and, in the case of an individual in a family greater than 1, the household income of such family. A State shall establish income eligibility thresholds for populations to be eligible for medical assistance under the State plan or a waiver of the plan using modified adjusted gross income and household income that are not less than the effective income eligibility levels that applied under the State plan or waiver on March 23, 2010. For purposes of complying with the maintenance of effort requirements under subsection (gg) during the transition to modified adjusted gross income and household income, a State shall, working with the Secretary, establish an equivalent income test that ensures individuals eligible for medical assistance under the State plan or under a waiver of the plan on March 23, 2010, do not lose coverage under the State plan or under a waiver of the plan. The Secretary may waive such provisions of this subchapter and subchapter XXI as are necessary to ensure that States establish income and eligibility determination systems that protect beneficiaries.</i>
+
+&emsp;<i>(B)</i>
+
+<i>No income or expense disregards.—Subject to subparagraph (I), no type of expense, block, or other income disregard shall be applied by a State to determine income eligibility for medical assistance under the State plan or under any waiver of such plan or for any other purpose applicable under the plan or waiver for which a determination of income is required.</i>
+
+&emsp;<i>(C)</i>
+
+<i>No assets test.—A State shall not apply any assets or resources test for purposes of determining eligibility for medical assistance under the State plan or under a waiver of the plan.</i>
+
+&emsp;<i>(D)</i>
+
+<i>Exceptions.—</i>
+
+&emsp;&emsp;<i>(i)</i>
+
+<i>Individuals eligible because of other aid or assistance, elderly individuals, medically needy individuals, and individuals eligible for medicare cost-sharing.—Subparagraphs (A), (B), and (C) shall not apply to the determination of eligibility under the State plan or under a waiver for medical assistance for the following:</i>
+
+&emsp;&emsp;&emsp;<i>(I) Individuals who are eligible for medical assistance under the State plan or under a waiver of the plan on a basis that does not require a determination of income by the State agency administering the State plan or waiver, including as a result of eligibility for, or receipt of, other Federal or State aid or assistance, individuals who are eligible on the basis of receiving (or being treated as if receiving) supplemental security income benefits under subchapter XVI, and individuals who are eligible as a result of being or being deemed to be a child in foster care under the responsibility of the State.</i>
+
+&emsp;&emsp;&emsp;<i>(II) Individuals who have attained age 65.</i>
+
+&emsp;&emsp;&emsp;<i>(III) Individuals who qualify for medical assistance under the State plan or under any waiver of such plan on the basis of being blind or disabled (or being treated as being blind or disabled) without regard to whether the individual is eligible for supplemental security income benefits under subchapter XVI on the basis of being blind or disabled and including an individual who is eligible for medical assistance on the basis of paragraph (3).</i>
+
+&emsp;&emsp;&emsp;<i>(IV) Individuals described in subsection (a)(10)(C).</i>
+
+&emsp;&emsp;&emsp;<i>(V) Individuals described in any clause of subsection (a)(10)(E).</i>
+
+&emsp;&emsp;<i>(ii)</i>
+
+<i>Express lane agency findings.—In the case of a State that elects the Express Lane option under paragraph (13), notwithstanding subparagraphs (A), (B), and (C), the State may rely on a finding made by an Express Lane agency in accordance with that paragraph relating to the income of an individual for purposes of determining the individual's eligibility for medical assistance under the State plan or under a waiver of the plan.</i>
+
+&emsp;&emsp;<i>(iii)</i>
+
+<i>Medicare prescription drug subsidies determinations.—Subparagraphs (A), (B), and (C) shall not apply to any determinations of eligibility for premium and cost-sharing subsidies under and in accordance with section 1395w–114 of this title made by the State pursuant to section 1396u–5(a)(2) of this title.</i>
+
+&emsp;&emsp;<i>(iv)</i>
+
+<i>Long-term care.—Subparagraphs (A), (B), and (C) shall not apply to any determinations of eligibility of individuals for purposes of medical assistance for nursing facility services, a level of care in any institution equivalent to that of nursing facility services, home or community-based services furnished under a waiver or State plan amendment under section 1396n of this title or a waiver under section 1315 of this title, and services described in section 1396p(c)(1)(C)(ii) of this title.</i>
+
+&emsp;&emsp;<i>(v)</i>
+
+<i>Grandfather of current enrollees until date of next regular redetermination.—An individual who, on January 1, 2014, is enrolled in the State plan or under a waiver of the plan and who would be determined ineligible for medical assistance solely because of the application of the modified adjusted gross income or household income standard described in subparagraph (A), shall remain eligible for medical assistance under the State plan or waiver (and subject to the same premiums and cost-sharing as applied</i><i>to the individual on that date) through March 31, 2014, or the date on which the individual's next regularly scheduled redetermination of eligibility is to occur, whichever is later.</i>
+
+&emsp;<i>(E)</i>
+
+<i>Transition planning and oversight.—Each State shall submit to the Secretary for the Secretary's approval the income eligibility thresholds proposed to be established using modified adjusted gross income and household income, the methodologies and procedures to be used to determine income eligibility using modified adjusted gross income and household income and, if applicable, a State plan amendment establishing an optional eligibility category under subsection (a)(10)(A)(ii)(XX). To the extent practicable, the State shall use the same methodologies and procedures for purposes of making such determinations as the State used on March 23, 2010. The Secretary shall ensure that the income eligibility thresholds proposed to be established using modified adjusted gross income and household income, including under the eligibility category established under subsection (a)(10)(A)(ii)(XX), and the methodologies and procedures proposed to be used to determine income eligibility, will not result in children who would have been eligible for medical assistance under the State plan or under a waiver of the plan on March 23, 2010, no longer being eligible for such assistance.</i>
+
+&emsp;<i>(F)</i>
+
+<i>Limitation on secretarial authority.—The Secretary shall not waive compliance with the requirements of this paragraph except to the extent necessary to permit a State to coordinate eligibility requirements for dual eligible individuals (as defined in section 1396n(h)(2)(B) of this title) under the State plan or under a waiver of the plan and under subchapter XVIII and individuals who require the level of care provided in a hospital, a nursing facility, or an intermediate care facility for the mentally retarded.</i>
+
+&emsp;<i>(G)</i>
+
+<i>Definitions of modified adjusted gross income and household income.—In this paragraph, the terms “modified adjusted gross income” and “household income” have the meanings given such terms in section 36B(d)(2) of the Internal Revenue Code of 1986.</i>
+
+&emsp;<i>(H)</i>
+
+<i>Continued application of medicaid rules regarding point-in-time income and sources of income.—The requirement under this paragraph for States to use modified adjusted gross income and household income to determine income eligibility for medical assistance under the State plan or under any waiver of such plan and for any other purpose applicable under the plan or waiver for which a determination of income is required shall not be construed as affecting or limiting the application of—</i>
+
+&emsp;&emsp;<i>(i) the requirement under this subchapter and under the State plan or a waiver of the plan to determine an individual's income as of the point in time at which an application for medical assistance under the State plan or a waiver of the plan is processed; or</i>
+
+&emsp;&emsp;<i>(ii) any rules established under this subchapter or under the State plan or a waiver of the plan regarding sources of countable income.</i>
+
+&emsp;<i>(I)</i>
+
+<i>Treatment of portion of modified adjusted gross income.—For purposes of determining the income eligibility of an individual for medical assistance whose eligibility is determined based on the application of modified adjusted gross income under subparagraph (A), the State shall—</i>
+
+&emsp;&emsp;<i>(i) determine the dollar equivalent of the difference between the upper income limit on eligibility for such an individual (expressed as a percentage of the poverty line) and such upper income limit increased by 5 percentage points; and</i>
+
+&emsp;&emsp;<i>(ii) notwithstanding the requirement in subparagraph (A) with respect to use of modified adjusted gross income, utilize as the applicable income of such individual, in determining such income eligibility, an amount equal to the modified adjusted gross income applicable to such individual reduced by such dollar equivalent amount.</i>
 
 #### References in Text
 
 Parts A, D, and E of subchapter IV of this chapter, referred to in subsecs. (a), (c), (e)(1), (10), (13)(F)(ii)(I)(aa), (bb), and (<i>l</i>)(3), are classified to sections 601 et seq., 651 et seq., and 670 et seq., respectively, of this title.
 
-The Child Nutrition Act of 1966, referred to in subsecs. (a)(7)(B) and (e)(13)(F)(ii)(I)(hh), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
+The Child Nutrition Act of 1966, referred to in subsecs. (a)(7) and (e)(13)(F)(ii)(I)(hh), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
 
-The Richard B. Russell National School Lunch Act, referred to in subsecs. (a)(7)(B) and (e)(13)(F)(ii)(I)(gg), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsecs. (a)(7) and (e)(13)(F)(ii)(I)(gg), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
 
-Parts A and B of subchapter XVIII of this chapter, referred to in subsec. (a)(10), (13)(B), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
+Parts A and B of subchapter XVIII of this chapter, referred to in subsec. (a)(10), (13)(B), (C), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
 
 Section 602 of this title, referred to in subsecs. (a)(10)(A)(i)(I) and (e)(10), was repealed and a new section 602 enacted by Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112, and, as so enacted, no longer contains subsec. (a)(37) or (a)(43).
 
@@ -1262,13 +1576,15 @@ Section 606 of this title, referred to in subsec. (a)(10)(A)(i)(I), was repealed
 
 Section 682 of this title, referred to in subsec. (a)(10)(A)(i)(I), was repealed by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
 
-The date of the enactment of section 211(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (a)(10)(A)(i)(II), is the date of enactment of Pub. L. 104–193, which was approved Aug. 22, 1996. Section 211(a) of the Act amended section 1382c of this title.
+The date of the enactment of section 211(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (a)(10)(A)(i)(II)(aa), is the date of enactment of Pub. L. 104–193, which was approved Aug. 22, 1996. Section 211(a) of the Act amended section 1382c of this title.
 
 Section 303(a)(4)(A) of this title, referred to in subsec. (a)(20)(C), was amended generally by Pub. L. 97–35, title XXIII, §2353(a)(1)(A), Aug. 13, 1981, 95 Stat. 871, and, as so amended, no longer contained cls. (i) and (ii). Section 303(a)(4) was amended by Pub. L. 103–66, title XIII, §13741(b), Aug. 10, 1993, 107 Stat. 663, and, as so amended, no longer contains subparagraphs.
 
-Section 1383(a)(4)(A)(i) and (ii) of this title, referred to in subsec. (a)(20)(C), is a reference to section 1383(a)(4)(A)(i) and (ii) existing prior to the general revision of subchapter XVI of this chapter by Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, eff. Jan. 1, 1974. The prior section (which is set out as a note under section 1383 of this title) continues in effect for Puerto Rico, Guam, and the Virgin Islands. Subsec. (a)(4) of the prior section was amended generally by Pub. L. 97–35, title XXIII, §2353(m)(2)(B), Aug. 13, 1981, 95 Stat. 973, and, as so amended, no longer contained clauses in subpar. (A). Subsec. (a)(4) of the prior section was also amended by Pub. L. 103–66, title XIII, §13741(b), Aug. 10, 1993, 107 Stat. 663, and, as so amended, no longer contains subparagraphs.
+Section 1383(a)(4)(A)(i) and (ii) of this title, referred to in subsec. (a)(20)(C), is a reference to section 1383(a)(4)(A)(i) and (ii) existing prior to the general revision of subchapter XVI of this chapter by Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, eff. Jan. 1, 1974. The prior section (which is set out as a note under section 1383 of this title) continues in effect for Puerto Rico, Guam, and the Virgin Islands. Subsec. (a)(4) of the prior section was amended generally by Pub. L. 97–35, title XXIII, §2353(m)(2)(B), Aug. 13, 1981, 95 Stat. 973, and, as so amended, no longer contained clauses in subpar. (A). Subsec. (a)(4) of the prior section was also amended by Pub. L. 103–66, title XIII, §13741(b),Aug. 10, 1993, 107 Stat. 663, and, as so amended, no longer contains subparagraphs.
 
-Public Law 92–336, referred to in provisions following subsec. (a)(52), is Pub. L. 92–336, July 1, 1972, 86 Stat. 406, which amended sections 401, 403, 409, 411, 415, 427, 428, and 430 of this title and sections 165, 1401, 1402, 3101, 3111, 3121, 3122, 3125, 6413, and 6654 of Title 26, Internal Revenue Code, and enacted provisions set out as notes under sections 403, 409, 415, and 428 of this title and sections 165 and 1401 of Title 26.
+The Public Health Service Act, referred to in subsecs. (a)(81), (82)(A), (u)(3) and (aa)(3), is act July 1, 1944, ch. 373, 58 Stat. 682. Titles XV, XXII, and XXXII of the Act are classified generally to subchapters XIII (§300k et seq.), XX (§300bb–1 et seq.), and XXX (§300<i>ll</i> et seq.), respectively, of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+
+Public Law 92–336, referred to in provisions following subsec. (a)(83), is Pub. L. 92–336, July 1, 1972, 86 Stat. 406, which amended sections 401, 403, 409, 411, 415, 427, 428, and 430 of this title and sections 165, 1401, 1402, 3101, 3111, 3121, 3122, 3125, 6413, and 6654 of Title 26, Internal Revenue Code, and enacted provisions set out as notes under sections 403, 409, 415, and 428 of this title and sections 165 and 1401 of Title 26.
 
 Part B of subchapter XI of this chapter, referred to in subsec. (d), is classified to section 1320c et seq. of this title.
 
@@ -1284,19 +1600,135 @@ The United States Housing Act of 1937, referred to in subsec. (e)(13)(F)(ii)(I)(
 
 The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (e)(13)(F)(ii)(I)(<i>ll</i>), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
-The Public Health Service Act, referred to in subsecs. (u)(3) and (aa)(3), is act July 1, 1944, ch. 373, 58 Stat. 682. Titles XV and XXII of the Act are classified generally to subchapters XIII (§300k et seq.) and XX (§300bb–1 et seq.), respectively, of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
-
 The Internal Revenue Code of 1986, referred to in subsec. (u)(3), is classified generally to Title 26.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (u)(3), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title VI of the Act probably means part 6 of subtitle B of title I of the Act which is classified generally to part 6 (§1161 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor, because the Act has no title VI. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+
+Section 2701 of the Public Health Service Act, referred to in subsec. (aa)(4), is section 2701 of act July 1, 1944, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
 
 Section 1710(1) of the Government Paperwork Elimination Act, referred to in subsec. (dd), is section 1710(1) of Pub. L. 105–277, which is set out in a note under section 3504 of Title 44, Public Printing and Documents.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (ff)(1), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
+Section 1395cc of this title, referred to in subsec. (kk)(1) to (3), (4)(A)(i), was in the original “section 1886” and was translated as reading “section 1866”, meaning section 1866 of act Aug. 14, 1935, to reflect the probable intent of Congress.
+
+Section 1395cc(j)(4), (6), and (7) of this title, referred to in subsec. (kk)(3), (4)(A)(i), (5), were redesignated section 1395cc(j)(5), (7), and (8), respectively, by Pub. L. 111–152, title I, §1304(1), Mar. 30, 2010, 124 Stat. 1058.
+
+#### Codification
+
+In subsec. (a)(4)(D), “chapter 21 of title 41” substituted for “section 27 of the Office of Federal Procurement Policy Act (41 U.S.C. 423)” and “section 2102(a)(3) of title 41” substituted for “subsection (a)(2) of such section of that Act” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-2009—Subsec. (a)(10)(E)(iv). Pub. L. 111–5, §5005(a), substituted “December 2010” for “December 2009”.
+<b>2010</b>—Subsec. (a)(7). Pub. L. 111–296, §103(c)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “provide safeguards which restrict the use or disclosure of information concerning applicants and recipients to purposes directly connected with—
+
+&emsp;“(A) the administration of the plan; and
+
+&emsp;“(B) at State option, the exchange of information necessary to verify the certification of eligibility of children for free or reduced price breakfasts under the Child Nutrition Act of 1966 and free or reduced price lunches under the Richard B. Russell National School Lunch Act, in accordance with section 9(b) of that Act, using data standards and formats established by the State agency;”.
+
+Subsec. (a)(9)(D). Pub. L. 111–148, §6103(d)(2), added subpar. (D).
+
+Subsec. (a)(10). Pub. L. 111–309, §205(f)(1)(A), in concluding provisions, struck out “and” before “(XVI) the medical” and substituted “(XVII) if” for “(XVI) if”.
+
+Pub. L. 111–148, §10201(a)(2), which directed amendment of par. (10) in the matter following subparagraph (G) by substituting “(XV)” for “and (XV)” and inserting “and (XVI) if an individual is described in subclause (IX) of subparagraph (A)(i) and is also described in subclause (VIII) of that subparagraph, the medical assistance shall be made available to the individual through subclause (IX) instead of through subclause (VIII)” before the semicolon, was executed by making the insertion only, to reflect the probable intent of Congress. The substitution could not be executed because “and (XV)” did not appear after amendment by Pub. L. 111–148, §2303(a)(3). See below.
+
+Pub. L. 111–148, §2303(a)(3), in concluding provisions, substituted “(XV)” for “and (XV)” and inserted before semicolon at end “, and (XVI) the medical assistance made available to an individual described in subsection (ii) shall be limited to family planning services andsupplies described in section 1396d(a)(4)(C) of this title including medical diagnosis and treatment services that are provided pursuant to a family planning service in a family planning setting”.
+
+Pub. L. 111–148, §2001(a)(5)(A), in concluding provisions, substituted “(XIV)” for “and (XIV)” and inserted before semicolon at end “and (XV) the medical assistance made available to an individual described in subparagraph (A)(i)(VIII) shall be limited to medical assistance described in subsection (k)(1)”.
+
+Subsec. (a)(10)(A). Pub. L. 111–148, §2301(b), substituted “, (21), and (28)” for “and (21)” in introductory provisions.
+
+Subsec. (a)(10)(A)(i)(VIII). Pub. L. 111–148, §2001(a)(1), added subcl. (VIII).
+
+Subsec. (a)(10)(A)(ii)(XX). Pub. L. 111–148, §2001(e)(1)(A), added subcl. (XX).
+
+Subsec. (a)(10)(A)(ii)(XXI). Pub. L. 111–148, §2303(a)(1), added subcl. (XXI).
+
+Subsec. (a)(10)(A)(ii)(XXII). Pub. L. 111–148, §2402(d)(1), added subcl. (XXII).
+
+Subsec. (a)(10)(E)(iv). Pub. L. 111–309, §110(a), substituted “December 2011” for “December 2010”.
+
+Subsec. (a)(13)(C). Pub. L. 111–152, §1202(a)(1)(A), added subpar. (C).
+
+Subsec. (a)(17). Pub. L. 111–255, §3(c)(1), (e), temporarily inserted “(e)(14),” before “(<i>l</i>)(3)”. See Effective and Termination Dates of 2010 Amendment note below.
+
+Subsec. (a)(23). Pub. L. 111–309, §205(f)(1)(B), which directed amendment by substituting “(kk)” for “(ii)”, was executed by substituting “(kk)(4)” for “(ii)(4)”, to reflect the probable intent of Congress.
+
+Pub. L. 111–148, §6401(b)(3), inserted before semicolon at end “or by a provider or supplier to which a moratorium under subsection (ii)(4) is applied during the period of such moratorium”.
+
+Subsec. (a)(39). Pub. L. 111–148, §6501, inserted “terminate the participation of any individual or entity in such program if (subject to such exceptions as are permitted with respect to exclusion under sections 1320a–7(c)(3)(B) and 1320a–7(d)(3)(B) of this title) participation of such individual or entity is terminated under subchapter XVIII or any other State plan under this subchapter,” after “1320a–7a of this title,”.
+
+Subsec. (a)(42). Pub. L. 111–148, §6411(a)(1), substituted “provide that—” for “provide that”, inserted subpar. (A) designation before “the records” and “and” after semicolon at end, and added subpar. (B).
+
+Subsec. (a)(74). Pub. L. 111–148, §4302(b)(1)(A)(i), which directed amendment of “paragraph 4)” by striking “and” at the end, was executed to par. (74) to reflect the probable intent of Congress.
+
+Pub. L. 111–148, §2001(b)(1), added par. (74).
+
+Subsec. (a)(75). Pub. L. 111–148, §4302(b)(1)(A)(ii), substituted “; and” for period at end.
+
+Pub. L. 111–148, §2001(d)(1), added par. (75).
+
+Subsec. (a)(76). Pub. L. 111–148, §4302(b)(1)(A)(iii), added par. (76).
+
+Subsec. (a)(77). Pub. L. 111–309, §205(f)(1)(C), substituted “(kk)” for “(ii)”.
+
+Pub. L. 111–148, §6401(b)(1)(A), added par. (77).
+
+Subsec. (a)(78). Pub. L. 111–309, §205(a), struck out par. (78). Text read as follows: “provide that the State agency described in paragraph (9) exclude, with respect to a period, any individual or entity from participation in the program under the State plan if such individual or entity owns, controls, or manages an entity that (or if such entity is owned, controlled, or managed by an individual or entity that)—
+
+&emsp;“(A) has unpaid overpayments (as defined by the Secretary) under this subchapter during such period determined by the Secretary or the State agency to be delinquent;
+
+&emsp;“(B) is suspended or excluded from participation under or whose participation is terminated under this subchapter during such period; or
+
+&emsp;“(C) is affiliated with an individual or entity that has been suspended or excluded from participation under this subchapter or whose participation is terminated under this subchapter during such period;”.
+
+Pub. L. 111–148, §6502, added par. (78).
+
+Subsec. (a)(79). Pub. L. 111–148, §6503, added par. (79).
+
+Subsec. (a)(80). Pub. L. 111–148, §6505, added par. (80).
+
+Subsec. (a)(81). Pub. L. 111–148, §8002(a)(2), added par. (81).
+
+Subsec. (a)(82). Pub. L. 111–148, §8002(b), added par. (82).
+
+Subsec. (a)(83). Pub. L. 111–148, §3021(b), added par. (83).
+
+Subsec. (e)(1)(B). Pub. L. 111–309, §111, substituted “December 31, 2011” for “December 31, 2010”.
+
+Subsec. (e)(13)(F)(ii). Pub. L. 111–148, §2901(c), inserted “and indian tribes and tribal organizations” after “agencies” in heading and added subcl. (IV).
+
+Subsec. (e)(14). Pub. L. 111–255, §3(c)(1), (e), temporarily added par. (14). See Effective and Termination Dates of 2010 Amendment note below.
+
+Subsec. (k). Pub. L. 111–148, §2001(a)(4)(A), added pars. (2) and (3).
+
+Pub. L. 111–148, §2001(a)(2)(A), added subsec. (k).
+
+Subsec. (k)(2). Pub. L. 111–148, §10201(b), substituted “April 1, 2010” for “January 1, 2011”.
+
+Subsec. (<i>l</i>)(2)(C). Pub. L. 111–309, §205(b), substituted “100 percent (or, beginning January 1, 2014, 133 percent)” for “133 percent”.
+
+Pub. L. 111–148, §2001(a)(5)(B), substituted “133” for “100”.
+
+Subsec. (gg). Pub. L. 111–148, §2001(b)(2), added subsec. (gg).
+
+Subsec. (gg)(4)(A). Pub. L. 111–152, §1004(b)(1)(B), substituted “modified adjusted gross income” for “modified gross income” in heading.
+
+Subsec. (hh). Pub. L. 111–148, §2001(e)(1)(B), added subsec. (hh).
+
+Subsec. (ii). Pub. L. 111–309, §205(f)(1)(E), redesignated subsec. (ii) relating to provider and supplier screening, oversight, and reporting requirements as (kk).
+
+Pub. L. 111–148, §6401(b)(1)(B), added subsec. (ii) relating to provider and supplier screening, oversight, and reporting requirements.
+
+Pub. L. 111–148, §2303(a)(2), added subsec. (ii) relating to State eligibility option for family planning services.
+
+Subsec. (ii)(2). Pub. L. 111–309, §205(f)(1)(D), substituted “(XVI)” for “(XV)”.
+
+Subsec. (jj). Pub. L. 111–152, §1202(a)(1)(B), added subsec. (jj).
+
+Subsec. (kk). Pub. L. 111–309, §205(f)(1)(E), redesignated subsec. (ii) relating to provider and supplier screening, oversight, and reporting requirements as (kk).
+
+<b>2009</b>—Subsec. (a)(10)(E)(iv). Pub. L. 111–5, §5005(a), substituted “December 2010” for “December 2009”.
 
 Subsec. (a)(25)(I)(i). Pub. L. 111–3, §203(d)(3), inserted “(and, at State option, individuals who apply or whose eligibility for medical assistance is being evaluated in accordance with section 1396a(e)(13)(D) of this title)” after “with respect to individuals who are eligible” and “under this subchapter (and, at State option, child health assistance under subchapter XXI)” after “the State plan”.
 
@@ -1310,7 +1742,7 @@ Subsec. (a)(73). Pub. L. 111–5, §5006(e)(2)(A), added par. (73).
 
 Subsec. (e)(1)(B). Pub. L. 111–5, §5004(a)(1), substituted “December 31, 2010” for “September 30, 2003”.
 
-Subsec. (e)(4). Pub. L. 111–3, §211(b)(3)(B), inserted at end “Notwithstanding the preceding sentence, in the case of a child who is born in the United States to an alien mother for whom medical assistance for the delivery of the child is made available pursuant to section 1396b(v) of this title, the State immediately shall issue a separate identification number for the child upon notification by the facility at which such delivery occurred of the child's birth.”
+Subsec. (e)(4). Pub. L. 111–3, §211(b)(3)(B), inserted at end “Notwithstanding the preceding sentence, in the case of a child who is born in the United States to an alien mother for whom medical assistance for the delivery of the child is made available pursuant to section 1396b(v) of this title, the State immediately shall issuea separate identification number for the child upon notification by the facility at which such delivery occurred of the child's birth.”
 
 Pub. L. 111–3, §113(b)(1), struck out “so long as the child is a member of the woman's household and the woman remains (or would remain if pregnant) eligible for such assistance” before period at end of first sentence.
 
@@ -1322,15 +1754,15 @@ Subsec. (ee). Pub. L. 111–3, §211(a)(1)(A)(ii), added subsec. (ee).
 
 Subsec. (ff). Pub. L. 111–5, §5006(b)(1), added subsec. (ff).
 
-2008—Subsec. (a)(10)(E)(iv). Pub. L. 110–275 substituted “December 2009” for “June 2008”.
+<b>2008</b>—Subsec. (a)(10)(E)(iv). Pub. L. 110–275 substituted “December 2009” for “June 2008”.
 
 Subsec. (a)(71). Pub. L. 110–252 added par. (71).
 
-2007—Subsec. (a)(10)(E)(iv). Pub. L. 110–173 substituted “June 2008” for “December 2007”.
+<b>2007</b>—Subsec. (a)(10)(E)(iv). Pub. L. 110–173 substituted “June 2008” for “December 2007”.
 
 Pub. L. 110–90 substituted “December 2007” for “September 2007”.
 
-2006—Subsec. (a)(10)(A)(i)(II). Pub. L. 109–171, §6065(a), inserted “(aa)” after “(II)”, substituted “and” for “) and” after “P.L. 104–193)”, substituted “section), (bb) who are” for “section or who are”, and inserted before comma at end “, or (cc) who are under 21 years of age and with respect to whom supplemental security income benefits would be paid under subchapter XVI if subparagraphs (A) and (B) of section 1382(c)(7) of this title were applied without regard to the phrase ‘the first day of the month following’ ”.
+<b>2006</b>—Subsec. (a)(10)(A)(i)(II). Pub. L. 109–171, §6065(a), inserted “(aa)” after “(II)”, substituted “and” for “) and” after “P.L. 104–193)”, substituted “section), (bb) who are” for “section or who are”, and inserted before comma at end “, or (cc) who are under 21 years of age and with respect to whom supplemental security income benefits would be paid under subchapter XVI if subparagraphs (A) and (B) of section 1382(c)(7) of this title were applied without regard to the phrase ‘the first day of the month following’ ”.
 
 Subsec. (a)(10)(A)(ii)(XIX). Pub. L. 109–171, §6062(a)(1)(A), added subcl. (XIX).
 
@@ -1350,13 +1782,13 @@ Subsec. (cc). Pub. L. 109–171, §6062(a)(1)(B), added subsec. (cc).
 
 Subsec. (cc)(2). Pub. L. 109–171, §6062(a)(2), added par. (2).
 
-2005—Subsec. (a)(10)(E)(iv). Pub. L. 109–91 substituted “September 2007” for “September 2005”.
+<b>2005</b>—Subsec. (a)(10)(E)(iv). Pub. L. 109–91 substituted “September 2007” for “September 2005”.
 
-2004—Subsec. (a)(7). Pub. L. 108–265 designated part of existing provisions as subpar. (A) and added subpar. (B).
+<b>2004</b>—Subsec. (a)(7). Pub. L. 108–265 designated part of existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (a)(10)(E)(iv). Pub. L. 108–448 substituted “2005” for “2004”.
 
-2003—Subsec. (a)(10)(E)(iv). Pub. L. 108–173, §103(f)(1), substituted “ending with September 2004” for “ending with March 2004”.
+<b>2003</b>—Subsec. (a)(10)(E)(iv). Pub. L. 108–173, §103(f)(1), substituted “ending with September 2004” for “ending with March 2004”.
 
 Pub. L. 108–89 substituted “March 2004” for “December 2002”, redesignated introductory provisions and subcl. (I) as cl. (iv), substituted semicolon for “, and” after “State plan”, and struck out subcl. (II) which read as follows: “for the portion of medicare cost-sharing described in section 1396d(p)(3)(A)(ii) of this title that is attributable to the operation of the amendments made by (and subsection (e)(3) of) section 4611 of the Balanced Budget Act of 1997 for individuals who would be described in subclause (I) if ‘135 percent’ and ‘175 percent’ were substituted for ‘120 percent’ and ‘135 percent’ respectively;”.
 
@@ -1366,7 +1798,7 @@ Subsec. (a)(67). Pub. L. 108–173, §236(b)(1), added par. (67).
 
 Subsec. (e)(1)(B). Pub. L. 108–40 substituted “2003” for “2002”.
 
-2002—Subsec. (a)(15). Pub. L. 107–121, §2(b)(2), substituted “subsection (bb)” for “subsection (aa)”.
+<b>2002</b>—Subsec. (a)(15). Pub. L. 107–121, §2(b)(2), substituted “subsection (bb)” for “subsection (aa)”.
 
 Subsec. (aa). Pub. L. 107–121, §2(b)(1), redesignated subsec. (aa) relating to payment for services provided by federally-qualified health centers and rural health clinics as subsec. (bb).
 
@@ -1374,7 +1806,7 @@ Subsec. (aa)(4). Pub. L. 107–121, §2(a), inserted “, but applied without r
 
 Subsec. (bb). Pub. L. 107–121, §2(b)(1), redesignated subsec. (aa) relating to payment for services provided by federally-qualified health centers and rural health clinics as subsec. (bb).
 
-2000—Subsec. (a)(10). Pub. L. 106–354, §2(a)(3), in concluding provisions, substituted “(XIII)” for “and (XIII)” and inserted before semicolon at end “, and (XIV) the medical assistance made available to an individual described in subsection (aa) of this section who is eligible for medical assistance only because of subparagraph (A)(10)(ii)(XVIII) shall be limited to medical assistance provided during the period in which such an individual requires treatment for breast or cervical cancer”.
+<b>2000</b>—Subsec. (a)(10). Pub. L. 106–354, §2(a)(3), in concluding provisions, substituted “(XIII)” for “and (XIII)” and inserted before semicolon at end “, and (XIV) the medical assistance made available to an individual described in subsection (aa) of this section who is eligible for medical assistance only because of subparagraph (A)(10)(ii)(XVIII) shall be limited to medical assistance provided during the period in which such an individual requires treatment for breast or cervical cancer”.
 
 Subsec. (a)(10)(A)(ii)(XVIII). Pub. L. 106–354, §2(a)(1), added subcl. (XVIII).
 
@@ -1396,7 +1828,7 @@ Subsec. (aa). Pub. L. 106–554, §1(a)(6) \[title VII, §702(b)\], added subsec
 
 Pub. L. 106–354, §2(a)(2), added subsec. (aa) relating to certain breast or cervical cancer patients.
 
-1999—Subsec. (a)(10)(A)(ii)(XIV). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(aa)(1)\], substituted “1396d(u)(2)(B) of this title” for “1396d(u)(2)(C) of this title”.
+<b>1999</b>—Subsec. (a)(10)(A)(ii)(XIV). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(aa)(1)\], substituted “1396d(u)(2)(B) of this title” for “1396d(u)(2)(C) of this title”.
 
 Subsec. (a)(10)(A)(ii)(XV). Pub. L. 106–169, §121(c)(4)(A), redesignated subcl. (XV), related to individuals who are independent foster care adolescents, as (XVII).
 
@@ -1442,7 +1874,7 @@ Subsec. (<i>l</i>)(4)(B). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(c)(3
 
 Subsec. (v). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(d)\], struck out par. (1) designation before “A State plan may provide”.
 
-1997—Subsec. (a). Pub. L. 105–33, §4454(b)(1), in second sentence of flush concluding provisions, substituted “to a religious nonmedical health care institution (as defined in section 1395x(ss)(1) of this title).” for “to a Christian Science sanatorium operated, or listed and certified, by The Commission for Accreditation of Christian Science Nursing Organizations/Facilities, Inc..”
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §4454(b)(1), in second sentence of flush concluding provisions, substituted “to a religious nonmedical health care institution (as defined in section 1395x(ss)(1) of this title).” for “to a Christian Science sanatorium operated, or listed and certified, by The Commission for Accreditation of Christian Science Nursing Organizations/Facilities, Inc..”
 
 Subsec. (a)(4)(C), (D). Pub. L. 105–33, §4724(c)(1), substituted “(C)” for “and (C)”, “local officer, employee, or independent contractor” for “local officer or employee”, and “such an officer, employee, or contractor” for “such an officer or employee” in two places and added subpar. (D).
 
@@ -1544,7 +1976,7 @@ Subsec. (w)(2)(E). Pub. L. 105–33, §4701(b)(2)(A)(iv), substituted “medicai
 
 Subsec. (w)(5). Pub. L. 105–12 added par. (5).
 
-1996—Subsec. (a). Pub. L. 104–193, §913, which directed substitution of “The Commission for Accreditation of Christian Science Nursing Organizations/Facilities, Inc.” for “The First Church of Christ, Scientist, Boston, Massachusetts” in third sentence, was executed by making the substitution for “the First Church of Christ, Scientist, Boston, Massachusetts” in first undesignated closing par. to reflect the probable intent of Congress.
+<b>1996</b>—Subsec. (a). Pub. L. 104–193, §913, which directed substitution of “The Commission for Accreditation of Christian Science Nursing Organizations/Facilities, Inc.” for “The First Church of Christ, Scientist, Boston, Massachusetts” in third sentence, was executed by making the substitution for “the First Church of Christ, Scientist, Boston, Massachusetts” in first undesignated closing par. to reflect the probable intent of Congress.
 
 Subsec. (a)(25)(A)(i). Pub. L. 104–226 struck out “including the use of information collected by the Medicare and Medicaid Coverage Data Bank under section 1320b–14 of this title and any additional measures” before “as specified by the Secretary in regulations)”.
 
@@ -1562,11 +1994,11 @@ Subsec. (e)(1)(B). Pub. L. 104–193, §114(c), substituted “2001” for “19
 
 Subsec. (j). Pub. L. 104–193, §108(k), substituted “1308(f)” for “1308(c)”.
 
-1994—Subsec. (a)(10)(A)(ii)(XI). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary”.
+<b>1994</b>—Subsec. (a)(10)(A)(ii)(XI). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary”.
 
 Subsec. (a)(11)(C), (53)(A). Pub. L. 103–448 substituted “special supplemental nutrition program” for “special supplemental food program”.
 
-1993—Subsec. (a)(10). Pub. L. 103–66, §13603(c), in concluding provisions, substituted “services, or hospitals, (XI)” for “services, or hospitals; and (XI)” and “other individuals, (XII)” for “other individuals, and (XI)”, and inserted “, and” and subdiv. (XIII) before semicolon at end.
+<b>1993</b>—Subsec. (a)(10). Pub. L. 103–66, §13603(c), in concluding provisions, substituted “services, or hospitals, (XI)” for “services, or hospitals; and (XI)” and “other individuals, (XII)” for “other individuals, and (XI)”, and inserted “, and” and subdiv. (XIII) before semicolon at end.
 
 Subsec. (a)(10)(A)(ii)(XII). Pub. L. 103–66, §13603(a), added subcl. (XII).
 
@@ -1640,11 +2072,11 @@ Subsec. (k). Pub. L. 103–66, §13611(d)(1)(C), struck out subsec. (k) which re
 
 Subsec. (z). Pub. L. 103–66, §13603(b), added subsec. (z).
 
-1991—Subsec. (h). Pub. L. 102–234, §3(a), struck out “to limit the amount of payment adjustments that may be made under a plan under this subchapter with respect to hospitals that serve a disproportionate number of low-income patients with special needs or” after “Secretary”.
+<b>1991</b>—Subsec. (h). Pub. L. 102–234, §3(a), struck out “to limit the amount of payment adjustments that may be made under a plan under this subchapter with respect to hospitals that serve a disproportionate number of low-income patients with special needs or” after “Secretary”.
 
 Subsec. (t). Pub. L. 102–234, §2(b)(1), substituted “Nothing” for “Except as provided in section 1396b(i) of this title, nothing” and “taxes of general applicability” for “taxes (whether or not of general applicability)”.
 
-1990—Subsec. (a)(10). Pub. L. 101–508, §4713(a)(1)(D), which directed amendment of par. (10) by adding subdiv. (XI), relating to medical assistance available to an individual described in subsection (u)(1), in the matter following subparagraph (E), was executed in the matter following subpar. (F) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 101–508, §4713(a)(1)(A)–(C), which added subpar. (F). See below. Direction by section 4713(a)(1)(D) to strike “and” before “(X)” could not be executed because “and” did not appear after amendment by Pub. L. 101–508, §4402(d)(1). See below.
+<b>1990</b>—Subsec. (a)(10). Pub. L. 101–508, §4713(a)(1)(D), which directed amendment of par. (10) by adding subdiv. (XI), relating to medical assistance available to an individual described in subsection (u)(1), in the matter following subparagraph (E), was executed in the matter following subpar. (F) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 101–508, §4713(a)(1)(A)–(C), which added subpar. (F). See below. Direction by section 4713(a)(1)(D) to strike “and” before “(X)” could not be executed because “and” did not appear after amendment by Pub. L. 101–508, §4402(d)(1). See below.
 
 Pub. L. 101–508, §4402(d)(1), in closing provisions, struck out “and” at end of subdiv. (IX), inserted “and” at end of subdiv. (X), and added subdiv. (XI) relating to medical assistance to cover costs of premiums, etc.
 
@@ -1732,7 +2164,7 @@ Subsec. (x). Pub. L. 101–508, §4752(a)(1)(A), added subsec. (x).
 
 Subsec. (y). Pub. L. 101–508, §4755(a)(2), added subsec. (y).
 
-1989—Subsec. (a)(9)(C). Pub. L. 101–239, §6115(c), substituted “paragraphs (15) and (16)” for “paragraphs (14) and (15)”.
+<b>1989</b>—Subsec. (a)(9)(C). Pub. L. 101–239, §6115(c), substituted “paragraphs (15) and (16)” for “paragraphs (14) and (15)”.
 
 Pub. L. 101–234 repealed Pub. L. 100–360, §204(d)(3), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
 
@@ -1788,7 +2220,7 @@ Subsec. (p)(2)(C). Pub. L. 101–239, §6411(d)(3)(B), added subpar. (C).
 
 Subsec. (r)(2)(A). Pub. L. 101–239, §6401(a)(9), inserted “(a)(10)(A)(i)(VI),” after “(a)(10)(A)(i)(IV),” in introductory provisions.
 
-1988—Subsec. (a)(9)(C). Pub. L. 100–360, §204(d)(3), substituted “paragraphs (14) and (15)” for “paragraphs (13) and (14)”.
+<b>1988</b>—Subsec. (a)(9)(C). Pub. L. 100–360, §204(d)(3), substituted “paragraphs (14) and (15)” for “paragraphs (13) and (14)”.
 
 Subsec. (a)(10). Pub. L. 100–647, §8434(b)(1), inserted “who is only entitled to medical assistance because the individual is such a beneficiary” after “section 1396d(p)(1) of this title” in subdiv. (VIII) of closing provisions.
 
@@ -1902,7 +2334,7 @@ Pub. L. 100–360, §303(d), added subsec. (r).
 
 Subsec. (r)(2)(A). Pub. L. 100–485, §608(d)(16)(C), substituted “, or (f) of this section or under section 1396d(p) of this title” for “of this section, or under subsection (f) of this section” in introductory provisions.
 
-1987—Subsec. (a)(9)(C). Pub. L. 100–203, §4072(d), substituted “paragraphs (13) and (14)” for “paragraphs (12) and (13)”.
+<b>1987</b>—Subsec. (a)(9)(C). Pub. L. 100–203, §4072(d), substituted “paragraphs (13) and (14)” for “paragraphs (12) and (13)”.
 
 Subsec. (a)(10). Pub. L. 100–203, §4101(e)(1), substituted “postpartum, and family planning services” for “and postpartum services” in subdiv. (VII) of closing provisions.
 
@@ -2040,7 +2472,7 @@ Subsec. (p). Pub. L. 100–93, §7, added subsec. (p).
 
 Subsec. (q). Pub. L. 100–203, §9119(d)(1)(B), as added by Pub. L. 100–360, §411(n)(4), formerly §411(n)(3), as redesignated by Pub. L. 100–485, §608(d)(28), added subsec. (q).
 
-1986—Subsec. (a). Pub. L. 99–509, §9406(b), inserted at end “Notwithstanding paragraph (10)(B) or any other provision of this subsection, a State plan shall provide medical assistance with respect to an alien who is not lawfully admitted for permanent residence or otherwise permanently residing in the United States under color of law only in accordance with section 1396b(v) of this title.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–509, §9406(b), inserted at end “Notwithstanding paragraph (10)(B) or any other provision of this subsection, a State plan shall provide medical assistance with respect to an alien who is not lawfully admitted for permanent residence or otherwise permanently residing in the United States under color of law only in accordance with section 1396b(v) of this title.”
 
 Pub. L. 99–272, §9529(a)(1), inserted at end “For purposes of this subchapter, any child who meets the requirements of paragraph (1) or (2) of section 673(b) of this title shall be deemed to be a dependent child as defined in section 606 of this title and shall be deemed to be a recipient of aid to families with dependent children under part A of subchapter IV of this chapter in the State where such child resides.”
 
@@ -2154,7 +2586,7 @@ Subsec. (m)(5). Pub. L. 99–509, §9403(f)(1)(B), added par. (5).
 
 Subsec. (n). Pub. L. 99–509, §9403(e), added subsec. (n).
 
-1984—Subsec. (a)(9)(C). Pub. L. 98–369, §2373(b)(1), realigned margin of subpar. (C).
+<b>1984</b>—Subsec. (a)(9)(C). Pub. L. 98–369, §2373(b)(1), realigned margin of subpar. (C).
 
 Subsec. (a)(10)(A). Pub. L. 98–369, §2373(b)(2), realigned margins of subpar. (A).
 
@@ -2204,7 +2636,7 @@ Subsec. (e)(4). Pub. L. 98–369, §2362(a), added par. (4).
 
 Subsec. (f). Pub. L. 98–369, §2373(b)(10), substituted “paragraph (10)(A)” and “paragraph (10)(C)” for “clause (10)(A)” and “clause (10)(C)”, respectively, wherever appearing.
 
-1982—Subsec. (a)(10). Pub. L. 97–248, §131(c), formerly §131(b), as redesignated by Pub. L. 97–448, §309(a)(8), in provisions following subpar. (D) added cl. (IV).
+<b>1982</b>—Subsec. (a)(10). Pub. L. 97–248, §131(c), formerly §131(b), as redesignated by Pub. L. 97–448, §309(a)(8), in provisions following subpar. (D) added cl. (IV).
 
 Subsec. (a)(10)(A). Pub. L. 97–248, §137(b)(7), redesignated existing provisions as provisions preceding cl. (i) and cl. (i), and added cl. (ii).
 
@@ -2228,7 +2660,7 @@ Subsec. (e)(3). Pub. L. 97–248, §134(a), added par. (3).
 
 Subsec. (j). Pub. L. 97–248, §§132(c), 136(d), struck out subsec. (j) which related to the denial of medical assistance under a State plan because of an individual's disposal of resources for less than fair market value, the period of ineligibility, and the eligibility of certain individuals for medical assistance under a State plan who would otherwise be ineligible because of the provisions of section 1382b(c) of this title, and added a new subsec. (j) relating to waiver or modification of requirements with respect to American Samoa medical assistance program.
 
-1981—Subsec. (a)(9)(C). Pub. L. 97–35, §2175(d)(1)(C), added subpar. (C).
+<b>1981</b>—Subsec. (a)(9)(C). Pub. L. 97–35, §2175(d)(1)(C), added subpar. (C).
 
 Subsec. (a)(10)(A). Pub. L. 97–35, §2171(a)(1), substituted “including at least the care and services listed in paragraphs (1) through (5) and (17) of section 1396d(a) of this title, to all individuals receiving aid or assistance under any plan of the State approved under subchapter I, X, XIV, or XVI of this chapter, or part A or part E of subchapter IV of this chapter (including pregnant women deemed by the State to be receiving such aid as authorized by section 606(g) of this title and individuals considered by the State to be receiving such aid as authorized under section 614(g) of this title)” for “to all individuals receiving aid or assistance under any plan of the State approved under subchapters I, X, XIV, or XVI, or part A of subchapter IV of this chapter”.
 
@@ -2270,7 +2702,7 @@ Subsec. (e). Pub. L. 97–35, §2178(b), designated existing provisions as par. 
 
 Subsec. (h). Pub. L. 97–35, §2173(b)(1), (d), as amended by Pub. L. 99–509, §9433(a), added a new subsec. (h) and repealed former subsec. (h) which related to skilled nursing and intermediate care facility services.
 
-1980—Subsec. (a)(13)(B). Pub. L. 96–499, §965(b)(1), substituted “paragraphs (1) through (5) and (17)” for “clauses (1) through (5)”.
+<b>1980</b>—Subsec. (a)(13)(B). Pub. L. 96–499, §965(b)(1), substituted “paragraphs (1) through (5) and (17)” for “clauses (1) through (5)”.
 
 Subsec. (a)(13)(C)(i). Pub. L. 96–499, §965(b)(2), substituted “paragraphs (1) through (5) and (17)” for “clauses (1) through (5)”.
 
@@ -2306,9 +2738,9 @@ Subsec. (i). Pub. L. 96–499, §916(b)(1)(A), added subsec. (i).
 
 Subsec. (j). Pub. L. 96–611 added subsec. (j).
 
-1978—Subsec. (a)(4)(C). Pub. L. 95–559 added cl. (C).
+<b>1978</b>—Subsec. (a)(4)(C). Pub. L. 95–559 added cl. (C).
 
-1977—Subsec. (a)(13)(F). Pub. L. 95–210, §2(c)(1), added subpar. (F).
+<b>1977</b>—Subsec. (a)(13)(F). Pub. L. 95–210, §2(c)(1), added subpar. (F).
 
 Subsec. (a)(23). Pub. L. 95–210, §2(c)(2), inserted “, or by reason of the fact that the plan provides for payment for rural health clinic services only if those services are provided by a rural health clinic” after “who elect to obtain such care and services from such organization”.
 
@@ -2332,17 +2764,17 @@ Subsec. (a), foll. par. (40). Pub. L. 95–142, §2(b)(1)(D), added paragraph re
 
 Subsec. (g). Pub. L. 95–142, §7(c), added subsec. (g).
 
-1976—Subsec. (g). Pub. L. 94–552 struck out provisions for consent to suit and waiver of immunity by State.
+<b>1976</b>—Subsec. (g). Pub. L. 94–552 struck out provisions for consent to suit and waiver of immunity by State.
 
-1975—Subsec. (a). Pub. L. 94–48, §1, added undesignated paragraph at end of subsec. (a) relating to eligibility under this subchapter of any individual who was eligible for the month of August 1972, under a State plan approved under subchapters I, X, XIV, XVI, or part A of subchapter IV of this chapter if such individual would have been eligible for such month had the increase in monthly insurance benefits under subchapterII of this chapter resulting from enactment of Pub. L. 92–336 not been applicable to such individual.
+<b>1975</b>—Subsec. (a). Pub. L. 94–48, §1, added undesignated paragraph at end of subsec. (a) relating to eligibility under this subchapter of any individual who was eligible for the month of August 1972, under a State plan approved under subchapters I, X, XIV, XVI, or part A of subchapter IV of this chapter if such individual would have been eligible for such month had the increase in monthly insurance benefits under subchapterII of this chapter resulting from enactment of Pub. L. 92–336 not been applicable to such individual.
 
 Subsec. (a)(23). Pub. L. 94–48, §2, inserted “except in the case of Puerto Rico, the Virgin Islands, and Guam,”.
 
 Subsec. (g). Pub. L. 94–182 added subsec. (g).
 
-1974—Subsec. (a)(14)(B)(i). Pub. L. 93–368 substituted “may” for “shall”.
+<b>1974</b>—Subsec. (a)(14)(B)(i). Pub. L. 93–368 substituted “may” for “shall”.
 
-1973—Subsec. (a)(5). Pub. L. 93–233, §13(a)(2)(A), (B), substituted “to administer or to supervise the administration of the plan” for “to administer the plan” and “to supervise the administration of the plan” in that order and inserted after the parenthetical phrase the conditional provision “if the State is eligible to participate in the State plan program established under subchapter XVI of this chapter, or by the agency or agencies administering the supplemental security income program established under subchapter XVI of this chapter or the State plan approved under part A of subchapter IV of this chapter if the State is not eligible to participate in the State plan program established under subchapter XVI of this chapter”.
+<b>1973</b>—Subsec. (a)(5). Pub. L. 93–233, §13(a)(2)(A), (B), substituted “to administer or to supervise the administration of the plan” for “to administer the plan” and “to supervise the administration of the plan” in that order and inserted after the parenthetical phrase the conditional provision “if the State is eligible to participate in the State plan program established under subchapter XVI of this chapter, or by the agency or agencies administering the supplemental security income program established under subchapter XVI of this chapter or the State plan approved under part A of subchapter IV of this chapter if the State is not eligible to participate in the State plan program established under subchapter XVI of this chapter”.
 
 Subsec. (a)(10). Pub. L. 93–233, §13(a)(3), incorporated existing text in provisions designated as cl. (A), providing therein for medical assistance to individuals with respect to whom supplemental security income benefits are paid; incorporated existing par. (A) in provisions designated as cl. (B); incorporated existing par. (B) in provisions designated as cl. (C), providing therein for individuals not meeting income and resources requirements of the supplemental security income program; substituted in cls. (B)(ii), (C), (C)(i)(ii) and “medical assistance” for “medical or remedial care and services” appearing in predecessor provisions and in cl. (C)(i) “except for income and resources” for “if needy” appearing in predecessor provision; and in the exception provisions included reference to par. (16) of section 1396(a) of this title in item (I), substituted “deductibles” for “the deductibles” in item (II), and added item (III).
 
@@ -2376,7 +2808,7 @@ Subsec. (e). Pub. L. 93–233, §18(q), substituted “each family which was rec
 
 Subsec. (f). Pub. L. 93–233, §13(a)(10)(A)–(D), substituted: “no State not eligible to participate in the State plan program established under subchapter XVI of this chapter” for “no State” and “any supplemental security income payment and State supplementary payment made with respect to such individual” for “such individual's payment under subchapter XVI of this chapter” and “as recognized under State law” for “as defined in section 213 of Title 26” in parenthetical text; and inserted two end sentences for consideration of certain individuals as eligible for medical assistance under cl. (10)(A) or (C) of subsec. (a) of this section or as eligible for such assistance under cl. (10)(A) in States not providing such assistance under cl. (10)(C), respectively.
 
-1972—Subsec. (a). Pub. L. 92–603, §§268(a), 278(b)(14), inserted provisions exempting Christian Science sanatoriums from certain nursing facility and nursing home requirements.
+<b>1972</b>—Subsec. (a). Pub. L. 92–603, §§268(a), 278(b)(14), inserted provisions exempting Christian Science sanatoriums from certain nursing facility and nursing home requirements.
 
 Subsec. (a)(9). Pub. L. 92–603, §239(a), inserted provisions to utilize State health agency for establishing and maintaining health standards for private or public institutions in which recipients of medical assistance under the plan may receive care or services.
 
@@ -2414,13 +2846,13 @@ Subsec. (e). Pub. L. 92–603, §209(a), added subsec. (e).
 
 Subsec. (f). Pub. L. 92–603, §209(b)(1), added subsec. (f).
 
-1971—Subsec. (a)(31). Pub. L. 92–223 added par. (31).
+<b>1971</b>—Subsec. (a)(31). Pub. L. 92–223 added par. (31).
 
-1969—Subsec. (c). Pub. L. 91–56, §2(c), substituted “aid or assistance in the form of money payments (other than so much, if any, of the aid or assistance in such form as was, immediately prior to the effective date of the State plan under this subchapter, attributable to medical needs)” for “aid or assistance (other than so much of the aid or assistance as is provided for under the plan of the State approved under this subchapter)”.
+<b>1969</b>—Subsec. (c). Pub. L. 91–56, §2(c), substituted “aid or assistance in the form of money payments (other than so much, if any, of the aid or assistance in such form as was, immediately prior to the effective date of the State plan under this subchapter, attributable to medical needs)” for “aid or assistance (other than so much of the aid or assistance as is provided for under the plan of the State approved under this subchapter)”.
 
 Subsec. (d). Pub. L. 91–56, §2(d), added subsec. (d).
 
-1968—Subsec. (a)(2). Pub. L. 90–248, §231, changed the date on which State plans must meet certain financial participation requirements by substituting “July 1, 1969” for “July 1, 1970”.
+<b>1968</b>—Subsec. (a)(2). Pub. L. 90–248, §231, changed the date on which State plans must meet certain financial participation requirements by substituting “July 1, 1969” for “July 1, 1970”.
 
 Subsec. (a)(4). Pub. L. 90–248, §210(a)(6), designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -2448,6 +2880,54 @@ Subsec. (b)(2). Pub. L. 90–248, §241(f)(3), inserted “part A of” before �
 
 Subsec. (c). Pub. L. 90–248, §241(f)(4), struck out “IV,” after “I,” and inserted “, or part A of subchapter IV of this chapter” after “XVI of this chapter”.
 
+#### Effective and Termination Dates of 2010 Amendment
+
+Pub. L. 111–296, title I, §103(c)(2), Dec. 13, 2010, 124 Stat. 3192, provided that:
+
+“(A)
+
+In general.—Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 13, 2010\].
+
+“(B)
+
+Extension of effective date for state law amendment.—In the case of a State plan under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by this section \[amending this section, section 1758 of this title, and section 1232g of Title 20, Education\], the State plan shall not be regarded as failing to comply with the requirements of the amendments made by this section solely on the basis of its failure to meet such additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Dec. 13, 2010\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session is considered to be a separate regular session of the State legislature.”
+
+Amendment by Pub. L. 111–255 effective on the earlier of the effective date of final regulations promulgated by the Commissioner of Social Security to carry out such amendment or 180 days after Oct. 5, 2010, see section 3(d) of Pub. L. 111–255, set out as a note under section 1382a of this title.
+
+Amendment by Pub. L. 111–255 repealed 5 years after Oct. 5, 2010, see section 3(e) of Pub. L. 111–255, set out as a note under section 1382a of this title.
+
+Pub. L. 111–148, title II, §2002(c), Mar. 23, 2010, 124 Stat. 282, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] take effect on January 1, 2014.”
+
+Pub. L. 111–148, title II, §2004(d), title X, §10201(a)(3), Mar. 23, 2010, 124 Stat. 283, 918, provided that: “The amendments made by this section \[amending this section and sections 1396b, 1396r–1, and 1396u–7 of this title\] take effect on January 1, 2014.”
+
+Pub. L. 111–148, title II, §2202(c), Mar. 23, 2010, 124 Stat. 292, provided that: “The amendments made by this section \[amending this section and section 1396b of this title\] take effect on January 1, 2014, and apply to services furnished on or after that date.”
+
+Pub. L. 111–148, title II, §2301(c), Mar. 23, 2010, 124 Stat. 293, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 1396d of this title\] shall take effect on the date of the enactment of this Act \[Mar. 23, 2010\] and shall apply to services furnished on or after such date.
+
+“(2)
+
+Exception if state legislation required.—In the case of a State plan for medical assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirement imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet this additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Mar. 23, 2010\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
+
+Pub. L. 111–148, title II, §2303(d), Mar. 23, 2010, 124 Stat. 296, provided that: “The amendments made by this section \[enacting section 1396r–1c of this title and amending this section and sections 1396b, 1396d, and 1396u–7 of this title\] take effect on the date of the enactment of this Act \[Mar. 23, 2010\] and shall apply to items and services furnished on or after such date.”
+
+Pub. L. 111–148, title II, §2402(g), Mar. 23, 2010, 124 Stat. 304, provided that: “The amendments made by subsections (b) through (f) \[amending this section and sections 1396b, 1396d and 1396n of this title\] take effect on the first day of the first fiscal year quarter that begins after the date of enactment of this Act \[Mar. 23, 2010\].”
+
+Pub. L. 111–148, title VI, §6508, Mar. 23, 2010, 124 Stat. 778, provided that:
+
+“(a)
+
+In General.—Except as otherwise provided in this subtitle \[subtitle F (§§6501–6508) of title VI of Pub. L. 111–148, amending this section and section 1396b of this title\], this subtitle and the amendments made by this subtitle take effect on January 1, 2011, without regard to whether final regulations to carry out such amendments and subtitle have been promulgated by that date.
+
+“(b)
+
+Delay if State Legislation Required.—In the case of a State plan for medical assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] or a child health plan under title XXI of such Act \[42 U.S.C. 1397aa et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirement imposed by the amendments made by this subtitle, the State plan or child health plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet this additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Mar. 23, 2010\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
+
+Amendment by section 8002(a)(2), (b) of Pub. L. 111–148 effective Jan. 1, 2011, see section 8002(e) of Pub. L. 111–148, set out as an Effective Date note under section 300<i>ll</i> of this title.
+
 #### Effective Date of 2009 Amendment
 
 Pub. L. 111–5, div. B, title V, §5004(a)(2), Feb. 17, 2009, 123 Stat. 504, provided that: “The amendments made by this subsection \[amending this section and section 1396r–6 of this title\] shall take effect on July 1, 2009.”
@@ -2472,7 +2952,7 @@ In general.—Except as provided in subparagraph (B), the amendments made by thi
 
 Technical amendments.—The amendments made by—
 
-&emsp;&emsp;“(i) paragraphs (1), (2), and (3) of subsection (b) \[amending this section and section 1396b of this title\] shall take effect as if included in the enactment of section 6036 of the Deficit Reduction Act of 2005 (Public Law 109–171; 120 Stat. 80); and
+&emsp;&emsp;“(i) paragraphs (1), (2), and (3) of subsection (b) \[amending this section and section 1396b of thistitle\] shall take effect as if included in the enactment of section 6036 of the Deficit Reduction Act of 2005 (Public Law 109–171; 120 Stat. 80); and
 
 &emsp;&emsp;“(ii) paragraph (4) of subsection (b) \[amending section 1396b of this title\] shall take effect as if included in the enactment of section 405 of division B of the Tax Relief and Health Care Act of 2006 (Public Law 109–432; 120 Stat. 2996).
 
@@ -2540,7 +3020,7 @@ Bipa technical amendments.—The amendments made by subsection (b) \[amending th
 
 #### Effective Date of 2000 Amendments
 
-Pub. L. 106–554, §1(a)(6) \[title VII, §702(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–574, provided that: “The amendments made by this section \[amending this section and sections 1396b and 1396n of this title and repealing provisions set out as a note under this section\] take effect on January 1, 2001, and shall apply to services furnished on or after such date.”
+Pub. L. 106–554, §1(a)(6) \[title VII, §702(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–574, provided that: “Theamendments made by this section \[amending this section and sections 1396b and 1396n of this title and repealing provisions set out as a note under this section\] take effect on January 1, 2001, and shall apply to services furnished on or after such date.”
 
 Pub. L. 106–354, §2(d), Oct. 24, 2000, 114 Stat. 1384, provided that: “The amendments made by this section \[enacting section 1396r–1b of this title and amending this section and sections 1396b and 1396d of this title\] apply to medical assistance for items and services furnished on or after October 1, 2000, without regard to whether final regulations to carry out such amendments have been promulgated by such date.”
 
@@ -2584,7 +3064,7 @@ Section 4712(b)(3) of Pub. L. 105–33 provided that: “The amendments made by 
 
 Pub. L. 105–33, title IV, §4712(c), Aug. 5, 1997, 111 Stat. 509, as amended by Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §603(a)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–394, which provided that the amendment made by section 4712(c) was effective for services furnished on or after Oct. 1, 2004, was repealed by Pub. L. 106–554, §1(a)(6) \[title VII, §702(c)(1), (e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–574, effective Jan. 1, 2001, and applicable to services furnished on or after such date.
 
-Section 4714(c) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section and sections 1395w–4, 1395cc, 1396d of this title\] shall apply to payment for (and with respect to provider agreements with respect to) items and servicesfurnished on or after the date of the enactment of this Act \[Aug. 5, 1997\]. The amendments made by subsection (a) \[amending this section and section 1396d of this title\] shall also apply to payment by a State for items and services furnished before such date if such payment is the subject of a law suit that is based on the provisions of sections 1902(n) and 1905(p) of the Social Security Act \[subsec. (n) of this section and section 1396d(p) of this title\] and that is pending as of, or is initiated after, the date of the enactment of this Act.”
+Section 4714(c) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section and sections 1395w–4, 1395cc, 1396d of this title\] shall apply to payment for (and with respect to provider agreements with respect to) items and services furnished on or after the date of the enactment of this Act \[Aug. 5, 1997\]. The amendments made by subsection (a) \[amending this section and section 1396d of this title\] shall also apply to payment by a State for items and services furnished before such date if such payment is the subject of a law suit that is based on the provisions of sections 1902(n) and 1905(p) of the Social Security Act \[subsec. (n) of this section and section 1396d(p) of this title\] and that is pending as of, or is initiated after, the date of the enactment of this Act.”
 
 Section 4715(b) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section\] shall apply on and after October 1, 1997.”
 
@@ -2644,7 +3124,7 @@ Section 13622(d) of Pub. L. 103–66 provided that:
 
 “(3) The amendment made by subsection (a)(2) \[amending section 1396b of this title\] shall apply to items and services furnished on or after October 1, 1993.”
 
-Amendment by section 13623(a) of Pub. L. 103–66 applicable, except as otherwise provided, to calendarquarters beginning on or after Apr. 1, 1994, without regard to whether or not final regulations to carry out the amendments by section 13623 of Pub. L. 103–66 have been promulgated by such date, see section 13623(c) of Pub. L. 103–66, set out as an Effective Date note under section 1396g–1 of this title.
+Amendment by section 13623(a) of Pub. L. 103–66 applicable, except as otherwise provided, to calendar quarters beginning on or after Apr. 1, 1994, without regard to whether or not final regulations to carry out the amendments by section 13623 of Pub. L. 103–66 have been promulgated by such date, see section 13623(c) of Pub. L. 103–66, set out as an Effective Date note under section 1396g–1 of this title.
 
 Section 13625(b) of Pub. L. 103–66 provided that: “Section 1902(a)(61) of the Social Security Act \[subsec. (a)(61) of this section\] (as added by subsection (a)) shall take effect January 1, 1995, and the standards referred to in such section shall be established not later than March 31, 1994.”
 
@@ -2694,7 +3174,7 @@ Pregnant women.—The amendments made by subsection (a)(2) \[amending this secti
 
 Section 4604(d) of Pub. L. 101–508 provided that:
 
-“(1) The amendments made by this subsection \[probably should be “section”, which amended this section and section 1396n of this title\] shall become effective with respect to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after July 1, 1991, without regard towhether or not final regulations to carry out such amendments have been promulgated by such date.
+“(1) The amendments made by this subsection \[probably should be “section”, which amended this section and section 1396n of this title\] shall become effective with respect to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation authorizing or appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this subsection \[section\], the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Nov. 5, 1990\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
 
@@ -2816,7 +3296,7 @@ Section 301(h) of Pub. L. 100–360, as amended by Pub. L. 100–485, title VI, 
 
 &emsp;“(B) items and services furnished on and after January 1, 1989.
 
-“(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[this subchapter\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first session of the State legislature that begins after the date of the enactment of this Act \[July 1, 1988\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
+“(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[this subchapter\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed bythe amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first session of the State legislature that begins after the date of the enactment of this Act \[July 1, 1988\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
 
 Section 302(f) of Pub. L. 100–360 provided that:
 
@@ -2866,7 +3346,7 @@ Section 4113(c)(3) of Pub. L. 100–203 provided that: “The amendments made by
 
 Section 4118(c)(2) of Pub. L. 100–203 provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective as if it were included in section 134 of the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\].”
 
-Section 4118(h)(3), formerly §4118(h)(2), of Pub. L. 100–203, as renumbered and amended by Pub. L. 100–360,title IV, §411(k)(10)(G)(iii), July 1, 1988, 102 Stat. 796, provided that: “The amendments made by this subsection \[amending this section and section 1396b of this title\] shall apply to costs incurred after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Section 4118(h)(3), formerly §4118(h)(2), of Pub. L. 100–203, as renumbered and amended by Pub. L. 100–360, title IV, §411(k)(10)(G)(iii), July 1, 1988, 102 Stat. 796, provided that: “The amendments made by this subsection \[amending this section and section 1396b of this title\] shall apply to costs incurred after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
 Section 4118(m)(2) of Pub. L. 100–203 provided that: “The amendments made by paragraph (1) \[amending this section and repealing section 1320a–8 of this title\] shall apply to audits conducted after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
@@ -2928,7 +3408,7 @@ Section 9406(c) of Pub. L. 99–509 provided that:
 
 “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[this subchapter\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirement imposed by the amendment made in subsection (b) \[amending this section\], the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet such additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Oct. 21, 1986\].”
 
-Section 9407(d) of Pub. L. 99–509 provided that: “The amendments made by this section \[enacting section 1396r–1 of this title and amending this section and sections 1396b and 1396s of this title\] shall apply to ambulatory prenatal care furnished in calendar quarters beginning on or after April 1, 1987, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.”
+Section 9407(d) of Pub. L. 99–509 provided that: “The amendments made by this section \[enacting section1396r–1 of this title and amending this section and sections 1396b and 1396s of this title\] shall apply to ambulatory prenatal care furnished in calendar quarters beginning on or after April 1, 1987, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.”
 
 Section 9408(d) of Pub. L. 99–509 provided that: “The amendments made by this section \[amending this section and section 1396d of this title\] shall apply to services furnished on or after the date of the enactment of this Act \[Oct. 21, 1986\].”
 
@@ -3084,7 +3564,7 @@ Section 965(c) of Pub. L. 96–499 provided that:
 
 “(1) The amendments made by this section \[amending this section and section 1396d of this title\] shall (except as provided under paragraph (2)) be effective with respect to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning more than one hundred and twenty days after the date of the enactment of this Act \[Dec. 5, 1980\].
 
-“(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not beregarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act.”
+“(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act.”
 
 #### Effective Date of 1978 Amendment
 
@@ -3098,7 +3578,7 @@ Section 14(a)(2) of Pub. L. 95–559 provided that:
 
 Amendment by Pub. L. 95–210 applicable to medical assistance provided, under a State plan approved under subchapter XIX of this chapter, on and after the first day of the first calendar quarter that begins more than six months after Dec. 13, 1977, with exception for plans requiring State legislation, see section 2(f) of Pub. L. 95–210, set out as a note under section 1395cc of this title.
 
-Amendment by section 2(a)(3) of Pub. L. 95–142 applicable with respect to care and services furnished on or after Oct. 25, 1977, see section 2(a)(4) of Pub. L. 95–142, set out as a note under section 1395g of this title.
+Amendment by section 2(a)(3) of Pub. L. 95–142 applicable with respect to care and services furnished on orafter Oct. 25, 1977, see section 2(a)(4) of Pub. L. 95–142, set out as a note under section 1395g of this title.
 
 Section 2(b)(2) of Pub. L. 95–142 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to calendar quarters beginning on and after July 1, 1978, with respect to State plans approved under title XIX of the Social Security Act \[this subchapter\].”
 
@@ -3170,7 +3650,7 @@ Section 224(b) of Pub. L. 90–248 provided that: “The amendment made by subse
 
 Section 224(c)(2) of Pub. L. 90–248 provided that: “The amendment made by paragraph (1) of this subsection \[amending this section\] shall apply with respect to calendar quarters beginning after June 30, 1970.”
 
-Section 227(b) of Pub. L. 90–248, as amended by section 271A of Pub. L. 92–603, effective from and after July 1, 1972, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to calendar quarters beginning after June 30, 1969; except that such amendments shall apply in the case of Puerto Rico, the Virgin Islands, and Guam only with respect to calendar quarters beginning after June 30, 1975.”
+Section 227(b) of Pub. L. 90–248, as amended by section 271A of Pub. L. 92–603, effective from and after July 1, 1972, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to calendar quarters beginning after June 30, 1969;except that such amendments shall apply in the case of Puerto Rico, the Virgin Islands, and Guam only with respect to calendar quarters beginning after June 30, 1975.”
 
 Section 229(b) of Pub. L. 90–248 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to legal liabilities of third parties arising after March 31, 1968.”
 
@@ -3210,6 +3690,410 @@ Pub. L. 106–169, title I, §121(c), Dec. 14, 1999, 113 Stat. 1830, provided th
 
 Functions, powers, and duties of Secretary of Health and Human Services under subsec. (a)(4)(A) of this section, insofar as relates to the prescription of personnel standards on a merit basis, transferred to Office of Personnel Management, see section 4728(a)(3)(D) of this title.
 
+#### Reports to Congress
+
+Pub. L. 111–148, title II, §2001(d)(2), Mar. 23, 2010, 124 Stat. 278, provided that: “Beginning April 2015, and annually thereafter, the Secretary of Health and Human Services shall submit a report to the appropriate committees of Congress on the total enrollment and new enrollment in Medicaid for the fiscal year ending on September 30 of the preceding calendar year on a national and State-by-State basis, and shall include in each such report such recommendations for administrative or legislative changes to improve enrollment in the Medicaid program as the Secretary determines appropriate.”
+
+#### Demonstration Project To Evaluate Integrated Care Around a Hospitalization
+
+Pub. L. 111–148, title II, §2704, Mar. 23, 2010, 124 Stat. 323, provided that:
+
+“(a)
+
+Authority To Conduct Project.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall establish a demonstration project under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] to evaluate the use of bundled payments for the provision of integrated care for a Medicaid beneficiary—
+
+&emsp;&emsp;“(A) with respect to an episode of care that includes a hospitalization; and
+
+&emsp;&emsp;“(B) for concurrent physicians services provided during a hospitalization.
+
+&emsp;“(2)
+
+Duration.—The demonstration project shall begin on January 1, 2012, and shall end on December 31, 2016.
+
+“(b)
+
+Requirements.—The demonstration project shall be conducted in accordance with the following:
+
+&emsp;“(1) The demonstration project shall be conducted in up to 8 States, determined by the Secretary based on consideration of the potential to lower costs under the Medicaid program while improving care for Medicaid beneficiaries. A State selected to participate in the demonstration project may target the demonstration project to particular categories of beneficiaries, beneficiaries with particular diagnoses, or particular geographic regions of the State, but the Secretary shall insure \[sic\] that, as a whole, the demonstration project is, to the greatest extent possible, representative of the demographic and geographic composition of Medicaid beneficiaries nationally.
+
+&emsp;“(2) The demonstration project shall focus on conditions where there is evidence of an opportunity for providers of services and suppliers to improve the quality of care furnished to Medicaid beneficiaries while reducing total expenditures under the State Medicaid programs selected to participate, as determined by the Secretary.
+
+&emsp;“(3) A State selected to participate in the demonstration project shall specify the 1 or more episodes of care the State proposes to address in the project, the services to be included in the bundled payments, and the rationale for the selection of such episodes of care and services. The Secretary may modify the episodes of care as well as the services to be included in the bundled payments prior to or after approving the project. The Secretary may also vary such factors among the different States participating in the demonstration project.
+
+&emsp;“(4) The Secretary shall ensure that payments made under the demonstration project are adjusted for severity of illness and other characteristics of Medicaid beneficiaries within a category or having a diagnosis targeted as part of the demonstration project. States shall ensure that Medicaid beneficiaries are not liable for any additional cost sharing than if their care had not been subject to payment under the demonstration project.
+
+&emsp;“(5) Hospitals participating in the demonstration project shall have or establish robust discharge planning programs to ensure that Medicaid beneficiaries requiring post-acute care are appropriately placed in, or have ready access to, post-acute care settings.
+
+&emsp;“(6) The Secretary and each State selected to participate in the demonstration project shall ensure that the demonstration project does not result in the Medicaid beneficiaries whose care is subject to payment under the demonstration project being provided with less items and services for which medical assistance is provided under the State Medicaid program than the items and services for which medical assistance would have been provided to such beneficiaries under the State Medicaid program in the absence of the demonstration project.
+
+“(c)
+
+Waiver of Provisions.—Notwithstanding section 1115(a) of the Social Security Act (42 U.S.C. 1315(a)), the Secretary may waive such provisions of titles XIX, XVIII, and XI of that Act \[42 U.S.C. 1396 et seq., 1395 et seq., 1301 et seq.\] as may be necessary to accomplish the goals of the demonstration, ensure beneficiary access to acute and post-acute care, and maintain quality of care.
+
+“(d)
+
+Evaluation and Report.—
+
+&emsp;“(1)
+
+Data.—Each State selected to participate in the demonstration project under this section shall provide to the Secretary, in such form and manner as the Secretary shall specify, relevant data necessary to monitor outcomes, costs, and quality, and evaluate the rationales for selection of the episodes of care and services specified by States under subsection (b)(3).
+
+&emsp;“(2)
+
+Report.—Not later than 1 year after the conclusion of the demonstration project, the Secretary shall submit a report to Congress on the results of the demonstration project.”
+
+#### Pediatric Accountable Care Organization Demonstration Project
+
+Pub. L. 111–148, title II, §2706, Mar. 23, 2010, 124 Stat. 325, provided that:
+
+“(a)
+
+Authority To Conduct Demonstration.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall establish the Pediatric Accountable Care Organization Demonstration Project to authorize a participating State to allow pediatric medical providers that meet specified requirements to be recognized as an accountable care organization for purposes of receiving incentive payments (as described under subsection (d)), in the same manner as an accountable care organization is recognized and provided with incentive payments under section 1899 of the Social Security Act \[42 U.S.C. 1395jjj\] (as added by section 3022).
+
+&emsp;“(2)
+
+Duration.—The demonstration project shall begin on January 1, 2012, and shall end on December 31, 2016.
+
+“(b)
+
+Application.—A State that desires to participate in the demonstration project under this section shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+“(c)
+
+Requirements.—
+
+&emsp;“(1)
+
+Performance guidelines.—The Secretary, in consultation with the States and pediatric providers, shall establish guidelines to ensure that the quality of care delivered to individuals by a provider recognized as an accountable care organization under this section is not less than the quality of care that would have otherwise been provided to such individuals.
+
+&emsp;“(2)
+
+Savings requirement.—A participating State, in consultation with the Secretary, shall establish an annual minimal level of savings in expenditures for items and services covered under the Medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] and the CHIP program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\] that must be reached by an accountable care organization in order for such organization to receive an incentive payment under subsection (d).
+
+&emsp;“(3)
+
+Minimum participation period.—A provider desiring to be recognized as an accountable care organization under the demonstration project shall enter into an agreement with the State to participate in the project for not less than a 3-year period.
+
+“(d)
+
+Incentive Payment.—An accountable care organization that meets the performance guidelines established by the Secretary under subsection (c)(1) and achieves savings greater than the annual minimal savings level established by the State under subsection (c)(2) shall receive an incentive payment for such year equal to a portion (as determined appropriate by the Secretary) of the amount of such excess savings. The Secretary may establish an annual cap on incentive payments for an accountable care organization.
+
+“(e)
+
+Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section.”
+
+#### Medicaid Emergency Psychiatric Demonstration Project
+
+Pub. L. 111–148, title II, §2707, Mar. 23, 2010, 124 Stat. 326, provided that:
+
+“(a)
+
+Authority To Conduct Demonstration Project.—The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall establish a demonstration project under which an eligible State (as described in subsection (c)) shall provide payment under the State Medicaid plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] to an institution for mental diseases that is not publicly owned or operated and that is subject to the requirements of section 1867 of the Social Security Act (42 U.S.C. 1395dd) for the provision of medical assistance available under such plan to individuals who—
+
+&emsp;“(1) have attained age 21, but have not attained age 65;
+
+&emsp;“(2) are eligible for medical assistance under such plan; and
+
+&emsp;“(3) require such medical assistance to stabilize an emergency medical condition.
+
+“(b)
+
+Stabilization Review.—A State shall specify in its application described in subsection (c)(1) establish \[sic\] a mechanism for how it will ensure that institutions participating in the demonstration will determine whether or not such individuals have been stabilized (as defined in subsection (h)(5)). This mechanism shall commence before the third day of the inpatient stay. States participating in the demonstration project may manage the provision of services for the stabilization of medical emergency conditions through utilization review, authorization, or management practices, or the application of medical necessity and appropriateness criteria applicable to behavioral health.
+
+“(c)
+
+Eligible State Defined.—
+
+&emsp;“(1)
+
+In general.—An eligible State is a State that has made an application and has been selected pursuant to paragraphs (2) and (3).
+
+&emsp;“(2)
+
+Application.—A State seeking to participate in the demonstration project under this section shall submit to the Secretary, at such time and in such format as the Secretary requires, an application that includes such information, provisions, and assurances, as the Secretary may require.
+
+&emsp;“(3)
+
+Selection.—A State shall be determined eligible for the demonstration by the Secretary on a competitive basis among States with applications meeting the requirements of paragraph (1). In selecting State applications for the demonstration project, the Secretary shall seek to achieve an appropriate national balance in the geographic distribution of such projects.
+
+“(d)
+
+Length of Demonstration Project.—The demonstration project established under this section shall be conducted for a period of 3 consecutive years.
+
+“(e)
+
+Limitations on Federal Funding.—
+
+&emsp;“(1)
+
+Appropriation.—
+
+&emsp;&emsp;“(A)
+
+In general.—Out of any funds in the Treasury not otherwise appropriated, there is appropriated to carry out this section, $75,000,000 for fiscal year 2011.
+
+&emsp;&emsp;“(B)
+
+Budget authority.—Subparagraph (A) constitutes budget authority in advance of appropriations Act \[sic\] and represents the obligation of the Federal Government to provide for the payment of the amounts appropriated under that subparagraph.
+
+&emsp;“(2) 5-
+
+year availability.—Funds appropriated under paragraph (1) shall remain available for obligation through December 31, 2015.
+
+&emsp;“(3)
+
+Limitation on payments.—In no case may—
+
+&emsp;&emsp;“(A) the aggregate amount of payments made by the Secretary to eligible States under this section exceed $75,000,000; or
+
+&emsp;&emsp;“(B) payments be provided by the Secretary under this section after December 31, 2015.
+
+&emsp;“(4)
+
+Funds allocated to states.—Funds shall be allocated to eligible States on the basis of criteria, including a State's application and the availability of funds, as determined by the Secretary.
+
+&emsp;“(5)
+
+Payments to states.—The Secretary shall pay to each eligible State, from its allocation under paragraph (4), an amount each quarter equal to the Federal medical assistance percentage of expenditures in the quarter for medical assistance described in subsection (a). As a condition of receiving payment, a State shall collect and report information, as determined necessary by the Secretary, for the purposes of providing Federal oversight and conducting an evaluation under subsection (f)(1).
+
+“(f)
+
+Evaluation and Report to Congress.—
+
+&emsp;“(1)
+
+Evaluation.—The Secretary shall conduct an evaluation of the demonstration project in order to determine the impact on the functioning of the health and mental health service system and on individuals enrolled in the Medicaid program and shall include the following:
+
+&emsp;&emsp;“(A) An assessment of access to inpatient mental health services under the Medicaid program; average lengths of inpatient stays; and emergency room visits.
+
+&emsp;&emsp;“(B) An assessment of discharge planning by participating hospitals.
+
+&emsp;&emsp;“(C) An assessment of the impact of the demonstration project on the costs of the full range of mental health services (including inpatient, emergency and ambulatory care).
+
+&emsp;&emsp;“(D) An analysis of the percentage of consumers with Medicaid coverage who are admitted to inpatient facilities as a result of the demonstration project as compared to those admitted to these same facilities through other means.
+
+&emsp;&emsp;“(E) A recommendation regarding whether the demonstration project should be continued after December 31, 2013, and expanded on a national basis.
+
+&emsp;“(2)
+
+Report.—Not later than December 31, 2013, the Secretary shall submit to Congress and make available to the public a report on the findings of the evaluation under paragraph (1).
+
+“(g)
+
+Waiver Authority.—
+
+&emsp;“(1)
+
+In general.—The Secretary shall waive the limitation of subdivision (B) following paragraph (28) of section 1905(a) of the Social Security Act (42 U.S.C. 1396d(a)) (relating to limitations on payments for care or services for individuals under 65 years of age who are patients in an institution for mental diseases) for purposes of carrying out the demonstration project under this section.
+
+&emsp;“(2)
+
+Limited other waiver authority.—The Secretary may waive other requirements of titles XI and XIX of the Social Security Act \[42 U.S.C. 1301 et seq., 1396 et seq.\] (including the requirements of sections 1902(a)(1) \[42 U.S.C. 1396a(a)(1)\] (relating to statewideness) and 1902(1)(10)(B) \[probably means 1902(a)(1)(10)(B), 42 U.S.C. 1396a(a)(1)(10)(B)\] (relating to comparability)) only to \[the\] extent necessary to carry out the demonstration project under this section.
+
+“(h)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Emergency medical condition.—The term ‘emergency medical condition’ means, with respect to an individual, an individual who expresses suicidal or homicidal thoughts or gestures, if determined dangerous to self or others.
+
+&emsp;“(2)
+
+Federal medical assistance percentage.—The term ‘Federal medical assistance percentage’ has the meaning given that term with respect to a State under section 1905(b) of the Social Security Act (42 U.S.C. 1396d(b)).
+
+&emsp;“(3)
+
+Institution for mental diseases.—The term ‘institution for mental diseases’ has the meaning given to that term in section 1905(i) of the Social Security Act (42 U.S.C. 1396d(i)).
+
+&emsp;“(4)
+
+Medical assistance.—The term ‘medical assistance’ has the meaning given that term in section 1905(a) of the Social Security Act (42 U.S.C. 1396d(a)).
+
+&emsp;“(5)
+
+Stabilized.—The term ‘stabilized’ means, with respect to an individual, that the emergency medical condition no longer exists with respect to the individual and the individual is no longer dangerous to self or others.
+
+&emsp;“(6)
+
+State.—The term ‘State’ has the meaning given that term for purposes of title XIX of the Social Security Act (42 U.S.C. 1396 et seq.).”
+
+#### Incentives for Prevention of Chronic Diseases in Medicaid
+
+Pub. L. 111–148, title IV, §4108, Mar. 23, 2010, 124 Stat. 561, provided that:
+
+“(a)
+
+Initiatives.—
+
+&emsp;“(1)
+
+Establishment.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Secretary \[of Health and Human Services\] shall award grants to States to carry out initiatives to provide incentives to Medicaid beneficiaries who—
+
+&emsp;&emsp;&emsp;“(i) successfully participate in a program described in paragraph (3); and
+
+&emsp;&emsp;&emsp;“(ii) upon completion of such participation, demonstrate changes in health risk and outcomes, including the adoption and maintenance of healthy behaviors by meeting specific targets (as described in subsection (c)(2)).
+
+&emsp;&emsp;“(B)
+
+Purpose.—The purpose of the initiatives under this section is to test approaches that may encourage behavior modification and determine scalable solutions.
+
+&emsp;“(2)
+
+Duration.—
+
+&emsp;&emsp;“(A)
+
+Initiation of program; resources.—The Secretary shall awards grants to States beginning on January 1, 2011, or beginning on the date on which the Secretary develops program criteria, whichever is earlier. The Secretary shall develop program criteria for initiatives under this section using relevant evidence-based research and resources, including the Guide to Community Preventive Services, the Guide to Clinical Preventive Services, and the National Registry of Evidence-Based Programs and Practices.
+
+&emsp;&emsp;“(B)
+
+Duration of program.—A State awarded a grant to carry out initiatives under this section shall carry out such initiatives within the 5-year period beginning on January 1, 2011, or beginning on the date on which the Secretary develops program criteria, whichever is earlier. Initiatives under this section shall be carried out by a State for a period of not less than 3 years.
+
+&emsp;“(3)
+
+Program described.—
+
+&emsp;&emsp;“(A)
+
+In general.—A program described in this paragraph is a comprehensive, evidence-based, widely available, and easily accessible program, proposed by the State and approved by the Secretary, that is designed and uniquely suited to address the needs of Medicaid beneficiaries and has demonstrated success in helping individuals achieve one or more of the following:
+
+&emsp;&emsp;&emsp;“(i) Ceasing use of tobacco products.
+
+&emsp;&emsp;&emsp;“(ii) Controlling or reducing their weight.
+
+&emsp;&emsp;&emsp;“(iii) Lowering their cholesterol.
+
+&emsp;&emsp;&emsp;“(iv) Lowering their blood pressure.
+
+&emsp;&emsp;&emsp;“(v) Avoiding the onset of diabetes or, in the case of a diabetic, improving the management of that condition.
+
+&emsp;&emsp;“(B)
+
+Co-morbidities.—A program under this section may also address co-morbidities (including depression) that are related to any of the conditions described in subparagraph (A).
+
+&emsp;&emsp;“(C)
+
+Waiver authority.—The Secretary may waive the requirements of section 1902(a)(1) (relating to statewideness) of the Social Security Act \[42U.S.C. 1396a(a)(1)\] for a State awarded a grant to conduct an initiative under this section and shall ensure that a State makes any program described in subparagraph (A) available and accessible to Medicaid beneficiaries.
+
+&emsp;&emsp;“(D)
+
+Flexibility in implementation.—A State may enter into arrangements with providers participating in Medicaid, community-based organizations, faith-based organizations, public-private partnerships, Indian tribes, or similar entities or organizations to carry out programs described in subparagraph (A).
+
+&emsp;“(4)
+
+Application.—Following the development of program criteria by the Secretary, a State may submit an application, in such manner and containing such information as the Secretary may require, that shall include a proposal for programs described in paragraph (3)(A) and a plan to make Medicaid beneficiaries and providers participating in Medicaid who reside in the State aware and informed about such programs.
+
+“(b)
+
+Education and Outreach Campaign.—
+
+&emsp;“(1)
+
+State awareness.—The Secretary shall conduct an outreach and education campaign to make States aware of the grants under this section.
+
+&emsp;“(2)
+
+Provider and beneficiary education.—A State awarded a grant to conduct an initiative under this section shall conduct an outreach and education campaign to make Medicaid beneficiaries and providers participating in Medicaid who reside in the State aware of the programs described in subsection (a)(3) that are to be carried out by the State under the grant.
+
+“(c)
+
+Impact.—A State awarded a grant to conduct an initiative under this section shall develop and implement a system to—
+
+&emsp;“(1) track Medicaid beneficiary participation in the program and validate changes in health risk and outcomes with clinical data, including the adoption and maintenance of health behaviors by such beneficiaries;
+
+&emsp;“(2) to the extent practicable, establish standards and health status targets for Medicaid beneficiaries participating in the program and measure the degree to which such standards and targets are met;
+
+&emsp;“(3) evaluate the effectiveness of the program and provide the Secretary with such evaluations;
+
+&emsp;“(4) report to the Secretary on processes that have been developed and lessons learned from the program; and
+
+&emsp;“(5) report on preventive services as part of reporting on quality measures for Medicaid managed care programs.
+
+“(d)
+
+Evaluations and Reports.—
+
+&emsp;“(1)
+
+Independent assessment.—The Secretary shall enter into a contract with an independent entity or organization to conduct an evaluation and assessment of the initiatives carried out by States under this section, for the purpose of determining—
+
+&emsp;&emsp;“(A) the effect of such initiatives on the use of health care services by Medicaid beneficiaries participating in the program;
+
+&emsp;&emsp;“(B) the extent to which special populations (including adults with disabilities, adults with chronic illnesses, and children with special health care needs) are able to participate in the program;
+
+&emsp;&emsp;“(C) the level of satisfaction of Medicaid beneficiaries with respect to the accessibility and quality of health care services provided through the program; and
+
+&emsp;&emsp;“(D) the administrative costs incurred by State agencies that are responsible for administration of the program.
+
+&emsp;“(2)
+
+State reporting.—A State awarded a grant to carry out initiatives under this section shall submit reports to the Secretary, on a semi-annual basis, regarding the programs that are supported by the grant funds. Such report shall include information, as specified by the Secretary, regarding—
+
+&emsp;&emsp;“(A) the specific uses of the grant funds;
+
+&emsp;&emsp;“(B) an assessment of program implementation and lessons learned from the programs;
+
+&emsp;&emsp;“(C) an assessment of quality improvements and clinical outcomes under such programs; and
+
+&emsp;&emsp;“(D) estimates of cost savings resulting from such programs.
+
+&emsp;“(3)
+
+Initial report.—Not later than January 1, 2014, the Secretary shall submit to Congress an initial report on such initiatives based on information provided by States through reports required under paragraph (2). The initial report shall include an interim evaluation of the effectiveness of the initiatives carried out with grants awarded under this section and a recommendation regarding whether funding for expanding or extending the initiatives should be extended beyond January 1, 2016.
+
+&emsp;“(4)
+
+Final report.—Not later than July 1, 2016, the Secretary shall submit to Congress a final report on the program that includes the results of the independent assessment required under paragraph (1), together with recommendations for such legislation and administrative action as the Secretary determines appropriate.
+
+“(e)
+
+No Effect on Eligibility for, or Amount of, Medicaid or Other Benefits.—Any incentives provided to a Medicaid beneficiary participating in a program described in subsection (a)(3) shall not be taken into account for purposes of determining the beneficiary's eligibility for, or amount of, benefits under the Medicaid program or any program funded in whole or in part with Federal funds.
+
+“(f)
+
+Funding.—Out of any funds in the Treasury not otherwise appropriated, there are appropriated for the 5-year period beginning on January 1, 2011, $100,000,000 to the Secretary to carry out this section. Amounts appropriated under this subsection shall remain available until expended.
+
+“(g)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Medicaid beneficiary.—The term ‘Medicaid beneficiary’ means an individual who is eligible for medical assistance under a State plan or waiver under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) and is enrolled in such plan or waiver.
+
+&emsp;“(2)
+
+State.—The term ‘State’ has the meaning given that term for purposes of title XIX of the Social Security Act (42 U.S.C. 1396 et seq.).”
+
+#### Coordination of Expansion of the Recovery Audit Contractor Program; Regulations
+
+Pub. L. 111–148, title VI, §6411(a)(2), Mar. 23, 2010, 124 Stat. 775, provided that:
+
+“(A)
+
+In general.—The Secretary of Health and Human Services, acting through the Administrator of the Centers for Medicare \& Medicaid Services, shall coordinate the expansion of the Recovery Audit Contractor program to Medicaid with States, particularly with respect to each State that enters into a contract with a recovery audit contractor for purposes of the State's Medicaid program prior to December 31, 2010.
+
+“(B)
+
+Regulations.—The Secretary of Health and Human Services shall promulgate regulations to carry out this subsection \[amending this section\] and the amendments made by this subsection, including with respect to conditions of Federal financial participation, as specified by the Secretary.”
+
+#### Annual Report
+
+Pub. L. 111–148, title VI, §6411(c), Mar. 23, 2010, 124 Stat. 775, provided that: “The Secretary of Health and Human Services, acting through the Administrator of the Centers for Medicare \& Medicaid Services, shall submit an annual report to Congress concerning the effectiveness of the Recovery Audit Contractor program under Medicaid and Medicare and shall include \[in\] such reports recommendations for expanding or improving the program.”
+
 #### Purposes of 2009 Amendment
 
 Pub. L. 111–5, div. B, title V, §5000(a), Feb. 17, 2009, 123 Stat. 496, provided that: “The purposes of this title \[enacting section 1320b–24 of this title, amending this section and sections 1396<i>o</i>, 1396<i>o</i>–1, 1396p, 1396r–4, 1396r–6, 1396u–2, 1396u–3, and 1397gg of this title, and enacting provisions set out as notes under this section and sections 1396d and 1396r–6 of this title\] are as follows:
@@ -3232,7 +4116,7 @@ Pub. L. 109–171, title VI, §6063, Feb. 8, 2006, 120 Stat. 99, provided that:
 
 “(a)
 
-In General.—The Secretary is authorized to conduct, during each of fiscal years 2007 through 2011, demonstration projects (each in the section referred to as a ‘demonstration project’) in accordance with thissection under which up to 10 States (as defined for purposes of title XIX of the Social Security Act \[this subchapter\]) are awarded grants, on a competitive basis, to test the effectiveness in improving or maintaining a child's functional level and cost-effectiveness of providing coverage of home and community-based alternatives to psychiatric residential treatment for children enrolled in the Medicaid program under title XIX of such Act.
+In General.—The Secretary is authorized to conduct, during each of fiscal years 2007 through 2011, demonstration projects (each in the section referred to as a ‘demonstration project’) in accordance with this section under which up to 10 States (as defined for purposes of title XIX of the Social Security Act \[this subchapter\]) are awarded grants, on a competitive basis, to test the effectiveness in improving or maintaining a child's functional level and cost-effectiveness of providing coverage of home and community-based alternatives to psychiatric residential treatment for children enrolled in the Medicaid program under title XIX of such Act.
 
 “(b)
 
@@ -3314,11 +4198,11 @@ Fiscal year amounts.—The amount specified in this subparagraph for—
 
 #### Money Follows the Person Rebalancing Demonstration
 
-Pub. L. 109–171, title VI, §6071, Feb. 8, 2006, 120 Stat. 102, provided that:
+Pub. L. 109–171, title VI, §6071, Feb. 8, 2006, 120 Stat. 102, as amended by Pub. L. 111–148, title II, §2403(a), (b)(1), Mar. 23, 2010, 124 Stat. 304, 305, provided that:
 
 “(a)
 
-Program Purpose and Authority.—The Secretary is authorized to award, on a competitive basis, grants to States in accordance with this section for demonstration projects (each in this section referred to as an ‘MFP demonstration project’) designed to achieve the following objectives with respect to institutional and home and community-based long-term care services under State Medicaid programs:
+Program Purpose and Authority.—The Secretary is authorized to award, on a competitive basis, grants to States in accordance with this section fordemonstration projects (each in this section referred to as an ‘MFP demonstration project’) designed to achieve the following objectives with respect to institutional and home and community-based long-term care services under State Medicaid programs:
 
 &emsp;“(1)
 
@@ -3350,13 +4234,15 @@ Eligible individual.—The term ‘eligible individual’ means, with respect to
 
 &emsp;&emsp;“(A) who, immediately before beginning participation in the MFP demonstration project—
 
-&emsp;&emsp;&emsp;“(i) resides (and has resided, for a period of not less than 6 months or for such longer minimumperiod, not to exceed 2 years, as may be specified by the State) in an inpatient facility;
+&emsp;&emsp;&emsp;“(i) resides (and has resided for a period of not less than 90 consecutive days) in an inpatient facility;
 
 &emsp;&emsp;&emsp;“(ii) is receiving Medicaid benefits for inpatient services furnished by such inpatient facility; and
 
 &emsp;&emsp;&emsp;“(iii) with respect to whom a determination has been made that, but for the provision of home and community-based long-term care services, the individual would continue to require the level of care provided in an inpatient facility and, in any case in which the State applies a more stringent level of care standard as a result of implementing the State plan option permitted under section 1915(i) of the Social Security Act \[section 1396n(i) of this title\], the individual must continue to require at least the level of care which had resulted in admission to the institution; and
 
 &emsp;&emsp;“(B) who resides in a qualified residence beginning on the initial date of participation in the demonstration project.
+
+> &emsp;Any days that an individual resides in an institution on the basis of having been admitted solely for purposes of receiving short-term rehabilitative services for a period for which payment for such services is limited under title XVIII \[42 U.S.C. 1395 et seq.\] shall not be taken into account for purposes of determining the 90-day period required under subparagraph (A)(i).
 
 &emsp;“(3)
 
@@ -3412,7 +4298,7 @@ Service plan.—Based on such assessment, there is developed jointly with such i
 
 &emsp;&emsp;&emsp;“(v) includes appropriate risk management techniques that recognize the roles and sharing of responsibilities in obtaining services in a self-directed manner and assure the appropriateness of such plan based upon the resources and capabilities of the individual or the individual's authorized representative; and
 
-&emsp;&emsp;&emsp;“(vi) may include an individualized budget which identifies the dollar value of the services and supports under the control and direction of the individual or the individual's authorized representative.
+&emsp;&emsp;&emsp;“(vi) may include an individualized budget which identifies the dollar value of the servicesand supports under the control and direction of the individual or the individual's authorized representative.
 
 &emsp;&emsp;“(C)
 
@@ -3622,7 +4508,7 @@ Preventing duplication of payment.—The payment under a MFP demonstration proje
 
 &emsp;“(5) MFP-
 
-enhanced fmap.—For purposes of paragraph (1)(A), the ‘MFP-enhanced FMAP’, for a State for a fiscal year, is equal to the Federal medical assistance percentage (as defined in the first sentence of section 1905(b) \[section 1396d(b) of this title\]) for the State increased by a number of percentage points equal to 50 percent of the number of percentage points by which (A) such Federal medical assistance percentage for the State, is less than (B) 100 percent; but in no case shall the MFP-enhanced FMAP for a State exceed 90 percent.
+enhanced fmap.—For purposes of paragraph (1)(A), the ‘MFP-enhanced FMAP’, for a Statefor a fiscal year, is equal to the Federal medical assistance percentage (as defined in the first sentence of section 1905(b) \[section 1396d(b) of this title\]) for the State increased by a number of percentage points equal to 50 percent of the number of percentage points by which (A) such Federal medical assistance percentage for the State, is less than (B) 100 percent; but in no case shall the MFP-enhanced FMAP for a State exceed 90 percent.
 
 “(f)
 
@@ -3654,11 +4540,11 @@ In general.—The Secretary, directly or through grant or contract, shall provid
 
 &emsp;“(2)
 
-Final report.—The Secretary shall make a final report to the President and Congress, not later than September 30, 2011, reflecting the evaluation described in paragraph (1) and providing findings and conclusions on the conduct and effectiveness of MFP demonstration projects.
+Final report.—The Secretary shall make a final report to the President and Congress, not later than September 30, 2016, reflecting the evaluation described in paragraph (1) and providing findings and conclusions on the conduct and effectiveness of MFP demonstration projects.
 
 &emsp;“(3)
 
-Funding.—From the amounts appropriated under subsection (h)(1) for each of fiscal years 2008 through 2011, not more than $1,100,000 per year shall be available to the Secretary to carry out this subsection.
+Funding.—From the amounts appropriated under subsection (h)(1) for each of fiscal years 2008 through 2016, not more than $1,100,000 per year shall be available to the Secretary to carry out this subsection.
 
 “(h)
 
@@ -3676,11 +4562,13 @@ In general.—There are appropriated, from any funds in the Treasury not otherwi
 
 &emsp;&emsp;“(D) $400,000,000 for fiscal year 2010; and
 
-&emsp;&emsp;“(E) $450,000,000 for fiscal year 2011.
+&emsp;&emsp;“(E) $450,000,000 for each of fiscal years 2011 through 2016.
 
 &emsp;“(2)
 
-Availability.—Amounts made available under paragraph (1) for a fiscal year shall remain available for the awarding of grants to States by not later than September 30, 2011.”
+Availability.—Amounts made available under paragraph (1) for a fiscal year shall remain available for the awarding of grants to States by not later than September 30, 2016.”
+
+\[Pub. L. 111–148, title II, §2403(b)(2), Mar. 23, 2010, 124 Stat. 305, provided that: “The amendments made by this subsection \[amending section 6071 of Pub. L. 109–171, set out above\] take effect 30 days after the date of enactment of this Act \[Mar. 23, 2010\].”\]
 
 #### Study Regarding Barriers to Participation of Farmworkers in Health Programs
 
@@ -3786,7 +4674,7 @@ Pub. L. 106–554, §1(a)(6) \[title VII, §702(d)\], Dec. 21, 2000, 114 Stat. 2
 
 #### GAO Reports
 
-Pub. L. 106–170, title II, §201(c), Dec. 17, 1999, 113 Stat. 1893, provided that: “Not later than 3 years after the date of the enactment of this Act \[Dec. 17, 1999\], the Comptroller General of the United States shall submit a report to the Congress regarding the amendmentsmade by this section \[amending this section and sections 1396b, 1396d, and 1396<i>o</i> of this title\] that examines—
+Pub. L. 106–170, title II, §201(c), Dec. 17, 1999, 113 Stat. 1893, provided that: “Not later than 3 years after the date of the enactment of this Act \[Dec. 17, 1999\], the Comptroller General of the United States shall submit a report to the Congress regarding the amendments made by this section \[amending this section and sections 1396b, 1396d, and 1396<i>o</i> of this title\] that examines—
 
 &emsp;“(1) the extent to which higher health care costs for individuals with disabilities at higher income levels deter employment or progress in employment;
 
@@ -3844,7 +4732,7 @@ Approval of Demonstration Projects.—
 
 &emsp;“(1)
 
-In general.—Subject to paragraph (3), the Secretary shall approve applications under subsection (a) that meet the requirements of paragraph (2) and such additional terms and conditions as the Secretary may require. The Secretary may waive the requirement of section 1902(a)(1) of the Social Security Act (42 U.S.C. 1396a(a)(1)) to allow for sub-State demonstrations.
+In general.—Subject to paragraph (3), the Secretary shall approve applications under subsection (a) that meet the requirements of paragraph (2) and suchadditional terms and conditions as the Secretary may require. The Secretary may waive the requirement of section 1902(a)(1) of the Social Security Act (42 U.S.C. 1396a(a)(1)) to allow for sub-State demonstrations.
 
 &emsp;“(2)
 
@@ -3898,7 +4786,7 @@ Funds not allocated to States.—Funds not allocated to States in the fiscal yea
 
 &emsp;&emsp;“(E)
 
-Payments to States.—The Secretary shall pay to each State with a demonstration project approved under this section, from its allocation under subparagraph (C), an amount for each quarter equal to the Federal medical assistance percentage (asdefined in section 1905(b) of the Social Security Act (42 U.S.C. 1395d(b) \[42 U.S.C. 1396d(b)\]) of expenditures in the quarter for medical assistance provided to workers with a potentially severe disability.
+Payments to States.—The Secretary shall pay to each State with a demonstration project approved under this section, from its allocation under subparagraph (C), an amount for each quarter equal to the Federal medical assistance percentage (as defined in section 1905(b) of the Social Security Act (42 U.S.C. 1395d(b) \[42 U.S.C. 1396d(b)\]) of expenditures in the quarter for medical assistance provided to workers with a potentially severe disability.
 
 “(d)
 
@@ -4188,7 +5076,7 @@ Effective date.—Paragraph (1) shall apply with respect to issuance of an ident
 
 #### Exclusions in Determination of Income and Resources Under This Subchapter
 
-Section 11115(c) of Pub. L. 101–508 provided that: “Pursuant to section 1902(a)(17) of the Social Security Act (42 U.S.C. 1396a(a)(17)), the Secretary of Health and Human Services shall promulgate regulations to exempt from any determination of income and resources (for the month of receipt and the following month) under title XIX of the Social Security Act \[this subchapter\] any refund of Federal income taxes made to an individual by reason of section 32 of the Internal Revenue Code of 1986 \[26 U.S.C. 32\] (relating to earned income tax credit), and any payment made to an individual by an employer under section 3507 of such Code \[26 U.S.C. 3507\] (relating to advance payment of earned income credit).”
+Section 11115(c) of Pub. L. 101–508 provided that: “Pursuant to section 1902(a)(17) of the Social Security Act (42 U.S.C. 1396a(a)(17)), the Secretary of Health and Human Services shall promulgate regulations to exempt from any determination of income and resources (for the month of receipt and the following month) under title XIX of the Social Security Act \[this subchapter\] any refund of Federal income taxes made to an individual by reason of section 32 of the Internal Revenue Code of 1986 \[26 U.S.C. 32\] (relating to earned income tax credit), and any payment made to an individual by an employer under \[former\] section 3507 of such Code \[26 U.S.C. 3507\] (relating to advance payment of earned income credit).”
 
 #### Development of Model Applications for Medicaid Program
 
@@ -4284,7 +5172,7 @@ Study.—
 
 &emsp;“(4) The study shall be coordinated, to the extent practicable, with the research program established pursuant to section 1875(c) of the Social Security Act \[section 1395<i>ll</i>(c) of this title\], with particular regard to the relationship of the variations described in paragraph (2) to patient outcomes.
 
-&emsp;“(5) The Secretary shall submit an interim report on the results of the study, including an analysis of the geographic variations under paragraph (2), to the Congress not later than January 1, 1990, and shall report the final results of the study to the Congress not later than January 1, 1992.
+&emsp;“(5) The Secretary shall submit an interim report on the results of the study, including an analysis of the geographic variations under paragraph (2), to theCongress not later than January 1, 1990, and shall report the final results of the study to the Congress not later than January 1, 1992.
 
 “(d)
 
@@ -4360,7 +5248,7 @@ Section 310(b)(1) of Pub. L. 96–272 provided that:
 
 “(A) For purposes of section 1902(a)(10)(A) of the Social Security Act \[subsec. (a)(10)(A) of this section\], any individual who, prior to the date of enactment of this Act \[June 17, 1980\] and for the month of December 1978, was eligible for and received aid or assistance under a State plan approved under title I, X, XIV, or XVI, or part A of title IV of such Act \[subchapter I, X, XIV, or XVI, or part A of subchapter IV of this chapter\], or was eligible for and received supplemental security income benefits under title XVI of such Act \[subchapter XVI of this chapter\] (or a supplementary payment described in section 13(c) of Public Law 93–233) \[set out as a note under this section\], and was also in receipt of (or was a dependent, for purposes of chapter 15 of title 38, United States Code, as in effect on December 31, 1978, of an individual in receipt of) pension from the Veterans’ Administration for the month of December 1978 shall (subject to subparagraph (B)) be deemed to have been receiving such aid, assistance, supplemental security income, or supplementary payment, for each calendar month thereafter (prior to the month in which the provisions of this subparagraph cease to be effective with respect to him as determined under subparagraph (B)), if such individual would have been eligible therefor in December 1978 and in the month in which the provisions of this subparagraph cease to be effective with respect to him as determined under subparagraph (B) had the increase in income of such individual (or of the family of which such individual is a member), attributable to an election (made by such individual or another member of such individual's family) under section 306 of the Veterans’ and Survivors’ Pension Improvement Act of 1978 \[section 306 of Pub. L. 95–588, set out as a note under section 521 of Title 38, Veterans’ Benefits\], not occurred.
 
-“(B)(i) The provisions of subparagraph (A) shall take effect on January 1, 1979, and shall cease to be effective, in the case of any individual, for and after the first calendar month beginning more than 10 days after an ‘informed election’ (as defined in subdivision (ii) of this subparagraph) has been made by such individual (or, ifsuch individual is not eligible to make such an election, by a member of such individual's family who is eligible to make such an election which affects such individual's eligibility for aid, assistance, or benefits under a plan or program referred to in subparagraph (A)).
+“(B)(i) The provisions of subparagraph (A) shall take effect on January 1, 1979, and shall cease to be effective, in the case of any individual, for and after the first calendar month beginning more than 10 days after an ‘informed election’ (as defined in subdivision (ii) of this subparagraph) has been made by such individual (or, if such individual is not eligible to make such an election, by a member of such individual's family who is eligible to make such an election which affects such individual's eligibility for aid, assistance, or benefits under a plan or program referred to in subparagraph (A)).
 
 “(ii) The term ‘informed election’ means an election made under section 306 of the Veterans’ and Survivors’ Pension Improvement Act of 1978 \[section 306 of Pub. L. 95–588, set out as a note under section 521 of Title 38\] (or a reaffirmation of such an election which previously was made under such section 306) after the date of compliance by the Administrator of Veterans’ Affairs (hereinafter in this section referred to as the ‘Administrator’) with the provisions of paragraph (2)(A) with respect to the individual concerned. An individual who fails, within the time limits prescribed in paragraph (2)(B), to disaffirm an election previously made by such individual under such section 306 shall be deemed, for purposes of this section and such section 306, to have reaffirmed such election.”
 
@@ -4420,7 +5308,7 @@ Section 234(c) of Pub. L. 90–248 provided that: “Notwithstanding any other p
 
 #### District of Columbia; Plan for Medical Assistance
 
-Pub. L. 90–227, §1, Dec. 27, 1967, 81 Stat. 744, provided: “That (a) the Commissioner of the District of Columbia \[now Mayor\] (hereafter in this Act \[enacting this note and provisions set out as a note under section 1395v of this title\] referred to as the ‘Commissioner’) may submit under title XIX of the Social Security Act \[this subchapter\] to the Secretary of Health, Education, and Welfare \[now Health and Human Services\] (hereafter in this Act referred to as the ‘Secretary’) a plan for medical assistance (and any modifications of such plan) to enable the District of Columbia to receive Federal financial assistance under such title for a medical assistance program established by the Commissioner under such plan.
+Pub. L. 90–227, §1, Dec. 27, 1967, 81 Stat. 744, provided: “That (a) the Commissioner of the District of Columbia \[now Mayor\] (hereafter in this Act \[enacting this noteand provisions set out as a note under section 1395v of this title\] referred to as the ‘Commissioner’) may submit under title XIX of the Social Security Act \[this subchapter\] to the Secretary of Health, Education, and Welfare \[now Health and Human Services\] (hereafter in this Act referred to as the ‘Secretary’) a plan for medical assistance (and any modifications of such plan) to enable the District of Columbia to receive Federal financial assistance under such title for a medical assistance program established by the Commissioner under such plan.
 
 “(b)(1) Notwithstanding any other provision of law, the Commissioner may take such action as may be necessary to submit such plan to the Secretary and to establish and carry out such medical assistance program, except that in prescribing the standards for determining eligibility for and the extent of medical assistance under the District of Columbia's plan for medical assistance, the Commissioner may not (except to the extent required by title XIX of the Social Security Act \[this subchapter\])—
 
@@ -4448,23 +5336,31 @@ Pub. L. 90–227, §1, Dec. 27, 1967, 81 Stat. 744, provided: “That (a) the Co
 
 <i><sup>6</sup></i><i> So in original.</i>
 
-<i><sup>7</sup></i><i> Probably means the subsec. (e) of section 1397hh relating to information on dental care for children.</i>
+<i><sup>7</sup></i><i> So in original. Probably should be “Investigation,”.</i>
 
-<i><sup>8</sup></i><i> So in original. Probably should be section “1396d(l)(2)(B)”.</i>
+<i><sup>8</sup></i><i> Probably means the subsec. (e) of section 1397hh relating to information on dental care for children.</i>
 
-<i><sup>9</sup></i><i> So in original. Probably should be “subparagraph (A)(i)(V),”.</i>
+<i><sup>9</sup></i><i> So in original. Probably should be section “1396d(l)(2)(B)”.</i>
 
-<i><sup>10</sup></i><i> So in original. The closing parenthesis probably should not appear.</i>
+<i><sup>10</sup></i><i> So in original. There is no par. (78).</i>
 
-<i><sup>11</sup></i><i> So in original. Probably should be “an”.</i>
+<i><sup>11</sup></i><i> So in original. Probably should be “subparagraph (A)(i)(V),”.</i>
 
-<i><sup>12</sup></i><i> So in original. Probably should be “this subsection”.</i>
+<i><sup>12</sup></i><i> So in original. The closing parenthesis probably should not appear.</i>
 
-<i><sup>13</sup></i><i> So in original. Probably should be subsection “(a)(56)”.</i>
+<i><sup>13</sup></i><i> So in original. Probably should be “an”.</i>
 
-<i><sup>14</sup></i><i> So in original. Probably should be section “1396o(i)”.</i>
+<i><sup>14</sup></i><i> So in original. Another closing parenthesis probably should precede the comma.</i>
 
-<i><sup>15</sup></i><i> So in original. Probably should be “agency”.</i>
+<i><sup>15</sup></i><i> So in original. Probably should be “this subsection”.</i>
 
-<i><sup>16</sup></i><i> So in original. Probably should be followed by “a”.</i>
+<i><sup>16</sup></i><i> So in original. Probably should be subsection “(a)(56)”.</i>
+
+<i><sup>17</sup></i><i> So in original. Probably should be section “1396o(i)”.</i>
+
+<i><sup>18</sup></i><i> So in original. Probably should be “agency”.</i>
+
+<i><sup>19</sup></i><i> So in original. Probably should be followed by “a”.</i>
+
+<i><sup>20</sup></i><i> So in original. The word “section” probably should not appear.</i>
 

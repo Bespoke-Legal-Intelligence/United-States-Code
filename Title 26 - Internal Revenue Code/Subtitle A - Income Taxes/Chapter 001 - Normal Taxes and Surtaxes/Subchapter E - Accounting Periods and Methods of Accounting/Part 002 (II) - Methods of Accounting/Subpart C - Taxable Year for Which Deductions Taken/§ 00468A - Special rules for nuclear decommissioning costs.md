@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (2) Ruling amount
 
-&emsp;The term “ruling amount” means, with respect to any taxable year, the amount which the Secretary determines under paragraph (1) to be necessary to—
+&emsp;The term “ruling amount” means, with respect to any taxable year, the amount whichthe Secretary determines under paragraph (1) to be necessary to—
 
 &emsp;&emsp;(A) fund the total nuclear decommissioning costs with respect to such power plant over the estimated useful life of such power plant, and
 
@@ -156,7 +156,7 @@ The date of the enactment of this subsection, referred to in subsec. (f)(1), is 
 
 #### Amendments
 
-2005—Subsec. (b). Pub. L. 109–58, §1310(a), reenacted heading without change and amended text of subsec. (b) generally. Prior to amendment, text read as follows: “The amount which a taxpayer may pay into the Fund for any taxable year shall not exceed the lesser of—
+<b>2005</b>—Subsec. (b). Pub. L. 109–58, §1310(a), reenacted heading without change and amended text of subsec. (b) generally. Prior to amendment, text read as follows: “The amount which a taxpayer may pay into the Fund for any taxable year shall not exceed the lesser of—
 
 &emsp;“(1) the amount of nuclear decommissioning costs allocable to the Fund which is included in the taxpayer's cost of service for ratemaking purposes for such taxable year, or
 
@@ -178,15 +178,15 @@ Subsec. (e)(3). Pub. L. 109–58, §1310(d), substituted “Except as provided i
 
 Subsecs. (f) to (h). Pub. L. 109–58, §1310(b)(1), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-1996—Subsec. (e)(2)(A). Pub. L. 104–188 provided that the amendment made by section 1917(b)(1) of Pub. L. 102–486 shall be applied as if “at a rate” appeared instead of “at the rate” in the material proposed to be stricken. See 1992 Amendment note below.
+<b>1996</b>—Subsec. (e)(2)(A). Pub. L. 104–188 provided that the amendment made by section 1917(b)(1) of Pub. L. 102–486 shall be applied as if “at a rate” appeared instead of “at the rate” in the material proposed to be stricken. See 1992 Amendment note below.
 
-1992—Subsec. (e)(2)(A). Pub. L. 102–486, §1917(b)(1), which directed that subpar. (A) be amended by striking “at the rate equal to the highest rate of tax specified in section 11(b)” and inserting “at the rate set forth in subparagraph (B)”, was executed by making the substitution for “at a rate equal to the highest rate of tax specified in section 11(b)”. See 1996 Amendment note above.
+<b>1992</b>—Subsec. (e)(2)(A). Pub. L. 102–486, §1917(b)(1), which directed that subpar. (A) be amended by striking “at the rate equal to the highest rate of tax specified in section 11(b)” and inserting “at the rate set forth in subparagraph (B)”, was executed by making the substitution for “at a rate equal to the highest rate of tax specified in section 11(b)”. See 1996 Amendment note above.
 
 Subsec. (e)(2)(B) to (D). Pub. L. 102–486, §1917(b)(2), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
 Subsec. (e)(4)(C). Pub. L. 102–486, §1917(a), struck out before period at end “described in section 501(c)(21)(B)(ii)”.
 
-1986—Subsec. (a). Pub. L. 99–514, §1807(a)(4)(E)(i), substituted “this section” for “this subsection”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1807(a)(4)(E)(i), substituted “this section” for “this subsection”.
 
 Subsec. (c)(1)(A). Pub. L. 99–514, §1807(a)(4)(B), substituted “subsection (e)(4)(B)” for “subsection (e)(2)(B)”.
 
@@ -198,7 +198,7 @@ Subsec. (e)(1). Pub. L. 99–514, §1807(a)(4)(E)(iv), substituted “this secti
 
 Subsec. (e)(2). Pub. L. 99–514, §1807(a)(4)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There is imposed on the gross income of the Fund for any taxable year a tax at a rate equal to the maximum rate in effect under section 11(b), except that—
 
-&emsp;“(A) there shall not be included in the gross income of the Fund any payment to the Fund with respect towhich a deduction is allowable under subsection (a), and
+&emsp;“(A) there shall not be included in the gross income of the Fund any payment to the Fund with respect to which a deduction is allowable under subsection (a), and
 
 &emsp;“(B) there shall be allowed as a deduction any amount paid by the Fund described in paragraph (4)(B) (other than to the taxpayer).”
 

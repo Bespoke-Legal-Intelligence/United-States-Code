@@ -14,7 +14,7 @@
 
 #### Amendments
 
-1989—Pub. L. 101–189, div. A, title XIII, §1304(a)(2), Nov. 29, 1989, 103 Stat. 1576, added item 806a.
+<b>1989</b>—Pub. L. 101–189, div. A, title XIII, §1304(a)(2), Nov. 29, 1989, 103 Stat. 1576, added item 806a.
 
 
 ---

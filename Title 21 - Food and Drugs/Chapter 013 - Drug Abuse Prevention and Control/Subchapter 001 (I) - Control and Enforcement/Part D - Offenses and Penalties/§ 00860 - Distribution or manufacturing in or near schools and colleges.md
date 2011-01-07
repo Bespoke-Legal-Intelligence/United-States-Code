@@ -6,7 +6,7 @@ Any person who violates section 841(a)(1) of this title or section 856 of this t
 
 #### (b) Second offenders
 
-Any person who violates section 841(a)(1) of this title or section 856 of this title by distributing, possessing with intent to distribute, or manufacturing a controlled substance in or on, or within one thousand feet of, the real property comprising a public or private elementary, vocational, or secondary school or a public or private college, junior college, or university, or a playground, or housing facility owned by a public housing authority, or within 100 feet of a public or private youth center, public swimming pool, or video arcade facility, after a prior conviction under subsection (a) of this section has become final is punishable (1) by the greater of (A) a term of imprisonment of not less than three years and not more than life imprisonment or (B) three times the maximum punishment authorized by section 841(b) of this title for a first offense, and (2) at least three times any term of supervised release authorized by section 841(b) of this title for a first offense. A fine up to three times that authorized by section 841(b) of this title may be imposed in addition to any term of imprisonment authorized by this subsection. Except to the extent a greater minimum sentence is otherwise provided by section 841(b) of this title, a person shall be sentenced under this subsection to a term of imprisonment of not less than three years. Penalties for third and subsequent convictions shall be governed by section 841(b)(1)(A) of this title.
+Any person who violates section 841(a)(1) of this title or section 856 of this title by distributing, possessing with intent to distribute, or manufacturing a controlled substance in or on, or within one thousand feet of, the real property comprising a public or private elementary, vocational, or secondary school or a public or private college, junior college, or university, or a playground, or housing facility owned by a public housing authority, or within 100 feet of a public or private youth center, public swimming pool, or video arcade facility, after a prior conviction under subsection (a) of this section has become final is punishable (1) by the greater of (A) a term of imprisonment of not less than three years and not more than life imprisonment or (B) three times the maximum punishment authorized by section 841(b) of this title for a first offense, and (2) at least three times any term of supervised release authorized by section 841(b) of this title for a first offense. A fine up to threetimes that authorized by section 841(b) of this title may be imposed in addition to any term of imprisonment authorized by this subsection. Except to the extent a greater minimum sentence is otherwise provided by section 841(b) of this title, a person shall be sentenced under this subsection to a term of imprisonment of not less than three years. Penalties for third and subsequent convictions shall be governed by section 841(b)(1)(A) of this title.
 
 #### (c) Employing children to distribute drugs near schools or playgrounds
 
@@ -26,7 +26,7 @@ In the case of any mandatory minimum sentence imposed under this section, imposi
 
 For the purposes of this section—
 
-&emsp;(1) The term “playground” means any outdoor facility (including any parking lot appurtenant thereto) intended for recreation, opento the public, and with any portion thereof containing three or more separate apparatus intended for the recreation of children including, but not limited to, sliding boards, swingsets, and teeterboards.
+&emsp;(1) The term “playground” means any outdoor facility (including any parking lot appurtenant thereto) intended for recreation, open to the public, and with any portion thereof containing three or more separate apparatus intended for the recreation of children including, but not limited to, sliding boards, swingsets, and teeterboards.
 
 &emsp;(2) The term “youth center” means any recreational facility and/or gymnasium (including any parking lot appurtenant thereto), intended primarily for use by persons under 18 years of age, which regularly provides athletic, civic, or cultural activities.
 
@@ -42,13 +42,13 @@ Section was classified to section 845a of this title prior to renumbering by Pub
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–322, §320107, substituted “playground, or housing facility owned by a public housing authority, or within” for “playground, or within”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §320107, substituted “playground, or housing facility owned by a public housing authority, or within” for “playground, or within”.
 
 Subsec. (b). Pub. L. 103–322, §§320107, 330009(a), substituted “playground, or housing facility owned by a public housing authority, or within” for “playground, or within” and inserted a period at end of penultimate sentence.
 
 Subsecs. (c) to (e). Pub. L. 103–322, §140006, added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-1990—Subsec. (a). Pub. L. 101–647, §1502(1), inserted “or a playground,” after “university,” and struck out “playground,” after “within 100 feet of a”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–647, §1502(1), inserted “or a playground,” after “university,” and struck out “playground,” after “within 100 feet of a”.
 
 Pub. L. 101–647, §1214(1)(C), substituted “a person shall be sentenced under this subsection to a term of imprisonment of not less than one year” for “a term of imprisonment under this subsection shall be not less than one year”.
 
@@ -68,15 +68,15 @@ Subsec. (b)(1)(B). Pub. L. 101–647, §1214(2)(A), which directed the amendment
 
 Pub. L. 101–647, §1003(b)(2), substituted “three times the maximum punishment authorized by section 841(b) of this title for a first offense” for “a term of imprisonment of up to three times that authorized by section 841(b) of this title for a first offense, or a fine up to three times that authorized by section 841(b) of this title for a first offense, or both”.
 
-Subsec. (c). Pub. L. 101–647, §1214(3), inserted “mandatory minimum” after “In the case of any”, struck out “subsection (b) of” after “imposed under”, and substituted “An individual convicted under this section shall not be eligible for parole until the individual has served the mandatory minimum term of imprisonment as provided by this section” for “An individual convicted under subsection (b) of this section shall not be eligible for parole under chapter 311 of title 18 until the individual has served the minimum sentence required by such subsection”.
+Subsec. (c). Pub. L. 101–647, §1214(3), inserted “mandatory minimum” after “In the case of any”, struck out“subsection (b) of” after “imposed under”, and substituted “An individual convicted under this section shall not be eligible for parole until the individual has served the mandatory minimum term of imprisonment as provided by this section” for “An individual convicted under subsection (b) of this section shall not be eligible for parole under chapter 311 of title 18 until the individual has served the minimum sentence required by such subsection”.
 
-1988—Subsec. (a). Pub. L. 100–690, §§6457, 6458(a), inserted “, possessing with intent to distribute,” after “distributing” and “, or within 100 feet of a playground, public or private youth center, public swimming pool, or video arcade facility,” after “university”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–690, §§6457, 6458(a), inserted “, possessing with intent to distribute,” after “distributing” and “, or within 100 feet of a playground, public or private youth center, public swimming pool, or video arcade facility,” after “university”.
 
 Subsec. (b). Pub. L. 100–690, §§6452(b)(1), 6457, 6458(a), inserted “, possessing with intent to distribute,” after “distributing”, and “, or within 100 feet of a playground, public or private youth center, public swimming pool, or video arcade facility,” after “university”, substituted “a prior conviction” for “a prior conviction or convictions”, and inserted at end “Penalties for third and subsequent convictions shall be governed by section 841(b)(1)(A) of this title.”
 
 Subsec. (d). Pub. L. 100–690, §6458(b), added subsec. (d).
 
-1986—Subsec. (a). Pub. L. 99–570, §§1104(a), (b), 1105(c), 1841(b)(1), inserted “or section 856 of this title” and “or manufacturing”, substituted “a public or private elementary, vocational, or secondary school or a public or private college, junior college, or university” for “a public or private elementary or secondary school”, struck out “involving the same controlled substance and schedule” after “for a first offense”, and inserted “Except to the extent a greater minimum sentence is otherwise provided by section 841(b) of this title, a term of imprisonment under this subsection shall be not less than one year. The mandatory minimum sentencing provisions of this paragraph shall not apply to offenses involving 5 grams or less of marihuana.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–570, §§1104(a), (b), 1105(c), 1841(b)(1), inserted “or section 856 of this title” and “or manufacturing”, substituted “a public or private elementary, vocational, or secondary school or a public or private college, junior college, or university” for “a public or private elementary or secondary school”, struck out “involving the same controlled substance and schedule” after “for a first offense”, and inserted “Except to the extent a greater minimum sentence is otherwise provided by section 841(b) of this title, a term of imprisonment under this subsection shall be not less than one year. The mandatory minimum sentencing provisions of this paragraph shall not apply to offenses involving 5 grams or less of marihuana.”
 
 Pub. L. 99–570, §1004(a), substituted “term of supervised release” for “special parole term”.
 

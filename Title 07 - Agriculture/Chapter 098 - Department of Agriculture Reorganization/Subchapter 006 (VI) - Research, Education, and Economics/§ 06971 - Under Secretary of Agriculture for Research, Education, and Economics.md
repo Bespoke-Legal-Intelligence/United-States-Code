@@ -356,8 +356,6 @@ The Under Secretary shall—
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (e)(3)(A)(i)(I), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 The date of enactment of this paragraph and the date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsecs. (e)(3)(A)(ii), (4)(A), and (f)(1)(C), (D), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 This Act, referred to in subsec. (e)(3)(E), is Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3178, known as the Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
@@ -374,7 +372,7 @@ The Renewable Resources Extension Act of 1978, referred to in subsec. (f)(1)(C)(
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
-Section is comprised of section 251 of Pub. L. 103–354. Subsec. (g), formerly (e), of section 251 of Pub. L. 103–354, as redesignated by Pub. L. 110–246, §7511(a)(3),amended section 5314 of Title 5, Government Organization and Employees.
+Section is comprised of section 251 of Pub. L. 103–354. Subsec. (g), formerly (e), of section 251 of Pub. L. 103–354, as redesignated by Pub. L. 110–246, §7511(a)(3), amended section 5314 of Title 5, Government Organization and Employees.
 
 #### Amendments
 

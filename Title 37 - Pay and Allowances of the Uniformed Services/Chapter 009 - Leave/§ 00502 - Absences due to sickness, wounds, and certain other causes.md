@@ -48,13 +48,13 @@ In subsection (b), the words “Except as provided in subsection (a) of this sec
 
 #### Amendments
 
-1991—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
-1986—Subsec. (b). Pub. L. 99–661 inserted “and section 701(h) of title 10”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–661 inserted “and section 701(h) of title 10”.
 
-1980—Subsec. (a). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
-1966—Subsec. (a). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
 
 #### Effective Date of 1980 Amendment
 

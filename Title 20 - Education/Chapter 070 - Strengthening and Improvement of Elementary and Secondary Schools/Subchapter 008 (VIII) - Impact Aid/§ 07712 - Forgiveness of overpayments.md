@@ -10,5 +10,5 @@ Notwithstanding any other provision of law, the Secretary may forgive the obliga
 
 #### Amendments
 
-2000—Pub. L. 106–398 substituted “under this subchapter's predecessor authorities” for “under the Act of September 30, 1950 (Public Law 874, 81st Congress) or the Act of September 23, 1950 (Public Law 815, 81st Congress) (as such Acts were in effect on the day preceding October 20, 1994)” in introductory provisions.
+<b>2000</b>—Pub. L. 106–398 substituted “under this subchapter's predecessor authorities” for “under the Act of September 30, 1950 (Public Law 874, 81st Congress) or the Act of September 23, 1950 (Public Law 815, 81st Congress) (as such Acts were in effect on the day preceding October 20, 1994)” in introductory provisions.
 

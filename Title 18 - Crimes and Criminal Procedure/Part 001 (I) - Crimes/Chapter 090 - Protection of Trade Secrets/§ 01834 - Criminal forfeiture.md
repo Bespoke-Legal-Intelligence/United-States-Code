@@ -6,5 +6,5 @@ Forfeiture, destruction, and restitution relating to this chapter shall be subje
 
 #### Amendments
 
-2008—Pub. L. 110–403 amended section generally. Prior to amendment, section related to forfeiture of property either derived from or used to commit a violation of this chapter.
+<b>2008</b>—Pub. L. 110–403 amended section generally. Prior to amendment, section related to forfeiture of property either derived from or used to commit a violation of this chapter.
 

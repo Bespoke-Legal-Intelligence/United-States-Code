@@ -108,3 +108,5 @@ There are authorized to carry out this section.<sup>1</sup>
 
 For short title of this subchapter as the “Motor Vehicle Theft Prevention Act”, see section 220001 of Pub. L. 103–322, set out as a note under section 13701 of this title.
 
+<i><sup>1</sup></i><i> So in original. The period probably should be a dash.</i>
+

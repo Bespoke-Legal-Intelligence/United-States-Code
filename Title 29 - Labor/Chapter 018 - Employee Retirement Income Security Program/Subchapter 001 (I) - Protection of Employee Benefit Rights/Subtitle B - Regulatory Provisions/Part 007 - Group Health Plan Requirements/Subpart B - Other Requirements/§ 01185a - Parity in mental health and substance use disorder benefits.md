@@ -34,7 +34,7 @@
 
 &emsp;&emsp;If the plan or coverage includes an annual limit on substantially all medical and surgical benefits (in this paragraph referred to as the “applicable annual limit”), the plan or coverage shall either—
 
-&emsp;&emsp;&emsp;(i) apply the applicable annual limit both to medical and surgical benefits to which it otherwise would apply and to mental health and substance use disorder benefits and not distinguish in the application of such limit between such medical and surgical benefits and mental health and substance use disorder benefits; or
+&emsp;&emsp;&emsp;(i) apply the applicable annual limit both to medical and surgical benefits to which it otherwise would apply and to mental health and substance use disorder benefits and not distinguish in the application of such limit between such medicaland surgical benefits and mental health and substance use disorder benefits; or
 
 &emsp;&emsp;&emsp;(ii) not include any annual limit on mental health or substance use disorder benefits that is less than the applicable annual limit.
 
@@ -94,7 +94,7 @@ Nothing in this section shall be construed—
 
 #### (B) Small employer
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “small employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 2 (or 1 in the case of an employer residing in a State that permits small groups to include a single individual) but not more than 50 employees on business days during the preceding calendar year.
+&emsp;&emsp;For purposes of subparagraph (A), the term “small employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 2 (or 1 in the case of an employer residing in a State that permits small groups to include a single individual) but not more than 50 employees onbusiness days during the preceding calendar year.
 
 #### (C) Application of certain rules in determination of employer size
 
@@ -160,7 +160,7 @@ Nothing in this section shall be construed—
 
 #### (F) Audits by appropriate agencies
 
-&emsp;&emsp;To determine compliance with this paragraph, the Secretary may audit the books and records of a group health plan or health insurance issuer relating to an exemption, including any actuarial reports prepared pursuant to subparagraph (C), during the 6 year period following the notification of such exemption under subparagraph (E). A State agency receiving a notification under subparagraph (E) may also conduct such an audit with respect to an exemption covered by such notification.
+&emsp;&emsp;To determine compliance with this paragraph, the Secretary may audit the books and records of a group health plan or health insurance issuer relating to an exemption, including any actuarial reports preparedpursuant to subparagraph (C), during the 6 year period following the notification of such exemption under subparagraph (E). A State agency receiving a notification under subparagraph (E) may also conduct such an audit with respect to an exemption covered by such notification.
 
 #### (d) Separate application to each option offered
 
@@ -192,7 +192,7 @@ For purposes of this section—
 
 #### (f) Secretary report
 
-The Secretary shall, by January 1, 2012, and every two years thereafter, submit to the appropriate committees of Congress a report on compliance of group health plans (and health insurance coverage offered in connection with suchplans) with the requirements of this section. Such report shall include the results of any surveys or audits on compliance of group health plans (and health insurance coverage offered in connection with such plans) with such requirements and an analysis of the reasons for any failures to comply.
+The Secretary shall, by January 1, 2012, and every two years thereafter, submit to the appropriate committees of Congress a report on compliance of group health plans (and health insurance coverage offered in connection with such plans) with the requirements of this section. Such report shall include the results of any surveys or audits on compliance of group health plans (and health insurance coverage offered in connection with such plans) with such requirements and an analysis of the reasons for any failures to comply.
 
 #### (g) Notice and assistance
 
@@ -202,7 +202,7 @@ The Secretary, in cooperation with the Secretaries of Health and Human Services 
 
 #### Amendments
 
-2008—Pub. L. 110–343, §512(g)(1)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Parity in application of certain limits to mental health benefits”.
+<b>2008</b>—Pub. L. 110–343, §512(g)(1)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Parity in application of certain limits to mental health benefits”.
 
 Subsec. (a)(1), (2). Pub. L. 110–343, §512(a)(8), substituted “mental health or substance use disorder benefits” for “mental health benefits” wherever appearing in pars. (1)(introductory provisions), (A), and (B)(ii) and (2)(introductory provisions), (A), and (B)(ii).
 
@@ -238,21 +238,21 @@ Pub. L. 110–245 substituted “services furnished—” for “services furnis
 
 Subsec. (g). Pub. L. 110–343, §512(a)(6), added subsec. (g).
 
-2006—Subsec. (f). Pub. L. 109–432 substituted “2007” for “2006”.
+<b>2006</b>—Subsec. (f). Pub. L. 109–432 substituted “2007” for “2006”.
 
-2005—Subsec. (f). Pub. L. 109–151 substituted “December 31, 2006” for “December 31, 2005”.
+<b>2005</b>—Subsec. (f). Pub. L. 109–151 substituted “December 31, 2006” for “December 31, 2005”.
 
-2004—Subsec. (f). Pub. L. 108–311 substituted “after December 31, 2005” for “on or after December 31, 2004”.
+<b>2004</b>—Subsec. (f). Pub. L. 108–311 substituted “after December 31, 2005” for “on or after December 31, 2004”.
 
-2003—Subsec. (f). Pub. L. 108–197 substituted “December 31, 2004” for “December 31, 2003”.
+<b>2003</b>—Subsec. (f). Pub. L. 108–197 substituted “December 31, 2004” for “December 31, 2003”.
 
-2002—Subsec. (f). Pub. L. 107–313 substituted “December 31, 2003” for “December 31, 2002”.
+<b>2002</b>—Subsec. (f). Pub. L. 107–313 substituted “December 31, 2003” for “December 31, 2002”.
 
 Pub. L. 107–116 substituted “December 31, 2002” for “September 30, 2001”.
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–343 applicable with respect to group health plans for plan years beginning after the date that is 1 year after Oct. 3, 2008, except that amendment by section 512(a)(5) of Pub. L. 110–343 effective Jan. 1, 2009, with special rule for collective bargaining agreements, see section 512(e) of Pub. L. 110–343, set out as a note under section 300gg–5 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 110–343 applicable with respect to group health plans for plan years beginning after the date that is 1 year after Oct. 3, 2008, except that amendment by section 512(a)(5) of Pub. L. 110–343 effective Jan. 1, 2009, with special rule for collective bargaining agreements, see section 512(e) of Pub. L. 110–343, set out as a note under section 300gg–26 of Title 42, The Public Health and Welfare.
 
 #### Effective Date
 

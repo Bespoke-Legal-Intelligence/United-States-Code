@@ -16,7 +16,7 @@
 
 &emsp;(1) encourage and support rural United States, in order to help make it a better place to live, work, and enjoy life;
 
-&emsp;(2) increase income and improve employment for persons in rural areas, including the owners or operators of small farms, small businesses, and rural youth;
+&emsp;(2) increase income and improve employment for persons in rural areas, including theowners or operators of small farms, small businesses, and rural youth;
 
 &emsp;(3) improve the quality and availability of essential community services and facilities in rural areas;
 

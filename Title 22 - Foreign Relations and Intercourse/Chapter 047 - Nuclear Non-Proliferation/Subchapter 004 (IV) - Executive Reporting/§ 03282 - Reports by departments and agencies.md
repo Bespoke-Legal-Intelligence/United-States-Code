@@ -2,7 +2,7 @@
 
 #### (a) Reports by Nuclear Regulatory Commission and Department of Energy
 
-The annual reports to the Congress by the Commission and the Department of Energy which are otherwise required by law shall also include views and recommendations regardingthe policies and actions of the United States to prevent proliferation which are the statutory responsibility of those agencies. The Department's report shall include a detailed analysis of the proliferation implications of advanced enrichment and reprocessing techniques, advanced reactors, and alternative nuclear fuel cycles. This part of the report shall include a comprehensive version which includes any relevant classified information and a summary unclassified version.
+The annual reports to the Congress by the Commission and the Department of Energy which are otherwise required by law shall also include views and recommendations regarding the policies and actions of the United States to prevent proliferation which are the statutory responsibility of those agencies. The Department's report shall include a detailed analysis of the proliferation implications of advanced enrichment and reprocessing techniques, advanced reactors, and alternative nuclear fuel cycles. This part of the report shall include a comprehensive version which includes any relevant classified information and a summary unclassified version.
 
 #### (b) Additional reporting requirements
 
@@ -30,7 +30,7 @@ Any classified portions of the reports required by this chapter shall be submitt
 
 (2) This subsection does not apply to any intradepartmental document of the Department of State or the Department of Energy, or any portion of such document, that is solely concerned with internal, confidential advice on policy concerning the conduct of interagency deliberations on nuclear proliferation matters.
 
-(Pub. L. 95–242, title VI, §602, Mar. 10, 1978, 92 Stat. 151; Pub. L. 99–661, div. A, title XIII, §1370, Nov. 14, 1986, 100 Stat. 4004; Pub. L. 103–437, §9(a)(8), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(e)(6), Oct. 21, 1998, 112 Stat. 2681–775; Pub. L. 106–113, div. B, §1000(a)(7), \[div. B, title XI, §1131\], Nov. 29, 1999, 113 Stat. 1536, 1501A–492.)
+(Pub. L. 95–242, title VI, §602, Mar. 10, 1978, 92 Stat. 151; Pub. L. 99–661, div. A, title XIII, §1370,Nov. 14, 1986, 100 Stat. 4004; Pub. L. 103–437, §9(a)(8), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(e)(6), Oct. 21, 1998, 112 Stat. 2681–775; Pub. L. 106–113, div. B, §1000(a)(7), \[div. B, title XI, §1131\], Nov. 29, 1999, 113 Stat. 1536, 1501A–492.)
 
 #### Codification
 
@@ -38,15 +38,15 @@ Subsec. (e) directed that, three years after Mar. 10, 1978, the Comptroller Gene
 
 #### Amendments
 
-1999—Subsec. (c). Pub. L. 106–113 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Department of State, the Department of Defense, the Department of Commerce, the Department of Energy, and the Commission shall keep the Committees on Foreign Relations and Governmental Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives fully and currently informed with respect to their activities to carry out the purposes and policies of this chapter and to otherwise prevent proliferation, and with respect to the current activities of foreign nations which are of significance from the proliferation standpoint.”
+<b>1999</b>—Subsec. (c). Pub. L. 106–113 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Department of State, the Department of Defense, the Department of Commerce, the Department of Energy, and the Commission shall keep the Committees on Foreign Relations and Governmental Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives fully and currently informed with respect to their activities to carry out the purposes and policies of this chapter and to otherwise prevent proliferation, and with respect to the current activities of foreign nations which are of significance from the proliferation standpoint.”
 
-1998—Subsec. (c). Pub. L. 105–277, §1225(e)(6)(A), struck out “the Arms Control and Disarmament Agency,” after “the Department of Defense,”.
+<b>1998</b>—Subsec. (c). Pub. L. 105–277, §1225(e)(6)(A), struck out “the Arms Control and Disarmament Agency,” after “the Department of Defense,”.
 
 Subsec. (e). Pub. L. 105–277, §1225(e)(6)(B), struck out “and the Director” after “and the Commission” in subsec. (e), which had previously been omitted from the Code. See Codification note above.
 
-1994—Subsecs. (c), (d). Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations”.
+<b>1994</b>—Subsecs. (c), (d). Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations”.
 
-1986—Subsec. (c). Pub. L. 99–661, §1370(1), inserted “the Department of Defense,”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–661, §1370(1), inserted “the Department of Defense,”.
 
 Subsec. (f). Pub. L. 99–661, §1370(2), added subsec. (f).
 
@@ -66,7 +66,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1134\], Nov. 29, 1
 
 “(a)
 
-Requirement to Provide Information.—The head of each department and agency described in section 602(c) of the Nuclear Non-Proliferation Act of 1978 (22 U.S.C. 3282(c)) shall promptly provide information to the chairman and ranking minority member of the Committee on Foreign Relations of the Senate and theCommittee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives in meeting the requirements of subsection (c) or (d) of section 602 of such Act \[22 U.S.C. 3282(c), (d)\].
+Requirement to Provide Information.—The head of each department and agency described in section 602(c) of the Nuclear Non-Proliferation Act of 1978 (22 U.S.C. 3282(c)) shall promptly provide information to the chairman and ranking minority member of the Committee on Foreign Relations of the Senate and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives in meeting the requirements of subsection (c) or (d) of section 602 of such Act \[22 U.S.C. 3282(c), (d)\].
 
 “(b)
 

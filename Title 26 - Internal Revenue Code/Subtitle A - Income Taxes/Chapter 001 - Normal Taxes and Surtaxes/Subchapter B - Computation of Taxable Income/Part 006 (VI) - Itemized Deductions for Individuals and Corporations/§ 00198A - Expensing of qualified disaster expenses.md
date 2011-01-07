@@ -56,5 +56,5 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Effective Date
 
-Pub. L. 110–343, div. C, title VII, §707(c), Oct. 3, 2008, 122 Stat. 3924, provided that: “The amendments madeby this section \[enacting this section\] shall apply to amounts paid or incurred after December 31, 2007\[,\] in connection with disaster\[s\] declared after such date.”
+Pub. L. 110–343, div. C, title VII, §707(c), Oct. 3, 2008, 122 Stat. 3924, provided that: “The amendments made by this section \[enacting this section\] shall apply to amounts paid or incurred after December 31, 2007\[,\] in connection with disaster\[s\] declared after such date.”
 

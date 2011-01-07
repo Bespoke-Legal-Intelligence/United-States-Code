@@ -94,9 +94,9 @@ For purposes of this section, a “punch card voting system” includes any of t
 
 #### Amendments
 
-2009—Subsec. (a)(3)(B). Pub. L. 111–8 substituted “November 1, 2010” for “March 1, 2008”.
+<b>2009</b>—Subsec. (a)(3)(B). Pub. L. 111–8 substituted “November 1, 2010” for “March 1, 2008”.
 
-2007—Subsec. (a)(3)(B). Pub. L. 110–28 substituted “March 1, 2008” for “January 1, 2006”.
+<b>2007</b>—Subsec. (a)(3)(B). Pub. L. 110–28 substituted “March 1, 2008” for “January 1, 2006”.
 
 #### Effective Date of 2009 Amendment
 
@@ -104,5 +104,5 @@ Pub. L. 111–8, div. D, title VI, §625(b), Mar. 11, 2009, 123 Stat. 678, provi
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–28, title VI, §6301(b), May 25, 2007, 121 Stat. 171, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Help America Vote Act of 2002 \[Pub. L. 107–252\].”
+Pub. L. 110–28, title VI, §6301(b), May 25, 2007, 121 Stat. 171, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect asif included in the enactment of the Help America Vote Act of 2002 \[Pub. L. 107–252\].”
 

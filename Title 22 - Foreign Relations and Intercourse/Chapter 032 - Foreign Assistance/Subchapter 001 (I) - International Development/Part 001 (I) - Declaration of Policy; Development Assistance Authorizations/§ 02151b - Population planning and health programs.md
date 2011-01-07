@@ -84,41 +84,41 @@ Amendment by Pub. L. 98–473 is based on section 303 of H.R. 5119, Ninety-eight
 
 #### Amendments
 
-2003—Subsec. (c)(4) to (7). Pub. L. 108–25 added par. (4) and struck out former pars. (4) to (7), which related to coordination between governments and organizations to prevent vertical transmission of HIV, prioritization of HIV/AIDS in foreign assistance program efforts, appropriation of funds for fiscal years 2001 and 2002, and coordination in developing a comprehensive tuberculosis program.
+<b>2003</b>—Subsec. (c)(4) to (7). Pub. L. 108–25 added par. (4) and struck out former pars. (4) to (7), which related to coordination between governments and organizations to prevent vertical transmission of HIV, prioritization of HIV/AIDS in foreign assistance program efforts, appropriation of funds for fiscal years 2001 and 2002, and coordination in developing a comprehensive tuberculosis program.
 
-2000—Subsec. (c)(4) to (7). Pub. L. 106–264 added pars. (4) to (7).
+<b>2000</b>—Subsec. (c)(4) to (7). Pub. L. 106–264 added pars. (4) to (7).
 
-1986—Subsec. (c)(2)(B). Pub. L. 99–529, §103(b), substituted “$75,000,000 for fiscal year 1987” for “$25,000,000 for fiscal year 1987”.
+<b>1986</b>—Subsec. (c)(2)(B). Pub. L. 99–529, §103(b), substituted “$75,000,000 for fiscal year 1987” for “$25,000,000 for fiscal year 1987”.
 
 Subsec. (c)(3). Pub. L. 99–529, §103(a), inserted provision allocating $50,000,000 of the amounts available for fiscal year 1987 for carrying out par. (3).
 
 Subsec. (g)(1)(B). Pub. L. 99–529, §404(1), substituted “$180,000,000 for fiscal year 1987” for “$205,000,000 for fiscal year 1987”.
 
-1985—Subsec. (c)(2)(B). Pub. L. 99–83, §304, inserted provisions authorizing specific appropriations for fiscal years 1986 and 1987.
+<b>1985</b>—Subsec. (c)(2)(B). Pub. L. 99–83, §304, inserted provisions authorizing specific appropriations for fiscal years 1986 and 1987.
 
 Subsec. (c)(3). Pub. L. 99–83, §305(a), added par. (3).
 
 Subsec. (g). Pub. L. 99–83, §303, in amending subsec. (g) generally, substituted in par. (1) provision authorizing appropriations of $290,000,000 and $205,000,000 to carry out subsecs. (b) and (c), respectively, for fiscal years 1986 and 1987 for provisions authorizing $211,000,000 and $133,405,000 to carry out such subsecs. for fiscal years 1982 and 1983, and in par. (2) struck out provision that not less than 16 percent of available subsec. (b) appropriations or $38,000,000, whichever amount is less, be available in fiscal years 1982 an 1983 only for the United Nations Fund for Population Activities.
 
-1984—Subsec. (c). Pub. L. 98–473 designated existing provisions as par. (1) and added par. (2).
+<b>1984</b>—Subsec. (c). Pub. L. 98–473 designated existing provisions as par. (1) and added par. (2).
 
-1981—Subsec. (f)(3). Pub. L. 97–113, §302(b), added par. (3).
+<b>1981</b>—Subsec. (f)(3). Pub. L. 97–113, §302(b), added par. (3).
 
 Subsec. (g). Pub. L. 97–113, §302(a), substituted provision authorizing appropriations of $211,000,000 and $133,405,000 to carry out subsecs. (b) and (c) for fiscal years 1982 and 1983 for provision authorizing $238,000,000 and $145,300,000 to carry out such subsections for fiscal year 1981 and provision that not less than 16 percent of available subsec. (b) appropriations or $38,000,000, whichever amount is less, be available in fiscal years 1982 and 1983 only for the United Nations Fund for Population Activities for provision making minimum of $3,000,000 available in fiscal year 1981 only to support the World Health Organization's Special Program of Research, Development and Research Training in Human Reproduction.
 
-1980—Subsec. (b). Pub. L. 96–533, §302(a), made provision for information and services relating to and supporting natural family planning methods.
+<b>1980</b>—Subsec. (b). Pub. L. 96–533, §302(a), made provision for information and services relating to and supporting natural family planning methods.
 
 Subsec. (g). Pub. L. 96–533, §302(b), substituted in par. (1) appropriations authorization of $238,000,000 for fiscal year 1981 for authorization of $201,000,000 for fiscal year 1980 and made $3,000,000 available for World Health Organization's Special Human Reproduction Program, and in par. (2) appropriations authorization of $145,300,000 for fiscal year 1981 for authorization of $141,000,000 for fiscal year 1980, which made $4,000,000 available for development of John Sparkman Center for International Public Health Education at University of Alabama at Birmingham.
 
-1979—Subsec. (d)(1). Pub. L. 96–53, §102(b), inserted provisions respecting use of community-based development programs.
+<b>1979</b>—Subsec. (d)(1). Pub. L. 96–53, §102(b), inserted provisions respecting use of community-based development programs.
 
 Subsec. (g)(1). Pub. L. 96–53, §102(a), substituted provisions authorizing appropriations of $201,000,000 for fiscal year 1980, for provisions authorizing appropriations of $224,745,000 for fiscal year 1979.
 
 Subsec. (g)(2). Pub. L. 96–53, §102(a), substituted provisions authorizing appropriations of $141,000,000 for fiscal year 1980, for provisions authorizing appropriations of $148,494,000 for fiscal year 1979, and inserted provisions relating to the Sparkman Center for International Public Health Education.
 
-1978—Pub. L. 95–424 amended section generally placing greater emphasis on programs and efforts to change social and economic conditions which produce high birth rates.
+<b>1978</b>—Pub. L. 95–424 amended section generally placing greater emphasis on programs and efforts to change social and economic conditions which produce high birth rates.
 
-1977—Subsec. (a). Pub. L. 95–88, §103(a), transferred to subsec. (b) provisions covering the President's authority to furnish assistance for health purpose and, in the provisions covering population planning remaining in subsec. (a), struck out provisions authorizing the appropriations of $145,000,000 for fiscal year 1974, $165,000,000 for fiscal year 1975, $243,100,000 for fiscal year 1976, and $275,600,000 for fiscal year 1977, struck out provisions requiring that not less than 67 percent of the funds made available under this section be used for population planning, and inserted provisions authorizing an appropriation of $167,000,000 for fiscal year 1978.
+<b>1977</b>—Subsec. (a). Pub. L. 95–88, §103(a), transferred to subsec. (b) provisions covering the President's authority to furnish assistance for health purpose and, in the provisions covering population planning remaining in subsec. (a), struck out provisions authorizing the appropriations of $145,000,000 for fiscal year 1974, $165,000,000 for fiscal year 1975, $243,100,000 for fiscal year 1976, and $275,600,000 for fiscal year 1977, struck out provisions requiring that not less than 67 percent of the funds made available under this section be used for population planning, and inserted provisions authorizing an appropriation of $167,000,000 for fiscal year 1978.
 
 Subsec. (b). Pub. L. 95–88, §103(a), added subsec. (b), consisting of provisions transferred from subsec. (a) covering the President's authority to furnish assistance for health purposes, inserted references to disease prevention and environmental sanitation, and inserted provisions authorizing an appropriation of $107,700,000 for fiscal year 1978. Former subsec. (b) redesignated (c).
 
@@ -126,11 +126,11 @@ Subsec. (c). Pub. L. 95–88, §103(b), redesignated former subsec. (b) as (c).
 
 Subsec. (d). Pub. L. 95–88, §103(c), added subsec. (d).
 
-1975—Subsec. (a). Pub. L. 94–161, §304(1)–(3), designated existing provisions as subsec. (a), authorized appropriations of $243,100,000 and $275,600,000 for fiscal years 1976 and 1977, and prescribed minimum percentage (67) of funds available for any fiscal year to be used for population planning, either in separate programs or as an element of health programs.
+<b>1975</b>—Subsec. (a). Pub. L. 94–161, §304(1)–(3), designated existing provisions as subsec. (a), authorized appropriations of $243,100,000 and $275,600,000 for fiscal years 1976 and 1977, and prescribed minimum percentage (67) of funds available for any fiscal year to be used for population planning, either in separate programs or as an element of health programs.
 
 Subsec. (b). Pub. L. 94–161, §304(4), added subsec. (b).
 
-1974—Pub. L. 93–559 increased appropriations authorization for fiscal year 1975 to $165,000,000 from $145,000,000.
+<b>1974</b>—Pub. L. 93–559 increased appropriations authorization for fiscal year 1975 to $165,000,000 from $145,000,000.
 
 #### Effective Date of 1985 Amendment
 

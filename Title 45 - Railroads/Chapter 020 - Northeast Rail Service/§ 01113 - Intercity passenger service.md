@@ -20,7 +20,7 @@ Section 797 of this title, referred to in subsec. (b), was repealed by Pub. L. 9
 
 #### Amendments
 
-1983—Pub. L. 97–468, §505(a), designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1983</b>—Pub. L. 97–468, §505(a), designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Conrail Employees Eligible for Employee Protection Benefits Under Regional Rail Reorganization Act of 1973
 

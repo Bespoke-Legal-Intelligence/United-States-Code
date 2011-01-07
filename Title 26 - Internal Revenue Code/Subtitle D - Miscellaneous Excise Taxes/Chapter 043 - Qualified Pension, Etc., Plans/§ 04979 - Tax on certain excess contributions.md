@@ -50,7 +50,7 @@ For purposes of this section, the term “plan” means—
 
 #### Amendments
 
-2006—Subsec. (f). Pub. L. 109–280, §902(e)(1)(B), substituted “specified period after” for “21/2 months of” in heading.
+<b>2006</b>—Subsec. (f). Pub. L. 109–280, §902(e)(1)(B), substituted “specified period after” for “21/2 months of” in heading.
 
 Subsec. (f)(1). Pub. L. 109–280, §902(e)(1)(A), (3)(A), inserted “through the end of the plan year for which the contribution was made” after “thereto” and “(6 months in the case of an excess contribution or excess aggregate contribution to an eligible automatic contribution arrangement (as defined in section 414(w)(3)))” after “21/2 months”.
 
@@ -64,7 +64,7 @@ In general.—Except as provided in subparagraph (B), any amount distributed as 
 
 De minimis distributions.—If the total excess contributions and excess aggregate contributions distributed to a recipient under a plan for any plan year are less than $100, such distributions (and any income allocable thereto) shall be treated as earned and received by the recipient in his taxable year in which such distributions were made.”
 
-1988—Subsec. (a)(1). Pub. L. 100–647, §1011(<i>l</i>)(8), struck out “a cash or deferred arrangement which is part of” after “contributions under”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647, §1011(<i>l</i>)(8), struck out “a cash or deferred arrangement which is part of” after “contributions under”.
 
 Subsec. (c). Pub. L. 100–647, §1011(<i>l</i>)(9), struck out “403(b),” and substituted “408(k)(6)(C)” for “408(k)(8)(B)”.
 

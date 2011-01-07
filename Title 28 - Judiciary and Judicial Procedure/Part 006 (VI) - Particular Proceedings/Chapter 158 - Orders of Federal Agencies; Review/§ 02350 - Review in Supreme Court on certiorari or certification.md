@@ -26,7 +26,7 @@ The words “section 2101(f) of this title” are substituted for “section 210
 
 #### Amendments
 
-1988—Subsec. (b). Pub. L. 100–352 substituted “1254(2)” for “1254(3)”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–352 substituted “1254(2)” for “1254(3)”.
 
 #### Effective Date of 1988 Amendment
 

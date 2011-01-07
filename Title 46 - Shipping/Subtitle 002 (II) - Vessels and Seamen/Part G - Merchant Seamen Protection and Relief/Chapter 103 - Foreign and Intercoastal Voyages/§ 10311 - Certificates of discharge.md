@@ -46,7 +46,7 @@ Section 10311 requires a shipping commissioner, when discharging a seaman, eithe
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–206, §409(1), substituted “master or individual in charge” for “shipping commissioner”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–206, §409(1), substituted “master or individual in charge” for “shipping commissioner”.
 
 Subsec. (b). Pub. L. 103–206, §409(2), substituted “by the master and the seaman” for “by the master, the seaman, and the shipping commissioner as witness”.
 

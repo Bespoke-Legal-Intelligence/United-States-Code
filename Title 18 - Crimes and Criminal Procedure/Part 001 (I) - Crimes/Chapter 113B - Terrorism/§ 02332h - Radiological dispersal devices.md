@@ -6,11 +6,11 @@ Unlawful Conduct.—
 
 &emsp;(1)
 
-In general.—Except as provided in paragraph (2), it shall be unlawful for any person to knowingly produce, construct, otherwise acquire, transfer directly or indirectly, receive, possess, import, export, or use, or possess and threaten to use—
+In general.—Except as provided in paragraph (2), it shall be unlawful for any personto knowingly produce, construct, otherwise acquire, transfer directly or indirectly, receive, possess, import, export, or use, or possess and threaten to use—
 
 &emsp;&emsp;(A) any weapon that is designed or intended to release radiation or radioactivity at a level dangerous to human life; or
 
-&emsp;&emsp;(B) any device or other object that is capable of and designed or intended to endangerhuman life through the release of radiation or radioactivity.
+&emsp;&emsp;(B) any device or other object that is capable of and designed or intended to endanger human life through the release of radiation or radioactivity.
 
 &emsp;(2)
 

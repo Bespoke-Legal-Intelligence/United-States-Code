@@ -68,7 +68,7 @@ Another prior section 1121, Pub. L. 89–329, title VI, §601, Nov. 8, 1965, 79 
 
 #### Amendments
 
-2008—Pub. L. 110–315, §601(1), substituted “; purposes; consultation; survey” for “and purposes” in section catchline.
+<b>2008</b>—Pub. L. 110–315, §601(1), substituted “; purposes; consultation; survey” for “and purposes” in section catchline.
 
 Subsec. (a)(3). Pub. L. 110–315, §601(2), struck out “post-Cold War” after “Dramatic”.
 

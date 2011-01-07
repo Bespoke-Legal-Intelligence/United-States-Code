@@ -22,13 +22,13 @@ In this subchapter:
 
 #### Amendments
 
-2008—Par. (5). Pub. L. 110–417 inserted before period at end “that is prepared to enter into a contract as a partner with the Secretary concerned for the construction of military housing units and ancillary supporting facilities”.
+<b>2008</b>—Par. (5). Pub. L. 110–417 inserted before period at end “that is prepared to enter into a contract as a partner with the Secretary concerned for the construction of military housing units and ancillary supporting facilities”.
 
-2006—Par. (1). Pub. L. 109–163, §2805(b)(1), inserted “child development centers,” after “day care centers,”.
+<b>2006</b>—Par. (1). Pub. L. 109–163, §2805(b)(1), inserted “child development centers,” after “day care centers,”.
 
 Par. (2). Pub. L. 109–163, §2805(b)(2), added par. (2).
 
-2003—Par. (2). Pub. L. 108–136 struck out par. (2) which read as follows: “The term ‘base closure law’ means the following:
+<b>2003</b>—Par. (2). Pub. L. 108–136 struck out par. (2) which read as follows: “The term ‘base closure law’ means the following:
 
 &emsp;“(A) Section 2687 of this title.
 
@@ -36,9 +36,9 @@ Par. (2). Pub. L. 109–163, §2805(b)(2), added par. (2).
 
 &emsp;“(C) The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).”
 
-2002—Par. (7). Pub. L. 107–314 inserted “and transient housing intended to be occupied by members of the armed forces on temporary duty” before period at end.
+<b>2002</b>—Par. (7). Pub. L. 107–314 inserted “and transient housing intended to be occupied by members of the armed forces on temporary duty” before period at end.
 
-1999—Pars. (5) to (8). Pub. L. 106–65 added par. (5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
+<b>1999</b>—Pars. (5) to (8). Pub. L. 106–65 added par. (5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
 
-1998—Par. (1). Pub. L. 105–261 inserted “facilities to provide or support elementary or secondary education,” after “including”.
+<b>1998</b>—Par. (1). Pub. L. 105–261 inserted “facilities to provide or support elementary or secondary education,” after “including”.
 

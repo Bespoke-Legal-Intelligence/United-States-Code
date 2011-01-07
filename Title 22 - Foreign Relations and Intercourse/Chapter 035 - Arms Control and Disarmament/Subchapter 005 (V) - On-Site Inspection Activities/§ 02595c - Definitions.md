@@ -14,9 +14,9 @@ As used in this subchapter—
 
 #### Amendments
 
-1998—Par. (1). Pub. L. 105–277, §1223(20), inserted “of America” after “United States”.
+<b>1998</b>—Par. (1). Pub. L. 105–277, §1223(20), inserted “of America” after “United States”.
 
-1991—Pars. (3), (4). Pub. L. 102–228, §402(a)(2), added pars. (3) and (4).
+<b>1991</b>—Pars. (3), (4). Pub. L. 102–228, §402(a)(2), added pars. (3) and (4).
 
 #### Effective Date of 1998 Amendment
 

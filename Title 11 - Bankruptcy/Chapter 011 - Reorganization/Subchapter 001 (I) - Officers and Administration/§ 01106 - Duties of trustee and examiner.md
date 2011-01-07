@@ -2,9 +2,9 @@
 
 (a) A trustee shall—
 
-&emsp;(1) perform the duties of the trustee, as specified in paragraphs (2), (5), (7), (8), (9), (10), (11), and (12) of section 704;
+&emsp;(1) perform the duties of the trustee, as specified in paragraphs (2), (5), (7), (8), (9), (10), (11), and (12) of section 704(a);
 
-&emsp;(2) if the debtor has not done so, file the list, schedule, and statement required under section 521(1) of this title;
+&emsp;(2) if the debtor has not done so, file the list, schedule, and statement required under section 521(a)(1) of this title;
 
 &emsp;(3) except to the extent that the court orders otherwise, investigate the acts, conduct, assets, liabilities, and financial condition of the debtor, the operation of the debtor's business and the desirability of the continuance of such business, and any other matter relevant to the case or to the formulation of a plan;
 
@@ -52,7 +52,7 @@
 
 (B) Notwithstanding any other provision of law, a creditor that makes a disclosure of a last known address of a debtor in connection with a request made under subparagraph (A) shall not be liable by reason of making such disclosure.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2628; Pub. L. 98–353, title III, §§311(b)(1), 502, July 10, 1984, 98 Stat. 355, 384; Pub. L. 99–554, title II, §257(c), Oct. 27, 1986, 100 Stat. 3114; Pub. L. 103–394, title II, §211(b), Oct. 22, 1994, 108 Stat. 4125; Pub. L. 109–8, title II, §219(b), title IV, §446(c), title XI, §1105(b), Apr. 20, 2005, 119 Stat. 56, 118, 192.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2628; Pub. L. 98–353, title III, §§311(b)(1), 502, July 10, 1984, 98 Stat. 355, 384; Pub. L. 99–554, title II, §257(c), Oct. 27, 1986, 100 Stat. 3114; Pub. L. 103–394, title II, §211(b), Oct. 22, 1994, 108 Stat. 4125; Pub. L. 109–8, title II, §219(b), title IV, §446(c), title XI, §1105(b), Apr. 20, 2005, 119 Stat. 56, 118, 192; Pub. L. 111–327, §2(a)(31), Dec. 22, 2010, 124 Stat. 3560.)
 
 #### Historical and Revision Notes
 
@@ -75,6 +75,10 @@ Paragraphs (3), (4), and (5) of subsection (a) are derived from sections 165 and
 Sections 464 and 466 of the Social Security Act, referred to in subsec. (c)(1)(A)(i), are classified to sections 664 and 666, respectively, of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2010—Subsec. (a)(1). Pub. L. 111–327, §2(a)(31)(A), substituted “704(a)” for “704”.
+
+Subsec. (a)(2). Pub. L. 111–327, §2(a)(31)(B), substituted “521(a)(1)” for “521(1)”.
 
 2005—Subsec. (a)(1). Pub. L. 109–8, §1105(b), substituted “(11), and (12)” for “and (11)”.
 

@@ -14,7 +14,7 @@ Upon the request of the Chairman, the Board may secure directly from the head of
 
 #### (d) Mails
 
-The Board may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
+The Board may use the United States mails in the same manner and under the same conditionsas other departments and agencies of the United States.
 
 #### (e) Experts and consultants
 

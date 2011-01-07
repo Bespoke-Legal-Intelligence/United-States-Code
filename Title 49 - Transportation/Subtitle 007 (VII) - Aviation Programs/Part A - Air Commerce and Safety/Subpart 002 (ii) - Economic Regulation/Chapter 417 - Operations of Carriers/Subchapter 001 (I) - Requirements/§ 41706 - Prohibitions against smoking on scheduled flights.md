@@ -52,7 +52,7 @@ In subsection (a), before clause (1), the words “On and after the date of expi
 
 #### Amendments
 
-2000—Pub. L. 106–181 amended section catchline and text generally. Prior to amendment, text read as follows:
+<b>2000</b>—Pub. L. 106–181 amended section catchline and text generally. Prior to amendment, text read as follows:
 
 “(a)
 

@@ -22,13 +22,13 @@ Act of June 17, 1902, referred to in par. (b), is popularly known as the Reclama
 
 #### Amendments
 
-1975—Subsec. (d). Pub. L. 94–181, §1(a), substituted provisions limiting the estimated cost of the project described in cls. (i), (ii), (iii), (iv), and (v) to the maximum allowable estimated total project cost as determined by subsection (f) of this section, for provisions limiting the estimated cost of such projects to $15,000,000, and inserted proviso relating to a project described in cl. (i), (ii), or (iii).
+<b>1975</b>—Subsec. (d). Pub. L. 94–181, §1(a), substituted provisions limiting the estimated cost of the project described in cls. (i), (ii), (iii), (iv), and (v) to the maximum allowable estimated total project cost as determined by subsection (f) of this section, for provisions limiting the estimated cost of such projects to $15,000,000, and inserted proviso relating to a project described in cl. (i), (ii), or (iii).
 
 Subsec. (f). Pub. L. 94–181, §1(b), added subsec. (f).
 
-1971—Subsec. (d). Pub. L. 92–167 redefined the size and character of projects which are eligible for approval under the program, increasing money limitation from $1,000,000 to $15,000,000 and making projects eligible, without being only for irrigation, for single purpose irrigation, single purpose drainage, multiple purpose, a distinct unit of the foregoing, or rehabilitation of any of the foregoing.
+<b>1971</b>—Subsec. (d). Pub. L. 92–167 redefined the size and character of projects which are eligible for approval under the program, increasing money limitation from $1,000,000 to $15,000,000 and making projects eligible, without being only for irrigation, for single purpose irrigation, single purpose drainage, multiple purpose, a distinct unit of the foregoing, or rehabilitation of any of the foregoing.
 
-1966—Subsec. (d). Pub. L. 89–553 raised from $5,000,000 to $6,500,000 the maximum amount for a loan or grant for a particular project.
+<b>1966</b>—Subsec. (d). Pub. L. 89–553 raised from $5,000,000 to $6,500,000 the maximum amount for a loan or grant for a particular project.
 
 #### Retroactive Effect of 1966 Amendment
 

@@ -6,5 +6,5 @@ It is the purpose of sections 469 to 469c–1 of this title to further the polic
 
 #### Amendments
 
-1974—Pub. L. 93–291 designated existing provisions as cl. (1) and added cl. (2).
+<b>1974</b>—Pub. L. 93–291 designated existing provisions as cl. (1) and added cl. (2).
 

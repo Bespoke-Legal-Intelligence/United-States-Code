@@ -15,9 +15,9 @@
 
 #### Amendments
 
-1986—Pub. L. 99–433, title V, §522(g)(1), Oct. 1, 1986, 100 Stat. 1063, amended analysis generally, substituting items 8031 to 8038 for former items 8031 to 8036.
+<b>1986</b>—Pub. L. 99–433, title V, §522(g)(1), Oct. 1, 1986, 100 Stat. 1063, amended analysis generally, substituting items 8031 to 8038 for former items 8031 to 8036.
 
-1965—Pub. L. 89–288, §5(b), Oct. 22, 1965, 79 Stat. 1050, added item 8036.
+<b>1965</b>—Pub. L. 89–288, §5(b), Oct. 22, 1965, 79 Stat. 1050, added item 8036.
 
 
 ---

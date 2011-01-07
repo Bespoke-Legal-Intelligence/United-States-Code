@@ -20,7 +20,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 &emsp;&emsp;&emsp;(iii) particularly severe violations of religious freedom engaged in or tolerated by the government of that country; and
 
-&emsp;&emsp;&emsp;(iv) wherever applicable, an assessment and description of the nature and extent ofacts of anti-Semitism and anti-Semitic incitement that occur in that country during the preceding year, including—
+&emsp;&emsp;&emsp;(iv) wherever applicable, an assessment and description of the nature and extent of acts of anti-Semitism and anti-Semitic incitement that occur in that country during the preceding year, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) acts of physical violence against, or harassment of, Jewish people, acts of violence against, or vandalism of, Jewish community institutions, and instances of propaganda in government and nongovernment media that incite such acts; and
 
@@ -64,7 +64,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 #### (2) Classified addendum
 
-&emsp;If the Secretary of State determines that it is in the national security interests of the United States or is necessary for the safety of individuals to be identified in the Annual Report or is necessary to further the purposes of this chapter, any information required by paragraph (1), including measures or actions taken by the United States, may be summarized in the Annual Report or the Executive Summary and submitted in more detail in a classified addendum to the Annual Report or the Executive Summary.
+&emsp;If the Secretary of State determines that it is in the national security interests of the United States or is necessary for the safety of individuals to be identified in the Annual Report or is necessary to further the purposes of this chapter, any information required byparagraph (1), including measures or actions taken by the United States, may be summarized in the Annual Report or the Executive Summary and submitted in more detail in a classified addendum to the Annual Report or the Executive Summary.
 
 #### (c) Preparation of reports regarding violations of religious freedom
 
@@ -90,9 +90,9 @@ Section is comprised of section 102 of Pub. L. 105–292. Subsec. (d) of section
 
 #### Amendments
 
-2004—Subsec. (b)(1)(A)(iv). Pub. L. 108–332 added cl. (iv).
+<b>2004</b>—Subsec. (b)(1)(A)(iv). Pub. L. 108–332 added cl. (iv).
 
-2002—Subsec. (b)(1)(B). Pub. L. 107–228 inserted “including policies that discriminate against particular religious groups or members of such groups,” after “the existence of government policies violating religious freedom,”.
+<b>2002</b>—Subsec. (b)(1)(B). Pub. L. 107–228 inserted “including policies that discriminate against particular religious groups or members of such groups,” after “the existence of government policies violating religious freedom,”.
 
 #### Effective Date of 2004 Amendment
 

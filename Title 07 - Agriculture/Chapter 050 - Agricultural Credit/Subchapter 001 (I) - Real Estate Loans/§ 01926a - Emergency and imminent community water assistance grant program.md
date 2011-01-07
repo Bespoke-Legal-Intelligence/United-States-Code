@@ -98,7 +98,7 @@ Subject to subsection (e) of this section, grants under this section shall be ma
 
 #### (A) In general
 
-&emsp;&emsp;For each fiscal year, not less than 3 nor more than 5 percent of the total amountmade available to carry out section 1926(a)(2) of this title for the fiscal year shall be reserved for grants under this section.
+&emsp;&emsp;For each fiscal year, not less than 3 nor more than 5 percent of the total amount made available to carry out section 1926(a)(2) of this title for the fiscal year shall be reserved for grants under this section.
 
 #### (B) Release
 
@@ -144,7 +144,7 @@ Subsec. (h)(1). Pub. L. 107–171, §6009(6)(A), substituted “decline, or immi
 
 Subsec. (h)(2). Pub. L. 107–171, §6009(6)(B), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The Secretary shall make every effort to review and act on applications within 60 days of the date that such applications are submitted.”
 
-Subsec. (i). Pub. L. 107–171, §6009(7), added subsec. (i) and struck out heading and text of former subsec. (i). Text read as follows: “There are authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 1996 through 2002.”
+Subsec. (i). Pub. L. 107–171, §6009(7), added subsec. (i) and struck out heading and text of former subsec. (i).Text read as follows: “There are authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 1996 through 2002.”
 
 1996—Subsec. (e)(1)(A). Pub. L. 104–127, §742(1)(A), substituted “10,000” for “15,000”.
 

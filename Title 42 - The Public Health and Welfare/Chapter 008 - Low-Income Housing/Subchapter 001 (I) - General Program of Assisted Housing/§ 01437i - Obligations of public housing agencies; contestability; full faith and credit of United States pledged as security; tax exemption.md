@@ -12,9 +12,9 @@ A prior section 11 of act Sept. 1, 1937, ch. 896, 50 Stat. 893, as amended, auth
 
 #### Amendments
 
-1990—Pub. L. 101–625 substituted “low-income housing” for “lower income housing” wherever appearing.
+<b>1990</b>—Pub. L. 101–625 substituted “low-income housing” for “lower income housing” wherever appearing.
 
-1981—Pub. L. 97–35 substituted reference to lower income for reference to low-income wherever appearing.
+<b>1981</b>—Pub. L. 97–35 substituted reference to lower income for reference to low-income wherever appearing.
 
 #### Effective Date of 1981 Amendment
 

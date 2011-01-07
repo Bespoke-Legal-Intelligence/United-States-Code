@@ -10,11 +10,11 @@ Prior section 1905, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1216; Pub. L. 90�
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 705 of this title as this section and substituted “Secretary” for “Administrator” in two places.
+<b>1991</b>—Pub. L. 102–83 renumbered section 705 of this title as this section and substituted “Secretary” for “Administrator” in two places.
 
-1986—Pub. L. 99–576 substituted “the” for “his” in three places and “the insured” for “him”.
+<b>1986</b>—Pub. L. 99–576 substituted “the” for “his” in three places and “the insured” for “him”.
 
-1970—Pub. L. 91–291 made it a requirement for renewal of lapsed policies that the insured make application for reinstatement and renewal of his term policy within five years after the date of lapse and struck out provision that the lapse occur within two months before the expiration of the term period.
+<b>1970</b>—Pub. L. 91–291 made it a requirement for renewal of lapsed policies that the insured make application for reinstatement and renewal of his term policy within five years after the date of lapse and struck out provision that the lapse occur within two months before the expiration of the term period.
 
 #### Effective Date of 1970 Amendment
 

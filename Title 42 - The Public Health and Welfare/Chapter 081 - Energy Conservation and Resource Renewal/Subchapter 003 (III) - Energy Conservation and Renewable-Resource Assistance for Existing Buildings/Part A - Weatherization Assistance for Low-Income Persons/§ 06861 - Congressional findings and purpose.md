@@ -24,7 +24,7 @@ The Economic Opportunity Act of 1964, referred to in subsec. (a)(4), is Pub. L. 
 
 #### Amendments
 
-1990—Pub. L. 101–440 amended section generally. Prior to amendment, section read as follows:
+<b>1990</b>—Pub. L. 101–440 amended section generally. Prior to amendment, section read as follows:
 
 “(a) The Congress finds that—
 

@@ -16,5 +16,5 @@ The text of section 228 of Pub. L. 106–159, formerly set out as a note under s
 
 #### Amendments
 
-2003—Pub. L. 108–168 renumbered section 228 of Pub. L. 106–159 as this section and substituted “Investigative authority of Inspector General” for “DOT Authority” in section catchline. See Codification note above.
+<b>2003</b>—Pub. L. 108–168 renumbered section 228 of Pub. L. 106–159 as this section and substituted “Investigative authority of Inspector General” for “DOT Authority” in section catchline. See Codification note above.
 

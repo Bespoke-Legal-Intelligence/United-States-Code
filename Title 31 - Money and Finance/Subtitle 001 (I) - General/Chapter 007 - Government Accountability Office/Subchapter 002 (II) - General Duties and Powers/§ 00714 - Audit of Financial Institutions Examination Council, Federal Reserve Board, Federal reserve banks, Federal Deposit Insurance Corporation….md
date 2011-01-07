@@ -24,25 +24,93 @@
 
 &emsp;(B) limit any disclosure by the Government Accountability Office to any committee or subcommittee of jurisdiction of Congress, or any member of such committee or subcommittee.
 
-(d)(1) To carry out this section, all records and property of or used by an agency, including samples of reports of examinations of a bank or bank holding company the Comptroller General considers statistically meaningful and workpapers and correspondence related to the reports shall be made available to the Comptroller General. The Comptroller General shall have access to the officers, employees, contractors, and other agents and representatives of an agency and any entity established by an agency at any reasonable time as the Comptroller General may request. The Comptroller General may make and retain copies of such books, accounts, andother records as the Comptroller General determines appropriate. The Comptroller General shall give an agency a current list of officers and employees to whom, with proper identification, records and property may be made available, and who may make notes or copies necessary to carry out an audit.
+(d)(1) To carry out this section, all records and property of or used by an agency, including samples of reports of examinations of a bank or bank holding company the Comptroller General considers statistically meaningful and workpapers and correspondence related to the reports shall be made available to the Comptroller General. The Comptroller General shall have access to the officers, employees, contractors, and other agents and representatives of an agency and any entity established by an agency at any reasonable time as the Comptroller General may request. The Comptroller General may make and retain copies of such books, accounts, and other records as the Comptroller General determines appropriate. The Comptroller General shall give an agency a current list of officers and employees to whom, with proper identification, records and property may be made available, and who may make notes or copies necessary to carry out an audit.
 
-(2) The Comptroller General shall prevent unauthorized access to records, copies of any record, or property of or used by an agency that the Comptroller General obtains during an audit.
+(2) The Comptroller General shall prevent unauthorized access to records, copies of any record, or property of or used by an agency or any person or entity described in paragraph (3)(A) that the Comptroller General obtains during an audit.
 
-(3)(A) For purposes of conducting audits and examinations under subsection (e), the Comptroller General shall have access, upon request, to any information, data, schedules, books, accounts, financial records, reports, files, electronic communications, or other papers, things or property belonging to or in use by—
+(3)(A) For purposes of conducting audits and examinations under subsection (e) or (f), the Comptroller General shall have access, upon request, to any information, data, schedules, books, accounts, financial records, reports, files, electronic communications, or other papers, things or property belonging to or in use by—
 
-&emsp;(i) any entity established by any action taken by the Board described under subsection (e);
+&emsp;(i) any entity established by any action taken by the Board or the Federal Reserve banks described under subsection (e) or (f);
 
-&emsp;(ii) any entity receiving assistance from any action taken by the Board described under subsection (e), to the extent that the access and request relates to that assistance; and
+&emsp;(ii) any entity participating in or receiving assistance from any action taken by the Board or the Federal Reserve banks described under subsection (e) or (f), to the extent that the access and request relates to that assistance; and
 
 &emsp;(iii) the officers, directors, employees, independent public accountants, financial advisors and any and all representatives of any entity described under clause (i) or (ii); to the extent that the access and request relates to that assistance;
 
-(B) The Comptroller General shall have access as provided under subparagraph (A) at such time as the Comptroller General may request.
+(B) The Comptroller General shall have access as provided under subparagraph (A) at such time as the Comptroller General may request. The Comptroller General may make and retain copies of books, accounts, and other records provided under subparagraph (A) as the Comptroller General deems appropriate. The Comptroller General shall provide to any person or entity described in subparagraph (A) a current list of officers and employees to whom, with proper identification, records and property may be made available, and who may make notes or copies necessary to carry out a <sup>1</sup> audit or examination under this subsection.
 
-(C) Each contract, term sheet, or other agreement between the Board or any Federal reserve bank (or any entity established by the Board or any Federal reserve bank) and an entity receiving assistance from any action taken by the Board described under subsection (e) shall provide for access by the Comptroller General in accordance with this paragraph.
+(C) Each contract, term sheet, or other agreement between the Board or any Federal reserve bank (or any entity established by the Board or any Federal reserve bank) and an entity receiving assistance from any action taken by the Board described under subsection (e) or (f) shall provide for access by the Comptroller General in accordance with this paragraph.
 
-(e) Notwithstanding subsection (b), the Comptroller General may conduct audits, including onsite examinations when the Comptroller General determines such audits and examinations are appropriate, of any action taken by the Board under the third undesignated paragraph of section 13 of the Federal Reserve Act (12 U.S.C. 343); with respect to a single and specific partnership or corporation.
+(e) Notwithstanding subsection (b), the Comptroller General may conduct audits, including onsite examinations when the Comptroller General determines such audits and examinations are appropriate, of any action taken by the Board under the third undesignated paragraph of section 13 <sup>2</sup> of the Federal Reserve Act (12 U.S.C. 343); with respect to a single and specific partnership or corporation.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 890; Pub. L. 101–73, title III, §307(c), Aug. 9, 1989, 103 Stat. 353; Pub. L. 104–316, title I, §115(a), Oct. 19, 1996, 110 Stat. 3834; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–22, div. A, title VIII, §801, May 20, 2009, 123 Stat. 1662.)
+(f)
+
+Audits of Credit Facilities of the Federal Reserve System.—
+
+&emsp;(1)
+
+Definitions.—In this subsection, the following definitions shall apply:
+
+&emsp;&emsp;(A)
+
+Credit facility.—The term “credit facility” means a program or facility, including any special purpose vehicle or other entity established by or on behalf of the Board of Governors of the Federal Reserve System or a Federal reserve bank, authorized by the Board of Governors under section 13(3) of the Federal Reserve Act (12 U.S.C. 343), that is not subject to audit under subsection (e).
+
+&emsp;&emsp;(B)
+
+Covered transaction.—The term “covered transaction” means any open market transaction or discount window advance that meets the definition of “covered transaction” in section 11(s) of the Federal Reserve Act.
+
+&emsp;(2)
+
+Authority for audits and examinations.—Subject to paragraph (3), and notwithstanding any limitation in subsection (b) on the auditing and oversight of certain functions of the Board of Governors of the Federal Reserve System or any Federal reserve bank, the Comptroller General of the United States may conduct audits, including onsite examinations, of the Board of Governors, a Federal reserve bank, or a credit facility, if the Comptroller General determines that such audits are appropriate, solely for the purposes of assessing, with respect to a credit facility or a covered transaction—
+
+&emsp;&emsp;(A) the operational integrity, accounting, financial reporting, and internal controls governing the credit facility or covered transaction;
+
+&emsp;&emsp;(B) the effectiveness of the security and collateral policies established for the facility or covered transaction in mitigating risk to the relevant Federal reserve bank and taxpayers;
+
+&emsp;&emsp;(C) whether the credit facility or the conduct of a covered transaction inappropriately favors one or more specific participants over other institutions eligible to utilize the facility; and
+
+&emsp;&emsp;(D) the policies governing the use, selection, or payment of third-party contractors by or for any credit facility or to conduct any covered transaction.
+
+&emsp;(3)
+
+Reports and delayed disclosure.—
+
+&emsp;&emsp;(A)
+
+Reports required.—A report on each audit conducted under paragraph (2) shall be submitted by the Comptroller General to the Congress before the end of the 90-day period beginning on the date on which such audit is completed.
+
+&emsp;&emsp;(B)
+
+Contents.—The report under subparagraph (A) shall include a detailed description of the findings and conclusions of the Comptroller General with respect to the matters described in paragraph (2) that were audited and are the subject of the report, together with such recommendations for legislative or administrative action relating to such matters as the Comptroller General may determine to be appropriate.
+
+&emsp;&emsp;(C)
+
+Delayed release of certain information.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—The Comptroller General shall not disclose to any person or entity, including to Congress, the names or identifying details of specific participants in any credit facility or covered transaction, the amounts borrowed by or transferred by or to specific participants in any credit facility or covered transaction, or identifying details regarding assets or collateral held or transferred by, under, or in connection with any credit facility or covered transaction, and any report provided under subparagraph (A) shall be redacted to ensure that such names and details are not disclosed.
+
+&emsp;&emsp;&emsp;(ii)
+
+Delayed release.—The nondisclosure obligation under clause (i) shall expire with respect to any participant on the date on which the Board of Governors, directly or through a Federal reserve bank, publicly discloses the identity of the subject participant or the identifying details of the subject assets, collateral, or transaction.
+
+&emsp;&emsp;&emsp;(iii)
+
+General release.—The Comptroller General shall release a nonredacted version of any report on a credit facility 1 year after the effective date of the termination by the Board of Governors of the authorization for the credit facility. For purposes of this clause, a credit facility shall be deemed to have terminated 24 months after the date on which the credit facility ceases to make extensions of credit and loans, unless the credit facility is otherwise terminated by the Board of Governors.
+
+&emsp;&emsp;&emsp;(iv)
+
+Exceptions.—The nondisclosure obligation under clause (i) shall not apply to the credit facilities Maiden Lane, Maiden Lane II, and Maiden Lane III.
+
+&emsp;&emsp;&emsp;(v)
+
+Release of covered transaction information.—The Comptroller General shall release a nonredacted version of any report regarding covered transactions upon the release of the information regarding such covered transactions by the Board of Governors of the Federal Reserve System, as provided in section 11(s) of the Federal Reserve Act.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 890; Pub. L. 101–73, title III, §307(c), Aug. 9, 1989, 103 Stat. 353; Pub. L. 104–316, title I, §115(a), Oct. 19, 1996, 110 Stat. 3834; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–22, div. A, title VIII, §801, May 20, 2009, 123 Stat. 1662; Pub. L. 111–203, title III, §378(2), title XI, §1102, July 21, 2010, 124 Stat. 1570, 2115.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 111–203, title III, §§351, 378(2), July 21, 2010, 124 Stat. 1546, 1570, provided that, ef</i><i>fective on the transfer date, subsection (a) of this section is amended by striking “the Office of the Comptroller of the Currency, and the Office of Thrift Supervision.” and inserting “and the Office of the Comptroller of the Currency.” See Effective Date of 2010 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -86,9 +154,27 @@ In subsection (d)(1), the words “To carry out this section, all records and pr
 
 In subsection (d)(2), the words “records and property of or used by an agency” are substituted for “agency materials described in subparagraph (A)” for consistency. The words “The Comptroller General shall prevent unauthorized access to records or property” are substituted for 31:67(e)(7)(D)(last sentence) for clarity.
 
+#### References in Text
+
+The third undesignated paragraph of section 13 of the Federal Reserve Act, referred in subsec. (e), is deemed to be a reference to section 13(3) of the Federal Reserve Act, which is classified to section 343(3) of Title 12, Banks and Banking. See section 1101(c) of Pub. L. 111–203, set out as a note under section 343 of Title 12.
+
+Section 11(s) of the Federal Reserve Act, referred to in subsec. (f)(1)(B), (3)(C)(v), is classified to section 248(s) of Title 12, Banks and Banking.
+
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–22, §801(a)(1), substituted “Board of Governors of the Federal Reserve System (in this section referred to as the ‘Board’),” for “Federal Reserve Board,”.
+<b>2010</b>—Subsec. (d)(2). Pub. L. 111–203, §1102(b)(1), inserted “or any person or entity described in paragraph (3)(A)” after “used by an agency”.
+
+Subsec. (d)(3). Pub. L. 111–203, §1102(b)(2), inserted “or (f)” after “subsection (e)” wherever appearing.
+
+Subsec. (d)(3)(A)(i). Pub. L. 111–203, §1102(b)(3), inserted “or the Federal Reserve banks” after “by the Board”.
+
+Subsec. (d)(3)(A)(ii). Pub. L. 111–203, §1102(b)(3), (4), inserted “participating in or” after “any entity” and “or the Federal Reserve banks” after “by the Board”.
+
+Subsec. (d)(3)(B). Pub. L. 111–203, §1102(b)(5), inserted at end “The Comptroller General may make and retain copies of books, accounts, and other records provided under subparagraph (A) as the Comptroller General deems appropriate. The Comptroller General shall provide to any person or entity described in subparagraph (A) a current list of officers and employees to whom, with proper identification, records and property may be made available, and who may make notes or copies necessary to carry out a audit or examination under this subsection.”
+
+Subsec. (f). Pub. L. 111–203, §1102(a), added subsec. (f).
+
+<b>2009</b>—Subsec. (a). Pub. L. 111–22, §801(a)(1), substituted “Board of Governors of the Federal Reserve System (in this section referred to as the ‘Board’),” for “Federal Reserve Board,”.
 
 Subsec. (b). Pub. L. 111–22, §801(a)(2)(A), which directed substitution of “Board” for “Federal Reserve Board,” in introductory provisions, was executed by making the substitution for “Federal Reserve Board” to reflect the probable intent of Congress.
 
@@ -96,7 +182,7 @@ Subsec. (b)(4). Pub. L. 111–22, §801(a)(2)(B), struck out “of Governors” 
 
 Subsec. (c)(3), (4). Pub. L. 111–22, §801(b), added pars. (3) and (4) and struck out former par. (3) which read as follows: “This subsection does not authorize an officer or employee of an agency to withhold information from a committee of Congress authorized to have the information.”
 
-Subsec. (d)(1). Pub. L. 111–22, §801(c)(1), inserted after first sentence “The Comptroller General shall have access to the officers, employees, contractors, and otheragents and representatives of an agency and any entity established by an agency at any reasonable time as the Comptroller General may request. The Comptroller General may make and retain copies of such books, accounts, and other records as the Comptroller General determines appropriate.”
+Subsec. (d)(1). Pub. L. 111–22, §801(c)(1), inserted after first sentence “The Comptroller General shall have access to the officers, employees, contractors, and other agents and representatives of an agency and any entity established by an agency at any reasonable time as the Comptroller General may request. The Comptroller General may make and retain copies of such books, accounts, and other records as the Comptroller General determines appropriate.”
 
 Subsec. (d)(2). Pub. L. 111–22, §801(c)(2), inserted “, copies of any record,” after “records”.
 
@@ -104,9 +190,19 @@ Subsec. (d)(3). Pub. L. 111–22, §801(c)(3), added par. (3).
 
 Subsec. (e). Pub. L. 111–22, §801(d), added subsec. (e).
 
-2004—Subsec. (c)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (c)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1996—Subsec. (d). Pub. L. 104–316 struck out at end of par. (1) “An agency shall give the Comptroller General suitable and lockable offices and furniture, telephones, and access to copying facilities.” and amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Except for the temporary removal of workpapers of the Comptroller General that do not identify a customer of an open or closed bank or bank holding company, an open bank, or an open bank holding company, all workpapers of the Comptroller General and records and property of or used by an agency that the Comptroller General possesses during an audit, shall remain in the agency. The Comptroller General shall prevent unauthorized access to records or property.”
+<b>1996</b>—Subsec. (d). Pub. L. 104–316 struck out at end of par. (1) “An agency shall give the Comptroller General suitable and lockable offices and furniture, telephones, and access to copying facilities.” and amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Except for the temporary removal of workpapers of the Comptroller General that do not identify a customer of an open or closed bank or bank holding company, an open bank, or an open bank holding company, all workpapers of the Comptroller General and records and property of or used by an agency that the Comptroller General possesses during an audit, shall remain in the agency. The Comptroller General shall prevent unauthorized access to records or property.”
 
-1989—Subsec. (a). Pub. L. 101–73 inserted reference to Office of Thrift Supervision.
+<b>1989</b>—Subsec. (a). Pub. L. 101–73 inserted reference to Office of Thrift Supervision.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 378(2) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
+
+Amendment by section 1102 of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -42,9 +42,9 @@ Relationship to Other Laws.—This section does not affect the application of th
 
 Prohibition of Certification or Contract Clause.—(1) No certification by a contractor, and no contract clause, may be required in the case of a contract for the transportation of commercial items in order to implement a requirement in this section.
 
-(2) In paragraph (1), the term “commercial item” has the meaning given such term in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)), except that it shall not include a contract for the transportation by air of passengers.
+(2) In paragraph (1), the term “commercial item” has the meaning given such term in section 103 of title 41, except that it shall not include a contract for the transportation by air of passengers.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1116; Pub. L. 103–355, title VIII, §8301(h), Oct. 13, 1994, 108 Stat. 3398; Pub. L. 104–287, §5(68), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 104–316, title I, §127(d), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(h), title XIII, §1335(p), title XIV, §1422(b)(6), Oct. 21, 1998, 112 Stat. 2681–775, 2681–789, 2681–793; Pub. L. 108–176, title VIII, §806, Dec. 12, 2003, 117 Stat. 2588.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1116; Pub. L. 103–355, title VIII, §8301(h), Oct. 13, 1994, 108 Stat. 3398; Pub. L. 104–287, §5(68), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 104–316, title I, §127(d), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(h), title XIII, §1335(p), title XIV, §1422(b)(6), Oct. 21, 1998, 112 Stat. 2681–775, 2681–789, 2681–793; Pub. L. 108–176, title VIII, §806, Dec. 12, 2003, 117 Stat. 2588; Pub. L. 111–350, §5(<i>o</i>)(8), Jan. 4, 2011, 124 Stat. 3854.)
 
 Historical and Revision Notes
 
@@ -110,15 +110,17 @@ This amends 49:40118(f)(1) to make a clarifying amendment.
 
 #### Amendments
 
-2003—Subsec. (f)(2). Pub. L. 108–176 inserted “, except that it shall not include a contract for the transportation by air of passengers” before period at end.
+<b>2011</b>—Subsec. (f)(2). Pub. L. 111–350 substituted “section 103 of title 41” for “section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))”.
 
-1998—Subsec. (d). Pub. L. 105–277, §1422(b)(6), substituted “or the Administrator of the Agency for International Development” for “the Director of the United States International Development Cooperation Agency”.
+<b>2003</b>—Subsec. (f)(2). Pub. L. 108–176 inserted “, except that it shall not include a contract for the transportation by air of passengers” before period at end.
+
+<b>1998</b>—Subsec. (d). Pub. L. 105–277, §1422(b)(6), substituted “or the Administrator of the Agency for International Development” for “the Director of the United States International Development Cooperation Agency”.
 
 Pub. L. 105–277, §1335(p), struck out “, the Director of the United States Information Agency,” after “Secretary of State”.
 
 Pub. L. 105–277, §1225(h), struck out “, or the Director of the Arms Control and Disarmament Agency” before “may be used to pay”.
 
-1996—Subsec. (c). Pub. L. 104–316 substituted “Administrator of General Services shall prescribe regulations under which agencies may” for “Comptroller General shall”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–316 substituted “Administrator of General Services shall prescribe regulations under which agencies may” for “Comptroller General shall”.
 
 Subsec. (d). Pub. L. 104–287, §5(68)(A), substituted “
 
@@ -128,7 +130,11 @@ Transportation by Foreign Air Carriers” in heading.
 
 Subsec. (f). Pub. L. 104–287, §5(68)(B), inserted heading.
 
-1994—Subsec. (f). Pub. L. 103–355 added subsec. (f).
+<b>1994</b>—Subsec. (f). Pub. L. 103–355 added subsec. (f).
+
+#### Effective Date of 1994 Amendment
+
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of Title 10, Armed Forces.
 
 #### Effective Date of 2003 Amendment
 

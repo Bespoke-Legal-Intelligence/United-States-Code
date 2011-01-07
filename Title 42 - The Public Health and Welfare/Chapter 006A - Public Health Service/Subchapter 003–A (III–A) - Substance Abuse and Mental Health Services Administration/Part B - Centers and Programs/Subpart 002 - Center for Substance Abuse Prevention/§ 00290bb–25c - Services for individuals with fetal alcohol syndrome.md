@@ -76,7 +76,7 @@ The Secretary shall evaluate each project carried out under subsection (a) of th
 
 #### Amendments
 
-2007—Subsec. (g)(2). Pub. L. 110–154, which directed substitution of “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”, was executed by making the substitution for “National Institute on Child Health and Human Development” to reflect the probable intent of Congress.
+<b>2007</b>—Subsec. (g)(2). Pub. L. 110–154, which directed substitution of “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”, was executed by making the substitution for “National Institute on Child Health and Human Development” to reflect the probable intent of Congress.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “provide”.</i>
 

@@ -62,7 +62,7 @@ The requirements of this section shall not apply with respect to health insuranc
 
 #### Amendments
 
-1998—Subsecs. (e), (f). Pub. L. 105–206 redesignated subsec. (f) as (e).
+<b>1998</b>—Subsecs. (e), (f). Pub. L. 105–206 redesignated subsec. (f) as (e).
 
 #### Effective Date of 1998 Amendment
 

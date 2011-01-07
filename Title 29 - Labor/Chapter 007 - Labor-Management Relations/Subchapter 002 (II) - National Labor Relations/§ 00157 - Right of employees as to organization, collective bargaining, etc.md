@@ -6,7 +6,7 @@ Employees shall have the right to self-organization, to form, join, or assist la
 
 #### Amendments
 
-1947—Act June 23, 1947, restated rights of employees to bargain collectively and inserted provision that they have right to refrain from joining in concerted activities with their fellow employees.
+<b>1947</b>—Act June 23, 1947, restated rights of employees to bargain collectively and inserted provision that they have right to refrain from joining in concerted activities with their fellow employees.
 
 #### Effective Date of 1947 Amendment
 

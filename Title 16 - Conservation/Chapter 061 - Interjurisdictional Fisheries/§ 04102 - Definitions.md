@@ -42,7 +42,7 @@ Proclamation Numbered 5030, referred to in par. (3)(A), is set out under section
 
 #### Amendments
 
-1996—Par. (1). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+<b>1996</b>—Par. (1). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
 #### Effective Date of 1996 Amendment
 

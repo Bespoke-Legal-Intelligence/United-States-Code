@@ -20,15 +20,15 @@ Changes were made in phraseology.
 
 #### Amendments
 
-2002—Pub. L. 107–273 substituted “to facilitate” for “to facility” in third par.
+<b>2002</b>—Pub. L. 107–273 substituted “to facilitate” for “to facility” in third par.
 
-1996—Pub. L. 104–294, §607(n)(1), struck out “or possession” after “or a State” in first par.
+<b>1996</b>—Pub. L. 104–294, §607(n)(1), struck out “or possession” after “or a State” in first par.
 
 Pub. L. 104–294, §607(n)(2), added last par. defining “State” for purposes of this section.
 
 Pub. L. 104–208 substituted “imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense)” for “imprisoned not more than 10 years” in third par.
 
-1994—Pub. L. 103–322, §330016(1)(G), which directed the amendment of this section by substituting “under this title” for “not more than $500”, could not be executed because the words “not more than $500” did not appear in text subsequent to amendment by Pub. L. 103–322, §130009(a)(1). See below.
+<b>1994</b>—Pub. L. 103–322, §330016(1)(G), which directed the amendment of this section by substituting “under this title” for “not more than $500”, could not be executed because the words “not more than $500” did not appear in text subsequent to amendment by Pub. L. 103–322, §130009(a)(1). See below.
 
 Pub. L. 103–322, §130009(a)(1), substituted “under this title, imprisoned not more than 10 years” for “not more than $500 or imprisoned not more than one year” in last par.
 

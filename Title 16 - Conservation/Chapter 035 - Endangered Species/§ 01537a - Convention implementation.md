@@ -38,7 +38,7 @@ If the United States votes against including any species in Appendix I or II of 
 
 #### Amendments
 
-1982—Subsec. (c). Pub. L. 97–304, §5\[(a)\](1), designated existing provisions as par. (1) and added par. (2).
+<b>1982</b>—Subsec. (c). Pub. L. 97–304, §5\[(a)\](1), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (d). Pub. L. 97–304, §5\[(a)\](2), substituted provisions relating to reservations by the United States under the Convention for provisions which had established an International Convention Advisory Commission and had provided for its membership, staffing, and operation.
 

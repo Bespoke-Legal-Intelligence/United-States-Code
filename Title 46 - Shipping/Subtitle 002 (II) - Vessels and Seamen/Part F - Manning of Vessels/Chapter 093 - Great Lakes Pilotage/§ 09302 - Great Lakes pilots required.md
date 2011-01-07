@@ -50,13 +50,13 @@ Subsections (d) and (e) are exceptions to subsection (a). Subsection (d) permits
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–324, §1115(b)(5), substituted “subsections (d), (e), and (f)” for “subsections (d) and (e)”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–324, §1115(b)(5), substituted “subsections (d), (e), and (f)” for “subsections (d) and (e)”.
 
 Subsec. (e). Pub. L. 104–324, §1115(b)(6), substituted “subsection (a)” for “subsections (a) and (b)”.
 
 Subsec. (f). Pub. L. 104–324, §1115(b)(7), added subsec. (f).
 
-1990—Subsec. (b). Pub. L. 101–380 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “An individual of a vessel licensed for navigation on the Great Lakes under section 7101 of this title, or equivalent provisions of Canadian law, and qualified for the route being navigated, may serve as the pilot required on waters not designated by the President.”
+<b>1990</b>—Subsec. (b). Pub. L. 101–380 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “An individual of a vessel licensed for navigation on the Great Lakes under section 7101 of this title, or equivalent provisions of Canadian law, and qualified for the route being navigated, may serve as the pilot required on waters not designated by the President.”
 
 #### Effective Date of 1990 Amendment
 
@@ -74,7 +74,7 @@ NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of Ameri
 
 (1) <i>District 1</i>. All United States waters of the St. Lawrence River between the international boundary at St. Regis and a line at the head of the river running (at approximately 127° true) between Carruthers Point Light and South Side Light extended to the New York shore.
 
-(2) <i>District 2</i>. All United States waters of Lake Erie westward of a line running (at approximately 026° true) from Sandusky Pierhead Light at Cedar Point to Southeast Shoal Light; all waters contained within thearc of a circle of one mile radius eastward of Sandusky Pierhead Light; the Detroit River; Lake St. Clair; the St. Clair River, and northern approaches thereto south of latitude 43°05′30″ N.
+(2) <i>District 2</i>. All United States waters of Lake Erie westward of a line running (at approximately 026° true) from Sandusky Pierhead Light at Cedar Point to Southeast Shoal Light; all waters contained within the arc of a circle of one mile radius eastward of Sandusky Pierhead Light; the Detroit River; Lake St. Clair; the St. Clair River, and northern approaches thereto south of latitude 43°05′30″ N.
 
 (3) <i>District 3</i>. All United States waters of the St. Marys River, Sault Sainte Marie Locks and approaches thereto between latitude 45°59′ N. at the southern approach and longitude 84°33′ W. at the northern approach.
 

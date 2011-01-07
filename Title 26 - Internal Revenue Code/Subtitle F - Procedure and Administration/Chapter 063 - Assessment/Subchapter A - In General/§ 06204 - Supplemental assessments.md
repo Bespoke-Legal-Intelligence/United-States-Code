@@ -12,9 +12,9 @@ The Secretary may, at any time within the period prescribed for assessment, make
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1974—Subsec. (b). Pub. L. 93–406 substituted “gift, and certain excise taxes” for “and gift taxes”.
+<b>1974</b>—Subsec. (b). Pub. L. 93–406 substituted “gift, and certain excise taxes” for “and gift taxes”.
 
 #### Effective Date of 1974 Amendment
 

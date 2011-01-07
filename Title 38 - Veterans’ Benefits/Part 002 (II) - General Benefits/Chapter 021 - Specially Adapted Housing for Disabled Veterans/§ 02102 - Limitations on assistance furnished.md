@@ -8,7 +8,7 @@
 
 &emsp;(3) where the individual elects to remodel a dwelling which is not adapted to the requirements of such individual's disability, acquired by such individual prior to application for assistance under this chapter, the Secretary shall pay not to exceed (A) the cost to the individual of such remodeling; or (B) 50 percent of the cost to the individual of such remodeling; plus the smaller of the following sums: (i) 50 percent of the cost to the individual of such dwelling and the necessary land upon which it is situated, or (ii) the full amount of the unpaid balance, if any, of the cost to the individual of such dwelling and the necessary land upon which it is situated; and
 
-&emsp;(4) where the individual has acquired a suitable housing unit, the Secretary shall pay not to exceed the smaller of the following sums: (A) 50 percent of the cost to the individual of such housing unit and the necessary land upon which it is situated, or (B) the full amount of the unpaid balance, if any, of the cost to theindividual of such housing unit and the necessary land upon which it is situated.
+&emsp;(4) where the individual has acquired a suitable housing unit, the Secretary shall pay not to exceed the smaller of the following sums: (A) 50 percent of the cost to the individual of such housing unit and the necessary land upon which it is situated, or (B) the full amount of the unpaid balance, if any, of the cost to the individual of such housing unit and the necessary land upon which it is situated.
 
 (b) Except as provided in section 2104(b) of this title, the assistance authorized by section 2101(b) of this title shall be limited to the lesser of—
 
@@ -34,7 +34,7 @@
 
 (3) The Secretary shall establish a residential home cost-of-construction index for the purposes of this subsection. The index shall reflect a uniform, national average change in the cost of residential home construction, determined on a calendar year basis. The Secretary may use an index developed in the private sector that the Secretary determines is appropriate for purposes of this subsection.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, §802; Pub. L. 91–22, §2, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §6, Oct. 23, 1970, 84 Stat. 1113; Pub. L. 92–341, July 10, 1972, 86 Stat. 432; Pub. L. 93–569, §9, Dec. 31, 1974, 88 Stat. 1867; Pub. L. 95–476, title I, §101, Oct. 18, 1978, 92 Stat. 1497; Pub. L. 96–385, title III, §301(b), Oct. 7, 1980, 94 Stat. 1531; Pub. L. 97–66, title V, §502, Oct. 17, 1981, 95 Stat. 1032; Pub. L. 97–295, §4(33), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 98–543, title III, §304(a), Oct. 24, 1984, 98 Stat. 2748; Pub. L. 99–576, title IV, §401(b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–322, title III, §301, May 20, 1988, 102 Stat. 534; renumbered §2102 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–178, title VIII, §8204(a), June 9, 1998, 112 Stat. 494; Pub. L. 106–419, title III, §321, Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–103, title IV, §404, Dec. 27, 2001, 115 Stat. 993; Pub. L. 108–183, title IV, §402(a), Dec. 16, 2003, 117 Stat. 2664; Pub. L. 109–233, title I, §101(b), June 15, 2006, 120 Stat. 398; Pub. L. 110–289, div. B, title VI, §§2602(b)(2), 2605(a), July 30, 2008, 122 Stat. 2859, 2861.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, §802; Pub. L. 91–22, §2, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §6, Oct. 23, 1970, 84 Stat. 1113; Pub. L. 92–341, July 10, 1972, 86 Stat. 432; Pub. L. 93–569, §9, Dec. 31, 1974, 88 Stat. 1867; Pub. L. 95–476, title I, §101, Oct. 18, 1978, 92 Stat. 1497; Pub. L. 96–385, title III, §301(b), Oct. 7, 1980, 94 Stat. 1531;Pub. L. 97–66, title V, §502, Oct. 17, 1981, 95 Stat. 1032; Pub. L. 97–295, §4(33), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 98–543, title III, §304(a), Oct. 24, 1984, 98 Stat. 2748; Pub. L. 99–576, title IV, §401(b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–322, title III, §301, May 20, 1988, 102 Stat. 534; renumbered §2102 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–178, title VIII, §8204(a), June 9, 1998, 112 Stat. 494; Pub. L. 106–419, title III, §321, Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–103, title IV, §404, Dec. 27, 2001, 115 Stat. 993; Pub. L. 108–183, title IV, §402(a), Dec. 16, 2003, 117 Stat. 2664; Pub. L. 109–233, title I, §101(b), June 15, 2006, 120 Stat. 398; Pub. L. 110–289, div. B, title VI, §§2602(b)(2), 2605(a), July 30, 2008, 122 Stat. 2859, 2861.)
 
 #### Prior Provisions
 
@@ -42,7 +42,7 @@ Prior section 2102, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1223, related to d
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–289, §2602(b)(2)(A)(i), substituted “individual” for “veteran” wherever appearing.
+<b>2008</b>—Subsec. (a). Pub. L. 110–289, §2602(b)(2)(A)(i), substituted “individual” for “veteran” wherever appearing.
 
 Subsec. (a)(3). Pub. L. 110–289, §2602(b)(2)(A)(ii), substituted “individual's” for “veteran's”.
 
@@ -60,25 +60,25 @@ Subsec. (d)(2). Pub. L. 110–289, §2605(a)(2)(B), substituted “$12,000” fo
 
 Subsec. (e). Pub. L. 110–289, §2605(a)(3), added subsec. (e).
 
-2006—Subsec. (a). Pub. L. 109–233, §101(b)(1), in introductory provisions, struck out “shall be limited in the case of any veteran to one housing unit, and necessary land therefor, and” before “shall be afforded” and substituted “veteran—” for “veteran but shall not exceed $50,000 in any one case—”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–233, §101(b)(1), in introductory provisions, struck out “shall be limited in the case of any veteran to one housing unit, and necessary land therefor, and” before “shall be afforded” and substituted “veteran—” for “veteran but shall not exceed $50,000 in any one case—”.
 
 Subsec. (d). Pub. L. 109–233, §101(b)(2), added subsec. (d).
 
-2003—Subsec. (a). Pub. L. 108–183, §402(a)(1), substituted “$50,000” for “$48,000” in introductory provisions.
+<b>2003</b>—Subsec. (a). Pub. L. 108–183, §402(a)(1), substituted “$50,000” for “$48,000” in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 108–183, §402(a)(2), substituted “$10,000” for “$9,250”.
 
-2001—Subsec. (a). Pub. L. 107–103, §404(1), substituted “$48,000” for “$43,000” in introductory provisions.
+<b>2001</b>—Subsec. (a). Pub. L. 107–103, §404(1), substituted “$48,000” for “$43,000” in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 107–103, §404(2), substituted “$9,250” for “$8,250”.
 
-2000—Subsec. (c). Pub. L. 106–419 added subsec. (c).
+<b>2000</b>—Subsec. (c). Pub. L. 106–419 added subsec. (c).
 
-1998—Subsec. (a). Pub. L. 105–178, §8204(a)(1), substituted “$43,000” for “$38,000” in introductory provisions.
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §8204(a)(1), substituted “$43,000” for “$38,000” in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 105–178, §8204(a)(2), substituted “$8,250” for “$6,500”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 802 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 802 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “2101(a)” for “801(a)” in introductory provisions.
 
@@ -88,35 +88,35 @@ Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “2104(b)” for “804(b
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in par. (1).
 
-1988—Subsec. (a). Pub. L. 100–322, §301(1), substituted “$38,000” for “$35,500”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–322, §301(1), substituted “$38,000” for “$35,500”.
 
 Subsec. (b)(2). Pub. L. 100–322, §301(2), substituted “$6,500” for “$6,000”.
 
-1986—Subsec. (b)(1). Pub. L. 99–576 substituted “cost, or, in the case of a veteran acquiring a residence already adapted with special features, the fair market value,” for “cost”.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–576 substituted “cost, or, in the case of a veteran acquiring a residence already adapted with special features, the fair market value,” for “cost”.
 
-1984—Subsec. (a). Pub. L. 98–543, §304(a)(1), substituted “$35,500” for “$32,500” in provisions before par. (1).
+<b>1984</b>—Subsec. (a). Pub. L. 98–543, §304(a)(1), substituted “$35,500” for “$32,500” in provisions before par. (1).
 
 Subsec. (b)(2). Pub. L. 98–543, §304(a)(2), substituted “$6,000” for “$5,000”.
 
-1982—Subsec. (a). Pub. L. 97–295 substituted “percent” for “per centum” wherever appearing.
+<b>1982</b>—Subsec. (a). Pub. L. 97–295 substituted “percent” for “per centum” wherever appearing.
 
-1981—Subsec. (a). Pub. L. 97–66, §502(1), substituted “$32,500” for “$30,000” in provisions preceding par. (1), “such veteran” for “him” in pars. (1), (2), and (3), and “such veteran's” for “his” in par. (3).
+<b>1981</b>—Subsec. (a). Pub. L. 97–66, §502(1), substituted “$32,500” for “$30,000” in provisions preceding par. (1), “such veteran” for “him” in pars. (1), (2), and (3), and “such veteran's” for “his” in par. (3).
 
 Subsec. (b). Pub. L. 97–66, §502(2), substituted “section 804(b)” for “section 804(b)(2)”.
 
-1980—Subsec. (a). Pub. L. 96–385, §301(b)(1), (2), designated existing provisions as subsec. (a) and substituted “section 801(a)” for “section 801”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–385, §301(b)(1), (2), designated existing provisions as subsec. (a) and substituted “section 801(a)” for “section 801”.
 
 Subsec. (b). Pub. L. 96–385, §301(b)(3), added subsec. (b).
 
-1978—Pub. L. 95–476 substituted “$30,000” for “$25,000”.
+<b>1978</b>—Pub. L. 95–476 substituted “$30,000” for “$25,000”.
 
-1974—Pub. L. 93–569 substituted “$25,000” for “$17,500”.
+<b>1974</b>—Pub. L. 93–569 substituted “$25,000” for “$17,500”.
 
-1972—Pub. L. 92–341 substituted “$17,500” for “$12,500”.
+<b>1972</b>—Pub. L. 92–341 substituted “$17,500” for “$12,500”.
 
-1970—Par. (3). Pub. L. 91–506 inserted provision authorizing Administrator in the case of assistance to disabled veterans for specially adapted housing, where the veteran elects to remodel a dwelling not adapted to his disability, to pay the cost of remodeling as an alternative to the present provisions still set out in this par. which authorize the Administrator to pay the total of 50 percent of the remodeling cost plus 50 percent of the dwelling's cost or the full amount of the unpaid balance of the cost of such dwelling, whichever sum is smaller.
+<b>1970</b>—Par. (3). Pub. L. 91–506 inserted provision authorizing Administrator in the case of assistance to disabled veterans for specially adapted housing, where the veteran elects to remodel a dwelling not adapted to his disability, to pay the cost of remodeling as an alternative to the present provisions still set out in this par. which authorize the Administrator to pay the total of 50 percent of the remodeling cost plus 50 percent of the dwelling's cost or the full amount of the unpaid balance of the cost of such dwelling, whichever sum is smaller.
 
-1969—Pub. L. 91–22 substituted “$12,500” for “$10,000”.
+<b>1969</b>—Pub. L. 91–22 substituted “$12,500” for “$10,000”.
 
 #### Effective Date of 2008 Amendment
 

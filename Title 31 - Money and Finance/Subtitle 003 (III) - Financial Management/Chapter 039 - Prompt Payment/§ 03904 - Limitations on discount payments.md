@@ -22,7 +22,7 @@ The word “otherwise” is omitted as surplus. The words “may pay the discoun
 
 #### Amendments
 
-1988—Pub. L. 100–496 inserted after first sentence “For the purpose of the preceding sentence, the specified time shall be determined from the date of the invoice.”
+<b>1988</b>—Pub. L. 100–496 inserted after first sentence “For the purpose of the preceding sentence, the specified time shall be determined from the date of the invoice.”
 
 #### Effective Date of 1988 Amendment
 

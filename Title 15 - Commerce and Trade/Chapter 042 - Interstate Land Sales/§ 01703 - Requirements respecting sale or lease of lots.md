@@ -2,7 +2,7 @@
 
 #### (a) Prohibited activities
 
-It shall be unlawful for any developer or agent, directly or indirectly, to make use of any means or instruments of transportation or communication in interstate commerce, or of the mails—
+It shall be unlawful for any developer or agent, directly or indirectly, to make use of anymeans or instruments of transportation or communication in interstate commerce, or of the mails—
 
 &emsp;(1) with respect to the sale or lease of any lot not exempt under section 1702 of this title—
 
@@ -52,13 +52,13 @@ If a contract or agreement is revoked pursuant to subsection (b), (c), or (d) of
 
 #### Amendments
 
-1979—Subsec. (a). Pub. L. 96–153 substituted provisions setting forth criteria in par. (1) with respect to the sale or lease of any lot not exempt under section 1702 of this title, for provisions relating to the sale or lease of any lot in any subdivision with accompanying required statement of record and printed property report, and in par. (2) with respect to the sale or lease, or offer to sell or lease, any lot not exempt under section 1702(a) of this title, for provisions relating to the sale or lease, or offer to sell or lease, any lot in a subdivision through the use of specified prohibited activities.
+<b>1979</b>—Subsec. (a). Pub. L. 96–153 substituted provisions setting forth criteria in par. (1) with respect to the sale or lease of any lot not exempt under section 1702 of this title, for provisions relating to the sale or lease of any lot in any subdivision with accompanying required statement of record and printed property report, and in par. (2) with respect to the sale or lease, or offer to sell or lease, any lot not exempt under section 1702(a) of this title, for provisions relating to the sale or lease, or offer to sell or lease, any lot in a subdivision through the use of specified prohibited activities.
 
 Subsec. (b). Pub. L. 96–153 substituted provisions relating to revocation of contracts or agreements for the sale or lease of a lot not exempt under section 1702 of this title, for provisions relating to voidability of contracts or agreements for the purchase or lease of lots in subdivisions covered by this chapter.
 
 Subsecs. (c) to (e). Pub. L. 96–153 added subsecs. (c) to (e).
 
-1974—Subsec. (b). Pub. L. 383 substituted “until midnight of the third business day following the consummation of the transaction” for “within forty-eight hours” and struck out provisions relating to exceptions of contracts or agreements stipulating to the nonapplicability of the revocation authority to certain purchasers.
+<b>1974</b>—Subsec. (b). Pub. L. 383 substituted “until midnight of the third business day following the consummation of the transaction” for “within forty-eight hours” and struck out provisions relating to exceptions of contracts or agreements stipulating to the nonapplicability of the revocation authority to certain purchasers.
 
 #### Effective Date of 1979 Amendment
 

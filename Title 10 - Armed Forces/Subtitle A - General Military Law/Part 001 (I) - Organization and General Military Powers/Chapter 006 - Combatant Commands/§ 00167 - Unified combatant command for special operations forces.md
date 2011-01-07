@@ -74,7 +74,7 @@ Authority of Combatant Commander.—(1) In addition to the authority prescribed 
 
 (ii) The command acquisition executive of the special operations command shall be included on the distribution list for acquisition directives and instructions of the Department of Defense.
 
-(D) The staff of the commander shall include an inspector general who shall conduct internalaudits and inspections of purchasing and contracting actions through the special operations command and such other inspector general functions as may be assigned.
+(D) The staff of the commander shall include an inspector general who shall conduct internal audits and inspections of purchasing and contracting actions through the special operations command and such other inspector general functions as may be assigned.
 
 (f)
 
@@ -148,17 +148,17 @@ Pub. L. 99–661 and Pub. L. 99–500 added identical sections.
 
 #### Amendments
 
-2008—Subsec. (e)(4)(C), (D). Pub. L. 110–181 added subpar. (C) and redesignated former subpar. (C) as (D).
+<b>2008</b>—Subsec. (e)(4)(C), (D). Pub. L. 110–181 added subpar. (C) and redesignated former subpar. (C) as (D).
 
-1994—Subsec. (k). Pub. L. 103–337 added subsec. (k).
+<b>1994</b>—Subsec. (k). Pub. L. 103–337 added subsec. (k).
 
-1991—Subsec. (g). Pub. L. 102–88 substituted “would require a notice” for “would require—
+<b>1991</b>—Subsec. (g). Pub. L. 102–88 substituted “would require a notice” for “would require—
 
 &emsp;“(1) a finding under section 662 of the Foreign Assistance Act of 1961 (22 U.S.C. 2422); or
 
 &emsp;“(2) a notice” and “title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.)” for “section 501(a)(1) of the National Security Act of 1947 (50 U.S.C. 413)”.
 
-1988—Subsec. (e). Pub. L. 100–456 revised and restated subsec. (e). Prior to amendment, subsec. (e) read as follows:
+<b>1988</b>—Subsec. (e). Pub. L. 100–456 revised and restated subsec. (e). Prior to amendment, subsec. (e) read as follows:
 
 “(1) In addition to the authority prescribed in section 164(c) of this title, the commander of the special operations command shall be responsible for, and shall have the authority to conduct, all affairs of such command relating to special operations activities, including the following functions:
 
@@ -186,11 +186,49 @@ Pub. L. 99–661 and Pub. L. 99–500 added identical sections.
 
 “(3) Subject to the authority, direction, and control of the Secretary of Defense, the commander of the command, in carrying out his functions under paragraph (1)(G), shall have authority to exercise the functions of the head of an agency under chapter 137 of this title. The staff of the commander shall include an inspector general who shall conduct internal audits and inspections of purchasing and contracting actions through the special operations command and such other inspector general functions as may be assigned.”
 
-1987—Subsec. (e)(3). Pub. L. 100–180 added par. (3).
+<b>1987</b>—Subsec. (e)(3). Pub. L. 100–180 added par. (3).
 
 #### Effective Date
 
 Section 101(c) \[§9115(i)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 1311(i) of Pub. L. 99–661, provided that: “Section 167 of title 10, United States Code (as added by subsection (b)), shall be implemented not later than 180 days after the date of the enactment of this Act \[Oct. 18, 1986\].”
+
+#### Quarterly Reports on Use of Combat Mission Requirements Funds
+
+Pub. L. 111–383, div. A, title I, §123, Jan. 7, 2011, 124 Stat. 4158, provided that:
+
+“(a)
+
+Quarterly Reports Required.—
+
+&emsp;“(1)
+
+In general.—Not later than 30 days after the end of each fiscal quarter, the commander of the United States Special Operations Command shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of Combat Mission Requirements funds during the preceding fiscal quarter.
+
+&emsp;“(2)
+
+Combat mission requirements funds.—For purposes of this section, Combat Mission Requirements funds are amounts available to the Department of Defense for Defense-wide procurement in the Combat Mission Requirements subaccount of the Defense-wide Procurement account.
+
+“(b)
+
+Elements.—Each report under subsection (a) shall include, for the fiscal quarter covered by such report, the following:
+
+&emsp;“(1) The balance of the Combat Mission Requirements subaccount at the beginning of such quarter.
+
+&emsp;“(2) The balance of the Combat Mission Requirements subaccount at the end of such quarter.
+
+&emsp;“(3) Any transfer of funds into or out of the Combat Mission Requirements subaccount during such quarter, including the source of any funds transferred into the subaccount, and the objective of any transfer of funds out of the subaccount.
+
+&emsp;“(4) A description of any requirement—
+
+&emsp;&emsp;“(A) approved for procurement using Combat Mission Requirements funds during such quarter; or
+
+&emsp;&emsp;“(B) procured using such funds during such quarter.
+
+&emsp;“(5) With respect to each description of a requirement under paragraph (4), the amount of Combat Mission Requirements funds committed to the procurement or approved procurement of such requirement.
+
+“(c)
+
+Form.—Each report under subsection (a) shall be submitted in unclassified form, but may include a classified annex.”
 
 #### Resources for CINCSOF
 
